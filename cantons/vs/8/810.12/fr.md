@@ -1,137 +1,106 @@
 ---
 canton: VS
 number: "810.12"
-title: "Ordonnance sur les autorisations d'exploiter un établissement ou une institution sanitaire"
+title: "Ordonnance sur les autorisations d'exploiter une institution sanitaire"
 language: fr
-version: 1996-12-01
-corrected: 2017-10-06
-version_adopted: 1997-03-26
+version: 2021-10-01
+version_adopted: 2021-09-01
 adopted: 2021-09-01
 in_force: 2021-10-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/810.12"
-pdf: "https://lex.vs.ch/api/fr/versions/242/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2953/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur les autorisations d'exploiter un établissement ou une institution sanitaire
+# Ordonnance sur les autorisations d'exploiter une institution sanitaire
 
-du 26 mars 1997
+du 01.09.2021 (état 01.10.2021)
 
 Le Conseil d'Etat du canton du Valais,
 
-vu la loi du 9 février 1996 sur la santé, notamment le titre sixième;
+vu le chapitre 5 de la loi sur la santé du 12 mars 2020 (LS);
 
-sur la proposition du Département de la santé publique,
+vu la loi sur l'intégration des personnes handicapées du 31 janvier 1991;
 
-ordonne
+sur la proposition du département en charge de la santé,
 
-### Section 1: Dispositions générales
+ordonne:
 
-#### Article premier
+## 1 Dispositions générales
+
+#### Art. 1
 
 **But**
 
-<sup>1</sup> La présente ordonnance a pour but de préciser les dispositions légales qui fixent les conditions auxquelles l'exploitation d'un établissement ou d'une institution sanitaire peut être autorisée.
-
-<sup>2</sup> Pour chaque catégorie d'établissements ou d'institutions sanitaires, le Département de la santé publique (ci-après le Département), après consultation des milieux concernés et, au besoin, d'experts, peut rédiger des directives précisant les aspects techniques et évolutifs des conditions d'autorisation portant notamment sur la définition et la dénomination de l'établissement, les qualifications professionnelles des responsables et du personnel, les exigences concernant les locaux et les équipements ainsi que sur les exigences d'hygiène, de qualité et de sécurité.
+<sup>1</sup> La présente ordonnance a pour but de préciser les dispositions qui fixent les conditions auxquelles l'exploitation d'une institution sanitaire peut être autorisée.
 
 #### Art. 2
 
 **Régime d'autorisation**
 
-La création, l'extension, la transformation et l'exploitation de tout établissement, ou institution sanitaire, public ou privé, ayant pour but la promotion, l'amélioration, la conservation ou le rétablissement de la santé dont les prestations relèvent notamment du domaine de la prévention, du diagnostic, de l'aide et des soins, du traitement, de la réadaptation, du transport, de l'hébergement et de l'encadrement des patients sont soumis à autorisation du Département.
+<sup>1</sup> La création, l'extension, la transformation et l'exploitation de toute institution sanitaire, publique ou privée, ayant pour but la promotion, l'amélioration, la conservation ou le rétablissement de la santé dont les prestations relèvent notamment du domaine de la prévention, du diagnostic, de l'aide et des soins curatifs et palliatifs, du traitement, de la réadaptation, du transport, de l'hébergement et de l'encadrement des patients sont soumis à autorisation du Département en charge de la santé publique (ci-après: le département).
 
 #### Art. 3
 
-**Catégories**
+**Liste des institutions soumises à autorisation**
 
-<sup>1</sup> Les établissements et institutions sanitaires se répartissent dans les catégories suivantes:
+<sup>1</sup> Les institutions sanitaires suivantes sont soumises à autorisation:
 
-- a) établissements hospitaliers et semi-hospitaliers;
-
-- b) établissements offrant des prestations diagnostiques et thérapeutiques en ambulatoire, à l'exclusion des cabinets médicaux et des cabinets privés d'autres professionnels de la santé;
-
-- c) établissements médico-sociaux pour personnes âgées et autres établissements analogues;
-
-- d) instituts médico-techniques liés aux hôpitaux;
-
-- e) laboratoires d'analyses médicales;
-
-- f) centres de recherche;
-
-- g) centres médico-sociaux et autres établissements ou institutions analogues;
-
-- h) établissements de cure balnéaire;
-
-- i) ligues de santé et autres institutions spécialisées.
-
-- j) autres établissements ou institutions analogues aux catégories précitées ou intermédiaires.
-
-<sup>2</sup> Les dispositions concernant l'exploitation des pharmacies, drogueries et commerces en gros de médicaments sont prévues dans l'ordonnance du 20 novembre 1996 sur le contrôle des médicaments.
-
-<sup>3</sup> Les dispositions concernant l'exploitation des entreprises et institutions de secours sont prévues dans la loi du 27 mars 1996 sur l'organisation des secours et son ordonnance d'application du 20 novembre 1996.
-
-<sup>4</sup> Les dispositions concernant 1'exploitation des établissements ou institutions pour toxicomanes sont prévues dans l'ordonnance du 20 novembre 1996 sur les toxicomanies.
-
-<sup>5</sup> Les dispositions concernant l'exploitation de centres de transfusion sanguine sont prévues dans la législation fédérale en la matière.
-
-<sup>6</sup> Les dispositions concernant l'exploitation d'installations émettant des rayons ionisants sont prévues dans la législation fédérale en matière de radioprotection.
-
-<sup>7</sup> Les dispositions concernant l'exploitation de laboratoires de microbiologie et de sérologie sont prévues dans la législation fédérale en la matière.
+- a) hôpitaux;
+- b) établissements médicaux-sociaux (EMS), y compris les hospices de soins palliatifs;
+- c) organisations de soins et d'aide à domicile (OSAD);
+- d) structure de soins de jour et de nuit;
+- e) certaines structures de soins ambulatoires: maisons de santé, centres chirurgicaux, autres structures utilisant un numéro de facturation collectif selon le degré de complexité de prise en charge ou organisationnelle;
+- f) instituts médico-techniques, notamment: laboratoire, pharmacie, radiologie, imagerie médicale, centre de transfusion;
+- g) institutions mettant à disposition des patients des moyens de télémédecine dans le canton au sens de l’article 106 LS.
 
 #### Art. 4
 
 **Conditions**
 
-L'autorisation est délivrée à l'établissement ou l'institution sanitaire qui, en fonction des buts poursuivis, des prestations offertes et, le cas échéant, de la capacité d'accueil prévue:
+<sup>1</sup> L'autorisation est délivrée à l'institution sanitaire qui, en fonction des buts poursuivis, des prestations offertes et, le cas échéant, de la capacité d'accueil prévue:
 
 - a) est dirigé par un ou des responsables qui possèdent la formation et les titres nécessaires;
-
 - b) dispose du personnel qualifié en nombre suffisant;
-
 - c) est organisé de manière à atteindre les buts poursuivis;
-
 - d) dispose de l'équipement nécessaire;
+- e) dispose de locaux fonctionnels qui répondent aux exigences d'hygiène et de sécurité des patients;
+- f) dispose d'une assurance en responsabilité civile pour couvrir les risques encourus en fonction du type d'activité considéré;
+- g) présente un "business plan" permettant de garantir la pérennité de la prise en charge.
 
-- e) dispose de locaux fonctionnels qui répondent aux exigences d'hygiène, de qualité et de sécurité.
+<sup>2</sup> Pour chaque catégorie d'institutions sanitaires, le département peut rédiger des directives précisant les aspects techniques et évolutifs des conditions d'autorisation portant notamment sur la définition et la dénomination de l’institution, les qualifications professionnelles des personnes responsables et du personnel, les exigences concernant les locaux et les équipements ainsi que sur les exigences d'hygiène, de qualité et de sécurité.
+
+<sup>3</sup> Les institutions autorisées doivent fournir gratuitement et dans les délais impartis par le Service de la santé publique les données statistiques nécessaires notamment au contrôle de la mise en œuvre des dispositions de la présente ordonnance.
 
 #### Art. 5
 
-**Délivrance**
+**Procédure**
 
-<sup>1</sup> La personne physique ou morale qui souhaite exploiter un établissement ou une institution sanitaire doit adresser une demande écrite au Département.
+<sup>1</sup> La personne physique ou morale qui souhaite exploiter une institution sanitaire doit adresser une demande écrite au Service de la santé publique.
 
 <sup>2</sup> Elle doit y joindre les informations et documents suivants:
 
 - a) curriculum vitae de la (ou des) personne(s) responsable(s) de l'exploitation accompagné d'un extrait du casier judiciaire, ou ses statuts ou son acte constitutif s'il s'agit d'une personne morale;
-
 - b) la désignation de la (ou des) personne(s) responsable(s) de l'exploitation;
-
-- c) une description du genre d'établissement ou d'institution ainsi que, le cas échéant, une indication du nombre de lits;
-
+- c) une description du genre d'institution ainsi que, le cas échéant, une indication du nombre de lits;
 - d) l'indication des postes de personnel médical, de personnel soignant et de personnel administratif ou technique prévus pour l'exploitation;
+- e) une présentation de l'équipement technique, qui doit répondre aux directives émises par le département pour chaque catégorie d'institution;
+- f) les plans du(des) immeuble(s), accompagnés d'un état descriptif;
+- g) le "business plan";
+- h) tout autre document ou renseignement requis par le département, en fonction des caractéristiques de chaque institution.
 
-- e) une présentation de l'équipement technique, qui doit répondre aux directives émises par le Département pour chaque catégorie d'établissement ou d'institution après consultation des milieux concernés:
-
-- f) les plans du (des) immeuble(s), accompagnés d'un état descriptif;
-
-- g) tout autre document ou renseignement requis par le Département, en fonction des caractéristiques de chaque établissement ou institution.
-
-<sup>3</sup> En cas d'extension ou de transformation d'un établissement ou d'une institution déjà autorisée, seules les informations relatives aux modifications apportées sont nécessaires.
+<sup>3</sup> En cas d'extension ou de transformation d'une institution déjà autorisée, seules les informations relatives aux modifications apportées sont nécessaires.
 
 <sup>4</sup> L'autorisation n'est pas transmissible.
 
 #### Art. 6
 
-**Dénomination; publicité**
+**Dénomination**
 
-<sup>1</sup> Le Département détermine de quelle manière l'établissement ou l'institution peut s'intituler.
+<sup>1</sup> Le département détermine de quelle manière l'institution peut s'intituler.
 
 <sup>2</sup> Les expressions telles que "hôpital, clinique, préventorium, sanatorium, établissement ou institution à caractère médical ou médico-social, policlinique, permanence, centre, institut" ne peuvent être employées que si l'autorisation en admet expressément l'usage.
-
-<sup>3</sup> En principe, les établissements et institutions sanitaires ne peuvent pas faire de la publicité. Les usages en vigueur, notamment concernant l'ouverture et la fermeture d'établissements ou d'institutions, les prestations offertes, ainsi que le nom et les titres du ou des responsables sont exceptés; ils font l'objet de directives, rédigées par la Commission de surveillance des professions de la santé et approuvées par le Département.
 
 #### Art. 7
 
@@ -139,76 +108,95 @@ L'autorisation est délivrée à l'établissement ou l'institution sanitaire qui
 
 <sup>1</sup> La demande est refusée si les conditions posées pour l'exploitation ne sont pas remplies.
 
-<sup>2</sup> Elle peut être limitée ou retirée pour des motifs d'intérêt public, en particulier si les conditions de son octroi ne sont plus réalisées, si le ou les responsables manquent gravement à leurs devoirs professionnels ou si la surveillance révèle d'autres manquements graves dans la gestion de l'établissement ou de l'institution ou dans la qualité des prestations offertes.
+<sup>2</sup> Elle peut être limitée ou retirée notamment:
 
-<sup>3</sup> Le retrait ou la limitation de l'autorisation sont rendus publics.
+- a) si l’une des conditions de sa délivrance n’est pas ou plus réalisée;
+- b) si la ou les personnes responsables ne respectent pas, de manière grave ou répétée, leurs devoirs découlant de la loi sur la santé;
+- c) en cas de manquements graves ou répétés, dans la gestion ou l'organisation de l'institution sanitaire, qui en compromettent la mission;
+- d) en cas de manquements graves ou répétés dans la qualité de la prise en charge.
+
+<sup>3</sup> Le retrait de l'autorisation est rendu public; la limitation peut l'être.
 
 #### Art. 8
 
-**Durée de l'autorisation; renouvellement**
+**Durée de l'autorisation et renouvellement**
 
-<sup>1</sup> L'autorisation est délivrée en principe pour cinq ans.
+<sup>1</sup> L'autorisation est délivrée en principe pour 5 ans.
 
-<sup>2</sup> Sur demande de l'établissement ou de l'institution sanitaire, l'autorisation peut être renouvelée si les conditions de son octroi sont toujours remplies.
+<sup>2</sup> Le renouvellement se fait tacitement, à condition que les exigences requises pour son octroi soient encore respectées.
 
 #### Art. 9
 
 **Devoir d'information**
 
-Toute modification relative aux conditions d'octroi de l'autorisation doit être communiquée sans retard au service de la santé publique.
+<sup>1</sup> Toute modification relative aux conditions d'octroi de l'autorisation doit être communiquée sans retard au Service de la santé publique, qui examine si les conditions de délivrance sont toujours respectées.
 
 #### Art. 10
 
-**Surveillance, inspection**
+**Surveillance et inspection**
 
-Le Département est habilité à inspecter les établissements et institutions sanitaires afin de s'assurer que les conditions requises pour leur autorisation sont respectées. Au besoin, il peut faire appel à des experts ou à des organismes spécialisés.
+<sup>1</sup> Le département et le Service de la santé publique sont habilités à inspecter en tout temps et de manière inopinée les institutions sanitaires afin de s'assurer que les conditions requises pour leur autorisation sont respectées.
 
-### Section 2: Dispositions spécifiques
+<sup>2</sup> Au besoin, ils peuvent faire appel à des experts ou à des organismes et institutions publics ou privés.
+
+## 2 Dispositions spécifiques
 
 #### Art. 11
 
-**Liste des établissements soumis à autorisation**
-
-<sup>1</sup> Le Département établit la liste des établissements ou institutions dont l'exploitation est dans tous les cas soumise à autorisation comme les établissements hospitaliers ou semi-hospitaliers, les institutions médico-techniques liées aux hôpitaux, les établissements offrant des prestations diagnostiques et thérapeutiques en ambulatoire, les établissements médico-sociaux, les laboratoires d'analyses, les centres de recherche ou les établissements de cure balnéaire.
-
-<sup>2</sup> L'exploitation d'autres catégories d'établissements ou d'institutions sanitaires est soumise à autorisation uniquement dans les cas où, après consultation des milieux concernés et, au besoin, d'experts, le Département décide que celle-ci est justifiée.
-
-<sup>3</sup> Le cas échéant, le Département précise, par voie de directives, les conditions d'autorisation en prenant en compte notamment les conditions générales de la présente ordonnance et les prestations spécifiques offertes par ces établissements ou institutions. Il peut également faire une distinction entre établissements et institutions subventionnées, faisant déjà l'objet de contrôles de l'Etat, et établissements et institutions privées.
-
-#### Art. 12
-
 **Laboratoires d'analyses médicales**
 
-<sup>1</sup> Les laboratoires médicaux privés et les laboratoires d'hôpitaux qui effectuent des analyses sont soumis à autorisation et doivent être dirigés par des personnes qui possèdent la formation requise par la législation fédérale. Demeurent en outre réservées les directives du Département.
+<sup>1</sup> Les laboratoires médicaux privés et les laboratoires d'hôpitaux qui effectuent des analyses sont soumis à autorisation et doivent être dirigés par des personnes qui possèdent la formation requise par la législation fédérale. Demeurent en outre réservées les directives du département.
 
 <sup>2</sup> Les laboratoires de cabinets médicaux et d'officines de pharmaciens ne sont pas soumis à autorisation.
 
+#### Art. 12
+
+**Pharmacies, drogueries et commerces en gros médicaments**
+
+<sup>1</sup> Les dispositions concernant l'exploitation des pharmacies, drogueries et commerces en gros de médicaments sont prévues dans l'ordonnance sur les produits thérapeutiques.
+
 #### Art. 13
 
-**Emoluments**
+**Entreprises et institutions de secours**
 
-Les autorisations et autres décisions prises en application de la présente ordonnance sont délivrées contre un émolument fixé par voie d'arrêté.
+<sup>1</sup> Les dispositions concernant l'exploitation des entreprises et institutions de secours sont prévues dans la loi sur l'organisation des secours et son ordonnance.
 
 #### Art. 14
 
-**Sanctions et recours**
+**Centres de transfusion sanguine**
 
-En cas de violation des dispositions de la présente ordonnance sont applicables les articles 153 à 157 de la loi sur la santé.
+<sup>1</sup> Les dispositions concernant l'exploitation de centres de transfusion sanguine sont prévues dans la législation fédérale en la matière.
 
 #### Art. 15
 
-**Dispositions transitoires**
+**Installations émettant des rayons ionisants**
 
-<sup>1</sup> Les établissements et institutions sanitaires existants ont un délai de deux ans pour s'adapter aux exigences de la présente ordonnance.
-
-<sup>2</sup> Pendant cette période transitoire, le Département décide, au besoin, des modalités particulières d'autorisation.
+<sup>1</sup> Les dispositions concernant l'exploitation d'installations émettant des rayons ionisants sont prévues dans la législation fédérale en matière de radioprotection.
 
 #### Art. 16
 
-**Dispositions finales**
+**Laboratoires de microbiologie et de sérologie**
 
-La présente ordonnance sera publiée au Bulletin officiel; elle entre en vigueur en même temps que la loi et abroge à cette date toutes les dispositions contraires, notamment le règlement du 25 juin 1975 fixant les conditions nécessaires à l'octroi de l'autorisation de créer, exploiter, agrandir ou modifier un établissement sanitaire ainsi que de changer le but de son exploitation.
+<sup>1</sup> Les dispositions concernant l'exploitation de laboratoires de microbiologie et de sérologie sont prévues dans la législation fédérale en la matière.
 
-Ainsi adopté en Conseil d'Etat, à Sion, le 26 mars 1997.
+## 3 Emoluments, sanctions et recours
 
-Le président du Conseil d'Etat: Serge Sierro Le chancelier d'Etat: Henri v. Roten
+#### Art. 17
+
+**Emoluments**
+
+<sup>1</sup> Les autorisations et autres décisions prises en application de la présente ordonnance sont délivrées contre un émolument fixé par voie d'arrêté.
+
+#### Art. 18
+
+**Sanctions et recours**
+
+<sup>1</sup> En cas de violation des dispositions de la présente ordonnance sont applicables les articles 154 à 159 LS.
+
+## 4 Disposition finale
+
+#### Art. 19
+
+<sup>1</sup> Le département est chargé de l'application de la présente ordonnance.
+
+RCV RO/AGS 2021-114
