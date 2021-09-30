@@ -3,20 +3,20 @@ canton: SG
 number: "672.11"
 title: Verordnung zum Einführungsgesetz zur eidgenössischen Umweltschutzgesetzgebung
 language: de
-version: 2020-06-01
-valid_until: 2021-09-30
-version_adopted: 2020-05-26
+version: 2021-10-01
+valid_until: 2024-09-30
+version_adopted: 2021-06-29
 adopted: 2011-12-13
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/672.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2969/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3237/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur eidgenössischen Umweltschutzgesetzgebung
 
-vom 13.12.2011 (Stand 01.06.2020)
+vom 13.12.2011 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -177,7 +177,7 @@ als Verordnung:[^ingress-2]
 
 **Interventionsstufe 1 a) Auslösung**
 
-<sup>1</sup> Das Baudepartement löst in Absprache mit den Nachbarkantonen die Interventionsstufe 1 aus, wenn:
+<sup>1</sup> Das Bau- und Umweltdepartement löst in Absprache mit den Nachbarkantonen die Interventionsstufe 1 aus, wenn:
 
 - a) wenigstens zwei Standorte des Ostschweizer Immissionsmessnetzes 24-Stunden-Mittelwerte über 100 µg/m³ Feinstaub (PM10) verzeichnen;
 - b) die meteorologischen Vorhersagen ein Anhalten der Belastungssituation während mehrerer Tage erwarten lassen.
@@ -186,7 +186,7 @@ als Verordnung:[^ingress-2]
 
 **b) Massnahmen**
 
-<sup>1</sup> Das Baudepartement ordnet an:
+<sup>1</sup> Das Bau- und Umweltdepartement ordnet an:
 
 - a) Signalisation von Tempo 80 auf Autobahnen und -strassen, gekoppelt mit einem Überholverbot für schwere Nutzfahrzeuge (LKW);
 - b) Betriebsverbot für mit Feststoff befeuerte Zweitheizungen, wie Cheminées und Cheminéeöfen. Ausgenommen sind Anlagen mit Filtern zur Feinstaubreduktion;
@@ -198,7 +198,7 @@ als Verordnung:[^ingress-2]
 
 **Interventionsstufe 2 a) Auslösung**
 
-<sup>1</sup> Das Baudepartement löst in Absprache mit den Nachbarkantonen die Interventionsstufe 2 aus, wenn:
+<sup>1</sup> Das Bau- und Umweltdepartement löst in Absprache mit den Nachbarkantonen die Interventionsstufe 2 aus, wenn:
 
 - a) wenigstens zwei Standorte des Ostschweizer Immissionsmessnetzes 24-Stunden-Mittelwerte über 150 µg/m³ Feinstaub (PM10) verzeichnen;
 - b) die meteorologischen Vorhersagen ein Anhalten der Belastungssituation während mehrerer Tage erwarten lassen.
@@ -207,7 +207,7 @@ als Verordnung:[^ingress-2]
 
 **b) Massnahmen**
 
-<sup>1</sup> Das Baudepartement ordnet an:
+<sup>1</sup> Das Bau- und Umweltdepartement ordnet an:
 
 - a) Fortdauer der mit Interventionsstufe 1 angeordneten Massnahmen;
 - b) Einsatzverbot für dieselbetriebene Baumaschinen ohne Partikelfilter;
@@ -219,7 +219,7 @@ als Verordnung:[^ingress-2]
 
 **Aufhebung der Massnahmen**
 
-<sup>1</sup> Das Baudepartement hebt die Massnahmen in Absprache mit den Nachbarkantonen vollständig auf, wenn:
+<sup>1</sup> Das Bau- und Umweltdepartement hebt die Massnahmen in Absprache mit den Nachbarkantonen vollständig auf, wenn:
 
 - a) die gemessenen Immissionen aller Standorte des Ostschweizer Immissionsmessnetzes den 24-Stunden-Mittelwert für Feinstaub (PM10) von 50 µg/m³ wieder einhalten;
 - b) für die nächsten Tage keine neue Belastungssituation zu erwarten ist.
@@ -228,13 +228,13 @@ als Verordnung:[^ingress-2]
 
 **Information von Bevölkerung und Behörden**
 
-<sup>1</sup> Das Baudepartement informiert Bevölkerung und Behörden über angeordnete und aufgehobene Massnahmen.
+<sup>1</sup> Das Bau- und Umweltdepartement informiert Bevölkerung und Behörden über angeordnete und aufgehobene Massnahmen.
 
 #### Art. 20
 
 **Vorbereitungsmassnahmen**
 
-<sup>1</sup> Das Baudepartement trifft Vorbereitungsmassnahmen mit den Nachbarkantonen und arbeitet mit diesen zusammen.
+<sup>1</sup> Das Bau- und Umweltdepartement trifft Vorbereitungsmassnahmen mit den Nachbarkantonen und arbeitet mit diesen zusammen.
 
 #### Art. 21
 
