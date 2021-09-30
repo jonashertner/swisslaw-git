@@ -4,13 +4,13 @@ number: "821.5"
 title: Gebührentarif für die Kantons- und Gemeindeverwaltung
 short: GebT
 language: de
-version: 2021-01-01
-corrected: 2020-12-22
-version_adopted: 2020-10-13
+version: 2021-10-01
+valid_until: 2023-12-31
+version_adopted: 2021-06-29
 adopted: 2000-05-02
 in_force: 2000-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/821.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3040/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3267/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gebührentarif für die Kantons- und Gemeindeverwaltung
 
-vom 2.Mai 2000 (Stand 1. Januar 2021)[^t-1]
+vom 2.Mai 2000 (Stand 1. Oktober 2021)[^t-1]
 
 Die Regierung des Kantons St.Gallen
 
@@ -37,7 +37,7 @@ nGS 35–25 I.
 [^t-1]: Fassung gemäss II.Nachtrag.
 [^t-2]: sGS 951.1.
 [^t-3]: sGS 821.1.
-[^t-4]: nGS 35–25; nGS 38–86; nGS 42–139. In Vollzug ab 1.Juli 2000. Geändert durch Abschnitt II des Nachtrags zur StPV vom 14.Mai 2002, nGS 37–53 (sGS 962.11); Abschnitt II des II.Nachtrags zur Bürgerrechtsverordnung vom 2.März 2002, nGS 37–74 (sGS 121.11); Ab schnitt III des Nachtrags zur GSchVV vom 2.Juli 2002, nGS 37–97 (sGS 752.21); Art.6 der V zur Bundesgesetzgebung über die Ausweise für Schweizer Staatsangehörige vom 17.De zember 2002, nGS 38–12 (sGS 453.31); Nachtrag vom 14.Januar 2003, nGS 38–24; Art.2 der V zur Bundesgesetzgebung über das Gewerbe der Reisenden vom 4.Februar 2003, nGS 38–34 (sGS 552.21); II.Nachtrag vom 24.Juni 2003, nGS 38–75; Art.18 der V zur Bundesgesetz gebung über den Konsumkredit vom 2.Dezember 2003, nGS 39–23 (sGS 556.11); Art.16 der V über private Betagten und Pflegeheime vom 3. Februar 2004, nGS 39–41 (sGS 381.18); Art.11 der V zum G über Ruhetag und Ladenöffnung vom 17.August 2004, nGS 39–89 (sGS 552.11); Art.12 der V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsauf gaben vom 14.Dezember 2004, nGS 40–14 (sGS 451.14); Abschnitt II Ziff.2 des II.Nach trags der JV vom 6.Dezember 2004, nGS 40–18 (sGS 853.11); Art.17 ZStV vom 14.Juni 2005, nGS 40–62 (sGS 912.1); III.Nachtrag vom 15.November 2005, nGS 41–20; IV.Nachtrag vom 4.Juli 2006, nGS 41–61; Abschnitt II Ziff.2 des X.Nachtrags zur EV zum Schweizeri schen Zivilgesetzbuch vom 13.Februar 2007, nGS 42–54 (sGS 911.11); Abschnitt II Ziff.53 des VI.Nachtrags zum GeschR vom 30.Oktober 2007, nGS 42–101 (sGS 141.3); Art.7 der V zum EG zur eidg Chemikaliengesetzgebung vom 20.November 2007, nGS 43–28 (sGS 672.51); V.Nachtrag vom 11.März 2008, nGS 43–74; Abschnitt II des III.Nachtrags zur ZPV vom 11.März 2008, nGS 43–80 (sGS 961.21); VI.Nachtrag vom 9.Dezember 2008, nGS 44–30; Ziff.II des VI.Nachtrags zur StPV vom 18.November 2008, nGS 44–35 (sGS 962.11); VII.Nachtrag vom 26.Mai 2009, nGS 44–90; VIII.Nachtrag vom 9.Februar 2010, nGS 45–41; Art.15 BRV vom 19.Oktober 2010, nGS 45–82 (sGS 121.11); Abschnitt III des II.Nachtrags zur GSchVV vom 7.Dezember 2010, nGS 46–31 (sGS 752.21); Art.42 StPV vom 23.Novem ber 2010, nGS 46–46 (sGS 962.11); Art.29 der V zum EG USG vom 13.Dezember 2011, nGS 47–22 (sGS 672.11); Art.18 der Statistikverordnung vom 19.Juni 2012, nGS 47–83 (sGS 146.11); Art.20 der VESB vom 11.Dezember 2012, nGS 48–47 (sGS 912.51); Art.13 VGE vom 11.Dezember 2012, nGS 48–37 (sGS 381.11); Art.53 BehV vom 11.Dezember 2012, nGS 48–38 (sGS 381.41); IX.Nachtrag vom 11.Juni 2013, nGS 2013 008; Art.6 der V über die kantonale Einwohnerdatenplattform vom 8.Oktober 2013, nGS 2013 016 (sGS 453.11); X.Nachtrag vom 3.Dezember 2013, nGS 2014 024; Abschnitt II des Nachtrags zur V über die
+[^t-4]: nGS 35–25; nGS 38–86; nGS 42–139. In Vollzug ab 1.Juli 2000. Geändert durch Abschnitt II des Nachtrags zur StPV vom 14.Mai 2002, nGS 37–53 (sGS 962.11); Abschnitt II des II.Nachtrags zur Bürgerrechtsverordnung vom 2.März 2002, nGS 37–74 (sGS 121.11); Ab schnitt III des Nachtrags zur GSchVV vom 2.Juli 2002, nGS 37–97 (sGS 752.21); Art.6 der V zur Bundesgesetzgebung über die Ausweise für Schweizer Staatsangehörige vom 17.De zember 2002, nGS 38–12 (sGS 453.31); Nachtrag vom 14.Januar 2003, nGS 38–24; Art.2 der V zur Bundesgesetzgebung über das Gewerbe der Reisenden vom 4.Februar 2003, nGS 38–34 (sGS 552.21); II.Nachtrag vom 24.Juni 2003, nGS 38–75; Art.18 der V zur Bundesgesetz gebung über den Konsumkredit vom 2.Dezember 2003, nGS 39–23 (sGS 556.11); Art.16 der V über private Betagten und Pflegeheime vom 3.Februar 2004, nGS 39–41 (sGS 381.18); Art.11 der V zum G über Ruhetag und Ladenöffnung vom 17.August 2004, nGS 39–89 (sGS 552.11); Art.12 der V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsauf gaben vom 14.Dezember 2004, nGS 40–14 (sGS 451.14); Abschnitt II Ziff.2 des II.Nach trags der JV vom 6.Dezember 2004, nGS 40–18 (sGS 853.11); Art.17 ZStV vom 14.Juni 2005, nGS 40–62 (sGS 912.1); III.Nachtrag vom 15.November 2005, nGS 41–20; IV.Nachtrag vom 4.Juli 2006, nGS 41–61; Abschnitt II Ziff.2 des X.Nachtrags zur EV zum Schweizeri schen Zivilgesetzbuch vom 13.Februar 2007, nGS 42–54 (sGS 911.11); Abschnitt II Ziff.53 des VI.Nachtrags zum GeschR vom 30.Oktober 2007, nGS 42–101 (sGS 141.3); Art.7 der V zum EG zur eidg Chemikaliengesetzgebung vom 20.November 2007, nGS 43–28 (sGS 672.51); V.Nachtrag vom 11.März 2008, nGS 43–74; Abschnitt II des III.Nachtrags zur ZPV vom 11.März 2008, nGS 43–80 (sGS 961.21); VI.Nachtrag vom 9.Dezember 2008, nGS 44–30; Ziff.II des VI.Nachtrags zur StPV vom 18.November 2008, nGS 44–35 (sGS 962.11); VII.Nachtrag vom 26.Mai 2009, nGS 44–90; VIII.Nachtrag vom 9.Februar 2010, nGS 45–41; Art.15 BRV vom 19.Oktober 2010, nGS 45–82 (sGS 121.11); Abschnitt III des II.Nachtrags zur GSchVV vom 7.Dezember 2010, nGS 46–31 (sGS 752.21); Art.42 StPV vom 23.Novem ber 2010, nGS 46–46 (sGS 962.11); Art.29 der V zum EG USG vom 13.Dezember 2011, nGS 47–22 (sGS 672.11); Art.18 der Statistikverordnung vom 19.Juni 2012, nGS 47–83 (sGS 146.11); Art.20 der VESB vom 11.Dezember 2012, nGS 48–47 (sGS 912.51); Art.13 VGE vom 11.Dezember 2012, nGS 48–37 (sGS 381.11); Art.53 BehV vom 11.Dezember 2012, nGS 48–38 (sGS 381.41); IX.Nachtrag vom 11.Juni 2013, nGS 2013 008; Art.6 der V über die kantonale Einwohnerdatenplattform vom 8.Oktober 2013, nGS 2013 016 (sGS 453.11); X.Nachtrag vom 3.Dezember 2013, nGS 2014 024; Abschnitt II des Nachtrags zur V über die
 [^t-5]: Die Gebühren verstehen sich ohne Mehrwertsteuer. Sofern eine Gebührenposition der Mehrwert steuer unterliegt, wird die Gebühr um den Steuerbetrag erhöht.
 
 ### ERSTER TEIL: Nr. ALLGEMEINE GEBÜHREN
@@ -413,32 +413,45 @@ vom 17.April 2007[^hGemeindevereinigungs-1]
 
 [^hGemeindevereinigungs-1]: sGS 151.3.
 
-### Gesetz über die Pflegefinanzierung vom
+### Gesetz über die Pflegefinanzierung
 
-13.Februar 2011[^hGesetzüberdiePfle-1],[^hGesetzüberdiePfle-2]
+vom 13. Februar 2011[^hGesetzüberdiePfle-1],[^hGesetzüberdiePfle-2]
 
 22.29.01[^hGesetzüberdiePfle-3] Zulassung von Tages und Nachtstrukturen (Art. 2 Abs. 1 Bst. b) … 100.– bis 1000.–
 
 [^hGesetzüberdiePfle-1]: sGS 331.2.
 [^hGesetzüberdiePfle-2]: Eingefügt durch XIII.Nachtrag.
 [^hGesetzüberdiePfle-3]: Eingefügt durch XIII.Nachtrag.
-[^hGesetzüberdiePfle-4]: sGS 381.1.
+
+### Ergänzungsleistungsgesetz
+
+vom 22. September 1991[^hErgänzungsleistungsg-1],[^hErgänzungsleistungsg-2]
+
+22.29.02[^hErgänzungsleistungsg-3] Anerkennung eines Anbieters des betreuten Wohnens (Art.4<sup>ter</sup>) … 100.– bis 1000.–
+
+[^hErgänzungsleistungsg-1]: sGS 351.5.
+[^hErgänzungsleistungsg-2]: Eingefügt durch XXII.Nachtrag.
+[^hErgänzungsleistungsg-3]: Eingefügt durch XXII.Nachtrag.
+[^hErgänzungsleistungsg-4]: sGS 381.1.
 
 ### Sozialhilfegesetz vom 27. September 1998
 
-[^hGesetzüberdiePfle-4]
+[^hErgänzungsleistungsg-4]
 
-22.30 Bewilligung zum Betrieb eines privaten Alters und Pflegeheimes oder Aufsichtsmass nahme (Art.32;Art.2 ff.derVerordnung über private Betagten und Pflegeheime) … 100.— bis 1000.— 22.30.01[^hSozialhilfegesetzvo-1] Bewilligung zum Betrieb einer gemischten Einrichtung oder Aufsichtsmassnahme (Art.39 a ff.; Art.1 ff. der Verordnung über gemischte Einrichtungen) … 100.— bis 1000.— Nr. Gesetz über die soziale Sicherung und Integration von Menschen mit Behinderung vom 7.August 2012[^hSozialhilfegesetzvo-2],[^hSozialhilfegesetzvo-3]
-
-**Fr.**
-
-22.31[^hSozialhilfegesetzvo-4] Bewilligung zum Betrieb einer Einrichtung für Menschen mit Behinderung (Art.11) . . . 100.— bis 1000.— 22.32[^hSozialhilfegesetzvo-5] Anerkennung der Beitragsberechtigung einer Einrichtung für Menschen mit Behin derung (Art.15) … 100.— bis 1000.—
+22.30 Bewilligung zum Betrieb eines privaten Alters und Pflegeheimes oder Aufsichtsmass nahme (Art.32;Art.2 ff.derVerordnung über private Betagten und Pflegeheime) … 100.— bis 1000.— 22.30.01[^hSozialhilfegesetzvo-1] Bewilligung zum Betrieb einer gemischten Einrichtung oder Aufsichtsmassnahme (Art.39 a ff.; Art.1 ff. der Verordnung über gemischte Einrichtungen) … 100.— bis 1000.—
 
 [^hSozialhilfegesetzvo-1]: Eingefügt durch VGE.
-[^hSozialhilfegesetzvo-2]: sGS 381.4.
-[^hSozialhilfegesetzvo-3]: Geändert durch BehV.
-[^hSozialhilfegesetzvo-4]: Geändert durch BehV.
-[^hSozialhilfegesetzvo-5]: Eingefügt durch BehV.
+
+### Gesetz über die soziale Sicherung und Inte-
+
+gration von Menschen mit Behinderung vom 7.August 2012[^hGesetzüberdiesozi-1],[^hGesetzüberdiesozi-2]
+
+22.31[^hGesetzüberdiesozi-3] Bewilligung zum Betrieb einer Einrichtung für Menschen mit Behinderung (Art.11) . . . 100.— bis 1000.— 22.32[^hGesetzüberdiesozi-4] Anerkennung der Beitragsberechtigung einer Einrichtung für Menschen mit Behin derung (Art.15) … 100.— bis 1000.—
+
+[^hGesetzüberdiesozi-1]: sGS 381.4.
+[^hGesetzüberdiesozi-2]: Geändert durch BehV.
+[^hGesetzüberdiesozi-3]: Geändert durch BehV.
+[^hGesetzüberdiesozi-4]: Eingefügt durch BehV.
 
 ### Gesetz über die Friedhöfe und die Bestattungen
 
@@ -533,7 +546,7 @@ den Erwerb von Grundstücken durch Personen im Ausland vom 7. Januar 1988 (EG)[^
 
 [^hEinführungsgesetzzu_3-1]: sGS 914.1.
 
-### Kulturgüter vom 19. Juni 2018 <sup>138,139</sup>
+### Kulturgüter vom 19. Juni 2018 <sup>141,142</sup>
 
 24.01[^hKulturgütervom19-1] Gebühren für komplexe und mit umfang reichen Abklärungen verbundene Beratun gen (Art. 5 Abs. 2 Bst. a):
 
@@ -568,7 +581,7 @@ privaten Interesse (Art. 5 Abs. 2 Bst. b):
 [^hKulturgütervom19-11]: Eingefügt durch XIV. Nachtrag.
 [^hKulturgütervom19-12]: Eingefügt durch XIV. Nachtrag.
 
-### Kulturerbeverordnung vom 18. Juni 2019 <sup>152,153</sup>
+### Kulturerbeverordnung vom 18. Juni 2019 <sup>155,156</sup>
 
 24.03[^hKulturerbeverordnung-1] Gebühren für komplexe und mit umfang reichen Abklärungen verbundene Beratun
 
@@ -637,15 +650,18 @@ kräftige Steuerforderungen … 50.—
 
 [^hSteuergesetzvom9A_2-1]: Eingefügt durch VI.Nachtrag.
 [^hSteuergesetzvom9A_2-2]: Eingefügt durch VI.Nachtrag.
+[^hSteuergesetzvom9A_2-3]: Geändert durch Abschnitt II Ziff. 27 des XV. Nachtrag zum Geschäftsreglement der Regierung und der Staatskanzlei vom 29. Juni 2021, nGS 2021 066 (sGS 141.3).
 
-### Nr. F. Baudepartement
+### Nr. F. Bau- und Umweltdepartement
 
-[^hNrFBaudepartemen-1]: sGS 731.1.
-[^hNrFBaudepartemen-2]: Geändert durch XII.Nachtrag.
+[^hSteuergesetzvom9A_2-3]
+
+[^hNrFBauundUmwe-1]: sGS 731.1.
+[^hNrFBauundUmwe-2]: Geändert durch XII.Nachtrag.
 
 ### Planungs- und Baugesetz vom 5. Juli 2016,
 
-[^hNrFBaudepartemen-1][^hNrFBaudepartemen-2]
+[^hNrFBauundUmwe-1][^hNrFBauundUmwe-2]
 
 26.01[^hPlanungsundBauges-1] Genehmigung von Rahmennutzungsplänen, Sondernutzungsplänen und Schutzverord nungen (Art.38) … 75.— bis 7200.— …[^hPlanungsundBauges-2] 26.03[^hPlanungsundBauges-3] Genehmigung von Ausnahmebewilligungen (Art.108 Abs. 4) … 75.— bis 2900.— …[^hPlanungsundBauges-4] 26.05[^hPlanungsundBauges-5] Zustimmung zu einer Baubewilligung oder Verweigerung der Zustimmung ausserhalb der Bauzonen (Art.112) … 100.— bis 2000.— 26.06[^hPlanungsundBauges-6] Vorbescheid im Bauermittlungsverfahren (Art.145) … 75.— bis 1500.— 26.07[^hPlanungsundBauges-7] Teilentscheid (Art.144) … 75.— bis 2000.— 26.08[^hPlanungsundBauges-8] Verfahrenskoordination (Art.133) … 100.— bis 5000.—
 
@@ -681,7 +697,7 @@ zum Gesetz über die Gewässernutzung vom 17. Oktober 1961[^hVollzugsverordnung_
 [^hVollzugsverordnung_2-2]: Geändert durch XIII.Nachtrag.
 [^hVollzugsverordnung_2-3]: Geändert durch XIII.Nachtrag.
 
-### Wasserbaugesetz vom 17. Mai 2009<sup>192,193</sup>
+### Wasserbaugesetz vom 17. Mai 2009<sup>196,197</sup>
 
 …[^hWasserbaugesetzvom-1] …[^hWasserbaugesetzvom-2] 26.17[^hWasserbaugesetzvom-3] Genehmigung für wasserbauliche Massnah men (Art.32 WBG) … 150.– bis 4000.— Nr. Bundesgesetz über den Schutz der Gewässer vom 24.Januar 1991[^hWasserbaugesetzvom-4],[^hWasserbaugesetzvom-5]
 
@@ -757,7 +773,7 @@ vom 7.Oktober 1983[^hBundesgesetzüberde_2-1],[^hBundesgesetzüberde_2-2]
 
 **Fr.**
 
-26.30[^hBundesgesetzüberde_2-9] Emissions und Immissionsmessungen sowie Emissions und Immissionskontrollen (Art.24) nach Aufwand (SIA Zeittafel zuzüglich Spesen) 26.31[^hBundesgesetzüberde_2-10] Überprüfung und Beurteilung von Gesuchs unterlagen für die Errichtung und Änderung von Anlagen mit nicht ionisierender Strah lung (Art.36) … 300.— bis 3000.— 26.32 <sup>229</sup> Anhörung bei Vorschriften auf dem Gebiet des Umweltschutzes (Art.6) … 200.— bis 2000.— 26.33[^hBundesgesetzüberde_2-11] Verfügung über Luftreinhaltemassnahmen (Art.24 und 27) … 100.— bis 20 000.— 26.34[^hBundesgesetzüberde_2-12] Verfügung über Lärmschutzmassnahmen (Art.29 und 31) … 100.— bis 10 000.—
+26.30[^hBundesgesetzüberde_2-9] Emissions und Immissionsmessungen sowie Emissions und Immissionskontrollen (Art.24) nach Aufwand (SIA Zeittafel zuzüglich Spesen) 26.31[^hBundesgesetzüberde_2-10] Überprüfung und Beurteilung von Gesuchs unterlagen für die Errichtung und Änderung von Anlagen mit nicht ionisierender Strah lung (Art.36) … 300.— bis 3000.— 26.32 <sup>233</sup> Anhörung bei Vorschriften auf dem Gebiet des Umweltschutzes (Art.6) … 200.— bis 2000.— 26.33[^hBundesgesetzüberde_2-11] Verfügung über Luftreinhaltemassnahmen (Art.24 und 27) … 100.— bis 20 000.— 26.34[^hBundesgesetzüberde_2-12] Verfügung über Lärmschutzmassnahmen (Art.29 und 31) … 100.— bis 10 000.—
 
 …[^hBundesgesetzüberde_2-13]
 
@@ -1185,7 +1201,7 @@ und Gemeinderatsschreiber (oder an ihrer Stelle zuständige Amtsstelle)
 
 vom 3.August 2010 (BRG)[^hGesetzüberdasStG_2-1],[^hGesetzüberdasStG_2-2] 50.00.01[^hGesetzüberdasStG_2-3] Entlassung aus dem Gemeindebürgerrecht (Art.46 Abs.3 BRG) … 100.— bis 500.— 50.00.02– 04[^hGesetzüberdasStG_2-4] Erteilung des Gemeindebürgerrechts im Ver fahren der Einbürgerung im Allgemeinen (Art.7 ff. BRG):
 
-50.00.02 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 800.— 50.00.03 – AusländerinnenundAusländer(Einzelper sonen, einschliesslich unmündige Kinder) 100.— bis 1800.— 50.00.04[^hGesetzüberdasStG_2-5] Ausländerinnen und Ausländer (Verheiratete und eingetragene Partner, einschliesslich un mündige Kinder) … 100.— bis 2500.— 50.00.05 / 06 <sup>325</sup> Erteilung des Gemeindebürgerrechts im Verfahren der Besonderen Einbürgerung (Art.36 ff. BRG):
+50.00.02 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 800.— 50.00.03 – AusländerinnenundAusländer(Einzelper sonen, einschliesslich unmündige Kinder) 100.— bis 1800.— 50.00.04[^hGesetzüberdasStG_2-5] Ausländerinnen und Ausländer (Verheiratete und eingetragene Partner, einschliesslich un mündige Kinder) … 100.— bis 2500.— 50.00.05 / 06 <sup>329</sup> Erteilung des Gemeindebürgerrechts im Verfahren der Besonderen Einbürgerung (Art.36 ff. BRG):
 
 50.00.05 – Schweizerinnen und Schweizer (je Gesuch) 100.— bis 600.— 50.00.06 – Ausländische und staatenlose Jugendliche (je Gesuch) … 100.— bis 1400.—
 
@@ -1256,7 +1272,7 @@ vom 29. Juni 2004[^hGesetzüberRuhetag-1]
 
 Abs.1) … 20.—
 
-50.24.02[^hGesetzüberRuhetag-9] Baubewilligungen (Art.146 und 149) … 100.— bis 10 000.— 50.24.02.01[^hGesetzüberRuhetag-10] Baubewilligungen bei besonders aufwändi gen Verfahren … 10 000.– bis 50 000.— 50.24.03[^hGesetzüberRuhetag-11] Abbruchbewilligung (Art.146) … 100.— bis 2000.— 50.24.04[^hGesetzüberRuhetag-12] Verlängerung der Geltungsdauer einer Be willigung (Art.148) … 100.— bis 2000.— 50.24.05[^hGesetzüberRuhetag-13] Vorbescheid im Bauermittlungsverfahren (Art.145) … 100.— bis 5000.— 50.24.05.01[^hGesetzüberRuhetag-14] Teilentscheid (Art.144) … 100.— bis 5000.— 50.24.06[^hGesetzüberRuhetag-15] Anordnung von Schutzmassnahmen (Art.121 ff. und Art.128 f.) … 100.— bis 5000.— 50.24.08 <sup>357</sup> Verfügung auf Behebung des rechtswidrigen Zustandes (Art.159) … 100.— bis 10 000.—
+50.24.02[^hGesetzüberRuhetag-9] Baubewilligungen (Art.146 und 149) … 100.— bis 10 000.— 50.24.02.01[^hGesetzüberRuhetag-10] Baubewilligungen bei besonders aufwändi gen Verfahren … 10 000.– bis 50 000.— 50.24.03[^hGesetzüberRuhetag-11] Abbruchbewilligung (Art.146) … 100.— bis 2000.— 50.24.04[^hGesetzüberRuhetag-12] Verlängerung der Geltungsdauer einer Be willigung (Art.148) … 100.— bis 2000.— 50.24.05[^hGesetzüberRuhetag-13] Vorbescheid im Bauermittlungsverfahren (Art.145) … 100.— bis 5000.— 50.24.05.01[^hGesetzüberRuhetag-14] Teilentscheid (Art.144) … 100.— bis 5000.— 50.24.06[^hGesetzüberRuhetag-15] Anordnung von Schutzmassnahmen (Art.121 ff. und Art.128 f.) … 100.— bis 5000.— 50.24.08 <sup>361</sup> Verfügung auf Behebung des rechtswidrigen Zustandes (Art.159) … 100.— bis 10 000.—
 
 [^hGesetzüberRuhetag-1]: sGS 552.1; geändert durch V zum G über Ruhetag und Ladenöffnung.
 [^hGesetzüberRuhetag-2]: Geändert durch V zum G über Ruhetag und Ladenöffnung.
@@ -1402,7 +1418,7 @@ vom 27. Juni 1972[^hVerordnungüberdas-1]
 
 vom 7.Oktober 1983[^hBundesgesetzüberde_3-1],[^hBundesgesetzüberde_3-2]
 
-50.67 <sup>387</sup> Einsichtgabe oder Auskunft über Umwelt informationen (Art.10 g) … 100.— bis 2000.—
+50.67 <sup>391</sup> Einsichtgabe oder Auskunft über Umwelt informationen (Art.10 g) … 100.— bis 2000.—
 
 [^hBundesgesetzüberde_3-1]: SR 814.01.
 [^hBundesgesetzüberde_3-2]: Eingefügt durch XI.Nachtrag.
@@ -1545,24 +1561,15 @@ vom 10. Dezember 1907 (ZGB)[^hSchweizerischesZivi_6-1]
 
 Ansätze je nach dem Stiftungskapital wie bei Nr.60.13 … 300.— bis 3500.— 60.02.01– 03[^hSchweizerischesZivi_6-3] Abschluss, Abänderung oder Aufhebung eines Ehevertrages (Art.184 ZGB) oder eines Ver mögensvertrages (Art.25 PartG[^hSchweizerischesZivi_6-4]:
 
-60.02.01 mit Wechsel des Güterstandes … 200.— bis 1000.— 60.02.02 ohne Wechsel des Güterstandes … 200.— bis 1000.— 60.02.03[^hSchweizerischesZivi_6-5] in Verbindung mit Erbvertrag und / oder Beurkundung nach Art.49 Abs.1 der Ein führungsverordnung zum ZGB … 300.— bis 1500.— 60.03 Errichtung des Inventars über Vermögens werte (Art.195 a ZGB und Art.197 alt ZGB) 100.— bis 700.— 60.05 BegründungeinerGemeinderschaft(Art.337 ZGB) … 130.— bis 1300.— 60.05.01[^hSchweizerischesZivi_6-6] Vorsorgeauftrag (Art.361 Abs.1 ZGB) … 100.— bis 1000.— 60.06 Öffentliche letztwillige Verfügung (Art.499 ZGB) … 100.— bis 1000.— 60.07 Erbvertrag (Art.512 ZGB) … 300.— bis 1500.— 60.08 Aufnahme des Inventars über Gegenstände der Nutzniessung (Art.763 ZGB) … 90.— bis 920.—
+60.02.01 mit Wechsel des Güterstandes … 200.— bis 1000.— 60.02.02 ohne Wechsel des Güterstandes … 200.— bis 1000.— 60.02.03[^hSchweizerischesZivi_6-5] in Verbindung mit Erbvertrag und / oder Beurkundung nach Art.49 Abs.1 der Ein führungsverordnung zum ZGB … 300.— bis 1500.— 60.03 Errichtung des Inventars über Vermögens werte (Art.195 a ZGB und Art.197 alt ZGB) 100.— bis 700.— 60.05 BegründungeinerGemeinderschaft(Art.337 ZGB) … 130.— bis 1300.— 60.05.01[^hSchweizerischesZivi_6-6] Vorsorgeauftrag (Art.361 Abs.1 ZGB) … 100.— bis 1000.— 60.06 Öffentliche letztwillige Verfügung (Art.499 ZGB) … 100.— bis 1000.— 60.07 Erbvertrag (Art.512 ZGB) … 300.— bis 1500.— 60.08 Aufnahme des Inventars über Gegenstände der Nutzniessung (Art.763 ZGB) … 90.— bis 920.— Nr. Schweizerisches Obligationenrecht vom 30. März 1911[^hSchweizerischesZivi_6-7]
 
-[^hSchweizerischesZivi_6-1]: SR 210.
-[^hSchweizerischesZivi_6-2]: Fassung gemäss II.Nachtrag.
-[^hSchweizerischesZivi_6-3]: Geändert durch X.Nachtrag zur EV zum Schweizerischen Zivilgesetzbuch.
-[^hSchweizerischesZivi_6-4]: Bundesgesetz über die eingetragene Partnerschaft gleichgeschlechtlicher Paare, SR 211.231.
-[^hSchweizerischesZivi_6-5]: Fassung gemäss II.Nachtrag.
-[^hSchweizerischesZivi_6-6]: Eingefügt durch VESB.
-
-### Schweizerisches Obligationenrecht
-
-vom 30. März 1911[^hSchweizerischesObli_5-1]
+**Fr.**
 
 60.09 Ersatz der Unterschrift (Art.15) … 30.— bis 100.— 60.10 Entkräftung eines Schuldscheines und Til gung der Schuld (Art.90) … 50.— bis 200.— 60.11 Bürgschaftsverpflichtung einer natürlichen Person (Art.493 Abs.2, 5 und 6), je Bürge
 
-<sup>1</sup> /<sup>2</sup> Promille des Haftungsbetrages, im Rah men von … 50.— bis 400.— 60.12 Verpfründungsvertrag (Art.522 Abs.1) . . . . 300.— bis 1500.— 60.13–18[^hSchweizerischesObli_5-2] Aktiengesellschaften und Gesellschaften mit beschränkter Haftung (Art.620 ff. und 772 ff.):
+<sup>1</sup> /2 Promille des Haftungsbetrages, im Rah men von … 50.— bis 400.— 60.12 Verpfründungsvertrag (Art.522 Abs.1) . . . . 300.— bis 1500.— 60.13–18[^hSchweizerischesZivi_6-8] Aktiengesellschaften und Gesellschaften mit beschränkter Haftung (Art.620 ff. und 772 ff.):
 
-60.13[^hSchweizerischesObli_5-3] Errichtung von Aktien , Partizipations oder Stammkapital:
+60.13[^hSchweizerischesZivi_6-9] Errichtung von Aktien , Partizipations oder Stammkapital:
 
 für die ersten Fr.100 000.– … 350.—
 
@@ -1570,30 +1577,37 @@ für je weitere volle Fr.100 000.– … 80.—
 
 höchstens … 15000.—
 
-60.14[^hSchweizerischesObli_5-4] Kapitalerhöhung, Fusion oder Kapitalherab
+60.14[^hSchweizerischesZivi_6-10] Kapitalerhöhung, Fusion oder Kapitalherab
 
 setzung, mindestens … 350.—
 
 Im Übrigen wird die Gebühr gemäss Nr.60.13 nach dem Betrag der Erhöhung oder Herabsetzung bemessen. Findet bei der Kapitalherabsetzung keine Rückzahlung statt, so wird die Gebühr um die Hälfte ermässigt.
 
-60.15[^hSchweizerischesObli_5-5] Statutenänderungen, die das Kapital nicht berühren … 200.— bis 2000.— 60.16[^hSchweizerischesObli_5-6] Stammeinlage Übertragung … 160.— bis 3200.— 60.17[^hSchweizerischesObli_5-7] Auflösungsbeschluss … 200.— bis 2000.— 60.17.01[^hSchweizerischesObli_5-8] Zuschlag zu Nrn.60.13 bis 60.17, wenn die General oder Gesellschaftsversammlung nicht am Sitz der Urkundsperson stattfindet,
+60.15[^hSchweizerischesZivi_6-11] Statutenänderungen, die das Kapital nicht berühren … 200.— bis 2000.— 60.16[^hSchweizerischesZivi_6-12] Stammeinlage Übertragung … 160.— bis 3200.— 60.17[^hSchweizerischesZivi_6-13] Auflösungsbeschluss … 200.— bis 2000.— 60.17.01[^hSchweizerischesZivi_6-14] Zuschlag zu Nrn.60.13 bis 60.17, wenn die General oder Gesellschaftsversammlung nicht am Sitz der Urkundsperson stattfindet,
 
 nach Aufwand, je Stunde … 150.—
 
 höchstens … 1000.—
 
-60.18[^hSchweizerischesObli_5-9] Beschlüsse einer Gläubigerversammlung bei Anleihensobligationen (Art.6 der eidgenös sischen Verordnung über die Gläubigerge meinschaft bei Anleihensobligationen vom 9.Dezember 1949[^hSchweizerischesObli_5-10] … 300.— bis 3000.—
+60.18[^hSchweizerischesZivi_6-15] Beschlüsse einer Gläubigerversammlung bei Anleihensobligationen (Art.6 der eidgenös sischen Verordnung über die Gläubigerge meinschaft bei Anleihensobligationen vom 9.Dezember 1949[^hSchweizerischesZivi_6-16] … 300.— bis 3000.— …[^hSchweizerischesZivi_6-17]
 
-[^hSchweizerischesObli_5-1]: SR 220.
-[^hSchweizerischesObli_5-2]: Fassung gemäss II.Nachtrag.
-[^hSchweizerischesObli_5-3]: Fassung gemäss II.Nachtrag.
-[^hSchweizerischesObli_5-4]: Fassung gemäss II.Nachtrag.
-[^hSchweizerischesObli_5-5]: Fassung gemäss II.Nachtrag.
-[^hSchweizerischesObli_5-6]: Fassung gemäss II.Nachtrag.
-[^hSchweizerischesObli_5-7]: Fassung gemäss II.Nachtrag.
-[^hSchweizerischesObli_5-8]: Eingefügt durch II.Nachtrag.
-[^hSchweizerischesObli_5-9]: Fassung gemäss II.Nachtrag.
-[^hSchweizerischesObli_5-10]: SR 221.552.1 (aufgehoben).
+[^hSchweizerischesZivi_6-1]: SR 210.
+[^hSchweizerischesZivi_6-2]: Fassung gemäss II.Nachtrag.
+[^hSchweizerischesZivi_6-3]: Geändert durch X.Nachtrag zur EV zum Schweizerischen Zivilgesetzbuch.
+[^hSchweizerischesZivi_6-4]: Bundesgesetz über die eingetragene Partnerschaft gleichgeschlechtlicher Paare, SR 211.231.
+[^hSchweizerischesZivi_6-5]: Fassung gemäss II.Nachtrag.
+[^hSchweizerischesZivi_6-6]: Eingefügt durch VESB.
+[^hSchweizerischesZivi_6-7]: SR 220.
+[^hSchweizerischesZivi_6-8]: Fassung gemäss II.Nachtrag.
+[^hSchweizerischesZivi_6-9]: Fassung gemäss II.Nachtrag.
+[^hSchweizerischesZivi_6-10]: Fassung gemäss II.Nachtrag.
+[^hSchweizerischesZivi_6-11]: Fassung gemäss II.Nachtrag.
+[^hSchweizerischesZivi_6-12]: Fassung gemäss II.Nachtrag.
+[^hSchweizerischesZivi_6-13]: Fassung gemäss II.Nachtrag.
+[^hSchweizerischesZivi_6-14]: Eingefügt durch II.Nachtrag.
+[^hSchweizerischesZivi_6-15]: Fassung gemäss II.Nachtrag.
+[^hSchweizerischesZivi_6-16]: SR 221.552.1 (aufgehoben).
+[^hSchweizerischesZivi_6-17]: Titel und Nr.60.19 aufgehoben durch XXI.Nachtrag.
 
 ### B. Beglaubigungen
 
@@ -1634,15 +1648,14 @@ Beglaubigungen durch die Staatskanzlei[^hVerordnungüberdie_2-6]
 
 ## Weitere Fussnoten
 
-- [4] (Fortsetzung …) Raumnutzung im Regierungsgebäude vom 7.Januar 2014, nGS 2014 025 (sGS 141.81); Abschnitt II Ziff.3 des VIII.Nachtrags zum GeschR vom 29.April 2014, nGS 2014 045 (sGS 141.3); XI.Nachtrag vom 17.Juni 2014, nGS 2014 056; Abschnitt II Ziff.2 der Jagdverordnung vom 19. Mai 2015, nGS 2015 064 (sGS 853.11); XII. Nachtrag vom 27. Juni 2017, nGS 2017 051; XIII.Nachtrag vom 16. Januar 2018, nGS 2018 026; XIV.Nachtrag vom 19. Juni 2018, nGS 2018 056; XV.Nachtrag vom 3. Juli 2018, nGS 2018 074; XVI.Nachtrag vom 9. Oktober 2018, nGS 2018 075; XVIII.Nachtrag vom 18. Juni 2019, nGS 2019 049; XIX. Nachtrag vom 3. Dezem ber 2019, nGS 2019 098; XX. Nachtrag vom 4. Februar 2020, nGS 2020 003; XXI. Nachtrag vom 25. August 2020, nGS 2020 068; Abschnitt II der Verordnung über Kurse und Prüfungen in Le bensmittelhygiene und Suchtprävention vom 13.Oktober 2020, nGS 2020 083 (sGS 533.12).
-- [138] sGS 277.11.
-- [139] Eingefügt durch XIV. Nachtrag.
-- [152] sGS 277.12.
-- [153] Eingefügt durch XVIII. Nachtrag.
-- [192] sGS 734.11.
-- [193] Geändert durch XIII.Nachtrag.
-- [229] Eingefügt durch XI.Nachtrag.
-- [325] Geändert durch BRV.
-- [357] Geändert durch XII.Nachtrag.
-- [387] Eingefügt durch XI.Nachtrag.
-- [449] Titel und Nr.60.19 aufgehoben durch XXI.Nachtrag.
+- [4] (Fortsetzung …) Raumnutzung im Regierungsgebäude vom 7.Januar 2014, nGS 2014 025 (sGS 141.81); Abschnitt II Ziff.3 des VIII.Nachtrags zum GeschR vom 29.April 2014, nGS 2014 045 (sGS 141.3); XI.Nachtrag vom 17.Juni 2014, nGS 2014 056; Abschnitt II Ziff.2 der Jagdverordnung vom 19. Mai 2015, nGS 2015 064 (sGS 853.11); XII. Nachtrag vom 27. Juni 2017, nGS 2017 051; XIII.Nachtrag vom 16. Januar 2018, nGS 2018 026; XIV.Nachtrag vom 19. Juni 2018, nGS 2018 056; XV.Nachtrag vom 3. Juli 2018, nGS 2018 074; XVI.Nachtrag vom 9. Oktober 2018, nGS 2018 075; XVIII.Nachtrag vom 18. Juni 2019, nGS 2019 049; XIX. Nachtrag vom 3. Dezem ber 2019, nGS 2019 098; XX. Nachtrag vom 4. Februar 2020, nGS 2020 003; XXI. Nachtrag vom 25. August 2020, nGS 2020 068; Abschnitt II der Verordnung über Kurse und Prüfungen in Le bensmittelhygiene und Suchtprävention vom 13.Oktober 2020, nGS 2020 083 (sGS 533.12); XXII. Nachtrag vom 13. Oktober 2020, nGS 2020 085; Geändert durch Abschnitt II Ziff. 27 des XV. Nachtrag zum Geschäftsreglement der Regierung und der Staatskanzlei vom 29. Juni 2021, nGS 2021 066 (sGS 141.3).
+- [141] sGS 277.11.
+- [142] Eingefügt durch XIV. Nachtrag.
+- [155] sGS 277.12.
+- [156] Eingefügt durch XVIII. Nachtrag.
+- [196] sGS 734.11.
+- [197] Geändert durch XIII.Nachtrag.
+- [233] Eingefügt durch XI.Nachtrag.
+- [329] Geändert durch BRV.
+- [361] Geändert durch XII.Nachtrag.
+- [391] Eingefügt durch XI.Nachtrag.
