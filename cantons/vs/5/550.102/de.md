@@ -4,13 +4,12 @@ number: "550.102"
 title: Verordnung über Video- und Audioüberwachungsmassnahmen durch die Kantonspolizei
 short: VidPolV
 language: de
-version: 2018-01-01
-valid_until: 2021-09-30
-version_adopted: 2017-12-20
+version: 2021-10-01
+version_adopted: 2021-02-03
 adopted: 2017-12-20
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/550.102"
-pdf: "https://lex.vs.ch/api/de/versions/2397/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2975/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2397/pdf_file"
 
 (VidPolV)
 
-vom 20.12.2017 (Stand 01.01.2018)
+vom 20.12.2017 (Stand 01.10.2021)
 
 Der Staatsrat des Kantons Wallis
 
@@ -176,13 +175,13 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Die Gesichter von Personen, die nicht erkannt werden dürfen, müssen für die Schulungen mithilfe eines für die aufgezeichneten Daten geeigneten technischen Mittels unkenntlich gemacht werden.
 
-## 4 Automatische Fahrzeug- und Personensuche
+## 4 Automatische Fahrzeugfahndung
 
 #### Art. 15
 
 **Verfolgte Ziele**
 
-<sup>1</sup> Die mit der automatischen Fahrzeug- und Personensuche (automatische Suche) verfolgten Ziele sind im PolG festgelegt (Art. 59 Abs. 1 und 2).
+<sup>1</sup> Die mit der automatischen Fahrzeugfahndung (automatische Suche) verfolgten Ziele sind im PolG festgelegt (Art. 59).
 
 #### Art. 16
 
@@ -196,7 +195,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Die automatische Suche erfolgt verdeckt.
 
-<sup>2</sup> Die eingegebenen Daten werden unmittelbar gelöscht, wenn der Abgleich mit den Datenbanken zu keinem Ergebnis führt.
+<sup>2</sup> Die eingegebenen Daten werden spätestens nach 100 Tagen gelöscht, wenn der Abgleich mit den Datenbanken zu keinem Ergebnis führt.
 
 <sup>3</sup> Bei einer Übereinstimmung:
 

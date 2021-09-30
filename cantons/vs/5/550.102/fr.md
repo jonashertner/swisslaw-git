@@ -4,13 +4,12 @@ number: "550.102"
 title: "Ordonnance sur les mesures de vidéo et d'audio-surveillance par la police cantonale"
 short: OVidPol
 language: fr
-version: 2018-01-01
-valid_until: 2021-09-30
-version_adopted: 2017-12-20
+version: 2021-10-01
+version_adopted: 2021-02-03
 adopted: 2017-12-20
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.102"
-pdf: "https://lex.vs.ch/api/fr/versions/2397/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2975/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2397/pdf_file"
 
 (OVidPol)
 
-du 20.12.2017 (état 01.01.2018)
+du 20.12.2017 (état 01.10.2021)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -176,13 +175,13 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> Les visages des personnes qui ne doivent pas être reconnaissables pour les besoins de la formation doivent être rendus méconnaissables par un moyen technique approprié sur les données enregistrées.
 
-## 4 Recherche automatisée de véhicules et de personnes
+## 4 Recherche automatisée de véhicules
 
 #### Art. 15
 
 **Objectifs poursuivis**
 
-<sup>1</sup> Les objectifs poursuivis par la recherche automatisée de véhicules et de personnes (recherche automatisée) sont arrêtés par la LPol (art. 59 al. 1 et 2).
+<sup>1</sup> Les objectifs poursuivis par la recherche automatisée de véhicules (recherche automatisée) sont arrêtés par la LPol (art. 59).
 
 #### Art. 16
 
@@ -196,7 +195,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> La recherche automatisée est une surveillance secrète.
 
-<sup>2</sup> Les données saisies sont effacées immédiatement au cas où la comparaison avec les bases de données n'a donné aucun résultat.
+<sup>2</sup> Les données saisies sont effacées dans un délai de 100 jours maximum au cas où la comparaison avec les bases de données n'a donné aucun résultat.
 
 <sup>3</sup> Lorsqu'une concordance est établie:
 
