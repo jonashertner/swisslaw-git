@@ -3,20 +3,20 @@ canton: SG
 number: "331.21"
 title: Verordnung über die Pflegefinanzierung
 language: de
-version: 2021-07-01
-valid_until: 2021-09-30
-version_adopted: 2021-05-25
+version: 2021-10-01
+valid_until: 2021-12-31
+version_adopted: 2021-09-28
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.21"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3197/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3268/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Pflegefinanzierung
 
-vom 14.12.2010 (Stand 01.07.2021)
+vom 14.12.2010 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -51,18 +51,18 @@ als Verordnung:[^ingress-2]
 
 <table>
 <tr><th>Pflegestufe</th><th>Pflegebedarf in Minuten</th><th>Franken je Tag</th><th>Produkte auf der MiGeL[^2-2] in Franken je Tag</th><th>Gesamt Franken je Tag</th></tr>
-<tr><td>1</td><td>bis 20</td><td>13.–</td><td>1.–</td><td>14.–</td></tr>
-<tr><td>2</td><td>21–40</td><td>38.–</td><td>1.–</td><td>39.–</td></tr>
-<tr><td>3</td><td>41–60</td><td>63.–</td><td>1.–</td><td>64.–</td></tr>
-<tr><td>4</td><td>61–80</td><td>88.–</td><td>1.50</td><td>89.50</td></tr>
-<tr><td>5</td><td>81–100</td><td>113.–</td><td>1.50</td><td>114.50</td></tr>
-<tr><td>6</td><td>101–120</td><td>138.–</td><td>1.50</td><td>139.50</td></tr>
-<tr><td>7</td><td>121–140</td><td>163.–</td><td>2.50</td><td>165.50</td></tr>
-<tr><td>8</td><td>141–160</td><td>188.–</td><td>2.50</td><td>190.50</td></tr>
-<tr><td>9</td><td>161–180</td><td>213.–</td><td>2.50</td><td>215.50</td></tr>
-<tr><td>10</td><td>181–200</td><td>238.–</td><td>2.50</td><td>240.50</td></tr>
-<tr><td>11</td><td>201–220</td><td>263.–</td><td>2.50</td><td>265.50</td></tr>
-<tr><td>12</td><td>über 220</td><td>288.–</td><td>2.50</td><td>290.50</td></tr>
+<tr><td>1</td><td>bis 20</td><td>13.–</td><td>…</td><td>…</td></tr>
+<tr><td>2</td><td>21–40</td><td>38.–</td><td>…</td><td>…</td></tr>
+<tr><td>3</td><td>41–60</td><td>63.–</td><td>…</td><td>…</td></tr>
+<tr><td>4</td><td>61–80</td><td>88.–</td><td>…</td><td>…</td></tr>
+<tr><td>5</td><td>81–100</td><td>113.–</td><td>…</td><td>…</td></tr>
+<tr><td>6</td><td>101–120</td><td>138.–</td><td>…</td><td>…</td></tr>
+<tr><td>7</td><td>121–140</td><td>163.–</td><td>…</td><td>…</td></tr>
+<tr><td>8</td><td>141–160</td><td>188.–</td><td>…</td><td>…</td></tr>
+<tr><td>9</td><td>161–180</td><td>213.–</td><td>…</td><td>…</td></tr>
+<tr><td>10</td><td>181–200</td><td>238.–</td><td>…</td><td>…</td></tr>
+<tr><td>11</td><td>201–220</td><td>263.–</td><td>…</td><td>…</td></tr>
+<tr><td>12</td><td>über 220</td><td>288.–</td><td>…</td><td>…</td></tr>
 </table>
 
 <sup>2</sup> Die Höchstansätze der Pflegekosten nach Abs. 1 dieser Bestimmung werden für Einrichtungen, die auf der Pflegeheimliste[^2-3] als Sterbehospiz aufgeführt sind, jeweils um Fr. 66.– je Tag erhöht.
