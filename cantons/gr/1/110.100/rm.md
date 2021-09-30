@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Constituziun dal chantun Grischun
 language: rm
-version: 2017-01-01
-corrected: 2016-12-06
-version_adopted: 2012-09-23
+version: 2021-10-01
+valid_until: 2023-03-31
+version_adopted: 2021-06-13
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2746/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3188/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Constituziun dal chantun Grischun
 
-dals 14-09-2003 (versiun dals 01-01-2017)
+dals 14-09-2003 (versiun dals 01-10-2021)
 
 Nus, il pievel dal chantun Grischun,
 
@@ -118,7 +118,7 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 **Princips d'elecziun e da votaziun**
 
-<sup>1</sup> Il dretg d'eleger e da votar general, egual, liber, direct e secret è garantì. Resalvadas restan votaziuns cun tegnair si il maun en radunanzas cirquitalas e communalas.
+<sup>1</sup> Il dretg d'eleger e da votar general, egual, liber, direct e secret è garantì. Resalvadas restan votaziuns cun tegnair si il maun en radunanzas communalas.
 
 <sup>2</sup> Ils projects da votaziun duain esser simpels ed enclegentaivels. I sto vegnir garantida ina furmaziun ed ina manifestaziun nunfalsifitgada da la voluntad.
 
@@ -306,7 +306,7 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 <sup>1</sup> Il cussegl grond sa cumpona da 120 commembras e commembers.
 
-<sup>2</sup> L'elecziun succeda tenor la procedura electorala da maiorz.
+<sup>2</sup> L'elecziun succeda tenor la procedura electorala da proporz. La lescha po prevair quorums minimals ed ina cundiziun da maiorz.
 
 <sup>3</sup> Il chantun è dividì en maximalmain 39 circuls electorals. La lescha regla, a tge circul electoral che las vischnancas appartegnan, sco er las consequenzas da fusiuns da vischnancas per il dumber dals circuls electorals.
 
@@ -591,7 +591,7 @@ ans dain la sequenta constituziun:[^ingress-1]
 <sup>2</sup> La dretgira administrativa giuditgescha sco dretgira constituziunala:
 
 - 1\. recurs pervia da violaziun da dretgs constituziunals e politics sco er dal princip da la precedenza dal dretg surordinà;
-- 2\. recurs pervia da violaziun da l'autonomia da las vischnancas, dals circuls e d'autras corporaziuns da dretg public sco er da las baselgias chantunalas.
+- 2\. recurs pervia da violaziun da l'autonomia da las vischnancas e d'autras corporaziuns da dretg public sco er da las baselgias chantunalas.
 
 <sup>3</sup> En la procedura dal dretg constituziunal pon leschas ed ordinaziuns vegnir contestadas directamain sco er vegnir examinadas en il cas d'applicaziun.
 
@@ -747,26 +747,13 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 #### Art. 72
 
-**Corporaziuns regiunalas**
-
-<sup>1</sup> Las corporaziuns regiunalas èn corporaziuns dal dretg public chantunal cun atgna persunalitad giuridica.
-
-<sup>2</sup> Ellas adempleschan las incumbensas che las vegnan surdadas dal chantun, dals circuls u da las vischnancas.
+**…**
 
 ### 5.2.3. Organisaziun e surveglianza
 
 #### Art. 73
 
-**Organs**
-
-<sup>1</sup> Ils organs obligatorics dals circuls e da las corporaziuns regiunalas èn:
-
-- 1\. la totalitad da las persunas cun dretg da votar ch'exerciteschan lur dretgs politics a l'urna u a la tschentada da cumin;
-- 2\. il cussegl cirquital respectivamain las delegadas ed ils delegads da la corporaziun regiunala;
-- 3\. la presidenta cirquitala u il president cirquital respectivamain la presidenta u il president da la corporaziun regiunala;
-- 4\. ulteriurs organs a norma da la legislaziun.
-
-<sup>2</sup> La lescha dat la segirezza ch'ils circuls e las corporaziuns regiunalas garanteschan ils dretgs politics.
+**…**
 
 #### Art. 74
 

@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Verfassung des Kantons Graubünden
 language: de
-version: 2017-01-01
-corrected: 2016-12-06
-version_adopted: 2012-09-23
+version: 2021-10-01
+valid_until: 2023-03-31
+version_adopted: 2021-06-13
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2746/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3188/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Graubünden
 
-Vom 14.09.2003 (Stand 01.01.2017)
+Vom 14.09.2003 (Stand 01.10.2021)
 
 Wir, das Volk des Kantons Graubünden,
 
@@ -120,7 +120,7 @@ geben uns folgende Verfassung[^ingress-1]:
 
 **Wahl- und Abstimmungsgrundsätze**
 
-<sup>1</sup> Das allgemeine, gleiche, freie, direkte und geheime Wahl- und Stimmrecht ist gewährleistet. Vorbehalten bleiben offene Abstimmungen in Kreis- und Gemeindeversammlungen.
+<sup>1</sup> Das allgemeine, gleiche, freie, direkte und geheime Wahl- und Stimmrecht ist gewährleistet. Vorbehalten bleiben offene Abstimmungen in Gemeindeversammlungen.
 
 <sup>2</sup> Abstimmungsvorlagen sollen einfach und verständlich sein. Eine unverfälschte Willensbildung und Willenskundgabe ist zu gewährleisten.
 
@@ -308,7 +308,7 @@ geben uns folgende Verfassung[^ingress-1]:
 
 <sup>1</sup> Der Grosse Rat besteht aus 120 Mitgliedern.
 
-<sup>2</sup> Die Wahl erfolgt nach dem Mehrheitswahlverfahren.
+<sup>2</sup> Die Wahl erfolgt nach dem Verhältniswahlverfahren. Das Gesetz kann Mindestquoren und eine Majorzbedingung vorsehen.
 
 <sup>3</sup> Der Kanton ist in höchstens 39 Wahlkreise eingeteilt. Das Gesetz regelt die Zugehörigkeit der Gemeinden zu den Wahlkreisen sowie die Auswirkungen von Gemeindezusammenschlüssen auf die Anzahl der Wahlkreise.
 
@@ -593,7 +593,7 @@ geben uns folgende Verfassung[^ingress-1]:
 <sup>2</sup> Das Verwaltungsgericht beurteilt als Verfassungsgericht:
 
 - 1\. Beschwerden wegen Verletzung von verfassungsmässigen und politischen Rechten sowie des Grundsatzes des Vorrangs von übergeordnetem Recht;
-- 2\. Beschwerden wegen Verletzung der Autonomie der Gemeinden, der Kreise und anderer öffentlichrechtlicher Körperschaften sowie der Landeskirchen.
+- 2\. Beschwerden wegen Verletzung der Autonomie der Gemeinden und anderer öffentlichrechtlicher Körperschaften sowie der Landeskirchen.
 
 <sup>3</sup> Im verfassungsgerichtlichen Verfahren können Gesetze und Verordnungen sowohl unmittelbar angefochten als auch im Anwendungsfall überprüft werden.
 
@@ -629,7 +629,7 @@ geben uns folgende Verfassung[^ingress-1]:
 
 ## 5. Gliederung des Kantons
 
-### 5.1. Gemeinden und interkantonale Zusammenarbeit
+### 5.1. Gemeinden und interkommunale Zusammenarbeit
 
 ### 5.1.1. Gemeindearten
 
@@ -749,26 +749,13 @@ geben uns folgende Verfassung[^ingress-1]:
 
 #### Art. 72
 
-**Regionalverbände**
-
-<sup>1</sup> Regionalverbände sind Körperschaften des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit.
-
-<sup>2</sup> Sie erfüllen die Aufgaben, die ihnen durch den Kanton, die Kreise oder die Gemeinden übertragen werden.
+**…**
 
 ### 5.2.3. Organisation und Aufsicht
 
 #### Art. 73
 
-**Organe**
-
-<sup>1</sup> Die obligatorischen Organe der Kreise und Regionalverbände sind:
-
-- 1\. die Gesamtheit der Stimmberechtigten, welche ihre politischen Rechte an der Urne oder an der Landsgemeinde ausüben;
-- 2\. der Kreisrat beziehungsweise die Delegierten des Regionalverbandes;
-- 3\. die Präsidentin oder der Präsident des Kreises beziehungsweise des Regionalverbandes;
-- 4\. weitere Organe nach Massgabe der Gesetzgebung.
-
-<sup>2</sup> Das Gesetz stellt sicher, dass Kreise und Regionalverbände die politischen Rechte gewährleisten.
+**…**
 
 #### Art. 74
 

@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Costituzione del Cantone dei Grigioni
 language: it
-version: 2017-01-01
-corrected: 2016-12-06
-version_adopted: 2012-09-23
+version: 2021-10-01
+valid_until: 2023-03-31
+version_adopted: 2021-06-13
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2746/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3188/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Costituzione del Cantone dei Grigioni
 
-del 14.09.2003 (stato 01.01.2017)
+del 14.09.2003 (stato 01.10.2021)
 
 Noi, Popolo del Cantone dei Grigioni,
 
@@ -118,7 +118,7 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 **Principi di elezione e di votazione**
 
-<sup>1</sup> Il diritto di elezione e di voto è garantito secondo la forma del suffragio universale, libero, diretto e segreto e nel rispetto del principio di ugua-glianza. Restano riservate le votazioni per alzata di mano in occasione di assemblee di circolo e comunali.
+<sup>1</sup> Il diritto di elezione e di voto è garantito secondo la forma del suffragio universale, libero, diretto e segreto e nel rispetto del principio di uguaglianza. Restano riservate le votazioni per alzata di mano in occasione di assemblee comunali.
 
 <sup>2</sup> I progetti in votazione devono essere semplici e comprensibili. Devono essere garantite una formazione e una manifestazione autentiche della volontà popolare.
 
@@ -306,7 +306,7 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 <sup>1</sup> Il Gran Consiglio è composto di 120 membri.
 
-<sup>2</sup> L'elezione avviene secondo il sistema maggioritario.
+<sup>2</sup> L'elezione avviene secondo il sistema proporzionale. La legge può prevedere dei quorum e una clausola maggioritaria.
 
 <sup>3</sup> Il Cantone è suddiviso in al massimo 39 circondari elettorali. La legge disciplina l'appartenenza dei comuni ai circondari elettorali, nonché le conseguenze di aggregazioni di comuni sul numero di circondari elettorali.
 
@@ -591,7 +591,7 @@ ci diamo la seguente Costituzione:[^ingress-1]
 <sup>2</sup> In veste di corte costituzionale, il Tribunale amministrativo giudica:
 
 - 1\. i ricorsi per violazione di diritti costituzionali e politici nonché per violazione del principio della preminenza del diritto di rango superiore;
-- 2\. i ricorsi per violazione dell'autonomia dei comuni, dei circoli e di altri enti di diritto pubblico, nonché delle Chiese riconosciute dallo Stato.
+- 2\. i ricorsi per violazione dell'autonomia dei comuni e di altri enti di diritto pubblico, nonché delle Chiese riconosciute dallo Stato.
 
 <sup>3</sup> Nelle pratiche di diritto costituzionale le leggi e le ordinanze possono essere sia impugnate direttamente sia esaminate in caso di applicazione.
 
@@ -747,26 +747,13 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 #### Art. 72
 
-**Corporazioni regionali**
-
-<sup>1</sup> Le corporazioni regionali sono enti del diritto pubblico cantonale con personalità giuridica propria.
-
-<sup>2</sup> Assolvono i compiti loro assegnati dal Cantone, dai circoli o dai comuni.
+**…**
 
 ### 5.2.3. Organizzazione e vigilanza
 
 #### Art. 73
 
-**Organi**
-
-<sup>1</sup> Organi obbligatori dei circoli e delle corporazioni regionali sono:
-
-- 1\. l'insieme delle e degli aventi diritto di voto che esercitano i loro diritti politici tramite votazione per urna o votazione per alzata di mano nell'assemblea popolare dei cittadini;
-- 2\. il consiglio del circolo rispettivamente le o i delegati della corporazione regionale;
-- 3\. la o il presidente del circolo rispettivamente della corporazione regionale;
-- 4\. altri organi a norma di legge.
-
-<sup>2</sup> La legge provvede affinché i circoli e le unioni di comuni garantiscano l'esercizio dei diritti politici.
+**…**
 
 #### Art. 74
 
