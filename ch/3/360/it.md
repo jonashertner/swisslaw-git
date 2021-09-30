@@ -4,11 +4,11 @@ title: Legge federale del 7 ottobre 1994 sugli Uffici centrali di polizia giudiz
 short: LUC
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/875_875_875"
 language: it
-version: 2019-03-01
+version: 2021-10-01
 adopted: 1994-10-07
 in_force: 1995-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20190301/it/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20190301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20190301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20211001/it/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20190301/it"
 
 (LUC)**[^t-2]**[^t-1]
 
-del 7 ottobre 1994 (Stato 1° marzo 2019)
+del 7 ottobre 1994 (Stato 1° ottobre 2021) (Stato 1° ottobre 2021)
 
 [^t-1]: Nuovo testo giusta l’art. 3 del DF del 21 mar. 2014 che approva l’Accordo tra la Svizzera, l’Austria e il Liechtenstein sulla cooperazione transfrontaliera in materia di polizia, in vigore dal 1° ago. 2014 ([RU 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 663](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 [^t-2]: Abbreviazione introdotta dal n. I della LF del 18 giu. 1999, in vigore dal 15 giu. 2000 ([RU 2000 1367](https://fedlex.data.admin.ch/eli/oc/2000/214)1368; [FF 1997 IV 1029](https://fedlex.data.admin.ch/eli/fga/1997/4_1293_1149_1029)).
@@ -44,6 +44,16 @@ decreta:
 
 [^1-1]: Nuovo testo giusta l’art. 3 del DF del 21 mar. 2014 che approva l’Accordo tra la Svizzera, l’Austria e il Liechtenstein sulla cooperazione transfrontaliera in materia di polizia, in vigore dal 1° ago. 2014 ([RU 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 663](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 
+#### Art. 1a
+
+**Trattati internazionali sulla cooperazione con autorità di polizia estere**[^1a-1]
+
+<sup>1</sup> Il Consiglio federale può concludere autonomamente trattati internazionali nell’ambito della cooperazione di polizia.
+
+<sup>2</sup> L’Ufficio federale di polizia (fedpol) può concludere autonomamente accordi concernenti aspetti operativi, tecnici e amministrativi con autorità di polizia estere.
+
+[^1a-1]: Introdotto dal n. I 8 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° ott. 2021 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 2
 
 **Compiti**
@@ -57,6 +67,21 @@ Gli uffici centrali giusta la presente legge:
 - e. insediano gli agenti di collegamento all’estero;
 - f. conducono inchieste di polizia giudiziaria nei settori di competenza della Confederazione.
 
+#### Art. 2a
+
+**Compiti**[^2a-1]
+
+Gli uffici centrali assolvono i seguenti compiti:
+
+- a. elaborano le informazioni provenienti dalla Svizzera e dall’estero e rientranti nelle loro competenze;
+- b. coordinano le indagini intercantonali e internazionali;
+- c. redigono rapporti sulla situazione e sulla valutazione della minaccia a destinazione del Dipartimento federale di giustizia e polizia e delle autorità preposte al perseguimento penale;
+- d. garantiscono lo scambio nazionale e internazionale delle informazioni di polizia giudiziaria e collaborano alla prestazione di assistenza giudiziaria in caso di domanda proveniente dall’estero;
+- e. insediano gli agenti di collegamento all’estero;
+- f. conducono indagini di polizia giudiziaria prima dell’apertura di un procedimento penale, sempreché sottostiano alla giurisdizione federale o se non è ancora stato stabilito se il procedimento penale competa alla Confederazione o a un Cantone, segnatamente nel settore della cibercriminalità.
+
+[^2a-1]: Introdotto dal n. I 8 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° ott. 2021 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 3
 
 **Ricerca di informazioni**
@@ -69,6 +94,39 @@ Gli uffici centrali raccolgono le informazioni necessarie all’adempimento dei 
 - d. ricevono e valutano informazioni;
 - e. ricercano l’identità delle persone e il loro soggiorno;
 - f. interpretano informazioni risultanti dall’osservazione diretta.
+
+#### Art. 3a
+
+**Indagini in incognito su Internet o nei media elettronici**[^3a-1]
+
+<sup>1</sup> Per smascherare e combattere crimini e gravi delitti, gli uffici centrali possono, nell’ambito delle indagini di polizia giudiziaria di cui all’articolo 2*a* lettera f, impiegare su Internet e nei media elettronici agenti di polizia in qualità di agenti in incognito, la cui vera identità e funzione non sono riconoscibili. La persona impiegata non è autorizzata a utilizzare una falsa identità attestata da documenti.
+
+<sup>2</sup>
+
+Il capo della Polizia giudiziaria federale può disporre indagini in incognito se:
+
+- a. esistono indizi sufficienti che possa essere commesso un crimine o un grave delitto; e
+- b. altre misure non hanno dato esito positivo oppure se altrimenti le indagini risulterebbero vane o eccessivamente difficili.
+
+<sup>3</sup> Se le indagini in incognito si protraggono per più di un mese, il giudice dei provvedimenti coercitivi del luogo in cui si svolge l’inchiesta decide se prorogare la misura. All’indennizzo del Cantone si applica per analogia l’articolo 65 capoverso 4 della legge federale del 19 marzo 2010[^3a-2] sull’organizzazione delle autorità penali della Confederazione. Le decisioni del giudice dei provvedimenti coercitivi sono impugnabili mediante ricorso dinanzi al Tribunale amministrativo federale. Fedpol è legittimato a ricorrere.
+
+<sup>4</sup> I requisiti delle persone impiegate sono retti dall’articolo 287 del Codice di procedura penale (CPP)[^3a-3]. L’impiego di persone secondo l’articolo 287 capoverso 1 lettera b CPP è escluso. Alla funzione, ai compiti e agli obblighi degli agenti in incognito e delle persone di contatto competenti si applicano per analogia gli articoli 291–294 CPP.
+
+<sup>5</sup>
+
+Il capo della Polizia giudiziaria federale pone fine senza indugio alle indagini in incognito se:
+
+- a. le condizioni non sono più soddisfatte;
+- b. il giudice dei provvedimenti coercitivi rifiuta di approvare la continuazione delle indagini; o
+- c. la persona impiegata o la persona di contatto competente non si attiene alle istruzioni concernenti le indagini oppure non rispetta i suoi obblighi in qualsivoglia altra maniera, segnatamente fornendo scientemente false informazioni agli uffici centrali o cercando di influenzare in modo illecito la persona oggetto delle indagini.
+
+<sup>6</sup> La fine delle indagini in incognito va predisposta in modo tale da non esporre inutilmente a pericolo la persona impiegata.
+
+<sup>7</sup> Il CPP si applica non appena nell’ambito di indagini in incognito emergono indizi concreti di reato nei confronti di una determinata persona. Le informazioni ottenute nell’ambito di indagini in incognito possono essere utilizzate in un procedimento penale.
+
+[^3a-1]: Introdotto dal n. I 8 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° ott. 2021 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^3a-2]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^3a-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 4
 
@@ -86,7 +144,7 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 
 <sup>2</sup> In merito alle controversie che sorgono nell’Amministrazione federale decide l’autorità preposta; in merito alle controversie tra organi della Confederazione e organi dei Cantoni, la Corte dei reclami penali del Tribunale penale federale.[^4-1]
 
-[^4-1]: Nuovo testo giusta il n. 16 dell’all. alla LF del 4 ott. 2002 sul Tribunale penale federale, in vigore dal 1° apr. 2004 ([RU 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^4-1]: Nuovo testo giusta l’all. n. 16 della LF del 4 ott. 2002 sul Tribunale penale federale, in vigore dal 1° apr. 2004 ([RU 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 5
 
@@ -102,7 +160,7 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 
 <sup>4</sup> Il Consiglio federale è autorizzato a convenire con le competenti autorità straniere lo stazionamento di agenti stranieri di collegamento in Svizzera.
 
-[^5-1]: Introdotto dal n. 2 dell’all. al DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 ago. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^5-1]: Introdotto dall’all. n. 2 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 ago. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 
 #### Art. 6
 
@@ -138,8 +196,8 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 
 [^7-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^7-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^7-3]: Introdotto dal n. II 2 del DF del 22 dic. 1999 (Sull’istituzione di nuove competenze procedurali della Confederazione nei settori della criminalità organizzata e della criminalità economica) ([RU 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1095). Nuovo testo giusta il n. II 15 dell’all. 1 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^7-4]: Introdotto dal n. II 2 del DF del 22 dic. 1999 (Sull’istituzione di nuove competenze procedurali della Confederazione nei settori della criminalità organizzata e della criminalità economica ([RU 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1095). Nuovo testo giusta il n. II 15 dell’all. 1 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^7-3]: Introdotto dal n. II 2 del DF del 22 dic. 1999 (Sull’istituzione di nuove competenze procedurali della Confederazione nei settori della criminalità organizzata e della criminalità economica) ([RU 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1095). Nuovo testo giusta l’all. 1 n. II 15 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^7-4]: Introdotto dal n. II 2 del DF del 22 dic. 1999 (Sull’istituzione di nuove competenze procedurali della Confederazione nei settori della criminalità organizzata e della criminalità economica ([RU 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1095). Nuovo testo giusta l’all. 1 n. II 15 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 8
 
@@ -151,7 +209,7 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 
 [^8-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^8-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^8-3]: Nuovo testo giusta il n. II 15 dell’all. 1 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^8-3]: Nuovo testo giusta l’all. 1 n. II 15 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^8-4]: Nuovo testo giusta il n. II 2 del DF del 22 dic. 1999 (Sull’istituzione di nuove competenze procedurali della Confederazione nei settori della criminalità organizzata e della criminalità economica), in vigore dal 1° gen. 2002 ([RU 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1095).
 
 ## Sezione 3: Ufficio centrale per la lotta contro il traffico illegale di stupefacenti
@@ -167,7 +225,7 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 <sup>3</sup> …[^9-3]
 
 [^9-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^9-2]: Nuovo testo giusta il n. II 15 dell’all. 1 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^9-2]: Nuovo testo giusta l’all. 1 n. II 15 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^9-3]: Abrogato dal n. II 2 del DF del 22 dic. 1999 (Sull’istituzione di nuove competenze procedurali della Confederazione nei settori della criminalità organizzata e della criminalità economica), con effetto dal 1° gen. 2002 ([RU 2001 3071](https://fedlex.data.admin.ch/eli/oc/2001/459); FF **1998** 1095).
 
 #### Art. 10
@@ -184,7 +242,7 @@ I Cantoni devono comunicare tempestivamente all’Ufficio centrale tutti i proce
 
 [^1112-1]
 
-[^1112-1]: Abrogati dal n. 8 dell’all. 1 alla LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, con effetto dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^1112-1]: Abrogati dall’all. 1 n. 8 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, con effetto dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 #### Art. 13
 
@@ -201,7 +259,7 @@ I Cantoni devono comunicare tempestivamente all’Ufficio centrale tutti i proce
 
 [^14-1]
 
-[^14-1]: Abrogato dal n. 8 dell’all. 1 alla LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, con effetto dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^14-1]: Abrogato dall’all. 1 n. 8 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, con effetto dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 ## Sezione 5: Disposizioni finali
 

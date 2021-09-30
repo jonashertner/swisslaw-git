@@ -4,20 +4,20 @@ title: "Loi fédérale du 7 octobre 1994 sur les Offices centraux de police crim
 short: LOC
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/875_875_875"
 language: fr
-version: 2019-03-01
+version: 2021-10-01
 adopted: 1994-10-07
 in_force: 1995-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20190301/fr/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20190301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20190301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les Offices centraux de police criminelle de la Confédération et les centres communs de coopération policière et douanière avec d’autres Etats****
+# Loi fédérale sur les Offices centraux de police criminelle de la Confédération et les centres communs de coopération policière et douanière avec d’autres États****
 
 (LOC)**[^t-2]**[^t-1]
 
-du 7 octobre 1994 (Etat le 1<sup>er</sup> mars 2019)
+du 7 octobre 1994 (Etat le 1<sup>er</sup> octobre 2021)
 
 [^t-1]: Nouvelle teneur selon l’art. 3 de l’AF du 21 mars 2014 portant approbation de l’Ac. entre la Suisse, l’Autriche et le Liechtenstein concernant la coopération policière transfrontalière, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 691](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 [^t-2]: Abréviation introduite par le ch. I de la LF du 18 juin 1999, en vigueur depuis le 15 juin 2000 ([RO 2000 1367](https://fedlex.data.admin.ch/eli/oc/2000/214); [FF 1997 IV 1149](https://fedlex.data.admin.ch/eli/fga/1997/4_1293_1149_1029)).
@@ -44,6 +44,16 @@ arrête:
 
 [^1-1]: Nouvelle teneur selon l’art. 3 de l’AF du 21 mars 2014 portant approbation de l’Ac. entre la Suisse, l’Autriche et le Liechtenstein concernant la coopération policière transfrontalière, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 691](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 
+#### Art. 1a
+
+**Traités internationaux de coopération avec des autorités de police étrangères**[^1a-1]
+
+<sup>1</sup> Le Conseil fédéral peut conclure seul des traités internationaux de coopération policière.
+
+<sup>2</sup> L’Office fédéral de la police (fedpol) peut conclure seul des conventions d’ordre opérationnel, technique ou administratif avec des autorités de police étrangères.
+
+[^1a-1]: Introduit par le ch. I 8 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 2
 
 **Tâches**
@@ -57,6 +67,21 @@ Au sens de la présente loi, les offices centraux:
 - e. détachent des agents de liaison à l’étranger;
 - f. mènent des enquêtes de police judiciaire dans les domaines de compétence de la Confédération.
 
+#### Art. 2a
+
+**Tâches**[^2a-1]
+
+Les offices centraux ont les tâches suivantes:
+
+- a. traiter les informations qui relèvent de leur domaine de compétences, qu’elles émanent de Suisse ou d’un pays étranger;
+- b. coordonner les investigations menées aux échelons intercantonal ou international;
+- c. établir des rapports de situation et dresser un bilan de la menace à l’intention du Département fédéral de justice et police et des autorités de poursuite pénale;
+- d. garantir l’échange national et international des informations de police criminelle et participer à l’entraide judiciaire en cas de demande émanant de pays étrangers;
+- e. détacher des agents de liaison à l’étranger;
+- f. mener des enquêtes de police criminelle dans la phase préparatoire des procédures pénales, pour autant qu’elles soient placées sous la juridiction fédérale ou si la compétence de la Confédération ou d’un canton n’a pas encore été définie, notamment dans le domaine de la cybercriminalité.
+
+[^2a-1]: Introduit par le ch. I 8 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 3
 
 **Recherche d’informations**
@@ -69,6 +94,39 @@ Les offices centraux se procurent les informations nécessaires à l’exécutio
 - d. ils enregistrent et exploitent des communications;
 - e. ils enquêtent sur l’identité ou le lieu de séjour de personnes;
 - f. ils exploitent des informations obtenues par observation.
+
+#### Art. 3a
+
+**Recherches secrètes sur Internet et sur les médias électroniques**[^3a-1]
+
+<sup>1</sup> Pour découvrir et combattre les crimes et les délits graves, les offices centraux peuvent, dans le cadre des enquêtes de police criminelle visées à l’art. 2*a*, let. f, faire intervenir des membres des corps de police en tant qu’agents affectés aux recherches secrètes sur Internet et sur les médias électroniques, dont la véritable identité et la fonction ne sont pas reconnaissables. Dans ce contexte, les agents ne sont pas autorisés à utiliser une fausse identité attestée par un titre.
+
+<sup>2</sup>
+
+Le chef de la Police judiciaire fédérale peut ordonner des recherches secrètes aux conditions suivantes:
+
+- a. il existe des indices suffisants laissant présumer qu’un crime ou un délit grave pourrait être commis;
+- b. les autres mesures prises n’ont pas abouti ou l’investigation, à défaut de recherches secrètes, n’aurait aucune chance d’aboutir ou serait excessivement difficile.
+
+<sup>3</sup> Si les recherches secrètes durent plus d’un mois, il revient au tribunal des mesures de contrainte compétent à raison du lieu de décider du maintien, ou non, de la mesure. L’art. 65, al. 4, de la loi du 19 mars 2010 sur l’organisation des autorités pénales[^3a-2] s’applique par analogie pour ce qui est de l’indemnisation du canton. Les décisions du tribunal des mesures de contrainte peuvent faire l’objet d’un recours devant le Tribunal administratif fédéral. Fedpol a qualité pour recourir.
+
+<sup>4</sup> Les qualités requises des agents affectés aux recherches secrètes se fondent sur l’art. 287 du code de procédure pénale (CPP)[^3a-3]. L’engagement de personnes au sens de l’art. 287, al. 1, let. b, CPP est interdit. Les art. 291 à 294 CPP s’appliquent par analogie au rapport de subordination, aux tâches et aux obligations des agents affectés aux recherches secrètes et aux personnes de contact.
+
+<sup>5</sup>
+
+Le chef de la Police judiciaire fédérale met immédiatement fin aux recherches secrètes dans l’un des cas suivants:
+
+- a. les conditions ne sont plus remplies;
+- b. le tribunal des mesures de contrainte refuse de donner son autorisation à la poursuite des recherches secrètes;
+- c. l’agent affecté aux recherches secrètes ou la personne de contact responsable ne suit pas les directives concernant l’enquête ou ne respecte pas ses obligations, notamment en induisant sciemment en erreur les offices centraux ou en tentant d’influencer de manière illicite la personne visée.
+
+<sup>6</sup> Il s’assure, lorsque les recherches secrètes sont terminées, que l’agent ne soit pas exposé inutilement à des dangers.
+
+<sup>7</sup> Le CPP s’applique dès que des soupçons concrets à l’encontre d’une personne déterminée ressortent des recherches secrètes. Les informations obtenues dans le cadre des recherches secrètes peuvent être utilisées dans une procédure pénale.
+
+[^3a-1]: Introduit par le ch. I 8 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^3a-2]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^3a-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 4
 
@@ -92,13 +150,13 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 
 **Agents de liaison**
 
-<sup>1</sup> Les agents de liaison détachés auprès de certaines représentations suisses à l’étranger ou d’organisations internationales apportent leur soutien aux autorités chargées de la poursuite pénale des infractions qui sont de la compétence des offices centraux. Ils collaborent directement, en tant que membres de l’office central et dans les limites des dispositions suivantes, avec les autorités compétentes de l’Etat de résidence et de certains Etats tiers.
+<sup>1</sup> Les agents de liaison détachés auprès de certaines représentations suisses à l’étranger ou d’organisations internationales apportent leur soutien aux autorités chargées de la poursuite pénale des infractions qui sont de la compétence des offices centraux. Ils collaborent directement, en tant que membres de l’office central et dans les limites des dispositions suivantes, avec les autorités compétentes de l’État de résidence et de certains États tiers.
 
 <sup>1bis</sup> L’Office fédéral de la police (fedpol) peut, en accord avec l’Administration fédérale des douanes (AFD), déléguer des tâches de ses propres agents de liaison aux agents de liaison de l’AFD. Dans le cadre des tâches déléguées par fedpol, les agents de liaison de l’AFD sont assimilés aux agents de liaison de fedpol en ce qui concerne l’accès aux systèmes d’information et le droit de traiter les données pour autant que cela soit nécessaire à l’accomplissement des tâches.[^5-1]
 
 <sup>2</sup> Les agents de liaison peuvent aussi être engagés dans des investigations et des enquêtes concernant des crimes et des délits pour lesquels la Suisse peut accorder l’entraide judiciaire.
 
-<sup>3</sup> Le Conseil fédéral définit la mission des agents de liaison d’entente avec l’Etat de résidence.
+<sup>3</sup> Le Conseil fédéral définit la mission des agents de liaison d’entente avec l’État de résidence.
 
 <sup>4</sup> Le Conseil fédéral est habilité à convenir avec les autorités étrangères compétentes de l’établissement d’agents de liaison étrangers en Suisse.
 
@@ -114,9 +172,9 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 
 #### Art. 6a
 
-**Centres communs de coopération policière et douanière avec d’autres Etats**[^6a-1]
+**Centres communs de coopération policière et douanière avec d’autres États**[^6a-1]
 
-<sup>1</sup> La Confédération peut participer à la mise en place de centres communs de coopération policière et douanière sur le territoire d’un des Etats contractants à proximité de la frontière commune.
+<sup>1</sup> La Confédération peut participer à la mise en place de centres communs de coopération policière et douanière sur le territoire d’un des États contractants à proximité de la frontière commune.
 
 <sup>2</sup> Elle coordonne la conduite et l’exploitation de la partie suisse de ces centres.
 
@@ -160,7 +218,7 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 
 **Tâches**
 
-<sup>1</sup> L’Office central de lutte contre le trafic illicite des stupéfiants soutient les autorités de la Confédération, des cantons et des autres Etats dans la prévention et la lutte contre le trafic illicite des stupéfiants.
+<sup>1</sup> L’Office central de lutte contre le trafic illicite des stupéfiants soutient les autorités de la Confédération, des cantons et des autres États dans la prévention et la lutte contre le trafic illicite des stupéfiants.
 
 <sup>2</sup> Dans le cadre de procédures d’entraide judiciaire, il peut être chargé d’administrer des preuves conformément au CPP[^9-1].[^9-2]
 

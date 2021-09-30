@@ -4,11 +4,11 @@ title: Bundesgesetz vom 7. Oktober 1994 über die kriminalpolizeilichen Zentrals
 short: ZentG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/875_875_875"
 language: de
-version: 2019-03-01
+version: 2021-10-01
 adopted: 1994-10-07
 in_force: 1995-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20190301/de/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20190301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20190301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20211001/de/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20190301/de"
 
 (ZentG)**[^t-2]**[^t-1]
 
-vom 7. Oktober 1994 (Stand am 1. März 2019)
+vom 7. Oktober 1994 (Stand am 1. Oktober 2021)
 
 [^t-1]: Fassung gemäss Art. 3 des BB vom 21. März 2014 über die Genehmigung des Vertrags zwischen der Schweiz, Österreich und Liechtenstein über die grenzüberschreitende polizeiliche Zusammenarbeit, in Kraft seit 1. Aug. 2014 ([AS 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [BBl 2013 755](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 [^t-2]: Eingefügt durch Ziff. I des BG vom 18. Juni 1999, in Kraft seit 15. Juni 2000 ([AS 2000 1367](https://fedlex.data.admin.ch/eli/oc/2000/214); [BBl 1997 IV 1293](https://fedlex.data.admin.ch/eli/fga/1997/4_1293_1149_1029)).
@@ -44,6 +44,16 @@ beschliesst:
 
 [^1-1]: Fassung gemäss Art. 3 des BB vom 21. März 2014 über die Genehmigung des Vertrags zwischen der Schweiz, Österreich und Liechtenstein über die grenzüberschreitende polizeiliche Zusammenarbeit, in Kraft seit 1. Aug. 2014 ([AS 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [BBl 2013 755](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 
+#### Art. 1a
+
+**Völkerrechtliche Verträge über die Zusammenarbeit mit ausländischen Polizeibehörden**[^1a-1]
+
+<sup>1</sup> Der Bundesrat kann selbstständig völkerrechtliche Verträge im Bereich der Polizeikooperation abschliessen.
+
+<sup>2</sup> Das Bundesamt für Polizei (fedpol) kann mit ausländischen Polizeibehörden selbstständig Vereinbarungen über operative, technische oder administrative Inhalte abschliessen.
+
+[^1a-1]: Eingefügt durch Ziff. I 8 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Okt. 2021 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 2
 
 **Aufgaben**
@@ -57,6 +67,21 @@ Die Zentralstellen nach diesem Gesetz:
 - e. setzen die Polizeiverbindungsleute im Ausland ein;
 - f. führen gerichtspolizeiliche Ermittlungen durch, wenn der Bund dafür zuständig ist.
 
+#### Art. 2a
+
+**Aufgaben**[^2a-1]
+
+Die Zentralstellen nehmen folgende Aufgaben wahr:
+
+- a. Sie bearbeiten die Informationen aus dem In- und Ausland in ihrem Zuständigkeitsbereich.
+- b. Sie koordinieren die interkantonalen und internationalen Ermittlungen.
+- c. Sie erstellen Lage- und Bedrohungsberichte zuhanden des Eidgenössischen Justiz- und Polizeidepartements und der Strafverfolgungsbehörden.
+- d. Sie stellen den nationalen und internationalen kriminalpolizeilichen Informationsaustausch sicher und wirken bei der Leistung der Rechtshilfe bei einem Ersuchen des Auslands mit.
+- e. Sie setzen die Polizeiverbindungsleute im Ausland ein.
+- f. Sie führen kriminalpolizeiliche Ermittlungen im Vorfeld eines Strafverfahrens durch, wenn Bundesgerichtsbarkeit gegeben ist oder wenn die Zuständigkeit des Bundes oder eines Kantons noch nicht feststeht, insbesondere im Bereich der Cyberkriminalität.
+
+[^2a-1]: Eingefügt durch Ziff. I 8 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Okt. 2021 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 #### Art. 3
 
 **Informationsbeschaffung**
@@ -69,6 +94,39 @@ Die Zentralstellen beschaffen die Informationen, die zur Erfüllung der Aufgaben
 - d. Meldungen entgegennehmen und auswerten;
 - e. nach der Identität oder dem Aufenthalt von Personen forschen;
 - f. Informationen aus Observationen auswerten.
+
+#### Art. 3a
+
+**Verdeckte Fahndung im Internet und in elektronischen Medien**[^3a-1]
+
+<sup>1</sup> Zur Erkennung und Bekämpfung von Verbrechen und schweren Vergehen können die Zentralstellen im Rahmen der kriminalpolizeilichen Ermittlungen nach Artikel 2*a* Buchstabe f Angehörige der Polizei, deren wahre Identität und Funktion nicht erkennbar ist, im Internet und in elektronischen Medien als verdeckte Fahnder oder Fahnderinnen einsetzen. Die eingesetzte Person darf dabei keine durch Urkunden abgesicherte falsche Identität verwenden.
+
+<sup>2</sup>
+
+Der Chef oder die Chefin der Bundeskriminalpolizei kann eine verdeckte Fahndung anordnen, wenn:
+
+- a. hinreichende Anzeichen bestehen, dass es zu einem Verbrechen oder einem schweren Vergehen kommen könnte; und
+- b. andere Massnahmen erfolglos geblieben sind oder die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
+
+<sup>3</sup> Dauert die verdeckte Fahndung länger als einen Monat, so entscheidet das Zwangsmassnahmengericht am Ort, an dem das Ermittlungsverfahren geführt wird, über die Fortsetzung der Massnahme. Für die Entschädigung des Kantons ist Artikel 65 Absatz 4 des Strafbehördenorganisationsgesetzes vom 19. März 2010[^3a-2] sinngemäss anwendbar. Gegen Entscheide des Zwangsmassnahmengerichts ist die Beschwerde an das Bundesverwaltungsgericht zulässig. Fedpol ist zur Beschwerde berechtigt.
+
+<sup>4</sup> Die Anforderungen an eingesetzte Personen richten sich nach Artikel 287 der Strafprozessordnung (StPO)[^3a-3]. Der Einsatz von Personen nach Artikel 287 Absatz 1 Buchstabe b StPO ist ausgeschlossen. Betreffend die Stellung, die Aufgaben und die Pflichten der verdeckten Fahnder und Fahnderinnen sowie der zuständigen Führungsperson gelten sinngemäss die Artikel 291–294 StPO.
+
+<sup>5</sup>
+
+Der Chef oder die Chefin der Bundeskriminalpolizei beendet die verdeckte Fahndung unverzüglich, wenn:
+
+- a. die Voraussetzungen nicht mehr erfüllt sind;
+- b. das Zwangsmassnahmengericht die Genehmigung zur Fortsetzung der Ermittlungen verweigert; oder
+- c. die eingesetzte Person oder die zuständige Führungsperson Anweisungen betreffend die Ermittlung nicht befolgt oder in anderer Weise ihre Pflichten nicht erfüllt, indem sie insbesondere die Zentralstellen wissentlich falsch informiert oder die Zielperson in unzulässiger Weise zu beeinflussen versucht.
+
+<sup>6</sup> Bei der Beendigung der verdeckten Fahndung ist sicherzustellen, dass die eingesetzte Person keiner abwendbaren Gefahr ausgesetzt wird.
+
+<sup>7</sup> Sobald sich im Rahmen einer verdeckten Fahndung ein konkreter Tatverdacht gegen eine bestimmte Person ergibt, gilt die StPO. Die im Rahmen einer verdeckten Fahndung gewonnenen Erkenntnisse können in einem Strafverfahren verwendet werden.
+
+[^3a-1]: Eingefügt durch Ziff. I 8 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Okt. 2021 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^3a-2]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^3a-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 4
 
@@ -164,7 +222,7 @@ Der Bundesrat regelt für jede Zentralstelle durch Verordnung, unter welchen Vor
 
 <sup>2</sup> Sie kann im Rahmen von Rechtshilfeverfahren mit Beweiserhebungen betraut werden; diese führt sie nach den Bestimmungen der StPO[^9-1] durch.[^9-2]
 
-<sup>3</sup> …[^9-3]
+<sup>3</sup> ...[^9-3]
 
 [^9-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^9-2]: Fassung gemäss Anhang 1 Ziff. II 15 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
