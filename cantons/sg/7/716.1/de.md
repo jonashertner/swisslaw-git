@@ -3,20 +3,19 @@ canton: SG
 number: "716.1"
 title: Verordnung zum eidgenössischen Rohrleitungsgesetz
 language: de
-version: 2017-07-01
-valid_until: 2021-09-30
-version_adopted: 2017-05-16
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 1993-09-21
 in_force: 1993-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/716.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2243/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3239/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum eidgenössischen Rohrleitungsgesetz
 
-vom 21.09.1993 (Stand 01.07.2017)
+vom 21.09.1993 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -44,7 +43,7 @@ als Verordnung:[^ingress-3]
 
 **b) Aufsicht**
 
-<sup>1</sup> Das Baudepartement übt die Aufsicht aus.
+<sup>1</sup> Das Bau- und Umweltdepartement übt die Aufsicht aus.
 
 <sup>2</sup> Es kann Dritte beiziehen.
 
