@@ -3,20 +3,20 @@ canton: SG
 number: "145.1"
 title: Verordnung über die Vergütungen an Mitglieder von Kommissionen sowie Expertinnen und Experten der kantonalen Verwaltung (Vergütungsverordnung KomEx)
 language: de
-version: 2020-06-01
-valid_until: 2021-09-30
-version_adopted: 2020-05-12
+version: 2021-10-01
+valid_until: 2021-10-31
+version_adopted: 2021-06-29
 adopted: 2020-05-12
 in_force: 2020-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/145.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2964/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3224/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütungen an Mitglieder von Kommissionen sowie Expertinnen und Experten der kantonalen Verwaltung (Vergütungsverordnung KomEx)
 
-vom 12.05.2020 (Stand 01.06.2020)
+vom 12.05.2020 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
