@@ -3,20 +3,19 @@ canton: SG
 number: "751.11"
 title: Vollzugsverordnung zum Gesetz über die Gewässernutzung
 language: de
-version: 2017-07-01
-valid_until: 2021-09-30
-version_adopted: 2017-05-16
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 1961-11-01
 in_force: 1961-11-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/751.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2247/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3248/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Gesetz über die Gewässernutzung
 
-vom 01.11.1961 (Stand 01.07.2017)
+vom 01.11.1961 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -156,7 +155,7 @@ als Verordnung:[^ingress-4]
 - b) Detailpläne über die projektierte Anlage;
 - c) ein ausführlicher technischer Bericht.
 
-<sup>3</sup> Das Baudepartement kann weitere Unterlagen verlangen und auf Kosten des Gesuchstellers[^8-1] Gutachten von Sachverständigen einholen.
+<sup>3</sup> Das Bau- und Umweltdepartement kann weitere Unterlagen verlangen und auf Kosten des Gesuchstellers[^8-1] Gutachten von Sachverständigen einholen.
 
 [^8-1]: Art. [34](https://www.gesetzessammlung.sg.ch/data/751.1/de/art34) Abs. 2 GNG, sGS [751.1](https://www.gesetzessammlung.sg.ch/data/751.1/de).
 
@@ -252,7 +251,7 @@ als Verordnung:[^ingress-4]
 
 <sup>1</sup> In dem gemäss der früheren Gesetzgebung[^17-1] geführten Wasserrechtsverzeichnis sind die verliehenen Wasserrechte und die ohne Verleihung anerkannten Wasserrechte an oberirdischen Gewässern eingetragen. Sie bleiben im eingetragenen Umfang anerkannt.
 
-<sup>2</sup> Wer im bisherigen Wasserrechtsverzeichnis nicht eingetragene Nutzungsrechte an einem öffentlichen Grundwasser oder an einer öffentlichen Quelle beansprucht, für die zur Zeit weder Wasserzinsen noch Katastergebühren entrichtet werden, hat das beanspruchte Recht unter Anführung der Rechtstitel bis zum 31. Dezember 1962 beim Baudepartement schriftlich anzumelden. Spätere Anmeldungen können mit den Kosten für allfällig entstehende Mehrarbeit belastet werden. Rechte, die bis zum 31. Dezember 1963 nicht angemeldet werden, gehen in jenem Zeitpunkt unter.
+<sup>2</sup> Wer im bisherigen Wasserrechtsverzeichnis nicht eingetragene Nutzungsrechte an einem öffentlichen Grundwasser oder an einer öffentlichen Quelle beansprucht, für die zur Zeit weder Wasserzinsen noch Katastergebühren entrichtet werden, hat das beanspruchte Recht unter Anführung der Rechtstitel bis zum 31. Dezember 1962 beim Bau- und Umweltdepartement schriftlich anzumelden. Spätere Anmeldungen können mit den Kosten für allfällig entstehende Mehrarbeit belastet werden. Rechte, die bis zum 31. Dezember 1963 nicht angemeldet werden, gehen in jenem Zeitpunkt unter.
 
 <sup>3</sup> Die Regierung erlässt Vorschriften über die Veröffentlichung dieser Bestimmungen im kantonalen Amtsblatt und in den amtlichen Publikationsorganen der politischen Gemeinden.
 
@@ -264,13 +263,13 @@ als Verordnung:[^ingress-4]
 
 **Zuständigkeit**
 
-<sup>1</sup> Alle Anordnungen, die das Gesetz dem zuständigen Departement überträgt, obliegen dem Baudepartement.[^18-1]
+<sup>1</sup> Alle Anordnungen, die das Gesetz dem zuständigen Departement überträgt, obliegen dem Bau- und Umweltdepartement.[^18-1]
 
 <sup>2</sup> Das Amt für Wasser und Energie ist zuständige Stelle des Kantons, soweit keine besonderen Vorschriften gelten.
 
 <sup>3</sup> …
 
-[^18-1]: Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^18-1]: Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 19
 
