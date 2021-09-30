@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2021-07-01
+version: 2021-10-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210701/fr"
 
 (LAMal)
 
-du 18 mars 1994 (Etat le 1<sup>er</sup> juillet 2021)
+du 18 mars 1994 (Etat le 1<sup>er</sup> octobre 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -482,19 +482,22 @@ Ces prestations comprennent:
 
 **Soins en cas de maladie**[^25a-1]
 
-<sup>1</sup> L’assurance obligatoire des soins fournit une contribution aux soins qui sont dispensés sur la base d’une prescription médicale et d’un besoin en soins avéré, sous forme ambulatoire, notamment dans des structures de soins de jour ou de nuit, ou dans des établissements médico-sociaux.[^25a-2]
+<sup>1</sup> L’assurance obligatoire des soins fournit une contribution aux soins qui sont dispensés sur la base d’une prescription médicale et d’un besoin en soins avéré, sous forme ambulatoire, notamment dans des structures de soins de jour ou de nuit, ou dans des établissements médico-sociaux.[^25a-2] La rémunération des moyens et appareils diagnostiques ou thérapeutiques utilisés pour les soins est régie par l’art. 52.[^25a-3]
 
-<sup>2</sup> Les soins aigus et de transition qui se révèlent nécessaires à la suite d’un séjour hospitalier et sont prescrits par un médecin de l’hôpital sont rémunérés par l’assurance obligatoire des soins et par le canton de résidence de l’assuré durant deux semaines au plus conformément à la réglementation du financement hospitalier (art. 49*a* Rémunération des prestations hospitalières). Les assureurs et les fournisseurs de prestations conviennent de forfaits.
+<sup>2</sup> Les soins aigus et de transition qui se révèlent nécessaires à la suite d’un séjour hospitalier et sont prescrits par un médecin de l’hôpital sont rémunérés par l’assurance obligatoire des soins et par le canton de résidence de l’assuré durant deux semaines au plus conformément à la réglementation du financement hospitalier (art. 49*a* Rémunération des prestations hospitalières). Les assureurs et les fournisseurs de prestations conviennent de forfaits. La rémunération des moyens et appareils diagnostiques ou thérapeutiques utilisés pour les soins aigus et de transition est régie par l’art. 52.[^25a-4]
 
 <sup>3</sup> Le Conseil fédéral désigne les soins et fixe la procédure d’évaluation des soins requis.
 
 <sup>4</sup> Le Conseil fédéral fixe le montant des contributions en francs en fonction du besoin en soins. Le coût des soins fournis avec la qualité requise et de manière efficace et avantageuse en fonction du besoin est déterminant. Les soins sont soumis à un contrôle de qualité. Le Conseil fédéral fixe les modalités.
 
-<sup>5</sup> Les coûts des soins qui ne sont pas pris en charge par les assurances sociales ne peuvent être répercutés sur la personne assurée qu’à hauteur de 20 % au plus de la contribution maximale fixée par le Conseil fédéral. Les cantons règlent le financement résiduel. Le canton de domicile de la personne assurée est compétent pour fixer et verser le financement résiduel. Dans le domaine des soins ambulatoires, le financement résiduel est régi par les règles du canton où se situe le fournisseur de prestations. Le séjour dans un établissement médico-social ne fonde aucune nouvelle compétence. Si, au moment de l’admission, aucune place ne peut être mise à disposition de la personne assurée dans un établissement médico-social de son canton de domicile qui soit situé à proximité, le canton de domicile prend en charge le financement résiduel selon les règles du canton où se situe le fournisseur de prestations. Ce financement résiduel et le droit de la personne assurée à séjourner dans l’établissement médico-social en question sont garantis pour une durée indéterminée.[^25a-3]
+<sup>5</sup> Les coûts des soins qui ne sont pas pris en charge par les assurances sociales ne peuvent être répercutés sur l’assuré[^25a-5] qu’à hauteur de 20 % au plus de la contribution maximale fixée par le Conseil fédéral. Les cantons règlent le financement résiduel. Le canton de domicile de l’assuré est compétent pour fixer et verser le financement résiduel. Dans le domaine des soins ambulatoires, le financement résiduel est régi par les règles du canton où se situe le fournisseur de prestations. Le séjour dans un établissement médico-social ne fonde aucune nouvelle compétence. Si, au moment de l’admission, aucune place ne peut être mise à disposition de l’assuré dans un établissement médico-social de son canton de domicile qui soit situé à proximité, le canton de domicile prend en charge le financement résiduel selon les règles du canton où se situe le fournisseur de prestations. Ce financement résiduel et le droit de l’assuré à séjourner dans l’établissement médico-social en question sont garantis pour une durée indéterminée.[^25a-6]
 
 [^25a-1]: Introduit par le ch. I 3 de la LF du 13 juin 2008 sur le nouveau régime de financement des soins, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. I; [FF 2005 1911](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25a-2]: Voir aussi les disp. trans. de la mod. du 13 juin 2008 à la fin du texte.
-[^25a-3]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [FF 2016 3779](https://fedlex.data.admin.ch/eli/fga/2016/787)[4383](https://fedlex.data.admin.ch/eli/fga/2016/999)).
+[^25a-2]: Voir aussi les disp. trans. de la mod. du 13 juin 2008 à la fin du texte ([RO 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. I; [FF 2005 1911](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^25a-3]: Phrase introduite par le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Voir aussi la disp. trans. de la mod. du 18 déc. 2020 à la fin du texte.
+[^25a-4]: Phrase introduite par le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Voir aussi la disp. trans. de la mod. du 18 déc. 2020 à la fin du texte.
+[^25a-5]: Nouvelle expression selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^25a-6]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [FF 2016 3779](https://fedlex.data.admin.ch/eli/fga/2016/787)[4383](https://fedlex.data.admin.ch/eli/fga/2016/999)).
 
 #### Art. 26
 
@@ -1018,16 +1021,19 @@ Après avoir consulté les commissions compétentes et conformément aux princip
 
   - 1\. une liste des analyses avec tarif;
   - 2\. une liste avec tarif des produits et des substances actives et auxiliaires employés pour la prescription magistrale; le tarif comprend aussi les prestations du pharmacien;
-  - 3\. des dispositions sur l’obligation de prise en charge et l’étendue de la rémunération des moyens et d’appareils diagnostiques ou thérapeutiques;
+  - 3\.[^52-1] des dispositions sur l’obligation de prise en charge et l’étendue de la rémunération des moyens et appareils diagnostiques ou thérapeutiques utilisés conformément aux art. 25, al. 2, let. b, et 25*a*, al. 1 et 2;
 
 - b. l’office établit une liste, avec prix, des préparations pharmaceutiques et des médicaments confectionnés (liste des spécialités). Celle-ci doit également comprendre les génériques meilleur marché qui sont interchangeables avec les préparations originales.
 
-<sup>2</sup> En matière d’infirmités congénitales (art. 3, al. 2, LPGA[^52-1]), les mesures thérapeutiques du catalogue des prestations de l’assurance-invalidité sont reprises dans les dispositions et listes établies en vertu de l’al. 1.[^52-2]
+<sup>2</sup> En matière d’infirmités congénitales (art. 3, al. 2, LPGA[^52-2]), les mesures thérapeutiques du catalogue des prestations de l’assurance-invalidité sont reprises dans les dispositions et listes établies en vertu de l’al. 1.[^52-3]
 
-<sup>3</sup> Les analyses, médicaments, moyens et appareils diagnostiques ou thérapeutiques peuvent être facturés au plus d’après les tarifs, prix et taux de rémunération au sens de l’al. 1. Le Conseil fédéral désigne les analyses effectuées au cabinet du médecin pour lesquelles le tarif peut être fixé d’après les art. 46 et 48.
+<sup>3</sup> Les analyses, médicaments, moyens et appareils diagnostiques ou thérapeutiques peuvent être facturés au plus d’après les tarifs, prix et taux de rémunération au sens de l’al. 1. Le département désigne les analyses effectuées dans le laboratoire du cabinet médical pour lesquelles le tarif peut être fixé conformément aux art. 46 et 48.[^52-4] Il peut également désigner les moyens et appareils diagnostiques ou thérapeutiques visés à l’al. 1, let. a, ch. 3, pour lesquels un tarif peut être convenu conformément à l’art. 46.[^52-5]
 
-[^52-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^52-2]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^52-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Voir aussi la disp. trans. de la mod. du 18 déc. 2020 à la fin du texte.
+[^52-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^52-3]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^52-4]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^52-5]: Phrase introduite par le ch. I de la LF du 18 déc. 2020 (Rémunération du matériel de soins), en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
 
 #### Art. 52a
 
@@ -1112,7 +1118,7 @@ En cas de limitation des admissions à pratiquer dans un canton, les médecins s
 
 <sup>6</sup> Lorsque, dans un canton, les coûts annuels par assuré dans un domaine de spécialité augmentent davantage que les coûts annuels des autres domaines de spécialité dans ce canton ou que la moyenne suisse des coûts annuels dans le domaine de spécialité en question, le canton peut prévoir qu’aucune nouvelle admission à pratiquer à la charge de l’assurance obligatoire des soins n’est délivrée dans ce domaine de spécialité.
 
-[^55a-1]: Introduit par le ch. I de la LF du 24 mars 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365)2311; FF **1999** 727). Nouvelle teneur selon le ch.I de la LF du 19 juin 2020 (Admission des fournis-seurs de prestations), en vigueur depuis le 1er juillet 2021. ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^55a-1]: Introduit par le ch. I de la LF du 24 mars 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365)2311; FF **1999** 727). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 
 ### Section 6 Contrôle du caractère économique et de la qualité des prestations
 
@@ -1522,7 +1528,7 @@ L’assureur ne peut prélever aucune participation aux coûts des prestations s
 
 <sup>8</sup> Le Conseil fédéral règle les tâches de l’organe de révision et désigne les titres jugés équivalents à un acte de défaut de biens. Il règle également les modalités de la procédure de sommation et de poursuite ainsi que les modalités de transmission des données des assureurs aux cantons et des versements des cantons aux assureurs.
 
-<sup>9</sup> Le Conseil fédéral édicte des dispositions sur le non-paiement des primes et des participations aux coûts des personnes tenues de s'assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège. Si le droit de l’État concerné permet à l’assureur de recouvrer les primes et participations aux coûts impayées, le Conseil fédéral peut obliger les cantons à prendre en charge 85 % des créances ayant fait l’objet de l’annonce visée à l’al. 3. Si le droit de l’État concerné ne le permet pas, le Conseil fédéral peut accorder aux assureurs le droit de suspendre la prise en charge des coûts des prestations.[^64a-3]
+<sup>9</sup> Le Conseil fédéral édicte des dispositions sur le non-paiement des primes et des participations aux coûts des personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège. Si le droit de l’État concerné permet à l’assureur de recouvrer les primes et participations aux coûts impayées, le Conseil fédéral peut obliger les cantons à prendre en charge 85 % des créances ayant fait l’objet de l’annonce visée à l’al. 3. Si le droit de l’État concerné ne le permet pas, le Conseil fédéral peut accorder aux assureurs le droit de suspendre la prise en charge des coûts des prestations.[^64a-3]
 
 [^64a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476), [FF 2009 5973](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5987](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
 [^64a-2]: Voir aussi les dips. trans. de la mod. du 19 mars 2010 à la fin du texte.
@@ -2382,17 +2388,19 @@ Les cantons mettent en œuvre le système de réduction des primes pour les enfa
 
 Les fédérations des fournisseurs de prestations et des assureurs soumettent pour approbation au Conseil fédéral les conventions de qualité, pour la première fois, un an après l’entrée en vigueur de la modification du 21 juin 2019.
 
-## Dispositions transitoires relatives à la modification du 19 juin 2020****
-
-[^u17-1]
-
-[^u17-1]: [RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)
+Dispositions transitoires relatives à la modification du 19 juin 2020**[^t-1]**
 
 <sup>1</sup> Les réglementations cantonales en matière de limitation des admissions à pratiquer à la charge de l’assurance obligatoire des soins doivent être adaptées dans un délai de deux ans à compter de l’entrée en vigueur de la modification du 19 juin 2020. L’ancien droit régissant la limitation de l’admission à pratiquer à la charge de l’assurance obligatoire des soins reste applicable jusqu’à l’adaptation des réglementations cantonales concernées, mais pendant deux ans au plus.
 
-<sup>2...</sup>[^u17-2]
+<sup>2...</sup>[^t-2]
 
-[^u17-2]: Entre en vigueur le 1<sup>er</sup> janvier 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+Disposition transitoire de la modification du 18 décembre 2020 (Rémunération du matériel de soins)**[^t-3]**
+
+Pendant une année après l’entrée en vigueur de la modification du 18 décembre 2020, la rémunération des moyens et appareils diagnostiques ou thérapeutiques qui sont utilisés conformément à l’art. 25*a*, al. 1 et 2, et pour lesquels le département n’a pas encore édicté, conformément à l’art. 52, al. 1, let. a, ch. 3, des dispositions sur l’obligation de prise en charge et l’étendue de la rémunération reste régie par l’ancien droit.
+
+[^t-1]: [RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205).
+[^t-2]: Entre en vigueur le 1<sup>er</sup> janvier 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^t-3]: [RO 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4695](https://fedlex.data.admin.ch/eli/fga/2020/1157)
 
 Annexe
 

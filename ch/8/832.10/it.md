@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2021-07-01
+version: 2021-10-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20211001/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210701/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 1° luglio 2021)
+del 18 marzo 1994 (Stato 1° ottobre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -481,19 +481,21 @@ Queste prestazioni comprendono:
 
 **Cure in caso di malattia**[^25a-1]
 
-<sup>1</sup> L’assicurazione obbligatoria delle cure medico sanitarie presta un contributo alle cure dispensate ambulatoriamente in base a una prescrizione medica e a un comprovato bisogno terapeutico, anche in istituzioni con strutture diurne o notturne o in una casa di cura.[^25a-2]
+<sup>1</sup> L’assicurazione obbligatoria delle cure medico sanitarie presta un contributo alle cure dispensate ambulatoriamente in base a una prescrizione medica e a un comprovato bisogno terapeutico, anche in istituzioni con strutture diurne o notturne o in una casa di cura.[^25a-2] La rimunerazione dei mezzi e degli apparecchi diagnostici e terapeutici utilizzati per le cure è retta dall’articolo 52.[^25a-3]
 
-<sup>2</sup> I costi delle cure acute e transitorie che si rivelano necessarie in seguito a un soggiorno ospedaliero e sono dispensate in base a una prescrizione medica sono rimunerati dall’assicurazione obbligatoria delle cure medico sanitarie e dal Cantone di domicilio dell’assicurato per due settimane al massimo secondo le disposizioni sul finanziamento ospedaliero (art. 49*a* Remunerazione delle prestazioni ospedaliere). Assicuratori e fornitori di prestazioni convengono importi forfettari.
+<sup>2</sup> I costi delle cure acute e transitorie che si rivelano necessarie in seguito a un soggiorno ospedaliero e sono dispensate in base a una prescrizione medica sono rimunerati dall’assicurazione obbligatoria delle cure medico sanitarie e dal Cantone di domicilio dell’assicurato per due settimane al massimo secondo le disposizioni sul finanziamento ospedaliero (art. 49*a* Remunerazione delle prestazioni ospedaliere). Assicuratori e fornitori di prestazioni convengono importi forfettari. La rimunerazione dei mezzi e degli apparecchi diagnostici e terapeutici utilizzati per le cure acute e transitorie è retta dall’articolo 52.[^25a-4]
 
 <sup>3</sup> Il Consiglio federale designa le cure e disciplina la procedura di accertamento del bisogno.
 
 <sup>4</sup> Il Consiglio federale fissa i contributi in franchi differenziandoli a seconda del bisogno terapeutico. È determinante il costo calcolato secondo il bisogno in cure della qualità necessaria, dispensate in modo efficiente ed economico. Le cure sono sottoposte a un controllo della qualità. Il Consiglio federale determina le modalità.
 
-<sup>5</sup> I costi delle cure non coperti dalle assicurazioni sociali possono essere addossati all’assicurato solo per un importo massimo corrispondente al 20 per cento del contributo alle cure massimo fissato dal Consiglio federale. I Cantoni disciplinano il finanziamento residuo. La determinazione e il versamento del finanziamento residuo competono al Cantone nel quale l’assicurato è domiciliato. Nel caso delle cure ambulatoriali, il finanziamento residuo è retto dalle disposizioni del Cantone di ubicazione del fornitore di prestazioni. La degenza in una casa di cura non fonda una nuova competenza. Se, al momento del ricovero, nel Cantone di domicilio non vi è disponibilità di posti letto in una casa di cura situata nei pressi del domicilio dell’assicurato, il finanziamento residuo è assunto dal Cantone di domicilio conformemente alle disposizioni del Cantone di ubicazione del fornitore di prestazioni. Questo finanziamento residuo e il diritto dell’assicurato alla degenza nella casa di cura in questione sono garantiti senza limiti di tempo.[^25a-3]
+<sup>5</sup> I costi delle cure non coperti dalle assicurazioni sociali possono essere addossati all’assicurato solo per un importo massimo corrispondente al 20 per cento del contributo alle cure massimo fissato dal Consiglio federale. I Cantoni disciplinano il finanziamento residuo. La determinazione e il versamento del finanziamento residuo competono al Cantone nel quale l’assicurato è domiciliato. Nel caso delle cure ambulatoriali, il finanziamento residuo è retto dalle disposizioni del Cantone di ubicazione del fornitore di prestazioni. La degenza in una casa di cura non fonda una nuova competenza. Se, al momento del ricovero, nel Cantone di domicilio non vi è disponibilità di posti letto in una casa di cura situata nei pressi del domicilio dell’assicurato, il finanziamento residuo è assunto dal Cantone di domicilio conformemente alle disposizioni del Cantone di ubicazione del fornitore di prestazioni. Questo finanziamento residuo e il diritto dell’assicurato alla degenza nella casa di cura in questione sono garantiti senza limiti di tempo.[^25a-5]
 
 [^25a-1]: Introdotto dal n. I 3 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25a-2]: Vedi anche le disp. trans. della mod. del 13 giu. 2008 alla fine del presente testo.
-[^25a-3]: Nuovo testo giusta il n. I della LF del 29 set. 2017, in vigore dal 1° gen. 2019 ([RU 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [FF 2016 3491](https://fedlex.data.admin.ch/eli/fga/2016/787)[4021](https://fedlex.data.admin.ch/eli/fga/2016/999)).
+[^25a-2]: Vedi anche le disp. trans. della mod. del 13 giu. 2008 e del 18 dic. 2020 alla fine del presente testo ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^25a-3]: Per. introdotto dal n. I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345), [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Vedi anche le disp. trans. della mod. del 18 dic. 2020 alla fine del presente testo.
+[^25a-4]: Per. introdotto dal n. I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345), [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Vedi anche le disp. trans. della mod. del 18 dic. 2020 alla fine del presente testo.
+[^25a-5]: Nuovo testo giusta il n. I della LF del 29 set. 2017, in vigore dal 1° gen. 2019 ([RU 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [FF 2016 3491](https://fedlex.data.admin.ch/eli/fga/2016/787)[4021](https://fedlex.data.admin.ch/eli/fga/2016/999)).
 
 #### Art. 26
 
@@ -530,6 +532,7 @@ Quest’ultime comprendono:
 
 - a. gli esami di controllo durante e dopo la gravidanza, effettuati da un medico o da una levatrice o prescritti da un medico;
 - b.[^29-1] il parto a domicilio, in ospedale o in una casa per partorienti, come pure l’assistenza del medico o della levatrice;
+- [tab]
 - c. la necessaria consulenza per l’allattamento;
 - d.[^29-2] i costi delle cure e della degenza del neonato sano, finché soggiorna con la madre all’ospedale.
 
@@ -1018,16 +1021,18 @@ Sentite le competenti commissioni e conformemente ai principi di cui agli artico
 
   - 1\. un elenco delle analisi con tariffa;
   - 2\. un elenco, con tariffa, dei preparati e delle sostanze attive e ausiliarie impiegati per la prescrizione magistrale; la tariffa comprende anche le prestazioni del farmacista;
-  - 3\. disposizioni sull’obbligo d’assunzione delle prestazioni e sull’entità della rimunerazione di mezzi e d’apparecchi diagnostici e terapeutici;
+  - 3\.[^52-1] disposizioni sull’obbligo d’assunzione delle prestazioni e sull’entità della rimunerazione di mezzi e d’apparecchi diagnostici e terapeutici utilizzati secondo gli articoli 25 capoverso 2 lettera b e 25*a* capoversi 1 e 2;
 
 - b. l’Ufficio federale appronta un elenco delle specialità farmaceutiche e dei medicamenti confezionati, con l’indicazione dei prezzi (elenco delle specialità). Tale elenco deve contenere anche i prodotti generici a prezzi più vantaggiosi che possono sostituire i preparati originali.
 
-<sup>2</sup> In materia di infermità congenite (art. 3 cpv. 2 LPGA[^52-1]), le terapie che figurano nel catalogo delle prestazioni dell’assicurazione per l’invalidità sono riprese nelle disposizioni e negli elenchi allestiti secondo il capoverso 1.[^52-2]
+<sup>2</sup> In materia di infermità congenite (art. 3 cpv. 2 LPGA[^52-2]), le terapie che figurano nel catalogo delle prestazioni dell’assicurazione per l’invalidità sono riprese nelle disposizioni e negli elenchi allestiti secondo il capoverso 1.[^52-3]
 
-<sup>3</sup> Le analisi, i medicamenti, i mezzi e gli apparecchi diagnostici e terapeutici possono essere fatturati al massimo secondo le tariffe, i prezzi e i tassi di rimunerazione ai sensi del capoverso 1. Il Consiglio federale designa le analisi effettuate nel laboratorio del medico, per le quali la tariffa può essere stabilita secondo gli articoli 46 e 48.
+<sup>3</sup> Le analisi, i medicamenti, i mezzi e gli apparecchi diagnostici e terapeutici possono essere fatturati al massimo secondo le tariffe, i prezzi e i tassi di rimunerazione ai sensi del capoverso 1. Il Dipartimento designa le analisi effettuate nel laboratorio dello studio medico per le quali la tariffa può essere stabilita secondo gli articoli 46 e 48. Può inoltre designare i mezzi e gli apparecchi diagnostici e terapeutici di cui al capoverso 1 lettera a numero 3 per i quali può essere convenuta una tariffa secondo l’articolo 46.[^52-4]
 
-[^52-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^52-2]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^52-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345), [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Vedi anche le disp. trans. della mod. del 18 dic. 2020 alla fine del presente testo.
+[^52-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^52-3]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^52-4]: Ntuvo testo del secondo e terzo per. giusta n. I della LF del 18 dic. 2020 (Rimunerazione del materiale sanitario), in vigore dal 1° ott. 2021 ([RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345), [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
 
 #### Art. 52a
 
@@ -2379,17 +2384,25 @@ I Cantoni attuano il sistema di riduzione dei premi per i minorenni previsto nel
 
 Le federazioni dei fornitori di prestazioni e degli assicuratori sottopongono al Consiglio federale per approvazione le convenzioni sulla qualità la prima volta un anno dopo l’entrata in vigore della modifica del 21 giugno 2019.
 
-## Disposizioni transitorie della modifica del 19 giugno 2020****
+## Disposizione transitoria della modifica del 18 dicembre 2020 (Rimunerazione del materiale sanitario)****
 
 [^u17-1]
 
-[^u17-1]: [RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)
+[^u17-1]: [RU 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [FF 2020 4317](https://fedlex.data.admin.ch/eli/fga/2020/1157)
+
+Per un anno dall’entrata in vigore della modifica del 18 dicembre 2020, la rimunerazione dei mezzi e degli apparecchi diagnostici e terapeutici utilizzati secondo l’articolo 25*a* capoversi 1 e 2 e per i quali il Dipartimento non ha ancora emanato disposizioni sull’obbligo di assunzione delle prestazioni e sull’entità della rimunerazione secondo l’articolo 52 capoverso 1 lettera a numero 3 continua a essere retta dal diritto previgente.
+
+## Disposizioni transitorie della modifica del 19 giugno 2020****
+
+[^u18-1]
+
+[^u18-1]: [RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)
 
 <sup>1</sup> Le normative cantonali in materia di limitazione delle autorizzazioni a esercitare a carico dell’assicurazione obbligatoria delle cure medico-sanitarie devono essere adeguate entro due anni dall’entrata in vigore della presente modifica. Fintanto che le normative cantonali non sono adeguate, ma al massimo per due anni, l’autorizzazione a esercitare a carico dell’assicurazione obbligatoria delle cure medico-sanitarie è disciplinata secondo il diritto anteriore.
 
-<sup>2</sup> ...[^u17-2]
+<sup>2</sup> ...[^u18-2]
 
-[^u17-2]: In vigore dal 1° gen. 2022 ([RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+[^u18-2]: In vigore dal 1° gen. 2022 ([RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 
 Allegato
 

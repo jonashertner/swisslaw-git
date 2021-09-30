@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2021-07-01
+version: 2021-10-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20211001/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210701/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. Juli 2021) (Stand am 1. Juli 2021)
+vom 18. März 1994 (Stand am 1. Oktober 2021) (Stand am 1. Oktober 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -481,19 +481,21 @@ Diese Leistungen umfassen:
 
 **Pflegeleistungen bei Krankheit**[^25a-1]
 
-<sup>1</sup> Die obligatorische Krankenpflegeversicherung leistet einen Beitrag an die Pflegeleistungen, welche aufgrund einer ärztlichen Anordnung und eines ausgewiesenen Pflegebedarfs ambulant, auch in Tages- oder Nachtstrukturen, oder im Pflegeheim erbracht werden.[^25a-2]
+<sup>1</sup> Die obligatorische Krankenpflegeversicherung leistet einen Beitrag an die Pflegeleistungen, welche aufgrund einer ärztlichen Anordnung und eines ausgewiesenen Pflegebedarfs ambulant, auch in Tages- oder Nachtstrukturen, oder im Pflegeheim erbracht werden.[^25a-2] Für die Vergütung der der Untersuchung oder Behandlung dienenden Mittel und Gegenstände, die für Pflegeleistungen verwendet werden, gilt Artikel 52.[^25a-3]
 
-<sup>2</sup> Die Leistungen der Akut- und Übergangspflege, welche sich im Anschluss an einen Spitalaufenthalt als notwendig erweisen und die im Spital ärztlich angeordnet werden, werden von der obligatorischen Krankenpflegeversicherung und vom Wohnkanton des Versicherten während längstens zwei Wochen nach den Regeln der Spitalfinanzierung (Art. 49*a* Abgeltung der stationären Leistungen) vergütet. Versicherer und Leistungserbringer vereinbaren Pauschalen.
+<sup>2</sup> Die Leistungen der Akut- und Übergangspflege, welche sich im Anschluss an einen Spitalaufenthalt als notwendig erweisen und die im Spital ärztlich angeordnet werden, werden von der obligatorischen Krankenpflegeversicherung und vom Wohnkanton des Versicherten während längstens zwei Wochen nach den Regeln der Spitalfinanzierung (Art. 49*a* Abgeltung der stationären Leistungen) vergütet. Versicherer und Leistungserbringer vereinbaren Pauschalen. Für die Vergütung der der Untersuchung oder Behandlung dienenden Mittel und Gegenstände, die für die Akut- und Übergangspflege verwendet werden, gilt Artikel 52.[^25a-4]
 
 <sup>3</sup> Der Bundesrat bezeichnet die Pflegeleistungen und regelt das Verfahren der Bedarfsermittlung.
 
 <sup>4</sup> Der Bundesrat setzt die Beiträge differenziert nach dem Pflegebedarf in Franken fest. Massgebend ist der Aufwand nach Pflegebedarf für Pflegeleistungen, die in der notwendigen Qualität, effizient und kostengünstig erbracht werden. Die Pflegeleistungen werden einer Qualitätskontrolle unterzogen. Der Bundesrat legt die Modalitäten fest.
 
-<sup>5</sup> Der versicherten Person dürfen von den nicht von Sozialversicherungen gedeckten Pflegekosten höchstens 20 Prozent des höchsten vom Bundesrat festgesetzten Pflegebeitrages überwälzt werden. Die Kantone regeln die Restfinanzierung. Für die Festsetzung und Auszahlung der Restfinanzierung zuständig ist der Kanton, in dem die versicherte Person ihren Wohnsitz hat. Im Bereich der ambulanten Pflege gelten die Regeln der Restfinanzierung des Standortkantons des Leistungserbringers. Der Aufenthalt in einem Pflegeheim begründet keine neue Zuständigkeit. Kann der versicherten Person zum Zeitpunkt des Heimeintritts kein Pflegeheimplatz in geografischer Nähe in ihrem Wohnkanton zur Verfügung gestellt werden, so übernimmt der Wohnkanton die Restfinanzierung nach den Regeln des Standortkantons des Leistungserbringers. Diese Restfinanzierung und das Recht der versicherten Person zum Aufenthalt im betreffenden Pflegeheim sind für eine unbeschränkte Dauer gewährleistet.[^25a-3]
+<sup>5</sup> Der versicherten Person dürfen von den nicht von Sozialversicherungen gedeckten Pflegekosten höchstens 20 Prozent des höchsten vom Bundesrat festgesetzten Pflegebeitrages überwälzt werden. Die Kantone regeln die Restfinanzierung. Für die Festsetzung und Auszahlung der Restfinanzierung zuständig ist der Kanton, in dem die versicherte Person ihren Wohnsitz hat. Im Bereich der ambulanten Pflege gelten die Regeln der Restfinanzierung des Standortkantons des Leistungserbringers. Der Aufenthalt in einem Pflegeheim begründet keine neue Zuständigkeit. Kann der versicherten Person zum Zeitpunkt des Heimeintritts kein Pflegeheimplatz in geografischer Nähe in ihrem Wohnkanton zur Verfügung gestellt werden, so übernimmt der Wohnkanton die Restfinanzierung nach den Regeln des Standortkantons des Leistungserbringers. Diese Restfinanzierung und das Recht der versicherten Person zum Aufenthalt im betreffenden Pflegeheim sind für eine unbeschränkte Dauer gewährleistet.[^25a-5]
 
 [^25a-1]: Eingefügt durch Ziff. I 3 des BG vom 13. Juni 2008 über die Neuordnung der Pflegefinanzierung, in Kraft seit 1. Jan. 2011 ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^25a-2]: Siehe auch die UeB Änd. 13.06.2008 am Schluss dieses Textes.
-[^25a-3]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [BBl 2016 3961](https://fedlex.data.admin.ch/eli/fga/2016/787)[4563](https://fedlex.data.admin.ch/eli/fga/2016/999)).
+[^25a-2]: Siehe auch die UeB Änd. 13.06.2008 am Schluss dieses Textes ([AS 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)6487 Ziff. I; [BBl 2005 2033](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^25a-3]: Zweiter Satz eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Siehe auch die UeB Änd. 18.12.2020 am Schluss dieses Textes.
+[^25a-4]: Dritter Satz eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Siehe auch die UeB Änd. 18.12.2020 am Schluss dieses Textes.
+[^25a-5]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 2989](https://fedlex.data.admin.ch/eli/oc/2018/457); [BBl 2016 3961](https://fedlex.data.admin.ch/eli/fga/2016/787)[4563](https://fedlex.data.admin.ch/eli/fga/2016/999)).
 
 #### Art. 26
 
@@ -1015,16 +1017,19 @@ Nach Anhören der zuständigen Kommissionen und unter Berücksichtigung der Grun
 
   - 1\. eine Liste der Analysen mit Tarif,
   - 2\. eine Liste der in der Rezeptur verwendeten Präparate, Wirk- und Hilfsstoffe mit Tarif; dieser umfasst auch die Leistungen des Apothekers oder der Apothekerin,
-  - 3\. Bestimmungen über die Leistungspflicht und den Umfang der Vergütung bei Mitteln und Gegenständen, die der Untersuchung oder Behandlung dienen;
+  - 3\.[^52-1] Bestimmungen über die Leistungspflicht und den Umfang der Vergütung von der Untersuchung oder Behandlung dienenden Mitteln und Gegenständen, die nach den Artikeln 25 Absatz 2 Buchstabe b und 25*a* Absätze 1 und 2 verwendet werden;
 
 - b. erstellt das Bundesamt eine Liste der pharmazeutischen Spezialitäten und konfektionierten Arzneimittel mit Preisen (Spezialitätenliste). Diese hat auch die mit den Originalpräparaten austauschbaren preisgünstigeren Generika zu enthalten.
 
-<sup>2</sup> Für Geburtsgebrechen (Art. 3 Abs. 2 ATSG[^52-1]) werden die zum Leistungskatalog der Invalidenversicherung gehörenden therapeutischen Massnahmen in die Erlasse und Listen nach Absatz 1 aufgenommen.[^52-2]
+<sup>2</sup> Für Geburtsgebrechen (Art. 3 Abs. 2 ATSG[^52-2]) werden die zum Leistungskatalog der Invalidenversicherung gehörenden therapeutischen Massnahmen in die Erlasse und Listen nach Absatz 1 aufgenommen.[^52-3]
 
-<sup>3</sup> Analysen, Arzneimittel und der Untersuchung oder der Behandlung dienende Mittel und Gegenstände dürfen höchstens nach den Tarifen, Preisen und Vergütungsansätzen gemäss Absatz 1 verrechnet werden. Der Bundesrat bezeichnet die im Praxislabor des Arztes oder der Ärztin vorgenommenen Analysen, für die der Tarif nach den Artikeln 46 und 48 festgesetzt werden kann.
+<sup>3</sup> Analysen, Arzneimittel und der Untersuchung oder der Behandlung dienende Mittel und Gegenstände dürfen höchstens nach den Tarifen, Preisen und Vergütungsansätzen gemäss Absatz 1 verrechnet werden. Das Departement bezeichnet die im Praxislaboratorium des Arztes oder der Ärztin vorgenommenen Analysen, für die der Tarif nach den Artikeln 46 und 48 festgesetzt werden kann.[^52-4] Es kann zudem die der Untersuchung oder Behandlung dienenden Mittel und Gegenstände nach Absatz 1 Buchstabe a Ziffer 3 bezeichnen, für die ein Tarif nach Artikel 46 vereinbart werden kann.[^52-5]
 
-[^52-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^52-2]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^52-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)). Siehe auch die UeB Änd. 18.12.2020 am Schluss dieses Textes.
+[^52-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^52-3]: Fassung gemäss Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^52-4]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
+[^52-5]: Dritter Satz eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Vergütung des Pflegematerials), in Kraft seit 1. Okt. 2021 ([AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)).
 
 #### Art. 52a
 
@@ -2374,17 +2379,25 @@ Die Kantone setzen das in Artikel 65 Absatz 1<sup>bis</sup> festgelegte System d
 
 Die Verbände der Leistungserbringer und der Versicherer müssen dem Bundesrat die Verträge über die Qualitätsentwicklung erstmalig ein Jahr nach Inkrafttreten der Änderung vom 21. Juni 2019 zur Genehmigung einreichen.
 
-## Übergangsbestimmungen zur Änderung vom 19. Juni 2020****
+## Übergangsbestimmung zur Änderung vom 18. Dezember 2020 (Vergütung des Pflegematerials)****
 
 [^u17-1]
 
-[^u17-1]: [AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)
+[^u17-1]: [AS 2021 345](https://fedlex.data.admin.ch/eli/oc/2021/345); [BBl 2020 4825](https://fedlex.data.admin.ch/eli/fga/2020/1157)
+
+Während eines Jahres ab Inkrafttreten der Änderung vom 18. Dezember 2020 erfolgt die Vergütung der der Untersuchung oder Behandlung dienenden Mittel und Gegenstände, die nach Artikel 25*a* Absätze 1 und 2 verwendet werden und für die das Departement noch keine Bestimmung über die Leistungspflicht und den Umfang der Vergütung nach Artikel 52 Absatz 1 Buchstabe a Ziffer 3 erlassen hat, weiterhin nach dem bisherigen Recht.
+
+## Übergangsbestimmungen zur Änderung vom 19. Juni 2020****
+
+[^u18-1]
+
+[^u18-1]: [AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)
 
 <sup>1</sup> Die kantonalen Regelungen zur Einschränkung der Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung sind innerhalb von zwei Jahren nach Inkrafttreten der Änderung 19. Juni 2020 anzupassen. Bis die kantonale Regelung angepasst ist, längstens aber während zweier Jahre, gilt für die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung im jeweiligen Kanton das bisherige Recht.
 
-<sup>2</sup> ...[^u17-2]
+<sup>2</sup> ...[^u18-2]
 
-[^u17-2]: Tritt am 1. Jan. 2022 in Kraft ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)).
+[^u18-2]: Tritt am 1. Jan. 2022 in Kraft ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)).
 
 Anhang
 
