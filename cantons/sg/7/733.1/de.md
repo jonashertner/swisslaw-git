@@ -4,13 +4,12 @@ number: "733.1"
 title: Immobilienverordnung
 short: ImmoV
 language: de
-version: 2016-02-01
-valid_until: 2021-09-30
-version_adopted: 2015-12-15
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 2015-12-15
 in_force: 2016-02-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/733.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2059/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3243/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2059/pdf_file"
 
 (ImmoV)
 
-vom 15.12.2015 (Stand 01.02.2016)
+vom 15.12.2015 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -72,7 +71,7 @@ als Verordnung:[^ingress-1]
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Baudepartement ist zuständiges Departement für das Immobilienmanagement, soweit dieser Erlass nichts anderes bestimmt.
+<sup>1</sup> Das Bau- und Umweltdepartement ist zuständiges Departement für das Immobilienmanagement, soweit dieser Erlass nichts anderes bestimmt.
 
 <sup>2</sup> Die Regierung ist zuständig für den Beschluss über Immobilienstandards, insbesondere Flächen-, Bau- und Bewirtschaftungsstandards.
 
@@ -205,7 +204,7 @@ als Verordnung:[^ingress-1]
 - a) bei Vorhaben zur Deckung des Erhaltungsbedarfs unter Federführung des Hochbauamtes mit Einbezug des betroffenen Departementes, der Staatskanzlei oder der Gerichte;
 - b) bei Vorhaben zur Deckung des Nutzerbedarfs unter Federführung des betroffenen Departementes, der Staatskanzlei oder der Gerichte mit Unterstützung durch das Hochbauamt.
 
-<sup>2</sup> Die Projektskizze bedarf der Genehmigung durch die Regierung. Im Rahmen der Genehmigung beauftragt die Regierung das Baudepartement mit der Ausarbeitung einer Projektdefinition und bestellt einen Lenkungsausschuss.
+<sup>2</sup> Die Projektskizze bedarf der Genehmigung durch die Regierung. Im Rahmen der Genehmigung beauftragt die Regierung das Bau- und Umweltdepartement mit der Ausarbeitung einer Projektdefinition und bestellt einen Lenkungsausschuss.
 
 <sup>3</sup> Art. 11 dieses Erlasses wird sachgemäss angewendet.
 
@@ -281,7 +280,7 @@ als Verordnung:[^ingress-1]
 
 **Erarbeitung**
 
-<sup>1</sup> Das Baudepartement erarbeitet zuhanden der zuständigen Stellen:
+<sup>1</sup> Das Bau- und Umweltdepartement erarbeitet zuhanden der zuständigen Stellen:
 
 - a) die Entwürfe von Kreditbeschlüssen zu priorisierten Vorhaben, die im Hochbautenprogramm enthalten sind und für die noch kein Kreditbeschluss vorliegt;
 - b) im Rahmen des Budgets die Entwürfe von Kreditbeschlüssen zu Kleinvorhaben.
@@ -320,9 +319,9 @@ als Verordnung:[^ingress-1]
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Regierung beschliesst auf Antrag des Baudepartementes den Kauf von Immobilien.
+<sup>1</sup> Die Regierung beschliesst auf Antrag des Bau- und Umweltdepartementes den Kauf von Immobilien.
 
-<sup>2</sup> Das Baudepartement sorgt für den Vollzug des Kaufvertrags.
+<sup>2</sup> Das Bau- und Umweltdepartement sorgt für den Vollzug des Kaufvertrags.
 
 ### 3. Vermietung und Anmietung
 
@@ -436,7 +435,7 @@ als Verordnung:[^ingress-1]
 - b) Kündigung;
 - c) Rückbau.
 
-<sup>2</sup> Die Regierung entscheidet vorbehältlich von Abs. 3 dieser Bestimmung über Verwertungsmassnahmen. Das Baudepartement ist für die Planung, Budgetierung und Realisierung zuständig.
+<sup>2</sup> Die Regierung entscheidet vorbehältlich von Abs. 3 dieser Bestimmung über Verwertungsmassnahmen. Das Bau- und Umweltdepartement ist für die Planung, Budgetierung und Realisierung zuständig.
 
 <sup>3</sup> Das Hochbauamt ist für die Kündigung von Verträgen zur Anmietung von Immobilien zuständig.
 
