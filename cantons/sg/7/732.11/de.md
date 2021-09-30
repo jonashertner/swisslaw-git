@@ -4,13 +4,13 @@ number: "732.11"
 title: Strassenverordnung
 short: StrV
 language: de
-version: 2007-10-30
-valid_until: 2021-09-30
-version_adopted: 2007-10-30
+version: 2021-10-01
+valid_until: 2024-07-31
+version_adopted: 2021-06-29
 adopted: 1988-11-22
 in_force: 1989-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/732.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1447/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3241/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1447/pdf_file"
 
 (StrV)
 
-vom 22.11.1988 (Stand 30.10.2007)
+vom 22.11.1988 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -142,7 +142,7 @@ als Verordnung:[^ingress-2]
 
 **Kontrolle**
 
-<sup>1</sup> Das Baudepartement überprüft:
+<sup>1</sup> Das Bau- und Umweltdepartement überprüft:
 
 - a) die Längen der Kantonsstrassen zweiter Klasse innerhalb der Bauzonen;
 - b) die Längen der Geh- und Radwege entlang den Kantonsstrassen.
