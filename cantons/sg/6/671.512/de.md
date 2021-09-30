@@ -3,20 +3,19 @@ canton: SG
 number: "671.512"
 title: Regierungsratsbeschluss über das Naturschutzgebiet Fleuben in Altstätten
 language: de
-version: 1984-05-29
-valid_until: 2021-09-30
-version_adopted: 1984-05-29
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 1971-07-13
 in_force: 1971-10-23
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/671.512"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1012/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3235/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über das Naturschutzgebiet Fleuben in Altstätten
 
-vom 13.07.1971 (Stand 29.05.1984)
+vom 13.07.1971 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -43,7 +42,7 @@ als Beschluss:[^ingress-3]
 - c) Ostgrenze: Güterstrasse;
 - d) Nordgrenze: Alter Widenbachdamm.
 
-<sup>2</sup> Massgebend für die genaue Umgrenzung ist die Eintragung auf dem beim Baudepartement verwahrten, Bestandteil des Dienstbarkeitsvertrages bildenden Situationsplan 1:2000, der von jedermann, in Fotokopie auch beim Grundbuchamt Altstätten, eingesehen werden kann.
+<sup>2</sup> Massgebend für die genaue Umgrenzung ist die Eintragung auf dem beim Bau- und Umweltdepartement verwahrten, Bestandteil des Dienstbarkeitsvertrages bildenden Situationsplan 1:2000, der von jedermann, in Fotokopie auch beim Grundbuchamt Altstätten, eingesehen werden kann.
 
 [^1-1]: Im ursprünglichen Erlasstext war die tabellarische Auflistung nicht mit Aufzählungszeichen versehen. Die Buchstaben wurden im September 2013 aus technischen Gründen hinzugefügt.
 
@@ -61,7 +60,7 @@ als Beschluss:[^ingress-3]
 
 **Orientierung der Öffentlichkeit**
 
-<sup>1</sup> Das Baudepartement sorgt dafür, dass die Bestimmungen dieses Beschlusses, die sich an die Öffentlichkeit wenden, zusammen mit einer orientierenden Kartenskizze an den wichtigsten Zugängen zum Schutzgebiet wiedergegeben werden.
+<sup>1</sup> Das Bau- und Umweltdepartement sorgt dafür, dass die Bestimmungen dieses Beschlusses, die sich an die Öffentlichkeit wenden, zusammen mit einer orientierenden Kartenskizze an den wichtigsten Zugängen zum Schutzgebiet wiedergegeben werden.
 
 #### Art. 4
 
