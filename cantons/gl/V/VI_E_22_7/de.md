@@ -4,13 +4,13 @@ number: VI E/22/7
 title: Verordnung über die Wildruhezonen
 short: "Wildruhezonenverordnung, WrZV"
 language: de
-version: 2017-07-01
-valid_until: 2021-09-30
-version_adopted: 2016-10-25
+version: 2021-10-01
+valid_until: 2023-07-31
+version_adopted: 2021-04-27
 adopted: 2016-10-25
 in_force: 2017-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.22.7"
-pdf: "https://gesetze.gl.ch/api/de/versions/1935/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2234/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1935/pdf_file"
 
 (Wildruhezonenverordnung, WrZV)
 
-Vom 25.10.2016 (Stand 01.07.2017)
+Vom 25.10.2016 (Stand 01.10.2021)
 
 Der Regierungsrat,
 
@@ -55,6 +55,12 @@ erlässt:
 
 <sup>2</sup> Die Pläne sind integrierender Bestandteil dieser Verordnung.
 
+#### Art. 3a
+
+**Geringfügige Anpassungen der Wildruhezonen**
+
+<sup>1</sup> Geringfügige Anpassungen der Wildruhezonengrenze oder erlaubter Wege und Routen infolge strassen- und wegebaulicher Massnahmen, erhöhter kartografischer Genauigkeit oder aufgrund routenspezifischen sicherheitstechnischer Überlegungen können durch die Abteilung Jagd und Fischerei vorgenommen werden.
+
 ## 2. Schutzbestimmungen
 
 #### Art. 4
@@ -83,6 +89,8 @@ erlässt:
 <sup>3</sup> In den eidgenössischen Jagdbanngebieten sind Skifahren, Snowboarden, Skiwandern, Langlauf, Schneeschuhlaufen, Schlitteln und Ähnliches ausserhalb von markierten Pisten, Routen und Loipen verboten.
 
 <sup>4</sup> Abweichende zeitliche Begehungseinschränkungen aufgrund besonderer Umstände sind in den Plänen und im Gelände speziell markiert.
+
+<sup>5</sup> Wege und Routen, welche Grenzen von Wildruhezonen sind, dürfen vorbehältlich von Absatz 3 jederzeit begangen werden.
 
 #### Art. 6
 
