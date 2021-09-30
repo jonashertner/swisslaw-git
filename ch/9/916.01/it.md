@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente l'importazione di prodotti agr
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: it
-version: 2021-09-15
+version: 2021-10-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210915/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210915-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210915/it"
 
 (Ordinanza sulle importazioni agricole, OIAgr)
 
-del 26 ottobre 2011 (Stato 15 settembre 2021) (Stato 15 settembre 2021)
+del 26 ottobre 2011 (Stato 1° ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -77,7 +77,12 @@ Le aliquote di dazio che divergono dalla tariffa generale di cui all’articolo 
 
 <sup>1</sup> Le aliquote di dazio sulle voci di tariffa 1701 e 1702 (allegato 1 n. 18) sono stabilite dall’UFAG.[^5-1]
 
-<sup>2</sup> L’UFAG verifica mensilmente le aliquote di dazio e le stabilisce in modo che i prezzi dello zucchero importato, compresi le aliquote di dazio e il contributo al fondo di garanzia (art. 16 della legge del 17 giugno 2016[^5-2] sull’approvvigionamento del Paese; LAP), corrispondano ai prezzi di mercato praticati nell’Unione europea, ma ammontino almeno a 7 franchi al quintale.[^5-3]
+<sup>2</sup>
+
+L’UFAG verifica mensilmente le aliquote di dazio e le stabilisce in modo che:
+
+- a. i prezzi dello zucchero importato, compresi le aliquote di dazio e i contributi al fondo di garanzia (art. 16 della legge del 17 giugno 2016[^5-2] sull’approvvigionamento del Paese; LAP), corrispondano ai prezzi di mercato praticati nell’Unione europea; e
+- b. unitamente ai contributi al fondo di garanzia ammontino almeno a 7 franchi per 100 kg lordi.[^5-3]
 
 <sup>3</sup> Se i prezzi, compresi le aliquote di dazio e il contributo al fondo di garanzia, variano all’interno di una determinata fascia di fluttuazione, non è necessario adeguare le aliquote di dazio. La fascia di fluttuazione è superata se i prezzi si scostano dai prezzi di mercato praticati nell’Unione europea di oltre 3 franchi il quintale verso l’alto o verso il basso.
 
@@ -85,7 +90,7 @@ Le aliquote di dazio che divergono dalla tariffa generale di cui all’articolo 
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
 [^5-2]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^5-3]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 al 30 set. 2021 ([RU 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)).
+[^5-3]: Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 al 31 dic. 2021 ([RU 2021 513](https://fedlex.data.admin.ch/eli/oc/2021/513)).
 
 #### Art. 6
 
@@ -761,7 +766,7 @@ Allegato 1*[^t-1]*
 
 ## Elenco delle aliquote di dazio applicabili all’importazione di prodotti agricoli con indicazione dell’obbligo di PGI, dei valori indicativi d’importazione e dell’assegnazione alle prescrizioni specifiche di disciplinamento del mercato, ai gruppi dei prezzi soglia e ai contingenti doganali interi o parziali
 
-[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), dall’all. dell’O del 2 apr. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)[1201](https://fedlex.data.admin.ch/eli/oc/2014/254)), dal n. II dell’O del 29 ott. 2014 ([RU 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), dall’all. 3 n. 11 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. I dell’O del DEFR del 16 set. 2016 ([RU 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), dal n. II dell’O del 26 ott. 2016 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), dal n. I dell’O dell’UFAG del 19 mag. 2017 ([RU 2017 3235](https://fedlex.data.admin.ch/eli/oc/2017/328)), dal n. I dell’O del DEFR del 9 giu. 2017 ([RU 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), dai n. II delle O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), del 30 nov. 2018 ([RU 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)), del 23 ott. 2019 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), dal n. I dell’O dell’UFAG del 18 set. 2020 ([RU 2020 3869](https://fedlex.data.admin.ch/eli/oc/2020/717)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)) e dal n. II cpv. 1 dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), dall’all. dell’O del 2 apr. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)[1201](https://fedlex.data.admin.ch/eli/oc/2014/254)), dal n. II dell’O del 29 ott. 2014 ([RU 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), dall’all. 3 n. 11 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. I dell’O del DEFR del 16 set. 2016 ([RU 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), dal n. II dell’O del 26 ott. 2016 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), dal n. I dell’O dell’UFAG del 19 mag. 2017 ([RU 2017 3235](https://fedlex.data.admin.ch/eli/oc/2017/328)), dal n. I dell’O del DEFR del 9 giu. 2017 ([RU 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), dai n. II delle O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), del 30 nov. 2018 ([RU 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)), del 23 ott. 2019 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), dal n. I dell’O dell’UFAG del 18 set. 2020 ([RU 2020 3869](https://fedlex.data.admin.ch/eli/oc/2020/717)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)) e dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)) e dal n. I dell’O dell’UFAG del 20 set. 2021, in vigore dal 1° ott. 2021 ([RU 2021 583](https://fedlex.data.admin.ch/eli/oc/2021/583)).
 
 ### 1. Disciplinamento del mercato: animali della specie equina
 
@@ -2402,9 +2407,9 @@ Le prescrizioni specifiche di disciplinamento del mercato sono contenute negli a
 <tr><th>Voce di tariffa</th><th colspan="2">Voce di tariffa per 100 kg lordi **[1]** (CHF)</th><th colspan="2"></th><th>Numero di kg lordi senza obbligo di PGI</th><th>Contingente doganale (n.)</th><th>Informazioni complementari</th></tr>
 <tr><td colspan="2">1001.1921</td><td colspan="2">**1.00**</td><td></td><td>[15-2]</td><td>26</td><td></td></tr>
 <tr><td colspan="2">1001.1929</td><td colspan="2">**30.00**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
-<tr><td colspan="2">1001.9921</td><td colspan="2">**19.00**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td colspan="2">1001.9921</td><td colspan="2">**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
 <tr><td colspan="2">1001.9929</td><td colspan="2">**40.00**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
-<tr><td colspan="2">1002.9021</td><td colspan="2">**19.00**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td colspan="2">1002.9021</td><td colspan="2">**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
 <tr><td colspan="2">1002.9029</td><td colspan="2">**40.00**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
 <tr><td colspan="2">1003.9041</td><td colspan="2">Allegato 2</td><td></td><td>0</td><td>28</td><td>[15-1]</td></tr>
 <tr><td colspan="2">1003.9049</td><td colspan="2">**20.00**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
@@ -2412,53 +2417,53 @@ Le prescrizioni specifiche di disciplinamento del mercato sono contenute negli a
 <tr><td colspan="2">1004.9029</td><td colspan="2">**20.00**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
 <tr><td colspan="2">1005.9021</td><td colspan="2">Allegato 2</td><td></td><td>0</td><td>28</td><td>[15-1]</td></tr>
 <tr><td colspan="2">1005.9029</td><td colspan="2">**20.00**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
-<tr><td colspan="2">1007.9021</td><td colspan="2">**19.00**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td colspan="2">1008.1021</td><td colspan="2">**19.00**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td colspan="2">1008.2921</td><td colspan="2">**19.00**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td colspan="2">1008.4021</td><td colspan="2">**19.00**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td colspan="2">1008.5021</td><td colspan="2">**19.00**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td colspan="2">1008.6031</td><td colspan="2">**19.00**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td colspan="2">1007.9021</td><td colspan="2">**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td colspan="2">1008.1021</td><td colspan="2">**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td colspan="2">1008.2921</td><td colspan="2">**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td colspan="2">1008.4021</td><td colspan="2">**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td colspan="2">1008.5021</td><td colspan="2">**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td colspan="2">1008.6031</td><td colspan="2">**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
 <tr><td colspan="2">1008.6039</td><td colspan="2">**40.00**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
-<tr><td colspan="2">1008.9023</td><td colspan="2">**19.00**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td colspan="2">1101.0043</td><td colspan="2">**63.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1101.0048</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1008.9023</td><td colspan="2">**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td colspan="2">1101.0043</td><td colspan="2">**55.40**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1101.0048</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
 <tr><td colspan="2">1102.2010</td><td colspan="2">Allegato 2</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1102.9011</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1102.9044</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1102.9011</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1102.9044</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
 <tr><td colspan="2">1102.9051</td><td colspan="2">**25.60**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1102.9061</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1103.1119</td><td colspan="2">**66.90**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
-<tr><td colspan="2">1103.1199</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1102.9061</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1103.1119</td><td colspan="2">**23.40**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
+<tr><td colspan="2">1103.1199</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
 <tr><td colspan="2">1103.1390</td><td colspan="2">Allegato 2</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1103.1919</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1103.1919</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
 <tr><td colspan="2">1103.1929</td><td colspan="2">Allegato 2</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
 <tr><td colspan="2">1103.1939</td><td colspan="2">**26.10**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1103.1992</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1103.1999</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1103.2019</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1103.2029</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1103.2099</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1103.1992</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1103.1999</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1103.2019</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1103.2029</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1103.2099</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
 <tr><td colspan="2">1104.1290</td><td colspan="2">Allegato 2</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1104.1919</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1104.1919</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
 <tr><td colspan="2">1104.1929</td><td colspan="2">Allegato 2</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1104.1992</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1104.1999</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1104.1992</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1104.1999</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
 <tr><td colspan="2">1104.2220</td><td colspan="2">Allegato 2</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
 <tr><td colspan="2">1104.2390</td><td colspan="2">Allegato 2</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1104.2913</td><td colspan="2">**52.90**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1104.2918</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1104.2922</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1104.2913</td><td colspan="2">**46.60**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1104.2918</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1104.2922</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
 <tr><td colspan="2">1104.2932</td><td colspan="2">Allegato 2</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1104.2992</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1104.2999</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1104.3089</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1107.1012</td><td colspan="2">**50.70**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1107.1092</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1107.1093</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1107.2012</td><td colspan="2">**50.70**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1107.2092</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1107.2093</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
-<tr><td colspan="2">1107.2099</td><td colspan="2">**50.70**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1104.2992</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1104.2999</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1104.3089</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1107.1012</td><td colspan="2">**44.80**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1107.1092</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1107.1093</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1107.2012</td><td colspan="2">**44.80**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1107.2092</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1107.2093</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
+<tr><td colspan="2">1107.2099</td><td colspan="2">**44.80**</td><td></td><td>PGI non necessario</td><td></td><td>[15-1]</td></tr>
 <tr><td colspan="2">1201.9099</td><td colspan="2">**0.10**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
 <tr><td colspan="2">1202.4199</td><td colspan="2">**0.10**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
 <tr><td colspan="2">1202.4299</td><td colspan="2">**0.10**</td><td></td><td>PGI non necessario</td><td></td><td></td></tr>
@@ -2748,54 +2753,54 @@ Allegato 2*[^t-2]*
 
 ## Aliquote di dazio dei disciplinamenti di mercato: cereali da semina, alimenti per animali, semi oleosi, merci dalla cui trasformazione si ottengono alimenti per animali nonché aliquote di dazio sui cereali grezzi per l’alimentazione umana
 
-[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFAG del 16 ago. 2021, in vigore dal 1° set. 2021 ([RU 2021 501](https://fedlex.data.admin.ch/eli/oc/2021/501)).
+[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFAG del 20 set. 2021, in vigore dal 1° ott. 2021 ([RU 2021 584](https://fedlex.data.admin.ch/eli/oc/2021/584)).
 
 <table>
 <tr><th>Voce di tariffa</th><th>Aliquota di dazio per 100 kg lordi (CHF)</th><th></th><th>Voce di tariffa</th><th>Aliquota di dazio per 100 kg lordi (CHF)</th><th></th><th>Voce di tariffa</th><th>Aliquota di dazio per 100 kg lordi (CHF)</th><th></th><th>Voce di tariffa</th><th>Aliquota di dazio per 100 kg lordi (CHF)</th><th></th></tr>
 <tr><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th></tr>
 <tr><td>0505.9011</td><td>5.70</td><td></td><td>0508.0091</td><td>5.70</td><td></td><td>0511.9110</td><td>0.00</td><td></td><td>0511.9911</td><td>4.70</td><td></td></tr>
-<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>2.00</td><td>\*</td><td>0709.9991</td><td>1.00</td><td>\*</td><td>0712.9070</td><td>1.00</td><td>\*</td></tr>
-<tr><td>0713.1011</td><td>1.00</td><td>\*</td><td>0713.1012</td><td>0.10</td><td>\*</td><td>0713.1091</td><td>1.00</td><td>\*</td><td>0713.2011</td><td>1.00</td><td>\*</td></tr>
-<tr><td>0713.2012</td><td>0.10</td><td>\*</td><td>0713.2091</td><td>1.00</td><td>\*</td><td>0713.3111</td><td>2.00</td><td>\*</td><td>0713.3112</td><td>0.20</td><td>\*</td></tr>
-<tr><td>0713.3191</td><td>2.00</td><td>\*</td><td>0713.3211</td><td>2.00</td><td>\*</td><td>0713.3212</td><td>0.20</td><td>\*</td><td>0713.3291</td><td>2.00</td><td>\*</td></tr>
-<tr><td>0713.3311</td><td>2.00</td><td>\*</td><td>0713.3312</td><td>0.20</td><td>\*</td><td>0713.3391</td><td>2.00</td><td>\*</td><td>0713.3411</td><td>1.00</td><td>\*</td></tr>
-<tr><td>0713.3412</td><td>0.10</td><td>\*</td><td>0713.3491</td><td>1.00</td><td>\*</td><td>0713.3511</td><td>2.00</td><td>\*</td><td>0713.3512</td><td>0.20</td><td>\*</td></tr>
-<tr><td>0713.3591</td><td>2.00</td><td>\*</td><td>0713.3911</td><td>2.00</td><td>\*</td><td>0713.3912</td><td>0.20</td><td>\*</td><td>0713.3991</td><td>2.00</td><td>\*</td></tr>
-<tr><td>0713.4011</td><td>2.00</td><td>\*</td><td>0713.4012</td><td>0.20</td><td>\*</td><td>0713.4091</td><td>2.00</td><td>\*</td><td>0713.5012</td><td>2.00</td><td>\*</td></tr>
-<tr><td>0713.5013</td><td>0.20</td><td>\*</td><td>0713.5091</td><td>2.00</td><td>\*</td><td>0713.6011</td><td>1.00</td><td>\*</td><td>0713.6012</td><td>0.10</td><td>\*</td></tr>
-<tr><td>0713.6091</td><td>1.00</td><td>\*</td><td>0713.9021</td><td>2.00</td><td>\*</td><td>0713.9022</td><td>0.20</td><td>\*</td><td>0713.9081</td><td>2.00</td><td>\*</td></tr>
+<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>2.00</td><td></td><td>0709.9991</td><td>1.00</td><td></td><td>0712.9070</td><td>1.00</td><td></td></tr>
+<tr><td>0713.1011</td><td>1.00</td><td></td><td>0713.1012</td><td>0.10</td><td></td><td>0713.1091</td><td>1.00</td><td></td><td>0713.2011</td><td>1.00</td><td></td></tr>
+<tr><td>0713.2012</td><td>0.10</td><td></td><td>0713.2091</td><td>1.00</td><td></td><td>0713.3111</td><td>2.00</td><td></td><td>0713.3112</td><td>0.20</td><td></td></tr>
+<tr><td>0713.3191</td><td>2.00</td><td></td><td>0713.3211</td><td>2.00</td><td></td><td>0713.3212</td><td>0.20</td><td></td><td>0713.3291</td><td>2.00</td><td></td></tr>
+<tr><td>0713.3311</td><td>2.00</td><td></td><td>0713.3312</td><td>0.20</td><td></td><td>0713.3391</td><td>2.00</td><td></td><td>0713.3411</td><td>1.00</td><td></td></tr>
+<tr><td>0713.3412</td><td>0.10</td><td></td><td>0713.3491</td><td>1.00</td><td></td><td>0713.3511</td><td>2.00</td><td></td><td>0713.3512</td><td>0.20</td><td></td></tr>
+<tr><td>0713.3591</td><td>2.00</td><td></td><td>0713.3911</td><td>2.00</td><td></td><td>0713.3912</td><td>0.20</td><td></td><td>0713.3991</td><td>2.00</td><td></td></tr>
+<tr><td>0713.4011</td><td>2.00</td><td></td><td>0713.4012</td><td>0.20</td><td></td><td>0713.4091</td><td>2.00</td><td></td><td>0713.5012</td><td>2.00</td><td></td></tr>
+<tr><td>0713.5013</td><td>0.20</td><td></td><td>0713.5091</td><td>2.00</td><td></td><td>0713.6011</td><td>1.00</td><td></td><td>0713.6012</td><td>0.10</td><td></td></tr>
+<tr><td>0713.6091</td><td>1.00</td><td></td><td>0713.9021</td><td>2.00</td><td></td><td>0713.9022</td><td>0.20</td><td></td><td>0713.9081</td><td>2.00</td><td></td></tr>
 <tr><td>0714.1010</td><td>0.00</td><td></td><td>0714.2010</td><td>0.00</td><td></td><td>0714.3010</td><td>0.00</td><td></td><td>0714.4010</td><td>0.00</td><td></td></tr>
 <tr><td>0714.5010</td><td>0.00</td><td></td><td>0714.9020</td><td>0.00</td><td></td><td>0802.2110</td><td>0.00</td><td></td><td>0802.2120</td><td>0.00</td><td></td></tr>
 <tr><td>0802.2210</td><td>1.70</td><td></td><td>0802.2220</td><td>0.00</td><td></td><td>0802.3110</td><td>0.00</td><td></td><td>0802.3120</td><td>0.00</td><td></td></tr>
 <tr><td>0802.3210</td><td>1.70</td><td></td><td>0802.3220</td><td>0.00</td><td></td><td>0813.4081</td><td>0.00</td><td></td><td>0813.4092</td><td>0.00</td><td></td></tr>
 <tr><td>0813.5012</td><td>4.70</td><td></td><td>0813.5021</td><td>4.70</td><td></td><td>0813.5081</td><td>0.00</td><td></td><td>0813.5092</td><td>4.70</td><td></td></tr>
-<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>9.00</td><td></td><td>1001.1939</td><td>8.00</td><td>\*</td></tr>
-<tr><td>1001.1940</td><td>0.80</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>9.00</td><td></td><td>1001.9939</td><td>8.00</td><td>\*</td></tr>
-<tr><td>1001.9940</td><td>0.80</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>9.00</td><td></td><td>1002.9039</td><td>8.00</td><td></td></tr>
+<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>9.00</td><td></td><td>1001.1939</td><td>8.00</td><td></td></tr>
+<tr><td>1001.1940</td><td>0.80</td><td></td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>9.00</td><td></td><td>1001.9939</td><td>8.00</td><td></td></tr>
+<tr><td>1001.9940</td><td>0.80</td><td></td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>9.00</td><td></td><td>1002.9039</td><td>8.00</td><td></td></tr>
 <tr><td>1002.9040</td><td>0.80</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>4.00</td><td></td><td>1003.9030</td><td>0.25</td><td></td></tr>
 <tr><td>1003.9041</td><td>1.85</td><td></td><td>1003.9051</td><td>9.00</td><td></td><td>1003.9059</td><td>8.00</td><td></td><td>1003.9060</td><td>1.20</td><td></td></tr>
 <tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.20</td><td></td><td>1004.9031</td><td>9.00</td><td></td><td>1004.9039</td><td>1.00</td><td></td></tr>
-<tr><td>1004.9040</td><td>0.25</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>0.25</td><td>\*</td><td>1005.9031</td><td>9.00</td><td></td></tr>
-<tr><td>1005.9039</td><td>1.00</td><td>\*</td><td>1005.9040</td><td>0.10</td><td>\*</td><td>1006.1021</td><td>9.00</td><td></td><td>1006.1029</td><td>0.00</td><td></td></tr>
+<tr><td>1004.9040</td><td>0.25</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>0.25</td><td></td><td>1005.9031</td><td>9.00</td><td></td></tr>
+<tr><td>1005.9039</td><td>1.00</td><td></td><td>1005.9040</td><td>0.10</td><td></td><td>1006.1021</td><td>9.00</td><td></td><td>1006.1029</td><td>0.00</td><td></td></tr>
 <tr><td>1006.2021</td><td>9.00</td><td></td><td>1006.2029</td><td>0.00</td><td></td><td>1006.3021</td><td>9.00</td><td></td><td>1006.3029</td><td>0.00</td><td></td></tr>
 <tr><td>1006.4021</td><td>9.00</td><td></td><td>1006.4029</td><td>0.00</td><td></td><td>1007.9031</td><td>9.00</td><td></td><td>1007.9039</td><td>8.00</td><td></td></tr>
 <tr><td>1007.9040</td><td>0.25</td><td></td><td>1008.1031</td><td>9.00</td><td></td><td>1008.1039</td><td>4.00</td><td></td><td>1008.1040</td><td>0.10</td><td></td></tr>
 <tr><td>1008.2931</td><td>9.00</td><td></td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>9.00</td><td></td></tr>
-<tr><td>1008.3039</td><td>4.00</td><td></td><td>1008.3040</td><td>0.10</td><td></td><td>1008.4031</td><td>9.00</td><td></td><td>1008.4039</td><td>8.00</td><td>\*</td></tr>
-<tr><td>1008.4040</td><td>0.25</td><td>\*</td><td>1008.5031</td><td>9.00</td><td></td><td>1008.5039</td><td>8.00</td><td>\*</td><td>1008.5040</td><td>0.25</td><td>\*</td></tr>
+<tr><td>1008.3039</td><td>4.00</td><td></td><td>1008.3040</td><td>0.10</td><td></td><td>1008.4031</td><td>9.00</td><td></td><td>1008.4039</td><td>8.00</td><td></td></tr>
+<tr><td>1008.4040</td><td>0.25</td><td></td><td>1008.5031</td><td>9.00</td><td></td><td>1008.5039</td><td>8.00</td><td></td><td>1008.5040</td><td>0.25</td><td></td></tr>
 <tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>9.00</td><td></td><td>1008.6049</td><td>9.00</td><td></td><td>1008.6050</td><td>0.90</td><td></td></tr>
-<tr><td>1008.9035</td><td>9.00</td><td></td><td>1008.9037</td><td>8.00</td><td>\*</td><td>1008.9040</td><td>0.25</td><td>\*</td><td>1101.0051</td><td>15.00</td><td>\*</td></tr>
-<tr><td>1101.0059</td><td>19.00</td><td>\*</td><td>1102.2010</td><td>20.35</td><td>\*</td><td>1102.2020</td><td>7.00</td><td>\*</td><td>1102.9013</td><td>20.00</td><td></td></tr>
-<tr><td>1102.9045</td><td>14.00</td><td></td><td>1102.9046</td><td>12.00</td><td></td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>19.00</td><td>\*</td></tr>
-<tr><td>1103.1112</td><td>18.00</td><td>\*</td><td>1103.1192</td><td>16.00</td><td>\*</td><td>1103.1320</td><td>8.00</td><td>\*</td><td>1103.1390</td><td>20.50</td><td>\*</td></tr>
+<tr><td>1008.9035</td><td>9.00</td><td></td><td>1008.9037</td><td>8.00</td><td></td><td>1008.9040</td><td>0.25</td><td></td><td>1101.0051</td><td>15.00</td><td></td></tr>
+<tr><td>1101.0059</td><td>19.00</td><td></td><td>1102.2010</td><td>20.35</td><td></td><td>1102.2020</td><td>7.00</td><td></td><td>1102.9013</td><td>20.00</td><td></td></tr>
+<tr><td>1102.9045</td><td>14.00</td><td></td><td>1102.9046</td><td>12.00</td><td></td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>19.00</td><td></td></tr>
+<tr><td>1103.1112</td><td>18.00</td><td></td><td>1103.1192</td><td>16.00</td><td></td><td>1103.1320</td><td>8.00</td><td></td><td>1103.1390</td><td>20.50</td><td></td></tr>
 <tr><td>1103.1912</td><td>17.00</td><td></td><td>1103.1922</td><td>19.00</td><td></td><td>1103.1929</td><td>20.30</td><td></td><td>1103.1932</td><td>0.70</td><td></td></tr>
-<tr><td>1103.1993</td><td>16.00</td><td>\*</td><td>1103.2012</td><td>15.00</td><td>\*</td><td>1103.2022</td><td>14.00</td><td></td><td>1103.2092</td><td>15.00</td><td>\*</td></tr>
-<tr><td>1104.1220</td><td>20.00</td><td></td><td>1104.1290</td><td>20.35</td><td></td><td>1104.1912</td><td>16.00</td><td>\*</td><td>1104.1922</td><td>17.00</td><td></td></tr>
-<tr><td>1104.1929</td><td>22.65</td><td></td><td>1104.1993</td><td>16.00</td><td>\*</td><td>1104.2220</td><td>20.30</td><td></td><td>1104.2230</td><td>19.00</td><td></td></tr>
-<tr><td>1104.2320</td><td>10.00</td><td></td><td>1104.2390</td><td>20.70</td><td>\*</td><td>1104.2912</td><td>16.00</td><td>\*</td><td>1104.2923</td><td>1.70</td><td></td></tr>
-<tr><td>1104.2932</td><td>22.65</td><td></td><td>1104.2933</td><td>16.00</td><td></td><td>1104.2993</td><td>14.00</td><td>\*</td><td>1104.3070</td><td>3.70</td><td></td></tr>
+<tr><td>1103.1993</td><td>16.00</td><td></td><td>1103.2012</td><td>15.00</td><td></td><td>1103.2022</td><td>14.00</td><td></td><td>1103.2092</td><td>15.00</td><td></td></tr>
+<tr><td>1104.1220</td><td>20.00</td><td></td><td>1104.1290</td><td>20.35</td><td></td><td>1104.1912</td><td>16.00</td><td></td><td>1104.1922</td><td>17.00</td><td></td></tr>
+<tr><td>1104.1929</td><td>22.65</td><td></td><td>1104.1993</td><td>16.00</td><td></td><td>1104.2220</td><td>20.30</td><td></td><td>1104.2230</td><td>19.00</td><td></td></tr>
+<tr><td>1104.2320</td><td>10.00</td><td></td><td>1104.2390</td><td>20.70</td><td></td><td>1104.2912</td><td>16.00</td><td></td><td>1104.2923</td><td>1.70</td><td></td></tr>
+<tr><td>1104.2932</td><td>22.65</td><td></td><td>1104.2933</td><td>16.00</td><td></td><td>1104.2993</td><td>14.00</td><td></td><td>1104.3070</td><td>3.70</td><td></td></tr>
 <tr><td>1104.3081</td><td>3.70</td><td></td><td>1104.3093</td><td>0.00</td><td></td><td>1105.1021</td><td>9.70</td><td></td><td>1105.2021</td><td>11.70</td><td></td></tr>
-<tr><td>1106.1010</td><td>4.00</td><td>\*</td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>20.70</td><td></td><td>1107.1013</td><td>2.70</td><td></td></tr>
+<tr><td>1106.1010</td><td>4.00</td><td></td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>20.70</td><td></td><td>1107.1013</td><td>2.70</td><td></td></tr>
 <tr><td>1107.1094</td><td>2.70</td><td></td><td>1107.2013</td><td>2.70</td><td></td><td>1107.2094</td><td>2.70</td><td></td><td>1108.1120</td><td>0.00</td><td></td></tr>
 <tr><td>1108.1220</td><td>0.00</td><td></td><td>1108.1320</td><td>0.00</td><td></td><td>1108.1420</td><td>2.70</td><td></td><td>1108.1912</td><td>4.70</td><td></td></tr>
 <tr><td>1108.1992</td><td>4.70</td><td></td><td>1108.2020</td><td>5.70</td><td></td><td>1201.9010</td><td>0.00</td><td></td><td>1201.9021</td><td>0.10</td><td></td></tr>
@@ -2857,12 +2862,12 @@ Allegato 2*[^t-2]*
 <tr><td>2102.2021</td><td>0.00</td><td></td><td>2103.3011</td><td>9.70</td><td></td><td>2301.1011</td><td>0.00</td><td></td><td>2301.1019</td><td>0.00</td><td></td></tr>
 <tr><td>2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>16.00</td><td></td><td>2302.3020</td><td>4.00</td><td></td><td>2302.4030</td><td>5.00</td><td></td></tr>
 <tr><td>2302.4091</td><td>5.00</td><td></td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td><td>2303.1012</td><td>2.00</td><td></td></tr>
-<tr><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>0.00</td><td></td><td>2303.3010</td><td>0.00</td><td></td><td>2304.0010</td><td>0.00</td><td></td></tr>
+<tr><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>2.00</td><td>\*</td><td>2303.3010</td><td>0.00</td><td></td><td>2304.0010</td><td>0.00</td><td></td></tr>
 <tr><td>2305.0010</td><td>0.00</td><td></td><td>2306.1010</td><td>0.70</td><td></td><td>2306.2010</td><td>0.00</td><td></td><td>2306.3010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td><td>2306.6010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.9011</td><td>12.70</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>3.70</td><td></td><td>2308.0030</td><td>0.00</td><td></td></tr>
-<tr><td>2308.0040</td><td>9.70</td><td></td><td>2308.0050</td><td>3.00</td><td></td><td>2308.0060</td><td>0.00</td><td></td><td>2309.9011</td><td>3.50</td><td>\*</td></tr>
-<tr><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.00</td><td>\*</td><td>2309.9082</td><td>3.50</td><td>\*</td><td>2309.9089</td><td>3.50</td><td>\*</td></tr>
+<tr><td>2308.0040</td><td>9.70</td><td></td><td>2308.0050</td><td>6.00</td><td>\*</td><td>2308.0060</td><td>0.00</td><td></td><td>2309.9011</td><td>3.50</td><td></td></tr>
+<tr><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.00</td><td></td><td>2309.9082</td><td>3.50</td><td></td><td>2309.9089</td><td>3.50</td><td></td></tr>
 <tr><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>12.70</td><td></td><td>3809.1010</td><td>18.70</td><td></td><td>3823.1110</td><td>0.00</td><td></td></tr>
 <tr><td>3823.1210</td><td>4.70</td><td></td><td>3823.1910</td><td>0.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="12">**[1]** Le aliquote di dazio possono divergere dalla tariffa generale. Le nuove aliquote di dazio sono contrassegnate con «\*».</td></tr>
@@ -2874,7 +2879,7 @@ Allegato 3*[^t-3]*
 
 ## Contingenti doganali interi e parziali
 
-[^t-3]: Aggiornato dal n. I cpv. 1 dell’O del 9 dic. 2016 ([RU 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dai n. I delle O dell’UFAG del 16 feb. 2021 ([RU 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), del 29 apr. 2021 ([RU 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), del 15 giu. 2021 ([RU 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)), del 18 giu. 2021 ([RU 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)) e del 30 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)).
+[^t-3]: Aggiornato dal n. I cpv. 1 dell’O del 9 dic. 2016 ([RU 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dai n. I delle O dell’UFAG del 16 feb. 2021 ([RU 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), del 29 apr. 2021 ([RU 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), del 15 giu. 2021 ([RU 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)), del 18 giu. 2021 ([RU 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)), dal n. I e II dell’O dell’UFAG del 30 ago. 2021 ([RU 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)) e dal n. I dell’O del 17 set. 2021, in vigore dal 1° ott. 2021 ([RU 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)).
 
 ### 1. Disciplinamento del mercato: animali della specie equina
 
@@ -2970,17 +2975,18 @@ Allegato 3*[^t-3]*
 ### 5. Disciplinamento del mercato: uova e prodotti di uova
 
 <table>
-<tr><th>Contingente doganale n.</th><th>Prodotto</th><th colspan="2">Volume del contingente doganale (tonnellate lorde)</th></tr>
-<tr><th>**[1]**</th><th>**[1]**</th><th colspan="2">**[1]**</th></tr>
-<tr><td>09</td><td>Uova di volatili, in guscio, di cui</td><td colspan="2">33 735</td></tr>
-<tr><td>09.1</td><td>Uova di consumo</td><td colspan="2">**17 428**</td></tr>
-<tr><td>09.2</td><td colspan="2">Uova di trasformazione destinate all’industria alimentare</td><td>**16 307**</td></tr>
-<tr><td>10</td><td>Prodotti di uova essiccate</td><td colspan="2">977</td></tr>
-<tr><td></td><td></td><td colspan="4">**[2]**</td></tr>
-<tr><td>11</td><td>Prodotti diversi da quelli di uova essiccate</td><td colspan="2">6866</td></tr>
-<tr><td></td><td></td><td colspan="4">**[2]**</td></tr>
-<tr><td colspan="5">**[1]** **In grassetto le indicazioni che divergono dalla tariffa generale. Le importazioni dalle zone franche secondo il regolamento del 22 dic. 1933 concernente le importazioni in Svizzera dei prodotti delle zone franche (RS** *0.631.256.934.953***) non vengono computate sul contingente da ripartire.**</td></tr>
-<tr><td colspan="5">**[2]** **È possibile superare la quantità prevista dal contingente doganale.**</td></tr>
+<tr><th>Contingente doganale n.</th><th>Prodotto</th><th colspan="3">Volume del contingente doganale (tonnellate lorde)</th></tr>
+<tr><th>**[1]**</th><th>**[1]**</th><th colspan="3">**[1]**</th></tr>
+<tr><td>09</td><td>Uova di volatili, in guscio, di cui</td><td colspan="3">33 735</td></tr>
+<tr><td>09.1</td><td>Uova di consumo</td><td colspan="3">**17 428**</td></tr>
+<tr><td>09.1.1</td><td colspan="3">Aumento temporaneo del contingente doganale parziale per il 2021: dal 1° ottobre fino al 31 dicembre 2021</td><td colspan="4">3500</td></tr>
+<tr><td>09.2</td><td colspan="2">Uova di trasformazione destinate all’industria alimentare</td><td colspan="2">**16 307**</td></tr>
+<tr><td>10</td><td>Prodotti di uova essiccate</td><td colspan="3">977</td></tr>
+<tr><td></td><td></td><td colspan="5">**[2]**</td></tr>
+<tr><td>11</td><td>Prodotti diversi da quelli di uova essiccate</td><td colspan="3">6866</td></tr>
+<tr><td></td><td></td><td colspan="5">**[2]**</td></tr>
+<tr><td colspan="6">**[1]** **In grassetto le indicazioni che divergono dalla tariffa generale. Le importazioni dalle zone franche secondo il regolamento del 22 dic. 1933 concernente le importazioni in Svizzera dei prodotti delle zone franche (RS** *0.631.256.934.953***) non vengono computate sul contingente da ripartire.**</td></tr>
+<tr><td colspan="6">**[2]** **È possibile superare la quantità prevista dal contingente doganale.**</td></tr>
 </table>
 
 ### 6. Disciplinamento del mercato: fiori recisi
@@ -2998,13 +3004,14 @@ Allegato 3*[^t-3]*
 <tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
 <tr><td>14</td><td>Patate e prodotti a base di patate, di cui:</td><td>**23 750**</td></tr>
 <tr><td>14.1</td><td>Patate da semina</td><td>4 000</td></tr>
+<tr><td>14.1.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2021: dal 1° ottobre al 31 dicembre 2021</td><td>**2000**</td></tr>
 <tr><td>14.2</td><td>Patate destinate alla valorizzazione</td><td>9 250</td></tr>
 <tr><td>14.2.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2021: dal 15 settembre al 31 dicembre 2021</td><td>**20 000**</td></tr>
 <tr><td>14.3</td><td>Patate da tavola</td><td>6 500</td></tr>
 <tr><td>14.3.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2021: dal 15 maggio al 30 giugno 2021</td><td>5 000</td></tr>
 <tr><td>14.3.2</td><td>Aumento temporaneo del contingente doganale parziale per il 2021: dal 1° al 31 luglio 2021</td><td>5 000</td></tr>
 <tr><td>14.4</td><td>Prodotti a base di patate</td><td>4 000</td></tr>
-<tr><td colspan="3">**[1]** **In grassetto le indicazioni che divergono dalla tariffa generale. Le importazioni dalle** **zone** **franche secondo il regolamento del 22 dic. 1933 concernente le importazioni in Svizzera dei prodotti delle zone franche (RS** *0.631.256.934.953***) non sono computate sul contingente da ripartire.**</td></tr>
+<tr><td colspan="3">**[1]** **In grassetto le indicazioni che divergono dalla tariffa generale. Le importazioni dalle zone franche secondo il regolamento del 22 dic. 1933 concernente le importazioni in Svizzera dei prodotti delle zone franche (RS** *0.631.256.934.953***) non sono computate sul contingente da ripartire.**</td></tr>
 </table>
 
 ### 8. Disciplinamento del mercato: ortaggi o legumi freschi
