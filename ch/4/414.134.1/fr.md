@@ -3,22 +3,22 @@ sr: "414.134.1"
 title: "Ordonnance de l'EPF de Zurich du 26 mars 2013 sur la formation continue à l'École polytechnique fédérale de Zurich (Ordonnance sur la formation continue à l'EPF de Zurich)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/546"
 language: fr
-version: 2013-10-01
+version: 2021-10-01
 adopted: 2013-03-26
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/546/20131001/fr/xml/fedlex-data-admin-ch-eli-cc-2013-546-20131001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/546/20131001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/546/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2013-546-20211001-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/546/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance de l’EPF de Zurich sur la formation continue à l’Ecole polytechnique fédérale de Zurich
+# Ordonnance de l’EPF de Zurich sur la formation continue à l’École polytechnique fédérale de Zurich
 
 (Ordonnance sur la formation continue à l’EPF de Zurich)
 
-du 26 mars 2013 (Etat le 1<sup>er</sup> octobre 2013)
+du 26 mars 2013 (État le 1<sup>er</sup> octobre 2021)
 
-La direction de l’Ecole polytechnique fédérale de Zurich,
+La direction de l’École polytechnique fédérale de Zurich,
 
 vu l’art. 3, al. 1, let. b, de l’ordonnance du 13 novembre 2003 sur l’EPFZ et l’EPFL[^ingress-1],
 
@@ -34,7 +34,7 @@ arrête:
 
 La présente ordonnance régit:
 
-- a. la formation continue universitaire à l’Ecole polytechnique fédérale de Zurich (EPF de Zurich);
+- a. la formation continue universitaire à l’École polytechnique fédérale de Zurich (EPF de Zurich);
 - b. les compétences en la matière.
 
 #### Art. 2
@@ -73,26 +73,27 @@ La formation continue à l’EPF de Zurich comprend:
 
 #### Art. 4
 
-**Compétences et organisation**
+**Compétences et organisation**[^4-1]
 
-<sup>1</sup> La direction de l’école approuve les règlements et les budgets des programmes de formation continue.
+<sup>1</sup> La direction de l’école approuve les règlements et les plans d’affaires des programmes de formation continue.
 
-<sup>2</sup> Le recteur décide de l’admission des candidats aux programmes de master sur proposition des directions des programmes.
+<sup>2</sup> Le recteur décide de l’admission des candidats aux programmes de formation continue sur proposition des directions des programmes.
 
 <sup>3</sup>
 
 Chaque programme de formation continue est placé sous la responsabilité d’une direction de programme. Celle-ci est chargée de:
 
-- a. la présélection des candidats au programme de master;
-- b. la sélection des candidats au Diploma of Advanced Studies ou au Certificate of Advanced Studies;
-- c. la réalisation du programme;
-- d. la gestion des ressources;
-- e. l’assurance de la qualité;
-- f. la présentation des rapports.
+- a. la présélection des candidats;
+- b. la réalisation du programme;
+- c. la gestion des ressources;
+- d. l’assurance de la qualité, en collaboration avec les services académiques de l’EPF de Zurich;
+- e. la présentation des rapports.
 
 <sup>4</sup> Les autres offres de formation continue sont placées sous la responsabilité des départements, des instituts et des professeurs de l’EPF de Zurich qui les organisent.
 
-<sup>5</sup> Le Centre de la formation continue de l’EPF de Zurich coordonne et soutient l’ensemble des offres de formation continue de l’EPF de Zurich. Il est placé sous l’autorité du recteur.
+<sup>5</sup> Les services académiques de l’EPF de Zurich coordonnent et soutiennent l’ensemble des offres de formation continue de l’EPF de Zurich. Ils sont placés sous l’autorité du recteur.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O de la direction de l’EPFZ du 30 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 ## Chapitre 2 Programmes de formation continue
 
@@ -172,19 +173,41 @@ Le titre donne droit à l’utilisation:
 
 #### Art. 9
 
-**Admission, inscription et immatriculation**
+**Admission**[^9-1]
 
-<sup>1</sup> Peut être admise à un programme de master de formation continue universitaire toute personne titulaire d’un diplôme de master d’une EPF ou d’un diplôme d’une autre haute école universitaire reconnu comme équivalent. L’admission se fonde sur le dossier personnel du candidat.
+<sup>1</sup>
 
-<sup>2</sup> Les candidats hautement qualifiés qui ne remplissent pas les conditions définies à l’al. 1 peuvent exceptionnellement être admis s’ils justifient d’une expérience professionnelle et de qualifications supplémentaires correspondantes dans les domaines de spécialisation requis.
+L’admission à un programme de master de formation continue universitaire nécessite au préalable:
 
-<sup>3</sup> Le nombre de participants à un programme de master peut être limité en fonction des capacités relatives à l’encadrement et aux installations de formation. Dans ce cas, la sélection des participants se fonde sur des critères supplémentaires tels que l’expérience professionnelle, des connaissances préalables et des qualifications particulières. Pour les programmes de master interdisciplinaires, le panachage recherché des participants est en outre déterminant.
+- a. d’être titulaire d’un diplôme de master délivré par une EPF et octroyant les qualifications requises pour ce programme; ou
+- b. d’être titulaire d’un diplôme délivré par une autre haute école universitaire et reconnu comme équivalent.
 
-<sup>4</sup> Nul ne peut faire valoir un droit à l’admission dans un programme de master.
+<sup>2</sup>
 
-<sup>5</sup> Les participants à un programme de master sont immatriculés comme étudiants de l’EPF de Zurich pendant leur formation.
+Si des besoins économiques, sociaux ou politiques particuliers se présentent, il est possible d’admettre à certains programmes de master des personnes possédant les qualifications suivantes et pouvant, selon le programme, justifier de surcroît d’une expérience professionnelle ou de qualifications supplémentaires dans les domaines de spécialisation correspondants:
 
-<sup>6</sup> Le Centre de la formation continue règle les formalités de l’inscription et de l’immatriculation.
+- a. diplôme de bachelor délivré par une EPF et octroyant les qualifications requises pour ce programme; ou
+- b. diplôme délivré par une autre haute école universitaire et reconnu comme équivalent.
+
+<sup>3</sup> Les candidats qui ne remplissent pas les conditions définies à l’al. 1 ou 2 peuvent exceptionnellement être admis s’ils sont particulièrement qualifiés et qu’ils justifient d’une expérience professionnelle et de qualifications supplémentaires dans les domaines de spécialisation correspondants.
+
+<sup>4</sup> Le nombre de participants à un programme de master peut être limité si les capacités d’encadrement et les installations de formation disponibles sont insuffisantes. Si tel est le cas, la sélection des participants se fonde sur des critères supplémentaires tels que l’expérience professionnelle, des connaissances préalables et des qualifications particulières. Concernant les programmes de master interdisciplinaires, les responsables de l’admission veilleront à un panachage approprié des groupes de participants.
+
+<sup>5</sup> Les conditions d’admission spécifiques des programmes sont fixées dans le règlement d’études du programme de master correspondant et publiées sur le site Internet de l’EPF de Zurich.
+
+<sup>6</sup> L’admission se fonde sur le dossier personnel du candidat. L’admission à un programme de master ne constitue pas un droit.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O de la direction de l’EPFZ du 30 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
+
+#### Art. 9a
+
+**Inscription, immatriculation et exmatriculation**[^9a-1]
+
+<sup>1</sup> Les participants sont immatriculés comme étudiants de l’EPF de Zurich pendant la durée de leur formation continue.
+
+<sup>2</sup> Les services académiques de l’EPF de Zurich règlent les formalités de l’inscription, de l’immatriculation et de l’exmatriculation.
+
+[^9a-1]: Introduit par le ch. I de l’O de la direction de l’EPFZ du 30 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 #### Art. 10
 
@@ -246,19 +269,41 @@ Les programmes CAS doivent satisfaire aux conditions suivantes:
 
 #### Art. 13
 
-**Admission, inscription et enregistrement**
+**Admission**[^13-1]
 
-<sup>1</sup> Peut être admise à un programme DAS ou CAS toute personne titulaire d’un diplôme de master d’une EPF ou d’un diplôme d’une autre haute école universitaire reconnu comme équivalent. L’admission se fonde sur le dossier personnel du candidat.
+<sup>1</sup>
 
-<sup>2</sup> Les candidats hautement qualifiés qui ne remplissent pas les conditions définies à l’al. 1 peuvent exceptionnellement être admis s’ils justifient d’une expérience professionnelle et de qualifications supplémentaires correspondantes dans les domaines de spécialisation requis.
+L’admission à un programme DAS ou CAS nécessite au préalable:
 
-<sup>3</sup> Le nombre de participants à un programme DAS ou CAS peut être limité en fonction des capacités relatives à l’encadrement et aux installations de formation. Dans ce cas, la sélection des participants se fonde sur des critères supplémentaires tels que l’expérience professionnelle, des connaissances préalables et des qualifications particulières.
+- a. d’être titulaire d’un diplôme de master délivré par une EPF et octroyant les qualifications requises pour ce programme; ou
+- b. d’être titulaire d’un diplôme délivré par une autre haute école universitaire et reconnu comme équivalent.
 
-<sup>4</sup> Nul ne peut faire valoir un droit à l’admission dans un programme DAS ou CAS.
+<sup>2</sup>
 
-<sup>5</sup> L’inscription se fait auprès du secrétariat du programme concerné.
+Si des besoins économiques, sociaux ou politiques particuliers se présentent, il est possible d’admettre à certains programmes DAS ou CAS des personnes possédant les qualifications suivantes et pouvant, selon le programme, justifier de surcroît d’une expérience professionnelle ou de qualifications supplémentaires dans les domaines de spécialisation correspondants:
 
-<sup>6</sup> Le Centre de la formation continue enregistre les participants aux programmes DAS et CAS dans la mesure où le programme en question l’exige. Les participants à ces programmes ne sont cependant pas immatriculés comme étudiants de l’EPF de Zurich.
+- a. diplôme de bachelor délivré par une EPF et octroyant les qualifications requises pour ce programme; ou
+- b. diplôme délivré par une autre haute école universitaire et reconnu comme équivalent.
+
+<sup>3</sup> Les candidats qui ne remplissent pas les conditions définies à l’al. 1 ou 2 peuvent exceptionnellement être admis s’ils sont particulièrement qualifiés et qu’ils justifient d’une expérience professionnelle et de qualifications supplémentaires dans les domaines de spécialisation correspondants.
+
+<sup>4</sup> Le nombre de participants à un programme DAS ou CAS peut être limité si les capacités d’encadrement et les installations de formation disponibles sont insuffisantes. Si tel est le cas, la sélection des participants se fonde sur des critères supplémentaires tels que l’expérience professionnelle, des connaissances préalables et des qualifications particulières.
+
+<sup>5</sup> Les conditions d’admission spécifiques des programmes sont fixées dans le règlement d’études du programme DAS ou CAS correspondant et publiées sur le site Internet de l’EPF de Zurich.
+
+<sup>6</sup> L’admission se fonde sur le dossier personnel du candidat. L’admission à un programme DAS ou CAS ne constitue pas un droit.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O de la direction de l’EPFZ du 30 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
+
+#### Art. 13a
+
+**Inscription, immatriculation et exmatriculation**[^13a-1]
+
+<sup>1</sup> Les participants sont immatriculés comme étudiants de l’EPF de Zurich pendant la durée de leur formation continue.
+
+<sup>2</sup> Les services académiques de l’EPF de Zurich règlent les formalités de l’inscription, de l’immatriculation et de l’exmatriculation.
+
+[^13a-1]: Introduit par le ch. I de l’O de la direction de l’EPFZ du 30 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 #### Art. 14
 
@@ -342,13 +387,9 @@ Les taxes d’inscription, de participation et de retrait d’inscription sont r
 
 #### Art. 23
 
-**Dispositions transitoires**
+[^23-1]
 
-<sup>1</sup> Les règlements et les taxes des programmes de formation continue seront adaptés à la présente ordonnance d’ici au 31 décembre 2013 au plus tard.
-
-<sup>2</sup> Les programmes de formation continue, les cours de perfectionnement et les autres offres déjà annoncés ou en cours au moment de l’entrée en vigueur de la présente ordonnance sont soumis aux dispositions de l’ordonnance du 14 septembre 1988 sur la postformation[^23-1] au plus tard jusqu’à la fin du programme ou du cours en question.
-
-[^23-1]: [[RO 1988 2181](https://fedlex.data.admin.ch/eli/oc/1988/2181_2181_2181), [1991 1446](https://fedlex.data.admin.ch/eli/oc/1991/1446_1446_1446), [1992 1848](https://fedlex.data.admin.ch/eli/oc/1992/1848_1848_1848). [RO 2013 2061](https://fedlex.data.admin.ch/eli/oc/2013/426)]
+[^23-1]: Abrogé par le ch. I de l’O de la direction de l’EPFZ du 30 août 2021, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 #### Art. 24
 

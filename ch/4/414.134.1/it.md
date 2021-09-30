@@ -3,11 +3,11 @@ sr: "414.134.1"
 title: Ordinanza del PF di Zurigo del 26 marzo 2013 sulla formazione continua al PF di Zurigo (Ordinanza sulla formazione continua al PF di Zurigo)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/546"
 language: it
-version: 2013-10-01
+version: 2021-10-01
 adopted: 2013-03-26
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/546/20131001/it/xml/fedlex-data-admin-ch-eli-cc-2013-546-20131001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/546/20131001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/546/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2013-546-20211001-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/546/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/546/20131001/it"
 
 (Ordinanza sulla formazione continua al PF di Zurigo)
 
-del 26 marzo 2013 (Stato 1° ottobre 2013)
+del 26 marzo 2013 (Stato 1° ottobre 2021)
 
 La Direzione scolastica del PF di Zurigo,
 
@@ -73,26 +73,27 @@ La formazione continua al PF di Zurigo comprende:
 
 #### Art. 4
 
-**Competenze e organizzazione**
+**Competenze e organizzazione**[^4-1]
 
-<sup>1</sup> La Direzione scolastica approva i regolamenti e il bilancio dei programmi di formazione continua.
+<sup>1</sup> La Direzione scolastica approva i regolamenti e i business plan dei programmi di formazione continua.
 
-<sup>2</sup> Il rettore decide in merito all’ammissione dei candidati dei programmi master su richiesta delle direzioni dei programmi.
+<sup>2</sup> Il rettore decide in merito all’ammissione dei candidati ai programmi di formazione continua su richiesta delle direzioni dei programmi.
 
 <sup>3</sup>
 
 Ogni programma di formazione continua si svolge sotto la responsabilità di una direzione di programma. La direzione è competente per:
 
-- a. la selezione preliminare dei candidati al programma master;
-- b. la selezione dei candidati al Diploma of Advanced Studies e al Certificate of Advanced Studies;
-- c. lo svolgimento del programma;
-- d. la gestione dei fondi;
-- e. la garanzia della qualità;
-- f. la stesura di rapporti.
+- a. la selezione preliminare dei candidati;
+- b. lo svolgimento del programma;
+- c. la gestione dei fondi;
+- d. la garanzia della qualità in collaborazione con i servizi accademici del PF di Zurigo;
+- e. la stesura di rapporti.
 
 <sup>4</sup> La competenza per gli altri corsi di formazione continua spetta rispettivamente ai dipartimenti, agli istituti e ai professori del PF di Zurigo che li organizzano.
 
-<sup>5</sup> Il Centro per la formazione continua del PF di Zurigo coordina e promuove tutti i corsi di formazione continua del PF di Zurigo. Il centro è sottoposto all’autorità del rettore.
+<sup>5</sup> I servizi accademici del PF di Zurigo coordinano e sostengono tutti i corsi di formazione continua del PF di Zurigo. Sono sottoposti all’autorità del rettore.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O della Direzione scolastica del PF di Zurigo del 30 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 ## Capitolo 2: Programmi di formazione continua
 
@@ -172,19 +173,41 @@ Il titolo autorizza a impiegare:
 
 #### Art. 9
 
-**Ammissione, iscrizione e immatricolazione**
+**Ammissione**[^9-1]
 
-<sup>1</sup> Può essere ammesso a un programma master della formazione continua universitaria chi possiede un diploma di master di un PF o un titolo di un’altra scuola universitaria riconosciuto come equivalente. L’ammissione si basa sul dossier personale del candidato.
+<sup>1</sup>
 
-<sup>2</sup> I candidati altamente qualificati che non soddisfano le condizioni del capoverso 1 possono essere ammessi in via eccezionale se dimostrano di aver maturato un’esperienza professionale pertinente e di possedere le qualifiche supplementari negli ambiti specifici richiesti.
+Per l’ammissione a un programma master della formazione continua universitaria è richiesto:
 
-<sup>3</sup> Il numero dei partecipanti a un programma master può essere limitato in base alle risorse disponibili in termini di assistenza e istituti di formazione. In questo caso i candidati vengono selezionati secondo ulteriori criteri quali esperienza professionale, qualifiche e particolari conoscenze pregresse. Inoltre, nel caso dei programmi master interdisciplinari la composizione dei partecipanti viene decisa dalla direzione.
+- a. un diploma di master di un PF qualificante per il programma; o
+- b. un titolo di un’altra scuola universitaria riconosciuto come equivalente.
 
-<sup>4</sup> Non sussiste alcun diritto ad essere ammessi a un programma master.
+<sup>2</sup>
 
-<sup>5</sup> Per tutta la durata di frequenza del programma master i partecipanti sono immatricolati come studenti del PF di Zurigo.
+In presenza di particolari esigenze economiche, sociali o politiche, può essere ammesso a determinati programmi master anche chi possiede una delle seguenti qualifiche nonché, a seconda del programma, un’esperienza professionale o qualifiche supplementari negli ambiti specifici corrispondenti:
 
-<sup>6</sup> Il Centro per la formazione continua stabilisce le formalità necessarie per l’iscrizione e l’immatricolazione.
+- a. un diploma di bachelor di un PF qualificante per il programma; o
+- b. un titolo di un’altra scuola universitaria riconosciuto come equivalente.
+
+<sup>3</sup> I candidati che non soddisfano le condizioni del capoverso 1 o 2 possono essere ammessi in via eccezionale se sono particolarmente qualificati e possiedono un’esperienza professionale e qualifiche supplementari negli ambiti specifici corrispondenti.
+
+<sup>4</sup> Il numero dei partecipanti a un programma master può essere limitato se le risorse disponibili in termini di assistenza e istituti di formazione non sono sufficienti. In questo caso i candidati vengono selezionati secondo ulteriori criteri quali esperienza professionale, qualifiche e particolari conoscenze pregresse. Nel caso dei programmi master interdisciplinari è inoltre data importanza a un’adeguata composizione del gruppo di partecipanti.
+
+<sup>5</sup> Le condizioni di ammissione specifiche dei programmi sono stabilite nel regolamento di studio del programma master corrispondente e pubblicate sul sito Internet del PF di Zurigo.
+
+<sup>6</sup> L’ammissione si basa sul dossier personale del candidato. Non sussiste alcun diritto a essere ammessi a un programma master.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O della Direzione scolastica del PF di Zurigo del 30 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
+
+#### Art. 9a
+
+**Iscrizione, immatricolazione ed exmatricolazione**[^9a-1]
+
+<sup>1</sup> Per la durata della loro formazione continua i partecipanti sono immatricolati come studenti del PF di Zurigo.
+
+<sup>2</sup> I servizi accademici del PF di Zurigo stabiliscono le formalità necessarie per l’iscrizione, l’immatricolazione e l’exmatricolazione.
+
+[^9a-1]: Introdotto dal n. I dell’O della Direzione scolastica del PF di Zurigo del 30 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 #### Art. 10
 
@@ -246,19 +269,41 @@ I programmi CAS sottostanno alle seguenti regole:
 
 #### Art. 13
 
-**Ammissione, iscrizione e registrazione**
+**Ammissione**[^13-1]
 
-<sup>1</sup> Può essere ammesso a un programma DAS o CAS chi possiede un diploma di master di un PF o un titolo di un’altra scuola universitaria riconosciuto come equivalente. L’ammissione si basa sul dossier personale del candidato.
+<sup>1</sup>
 
-<sup>2</sup> I candidati altamente qualificati che non soddisfano le condizioni del capoverso 1 possono essere ammessi in via eccezionale se dimostrano di aver maturato un’esperienza professionale pertinente e di possedere le qualifiche supplementari negli ambiti specifici richiesti.
+Per l’ammissione a un programma DAS o CAS è richiesto:
 
-<sup>3</sup> Il numero dei partecipanti a un programma DAS o CAS può essere limitato in base alle risorse disponibili in termini di assistenza e istituti di formazione. In questo caso i candidati vengono selezionati secondo ulteriori criteri quali esperienza professionale, qualifiche e particolari conoscenze pregresse.
+- a. un diploma di master di un PF qualificante per il programma; o
+- b. un titolo di un’altra scuola universitaria riconosciuto come equivalente.
 
-<sup>4</sup> Non sussiste alcun diritto ad essere ammessi a un programma DAS o CAS.
+<sup>2</sup>
 
-<sup>5</sup> L’iscrizione si effettua presso la segreteria di programma competente.
+In presenza di particolari esigenze economiche, sociali o politiche, può essere ammesso a determinati programmi DAS o CAS anche chi possiede una delle seguenti qualifiche nonché, a seconda del programma, un’esperienza professionale o qualifiche supplementari negli ambiti specifici corrispondenti:
 
-<sup>6</sup> Il Centro per la formazione continua registra i partecipanti ai programmi DAS e CAS qualora ciò sia previsto dal rispettivo programma. I candidati, tuttavia, non sono immatricolati come studenti del PF di Zurigo.
+- a. un diploma di bachelor di un PF qualificante per il programma; o
+- b. un titolo di un’altra scuola universitaria riconosciuto come equivalente.
+
+<sup>3</sup> I candidati che non soddisfano le condizioni del capoverso 1 o 2 possono essere ammessi in via eccezionale se sono particolarmente qualificati e possiedono un’esperienza professionale e qualifiche supplementari negli ambiti specifici corrispondenti.
+
+<sup>4</sup> Il numero dei partecipanti a un programma DAS o CAS può essere limitato se le risorse disponibili in termini di assistenza e istituti di formazione non sono sufficienti. In questo caso i candidati vengono selezionati secondo ulteriori criteri quali esperienza professionale, qualifiche e particolari conoscenze pregresse.
+
+<sup>5</sup> Le condizioni di ammissione specifiche dei programmi sono stabilite nel regolamento di studio del programma DAS o CAS corrispondente e pubblicate sul sito Internet del PF di Zurigo.
+
+<sup>6</sup> L’ammissione si basa sul dossier personale del candidato. Non sussiste alcun diritto a essere ammessi a un programma DAS o CAS.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O della Direzione scolastica del PF di Zurigo del 30 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
+
+#### Art. 13a
+
+**Iscrizione, immatricolazione ed exmatricolazione**[^13a-1]
+
+<sup>1</sup> Per la durata della loro formazione continua i partecipanti sono immatricolati come studenti del PF di Zurigo.
+
+<sup>2</sup> I servizi accademici del PF di Zurigo stabiliscono le formalità necessarie per l’iscrizione, l’immatricolazione e l’exmatricolazione.
+
+[^13a-1]: Introdotto dal n. I dell’O della Direzione scolastica del PF di Zurigo del 30 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 #### Art. 14
 
@@ -342,13 +387,9 @@ Le tasse di iscrizione, partecipazione e rinuncia agli studi sono disciplinate d
 
 #### Art. 23
 
-**Disposizioni transitorie**
+[^23-1]
 
-<sup>1</sup> I regolamenti e le tasse dei programmi di formazione continua sono adeguati alla presente ordinanza al massimo entro il 31 dicembre 2013.
-
-<sup>2</sup> I programmi di formazione continua, i corsi di perfezionamento e gli altri corsi messi a concorso o in fase di svolgimento al momento dell’entrata in vigore della presente ordinanza sono disciplinati fino alla loro conclusione dalle disposizioni dell’ordinanza del 14 settembre 1988[^23-1] sulla postformazione.
-
-[^23-1]: [[RU 1988 2181](https://fedlex.data.admin.ch/eli/oc/1988/2181_2181_2181), [1991 1446](https://fedlex.data.admin.ch/eli/oc/1991/1446_1446_1446), [1992 1848](https://fedlex.data.admin.ch/eli/oc/1992/1848_1848_1848). [RU 2013 2061](https://fedlex.data.admin.ch/eli/oc/2013/426)]
+[^23-1]: Abrogato dal n. I dell’O della Direzione scolastica del PF di Zurigo del 30 ago. 2021, con effetto dal 1° ott. 2021 ([RU 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 #### Art. 24
 

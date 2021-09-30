@@ -3,11 +3,11 @@ sr: "414.134.1"
 title: Verordnung der ETH Zürich vom 26. März 2013 über die Weiterbildung an der ETH Zürich (Weiterbildungsverordnung ETH Zürich)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/546"
 language: de
-version: 2013-10-01
+version: 2021-10-01
 adopted: 2013-03-26
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/546/20131001/de/xml/fedlex-data-admin-ch-eli-cc-2013-546-20131001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/546/20131001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/546/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2013-546-20211001-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/546/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/546/20131001/de"
 
 (Weiterbildungsverordnung ETH Zürich)
 
-vom 26. März 2013 (Stand am 1. Oktober 2013)
+vom 26. März 2013 (Stand am 1. Oktober 2021)
 
 Die Schulleitung der ETH Zürich,
 
@@ -73,26 +73,27 @@ Die Weiterbildung an der ETH Zürich umfasst:
 
 #### Art. 4
 
-**Zuständigkeiten und Organisation**
+**Zuständigkeiten und Organisation**[^4-1]
 
-<sup>1</sup> Die Schulleitung genehmigt die Reglemente und die Budgets der Weiterbildungsprogramme.
+<sup>1</sup> Die Schulleitung genehmigt die Reglemente und die Businesspläne der Weiterbildungsprogramme.
 
-<sup>2</sup> Die Rektorin oder der Rektor entscheidet über die Zulassung der Kandidatinnen und Kandidaten zu den Masterprogrammen auf Antrag der Programmleitungen.
+<sup>2</sup> Die Rektorin oder der Rektor entscheidet über die Zulassung der Kandidatinnen und Kandidaten zu den Weiterbildungsprogrammen auf Antrag der Programmleitungen.
 
 <sup>3</sup>
 
-Für ein Weiterbildungsprogramm ist eine Programmleitung verantwortlich. Sie ist zuständig für:
+Für jedes Weiterbildungsprogramm ist eine Programmleitung verantwortlich. Sie ist zuständig für:
 
-- a. die Vor-Auswahl der Kandidatinnen und Kandidaten für das Masterprogramm;
-- b. die Auswahl der Kandidatinnen und Kandidaten für das Diploma of Advanced Studies oder das Certificate of Advanced Studies;
-- c. die Durchführung des Programms;
-- d. die Verwaltung der Mittel;
-- e. die Qualitätssicherung;
-- f. die Berichterstattung.
+- a. die Vorauswahl der Kandidatinnen und Kandidaten;
+- b. die Durchführung des Programms;
+- c. die Verwaltung der Mittel;
+- d. die Qualitätssicherung in Zusammenarbeit mit den Akademischen Diensten der ETH Zürich;
+- e. die Berichterstattung.
 
 <sup>4</sup> Für die übrigen Weiterbildungsangebote sind die jeweils organisierenden Departemente, Institute und Professuren der ETH Zürich verantwortlich.
 
-<sup>5</sup> Das Zentrum für Weiterbildung der ETH Zürich koordiniert und unterstützt sämtliche Weiterbildungsangebote der ETH Zürich. Es ist der Rektorin oder dem Rektor unterstellt.
+<sup>5</sup> Die Akademischen Dienste der ETH Zürich koordinieren und unterstützen sämtliche Weiterbildungsangebote der ETH Zürich. Sie sind der Rektorin oder dem Rektor unterstellt.
+
+[^4-1]: Fassung gemäss Ziff. I der V der Schulleitung der ETH Zürich vom 30. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 ## 2. Kapitel: Weiterbildungsprogramme
 
@@ -145,13 +146,13 @@ Für die Programme gilt:
 
 <sup>1</sup> Den Teilnehmerinnen und Teilnehmern, die ein Masterprogramm der universitären Weiterbildung erfolgreich abgeschlossen haben, verleiht die ETH Zürich ein Masterdiplom der Weiterbildungsstufe. Im Masterdiplom werden der Gegenstand des Programms und der akademische Titel bezeichnet. Es wird von der Rektorin oder dem Rektor und der Departementsvorsteherin oder dem Departementsvorsteher unterzeichnet.
 
-<sup>2</sup> Je nach der Art des Masterprogramms heisst der Titel «Master of Advanced Studies ETH in … (Fachrichtung)» oder «(Executive) Master of Business Administration ETH in … (Fachrichtung)». Eine allfällige Vertiefung wird der Fachrichtung nachgestellt: «Vertiefung in … (Vertiefung)».
+<sup>2</sup> Je nach der Art des Masterprogramms heisst der Titel «Master of Advanced Studies ETH in ... (Fachrichtung)» oder «(Executive) Master of Business Administration ETH in ... (Fachrichtung)». Eine allfällige Vertiefung wird der Fachrichtung nachgestellt: «Vertiefung in ... (Vertiefung)».
 
 <sup>3</sup>
 
 Der Titel berechtigt zur Verwendung:
 
-- a. der Abkürzungen «MAS ETH … (Abkürzung der Fachrichtung/Abkürzung der Vertiefung)» oder «(E)MBA ETH … (Abkürzung der Fachrichtung/ Abkürzung der Vertiefung)»;
+- a. der Abkürzungen «MAS ETH ... (Abkürzung der Fachrichtung/Abkürzung der Vertiefung)» oder «(E)MBA ETH ... (Abkürzung der Fachrichtung/ Abkürzung der Vertiefung)»;
 - b. der generischen Bezeichnung «MAS ETH» oder «(E)MBA ETH».
 
 <sup>4</sup> Für spezielle Programme oder bei einer Kooperation mit einer anderen Hochschule können weitere Titel verliehen werden. Bei hochschulübergreifenden Masterprogrammen wird der Titel im Namen der ETH Zürich und der anderen beteiligten Hochschule vergeben.
@@ -172,19 +173,41 @@ Der Titel berechtigt zur Verwendung:
 
 #### Art. 9
 
-**Zulassung, Anmeldung und Immatrikulation**
+**Zulassung**[^9-1]
 
-<sup>1</sup> Zu einem Masterprogramm der universitären Weiterbildung kann zugelassen werden, wer einen Masterabschluss einer ETH oder einen als äquivalent anerkannten Abschluss einer anderen universitären Hochschule besitzt. Die Zulassung basiert auf dem persönlichen Dossier der Bewerberin oder des Bewerbers.
+<sup>1</sup>
 
-<sup>2</sup> Hoch qualifizierte Bewerberinnen oder Bewerber, welche die Voraussetzung nach Absatz 1 nicht erfüllen, können ausnahmsweise zugelassen werden, wenn sie eine entsprechende Berufspraxis und entsprechende Zusatzqualifikationen in den erforderlichen Fachgebieten nachweisen.
+Voraussetzung für die Zulassung zu einem Masterprogramm der universitären Weiterbildung ist:
 
-<sup>3</sup> Die Zahl der Teilnehmerinnen und Teilnehmer an einem Masterprogramm kann begrenzt werden mit Rücksicht auf die verfügbaren Kapazitäten an Betreuung und Ausbildungseinrichtungen. In diesem Fall erfolgt die Auswahl der Teilnehmerinnen und Teilnehmer aufgrund zusätzlicher Kriterien wie Berufserfahrung, besondere Vorkenntnisse und Qualifikationen. Für die interdisziplinären Masterprogramme ist zudem die gewünschte Zusammensetzung der Teilnehmerinnen und Teilnehmer massgebend.
+- a. ein für das Programm qualifizierender Masterabschluss einer ETH; oder
+- b. ein als äquivalent anerkannter Abschluss einer anderen universitären Hochschule.
 
-<sup>4</sup> Es besteht kein Anspruch auf Zulassung zu einem Masterprogramm.
+<sup>2</sup>
 
-<sup>5</sup> Die Teilnehmerinnen und Teilnehmer werden für die Dauer ihres Studiums im Masterprogramm als Studierende an der ETH Zürich immatrikuliert.
+Liegen besondere Bedürfnisse der Wirtschaft, Gesellschaft oder Politik vor, so können zu bestimmten Masterprogrammen auch Personen zugelassen werden, die über folgende Qualifikationen und, je nach Programm, zusätzlich über Berufspraxis oder Zusatzqualifikationen in den entsprechenden Fachgebieten verfügen:
 
-<sup>6</sup> Das Zentrum für Weiterbildung regelt die Formalitäten der Anmeldung und der Immatrikulation.
+- a. einen für das Programm qualifizierenden Bachelorabschluss einer ETH; oder
+- b. einen als äquivalent anerkannten Abschluss einer anderen universitären Hochschule.
+
+<sup>3</sup> Bewerberinnen oder Bewerber, welche die Voraussetzungen nach Absatz 1 oder 2 nicht erfüllen, können ausnahmsweise zugelassen werden, wenn sie besonders qualifiziert sind und über Berufspraxis und Zusatzqualifikationen in den entsprechenden Fachgebieten verfügen.
+
+<sup>4</sup> Die Zahl der Teilnehmerinnen und Teilnehmer an einem Masterprogramm kann begrenzt werden, wenn die verfügbaren Kapazitäten an Betreuung und Ausbildungseinrichtungen nicht ausreichen. Ist dies der Fall, so erfolgt die Auswahl der Teilnehmerinnen und Teilnehmer aufgrund zusätzlicher Kriterien wie Berufserfahrung, besondere Vorkenntnisse und Qualifikationen. Bei interdisziplinären Masterprogrammen wird zudem auf eine geeignete Zusammensetzung der Teilnehmergruppe geachtet.
+
+<sup>5</sup> Die programmspezifischen Zulassungsvoraussetzungen werden im Studienreglement des entsprechenden Masterprogramms festgelegt und auf der Website der ETH Zürich veröffentlicht.
+
+<sup>6</sup> Die Zulassung basiert auf dem persönlichen Dossier der Bewerberin oder des Bewerbers. Es besteht kein Anspruch auf Zulassung zu einem Masterprogramm.
+
+[^9-1]: Fassung gemäss Ziff. I der V der Schulleitung der ETH Zürich vom 30. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
+
+#### Art. 9a
+
+**Anmeldung, Immatrikulation und Exmatrikulation**[^9a-1]
+
+<sup>1</sup> Die Teilnehmerinnen und Teilnehmer werden für die Dauer ihrer Weiterbildung als Studierende an der ETH Zürich immatrikuliert.
+
+<sup>2</sup> Die Akademischen Dienste der ETH Zürich regeln die Formalitäten der Anmeldung, der Immatrikulation und der Exmatrikulation.
+
+[^9a-1]: Eingefügt durch Ziff. I der V der Schulleitung der ETH Zürich vom 30. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 #### Art. 10
 
@@ -234,7 +257,7 @@ Für die CAS-Programme gilt:
 
 <sup>1</sup> Den Teilnehmerinnen und Teilnehmern, die ein DAS- oder ein CAS-Programm erfolgreich abgeschlossen haben, wird ein Weiterbildungsdiplom respektive ein Weiterbildungszertifikat ausgestellt. Dieses spezifiziert den Gegenstand und den Umfang des Programms. Die Urkunde wird von der Departementsvorsteherin oder dem Departementsvorsteher und von der Delegierten oder dem Delegierten des Programms unterschrieben.
 
-<sup>2</sup> Die Bezeichnungen lauten: «Diploma of Advanced Studies ETH in … (Fachrichtung)» respektive «Certificate of Advanced Studies ETH in … (Fachrichtung)».
+<sup>2</sup> Die Bezeichnungen lauten: «Diploma of Advanced Studies ETH in ... (Fachrichtung)» respektive «Certificate of Advanced Studies ETH in ... (Fachrichtung)».
 
 <sup>3</sup> Bei einem hochschulübergreifenden DAS oder CAS wird das Diplom oder Zertifikat im Namen des zuständigen Departements der ETH Zürich und der verantwortlichen Einheit der anderen beteiligten Hochschule ausgestellt.
 
@@ -246,19 +269,41 @@ Für die CAS-Programme gilt:
 
 #### Art. 13
 
-**Zulassung, Anmeldung und Registrierung**
+**Zulassung**[^13-1]
 
-<sup>1</sup> Zu einem DAS- oder einem CAS-Programm kann zugelassen werden, wer einen Masterabschluss einer ETH oder einen als äquivalent anerkannten Abschluss einer anderen universitären Hochschule besitzt. Die Zulassung basiert auf dem persönlichen Dossier der Bewerberin oder des Bewerbers.
+<sup>1</sup>
 
-<sup>2</sup> Hoch qualifizierte Bewerberinnen oder Bewerber, welche die Voraussetzung nach Absatz 1 nicht erfüllen, können ausnahmsweise zugelassen werden, wenn sie eine entsprechende Berufspraxis und entsprechende Zusatzqualifikationen in den erforderlichen Fachgebieten nachweisen.
+Voraussetzung für die Zulassung zu einem DAS- oder einem CAS-Programm ist:
 
-<sup>3</sup> Die Zahl der Teilnehmerinnen und Teilnehmer an einem DAS- oder einem CAS-Programm kann begrenzt werden mit Rücksicht auf die verfügbaren Kapazitäten an Betreuung und Ausbildungseinrichtungen. In diesem Fall erfolgt die Auswahl der Teilnehmerinnen und Teilnehmer aufgrund zusätzlicher Kriterien wie Berufserfahrung, besondere Vorkenntnisse und Qualifikationen.
+- a. ein für das Programm qualifizierender Masterabschluss einer ETH; oder
+- b. ein als äquivalent anerkannter Abschluss einer anderen universitären Hochschule.
 
-<sup>4</sup> Es besteht kein Anspruch auf Zulassung zu einem DAS- oder einem CAS-Programm.
+<sup>2</sup>
 
-<sup>5</sup> Die Anmeldung erfolgt beim jeweiligen Programmsekretariat.
+Liegen besondere Bedürfnisse der Wirtschaft, Gesellschaft oder Politik vor, so können zu bestimmten DAS- oder CAS-Programmen auch Personen zugelassen werden, die über folgende Qualifikationen und, je nach Programm, zusätzlich über Berufspraxis oder Zusatzqualifikationen in den entsprechenden Fachgebieten verfügen:
 
-<sup>6</sup> Das Zentrum für Weiterbildung registriert Teilnehmerinnen und Teilnehmer von DAS- und von CAS-Programmen, sofern dies das jeweilige Programm erfordert. Es erfolgt jedoch keine Immatrikulation als Studierende an der ETH Zürich.
+- a. einen für das Programm qualifizierenden Bachelorabschluss einer ETH; oder
+- b. einen als äquivalent anerkannten Abschluss einer anderen universitären Hochschule.
+
+<sup>3</sup> Bewerberinnen oder Bewerber, welche die Voraussetzungen nach Absatz 1 oder 2 nicht erfüllen, können ausnahmsweise zugelassen werden, wenn sie besonders qualifiziert sind und über Berufspraxis und Zusatzqualifikationen in den entsprechenden Fachgebieten verfügen.
+
+<sup>4</sup> Die Zahl der Teilnehmerinnen und Teilnehmer an einem DAS- oder einem CAS-Programm kann begrenzt werden, wenn die verfügbaren Kapazitäten an Betreuung und Ausbildungseinrichtungen nicht ausreichen. Ist dies der Fall, so erfolgt die Auswahl der Teilnehmerinnen und Teilnehmer aufgrund zusätzlicher Kriterien wie Berufserfahrung, besondere Vorkenntnisse und Qualifikationen.
+
+<sup>5</sup> Die programmspezifischen Zulassungsvoraussetzungen werden im Studienreglement des entsprechenden DAS- oder CAS-Programms festgelegt und auf der Website der ETH Zürich veröffentlicht.
+
+<sup>6</sup> Die Zulassung basiert auf dem persönlichen Dossier der Bewerberin oder des Bewerbers. Es besteht kein Anspruch auf Zulassung zu einem DAS- oder einem CAS-Programm.
+
+[^13-1]: Fassung gemäss Ziff. I der V der Schulleitung der ETH Zürich vom 30. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
+
+#### Art. 13a
+
+**Anmeldung, Immatrikulation und Exmatrikulation**[^13a-1]
+
+<sup>1</sup> Die Teilnehmerinnen und Teilnehmer werden für die Dauer ihrer Weiterbildung als Studierende an der ETH Zürich immatrikuliert.
+
+<sup>2</sup> Die Akademischen Dienste der ETH Zürich regeln die Formalitäten der Anmeldung, der Immatrikulation und der Exmatrikulation.
+
+[^13a-1]: Eingefügt durch Ziff. I der V der Schulleitung der ETH Zürich vom 30. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 #### Art. 14
 
@@ -342,13 +387,9 @@ Für die Anmelde-, die Teilnahme- und die Abmeldegebühren gilt die Gebührenver
 
 #### Art. 23
 
-**Übergangsbestimmungen**
+[^23-1]
 
-<sup>1</sup> Die Reglemente und die Gebühren der Weiterbildungsprogramme werden bis zum 31. Dezember 2013 an diese Verordnung angepasst.
-
-<sup>2</sup> Für Weiterbildungsprogramme, Fortbildungskurse und weitere Angebote, die zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits ausgeschrieben sind oder durchgeführt werden, gelten die Bestimmungen der Weiterbildungsverordnung vom 14. September 1988[^23-1] längstens bis zum Abschluss des Programms oder Kurses.
-
-[^23-1]: [[AS 1988 2181](https://fedlex.data.admin.ch/eli/oc/1988/2181_2181_2181), [1991 1446](https://fedlex.data.admin.ch/eli/oc/1991/1446_1446_1446), [1992 1848](https://fedlex.data.admin.ch/eli/oc/1992/1848_1848_1848). [AS 2013 2061](https://fedlex.data.admin.ch/eli/oc/2013/426)]
+[^23-1]: Aufgehoben durch Ziff. I der V der Schulleitung der ETH Zürich vom 30. Aug. 2021, mit Wirkung seit 1. Okt. 2021 ([AS 2021 528](https://fedlex.data.admin.ch/eli/oc/2021/528)).
 
 #### Art. 24
 
