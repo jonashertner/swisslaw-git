@@ -4,13 +4,13 @@ number: "150.100"
 title: Legge sui diritti politici nel Cantone dei Grigioni
 short: LDPC
 language: it
-version: 2016-02-01
-corrected: 2021-06-28
-version_adopted: 2016-02-02
+version: 2021-10-01
+valid_until: 2022-05-31
+version_adopted: 2021-02-16
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2772/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3190/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2772/pdf_file"
 
 (LDPC)
 
-del 17.06.2005 (stato 01.02.2016)
+del 17.06.2005 (stato 01.10.2021)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -47,6 +47,8 @@ decide:
 - b) l'esercizio del diritto di referendum e di iniziativa in affari cantonali;
 - c) l'esercizio del diritto di iniziativa in affari regionali e comunali.
 
+<sup>1<sup>bis</sup></sup> Sono fatte salve le prescrizioni particolari concernenti l'elezione del Gran Consiglio secondo il sistema proporzionale contenute nella legge sull'elezione del Gran Consiglio.
+
 <sup>2</sup> La legge è applicabile alle votazioni federali e alle elezioni del Consiglio nazionale, nonché all'esercizio del diritto di referendum e di iniziativa in affari federali, nella misura in cui il diritto federale lasci ai Cantoni la facoltà di regolare la procedura.
 
 <sup>3</sup> La legge si applica per analogia alle votazioni ed elezioni in affari comunali, per quanto il diritto comunale non preveda disposizioni al riguardo.
@@ -57,7 +59,7 @@ decide:
 
 <sup>1</sup> Sono elezioni cantonali le elezioni del Governo e del Consiglio degli Stati.
 
-<sup>2</sup> Sono elezioni regionali le elezioni dei membri del Gran Consiglio nei circondari elettorali conformemente alla legge sul Gran Consiglio, nonché le elezioni dei membri dei tribunali regionali.
+<sup>2</sup> Sono elezioni regionali le elezioni dei membri del Gran Consiglio nei circondari elettorali conformemente alla legge sull'elezione del Gran Consiglio nonché le elezioni dei membri dei tribunali regionali.
 
 <sup>3</sup> …
 
@@ -118,7 +120,7 @@ decide:
 
 **Luogo, giorno e tipo di votazione**
 
-<sup>1</sup> Le elezioni e votazioni federali e cantonali, nonché le elezioni del Gran Consiglio e dei tribunali regionali hanno luogo nel comune lo stesso giorno con voto alle urne. Per le elezioni del Gran Consiglio, le regioni possono prevedere anche il voto per alzata di mano nell'assemblea popolare dei cittadini.
+<sup>1</sup> Le elezioni e votazioni federali e cantonali nonché le elezioni del Gran Consiglio e dei tribunali regionali hanno luogo nel comune lo stesso giorno con voto alle urne.
 
 <sup>2</sup> Le elezioni e votazioni in affari regionali hanno luogo nel comune lo stesso giorno.
 
@@ -468,14 +470,14 @@ decide:
 
 <sup>1</sup> L'ufficio elettorale comunica immediatamente i risultati comunali:
 
-- a) alla Cancelleria dello Stato in caso di elezioni e votazioni federali e cantonali;
+- a) alla Cancelleria dello Stato in caso di elezioni e votazioni federali e cantonali nonché in caso di elezioni dei membri del Gran Consiglio;
 - b) al tribunale regionale in caso di elezioni dei tribunali regionali;
-- c) al comitato regionale in caso di elezioni dei membri del Gran Consiglio e di votazioni in affari regionali.
+- c) al comitato regionale in caso di votazioni in affari regionali.
 - d) …
 
 <sup>2</sup> L'ufficio elettorale redige inoltre per ogni votazione un verbale con le indicazioni ai sensi dell'articolo 32 e lo trasmette immediatamente, unitamente alle schede elettorali o di voto, agli uffici competenti.
 
-<sup>3</sup> Il giorno dell'elezione i comitati regionali comunicano immediatamente per telefono alla Cancelleria dello Stato, ed il giorno seguente anche per iscritto, i risultati delle elezioni dei membri del Gran Consiglio.
+<sup>3</sup> …
 
 <sup>4</sup> Il giorno seguente all'elezione i tribunali regionali comunicano per iscritto alla Cancelleria dello Stato i risultati delle elezioni dei tribunali regionali.
 
@@ -483,9 +485,9 @@ decide:
 
 **Somma dei risultati comunali**
 
-<sup>1</sup> La Cancelleria dello Stato determina il risultato cantonale delle elezioni e votazioni federali e cantonali addizionando i risultati comunali e redige un verbale.
+<sup>1</sup> Sommando i risultati comunali, la Cancelleria dello Stato determina il risultato cantonale in caso di elezioni e votazioni federali e cantonali nonché i risultati dei singoli circondari elettorali in caso di elezioni dei membri del Gran Consiglio. Essa redige un verbale al riguardo.
 
-<sup>2</sup> In caso di elezioni del tribunale regionale il compito spetta al tribunale regionale, in caso di elezioni dei membri del Gran Consiglio e in caso di votazioni in affari regionali il compito spetta al comitato regionale.
+<sup>2</sup> In caso di elezioni del tribunale regionale il compito spetta al tribunale regionale e in caso di votazioni in affari regionali il compito spetta al comitato regionale.
 
 #### Art. 38
 
@@ -528,7 +530,7 @@ decide:
 
 **Pubblicazione 1. Risultato provvisorio**
 
-<sup>1</sup> I risultati provvisori delle elezioni e delle votazioni cantonali vengono pubblicati immediatamente dalla Cancelleria dello Stato, quelli delle elezioni dei tribunali regionali dal tribunale regionale e quelli dell'elezione dei membri del Gran Consiglio, nonché delle votazioni in affari regionali dal comitato regionale.
+<sup>1</sup> I risultati provvisori delle elezioni e delle votazioni cantonali nonché quelli delle elezioni dei membri del Gran Consiglio vengono pubblicati immediatamente dalla Cancelleria dello Stato, quelli delle elezioni dei tribunali regionali dal tribunale regionale e quelli delle votazioni in affari regionali dal comitato regionale.
 
 #### Art. 43
 
@@ -536,29 +538,29 @@ decide:
 
 <sup>1</sup> Se la differenza dei voti ottenuti dall'ultima persona eletta e dalla prima non eletta rispettivamente tra i sì e i no nel risultato complessivo provvisorio di una elezione o votazione ammonta a meno dello 0,3 per cento delle schede di voto valide consegnate, deve essere eseguito d'ufficio un secondo conteggio.
 
-<sup>2</sup> Per il resto, se sussistono indizi concreti di irregolarità, un secondo conteggio viene ordinato dal Governo in caso di elezioni e votazioni cantonali, dalla commissione amministrativa in caso di elezioni del tribunale regionale, nonché dal comitato regionale in caso di elezioni dei membri del Gran Consiglio e di votazioni in affari regionali.
+<sup>2</sup> Per il resto, se sussistono indizi concreti di irregolarità, un secondo conteggio viene ordinato dal Governo in caso di elezioni e votazioni cantonali nonché in caso di elezioni dei membri del Gran Consiglio, dalla commissione amministrativa in caso di elezioni dei tribunali regionali e dal comitato regionale in caso di votazioni in affari regionali.
 
-<sup>3</sup> Il secondo conteggio può venire eseguito a livello centrale dalla Cancelleria dello Stato in caso di elezioni e votazioni cantonali, dal tribunale regionale rispettivamente dal comitato regionale in caso di elezioni e votazioni a livello regionale, oppure nei comuni su disposizione di questi uffici.
+<sup>3</sup> Il secondo conteggio può venire eseguito in modo centralizzato dalla Cancelleria dello Stato in caso di elezioni e votazioni cantonali nonché in caso di elezioni dei membri del Gran Consiglio, dal tribunale regionale o dal comitato regionale in caso di elezioni dei tribunali regionali rispettivamente di votazioni a livello regionale, oppure nei comuni su disposizione di questi organi.
 
 #### Art. 44
 
 **3. Risultato consolidato**
 
-<sup>1</sup> In base ai verbali dei comuni o ad un eventuale secondo conteggio i risultati consolidati delle elezioni e delle votazioni cantonali vengono pubblicati dalla Cancelleria dello Stato nel Foglio ufficiale cantonale con l'indicazione relativa al diritto di ricorso.
+<sup>1</sup> In base ai verbali dei comuni o a un eventuale secondo conteggio i risultati consolidati delle elezioni e delle votazioni cantonali nonché quelli delle elezioni dei membri del Gran Consiglio vengono pubblicati dalla Cancelleria dello Stato nel Foglio ufficiale cantonale con l'indicazione relativa al diritto di ricorso.
 
-<sup>2</sup> In caso di elezioni e votazioni a livello regionale la pubblicazione compete al tribunale regionale rispettivamente al comitato regionale nel rispettivo organo di pubblicazione.
+<sup>2</sup> In caso di elezioni dei tribunali regionali e di votazioni a livello regionale la pubblicazione compete al tribunale regionale rispettivamente al comitato regionale nel rispettivo organo di pubblicazione.
 
 #### Art. 45
 
 **Accertamento**
 
-<sup>1</sup> Scaduto il termine d'impugnazione o evasi i ricorsi, il Governo accerta in modo vincolante il risultato delle elezioni del Consiglio degli Stati e delle votazioni cantonali e il Gran Consiglio quello delle elezioni dei Consiglieri di Stato.
+<sup>1</sup> Scaduto il termine d'impugnazione o evasi i ricorsi, il Governo accerta in modo vincolante il risultato delle elezioni del Consiglio degli Stati e delle votazioni cantonali e il Gran Consiglio quello delle elezioni dei membri del Gran Consiglio nonché delle elezioni dei Consiglieri di Stato.
 
 #### Art. 46
 
 **Accettazione della nomina**
 
-<sup>1</sup> Ha accettato la nomina chi entro otto giorni dalla pubblicazione ufficiale del risultato non la declina con comunicazione scritta al Governo rispettivamente alla commissione amministrativa o al comitato regionale.
+<sup>1</sup> Ha accettato la nomina chi entro otto giorni dalla pubblicazione ufficiale del risultato non la declina con comunicazione scritta al Governo rispettivamente alla commissione amministrativa.
 
 <sup>2</sup> In caso di incompatibilità fra due cariche l'accettazione della nomina implica la rinuncia alla carica precedente incompatibile con la nuova.
 

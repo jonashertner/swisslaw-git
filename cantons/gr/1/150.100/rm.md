@@ -4,13 +4,13 @@ number: "150.100"
 title: Lescha davart ils dretgs politics en il chantun Grischun
 short: LDPC
 language: rm
-version: 2016-02-01
-corrected: 2021-06-28
-version_adopted: 2016-02-02
+version: 2021-10-01
+valid_until: 2022-05-31
+version_adopted: 2021-02-16
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2772/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3190/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2772/pdf_file"
 
 (LDPC)
 
-dals 17-06-2005 (versiun dals 01-02-2016)
+dals 17-06-2005 (versiun dals 01-10-2021)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -47,6 +47,8 @@ concluda:
 - b) il diever dal dretg da referendum e d'iniziativa en chaussas chantunalas;
 - c) il diever dal dretg d'iniziativa en chaussas regiunalas e communalas.
 
+<sup>1<sup>bis</sup></sup> Resalvadas restan las prescripziuns spezialas davart l'elecziun da proporz dal Cussegl grond en la Lescha davart l'elecziun dal Cussegl grond.
+
 <sup>2</sup> Per las votaziuns federalas e per las elecziuns dal cussegl naziunal sco er per il diever dal dretg da referendum e d'iniziativa en chaussas federalas po la lescha vegnir applitgada, uschenavant ch'il dretg federal surlascha als chantuns da reglar la procedura.
 
 <sup>3</sup> Confurm al senn vegn la lescha applitgada per votaziuns e per elecziuns en chaussas communalas, uschenavant ch'il dretg communal na dispona nagut.
@@ -57,11 +59,9 @@ concluda:
 
 <sup>1</sup> Elecziuns chantunalas èn las elecziuns da la regenza e dal cussegl dals chantuns.
 
-<sup>2</sup> Elecziuns regiunalas èn las elecziuns da las commembras e dals commembers dal cussegl grond en ils circuls electorals tenor la lescha davart il cussegl grond[^2-1] sco er las elecziuns da las commembras e dals commembers da las dretgiras regiunalas.
+<sup>2</sup> Elecziuns regiunalas èn las elecziuns da las commembras e dals commembers dal Cussegl grond en ils circuls electorals tenor la Lescha davart l'elecziun dal Cussegl grond sco er las elecziuns da las commembras e dals commembers da las dretgiras regiunalas.
 
 <sup>3</sup> …
-
-[^2-1]: CS [170.100](https://www.gr-lex.gr.ch/data/170.100/rm)
 
 ### 1.2. Dretg da votar e d'eleger
 
@@ -120,7 +120,7 @@ concluda:
 
 **Lieu, di e moda da votaziun**
 
-<sup>1</sup> Las elecziuns e las votaziuns federalas e chantunalas sco er las elecziuns dal cussegl grond e da las dretgiras regiunalas han lieu en las vischnancas, e quai il medem di ed a l'urna. Per las elecziuns dal cussegl grond pon las regiuns er prevesair la votaziun al cumin u a la mastralia.
+<sup>1</sup> Las elecziuns e las votaziuns federalas e chantunalas sco er las elecziuns dal Cussegl grond e da las dretgiras regiunalas han lieu en las vischnancas, e quai il medem di ed a l'urna.
 
 <sup>2</sup> Las elecziuns e las votaziuns en chaussas regiunalas han lieu il medem di en las vischnancas.
 
@@ -470,14 +470,14 @@ concluda:
 
 <sup>1</sup> Il biro electoral communitgescha immediatamain ils resultats da la vischnanca:
 
-- a) tar elecziuns e tar votaziuns federalas e chantunalas a la chanzlia chantunala;
+- a) tar elecziuns e tar votaziuns federalas e chantunalas sco er tar elecziuns da las commembras e dals commembers dal Cussegl grond a la Chanzlia chantunala;
 - b) tar elecziuns da las dretgiras regiunalas a la dretgira regiunala;
-- c) tar las elecziuns da las commembras e dals commembers dal cussegl grond e tar votaziuns en chaussas regiunalas a la cumissiun regiunala.
+- c) tar votaziuns en chaussas regiunalas a la Cumissiun regiunala.
 - d) …
 
 <sup>2</sup> Il biro electoral fa ultra da quai in protocol per mintga scrutini cun las indicaziuns tenor l'artitgel 32 e trametta quels sco er ils cedels electorals u ils cedels da votar immediatamain als posts cumpetents.
 
-<sup>3</sup> Las cumissiuns regiunalas communitgeschan immediatamain per telefon ils resultats da las elecziuns da las commembras e dals commembers dal cussegl grond a la chanzlia chantunala il di d'elecziun ed il di suenter er anc en scrit.
+<sup>3</sup> …
 
 <sup>4</sup> Las dretgiras regiunalas communitgeschan ils resultats da las elecziuns da las dretgiras regiunalas en scrit a la chanzlia chantunala il di suenter l'elecziun.
 
@@ -485,9 +485,9 @@ concluda:
 
 **Resumaziun dals resultats communals**
 
-<sup>1</sup> Tar elecziuns e tar votaziuns federalas sco er chantunalas eruescha la chanzlia chantunala il resultat chantunal cun summar ils resultats da las vischnancas, e fa da quai in protocol.
+<sup>1</sup> Cun quintar ensemen ils resultats da las vischnancas eruescha la Chanzlia chantunala il resultat chantunal tar elecziuns e tar votaziuns federalas e chantunalas sco er ils resultats dals singuls circuls electorals tar elecziuns da las commembras e dals commembers dal Cussegl grond. Ella fa in protocol en chaussa.
 
-<sup>2</sup> Tar elecziuns da la dretgira regiunala è quai chaussa da la dretgira regiunala, tar las elecziuns da las commembras e dals commembers dal cussegl grond e tar votaziuns en chaussas regiunalas ha la cumissiun regiunala questa incumbensa.
+<sup>2</sup> Tar elecziuns da la Dretgira regiunala è quai chaussa da la Dretgira regiunala, tar votaziuns en chaussas regiunalas ha la Cumissiun regiunala questa incumbensa.
 
 #### Art. 38
 
@@ -530,7 +530,7 @@ concluda:
 
 **Publicaziun 1. resultat provisoric**
 
-<sup>1</sup> Ils resultats totals provisorics da las votaziuns e da las elecziuns chantunalas vegnan publitgads immediatamain tras la chanzlia chantunala, quels da las elecziuns da las dretgiras regiunalas tras las dretgiras regiunalas e quels da las elecziuns da las commembras e dals commembers dal cussegl grond sco er da votaziuns en chaussas regiunalas tras las cumissiuns regiunalas.
+<sup>1</sup> Ils resultats totals provisorics da las votaziuns e da las elecziuns chantunalas sco er da las elecziuns da las commembras e dals commembers dal Cussegl grond vegnan publitgads immediatamain tras la Chanzlia chantunala, quels da las elecziuns da las dretgiras regiunalas tras las dretgiras regiunalas e quels da votaziuns en chaussas regiunalas tras las cumissiuns regiunalas.
 
 #### Art. 43
 
@@ -538,29 +538,29 @@ concluda:
 
 <sup>1</sup> Sche la differenza dal resultat total provisoric d'ina elecziun u d'ina votaziun che vegn eruì importa tranter l'ultima persuna elegida e l'emprima persuna betg elegida respectivamain tranter las vuschs affirmativas e las vuschs negativas main che 0,3 pertschient da las vuschs valaivlas consegnadas, sto succeder d'uffizi ina verificaziun dal scrutini.
 
-<sup>2</sup> Dal rest ordinescha tar elecziuns e tar votaziuns chantunalas la regenza, tar elecziuns da la dretgira regiunala la cumissiun administrativa sco er tar las elecziuns da las commembras e dals commembers dal cussegl grond e tar votaziuns en chaussas regiunalas la cumissiun regiunala ina verificaziun dal scrutini, sch'i existan indizis concrets per irregularitads.
+<sup>2</sup> Dal rest ordinescha tar elecziuns e tar votaziuns chantunalas sco er tar elecziuns da las commembras e dals commembers dal Cussegl grond la Regenza, tar elecziuns da la Dretgira regiunala la Cumissiun administrativa e tar votaziuns en chaussas regiunalas la Cumissiun regiunala ina verificaziun dal scrutini, sch'i existan indizis concrets per irregularitads.
 
-<sup>3</sup> La verificaziun dal scrutini po succeder en in lieu central, tar elecziuns e tar votaziuns chantunalas tras la chanzlia chantunala, tar elecziuns e tar votaziuns regiunalas tras la dretgira regiunala respectivamain tras la cumissiun regiunala u – sin dumonda da quests posts – en las vischnancas.
+<sup>3</sup> La verificaziun dal scrutini po succeder en in lieu central, tar elecziuns e tar votaziuns chantunalas sco er tar elecziuns da las commembras e dals commembers dal Cussegl grond tras la Chanzlia chantunala, tar elecziuns da las dretgiras regiunalas e tar votaziuns regiunalas tras la Dretgira regiunala respectivamain tras la Cumissiun regiunala u – sin dumonda da quests posts – en las vischnancas.
 
 #### Art. 44
 
 **3. resultat consolidà**
 
-<sup>1</sup> Sa basond sin ils protocols da las vischnancas u sin in'eventuala verificaziun dal scrutini vegnan ils resultats totals consolidads da las elecziuns e da las votaziuns chantunalas publitgads da la chanzlia chantunala en il fegl uffizial dal chantun cun in renviament al dretg da recurs.
+<sup>1</sup> Sa basond sin ils protocols da las vischnancas u sin in'eventuala verificaziun dal scrutini vegnan ils resultats totals consolidads da las elecziuns e da las votaziuns chantunalas sco er da las elecziuns da las commembras e dals commembers dal Cussegl grond publitgads da la Chanzlia chantunala en il Fegl uffizial chantunal cun in renviament al dretg da recurs.
 
-<sup>2</sup> Tar elecziuns e tar votaziuns sin plaun regiunal succeda la publicaziun tras la dretgira regiunala respectivamain tras la cumissiun regiunala en l'organ da publicaziun respectiv.
+<sup>2</sup> Tar elecziuns da las dretgiras regiunalas e tar votaziuns sin plaun regiunal succeda la publicaziun tras la Dretgira regiunala respectivamain tras la Cumissiun regiunala en l'organ da publicaziun respectiv.
 
 #### Art. 45
 
 **Verificaziun**
 
-<sup>1</sup> Suenter la scadenza dal termin da recurs u suenter ch'il recurs è liquidà, declera la regenza il resultat da las elecziuns dal cussegl dals chantuns e da las votaziuns chantunalas sco definitiv; il cussegl grond fa quai per las elecziuns da la regenza.
+<sup>1</sup> Suenter la scadenza dal termin da recurs u suenter ch'il recurs è liquidà, declera la Regenza il resultat da las elecziuns dal Cussegl dals chantuns e da las votaziuns chantunalas sco definitiv; il Cussegl grond fa quai per las elecziuns da las commembras e dals commembers dal Cussegl grond sco er per las elecziuns da la Regenza.
 
 #### Art. 46
 
 **Acceptaziun da l'elecziun**
 
-<sup>1</sup> La persuna che na refusescha betg in'elecziun entaifer otg dis suenter la publicaziun uffiziala dal resultat cun ina communicaziun en scrit a la regenza respectivamain a la cumissiun administrativa u a la cumissiun regiunala, ha acceptà l'elecziun.
+<sup>1</sup> La persuna che na refusescha betg in'elecziun entaifer otg dis suenter la publicaziun uffiziala dal resultat cun ina communicaziun en scrit a la Regenza respectivamain a la Cumissiun administrativa, ha acceptà l'elecziun.
 
 <sup>2</sup> Tar l'incumpatibilitad da dus uffizis vala l'acceptaziun sco renunzia a l'anteriur uffizi che n'è betg cumpatibel cun il nov.
 

@@ -4,13 +4,13 @@ number: "150.100"
 title: Gesetz über die politischen Rechte im Kanton Graubünden
 short: GPR
 language: de
-version: 2016-02-01
-corrected: 2021-06-28
-version_adopted: 2016-02-02
+version: 2021-10-01
+valid_until: 2022-05-31
+version_adopted: 2021-02-16
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2772/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3190/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2772/pdf_file"
 
 (GPR)
 
-Vom 17.06.2005 (Stand 01.02.2016)
+Vom 17.06.2005 (Stand 01.10.2021)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -47,6 +47,8 @@ beschliesst:
 - b) die Ausübung des Referendums- und Initiativrechts in kantonalen Angelegenheiten;
 - c) die Ausübung des Initiativrechts in Regions- und Gemeindeangelegenheiten.
 
+<sup>1<sup>bis</sup></sup> Vorbehalten bleiben die besonderen Vorschriften über die Verhältniswahl des Grossen Rates im Gesetz über die Wahl des Grossen Rates.
+
 <sup>2</sup> Auf die eidgenössischen Abstimmungen und die Nationalratswahlen sowie die Ausübung des Referendums- und Initiativrechts in eidgenössischen Angelegenheiten ist das Gesetz anwendbar, soweit das Bundesrecht die Ordnung des Verfahrens den Kantonen überlässt.
 
 <sup>3</sup> Sinngemäss Anwendung findet das Gesetz auf Abstimmungen und Wahlen in kommunalen Angelegenheiten, soweit das Gemeinderecht nichts bestimmt.
@@ -57,7 +59,7 @@ beschliesst:
 
 <sup>1</sup> Kantonale Wahlen sind die Regierungs- und Ständeratswahlen.
 
-<sup>2</sup> Regionale Wahlen sind die Wahlen der Mitglieder des Grossen Rates in den Wahlkreisen gemäss Gesetz über den Grossen Rat sowie die Wahlen der Mitglieder der Regionalgerichte.
+<sup>2</sup> Regionale Wahlen sind die Wahlen der Mitglieder des Grossen Rates in den Wahlkreisen gemäss Gesetz über die Wahl des Grossen Rates sowie die Wahlen der Mitglieder der Regionalgerichte.
 
 <sup>3</sup> …
 
@@ -118,7 +120,7 @@ beschliesst:
 
 **Abstimmungsort, -tag und -art**
 
-<sup>1</sup> Die eidgenössischen und kantonalen Wahlen und Abstimmungen sowie die Grossrats- und Regionalgerichtswahlen werden gemeindeweise am gleichen Tag an der Urne durchgeführt. Die Regionen können für die Grossratswahlen auch die Stimmabgabe an der Landsgemeinde vorsehen.
+<sup>1</sup> Die eidgenössischen und kantonalen Wahlen und Abstimmungen sowie die Grossrats- und Regionalgerichtswahlen werden gemeindeweise am gleichen Tag an der Urne durchgeführt.
 
 <sup>2</sup> Die Wahlen und Abstimmungen in regionalen Angelegenheiten werden gemeindeweise am gleichen Tag durchgeführt.
 
@@ -185,7 +187,7 @@ beschliesst:
 
 <sup>1</sup> Die Erneuerungswahlen finden an folgenden Terminen statt:
 
-- a) die Regierungs- und Grossratswahlen gleichzeitig in der Regel im Mai oder Juni für die für die Regierung am 1. Januar des folgenden Jahres, für den Grossen Rat am ersten Tag der Augustsession beginnende Amtsdauer;
+- a) die Regierungs- und Grossratswahlen gleichzeitig in der Regel im Mai oder Juni für die Regierung am 1. Januar des folgenden Jahres, für den Grossen Rat am ersten Tag der Augustsession beginnende Amtsdauer;
 - b) die Regionalgerichtswahlen in der Regel in den Monaten März, April, Mai oder Juni für die am 1. Januar des folgenden Jahres beginnende Amtsdauer;
 - c) die Ständeratswahlen gleichzeitig mit den Nationalratswahlen und für dieselbe Amtsdauer in der Regel am zweitletzten Sonntag im Oktober.
 - d) …
@@ -468,14 +470,14 @@ beschliesst:
 
 <sup>1</sup> Das Stimmbüro meldet unverzüglich die Gemeindeergebnisse:
 
-- a) bei eidgenössischen und kantonalen Wahlen und Abstimmungen der Standeskanzlei;
+- a) bei eidgenössischen und kantonalen Wahlen und Abstimmungen sowie bei Wahlen der Mitglieder des Grossen Rates der Standeskanzlei;
 - b) bei Regionalgerichtswahlen dem Regionalgericht;
-- c) bei den Wahlen der Mitglieder des Grossen Rates und den Abstimmungen in regionalen Angelegenheiten dem Regionalausschuss.
+- c) bei Abstimmungen in regionalen Angelegenheiten dem Regionalausschuss.
 - d) …
 
 <sup>2</sup> Das Stimmbüro erstellt zudem für jeden Urnengang ein Protokoll mit den Angaben gemäss Artikel 32 und übermittelt diese sowie die Wahl- oder Stimmzettel unverzüglich den zuständigen Stellen.
 
-<sup>3</sup> Die Regionalausschüsse melden der Standeskanzlei am Wahltag unverzüglich telefonisch und am nächsten Tag auch noch schriftlich die Ergebnisse der Wahlen der Mitglieder des Grossen Rates.
+<sup>3</sup> …
 
 <sup>4</sup> Die Regionalgerichte melden der Standeskanzlei am Tag nach der Wahl schriftlich die Ergebnisse der Regionalgerichtswahlen.
 
@@ -483,9 +485,9 @@ beschliesst:
 
 **Zusammenfassung der Gemeindeergebnisse**
 
-<sup>1</sup> Die Standeskanzlei ermittelt durch Zusammenzählen der Gemeindeergebnisse das kantonale Ergebnis bei eidgenössischen sowie kantonalen Wahlen und Abstimmungen und fertigt darüber ein Protokoll aus.
+<sup>1</sup> Die Standeskanzlei ermittelt durch Zusammenzählen der Gemeindeergebnisse das kantonale Ergebnis bei eidgenössischen sowie kantonalen Wahlen und Abstimmungen und bei Wahlen der Mitglieder des Grossen Rates die Ergebnisse der einzelnen Wahlkreise. Sie fertigt darüber ein Protokoll aus.
 
-<sup>2</sup> Bei Wahlen des Regionalgerichts kommt die Aufgabe dem Regionalgericht, bei den Wahlen der Mitglieder des Grossen Ratens und bei Abstimmungen in regionalen Angelegenheiten dem Regionalausschuss zu.
+<sup>2</sup> Bei Wahlen des Regionalgerichts kommt die Aufgabe dem Regionalgericht und bei Abstimmungen in regionalen Angelegenheiten dem Regionalausschuss zu.
 
 #### Art. 38
 
@@ -528,7 +530,7 @@ beschliesst:
 
 **Veröffentlichung 1. Vorläufiges Ergebnis**
 
-<sup>1</sup> Die vorläufigen Gesamtergebnisse der kantonalen Wahlen und Abstimmungen werden von der Standeskanzlei, jene der Wahlen der Regionalgerichte vom Regionalgericht und jene der Wahl der Mitglieder des Grossen Rates sowie der Abstimmungen in regionalen Angelegenheiten vom Regionalausschuss unverzüglich öffentlich bekanntgegeben.
+<sup>1</sup> Die vorläufigen Gesamtergebnisse der kantonalen Wahlen und Abstimmungen sowie jene der Wahl der Mitglieder des Grossen Rates werden von der Standeskanzlei, jene der Wahlen der Regionalgerichte vom Regionalgericht und jene der Abstimmungen in regionalen Angelegenheiten vom Regionalausschuss unverzüglich öffentlich bekanntgegeben.
 
 #### Art. 43
 
@@ -536,29 +538,29 @@ beschliesst:
 
 <sup>1</sup> Beträgt beim ermittelten vorläufigen Gesamtergebnis einer Wahl oder Abstimmung die Differenz der Stimmen zwischen der letzten gewählten und der ersten nicht gewählten Person beziehungsweise zwischen den Ja- und Nein-Stimmen weniger als 0,3 Prozent der abgegebenen gültigen Stimmzettel, hat von Amtes wegen eine Nachzählung zu erfolgen.
 
-<sup>2</sup> Im Übrigen ordnet bei kantonalen Wahlen und Abstimmungen die Regierung, bei Regionalgerichtswahlen die Verwaltungskommission sowie bei Wahlen der Mitglieder des Grossen Rates und bei Abstimmungen in regionalen Angelegenheiten der Regionalausschuss eine Nachzählung an, wenn konkrete Anhaltspunkte für Unregelmässigkeiten bestehen.
+<sup>2</sup> Im Übrigen ordnet bei kantonalen Wahlen und Abstimmungen sowie bei Wahlen der Mitglieder des Grossen Rates die Regierung, bei Regionalgerichtswahlen die Verwaltungskommission und bei Abstimmungen in regionalen Angelegenheiten der Regionalausschuss eine Nachzählung an, wenn konkrete Anhaltspunkte für Unregelmässigkeiten bestehen.
 
-<sup>3</sup> Die Nachzählung kann zentral, bei kantonalen Wahlen und Abstimmungen durch die Standeskanzlei, bei regionalen Wahlen und Abstimmungen durch das Regionalgericht beziehungsweise den Regionalausschuss vorgenommen werden oder, auf Anordnung dieser Stellen, in den Gemeinden erfolgen.
+<sup>3</sup> Die Nachzählung kann zentral, bei kantonalen Wahlen und Abstimmungen sowie bei Wahlen der Mitglieder des Grossen Rates durch die Standeskanzlei, bei Regionalgerichtswahlen und regionalen Abstimmungen durch das Regionalgericht beziehungsweise den Regionalausschuss vorgenommen werden oder, auf Anordnung dieser Stellen, in den Gemeinden erfolgen.
 
 #### Art. 44
 
 **3. Konsolidiertes Ergebnis**
 
-<sup>1</sup> Gestützt auf die Protokolle der Gemeinden oder einer allfälligen Nachzählung werden die konsolidierten Gesamtergebnisse der kantonalen Wahlen und Abstimmungen unter Hinweis auf das Beschwerderecht durch die Standeskanzlei im Kantonsamtsblatt veröffentlicht.
+<sup>1</sup> Gestützt auf die Protokolle der Gemeinden oder einer allfälligen Nachzählung werden die konsolidierten Gesamtergebnisse der kantonalen Wahlen und Abstimmungen sowie jene der Wahl der Mitglieder des Grossen Rates unter Hinweis auf das Beschwerderecht durch die Standeskanzlei im Kantonsamtsblatt veröffentlicht.
 
-<sup>2</sup> Bei Wahlen und Abstimmungen auf regionaler Ebene erfolgt die Veröffentlichung durch das Regionalgericht beziehungsweise durch den Regionalausschuss im jeweiligen Publikationsorgan.
+<sup>2</sup> Bei Regionalgerichtswahlen und Abstimmungen auf regionaler Ebene erfolgt die Veröffentlichung durch das Regionalgericht beziehungsweise durch den Regionalausschuss im jeweiligen Publikationsorgan.
 
 #### Art. 45
 
 **Erwahrung**
 
-<sup>1</sup> Nach Ablauf der Beschwerdefrist oder nach Erledigung der Beschwerde stellt die Regierung das Ergebnis der Ständeratswahlen und kantonalen Abstimmungen und der Grosse Rat dasjenige der Regierungsratswahlen verbindlich fest.
+<sup>1</sup> Nach Ablauf der Beschwerdefrist oder nach Erledigung der Beschwerde stellt die Regierung das Ergebnis der Ständeratswahlen und kantonalen Abstimmungen und der Grosse Rat dasjenige der Wahlen der Mitglieder des Grossen Rates sowie der Regierungsratswahlen verbindlich fest.
 
 #### Art. 46
 
 **Annahme der Wahl**
 
-<sup>1</sup> Wer eine Wahl nicht binnen acht Tagen seit der amtlichen Bekanntgabe des Ergebnisses durch schriftliche Mitteilung an die Regierung beziehungsweise die Verwaltungskommission oder den Regionalausschuss ablehnt, hat sie angenommen.
+<sup>1</sup> Wer eine Wahl nicht binnen acht Tagen seit der amtlichen Bekanntgabe des Ergebnisses durch schriftliche Mitteilung an die Regierung beziehungsweise die Verwaltungskommission ablehnt, hat sie angenommen.
 
 <sup>2</sup> Die Annahme gilt bei Unvereinbarkeit zwischen zwei Ämtern als Verzicht auf das bisherige, mit dem neuen nicht vereinbaren Amt.
 
