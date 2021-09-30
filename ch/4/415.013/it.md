@@ -4,11 +4,11 @@ title: "Ordinanza del 15 novembre 2017 sugli emolumenti dell'Ufficio federale de
 short: OEm UFSPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/732"
 language: it
-version: 2018-01-01
+version: 2021-10-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-732-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2017-732-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20180101/it"
 
 (OEm UFSPO)
 
-del 15 novembre 2017 (Stato 1° gennaio 2018)
+del 15 novembre 2017 (Stato 1° ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -134,7 +134,7 @@ L’ordinanza del DDPS del 14 settembre 2012[^9-1] concernente gli emolumenti de
 
 La presente ordinanza entra in vigore il 1° gennaio 2018.
 
-Allegato
+Allegato*[^t-1]*
 
 (art. 6 cpv. 1)
 
@@ -166,6 +166,7 @@ Allegato
 <tr><td>Manuale G+S Sport di campo/Trekking, se ritirato presso le federazioni giovanili incaricate della formazione dei quadri</td><td>25</td><td colspan="3">a esemplare</td></tr>
 <tr><td>Manuale ESA</td><td>50</td><td colspan="3">a esemplare</td></tr>
 <tr><td>Materiale G+S in prestito</td><td>0,60</td><td colspan="3">al chilo (lordo)</td></tr>
+<tr><td>Corsi e moduli della formazione degli allenatori (a seconda di dimensioni e tempo)</td><td>50–250</td><td colspan="3">per giorno di corso</td></tr>
 <tr><td>5. Diagnostica delle prestazioni</td><td></td><td colspan="3"></td></tr>
 <tr><td>Test della resistenza, in particolare test del lattato, accertamenti in altitudine, misurazione del VO<sub>2max</sub> e misurazione del volume sanguigno</td><td>120–400</td><td colspan="3">a persona/test</td></tr>
 <tr><td>Test della forza, in particolare delle prestazioni muscolari e della forza di base (a seconda delle prove)</td><td>80–240</td><td colspan="3">a persona/test</td></tr>
@@ -181,7 +182,7 @@ Allegato
 <tr><td>Test standard di psicologia dello sport (in base al lavoro e al tempo impiegato)</td><td>20–100</td><td colspan="3">a persona/test</td></tr>
 <tr><td>9. Varia</td><td></td><td colspan="3"></td></tr>
 <tr><td>Uso del parcheggio</td><td>max. 5</td><td colspan="3">all’ora</td></tr>
-<tr><td>Pubblicazioni nei formati A5 e A4</td><td></td><td colspan="3">secondo l’ordinanza del 19 novembre 2014[^t-1] sugli emolumenti per le pubblicazioni</td></tr>
+<tr><td>Pubblicazioni nei formati A5 e A4</td><td></td><td colspan="3">secondo l’ordinanza del 19 novembre 2014[^t-2] sugli emolumenti per le pubblicazioni</td></tr>
 <tr><td>Pubblicazioni diverse dai formati A4 e A5, fino al formato A0 al massimo (a seconda del formato, della qualità della carta, del colore, del lavoro necessario per la presentazione grafica e l’impaginazione)</td><td>1–150</td><td colspan="3">a pagina</td></tr>
 <tr><td>Immagini (in funzione dell’uso, se a fini commerciali o non commerciali, tiratura e formato)</td><td>10–1000</td><td colspan="3">a immagine</td></tr>
 <tr><td>Badge sostitutivo</td><td>30</td><td colspan="3"></td></tr>
@@ -189,4 +190,5 @@ Allegato
 <tr><td colspan="3">\* Nel caso di installazioni fisse, nell’emolumento è compreso l’uso di impianti sportivi.</td><td>[tab]</td><td>[tab]</td></tr>
 </table>
 
-[^t-1]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)
+[^t-1]: Aggiornato dal n. II dell’O dell’11 ago. 2021, in vigore dal 1 ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^t-2]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)

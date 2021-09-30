@@ -4,11 +4,11 @@ title: Verordnung vom 15. November 2017 über die Gebühren des Bundesamts für 
 short: GebV-BASPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/732"
 language: de
-version: 2018-01-01
+version: 2021-10-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-732-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2017-732-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20180101/de"
 
 (GebV-BASPO)
 
-vom 15. November 2017 (Stand am 1. Januar 2018)
+vom 15. November 2017 (Stand am 1. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -116,13 +116,13 @@ Das BASPO kann die Gebühren für die Erbringung von Dienstleistungen, an denen 
 
 Die Verordnung des VBS vom 14. September 2012[^9-1] über die Gebühren des Bundesamts für Sport wird aufgehoben.
 
-[^9-1]: [[AS 2012 4901](https://fedlex.data.admin.ch/eli/oc/2012/583), [2015 4139](https://fedlex.data.admin.ch/eli/oc/2015/694)]
+[^9-1]: [[AS 2012 4901](https://fedlex.data.admin.ch/eli/oc/2012/583); [2015 4139](https://fedlex.data.admin.ch/eli/oc/2015/694)]
 
 #### Art. 10
 
 **Änderung eines anderen Erlasses**
 
-…[^10-1]
+...[^10-1]
 
 [^10-1]: Die Änderung kann unter [AS 2017 6601](https://fedlex.data.admin.ch/eli/oc/2017/732)konsultiert werden.
 
@@ -132,7 +132,7 @@ Die Verordnung des VBS vom 14. September 2012[^9-1] über die Gebühren des Bund
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang
+Anhang*[^t-1]*
 
 (Art. 6 Abs. 1)
 
@@ -164,6 +164,7 @@ Anhang
 <tr><td>J+S-Handbuch Lagersport/Trekking beim Bezug durch Jugendverbände, die mit der Kaderbildung beauftragt sind</td><td>25</td><td colspan="3">je Exemplar</td></tr>
 <tr><td>Handbuch ESA</td><td>50</td><td colspan="3">je Exemplar</td></tr>
 <tr><td>Leihmaterial J+S</td><td>0,60</td><td colspan="3">je Kilogramm (brutto)</td></tr>
+<tr><td>Kurse und Module der Trainerbildung (je nach Umfang und Aufwand)</td><td>50–250</td><td colspan="3">je Kurstag</td></tr>
 <tr><td>5. Leistungsdiagnostik</td><td></td><td colspan="3"></td></tr>
 <tr><td>Ausdauertests, insbesondere Laktatstufentest, Höhenabklärung, VO<sub>2max</sub>-Test und Blutvolumenmessung (je nach Ausgestaltung)</td><td>120–400</td><td colspan="3">je Person/Test</td></tr>
 <tr><td>Krafttests, insbesondere Muskelleistungs- und Grundkrafttest (je nach Ausgestaltung)</td><td>80–240</td><td colspan="3">je Person/Test</td></tr>
@@ -179,7 +180,7 @@ Anhang
 <tr><td>Standardisierte sportpsychologische Tests (je Umfang und Aufwand)</td><td>20–100</td><td colspan="3">je Person/Test</td></tr>
 <tr><td>9. Verschiedenes</td><td></td><td colspan="3"></td></tr>
 <tr><td>Parkplatzbenutzung</td><td>max. 5</td><td colspan="3">je Stunde</td></tr>
-<tr><td>Publikationen in den Formaten A5 und A4</td><td></td><td colspan="3">gemäss Gebührenverordnung Publikationen vom 19. November 2014[^t-1]</td></tr>
+<tr><td>Publikationen in den Formaten A5 und A4</td><td></td><td colspan="3">gemäss Gebührenverordnung Publikationen vom 19. November 2014[^t-2]</td></tr>
 <tr><td>Publikationen ausserhalb der Formate A5 und A4, bis maximal Format A0 (je nach Format, Papierqualität, Farbe, Aufwand für grafische Aufbereitung und Gestaltung)</td><td>1–150</td><td colspan="3">je Seite</td></tr>
 <tr><td>Bilder (je nach Weiterverwendung zu kommerziellen oder nicht kommerziellen Zwecken, Auflage und Grösse)</td><td>10–1000</td><td colspan="3">je Bild</td></tr>
 <tr><td>Ersatzbadge</td><td>30</td><td colspan="3"></td></tr>
@@ -187,4 +188,5 @@ Anhang
 <tr><td colspan="3">\* Bei festinstallierten Einrichtungen ist die Sportanlagenutzung in der Gebühr eingeschlossen.</td><td>[tab]</td><td>[tab]</td></tr>
 </table>
 
-[^t-1]: [SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^t-2]: [SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)

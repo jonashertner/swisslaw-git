@@ -4,11 +4,11 @@ title: "Ordonnance du 15 novembre 2017 sur les émoluments de l'Office fédéral
 short: OEmol-OFSPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/732"
 language: fr
-version: 2018-01-01
+version: 2021-10-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-732-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-732-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20180101/fr"
 
 (OEmol-OFSPO)
 
-du 15 novembre 2017 (Etat le 1<sup>er</sup> janvier 2018)
+du 15 novembre 2017 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -134,19 +134,19 @@ L’ordonnance du DDPS du 14 septembre 2012 sur les émoluments de l’Office f�
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018.
 
-Annexe
+Annexe*[^t-1]*
 
 (art. 6, al. 1)
 
 <table>
-<tr><th></th><th colspan="2">Emolument en francs</th><th colspan="3">Unité</th></tr>
+<tr><th></th><th colspan="2">Émolument en francs</th><th colspan="3">Unité</th></tr>
 <tr><td>1. Utilisation d’installations, d’équipements et d’appareils (charges de personnel non comprises)</td><td colspan="2"></td><td colspan="3"></td></tr>
 <tr><td>Utilisation d’une installation (en fonction de l’installation et de la durée d’utilisation)</td><td colspan="2">max. 300</td><td colspan="3">par personne et par jour</td></tr>
 <tr><td>Véhicules à moteur, sans carburant (en fonction du type)</td><td colspan="2">50 à 90</td><td colspan="3">par demi-journée</td></tr>
 <tr><td>Remorque servant au transport de matériel / remorque servant au transport de bateaux</td><td colspan="2">20 à 40</td><td colspan="3">par demi-journée</td></tr>
 <tr><td>Bicyclette / canoë / planche à voile ou autre engin de sport</td><td colspan="2">max. 30</td><td colspan="3">par demi-journée</td></tr>
 <tr><td>Matériel et installations audiovisuels</td><td colspan="2">30 à 60</td><td colspan="3">par demi-journée</td></tr>
-<tr><td>Equipements sportifs divers, notamment installations de chronométrage, système de mesure et d’analyse LPM, appareil pour mesurer la force de base et tente hypoxique (en fonction de l’équipement)</td><td colspan="2">max. 300\*</td><td colspan="3">par heure</td></tr>
+<tr><td>Équipements sportifs divers, notamment installations de chronométrage, système de mesure et d’analyse LPM, appareil pour mesurer la force de base et tente hypoxique (en fonction de l’équipement)</td><td colspan="2">max. 300\*</td><td colspan="3">par heure</td></tr>
 <tr><td colspan="2">2. Hébergement avec ou sans pension complète</td><td></td><td colspan="3"></td></tr>
 <tr><td>Nuitée en chambre, sans pension (en fonction de la taille de la chambre, de l’équipement, du nombre d’occupants, de la durée du séjour et de l’âge de la personne concernée)</td><td colspan="2">19 à 95</td><td colspan="3">par personne et par nuit</td></tr>
 <tr><td>Idem, avec pension complète</td><td colspan="2">40 à 150</td><td colspan="3">par personne et par nuit</td></tr>
@@ -166,6 +166,7 @@ Annexe
 <tr><td>Manuel J+S Sport de camp/Trekking commandé auprès d’associations de jeunesse chargées de la formation des cadres</td><td colspan="2">25</td><td colspan="3">par exemplaire</td></tr>
 <tr><td>Manuel ESA</td><td colspan="2">50</td><td colspan="3">par exemplaire</td></tr>
 <tr><td>Matériel de prêt J+S</td><td colspan="2">0,60</td><td colspan="3">par kilogramme (brut)</td></tr>
+<tr><td>Cours et modules de la formation des entraîneurs (en fonction de la durée et du travail que cela représente)</td><td colspan="2">de 50 à 250</td><td colspan="3">par journée de cours</td></tr>
 <tr><td>5. Diagnostic de la performance</td><td colspan="2"></td><td colspan="3"></td></tr>
 <tr><td>Tests d’endurance, notamment détermination du lactate, test d’altitude, mesure de la VO<sub>2max</sub> et mesure du volume sanguin (en fonction de la prestation convenue)</td><td colspan="2">120 à 400</td><td colspan="3">par personne et par test</td></tr>
 <tr><td>Tests de force, notamment test de la force musculaire et test de la force de base (en fonction de la prestation convenue)</td><td colspan="2">80 à 240</td><td colspan="3">par personne et par test</td></tr>
@@ -181,7 +182,7 @@ Annexe
 <tr><td>Tests psychologiques standardisés (en fonction du nombre et du travail que cela représente)</td><td colspan="2">20 à 100</td><td colspan="3">par personne et par test</td></tr>
 <tr><td>9. Divers</td><td colspan="2"></td><td colspan="3"></td></tr>
 <tr><td>Utilisation des places de stationnement</td><td colspan="2">max. 5</td><td colspan="3">par heure</td></tr>
-<tr><td>Publications en format A5 et A4</td><td colspan="2"></td><td colspan="3">selon l’ordonnance du 29 novembre 2014 sur les émoluments relatifs aux publications[^t-1]</td></tr>
+<tr><td>Publications en format A5 et A4</td><td colspan="2"></td><td colspan="3">selon l’ordonnance du 29 novembre 2014 sur les émoluments relatifs aux publications[^t-2]</td></tr>
 <tr><td>Publications dans un autre format que A5 ou A4, jusqu’au format A0 (en fonction du format, de la qualité du papier, de la couleur, du temps de travail pour la préparation graphique et la mise en page)</td><td colspan="2">1 à 150</td><td colspan="3">par page</td></tr>
 <tr><td>Images (selon qu’elles seront utilisées à des fins commerciales ou non commerciales, et selon le tirage et les dimensions)</td><td colspan="2">10 à 1000</td><td colspan="3">par image</td></tr>
 <tr><td>Badge de remplacement</td><td colspan="2">30</td><td colspan="3"></td></tr>
@@ -189,4 +190,5 @@ Annexe
 <tr><td colspan="4">\* Pour les équipements fixes, l’utilisation de l’installation sportive est incluse dans l’émolument.</td><td>[tab]</td><td>[tab]</td></tr>
 </table>
 
-[^t-1]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)
+[^t-1]: Mise à jour par le ch. II de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^t-2]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)
