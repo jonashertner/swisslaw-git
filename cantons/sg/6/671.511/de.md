@@ -3,20 +3,19 @@ canton: SG
 number: "671.511"
 title: Regierungsratsbeschluss über das Naturschutzgebiet Thurau bei Wil
 language: de
-version: 1984-05-29
-valid_until: 2021-09-30
-version_adopted: 1984-05-29
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 1970-05-25
 in_force: 1970-05-25
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/671.511"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/88/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3234/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über das Naturschutzgebiet Thurau bei Wil
 
-vom 25.05.1970 (Stand 29.05.1984)
+vom 25.05.1970 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -39,7 +38,7 @@ als Beschluss:[^ingress-3]
 - a) das Gebiet nördlich der Autobahn mit Wald- und Wiesland in der Thurau sowie dem Galgenrain- und Weidlewald;
 - b) das Gebiet südlich der Autobahn mit dem Walddreieck bis zur Thur mit westlicher Begrenzung durch eine gerade, von Punkt 516 der Landeskarte der Eidgenössischen Landestopographie nach Süden verlaufende Linie.
 
-<sup>2</sup> Massgebend für die genaue Umgrenzung ist die Eintragung auf der beim Baudepartement verwahrten Landeskarte der Eidgenössischen Landestopographie, die von jedermann eingesehen werden kann.
+<sup>2</sup> Massgebend für die genaue Umgrenzung ist die Eintragung auf der beim Bau- und Umweltdepartement verwahrten Landeskarte der Eidgenössischen Landestopographie, die von jedermann eingesehen werden kann.
 
 #### Art. 2
 
@@ -55,7 +54,7 @@ als Beschluss:[^ingress-3]
 
 **Orientierung der Öffentlichkeit**
 
-<sup>1</sup> Das Baudepartement sorgt dafür, dass die Bestimmungen dieses Beschlusses, die sich an die Öffentlichkeit wenden, zusammen mit einer orientierenden Kartenskizze an den wichtigsten Zugängen zum Schutzgebiet wiedergegeben werden.
+<sup>1</sup> Das Bau- und Umweltdepartement sorgt dafür, dass die Bestimmungen dieses Beschlusses, die sich an die Öffentlichkeit wenden, zusammen mit einer orientierenden Kartenskizze an den wichtigsten Zugängen zum Schutzgebiet wiedergegeben werden.
 
 #### Art. 4
 
@@ -67,6 +66,6 @@ als Beschluss:[^ingress-3]
 
 **Vollzugsbeginn**
 
-<sup>1</sup> Dieser Beschluss wird angewendet, sobald die Ortsgemeinde Wil das Schutzgebiet markiert und das Baudepartement die Öffentlichkeit im Sinne von Art. 3 dieses Beschlusses orientiert hat.
+<sup>1</sup> Dieser Beschluss wird angewendet, sobald die Ortsgemeinde Wil das Schutzgebiet markiert und das Bau- und Umweltdepartement die Öffentlichkeit im Sinne von Art. 3 dieses Beschlusses orientiert hat.
 
 nGS 7, 109
