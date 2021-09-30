@@ -4,11 +4,11 @@ title: "Ordonnance du DETEC du 20 décembre 2019 concernant le programme en fave
 short: OPTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/13"
 language: fr
-version: 2020-02-01
+version: 2021-10-01
 adopted: 2019-12-20
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/13/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-13-20200201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/13/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-13-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,28 +17,57 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20200201/fr"
 
 (OPTA)
 
-du 20 décembre 2019 (Etat le 1<sup>er</sup> février 2020)
+du 20 décembre 2019 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
-vu l’art.17*e*, al. 2, de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien (LUMin)[^ingress-1], vu les art. 18*a*, al. 3, et 21*a*, al. 2 et 3, de l’ordonnance du 7 novembre 2007 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière (OUMin)[^ingress-2],
+vu l’art.17*e*, al. 2, de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien (LUMin)[^ingress-1], vu les art. 18*a*, al. 3, 19, al. 2, et 21*a*, al. 2 et 3, de l’ordonnance du 7 novembre 2007 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière (OUMin)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
 [^ingress-2]: [RS 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
 
-## Section 1 Exigences requises pour les projets d’agglomération
+## Section 1**** Communes ayant droit aux contributions
+
+[^sec1-1]
+
+[^sec1-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
 
 #### Art. 1
 
-**Constitution d’un projet d’agglomération**
+**Détermination des communes ayant droit aux contributions**
+
+Les communes ayant droit aux contributions sont déterminées dans l’annexe.
+
+#### Art. 1a
+
+**Proposition d’ajout ou de retrait d’une commune**
+
+<sup>1</sup> Les cantons ou un organisme responsable peuvent proposer au DETEC, dans le cadre de chaque nouvelle génération du programme en faveur du trafic d’agglomération, d’ajouter une ou plusieurs communes à l’annexe ou d’en retirer une ou plusieurs.
+
+<sup>2</sup> Les propositions sont soumises conformément aux prescriptions de l’Office fédéral du développement territorial (ARE).
+
+<sup>3</sup> Une proposition est prise en considération si elle répond à l’exigence de cohérence territoriale (art. 19, al. 2, OUMin).
+
+## Section 1*a* Exigences requises pour les projets d’agglomération****
+
+[^sec1a-1]
+
+[^sec1a-1]: Introduit par le ch. I de l’O du DETEC du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
+
+#### Art. 1b
+
+**Constitution d’un projet d’agglomération**[^1b-1]
 
 Un projet d’agglomération doit contenir au moins les parties suivantes:
 
 - a. une partie principale;
 - b. une partie relative aux mesures;
-- c. si un accord sur les prestations a été conclu lors d’une génération antérieure: des tableaux de mise en œuvre donnant les indications demandées par l’Office fédéral du développement territorial (ARE), y compris des représentations cartographiques.
+- c. si un accord sur les prestations a été conclu lors d’une génération antérieure: des tableaux de mise en œuvre donnant les indications demandées par l’ARE, y compris des représentations cartographiques.
+
+[^1b-1]: Introduit par le ch. I de l’O du DETEC du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
 
 #### Art. 2
 
@@ -288,3 +317,267 @@ L’ordonnance du DETEC du 20 décembre 2017 concernant les délais et le calcul
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2020.
+
+Annexe*[^t-1]*
+
+(art. 1)
+
+## Communes ayant droit à des contributions
+
+[^t-1]: Introduite par le ch. II de l’O du DETEC du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
+
+### Aarau
+
+*Communes:* Aarau, Biberstein, Buchs (AG), Eppenberg–Wöschnau, Erlinsbach (AG), Erlinsbach (SO), Gretzenbach, Gränichen, Hirschthal, Küttigen, Muhen, Niedergösgen, Oberentfelden, Schöftland, Schönenwerd, Suhr, Unterentfelden
+
+### Altdorf
+
+*Communes:* Altdorf (UR), Attinghausen, Bürglen (UR), Erstfeld, Flüelen, Schattdorf, Seedorf (UR), Silenen
+
+### Amriswil–Romanshorn
+
+*Communes:* Amriswil, Hefenhofen, Romanshorn, Salmsach, Uttwil
+
+### Appenzell
+
+*Communes:* Appenzell, Rüte, Schwendi
+
+### Arbon–Rorschach
+
+*Communes:* Arbon, Goldach, Horn, Lutzenberg, Rheineck, Rorschach, Rorschacherberg, Steinach, Thal, Tübach
+
+### Baden–Brugg
+
+*Communes:* Baden, Birmenstorf (AG), Birr, Birrhard, Brugg, Ennetbaden, Fislisbach, Freienwil, Gebenstorf, Hausen (AG), Lupfig, Mellingen, Mülligen, Neuenhof, Niederrohrdorf, Oberrohrdorf, Obersiggenthal, Remigen, Riniken, Turgi, Untersiggenthal, Wettingen, Windisch, Würenlingen
+
+### Basel
+
+*Communes:* Aesch (BL), Allschwil, Arboldswil, Arisdorf, Arlesheim, Augst, Basel, Bettingen, Biel–Benken, Binningen, Birsfelden, Blauen, Bottmingen, Breitenbach, Brislach, Bubendorf, Buckten, Buus, Bättwil, Böckten, Büren (SO), Büsserach, Diegten, Diepflingen, Dornach, Duggingen, Ettingen, Frenkendorf, Füllinsdorf, Gelterkinden, Gempen, Giebenach, Grellingen, Hellikon, Hersberg, Himmelried, Hochwald, Hofstetten–Flüh, Hölstein, Itingen, Kaiseraugst, Kleinlützel, Känerkinden, Lampenberg, Laufen, Lausen, Liestal, Lupsingen, Magden, Maisprach, Mumpf, Muttenz, Möhlin, Münchenstein, Nenzlingen, Niederdorf, Nuglar–St. Pantaleon, Nunningen, Nusshof, Oberdorf (BL), Obermumpf, Oberwil (BL), Olsberg, Ormalingen, Pfeffingen, Pratteln, Ramlinsburg, Reigoldswil, Reinach (BL), Rheinfelden, Rickenbach (BL), Riehen, Rodersdorf, Röschenz, Rümlingen, Rünenberg, Schönenbuch, Seewen, Seltisberg, Sissach, Tecknau, Tenniken, Therwil, Thürnen, Wahlen, Wegenstetten, Wenslingen, Wintersingen, Witterswil, Wittinsburg, Zeiningen, Ziefen, Zullwil, Zunzgen, Zuzgen, Zwingen
+
+*Communes étrangères:* Attenschwiller, Bad Bellingen, Bartenheim, Berentzwiller, Binzen, Blotzheim, Brinckheim, Buschwiller, Durmenach, Efringen–Kirchen, Eimeldingen, Ferrette, Fischingen, Folgensbourg, Grenzach–Wyhlen, Hagenthal–le–Bas, Hagenthal–le–Haut, Hasel, Hausen im Wiesental, Helfrantzkirch, Huningue, Hégenheim, Hésingue, Inzlingen, Kandern, Kappelen, Kembs, Knoeringue, Koetzingue, Leymen, Lörrach, Magstatt–le–Bas, Maulburg, Michelbach–le–Bas, Michelbach–le–Haut, Muespach, Muespach–le–Haut, Neuwiller, Niffer, Oberdorf, Ranspach–le–Bas, Ranspach–le–Haut, Rantzwiller, Rheinfelden (Baden), Riespach, Roppentzwiller, Rosenau, Rümmingen, Saint–Louis, Schallbach, Schliengen, Schopfheim, Schwörstadt, Sierentz, Steinen, Stetten, Uffheim, Vieux–Ferrette, Village–Neuf, Waldighofen, Waltenheim, Weil am Rhein, Wentzwiller, Wittlingen, Zell im Wiesental
+
+### Bellinzona
+
+*Communes:* Arbedo–Castione, Bellinzona, Cadenazzo, Lumino, San Vittore, Sant’Antonino
+
+### Bern
+
+*Communes:* Allmendingen, Belp, Bern, Biglen, Bolligen, Bremgarten bei Bern, Bäriswil, Bösingen, Diemerswil, Fraubrunnen, Frauenkappelen, Grosshöchstetten, Hindelbank, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Kirchlindach, Konolfingen, Köniz, Laupen, Mattstetten, Meikirch, Moosseedorf, Muri bei Bern, Mühlethurnen, Münchenbuchsee, Münsingen, Neuenegg, Oppligen, Ostermundigen, Rubigen, Schlosswil, Schmitten (FR), Schüpfen, Stettlen, Toffen, Urtenen–Schönbühl, Uttigen, Vechigen, Wichtrach, Wohlen bei Bern, Worb, Wünnewil–Flamatt, Zollikofen, Zäziwil
+
+### Biel/Bienne
+
+*Communes:* Aegerten, Bellmund, Biel/Bienne, Brügg, Evilard, Ipsach, Jens, Meinisberg, Mörigen, Nidau, Orpund, Orvin, Pieterlen, Port, Péry-La Heutte, Safnern, Sauge, Scheuren, Schwadernau, Studen (BE), Sutz–Lattrigen, Twann–Tüscherz, Worben
+
+### Brig–Visp
+
+*Communes:* Ausserberg, Baltschieder, Bitsch, Brig–Glis, Bürchen, Eggerberg, Lalden, Mörel–Filet, Naters, Niedergesteln, Raron, Ried–Brig, Termen, Visp, Zeneggen
+
+### Buchs
+
+*Communes:* Buchs (SG), Gams, Grabs, Sevelen
+
+*Communes étrangères:* Balzers, Eschen, Gamprin, Mauren, Ruggell, Schaan, Schellenberg, Triesen, Triesenberg, Vaduz
+
+### Bulle
+
+*Communes:* Broc, Bulle, Echarlens, Le Pâquier (FR), Marsens, Morlon, Riaz, Vuadens
+
+### Burgdorf
+
+*Communes:* Aefligen, Burgdorf, Kirchberg (BE), Lyssach, Oberburg, Rüdtligen–Alchenflüh
+
+### Chiasso–Mendrisio
+
+*Communes:* Balerna, Breggia, Brusino Arsizio, Castel San Pietro, Chiasso, Coldrerio, Mendrisio, Morbio Inferiore, Novazzano, Riva San Vitale, Stabio, Vacallo
+
+*Communes étrangères:* Albavilla, Albese con Cassano, Albiolo, Alserio, Alzate Brianza, Anzano del Parco, Beregazzo con Figliaro, Binago, Bizzarone, Blevio, Brienno, Brunate, Bulgarograsso, Cagno, Capiago Intimiano, Carate Urio, Casnate con Bernate, Cassina Rizzardi, Cavallasca, Cernobbio, Clivio, Como, Drezzo, Faggeto Lario, Faloppio, Fino Mornasco, Gironico, Grandate, Laglio, Lipomo, Luisago, Lurate Caccivio, Maslianico, Moltrasio, Montano Lucino, Montorfano, Nesso, Olgiate Comasco, Oltrona di San Mamette, Orsenigo, Parè, Pognana Lario, Rodero, Ronago, Saltrio, San Fermo della Battaglia, Senna Comasco, Solbiate, Tavernerio, Torno, Uggiate–Trevano, Valmorea, Viggiù, Villa Guardia
+
+### Chur
+
+*Communes:* Bonaduz, Chur, Churwalden, Domat/Ems, Felsberg, Haldenstein, Landquart, Malans, Rhäzüns, Tamins, Trimmis, Trin, Untervaz, Zizers
+
+### Davos
+
+*Commune:* Davos
+
+### Delémont
+
+*Communes:* Boécourt, Courrendlin, Courroux, Courtételle, Delémont, Develier, Rossemaison, Soyhières, Val Terbi
+
+### Einsiedeln
+
+*Commune:* Einsiedeln
+
+### Frauenfeld
+
+*Communes:* Felben–Wellhausen, Frauenfeld, Gachnang
+
+### Fribourg
+
+*Communes:* Arconciel, Avry, Belfaux, Corminboeuf, Cottens (FR), Courtepin, Düdingen, Ependes (FR), Ferpicloz, Fribourg, Giffers, Givisiez, Granges–Paccot, Grolley, Hauterive (FR), La Brillaz, La Sonnaz, Le Gibloux, Le Mouret, Marly, Matran, Misery–Courtion, Neyruz (FR), Prez–vers–Noréaz, Senèdes, Tafers, Tentlingen, Villars–sur–Glâne, Villarsel–sur–Marly
+
+### Genève
+
+*Communes:* Aire–la–Ville, Anières, Arnex–sur–Nyon, Arzier, Avully, Avusy, Bardonnex, Bassins, Begnins, Bellevue, Bernex, Bogis–Bossey, Borex, Bursinel, Bursins, Carouge (GE), Cartigny, Chancy, Chavannes–de–Bogis, Chavannes–des–Bois, Choulex, Chéserex, Chêne–Bougeries, Chêne–Bourg, Coinsins, Collex–Bossy, Collonge–Bellerive, Cologny, Commugny, Confignon, Coppet, Corsier (GE), Crans–près–Céligny, Crassier, Céligny, Dardagny, Duillier, Dully, Eysins, Founex, Genolier, Genthod, Genève, Gilly, Gingins, Givrins, Gland, Grens, Gy, Hermance, Jussy, La Rippe, Laconnex, Lancy, Le Grand–Saconnex, Le Vaud, Meinier, Meyrin, Mies, Mont–sur–Rolle, Nyon, Onex, Perly–Certoux, Plan–les–Ouates, Prangins, Pregny–Chambésy, Presinge, Puplinge, Rolle, Russin, Saint–Cergue, Satigny, Signy–Avenex, Soral, Tannay, Thônex, Troinex, Trélex, Vandœuvres, Vernier, Versoix, Veyrier, Vich
+
+*Communes étrangères:* Ambilly, Andilly, Annemasse, Arbusigny, Archamps, Arthaz–Pont–Notre–Dame, Ballaison, Beaumont, Bonne, Bons–en–Chablais, Bossey, Boëge, Cessy, Challex, Chens–sur–Léman, Chevry, Clarafond–Arcine, Collonges–sous–Salève, Contamine–sur–Arve, Cornier, Cranves–Sales, Crozet, Divonne–les–Bains, Douvaine, Feigères, Ferney–Voltaire, Fillinges, Gaillard, Gex, Grilly, Habère–Poche, Jonzier–Épagny, Juvigny, La Tour, Loisin, Lucinges, Machilly, Marcellaz, Messery, Monnetier–Mornex, Nangy, Nernier, Neydens, Ornex, Peillonnex, Pers–Jussy, Présilly, Prévessin–Moëns, Reignier–Esery, Saint–Blaise, Saint–Cergues, Saint–Genis–Pouilly, Saint–Jean–de–Gonville, Saint–Jean–de–Tholome, Saint–Julien–en–Genevois, Sauverny, Scientrier, Sergy, Ségny, Thoiry, Valleiry, Veigy–Foncenex, Vers, Versonnex, Villard, Ville–en–Sallaz, Ville–la–Grand, Viry, Viuz–en–Sallaz, Vulbens, Vétraz–Monthoux, Yvoire, Échenevex, Étrembières
+
+### Glarus
+
+*Communes:* Glarus, Glarus Nord
+
+### Grenchen
+
+*Communes:* Bettlach, Grenchen, Lengnau (BE)
+
+### Interlaken
+
+*Communes:* Bönigen, Gsteigwiler, Interlaken, Matten bei Interlaken, Ringgenberg (BE), Unterseen, Wilderswil
+
+### Kreuzlingen
+
+*Communes:* Bottighofen, Gottlieben, Kreuzlingen, Münsterlingen, Tägerwilen
+
+*Communes étrangères:* Allensbach, Konstanz, Universitätsstadt, Reichenau
+
+### La Chaux-de-Fonds–Le Locle
+
+*Communes:* La Chaux-de-Fonds, Le Locle, Les Brenets
+
+*Communes étrangères:* Les Fins, Montlebon, Morteau, Villers-le-Lac
+
+### Lachen
+
+*Communes:* Altendorf, Galgenen, Lachen, Reichenburg, Schübelbach, Tuggen, Wangen (SZ)
+
+### Langenthal
+
+*Commune:* Langenthal
+
+### Lausanne
+
+*Communes:* Aclens, Apples, Assens, Aubonne, Belmont–sur–Lausanne, Bercher, Bioley–Orjulaz, Bottens, Bourg–en–Lavaux, Boussens, Bremblens, Bretigny–sur-Morrens, Buchillon, Bussigny–près–Lausanne, Bussy–Chardonney, Chavannes–près-Renens, Chavornay, Cheseaux–sur–Lausanne, Chexbres, Chigny, Cossonay, Crissier, Cugy (VD), Daillens, Denens, Denges, Echallens, Echandens, Echichens, Eclépens, Ecublens (VD), Epalinges, Etagnières, Etoy, Froideville, Gollion, Jorat–Menthue, Jorat-Mézières, Jouxtens–Mézery, La Sarraz, Lausanne, Le Mont–sur–Lausanne, Lonay, Lully (VD), Lussy–sur–Morges, Lutry, Mex (VD), Montilliez, Montpreveyres, Montricher, Morges, Morrens (VD), Pampigny, Paudex, Penthalaz, Penthaz, Poliez–Pittet, Prilly, Préverenges, Pully, Renens (VD), Rivaz, Romanel–sur-Lausanne, Romanel–sur–Morges, Saint–Barthélemy (VD), Saint–Prex, Saint–Sulpice (VD), Savigny, Servion, Sullens, Tolochenaz, Villars–Sainte–Croix, Villars–le-Terroir, Villars–sous–Yens, Vuarrens, Vufflens–la–Ville, Vufflens–le–Château, Yens
+
+### Lenzburg
+
+*Communes:* Holderbank (AG), Hunzenschwil, Lenzburg, Möriken–Wildegg, Niederlenz, Rupperswil, Schafisheim, Staufen
+
+### Locarno
+
+*Communes:* Ascona, Avegno Gordevio, Brione sopra Minusio, Centovalli, Cugnasco–Gerra, Gambarogno, Gordola, Lavertezzo, Locarno, Losone, Maggia, Minusio, Muralto, Orselina, Ronco sopra Ascona, Tenero–Contra, Terre di Pedemonte
+
+### Lugano
+
+*Communes:* Agno, Alto Malcantone, Aranno, Bedano, Bedigliora, Bioggio, Bissone, Cademario, Cadempino, Canobbio, Capriasca, Caslano, Collina d’Oro, Comano, Croglio, Cureglia, Curio, Grancia, Gravesano, Lamone, Lugano, Magliaso, Manno, Maroggia, Massagno, Melano, Melide, Mezzovico–Vira, Monteceneri, Monteggio, Morcote, Muzzano, Neggio, Novaggio, Origlio, Paradiso, Ponte Capriasca, Ponte Tresa, Porza, Pura, Rovio, Savosa, Sorengo, Torricella–Taverne, Vernate, Vezia, Vico Morcote
+
+*Communes étrangères:* Bene Lario, Cadegliano–Viconago, Campione d’Italia, Carlazzo, Corrido, Cremenaga, Cugliate–Fabiasco, Lavena Ponte Tresa, Marchirolo, Porlezza, San Bartolomeo Val Cavargna, Valsolda
+
+### Luzern
+
+*Communes:* Adligenswil, Buchrain, Dierikon, Ebikon, Emmen, Eschenbach (LU), Gisikon, Hergiswil (NW), Hildisrieden, Honau, Horw, Inwil, Kriens, Küssnacht (SZ), Luzern, Malters, Meggen, Neuenkirch, Rain, Root, Rothenburg, Udligenswil
+
+### Lyss
+
+Commune: Lyss
+
+### Martigny
+
+*Communes:* Martigny, Martigny–Combe
+
+### Monthey
+
+*Communes:* Aigle, Bex, Collombey–Muraz, Massongex, Monthey, Ollon, Troistorrents
+
+### Neuchâtel
+
+*Communes:* Bevaix, Boudry, Corcelles–Cormondrèche, Cornaux, Cortaillod, Cressier (NE), Hauterive (NE), La Tène, Le Landeron, Milvignes, Neuchâtel, Peseux, Rochefort, Saint–Blaise, Val–de–Ruz, Valangin
+
+### Olten–Zofingen
+
+*Communes:* Aarburg, Boningen, Brittnau, Dulliken, Däniken, Egerkingen, Gunzgen, Hägendorf, Härkingen, Kappel (SO), Lostorf, Neuendorf, Niederbuchsiten, Oberbuchsiten, Obergösgen, Oftringen, Olten, Rickenbach (SO), Rothrist, Starrkirch–Wil, Strengelbach, Trimbach, Wangen bei Olten, Wikon, Winznau, Zofingen
+
+### Rapperswil-Jona–Rüti
+
+*Communes:* Dürnten, Eschenbach (SG), Rapperswil–Jona, Rüti (ZH), Schmerikon, Uznach
+
+### Rheintal
+
+*Communes:* Altstätten, Au (SG), Balgach, Berneck, Diepoldsau, Eichberg, Marbach (SG), Rebstein, St. Margrethen, Widnau
+
+*Communes étrangères:* Alberschwende, Altach, Bildstein, Bregenz, Dornbirn, Eichenberg, Feldkirch, Frastanz, Fraxern, Fußach, Gaißau, Göfis, Götzis, Hard, Hohenems, Hohenweiler, Höchst, Hörbranz, Kennelbach, Klaus, Koblach, Krumbach, Langenegg, Lauterach, Lingenau, Lochau, Lustenau, Meiningen, Mäder, Rankweil, Röthis, Satteins, Schwarzach, Sulz, Sulzberg, Viktorsberg, Weiler, Wolfurt, Zwischenwasser
+
+### Sarnen
+
+*Commune:* Sarnen
+
+### Schaffhausen
+
+*Communes:* Beringen, Büttenhardt, Dachsen, Dörflingen, Feuerthalen, Flurlingen, Laufen–Uhwiesen, Lohn (SH), Löhningen, Merishausen, Neuhausen am Rheinfall, Schaffhausen, Siblingen, Stetten (SH), Thayngen
+
+*Commune étrangère:* Büsingen am Hochrhein
+
+### Schwyz
+
+*Communes:* Ingenbohl, Schwyz, Steinen
+
+### Sierre
+
+*Communes:* Chalais, Chippis, Crans-Montana, Miège, Sierre, Venthône, Veyras
+
+### Sion
+
+*Communes:* Arbaz, Ardon, Ayent, Conthey, Grimisuat, Grône, Saint–Léonard, Savièse, Sion, Vex, Veysonnaz, Vétroz
+
+### Solothurn
+
+*Communes:* Balm bei Günsberg, Bellach, Biberist, Deitingen, Derendingen, Feldbrunnen–St. Niklaus, Gerlafingen, Günsberg, Halten, Horriwil, Hubersdorf, Kriegstetten, Langendorf, Lohn–Ammannsegg, Lommiswil, Luterbach, Oberdorf (SO), Obergerlafingen, Oekingen, Recherswil, Riedholz, Rüttenen, Solothurn, Subingen, Zielebach, Zuchwil
+
+### St. Gallen
+
+*Communes:* Andwil (SG), Berg (SG), Eggersriet, Flawil, Gaiserwald, Gossau (SG), Herisau, Mörschwil, Roggwil (TG), Speicher, St. Gallen, Teufen (AR), Untereggen, Waldstatt, Wittenbach
+
+### St. Moritz
+
+*Communes:* Bever, Celerina/Schlarigna, La Punt–Chamues–ch, Pontresina, Samedan, Sils im Engadin/Segl, Silvaplana, St. Moritz
+
+### Stans
+
+*Communes:* Beckenried, Buochs, Ennetbürgen, Ennetmoos, Oberdorf (NW), Stans, Stansstad
+
+### Stein
+
+*Communes:* Münchwilen (AG), Stein (AG), Wallbach
+
+Commune étrangère: Bad Säckingen
+
+### Thun
+
+*Communes:* Heimberg, Hilterfingen, Oberhofen am Thunersee, Seftigen, Spiez, Steffisburg, Thierachern, Thun, Uetendorf
+
+### Vevey–Montreux
+
+*Communes:* Attalens, Blonay, Bossonnens, Chardonne, Châtel–Saint–Denis, Corseaux, Corsier–sur–Vevey, Jongny, La Tour–de–Peilz, Montreux, Noville, Remaufens, Rennaz, Saint–Légier–La Chiésaz, Vevey, Veytaux, Villeneuve (VD)
+
+### Wil
+
+*Communes:* Eschlikon, Jonschwil, Münchwilen (TG), Oberbüren, Oberuzwil, Rickenbach (TG), Sirnach, Uzwil, Wil (SG), Wilen (TG), Zuzwil (SG)
+
+### Winterthur
+
+*Communes:* Dinhard, Elgg, Elsau, Henggart, Hettlingen, Neftenbach, Rickenbach (ZH), Seuzach, Wiesendangen, Winterthur, Zell (ZH)
+
+### Wohlen
+
+*Communes:* Villmergen, Waltenschwil, Wohlen (AG)
+
+### Yverdon-les-Bains
+
+*Communes:* Chamblon, Cheseaux–Noréaz, Grandson, Montagny–près–Yverdon, Treycovagnes, Valeyres–sous–Montagny, Yverdon–les–Bains, Yvonand
+
+### Zug
+
+*Communes:* Arth, Baar, Cham, Hünenberg, Knonau, Meierskappel, Neuheim, Oberrüti, Oberägeri, Risch, Steinhausen, Unterägeri, Walchwil, Zug
+
+### Zürich
+
+*Communes:* Adliswil, Aesch (ZH), Aeugst am Albis, Affoltern am Albis, Arni (AG), Bachenbülach, Bassersdorf, Bellikon, Bergdietikon, Berikon, Birmensdorf (ZH), Bonstetten, Boppelsen, Bremgarten (AG), Brütten, Bubikon, Buchberg, Buchs (ZH), Bäretswil, Bülach, Dielsdorf, Dietikon, Dietlikon, Dällikon, Dänikon, Dättlikon, Dübendorf, Egg, Eggenwil, Eglisau, Ehrendingen, Embrach, Erlenbach (ZH), Fehraltorf, Feusisberg, Fischbach–Göslikon, Freienbach, Freienstein–Teufen, Fällanden, Geroldswil, Glattfelden, Gossau (ZH), Greifensee, Grüningen, Hausen am Albis, Hedingen, Herrliberg, Hinwil, Hittnau, Hochfelden, Hombrechtikon, Horgen, Höri, Hüntwangen, Hüttikon, Illnau–Effretikon, Islisberg, Jonen, Kaiserstuhl, Kappel am Albis, Kilchberg (ZH), Killwangen, Kloten, Künten, Küsnacht (ZH), Langnau am Albis, Lindau, Lufingen, Maschwanden, Maur, Meilen, Mettmenstetten, Männedorf, Mönchaltorf, Neerach, Niederglatt, Niederhasli, Niederweningen, Nürensdorf, Oberembrach, Oberengstringen, Oberglatt, Oberlunkhofen, Oberrieden, Oberweningen, Oberwil–Lieli, Obfelden, Oetwil am See, Oetwil an der Limmat, Opfikon, Otelfingen, Ottenbach, Pfungen, Pfäffikon, Rafz, Regensberg, Regensdorf, Remetschwil, Richterswil, Rifferswil, Rorbas, Rottenschwil, Rudolfstetten–Friedlisberg, Russikon, Rümlang, Rüschlikon, Schleinikon, Schlieren, Schneisingen, Schwerzenbach, Schöfflisdorf, Seegräben, Spreitenbach, Stadel, Stallikon, Steinmaur, Stäfa, Thalwil, Uetikon am See, Uitikon, Unterengstringen, Unterlunkhofen, Urdorf, Uster, Volketswil, Wallisellen, Wangen–Brüttisellen, Wasterkingen, Weiach, Weiningen (ZH), Weisslingen, Wettswil am Albis, Wetzikon (ZH), Widen, Wil (ZH), Winkel, Wollerau, Wädenswil, Würenlos, Zollikon, Zufikon, Zumikon, Zürich

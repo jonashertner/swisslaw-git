@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 20. Dezember 2019 über das Programm Agglomeratio
 short: PAVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/13"
 language: de
-version: 2020-02-01
+version: 2021-10-01
 adopted: 2019-12-20
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/13/20200201/de/xml/fedlex-data-admin-ch-eli-cc-2020-13-20200201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20200201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/13/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2020-13-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,28 +17,55 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/13/20200201/de"
 
 (PAVV)
 
-vom 20. Dezember 2019 (Stand am 1. Februar 2020)
+vom 20. Dezember 2019 (Stand am 1. Oktober 2021)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
-gestützt auf die Artikel 17*e* Absatz 2 des Bundesgesetzes vom 22. März 1985[^ingress-1] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundener Mittel (MinVG) und auf die Artikel 18*a* Absatz 3 und 21*a* Absätze 2 und 3 der Verordnung vom 7. November 2007[^ingress-2] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassenverkehr zweckgebundener Mittel (MinVV),
+gestützt auf die Artikel 17*e* Absatz 2 des Bundesgesetzes vom 22. März 1985[^ingress-1] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundener Mittel (MinVG) und auf die Artikel 18*a* Absatz 3, 19 Absatz 2 und 21*a* Absätze 2 und 3 der Verordnung vom 7. November 2007[^ingress-2] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassenverkehr zweckgebundener Mittel (MinVV),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
 [^ingress-2]: [SR 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
+[^ingress-3]: Fassung gemäss Ziff. I der V des UVEK vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
 
-## 1. Abschnitt: Anforderungen an Agglomerationsprogramme
+## 1. Abschnitt:**** Beitragsberechtigte Gemeinden
+
+[^sec1-1]
+
+[^sec1-1]: Fassung gemäss Ziff. I der V des UVEK vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
 
 #### Art. 1
 
-**Aufbau eines Agglomerationsprogramms**
+**Festlegung der beitragsberechtigten Gemeinden**
+
+Die beitragsberechtigten Gemeinden sind im Anhang festgelegt.
+
+#### Art. 1a
+
+**Vorschlag auf Aufnahme oder Streichung einer Gemeinde**
+
+- [tab] <sup>1</sup> Die Kantone oder eine Trägerschaft können dem UVEK im Rahmen jeder neuen Generation des Programms Agglomerationsverkehr die Aufnahme einzelner Gemeinden in den Anhang oder die Streichung einzelner Gemeinden aus dem Anhang vorschlagen.
+- [tab] <sup>2</sup> Die Vorschläge sind gemäss den Vorgaben des Bundesamts für Raumentwicklung (ARE) einzureichen.
+- [tab] <sup>3</sup> Der Vorschlag wird berücksichtigt, wenn das Erfordernis der räumlichen Kohärenz (Art. 19 Abs. 2 MinVV) erfüllt ist.
+
+## 1*a*. Abschnitt: Anforderungen an Agglomerationsprogramme****
+
+[^sec1a-1]
+
+[^sec1a-1]: Eingefügt durch Ziff. I der V des UVEK vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
+
+#### Art. 1b
+
+**Aufbau eines Agglomerationsprogramms**[^1b-1]
 
 Ein Agglomerationsprogramm muss mindestens die folgenden Teile enthalten:
 
 - a. Hauptteil;
 - b. Massnahmenteil;
-- c. falls in einer Vorgängergeneration eine Leistungsvereinbarung abgeschlossen wurde: Umsetzungstabellen, unter Angabe der vom Bundesamt für Raumentwicklung (ARE) verlangten Informationen und einschliesslich kartografischer Darstellungen.
+- c. falls in einer Vorgängergeneration eine Leistungsvereinbarung abgeschlossen wurde: Umsetzungstabellen, unter Angabe der vom ARE verlangten Informationen und einschliesslich kartografischer Darstellungen.
+
+[^1b-1]: Eingefügt durch Ziff. I der V des UVEK vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
 
 #### Art. 2
 
@@ -288,3 +315,267 @@ Die Verordnung des UVEK vom 20. Dezember 2017[^23-1] über Fristen und Beitragsb
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Februar 2020 in Kraft.
+
+Anhang*[^t-1]*
+
+(Art. 1)
+
+## Beitragsberechtigte Gemeinden
+
+[^t-1]: Eingefügt durch Ziff. II der V des UVEK vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 562](https://fedlex.data.admin.ch/eli/oc/2021/562)).
+
+### Aarau
+
+*Gemeinden:* Aarau, Biberstein, Buchs (AG), Eppenberg–Wöschnau, Erlinsbach (AG), Erlinsbach (SO), Gretzenbach, Gränichen, Hirschthal, Küttigen, Muhen, Niedergösgen, Oberentfelden, Schöftland, Schönenwerd, Suhr, Unterentfelden
+
+### Altdorf
+
+*Gemeinden:* Altdorf (UR), Attinghausen, Bürglen (UR), Erstfeld, Flüelen, Schattdorf, Seedorf (UR), Silenen
+
+### Amriswil–Romanshorn
+
+*Gemeinden:* Amriswil, Hefenhofen, Romanshorn, Salmsach, Uttwil
+
+### Appenzell
+
+*Gemeinden:* Appenzell, Rüte, Schwendi
+
+### Arbon–Rorschach
+
+*Gemeinden:* Arbon, Goldach, Horn, Lutzenberg, Rheineck, Rorschach, Rorschacherberg, Steinach, Thal, Tübach
+
+### Baden–Brugg
+
+*Gemeinden:* Baden, Birmenstorf (AG), Birr, Birrhard, Brugg, Ennetbaden, Fislisbach, Freienwil, Gebenstorf, Hausen (AG), Lupfig, Mellingen, Mülligen, Neuenhof, Niederrohrdorf, Oberrohrdorf, Obersiggenthal, Remigen, Riniken, Turgi, Untersiggenthal, Wettingen, Windisch, Würenlingen
+
+### Basel
+
+*Gemeinden:* Aesch (BL), Allschwil, Arboldswil, Arisdorf, Arlesheim, Augst, Basel, Bettingen, Biel–Benken, Binningen, Birsfelden, Blauen, Bottmingen, Breitenbach, Brislach, Bubendorf, Buckten, Buus, Bättwil, Böckten, Büren (SO), Büsserach, Diegten, Diepflingen, Dornach, Duggingen, Ettingen, Frenkendorf, Füllinsdorf, Gelterkinden, Gempen, Giebenach, Grellingen, Hellikon, Hersberg, Himmelried, Hochwald, Hofstetten–Flüh, Hölstein, Itingen, Kaiseraugst, Kleinlützel, Känerkinden, Lampenberg, Laufen, Lausen, Liestal, Lupsingen, Magden, Maisprach, Mumpf, Muttenz, Möhlin, Münchenstein, Nenzlingen, Niederdorf, Nuglar–St. Pantaleon, Nunningen, Nusshof, Oberdorf (BL), Obermumpf, Oberwil (BL), Olsberg, Ormalingen, Pfeffingen, Pratteln, Ramlinsburg, Reigoldswil, Reinach (BL), Rheinfelden, Rickenbach (BL), Riehen, Rodersdorf, Röschenz, Rümlingen, Rünenberg, Schönenbuch, Seewen, Seltisberg, Sissach, Tecknau, Tenniken, Therwil, Thürnen, Wahlen, Wegenstetten, Wenslingen, Wintersingen, Witterswil, Wittinsburg, Zeiningen, Ziefen, Zullwil, Zunzgen, Zuzgen, Zwingen
+
+*Ausländische Gemeinden:* Attenschwiller, Bad Bellingen, Bartenheim, Berentzwiller, Binzen, Blotzheim, Brinckheim, Buschwiller, Durmenach, Efringen–Kirchen, Eimeldingen, Ferrette, Fischingen, Folgensbourg, Grenzach–Wyhlen, Hagenthal–le–Bas, Hagenthal–le–Haut, Hasel, Hausen im Wiesental, Helfrantzkirch, Huningue, Hégenheim, Hésingue, Inzlingen, Kandern, Kappelen, Kembs, Knoeringue, Koetzingue, Leymen, Lörrach, Magstatt–le–Bas, Maulburg, Michelbach–le–Bas, Michelbach–le–Haut, Muespach, Muespach–le–Haut, Neuwiller, Niffer, Oberdorf, Ranspach–le–Bas, Ranspach–le–Haut, Rantzwiller, Rheinfelden (Baden), Riespach, Roppentzwiller, Rosenau, Rümmingen, Saint–Louis, Schallbach, Schliengen, Schopfheim, Schwörstadt, Sierentz, Steinen, Stetten, Uffheim, Vieux–Ferrette, Village–Neuf, Waldighofen, Waltenheim, Weil am Rhein, Wentzwiller, Wittlingen, Zell im Wiesental
+
+### Bellinzona
+
+*Gemeinden:* Arbedo–Castione, Bellinzona, Cadenazzo, Lumino, San Vittore, Sant’Antonino
+
+### Bern
+
+*Gemeinden:* Allmendingen, Belp, Bern, Biglen, Bolligen, Bremgarten bei Bern, Bäriswil, Bösingen, Diemerswil, Fraubrunnen, Frauenkappelen, Grosshöchstetten, Hindelbank, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Kirchlindach, Konolfingen, Köniz, Laupen, Mattstetten, Meikirch, Moosseedorf, Muri bei Bern, Mühlethurnen, Münchenbuchsee, Münsingen, Neuenegg, Oppligen, Ostermundigen, Rubigen, Schlosswil, Schmitten (FR), Schüpfen, Stettlen, Toffen, Urtenen–Schönbühl, Uttigen, Vechigen, Wichtrach, Wohlen bei Bern, Worb, Wünnewil–Flamatt, Zollikofen, Zäziwil
+
+### Biel/Bienne
+
+*Gemeinden:* Aegerten, Bellmund, Biel/Bienne, Brügg, Evilard, Ipsach, Jens, Meinisberg, Mörigen, Nidau, Orpund, Orvin, Pieterlen, Port, Péry-La Heutte, Safnern, Sauge, Scheuren, Schwadernau, Studen (BE), Sutz–Lattrigen, Twann–Tüscherz, Worben
+
+### Brig-Visp
+
+*Gemeinden:* Ausserberg, Baltschieder, Bitsch, Brig–Glis, Bürchen, Eggerberg, Lalden, Mörel–Filet, Naters, Niedergesteln, Raron, Ried–Brig, Termen, Visp, Zeneggen
+
+### Buchs
+
+*Gemeinden:* Buchs (SG), Gams, Grabs, Sevelen
+
+*Ausländische Gemeinden:* Balzers, Eschen, Gamprin, Mauren, Ruggell, Schaan, Schellenberg, Triesen, Triesenberg, Vaduz
+
+### Bulle
+
+*Gemeinden:* Broc, Bulle, Echarlens, Le Pâquier (FR), Marsens, Morlon, Riaz, Vuadens
+
+### Burgdorf
+
+*Gemeinden:* Aefligen, Burgdorf, Kirchberg (BE), Lyssach, Oberburg, Rüdtligen–Alchenflüh
+
+### Chiasso–Mendrisio
+
+*Gemeinden:* Balerna, Breggia, Brusino Arsizio, Castel San Pietro, Chiasso, Coldrerio, Mendrisio, Morbio Inferiore, Novazzano, Riva San Vitale, Stabio, Vacallo
+
+*Ausländische Gemeinden:* Albavilla, Albese con Cassano, Albiolo, Alserio, Alzate Brianza, Anzano del Parco, Beregazzo con Figliaro, Binago, Bizzarone, Blevio, Brienno, Brunate, Bulgarograsso, Cagno, Capiago Intimiano, Carate Urio, Casnate con Bernate, Cassina Rizzardi, Cavallasca, Cernobbio, Clivio, Como, Drezzo, Faggeto Lario, Faloppio, Fino Mornasco, Gironico, Grandate, Laglio, Lipomo, Luisago, Lurate Caccivio, Maslianico, Moltrasio, Montano Lucino, Montorfano, Nesso, Olgiate Comasco, Oltrona di San Mamette, Orsenigo, Parè, Pognana Lario, Rodero, Ronago, Saltrio, San Fermo della Battaglia, Senna Comasco, Solbiate, Tavernerio, Torno, Uggiate–Trevano, Valmorea, Viggiù, Villa Guardia
+
+### Chur
+
+*Gemeinden:* Bonaduz, Chur, Churwalden, Domat/Ems, Felsberg, Haldenstein, Landquart, Malans, Rhäzüns, Tamins, Trimmis, Trin, Untervaz, Zizers
+
+### Davos
+
+*Gemeinden:* Davos
+
+### Delémont
+
+*Gemeinden:* Boécourt, Courrendlin, Courroux, Courtételle, Delémont, Develier, Rossemaison, Soyhières, Val Terbi
+
+### Einsiedeln
+
+*Gemeinden:* Einsiedeln
+
+### Frauenfeld
+
+*Gemeinden:* Felben–Wellhausen, Frauenfeld, Gachnang
+
+### Fribourg
+
+*Gemeinden:* Arconciel, Avry, Belfaux, Corminboeuf, Cottens (FR), Courtepin, Düdingen, Ependes (FR), Ferpicloz, Fribourg, Giffers, Givisiez, Granges–Paccot, Grolley, Hauterive (FR), La Brillaz, La Sonnaz, Le Gibloux, Le Mouret, Marly, Matran, Misery–Courtion, Neyruz (FR), Prez–vers–Noréaz, Senèdes, Tafers, Tentlingen, Villars–sur–Glâne, Villarsel–sur–Marly
+
+### Genève
+
+*Gemeinden:* Aire–la–Ville, Anières, Arnex–sur–Nyon, Arzier, Avully, Avusy, Bardonnex, Bassins, Begnins, Bellevue, Bernex, Bogis–Bossey, Borex, Bursinel, Bursins, Carouge (GE), Cartigny, Chancy, Chavannes–de–Bogis, Chavannes–des–Bois, Choulex, Chéserex, Chêne–Bougeries, Chêne–Bourg, Coinsins, Collex–Bossy, Collonge–Bellerive, Cologny, Commugny, Confignon, Coppet, Corsier (GE), Crans–près–Céligny, Crassier, Céligny, Dardagny, Duillier, Dully, Eysins, Founex, Genolier, Genthod, Genève, Gilly, Gingins, Givrins, Gland, Grens, Gy, Hermance, Jussy, La Rippe, Laconnex, Lancy, Le Grand–Saconnex, Le Vaud, Meinier, Meyrin, Mies, Mont–sur–Rolle, Nyon, Onex, Perly–Certoux, Plan–les–Ouates, Prangins, Pregny–Chambésy, Presinge, Puplinge, Rolle, Russin, Saint–Cergue, Satigny, Signy–Avenex, Soral, Tannay, Thônex, Troinex, Trélex, Vandoeuvres, Vernier, Versoix, Veyrier, Vich
+
+*Ausländische Gemeinden:* Ambilly, Andilly, Annemasse, Arbusigny, Archamps, Arthaz–Pont–Notre–Dame, Ballaison, Beaumont, Bonne, Bons–en–Chablais, Bossey, Boëge, Cessy, Challex, Chens–sur–Léman, Chevry, Clarafond–Arcine, Collonges–sous–Salève, Contamine–sur–Arve, Cornier, Cranves–Sales, Crozet, Divonne–les–Bains, Douvaine, Feigères, Ferney–Voltaire, Fillinges, Gaillard, Gex, Grilly, Habère–Poche, Jonzier–Épagny, Juvigny, La Tour, Loisin, Lucinges, Machilly, Marcellaz, Messery, Monnetier–Mornex, Nangy, Nernier, Neydens, Ornex, Peillonnex, Pers–Jussy, Présilly, Prévessin–Moëns, Reignier–Esery, Saint–Blaise, Saint–Cergues, Saint–Genis–Pouilly, Saint–Jean–de–Gonville, Saint–Jean–de—Tholome, Saint–Julien–en–Genevois, Sauverny, Scientrier, Sergy, Ségny, Thoiry, Valleiry, Veigy–Foncenex, Vers, Versonnex, Villard, Ville–en–Sallaz, Ville–la–Grand, Viry, Viuz–en–Sallaz, Vulbens, Vétraz–Monthoux, Yvoire, Échenevex, Étrembières
+
+### Glarus
+
+*Gemeinden:* Glarus, Glarus Nord
+
+### Grenchen
+
+*Gemeinden:* Bettlach, Grenchen, Lengnau (BE)
+
+### Interlaken
+
+*Gemeinden:* Bönigen, Gsteigwiler, Interlaken, Matten bei Interlaken, Ringgenberg (BE), Unterseen, Wilderswil
+
+### Kreuzlingen
+
+*Gemeinden:* Bottighofen, Gottlieben, Kreuzlingen, Münsterlingen, Tägerwilen
+
+*Ausländische Gemeinden:* Allensbach, Konstanz, Universitätsstadt, Reichenau
+
+### La Chaux-de-Fonds–Le Locle
+
+*Gemeinden:* La Chaux-de-Fonds, Le Locle, Les Brenets
+
+*Ausländische Gemeinden:* Les Fins, Montlebon, Morteau, Villers-le-Lac
+
+### Lachen
+
+*Gemeinden:* Altendorf, Galgenen, Lachen, Reichenburg, Schübelbach, Tuggen, Wangen (SZ)
+
+### Langenthal
+
+*Gemeinden:* Langenthal
+
+### Lausanne
+
+*Gemeinden:* Aclens, Apples, Assens, Aubonne, Belmont–sur–Lausanne, Bercher, Bioley–Orjulaz, Bottens, Bourg–en–Lavaux, Boussens, Bremblens, Bretigny–sur-Morrens, Buchillon, Bussigny–près–Lausanne, Bussy–Chardonney, Chavannes–près-Renens, Chavornay, Cheseaux–sur–Lausanne, Chexbres, Chigny, Cossonay, Crissier, Cugy (VD), Daillens, Denens, Denges, Echallens, Echandens, Echichens, Eclépens, Ecublens (VD), Epalinges, Etagnières, Etoy, Froideville, Gollion, Jorat–Menthue, Jorat-Mézières, Jouxtens–Mézery, La Sarraz, Lausanne, Le Mont–sur–Lausanne, Lonay, Lully (VD), Lussy–sur–Morges, Lutry, Mex (VD), Montilliez, Montpreveyres, Montricher, Morges, Morrens (VD), Pampigny, Paudex, Penthalaz, Penthaz, Poliez–Pittet, Prilly, Préverenges, Pully, Renens (VD), Rivaz, Romanel–sur-Lausanne, Romanel–sur–Morges, Saint–Barthélemy (VD), Saint–Prex, Saint–Sulpice (VD), Savigny, Servion, Sullens, Tolochenaz, Villars–Sainte–Croix, Villars–le-Terroir, Villars–sous–Yens, Vuarrens, Vufflens–la–Ville, Vufflens–le–Château, Yens
+
+**Lenzburg**
+
+*Gemeinden:* Holderbank (AG), Hunzenschwil, Lenzburg, Möriken–Wildegg, Niederlenz, Rupperswil, Schafisheim, Staufen
+
+### Locarno
+
+*Gemeinden:* Ascona, Avegno Gordevio, Brione sopra Minusio, Centovalli, Cugnasco–Gerra, Gambarogno, Gordola, Lavertezzo, Locarno, Losone, Maggia, Minusio, Muralto, Orselina, Ronco sopra Ascona, Tenero–Contra, Terre di Pedemonte
+
+### Lugano
+
+*Gemeinden:* Agno, Alto Malcantone, Aranno, Bedano, Bedigliora, Bioggio, Bissone, Cademario, Cadempino, Canobbio, Capriasca, Caslano, Collina d’Oro, Comano, Croglio, Cureglia, Curio, Grancia, Gravesano, Lamone, Lugano, Magliaso, Manno, Maroggia, Massagno, Melano, Melide, Mezzovico–Vira, Monteceneri, Monteggio, Morcote, Muzzano, Neggio, Novaggio, Origlio, Paradiso, Ponte Capriasca, Ponte Tresa, Porza, Pura, Rovio, Savosa, Sorengo, Torricella–Taverne, Vernate, Vezia, Vico Morcote
+
+*Ausländische Gemeinden:* Bene Lario, Cadegliano–Viconago, Campione d’Italia, Carlazzo, Corrido, Cremenaga, Cugliate–Fabiasco, Lavena Ponte Tresa, Marchirolo, Porlezza, San Bartolomeo Val Cavargna, Valsolda
+
+### Luzern
+
+*Gemeinden:* Adligenswil, Buchrain, Dierikon, Ebikon, Emmen, Eschenbach (LU), Gisikon, Hergiswil (NW), Hildisrieden, Honau, Horw, Inwil, Kriens, Küssnacht (SZ), Luzern, Malters, Meggen, Neuenkirch, Rain, Root, Rothenburg, Udligenswil
+
+### Lyss
+
+Gemeinden: Lyss
+
+### Martigny
+
+*Gemeinden:* Martigny, Martigny–Combe
+
+### Monthey
+
+*Gemeinden:* Aigle, Bex, Collombey–Muraz, Massongex, Monthey, Ollon, Troistorrents
+
+### Neuchâtel
+
+*Gemeinden:* Bevaix, Boudry, Corcelles–Cormondrèche, Cornaux, Cortaillod, Cressier (NE), Hauterive (NE), La Tène, Le Landeron, Milvignes, Neuchâtel, Peseux, Rochefort, Saint–Blaise, Val–de–Ruz, Valangin
+
+### Olten–Zofingen
+
+*Gemeinden:* Aarburg, Boningen, Brittnau, Dulliken, Däniken, Egerkingen, Gunzgen, Hägendorf, Härkingen, Kappel (SO), Lostorf, Neuendorf, Niederbuchsiten, Oberbuchsiten, Obergösgen, Oftringen, Olten, Rickenbach (SO), Rothrist, Starrkirch–Wil, Strengelbach, Trimbach, Wangen bei Olten, Wikon, Winznau, Zofingen
+
+### Rapperswil-Jona–Rüti
+
+*Gemeinden:* Dürnten, Eschenbach (SG), Rapperswil–Jona, Rüti (ZH), Schmerikon, Uznach
+
+### Rheintal
+
+*Gemeinden:* Altstätten, Au (SG), Balgach, Berneck, Diepoldsau, Eichberg, Marbach (SG), Rebstein, St. Margrethen, Widnau
+
+*Ausländische Gemeinden:* Alberschwende, Altach, Bildstein, Bregenz, Dornbirn, Eichenberg, Feldkirch, Frastanz, Fraxern, Fußach, Gaißau, Göfis, Götzis, Hard, Hohenems, Hohenweiler, Höchst, Hörbranz, Kennelbach, Klaus, Koblach, Krumbach, Langenegg, Lauterach, Lingenau, Lochau, Lustenau, Meiningen, Mäder, Rankweil, Röthis, Satteins, Schwarzach, Sulz, Sulzberg, Viktorsberg, Weiler, Wolfurt, Zwischenwasser
+
+### Sarnen
+
+*Gemeinden:* Sarnen
+
+### Schaffhausen
+
+*Gemeinden:* Beringen, Büttenhardt, Dachsen, Dörflingen, Feuerthalen, Flurlingen, Laufen–Uhwiesen, Lohn (SH), Löhningen, Merishausen, Neuhausen am Rheinfall, Schaffhausen, Siblingen, Stetten (SH), Thayngen
+
+*Ausländische Gemeinde:* Büsingen am Hochrhein
+
+### Schwyz
+
+*Gemeinden:* Ingenbohl, Schwyz, Steinen
+
+### Sierre
+
+*Gemeinden:* Chalais, Chippis, Crans-Montana, Miège, Sierre, Venthône, Veyras
+
+### Sion
+
+*Gemeinden:* Arbaz, Ardon, Ayent, Conthey, Grimisuat, Grône, Saint–Léonard, Savièse, Sion, Vex, Veysonnaz, Vétroz
+
+### Solothurn
+
+*Gemeinden:* Balm bei Günsberg, Bellach, Biberist, Deitingen, Derendingen, Feldbrunnen–St. Niklaus, Gerlafingen, Günsberg, Halten, Horriwil, Hubersdorf, Kriegstetten, Langendorf, Lohn–Ammannsegg, Lommiswil, Luterbach, Oberdorf (SO), Obergerlafingen, Oekingen, Recherswil, Riedholz, Rüttenen, Solothurn, Subingen, Zielebach, Zuchwil
+
+### St. Gallen
+
+*Gemeinden:* Andwil (SG), Berg (SG), Eggersriet, Flawil, Gaiserwald, Gossau (SG), Herisau, Mörschwil, Roggwil (TG), Speicher, St. Gallen, Teufen (AR), Untereggen, Waldstatt, Wittenbach
+
+### St. Moritz
+
+*Gemeinden:* Bever, Celerina/Schlarigna, La Punt–Chamues–ch, Pontresina, Samedan, Sils im Engadin/Segl, Silvaplana, St. Moritz
+
+### Stans
+
+*Gemeinden:* Beckenried, Buochs, Ennetbürgen, Ennetmoos, Oberdorf (NW), Stans, Stansstad
+
+### Stein
+
+*Gemeinden:* Münchwilen (AG), Stein (AG), Wallbach
+
+Ausländische Gemeinden: Bad Säckingen
+
+### Thun
+
+*Gemeinden:* Heimberg, Hilterfingen, Oberhofen am Thunersee, Seftigen, Spiez, Steffisburg, Thierachern, Thun, Uetendorf
+
+### Vevey–Montreux
+
+*Gemeinden:* Attalens, Blonay, Bossonnens, Chardonne, Châtel–Saint–Denis, Corseaux, Corsier–sur–Vevey, Jongny, La Tour–de–Peilz, Montreux, Noville, Remaufens, Rennaz, Saint–Légier–La Chiésaz, Vevey, Veytaux, Villeneuve (VD)
+
+### Wil
+
+*Gemeinden:* Eschlikon, Jonschwil, Münchwilen (TG), Oberbüren, Oberuzwil, Rickenbach (TG), Sirnach, Uzwil, Wil (SG), Wilen (TG), Zuzwil (SG)
+
+### Winterthur
+
+*Gemeinden:* Dinhard, Elgg, Elsau, Henggart, Hettlingen, Neftenbach, Rickenbach (ZH), Seuzach, Wiesendangen, Winterthur, Zell (ZH)
+
+### Wohlen
+
+*Gemeinden:* Villmergen, Waltenschwil, Wohlen (AG)
+
+### Yverdon-les-Bains
+
+*Gemeinden:* Chamblon, Cheseaux–Noréaz, Grandson, Montagny–près–Yverdon, Treycovagnes, Valeyres–sous–Montagny, Yverdon–les–Bains, Yvonand
+
+### Zug
+
+*Gemeinden:* Arth, Baar, Cham, Hünenberg, Knonau, Meierskappel, Neuheim, Oberrüti, Oberägeri, Risch, Steinhausen, Unterägeri, Walchwil, Zug
+
+### Zürich
+
+*Gemeinden:* Adliswil, Aesch (ZH), Aeugst am Albis, Affoltern am Albis, Arni (AG), Bachenbülach, Bassersdorf, Bellikon, Bergdietikon, Berikon, Birmensdorf (ZH), Bonstetten, Boppelsen, Bremgarten (AG), Brütten, Bubikon, Buchberg, Buchs (ZH), Bäretswil, Bülach, Dielsdorf, Dietikon, Dietlikon, Dällikon, Dänikon, Dättlikon, Dübendorf, Egg, Eggenwil, Eglisau, Ehrendingen, Embrach, Erlenbach (ZH), Fehraltorf, Feusisberg, Fischbach–Göslikon, Freienbach, Freienstein–Teufen, Fällanden, Geroldswil, Glattfelden, Gossau (ZH), Greifensee, Grüningen, Hausen am Albis, Hedingen, Herrliberg, Hinwil, Hittnau, Hochfelden, Hombrechtikon, Horgen, Höri, Hüntwangen, Hüttikon, Illnau–Effretikon, Islisberg, Jonen, Kaiserstuhl, Kappel am Albis, Kilchberg (ZH), Killwangen, Kloten, Künten, Küsnacht (ZH), Langnau am Albis, Lindau, Lufingen, Maschwanden, Maur, Meilen, Mettmenstetten, Männedorf, Mönchaltorf, Neerach, Niederglatt, Niederhasli, Niederweningen, Nürensdorf, Oberembrach, Oberengstringen, Oberglatt, Oberlunkhofen, Oberrieden, Oberweningen, Oberwil–Lieli, Obfelden, Oetwil am See, Oetwil an der Limmat, Opfikon, Otelfingen, Ottenbach, Pfungen, Pfäffikon, Rafz, Regensberg, Regensdorf, Remetschwil, Richterswil, Rifferswil, Rorbas, Rottenschwil, Rudolfstetten–Friedlisberg, Russikon, Rümlang, Rüschlikon, Schleinikon, Schlieren, Schneisingen, Schwerzenbach, Schöfflisdorf, Seegräben, Spreitenbach, Stadel, Stallikon, Steinmaur, Stäfa, Thalwil, Uetikon am See, Uitikon, Unterengstringen, Unterlunkhofen, Urdorf, Uster, Volketswil, Wallisellen, Wangen–Brüttisellen, Wasterkingen, Weiach, Weiningen (ZH), Weisslingen, Wettswil am Albis, Wetzikon (ZH), Widen, Wil (ZH), Winkel, Wollerau, Wädenswil, Würenlos, Zollikon, Zufikon, Zumikon, Zürich
