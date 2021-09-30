@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2021-07-01
+version: 2021-10-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20211001/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210701/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. Juli 2021)
+vom 29. September 1995 (Stand am 1. Oktober 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -1113,24 +1113,33 @@ Die Versicherung übernimmt die Kosten der Allgemeinnarkose zur Durchführung vo
 
 **Grundsatz**[^20-1]
 
-Die Versicherung leistet eine Vergütung an Mittel und Gegenstände, die der Behandlung oder der Untersuchung im Sinne einer Überwachung der Behandlung einer Krankheit und ihrer Folgen dienen, die auf ärztliche Anordnung von einer Abgabestelle nach Artikel 55 KVV abgegeben werden und von der versicherten Person selbst oder mit Hilfe einer nichtberuflich an der Untersuchung oder der Behandlung mitwirkenden Person angewendet werden.
+<sup>1</sup>
 
-[^20-1]: Fassung gemäss Ziff. I der V des EDI vom 28. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
+Die Versicherung leistet eine Vergütung an Mittel und Gegenstände, die der Behandlung oder der Untersuchung im Sinne einer Überwachung der Behandlung einer Krankheit und ihrer Folgen dienen und die:
+
+- a. auf Anordnung eines Arztes oder einer Ärztin oder, sofern es sich um Mittel und Gegenstände nach Artikel 4 Buchstabe c handelt, auf Anordnung eines Chiropraktors oder einer Chiropraktorin von einer Abgabestelle nach Artikel 55 KVV abgegeben und von der versicherten Person selbst oder mit Hilfe einer nichtberuflich an der Untersuchung oder der Behandlung mitwirkenden Person angewendet werden; oder
+- b. auf Anordnung eines Arztes oder einer Ärztin im Rahmen der Pflegeleistungen nach Artikel 25*a* KVG[^20-2] angewendet werden.
+
+<sup>2</sup> Die Vergütung von Mitteln und Gegenständen, die durch Leistungserbringer nach Artikel 35 Absatz 2 KVG im Rahmen ihrer Tätigkeit nicht nach Absatz 1 Buchstabe b angewendet werden, wird mit der entsprechenden Untersuchung oder Behandlung in den Tarifverträgen geregelt.
+
+[^20-1]: Fassung gemäss Ziff. I der V des EDI vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^20-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 20a
 
 **Liste der Mittel und Gegenstände**[^20a-1]
 
-<sup>1</sup> Die Mittel und Gegenstände sind in Anhang 2 nach Arten und Produktgruppen aufgeführt.
+<sup>1</sup> Die Mittel und Gegenstände, die nach Artikel 20 Absatz 1 vergütet werden, sind in der Liste nach Anhang 2 nach Produktgruppen aufgeführt.[^20a-2]
 
-<sup>2</sup> Mittel und Gegenstände, die in den Körper implantiert werden oder von Leistungserbringern nach Artikel 35 Absatz 2 KVG[^20a-2] im Rahmen ihrer Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung verwendet werden, sind in der Liste nicht aufgeführt. Die Vergütung wird mit der entsprechenden Untersuchung oder Behandlung in den Tarifverträgen geregelt.
+<sup>2</sup> ...[^20a-3]
 
-<sup>3</sup> Die Liste der Mittel und Gegenstände wird in der AS und in der SR nicht veröffentlicht. Die Änderungen und konsolidierte Fassungen der Liste werden auf der Website des BAG publiziert[^20a-3].[^20a-4]
+<sup>3</sup> Die Liste der Mittel und Gegenstände wird in der AS und in der SR nicht veröffentlicht. Die Änderungen und konsolidierte Fassungen der Liste werden auf der Website des BAG publiziert[^20a-4].[^20a-5]
 
 [^20a-1]: Eingefügt durch Ziff. I der V des EDI vom 28. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
-[^20a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^20a-3]: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Liste der Mittel und Gegenstände (MiGeL)
-[^20a-4]: Fassung gemäss Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+[^20a-2]: Fassung gemäss Ziff. I der V des EDI vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^20a-3]: Aufgehoben durch Ziff. I der V des EDI vom 4. Juni 2021, mit Wirkung seit 1. Okt. 2021 ([AS 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^20a-4]: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Liste der Mittel und Gegenstände (MiGeL)
+[^20a-5]: Fassung gemäss Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
 #### Art. 21
 
@@ -1154,15 +1163,27 @@ Von den in der Liste aufgeführten Arten von Mitteln und Gegenständen dürfen s
 
 #### Art. 24
 
-**Vergütung**
+**Höhe der Vergütung**[^24-1]
 
-<sup>1</sup> Die Mittel und Gegenstände werden höchstens zu dem Betrag vergütet, der in der Liste für die entsprechende Art von Mitteln und Gegenständen angegeben ist.
+<sup>1</sup> Die Höchstvergütungsbeträge sind nach Produktbezeichnung in Anhang 2 festgelegt.
 
-<sup>2</sup> Liegt für ein Produkt der von der Abgabestelle in Rechnung gestellte Betrag über dem in der Liste angegebenen Betrag, so geht die Differenz zu Lasten der versicherten Person.
+<sup>2</sup>
 
-<sup>3</sup> Die Vergütung kann als Kauf- oder als Mietpreis umschrieben sein. Kostspielige und durch andere Patienten und Patientinnen wieder verwendbare Mittel und Gegenstände werden in der Regel in Miete abgegeben.
+Falls für Produkte, die sowohl nach Artikel 20 Absatz 1 Buchstabe a als auch nach Artikel 20 Absatz 1 Buchstabe b angewendet werden können, in der Liste neben dem Höchstvergütungsbetrag nach Absatz 1 ein reduzierter Höchstvergütungsbetrag festgelegt ist, so gilt dieser für die Vergütung von Produkten, die:
 
-<sup>4</sup> Die Versicherung übernimmt die Kosten nach Anhang 2 nur für Mittel und Gegenstände in gebrauchsfertigem Zustand. Bei Mitteln und Gegenständen, die durch Kauf erworben werden, kann in der Liste eine Vergütung an die Kosten für die notwendige Anpassung und den Unterhalt vorgesehen werden. Bei Miete sind Unterhalts- und Anpassungskosten im Mietpreis inbegriffen.
+- a. während des Aufenthalts der versicherten Person im Pflegeheim angewendet werden; oder
+- b. durch Pflegefachfrauen und Pflegefachmänner oder durch Organisationen der Krankenpflege und Hilfe zu Hause in Rechnung gestellt werden.
+
+<sup>3</sup> Die Versicherung übernimmt die Kosten nur bis zum anwendbaren Höchstvergütungsbetrag nach Absatz 1 oder 2. Übersteigt der Preis eines Produkts diesen Höchstvergütungsbetrag, so geht die Differenz zulasten der versicherten Person.
+
+<sup>4</sup> Die Vergütung kann als Kauf- oder als Mietpreis umschrieben sein. Kostspielige und durch andere Patienten und Patientinnen wieder verwendbare Mittel und Gegenstände werden in der Regel in Miete abgegeben.
+
+<sup>5</sup> Die Versicherung übernimmt die Kosten im Rahmen des anwendbaren Höchstvergütungsbetrags nach Absatz 1 oder 2 nur für Mittel und Gegenstände in gebrauchsfertigem Zustand. Bei Mitteln und Gegenständen, die durch Kauf erworben werden, übernimmt die Versicherung die Kosten für die notwendige Anpassung und den Unterhalt, sofern dies in der Liste vorgesehen ist. Bei Miete sind Unterhalts- und Anpassungskosten im Mietpreis inbegriffen.
+
+<sup>6</sup> Die Versicherer können für Mittel und Gegenstände, die in der Liste aufgeführt sind, mit den Pflegefachfrauen und Pflegefachmännern, den Organisationen der Krankenpflege und Hilfe zu Hause oder den Pflegeheimen Tarife nach Artikel 46 KVG[^24-2] vereinbaren. In diesem Fall richtet sich die Vergütung für die Leistungserbringer, die dem Tarifvertrag beigetreten sind, nach dem Tarifvertrag.
+
+[^24-1]: Fassung gemäss Ziff. I der V des EDI vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^24-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 ### 7. Kapitel: Beitrag an die Kosten von Badekuren sowie an Transport- und Rettungskosten
 
@@ -1196,10 +1217,13 @@ Die Versicherung übernimmt für Rettungen in der Schweiz 50 Prozent der Rettung
 
 <sup>2</sup> Die Analysenliste wird in der AS und in der SR nicht veröffentlicht. Die Änderungen und konsolidierte Fassungen der Liste werden auf der Website des BAG publiziert[^28-3].[^28-4]
 
+<sup>3</sup> Für die Vergütung der Analysen, die nach Anhang 3 im ärztlichen Praxislaboratorium durchgeführt werden dürfen, können Tarife nach den Artikeln 46 und 48 KVG festgesetzt werden.[^28-5]
+
 [^28-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^28-2]: Fassung gemäss Ziff. I der V des EDI vom 10. Juli 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)).
 [^28-3]: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL)
 [^28-4]: Fassung gemäss Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+[^28-5]: Eingefügt durch Ziff. I der V des EDI vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 
 ### 2. Abschnitt: Arzneimittelliste mit Tarif
 
@@ -1963,7 +1987,11 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 [^u12-1]: [AS 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)
 
-Die Bedarfsermittlung in Pflegeheimen kann bis zum 31. Dezember 2021 nach bisherigen Recht durchgeführt werden*.*
+<sup>1</sup> Die Bedarfsermittlung in Pflegeheimen kann bis zum 31. Dezember 2021 nach bisherigen Recht durchgeführt werden*.*
+
+<sup>2</sup> Die Frist nach Absatz 1 wird bis zum 31. Dezember 2023 verlängert.[^u12-2]
+
+[^u12-2]: Eingefügt durch Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
 Anhang 1*[^t-2]*
 
@@ -1987,7 +2015,7 @@ Anhang 2*[^t-4]*
 
 ## Mittel- und Gegenstände-Liste
 
-[^t-4]: In der AS nicht veröffentlicht ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Mittel- und Gegenständeliste (MiGeL).
+[^t-4]: In der AS nicht veröffentlicht ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [392](https://fedlex.data.admin.ch/eli/oc/2021/392), [394](https://fedlex.data.admin.ch/eli/oc/2021/394)). Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Mittel- und Gegenständeliste (MiGeL).
 
 Anhang 3*[^t-5]*
 

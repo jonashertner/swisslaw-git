@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2021-07-01
+version: 2021-10-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20211001/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210701/it"
 
 (Ordinanza sulle prestazioni, OPre)**[^t-1]**
 
-del 29 settembre 1995 (Stato 1° luglio 2021)
+del 29 settembre 1995 (Stato 1° ottobre 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -390,7 +390,7 @@ Sono prestazioni ai sensi del capoverso 1:
 [^7-2]: Nuovo testo giusta il n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 [RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
 [^7-3]: Nuovo testo giusta il n. I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-4]: Nuovo testo giusta il n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-5]: Nuovo testo giusta il n. I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+[^7-5]: Nuovo testo giusta il n. I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 (RU **2****019** 2145).
 [^7-6]: Introdotto dal n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^7-7]: Nuovo testo giusta il n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^7-8]: Introdotto dal n. I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
@@ -571,7 +571,7 @@ I dietisti o le organizzazioni di dietetica ai sensi degli articoli 46, 50*a* e 
 <sup>3</sup> Affinché la cura continui ad essere rimunerata dopo 12 consultazioni, il medico curante deve trasmettere al medico di fiducia una proposta debitamente motivata. Il medico di fiducia propone all’assicuratore se e in quale misura la consulenza nutrizionale può essere continuata a carico dell’assicurazione.
 
 [^9b-1]: Originario art. 9*a*.
-[^9b-2]: Nuovo testo giusta il n. I dellʼO del DFI del 16 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5829](https://fedlex.data.admin.ch/eli/oc/2012/681)).
+[^9b-2]: Nuovo testo giusta il n. I dellʼO del DFI del 16 ott. 2012, in vigore dal 1° gen. 2013 (RU **2****012** 5829).
 [^9b-3]: Nuovo testo giusta il n. I dellʼO del DFI del 18 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
 [^9b-4]: Nuovo testo giusta il n. I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^9b-5]: Introdotta dal n. I dellʼO del DFI del 6 dic. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
@@ -597,7 +597,7 @@ L’assicurazione assume i costi della consulenza ai diabetici prestata previa p
 
 <sup>4</sup> I dietisti (art. 50*a* OAMal) che operano in centri di consulenza dell’Associazione svizzera per il diabete possono effettuare le prestazioni di cui all’articolo 9*b* capoverso 1 lettera a e capoversi 2 e 3.
 
-[^9c-1]: Nuovo testo giusta il n. I dellʼO del DFI del 9 dic. 2002, in vigore dal 1° gen. 2003 ([RU 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)).
+[^9c-1]: Nuovo testo giusta il n. I dellʼO del DFI del 9 dic. 2002, in vigore dal 1° gen. 2003 (RU **2****002** 4253).
 
 ### Sezione 4: Logopedia
 
@@ -1099,24 +1099,33 @@ L’assicurazione assume i costi dell’anestesia generale per l’esecuzione di
 
 **Principio**[^20-1]
 
-L’assicurazione assume una determinata rimunerazione dei mezzi e degli apparecchi che servono alla cura o alla diagnosi per sorvegliare il trattamento e le conseguenze di una malattia, consegnati previa prescrizione medica dai centri di consegna secondo l’articolo 55 OAMal e utilizzati dalla persona assicurata da sola o con l’aiuto di una persona non professionista che collabora alla diagnosi e alla cura.
+<sup>1</sup>
 
-[^20-1]: Nuovo testo giusta il n. I dellʼO del DFI del 28 giu. 2007, in vigore dal 1° ago. 2008 ([RU 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
+L’assicurazione assume una determinata rimunerazione dei mezzi e degli apparecchi che servono alla cura o alla diagnosi per sorvegliare il trattamento e le conseguenze di una malattia e che:
+
+- a. sono consegnati da un centro di consegna secondo l’articolo 55 OAMal su prescrizione medica o, qualora si tratti di mezzi e apparecchi di cui all’articolo 4 lettera c, su prescrizione di un chiropratico e sono utilizzati dalla persona assicurata da sola o con lʼaiuto di una persona non professionista che collabora alla diagnosi o alla cura; oppure che
+- b. sono utilizzati nell’ambito delle cure conformemente all’articolo 25*a* LAMal[^20-2] previa prescrizione medica.
+
+<sup>2</sup> La rimunerazione dei mezzi e degli apparecchi che i fornitori di prestazioni di cui all’articolo 35 capoverso 2 LAMal, nel quadro della loro attività, non utilizzano ai sensi del capoverso 1 lettera b è fissata nelle convenzioni tariffali con la relativa diagnosi o cura.
+
+[^20-1]: Nuovo testo giusta il n. I dellʼO del DFI del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^20-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 20a
 
 **Elenco dei mezzi e degli apparecchi**[^20a-1]
 
-<sup>1</sup> I mezzi e gli apparecchi sono definiti per metodi e per gruppo nell’allegato 2.
+<sup>1</sup> I mezzi e gli apparecchi rimunerati secondo l’articolo 20 capoverso 1 figurano nell’elenco di cui all’allegato 2 secondo i gruppi di prodotti.[^20a-2]
 
-<sup>2</sup> I mezzi e gli apparecchi che sono impiantati nel corpo o utilizzati da fornitori di prestazioni secondo l’articolo 35 capoverso 2 LAMal[^20a-2] nel quadro della loro attività a carico dell’assicurazione obbligatoria delle cure medico-sanitarie non figurano nell’elenco. La loro rimunerazione e quella della corrispettiva diagnosi o cura sono stabilite nelle convenzioni tariffali.
+<sup>2</sup> ...[^20a-3]
 
-<sup>3</sup> Lʼelenco dei mezzi e degli apparecchi non è pubblicato né nella RU né nella RS. Le modifiche e le versioni consolidate dellʼelenco sono pubblicate sul sito Internet dellʼUFSP[^20a-3].[^20a-4]
+<sup>3</sup> Lʼelenco dei mezzi e degli apparecchi non è pubblicato né nella RU né nella RS. Le modifiche e le versioni consolidate dellʼelenco sono pubblicate sul sito Internet dellʼUFSP[^20a-4].[^20a-5]
 
 [^20a-1]: Introdotto dal n. I dellʼO del DFI del 28 giu. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
-[^20a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^20a-3]: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi analisi (EMAp)
-[^20a-4]: Nuovo testo giusta il n. I dellʼO del DFI del 7 feb. 2020, in vigore dal 1° lug. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+[^20a-2]: Nuovo testo giusta il n. I dellʼO del DFI del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^20a-3]: Abrogato dal n. I dellʼO del DFI del 4 giu. 2021, con effetto dal 1° ott. 2021 ([RU 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^20a-4]: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi analisi (EMAp)
+[^20a-5]: Nuovo testo giusta il n. I dellʼO del DFI del 7 feb. 2020, in vigore dal 1° lug. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
 #### Art. 21
 
@@ -1140,15 +1149,27 @@ Riguardo le categorie dei mezzi e degli apparecchi indicati nell’elenco, posso
 
 #### Art. 24
 
-**Rimunerazione**
+**Entità della rimunerazione**[^24-1]
 
-<sup>1</sup> I mezzi e gli apparecchi sono rimunerati al massimo fino a un importo pari a quello indicato nell’elenco per la corrispettiva categoria.
+<sup>1</sup> Gli importi massimi della rimunerazione sono fissati nell’allegato 2 in funzione della denominazione dei prodotti.
 
-<sup>2</sup> Se l’importo fatturato dal centro di consegna supera quello indicato nell’elenco, la differenza è a carico dell’assicurato.
+<sup>2</sup>
 
-<sup>3</sup> L’ammontare della rimunerazione può corrispondere al prezzo di vendita o di noleggio. I mezzi e gli apparecchi costosi che possono essere riutilizzati da altri pazienti vengono di regola noleggiati.
+Se per prodotti che possono essere utilizzati sia secondo l’articolo 20 capoverso 1 lettera a sia secondo l’articolo 20 capoverso 1 lettera b è stato fissato nell’elenco, oltre all’importo massimo della rimunerazione secondo il capoverso 1, un importo massimo della rimunerazione ridotto, quest’ultimo si applica per la rimunerazione dei prodotti che:
 
-<sup>4</sup> L’assicurazione assume i costi conformemente all’allegato 2 solo per mezzi e apparecchi pronti ad essere utilizzati. In caso di vendita, può essere prevista nell’elenco una rimunerazione dei costi d’adeguamento e di manutenzione necessari. I costi d’adeguamento e di manutenzione sono compresi nel prezzo di noleggio.
+- a. sono impiegati durante la degenza dell’assicurato in una casa di cura; oppure che
+- b. sono fatturati dal personale infermieristico o da organizzazioni di cure e d’aiuto a domicilio.
+
+<sup>3</sup> L’assicurazione assume i costi solo fino all’importo massimo della rimunerazione applicabile secondo il capoverso 1 o 2. Se il prezzo di un prodotto supera tale importo massimo della rimunerazione, la differenza è a carico dell’assicurato.
+
+<sup>4</sup> L’ammontare della rimunerazione può corrispondere al prezzo di vendita o di noleggio. I mezzi e gli apparecchi costosi che possono essere riutilizzati da altri pazienti vengono di regola noleggiati.
+
+<sup>5</sup> L’assicurazione assume i costi, nei limiti dell’importo massimo della rimunerazione applicabile conformemente al capoverso 1 o 2, soltanto per mezzi e apparecchi pronti ad essere utilizzati. In caso di vendita, l’assicurazione assume i costi d’adeguamento e di manutenzione necessari, se ciò è previsto nell’elenco. I costi d’adeguamento e di manutenzione sono compresi nel prezzo di noleggio.
+
+<sup>6</sup> Gli assicuratori possono convenire tariffe secondo l’articolo 46 LAMal[^24-2] con il personale infermieristico, le organizzazioni di cure e d’aiuto a domicilio e le case di cura per i mezzi e gli apparecchi che figurano nell’elenco. In questo caso, la rimunerazione per i fornitori di prestazioni che hanno aderito alla convenzione tariffale è stabilita in funzione di tale convenzione.
+
+[^24-1]: Nuovo testo giusta il n. I dellʼO del DFI del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^24-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 ### Capitolo 7: Contributo alle spese di cure balneari, di trasporto e di salvataggio
 
@@ -1184,11 +1205,14 @@ Per salvataggi in Svizzera, l’assicurazione assume il 50 per cento delle relat
 
 <sup>2</sup> Lʼelenco delle analisi non è pubblicato né nella RU né nella RS. Le modifiche e le versioni consolidate dellʼelenco sono pubblicate sul sito Internet dellʼUFSP[^28-4].[^28-5]
 
+<sup>3</sup> Per la rimunerazione delle analisi che secondo l’allegato 3 possono essere eseguite nei laboratori degli studi medici è possibile fissare tariffe secondo gli articoli 46 e 48 LAMal.[^28-6]
+
 [^28-1]: Nuovo testo giusta il n. I dellʼO del DFI del 3 lug. 1996, in vigore dal 1° ott. 1996 ([RU 1996 2430](https://fedlex.data.admin.ch/eli/oc/1996/2430_2430_2430)).
 [^28-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^28-3]: Nuovo testo giusta il n. I dellʼO del DFI del 10 lug. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)).
 [^28-4]: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA)
 [^28-5]: Nuovo testo giusta il n. I dellʼO del DFI del 7 feb. 2020, in vigore dal 1° lug. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+[^28-6]: Introdotto dal n. I dellʼO del DFI del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 
 ### Sezione 2: Elenco dei medicamenti con tariffa
 
@@ -1955,7 +1979,11 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 
 [^u12-1]: [RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)
 
-La valutazione dei bisogni nelle case di cura può essere effettuata secondo il diritto anteriore fino al 31 dicembre 2021*.*
+<sup>1</sup> La valutazione dei bisogni nelle case di cura può essere effettuata secondo il diritto anteriore fino al 31 dicembre 2021*.*
+
+<sup>2</sup> Il termine di cui al capoverso 1 è prorogato fino al 31 dicembre 2023.[^u12-2]
+
+[^u12-2]: Introdotto dal n. I dellʼO del DFI del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 
 Allegato 1*[^t-2]*
 
@@ -1979,7 +2007,7 @@ Allegato 2*[^t-4]*
 
 ## Elenco dei mezzi e degli apparecchi
 
-[^t-4]: Non pubblicato nella RU ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744);[2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 2, 6491 n. II cpv. 2; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Lʼelenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp)
+[^t-4]: Non pubblicato nella RU ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744);[2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 2, 6491 n. II cpv. 2; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033), [6337](https://fedlex.data.admin.ch/eli/oc/2020/1034); [2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392), [393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394)). Lʼelenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp)
 
 Allegato 3*[^t-5]*
 

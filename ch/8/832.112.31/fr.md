@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2021-07-01
+version: 2021-10-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210701/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)**[^t-1]**
 
-du 29 septembre 1995 (Etat le 1<sup>er</sup> juillet 2021)
+du 29 septembre 1995 (Etat le 1<sup>er</sup> octobre 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -231,7 +231,7 @@ L’assurance prend en charge les coûts des prestations des disciplines suivant
 [^4b-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 [^4b-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 [^4b-5]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
-[^4b-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^4b-6]: Nouvelle teneur selon le ch.I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 [^4b-7]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 [^4b-8]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 
@@ -1106,32 +1106,41 @@ L’assurance prend en charge les coûts d’une anesthésie générale:
 
 **Principe**[^20-1]
 
-L’assurance octroie un remboursement pour les moyens et appareils thérapeutiques ou diagnostiques visant à surveiller le traitement d’une maladie et ses conséquences, remis sur prescription médicale par un centre de remise au sens de l’art. 55 OAMal et utilisés par l’assuré lui-même ou avec l’aide d’un intervenant non professionnel impliqué dans l’examen ou le traitement.
+<sup>1</sup>
 
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
+L’assurance octroie une rémunération pour les moyens et appareils thérapeutiques ou diagnostiques qui visent à surveiller le traitement d’une maladie et ses conséquences et qui:
+
+- a. sont remis par un centre de remise au sens de l’art. 55 OAMal sur prescription d’un médecin ou, lorsqu’il s’agit de moyens et appareils au sens de l’art. 4, let. c, sur prescription d’un chiropracticien et sont utilisés par l’assuré lui-même ou avec l’aide d’un intervenant non professionnel impliqué dans l’examen ou le traitement, ou qui
+- b. sont utilisés sur prescription d’un médecin dans le cadre des soins au sens de l’art. 25*a* LAMal[^20-2].
+
+<sup>2</sup> La rémunération des moyens et appareils qui sont utilisés par des fournisseurs de prestations au sens de l’art. 35, al. 2, LAMal dans le cadre de leurs activités mais dont l’utilisation ne relève pas de l’al. 1, let. b, est fixée dans les conventions tarifaires avec celle de l’examen ou du traitement correspondant.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^20-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 20a
 
 **Liste des moyens et appareils**[^20a-1]
 
-<sup>1</sup> Les moyens et appareils sont répertoriés à l’annexe 2 par nature et par groupe de produits.
+<sup>1</sup> Les moyens et appareils rémunérés conformément à l’art. 20, al. 1, sont répertoriés dans la liste visée à l’annexe 2 par groupe de produits.[^20a-2]
 
-<sup>2</sup> Les moyens et appareils qui sont implantés dans le corps ou qui sont utilisés par les fournisseurs de prestations pratiquant à la charge de l’assurance obligatoire des soins selon l’art. 35, al. 2, LAMal[^20a-2] ne figurent pas sur la liste. Le remboursement est fixé dans les conventions tarifaires avec celui de l’examen ou du traitement correspondant.
+<sup>2</sup> …[^20a-3]
 
-<sup>3</sup> La liste des moyens et appareils n’est pas publiée au RO ni au RS. Les modifications et les versions consolidées sont mises en ligne sur le site Internet de OFSP[^20a-3].[^20a-4]
+<sup>3</sup> La liste des moyens et appareils n’est pas publiée au RO ni au RS. Les modifications et les versions consolidées sont mises en ligne sur le site Internet de OFSP[^20a-4].[^20a-5]
 
 [^20a-1]: Introduit par le ch. I de l’O du DFI du 28 juin 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
-[^20a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^20a-3]: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Liste des moyens et appareils (LiMA)
-[^20a-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 fév. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+[^20a-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^20a-3]: Abrogé par le ch. I de l’O du DFI du 4 juin 2021, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^20a-4]: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Liste des moyens et appareils (LiMA)
+[^20a-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 fév. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
 #### Art. 21
 
-**Annonce**[^21-1]
+**Demande**[^21-1]
 
-Les demandes qui ont pour objet l’admission de nouveaux moyens et appareils sur la liste ou le montant du remboursement doivent être adressées à l’OFSP. L’OFSP examine chaque demande et la présente à la Commission fédérale des analyses, moyens et appareils.
+Les demandes qui ont pour objet l’admission de nouveaux moyens et appareils sur la liste ou le montant de la rémunération doivent être adressées à l’OFSP. L’OFSP examine chaque demande et la soumet à la Commission fédérale des analyses, moyens et appareils.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 juin 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 
 #### Art. 22
 
@@ -1147,15 +1156,27 @@ Peuvent être délivrés dans les catégories de moyens et appareils figurant su
 
 #### Art. 24
 
-**Remboursement**
+**Montant de la rémunération**[^24-1]
 
-<sup>1</sup> Les moyens et appareils ne sont remboursés que jusqu’à concurrence du montant fixé d’un moyen ou d’un appareil de la même catégorie qui figure sur la liste.
+<sup>1</sup> Les montants maximaux de rémunération sont fixés en fonction de la dénomination des produits dans l’annexe 2.
 
-<sup>2</sup> Lorsqu’un produit est facturé par un centre de remise pour un montant supérieur à celui qui figure sur la liste, la différence est à la charge de l’assuré.
+<sup>2</sup>
 
-<sup>3</sup> Le montant du remboursement peut être le prix de vente ou le prix de location. Les moyens et appareils coûteux qui peuvent être réutilisés par d’autres patients sont, en règle générale, loués.
+Lorsque des produits peuvent être utilisés aussi bien conformément à l’art. 20, al. 1, let. a, que conformément à l’art. 20, al. 1, let. b, et qu’un montant maximal de rémunération réduit est fixé dans la liste en plus du montant maximal de rémunération visé à l’al. 1, celui-ci s’applique pour la rémunération des produits qui:
 
-<sup>4</sup> L’assurance prend en charge uniquement les coûts des moyens et appareils, selon l’annexe 2, remis prêts à l’utilisation. Lorsqu’ils sont vendus, un remboursement des frais d’entretien et d’adaptation nécessaires peut être prévu sur la liste. Les frais d’entretien et d’adaptation sont compris dans le prix de location.
+- a. sont utilisés pendant le séjour de l’assuré dans un établissement médico-social, ou qui
+- b. sont facturés par des infirmiers ou des organisations de soins et d’aide à domicile.
+
+<sup>3</sup> L’assurance ne prend en charge les coûts que jusqu’au montant maximal de rémunération applicable conformément à l’al. 1 ou 2. Lorsque le prix d’un produit excède ce montant maximal, la différence est à la charge de l’assuré.
+
+<sup>4</sup> Le montant de la rémunération peut être le prix de vente ou le prix de location. Les moyens et appareils coûteux qui peuvent être réutilisés par d’autres patients sont, en règle générale, loués.
+
+<sup>5</sup> L’assurance ne prend en charge, dans les limites du montant maximal de rémunération applicable conformément à l’al. 1 ou 2, que les coûts des moyens et appareils prêts à l’utilisation. Lorsqu’ils sont vendus, l’assurance prend en charge les coûts d’entretien et d’adaptation nécessaires, si la liste le prévoit. Les frais d’entretien et d’adaptation sont compris dans le prix de location.
+
+<sup>6</sup> Les assureurs peuvent convenir de tarifs au sens de l’art. 46 LAMal[^24-2] avec les infirmiers, les organisations de soins et d’aide à domicile ou les établissements médico-sociaux pour les moyens et appareils figurant dans la liste. Dans ce cas, la rémunération des fournisseurs de prestations qui ont adhéré à la convention tarifaire est régie par cette convention.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^24-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 ### Chapitre 7 Contributions aux frais de cure balnéaire, de transport et de sauvetage
 
@@ -1191,11 +1212,14 @@ L’assurance prend en charge 50 % des frais de sauvetage en Suisse. Le montant 
 
 <sup>2</sup> La liste des analyses n’est pas publiée au RO ni au RS. Les modifications et les versions consolidées sont mises en ligne sur le site Internet de OFSP[^28-4].[^28-5]
 
+<sup>3</sup> Des tarifs peuvent être fixés conformément aux art. 46 et 48 LAMal pour la rémunération des analyses qui figurent dans l’annexe 3 et qui peuvent être effectuées dans le laboratoire du cabinet médical.[^28-6]
+
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 3 juil. 1996, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 2430](https://fedlex.data.admin.ch/eli/oc/1996/2430_2430_2430)).
 [^28-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^28-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 juil. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)).
 [^28-4]: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Liste des analyses (LA)
 [^28-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 fév. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
+[^28-6]: Introduit par le ch. I de l’O du DFI du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 
 ### Section 2 Liste des médicaments avec tarif
 
@@ -1961,7 +1985,11 @@ Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au
 
 [^u12-1]: [RO 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)
 
-L’évaluation des soins requis dans les établissements médico-sociaux peut être effectuée selon l’ancien droit jusqu’au 31 décembre 2021.
+<sup>1</sup> L’évaluation des soins requis dans les établissements médico-sociaux peut être effectuée selon l’ancien droit jusqu’au 31 décembre 2021.
+
+<sup>2</sup> Le délai visé à l’al. 1 est prolongé jusqu’au 31 décembre 2023.[^u12-2]
+
+[^u12-2]: Introduit par le ch. I de l’O du DFI du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 
 Annexe 1*[^t-2]*
 
@@ -1985,7 +2013,7 @@ Annexe 2*[^t-4]*
 
 ## Liste des moyens et appareils
 
-[^t-4]: Cette annexe n’est pas publiée au RO ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [392](https://fedlex.data.admin.ch/eli/oc/2021/392)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste de moyens et appareils (LiMA).
+[^t-4]: Cette annexe n’est pas publiée au RO ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [392](https://fedlex.data.admin.ch/eli/oc/2021/392), [394](https://fedlex.data.admin.ch/eli/oc/2021/394)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste de moyens et appareils (LiMA).
 
 Annexe 3*[^t-5]*
 
