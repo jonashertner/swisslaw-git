@@ -3,20 +3,19 @@ canton: VS
 number: "142.104"
 title: "Règlement fixant les taxes de police des étrangers et leur mode de répartition entre l'Etat et les communes"
 language: fr
-version: 2021-07-05
-valid_until: 2021-09-30
+version: 2021-10-01
 version_adopted: 2021-11-10
 adopted: 2002-12-18
 in_force: 2003-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/142.104"
-pdf: "https://lex.vs.ch/api/fr/versions/2977/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2978/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement fixant les taxes de police des étrangers et leur mode de répartition entre l'Etat et les communes
 
-du 18.12.2002 (état 05.07.2021)
+du 18.12.2002 (état 01.10.2021)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -82,13 +81,13 @@ arrête:
 - c) autorisation d'établissement — 95 francs
 - c<sup>bis</sup>) prolongation du délai de contrôle de l'autorisation d'établissement — 65 francs
 - d) autre modification d'un titre de séjour ou établissement d'un duplicata de titre de séjour — 40 francs
-- e) changement d'adresse dans le système d'information central sur la migration (SYMIC) — 25 francs
-- f) changement d'adresse à l'étranger et de l'adresse de correspondance pour les frontaliers — 25 francs
+- e) changement d'adresse dans le système d'information central sur la migration (SYMIC) — 30 francs
+- f) changement d'adresse à l'étranger et de l'adresse de correspondance pour les frontaliers — 30 francs
 - g) assentiment — 65 francs
 
-<sup>2</sup> Pour les enfants célibataires de moins de 18 ans, la taxe selon les lettres a, b, c, c<sup>bis</sup>, d et g s'élève à 30 francs et la taxe selon les lettres e et f s'élève à 12 francs 50.
+<sup>2</sup> Pour les enfants célibataires de moins de 18 ans, la taxe selon les lettres a, b, c, c<sup>bis</sup>, d et g s'élève à 30 francs et la taxe selon les lettres e et f s'élève à 20 francs.
 
-<sup>3</sup> Les montants ci-dessus sont répartis entre l'Etat et les communes à raison de 50 pour cent pour l'Etat et 50 pour cent pour les communes, après déduction de la taxe de l'Office fédéral des migrations pour le traitement des données dans SYMIC qui s'élève à 6 francs par prestation.
+<sup>3</sup> Les montants ci-dessus sont répartis entre l'Etat et les communes à raison de 50 pour cent pour l'Etat et 50 pour cent pour les communes, après déduction de la taxe du Secrétariat d'Etat aux migrations pour le traitement des données dans SYMIC qui s'élève à 6 francs par prestation.
 
 #### Art. 6
 
@@ -110,7 +109,8 @@ arrête:
 - d) autorisation de séjour de courte durée CE/AELE non contingentée — 100 francs
 - e) autorisation frontalière — 100 francs
 - f) …
-- g) refus — 50 francs
+- g) refus — 100 francs
+- h) assentiment — 100 francs
 
 <sup>2</sup> La taxe est due par l'employeur dès la notification de la décision préalable positive ou du refus. Elle revient à l'Etat.
 
@@ -125,13 +125,13 @@ arrête:
 - a) assurance d'autorisation de séjour, autorisation habilitant une représentation suisse à l'étranger à délivrer un visa, autorisation d'entrée pour frontaliers, assurance interne d'une première autorisation de travail — 95 francs
 - b) …
 - c) prolongation du délai pendant lequel l'autorisation d'établissement d'un étranger séjournant hors de Suisse demeure valable — 65 francs
-- d) visa de retour ou modification d'un visa délivré par l'Office fédéral des migrations ou par une représentation diplomatique ou consulaire suisse — 60 euros
+- d) visa de retour ou modification d'un visa délivré par le Secrétariat d'Etat aux migrations ou par une représentation diplomatique ou consulaire suisse — 80 euros
 - e) examen et approbation d'une déclaration de prise en charge — 30 francs
 - f) octroi d'un sauf-conduit — 50 francs
 
-<sup>2</sup> Pour les enfants célibataires de moins de 18 ans, la taxe selon la lettre a s'élève à 60 francs.
+<sup>2</sup> Pour les enfants célibataires de moins de 18 ans, la taxe selon la lettre a s'élève à 60 francs. Pour les enfants de 6 à 12 ans, la taxe selon la lettre d s'élève à 40 euros.
 
-<sup>3</sup> Les montants ci-dessus reviennent à l'Etat, le cas échéant après déduction de la taxe de l'Office fédéral des migrations pour le traitement des données dans SYMIC qui s'élève à six francs par prestation.
+<sup>3</sup> Les montants ci-dessus reviennent à l'Etat, le cas échéant après déduction de la taxe du Secrétariat d'Etat aux migrations pour le traitement des données dans SYMIC qui s'élève à 6 francs par prestation.
 
 <sup>4</sup> Sont aussi perçus, cas échéant, les émoluments suivants:Un émolument pour l'établissement et la production de titres de séjour qui s'élève à:
 
@@ -151,15 +151,15 @@ arrête:
 - d) autorisation d'établissement — 95 francs
 - e) prolongation du délai de contrôle de l'autorisation d'établissement — 65 francs
 - f) autre modification d'un titre de séjour ou établissement d'un duplicata de titre de séjour — 40 francs
-- g) changement d'adresse dans le système d'information central sur la migration (SYMIC) — 25 francs
+- g) changement d'adresse dans le système d'information central sur la migration (SYMIC) — 30 francs
 - h) changement d'employeur ou de lieu de travail pour les frontaliers — 95 francs
-- i) changement d'adresse à l'étranger pour les frontaliers — 25 francs
-- j) prolongation de l'admission provisoire — 65 francs
+- i) changement d'adresse à l'étranger pour les frontaliers — 30 francs
+- j) prolongation de l'admission provisoire — 40 francs
 - k) …
 
-<sup>2</sup> Pour les enfants célibataires de moins de 18 ans, la taxe selon les lettres a, b, d et h s'élève à 60 francs et la taxe selon les lettres e, f et j s'élève à 30 francs.
+<sup>2</sup> Pour les enfants célibataires de moins de 18 ans, la taxe selon les lettres a, b, d et h s'élève à 60 francs, la taxe selon les lettres e, f et j s'élève à 30 francs et la taxe selon les lettres g et i s'élève à 20 francs.
 
-<sup>3</sup> Les montants ci-dessus sont répartis entre l'Etat et les communes à raison de 50 pour cent pour l'Etat et 50 pour cent pour les communes, après déduction de la taxe de l'Office fédéral des migrations pour le traitement des données dans SYMIC qui s'élève à six francs par prestation.
+<sup>3</sup> Les montants ci-dessus sont répartis entre l'Etat et les communes à raison de 50 pour cent pour l'Etat et 50 pour cent pour les communes, après déduction de la taxe du Secrétariat d'Etat aux migrations pour le traitement des données dans SYMIC qui s'élève à 6 francs par prestation.
 
 #### Art. 10
 
@@ -185,8 +185,9 @@ arrête:
 - f) …
 - g) prolongation d'autorisation — 100 francs
 - h) …
-- i) requérants d'asile, personnes admises à titre provisoire et personnes à protéger — 50 francs
-- j) refus — 50 francs
+- i) requérants d'asile et personnes à protéger — 50 francs
+- j) refus — 100 francs
+- k) assentiment — 100 francs
 
 <sup>2</sup> La taxe est due par l'employeur dès la notification de la décision préalable positive ou du refus. Elle revient à l'Etat.
 
@@ -211,7 +212,7 @@ arrête:
 
 <sup>1</sup> Toutes les dispositions contraires au présent règlement, en particulier l'arrêté fixant les taxes de police des étrangers du 29 mai 2002 et le règlement d'exécution fixant le mode de répartition des taxes perçues en matière de police des étrangers du 10 octobre 1967, sont abrogées.
 
-<sup>2</sup> Le département de l'économie, des institutions et de la sécurité est chargé de son application.
+<sup>2</sup> Le département en charge de la sécurité est chargé de son application.
 
 <sup>3</sup> Le présent règlement sera publié au Bulletin officiel pour entrer en vigueur le 1<sup>er</sup> janvier 2003.
 
