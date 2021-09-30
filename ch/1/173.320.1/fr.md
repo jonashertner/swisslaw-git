@@ -4,11 +4,11 @@ title: Règlement du 17 avril 2008 du Tribunal administratif fédéral (RTAF)
 short: RTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/320"
 language: fr
-version: 2021-01-01
+version: 2021-10-01
 adopted: 2008-04-17
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-320-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2008-320-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20210101/fr"
 
 (RTAF)
 
-du 17 avril 2008 (Etat le 1<sup>er</sup> janvier 2021)
+du 17 avril 2008 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Tribunal administratif fédéral,
 
@@ -635,7 +635,7 @@ Annexe*[^t-1]*
 
 ## Répartition des affaires
 
-[^t-1]: Nouvelle teneur selon le ch. II de la D du TAF du 15 nov. 2015 ([RO 2016 1373](https://fedlex.data.admin.ch/eli/oc/2016/271)). Mise à jour selon le ch. II des D du TAF du 21 mars 2017 ([RO 2017 3805](https://fedlex.data.admin.ch/eli/oc/2017/450)), du 6 nov. 2018 ([RO 2018 4305](https://fedlex.data.admin.ch/eli/oc/2018/692)) et le ch I de la D du TAF du 16 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2837](https://fedlex.data.admin.ch/eli/oc/2020/518)).
+[^t-1]: Nouvelle teneur selon le ch. II de la D du TAF du 15 nov. 2015 ([RO 2016 1373](https://fedlex.data.admin.ch/eli/oc/2016/271)). Mise à jour par le ch. II des D du TAF du 21 mars 2017 ([RO 2017 3805](https://fedlex.data.admin.ch/eli/oc/2017/450)), du 6 nov. 2018 ([RO 2018 4305](https://fedlex.data.admin.ch/eli/oc/2018/692)), le ch I des D du TAF du 16 juin 2020 ([RO 2020 2837](https://fedlex.data.admin.ch/eli/oc/2020/518)) et du 21 sept. 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 671](https://fedlex.data.admin.ch/eli/oc/2021/671)).
 
 ### 1 Première cour
 
@@ -746,20 +746,21 @@ Sont attribuées à la troisième cour les affaires concernant les domaines juri
 
 <sup>2</sup> La sixième cour connaît en outre des affaires relatives aux domaines juridiques suivants:
 
-- – reconnaissance de l’apatridie;
-- – documents d’identité;
-- – frais d’asile;
-- – fonctionnement des centres d’enregistrement;
-- – attribution des requérants d’asile aux cantons;
-- – activité d’intermédiaire en vue de l’adoption;
-- – prestations de la Confédération pour l’exécution des peines et mesures;
-- – aide financière aux ressortissants suisses séjournant temporairement à l’étranger;
-- – aide sociale conformément à la loi fédérale du 26 septembre 2014 sur les Suisses de l’étranger[^annexu1-lvlu1-lvl5-1];
-- – refus provisoire de l’entrée en Suisse et assignation d’un lieu de séjour à l’aéroport (droit des étrangers);
+- – reconnaissance de l´apatridie;
+- – documents d´identité;
+- – frais d´asile;
+- – fonctionnement des centres d´enregistrement;
+- – attribution des requérants d´asile aux cantons;
+- – activité d´intermédiaire en vue de l´adoption;
+- – prestations de la Confédération pour l´exécution des peines et mesures;
+- – aide financière aux ressortissants suisses séjournant temporairement à l´étranger;
+- – aide sociale conformément à la loi fédérale du 26 septembre 2014 sur les Suisses de l´étranger[^annexu1-lvlu1-lvl5-1];
+- – refus provisoire de l´entrée en Suisse et assignation d´un lieu de séjour à l´aéroport (droit des étrangers);
 - – interdiction de se rendre dans un pays donné conformément à la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^annexu1-lvlu1-lvl5-2];
 - – partage des valeurs patrimoniales confisquées;
 - – droit des armes;
-- – assistance administrative ou entraide judiciaire, pour les affaires relevant de la compétence de la sixième cour.
+- – assistance administrative ou entraide judiciaire, pour les affaires relevant de la compétence de la sixième cour;
+- – mesures policières de lutte contre le terrorisme.
 
 <sup>3</sup> D’autres affaires relatives au droit d’asile peuvent être attribuées à la sixième cour.
 

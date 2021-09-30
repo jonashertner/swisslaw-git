@@ -4,11 +4,11 @@ title: Geschäftsreglement vom 17. April 2008 für das Bundesverwaltungsgericht 
 short: VGR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/320"
 language: de
-version: 2021-01-01
+version: 2021-10-01
 adopted: 2008-04-17
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2008-320-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2008-320-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20210101/de"
 
 (VGR)
 
-Vom 17. April 2008 (Stand am 1. Januar 2021)
+Vom 17. April 2008 (Stand am 1. Oktober 2021)
 
 Das Bundesverwaltungsgericht (BVGer),
 
@@ -635,7 +635,7 @@ Anhang*[^t-1]*
 
 ## Geschäftsverteilung
 
-[^t-1]: Fassung gemäss Ziff. II des Beschlusses des BVGer vom 17. Nov. 2015 ([AS 2016 1373](https://fedlex.data.admin.ch/eli/oc/2016/271)). Bereinigt gemäss Ziff. II des Beschlusses des BVGer vom 21. März 2017 ([AS 2017 3805](https://fedlex.data.admin.ch/eli/oc/2017/450)), vom 6. Nov. 2018 ([AS 2018 4305](https://fedlex.data.admin.ch/eli/oc/2018/692)) und Ziff. I des Beschlusses des BVGer vom 16. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2837](https://fedlex.data.admin.ch/eli/oc/2020/518)).
+[^t-1]: Fassung gemäss Ziff. II des Beschlusses des BVGer vom 17. Nov. 2015 ([AS 2016 1373](https://fedlex.data.admin.ch/eli/oc/2016/271)). Bereinigt gemäss Ziff. II des Beschlusses des BVGer vom 21. März 2017 ([AS 2017 3805](https://fedlex.data.admin.ch/eli/oc/2017/450)), vom 6. Nov. 2018 ([AS 2018 4305](https://fedlex.data.admin.ch/eli/oc/2018/692)), Ziff. I des Beschlusses des BVGer vom 16. Juni 2020 ([AS 2020 2837](https://fedlex.data.admin.ch/eli/oc/2020/518)) und vom 21. Sept. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 671](https://fedlex.data.admin.ch/eli/oc/2021/671)).
 
 ### 1 Erste Abteilung
 
@@ -759,7 +759,8 @@ Der dritten Abteilung werden Geschäfte der folgenden Rechtsgebiete zugeteilt:
 - – Ausreisebeschränkung gemäss Bundesgesetz vom 21. März 1997[^annexu1-lvlu1-lvl5-2] über Massnahmen zur Wahrung der inneren Sicherheit;
 - – Teilung eingezogener Vermögenswerte;
 - – Waffenrecht;
-- – Amts- oder Rechtshilfe, soweit sie Geschäfte der sechsten Abteilung betrifft.
+- – Amts- oder Rechtshilfe, soweit sie Geschäfte der sechsten Abteilung betrifft;
+- – polizeiliche Massnahmen zur Bekämpfung von Terrorismus.
 
 <sup>3</sup> Der sechsten Abteilung können weitere asylrechtliche Geschäfte zugeteilt werden.
 

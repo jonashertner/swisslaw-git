@@ -4,11 +4,11 @@ title: Regolamento del 17 aprile 2008 del Tribunale amministrativo federale (RTA
 short: RTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/320"
 language: it
-version: 2021-01-01
+version: 2021-10-01
 adopted: 2008-04-17
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2008-320-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2008-320-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20210101/it"
 
 (RTAF)
 
-del 17 aprile 2008 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 17 aprile 2008 (Stato 1° ottobre 2021)
 
 Il Tribunale amministrativo federale,
 
@@ -635,7 +635,7 @@ Allegato*[^t-1]*
 
 ## Ripartizione delle cause
 
-[^t-1]: Nuovo testo giusta il n. II della Dec. del TAF del 17 nov. 2015 ([RU 2016 1373](https://fedlex.data.admin.ch/eli/oc/2016/271)). Aggiornato dal n. II delle Dec. del TAF del 21 mar. 2017 ([RU 2017 3805](https://fedlex.data.admin.ch/eli/oc/2017/450)), del 6 nov. 2018 ([RU 2018 4305](https://fedlex.data.admin.ch/eli/oc/2018/692)) e dal n. I della Dec. del TAF del 16 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2837](https://fedlex.data.admin.ch/eli/oc/2020/518)).
+[^t-1]: Nuovo testo giusta il n. II della Dec. del TAF del 17 nov. 2015 ([RU 2016 1373](https://fedlex.data.admin.ch/eli/oc/2016/271)). Aggiornato dal n. II delle Dec. del TAF del 21 mar. 2017 ([RU 2017 3805](https://fedlex.data.admin.ch/eli/oc/2017/450)), del 6 nov. 2018 ([RU 2018 4305](https://fedlex.data.admin.ch/eli/oc/2018/692)), dai n. I delle Dec. del TAF del 16 giu. 2020 ([RU 2020 2837](https://fedlex.data.admin.ch/eli/oc/2020/518)) e del 21 set. 2021, in vigore dal 1° ott. 2021 ([RU 2021 671](https://fedlex.data.admin.ch/eli/oc/2021/671)).
 
 ### 1 Prima corte
 
@@ -759,7 +759,8 @@ La terza corte giudica le cause in materia di:
 - – divieto di lasciare la Svizzera giusta la legge federale del 21 marzo 1997[^annexu1-lvlu1-lvl5-2] sulle misure per la salvaguardia della sicurezza interna;
 - – ripartizione dei valori patrimoniali confiscati;
 - – legislazione sulle armi;
-- – assistenza amministrativa o giudiziaria (in quanto di competenza della sesta corte).
+- – assistenza amministrativa o giudiziaria (in quanto sia di competenza della sesta corte);
+- – misure di polizia per la lotta al terrorismo.
 
 <sup>3</sup> La sesta corte può giudicare altre cause nell’ambito della legislazione in materia d’asilo.
 
