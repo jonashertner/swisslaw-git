@@ -4,13 +4,13 @@ number: "831.2"
 title: Sozialverordnung
 short: SV
 language: de
-version: 2021-01-01
-valid_until: 2021-09-30
-version_adopted: 2020-11-02
+version: 2021-10-01
+valid_until: 2021-12-31
+version_adopted: 2021-07-05
 adopted: 2007-10-29
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.2"
-pdf: "https://bgs.so.ch/api/de/versions/5047/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5114/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5047/pdf_file"
 
 (SV)
 
-Vom 29.10.2007 (Stand 01.01.2021)
+Vom 29.10.2007 (Stand 01.10.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -153,11 +153,9 @@ beschliesst:
 
 #### § 9
 
-**3. Entschädigung der Mitglieder, § 31 SG**
+**3. Vergütung der Mitglieder, § 31 SG**
 
-<sup>1</sup> Die Entschädigung der Verwaltungsratsmitglieder richtet sich nach der Verordnung über die Sitzungsgelder und die Sitzungspauschalen vom 23. September 2002[^9-1].
-
-[^9-1]: BGS [126.511.31](https://bgs.so.ch/data/126.511.31/de).
+<sup>1</sup> Der Verwaltungsrat regelt die Höhe seiner Vergütung in einem Vergütungsreglement.
 
 #### § 10
 
