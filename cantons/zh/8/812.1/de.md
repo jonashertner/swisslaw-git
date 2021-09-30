@@ -4,11 +4,11 @@ number: "812.1"
 title: Heilmittelverordnung (HMV)
 short: HMV
 language: de
-version: "2017-03-01"
-nachtrag: "96"
-valid_until: 2021-10-01
+version: "2021-10-01"
+nachtrag: "114"
+valid_until: 2023-07-01
 adopted: 2023-01-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-812_1-2008_05_21-2008_07_01-096.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-812_1-2008_05_21-2008_07_01-114.html"
 text: pdf
 ---
 
@@ -16,13 +16,19 @@ text: pdf
 
 # Heilmittelverordnung (HMV)
 
-(vom 21. Mai 2008)<sup>1</sup>
+(vom 21. Mai 2008)[^t-1]
 
 Der Regierungsrat,
 
-gestützt auf das Heilmittelgesetz vom 15. Dezember 2000 (HMG)<sup>11</sup>, das Betäubungsmittelgesetz vom 3. Oktober 1951 (BetmG)<sup>9</sup>, das Medizinalberufegesetz vom 23. Juni 2006 (MedBG)<sup>8</sup> und das Gesundheitsgesetz vom 2. April 2007 (GesG)<sup>2</sup>,
+gestützt auf das Heilmittelgesetz vom 15. Dezember 2000 (HMG)[^t-2], das Betäubungsmittelgesetz vom 3. Oktober 1951 (BetmG)[^t-3], das Medizinalberufegesetz vom 23. Juni 2006 (MedBG)[^t-4] und das Gesundheitsgesetz vom 2. April 2007 (GesG)[^t-5],
 
 beschliesst:
+
+[^t-1]: OS 63, 228; Begründung siehe ABl 2008, 821.
+[^t-2]: SR 812.21.
+[^t-3]: SR 812.121.
+[^t-4]: SR 811.11.
+[^t-5]: LS 810.1.
 
 ### 1. Abschnitt: Einleitung
 
@@ -34,29 +40,33 @@ beschliesst:
 
 - a. den Umgang mit Heilmitteln (Arzneimittel und Medizinprodukte), insbesondere die Herstellung, die Abgabe, die Verschreibung (Rezepte) sowie die Lagerung,
 
-- b. die Führung und den Betrieb von Apotheken, Drogerien und anderen Detailhandelsgeschäften im Sinne von Art. 30 HMG<sup>11</sup>,
+- b. die Führung und den Betrieb von Apotheken, Drogerien und anderen Detailhandelsgeschäften im Sinne von Art. 30 HMG[^1-1],
 
 - c. den Vollzug des Betäubungsmittelrechts, soweit er dem Kanton obliegt,
 
 - d. die Aufgaben und die Organisation der Kantonalen Ethikkommission.
 
-<sup>2</sup> Diese Verordnung gilt auch für Tierarzneimittel, vorbehältlich abweichender Bestimmungen der Tierarzneimittelverordnung vom 18. August 2004 (TAMV)<sup>15</sup>.
+<sup>2</sup> Diese Verordnung gilt auch für Tierarzneimittel, vorbehältlich abweichender Bestimmungen der Tierarzneimittelverordnung vom 18. August 2004 (TAMV)[^1-2].
+
+[^1-1]: SR 812.21.
+[^1-2]: SR 812.212.27.
 
 ### 2. Abschnitt: Heilmittel
 
 ### A. Arzneimittel
 
+[^hAArzneimittel-1]: SR 812.212.1.
+[^hAArzneimittel-2]: SR 812.212.21.
+
 #### § 2
 
 **Bewilligung zur Herstellung**
 
-Die Kantonale Heilmittelkontrolle bewilligt die Herstellung von Arzneimitteln im Sinne von Art. 6 der Arzneimittel-Bewilligungsverordnung vom 17. Oktober 2001<sup>13</sup> und im Sinne von Art. 2 Abs. 2 der Arzneimittelverordnung vom 17. Oktober 2001 (VAM)<sup>14</sup>, wenn die Gesuchstellerin oder der Gesuchsteller nachweist, dass a. die mit der Herstellung betrauten Personen die fachlichen Voraussetzungen erfüllen,
+Die Kantonale Heilmittelkontrolle bewilligt die Herstellung von Arzneimitteln im Sinne von Art. 6 der Arzneimittel-Bewilligungsverordnung vom 17. Oktober 2001[^hAArzneimittel-1] und im Sinne von Art. 2 Abs. 2 der Arzneimittelverordnung vom 17. Oktober 2001 (VAM)[^hAArzneimittel-2], wenn die Gesuchstellerin oder der Gesuchsteller nachweist, dass a. die mit der Herstellung betrauten Personen die fachlichen Voraussetzungen erfüllen,
 
 **1**
 
-- 1\. 4. 17 - 96
-
-- b. ein Qualitätssicherungssystem vorhanden ist, das der Art und dem Umfang der Herstellertätigkeit entspricht.
+1.10. 21 - 114 b. ein Qualitätssicherungssystem vorhanden ist, das der Art und dem Umfang der Herstellertätigkeit entspricht.
 
 #### § 3
 
@@ -76,17 +86,23 @@ Die Kantonale Heilmittelkontrolle bewilligt die Herstellung von Arzneimitteln im
 
 <sup>2</sup> Die Kantonale Heilmittelkontrolle führt ein Verzeichnis der Meldungen. Sie löscht eine Meldung nach zehn Jahren aus dem Verzeichnis. Soll das Arzneimittel über diesen Zeitpunkt hinaus in Verkehr gebracht werden, ist eine erneute Meldung erforderlich.
 
+[^4-1]: SR 812.212.21.
+
 #### § 5
 
 **Berechtigung zur Anwendung**
 
-Personen gemäss Art. 27a Abs. 2 lit. a, b, d und e VAM<sup>14</sup> sind berechtigt, die in ihrem Beruf notwendigen Arzneimittel anzuwenden.
+Personen gemäss Art. 27a Abs. 2 lit. a, b, d und e VAM[^4-1] sind berechtigt, die in ihrem Beruf notwendigen Arzneimittel anzuwenden.
+
+[^5-1]: SR 812.211.
+[^5-2]: SR 812.214.11.
+[^5-3]: SR 812.212.21.
 
 #### § 6
 
 **Beschriftung der Arzneimittel**
 
-<sup>1</sup> Zusätzlich zu den in der Pharmakopöe<sup>12,</sup> <sup>16</sup> vorgeschriebenen Kennzeichnungen sind a. Arzneimittel der Abgabekategorien A und B im Sinne der VAM<sup>14</sup> so zu kennzeichnen, dass die Abgabestelle identifizierbar ist, und b. Arzneimittel nach Formula magistralis mit dem Namen der Patientin oder des Patienten sowie dem Datum der Abgabe zu bezeichnen.
+<sup>1</sup> Zusätzlich zu den in der Pharmakopöe[^5-1],[^5-2] vorgeschriebenen Kennzeichnungen sind a. Arzneimittel der Abgabekategorien A und B im Sinne der VAM[^5-3] so zu kennzeichnen, dass die Abgabestelle identifizierbar ist, und b. Arzneimittel nach Formula magistralis mit dem Namen der Patientin oder des Patienten sowie dem Datum der Abgabe zu bezeichnen.
 
 <sup>2</sup> Weitere Kennzeichnungen sind vorzunehmen, wenn das Rezept es anordnet.
 
@@ -126,7 +142,7 @@ Betäubungsmittel müssen in diebstahlsicheren Schränken aufbewahrt werden. Die
 
 - a. den Namen der ausstellenden Person und deren Praxisadresse je in Druckschrift,
 
-- b. die eigenhändige Unterschrift der ausstellenden Person, wobei die qualifizierte elektronische Signatur im Sinne von Art. 14 Abs. 2<sup>bis</sup> OR<sup>3</sup> der eigenhändigen Unterschrift gleichgestellt ist,
+- b. die eigenhändige Unterschrift der ausstellenden Person, wobei die qualifizierte elektronische Signatur im Sinne von Art. 14 Abs. 2<sup>bis</sup> OR[^10-1] der eigenhändigen Unterschrift gleichgestellt ist,
 
 - c. den Namen und den Jahrgang der Patientin oder des Patienten,
 
@@ -138,25 +154,31 @@ Betäubungsmittel müssen in diebstahlsicheren Schränken aufbewahrt werden. Die
 
 **3**
 
-- 1\. 4. 17 - 96
+1.10. 21 - 114
 
-<sup>3</sup> Rezepte für Betäubungsmittel werden nach den Vorschriften der Pharmakopöe und Art. 43 der Betäubungsmittelverordnung vom 29. Mai 1996<sup>10</sup> ausgestellt und sind gültig, wenn sie auf den von der Kantonalen Heilmittelkontrolle abgegebenen nummerierten Rezeptformularen ausgestellt werden.
+<sup>3</sup> Rezepte für Betäubungsmittel werden nach den Vorschriften der Pharmakopöe und Art. 43 der Betäubungsmittelverordnung vom 29. Mai 1996[^10-2] ausgestellt und sind gültig, wenn sie auf den von der Kantonalen Heilmittelkontrolle abgegebenen nummerierten Rezeptformularen ausgestellt werden.
+
+[^10-1]: SR 220.
+[^10-2]: SR 812.121.1.
+[^10-3]: SR 832.10.
 
 #### § 11
 
 **Ausführung von Rezepten**
 
-<sup>1</sup> Rezepte sind nach den Vorschriften der rezeptausstellenden Person auszuführen. Bei Unstimmigkeiten im Rezept nimmt die Abgabestelle mit der rezeptausstellenden Person Kontakt auf. Bei der Substitution gilt Art. 52 a des Bundesgesetzes über die Krankenversicherung vom 18. März 1994<sup>18</sup> auch im überobligatorischen Bereich.
+<sup>1</sup> Rezepte sind nach den Vorschriften der rezeptausstellenden Person auszuführen. Bei Unstimmigkeiten im Rezept nimmt die Abgabestelle mit der rezeptausstellenden Person Kontakt auf. Bei der Substitution gilt Art. 52 a des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^10-3] auch im überobligatorischen Bereich.
 
 <sup>2</sup> Bei auffälligen Rezepten überzeugt sich die Abgabestelle, dass das Rezept von einer berechtigten Person ausgestellt wurde.
 
 <sup>3</sup> Auf Rezepten für verschreibungspflichtige Heilmittel sind bei jeder Abgabe der Name der Apotheke und das Datum der Abgabe zu vermerken.
 
+[^11-1]: SR 812.21.
+
 #### § 12
 
 **Fehlendes Rezept**
 
-Wer ein Arzneimittel der Abgabekategorien A und B ohne Rezept im Sinne von Art. 24 Abs. 1 lit. a HMG<sup>11</sup> abgibt, protokolliert dies unter Angabe des Grundes.
+Wer ein Arzneimittel der Abgabekategorien A und B ohne Rezept im Sinne von Art. 24 Abs. 1 lit. a HMG[^11-1] abgibt, protokolliert dies unter Angabe des Grundes.
 
 #### § 13
 
@@ -184,13 +206,16 @@ Wer ein Arzneimittel der Abgabekategorien A und B ohne Rezept im Sinne von Art. 
 
 <sup>1</sup> Wer Arzneimittel der Abgabekategorien A bis D abgibt, benötigt eine Detailhandelsbewilligung der Kantonalen Heilmittelkontrolle, wenn es sich um Tierarzneimittel handelt, des Veterinäramtes.
 
-<sup>2</sup> Institutionen im Sinne von § 35 GesG<sup>2</sup> wird die Detailhandelsbewilligung bei Vorliegen der Voraussetzungen auf entsprechendes Gesuch hin entweder auf die Institution oder auf die fachlich verantwortliche Person im Sinne von § 36 Abs. 1 lit. d GesG<sup>2</sup> ausgestellt.
+<sup>2</sup> Institutionen im Sinne von § 35 GesG[^15-1] wird die Detailhandelsbewilligung bei Vorliegen der Voraussetzungen auf entsprechendes Gesuch hin entweder auf die Institution oder auf die fachlich verantwortliche Person im Sinne von § 36 Abs. 1 lit. d GesG[^15-1] ausgestellt.
+
+[^15-1]: LS 810.1.
+[^15-2]: SR 812.21.
 
 #### § 16
 
 **Qualitätssicherung**
 
-Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG<sup>11</sup> unterhält ein geeignetes Qualitätssicherungssystem, das der Art, der Bedeutung und dem Umfang der durchzuführenden Arbeiten und der zu erbringenden Dienstleistungen angemessen ist.
+Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG[^15-2] unterhält ein geeignetes Qualitätssicherungssystem, das der Art, der Bedeutung und dem Umfang der durchzuführenden Arbeiten und der zu erbringenden Dienstleistungen angemessen ist.
 
 #### § 17
 
@@ -198,9 +223,11 @@ Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG<sup>11</sup> unterhält ei
 
 <sup>1</sup> Detailhandelsgeschäfte sind so einzurichten, dass Arzneimittel der Abgabekategorien A bis D Fremdpersonen nicht zugänglich sind.
 
-<sup>2</sup> Hinsichtlich Hygiene gelten Art. 7, 10, 11, 15 und 21 der Hygieneverordnung des EDI vom 23. November 2005<sup>17</sup> sinngemäss.
+<sup>2</sup> Hinsichtlich Hygiene gelten Art. 7, 10, 11, 15 und 21 der Hygieneverordnung des EDI vom 23. November 2005[^17-1] sinngemäss.
 
 <sup>3</sup> Die Detailhandelsgeschäfte können der Kantonalen Heilmittelkontrolle die Pläne zur vorgängigen Prüfung vorlegen. Handelt es sich um Geschäfte, die Tierarzneimittel abgeben, ist das Veterinäramt zuständig. Die Prüfung ist gebührenpflichtig.
+
+[^17-1]: SR 817.024.1.
 
 #### § 18
 
@@ -224,7 +251,7 @@ Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG<sup>11</sup> unterhält ei
 
 **5**
 
-- 1\. 4. 17 - 96 § 20. Die Kantonale Heilmittelkontrolle kann über Detailhandelsgeschäfte, die nicht bereits im Medizinalberuferegister im Sinne von Art. 51 MedBG<sup>8</sup> enthalten sind, ein Verzeichnis mit folgenden Angaben veröffentlichen:
+1.10. 21 - 114 § 20. Die Kantonale Heilmittelkontrolle kann über Detailhandelsgeschäfte, die nicht bereits im Medizinalberuferegister im Sinne von Art. 51 MedBG[^19-1] enthalten sind, ein Verzeichnis mit folgenden Angaben veröffentlichen:
 
 **Verzeichnis**
 
@@ -233,6 +260,8 @@ Jedes Detailhandelsgeschäft im Sinne von Art. 30 HMG<sup>11</sup> unterhält ei
 - b. fachlich verantwortliche Person,
 
 - c. bewilligte Tätigkeiten.
+
+[^19-1]: SR 811.11.
 
 #### § 21
 
@@ -280,17 +309,20 @@ Rechnungen, die Heilmittel betreffen, müssen zwei Jahre im Detailhandelsgeschä
 
 <sup>1</sup> Ärztinnen und Ärzte, die eine Privatapotheke führen wollen, benötigen eine Detailhandelsbewilligung der Kantonalen Heilmittelkontrolle. Die Bewilligung wird auf Gesuch hin praxisberechtigten Personen, ambulanten ärztlichen Institutionen und Polikliniken erteilt.
 
-<sup>2</sup> . . .<sup>21</sup>
+<sup>2</sup> . . .[^25-1]
 
 **b. Bewilligung für Zahnärztinnen und Zahnärzte**
 
 § 26. Wer eine zahnärztliche Privatapotheke führen will, benötigt eine Detailhandelsbewilligung der Kantonalen Heilmittelkontrolle. Die Bewilligung wird auf Gesuch hin praxisberechtigten Zahnärztinnen und Zahnärzten sowie Polikliniken erteilt und ermächtigt sie, die in der Zahnheilkunde gebräuchlichen Arzneimittel abzugeben.
 
+[^25-1]: Aufgehoben durch RRB vom 5. Oktober 2011 (OS 66, 883; ABl 2011, 2950). In Kraft seit 1. Mai 2012 (OS 67, 235; ABl 2012, 1152).
+[^25-2]: SR 812.212.27.
+
 #### § 27
 
 **c. Bewilligung für Tierärztinnen und Tierärzte**
 
-Wer eine tierärztliche Privatapotheke führen will, benötigt eine Detailhandelsbewilligung des Veterinäramtes. Die Bewilligung wird auf Gesuch hin praxisberechtigten Tierärztinnen und Tierärzten sowie tierärztlichen Gesundheitsdiensten erteilt und ermächtigt sie, Arzneimittel nach den Bestimmungen der Tierarzneimittelverordnung<sup>15</sup> abzugeben.
+Wer eine tierärztliche Privatapotheke führen will, benötigt eine Detailhandelsbewilligung des Veterinäramtes. Die Bewilligung wird auf Gesuch hin praxisberechtigten Tierärztinnen und Tierärzten sowie tierärztlichen Gesundheitsdiensten erteilt und ermächtigt sie, Arzneimittel nach den Bestimmungen der Tierarzneimittelverordnung[^25-2] abzugeben.
 
 #### § 28
 
@@ -312,7 +344,7 @@ Arzneimittel sind unter der Aufsicht und Verantwortung von Ärztinnen, Ärzten, 
 
 **7**
 
-- 1\. 4. 17 - 96
+1.10. 21 - 114
 
 ### C. Drogerien
 
@@ -322,55 +354,32 @@ Arzneimittel sind unter der Aufsicht und Verantwortung von Ärztinnen, Ärzten, 
 
 Drogerien sind Ladengeschäfte, die Arzneimittel der Abgabekategorien D und E, Medizinprodukte, Chemikalien und weitere Drogeriewaren verkaufen.
 
-§§ 31 und 32.<sup>20</sup>
+§§ 31 und 32.[^30-1]
 
 **Meldepflicht**
 
-§ 33. <sup>1</sup> . . .<sup>20</sup>
+§ 33.[^30-2] . . .[^30-1]
 
-<sup>2</sup> Bei Drogerien mit Betriebsbewilligung im Sinne von § 35 lit. g GesG meldet die Person nach § 36 Abs. 1 lit. d GesG<sup>2</sup> der Kantonalen Heilmittelkontrolle Eröffnung, Verlegung, Namenswechsel und Aufgabe der Drogerie sowie Mitgliederwechsel in der gesamtverantwortlichen Leitung.
+<sup>2</sup> Bei Drogerien mit Betriebsbewilligung im Sinne von § 35 lit. g GesG meldet die Person nach § 36 Abs. 1 lit. d GesG[^30-3] der Kantonalen Heilmittelkontrolle Eröffnung, Verlegung, Namenswechsel und Aufgabe der Drogerie sowie Mitgliederwechsel in der gesamtverantwortlichen Leitung.
+
+[^30-1]: Aufgehoben durch RRB vom 24. November 2010 (OS 66, 120; ABl 2010, 2910). In Kraft seit 1. März 2011.
+[^30-2]: OS 63, 228; Begründung siehe ABl 2008, 821.
+[^30-3]: LS 810.1.
 
 ### D. Weitere Detailhandelsgeschäfte
 
+[^hDWeitereDetailhan-1]: SR 812.212.21.
+[^hDWeitereDetailhan-2]: SR 812.212.27.
+
 #### § 34
 
-<sup>1</sup> Die Kantonale Heilmittelkontrolle bewilligt den in Art. 25 a VAM<sup>14</sup> und das Veterinäramt den in Art. 9 Abs. 1 und 2 TAMV<sup>15</sup> genannten Personen die Abgabe von nicht verschreibungspflichtigen Arzneimitteln, sofern sie die Anforderungen an einen sorgfältigen und sachgerechten Umgang mit Arzneimitteln gewährleisten.
+<sup>1</sup> Die Kantonale Heilmittelkontrolle bewilligt den in Art. 25 a VAM[^hDWeitereDetailhan-1] und das Veterinäramt den in Art. 9 Abs. 1 und 2 TAMV[^hDWeitereDetailhan-2] genannten Personen die Abgabe von nicht verschreibungspflichtigen Arzneimitteln, sofern sie die Anforderungen an einen sorgfältigen und sachgerechten Umgang mit Arzneimitteln gewährleisten.
 
 <sup>2</sup> Die Meldepflicht im Sinne von § 33 gilt sinngemäss.
 
-### 4. Abschnitt: Kantonale Ethikkommission
+§§ 35–38.[^34-1]
 
-**Aufgaben a. Bewilligung von humanmedizinischen Forschungsprojekten**
-
-§ 35.<sup>23</sup> Mit Bewilligung der Kantonalen Ethikkommission dürfen durchgeführt werden:
-
-- a. Forschungsprojekte gemäss dem Bundesgesetz vom 30. September 2011 über die Forschung am Menschen<sup>5</sup>,
-
-- b. Forschungsprojekte gemäss Bundesgesetz vom 8. Oktober 2004 über die Transplantation von Organen, Geweben und Zellen<sup>4</sup>,
-
-- c. Forschungsprojekte gemäss Bundesgesetz vom 19. Dezember 2003 über die Forschung an embryonalen Stammzellen<sup>7</sup>,
-
-- d. Forschungsprojekte gemäss Heilmittelgesetz<sup>11</sup>.
-
-#### § 36
-
-**b. Beurteilungen**
-
-<sup>1</sup> Die Gesundheitsdirektion kann die Kantonale Ethikkommission mit der Beurteilung weiterer medizinischer und ethischer Fragen im Bereiche des gesamten Gesundheitswesens beauftragen.
-
-<sup>2</sup> Die Kantonale Ethikkommission kann mit Bewilligung der Gesundheitsdirektion auch im Auftrag anderer Kantone tätig werden. Entsprechende Entscheide der Kantonalen Ethikkommission sind bei den zuständigen Instanzen des auftraggebenden Kantons anfechtbar.<sup>22</sup>
-
-**Wahl, Zusammensetzung und wissenschaftliches Sekretariat**
-
-§ 37.<sup>23</sup> <sup>1</sup> Der Regierungsrat wählt die Mitglieder der Kantonalen Ethikkommission. Diese ist entsprechend den Bestimmungen des Humanforschungsgesetzes<sup>5</sup> und der Organisationsverordnung vom 20. September 2013 zum Humanforschungsgesetz<sup>6</sup> zusammengesetzt.
-
-<sup>2</sup> Das wissenschaftliche Sekretariat der Kantonalen Ethikkommission ist organisatorisch der Gesundheitsdirektion angegliedert.
-
-**Reglement und Gebührenordnung**
-
-§ 38.<sup>23</sup> <sup>1</sup> Die Kantonale Ethikkommission erlässt ein Organisationsreglement. Es bedarf der Genehmigung der Gesundheitsdirektion.
-
-<sup>2</sup> Die Kantonale Ethikkommission erhebt für ihre Leistungen gemäss § 35 Gebühren. Diese richten sich nach dem Gebührenreglement von swissethics in der Fassung vom 19. August 2014, zuletzt revidiert am 16. August 2016\*.<sup>24</sup>
+[^34-1]: Aufgehoben durch RRB vom 23. Juni 2021 (OS 76, 338; ABl 2021-07-09). In Kraft seit 1. Oktober 2021. 1.10. 21 - 114 11
 
 ### 5. Abschnitt: Strafbestimmung
 
@@ -394,11 +403,13 @@ Drogerien sind Ladengeschäfte, die Arzneimittel der Abgabekategorien D und E, M
 
 ### A. Vollzug
 
+[^hAVollzug-1]: SR 812.21.
+
 #### § 40
 
 **Bewilligungen**
 
-<sup>1</sup> Falls nicht anders bestimmt, werden die in dieser Verordnung erwähnten Bewilligungen sowie Versandhandelsbewilligungen im Sinne von Art. 27 HMG<sup>11</sup> auf längstens zehn Jahre befristet erteilt und auf Gesuch hin erneuert, wenn die Voraussetzungen weiterhin erfüllt sind.
+<sup>1</sup> Falls nicht anders bestimmt, werden die in dieser Verordnung erwähnten Bewilligungen sowie Versandhandelsbewilligungen im Sinne von Art. 27 HMG[^hAVollzug-1] auf längstens zehn Jahre befristet erteilt und auf Gesuch hin erneuert, wenn die Voraussetzungen weiterhin erfüllt sind.
 
 <sup>2</sup> Die Bewilligungen können mit Einschränkungen fachlicher, zeitlicher und räumlicher Art sowie mit Auflagen verbunden werden. Die Bewilligungen fallen ohne Weiteres dahin, wenn die Bewilligungsinhaberin oder der Bewilligungsinhaber über keine gültige Berufsausübungs- oder Betriebsbewilligung mehr verfügt oder die Tätigkeit aufgibt.
 
@@ -433,6 +444,10 @@ Drogerien sind Ladengeschäfte, die Arzneimittel der Abgabekategorien D und E, M
 - d. zu widerrechtlicher Tätigkeit verwendete Räumlichkeiten zu verschliessen,
 
 - e. in Detailhandelsgeschäften oder anderswo entschädigungslos Proben von Heilmitteln zu entnehmen.
+
+**9**
+
+1.10. 21 - 114
 
 <sup>3</sup> Die Wareninhaberin oder der Wareninhaber kann in Fällen gemäss Abs. 2 lit. e verlangen, dass ihr oder ihm für entnommene Proben eine Quittung ausgestellt wird.
 
@@ -477,26 +492,10 @@ Diese Verordnung tritt am 1. Juli 2008 in Kraft.
 
 ## Weitere Fussnoten
 
-- [*] Abrufbar unter http://www.swissethics.ch/templates.html, Rubrik «Prozesse». 1. 4. 17 - 96 9
-- [1] OS 63, 228; Begründung siehe ABl 2008, 821.
-- [2] LS 810.1.
-- [3] SR 220. 1. 4. 17 - 96 11
 - [4] SR 810.21.
 - [5] SR 810.30.
 - [6] SR 810.308.
 - [7] SR 810.31.
-- [8] SR 811.11.
-- [10] SR 812.121.1.
-- [11] SR 812.21.
-- [12] SR 812.211.
-- [13] SR 812.212.1.
-- [14] SR 812.212.21.
-- [15] SR 812.212.27.
-- [16] SR 812.214.11.
-- [17] SR 817.024.1.
-- [18] SR 832.10.
-- [20] Aufgehoben durch RRB vom 24. November 2010 (OS 66, 120; ABl 2010, 2910). In Kraft seit 1. März 2011.
-- [21] Aufgehoben durch RRB vom 5. Oktober 2011 (OS 66, 883; ABl 2011, 2950). In Kraft seit 1. Mai 2012 (OS 67, 235; ABl 2012, 1152).
 - [22] Eingefügt durch RRB vom 11. Februar 2015 (OS 70, 100; ABl 2014-02-27). In Kraft seit 1. Mai 2015.
 - [23] Fassung gemäss RRB vom 11. Februar 2015 (OS 70, 100; ABl 2014-02-27). In Kraft seit 1. Mai 2015.
 - [24] Fassung gemäss RRB vom 9. November 2016 (OS 72, 31; ABl 2016-11-18). In Kraft seit 1. März 2017.
