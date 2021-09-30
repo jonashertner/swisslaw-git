@@ -4,13 +4,13 @@ number: "962.11"
 title: Strafprozessverordnung
 short: StPV
 language: de
-version: 2020-11-01
-valid_until: 2021-09-30
-version_adopted: 2020-08-25
+version: 2021-10-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-29
 adopted: 2010-11-23
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/962.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3006/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3225/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3006/pdf_file"
 
 (StPV)
 
-vom 23.11.2010 (Stand 01.11.2020)
+vom 23.11.2010 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -150,7 +150,7 @@ als Verordnung:[^ingress-2]
 - d) dem Finanzdepartement bei Widerhandlungen gegen Bestimmungen:
   - 1\. …
   - 2\. des Steuerrechts.
-- e) dem Baudepartement bei Widerhandlungen gegen die Bestimmungen über:
+- e) dem Bau- und Umweltdepartement bei Widerhandlungen gegen die Bestimmungen über:
   - 1\. den Umweltschutz;
   - 2\. den Gewässerschutz, den Wasserbau und die Gewässernutzung;
   - 3\. Bauten und Anlagen ausserhalb der Bauzonen;
