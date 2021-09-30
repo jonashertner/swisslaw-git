@@ -3,20 +3,20 @@ canton: OW
 number: "133.111"
 title: Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente
 language: de
-version: 2021-01-01
-valid_until: 2021-09-30
-version_adopted: 2020-12-22
+version: 2021-10-01
+valid_until: 2022-06-30
+version_adopted: 2021-09-21
 adopted: 2002-06-04
 in_force: 2002-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/133.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1490/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1529/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente
 
-vom 04.06.2002 (Stand 01.01.2021)
+vom 04.06.2002 (Stand 01.10.2021)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -81,6 +81,7 @@ beschliesst:
   - 2\. Verwaltungsorganisation mit: Führungsstruktur und -instrumente, Organisationsentwicklung;
 - c. Finanzverwaltung:
   - 1\. Finanz- und Rechnungswesen (eingeschlossen Finanzplanung),
+  - 1a. IKS-Fachstelle,
   - 2\. Lohnbuchhaltung,
   - 3\. Finanzausgleich,
   - 4\. Staatshaftung, Verantwortlichkeit, Sach- und Haftpflichtversicherungen,
@@ -372,6 +373,8 @@ geändert durch:
 
 \- Ausführungsbestimmungen zur eidgenössischen Wappenschutzgesetzgebung vom 28. Januar 2020, in Kraft seit 1. März 2020 (OGS 2020, 2),
 
-\- AB zum Einführungsgesetz zum Geldspielgesetz vom 22. Dezember 2020, in Kraft seit 1.1.2021 (OGS 2021, 2)
+\- AB zum Einführungsgesetz zum Geldspielgesetz vom 22. Dezember 2020, in Kraft seit 1.1.2021 (OGS 2021, 2),
+
+\- AB über das Interne Kontrollsystem IKS vom 21. September 2021, in Kraft seit 1. Oktober 2021 (OGS 2021, 31)
 
 OGS 2002, 33
