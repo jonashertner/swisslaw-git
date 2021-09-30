@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sui provvedimenti per i casi di rigore co
 short: OPCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: it
-version: 2021-06-19
+version: 2021-10-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210619/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210619-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210619/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210619/it"
 
 (Ordinanza COVID-19 casi di rigore)
 
-del 25 novembre 2020 (Stato 19 giugno 2021)
+del 25 novembre 2020 (Stato 1° ottobre 2021) (Stato 1° ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -390,8 +390,11 @@ Il contratto stabilisce segnatamente:
 - c. gli obblighi del Cantone;
 - d.[^16-2] ...
 
+<sup>3</sup> Il Cantone che chiede contributi supplementari di cui all’articolo 15 stipula con la SECO al più tardi entro il 30 aprile 2022 un complemento al contratto relativo all’utilizzo.[^16-3]
+
 [^16-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
 [^16-2]: Abrogata dal n. I dell’O del 31 mar. 2021, con effetto dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^16-3]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 1° ott. 2021 al 30 apr. 2022 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 17
 

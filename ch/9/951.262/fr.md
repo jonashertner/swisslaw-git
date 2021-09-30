@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 concernant les mesures pour les cas de ri
 short: OMCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: fr
-version: 2021-06-19
+version: 2021-10-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210619/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210619-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210619/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210619/fr"
 
 (Ordonnance COVID-19 cas de rigueur)
 
-du 25 novembre 2020 (Etat le 19 juin 2021)
+du 25 novembre 2020 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -389,8 +389,11 @@ Le contrat précise notamment:
 - c. les obligations du canton;
 - d.[^16-2] …
 
+<sup>3</sup> Le canton qui sollicite des contributions supplémentaires au titre de l’art. 15 conclut un avenant relatif à leur utilisation avec le SECO au plus tard le 30 avril 2022.[^16-3]
+
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
 [^16-2]: Abrogée par le ch. I de l’O du 31 mars 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^16-3]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> oct. 2021 au 30 avr. 2022 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 17
 
@@ -511,13 +514,13 @@ Le SECO est compétent pour l’exécution de la présente ordonnance pour ce qu
 
 <sup>4</sup> L’al. 3 entre en vigueur sous réserve de l’entrée en vigueur de la modification de la loi COVID-19 du 25 septembre 2020, qui prolonge la durée de validité de son art. 9, let. c, jusqu’au 31 décembre 2031.
 
-*Annexe*[^23-1]
+Annexe*[^t-1]*
 
 (art. 15, al. 2)
 
-[^23-1]: Nouvelle teneur selon le ch. II de l’O du 18 juin 2021, en vigueur depuis le 19 juin 2021 ([RO 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+## Part en pour-cent des contributions supplémentaires versées par la Confédération, par canton
 
-Part en pour-cent des contributions supplémentaires versées par la Confédération, par canton
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 18 juin 2021, en vigueur depuis le 19 juin 2021 ([RO 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 Clé de répartition selon l’art. 15, al. 1
 

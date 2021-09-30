@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unterne
 short: HFMV 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: de
-version: 2021-06-19
+version: 2021-10-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210619/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210619-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210619/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210619/de"
 
 (Covid-19-Härtefallverordnung)
 
-vom 25. November 2020 (Stand am 19. Juni 2021)
+vom 25. November 2020 (Stand am 1. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -389,8 +389,11 @@ Der Vertrag hält insbesondere fest:
 - c. die Pflichten des Kantons;
 - d.[^16-2] ...
 
+<sup>3</sup> Beansprucht ein Kanton Zusatzbeiträge nach Artikel 15, so schliesst er mit dem SECO bis spätestens am 30. April 2022 einen Vertragszusatz über deren Verwendung ab.[^16-3]
+
 [^16-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
 [^16-2]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^16-3]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Okt. 2021 bis zum 30. April 2022 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 17
 
@@ -548,5 +551,5 @@ Verteilschlüssel nach Artikel 15 Absatz 1
 <tr><td>24</td><td>NE</td><td>2,04 %</td></tr>
 <tr><td>25</td><td>GE</td><td>7,11 %</td></tr>
 <tr><td>26</td><td>JU</td><td>0,70 %</td></tr>
-<tr><td>**Total**</td><td></td><td>**100 %**</td></tr>
+<tr><td>Total</td><td></td><td>**100 %**</td></tr>
 </table>
