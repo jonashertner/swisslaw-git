@@ -3,13 +3,13 @@ canton: BS
 number: BaB 152.110
 title: Ausführungsbestimmungen zur Geschäftsordnung des Bürgergemeinderates der Stadt Basel
 language: de
-version: 2020-10-01
-valid_until: 2021-09-30
-version_adopted: 2020-06-16
+version: 2021-10-01
+valid_until: 2021-12-15
+version_adopted: 2021-06-22
 adopted: 1986-09-09
 in_force: 1986-11-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20152.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5008/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5327/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5008/pdf_file"
 
 Bürgergemeinderat: Ausführungsbest. zur Geschäftsordnung | Basel: Bürgergemeinde
 
-Vom 9. September 1986 (Stand 1. Oktober 2020)
+Vom 9. September 1986 (Stand 1. Oktober 2021)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -95,7 +95,7 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 <sup>2</sup> Der Anspruch auf das Sitzungsgeld entfällt für Mitglieder, die bei Namensaufruf zu Sitzungsbeginn nicht anwesend waren oder nicht innerhalb einer Viertelstunde nach Eröffnung der Sitzung eingetroffen sind, sowie für Mitglieder, die bei einem Namensaufruf gemäss § 10 Abs. 2 der Geschäftsordnung nicht anwesend sind.
 
-<sup>3</sup> Dauert eine Sitzung länger als 2 Stunden, wird das Sitzungsgeld um 50% erhöht.
+<sup>3</sup> Dauert eine Sitzung länger als zwei Stunden, wird für jede weitere angebrochene Stunde ein Sitzungsgeld von CHF 50 ausgerichtet. Auf dieses Sitzungsgeld erhält die Präsidentin oder der Präsident einen Zuschlag von 50 %.
 
 <sup>4</sup> Die Mitglieder des Bürgergemeinderates und der von ihm gewählten Kommissionen erhalten pro Jahr einen Grundbetrag von CHF 300.
 
