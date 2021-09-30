@@ -3,20 +3,20 @@ canton: SG
 number: "760.12"
 title: Verordnung über die amtliche Vermessung
 language: de
-version: 2019-06-01
-valid_until: 2021-09-30
-version_adopted: 2019-05-14
+version: 2021-10-01
+valid_until: 2025-05-31
+version_adopted: 2021-06-29
 adopted: 2019-05-14
 in_force: 2019-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/760.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2751/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3252/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die amtliche Vermessung
 
-vom 14.05.2019 (Stand 01.06.2019)
+vom 14.05.2019 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -283,7 +283,7 @@ als Verordnung:[^ingress-2]
 
 **d) Rekurs**
 
-<sup>1</sup> Der Einspracheentscheid kann innert 14 Tagen mit Rekurs beim Baudepartement angefochten werden.
+<sup>1</sup> Der Einspracheentscheid kann innert 14 Tagen mit Rekurs beim Bau- und Umweltdepartement angefochten werden.
 
 #### Art. 24
 
@@ -378,7 +378,7 @@ als Verordnung:[^ingress-2]
 
 **Tatsächliche Nachführungskosten**
 
-<sup>1</sup> Das Baudepartement erlässt einen Leistungstarif für die Entschädigung der laufenden Nachführung.
+<sup>1</sup> Das Bau- und Umweltdepartement erlässt einen Leistungstarif für die Entschädigung der laufenden Nachführung.
 
 <sup>2</sup> Die Nachführungsstelle fordert die Entschädigung für die laufende Nachführung bei der politischen Gemeinde ein.
 
@@ -548,7 +548,7 @@ als Verordnung:[^ingress-2]
 
 <sup>4</sup> Anschliessend legt die Namenkommission die Schreibweise der geografischen Namen der amtlichen Vermessung fest.
 
-<sup>5</sup> Gegen Entscheide der Namenkommission kann die politische Gemeinde innert 14 Tagen beim Baudepartement Rekurs erheben.
+<sup>5</sup> Gegen Entscheide der Namenkommission kann die politische Gemeinde innert 14 Tagen beim Bau- und Umweltdepartement Rekurs erheben.
 
 <sup>6</sup> Im amtlichen Verkehr wird die festgesetzte Schreibweise verwendet.
 
