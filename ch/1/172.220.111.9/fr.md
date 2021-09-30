@@ -4,11 +4,11 @@ title: "Ordonnance du 2 décembre 2005 sur le personnel affecté à la promotion
 short: OPers-PDHH
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/764"
 language: fr
-version: 2020-10-01
+version: 2021-10-01
 adopted: 2005-12-02
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20201001/fr/xml/fedlex-data-admin-ch-eli-cc-2005-764-20201001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20201001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2005-764-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20201001/fr"
 
 (OPers-PDHH)
 
-du 2 décembre 2005 (Etat le 1<sup>er</sup> octobre 2020)
+du 2 décembre 2005 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -205,13 +205,14 @@ La personne à engager doit remplir un questionnaire médical. Elle doit se fair
 
 <sup>1</sup> Les critères déterminants pour l’évaluation d’une fonction sont la formation requise, l’étendue des tâches ainsi que le niveau des exigences, des responsabilités et des risques inhérents à la fonction.
 
-<sup>2</sup> Le département compétent affecte chaque fonction à une bande de fonction et à une classe de salaire conformément à l’annexe 2 de la présente ordonnance. L’évaluation des fonctions de la classe de salaire 32 ou d’une classe supérieure est soumise à l’approbation du DFF.
+<sup>2</sup> Le département compétent affecte chaque fonction à une classe de salaire. L’évaluation des fonctions de la classe de salaire 32 ou d’une classe supérieure est soumise à l’approbation du DFF.[^14-1]
 
-<sup>3</sup> ...[^14-1]
+<sup>3</sup> ...[^14-2]
 
 <sup>4</sup> Les dispositions d’exécution sur les stagiaires du DFF sont applicables aux personnes qui sont engagées pour une durée déterminée et à des fins de formation.
 
-[^14-1]: Abrogé par le ch. I de l’O du 26 août 2020, avec effet au 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^14-2]: Abrogé par le ch. I de l’O du 26 août 2020, avec effet au 1<sup>er</sup> oct. 2020 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 15
 
@@ -603,64 +604,6 @@ Annexe 1*[^t-1]*
 
 \*\*\*\*\* Transportés dans le conteneur de 20 pieds de la famille.
 
-Annexe 2
+Annexe 2*[^t-2]*
 
-(art. 14, al. 2)
-
-## Attribution aux bandes de fonction et aux classes de salaire
-
-### Bande de fonction 1
-
-Classes de salaire de référence 4–9
-
-Employés possédant une formation ad hoc et qui exécutent, dans un environnement international, des travaux simples ou difficiles nécessitant une formation.
-
-Entrent par exemple dans cette bande de fonction les catégories de personnel suivantes: chauffeurs, agents polyvalents, magasiniers, courriers.
-
-### Bande de fonction 2
-
-Classes de salaire de référence 10–14
-
-Employés ayant terminé une formation professionnelle et possédant une formation ad hoc, qui exécutent de façon indépendante des travaux professionnels simples ou difficiles dans un environnement international ou qui dirigent une équipe de petite ou de moyenne taille.
-
-Entrent par exemple dans cette bande de fonction les catégories de personnel suivantes: artisans, employés/es de commerce, infirmiers/ières ND I, personnels de surveillance et de sécurité.
-
-### Bande de fonction 3
-
-Classes de salaire de référence 15–17
-
-Employés possédant la formation et l’expérience requises ainsi qu’une formation ad hoc, qui exécutent de façon indépendante, dans un environnement international, des tâches qualifiées nécessitant de solides connaissances techniques ou qui dirigent une équipe importante avec des compétences étendues.
-
-Entrent par exemple dans cette bande de fonction les catégories de personnel suivantes: policiers militaires ayant une formation de police, infirmiers/ières ND II, chef/fes de service administratif, chef/fes de cuisine.
-
-### Bande de fonction 4
-
-Classes de salaire de référence 18–21
-
-Employés possédant la formation et l’expérience requises ainsi qu’une formation ad hoc, à qui sont confiées des fonctions techniques ou de conduite dans le domaine militaire, scientifique, technique, logistique ou administratif qu’ils remplissent de façon indépendante dans un environnement international.
-
-Entrent par exemple dans cette bande de fonction les catégories de personnel suivantes: observateurs/trices électoraux/ales, conseillers/ères en matière de police, experts/es des douanes, superviseurs/ses de déminage 1, officiers de réparation, officiers automobilistes.
-
-### Bande de fonction 5
-
-Classes de salaire de référence 22–25
-
-Employés possédant la formation supérieure et l’expérience requises ainsi qu’une formation ad hoc, qui interviennent en qualité d’expert/e ou de chef/fe d’une équipe nationale ou internationale et qui exécutent des tâches techniques, scientifiques, administratives ou militaires exigeantes dans leur domaine de spécialité. Ils peuvent avoir à exercer des fonctions d’observation, de conseil, d’analyse, de planification et de stratégie ou à mener des négociations avec des autorités et des organisations nationales et internationales.
-
-Entrent par exemple dans cette bande de fonction les catégories de personnel suivantes: observateurs/trices électoraux/ales en mission de longue durée, observateurs/trices des droits de l’homme, conseillers/ères juridiques, coordinateurs/trices de l’aide humanitaire, coordinateurs/trices adjoints/es de l’aide humanitaire, ingénieurs/es, chefs/cheffes de projet, conseillers/ères en matière de police, formateurs/trices de police, experts/es en réforme de la police, expert/tes des douanes, logisticiens/nes, officiers de liaison, officiers de renseignement, officiers de presse, délégués/ées en Corée, observateurs/trices militaires, médecins militaires, chimistes.
-
-### Bande de fonction 6
-
-Classes de salaire de référence 26–29
-
-Employés possédant la formation supérieure et l’expérience requises ainsi qu’une formation ad hoc et ayant prouvé leurs compétences techniques et de direction, à qui sont confiées des fonctions de direction très exigeantes au niveau international ou qui interviennent en qualité de spécialistes internationalement reconnus et exercent des activités hautement qualifiées, entre autres de conseil et de médiation.
-
-Entrent par exemple dans cette bande de fonction les catégories de personnel suivantes: conseillers en sécurité humaine, chefs/cheffes de projet pour des opérations de promotion de la paix, experts/es en médiation et en gestion des conflits, coordinateurs/trices de l’aide humanitaire, scientifiques, experts/es en réforme de la police, experts/tes en matière de police, chef/fes de police, experts/tes des douanes, commandant/e de la Swisscoy, commandant/e suppléant/e de la Swisscoy, médecin-chef.
-
-### Bande de fonction 7
-
-Classes de salaire de référence 30–31
-
-Employés possédant la formation supérieure et l’expérience requises ainsi qu’une formation ad hoc et ayant prouvé leurs compétences techniques et de direction, à qui est confiée la responsabilité politique, technique, en matière de personnel et d’orga-nisation, d’un grand domaine important dans une organisation ou une mission internationale, ou qui interviennent en qualité de spécialistes hautement qualifiés reconnus au niveau international.
-
-Entrent par exemple dans cette bande de fonction les catégories de personnel suivantes: représentants/es spéciaux/les du Secrétaire général des Nations Unies, scientifiques, experts/es en matière de police, chef/fes de police, experts/tes des douanes.
+[^t-2]: Abrogée par le ch. II al. 2 de l’O du 26 août 2020, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).

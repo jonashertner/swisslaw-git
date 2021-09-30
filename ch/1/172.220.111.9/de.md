@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Dezember 2005 über das Personal für die Friedensför
 short: PVFMH
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/764"
 language: de
-version: 2020-10-01
+version: 2021-10-01
 adopted: 2005-12-02
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20201001/de/xml/fedlex-data-admin-ch-eli-cc-2005-764-20201001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20201001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2005-764-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20201001/de"
 
 (PVFMH)
 
-vom 2. Dezember 2005 (Stand am 1. Oktober 2020)
+vom 2. Dezember 2005 (Stand am 1. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -205,13 +205,14 @@ Eine anzustellende Person muss ein medizinisches Frageblatt ausfüllen. Sie muss
 
 <sup>1</sup> Massgebend für die Bewertung sind die erforderliche Vorbildung, der Umfang des Aufgabenkreises sowie das Mass der dienstlichen Anforderungen, Verantwortlichkeiten und Gefährdungen.
 
-<sup>2</sup> Jede Funktion wird durch das zuständige Departement einem Funktionsband und einer Lohnklasse gemäss Anhang 2 dieser Verordnung zugewiesen. Für Bewertungen der Lohnklassen 32 und höher ist die Zustimmung des EFD erforderlich.
+<sup>2</sup> Jede Funktion wird durch das zuständige Departement einer Lohnklasse zugewiesen. Für Bewertungen der Lohnklassen 32 und höher ist die Zustimmung des EFD erforderlich.[^14-1]
 
-<sup>3</sup> ...[^14-1]
+<sup>3</sup> ...[^14-2]
 
 <sup>4</sup> Für Personen, die befristet und zu Ausbildungszwecken eingesetzt werden, gelten die einschlägigen Ausführungsbestimmungen des EFD für Praktikantinnen und Praktikanten.
 
-[^14-1]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2020, mit Wirkung seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^14-2]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2020, mit Wirkung seit 1. Okt. 2020 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 15
 
@@ -605,64 +606,6 @@ Anhang 1*[^t-1]*
 - \*\*\*\* Maximal ein 20 Fuss-Container je Familie.
 - \*\*\*\*\* Enthalten in 20 Fuss-Container der Familie.
 
-Anhang 2
+Anhang 2*[^t-2]*
 
-(Art. 14 Abs. 2)
-
-## Funktionsbänder- und Lohnklassenzuteilung
-
-Funktionsband 1
-
-Referenz-Lohnklassen 4–9
-
-Angestellte mit einsatzspezifischer Ausbildung, die einfache bis schwierige angelernte Arbeiten in einem internationalen Umfeld erfüllen.
-
-Darunter fallen z.B. Chauffeure, Allrounder, Magaziner, Kuriere.
-
-Funktionsband 2
-
-Referenz-Lohnklassen 10–14
-
-Angestellte mit abgeschlossener Berufsausbildung und einsatzspezifischer Ausbildung, die einfache bis schwierige Berufsarbeiten in einem internationalen Umfeld selbständig erfüllen oder ein kleines bis mittleres Team leiten.
-
-Darunter fallen z.B. Handwerker, kaufmännische Angestellte, Pflegefachpersonen DN I, Bewachungs- und Sicherungskräfte.
-
-Funktionsband 3
-
-Referenz-Lohnklassen 15–17
-
-Angestellte mit entsprechender Ausbildung und Erfahrung und einsatzspezifischer Ausbildung, die qualifizierte Aufgaben mit erweiterten Fachkenntnissen in einem internationalen Umfeld selbständig erfüllen oder ein grösseres Team mit erweiterten Kompetenzen leiten.
-
-Darunter fallen z.B. Militärpolizist/-polizistin mit Polizeiausbildung, Pflegefachpersonen DN II, Chef/Chefin Administration, Küchenchef/-chefin.
-
-Funktionsband 4
-
-Referenz-Lohnklassen 18–21
-
-Angestellte mit entsprechender Ausbildung und Erfahrung und einsatzspezifischer Ausbildung, denen qualifizierte Fach- oder Führungsaufgaben auf militärischem, wissenschaftlichem, technischem, logistischem oder administrativem Gebiet übertragen werden, die sie in einem internationalen Umfeld selbständig erfüllen.
-
-Darunter fallen z.B. Wahlbeobachter/-beobachterin, Polizeiberater/-beraterin, Zollexperte/-expertin, Supervisor/Supervisorin Minenräumung 1, Reparaturoffizier/ ‑offizierin, Motorfahreroffizier/-offizierin.
-
-Funktionsband 5
-
-Referenz-Lohnklassen 22–25
-
-Angestellte mit entsprechender, höherer Ausbildung und Erfahrung und einsatzspezifischer Ausbildung, die als Experte/Expertin oder als Vorgesetzter/Vorgesetzte eines nationalen oder internationalen Teams eingesetzt werden und auf ihrem Spezialgebiet anspruchsvolle technische, wissenschaftliche, administrative oder militärische Aufgaben erfüllen. Diese können Beobachtung, Beratung, Analyse, Planung und Strategie, Verhandlungen mit nationalen und internationalen Behörden und Organisationen etc. beinhalten.
-
-Darunter fallen z.B. Langzeit-Wahlbeobachter/-beobachterin, Menschenrechtsbeobachter/-beobachterin, Rechtsberater/-beraterin, Koordinator/Koordinatorin Humanitäre Hilfe, Stv. Koordinator/Koordinatorin Humanitäre Hilfe, Ingenieur/Ingenieurin, Projektleiter/Projektleiterin, Polizeiberater/-beraterin, Polizeitrainer/-trainerin, Polizeireformer/-reformerin, Zollexperte/-expertin, Logistiker/in, Verbindungsoffizier/ ‑offizierin, Nachrichtenoffizier/-offizierin, Presseoffizier/-offizierin, Korea-Delegierter/-Delegierte, Militärbeobachter/-beobachterin, Militärarzt/-ärztin, Chemiker/ Chemikerin.
-
-Funktionsband 6
-
-Referenz-Lohnklassen 26–29
-
-Angestellte mit entsprechender, höherer Ausbildung und Erfahrung, einsatzspezifischer Ausbildung und ausgewiesener Fach- und Führungskompetenz, denen sehr anspruchsvolle Führungsaufgaben auf internationaler Ebene übertragen werden, oder die als international anerkannte Spezialisten/Spezialistinnen eingesetzt werden und hochqualifizierte Beratungs-, Vermittlungstätigkeiten etc. ausüben.
-
-Darunter fallen z.B. Berater/Beraterin für menschliche Sicherheit, Projektleiter/Projektleiterin Friedensförderung, Experte/Expertin für Mediation und Konfliktbearbeitung, Koordinator/Koordinatorin Humanitäre Hilfe, Wissenschaftler/Wissenschaftlerin, Polizeireformer/-reformerin, Polizeiexperte/-expertin, Polizeiführer/ ‑führerin, Zollexperte/-expertin, Kommandant/Kommandantin Swisscoy, Stellvertreter/Stellvertreterin Kommandant/Kommandantin Swisscoy, Chefarzt/Chefärztin.
-
-Funktionsband 7
-
-Referenz-Lohnklassen 30–31
-
-Angestellte mit entsprechender, höherer Ausbildung und Erfahrung, einsatzspezifischer Ausbildung und ausgewiesener Fach- und Führungskompetenz, denen die politische, fachliche, personelle und organisatorische Verantwortung über einen grossen und gewichtigen Bereich innerhalb einer internationalen Organisation oder Mission übertragen wird, oder die als hochqualifizierte, international anerkannte Spezialisten/Spezialistinnen eingesetzt werden.
-
-Darunter fallen z. B. Sonderbeauftragter/Sonderbeauftragte des UN Generalsekretärs, Wissenschaftler/Wissenschaftlerin, Polizeiexperte/-expertin, Polizeiführer/-führerin, Zollexperte/-expertin.
+[^t-2]: Aufgehoben durch Ziff. II Abs. 2 der V vom 26. Aug. 2020, mit Wirkung seit 1. Okt. 2021 ([AS 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).

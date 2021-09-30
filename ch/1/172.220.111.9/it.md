@@ -4,11 +4,11 @@ title: "Ordinanza del 2 dicembre 2005 sul personale impiegato per la promozione 
 short: OPers-PRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/764"
 language: it
-version: 2020-10-01
+version: 2021-10-01
 adopted: 2005-12-02
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20201001/it/xml/fedlex-data-admin-ch-eli-cc-2005-764-20201001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20201001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/764/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2005-764-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/764/20201001/it"
 
 (OPers-PRA)
 
-del 2 dicembre 2005 (Stato 1° ottobre 2020)
+del 2 dicembre 2005 (Stato 1° ottobre 2021) (Stato 1° ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -205,13 +205,14 @@ La persona in via d’assunzione deve compilare un questionario medico. Deve sot
 
 <sup>1</sup> I criteri determinanti per la valutazione della funzione sono la formazione preliminare richiesta, l’entità dei compiti e il livello delle esigenze, responsabilità e rischi inerenti alla funzione.
 
-<sup>2</sup> Il dipartimento competente assegna ogni funzione a una fascia di funzione e a una classe di stipendio conformemente all’allegato 2 della presente ordinanza. La valutazione delle funzioni della classe di stipendio 32 o di una classe superiore sottostà all’approvazione del DFF.
+<sup>2</sup> Il dipartimento competente assegna ogni funzione a una classe di stipendio. La valutazione delle funzioni della classe di stipendio 32 o di una classe superiore sottostà all’approvazione del DFF.[^14-1]
 
-<sup>3</sup> ... [^14-1]
+<sup>3</sup> ... [^14-2]
 
 <sup>4</sup> Per le persone impiegate a tempo determinato e a scopo di formazione, valgono le disposizioni del DFF per i praticanti.
 
-[^14-1]: Abrogato dal n. I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del 26 ago. 2020, in vigore dal 1° ott. 2021 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
+[^14-2]: Abrogato dal n. I dell’O del 26 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
 
 #### Art. 15
 
@@ -601,64 +602,6 @@ Allegato 1*[^t-1]*
 - \*\*\*\* Massimo un container da 20 piedi per famiglia.
 - \*\*\*\*\* Contenuto nel container da 20 piedi della famiglia.
 
-Allegato 2
+Allegato 2*[^t-2]*
 
-(art. 14 cpv. 2)
-
-## Assegnazione alle fasce di funzione e alle classi di stipendio
-
-### Fascia di funzione 1
-
-Classi di stipendio di riferimento 4–9
-
-Impiegati con formazione specifica che sono chiamati a svolgere, in un contesto internazionale, lavori più o meno difficili per i quali è necessaria una formazione.
-
-Ne fanno parte ad esempio autisti, allrounder, magazzinieri, corrieri.
-
-### Fascia di funzione 2
-
-Classi di stipendio di riferimento 10–14
-
-Impiegati che hanno assolto una formazione professionale e con formazione specifica, che sono chiamati a svolgere, in un contesto internazionale e in modo indipendente, lavori professionali più o meno difficili oppure che dirigono un gruppo di piccole o medie dimensioni.
-
-Ne fanno parte ad esempio artigiani, impiegati di commercio, personale infermieristico ND I, personale di vigilanza e di sicurezza.
-
-### Fascia di funzione 3
-
-Classi di stipendio di riferimento 15–17
-
-Impiegati con formazione ed esperienza necessarie e con formazione specifica, che sono chiamati a svolgere, in un contesto internazionale e in modo indipendente, lavori qualificati per i quali sono richieste estese competenze tecniche oppure che dirigono un gruppo più grande con competenze estese.
-
-Ne fanno parte ad esempio agenti della polizia militare con una formazione di polizia, personale infermieristico ND II, capi del servizio amministrativo, capo cuochi.
-
-### Fascia di funzione 4
-
-Classi di stipendio di riferimento 18–21
-
-Impiegati con formazione ed esperienza necessarie e con formazione specifica, ai quali sono affidati compiti tecnici o dirigenziali qualificati in ambito militare, scientifico, tecnico, logistico o amministrativo, che svolgono in modo indipendente in un contesto internazionale.
-
-Ne fanno parte ad esempio osservatori elettorali, consulenti di polizia, periti doganali, supervisori allo sminamento 1, ufficiali di riparazioni, ufficiali automobilisti.
-
-### Fascia di funzione 5
-
-Classi di stipendio di riferimento 22–25
-
-Impiegati con formazione superiore ed esperienza necessarie e con formazione specifica, chiamati a svolgere in qualità di esperti o capi di un gruppo nazionale o internazionale impegnativi compiti tecnici, scientifici, amministrativi o militari nel loro settore specializzato. Possono essere chiamati a svolgere funzioni di osservazione, consulenza, analisi, pianificazione e strategia o a condurre negoziati con autorità e organizzazioni nazionali e internazionali.
-
-Ne fanno parte ad esempio osservatori elettorali in missione di lunga durata, osservatori dei diritti dell’uomo, consulenti giuridici, coordinatori dell’aiuto umanitario, coordinatori sostituti dell’aiuto umanitario, ingegneri, capiprogetto, consulenti di polizia, istruttori di polizia, specialisti nella riforma della polizia, periti doganali, specialisti in logistica, ufficiali di collegamento, ufficiali informatori, ufficiali stampa, delegati in Corea, osservatori militari, medici militari, chimici.
-
-### Fascia di funzione 6
-
-Classi di stipendio di riferimento 26–29
-
-Impiegati con formazione superiore ed esperienza necessarie, con formazione specifica e provate competenze tecniche e dirigenziali, ai quali sono affidate funzioni direttive molto impegnative a livello internazionale o che intervengono in qualità di specialisti riconosciuti internazionalmente e svolgono attività di consulenza, di mediazione ecc. altamente qualificate.
-
-Ne fanno parte ad esempio consulenti per la sicurezza umana, capiprogetto per operazioni di promozione della pace, esperti in mediazione e gestione dei conflitti, coordinatori dell’aiuto umanitario, scienziati, specialisti nella riforma della polizia, esperti di polizia, capi di polizia, periti doganali, il comandante di Swisscoy, il comandante sostituto di Swisscoy, il medico capo.
-
-### Fascia di funzione 7
-
-Classi di stipendio di riferimento 30–31
-
-Impiegati con formazione superiore ed esperienza necessarie, con formazione specifica e provate competenze tecniche e dirigenziali, ai quali è affidata la responsabilità politica, tecnica, organizzativa e in materia di personale di un vasto e importante settore in seno a un’organizzazione a una missione internazionale, o che intervengono in qualità di specialisti altamente qualificati riconosciuti internazionalmente.
-
-Ne fanno parte ad esempio rappresentanti speciali del Segretario generale dell’ONU, scienziati, esperti di polizia, capi di polizia, periti doganali.
+[^t-2]: Abrogato dal n. II cpv. 2 dell’O del 26 ago. 2020, con effetto dal 1° ott. 2021 ([RU 2020 3717](https://fedlex.data.admin.ch/eli/oc/2020/677)).
