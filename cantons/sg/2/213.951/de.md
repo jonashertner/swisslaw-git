@@ -3,20 +3,20 @@ canton: SG
 number: "213.951"
 title: Verordnung über die Anerkennung und Finanzierung von privaten Sonderschulen (Sonderschulverordnung)
 language: de
-version: 2015-01-01
-valid_until: 2021-09-30
-version_adopted: 2015-02-03
+version: 2021-10-01
+valid_until: 2023-04-30
+version_adopted: 2021-06-29
 adopted: 2015-02-03
 in_force: 2015-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.951"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1831/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Anerkennung und Finanzierung von privaten Sonderschulen (Sonderschulverordnung)
 
-vom 03.02.2015 (Stand 01.01.2015)
+vom 03.02.2015 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen erlässt
 
@@ -408,7 +408,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Ersatzinvestitionen, die durch die Pauschale Infrastruktur oder den Infrastrukturfonds finanziert werden und den Betrag von Fr. 100 000.– je Objekt übersteigen, unterliegen der Genehmigung des Bildungsdepartementes.
 
-<sup>2</sup> Das Bildungsdepartement prüft unter Beizug des Baudepartementes die Betriebsnotwendigkeit und Zweckmässigkeit der Ersatzinvestitionen. Es verfügt Anpassungen am Bauprojekt, soweit dies zur Erfüllung der Leistungsvereinbarung nötig ist.
+<sup>2</sup> Das Bildungsdepartement prüft unter Beizug des Bau- und Umweltdepartementes die Betriebsnotwendigkeit und Zweckmässigkeit der Ersatzinvestitionen. Es verfügt Anpassungen am Bauprojekt, soweit dies zur Erfüllung der Leistungsvereinbarung nötig ist.
 
 ### 4. Darlehen
 
