@@ -3,13 +3,13 @@ canton: BS
 number: RiE 152.100
 title: Geschäftsordnung des Einwohnerrats der Einwohnergemeinde Riehen
 language: de
-version: 2018-06-14
-valid_until: 2021-09-30
-version_adopted: 2018-04-25
+version: 2021-10-01
+valid_until: 2022-12-31
+version_adopted: 2021-04-28
 adopted: 2002-10-24
 in_force: 2003-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4449/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5326/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4449/pdf_file"
 
 Geschäftsordnung des Einwohnerrates | Riehen: Einwohnergemeinde
 
-Vom 24. Oktober 2002 (Stand 14. Juni 2018)
+Vom 24. Oktober 2002 (Stand 1. Oktober 2021)
 
 Der Einwohnerrat der Einwohnergemeinde Riehen
 
@@ -120,7 +120,7 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 **Konstituierende Sitzung**
 
-<sup>1</sup> Zu Beginn einer Amtsperiode versammelt sich der Einwohnerrat zur konstituierenden Sitzung. Diese wird bis zur Wahl der Präsidentin oder des Präsidenten vom an Lebensjahren ältesten Mitglied geleitet.
+<sup>1</sup> Zu Beginn einer neuen Amtsperiode versammelt sich der Einwohnerrat zur konstituierenden Sitzung. Diese wird bis und mit der Wahl der Präsidentin oder des Präsidenten gemeinsam vom an Lebensjahren ältesten sowie an Lebensjahren jüngsten anwesenden Mitglied geleitet. Sie halten ihre Ansprache in alphabetischer Reihenfolge. Das Mitglied, das als zweites gesprochen hat, führt die Wahl der Präsidentin oder des Präsidenten durch.
 
 #### § 12
 
