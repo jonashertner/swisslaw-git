@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2021-07-01
+version: 2021-10-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210701/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (Etat le 1<sup>er</sup> juillet 2021)
+du 31 août 1983 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -30,7 +30,7 @@ arrête:
 [^ingress-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
-## Titre 1 Applicabilité de la LPGA
+## Titre 1**** Applicabilité de la LPGA****
 
 [^tit1-1][^tit1-2]
 
@@ -67,7 +67,7 @@ Sont réputées mesures collectives relatives au marché du travail au sens de l
 [^1a-1]: Anciennement art.1
 [^1a-2]: Introduit par le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
-## Titre 1*a* Cotisations
+## Titre 1*a***** Cotisations
 
 [^tit1a-1]
 
@@ -508,7 +508,7 @@ Il y a exception au sens de l’art. 16, al. 2, let. i, LACI en particulier lors
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-### Section 2 Inscription, conseil et contrôle
+### Section 2 Inscription, conseil et contrôle****
 
 [^tit2-chap1-sec2-1]
 
@@ -1188,7 +1188,7 @@ Il y a faute grave lorsque, sans motif valable, l’assuré:
 <sup>4</sup> et <sup>5</sup> ...[^46-2]
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Abrogés par le ch. I de l’O du 26 août 2020, avec effet du 1<sup>er</sup> sept. 2020 au 30 sept. 2021 ([RO 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^46-2]: Abrogés par le ch. I de l’O du 26 août 2020, avec effet du 1<sup>er</sup> sept. 2020 au 31 déc. 2021 ([RO 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)).
 
 #### Art. 46a
 
@@ -1522,7 +1522,7 @@ Le montant des cotisations patronales AVS/AI/APG/AC versées pour les heures per
 
 Le revenu tiré d’une occupation provisoire n’est pas pris en compte pour le calcul de la perte de gain.
 
-[^63-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 30 sept. 2021 ([RO 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^63-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 31 déc. 2021 ([RO 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)).
 
 #### Art. 64
 
@@ -1794,7 +1794,7 @@ La caisse n’est autorisée à engager des procédures pouvant entraîner des f
 
 <sup>2</sup> Lorsque l’exigibilité de la créance est douteuse ou qu’il faut s’attendre à des complications sans rapport avec le résultat escompté, l’organe de compensation de l’assurance-chômage peut autoriser la caisse à renoncer à faire valoir la créance.
 
-### Chapitre 5 Mesures relatives au marché du travail
+### Chapitre 5 Mesures relatives au marché du travail****
 
 [^tit2-chap5-1]
 
@@ -2595,7 +2595,7 @@ Si l’employeur perçoit abusivement l’indemnité allouée en cas de réducti
 
 <sup>3</sup> L’organe de compensation annule la décision lorsque, sur recours du bénéficiaire de prestations, il a été décidé définitivement que le versement était légal ou n’était pas indubitablement erroné.
 
-[^114-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011, à l'exception de l'al. 2 qui entre en vigueur le 1<sup>er</sup> avr. 2011 ([RO 2010 5529](https://fedlex.data.admin.ch/eli/oc/2010/791)).
+[^114-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011, à l’exception de l’al. 2 qui entre en vigueur le 1<sup>er</sup> avr. 2011 ([RO 2010 5529](https://fedlex.data.admin.ch/eli/oc/2010/791)).
 
 #### Art. 114a
 
@@ -3142,19 +3142,19 @@ L’ordonnance du 25 février 1986 sur les décisions en cas de recours concerna
 
 [^132-1]: [RO 2011 1241](https://fedlex.data.admin.ch/eli/oc/2011/184)
 
-## Disposition finale de la modification du 25 avril 1985
+## Disposition finale de la modification du 25 avril 1985****
 
 [^u1-1]
 
 [^u1-1]: [RO 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648). Abrogée par le ch. IV 55 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 6 novembre 1996
+## Dispositions finales de la modification du 6 novembre 1996****
 
 [^u2-1]
 
 [^u2-1]: [RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071). Abrogées par le ch. IV 55 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposition transitoire de la modification du 2 mars 2012
+## Disposition transitoire de la modification du 2 mars 2012****
 
 [^u3-1]
 
@@ -3165,7 +3165,7 @@ L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norv
 [^u3-2]: [RO 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Annexe[^t-1]
+Annexe*[^t-1]*
 
 (art. 41*c*, al. 9)
 

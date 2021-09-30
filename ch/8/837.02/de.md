@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2021-07-01
+version: 2021-10-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20211001/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210701/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. Juli 2021)
+vom 31. August 1983 (Stand am 1. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -30,7 +30,7 @@ verordnet:
 [^ingress-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
-## Erster Titel: Anwendbarkeit des ATSG
+## Erster Titel:**** Anwendbarkeit des ATSG****
 
 [^tit1-1][^tit1-2]
 
@@ -67,7 +67,7 @@ Als kollektive arbeitsmarktliche Massnahmen im Sinne von Artikel 1 Absatz 3 AVIG
 [^1a-1]: Ursprünglich: Art. 1.
 [^1a-2]: Eingefügt durch Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
-## Titel 1*a*: Beiträge
+## Titel 1*a*:**** Beiträge
 
 [^tit1a-1]
 
@@ -508,7 +508,7 @@ Ausnahmefälle nach Artikel 16 Absatz 2 Buchstabe i AVIG liegen insbesondere vor
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-### 2. Abschnitt: Anmeldung, Beratung und Kontrolle
+### 2. Abschnitt: Anmeldung, Beratung und Kontrolle****
 
 [^tit2-chap1-sec2-1]
 
@@ -1179,7 +1179,7 @@ Ein schweres Verschulden liegt vor, wenn die versicherte Person ohne entschuldba
 <sup>4</sup> und <sup>5</sup> ...[^46-2]
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2020, mit Wirkung vom 1. Sept. 2020 bis zum 30. Sept. 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^46-2]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2020, mit Wirkung vom 1. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)).
 
 #### Art. 46a
 
@@ -1510,7 +1510,7 @@ Die auf die Ausfallzeiten entfallenden Arbeitgeberbeiträge an die AHV/IV/ EO/ A
 
 Das Einkommen aus Zwischenbeschäftigung wird bei der Berechnung des Verdienstausfalls nicht angerechnet.
 
-[^63-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft vom 1. Sept. 2020 bis zum 30. Sept. 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^63-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft vom 1. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382), [593](https://fedlex.data.admin.ch/eli/oc/2021/593)).
 
 #### Art. 64
 
@@ -3145,7 +3145,7 @@ In Bezug auf Island, Liechtenstein, und Norwegen gilt bis zum Inkrafttreten der 
 [^u3-2]: [AS 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Anhang[^t-1]
+Anhang*[^t-1]*
 
 (Art. 41*c* Abs. 9)
 
