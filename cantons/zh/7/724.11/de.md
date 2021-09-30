@@ -4,11 +4,11 @@ number: "724.11"
 title: Wasserverordnung (WsV)
 short: WsV
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2021-10-01
+version: "2021-10-01"
+nachtrag: "114"
+valid_until: 2026-06-01
 adopted: 2025-07-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-724_11-1991_06_02-1993_01_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-724_11-1991_06_02-1993_01_01-114.html"
 text: pdf
 ---
 
@@ -16,13 +16,15 @@ text: pdf
 
 # Wasserwirtschaftsgesetz (WWG)<sup>13</sup>
 
-(vom 2. Juni 1991)<sup>1</sup>
+(vom 2. Juni 1991)[^t-1]
 
 I. Allgemeine Bestimmungen
 
 **Geltungsbereich**
 
 § 1. Dieses Gesetz regelt den Hochwasserschutz, die Wasserbaupolizei, die Nutzung der Gewässer und die Wasserversorgung.
+
+[^t-1]: OS 51, 707.
 
 #### § 2
 
@@ -56,15 +58,17 @@ I. Allgemeine Bestimmungen
 
 Oberflächengewässer wie Seen, Teiche, Flüsse und Bäche umfassen das Bett mit Uferböschungen, Vorländern und Dämmen einschliesslich des darin stehenden oder fliessenden Wassers, das darunter liegende Erdreich und die Luftsäule. Das Gewässerbett besteht aus der dauernd oder regelmässig von Wasser überdeckten Landoberfläche.
 
+[^3-1]: SR 210.
+
 #### § 4
 
 **Grundwasser**
 
-Grundwasser ist das im Erdinnern befindliche Wasser. Es wird zur Quelle im Sinne von Art. 704 ZGB<sup>5</sup>, sobald es auf natürliche Weise an die Oberfläche tritt.
+Grundwasser ist das im Erdinnern befindliche Wasser. Es wird zur Quelle im Sinne von Art. 704 ZGB[^3-1], sobald es auf natürliche Weise an die Oberfläche tritt.
 
 **1**
 
-- 1\. 1. 18 - 99 § 5. <sup>1</sup> Grundwasser sowie offene und eingedolte Oberflächengewässer sind öffentlich, soweit an ihnen nicht Privateigentum nachgewiesen wird. In Drainageleitungen abgeleitetes Grundwasser bleibt öffentliches Wasser.
+1.10. 21 - 114 § 5. <sup>1</sup> Grundwasser sowie offene und eingedolte Oberflächengewässer sind öffentlich, soweit an ihnen nicht Privateigentum nachgewiesen wird. In Drainageleitungen abgeleitetes Grundwasser bleibt öffentliches Wasser.
 
 **Öffentliche Gewässer und öffentliches Wasser**
 
@@ -114,7 +118,10 @@ Die öffentlichen Oberflächengewässer werden vom Staat bezeichnet und in einem
 
 <sup>1</sup> Das Enteignungsrecht steht dem Regierungsrat zu. Er kann es im Einzelfall Gemeinden, andern Korporationen des öffentlichen Rechtes, Zweckverbänden und – sofern sie im öffentlichen Interesse liegen – privaten Unternehmungen gewähren.
 
-<sup>2</sup> Im Übrigen sind die Bestimmungen des kantonalen Enteignungsrechtes<sup>4</sup> anwendbar, soweit nicht Bundesrecht<sup>6</sup> gilt.
+<sup>2</sup> Im Übrigen sind die Bestimmungen des kantonalen Enteignungsrechtes[^10-1] anwendbar, soweit nicht Bundesrecht[^10-2] gilt.
+
+[^10-1]: LS 781.
+[^10-2]: SR 711.
 
 #### § 11
 
@@ -148,7 +155,7 @@ Gewässerunterhalt, Gewässerausbau, Rückhaltung von Abflussspitzen, Entlastung
 
 **3**
 
-- 1\. 1. 18 - 99 § 14. <sup>1</sup> Die Kostentragung für Hochwasserschutzmassnahmen richtet sich in der Regel nach den Zuständigkeiten gemäss § 13.
+1.10. 21 - 114 § 14. <sup>1</sup> Die Kostentragung für Hochwasserschutzmassnahmen richtet sich in der Regel nach den Zuständigkeiten gemäss § 13.
 
 **Kostentragung**
 
@@ -162,9 +169,11 @@ Gewässerunterhalt, Gewässerausbau, Rückhaltung von Abflussspitzen, Entlastung
 
 **Förderung a. Grundsatz**
 
-§ 15.<sup>17</sup> <sup>1</sup> Der Staat kann Hochwasserschutzmassnahmen, Ausdolungen von Gewässern sowie Massnahmen zur Renaturierung von Gewässern mit Subventionen bis zu 30% der anrechenbaren Kosten fördern.
+§ 15.<sup>23</sup> <sup>1</sup> Der Staat kann Hochwasserschutzmassnahmen, Ausdolungen von Gewässern sowie Massnahmen zur Renaturierung von Gewässern unabhängig von Bundesbeiträgen mit Subventionen bis zu 30% der anrechenbaren Kosten fördern.
 
-<sup>2</sup> Der Regierungsrat regelt die Einzelheiten.
+<sup>2</sup> Für Massnahmen zur Renaturierung von Gewässern kann er zudem Subventionen aus dem Natur- und Heimatschutzfonds ausrichten.
+
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten.
 
 **b. Rahmenkredit für Gewässerrenaturierungen**
 
@@ -194,7 +203,7 @@ Gewässerunterhalt, Gewässerausbau, Rückhaltung von Abflussspitzen, Entlastung
 
 § 18 a.<sup>9</sup> <sup>1</sup> Der Gemeindevorstand<sup>22</sup> legt staatliche und kommunale Projekte für bauliche Veränderungen von Oberflächengewässern vor ihrer Festsetzung während 30 Tagen öffentlich auf und macht die Planauflage öffentlich bekannt. Die Projekte sind soweit darstellbar auszustecken.
 
-<sup>2</sup> Gegen das Projekt kann innerhalb der Auflagefrist Einsprache erhoben werden. Die Legitimation bestimmt sich nach der Rekurs- und Beschwerdelegitimation gemäss Verwaltungsrechtspflegegesetz<sup>2</sup>. In ihren schutzwürdigen Interessen berührte Gemeinden haben ein selbstständiges Einspracherecht.
+<sup>2</sup> Gegen das Projekt kann innerhalb der Auflagefrist Einsprache erhoben werden. Die Legitimation bestimmt sich nach der Rekurs- und Beschwerdelegitimation gemäss Verwaltungsrechtspflegegesetz[^18-1]. In ihren schutzwürdigen Interessen berührte Gemeinden haben ein selbstständiges Einspracherecht.
 
 <sup>3</sup> Mit der Einsprache können alle Mängel des Projekts gerügt werden. Mit der Bekanntmachung der Auflage kann unter persönlicher Anzeige angeordnet werden, dass Einsprachen gegen die Enteignung sowie Entschädigungsbegehren, Bestreitungen von Beitragsforderungen und Begehren um Durchführung von Anpassungsarbeiten innert der Auflagefrist eingereicht werden müssen; die zusätzlich nötigen Projektunterlagen sind mit aufzulegen.
 
@@ -204,15 +213,21 @@ Gewässerunterhalt, Gewässerausbau, Rückhaltung von Abflussspitzen, Entlastung
 
 <sup>5</sup> Über Einsprachen wird mit der Festsetzung entschieden. Wer es unterlassen hat, Einsprache zu erheben, kann den Entscheid nicht anfechten.<sup>20</sup>
 
+**5**
+
+1.10. 21 - 114
+
 <sup>6</sup> Bei Bauvorhaben von untergeordneter Bedeutung kann auf das Einspracheverfahren verzichtet werden. In diesen Fällen sind Begehren um Projektänderung im Enteignungsverfahren zulässig.
 
 <sup>7</sup> Der Regierungsrat kann die Einzelheiten des Verfahrens durch Verordnung regeln.
 
-**5**
+[^18-1]: LS 175.2.
 
-- 1\. 1. 18 - 99 § 19. <sup>1</sup> Die Bewilligung wird mit Auflagen versehen, welche den Unterhalt nach Art und Umfang dem Bewilligungsinhaber überbinden.
+#### § 19
 
 **b. Übertragung der Unterhaltspflicht**
+
+<sup>1</sup> Die Bewilligung wird mit Auflagen versehen, welche den Unterhalt nach Art und Umfang dem Bewilligungsinhaber überbinden.
 
 <sup>2</sup> Anstelle der Unterhaltspflicht kann dem Bewilligungsinhaber eine einmalige oder wiederkehrende Kostenbeteiligung auferlegt werden, wenn das zuständige Gemeinwesen den Unterhalt selbst ausübt.
 
@@ -226,7 +241,9 @@ Gewässerunterhalt, Gewässerausbau, Rückhaltung von Abflussspitzen, Entlastung
 
 <sup>3</sup> Gibt die konzessionierte oder bewilligte Baute oder Anlage zu Missständen Anlass oder erfordert es ein erhebliches öffentliches Interesse, kann die zuständige Behörde verlangen, dass die notwendigen Änderungen, Ergänzungen oder die Beseitigung auf Kosten des Konzessions- oder Bewilligungsinhabers durchgeführt werden.
 
-<sup>4</sup> Die zuständige Behörde kann anstelle solcher Anordnungen entsprechende Ersatzabgaben verlangen, deren Höhe sich nach den Kosten jener Massnahmen richtet, die der Konzessions- oder Bewilligungsinhaber zur Anpassung seiner Anlage zu tragen hätte. Streitigkeiten über solche Abgaben werden im Verfahren gemäss dem kantonalen Enteignungsrecht<sup>4</sup> entschieden.
+<sup>4</sup> Die zuständige Behörde kann anstelle solcher Anordnungen entsprechende Ersatzabgaben verlangen, deren Höhe sich nach den Kosten jener Massnahmen richtet, die der Konzessions- oder Bewilligungsinhaber zur Anpassung seiner Anlage zu tragen hätte. Streitigkeiten über solche Abgaben werden im Verfahren gemäss dem kantonalen Enteignungsrecht[^20-1] entschieden.
+
+[^20-1]: LS 781.
 
 #### § 21
 
@@ -280,15 +297,11 @@ Trinkwasser ist haushälterisch zu verwenden. Es ist in der Regel nur über Mess
 
 <sup>5</sup> Sie erlassen ein Reglement über die Wasserversorgung.
 
-#### § 28
-
-**Private Wasserversorgungsunternehmen**
-
-<sup>1</sup> Die Aufgaben der Gemeinden gemäss § 27 Abs. 1 und 2 können von privaten Wasserversorgungsunternehmen wahrgenommen werden.
-
 **7**
 
-- 1\. 1. 18 - 99
+1.10. 21 - 114 § 28. <sup>1</sup> Die Aufgaben der Gemeinden gemäss § 27 Abs. 1 und 2 können von privaten Wasserversorgungsunternehmen wahrgenommen werden.
+
+**Private Wasserversorgungsunternehmen**
 
 <sup>2</sup> Die privaten Wasserversorgungsunternehmen können vom Regierungsrat öffentlich erklärt werden. Öffentlich erklärte Wasserversorgungsunternehmen handeln hoheitlich. Die Gemeinden werden vor der Öffentlicherklärung angehört.
 
@@ -302,11 +315,13 @@ Trinkwasser ist haushälterisch zu verwenden. Es ist in der Regel nur über Mess
 
 <sup>3</sup> Es können anstelle von Erschliessungsbeiträgen auch nur Anschluss- und Benützungsgebühren oder Benützungsgebühren allein erhoben werden.
 
-<sup>4</sup> Im Übrigen finden die Bestimmungen des Einführungsgesetzes zum Gewässerschutzgesetz<sup>3</sup> über die Beiträge und Gebühren Anwendung.
+<sup>4</sup> Im Übrigen finden die Bestimmungen des Einführungsgesetzes zum Gewässerschutzgesetz[^29-1] über die Beiträge und Gebühren Anwendung.
 
 **Kostenbeteiligung von Gemeinwesen**
 
 § 29 a.<sup>16</sup> Das kostenpflichtige Gemeinwesen kann von einem anderen Gemeinwesen, das von Wasserversorgungsanlagen von regionaler oder überregionaler Bedeutung einen besonderen Nutzen hat, angemessene Beiträge an seine Kosten verlangen.
+
+[^29-1]: LS 711.1.
 
 #### § 30
 
@@ -372,7 +387,7 @@ Die Eigentümer von Grundstücken im Einzugsbereich öffentlicher oder privater 
 
 **9**
 
-- 1\. 1. 18 - 99
+1.10. 21 - 114
 
 <sup>2</sup> Der Vorentscheid ist hinsichtlich der behandelten Fragen in gleicher Weise verbindlich, gültig oder öffentlich-rechtlich anfechtbar wie wasserrechtliche Konzessionen und Bewilligungen. Die Gültigkeitsdauer eines Vorentscheids beträgt zwei Jahre.
 
@@ -464,7 +479,7 @@ Die Erteilung von Konzessionen und Bewilligungen kann von der Leistung einer ang
 
 **11**
 
-- 1\. 1. 18 - 99 § 48. Nimmt jemand eine Nutzung ohne Konzession oder Bewilligung vor, kann die ordentliche Gebühr für diese Zeit bis auf das Dreifache erhöht werden, auch wenn die Nutzung nachträglich konzessioniert oder bewilligt wird.
+1.10. 21 - 114 § 48. Nimmt jemand eine Nutzung ohne Konzession oder Bewilligung vor, kann die ordentliche Gebühr für diese Zeit bis auf das Dreifache erhöht werden, auch wenn die Nutzung nachträglich konzessioniert oder bewilligt wird.
 
 #### § 49
 
@@ -560,7 +575,7 @@ Der Staat ist berechtigt, das eingeräumte Recht einschliesslich der Anlagen nac
 
 **13**
 
-- 1\. 1. 18 - 99 § 60. <sup>1</sup> Ein Konzessionär kann bei Vorliegen wichtiger Bedürfnisse eines anderen Berechtigten in der Ausübung seines Rechts eingeschränkt werden, wenn dies gesamthaft im öffentlichen Interesse liegt.
+1.10. 21 - 114 § 60. <sup>1</sup> Ein Konzessionär kann bei Vorliegen wichtiger Bedürfnisse eines anderen Berechtigten in der Ausübung seines Rechts eingeschränkt werden, wenn dies gesamthaft im öffentlichen Interesse liegt.
 
 **b. Im Interesse anderer Berechtigter**
 
@@ -648,17 +663,19 @@ Der Konzessionär ist verpflichtet, das Rechengut auf eigene Kosten einer Aufber
 
 <sup>2</sup> Für die Nutzung angereicherter Grundwasservorkommen können die Gebühren nach § 47 bis auf das Doppelte erhöht werden. Davon ausgenommen sind Nutzungen für die Wasserversorgung.
 
-- 3\. Übrige Nutzungen
+**15**
+
+1.10. 21 - 114 3. Übrige Nutzungen
 
 **Konzessions- und Bewilligungspflicht**
 
 § 73. Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Wasserversorgung, für Bewässerungen, zur Speisung von Weihern und weiteren Nutzungen bedarf je nach Art einer Konzession oder einer Bewilligung der Direktion<sup>13</sup>.
 
-**15**
-
-- 1\. 1. 18 - 99 § 74. <sup>1</sup> Bei akutem Wassermangel kann die Direktion<sup>13</sup> die Gemeinden ermächtigen, vorübergehende Wasserentnahmen zu Bewässerungszwecken befristet zu bewilligen.
+#### § 74
 
 **Wassermangel**
+
+<sup>1</sup> Bei akutem Wassermangel kann die Direktion<sup>13</sup> die Gemeinden ermächtigen, vorübergehende Wasserentnahmen zu Bewässerungszwecken befristet zu bewilligen.
 
 <sup>2</sup> Sie verfügt die erforderlichen Auflagen zugunsten der Wasserlebewesen.
 
@@ -708,11 +725,13 @@ Der Konzessionär ist verpflichtet, das Rechengut auf eigene Kosten einer Aufber
 
 **Rechtsmittellegitimation**
 
-§ 78 b.<sup>19</sup> <sup>1</sup> Die Legitimation zur Erhebung von Rekurs und Beschwerde bestimmt sich nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959<sup>2</sup>.
+§ 78 b.<sup>19</sup> <sup>1</sup> Die Legitimation zur Erhebung von Rekurs und Beschwerde bestimmt sich nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959[^hVIRechtsschutzsup-1].
 
 <sup>2</sup> Rekurs- und beschwerdeberechtigt gegen Massnahmen im Sinne von § 12 und Bewilligungen in Anwendung von § 18 sind sodann Natur-, Heimat-, Umwelt- und Fischereiorganisationen sowie andere Vereinigungen, die sich statutengemäss seit wenigstens zehn Jahren gesamtkantonal mit dem Gewässerschutz und der Gewässernutzung befassen.
 
 <sup>3</sup> Gegen Rekursentscheide, welche die Anordnung einer kantonalen Instanz ganz oder teilweise aufheben, kann die zuständige Direktion zur Wahrung öffentlicher Interessen Beschwerde erheben.
+
+[^hVIRechtsschutzsup-1]: LS 175.2.
 
 ### VII.<sup>20</sup> Strafbestimmungen
 
@@ -736,27 +755,27 @@ Das Gesetz über die Gewässer (Wassergesetz) vom 15. Dezember 1901 wird aufgeho
 
 Die nachstehenden Gesetze werden wie folgt geändert:
 
-- a. Das Planungs- und Baugesetz vom 7. September 1975: . . .[^81-1]
+- a. Das Planungs- und Baugesetz vom 7. September 1975: . . .<sup>8</sup>
 
-- b. Das Verwaltungsrechtspflegegesetz vom 24. Mai 1959: . . .[^81-1]
+- b. Das Verwaltungsrechtspflegegesetz vom 24. Mai 1959: . . .<sup>8</sup>
 
-- c. Das Einführungsgesetz zum Gewässerschutzgesetz vom 8. Dezember 1974: . . .[^81-1]
+- c. Das Einführungsgesetz zum Gewässerschutzgesetz vom 8. Dezember 1974: . . .<sup>8</sup>
 
-- d. Das Einführungsgesetz zum Zivilgesetzbuch (EG zum ZGB) vom 2. April 1911: . . .[^81-1]
-
-**Übergangsbestimmungen a. Verordnungen**
-
-§ 82. Die aufgrund bisherigen Rechts erlassenen kantonalen Verordnungen bleiben, soweit sie nicht unmittelbar anwendbaren Bestimmungen dieses Gesetzes widersprechen, so lange in Kraft, bis sie durch neue Verordnungen ersetzt oder aufgehoben werden.
+- d. Das Einführungsgesetz zum Zivilgesetzbuch (EG zum ZGB) vom 2. April 1911: . . .<sup>8</sup>
 
 **17**
 
-- 1\. 1. 18 - 99 § 83. Mit Inkrafttreten dieses Gesetzes sind alle konzessions- oder bewilligungsbedürftigen Vorhaben, über welche die Konzessions- oder Bewilligungsbehörde noch nicht entschieden hat, nach den neuen Bestimmungen zu beurteilen.
+1.10. 21 - 114 § 82. Die aufgrund bisherigen Rechts erlassenen kantonalen Verordnungen bleiben, soweit sie nicht unmittelbar anwendbaren Bestimmungen dieses Gesetzes widersprechen, so lange in Kraft, bis sie durch neue Verordnungen ersetzt oder aufgehoben werden.
 
-[^81-1]: Text siehe OS 51, 719.
+#### § 83
 
-#### § 84
+**Übergangsbestimmungen a. Verordnungen**
 
 **b. Anwendbarkeit auf noch nicht erteilte Konzessionen oder Bewilligungen**
+
+Mit Inkrafttreten dieses Gesetzes sind alle konzessions- oder bewilligungsbedürftigen Vorhaben, über welche die Konzessions- oder Bewilligungsbehörde noch nicht entschieden hat, nach den neuen Bestimmungen zu beurteilen.
+
+#### § 84
 
 **c. Anwendbarkeit auf erteilte Konzessionen oder Bewilligungen**
 
@@ -777,6 +796,10 @@ Dieses Gesetz untersteht der Volksabstimmung. Der Regierungsrat bestimmt den Zei
 (OS 69, 262)
 
 Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hängigen Rechtsmittel bestimmt sich nach bisherigem Recht. Die bisherigen Zuständigkeiten gelten auch dann, wenn die Rechtsmittelfrist vor dem Inkrafttreten des neuen Rechts zu laufen begonnen hat, aber erst nachher endet. Im Übrigen findet das neue Recht auf hängige Verfahren Anwendung.
+
+<sup>8</sup> Text siehe OS 51, 719.
+
+<sup>9</sup> Eingefügt durch Verwaltungsrechtspflegegesetz vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
 
 <sup>10</sup> Fassung gemäss Verwaltungsrechtspflegegesetz vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
 
@@ -804,17 +827,8 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 
 <sup>22</sup> Fassung gemäss Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018.
 
+<sup>23</sup> Fassung gemäss G über die Finanzierung von Massnahmen für den Natur- und Heimatschutz und für Erholungsgebiete vom 14. Dezember 2020 (OS 76, 331; ABl 2019-11-29). In Kraft seit 1. Oktober 2021.
+
 **19**
 
-- 1\. 1. 18 - 99
-
-## Weitere Fussnoten
-
-- [1] OS 51, 707.
-- [2] LS 175.2.
-- [3] LS 711.1.
-- [4] LS 781.
-- [5] SR 210.
-- [6] SR 711.
-- [9] Eingefügt durch Verwaltungsrechtspflegegesetz vom 8. Juni 1997 (OS 54,
-- [268] . In Kraft seit 1. Januar 1998 (OS 54, 290).
+1.10. 21 - 114
