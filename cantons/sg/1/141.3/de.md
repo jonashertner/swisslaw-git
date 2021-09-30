@@ -4,13 +4,13 @@ number: "141.3"
 title: Geschäftsreglement der Regierung und der Staatskanzlei
 short: GeschR
 language: de
-version: 2021-08-01
-valid_until: 2021-09-30
-version_adopted: 2021-07-06
+version: 2021-10-01
+valid_until: 2023-12-31
+version_adopted: 2021-06-29
 adopted: 1951-12-07
 in_force: 1952-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3199/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3257/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3199/pdf_file"
 
 (GeschR)
 
-vom 07.12.1951 (Stand 01.08.2021)
+vom 07.12.1951 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -120,7 +120,7 @@ verordnen:[^ingress-1]
 - c) Bildungsdepartement;
 - d) …
 - e) Finanzdepartement;
-- f) Baudepartement;
+- f) Bau- und Umweltdepartement;
 - g) Sicherheits- und Justizdepartement;
 - h) Gesundheitsdepartement.
 
@@ -241,11 +241,11 @@ verordnen:[^ingress-1]
 
 #### Art. 25
 
-**Baudepartement**
+**Bau- und Umweltdepartement**
 
-<sup>1</sup> In den Geschäftskreis des Baudepartementes fallen:
+<sup>1</sup> In den Geschäftskreis des Bau- und Umweltdepartementes fallen:
 
-- a) öffentliche Strassen;
+- a) öffentliche Strassen und öffentliche Gewässer;
 - a<sup>bis</sup>) Orts-, Regional- und kantonale Planung;
 - a<sup>ter</sup>) …
 - a<sup>quater</sup>) Geoinformation und Vermessung;
@@ -253,17 +253,19 @@ verordnen:[^ingress-1]
 - c) Wasserpolizei, Flusskorrektionen und Wildbachverbauungen;
 - d) Wasserrecht;
 - d<sup>bis</sup>) Umweltschutz, einschliesslich Gewässerschutz;
+- d<sup>ter</sup>) Energierecht;
 - e) Immobilienmanagement;
-- f) Eisenbahnen, Seilbahnen und Skilifte (Konzessionen, Bauvorlagen usw.);
+- f) Eisenbahnen, Seilbahnen und Skilifte, Gewässernutzungsanlagen (Konzessionen, Bauvorlagen usw.);
 - g) Verwaltung des Strandbodens an den Seeufern;
 - h) Bau und Unterhalt von Schifffahrtsanlagen;
 - i) Badanstalten in Bad Ragaz und Pfäfers;
 - k) Bergbau;
-- l) Arbeitsbeschaffung;
+- l) …
 - m) Enteignungen zugunsten des Kantons;
 - n) Energieversorgung und -nutzung;
-- o) Bau und Unterhalt von Flugplätzen;
-- p) Abschluss und Vollzug der Grundbuchgeschäfte für die Regierung und die Departemente im Bereich des Finanz- und Verwaltungsvermögens.
+- o) …
+- p) Abschluss und Vollzug der Grundbuchgeschäfte für die Regierung und die Departemente im Bereich des Finanz- und Verwaltungsvermögens;
+- q) Klima und Nachhaltigkeit.
 
 #### Art. 26
 
