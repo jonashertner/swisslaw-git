@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-09-27
+version: 2021-10-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210927/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210927-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210927/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210927/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 27 septembre 2021)
+du 4 juin 2021 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -347,12 +347,15 @@ Un certificat de test COVID-19 est établi lors du résultat négatif:
 
 <sup>1bis</sup> L’OFSP tient à jour une liste des tests rapides SARS-CoV-2 visés à l’al. 1, let. b, et la publie sur son site Internet[^19-3].[^19-4]
 
+<sup>1ter</sup> En dérogation à l’al. 1, aucun certificat ne peut être établi pour des analyses au SARS-CoV-2 dont la Confédération prend en charge les coûts en vertu de l’annexe 6, ch. 1.1.1., let. a à e et h à j, 1.2.1, 1.4.1, let. a à e, h, i et m, 2.1.1, let. c, 2.2.1, let. c, 3.1.1, let. c, et 3.2.1, let. c, de l’ordonnance 3 COVID-19.[^19-5]
+
 <sup>2</sup> Les demandes d’établissement de certificats de test peuvent être présentées au plus tard lors du prélèvement de l’échantillon.
 
 [^19-1]: Nouvelle teneur selon le ch. IV de l’O du 25 août 2021, en vigueur depuis le 30 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^19-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Informations techniques sur les tests COVID-19
 [^19-4]: Introduit par le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-5]: Introduit par le ch. IV de l’O du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 20
 
@@ -602,7 +605,7 @@ Annexe 2*[^t-2]*
 
     pour les personnes ayant contracté le SARS-CoV-2 de manière attestée:
 
-    - 1\. le jour de l’administration de la dose unique d’un vaccin visé à la let. a,
+    - 1\. le jour de l’administration de la dose unique d’un vaccin visé à la let. a;
     - 2\. le 22<sup>e</sup> jour après l’administration de la dose unique de vaccin conformément à la let. b;
 
   - d. en cas de doses supplémentaires: le jour de l’administration de la dose supplémentaire.

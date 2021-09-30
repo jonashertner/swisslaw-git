@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-09-27
+version: 2021-10-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210927/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210927-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210927/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211001/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211001-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 27 September 2021)
+of 4 June 2021 (Status as of 1 October 2021)
 
 The Swiss Federal Council,
 
@@ -348,12 +348,15 @@ A COVID-19 test certificate shall be issued in the event of a negative result of
 
 <sup>1bis</sup> The FOPH shall maintain an updated list of Sars-CoV-2 rapid tests in accordance with paragraph 1 letter b, and publish it on its website[^19-3].[^19-4]
 
+<sup>1ter</sup> In derogation from paragraph 1, no certificates shall be issued for analyses for Sars-Cov-2 in respect of which the Confederation pays the costs in accordance with Annex 6 numbers 1.1.1 letters a–e and h–j, 1.2.1, 1.4.1 letters a–e, h, i and m, 2.1.1 letter c, 2.2.1 letter c, 3.1.1 letter c and 3.2.1 letter c of the Covid-19 Ordinance 3.[^19-5]
+
 <sup>2</sup> Requests for test certificates may be submitted at the latest when the sample is taken.
 
 [^19-1]: Amended by No IV of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^19-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Diseases &gt; Infectious diseases: Outbreaks, Epidemics, Pandemics &gt; Current outbreaks and epidemics &gt; Coronavirus &gt; Information for healthcare professionals &gt; Specialist information on COVID-19 testing
 [^19-4]: Inserted by No I of the O of 30 June 2021, in force since 3 July 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-5]: Inserted by No IV of the O of 25 Aug. 2021, in force since 1 Oct. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 20
 
@@ -693,7 +696,7 @@ Annex 5*[^t-4]*
   - b. is authorised in accordance with the WHO emergency use listing procedure; or
   - c. has been shown to have the same composition as a vaccine licensed under letter a or b but is marketed by a licence holder under a different name and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
-### Other recognised certificates
+### 2 Other recognised certificates
 
 [^annex5-lvlu1-lvl1-1]: Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic, as amended by OJ L 211, 15.6.2021, p. 1.
 

@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-09-27
+version: 2021-10-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210927/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210927-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210927/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210927/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 27 settembre 2021)
+del 4 giugno 2021 (Stato 1° ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -347,11 +347,14 @@ Un certificato di test COVID-19 è emesso in caso di risultato negativo di:
 
 <sup>1bis</sup> In deroga al capoverso 1, non può essere emesso il certificato per le analisi SARS-CoV-2 di cui la Confederazione assume le spese secondo l’allegato 6 numeri 1.1.1 lettere a–e h–j, 1.2.1, 1.4.1 lettere a–e, h, i e m, 2.1.1 lettera c, 2.2.1 lettera c, 3.1.1 lettera c nonché 3.2.1 lettera c dell’ordinanza 3 COVID-19.[^19-3]
 
+<sup>1ter</sup> In deroga al capoverso 1, non può essere emesso il certificato per le analisi SARS-CoV-2 di cui la Confederazione assume le spese secondo l’allegato 6 numeri 1.1.1 lettere a–e h–j, 1.2.1, 1.4.1 lettere a–e, h, i e m, 2.1.1 lettera c, 2.2.1 lettera c, 3.1.1 lettera c nonché 3.2.1 lettera c dell’ordinanza 3 COVID-19.[^19-4]
+
 <sup>2</sup> Le richieste per l’emissione di certificati di test possono essere presentate al più tardi al momento del prelievo del campione.
 
 [^19-1]: Nuovo testo giusta il n. IV dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^19-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: Introdotto dal n. I dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)). Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^19-4]: Introdotto dal n. IV dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 20
 
@@ -588,7 +591,7 @@ Allegato 2*[^t-2]*
 
 ## Disposizioni particolari sui certificati di vaccinazione COVID-19
 
-[^t-2]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) e dai n. II delle O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) e del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^t-2]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), dai n. II delle del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) e del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Inizio e durata massima della validità
 
@@ -622,10 +625,10 @@ Allegato 2*[^t-2]*
 
 Una vaccinazione con una combinazione di due dosi di vaccini diversi è considerata completa con le seguenti combinazioni:
 
-- a. Prima vaccinazione: Comirnaty / seconda vaccinazione: Spikevax;
-- b. Prima vaccinazione: Spikevax / seconda vaccinazione: Comirnaty;
-- c. Prima vaccinazione: Vaxzevria (o un prodotto su licenza di questo vaccino) / seconda vaccinazione: Spikevax;
-- d. Prima vaccinazione: Vaxzevria (o un prodotto su licenza di questo vaccino) / seconda vaccinazione: Comirnaty.
+- a. Prima vaccinazione: Comirnaty / seconda vaccinazione: Spikevax
+- b. Prima vaccinazione: Spikevax / seconda vaccinazione: Comirnaty
+- c. Prima vaccinazione: Vaxzevria (o un prodotto su licenza di questo vaccino) / seconda vaccinazione: Spikevax
+- d. Prima vaccinazione: Vaxzevria (o un prodotto su licenza di questo vaccino) / seconda vaccinazione: Comirnaty
 
 Allegato 3
 
@@ -682,7 +685,7 @@ Allegato 5*[^t-4]*
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
-- 1\.1 Sono riconosciuti i certificati di vaccinazione, di guarigione e di test emessi da uno Stato membro dell’UE o dell’AELS secondo il Regolamento (UE) 2021/953[^annex5-lvlu1-lvl1-1] e gli atti giuridici dell’UE adottati sulla base di tale regolamento.
+- 1\.1. Sono riconosciuti i certificati di vaccinazione, di guarigione e di test emessi da uno Stato membro dell’UE o dell’AELS secondo il Regolamento (UE) 2021/953[^annex5-lvlu1-lvl1-1] e gli atti giuridici dell’UE adottati sulla base di tale regolamento.
 - 1\.2
 
   I certificati di vaccinazione sono riconosciuti soltanto se sono stati emessi per le vaccinazioni con un vaccino che:

@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-09-27
+version: 2021-10-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210927/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210927-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210927/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210927/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 27. September 2021)
+vom 4. Juni 2021 (Stand am 1. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -347,12 +347,15 @@ Ein Covid-19-Testzertifikat wird ausgestellt bei einem negativen Ergebnis:
 
 <sup>1bis</sup> Das BAG führt eine aktualisierte Liste der Sars-CoV-2-Schnelltests nach Absatz 1 Buchstabe b und veröffentlicht sie auf seiner Website[^19-3].[^19-4]
 
+<sup>1ter</sup> In Abweichung von Absatz 1 dürfen für Analysen auf Sars-Cov-2, bei denen der Bund nach Anhang 6 Ziffern 1.1.1 Buchstaben a–e und h–j, 1.2.1, 1.4.1 Buchstaben a–e, h, i und m, 2.1.1 Buchstabe c, 2.2.1 Buchstabe c, 3.1.1 Buchstabe c sowie 3.2.1 Buchstabe c der Covid-19-Verordnung 3 die Kosten übernimmt, keine Zertifikate ausgestellt werden.[^19-5]
+
 <sup>2</sup> Anträge auf Ausstellung von Testzertifikaten können spätestens anlässlich der Probeentnahme gestellt werden.
 
 [^19-1]: Fassung gemäss Ziff. IV der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^19-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Fachinformationen über die Covid-19-Testung.
 [^19-4]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-5]: Eingefügt durch Ziff. IV der V vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 20
 
@@ -559,7 +562,7 @@ Anhang 1*[^t-1]*
 
 ## Allgemeiner Inhalt der Covid-19-Zertifikate
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Angaben zur Inhaberin oder zum Inhaber
 
@@ -587,7 +590,7 @@ Anhang 2*[^t-2]*
 
 ## Besondere Bestimmungen über Covid-19-Impfzertifikate
 
-[^t-2]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^t-2]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
