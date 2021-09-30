@@ -3,20 +3,19 @@ canton: SG
 number: "141.31"
 title: Regierungsratsbeschluss über die Übertragung von Befugnissen des Regierungsrates auf die Departemente
 language: de
-version: 2000-05-02
-valid_until: 2021-09-30
-version_adopted: 2000-05-02
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 1966-11-15
 in_force: 1966-12-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.31"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/572/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3222/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über die Übertragung von Befugnissen des Regierungsrates auf die Departemente
 
-vom 15.11.1966 (Stand 02.05.2000)
+vom 15.11.1966 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -65,7 +64,7 @@ als Beschluss:[^ingress-2]
 
 **Eisenbahnen, Seilbahnen und Skilifte**
 
-<sup>1</sup> Das Baudepartement ist zuständig für Bewilligungen für Bau und Betrieb von Eisenbahnen, Seilbahnen und Skiliften.[^4ter-1]
+<sup>1</sup> Das Bau- und Umweltdepartement ist zuständig für Bewilligungen für Bau und Betrieb von Eisenbahnen, Seilbahnen und Skiliften.[^4ter-1]
 
 [^4ter-1]: Vgl. Art. [3](https://www.gesetzessammlung.sg.ch/data/712.1/de/art3.) ff. des Konkordates über die nicht eidgenössisch konzessionierten Luftseilbahnen und Skilifte, sGS [712.1](https://www.gesetzessammlung.sg.ch/data/712.1/de), sowie Art. [1](https://www.gesetzessammlung.sg.ch/data/712.11/de/art1.) ff. und [24](https://www.gesetzessammlung.sg.ch/data/712.11/de/art24.) ff. des R dazu, sGS [712.11](https://www.gesetzessammlung.sg.ch/data/712.11/de).
 
