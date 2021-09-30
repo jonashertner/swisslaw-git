@@ -4,32 +4,32 @@ number: "317.112"
 title: "Personalverordnung der Hochschule Luzern, FH Zentralschweiz"
 short: PVo-HSLU
 language: de
-version: 2020-09-01
-corrected: 2021-09-07
-version_adopted: 2020-05-08
+version: 2021-10-01
+valid_until: 2024-08-31
+version_adopted: 2021-10-01
 adopted: 2023-07-05
 in_force: 2024-09-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/317.112"
-pdf: "https://gesetze.nw.ch/api/de/versions/158/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1023/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Personalverordnung der Hochschule Luzern, FH Zentralschweiz (PVo-HSLU)
+# Personalverordnung der Hochschule Luzern, FH Zentralschweiz
 
-vom 6. Juli 2016[^t-1]
+(PVo-HSLU)
+
+vom 06.07.2016 (Stand 01.10.2021)
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
-gestützt auf Artikel 13 Absatz 2 der Zentralschweizer Fachhochschul-Vereinbarung vom 15. September 2011[^t-2],
+gestützt auf Artikel 13 Absatz 2 der Zentralschweizer Fachhochschul-Vereinbarung vom 15. September 2011[^ingress-1],
 
 beschliesst:
 
-[^t-1]: A 2016, 1314
-[^t-2]: NG 317.11
+[^ingress-1]: NG 317.11
 
-### I. ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -37,45 +37,36 @@ beschliesst:
 
 <sup>1</sup> Dieser Personalverordnung unterstehen die Dozierenden sowie die Assistierenden und wissenschaftlichen Mitarbeitenden der Hochschule Luzern.
 
-<sup>2</sup> Die Artikel 2 - 7, 12 - 14, 17 - 19, 21 und 23 gelten zusätzlich für die technischen und administrativen Mitarbeitenden[^1-1].
-
-[^1-1]: Fassung gemäss Beschluss des Konkordatsrates vom 8. Mai 2020; A 2020, 1524; in Kraft seit 1. September 2020
+<sup>2</sup> Die Artikel 2–7, 12–14, 17–19, 21, 21a, 23 und 23a gelten zusätzlich für die technischen und administrativen Mitarbeitenden.
 
 #### Art. 2
 
 **Verhältnis zum kantonalen Personalrecht**
 
-Soweit diese Verordnung keine abweichenden Vorschriften enthält, ist das Personalrecht des Kantons Luzern anwendbar.
+<sup>1</sup> Soweit diese Verordnung keine abweichenden Vorschriften enthält, ist das Personalrecht des Kantons Luzern anwendbar.
 
-### II. ZUSTÄNDIGKEITEN
+## 2 Zuständigkeiten
 
 #### Art. 3
 
 **Personalpolitische Grundsätze**
 
-Der Fachhochschulrat legt die Grundsätze der Personalpolitik fest.
+<sup>1</sup> Der Fachhochschulrat legt die Grundsätze der Personalpolitik fest.
 
 #### Art. 4
 
-**Zuständigkeit für die Begründung, die Beendigung**
+**Zuständigkeit für die Begründung, die Beendigung und die Umgestaltung des Arbeitsverhältnisses**
 
-und die Umgestaltung des Arbeitsverhältnisses
-
-Zuständig für die Begründung, die Beendigung und die Umgestaltung des Arbeitsverhältnisses sowie für die damit verbundenen vorsorglichen Massnahmen sind:
+<sup>1</sup> Zuständig für die Begründung, die Beendigung und die Umgestaltung des Arbeitsverhältnisses sowie für die damit verbundenen vorsorglichen Massnahmen sind:
 
 - a. der Fachhochschulrat für die Rektorin oder den Rektor;
-
 - b. der Fachhochschulrat für die Direktorinnen oder Direktoren auf Antrag der Rektorin oder des Rektors;
-
 - c. die Direktorin oder der Direktor für die Vizedirektorinnen oder Vizedirektoren der Departemente der Hochschule Luzern, vorbehältlich der Zustimmung durch die Rektorin oder den Rektor; sowie
-
 - d. die Mitglieder der Fachhochschulleitung für die Mitarbeitenden ihres Zuständigkeitsbereichs.
 
 #### Art. 5
 
-**Zuständigkeit für die übrigen personalrechtlichen**
-
-### Entscheide
+**Zuständigkeit für die übrigen personalrechtlichen Entscheide**
 
 <sup>1</sup> Die gemäss Artikel 4 zuständige Instanz ist auch für die übrigen personalrechtlichen Entscheide zuständig.
 
@@ -87,11 +78,11 @@ Zuständig für die Begründung, die Beendigung und die Umgestaltung des Arbeits
 
 **Ausführungsbestimmungen**
 
-Die Fachhochschulleitung erlässt Ausführungsbestimmungen zum Vollzug des Personalrechts.
+<sup>1</sup> Die Fachhochschulleitung erlässt Ausführungsbestimmungen zum Vollzug des Personalrechts.
 
-### III. ARBEITSVERHÄLTNIS
+## 3 Arbeitsverhältnis
 
-- 1\. Begründung
+### 3.1 Begründung
 
 #### Art. 7
 
@@ -103,9 +94,9 @@ Die Fachhochschulleitung erlässt Ausführungsbestimmungen zum Vollzug des Perso
 
 <sup>3</sup> Eine Abweichung von den Anstellungsbedingungen gemäss § 8 des Personalgesetzes des Kantons Luzern vom 26. Juni 2001 ist im Rahmen von § 4 der Personalverordnung des Kantons Luzern vom 24. September 2002[^7-1] möglich.
 
-- 2\. Befristete Arbeitsverhältnisse
+[^7-1]: SRL Nr. [52](https://db.clex.ch/link/LU/52/de)
 
-[^7-1]: SRL Nr. 52
+### 3.2 Befristete Arbeitsverhältnisse
 
 #### Art. 8
 
@@ -119,9 +110,9 @@ Die Fachhochschulleitung erlässt Ausführungsbestimmungen zum Vollzug des Perso
 
 **Assistierende und wissenschaftliche Mitarbeitende**
 
-Assistierende und wissenschaftliche Mitarbeitende mit befristeter Anstellung werden bis zu maximal fünf Jahren angestellt. Falls das Arbeitsverhältnis nach Ablauf dieser Zeitdauer verlängert wird, hat es die Wirkung eines unbefristeten Arbeitsverhältnisses.
+<sup>1</sup> Assistierende und wissenschaftliche Mitarbeitende mit befristeter Anstellung werden bis zu maximal fünf Jahren angestellt. Falls das Arbeitsverhältnis nach Ablauf dieser Zeitdauer verlängert wird, hat es die Wirkung eines unbefristeten Arbeitsverhältnisses.
 
-- 3\. Bandbreitenverträge für Dozierende
+### 3.3 Bandbreitenverträge für Dozierende
 
 #### Art. 10
 
@@ -131,20 +122,19 @@ Assistierende und wissenschaftliche Mitarbeitende mit befristeter Anstellung wer
 
 <sup>3</sup> Auf Verlangen der oder des Mitarbeitenden erfolgt die Lohnanpassung erst auf Ende des dritten Monats nach Mitteilung. Die bezahlten, aber nicht geleisteten Arbeitsstunden werden als Minusstunden erfasst und können durch zusätzliche Aufträge oder in der Pensenplanung des folgenden Studienjahres wieder ausgeglichen werden.
 
-- 4\. Dozierende Nicht-Fachhochschulbereich
+### 3.4 Dozierende Nicht-Fachhochschulbereich
 
 #### Art. 11
 
-Die Lehrpensen sowie die Lohneinreihung der Dozierenden im Nicht-Fachhochschulbereich werden in den Ausführungsbestimmungen zum Personalrecht der Hochschule Luzern geregelt. Die Lohneinreihung erfolgt dabei im Rahmen der Lohnklassen 22-26 der Besoldungsordnung für die Lehrpersonen und Fachpersonen der schulischen Dienste des Kantons Luzern vom 2. Mai 2005[^11-1].
+<sup>1</sup> Die Lehrpensen sowie die Lohneinreihung der Dozierenden im Nicht-Fachhochschulbereich werden in den Ausführungsbestimmungen zum Personalrecht der Hochschule Luzern geregelt. Die Lohneinreihung erfolgt dabei im Rahmen der Lohnklassen 22–26 der Besoldungsordnung für die Lehrpersonen und Fachpersonen der schulischen Dienste des Kantons Luzern vom 2. Mai 2005[^11-1].
 
-- 5\. Beendigung
+[^11-1]: SRL Nr. [74](https://db.clex.ch/link/LU/74/de)
 
-[^11-1]: SRL Nr. 74
-[^11-2]: Fassung gemäss Beschluss des Konkordatsrates vom 8. Mai 2020; A 2020, 1524; in Kraft seit 1. September 2020
+### 3.5 Beendigung
 
 #### Art. 12
 
-**Beendigung aus Altersgründen[^11-2]**
+**Beendigung aus Altersgründen**
 
 <sup>1</sup> Das Arbeitsverhältnis endet spätestens am Monatsende nach der Erfüllung des 65. Altersjahres. Für Dozierende endet es mit dem Semester, in dem sie das 65. Altersjahr erfüllen.
 
@@ -154,11 +144,9 @@ Die Lehrpensen sowie die Lohneinreihung der Dozierenden im Nicht-Fachhochschulbe
 
 <sup>4</sup> Die Anstellungen gemäss Absätze 2 und 3 müssen von der Rektorin oder vom Rektor bewilligt werden.
 
-### IV. ARBEITSZEIT
+## 4 Arbeitszeit
 
-### 1. Assistierende sowie wissenschaftliche, technische und
-
-administrative Mitarbeitende
+### 4.1 Assistierende sowie wissenschaftliche, technische und administrative Mitarbeitende
 
 #### Art. 13
 
@@ -188,7 +176,7 @@ administrative Mitarbeitende
 
 <sup>6</sup> Ein negativer Arbeitszeitsaldo führt spätestens im Zeitpunkt der Beendigung des Arbeitsverhältnisses zu einer Besoldungsrückforderung. In begründeten Fällen können Ausnahmen bewilligt werden.
 
-- 2\. Dozierende
+### 4.2 Dozierende
 
 #### Art. 15
 
@@ -214,7 +202,7 @@ administrative Mitarbeitende
 
 <sup>5</sup> Ein negativer Arbeitszeitsaldo führt spätestens im Zeitpunkt der Beendigung des Arbeitsverhältnisses zu einer Besoldungsrückforderung. In begründeten Fällen können Ausnahmen bewilligt werden.
 
-### V. VERSCHIEDENE BESTIMMUNGEN
+## 5 Verschiedene Bestimmungen
 
 #### Art. 17
 
@@ -224,19 +212,17 @@ administrative Mitarbeitende
 
 <sup>2</sup> Die Fachhochschulleitung entscheidet über die Verwendung der Sozialversicherungsprämien, die zufolge Leistungen der Krankentaggeldversicherung den Sozialversicherungen nicht geschuldet sind.
 
-[^17-1]: Fassung gemäss Beschluss des Konkordatsrates vom 8. Mai 2020; A 2020, 1524; in Kraft seit 1. September 2020
-
 #### Art. 18
 
-**Mitarbeitende nach Erfüllung des 65. Altersjahres[^17-1]**
+**Mitarbeitende nach Erfüllung des 65. Altersjahres**
 
-Die Fortzahlung der Besoldung bei Arbeitsunfähigkeit dauert für Mitarbeitende nach Erfüllung des 65. Altersjahres während einer allfälligen Probezeit einen Monat und danach maximal 120 Kalendertage.
+<sup>1</sup> Die Fortzahlung der Besoldung bei Arbeitsunfähigkeit dauert für Mitarbeitende nach Erfüllung des 65. Altersjahres während einer allfälligen Probezeit einen Monat und danach maximal 120 Kalendertage.
 
 #### Art. 19
 
 **Vaterschaftsurlaub**
 
-Der Mitarbeiter hat bei der Geburt eines eigenen Kindes Anspruch auf einen besoldeten Vaterschaftsurlaub von zwei Wochen, welcher innert acht Wochen nach der Geburt bezogen werden muss.
+<sup>1</sup> Der Mitarbeiter hat bei der Geburt eines eigenen Kindes Anspruch auf einen besoldeten Vaterschaftsurlaub von zwei Wochen, welcher innert acht Wochen nach der Geburt bezogen werden muss.
 
 #### Art. 20
 
@@ -256,34 +242,44 @@ Der Mitarbeiter hat bei der Geburt eines eigenen Kindes Anspruch auf einen besol
 
 <sup>3</sup> Die Mitarbeitenden sind verpflichtet, auf geistiges Eigentum Dritter, welches sie im Rahmen ihrer Tätigkeit verwenden, hinzuweisen.
 
-### VI. SCHLUSSBESTIMMUNGEN
+#### Art. 21a
+
+**Massnahmen zum Schutz der Mitarbeitenden im Zusammenhang mit COVID-19**
+
+<sup>1</sup> Die Fachhochschulleitung kann für Mitarbeitende im Zusammenhang mit der Bekämpfung der Covid-19-Epidemie die Teilnahme an repetitiven Pool-Tests anordnen. Die vorgesetzte Person oder die zuständige HR-verantwortliche Person darf die Teilnahme überprüfen. Das Ergebnis der Überprüfung darf einzig zur Umsetzung von angemessenen Schutzmassnahmen verwendet werden.
+
+<sup>2</sup> Für Mitarbeitende, welche in zertifikatspflichtigen Lehrveranstaltungen tätig sind, kann die Fachhochschulleitung das Vorliegen eines gültigen Covid-Zertifikats (3G: «getestet», «geimpft», «genesen») anordnen. Allfällige Testkosten werden übernommen. Die Überprüfung der Zertifikate darf an Dritte delegiert werden. Wenn möglich ist das datenminimierte Zertifikat ohne Gesundheitsdaten («Zertifikat Light») zu benutzen.
+
+## 6 Schlussbestimmungen
 
 #### Art. 22
 
-**Übergangsbestimmung für befristete**
+**Übergangsbestimmung für befristete Arbeitsverhältnisse**
 
-### Arbeitsverhältnisse
-
-Anstellungsverhältnisse aus der Zeit vor Inkrafttreten dieser Verordnung sind an die gemäss Artikel 8 und 9 geltende Höchstdauer von befristeten Arbeitsverhältnissen anrechenbar.
+<sup>1</sup> Anstellungsverhältnisse aus der Zeit vor Inkrafttreten dieser Verordnung sind an die gemäss Artikel 8 und 9 geltende Höchstdauer von befristeten Arbeitsverhältnissen anrechenbar.
 
 #### Art. 23
 
 **Übergangsbestimmung zur Arbeitszeit**
 
-Ist im Zeitpunkt des Inkrafttretens der Artikel 13 und 15 die Höchstgrenze des übertragbaren positiven Arbeitszeitsaldos überschritten, muss der Abbau oder Ausgleich auf das zulässige Maximum für Assistierende, wissenschaftliche, technische und administrative Mitarbeitende bis spätestens 31. Dezember 2017 und für Dozierende bis spätestens 31. August 2018 erfolgen.
+<sup>1</sup> Ist im Zeitpunkt des Inkrafttretens der Artikel 13 und 15 die Höchstgrenze des übertragbaren positiven Arbeitszeitsaldos überschritten, muss der Abbau oder Ausgleich auf das zulässige Maximum für Assistierende, wissenschaftliche, technische und administrative Mitarbeitende bis spätestens 31. Dezember 2017 und für Dozierende bis spätestens 31. August 2018 erfolgen.
+
+#### Art. 23a
+
+**Befristung Massnahmen zum Schutz der Mitarbeitenden im Zusammenhang mit COVID-19**
+
+<sup>1</sup> Artikel 21a tritt am 1. Oktober 2021 in Kraft und gilt längstens bis zum 24. Januar 2022. Wird die Zertifikatspflicht für Arbeitnehmerinnen und Arbeitnehmern nach Artikel 25 Absätze 2<sup>bis</sup> und 2<sup>ter</sup> der Covid-19-Verordnung besondere Lage (SR 818.101.26) vom Bundesrat früher aufgehoben, entfällt Artikel 21a auf denselben früheren Zeitpunkt.
 
 #### Art. 24
 
 **Aufhebung bisheriges Recht**
 
-Die Personalverordnung der Hochschule Luzern vom 14. Dezember 2012 wird aufgehoben.
+<sup>1</sup> Die Personalverordnung der Hochschule Luzern vom 14. Dezember 2012 wird aufgehoben.
 
 #### Art. 25
 
 **Inkrafttreten**
 
-Die Verordnung tritt am 1. September 2016 in Kraft. Sie ist zu veröffentlichen.
+<sup>1</sup> Die Verordnung tritt am 1. September 2016 in Kraft. Sie ist zu veröffentlichen.
 
-## Weitere Fussnoten
-
-- [3] Systematische Rechtssammlung des Kantons Luzern, SRL Nr. 51
+A 2016, 1314
