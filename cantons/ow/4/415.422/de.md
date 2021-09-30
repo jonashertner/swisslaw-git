@@ -4,13 +4,13 @@ number: "415.422"
 title: "Personalverordnung der Hochschule Luzern, FH Zentralschweiz"
 short: PVo-HSLU
 language: de
-version: 2020-09-01
-valid_until: 2021-09-30
-version_adopted: 2020-05-08
+version: 2021-10-01
+valid_until: 2024-08-31
+version_adopted: 2021-10-01
 adopted: 2023-07-05
 in_force: 2024-09-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/415.422"
-pdf: "http://gdb.ow.ch/api/de/versions/1433/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1534/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1433/pdf_file"
 
 (PVo-HSLU)
 
-vom 06.07.2016 (Stand 01.09.2020)
+vom 06.07.2016 (Stand 01.10.2021)
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
@@ -37,7 +37,7 @@ beschliesst:
 
 <sup>1</sup> Dieser Personalverordnung unterstehen die Dozierenden sowie die Assistierenden und wissenschaftlichen Mitarbeitenden der Hochschule Luzern.
 
-<sup>2</sup> Die Artikel 2–7, 12–14, 17–19, 21 und 23 gelten zusätzlich für die technischen und administrativen Mitarbeitenden.
+<sup>2</sup> Die Artikel 2-7, 12-14, 17-19, 21, 21a, 23 und 23a gelten zusätzlich für die technischen und administrativen Mitarbeitenden.
 
 #### Art. 2
 
@@ -243,6 +243,14 @@ beschliesst:
 
 <sup>3</sup> Die Mitarbeitenden sind verpflichtet, auf geistiges Eigentum Dritter, welches sie im Rahmen ihrer Tätigkeit verwenden, hinzuweisen
 
+#### Art. 21a
+
+**Massnahmen zum Schutz der Mitarbeitenden im Zusammenhang mit COVID-19**
+
+<sup>1</sup> Die Fachhochschulleitung kann für Mitarbeitende im Zusammenhang mit der Bekämpfung der Covid-19-Epidemie die Teilnahme an repetitiven Pool-Tests anordnen. Die vorgesetzte Person oder die zuständige HR-verantwortliche Person darf die Teilnahme überprüfen. Das Ergebnis der Überprüfung darf einzig zur Umsetzung von angemessenen Schutzmassnahmen verwendet werden.
+
+<sup>2</sup> Für Mitarbeitende, welche in zertifikatspflichtigen Lehrveranstaltungen tätig sind, kann die Fachhochschulleitung das Vorliegen eines gültigen Covid-Zertifikats (3G: «getestet», «geimpft», «genesen») anordnen. Allfällige Testkosten werden übernommen. Die Überprüfung der Zertifikate darf an Dritte delegiert werden. Wenn möglich ist das datenminimierte Zertifikat ohne Gesundheitsdaten («Zertifikat Light») zu benutzen.
+
 ## 6. SCHLUSSBESTIMMUNGEN
 
 #### Art. 22
@@ -256,6 +264,12 @@ beschliesst:
 **Übergangsbestimmung zur Arbeitszeit**
 
 <sup>1</sup> Ist im Zeitpunkt des Inkrafttretens der Artikel 13 und 15 die Höchstgrenze des übertragbaren positiven Arbeitszeitsaldos überschritten, muss der Abbau oder Ausgleich auf das zulässige Maximum für Assistierende, wissenschaftliche, technische und administrative Mitarbeitende bis spätestens 31. Dezember 2017 und für Dozierende bis spätestens 31. August 2018 erfolgen.
+
+#### Art. 23a
+
+**Befristung Massnahmen zum Schutz der Mitarbeitenden im Zusammenhang mit COVID-19**
+
+<sup>1</sup> Artikel 21a tritt am 1. Oktober 2021 in Kraft und gilt längstens bis zum 24. Januar 2022. Wird die Zertifikatspflicht für Arbeitnehmerinnen und Arbeitnehmern nach Artikel 25 Absätze 2bis und 2ter der Covid-19-Verordnung besondere Lage (SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)) vom Bundesrat früher aufgehoben, entfällt Artikel 21a auf denselben früheren Zeitpunkt.
 
 #### Art. 24
 
@@ -271,7 +285,7 @@ beschliesst:
 
 <sup>1</sup> Die Verordnung tritt am 1. September 2016 in Kraft. Sie ist zu veröffentlichen.
 
-**,Informationen zum Erlass**
+**Informationen zum Erlass**
 
 Ursprüngliche Fundstelle: OGS 2016, 47
 
@@ -284,5 +298,7 @@ Die Zwischentitel wurden aus technischen Gründen umnummeriert.
 geändert durch:
 
 \- Nachtrag vom 8. Mai 2020, in Kraft seit 1. September 2020 (OGS 2020, 21)
+
+\- Nachtrag vom 1. Oktober 2021, in Kraft seit 1. Oktober 2021, befristet bis längstens 14. Februar 2021 (siehe Art. 23a; OGS 2021, 32)
 
 OGS 2016, 47
