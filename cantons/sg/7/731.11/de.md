@@ -4,13 +4,13 @@ number: "731.11"
 title: Verordnung zum Planungs- und Baugesetz
 short: PBV
 language: de
-version: 2018-07-01
-valid_until: 2021-09-30
-version_adopted: 2018-07-03
+version: 2021-10-01
+valid_until: 2023-02-28
+version_adopted: 2021-06-29
 adopted: 2017-06-27
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/731.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2435/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3240/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2435/pdf_file"
 
 (PBV)
 
-vom 27.06.2017 (Stand 01.07.2018)
+vom 27.06.2017 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -76,7 +76,7 @@ als Verordnung:[^ingress-2]
 
 **Kantonsbeiträge aus der Spezialfinanzierung Mehrwertabgabe (Art. 64 PBG)**
 
-<sup>1</sup> Das Baudepartement entscheidet auf Antrag der politischen Gemeinde oder von Amtes wegen über die Ausrichtung von Kantonsbeiträgen aus der kantonalen Spezialfinanzierung.
+<sup>1</sup> Das Bau- und Umweltdepartement entscheidet auf Antrag der politischen Gemeinde oder von Amtes wegen über die Ausrichtung von Kantonsbeiträgen aus der kantonalen Spezialfinanzierung.
 
 ## II. Nutzungs- und Bauvorschriften
 
@@ -214,7 +214,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die federführende kantonale Stelle ist in Anhang 2 dieses Erlasses bezeichnet.
 
-<sup>2</sup> Kommen mehrere kantonale Stellen für die Federführung in Betracht und können sich diese nicht einigen, bezeichnet die Generalsekretärin oder der Generalsekretär des Baudepartementes die federführende Stelle.
+<sup>2</sup> Kommen mehrere kantonale Stellen für die Federführung in Betracht und können sich diese nicht einigen, bezeichnet die Generalsekretärin oder der Generalsekretär des Bau- und Umweltdepartementes die federführende Stelle.
 
 <sup>3</sup> In offensichtlichen Fällen kann die federführende kantonale Stelle das Gesuch gestützt auf Art. 132 Abs. 1 Bst. b PBG ohne Konsultation der übrigen Fachstellen abweisen.
 
@@ -224,7 +224,7 @@ als Verordnung:[^ingress-2]
 
 **Baugesuchsunterlagen (Art. 137 PBG)**
 
-<sup>1</sup> Gesuchstellende verwenden für das Baugesuch das Formular des Baudepartementes. Das Baugesuch muss die für die Beurteilung notwendigen Unterlagen wie Situationsplan, Grundriss, Ansichten, Schnitte und Kanalisationspläne enthalten. Es wird von der Bauherrschaft und den Grundeigentümerinnen oder Grundeigentümern unterzeichnet.
+<sup>1</sup> Gesuchstellende verwenden für das Baugesuch das Formular des Bau- und Umweltdepartementes. Das Baugesuch muss die für die Beurteilung notwendigen Unterlagen wie Situationsplan, Grundriss, Ansichten, Schnitte und Kanalisationspläne enthalten. Es wird von der Bauherrschaft und den Grundeigentümerinnen oder Grundeigentümern unterzeichnet.
 
 <sup>2</sup> Die Bewilligungsbehörden sind berechtigt, weitere für die Beurteilung erforderliche Unterlagen einzufordern.
 
@@ -257,7 +257,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Baubehörde ist berechtigt, jederzeit auf Baustellen oder in bestehenden Bauten und Anlagen Kontrollen durchzuführen und die dafür erforderlichen Angaben und Unterlagen einzufordern. Kontrollen in bewohnten Räumen gegen den Willen der Bewohnerinnen und Bewohner erfolgen aufgrund einer anfechtbaren Verfügung des Rates der politischen Gemeinde.
 
-<sup>2</sup> Die politischen Gemeinden können die Bauherrschaft zur Selbstdeklaration verpflichten. Sie verwenden dafür das Selbstdeklarationsformular des Baudepartementes.
+<sup>2</sup> Die politischen Gemeinden können die Bauherrschaft zur Selbstdeklaration verpflichten. Sie verwenden dafür das Selbstdeklarationsformular des Bau- und Umweltdepartementes.
 
 <sup>3</sup> Mit der Selbstdeklaration sichert die Bauherrschaft zu, dass die Baubewilligung einschliesslich der darin enthaltenen Bedingungen und Auflagen eingehalten worden ist.
 
