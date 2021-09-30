@@ -3,20 +3,19 @@ canton: SG
 number: "751.13"
 title: Verordnung über den Materialbezug aus öffentlichen Gewässern
 language: de
-version: 2017-07-01
-valid_until: 2021-09-30
-version_adopted: 2017-05-16
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 1960-12-12
 in_force: 1961-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/751.13"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2248/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3250/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Materialbezug aus öffentlichen Gewässern
 
-vom 12.12.1960 (Stand 01.07.2017)
+vom 12.12.1960 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -43,7 +42,7 @@ als Verordnung:[^ingress-2]
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Baudepartement bewilligt den Materialbezug aus dem Rhein.
+<sup>1</sup> Das Bau- und Umweltdepartement bewilligt den Materialbezug aus dem Rhein.
 
 <sup>2</sup> Das Rheinunternehmen bewilligt den Materialbezug an den Binnenkanälen und am alten Rheinlauf für Bezüge bis 500 Kubikmeter.
 
