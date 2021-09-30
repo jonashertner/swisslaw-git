@@ -4,11 +4,11 @@ title: "Ordinanza del 23 maggio 2012 sulla promozione dello sport e dell'attivit
 short: OPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: it
-version: 2021-08-01
+version: 2021-10-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20210801/it"
 
 (Ordinanza sulla promozione dello sport, OPSpo)
 
-del 23 maggio 2012 (Stato 1° agosto 2021)
+del 23 maggio 2012 (Stato 1° ottobre 2021) (Stato 1° ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -188,19 +188,45 @@ Per i singoli gruppi di utenti il DDPS stabilisce:
 
 #### Art. 10
 
-**Organizzatori di offerte G+S**
+**Requisiti per gli organizzatori di offerte G+S**[^10-1]
 
 <sup>1</sup>
 
-Chi intende proporre offerte G+S (organizzatore) deve:
+Chi intende svolgere corsi o campi G+S in una o più discipline sportive G+S (organizzatore) deve:
 
-- a. essere una persona giuridica di diritto privato o pubblico, in particolare una federazione o società sportiva, una federazione o associazione giovanile o una scuola;
-- b. essere costituito secondo il diritto svizzero; e
-- c. avere la propria sede in Svizzera.
+- a. essere una scuola o una persona giuridica di diritto privato o pubblico, in particolare una federazione o società sportiva, una federazione o associazione giovanile;
+- b. essere costituito secondo il diritto svizzero;
+- c. avere la propria sede in Svizzera;
+- d. essere registrato presso l’UFSPO.
 
-<sup>2</sup> Le persone giuridiche costituite come società di capitali o cooperative nonché le persone fisiche vengono ammesse come organizzatori di offerte G+S se la loro attività commerciale o professionale principale si svolge nell’ambito della formazione sportiva o della mediazione di attività sportive.
+<sup>2</sup> Le persone giuridiche costituite come società di capitali o cooperative, nonché le persone fisiche devono svolgere la propria attività aziendale o professionale principale nell’ambito della formazione sportiva o dell’insegnamento di attività sportive.
 
-<sup>3</sup> Gli organizzatori offrono corsi o campi in una o più discipline sportive G+S.
+[^10-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+
+#### Art. 10a
+
+**Registrazione come organizzatore**[^10a-1]
+
+<sup>1</sup>
+
+L’organo avente diritto di firma dell’organizzatore deve inoltrare all’UFSPO una domanda di registrazione contenente le seguenti indicazioni:
+
+- a. statuti o regolamento organizzativo;
+- b. discipline sportive G+S in cui l’organizzatore intende svolgere corsi o campi G+S;
+- c. se del caso, l’affiliazione a una federazione sportiva o giovanile nazionale;
+- d. coordinate bancarie riferite esclusivamente all’organizzatore;
+- e. dati relativi alla persona che sarà attiva come coach G+S per l’organizzatore.
+
+<sup>2</sup>
+
+Nella sua decisione l’UFSPO stabilisce:
+
+- a. i gruppi di utenti a cui l’organizzatore è autorizzato a offrire corsi e campi G+S;
+- b. il Cantone che funge da autorità competente per l’autorizzazione ai sensi dell’articolo 22 capoverso 5 lettera a.
+
+<sup>3</sup> L’organizzatore deve comunicare senza indugio all’UFSPO ogni modifica delle circostanze di cui al capoverso 1 intervenuta dopo la registrazione.
+
+[^10a-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 #### Art. 11
 
@@ -333,6 +359,10 @@ L’UFSPO può sospendere o revocare il riconoscimento quale quadro se:
 <sup>2</sup> Invece di una sospensione o di una revoca l’UFSPO può subordinare la prosecuzione dell’attività del quadro a determinate condizioni.
 
 <sup>3</sup> Nei casi di scarsa importanza può pronunciare un avvertimento.
+
+<sup>4</sup> I quadri G+S il cui riconoscimento verrebbe a scadere ai sensi del capoverso 1 continuano a poter svolgere offerte G+S e offerte della formazione dei quadri G+S.[^21-1]
+
+[^21-1]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
 
 ### Sezione 6: Concessione dei contributi
 
@@ -910,104 +940,157 @@ Gli aiuti finanziari sono calcolati in base a:
 - c. le prestazioni proprie e i contributi di organi federali o di terzi;
 - d. l’onere per la garanzia della qualità.
 
-### Capitolo 2: Scuola universitaria federale dello sport
+### Capitolo 2: Scuola universitaria federale dello sport di Macolin****
+
+[^tit2-chap2-1]
+
+[^tit2-chap2-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 ### Sezione 1: Posizionamento e compiti
 
 #### Art. 55
 
-**Scuola universitaria federale dello sport**
+**Mandato, prestazioni e principi**[^55-1]
 
-<sup>1</sup> La Scuola universitaria federale dello sport (SUFSM) fa parte dell’UFSPO.
-
-<sup>2</sup> Presso la SUFSM vige la libertà d’insegnamento e di ricerca.
-
-<sup>3</sup> La SUFSM svolge i propri compiti in maniera autonoma o in collaborazione con altre istituzioni, sia svizzere sia straniere.
-
-#### Art. 56
-
-**Membri della scuola universitaria**
-
-<sup>1</sup>
-
-Sono membri della SUFSM:
-
-- a. il rettore;
-- b. i membri della direzione degli studi;
-- c. i membri del corpo insegnante;
-- d. i collaboratori scientifici;
-- e. il personale amministrativo e tecnico dell’UFSPO nella misura in cui svolge compiti per la SUFSM;
-- f. gli studenti;
-- g. gli uditori.
-
-<sup>2</sup> Il DDPS disciplina i compiti dei membri della scuola universitaria e le condizioni di assunzione particolari del personale della scuola universitaria.
-
-<sup>3</sup> I collaboratori ai quali è consentito, nel quadro del loro impiego presso l’UFSPO, di dedicare tempo di lavoro alla redazione di una tesi di dottorato, sottostanno al Codice delle obbligazioni.
-
-<sup>4</sup> Se i collaboratori cui è consentito di dedicare del tempo di lavoro alla redazione di una tesi di dottorato hanno un rapporto di impiego di diritto pubblico, con essi deve essere concluso preliminarmente un accordo con cui si scioglie il rapporto di lavoro di diritto pubblico e se ne conclude uno secondo il Codice delle obbligazioni.
-
-<sup>5</sup> Gli studenti possono organizzarsi in un’associazione studentesca e designarla come loro interlocutore comune nei confronti della SUFSM.
-
-#### Art. 57
-
-**Insegnamento**
-
-<sup>1</sup>
-
-La SUFSM offre i seguenti cicli di studi e di formazione:
-
-- a. cicli di studi di bachelor e di master nel campo dello sport;
-- b. cicli di formazione per allenatori.
+<sup>1</sup> La Scuola universitaria federale dello sport di Macolin (SUFSM) fa parte dell’UFSPO e fornisce un contributo alla promozione nazionale dello sport e dell’attività fisica.
 
 <sup>2</sup>
 
-In particolare essa può offrire i cicli di formazione e i corsi seguenti:
+Essa fornisce le seguenti prestazioni nel campo delle scienze dello sport:
 
-- a. moduli di formazione per studenti di sport delle scuole universitarie e delle alte scuole pedagogiche;
-- b. offerte di formazione postdiploma;
-- c. corsi complementari per monitori di sport.
+- a. formazione e perfezionamento orientati alla pratica;
+- b. ricerca applicata e sviluppo;
+- c. prestazioni di servizio.
+
+<sup>3</sup> Alla SUFSM vige la libertà d’insegnamento e di ricerca.
+
+<sup>4</sup> La SUFSM svolge i propri compiti in maniera autonoma o in collaborazione con altre istituzioni svizzere ed estere.
+
+[^55-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
+#### Art. 55a
+
+**Organizzazione**[^55a-1]
+
+<sup>1</sup> Il direttore dell’UFSPO è l’organo di direzione strategico della SUFSM.
+
+<sup>2</sup> Il consiglio consultivo della SUFSM consiglia il direttore dell’UFSPO nelle questioni specifiche alle scuole universitarie.
+
+<sup>3</sup> Il rettore dirige la SUFSM sotto il profilo operativo.
+
+<sup>4</sup> L’UFSPO emana per la SUFSM un regolamento sull’organizzazione.
+
+[^55a-1]: Introdotto dal n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
+#### Art. 55b
+
+**Comitato consultivo della SUFSM**[^55b-1]
+
+<sup>1</sup> Il DDPS nomina i membri del comitato consultivo della SUFSM per un mandato di quattro anni. Può prorogare il mandato una volta per ulteriori quattro anni.
+
+<sup>2</sup> Per ragioni importanti, esso può destituire membri del comitato consultivo della SUFSM.
+
+[^55b-1]: Introdotto dal n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
+#### Art. 56
+
+**Membri della scuola universitaria e loro diritti di partecipazione**[^56-1]
+
+<sup>1</sup>
+
+Sono membri della scuola universitaria:
+
+- a.
+
+  i collaboratori, che comprendono:
+
+  - 1\. il personale assegnato alla SUFSM sotto il profilo organizzativo,
+  - 2\. il rimanente personale dell’UFSPO, sempre che assuma costantemente per la SUFSM compiti nell’insegnamento o nella ricerca;
+
+- b. gli studenti e gli uditori.
+
+<sup>2</sup> I membri della scuola universitaria beneficiano di un diritto all’informazione e di un diritto di partecipazione adeguati.
+
+<sup>3</sup> La partecipazione del personale di cui al capoverso 1 lettera a è garantita dall’istituzione di un’organizzazione dei collaboratori. Questa è composta da un’assemblea dei collaboratori e una rappresentanza dei collaboratori.
+
+<sup>4</sup> Al fine di esercitare i propri diritti di partecipazione, gli studenti possono organizzarsi in un’associazione studentesca e designarla quale interlocutrice comune rispetto alla SUFSM.
+
+<sup>5</sup> L’UFSPO disciplina i dettagli nel regolamento sull’organizzazione.
+
+[^56-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
+#### Art. 57
+
+**Insegnamento**[^57-1]
+
+<sup>1</sup>
+
+La SUFSM propone i seguenti livelli di studio nel settore scienze dello sport:
+
+- a. ciclo di studio di bachelor (primo livello di studio);
+- b. ciclo di studio di master (secondo livello di studio).
+
+<sup>2</sup>
+
+Essa può proporre i seguenti perfezionamenti nel campo delle scienze dello sport:
+
+- a. cicli di studio di perfezionamento;
+- b. altre proposte di perfezionamento.
+
+[^57-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 58
 
 **Ricerca e sviluppo**
 
-<sup>1</sup> La SUFSM si occupa di ricerca applicata e di sviluppo nel campo delle scienze dello sport.
+<sup>1</sup> La SUFSM si occupa di ricerca orientata all’applicazione e di sviluppo nel campo delle scienze dello sport.[^58-1]
 
 <sup>2</sup> La SUFSM adempie compiti nella ricerca settoriale della Confederazione nel campo dello sport e dell’attività fisica, segnatamente per la consulenza politica, le perizie, la valutazione e il monitoraggio.
 
+[^58-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
 #### Art. 59
 
-**Prestazioni**
+[^59-1]
 
-La SUFSM offre prestazioni nel campo delle scienze dello sport.
+[^59-1]: Abrogato dal n. I dell’O dell’11 ago. 2021, con effetto dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
-### Sezione 2: Cicli di studio e di formazione
+### Sezione 2: Cicli di studio****
+
+[^tit2-chap2-sec2-1]
+
+[^tit2-chap2-sec2-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 60
 
-**Ammissione agli studi**
+**Ammissione ai livelli di studio**[^60-1]
 
-<sup>1</sup> I posti disponibili per i corsi a livello di bachelor vengono attribuiti sulla base dei risultati di una valutazione delle attitudini.
+<sup>1</sup> Il DDPS definisce le condizioni d’ammissione al ciclo di studio di bachelor conformemente alla legge federale del 30 settembre 2011[^60-2] sulla promozione e sul coordinamento del settore universitario svizzero (LPSU) e alle sue disposizioni d’esecuzione. I posti di studio sono limitati e vengono attribuiti sulla base dei risultati di un esame attitudinale.
 
-<sup>2</sup> I posti disponibili per i corsi a livello di master vengono attribuiti sulla base di una procedura di candidatura.
+<sup>2</sup> Il DDPS definisce le condizioni d’ammissione al ciclo di studio di master conformemente alle disposizioni d’esecuzione relative alla LPSU. I posti di studio sono limitati e vengono attribuiti sulla base di una procedura di candidatura.
 
-<sup>3</sup> Il DDPS stabilisce le condizioni e la procedura d’ammissione.
+<sup>3</sup> Il DDPS stabilisce la procedura d’ammissione.
+
+[^60-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^60-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 61
 
 **Tasse**
 
-<sup>1</sup> Il DDPS stabilisce le tasse per i singoli cicli di studi e di formazione, i corsi e le verifiche delle competenze presso la SUFSM.
+<sup>1</sup> Il DDPS fissa le tasse per i singoli livelli di studio, i perfezionamenti e le verifiche delle competenze presso la SUFSM.[^61-1]
 
 <sup>2</sup> Il DDPS può prevedere tasse più elevate per gli studenti stranieri che al momento dell’iscrizione alla valutazione delle attitudini o alla procedura di candidatura non erano domiciliati in Svizzera.
+
+[^61-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 62
 
 **Cicli di studi di bachelor e di master nel campo dello sport**
 
-<sup>1</sup> I cicli di studi di bachelor preparano gli studenti all’esercizio di un’attività professionale nel campo dello sport. Essi comprendono prestazioni di studio corrispondenti a 180 crediti ECTS conformemente alle Direttive di Bologna del 4 dicembre 2003[^62-1].
+<sup>1</sup> I cicli di studio di bachelor preparano gli studenti all’esercizio di un’attività professionale nel campo dello sport. Essi comprendono prestazioni di studio corrispondenti a 180 crediti ECTS; questi crediti vengono calcolati conformemente alle disposizioni d’esecuzione relative alla LPSU[^62-1].[^62-2]
 
-<sup>2</sup> I cicli di studi di master si basano sui cicli di studi di bachelor. Comprendono prestazioni di studio corrispondenti a 90–120 crediti ECTS conformemente alle Direttive di Bologna.
+<sup>2</sup> I cicli di studio di master si basano sui cicli di studio di bachelor e trasmettono conoscenze approfondite e specialistiche in materia di pratica sportiva e di scienze dello sport. Essi comprendono prestazioni di studio corrispondenti a 90 o 120 crediti ECTS; questi crediti vengono calcolati conformemente alle disposizioni d’esecuzione relative alla LPSU.[^62-3]
 
 <sup>3</sup>
 
@@ -1024,19 +1107,30 @@ I diplomati possono utilizzare i titoli protetti di:
 
 <sup>7</sup> L’UFSPO può emanare prescrizioni sull’organizzazione dei cicli di studi, sui contenuti della formazione dei singoli cicli di studi e sullo svolgimento delle verifiche delle competenze.
 
-[^62-1]: [[RU 2004 3003](https://fedlex.data.admin.ch/eli/oc/2004/382). [2006 1071](https://fedlex.data.admin.ch/eli/oc/2006/189), [2008 3603](https://fedlex.data.admin.ch/eli/oc/2008/467). [RU 2015 1627](https://fedlex.data.admin.ch/eli/oc/2015/322)art. 9]. Vedi ora le direttive del 28 mag. 2015 ([RS 414.205.1](https://fedlex.data.admin.ch/eli/cc/2019/722)).
+[^62-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^62-2]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^62-3]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 63
 
-**Perfezionamento**
+**Cicli di studio di perfezionamento**[^63-1]
 
-<sup>1</sup> La SUSFM può proporre cicli di studi di perfezionamento con certificato (Certificate of Advanced Studies in [designazione dell’indirizzo di approfondimento]), diploma (Diploma of Advanced Studies in [designazione dell’indirizzo di approfondimento]) o master (Master of Advanced Studies in [designazione dell’indirizzo di approfondimento]).
+<sup>1</sup>
 
-<sup>2</sup> Sono ammessi nei cicli di studi di perfezionamento i titolari di un diploma universitario.
+La SUFSM può proporre cicli di studio di perfezionamento che portano al conseguimento di uno dei seguenti diplomi:
 
-<sup>3</sup> Gli studenti che non sono in possesso di un diploma universitario possono essere ammessi se sono in grado di comprovare in altro modo la loro idoneità alla frequenza.
+- a. Certificate of Advanced Studies (CAS);
+- b. Diploma of Advanced Studies (DAS);
+- c. Master of Advanced Studies (MAS).
 
-<sup>4</sup> Il DDPS disciplina il volume dei cicli di studi.
+<sup>2</sup> Sono ammessi ai cicli di studio di perfezionamento i titolari di un diploma di scuola universitaria.
+
+<sup>3</sup> Le persone che non sono titolari di un diploma di scuola universitaria possono essere ammesse se sono in grado di provare in altro modo la loro idoneità alla frequenza.
+
+<sup>4</sup> Il DDPS disciplina gli indirizzi e le prestazioni di studio dei cicli di studio di perfezionamento nonché i requisiti per l’ottenimento del diploma conformemente alle disposizioni d’esecuzione relative alla LPSU[^63-2].
+
+[^63-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^63-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 63a
 
@@ -1054,15 +1148,9 @@ I diplomati possono utilizzare i titoli protetti di:
 
 #### Art. 64
 
-**Decisione relativa alle qualifiche**
+[^64-1]
 
-<sup>1</sup> Se uno studente contesta lo svolgimento o la valutazione delle verifiche delle competenze, qualora siano soddisfatte le condizioni di cui all’articolo 5 della legge federale del 20 dicembre 1968[^64-1] sulla procedura amministrativa, su sua richiesta l’UFSPO emana una decisione in merito.
-
-<sup>2</sup> In precedenza la direzione degli studi illustra allo studente i risultati.
-
-<sup>3</sup> Le valutazioni finali dei cicli di studi di bachelor e di master o delle altre formazioni sono notificate con una decisione.
-
-[^64-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^64-1]: Abrogato dal n. I dell’O dell’11 ago. 2021, con effetto dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 65
 
@@ -1204,6 +1292,20 @@ L’ammontare dell’importo si fonda su:
 
 <sup>5</sup> Per il sostegno ai congressi internazionali dedicati allo sport sono applicabili per analogia i capoversi 1 lettere a e b nonché 2 e 3.
 
+#### Art. 72a
+
+**Formazione e perfezionamento degli allenatori**[^72a-1]
+
+<sup>1</sup> L’UFSPO dirige un centro di competenze per la formazione e il perfezionamento degli allenatori nello sport giovanile di competizione e nello sport di punta.
+
+<sup>2</sup> Propone formazioni e perfezionamenti nel settore della formazione degli allenatori.
+
+<sup>3</sup> Può vincolare l’ammissione a singole offerte di formazione a qualifiche specifiche ottenute nell’ambito della formazione dei quadri G+S o a qualifiche equivalenti nonché a un’attività svolta in quel momento nello sport di competizione.
+
+<sup>4</sup> Può collaborare con organizzazioni del mondo del lavoro nel settore della formazione professionale degli allenatori e con ulteriori istituzioni svizzere o estere nel settore della formazione degli allenatori.
+
+[^72a-1]: Introdotto dal n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
 ## Titolo 4: Correttezza e sicurezza****
 
 [^tit4-1]
@@ -1310,7 +1412,7 @@ Le autorità giudiziarie e di perseguimento penale competenti per l’infrazione
 - f. i verbali degli interrogatori;
 - g. le informazioni relative a precedenti giudiziari nell’ambito della LPSpo a partire dalla data di entrata in vigore della stessa;
 - h. le decisioni delle autorità giudiziarie e di perseguimento penali necessarie per garantire i diritti delle parti secondo l’articolo 23 capoverso 3 LPSpo, complete di motivazione;
-- i. ulteriori indicazioni idonee a lottare contro ulteriori abusi in materia di doping
+- i. ulteriori indicazioni idonee a lottare contro ulteriori abusi in materia di doping.
 
 <sup>2</sup>
 
@@ -1365,13 +1467,15 @@ Fatte salve le disposizioni contrarie di cui all’articolo 32 LPSpo e le dispos
 
 <sup>1</sup> ...[^80-1]
 
-<sup>2</sup> Per i cicli di perfezionamento di cui all’articolo 63 sono riscossi emolumenti calcolati in modo da coprire le spese.
+<sup>2</sup> L’UFSPO fissa i prezzi dei perfezionamenti di cui all’articolo 57 capoverso 2 conformemente ai principi dell’articolo 9 della legge federale del 20 giugno 2014**[^80-2]** sulla formazione continua.[^80-3]
 
 <sup>3</sup> L’UFSPO pubblica i listini dei prezzi delle prestazioni commerciali fornite regolarmente.
 
 <sup>4</sup> In caso di ritardi nel pagamento di emolumenti l’UFSPO è autorizzato a rifiutare ai debitori ulteriori prestazioni fino all’avvenuto completo pagamento.
 
 [^80-1]: Abrogato dall’art. 10 dell’O del 15 nov. 2017 sugli emolumenti dell’Ufficio federale dello sport, con effetto dal 1° gen. 2018 ([RU 2017 6601](https://fedlex.data.admin.ch/eli/oc/2017/732)).
+[^80-2]: [RS 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
+[^80-3]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 80a
 

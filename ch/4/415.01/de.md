@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Mai 2012 über die Förderung von Sport und Bewegung 
 short: SpoFöV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: de
-version: 2021-08-01
+version: 2021-10-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20210801/de"
 
 (Sportförderungsverordnung, SpoFöV)
 
-vom 23. Mai 2012 (Stand am 1. August 2021)
+vom 23. Mai 2012 (Stand am 1. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -188,19 +188,45 @@ Das VBS legt für die einzelnen Nutzergruppen fest:
 
 #### Art. 10
 
-**Organisatoren von J+S-Angeboten**
+**Anforderungen an Organisatoren von J+S-Angeboten**[^10-1]
 
 <sup>1</sup>
 
-Wer J+S-Angebote anbieten will (Organisator) muss:
+Wer in einer oder mehreren J+S-Sportarten J+S-Kurse oder -Lager durchführen will (Organisator), muss:
 
-- a. eine juristische Person des privaten oder öffentlichen Rechts sein, insbesondere ein Sportverband, ein Sportverein, ein Jugendverband, ein Jugendverein oder eine Schule;
-- b. nach Schweizer Recht konstituiert sein; und
-- c. seinen Sitz in der Schweiz haben.
+- a. eine Schule oder eine juristische Person des privaten oder öffentlichen Rechts sein, insbesondere ein Sportverband, ein Sportverein, ein Jugendverband oder ein Jugendverein;
+- b. nach Schweizer Recht konstituiert sein;
+- c. seinen Sitz in der Schweiz haben;
+- d. beim BASPO registriert sein.
 
-<sup>2</sup> Juristische Personen, welche als Kapitalgesellschaften oder Genossenschaften konstituiert sind, sowie natürliche Personen werden als Organisatoren von J+S-Angeboten zugelassen, wenn ihre hauptsächliche Geschäfts- oder Berufstätigkeit im Bereich der sportlichen Ausbildung oder der Vermittlung von Sportaktivitäten liegt.
+<sup>2</sup> Juristische Personen, die als Kapitalgesellschaften oder Genossenschaften konstituiert sind, sowie natürliche Personen müssen ihre hauptsächliche Geschäfts- oder Berufstätigkeit im Bereich der sportlichen Ausbildung oder der Vermittlung von Sportaktivitäten haben.
 
-<sup>3</sup> Organisatoren bieten in einer oder mehreren J+S-Sportarten Kurse oder Lager an.
+[^10-1]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+
+#### Art. 10a
+
+**Registrierung als Organisator**[^10a-1]
+
+<sup>1</sup>
+
+Das zeichnungsberechtigte Organ des Organisators muss das Gesuch um Registrierung beim BASPO mit folgenden Angaben einreichen:
+
+- a. Statuten oder Organisationsreglement;
+- b. die J+S-Sportarten, in denen der Organisator J+S-Kurse oder -Lager durchführen will;
+- c. gegebenenfalls die Mitgliedschaft in einem nationalen Sport- oder Jugendverband;
+- d. die Angabe einer Bankverbindung, die ausschliesslich auf den Namen des Organisators lautet;
+- e. Angaben zur Person, die für den Organisator als J+S-Coach tätig sein wird.
+
+<sup>2</sup>
+
+Das BASPO legt in seinem Entscheid fest:
+
+- a. die Nutzergruppen, in denen der Organisator berechtigt ist, J+S-Kurse und -Lager anzubieten;
+- b. den Kanton, der Bewilligungsinstanz nach Artikel 22 Absatz 5 Buchstabe a ist.
+
+<sup>3</sup> Der Organisator muss Änderungen der Tatsachen nach Absatz 1, die sich nach erfolgter Registrierung ergeben, unverzüglich dem BASPO mitteilen.
+
+[^10a-1]: Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 #### Art. 11
 
@@ -428,7 +454,7 @@ Zusätzliche Beiträge können ausgerichtet werden an:
 
 <sup>1</sup> Die Beiträge für J+S-Coaches richten sich nach dem Umfang der Beiträge für die Durchführung der J+S-Angebote. Sie beträgt höchstens 10 Prozent der Gesamtsumme.
 
-<sup>2</sup> Zuschläge nach Artikel 23 Absätze 2 und 3 werden für die Berechnung der Gesamtsumme nicht berücksichtigt. ...[^24-1]
+<sup>2</sup> Zuschläge nach Artikel 23 Absätze 2 und 3 werden für die Berechnung der Gesamtsumme nicht berücksichtigt. …[^24-1]
 
 <sup>3</sup> Das VBS legt den Umfang der Beiträge fest.
 
@@ -910,104 +936,157 @@ Die Finanzhilfen bemessen sich nach:
 - c. den Eigenleistungen und Beiträgen von Bundesstellen oder Dritten;
 - d. dem Aufwand für die Qualitätssicherung.
 
-### 2. Kapitel: Eidgenössische Hochschule für Sport
+### 2. Kapitel: Eidgenössische Hochschule für Sport Magglingen****
+
+[^tit2-chap2-1]
+
+[^tit2-chap2-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 ### 1. Abschnitt: Stellung und Aufgaben
 
 #### Art. 55
 
-**Eidgenössische Hochschule für Sport**
+**Auftrag, Leistungen und Grundsätze**[^55-1]
 
-<sup>1</sup> Die Eidgenössische Hochschule für Sport (EHSM) ist Teil des BASPO.
-
-<sup>2</sup> An der EHSM besteht Lehr- und Forschungsfreiheit.
-
-<sup>3</sup> Die EHSM nimmt ihre Aufgaben selbstständig oder in Zusammenarbeit mit anderen in- und ausländischen Institutionen wahr.
-
-#### Art. 56
-
-**Hochschulangehörige**
-
-<sup>1</sup>
-
-Angehörige der EHSM sind:
-
-- a. die Rektorin oder der Rektor;
-- b. die Mitglieder der Studienleitung;
-- c. die Mitglieder des Lehrkörpers;
-- d. die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter;
-- e. das administrative und technische Personal des BASPO, soweit es Aufgaben für die EHSM wahrnimmt;
-- f. die Studierenden;
-- g. die Hörerinnen und Hörer.
-
-<sup>2</sup> Das VBS regelt die Aufgaben der Hochschulangehörigen und die besonderen Anstellungsvoraussetzungen des Personals der Hochschule.
-
-<sup>3</sup> Mitarbeiterinnen und Mitarbeiter, denen im Rahmen ihrer Anstellung am BASPO Arbeitszeit für das Verfassen einer Dissertation zur Verfügung gestellt wird, unterstehen dem Obligationenrecht.
-
-<sup>4</sup> Sind Mitarbeiterinnen und Mitarbeiter bereits öffentlich-rechtlich angestellt und soll ihnen Arbeitszeit für das Verfassen einer Dissertation zur Verfügung gestellt werden, ist mit ihnen vorgängig eine Vereinbarung über die Auflösung des öffentlich-rechtlichen Anstellungsvertrags und die Begründung eines Arbeitsverhältnisses nach Obligationenrecht zu treffen.
-
-<sup>5</sup> Die Studierenden können sich in einer Fachschaft organisieren und diese als ihren gemeinsamen Ansprechpartner gegenüber der EHSM bezeichnen.
-
-#### Art. 57
-
-**Lehre**
-
-<sup>1</sup>
-
-Die EHSM bietet folgende Studien- und Ausbildungsgänge an:
-
-- a. Bachelor- und Masterstudiengänge Sport;
-- b. Trainerlehrgänge.
+<sup>1</sup> Die Eidgenössische Hochschule für Sport Magglingen (EHSM) ist Teil des BASPO und leistet einen Beitrag zur nationalen Sport- und Bewegungsförderung.
 
 <sup>2</sup>
 
-Sie kann insbesondere folgende Ausbildungsgänge und Kurse anbieten:
+Sie erbringt die folgenden sportwissenschaftlichen Leistungen:
 
-- a. Ausbildungsmodule für Sportstudierende der universitären Hochschulen und der pädagogischen Hochschulen;
-- b. Angebote im Nachdiplombereich;
-- c. Ergänzungslehrgänge für Sportleiterinnen und -leiter.
+- a. praxisorientierte Aus- und Weiterbildung;
+- b. anwendungsorientierte Forschung und Entwicklung;
+- c. Dienstleistungen.
+
+<sup>3</sup> An der EHSM besteht Lehr- und Forschungsfreiheit.
+
+<sup>4</sup> Die EHSM nimmt ihre Aufgaben selbstständig oder in Zusammenarbeit mit anderen in- und ausländischen Institutionen wahr.
+
+[^55-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
+#### Art. 55a
+
+**Organisation**[^55a-1]
+
+<sup>1</sup> Die Direktorin oder der Direktor des BASPO ist das strategische Führungsorgan der EHSM.
+
+<sup>2</sup> Der EHSM-Beirat berät die Direktorin oder den Direktor in hochschulspezifischen Belangen.
+
+<sup>3</sup> Die Rektorin oder der Rektor führt die EHSM operativ.
+
+<sup>4</sup> Das BASPO erlässt für die EHSM ein Organisationsreglement.
+
+[^55a-1]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
+#### Art. 55b
+
+**EHSM-Beirat**[^55b-1]
+
+<sup>1</sup> Das VBS ernennt die Mitglieder des EHSM-Beirats für eine Amtsdauer von vier Jahren. Es kann die Amtsdauer einmal um weitere vier Jahre verlängern.
+
+<sup>2</sup> Es kann Mitglieder des EHSM-Beirats aus wichtigen Gründen des Amtes entheben.
+
+[^55b-1]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
+#### Art. 56
+
+**Hochschulangehörige und ihre Mitwirkungsrechte**[^56-1]
+
+<sup>1</sup>
+
+Hochschulangehörige sind:
+
+- a.
+
+  die Mitarbeiterinnen und Mitarbeiter bestehend aus:
+
+  - 1\. dem Personal, das organisatorisch der EHSM zugeteilt ist,
+  - 2\. dem übrigen Personal des BASPO, soweit es für die EHSM regelmässig Aufgaben in Lehre oder Forschung wahrnimmt;
+
+- b. die Studierenden und die Hörerinnen und Hörer.
+
+<sup>2</sup> Die Hochschulangehörigen haben Anspruch auf angemessene Information und Mitwirkung.
+
+<sup>3</sup> Die Mitwirkung des Personals nach Absatz 1 Buchstabe a wird durch die Einrichtung einer Mitarbeitendenorganisation gewährleistet. Diese besteht aus einer Mitarbeitendenversammlung und einer Mitarbeitendenvertretung.
+
+<sup>4</sup> Die Studierenden können sich zur Ausübung ihrer Mitwirkungsrechte in einer Studierendenvereinigung organisieren und diese als ihren gemeinsamen Ansprechpartner gegenüber der EHSM bezeichnen.
+
+<sup>5</sup> Das BASPO regelt die Einzelheiten im Organisationsreglement.
+
+[^56-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
+#### Art. 57
+
+**Lehre**[^57-1]
+
+<sup>1</sup>
+
+Die EHSM bietet folgende Studienstufen im Bereich Sportwissenschaften an:
+
+- a. Bachelorstudiengang (erste Studienstufe);
+- b. Masterstudiengang (zweite Studienstufe).
+
+<sup>2</sup>
+
+Sie kann im Bereich Sportwissenschaften folgende Weiterbildungen anbieten:
+
+- a. Weiterbildungsstudiengänge;
+- b. sonstige Weiterbildungsangebote.
+
+[^57-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 58
 
 **Forschung und Entwicklung**
 
-<sup>1</sup> Die EHSM betreibt angewandte Forschung und Entwicklung auf dem Gebiet der Sportwissenschaft.
+<sup>1</sup> Die EHSM betreibt anwendungsorientierte Forschung und Entwicklung auf dem Gebiet der Sportwissenschaft.[^58-1]
 
 <sup>2</sup> Sie erfüllt Aufgaben der Ressortforschung des Bundes im Bereich Sport und Bewegung, namentlich für Politikberatung, Expertise, Evaluation und Monitoring.
 
+[^58-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
 #### Art. 59
 
-**Dienstleistungen**
+[^59-1]
 
-Die EHSM erbringt sportwissenschaftliche Dienstleistungen.
+[^59-1]: Aufgehoben durch Ziff. I der V vom 11. Aug. 2021, mit Wirkung seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
-### 2. Abschnitt: Studien- und Ausbildungsgänge
+### 2. Abschnitt: Studiengänge****
+
+[^tit2-chap2-sec2-1]
+
+[^tit2-chap2-sec2-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 60
 
-**Zulassung zu den Studien**
+**Zulassung zu den Studienstufen**[^60-1]
 
-<sup>1</sup> Die Studienplätze auf der Bachelor-Stufe werden aufgrund der Ergebnisse einer Eignungsabklärung vergeben.
+<sup>1</sup> Das VBS legt die Zulassungsvoraussetzungen zum Bachelorstudiengang gemäss dem Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011[^60-2] und seinen Ausführungsbestimmungen fest. Die Studienplätze sind beschränkt und werden aufgrund der Ergebnisse einer Eignungsabklärung vergeben.
 
-<sup>2</sup> Die Studienplätze auf der Master-Stufe werden gestützt auf ein Bewerbungsverfahren vergeben.
+<sup>2</sup> Das VBS legt die Zulassungsvoraussetzungen zum Masterstudiengang gemäss den Ausführungsbestimmungen zum Hochschulförderungs- und -koordinationsgesetz fest. Die Studienplätze sind beschränkt und werden gestützt auf ein Bewerbungsverfahren vergeben.
 
-<sup>3</sup> Das VBS legt die Zulassungsvoraussetzungen und das Zulassungsverfahren fest.
+<sup>3</sup> Das VBS legt das Zulassungsverfahren fest.
+
+[^60-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^60-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 61
 
 **Gebühren**
 
-<sup>1</sup> Das VBS legt die Gebühren für die einzelnen Studien- und Ausbildungsgänge, Kurse und die Kompetenznachweise an der EHSM fest.
+<sup>1</sup> Das VBS legt die Gebühren für die einzelnen Studienstufen, die Weiterbildungen und die Kompetenznachweise an der EHSM fest.[^61-1]
 
 <sup>2</sup> Es kann für ausländische Studierende, die bei der Anmeldung zur Eignungsabklärung oder zum Bewerbungsverfahren keinen Wohnsitz in der Schweiz hatten, höhere Gebühren vorsehen.
+
+[^61-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 62
 
 **Bachelor- und Masterstudiengänge Sport**
 
-<sup>1</sup> Die Bachelor-Studiengänge bereiten die Studierenden auf eine berufliche Tätigkeit im Bereich Sport vor. Sie umfassen eine Studienleistung von 180 Kreditpunkten nach den Bologna-Richtlinien vom 4. Dezember 2003[^62-1].
+<sup>1</sup> Die Bachelorstudiengänge bereiten die Studierenden auf eine berufliche Tätigkeit im Bereich Sport vor. Sie umfassen eine Studienleistung von 180 ECTS-Punkten; die ECTS-Punkte werden gemäss den Ausführungsbestimmungen zum Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011[^62-1] berechnet.[^62-2]
 
-<sup>2</sup> Die Masterstudiengänge bauen auf den Bachelor-Studiengängen der EHSM auf. Sie umfassen eine Studienleistung von 90–120 Kreditpunkten nach den Bologna-Richtlinien.
+<sup>2</sup> Die Masterstudiengänge bauen auf den Bachelorstudiengängen auf und vermitteln sportpraktisches und sportwissenschaftliches Spezial- und Vertiefungswissen. Sie umfassen eine Studienleistung von 90 oder 120 ECTS-Punkten; die ECTS-Punkte werden gemäss den Ausführungsbestimmungen zum Hochschulförderungs- und -koordinationsgesetz berechnet.[^62-3]
 
 <sup>3</sup>
 
@@ -1024,19 +1103,30 @@ Die Absolventinnen und Absolventen können folgende geschützte Titel führen:
 
 <sup>7</sup> Das BASPO kann Vorschriften über die Organisation der Studiengänge, die Ausbildungsinhalte der einzelnen Studiengänge und die Durchführung der Kompetenznachweise erlassen.
 
-[^62-1]: [[AS 2004 3003](https://fedlex.data.admin.ch/eli/oc/2004/382), [2006 1071](https://fedlex.data.admin.ch/eli/oc/2006/189), [2008 3603](https://fedlex.data.admin.ch/eli/oc/2008/467). AS 2015 1627 Art. 9]. Siehe heute: die Bologna-Richtlinien UH vom 28. Mai 2015 ([SR 414.205.1](https://fedlex.data.admin.ch/eli/cc/2019/722)).
+[^62-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^62-2]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^62-3]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 63
 
-**Weiterbildungsstudiengänge**
+**Weiterbildungsstudiengänge**[^63-1]
 
-<sup>1</sup> Die EHSM kann Weiterbildungsstudiengänge mit Weiterbildungszertifikat (Certificate of Advanced Studies in [Bezeichnung der Vertiefungsrichtung]), Weiterbildungsdiplom (Diploma of Advanced Studies in [Bezeichnung der Vertiefungsrichtung]) oder mit Weiterbildungsmasterdiplom (Master of Advanced Studies in [Bezeichnung der Vertiefungsrichtung]) anbieten.
+<sup>1</sup>
+
+Die EHSM kann Weiterbildungsstudiengänge anbieten, die zu einem der folgenden Abschlüsse führen:
+
+- a. Certificate of Advanced Studies (CAS);
+- b. Diploma of Advanced Studies (DAS);
+- c. Master of Advanced Studies (MAS).
 
 <sup>2</sup> Zu den Weiterbildungsstudiengängen werden Personen zugelassen, die über einen Hochschulabschluss verfügen.
 
-<sup>3</sup> Studierende, die über keinen Hochschulabschluss verfügen, können zugelassen werden, wenn sich die Befähigung zur Teilnahme aus einem anderen Nachweis ergibt.
+<sup>3</sup> Personen, die über keinen Hochschulabschluss verfügen, können zugelassen werden, wenn sich die Befähigung zur Teilnahme aus einem anderen Nachweis ergibt.
 
-<sup>4</sup> Das VBS regelt den Umfang der Studiengänge.
+<sup>4</sup> Das VBS regelt die Ausrichtung und die Studienleistungen der Weiterbildungsstudiengänge sowie die Anforderungen an die Abschlüsse gemäss den Ausführungsbestimmungen zum Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011[^63-2].
+
+[^63-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^63-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 63a
 
@@ -1054,15 +1144,9 @@ Die Absolventinnen und Absolventen können folgende geschützte Titel führen:
 
 #### Art. 64
 
-**Verfügung vonQualifikationen**
+[^64-1]
 
-<sup>1</sup> Ist eine Studierende oder ein Studierender mit der Durchführung oder Bewertung eines Kompetenznachweises nicht einverstanden, so erlässt das BASPO auf ihr oder sein Verlangen eine Verfügung, sofern die Voraussetzungen von Artikel 5 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^64-1] erfüllt sind.
-
-<sup>2</sup> Die Studienleitung erläutert der oder dem Studierenden die Ergebnisse vorgängig.
-
-<sup>3</sup> Die Abschlussqualifikationen der Bachelor- und der Masterstudien sowie der übrigen Ausbildungen werden mit Verfügung eröffnet.
-
-[^64-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^64-1]: Aufgehoben durch Ziff. I der V vom 11. Aug. 2021, mit Wirkung seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 65
 
@@ -1203,6 +1287,20 @@ Die Höhe des Beitrags richtet sich nach:
 <sup>4</sup> Hat der Bund ein besonderes Interesse an der Durchführung des Anlasses, so kann die Kostenbeteiligung höher sein.
 
 <sup>5</sup> Für die Unterstützung von internationalen Sportkongressen gelten die Absätze 1 Buchstaben a und b sowie 2 und 3 sinngemäss.
+
+#### Art. 72a
+
+**Aus- und Weiterbildung von Trainerinnen und Trainern**[^72a-1]
+
+<sup>1</sup> Das BASPO führt ein Kompetenzzentrum für die Aus- und Weiterbildung von Trainerinnen und Trainern im leistungsorientierten Nachwuchssport und im Spitzensport.
+
+<sup>2</sup> Es bietet Aus- und Weiterbildungen im Bereich der Trainerbildung an.
+
+<sup>3</sup> Es kann die Zulassung zu einzelnen Bildungsangeboten von besonderen im Rahmen der J+S-Kaderbildung erworbenen Qualifikationen oder gleichwertigen Qualifikationen sowie einer aktuellen Tätigkeit im Leistungssport abhängig machen.
+
+<sup>4</sup> Es kann mit Organisationen der Arbeitswelt im Bereich der Trainerberufsbildung und mit weiteren inländischen oder ausländischen Institutionen im Bereich der Trainerbildung zusammenarbeiten.
+
+[^72a-1]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 ## 4. Titel: Fairness und Sicherheit****
 
@@ -1365,13 +1463,15 @@ Unter Vorbehalt widersprechender Bestimmungen in Artikel 32 SpoFöG sowie abweic
 
 <sup>1</sup> ...[^80-1]
 
-<sup>2</sup> Für Weiterbildungsstudiengänge nach Artikel 63 werden kostendeckende Gebühren erhoben.
+<sup>2</sup> Das BASPO beachtet bei der Festsetzung der Preise für Weiterbildungen nach Artikel 57 Absatz 2 die Grundsätze von Artikel 9 des Bundesgesetzes vom 20. Juni 2014[^80-2] über die Weiterbildung.[^80-3]
 
 <sup>3</sup> Das BASPO veröffentlicht Preislisten für regelmässig erbrachte gewerbliche Leistungen.
 
 <sup>4</sup> Befinden sich Gebührenschuldnerinnen und -schuldner mit der Bezahlung von Gebühren im Verzug, so ist das BASPO berechtigt, sie bis zur vollständigen Bezahlung von der Erbringung weiterer Dienstleistungen auszuschliessen.
 
 [^80-1]: Aufgehoben durch Art. 10 der V vom 15. Nov. 2017 über die Gebühren des Bundesamts für Sport, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6601](https://fedlex.data.admin.ch/eli/oc/2017/732)).
+[^80-2]: [SR 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
+[^80-3]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 80a
 
@@ -1396,10 +1496,10 @@ Folgende Verordnungen werden aufgehoben:
 - 3\. Verordnung vom 21. Oktober 1987[^81-3] über die Turn- und Sportlehrerausbildung an Hochschulen;
 - 4\. Verordnung vom 17. Oktober 2001[^81-4] über die Mindestanforderungen bei der Durchführung von Dopingkontrollen.
 
-[^81-1]: [[AS 1987 1703](https://fedlex.data.admin.ch/eli/oc/1987/1703_1703_1703), [1990 981](https://fedlex.data.admin.ch/eli/oc/1990/981_981_981), [1994 1392](https://fedlex.data.admin.ch/eli/oc/1994/1392_1392_1392), [1996 3018](https://fedlex.data.admin.ch/eli/oc/1996/3018_3018_3018), [1998 1472](https://fedlex.data.admin.ch/eli/oc/1998/1472_1472_1472), [2000 2427](https://fedlex.data.admin.ch/eli/oc/2000/387)[2966](https://fedlex.data.admin.ch/eli/oc/2000/533), [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)Anhang 2 Ziff. 2 [4003](https://fedlex.data.admin.ch/eli/oc/2002/642), [2004 4593](https://fedlex.data.admin.ch/eli/oc/2004/703), [2005 257](https://fedlex.data.admin.ch/eli/oc/2005/39), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 28, [2007 4297](https://fedlex.data.admin.ch/eli/oc/2007/571)[5823](https://fedlex.data.admin.ch/eli/oc/2007/789)Ziff. I 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 4.2]
-[^81-2]: [[AS 1976 1403](https://fedlex.data.admin.ch/eli/oc/1976/1403_1403_1403), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)Art. 24 Abs. 1 Bst. e]
-[^81-3]: [[AS 1987 1464](https://fedlex.data.admin.ch/eli/oc/1987/1464_1464_1464),[1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 22 [3021](https://fedlex.data.admin.ch/eli/oc/1996/3021_3021_3021)]
-[^81-4]: [[AS 2001 2971](https://fedlex.data.admin.ch/eli/oc/2001/437), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 6]
+[^81-1]: [[AS 1987 1703](https://fedlex.data.admin.ch/eli/oc/1987/1703_1703_1703); [1990 981](https://fedlex.data.admin.ch/eli/oc/1990/981_981_981); [1994 1392](https://fedlex.data.admin.ch/eli/oc/1994/1392_1392_1392); [1996 3018](https://fedlex.data.admin.ch/eli/oc/1996/3018_3018_3018); [1998 1472](https://fedlex.data.admin.ch/eli/oc/1998/1472_1472_1472); [2000 2427](https://fedlex.data.admin.ch/eli/oc/2000/387), [2966](https://fedlex.data.admin.ch/eli/oc/2000/533); [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)Anhang 2 Ziff. 2, [4003](https://fedlex.data.admin.ch/eli/oc/2002/642), [2004 4593](https://fedlex.data.admin.ch/eli/oc/2004/703); [2005 257](https://fedlex.data.admin.ch/eli/oc/2005/39); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 28; [2007 4297](https://fedlex.data.admin.ch/eli/oc/2007/571), [5823](https://fedlex.data.admin.ch/eli/oc/2007/789)Ziff. I 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 4.2]
+[^81-2]: [[AS 1976 1403](https://fedlex.data.admin.ch/eli/oc/1976/1403_1403_1403); [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)Art. 24 Abs. 1 Bst. e]
+[^81-3]: [[AS 1987 1464](https://fedlex.data.admin.ch/eli/oc/1987/1464_1464_1464);[1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 22 [3021](https://fedlex.data.admin.ch/eli/oc/1996/3021_3021_3021)]
+[^81-4]: [[AS 2001 2971](https://fedlex.data.admin.ch/eli/oc/2001/437); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 6]
 
 #### Art. 82
 

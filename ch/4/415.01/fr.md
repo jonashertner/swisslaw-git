@@ -4,11 +4,11 @@ title: "Ordonnance du 23 mai 2012 sur l'encouragement du sport et de l'activité
 short: OESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: fr
-version: 2021-08-01
+version: 2021-10-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20210801/fr"
 
 (Ordonnance sur l’encouragement du sport, OESp)
 
-du 23 mai 2012 (Etat le 1<sup>er</sup> août 2021)
+du 23 mai 2012 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -49,7 +49,7 @@ La Confédération soutient des programmes et des projets d’encouragement du s
 - a. de concevoir et d’encourager un sport adapté aux enfants et aux jeunes en tenant compte des principes de l’éthique et de la sécurité dans le sport;
 - b. de permettre aux enfants et aux jeunes de vivre pleinement le sport et de participer à la mise en place des activités sportives tout en favorisant leur intégration dans une communauté sportive;
 - c. de contribuer au développement et à l’épanouissement des jeunes d’un point de vue pédagogique et en termes d’intégration sociale et de santé;
-- d.[^2-1] …
+- d.[^2-1] ...
 - e. de préparer les moniteurs de sport à leurs tâches de cadres J+S en leur offrant une formation spécifique, une formation continue adaptée à leurs besoins et un suivi dans l’exercice de leur fonction.
 
 <sup>2</sup> A des fins d’intégration sociale ou de santé publique, pour réaliser l’égalité entre les sexes ou pour assurer la promotion du programme J+S, l’Office fédéral du sport (OFSPO) peut prendre des mesures encourageant des groupes spécifiques d’enfants et de jeunes à pratiquer certains sports J+S, ou propres à promouvoir J+S auprès de ces groupes.
@@ -149,9 +149,9 @@ On distingue 6 groupes d’utilisateurs (GU) au sein de J+S. L’OFSPO répartit
   - 1\.[^8-4] ...
   - 2\. comme mesures d’encouragement particulières au sens de l’art. 22, al. 4;
 
-- g.[^8-5] …
+- g.[^8-5] ...
 
-<sup>2</sup> …[^8-6]
+<sup>2</sup> ...[^8-6]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
@@ -185,19 +185,45 @@ Le DDPS fixe pour chaque groupe d’utilisateurs:
 
 #### Art. 10
 
-**Organisateurs des offres J+S**
+**Exigences posées aux organisateurs d’offres J+S**[^10-1]
 
 <sup>1</sup>
 
-Quiconque entend proposer des offres J+S (organisateur) doit:
+Quiconque entend réaliser des cours ou des camps J+S dans un ou plusieurs sports J+S (organisateur) doit:
 
-- a. être une personne morale de droit privé ou de droit public, en particulier une fédération sportive, une société sportive, une association de jeunesse ou une école;
-- b. être constitué conformément au droit suisse, et
-- c. avoir son siège en Suisse.
+- a. être une école ou une personne morale de droit privé ou de droit public, en particulier une fédération sportive, une association sportive, une fédération de jeunesse ou une association de jeunesse;
+- b. être constitué conformément au droit suisse;
+- c. avoir son siège en Suisse;
+- d. être enregistré auprès de l’OFSPO.
 
-<sup>2</sup> Les personnes morales constituées en tant que sociétés de capitaux ou coopératives, ainsi que les personnes physiques, sont admises comme organisateurs d’offres J+S si leur activité commerciale ou professionnelle principale relève de la formation au sport ou de l’organisation d’activités sportives.
+<sup>2</sup> Les personnes morales constituées en tant que sociétés de capitaux ou coopératives, ainsi que les personnes physiques, doivent exercer leur activité commerciale ou professionnelle principale dans le domaine de la formation sportive ou de l’organisation d’activités sportives.
 
-<sup>3</sup> Les organisateurs proposent des cours ou des camps dans un ou plusieurs sports J+S.
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+
+#### Art. 10a
+
+**Enregistrement en tant qu’organisateur**[^10a-1]
+
+<sup>1</sup>
+
+L’organe autorisé à signer de l’organisateur dépose auprès de l’OFSPO une demande d’enregistrement comprenant les indications suivantes:
+
+- a. statuts ou règlement interne;
+- b. sports J+S dans lesquels l’organisateur entend réaliser des cours ou des camps J+S;
+- c. le cas échéant, affiliation à une fédération sportive ou à une fédération de jeunesse nationale;
+- d. coordonnées bancaires libellées exclusivement au nom de l’organisateur;
+- e. coordonnées de la personne qui assumera la fonction de coach J+S pour l’organisateur.
+
+<sup>2</sup>
+
+L’OFSPO indique dans sa décision:
+
+- a. les groupes d’utilisateurs dans lesquels l’organisateur a le droit de proposer des cours et des camps J+S;
+- b. le canton qui fait office d’instance d’autorisation selon l’art. 22, al. 5, let. a.
+
+<sup>3</sup> L’organisateur est tenu de communiquer sans délai à l’OFSPO toute modification relative aux éléments visés à l’al. 1 intervenant après l’enregistrement.
+
+[^10a-1]: Introduit par le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 #### Art. 11
 
@@ -236,7 +262,7 @@ Font partie des cadres J+S toutes les personnes titulaires d’un certificat:[^1
 
 - a.[^13-2] de moniteur J+S, y compris de moniteur J+S Sport scolaire;
 - b. de coach J+S;
-- c.[^13-3] …
+- c.[^13-3] ...
 - d. d’expert J+S.
 
 <sup>1bis</sup> Sauf disposition contraire de la présente ordonnance ou d’ordonnances qui lui sont subordonnées, les dispositions s’appliquant aux moniteurs J+S s’appliquent également aux moniteurs J+S Sport scolaire.[^13-4]
@@ -325,7 +351,7 @@ Les experts J+S forment les moniteurs J+S, les coachs J+S, les entraîneurs de l
 L’OFSPO peut suspendre ou retirer la reconnaissance d’un cadre dans les cas suivants:
 
 - a. non-respect des obligations inscrites dans la loi, dans la présente ordonnance ou dans les dispositions d’exécution qui en découlent;
-- b. inaptitude de ce cadre à accomplir sa tâche; ou
+- b. inaptitude de ce cadre à accomplir sa tâche, ou
 - c. collaboration impossible entre ce cadre, d’une part, et l’OFSPO ou le service cantonal J+S, d’autre part, en raison de la dégradation de leurs rapports de confiance.
 
 <sup>2</sup> Au lieu de suspendre la reconnaissance d’un cadre ou de la lui retirer, l’OFSPO peut lier la poursuite de son activité de cadre à des charges.
@@ -385,7 +411,7 @@ Les subventions sont fonction:
 - b. du nombre, de la fréquence et du volume des entraînements et des compétitions pendant une période donnée;
 - c. du groupe d’utilisateurs;
 - c<sup>bis</sup>.[^23-1] du sport;
-- d.[^23-2] …
+- d.[^23-2] ...
 
 <sup>2</sup> Des subventions supplémentaires peuvent être allouées aux sports dont la pratique nécessite des mesures de sécurité ou des qualifications particulières de la part des moniteurs. Le DDPS détermine ces sports.
 
@@ -396,7 +422,7 @@ Des subventions supplémentaires peuvent être allouées:
 - a. aux offres J+S du GU 5 intégrant des enfants;
 - b. aux offres J+S intégrant des enfants et des jeunes handicapés.
 
-<sup>4</sup> …[^23-3]
+<sup>4</sup> ...[^23-3]
 
 <sup>5</sup> Le DDPS détermine le montant des subventions. Il adapte périodiquement les subventions au renchérissement.
 
@@ -426,7 +452,7 @@ Des subventions supplémentaires peuvent être allouées:
 
 <sup>1</sup> Les subventions pour les coachs J+S sont fonction du montant des subventions allouées pour la réalisation des offres J+S. Elles s’élèvent au maximum à 10 % de la somme globale.
 
-<sup>2</sup> Les subventions supplémentaires au sens de l’art. 23, al. 2 et 3, ne sont pas prises en compte dans le calcul de la somme globale. …[^24-1]
+<sup>2</sup> Les subventions supplémentaires au sens de l’art. 23, al. 2 et 3, ne sont pas prises en compte dans le calcul de la somme globale. ...[^24-1]
 
 <sup>3</sup> Le DDPS détermine le montant des subventions.
 
@@ -501,7 +527,7 @@ L’OFSPO conclue des contrats de prestations avec les fédérations sportives e
 
 <sup>4</sup> Il peut prendre en charge les frais de transports publics payés par les participants, les moniteurs et les auxiliaires de la formation des cadres pour se rendre aux cours de formation et de formation continue.[^28-1]
 
-<sup>5</sup> …[^28-2]
+<sup>5</sup> ...[^28-2]
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^28-2]: Abrogé par le ch. I de l’O du 20 août 2014, avec effet au 1<sup>er</sup> oct. 2014 ([RO 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
@@ -624,8 +650,7 @@ L’OFSPO retire la reconnaissance d’un cadre ESA dans les cas suivants:
 
 - a. condamnation pénale inspirant des doutes fondés sur la capacité de ce cadre à assumer sa tâche correctement;
 - b. manquements répétés aux obligations visées à l’art. 35.
-
-<sup>4</sup> Les cadres ESA qui, en vue de remplir leur obligation de formation continue, se sont inscrits dans les délais prescrits à un module de formation continue dont la réalisation n’est pas possible en raison des mesures prises par la Confédération pour lutter contre le coronavirus voient leur reconnaissance prolongée.[^39-2]
+- [tab] <sup>4</sup> Les cadres ESA qui, en vue de remplir leur obligation de formation continue, se sont inscrits dans les délais prescrits à un module de formation continue dont la réalisation n’est pas possible en raison des mesures prises par la Confédération pour lutter contre le coronavirus voient leur reconnaissance prolongée.[^39-2]
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
 [^39-2]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur du 1<sup>er</sup> juin 2020 au 31 déc. 2021 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
@@ -908,104 +933,157 @@ Les aides financières sont calculées en fonction:
 - c. des propres prestations et des subventions des offices fédéraux ou de tiers;
 - d. des charges liées à l’assurance qualité.
 
-### Chapitre 2 Haute école fédérale de sport
+### Chapitre 2 Haute école fédérale de sport de Macolin****
+
+[^tit2-chap2-1]
+
+[^tit2-chap2-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 ### Section 1 Statut et tâches
 
 #### Art. 55
 
-**Haute école fédérale de sport**
+**Mandat, prestations et principes**[^55-1]
 
-<sup>1</sup> La Haute école fédérale de sport (HEFSM) est intégrée à l’OFSPO.
+<sup>1</sup> La Haute école fédérale de sport de Macolin (HEFSM) est intégrée à l’OFSPO et contribue à l’encouragement national du sport et de l’activité physique.
 
-<sup>2</sup> La HEFSM est libre en matière de recherche et d’enseignement.
+<sup>2</sup>
 
-<sup>3</sup> La HEFSM exécute ses tâches de manière autonome ou en collaboration avec d’autres institutions suisses ou étrangères.
+Elle fournit les prestations suivantes dans le domaine des sciences du sport:
+
+- a. formation et formation continue axées sur la pratique;
+- b. recherche appliquée et développement;
+- c. prestations de service.
+
+<sup>3</sup> La HEFSM est libre en matière de recherche et d’enseignement.
+
+<sup>4</sup> Elle exécute ses tâches de manière autonome ou en collaboration avec d’autres institutions suisses ou étrangères.
+
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
+#### Art. 55a
+
+**Organisation**[^55a-1]
+
+<sup>1</sup> Le directeur de l’OFSPO est l’organe de conduite stratégique de la HEFSM.
+
+<sup>2</sup> Le conseil consultatif de la HEFSM conseille le directeur de l’OFSPO dans les affaires ayant spécifiquement trait à l’enseignement supérieur.
+
+<sup>3</sup> Le recteur dirige l’école sur le plan opérationnel.
+
+<sup>4</sup> L’OFSPO édicte un règlement d’organisation pour la HEFSM.
+
+[^55a-1]: Introduit par le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
+#### Art. 55b
+
+**Conseil consultatif de la HEFSM**[^55b-1]
+
+<sup>1</sup> Le DDPS nomme les membres du conseil consultatif de la HEFSM pour une période de quatre ans. Il peut reconduire ce mandat une fois pour quatre ans supplémentaires.
+
+<sup>2</sup> Pour de justes motifs, il peut relever de leur fonction des membres du conseil consultatif de la HEFSM.
+
+[^55b-1]: Introduit par le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 56
 
-**Membres de la HEFSM**
+**Membres de la HEFSM et leurs droits de participation**[^56-1]
 
 <sup>1</sup>
 
 Les membres de la HEFSM sont:
 
-- a. le recteur;
-- b. les membres de la direction des études;
-- c. les membres du corps enseignant;
-- d. les collaborateurs scientifiques;
-- e. le personnel administratif et technique de l’OFSPO, pour autant qu’il assume des tâches pour la HEFSM;
-- f. les étudiants;
-- g. les auditeurs.
+- a.
 
-<sup>2</sup> Le DDPS fixe les tâches des membres de la HEFSM et les conditions d’engagement spéciales du personnel de la haute école.
+  les collaborateurs, qui comprennent:
 
-<sup>3</sup> Les collaborateurs auxquels l’OFSPO octroie, dans le cadre de leur engagement, du temps de travail pour la rédaction d’une thèse, sont soumis au code des obligations.
+  - 1\. le personnel assigné à la HEFSM sur le plan organisationnel,
+  - 2\. les autres membres du personnel de l’OFSPO qui assument régulièrement des tâches pour la HEFSM dans les domaines de l’enseignement ou de la recherche;
 
-<sup>4</sup> Lorsque du temps de travail est accordé à un collaborateur soumis à un contrat de droit public pour rédiger une thèse de doctorat, un accord prévoyant la dissolution de son contrat et la conclusion d’un contrat de travail régi par le code des obligations est établi au préalable avec lui.
+- b. les étudiants et les auditeurs.
 
-<sup>5</sup> Les étudiants peuvent former une association d’étudiants et lui conférer la qualité d’interlocuteur face à la HEFSM.
+<sup>2</sup> Les membres de la HEFSM bénéficient d’un droit à l’information et d’un droit de participation adaptés.
+
+<sup>3</sup> La participation du personnel visé à l’al. 1, let. a, est garantie par la mise en place d’une organisation de collaborateurs. Cette dernière se compose d’une assemblée du personnel et de représentants du personnel.
+
+<sup>4</sup> Pour exercer leurs droits de participation, les étudiants peuvent s’organiser en une association qu’ils désignent comme leur interlocutrice commune vis-à-vis de la HEFSM.
+
+<sup>5</sup> L’OFSPO règle les modalités dans le règlement d’organisation.
+
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 57
 
-**Enseignement**
+**Enseignement**[^57-1]
 
 <sup>1</sup>
 
-La HEFSM propose les filières d’études et de formation suivantes:
+La HEFSM propose deux cycles d’études dans le domaine des sciences du sport:
 
-- a. filières d’études *bachelor* et *master* en sport;
-- b. cours pour entraîneurs.
+- a. la filière de bachelor (premier cycle);
+- b. la filière de master (deuxième cycle).
 
 <sup>2</sup>
 
-Elle peut proposer en particulier les filières de formation et les cours suivants:
+Elle peut aussi proposer les formations continues suivantes dans le domaine des sciences du sport:
 
-- a. modules de formation pour les étudiants en sport des hautes écoles universitaires et des hautes écoles pédagogiques;
-- b. cours postgrades;
-- c. filières complémentaires pour les moniteurs de sport.
+- a. filières de formation continue;
+- b. autres offres de formation continue.
+
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 58
 
 **Recherche et développement**
 
-<sup>1</sup> La HEFSM effectue des travaux de recherche appliquée et de développement dans le domaine des sciences du sport.
+<sup>1</sup> La HEFSM effectue des travaux de développement et de recherche orientée vers les applications dans le domaine des sciences du sport.[^58-1]
 
 <sup>2</sup> Elle exécute des tâches de recherche de la Confédération dans le domaine du sport et de l’activité physique, notamment pour le conseil politique, l’expertise, l’évaluation et le monitorage.
 
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
 #### Art. 59
 
-**Prestations de services**
+[^59-1]
 
-La HEFSM fournit des prestations de services en sciences du sport.
+[^59-1]: Abrogé par le ch. I de l’O du 11 août 2021, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
-### Section 2 Filières d’études et de formation
+### Section 2 Filières d’études****
+
+[^tit2-chap2-sec2-1]
+
+[^tit2-chap2-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 60
 
-**Admission aux études**
+**Admission aux cycles d’études**[^60-1]
 
-<sup>1</sup> Les places d’études au niveau *bachelor* sont attribuées en fonction des résultats d’un test d’aptitude.
+<sup>1</sup> Le DDPS fixe les conditions d’admission à la filière de bachelor conformément à la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles (LEHE)[^60-2] et à ses dispositions d’exécution. Les places d’études sont disponibles en nombre limité et attribuées en fonction des résultats à un test d’aptitude.
 
-<sup>2</sup> Les places d’études au niveau *master* sont attribuées en vertu d’une procédure de candidature.
+<sup>2</sup> Le DDPS fixe les conditions d’admission à la filière de master conformément aux dispositions d’exécution de la LEHE. Les places d’études sont disponibles en nombre limité et attribuées en vertu d’une procédure de candidature.
 
-<sup>3</sup> Le DDPS fixe les conditions et la procédure d’admission.
+<sup>3</sup> Le DDPS fixe les modalités de la procédure d’admission.
+
+[^60-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^60-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 61
 
 **Taxes**
 
-<sup>1</sup> Le DDPS fixe les taxes applicables aux filières d’études et de formation, aux cours et aux évaluations de compétences de la HEFSM.
+<sup>1</sup> Le DDPS fixe le montant des émoluments pour les différents cycles d’études, les formations continues et les évaluations de compétences à la HEFSM.[^61-1]
 
 <sup>2</sup> Il peut prévoir des taxes d’études plus élevées pour les étudiants étrangers qui ne sont pas domiciliés en Suisse lors de l’inscription au test d’aptitude ou de la procédure de candidature.
+
+[^61-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 62
 
 **Filières d’études *bachelor* et *master***
 
-<sup>1</sup> Les filières d’études *bachelor* préparent les étudiants à l’exercice d’une activité professionnelle dans le domaine du sport. Elles comprennent une prestation d’études de 180 points ECTS, conformément aux directives de Bologne du 4 décembre 2003[^62-1].
+<sup>1</sup> Les filières de bachelor préparent les étudiants à l’exercice d’une activité professionnelle dans le domaine du sport. Elles comprennent une prestation d’études de 180 crédits ECTS; les crédits ECTS sont calculés conformément aux dispositions d’exécution de la LEHE[^62-1].[^62-2]
 
-<sup>2</sup> Les filières d’études *master* s’inscrivent dans le prolongement des études *bach**e**lor* de la HEFSM. Elles comprennent une prestation d’études de 90 à 120 points ECTS, conformément aux directives de Bologne.
+<sup>2</sup> Les filières de master s’inscrivent dans le prolongement des études de bachelor et permettent d’acquérir des connaissances spécifiques et approfondies dans les domaines de la pratique sportive et des sciences du sport. Elles comprennent une prestation d’études de 90 ou de 120 crédits ECTS; les crédits ECTS sont calculés conformément aux dispositions d’exécution de la LEHE.[^62-3]
 
 <sup>3</sup>
 
@@ -1022,19 +1100,30 @@ Les lauréats peuvent porter les titres protégés suivants:
 
 <sup>7</sup> L’OFSPO peut édicter des prescriptions sur l’organisation des filières d’études, le contenu des différentes filières d’études et la réalisation des évaluations de compétence.
 
-[^62-1]: [[RO 2004 3003](https://fedlex.data.admin.ch/eli/oc/2004/382), [2006 1071](https://fedlex.data.admin.ch/eli/oc/2006/189), [2008 3603](https://fedlex.data.admin.ch/eli/oc/2008/467). [RO 2015 1627](https://fedlex.data.admin.ch/eli/oc/2015/322)art. 9]. Voir actuellement les Directives de Bologne du 18 mai 2015 ([RS 414.205.1](https://fedlex.data.admin.ch/eli/cc/2019/722)).
+[^62-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^62-2]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^62-3]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 63
 
-**Filières postgrades**
+**Filières de formation continue**[^63-1]
 
-<sup>1</sup> La HEFSM peut proposer des filières postgrades donnant droit à une reconnaissance de formation postgrade (*Certificate of Advanced Studies* *in* [désignation de la spécialisation]), un diplôme de formation postgrade (*Diploma of Advanced Studies* *in* [désignation de la spécialisation]) ou un diplôme de *master* postgrade (*Master of Adva**n**ced Studies* *in* [désignation de la spécialisation]).
+<sup>1</sup>
 
-<sup>2</sup> Sont admises aux filières postgrades les personnes diplômées d’une haute école.
+La HEFSM peut proposer des filières de formation continue menant aux titres suivants:
 
-<sup>3</sup> Les étudiants qui ne sont pas diplômés d’une haute école peuvent être admis aux filières postgrades s’ils fournissent d’une autre manière la preuve de leur aptitude à suivre ces dernières.
+- a. Certificate of Advanced Studies (CAS);
+- b. Diploma of Advanced Studies (DAS);
+- c. Master of Advanced Studies (MAS).
 
-<sup>4</sup> Le DDPS fixe le nombre de cours pour chaque filière.
+<sup>2</sup> Sont admises aux filières de formation continue les personnes diplômées d’une haute école.
+
+<sup>3</sup> Les personnes qui ne possèdent pas de diplôme d’une haute école peuvent être admises aux filières de formation continue si elles fournissent d’une autre manière la preuve de leur aptitude à suivre ces dernières.
+
+<sup>4</sup> Le DDPS règle l’orientation des études et les prestations d’études à fournir dans le cadre des filières de formation continue ainsi que les exigences liées aux diplômes conformément aux dispositions d’exécution de la LEHE[^63-2].
+
+[^63-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^63-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 63a
 
@@ -1052,15 +1141,9 @@ Les lauréats peuvent porter les titres protégés suivants:
 
 #### Art. 64
 
-**Notification des qualifications par une décision**
+[^64-1]
 
-<sup>1</sup> Si un étudiant n’est pas d’accord avec l’exécution ou l’appréciation d’une évaluation de compétences, l’OFSPO rend à sa demande une décision pour autant que les conditions fixées à l’art. 5 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^64-1] soient remplies.
-
-<sup>2</sup> La direction des études explique au préalable les résultats à l’étudiant.
-
-<sup>3</sup> Les qualifications de fin d’études de *bachelor* et de *master* ainsi que des autres formations sont notifiées par une décision.
-
-[^64-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^64-1]: Abrogé par le ch. I de l’O du 11 août 2021, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 65
 
@@ -1202,6 +1285,20 @@ Le montant de la participation dépend:
 
 <sup>5</sup> L’al. 1, let. a et b ainsi que les al. 2 et 3 sont applicables par analogie au soutien des congrès de sport internationaux.
 
+#### Art. 72a
+
+**Formation et formation continue des entraîneurs**[^72a-1]
+
+<sup>1</sup> L’OFSPO gère un centre de compétences pour la formation et la formation continue des entraîneurs de la relève dans le sport de compétition et des sportifs d’élite.
+
+<sup>2</sup> Il propose des formations et des formations continues dans le domaine de la formation des entraîneurs.
+
+<sup>3</sup> Il peut subordonner l’admission aux diverses offres de formation à des qualifications spécifiques acquises dans le cadre de la formation des cadres J+S ou à d’autres qualifications équivalentes ainsi qu’à l’exercice actuel d’une activité dans le domaine du sport de compétition.
+
+<sup>4</sup> Il peut collaborer avec des organisations du monde du travail dans le domaine de la formation professionnelle des entraîneurs ainsi qu’avec d’autres institutions suisses ou étrangères dans le domaine de la formation des entraîneurs.
+
+[^72a-1]: Introduit par le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+
 ## Titre 4 Éthique et sécurité****
 
 [^tit4-1]
@@ -1238,7 +1335,7 @@ Les produits interdits au sens de l’art. 19, al. 3, LESp sont:
 
 - a. les substances qui figurent en annexe;
 - b. leurs sels, esters, éthers et isomères optiques;
-- c. les sels, esters et éthers de leurs isomères optiques; et
+- c. les sels, esters et éthers de leurs isomères optiques, et
 - d. les préparations qui contiennent ces substances.
 
 <sup>2</sup> Les méthodes interdites au sens de l’art. 19, al. 3, LESp, sont les méthodes énumérées en annexe.
@@ -1289,7 +1386,7 @@ L’agence nationale de lutte contre le dopage établit chaque année une planif
 
 L’autorité chargée du contrôle antidopage signale immédiatement les contrôles positifs aux instances suivantes:
 
-- a. l’autorité disciplinaire de la fédération compétente, en lui demandant d’engager une procédure disciplinaire; et
+- a. l’autorité disciplinaire de la fédération compétente, en lui demandant d’engager une procédure disciplinaire, et
 - b. l’autorité de poursuite pénale compétente, en lui faisant parvenir tous les documents nécessaires.
 
 #### Art. 78
@@ -1361,15 +1458,17 @@ Sous réserve de dispositions contraires figurant à l’art. 32 LESp ainsi que 
 
 **Émoluments et prix pour les prestations de l’OFSPO**
 
-<sup>1</sup> …[^80-1]
+<sup>1</sup> ...[^80-1]
 
-<sup>2</sup> Des émoluments permettant de couvrir les frais doivent être perçus pour les filières postgrades visées à l’art. 63.
+<sup>2</sup> Pour fixer le prix des formations continues visées à l’art. 57, al. 2, l’OFSPO prend en compte les principes énoncés à l’art. 9 de la loi fédérale du 20 juin 2014 sur la formation continue[^80-2].[^80-3]
 
 <sup>3</sup> L’OFSPO publie une liste de prix pour les prestations commerciales courantes.
 
 <sup>4</sup> Il est habilité à ne pas fournir de nouvelles prestations en cas de retard de paiement des émoluments.
 
 [^80-1]: Abrogé par l’art. 10 de l’O du 15 nov. 2017 sur les émoluments de l’Office fédéral du sport, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6601](https://fedlex.data.admin.ch/eli/oc/2017/732)).
+[^80-2]: [RS 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
+[^80-3]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 80a
 
@@ -1403,7 +1502,7 @@ Sont abrogées:
 
 **Modification du droit en vigueur**
 
-…[^82-1]
+...[^82-1]
 
 [^82-1]: Les mod. peuvent être consultées au [RO 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)
 
