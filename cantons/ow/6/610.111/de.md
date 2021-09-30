@@ -4,20 +4,22 @@ number: "610.111"
 title: Ausführungsbestimmungen über den Vollzug des Finanzhaushaltsgesetzes durch den Kanton
 short: AB FHG
 language: de
-version: 2018-07-01
-valid_until: 2021-09-30
-version_adopted: 2018-04-10
+version: 2021-10-01
+valid_until: 2023-12-31
+version_adopted: 2021-09-21
 adopted: 2012-11-27
 in_force: 2013-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/610.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1287/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1723/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über den Vollzug des Finanzhaushaltsgesetzes durch den Kanton
 
-vom 27.11.2012 (Stand 01.07.2018)
+(AB FHG)
+
+vom 27.11.2012 (Stand 01.10.2021)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -268,19 +270,11 @@ beschliesst:
 
 <sup>4</sup> Die Departemente legen die weitergehenden Kennzahlen und ihre Verwendung selbstständig fest.
 
-## 5. Internes Kontrollsystem (IKS)
+## 5.
 
-#### Art. 20
+#### Art. 20–21
 
-**Umfang**
-
-<sup>1</sup> Das Interne Kontrollsystem (IKS) des Kantons umfasst die Steuerungs- und Kontrollaktivitäten in den Bereichen der Amts- und Personalführung, der Leistungen und Finanzen sowie von amtsspezifischen Bereichen.
-
-#### Art. 21
-
-**Verantwortlichkeiten**
-
-<sup>1</sup> Die Amtsleitungen sowie die Departementssekretariate tragen die Gesamtverantwortung für die Einführung, den Einsatz, die Umsetzung und die Überwachung des IKS in ihrem Bereich. Sie sind primär für die operative Ausgestaltung und Steuerung des IKS zuständig.
+**…**
 
 #### Art. 22
 
@@ -312,6 +306,8 @@ Geändert durch:
 
 \- Ausführungsbestimmungen über das Konsolidierung- und Aufgabenüberprüfungspaket vom 8. November 2016 (OGS 2016, 64),
 
-\- Nachtrag vom 10. April 2018, in Kraft seit 1. Juli 2018 (OGS 2018, 6)
+\- Nachtrag vom 10. April 2018, in Kraft seit 1. Juli 2018 (OGS 2018, 6),
+
+\- AB über das Interne Kontrollsystem IKS vom 21. September 2021, in Kraft seit 1. Oktober 2021 (OGS 2021, 31)
 
 OGS 2012, 71
