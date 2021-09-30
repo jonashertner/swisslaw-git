@@ -4,13 +4,13 @@ number: "831.31"
 title: "Verordnung des Regierungsrates zum Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: TG ELV
 language: de
-version: 2021-01-01
-valid_until: 2021-09-30
-version_adopted: 2020-09-01
+version: 2021-10-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-05
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/831.31"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1858/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2275/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ TG ELV
 
 (TG ELV)
 
-vom 11.12.2007 (Stand 01.01.2021)
+vom 11.12.2007 (Stand 01.10.2021)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -31,9 +31,9 @@ vom 11.12.2007 (Stand 01.01.2021)
 
 <sup>1</sup> Krankheits- und Behinderungskosten werden für das Kalenderjahr vergütet, in dem die Behandlung vorgenommen oder der Kauf getätigt wurde. Diese Regelung gilt sinngemäss auch für die Kosten eines vorübergehenden Heimaufenthaltes.
 
-<sup>2</sup> Die kantonale Ausgleichskasse ist ermächtigt, allgemein auf das Datum der Rechnungsstellung abzustellen. Vorbehalten bleibt Absatz 3.
+<sup>2</sup> Die kantonale Ausgleichskasse ist ermächtigt, allgemein auf das Datum der Rechnungsstellung abzustellen. Vorbehalten bleibt Abs. 3.
 
-<sup>3</sup> Fällt die jährliche Ergänzungsleistung (EL) für Berechtigte oder für einzelne Familienangehörige dahin, so hat die Ermittlung der zu vergütenden Kosten nach Absatz 1 zu erfolgen.
+<sup>3</sup> Fällt die jährliche Ergänzungsleistung (EL) für Berechtigte oder für einzelne Familienangehörige dahin, so hat die Ermittlung der zu vergütenden Kosten nach Abs. 1 zu erfolgen.
 
 #### § 2
 
@@ -47,9 +47,9 @@ vom 11.12.2007 (Stand 01.01.2021)
 
 **Kostenbeteiligung in der Krankenversicherung**
 
-<sup>1</sup> Ungeachtet der gewählten Franchise wird höchstens eine Kostenbeteiligung im Rahmen von Artikel 103 der Verordnung über die Krankenversicherung (KVV)[^3-1] vergütet.
+<sup>1</sup> Ungeachtet der gewählten Franchise wird höchstens eine Kostenbeteiligung im Rahmen von Art. 103 der Verordnung über die Krankenversicherung (KVV)[^3-1] vergütet.
 
-<sup>2</sup> Bei vorübergehendem Aufenthalt in einem Spital wird die Kostenbeteiligung nach Artikel 64 Absatz 5 des Bundesgesetzes über die Krankenversicherung (KVG)[^3-2] nicht vergütet.
+<sup>2</sup> Bei vorübergehendem Aufenthalt in einem Spital wird die Kostenbeteiligung nach Art. 64 Abs. 5 des Bundesgesetzes über die Krankenversicherung (KVG)[^3-2] nicht vergütet.
 
 [^3-1]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de)
 [^3-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
@@ -65,7 +65,7 @@ vom 11.12.2007 (Stand 01.01.2021)
 - 3\. für den Transport zum nächstgelegenen medizinischen Behandlungsort;
 - 4\. für den Transport zur nächstgelegenen Tagesstruktur nach § 12.
 
-<sup>2</sup> Für den Transport nach Absatz 1 Ziffern 3 und 4 werden nur die Kosten vergütet, die dem günstigsten Tarif der öffentlichen Transportmittel für Fahrten auf dem direkten Weg entsprechen.
+<sup>2</sup> Für den Transport nach Abs. 1 Ziff. 3 und Ziff. 4 werden nur die Kosten vergütet, die dem günstigsten Tarif der öffentlichen Transportmittel für Fahrten auf dem direkten Weg entsprechen.
 
 <sup>3</sup> Ist der versicherten Person wegen ihrer Krankheit oder Behinderung die Benützung der öffentlichen Transportmittel nicht möglich, werden die Kosten eines anderen, zumutbaren Transportmittels vergütet.
 
@@ -91,13 +91,13 @@ vom 11.12.2007 (Stand 01.01.2021)
 
 **Anerkannte Heime**
 
-<sup>1</sup> Anerkannte Heime im Kanton Thurgau im Sinne von Artikel 25a Absatz 1 der Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELV)[^5b-1] sind:
+<sup>1</sup> Anerkannte Heime im Kanton Thurgau im Sinne von Art. 25a Abs. 1 der Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELV)[^5b-1] sind:
 
 - 1\. Einrichtungen, die auf der Spitalliste gemäss § 29 TG KVG[^5b-2] und der Pflegeheimliste gemäss § 25 der Verordnung des Regierungsrates zum Gesetz über die Krankenversicherung[^5b-3] aufgeführt sind;
 - 2\. Einrichtungen mit Betriebsbewilligung gemäss § 6b des Gesetzes über die öffentliche Sozialhilfe (SHG)[^5b-4];
 - 3\. Einrichtungen für stationäre Aufenthalte mit Betriebsbewilligung gemäss § 6c SHG;
-- 4\. Einrichtungen mit Betriebsbewilligung gemäss Artikel 13 Absatz 1 Buchstabe a der Verordnung über die Aufnahme von Pflegekindern (PAVO)[^5b-5];
-- 5\. Pflegefamilien mit Bewilligung gemäss Artikel 4 PAVO;
+- 4\. Einrichtungen mit Betriebsbewilligung gemäss Art. 13 Abs. 1 lit. a der Verordnung über die Aufnahme von Pflegekindern (PAVO)[^5b-5];
+- 5\. Pflegefamilien mit Bewilligung gemäss Art. 4 PAVO;
 - 6\. Sonderschulheime mit Betriebsbewilligung gemäss § 7 der Verordnung des Regierungsrates über die Sonderschulung, Heilpädagogische Früherziehung, Spitalschulung und spezielle Unterstützungsangebote[^5b-6].
 
 [^5b-1]: SR [831.301](https://db.clex.ch/link/Bund/831.301/de)
@@ -141,7 +141,7 @@ vom 11.12.2007 (Stand 01.01.2021)
 
 **Verpflegungsbeitrag**
 
-<sup>1</sup> Bei vorübergehendem Aufenthalt in einem Heim, Spital oder Heilbad wird für die Verpflegung ein Betrag abgezogen. Der Abzug richtet sich nach Artikel 11 der Verordnung über die Alters- und Hinterlassenenversicherung[^8-1].
+<sup>1</sup> Bei vorübergehendem Aufenthalt in einem Heim, Spital oder Heilbad wird für die Verpflegung ein Betrag abgezogen. Der Abzug richtet sich nach Art. 11 der Verordnung über die Alters- und Hinterlassenenversicherung[^8-1].
 
 [^8-1]: SR [831.101](https://db.clex.ch/link/Bund/831.101/de)
 
@@ -191,12 +191,12 @@ vom 11.12.2007 (Stand 01.01.2021)
 
 **Tagesstätten und andere anerkannte ambulante Organisationen**
 
-<sup>1</sup> Kosten für Hilfe, Pflege und Betreuung in anerkannten Tagesstätten im Sinne von Artikel 3 Absatz 1 Buchstabe c des Bundesgesetzes über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)[^12-1] oder in anderen anerkannten ambulanten Organisationen werden bei einem Aufenthalt von zwei bis fünf zusammenhängenden Stunden mit höchstens Fr. 50 und ab fünf zusammenhängenden Stunden mit höchstens Fr. 100 pro Tag vergütet, sofern die Notwendigkeit der Beanspruchung im Einzelfall ärztlich bescheinigt ist.
+<sup>1</sup> Kosten für Hilfe, Pflege und Betreuung in anerkannten Tagesstätten im Sinne von Art. 3 Abs. 1 lit. c des Bundesgesetzes über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)[^12-1] oder in anderen anerkannten ambulanten Organisationen werden bei einem Aufenthalt von zwei bis fünf zusammenhängenden Stunden mit höchstens Fr. 50 und ab fünf zusammenhängenden Stunden mit höchstens Fr. 100 pro Tag vergütet, sofern die Notwendigkeit der Beanspruchung im Einzelfall ärztlich bescheinigt ist.
 
 <sup>2</sup> Keine Kosten werden vergütet:
 
 - 1\. bei Beschäftigung mit einer Entlöhnung von über Fr. 100 pro Monat;
-- 2\. bei Heimaufenthalt mit EL-Berechnung nach Artikel 10 Absatz 2 des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG)[^12-2].
+- 2\. bei Heimaufenthalt mit EL-Berechnung nach Art. 10 Abs. 2 des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG)[^12-2].
 
 [^12-1]: SR [831.26](https://db.clex.ch/link/Bund/831.26/de)
 [^12-2]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de)
@@ -240,11 +240,11 @@ vom 11.12.2007 (Stand 01.01.2021)
 
 **Anrechnung der Hilflosenentschädigung**
 
-<sup>1</sup> Erhöht sich der Betrag der Kostenvergütung nach Artikel 14 Absatz 4 ELG[^15-1], so wird die Hilflosenentschädigung der Invaliden- und der Unfallversicherung von den Pflege- und Betreuungskosten nach den § 9 bis § 11 abgezogen. Der Mindestbeitrag nach Artikel 14 Absatz 3 ELG darf jedoch nicht unterschritten werden.
+<sup>1</sup> Erhöht sich der Betrag der Kostenvergütung nach Art. 14 Abs. 4 ELG[^15-1], so wird die Hilflosenentschädigung der Invaliden- und der Unfallversicherung von den Pflege- und Betreuungskosten nach den § 9 bis § 11 abgezogen. Der Mindestbeitrag nach Art. 14 Abs. 3 ELG darf jedoch nicht unterschritten werden.
 
 <sup>2</sup> Hat die Krankenversicherung für ihre Vergütung von Pflege- und Betreuungskosten zu Hause die Hilflosenentschädigung der Invaliden- oder der Unfallversicherung angerechnet, so wird die Hilflosenentschädigung im Umfang der Anrechnung nicht von den Kosten abgezogen.
 
-<sup>3</sup> Bei Anwendung von Artikel 14 Absatz 5 ELG gelten die Absätze 1 und 2 sinngemäss.
+<sup>3</sup> Bei Anwendung von Art. 14 Abs. 5 ELG gelten Abs. 1 und Abs. 2 sinngemäss.
 
 [^15-1]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de)
 
@@ -264,6 +264,24 @@ vom 11.12.2007 (Stand 01.01.2021)
 
 - 1\. die im Anhang zur Verordnung über die Abgabe von Hilfsmitteln durch die Altersversicherung aufgeführt sind und
 - 2\. an welche die AHV einen Kostenbeitrag geleistet hat.
+
+#### § 16a
+
+**Mittel und Gegenstände**
+
+<sup>1</sup> Vergütet werden die ausgewiesenen Kosten zwischen dem Abgabepreis und dem Höchstvergütungsbetrag Pflege (HVB Pflege) von ärztlich angeordneten Mitteln und Gegenständen, die
+
+- 1\. Untersuchungen und Behandlungen dienen,
+- 2\. in der Mittel- und Gegenständeliste Kategorie B (Anhang 2 der Krankenpflege-Leistungsverordnung [KLV][^16a-1]) gelistet sind und
+- 3\. durch anerkannte ambulante Organisationen im Sinne von § 9 oder Pflegeheime im Sinne der kantonalen Pflegeheimliste abgegeben oder durch Pflegefachpersonen in ihrer beruflichen Tätigkeit angewendet werden.
+
+<sup>2</sup> Vergütet werden die ausgewiesenen Kosten zwischen dem Abgabepreis und dem Höchstvergütungsbetrag Selbstanwendung (HVB Selbstanwendung) von ärztlich angeordneten Mitteln und Gegenständen, die
+
+- 1\. Untersuchungen und Behandlungen dienen,
+- 2\. in der Mittel- und Gegenständeliste Kategorie B (Anhang 2 KLV) gelistet sind und
+- 3\. durch eine Abgabestelle nach Art. 55 KVV zur Selbstanwendung abgegeben werden.
+
+[^16a-1]: SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de)
 
 #### § 17
 
@@ -303,14 +321,10 @@ vom 11.12.2007 (Stand 01.01.2021)
 
 <sup>1</sup> Mehrkosten für vom Arzt angeordnete lebensnotwendige Diäten von Personen, die weder in einem Heim noch Spital leben, werden mit höchstens Fr. 2'400 pro Jahr vergütet.
 
-## 6. Schlussbestimmung
+## 6.
 
 #### § 22
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2008 in Kraft.[^22-1]
-
-[^22-1]: vom Bund genehmigt am 10. März 2008.
+**…**
 
 ABl. 50/2007
