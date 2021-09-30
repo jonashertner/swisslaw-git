@@ -4,13 +4,13 @@ number: "131.1"
 title: Dekret zum Gesetz über die Organisation und die Geschäftsführung des Landrats
 short: Geschäftsordnung des Landrats
 language: de
-version: 2021-07-23
-valid_until: 2021-09-30
-version_adopted: 2021-05-20
+version: 2021-10-01
+valid_until: 2022-03-31
+version_adopted: 2021-09-16
 adopted: 1994-11-21
 in_force: 1995-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/131.1"
-pdf: "https://bl.clex.ch/api/de/versions/3072/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3096/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3072/pdf_file"
 
 (Geschäftsordnung des Landrats)
 
-Vom 21.11.1994 (Stand 23.07.2021)
+Vom 21.11.1994 (Stand 01.10.2021)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -759,7 +759,7 @@ beschliesst:
 - b. die Vorlage zur Änderung oder Prüfung zurückzuweisen ist;
 - c. die Vorlage durch Nichteintreten zu erledigen ist.
 
-<sup>1<sup>bis</sup></sup> Ist der Kommissionsantrag ohne Gegenstimme erfolgt und ist Eintreten unbestritten, findet eine Eintretensdebatte nur statt, wenn sie vom Landrat mit 2/3-Mehr beschlossen wird. Über den Antrag auf Durchführung einer Eintretensdebatte wird keine Diskussion geführt.
+<sup>1<sup>bis</sup></sup> Ist der Kommissionsantrag ohne Gegenstimme erfolgt und ist Eintreten unbestritten, findet eine Eintretensdebatte nur statt auf einstimmigen Beschluss der vorberatenden Kommission oder wenn sie vom Landrat auf Antrag mit 2/3-Mehr beschlossen wird. Über den Antrag auf Durchführung einer Eintretensdebatte wird keine Diskussion geführt.
 
 <sup>2</sup> Wird kein Antrag auf Nichteintreten oder Rückweisung gestellt, so gilt Eintreten als beschlossen.
 
