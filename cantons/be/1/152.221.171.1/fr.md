@@ -4,13 +4,12 @@ number: "152.221.171.1"
 title: "Ordonnance de Direction sur la délégation de compétences de la Direction des finances *"
 short: OD Dél FIN
 language: fr
-version: 2021-01-01
-valid_until: 2021-09-30
-version_adopted: 2020-10-28
+version: 2021-10-01
+version_adopted: 2021-09-06
 adopted: 1997-11-27
 in_force: 1998-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.171.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2053/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2371/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2053/pdf_file"
 
 (OD Dél FIN)
 
-du 27.11.1997 (état au 01.01.2021)
+du 27.11.1997 (état au 01.10.2021)
 
 La Direction des finances du canton de Berne,
 
@@ -80,6 +79,16 @@ arrête:
 <sup>2</sup> …
 
 <sup>3</sup> Les offices demandent l’avis du secrétariat général sur les propositions d’affectation d’un poste nouvellement créé à une classe de traitement ou de changement de classe de traitement d’un poste (art. 42 et 43 OPers).
+
+#### Art. 4a
+
+**Délégation du droit de signature à l'Office du personnel**
+
+<sup>1</sup> Le secrétaire général ou la secrétaire générale et les chefs ou cheffes d'offices peuvent déléguer totalement ou partiellement leur droit de signature au chef ou à la cheffe de l'Office du personnel pour la création ou la modification des rapports de service ainsi que pour toutes les autorisations relevant du droit du personnel conformément à l'article 4, alinéas 1 et 1b.
+
+<sup>2</sup> La délégation du droit de signature est sans aucune incidence sur les droits et les obligations découlant des rapports de service.
+
+<sup>3</sup> La délégation du droit de signature se fait par écrit d'entente avec l'Office du personnel. Elle nécessite l'approbation du directeur ou de la directrice des finances.
 
 ## 3 Compétences en matière d'autorisation de dépense
 

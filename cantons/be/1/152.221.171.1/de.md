@@ -4,13 +4,12 @@ number: "152.221.171.1"
 title: Direktionsverordnung über die Delegation von Befugnissen der Finanzdirektion
 short: DelDV FIN
 language: de
-version: 2021-01-01
-valid_until: 2021-09-30
-version_adopted: 2020-10-28
+version: 2021-10-01
+version_adopted: 2021-09-06
 adopted: 1997-11-27
 in_force: 1998-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.171.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2053/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2371/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2053/pdf_file"
 
 (DelDV FIN)
 
-vom 27.11.1997 (Stand 01.01.2021)
+vom 27.11.1997 (Stand 01.10.2021)
 
 Die Finanzdirektion des Kantons Bern,
 
@@ -80,6 +79,16 @@ beschliesst:
 <sup>2</sup> …
 
 <sup>3</sup> Die Ämter legen Anträge zur Einreihung einer neu geschaffenen Stelle in die Gehaltsklassen oder zur Veränderung einer Einreihung (Art. 42 und 43 PV) dem Generalsekretariat zur Stellungnahme vor.
+
+#### Art. 4a
+
+**Delegation der Unterschriftsberechtigung an das Personalamt**
+
+<sup>1</sup> Die Generalsekretärin oder der Generalsekretär und die Amtsvorsteherinnen oder die Amtsvorsteher können die Unterschriftsberechtigung für die Begründung oder Änderung der Anstellungsverhältnisse sowie für sämtliche personalrechtlichen Bewilligungen nach Artikel 4 Absatz 1 und Absatz 1b ganz oder teilweise an die Amtsvorsteherin oder den Amtsvorsteher des Personalamts delegieren.
+
+<sup>2</sup> Rechte und Pflichten aus dem Anstellungsverhältnis bleiben von der Delegation der Unterschriftsberechtigung unberührt.
+
+<sup>3</sup> Die Delegation der Unterschriftsberechtigung erfolgt schriftlich im Einvernehmen mit dem Personalamt. Sie bedarf der Genehmigung durch die Finanzdirektorin oder den Finanzdirektor.
 
 ## 3 Ausgabenbefugnisse
 
