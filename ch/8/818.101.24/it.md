@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-09-27
+version: 2021-10-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210927/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210927-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210927/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210927/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 27 settembre 2021)
+del 19 giugno 2020 (Stato 1° ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -466,11 +466,42 @@ I Cantoni sono competenti per i controlli del rispetto e l’applicazione dei re
 
 #### Art. 24e
 
-**Comunicazione di dati**[^24e-1]
+**Prelievo di campioni per le analisi di biologia molecolare per il SARS-CoV-2**[^24e-1]
+
+<sup>1</sup>
+
+I campioni per le analisi di biologia molecolare per il SARS-CoV-2 possono essere prelevati:
+
+- a. nei laboratori autorizzati secondo l’articolo 16 LEp e nei centri di prelievo di campioni da essi gestiti;
+- b. in strutture o da persone secondo l’articolo 24 capoversi 1 lettera b, 1<sup>bis</sup> e 2;
+- c. in altri centri di prelievo, a condizione che il prelievo del campione sia effettuato sotto la sorveglianza di laboratori autorizzati secondo l’articolo 16 LEp e il centro di prelievo abbia notificato l’attività al Cantone.
+
+<sup>2</sup> Il centro di prelievo di campioni deve verificare l’identità della persona da testare. Il prelievo del campione deve essere effettuato da una persona formata.
+
+<sup>3</sup>
+
+Il prelievo del campione può essere anche effettuato autonomamente dalla persona da testare:
+
+- a. in una struttura, purché quest’ultima verifichi l’identità della persona da testare e il prelievo del campione sia effettuato sul posto e sotto sorveglianza; oppure
+- b. al di fuori della struttura, purché quest’ultima verifichi l’identità della persona da testare e garantisca l’attribuzione sicura del campione alla persona da testare mediante opportune precauzioni, segnatamente la videosorveglianza.
+
+[^24e-1]: Introdotto dal n. I dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+
+#### Art. 24f
+
+**Competenza per il controllo del prelievo di campioni per analisi di biologia molecolare per il SARS-CoV-2**[^24f-1]
+
+Swissmedic è competente per il controllo del rispetto dei requisiti di cui all’articolo 24*e* da parte dei laboratori autorizzati secondo l’articolo 16 LEp, anche per i prelievi di campioni effettuati da strutture di cui all’articolo 24*e* capoverso 1 lettera c sotto la sorveglianza di questi laboratori, mentre i Cantoni sono competenti per il controllo nelle strutture secondo l’articolo 24*e* capoverso 1 lettera b nonché per la vigilanza dei centri di cui all’articolo 24*e* capoverso 1 lettera c.
+
+[^24f-1]: Introdotto dal n. I dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+
+#### Art. 24g
+
+**Comunicazione di dati**[^24g-1]
 
 Swissmedic può comunicare alle unità amministrative di cui all’articolo 12 capoverso 1 dati su materiale medico importante, nella misura in cui ciò sia necessario per l’esecuzione della presente ordinanza. Questi dati non possono contenere dati personali degni di particolare protezione.
 
-[^24e-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^24g-1]: Originario: art. 24*e*. Introdotto dal n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 ## Capitolo 3: Assistenza sanitaria
 
@@ -515,9 +546,9 @@ Possono a tal fine obbligare gli ospedali e le cliniche a:
 
 <sup>1</sup>
 
-Se la prestazione nell’ambito di un’analisi per il SARS-CoV-2 secondo l’allegato 6 numero 1 è eseguita da un fornitore di prestazioni in possesso di un numero di registro dei codici creditori (numero RCC) o se il test autodiagnostico SARS-CoV-2 secondo l’allegato 6 numero 3.3 è dispensato da un fornitore di prestazioni in possesso di un numero RCC, sono debitori della rimunerazione delle prestazioni secondo il sistema del terzo pagante ai sensi dell’articolo 42 capoverso 2 LAMal[^26a-2] i seguenti assicuratori:
+Se la prestazione nell’ambito di un’analisi per il SARS-CoV-2 secondo l’allegato 6 numero 1 è eseguita da un fornitore di prestazioni in possesso di un numero di registro dei codici creditori (numero RCC), sono debitori della rimunerazione delle prestazioni secondo il sistema del terzo pagante ai sensi dell’articolo 42 capoverso 2 LAMal[^26a-2] i seguenti assicuratori:[^26a-3]
 
-- a. per le persone che dispongono di un’assicurazione obbligatoria delle cure medico-sanitarie secondo la LAMal: la cassa malati secondo l’articolo 2 della legge del 26 settembre 2014[^26a-3] sulla vigilanza sull’assicurazione malattie presso la quale è assicurata la persona testata;
+- a. per le persone che dispongono di un’assicurazione obbligatoria delle cure medico-sanitarie secondo la LAMal: la cassa malati secondo l’articolo 2 della legge del 26 settembre 2014[^26a-4] sulla vigilanza sull’assicurazione malattie presso la quale è assicurata la persona testata;
 - b. per le persone coperte contro malattia dall’assicurazione militare: l’assicurazione militare;
 - c. per le persone che non dispongono di un’assicurazione obbligatoria delle cure medico-sanitarie secondo la LAMal: l’istituzione comune di cui all’articolo 18 LAMal.
 
@@ -525,18 +556,19 @@ Se la prestazione nell’ambito di un’analisi per il SARS-CoV-2 secondo l’al
 
 <sup>3</sup>
 
-Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1 lettere i e j, 1.4.1 lettere h e i, 3.1.1 lettera a e 3.2.1 lettera a, i fornitori di prestazioni possono scegliere quale debitore della rimunerazione delle prestazioni:[^26a-4]
+Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1 lettere i e j, 1.4.1 lettere h e i, 3.1.1 lettera a e 3.2.1 lettera a, i fornitori di prestazioni possono scegliere quale debitore della rimunerazione delle prestazioni:[^26a-5]
 
 - a. l’assicuratore di cui al capoverso 1 che è debitore della rimunerazione delle prestazioni secondo il sistema del terzo pagante ai sensi dell’articolo 42 capoverso 2 LAMal; o
 - b. il Cantone in cui è eseguito il prelievo del campione per il SARS-CoV-2.
 
-<sup>4</sup> Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 2, 3.1.1 lettere b–d e 3.2.1 lettere b e c, è debitore della rimunerazione delle prestazioni il Cantone in cui è eseguito il prelievo del campione per il SARS-CoV-2.[^26a-5]
+<sup>4</sup> Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 2, 3.1.1 lettere b–d e 3.2.1 lettere b e c, è debitore della rimunerazione delle prestazioni il Cantone in cui è eseguito il prelievo del campione per il SARS-CoV-2.[^26a-6]
 
 [^26a-1]: Introdotto dal n. I dell’O del 24 giu. 2020 ([RU 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26a-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^26a-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^26a-5]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^26a-3]: Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^26a-4]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^26a-5]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26a-6]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 26b
 
@@ -554,9 +586,7 @@ Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1
 
 <sup>6</sup> Se la prestazione è stata fatturata indebitamente dal fornitore di prestazioni, l’assicuratore può esigere la restituzione delle rimunerazioni già versate. Con il pagamento della prestazione da parte della Confederazione secondo il capoverso 5, un eventuale diritto alla restituzione passa alla Confederazione. Gli assicuratori comunicano alla Confederazione i dati necessari per esercitare il diritto alla restituzione. I dati non possono contenere dati personali degni di particolare protezione.
 
-<sup>6bis</sup> L’assicuratore può esigere da un assicurato la restituzione delle spese per i test autodiagnostici SARS-CoV-2 secondo l’allegato 6 numero 3.3 ritirati dall’assicurato stesso oltre la quantità massima di cui all’allegato 6 numero 3.3.1. Per lo svolgimento di procedure di diffida per la restituzione delle spese per tali test autodiagnostici SARS-CoV-2 può fatturare alla Confederazione al massimo 20 franchi per assicurato diffidato.[^26b-4]
-
-<sup>6ter</sup> Con il pagamento, da parte della Confederazione, della prestazione per i test autodiagnostici SARS-CoV-2 secondo il capoverso 5 e delle spese per la procedura di diffida secondo il capoverso 6<sup>bis</sup>, un eventuale diritto alla restituzione passa alla Confederazione. Gli assicuratori comunicano alla Confederazione i dati necessari per esercitare il diritto alla restituzione. I dati non possono contenere dati personali degni di particolare protezione.[^26b-5]
+<sup>6bis</sup> e <sup>6ter</sup> ...[^26b-4]
 
 <sup>7</sup> L’istituzione comune fattura trimestralmente all’UFSP le spese amministrative per la sua attività di assicuratore secondo l’articolo 26*a* capoversi 1 lettera c e 3 lettera a secondo l’onere. La tariffa oraria ammonta a 95 franchi e comprende le spese salariali, i contributi sociali e le spese infrastrutturali. Per le spese non incluse nelle spese amministrative per eventuali revisioni, adattamenti dei sistemi e interessi negativi sono rimunerati i costi effettivi.
 
@@ -565,8 +595,7 @@ Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1
 [^26b-1]: Introdotto dal n. I dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26b-2]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 [^26b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26b-4]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 7 apr. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^26b-5]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 7 apr. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26b-4]: Introdotti dal n. I dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Abrogati dal n. I dell’O del 25 ago. 2021, con effetto dal 1° ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 26c
 
@@ -880,7 +909,7 @@ Allegato 4*[^t-5]*
 - 48\. Soluzioni per infusioni
 - 49\. Sotrovimab
 
-### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001****relativa ai dispositivi medici
+### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001relativa ai dispositivi medici
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -899,7 +928,7 @@ Allegato 4*[^t-5]*
 
 ### 3. Dispositivi di protezione individuale e altri dispositivi
 
-### 3.1 Dispositivi di protezione individuale ai sensi dell’ordinanzadel 25 ottobre 2017**** sui DPI
+### 3.1 Dispositivi di protezione individuale ai sensi dell’ordinanzadel 25 ottobre 2017 sui DPI
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -940,7 +969,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)) e dall’all. n. 3 I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dal n. II cpv. 2 dell’O del 25 ago. 2021, in vigore dal 1°ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507))
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -997,7 +1026,6 @@ Allegato 6*[^t-8]*
   Per le analisi di biologia molecolare per il SARS-CoV-2 assume al massimo 153.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
-  - a. per il prelievo del campione:
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
@@ -1010,7 +1038,7 @@ Allegato 6*[^t-8]*
 - b. per l’analisi di biologia molecolare:
 
 <table>
-<tr><td>Prestazione</td><td>Importo massimo</td></tr>
+<tr><th>Prestazione</th><th>Importo massimo</th></tr>
 <tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>106 fr.</td></tr>
 <tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp, se il numero di analisi eseguite in Svizzera e in Liechtenstein durante una settimana è di:</td><td></td></tr>
 <tr><td>– &lt; 100 000</td><td>82 fr.</td></tr>
@@ -1220,7 +1248,7 @@ Allegato 6*[^t-8]*
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl1-lvl14-1]: In vigore fino al 30 set. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^annex6-lvlu1-lvl1-lvl14-1]: In vigore fino al 10 ott. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [582](https://fedlex.data.admin.ch/eli/oc/2021/582)).
 
 ### 1.5 Rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti
 
@@ -1392,7 +1420,7 @@ Allegato 6*[^t-8]*
   - a. per test mirati e ripetuti in ospedali, case di riposo e di cura nonché in istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale;
   - b. per test mirati e ripetuti in aziende e associazioni, se il servizio cantonale competente presenta una strategia all’UFSP;
   - c. per un contatto in quarantena, se nell’azienda in cui lavora sono eseguiti test mirati e ripetuti con almeno un test alla settimana;
-  - d. in occasione di manifestazioni con limitazione d’accesso secondo l’articolo 15 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^annex6-lvlu1-lvl3-lvl31-1] o dell’articolo 6*b*<sup>quater</sup> dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020 nella versione modificata il 26 maggio 2021[^annex6-lvlu1-lvl3-lvl31-2].
+  - d. ...
 
 - 3\.1.2 ...
 - 3\.1.3
@@ -1421,9 +1449,6 @@ Allegato 6*[^t-8]*
 <tr><td>Per il test rapido SARS-CoV-2 per uso professionale, solo il materiale necessario per il test</td><td>6.50 fr.</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl3-lvl31-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex6-lvlu1-lvl3-lvl31-2]: [RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)
-
 ### 3.2 Analisi di biologia molecolare aggregate per il SARS-CoV-2
 
 - 3\.2.1
@@ -1451,29 +1476,11 @@ Allegato 6*[^t-8]*
 <tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1 lettere b e c, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
 </table>
 
-### 3.3**** Test autodiagnostici SARS-CoV-2
+### 3.3**** ...
 
 [^annex6-lvlu1-lvl3-lvl33-1]
 
 [^annex6-lvlu1-lvl3-lvl33-1]: In vigore fino al 30 set. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
-
-- 3\.3.1 La Confederazione assume le spese per un massimo di cinque test autodiagnostici SARS-CoV-2 per persona sull’arco di 30 giorni, se dispensati dalle farmacie.
-- 3\.3.2 Per i test autodiagnostici SARS-CoV-2 assume al massimo 7.20 franchi. Questo importo comprende le prestazioni e i costi seguenti:
-
-<table>
-<tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Per un test autodiagnostico SARS-CoV-2 dispensato direttamente con contatto personale con i clienti, solo il materiale necessario per il test, compresi il prezzo di fabbrica per la consegna, un supplemento dell’80 % sul prezzo di fabbrica per la consegna nonché l’IVA a un’aliquota del 7,7 %.</td><td>7.20 fr.</td></tr>
-<tr><td>Per un test autodiagnostico SARS-CoV-2 inviato, solo il materiale necessario per il test, compresi il prezzo di fabbrica per la consegna, un supplemento del 60 % sul prezzo di fabbrica per la consegna nonché l’IVA a un’aliquota del 7,7 %.</td><td>6.40 fr.</td></tr>
-</table>
-
-- 3\.3.3 Non hanno diritto al rimborso delle spese dei test autodiagnostici
-
-  SARS-CoV-2:
-
-  - a. le persone vaccinate secondo l’allegato 2 numero 1.1 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^annex6-lvlu1-lvl3-lvl33-2], se la vaccinazione risale a non più di 365 giorni dalla somministrazione dell’ultima dose; per il vaccino di Janssen il periodo considerato è di 365 giorni a partire dal ventiduesimo giorno dopo la vaccinazione;
-  - b. le persone che sono state contagiate dal SARS-CoV-2 e sono considerate guarite, per sei mesi a partire dall’undicesimo giorno dopo la conferma dell’infezione.
-
-[^annex6-lvlu1-lvl3-lvl33-2]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ### 4 Limitazioni
 
