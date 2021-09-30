@@ -4,13 +4,13 @@ number: "142.212"
 title: Personalverordnung
 short: PGV
 language: de
-version: 2017-01-01
-valid_until: 2021-09-30
-version_adopted: 2016-12-06
+version: 2021-10-01
+valid_until: 2022-05-31
+version_adopted: 2021-09-07
 adopted: 2007-11-20
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.212"
-pdf: "https://ar.clex.ch/api/de/versions/1170/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1369/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1170/pdf_file"
 
 (PGV)
 
-vom 20.11.2007 (Stand 01.01.2017)
+vom 20.11.2007 (Stand 01.10.2021)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -387,6 +387,23 @@ Diese kann wie folgt bezogen werden:
 - d) Leiterinnen und Leiter von unselbständigen Anstalten und Betrieben.
 
 <sup>3</sup> Für Abteilungsleiterinnen und Abteilungsleiter, stellvertretende Departementssekretärinnen und Departementssekretäre sowie Prorektorinnen und Prorektoren kann Vertrauensarbeitszeit im Arbeitsvertrag vereinbart werden.
+
+#### Art. 31a
+
+**Homeoffice**
+
+<sup>1</sup> Angestellte können ihre Arbeitspflicht mit Bewilligung der Anstellungsbehörde im Homeoffice erfüllen, sofern
+
+- a) sie die notwendigen persönlichen Voraussetzungen mitbringen,
+- b) die betreffenden Aufgaben fürs Homeoffice geeignet sind,
+- c) die betrieblichen Gegebenheiten die Arbeit im Homeoffice zulassen und
+- d) der Arbeitsplatz im Homeoffice den betrieblichen Anforderungen entspricht.
+
+<sup>2</sup> Auf die Ermöglichung von Homeoffice besteht kein Rechtsanspruch. Die Anstellungsbehörde kann die Bewilligung jederzeit widerrufen.
+
+<sup>3</sup> Die Nutzung privater Infrastruktur für das Homeoffice wird nicht entschädigt. Vorbehalten bleiben abweichende Regelungen, wenn kein fester Arbeitsplatz zur Verfügung steht.
+
+<sup>4</sup> Das Personalamt erlässt Richtlinien zum Homeoffice in der kantonalen Verwaltung. Die betroffenen Anstellungsbehörden sind vorgängig anzuhören.
 
 #### Art. 32
 
