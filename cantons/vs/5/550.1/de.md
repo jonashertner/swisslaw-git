@@ -4,13 +4,13 @@ number: "550.1"
 title: Gesetz über die Kantonspolizei
 short: PolG
 language: de
-version: 2021-09-01
-valid_until: 2021-09-30
-version_adopted: 2021-06-08
+version: 2021-10-01
+valid_until: 2023-12-31
+version_adopted: 2021-06-10
 adopted: 2016-11-11
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/550.1"
-pdf: "https://lex.vs.ch/api/de/versions/2934/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2974/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2934/pdf_file"
 
 (PolG)
 
-vom 11.11.2016 (Stand 01.09.2021)
+vom 11.11.2016 (Stand 01.10.2021)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -742,21 +742,37 @@ verordnet:[^ingress-1]
 
 #### Art. 59
 
-**Automatisierte Fahrzeug- und Personenfahndung**
+**Automatisierte Fahrzeugfahndung**
 
-<sup>1</sup> Die Kantonspolizei kann Kontrollschilder von Fahrzeugen automatisiert erfassen, um sie mit Datenbanken abzugleichen.
+<sup>1</sup> Die Polizei kann zur Fahndung nach Personen oder Sachen sowie zur Verhinderung, Entdeckung und Verfolgung von Verbrechen und Vergehen Fahrzeuge sowie Kontrollschilder von Fahrzeugen automatisiert (optisch) erfassen.
 
-<sup>2</sup> Der automatisierte Abgleich ist zulässig:
+<sup>2</sup> Sie kann die Daten mit Datenbanken automatisiert abgleichen, analysieren und zur Erstellung von Bewegungsprofilen nutzen. Der automatisierte Abgleich ist zulässig:
 
 - a) mit den elektronischen Personen- und Sachfahndungsregistern;
-- b) mit den Ausschreibungen der Kantonspolizei.
+- b) mit den Ausschreibungen der Kantonspolizei;
+- c) mit Angaben zu Kontrollschildern von Fahrzeugen, deren Haltern der Führerausweis entzogen oder verweigert worden ist.
 
 <sup>3</sup> Die automatisch erfassten Daten werden wie folgt gelöscht:
 
-- a) sofort in den Fällen ohne Übereinstimmung mit einer Datenbank;
-- b) im Falle einer Übereinstimmung mit einer Datenbank gemäss den Bestimmungen des betreffenden Verwaltungs- oder Strafverfahrens.
+- a) innert einer Frist von maximal 100 Tagen in den Fällen ohne Übereinstimmung mit einer Datenbank;
+- b) innert den Fristen gemäss den Bestimmungen des betreffenden Verwaltungs- oder Strafverfahrens im Falle einer Übereinstimmung mit einer Datenbank.
 
-<sup>4</sup> Artikel 58 Absatz 3 Buchstaben b bis e sind zudem analog anwendbar.
+<sup>4</sup> Die Kantonspolizei darf die automatisch erfassten Daten während höchstens 100 Tagen verwenden zur:
+
+- a) Aufklärung von Verbrechen und Vergehen;
+- b) Fahndung nach vermissten oder entwichenen Personen.
+
+<sup>5</sup> Artikel 58 Absatz 3 Buchstaben b bis e sind zudem analog anwendbar.
+
+#### Art. 59a
+
+**Datenaustausch im Abrufverfahren**
+
+<sup>1</sup> Die Kantonspolizei kann Daten der automatisierten Fahrzeugfahndung bei anderen Polizeibehörden des Bundes, der Kantone und der Gemeinden, der Landespolizei Liechtenstein, dem Bundesamt für Strassen (ASTRA) sowie dem Bundesamt für Zoll und Grenzsicherheit (BAZG) zu den in Artikel 59 Absatz 1 genannten Zwecken im Abrufverfahren beschaffen und erhobene Daten gemäss Artikel 59 Absatz 3 bearbeiten.
+
+<sup>2</sup> Die Kantonspolizei kann Daten der automatisierten Fahrzeugfahndung anderen Polizeibehörden des Bundes, der Kantone und der Gemeinden, der Landespolizei Liechtenstein sowie dem BAZG zu den in Artikel 59 Absatz 1 genannten Zwecken im Abrufverfahren bekanntgeben.
+
+<sup>3</sup> Dazu kann sie Schnittstellen mit den Systemen zur automatisierten Fahrzeugerfassung dieser Behörden einrichten.
 
 ## 6 Status der Mitglieder der Kantonspolizei
 

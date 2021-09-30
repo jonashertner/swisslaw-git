@@ -4,13 +4,13 @@ number: "550.1"
 title: Loi sur la police cantonale
 short: LPol
 language: fr
-version: 2021-09-01
-valid_until: 2021-09-30
-version_adopted: 2021-06-08
+version: 2021-10-01
+valid_until: 2023-12-31
+version_adopted: 2021-06-10
 adopted: 2016-11-11
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2934/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2974/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2934/pdf_file"
 
 (LPol)
 
-du 11.11.2016 (état 01.09.2021)
+du 11.11.2016 (état 01.10.2021)
 
 Le Grand Conseil du canton du Valais
 
@@ -742,21 +742,37 @@ ordonne:[^ingress-1]
 
 #### Art. 59
 
-**Recherche automatisée de véhicules et de personnes**
+**Recherche automatisée de véhicules**
 
-<sup>1</sup> La police cantonale peut procéder à la saisie automatisée de plaques de contrôle de véhicules aux fins de comparaison dans des bases de données.
+<sup>1</sup> La police cantonale peut enregistrer de manière automatisée (optiquement) les véhicules et leurs plaques d'immatriculation à des fins de recherche de personnes ou de biens et pour la prévention, la détection et la poursuite de crimes et de délits.
 
-<sup>2</sup> La comparaison automatisée des données est admissible:
+<sup>2</sup> Elle peut comparer automatiquement les données avec des bases de données, les analyser et les utiliser pour créer des profils de mouvements. La comparaison automatisée des données est admissible:
 
 - a) avec les systèmes de recherches informatisées de personnes et d’objets;
-- b) avec les avis de recherche de la police cantonale.
+- b) avec les avis de recherche de la police cantonale;
+- c) avec des informations sur les plaques d’immatriculation de véhicules dont le détenteur s'est vu retirer ou refuser son permis de conduire.
 
-<sup>3</sup> Les données saisies automatiquement sont effacées:
+<sup>3</sup> Les données enregistrées automatiquement sont effacées:
 
-- a) immédiatement dans les cas où la comparaison avec les bases de données n’a donné aucun résultat;
+- a) dans un délai de 100 jours maximum dans les cas où la comparaison avec les bases de données n’a donné aucun résultat;
 - b) dans les délais prévus par les dispositions applicables de la procédure administrative ou pénale concernée lorsqu’une concordance est établie.
 
-<sup>4</sup> L’article 58 alinéa 3 lettres b à e s’applique pour le surplus par analogie
+<sup>4</sup> La police cantonale peut, dans un délai de 100 jours au maximum, utiliser les données enregistrées automatiquement à des fins:
+
+- a) d’enquête sur les crimes et les délits;
+- b) de recherche de personnes disparues ou évadées.
+
+<sup>5</sup> L’article 58 alinéa 3 lettres b à e s’applique pour le surplus par analogie.
+
+#### Art. 59a
+
+**Echange de données dans le cadre de la procédure d'appel**
+
+<sup>1</sup> Aux fins mentionnées à l’article 59 alinéa 1, la police cantonale peut, par le biais d’une procédure d’appel en ligne, obtenir des données relatives à la recherche automatisée de véhicules auprès d'autres autorités de police fédérales, cantonales et communales, de la police nationale du Liechtenstein, de l'Office fédéral des routes (OFROU) et de l'Office fédéral de la douane et de la sécurité des frontières (OFDF) et traiter les données ainsi collectées conformément à l'article 59 alinéa 3.
+
+<sup>2</sup> Aux fins prévues à l'article 59 alinéa 1, la police cantonale peut, par le biais d’une procédure d’appel en ligne, communiquer les données issues de la recherche automatisée de véhicules à d'autres autorités de police fédérales, cantonales et communales, à la police nationale du Liechtenstein et à l'OFDF.
+
+<sup>3</sup> A cette fin, elle peut mettre en place des interfaces d’échange avec les systèmes respectifs de ces autorités en matière de détection automatisée de véhicules.
 
 ## 6 Statut des membres de la police cantonale
 
