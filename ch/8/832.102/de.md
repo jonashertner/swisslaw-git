@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2021-05-01
+version: 2021-10-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20210501/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20210501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20211001/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210501/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Mai 2021)
+vom 27. Juni 1995 (Stand am 1. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -885,7 +885,7 @@ Sie hat insbesondere die folgenden Aufgaben:
 
 <sup>3</sup>
 
-Sie besteht aus 18 Mitgliedern. Davon vertreten:
+Sie besteht aus 18 Mitgliedern; davon vertreten:[^37d-3]
 
 - a. vier Personen die Ärzteschaft, wobei eine Person die Komplementärmedizin vertritt;
 - b. eine Person die Spitäler;
@@ -897,11 +897,12 @@ Sie besteht aus 18 Mitgliedern. Davon vertreten:
 - h. eine Person die Analysen-, Mittel- und Gegenständekommission;
 - i. eine Person die Dozenten und Dozentinnen der Laboranalytik (wissenschaftlicher Experte oder wissenschaftliche Expertin);
 - j. zwei Personen die medizinische Ethik;
-- k. eine Person die Medizintechnikindustrie.[^37d-3]
+- k. eine Person die Medizintechnikindustrie.[^37d-4]
 
 [^37d-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 [^37d-2]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^37d-3]: Fassung gemäss Ziff. I 2.10 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^37d-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
+[^37d-4]: Fassung gemäss Ziff. I 2.10 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37e
 
@@ -911,7 +912,7 @@ Sie besteht aus 18 Mitgliedern. Davon vertreten:
 
 <sup>2</sup>
 
-Sie besteht aus 16 Mitgliedern. Davon vertreten:[^37e-3]
+Sie besteht aus 16 Mitgliedern; davon vertreten:[^37e-3]
 
 - a. eine Person die Fakultäten der Medizin und Pharmazie (wissenschaftlicher Experte oder wissenschaftliche Expertin);
 - b. drei Personen die Ärzteschaft, wobei eine Person die Komplementärmedizin vertritt;
@@ -925,7 +926,7 @@ Sie besteht aus 16 Mitgliedern. Davon vertreten:[^37e-3]
 
 [^37e-1]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
 [^37e-2]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^37e-3]: Fassung gemäss Ziff. I der V vom 18. Jan. 2012, in Kraft seit 1. Febr. 2012 ([AS 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
+[^37e-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 [^37e-4]: Eingefügt durch Ziff. I der V vom 18. Jan. 2012, in Kraft seit 1. Febr. 2012 ([AS 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
 [^37e-5]: Fassung gemäss Ziff. I 2.10 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
@@ -937,10 +938,10 @@ Sie besteht aus 16 Mitgliedern. Davon vertreten:[^37e-3]
 
 <sup>2</sup>
 
-Sie besteht aus 15 Mitgliedern. Davon vertreten:
+Sie besteht aus 16 Mitgliedern; davon vertreten:[^37f-3]
 
 - a. zwei Personen die Dozenten und Dozentinnen der Laboranalytik (wissenschaftliche Experten und Expertinnen);
-- b. eine Personen die Ärzteschaft;
+- b.[^37f-4] eine Person die Ärzteschaft;
 - c. eine Person die Apothekerschaft;
 - d. zwei Personen die Laboratorien;
 - e. zwei Personen die Krankenversicherer;
@@ -948,11 +949,15 @@ Sie besteht aus 15 Mitgliedern. Davon vertreten:
 - g. zwei Personen die Versicherten;
 - h. eine Person die Diagnostica- und Diagnostica-Geräte-Industrie;
 - i. eine Person die Abgabestellen für Mittel und Gegenstände;
-- j. zwei Personen die Hersteller und Vertreiber von Mitteln und Gegenständen.[^37f-3]
+- j. zwei Personen die Hersteller und Vertreiber von Mitteln und Gegenständen;
+- k.[^37f-5] eine Person die Pflegefachfrauen und Pflegefachmänner, die Organisationen der Krankenpflege und Hilfe zu Hause und die Pflegeheime.[^37f-6]
 
 [^37f-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 [^37f-2]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^37f-3]: Fassung gemäss Ziff. I 2.10 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^37f-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
+[^37f-4]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
+[^37f-5]: Eingefügt durch Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
+[^37f-6]: Fassung gemäss Ziff. I 2.10 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37g
 
@@ -1671,9 +1676,10 @@ Das EDI bezeichnet diejenigen Analysen, die:
 - b. von Chiropraktoren und Chiropraktorinnen gestützt auf Artikel 25 Absatz 2 Buchstabe b des Gesetzes veranlasst werden können;
 - c. von Hebammen gestützt auf Artikel 29 Absatz 2 Buchstabe a des Gesetzes veranlasst werden können.
 
-<sup>2</sup> Das EDI bezeichnet die im Praxislabor des Arztes oder der Ärztin vorgenommenen Analysen, für die der Tarif nach den Artikeln 46 und 48 des Gesetzes festgesetzt werden kann.
+<sup>2</sup> ...[^62-2]
 
 [^62-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2000, in Kraft seit 1. April 2000 ([AS 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)).
+[^62-2]: Aufgehoben durch Ziff. I der V vom 4. Juni 2021, mit Wirkung seit 1. Okt. 2021 ([AS 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 
 ### 3. Abschnitt: Arzneimittelliste mit Tarif
 

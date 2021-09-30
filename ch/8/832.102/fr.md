@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2021-05-01
+version: 2021-10-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20210501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210501/fr"
 
 (OAMal)
 
-du 27 juin 1995 (Etat le 1<sup>er</sup> mai 2021)
+du 27 juin 1995 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -729,16 +729,17 @@ Le Département fédéral de l’intérieur (DFI) désigne, après avoir consult
 - b.[^33-2] les prestations visées à l’art. 25, al. 2 et 25*a*, al. 1 et 2, de la loi qui ne sont pas fournies par les médecins ou les chiropraticiens;
 - c. les prestations nouvelles ou controversées dont l’efficacité, l’adéquation ou le caractère économique sont en cours d’évaluation; il détermine les conditions et l’étendue de la prise en charge des coûts par l’assurance obligatoire des soins;
 - d. les mesures de prévention visées à l’art. 26 de la loi, les prestations en cas de maternité visées à l’art. 29, al. 2, let. a et c, de la loi et les soins dentaires visés à l’art. 31, al. 1, de la loi;
-- e. les moyens et appareils au sens de l’art. 52, al. 1, let. a, ch. 3, de la loi qui doivent être pris en charge par l’assurance obligatoire des soins; il fixe des montants maximaux pour leur remboursement;
+- e.[^33-3] les moyens et appareils au sens de l’art. 52, al. 1, let. a, ch. 3, de la loi qui doivent être pris en charge par l’assurance obligatoire des soins; il fixe des montants maximaux pour leur rémunération;
 - f. la participation aux frais de cures balnéaires prévue à l’art. 25, al. 2, let. c, de la loi; cette participation sert à couvrir les frais de cure qui ne le sont pas par d’autres prestations de l’assurance obligatoire des soins; elle peut être versée 21 jours au plus par année civile;
 - g. la contribution aux frais de transport et de sauvetage prévue à l’art. 25, al. 2, let. g, de la loi; les transports médicalement nécessaires d’un hôpital à l’autre font partie du traitement hospitalier;
-- h.[^33-3] la procédure d’évaluation des soins requis;
-- i.[^33-4] le montant des contributions en fonction du besoin en soins prévues à l’art. 25*a*, al. 1 et 4 de la loi.
+- h.[^33-4] la procédure d’évaluation des soins requis;
+- i.[^33-5] le montant des contributions en fonction du besoin en soins prévues à l’art. 25*a*, al. 1 et 4 de la loi.
 
 [^33-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^33-2]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. II 2).
-[^33-3]: Introduite par le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. II 2).
+[^33-3]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 [^33-4]: Introduite par le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. II 2).
+[^33-5]: Introduite par le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. II 2).
 
 #### Art. 34
 
@@ -913,7 +914,7 @@ Elle se compose de 18 membres, à savoir:
 
 <sup>2</sup>
 
-Elle se compose de 16 membres, dont:[^37e-3]
+Elle se compose de 16 membres, à savoir:[^37e-3]
 
 - a. un représentant des facultés de médecine et de pharmacie (expert scientifique);
 - b. trois médecins, dont un représentant la médecine complémentaire;
@@ -927,7 +928,7 @@ Elle se compose de 16 membres, dont:[^37e-3]
 
 [^37e-1]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
 [^37e-2]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^37e-3]: Nouvelle teneur selon le ch. I de l’O du 18 janv. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2012 ([RO 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
+[^37e-3]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 [^37e-4]: Introduite par le ch. I de l’O du 18 janv. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2012 ([RO 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61))
 [^37e-5]: Nouvelle teneur selon le ch. I 2.10 de l’O du 9 nov. 2011 (Réexamen des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
@@ -935,11 +936,11 @@ Elle se compose de 16 membres, dont:[^37e-3]
 
 **Commission fédérale des analyses, moyens et appareils[^37f-1]**
 
-<sup>1</sup> La Commission fédérale des analyses, moyens et appareils conseille le DFI pour l’établissement de la liste des analyses prévue par l’art. 34, dans l’évaluation et la détermination du montant du remboursement des moyens et appareils visés à l’art. 33, let. e, ainsi que dans l’élaboration des dispositions relevant de son domaine à édicter en application des art. 36, al. 1, 75, 77*k* et 104*a*, al. 4.[^37f-2]
+<sup>1</sup> La Commission fédérale des analyses, moyens et appareils conseille le DFI pour l’établissement de la liste des analyses prévue par l’art. 34, dans l’évaluation et la détermination du montant de la rémunération des moyens et appareils visés à l’art. 33, let. e, et dans l’élaboration des dispositions relevant de son domaine à édicter en application des art. 36, al. 1, 75, 77, al. 4, et 104*a*, al. 4.[^37f-2]
 
 <sup>2</sup>
 
-Elle se compose de 15 membres, à savoir:
+Elle se compose de 16 membres, à savoir:[^37f-3]
 
 - a. deux enseignants en analyses de laboratoire (experts scientifiques);
 - b. un médecin;
@@ -950,11 +951,14 @@ Elle se compose de 15 membres, à savoir:
 - g. deux représentants des assurés;
 - h. un représentant de l’industrie des équipements et produits diagnostiques;
 - i. un représentant des centres de remise des moyens et appareils;
-- j. deux représentants des fabricants et des distributeurs de moyens et appareils.[^37f-3]
+- j. deux représentants des fabricants et des distributeurs de moyens et appareils;
+- k.[^37f-4] un représentant des infirmiers, des organisations de soins et d’aide à domicile et des établissements médico-sociaux.[^37f-5]
 
 [^37f-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
-[^37f-2]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
-[^37f-3]: Nouvelle teneur selon le ch. I 2.10 de l’O du 9 nov. 2011 (Réexamen des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
+[^37f-2]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
+[^37f-3]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
+[^37f-4]: Introduite par le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
+[^37f-5]: Nouvelle teneur selon le ch. I 2.10 de l’O du 9 nov. 2011 (Réexamen des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37g
 
@@ -1676,9 +1680,10 @@ Le DFI désigne les analyses qui:
 - b. peuvent être prescrites par des chiropraticiens conformément à l’art. 25, al. 2, let. b, de la loi;
 - c. peuvent être prescrites par des sages-femmes conformément à l’art. 29, al. 2, let. a, de la loi.
 
-<sup>2</sup> Le DFI désigne les analyses effectuées dans le laboratoire du médecin pour lesquelles le tarif peut être fixé conformément aux art. 46 et 48 de la loi.
+<sup>2</sup> …[^62-2]
 
 [^62-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2000, en vigueur depuis le 1<sup>er</sup> avr. 2000 ([RO 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)).
+[^62-2]: Abrogé par le ch. I de l’O du 4 juin 2021, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 
 ### Section 3**** Liste des médicaments avec tarif
 
