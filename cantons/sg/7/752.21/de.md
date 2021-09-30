@@ -4,13 +4,12 @@ number: "752.21"
 title: Verordnung zum Vollzugsgesetz zur eidgenössischen Gewässerschutzgesetzgebung
 short: GSchVV
 language: de
-version: 2017-10-01
-valid_until: 2021-09-30
-version_adopted: 2017-06-27
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 1997-01-21
 in_force: 1997-03-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/752.21"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2292/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3251/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2292/pdf_file"
 
 (GSchVV)
 
-vom 21.01.1997 (Stand 01.10.2017)
+vom 21.01.1997 (Stand 01.10.2021)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -101,7 +100,7 @@ als Verordnung:[^ingress-3]
 - c) Gesuchen um Vorprüfung von kommunalen Abwasserreglementen;
 - d) Vorprüfungen und Genehmigungen von Vereinbarungen über Zweckverbände und Gemeindeverbände;[^2bis-8]
 - e) Rechtsmittelverfahren im Bereich des Gewässerschutzes, einschliesslich aufsichtsrechtlicher Verfahren;
-- f) der Wahrung der Parteirechte des Baudepartementes bei Widerhandlungen gegen Bestimmungen des Umweltschutzes[^2bis-9].
+- f) der Wahrung der Parteirechte des Bau- und Umweltdepartementes bei Widerhandlungen gegen Bestimmungen des Umweltschutzes[^2bis-9].
 
 [^2bis-1]: Art. [45](https://www.gesetzessammlung.sg.ch/data/752.2/de) Abs. 1 GSchVG, sGS [752.2](https://www.gesetzessammlung.sg.ch/data/752.2/de).
 [^2bis-2]: sGS [852.1](https://www.gesetzessammlung.sg.ch/data/852.1/de).
@@ -143,7 +142,7 @@ als Verordnung:[^ingress-3]
 <sup>1</sup> Für das Einreichen von Gesuchen um globale Abgeltungen an die Finanzierung von Gewässerschutzanlagen oder -massnahmen beim zuständigen Bundesamt und den Abschluss von Programmvereinbarungen mit dem Bund sind zuständig:
 
 - a) das Volkswirtschaftsdepartement für Massnahmen der Landwirtschaft zur Verhinderung der Abschwemmung und Auswaschung von Stoffen;[^3ter-2]
-- b) das Baudepartement in den übrigen Fällen.
+- b) das Bau- und Umweltdepartement in den übrigen Fällen.
 
 [^3ter-1]: Art. 59 und 60 der eidg Gewässerschutzverordnung vom 28. Oktober 1998, SR [814.201](https://db.clex.ch/link/Bund/814.201/de).
 [^3ter-2]: Art. 62 a des BG über den Schutz der Gewässer vom 24. Januar 1991, SR [814.20](https://db.clex.ch/link/Bund/814.20/de).
@@ -207,7 +206,7 @@ als Verordnung:[^ingress-3]
 
 **c) Gewässerschutzrechtliche Bewilligungen und Verfügungen bei Wasserrechtsverleihungen[^4-1]**
 
-<sup>1</sup> Das Baudepartement vollzieht die gewässerschutzrechtlichen Vorschriften bei Verleihungen nach dem Gesetz über die Gewässernutzung vom 5. Dezember 1960.[^4-2]
+<sup>1</sup> Das Bau- und Umweltdepartement vollzieht die gewässerschutzrechtlichen Vorschriften bei Verleihungen nach dem Gesetz über die Gewässernutzung vom 5. Dezember 1960.[^4-2]
 
 [^4-1]: Art. [13](https://www.gesetzessammlung.sg.ch/data/751.1/de/art13.) Abs. 1 und Art. [14](https://www.gesetzessammlung.sg.ch/data/751.1/de/art14.) Abs. 2 GNG, sGS [751.1](https://www.gesetzessammlung.sg.ch/data/751.1/de).
 [^4-2]: sGS [751.1](https://www.gesetzessammlung.sg.ch/data/751.1/de).
@@ -245,7 +244,7 @@ als Verordnung:[^ingress-3]
 
 **Richtlinien und Weisungen**
 
-<sup>1</sup> Das Baudepartement kann Richtlinien und Weisungen erlassen, insbesondere über:
+<sup>1</sup> Das Bau- und Umweltdepartement kann Richtlinien und Weisungen erlassen, insbesondere über:
 
 - a) das Versickernlassen und das Einleiten von nicht verschmutztem Abwasser;
 - b) die Führung des Abwasserkatasters;
