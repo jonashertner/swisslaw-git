@@ -3,25 +3,28 @@ canton: BL
 number: "108.31"
 title: Verordnung über den Schutz der sexuellen Integrität am Arbeitsplatz
 language: de
-version: 2009-10-01
-valid_until: 2021-09-30
-version_adopted: 2009-09-22
+version: 2021-10-01
+version_adopted: 2021-09-07
 adopted: 1998-11-03
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/108.31"
-pdf: "https://bl.clex.ch/api/de/versions/288/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3090/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Schutz der sexuellen Integrität am Arbeitsplatz
 
-Vom 03.11.1998 (Stand 01.10.2009)
+Vom 03.11.1998 (Stand 01.10.2021)
 
-Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 21 des Einführungsgesetzes zum Gleichstellungsgesetz (EG GlG) vom 27. November 1997[^ingress-2], beschliesst:
+Der Regierungsrat des Kantons Basel-Landschaft,
 
-[^ingress-1]: GS 29.276, SGS 100
-[^ingress-2]: GS 33.91, SGS 108
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 21 des Einführungsgesetzes zum Gleichstellungsgesetz (EG GlG) vom 27. November 1997[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 108](https://bl.clex.ch/data/108/de/art21)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -31,7 +34,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 <sup>1</sup> Alle Mitarbeiterinnen und Mitarbeiter des Kantons haben ein Recht, im Zusammenhang mit ihrer beruflichen Tätigkeit so behandelt zu werden, dass ihre Würde und insbesondere ihre sexuelle Integrität am Arbeitsplatz unangetastet bleiben. Auch sexuelle Belästigung durch Mitarbeiterinnen und Mitarbeiter gegenüber Drittpersonen wird nicht toleriert.
 
-<sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die sexuelle Belästigungen bemerken, weisen die belästigende Person darauf hin, dass dieses Verhalten unzulässig ist, und sie unterstützen die betroffene Person bei der Wahrung ihrer Rechte.
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die sexuelle Belästigungen bemerken, weisen die belästigende Person darauf hin, dass dieses Verhalten unzulässig ist, und sie unterstützen die belästigte Person bei der Wahrung ihrer Rechte.
 
 <sup>3</sup> Gegen belästigende Mitarbeiterinnen und Mitarbeiter werden Massnahmen ergriffen.
 
@@ -51,15 +54,17 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 - f. wiederholte unerwünschte Einladungen mit sexuellem Bezug;
 - g. Annäherungsversuche, die mit Versprechen von Vorteilen oder Androhen von Nachteilen einhergehen.
 
-<sup>3</sup> Die Straftatbestände des Schweizerischen Strafgesetzbuches bleiben vorbehalten.
+<sup>3</sup> …
 
 #### § 3
 
-**Aufsichtsrechtliche Anzeigen**
+**Meldungen**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können wegen sexueller Belästigung eine aufsichtsrechtliche Anzeige erstatten. Der anzeigenden Person dürfen daraus keine Nachteile erwachsen.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die sexuell belästigt wurden, können eine Meldung machen. Der Meldung erstattenden Person dürfen daraus keine Nachteile erwachsen.
 
 <sup>2</sup> Ausserhalb des hängigen Verfahrens dürfen den beteiligten Personen keine Nachteile erwachsen.
+
+<sup>3</sup> Die Straftatbestände des Schweizerischen Strafgesetzbuches bleiben vorbehalten.
 
 #### § 3a
 
@@ -83,9 +88,9 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 <sup>2</sup> Sie haben ihre Mitarbeiterinnen und Mitarbeiter auf die Verhaltensgrundsätze hinzuweisen und gegebenenfalls korrigierend einzugreifen.
 
-<sup>3</sup> Sie haben eine Person, die sich beschwert, zu unterstützen und in Zusammenarbeit mit ihr, der Vertrauensperson und gegebenenfalls den zuständigen Personalverantwortlichen die zweckmässigen vorsorglichen Massnahmen zu treffen. Diese sind vorgängig mit allen Beteiligten zu besprechen.
+<sup>3</sup> Sie haben eine Person, die sich über Belästigung beklagt, zu unterstützen und in Zusammenarbeit mit ihr, gegebenenfalls der Vertrauensperson und den zuständigen Personalverantwortlichen die zweckmässigen vorsorglichen Massnahmen zu treffen.
 
-<sup>4</sup> Sie haben die betroffene Person auf ihr Anzeigerecht hinzuweisen.
+<sup>4</sup> Sie haben die belästigte Person auf ihr Melderecht hinzuweisen.
 
 ## 3 Vertrauenspersonen
 
@@ -93,31 +98,33 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 **Anspruch auf Beratung und Unterstützung**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die von einer sexuellen Belästigung betroffen sind oder von Fällen sexueller Belästigung wissen, haben Anspruch auf Beratung und Unterstützung durch speziell bezeichnete und ausgebildete Vertrauenspersonen.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die sexuell belästigt wurden oder von Fällen sexueller Belästigung wissen, ohne selber beschuldigt zu sein, haben Anspruch auf Beratung und Unterstützung durch speziell bezeichnete Vertrauenspersonen.
 
 <sup>2</sup> Die Vertrauenspersonen stehen auch Drittpersonen ausserhalb der Verwaltung, der Gerichte und der Ombudsstelle, die von Fällen sexueller Belästigung durch Mitarbeiterinnen oder Mitarbeitern des Kantons im Rahmen ihrer Arbeitserfüllung Kenntnis haben, beratend zur Verfügung.
 
-<sup>3</sup> Jede Vertrauensperson kann von allen Mitarbeiterinnen und Mitarbeitern des Kantons kontaktiert werden.
+<sup>3</sup> Wer Anspruch auf Beratung hat, kann sich an jede Vertrauensperson des Kantons wenden.
 
 #### § 7
 
 **Einsetzung von Vertrauenspersonen**
 
-<sup>1</sup> Der Kanton bezeichnet insgesamt 12 Vertrauenspersonen aus allen Bereichen seiner Tätigkeit, wobei beide Geschlechter angemessen vertreten sein müssen.
+<sup>1</sup> Der Kanton bezeichnet maximal 12 Vertrauenspersonen aus allen Bereichen seiner Tätigkeit, wobei beide Geschlechter angemessen vertreten sein müssen.
 
 <sup>2</sup> Der Regierungsrat bestimmt die Vertrauenspersonen für jeweils vier Jahre.
 
 <sup>3</sup> Vor Einsetzung der Vertrauenspersonen sind die Personalverbände und die Fachstelle für Gleichstellung von Frau und Mann anzuhören.
 
+<sup>4</sup> Die Vertrauenspersonen werden für ihre Aufgabe ausgebildet.
+
 #### § 8
 
-**Aufgaben der Vertrauensperson**
+**Aufgaben der Vertrauenspersonen**
 
 <sup>1</sup> Zu den Aufgaben der Vertrauenspersonen gehören insbesondere:
 
-- a. Beratung und Unterstützung der betroffenen Person;
-- b. Ergreifung informeller Schritte auf Wunsch und in Zusammenarbeit mit der betroffenen Person, mit dem Ziel, den sexuellen Belästigungen ein Ende zu setzen;
-- c. Information über das aufsichtsrechtliche Anzeigeverfahren, Aufzeigen der straf- bzw. zivilrechtlichen Möglichkeiten und Darlegung der Voraussetzungen sowie der möglichen Konsequenzen dieser Schritte gegenüber der betroffenen Person.
+- a. Beratung und Unterstützung;
+- b. Ergreifung informeller Schritte auf Wunsch und in Zusammenarbeit mit der belästigten Person, mit dem Ziel, den sexuellen Belästigungen ein Ende zu setzen;
+- c. Information über das Meldeverfahren, Aufzeigen der straf- bzw. zivilrechtlichen Möglichkeiten und Darlegung der Voraussetzungen sowie der möglichen Konsequenzen dieser Schritte gegenüber der belästigten Person.
 
 <sup>2</sup> Alle Schritte der Vertrauenspersonen erfolgen im Einverständnis mit der ratsuchenden Person.
 
@@ -127,10 +134,10 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 <sup>1</sup> Zur Erfüllung ihrer Aufgaben stehen den Vertrauenspersonen insbesondere folgende Kompetenzen zu:
 
-- a. sie können mit allen beteiligten Personen Gespräche führen;
+- a. Sie können mit allen beteiligten Personen Gespräche führen;
 - b. sie können mit allen Beteiligten, insbesondere auch mit den Vorgesetzten, ein gemeinsames Gespräch verlangen.
 
-<sup>2</sup> Die Vertrauenspersonen können zur Gewährleistung des Schutzes der belästigten Person sowie zur Sicherstellung des korrekten Verfahrensablaufes bei den zuständigen Personalverantwortlichen und/oder Linienvorgesetzten vorsorgliche Massnahmen beantragen. Diese sind vorgängig mit allen Beteiligten zu besprechen.
+<sup>2</sup> Die Vertrauenspersonen können zur Gewährleistung des Schutzes der belästigten Person sowie zur Sicherstellung des korrekten Verfahrensablaufs bei den zuständigen Personalverantwortlichen und/oder Linienvorgesetzten vorsorgliche Massnahmen beantragen.
 
 ## 4 Beratende Kommission zum Schutz der sexuellen Integrität am Arbeitsplatz
 
@@ -138,15 +145,15 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 **Wahl der beratenden Kommission**
 
-<sup>1</sup> Zur fachlichen Beurteilung von aufsichtsrechtlichen Anzeigen wegen sexueller Belästigung wählt der Regierungsrat eine beratende Kommission.
+<sup>1</sup> Zur fachlichen Beurteilung von Meldungen wegen sexueller Belästigung wählt der Regierungsrat eine beratende Kommission.
 
-<sup>2</sup> Die Kommission besteht aus fünf Mitgliedern, wovon 3 Frauen und 2 Männer sein müssen. Sie tagt mit drei Mitgliedern.
+<sup>2</sup> Die Kommission besteht aus 5 Mitgliedern, wovon 3 Frauen und 2 Männer sein müssen. Sie tagt mit mindestens 3 Mitgliedern.
 
 <sup>3</sup> Die beisitzenden Mitglieder werden aus dem Kreis der Mitglieder der Schlichtungskommission für Diskriminierungstreitigkeiten im Erwerbsleben[^10-1], die den öffentlichen Sektor vertreten, gewählt. Der Regierungsrat wählt eine von der Schlichtungskommission für Diskriminierungstreitigkeiten im Erwerbsleben unabhängige Person für den Vorsitz.
 
 <sup>4</sup> Vor der Einsetzung der Mitglieder der Kommission ist die Fachstelle für Gleichstellung von Frau und Mann anzuhören.
 
-[^10-1]: § 2 des EG zum Gleichstellungsgesetz (GS 33.91, SGS 108)
+[^10-1]: § 2 des EG zum Gleichstellungsgesetz ([SGS 108](https://bl.clex.ch/data/108/de/art2))
 
 #### § 11
 
@@ -154,7 +161,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 <sup>1</sup> Die Konstituierung der beratenden Kommission ist in den Publikationsorganen des Kantons anzuzeigen.
 
-<sup>2</sup> Die beratende Kommission ist organisatorisch der Volkswirtschafts- und Sanitätsdirektion und innerhalb dieser der Hauptabteilung Volkswirtschaft zugeteilt.
+<sup>2</sup> Die beratende Kommission ist organisatorisch der Volkswirtschafts- und Gesundheitsdirektion und innerhalb dieser dem Generalsekretariat zugeteilt.
 
 <sup>3</sup> Die Kommissionsmitglieder werden für ihre Aufgabe ausgebildet.
 
@@ -165,8 +172,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 <sup>1</sup> Zu den Aufgaben der beratenden Kommission gehören:
 
 - a. Durchführung der notwendigen Abklärungen zur Ermittlung des Sachverhalts;
-- b. Information der beschuldigten, der zuständigen vorgesetzten und der Anzeige erstattenden Person;
-- c. Erstellen eines Schlussberichts und Ausarbeitung des Entscheids zuhanden der zuständigen Instanz, gegebenenfalls mit Empfehlungen und Antrag auf Massnahmen.
+- b. Information der beschuldigten, der zuständigen vorgesetzten und der Meldung erstattenden Person;
+- c. Erstellen eines Schlussberichts und Ausarbeitung des Entscheids zuhanden der Anstellungsbehörde der beschuldigten Person, gegebenenfalls mit Empfehlungen und Antrag auf Massnahmen.
 
 <sup>2</sup> Der Regierungsrat kann der Kommission weitere Aufgaben übertragen.
 
@@ -176,33 +183,44 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 <sup>1</sup> Zur Erfüllung ihrer Aufgaben stehen der beratenden Kommission insbesondere folgende Kompetenzen zu:
 
-- a. sie kann bei der bzw. beim zuständigen Personal- oder Linienvorgesetzten alle sachdienlichen Auskünfte verlangen und Akten einsehen, die sie zur Erfüllung ihrer Aufgaben braucht;
-- b. sie kann Auskunftspersonen und gegebenenfalls die Vertrauensperson einvernehmen;
-- c. sie kann bei der bzw. beim zuständigen Personal- oder Linienvorgesetzten Antrag auf vorsorgliche Massnahmen stellen.
+- a. Sie kann die Untersuchung an einzelne Mitglieder der Kommission übertragen und aussenstehende Fachpersonen beiziehen.
+- b. Sie kann bei der bzw. beim zuständigen Personal- oder Linienvorgesetzten alle sachdienlichen Auskünfte verlangen und Akten einsehen, die sie zur Erfüllung ihrer Aufgaben braucht.
+- c. Sie kann Auskunftspersonen befragen.
+- d. Sie kann bei der bzw. beim zuständigen Personal- oder Linienvorgesetzten Antrag auf vorsorgliche Massnahmen stellen.
 
-## 5 Aufsichtsrechtliches Anzeigeverfahren
+## 5 Meldeverfahren
 
 #### § 14
 
-**Einreichung der aufsichtsrechtlichen Anzeige, Fristen**
+**Einreichung der Meldung, Fristen, Verfahren**
 
-<sup>1</sup> Wird die aufsichtsrechtliche Anzeige innerhalb von sechs Monaten seit der letzten sexuellen Belästigung bei der bzw. dem Vorsitzenden der beratenden Kommission eingereicht, so hat die Aufsichtsbehörde in jedem Fall auf die Anzeige einzutreten. Die Eintretenspflicht gilt auch in den Fällen, wo die Vertrauensperson bestätigt, dass innerhalb von sechs Monaten seit der letzten Belästigung Kontakt mit ihr aufgenommen wurde.
+<sup>1</sup> Wird die Meldung innerhalb von 6 Monaten seit der letzten sexuellen Belästigung bei der bzw. dem Vorsitzenden der beratenden Kommission eingereicht, so hat die beratende Kommission in jedem Fall auf die Meldung einzutreten. Die Eintretenspflicht gilt auch in den Fällen, wo die Vertrauensperson bestätigt, dass innerhalb von 6 Monaten seit der letzten Belästigung Kontakt mit ihr aufgenommen wurde.
 
-<sup>2</sup> Ist die strafrechtliche Verfolgung der belästigenden Person während einer längeren als der in Absatz 1 genannten Frist möglich, so gilt die strafrechtliche Verfolgungsfrist auch für die Pflicht der Aufsichtsbehörde, auf die Anzeige einzutreten.
+<sup>2</sup> Ist die strafrechtliche Verfolgung der belästigenden Person während einer längeren als der in Abs. 1 genannten Frist möglich, so gilt die strafrechtliche Verfolgungsfrist auch für die Pflicht der beratenden Kommission, auf die Meldung einzutreten.
 
-<sup>3</sup> Nach Eingang einer aufsichtsrechtlichen Anzeige ruft die oder der Vorsitzende der beratenden Kommission unverzüglich eine Sitzung mit allen Mitgliedern der Kommission ein, in welcher der konkrete Verfahrensablauf festgelegt wird.
+<sup>3</sup> Nach Eingang einer Meldung ruft die oder der Vorsitzende der beratenden Kommission unverzüglich eine Sitzung mit mindestens 3 Mitgliedern der Kommission ein, wovon eines die vorsitzende Person ist. In dieser Sitzung legt die Kommission den konkreten Verfahrensablauf fest.
+
+<sup>4</sup> Die beratende Kommission unternimmt im Verfahren folgende Schritte:
+
+- a. Sie orientiert die beschuldigte Person sowie die direkten Vorgesetzten der belästigten und beschuldigten Person über die Eröffnung des Meldeverfahrens.
+- b. Sie führt Untersuchungen durch.
+- c. Sie ermittelt den Sachverhalt und erhebt Beweise.
+- d. Sie hört die belästigte Person, die beschuldigte Person sowie allfällige Auskunftspersonen an.
+- e. Sie führt Protokoll über das Untersuchungsverfahren.
+
+<sup>5</sup> Die mindestens 3 Mitglieder der Kommission, die die Untersuchung durchführen, informieren sich über die Resultate der Untersuchung, haben Einsicht in die Protokolle und fällen auf ihrer Grundlage einen Entscheid.
 
 #### § 15
 
-**Parteivertretung**
+**Begleitung**
 
-<sup>1</sup> Beide Parteien haben das Recht auf Begleitung durch eine Person ihrer Wahl. Sie können bei der Befragung von Auskunftspersonen sowie der Gegenpartei anwesend sein und Ergänzungsfragen stellen.
+<sup>1</sup> Sowohl die belästigte als auch die beschuldigte Person haben das Recht auf Begleitung durch eine Person ihrer Wahl. Sie können bei der Befragung von Auskunftspersonen sowie der beschuldigten beziehungsweise der belästigten Person anwesend sein und Ergänzungsfragen stellen.
 
 #### § 16
 
 **Anwesenheit**
 
-<sup>1</sup> Die betroffene Partei hat das Recht, bei ihrer Befragung die Anwesenheit der beschuldigten Partei abzulehnen. In diesem Fall kann sich die beschuldigte Person durch ihren Beistand gemäss § 15 vertreten lassen.
+<sup>1</sup> Die belästigte Person hat das Recht, bei ihrer Befragung die Anwesenheit der beschuldigten Person abzulehnen. In diesem Fall kann sich die beschuldigte Person durch ihre Begleitperson gemäss § 15 vertreten lassen.
 
 ## 6 Massnahmen
 
@@ -210,7 +228,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 **Massnahmen für belästigende Personen und rechtliches Gehör**
 
-<sup>1</sup> Die beratende Kommission kann insbesondere folgende Massnahmen beantragen:
+<sup>1</sup> Die beratende Kommission kann bei der Anstellungsbehörde der beschuldigten Person insbesondere folgende Massnahmen beantragen:
 
 - a. Verpflichtung, sich zu entschuldigen;
 - b. Verwarnung;
@@ -218,15 +236,15 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 - d. Setzen einer Bewährungsfrist;
 - e. Kündigung bzw. Amtsenthebung.
 
-<sup>2</sup> Beabsichtigt die beratende Kommission, eine Massnahme gemäss Absatz 1 zu beantragen, hört sie zuvor die Parteien abschliessend noch einmal an.
+<sup>2</sup> Beabsichtigt die beratende Kommission, eine Massnahme gemäss Abs. 1 zu beantragen, hört sie zuvor die belästigte und die beschuldigte Person abschliessend noch einmal an.
 
-<sup>3</sup> Im Einverständnis mit der belästigten Person kann von der Ergreifung einer Massnahme abgesehen werden, wenn die belästigende Person sich gehörig entschuldigt.
+<sup>3</sup> …
 
 #### § 18
 
-**Massnahmen bei Missbrauch des aufsichtsrechtlichen Anzeigerechtes**
+**Massnahmen bei Missbrauch des Melderechts**
 
-<sup>1</sup> Wer eine unschuldige Person wider besseres Wissen der sexuellen Belästigung beschuldigt, hat ebenfalls mit Massnahmen durch die zuständige Instanz zu rechnen.
+<sup>1</sup> Wer eine unschuldige Person wider besseres Wissen der sexuellen Belästigung beschuldigt, hat ebenfalls mit Massnahmen durch die Anstellungsbehörde zu rechnen.
 
 ## 7 Schweigepflicht
 
@@ -236,19 +254,27 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 <sup>1</sup> Die Vertrauenspersonen, die Mitglieder der beratenden Kommission sowie die Vorgesetzten und alle sonst mit der Verfahrenserledigung betrauten Personen sind zur Verschwiegenheit verpflichtet.
 
+<sup>2</sup> Vorbehalten bleibt, dass die Vertrauenspersonen Mitgliedern der beratenden Kommission auf Nachfrage den Namen der belästigten Person sowie den Zeitpunkt, zu dem diese sie erstmals kontaktiert hat, nennen müssen.
+
+<sup>3</sup> Vertrauenspersonen sind von der Anzeigepflicht ausgenommen im Sinne von § 27 Abs. 2 Bst. b EG StPO[^19-1].
+
+[^19-1]: [SGS 250](https://bl.clex.ch/data/250/de/art27)
+
 ## 8 Dokumentation
 
 #### § 20
 
 **Dokumentation und Einsicht in die Akten**
 
-<sup>1</sup> Die Fälle werden dokumentiert.
+<sup>1</sup> Die zuständige Vertrauensperson dokumentiert die Eckdaten der Fälle. Wird die beratende Kommission angerufen, dokumentiert sie zusätzlich die Fälle.
 
-<sup>2</sup> Die Akten sind vertraulich und können von den Parteien eingesehen werden.
+<sup>2</sup> Die Akten sind vertraulich. Die belästigte und die beschuldigte Person haben Anspruch auf Einsicht in die Verfahrensakten, soweit nicht überwiegende öffentliche oder private Interessen ihre Geheimhaltung erfordern.
 
-<sup>3</sup> Des weiteren gelten für die Bearbeitung von Personendaten die Bestimmungen des Gesetzes vom 7. März 1991[^20-1] über den Schutz von Personendaten.
+<sup>3</sup> Der Inhalt eines Aktenstücks, in welches die Einsicht verweigert wird, muss jedoch so weit bekanntgegeben werden, als dies ohne Verletzung der zu schützenden Interessen möglich ist.
 
-[^20-1]: GS 30.625, SGS 162
+<sup>4</sup> Des Weiteren gelten für die Bearbeitung von Personendaten die Bestimmungen des Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 10. Februar 2011[^20-1].
+
+[^20-1]: [SGS 162](https://bl.clex.ch/data/162/de)
 
 #### § 21
 
