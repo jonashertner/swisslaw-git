@@ -4,13 +4,13 @@ number: "681.16"
 title: Verordnung über die Organisation und Durchführung der Qualifikationsverfahren der beruflichen Grundbildung
 short: Prüfungsverordnung
 language: de
-version: 2020-07-01
-valid_until: 2021-09-30
-version_adopted: 2020-06-16
+version: 2021-10-01
+valid_until: 2021-12-31
+version_adopted: 2021-09-28
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/681.16"
-pdf: "https://bl.clex.ch/api/de/versions/2687/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3103/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bl.clex.ch/api/de/versions/2687/pdf_file"
 
 (Prüfungsverordnung)
 
-Vom 17.03.2009 (Stand 01.07.2020)
+Vom 17.03.2009 (Stand 01.10.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 88 Bst. f des Bildungsgesetzes vom 6. Juni 2002[^ingress-2],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 88 Abs. 1 Bst. f des Bildungsgesetzes vom 6. Juni 2002[^ingress-2],
 
 beschliesst:
 
@@ -63,7 +63,7 @@ beschliesst:
 <sup>3</sup> Das AfBB hat insbesondere folgende Aufgaben:
 
 - a. Es erstellt das Prüfungsprogramm und bringt dieses der Kommission für Qualifikationsverfahren der beruflichen Grundbildung (Prüfungskommission) zur Kenntnis.
-- b. Es bietet die Kandidatinnen und Kandidaten auf und ist besorgt für die Durchführung korrekter Qualifikationsverfahren gemäss den Vorschriften des Bundesamtes für Berufsbildung und Technologie (BBT) und den Beschlüssen der kantonalen Prüfungskommission.
+- b. Es bietet die Kandidatinnen und Kandidaten auf und ist besorgt für die Durchführung korrekter Qualifikationsverfahren gemäss den Vorschriften des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) und den Beschlüssen der kantonalen Prüfungskommission.
 - c. Es delegiert Qualifikationsverfahren in zahlenmässig schwach vertretenen Berufen an andere Kantone oder führt nach Absprache mit anderen Kantonen regionale Qualifikationsverfahren durch.
 - d. Es entscheidet über die Zulassung zu Qualifikationsverfahren.
 - e. Es stellt nach den Bestimmungen der betreffenden Verordnung über die berufliche Grundbildung oder des entsprechenden eidg. Qualifikations- oder Kompetenzenprofils fest, ob das Qualifikationsverfahren als bestanden oder als nicht bestanden gilt und stellt eidg. Fähigkeitszeugnisse, eidg. Berufsatteste und Notenausweise aus.
@@ -116,7 +116,10 @@ beschliesst:
 
 **Chefexpertinnen und Chefexperten**
 
-<sup>1</sup> Für jeden Beruf oder jede Berufsgruppe sowie für das Fach Allgemeinbildung erfolgt die Ernennung einer Expertin oder eines Experten zur Chefexpertin oder zum Chefexperten auf Vorschlag des Expertengremiums der einzelnen Berufe oder der einzelnen Berufsfachschulen durch die Prüfungskommission.
+<sup>1</sup> Die Prüfungskommission wählt die Chefexpertinnen und Chefexperten:
+
+- a. für jeden Beruf oder jede Berufsgruppe auf Vorschlag des entsprechenden Expertengremiums, der zuständigen Organisationen der Arbeitswelt oder des AfBB;
+- b. für den Qualifikationsbereich «Allgemeinbildung» auf Vorschlag der zuständigen Berufsfachschule.
 
 #### § 8
 
@@ -128,11 +131,11 @@ beschliesst:
 
 **Anmeldung**
 
-<sup>1</sup> Die Berufsbildungsverantwortlichen haben ihre Lernenden bis spätestens 15. September des Vorjahres zu den Qualifikationsverfahren anzumelden.
+<sup>1</sup> Die Berufsbildungsverantwortlichen haben ihre Lernenden bis spätestens 31. August des Vorjahres zu den Qualifikationsverfahren beim AfBB anzumelden.
 
-<sup>2</sup> Gesuche um Verschiebung des Qualifikationsverfahrens, um Ablegung in einem andern Kanton oder um Prüfungserleichterung wegen einer Behinderung sind mit der Anmeldung schriftlich und begründet, spätestens aber bis 31. Dezember des der Prüfung vorangehenden Jahres, an das AfBB zu richten.
+<sup>2</sup> Gesuche um Verschiebung des Qualifikationsverfahrens, um Ablegung in einem andern Kanton oder um Nachteilsausgleich wegen einer Behinderung sind mit der Anmeldung schriftlich und begründet bis spätestens 31. August des Prüfungsvorjahres an das AfBB zu richten.
 
-<sup>3</sup> Kandidatinnen oder Kandidaten nach Art. 31 und Art. 32 BBV melden sich bis spätestens 31. August des Vorjahres beim AfBB zum Qualifikationsverfahren an.
+<sup>3</sup> Kandidatinnen oder Kandidaten nach Art. 31 und Art. 32 BBV und Repetierende ohne Lehrvertrag melden sich selber bis spätestens 31. August des Prüfungsvorjahres beim AfBB zum Qualifikationsverfahren an.
 
 #### § 10
 
@@ -176,9 +179,9 @@ beschliesst:
 
 <sup>1</sup> Die Qualifikationsverfahren sind nicht öffentlich.
 
-<sup>2</sup> Zutritt haben die Expertinnen und Experten, die Mitglieder der Prüfungskommission, die zuständigen Bundesbehörden, die Vertreterinnen oder Vertreter des AfBB und die Mitglieder der Schulleitungen der Berufsfachschulen.
+<sup>2</sup> Zutritt haben die Expertinnen und Experten, die Mitglieder der Prüfungskommission, die zuständigen Bundesbehörden, die Lehraufsicht des AfBB und die Schulleitungen der Berufsfachschulen.
 
-<sup>3</sup> Das AfBB kann weiteren interessierten Personen auf Gesuch hin den Zutritt zu den Qualifikationsverfahren bewilligen.
+<sup>3</sup> Die Prüfungsleitung kann weiteren interessierten Personen auf Gesuch hin den Zutritt zu den Qualifikationsverfahren bewilligen.
 
 #### § 14
 
@@ -226,9 +229,9 @@ beschliesst:
 
 **Aushändigung der Prüfungsarbeiten**
 
-<sup>1</sup> Das AfBB entscheidet über die Aushändigung der Prüfungsarbeiten nach Absprache mit den Chefexpertinnen oder Chefexperten und der Prüfungskommission.
+<sup>1</sup> Das AfBB entscheidet über die Freigabe und Aushändigung der Prüfungsarbeiten in Absprache mit den Chefexpertinnen oder Chefexperten.
 
-<sup>2</sup> Das Prüfungsstück im Fach Praktische Arbeiten oder die individuelle Prüfungsarbeit gehört in der Regel den betrieblichen Berufsbildungsverantwortlichen.
+<sup>2</sup> Prüfungsstücke, bei welchen Infrastruktur und Material vom Kanton Basel-Landschaft finanziert wurden, bleiben in dessen Eigentum. Prüfungsstücke und Produkte, die im Rahmen der individuellen Prüfungsarbeit (IPA) erstellt wurden, sind Eigentum des Ausbildungsbetriebs.
 
 ## 4 Rechtsmittel
 
