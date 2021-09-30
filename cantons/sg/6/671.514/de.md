@@ -3,20 +3,19 @@ canton: SG
 number: "671.514"
 title: Regierungsratsbeschluss über das Naturschutzgebiet Dürrenmoos in Hemberg und St.Peterzell
 language: de
-version: 1984-05-29
-valid_until: 2021-09-30
-version_adopted: 1984-05-29
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 1974-11-05
 in_force: 1974-11-05
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/671.514"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/91/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3236/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über das Naturschutzgebiet Dürrenmoos in Hemberg und St.Peterzell
 
-vom 05.11.1974 (Stand 29.05.1984)
+vom 05.11.1974 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -38,7 +37,7 @@ als Beschluss:[^ingress-3]
 
 <sup>1</sup> Die Grundstücke der katholischen Kirchgemeinde St.Peterzell beidseits des Neckers im Halte von 165,60 Aren auf Gemeindegebiet Hemberg (Parzelle Nr. 330) und von ca. 244 Aren auf Gemeindegebiet St.Peterzell (unvermessen), genannt Dürrenmoos oder Brunau, werden als Naturschutzgebiet erklärt.
 
-<sup>2</sup> Massgebend für die genaue Umgrenzung ist die Eintragung auf der beim Baudepartement verwahrten Skizze 1:2000, fussend auf fotografischer Vergrösserung des Übersichtsplanes 1:10 000, auf Feldaufnahme und auf dem Privatwaldverzeichnis des zuständigen Revierforstamtes.
+<sup>2</sup> Massgebend für die genaue Umgrenzung ist die Eintragung auf der beim Bau- und Umweltdepartement verwahrten Skizze 1:2000, fussend auf fotografischer Vergrösserung des Übersichtsplanes 1:10 000, auf Feldaufnahme und auf dem Privatwaldverzeichnis des zuständigen Revierforstamtes.
 
 #### Art. 2
 
@@ -56,7 +55,7 @@ als Beschluss:[^ingress-3]
 
 **Orientierung der Öffentlichkeit**
 
-<sup>1</sup> Das Baudepartement sorgt dafür, dass die Bestimmungen dieses Beschlusses, die sich an die Öffentlichkeit wenden, zusammen mit einer orientierenden Planskizze an den wichtigsten Zugängen zum Schutzgebiet wiedergegeben werden.
+<sup>1</sup> Das Bau- und Umweltdepartement sorgt dafür, dass die Bestimmungen dieses Beschlusses, die sich an die Öffentlichkeit wenden, zusammen mit einer orientierenden Planskizze an den wichtigsten Zugängen zum Schutzgebiet wiedergegeben werden.
 
 #### Art. 4
 
@@ -68,6 +67,6 @@ als Beschluss:[^ingress-3]
 
 **Vollzugsbeginn**
 
-<sup>1</sup> Dieser Beschluss wird angewendet, sobald das Schutzgebiet markiert ist und das Baudepartement die Öffentlichkeit im Sinn von Art. 3 dieses Beschlusses orientiert hat.
+<sup>1</sup> Dieser Beschluss wird angewendet, sobald das Schutzgebiet markiert ist und das Bau- und Umweltdepartement die Öffentlichkeit im Sinn von Art. 3 dieses Beschlusses orientiert hat.
 
 nGS 10–106
