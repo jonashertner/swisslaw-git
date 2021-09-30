@@ -4,11 +4,11 @@ title: "Ordinanza del 16 gennaio 1991 sul collocamento e il personale a prestito
 short: OC
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: it
-version: 2021-07-01
+version: 2021-10-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20211001/it/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20211001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20210701/it"
 
 (Ordinanza sul collocamento; OC)
 
-del 16 gennaio 1991 (Stato 1° luglio 2021)
+del 16 gennaio 1991 (Stato 1° ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -965,18 +965,16 @@ Il datore di lavoro sottoposto a tale obbligo deve comunicare al servizio pubbli
 
 #### Art. 53a
 
-**Valore soglia ed elenco delle professioni interessate**
+**Valore soglia**[^53a-1]
 
 ### (art. 21*a* cpv. 3 LStrI)
 
-<sup>1</sup> L’obbligo di annunciare i posti vacanti di cui all’articolo 21*a* capoverso 3 LStrI si applica ai generi di professioni nei quali il tasso di disoccupazione nazionale raggiunge o supera il valore soglia del 5 per cento. Il valore soglia è considerato raggiunto o superato se in media il tasso di disoccupazione lo raggiunge o lo supera nel quarto trimestre dell’anno precedente e nei primi tre trimestri dell’anno in corso.[^53a-1]
+<sup>1</sup> L’obbligo di annunciare i posti vacanti di cui all’articolo 21*a* capoverso 3 LStrI si applica ai generi di professioni secondo la nomenclatura svizzera[^53a-2] nei quali il tasso di disoccupazione nazionale raggiunge o supera il valore soglia del 5 per cento. Il valore soglia è considerato raggiunto o superato se in media il tasso di disoccupazione lo raggiunge o lo supera nel quarto trimestre dell’anno precedente e nei primi tre trimestri dell’anno in corso.
 
-<sup>2</sup> Il calcolo del tasso di disoccupazione si basa sulla statistica del mercato del lavoro della SECO. Il tasso di disoccupazione risulta dal quoziente tra il numero dei disoccupati registrati presso il servizio pubblico di collocamento e il numero delle persone che svolgono un’attività lucrativa.
+<sup>2</sup> Il tasso di disoccupazione si basa sulla statistica del mercato del lavoro della SECO. Corrisponde al quoziente tra il numero dei disoccupati registrati presso il servizio pubblico di collocamento e il numero delle persone che svolgono un’attività lucrativa.
 
-<sup>3</sup> Ogni anno, nel quarto trimestre, il Dipartimento federale dell’economia, della formazione e della ricerca fissa per l’anno successivo i generi di professioni nei quali il tasso di disoccupazione nazionale raggiunge o supera il valore soglia.[^53a-2]
-
-[^53a-1]: Nuovo testo giusta il n. I dell’O del 23 mag. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2285](https://fedlex.data.admin.ch/eli/oc/2018/323)).
-[^53a-2]: Introdotto dal n. I dell’O del 23 mag. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2285](https://fedlex.data.admin.ch/eli/oc/2018/323)).
+[^53a-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
+[^53a-2]: www.statistica.admin.ch &gt; Trovare statistiche &gt; 03 Lavoro e reddito &gt; Nomenclature &gt; Nomenclatura svizzera delle professioni CH-ISCO-19.
 
 #### Art. 53b
 
@@ -1052,15 +1050,28 @@ Oltre all’eccezione di cui all’articolo 21*a* capoverso 5 LStrI, i posti vac
 
 #### Art. 53e
 
-**Diritto di richiesta dei Cantoni**
+**Diritto di richiesta dei Cantoni**[^53e-1]
 
-### (art. 21*a* cpv. 7 LStrI)
+### (art.21*a* cpv. 7 LStrI)
 
-<sup>1</sup> Un Cantone può chiedere che nel suo territorio sia introdotto l’obbligo di annunciare i posti vacanti secondo gli articoli 53*a*–*53d* in un genere di professione in cui il tasso di disoccupazione raggiunge o supera, internamente al Cantone, il valore soglia.
+<sup>1</sup> Un Cantone può chiedere al Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) che sia introdotto l’obbligo di annunciare i posti vacanti anche per un genere di professione in cui il tasso di disoccupazione raggiunge o supera, internamente al suo territorio, il valore soglia.
 
-<sup>2</sup> I Cantoni possono presentare congiuntamente la richiesta di cui al capoverso 1 se nel loro territorio cantonale sono adempiute le condizioni previste.
+<sup>2</sup> Più Cantoni possono presentare una richiesta congiunta se nei loro territori sono adempiute le condizioni previste.
 
 <sup>3</sup> L’obbligo di annunciare i posti vacanti è limitato di volta in volta a un anno.
+
+[^53e-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
+
+#### Art. 53f
+
+**Elenco dei generi di professioni**[^53f-1]
+
+Ogni anno, nel quarto trimestre, il DEFR fissa per l’anno successivo:
+
+- a. i generi di professioni nei quali il tasso di disoccupazione nazionale raggiunge o supera il valore soglia;
+- b. i generi di professioni nei quali il tasso di disoccupazione cantonale raggiunge o supera il valore soglia e per i quali il DEFR ha approvato la richiesta corrispondente secondo l’articolo 53*e*.
+
+[^53f-1]: Introdotto dal n. I dell’O del 18 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
 
 ### Sezione 4: Formazione e collaborazione****
 

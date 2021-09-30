@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 1991 sur le service de l'emploi et la location 
 short: OSE
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: fr
-version: 2021-07-01
+version: 2021-10-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20211001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20210701/fr"
 
 (Ordonnance sur le service de l’emploi, OSE)
 
-du 16 janvier 1991 (Etat le 1<sup>er</sup> juillet 2021)
+du 16 janvier 1991 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -27,7 +27,7 @@ arrête:
 
 [^ingress-1]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
 [^ingress-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O 23 mai 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2285](https://fedlex.data.admin.ch/eli/oc/2018/323)).
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 23 mai 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2285](https://fedlex.data.admin.ch/eli/oc/2018/323)).
 
 ## Chapitre 1 Le placement privé
 
@@ -80,7 +80,7 @@ Des placements peuvent être opérés et des organes de publication spécialisé
 
 L’activité de placement est considérée comme régulière lorsque le placeur:
 
-- a. offre d’exercer la fonction de placeur dans une majorité de cas; ou
+- a. offre d’exercer la fonction de placeur dans une majorité de cas, ou
 - b. l’exerce à dix reprises au moins en l’espace de douze mois.
 
 #### Art. 3
@@ -107,7 +107,7 @@ Est considéré comme placement de personnes pour des représentations artistiqu
 
 Est également considérée comme placement à l’étranger l’activité d’un placeur qui, de Suisse:
 
-- a. place des demandeurs d’emploi domiciliés à l’étranger dans un pays tiers, pour autant qu’une partie au moins de l’activité de placement s’effectue en Suisse ou que les relations contractuelles entre le placeur et les demandeurs d’emploi ou les employeurs soient régies par le droit suisse; ou
+- a. place des demandeurs d’emploi domiciliés à l’étranger dans un pays tiers, pour autant qu’une partie au moins de l’activité de placement s’effectue en Suisse ou que les relations contractuelles entre le placeur et les demandeurs d’emploi ou les employeurs soient régies par le droit suisse, ou
 - b. collabore avec des placeurs étrangers tout en entretenant lui-même des contacts uniquement avec les demandeurs d’emploi ou avec les employeurs.
 
 #### Art. 6
@@ -169,7 +169,7 @@ Ne peuvent obtenir d’autorisation notamment:[^8-1]
 
 Les personnes titulaires d’un certificat de fin d’apprentissage ou d’une formation équivalente et pouvant se prévaloir d’une expérience professionnelle de plusieurs années sont considérées comme possédant les compétences professionnelles nécessaires pour diriger un bureau de placement si elles possèdent notamment:
 
-- a. une formation reconnue de placeur ou de bailleur de services; ou
+- a. une formation reconnue de placeur ou de bailleur de services, ou
 - b. une expérience professionnelle de plusieurs années dans les domaines du placement, de la location de services, du conseil en personnel, en organisation ou en entreprise ou de la gestion du personnel.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 20 oct. 1999, en vigueur depuis le 1<sup>er</sup> déc. 1999 ([RO 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
@@ -430,7 +430,7 @@ On peut également conclure à une activité de location de services, notamment 
 
 La location de services de travailleurs dont les services ont déjà été loués (sous-location ou location intermédiaire) n’est pas autorisée. En revanche, la location d’un travailleur à une troisième entreprise est autorisée si:
 
-- a. la première entreprise cède le rapport de travail à la deuxième entreprise pour la durée de l’engagement, la deuxième entreprise devient l’employeur, dispose d’une autorisation de pratiquer la location de services et met à disposition les services du travailleur à une troisième entreprise; ou si
+- a. la première entreprise cède le rapport de travail à la deuxième entreprise pour la durée de l’engagement, la deuxième entreprise devient l’employeur, dispose d’une autorisation de pratiquer la location de services et met à disposition les services du travailleur à une troisième entreprise, ou si
 - b. la première entreprise reste l’employeur, qu’elle conclut un contrat de location de services avec la troisième entreprise et que la deuxième entreprise assume uniquement le rôle d’intermédiaire dans la relation de location.[^26-2]
 
 <sup>4</sup> Si des entreprises associées en communauté de travail mettent leurs travailleurs à la disposition de cette communauté, il ne s’agit pas de location de services, à moins qu’une part essentielle des pouvoirs de direction ne soit cédée.[^26-3]
@@ -534,7 +534,7 @@ Une autorisation ne sera pas accordée lorsque l’activité de location de serv
 
 Les personnes titulaires d’un certificat de fin d’apprentissage ou d’une formation équivalente et pouvant se prévaloir d’une expérience professionnelle de plusieurs années sont considérées comme possédant les compétences professionnelles nécessaires pour diriger une entreprise de location de services si elles possèdent notamment:
 
-- a. une formation reconnue de placeur ou de bailleur de services; ou
+- a. une formation reconnue de placeur ou de bailleur de services, ou
 - b. une expérience professionnelle de plusieurs années dans les domaines du placement, de la location de services, du conseil en personnel, en organisation ou en entreprise ou de la gestion du personnel.
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 20 oct. 1999, en vigueur depuis le 1<sup>er</sup> déc. 1999 ([RO 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
@@ -826,7 +826,7 @@ Le travailleur dont les services sont loués a accès au même titre que les tra
 - a. à la formation continue financée à l’aide des contributions aux frais de formation continue;
 - b. aux autres prestations financées à l’aide des contributions aux frais d’exécution.
 
-[^48b-1]: Introduit par le ch. 1 de l’annexe à l’O du 9 déc. 2005, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^48b-1]: Introduit par l’annexe ch. 1 de l’O du 9 déc. 2005, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 
 #### Art. 48c
 
@@ -846,7 +846,7 @@ Sont exemptés de l’obligation de verser la contribution les travailleurs:
 
 <sup>3</sup> Les contributions sont payées et affectées selon les règles fixées par la convention collective.
 
-[^48c-1]: Introduit par le ch. 1 de l’annexe à l’O du 9 déc. 2005, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^48c-1]: Introduit par l’annexe ch. 1 de l’O du 9 déc. 2005, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 
 #### Art. 48d
 
@@ -862,7 +862,7 @@ Sont exemptés de l’obligation de verser la contribution les travailleurs:
 
 <sup>4</sup> Le bailleur de services peut demander en tout temps à l’autorité cantonale chargée de la déclaration d’extension que le contrôle soit effectué par un organe de contrôle indépendant des parties contractantes. L’art. 6 de la loi fédérale du 28 septembre 1956 permettant d’étendre le champ d’application de la convention collective de travail[^48d-2] est applicable par analogie.
 
-[^48d-1]: Introduit par le ch. 1 de l’annexe à l’O du 9 déc. 2005, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^48d-1]: Introduit par l’annexe ch. 1 de l’O du 9 déc. 2005, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 [^48d-2]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
 
 #### Art. 48e
@@ -875,7 +875,7 @@ Sont exemptés de l’obligation de verser la contribution les travailleurs:
 
 <sup>2</sup> Les associations du secteur intérimaire concernées par ces règlements sont autorisées à consulter ces rapports.
 
-[^48e-1]: Introduit par le ch. 1 de l’annexe à l’O du 9 déc. 2005, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^48e-1]: Introduit par l’annexe ch. 1 de l’O du 9 déc. 2005, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 
 #### Art. 49
 
@@ -968,18 +968,16 @@ L’employeur soumis à cette obligation doit communiquer à l’autorité comp�
 
 #### Art. 53a
 
-**Valeur seuil et liste des professions**
+**Valeur seuil**[^53a-1]
 
 ### (art. 21*a*, al. 3, LEI)
 
-<sup>1</sup> L’obligation d’annoncer les postes vacants prévue à l’art. 21*a*, al. 3, LEI, s’applique dans les genres de profession dont les taux de chômage nationaux atteignent ou dépassent la valeur seuil de 5 %. La valeur seuil est considérée comme atteinte ou dépassée lorsqu’en moyenne les taux de chômage atteignent ou dépassent ce seuil pendant le quatrième trimestre de l’année précédente et les trois premiers trimestres de l’année en cours. [^53a-1]
+<sup>1</sup> L’obligation d’annoncer les postes vacants prévue à l’art. 21*a*, al. 3, LEI, s’applique dans les genres de profession au sens de la nomenclature suisse des professions[^53a-2] dont le taux de chômage national atteint ou dépasse la valeur seuil de 5 %. La valeur seuil est considérée comme atteinte ou dépassée lorsqu’en moyenne le taux de chômage atteint ou dépasse ce seuil pendant le quatrième trimestre de l’année précédente et les trois premiers trimestres de l’année en cours.
 
-<sup>2</sup> Le calcul du taux de chômage se base sur la statistique du marché du travail du SECO. Le taux de chômage est calculé selon le quotient du nombre de chômeurs inscrits auprès des offices régionaux de placement par le nombre de personnes actives.
+<sup>2</sup> Le taux de chômage se fonde sur la statistique du marché du travail du SECO. Il s’obtient en calculant le quotient du nombre de chômeurs inscrits auprès des offices régionaux de placement par le nombre de personnes actives.
 
-<sup>3</sup> Le Département fédéral de l’économie, de la formation et de la recherche détermine au cours du quatrième trimestre de chaque année pour l’année suivante les genres de profession dont les taux de chômage nationaux atteignent ou dépassent la valeur seuil.[^53a-2]
-
-[^53a-1]: Nouvelle teneur selon le ch. I de l’O 23 mai 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2285](https://fedlex.data.admin.ch/eli/oc/2018/323)).
-[^53a-2]: Introduit par le ch. I de l’O 23 mai 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2285](https://fedlex.data.admin.ch/eli/oc/2018/323)).
+[^53a-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
+[^53a-2]: www.statistique.admin.ch &gt; Trouver des statistiques &gt; 03 Travail et rémunération &gt; Nomenclatures &gt; Nomenclature suisse des professions CH-ISCO-19
 
 #### Art. 53b
 
@@ -991,7 +989,7 @@ L’employeur soumis à cette obligation doit communiquer à l’autorité comp�
 
 <sup>2</sup>
 
-Ils sont tenus de communiquer les indications suivantes:
+Ils sont tenus de communiquer les indications suivantes:[^53b-1]
 
 - a. profession recherchée;
 - b. activité, exigences spéciales y comprises;
@@ -999,23 +997,24 @@ Ils sont tenus de communiquer les indications suivantes:
 - d. taux d’occupation;
 - e. date d’entrée en fonction;
 - f. type de rapport de travail: à durée déterminée ou indéterminée;
-- g.[^53b-1] adresse à laquelle ils peuvent être contactés;
-- h.[^53b-2] nom de l’employeur;
-- i.[^53b-3] pour les bailleurs de service, nom de l’entreprise locataire de services.
+- g.[^53b-2] adresse à laquelle ils peuvent être contactés;
+- h.[^53b-3] nom de l’employeur;
+- i.[^53b-4] pour les bailleurs de service, nom de l’entreprise locataire de services.
 
-<sup>3</sup> ...[^53b-4]
+<sup>3</sup> ...[^53b-5]
 
 <sup>4</sup> Le service public de l’emploi confirme la réception de la communication des postes vacants.
 
-<sup>5</sup> Les employeurs peuvent publier ailleurs les emplois qu’ils sont tenus d’annoncer en vertu de l’al. 1 au plus tôt cinq jours ouvrés après la publication sur la plateforme du service public de l’emploi.[^53b-5]
+<sup>5</sup> Les employeurs peuvent publier ailleurs les emplois qu’ils sont tenus d’annoncer en vertu de l’al. 1 au plus tôt cinq jours ouvrés après la publication sur la plateforme du service public de l’emploi.[^53b-6]
 
 <sup>6</sup> Les collaborateurs du service public de l’emploi et les personnes inscrites en tant que demandeurs d’emploi auprès de ce service bénéficient d’un accès exclusif aux informations relatives aux postes vacants annoncés durant cinq jours ouvrables.
 
 [^53b-1]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^53b-2]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).t
-[^53b-3]: Introduite par l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^53b-4]: Abrogé par l’annexe de l’O du 26 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^53b-5]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-2]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-3]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-4]: Introduite par l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-5]: Abrogé par l’annexe de l’O du 26 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-6]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 53c
 
@@ -1051,15 +1050,28 @@ En addition à l’exception visée à l’art. 21*a*, al. 5, LEI, les postes va
 
 #### Art. 53e
 
-**Droit de proposition des cantons**
+**Droit de proposition des cantons**[^53e-1]
 
 ### (art. 21*a*, al. 7, LEI)
 
-<sup>1</sup> Un canton peut demander à ce que l’obligation d’annoncer les postes vacants selon les art. 53*a* à 53*d* soit introduite dans un genre de profession dont le taux de chômage dans le territoire cantonal concerné atteint ou dépasse la valeur seuil.
+<sup>1</sup> Un canton peut demander au Département fédéral de l’économie, de la formation et de la recherche (DEFR) qu’un genre de profession dont le taux de chômage sur le territoire cantonal atteint ou dépasse la valeur seuil soit également soumis à l’obligation d’annoncer les postes vacants.
 
-<sup>2</sup> Les cantons peuvent adresser conjointement une demande selon l’al. 1 lorsque les conditions requises pour ce faire sont remplies sur leur territoire respectif.
+<sup>2</sup> Plusieurs cantons peuvent adresser conjointement une demande lorsque les conditions requises sont remplies sur leur territoire.
 
 <sup>3</sup> L’obligation d’annoncer les postes vacants est limitée à un an.
+
+[^53e-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
+
+#### Art. 53f
+
+**Liste des genres de profession**[^53f-1]
+
+Le DEFR détermine chaque année au cours du quatrième trimestre pour l’année suivante:
+
+- a. les genres de profession dont le taux de chômage national atteint ou dépasse la valeur seuil;
+- b. les genres de profession dont le taux de chômage cantonal atteint ou dépasse la valeur seuil, si le DEFR a accepté une demande correspondante conformément à l’art. 53*e*.
+
+[^53f-1]: Introduit par le ch. I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
 
 ### Section 4 Formation et collaboration****
 
@@ -1184,7 +1196,7 @@ Les placeurs privés ne peuvent accéder à aucune donnée du système d’infor
 
 ### (art. 35*b* LSE)
 
-A l’exception des données visées à l’art. 35*b*, al. 2, LSE, le fichier peut être rendu accessible au public sur l’Internet ou sous forme d’imprimé.
+À l’exception des données visées à l’art. 35*b*, al. 2, LSE, le fichier peut être rendu accessible au public sur l’Internet ou sous forme d’imprimé.
 
 [^59a-1]: Introduit par le ch. I de l’O du 20 oct. 1999 ([RO 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)). Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2903](https://fedlex.data.admin.ch/eli/oc/2000/505)).
 
@@ -1233,7 +1245,7 @@ Du 1<sup>er</sup> juillet 2018 au 31 décembre 2019, par dérogation à l’art.
 
 En dérogation à l’art. 53*a*, al. 3, les genres de profession dont les taux de chômage nationaux atteignent ou dépassent la valeur seuil fixée à l’art. 53*a*, al. 1, sont déterminés, pour la période du 1<sup>er</sup> juillet 2018 au 31 décembre 2019, au cours du deuxième trimestre 2018.
 
-[^63a-1]: Introduit par le ch. I de l’O 23 mai 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2285](https://fedlex.data.admin.ch/eli/oc/2018/323)).
+[^63a-1]: Introduit par le ch. I de l’O du 23 mai 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2285](https://fedlex.data.admin.ch/eli/oc/2018/323)).
 
 #### Art. 64
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 16. Januar 1991 über die Arbeitsvermittlung und den Pers
 short: AVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: de
-version: 2021-07-01
+version: 2021-10-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20211001/de/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20211001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20210701/de"
 
 (Arbeitsvermittlungsverordnung, AVV)
 
-vom 16. Januar 1991 (Stand am 1. Juli 2021)
+vom 16. Januar 1991 (Stand am 1. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -893,7 +893,7 @@ Der schriftliche Verleihvertrag muss grundsätzlich vor der Arbeitsaufnahme vorl
 
 ## 3. Kapitel: Die öffentliche Arbeitsvermittlung
 
-### 1. Abschnitt: Aufgaben der Arbeitsmarktbehörden****
+### 1. Abschnitt: Aufgaben der Arbeitsmarktbehörden
 
 [^chap3-sec1-1]
 
@@ -957,7 +957,7 @@ Der meldepflichtige Arbeitgeber muss der zuständigen Amtsstelle folgende Angabe
 [^53-2]: Fassung gemäss Ziff. I der V vom 20. Okt. 1999, in Kraft seit 1. Dez. 1999 ([AS 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 [^53-3]: Fassung gemäss Ziff. I der V vom 20. Okt. 1999, in Kraft seit 1. Dez. 1999 ([AS 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 
-### 3. Abschnitt:**** Stellenmeldepflicht bei über dem Durchschnitt liegender Arbeitslosigkeit
+### 3. Abschnitt: Stellenmeldepflicht bei über dem Durchschnitt liegender Arbeitslosigkeit
 
 [^chap3-sec3-1]
 
@@ -965,18 +965,16 @@ Der meldepflichtige Arbeitgeber muss der zuständigen Amtsstelle folgende Angabe
 
 #### Art. 53a
 
-**Schwellenwert und Liste der betroffenen Berufe**
+**Schwellenwert**[^53a-1]
 
 ### (Art. 21*a* Abs. 3 AIG)
 
-<sup>1</sup> Die Stellenmeldepflicht nach Artikel 21*a* Absatz 3 AIG gilt in denjenigen Berufsarten, in denen die gesamtschweizerische Arbeitslosenquote den Schwellenwert von 5 Prozent erreicht oder überschreitet. Der Schwellenwert gilt als erreicht oder überschritten, wenn die Arbeitslosenquote ihn im Durchschnitt des vierten Quartals des Vorjahres und der ersten drei Quartale des laufenden Jahres erreicht oder überschritten hat.[^53a-1]
+<sup>1</sup> Die Stellenmeldepflicht nach Artikel 21*a* Absatz 3 AIG gilt in denjenigen Berufsarten nach der Schweizer Berufsnomenklatur[^53a-2], in denen die gesamtschweizerische Arbeitslosenquote den Schwellenwert von 5 Prozent erreicht oder überschreitet. Der Schwellenwert gilt als erreicht oder überschritten, wenn die Arbeitslosenquote ihn im Durchschnitt des vierten Quartals des Vorjahres und der ersten drei Quartale des laufenden Jahres erreicht oder überschritten hat.
 
-<sup>2</sup> Die Berechnung der Arbeitslosenquote basiert auf der Arbeitsmarktstatistik des SECO. Die Arbeitslosenquote errechnet sich aus dem Quotienten aus der Anzahl der bei der öffentlichen Arbeitsvermittlung registrierten Arbeitslosen und der Anzahl der Erwerbstätigen.
+<sup>2</sup> Die Arbeitslosenquote basiert auf der Arbeitsmarktstatistik des SECO. Sie entspricht dem Quotienten aus der Anzahl der bei der öffentlichen Arbeitsvermittlung registrierten Arbeitslosen und der Anzahl der Erwerbstätigen.
 
-<sup>3</sup> Die Berufsarten, in denen die gesamtschweizerische Arbeitslosenquote den Schwellenwert erreicht oder überschreitet, werden vom Eidgenössischen Departement für Wirtschaft, Bildung und Forschung jährlich im vierten Quartal für das Folgejahr festgelegt.[^53a-2]
-
-[^53a-1]: Fassung gemäss Ziff. I der V vom 23. Mai 2018, in Kraft seit 1. Juli 2018 ([AS 2018 2285](https://fedlex.data.admin.ch/eli/oc/2018/323)).
-[^53a-2]: Eingefügt durch Ziff. I der V vom 23. Mai 2018, in Kraft seit 1. Juli 2018 ([AS 2018 2285](https://fedlex.data.admin.ch/eli/oc/2018/323)).
+[^53a-1]: Fassung gemäss Ziff. I der V vom 18. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
+[^53a-2]: www.statistik.admin.ch &gt; Statistiken finden &gt; 03 Arbeit und Erwerb &gt; Nomenklaturen &gt; Schweizer Berufsnomenklatur CH-ISCO-19.
 
 #### Art. 53b
 
@@ -1047,15 +1045,28 @@ Zusätzlich zur Ausnahme nach Artikel 21*a* Absatz 5 AIG müssen offene Stellen 
 
 #### Art. 53e
 
-**Antragsrecht der Kantone**
+**Antragsrecht der Kantone**[^53e-1]
 
-### (Art. 21*a* Abs. 7 AIG)
+### (Art.21a Abs. 7 AIG)
 
-<sup>1</sup> Ein Kanton kann für sein Kantonsgebiet Antrag stellen auf Einführung der Stellenmeldepflicht nach den Artikeln 53*a*–53*d* in einer Berufsart, in der die Arbeitslosenquote in seinem Kantonsgebiet den Schwellenwert erreicht oder überschreitet.
+<sup>1</sup> Ein Kanton kann beim Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF) beantragen, dass eine Berufsart, in der die Arbeitslosenquote den Schwellenwert auf seinem Kantonsgebiet erreicht oder überschreitet, ebenfalls der Stellenmeldepflicht unterstellt wird.
 
-<sup>2</sup> Die Kantone können Anträge nach Absatz 1 gemeinsam stellen, wenn auf ihren Kantonsgebieten die Voraussetzungen dafür erfüllt sind.
+<sup>2</sup> Mehrere Kantone können gemeinsam einen Antrag stellen, wenn auf ihren Kantonsgebieten die Voraussetzungen dafür erfüllt sind.
 
 <sup>3</sup> Die Stellenmeldepflicht wird jeweils auf ein Jahr befristet.
+
+[^53e-1]: Fassung gemäss Ziff. I der V vom 18. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
+
+#### Art. 53f
+
+**Liste der Berufsarten**[^53f-1]
+
+Das WBF legt jährlich im vierten Quartal für das Folgejahr fest:
+
+- a. die Berufsarten, in denen die gesamtschweizerische Arbeitslosenquote den Schwellenwert erreicht oder überschreitet;
+- b. die Berufsarten, in denen die kantonale Arbeitslosenquote den Schwellenwert erreicht oder überschreitet und für die das WBF den entsprechenden Antrag nach Artikel 53*e* gutgeheissen hat.
+
+[^53f-1]: Eingefügt durch Ziff. I der V vom 18. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
 
 ### 4. Abschnitt: Ausbildung und Zusammenarbeit
 
@@ -1094,7 +1105,7 @@ Zusätzlich zur Ausnahme nach Artikel 21*a* Absatz 5 AIG müssen offene Stellen 
 [^56-1]: Fassung gemäss Ziff. I der V vom 20. Okt. 1999, in Kraft seit 1. Dez. 1999 ([AS 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 [^56-2]: Fassung gemäss Ziff. I der V vom 20. Okt. 1999, in Kraft seit 1. Dez. 1999 ([AS 1999 2711](https://fedlex.data.admin.ch/eli/oc/1999/433)).
 
-### 5. Abschnitt: Datenbearbeitung und Berichterstattung****
+### 5. Abschnitt: Datenbearbeitung und Berichterstattung
 
 [^chap3-sec5-1]
 
