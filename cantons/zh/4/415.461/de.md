@@ -4,20 +4,31 @@ number: "415.461"
 title: Organisationsreglement der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich (OrgR MNF)
 short: OrgR MNF
 language: de
-nachtrag: "98"
-valid_until: 2021-10-01
+version: "2021-10-01"
+nachtrag: "114"
+valid_until: 2025-10-01
 adopted: 2025-03-13
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_461-2017_04_25-2017_08_01-098.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_461-2017_04_25-2017_08_01-114.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Organisationsreglement der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich
+# Organisationsreglement der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich (OrgR MNF)
 
-(vom 25. April 2017)<sup>1,</sup> <sup>2</sup>
+(vom 25. April 2017)[^t-2],[^t-3][^t-1]
 
-Die Erweiterte Universitätsleitung beschliesst:
+Die Fakultätsversammlung,
+
+gestützt auf § 34 Abs. 3 Ziff. 3 des Universitätsgesetzes vom 15. März 1998 (UniG)[^t-4] und § 79 der Universitätsordnung der Universität Zürich vom 4. Dezember 1998 (UniO)[^t-5],[^t-1]
+
+beschliesst:
+
+[^t-1]: Fassung gemäss B vom 3. Juni 2021 (OS 76, 318; ABl 2021-07-23). In Kraft seit 1. Oktober 2021.
+[^t-2]: OS 72, 406; Begründung siehe ABl 2017-06-30.
+[^t-3]: Inkrafttreten: 1. August 2017.
+[^t-4]: LS 415.11.
+[^t-5]: LS 415.111.
 
 ### 1. Teil: Gliederung der Fakultät, Fakultätsorgane und weitere
 
@@ -39,133 +50,149 @@ Die Mathematisch-naturwissenschaftliche Fakultät gliedert sich in Fachbereiche 
 
 <sup>1</sup> Die Fakultätsversammlung setzt sich aus den ordentlichen und ausserordentlichen Professorinnen und Professoren, den Assistenzprofessorinnen und -professoren sowie den Förderungsprofessorinnen und -professoren und den Delegierten der Stände zusammen. Die Anzahl Delegierter der Stände entspricht je 5% der Anzahl Professorinnen und Professoren, umfasst aber mindestens zwei Delegierte jeden Standes. An der Fakultätsversammlung nehmen die Leiterin oder der Leiter der Stabsstelle des Dekanats und die oder der Kommunikationsbeauftragte mit beratender Stimme teil.
 
-<sup>2</sup> Dozierenden anderer Fakultäten der Universität Zürich sowie Leiterinnen und Leitern von Forschungsgruppen der eigenen Fakultät, die über das Promotionsrecht an der Mathematisch-naturwissenschaftlichen Fakultät verfügen, wird das volle Mitwirkungs- und Stimmrecht an der Fakultätsversammlung bei der Verleihung von Auszeichnungen an ihre eigenen Studierenden gewährt. Sie werden bei der Behandlung dieser Geschäfte entsprechend eingeladen.
+<sup>2</sup> Der Fakultätsvorstand kann nach Rücksprache mit der Fakultätsversammlung ständige Gäste mit beratender Stimme in der Fakultätsversammlung ernennen. Die Einzelheiten werden in der Richtlinie der Fakultätsversammlung geregelt.[^2-1]
 
-#### § 3
+**1**
+
+1.10. 21 - 114 § 3.[^2-1] <sup>1</sup> Der Fakultätsversammlung obliegt die Antragstellung zuhanden der Universitätsleitung in folgenden Bereichen:
 
 **Zuständigkeiten**
-
-<sup>1</sup> Der Fakultätsversammlung obliegt die Antragstellung zuhanden der Universitätsleitung in folgenden Bereichen:
 
 - 1\. Schaffung, Umwandlung, Aufhebung und Umbenennung von Instituten und anderen Organisationseinheiten,
 
 - 2\. Genehmigung von Strukturberichten,
 
-**1**
-
-- 1\. 10. 17 - 98
-
 - 3\. Entlassung von Professorinnen und Professoren,
 
 - 4\. Vereinbarungen über fakultätsübergreifende Zusammenschlüsse.
 
-<sup>2</sup> Sie stellt Antrag zuhanden der Erweiterten Universitätsleitung auf 1. Erlass und Änderung der Verordnung über die Promotion und der Rahmenverordnung für das Studium in den Bachelor- und Masterstudiengängen an der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich (Promotionsverordnung),
+<sup>2</sup> Die Fakultätsversammlung stellt Antrag zuhanden der Erweiterten Universitätsleitung auf:
 
-- 2\. Erlass und Änderung der Studienordnung und der Promotionsordnung,
+- 1\. Erlass der Rahmenverordnungen für Studien in den Bachelor- und Masterstudiengängen und der Promotionsverordnungen der Mathematisch-naturwissenschaftlichen Fakultät,
 
-- 3\. Erteilung und Entzug der Venia Legendi,
+- 2\. Genehmigung der Studienordnungen, der Verordnungen über die Weiterbildungsstudiengänge, der Habilitationsordnung und der Verordnung über die Titularprofessur an der Mathematisch-naturwissenschaftlichen Fakultät,
 
-- 4\. Verleihung und Entzug des Titels einer Titularprofessorin oder eines Titularprofessors,
+- 3\. Genehmigung des Organisationsreglements der Fakultät,
 
-- 5\. Verleihung von anderen akademischen Titeln,
+- 4\. Erteilung und Entzug der Venia Legendi, Verleihung und Entzug des Titels einer Titularprofessorin oder eines Titularprofessors sowie weiterer vom Universitätsrat bezeichneter akademischer Titel,
 
-- 6\. Bewilligung zur Weiterführung des Titels einer Professorin oder eines Professors bei vorzeitigem Rücktritt,
+- 5\. Bewilligung zur Weiterführung des Titels einer Professorin oder eines Professors bei vorzeitigem Rücktritt.
 
-- 7\. Genehmigung des Organisationsreglements der Fakultät.
+<sup>3</sup> Sie ist abschliessend zuständig für die 1. Einsetzung der Findungskommission zur Vorbereitung der Wahl der Dekanin oder des Dekans sowie Wahl der Fakultätsmitglieder in die Findungskommission,
 
-<sup>3</sup> Sie ist abschliessend zuständig für die 1. Wahl der Dekanin oder des Dekans und der Prodekaninnen oder Prodekane,
+- 2\. Wahl der Dekanin oder des Dekans,
 
-- 2\. Verleihung des Promotionsrechts,
+- 3\. Wahl der Prodekaninnen und Prodekane,
 
-- 3\. Verleihung des Doktortitels und anderer akademischer Grade nach Massgabe der Verordnung über die Promotion und der Rahmenverordnung für das Studium in Bachelor- und Masterstudiengängen,
+- 4\. Wahl der Mitglieder des Fakultätsausschusses,
 
-- 4\. Verleihung von Auszeichnungen und Preisen,
+- 5\. Wahl der Mitglieder der fakultären Kommissionen und Gremien mit Ausnahme der Struktur-, Berufungs-, Ernennungs- und Beförderungskommissionen,
 
-- 5\. Wahl der Mitglieder des Fakultätsausschusses,
+- 6\. Wahl der Delegierten der Fakultät in gesamtuniversitäre und ausseruniversitäre Kommissionen und Gremien unter Vorbehalt der von den jeweiligen Ständen zu bestimmenden Delegierten,
 
-- 6\. Wahl der Mitglieder der fakultären Kommissionen und Gremien mit Ausnahme der Struktur-, Berufungs-, Ernennungs- und Beförderungskommissionen,
+- 7\. Verleihung des Promotionsrechts,
 
-- 7\. Wahl der Delegierten der Fakultät in gesamtuniversitäre und ausseruniversitäre Kommissionen und Gremien,
+- 8\. Verleihung des Doktortitels und anderer akademischer Grade nach Massgabe der Verordnung über die Promotion an der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich (Promotionsverordnung)[^2-2] und den Rahmenverordnungen für das Studium in Bachelor- und Masterstudiengängen.
 
-- 8\. Schaffung ständiger und nichtständiger Kommissionen und Gremien sowie Festlegung von deren Aufgaben,
+- 9\. Schaffung ständiger und nichtständiger Kommissionen und Gremien sowie Festlegung von deren Aufgaben,
 
-- 9\. Genehmigung der universitären Weiterbildung und Erlass der entsprechenden Studienordnungen,
+- 10\. Genehmigung von fakultären Richtlinien und Reglementen, insbesondere von Fachbereichsreglementen.
 
-- 10\. Genehmigung von Richtlinien und Reglementen,
-
-- 11\. Genehmigung der Fachbereichsreglemente.
-
-<sup>4</sup> Die Dekanin oder der Dekan kann ausnahmsweise die Beschlussfassung auf dem Zirkularweg anordnen. Für das Zustandekommen von Zirkularbeschlüssen ist die Zustimmung der Mehrheit der Mitglieder der Fakultätsversammlung erforderlich.
+[^2-1]: Fassung gemäss B vom 3. Juni 2021 (OS 76, 318; ABl 2021-07-23). In Kraft seit 1. Oktober 2021.
+[^2-2]: LS 415.463. 1.10. 21 - 114 13
 
 ### 3. Abschnitt: Leitung der Fakultät
 
-#### § 4
-
 **Dekanin oder Dekan**
 
-<sup>1</sup> Die Dekanin oder der Dekan leitet die Fakultät und vertritt sie gegen aussen.
+§ 4.[^h3AbschnittLeitun-1] <sup>1</sup> Die Dekanin oder der Dekan leitet die Fakultät und vertritt sie gegen aussen.
 
 <sup>2</sup> Ihr oder ihm obliegt die Antragstellung zuhanden der Universitätsleitung in folgenden Bereichen:
 
 - 1\. Fakultätsbudget, konsolidiert aus den Budgets der Institute und weiterer Organisationseinheiten,
 
-- 2\. Entwicklungs-, Finanz- und Lehrstuhlplanung der Fakultät.
+- 2\. Budget für die Löhne der Professorinnen und Professoren zuzüglich der Arbeitgeberbeiträge,
+
+- 3\. Entwicklungs-, Finanz- und Lehrstuhlplanung der Fakultät,
+
+- 4\. Fakultätsbudget für Räume und Infrastruktur.
 
 <sup>3</sup> Sie oder er ist zuständig für die Vorbereitung, Einberufung und Leitung der Fakultätsversammlung und die Antragstellung zu ihren Händen gemäss den in § 3 aufgeführten Bereichen.
 
-<sup>4</sup> Sie oder er ist im Weiteren zuständig für die 1. Vorbereitung, Einberufung und Leitung von Sitzungen des Fakultätsausschusses sowie der Struktur-, Berufungs-, Ernennungs- und Beförderungskommissionen,
+<sup>4</sup> Ihr oder ihm obliegen insbesondere 1. Vertretung der Interessen der Fakultät in der Erweiterten Universitätsleitung sowie gegenüber der Universitätsleitung,
 
-- 2\. Aufsicht über die Institute, die weiteren Organisationseinheiten und die Kommissionen,
+- 2\. Entwicklung und Umsetzung der fakultären Strategie,
 
-- 3\. Stellungnahme zu den Institutionsordnungen,
+- 3\. Aufsicht über die Institute, die weiteren Organisationseinheiten und die Kommissionen,
 
-- 4\. Bewirtschaftung der Ressourcen der Fakultät und deren Zuweisung an die Institute und weiteren Organisationseinheiten,
+- 4\. Mitwirkung in den Berufungsverhandlungen,
 
-- 5\. jährliche Berichterstattung,
+- 5\. Bewirtschaftung der Ressourcen der Fakultät und deren Zuweisung an die Institute und weiteren Organisationseinheiten,
 
-- 6\. Förderung der tatsächlichen Gleichstellung der Geschlechter,
+- 6\. Leitung des Fakultätsvorstands, des Fakultätsausschusses, der Fakultätsversammlung sowie der Struktur-, Berufungs-, Ernennungs- und Beförderungskommissionen,
 
-- 7\. Zuteilung der Aufgaben und Zuständigkeiten der Prodekaninnen und Prodekane.
-
-<sup>5</sup> Sie oder er nimmt die Kompetenzen wahr, die ihr oder ihm durch andere universitäre Erlasse übertragen wurden, und ist für alle Angelegenheiten der Fakultät zuständig, die keinem anderen Organ übertragen sind.
-
-#### § 5
-
-**Fakultätsvorstand, Prodekaninnen und Prodekane**
-
-<sup>1</sup> Die Dekanin oder der Dekan sowie die Prodekaninnen oder Prodekane bilden den Fakultätsvorstand.
-
-<sup>2</sup> Die Prodekaninnen oder Prodekane unterstützen die Dekanin oder den Dekan. Die Dekanin oder der Dekan kann sich in den in § 4 Abs. 4 aufgeführten Bereichen durch die Prodekaninnen oder Prodekane vertreten lassen.
-
-<sup>3</sup> Die Prodekanin oder der Prodekan Lehre ist für den Bereich der Lehre zuständig sowie für die Gewährleistung der Beratung der Studierenden in Fragen der Studiengestaltung.
+- 7\. Stellungnahme zu den Institutsordnungen,
 
 **3**
 
-- 1\. 10. 17 - 98
+1.10. 21 - 114 8. Führungsverantwortung gegenüber Professorinnen und Professoren im Rahmen der universitären Vorgaben,
 
-<sup>4</sup> Die Prodekanin oder der Prodekan Forschung und Nachwuchsförderung ist für den Bereich der Forschung und Nachwuchsförderung zuständig. Sie oder er übernimmt bei Bedarf die Stellvertretung der Dekanin oder des Dekans.
+- 9\. Bewirtschaftung der Löhne der Professorinnen und Professoren zuzüglich der Arbeitgeberbeiträge,
 
-<sup>5</sup> Weitere Prodekaninnen oder Prodekane können den Fakultätsvorstand ergänzen, wobei die Zahl der Prodekaninnen oder Prodekane auf vier begrenzt ist.
+- 10\. Bewirtschaftung der Räume und Infrastruktur der Fakultät,
 
-<sup>6</sup> Der Fakultätsvorstand definiert die weiteren Aufgaben der Prodekaninnen und Prodekane.
+- 11\. Zuteilung der Aufgaben und Zuständigkeiten der Prodekaninnen und Prodekane,
 
-<sup>7</sup> Er stellt bei der Universitätsleitung nach Einholung einer Stellungnahme des Fakultätsausschusses einen Antrag auf Zusammensetzung der Struktur-, Ernennungs-, Berufungs- und Beförderungskommissionen.
+- 12\. jährliche Berichterstattung,
+
+- 13\. Förderung der tatsächlichen Gleichstellung der Geschlechter.
+
+<sup>5</sup> Sie oder er nimmt die Kompetenzen wahr, die ihr oder ihm durch andere universitäre Erlasse übertragen wurden, und ist für alle Angelegenheiten der Fakultät zuständig, die keinem anderen Organ übertragen sind.
+
+**Fakultätsvorstand, Prodekaninnen und Prodekane**
+
+§ 5.[^h3AbschnittLeitun-1] <sup>1</sup> Die Dekanin oder der Dekan sowie die Prodekaninnen oder Prodekane bilden den Fakultätsvorstand.
+
+<sup>2</sup> Die Prodekaninnen oder Prodekane unterstützen die Dekanin oder den Dekan. Die Dekanin oder der Dekan kann Aufgaben an sie delegieren. Die Dekanin oder der Dekan bestimmt eine Stellvertretung aus dem Kreis der Prodekaninnen und Prodekane.
+
+<sup>3</sup> Die Prodekanin oder der Prodekan Lehre ist für den Bereich der Lehre zuständig sowie für die Gewährleistung der Beratung der Studierenden in Fragen der Studiengestaltung.
+
+<sup>4</sup> Weitere Prodekaninnen oder Prodekane können den Fakultätsvorstand ergänzen, wobei die Zahl der Prodekaninnen oder Prodekane auf vier begrenzt ist.
+
+<sup>5</sup> Der Fakultätsvorstand definiert die weiteren Aufgaben der Prodekaninnen und Prodekane.
+
+<sup>6</sup> Er stellt bei der Universitätsleitung nach Einholung einer Stellungnahme des Fakultätsausschusses einen Antrag auf Zusammensetzung der Struktur-, Ernennungs-, Berufungs- und Beförderungskommissionen.
+
+[^h3AbschnittLeitun-1]: Fassung gemäss B vom 3. Juni 2021 (OS 76, 318; ABl 2021-07-23). In Kraft seit 1. Oktober 2021.
 
 #### § 6
 
-**Wahl, Amtsdauer und Amtsantritt der Dekanin oder des Dekans und der Prodekaninnen und Prodekane**
+**Amtsdauer und Amtsantritt der Dekanin oder des Dekans und der Prodekaninnen und Prodekane**
 
 <sup>1</sup> Die Mitglieder des Fakultätsvorstands werden durch die Fakultätsversammlung auf eine Amtsdauer von vier Jahren gewählt. Wiederwahl ist möglich.
 
 <sup>2</sup> Sie treten ihr Amt in der Regel auf Beginn des Herbstsemesters an.
 
-#### § 7
+<sup>3</sup> Spätestens drei Semester vor Ablauf der Amtszeit gibt die Dekanin oder der Dekan der Fakultätsversammlung bekannt, ob sie oder er sich für eine Wiederwahl zur Verfügung stellen wird. Die Prodekaninnen oder Prodekane geben spätestens zwei Semester vor Ablauf der Amtszeit bekannt, ob sie sich für eine Wiederwahl zu Verfügung stellen.[^6-1]
 
-**Ablösung der Dekanin oder des Dekans und der Prodekaninnen und Prodekane**
+**Vorbereitung der Wahl der Dekanin oder des Dekans**
 
-<sup>1</sup> Spätestens zwei Semester vor Ablauf der Amtszeit geben die Mitglieder des Fakultätsvorstands der Fakultätsversammlung bekannt, ob sie sich für eine Wiederwahl zur Verfügung stellen.
+§ 6 a.[^6-1] <sup>1</sup> Für die Vorbereitung der Wahl setzt die Fakultät jeweils eine Findungskommission ein. Diese besteht aus mindestens zwei Vertreterinnen oder Vertretern der Professorenschaft, die von der Fakultätsversammlung gewählt werden, mindestens einer Vertretung der Stände sowie einem Mitglied der Universitätsleitung.
 
-<sup>2</sup> Stellt sich ein Mitglied des Fakultätsvorstands für die Wiederwahl nicht mehr zur Verfügung, schlägt der Fakultätsvorstand Kandidatinnen oder Kandidaten zur Wahl vor. Daneben ist jedes weitere Mitglied der Fakultätsversammlung berechtigt, Kandidatinnen und Kandidaten vorzuschlagen.
+<sup>2</sup> Den Vorsitz führt das Mitglied der Universitätsleitung.
+
+<sup>3</sup> Die Findungskommission ergänzt oder spezifiziert das Amtsprofil zuhanden des Fakultätsvorstands. Sie schlägt der Fakultätsversammlung Kandidatinnen und Kandidaten zur Wahl vor.
+
+<sup>4</sup> Jedes stimmberechtigte Mitglied der Fakultät kann gegenüber der Findungskommission Kandidatinnen und Kandidaten vorschlagen.
+
+<sup>5</sup> Bei einer Wiederwahl kann die Fakultät im Einvernehmen mit der Universitätsleitung auf die Einsetzung einer Findungskommission verzichten.
+
+**Vorbereitung der Wahl der Prodekaninnen und Prodekane**
+
+§ 7.[^6-2] Stellt sich eine Prodekanin oder ein Prodekan für die Wiederwahl nicht mehr zur Verfügung, schlägt der Fakultätsvorstand Kandidatinnen oder Kandidaten zur Wahl vor.
+
+[^6-1]: Eingefügt durch B vom 3. Juni 2021 (OS 76, 318; ABl 2021-07-23). In Kraft seit 1. Oktober 2021.
+[^6-2]: Fassung gemäss B vom 3. Juni 2021 (OS 76, 318; ABl 2021-07-23). In Kraft seit 1. Oktober 2021.
 
 #### § 8
 
@@ -177,19 +204,21 @@ Die Mathematisch-naturwissenschaftliche Fakultät gliedert sich in Fachbereiche 
 
 #### § 9
 
-**Freistellung**
+**Freistellung und weitere Rahmenbedingungen**
 
 <sup>1</sup> Während ihrer Amtsdauer werden die Dekanin oder der Dekan und die Prodekaninnen oder Prodekane in angemessenem Rahmen von Verpflichtungen in Forschung, Lehre und Dienstleistungen freigestellt.
 
-<sup>2</sup> Die Universitätsleitung entscheidet über den Umfang der Freistellung.
+<sup>2</sup> Die Universitätsleitung entscheidet über den Umfang der Freistellung der Prodekaninnen und Prodekane sowie über die Rahmenbedingungen zur Aufrechterhaltung der Professur der Dekanin oder des Dekans.[^9-1]
 
-#### § 10
+**5**
+
+1.10. 21 - 114 § 10. <sup>1</sup> Der Fakultätsvorstand sowie die Mitarbeiterinnen und Mitarbeiter des Fakultätsvorstands bilden das Dekanat. Die Dekanin oder der Dekan leitet das Dekanat.
 
 **Dekanat und Studiendekanat**
 
-<sup>1</sup> Der Fakultätsvorstand sowie die Mitarbeiterinnen und Mitarbeiter des Fakultätsvorstands bilden das Dekanat. Die Dekanin oder der Dekan leitet das Dekanat.
-
 <sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter, die für den Bereich Lehre tätig sind, bilden das Studiendekanat. Die Prodekanin oder der Prodekan Lehre leitet das Studiendekanat.
+
+[^9-1]: Fassung gemäss B vom 3. Juni 2021 (OS 76, 318; ABl 2021-07-23). In Kraft seit 1. Oktober 2021.
 
 ### 4. Abschnitt: Fakultätsausschuss
 
@@ -223,17 +252,13 @@ Der Fakultätsausschuss setzt sich zusammen aus der Dekanin oder dem Dekan als V
 
 - 8\. Genehmigung von fakultären Reglementen,
 
-- 9\. Genehmigung der Organisationsreglemente der Fachbereiche,
-
-- 10\. Verleihung von Auszeichnungen und Preisen.
-
-**5**
-
-- 1\. 10. 17 - 98
+- 9\. Genehmigung der Organisationsreglemente der Fachbereiche. 10.[^12-1]
 
 <sup>3</sup> Er wird vom Fakultätsvorstand bei der Zusammensetzung der Struktur-, Berufungs-, Ernennungs- und Beförderungskommissionen sowie zu allen Berufungs-, Ernennungs- und Beförderungsgeschäften der Fakultät konsultiert. Er kann zu den Anträgen der Struktur-, Berufungs-, Ernennungs- und Beförderungskommissionen an die Universitätsleitung Stellung nehmen.
 
 <sup>4</sup> Er ist abschliessend zuständig für die Genehmigung von Gastprofessuren.
+
+[^12-1]: Aufgehoben durch B vom 3. Juni 2021 (OS 76, 318; ABl 2021-07-23). In Kraft seit 1. Oktober 2021.
 
 ### 5. Abschnitt: Studienkommission
 
@@ -264,6 +289,10 @@ Die Studienkommission setzt sich zusammen aus dem Fakultätsvorstand, höchstens
 - 5\. Stellungnahme zu Rekursen, die das Studium betreffen.
 
 <sup>3</sup> Ihr obliegt die Aufsicht über das Lehrangebot.
+
+**7**
+
+1.10. 21 - 114
 
 ### 6. Abschnitt: Fachbereiche
 
@@ -307,15 +336,11 @@ Für wichtige Aufgaben werden ständige Kommissionen eingesetzt. Ihre Mitglieder
 
 <sup>3</sup> Sie organisiert sich selbst.
 
+[^18-1]: Fassung gemäss B vom 3. Juni 2021 (OS 76, 318; ABl 2021-07-23). In Kraft seit 1. Oktober 2021.
+
 #### § 19
 
-**Kommission für Kommunikation**
-
-<sup>1</sup> Die Kommission für Kommunikation setzt sich zusammen aus der Dekanin oder dem Dekan und der oder dem Beauftragten für Kommunikation, höchstens neun weiteren Mitgliedern der Fakultätsversammlung aus allen Fachbereichen, die angemessen vertreten sein müssen, einer oder einem Delegierten der Museen der Fakultät und des Botanischen Gartens sowie einer oder einem Delegierten jedes Standes.
-
-**7**
-
-- 1\. 10. 17 - 98
+<sup>1</sup> Die Kommission für Kommunikation setzt sich zusammen aus dem Fakultätsvorstand, der oder dem Beauftragten für Kommunikation der Fakultät, höchstens neun weiteren Mitgliedern der Fakultätsversammlung aus allen Fachbereichen, die angemessen vertreten sein müssen, einer oder einem Delegierten der Museen der Fakultät und des Botanischen Gartens sowie einer oder einem Delegierten jedes Standes. Ein Mitglied des Fakultätsvorstands leitet die Kommission für Kommunikation.[^18-1]
 
 <sup>2</sup> Sie berät die Fakultätsversammlung, den Fakultätsvorstand und andere Kommissionen in Fragen der internen und externen Kommunikation.
 
@@ -333,6 +358,18 @@ Für wichtige Aufgaben werden ständige Kommissionen eingesetzt. Ihre Mitglieder
 
 <sup>4</sup> Die Kommission organisiert sich selbst.
 
+**Kommission für Auszeichnungen und Preise**
+
+§ 19 a.[^19-1] <sup>1</sup> Die Kommission für Auszeichnungen und Preise setzt sich zusammen aus der Prodekanin oder dem Prodekan Lehre als Vorsitzender oder Vorsitzendem sowie aus mindestens sechs weiteren Mitgliedern der Fakultätsversammlung. Jeder Fachbereich ist berechtigt, eine Vertretung zu entsenden.
+
+<sup>2</sup> Sie ist abschliessend für die Verleihung von Auszeichnungen und Preisen im Rahmen der Studienordnungen und der Promotionsverordnungen der Mathematisch-naturwissenschaftlichen Fakultät zuständig.
+
+<sup>3</sup> Sie erstellt zuhanden der entsprechenden universitären Gremien Antrag auf Auszeichnungen und Preise, die gesamtuniversitär vergeben werden.
+
+<sup>4</sup> Sie organisiert sich selbst.
+
+[^19-1]: Eingefügt durch B vom 3. Juni 2021 (OS 76, 318; ABl 2021-07-23). In Kraft seit 1. Oktober 2021.
+
 ### B. Nichtständige Kommissionen
 
 #### § 20
@@ -341,13 +378,15 @@ Für wichtige Aufgaben werden ständige Kommissionen eingesetzt. Ihre Mitglieder
 
 <sup>1</sup> Zur Erfüllung befristeter Aufträge können nichtständige Kommissionen eingesetzt werden.
 
+**Kommission für Kommunikation**
+
 <sup>2</sup> Die Kommissionen organisieren sich selbst.
 
-#### § 21
+**9**
+
+1.10. 21 - 114 § 21. <sup>1</sup> Die Berufungs-, Ernennungs- und Beförderungskommissionen setzen sich aus mindestens zehn Mitgliedern zusammen. Jeder Fachbereich ist berechtigt, eine Vertretung zu entsenden. Jeder Stand entsendet eine Delegierte oder einen Delegierten. Mindestens zwei Professorinnen sollen Einsitz nehmen. Mindestens drei Mitglieder gehören nicht der Universität Zürich an. Ein Mitglied gehört der ETHZ und zwei Mitglieder gehören anderen Universitäten oder Forschungsinstitutionen an. Die Dekanin oder der Dekan oder ein anderes Mitglied des Fakultätsvorstands leitet die Berufungs-, Ernennungs- und Beförderungskommissionen.
 
 **Berufungs-, Ernennungs- und Beförderungskommissionen**
-
-<sup>1</sup> Die Berufungs-, Ernennungs- und Beförderungskommissionen setzen sich aus mindestens zehn Mitgliedern zusammen. Jeder Fachbereich ist berechtigt, eine Vertretung zu entsenden. Jeder Stand entsendet eine Delegierte oder einen Delegierten. Mindestens zwei Professorinnen sollen Einsitz nehmen. Mindestens drei Mitglieder gehören nicht der Universität Zürich an. Ein Mitglied gehört der ETHZ und zwei Mitglieder gehören anderen Universitäten oder Forschungsinstitutionen an. Die Dekanin oder der Dekan oder ein anderes Mitglied des Fakultätsvorstands leitet die Berufungs-, Ernennungs- und Beförderungskommissionen.
 
 <sup>2</sup> Die Berufungs-, Ernennungs- und Beförderungskommissionen stellen zuhanden der Universitätsleitung Antrag auf Berufung, Ernennung und Beförderung von Professorinnen und Professoren.
 
@@ -399,10 +438,6 @@ Einladungen und Tagesordnung für die Fakultätsversammlung, den Fakultätsaussc
 
 Über die Sitzungen der Fakultätsversammlung, des Fakultätsausschusses, der Studienkommission sowie der Struktur-, Berufungs-, Ernennungs- und Beförderungskommissionen wird ein Protokoll geführt. Es ist an der nächsten Sitzung zur Genehmigung vorzulegen.
 
-**9**
-
-- 1\. 10. 17 - 98
-
 ### 2. Abschnitt: Abstimmungen und Wahlen
 
 #### § 28
@@ -422,6 +457,10 @@ Einladungen und Tagesordnung für die Fakultätsversammlung, den Fakultätsaussc
 <sup>2</sup> Die oder der Vorsitzende stimmt mit; bei Stimmengleichheit hat sie oder er den Stichentscheid.
 
 <sup>3</sup> Abstimmungen erfolgen durch Handerheben, wenn nicht ein Drittel der anwesenden Mitglieder eine geheime Abstimmung verlangt.
+
+**11**
+
+1.10. 21 - 114
 
 <sup>4</sup> Abstimmungen in der Fakultätsversammlung über Ernennungs-, Beförderungs- und Habilitationsgeschäfte sowie über Ehrenpromotionen sind geheim.
 
@@ -453,6 +492,14 @@ Einladungen und Tagesordnung für die Fakultätsversammlung, den Fakultätsaussc
 
 - 2\. Bei allen anderen Kommissionen: Das abwesende Mitglied kann eine Stellvertreterin oder einen Stellvertreter delegieren.
 
+**Schriftliche oder elektronische Durchführung von Versammlungen und Sitzungen**
+
+§ 31 a.[^31-1] <sup>1</sup> Die schriftliche und elektronische Durchführung von Versammlungen und Sitzungen der Organe und Gremien nach diesem Reglement richtet sich nach § 82 b UniO.
+
+<sup>2</sup> Die Stimmberechtigten werden bei der elektronischen Wahl oder Abstimmung vorgängig in geeigneter Weise über die Handhabung instruiert.
+
+[^31-1]: Eingefügt durch B vom 3. Juni 2021 (OS 76, 318; ABl 2021-07-23). In Kraft seit 1. Oktober 2021.
+
 ### 3. Abschnitt: Schweigepflicht, Informationsrecht und Archivierung
 
 #### § 32
@@ -481,13 +528,8 @@ Einladungen und Tagesordnung für die Fakultätsversammlung, den Fakultätsaussc
 
 <sup>2</sup> Unter den gleichen Voraussetzungen darf sie oder er andere Personen ermächtigen, Informationen weiterzugeben.
 
-**11**
+#### § 34
 
 **Archivierung**
 
-- 1\. 10. 17 - 98 § 34. Das Dekanat bewahrt die Sitzungsakten der Fakultätsgremien, die Dossiers über Dozierende und Studierende sowie wichtige Korrespondenz während zehn Jahren auf. Anschliessend übergibt es die Akten dem Universitätsarchiv.
-
-## Weitere Fussnoten
-
-- [1] OS 72, 406; Begründung siehe ABl 2017-06-30.
-- [2] Inkrafttreten: 1. August 2017.
+Das Dekanat bewahrt die Sitzungsakten der Fakultätsgremien, die Dossiers über Dozierende und Studierende sowie wichtige Korrespondenz während zehn Jahren auf. Anschliessend übergibt es die Akten dem Universitätsarchiv.
