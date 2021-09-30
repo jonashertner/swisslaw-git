@@ -3,20 +3,19 @@ canton: SG
 number: "431.11"
 title: Verordnung zum Gesetz über den Vollzug der wirtschaftlichen Landesversorgung
 language: de
-version: 2011-01-01
-valid_until: 2021-09-30
-version_adopted: 2010-12-07
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 2010-12-07
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/431.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/31/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3229/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über den Vollzug der wirtschaftlichen Landesversorgung
 
-vom 07.12.2010 (Stand 01.01.2011)
+vom 07.12.2010 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -41,7 +40,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Beim Vollzug der Aufgaben und Massnahmen der wirtschaftlichen Landesversorgung wirken mit:
 
-- a) das Baudepartement im Bereich Heizölbewirtschaftung;
+- a) das Bau- und Umweltdepartement im Bereich Heizölbewirtschaftung;
 - b) das Sicherheits- und Justizdepartement im Bereich Treibstoffbewirtschaftung;
 - c) das Volkswirtschaftsdepartement im Bereich Lebensmittelbewirtschaftung.
 
