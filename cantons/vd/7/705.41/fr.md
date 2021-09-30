@@ -4,7 +4,7 @@ number: "705.41"
 title: "LOI du 13.12.1966 sur la profession d'architecte (LPrA)"
 short: LPrA
 language: fr
-version: 2013-06-01
+version: 2021-10-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/705.41?id=3205ede5-4b0a-44ee-bd8e-e4d869ae92ae"
 ---
 
@@ -66,15 +66,50 @@ décrète
 
 [^5a-1]: Modif. 2 du 10.12.1984: Introduction Art. 5b; entrée en vigueur au 01.04.1985 · Modif. 5 du 03.02.1998: Abrogation Art. 5b; entrée en vigueur au 07.04.1998
 
+#### Art. 5c
+
+**[^5b-1]**
+
+<sup>1</sup> La présente loi a pour but d'assurer, dans l'intérêt du public, la qualification professionnelle des architectes, ainsi que l'exécution de leurs prestations dans les règles de l'art.
+
+[^5b-1]: Modif. 8 du 29.06.2021: Introduction Art. 5c; entrée en vigueur au 01.10.2021
+
+#### Art. 5d
+
+**[^5c-1]**
+
+<sup>1</sup> La qualité d'architecte est reconnue :
+
+- a. aux porteurs d'un master d'architecte délivré par une école polytechnique fédérale ou par une université suisse ;
+- b. aux porteurs d'un bachelor ou d'un master d'architecte délivré par une haute école spécialisée suisse ;
+- c. aux porteurs d'un diplôme, d'un certificat ou d'un autre titre délivré par une école d'enseignement supérieur étrangère et reconnu comme équivalent à un bachelor ou un master, conformément à un traité international ou aux dispositions arrêtées par le département en charge des immeubles de l'Etat (ci-après : le département) ;
+- d. aux personnes inscrites au Registre des architectes A ou B de la Fondation des Registres suisses des professionnels de l'ingénierie, de l'architecture et de l'environnement (Fondation REG).
+
+[^5c-1]: Modif. 8 du 29.06.2021: Introduction Art. 5d; entrée en vigueur au 01.10.2021
+
+#### Art. 5e
+
+**[^5d-1]**
+
+<sup>1</sup> Sont seuls autorisés à établir et signer les plans de constructions, au sens de la loi du 4 décembre 1985 sur l'aménagement du territoire et les constructions (LATC) :
+
+- a. les architectes au sens de l'article 5d remplissant les conditions cumulatives suivantes :
+- 1\. être inscrit au Registre des architectes A ou B de la Fondation des Registres suisses des professionnels de l'ingénierie, de l'architecture et de l'environnement (Fondation REG) ;
+- 2\. avoir l'exercice des droits civils.
+- b. les personnes autorisées dans un autre canton et dont l'autorisation répond à des exigences équivalentes. Sont considérées comme des exigences équivalentes l'inscription au REG A ou B, ou une pratique professionnelle suffisante ;
+- c. les personnes au bénéfice d'une autorisation particulière délivrée par la Chambre des architectes.
+
+[^5d-1]: Modif. 8 du 29.06.2021: Introduction Art. 5e; entrée en vigueur au 01.10.2021
+
 ## Chapitre II Droits et devoirs de l'architecte
 
 #### Art. 6
 
 **[^chapterChapitreII-1]**
 
-<sup>1</sup> Les architectes qui pratiquent dans le Canton de Vaud et les sociétés y exerçant une activité équivalente sont soumis à l'autorité disciplinaire de la Chambre des architectes.
+<sup>1</sup> Les architectes qui pratiquent dans le canton de Vaud et les sociétés y exerçant une activité équivalente sont soumis à l'autorité disciplinaire de la Chambre des architectes (ci-après : la Chambre).
 
-[^chapterChapitreII-1]: Modif. 1 du 19.05.1970: Modification Art. 6; entrée en vigueur au 17.07.1970 · Modif. 5 du 03.02.1998: Modification Art. 6; entrée en vigueur au 07.04.1998 · Modif. 8 du 29.06.2021: Introduction Art. 5c; entrée en vigueur au 01.10.2021; Introduction Art. 5d; entrée en vigueur au 01.10.2021; Introduction Art. 5e; entrée en vigueur au 01.10.2021; Modification Al. 1; entrée en vigueur au 01.10.2021; Introduction Art. 10a; entrée en vigueur au 01.10.2021; Introduction Art. 16a; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 1, abis,cbis,e; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 4-6; entrée en vigueur au 01.10.2021; Introduction Art. 22, Al. 2-4; entrée en vigueur au 01.10.2021; Introduction Art. 23, Al. 3-5; entrée en vigueur au 01.10.2021; Introduction Art. 24, Al. 1bis,1ter,3; entrée en vigueur au 01.10.2021; Introduction Art. 25, Al. 2; entrée en vigueur au 01.10.2021; Introduction Art. 28a; entrée en vigueur au 01.10.2021
+[^chapterChapitreII-1]: Modif. 1 du 19.05.1970: Modification Art. 6; entrée en vigueur au 17.07.1970 · Modif. 5 du 03.02.1998: Modification Art. 6; entrée en vigueur au 07.04.1998 · Modif. 8 du 29.06.2021: Modification Al. 1; entrée en vigueur au 01.10.2021
 
 #### Art. 7
 
@@ -93,6 +128,14 @@ décrète
 **… [^9-1]**
 
 [^9-1]: Modif. 5 du 03.02.1998: Abrogation Art. 10; entrée en vigueur au 07.04.1998
+
+#### Art. 10a
+
+**[^10-1]**
+
+<sup>1</sup> L'architecte s'assure de la conformité de tous projets de construction aux plans, lois, normes et règlements en vigueur.
+
+[^10-1]: Modif. 8 du 29.06.2021: Introduction Art. 10a; entrée en vigueur au 01.10.2021
 
 #### Art. 11
 
@@ -118,6 +161,14 @@ décrète
 
 <sup>1</sup> L'architecte est rémunéré par des honoraires ou un salaire, à l'exclusion de commissions ou autres avantages accordés par des tiers. Demeurent réservés les droits découlant de la propriété intellectuelle.
 
+#### Art. 16a
+
+**[^16-1]**
+
+<sup>1</sup> La Chambre des architectes est l'autorité disciplinaire pour la profession d'architecte du canton de Vaud. Elle veille à assurer le respect du cadre légal et des bonnes pratiques.
+
+[^16-1]: Modif. 8 du 29.06.2021: Introduction Art. 16a; entrée en vigueur au 01.10.2021
+
 ## Chapitre III Chambre des architectes
 
 #### Art. 17
@@ -126,22 +177,21 @@ décrète
 
 <sup>1</sup> La Chambre des architectes se compose:
 
-- - d'un juge cantonal, président,
+- - d'un juge cantonal en activité ou d'un ancien juge cantonal, président ;
 - - de l'architecte de l'Etat, vice-président,
-- - de sept membres dont au moins cinq architectes reconnus au sens de l'article 107 LATC [^17-1] et un juriste.
+- - de sept membres dont au moins cinq architectes reconnus au sens de l'article 5d et un juriste.
 
 <sup>2</sup> Un juriste et un architecte seront désignés comme membres suppléants.
 
-[^chapterChapitreIII-1]: Modif. 1 du 19.05.1970: Modification Art. 17; entrée en vigueur au 17.07.1970 · Modif. 5 du 03.02.1998: Modification Art. 17; entrée en vigueur au 07.04.1998 · Modif. 8 du 29.06.2021: Introduction Art. 5c; entrée en vigueur au 01.10.2021; Introduction Art. 5d; entrée en vigueur au 01.10.2021; Introduction Art. 5e; entrée en vigueur au 01.10.2021; Introduction Art. 10a; entrée en vigueur au 01.10.2021; Introduction Art. 16a; entrée en vigueur au 01.10.2021; Modification Al. 1, Tiret 1,3; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 1, abis,cbis,e; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 4-6; entrée en vigueur au 01.10.2021; Introduction Art. 22, Al. 2-4; entrée en vigueur au 01.10.2021; Introduction Art. 23, Al. 3-5; entrée en vigueur au 01.10.2021; Introduction Art. 24, Al. 1bis,1ter,3; entrée en vigueur au 01.10.2021; Introduction Art. 25, Al. 2; entrée en vigueur au 01.10.2021; Introduction Art. 28a; entrée en vigueur au 01.10.2021
-[^17-1]: Loi du 04.12.1985 sur l'aménagement du territoire et les constructions ([BLV 700.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11?id=94980419-1c0b-4c3e-bf5d-6d37d57902ec))
+[^chapterChapitreIII-1]: Modif. 1 du 19.05.1970: Modification Art. 17; entrée en vigueur au 17.07.1970 · Modif. 5 du 03.02.1998: Modification Art. 17; entrée en vigueur au 07.04.1998 · Modif. 8 du 29.06.2021: Modification Al. 1, Tiret 1,3; entrée en vigueur au 01.10.2021
 
 #### Art. 18
 
-**[^17-2]**
+**[^17-1]**
 
 <sup>1</sup> Les membres de la Chambre et leurs suppléants sont nommés par le Conseil d'Etat pour une période de cinq ans sur la proposition du département en charge des bâtiments[^18-1] . Les associations d'architectes reconnues au sens de la loi sur l'organisation professionnelle seront représentées au sein de la Chambre. Les membres de la Chambre sont rééligibles, mais deux fois seulement.
 
-[^17-2]: Modif. 6 du 21.03.2006: Modification Art. 18; entrée en vigueur au 01.07.2006 · Modif. 7 du 26.03.2013: Modification Al. 1; entrée en vigueur au 01.06.2013
+[^17-1]: Modif. 6 du 21.03.2006: Modification Art. 18; entrée en vigueur au 01.07.2006 · Modif. 7 du 26.03.2013: Modification Al. 1; entrée en vigueur au 01.06.2013
 [^18-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 19
@@ -163,51 +213,80 @@ décrète
 <sup>1</sup> La Chambre des architectes peut infliger, en cas d'infraction à la présente loi ou de violation des devoirs professionnels, les peines disciplinaires suivantes:
 
 - a. l'avertissement;
-- b. l'amende jusqu'à cinq mille francs;
-- c. la radiation provisoire de la liste des architectes pour cinq ans au maximum;
-- d. la radiation pour une durée indéterminée.
+- abis. le blâme ;
+- b. l'amende jusqu'à vingt mille francs ;
+- c. ...
+- cbis. l'interdiction temporaire d'établir et de signer les plans de constructions, au sens de la LATC, pour une période maximale de deux ans ;
+- d. ...
+- e. l'interdiction définitive d'établir et de signer les plans de constructions, au sens de la LATC.
 
-<sup>2</sup> Les sanctions disciplinaires peuvent être cumulées.
+<sup>2</sup> L'amende peut être cumulée avec les autres sanctions disciplinaires.
 
-<sup>3</sup> Celui qui a fait l'objet de la sanction prévue à la lettre d) ne peut présenter une demande d'inscription dans la liste avant un délai de cinq ans.
+<sup>3</sup> ...
 
-[^20-1]: Modif. 1 du 19.05.1970: Modification Art. 21; entrée en vigueur au 17.07.1970 · Modif. 8 du 29.06.2021: Introduction Art. 5c; entrée en vigueur au 01.10.2021; Introduction Art. 5d; entrée en vigueur au 01.10.2021; Introduction Art. 5e; entrée en vigueur au 01.10.2021; Introduction Art. 10a; entrée en vigueur au 01.10.2021; Introduction Art. 16a; entrée en vigueur au 01.10.2021; Introduction Al. 1, abis; entrée en vigueur au 01.10.2021; Modification Al. 1, b; entrée en vigueur au 01.10.2021; Abrogation Al. 1, c; entrée en vigueur au 01.10.2021; Introduction Al. 1, cbis; entrée en vigueur au 01.10.2021; Abrogation Al. 1, d; entrée en vigueur au 01.10.2021; Introduction Al. 1, e; entrée en vigueur au 01.10.2021; Modification Al. 2; entrée en vigueur au 01.10.2021; Abrogation Al. 3; entrée en vigueur au 01.10.2021; Introduction Al. 4-6; entrée en vigueur au 01.10.2021; Introduction Art. 22, Al. 2-4; entrée en vigueur au 01.10.2021; Introduction Art. 23, Al. 3-5; entrée en vigueur au 01.10.2021; Introduction Art. 24, Al. 1bis,1ter,3; entrée en vigueur au 01.10.2021; Introduction Art. 25, Al. 2; entrée en vigueur au 01.10.2021; Introduction Art. 28a; entrée en vigueur au 01.10.2021
+<sup>4</sup> Sauf dans les cas où un avertissement, un blâme, ou une amende est prononcé, la Chambre dénonce le cas au REG dès que sa décision est exécutoire. Elle fait également publier la décision dans la Feuille des avis officiels, lorsque la protection du public l'exige.
+
+<sup>5</sup> Elle avise les communes en cas d'interdiction temporaire ou définitive d'établir et de signer les plans de constructions.
+
+<sup>6</sup> Le département en charge des immeubles de l'Etat, dresse et tient à jour la liste des architectes sanctionnés. Une liste des interdictions de pratiquer au sens de l'article 21, alinéa 1 publiée par la Chambre des architectes est publique.
+
+[^20-1]: Modif. 1 du 19.05.1970: Modification Art. 21; entrée en vigueur au 17.07.1970 · Modif. 8 du 29.06.2021: Introduction Al. 1, abis; entrée en vigueur au 01.10.2021; Modification Al. 1, b; entrée en vigueur au 01.10.2021; Abrogation Al. 1, c; entrée en vigueur au 01.10.2021; Introduction Al. 1, cbis; entrée en vigueur au 01.10.2021; Abrogation Al. 1, d; entrée en vigueur au 01.10.2021; Introduction Al. 1, e; entrée en vigueur au 01.10.2021; Modification Al. 2; entrée en vigueur au 01.10.2021; Abrogation Al. 3; entrée en vigueur au 01.10.2021; Introduction Al. 4-6; entrée en vigueur au 01.10.2021
 
 #### Art. 22
 
 **[^21-1]**
 
-<sup>1</sup> L'action disciplinaire s'éteint dans un délai de cinq ans dès la commission des faits.
+<sup>1</sup> La poursuite disciplinaire se prescrit par un an à compter du jour où la Chambre a eu connaissance des faits incriminés.
 
-[^21-1]: Modif. 8 du 29.06.2021: Introduction Art. 5c; entrée en vigueur au 01.10.2021; Introduction Art. 5d; entrée en vigueur au 01.10.2021; Introduction Art. 5e; entrée en vigueur au 01.10.2021; Introduction Art. 10a; entrée en vigueur au 01.10.2021; Introduction Art. 16a; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 1, abis,cbis,e; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 4-6; entrée en vigueur au 01.10.2021; Modification Al. 1; entrée en vigueur au 01.10.2021; Introduction Al. 2-4; entrée en vigueur au 01.10.2021; Introduction Art. 23, Al. 3-5; entrée en vigueur au 01.10.2021; Introduction Art. 24, Al. 1bis,1ter,3; entrée en vigueur au 01.10.2021; Introduction Art. 25, Al. 2; entrée en vigueur au 01.10.2021; Introduction Art. 28a; entrée en vigueur au 01.10.2021
+<sup>2</sup> Le délai est interrompu par tout acte d'instruction de la Chambre.
+
+<sup>3</sup> La poursuite disciplinaire se prescrit en tout cas par dix ans à compter de la commission des faits incriminés.
+
+<sup>4</sup> Si la violation du cadre légal ou des bonnes pratiques constitue un acte punissable pénalement, la prescription plus longue prévue par le droit pénal s'applique à la poursuite disciplinaire.
+
+[^21-1]: Modif. 8 du 29.06.2021: Modification Al. 1; entrée en vigueur au 01.10.2021; Introduction Al. 2-4; entrée en vigueur au 01.10.2021
 
 #### Art. 23
 
 **[^22-1]**
 
-<sup>1</sup> La Chambre des architectes se saisit d'office, sur plainte ou dénonciation, de toute question concernant l'activité professionnelle d'un architecte.
+<sup>1</sup> La Chambre des architectes se saisit d'office ou sur dénonciation de toute question concernant l'activité professionnelle d'un architecte.
 
 <sup>2</sup> L'instruction est dirigée par un membre de la Chambre désigné par celle-ci.
 
-[^22-1]: Modif. 8 du 29.06.2021: Introduction Art. 5c; entrée en vigueur au 01.10.2021; Introduction Art. 5d; entrée en vigueur au 01.10.2021; Introduction Art. 5e; entrée en vigueur au 01.10.2021; Introduction Art. 10a; entrée en vigueur au 01.10.2021; Introduction Art. 16a; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 1, abis,cbis,e; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 4-6; entrée en vigueur au 01.10.2021; Introduction Art. 22, Al. 2-4; entrée en vigueur au 01.10.2021; Modification Al. 1; entrée en vigueur au 01.10.2021; Introduction Al. 3-5; entrée en vigueur au 01.10.2021; Introduction Art. 24, Al. 1bis,1ter,3; entrée en vigueur au 01.10.2021; Introduction Art. 25, Al. 2; entrée en vigueur au 01.10.2021; Introduction Art. 28a; entrée en vigueur au 01.10.2021
+<sup>3</sup> Lorsque la Chambre est saisie sur dénonciation, elle peut tenter la conciliation entre les parties. En cas de retrait de la dénonciation, elle peut selon les circonstances renoncer à toute sanction.
+
+<sup>4</sup> Pendant la procédure disciplinaire, la Chambre peut d'office ou sur requête ordonner les mesures provisionnelles nécessaires au sens de la loi sur la procédure administrative du 28 octobre 2008.
+
+<sup>5</sup> Le président peut refuser de donner suite à une dénonciation manifestement mal fondée ou abusive.
+
+[^22-1]: Modif. 8 du 29.06.2021: Modification Al. 1; entrée en vigueur au 01.10.2021; Introduction Al. 3-5; entrée en vigueur au 01.10.2021
 
 #### Art. 24
 
 **[^23-1]**
 
-<sup>1</sup> Les parties sont entendues à propos de chaque grief articulé contre l'architecte. Elles ont droit de consulter toutes les pièces du dossier; elles sont admises à entreprendre des preuves, à présenter leur cause par écrit, puis oralement et à se faire assister d'un avocat.
+<sup>1</sup> La Chambre des architectes entend l'architecte faisant l'objet de la procédure disciplinaire. Elle peut auditionner également le dénonciateur et procéder à d'autres opérations d'instruction.
 
-<sup>2</sup> La décision est rendue par écrit et notifiée aux parties sous pli recommandé.
+<sup>1bis</sup> L'architecte faisant l'objet de la procédure disciplinaire a le droit de consulter toutes les pièces du dossier, de présenter des offres de preuves, de présenter sa cause par écrit, puis oralement et de se faire assister d'un avocat.
 
-[^23-1]: Modif. 8 du 29.06.2021: Introduction Art. 5c; entrée en vigueur au 01.10.2021; Introduction Art. 5d; entrée en vigueur au 01.10.2021; Introduction Art. 5e; entrée en vigueur au 01.10.2021; Introduction Art. 10a; entrée en vigueur au 01.10.2021; Introduction Art. 16a; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 1, abis,cbis,e; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 4-6; entrée en vigueur au 01.10.2021; Introduction Art. 22, Al. 2-4; entrée en vigueur au 01.10.2021; Introduction Art. 23, Al. 3-5; entrée en vigueur au 01.10.2021; Modification Al. 1; entrée en vigueur au 01.10.2021; Introduction Al. 1bis,1ter; entrée en vigueur au 01.10.2021; Modification Al. 2; entrée en vigueur au 01.10.2021; Introduction Al. 3; entrée en vigueur au 01.10.2021; Introduction Art. 25, Al. 2; entrée en vigueur au 01.10.2021; Introduction Art. 28a; entrée en vigueur au 01.10.2021
+<sup>1ter</sup> La Chambre des architectes délibère et statue à huis clos à la majorité des voix.
+
+<sup>2</sup> La décision motivée est rendue par écrit et notifiée à l'architecte faisant l'objet de la procédure disciplinaire.
+
+<sup>3</sup> La Chambre des architectes peut, si les circonstances le justifient, informer le dénonciateur de l'issue de la procédure, cas échéant les associations professionnelles. La décision motivée est rendue par écrit et notifiée à l'architecte faisant l'objet de la procédure disciplinaire.
+
+[^23-1]: Modif. 8 du 29.06.2021: Modification Al. 1; entrée en vigueur au 01.10.2021; Introduction Al. 1bis,1ter; entrée en vigueur au 01.10.2021; Modification Al. 2; entrée en vigueur au 01.10.2021; Introduction Al. 3; entrée en vigueur au 01.10.2021
 
 #### Art. 25
 
 **[^24-1]**
 
-<sup>1</sup> Tout ou partie des frais de l'instruction peuvent être mis à la charge de l'architecte condamné ou du plaignant débouté.
+<sup>1</sup> La Chambre des architectes peut mettre un émolument de cent à cinq mille francs ainsi que les frais d'enquête en tout ou partie à la charge de l'architecte lorsqu'une peine disciplinaire est prononcée contre lui ou lorsque, à défaut de sanction, il a provoqué ou compliqué l'enquête par son attitude.
 
-[^24-1]: Modif. 8 du 29.06.2021: Introduction Art. 5c; entrée en vigueur au 01.10.2021; Introduction Art. 5d; entrée en vigueur au 01.10.2021; Introduction Art. 5e; entrée en vigueur au 01.10.2021; Introduction Art. 10a; entrée en vigueur au 01.10.2021; Introduction Art. 16a; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 1, abis,cbis,e; entrée en vigueur au 01.10.2021; Introduction Art. 21, Al. 4-6; entrée en vigueur au 01.10.2021; Introduction Art. 22, Al. 2-4; entrée en vigueur au 01.10.2021; Introduction Art. 23, Al. 3-5; entrée en vigueur au 01.10.2021; Introduction Art. 24, Al. 1bis,1ter,3; entrée en vigueur au 01.10.2021; Modification Al. 1; entrée en vigueur au 01.10.2021; Introduction Al. 2; entrée en vigueur au 01.10.2021; Introduction Art. 28a; entrée en vigueur au 01.10.2021
+<sup>2</sup> Elle peut mettre les mêmes frais et émoluments à la charge du dénonciateur en cas de dénonciation abusive.
+
+[^24-1]: Modif. 8 du 29.06.2021: Modification Al. 1; entrée en vigueur au 01.10.2021; Introduction Al. 2; entrée en vigueur au 01.10.2021
 
 #### Art. 26
 
@@ -228,6 +307,18 @@ décrète
 **… [^27-1]**
 
 [^27-1]: Modif. 1 du 19.05.1970: Abrogation Art. 28; entrée en vigueur au 17.07.1970
+
+#### Art. 28a
+
+**Disposition transitoire de la loi modifiante du 29 juin 2021 [^28-1]**
+
+<sup>1</sup> Dès l'entrée en vigueur de la loi modifiante du 29 juin 2021, un délai transitoire de trois ans est accordé aux architectes pour remplir les conditions de l'article 5e. Durant cette phase transitoire, la qualité d'architecte est reconnue selon les règles prévues par la LATC​.
+
+<sup>2</sup> La liste des architectes est supprimée.​​
+
+<sup>3</sup> Les causes pendantes devant la Chambre des architectes à l'entrée en vigueur de la présente loi sont traitées selon la loi antérieure.
+
+[^28-1]: Modif. 8 du 29.06.2021: Introduction tArt; entrée en vigueur au 01.10.2021; Introduction Al. 1-3; entrée en vigueur au 01.10.2021; Introduction Art. 28a; entrée en vigueur au 01.10.2021
 
 #### Art. 29
 
