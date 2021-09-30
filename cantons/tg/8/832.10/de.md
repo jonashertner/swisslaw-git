@@ -4,13 +4,13 @@ number: "832.10"
 title: Verordnung des Regierungsrates zum Gesetz über die Krankenversicherung
 short: TG KVV
 language: de
-version: 2021-01-01
-valid_until: 2021-09-30
-version_adopted: 2020-12-15
+version: 2021-10-01
+valid_until: 2021-12-31
+version_adopted: 2021-10-05
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.10"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1860/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1915/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ TG KVV
 
 (TG KVV)
 
-vom 20.12.2011 (Stand 01.01.2021)
+vom 20.12.2011 (Stand 01.10.2021)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -340,7 +340,7 @@ vom 20.12.2011 (Stand 01.01.2021)
 
 **Festlegung der Normkostenbeiträge**
 
-<sup>1</sup> Für die Abgeltung der Pflegerestkosten im Pflegeheim gelten die pauschalierten Normkostenbeiträge gemäss Anhang.
+<sup>1</sup> Für die Abgeltung der Pflegerestkosten im Pflegeheim gelten die pauschalierten Normkostenbeiträge gemäss Anhang 1.
 
 #### § 31
 
@@ -860,5 +860,15 @@ vom 20.12.2011 (Stand 01.01.2021)
 #### § 75–76
 
 **…**
+
+#### § 77
+
+**Übergangsbestimmung zur Aufhebung der Normkostenbeiträge für die Abgeltung von ärztlich verordneten und durch Pflegefachpersonen in Pflegeheimen angewendeten Mitteln und Gegenstände (Anhang 2)**
+
+<sup>1</sup> Die effektiven Aufwendungen für von der Ärztin oder dem Arzt verordnete Mittel und Gegenstände, die der Untersuchung oder Behandlung dienen und für die noch keine Vergütung in der Mittel- und Gegenständeliste festgelegt ist, werden bis zum 30. September 2022 im Rahmen der Restfinanzierung der Pflegekosten getragen.
+
+<sup>2</sup> Aufwendungen für in einem Pflegeheim einer kantonalen Pflegeheimliste angewendete Mittel und Gegenstände gemäss Absatz 1 können nach Kostengutsprache durch das Amt für Gesundheit gemäss den Regeln der Pflegefinanzierung bei der kantonalen Ausgleichskasse bis zum 30. September 2022 geltend gemacht werden.
+
+<sup>3</sup> Für durch Pflegefachpersonen in der ambulanten Pflege angewendete Mittel und Gegenstände gemäss Absatz 1 können die effektiven Aufwendungen zusammen mit den Restkosten der Pflegeleistungen bei der Wohngemeinde bis zum 30. September 2022 geltend gemacht werden.
 
 ABl. 51/2011
