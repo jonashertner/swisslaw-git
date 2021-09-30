@@ -4,10 +4,11 @@ number: "181.22"
 title: Geschäftsordnung des Kirchenrates (GO KR)
 short: GO KR
 language: de
-nachtrag: "111"
-valid_until: 2021-10-01
+version: "2021-10-01"
+nachtrag: "115"
+valid_until: 2023-02-01
 adopted: 2020-06-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_22-2020_06_10-2020_11_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_22-2020_06_10-2020_11_01-115.html"
 text: pdf
 ---
 
@@ -63,6 +64,10 @@ Der Kirchenrat konstituiert sich zu Beginn jeder Amtsdauer und nach Ersatzwahlen
 
 <sup>2</sup> Er weist jedem Ressort die zu verantwortenden Themen- und Aufgabenbereiche zu.
 
+**1**
+
+1.10. 21 - 114
+
 <sup>3</sup> Die Ressorts des Kirchenrates sind:
 
 - a. Präsidiales – Kirchliche Identität und Beziehungen,
@@ -70,10 +75,6 @@ Der Kirchenrat konstituiert sich zu Beginn jeder Amtsdauer und nach Ersatzwahlen
 - b. Bildung und Theologie,
 
 - c. Gemeinde und Region,
-
-**1**
-
-- 1\. 1. 21 - 111
 
 - d. Kirche und Gesellschaft,
 
@@ -131,15 +132,13 @@ Der Kirchenrat kann beschliessen, wenn mindestens vier Mitglieder anwesend sind.
 
 <sup>1</sup> Die Kirchenratsschreiberin oder der Kirchenratsschreiber legt in Absprache mit dem Kirchenrat dessen Geschäftsplanung fest.
 
-<sup>2</sup> Die Geschäftsplanung stellt sicher, dass der Kirchenrat seine Geschäfte entsprechend ihrer Bedeutung und Dringlichkeit behandeln kann. Sie umfasst die wichtigsten Geschäfte und Themenschwerpunkte und erstreckt sich über ein Semester oder ein Kalenderjahr.
+<sup>2</sup> Die Geschäftsplanung stellt sicher, dass der Kirchenrat seine Geschäfte entsprechend ihrer Bedeutung und Dringlichkeit behandeln kann. Sie umfasst die wichtigsten Geschäfte und Themenschwerpunkte und erstreckt sich über ein Semester oder ein Kalenderjahr. § 11.[^10-1] Der Kirchenrat zieht nach Bedarf und in Absprache mit der Kirchenratsschreiberin oder dem Kirchenratsschreiber die Geschäftsleitung in seine Beratungen bei.
 
-#### § 11
-
-**Leitungskonvent**
-
-Der Kirchenrat zieht nach Bedarf und in Absprache mit der Kirchenratsschreiberin oder dem Kirchenratsschreiber den Leitungskonvent in seine Beratungen bei.
+[^10-1]: Fassung gemäss B vom 16. Juni 2021 (OS 76, 283; ABl 2021-06-25). In Kraft seit 1. Oktober 2021. 1.10. 21 - 114 13
 
 #### § 12
+
+**Geschäftsleitung**
 
 **Offenlegung von Interessenbindungen**
 
@@ -151,7 +150,7 @@ Der Kirchenrat zieht nach Bedarf und in Absprache mit der Kirchenratsschreiberin
 
 <sup>2</sup> Die Kirchenratskanzlei veröffentlicht die Angaben.
 
-### B. Sitzungen
+### B. Sitzngen
 
 #### § 13
 
@@ -173,19 +172,19 @@ Der Kirchenrat zieht nach Bedarf und in Absprache mit der Kirchenratsschreiberin
 
 <sup>3</sup> Der Kirchenrat kann weitere Personen mit beratender Stimme zu einzelnen Geschäften beiziehen. Sofern der Kirchenrat nichts anderes bestimmt, treten die beigezogenen Personen bei Abstimmungen in den Ausstand.
 
-#### § 15
+**3**
+
+1.10. 21 - 114 § 15. <sup>1</sup> Die Sitzungen des Kirchenrates finden in der Regel mittwochs statt.
 
 **Sitzungsordnung**
 
-<sup>1</sup> Die Sitzungen des Kirchenrates finden in der Regel mittwochs statt.
-
 <sup>2</sup> Der Kirchenrat führt Klausurtagungen durch, an denen er insbesondere grundlegende Fragestellungen mit weitreichender Bedeutung berät.
 
-**3**
-
-- 1\. 1. 21 - 111 § 16. <sup>1</sup> Die Kirchenratspräsidentin oder der Kirchenratspräsidenten erstellt in Absprache mit der Kirchenratsschreiberin oder dem Kirchenratsschreiber die Sitzungseinladung mit der Angabe der traktandierten Geschäfte.
+#### § 16
 
 **Einladung**
+
+<sup>1</sup> Die Kirchenratspräsidentin oder der Kirchenratspräsidenten erstellt in Absprache mit der Kirchenratsschreiberin oder dem Kirchenratsschreiber die Sitzungseinladung mit der Angabe der traktandierten Geschäfte.
 
 <sup>2</sup> Die Kirchenratsschreiberin oder der Kirchenratsschreiber sorgt dafür, dass die Einladung und die für die Beschlussfassung wesentlichen Unterlagen zu den traktandierten Geschäften den Mitgliedern des Kirchenrates in der Regel mindestens vier Tage vor der Sitzung zur Verfügung stehen.
 
@@ -277,21 +276,21 @@ Für die Beratungen des Kirchenrates gilt:
 
 <sup>4</sup> Ein Minderheitsantrag und eine abweichende Meinung werden unter der nächstfolgenden Beschlussnummer in das Protokoll aufgenommen. Es erfolgt keine Eröffnung gemäss § 35 Abs. 2.
 
-#### § 27
+**5**
+
+1.10. 21 - 114 § 27. <sup>1</sup> Der Kirchenrat fasst seine Beschlüsse namentlich als Zwischenentscheide, Endentscheide, Vorentscheide und Kenntnisnahmen.
 
 **Beschlüsse**
 
-<sup>1</sup> Der Kirchenrat fasst seine Beschlüsse namentlich als Zwischenentscheide, Endentscheide, Vorentscheide und Kenntnisnahmen.
-
 <sup>2</sup> Vorentscheide sind als solche zu bezeichnen. Sie sind für die weitere Geschäftsbehandlung verbindlich, sofern sich keine wesentlichen neuen Gesichtspunkte ergeben.
 
-**5**
-
-- 1\. 1. 21 - 111 § 28. Im Rahmen von Aussprachen berät der Kirchenrat Geschäfte, ohne dass er einen Beschluss gemäss § 27 fasst.
-
-#### § 29
+#### § 28
 
 **Aussprache**
+
+Im Rahmen von Aussprachen berät der Kirchenrat Geschäfte, ohne dass er einen Beschluss gemäss § 27 fasst.
+
+#### § 29
 
 **Umfrage**
 
@@ -377,11 +376,11 @@ In jeder Sitzung findet eine Umfrage statt. Sie dient der gegenseitigen Informat
 
 <sup>3</sup> Jedes Mitglied des Kirchenrates kann in der Sitzung verlangen, dass die redaktionelle Fassung eines Beschlusses vor der Ausfertigung dem Kirchenrat zur Genehmigung vorgelegt wird.
 
-<sup>4</sup> Beschlüsse gestützt auf schriftliche Anträge, die der Kirchenrat nicht abändert, werden nach der Sitzung unverzüglich ausgefertigt. Im Übrigen werden Beschlüsse unverzüglich ausgefertigt, sobald sie der Kirchenrat oder die von ihm bezeichnete Person freigibt. Vorbehalten bleiben abweichende Weisungen des Kirchenrates.
-
 **7**
 
-- 1\. 1. 21 - 111
+1.10. 21 - 114
+
+<sup>4</sup> Beschlüsse gestützt auf schriftliche Anträge, die der Kirchenrat nicht abändert, werden nach der Sitzung unverzüglich ausgefertigt. Im Übrigen werden Beschlüsse unverzüglich ausgefertigt, sobald sie der Kirchenrat oder die von ihm bezeichnete Person freigibt. Vorbehalten bleiben abweichende Weisungen des Kirchenrates.
 
 ### D. Mitglieder des Kirchenrates
 
@@ -441,7 +440,7 @@ In jeder Sitzung findet eine Umfrage statt. Sie dient der gegenseitigen Informat
 
 <sup>1</sup> Die Kirchenratsschreiberin oder der Kirchenratsschreiber leitet die Gesamtkirchlichen Dienste unter Beachtung der Grundsätze einer zeitgemässen Verwaltungsführung und insbesondere des Grundsatzes der Übereinstimmung von Aufgaben, Zuständigkeiten und Verantwortung. Sie oder er leitet, steuert und koordiniert die Tätigkeiten der Gesamtkirchlichen Dienste und fördert deren Leistungs- und Erneuerungsfähigkeit.
 
-<sup>2</sup> Die Kirchenratsschreiberin oder der Kirchenratsschreiber a. unterstützt den Kirchenrat und dessen Mitglieder in der Wahrnehmung der Aufgaben,
+<sup>2</sup> Die Kirchenratsschreiberin oder der Kirchenratsschreiber[^40-1] a. unterstützt den Kirchenrat und dessen Mitglieder in der Wahrnehmung der Aufgaben,
 
 - b. vollzieht die Beschlüsse des Kirchenrates,
 
@@ -451,35 +450,38 @@ In jeder Sitzung findet eine Umfrage statt. Sie dient der gegenseitigen Informat
 
 - e. regelt unter Vorbehalt der Befugnisse des Kirchenrates die organisatorischen und administrativen Belange der Gesamtkirchlichen Dienste,
 
-- f. leitet die Sitzungen des Leitungskonvents,
+**9**
 
-- g. legt für die Sitzungen des Leitungskonvents die Geschäfte und deren Reihenfolge fest,
+1.10. 21 - 114 f. leitet die Sitzungen der Geschäftsleitung,
 
-- h. sorgt dafür, dass der Leitungskonvent seine Aufgaben rechtzeitig, zweckmässig und koordiniert an die Hand nimmt und abschliesst,
+- g. legt für die Sitzungen der Geschäftsleitung die Geschäfte und deren Reihenfolge fest,
+
+- h. sorgt dafür, dass die Geschäftsleitung ihre Aufgaben rechtzeitig, zweckmässig und koordiniert an die Hand nimmt und abschliesst,
 
 - i. leitet die Stabsdienste,
 
 - j. schlichtet in strittigen Fragen zwischen den Stabsdiensten und den Abteilungen sowie zwischen den Abteilungen untereinander,
 
-- k. leitet das Sekretariat der Kirchensynode,
+- k. nimmt die weiteren gemäss dieser Verordnung und vom Kirchenrat zugewiesenen Aufgaben wahr.
 
-- l. nimmt die weiteren gemäss dieser Verordnung und vom Kirchenrat zugewiesenen Aufgaben wahr.
+[^40-1]: Fassung gemäss B vom 16. Juni 2021 (OS 76, 283; ABl 2021-06-25). In Kraft seit 1. Oktober 2021. 1.10. 21 - 114 13
 
-**9**
-
-- 1\. 1. 21 - 111 § 41. <sup>1</sup> Die Kirchenratsschreiberin oder der Kirchenratsschreiber verfügt in den in Anhang 1 zu dieser Verordnung aufgeführten Bereichen gemäss Art. 223 Abs. 1 KO selbstständig.
+#### § 41
 
 **Erlass von Verfügungen**
 
+<sup>1</sup> Die Kirchenratsschreiberin oder der Kirchenratsschreiber verfügt in den in Anhang 1 zu dieser Verordnung aufgeführten Bereichen gemäss Art. 223 Abs. 1 KO selbstständig.
+
 <sup>2</sup> Überträgt der Kirchenrat der Kirchenratsschreiberin oder dem Kirchenratsschreiber gemäss Art. 223 Abs. 1 KO selbstständige Entscheidungsbefugnisse, entscheidet sie oder er im eigenen Namen.
 
-<sup>3</sup> Verfügungen der Kirchenratsschreiberin oder des Kirchenratsschreibers werden in das Protokoll des Leitungskonvents aufgenommen.
+<sup>3</sup> Verfügungen der Kirchenratsschreiberin oder des Kirchenratsschreibers werden in das Protokoll der Geschäftsleitung aufgenommen.[^41-1]
 
 <sup>4</sup> Verfügungen der Kirchenratsschreiberin oder des Kirchenratsschreibers werden durch Protokollauszug und ausnahmsweise durch besondere Mitteilung eröffnet. Sie tragen den Namen der zuständigen Person der Kirchenratskanzlei und werden von dieser unterzeichnet.
 
-<sup>5</sup> Gegen Verfügungen der Kirchenratsschreiberin oder des Kirchenratsschreibers kann Neubeurteilung beim Kirchenrat verlangt werden. Das Verfahren richtet sich nach den Bestimmungen des Gemeindegesetzes vom 20. April 2015[^40-1] über die Neubeurteilung.
+<sup>5</sup> Gegen Verfügungen der Kirchenratsschreiberin oder des Kirchenratsschreibers kann Neubeurteilung beim Kirchenrat verlangt werden. Das Verfahren richtet sich nach den Bestimmungen des Gemeindegesetzes vom 20. April 2015[^41-2] über die Neubeurteilung.
 
-[^40-1]: LS 131.1.
+[^41-1]: Fassung gemäss B vom 16. Juni 2021 (OS 76, 283; ABl 2021-06-25). In Kraft seit 1. Oktober 2021. 1.10. 21 - 114 13
+[^41-2]: LS 131.1.
 
 ### F. Ausschüsse und Kommissionen
 
@@ -525,6 +527,10 @@ In jeder Sitzung findet eine Umfrage statt. Sie dient der gegenseitigen Informat
 
 <sup>2</sup> Anträge, Berichte und Antworten des Kirchenrates an die Kirchensynode tragen die Namen der Kirchenratspräsidentin oder des Kirchenratspräsidenten und der Kirchenratsschreiberin oder des Kirchenratsschreibers.
 
+**11**
+
+1.10. 21 - 114
+
 <sup>3</sup> Verträge über wiederkehrende Verpflichtungen benötigen eine Doppelunterschrift. Unter Vorbehalt von Abs. 1 unterzeichnen je in ihrem Zuständigkeitsbereich:
 
 - a. die Kirchenratspräsidentin oder der Kirchratspräsident zusammen mit der Kirchenratsschreiberin oder dem Kirchenratsschreiber und umgekehrt,
@@ -535,11 +541,11 @@ In jeder Sitzung findet eine Umfrage statt. Sie dient der gegenseitigen Informat
 
 <sup>4</sup> Im Übrigen richtet sich die Unterschriftenberechtigung der Kirchenratspräsidentin oder des Kirchenratspräsidenten, der Mitglieder des Kirchenrates, der Kirchenratsschreiberin oder des Kirchenratsschreibers und von Mitarbeitenden der Gesamtkirchlichen Dienste nach den Ausgabenbefugnissen gemäss § 46.
 
-**11**
-
-- 1\. 1. 21 - 111 § 46. Die Befugnis der Kirchenratspräsidentin oder des Kirchenratspräsidenten, der Mitglieder des Kirchenrates, der Kirchenratsschreiberin oder des Kirchenratsschreibers und von Mitarbeitenden der Gesamtkirchlichen Dienste, in eigener Zuständigkeit Ausgaben zu tätigen, richtet sich im Rahmen der Zuständigkeit des Kirchenrates gemäss Art. 221 Abs. 1 und 2 KO nach Anhang 2 dieser Verordnung. Der Kirchenrat kann im Einzelfall und befristet Ausnahmen beschliessen.
+#### § 46
 
 **Ausgaben**
+
+Die Befugnis der Kirchenratspräsidentin oder des Kirchenratspräsidenten, der Mitglieder des Kirchenrates, der Kirchenratsschreiberin oder des Kirchenratsschreibers und von Mitarbeitenden der Gesamtkirchlichen Dienste, in eigener Zuständigkeit Ausgaben zu tätigen, richtet sich im Rahmen der Zuständigkeit des Kirchenrates gemäss Art. 221 Abs. 1 und 2 KO nach Anhang 2 dieser Verordnung. Der Kirchenrat kann im Einzelfall und befristet Ausnahmen beschliessen.
 
 ### H. Geschäftsverwaltungssystem
 
@@ -549,11 +555,11 @@ In jeder Sitzung findet eine Umfrage statt. Sie dient der gegenseitigen Informat
 
 - a. der Erfassung und Behandlung der beim Kirchenrat und bei den Gesamtkirchlichen Dienste eingegangenen Geschäfte,
 
-- b. der Führung einer Geschäftskontrolle,
-
-- c. der Abwicklung der Geschäfte des Kirchenrates, der Kirchenratsschreiberin oder des Kirchenratsschreibers, des Leitungskonvents und der Gesamtkirchlichen Dienste sowie der Kirchensynode.
+- b. der Führung einer Geschäftskontrolle, c.[^hHGeschäftsverwaltu-1] der Abwicklung der Geschäfte des Kirchenrates, der Kirchenratsschreiberin oder des Kirchenratsschreibers, der Geschäftsleitung und der Gesamtkirchlichen Dienste sowie der Kirchensynode.
 
 <sup>3</sup> Die Kirchenratsschreiberin oder der Kirchenratsschreiber regelt den Zugriff auf das Geschäftsverwaltungssystem, den Prozess der Datenaufbewahrung und in Absprache mit dem Staatsarchiv die langfristige Archivierung der Daten.
+
+[^hHGeschäftsverwaltu-1]: Fassung gemäss B vom 16. Juni 2021 (OS 76, 283; ABl 2021-06-25). In Kraft seit 1. Oktober 2021. 1.10. 21 - 114 13
 
 ### I. Übergangsbestimmung
 
@@ -591,17 +597,17 @@ oder des Kirchenratsschreibers gemäss § 41 Abs. 1
 
 - 11\. Abordnung von Stellvertreterinnen und Stellvertretern (Art. 121 KO).
 
-**13**
-
-- 1\. 1. 21 - 111
-
 - 12\. Bewilligung von Nebenbeschäftigungen und der Übernahme von öffentlichen Ämtern einschliesslich des Entscheids über den Ausgleich von beanspruchter Arbeitszeit und über die Ablieferung von Einkünften (§§ 93 ff. Personalverordnung).
 
 - 13\. Befreiung von Pfarrerinnen und Pfarrern von der Wohnsitzpflicht für längstens sechs Monate (Art. 122 Abs. 3 KO).
 
-- 14\. Gewährung von bezahltem und unbezahltem Urlaub (§§ 96 ff. Vollzugsverordnung zur Personalverordnung).
+- 14\. Gewährung von bezahltem und unbezahltem Urlaub (§§ 92 ff. Vollzugsverordnung zur Personalverordnung).
 
 - 15\. Gewährung von Urlaub bei Elternschaft (§§ 104 ff. Vollzugsverordnung zur Personalverordnung).
+
+**15**
+
+1.10. 21 - 114
 
 [^hSelbstständigeVerfü-1]: LS 181.40.
 [^hSelbstständigeVerfü-2]: LS 181.401.
@@ -647,12 +653,12 @@ Abteilungsleiterinnen und Abteilungsleiter der Gesamtkirchlichen Dienste a. Im R
 
 - b. Im eigenen Verantwortungsbereich Freigabe von in Rechnung gestellten Ausgaben im Rahmen der bewilligten Verpflichtungskredite.
 
-**1. 1.**
-
-**15**
-
-21 - 111 4. Bereichsleiterinnen und Bereichsleiter der Gesamtkirchlichen Dienste Im Rahmen des Budgets und bewilligter Nachtragskredite Ausgaben oder entsprechende Einnahmeausfälle im eigenen Verantwortungsbereich bis Fr. 5000 im Einzelfall für einmalige Ausgaben.
+- 4\. Bereichsleiterinnen und Bereichsleiter der Gesamtkirchlichen Dienste Im Rahmen des Budgets und bewilligter Nachtragskredite Ausgaben oder entsprechende Einnahmeausfälle im eigenen Verantwortungsbereich bis Fr. 5000 im Einzelfall für einmalige Ausgaben.
 
 - 5\. Mitarbeitende der Gesamtkirchlichen Dienste Im Rahmen des Budgets und bewilligter Nachtragskredite Ausgaben oder entsprechende Einnahmeausfälle im eigenen Verantwortungsbereich bis Fr. 5000 im Einzelfall für einmalige Ausgaben, sofern die Delegation der Zuständigkeit schriftlich erfolgt und von der Kirchenratsschreiberin oder vom Kirchenratsschreiber genehmigt ist.
 
 - 6\. Geschäftsführerin oder Geschäftsführer von Kloster Kappel Im Rahmen des Budgets und bewilligter Nachtragskredite Ausgaben oder entsprechende Einnahmeausfälle im eigenen Verantwortungsbereich gemäss dem Leistungsauftrag des Kirchenrates.
+
+**17**
+
+1.10. 21 - 114
