@@ -4,13 +4,13 @@ number: "143.11"
 title: Personalverordnung
 short: PersV
 language: de
-version: 2021-08-01
-valid_until: 2021-09-30
-version_adopted: 2021-06-22
+version: 2021-10-01
+valid_until: 2022-06-30
+version_adopted: 2021-06-29
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3382/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3383/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3382/pdf_file"
 
 (PersV)
 
-vom 13.12.2011 (Stand 01.08.2021)
+vom 13.12.2011 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -1103,7 +1103,7 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Die Inkonvenienzentschädigungen nach Abs. 1 Bst. a dieser Bestimmung werden in Form eines Lohnzuschlags nach Anhang 3 zu diesem Erlass ausgerichtet.
 
-<sup>3</sup> Das Baudepartement regelt im Einvernehmen mit dem Personalamt die Inkonvenienzentschädigungen nach Abs. 1 Bst. b und c dieser Bestimmung.
+<sup>3</sup> Das Bau- und Umweltdepartement regelt im Einvernehmen mit dem Personalamt die Inkonvenienzentschädigungen nach Abs. 1 Bst. b und c dieser Bestimmung.
 
 #### Art. 91
 
