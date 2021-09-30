@@ -4,20 +4,22 @@ number: "412.111"
 title: Verordnung zum Schulgesetz
 short: Schulverordnung; SchulV
 language: de
-version: 2019-08-01
-valid_until: 2021-09-30
-version_adopted: 2017-03-28
+version: 2021-10-01
+valid_until: 2023-12-31
+version_adopted: 2021-09-21
 adopted: 1992-07-07
 in_force: 1992-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.111"
-pdf: "https://bgs.zg.ch/api/de/versions/1994/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2262/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Schulgesetz
 
-Vom 7. Juli 1992 (Stand 1. August 2019)
+(Schulverordnung; SchulV)
+
+Vom 7. Juli 1992 (Stand 1. Oktober 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -270,45 +272,53 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Für jede Gemeinde ist vom Gemeinderat ein Schularzt zu bezeichnen, der die gemeindlichen Kindergärten und Schulen ärztlich zu betreuen hat.
+<sup>1</sup> Für jede Gemeinde ist vom Gemeinderat und für jede Privatschule ist von deren Trägerschaft unter Mitteilung an die Direktion für Bildung und Kultur ein Schularzt zu bezeichnen, der die freiwilligen Kindergärten und die Schulen im Bereich der obligatorischen Schulzeit ärztlich zu betreuen hat.
 
-<sup>2</sup> Der Schularzt koordiniert seine Tätigkeit mit dem Rektorat. Fachtechnischer Vorgesetzter ist der Kantonsarzt.
+<sup>2</sup> Der Schularzt koordiniert seine Tätigkeit mit dem Rektorat bzw. mit der Schulleitung der Privatschule.
 
-<sup>3</sup> Er untersteht der amtlichen Schweigepflicht. Die Wahrung des ärztlichen Berufsgeheimnisses bleibt in jedem Fall vorbehalten.
+<sup>3</sup> …
 
 <sup>4</sup> Als Schulärzte sind nur Ärzte wählbar, die im Besitze der Berufsausübungsbewilligung der Gesundheitsdirektion sind.
+
+<sup>5</sup> Die Direktion für Bildung und Kultur teilt der Gesundheitsdirektion die Namen der Schulärzte der gemeindlichen und privaten Schulen mit.
+
+#### § 12a
+
+**Fachtechnische Aufsicht**
+
+<sup>1</sup> Fachtechnischer Vorgesetzter der Schulärzte ist der Kantonsarzt.
+
+<sup>2</sup> Der Schularzt erstattet dem Kantonsarzt jährlich einen Tätigkeitsbericht. Die Gesundheitsdirektion ist für die Eingangskontrolle und Auswertung der Tätigkeitsberichte zuständig.
 
 #### § 13
 
 **Aufgaben**
 
-<sup>1</sup> Der Schularzt hat folgende Aufgaben:
+<sup>1</sup> Der Schularzt:
 
-- a) er berät die Schulbehörden und die Lehrerschaft in allen die Schule belangenden Fragen der Gesundheitspflege und der Präventivmedizin;
-- b) er überwacht den Gesundheitszustand aller Schüler und untersucht zu diesem Zweck die Kindergartenschüler unmittelbar vor dem Übertritt in die Primarstufe und die übrigen Schüler im 4. und 9. Schuljahr. Das Untersuchungsergebnis ist in die ärztliche Schülerkarte einzutragen. Die Gemeinden regeln deren Aufbewahrung. Beim Schulaustritt ist die Karte auf Verlangen den Erziehungsberechtigten zuzustellen oder zu vernichten;
-- c) er orientiert die Erziehungsberechtigten über festgestellte Mängel oder Krankheiten, die eine ärztliche Behandlung, Überwachung oder weitere Abklärung als notwendig erscheinen lassen;
-- d) in besonderen Fällen untersucht er auf Antrag des Schulpsychologischen Dienstes, eines Psychiaters, der Kindes- und Erwachsenenschutzbehörde (KESB), einer Fürsorgeinstitution oder einer Lehrperson einzelne Schüler auch ausserhalb der ordentlichen generellen Kontrolle;
-- e) er führt Impfungen und ausserordentliche Untersuchungen nach Weisungen der Gesundheitsdirektion durch.
+- a) berät Schulbehörden, Trägerschaften von Privatschulen, die Lehrerschaft, die Erziehungsberechtigten sowie die Schülerinnen und Schüler in allen die Schule belangenden Fragen der Gesundheitspflege sowie der Sozial- und Präventivmedizin;
+- b) überwacht den Gesundheitszustand aller Schüler. Zu diesem Zweck finden gemäss den Weisungen der Gesundheitsdirektion Untersuchungen zu geeigneten Zeitpunkten statt. Das Untersuchungsergebnis ist in die ärztliche Schülerkarte einzutragen. Die Gemeinden und Privatschulen regeln deren Aufbewahrung. Beim Schulaustritt ist die Karte auf Verlangen den Erziehungsberechtigten zuzustellen oder zu vernichten;
+- c) orientiert die Erziehungsberechtigten sowie die Schülerinnen und Schüler über Krankheiten, die eine ärztliche Behandlung, Überwachung oder weitere Abklärung als notwendig erscheinen lassen;
+- d) wirkt bei epidemiologischen Abklärungen und Massnahmen des Kantonsärztlichen Dienstes in den Schulen mit oder führt diese in dessen Auftrag durch.
+- e) …
 
-<sup>2</sup> Der Schularzt erstattet nach Ende eines Schuljahres der gemeindlichen Schulbehörde und dem Kantonsarzt zuhanden der Direktion für Bildung und Kultur einen Tätigkeitsbericht.
+<sup>2</sup> …
+
+<sup>3</sup> Der Schularzt untersteht dem Amts- und Berufsgeheimnis.
 
 #### § 14
 
-**Privatschulen**
-
-<sup>1</sup> Privatschulen sind verpflichtet, ebenfalls einen Schularzt-Dienst wie an den öffentlich-rechtlichen Schulen zu organisieren.
-
-<sup>2</sup> Diese Schulen bezeichnen ihren Schularzt unter Mitteilung an die Gesundheitsdirektion und die Direktion für Bildung und Kultur selber.
-
-<sup>3</sup> Der Schularzt erstattet jährlich dem Kantonsarzt zuhanden der Direktion für Bildung und Kultur einen Tätigkeitsbericht.
+**…**
 
 #### § 14a
 
 **Privatschulung**
 
-<sup>1</sup> Die Erziehungsberechtigten haben einen Arzt mit den Aufgaben gemäss § 13 Abs. 1 und 2 zu beauftragen.
+<sup>1</sup> Die Erziehungsberechtigten haben einen Arzt gemäss § 12a Abs. 2 mit den Aufgaben gemäss § 13 Abs. 1 zu beauftragen.
 
-<sup>2</sup> Sie teilen der Gesundheitsdirektion und der Direktion für Bildung und Kultur mit, welcher Arzt beauftragt ist.
+<sup>2</sup> Sie teilen der Direktion für Bildung und Kultur mit, welcher Arzt beauftragt ist.
+
+<sup>3</sup> Der Arzt erstattet dem Kantonsarzt jährlich einen Tätigkeitsbericht.
 
 ### 3.2. Schulzahnarzt-Dienst
 
@@ -316,7 +326,7 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Jede Gemeinde organisiert für die Kindergartenschüler und die schulpflichtigen Kinder, deren Erziehungsberechtigte in der Gemeinde Wohnsitz haben, einen Schulzahnarzt-Dienst.
+<sup>1</sup> Jede Gemeinde organisiert für die Kinder im Bereich des freiwilligen Kindergartens und der obligatorischen Schulzeit, deren Erziehungsberechtigte in der Gemeinde Wohnsitz haben, einen Schulzahnarzt-Dienst.
 
 <sup>2</sup> Dieser umfasst:
 
@@ -330,11 +340,19 @@ beschliesst:
 
 **Finanzielles**
 
-<sup>1</sup> Die Gemeinden leisten Beiträge, unter Berücksichtigung der finanziellen Verhältnisse der Erziehungsberechtigten, für konservierende Behandlungen bis zum Abschluss des 9. Schuljahres und für kieferorthopädische Fälle bis längstens zwei Jahre nach Abschluss der obligatorischen Schulzeit.
+<sup>1</sup> Die Gemeinden leisten Beiträge, unter Berücksichtigung der finanziellen Verhältnisse der Erziehungsberechtigten, für konservierende Behandlungen bis zum Abschluss der obligatorischen Schulzeit und für kieferorthopädische Fälle bis längstens zwei Jahre nach Abschluss der obligatorischen Schulzeit.
 
 #### § 17
 
 **…**
+
+#### § 17a
+
+**Organisation**
+
+<sup>1</sup> Die Gemeinde teilt die Namen der Schulzahnärzte der Direktion für Bildung und Kultur mit. Diese leitet jene Namen der Gesundheitsdirektion weiter.
+
+<sup>2</sup> Die fachtechnische Aufsicht über den Schulzahnarzt-Dienst liegt bei der Gesundheitsdirektion.
 
 ## 4. Kantonale Schuldienste
 
