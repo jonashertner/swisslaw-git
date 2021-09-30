@@ -3,20 +3,20 @@ canton: SG
 number: "651.11"
 title: Verordnung zum Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 language: de
-version: 2020-06-01
-valid_until: 2021-09-30
-version_adopted: 2020-05-12
+version: 2021-10-01
+valid_until: 2022-04-30
+version_adopted: 2021-06-29
 adopted: 1999-12-07
 in_force: 2000-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/651.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2958/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3232/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 
-vom 07.12.1999 (Stand 01.06.2020)
+vom 07.12.1999 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -436,7 +436,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Der Kanton fördert bei seinen Tätigkeiten die Verwendung von Holz als Bau- und Werkstoff sowie als Energieträger.
 
-<sup>2</sup> Bei der Planung eigener oder von ihm subventionierter Bauten prüft er Möglichkeiten zur Verwendung einheimischen Holzes. Er berücksichtigt dabei die Richtlinie des Baudepartementes zur ökologischen Vorbildfunktion der öffentlichen Hand bei Bauten.
+<sup>2</sup> Bei der Planung eigener oder von ihm subventionierter Bauten prüft er Möglichkeiten zur Verwendung einheimischen Holzes. Er berücksichtigt dabei die Richtlinie des Bau- und Umweltdepartementes zur ökologischen Vorbildfunktion der öffentlichen Hand bei Bauten.
 
 [^35-1]: Art. [29](https://www.gesetzessammlung.sg.ch/data/651.1/de/art29.) EG zur eidgenössischen Waldgesetzgebung, sGS [651.1](https://www.gesetzessammlung.sg.ch/data/651.1/de).
 
