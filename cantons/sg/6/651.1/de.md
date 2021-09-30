@@ -3,20 +3,20 @@ canton: SG
 number: "651.1"
 title: Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 language: de
-version: 2016-04-01
-valid_until: 2021-09-30
-version_adopted: 2014-11-18
+version: 2021-10-01
+valid_until: 2023-06-30
+version_adopted: 2021-06-15
 adopted: 1998-11-29
 in_force: 2000-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/651.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2057/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3265/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 
-vom 29.11.1998 (Stand 01.04.2016)
+vom 29.11.1998 (Stand 01.10.2021)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -231,7 +231,7 @@ als Gesetz:[^ingress-5]
 
 **Einschränkungen**
 
-<sup>1</sup> Die für den Wald zuständige Stelle des Kantons verfügt über die Notwendigkeit von Zäunen, die im Wald stehen oder die Zugänglichkeit des Waldes für die Allgemeinheit einschränken. Sie holt vorgängig eine Stellungnahme der für die Jagd zuständigen Stelle des Kantons ein.
+<sup>1</sup> Die für den Wald zuständige Stelle des Kantons verfügt über die Notwendigkeit von Zäunen, die im Wald stehen oder die Zugänglichkeit des Waldes für die Allgemeinheit oder für wildlebende Tiere einschränken. Vorbehalten bleiben die Bestimmungen der Jagdgesetzgebung über Zäune und Absperrungen aus Stacheldraht[^15-1] und die damit verbundene Zuständigkeit der für die Jagd zuständigen Stelle des Kantons.
 
 <sup>2</sup> Im Wald sind Reiten und Radfahren abseits von öffentlichen Strassen und Wegen verboten. Die Regierung kann das Verbot durch Verordnung lockern oder auf weitere Freizeitbetätigungen ausdehnen, wenn diese geeignet sind, die Erhaltung des Waldes zu gefährden oder seine Funktionen zu beeinträchtigen.
 
@@ -239,6 +239,8 @@ als Gesetz:[^ingress-5]
 
 - a) auf öffentlichen Strassen und Wegen ein allgemeines Fahrverbot oder ein Reitverbot verfügen;
 - b) das Skifahren im Wald verbieten.
+
+[^15-1]: [Art. 41<sup>septies</sup>](https://www.gesetzessammlung.sg.ch/data/853.1/de/art41sexies) des Jagdgesetzes vom 17. November 1994, sGS [853.1](https://www.gesetzessammlung.sg.ch/data/853.1/de).
 
 #### Art. 16
 
