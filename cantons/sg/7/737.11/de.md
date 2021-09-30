@@ -4,13 +4,12 @@ number: "737.11"
 title: Verordnung zum Gesetz über Wohnbau- und Eigentumsförderung
 short: VGWE
 language: de
-version: 1993-03-01
-valid_until: 2021-09-30
-version_adopted: 1993-01-18
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 1993-01-18
 in_force: 1993-03-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/737.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/288/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3246/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/288/pdf_file"
 
 (VGWE)
 
-vom 18.01.1993 (Stand 01.03.1993)
+vom 18.01.1993 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -36,7 +35,7 @@ als Verordnung:[^ingress-2]
 
 **Organisation a) zuständiges Departement**
 
-<sup>1</sup> Zuständiges Departement ist das Baudepartement.
+<sup>1</sup> Zuständiges Departement ist das Bau- und Umweltdepartement.
 
 #### Art. 2
 
