@@ -3,20 +3,20 @@ canton: SG
 number: "413.11"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Zivilschutz
 language: de
-version: 2020-06-01
-valid_until: 2021-09-30
-version_adopted: 2020-03-24
+version: 2021-10-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-29
 adopted: 1996-10-01
 in_force: 1997-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/413.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2940/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3228/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Zivilschutz
 
-vom 01.10.1996 (Stand 01.06.2020)
+vom 01.10.1996 (Stand 01.10.2021)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -374,7 +374,7 @@ als Verordnung:[^ingress-3]
 
 **Projektierung und Bauausführung**
 
-<sup>1</sup> Projektierung und Überwachung der Bauausführung von sanitätsdienstlichen Anlagen obliegen dem Baudepartement im Einvernehmen mit:
+<sup>1</sup> Projektierung und Überwachung der Bauausführung von sanitätsdienstlichen Anlagen obliegen dem Bau- und Umweltdepartement im Einvernehmen mit:
 
 - a) der Spitalträgerschaft bei geschützten Spitälern;
 - b) der Spitalträgerschaft und der Standortgemeinde bei Sanitätsstellen.
