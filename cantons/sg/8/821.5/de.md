@@ -5,12 +5,12 @@ title: Gebührentarif für die Kantons- und Gemeindeverwaltung
 short: GebT
 language: de
 version: 2021-10-01
-valid_until: 2023-12-31
+corrected: 2021-10-01
 version_adopted: 2021-06-29
 adopted: 2000-05-02
 in_force: 2000-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/821.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3267/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3260/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gebührentarif für die Kantons- und Gemeindeverwaltung
 
-vom 2.Mai 2000 (Stand 1. Oktober 2021)[^t-1]
+vom 2.Mai 2000 (Stand 1. Januar 2021)[^t-1]
 
 Die Regierung des Kantons St.Gallen
 
@@ -37,7 +37,7 @@ nGS 35–25 I.
 [^t-1]: Fassung gemäss II.Nachtrag.
 [^t-2]: sGS 951.1.
 [^t-3]: sGS 821.1.
-[^t-4]: nGS 35–25; nGS 38–86; nGS 42–139. In Vollzug ab 1.Juli 2000. Geändert durch Abschnitt II des Nachtrags zur StPV vom 14.Mai 2002, nGS 37–53 (sGS 962.11); Abschnitt II des II.Nachtrags zur Bürgerrechtsverordnung vom 2.März 2002, nGS 37–74 (sGS 121.11); Ab schnitt III des Nachtrags zur GSchVV vom 2.Juli 2002, nGS 37–97 (sGS 752.21); Art.6 der V zur Bundesgesetzgebung über die Ausweise für Schweizer Staatsangehörige vom 17.De zember 2002, nGS 38–12 (sGS 453.31); Nachtrag vom 14.Januar 2003, nGS 38–24; Art.2 der V zur Bundesgesetzgebung über das Gewerbe der Reisenden vom 4.Februar 2003, nGS 38–34 (sGS 552.21); II.Nachtrag vom 24.Juni 2003, nGS 38–75; Art.18 der V zur Bundesgesetz gebung über den Konsumkredit vom 2.Dezember 2003, nGS 39–23 (sGS 556.11); Art.16 der V über private Betagten und Pflegeheime vom 3.Februar 2004, nGS 39–41 (sGS 381.18); Art.11 der V zum G über Ruhetag und Ladenöffnung vom 17.August 2004, nGS 39–89 (sGS 552.11); Art.12 der V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsauf gaben vom 14.Dezember 2004, nGS 40–14 (sGS 451.14); Abschnitt II Ziff.2 des II.Nach trags der JV vom 6.Dezember 2004, nGS 40–18 (sGS 853.11); Art.17 ZStV vom 14.Juni 2005, nGS 40–62 (sGS 912.1); III.Nachtrag vom 15.November 2005, nGS 41–20; IV.Nachtrag vom 4.Juli 2006, nGS 41–61; Abschnitt II Ziff.2 des X.Nachtrags zur EV zum Schweizeri schen Zivilgesetzbuch vom 13.Februar 2007, nGS 42–54 (sGS 911.11); Abschnitt II Ziff.53 des VI.Nachtrags zum GeschR vom 30.Oktober 2007, nGS 42–101 (sGS 141.3); Art.7 der V zum EG zur eidg Chemikaliengesetzgebung vom 20.November 2007, nGS 43–28 (sGS 672.51); V.Nachtrag vom 11.März 2008, nGS 43–74; Abschnitt II des III.Nachtrags zur ZPV vom 11.März 2008, nGS 43–80 (sGS 961.21); VI.Nachtrag vom 9.Dezember 2008, nGS 44–30; Ziff.II des VI.Nachtrags zur StPV vom 18.November 2008, nGS 44–35 (sGS 962.11); VII.Nachtrag vom 26.Mai 2009, nGS 44–90; VIII.Nachtrag vom 9.Februar 2010, nGS 45–41; Art.15 BRV vom 19.Oktober 2010, nGS 45–82 (sGS 121.11); Abschnitt III des II.Nachtrags zur GSchVV vom 7.Dezember 2010, nGS 46–31 (sGS 752.21); Art.42 StPV vom 23.Novem ber 2010, nGS 46–46 (sGS 962.11); Art.29 der V zum EG USG vom 13.Dezember 2011, nGS 47–22 (sGS 672.11); Art.18 der Statistikverordnung vom 19.Juni 2012, nGS 47–83 (sGS 146.11); Art.20 der VESB vom 11.Dezember 2012, nGS 48–47 (sGS 912.51); Art.13 VGE vom 11.Dezember 2012, nGS 48–37 (sGS 381.11); Art.53 BehV vom 11.Dezember 2012, nGS 48–38 (sGS 381.41); IX.Nachtrag vom 11.Juni 2013, nGS 2013 008; Art.6 der V über die kantonale Einwohnerdatenplattform vom 8.Oktober 2013, nGS 2013 016 (sGS 453.11); X.Nachtrag vom 3.Dezember 2013, nGS 2014 024; Abschnitt II des Nachtrags zur V über die
+[^t-4]: nGS 35–25; nGS 38–86; nGS 42–139. In Vollzug ab 1.Juli 2000. Geändert durch Abschnitt II des Nachtrags zur StPV vom 14.Mai 2002, nGS 37–53 (sGS 962.11); Abschnitt II des II.Nachtrags zur Bürgerrechtsverordnung vom 2.März 2002, nGS 37–74 (sGS 121.11); Ab schnitt III des Nachtrags zur GSchVV vom 2.Juli 2002, nGS 37–97 (sGS 752.21); Art.6 der V zur Bundesgesetzgebung über die Ausweise für Schweizer Staatsangehörige vom 17.De zember 2002, nGS 38–12 (sGS 453.31); Nachtrag vom 14.Januar 2003, nGS 38–24; Art.2 der V zur Bundesgesetzgebung über das Gewerbe der Reisenden vom 4.Februar 2003, nGS 38–34 (sGS 552.21); II.Nachtrag vom 24.Juni 2003, nGS 38–75; Art.18 der V zur Bundesgesetz gebung über den Konsumkredit vom 2.Dezember 2003, nGS 39–23 (sGS 556.11); Art.16 der V über private Betagten und Pflegeheime vom 3. Februar 2004, nGS 39–41 (sGS 381.18); Art.11 der V zum G über Ruhetag und Ladenöffnung vom 17.August 2004, nGS 39–89 (sGS 552.11); Art.12 der V über die Ausübung von Bewachungs , Ordnungs und Sicherheitsauf gaben vom 14.Dezember 2004, nGS 40–14 (sGS 451.14); Abschnitt II Ziff.2 des II.Nach trags der JV vom 6.Dezember 2004, nGS 40–18 (sGS 853.11); Art.17 ZStV vom 14.Juni 2005, nGS 40–62 (sGS 912.1); III.Nachtrag vom 15.November 2005, nGS 41–20; IV.Nachtrag vom 4.Juli 2006, nGS 41–61; Abschnitt II Ziff.2 des X.Nachtrags zur EV zum Schweizeri schen Zivilgesetzbuch vom 13.Februar 2007, nGS 42–54 (sGS 911.11); Abschnitt II Ziff.53 des VI.Nachtrags zum GeschR vom 30.Oktober 2007, nGS 42–101 (sGS 141.3); Art.7 der V zum EG zur eidg Chemikaliengesetzgebung vom 20.November 2007, nGS 43–28 (sGS 672.51); V.Nachtrag vom 11.März 2008, nGS 43–74; Abschnitt II des III.Nachtrags zur ZPV vom 11.März 2008, nGS 43–80 (sGS 961.21); VI.Nachtrag vom 9.Dezember 2008, nGS 44–30; Ziff.II des VI.Nachtrags zur StPV vom 18.November 2008, nGS 44–35 (sGS 962.11); VII.Nachtrag vom 26.Mai 2009, nGS 44–90; VIII.Nachtrag vom 9.Februar 2010, nGS 45–41; Art.15 BRV vom 19.Oktober 2010, nGS 45–82 (sGS 121.11); Abschnitt III des II.Nachtrags zur GSchVV vom 7.Dezember 2010, nGS 46–31 (sGS 752.21); Art.42 StPV vom 23.Novem ber 2010, nGS 46–46 (sGS 962.11); Art.29 der V zum EG USG vom 13.Dezember 2011, nGS 47–22 (sGS 672.11); Art.18 der Statistikverordnung vom 19.Juni 2012, nGS 47–83 (sGS 146.11); Art.20 der VESB vom 11.Dezember 2012, nGS 48–47 (sGS 912.51); Art.13 VGE vom 11.Dezember 2012, nGS 48–37 (sGS 381.11); Art.53 BehV vom 11.Dezember 2012, nGS 48–38 (sGS 381.41); IX.Nachtrag vom 11.Juni 2013, nGS 2013 008; Art.6 der V über die kantonale Einwohnerdatenplattform vom 8.Oktober 2013, nGS 2013 016 (sGS 453.11); X.Nachtrag vom 3.Dezember 2013, nGS 2014 024; Abschnitt II des Nachtrags zur V über die
 [^t-5]: Die Gebühren verstehen sich ohne Mehrwertsteuer. Sofern eine Gebührenposition der Mehrwert steuer unterliegt, wird die Gebühr um den Steuerbetrag erhöht.
 
 ### ERSTER TEIL: Nr. ALLGEMEINE GEBÜHREN
