@@ -3,20 +3,20 @@ canton: SG
 number: "532.91"
 title: Vollzugsverordnung zum Grossratsbeschluss über die Förderung der Erneuerung von Altwohnungen
 language: de
-version: 1976-11-01
-valid_until: 2021-09-30
-version_adopted: 1976-10-05
+version: 2021-10-01
+valid_until: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 1976-10-05
 in_force: 1976-11-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/532.91"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/211/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3231/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Grossratsbeschluss über die Förderung der Erneuerung von Altwohnungen
 
-vom 05.10.1976 (Stand 01.11.1976)
+vom 05.10.1976 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -75,9 +75,9 @@ als Verordnung:[^ingress-2]
 
 **Beitragsgesuche**
 
-<sup>1</sup> Gesuche um Staatsbeiträge sind auf dem vom Baudepartement herausgegebenen Formular dem Gemeinderat einzureichen.
+<sup>1</sup> Gesuche um Staatsbeiträge sind auf dem vom Bau- und Umweltdepartement herausgegebenen Formular dem Gemeinderat einzureichen.
 
-<sup>2</sup> Der Gemeinderat prüft die Gesuche und leitet sie mit seinem Antrag und mit seinem Entscheid über die Gewährung eines Gemeindebeitrages[^5-1] an das Baudepartement weiter.
+<sup>2</sup> Der Gemeinderat prüft die Gesuche und leitet sie mit seinem Antrag und mit seinem Entscheid über die Gewährung eines Gemeindebeitrages[^5-1] an das Bau- und Umweltdepartement weiter.
 
 [^5-1]: Art. [6](https://www.gesetzessammlung.sg.ch/data/532.9/de/art6) Abs. 2 des GRB über die Förderung der Erneuerung von Altwohnungen, sGS [532.9](https://www.gesetzessammlung.sg.ch/data/532.9/de).
 
@@ -85,7 +85,7 @@ als Verordnung:[^ingress-2]
 
 **Beitragsverfügung**
 
-<sup>1</sup> Die Verfügung des Baudepartementes über die Gewährung eines Staatsbeitrages wird dem Gesuchsteller und dem Gemeinderat eröffnet.
+<sup>1</sup> Die Verfügung des Bau- und Umweltdepartementes über die Gewährung eines Staatsbeitrages wird dem Gesuchsteller und dem Gemeinderat eröffnet.
 
 #### Art. 7
 
@@ -95,7 +95,7 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Der Gemeinderat veranlasst die Prüfung der Bauabrechnung und die Besichtigung der ausgeführten Bauarbeiten.
 
-<sup>3</sup> Er leitet die geprüfte Bauabrechnung an das Baudepartement weiter.
+<sup>3</sup> Er leitet die geprüfte Bauabrechnung an das Bau- und Umweltdepartement weiter.
 
 #### Art. 8
 
