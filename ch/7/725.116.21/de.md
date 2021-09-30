@@ -4,11 +4,11 @@ title: Verordnung vom 7. November 2007 über die Verwendung der zweckgebundenen 
 short: MinVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/797"
 language: de
-version: 2020-01-01
+version: 2021-10-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2007-797-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2007-797-20211001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20200101/de"
 
 (MinVV)[^t-1]
 
-vom 7. November 2007 (Stand am 1. Januar 2020)
+vom 7. November 2007 (Stand am 1. Oktober 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
@@ -299,18 +299,21 @@ Das UVEK legt die Anforderungen an die Agglomerationsprogramme fest und regelt i
 
 #### Art. 19
 
-**Beitragsberechtigte Städte und Agglomerationen**
+**Beitragsberechtigte Städte und Agglomerationen und dazugehörige Gemeinden**[^19-1]
 
 <sup>1</sup> Die beitragsberechtigten Städte und Agglomerationen nach Artikel 17*b* Absatz 2 MinVG sind in Anhang 4 festgelegt.
 
-<sup>2</sup> Beitragsberechtigt sind auch ganz oder teilweise ausserhalb einer Stadt oder Agglomeration liegende Teile von Massnahmen beziehungsweise von Massnahmenpaketen, wenn deren Nutzen grösstenteils innerhalb der angrenzenden Agglomeration oder Agglomerationen anfällt.
+<sup>2</sup> Das UVEK legt die Gemeinden fest, die zu einer beitragsberechtigten Stadt oder Agglomeration gehören (beitragsberechtigte Gemeinden). Es dürfen nur Gemeinden als beitragsberechtigt festgelegt werden, die das Erfordernis der räumlichen Kohärenz mit einer beitragsberechtigten Stadt oder Agglomeration erfüllen.
 
-<sup>3</sup> Fusionieren mehrere Gemeinden, die alle in Anhang 4 aufgeführt sind, zu einer neuen Gemeinde, so gilt die neu gebildete Gemeinde als beitragsberechtigt. Fusioniert eine Gemeinde, die in Anhang 4 aufgeführt ist, mit einer Gemeinde, die nicht in Anhang 4 aufgeführt ist, so entscheidet das UVEK darüber, ob die neu gebildete Gemeinde beitragsberechtigt ist, und passt Anhang 4 entsprechend an.[^19-1]
+<sup>3</sup> Beitragsberechtigte Städte und Agglomerationen erhalten Beiträge auch für ganz oder teilweise ausserhalb von ihnen liegende Teile von Massnahmen oder Massnahmenpaketen, wenn deren Nutzen grösstenteils innerhalb der angrenzenden Stadt oder Agglomeration anfällt und diese ebenfalls beitragsberechtigt ist.
 
-<sup>4</sup> Fusioniert eine Gemeinde, die in Anhang 4 aufgeführt ist, während der Erarbeitung oder Prüfung eines Agglomerationsprogramms mit einer Gemeinde, die nicht in Anhang 4 aufgeführt ist, so bleibt die Beitragsberechtigung für dieses Agglomerationsprogramm bestehen.[^19-2]
+<sup>4</sup> Fusionieren mehrere beitragsberechtigte Gemeinden zu einer neuen Gemeinde, so gilt die neu gebildete Gemeinde als beitragsberechtigt.
 
-[^19-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^19-2]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+<sup>5</sup> Fusioniert eine beitragsberechtigte Gemeinde mit einer nicht beitragsberechtigten Gemeinde, so legt das UVEK fest, ob die neu gebildete Gemeinde als beitragsberechtigt gilt.
+
+<sup>6</sup> Fusioniert eine beitragsberechtigte Gemeinde während der Erarbeitung oder Prüfung eines Agglomerationsprogramms mit einer nicht beitragsberechtigten Gemeinde, so bleibt die Gemeinde für dieses Agglomerationsprogramm beitragsberechtigt.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 512](https://fedlex.data.admin.ch/eli/oc/2021/512)).
 
 #### Art. 20
 
@@ -386,13 +389,13 @@ Die Beteiligung des Bundes an den Agglomerationsprogrammen beträgt, abhängig v
 
 <sup>2</sup> In der Leistungsvereinbarung sind insbesondere zu regeln: umzusetzende Massnahmen und Massnahmenpakete, Zeitplan, Bundesbeitrag, Anforderungen an die Berichterstattung, Zuständigkeiten und Verantwortlichkeiten, Anpassungsmodalitäten, Regelungen bei Nichterfüllung der Vereinbarung sowie Geltungsdauer.
 
-<sup>3</sup> …[^24-1]
+<sup>3</sup> ...[^24-1]
 
 <sup>4</sup> Gestützt auf die Leistungsvereinbarung vereinbart das zuständige Bundesamt mit der Trägerschaft die Auszahlungsmodalitäten für die baureifen Massnahmen in der Finanzierungsvereinbarung. Es kann mit der Trägerschaft vereinbaren, dass diese die Massnahmen realisiert und der Bundesbeitrag später ausgerichtet wird (Vorfinanzierung durch die Trägerschaft). Die Massnahmen mit pauschalem Bundesbeitrag müssen zum Zeitpunkt des Abschlusses der Finanzierungsvereinbarung noch nicht baureif sein.[^24-2]
 
 <sup>5</sup> Geht die Zahlung an ein Unternehmen im Sinne des Eisenbahngesetzes vom 20. Dezember 1957[^24-3], so können bedingt rückzahlbare, zinslose Darlehen gewährt werden.
 
-<sup>6</sup> …[^24-4]
+<sup>6</sup> ...[^24-4]
 
 [^24-1]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 [^24-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
@@ -572,16 +575,16 @@ Folgende Verordnungen werden aufgehoben:
 - 5\. Verkehrstrennungsverordnung vom 6. November 1991[^34-5].
 
 [^34-1]: [[AS 1965 1009](https://fedlex.data.admin.ch/eli/oc/1965/1009_1021_1007)]
-[^34-2]: [[AS 1987 725](https://fedlex.data.admin.ch/eli/oc/1987/725_725_725)[1278](https://fedlex.data.admin.ch/eli/oc/1987/1278_1278_1278), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)[3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 6 Bst. a, [1999 2204](https://fedlex.data.admin.ch/eli/oc/1999/349)Ziff. II [2387](https://fedlex.data.admin.ch/eli/oc/1999/364)Ziff. I 3]
-[^34-3]: [[AS 1990 695](https://fedlex.data.admin.ch/eli/oc/1990/695_695_695), [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 6 Bst. b, [1997 1586](https://fedlex.data.admin.ch/eli/oc/1997/1586_1586_1586), [2004 4623](https://fedlex.data.admin.ch/eli/oc/2004/706)Ziff. II]
-[^34-4]: [[AS 1985 1967](https://fedlex.data.admin.ch/eli/oc/1985/1967_1967_1967), [1995 1327](https://fedlex.data.admin.ch/eli/oc/1995/1327_1327_1327), [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 6 Bst. c]
-[^34-5]: [[AS 1991 2404](https://fedlex.data.admin.ch/eli/oc/1991/2404_2404_2404), [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 6 Bst. d, [1997 1599](https://fedlex.data.admin.ch/eli/oc/1997/1599_1599_1599), [2004 4625](https://fedlex.data.admin.ch/eli/oc/2004/707)]
+[^34-2]: [[AS 1987 725](https://fedlex.data.admin.ch/eli/oc/1987/725_725_725), [1278](https://fedlex.data.admin.ch/eli/oc/1987/1278_1278_1278); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243), [3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 6 Bst. a; [1999 2204](https://fedlex.data.admin.ch/eli/oc/1999/349)Ziff. II, [2387](https://fedlex.data.admin.ch/eli/oc/1999/364)Ziff. I 3]
+[^34-3]: [[AS 1990 695](https://fedlex.data.admin.ch/eli/oc/1990/695_695_695); [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 6 Bst. b; [1997 1586](https://fedlex.data.admin.ch/eli/oc/1997/1586_1586_1586); [2004 4623](https://fedlex.data.admin.ch/eli/oc/2004/706)Ziff. II]
+[^34-4]: [[AS 1985 1967](https://fedlex.data.admin.ch/eli/oc/1985/1967_1967_1967); [1995 1327](https://fedlex.data.admin.ch/eli/oc/1995/1327_1327_1327); [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 6 Bst. c]
+[^34-5]: [[AS 1991 2404](https://fedlex.data.admin.ch/eli/oc/1991/2404_2404_2404); [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)Anhang Ziff. 6 Bst. d; [1997 1599](https://fedlex.data.admin.ch/eli/oc/1997/1599_1599_1599); [2004 4625](https://fedlex.data.admin.ch/eli/oc/2004/707)]
 
 #### Art. 35
 
 **Änderung bisherigen Rechts**
 
-…[^35-1]
+...[^35-1]
 
 [^35-1]: Die Änd. kann unter [AS 2007 5987](https://fedlex.data.admin.ch/eli/oc/2007/797)konsultiert werden.
 
@@ -640,7 +643,7 @@ Legende:
 - H = Hauptstrasse
 - (#) = Landesgrenze/Kantonsgrenze #
 - (N1//H4) = Verzweigung/Anschluss Nationalstrasse//Knoten Hauptstrasse
-- (…) = Streckenunterbruch
+- (...) = Streckenunterbruch
 - g (S/V) = Durchschnittliches Gewicht Verkehrsstärke
 - g (T/H) = Durchschnittliches Gewicht Höhenlage und Bergstrassencharakter
 
@@ -654,8 +657,8 @@ Legende:
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>2.10</td></tr>
 <tr><td>BE</td><td>1</td><td>Kirchberg (N1)–Langenthal–Aegerten– (AG).</td><td>29,68</td><td>2,22</td><td>4,47</td><td>198,59</td></tr>
 <tr><td></td><td>6</td><td>Unterbach (N8)–Meiringen (H226)–Innertkirchen (H11)–Handegg–Grimselpass–(VS).</td><td>39,01</td><td>2,00</td><td>10,46</td><td>486,11</td></tr>
-<tr><td></td><td>10</td><td>Ins (N20)–Müntschemier–(FR)–(…)–Muri (N6)–Langnau–Trubschachen–(LU)–(…)–(LU)–Kröschenbrunnen–(LU).</td><td>39,78</td><td>2,24</td><td>5,10</td><td>291.91</td></tr>
-<tr><td></td><td>11</td><td>(VD)–Saanen–Zweisimmen–Boltingen (H219)–Reidenbach Wimmis (N6)–(…)–Innertkirchen (H6)–Gadmen–Sustenpass–(UR).</td><td>74,12</td><td>2,04</td><td>10,45</td><td>926,20</td></tr>
+<tr><td></td><td>10</td><td>Ins (N20)–Müntschemier–(FR)–(...)–Muri (N6)–Langnau–Trubschachen–(LU)–(...)–(LU)–Kröschenbrunnen–(LU).</td><td>39,78</td><td>2,24</td><td>5,10</td><td>291.91</td></tr>
+<tr><td></td><td>11</td><td>(VD)–Saanen–Zweisimmen–Boltingen (H219)–Reidenbach Wimmis (N6)–(...)–Innertkirchen (H6)–Gadmen–Sustenpass–(UR).</td><td>74,12</td><td>2,04</td><td>10,45</td><td>926,20</td></tr>
 <tr><td></td><td>219</td><td>Boltigen (H11)–Jaunpass–(FR).</td><td>10,57</td><td>2,00</td><td>12,53</td><td>153,66</td></tr>
 <tr><td></td><td>226</td><td>Brünigpass (N8)–Hausen–Meiringen (H6).</td><td>6,62</td><td>2,00</td><td>7,47</td><td>62,69</td></tr>
 <tr><td></td><td>18</td><td>(NE)–La Cibourg–(JU).</td><td>4,30</td><td>2,03</td><td>8,71</td><td>46,22</td></tr>
@@ -664,20 +667,20 @@ Legende:
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>10,89</td></tr>
 <tr><td>LU</td><td>2</td><td>Luzern-Kriens (N2)–Luzern-Pilatusplatz (H4)–Meggen–(SZ).</td><td>10,44</td><td>3.07</td><td>4.32</td><td>77,20</td></tr>
 <tr><td></td><td>4</td><td>Luzern-Zentrum (N2)–Luzern-Pilatusplatz (H2).</td><td>0,30</td><td>2,80</td><td>4,00</td><td>2,05</td></tr>
-<tr><td></td><td>10</td><td>(BE)–Dürrenbach–(BE)–(…)–(BE)–Wiggen–Schüpfheim–Wohlhusen–Werthenstein–Malters–Emmen-Süd (N2).</td><td>48,51</td><td>2,26</td><td>5,45</td><td>374,03</td></tr>
+<tr><td></td><td>10</td><td>(BE)–Dürrenbach–(BE)–(...)–(BE)–Wiggen–Schüpfheim–Wohlhusen–Werthenstein–Malters–Emmen-Süd (N2).</td><td>48,51</td><td>2,26</td><td>5,45</td><td>374,03</td></tr>
 <tr><td></td><td>2b</td><td>(SZ)–Greppen–Weggis–Vitznau–(SZ).</td><td>12,19</td><td>2,00</td><td>5,64</td><td>93,04</td></tr>
 <tr><td></td><td></td><td></td><td>71,43</td><td></td><td></td><td>546,32</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>2,50</td></tr>
 <tr><td>UR</td><td>2</td><td>Flüelen (N4)–Altdorf–Erstfeld (N2).</td><td>8,01</td><td>2,20</td><td>4,71</td><td>55,34</td></tr>
 <tr><td></td><td>11</td><td>(BE)–Färnigen–Wassen (N2).</td><td>18,40</td><td>2,00</td><td>15,69</td><td>325,57</td></tr>
 <tr><td></td><td>17</td><td>(GL)–Klausenpass–Unterschächen–Altdorf (H2).</td><td>36,59</td><td>2,00</td><td>12,51</td><td>530,82</td></tr>
-<tr><td></td><td>19</td><td>(VS)–Realp–Hospental (N2)–(…)–Andermatt-Nord (N2)–(GR).</td><td>29,01</td><td>2,00</td><td>15,65</td><td>511,96</td></tr>
+<tr><td></td><td>19</td><td>(VS)–Realp–Hospental (N2)–(...)–Andermatt-Nord (N2)–(GR).</td><td>29,01</td><td>2,00</td><td>15,65</td><td>511,96</td></tr>
 <tr><td></td><td></td><td></td><td>92,00</td><td></td><td></td><td>1 423,69</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>6,52</td></tr>
 <tr><td>SZ</td><td>2</td><td>(LU)–Küssnacht–Küssnacht (N4).</td><td>6,25</td><td>2,83</td><td>5,29</td><td>50,76</td></tr>
-<tr><td></td><td>8</td><td>(SG)–Hurden–Pfäffikon (N3)–(…)–Schindellegi (N3)–Biberbrugg–Rothenthurm–Sattel–Chaltbach–Schwyz (N4).</td><td>30,18</td><td>2,98</td><td>7,14</td><td>305,47</td></tr>
+<tr><td></td><td>8</td><td>(SG)–Hurden–Pfäffikon (N3)–(...)–Schindellegi (N3)–Biberbrugg–Rothenthurm–Sattel–Chaltbach–Schwyz (N4).</td><td>30,18</td><td>2,98</td><td>7,14</td><td>305,47</td></tr>
 <tr><td></td><td>388</td><td>(ZH)–Schindellegi (H8).</td><td>2,49</td><td>2,29</td><td>6,12</td><td>20,94</td></tr>
-<tr><td></td><td>2b</td><td>Küssnacht (H2)–(LU)–(…)–(LU)–Gersau–Brunnen-Nord (N4).</td><td>15,20</td><td>2,07</td><td>7,03</td><td>138,36</td></tr>
+<tr><td></td><td>2b</td><td>Küssnacht (H2)–(LU)–(...)–(LU)–Gersau–Brunnen-Nord (N4).</td><td>15,20</td><td>2,07</td><td>7,03</td><td>138,36</td></tr>
 <tr><td></td><td>371</td><td>Goldau (N4)–Steinerberg–Sattel (H8).</td><td>11,47</td><td>2,06</td><td>5,25</td><td>83,84</td></tr>
 <tr><td></td><td></td><td></td><td>65,60</td><td></td><td></td><td>599,37</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>2,75</td></tr>
@@ -701,7 +704,7 @@ Legende:
 <tr><td></td><td></td><td></td><td>50,71</td><td></td><td></td><td>540,81</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>2,48</td></tr>
 <tr><td>SO</td><td>2</td><td>Olten (H5)–(AG).</td><td>0,89</td><td>4,98</td><td>4,01</td><td>7,98</td></tr>
-<tr><td></td><td>5</td><td>Egerkingen (N2)–Hägendorf–Olten (H2)–(…)–Olten (H2)–Schönenwerd–Wöschnau–(AG).</td><td>20,52</td><td>3,52</td><td>4,97</td><td>174,30</td></tr>
+<tr><td></td><td>5</td><td>Egerkingen (N2)–Hägendorf–Olten (H2)–(...)–Olten (H2)–Schönenwerd–Wöschnau–(AG).</td><td>20,52</td><td>3,52</td><td>4,97</td><td>174,30</td></tr>
 <tr><td></td><td>5a</td><td>Solothurn-West (N5)–Kreisel Bielstrasse.</td><td>1,69</td><td>5.18</td><td>15,10</td><td>34,33</td></tr>
 <tr><td></td><td></td><td></td><td>23,10</td><td></td><td></td><td>216,61</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>0,99</td></tr>
@@ -711,7 +714,7 @@ Legende:
 <tr><td>BL</td><td>2</td><td>Sissach (N2)–Umfahrung Sissach.</td><td>2,67</td><td>6.09</td><td>19,38</td><td>68.00</td></tr>
 <tr><td></td><td></td><td></td><td>2.67</td><td></td><td></td><td>68.00</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>0.31</td></tr>
-<tr><td>SH</td><td>13</td><td>Schaffhausen-Süd (N4)–(ZH)–(…)–(TG)–Stein a. Rhein–(TG).</td><td>1,82</td><td>2,26</td><td>5,10</td><td>13,42</td></tr>
+<tr><td>SH</td><td>13</td><td>Schaffhausen-Süd (N4)–(ZH)–(...)–(TG)–Stein a. Rhein–(TG).</td><td>1,82</td><td>2,26</td><td>5,10</td><td>13,42</td></tr>
 <tr><td></td><td>332</td><td>(D)–Ramsen–Hemishofen–(TG).</td><td>4,72</td><td>2,00</td><td>4,58</td><td>31,01</td></tr>
 <tr><td></td><td>4</td><td>(D)–Bargen–Merishausen–Schaffhausen-Schweizerbild(N4).</td><td>11.36</td><td>2.00</td><td>5.08</td><td>80.47</td></tr>
 <tr><td></td><td></td><td></td><td>17,90</td><td></td><td></td><td>124,89</td></tr>
@@ -719,15 +722,15 @@ Legende:
 <tr><td>AR</td><td>470</td><td>(SG)–Herisau (H8).</td><td>1,27</td><td>3,70</td><td>5,78</td><td>12,05</td></tr>
 <tr><td></td><td>8</td><td>(N25)–Waldstatt–(SG).</td><td>6.05</td><td>2,00</td><td>7,16</td><td>55,41</td></tr>
 <tr><td></td><td>447</td><td>(SG)–Teufen–Gais (H448).</td><td>11,14</td><td>2,22</td><td>8,74</td><td>122,09</td></tr>
-<tr><td></td><td>448</td><td>(SG)–Schwägalp–Urnäsch (H462)– (AI)–(…)–(AI)–Gais (H447).</td><td>12,94</td><td>2,00</td><td>8,96</td><td>141,76</td></tr>
+<tr><td></td><td>448</td><td>(SG)–Schwägalp–Urnäsch (H462)– (AI)–(...)–(AI)–Gais (H447).</td><td>12,94</td><td>2,00</td><td>8,96</td><td>141,76</td></tr>
 <tr><td></td><td>462</td><td>Urnäsch (H448)–Waldstatt (H8).</td><td>6,23</td><td>2,00</td><td>6,88</td><td>55,37</td></tr>
 <tr><td></td><td></td><td></td><td>37,63</td><td></td><td></td><td>386,67</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>1,77</td></tr>
 <tr><td>AI</td><td>448</td><td>(AR)–Gonten–Appenzell–(AR).</td><td>13,25</td><td>2,01</td><td>7,00</td><td>119,42</td></tr>
 <tr><td></td><td></td><td></td><td>13,25</td><td></td><td></td><td>119,42</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>0,55</td></tr>
-<tr><td>SG</td><td>8</td><td>(AR)–St. Peterzell–Lichtensteig (H16)–(…)–(H16)–Neuhaus–Eschenbach (N15)–(…)–Jona (N15)–Rapperswil–(SZ).</td><td>34,17</td><td>2,58</td><td>5,86</td><td>288,35</td></tr>
-<tr><td></td><td>16</td><td>Wil (N1)–(TG)–(…)–(TG)–Bütschwil– Lichtensteig–Neu St. Johann–Wildhaus –Gams–Buchs–Buchs (N13).</td><td>65,34</td><td>2,31</td><td>7,20</td><td>621,22</td></tr>
+<tr><td>SG</td><td>8</td><td>(AR)–St. Peterzell–Lichtensteig (H16)–(...)–(H16)–Neuhaus–Eschenbach (N15)–(...)–Jona (N15)–Rapperswil–(SZ).</td><td>34,17</td><td>2,58</td><td>5,86</td><td>288,35</td></tr>
+<tr><td></td><td>16</td><td>Wil (N1)–(TG)–(...)–(TG)–Bütschwil– Lichtensteig–Neu St. Johann–Wildhaus –Gams–Buchs–Buchs (N13).</td><td>65,34</td><td>2,31</td><td>7,20</td><td>621,22</td></tr>
 <tr><td></td><td>17</td><td>(ZH)–Kempraten–Rapperswil (N15).</td><td>3,99</td><td>3,84</td><td>4,07</td><td>31,58</td></tr>
 <tr><td></td><td>433</td><td>Gams (H16)–Haag (N13)–(FL).</td><td>3,97</td><td>2,16</td><td>4,38</td><td>25,99</td></tr>
 <tr><td></td><td>447</td><td>St. Gallen-Kreuzbleiche (N1)–(AR).</td><td>2,29</td><td>2,75</td><td>6,03</td><td>20,07</td></tr>
@@ -735,10 +738,10 @@ Legende:
 <tr><td></td><td>470</td><td>Gossau (N1)–(AR).</td><td>3,36</td><td>4,00</td><td>5,03</td><td>30,30</td></tr>
 <tr><td></td><td></td><td></td><td>123,72</td><td></td><td></td><td>1 132,75</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>5,19</td></tr>
-<tr><td>GR</td><td>3</td><td>Chur-Süd (N13)–Lenzerheide–Tiefencastel (N29)–(…)–Silvaplana (H27)–Malojapass–Castasegna–(I).</td><td>61,64</td><td>2,00</td><td>12,40</td><td>887,67</td></tr>
+<tr><td>GR</td><td>3</td><td>Chur-Süd (N13)–Lenzerheide–Tiefencastel (N29)–(...)–Silvaplana (H27)–Malojapass–Castasegna–(I).</td><td>61,64</td><td>2,00</td><td>12,40</td><td>887,67</td></tr>
 <tr><td></td><td>19</td><td>(UR)–Disentis–Flims–Reichenau (N13).</td><td>71,71</td><td>2,02</td><td>11,69</td><td>983,20</td></tr>
 <tr><td></td><td>27</td><td>Silvaplana (H3)–Punt Muragl–Samedan–Zernez–Martina–(A).</td><td>89,39</td><td>2,01</td><td>14,06</td><td>1436.86</td></tr>
-<tr><td></td><td>28</td><td>Klosters–Davos–Flüelapass–Susch (H27)–(…)–Zernez (H27)–Ofenpass–Müstair–(I).</td><td>74,30</td><td>2,00</td><td>15,17</td><td>1275,44</td></tr>
+<tr><td></td><td>28</td><td>Klosters–Davos–Flüelapass–Susch (H27)–(...)–Zernez (H27)–Ofenpass–Müstair–(I).</td><td>74,30</td><td>2,00</td><td>15,17</td><td>1275,44</td></tr>
 <tr><td></td><td>29</td><td>Punt Muragl (H27)–Passo del Bernina– Poschiavo–Campocologno–(I).</td><td>49,62</td><td>2,00</td><td>12,84</td><td>736,48</td></tr>
 <tr><td></td><td>416</td><td>Disentis (H19)–Lukmanierpass–(TI).</td><td>19,96</td><td>2,00</td><td>16,05</td><td>360,38</td></tr>
 <tr><td></td><td>417</td><td>Tiefencastel (N29)–Wiesen–Davos (H28).</td><td>33,51</td><td>2,00</td><td>13,97</td><td>535,05</td></tr>
@@ -746,20 +749,20 @@ Legende:
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>28,48</td></tr>
 <tr><td>AG</td><td>1</td><td>(BE)–Murgenthal–Rothrist (N1).</td><td>7,83</td><td>2,98</td><td>4,18</td><td>56,10</td></tr>
 <tr><td></td><td>2</td><td>(SO)–Aarburg–Rothrist (N1).</td><td>3,46</td><td>4,40</td><td>11,68</td><td>55,63</td></tr>
-<tr><td></td><td>5</td><td>(SO)–Aarau–Rohr–(…)–Aarau-Ost (N1)–Brugg–Untersiggenthal–Döttingen–(D).</td><td>32,49</td><td>3,09</td><td>4,88</td><td>258,78</td></tr>
-<tr><td></td><td>7</td><td>Eiken (N3)–Laufenburg–Koblenz (H5)–(…)–Koblenz (H5)–Bad Zurzach–Kaiserstuhl–(ZH).</td><td>39,92</td><td>2,26</td><td>5,21</td><td>298,34</td></tr>
+<tr><td></td><td>5</td><td>(SO)–Aarau–Rohr–(...)–Aarau-Ost (N1)–Brugg–Untersiggenthal–Döttingen–(D).</td><td>32,49</td><td>3,09</td><td>4,88</td><td>258,78</td></tr>
+<tr><td></td><td>7</td><td>Eiken (N3)–Laufenburg–Koblenz (H5)–(...)–Koblenz (H5)–Bad Zurzach–Kaiserstuhl–(ZH).</td><td>39,92</td><td>2,26</td><td>5,21</td><td>298,34</td></tr>
 <tr><td></td><td>24</td><td>Aarau-West (N1)–Unterentfelden–Aarau (H5).</td><td>6,35</td><td>4,05</td><td>4,45</td><td>54,00</td></tr>
 <tr><td></td><td>295</td><td>Station Siggenthal (H5)–Untersiggenthal–Baden–Neuenhof (N1).</td><td>10.02</td><td>3,44</td><td>4,88</td><td>83,32</td></tr>
 <tr><td></td><td></td><td></td><td>100,07</td><td></td><td></td><td>806,17</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>3,69</td></tr>
-<tr><td>TG</td><td>13</td><td>(ZH)–Neuparadies–Diessenhofen–Rheinklingen–Wagenhausen–(SH)–(…) –(SH)–Eschenz–Steckborn–Kreuzlingen–Romanshorn–Arbon-West (N23).</td><td>63,75</td><td>2,32</td><td>4,17</td><td>413,87</td></tr>
+<tr><td>TG</td><td>13</td><td>(ZH)–Neuparadies–Diessenhofen–Rheinklingen–Wagenhausen–(SH)–(...) –(SH)–Eschenz–Steckborn–Kreuzlingen–Romanshorn–Arbon-West (N23).</td><td>63,75</td><td>2,32</td><td>4,17</td><td>413,87</td></tr>
 <tr><td></td><td>16</td><td>(SG)–Rickenbach–(SG).</td><td>0,59</td><td>4,64</td><td>7,29</td><td>7,05</td></tr>
 <tr><td></td><td>332</td><td>(SH)–Wagenhausen (H13).</td><td>0,94</td><td>2,00</td><td>7,21</td><td>8,61</td></tr>
 <tr><td></td><td></td><td></td><td>65,28</td><td></td><td></td><td>429,54</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>1,97</td></tr>
 <tr><td>TI</td><td>13</td><td>Ascona (N13)–Brissago–(I).</td><td>9,69</td><td>3,10</td><td>10,71</td><td>133,88</td></tr>
 <tr><td></td><td>398</td><td>(I)–Agno (H399).</td><td>4,88</td><td>4,40</td><td>5,69</td><td>49,23</td></tr>
-<tr><td></td><td>399</td><td>Agno (H398)–Lugano Nord (N2)–(…)– Lugano Nord (N2)–Lugano (Cassarate).</td><td>7,31</td><td>3,97</td><td>11,57</td><td>113,53</td></tr>
+<tr><td></td><td>399</td><td>Agno (H398)–Lugano Nord (N2)–(...)– Lugano Nord (N2)–Lugano (Cassarate).</td><td>7,31</td><td>3,97</td><td>11,57</td><td>113,53</td></tr>
 <tr><td></td><td>405</td><td>(I)–Dirinella–Gerra–Gambarogno–Bivio di Quartino (N13).</td><td>12,47</td><td>2,05</td><td>6,22</td><td>103,11</td></tr>
 <tr><td></td><td>416</td><td>(GR)–Passo del Lucomagno–Olivone– Biasca (N2).</td><td>41,06</td><td>2,00</td><td>9,72</td><td>481,42</td></tr>
 <tr><td></td><td>560</td><td>(I)–Camedo–Intragna–Tegna–Ascona (N13).</td><td>18,28</td><td>2,17</td><td>8,77</td><td>199,91</td></tr>
@@ -776,7 +779,7 @@ Legende:
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>5,68</td></tr>
 <tr><td>VS</td><td>6</td><td>(BE)–Gletsch (H19).</td><td>6,02</td><td>2,00</td><td>16,43</td><td>110,87</td></tr>
 <tr><td></td><td>19</td><td>Brig-Glis (N9)–Fiesch–Münster–Gletsch–(UR).</td><td>59,42</td><td>2,00</td><td>12,78</td><td>878,32</td></tr>
-<tr><td></td><td>21</td><td>(F)–Bouveret–Les Evouettes (H144)–(…)–Monthey (H201)–(VD)–(…)–Portal du tunnel du Gd-St-Bernhard (N21)–Col du Grand-St-Bernard–(I).</td><td>15,38</td><td>2.34</td><td>10.19</td><td>192,74</td></tr>
+<tr><td></td><td>21</td><td>(F)–Bouveret–Les Evouettes (H144)–(...)–Monthey (H201)–(VD)–(...)–Portal du tunnel du Gd-St-Bernhard (N21)–Col du Grand-St-Bernard–(I).</td><td>15,38</td><td>2.34</td><td>10.19</td><td>192,74</td></tr>
 <tr><td></td><td>144</td><td>(VD)–Les Evouettes (H21).</td><td>0,32</td><td>2,00</td><td>20,46</td><td>7,18</td></tr>
 <tr><td></td><td>201</td><td>Pas de Morgins (F)–Monthey (H21).</td><td>18.37</td><td>2.22</td><td>10.62</td><td>235,79</td></tr>
 <tr><td></td><td>203</td><td>Martigny-Croix (N21)–La Forclaz–Trient–(F).</td><td>21,52</td><td>2,00</td><td>13,27</td><td>328,64</td></tr>
@@ -789,9 +792,9 @@ Legende:
 <tr><td></td><td>18</td><td>La Chaux-de-Fonds (N20)–(BE).</td><td>6,78</td><td>2,10</td><td>8,98</td><td>75,15</td></tr>
 <tr><td></td><td></td><td></td><td>45,83</td><td></td><td></td><td>458,87</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>2,10</td></tr>
-<tr><td>GE</td><td>101</td><td>(F)–Meyrin (N1)–(…)–Meyrin (N1)–Genève-Cornavin (H105/106).</td><td>7,45</td><td>5,21</td><td>6,03</td><td>83,80</td></tr>
+<tr><td>GE</td><td>101</td><td>(F)–Meyrin (N1)–(...)–Meyrin (N1)–Genève-Cornavin (H105/106).</td><td>7,45</td><td>5,21</td><td>6,03</td><td>83,80</td></tr>
 <tr><td></td><td>105</td><td>Genève-Cornavin (H101/106)–Vésenaz–La Pallanterie–Maisons Neuves–(F).</td><td>11,72</td><td>5,18</td><td>5,40</td><td>124,03</td></tr>
-<tr><td></td><td>106</td><td>Genève-Cornavin (H101/105)–Aéroport (N1)–(…)–Aéroport (N1)–(F).</td><td>5,47</td><td>3,70</td><td>6,17</td><td>53,98</td></tr>
+<tr><td></td><td>106</td><td>Genève-Cornavin (H101/105)–Aéroport (N1)–(...)–Aéroport (N1)–(F).</td><td>5,47</td><td>3,70</td><td>6,17</td><td>53,98</td></tr>
 <tr><td></td><td>111</td><td>La Praille (N1)–Carouge–Pont d’Arve–Florissant–Thônex–(F).</td><td>7,62</td><td>4,00</td><td>5,63</td><td>73,43</td></tr>
 <tr><td></td><td></td><td></td><td>32,26</td><td></td><td></td><td>335,25</td></tr>
 <tr><td></td><td></td><td>Prozentualer Anteil</td><td></td><td></td><td></td><td>1,54</td></tr>
@@ -830,263 +833,125 @@ Anhang 4*[^t-3]*
 
 ## Beitragsberechtigte Städte und Agglomerationen
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^t-3]: Fassung gemäss Ziff. II der V vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 512](https://fedlex.data.admin.ch/eli/oc/2021/512)).
 
-### Aarau
+Aarau
 
-*Gemeinden:* Aarau, Biberstein, Buchs (AG), Eppenberg‑Wöschnau, Erlinsbach (AG), Erlinsbach (SO), Gretzenbach, Gränichen, Hirschthal, Küttigen, Muhen, Niedergösgen, Oberentfelden, Schöftland, Schönenwerd, Suhr, Unterentfelden
+Altdorf
 
-### Altdorf
+Amriswil–Romanshorn
 
-*Gemeinden:* Altdorf (UR), Attinghausen, Bürglen (UR), Erstfeld, Flüelen, Schattdorf, Seedorf (UR), Silenen
+Appenzell
 
-### Amriswil–Romanshorn
+Arbon–Rorschach
 
-*Gemeinden:* Amriswil, Hefenhofen, Romanshorn, Salmsach, Uttwil
+Baden–Brugg
 
-### Appenzell
+Basel
 
-*Gemeinde:* Appenzell, Rüte, Schwendi
+Bellinzona
 
-### Arbon–Rorschach
+Bern
 
-*Gemeinden:* Arbon, Goldach, Horn, Lutzenberg, Rheineck, Rorschach, Rorschacherberg, Steinach, Thal, Tübach
+Biel/Bienne
 
-### Baden–Brugg
+Brig–Visp
 
-*Gemeinden:* Baden, Birmenstorf (AG), Birr, Birrhard, Brugg, Ennetbaden, Fislisbach, Freienwil, Gebenstorf, Hausen (AG), Lupfig, Mellingen, Mülligen, Neuenhof, Niederrohrdorf, Oberrohrdorf, Obersiggenthal, Remigen, Riniken, Turgi, Untersiggenthal, Wettingen, Windisch, Würenlingen
+Buchs
 
-### Basel
+Bulle
 
-*Gemeinden:* Aesch (BL), Allschwil, Arboldswil, Arisdorf, Arlesheim, Augst, Basel, Bettingen, Biel‑Benken, Binningen, Birsfelden, Blauen, Bottmingen, Breitenbach, Brislach, Bubendorf, Buckten, Buus, Bättwil, Böckten, Büren (SO), Büsserach, Diegten, Diepflingen, Dornach, Duggingen, Ettingen, Frenkendorf, Füllinsdorf, Gelterkinden, Gempen, Giebenach, Grellingen, Hellikon, Hersberg, Himmelried, Hochwald, Hofstetten‑Flüh, Hölstein, Itingen, Kaiseraugst, Kleinlützel, Känerkinden, Lampenberg, Laufen, Lausen, Liestal, Lupsingen, Magden, Maisprach, Mumpf, Muttenz, Möhlin, Münchenstein, Nenzlingen, Niederdorf, Nuglar‑St. Pantaleon, Nunningen, Nusshof, Oberdorf (BL), Obermumpf, Oberwil (BL), Olsberg, Ormalingen, Pfeffingen, Pratteln, Ramlinsburg, Reigoldswil, Reinach (BL), Rheinfelden, Rickenbach (BL), Riehen, Rodersdorf, Röschenz, Rümlingen, Rünenberg, Schönenbuch, Seewen, Seltisberg, Sissach, Tecknau, Tenniken, Therwil, Thürnen, Wahlen, Wegenstetten, Wenslingen, Wintersingen, Witterswil, Wittinsburg, Zeiningen, Ziefen, Zullwil, Zunzgen, Zuzgen, Zwingen
+Burgdorf
 
-*Ausländische Gemeinden:* Attenschwiller, Bad Bellingen, Bartenheim, Berentzwiller, Binzen, Blotzheim, Brinckheim, Buschwiller, Durmenach, Efringen‑Kirchen, Eimeldingen, Ferrette, Fischingen, Folgensbourg, Grenzach‑Wyhlen, Hagenthal‑le‑Bas, Hagenthal‑le‑Haut, Hasel, Hausen im Wiesental, Helfrantzkirch, Huningue, Hégenheim, Hésingue, Inzlingen, Kandern, Kappelen, Kembs, Knoeringue, Koetzingue, Leymen, Lörrach, Magstatt‑le‑Bas, Maulburg, Michelbach‑le‑Bas, Michelbach‑le‑Haut, Muespach, Muespach‑le‑Haut, Neuwiller, Niffer, Oberdorf, Ranspach‑le‑Bas, Ranspach‑le‑Haut, Rantzwiller, Rheinfelden (Baden), Riespach, Roppentzwiller, Rosenau, Rümmingen, Saint‑Louis, Schallbach, Schliengen, Schopfheim, Schwörstadt, Sierentz, Steinen, Stetten, Uffheim, Vieux‑Ferrette, Village‑Neuf, Waldighofen, Waltenheim, Weil am Rhein, Wentzwiller, Wittlingen, Zell im Wiesental
+Chiasso–Mendrisio
 
-### Bellinzona
+Chur
 
-*Gemeinden:* Arbedo‑Castione, Bellinzona, Cadenazzo, Lumino, San Vittore, Sant’Antonino
+Davos
 
-### Bern
+Delémont
 
-*Gemeinden:* Allmendingen, Belp, Bern, Biglen, Bolligen, Bremgarten bei Bern, Bäriswil, Bösingen, Diemerswil, Fraubrunnen, Frauenkappelen, Grosshöchstetten, Hindelbank, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Kirchlindach, Konolfingen, Köniz, Laupen, Mattstetten, Meikirch, Moosseedorf, Muri bei Bern, Mühlethurnen, Münchenbuchsee, Münsingen, Neuenegg, Oppligen, Ostermundigen, Rubigen, Schlosswil, Schmitten (FR), Schüpfen, Stettlen, Toffen, Urtenen‑Schönbühl, Uttigen, Vechigen, Wichtrach, Wohlen bei Bern, Worb, Wünnewil‑Flamatt, Zollikofen, Zäziwil
+Einsiedeln
 
-### Biel/Bienne
+Frauenfeld
 
-*Gemeinden:* Aegerten, Bellmund, Biel/Bienne, Brügg, Evilard, Ipsach, Jens, Meinisberg, Mörigen, Nidau, Orpund, Orvin, Pieterlen, Port, Péry-La Heutte, Safnern, Sauge, Scheuren, Schwadernau, Studen (BE), Sutz‑Lattrigen, Twann‑Tüscherz, Worben
+Fribourg
 
-### Brig–Visp
+Genève
 
-*Gemeinden:* Ausserberg, Baltschieder, Bitsch, Brig‑Glis, Bürchen, Eggerberg, Lalden, Mörel‑Filet, Naters, Niedergesteln, Raron, Ried‑Brig, Termen, Visp, Zeneggen
+Glarus
 
-### Buchs
+Grenchen
 
-*Gemeinden:* Buchs (SG), Gams, Grabs, Sevelen
+Interlaken
 
-*Ausländische Gemeinden:* Balzers, Eschen, Gamprin, Mauren, Ruggell, Schaan, Schellenberg, Triesen, Triesenberg, Vaduz
+Kreuzlingen
 
-### Bulle
+La Chaux-de-Fonds–Le Locle
 
-*Gemeinden:* Broc, Bulle, Echarlens, Le Pâquier (FR), Marsens, Morlon, Riaz, Vuadens
+Lachen
 
-### Burgdorf
+Langenthal
 
-*Gemeinden:* Aefligen, Burgdorf, Kirchberg (BE), Lyssach, Oberburg, Rüdtligen‑Alchenflüh
+Lausanne
 
-### Chiasso–Mendrisio
+Lenzburg
 
-*Gemeinden:* Balerna, Breggia, Brusino Arsizio, Castel San Pietro, Chiasso, Coldrerio, Mendrisio, Morbio Inferiore, Novazzano, Riva San Vitale, Stabio, Vacallo
+Locarno
 
-*Ausländische Gemeinden:* Albavilla, Albese con Cassano, Albiolo, Alserio, Alzate Brianza, Anzano del Parco, Beregazzo con Figliaro, Binago, Bizzarone, Blevio, Brienno, Brunate, Bulgarograsso, Cagno, Capiago Intimiano, Carate Urio, Casnate con Bernate, Cassina Rizzardi, Cavallasca, Cernobbio, Clivio, Como, Drezzo, Faggeto Lario, Faloppio, Fino Mornasco, Gironico, Grandate, Laglio, Lipomo, Luisago, Lurate Caccivio, Maslianico, Moltrasio, Montano Lucino, Montorfano, Nesso, Olgiate Comasco, Oltrona di San Mamette, Orsenigo, Parè, Pognana Lario, Rodero, Ronago, Saltrio, San Fermo della Battaglia, Senna Comasco, Solbiate, Tavernerio, Torno, Uggiate‑Trevano, Valmorea, Viggiù, Villa Guardia
+Lugano
 
-### Chur
+Luzern
 
-*Gemeinden:* Bonaduz, Chur, Churwalden, Domat/Ems, Felsberg, Haldenstein, Landquart, Malans, Rhäzüns, Tamins, Trimmis, Trin, Untervaz, Zizers
+Lyss
 
-### Davos
+Martigny
 
-*Gemeinde:* Davos
+Monthey
 
-### Delémont
+Neuchâtel
 
-*Gemeinden:* Boécourt, Courrendlin, Courroux, Courtételle, Delémont, Develier, Rossemaison, Soyhières, Val Terbi
+Olten–Zofingen
 
-### Einsiedeln
+Rapperswil-Jona–Rüti
 
-*Gemeinde:* Einsiedeln
+Rheintal
 
-### Frauenfeld
+Sarnen
 
-*Gemeinden:* Felben‑Wellhausen, Frauenfeld, Gachnang
+Schaffhausen
 
-### Fribourg
+Schwyz
 
-*Gemeinden:* Arconciel, Avry, Belfaux, Corminboeuf, Cottens (FR), Courtepin, Düdingen, Ependes (FR), Ferpicloz, Fribourg, Giffers, Givisiez, Granges‑Paccot, Grolley, Hauterive (FR), La Brillaz, La Sonnaz, Le Gibloux, Le Mouret, Marly, Matran, Misery‑Courtion, Neyruz (FR), Prez‑vers‑Noréaz, Senèdes, Tafers, Tentlingen, Villars‑sur‑Glâne, Villarsel‑sur‑Marly
+Sierre
 
-### Genève
+Sion
 
-*Gemeinden:* Aire‑la‑Ville, Anières, Arnex‑sur‑Nyon, Arzier, Avully, Avusy, Bardonnex, Bassins, Begnins, Bellevue, Bernex, Bogis‑Bossey, Borex, Bursinel, Bursins, Carouge (GE), Cartigny, Chancy, Chavannes‑de‑Bogis, Chavannes‑des‑Bois, Choulex, Chéserex, Chêne‑Bougeries, Chêne‑Bourg, Coinsins, Collex‑Bossy, Collonge‑Bellerive, Cologny, Commugny, Confignon, Coppet, Corsier (GE), Crans‑près‑Céligny, Crassier, Céligny, Dardagny, Duillier, Dully, Eysins, Founex, Genolier, Genthod, Genève, Gilly, Gingins, Givrins, Gland, Grens, Gy, Hermance, Jussy, La Rippe, Laconnex, Lancy, Le Grand‑Saconnex, Le Vaud, Meinier, Meyrin, Mies, Mont‑sur‑Rolle, Nyon, Onex, Perly‑Certoux, Plan‑les‑Ouates, Prangins, Pregny‑Chambésy, Presinge, Puplinge, Rolle, Russin, Saint‑Cergue, Satigny, Signy‑Avenex, Soral, Tannay, Thônex, Troinex, Trélex, Vandoeuvres, Vernier, Versoix, Veyrier, Vich
+Solothurn
 
-*Ausländische Gemeinden:* Ambilly, Andilly, Annemasse, Arbusigny, Archamps, Arthaz‑Pont‑Notre‑Dame, Ballaison, Beaumont, Bonne, Bons‑en‑Chablais, Bossey, Boëge, Cessy, Challex, Chens‑sur‑Léman, Chevry, Clarafond‑Arcine, Collonges‑sous‑Salève, Contamine‑sur‑Arve, Cornier, Cranves‑Sales, Crozet, Divonne‑les‑Bains, Douvaine, Feigères, Ferney‑Voltaire, Fillinges, Gaillard, Gex, Grilly, Habère‑Poche, Jonzier‑Épagny, Juvigny, La Tour, Loisin, Lucinges, Machilly, Marcellaz, Messery, Monnetier‑Mornex, Nangy, Nernier, Neydens, Ornex, Peillonnex, Pers‑Jussy, Présilly, Prévessin‑Moëns, Reignier‑Esery, Saint‑Blaise, Saint‑Cergues, Saint‑Genis‑Pouilly, Saint‑Jean‑de‑Gonville, Saint‑Jean‑de‑Tholome, Saint‑Julien‑en‑Genevois, Sauverny, Scientrier, Sergy, Ségny, Thoiry, Valleiry, Veigy‑Foncenex, Vers, Versonnex, Villard, Ville‑en‑Sallaz, Ville‑la‑Grand, Viry, Viuz‑en‑Sallaz, Vulbens, Vétraz‑Monthoux, Yvoire, Échenevex, Étrembières
+St. Gallen
 
-### Glarus
+St. Moritz
 
-*Gemeinden:* Glarus, Glarus Nord
+Stans
 
-### Grenchen
+Stein
 
-*Gemeinden:* Bettlach, Grenchen, Lengnau (BE)
+Thun
 
-### Interlaken
+Vevey–Montreux
 
-*Gemeinden:* Bönigen, Gsteigwiler, Interlaken, Matten bei Interlaken, Ringgenberg (BE), Unterseen, Wilderswil
+Wil
 
-### Kreuzlingen
+Winterthur
 
-*Gemeinden:* Bottighofen, Gottlieben, Kreuzlingen, Münsterlingen, Tägerwilen
+Wohlen
 
-*Ausländische Gemeinden:* Allensbach, Konstanz, Universitätsstadt, Reichenau
+Yverdon-les-Bains
 
-### La Chaux‑de‑Fonds–Le Locle
+Zug
 
-*Gemeinden:* La Chaux‑de‑Fonds, Le Locle, Les Brenets
-
-*Ausländische Gemeinden:* Les Fins, Montlebon, Morteau, Villers‑le‑Lac
-
-### Lachen
-
-*Gemeinden:* Altendorf, Galgenen, Lachen, Reichenburg, Schübelbach, Tuggen, Wangen (SZ)
-
-### Langenthal
-
-Gemeinden: Langenthal
-
-### Lausanne
-
-*Gemeinden:* Aclens, Apples, Assens, Aubonne, Belmont‑sur‑Lausanne, Bercher, Bioley‑Orjulaz, Bottens, Bourg‑en‑Lavaux, Boussens, Bremblens, Bretigny‑sur-Morrens, Buchillon, Bussigny‑près‑Lausanne, Bussy‑Chardonney, Chavannes‑près-Renens, Chavornay, Cheseaux‑sur‑Lausanne, Chexbres, Chigny, Cossonay, Crissier, Cugy (VD), Daillens, Denens, Denges, Echallens, Echandens, Echichens, Eclépens, Ecublens (VD), Epalinges, Etagnières, Etoy, Froideville, Gollion, Jorat‑Menthue, Jorat-Mézières, Jouxtens‑Mézery, La Sarraz, Lausanne, Le Mont‑sur‑Lausanne, Lonay, Lully (VD), Lussy‑sur‑Morges, Lutry, Mex (VD), Montilliez, Montpreveyres, Montricher, Morges, Morrens (VD),, Pampigny, Paudex, Penthalaz, Penthaz, Poliez‑Pittet, Prilly, Préverenges, Pully, Renens (VD), Rivaz, Romanel‑sur-Lausanne, Romanel‑sur‑Morges, Saint‑Barthélemy (VD), Saint‑Prex, Saint‑Sulpice (VD), Savigny, Servion, Sullens, Tolochenaz, Villars‑Sainte‑Croix, Villars‑le-Terroir, Villars‑sous‑Yens, Vuarrens, Vufflens‑la‑Ville, Vufflens‑le‑Château, Yens
-
-### Lenzburg
-
-*Gemeinden:* Holderbank (AG), Hunzenschwil, Lenzburg, Möriken‑Wildegg, Niederlenz, Rupperswil, Schafisheim, Staufen
-
-### Locarno
-
-*Gemeinden:* Ascona, Avegno Gordevio, Brione sopra Minusio, Centovalli, Cugnasco‑Gerra, Gambarogno, Gordola, Lavertezzo, Locarno, Losone, Maggia, Minusio, Muralto, Orselina, Ronco sopra Ascona, Tenero‑Contra, Terre di Pedemonte
-
-### Lugano
-
-*Gemeinden:* Agno, Alto Malcantone, Aranno, Bedano, Bedigliora, Bioggio, Bissone, Cademario, Cadempino, Canobbio, Capriasca, Caslano, Collina d’Oro, Comano, Croglio, Cureglia, Curio, Grancia, Gravesano, Lamone, Lugano, Magliaso, Manno, Maroggia, Massagno, Melano, Melide, Mezzovico‑Vira, Monteceneri, Monteggio, Morcote, Muzzano, Neggio, Novaggio, Origlio, Paradiso, Ponte Capriasca, Ponte Tresa, Porza, Pura, Rovio, Savosa, Sorengo, Torricella‑Taverne, Vernate, Vezia, Vico Morcote
-
-*Ausländische Gemeinden:* Bene Lario, Cadegliano‑Viconago, Campione d’Italia, Carlazzo, Corrido, Cremenaga, Cugliate‑Fabiasco, Lavena Ponte Tresa, Marchirolo, Porlezza, San Bartolomeo Val Cavargna, Valsolda
-
-### Luzern
-
-*Gemeinden:* Adligenswil, Buchrain, Dierikon, Ebikon, Emmen, Eschenbach (LU), Gisikon, Hergiswil (NW), Hildisrieden, Honau, Horw, Inwil, Kriens, Küssnacht (SZ), Luzern, Malters, Meggen, Neuenkirch, Rain, Root, Rothenburg, Udligenswil
-
-### Lyss
-
-*Gemeinde:* Lyss
-
-### Martigny
-
-*Gemeinden:* Martigny, Martigny‑Combe
-
-### Monthey
-
-*Gemeinden:* Aigle, Bex, Collombey‑Muraz, Massongex, Monthey, Ollon, Troistorrents
-
-### Neuchâtel
-
-*Gemeinden:* Bevaix, Boudry, Corcelles‑Cormondrèche, Cornaux, Cortaillod, Cressier (NE), Hauterive (NE), La Tène, Le Landeron, Milvignes, Neuchâtel, Peseux, Rochefort, Saint‑Blaise, Val‑de‑Ruz, Valangin
-
-### Olten–Zofingen
-
-*Gemeinden:* Aarburg, Boningen, Brittnau, Dulliken, Däniken, Egerkingen, Gunzgen, Hägendorf, Härkingen, Kappel (SO), Lostorf, Neuendorf, Niederbuchsiten, Oberbuchsiten, Obergösgen, Oftringen, Olten, Rickenbach (SO), Rothrist, Starrkirch‑Wil, Strengelbach, Trimbach, Wangen bei Olten, Wikon, Winznau, Zofingen
-
-### Rapperswil‑Jona–Rüti
-
-*Gemeinden:* Dürnten, Eschenbach (SG), Rapperswil‑Jona, Rüti (ZH), Schmerikon, Uznach
-
-### Rheintal
-
-*Gemeinden:* Altstätten, Au (SG), Balgach, Berneck, Diepoldsau, Eichberg, Marbach (SG), Rebstein, St. Margrethen, Widnau
-
-*Ausländische Gemeinden:* Alberschwende, Altach, Bildstein, Bregenz, Dornbirn, Eichenberg, Feldkirch, Frastanz, Fraxern, Fußach, Gaißau, Göfis, Götzis, Hard, Hohenems, Hohenweiler, Höchst, Hörbranz, Kennelbach, Klaus, Koblach, Krumbach, Langenegg, Lauterach, Lingenau, Lochau, Lustenau, Meiningen, Mäder, Rankweil, Röthis, Satteins, Schwarzach, Sulz, Sulzberg, Viktorsberg, Weiler, Wolfurt, Zwischenwasser
-
-### Sarnen
-
-*Gemeinde:* Sarnen
-
-### Schaffhausen
-
-*Gemeinden:* Beringen, Büttenhardt, Dachsen, Dörflingen, Feuerthalen, Flurlingen, Laufen‑Uhwiesen, Lohn (SH), Löhningen, Merishausen, Neuhausen am Rheinfall, Schaffhausen, Siblingen, Stetten (SH), Thayngen
-
-*Ausländische Gemeinde:* Büsingen am Hochrhein
-
-### Schwyz
-
-*Gemeinden:* Ingenbohl, Schwyz, Steinen
-
-### Sierre
-
-*Gemeinden:* Chalais, Chippis, Crans-Montana, Miège, Sierre, Venthône, Veyras
-
-### Sion
-
-*Gemeinden:* Arbaz, Ardon, Ayent, Conthey, Grimisuat, Grône, Saint‑Léonard, Savièse, Sion, Vex, Veysonnaz, Vétroz
-
-### Solothurn
-
-*Gemeinden:* Balm bei Günsberg, Bellach, Biberist, Deitingen, Derendingen, Feldbrunnen‑St. Niklaus, Gerlafingen, Günsberg, Halten, Horriwil, Hubersdorf, Kriegstetten, Langendorf, Lohn‑Ammannsegg, Lommiswil, Luterbach, Oberdorf (SO), Obergerlafingen, Oekingen, Recherswil, Riedholz, Rüttenen, Solothurn, Subingen, Zielebach, Zuchwil
-
-### St. Gallen
-
-*Gemeinden:* Andwil (SG), Berg (SG), Eggersriet, Flawil, Gaiserwald, Gossau (SG), Herisau, Mörschwil, Roggwil (TG), Speicher, St. Gallen, Teufen (AR), Untereggen, Waldstatt, Wittenbach
-
-### St. Moritz
-
-*Gemeinden:* Bever, Celerina/Schlarigna, La Punt‑Chamues‑ch, Pontresina, Samedan, Sils im Engadin/Segl, Silvaplana, St. Moritz
-
-### Stans
-
-*Gemeinden:* Beckenried, Buochs, Ennetbürgen, Ennetmoos, Oberdorf (NW), Stans, Stansstad
-
-### Stein
-
-*Gemeinden:* Münchwilen (AG), Stein (AG), Wallbach
-
-*Ausländische Gemeinde:* Bad Säckingen
-
-### Thun
-
-*Gemeinden:* Heimberg, Hilterfingen, Oberhofen am Thunersee, Seftigen, Spiez, Steffisburg, Thierachern, Thun, Uetendorf
-
-### Vevey–Montreux
-
-*Gemeinden:* Attalens, Blonay, Bossonnens, Chardonne, Châtel‑Saint‑Denis, Corseaux, Corsier‑sur‑Vevey, Jongny, La Tour‑de‑Peilz, Montreux, Noville, Remaufens, Rennaz, Saint‑Légier‑La Chiésaz, Vevey, Veytaux, Villeneuve (VD)
-
-### Wil
-
-*Gemeinden:* Eschlikon, Jonschwil, Münchwilen (TG), Oberbüren, Oberuzwil, Rickenbach (TG), Sirnach, Uzwil, Wil (SG), Wilen (TG), Zuzwil (SG)
-
-### Winterthur
-
-*Gemeinden:* Dinhard, Elgg, Elsau, Henggart, Hettlingen, Neftenbach, Rickenbach (ZH), Seuzach, Wiesendangen, Winterthur, Zell (ZH)
-
-### Wohlen
-
-*Gemeinden:* Villmergen, Waltenschwil, Wohlen (AG)
-
-### Yverdon‑les‑Bains
-
-*Gemeinden:* Chamblon, Cheseaux‑Noréaz, Grandson, Montagny‑près‑Yverdon, Treycovagnes, Valeyres‑sous‑Montagny, Yverdon‑les‑Bains, Yvonand
-
-### Zug
-
-*Gemeinden:* Arth, Baar, Cham, Hünenberg, Knonau, Meierskappel, Neuheim, Oberrüti, Oberägeri, Risch, Steinhausen, Unterägeri, Walchwil, Zug
-
-### Zürich
-
-*Gemeinden:* Adliswil, Aesch (ZH), Aeugst am Albis, Affoltern am Albis, Arni (AG), Bachenbülach, Bassersdorf, Bellikon, Bergdietikon, Berikon, Birmensdorf (ZH), Bonstetten, Boppelsen, Bremgarten (AG), Brütten, Bubikon, Buchberg, Buchs (ZH), Bäretswil, Bülach, Dielsdorf, Dietikon, Dietlikon, Dällikon, Dänikon, Dättlikon, Dübendorf, Egg, Eggenwil, Eglisau, Ehrendingen, Embrach, Erlenbach (ZH), Fehraltorf, Feusisberg, Fischbach‑Göslikon, Freienbach, Freienstein‑Teufen, Fällanden, Geroldswil, Glattfelden, Gossau (ZH), Greifensee, Grüningen, Hausen am Albis, Hedingen, Herrliberg, Hinwil, Hittnau, Hochfelden, Hombrechtikon, Horgen, Höri, Hüntwangen, Hüttikon, Illnau‑Effretikon, Islisberg, Jonen, Kaiserstuhl, Kappel am Albis, Kilchberg (ZH), Killwangen, Kloten, Künten, Küsnacht (ZH), Langnau am Albis, Lindau, Lufingen, Maschwanden, Maur, Meilen, Mettmenstetten, Männedorf, Mönchaltorf, Neerach, Niederglatt, Niederhasli, Niederweningen, Nürensdorf, Oberembrach, Oberengstringen, Oberglatt, Oberlunkhofen, Oberrieden, Oberweningen, Oberwil‑Lieli, Obfelden, Oetwil am See, Oetwil an der Limmat, Opfikon, Otelfingen, Ottenbach, Pfungen, Pfäffikon, Rafz, Regensberg, Regensdorf, Remetschwil, Richterswil, Rifferswil, Rorbas, Rottenschwil, Rudolfstetten‑Friedlisberg, Russikon, Rümlang, Rüschlikon, Schleinikon, Schlieren, Schneisingen, Schwerzenbach, Schöfflisdorf, Seegräben, Spreitenbach, Stadel, Stallikon, Steinmaur, Stäfa, Thalwil, Uetikon am See, Uitikon, Unterengstringen, Unterlunkhofen, Urdorf, Uster, Volketswil, Wallisellen, Wangen‑Brüttisellen, Wasterkingen, Weiach, Weiningen (ZH), Weisslingen, Wettswil am Albis, Wetzikon (ZH), Widen, Wil (ZH), Winkel, Wollerau, Wädenswil, Würenlos, Zollikon, Zufikon, Zumikon, Zürich
+Zürich
 
 Anhang 5
 
@@ -1102,7 +967,7 @@ Anhang 5
 <tr><td>LU</td><td>501 452</td><td></td><td>5 361 676</td><td></td><td>352 664</td><td></td><td>473.97</td><td></td><td>79.67</td><td></td><td>4 271 577</td><td></td><td>3 933 945</td></tr>
 <tr><td>UR</td><td>76 620</td><td></td><td>819 241</td><td></td><td>34 683</td><td></td><td>736.38</td><td></td><td>123.78</td><td></td><td>1 014 041</td><td></td><td>933 890</td></tr>
 <tr><td>SZ</td><td>217 703</td><td></td><td>2 327 746</td><td></td><td>133 505</td><td></td><td>543.56</td><td></td><td>91.37</td><td></td><td>2 126 774</td><td></td><td>1 958 671</td></tr>
-<tr><td>…</td><td>…</td><td></td><td>…</td><td></td><td>…</td><td></td><td>…</td><td></td><td>…</td><td></td><td>…</td><td></td><td>…</td></tr>
+<tr><td>...</td><td>...</td><td></td><td>...</td><td></td><td>...</td><td></td><td>...</td><td></td><td>...</td><td></td><td>...</td><td></td><td>...</td></tr>
 <tr><td>CH</td><td>13 208 516</td><td></td><td>141 229 360</td><td></td><td>7 400 715</td><td></td><td>ø 594.92</td><td></td><td>100.00</td><td></td><td>153 350 402</td><td></td><td>141 229 360</td></tr>
 <tr><td colspan="14"><sup>1</sup> Berechnung: Einzelwert «Strassenlasten im Mittel» \* 100/ø «Strassenlasten im Mittel» <sup>2</sup> Berechnung: Einzelwert «Summe zu verteilen» \* Einzelwert «Index»/100 <sup>3</sup> Berechnung: Einzelwert «Masszahl»/Total «Masszahl» \* Total «Summe zu verteilen»</td></tr>
 </table>
