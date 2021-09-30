@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2015 sulle infrastrutture del mercato finanzia
 short: OInFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: it
-version: 2021-08-01
+version: 2021-10-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20210801/it"
 
 (Ordinanza sull’infrastruttura finanziaria, OInFi)
 
-del 25 novembre 2015 (Stato 1° agosto 2021)
+del 25 novembre 2015 (Stato 1° ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -2663,11 +2663,14 @@ L’obbligo di verifica da parte degli uffici di revisione di cui all’articolo
 
 <sup>1</sup> Per gli istituti di previdenza e le fondazioni d’investimento secondo gli articoli 48–60*a* della legge federale del 25 giugno 1982[^133-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, l’obbligo di compensazione secondo l’articolo 97 LInFi non si applica fino al 30 settembre 2021 alle operazioni in derivati effettuate ai fini della riduzione dei rischi secondo l’articolo 87.[^133-3]
 
+<sup>1bis</sup> Il periodo transitorio di cui al capoverso 1 è prorogato fino al 30 settembre 2022.[^133-4]
+
 <sup>2</sup> Il Dipartimento federale dell’interno può prorogare il termine di cui al capoverso 1 per tenere conto degli standard internazionali riconosciuti e dell’evoluzione del diritto estero.
 
 [^133-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 [^133-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^133-3]: Nuovo testo giusta il n. I dell’O del DFI del 4 set. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
+[^133-4]: Introdotto dal n. I dell’O del DFI del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
 
 #### Art. 134
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2015 sur les infrastructures des marchés fina
 short: OIMF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: fr
-version: 2021-08-01
+version: 2021-10-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20210801/fr"
 
 (Ordonnance sur l’infrastructure des marchés financiers, OIMF)
 
-du 25 novembre 2015 (Etat le 1<sup>er</sup> août 2021)
+du 25 novembre 2015 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -2663,11 +2663,14 @@ L’obligation de faire effectuer un audit par l’organe de révision au sens d
 
 <sup>1</sup> En ce qui concerne les institutions de prévoyance et les fondations de placement au sens des art. 48 à 60*a* de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^133-2], l’obligation de compenser énoncée à l’art. 97 LIMF n’est pas applicable, jusqu’au 30 septembre 2021, aux opérations sur dérivés qu’elles concluent, au sens de l’art. 87, en vue de réduire les risques.[^133-3]
 
+<sup>1bis</sup> Le délai transitoire visé à l’al. 1 est prolongé jusqu’au 30 septembre 2022.[^133-4]
+
 <sup>2</sup> Le Département fédéral de l’intérieur peut prolonger le délai fixé à l’al. 1 pour tenir compte des normes internationales reconnues et de l’évolution du droit étranger.
 
 [^133-1]: Nouvelle teneur selon le ch. I de l’O du 5 juil. 2017, en vigueur depuis le 1<sup>er</sup> août 2017 ([RO 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 [^133-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^133-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 4 sept. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
+[^133-4]: Introduit par le ch. I de l’O du DFI du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
 
 #### Art. 134
 

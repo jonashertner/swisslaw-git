@@ -4,11 +4,11 @@ title: "Ordinance of 25 November 2015 on Financial Market Infrastructures and Ma
 short: FinMIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: en
-version: 2021-08-01
+version: 2021-10-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2015-854-20210801-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20210801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20211001/en/xml/fedlex-data-admin-ch-eli-cc-2015-854-20211001-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20211001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Infrastructure Ordinance, FinMIO)
 
-of 25 November 2015 (Status as of 1 August 2021)
+of 25 November 2015 (Status as of 1 October 2021)
 
 The Swiss Federal Council
 
@@ -2285,12 +2285,15 @@ Financial and non-financial counterparties shall regulate, in writing or in anot
 - d. risk mitigation (Art. 107 FinMIA);
 - e. trading via trading venues and organised trading facilities (Art. 112 FinMIA).
 
-<sup>2</sup> Non-financial counterparties which do not want to trade in derivatives may set out this resolution in writing or in another form that that allows for proof by text, in which case they are exempt from the duty set out in paragraph 1.[^113-2]
+<sup>1bis</sup> The transitional period under paragraph 1 is extended until 30 September 2022.[^113-2]
+
+<sup>2</sup> Non-financial counterparties which do not want to trade in derivatives may set out this resolution in writing or in another form that that allows for proof by text, in which case they are exempt from the duty set out in paragraph 1.[^113-3]
 
 <sup>3</sup> Financial counterparties appointed by other financial or non-financial counterparties to implement their duties shall regulate the corresponding processes in accordance with paragraph 1 by analogy.
 
 [^113-1]: Amended by Annex 1 No II 14 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^113-2]: Amended by Annex 1 No II 14 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^113-2]: Inserted by No I of the O of 25 Aug. 2021, in force since 1 Oct. 2021 ([AS 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
+[^113-3]: Amended by Annex 1 No II 14 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 114
 

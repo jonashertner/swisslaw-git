@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2015 über die Finanzmarktinfrastrukturen un
 short: FinfraV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: de
-version: 2021-08-01
+version: 2021-10-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20210801/de"
 
 (Finanzmarktinfrastrukturverordnung, FinfraV)
 
-vom 25. November 2015 (Stand am 1. August 2021)
+vom 25. November 2015 (Stand am 1. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -2663,11 +2663,14 @@ Die Pflicht nach Artikel 114 zur Prüfung durch die Revisionsstellen gilt nach 1
 
 <sup>1</sup> Für Vorsorgeeinrichtungen und Anlagestiftungen nach den Artikeln 48–60*a* des Bundesgesetzes vom 25. Juni 1982[^133-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge gilt die Abrechnungspflicht nach Artikel 97 FinfraG bis zum 30. September 2021 nicht für Derivatgeschäfte, die sie im Sinne von Artikel 87 zur Reduzierung von Risiken eingehen.[^133-3]
 
+<sup>1bis</sup> Die Übergangsfrist nach Absatz 1 wird bis zum 30. September 2022 verlängert.[^133-4]
+
 <sup>2</sup> Das Eidgenössische Departement des Innern kann die Frist nach Absatz 1 erstrecken, um anerkannten internationalen Standards und der ausländischen Rechtsentwicklung Rechnung zu tragen.
 
 [^133-1]: Fassung gemäss Ziff. I der V vom 5. Juli 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 [^133-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^133-3]: Fassung gemäss Ziff. I der V des EDI vom 4. Sept. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
+[^133-4]: Eingefügt durch Ziff. I der V des EDI vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
 
 #### Art. 134
 
