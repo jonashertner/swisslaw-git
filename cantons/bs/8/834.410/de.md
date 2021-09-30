@@ -4,13 +4,13 @@ number: "834.410"
 title: Verordnung über die Krankenversicherung im Kanton Basel-Stadt
 short: KVO
 language: de
-version: 2021-07-01
-valid_until: 2021-09-30
-version_adopted: 2021-03-16
+version: 2021-10-01
+valid_until: 2021-12-31
+version_adopted: 2021-08-24
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/834.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5270/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5332/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Krankenversicherung: Verordnung | Kranken- und Unfallversicherung
 
 (KVO)
 
-Vom 25. November 2008 (Stand 1. Juli 2021)
+Vom 25. November 2008 (Stand 1. Oktober 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -244,8 +244,8 @@ Für Nichtvertragsheime reduzieren sich die Normkosten um 10 Prozent.
 <table>
 <tr><th>Pflegekosten pro Stunde in Fr.[^8d-1]</th><th>erste Stunde</th><th>ab zweiter Stunde</th></tr>
 <tr><td>Bedarfsabklärung</td><td>96</td><td>80</td></tr>
-<tr><td>Behandlungspflege</td><td>93.35</td><td>83.35</td></tr>
-<tr><td>Grundpflege</td><td>80.50</td><td>70.50</td></tr>
+<tr><td>Behandlungspflege</td><td>90</td><td>80</td></tr>
+<tr><td>Grundpflege</td><td>80</td><td>70</td></tr>
 </table>
 
 [^8d-1]: Fassung vom 15. August 2017, in Kraft seit 1. Januar 2018 (KB 19.08.2017)
@@ -522,8 +522,8 @@ KB 29.11.2008
 ## Weitere Fussnoten
 
 - [6] Fassung vom 15. August 2017, in Kraft seit 1. Januar 2018 (KB 19.08.2017)
-- [7] Fassung vom 25. September 2018, in Kraft seit 1. Januar 2018 (KB 20.03.2019). Aus softwaretechnischen Gründen als formlose Änderung eingefügt.
+- [7] aufgehoben am 24. August 2021, in Kraft seit 1. Oktober 2021 (KB 28.08.2021)
 - [8] Fassung vom 12. Februar 2019, in Kraft seit 1. Januar 2019 (KB 16.02.2019)
 - [9] Fassung vom 12. Februar 2019, in Kraft seit 1. Januar 2019 (KB 16.02.2019)
 - [10] § 8d Abs. 2 Ziff. 3 in der Fassung des RRB vom 24. 1. 2012 (wirksam seit 1. 1. 2012, publiziert am 28. 1. 2012).
-- [11] § 8d Abs. 2 Ziff. 4 in der Fassung des RRB vom 12. 2. 2019 (in Kraft seit 1. 1. 2018, publiziert am 16. 2. 2019). Aus softwaretechnischen Gründen als formlose Änderung eingefügt.
+- [11] Fassung vom 24. August 2021, in Kraft seit 1. Oktober 2021 (KB 28.08.2021
