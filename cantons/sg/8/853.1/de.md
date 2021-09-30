@@ -4,13 +4,13 @@ number: "853.1"
 title: "Gesetz über die Jagd, den Schutz der wildlebenden Säugetiere und Vögel sowie deren Lebensräume (Jagdgesetz)"
 short: JG
 language: de
-version: 2016-04-01
-valid_until: 2021-09-30
-version_adopted: 2014-11-18
+version: 2021-10-01
+valid_until: 2023-07-31
+version_adopted: 2021-06-15
 adopted: 1994-11-17
 in_force: 1996-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/853.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2027/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3266/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2027/pdf_file"
 
 (JG)
 
-vom 17.11.1994 (Stand 01.04.2016)
+vom 17.11.1994 (Stand 01.10.2021)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -516,11 +516,7 @@ als Gesetz:[^ingress-3]
 
 #### Art. 41
 
-**b) Anlagen**
-
-<sup>1</sup> Anlagen, insbesondere unnötige Zäune, werden verboten oder beseitigt, wenn sie den Lebensraum unverhältnismässig stören.
-
-<sup>2</sup> Bei Anlagen, die im Wald liegen oder die Zugänglichkeit des Waldes für die Allgemeinheit einschränken, verfügt die für den Wald zuständige Stelle des Kantons.
+**…**
 
 #### Art. 41bis
 
@@ -529,6 +525,60 @@ als Gesetz:[^ingress-3]
 #### Art. 41quater
 
 **…**
+
+#### Art. 41quinquies
+
+**b) Zäune 1. Zulässigkeit im Allgemeinen**
+
+<sup>1</sup> Zäune im Lebensraum wildlebender Tiere sind unzulässig, wenn sie den Lebensraum unverhältnismässig stören.
+
+<sup>2</sup> Wird ein Zaun dauerhaft nicht mehr benötigt, gilt er ungeachtet einer früher erteilten Bewilligung als unzulässig.
+
+#### Art. 41sexies
+
+**2. Anforderungen im Allgemeinen**
+
+<sup>1</sup> Der Zaun:
+
+- a) ist für wildlebende Tiere gut sichtbar;
+- b) wird ausreichend unterhalten;
+- c) steht nur unter Strom, solange sich in der eingezäunten Fläche Nutztiere befinden oder solange Spezialkulturen oder Ackerkulturen vor Schädigungen geschützt werden;
+- d) wird abgeräumt, sobald er dauerhaft nicht mehr benötigt wird.
+
+<sup>2</sup> Schränkt der Zaun die Zugänglichkeit des Waldes dauerhaft ein, werden Durchgänge für wildlebende Tiere eingerichtet.
+
+<sup>3</sup> Die Pflichten nach Abs. 1 und 2 dieser Bestimmung erfüllt, wer den Zaun nutzt oder wer Eigentümerin oder Eigentümer des Grundstücks ist, auf dem sich der Zaun befindet.
+
+#### Art. 41septies
+
+**3. zusätzliche Bestimmungen für Zäune aus Stacheldraht**
+
+<sup>1</sup> Neuanlagen aus Stacheldraht und ähnlichen spitzen oder scharfkantigen Materialien sind verboten.
+
+<sup>2</sup> Zäune und Absperrungen aus Stacheldraht und ähnlichen spitzen oder scharfkantigen Materialien sind ausserhalb des Sömmerungsgebietes verboten.
+
+<sup>3</sup> Ausgenommen sind Zäune und Absperrungen zu polizeilichen oder militärischen Zwecken und zum Schutz von Einzelobjekten.
+
+<sup>4</sup> Zäune aus Stacheldraht oder ähnlichen spitzen oder scharfkantigen Materialien sind ausserhalb der Sömmerungszeit abzulegen.
+
+<sup>5</sup> Im Sömmerungsgebiet sind Zäune aus Stacheldraht und ähnlichen spitzen oder scharfkantigen Materialien nur für die Einzäunung oder Sicherung von Rindviehweiden zulässig.
+
+#### Art. 41octies
+
+**4. zusätzliche Bestimmungen für flexible Weidenetze**
+
+<sup>1</sup> Wer ein flexibles Weidenetz nutzt:
+
+- a) kontrolliert regelmässig, ob sich ein wildlebendes Tier im Weidenetz verfangen hat, und meldet ein verfangenes Tier unverzüglich der Jagdgesellschaft oder der Wildhut;
+- b) stellt das Weidenetz frühestens acht Tage vor Weidebeginn auf und räumt es ab, sobald es nicht mehr genutzt wird, spätestens acht Tage nach der letzten Beweidung der eingezäunten Fläche.
+
+#### Art. 41nonies
+
+**5. Vollzug**
+
+<sup>1</sup> Die zuständige Stelle des Kantons ordnet die Beseitigung eines unzulässigen oder verbotenen Zauns an.
+
+<sup>2</sup> Sie kann bei einem Zaun, der die Zugänglichkeit des Waldes einschränkt, das Einrichten von Durchgängen für wildlebende Tiere anordnen.
 
 ## VII. Jagdplanung und Jagdbetrieb
 
@@ -712,6 +762,7 @@ als Gesetz:[^ingress-3]
 <sup>1</sup> Die Aufsichtsorgane erfüllen die Aufgaben nach eidgenössischer und kantonaler Jagdgesetzgebung, soweit keine anderen Vorschriften gelten, insbesondere:
 
 - a) Beobachtung und Schutz des Lebensraumes, der Lebensgemeinschaft und der Wildbestände;
+- a<sup>bis</sup>) Kontrolle von Zäunen im Lebensraum wildlebender Tiere und Meldung unzulässiger oder verbotener Zäune an die zuständige Stelle des Kantons;
 - b) Kontrolle der Jagd;
 - c) Bestandesregulierung nach Weisung der zuständigen Stelle des Kantons;
 - d) Abschuss von Tieren in dringenden Fällen durch die kantonale Wildhut oder die Jagdaufsicht;
@@ -793,6 +844,12 @@ als Gesetz:[^ingress-3]
 - e) für die Jagdausübung ein Entgelt anbietet oder entgegennimmt. Vorbehalten bleibt die Anstellung als Jagdaufsicht;
 - f) ohne Registrierung geschützte Tiere präpariert, präparieren lässt oder damit Handel treibt;
 - g) gegen eine Bestimmung der Verordnung der Regierung oder der Jagdvorschriften der zuständigen Stelle des Kantons verstösst, wenn die Verordnung oder die Jagdvorschriften einen Verstoss gegen die Bestimmung ausdrücklich als strafbar bezeichnen.
+- h) einen verbotenen Zaun oder eine verbotene Absperrung aus Stacheldraht oder ähnlichen spitzen oder scharfkantigen Materialien erstellt oder nutzt;
+- i) einen Zaun oder eine Absperrung aus Stacheldraht oder ähnlichen spitzen oder scharfkantigen Materialien ausserhalb der Sömmerungszeit nicht ablegt;
+- j) als dinglich oder obligatorisch Berechtigte oder Berechtigter des Grundstücks, auf dem sich ein verbotener Zaun oder eine verbotene Absperrung befindet, nicht für die Beseitigung des Zauns oder der Absperrung sorgt;
+- k) als Nutzerin oder Nutzer eines flexiblen Weidenetzes ein verfangenes Tier nicht unverzüglich der Jagdgesellschaft oder der Wildhut meldet;
+- l) ein flexibles Weidenetz zu früh aufstellt oder zu spät abräumt;
+- m) einen elektrischen Zaun entgegen Art. 41<sup>sexies</sup> Abs. 1 Bst. c dieses Erlasses unter Strom stehen lässt.
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
@@ -893,5 +950,11 @@ als Gesetz:[^ingress-3]
 <sup>3</sup> Die Regierung kann die am 31. März 2016 ablaufende Pachtdauer um höchstens zwei Jahre verlängern.
 
 [^76-1]: 853.1.
+
+#### Art. 77
+
+**Übergangsbestimmungen des IV. Nachtrags vom 15. Juni 2021**
+
+<sup>1</sup> Der bei Vollzugsbeginn dieses Erlasses bestehende Zaun, der nach Art. 41<sup>quinquies</sup> Abs. 2 und Art. 41<sup>septies</sup> dieses Erlasses verboten ist, muss innerhalb von vier Jahren ab Vollzugsbeginn dieses Erlasses abgeräumt werden.
 
 nGS 31–50
