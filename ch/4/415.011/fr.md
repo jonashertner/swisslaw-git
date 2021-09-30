@@ -4,11 +4,11 @@ title: "Ordonnance du DDPS du 25 mai 2012 sur les programmes et les projets d'en
 short: OPESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: fr
-version: 2021-01-01
+version: 2021-10-01
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-462-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-462-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20210101/fr"
 
 (OPESp)
 
-du 25 mai 2012 (Etat le 1<sup>er</sup> janvier 2021)
+du 25 mai 2012 (Etat le 1<sup>er</sup> octobre 2021)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
@@ -60,18 +60,18 @@ Dans la présente ordonnance, on entend par:
 
 #### Art. 3
 
-**Sports et disciplines[^3-1]**
+**Sports[^3-1]**
 
 <sup>1</sup> Il est possible de réaliser des offres J+S dans les sports énumérés dans l’annexe 1.
 
-<sup>1bis</sup> L’annexe 1*a* précise quels sports sont subdivisés en quelles disciplines.[^3-2]
+<sup>1bis</sup> ...[^3-2]
 
 <sup>2</sup> Le sport Allround ne peut être proposé qu’aux enfants.
 
 <sup>3</sup> Toute activité dans l’un des sports visés à l’art. 6, al. 2, OESp est interdite dans les offres J+S. Dans les cours et les camps de canoë-kayak J+S, les descentes en eaux vives sont autorisées, y compris celles qui sont effectuées sur des cours d’eau présentant un degré de difficulté supérieur à II conformément à l’annexe 3 de l’ordonnance du 30 janvier 2019 sur les activités à risque[^3-3], à condition que ces descentes soient dirigées par des personnes titulaires d’une reconnaissance de moniteur J+S Canoë-kayak valable et ayant suivi une formation continue spécifique.[^3-4]
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^3-2]: Introduit par le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^3-2]: Introduit par le ch. I de l’O du DDPS du 26 oct. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogé par le ch. I de l’O du DDPS du 8 avr. 2020, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 [^3-3]: [RS 935.911](https://fedlex.data.admin.ch/eli/cc/2019/124)
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
@@ -186,9 +186,11 @@ Un cours J+S comprend des activités dans les sports J+S, pratiquées régulièr
 
 #### Art. 12
 
-**Direction**
+**Direction**[^12-1]
 
-Tout camp J+S doit être dirigé par au moins deux moniteurs J+S titulaires d’une reconnaissance dans le sport ou la discipline concernés et pour le groupe cible des enfants ou le groupe cible des jeunes.
+Tout camp J+S doit être dirigé par au moins deux moniteurs J+S titulaires d’une reconnaissance pour le sport concerné et pour le groupe cible des enfants ou le groupe cible des jeunes.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 13
 
@@ -328,11 +330,13 @@ Il est possible d’engager aussi des personnes qui ne sont pas titulaires d’u
 
 **Formation**
 
-<sup>1</sup> Les moniteurs J+S sont formés dans des cours de moniteurs J+S, pour un sport et une discipline spécifiques et pour le groupe cible des enfants ou le groupe cible des jeunes.
+<sup>1</sup> Les moniteurs J+S sont formés dans des cours de moniteurs J+S, pour un sport spécifique et pour le groupe cible des enfants ou le groupe cible des jeunes.[^27-1]
 
 <sup>2</sup> Les cours de moniteurs J+S permettent d’acquérir des notions pédagogiques et méthodologiques de base, ainsi que des connaissances fondamentales en motricité sportive.
 
 <sup>3</sup> L’OFSPO propose des formations abrégées sous la forme de cours d’introduction aux personnes qui ont suivi une formation équivalente au cours de moniteurs.
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 28
 
@@ -344,7 +348,7 @@ Il est possible d’engager aussi des personnes qui ne sont pas titulaires d’u
 
 <sup>3</sup> Les modules de formation continue ne visant pas uniquement à conserver une reconnaissance de moniteur doivent, pour satisfaire à l’obligation de formation continue, avoir été suivis pendant une durée au moins équivalente à celle des modules de formation continue servant exclusivement à conserver une reconnaissance de moniteur.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, à l’exception de l’al. 2 qui entre en vigueur le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, à l'exception de l'al. 2 qui entre en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 29
 
@@ -437,11 +441,13 @@ Les coachs J+S veillent à ce que les offres J+S de l’organisateur qu’ils re
 
 <sup>1</sup> Les experts J+S sont formés dans des cours d’experts J+S en vue d’assurer la formation des cadres J+S.
 
-<sup>2</sup> La formation est spécifique à chaque sport et à chaque discipline et elle concerne le groupe cible des enfants ou le groupe cible des jeunes; la formation des coachs experts J+S prend la forme de cours thématiques.
+<sup>2</sup> La formation est spécifique à chaque sport; la formation des coachs experts J+S prend la forme de cours thématiques.[^40-1]
 
 <sup>3</sup> L’OFSPO assure la formation. Il peut confier cette tâche aux cantons ou aux fédérations sportives et aux associations de jeunesse.
 
 <sup>4</sup> Il peut proposer des formations abrégées sous la forme de cours d’introduction aux personnes ayant suivi une formation équivalente au cours d’experts.
+
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 41
 
@@ -474,14 +480,15 @@ Sont admis à la formation et à la formation continue les candidats:
 
 <sup>1</sup> Les experts J+S assurent la formation des cadres dans le sport concerné ou pour le groupe cible voulu.
 
-<sup>2</sup> Les experts J+S peuvent se voir confier, en tant que spécialistes de la sécurité, l’évaluation de programmes de cours ou de camp dans des sports, des disciplines ou des activités faisant l’objet de prescriptions de sécurité particulières.
+<sup>2</sup> Les experts J+S peuvent se voir confier, en tant que spécialistes de la sécurité, l’évaluation de programmes de cours ou de camp dans des sports ou des activités faisant l’objet de prescriptions de sécurité particulières.[^43-1]
 
-<sup>3</sup> …[^43-1]
+<sup>3</sup> …[^43-2]
 
-<sup>4</sup> L’OFSPO peut réaliser des cours de cadres avec des experts J+S pour préparer ou développer la formation des cadres J+S.[^43-2]
+<sup>4</sup> L’OFSPO peut réaliser des cours de cadres avec des experts J+S pour préparer ou développer la formation des cadres J+S.[^43-3]
 
-[^43-1]: Abrogé par le ch. I de l’O du DDPS du 26 oct. 2015, avec effet au 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^43-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^43-2]: Abrogé par le ch. I de l’O du DDPS du 26 oct. 2015, avec effet au 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
 
 ### Section 10 Octroi de subventions
 
@@ -537,11 +544,12 @@ Sont admis à la formation et à la formation continue les candidats:
 
 #### Art. 48
 
-**Subventions pour les guides de montagne**[^48-1]
+**Subventions supplémentaires pour les guides de montagne[^48-2]**[^48-1]
 
 Les organisateurs des offres J+S et des offres de formation des cadres J+S peuvent recevoir une subvention supplémentaire conformément à l’annexe 5 pour l’engagement de guides de montagne titulaires d’un brevet fédéral dans une discipline des sports de montagne.
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^48-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 49
 
@@ -659,11 +667,18 @@ Les offres J+S ainsi que les cours et les modules de la formation des cadres son
 
 <sup>1</sup> Toute offre J+S doit être annoncée par le coach J+S 30 jours au plus tard avant le début du premier cours ou camp J+S. Ce délai s’applique aussi à l’annonce de cours et de camps qui s’ajoutent à une offre déjà annoncée.
 
-<sup>2</sup> …[^58-1]
+<sup>2</sup>
+
+L’annonce comprend au moins les indications suivantes:
+
+- a. sports J+S qui font l’objet de l’offre J+S;
+- b. intitulé des différents cours avec indication de leur durée ainsi que des dates et des heures des activités prévues;
+- c. taille probable du groupe;
+- d. moniteurs J+S probablement engagés.[^58-1]
 
 <sup>3</sup> L’autorité compétente statue sur l’autorisation des offres avant qu’elles ne commencent.
 
-[^58-1]: Abrogé par le ch. I de l’O du DDPS du 16 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 59
 
@@ -1039,36 +1054,19 @@ Annexe 1*[^t-1]*
 
 ## Sports J+S
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du DDPS du 26 oct. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Mise à jour selon le ch. II de l’O du DDPS du 16 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 ### A. Sports généraux (sports A)
 
-Allround, athlétisme, badminton, baseball/softball, basketball, course d’orientation, curling, cyclisme, danse sportive, escrime, football, golf, gymnastique et danse, handball, hockey sur gazon, hockey sur glace, hornuss, jeux nationaux, judo, ju-jitsu, karaté, lutte, lutte suisse, patinage sur glace, rugby, ski de fond, sports gymniques, sports sur roulettes, squash, street-hockey, tchoukball, tennis, tennis de table, unihockey, volleyball.
+Allround, athlétisme, badminton, balle à la corbeille, balle au poing, baseball/softball, basketball, BMX, boxe light-contact, course d’orientation, curling, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cycle-balle, cyclo-cross, danses standard et latines, escrime, football, football américain, golf, gymnastique, gymnastique acrobatique, gymnastique artistique, gymnastique aux agrès, gymnastique et danse, gymnastique rythmique, handball, hockey inline, hockey sur gazon, hockey sur glace, hornuss, jeux nationaux, judo, ju-jitsu, karaté, lutte, lutte suisse, monocycle, patinage artistique sur glace, parkour, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, patinage synchronisé sur glace, rhönrad, rink-hockey, rock’n’roll, rugby, ski de fond, squash, street-hockey, tchoukball, tennis, tennis de table, trampoline, trial, unihockey, volleyball, VTT.
 
 ### B. Sports soumis à des dispositions de sécurité particulières (sports B)
 
-Aviron, canoë-kayak, planche à voile, saut à skis, ski, snowboard, sports aquatiques, sport de camp/trekking, sports de montagne, sports équestres, tir sportif, triathlon, voile.
+Alpinisme, arbalète, arc, aviron, biathlon, canoë-kayak, carabine, équitation, escalade sportive, excursions à skis, natation, natation artistique, natation de sauvetage, pistolet, planche à voile, plongeon, saut à skis, ski, snowboard, sport de camp/trekking, triathlon, voile, voltige, waterpolo.
 
 Annexe 1a*[^t-2]*
 
-(art. 3, al. 1<sup>bis</sup>)
-
-## Disciplines J+S
-
-[^t-2]: Introduite par le ch. II al. 1 de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-
-Les sports J+S suivants sont subdivisés dans les disciplines suivantes:
-
-<table>
-<tr><th>Sport</th><th>Disciplines</th></tr>
-<tr><th>Sports de montagne</th><th>Alpinisme, escalade sportive sur mur artificiel, escalade sportive sur rocher, excursions à skis</th></tr>
-<tr><th>Patinage sur glace</th><th>Patinage artistique sur glace, patinage de vitesse sur glace, patinage synchronisé sur glace</th></tr>
-<tr><th>Sports équestres</th><th>Équitation, voltige</th></tr>
-<tr><th>Sports sur roulettes</th><th>Hockey inline, patinage artistique sur roulettes, patinage de vitesse sur roulettes, rink-hockey</th></tr>
-<tr><th>Sports aquatiques</th><th>Natation, natation de sauvetage, natation synchronisée, plongée libre, plongeon, waterpolo</th></tr>
-<tr><th>Tir sportif</th><th>Arbalète, arc, carabine, pistolet</th></tr>
-<tr><th>Sports gymniques</th><th>Balle à la corbeille, balle au poing, gymnastique, gymnastique artistique, gymnastique aux agrès, gymnastique rythmique, rhönrad, trampoline</th></tr>
-</table>
+[^t-2]: Introduit par le ch. II al. 1 de l’O du DDPS du 26 oct. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogée par le ch. II al. 2 de l’O du DDPS du 8 avr. 2020, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 Annexe 2*[^t-3]*
 
@@ -1076,20 +1074,20 @@ Annexe 2*[^t-3]*
 
 ## Dispositions spécifiques pour l’engagement de moniteurs J+S selon la taille des groupes
 
-[^t-3]: Mise à jour selon le ch. II al. 3 de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 ### A. Dispositions pour les sports A
 
-- 1\. Pour le baseball/softball, le basketball, le football, le handball, le hockey sur gazon, le hockey sur glace, le hornuss, le rugby, les sports sur roulettes, le street-hockey, le tchoukball, l’unihockey et le volleyball, la taille des groupes ne doit pas dépasser 24 participants par moniteur. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
-- 2\. Pour l’allround, l’athlétisme, le badminton, la course d’orientation, le curling, le cyclisme, la danse sportive, l’escrime, le golf, la gymnastique et danse, les jeux nationaux, le judo, le ju-jitsu, le karaté, la lutte, la lutte suisse, le patinage sur glace, le ski de fond, les sports gymniques, le squash, le tennis et le tennis de table, la taille des groupes ne doit pas dépasser seize participants par moniteur. Pour les groupes de 17 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
+- 1\. Pour le baseball/softball, le basketball, le football, le football américain, le handball, le hockey inline, le hockey sur gazon, le hockey sur glace, le hornuss, le rink-hockey, le rugby, le street-hockey, le tchoukball, le unihockey et le volleyball, la taille des groupes ne doit pas dépasser 24 participants par moniteur. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
+- 2\. Pour l’allround, l’athlétisme, le badminton, la balle à la corbeille, la balle au poing, le BMX, la boxe light-contact, la course d’orientation, le curling, le cyclisme artistique, le cyclisme sur piste, le cyclisme sur route, le cycle-balle, le cyclo-cross, les danses standard et latines, l’escrime, le golf, la gymnastique, la gymnastique acrobatique, la gymnastique artistique, la gymnastique aux agrès, la gymnastique et danse, la gymnastique rythmique, les jeux nationaux, le judo, le ju-jitsu, le karaté, la lutte, la lutte suisse, le monocycle, le parkour, le patinage artistique sur glace, le patinage artistique sur roulettes, le patinage de vitesse sur glace, le patinage de vitesse sur roulettes, le patinage synchronisé sur glace, le rhönrad, le rock’n’roll, le ski de fond, le squash, le tennis, le tennis de table, le trampoline, le trial et le VTT, la taille des groupes ne doit pas dépasser seize participants par moniteur. Pour les groupes de 17 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
 - 3\. Si une activité relevant d’un des sports visés à la lettre B est organisée dans le cadre d’un cours ou d’un camp ou dans le cadre de la pratique d’un sport, les dispositions de sécurité visées à la lettre B sont applicables.
 
 ### B. Dispositions de sécurité particulières pour les sports B
 
-- 1\. Dans les disciplines alpinisme, escalade sportive sur rocher et excursions à skis (sports de montagne), la taille des groupes ne doit pas dépasser six participants par moniteur. Pour les groupes de sept participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de six participants supplémentaires.
-- 2\. Dans la discipline escalade sportive sur mur artificiel (sports de montagne) et pour l’aviron, le canoë-kayak, la planche à voile, le saut à skis, le ski, le snowboard, les sports équestres et la voile, la taille des groupes ne doit pas dépasser douze participants par moniteur. Pour les groupes de treize participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
-- 3\. Pour les sports aquatiques, le tir sportif et le triathlon, la taille des groupes ne doit pas dépasser seize participants par moniteur. Pour les groupes de 17 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
-- 4\. Dans les offres J+S Sport de camp/Trekking, la taille des groupes ne doit pas dépasser 24 participants pour deux moniteurs. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires. Dans les camps J+S, il est possible d’engager des personnes majeures et capables de discernement dépourvues de reconnaissance J+S en lieu et place de moniteurs J+S supplémentaires. Ces personnes ne sont pas prises en compte dans le calcul de la subvention.
+- 1\. Dans les sports alpinisme et excursions à skis ainsi que pour les activités sur rocher dans le sport escalade sportive, la taille des groupes ne doit pas dépasser six participants par moniteur. Pour les groupes de sept participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de six participants supplémentaires.
+- 2\. Dans les sports aviron, canoë-kayak, équitation, planche à voile, saut à skis, ski, snowboard, voile et voltige ainsi que pour les activités d’escalade sportive sur mur artificiel, la taille des groupes ne doit pas dépasser douze participants par moniteur. Pour les groupes de treize participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
+- 3\. Dans les sports arbalète, arc, biathlon, carabine, natation, natation artistique, natation de sauvetage, pistolet, plongeon, triathlon et waterpolo, la taille des groupes ne doit pas dépasser seize participants par moniteur. Pour les groupes de 17 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
+- 4\. Dans les offres J+S sport de camp/trekking, la taille des groupes ne doit pas dépasser 24 participants pour deux moniteurs. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires. Dans les camps J+S, il est possible d’engager des personnes majeures et capables de discernement dépourvues de reconnaissance J+S en lieu et place de moniteurs J+S supplémentaires. Ces personnes ne sont pas prises en compte dans le calcul de la subvention.
 
 ### C. Dispositions particulières pour le groupe d’utilisateurs 5
 
@@ -1107,7 +1105,7 @@ Si le nombre de moniteurs J+S qualifiés engagés dans des activités relevant d
 
 ### F. Nombre insuffisant de moniteurs J+S dans les activités visées à la lettre B
 
-Si le nombre de moniteurs J+S qualifiés engagés dans des activités relevant des sports visés à la lettre B ainsi que dans des entraînements de condition physique et des entraînements mentaux visés à la lettre D ne suffit pas, aucune subvention n’est versée pour les activités considérées.
+Si le nombre de moniteurs J+S qualifiés engagés dans des activités relevant des sports visés à la lettre B ne suffit pas, aucune subvention n’est versée pour les activités considérées.
 
 Annexe 3*[^t-4]*
 
@@ -1157,20 +1155,20 @@ Annexe 5*[^t-5]*
 
 (art. 48)
 
-## Indemnisation des guides de montagne titulaires d’un brevet fédéral et d’une reconnaissance J+S
+## Subventions supplémentaires pour les guides de montagne titulaires d’un brevet fédéral et d’une reconnaissance J+S
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 - 1\.
 
   Un forfait de 260 francs au maximum est versé aux organisateurs qui engagent des guides de montagne titulaires d’un brevet fédéral si ceux-ci:
 
-  - a. exercent une activité de moniteur J+S dans les disciplines alpinisme, escalade sportive sur rocher et excursions à skis (sports de montagne) et assument l’entière responsabilité de la sécurité dans les activités considérées;
-  - b. exercent une activité d’expert J+S dans la formation des cadres des sports de montagne.
+  - a. exercent une activité de moniteur J+S dans les sports alpinisme et excursions à skis ainsi que dans des activités sur rocher dans le sport escalade sportive et assument l’entière responsabilité de la sécurité dans les activités considérées;
+  - b. exercent une activité d’expert J+S dans la formation des cadres des sports alpinisme, escalade sportive et excursions à skis.
 
-- 2\. Pour les cours et les camps J+S, un forfait est versé par tranche de 45 heures-participants. Seules sont prises en compte les heures correspondant aux activités réalisées sous la responsabilité du guide et en sa présence. Les fractions de ce nombre sont arrondies à l’unité supérieure
-- 3\. Pour les offres de formation des cadres dans la discipline escalade sportive (sports de montagne), un forfait est versé par tranche de douze participants pour chaque jour durant lequel le guide dispense effectivement un enseignement. Les fractions de ce nombre sont arrondies à l’unité supérieure.
-- 4\. Pour les offres de formation des cadres dans les disciplines excursion à skis et alpinisme (sports de montagne), un forfait est versé par tranche de six participants pour chaque jour durant lequel le guide dispense effectivement un enseignement. Les fractions de ce nombre sont arrondies à l’unité supérieure.
+- 2\. Pour les cours et les camps J+S, un forfait est versé par tranche de 45 heures-participants. Seules sont prises en compte les heures correspondant aux activités réalisées sous la responsabilité du guide et en sa présence. Les fractions de ce nombre sont arrondies à l’unité supérieure.
+- 3\. Pour les offres de formation des cadres dans le sport escalade sportive, un forfait est versé par tranche de douze participants pour chaque jour durant lequel le guide dispense effectivement un enseignement. Les fractions de ce nombre sont arrondies à l’unité supérieure.
+- 4\. Pour les offres de formation des cadres dans les sports alpinisme et excursions à skis, un forfait est versé par tranche de six participants pour chaque jour durant lequel le guide dispense effectivement un enseignement. Les fractions de ce nombre sont arrondies à l’unité supérieure.
 
 Annexe 6*[^t-6]*
 

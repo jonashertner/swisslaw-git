@@ -4,11 +4,11 @@ title: Ordinanza del DDPS del 25 maggio 2012 su programmi e progetti per la prom
 short: OPPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: it
-version: 2021-01-01
+version: 2021-10-01
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-462-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2012-462-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20210101/it"
 
 (OPPSpo)
 
-del 25 maggio 2012 (Stato 1° gennaio 2021)
+del 25 maggio 2012 (Stato 1° ottobre 2021) (Stato 1° ottobre 2021)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -60,7 +60,7 @@ Nella presente ordinanza, s’intende per:
 
 #### Art. 3
 
-**Discipline sportive e specialità[^3-1]**
+**Discipline sportive[^3-1]**
 
 <sup>1</sup> Le offerte G+S possono essere svolte nelle discipline sportive elencate nell’allegato 1.
 
@@ -70,8 +70,8 @@ Nella presente ordinanza, s’intende per:
 
 <sup>3</sup> Le attività in discipline sportive di cui all’articolo 6 capoverso 2 OPSpo sono vietate in un’offerta G+S. Nei corsi e campi G+S della disciplina sportiva canoismo sono autorizzate le discese in acque vive, comprese quelle con grado di difficoltà superiore al II ai sensi dell’allegato 3 dell’ordinanza del 30 gennaio 2019[^3-3] sulle attività a rischio, se tali attività sono dirette da persone con riconoscimento valido di monitore G+S canoismo che hanno frequentato un perfezionamento specifico.[^3-4]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^3-2]: Introdotto dal n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^3-2]: Introdotto dal n. I dell’O del DDPS del 26 ott. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogato dal n. I dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 [^3-3]: [RS 935.911](https://fedlex.data.admin.ch/eli/cc/2019/124)
 [^3-4]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
@@ -186,9 +186,11 @@ Un corso G+S comprende attività nelle discipline sportive G+S svolte regolarmen
 
 #### Art. 12
 
-**Direzione**
+**Direzione**[^12-1]
 
-Per lo svolgimento di un campo G+S sono necessari almeno due monitori G+S riconosciuti nella corrispondente disciplina sportiva o specialità e per il gruppo di destinatari «bambini» o «giovani».
+Per lo svolgimento di un campo G+S sono necessari almeno due monitori G+S riconosciuti nella corrispondente disciplina sportiva e per il gruppo di destinatari «bambini» o «giovani».
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 13
 
@@ -328,11 +330,13 @@ Per lo svolgimento dei moduli del perfezionamento o per l’insegnamento di sing
 
 **Formazione**
 
-<sup>1</sup> La formazione di monitore G+S avviene nell’ambito di corsi per monitori G+S specifici alle diverse discipline sportive e specialità e in considerazione delle esigenze dei gruppi di destinatari «bambini» o «giovani».
+<sup>1</sup> La formazione di monitore G+S avviene nell’ambito di corsi per monitori G+S specifici alle diverse discipline sportive in considerazione delle esigenze dei gruppi di destinatari «bambini» o «giovani».[^27-1]
 
 <sup>2</sup> Nei corsi per monitori G+S sono insegnate conoscenze di base in materia di pedagogia, motricità sportiva e metodologia.
 
 <sup>3</sup> L’UFSPO offre formazioni abbreviate sotto forma di corsi di introduzione a persone che dispongono di una formazione equiparabile al corso per monitori.
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 28
 
@@ -344,7 +348,7 @@ Per lo svolgimento dei moduli del perfezionamento o per l’insegnamento di sing
 
 <sup>3</sup> I moduli di perfezionamento che servono ad approfondire le competenze, se interrotti, per essere considerati validi ai fini dell’obbligo in materia di perfezionamento devono essere seguiti per una durata almeno uguale a quella dei moduli previsti esclusivamente per mantenere valido il riconoscimento quale monitore.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° gen.. 2021, il cpv. 2 entra in vigore il 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^28-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° gen. 2021, il cpv. 2 entra in vigore il 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 29
 
@@ -437,11 +441,13 @@ I coach G+S sono responsabili dello svolgimento conforme alle prescrizioni delle
 
 <sup>1</sup> La formazione per esperti G+S o esperti abilitati a svolgere la formazione dei quadri G+S avviene nell’ambito dei relativi corsi per esperti G+S.
 
-<sup>2</sup> La formazione è specifica alle discipline sportive e alle specialità per i gruppi di destinatari «bambini» e «giovani»; la formazione di esperti coach G+S avviene in corsi dedicati a temi specifici.
+<sup>2</sup> La formazione è specifica a ciascuna disciplina sportiva; la formazione di esperti coach G+S avviene in corsi dedicati a temi specifici.[^40-1]
 
 <sup>3</sup> L’UFSPO svolge la formazione. Può incaricare dello svolgimento i Cantoni o le federazioni sportive o associazioni giovanili.
 
 <sup>4</sup> Esso può offrire a persone che dispongono di una formazione equivalente a un corso per esperti formazioni abbreviate sotto forma di corsi di introduzione.
+
+[^40-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 41
 
@@ -474,14 +480,15 @@ Sono ammessi alla formazione o al perfezionamento i candidati che:
 
 <sup>1</sup> Gli esperti G+S svolgono la formazione dei quadri nelle relative discipline sportive o per i relativi gruppi di destinatari.
 
-<sup>2</sup> In discipline sportive, specialità o attività che presuppongono particolari prescrizioni di sicurezza gli esperti G+S possono essere impiegati come specialisti della sicurezza nella valutazione dei programmi di corsi o campi.
+<sup>2</sup> In discipline sportive o attività che presuppongono particolari prescrizioni di sicurezza gli esperti G+S possono essere impiegati come specialisti della sicurezza nella valutazione dei programmi di corsi o campi.[^43-1]
 
-<sup>3</sup> …[^43-1]
+<sup>3</sup> …[^43-2]
 
-<sup>4</sup> L’UFSPO può svolgere con gli esperti G+S corsi per i quadri destinati a preparare o sviluppare la formazione dei quadri G+S.[^43-2]
+<sup>4</sup> L’UFSPO può svolgere con gli esperti G+S corsi per i quadri destinati a preparare o sviluppare la formazione dei quadri G+S.[^43-3]
 
-[^43-1]: Abrogato dal n. I dell’O del DDPS del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^43-2]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^43-2]: Abrogato dal n. I dell’O del DDPS del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^43-3]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
 
 ### Sezione 10: Concessione dei contributi
 
@@ -537,11 +544,12 @@ Sono ammessi alla formazione o al perfezionamento i candidati che:
 
 #### Art. 48
 
-**Contributi per le guide alpine**[^48-1]
+**Contributi supplementari per le guide alpine[^48-2]**[^48-1]
 
 Per l’impiego di guide alpine con attestato professionale federale nella disciplina sportiva sport di montagna, agli organizzatori delle offerte G+S e delle offerte di formazione dei quadri può essere concesso un contributo supplementare secondo l’allegato 5.
 
 [^48-1]: Nuovo testo giusta il n. I dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^48-2]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 49
 
@@ -659,11 +667,18 @@ Le offerte G+S, i corsi e i moduli della formazione dei quadri sono amministrate
 
 <sup>1</sup> Il coach G+S annuncia un’offerta G+S al più tardi 30 giorni prima dell’inizio del primo corso o campo G+S. Lo stesso termine si applica per l’aggiunta a posteriori di corsi e campi all’offerta già annunciata.
 
-<sup>2</sup> ...[^58-1]
+<sup>2</sup>
+
+L’annuncio deve contenere almeno le seguenti indicazioni:
+
+- a. le discipline sportive G+S oggetto dell’offerta G+S;
+- b. la denominazione dei singoli corsi con indicazione della durata, nonché delle date e degli orari delle attività pianificate;
+- c. la dimensione prevista dei gruppi;
+- d. i monitori G+S che si prevede di impiegare.[^58-1]
 
 <sup>3</sup> L’autorità competente decide in merito all’approvazione delle offerte prima del loro inizio.
 
-[^58-1]: Abrogato dal n. I dell’O del DDPS del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^58-1]: Nuovo testo giusta il n. I dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 #### Art. 59
 
@@ -1039,36 +1054,19 @@ Allegato 1*[^t-1]*
 
 ## Discipline sportive G+S
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del DDPS del 26 ott. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Aggiornato dal n. II dell’O del DDPS del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 ### A. Discipline sportive in generale (discipline sportive A)
 
-Allround, atletica leggera, badminton, baseball/softball, calcio, ciclismo, corsa d’orientamento, curling, danza sportiva, ginnastica e danza, giochi nazionali, golf, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, lotta, lotta svizzera, pallacanestro, pallamano, pallavolo, pattinaggio su ghiaccio, rugby, scherma, sci di fondo, sport ginnici, sport su rotelle, squash, streethockey, tchoukball, tennis, tennistavolo, unihockey.
+Acrobatica, allround, american football, atletica leggera, badminton, baseball/softball, BMX, calcio, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, light contact boxing, lotta, lotta svizzera, monociclo, pallacanestro, pallacesto, pallamano, pallapugno, pallavolo, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità, pattinaggio sincronizzato, rampichino, rock’n’roll, rugby, ruota di Rhön, scherma, sci di fondo, speedskating, squash, streethockey, tchoukball, tennis, tennistavolo, trampolino, trial in bicicletta, unihockey.
 
 ### B. Discipline sportive con disposizioni di sicurezza particolari (discipline sportive B)
 
-Sport di montagna, canoismo, canottaggio, sport equestri, sport natatori, sci, salto con gli sci, snowboard, sport di campo/trekking, tavola a vela, tiro sportivo, triathlon, vela.
+Alpinismo, artistic swimming, arrampicata sportiva, balestra, biathlon, canoismo, canottaggio, carabina, equitazione, nuoto, nuoto di salvataggio, pallanuoto, pistola, salto con gli sci, sci, sci escursionismo, snowboard, sport di campo/trekking, tavola a vela, tiro con l’arco, triathlon, tuffi, vela, volteggio.
 
 Allegato 1a*[^t-2]*
 
-(art. 3 cpv. 1<sup>bis</sup>)
-
-## Specialità G+S
-
-[^t-2]: Introdotto dal n. II cpv. 1 dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-
-Le seguenti discipline sportive G+S si suddividono nelle specialità elencate di seguito:
-
-<table>
-<tr><td>Discipline sportive</td><td>Specialità</td></tr>
-<tr><td>Pattinaggio su ghiaccio</td><td>Pattinaggio artistico, pattinaggio sincronizzato, pattinaggio di velocità</td></tr>
-<tr><td>Sport equestri</td><td>Equitazione, volteggio</td></tr>
-<tr><td>Sport ginnici</td><td>Ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica ritmica, pallapugno, pallacesto, ruota di Rhön, trampolino</td></tr>
-<tr><td>Sport di montagna</td><td>Alpinismo, sci escursionismo, arrampicata sportiva su roccia, arrampicata sportiva su parete artificiale</td></tr>
-<tr><td>Sport natatori</td><td>Nuoto, nuoto di salvataggio, nuoto sincronizzato, immersione libera, pallanuoto, tuffi</td></tr>
-<tr><td>Sport su rotelle</td><td>Hockey inline, hockey a rotelle, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle (speedskating)</td></tr>
-<tr><td>Tiro sportivo</td><td>Balestra, tiro con l’arco, carabina, pistola</td></tr>
-</table>
+[^t-2]: Introdotto dal n. II cpv. 1 dell’O del DDPS del 26 ott. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogato dal n. II cpv. 2 dell’O del DDPS dell’8 apr. 2020, con effetto dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 Allegato 2*[^t-3]*
 
@@ -1076,19 +1074,19 @@ Allegato 2*[^t-3]*
 
 ## Disposizioni specifiche concernenti l’impiego di monitori G+S in relazione con la dimensione dei gruppi
 
-[^t-3]: Aggiornato dal n. II cpv. 3 dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^t-3]: Nuovo testo giusta il n. II cpv. 1 dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 ### A. Disposizioni per le discipline sportive A
 
-- 1\. Nelle discipline sportive baseball/softball, calcio, hockey su ghiaccio, hornuss, hockey su prato, pallacanestro, pallamano, pallavolo, rugby, sport su rotelle street-hockey, tchoukball e unihockey non è consentito che i gruppi siano formati da più di 24 partecipanti per monitore. A partire da 25 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
-- 2\. Nelle discipline sportive allround, atletica leggera, badminton, ciclismo, corsa d’orientamento, curling, danza sportiva, ginnastica e danza, golf, giochi nazionali, judo, ju-jitsu, karate, lotta, lotta svizzera, pattinaggio su ghiaccio, scherma, sci di fondo, sport ginnici, squash, tennis, tennistavolo, non è consentito che i gruppi siano formati da più di 16 partecipanti per monitore. A partire da 17 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
-- 3\. Se nell’ambito di un corso o di un campo o nella pratica di una disciplina sportiva si svolge una delle attività di cui alla lettera B, valgono le disposizioni di sicurezza ivi fissate.
+- 1\. Nelle discipline sportive american football, baseball/softball, calcio, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, pallacanestro, pallamano, pallavolo, rugby, streethockey, tchoukball e unihockey non è consentito che i gruppi siano formati da più di 24 partecipanti per monitore. A partire da 25 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
+- 2\. Nelle discipline sportive acrobatica, allround, atletica leggera, badminton, BMX, ciclismo su pista, ciclismo su strada, ciclismo artistico, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, ginnastica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, judo, ju-jitsu, karate, light contact boxing, lotta, lotta svizzera, monociclo, pallacesto, pallapugno, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità, pattinaggio sincronizzato, rampichino, rock’n’roll, ruota di Rhön, scherma, sci di fondo, speedskating, squash, tennis, tennistavolo, trampolino, trial in bicicletta non è consentito che i gruppi siano formati da più di 16 partecipanti per monitore. A partire da 17 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
+- 3\. Se nell’ambito di un corso o di un campo o nella pratica di una disciplina sportiva si svolge un’attività di una delle discipline sportive di cui alla lettera B, valgono le disposizioni di sicurezza ivi fissate.
 
 ### B. Disposizioni di sicurezza particolari per le discipline sportive B
 
-- 1\. Nelle specialità alpinismo, arrampicata sportiva su roccia e sci escursionismo della disciplina sportiva sport di montagna non è consentito che i gruppi siano formati da più di 6 partecipanti per monitore. A partire da 7 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 6 partecipanti al massimo.
-- 2\. Nella specialità arrampicata sportiva su parete artificiale della disciplina sportiva sport di montagna e nelle discipline sportive canoismo, canottaggio, equitazione, salto con gli sci, sci, snowboard, tavola a vela e vela non è consentito che i gruppi siano formati da più di 12 partecipanti per monitore. A partire da 13 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
-- 3\. Nelle discipline sportive sport natatori, tiro sportivo e triathlon non è consentito che i gruppi siano formati da più di 16 partecipanti per monitore. A partire da 17 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
+- 1\. Nelle discipline sportive alpinismo e sci escursionismo, come pure nelle attività su roccia della disciplina arrampicata sportiva non è consentito che i gruppi siano formati da più di 6 partecipanti per monitore. A partire da 7 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 6 partecipanti al massimo.
+- 2\. Nelle discipline sportive canoismo, canottaggio, equitazione, vela, sci, salto con gli sci, snowboard, volteggio e tavola a vela come pure nelle attività su parete artificiale di arrampicata della disciplina arrampicata sportiva non è consentito che i gruppi siano formati da più di 12 partecipanti per monitore. A partire da 13 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
+- 3\. Nelle discipline sportive artistic swimming, balestra, biathlon, carabina, nuoto, nuoto di salvataggio, pallanuoto, pistola, tiro con l’arco, triathlon e tuffi non è consentito che i gruppi siano formati da più di 16 partecipanti per monitore. A partire da 17 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo.
 - 4\. Nelle offerte G+S Sport di campo/Trekking non è consentito che i gruppi siano formati da più di 24 partecipanti ogni 2 monitori. A partire da 25 partecipanti, una ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti al massimo. Nei campi G+S è consentito impiegare persone maggiorenni e capaci di discernimento senza riconoscimento G+S al posto di monitori G+S. Esse non vengono però considerate ai fini del conteggio dei contributi.
 
 ### C. Disposizioni speciali per il gruppo di utenti 5
@@ -1157,20 +1155,20 @@ Allegato 5*[^t-5]*
 
 (art. 48)
 
-## Indennità per guide alpine con attestato professionale federale e riconoscimento G+S
+## Contributi supplementari per le guide alpine con attestato professionale federale e riconoscimento G+S
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del DDPS del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del DDPS dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
 - 1\.
 
   Agli organizzatori viene corrisposta un’indennità forfettaria giornaliera di 260 franchi al massimo per l’impiego di guide alpine con attestato professionale federale, a condizione che:
 
-  - a. siano attive come monitori G+S nelle specialità alpinismo, sci escursionismo e arrampicata sportiva su roccia della disciplina sport di montagna e abbiano la responsabilità globale per la sicurezza nelle rispettive attività;
-  - b. siano attive come esperti G+S nella formazione dei quadri della disciplina sportiva sport di montagna.
+  - a. siano attive come monitori G+S nelle discipline sportive alpinismo e sci escursionismo, come pure nelle attività su roccia nella disciplina arrampicata sportiva e abbiano la responsabilità globale per la sicurezza nelle rispettive attività;
+  - b. siano attive come esperti G+S nella formazione dei quadri delle discipline sportive alpinismo, arrampicata sportiva e sci escursionismo.
 
 - 2\. Nei corsi e nei campi G+S viene corrisposto un importo forfettario per ogni 45 ore/partecipante. Sono considerate le ore di attività G+S svolte sotto la responsabilità di una guida alpina e a cui la guida ha partecipato. Le frazioni delle unità di 45 ore/partecipante vengono arrotondate all’unità superiore.
-- 3\. Nelle offerte della formazione dei quadri della specialità arrampicata sportiva della disciplina sportiva sport di montagna è corrisposta un’indennità forfettaria giornaliera ogni 12 partecipanti per le offerte in cui la guida effettivamente insegna. Le frazioni dell’unità di 12 partecipanti vengono arrotondate all’unità superiore.
-- 4\. Nelle offerte della formazione dei quadri delle specialità sci escursionismo e alpinismo della disciplina sportiva sport di montagna è corrisposta un’indennità forfettaria giornaliera ogni 6 partecipanti per le offerte in cui la guida effettivamente insegna. Le frazioni dell’unità di 6 partecipanti vengono arrotondate all’unità superiore.
+- 3\. Nelle offerte della formazione dei quadri nella disciplina arrampicata sportiva è corrisposta un’indennità forfettaria giornaliera ogni 12 partecipanti per le offerte in cui la guida effettivamente insegna. Le frazioni dell’unità di 12 partecipanti vengono arrotondate all’unità superiore.
+- 4\. Nelle offerte della formazione dei quadri delle discipline sportive alpinismo e sci escursionismo è corrisposta un’indennità forfettaria giornaliera ogni 6 partecipanti per le offerte in cui la guida effettivamente insegna. Le frazioni dell’unità di 6 partecipanti vengono arrotondate all’unità superiore.
 
 Allegato 6*[^t-6]*
 
