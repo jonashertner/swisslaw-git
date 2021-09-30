@@ -4,13 +4,12 @@ number: "732.12"
 title: Verordnung über den Klosterplatz in St.Gallen
 short: KPV
 language: de
-version: 2013-01-01
-valid_until: 2021-09-30
-version_adopted: 2012-05-29
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 2012-05-29
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/732.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/239/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3242/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/239/pdf_file"
 
 (KPV)
 
-vom 29.05.2012 (Stand 01.01.2013)
+vom 29.05.2012 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -161,7 +160,7 @@ als Verordnung:[^ingress-2]
 
 **Mitberichtsverfahren**
 
-<sup>1</sup> Die zuständige Stelle holt einen Mitbericht des Departementes des Innern und des Baudepartementes ein.
+<sup>1</sup> Die zuständige Stelle holt einen Mitbericht des Departementes des Innern und des Bau- und Umweltdepartementes ein.
 
 #### Art. 16
 
@@ -215,7 +214,7 @@ als Verordnung:[^ingress-2]
 
 **Mitberichtsverfahren**
 
-<sup>1</sup> Die zuständige Stelle holt einen Mitbericht des Departementes des Innern und des Baudepartementes ein.
+<sup>1</sup> Die zuständige Stelle holt einen Mitbericht des Departementes des Innern und des Bau- und Umweltdepartementes ein.
 
 #### Art. 23
 
