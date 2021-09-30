@@ -4,13 +4,13 @@ number: "134.11"
 title: Notverordnung über die Sicherstellung der politischen Rechte während der Covid-19-Pandemie
 short: Notverordnung zu den politischen Rechten
 language: de
-version: 2021-03-11
-valid_until: 2021-09-30
-version_adopted: 2021-03-09
+version: 2021-10-01
+valid_until: 2022-06-30
+version_adopted: 2021-09-28
 adopted: 2021-09-28
 in_force: 2021-10-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/134.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/928/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/929/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/928/pdf_file"
 
 (Notverordnung zu den politischen Rechten)
 
-vom 09.03.2021 (Stand 11.03.2021)
+vom 28.09.2021 (Stand 01.10.2021)
 
 Der Regierungsrat von Nidwalden,
 
@@ -63,10 +63,10 @@ beschliesst:
 
 **Versammlungen**
 
-<sup>1</sup> Das vollziehende Organ ist ermächtigt, die gesetzlich, reglementarisch oder statutarisch vorgesehenen Versammlungen des Frühjahres 2021 und die entsprechenden Geschäfte:
+<sup>1</sup> Das vollziehende Organ ist ermächtigt, die gesetzlich, reglementarisch oder statutarisch vorgesehenen Versammlungen und die entsprechenden Geschäfte:
 
-- 1\. auf einen späteren Termin im Jahr 2021 zu verschieben;
-- 2\. abzusagen und die Sach- und Wahlgeschäfte an einer ordentlichen oder ausserordentlichen Versammlung in der zweiten Hälfte des Jahres 2021 zu behandeln beziehungsweise gemäss § 5 an die Urne zu verweisen.
+- 1\. auf einen späteren Termin zu verschieben;
+- 2\. abzusagen und die Sach- und Wahlgeschäfte an einer ordentlichen oder ausserordentlichen Versammlung im Jahr 2022 zu behandeln beziehungsweise gemäss § 5 an die Urne zu verweisen.
 
 <sup>2</sup> Die Verschiebung oder Absage ist auch zulässig, wenn die Geschäftsordnung zur Versammlung bereits veröffentlicht wurde.
 
@@ -104,9 +104,9 @@ beschliesst:
 
 **Inkrafttreten, Befristung**
 
-<sup>1</sup> Diese Notverordnung tritt am 11. März 2021 in Kraft.
+<sup>1</sup> Diese Notverordnung tritt am 1. Oktober 2021 in Kraft.
 
-<sup>2</sup> Sie gilt bis am 30. September 2021.
+<sup>2</sup> Sie gilt bis am 30. Juni 2022.
 
 <sup>3</sup> Sie ist dem Landrat sobald als möglich zu unterbreiten; er hat über die weitere Geltung und Befristung zu entscheiden.
 
@@ -114,10 +114,10 @@ beschliesst:
 
 **Ausserordentliche Veröffentlichung**
 
-<sup>1</sup> Diese Notverordnung wird gemäss Art. 11 des Gesetzes über die amtlichen Publikationen (Publikationsgesetz)[^8-1] ausserordentlich veröffentlicht. Die ausserordentliche Veröffentlichung erfolgt insbesondere durch Abgabe einer Medienmitteilung und Bekanntmachung im Online-Verfahren.
+<sup>1</sup> Diese Notverordnung wird gemäss Art. 11 des Gesetzes über die amtlichen Publikationen (Publikationsgesetz)[^8-1] ausserordentlich im Internet veröffentlicht.
 
 <sup>2</sup> Die ordentliche Publikation ist sobald als möglich nachzuholen.
 
 [^8-1]: NG 141.1
 
-A 2021, 490
+A 2021, 1790
