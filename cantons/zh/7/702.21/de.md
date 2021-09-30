@@ -4,60 +4,75 @@ number: "702.21"
 title: Natur- und Heimatschutzfondsgesetz (NHFG)
 short: NHFG
 language: de
-version: "2005-01-01"
-nachtrag: "47"
-valid_until: 2021-10-01
+version: "2021-10-01"
+nachtrag: "114"
 adopted: 1974-03-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-702_21-1974_03_17-1974_05_04-047.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-702_21-1974_03_17-1974_05_04-114.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# 702.21
+# Natur- und Heimatschutzfondsgesetz (NHFG)
 
-## Gesetz über die Finanzierung von Massnahmen für den Natur- und Heimatschutz und für Erholungsgebiete
+(vom 17. März 1974)[^t-2][^t-1]
 
-(vom 17. März 1974)<sup>1</sup>
+§ 1.[^t-1] Der Kanton führt einen Fonds für die Finanzierung von Massnahmen und die Leistung von Staatsbeiträgen a. zur Schaffung, Erhaltung, Erschliessung, Gestaltung oder Pflege von schützenswerten Landschafts- und Ortsbildern sowie von Natur- und Kulturobjekten,
 
-§ 1. Für die Finanzierung von Massnahmen zur Schaffung, Erhaltung, Erschliessung, Gestaltung oder Pflege von schützenswerten Landschafts- und Ortsbildern, von Natur- und Kulturobjekten sowie von Erholungsgebieten wird ein Fonds geschaffen.
+- b. zur Renaturierung im Bereich von öffentlichen Gewässern.
 
-#### § 2
+§ 2.[^t-1] Die Mittel des Fonds werden verwendet a. für Grundstücksgeschäfte und zu den in § 1 genannten Zwecken.
 
-Die Mittel des Fonds sind bestimmt a) für den Erwerb von Grundstücken und die Errichtung beschränkter dinglicher Rechte zu den in § 1 genannten Zwecken;
+- b. für die Entschädigung von Grundeigentümerinnen und Grundeigentümern, denen für diese Zwecke enteignungsähnliche Beschränkungen auferlegt worden sind,
 
-- b) für die Entschädigung von Grundeigentümern, denen für diese Zwecke enteignungsähnliche Beschränkungen auferlegt worden sind;
+- c. für die Finanzierung anderer Massnahmen im Sinne von § 1, soweit nicht andere Finanzierungsquellen dazu ausgeschöpft werden können.
 
-- c) für die Finanzierung anderer Massnahmen im Sinne von § 1, wie die Pflege der Objekte und die Anlage von Wanderwegen, Rastplätzen, Parkplätzen und dergleichen, soweit nicht andere Finanzierungsquellen dazu ausgeschöpft werden können.
+§ 3.[^t-1] <sup>1</sup> Der Kantonsrat weist dem Fonds mit dem Budget jährliche Einlagen von 40–60 Mio. Franken zu.
 
-#### § 3
+<sup>2</sup> Fällt der Bestand des Fonds unter einen Betrag von 30 Mio. Franken, weist der Kantonsrat dem Fonds mit dem Budget jährliche Einlagen von 50–80 Mio. Franken zu.
 
-Der Kantonsrat weist dem Fonds mit dem Voranschlag jährliche Einlagen in der Höhe von 18 bis 30 Mio. Franken zu.<sup>3</sup> Er kann für die Tilgung der bis zum 31. Dezember 1996 aufgelaufenen Fondsschulden dem Fonds eine zusätzliche jährliche Einlage von höchstens 10 Millionen Franken zuweisen.
+<sup>3</sup> Für Renaturierungen im Bereich von öffentlichen Gewässern werden davon jährlich 5 Mio. Franken bereitgestellt.
 
-Erreicht der Fonds einen Bestand von 50 Millionen Franken, ist die Einlage in dem Umfang festzulegen, dass sich der Bestand nicht weiter erhöht.
+<sup>4</sup> Erreicht der Fonds einen Bestand von 100 Mio. Franken, ist die Einlage so festzulegen, dass sich der Bestand des Fonds nicht weiter erhöht.
 
-§ 4.<sup>2</sup> Der Regierungsrat beschliesst über die Verwendung der Fondsmittel.
+<sup>5</sup> Die Beträge gemäss Abs. 1–4 werden jährlich dem Landesindex der Konsumentenpreise angepasst. Basis ist der Indexstand am 28. Februar 2018.
 
-#### § 5
+§ 4.[^t-1] <sup>1</sup> Der Regierungsrat beschliesst über die Verwendung der Fondsmittel.
 
-Der Kantonsrat beschliesst auf Antrag des Regierungsrates über die Aufhebung des Fonds und die Übertragung seines Restbestandes auf die ordentliche Betriebsrechnung, wenn für die Erreichung seines Zweckes keine finanziellen Mittel mehr nötig sind.
+<sup>2</sup> Bei Massnahmen gemäss §§ 1 und 2 werden die Grundeigentümerinnen und Grundeigentümer frühzeitig einbezogen.
+
+<sup>3</sup> Der Regierungsrat führt die Massnahmen gemäss § 1 zugunsten von Naturobjekten wenn möglich auf Flächen mit ausgewiesenem Potenzial für Biodiversität durch. Er verzichtet wenn möglich auf Enteignungen.
 
 **1**
 
-- 1\. 1. 05 - 47
+1.10. 21 - 114 § 5.[^t-1] <sup>1</sup> Die Direktion veröffentlicht alle zehn Jahre einen Bericht über die Tätigkeit des Fonds sowie eine Schwerpunktplanung für die nächsten zehn Jahre.
 
-## 702.21 Natur- und Heimatschutz, Finanzierung – Gesetz
+<sup>2</sup> Sie veröffentlicht jährlich Informationen über die Mittelverwendung, insbesondere in Bezug auf die Schwerpunkte gemäss Abs. 1.
 
-#### § 6
+§ 6.[^t-3] Der Kantonsrat beschliesst auf Antrag des Regierungsrates über die Aufhebung des Fonds und die Übertragung seines Restbestandes auf die ordentliche Betriebsrechnung, wenn für die Erreichung seines Zweckes keine finanziellen Mittel mehr nötig sind.
 
-Dieses Gesetz tritt, sofern die Stimmberechtigten es annehmen, am Tag nach der amtlichen Veröffentlichung des Kantonsratsbeschlusses über die Erwahrung in Kraft.
+§ 7.[^t-3] Dieses Gesetz tritt, sofern die Stimmberechtigten es annehmen, am Tag nach der amtlichen Veröffentlichung des Kantonsratsbeschlusses über die Erwahrung in Kraft.
 
 Auf den gleichen Zeitpunkt wird das Gesetz über die Finanzierung von Massnahmen im Interesse des Natur- und Heimatschutzes vom 26. Mai 1963 aufgehoben und der Restbestand seines Fonds in den neuen Fonds übertragen.
 
-<sup>1</sup> OS 45, 61 und GS V, 187.
+Übergangsbestimmung zur Änderung vom 14. Dezember 2020 (OS 76, 331)
 
-<sup>2</sup> Fassung gemäss Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
+<sup>1</sup> Die Einlagen gemäss § 3 betragen:
 
-<sup>3</sup> Fassung gemäss G vom 15. März 2004 (OS 59, 490). In Kraft seit 1. Januar 2005 (OS 59, 492).
+- a. im Jahr des Inkrafttretens dieser Änderung 30 Mio. Franken,
 
-2
+- b. im zweiten Jahr 34 Mio. Franken,
+
+- c. im dritten Jahr 40 Mio. Franken.
+
+<sup>2</sup> § 3 Abs. 2 wird erst ab dem vierten Jahr nach Inkrafttreten dieser Änderung angewendet.
+
+[^t-1]: Fassung gemäss G vom 14. Dezember 2020 (OS 76, 331; ABl 2019-11-29). In Kraft seit 1. Oktober 2021.
+[^t-2]: OS 45, 61 und GS V, 187.
+[^t-3]: Nummerierung gemäss G vom 14. Dezember 2020 (OS 76, 331; ABl 2019-11-
+
+## Weitere Fussnoten
+
+- [2] Fassung gemäss Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
+- [3] Fassung gemäss G vom 15. März 2004 (OS 59, 490). In Kraft seit 1. Januar 2005 (OS 59, 492).
+- [29] . In Kraft seit 1. Oktober 2021.
