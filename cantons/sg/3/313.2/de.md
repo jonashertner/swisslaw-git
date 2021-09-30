@@ -1,22 +1,22 @@
 ---
 canton: SG
 number: "313.2"
-title: Vollzugsverordnung zu den eidgenössischen Covid-19-Verordnungen besondere Lage und Massnahmen im Bereich des internationalen Personenverkehrs
+title: Vollzugsverordnung zu den eidgenössischen Covid-19-Verordnungen besondere Lage und internationaler Personenverkehr
 language: de
-version: 2021-06-30
-valid_until: 2021-09-30
-version_adopted: 2021-06-29
+version: 2021-10-01
+valid_until: 2021-11-28
+version_adopted: 2021-09-28
 adopted: 2021-06-29
 in_force: 2021-06-30
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/313.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3176/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3263/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zu den eidgenössischen Covid-19-Verordnungen besondere Lage und Massnahmen im Bereich des internationalen Personenverkehrs
+# Vollzugsverordnung zu den eidgenössischen Covid-19-Verordnungen besondere Lage und internationaler Personenverkehr
 
-vom 29.06.2021 (Stand 30.06.2021)
+vom 29.06.2021 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -42,7 +42,10 @@ als Verordnung:[^ingress-3]
 
 **Öffentlich-rechtliche Träger von Einrichtungen und Betrieben**
 
-<sup>1</sup> Öffentlich-rechtliche Körperschaften, Unternehmen und Anstalten kontrollieren das Vorhandensein eines ausreichenden Schutzkonzepts und dessen Umsetzung in den von ihnen geführten öffentlich zugänglichen Einrichtungen und Betrieben, einschliesslich Märkten.
+<sup>1</sup> Öffentlich-rechtliche Körperschaften, Unternehmen und Anstalten kontrollieren in den von ihnen geführten öffentlich zugänglichen Einrichtungen und Betrieben sowie an Veranstaltungen mit höchstens 1 000 Personen, die von ihnen organisiert werden:
+
+- a) das Vorhandensein eines ausreichenden Schutzkonzepts und dessen Umsetzung;
+- b) die Umsetzung von Zugangsbeschränkungen.
 
 #### Art. 3
 
@@ -65,7 +68,10 @@ als Verordnung:[^ingress-3]
 
 **Amt für Wirtschaft und Arbeit**
 
-<sup>1</sup> Das Amt für Wirtschaft und Arbeit kontrolliert das Vorhandensein eines ausreichenden Schutzkonzepts und dessen Umsetzung in öffentlich zugänglichen Einrichtungen und Betrieben.
+<sup>1</sup> Das Amt für Wirtschaft und Arbeit kontrolliert in öffentlich zugänglichen Einrichtungen und Betrieben:
+
+- a) das Vorhandensein eines ausreichenden Schutzkonzepts und dessen Umsetzung;
+- b) die Umsetzung von Zugangsbeschränkungen.
 
 <sup>2</sup> Ausgenommen sind:
 
@@ -73,7 +79,8 @@ als Verordnung:[^ingress-3]
 - b) stationäre Einrichtungen zur Betreuung und Pflege von Betagten;
 - c) Einrichtungen zur dauernden Betreuung oder Beschäftigung von volljährigen Menschen mit Behinderung;
 - d) Gesundheitseinrichtungen sowie Praxen und Einrichtungen von Gesundheitsfachpersonen;
-- e) Einrichtungen und Betriebe nach Art. 2 dieses Erlasses.
+- e) Einrichtungen und Betriebe nach Art. 2 dieses Erlasses;
+- f) Veranstaltungen sowie Fach- und Publikumsmessen.
 
 [^4-1]: sGS [553.1](https://www.gesetzessammlung.sg.ch/data/553.1/de).
 
@@ -81,7 +88,7 @@ als Verordnung:[^ingress-3]
 
 **Amt für Soziales**
 
-<sup>1</sup> Das Amt für Soziales kontrolliert das Vorhandensein eines ausreichenden Schutzkonzepts und dessen Umsetzung in:
+<sup>1</sup> Das Amt für Soziales kontrolliert das Vorhandensein eines ausreichenden Schutzkonzepts und dessen Umsetzung sowie die Umsetzung von Zugangsbeschränkungen in:
 
 - a) stationären Einrichtungen zur Betreuung und Pflege von Betagten nach Art. 33 Abs. 1 Satz 2 des Sozialhilfegesetzes vom 27. September 1998[^5-1];
 - b) Einrichtungen zur dauernden Betreuung oder Beschäftigung von volljährigen Menschen mit Behinderung nach Art. 8 des Gesetzes über die soziale Sicherung und Integration von Menschen mit Behinderung vom 7. August 2012[^5-2].
@@ -89,11 +96,22 @@ als Verordnung:[^ingress-3]
 [^5-1]: sGS [381.1](https://www.gesetzessammlung.sg.ch/data/381.1/de).
 [^5-2]: sGS [381.4](https://www.gesetzessammlung.sg.ch/data/381.4/de).
 
+#### Art. 5a
+
+**Betagten- und Pflegeheime**
+
+<sup>1</sup> Betagten- und Pflegeheime, die auf der kantonalen Pflegeheimliste[^5a-1] aufgeführt sind:
+
+- a) erheben die Kontaktdaten von Besuchenden, namentlich Name, Vorname, Geburtsdatum, E-Mail-Adresse und Mobiltelefonnummer. Diese werden während zwei Wochen aufbewahrt und danach gelöscht;
+- b) melden dem Amt für Soziales Infektionen von Mitarbeitenden und Bewohnenden mit Covid-19 sowie entsprechende Todesfälle.
+
+[^5a-1]: Anhang zum Regierungsbeschluss über die Pflegeheimliste vom 20. Dezember 2011, sGS [381.181](https://www.gesetzessammlung.sg.ch/data/381.181/de).
+
 #### Art. 6
 
 **Kantonsarztamt**
 
-<sup>1</sup> Das Kantonsarztamt kontrolliert das Vorhandensein eines ausreichenden Schutzkonzepts und dessen Umsetzung in Gesundheitseinrichtungen und Praxen und Einrichtungen von Gesundheitsfachpersonen.
+<sup>1</sup> Das Kantonsarztamt kontrolliert das Vorhandensein eines ausreichenden Schutzkonzepts und dessen Umsetzung sowie die Umsetzung von Zugangsbeschränkungen in Gesundheitseinrichtungen und Praxen und Einrichtungen von Gesundheitsfachpersonen.
 
 <sup>2</sup> Es ist zudem zuständig für:
 
@@ -116,8 +134,8 @@ als Verordnung:[^ingress-3]
 
 **Zuständige kantonale Behörde**
 
-<sup>1</sup> Vorbehältlich von Abs. 2 dieser Bestimmung ist das Kantonsarztamt die zuständige kantonale Behörde für den Vollzug der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs.
+<sup>1</sup> Vorbehältlich von Abs. 2 dieser Bestimmung ist das Kantonsarztamt die zuständige kantonale Behörde für den Vollzug der Covid-19-Verordnung internationaler Personenverkehr.
 
-<sup>2</sup> Das Gesundheitsdepartement bewilligt Erleichterungen und Ausnahmen von der Test- und Quarantänepflicht nach Art. 8 Abs. 5 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs.
+<sup>2</sup> Das Gesundheitsdepartement bewilligt Erleichterungen und Ausnahmen von der Test- und Quarantänepflicht nach Art. 9a Abs. 4 der Covid-19-Verordnung internationaler Personenverkehr.
 
 nGS 2021-062
