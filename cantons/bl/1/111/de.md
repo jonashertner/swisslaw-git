@@ -4,13 +4,13 @@ number: "111"
 title: Anmeldungs- und Registergesetz
 short: ARG
 language: de
-version: 2016-07-01
-valid_until: 2021-09-30
-version_adopted: 2015-12-03
+version: 2021-10-01
+valid_until: 2024-06-30
+version_adopted: 2021-05-20
 adopted: 2008-06-19
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/111"
-pdf: "https://bl.clex.ch/api/de/versions/2603/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3649/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2603/pdf_file"
 
 (ARG)
 
-Vom 19.06.2008 (Stand 01.07.2016)
+Vom 19.06.2008 (Stand 01.10.2021)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -40,7 +40,8 @@ beschliesst:[^ingress-2]
 
 - a. den Vollzug des Bundesgesetzes vom 23. Juni 2006[^1-1] über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister (Registerharmonisierungsgesetz, RHG) sowie der darauf beruhenden Bundeserlasse;
 - b. die An-, Um- und Abmeldungspflicht natürlicher Personen bei Niederlassung oder Aufenthalt in der Einwohnergemeinde;
-- c. die Führung eines kantonalen Personenregisters.
+- c. die Führung eines kantonalen Personenregisters;
+- d. die Führung eines kantonalen Gebäude- und Wohnungsregisters.
 
 [^1-1]: [SR 431.02](https://db.clex.ch/link/Bund/431.02/de)
 
@@ -257,6 +258,76 @@ beschliesst:[^ingress-2]
 <sup>2</sup> Der Kanton trägt die Kosten für den Betrieb des kantonalen Personenregisters und der Datenübermittlung an dieses.
 
 <sup>3</sup> Die Abfrage von Daten des kantonalen Personenregisters ist unentgeltlich.
+
+## 3a Kantonales Gebäude- und Wohnungsregister
+
+#### § 17a
+
+**Register, Zweck**
+
+<sup>1</sup> Der Kanton führt ein kantonales Gebäude- und Wohnungsregister («kGWR») gemäss den Bedingungen von Art. 6 Abs. 1 der Verordnung vom 9. Juni 2017[^17a-1] über das eidgenössische Gebäude- und Wohnungsregister (VGWR).
+
+<sup>2</sup> Im kGWR sind alle Gebäude und Wohnungen im Kantonsgebiet erfasst.
+
+<sup>3</sup> Es hat zum Zweck:
+
+- a. kantonalen Stellen, kantonalen öffentlich-rechtlichen Institutionen, Einwohnergemeinden und Dritten aktuelle Gebäude- und Wohnungsdaten bereitzustellen;
+- b. der zuständigen eidgenössischen Stelle die vom Bund verlangten Gebäude- und Wohnungsdaten zu liefern.
+
+[^17a-1]: [SR 431.841](https://db.clex.ch/link/Bund/431.841/de)
+
+#### § 17b
+
+**Inhalt**
+
+<sup>1</sup> Das kGWR enthält die vom Bund verlangten Informationen mit den zugehörigen Merkmalen zu den Gebäuden und Wohnungen sowie zusätzlich kantonale Informationen mit den zugehörigen Merkmalen zu den Gebäuden und Wohnungen.
+
+<sup>2</sup> Der Regierungsrat legt in der Verordnung die kantonalen Informationen mit den zugehörigen Merkmalen zu den Gebäuden und Wohnungen fest.
+
+#### § 17c
+
+**Zuständige Stellen**
+
+<sup>1</sup> Das Amt für Daten und Statistik ist für den Vollzug der Gesetzgebung über das kGWR zuständig.
+
+<sup>2</sup> Es wird vom Amt für Geoinformation unterstützt.
+
+<sup>3</sup> Der Leiter oder die Leiterin des Amts für Daten und Statistik regelt die betriebstechnisch bedingten Zugriffsrechte auf das kGWR.
+
+#### § 17d
+
+**Datenmeldungen an das kGWR**
+
+<sup>1</sup> Kantonale Stellen, kantonale öffentlich-rechtliche Institutionen sowie Einwohnergemeinden, die Gebäude- und Wohnungsdaten gemäss diesem Gesetz erheben, melden diese elektronisch und unentgeltlich an das kGWR.
+
+<sup>2</sup> Der Regierungsrat legt in der Verordnung insbesondere fest:
+
+- a. die meldepflichtigen Institutionen gemäss Abs. 1;
+- b. die Periodizität der Datenmeldungen;
+- c. die Anforderungen an die elektronischen Datenmeldungen.
+
+#### § 17e
+
+**Datenmeldungen des kGWR**
+
+<sup>1</sup> Der Kanton meldet der eidgenössischen Stelle die vom Bund verlangten Daten aus dem kGWR.
+
+#### § 17f
+
+**Datenabfragen aus dem kGWR**
+
+<sup>1</sup> Die öffentlich zugängliche Datenabfrage ist gewährleistet und unentgeltlich.
+
+<sup>2</sup> Kantonale Stellen, kantonale öffentlich-rechtliche Institutionen, Einwohnergemeinden sowie Dritte, welchen die Erfüllung einer öffentlichen Aufgabe übertragen ist, können unentgeltlich aus dem kGWR Daten abfragen oder sich Daten systematisch melden lassen, sofern sie diese für die Erfüllung ihres gesetzlichen Auftrags benötigen.
+
+<sup>3</sup> Die Stellen und Dritten gemäss Art. 15 Abs. 1 der Verordnung über das eidgenössische Gebäude- und Wohnungsregister (VGWR)[^17f-1] sowie Dritte für Forschungs- und Planungszwecke können auf Gesuch hin Daten aus dem kGWR abfragen.
+
+<sup>4</sup> Der Regierungsrat legt in der Verordnung insbesondere fest:
+
+- a. die Details der Datenabfragen;
+- b. die Gebühren für Abfragen gemäss Abs. 3.
+
+[^17f-1]: [SR 431.841](https://db.clex.ch/link/Bund/431.841/de)
 
 ## 4 Schlussbestimmungen
 
