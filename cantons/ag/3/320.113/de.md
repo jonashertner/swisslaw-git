@@ -4,13 +4,13 @@ number: "320.113"
 title: Sonderverordnung 1 zur Begegnung von Störungen der öffentlichen Ordnung und Sicherheit sowie sozialen Notständen infolge des Coronavirus
 short: SonderV 20-1
 language: de
-version: 2021-09-20
-valid_until: 2021-09-30
-version_adopted: 2021-09-15
+version: 2021-10-01
+valid_until: 2022-02-16
+version_adopted: 2021-09-29
 adopted: 2020-04-01
 in_force: 2020-04-02
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/320.113"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3024/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3025/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3024/pdf_file"
 
 (SonderV 20-1)
 
-Vom 01.04.2020 (Stand 20.09.2021)
+Vom 01.04.2020 (Stand 01.10.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -57,17 +57,15 @@ beschliesst:
 
 **Ermächtigung der Spitäler zur Behandlung ungeachtet des Spitallistenauftrags**
 
-<sup>1</sup> Die Spitäler sind gestützt auf § 8 Abs. 3 der Verordnung über die Spitalliste (SpiliV) vom 6. März 2013[^4a-1] von der Beachtung der Schranken und des Spektrums der ihnen mit der Spitalliste erteilten Leistungsaufträge insoweit entbunden, als dies im Rahmen der Erfüllung des Zwecks der vorliegenden Verordnung erforderlich ist.
+<sup>1</sup> …
 
-<sup>2</sup> Sie sind unabhängig der erteilten Leistungsaufträge in diesem Rahmen ermächtigt, Behandlungen von Patientinnen und Patienten innerhalb ihres medizinischen Kompetenzbereichs vorzunehmen. Die entsprechenden Weisungen und Empfehlungen der zuständigen Behörden des Bundes und des Kantons sind zu befolgen.
+<sup>2</sup> …
 
-<sup>3</sup> Behandlungen, die ausserhalb eines erteilten Leistungsauftrags und innerhalb des medizinischen Kompetenzbereichs erbracht werden, sind gemäss dem von der Abteilung Gesundheit des Departements Gesundheit und Soziales (DGS) im konkreten Fall bezeichneten genehmigten Aargauer Tarif abzurechnen.
+<sup>3</sup> …
 
 <sup>4</sup> Für die von den Rehabilitationskliniken geschaffenen Rekonvaleszenzabteilungen gilt eine Tagespauschale von Fr. 913.–.
 
-<sup>5</sup> Gestützt auf § 7 Abs. 4 SpiliV kann das DGS den Spitälern im Rahmen des Zwecks der vorliegenden Verordnung auch Leistungsaufträge erteilen, welche die Anforderungen gemäss § 2 Abs. 2 SpiliV sowie zum Verfahren, zu den Unterlagen und zum Ablauf gemäss den §§ 3–5 SpiliV nicht erfüllen.
-
-[^4a-1]: SAR [331.215](https://gesetzessammlungen.ag.ch/data/331.215/de)
+<sup>5</sup> …
 
 #### § 5
 
@@ -97,22 +95,7 @@ beschliesst:
 
 #### § 6a
 
-**Zuständigkeit für die Fallführung und Hilfeleistung**
-
-<sup>1</sup> Kann ein kommunaler oder regionaler Sozialdienst seine Aufgaben gemäss dem Gesetz über die öffentliche Sozialhilfe und die soziale Prävention (Sozialhilfe- und Präventionsgesetz, SPG) vom 6. März 2001[^6a-1] und der Sozialhilfe- und Präventionsverordnung (SPV) vom 28. August 2002[^6a-2] aufgrund der vorliegenden Notlage nicht mehr erfüllen, hat die betreffende Gemeinde für eine Übergangslösung zu sorgen.
-
-<sup>2</sup> Findet die betreffende Gemeinde keine Übergangslösung, kann der Kantonale Sozialdienst (KSD) die Zuständigkeit für die Fallführung und Hilfeleistung vorübergehend einem anderen kommunalen oder regionalen Sozialdienst oder einer anderen geeigneten Stelle übertragen.
-
-<sup>3</sup> Der Sozialdienst, dem die Zuständigkeit übertragen wurde, übernimmt die Fallführung und Hilfeleistung gemäss den in seiner Gemeinde geltenden rechtlichen Vorgaben.
-
-<sup>4</sup> Die andere geeignete Stelle, der die Zuständigkeit übertragen wurde, übernimmt die Fallführung und Hilfeleistung gemäss den rechtlichen Vorgaben der Gemeinde, die ihre Aufgaben nicht mehr erfüllen kann.
-
-<sup>5</sup> Die Gemeinde, die ihre Aufgaben nicht mehr erfüllen kann, hat die Aufwände, die dem neu zuständigen Sozialdienst beziehungsweise der neu zuständigen anderen Stelle entstehen, zu übernehmen.
-
-<sup>6</sup> Der KSD kann entsprechende Koordinationsmassnahmen treffen und einheitliche Kriterien für die Übernahme der Zuständigkeit in einer Weisung regeln. Dies betrifft insbesondere die Höhe der materiellen Hilfe sowie die Entschädigung des sonstigen Aufwands des vorübergehend zuständigen Sozialdienstes beziehungsweise der vorübergehend zuständigen anderen Stelle.
-
-[^6a-1]: SAR [851.200](https://gesetzessammlungen.ag.ch/data/851.200/de)
-[^6a-2]: SAR [851.211](https://gesetzessammlungen.ag.ch/data/851.211/de)
+**…**
 
 #### § 7
 
@@ -169,23 +152,11 @@ beschliesst:
 
 #### § 10
 
-**Öffentliche Auflage von Akten und Akteneinsicht**
-
-<sup>1</sup> Die zuständige Behörde gemäss den bau- und verfahrensrechtlichen Bestimmungen kann während der Geltungsdauer dieser Verordnung einzelfallweise verlangen, dass die öffentlich aufzulegenden Akten sowohl in Papierform als auch elektronisch einzureichen sind.
-
-<sup>2</sup> Sie kann während der Geltungsdauer dieser Verordnung einzelfallweise anordnen, dass digital in die Akten Einsicht genommen werden muss und eine Einsichtnahme vor Ort nur in begründeten Fällen nach vorheriger Absprache zugestanden werden kann.
-
-<sup>3</sup> Sie ist während der Geltungsdauer dieser Verordnung befugt, in begründeten Fällen die gesetzliche Frist für die öffentliche Auflage vor deren Ablauf um höchstens 30 Tage zu erstrecken.
-
-<sup>4</sup> Bei fehlender zeitlicher Dringlichkeit kann sie während der Geltungsdauer dieser Verordnung die öffentliche Auflage für einen späteren Zeitpunkt vorsehen.
+**…**
 
 #### § 11
 
-**Verlängerung von Fristen in den Bereichen Jagd, Wald und Naturschutz**
-
-<sup>1</sup> Die zuständigen Behörden gemäss den jagd-, wald- und naturschutzrechtlichen Bestimmungen können einzelfallweise Fristen für die Erbringung von Nachweisen und für die Ausführung von Vorhaben verlängern.
-
-<sup>2</sup> Die in der Jagdgesetzgebung verlangten Treffsicherheitsnachweise, die am 31. Dezember 2019 abgelaufen sind, bleiben bis 30. Juni 2021 gültig.
+**…**
 
 #### § 11a
 
@@ -210,14 +181,7 @@ beschliesst:
 
 #### § 12a
 
-**Versammlungswahlen**
-
-<sup>1</sup> Gemeinden, die ihre Behörden an der Gemeindeversammlung wählen, können die notwendigen Wahlen an der Urne durchführen, wenn
-
-- a) die Durchführung der Gemeindeversammlung aufgrund behördlicher Vorgaben nicht zulässig ist, oder
-- b) keine geeigneten Räumlichkeiten zur Verfügung stehen, in welchen die Gemeindeversammlung unter Einhaltung der geltenden epidemiologischen Schutzmassnahmen durchgeführt werden kann, oder aus anderen epidemiologischen Gründen die Durchführung der Gemeindeversammlung nicht angezeigt ist.
-
-<sup>2</sup> In den Erläuterungen zu den Wahlen hat der Gemeinderat die Gründe für die Urnenabstimmung darzulegen.
+**…**
 
 #### § 12b
 
@@ -248,11 +212,7 @@ beschliesst:
 
 #### § 17
 
-**Dringliche Verpflichtungskredite**
-
-<sup>1</sup> Lässt eine Ausgabe, für die kein Verpflichtungskredit gemäss § 90f Abs. 2 des Gesetzes über die Einwohnergemeinden (Gemeindegesetz, GG) vom 19. Dezember 1978[^17-1] vorliegt, keinen Aufschub zu, kann der Gemeinderat den Verpflichtungskredit mit Zustimmung der Finanzkommission beschliessen. Der Ausgabenbeschluss richtet sich nach § 90d GG.
-
-[^17-1]: SAR [171.100](https://gesetzessammlungen.ag.ch/data/171.100/de)
+**…**
 
 #### § 18
 
@@ -281,6 +241,8 @@ beschliesst:
 <sup>8</sup> Die Massnahmen gemäss den §§ 8a und 9a gelten bis 31. Dezember 2021.
 
 <sup>9</sup> Die Massnahmen gemäss § 9b gelten bis 24. Januar 2022. Der Regierungsrat hebt sie ganz oder teilweise auf, sobald sie nicht mehr nötig sind.
+
+<sup>10</sup> Die Massnahmen gemäss den §§ 4a Abs. 4, 11a, 12 und 12b gelten bis 31. März 2022.
 
 Aarau, 1. April 2020
 
