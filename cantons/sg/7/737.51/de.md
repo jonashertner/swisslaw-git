@@ -3,20 +3,19 @@ canton: SG
 number: "737.51"
 title: Vollzugsverordnung zum Grossratsbeschluss über Massnahmen zur Förderung des Wohnungsbaues
 language: de
-version: 1973-01-30
-valid_until: 2021-09-30
-version_adopted: 1973-01-30
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 1967-05-02
 in_force: 1967-05-15
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/737.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/931/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3247/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Grossratsbeschluss über Massnahmen zur Förderung des Wohnungsbaues
 
-vom 02.05.1967 (Stand 30.01.1973)
+vom 02.05.1967 (Stand 01.10.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -35,7 +34,7 @@ als Verordnung:[^ingress-2]
 
 **Zuständigkeit**
 
-<sup>1</sup> Zuständig für die Gewährung von Staatsbeiträgen an die Kosten von Orts- und Regionalplanungen ist das Baudepartement.
+<sup>1</sup> Zuständig für die Gewährung von Staatsbeiträgen an die Kosten von Orts- und Regionalplanungen ist das Bau- und Umweltdepartement.
 
 #### Art. 2
 
@@ -51,7 +50,7 @@ als Verordnung:[^ingress-2]
 
 **Beitragszusicherung**
 
-<sup>1</sup> Das Baudepartement entscheidet, ob die Voraussetzungen für die Zusicherung eines Staatsbeitrages erfüllt sind und stellt Antrag auf Gewährung eines Bundesbeitrages.
+<sup>1</sup> Das Bau- und Umweltdepartement entscheidet, ob die Voraussetzungen für die Zusicherung eines Staatsbeitrages erfüllt sind und stellt Antrag auf Gewährung eines Bundesbeitrages.
 
 ## II. Wohnungsbau
 
@@ -113,7 +112,7 @@ als Verordnung:[^ingress-2]
 
 **Einreichung**
 
-<sup>1</sup> Gesuche um Kapitalzinsbeiträge sind dem Gemeinderat einzureichen, der sie mit schriftlicher Begründung und Zusicherung des Gemeindebeitrages an die Zentralstelle für Wohnungsbau zuhanden des Baudepartementes weiterleitet.
+<sup>1</sup> Gesuche um Kapitalzinsbeiträge sind dem Gemeinderat einzureichen, der sie mit schriftlicher Begründung und Zusicherung des Gemeindebeitrages an die Zentralstelle für Wohnungsbau zuhanden des Bau- und Umweltdepartementes weiterleitet.
 
 <sup>2</sup> Dem Gesuch sind alle für die Beurteilung wesentlichen, insbesondere die in Art. 39 der eidgenössischen Vollziehungsverordnung II zum Bundesgesetz über Massnahmen zur Förderung des Wohnungsbaues[^8-1] erwähnten Unterlagen beizufügen.
 
@@ -135,7 +134,7 @@ als Verordnung:[^ingress-2]
 
 **Zusicherung**
 
-<sup>1</sup> Über die Zusicherung von Staatsbeiträgen entscheidet das Baudepartement.
+<sup>1</sup> Über die Zusicherung von Staatsbeiträgen entscheidet das Bau- und Umweltdepartement.
 
 #### Art. 11
 
@@ -149,7 +148,7 @@ als Verordnung:[^ingress-2]
 
 **Beiträge Dritter**
 
-<sup>1</sup> Die öffentlich-rechtlichen Körperschaften, Arbeitgeber, Stiftungen und gemeinnützigen Organisationen, die eine Leistung gemäss Art. 3 Abs. 2 des Grossratsbeschlusses über Massnahmen zur Förderung des Wohnungsbaues[^12-1] übernehmen[^12-2], haben dies zuhanden des Baudepartementes schriftlich zu erklären.
+<sup>1</sup> Die öffentlich-rechtlichen Körperschaften, Arbeitgeber, Stiftungen und gemeinnützigen Organisationen, die eine Leistung gemäss Art. 3 Abs. 2 des Grossratsbeschlusses über Massnahmen zur Förderung des Wohnungsbaues[^12-1] übernehmen[^12-2], haben dies zuhanden des Bau- und Umweltdepartementes schriftlich zu erklären.
 
 [^12-1]: sGS [737.5](https://www.gesetzessammlung.sg.ch/data/737.5/de).
 [^12-2]: Vgl. Art. 22 der eidgV (2) über Bundeshilfe zur Förderung des Wohnungsbaues vom 22. Februar 1966, SR [842.2](https://db.clex.ch/link/Bund/842.2/de).
