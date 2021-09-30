@@ -4,13 +4,13 @@ number: "170.100"
 title: Legge sul Gran Consiglio
 short: LGC
 language: it
-version: 2021-04-01
-corrected: 2021-06-24
-version_adopted: 2020-12-09
+version: 2021-10-01
+valid_until: 2023-09-30
+version_adopted: 2021-02-16
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3155/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3191/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3155/pdf_file"
 
 (LGC)
 
-del 08.12.2005 (stato 01.04.2021)
+del 08.12.2005 (stato 01.10.2021)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -36,48 +36,23 @@ decide:
 
 #### Art. 1
 
-**Base di ripartizione**
-
-<sup>1</sup> Per la ripartizione tra i circondari elettorali dei seggi in Gran Consiglio è determinante la popolazione svizzera residente dei circondari elettorali in base alla statistica federale dello stato annuale della popolazione pubblicata nell'anno che precede le elezioni.
-
-<sup>2</sup> L'attribuzione dei comuni ai circondari elettorali è disciplinata nell'appendice.
-
-<sup>3</sup> L'appartenenza al circondario elettorale di comuni in fase di aggregazione va disciplinata nell'accordo di aggregazione. Se a questa regolamentazione si oppongono motivi gravi oppure i comuni non riescono a trovare un'intesa, decide il Governo in via definitiva. Se ne è interessata più di una regione, esse vanno previamente sentite.
+**…**
 
 #### Art. 2
 
-**Metodo di ripartizione**
-
-<sup>1</sup> I 120 seggi del Gran Consiglio sono ripartiti tra i circondari elettorali nel modo seguente:
-
-- a) Ripartizione preliminare:
-  - 1\. Il totale della popolazione svizzera residente è diviso per 120. Il quoziente arrotondato all'intero immediatamente superiore è quello determinante per la ripartizione preliminare. Ogni circondario elettorale la cui popolazione sia inferiore a questo quoziente, ottiene un seggio ed è escluso dalla ripartizione successiva.
-  - 2\. Il totale della popolazione svizzera residente dei rimanenti circondari elettorali è diviso per il numero dei seggi restanti. Il quoziente arrotondato all'intero immediatamente superiore è quello determinante per la seconda ripartizione. Ogni circondario elettorale la cui popolazione sia inferiore a questo quoziente, ottiene un seggio ed è escluso dalla ripartizione successiva.
-  - 3\. L'operazione viene ripetuta fino a quando i circondari elettorali rimanenti raggiungono l'ultimo quoziente di ripartizione.
-- b) Ripartizione principale: Ogni circondario elettorale rimanente ottiene tanti seggi quante volte l'ammontare della sua popolazione contiene l'ultimo quoziente.
-- c) Ripartizione completiva: I seggi rimanenti sono ripartiti tra i circondari elettorali che ottengono i resti maggiori. Se più circondari elettorali ottengono resti uguali, sono dapprima esclusi quelli che hanno ottenuto i resti minori dalla divisione della loro popolazione per il primo quoziente determinante. Se vi è ancora parità si procede a sorteggio.
+**…**
 
 #### Art. 3
 
-**Pubblicazione**
-
-<sup>1</sup> Prima delle elezioni il Governo pubblica nel Foglio ufficiale cantonale il numero dei deputati da eleggersi in ogni circondario elettorale.
+**…**
 
 #### Art. 4
 
-**Supplenti**
-
-<sup>1</sup> Ogni circondario elettorale elegge un numero di supplenti uguale a quello dei suoi deputati, ma al massimo dieci supplenti.
+**…**
 
 #### Art. 5
 
-**Ricorsi contro elezioni**
-
-<sup>1</sup> La Segreteria del Gran Consiglio sottopone immediatamente al presidente dell'ufficio elettorale per parere il ricorso pervenuto alla Cancelleria dello Stato, ordina se necessario ulteriori accertamenti e presenta gli atti alla Commissione di giustizia e sicurezza.
-
-<sup>2</sup> Questa presenta al Gran Consiglio, in occasione della sua prima seduta, una proposta di decisione motivata.
-
-<sup>3</sup> I deputati, la cui nomina è contestata, possono prendere parte alle sedute fino all'evasione del ricorso da parte del Gran Consiglio. Al momento della trattazione essi sono tenuti a ricusarsi.
+**…**
 
 #### Art. 6
 

@@ -4,13 +4,13 @@ number: "170.100"
 title: Lescha davart il cussegl grond
 short: LCG
 language: rm
-version: 2021-04-01
-corrected: 2021-06-24
-version_adopted: 2020-12-09
+version: 2021-10-01
+valid_until: 2023-09-30
+version_adopted: 2021-02-16
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3155/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3191/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3155/pdf_file"
 
 (LCG)
 
-dals 08-12-2005 (versiun dals 01-04-2021)
+dals 08-12-2005 (versiun dals 01-10-2021)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -36,48 +36,23 @@ concluda:
 
 #### Art. 1
 
-**Basa da la repartiziun**
-
-<sup>1</sup> Per reparter ils mandats dal cussegl grond sin ils circuls electorals è decisiv il dumber da la populaziun svizra dals circuls electorals sin basa da la statistica federala da l'effectiv annual da la populaziun che vegn mintgamai publitgada l'onn avant las elecziuns.
-
-<sup>2</sup> L'attribuziun da las vischnancas als circuls electorals è reglada en l'agiunta.
-
-<sup>3</sup> A tge circul electoral che vischnancas che fusiuneschan appartegnan, sto vegnir reglà en la cunvegna da fusiun. Sch'igl ha motivs relevants che s’opponan a questa regulaziun u sche las vischnancas na chattan betg in'enclegientscha, decida la regenza definitivamain. Sche dapli ch'ina regiun è pertutgada, ston questas regiuns vegnir consultadas l'emprim.
+**…**
 
 #### Art. 2
 
-**Procedura da repartiziun**
-
-<sup>1</sup> Ils 120 mandats dal cussegl grond vegnan repartids sin ils circuls electorals tenor la suandanta procedura:
-
-- a) Repartiziun anticipada:
-  - 1\. Il dumber da la populaziun svizra dal chantun vegn dividì tras 120. La proxima cifra entira pli auta sur il resultat furma l'emprima cifra da repartiziun. Mintga circul electoral che dispona d'in dumber pli pitschen che questa cifra survegn in mandat; quest circul na vegn betg pli tratg en consideraziun per l'ulteriura repartiziun.
-  - 2\. Il dumber da la populaziun svizra dals circuls electorals restants vegn dividì tras il dumber dals mandats che n'èn betg anc vegnids repartids. La proxima cifra entira pli auta sur il resultat furma la segunda cifra da repartiziun. Mintga circul electoral che dispona d'in dumber pli pitschen che questa cifra survegn in mandat; quest circul na vegn betg pli tratg en consideraziun per l'ulteriura repartiziun.
-  - 3\. Questa procedura vegn repetida fin ch'ils circuls electorals restants cuntanschan l'ultima cifra da repartiziun.
-- b) Repartiziun principala: Mintga circul electoral restant survegn tants mandats sco quai che l'ultima cifra da repartiziun è cuntegnida en ses dumber da la populaziun.
-- c) Repartiziun restanta: Ils mandats restants vegnan repartids sin ils circuls electorals cun las cifras restantas las pli grondas. Sche plirs circuls electorals cuntanschan la medema cifra restanta, vegnan els eliminads tenor la successiun dals rests ils pli pitschens che resultan suenter la divisiun da lur dumber da la populaziun tras l'emprima cifra da repartiziun. Sche er quests rests en eguals, decida la sort.
+**…**
 
 #### Art. 3
 
-**Communicaziun**
-
-<sup>1</sup> Avant las elecziuns publitgescha la regenza mintgamai en il fegl uffizial dal chantun Grischun il dumber da las commembras e dals commembers dal cussegl grond che ston vegnir elegids en mintga circul electoral.
+**…**
 
 #### Art. 4
 
-**Suppleantas e suppleants**
-
-<sup>1</sup> Mintga circul electoral elegia tantas suppleantas e tants suppleants sco quai ch'el ha d'eleger commembras e commembers dal cussegl grond, sin il pli dentant diesch.
+**…**
 
 #### Art. 5
 
-**Recurs electorals**
-
-<sup>1</sup> Il secretariat dal cussegl grond suttametta in recurs inoltrà a la chanzlia chantunala immediatamain a la presidenta u al president dal biro electoral per la consultaziun, ordinescha, sche necessari, ulteriuras retschertgas e suttametta las actas a la cumissiun per giustia e segirezza.
-
-<sup>2</sup> Quella suttametta ina proposta da decisiun motivada al cussegl grond en sia emprima sesida.
-
-<sup>3</sup> Ils deputads contestads dastgan far part da la sesida fin che las fatschentas da recurs èn liquidadas tras il cussegl grond. Tar il tractament ston ellas ed els prender recusaziun.
+**…**
 
 #### Art. 6
 

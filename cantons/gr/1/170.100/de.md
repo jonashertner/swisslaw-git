@@ -4,13 +4,13 @@ number: "170.100"
 title: Gesetz über den Grossen Rat
 short: Grossratsgesetz; GRG
 language: de
-version: 2021-04-01
-corrected: 2021-06-24
-version_adopted: 2020-12-09
+version: 2021-10-01
+valid_until: 2023-09-30
+version_adopted: 2021-02-16
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3155/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3191/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3155/pdf_file"
 
 (Grossratsgesetz; GRG)
 
-Vom 08.12.2005 (Stand 01.04.2021)
+Vom 08.12.2005 (Stand 01.10.2021)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -36,48 +36,23 @@ beschliesst:
 
 #### Art. 1
 
-**Grundlage der Verteilung**
-
-<sup>1</sup> Für die Verteilung der Grossratssitze auf die Wahlkreise ist massgebend die schweizerische Wohnbevölkerung der Wahlkreise aufgrund der eidgenössischen Statistik des jährlichen Bevölkerungsstandes, die jeweils im Jahr vor den Wahlen publiziert wird.
-
-<sup>2</sup> Die Zuordnung der Gemeinden zu den Wahlkreisen ist im Anhang geregelt.
-
-<sup>3</sup> Die Zugehörigkeit zum Wahlkreis von sich zusammenschliessenden Gemeinden ist in der Fusionsvereinbarung zu regeln. Stehen wichtige Gründe dieser Regelung entgegen oder können sich die Gemeinden nicht einigen, entscheidet die Regierung endgültig. Ist mehr als eine Region betroffen, so sind diese vorgängig anzuhören.
+**…**
 
 #### Art. 2
 
-**Verteilungsverfahren**
-
-<sup>1</sup> Die 120 Sitze des Grossen Rates werden auf die Wahlkreise nach folgendem Verfahren verteilt:
-
-- a) Vorwegverteilung:
-  - 1\. Die schweizerische Wohnbevölkerung des Kantons wird durch 120 geteilt. Die nächsthöhere ganze Zahl über dem Ergebnis bildet die erste Verteilungszahl. Jeder Wahlkreis, dessen Bevölkerung diese Zahl nicht erreicht, erhält einen Sitz; er scheidet für die weitere Verteilung aus.
-  - 2\. Die schweizerische Wohnbevölkerung der verbleibenden Wahlkreise wird durch die Zahl der noch nicht zugeteilten Sitze geteilt. Die nächsthöhere ganze Zahl über dem Ergebnis bildet die zweite Verteilungszahl. Jeder Wahlkreis, dessen Bevölkerung diese Zahl nicht erreicht, erhält einen Sitz; er scheidet für die weitere Verteilung aus.
-  - 3\. Dieses Verfahren wird wiederholt, bis die verbleibenden Wahlkreise die letzte Verteilungszahl erreichen.
-- b) Hauptverteilung: Jeder verbliebene Wahlkreis erhält so viele Sitze, als die letzte Verteilungszahl in seiner Bevölkerungszahl enthalten ist.
-- c) Restverteilung: Die restlichen Sitze werden auf die Wahlkreise mit den grössten Restzahlen verteilt. Erreichen mehrere Wahlkreise die gleiche Restzahl, so scheiden sie in der Reihenfolge der kleinsten Reste aus, die sich nach der Teilung ihrer Bevölkerungszahl durch die erste Verteilungszahl ergeben. Sind auch die Reste gleich, so entscheidet das Los.
+**…**
 
 #### Art. 3
 
-**Bekanntgabe**
-
-<sup>1</sup> Die Regierung gibt die Zahl der in jedem Wahlkreis zu wählenden Abgeordneten jeweils vor den Wahlen im Kantonsamtsblatt bekannt.
+**…**
 
 #### Art. 4
 
-**Stellvertreterinnen und Stellvertreter**
-
-<sup>1</sup> Jeder Wahlkreis wählt so viele Stellvertreterinnen und Stellvertreter, als er Abgeordnete zu wählen hat, höchstens jedoch zehn.
+**…**
 
 #### Art. 5
 
-**Wahlbeschwerden**
-
-<sup>1</sup> Das Ratssekretariat unterbreitet eine bei der Standeskanzlei eingegangene Beschwerde unverzüglich der Präsidentin oder dem Präsidenten des Wahlbüros zur Vernehmlassung, ordnet, falls nötig, weitere Erhebungen an und legt die Akten der Kommission für Justiz und Sicherheit vor.
-
-<sup>2</sup> Diese legt dem Grossen Rat in seiner ersten Sitzung einen begründeten Antrag zur Entscheidung vor.
-
-<sup>3</sup> Den beanstandeten Abgeordneten ist der Einsitz bis zur Erledigung der Beschwerdeangelegenheiten durch den Grossen Rat gestattet. Bei der Behandlung haben sie in Ausstand zu treten.
+**…**
 
 #### Art. 6
 
