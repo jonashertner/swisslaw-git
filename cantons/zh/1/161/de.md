@@ -4,11 +4,11 @@ number: "161"
 title: Gesetz über die politischen Rechte (GPR)
 short: GPR
 language: de
-version: "2021-07-01"
-nachtrag: "113"
-valid_until: 2021-10-01
+version: "2021-10-01"
+nachtrag: "114"
+valid_until: 2022-10-01
 adopted: 2003-09-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161-2003_09_01-2005_01_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161-2003_09_01-2005_01_01-114.html"
 text: pdf
 ---
 
@@ -67,7 +67,7 @@ Die politischen Rechte und Pflichten sind:
 
 **1**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 <sup>2</sup> Der politische Wohnsitz bestimmt sich nach den Bestimmungen des Bundesgesetzes über die politischen Rechte<sup>10</sup>.
 
@@ -163,7 +163,7 @@ Bei Urnenwahlen und Urnenabstimmungen sowie bei geheimen Wahlen und Abstimmungen
 
 **3**
 
-- 1\. 7. 21 - 113 § 14. <sup>1</sup> In jeder politischen Gemeinde besteht ein Wahlbüro von mindestens fünf Mitgliedern.
+1.10. 21 - 114 § 14. <sup>1</sup> In jeder politischen Gemeinde besteht ein Wahlbüro von mindestens fünf Mitgliedern.
 
 **Gemeindewahlbüro a. Im Allgemeinen**
 
@@ -247,7 +247,7 @@ Bei Urnenwahlen und Urnenabstimmungen sowie bei geheimen Wahlen und Abstimmungen
 
 **5**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 <sup>3</sup> Die Gemeinden sind berechtigt, das Programm auch für kommunale Wahlen und Abstimmungen einzusetzen. Kostenlos steht es ihnen zur Verfügung:<sup>21</sup> a. an den vom Bund oder vom Kanton bezeichneten Wahl- oder Abstimmungsdaten,
 
@@ -313,9 +313,7 @@ a.<sup>46</sup> Mitglied des Kantonsrates, der Oberstaatsanwaltschaft oder der O
 
 **7**
 
-- 1\. 7. 21 - 113
-
-- d. die Leiterin oder den Leiter der Finanzkontrolle gegenüber jedem Amt und jeder andern Anstellung auf der Ebene des Kantons oder eines Bezirks.
+1.10. 21 - 114 d. die Leiterin oder den Leiter der Finanzkontrolle gegenüber jedem Amt und jeder andern Anstellung auf der Ebene des Kantons oder eines Bezirks.
 
 <sup>3</sup> Für Ersatzleute und Stellvertretungen gilt dieser Unvereinbarkeitsgrund nicht, ausgenommen für die Stellvertreterin oder den Stellvertreter der Ombudsperson.
 
@@ -403,7 +401,7 @@ a.<sup>34</sup> Gemeindevorstand, Rechnungsprüfungskommission, Schulpflege und 
 
 **9**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 <sup>3</sup> Die Amtsdauer endet mit dem Beginn der Amtsdauer des erneuerten Organs.
 
@@ -491,9 +489,7 @@ Die Mitglieder der Organe haben Anspruch auf Ersatz der Auslagen und auf eine an
 
 **11**
 
-- 1\. 7. 21 - 113
-
-- 5\. Friedensrichterin oder Friedensrichter,
+1.10. 21 - 114 5. Friedensrichterin oder Friedensrichter,
 
 - 6\. Bürgerrechtskommission (Mitglieder),
 
@@ -597,7 +593,7 @@ Das Vorverfahren für Mehrheitswahlen findet statt a. bei Bezirkswahlen,
 
 **13**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 <sup>3</sup> Wenn die Unterzeichnenden eines Wahlvorschlages keine zur Vertretung ermächtigte Person bezeichnen, gilt die erstunterzeichnende und, wenn diese verhindert ist, die zweitunterzeichnende Person als berechtigt, Vorschläge zurückzuziehen und andere Erklärungen abzugeben.
 
@@ -683,11 +679,9 @@ Die Verordnung regelt, durch welche Angaben die Namen auf den Wahlvorschlägen u
 
 **15**
 
-- 1\. 7. 21 - 113 § 59.<sup>21</sup> <sup>1</sup> Der Regierungsrat legt das Datum einer Volksabstimmung so fest, dass sie innert sieben Monaten durchgeführt wird
+1.10. 21 - 114 § 59.<sup>21</sup> <sup>1</sup> Der Regierungsrat legt das Datum einer Volksabstimmung so fest, dass sie innert sieben Monaten durchgeführt wird a. ab endgültiger Verabschiedung einer Vorlage durch den Kantonsrat, wenn diese dem obligatorischen Referendum untersteht,
 
 **c. Kantonale Abstimmungen**
-
-- a. ab endgültiger Verabschiedung einer Vorlage durch den Kantonsrat, wenn diese dem obligatorischen Referendum untersteht,
 
 - b. ab Feststellung des Zustandekommens eines fakultativen Referendums.
 
@@ -779,7 +773,7 @@ Die Verordnung regelt, durch welche Angaben die Namen auf den Wahlvorschlägen u
 
 **17**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 <sup>5</sup> Ehrverletzende, offensichtlich wahrheitswidrige oder zu lange Äusserungen in der Stellungnahme gemäss Abs. 1 lit. c kann die wahlleitende Behörde ändern oder zurückweisen.
 
@@ -871,9 +865,7 @@ Das Wahlbüro ermittelt a.<sup>21</sup> die Zahl der Stimmenden, bestehend aus d
 
 **19**
 
-- 1\. 7. 21 - 113
-
-- c. sie ehrverletzende Äusserungen enthalten,
+1.10. 21 - 114 c. sie ehrverletzende Äusserungen enthalten,
 
 - d. wesentliche Teile fehlen.
 
@@ -961,7 +953,7 @@ Die Ergebnisse der Wahl oder Abstimmung werden in einem Protokoll festgehalten, 
 
 **21**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 ### F. Abschluss der Wahl oder Abstimmung
 
@@ -1047,7 +1039,7 @@ Kreiswahlvorsteherschaft ist a. in den Wahlkreisen I. bis VI. das Zentralwahlbü
 
 **23**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 <sup>3</sup> Die Direktion ermittelt die den Wahlkreisen zustehende Zahl von Sitzen und veröffentlicht das Ergebnis im Amtsblatt.<sup>21</sup>
 
@@ -1147,9 +1139,7 @@ Neben den in § 71 lit. a und b genannten Werten ermittelt das Wahlbüro zusätz
 
 **25**
 
-- 1\. 7. 21 - 113
-
-- c. die Summe der Kandidaten- und Zusatzstimmen jeder Liste (Parteistimmen).
+1.10. 21 - 114 c. die Summe der Kandidaten- und Zusatzstimmen jeder Liste (Parteistimmen).
 
 **Sitzverteilung a. Zuständigkeit**
 
@@ -1167,9 +1157,11 @@ Neben den in § 71 lit. a und b genannten Werten ermittelt das Wahlbüro zusätz
 
 <sup>3</sup> Eine Listengruppe nimmt an der Sitzverteilung nur teil, wenn entweder<sup>47</sup> a. wenigstens eine ihrer Listen mindestens 5% aller Parteistimmen des betreffenden Wahlkreises erhalten hat oder b. ihre Listen zusammen mindestens 3% aller Parteistimmen im ganzen Kanton erhalten haben.
 
-**c.Oberzuteilung auf die Listengruppen**
+#### § 103
 
-§ 103.<sup>15</sup> <sup>1</sup> Die Parteistimmenzahl einer Liste wird durch die Zahl der im betreffenden Wahlkreis zu vergebenden Sitze geteilt und zur nächstgelegenen ganzen Zahl gerundet. Das Ergebnis heisst Wählerzahl der Liste.
+**c. Oberzuteilung auf die Listengruppen**
+
+<sup>1</sup> Die Parteistimmenzahl einer Liste wird durch die Zahl der im betreffenden Wahlkreis zu vergebenden Sitze geteilt. Das ungerundete Ergebnis heisst Wählerzahl der Liste.<sup>48</sup>
 
 <sup>2</sup> In jeder Listengruppe werden die Wählerzahlen der Listen zusammengezählt. Die Summe wird durch den Kantons-Wahlschlüssel geteilt und zur nächstgelegenen ganzen Zahl gerundet. Das Ergebnis bezeichnet die Zahl der Sitze der betreffenden Listengruppe.
 
@@ -1233,7 +1225,7 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 **27**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 <sup>2</sup> Die Listennummern werden gemäss § 92 verteilt, wobei bei der Vertretung der Listen im Rat und bei der Vertretungsstärke nur die Zürcher Mitglieder des Rates berücksichtigt werden.
 
@@ -1331,7 +1323,7 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 **29**
 
-- 1\. 7. 21 - 113 § 126. <sup>1</sup> Zur Unterzeichnung der Unterschriftenliste gibt die stimmberechtigte Person handschriftlich ihren Namen, Vornamen, ihr Geburtsjahr und ihre Adresse an und fügt ihre Unterschrift bei.
+1.10. 21 - 114 § 126. <sup>1</sup> Zur Unterzeichnung der Unterschriftenliste gibt die stimmberechtigte Person handschriftlich ihren Namen, Vornamen, ihr Geburtsjahr und ihre Adresse an und fügt ihre Unterschrift bei.
 
 **Unterschriftensammlung, Einreichung der Listen**
 
@@ -1399,7 +1391,7 @@ des ausgearbeiteten Entwurfs<sup>20</sup>
 
 **31**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 ### C. Behandlung von Volksinitiativen in der Form
 
@@ -1485,7 +1477,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **33**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 <sup>3</sup> Bei der materiellen Behandlung im Kantonsrat hat eine Vertretung des Initiativkomitees das Recht, die Initiative persönlich zu begründen und an den Verhandlungen mit beratender Stimme teilzunehmen, falls ein entsprechendes Gesuch von mindestens einem Viertel der anwesenden Mitglieder des Kantonsrates unterstützt wird.
 
@@ -1565,7 +1557,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **35**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 <sup>3</sup> Die Unterschriftenlisten sind der Direktion gesamthaft und nach Gemeinden sortiert einzureichen.
 
@@ -1651,7 +1643,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **37**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 [^h1AbschnittAllgem_2-1]: LS 101.
 
@@ -1739,7 +1731,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **39**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 [^h1AbschnittInGem-1]: LS 101.
 
@@ -1839,7 +1831,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **41**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 ### Übergangsbestimmung zur Änderung vom 9. Juli 2007 (OS 62, 429)
 
@@ -1909,7 +1901,7 @@ Im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2020 gewählte Mi
 
 **43**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 <sup>28</sup> Fassung gemäss G über die Unterstellung der Steuerrekurskommissionen und der Baurekurskommissionen unter das Verwaltungsgericht vom 13. September 2010 (OS 65, 953; ABl 2010, 266). In Kraft seit 1. Januar 2011.
 
@@ -1950,3 +1942,5 @@ Im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2020 gewählte Mi
 <sup>46</sup> Fassung gemäss G vom 30. November 2020 (OS 76, 191; ABl 2018-06-29). In Kraft seit 1. Juli 2021.
 
 <sup>47</sup> Fassung gemäss G vom 30. November 2020 (OS 76, 193; ABl 2018-07-13). In Kraft seit 1. Juli 2021.
+
+<sup>48</sup> Fassung gemäss G vom 22. März 2021 (OS 76, 281; ABl 2020-02-21). In Kraft seit 1. Oktober 2021.
