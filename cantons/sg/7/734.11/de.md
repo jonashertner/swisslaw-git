@@ -4,13 +4,12 @@ number: "734.11"
 title: Wasserbauverordnung
 short: WBV
 language: de
-version: 2021-07-01
-valid_until: 2021-09-30
-version_adopted: 2021-06-15
+version: 2021-10-01
+version_adopted: 2021-06-29
 adopted: 2009-11-10
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/734.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3184/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3245/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3184/pdf_file"
 
 (WBV)
 
-vom 10.11.2009 (Stand 01.07.2021)
+vom 10.11.2009 (Stand 01.10.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -38,7 +37,7 @@ als Verordnung:[^ingress-2]
 
 **Hoheit und Aufsicht (Art. 6 und 8 WBG)**
 
-<sup>1</sup> Das Baudepartement übt die wasserbaupolizeiliche Hoheit und die Aufsicht über die kantonalen Gewässer aus.
+<sup>1</sup> Das Bau- und Umweltdepartement übt die wasserbaupolizeiliche Hoheit und die Aufsicht über die kantonalen Gewässer aus.
 
 #### Art. 2
 
@@ -46,7 +45,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Das Amt für Wasser und Energie ist zuständige Stelle des Kantons, soweit die Gesetzgebung über den Wasserbau nichts anderes bestimmt.
 
-<sup>2</sup> Das Baudepartement ist zuständige Stelle des Kantons bei der Prüfung der Umweltverträglichkeit von Vorhaben an kantonalen Gewässern[^2-1].
+<sup>2</sup> Das Bau- und Umweltdepartement ist zuständige Stelle des Kantons bei der Prüfung der Umweltverträglichkeit von Vorhaben an kantonalen Gewässern[^2-1].
 
 [^2-1]: Art. 15 f. des Einführungsgesetzes zur eidgenössischen Umweltschutzgesetzgebung, sGS [672.1](https://www.gesetzessammlung.sg.ch/data/672.1/de).
 
@@ -88,7 +87,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Material aus Kiesfängen ist so weit als möglich in das Gewässersystem zurückzuführen.
 
-<sup>2</sup> Das Baudepartement erlässt Richtlinien.
+<sup>2</sup> Das Bau- und Umweltdepartement erlässt Richtlinien.
 
 #### Art. 7
 
@@ -150,7 +149,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die politische Gemeinde prüft die Notwendigkeit des Gewässerausbaus vor Vergabe der Projektierungsarbeiten für das Auflageprojekt.
 
-<sup>2</sup> Sie lässt die Beitragsberechtigung vom Baudepartement klären.
+<sup>2</sup> Sie lässt die Beitragsberechtigung vom Bau- und Umweltdepartement klären.
 
 <sup>3</sup> Die Entschädigung für die Projektleitung oder die Unterstützung der Bauherrschaft durch die zuständige kantonale Stelle wird vor Beginn der Arbeiten vereinbart.
 
