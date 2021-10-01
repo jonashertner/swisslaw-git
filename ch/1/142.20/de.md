@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2021-07-01
+version: 2021-10-02
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20211002/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20211002-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20211002/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration
 
-(Ausländer- und Integrationsgesetz, AIG)**[^t-1]**
+(Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. Juli 2021)
+vom 16. Dezember 2005 (Stand am 2. Oktober 2021)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -839,7 +839,7 @@ Die Bestimmungen dieses Kapitels über ausländische Ehegatten gelten für die e
 
 ## 8. Kapitel: Integration
 
-### 1. Abschnitt: Integrationsförderung****
+### 1. Abschnitt: Integrationsförderung
 
 [^chap8-sec1-1]
 
@@ -951,7 +951,7 @@ Die Kantone sehen für Personen mit besonderem Integrationsbedarf so früh wie m
 [^58-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^58-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
-### 2. Abschnitt:**** Integrationserfordernisse
+### 2. Abschnitt: Integrationserfordernisse
 
 [^chap8-sec2-1]
 
@@ -986,7 +986,7 @@ Bei der Beurteilung der Integration berücksichtigt die zuständige Behörde fol
 
 <sup>4</sup> Die zuständigen Behörden können Personen, auf die Artikel 2 Absätze 2 und 3 sowie Artikel 42 Anwendung finden, Integrationsempfehlungen abgeben.
 
-## 9. Kapitel: Reisedokumente und Reiseverbot****
+## 9. Kapitel: Reisedokumente und Reiseverbot
 
 [^chap9-1]
 
@@ -1088,7 +1088,7 @@ Die Rückkehr- und Wiedereingliederungshilfe umfasst:
 [^60-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^60-3]: Fassung gemäss Ziff. IV 2 des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 
-### 2. Abschnitt: Erlöschen und Widerruf der Bewilligungen und Erlöschen des Aufenthaltsrechts****
+### 2. Abschnitt: Erlöschen und Widerruf der Bewilligungen und Erlöschen des Aufenthaltsrechts
 
 [^chap10-sec2-1]
 
@@ -1389,7 +1389,7 @@ Es[^67-2] kann Einreiseverbote gegenüber Ausländerinnen und Ausländern verfü
 
 [^68a-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), Abs. 3 und 5 in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
-### 4. Abschnitt: Ausschaffung und internationale Rückführungseinsätze****
+### 4. Abschnitt: Ausschaffung und internationale Rückführungseinsätze
 
 [^chap10-sec4-1]
 
@@ -1485,9 +1485,19 @@ Die behandelnde medizinische Fachperson gibt auf Anfrage die für die Beurteilun
 
 #### Art. 72
 
-[^72-1]
+**Covid-19-Test bei der Ausschaffung**[^72-1]
 
-[^72-1]: Aufgehoben durch Ziff. IV 2 des BG vom 16. Dez. 2005, mit Wirkung seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+<sup>1</sup> Ausländerinnen und Ausländer sind zur Sicherstellung des Vollzugs der Weg- oder Ausweisung oder der Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^72-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^72-3] verpflichtet, sich einem Covid-19-Test zu unterziehen, wenn dies aufgrund der Einreisevoraussetzungen des Heimat- oder Herkunftsstaates oder des zuständigen Dublin-Staates oder der Vorgaben des transportierenden Luftverkehrsunternehmens verlangt wird.
+
+<sup>2</sup> Die zuständigen Behörden informieren die betroffene Person vorgängig über diese Verpflichtung und über die Möglichkeit der zwangsweisen Durchsetzung nach Absatz 3.
+
+<sup>3</sup> Unterzieht sich eine betroffene Person nicht von sich aus einem Covid-19-Test, so können die für den Vollzug der Weg- oder Ausweisung oder der Landesverweisung zuständigen Behörden sie gegen ihren Willen einem Test zuführen, wenn der Vollzug nicht durch andere, mildere Mittel sichergestellt werden kann. Während der Durchführung des Tests darf kein Zwang ausgeübt werden, durch den die Gesundheit der betroffenen Person gefährdet werden könnte. Die zwangsweise Durchsetzung von Covid-19-Tests ist ausgeschlossen bei Kindern und Jugendlichen, die das 15. Altersjahr noch nicht zurückgelegt haben.
+
+<sup>4</sup> Die Covid-19-Tests werden durch dafür spezifisch geschultes medizinisches Personal durchgeführt. Dieses verwendet die für die betroffene Person mildeste Testart. Ist es der Ansicht, dass die Durchführung des Tests die Gesundheit der betroffenen Person gefährden könnte, so führt es den Test nicht durch.
+
+[^72-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft vom 2. Okt. 2021 bis zum 31. Dez. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)).
+[^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
 ### 5. Abschnitt: Zwangsmassnahmen
 
@@ -2056,7 +2066,7 @@ Die Ausländerinnen und Ausländer sowie an Verfahren nach diesem Gesetz beteili
 
 <sup>2</sup> Wer eine grenzüberschreitende Dienstleistung in Anspruch nimmt, hat sich durch Einsicht in den Ausweis oder durch Nachfrage bei den zuständigen Behörden zu vergewissern, dass die Person, welche die Dienstleistung erbringt, zur Ausübung der Erwerbstätigkeit in der Schweiz berechtigt ist.
 
-### 2. Abschnitt: Pflichten der Transportunternehmen****
+### 2. Abschnitt: Pflichten der Transportunternehmen
 
 [^chap12-sec2-1]
 
@@ -2302,13 +2312,13 @@ Der Bundesrat kann mit ausländischen Staaten oder internationalen Organisatione
 [^100b-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^100b-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 
-## 14. Kapitel: Datenbearbeitung und Datenschutz****
+## 14. Kapitel: Datenbearbeitung und Datenschutz
 
 [^chap14-1]
 
 [^chap14-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
-### 1. Abschnitt: Allgemeines****
+### 1. Abschnitt: Allgemeines
 
 [^chap14-sec1-1]
 
@@ -2370,7 +2380,7 @@ Folgende Behörden sind berechtigt, die auf dem Chip gespeicherten Daten zur Üb
 
 [^102b-1]: Eingefügt durch Art. 2 Ziff. I des BB vom 18. Juni 2010 (Weiterentwicklung des Schengen-Besitzstands und Einführung biometrischer Daten im Ausländerausweis), in Kraft seit 24. Jan. 2011 ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 
-### 2. Abschnitt: Passagierdaten, Überwachung und Kontrollen an Flughäfen und Meldepflicht von Luftverkehrsunternehmen****
+### 2. Abschnitt: Passagierdaten, Überwachung und Kontrollen an Flughäfen und Meldepflicht von Luftverkehrsunternehmen
 
 [^chap14-sec2-1]
 
@@ -2565,7 +2575,7 @@ Die Passagierlisten müssen die folgenden Daten enthalten:
 
 [^104c-1]: Ursprünglich: Art. 104*b*. Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
-### 3. Abschnitt: Bekanntgabe von Personendaten ans Ausland****
+### 3. Abschnitt: Bekanntgabe von Personendaten ans Ausland
 
 [^chap14-sec3-1]
 
@@ -2884,7 +2894,7 @@ Der Bundesrat regelt:
 - c. die technischen und organisatorischen Schutzmassnahmen gegen unbefugtes Bearbeiten;
 - d. die Aufbewahrungsdauer und die Vernichtung der Daten.
 
-### 3. Abschnitt: Personendossier- und Dokumentationssystem****
+### 3. Abschnitt: Personendossier- und Dokumentationssystem
 
 [^chap14a-sec3-1]
 
@@ -3257,7 +3267,7 @@ Wer Personendaten des nationalen Visumsystems oder des C-VIS für andere als die
 [^120e-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 11. Okt. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^120e-2]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), mit Wirkung seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
-### 2. Abschnitt: Administrative Sanktionen****
+### 2. Abschnitt: Administrative Sanktionen
 
 [^chap16-sec2-1]
 

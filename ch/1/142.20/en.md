@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2021-07-01
+version: 2021-10-02
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20210701-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20211002/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20211002-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20211002/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)**[^t-1]**
 
-of 16 December 2005 (Status as of 1 July 2021)
+of 16 December 2005 (Status as of 2 October 2021)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1432,7 +1432,7 @@ The competent cantonal authority shall deport foreign nationals if:
 
 **Federal support for the implementation authorities**
 
-The Federal Department of Justice and Police (FDJP) shall support the cantons responsible for implementing the removal or the expulsion of foreign nationals or the enforcement of an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^71-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^71-2], in particular by:[^71-3]
+The Federal Department of Justice and Police (FDJP) shall support the cantons responsible for enforcing the removal or the expulsion of foreign nationals or the enforcement of an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^71-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^71-2], in particular by:[^71-3]
 
 - a. assisting in obtaining travel documents;
 - b. making travel arrangements;
@@ -1484,9 +1484,19 @@ The attending medical professional shall on request disclose the medical data re
 
 #### Art. 72
 
-[^72-1]
+**COVID-19 test on deportation**[^72-1]
 
-[^72-1]: Repealed by No IV 2 of the FA of 16 Dec. 2005, with effect from 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727),[2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+<sup>1</sup> In order to ensure the enforcement of removal or expulsion or expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^72-2] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^72-3], foreign nationals are required to undergo a COVID-19 test if this is necessary in order to comply with the entry requirements of the person's native country or country of origin or of the competent Dublin State or the requirements of the airline concerned.
+
+<sup>2</sup> The competent authorites shall inform the person concerned in advance about this requirement and about the possibility of the compulsory conduct of tests under paragraph 3.
+
+<sup>3</sup> If the person concerned refuses to undergo a COVID-19 test, the competent authorities for the enforcement of removal or expulsion or expulsion from Switzerland may conduct the test against the person's will, unless deportation can be enforced by other less stringent means. While conducting the test, no force may be used that could endanger the health of the person concerned. The compulsory conduct of COVID-19 tests is not permitted in the case of children and young persons under the age of 15.
+
+<sup>4</sup> The COVID-19 tests shall be conducted by medical personnel who have been specifically trained for the purpose. They shall use the least invasive form of test suitable for the person concerned. If the personnel take the view that conducting the test could harm the health of the person concerned, they shall not conduct the test.
+
+[^72-1]: Amended by No I of the FA of 1 Oct. 2021, in force since 2 Oct. 2021 till 31 Dec. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)).
+[^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^72-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
 ### Section 5 Coercive Measures
 
