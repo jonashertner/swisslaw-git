@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2020-12-11
+version: 2021-10-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20201211/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20201211-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20201211/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211002/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211002-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20201211/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 11. Dezember 2020)
+vom 13. Dezember 2002 (Stand am 2. Oktober 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -171,27 +171,11 @@ Die Ratsmitglieder erhalten für ihre parlamentarische Tätigkeit vom Bund ein E
 
 Die Ratsmitglieder sind verpflichtet, an den Sitzungen der Räte und Kommissionen teilzunehmen.
 
-#### Art. 10a
+#### Art. 10a und 10b
 
-**Teilnahme an Abstimmungen im Nationalrat in Abwesenheit wegen Covid-19**[^10a-1]
+[^10a10b-1]
 
-<sup>1</sup> Bis zum Ende der Herbstsession 2021 können Mitglieder des Nationalrates ihre Stimme in Abwesenheit abgeben, falls sie sich aufgrund behördlicher Weisungen wegen Covid-19 in Isolation oder Quarantäne begeben müssen.
-
-<sup>2</sup> Ein Mitglied des Nationalrates, das aufgrund von Absatz 1 seine Stimme in Abwesenheit abgeben möchte, informiert am Vortag der Sitzung das Ratssekretariat.
-
-<sup>3</sup> Die von den Mitgliedern des Nationalrates gemäss Absatz 1 abgegebenen Stimmen werden im elektronischen Abstimmungssystem gleichzeitig mit der im Rat laufenden Abstimmung erfasst. Die Abstimmung wird nicht wiederholt, wenn ein Ratsmitglied seine Stimme aus technischen Gründen nicht abgeben konnte.
-
-[^10a-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session), in Kraft vom 11. Dez. 2020 bis längstens zum 1. Okt. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
-
-#### Art. 10b
-
-**Unterbruch oder Verschiebung einer Session**[^10b-1]
-
-<sup>1</sup> Ein Rat kann die Unterbrechung der Session in seinem Rat beschliessen.
-
-<sup>2</sup> Der Beschluss eines Rates, die Session beider Räte zu verschieben, braucht die Zustimmung des anderen Rates.
-
-[^10b-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session), in Kraft vom 11. Dez. 2020 bis längstens zum 1. Okt. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+[^10a10b-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session), in Kraft vom 11. Dez. 2020 bis längstens zum 1. Okt. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 11
 
@@ -380,7 +364,7 @@ Für die Aufhebung des Post- und Fernmeldegeheimnisses im Sinne von Artikel 321<
 
 Ist streitig, ob eine Ermächtigung nach den Artikeln 17–20 erforderlich sei, so entscheidet das Organ, das für die Ermächtigung zuständig ist.
 
-### 4. Kapitel:**** Haftung für Schäden
+### 4. Kapitel: Haftung für Schäden
 
 [^tit2-chap4-1]
 
@@ -866,7 +850,7 @@ Die Kommissionen informieren die Öffentlichkeit über die Ergebnisse ihrer Bera
 [^53-2]: Eingefügt durch Ziff. I 2 des BG vom 17. Dez. 2010 über die Wahrung von Demokratie, Rechtsstaat und Handlungsfähigkeit in ausserordentlichen Lagen, in Kraft seit 1. Mai 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 [^53-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2010 über die Wahrung von Demokratie, Rechtsstaat und Handlungsfähigkeit in ausserordentlichen Lagen, in Kraft seit 1. Mai 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 
-### 4. Abschnitt: Berichterstattung im Rat****
+### 4. Abschnitt: Berichterstattung im Rat
 
 [^tit4-chap4-sec4-1]
 
@@ -1040,6 +1024,21 @@ Die Dienststellen der Parlamentsdienste verfügen über dieselben Informationsre
 <sup>1</sup> Das Hausrecht in den Ratssälen wird durch die Ratspräsidentinnen und Ratspräsidenten, das Hausrecht in den übrigen Räumlichkeiten der Bundesversammlung und der Parlamentsdienste durch die Verwaltungsdelegation ausgeübt.
 
 <sup>2</sup> Jedes Ratsmitglied kann für je zwei Personen, die für eine bestimmte Dauer Zutritt zu den nichtöffentlichen Teilen des Parlamentsgebäudes wünschen, eine Zutrittskarte ausstellen lassen. Diese Personen und ihre Funktionen sind in ein öffentlich einsehbares Register einzutragen.
+
+#### Art. 69a
+
+**Covid-19-Zertifikatspflicht im Parlamentsgebäude**[^69a-1]
+
+<sup>1</sup> Personen ab 16 Jahren erhalten nur mit einem gültigen Covid-19-Zertifikat gemäss Artikel 6*a* des Covid-19-Gesetzes vom 25. September 2020[^69a-2] Zutritt zum Parlamentsgebäude. Lässt es die epidemiologische Lage zu, kann die Verwaltungsdelegation diese Massnahme aussetzen.
+
+<sup>2</sup> Personen, die zwingend Zutritt zum Parlamentsgebäude benötigen, werden die Kosten für die allenfalls notwendigen Tests für die Ausstellung des Zertifikats vergütet. Die Verwaltungsdelegation legt fest, welche Personengruppen Anspruch auf eine Vergütung der Tests haben.
+
+<sup>3</sup> Die Verwaltungsdelegation regelt die Einzelheiten der Kontrolle der Zertifikate.
+
+<sup>4</sup> Ratsmitglieder, die kein Zertifikat vorweisen, erhalten Zutritt, wenn sie im Parlamentsgebäude eine Maske tragen. Die Parlamentsdienste führen zuhanden der für die Ausübung des Hausrechts zuständigen Personen eine Liste dieser Ratsmitglieder.
+
+[^69a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft vom 2. Okt. 2021 bis zum 31. Dez. 2022 ([AS 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [BBl 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181)[2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
+[^69a-2]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 
 #### Art. 70
 
@@ -1817,7 +1816,7 @@ Ein Postulat beauftragt den Bundesrat zu prüfen und Bericht zu erstatten, ob ei
 
 ### 7. Kapitel: Verfahren bei Petitionen und Eingaben
 
-### 1. Abschnitt: Petitionen****
+### 1. Abschnitt: Petitionen
 
 [^tit5-chap7-sec1-1]
 
@@ -1876,7 +1875,7 @@ Die Kommission beantragt ihrem Rat, der Petition sei keine Folge zu geben, wenn 
 
 Eine Eingabe zur Geschäftsführung und zum Finanzgebaren des Bundesrates, der Bundesverwaltung, der eidgenössischen Gerichte und anderer Träger von Aufgaben des Bundes wird den Geschäftsprüfungs- oder Finanzkommissionen zur direkten Beantwortung zugewiesen.
 
-### 8. Kapitel:**** Verfahren bei Einsprachen gegen Verträge der Kantone unter sich oder mit dem Ausland
+### 8. Kapitel: Verfahren bei Einsprachen gegen Verträge der Kantone unter sich oder mit dem Ausland
 
 [^tit5-chap8-1]
 
@@ -2406,7 +2405,7 @@ Die betroffene Behörde erhält Gelegenheit zur Stellungnahme, bevor eine Aufsic
 
 Die Bundeskanzlerin oder der Bundeskanzler vertritt die Geschäfte der Bundeskanzlei in den Räten und in den Kommissionen.
 
-## 8. Titel: Verkehr zwischen der Bundesversammlung und den eidgenössischen Gerichten sowie der Aufsichtsbehörde über die Bundesanwaltschaft****
+## 8. Titel: Verkehr zwischen der Bundesversammlung und den eidgenössischen Gerichten sowie der Aufsichtsbehörde über die Bundesanwaltschaft
 
 [^tit8-1]
 
@@ -2573,7 +2572,7 @@ Für Beratungsgegenstände, die zum Zeitpunkt des Inkrafttretens dieses Gesetzes
 
 Die Artikel 163–171 werden auf die parlamentarischen Untersuchungskommissionen angewendet, die nach Inkrafttreten des Gesetzes eingesetzt werden.
 
-### 5.** Übergangsbestimmung zu Art. 40a (Gerichtskommission)
+### 5. Übergangsbestimmung zu Art. 40a (Gerichtskommission)
 
 [^173-subdivu5-1]
 
@@ -2583,7 +2582,7 @@ Die Artikel 163–171 werden auf die parlamentarischen Untersuchungskommissionen
 
 <sup>2</sup> Bei der Bestellung sind die fachlichen Kenntnisse der Richter und Richterinnen sowie die Amtssprachen angemessen zu berücksichtigen.
 
-### 6.** Übergangsbestimmung zu Art. 86 Abs. 4, 97 Abs. 2 und 101 Abs. 2 und 3 (Volksinitiativen)
+### 6. Übergangsbestimmung zu Art. 86 Abs. 4, 97 Abs. 2 und 101 Abs. 2 und 3 (Volksinitiativen)
 
 [^173-subdivu6-1]
 
@@ -2591,7 +2590,7 @@ Die Artikel 163–171 werden auf die parlamentarischen Untersuchungskommissionen
 
 Die Änderungen der Artikel 86 Absatz 4, 97 Absatz 2 und 101 Absätze 2 und 3 gelten für Volksinitiativen, zu welchen der Bundesrat zum Zeitpunkt des Inkrafttretens der Änderung vom 3. Oktober 2008 dieses Gesetzes der Bundesversammlung noch keinen Entwurf eines Bundesbeschlusses über die Volksinitiative unterbreitet hat.
 
-### 7.** Übergangsbestimmung zu Art. 105 Abs. 1<sup>bis</sup> gemäss Änderung vom 25. September 2009 (Verlängerung der Behandlungsfrist für eine Volksinitiative)
+### 7. Übergangsbestimmung zu Art. 105 Abs. 1<sup>bis</sup> gemäss Änderung vom 25. September 2009 (Verlängerung der Behandlungsfrist für eine Volksinitiative)
 
 [^173-subdivu7-1]
 

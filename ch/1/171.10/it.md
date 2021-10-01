@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2020-12-11
+version: 2021-10-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20201211/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20201211-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20201211/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211002/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211002-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20201211/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 11 dicembre 2020) (Stato 11 dicembre 2020)
+del 13 dicembre 2002 (Stato 2 ottobre 2021) (Stato 2 ottobre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -175,27 +175,11 @@ I parlamentari sono retribuiti dalla Confederazione per la loro attività uffici
 
 I parlamentari sono tenuti a partecipare alle sedute delle Camere e delle Commissioni.
 
-#### Art. 10a
+#### Art. 10a e 10b
 
-**Voto a distanza nel Consiglio nazionale in caso di assenza dovuta alla COVID-19**[^10a-1]
+[^10a10b-1]
 
-<sup>1</sup> Fino alla conclusione della sessione autunnale 2021, i membri del Consiglio nazionale che hanno dovuto mettersi in isolamento o in quarantena a causa della COVID-19 a seguito di istruzioni emanate da un’autorità possono votare a distanza.
-
-<sup>2</sup> I membri del Consiglio nazionale che desiderano votare a distanza secondo il capoverso 1 ne informano la segreteria del Consiglio nazionale il giorno prima della seduta.
-
-<sup>3</sup> I voti trasmessi dai membri del Consiglio nazionale secondo il capoverso 1 sono registrati nel sistema elettronico di voto simultaneamente alla votazione in corso nel Consiglio nazionale. Se un membro del Consiglio nazionale non ha potuto trasmettere il proprio voto per motivi tecnici, la votazione non viene ripetuta.
-
-[^10a-1]: Introdotto dal n. I della LF del 10 dic. 2020 (COVID-19: partecipazione a votazioni nel Consiglio nazionale; interruzione o differimento della sessione), in vigore dall’11 dic. 2020 al 1° ott. 2021 al più tardi ([RU 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8113](https://fedlex.data.admin.ch/eli/fga/2020/2503)[8125](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
-
-#### Art. 10b
-
-**Interruzione o differimento di una sessione**[^10b-1]
-
-<sup>1</sup> Una Camera può decidere di interrompere la propria sessione.
-
-<sup>2</sup> La decisione di una Camera di differire la sessione di entrambe le Camere necessita dell’approvazione dell’altra Camera.
-
-[^10b-1]: Introdotto dal n. I della LF del 10 dic. 2020 (COVID-19: partecipazione a votazioni nel Consiglio nazionale; interruzione o differimento della sessione), in vigore dall’11 dic. 2020 al 1° ott. 2021 al più tardi ([RU 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8113](https://fedlex.data.admin.ch/eli/fga/2020/2503)[8125](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+[^10a10b-1]: Introdotti dal n. I della LF del 10 dic. 2020 (COVID-19: partecipazione a votazioni nel Consiglio nazionale; interruzione o differimento della sessione), in vigore dall’11 dic. 2020 al 1° ott. 2021 al più tardi ([RU 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8113](https://fedlex.data.admin.ch/eli/fga/2020/2503)[8125](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 11
 
@@ -871,7 +855,7 @@ Le commissioni informano l’opinione pubblica sui risultati delle loro delibera
 [^53-2]: Introdotto dal n. I 2 della LF del 17 dic. 2010 concernente la salvaguardia della democrazia, dello Stato di diritto e della capacità di agire in situazioni straordinarie, in vigore dal 1° mag. 2011 ([RU 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1393](https://fedlex.data.admin.ch/eli/fga/2010/271)[2473](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 [^53-3]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2010 concernente la salvaguardia della democrazia, dello Stato di diritto e della capacità di agire in situazioni straordinarie, in vigore dal 1° mag. 2011 ([RU 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1393](https://fedlex.data.admin.ch/eli/fga/2010/271)[2473](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 
-### Sezione 4: Relazione alla Camera****
+### Sezione 4: Relazione alla Camera
 
 [^tit4-chap4-sec4-1]
 
@@ -1045,6 +1029,21 @@ Le unità amministrative dei Servizi del Parlamento dispongono degli stessi diri
 <sup>1</sup> Nelle sale delle Camere il diritto di polizia è esercitato dai presidenti delle Camere; negli altri locali dell’Assemblea federale e dei Servizi del Parlamento, dalla Delegazione amministrativa.
 
 <sup>2</sup> I parlamentari possono farsi rilasciare per due persone da loro designate una tessera ciascuna che, per una durata determinata, autorizza ad accedere alle parti non aperte al pubblico del Palazzo del Parlamento. I nomi e le funzioni di queste persone devono essere iscritti in un registro pubblicamente consultabile.
+
+#### Art. 69a
+
+**Obbligo del certificato COVID-19 nel Palazzo del Parlamento**[^69a-1]
+
+<sup>1</sup> Le persone a partire dai 16 anni hanno accesso al Palazzo del Parlamento unicamente se in possesso di un certificato COVID-19 valido secondo l’articolo 6*a* della legge COVID-19 del 25 settembre 2020[^69a-2]. La Delegazione amministrativa può sospendere questo provvedimento se la situazione epidemiologica lo consente.
+
+<sup>2</sup> Alle persone che per motivi imperativi devono accedere al Palazzo del Parlamento sono rimborsati i costi dei test eventualmente necessari per il rilascio del certificato COVID-19. La Delegazione amministrativa definisce le categorie di persone che hanno diritto al rimborso.
+
+<sup>3</sup> La Delegazione amministrativa disciplina le modalità di controllo dei certificati COVID-19.
+
+<sup>4</sup> Ai parlamentari privi del certificato COVID-19 è consentito l’accesso al Palazzo del Parlamento a condizione che indossino una mascherina all’interno dell’edificio. I Servizi del Parlamento tengono un elenco di tali parlamentari destinato alle persone cui spetta l’esercizio del diritto di polizia.
+
+[^69a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 2 ott. 2021 al 31 dic. 2022 ([RU 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [FF 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181), [2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
+[^69a-2]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 
 #### Art. 70
 
@@ -1822,13 +1821,13 @@ Il postulato incarica il Consiglio federale di esaminare l’opportunità di pro
 
 <sup>5</sup> Le interrogazioni non sono trattate nella Camera; sono liquidate con la risposta del Consiglio federale.
 
-### Capitolo 7: Procedura in caso di petizioni e di domande concernenti la gestione****
+### Capitolo 7: Procedura in caso di petizioni e di domande concernenti la gestione
 
 [^tit5-chap7-1]
 
 [^tit5-chap7-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### Sezione 1: Petizioni****
+### Sezione 1: Petizioni
 
 [^tit5-chap7-sec1-1]
 
@@ -1877,7 +1876,7 @@ La commissione propone alla Camera di non dare seguito alla petizione se:
 
 [^128-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### Sezione 2: Domande concernenti la gestione****
+### Sezione 2: Domande concernenti la gestione
 
 [^tit5-chap7-sec2-1]
 
@@ -1887,7 +1886,7 @@ La commissione propone alla Camera di non dare seguito alla petizione se:
 
 Le domande concernenti la gestione generale o finanziaria del Consiglio federale, dell’Amministrazione federale, dei Tribunali federali e di altri enti incaricati di compiti federali sono trasmesse per risposta diretta alle Commissioni della gestione o delle finanze.
 
-### Capitolo 8:**** Procedura in caso di reclamo contro trattati intercantonali o contro trattati conclusi dai Cantoni con l’estero
+### Capitolo 8: Procedura in caso di reclamo contro trattati intercantonali o contro trattati conclusi dai Cantoni con l’estero
 
 [^tit5-chap8-1]
 
@@ -1899,13 +1898,13 @@ Le domande concernenti la gestione generale o finanziaria del Consiglio federale
 
 <sup>2</sup> Se un Cantone solleva reclamo, la commissione competente della Camera prioritaria presenta al plenum della Camera il progetto di decreto federale semplice concernente l’approvazione.
 
-## Titolo sesto: Elezioni, conferma di elezioni e accertamento dell’incapacità****
+## Titolo sesto: Elezioni, conferma di elezioni e accertamento dell’incapacità
 
 [^tit6-1]
 
 [^tit6-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### Capitolo 1: Disposizioni generali relative alle elezioni****
+### Capitolo 1: Disposizioni generali relative alle elezioni
 
 [^tit6-chap1-1]
 
@@ -2033,7 +2032,7 @@ L’Assemblea federale procede alle altre elezioni previste dalla Costituzione o
 
 <sup>3</sup> L’Assemblea federale plenaria decide a scrutinio segreto, a maggioranza dei membri votanti, circa la conferma o non conferma dell’elezione. In caso di mancata conferma, l’organo eleggente deve procedere a una nuova elezione.
 
-### Capitolo 6:**** Accertamento dell’incapacità di un membro del Consiglio federale o del cancelliere della Confederazione di esercitare la carica
+### Capitolo 6: Accertamento dell’incapacità di un membro del Consiglio federale o del cancelliere della Confederazione di esercitare la carica
 
 [^tit6-chap6-1]
 
@@ -2446,7 +2445,7 @@ Le relazioni di servizio tra l’Assemblea federale e i tribunali della Confeder
 
 <sup>5</sup> I capoversi 1–4 si applicano per analogia all’autorità di vigilanza sul Ministero pubblico della Confederazione.[^162-1]
 
-[^162-1]: Introdotto dal n. II 2 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^162-1]: Introdotto dal’all. n. II 2 della LF del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 ## Titolo nono: Commissione parlamentare d’inchiesta
 
@@ -2588,7 +2587,7 @@ Agli oggetti in deliberazione pendenti in una Camera al momento dell’entrata i
 
 Gli articoli 163–171 si applicano alle commissioni d’inchiesta istituite dopo l’entrata in vigore della presente legge.
 
-### 5.** Disposizione transitoria dell’art. 40a (Commissione giudiziaria)
+### 5. Disposizione transitoria dell’art. 40a (Commissione giudiziaria)
 
 [^173-subdivu5-1]
 
@@ -2598,7 +2597,7 @@ Gli articoli 163–171 si applicano alle commissioni d’inchiesta istituite dop
 
 <sup>2</sup> In occasione della costituzione essa tiene adeguatamente conto della competenza tecnica dei giudici e delle lingue ufficiali.
 
-### 6.** Disposizione transitoria degli art. 86 cpv. 4, 97 cpv. 2 e 101 cpv. 2 e 3 (iniziative popolari)
+### 6. Disposizione transitoria degli art. 86 cpv. 4, 97 cpv. 2 e 101 cpv. 2 e 3 (iniziative popolari)
 
 [^173-subdivu6-1]
 
@@ -2606,7 +2605,7 @@ Gli articoli 163–171 si applicano alle commissioni d’inchiesta istituite dop
 
 Le modifiche agli articoli 86 capoverso 4, 97 capoverso 2 e 101 capoversi 2 e 3 si applicano alle iniziative popolari per le quali, al momento dell’entrata in vigore della modifica del 3 ottobre 2008, il Consiglio federale non ha ancora presentato all’Assemblea federale un disegno di decreto federale concernente l’iniziativa.
 
-### 7.** Disposizione transitoria dell’art. 105 cpv. 1<sup>bis</sup> secondo la modifica del 25 settembre 2009 (proroga del termine di trattazione di un’iniziativa popolare)
+### 7. Disposizione transitoria dell’art. 105 cpv. 1<sup>bis</sup> secondo la modifica del 25 settembre 2009 (proroga del termine di trattazione di un’iniziativa popolare)
 
 [^173-subdivu7-1]
 
@@ -2630,7 +2629,7 @@ Data dell’entrata in vigore: 1° dicembre 2003[^174-3]
 [^174-2]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
 [^174-3]: Dec. della Conferenza di coordinazione dell’AF del 16 set. 2002.
 
-## Disposizione transitoria della modifica del 5 ottobre 2007****
+## Disposizione transitoria della modifica del 5 ottobre 2007
 
 [^u1-1]
 
@@ -2638,7 +2637,7 @@ Data dell’entrata in vigore: 1° dicembre 2003[^174-3]
 
 Il nuovo articolo 122 si applica alle mozioni che, all’entrata in vigore della modifica del 5 ottobre 2007, non sono state ancora accolte dalle due Camere.
 
-## Disposizione transitoria della modifica del 17 giugno 2011****
+## Disposizione transitoria della modifica del 17 giugno 2011
 
 [^u2-1]
 
@@ -2646,7 +2645,7 @@ Il nuovo articolo 122 si applica alle mozioni che, all’entrata in vigore della
 
 Alla trattazione delle richieste di soppressione dell’immunità e richieste analoghe pendenti al momento dell’entrata in vigore della modifica del 17 giugno 2011 della presente legge si applica il diritto anteriore.
 
-## Disposizione transitoria degli art. 109 cpv. 2 e 3<sup>bis</sup> e 116 cpv. 3<sup>bis</sup> secondo la modifica del 21 giugno 2013****
+## Disposizione transitoria degli art. 109 cpv. 2 e 3<sup>bis</sup> e 116 cpv. 3<sup>bis</sup> secondo la modifica del 21 giugno 2013
 
 [^u3-1]
 

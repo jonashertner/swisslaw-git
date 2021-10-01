@@ -4,11 +4,11 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2020-12-11
+version: 2021-10-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20201211/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20201211-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20201211/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211002/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211002-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dals 11 da december 2020)
+dals 13 da december 2002 (versiun dals 2 da october 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -177,23 +177,13 @@ Ils parlamentaris èn obligads da sa participar a las sesidas da las chombras e 
 
 #### Art. 10a
 
-**Participaziun a las votaziuns en il Cussegl naziunal en cas d’absenza pervia da COVID-19**[^10a-1]
-
-<sup>1</sup> Fin la fin da la sessiun d’atun 2021 pon ils commembers dal Cussegl naziunal votar sin distanza, sch’els ston ir en isolaziun u en quarantina sin fundament da directivas d’ina autoritad pervia da COVID-19.
-
-<sup>2</sup> Commembers dal Cussegl naziunal che vulan votar sin distanza tenor l’alinea 1 infurmeschan il secretariat da la chombra il di avant la sesida.
-
-<sup>3</sup> Las vuschs consegnadas dals commembers dal Cussegl naziunal tenor l’alinea 1 vegnan registradas en il sistem da votaziun electronic il medem mument sco la votaziun currenta en la chombra. La votaziun na vegn betg repetida, sch’in commember dal Cussegl naziunal n’ha betg pudì votar per motivs tecnics.
+[^10a-1]
 
 [^10a-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun), en vigur dals 11 da dec. 2020 fin maximalmain il 1. d’oct. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 10b
 
-**Interrupziun u spustament d’ina sessiun**[^10b-1]
-
-<sup>1</sup> Ina chombra po concluder d’interrumper sia sessiun.
-
-<sup>2</sup> Il conclus d’ina chombra da spustar la sessiun da tuttas duas chombras dovra il consentiment da l’autra chombra.
+[^10b-1]
 
 [^10b-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun), en vigur dals 11 da dec. 2020 fin maximalmain il 1. d’oct. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 

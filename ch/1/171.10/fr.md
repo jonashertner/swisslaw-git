@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2020-12-11
+version: 2021-10-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20201211/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20201211-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20201211/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211002/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211002-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20201211/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (Etat le 11 décembre 2020)
+du 13 décembre 2002 (Etat le 2 octobre 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -168,27 +168,11 @@ La Confédération verse aux députés des indemnités journalières et des cont
 
 Les députés sont tenus de participer aux séances du conseil et des commissions dont ils sont membres.
 
-#### Art. 10a
+#### Art. 10a et 10b
 
-**Participation aux votes du Conseil national en cas d’absence due au COVID-19**[^10a-1]
+**...**[^10a10b-1]
 
-<sup>1</sup> Jusqu’à la fin de la session d’automne 2021, tout membre du Conseil national peut voter à distance s’il a dû se mettre en isolement ou en quarantaine conformément aux instructions d’une autorité en raison du COVID-19.
-
-<sup>2</sup> Tout membre du Conseil national souhaitant voter à distance en vertu de l’al. 1 en informe le secrétariat du conseil la veille de la séance.
-
-<sup>3</sup> Les suffrages communiqués par les membres du Conseil national conformément à l’al. 1 sont saisis dans le système électronique en même temps que le vote du conseil. Le vote n’est pas répété si un député n’a pas pu, pour des raisons techniques, communiquer son suffrage.
-
-[^10a-1]: Introduit par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session), en vigueur du 11 déc. 2020 au 1<sup>er</sup> oct. 2021 au plus tard ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
-
-#### Art. 10b
-
-**Interruption ou report d’une session**[^10b-1]
-
-<sup>1</sup> Un conseil peut décider d’interrompre sa session.
-
-<sup>2</sup> La décision prise par un conseil de reporter la session des deux conseils doit être soumise à l’approbation de l’autre conseil.
-
-[^10b-1]: Introduit par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session), en vigueur du 11 déc. 2020 au 1<sup>er</sup> oct. 2021 au plus tard ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+[^10a10b-1]: Introduits par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session), en vigueur du 11 déc. 2020 au 1<sup>er</sup> oct. 2021 au plus tard ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 11
 
@@ -1040,6 +1024,21 @@ Lorsque les Services du Parlement travaillent pour le compte d’un organe de l�
 <sup>1</sup> Les présidents des conseils règlent l’utilisation des salles des conseils; la Délégation administrative gère les autres locaux de l’Assemblée fédérale et ceux des Services du Parlement.
 
 <sup>2</sup> Tout député peut faire établir une carte d’accès pour deux personnes qui désirent, pour une durée déterminée, accéder aux parties non publiques du Palais du Parlement. Le nom et les fonctions de ces personnes font l’objet d’une inscription dans un registre accessible au public.
+
+#### Art. 69a
+
+**Obligation de présenter un certificat COVID-19 pour accéder au Palais du Parlement**[^69a-1]
+
+<sup>1</sup> Toute personne âgée de 16 ans ou plus n’a accès au Palais du Parlement que sur présentation d’un certificat COVID-19 valide conformément à l’art. 6*a* de la loi COVID-19 du 25 septembre 2020[^69a-2]. La Délégation administrative peut suspendre cette mesure si la situation épidémiologique le permet.
+
+<sup>2</sup> Pour les personnes qui doivent impérativement avoir accès au Palais du Parlement, les coûts des tests éventuellement nécessaires à l’établissement du certificat sont remboursés. La Délégation administrative détermine les catégories de personnes ayant droit au remboursement.
+
+<sup>3</sup> La Délégation administrative règle les modalités du contrôle des certificats.
+
+<sup>4</sup> Les membres des Chambres fédérales qui ne présentent pas de certificat ont accès au Palais du Parlement s’ils portent un masque à l’intérieur de celui-ci. Les Services du Parlement tiennent une liste de ces députés à l’intention des personnes responsables de l’exercice du droit de disposer des locaux.
+
+[^69a-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur du 2 oct. 2021 au 31 déc. 2022 ([RO 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [FF 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181), [2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
+[^69a-2]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 
 #### Art. 70
 

@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2020-12-11
+version: 2021-10-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20201211/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20201211-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20201211/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211002/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211002-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Status as of 11 December 2020)
+of 13 December 2002 (Status as of 2 October 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -175,25 +175,9 @@ Assembly members are obliged to attend the meetings of the councils and committe
 
 #### Art. 10a
 
-**Voting in absentia in the National Council because of COVID-19**[^10a-1]
+**und **10***b*[^10a-1]**
 
-<sup>1</sup> Until the end of the 2021 autumn session, members of the National Council may vote in absentia if they are officially ordered to go into isolation or quarantine because of COVID-19.
-
-<sup>2</sup> A member of the National Council who wishes to vote in absentia pursuant to paragraph 1 shall notify the Council Secretariat on the day before the sitting.
-
-<sup>3</sup> The votes cast by members of the National Council pursuant to paragraph 1 shall be recorded in the electronic voting system at the same time as votes are cast in the Council. The vote shall not be held again if a Council member is unable to cast his or her vote on technical grounds.
-
-[^10a-1]: Inserted by No I of the FA of 10 Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session), in force from 11 Dec. 2020 until 1 Oct. 2021 at the latest ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
-
-#### Art. 10b
-
-**Suspension or postponement of a session**[^10b-1]
-
-<sup>1</sup> A chamber may decide to suspend its own session.
-
-<sup>2</sup> The decision of one chamber to postpone the session of both chambers requires the consent of the other chamber.
-
-[^10b-1]: Inserted by No I of the FA of 10 Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session), in force from 11 Dec. 2020 until 1 Oct. 2021 at the latest ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+[^10a-1]: Inserted by No I of the FA of 10 Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session), in force from 11 Dec. 2020 until 1 Oct. 2021 at the latest ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 11
 
@@ -1042,6 +1026,21 @@ The offices of the Parliamentary Services have the same rights to information as
 <sup>1</sup> The right to use the Assembly chambers is regulated by the Presidents of the Councils, and the right to use the other premises of the Federal Assembly and the Parliamentary Services is regulated by the Administration Delegation.
 
 <sup>2</sup> Each assembly member may have an entry pass issued for a specified period to any two persons who wish to have access to the parts of the Parliament Building that are not accessible to the public. The details of these persons and their functions must be recorded in a register that is available for public inspection.
+
+#### Art. 69a
+
+**COVID-19 certificate requirement in the Parliament Building**[^69a-1]
+
+<sup>1</sup> Persons aged 16 or over shall be allowed access to the Parliament Building only if they can produce a valid COVID-19 certificate in accordance with Article 6*a* of the COVID-19 Act of 25 September 2020[^69a-2]. If the epidemiological situation so permits, the Administration Delegation may suspend this measure.
+
+<sup>2</sup> Persons who must have access to the Parliament building shall be reimbursed for the costs of any tests required for the issue of the certificate. The Administrative Delegation shall determine which groups of persons are entitled to the reimbursement of the costs of tests.
+
+<sup>3</sup> The Administration Delegation shall regulate the details of checks on certificates.
+
+<sup>4</sup> Assembly members who are unable to produce a certificate shall be allowed access if they wear a face mask in the Parliament Building. The Parliamentary Services shall keep a list of such assembly members to be used by the persons responsible for supervising the use of the Assembly chambers and access to the Parliament Building.
+
+[^69a-1]: Inserted by No I of the FA of 1 Oct. 2021, in force from 2 Oct. 2021 to 31 Dec. 2022 ([AS 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [BBl 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181), [2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
+[^69a-2]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 
 #### Art. 70
 
