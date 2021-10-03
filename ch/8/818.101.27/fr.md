@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre la pandémie de COVID-19 dans le domaine du transport international de voyageurs (Ordonnance COVID-19 transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: fr
-version: 2021-09-20
+version: 2021-10-04
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210920/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210920-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211004/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211004-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211004/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210920/fr"
 
 (Ordonnance COVID-19 transport international de voyageurs)**[^t-1]**
 
-du 23 juin 2021 (Etat le 20 septembre 2021)
+du 23 juin 2021 (Etat le 4 octobre 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -62,7 +62,9 @@ Est déterminante pour la classification d’un État ou d’une zone avec un va
 
 <sup>3</sup> La liste des États et des zones avec un variant préoccupant du virus qui n’est pas un variant résistant aux anticorps figure à l’annexe 1, ch. 2.
 
-<sup>4</sup> Les zones frontalières qui entretiennent des liens économiques, sociaux et culturels étroits avec la Suisse peuvent être exclues des listes visées aux al. 2 et 3, même si elles remplissent une des conditions mentionnées à l’al. 1.
+<sup>4</sup> Les zones frontalières qui entretiennent des liens économiques, sociaux et culturels étroits avec la Suisse peuvent être exclues des listes visées aux al. 2 et 3, même si elles remplissent une des conditions mentionnées à l’al. 1. La liste des zones réputées frontalières figure à l’annexe 1*a*.[^2-1]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 ## Section 3 Enregistrement des coordonnées
 
@@ -79,13 +81,13 @@ Sont exemptées de cette obligation les personnes:[^3-3]
 - a. qui transportent des voyageurs ou des biens dans le cadre de leur activité professionnelle en traversant la frontière;
 - b. qui traversent la Suisse sans faire de halte;
 - c.[^3-4] entrant en Suisse en tant que frontaliers;
-- d.[^3-5] entrant en Suisse en provenance de zones frontalières qui entretiennent des liens économiques, sociaux et culturels étroits avec la Suisse.
+- d.[^3-5] entrant en Suisse en provenance de zones mentionnées à l’annexe 1*a*.
 
 [^3-1]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^3-4]: Introduite par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^3-5]: Introduite par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^3-5]: Introduite par le ch. I de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 #### Art. 4
 
@@ -159,12 +161,16 @@ Elles peuvent transporter les passagers suivants en l’absence d’un résultat
 
 - a. les personnes de moins de 16 ans;
 - b. les personnes munies d’une attestation médicale prouvant qu’elles doivent être transportées d’urgence en Suisse pour des raisons médicales;
-- c. les personnes qui transitent par un aéroport suisse et ne le quittent pas avant de poursuivre leur voyage (passagers en transit);
+- c.[^7-1] les personnes qui transitent par un aéroport suisse et ne le quittent pas avant de poursuivre leur voyage;
+- c<sup>bis</sup>.[^7-2] les personnes qui traversent la Suisse avec une compagnie de bus sans quitter le bus;
 - d. les personnes qui peuvent fournir la preuve qu’elles sont vaccinées contre le SARS-CoV-2; l’annexe 2 détermine les personnes considérées comme vaccinées, la durée pour laquelle la vaccination est valable et les types de preuves autorisés;
 - e. les personnes qui peuvent fournir la preuve qu’elles ont contracté le SARS-CoV-2 et qu’elles sont considérées comme guéries; l’annexe 2 détermine la durée de la dérogation et les types de preuves autorisés;
 - f. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas se soumettre à un test SARS-CoV-2.
 
 <sup>5</sup> Lors de l’entrée en Suisse depuis des États ou zones au sens de l’annexe 1, ch. 1, les dérogations à l’obligation de test avant le départ visées à l’al. 4, let. d et e, ne s’appliquent pas.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^7-2]: Introduite par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 ## Section 5 Obligation de test, de quarantaine et de déclaration pour les personnes entrant en Suisse
 
@@ -181,11 +187,12 @@ Les personnes qui ne peuvent pas présenter de résultat de test négatif lorsqu
 - a. par une analyse de biologie moléculaire pour le SARS-CoV-2, ou
 - b. par un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^8-2].
 
-<sup>3</sup> Les personnes assujetties à l’obligation de test à l’entrée en Suisse conformément aux al. 1 et 2 doivent se soumettre à un nouveau test conformément à l’al. 2 entre le 4<sup>e</sup> et le 7<sup>e</sup> jour qui suit leur arrivée et présenter au canton un certificat de test COVID-19 prévu par l’ordonnance COVID-19 du 4 juin 2021 certificats[^8-3].
+<sup>3</sup> Les personnes assujetties à l’obligation de test à l’entrée en Suisse conformément aux al. 1 et 2 doivent se soumettre à un nouveau test conformément à l’al. 2 entre le 4<sup>e</sup> et le 7<sup>e</sup> jour qui suit leur arrivée. Les personnes testées négatives doivent présenter au canton le certificat de test COVID-19 prévu par l’ordonnance COVID-19 du 4 juin 2021 certificats[^8-3]. Les personnes testées positives doivent déclarer le résultat du test au canton.[^8-4]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^8-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^8-3]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^8-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 #### Art. 9
 
@@ -210,15 +217,7 @@ Les personnes qui ne peuvent pas présenter de résultat de test négatif lorsqu
 
 Sont exemptées de l’obligation de test prévue à l’art. 8 et de l’obligation de quarantaine prévue à l’art. 9 les personnes:
 
-- a.
-
-  dont l’activité en Suisse est absolument nécessaire au maintien:
-
-  - 1\. des capacités du système de santé,
-  - 2\. de la sécurité et de l’ordre publics,
-  - 3\. du fonctionnement des bénéficiaires institutionnels au sens de l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte[^9a-2],
-  - 4\. des relations diplomatiques et consulaires de la Suisse;
-
+- a.[^9a-2] …
 - b. qui, dans le cadre de leur activité professionnelle, transportent des voyageurs ou des biens en traversant la frontière;
 - c. qui ont séjourné dans un État ou une zone au sens de l’annexe 1 pendant moins de 24 heures en tant que passagers en transit;
 - d. qui traversent la Suisse sans faire de halte;
@@ -233,14 +232,30 @@ Sont en outre exemptées de l’obligation de test visée à l’art. 8:
 
 - a. les personnes de moins de 16 ans;
 - b. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas se soumettre à un test SARS-CoV-2;
-- c. les personnes en provenance de zones frontalières qui entretiennent des liens économiques, sociaux et culturels étroits avec la Suisse, pour autant que l’État ou la zone concernés ne soient pas mentionnés à l’annexe 1, ch. 1.
+- c.[^9a-3] les personnes en provenance de zones mentionnées à l’annexe 1*a*, pour autant que l’État ou la zone en question ne figure pas à l’annexe 1, ch. 1;
+- d.[^9a-4] les personnes dont l’activité en Suisse est absolument nécessaire au maintien du fonctionnement des bénéficiaires institutionnels au sens de l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte[^9a-5] et qui peuvent le prouver par une attestation du Département fédéral des affaires étrangères (DFAE);
+- e.[^9a-6] les personnes dont l’activité en Suisse est absolument nécessaire au maintien des relations diplomatiques et consulaires de la Suisse et qui peuvent le prouver par une attestation du DFAE.
+
+<sup>2bis</sup>
+
+Sont exemptées de l’obligation de quarantaine prévue à l’art. 9 les personnes dont l’activité en Suisse est absolument nécessaire au maintien:
+
+- a. des capacités du système de santé;
+- b. de la sécurité et de l’ordre publics;
+- c. du fonctionnement des bénéficiaires institutionnels au sens de l’art. 2, al. 1, de la loi sur l’État hôte;
+- d. des relations diplomatiques et consulaires de la Suisse.[^9a-7]
 
 <sup>3</sup> L’al. 1 ne s’applique pas aux personnes qui présentent des symptômes du COVID‑19 à moins que celles-ci puissent prouver, attestation médicale à l’appui, que les symptômes peuvent être attribués à une autre cause.
 
 <sup>4</sup> Dans des cas fondés, l’autorité cantonale compétente peut autoriser d’autres dérogations à l’obligation de test et de quarantaine ou accorder des allégements.
 
 [^9a-1]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^9a-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^9a-2]: Abrogée par le ch. I de l’O du 1<sup>er</sup> oct. 2021, avec effet au 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-4]: Introduite par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-5]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^9a-6]: Introduite par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-7]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 #### Art. 10
 
@@ -248,7 +263,7 @@ Sont en outre exemptées de l’obligation de test visée à l’art. 8:
 
 <sup>1</sup>
 
-Toute personne assujettie à l’obligation de test visée à l’art. 8, al. 3, doit présenter le certificat de test COVID-19 prévu par l’ordonnance COVID-19 du 4 juin 2021 certificats[^10-2] à l’autorité cantonale compétente dans un délai de 2 jours et:
+Toute personne assujettie à l’obligation de test visée à l’art. 8, al. 3, doit présenter le certificat de test COVID-19 prévu par l’ordonnance COVID-19 du 4 juin 2021 certificats[^10-2] ou le résultat de test positif à l’autorité cantonale compétente dans un délai de 2 jours et:[^10-3]
 
 - a. lui communiquer le numéro du formulaire d’entrée en Suisse visé à l’art. 4, al. 1, let. a, ou
 - b. lui présenter une copie de la carte de contact visée à l’art. 4, al. 1, let. b.
@@ -257,6 +272,7 @@ Toute personne assujettie à l’obligation de test visée à l’art. 8, al. 3,
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^10-2]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^10-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 ## Section 6 Contrôles et signalements****
 
@@ -340,13 +356,48 @@ La liste ne contient actuellement aucune entrée.
 
 La liste ne contient actuellement aucune entrée.
 
-Annexe 2*[^t-3]*
+Annexe 1a*[^t-3]*
+
+(art. 2, al. 4, 3, al. 2, let. d, et 9*a,* al. 2, let. c)
+
+## Zones frontalières de la Suisse
+
+[^t-3]: Introduite par le ch. II de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+
+Zones en Allemagne:
+
+- – Land Baden-Württemberg
+- – Land Bayern
+
+Zones en France:
+
+- – Région Grand Est
+- – Région Bourgogne-Franche-Comté
+- – Région Auvergne-Rhône-Alpes
+
+Zones en Italie:
+
+- – Regione Piemonte
+- – Regione Valle d’Aosta/Vallée d’Aoste
+- – Regione Lombardia
+- – Regione Trentino-Alto Adige/Südtirol
+
+Zones en Autriche:
+
+- – Land Tirol
+- – Land Vorarlberg
+
+Zones au Liechtenstein:
+
+- – toute la Principauté
+
+Annexe 2*[^t-4]*
 
 (art. 7, al. 4, let. d et e, 9*a*, al. 1, let. e et f, et 12, al. 2)
 
 ## Personnes vaccinées et personnes guéries
 
-[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-4]: Mise à jour par le ch. II al. 1 de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ### 1 Personnes vaccinées
 
@@ -381,13 +432,13 @@ Annexe 2*[^t-3]*
   - a. l’attestation de l’infection comprenant le nom et l’adresse du service ayant produit l’attestation (lieu de test, médecin, pharmacie, hôpital);
   - b. l’attestation de la levée de l’isolement ou l’attestation médicale de la guérison.
 
-Annexe 2a*[^t-4]*
+Annexe 2a*[^t-5]*
 
 (art. 7, al. 2, 8, al. 1, et 12, al. 3)
 
 ## Exigences applicables aux tests et aux résultats de test
 
-[^t-4]: Introduite par le ch. II al. 2 de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-5]: Introduite par le ch. II al. 2 de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 - 1\.
 

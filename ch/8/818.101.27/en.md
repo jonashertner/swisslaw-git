@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 23 June 2021 on Measures to Combat the COVID-19 epidemic in International Travel (COVID-19 Ordinance on International Travel)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: en
-version: 2021-09-20
+version: 2021-10-04
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210920/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210920-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210920/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211004/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211004-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211004/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport) **[^t-1]**
 
-of 23 June 2021 (Status as of 20 September 2021)
+of 23 June 2021 (Status as of 4 October 2021)
 
 [^t-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -44,7 +44,8 @@ It regulates the following for persons entering Switzerland:
 
 - a. the recording of contact data and any other health data required;
 - b. the test requirement.
-- [tab] <sup>3</sup> It also regulates for persons who enter Switzerland from a country or region with a variant of the virus of concern, quarantine and its enforcement.
+
+<sup>3</sup> It also regulates for persons who enter Switzerland from a country or region with a variant of the virus of concern, quarantine and its enforcement.
 
 [^1-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -63,7 +64,9 @@ Categorisation as a country or region with a variant of the virus of concern req
 
 <sup>3</sup> The list of countries and regions with a variant of the virus of concern that is not immune evasive is provided in Annex 1 number 2.
 
-<sup>4</sup> Regions on the border with Switzerland which have close economic, social and cultural ties with Switzerland may be exempted from inclusion in the lists mentioned in paragraphs 2 and 3 even if they meet the requirements set out in paragraph 1.
+<sup>4</sup> Regions on the border with Switzerland which have close economic, social and cultural ties with Switzerland may be exempted from inclusion in the lists mentioned in paragraphs 2 and 3 even if they meet the requirements set out in paragraph 1. The regions deemed to be border regions are listed in Annex 1*a*.[^2-1]
+
+[^2-1]: Amended by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 ## Section 3 Recording Contact Data
 
@@ -73,8 +76,6 @@ Categorisation as a country or region with a variant of the virus of concern req
 
 <sup>1</sup> The requirement to record contact data pursuant to Article 49 of the Epidemics Ordinance of 29 April 2015[^3-1] and where necessary to record health data applies to all persons entering the country.[^3-2]
 
-- [tab]
-
 <sup>2</sup>
 
 An exemption to the requirement under paragraph 1 applies to persons who:[^3-3]
@@ -82,13 +83,13 @@ An exemption to the requirement under paragraph 1 applies to persons who:[^3-3]
 - a. carry goods or passengers across the border in terms of their professionalactivities;
 - b. travel through Switzerland without a stopover;
 - c.[^3-4] enter the country as a cross-border commuter; or
-- d.[^3-5] enter the country from an area bordering on Switzerland which has strong econmic, social and cultural links to the country.
+- d.[^3-5] enter the country from a region listed in Annex 1*a*.
 
 [^3-1]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^3-3]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^3-4]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^3-5]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^3-5]: Inserted by No I of the O of 17 Sept. 2021, ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Amended by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 #### Art. 4
 
@@ -99,9 +100,9 @@ An exemption to the requirement under paragraph 1 applies to persons who:[^3-3]
 The persons specified in Article 3 must record their contact data before entry as follows:
 
 - a. online by means of the platform for recording contact data for travellers[^4-1] provided by the Federal Office of Public Health (FOPH); or
-- b. on the paper contact forms provided by the FOPH.
+- b. on the paper passenger locator forms provided by the FOPH.
 
-<sup>2</sup> Persons who enter Switzerland not as a passenger with a passenger transport operator pursuant to Article 5 and who record their contact details on a contact form must retain the form for 14 days.[^4-2]
+<sup>2</sup> Persons who enter Switzerland not as a passenger with a passenger transport operator pursuant to Article 5 and who record their contact details on a passenger locator form must retain the form for 14 days.[^4-2]
 
 [^4-1]: The platform for recording contact data for travellers can be accessed at https://swissplf.admin.ch
 [^4-2]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
@@ -110,13 +111,13 @@ The persons specified in Article 3 must record their contact data before entry a
 
 **Obligations for passenger transport operators**
 
-<sup>1</sup> Rail, bus, ship or airline operators carrying passengers specified in Article 3 internationally shall ensure that passengers provide their contact data in accordance with Article 4 paragraph 1.
+<sup>1</sup> Rail, coach, ship or airline operators carrying passengers specified in Article 3 internationally shall ensure that passengers provide their contact data in accordance with Article 4 paragraph 1.
 
 <sup>2</sup> They shall send the contact data under Article 4 paragraph 1 letter b to the FOPH on request within 24 hours.
 
 <sup>3</sup> They shall retain the contact data for 14 days and thereafter destroy the data.
 
-<sup>4</sup> They shall send the FOPH on request within 48 hours lists of all cross-border train, bus or ship journeys or flights that they have scheduled for the following month.
+<sup>4</sup> They shall send the FOPH on request within 48 hours lists of all cross-border train, coach or ship journeys or flights that they have scheduled for the following month.
 
 <sup>5</sup> They shall send the contact data under Article 4 paragraph 1 letter b and the lists under paragraph 4 via the platform for passenger transport operators[^5-1] provided by the FOPH.
 
@@ -142,7 +143,7 @@ As soon as it is notified that a person infected with Sars-CoV-2 has entered Swi
 
 <sup>5</sup> The cantons shall destroy the data one month after they have received the same from the FOPH or from third parties.
 
-## Section 4 Air Travel:**** Requirement to be tested before departure
+## Section 4 Air Travel:**** Requirement to be Tested before Departure
 
 [^sec4-1]
 
@@ -162,12 +163,16 @@ They may carry the following passengers without these passengers being required 
 
 - a. persons under 16 years of age;
 - b. persons who can provide a medical certificate to prove that they must be transported to Switzerland as a matter of urgency on medical grounds;
-- c. persons who are using a Swiss airport while in transit without leaving that airport before continuing their journey (transit passengers);
+- c.[^7-1] persons who are using a Swiss airport while in transit without leaving that airport before continuing their journey;
+- c<sup>bis</sup>.[^7-2] persons who travel through Switzerland with a coach company without leaving the coach;
 - d. persons who provide proof that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated, the duration for which the vaccination is regarded as effective and the accepted forms of proof are regulated in Annex 2;
 - e. persons who provide proof that they have been infected with Sars-CoV-2 and have recovered; the duration of the exemption from the requirement to be tested and the accepted forms of proof are regulated in Annex 2;
 - f. persons who provide proof in the form of a medical certificate that they are unable on medical grounds to take a Sars-CoV-2 test.
 
 <sup>5</sup> Persons entering Switzerland from the countries or regions specified in Annex 1 number 1 are not eligible for the exemptions from the requirement to be tested before departure under paragraph 4 letters d and e.
+
+[^7-1]: Amended by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^7-2]: Inserted by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 ## Section 5 Requirement for Persons entering Switzerland to be tested, to quarantine and to report
 
@@ -184,11 +189,12 @@ Persons who are unable to provide proof of a negative test on entering Switzerla
 - a. a molecular-biological analysis for Sars-CoV-2; or
 - b. a Sars-CoV-2 rapid test for specialist use in accordance with Article 24*a* paragraph 1 of COVID-19 Ordinance 3 of 19 June 2020[^8-2].
 
-<sup>3</sup> Persons who must take a test under paragraphs 1 and 2 must take an additional test in accordance with paragraph 2 between the fourth and seventh day after entering Switzerland and present to the canton a COVID-19 test certificate in accordance with the COVID-19 Certificates Ordinance of 4 June 2021[^8-3].
+<sup>3</sup> Persons who must take a test under paragraphs 1 and 2 must take an additional test in accordance with paragraph 2 between the fourth and seventh day after entering Switzerland. Persons who test negative must provide the canton with a COVID-19 test certificate in accordance with the COVID-19 Certificates Ordinance of 4 June 2021[^8-3]. Persons who test positive must notify the canton of the test result.[^8-4]
 
 [^8-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^8-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^8-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^8-4]: Amended by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 #### Art. 9
 
@@ -213,15 +219,7 @@ Persons who are unable to provide proof of a negative test on entering Switzerla
 
 The following persons are exempted from the requirement to be tested under Article 8 and to quarantine from the requirement to under Article 9:
 
-- a.
-
-  persons whose work in Switzerland is essential to maintain:
-
-  - 1\. the efficiency of the health service,
-  - 2\. public security and order,
-  - 3\. the efficiency of institutional beneficiaries as defined in Article 2 paragraph 1 of the Host State Act of 22 June 2007[^9a-2],
-  - 4\. Switzerland’s diplomatic and consular relations;
-
+- a. ... [^9a-2]
 - b. persons who in the course of their professional activities transport passengers or goods across borders;
 - c. persons who as transit passengers have stayed less than 24 hours in a country or region specified in Annex 1;
 - d. persons who travel through Switzerland without stopping;
@@ -230,36 +228,53 @@ The following persons are exempted from the requirement to be tested under Artic
 - g. who enter Switzerland on important and immediate medical grounds;
 - h. who enter Switzerland as cross-border commuters.
 
-<sup>3</sup>
+<sup>2</sup>
 
 The following persons are also exempted from the requirement to be tested in Article 8:
 
 - a. persons under the age of 16;
 - b. persons who can prove that they are unable on medical grounds to take a Sars-CoV-2 test.
-- c. persons who enter Switzerland from a border region which has close economic, social and cultural ties with Switzerland, provided the country or region is not listed in Annex 1 number 1.
+- c.[^9a-3] persons who enter Switzerland from a region listed in Annex 1*a*, provided the country or region concerned is not listed in Annex 1 number 1.
+- d.[^9a-4] persons whose activity in Switzerland is essential to maintain the proper functioning of institutional beneficiaries in terms of Article 2 paragraph 1 of the Host State Act of 22 June 2007[^9a-5] and who can prove this by providing confirmation from the Federal Department of Foreign Affairs (FDFA);
+- e.[^9a-6] persons whose activity in Switzerland is essential to maintain Switzerland's diplomatic and consular relations and who can prove this by providing confirmation from the FDFA.
+
+<sup>2bis</sup>
+
+The quarantine requirement in accordance with Article 9 does not apply to persons whose activity in Switzerland is essential to maintain:
+
+- a. the proper functioning of the health service;
+- b. public security and order;
+- c. the proper functioning of institutional beneficiaries in terms of Article 2 paragraph 1 of the Host State Act;
+- d. Switzerland's diplomatic and consular relations.[^9a-7]
 
 <sup>3</sup> Paragraph 1 does not apply to persons displaying symptoms of COVID-19, unless the person concerned can provide certified medical evidence that the symptoms have a different cause.
 
 <sup>4</sup> The competent cantonal authority may in justified cases permit further exemptions from the requirement to be tested and to quarantine or may relax certain conditions.
 
 [^9a-1]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^9a-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^9a-2]: Repealed by No I of the O of 1 Oct. 2021, with effect from 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-3]: Amended by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-4]: Inserted by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-5]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^9a-6]: Inserted by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-7]: Inserted by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 #### Art. 10
 
-**Requirement to report**[^10-1]
+**Requirement to report[^10-1]**
 
 <sup>1</sup>
 
-Persons who must take a test under Article 8 paragraph 3 must present the COVID-19 test certificate in accordance with the COVID-19 Certificates Ordinance of 4 June 2021[^10-2] within two days to the competent cantonal authorities and:
+Persons who must take a test under Article 8 paragraph 3 must provide the competent cantonal authorities with the COVID-19 test certificate in accordance with the COVID-19 Certificates Ordinance of 4 June 2021[^10-2] or the positive test result within two days and:[^10-3]
 
-- a. inform them of the number of the contact form completed in accordance with Article 4 paragraph 1 letter a; or
-- b. provide them with a copy of the paper contact form in accordance with Article 4 paragraph 1 letter b.
+- a. inform them of the number of the passenger locator form completed in accordance with Article 4 paragraph 1 letter a; or
+- b. provide them with a copy of the paper passenger locator form in accordance with Article 4 paragraph 1 letter b.
 
 <sup>2</sup> Persons required to quarantine on entry under Article 9 must report to the competent cantonal authority within two days of their arrival in Switzerland and must follow the instructions given by the authority.
 
 [^10-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^10-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^10-3]: Amended by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 ## Section 6 Checks and Reports****
 
@@ -332,7 +347,7 @@ Annex 1*[^t-2]*
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Amended by No I of the FDHA O of 3 Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Revised in accordance with No II para. 1 of the O of 17 Sept. 2021 in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-2]: Amended by No I of the FDHA O of 3 Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Revised by No II para. 1 of the O of 17 Sept. 2, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions with a variant of the virus of concern that is immune evasive is or the immune evasive status of which is unclear (Art. 2 paras. 1 and 2)
@@ -343,13 +358,48 @@ There are no entries currently on this list
 
 There are no entries currently on this list
 
-Annex 2*[^t-3]*
+Annex 1a*[^t-3]*
+
+(Art. 2 para. 4, 3 para. 2 let. d and 9*a* para. 2 let. c)
+
+## Regions bordering Switzerland
+
+[^t-3]: Inserted by No II of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+
+Regions in Germany:
+
+- – Baden-Württemberg
+- – Bavaria
+
+Regions in France:
+
+- – Grand-Est
+- – Burgundy / Franche Comté
+- – Auvergne / Rhône-Alpes
+
+Regions in Italy:
+
+- – Piedmont
+- – Aosta Valley
+- – Lombardy
+- – Trentino / South Tyrol
+
+Regions in Austria:
+
+- – Tyrol
+- – Vorarlberg
+
+Regions in Liechtenstein:
+
+- – Entire Principality
+
+Annex 2*[^t-4]*
 
 (Art. 7 para. 4 lets d and e, 9*a* para. 1 lets e and f and 12 para. 2)
 
 ## Persons who have been vaccinated and who have recovered
 
-[^t-3]: Revised by No II para. 1 of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-4]: Revised by No II para. 1 of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ### 1 Persons who have been vaccinated
 
@@ -384,13 +434,13 @@ Annex 2*[^t-3]*
   - a. confirmation of the infection including the name and address of the confirming body (test centre, doctor, pharmacy, hospital);
   - b. confirmation that isolation has been terminated or confirmation from a doctor of recovery.
 
-Annex 2a*[^t-4]*
+Annex 2a*[^t-5]*
 
 (Art. 7 para. 2, 8 para. 1 and 12 para. 3)
 
 ## Test and proof of testing requirements
 
-[^t-4]: Inserted by No II para. 1 of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563))
+[^t-5]: Inserted by No II para. 1 of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563))
 
 - 1\.
 
