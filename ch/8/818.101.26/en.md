@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2021-09-20
+version: 2021-10-04
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20210920/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20210920-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210920/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211004/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211004-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211004/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 20 September 2021)
+of 23 June 2021 (Status as of 4 October 2021)
 
 The Swiss Federal Council,
 
@@ -66,17 +66,21 @@ Further proof of vaccination administered abroad equivalent to a certificate und
 - a. has authorisation for the EU from the European Medicines Agency and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out;
 - b. has been shown to have the same composition as a vaccine licensed under letter a but marketed by a licence holder under a different name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.[^3-2]
 
+<sup>2bis</sup> Documentary proof that a person can neither be vaccinated nor tested on medical grounds is equivalent to a certificate under paragraph 1. As proof, a medical certificate from a doctor who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^3-3] is required.[^3-4]
+
 <sup>3</sup>
 
 The proof must be a currently customary form of proof and be submitted in German, English, French, Italian or Spanish or in an officially certified translation in one of these languages. In addition to the surname, first name and date of birth of the person concerned, it must contain the following information:
 
 - a. the place or country in which the vaccine was administered;
 - b. the date of vaccination;
-- c. the vaccine administered.[^3-3]
+- c. the vaccine administered.[^3-5]
 
 [^3-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^3-2]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 10 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^3-3]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 10 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^3-2]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 24 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^3-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^3-4]: Inserted by No I of the O of 1 Oct. 2021 (Proof for persons who can neither be vaccinated nor tested on medical grounds), in force since 4 Oct. 2021 ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^3-5]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 24 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 
 ## Section 2 Measures involving Persons
 
@@ -97,7 +101,7 @@ Every person shall follow the recommendations of the Federal Office of Public He
 Persons travelling on public transport vehicles, such as trains, trams, buses, ships, aircraft and cableways, must wear a face mask in enclosed areas of such vehicles. The following persons are exempted from this requirement:
 
 - a. children under the age of 12;
-- b. persons who can prove that they are unable to wear face masks for compelling reasons, in particular medical reasons; in order to prove medical reasons, a certificate is required from a professional who is authorised to exercise their profession under their own professional responsibility in accordance with the Medical Professions Act of 23 June 2006[^5-1] or the Psychology Professions Act of 18 March 2011[^5-2].
+- b. persons who can prove that they are unable to wear face masks for compelling reasons, in particular medical reasons; in order to prove medical reasons, a medical certificate is required from a professional who is authorised to practise their profession under their own professional responsibility in accordance with the Medical Professions Act of 23 June 2006[^5-1] or the Psychology Professions Act of 18 March 2011[^5-2].
 
 <sup>2</sup>
 
@@ -616,7 +620,7 @@ Annex 1*[^t-1]*
 
 ## Requirements for precautionary measures plans
 
-[^t-1]: Revised by No II of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^t-1]: Revised by No II of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force until 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) and of 1 Oct. 2021 (Proof for persons who can neither be vaccinated nor tested on medical grounds), in force since 4 Oct. 2021 ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 
 ### 1 Precautionary measures plans for publicly accessible establishments and businesses and for events to which entry for persons aged 16 and over is not restricted to those with a certificate
 
@@ -686,6 +690,7 @@ The precautionary measures plan shall include measures related to:
 - b. the provision of information to visitors and participants on the requirement to have a certificate and on the applicable hygiene and social distancing measures;
 - c. hygiene, in particular the provision of disinfectant, regular cleaning, and ventilation;
 - d. a requirement to wear a face mask for staff and other persons working at the event who come into contact with visitors on the premises.
+- e. the presence of persons with a medical certificate pursuant to Article 3 paragraph 2<sup>bis</sup>, such as the requirement for these persons to wear a face mask or, if they also have a medical certificate exempting them from wearing a face mask pursuant to Article 5 paragraph 1 letter b, rules on maintaining the required distance.
 
 Annex 2*[^t-2]*
 

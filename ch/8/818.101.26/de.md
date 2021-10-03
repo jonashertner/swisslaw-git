@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2021-09-20
+version: 2021-10-04
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20210920/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20210920-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210920/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211004/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211004-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211004/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210920/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 20. September 2021)
+vom 23. Juni 2021 (Stand am 4. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -60,17 +60,21 @@ Einem Zertifikat nach Absatz 1 gleichgestellt sind weitere Nachweise für eine i
 - a. über eine Zulassung der Europäischen Arzneimittelagentur für die EU verfügt und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde;
 - b. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.[^3-2]
 
+<sup>2bis</sup> Einem Zertifikat nach Absatz 1 gleichgestellt sind Nachweise, die belegen, dass eine Person aus medizinischen Gründen weder geimpft noch getestet werden kann. Für den Nachweis ist ein Attest einer Ärztin oder eines Arztes erforderlich, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006[^3-3] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist.[^3-4]
+
 <sup>3</sup>
 
 Der Nachweis muss einer aktuell üblichen Nachweisform entsprechen und in deutscher, englischer, französischer, italienischer oder spanischer Sprache oder in einer amtlich beglaubigten Übersetzung in einer dieser Sprachen eingereicht werden. Er muss neben dem Namen, Vornamen und Geburtsdatum der betreffenden Person folgende Angaben enthalten:
 
 - a. Ort oder Land, in dem die Impfung durchgeführt wurde;
 - b. Datum der Impfung;
-- c. verwendeter Impfstoff.[^3-3]
+- c. verwendeter Impfstoff.[^3-5]
 
 [^3-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^3-2]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 10. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^3-3]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 10. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^3-2]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 24. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^3-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^3-4]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021 (Nachweise für Personen, die aus medizinischen Gründen weder geimpft noch getestet werden können), in Kraft seit 4. Okt. 2021 ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^3-5]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 24. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 
 ## 2. Abschnitt: Massnahmen gegenüber Personen
 
@@ -611,7 +615,7 @@ Anhang 1*[^t-1]*
 
 ## Vorgaben für Schutzkonzepte
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^t-1]: Bereinigt gemäss Ziff. II den V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) und vom 1. Okt. 2021 (Nachweise für Personen, die aus medizinischen Gründen weder geimpft noch getestet werden können), in Kraft seit 4. Okt. 2021 ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 
 ### 1 Schutzkonzepte für öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen, die bei Personen über 16 Jahren den Zugang nicht auf Personen mit einem Zertifikat einschränken
 
@@ -680,7 +684,8 @@ Das Schutzkonzept enthält Massnahmen in Bezug auf:
 
 - b. die Information der Besucherinnen und Besucher sowie der Teilnehmenden über das Erfordernis eines Zertifikats sowie über geltende Hygiene- und Verhaltensmassnahmen;
 - c. die Hygiene, insbesondere die Bereitstellung von Desinfektionsmitteln, periodische Reinigungen, Lüftung;
-- d. eine allfällige Pflicht zum Tragen einer Gesichtsmaske für Arbeitnehmerinnen und Arbeitnehmer und weitere an der Veranstaltung tätige Personen, die vor Ort Kontakt haben zu Besucherinnen und Besuchern.
+- d. eine allfällige Pflicht zum Tragen einer Gesichtsmaske für Arbeitnehmerinnen und Arbeitnehmer und weitere an der Veranstaltung tätige Personen, die vor Ort Kontakt haben zu Besucherinnen und Besuchern;
+- e. die Anwesenheit von Personen mit einem Attest nach Artikel 3 Absatz 2<sup>bis</sup>, etwa die Pflicht dieser Personen zum Tragen einer Gesichtsmaske oder, bei gleichzeitigem Vorliegen eines Attests zur Befreiung von der Pflicht zum Tragen einer Gesichtsmaske nach Artikel 5 Absatz 1 Buchstabe b, Vorgaben zur Einhaltung des erforderlichen Abstands.
 
 Anhang 2*[^t-2]*
 

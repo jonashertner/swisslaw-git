@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: fr
-version: 2021-09-20
+version: 2021-10-04
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20210920/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20210920-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211004/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211004-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211004/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210920/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 23 juin 2021 (Etat le 20 septembre 2021)
+du 23 juin 2021 (Etat le 4 octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -62,17 +62,21 @@ Sont assimilées à un certificat au sens de l’al. 1 les autres attestations d
 - a. qui a obtenu une autorisation de l’Agence européenne des médicaments pour l’UE et qui a été entièrement administré conformément aux prescriptions ou aux recommandations de l’État dans lequel il a été administré;
 - b. dont il peut être prouvé qu’il a la même composition que celle d’un vaccin autorisé en vertu de la let. a mais qui est mis en circulation par un preneur de licence sous un autre nom et qui a été entièrement administré conformément aux prescriptions ou aux recommandations de l’État dans lequel il a été administré.[^3-2]
 
+<sup>2bis</sup> Sont assimilées à un certificat au sens de l’al. 1 les attestations certifiant que, pour des raisons médicales, une personne ne peut ni se faire vacciner ni se faire tester. Pour justifier de raisons médicales, la personne doit présenter une attestation délivrée par un médecin habilité à exercer sous sa propre responsabilité professionnelle en vertu de la loi du 23 juin 2006 sur les professions médicales[^3-3].[^3-4]
+
 <sup>3</sup>
 
 L’attestation doit correspondre à une forme actuellement usuelle et doit être fournie en allemand, en anglais, en français, en espagnol ou dans une traduction certifiée conforme dans une des langues mentionnées. Outre le nom, les prénoms et la date de naissance de la personne concernée, elle doit contenir les informations suivantes:
 
 - a. le lieu ou le pays où le vaccin a été administré;
 - b. la date de la vaccination;
-- c. le vaccin administré.[^3-3]
+- c. le vaccin administré.[^3-5]
 
 [^3-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^3-2]: Introduit par le ch. III de l’O du 17 sept. 2021, en vigueur du 20 sept. au 10 oct. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^3-3]: Introduit par le ch. III de l’O du 17 sept. 2021, en vigueur du 20 sept. au 10 oct. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^3-2]: Introduit par le ch. III de l’O du 17 sept. 2021, en vigueur du 20 sept. au 24 oct. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^3-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^3-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021 (Attestations des personnes qui, pour des raisons médicales, ne peuvent ni se faire vacciner ni se faire tester), en vigueur depuis le 4 oct. 2021 ([RO 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^3-5]: Introduit par le ch. III de l’O du 17 sept. 2021, en vigueur du 20 sept. au 24 oct. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 
 ## Section 2 Mesures visant des personnes
 
@@ -607,13 +611,13 @@ Les autorisations octroyées pour des projets pilotes en vertu de l’art. 6*b*<
 
 La présente ordonnance entre en vigueur le 26 juin 2021 à 0 h 00.
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 10, al. 4, 11, al. 1, et 29)
 
 ## Prescriptions pour les plans de protection
 
-[^t-1]: Mise à jour par le ch. II de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur du 13 sept. 2021 au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^t-1]: Mise à jour par le ch. II des O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur jusqu’au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) et du 1<sup>er</sup> oct. 2021 (Attestations des personnes qui, pour des raisons médicales, ne peuvent ni se faire vacciner ni se faire tester), en vigueur depuis le 4 oct. 2021 ([RO 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 
 ### 1 Plan de protection pour les installations et les établissements accessibles au public ainsi que pour les manifestations ne limitant pas l’accès, pour les personnes de 16 ans et plus, aux seules personnes disposant d’un certificat
 
@@ -681,7 +685,8 @@ Le plan de protection comprend des mesures concernant les points suivants:
 
 - b. l’information des visiteurs et des participants sur la nécessité d’un certificat et sur les mesures d’hygiène et de conduite en vigueur;
 - c. l’hygiène, notamment la mise à disposition de désinfectant, les nettoyages périodiques et l’aération;
-- d. l’obligation éventuelle de porter un masque facial pour les employés et les autres personnes actives lors de la manifestation ayant sur place un contact avec les visiteurs.
+- d. l’obligation éventuelle de porter un masque facial pour les employés et les autres personnes actives lors de la manifestation ayant sur place un contact avec les visiteurs;
+- e. la présence de titulaires d’une attestation au sens de l’art. 3, al. 2<sup>bis</sup>, telle que l’obligation pour ces personnes de porter un masque facial ou, si elles disposent également d’une attestation les exemptant de l’obligation de porter un masque en vertu de l’art. 5, al. 1, let. b, des consignes concernant le respect de la distance requise.
 
 Annexe 2*[^t-2]*
 
