@@ -4,11 +4,11 @@ title: "Traité de l'OMPI du 20 décembre 1996 sur les interprétations et exéc
 short: WPPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/359"
 language: fr
-version: 2019-06-27
+version: 2021-10-05
 adopted: 1996-12-20
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/359/20190627/fr/xml/fedlex-data-admin-ch-eli-cc-2008-359-20190627-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/359/20190627/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/359/20211005/fr/xml/fedlex-data-admin-ch-eli-cc-2008-359-20211005-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/359/20211005/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument de ratification déposé par la Suisse le 31 mars 2008
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2008
 
-(Etat le 27 juin 2019)
+(Etat le 5 octobre 2021)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 5 oct. 2007 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357)).
 
@@ -377,10 +377,11 @@ Concernant l’art. 19
 
 La déclaration commune concernant l’art. 12 (sur les obligations relatives à l’information sur le régime des droits) du Traité de l’OMPI sur le droit d’auteur est applicable *mutatis mutandis* à l’art. 19 (sur les obligations relatives à l’information sur le régime des droits) du Traité de l’OMPI sur les interprétations et exécutions et les phonogrammes.
 
-Champ d’application le 27 juin 2019**[^t-2]**
+Champ d’application le 5 octobre 2021**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan</td><td>9 novembre</td><td>2020 A</td><td>9 février</td><td>2021</td></tr>
 <tr><td>Albanie</td><td>17 mai</td><td>2001 A</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Algérie</td><td>31 octobre</td><td>2013 A</td><td>31 janvier</td><td>2014</td></tr>
 <tr><td>Allemagne\*</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
@@ -390,6 +391,7 @@ Champ d’application le 27 juin 2019**[^t-2]**
 <tr><td>Autriche</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
 <tr><td>Azerbaïdjan</td><td>11 janvier</td><td>2006 A</td><td>11 avril</td><td>2006</td></tr>
 <tr><td>Bahreïn</td><td>15 septembre</td><td>2005 A</td><td>15 décembre</td><td>2005</td></tr>
+<tr><td>Barbade</td><td>13 septembre</td><td>2019 A</td><td>13 décembre</td><td>2019</td></tr>
 <tr><td>Bélarus</td><td>15 juillet</td><td>1998</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Belize</td><td>9 novembre</td><td>2018 A</td><td>9 février</td><td>2019</td></tr>
 <tr><td>Belgique\*</td><td>30 mai</td><td>2006</td><td>30 août</td><td>2006</td></tr>
@@ -406,6 +408,7 @@ Champ d’application le 27 juin 2019**[^t-2]**
 <tr><td>[tab] Hong Kong</td><td>23 septembre</td><td>2008</td><td>1<sup>er</sup> octobre</td><td>2008</td></tr>
 <tr><td>Chypre</td><td>2 septembre</td><td>2005 A</td><td>2 décembre</td><td>2005</td></tr>
 <tr><td>Colombie</td><td>29 novembre</td><td>2000</td><td>20 mai</td><td>2002</td></tr>
+<tr><td>Comores</td><td>25 janvier</td><td>2021 A</td><td>25 avril</td><td>2021</td></tr>
 <tr><td>Corée (Sud)\*</td><td>18 décembre</td><td>2008 A</td><td>18 mars</td><td>2009</td></tr>
 <tr><td>Costa Rica\*</td><td>23 mai</td><td>2000</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Croatie</td><td>3 juillet</td><td>2000</td><td>20 mai</td><td>2002</td></tr>
@@ -426,7 +429,7 @@ Champ d’application le 27 juin 2019**[^t-2]**
 <tr><td>Guinée</td><td>25 février</td><td>2002 A</td><td>25 mai</td><td>2002</td></tr>
 <tr><td>Honduras</td><td>20 février</td><td>2002 A</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Hongrie</td><td>27 novembre</td><td>1998</td><td>20 mai</td><td>2002</td></tr>
-<tr><td>Iles Cook</td><td>19 mars</td><td>2019 A</td><td>19 juin</td><td>2019</td></tr>
+<tr><td>Îles Cook</td><td>19 mars</td><td>2019 A</td><td>19 juin</td><td>2019</td></tr>
 <tr><td>Inde\*</td><td>25 septembre</td><td>2018 A</td><td>25 décembre</td><td>2018</td></tr>
 <tr><td>Indonésie</td><td>15 novembre</td><td>2004</td><td>15 février</td><td>2005</td></tr>
 <tr><td>Irlande</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
@@ -436,6 +439,7 @@ Champ d’application le 27 juin 2019**[^t-2]**
 <tr><td>Jordanie</td><td>24 février</td><td>2004 A</td><td>24 mai</td><td>2004</td></tr>
 <tr><td>Kazakhstan</td><td>12 août</td><td>2004</td><td>12 novembre</td><td>2004</td></tr>
 <tr><td>Kirghizistan</td><td>15 mai</td><td>2002 A</td><td>15 août</td><td>2002</td></tr>
+<tr><td>Kiribati</td><td>22 mars</td><td>2021 A</td><td>22 juin</td><td>2021</td></tr>
 <tr><td>Lettonie</td><td>22 mars</td><td>2000 A</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Liechtenstein</td><td>30 janvier</td><td>2007 A</td><td>30 avril</td><td>2007</td></tr>
 <tr><td>Lituanie</td><td>26 janvier</td><td>2001 A</td><td>20 mai</td><td>2002</td></tr>
@@ -468,9 +472,13 @@ Champ d’application le 27 juin 2019**[^t-2]**
 <tr><td>République tchèque</td><td>10 octobre</td><td>2001 A</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Roumanie</td><td>1<sup>er</sup> février</td><td>2001</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Royaume-Uni</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
+<tr><td>Guernesey</td><td>1<sup>er</sup> janvier</td><td>2021</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
+<tr><td>Île de Man</td><td>1<sup>er</sup> janvier</td><td>2021</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Russie\*</td><td>5 novembre</td><td>2008 A</td><td>5 février</td><td>2009</td></tr>
+<tr><td>Saint-Marin</td><td>2 juin</td><td>2020 A</td><td>2 septembre</td><td>2020</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>12 novembre</td><td>2010 A</td><td>12 février</td><td>2011</td></tr>
 <tr><td>Sainte-Lucie</td><td>24 novembre</td><td>1999 A</td><td>20 mai</td><td>2002</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td>27 janvier</td><td>2020 A</td><td>27 avril</td><td>2020</td></tr>
 <tr><td>Sénégal</td><td>18 février</td><td>2002</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Serbie</td><td>13 mars</td><td>2003 A</td><td>13 juin</td><td>2003</td></tr>
 <tr><td>Singapour\*</td><td>17 janvier</td><td>2005 A</td><td>17 avril</td><td>2005</td></tr>
@@ -485,11 +493,12 @@ Champ d’application le 27 juin 2019**[^t-2]**
 <tr><td>Ukraine</td><td>29 novembre</td><td>2001 A</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Union européenne</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
 <tr><td>Uruguay</td><td>28 mai</td><td>2008</td><td>28 août</td><td>2008</td></tr>
+<tr><td>Vanuatu</td><td>2 mai</td><td>2020 A</td><td>2 août</td><td>2020</td></tr>
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celle de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Le traité ne s’applique pas à Macao.</td></tr>
 </table>
 
-[^t-2]: [RO 2008 2515](https://fedlex.data.admin.ch/eli/oc/2008/359), [2009 2503](https://fedlex.data.admin.ch/eli/oc/2009/313), [2010 1457](https://fedlex.data.admin.ch/eli/oc/2010/198), [2013 1373](https://fedlex.data.admin.ch/eli/oc/2013/326), [2017 3725](https://fedlex.data.admin.ch/eli/oc/2017/431), [2019 2185](https://fedlex.data.admin.ch/eli/oc/2019/404). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2008 2515](https://fedlex.data.admin.ch/eli/oc/2008/359); [2009 2503](https://fedlex.data.admin.ch/eli/oc/2009/313); [2010 1457](https://fedlex.data.admin.ch/eli/oc/2010/198); [2013 1373](https://fedlex.data.admin.ch/eli/oc/2013/326); [2017 3725](https://fedlex.data.admin.ch/eli/oc/2017/431); [2019 2185](https://fedlex.data.admin.ch/eli/oc/2019/404); [2021 607](https://fedlex.data.admin.ch/eli/oc/2021/607). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: (www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

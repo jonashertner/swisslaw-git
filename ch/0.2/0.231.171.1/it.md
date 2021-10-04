@@ -4,11 +4,11 @@ title: Trattato OMPI del 20 dicembre 1996 sulle interpretazioni ed esecuzioni e 
 short: WPPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/359"
 language: it
-version: 2019-06-27
+version: 2021-10-05
 adopted: 1996-12-20
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/359/20190627/it/xml/fedlex-data-admin-ch-eli-cc-2008-359-20190627-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/359/20190627/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/359/20211005/it/xml/fedlex-data-admin-ch-eli-cc-2008-359-20211005-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/359/20211005/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -29,7 +29,7 @@ Ratificato dalla Svizzera con strumento depositato il 31 marzo 2008
 
 Entrato in vigore per la Svizzera il 1° luglio 2008
 
-(Stato 27 giugno 2019)
+(Stato 5 ottobre 2021)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 5 ott. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357)).
 
@@ -377,20 +377,22 @@ In merito all’art. 19
 
 La dichiarazione concordata in merito all’articolo 12 (Obblighi in materia di informazioni sulla gestione dei diritti) del trattato OMPI sul diritto d’autore si applica, in quanto compatibile, anche all’articolo 19 (Obblighi in materia di informazioni sulla gestione dei diritti) del presente trattato.
 
-Campo d’applicazione il 27 giugno 2019**[^t-2]**
+Campo d’applicazione il 5 ottobre 2021**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Afghanistan</td><td>9 novembre</td><td>2020 A</td><td>9 febbraio</td><td>2021</td></tr>
 <tr><td>Albania</td><td>17 maggio</td><td>2001 A</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>Algeria</td><td>31 ottobre</td><td>2013 A</td><td>31 gennaio</td><td>2014</td></tr>
 <tr><td>Argentina</td><td>19 novembre</td><td>1999</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>Armenia</td><td>6 dicembre</td><td>2004 A</td><td>6 marzo</td><td>2005</td></tr>
-<tr><td>Australia<sup>\*</sup></td><td>26 aprile</td><td>2007 A</td><td>26 luglio</td><td>2007</td></tr>
+<tr><td>Australia\*</td><td>26 aprile</td><td>2007 A</td><td>26 luglio</td><td>2007</td></tr>
 <tr><td>Austria</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Azerbaigian</td><td>11 gennaio</td><td>2006 A</td><td>11 aprile</td><td>2006</td></tr>
 <tr><td>Bahrein</td><td>15 settembre</td><td>2005 A</td><td>15 dicembre</td><td>2005</td></tr>
+<tr><td>Barbados</td><td>13 settembre</td><td>2019 A</td><td>13 dicembre</td><td>2019</td></tr>
 <tr><td>Belarus</td><td>15 luglio</td><td>1998</td><td>20 maggio</td><td>2002</td></tr>
-<tr><td>Belgio<sup>\*</sup></td><td>30 maggio</td><td>2006</td><td>30 agosto</td><td>2006</td></tr>
+<tr><td>Belgio\*</td><td>30 maggio</td><td>2006</td><td>30 agosto</td><td>2006</td></tr>
 <tr><td>Belize</td><td>9 novembre</td><td>2018 A</td><td>9 febbraio</td><td>2019</td></tr>
 <tr><td>Benin</td><td>16 gennaio</td><td>2006 A</td><td>16 aprile</td><td>2006</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>25 agosto</td><td>2009 A</td><td>25 novembre</td><td>2009</td></tr>
@@ -401,30 +403,31 @@ Campo d’applicazione il 27 giugno 2019**[^t-2]**
 <tr><td>Canada</td><td>13 maggio</td><td>2014</td><td>13 agosto</td><td>2014</td></tr>
 <tr><td>Capo Verde</td><td>22 febbraio</td><td>2019 A</td><td>22 maggio</td><td>2019</td></tr>
 <tr><td>Ceca, Repubblica</td><td>10 ottobre</td><td>2001 A</td><td>20 maggio</td><td>2002</td></tr>
-<tr><td>Cile<sup>\*</sup></td><td>11 aprile</td><td>2001</td><td>20 maggio</td><td>2002</td></tr>
-<tr><td>Cina<sup>\*</sup> <sup>a</sup></td><td>9 marzo</td><td>2007 A</td><td>9 giugno</td><td>2007</td></tr>
+<tr><td>Cile\*</td><td>11 aprile</td><td>2001</td><td>20 maggio</td><td>2002</td></tr>
+<tr><td>Cina\* <sup>a</sup></td><td>9 marzo</td><td>2007 A</td><td>9 giugno</td><td>2007</td></tr>
 <tr><td>Hong Kong</td><td>23 settembre</td><td>2008</td><td>1° ottobre</td><td>2008</td></tr>
 <tr><td>Cipro</td><td>2 settembre</td><td>2005 A</td><td>2 dicembre</td><td>2005</td></tr>
 <tr><td>Colombia</td><td>29 novembre</td><td>2000</td><td>20 maggio</td><td>2002</td></tr>
+<tr><td>Comore</td><td>25 gennaio</td><td>2021 A</td><td>25 aprile</td><td>2021</td></tr>
 <tr><td>Cook, Isole</td><td>19 marzo</td><td>2019 A</td><td>19 giugno</td><td>2019</td></tr>
-<tr><td>Corea del Sud<sup>\*</sup></td><td>18 dicembre</td><td>2008 A</td><td>18 marzo</td><td>2009</td></tr>
-<tr><td>Costa Rica<sup>\*</sup></td><td>23 maggio</td><td>2000</td><td>20 maggio</td><td>2002</td></tr>
+<tr><td>Corea del Sud\*</td><td>18 dicembre</td><td>2008 A</td><td>18 marzo</td><td>2009</td></tr>
+<tr><td>Costa Rica\*</td><td>23 maggio</td><td>2000</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>Croazia</td><td>3 luglio</td><td>2000</td><td>20 maggio</td><td>2002</td></tr>
-<tr><td>Danimarca<sup>\*</sup></td><td>12 marzo</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
+<tr><td>Danimarca\*</td><td>12 marzo</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>10 ottobre</td><td>2005 A</td><td>10 gennaio</td><td>2006</td></tr>
 <tr><td>Ecuador</td><td>21 giugno</td><td>2000</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>El Salvador</td><td>20 ottobre</td><td>1998 A</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>9 marzo</td><td>2005 A</td><td>9 giugno</td><td>2005</td></tr>
 <tr><td>Estonia</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Filippine</td><td>4 luglio</td><td>2002 A</td><td>4 ottobre</td><td>2002</td></tr>
-<tr><td>Finlandia<sup>\*</sup></td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
-<tr><td>Francia<sup>\*</sup></td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
+<tr><td>Finlandia\*</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
+<tr><td>Francia\*</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Gabon</td><td>6 dicembre</td><td>2001 A</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>Georgia</td><td>4 luglio</td><td>2001 A</td><td>20 maggio</td><td>2002</td></tr>
-<tr><td>Germania<sup>\*</sup></td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
+<tr><td>Germania\*</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Ghana</td><td>16 novembre</td><td>2012</td><td>16 febbraio</td><td>2013</td></tr>
 <tr><td>Giamaica</td><td>12 marzo</td><td>2002 A</td><td>12 giugno</td><td>2002</td></tr>
-<tr><td>Giappone<sup>\*</sup></td><td>9 luglio</td><td>2002 A</td><td>9 ottobre</td><td>2002</td></tr>
+<tr><td>Giappone\*</td><td>9 luglio</td><td>2002 A</td><td>9 ottobre</td><td>2002</td></tr>
 <tr><td>Giordania</td><td>24 febbraio</td><td>2004 A</td><td>24 maggio</td><td>2004</td></tr>
 <tr><td>Grecia</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Guatemala</td><td>8 ottobre</td><td>2002 A</td><td>8 gennaio</td><td>2003</td></tr>
@@ -436,11 +439,12 @@ Campo d’applicazione il 27 giugno 2019**[^t-2]**
 <tr><td>Italia</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Kazakstan</td><td>12 agosto</td><td>2004</td><td>12 novembre</td><td>2004</td></tr>
 <tr><td>Kirghizistan</td><td>15 maggio</td><td>2002 A</td><td>15 agosto</td><td>2002</td></tr>
+<tr><td>Kiribati</td><td>22 marzo</td><td>2021 A</td><td>22 giugno</td><td>2021</td></tr>
 <tr><td>Lettonia</td><td>22 marzo</td><td>2000 A</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>Liechtenstein</td><td>30 gennaio</td><td>2007 A</td><td>30 aprile</td><td>2007</td></tr>
 <tr><td>Lituania</td><td>26 gennaio</td><td>2001 A</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>Lussemburgo</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
-<tr><td>Macedonia del Nord<sup>\*</sup></td><td>20 dicembre</td><td>2004 A</td><td>20 marzo</td><td>2005</td></tr>
+<tr><td>Macedonia del Nord\*</td><td>20 dicembre</td><td>2004 A</td><td>20 marzo</td><td>2005</td></tr>
 <tr><td>Madagascar</td><td>24 novembre</td><td>2014 A</td><td>24 febbraio</td><td>2015</td></tr>
 <tr><td>Malaysia</td><td>27 settembre</td><td>2012 A</td><td>27 dicembre</td><td>2012</td></tr>
 <tr><td>Mali</td><td>22 ottobre</td><td>2001 A</td><td>20 maggio</td><td>2002</td></tr>
@@ -463,19 +467,23 @@ Campo d’applicazione il 27 giugno 2019**[^t-2]**
 <tr><td>Portogallo</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Qatar</td><td>28 luglio</td><td>2005 A</td><td>28 ottobre</td><td>2005</td></tr>
 <tr><td>Regno Unito</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
+<tr><td>Guernesey</td><td>1° gennaio</td><td>2021</td><td>1° gennaio</td><td>2021</td></tr>
+<tr><td>Man, Isola di</td><td>1° gennaio</td><td>2021</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Romania</td><td>1° febbraio</td><td>2001</td><td>20 maggio</td><td>2002</td></tr>
-<tr><td>Russia<sup>\*</sup></td><td>5 novembre</td><td>2008 A</td><td>5 febbraio</td><td>2009</td></tr>
+<tr><td>Russia\*</td><td>5 novembre</td><td>2008 A</td><td>5 febbraio</td><td>2009</td></tr>
 <tr><td>Saint Lucia</td><td>24 novembre</td><td>1999 A</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>12 novembre</td><td>2010 A</td><td>12 febbraio</td><td>2011</td></tr>
+<tr><td>San Marino</td><td>2 giugno</td><td>2020 A</td><td>2 settembre</td><td>2020</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>27 gennaio</td><td>2020 A</td><td>27 aprile</td><td>2020</td></tr>
 <tr><td>Senegal</td><td>18 febbraio</td><td>2002</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>Serbia</td><td>13 marzo</td><td>2003 A</td><td>13 giugno</td><td>2003</td></tr>
-<tr><td>Singapore<sup>\*</sup></td><td>17 gennaio</td><td>2005 A</td><td>17 aprile</td><td>2005</td></tr>
+<tr><td>Singapore\*</td><td>17 gennaio</td><td>2005 A</td><td>17 aprile</td><td>2005</td></tr>
 <tr><td>Slovacchia</td><td>14 gennaio</td><td>2000</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>Slovenia</td><td>19 novembre</td><td>1999</td><td>20 maggio</td><td>2002</td></tr>
 <tr><td>Spagna</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Stati Uniti</td><td>14 settembre</td><td>1999</td><td>20 maggio</td><td>2002</td></tr>
-<tr><td>Svezia<sup>\*</sup></td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
-<tr><td>Svizzera<sup>\*</sup></td><td>31 marzo</td><td>2008</td><td>1° luglio</td><td>2008</td></tr>
+<tr><td>Svezia\*</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
+<tr><td>Svizzera\*</td><td>31 marzo</td><td>2008</td><td>1° luglio</td><td>2008</td></tr>
 <tr><td>Tagikistan</td><td>24 maggio</td><td>2011 A</td><td>24 agosto</td><td>2011</td></tr>
 <tr><td>Togo</td><td>21 febbraio</td><td>2003</td><td>21 maggio</td><td>2003</td></tr>
 <tr><td>Trinidad e Tobago</td><td>28 agosto</td><td>2008 A</td><td>28 novembre</td><td>2008</td></tr>
@@ -485,11 +493,12 @@ Campo d’applicazione il 27 giugno 2019**[^t-2]**
 <tr><td>Unione europea</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Uruguay</td><td>28 maggio</td><td>2008</td><td>28 agosto</td><td>2008</td></tr>
 <tr><td>Uzbekistan</td><td>17 aprile</td><td>2019 A</td><td>17 luglio</td><td>2019</td></tr>
+<tr><td>Vanuatu</td><td>2 maggio</td><td>2020 A</td><td>2 agosto</td><td>2020</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni, eccetto quelle della Svizzera, non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Il Trattato non si applica a Macao.</td></tr>
 </table>
 
-[^t-2]: Completa quelli in [RU 2008 2515](https://fedlex.data.admin.ch/eli/oc/2008/359), [2009 2503](https://fedlex.data.admin.ch/eli/oc/2009/313), [2010 1457](https://fedlex.data.admin.ch/eli/oc/2010/198), [2013 1373](https://fedlex.data.admin.ch/eli/oc/2013/326), [2017 3725](https://fedlex.data.admin.ch/eli/oc/2017/431), [2019 2185](https://fedlex.data.admin.ch/eli/oc/2019/404). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2009 2503](https://fedlex.data.admin.ch/eli/oc/2009/313); [2010 1457](https://fedlex.data.admin.ch/eli/oc/2010/198); [2013 1373](https://fedlex.data.admin.ch/eli/oc/2013/326); [2017 3725](https://fedlex.data.admin.ch/eli/oc/2017/431); [2019 2185](https://fedlex.data.admin.ch/eli/oc/2019/404); [2021 607](https://fedlex.data.admin.ch/eli/oc/2021/607). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
