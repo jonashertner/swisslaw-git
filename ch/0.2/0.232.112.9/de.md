@@ -3,11 +3,11 @@ sr: "0.232.112.9"
 title: "Abkommen von Nizza über die internationale Klassifikation von Waren und Dienstleistungen für die Eintragung von Marken, revidiert in Genf am 13. Mai 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/532_532_532"
 language: de
-version: 2020-07-13
+version: 2021-10-05
 adopted: 1977-05-13
 in_force: 1986-04-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/532_532_532/20200713/de/xml/fedlex-data-admin-ch-eli-cc-1986-532_532_532-20200713-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/532_532_532/20200713/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/532_532_532/20211005/de/xml/fedlex-data-admin-ch-eli-cc-1986-532_532_532-20211005-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/532_532_532/20211005/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Amtlicher deutscher Text
 
 Abgeschlossen in Genf am 13. Mai 1977 Von der Bundesversammlung genehmigt am 16. September 1985[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 22. Januar 1986 In Kraft getreten für die Schweiz am 22. April 1986
 
-(Stand am 13. Juli 2020)
+(Stand am 5. Oktober 2021)
 
 [^t-1]: [AS 1986 531](https://fedlex.data.admin.ch/eli/oc/1986/531_531_531)
 
@@ -295,7 +295,7 @@ Die Bestimmungen des Artikels 24 der Stockholmer Fassung von 1967[^13-1] der Par
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten diese Fassung des Abkommens unterschrieben. Geschehen in Genf am 13. Mai 1977. (Es folgen die Unterschriften)
 
-Geltungsbereich am 13. Juli 2020**[^t-2]**
+Geltungsbereich am 5. Oktober 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -330,6 +330,7 @@ Geltungsbereich am 13. Juli 2020**[^t-2]**
 <tr><td>Iran</td><td>12. April</td><td>2018 B</td><td>12. Juli</td><td>2018</td></tr>
 <tr><td>Irland</td><td>31. Oktober</td><td>1978</td><td>6. Februar</td><td>1979</td></tr>
 <tr><td>Island</td><td>23. Dezember</td><td>1994 B</td><td>9. April</td><td>1995</td></tr>
+<tr><td>Israel</td><td>25. Juni</td><td>2021 B</td><td>25. September</td><td>2021</td></tr>
 <tr><td>Italien</td><td>18. November</td><td>1982</td><td>19. Februar</td><td>1983</td></tr>
 <tr><td>Jamaika</td><td>7. November</td><td>2005 B</td><td>7. Februar</td><td>2006</td></tr>
 <tr><td>Japan</td><td>17. November</td><td>1989 B</td><td>20. Februar</td><td>1990</td></tr>
@@ -359,10 +360,12 @@ Geltungsbereich am 13. Juli 2020**[^t-2]**
 <tr><td>Nordmazedonien</td><td>23. Juli</td><td>1993</td><td>8. September</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>6. April</td><td>1981</td><td>7. Juli</td><td>1981</td></tr>
 <tr><td>Österreich</td><td>19. Mai</td><td>1982</td><td>21. August</td><td>1982</td></tr>
+<tr><td>Paraguay</td><td>31. Mai</td><td>2021 B</td><td>31. August</td><td>2021</td></tr>
 <tr><td>Polen</td><td>4. Dezember</td><td>1996 B</td><td>4. März</td><td>1997</td></tr>
 <tr><td>Portugal</td><td>30. April</td><td>1982</td><td>30. Juli</td><td>1982</td></tr>
 <tr><td>Rumänien</td><td>31. März</td><td>1998 B</td><td>30. Juni</td><td>1998</td></tr>
 <tr><td>Russland</td><td>23. September</td><td>1987</td><td>30. Dezember</td><td>1987</td></tr>
+<tr><td>Saudi-Arabien</td><td>22. April</td><td>2021 B</td><td>22. Juli</td><td>2021</td></tr>
 <tr><td>Schweden</td><td>6. November</td><td>1978</td><td>6. Februar</td><td>1979</td></tr>
 <tr><td>Schweiz</td><td>22. Januar</td><td>1986</td><td>22. April</td><td>1986</td></tr>
 <tr><td>Serbien</td><td>17. September</td><td>2010 B</td><td>17. Dezember</td><td>2010</td></tr>
@@ -386,7 +389,10 @@ Geltungsbereich am 13. Juli 2020**[^t-2]**
 <tr><td>Usbekistan</td><td>12. Oktober</td><td>2001 B</td><td>12. Januar</td><td>2002</td></tr>
 <tr><td>Vereinigte Staaten</td><td>29. November</td><td>1983</td><td>29. Februar</td><td>1984</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>30. März</td><td>1979</td><td>3. Juli</td><td>1979</td></tr>
+<tr><td>Gibraltar</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Guernsey</td><td>23. Dezember</td><td>2020</td><td>23. März</td><td>2021</td></tr>
+<tr><td>Insel Man</td><td>23. Dezember</td><td>2020</td><td>23. März</td><td>2021</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Abkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 1986 532](https://fedlex.data.admin.ch/eli/oc/1986/532_532_532), [1987 702](https://fedlex.data.admin.ch/eli/oc/1987/702_702_702), [1990 797](https://fedlex.data.admin.ch/eli/oc/1990/797_797_797), [2003 3423](https://fedlex.data.admin.ch/eli/oc/2003/482), [2005 4947](https://fedlex.data.admin.ch/eli/oc/2005/672), [2008 4049](https://fedlex.data.admin.ch/eli/oc/2008/555), [2011 2967](https://fedlex.data.admin.ch/eli/oc/2011/385), [2014 1217](https://fedlex.data.admin.ch/eli/oc/2014/261), [2020 3455](https://fedlex.data.admin.ch/eli/oc/2020/597). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1986 532](https://fedlex.data.admin.ch/eli/oc/1986/532_532_532); [1987 702](https://fedlex.data.admin.ch/eli/oc/1987/702_702_702); [1990 797](https://fedlex.data.admin.ch/eli/oc/1990/797_797_797); [2003 3423](https://fedlex.data.admin.ch/eli/oc/2003/482); [2005 4947](https://fedlex.data.admin.ch/eli/oc/2005/672); [2008 4049](https://fedlex.data.admin.ch/eli/oc/2008/555); [2011 2967](https://fedlex.data.admin.ch/eli/oc/2011/385); [2014 1217](https://fedlex.data.admin.ch/eli/oc/2014/261); [2020 3455](https://fedlex.data.admin.ch/eli/oc/2020/597); [2021 609](https://fedlex.data.admin.ch/eli/oc/2021/609). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (www.fedlex.admin.ch/de/treaty).

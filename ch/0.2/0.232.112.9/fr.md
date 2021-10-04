@@ -3,11 +3,11 @@ sr: "0.232.112.9"
 title: "Arrangement de Nice concernant la classification internationale des produits et des services aux fins de l'enregistrement des marques, révisé à Genève le 13 mai 1977"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/532_532_532"
 language: fr
-version: 2020-07-13
+version: 2021-10-05
 adopted: 1977-05-13
 in_force: 1986-04-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/532_532_532/20200713/fr/xml/fedlex-data-admin-ch-eli-cc-1986-532_532_532-20200713-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/532_532_532/20200713/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/532_532_532/20211005/fr/xml/fedlex-data-admin-ch-eli-cc-1986-532_532_532-20211005-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/532_532_532/20211005/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 22 janvier 1986
 
 Entré en vigueur pour la Suisse le 22 avril 1986
 
-(Etat le 13 juillet 2020)
+(Etat le 5 octobre 2021)
 
 [^t-1]: [RO 1986 531](https://fedlex.data.admin.ch/eli/oc/1986/531_531_531)
 
@@ -302,13 +302,14 @@ Les dispositions de l’art. 24 de l’Acte de Stockholm de 1967[^13-1] de la Co
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Acte. Fait à Genève, le 13 mai 1977. (Suivent les signatures)
 
-Champ d’application 13 juillet 2020**[^t-2]**
+Champ d’application le 5 octobre 2021**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>19 juin</td><td>2003 A</td><td>19 septembre</td><td>2003</td></tr>
 <tr><td>Allemagne</td><td>28 septembre</td><td>1981</td><td>12 janvier</td><td>1982</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>25 mars</td><td>2019 A</td><td>25 juin</td><td>2019</td></tr>
+<tr><td>Arabie Saoudite</td><td>22 avril</td><td>2021 A</td><td>22 juillet</td><td>2021</td></tr>
 <tr><td>Argentine</td><td>24 octobre</td><td>2007 A</td><td>24 janvier</td><td>2008</td></tr>
 <tr><td>Arménie</td><td>6 décembre</td><td>2004 A</td><td>6 mars</td><td>2005</td></tr>
 <tr><td>Australie</td><td>4 janvier</td><td>1978</td><td>6 février</td><td>1979</td></tr>
@@ -346,6 +347,7 @@ Champ d’application 13 juillet 2020**[^t-2]**
 <tr><td>Iran</td><td>12 avril</td><td>2018 A</td><td>12 juillet</td><td>2018</td></tr>
 <tr><td>Irlande</td><td>31 octobre</td><td>1978</td><td>6 février</td><td>1979</td></tr>
 <tr><td>Islande</td><td>23 décembre</td><td>1994 A</td><td>9 avril</td><td>1995</td></tr>
+<tr><td>Israël</td><td>25 juin</td><td>2021 A</td><td>25 septembre</td><td>2021</td></tr>
 <tr><td>Italie</td><td>18 novembre</td><td>1982</td><td>19 février</td><td>1983</td></tr>
 <tr><td>Jamaïque</td><td>7 novembre</td><td>2005 A</td><td>7 février</td><td>2006</td></tr>
 <tr><td>Japon</td><td>17 novembre</td><td>1989 A</td><td>20 février</td><td>1990</td></tr>
@@ -368,6 +370,7 @@ Champ d’application 13 juillet 2020**[^t-2]**
 <tr><td>Norvège</td><td>6 avril</td><td>1981</td><td>7 juillet</td><td>1981</td></tr>
 <tr><td>Nouvelle-Zélande <sup>a</sup></td><td>16 juillet</td><td>2013 A</td><td>16 octobre</td><td>2013</td></tr>
 <tr><td>Ouzbékistan</td><td>12 octobre</td><td>2001 A</td><td>12 janvier</td><td>2002</td></tr>
+<tr><td>Paraguay</td><td>31 mai</td><td>2021 A</td><td>31 août</td><td>2021</td></tr>
 <tr><td>Pays-Bas</td><td>11 mai</td><td>1979</td><td>15 août</td><td>1979</td></tr>
 <tr><td>[tab] Aruba</td><td>2 février</td><td>1994</td><td>28 février</td><td>1994</td></tr>
 <tr><td>Pologne</td><td>4 décembre</td><td>1996 A</td><td>4 mars</td><td>1997</td></tr>
@@ -375,6 +378,9 @@ Champ d’application 13 juillet 2020**[^t-2]**
 <tr><td>République tchèque</td><td>18 décembre</td><td>1992 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>31 mars</td><td>1998 A</td><td>30 juin</td><td>1998</td></tr>
 <tr><td>Royaume-Uni</td><td>30 mars</td><td>1979</td><td>3 juillet</td><td>1979</td></tr>
+<tr><td>Gibraltar</td><td>1<sup>er</sup> octobre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
+<tr><td>Guernesey</td><td>23 décembre</td><td>2020</td><td>23 mars</td><td>2021</td></tr>
+<tr><td>Île de Man</td><td>23 décembre</td><td>2020</td><td>23 mars</td><td>2021</td></tr>
 <tr><td>Russie</td><td>23 septembre</td><td>1987</td><td>30 décembre</td><td>1987</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>27 juillet</td><td>2005 A</td><td>27 octobre</td><td>2005</td></tr>
 <tr><td>Sainte-Lucie</td><td>18 décembre</td><td>2000 A</td><td>18 mars</td><td>2001</td></tr>
@@ -396,4 +402,4 @@ Champ d’application 13 juillet 2020**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> L’Arrangement ne s’applique pas à Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 1986 532](https://fedlex.data.admin.ch/eli/oc/1986/532_532_532), [1987 702](https://fedlex.data.admin.ch/eli/oc/1987/702_702_702), [1990 797](https://fedlex.data.admin.ch/eli/oc/1990/797_797_797),[2003 3423](https://fedlex.data.admin.ch/eli/oc/2003/482), [2005 4947](https://fedlex.data.admin.ch/eli/oc/2005/672), [2008 4049](https://fedlex.data.admin.ch/eli/oc/2008/555), [2011 2967](https://fedlex.data.admin.ch/eli/oc/2011/385), [2014 1217](https://fedlex.data.admin.ch/eli/oc/2014/261), [2020 3455](https://fedlex.data.admin.ch/eli/oc/2020/597). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1986 532](https://fedlex.data.admin.ch/eli/oc/1986/532_532_532); [1987 702](https://fedlex.data.admin.ch/eli/oc/1987/702_702_702); **990** 797; [2003 3423](https://fedlex.data.admin.ch/eli/oc/2003/482); [2005 4947](https://fedlex.data.admin.ch/eli/oc/2005/672); [2008 4049](https://fedlex.data.admin.ch/eli/oc/2008/555); [2011 2967](https://fedlex.data.admin.ch/eli/oc/2011/385); [2014 1217](https://fedlex.data.admin.ch/eli/oc/2014/261); [2020 3455](https://fedlex.data.admin.ch/eli/oc/2020/597); [2021 609](https://fedlex.data.admin.ch/eli/oc/2021/609). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: (www.fedlex.admin.ch/fr/treaty).
