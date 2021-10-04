@@ -3,11 +3,11 @@ sr: "0.232.04"
 title: "Convention de Paris du 20 mars 1883 pour la protection de la propriété industrielle, révisée à Stockholm le 14 juillet 1967"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/620_620_620"
 language: fr
-version: 2017-07-04
+version: 2021-10-05
 adopted: 1967-07-14
 in_force: 1970-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/620_620_620/20170704/fr/xml/fedlex-data-admin-ch-eli-cc-1970-620_620_620-20170704-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/620_620_620/20170704/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/620_620_620/20211005/fr/xml/fedlex-data-admin-ch-eli-cc-1970-620_620_620-20211005-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/620_620_620/20211005/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1970/620_620_620/20170704/fr"
 
 RO **1970** 620; FF **1968** II 917
 
-Texte original*[^t-1]*
+Texte original[^t-1]
 
 Conclue à Stockholm le 14 juillet 1967
 
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 26 janvier 1970
 
 Entrée en vigueur pour la Suisse le 26 avril 1970
 
-(Etat le 4 juillet 2017)
+(État le 5 octobre 2021)
 
 [^t-1]: Des titres ont été ajoutés aux articles de la Conv. afin d’en faciliter la lecture; le texte original ne contient pas de titres.
 [^t-2]: Art. 1 ch. 2 de l’AF du 2 déc. 1969 ([RO 1970 601](https://fedlex.data.admin.ch/eli/oc/1970/600_601_601)).
@@ -210,30 +210,30 @@ Les dessins et modèles industriels seront protégés dans tous les pays de l’
 
 #### Art. 6<sup>ter</sup>
 
-**[*Marques:* interdictions quant aux emblèmes d’Etat, signes officiels de contrôle et emblèmes d’organisations intergouvernementales]**
+**[*Marques:* interdictions quant aux emblèmes d’État, signes officiels de contrôle et emblèmes d’organisations intergouvernementales]**
 
 \2) L’interdiction des signes et poinçons officiels de contrôle et de garantie s’appliquera seulement dans les cas où les marques qui les comprendront seront destinées à être utilisées sur des marchandises du même genre ou d’un genre similaire.
 
 \4) Tout pays de l’Union pourra, dans un délai de douze mois à partir de la réception de la notification, transmettre, par l’intermédiaire du Bureau international, au pays ou à l’organisation internationale intergouvernementale intéressés, ses objections éventuelles.
 
-\5) Pour les drapeaux de l’Etat, les mesures prévues à l’al. 1) ci-dessus s’appliqueront seulement aux marques enregistrées après le 6 novembre 1925.
+\5) Pour les drapeaux de l’État, les mesures prévues à l’al. 1) ci-dessus s’appliqueront seulement aux marques enregistrées après le 6 novembre 1925.
 
-\6) Pour les emblèmes d’Etat autres que les drapeaux, pour les signes et poinçons officiels des pays de l’Union et pour les armoiries, drapeaux et autres emblèmes, sigles ou dénominations des organisations internationales intergouvernementales, ces dispositions ne seront applicables qu’aux marques enregistrées plus de deux mois après réception de la notification prévue à l’al. 3) ci-dessus.
+\6) Pour les emblèmes d’État autres que les drapeaux, pour les signes et poinçons officiels des pays de l’Union et pour les armoiries, drapeaux et autres emblèmes, sigles ou dénominations des organisations internationales intergouvernementales, ces dispositions ne seront applicables qu’aux marques enregistrées plus de deux mois après réception de la notification prévue à l’al. 3) ci-dessus.
 
-\7) En cas de mauvaise foi, les pays auront la faculté de faire radier même les marques enregistrées avant le 6 novembre 1925 et comportant des emblèmes d’Etat, signes et poinçons.
+\7) En cas de mauvaise foi, les pays auront la faculté de faire radier même les marques enregistrées avant le 6 novembre 1925 et comportant des emblèmes d’État, signes et poinçons.
 
-\8) Les nationaux de chaque pays qui seraient autorisés à faire usage des emblèmes d’Etat, signes et poinçons de leur pays, pourront les utiliser, même s’il y avait similitude avec ceux d’un autre pays.
+\8) Les nationaux de chaque pays qui seraient autorisés à faire usage des emblèmes d’État, signes et poinçons de leur pays, pourront les utiliser, même s’il y avait similitude avec ceux d’un autre pays.
 
-\9) Les pays de l’Union s’engagent à interdire l’usage non autorisé, dans le commerce, des armoiries d’Etat des autres pays de l’Union, lorsque cet usage sera de nature à induire en erreur sur l’origine des produits.
+\9) Les pays de l’Union s’engagent à interdire l’usage non autorisé, dans le commerce, des armoiries d’État des autres pays de l’Union, lorsque cet usage sera de nature à induire en erreur sur l’origine des produits.
 
-\10) Les dispositions qui précèdent ne font pas obstacle à l’exercice, par les pays, de la faculté de refuser ou d’invalider, par application du ch. 3 de la let. B de l’art. 6<sup>quinquies</sup>, les marques contenant, sans autorisation, des armoiries, drapeaux et autres emblèmes d’Etat, ou des signes et poinçons officiels adoptés par un pays de l’Union, ainsi que des signes distinctifs des organisations internationales intergouvernementales mentionnés à l’al. 1) ci-dessus.
+\10) Les dispositions qui précèdent ne font pas obstacle à l’exercice, par les pays, de la faculté de refuser ou d’invalider, par application du ch. 3 de la let. B de l’art. 6<sup>quinquies</sup>, les marques contenant, sans autorisation, des armoiries, drapeaux et autres emblèmes d’État, ou des signes et poinçons officiels adoptés par un pays de l’Union, ainsi que des signes distinctifs des organisations internationales intergouvernementales mentionnés à l’al. 1) ci-dessus.
 
-- 1) a) Les pays de l’Union conviennent de refuser ou d’invalider l’enregistrement et d’interdire, par des mesures appropriées, l’utilisation, à défaut d’autorisation des pouvoirs compétents, soit comme marque de fabrique ou de commerce, soit comme élément de ces marques, des armoiries, drapeaux et autres emblèmes d’Etat des pays de l’Union, signes et poinçons officiels de contrôle et de garantie adoptés par eux, ainsi que toute imitation au point de vue héraldique.
+- 1) a) Les pays de l’Union conviennent de refuser ou d’invalider l’enregistrement et d’interdire, par des mesures appropriées, l’utilisation, à défaut d’autorisation des pouvoirs compétents, soit comme marque de fabrique ou de commerce, soit comme élément de ces marques, des armoiries, drapeaux et autres emblèmes d’État des pays de l’Union, signes et poinçons officiels de contrôle et de garantie adoptés par eux, ainsi que toute imitation au point de vue héraldique.
 - b) Les dispositions figurant sous la let. a) ci-dessus s’appliquent également aux armoiries, drapeaux et autres emblèmes, sigles ou dénominations des organisations internationales intergouvernementales dont un ou plusieurs pays de l’Union sont membres, à l’exception des armoiries, drapeaux et autres emblèmes, sigles ou dénominations qui ont déjà fait l’objet d’accords internationaux en vigueur destinés à assurer leur protection.
 - c) Aucun pays de l’Union ne pourra être tenu d’appliquer des dispositions figurant sous la let. b) ci-dessus au détriment des titulaires de droits acquis de bonne foi avant l’entrée en vigueur, dans ce pays, de la présente Convention. Les pays de l’Union ne sont pas tenus d’appliquer lesdites dispositions lorsque l’utilisation ou l’enregistrement visé sous la let. a) ci-dessus n’est pas de nature à suggérer, dans l’esprit du public, un lieu entre l’organisation en cause et les armoiries, drapeaux, emblèmes, sigles ou dénominations, ou si cette utilisation ou enregistrement n’est vraisemblablement pas de nature à abuser le public sur l’existence d’un lieu entre l’utilisateur et l’organisation.
 
-- 3) a) Pour l’application de ces dispositions, les pays de l’Union conviennent de se communiquer réciproquement, par l’intermédiaire du Bureau international, la liste des emblèmes d’Etat, signes et poinçons officiels de contrôle et de garantie, qu’ils désirent ou désireront placer, d’une façon absolue ou dans certaines limites, sous la protection du présent article, ainsi que toutes modifications ultérieures apportées à cette liste. Chaque pays de l’Union mettra à la disposition du public, en temps utile, les listes notifiées.
-- Toutefois, cette notification n’est pas obligatoire en ce qui concerne les drapeaux des Etats.
+- 3) a) Pour l’application de ces dispositions, les pays de l’Union conviennent de se communiquer réciproquement, par l’intermédiaire du Bureau international, la liste des emblèmes d’État, signes et poinçons officiels de contrôle et de garantie, qu’ils désirent ou désireront placer, d’une façon absolue ou dans certaines limites, sous la protection du présent article, ainsi que toutes modifications ultérieures apportées à cette liste. Chaque pays de l’Union mettra à la disposition du public, en temps utile, les listes notifiées.
+- Toutefois, cette notification n’est pas obligatoire en ce qui concerne les drapeaux des États.
 - b) Les dispositions figurant sous la let. b) de l’al. 1) du présent article ne sont applicables qu’aux armoiries, drapeaux et autres emblèmes, sigles ou dénominations des organisations internationales intergouvernementales que celles-ci communiqués aux pays de l’Union par l’intermédiaire du Bureau international.
 
 #### Art. 6<sup>quater</sup>
@@ -413,7 +413,7 @@ Le nom commercial sera protégé dans tous les pays de l’union sans obligation
 - d) Sous réserve de dispositions de l’art. 17.2), les décisions de l’Assemblée sont prises à la majorité des deux tiers de votes exprimés.
 - e) L’abstention n’est pas considérée comme un vote.
 - 5) a) Sous réserve du sous-alinéa b), un délégué ne peut voter qu’au nom d’un seul pays.
-- b) Les pays de l’Union visés à l’al. 3)b) s’efforcent, en règle générale, de se faire représenter aux sessions de l’Assemblée par leurs propres délégations. Toutefois, si, pour des raisons exceptionnelles, l’un desdits pays ne peut se faire représenter par sa propre délégation, il peut donner à la délégation d’un autre de ces pays le pouvoir de voter en son nom, étant entendu qu’une délégation ne peut voter par procuration que pour un seul pays. Tout pouvoir à cet effet doit faire l’objet d’un acte signé par le chef de l’Etat ou par le ministre compétent.
+- b) Les pays de l’Union visés à l’al. 3)b) s’efforcent, en règle générale, de se faire représenter aux sessions de l’Assemblée par leurs propres délégations. Toutefois, si, pour des raisons exceptionnelles, l’un desdits pays ne peut se faire représenter par sa propre délégation, il peut donner à la délégation d’un autre de ces pays le pouvoir de voter en son nom, étant entendu qu’une délégation ne peut voter par procuration que pour un seul pays. Tout pouvoir à cet effet doit faire l’objet d’un acte signé par le chef de l’État ou par le ministre compétent.
 
 - 7) a) L’Assemblée se réunit une fois tous les deux ans[^13-3] en session ordinaire sur convocation du Directeur général et, sauf cas exceptionnels, pendant la même période et au même lieu que l’Assemblée générale de l’Organisation.
 - b) L’Assemblée se réunit en session extraordinaire sur convocation adressée par le Directeur général, à la demande du Comité exécutif ou à la demande d’un quart des pays membres de l’Assemblée.
@@ -523,7 +523,7 @@ Le nom commercial sera protégé dans tous les pays de l’union sans obligation
   - Classe VI 3
   - Classe VII 1
 
-- b) A moins qu’il ne l’ait fait précédemment, chaque pays indique, au moment du dépôt de son instrument de ratification ou d’adhésion, la classe dans laquelle il désire être rangé. Il peut changer de classe. S’il choisit une classe inférieure, le pays doit en faire part à l’Assemblée lors d’une de ses sessions ordinaires. Un tel changement prend effet au début de l’année civile suivant ladite session.
+- b) À moins qu’il ne l’ait fait précédemment, chaque pays indique, au moment du dépôt de son instrument de ratification ou d’adhésion, la classe dans laquelle il désire être rangé. Il peut changer de classe. S’il choisit une classe inférieure, le pays doit en faire part à l’Assemblée lors d’une de ses sessions ordinaires. Un tel changement prend effet au début de l’année civile suivant ladite session.
 - c) La contribution annuelle de chaque pays consiste en un montant dont le rapport à la somme totale des contributions annuelles au budget de l’Union de tous les pays est le même que le rapport entre le nombre des unités de la classe dans laquelle il est rangé et le nombre total des unités de l’ensemble des pays.
 - d) Les contributions sont dues au premier janvier de chaque année.
 - e) Un pays en retard dans le paiement de ses contributions ne peut exercer son droit de vote, dans aucun des organes de l’Union dont il est membre, si le montant de son arrière est égal ou supérieur à celui des contributions dont il est redevable pour les deux années complètes écoulées. Cependant, un tel pays peut être autorisé à conserver l’exercice de son droit de vote au sein dudit organe aussi longtemps que ce dernier estime que le retard résulte de circonstances exceptionnelles et inévitables.
@@ -550,7 +550,7 @@ Le nom commercial sera protégé dans tous les pays de l’union sans obligation
 
 \1) La présente Convention sera soumise à des revisions en vue d’y introduire les améliorations de nature à perfectionner le système de l’Union.
 
-\2) A cet effet, des conférences auront lieu, successivement, dans l’un des pays de l’Union, entre les délégués desdits pays.
+\2) À cet effet, des conférences auront lieu, successivement, dans l’un des pays de l’Union, entre les délégués desdits pays.
 
 \3) Les modifications des art. 13 à 17 sont régies par les dispositions de l’art. 17.
 
@@ -564,7 +564,7 @@ Il est entendu que les pays de l’Union se réservent le droit de prendre sépa
 
 **[Ratification ou adhésion par des pays de l’Union; entrée en vigueur]**
 
-\3) A l’égard de chaque pays de l’Union qui dépose un instrument de ratification ou d’adhésion, les art. 18 à 30 entrent en vigueur à la première date à laquelle l’un quelconque des groupes d’articles visés à l’al. 1)b) entre en vigueur à l’égard de ce pays conformément à l’al. 2)a), b), ou c).
+\3) À l’égard de chaque pays de l’Union qui dépose un instrument de ratification ou d’adhésion, les art. 18 à 30 entrent en vigueur à la première date à laquelle l’un quelconque des groupes d’articles visés à l’al. 1)b) entre en vigueur à l’égard de ce pays conformément à l’al. 2)a), b), ou c).
 
 - 1) a) Chacun des pays de l’Union qui a signé le présent Acte peut le ratifier et, s’il ne l’a pas signé, peut y adhérer. Les instruments de ratification et d’adhésion sont déposés auprès du Directeur général.
 - [tab]
@@ -587,16 +587,16 @@ Il est entendu que les pays de l’Union se réservent le droit de prendre sépa
 
 Si les pays indiquent une date postérieure dans son instrument d’adhésion, le présent Acte entre en vigueur à l’égard de ce pays à la date ainsi indiquée.
 
-\3) A l’égard de tout pays étranger à l’Union qui a déposé son instrument d’adhésion après la date d’entrée en vigueur du présent Acte dans sa totalité, ou moins d’un mois avant cette date, le présent Acte entre en vigueur trois mois après la date à laquelle son adhésion a été notifiée par le Directeur général, à moins qu’une date postérieure n’ait été indiquée dans l’instrument d’adhésion. Dans ce dernier cas, le présent Acte entre en vigueur à l’égard de ce pays à la date ainsi indiquée.
+\3) À l’égard de tout pays étranger à l’Union qui a déposé son instrument d’adhésion après la date d’entrée en vigueur du présent Acte dans sa totalité, ou moins d’un mois avant cette date, le présent Acte entre en vigueur trois mois après la date à laquelle son adhésion a été notifiée par le Directeur général, à moins qu’une date postérieure n’ait été indiquée dans l’instrument d’adhésion. Dans ce dernier cas, le présent Acte entre en vigueur à l’égard de ce pays à la date ainsi indiquée.
 
 - 2) a)
 
-  A l’égard de tout pays étranger à l’Union qui a déposé son instrument d’adhésion un mois ou plus avant la date d’entrée en vigueur des dispositions du présent Acte, celui-ci entre en vigueur à la date à laquelle les dispositions sont entrées en vigueur pour la première fois en application de l’art. 20.2)a) ou b), à moins qu’une date postérieure n’ait été indiquée dans l’instrument d’adhésion; toutefois:
+  À l’égard de tout pays étranger à l’Union qui a déposé son instrument d’adhésion un mois ou plus avant la date d’entrée en vigueur des dispositions du présent Acte, celui-ci entre en vigueur à la date à laquelle les dispositions sont entrées en vigueur pour la première fois en application de l’art. 20.2)a) ou b), à moins qu’une date postérieure n’ait été indiquée dans l’instrument d’adhésion; toutefois:
 
   - i) si les art. 1 à 12 ne sont pas entrés en vigueur à cette date, un tel pays sera lié, durant la période intérimaire avant l’entrée en vigueur de ces dispositions, et en remplacement de celles-ci, par les art. 1 à 12 de l’Acte de Lisbonne[^21-1],
   - ii) si les art. 13 à 17 ne sont pas entrée en vigueur à cette date, un tel pays sera lié, durant la période intérimaire avant l’entrée en vigueur de ces dispositions, et en remplacement de celles-ci, par les art. 13 et 14, 3), 4) et 5) de l’Acte de Lisbonne.
 
-- b) A l’égard de tout pays étranger à l’Union qui a déposé son instrument d’adhésion à une date postérieure à l’entrée en vigueur d’un seul groupe d’articles du présent Acte ou à une date qui la précède de moins d’un mois, le présent Acte entre en vigueur, sous réserve de ce qui est prévu au sous-alinéa a), trois mois après la date à laquelle son adhésion a été notifiée par le Directeur général, à moins qu’une date postérieure n 1 ait été indiquée dans l’instrument d’adhésion. Dans ce dernier cas, le présent Acte entre en vigueur à l’égard de ce pays à la date ainsi indiquée.
+- b) À l’égard de tout pays étranger à l’Union qui a déposé son instrument d’adhésion à une date postérieure à l’entrée en vigueur d’un seul groupe d’articles du présent Acte ou à une date qui la précède de moins d’un mois, le présent Acte entre en vigueur, sous réserve de ce qui est prévu au sous-alinéa a), trois mois après la date à laquelle son adhésion a été notifiée par le Directeur général, à moins qu’une date postérieure n 1 ait été indiquée dans l’instrument d’adhésion. Dans ce dernier cas, le présent Acte entre en vigueur à l’égard de ce pays à la date ainsi indiquée.
 
 [^21-1]: [RS 0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127)
 
@@ -653,7 +653,7 @@ Après l’entrée en vigueur du présent Acte dans sa totalité, un pays ne peu
 
 Lesdits pays admettent que le pays de l’Union considéré applique dans ses relations avec eux les dispositions de l’Acte le plus récent auquel il est partie.
 
-- 2) a) A l’égard des pays auxquels le présent Acte n’est pas applicable, ou n’est pas applicable dans sa totalité, mais auxquels l’Acte de Lisbonne du 31 octobre 1958[^27-3] est applicable, ce dernier reste en vigueur dans sa totalité ou dans la mesure où le présent Acte ne le remplace pas en vertu de l’al. 1).
+- 2) a) À l’égard des pays auxquels le présent Acte n’est pas applicable, ou n’est pas applicable dans sa totalité, mais auxquels l’Acte de Lisbonne du 31 octobre 1958[^27-3] est applicable, ce dernier reste en vigueur dans sa totalité ou dans la mesure où le présent Acte ne le remplace pas en vertu de l’al. 1).
 - b) De même, à l’égard des pays auxquels ni le présent Acte, ni les parties de celui-ci, ni l’Acte de Lisbonne ne sont applicables, l’Acte de Londres du 2 juin 1934[^27-4] reste en vigueur dans sa totalité, ou dans la mesure où le présent Acte ne le remplace pas en vertu de l’al. 1).
 - c) De même, à l’égard des pays auxquels ni le présent Acte, ni les parties de celui-ci, ni l’Acte de Lisbonne, ni l’Acte de Londres ne sont applicables, l’Acte de La Haye du 6 novembre 1925[^27-5] reste en vigueur dans sa totalité, ou dans la mesure où le présent Acte ne le remplace pas en vertu de l’al. 1).
 
@@ -707,222 +707,219 @@ Lesdits pays admettent que le pays de l’Union considéré applique dans ses re
 
 *En foi de quoi,* les sous signés, dûment autorisés à cet effet, ont signé le présent Acte. Fait à Stockholm, le 14 juillet 1967. (Suivent les signatures)
 
-Champ d’application le 4 juillet 2017**[^t-3]**
+Champ d’application le 5 octobre 2021[^t-3]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th colspan="3">Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Afghanistan</td><td>14 février</td><td>2017 A</td><td colspan="3">14 mai</td><td>2017</td></tr>
-<tr><td colspan="2">Afrique du Sud\*</td><td>23 décembre</td><td>1974</td><td colspan="3">24 mars</td><td>1975</td></tr>
-<tr><td colspan="2">Albanie</td><td>4 juillet</td><td>1995 A</td><td colspan="3">4 octobre</td><td>1995</td></tr>
-<tr><td colspan="2">Algérie\*</td><td>16 janvier</td><td>1975</td><td colspan="3">20 avril</td><td>1975</td></tr>
-<tr><td colspan="2">Allemagne</td><td>19 juin</td><td>1970</td><td colspan="3">19 septembre</td><td>1970</td></tr>
-<tr><td colspan="2">Andorre</td><td>2 mars</td><td>2004 A</td><td colspan="3">2 juin</td><td>2004</td></tr>
-<tr><td colspan="2">Angola</td><td>27 septembre</td><td>2007 A</td><td colspan="3">27 septembre</td><td>2007</td></tr>
-<tr><td colspan="2">Antigua-et-Barbuda</td><td>17 décembre</td><td>1999 A</td><td colspan="3">17 mars</td><td>2000</td></tr>
-<tr><td colspan="2">Arabie Saoudite</td><td>11 décembre</td><td>2003 A</td><td colspan="3">11 mars</td><td>2004</td></tr>
-<tr><td colspan="2">Argentine <sup>a</sup></td><td>8 juillet</td><td>1980 A</td><td colspan="3">8 octobre</td><td>1980</td></tr>
-<tr><td colspan="2">Arménie\*</td><td>17 mai</td><td>1994 S</td><td colspan="3">25 décembre</td><td>1991</td></tr>
-<tr><td colspan="2">Australie</td><td>10 mai</td><td>1972 A</td><td colspan="3">25 août</td><td>1972<sup>a</sup></td></tr>
-<tr><td colspan="2"></td><td>26 jun</td><td>1975</td><td colspan="3">27 septembre</td><td>1975<sup>b</sup></td></tr>
-<tr><td colspan="2">Autriche</td><td>11 mai</td><td>1973</td><td colspan="3">18 août</td><td>1973</td></tr>
-<tr><td colspan="2">Azerbaïdjan</td><td>25 septembre</td><td>1995 A</td><td colspan="3">25 décembre</td><td>1995</td></tr>
-<tr><td colspan="2">Bahamas <sup>a</sup></td><td>7 décembre</td><td>1976 A</td><td colspan="3">10 mars</td><td>1977</td></tr>
-<tr><td colspan="2">Bahreïn</td><td>29 juillet</td><td>1997 A</td><td colspan="3">29 octobre</td><td>1997</td></tr>
-<tr><td colspan="2">Bangladesh\*</td><td>29 novembre</td><td>1990 A</td><td colspan="3">3 mars</td><td>1991</td></tr>
-<tr><td colspan="2">Barbade</td><td>12 décembre</td><td>1984 A</td><td colspan="3">12 mars</td><td>1985</td></tr>
-<tr><td colspan="2">Bélarus\*</td><td>14 avril</td><td>1993 S</td><td colspan="3">25 décembre</td><td>1991</td></tr>
-<tr><td colspan="2">Belgique</td><td>31 octobre</td><td>1974</td><td colspan="3">12 février</td><td>1975</td></tr>
-<tr><td colspan="2">Belize</td><td>17 mars</td><td>2000 A</td><td colspan="3">17 juin</td><td>2000</td></tr>
-<tr><td colspan="2">Bénin</td><td>9 décembre</td><td>1974 A</td><td colspan="3">12 mars</td><td>1975</td></tr>
-<tr><td colspan="2">Bhoutan</td><td>4 mai</td><td>2000 A</td><td colspan="3">4 août</td><td>2000</td></tr>
-<tr><td colspan="2">Bolivie</td><td>4 août</td><td>1993 A</td><td colspan="3">4 novembre</td><td>1993</td></tr>
-<tr><td colspan="2">Bosnie et Herzégovine</td><td>2 juin</td><td>1993 S</td><td colspan="3">6 mars</td><td>1992</td></tr>
-<tr><td colspan="2">Botswana</td><td>15 janvier</td><td>1998 A</td><td colspan="3">15 avril</td><td>1998</td></tr>
-<tr><td colspan="2">Brésil\*</td><td>20 décembre</td><td>1974</td><td colspan="3">24 mars</td><td>1975<sup>a</sup></td></tr>
-<tr><td colspan="2"></td><td>24 août</td><td>1992</td><td colspan="3">24 novembre</td><td>1992<sup>b</sup></td></tr>
-<tr><td colspan="2">Brunéi</td><td>17 novembre</td><td>2011 A</td><td colspan="3">17 février</td><td>2012</td></tr>
-<tr><td colspan="2">Bulgarie <sup>c</sup></td><td>19 février</td><td>1970</td><td colspan="3">27 mai</td><td>1970</td></tr>
-<tr><td colspan="2">Burkina Faso</td><td>23 mai</td><td>1975 A</td><td colspan="3">2 septembre</td><td>1975</td></tr>
-<tr><td colspan="2">Burundi</td><td>31 mai</td><td>1977 A</td><td colspan="3">3 septembre</td><td>1977</td></tr>
-<tr><td colspan="2">Cambodge</td><td>22 juin</td><td>1998 A</td><td colspan="3">22 septembre</td><td>1998</td></tr>
-<tr><td colspan="2">Cameroun</td><td>17 janvier</td><td>1975</td><td colspan="3">20 avril</td><td>1975</td></tr>
-<tr><td colspan="2">Canada</td><td>26 mars</td><td>1970 A</td><td colspan="3">7 juillet</td><td>1970<sup>a</sup></td></tr>
-<tr><td colspan="2"></td><td>26 février</td><td>1996</td><td colspan="3">26 mai</td><td>1996<sup>b</sup></td></tr>
-<tr><td colspan="2">Chili</td><td>13 mars</td><td>1991 A</td><td colspan="3">14 juin</td><td>1991</td></tr>
-<tr><td colspan="2">Chine\*</td><td>19 décembre</td><td>1984 A</td><td colspan="3">19 mars</td><td>1985</td></tr>
-<tr><td colspan="2">Hong Kong <sup>d</sup></td><td>6 juin</td><td>1997</td><td colspan="3">1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td colspan="2">Macao <sup>e</sup></td><td>30 novembre</td><td>1999</td><td colspan="3">20 décembre</td><td>1999</td></tr>
-<tr><td colspan="2">Chypre</td><td>21 décembre</td><td>1983 A</td><td colspan="3">3 avril</td><td>1984</td></tr>
-<tr><td colspan="2">Colombie</td><td>3 juin</td><td>1996 A</td><td colspan="3">3 septembre</td><td>1996</td></tr>
-<tr><td colspan="2">Comores</td><td>3 janvier</td><td>2005 A</td><td colspan="3">5 avril</td><td>2005</td></tr>
-<tr><td colspan="2">Congo (Brazzaville)</td><td>2 septembre</td><td>1975 A</td><td colspan="3">5 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>28 octobre</td><td>1974 A</td><td colspan="3">31 janvier</td><td>1975</td></tr>
-<tr><td colspan="2">Corée (Nord)</td><td>7 mars</td><td>1980 A</td><td colspan="3">10 juin</td><td>1980</td></tr>
-<tr><td colspan="2">Corée (Sud)</td><td>1<sup>er</sup> février</td><td>1980 A</td><td colspan="3">4 mai</td><td>1980</td></tr>
-<tr><td colspan="2">Costa Rica</td><td>28 juillet</td><td>1995 A</td><td colspan="3">31 octobre</td><td>1995</td></tr>
-<tr><td colspan="2">Côte d’Ivoire</td><td>1<sup>er</sup> février</td><td>1974</td><td colspan="3">4 mai</td><td>1974</td></tr>
-<tr><td colspan="2">Croatie</td><td>28 juillet</td><td>1992 S</td><td colspan="3">8 octobre</td><td>1991</td></tr>
-<tr><td colspan="2">Cuba\*</td><td>27 décembre</td><td>1974</td><td colspan="3">8 avril</td><td>1975</td></tr>
-<tr><td colspan="2">Danemark <sup>c</sup></td><td>26 janvier</td><td>1970</td><td colspan="3">26 avril</td><td>1970</td></tr>
-<tr><td colspan="2">[tab] Iles Féroé</td><td>6 mai</td><td>1971</td><td colspan="3">6 août</td><td>1971</td></tr>
-<tr><td colspan="2">Djibouti</td><td>13 février</td><td>2002 A</td><td colspan="3">13 mai</td><td>2002</td></tr>
-<tr><td colspan="2">Dominique</td><td>7 mai</td><td>1999 A</td><td colspan="3">7 août</td><td>1999</td></tr>
-<tr><td colspan="2">Egypte\*</td><td>3 décembre</td><td>1974 A</td><td colspan="3">6 mars</td><td>1975</td></tr>
-<tr><td colspan="2">El Salvador</td><td>18 novembre</td><td>1993 A</td><td colspan="3">19 février</td><td>1994</td></tr>
-<tr><td colspan="2">Emirats arabes unis</td><td>19 juin</td><td>1996 A</td><td colspan="3">19 septembre</td><td>1996</td></tr>
-<tr><td colspan="2">Equateur\*</td><td>22 mars</td><td>1999 A</td><td colspan="3">22 juin</td><td>1999</td></tr>
-<tr><td colspan="2">Espagne</td><td>10 janvier</td><td>1972</td><td colspan="3">14 avril</td><td>1972</td></tr>
-<tr><td colspan="2">Estonie</td><td>24 mai</td><td>1994 A</td><td colspan="3">24 août</td><td>1994</td></tr>
-<tr><td colspan="2">Etats-Unis\*</td><td>25 mai</td><td>1970</td><td colspan="3">5 septembre</td><td>1970<sup>a</sup></td></tr>
-<tr><td colspan="2"></td><td>22 mai</td><td>1973</td><td colspan="3">25 août</td><td>1974<sup>b</sup></td></tr>
-<tr><td colspan="2">Finlande\*</td><td>8 juin</td><td>1970</td><td colspan="3">15 septembre</td><td>1970<sup>a</sup></td></tr>
-<tr><td colspan="2"></td><td>17. juillet</td><td>1975</td><td colspan="3">21 octobre</td><td>1975<sup>b</sup></td></tr>
-<tr><td colspan="2">France</td><td>2 mai</td><td>1975</td><td colspan="3">12 août</td><td>1975</td></tr>
-<tr><td colspan="2">Guadeloupe</td><td>2 mai</td><td>1975</td><td colspan="3">12 août</td><td>1975</td></tr>
-<tr><td colspan="2">Guyana (française)</td><td>2 mai</td><td>1975</td><td colspan="3">12 août</td><td>1975</td></tr>
-<tr><td colspan="2">Iles de Wallis-et-Futuna</td><td>2 mai</td><td>1975</td><td colspan="3">12 août</td><td>1975</td></tr>
-<tr><td colspan="2">Martinique</td><td>2 mai</td><td>1975</td><td colspan="3">12 août</td><td>1975</td></tr>
-<tr><td colspan="2">Nouvelle-Calédonie</td><td>2 mai</td><td>1975</td><td colspan="3">12 août</td><td>1975</td></tr>
-<tr><td colspan="2">Polynésie française</td><td>2 mai</td><td>1975</td><td colspan="3">12 août</td><td>1975</td></tr>
-<tr><td colspan="2">Réunion</td><td>2 mai</td><td>1975</td><td colspan="3">12 août</td><td>1975</td></tr>
-<tr><td colspan="2">Saint-Pierre-et-Miquelon</td><td>2 mai</td><td>1975</td><td colspan="3">12 août</td><td>1975</td></tr>
-<tr><td colspan="2">Terres australes et antarctiques françaises</td><td>2 mai</td><td>1975</td><td colspan="3">12 août</td><td>1975</td></tr>
-<tr><td colspan="2">Gabon</td><td>6 mars</td><td>1975</td><td colspan="3">10 juin</td><td>1975</td></tr>
-<tr><td colspan="2">Gambie</td><td>21 octobre</td><td>1991 A</td><td colspan="3">21 janvier</td><td>1992</td></tr>
-<tr><td colspan="2">Géorgie\*</td><td>18 janvier</td><td>1994 S</td><td colspan="3">25 décembre</td><td>1991</td></tr>
-<tr><td colspan="2">Ghana</td><td>28 juin</td><td>1976 A</td><td colspan="3">28 septembre</td><td>1976</td></tr>
-<tr><td colspan="2">Grèce</td><td>12 avril</td><td>1976</td><td colspan="3">15 juillet</td><td>1976</td></tr>
-<tr><td colspan="2">Grenade</td><td>22 juin</td><td>1998 A</td><td colspan="3">22 septembre</td><td>1998</td></tr>
-<tr><td colspan="2">Guatemala\*</td><td>18 mai</td><td>1998 A</td><td colspan="3">18 août</td><td>1998</td></tr>
-<tr><td colspan="2">Guinée</td><td>30 octobre</td><td>1981 A</td><td colspan="3">5 février</td><td>1982</td></tr>
-<tr><td colspan="2">Guinée équatoriale</td><td>26 mars</td><td>1997 A</td><td colspan="3">26 juin</td><td>1997</td></tr>
-<tr><td colspan="2">Guinée-Bissau</td><td>28 mars</td><td>1988 A</td><td colspan="3">28 juin</td><td>1988</td></tr>
-<tr><td colspan="2">Guyana</td><td>25 juillet</td><td>1994 A</td><td colspan="3">25 octobre</td><td>1994</td></tr>
-<tr><td colspan="2">Haïti</td><td>2 août</td><td>1983 A</td><td colspan="3">3 novembre</td><td>1983</td></tr>
-<tr><td colspan="2">Honduras</td><td>3 novembre</td><td>1993 A</td><td colspan="3">4 février</td><td>1994</td></tr>
-<tr><td colspan="2">Hongrie\* <sup>c</sup></td><td>18 décembre</td><td>1969</td><td colspan="3">26 avril</td><td>1970</td></tr>
-<tr><td colspan="2">Inde\*</td><td>7 septembre</td><td>1998 A</td><td colspan="3">7 décembre</td><td>1998</td></tr>
-<tr><td colspan="2">Indonésie\*</td><td>18 septembre</td><td>1979</td><td colspan="3">20 décembre</td><td>1979<sup>a</sup></td></tr>
-<tr><td colspan="2"></td><td>5 juin</td><td>1997</td><td colspan="3">5 septembre</td><td>1997<sup>b</sup></td></tr>
-<tr><td colspan="2">Iran\*</td><td>12 décembre</td><td>1998</td><td colspan="3">12 mars</td><td>1999</td></tr>
-<tr><td colspan="2">Iraq\*</td><td>21 octobre</td><td>1975 A</td><td colspan="3">24 janvier</td><td>1976</td></tr>
-<tr><td colspan="2">Irlande <sup>c</sup></td><td>27 mars</td><td>1968</td><td colspan="3">26 avril</td><td>1970</td></tr>
-<tr><td colspan="2">Islande</td><td>28 septembre</td><td>1984</td><td colspan="3">28 décembre</td><td>1984<sup>a</sup></td></tr>
-<tr><td colspan="2"></td><td>23 décembre</td><td>1994</td><td colspan="3">9 avril</td><td>1995<sup>b</sup></td></tr>
-<tr><td colspan="2">Israël <sup>c</sup></td><td>30 juillet</td><td>1969</td><td colspan="3">26 avril</td><td>1970</td></tr>
-<tr><td colspan="2">Italie</td><td>20 janvier</td><td>1977</td><td colspan="3">24 avril</td><td>1977</td></tr>
-<tr><td colspan="2">Jamaïque</td><td>24 septembre</td><td>1999 A</td><td colspan="3">24 décembre</td><td>1999</td></tr>
-<tr><td colspan="2">Japon</td><td>20 janvier</td><td>1975</td><td colspan="3">24 avril</td><td>1975<sup>a</sup></td></tr>
-<tr><td colspan="2"></td><td>20 juin</td><td>1975</td><td colspan="3">1 octobre</td><td>1975<sup>b</sup></td></tr>
-<tr><td colspan="2">Jordanie</td><td>12 avril</td><td>1972 A</td><td colspan="3">17 juillet</td><td>1972</td></tr>
-<tr><td colspan="2">Kazakhstan\*</td><td>16 février</td><td>1993 S</td><td colspan="3">25 décembre</td><td>1991</td></tr>
-<tr><td colspan="2">Kenya</td><td>5 juillet</td><td>1971</td><td colspan="3">26 octobre</td><td>1971</td></tr>
-<tr><td colspan="2">Kirghizistan\*</td><td>14 février</td><td>1994 S</td><td colspan="3">25 décembre</td><td>1991</td></tr>
-<tr><td colspan="2">Koweït</td><td>2 septembre</td><td>2014 A</td><td colspan="3">2 décembre</td><td>2014</td></tr>
-<tr><td colspan="2">Laos\*</td><td>8 juillet</td><td>1998 A</td><td colspan="3">8 octobre</td><td>1998</td></tr>
-<tr><td colspan="2">Lesotho\*</td><td>27 juin</td><td>1989 A</td><td colspan="3">28 septembre</td><td>1989</td></tr>
-<tr><td colspan="2">Lettonie</td><td>7 juin</td><td>1993 A</td><td colspan="3">7 septembre</td><td>1993</td></tr>
-<tr><td colspan="2">Liban\* <sup>a</sup></td><td>30 septembre</td><td>1986 A</td><td colspan="3">30 décembre</td><td>1986</td></tr>
-<tr><td colspan="2">Libéria</td><td>27 mai</td><td>1994 A</td><td colspan="3">27 août</td><td>1994</td></tr>
-<tr><td colspan="2">Libye\*</td><td>28 juin</td><td>1976 A</td><td colspan="3">28 septembre</td><td>1976</td></tr>
-<tr><td colspan="2">Liechtenstein</td><td>21 février</td><td>1972</td><td colspan="3">25 mai</td><td>1972</td></tr>
-<tr><td colspan="2">Lituanie</td><td>21 février</td><td>1994 A</td><td colspan="3">22 mai</td><td>1994</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>19 décembre</td><td>1974</td><td colspan="3">24 mars</td><td>1975</td></tr>
-<tr><td colspan="2">Macédoine</td><td>23 juillet</td><td>1993 S</td><td colspan="3">8 septembre</td><td>1991</td></tr>
-<tr><td colspan="2">Madagascar</td><td>3 janvier</td><td>1972</td><td colspan="3">10 avril</td><td>1972</td></tr>
-<tr><td colspan="2">Malaisie</td><td>23 juin</td><td>1988 A</td><td colspan="3">1<sup>er</sup> janvier</td><td>1989</td></tr>
-<tr><td colspan="2">Malawi</td><td>11 mars</td><td>1970 A</td><td colspan="3">25 juin</td><td>1970</td></tr>
-<tr><td colspan="2">Mali</td><td>14 octobre</td><td>1982 A</td><td colspan="3">1<sup>er</sup> mars</td><td>1983</td></tr>
-<tr><td colspan="2">Malte\* <sup>a</sup></td><td>7 septembre</td><td>1977 A</td><td colspan="3">12 décembre</td><td>1977</td></tr>
-<tr><td colspan="2">Maroc</td><td>27 avril</td><td>1971</td><td colspan="3">6 août</td><td>1971</td></tr>
-<tr><td colspan="2">Maurice</td><td>21 juin</td><td>1976 A</td><td colspan="3">24 septembre</td><td>1976</td></tr>
-<tr><td colspan="2">Mauritanie</td><td>17 juin</td><td>1976 A</td><td colspan="3">21 septembre</td><td>1976</td></tr>
-<tr><td colspan="2">Mexique</td><td>21 avril</td><td>1976 A</td><td colspan="3">26 juillet</td><td>1976</td></tr>
-<tr><td colspan="2">Moldova\*</td><td>3 juin</td><td>1993 S</td><td colspan="3">25 décembre</td><td>1991</td></tr>
-<tr><td colspan="2">Monaco</td><td>27 juin</td><td>1975</td><td colspan="3">4 octobre</td><td>1975</td></tr>
-<tr><td colspan="2">Mongolie\*</td><td>16 janvier</td><td>1985 A</td><td colspan="3">21 avril</td><td>1985</td></tr>
-<tr><td colspan="2">Monténégro</td><td>4 décembre</td><td>2006 S</td><td colspan="3">3 juin</td><td>2006</td></tr>
-<tr><td colspan="2">Mozambique</td><td>9 avril</td><td>1998 A</td><td colspan="3">9 juillet</td><td>1998</td></tr>
-<tr><td colspan="2">Namibie</td><td>29 décembre</td><td>2003 A</td><td colspan="3">1<sup>er</sup> janvier</td><td>2004</td></tr>
-<tr><td colspan="2">Népal</td><td>22 mars</td><td>2001 A</td><td colspan="3">22 juin</td><td>2001</td></tr>
-<tr><td colspan="2">Nicaragua\*</td><td>3 avril</td><td>1996 A</td><td colspan="3">3 juillet</td><td>1996</td></tr>
-<tr><td colspan="2">Niger</td><td>6 décembre</td><td>1974</td><td colspan="3">6 mars</td><td>1975</td></tr>
-<tr><td colspan="2">Norvège</td><td>8 mars</td><td>1974</td><td colspan="3">13 juin</td><td>1974</td></tr>
-<tr><td colspan="2">Nouvelle-Zélande <sup>a</sup></td><td>14 mars</td><td>1984 A</td><td colspan="3">20 juin</td><td>1984</td></tr>
-<tr><td colspan="2">Iles Cook <sup>a</sup></td><td>14 mars</td><td>1984 A</td><td colspan="3">20 juin</td><td>1984</td></tr>
-<tr><td colspan="2">Nioué <sup>a</sup></td><td>14 mars</td><td>1984 A</td><td colspan="3">20 juin</td><td>1984</td></tr>
-<tr><td colspan="2">Tokelau <sup>a</sup></td><td>14 mars</td><td>1984 A</td><td colspan="3">20 juin</td><td>1984</td></tr>
-<tr><td colspan="2">Oman\*</td><td>14 avril</td><td>1999 A</td><td colspan="3">14 juillet</td><td>1999</td></tr>
-<tr><td colspan="2">Ouganda</td><td>18 juillet</td><td>1973 A</td><td colspan="3">20 octobre</td><td>1973</td></tr>
-<tr><td colspan="2">Ouzbékistan\*</td><td>18 août</td><td>1993 S</td><td colspan="3">25 décembre</td><td>1991</td></tr>
-<tr><td colspan="2">Pakistan</td><td>22 avril</td><td>2004 A</td><td colspan="3">22 juillet</td><td>2004</td></tr>
-<tr><td colspan="2">Panama</td><td>19 juillet</td><td>1996 A</td><td colspan="3">19 octobre</td><td>1996</td></tr>
-<tr><td colspan="2">Papouasie-Nouvelle-Guinée</td><td>15 mars</td><td>1999 A</td><td colspan="3">15 juin</td><td>1999</td></tr>
-<tr><td colspan="2">Paraguay</td><td>25 février</td><td>1994 A</td><td colspan="3">28 mai</td><td>1994</td></tr>
-<tr><td colspan="2">Pays-Bas</td><td>9 octobre</td><td>1974</td><td colspan="3">10 janvier</td><td>1975</td></tr>
-<tr><td colspan="2">Aruba</td><td>9 octobre</td><td>1974</td><td colspan="3">10 janvier</td><td>1975</td></tr>
-<tr><td colspan="2">Curaçao</td><td>9 octobre</td><td>1974</td><td colspan="3">10 janvier</td><td>1975</td></tr>
-<tr><td colspan="2">Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>9 octobre</td><td>1974</td><td colspan="3">10 janvier</td><td>1975</td></tr>
-<tr><td colspan="2">Sint Maarten</td><td>9 octobre</td><td>1974</td><td colspan="3">10 janvier</td><td>1975</td></tr>
-<tr><td colspan="2">Pérou</td><td>11 juillet</td><td>1995 A</td><td colspan="3">11 avril</td><td>1995</td></tr>
-<tr><td colspan="2">Philippines <sup>a</sup></td><td>14 avril</td><td>1980</td><td colspan="3">16 juillet</td><td>1980</td></tr>
-<tr><td colspan="2">Pologne</td><td>23 décembre</td><td>1974</td><td colspan="3">24 mars</td><td>1975</td></tr>
-<tr><td colspan="2">Portugal</td><td>27 janvier</td><td>1975</td><td colspan="3">30 avril</td><td>1975</td></tr>
-<tr><td colspan="2">Qatar</td><td>5 avril</td><td>2000 A</td><td colspan="3">5 juillet</td><td>2000</td></tr>
-<tr><td colspan="2">République centrafricaine</td><td>23 mai</td><td>1978</td><td colspan="3">5 septembre</td><td>1978</td></tr>
-<tr><td colspan="2">République tchèque</td><td>18 décembre</td><td>1992 S</td><td colspan="3">1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Roumanie\* <sup>c</sup></td><td>28 février</td><td>1969</td><td colspan="3">26 avril</td><td>1970</td></tr>
-<tr><td colspan="2">Royaume-Uni <sup>c</sup></td><td>26 février</td><td>1969</td><td colspan="3">26 avril</td><td>1970</td></tr>
-<tr><td colspan="2">Ile de Man</td><td>27 juillet</td><td>1983</td><td colspan="3">29 octobre</td><td>1983</td></tr>
-<tr><td colspan="2">Russie\* <sup>c</sup></td><td>4 décembre</td><td>1968</td><td colspan="3">26 avril</td><td>1970</td></tr>
-<tr><td colspan="2">Rwanda</td><td>3 novembre</td><td>1983 A</td><td colspan="3">1<sup>er</sup> mars</td><td>1984</td></tr>
-<tr><td colspan="2">Sainte-Lucie\*</td><td>9 mars</td><td>1995 A</td><td colspan="3">9 juin</td><td>1995</td></tr>
-<tr><td colspan="2">Saint-Kitts-et-Nevis</td><td>3 janvier</td><td>1995 A</td><td colspan="3">9 avril</td><td>1995</td></tr>
-<tr><td colspan="2">Saint-Marin</td><td>26 mars</td><td>1991 A</td><td colspan="3">26 juin</td><td>1991</td></tr>
-<tr><td colspan="2">Saint-Siège</td><td>20 janvier</td><td>1975</td><td colspan="3">24 avril</td><td>1975</td></tr>
-<tr><td colspan="2">Saint-Vincent-et-les Grenadines</td><td>29 mai</td><td>1995 A</td><td colspan="3">29 août</td><td>1995</td></tr>
-<tr><td colspan="2">Samoa</td><td>21 juin</td><td>2013 A</td><td colspan="3">21 septembre</td><td>2013</td></tr>
-<tr><td colspan="2">Sao Tomé-et-Principe</td><td>12 février</td><td>1998 A</td><td colspan="3">12 mai</td><td>1998</td></tr>
-<tr><td>Sénégal <sup>c</sup></td><td>19 septembre</td><td colspan="2">1968</td><td colspan="2">26 avril</td><td>1970</td></tr>
-<tr><td>Serbie</td><td>14 juin</td><td colspan="2">2001 S</td><td colspan="2">27 avril</td><td>1992</td></tr>
-<tr><td>Seychelles</td><td>7 août</td><td colspan="2">2002 A</td><td colspan="2">7 novembre</td><td>2002</td></tr>
-<tr><td colspan="2">Sierra Leone</td><td>17 mars</td><td colspan="3">1997 A</td><td>17 juin</td><td>1997</td></tr>
-<tr><td colspan="2">Singapour</td><td>23 novembre</td><td colspan="3">1994 A</td><td>23 février</td><td>1995</td></tr>
-<tr><td colspan="2">Slovaquie</td><td>30 décembre</td><td colspan="3">1992 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td>Slovénie</td><td>12 juin</td><td colspan="2">1992 S</td><td colspan="2">25 juin</td><td>1991</td></tr>
-<tr><td colspan="2">Soudan</td><td>16 janvier</td><td colspan="3">1984 A</td><td>16 avril</td><td>1984</td></tr>
-<tr><td colspan="2">Sri Lanka <sup>a</sup></td><td>20 juin</td><td colspan="3">1978 A</td><td>23 septembre</td><td>1978</td></tr>
-<tr><td colspan="2">Suède</td><td>12 août</td><td colspan="3">1969</td><td>26 avril</td><td>1970<sup>a</sup></td></tr>
-<tr><td colspan="2"></td><td>7 juillet</td><td colspan="3">1970</td><td>9 octobre</td><td>1970<sup>b</sup></td></tr>
-<tr><td colspan="2">Suisse <sup>c</sup></td><td>26 janvier</td><td colspan="3">1970</td><td>26 avril</td><td>1970</td></tr>
-<tr><td colspan="2">Suriname</td><td>16 novembre</td><td colspan="3">1976 S</td><td>25 novembre</td><td>1975</td></tr>
-<tr><td colspan="2">Swaziland</td><td>12 février</td><td colspan="3">1991 A</td><td>12 mai</td><td>1991</td></tr>
-<tr><td>Syrie</td><td>13 septembre</td><td colspan="2">2002 A</td><td colspan="2">13 décembre</td><td>2002</td></tr>
-<tr><td colspan="2">Tadjikistan\*</td><td>14 février</td><td colspan="3">1994 S</td><td>25 décembre</td><td>1991</td></tr>
-<tr><td colspan="2">Tanzanie <sup>a</sup></td><td>30 septembre</td><td colspan="3">1983 A</td><td>30 décembre</td><td>1983</td></tr>
-<tr><td colspan="2">Tchad</td><td>26 juin</td><td colspan="3">1970 A</td><td>26 septembre</td><td>1970</td></tr>
-<tr><td colspan="2">Thaïlande\*</td><td>2 mai</td><td colspan="3">2008 A</td><td>2 août</td><td>2008</td></tr>
-<tr><td colspan="2">Togo</td><td>28 janvier</td><td colspan="3">1975 A</td><td>30 avril</td><td>1975</td></tr>
-<tr><td colspan="2">Tonga</td><td>14 mars</td><td colspan="3">2001 A</td><td>14 juin</td><td>2001</td></tr>
-<tr><td colspan="2">Trinité-et-Tobago</td><td>16 mai</td><td colspan="3">1988 A</td><td>16 août</td><td>1988</td></tr>
-<tr><td colspan="2">Tunisie\*</td><td>7 janvier</td><td colspan="3">1976</td><td>12 avril</td><td>1976</td></tr>
-<tr><td colspan="2">Turkménistan\*</td><td>1<sup>er</sup> mars</td><td colspan="3">1995 S</td><td>25 décembre</td><td>1991</td></tr>
-<tr><td colspan="2">Turquie</td><td>12 février</td><td colspan="3">1976 A</td><td>16 mai</td><td>1976<sup>a</sup></td></tr>
-<tr><td colspan="2"></td><td>1 novembre</td><td colspan="3">1994</td><td>1 février</td><td>1995<sup>b</sup></td></tr>
-<tr><td colspan="2">Ukraine\*</td><td>21 septembre</td><td colspan="3">1992 S</td><td>25 décembre</td><td>1991</td></tr>
-<tr><td colspan="2">Uruguay</td><td>21 septembre</td><td colspan="3">1979 A</td><td>28 décembre</td><td>1979</td></tr>
-<tr><td colspan="2">Venezuela</td><td>9 juin</td><td colspan="3">1995 A</td><td>12 septembre</td><td>1995</td></tr>
-<tr><td colspan="2">Vietnam\* <sup>f</sup></td><td>7 avril</td><td colspan="3">1981</td><td>2 juillet</td><td>1976</td></tr>
-<tr><td colspan="2">Yémen\*</td><td>15 novembre</td><td colspan="3">2006 A</td><td>15 février</td><td>2007</td></tr>
-<tr><td colspan="2">Zambie <sup>a</sup></td><td>14 février</td><td colspan="3">1977 A</td><td>14 mai</td><td>1977</td></tr>
-<tr><td colspan="2">Zimbabwe</td><td>29 septembre</td><td colspan="3">1981 A</td><td>30 décembre</td><td>1981</td></tr>
-<tr><td colspan="8">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: www.wipo.int/treaties/fr ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="8"><sup>a</sup> Ratification des art. 13 à 30.</td></tr>
-<tr><td colspan="8"><sup>b</sup> Ratification des art. 1 à 12.</td></tr>
-<tr><td colspan="8"><sup>c</sup> En application de l’art. 20.2)a) de la convention, les art. 1 à 12 sont entrés en vigueur pour cet Etat, soit le 26 avril 1970 (trois mois après le dépôt du dixième instrument de ratification ou d’adhésion, soit le 19 mai 1970 (trois mois après le dépôt du onzième instrument de ratification ou d’adhésion), selon qu'il admet ou non la validité de l’adhésion de la République démocratique allemande qu'il avait contestée à l’époque. Les art. 1 à 13 de la convention sont entrés en vigueur pour cet Etat le 26 avril 1970.</td></tr>
-<tr><td colspan="8"><sup>d</sup> Du 16 nov. 1977 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td colspan="8"><sup>e</sup> En vertu d’une déclaration de la République populaire de Chine du 30 nov. 1999, la Convention est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999.</td></tr>
-<tr><td colspan="8"><sup>f</sup> Déclaration d’application.</td></tr>
+<tr><th>États parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan</td><td colspan="2">14 février</td><td>2017 A</td><td>14 mai</td><td>2017</td></tr>
+<tr><td>Afrique du Sud\*</td><td colspan="2">23 décembre</td><td>1974</td><td>24 mars</td><td>1975</td></tr>
+<tr><td>Albanie</td><td colspan="2">4 juillet</td><td>1995 A</td><td>4 octobre</td><td>1995</td></tr>
+<tr><td>Algérie\*</td><td colspan="2">16 janvier</td><td>1975</td><td>20 avril</td><td>1975</td></tr>
+<tr><td>Allemagne</td><td colspan="2">19 juin</td><td>1970</td><td>19 septembre</td><td>1970</td></tr>
+<tr><td>Andorre</td><td colspan="2">2 mars</td><td>2004 A</td><td>2 juin</td><td>2004</td></tr>
+<tr><td>Angola</td><td colspan="2">27 septembre</td><td>2007 A</td><td>27 septembre</td><td>2007</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td colspan="2">17 décembre</td><td>1999 A</td><td>17 mars</td><td>2000</td></tr>
+<tr><td>Arabie Saoudite</td><td colspan="2">11 décembre</td><td>2003 A</td><td>11 mars</td><td>2004</td></tr>
+<tr><td>Argentine <sup>a</sup></td><td colspan="2">8 juillet</td><td>1980 A</td><td>8 octobre</td><td>1980</td></tr>
+<tr><td>Arménie\*</td><td colspan="2">17 mai</td><td>1994 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Australie</td><td colspan="2">10 mai</td><td>1972 A</td><td>25 août</td><td>1972<sup>a</sup></td></tr>
+<tr><td></td><td colspan="2">26 juin</td><td>1975</td><td>27 septembre</td><td>1975<sup>b</sup></td></tr>
+<tr><td>Autriche</td><td colspan="2">11 mai</td><td>1973</td><td>18 août</td><td>1973</td></tr>
+<tr><td>Azerbaïdjan</td><td colspan="2">25 septembre</td><td>1995 A</td><td>25 décembre</td><td>1995</td></tr>
+<tr><td>Bahamas <sup>a</sup></td><td colspan="2">7 décembre</td><td>1976 A</td><td>10 mars</td><td>1977</td></tr>
+<tr><td>Bahreïn</td><td colspan="2">29 juillet</td><td>1997 A</td><td>29 octobre</td><td>1997</td></tr>
+<tr><td>Bangladesh\*</td><td colspan="2">29 novembre</td><td>1990 A</td><td>3 mars</td><td>1991</td></tr>
+<tr><td>Barbade</td><td colspan="2">12 décembre</td><td>1984 A</td><td>12 mars</td><td>1985</td></tr>
+<tr><td>Bélarus\*</td><td colspan="2">14 avril</td><td>1993 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Belgique</td><td colspan="2">31 octobre</td><td>1974</td><td>12 février</td><td>1975</td></tr>
+<tr><td>Belize</td><td colspan="2">17 mars</td><td>2000 A</td><td>17 juin</td><td>2000</td></tr>
+<tr><td>Bénin</td><td colspan="2">9 décembre</td><td>1974 A</td><td>12 mars</td><td>1975</td></tr>
+<tr><td>Bhoutan</td><td colspan="2">4 mai</td><td>2000 A</td><td>4 août</td><td>2000</td></tr>
+<tr><td>Bolivie</td><td colspan="2">4 août</td><td>1993 A</td><td>4 novembre</td><td>1993</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td colspan="2">2 juin</td><td>1993 S</td><td>6 mars</td><td>1992</td></tr>
+<tr><td>Botswana</td><td colspan="2">15 janvier</td><td>1998 A</td><td>15 avril</td><td>1998</td></tr>
+<tr><td>Brésil\*</td><td colspan="2">20 décembre</td><td>1974</td><td>24 mars</td><td>1975<sup>a</sup></td></tr>
+<tr><td></td><td colspan="2">24 août</td><td>1992</td><td>24 novembre</td><td>1992<sup>b</sup></td></tr>
+<tr><td>Brunéi</td><td colspan="2">17 novembre</td><td>2011 A</td><td>17 février</td><td>2012</td></tr>
+<tr><td>Bulgarie <sup>c</sup></td><td colspan="2">19 février</td><td>1970</td><td>27 mai</td><td>1970</td></tr>
+<tr><td>Burkina Faso</td><td colspan="2">23 mai</td><td>1975 A</td><td>2 septembre</td><td>1975</td></tr>
+<tr><td>Burundi</td><td colspan="2">31 mai</td><td>1977 A</td><td>3 septembre</td><td>1977</td></tr>
+<tr><td>Cambodge</td><td colspan="2">22 juin</td><td>1998 A</td><td>22 septembre</td><td>1998</td></tr>
+<tr><td>Cameroun</td><td colspan="2">17 janvier</td><td>1975</td><td>20 avril</td><td>1975</td></tr>
+<tr><td>Canada</td><td colspan="2">26 mars</td><td>1970 A</td><td>7 juillet</td><td>1970<sup>a</sup></td></tr>
+<tr><td></td><td colspan="2">26 février</td><td>1996</td><td>26 mai</td><td>1996<sup>b</sup></td></tr>
+<tr><td>Chili</td><td colspan="2">13 mars</td><td>1991 A</td><td>14 juin</td><td>1991</td></tr>
+<tr><td>Chine\*</td><td colspan="2">19 décembre</td><td>1984 A</td><td>19 mars</td><td>1985</td></tr>
+<tr><td>Hong Kong <sup>d</sup></td><td colspan="2">6 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Macao <sup>e</sup></td><td colspan="2">30 novembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Chypre</td><td colspan="2">21 décembre</td><td>1983 A</td><td>3 avril</td><td>1984</td></tr>
+<tr><td>Colombie</td><td colspan="2">3 juin</td><td>1996 A</td><td>3 septembre</td><td>1996</td></tr>
+<tr><td>Comores</td><td colspan="2">3 janvier</td><td>2005 A</td><td>5 avril</td><td>2005</td></tr>
+<tr><td>Congo (Brazzaville)</td><td colspan="2">2 septembre</td><td>1975 A</td><td>5 décembre</td><td>1975</td></tr>
+<tr><td>Congo (Kinshasa)</td><td colspan="2">28 octobre</td><td>1974 A</td><td>31 janvier</td><td>1975</td></tr>
+<tr><td>Corée (Nord)</td><td colspan="2">7 mars</td><td>1980 A</td><td>10 juin</td><td>1980</td></tr>
+<tr><td>Corée (Sud)</td><td colspan="2">1<sup>er</sup> février</td><td>1980 A</td><td>4 mai</td><td>1980</td></tr>
+<tr><td>Costa Rica</td><td colspan="2">28 juillet</td><td>1995 A</td><td>31 octobre</td><td>1995</td></tr>
+<tr><td>Côte d’Ivoire</td><td colspan="2">1<sup>er</sup> février</td><td>1974</td><td>4 mai</td><td>1974</td></tr>
+<tr><td>Croatie</td><td colspan="2">28 juillet</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
+<tr><td>Cuba\*</td><td colspan="2">27 décembre</td><td>1974</td><td>8 avril</td><td>1975</td></tr>
+<tr><td>Danemark <sup>c</sup></td><td colspan="2">26 janvier</td><td>1970</td><td>26 avril</td><td>1970</td></tr>
+<tr><td>Îles Féroé</td><td colspan="2">6 mai</td><td>1971</td><td>6 août</td><td>1971</td></tr>
+<tr><td>Djibouti</td><td colspan="2">13 février</td><td>2002 A</td><td>13 mai</td><td>2002</td></tr>
+<tr><td>Dominique</td><td colspan="2">7 mai</td><td>1999 A</td><td>7 août</td><td>1999</td></tr>
+<tr><td>Égypte\*</td><td colspan="2">3 décembre</td><td>1974 A</td><td>6 mars</td><td>1975</td></tr>
+<tr><td>El Salvador</td><td colspan="2">18 novembre</td><td>1993 A</td><td>19 février</td><td>1994</td></tr>
+<tr><td>Émirats arabes unis</td><td colspan="2">19 juin</td><td>1996 A</td><td>19 septembre</td><td>1996</td></tr>
+<tr><td>Équateur\*</td><td colspan="2">22 mars</td><td>1999 A</td><td>22 juin</td><td>1999</td></tr>
+<tr><td>Espagne</td><td colspan="2">10 janvier</td><td>1972</td><td>14 avril</td><td>1972</td></tr>
+<tr><td>Estonie</td><td colspan="2">24 mai</td><td>1994 A</td><td>24 août</td><td>1994</td></tr>
+<tr><td>Eswatini</td><td colspan="2">12 février</td><td>1991 A</td><td>12 mai</td><td>1991</td></tr>
+<tr><td>États-Unis\*</td><td colspan="2">25 mai</td><td>1970</td><td>5 septembre</td><td>1970<sup>a</sup></td></tr>
+<tr><td></td><td colspan="2">22 mai</td><td>1973</td><td>25 août</td><td>1974<sup>b</sup></td></tr>
+<tr><td>Finlande\*</td><td colspan="2">8 juin</td><td>1970</td><td>15 septembre</td><td>1970<sup>a</sup></td></tr>
+<tr><td></td><td colspan="2">17 juillet</td><td>1975</td><td>21 octobre</td><td>1975<sup>b</sup></td></tr>
+<tr><td>France</td><td colspan="2">2 mai</td><td>1975</td><td>12 août</td><td>1975</td></tr>
+<tr><td>Guadeloupe</td><td colspan="2">2 mai</td><td>1975</td><td>12 août</td><td>1975</td></tr>
+<tr><td>Guyana (française)</td><td colspan="2">2 mai</td><td>1975</td><td>12 août</td><td>1975</td></tr>
+<tr><td>Îles de Wallis-et-Futuna</td><td colspan="2">2 mai</td><td>1975</td><td>12 août</td><td>1975</td></tr>
+<tr><td>Martinique</td><td colspan="2">2 mai</td><td>1975</td><td>12 août</td><td>1975</td></tr>
+<tr><td>Nouvelle-Calédonie</td><td colspan="2">2 mai</td><td>1975</td><td>12 août</td><td>1975</td></tr>
+<tr><td>Polynésie française</td><td colspan="2">2 mai</td><td>1975</td><td>12 août</td><td>1975</td></tr>
+<tr><td>Réunion</td><td colspan="2">2 mai</td><td>1975</td><td>12 août</td><td>1975</td></tr>
+<tr><td>Saint-Pierre-et-Miquelon</td><td colspan="2">2 mai</td><td>1975</td><td>12 août</td><td>1975</td></tr>
+<tr><td>Terres australes et antarctiques françaises</td><td colspan="2">2 mai</td><td>1975</td><td>12 août</td><td>1975</td></tr>
+<tr><td>Gabon</td><td colspan="2">6 mars</td><td>1975</td><td>10 juin</td><td>1975</td></tr>
+<tr><td>Gambie</td><td colspan="2">21 octobre</td><td>1991 A</td><td>21 janvier</td><td>1992</td></tr>
+<tr><td>Géorgie\*</td><td colspan="2">18 janvier</td><td>1994 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Ghana</td><td colspan="2">28 juin</td><td>1976 A</td><td>28 septembre</td><td>1976</td></tr>
+<tr><td>Grèce</td><td colspan="2">12 avril</td><td>1976</td><td>15 juillet</td><td>1976</td></tr>
+<tr><td>Grenade</td><td colspan="2">22 juin</td><td>1998 A</td><td>22 septembre</td><td>1998</td></tr>
+<tr><td>Guatemala\*</td><td colspan="2">18 mai</td><td>1998 A</td><td>18 août</td><td>1998</td></tr>
+<tr><td>Guinée</td><td colspan="2">30 octobre</td><td>1981 A</td><td>5 février</td><td>1982</td></tr>
+<tr><td>Guinée équatoriale</td><td colspan="2">26 mars</td><td>1997 A</td><td>26 juin</td><td>1997</td></tr>
+<tr><td>Guinée-Bissau</td><td colspan="2">28 mars</td><td>1988 A</td><td>28 juin</td><td>1988</td></tr>
+<tr><td>Guyana</td><td colspan="2">25 juillet</td><td>1994 A</td><td>25 octobre</td><td>1994</td></tr>
+<tr><td>Haïti</td><td colspan="2">2 août</td><td>1983 A</td><td>3 novembre</td><td>1983</td></tr>
+<tr><td>Honduras</td><td colspan="2">3 novembre</td><td>1993 A</td><td>4 février</td><td>1994</td></tr>
+<tr><td>Hongrie\* <sup>c</sup></td><td colspan="2">18 décembre</td><td>1969</td><td>26 avril</td><td>1970</td></tr>
+<tr><td>Inde\*</td><td colspan="2">7 septembre</td><td>1998 A</td><td>7 décembre</td><td>1998</td></tr>
+<tr><td>Indonésie\*</td><td colspan="2">18 septembre</td><td>1979</td><td>20 décembre</td><td>1979<sup>a</sup></td></tr>
+<tr><td></td><td colspan="2">5 juin</td><td>1997</td><td>5 septembre</td><td>1997<sup>b</sup></td></tr>
+<tr><td>Iran\*</td><td colspan="2">12 décembre</td><td>1998</td><td>12 mars</td><td>1999</td></tr>
+<tr><td>Iraq\*</td><td colspan="2">21 octobre</td><td>1975 A</td><td>24 janvier</td><td>1976</td></tr>
+<tr><td>Irlande <sup>c</sup></td><td colspan="2">27 mars</td><td>1968</td><td>26 avril</td><td>1970</td></tr>
+<tr><td>Islande</td><td colspan="2">28 septembre</td><td>1984</td><td>28 décembre</td><td>1984<sup>a</sup></td></tr>
+<tr><td></td><td colspan="2">23 décembre</td><td>1994</td><td>9 avril</td><td>1995<sup>b</sup></td></tr>
+<tr><td>Israël <sup>c</sup></td><td colspan="2">30 juillet</td><td>1969</td><td>26 avril</td><td>1970</td></tr>
+<tr><td>Italie</td><td colspan="2">20 janvier</td><td>1977</td><td>24 avril</td><td>1977</td></tr>
+<tr><td>Jamaïque</td><td colspan="2">24 septembre</td><td>1999 A</td><td>24 décembre</td><td>1999</td></tr>
+<tr><td>Japon</td><td colspan="2">20 janvier</td><td>1975</td><td>24 avril</td><td>1975<sup>a</sup></td></tr>
+<tr><td></td><td colspan="2">20 juin</td><td>1975</td><td>1 octobre</td><td>1975<sup>b</sup></td></tr>
+<tr><td>Jordanie</td><td colspan="2">12 avril</td><td>1972 A</td><td>17 juillet</td><td>1972</td></tr>
+<tr><td>Kazakhstan\*</td><td colspan="2">16 février</td><td>1993 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Kenya</td><td colspan="2">5 juillet</td><td>1971</td><td>26 octobre</td><td>1971</td></tr>
+<tr><td>Kirghizistan\*</td><td colspan="2">14 février</td><td>1994 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Koweït</td><td colspan="2">2 septembre</td><td>2014 A</td><td>2 décembre</td><td>2014</td></tr>
+<tr><td>Laos\*</td><td colspan="2">8 juillet</td><td>1998 A</td><td>8 octobre</td><td>1998</td></tr>
+<tr><td>Lesotho\*</td><td colspan="2">27 juin</td><td>1989 A</td><td>28 septembre</td><td>1989</td></tr>
+<tr><td>Lettonie</td><td colspan="2">7 juin</td><td>1993 A</td><td>7 septembre</td><td>1993</td></tr>
+<tr><td>Liban\* <sup>a</sup></td><td colspan="2">30 septembre</td><td>1986 A</td><td>30 décembre</td><td>1986</td></tr>
+<tr><td>Libéria</td><td colspan="2">27 mai</td><td>1994 A</td><td>27 août</td><td>1994</td></tr>
+<tr><td>Libye\*</td><td colspan="2">28 juin</td><td>1976 A</td><td>28 septembre</td><td>1976</td></tr>
+<tr><td>Liechtenstein</td><td colspan="2">21 février</td><td>1972</td><td>25 mai</td><td>1972</td></tr>
+<tr><td>Lituanie</td><td colspan="2">21 février</td><td>1994 A</td><td>22 mai</td><td>1994</td></tr>
+<tr><td>Luxembourg</td><td colspan="2">19 décembre</td><td>1974</td><td>24 mars</td><td>1975</td></tr>
+<tr><td>Macédoine du Nord</td><td colspan="2">23 juillet</td><td>1993 S</td><td>8 septembre</td><td>1991</td></tr>
+<tr><td>Madagascar</td><td colspan="2">3 janvier</td><td>1972</td><td>10 avril</td><td>1972</td></tr>
+<tr><td>Malaisie</td><td colspan="2">23 juin</td><td>1988 A</td><td>1<sup>er</sup> janvier</td><td>1989</td></tr>
+<tr><td>Malawi</td><td colspan="2">11 mars</td><td>1970 A</td><td>25 juin</td><td>1970</td></tr>
+<tr><td>Mali</td><td colspan="2">14 octobre</td><td>1982 A</td><td>1<sup>er</sup> mars</td><td>1983</td></tr>
+<tr><td>Malte\* <sup>a</sup></td><td colspan="2">7 septembre</td><td>1977 A</td><td>12 décembre</td><td>1977</td></tr>
+<tr><td>Maroc</td><td colspan="2">27 avril</td><td>1971</td><td>6 août</td><td>1971</td></tr>
+<tr><td>Maurice</td><td colspan="2">21 juin</td><td>1976 A</td><td>24 septembre</td><td>1976</td></tr>
+<tr><td>Mauritanie</td><td colspan="2">17 juin</td><td>1976 A</td><td>21 septembre</td><td>1976</td></tr>
+<tr><td>Mexique</td><td colspan="2">21 avril</td><td>1976 A</td><td>26 juillet</td><td>1976</td></tr>
+<tr><td>Moldova\*</td><td colspan="2">3 juin</td><td>1993 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Monaco</td><td colspan="2">27 juin</td><td>1975</td><td>4 octobre</td><td>1975</td></tr>
+<tr><td>Mongolie\*</td><td colspan="2">16 janvier</td><td>1985 A</td><td>21 avril</td><td>1985</td></tr>
+<tr><td>Monténégro</td><td colspan="2">4 décembre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
+<tr><td>Mozambique</td><td colspan="2">9 avril</td><td>1998 A</td><td>9 juillet</td><td>1998</td></tr>
+<tr><td>Namibie</td><td colspan="2">29 décembre</td><td>2003 A</td><td>1<sup>er</sup> janvier</td><td>2004</td></tr>
+<tr><td>Népal</td><td colspan="2">22 mars</td><td>2001 A</td><td>22 juin</td><td>2001</td></tr>
+<tr><td>Nicaragua\*</td><td colspan="2">3 avril</td><td>1996 A</td><td>3 juillet</td><td>1996</td></tr>
+<tr><td>Niger</td><td colspan="2">6 décembre</td><td>1974</td><td>6 mars</td><td>1975</td></tr>
+<tr><td>Norvège</td><td colspan="2">8 mars</td><td>1974</td><td>13 juin</td><td>1974</td></tr>
+<tr><td>Nouvelle-Zélande <sup>a b</sup></td><td colspan="2">14 mars</td><td>1984 A</td><td>20 juin</td><td>1984</td></tr>
+<tr><td>Îles Cook <sup>a</sup></td><td colspan="2">14 mars</td><td>1984 A</td><td>20 juin</td><td>1984</td></tr>
+<tr><td>Nioué <sup>a</sup></td><td colspan="2">14 mars</td><td>1984 A</td><td>20 juin</td><td>1984</td></tr>
+<tr><td>Tokelau <sup>a</sup></td><td colspan="2">14 mars</td><td>1984 A</td><td>20 juin</td><td>1984</td></tr>
+<tr><td>Oman\*</td><td colspan="2">14 avril</td><td>1999 A</td><td>14 juillet</td><td>1999</td></tr>
+<tr><td>Ouganda</td><td colspan="2">18 juillet</td><td>1973 A</td><td>20 octobre</td><td>1973</td></tr>
+<tr><td>Ouzbékistan\*</td><td colspan="2">18 août</td><td>1993 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Pakistan</td><td colspan="2">22 avril</td><td>2004 A</td><td>22 juillet</td><td>2004</td></tr>
+<tr><td>Panama</td><td colspan="2">19 juillet</td><td>1996 A</td><td>19 octobre</td><td>1996</td></tr>
+<tr><td>Papouasie-Nouvelle-Guinée</td><td colspan="2">15 mars</td><td>1999 A</td><td>15 juin</td><td>1999</td></tr>
+<tr><td>Paraguay</td><td colspan="2">25 février</td><td>1994 A</td><td>28 mai</td><td>1994</td></tr>
+<tr><td>Pays-Bas</td><td colspan="2">9 octobre</td><td>1974</td><td>10 janvier</td><td>1975</td></tr>
+<tr><td>Aruba</td><td colspan="2">9 octobre</td><td>1974</td><td>10 janvier</td><td>1975</td></tr>
+<tr><td>Curaçao</td><td colspan="2">9 octobre</td><td>1974</td><td>10 janvier</td><td>1975</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td colspan="2">9 octobre</td><td>1974</td><td>10 janvier</td><td>1975</td></tr>
+<tr><td>Sint Maarten</td><td colspan="2">9 octobre</td><td>1974</td><td>10 janvier</td><td>1975</td></tr>
+<tr><td>Pérou</td><td colspan="2">11 juillet</td><td>1995 A</td><td>11 avril</td><td>1995</td></tr>
+<tr><td>Philippines <sup>a</sup></td><td colspan="2">14 avril</td><td>1980</td><td>16 juillet</td><td>1980</td></tr>
+<tr><td>Pologne</td><td colspan="2">23 décembre</td><td>1974</td><td>24 mars</td><td>1975</td></tr>
+<tr><td>Portugal</td><td colspan="2">27 janvier</td><td>1975</td><td>30 avril</td><td>1975</td></tr>
+<tr><td>Qatar</td><td colspan="2">5 avril</td><td>2000 A</td><td>5 juillet</td><td>2000</td></tr>
+<tr><td>République centrafricaine</td><td colspan="2">23 mai</td><td>1978</td><td>5 septembre</td><td>1978</td></tr>
+<tr><td>République tchèque</td><td colspan="2">18 décembre</td><td>1992 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Roumanie\* <sup>c</sup></td><td colspan="2">28 février</td><td>1969</td><td>26 avril</td><td>1970</td></tr>
+<tr><td>Royaume-Uni <sup>c</sup></td><td colspan="2">26 février</td><td>1969</td><td>26 avril</td><td>1970</td></tr>
+<tr><td>Gibraltar</td><td colspan="2">1<sup>er</sup> octobre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
+<tr><td>Guernesey</td><td colspan="2">13 août</td><td>2020</td><td>13 novembre</td><td>2020</td></tr>
+<tr><td>Île de Man</td><td colspan="2">27 juillet</td><td>1983</td><td>29 octobre</td><td>1983</td></tr>
+<tr><td colspan="2">Jersey</td><td>13 août</td><td>2020</td><td>13 novembre</td><td>2020</td></tr>
+<tr><td>Russie\* <sup>c</sup></td><td colspan="2">4 décembre</td><td>1968</td><td>26 avril</td><td>1970</td></tr>
+<tr><td>Rwanda</td><td colspan="2">3 novembre</td><td>1983 A</td><td>1<sup>er</sup> mars</td><td>1984</td></tr>
+<tr><td>Sainte-Lucie\*</td><td colspan="2">9 mars</td><td>1995 A</td><td>9 juin</td><td>1995</td></tr>
+<tr><td>Saint-Kitts-et-Nevis</td><td colspan="2">3 janvier</td><td>1995 A</td><td>9 avril</td><td>1995</td></tr>
+<tr><td>Saint-Marin</td><td colspan="2">26 mars</td><td>1991 A</td><td>26 juin</td><td>1991</td></tr>
+<tr><td>Saint-Siège</td><td colspan="2">20 janvier</td><td>1975</td><td>24 avril</td><td>1975</td></tr>
+<tr><td>Saint-Vincent-et-les Grenadines</td><td colspan="2">29 mai</td><td>1995 A</td><td>29 août</td><td>1995</td></tr>
+<tr><td>Samoa</td><td colspan="2">21 juin</td><td>2013 A</td><td>21 septembre</td><td>2013</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td colspan="2">12 février</td><td>1998 A</td><td>12 mai</td><td>1998</td></tr>
+<tr><td>Sénégal <sup>c</sup></td><td colspan="2">19 septembre</td><td>1968</td><td>26 avril</td><td>1970</td></tr>
+<tr><td>Serbie</td><td colspan="2">14 juin</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
+<tr><td>Seychelles</td><td colspan="2">7 août</td><td>2002 A</td><td>7 novembre</td><td>2002</td></tr>
+<tr><td>Sierra Leone</td><td colspan="2">17 mars</td><td>1997 A</td><td>17 juin</td><td>1997</td></tr>
+<tr><td>Singapour</td><td colspan="2">23 novembre</td><td>1994 A</td><td>23 février</td><td>1995</td></tr>
+<tr><td>Slovaquie</td><td colspan="2">30 décembre</td><td>1992 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovénie</td><td colspan="2">12 juin</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
+<tr><td>Soudan</td><td colspan="2">16 janvier</td><td>1984 A</td><td>16 avril</td><td>1984</td></tr>
+<tr><td>Sri Lanka <sup>a</sup></td><td colspan="2">20 juin</td><td>1978 A</td><td>23 septembre</td><td>1978</td></tr>
+<tr><td>Suède</td><td colspan="2">12 août</td><td>1969</td><td>26 avril</td><td>1970<sup>a</sup></td></tr>
+<tr><td></td><td colspan="2">7 juillet</td><td>1970</td><td>9 octobre</td><td>1970<sup>b</sup></td></tr>
+<tr><td>Suisse <sup>c</sup></td><td colspan="2">26 janvier</td><td>1970</td><td>26 avril</td><td>1970</td></tr>
+<tr><td>Suriname</td><td colspan="2">16 novembre</td><td>1976 S</td><td>25 novembre</td><td>1975</td></tr>
+<tr><td>Syrie</td><td colspan="2">13 septembre</td><td>2002 A</td><td>13 décembre</td><td>2002</td></tr>
+<tr><td>Tadjikistan\*</td><td colspan="2">14 février</td><td>1994 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Tanzanie <sup>a</sup></td><td colspan="2">30 septembre</td><td>1983 A</td><td>30 décembre</td><td>1983</td></tr>
+<tr><td>Tchad</td><td colspan="2">26 juin</td><td>1970 A</td><td>26 septembre</td><td>1970</td></tr>
+<tr><td>Thaïlande\*</td><td colspan="2">2 mai</td><td>2008 A</td><td>2 août</td><td>2008</td></tr>
+<tr><td>Togo</td><td colspan="2">28 janvier</td><td>1975 A</td><td>30 avril</td><td>1975</td></tr>
+<tr><td>Tonga</td><td colspan="2">14 mars</td><td>2001 A</td><td>14 juin</td><td>2001</td></tr>
+<tr><td>Trinité-et-Tobago</td><td colspan="2">16 mai</td><td>1988 A</td><td>16 août</td><td>1988</td></tr>
+<tr><td>Tunisie\*</td><td colspan="2">7 janvier</td><td>1976</td><td>12 avril</td><td>1976</td></tr>
+<tr><td>Turkménistan\*</td><td colspan="2">1<sup>er</sup> mars</td><td>1995 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Turquie</td><td colspan="2">12 février</td><td>1976 A</td><td>16 mai</td><td>1976<sup>a</sup></td></tr>
+<tr><td></td><td colspan="2">1 novembre</td><td>1994</td><td>1 février</td><td>1995<sup>b</sup></td></tr>
+<tr><td>Ukraine\*</td><td colspan="2">21 septembre</td><td>1992 S</td><td>25 décembre</td><td>1991</td></tr>
+<tr><td>Uruguay</td><td colspan="2">21 septembre</td><td>1979 A</td><td>28 décembre</td><td>1979</td></tr>
+<tr><td>Venezuela</td><td colspan="2">9 juin</td><td>1995 A</td><td>12 septembre</td><td>1995</td></tr>
+<tr><td>Vietnam\* <sup>f</sup></td><td colspan="2">7 avril</td><td>1981</td><td>2 juillet</td><td>1976</td></tr>
+<tr><td>Yémen\*</td><td colspan="2">15 novembre</td><td>2006 A</td><td>15 février</td><td>2007</td></tr>
+<tr><td>Zambie <sup>a</sup></td><td colspan="2">14 février</td><td>1977 A</td><td>14 mai</td><td>1977</td></tr>
+<tr><td>Zimbabwe</td><td colspan="2">29 septembre</td><td>1981 A</td><td>30 décembre</td><td>1981</td></tr>
+<tr><td colspan="6">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): [www.wipo.int](http://www.wipo.int/) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Ratification des art. 13 à 30. <sup>b</sup> Ratification des art. 1 à 12. <sup>c</sup> En application de l’art. 20.2)a) de la convention, les art. 1 à 12 sont entrés en vigueur pour cet État, soit le 26 avril 1970 (trois mois après le dépôt du dixième instrument de ratification ou d’adhésion, soit le 19 mai 1970 (trois mois après le dépôt du onzième instrument de ratification ou d’adhésion), selon qu’il admet ou non la validité de l’adhésion de la République démocratique allemande qu’il avait contestée à l’époque. Les art. 1 à 13 de la convention sont entrés en vigueur pour cet Etat le 26 avril 1970. <sup>d</sup> Du 16 nov. 1977 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>e</sup> En vertu d’une déclaration de la République populaire de Chine du 30 nov. 1999, la Convention est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999. <sup>f</sup> Déclaration d’application.</td></tr>
 </table>
 
-[^t-3]: [RO 2003 2418](https://fedlex.data.admin.ch/eli/oc/2003/349), [2006 759](https://fedlex.data.admin.ch/eli/oc/2006/107), [2009 2535](https://fedlex.data.admin.ch/eli/oc/2009/321), [2014 887](https://fedlex.data.admin.ch/eli/oc/2014/191), [2017 3727](https://fedlex.data.admin.ch/eli/oc/2017/432). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 2003 2418](https://fedlex.data.admin.ch/eli/oc/2003/349); [2006 759](https://fedlex.data.admin.ch/eli/oc/2006/107); [2009 2535](https://fedlex.data.admin.ch/eli/oc/2009/321); [2014 887](https://fedlex.data.admin.ch/eli/oc/2014/191); [2017 3727](https://fedlex.data.admin.ch/eli/oc/2017/432); [2021 608](https://fedlex.data.admin.ch/eli/oc/2021/608). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).

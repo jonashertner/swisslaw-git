@@ -3,11 +3,11 @@ sr: "0.232.04"
 title: "Pariser Übereinkunft vom 20. März 1883 zum Schutz des gewerblichen Eigentums, revidiert in Stockholm am 14. Juli 1967"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/620_620_620"
 language: de
-version: 2017-07-04
+version: 2021-10-05
 adopted: 1967-07-14
 in_force: 1970-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/620_620_620/20170704/de/xml/fedlex-data-admin-ch-eli-cc-1970-620_620_620-20170704-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/620_620_620/20170704/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/620_620_620/20211005/de/xml/fedlex-data-admin-ch-eli-cc-1970-620_620_620-20211005-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/620_620_620/20211005/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1970/620_620_620/20170704/de"
 
 AS **1970** 620; BBl **1968** II 897
 
-Amtlicher deutscher Text*[^t-1]* gemäss Artikel 29 Absatz 1) Buchstabe b)
+Amtlicher deutscher Text[^t-1] gemäss Artikel 29 Absatz 1) Buchstabe b)
 
 Abgeschlossen in Stockholm am 14. Juli 1967 Von der Bundesversammlung genehmigt am 2. Dezember 1969[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 26. Januar 1970 In Kraft getreten für die Schweiz am 26. April 1970
 
-(Stand am 4. Juli 2017)
+(Stand am 5. Oktober 2021)
 
 [^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung. Die Artikel der Übereinkunft sind mit Überschriften versehen worden, um die Benützung des Textes zu erleichtern; der Originaltext enthält keine Artikelüberschriften.
 [^t-2]: Art. 1 Ziff. 2 des BB vom 2. Dez. 1969 ([AS 1970 600](https://fedlex.data.admin.ch/eli/oc/1970/600_601_601))
@@ -341,7 +341,7 @@ Der Handelsname wird in allen Verbandsländern, ohne Verpflichtung zur Hinterleg
 
 #### Art. 10<sup>ter</sup>
 
-**[*Marken, Handelsnamen, Herkunftsangaben, Schutz gegen unlauteren Wettbewerb:* Rechtsbehelfe – Klagerecht von Vereinigungen]**
+**[*Marken, Handelsnamen, Herkunftsangaben, Schutz gegen* *unlauteren Wettbewerb:* Rechtsbehelfe – Klagerecht von Vereinigungen]**
 
 \1) Um alle in den Artikeln 9, 10 und 10<sup>bis</sup> bezeichneten Handlungen wirksam zu unterdrücken, verpflichten sich die Verbandsländer, den Angehörigen der anderen Verbandsländer geeignete Rechtsbehelfe zu sichern.
 
@@ -438,7 +438,7 @@ Der Handelsname wird in allen Verbandsländern, ohne Verpflichtung zur Hinterleg
 - 6) a) Der Exekutivausschuss
   - i) bereitet den Entwurf der Tagesordnung der Versammlung vor;
   - ii) unterbreitet der Versammlung Vorschläge zu den vom Generaldirektor vorbereiteten Entwürfen des Programms und des Zweijahres-Haushaltsplans[^14-1] des Verbandes;
-  - iii)[^14-2] …
+  - iii)[^14-2] ...
   - iv) unterbreitet der Versammlung mit entsprechenden Bemerkungen die periodischen Berichte des Generaldirektors und die jährlichen Berichte über die Rechnungsprüfung;
   - v) trifft alle zweckdienlichen Massnahmen zur Durchführung des Programms des Verbandes durch den Generaldirektor in Übereinstimmung mit den Beschlüssen der Versammlung und unter Berücksichtigung der zwischen zwei ordentlichen Tagungen der Versammlung eintretenden Umstände;
   - vi) nimmt alle anderen Aufgaben wahr, die ihm im Rahmen dieser Übereinkunft übertragen werden.
@@ -691,7 +691,7 @@ Nach dem Inkrafttreten dieser Fassung der Übereinkunft in ihrer Gesamtheit kann
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten diese Fassung der Übereinkunft unterschrieben. Geschehen zu Stockholm am 14. Juli 1967. (Es folgen die Unterschriften)
 
-Geltungsbereich am 4. Juli 2017**[^t-3]**
+Geltungsbereich am 5. Oktober 2021[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -733,13 +733,14 @@ Geltungsbereich am 4. Juli 2017**[^t-3]**
 <tr><td>Costa Rica</td><td>28. Juli</td><td>1995 B</td><td>31. Oktober</td><td colspan="2">1995</td></tr>
 <tr><td>Côte d’Ivoire</td><td>1. Februar</td><td>1974</td><td>4. Mai</td><td colspan="2">1974</td></tr>
 <tr><td>Dänemark <sup>c</sup></td><td>26. Januar</td><td>1970</td><td>26. April</td><td colspan="2">1970</td></tr>
-<tr><td>[tab] Färöer</td><td>6. Mai</td><td>1971</td><td>6. August</td><td colspan="2">1971</td></tr>
+<tr><td>Färöer</td><td>6. Mai</td><td>1971</td><td>6. August</td><td colspan="2">1971</td></tr>
 <tr><td>Deutschland</td><td>19. Juni</td><td>1970</td><td>19. September</td><td colspan="2">1970</td></tr>
 <tr><td>Dominica</td><td>7. Mai</td><td>1999 B</td><td>7. August</td><td colspan="2">1999</td></tr>
 <tr><td>Dschibuti</td><td>13. Februar</td><td>2002 B</td><td>13. Mai</td><td colspan="2">2002</td></tr>
 <tr><td>Ecuador\*</td><td>22. März</td><td>1999 B</td><td>22. Juni</td><td colspan="2">1999</td></tr>
 <tr><td>El Salvador</td><td>18. November</td><td>1993 B</td><td>19. Februar</td><td colspan="2">1994</td></tr>
 <tr><td>Estland</td><td>24. Mai</td><td>1994 B</td><td>24. August</td><td colspan="2">1994</td></tr>
+<tr><td>Eswatini</td><td>12. Februar</td><td>1991 B</td><td>12. Mai</td><td colspan="2">1991</td></tr>
 <tr><td>Finnland</td><td>8. Juni</td><td>1970</td><td>15. September</td><td colspan="2">1970<sup>a</sup></td></tr>
 <tr><td></td><td>17. Juli</td><td>1975</td><td>21. Oktober</td><td colspan="2">1975<sup>b</sup></td></tr>
 <tr><td>Frankreich</td><td>2. Mai</td><td>1975</td><td>12. August</td><td colspan="2">1975</td></tr>
@@ -814,7 +815,6 @@ Geltungsbereich am 4. Juli 2017**[^t-3]**
 <tr><td>Marokko</td><td>27. April</td><td>1971</td><td>6. August</td><td colspan="2">1971</td></tr>
 <tr><td>Mauretanien</td><td>17. Juni</td><td>1976 B</td><td>21. September</td><td colspan="2">1976</td></tr>
 <tr><td>Mauritius</td><td>21. Juni</td><td>1976 B</td><td>24. September</td><td colspan="2">1976</td></tr>
-<tr><td>Mazedonien</td><td>23. Juli</td><td>1993 N</td><td>8. September</td><td colspan="2">1991</td></tr>
 <tr><td>Mexiko</td><td>21. April</td><td>1976 B</td><td>26. Juli</td><td colspan="2">1976</td></tr>
 <tr><td>Moldau\*</td><td>3. Juni</td><td>1993 N</td><td>25. Dezember</td><td colspan="2">1991</td></tr>
 <tr><td>Monaco</td><td>27. Juni</td><td>1975</td><td>4. Oktober</td><td colspan="2">1975</td></tr>
@@ -823,7 +823,7 @@ Geltungsbereich am 4. Juli 2017**[^t-3]**
 <tr><td>Mosambik</td><td>9. April</td><td>1998 B</td><td>9. Juli</td><td colspan="2">1998</td></tr>
 <tr><td>Namibia</td><td>29. Dezember</td><td>2003 B</td><td>1. Januar</td><td colspan="2">2004</td></tr>
 <tr><td>Nepal</td><td>22. März</td><td>2001 B</td><td>22. Juni</td><td colspan="2">2001</td></tr>
-<tr><td>Neuseeland <sup>a</sup></td><td>14. März</td><td>1984 B</td><td>20. Juni</td><td colspan="2">1984</td></tr>
+<tr><td>Neuseeland <sup>a</sup> <sup>b</sup></td><td>14. März</td><td>1984 B</td><td>20. Juni</td><td colspan="2">1984</td></tr>
 <tr><td>Cook-Inseln <sup>a</sup></td><td>14. März</td><td>1984 B</td><td>20. Juni</td><td colspan="2">1984</td></tr>
 <tr><td>Niue <sup>a</sup></td><td>14. März</td><td>1984 B</td><td>20. Juni</td><td colspan="2">1984</td></tr>
 <tr><td>Tokelau <sup>a</sup></td><td>14. März</td><td>1984 B</td><td>20. Juni</td><td colspan="2">1984</td></tr>
@@ -834,6 +834,7 @@ Geltungsbereich am 4. Juli 2017**[^t-3]**
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>9. Oktober</td><td>1974</td><td>10. Januar</td><td colspan="2">1975</td></tr>
 <tr><td>Sint Maarten</td><td>9. Oktober</td><td>1974</td><td>10. Januar</td><td colspan="2">1975</td></tr>
 <tr><td>Niger</td><td>6. Dezember</td><td>1974</td><td>6. März</td><td colspan="2">1975</td></tr>
+<tr><td>Nordmazedonien</td><td>23. Juli</td><td>1993 N</td><td>8. September</td><td colspan="2">1991</td></tr>
 <tr><td>Norwegen</td><td>8. März</td><td>1974</td><td>13. Juni</td><td colspan="2">1974</td></tr>
 <tr><td>Oman\*</td><td>14. April</td><td>1999 B</td><td>14. Juli</td><td colspan="2">1999</td></tr>
 <tr><td>Österreich</td><td>11. Mai</td><td>1973</td><td>18. August</td><td colspan="2">1973</td></tr>
@@ -873,7 +874,6 @@ Geltungsbereich am 4. Juli 2017**[^t-3]**
 <tr><td>Sudan</td><td>16. Januar</td><td>1984 B</td><td>16. April</td><td colspan="2">1984</td></tr>
 <tr><td>Suriname</td><td>16. November</td><td>1976 N</td><td>25. November</td><td colspan="2">1975</td></tr>
 <tr><td>Syrien</td><td>13. September</td><td>2002 B</td><td>13. Dezember</td><td colspan="2">2002</td></tr>
-<tr><td>Swasiland</td><td>12. Februar</td><td>1991 B</td><td>12. Mai</td><td colspan="2">1991</td></tr>
 <tr><td>Tadschikistan\*</td><td>14. Februar</td><td>1994 N</td><td>25. Dezember</td><td colspan="2">1991</td></tr>
 <tr><td>Tansania <sup>a</sup></td><td>30. September</td><td>1983 B</td><td>30. Dezember</td><td colspan="2">1983</td></tr>
 <tr><td>Thailand\*</td><td>2. Mai</td><td>2008 B</td><td>2. August</td><td colspan="2">2008</td></tr>
@@ -896,17 +896,14 @@ Geltungsbereich am 4. Juli 2017**[^t-3]**
 <tr><td>Vereinigte Staaten\*</td><td>25. Mai</td><td>1970</td><td>5. September</td><td colspan="2">1970<sup>a</sup></td></tr>
 <tr><td></td><td>22. Mai</td><td>1973</td><td>25. August</td><td colspan="2">1974<sup>b</sup></td></tr>
 <tr><td>Vereinigtes Königreich <sup>c</sup></td><td>26. Februar</td><td>1969</td><td>26. April</td><td colspan="2">1970</td></tr>
+<tr><td>Gibraltar</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td colspan="2">2021</td></tr>
+<tr><td>Guernsey</td><td>13. August</td><td>2020</td><td>13. November</td><td colspan="2">2020</td></tr>
 <tr><td>Insel Man</td><td>27. Juli</td><td>1983</td><td>29. Oktober</td><td colspan="2">1983</td></tr>
+<tr><td>Jersey</td><td>13. August</td><td>2020</td><td>13. November</td><td colspan="2">2020</td></tr>
 <tr><td>Vietnam\* <sup>f</sup></td><td>7. April</td><td>1981</td><td>2. Juli</td><td colspan="2">1976</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>23. Mai</td><td>1978</td><td>5. September</td><td colspan="2">1978</td></tr>
 <tr><td>Zypern</td><td>21. Dezember</td><td>1983 B</td><td>3. April</td><td colspan="2">1984</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: http://www.wipo.int/treaties/fr eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Ratifikation der Art. 13–30.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Ratifikation der Art. 1–12.</td></tr>
-<tr><td colspan="5"><sup>c</sup> In Anwendung von Art. 20.2)a) der Übereinkunft sind die Art. 1–12 für diesen Staat entweder am 26. April 1970 (drei Monate nach der Hinterlegung der zehnten Ratifikations- oder Beitrittsurkunde) oder aber am 19. Mai 1970 (drei Monate nach der Hinterlegung der elften Ratifikations- oder Beitrittsurkunde) in Kraft getreten, je nachdem er die seinerzeit von ihm bestrittene Gültigkeit des Beitrittes der Deutschen Demokratischen Republik anerkennt oder nicht. Die Art. 13–30 der Übereinkunft sind für diesen Staat am 26. April 1970 in Kraft getreten.</td></tr>
-<tr><td colspan="6"><sup>d</sup> Vom 16. Nov. 1977 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
-<tr><td colspan="6"><sup>e</sup> Auf Grund einer Erklärung der Volksrepublik China vom 30. Nov. 1999 ist das Übereink. seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
-<tr><td colspan="6"><sup>f</sup> Anwendungserklärung.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int](http://www.wipo.int/) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Ratifikation der Art. 13–30. <sup>b</sup> Ratifikation der Art. 1–12. <sup>c</sup> In Anwendung von Art. 20.2)a) der Übereinkunft sind die Art. 1–12 für diesen Staat entweder am 26. April 1970 (drei Monate nach der Hinterlegung der zehnten Ratifikations- oder Beitrittsurkunde) oder aber am 19. Mai 1970 (drei Monate nach der Hinterlegung der elften Ratifikations- oder Beitrittsurkunde) in Kraft getreten, je nachdem er die seinerzeit von ihm bestrittene Gültigkeit des Beitrittes der Deutschen Demokratischen Republik anerkennt oder nicht. Die Art. 13–30 der Übereinkunft sind für diesen Staat am 26. April 1970 in Kraft getreten. <sup>d</sup> Vom 16. Nov. 1977 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>e</sup> Auf Grund einer Erklärung der Volksrepublik China vom 30. Nov. 1999 ist das Übereink. seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar. <sup>f</sup> Anwendungserklärung.</td></tr>
 </table>
 
-[^t-3]: [AS 2003 2418](https://fedlex.data.admin.ch/eli/oc/2003/349), [2006 759](https://fedlex.data.admin.ch/eli/oc/2006/107), [2009 2535](https://fedlex.data.admin.ch/eli/oc/2009/321), [2014 887](https://fedlex.data.admin.ch/eli/oc/2014/191)und [2017 3727](https://fedlex.data.admin.ch/eli/oc/2017/432). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2003 2418](https://fedlex.data.admin.ch/eli/oc/2003/349); [2006 759](https://fedlex.data.admin.ch/eli/oc/2006/107); [2009 2535](https://fedlex.data.admin.ch/eli/oc/2009/321); [2014 887](https://fedlex.data.admin.ch/eli/oc/2014/191); [2017 3727](https://fedlex.data.admin.ch/eli/oc/2017/432); [2021 608](https://fedlex.data.admin.ch/eli/oc/2021/608). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
