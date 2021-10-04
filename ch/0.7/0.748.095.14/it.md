@@ -3,11 +3,11 @@ sr: "0.748.095.14"
 title: Scambio di note del 27 gennaio 2003 tra la Svizzera e il Liechtenstein relativo alla collaborazione tra le autorità svizzere e liechtensteinensi in materia di aviazione civile (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/487"
 language: it
-version: 2021-04-20
+version: 2021-10-05
 adopted: 2003-01-27
 in_force: 2003-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20210420/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20210420-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20210420/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20211005/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20211005-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20211005/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20210420/it"
 
 Entrato in vigore il 27 gennaio 2003
 
-(Stato 20 aprile 2021)
+(Stato 5 ottobre 2021)
 
 Traduzione
 
@@ -48,7 +48,7 @@ I compiti riservati a un’autorità federale in virtù del diritto svizzero app
 - 4\.[^t-2] la regolamentazione e la vigilanza dei servizi di sicurezza aerea, inclusi l’organizzazione dello spazio aereo, la denominazione dei fornitori del servizio, l’allestimento di carte aeronautiche, la preparazione di dati aeronautici, nonché la gestione delle frequenze di navigazione aerea conformemente alla legislazione nazionale e internazionale vigente in Svizzera;
 - 5\.[^t-3] la definizione di misure amministrative concernenti la polizia aerea e il controllo di polizia aerea dell’aviazione liechtensteinense in connessione con gli organi di polizia aerea locali;
 - 6\. la denuncia alle autorità liechtensteinensi ai fini del perseguimento delle infrazioni alle norme di polizia aerea; per quanto concerne la procedura vigono i disposti degli articoli 27–32 del Trattato di unione doganale del 29 marzo 1923 tra la Svizzera e il Liechtenstein;
-- l’inchiesta amministrativa e l’interpretazione tecnica degli infortuni e inconvenienti aerei.
+- 1\. l’inchiesta amministrativa e l’interpretazione tecnica degli infortuni e inconvenienti aerei.
 
 II
 
@@ -84,11 +84,13 @@ L’Ambasciata del Principato del Liechtenstein coglie questa occasione per rinn
 [^t-3]: Nuovo testo giusta il dello scambio di note del 22 dic. 2010, in vigore dal 22 dic. 2010 ([RU 2011 1221](https://fedlex.data.admin.ch/eli/oc/2011/181)).
 [^t-4]: [RS 0.748.095.141](https://fedlex.data.admin.ch/eli/cc/2001/434)
 
-Allegati[^t-5]
+Allegati*[^t-5]*
+
+## Elenco
+
+[^t-5]: Gli All. I e II sono stati aggiornati dal 27 gen. 2003 semestralmente, l’ultima volta il 5 ott. 2021 (stato: 30 giugno 2021). Questi all. non sono più pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712)). Estratti periodicamente aggiornati si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.748.
 
 <table>
-<tr><td>Allegato I</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
-<tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>**Allegato I**</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>**Allegato II**</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
-
-[^t-5]: Gli All. I e II sono stati aggiornati dal 27 gen. 2003 semestralmente, l’ultima volta il 20 apr. 2021 (stato: 31 dicembre 2020). Questi all. non sono più pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638)). Estratti semestralmente aggiornati si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.748.
