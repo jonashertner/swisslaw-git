@@ -3,11 +3,11 @@ sr: "0.951.951.4"
 title: Accordo monetario del 19 giugno 1980 tra la Confederazione Svizzera e il Principato del Liechtenstein (con All. e scambio di note)
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715"
 language: it
-version: 2021-04-20
+version: 2021-10-05
 adopted: 1980-06-19
 in_force: 1981-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715/20210420/it/xml/fedlex-data-admin-ch-eli-cc-1981-1715_1715_1715-20210420-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/1715_1715_1715/20210420/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715/20211005/it/xml/fedlex-data-admin-ch-eli-cc-1981-1715_1715_1715-20211005-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1715_1715_1715/20211005/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificato con strumenti scambiati il 26 ottobre 1981
 
 Entrato in vigore il 25 novembre 1981
 
-(Stato 20 aprile 2021)
+(Stato 5 ottobre 2021)
 
 [^t-1]: [RU 1981 1714](https://fedlex.data.admin.ch/eli/oc/1981/1714_1714_1714)
 
@@ -227,7 +227,7 @@ E. Diez
 Allegato*[^t-2]*
 
 <table>
-<tr><td>**Allegato I**</td><td>– Elenco degli atti normativi federali, applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>Allegato I</td><td>– Elenco degli atti normativi federali, applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-2]: L’all. è stato aggiornato dal 3 nov. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 20 apr. 2021 (stato: 31 dicembre 2020). L’all. non è più pubblicato nella RU ([RU 2020 4565](https://fedlex.data.admin.ch/eli/oc/2020/808); [2021 647](https://fedlex.data.admin.ch/eli/oc/2021/647)). Estratti aggiornati semestralmente si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.95.
+[^t-2]: L’All. è stato aggiornato dal 3 nov. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 5 ott. 2021 (stato: 30 giugno 2021). L’all. non è più pubblicato nella RU ([RU 2020 4565](https://fedlex.data.admin.ch/eli/oc/2020/808); [2021 647](https://fedlex.data.admin.ch/eli/oc/2021/647), [713](https://fedlex.data.admin.ch/eli/oc/2021/713)). Estratti aggiornati semestralmente si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; Suchen &gt; LR-Nr. 170.551.95.
