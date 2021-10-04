@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Trattato di unione doganale conchiuso il 29 marzo 1923 tra la Confederazione Svizzera e il Principato del Liechtenstein (con Protocollo finale e allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: it
-version: 2021-04-20
+version: 2021-10-05
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20210420/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20210420-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20210420/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20211005/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20211005-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20211005/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Istrumenti di ratificazione scambiati il 28 dicembre 1923
 
 Entrato in vigore il 1° gennaio 1924
 
-(Stato 20 aprile 2021)
+(Stato 5 ottobre 2021)
 
 [^t-1]: RU **39** 575
 
@@ -384,4 +384,4 @@ Allegati*[^t-4]*
 <tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-4]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 20 apr. 2021 (stato: 31 dic. 2020). Questi all. non sono più pubblicati nella RU (RU **2021** 303). Estratti aggiornati semestralmente si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.631.
+[^t-4]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 5 ott. 2021 (stato: 30 giu. 2021). Questi all. non sono più pubblicati nella RU (RU **2021** 303, 711). Estratti aggiornati semestralmente si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.631..
