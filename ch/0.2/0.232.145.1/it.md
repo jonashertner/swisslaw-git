@@ -3,11 +3,11 @@ sr: "0.232.145.1"
 title: Trattato di Budapest del 28 aprile 1977 sul riconoscimento internazionale del deposito dei microrganismi ai fini della procedura in materia di brevetti
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262"
 language: it
-version: 2019-07-02
+version: 2021-10-06
 adopted: 1977-04-28
 in_force: 1981-08-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262/20190702/it/xml/fedlex-data-admin-ch-eli-cc-1981-1262_1262_1262-20190702-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/1262_1262_1262/20190702/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262/20211006/it/xml/fedlex-data-admin-ch-eli-cc-1981-1262_1262_1262-20211006-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1262_1262_1262/20211006/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Istrumento di ratificazione depositato dalla Svizzera il 19 maggio 1981
 
 Entrato in vigore per la Svizzera il 19 agosto 1981
 
-(Stato 2 luglio 2019)
+(Stato 6 ottobre 2021)
 
 [^t-1]: [RU 1981 1261](https://fedlex.data.admin.ch/eli/oc/1981/1261_1261_1261)
 
@@ -339,12 +339,13 @@ Il Direttore generale notifica agli Stati contraenti, alle organizzazioni interg
 
 *In fede di che* i sottoscritti, all’uopo debitamente autorizzati, hanno firmato il presente Trattato. Fatto a Budapest, il ventotto aprile millenovecentosettantasette. (Seguono le firme)
 
-Campo d’applicazione il 2 luglio 2019**[^t-2]**
+Campo d’applicazione il 6 ottobre 2021**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>19 giugno</td><td>2003 A</td><td>19 settembre</td><td>2003</td></tr>
 <tr><td>Antigua e Barbuda</td><td>25 marzo</td><td>2019 A</td><td>25 giugno</td><td>2019</td></tr>
+<tr><td>Arabia Saudita</td><td>16 ottobre</td><td>2020 A</td><td>16 gennaio</td><td>2021</td></tr>
 <tr><td>Armenia</td><td>6 dicembre</td><td>2004 A</td><td>6 marzo</td><td>2005</td></tr>
 <tr><td>Australia</td><td>7 aprile</td><td>1987 A</td><td>7 luglio</td><td>1987</td></tr>
 <tr><td>Austria</td><td>26 gennaio</td><td>1984</td><td>26 aprile</td><td>1984</td></tr>
@@ -368,6 +369,7 @@ Campo d’applicazione il 2 luglio 2019**[^t-2]**
 <tr><td>Danimarca</td><td>1° aprile</td><td>1985</td><td>1° luglio</td><td>1985</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>3 aprile</td><td>2007 A</td><td>3 luglio</td><td>2007</td></tr>
 <tr><td>El Salvador</td><td>17 maggio</td><td>2006 A</td><td>17 agosto</td><td>2006</td></tr>
+<tr><td>Emirati Arabi Uniti</td><td>17 febbraio</td><td>2021 A</td><td>17 maggio</td><td>2021</td></tr>
 <tr><td>Estonia</td><td>14 giugno</td><td>1996 A</td><td>14 settembre</td><td>1996</td></tr>
 <tr><td>Filippine</td><td>21 luglio</td><td>1981 A</td><td>21 ottobre</td><td>1981</td></tr>
 <tr><td>Finlandia</td><td>1° giugno</td><td>1985</td><td>1° settembre</td><td>1985</td></tr>
@@ -414,6 +416,9 @@ Campo d’applicazione il 2 luglio 2019**[^t-2]**
 <tr><td>Portogallo</td><td>16 luglio</td><td>1997 A</td><td>16 ottobre</td><td>1997</td></tr>
 <tr><td>Qatar</td><td>6 dicembre</td><td>2013 A</td><td>6 marzo</td><td>2014</td></tr>
 <tr><td>Regno Unito</td><td>29 settembre</td><td>1980</td><td>29 dicembre</td><td>1980</td></tr>
+<tr><td>Gibilterra</td><td>1° ottobre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
+<tr><td>Guernesey</td><td>1° ottobre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
+<tr><td>Man, Isola di</td><td>1° ottobre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Romania</td><td>25 giugno</td><td>1999 A</td><td>25 settembre</td><td>1999</td></tr>
 <tr><td>Russia</td><td>22 gennaio</td><td>1981</td><td>22 aprile</td><td>1981</td></tr>
 <tr><td>Serbia</td><td>25 novembre</td><td>1993 A</td><td>25 febbraio</td><td>1994</td></tr>
@@ -432,7 +437,8 @@ Campo d’applicazione il 2 luglio 2019**[^t-2]**
 <tr><td>Ucraina</td><td>2 aprile</td><td>1997 A</td><td>2 luglio</td><td>1997</td></tr>
 <tr><td>Ungheria</td><td>11 luglio</td><td>1978</td><td>19 agosto</td><td>1980</td></tr>
 <tr><td>Uzbekistan</td><td>12 ottobre</td><td>2001 A</td><td>12 gennaio</td><td>2002</td></tr>
+<tr><td>Vietnam</td><td>1° marzo</td><td>2021 A</td><td>1° giugno</td><td>2021</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: Completa quelli in [RU 1981 1262](https://fedlex.data.admin.ch/eli/oc/1981/1262_1262_1262),[1984 221](https://fedlex.data.admin.ch/eli/oc/1984/221_221_221)[609](https://fedlex.data.admin.ch/eli/oc/1984/609_609_609), [1985 1470](https://fedlex.data.admin.ch/eli/oc/1985/1470_1470_1470), [1987 818](https://fedlex.data.admin.ch/eli/oc/1987/818_818_818), [1990 912](https://fedlex.data.admin.ch/eli/oc/1990/912_912_912)[1604](https://fedlex.data.admin.ch/eli/oc/1990/1604_1604_1604), [2003 3785](https://fedlex.data.admin.ch/eli/oc/2003/544), [2005 4951](https://fedlex.data.admin.ch/eli/oc/2005/674), [2007 1337](https://fedlex.data.admin.ch/eli/oc/2007/220), [2009 601](https://fedlex.data.admin.ch/eli/oc/2009/105), [2011 3547](https://fedlex.data.admin.ch/eli/oc/2011/482), [2014 939](https://fedlex.data.admin.ch/eli/oc/2014/206)e [2019 2191](https://fedlex.data.admin.ch/eli/oc/2019/407). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1981 1262](https://fedlex.data.admin.ch/eli/oc/1981/1262_1262_1262); [1984 221](https://fedlex.data.admin.ch/eli/oc/1984/221_221_221), [609](https://fedlex.data.admin.ch/eli/oc/1984/609_609_609); [1985 1470](https://fedlex.data.admin.ch/eli/oc/1985/1470_1470_1470); [1987 818](https://fedlex.data.admin.ch/eli/oc/1987/818_818_818); [1990 912](https://fedlex.data.admin.ch/eli/oc/1990/912_912_912), [1604](https://fedlex.data.admin.ch/eli/oc/1990/1604_1604_1604); [2003 3785](https://fedlex.data.admin.ch/eli/oc/2003/544); [2005 4951](https://fedlex.data.admin.ch/eli/oc/2005/674); [2007 1337](https://fedlex.data.admin.ch/eli/oc/2007/220); [2009 601](https://fedlex.data.admin.ch/eli/oc/2009/105); [2011 3547](https://fedlex.data.admin.ch/eli/oc/2011/482); [2014 939](https://fedlex.data.admin.ch/eli/oc/2014/206); [2019 2191](https://fedlex.data.admin.ch/eli/oc/2019/407); [2021 610](https://fedlex.data.admin.ch/eli/oc/2021/610). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (www.fedlex.admin.ch/it/treaty).
