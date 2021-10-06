@@ -5,20 +5,20 @@ title: Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungsratsgesetz
 language: de
 version: 1998-07-01
+corrected: 2021-10-07
 version_adopted: 1998-02-04
 adopted: 1998-02-04
 in_force: 1998-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/152.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/610/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/27/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Organisation des Regierungsrates und der Verwaltung
+# Gesetz über die Organisation des Regierungsrates und der Verwaltung (Regierungsratsgesetz)
 
-(Regierungsratsgesetz)
-
-vom 04.02.1998 (Stand 01.07.1998)
+vom 4. Februar 1998[^t-1]
 
 Der Landrat von Nidwalden,
 
@@ -26,15 +26,17 @@ gestützt auf Art. 60 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Der Regierungsrat
+[^t-1]: A 1998, 221, 699
 
-### 1.1 Stellung und Aufgaben
+### I. DER REGIERUNGSRAT
+
+### A. Stellung und Aufgaben
 
 #### Art. 1
 
 **Stellung**
 
-<sup>1</sup> Der Regierungsrat ist die oberste leitende, planende und vollziehende Behörde des Kantons.
+Der Regierungsrat ist die oberste leitende, planende und vollziehende Behörde des Kantons.
 
 #### Art. 2
 
@@ -43,10 +45,17 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat übt seine verfassungsmässigen und gesetzlichen Befugnisse aus indem er insbesondere:
 
 - 1\. die für den Kanton und die Region bedeutsamen Entwicklungen verfolgt, beurteilt und rechtzeitig zweckmässige Massnahmen anordnet;
+
 - 2\. die Staatstätigkeit in wesentlichen Bereichen leitet, plant und koordiniert;
+
 - 3\. die Zielsetzungen seiner Regierungspolitik festlegt und sicherstellt, dass diese zielgerichtet, rechtmässig, wirkungsvoll und dienstleistungsgerecht erfüllt werden;
+
 - 4\. den Leistungsauftrag des Kantons periodisch überprüft;
-- 5\. die Organisation der Staatsverwaltung bestimmt, soweit sie nicht durch die Gesetzgebung festgelegt ist;
+
+**1**
+
+1.8.1998 - 26 5. die Organisation der Staatsverwaltung bestimmt, soweit sie nicht durch die Gesetzgebung festgelegt ist;
+
 - 6\. den Kanton nach innen und aussen vertritt.
 
 <sup>2</sup> Die Regierungstätigkeit hat Vorrang vor allen andern Aufgaben des Regierungsrates.
@@ -93,15 +102,15 @@ beschliesst:
 
 [^6-1]: NG 152.12
 
-### 1.2 Organisation und Verfahren
+### B. Organisation und Verfahren
 
-### 1.2.1 Allgemeine Bestimmungen
+- 1\. Allgemeine Bestimmungen
 
 #### Art. 7
 
 **Amtsdauer**
 
-<sup>1</sup> Die verfassungsmässige Amtsdauer des Regierungsrates beginnt am 1. Juli nach der Gesamterneuerungswahl.
+Die verfassungsmässige Amtsdauer des Regierungsrates beginnt am 1. Juli nach der Gesamterneuerungswahl.
 
 #### Art. 8
 
@@ -115,7 +124,7 @@ beschliesst:
 
 **Kollegialbehörde**
 
-<sup>1</sup> Der Regierungsrat trifft seine Entscheide als Kollegium.
+Der Regierungsrat trifft seine Entscheide als Kollegium.
 
 #### Art. 10
 
@@ -131,13 +140,17 @@ beschliesst:
 
 <sup>1</sup> Der Landammann leitet die Verhandlungen des Regierungsrates.
 
+**3**
+
+1.8.1998 - 26
+
 <sup>2</sup> Neben den Mitgliedern des Regierungsrates nimmt die Landschreiberin oder der Landschreiber an den Verhandlungen mit beratender Stimme teil und hat für die Geschäfte der Staatskanzlei das Antragsrecht.
 
 #### Art. 12
 
 **Beschlussfähigkeit**
 
-<sup>1</sup> Der Regierungsrat ist beschlussfähig, wenn mindestens vier Mitglieder anwesend sind.
+Der Regierungsrat ist beschlussfähig, wenn mindestens vier Mitglieder anwesend sind.
 
 #### Art. 13
 
@@ -167,7 +180,7 @@ beschliesst:
 
 **Ausschluss der Öffentlichkeit**
 
-<sup>1</sup> Die Verhandlungen des Regierungsrates sowie das Mitberichtsverfahren gemäss Art. 34 sind nicht öffentlich. Die Information richtet sich nach Art. 6.
+Die Verhandlungen des Regierungsrates sowie das Mitberichtsverfahren gemäss Art. 34 sind nicht öffentlich. Die Information richtet sich nach Art. 6.
 
 #### Art. 16
 
@@ -177,13 +190,13 @@ beschliesst:
 
 <sup>2</sup> Diese bereiten Beratungen und Entscheidungen des Regierungsrates vor oder führen für das Kollegium mit anderen Behörden oder mit Privaten Verhandlungen.
 
-### 1.2.2 Der Landammann
+- 2\. Der Landammann
 
 #### Art. 17
 
 **Stellung**
 
-<sup>1</sup> Der Landammann vertritt den Regierungsrat nach aussen, sofern diese Aufgabe nicht dem Kollegium zufällt oder auf einzelne Mitglieder übertragen wird.
+Der Landammann vertritt den Regierungsrat nach aussen, sofern diese Aufgabe nicht dem Kollegium zufällt oder auf einzelne Mitglieder übertragen wird.
 
 #### Art. 18
 
@@ -194,9 +207,13 @@ beschliesst:
 <sup>2</sup> Der Landammann:
 
 - 1\. sorgt dafür, dass der Regierungsrat seine Aufgaben zeitgerecht, zweckmässig und koordiniert aufnimmt und abschliesst;
+
 - 2\. bereitet die Verhandlungen des Regierungsrates vor und schlichtet in strittigen Fragen;
+
 - 3\. wacht darüber, dass die Aufsicht des Regierungsrates über die Kantonsverwaltung zweckmässig organisiert und ausgeübt wird;
+
 - 4\. kann jederzeit Abklärungen über bestimmte Angelegenheiten anordnen und dem Regierungsrat gegebenenfalls geeignete Massnahmen vorschlagen;
+
 - 5\. nimmt die allgemeine Aufsicht über die Staatskanzlei wahr.
 
 #### Art. 19
@@ -213,13 +230,17 @@ beschliesst:
 
 <sup>1</sup> In dringenden Fällen ordnet der Landammann vorsorgliche Massnahmen an.
 
-<sup>2</sup> Ist die Einberufung einer Sitzung oder die Durchführung eines ausserordentlichen Verfahrens nicht möglich, entscheidet der Landammann durch Präsidialverfügung. Diese Verfügung ist dem Regierungsrat nachträglich ohne Verzug zur Genehmigung zu unterbreiten.
+<sup>2</sup> Ist die Einberufung einer Sitzung oder die Durchführung eines aus-
+
+**5**
+
+1.8.1998 - 26 serordentlichen Verfahrens nicht möglich, entscheidet der Landammann durch Präsidialverfügung. Diese Verfügung ist dem Regierungsrat nachträglich ohne Verzug zur Genehmigung zu unterbreiten.
 
 <sup>3</sup> Im Rechtsmittelverfahren gelten die Vorschriften der Verwaltungsrechtspflegegesetzgebung[^20-1].
 
-[^20-1]: NG 265.1
+- 3\. Mitglieder des Regierungsrates
 
-### 1.2.3 Mitglieder des Regierungsrates
+[^20-1]: NG 265.1
 
 #### Art. 21
 
@@ -236,7 +257,9 @@ beschliesst:
 <sup>1</sup> Unvereinbar mit dem Regierungsamt sind:
 
 - 1\. Tätigkeiten, die zeitlich zu übermässigen Behinderungen und Beanspruchungen führen;
+
 - 2\. leitende, operative Aufgaben in einem öffentlichen oder gemischtwirtschaftlichen Unternehmen;
+
 - 3\. die Übernahme von Mandaten gegen den Kanton sowie die Vertretung von Parteien in verwaltungsrechtlichen oder verwaltungsgerichtlichen Verfahren im Kanton Nidwalden.
 
 <sup>2</sup> Bestehen Meinungsverschiedenheiten, ob eine Tätigkeit mit dem Hauptamt eines Regierungsrates vereinbar ist, entscheidet darüber der Regierungsrat unter Ausschluss des betreffenden Mitglieds von Beratung und Beschlussfassung.
@@ -245,7 +268,9 @@ beschliesst:
 
 #### Art. 23
 
-**Offenlegung von Interessenbindungen 1. allgemein**
+**Offenlegung von Interessenbindungen**
+
+### 1. allgemein
 
 <sup>1</sup> Die Mitglieder des Regierungsrates legen vor Amtsantritt sämtliche Interessenverbindungen und Erwerbstätigkeiten in einem durch die Staatskanzlei jährlich nachzuführenden Register offen.
 
@@ -255,17 +280,17 @@ beschliesst:
 
 **2. Hinweispflicht**
 
-<sup>1</sup> Mitglieder des Regierungsrates legen die konkrete Interessenbindung offen, wenn sie sich zu einem Geschäft äussern, das ihre Interessen oder jene Dritter, zu denen sie eine wesentliche persönliche oder rechtliche Beziehung haben, unmittelbar berührt. Vorbehalten bleibt der Ausstand.
+Mitglieder des Regierungsrates legen die konkrete Interessenbindung offen, wenn sie sich zu einem Geschäft äussern, das ihre Interessen oder jene Dritter, zu denen sie eine wesentliche persönliche oder rechtliche Beziehung haben, unmittelbar berührt. Vorbehalten bleibt der Ausstand.
 
 #### Art. 25
 
 **Rangfolge**
 
-<sup>1</sup> Die Rangfolge der Mitglieder des Regierungsrates bestimmt sich nach dem Zeitpunkt ihrer erstmaligen Wahl. Bei gleichzeitig gewählten Mitgliedern gilt die Reihenfolge nach Lebensalter.
+Die Rangfolge der Mitglieder des Regierungsrates bestimmt sich nach dem Zeitpunkt ihrer erstmaligen Wahl. Bei gleichzeitig gewählten Mitgliedern gilt die Reihenfolge nach Lebensalter.
 
-## 2 Direktionen und Staatskanzlei
+### II. DIREKTIONEN UND STAATSKANZLEI
 
-### 2.1 Grundsätze der Organisation
+### A. Grundsätze der Organisation
 
 #### Art. 26
 
@@ -274,14 +299,24 @@ beschliesst:
 <sup>1</sup> Die ganze Kantonsverwaltung umfasst folgende sieben Direktionen sowie die Staatskanzlei:
 
 - 1\. Finanzdirektion;
+
 - 2\. Baudirektion;
+
 - 3\. Justiz- und Sicherheitsdirektion;
+
 - 4\. Bildungsdirektion;
+
 - 5\. Landwirtschafts- und Umweltdirektion;
+
 - 6\. Gesundheits- und Sozialdirektion;
+
 - 7\. Volkswirtschaftsdirektion.
 
 <sup>2</sup> Die Direktionen gliedern sich in Ämter und Abteilungen. Der Regierungsrat bestimmt in der Vollzugsverordnung die Gliederung und die zweckmässige Organisation der Verwaltung und passt sie den Verhältnissen an.
+
+**7**
+
+1.8.1998 - 26
 
 <sup>3</sup> Er berücksichtigt bei der Zuteilung die Kriterien einer ausgeglichenen Belastung, einer zweckmässigen und wirkungsvollen Organisation und der persönlichen Fähigkeiten und Neigungen der einzelnen Mitglieder.
 
@@ -299,16 +334,18 @@ beschliesst:
 
 **Stellvertretung**
 
-<sup>1</sup> Der Regierungsrat bezeichnet eine stellvertretende Direktion; in besonderen Fällen kann er eine ausserordentliche Stellvertretung bezeichnen.
+Der Regierungsrat bezeichnet eine stellvertretende Direktion; in besonderen Fällen kann er eine ausserordentliche Stellvertretung bezeichnen.
 
 #### Art. 29
 
 **Befugnisse**
 
-<sup>1</sup> Die zuständige Direktion:
+Die zuständige Direktion:
 
 - 1\. nimmt die ihr zustehenden Anstellungen vor;
+
 - 2\. erlässt Verfügungen und Entscheidungen im Verwaltungsverfahren im Rahmen der Zuständigkeit gemäss der Gesetzgebung;
+
 - 3\. vertritt den Regierungsrat in Verwaltungsverfahren und in Verfahren der Verwaltungsrechtspflege.
 
 #### Art. 30
@@ -319,7 +356,7 @@ beschliesst:
 
 <sup>2</sup> Die Staatskanzlei wird von der Landschreiberin oder vom Landschreiber geleitet.
 
-### 2.2 Planung, Führung und Koordination
+### B. Planung, Führung und Koordination
 
 #### Art. 31
 
@@ -333,12 +370,16 @@ beschliesst:
 
 **Führungsaufgaben**
 
-<sup>1</sup> Die Vorsteherin oder der Vorsteher der Direktionen und der übrigen Verwaltungseinheiten haben insbesondere folgende Führungsaufgaben wahrzunehmen:
+Die Vorsteherin oder der Vorsteher der Direktionen und der übrigen Verwaltungseinheiten haben insbesondere folgende Führungsaufgaben wahrzunehmen:
 
 - 1\. Planung der Tätigkeit ihrer Verwaltungseinheit und regelmässige Bestimmung der Zielsetzung unter Berücksichtigung des gegebenen Kreditrahmens;
+
 - 2\. Sicherstellung von Informationen und Koordination innerhalb der Verwaltungseinheit;
+
 - 3\. Personalführung, Personalausbildung und Nachfolgeplanung;
+
 - 4\. Beziehungen nach aussen;
+
 - 5\. regelmässige Überprüfung der strukturellen und funktionellen Organisation ihrer Verwaltungseinheit.
 
 #### Art. 33
@@ -357,15 +398,19 @@ beschliesst:
 
 <sup>1</sup> Sind mehrere Direktionen an einem Geschäft beteiligt oder interessiert, führt die hauptverantwortliche Direktion ein Mitberichtsverfahren durch.
 
-<sup>2</sup> Die Finanzdirektion nimmt zu allen Geschäften Stellung, die grössere Einnahmen oder Ausgaben begründen und nicht im Voranschlag enthalten sind.
+<sup>2</sup> Die Finanzdirektion nimmt zu allen Geschäften Stellung, die grössere
+
+**9**
+
+1.8.1998 - 26 Einnahmen oder Ausgaben begründen und nicht im Voranschlag enthalten sind.
 
 #### Art. 35
 
 **Sachverständige**
 
-<sup>1</sup> Das Einholen von Gutachten sowie die Auftragserteilung zur Ausarbeitung von Konzepten und dergleichen ist nur mit Bewilligung des Regierungsrates zulässig.
+Das Einholen von Gutachten sowie die Auftragserteilung zur Ausarbeitung von Konzepten und dergleichen ist nur mit Bewilligung des Regierungsrates zulässig.
 
-### 2.3 Kompetenzordnung
+### C. Kompetenzordnung
 
 #### Art. 36
 
@@ -379,7 +424,7 @@ beschliesst:
 
 **Finanzkompetenzen**
 
-<sup>1</sup> Der Regierungsrat kann im Rahmen der Gesetzgebung und seiner eigenen Finanzkompetenz in einem Beschluss ordnen, unter welchen Voraussetzungen die Direktionsleitung in eigener Kompetenz Ausgaben tätigen können.
+Der Regierungsrat kann im Rahmen der Gesetzgebung und seiner eigenen Finanzkompetenz in einem Beschluss ordnen, unter welchen Voraussetzungen die Direktionsleitung in eigener Kompetenz Ausgaben tätigen können.
 
 #### Art. 38
 
@@ -389,13 +434,13 @@ beschliesst:
 
 <sup>2</sup> Streitige Kompetenzfragen unter Amtsstellen einer Direktion entscheidet die Direktionsleitung.
 
-## 3 Schlussbestimmungen
+### III. SCHLUSSBESTIMMUNGEN
 
 #### Art. 39
 
 **Vollzugsverordnung**
 
-<sup>1</sup> Der Regierungsrat regelt in einer Vollzugsverordnung die Zuweisung der einzelnen Sachgebiete an die Direktionen, die Geschäftsordnung des Regierungsrates sowie die Organisation der Direktionen und der Staatskanzlei.
+Der Regierungsrat regelt in einer Vollzugsverordnung die Zuweisung der einzelnen Sachgebiete an die Direktionen, die Geschäftsordnung des Regierungsrates sowie die Organisation der Direktionen und der Staatskanzlei.
 
 #### Art. 40
 
@@ -407,7 +452,9 @@ beschliesst:
 
 <sup>3</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere die Verordnung vom 24. Juni 1992 über die Organisation und Geschäftsführung des Regierungsrates und der Kantonsverwaltung (Regierungsratsverordnung)[^40-1] sowie die Verordnung vom 9. Dezember 1992 über die Standeskanzlei (Kanzleiverordnung)[^40-2].
 
+**11**
+
+1.8.1998 - 26
+
 [^40-1]: A 1992, 1145
 [^40-2]: A 1992, 2001
-
-A 1998, 221, 699
