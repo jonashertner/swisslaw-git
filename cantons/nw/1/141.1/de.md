@@ -5,21 +5,20 @@ title: Gesetz über die amtlichen Veröffentlichungen
 short: Publikationsgesetz
 language: de
 version: 2000-10-01
-valid_until: 2024-12-31
+corrected: 2021-10-07
 version_adopted: 2000-04-19
 adopted: 2023-08-30
 in_force: 2025-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/141.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/609/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/22/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die amtlichen Veröffentlichungen
+# Gesetz über die amtlichen Veröffentlichungen (Publikationsgesetz)
 
-(Publikationsgesetz)
-
-vom 19.04.2000 (Stand 01.10.2000)
+vom 19. April 2000[^t-1]
 
 Der Landrat von Nidwalden,
 
@@ -27,29 +26,40 @@ gestützt auf Art. 60 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Amtliche Publikationsorgane
+[^t-1]: A 2000, 681, 1250
 
-### 1.1 Amtsblatt
+### I. AMTLICHE PUBLIKATIONSORGANE
+
+### A. Amtsblatt
 
 #### Art. 1
 
 **Grundsatz**
 
-<sup>1</sup> Das «Amtsblatt des Kantons Nidwalden» (Amtsblatt) ist das ordentliche Publikationsorgan für die amtlichen Veröffentlichungen aller öffentlichrechtlichen Körperschaften im Kanton.
+Das «Amtsblatt des Kantons Nidwalden» (Amtsblatt) ist das ordentliche Publikationsorgan für die amtlichen Veröffentlichungen aller öffentlichrechtlichen Körperschaften im Kanton.
 
 #### Art. 2
 
-**Inhalt 1. Publikationen öffentlichrechtlicher Körperschaften**
+**Inhalt**
 
-<sup>1</sup> Im Amtsblatt sind zu veröffentlichen:
+- 1\. Publikationen öffentlichrechtlicher Körperschaften Im Amtsblatt sind zu veröffentlichen:
 
 - 1\. die Kantonsverfassung, die kantonalen Gesetze, Verordnungen, Reglemente und übrigen Erlasse, die rechtsetzende allgemeinverbindliche Bestimmungen enthalten;
+
 - 2\. interkantonale Verträge mit rechtsetzendem Inhalt;
+
 - 3\. weitere Erlasse, soweit der Regierungsrat deren Veröffentlichung anordnet;
+
 - 4\. Beschlüsse, Entscheide, Berichte, Kreisschreiben und Bekanntmachungen des Landrates, des Regierungsrates und seiner Direktionen, der Gerichte sowie von kantonalen Kommissionen, soweit die betreffende Behörde die Veröffentlichung im Amtsblatt beschliesst;
-- 5\. Bekanntmachungen kantonaler Amtsstellen;
+
+**1**
+
+1.3.2001 - 31 5. Bekanntmachungen kantonaler Amtsstellen;
+
 - 6\. Erlasse, Beschlüsse und Kreisschreiben eidgenössischer Behörden, soweit der Regierungsrat deren Veröffentlichung anordnet;
+
 - 7\. amtliche Bekanntmachungen öffentlichrechtlicher Körperschaften;
+
 - 8\. aufgrund der Gesetzgebung vorgeschriebene Veröffentlichungen.
 
 #### Art. 3
@@ -60,7 +70,7 @@ beschliesst:
 
 <sup>2</sup> Inserate mit rechts- oder sittenwidrigen Inhalten werden nicht ins Amtsblatt aufgenommen. In Zweifelsfällen entscheidet die Staatskanzlei endgültig.
 
-### 1.2 Gesetzessammlung
+### B. Gesetzessammlung
 
 #### Art. 4
 
@@ -84,7 +94,7 @@ beschliesst:
 
 <sup>4</sup> Sind kantonale Erlasse infolge der Änderung von Bundesrecht als Ganzes nicht mehr anwendbar, ordnet der Regierungsrat deren Entfernung aus der Gesetzessammlung an. Der Beschluss ist im Amtsblatt zu veröffentlichen.
 
-### 1.3 Gemeinsame Bestimmungen
+### C. Gemeinsame Bestimmungen
 
 #### Art. 6
 
@@ -100,27 +110,27 @@ beschliesst:
 
 **Massgeblicher Text**
 
-<sup>1</sup> Stimmt der Inhalt der Gesetzessammlung nicht mit der Veröffentlichung im Amtsblatt überein, gilt die Fassung des Amtsblattes.
+Stimmt der Inhalt der Gesetzessammlung nicht mit der Veröffentlichung im Amtsblatt überein, gilt die Fassung des Amtsblattes.
 
 #### Art. 8
 
 **Preise für die Publikationen im Amtsblatt**
 
-<sup>1</sup> Der Regierungsrat legt die Preise für die Publikationen der öffentlichrechtlichen Körperschaften und für die weiteren Publikationen im Amtsblatt fest.
+Der Regierungsrat legt die Preise für die Publikationen der öffentlichrechtlichen Körperschaften und für die weiteren Publikationen im Amtsblatt fest.
 
 #### Art. 9
 
 **Preis, Abgabe und Bezug**
 
-<sup>1</sup> Der Regierungsrat regelt die Einzelheiten über Preis, Abgabe und Bezug der amtlichen Publikationsorgane.
+Der Regierungsrat regelt die Einzelheiten über Preis, Abgabe und Bezug der amtlichen Publikationsorgane.
 
-## 2 Arten und Zeitpunkt der Veröffentlichung
+### II. ARTEN UND ZEITPUNKT DER VERÖFFENTLICHUNG
 
 #### Art. 10
 
 **Ordentliche Publikation**
 
-<sup>1</sup> Die ordentliche Publikation erfolgt im Amtsblatt.
+Die ordentliche Publikation erfolgt im Amtsblatt.
 
 #### Art. 11
 
@@ -128,7 +138,10 @@ beschliesst:
 
 <sup>1</sup> Eine Bekanntmachung erfolgt auf andere Weise, wenn:
 
-- 1\. dies zur Sicherstellung der Wirkung unerlässlich ist;
+**3**
+
+1.3.2001 - 31 1. dies zur Sicherstellung der Wirkung unerlässlich ist;
+
 - 2\. die ordentliche Publikation vor dem Inkrafttreten wegen Dringlichkeit oder anderer ausserordentlicher Verhältnisse nicht möglich ist.
 
 <sup>2</sup> Die ordentliche Publikation im Amtsblatt ist sobald als möglich nachzuholen.
@@ -142,6 +155,7 @@ beschliesst:
 <sup>2</sup> Dies erfolgt insbesondere, wenn sie:
 
 - 1\. technischer Natur sind und sich nur an Fachleute wenden;
+
 - 2\. sich aus besonderen, namentlich drucktechnischen Gründen nicht für die Publikation in den amtlichen Publikationsorganen eignen.
 
 #### Art. 13
@@ -158,7 +172,7 @@ beschliesst:
 
 **Informatikunterstützte Informationssysteme**
 
-<sup>1</sup> Die amtlichen Publikationsorgane werden soweit als möglich zusätzlich auf informatikunterstützten Informationssystemen der Öffentlichkeit zugänglich gemacht.
+Die amtlichen Publikationsorgane werden soweit als möglich zusätzlich auf informatikunterstützten Informationssystemen der Öffentlichkeit zugänglich gemacht.
 
 #### Art. 15
 
@@ -168,7 +182,7 @@ beschliesst:
 
 <sup>2</sup> Die mechanische oder elektronische Übernahme der amtlichen Publikationsorgane und deren Verwertung in unveränderter Form bedürfen der Bewilligung des Regierungsrates.
 
-## 3 Publikationspflicht
+### III. PUBLIKATIONSPFLICHT
 
 #### Art. 16
 
@@ -182,7 +196,7 @@ beschliesst:
 
 **Ausnahmen von der Publikationspflicht**
 
-<sup>1</sup> Rechtsetzende Erlasse, die im Interesse der Gesamtverteidigung geheim gehalten werden müssen, werden nicht veröffentlicht.
+Rechtsetzende Erlasse, die im Interesse der Gesamtverteidigung geheim gehalten werden müssen, werden nicht veröffentlicht.
 
 #### Art. 18
 
@@ -191,36 +205,46 @@ beschliesst:
 <sup>1</sup> In den Gemeindekanzleien können eingesehen werden:
 
 - 1\. die Gesetzessammlung;
+
 - 2\. das Amtsblatt des laufenden und des vergangenen Jahres;
+
 - 3\. die kommunalen Erlasse.
 
 <sup>2</sup> In der Staatskanzlei kann jede Person:
 
 - 1\. die amtlichen Publikationsorgane einsehen, einschliesslich der Erlasse, die durch Verweisung gemäss Art. 12 veröffentlicht wurden;
+
 - 2\. die Amtliche und die Systematische Sammlung des Bundesrechts einsehen;
+
 - 3\. den vollständigen Text ausserordentlich bekanntgemachter Bundeserlasse, die in der Amtlichen Sammlung des Bundesrechts noch nicht veröffentlicht wurden, einsehen und beziehen.
 
-## 4 Schlussbestimmungen
+### IV. SCHLUSSBESTIMMUNGEN
 
 #### Art. 19
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug erforderlichen Ausführungsbestimmungen.
+Der Regierungsrat erlässt die zum Vollzug erforderlichen Ausführungsbestimmungen.
+
+**5**
+
+1.3.2001 - 31
 
 #### Art. 20
 
-**Änderung bisherigen Rechts 1. Einführungsverordnung zum Obligationenrecht**
+**Änderung bisherigen Rechts**
 
-<sup>1</sup> § 46 der Einführungsverordnung vom 3. Juli 1976 zum Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht) (Einführungsverordnung zum Obligationenrecht)[^20-1] wird aufgehoben.
+### 1. Einführungsverordnung zum Obligationenrecht
 
-[^20-1]: NG 221.1
+§ 46 der Einführungsverordnung vom 3. Juli 1976 zum Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht) (Einführungsverordnung zum Obligationenrecht)[^h1Einführungsverord-1] wird aufgehoben.
+
+[^h1Einführungsverord-1]: NG 221.1
 
 #### Art. 21
 
 **2. Kantonale Jagdverordnung**
 
-<sup>1</sup> § 21 Abs. 1 Ziff. 3 und § 30 der Vollziehungsverordnung vom 2. Dezember 1992 zum Einführungsgesetz zur Bundesgesetzgebung über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Kantonale Jagdverordnung)[^21-1] werden aufgehoben.
+§ 21 Abs. 1 Ziff. 3 und § 30 der Vollziehungsverordnung vom 2. Dezember 1992 zum Einführungsgesetz zur Bundesgesetzgebung über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Kantonale Jagdverordnung)[^21-1] werden aufgehoben.
 
 [^21-1]: NG 841.11
 
@@ -228,11 +252,14 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Es werden aufgehoben:
+Es werden aufgehoben:
 
 - 1\. die Verordnung vom 26. März 1977 über die amtlichen Bekanntmachungen (Publikationsverordnung)[^22-1];
+
 - 2\. die Verordnung vom 26. März 1977 über das Amtsblatt[^22-2];
+
 - 3\. der Landsgemeindebeschluss vom 30. April 1916 betreffend die Neuanlage des Gesetzbuches[^22-3];
+
 - 4\. die Verordnung vom 26. März 1977 über die Herausgabe einer bereinigten Sammlung der kantonalen Erlasse (Gesetzbuchverordnung)[^22-4].
 
 [^22-1]: A 1977, 420, 793
@@ -249,5 +276,3 @@ beschliesst:
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.[^23-1]
 
 [^23-1]: Datum des Inkrafttretens: 1. Oktober 2000
-
-A 2000, 681, 1250
