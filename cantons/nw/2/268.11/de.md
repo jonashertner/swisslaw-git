@@ -5,42 +5,42 @@ title: Vollziehungsverordnung zum Gesetz über die öffentliche Beurkundung
 short: "Beurkundungsverordnung, BeurkV"
 language: de
 version: 2016-01-01
+corrected: 2021-10-07
 version_adopted: 2015-05-27
 adopted: 1974-11-09
 in_force: 1975-01-16
 url: "https://gesetze.nw.ch/app/de/texts_of_law/268.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/622/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/111/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollziehungsverordnung zum Gesetz über die öffentliche Beurkundung
+# Vollziehungsverordnung zum Gesetz über die öffentliche Beurkundung (Beurkundungsverordnung, BeurkV)<sup>17</sup>
 
-(Beurkundungsverordnung, BeurkV)
-
-vom 09.11.1974 (Stand 01.01.2016)
+vom 09. November 1974<sup>1</sup>
 
 Der Landrat,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 5 des Gesetzes vom 27. April 1969 über die öffentliche Beurkundung (Beurkundungsgesetz)[^ingress-1],
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 5 des Gesetzes vom 27. April 1969 über die öffentliche Beurkundung (Beurkundungsgesetz)<sup>2</sup>,
 
 beschliesst:
 
-[^ingress-1]: NG 268.1
-
-## 1 Organisation
+### I. ORGANISATION
 
 #### § 1
 
 **Obergericht**
 
-<sup>1</sup> Das Obergericht übt die Aufsicht über das Beurkundungswesen aus.
+Das Obergericht übt die Aufsicht über das Beurkundungswesen aus.
 
 #### § 2
 
-**Beurkundungskommission 1. Wahl**
+**Beurkundungskommission**
 
-<sup>1</sup> Der Regierungsrat wählt auf die verfassungsmässige Amtsdauer eine aus fünf Mitgliedern bestehende Beurkundungskommission, in welcher die Urkundspersonen vertreten sein müssen; das Sekretariat wird durch die Obergerichtskanzlei besorgt.
+- 1\. Wahl
+
+<sup>1</sup> Der Regierungsrat wählt auf die verfassungsmässige Amtsdauer eine aus fünf Mitgliedern bestehende Beurkundungskommission, in welcher die Urkundspersonen vertreten sein müssen; das Sekretariat wird durch die Obergerichtskanzlei besorgt.<sup>13</sup>
 
 <sup>2</sup> Wenn zufolge Ausstandes die Kommission nicht mehr beschlussfähig ist, bezeichnet der Regierungsrat Stellvertreter.
 
@@ -48,46 +48,54 @@ beschliesst:
 
 **2. Zuständigkeit**
 
-<sup>1</sup> Die Beurkundungskommission ist zuständig:
+Die Beurkundungskommission ist zuständig:
 
 - 1\. den kantonalen Befähigungsausweis zu erteilen;
+
 - 2\. das Register über die ausgestellten Befähigungsausweise zu führen;
+
 - 3\. Disziplinarentscheide zu fällen;
+
 - 4\. die jährliche Kontrolle gemäss § 51 durchzuführen;
+
 - 5\. den Jahresbericht zuhanden des Obergerichts auszuarbeiten;
+
 - 6\. die Abgabe der Stempel zu ordnen und über deren Bezug ein Verzeichnis zu führen;
+
 - 7\. ein Musterbuch gemäss § 45 herauszugeben.
 
 #### § 4
 
-**Rechtsschutz**
+**Rechtsschutz<sup>20</sup>**
 
 <sup>1</sup> Gegen Verfügungen der Beurkundungskommission kann binnen 20 Tagen nach erfolgter Zustellung Einsprache erhoben werden.
 
 <sup>2</sup> Gegen Einspracheentscheide der Beurkundungskommission kann binnen 20 Tagen nach erfolgter Zustellung Beschwerde beim Verwaltungsgericht erhoben werden.
 
-<sup>3</sup> Im Übrigen richtet sich das Einsprache- und Beschwerdeverfahren nach dem Verwaltungsrechtspflegegesetz[^4-1].
-
-[^4-1]: NG 265.1
+<sup>3</sup> Im Übrigen richtet sich das Einsprache- und Beschwerdeverfahren nach dem Verwaltungsrechtspflegegesetz<sup>3</sup>.
 
 #### § 5
 
 **Reglement**
 
-<sup>1</sup> Die Beurkundungskommission erlässt über die weiteren Fragen der internen Organisation sowie über das Prüfungsverfahren und die Gebühren im Rahmen der Gesetzgebung ein Reglement, das der Genehmigung durch den Regierungsrat bedarf.
+Die Beurkundungskommission erlässt über die weiteren Fragen der internen Organisation sowie über das Prüfungsverfahren und die Gebühren im Rahmen der Gesetzgebung ein Reglement, das der Genehmigung durch den Regierungsrat bedarf.
 
-## 2 Urkundspersonen
+### II. URKUNDSPERSONEN
 
 #### § 6
 
 **Begriff**
 
-<sup>1</sup> Urkundspersonen sind Personen, welche den Befähigungsausweis besitzen und tätig sind als:
+Urkundspersonen sind Personen, welche den Befähigungsausweis besitzen und tätig sind als:
 
-- 1\. Landschreiberin oder Landschreiber sowie Landratssekretärin oder Landratssekretär;
+- 1\. Landschreiberin oder Landschreiber sowie Landratssekretärin oder Landratssekretär<sup>14</sup>;
+
 - 2\. Amtsnotar und Grundbuchverwalter sowie dessen Stellvertreter;
+
 - 3\. Handelsregister- und Güterrechtsregisterführer sowie dessen Stellvertreter;
+
 - 4\. Gemeindeschreiber;
+
 - 5\. im Kanton wohnhafte frei praktizierende Rechtsanwälte.
 
 #### § 7
@@ -104,7 +112,9 @@ beschliesst:
 
 #### § 8
 
-**Beurkundungsprüfung 1. Organisation**
+**Beurkundungsprüfung**
+
+### 1. Organisation
 
 <sup>1</sup> Die Beurkundungskommission bestimmt die Experten, die Prüfungsfächer und die Prüfungstermine sowie den zu leistenden Kostenvorschuss.
 
@@ -138,16 +148,20 @@ beschliesst:
 
 <sup>4</sup> Abweichende Bestimmungen des Bundesrechts bleiben vorbehalten.
 
-## 3 Zuständigkeit und Pflichten der Urkundspersonen
+### III. ZUSTÄNDIGKEIT UND PFLICHTEN DER URKUNDSPERSONEN
 
 #### § 12
 
-**Sachliche Zuständigkeit 1. allgemein**
+**Sachliche Zuständigkeit**
 
-<sup>1</sup> Die Urkundspersonen sind zuständig für:
+### 1. allgemein
+
+Die Urkundspersonen sind zuständig für:
 
 - 1\. die öffentliche Beurkundung aller Willenserklärungen, für welche diese Form vorgeschrieben ist oder von den Beteiligten gewünscht wird;
+
 - 2\. die Errichtung öffentlicher Urkunden über Tatbestände sowie über rechtliche Verhältnisse;
+
 - 3\. die Besorgung der ihnen durch die Gesetzgebung oder von den zuständigen Behörden übertragenen weiteren Geschäfte der nichtstreitigen Gerichtsbarkeit.
 
 #### § 13
@@ -170,9 +184,11 @@ beschliesst:
 
 #### § 15
 
-**Beurkundungstätigkeit 1. Auftrag**
+**Beurkundungstätigkeit**
 
-<sup>1</sup> Die Urkundsperson darf ihr Amt nur ausüben, wenn sie mindestens von einer Partei ausdrücklich dazu beauftragt wird.
+### 1. Auftrag
+
+Die Urkundsperson darf ihr Amt nur ausüben, wenn sie mindestens von einer Partei ausdrücklich dazu beauftragt wird.
 
 #### § 16
 
@@ -183,7 +199,9 @@ beschliesst:
 <sup>2</sup> Die Urkundsperson muss die Vornahme einer öffentlichen Beurkundung ablehnen, wenn:
 
 - 1\. ein gesetzlicher Ausstandsgrund besteht;
+
 - 2\. das, was öffentlich zu beurkunden wäre, rechtlich unmöglich oder widerrechtlich ist oder gegen die guten Sitten verstösst, oder wenn sich die Urkundsperson ausserstande sieht, die rechtliche Tragweite des abzuschliessenden Rechtsgeschäftes nach menschlichem Ermessen zu überblicken;
+
 - 3\. die Handlungsfähigkeit gemäss § 23 nicht vorliegt.
 
 #### § 17
@@ -193,15 +211,18 @@ beschliesst:
 <sup>1</sup> Die Urkundsperson hat in den Ausstand zu treten:
 
 - 1\. in eigener Sache oder wenn sie sonst ein unmittelbares persönliches Interesse am abzuschliessenden Rechtsgeschäft hat;
-- 2\. in Sachen einer Person, die in gerader Linie oder bis und mit dem dritten Grad der Seitenlinie verwandt oder verschwägert ist;
-- 2a. in Sachen der Ehegattin oder des Ehegatten und der Partnerin oder des Partners aus eingetragener Partnerschaft;
-- 2b. in Sachen der Ehegattin oder des Ehegatten und der Partnerin oder des Partners aus eingetragener Partnerschaft von Geschwistern;
-- 3\. in Sachen der Pflegeeltern, eines Pflegekindes sowie einer Person, deren Beistand oder Vormund sie ist;
+
+2.<sup>18</sup> in Sachen einer Person, die in gerader Linie oder bis und mit dem dritten Grad der Seitenlinie verwandt oder verschwägert ist;
+
+2a.<sup>16</sup>in Sachen der Ehegattin oder des Ehegatten und der Partnerin oder des Partners aus eingetragener Partnerschaft;
+
+2b.<sup>16</sup>in Sachen der Ehegattin oder des Ehegatten und der Partnerin oder des Partners aus eingetragener Partnerschaft von Geschwistern; 3.<sup>18</sup> in Sachen der Pflegeeltern, eines Pflegekindes sowie einer Person, deren Beistand oder Vormund sie ist;
+
 - 4\. in Sachen einer juristischen Person des öffentlichen oder privaten Rechts, deren leitendem Organ (administrative Behörden, Vorstand, Verwaltung oder dergleichen) oder deren Kontrollstelle sie selbst oder eine der in Ziff. 2 und 3 genannten Personen angehört, sowie in Sachen einer Kollektiv- oder Kommanditgesellschaft, deren Mitglied sie ist.
 
 <sup>2</sup> Weitergehende Bestimmungen des Bundesrechts bleiben vorbehalten.
 
-<sup>3</sup> Der auf Ehe oder eingetragener Partnerschaft beruhende Ausschliessungsgrund bleibt auch nach deren Auflösung bestehen.
+<sup>3</sup> Der auf Ehe oder eingetragener Partnerschaft beruhende Ausschliessungsgrund bleibt auch nach deren Auflösung bestehen.<sup>16</sup>
 
 #### § 18
 
@@ -214,6 +235,7 @@ beschliesst:
 <sup>3</sup> Das Amtsgeheimnis gilt nicht:
 
 - 1\. gegenüber vorgesetzten Behörden in deren Zuständigkeitsbereich;
+
 - 2\. im Rahmen der Zeugnispflicht und der übrigen durch die Gesetzgebung vorgesehenen Ausnahmen.
 
 #### § 19
@@ -230,7 +252,7 @@ beschliesst:
 
 **Sorgfalt**
 
-<sup>1</sup> Die Urkundsperson hat die öffentliche Beurkundung mit Sorgfalt vorzubereiten und auszuführen.
+Die Urkundsperson hat die öffentliche Beurkundung mit Sorgfalt vorzubereiten und auszuführen.
 
 #### § 21
 
@@ -254,9 +276,7 @@ beschliesst:
 
 <sup>1</sup> Die Urkundsperson hat festzustellen, dass die Beteiligten urteilsfähig sind.
 
-<sup>2</sup> Ist zur verbindlichen Abgabe einer Willenserklärung die Handlungsfähigkeit notwendig oder müssen andere Voraussetzungen (wie Testierfähigkeit gemäss Art. 467 ZGB[^23-1]) erfüllt sein, ist auch das Vorhandensein dieser Erfordernisse zu prüfen.
-
-[^23-1]: SR 210
+<sup>2</sup> Ist zur verbindlichen Abgabe einer Willenserklärung die Handlungsfähigkeit notwendig oder müssen andere Voraussetzungen (wie Testierfähigkeit gemäss Art. 467 ZGB<sup>4</sup>) erfüllt sein, ist auch das Vorhandensein dieser Erfordernisse zu prüfen.
 
 #### § 24
 
@@ -266,19 +286,23 @@ beschliesst:
 
 <sup>2</sup> Sofern die Urkundsparteien nicht etwas anderes vereinbaren, hat sich die Urkundsperson in der Urkunde beauftragen zu lassen, erforderliche Genehmigungen einzuholen beziehungsweise Anmeldungen vorzunehmen.
 
-## 4 Beurkundungsverfahren
+### IV. BEURKUNDUNGSVERFAHREN
 
 #### § 25
 
-**Allgemein 1. Einheit des Aktes a) Grundsatz**
+**Allgemein**
+
+### 1. Einheit des Aktes
+
+- a) Grundsatz
 
 <sup>1</sup> Der Beurkundungsakt darf nicht unterbrochen werden.
 
 <sup>2</sup> Sofern mehrere Beteiligte an der Beurkundung teilnehmen, haben alle gleichzeitig anwesend zu sein oder, wo die Gesetzgebung dies nicht ausschliesst, sich mit schriftlicher Vollmacht vertreten zu lassen.
 
-#### § 26
+#### § 26 b
 
-**b) Ausnahmen**
+**) Ausnahmen**
 
 <sup>1</sup> In begründeten Fällen kann die Beurkundungskommission auf Gesuch hin gestatten, dass der Beurkundungsakt aufgeteilt wird.
 
@@ -293,7 +317,9 @@ beschliesst:
 <sup>2</sup> Die Urkunde muss nicht vorgelesen werden:
 
 - 1\. bei Beurkundungen von einseitigen Willenserklärungen;
+
 - 2\. wenn das Vorlesen gemäss den Bestimmungen der besonderen Gesetzgebung unterbleiben kann;
+
 - 3\. wenn auf besonderes Gesuch hin die Beurkundungskommission den Verzicht auf das Vorlesen bewilligt.
 
 <sup>3</sup> Wird die Urkunde den Beteiligten nicht vorgelesen, ist dies auf der Urkunde zu vermerken.
@@ -310,19 +336,23 @@ beschliesst:
 
 #### § 29
 
-**4. Formale Bestandteile a) allgemein**
+**4. Formale Bestandteile**
 
-<sup>1</sup> Die öffentliche Urkunde hat zu enthalten:
+- a) allgemein Die öffentliche Urkunde hat zu enthalten:
 
 - 1\. die Bezeichnung der Beteiligten;
+
 - 2\. die Beschreibung des zu beurkundenden Rechtsgeschäftes;
+
 - 3\. den Ort und das Datum der Errichtung;
+
 - 4\. die Unterschriften der Parteien;
+
 - 5\. die Beurkundungsformel, den Stempel und die Unterschrift der Urkundsperson.
 
-#### § 30
+#### § 30 b
 
-**b) Bezeichnung der Beteiligten**
+**) Bezeichnung der Beteiligten**
 
 <sup>1</sup> Am Anfang der Urkunde sind alle an der öffentlichen Beurkundung Beteiligten, einschliesslich der amtierenden Urkundsperson, zu bezeichnen mit Name, Vorname, Geburtsjahr, Heimatort (bei Ausländern Staatszugehörigkeit) und der genauen Adresse.
 
@@ -332,15 +362,17 @@ beschliesst:
 
 #### § 31
 
-**5. Änderungen a) bei der Beurkundung**
+**5. Änderungen**
+
+- a) bei der Beurkundung
 
 <sup>1</sup> Müssen an Urkunden Änderungen vorgenommen werden, sind diese im Text, am Rande oder am Schluss der Urkunde anzubringen; Änderungen dürfen nicht durch Radierungen erfolgen.
 
 <sup>2</sup> Jede einzelne Änderung ist von der Urkundsperson zu visieren und in die Beurkundung einzubeziehen.
 
-#### § 32
+#### § 32 b
 
-**b) nach der Beurkundung**
+**) nach der Beurkundung**
 
 <sup>1</sup> Fehlen nach vollzogener Beurkundung Angaben, die nach den Vorschriften des Zivilrechts für die Gültigkeit nicht erforderlich sind (wie Güterschatzung, Brandversicherung, Dienstbarkeiten, Grundlasten, Grundpfandrechte, Vormerkungen, Anmerkungen) oder erweisen sich solche Angaben als unrichtig, bedarf die Ergänzung oder Änderung einer schriftlichen Erklärung der betroffenen Partei, dass sie davon Kenntnis erhalten habe und, sofern die Eintragung in ein Register notwendig ist, dass sie dieser trotz der neuen Sachlage zustimme.
 
@@ -368,9 +400,9 @@ beschliesst:
 
 #### § 34a
 
-**8. elektronische Ausfertigung**
+**8. elektronische Ausfertigung<sup>19</sup>**
 
-<sup>1</sup> Die Urkundspersonen sind ermächtigt, die von ihnen errichteten öffentlichen Urkunden zusätzlich elektronisch auszufertigen. Der Regierungsrat erlässt die erforderlichen Bestimmungen.
+Die Urkundspersonen sind ermächtigt, die von ihnen errichteten öffentlichen Urkunden zusätzlich elektronisch auszufertigen. Der Regierungsrat erlässt die erforderlichen Bestimmungen.
 
 #### § 35
 
@@ -390,14 +422,20 @@ beschliesst:
 
 #### § 37
 
-**Ordentliches Beurkundungsverfahren 1. mehrere Urkundsparteien**
+**Ordentliches Beurkundungsverfahren**
+
+### 1. mehrere Urkundsparteien
 
 <sup>1</sup> Die Amtshandlung der Beurkundung geschieht unter Vorbehalt von § 25 und folgende, wie folgt:
 
 - 1\. die Urkundsperson hat den Urkundsparteien die Urkunde ohne wesentlichen Unterbruch vorzulesen;
+
 - 2\. die Urkundsparteien haben hierauf zu erklären, dass ihnen die Urkunde von der Urkundsperson vorgelesen wurde und ihren Willen enthalte;
+
 - 3\. die Urkundsparteien haben die Urkunde zu unterzeichnen;
+
 - 4\. die Urkundsperson hat zu bescheinigen, dass sie den Text der Urkunde den Parteien vorgelesen habe, dass die Parteien ihr erklärt haben, die Urkunde entspreche ihrem Willen, und dass die Parteien die Urkunde unmittelbar nach dem Vorlesen und in Gegenwart der Urkundsperson unterzeichnet haben;
+
 - 5\. die Urkundsperson hat die Urkunde auf jeder Seite zu stempeln und am Schluss eigenhändig zu unterzeichnen.
 
 <sup>2</sup> Abweichende Vorschriften des Bundesrechts bleiben vorbehalten.
@@ -406,11 +444,13 @@ beschliesst:
 
 **2. eine Urkundspartei**
 
-<sup>1</sup> Das Vorgehen gemäss § 37 ist sinngemäss auch dann einzuhalten, wenn die Erklärung einer einzigen Urkundspartei öffentlich zu beurkunden ist.
+Das Vorgehen gemäss § 37 ist sinngemäss auch dann einzuhalten, wenn die Erklärung einer einzigen Urkundspartei öffentlich zu beurkunden ist.
 
 #### § 39
 
-**Ausserordentliches Beurkundungsverfahren 1. Ersatz der Unterschrift**
+**Ausserordentliches Beurkundungsverfahren**
+
+### 1. Ersatz der Unterschrift
 
 <sup>1</sup> Wenn eine Urkundspartei erklärt, nicht selber unterzeichnen zu können, sind zwei Zeugen beizuziehen.
 
@@ -432,17 +472,21 @@ beschliesst:
 
 #### § 41
 
-**Besondere Beurkundungen 1. Verträge über Grundeigentum**
+**Besondere Beurkundungen**
+
+### 1. Verträge über Grundeigentum
 
 <sup>1</sup> Verträge betreffend Übertragung von Grundeigentum haben neben den Angaben gemäss § 29 zu enthalten:
 
 - 1\. die vollständige Grundstückbeschreibung anhand eines Grundbuchauszuges neuesten Standes;
+
 - 2\. den Zeitpunkt des Beginnes von Nutzen und Schaden;
+
 - 3\. den Preis und die Zahlungsweise, soweit es sich um ein entgeltliches Rechtsgeschäft handelt.
 
 <sup>2</sup> Bei Veräusserung eines von einem Grundstück abzutrennenden Teiles ist auf den Mutationsplan zu verweisen; in solchen Verträgen sind überdies die beschränkten dinglichen Rechte, Vormerkungen und Anmerkungen zu bereinigen.
 
-<sup>3</sup> Werden unter angrenzenden Grundstücken verschiedener Eigentümer Flächen von je nicht mehr als 300 m² abgetauscht oder erworben, kann auf Verlangen der Urkundsparteien auf die Aufführung der Dienstbarkeiten und Grundlasten, Vor- und Anmerkungen sowie Grundpfandrechte verzichtet werden, sofern nicht gleichzeitig Dienstbarkeiten, Grundlasten und Grundpfandrechte bereinigt oder errichtet werden; in solche Verträge ist die Erklärung der Urkundsparteien aufzunehmen, dass sie vom Grundbuchauszug Kenntnis genommen haben und auf dessen vollständige Wiedergabe verzichten.
+<sup>3</sup> Werden unter angrenzenden Grundstücken verschiedener Eigentümer Flächen von je nicht mehr als 300 m2 abgetauscht oder erworben, kann auf Verlangen der Urkundsparteien auf die Aufführung der Dienstbarkeiten und Grundlasten, Vor- und Anmerkungen sowie Grundpfandrechte verzichtet werden, sofern nicht gleichzeitig Dienstbarkeiten, Grundlasten und Grundpfandrechte bereinigt oder errichtet werden; in solche Verträge ist die Erklärung der Urkundsparteien aufzunehmen, dass sie vom Grundbuchauszug Kenntnis genommen haben und auf dessen vollständige Wiedergabe verzichten.
 
 <sup>4</sup> Werden Dienstbarkeiten errichtet, muss aus dem Vertrag hervorgehen, in welcher Art und in welchem Umfang das Grundstück dem Berechtigten dienstbar gemacht werden soll; die Dienstbarkeiten sind unter Angabe des Stichwortes für das belastete und das berechtigte Grundstück anzumelden.
 
@@ -457,14 +501,23 @@ beschliesst:
 <sup>2</sup> Die öffentliche Urkunde hat unter Vorbehalt abweichender Bundesvorschriften zu enthalten:
 
 - 1\. die Angabe von Ort und Datum der Versammlung;
+
 - 2\. die Konstituierung des Versammlungsbüros, wobei ein Vorsitzender, ein Protokollführer und mindestens ein Stimmenzähler zu bezeichnen sind; die gleiche Person kann Protokollführer und Stimmenzähler sein;
+
 - 3\. die Feststellungen des Versammlungsvorsitzenden über:
-  - a) die gesetzes- und statutengemässe Einberufung der Versammlung;
-  - b) die Anzahl der Teilnehmer und der durch sie vertretenen Rechte;
-  - c) die Beschlussfähigkeit der Versammlung;
-  - d) allfällige Einwendungen zu diesen Feststellungen;
+
+- a) die gesetzes- und statutengemässe Einberufung der Versammlung;
+
+- b) die Anzahl der Teilnehmer und der durch sie vertretenen Rechte;
+
+- c) die Beschlussfähigkeit der Versammlung;
+
+- d) allfällige Einwendungen zu diesen Feststellungen;
+
 - 4\. die gefassten Beschlüsse im genauen Wortlaut und bei Abstimmungen das Stimmenverhältnis;
+
 - 5\. die Unterschrift des Versammlungsvorsitzenden und des Protokollführers;
+
 - 6\. die Unterschrift der Urkundsperson mit der Bescheinigung, dass sie der Verhandlung über die zu beurkundenden Gegenstände von Anfang bis Ende ununterbrochen beigewohnt hat.
 
 <sup>3</sup> Die Urkundsperson ist berechtigt, die Urkunde erst nach Abschluss der Versammlung zu verfassen und sie nach dem Einholen der Unterschriften des Versammlungsvorsitzenden und des Protokollführers zu unterzeichnen; verweigern Vorsitzender oder Protokollführer ihre Unterschrift, hat die Urkundsperson dies am Schluss der Urkunde unter Angabe der ihr allenfalls genannten Gründe festzuhalten.
@@ -473,7 +526,7 @@ beschliesst:
 
 **3. weitere gesellschaftsrechtliche Feststellungen**
 
-<sup>1</sup> Die öffentliche Urkunde über weitere durch die Gesetzgebung vorgeschriebene gesellschaftsrechtliche Feststellungen besteht in der Bescheinigung der Urkundsperson, dass die vom Bundesrecht verlangten Anforderungen nach ihren Feststellungen oder nach den ihr unterbreiteten Unterlagen erfüllt sind.
+Die öffentliche Urkunde über weitere durch die Gesetzgebung vorgeschriebene gesellschaftsrechtliche Feststellungen besteht in der Bescheinigung der Urkundsperson, dass die vom Bundesrecht verlangten Anforderungen nach ihren Feststellungen oder nach den ihr unterbreiteten Unterlagen erfüllt sind.
 
 #### § 44
 
@@ -482,9 +535,13 @@ beschliesst:
 <sup>1</sup> Eine öffentliche Urkunde ist nichtig, wenn die Vorschriften über folgende Gegenstände verletzt werden:
 
 - 1\. Zuständigkeit (§ 12 und § 14);
+
 - 2\. Unvereinbarkeit (§ 13);
+
 - 3\. Ausstand (§ 11 Abs. 2 und § 17);
+
 - 4\. Fähigkeit von Nebenpersonen (§ 11 Abs. 1);
+
 - 5\. Verfahren (§ 25 bis § 30, § 33 und § 34, § 37 bis § 43).
 
 <sup>2</sup> Bei fehlerhaften Änderungen oder Korrekturen sowie bei Rasuren (§ 31 und § 32) entscheidet die Beurkundungskommission, ob die öffentliche Urkunde ganz oder teilweise nichtig ist.
@@ -497,18 +554,20 @@ beschliesst:
 
 **Musterbuch**
 
-<sup>1</sup> Die Beurkundungskommission kann im Sinne einer Wegleitung eine Mustersammlung von öffentlichen Urkunden herausgeben
+Die Beurkundungskommission kann im Sinne einer Wegleitung eine Mustersammlung von öffentlichen Urkunden herausgeben
 
-## 5 Beglaubigungen
+### V. BEGLAUBIGUNGEN
 
 #### § 45a
 
-**Zuständigkeit**
+**Zuständigkeit<sup>11</sup>**
 
 <sup>1</sup> Bei der Vornahme von Beglaubigungen gelten zudem als Urkundspersonen folgende Beamte, auch wenn sie den Befähigungsausweis nicht besitzen:
 
 - 1\. Landschreiberin oder Landschreiber sowie Landratssekretärin oder Landratssekretär;
+
 - 2\. Gemeindeschreiber;
+
 - 3\. Handelsregister- und Güterrechtsregisterführer sowie dessen Stellvertreter.
 
 <sup>2</sup> Diese Beamten unterstehen insoweit den einschlägigen Bestimmungen der Beurkundungsgesetzgebung; sie verwenden bei der Beglaubigung den Amtsstempel.
@@ -535,27 +594,25 @@ beschliesst:
 
 #### § 47a
 
-**Elektronische Beglaubigung**
+**Elektronische Beglaubigung<sup>19</sup>**
 
-<sup>1</sup> Die Urkundspersonen sind ermächtigt, die Übereinstimmung der von ihnen erstellen elektronischen Kopien mit den Originaldokumenten in Papierform und die Echtheit von Unterschriften elektronisch zu beglaubigen. Der Regierungsrat erlässt die erforderlichen Bestimmungen.
+Die Urkundspersonen sind ermächtigt, die Übereinstimmung der von ihnen erstellen elektronischen Kopien mit den Originaldokumenten in Papierform und die Echtheit von Unterschriften elektronisch zu beglaubigen. Der Regierungsrat erlässt die erforderlichen Bestimmungen.
 
 #### § 48
 
 **Überbeglaubigung**
 
-<sup>1</sup> Für die Überbeglaubigung sind, wenn die Gesetzgebung nichts anderes bestimmt, die Landschreiberin oder der Landschreiber sowie die Landratssekretärin oder der Landratssekretär zuständig.
+<sup>1</sup> Für die Überbeglaubigung sind, wenn die Gesetzgebung nichts anderes bestimmt, die Landschreiberin oder der Landschreiber sowie die Landratssekretärin oder der Landratssekretär<sup>14</sup> zuständig.
 
-<sup>2</sup> Die Urkundspersonen, deren Unterschrift überbeglaubigt werden soll, haben ihre Unterschrift im Beglaubigungsbuch einzutragen.
+<sup>2</sup> Die Urkundspersonen, deren Unterschrift überbeglaubigt werden soll, haben ihre Unterschrift im Beglaubigungsbuch<sup>14</sup> einzutragen.
 
-## 6 Gebühren
+### VI. GEBÜHREN
 
 #### § 49
 
 **Grundsatz**
 
-<sup>1</sup> Die Gebühren richten sich nach den Vorschriften der Verordnung über die Beurkundungsgebühren[^49-1].
-
-[^49-1]: NG 268.12
+Die Gebühren richten sich nach den Vorschriften der Verordnung über die Beurkundungsgebühren<sup>5</sup>.
 
 #### § 50
 
@@ -563,11 +620,11 @@ beschliesst:
 
 <sup>1</sup> Die Urkundsperson besitzt an der von ihr errichteten öffentlichen Urkunde, an den ihr im Zusammenhang mit der Beurkundung anvertrauten Akten sowie an den ihr für die Vornahme einer Beglaubigung vorgelegten Dokumenten bis zur Bezahlung der Gebühren ein Retentionsrecht.
 
-<sup>2</sup> Bei Streitigkeiten über dieses Retentionsrecht entscheidet die Beurkundungskommission durch Verfügung.
+<sup>2</sup> Bei Streitigkeiten über dieses Retentionsrecht entscheidet die Beurkundungskommission durch Verfügung.<sup>20</sup>
 
-<sup>3</sup> …
+<sup>3</sup> ...<sup>20</sup>
 
-## 7 Kontrolle und Verantwortlichkeit
+### VII. KONTROLLE UND VERANTWORTLICHKEIT
 
 #### § 51
 
@@ -583,25 +640,25 @@ beschliesst:
 
 #### § 52
 
-**Vermögensrechtliche Verantwortlichkeit 1. Rechtsanwälte**
+**Vermögensrechtliche Verantwortlichkeit**
 
-<sup>1</sup> Die vermögensrechtliche Haftung der Rechtsanwälte in ihrer Eigenschaft als Urkundsperson richtet sich sinngemäss nach den Vorschriften des Obligationenrechts[^52-1].
+### 1. Rechtsanwälte
+
+<sup>1</sup> Die vermögensrechtliche Haftung der Rechtsanwälte in ihrer Eigenschaft als Urkundsperson richtet sich sinngemäss nach den Vorschriften des Obligationenrechts<sup>6</sup>.
 
 <sup>2</sup> Die Rechtsanwälte haben für ihre Tätigkeit als Urkundspersonen eine Haftpflichtversicherung abzuschliessen; der minimale Deckungsbetrag ist von der Beurkundungskommission festzulegen.
-
-[^52-1]: SR 220
 
 #### § 53
 
 **2. übrige Urkundspersonen**
 
-<sup>1</sup> Die vermögensrechtliche Haftung der übrigen Urkundspersonen richtet sich nach den Vorschriften des Gesetzes über die Haftung des Gemeinwesens und seiner Funktionäre[^53-1].
-
-[^53-1]: NG 161.2
+Die vermögensrechtliche Haftung der übrigen Urkundspersonen richtet sich nach den Vorschriften des Gesetzes über die Haftung des Gemeinwesens und seiner Funktionäre<sup>7</sup>.
 
 #### § 54
 
-**Disziplinarische Verantwortlichkeit 1. Grundsatz**
+**Disziplinarische Verantwortlichkeit**
+
+### 1. Grundsatz
 
 <sup>1</sup> Die Urkundsperson, die vorsätzlich oder fahrlässig ihre Dienstpflicht verletzt, ist disziplinarisch verantwortlich.
 
@@ -611,74 +668,114 @@ beschliesst:
 
 #### § 55
 
-**2. Disziplinarverfahren a) Einleitung**
+**2. Disziplinarverfahren**
+
+- a) Einleitung
 
 <sup>1</sup> Die Beurkundungskommission leitet von Amtes wegen oder auf Anzeige einer Urkundspartei oder Dritter das Disziplinarverfahren ein.
 
 <sup>2</sup> Behörden und Beamte der Rechtspflege haben bei Einleitung eines Strafverfahrens gegen eine Urkundsperson wegen eines Verbrechens oder vorsätzlichen Vergehens der Beurteilungskommission unverzüglich Anzeige zu machen.
 
-#### § 56
+#### § 56 b
 
-**b) vorsorgliche Einstellung**
+**) vorsorgliche Einstellung**
 
-<sup>1</sup> Die Beurkundungskommission kann in schweren Fällen die Beurkundungsbefugnis für die Dauer des Strafverfahrens vorsorglich entziehen.
+Die Beurkundungskommission kann in schweren Fällen die Beurkundungsbefugnis für die Dauer des Strafverfahrens vorsorglich entziehen.
 
-#### § 57
+#### § 57 c
 
-**c) Disziplinarstrafen**
+**) Disziplinarstrafen**
 
 <sup>1</sup> Es können folgende Disziplinarstrafen ausgesprochen werden:
 
 - 1\. mündlicher oder schriftlicher Verweis für nicht schwerwiegende oder erstmalige Verfehlungen;
-- 2\. Ordnungsbussen bis zu Fr. 1'000.– für schwerwiegende oder wiederholte Verfehlungen;
+
+- 2\. Ordnungsbussen bis zu Fr. 1000.- für schwerwiegende oder wiederholte Verfehlungen;
+
 - 3\. Entzug des Befähigungsausweises auf befristete oder unbefristete Zeitdauer für sehr schwere Verfehlungen, nach wiederholter Ausfällung von Ordnungsbussen sowie bei fruchtloser Pfändung oder Konkurs.
 
 <sup>2</sup> Disziplinarstrafen können mit Weisungen oder Auflagen verbunden werden.
 
-#### § 58
+#### § 58 d
 
-**d) Verfahren**
+**) Verfahren**
 
-<sup>1</sup> Für das Verfahren gelten sinngemäss die Bestimmungen der Art. 63 bis 66 und 68 des Beamtengesetzes[^58-1].
+<sup>1</sup> Für das Verfahren gelten sinngemäss die Bestimmungen der Art. 63 bis 66 und 68 des Beamtengesetzes<sup>8</sup>.
 
 <sup>2</sup> Der Entzug des Befähigungsausweises gemäss § 57 Abs. 1 Ziff. 3 ist im Amtsblatt zu veröffentlichen.
 
-[^58-1]: NG 165.1
+#### § 59 e
 
-#### § 59
-
-**e) Verfolgungsverjährung**
+**) Verfolgungsverjährung**
 
 <sup>1</sup> Disziplinartatbestände verjähren zwei Jahre nach ihrer Begehung; wo das Strafrecht für bestimmte Tatbestände eine längere Verjährungsfrist vorsieht, gilt diese auch für das Disziplinarrecht.
 
-<sup>2</sup> Während der Dauer eines Disziplinarverfahrens sowie einer strafrechtlichen Untersuchung ruht die disziplinarische Verjährung; Art. 98 StGB[^59-1] ist anwendbar.
+<sup>2</sup> Während der Dauer eines Disziplinarverfahrens sowie einer strafrechtlichen Untersuchung ruht die disziplinarische Verjährung; Art. 98 StGB<sup>9</sup> ist anwendbar.<sup>15</sup>
 
-[^59-1]: SR 311.0
+#### § 60 f
 
-#### § 60
+**) Gebühren**
 
-**f) Gebühren**
+Im Disziplinarverfahren können dem Betroffenen angemessene Gebühren auferlegt werden; dies gilt auch dann, wenn keine Disziplinarstrafe ausgefällt wird, der Betroffene jedoch zum Verfahren Anlass gegeben hat.
 
-<sup>1</sup> Im Disziplinarverfahren können dem Betroffenen angemessene Gebühren auferlegt werden; dies gilt auch dann, wenn keine Disziplinarstrafe ausgefällt wird, der Betroffene jedoch zum Verfahren Anlass gegeben hat.
-
-## 8 Übergangs- und Schlussbestimmungen
+### VIII. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### § 61
 
 **Bisherige Urkundspersonen und Rechtsanwälte**
 
-<sup>1</sup> Die bisherigen Urkundspersonen, die nach dem neuen Recht ebenfalls zugelassen sind, sowie die beim Inkrafttreten dieser Verordnung im Kanton wohnhaften frei praktizierenden Rechtsanwälte erhalten den Befähigungsausweis ohne Prüfung, sofern sie binnen sechs Monaten bei der Beurkundungskommission darum schriftlich nachsuchen; diese Erteilung ist gebührenpflichtig.
+Die bisherigen Urkundspersonen, die nach dem neuen Recht ebenfalls zugelassen sind, sowie die beim Inkrafttreten dieser Verordnung im Kanton wohnhaften frei praktizierenden Rechtsanwälte erhalten den Befähigungsausweis ohne Prüfung, sofern sie binnen sechs Monaten bei der Beurkundungskommission darum schriftlich nachsuchen; diese Erteilung ist gebührenpflichtig.
 
 #### § 62
 
 **Rechtskraft**
 
-<sup>1</sup> Diese Verordnung untersteht dem fakultativen Referendum.
+**1**
 
-<sup>2</sup> Sie tritt gemäss Art. 46 des Organisationsgesetzes[^62-1] in Kraft.
+Diese Verordnung untersteht dem fakultativen Referendum. Sie tritt gemäss Art. 46 des Organisationsgesetzes<sup>10</sup> in Kraft.
 
-<sup>3</sup> Alle mit ihr in Widerspruch stehenden Bestimmungen sind aufgehoben.
+**2**
 
-[^62-1]: NG 151.1 (heute aufgehoben)
+**3**
 
-A 1974, 1674; 1975, 130
+Alle mit ihr in Widerspruch stehenden Bestimmungen sind aufgehoben.
+
+<sup>1</sup> A 1974, 1674; 1975, 130
+
+<sup>2</sup> NG 268.1
+
+<sup>3</sup> NG 265.1
+
+<sup>4</sup> SR 210
+
+<sup>5</sup> NG 268.12
+
+<sup>6</sup> SR 220
+
+<sup>7</sup> NG 161.2
+
+<sup>8</sup> NG 165.1
+
+<sup>9</sup> SR 311.0
+
+<sup>10</sup> NG 151.1 (heute aufgehoben)
+
+<sup>11</sup> Fassung gemäss Landratsbeschluss vom 16. Dezember 1983, A 1983, 1195; 1984, 260
+
+<sup>12</sup> Fassung gemäss Landratsbeschluss vom 8. Februar 1985, A 1985, 183, 489
+
+<sup>13</sup> Fassung gemäss Landratsbeschluss vom 24. Juni 1992, A 1992, 1093, 1585; in Kraft seit 1. Oktober 1992
+
+<sup>14</sup> Fassung gemäss Landratsbeschluss vom 4. Februar 1998, A 1998, 216
+
+<sup>15</sup> Fassung gemäss Landratsbeschluss vom 25. Oktober 2006, A 2006, 1705, A 2007, 5; in Kraft seit 1. Januar 2007
+
+<sup>16</sup> Fassung gemäss Landratsbeschluss vom 23. Januar 2008, A 2008, 179, 694; in Kraft seit 1. Mai 2008
+
+<sup>17</sup> Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1769; in Kraft seit 1. Januar 2012
+
+<sup>18</sup> Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1743; A 2012, 558; in Kraft seit 1. Januar 2013
+
+<sup>19</sup> Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1769; A 2014, 2227; in Kraft seit 1. Januar 2015
+
+<sup>20</sup> Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
