@@ -5,20 +5,20 @@ title: Gesetz über die politischen Rechte im Kanton
 short: "Wahl- und Abstimmungsgesetz, WAG"
 language: de
 version: 2017-08-01
+corrected: 2021-10-07
 version_adopted: 2017-04-12
 adopted: 1997-03-26
 in_force: 1997-06-15
 url: "https://gesetze.nw.ch/app/de/texts_of_law/132.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/614/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/16/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die politischen Rechte im Kanton
+# Gesetz über die politischen Rechte im Kanton (Wahl- und Abstimmungsgesetz, WAG)<sup>17</sup>
 
-(Wahl- und Abstimmungsgesetz, WAG)
-
-vom 26.03.1997 (Stand 01.08.2017)
+vom 26. März 1997[^t-1]
 
 Der Landrat von Nidwalden,
 
@@ -26,7 +26,9 @@ gestützt auf Art. 60 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: A 1997, 509, 859; vom Bund genehmigt am 30. April 1997; in Kraft seit 15. Juni 1997
+
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -37,7 +39,8 @@ beschliesst:
 <sup>2</sup> Vom Stimm- und Wahlrecht ausgeschlossen ist, wer wegen dauernder Urteilsunfähigkeit:
 
 - 1\. unter umfassender Beistandschaft steht; oder
-- 2\. durch eine vorsorgebeauftragte Person vertreten ist.
+
+- 2\. durch eine vorsorgebeauftragte Person vertreten ist.<sup>17</sup>
 
 #### Art. 2
 
@@ -55,11 +58,11 @@ beschliesst:
 
 <sup>1</sup> Die Stimmberechtigten üben ihr Stimm- und Wahlrecht in den Politischen Gemeinden aus.
 
-Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
+<sup>2</sup> Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 4
 
-**Fristen**
+**Fristen<sup>20</sup>**
 
 <sup>1</sup> Die Frist ist eingehalten, wenn die Eingabe am letzten Tag der Frist bis 12.00 Uhr beim kantonalen Abstimmungsbüro eingetroffen ist.
 
@@ -83,7 +86,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **Kostentragung**
 
-<sup>1</sup> Die Gemeinden tragen die Kosten der Führung des Stimmregisters und der Zustellung des Stimmmaterials sowie jene des kommunalen Abstimmungsbüros; die übrigen Kosten von kantonalen Abstimmungen gehen zulasten des Kantons.
+Die Gemeinden tragen die Kosten der Führung des Stimmregisters und der Zustellung des Stimmmaterials sowie jene des kommunalen Abstimmungsbüros; die übrigen Kosten von kantonalen Abstimmungen gehen zulasten des Kantons.
 
 #### Art. 7
 
@@ -94,11 +97,12 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 <sup>2</sup> Betreffend das Antrags- und Gegenvorschlagsrecht gelten folgende Ausnahmen:
 
 - 1\. stimmberechtigt sind jene Personen, die das Aktivbürgerrecht sowie im Kanton ein Korporationsbürgerrecht besitzen;
+
 - 2\. das Antrags- und Gegenvorschlagsrecht steht den gemäss Ziffer 1 stimmberechtigten Personen, dem Landrat und den Korporationsräten zu.
 
-## 2 Antrags- und Gegenvorschlagsrecht
+### II. ANTRAGS- UND GEGENVORSCHLAGSRECHT
 
-### 2.1 Allgemeine Bestimmungen
+### A. Allgemeine Bestimmungen
 
 #### Art. 8
 
@@ -125,7 +129,9 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 <sup>1</sup> Anträge und Gegenvorschläge müssen:
 
 - 1\. eindeutig abgefasst sein;
+
 - 2\. eine Begründung, den Titel und den Text der Sachvorlage enthalten;
+
 - 3\. mit dem Datum und der Unterschrift der Erstunterzeichnenden versehen sein.
 
 <sup>2</sup> Anträge und Gegenvorschläge des Landrates müssen eindeutig abgefasst sein und den Titel sowie den Text der Sachvorlage enthalten; sie sind unverzüglich im Amtsblatt zu veröffentlichen.
@@ -136,7 +142,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 <sup>5</sup> Werden mehrere Gegenvorschläge eingereicht, ist der Titel von der Staatskanzlei mit einem Vermerk zu ergänzen.
 
-<sup>6</sup> Ist eine Unterschriftensammlung notwendig, gelten zusätzlich die Bestimmungen von Art. 25–32.
+<sup>6</sup> Ist eine Unterschriftensammlung notwendig, gelten zusätzlich die Bestimmungen von Art. 25-32.
 
 #### Art. 11
 
@@ -154,11 +160,15 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 <sup>2</sup> Die Staatskanzlei kann offenkundige Verschriebe korrigieren.
 
-### 2.2 Verfahren bei Anträgen und Gegenvorschlägen, die nicht vom Landrat beschlossen werden
+### B. Verfahren bei Anträgen und Gegenvorschlägen,
+
+die nicht vom Landrat beschlossen werden
 
 #### Art. 13
 
-**Einreichung 1. Anträge**
+**Einreichung**
+
+- 1\. Anträge
 
 <sup>1</sup> Anträge sind bei der Staatskanzlei einzureichen beziehungsweise zu hinterlegen.
 
@@ -180,7 +190,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **3. Fristberechnung bei Hinterlegungen**
 
-<sup>1</sup> Als Datum der Hinterlegung gilt die Veröffentlichung im Amtsblatt.
+Als Datum der Hinterlegung gilt die Veröffentlichung im Amtsblatt.
 
 #### Art. 16
 
@@ -196,9 +206,9 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **Zulässigkeit**
 
-<sup>1</sup> Der Landrat hat auf Antrag des Regierungsrates über die Zulässigkeit der Anträge beziehungsweise Gegenvorschläge zu entscheiden.
+Der Landrat hat auf Antrag des Regierungsrates über die Zulässigkeit der Anträge beziehungsweise Gegenvorschläge zu entscheiden.
 
-## 3 Referendum
+### III. REFERENDUM
 
 #### Art. 18
 
@@ -210,9 +220,11 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 19
 
-**Fakulatives Referendum 1. allgemein**
+**Fakulatives Referendum**
 
-<sup>1</sup> Dem fakultativen Referendum unterstehen die in Art. 52a der Kantonsverfassung genannten Erlasse und Beschlüsse.
+### 1. allgemein
+
+Dem fakultativen Referendum unterstehen die in Art. 52a der Kantonsverfassung genannten Erlasse und Beschlüsse.
 
 #### Art. 20
 
@@ -226,7 +238,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **3. Anordnung der Abstimmung durch den Landrat**
 
-<sup>1</sup> Der Landrat kann unmittelbar nach der Schlussabstimmung zu einem Sachgeschäft gemäss Art. 52a der Kantonsverfassung die Durchführung einer Abstimmung anordnen.
+Der Landrat kann unmittelbar nach der Schlussabstimmung zu einem Sachgeschäft gemäss Art. 52a der Kantonsverfassung die Durchführung einer Abstimmung anordnen.
 
 #### Art. 22
 
@@ -240,7 +252,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **5. Gegenvorschlag**
 
-<sup>1</sup> Wird von 250 Stimmberechtigten ein Gegenvorschlag gemäss Art. 54a Abs. 3 und 4 der Kantonsverfassung eingereicht, ist eine Abstimmung durchzuführen; Art. 11 bleibt vorbehalten.
+Wird von 250 Stimmberechtigten ein Gegenvorschlag gemäss Art. 54a Abs. 3 und 4 der Kantonsverfassung eingereicht, ist eine Abstimmung durchzuführen; Art. 11 bleibt vorbehalten.
 
 #### Art. 24
 
@@ -250,7 +262,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 <sup>2</sup> Der Regierungsrat stellt fest, ob ein Referendumserlass oder Referendumsbeschluss rechtsgültig geworden ist; er veröffentlicht diese Feststellung im Amtsblatt.
 
-## 4 Unterschriftensammlung
+### IV. UNTERSCHRIFTENSAMMLUNG
 
 #### Art. 25
 
@@ -259,15 +271,22 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 <sup>1</sup> Anträge, Gegenvorschläge oder Referendumsbegehren sind auf Bogen einzureichen, die folgende Angaben enthalten müssen:
 
 - 1\. den Namen der Politischen Gemeinde;
+
 - 2\. bei Anträgen und Gegenvorschlägen: den Titel des Begehrens und das Datum der Veröffentlichung im Amtsblatt;
+
 - 3\. bei Referendumsbegehren: den Titel des Sachgeschäftes und das Datum der Veröffentlichung im Amtsblatt;
-- 4\. den Hinweis: «Gemäss Art. 282 des Schweizerischen Strafgesetzbuches wird bestraft, wer unbefugt an einem Initiativ- oder Referendumsbegehren teilnimmt oder wer das Ergebnis einer Unterschriftensammlung zur Ausübung der Initiative oder des Referendums fälscht, insbesondere durch Hinzufügen, Ändern, Weglassen oder Streichen von Unterschriften.»
+
+4.<sup>15</sup> den Hinweis: „Gemäss Art. 282 des Schweizerischen Strafgesetzbuches wird bestraft, wer unbefugt an einem Initiativ- oder Referendumsbegehren teilnimmt oder wer das Ergebnis einer Unterschriftensammlung zur Ausübung der Initiative oder des Referendums fälscht, insbesondere durch Hinzufügen, Ändern, Weglassen oder
+
+### Streichen von Unterschriften.“
 
 <sup>2</sup> Bei Anträgen und Gegenvorschlägen ist zudem die Bezeichnung der zum Rückzug Bevollmächtigten erforderlich.
 
 #### Art. 26
 
-**Unterschriften 1. Anforderungen**
+**Unterschriften**
+
+### 1. Anforderungen<sup>20</sup>
 
 <sup>1</sup> Die stimmberechtigte Person muss ihren Namen und ihren Vornamen handschriftlich und leserlich auf die Unterschriftenliste schreiben sowie zusätzlich ihre eigenhändige Unterschrift beifügen.
 
@@ -287,9 +306,11 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 28
 
-**Stimmrechtsbescheinigung 1. allgemein**
+**Stimmrechtsbescheinigung**
 
-<sup>1</sup> Vor ihrer Einreichung sind die Unterschriftenbogen bei der Einwohnerkontrolle der zuständigen Gemeinde zur Bescheinigung abzugeben.
+### 1. allgemein
+
+<sup>1</sup> Vor ihrer Einreichung sind die Unterschriftenbogen bei der Einwohnerkontrolle der zuständigen Gemeinde zur Bescheinigung abzugeben<sup>20</sup>.
 
 <sup>2</sup> Diese bescheinigt auf dem Bogen das Stimmrecht der Unterzeichnenden, die im Zeitpunkt der Bescheinigung stimmberechtigt sind, und gibt die Bogen binnen dreier Tage zurück.
 
@@ -297,19 +318,19 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **2. Verweigerung der Bescheinigung**
 
-<sup>1</sup> Das Stimmrecht der Unterzeichnenden darf nur bescheinigt werden, wenn der Bogen und die Unterschriften die Voraussetzungen der Art. 25–27 erfüllen.
+Das Stimmrecht der Unterzeichnenden darf nur bescheinigt werden, wenn der Bogen und die Unterschriften die Voraussetzungen der Art. 25-27 erfüllen.
 
 #### Art. 30
 
 **Einreichung**
 
-<sup>1</sup> Die Staatskanzlei vermerkt den Zeitpunkt der Einreichung sowie die Namen der Personen, welche die Bogen übergeben.
+Die Staatskanzlei vermerkt den Zeitpunkt der Einreichung sowie die Namen der Personen, welche die Bogen übergeben.
 
 #### Art. 31
 
-**Behebung von Mängeln der Bescheinigung**
+**Behebung von Mängeln der Bescheinigung<sup>20</sup>**
 
-<sup>1</sup> Die Staatskanzlei lässt Mängel der Bescheinigung, die nicht den Unterzeichnenden zur Last gelegt werden können, von der Einwohnerkontrolle der zuständigen Gemeinde beheben.
+Die Staatskanzlei lässt Mängel der Bescheinigung, die nicht den Unterzeichnenden zur Last gelegt werden können, von der Einwohnerkontrolle der zuständigen Gemeinde beheben.
 
 #### Art. 32
 
@@ -318,15 +339,18 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 <sup>1</sup> Der Regierungsrat hat als ungültig auszuscheiden:
 
 - 1\. die Unterschriften von Unterzeichnenden, deren Stimmrecht nicht bescheinigt ist;
+
 - 2\. die Unterschriften von Unterzeichnenden, deren Stimmrecht zu Unrecht bescheinigt worden ist;
+
 - 3\. die Unterschriften auf Bogen, die verspätet eingereicht worden sind;
+
 - 4\. die überzähligen Unterschriften von Personen, die ein Begehren mehr als einmal unterzeichnet haben.
 
 <sup>2</sup> Der Grund der Ungültigkeit ist auf dem Unterschriftenbogen zu vermerken.
 
 <sup>3</sup> Nach Ausscheidung der ungültigen Unterschriften entscheidet der Regierungsrat, ob das Begehren zustande gekommen ist; dieser Entscheid ist im Amtsblatt zu veröffentlichen.
 
-## 5 Organisation und Abstimmungsverfahren
+### V. ORGANISATION UND ABSTIMMUNGSVERFAHREN
 
 #### Art. 33
 
@@ -335,6 +359,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 <sup>1</sup> Der Gemeinderat wählt:
 
 - 1\. für das Hauptlokal ein Abstimmungsbüro von mindestens drei Mitgliedern;
+
 - 2\. für jedes Nebenlokal ein Abstimmungsbüro von mindestens zwei Mitgliedern.
 
 <sup>2</sup> Das kommunale Abstimmungsbüro setzt sich zusammen aus dem Abstimmungsbüro des Hauptlokals und mindestens je einem Mitglied, das der Gemeinderat aus den Abstimmungsbüros allfälliger Nebenlokale bezeichnet.
@@ -345,19 +370,19 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **Kantonales Abstimmungsbüro**
 
-<sup>1</sup> Das kantonale Abstimmungsbüro besteht aus drei Mitgliedern, die vom Regierungsrat gewählt werden; die Landschreiberin oder der Landschreiber des Regierungsrates hat von Amtes wegen den Vorsitz des Abstimmungsbüros inne.
+Das kantonale Abstimmungsbüro besteht aus drei Mitgliedern, die vom Regierungsrat gewählt werden; die Landschreiberin oder der Landschreiber des Regierungsrates hat von Amtes wegen den Vorsitz des Abstimmungsbüros inne.
 
 #### Art. 35
 
 **Aufsicht**
 
-<sup>1</sup> Der Regierungsrat übt die Aufsicht über die Durchführung kantonaler Wahlen und Abstimmungen aus.
+Der Regierungsrat übt die Aufsicht über die Durchführung kantonaler Wahlen und Abstimmungen aus.
 
 #### Art. 36
 
 **Abstimmungsanordnung**
 
-<sup>1</sup> Der Regierungsrat trifft die für eine Abstimmung notwendigen Anordnungen; er veröffentlicht diese im Amtsblatt.
+Der Regierungsrat trifft die für eine Abstimmung notwendigen Anordnungen; er veröffentlicht diese im Amtsblatt.
 
 #### Art. 37
 
@@ -365,12 +390,15 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 <sup>1</sup> Für die Wahl der Behördenmitglieder sind die folgenden Bestimmungen anwendbar:
 
-- 1\. die Mitglieder des Landrates: Art. 53–58;
-- 2\. die Mitglieder des Regierungsrates: Art. 59–73;
-- 3\. die Abordnung in den Ständerat: Art. 74–76;
-- 4\. …
+- 1\. die Mitglieder des Landrates: Art. 53-58;
 
-<sup>2</sup> Der Regierungsrat setzt die Fristen für die Einreichung der Wahlvorschläge, die öffentliche Auflage sowie die Einsprachen gegen die Wahlvorschläge fest; dieser Beschluss ist im Amtsblatt zu veröffentlichen.
+- 2\. die Mitglieder des Regierungsrates: Art. 59-73;
+
+- 3\. die Abordnung in den Ständerat: Art. 74-76;
+
+- 4\. ...<sup>13</sup>
+
+<sup>2</sup> Der Regierungsrat setzt die Fristen für die Einreichung der Wahlvorschläge, die öffentliche Auflage sowie die Einsprachen gegen die Wahlvorschläge fest; dieser Beschluss ist im Amtsblatt zu veröffentlichen.<sup>20</sup>
 
 #### Art. 38
 
@@ -386,15 +414,15 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 38a
 
-**Abstimmungszeit**
+**Abstimmungszeit<sup>16</sup>**
 
-<sup>1</sup> Der Regierungsrat legt in seinen Weisungen die Abstimmungszeit der Urnen in den Haupt- und Nebenlokalen fest.
+Der Regierungsrat legt in seinen Weisungen die Abstimmungszeit der Urnen in den Haupt- und Nebenlokalen fest.
 
 #### Art. 39
 
 **Stimmrechtsausweis**
 
-<sup>1</sup> Jede stimmberechtigte Person erhält einen Stimmrechtsausweis mit den zur Identifizierung erforderlichen Angaben.
+Jede stimmberechtigte Person erhält einen Stimmrechtsausweis mit den zur Identifizierung erforderlichen Angaben.
 
 #### Art. 40
 
@@ -402,11 +430,15 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 <sup>1</sup> Frühestens vier und spätestens drei Wochen vor dem Abstimmungstag ist den stimmberechtigten Personen durch die Gemeinde folgendes Stimmmaterial zuzustellen:
 
-- 1\. der Stimmrechtsausweis;
+1.<sup>16</sup> der Stimmrechtsausweis;
+
 - 2\. das Stimmkuvert;
+
 - 3\. der Stimmzettel beziehungsweise der Wahlzettel;
+
 - 4\. bei Erlassen und Sachgeschäften: der Wortlaut der Vorlage, die Begründung der Antragstellerin oder des Antragstellers sowie die allfällige Stellungnahme des Regierungsrates;
-- 5\. …
+
+5.<sup>16</sup> ...
 
 <sup>2</sup> Begründung und Stellungnahme müssen kurz und sachlich sein.
 
@@ -416,12 +448,16 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 41
 
-**Verfahren 1. bei Antrag und einem Gegenvorschlag**
+**Verfahren**
+
+### 1. bei Antrag und einem Gegenvorschlag
 
 <sup>1</sup> Bei einer Abstimmung über einen Antrag und einen Gegenvorschlag werden der stimmberechtigten Person auf dem gleichen Stimmzettel die drei folgenden Fragen vorgelegt:
 
 - 1\. ob sie den Antrag dem geltenden Recht vorzieht;
+
 - 2\. ob sie den Gegenvorschlag dem geltenden Recht vorzieht;
+
 - 3\. welche der beiden Vorlagen in Kraft treten soll, wenn sowohl der Antrag als auch der Gegenvorschlag angenommen werden.
 
 <sup>2</sup> Alle drei Fragen können unabhängig voneinander beantwortet werden; das Mehr wird getrennt ermittelt, wobei unbeantwortete Fragen und leere Stimmzettel ausser Betracht fallen.
@@ -430,24 +466,27 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 42
 
-**2. bei Antrag und mehreren Gegenvorschlägen a) Stimmzettel**
+**2. bei Antrag und mehreren Gegenvorschlägen**
+
+- a) Stimmzettel
 
 <sup>1</sup> Bei einer Abstimmung über einen Antrag und mehrere Gegenvorschläge werden der stimmberechtigten Person auf dem gleichen Stimmzettel die folgenden Hauptfragen vorgelegt:
 
 - 1\. ob sie den Antrag dem geltenden Recht vorzieht;
+
 - 2\. ob sie den Gegenvorschlag A, B usw. dem geltenden Recht vorzieht.
 
 <sup>2</sup> Die stimmberechtigte Person hat mittels einer Rangordnung zudem anzugeben, welche Vorlage in Kraft treten soll, wenn mehrere Vorlagen angenommen werden (Zusatzfragen). Jeder Rang darf nur einmal vergeben werden, sonst ist die Beantwortung der Zusatzfragen ungültig.
 
-#### Art. 43
+#### Art. 43 b
 
-**b) Auswertung der Hauptfragen**
+**) Auswertung der Hauptfragen**
 
-<sup>1</sup> Alle Hauptfragen können unabhängig voneinander beantwortet werden; das Mehr wird getrennt ermittelt, wobei unbeantwortete Fragen und leere Stimmzettel ausser Betracht fallen.
+Alle Hauptfragen können unabhängig voneinander beantwortet werden; das Mehr wird getrennt ermittelt, wobei unbeantwortete Fragen und leere Stimmzettel ausser Betracht fallen.
 
-#### Art. 44
+#### Art. 44 c
 
-**c) Auswertung der Zusatzfragen**
+**) Auswertung der Zusatzfragen**
 
 <sup>1</sup> Das kommunale Abstimmungsbüro hat die Rangordnung derart umzusetzen, dass zum Ausdruck kommt, welche Vorlage die stimmberechtigte Person der anderen vorzieht. Die jeweils vorgezogene Vorlage erhält eine Stimme.
 
@@ -457,18 +496,20 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 45
 
-**3. bei einer konsultativen Abstimmung a) Grundsatz**
+**3. bei einer konsultativen Abstimmung**
 
-<sup>1</sup> Für das Verfahren bei konsultativen Abstimmungen gelten sinngemäss die Bestimmungen über das Antragsrecht.
+- a) Grundsatz Für das Verfahren bei konsultativen Abstimmungen gelten sinngemäss die Bestimmungen über das Antragsrecht.
 
-#### Art. 46
+#### Art. 46 b
 
-**b) konsultative Abstimmung mit zwei Varianten**
+**) konsultative Abstimmung mit zwei Varianten**
 
 <sup>1</sup> Werden der stimmberechtigten Person in der gleichen Angelegenheit im Rahmen einer Konsultativabstimmung zwei Varianten unterbreitet, sind ihr auf dem gleichen Stimmzettel die drei folgenden Fragen vorzulegen:
 
 - 1\. ob sie die erste Variante dem geltenden Recht vorzieht;
+
 - 2\. ob sie die zweite Variante dem geltenden Recht vorzieht;
+
 - 3\. welche der Varianten sie bevorzugt, wenn sowohl die erste Variante als auch die zweite Variante mehr Ja-Stimmen als Nein-Stimmen erhalten.
 
 <sup>2</sup> Alle drei Fragen können unabhängig voneinander beantwortet werden; das Mehr wird getrennt ermittelt, wobei unbeantwortete Fragen und leere Stimmzettel ausser Betracht fallen.
@@ -479,29 +520,35 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **Ausfüllen der Stimm- beziehungsweise Wahlzettel**
 
-<sup>1</sup> Die Stimm- beziehungsweise Wahlzettel sind handschriftlich auszufüllen.
+Die Stimm- beziehungsweise Wahlzettel sind handschriftlich auszufüllen.
 
 #### Art. 48
 
-**Ungültige Stimmabgabe**
+**Ungültige Stimmabgabe<sup>16</sup>**
 
 <sup>1</sup> Stimm- beziehungsweise Wahlzettel sind ungültig, wenn:
 
 - 1\. sie nicht amtlich sind;
+
 - 2\. sie anders als handschriftlich ausgefüllt sind;
+
 - 3\. mehr Kandidaturen als freie Sitze angekreuzt worden sind;
+
 - 4\. sie den Willen der Person, die das Aktivbürgerrecht ausübt, nicht eindeutig erkennen lassen;
+
 - 5\. sie ehrverletzende Äusserungen, Bemerkungen oder offensichtliche Kennzeichnungen enthalten.
 
-<sup>2</sup> Enthält ein Rückantwort- oder Stimmkuvert für die gleiche Abstimmung mehrere Stimmzettel, sind sie alle ungültig. Sie zählen zusammen als eine ungültige Stimme.
+<sup>2</sup> Enthält ein Rückantwort- oder Stimmkuvert für die gleiche Abstimmung mehrere Stimmzettel, sind sie alle ungültig. Sie zählen zusammen als eine ungültige Stimme.<sup>20</sup>
 
-<sup>3</sup> Auf den ungültig erklärten Stimmzetteln ist der Grund der Ungültigkeit zu vermerken.
+<sup>3</sup> Auf den ungültig erklärten Stimmzetteln ist der Grund der Ungültigkeit zu vermerken.<sup>20</sup>
 
-## 6 Abstimmungsergebnis
+### VI. ABSTIMMUNGSERGEBNIS
 
 #### Art. 49
 
-**Ermittlung des Abstimmungsergebnisses 1. Sachvorlagen**
+**Ermittlung des Abstimmungsergebnisses**
+
+### 1. Sachvorlagen
 
 <sup>1</sup> Für die Ermittlung des Abstimmungsergebnisses fallen die leeren und ungültigen Stimmzettel ausser Betracht.
 
@@ -515,9 +562,9 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **2. Wahlen**
 
-<sup>1</sup> Das Abstimmungsergebnis der Wahlen in den Landrat ist gemäss den Bestimmungen über die Verhältniswahl des Landrates und jenes der Wahlen in den Regierungsrat gemäss Art. 71–73 zu ermitteln.
+<sup>1</sup> Das Abstimmungsergebnis der Wahlen in den Landrat ist gemäss den Bestimmungen über die Verhältniswahl des Landrates und jenes der Wahlen in den Regierungsrat gemäss Art. 71-73 zu ermitteln.
 
-<sup>2</sup> Das Abstimmungsergebnis für die Wahl der Abordnung in den Ständerat ist sinngemäss nach Art. 71–73 zu ermitteln.
+<sup>2</sup> Das Abstimmungsergebnis für die Wahl der Abordnung in den Ständerat ist sinngemäss nach Art. 71-73 zu ermitteln.<sup>13</sup>
 
 #### Art. 51
 
@@ -528,10 +575,15 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 <sup>2</sup> Das Abstimmungsprotokoll hat zu enthalten:
 
 - 1\. die Anzahl der im Stimmregister eingetragenen Stimmberechtigten;
+
 - 2\. die Anzahl der eingegangenen Stimmrechtsausweise;
+
 - 3\. die Anzahl der leeren, ungültigen und gültigen Stimmzettel beziehungsweise Wahlzettel;
-- 4\. bei Sachvorlagen die Anzahl der Ja- und Nein-Stimmen sowie bei Abstimmungen mit Gegenvorschlägen das Ergebnis der Zusatzfragen;
+
+4.<sup>14</sup> bei Sachvorlagen die Anzahl der Ja- und Nein-Stimmen sowie bei Abstimmungen mit Gegenvorschlägen das Ergebnis der Zusatzfragen;
+
 - 5\. bei Wahlen: die Zahl der auf die einzelnen Kandidatinnen und Kandidaten entfallenden gültigen Stimmen, wobei für die Reihenfolge die Stimmenzahl massgebend ist;
+
 - 6\. das Ergebnis eines allfälligen Losentscheides.
 
 #### Art. 52
@@ -544,27 +596,29 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 <sup>3</sup> Der Erwahrungsbeschluss ist im Amtsblatt zu veröffentlichen.
 
-## 7 Wahlen
+### VII. WAHLEN
 
-### 7.1 Landrat
+### A. Landrat
 
 #### Art. 53
 
 **Wahlkreis**
 
-<sup>1</sup> Die Einteilung der Wahlkreise richtet sich nach Art. 58 der Kantonsverfassung.
+Die Einteilung der Wahlkreise richtet sich nach Art. 58 der Kantonsverfassung.
 
 #### Art. 54
 
-**Sitzverteilung 1. Grundsatz**
+**Sitzverteilung**
 
-<sup>1</sup> Für die Verteilung der Sitze auf die Wahlkreise ist die kantonale Einwohnerinnen- und Einwohnerstatistik (Personen mit Schweizerbürgerrecht sowie Ausländerinnen und Ausländer mit Niederlassungs- und Jahresaufenthaltsbewilligung) vom 31. Dezember des zweiten der Wahl vorausgehenden Kalenderjahres massgebend.
+### 1. Grundsatz
+
+Für die Verteilung der Sitze auf die Wahlkreise ist die kantonale Einwohnerinnen- und Einwohnerstatistik (Personen mit Schweizerbürgerrecht sowie Ausländerinnen und Ausländer mit Niederlassungs- und Jahresaufenthaltsbewilligung) vom 31. Dezember des zweiten der Wahl vorausgehenden Kalenderjahres massgebend.
 
 #### Art. 55
 
 **2. Wahlzahl**
 
-<sup>1</sup> Die Wahlzahl ergibt sich, indem die Zahl der Kantonseinwohnerinnen und Kantonseinwohner durch die Mandatszahl 60 geteilt und das Ergebnis auf die nächste ganze Zahl aufgerundet wird.
+Die Wahlzahl ergibt sich, indem die Zahl der Kantonseinwohnerinnen und Kantonseinwohner durch die Mandatszahl 60 geteilt und das Ergebnis auf die nächste ganze Zahl aufgerundet wird.
 
 #### Art. 56
 
@@ -582,7 +636,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **Wahlfähigkeit**
 
-<sup>1</sup> Für die Wahlfähigkeit gelten die Bestimmungen des Behördengesetzes[^57-1].
+Für die Wahlfähigkeit gelten die Bestimmungen des Behördengesetzes[^57-1].
 
 [^57-1]: NG 161.1
 
@@ -590,11 +644,11 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **Verfahren**
 
-<sup>1</sup> Die Wahlen sind gemäss den Bestimmungen des Gesetzes über die Verhältniswahl des Landrates[^58-1] durchzuführen.
+Die Wahlen sind gemäss den Bestimmungen des Gesetzes über die Verhältniswahl des Landrates[^58-1] durchzuführen.
 
 [^58-1]: NG 132.1
 
-### 7.2 Regierungsrat
+### B. Regierungsrat
 
 #### Art. 59
 
@@ -606,7 +660,9 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 60
 
-**Wahlvorschläge 1. Vorschlagsrecht**
+**Wahlvorschläge**
+
+### 1. Vorschlagsrecht<sup>20</sup>
 
 <sup>1</sup> Ein Wahlvorschlag ist von mindestens fünf Aktivbürgerinnen oder Aktivbürgern unter Angabe ihres eigenen Namens, Vornamens, Geburtsjahres und ihrer Wohnadresse zu unterzeichnen.
 
@@ -622,13 +678,13 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 <sup>1</sup> Die Wahlvorschläge dürfen höchstens so viele Namen wahlfähiger Personen enthalten, als Sitze zu besetzen sind; die Kandidatinnen und Kandidaten sind mit Name, Vorname, Beruf, Geburtsjahr und Wohnadresse zu bezeichnen.
 
-<sup>2</sup> …
+<sup>2</sup> …<sup>20</sup>
 
 #### Art. 62
 
 **3. Einreichung**
 
-<sup>1</sup> Wahlvorschläge müssen bis zum 48. Tag (7. Montag) vor dem Wahltag bis 12.00 Uhr beim kantonalen Abstimmungsbüro eingetroffen sein.
+<sup>1</sup> Wahlvorschläge müssen bis zum 48. Tag (7. Montag) vor dem Wahltag bis 12.00 Uhr beim kantonalen Abstimmungsbüro eingetroffen sein.<sup>16</sup>
 
 <sup>2</sup> Nach diesem Zeitpunkt eingereichte Wahlvorschläge fallen ausser Betracht.
 
@@ -636,7 +692,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 63
 
-**4. Bestätigung**
+**4. Bestätigung<sup>20</sup>**
 
 <sup>1</sup> Jede vorgeschlagene Person muss auf dem Wahlvorschlag schriftlich bestätigen, dass sie eine allfällige Wahl annimmt.
 
@@ -656,21 +712,23 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **6. Auflage**
 
-<sup>1</sup> Die Wahlvorschläge sind nach erfolgter Bereinigung bis zum Abstimmungstag zur Einsichtnahme in der Staatskanzlei öffentlich aufzulegen.
+Die Wahlvorschläge sind nach erfolgter Bereinigung bis zum Abstimmungstag zur Einsichtnahme in der Staatskanzlei öffentlich aufzulegen.
 
 #### Art. 66
 
 **Kandidatinnen- und Kandidatenliste**
 
-<sup>1</sup> Das kantonale Abstimmungsbüro erstellt unmittelbar nach der Bereinigung der Wahlvorschläge den Wahlzettel mit den vorgedruckten Kandidaturen.
+<sup>1</sup> Das kantonale Abstimmungsbüro erstellt unmittelbar nach der Bereinigung der Wahlvorschläge den Wahlzettel mit den vorgedruckten Kandidaturen.<sup>16</sup>
 
-<sup>2</sup> Werden bei Erneuerungswahlen bisherige Mitglieder in Vorschlag gebracht, sind diese in der Reihenfolge ihres Wahlalters an die Spitze des Wahlzettels zu setzen; im Übrigen sind die Namen der vorgeschlagenen Personen in alphabetischer Reihenfolge aufzuführen.
+<sup>2</sup> Werden bei Erneuerungswahlen bisherige Mitglieder in Vorschlag gebracht, sind diese in der Reihenfolge ihres Wahlalters an die Spitze des Wahlzettels zu setzen; im Übrigen sind die Namen der vorgeschlagenen Personen in alphabetischer Reihenfolge aufzuführen.<sup>16</sup>
 
 <sup>3</sup> Sofern der Wahlvorschlag im Auftrag einer politischen Interessengruppe eingereicht wurde, ist die Zugehörigkeit der vorgeschlagenen Person zu dieser Interessengruppe in Klammer anzugeben; ebenso ist der Zusatz «bisher» anzubringen.
 
 #### Art. 67
 
-**Wahlakt 1. Grundsatz**
+**Wahlakt<sup>16</sup>**
+
+### 1. Grundsatz
 
 <sup>1</sup> Es können nur Personen gewählt werden, die auf dem Wahlzettel vorgedruckt sind.
 
@@ -680,7 +738,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **2. stille Wahl**
 
-<sup>1</sup> Überschreitet die Gesamtzahl der vorgeschlagenen Personen die Zahl der zu besetzenden Sitze nicht, werden jene durch den Regierungsrat ohne Wahlgang als gewählt erklärt.
+Überschreitet die Gesamtzahl der vorgeschlagenen Personen die Zahl der zu besetzenden Sitze nicht, werden jene durch den Regierungsrat ohne Wahlgang als gewählt erklärt.
 
 #### Art. 69
 
@@ -692,7 +750,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 70
 
-**4. zweiter Wahlgang**
+**4. zweiter Wahlgang<sup>20</sup>**
 
 <sup>1</sup> Für die Sitze, die aufgrund des ersten Wahlganges nicht besetzt worden sind, ist spätestens 6 Wochen nach dem ersten Wahlgang ein zweiter Wahlgang durchzuführen; Art. 68 bleibt vorbehalten.
 
@@ -706,17 +764,19 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 71
 
-**Ermittlung des Wahlergebnisses 1. Bereinigung der Wahlzettel**
+**Ermittlung des Wahlergebnisses**
 
-<sup>1</sup> Für die Ermittlung des Wahlergebnisses fallen die leeren und ungültigen Wahlzettel beziehungsweise Stimmen ausser Betracht.
+### 1. Bereinigung der Wahlzettel
 
-<sup>2</sup> Auf den gültigen Wahlzetteln sind Stimmen, die auf nicht vorgedruckte Kandidaturen lauten, vom Abstimmungsbüro zu streichen.
+<sup>1</sup> Für die Ermittlung des Wahlergebnisses fallen die leeren und ungültigen Wahlzettel beziehungsweise Stimmen ausser Betracht.<sup>20</sup>
+
+<sup>2</sup> Auf den gültigen Wahlzetteln sind Stimmen, die auf nicht vorgedruckte Kandidaturen lauten, vom Abstimmungsbüro zu streichen.<sup>16</sup>
 
 #### Art. 72
 
 **2. massgebendes Mehr**
 
-<sup>1</sup> Im ersten Wahlgang entscheidet das absolute Mehr. Die Zahl der in Betracht fallenden Stimmen wird durch die doppelte Zahl der zu wählenden Behördenmitglieder geteilt. Die nächsthöhere ganze Zahl ist das absolute Mehr.
+<sup>1</sup> Im ersten Wahlgang entscheidet das absolute Mehr. Die Zahl der in Betracht fallenden Stimmen wird durch die doppelte Zahl der zu wählenden Behördenmitglieder geteilt. Die nächsthöhere ganze Zahl ist das absolute Mehr.<sup>20</sup>
 
 <sup>2</sup> Im zweiten Wahlgang ist das relative Mehr massgebend; gewählt sind die Vorgeschlagenen mit den höchsten Stimmenzahlen.
 
@@ -728,19 +788,19 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 <sup>2</sup> Erreichen zwei oder mehrere Personen die gleiche Stimmenzahl, entscheidet das Los, das durch die Vorsitzende beziehungsweise den Vorsitzenden des kantonalen Abstimmungsbüros im Beisein der übrigen Mitglieder sofort gezogen werden muss.
 
-### 7.3 Ständerat
+### C. Ständerat
 
 #### Art. 74
 
 **Amtsdauer**
 
-<sup>1</sup> Die Amtsdauer der Abordnung in den Ständerat beträgt vier Jahre.
+Die Amtsdauer der Abordnung in den Ständerat beträgt vier Jahre.
 
 #### Art. 75
 
 **Amtsperiode**
 
-<sup>1</sup> Die Amtsperiode der Abordnung in den Ständerat entspricht jener des Nationalrates.
+Die Amtsperiode der Abordnung in den Ständerat entspricht jener des Nationalrates.
 
 #### Art. 76
 
@@ -750,21 +810,21 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 <sup>2</sup> Ersatzwahlen können jederzeit vorgenommen werden.
 
-<sup>3</sup> Im übrigen gelten die Bestimmungen von Art. 60–73 sinngemäss.
+<sup>3</sup> Im übrigen gelten die Bestimmungen von Art. 60-73 sinngemäss.
 
-## 8 Rechtsschutz
+### VIII. RECHTSSCHUTZ
 
 #### Art. 77
 
 **Verwaltungsbeschwerde**
 
-<sup>1</sup> Gegen erstinstanzliche Entscheide kann Beschwerde beim Regierungsrat erhoben werden.
+<sup>1</sup> Gegen erstinstanzliche Entscheide kann Beschwerde beim Regierungsrat erhoben werden.<sup>20</sup>
 
 <sup>2</sup> Mit der Verwaltungsbeschwerde können auch Unregelmässigkeiten bei Wahlen und Abstimmungen geltend gemacht werden.
 
 #### Art. 78
 
-**Verfassungsgerichtsbeschwerde**
+**Verfassungsgerichtsbeschwerde<sup>19</sup>**
 
 <sup>1</sup> Gegen Beschwerdeentscheide des Regierungsrates gemäss Art. 77 kann Beschwerde beim Verfassungsgericht erhoben werden.
 
@@ -772,7 +832,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 78a
 
-**Frist**
+**Frist<sup>19</sup>**
 
 <sup>1</sup> Die Beschwerde ist binnen 3 Tagen nach erfolgter Zustellung beziehungsweise nach Publikation des Entscheides einzureichen.
 
@@ -782,32 +842,35 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **Legitimation**
 
-<sup>1</sup> Zur Einreichung einer Verwaltungsbeschwerde oder einer Verfassungsgerichtsbeschwerde ist berechtigt:
+Zur Einreichung einer Verwaltungsbeschwerde oder einer Verfassungsgerichtsbeschwerde ist berechtigt:
 
 - 1\. wer ein rechtliches oder tatsächliches, schutzwürdiges Interesse an der Aufhebung oder Änderung einer Verfügung oder eines Entscheides hat;
+
 - 2\. politische Interessengruppen, wenn sie als juristische Person konstituiert und im Kanton politisch tätig sind.
 
 #### Art. 80
 
-**Aufschiebende Wirkung**
+**Aufschiebende Wirkung<sup>19</sup>**
 
 <sup>1</sup> Beschwerden haben aufschiebende Wirkung.
 
 <sup>2</sup> Keine aufschiebende Wirkung haben Beschwerden:
 
 - 1\. bei Wahlen;
+
 - 2\. wenn sich die Beschwerde auf eine Abstimmung bezieht und die Beschwerde vor dem Abstimmungstag eingereicht worden ist;
+
 - 3\. gegen Verfügungen und Entscheide gemäss Art. 10 Abs. 4.
 
 <sup>3</sup> Wird einer Beschwerde bei Wahlen durch die Beschwerdeinstanz die aufschiebende Wirkung erteilt, haben die bisherigen Amtsinhaberinnen und Amtsinhaber bis zum rechtskräftigen Entscheid Sitz und Stimme.
 
-## 9 Straf-, Übergangs- und Schlussbestimmungen
+### IX. STRAF-, ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 81
 
 **Strafbestimmung**
 
-<sup>1</sup> Widerhandlungen gegen Bestimmungen dieses Gesetzes werden mit Busse bestraft.
+Widerhandlungen gegen Bestimmungen dieses Gesetzes werden mit Busse<sup>15</sup> bestraft.
 
 #### Art. 82
 
@@ -819,17 +882,19 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 #### Art. 83
 
-**Änderung bestehender Gesetze 1. Proporzgesetz**
+**Änderung bestehender Gesetze**
 
-<sup>1</sup> Das Gesetz vom 26. April 1981 über die Verhältniswahl des Landrates[^83-1] wird wie folgt geändert: …
+### 1. Proporzgesetz
 
-[^83-1]: NG 132.1
+Das Gesetz vom 26. April 1981 über die Verhältniswahl des Landrates[^h1Proporzgesetz-1] wird wie folgt geändert: ...
+
+[^h1Proporzgesetz-1]: NG 132.1
 
 #### Art. 84
 
 **2. Behördengesetz**
 
-<sup>1</sup> Das Gesetz vom 25. April 1971 über die kantonalen und kommunalen Behörden (Behördengesetz)[^84-1] wird wie folgt geändert: …
+Das Gesetz vom 25. April 1971 über die kantonalen und kommunalen Behörden (Behördengesetz)[^84-1] wird wie folgt geändert: ...
 
 [^84-1]: NG 161.1
 
@@ -837,13 +902,15 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **3. Gerichtsgesetz**
 
-<sup>1</sup> Das Gesetz vom 28. April 1968 über die Organisation und das Verfahren der Gerichte (Gerichtsgesetz)[^85-1] wird wie folgt geändert: …
+Das Gesetz vom 28. April 1968 über die Organisation und das Verfahren der Gerichte (Gerichtsgesetz)[^85-1] wird wie folgt geändert: ...
 
 [^85-1]: NG 261.1
 
 #### Art. 86
 
-**Amtsdauer des Regierungsrates und der Abordnung in den Ständerat**
+**Amtsdauer des Regierungsrates und der Abordnung in**
+
+den Ständerat
 
 <sup>1</sup> Die amtierenden Mitglieder des Regierungsrates bleiben bis zum 30. Juni 1998 im Amt.
 
@@ -855,7 +922,7 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 **Landratsverordnung und Regierungsratsverordnung**
 
-<sup>1</sup> Bis zum Erlass des Geschäftsverkehrsgesetzes für den Landrat (Landratsgesetz) und des Geschäftsverkehrsgesetzes für den Regierungsrat (Regierungsratsgesetz) bleiben die Landratsverordnung[^87-1] und die Regierungsratsverordnung[^87-2] in Kraft.
+Bis zum Erlass des Geschäftsverkehrsgesetzes für den Landrat (Landratsgesetz) und des Geschäftsverkehrsgesetzes für den Regierungsrat (Regierungsratsgesetz) bleiben die Landratsverordnung[^87-1] und die Regierungsratsverordnung[^87-2] in Kraft.
 
 [^87-1]: NG 151.11
 [^87-2]: NG 151.12
@@ -870,11 +937,31 @@ Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
 
 <sup>3</sup> Der Regierungsrat hat den Zeitpunkt des Inkrafttretens[^88-1] festzulegen.
 
-<sup>4</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Gesetz vom 30. April 1967 über die Organisation und das Verfahren der gesetzgebenden und vollziehenden kantonalen Gewalten (Organisationsgesetz)[^88-2], das Gesetz vom 26. April 1970 über die politischen Rechte der Frauen in den Gemeinden[^88-3] sowie das Gesetz vom 30. April 1972 über die politischen Rechte der Frauen im Kanton[^88-4].
+<sup>4</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Gesetz vom 30. April 1967 über die Organisation und das Verfahren der gesetzgebenden und vollziehenden kantonalen Gewalten (Organisationsgesetz)[^88-2], das Gesetz vom 26. April 1970 über die politischen Rechte der Frauen in den Gemeinden[^88-3] sowie das Gesetz vom 30. April 1972 über die politischen Rechte der Frauen im Kanton<sup>12</sup>.
 
-[^88-1]: Vom Bund genehmigt am 30. April 1997; in Kraft seit 15. Juni 1997
+<sup>12</sup> A 1972, 719
+
+<sup>13</sup> Fassung gemäss Landratsbeschluss vom 23. Juni 1999, A 1999, 937, 1906; in Kraft seit 29. November 1999
+
+<sup>14</sup> Fassung gemäss Landratsbeschluss vom 12. Juni 2002, A 2002, 978, 1311; in Kraft seit 1. September 2002
+
+<sup>15</sup> Fassung gemäss Landratsbeschluss vom 25. Oktober 2006, A 2006, 1705, A 2007, 5; in Kraft seit 1. Januar 2007
+
+<sup>16</sup> Fassung gemäss Landratsbeschluss vom 27. Mai 2009, A 2009, 919, 1524; in Kraft seit 1. September 2009
+
+<sup>17</sup> Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1743; A 2012, 558; in Kraft seit 1. Januar 2013
+
+<sup>18</sup> Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+
+<sup>19</sup> Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. September 2015
+
+<sup>20</sup> Fassung gemäss Landratsbeschluss vom 12. April 2017, A 2017, 593, 1263; in Kraft seit 1. August 2017
+
+[^88-1]: A 1997, 509, 859; vom Bund genehmigt am 30. April 1997; in Kraft seit 15. Juni 1997
 [^88-2]: A 1967, 537; 1972, 722, 1047; 1974, 776; 1981, 532; 1988, 871; 1989, 1542
 [^88-3]: A 1970, 710
-[^88-4]: A 1972, 719
 
-A 1997, 509, 859
+## Weitere Fussnoten
+
+- [3] Der Begriff «Standeskanzlei» ist durch den Begriff «Staatskanzlei» ersetzt; Fassung gemäss Landratsbeschluss vom 4. Februar 1998, A 1998, 216, 699
+- [4] SR 116
