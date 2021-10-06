@@ -5,20 +5,20 @@ title: Gesetz für den Fall von Katastrophen und kriegerischen Ereignissen
 short: Notstandsgesetz
 language: de
 version: 2007-01-01
+corrected: 2021-10-07
 version_adopted: 2006-10-25
 adopted: 1974-04-28
 in_force: 1974-04-28
 url: "https://gesetze.nw.ch/app/de/texts_of_law/152.5"
-pdf: "https://gesetze.nw.ch/api/de/versions/612/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/29/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz für den Fall von Katastrophen und kriegerischen Ereignissen
+# Gesetz für den Fall von Katastrophen und kriegerischen Ereignissen (Notstandsgesetz)
 
-(Notstandsgesetz)
-
-vom 28.04.1974 (Stand 01.01.2007)
+vom 28. April 1974[^t-1]
 
 Die Landsgemeinde,
 
@@ -26,22 +26,27 @@ gestützt auf Art. 52 und in Ausführung von Art. 49a der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: A 1974, 855
+
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz verfolgt den Zweck, in Zeiten des Notstandes:
+Dieses Gesetz verfolgt den Zweck, in Zeiten des Notstandes:
 
 - 1\. die Regierungs- und Verwaltungstätigkeit sowie die öffentlichen Dienste im Kanton und in den Gemeinden sicherzustellen;
-- 2\. die Leitung der nachbarlichen und regionalen Hilfe sowie die Zusammenarbeit mit den Partnerorganisationen des Bevölkerungsschutzes im Sinne des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz zu sichern.
+
+- 2\. die Leitung der nachbarlichen und regionalen Hilfe sowie die Zusammenarbeit mit den Partnerorganisationen des Bevölkerungsschutzes im Sinne des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz zu sichern.[^1-1]
+
+[^1-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1377, A 2004, 56; in Kraft seit 1. Januar 2004
 
 #### Art. 2
 
-**Notstand 1. Begriff**
+**Notstand**
 
-<sup>1</sup> Ein Notstand liegt vor, wenn infolge von Katastrophen oder kriegerischen Ereignissen die öffentliche Ordnung und die öffentlichen Dienste nur noch mit ausserordentlichen Massnahmen und Mitteln gewährleistet werden können, oder wenn Ereignisse, durch welche die Bevölkerung und ihre Umwelt betroffen werden, nur mehr durch ausserordentliche Rettungs- und Schutzmassnahmen gemeistert werden können.
+- 1\. Begriff Ein Notstand liegt vor, wenn infolge von Katastrophen oder kriegerischen Ereignissen die öffentliche Ordnung und die öffentlichen Dienste nur noch mit ausserordentlichen Massnahmen und Mitteln gewährleistet werden können, oder wenn Ereignisse, durch welche die Bevölkerung und ihre Umwelt betroffen werden, nur mehr durch ausserordentliche Rettungs- und Schutzmassnahmen gemeistert werden können.
 
 #### Art. 3
 
@@ -73,9 +78,11 @@ beschliesst:
 
 #### Art. 6
 
-**Sicherstellung der Regierungstätigkeit 1. allgemein**
+**Sicherstellung der Regierungstätigkeit**
 
-<sup>1</sup> Im Falle kriegerischer Ereignisse erlässt der Regierungsrat zur Sicherstellung der Regierungstätigkeit Weisungen und trifft alle notwendigen Massnahmen.
+### 1. allgemein
+
+Im Falle kriegerischer Ereignisse erlässt der Regierungsrat zur Sicherstellung der Regierungstätigkeit Weisungen und trifft alle notwendigen Massnahmen.
 
 #### Art. 7
 
@@ -89,9 +96,9 @@ beschliesst:
 
 **Geheimhaltung**
 
-<sup>1</sup> Der Regierungsrat erlässt die für die Geheimhaltung der Notstandsmassnahmen erforderlichen Vorschriften.
+Der Regierungsrat erlässt die für die Geheimhaltung der Notstandsmassnahmen erforderlichen Vorschriften.
 
-## 2 Notstands-Organisation
+### II. NOTSTANDS-ORGANISATION
 
 #### Art. 9
 
@@ -107,9 +114,10 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Notstands-Organisation besteht aus:
+Die Notstands-Organisation besteht aus:
 
 - 1\. dem kantonalen Führungsstab, der von einer Dreierdelegation des Regierungsrates geleitet wird;
+
 - 2\. den Führungsstäben der Gemeinden.
 
 #### Art. 11
@@ -132,25 +140,35 @@ beschliesst:
 
 **Einsatz**
 
-<sup>1</sup> Der Einsatz der Notstands-Organisation erfolgt auf Anordnung des Regierungsrates.
+Der Einsatz der Notstands-Organisation erfolgt auf Anordnung des Regierungsrates.
 
 #### Art. 14
 
 **Unterstellungsverhältnis**
 
-<sup>1</sup> Während der Dauer seines Einsatzes sind dem kantonalen Führungsstab unterstellt:
+Während der Dauer seines Einsatzes sind dem kantonalen Führungsstab unterstellt:
 
 - 1\. die Führungsstäbe der Gemeinden;
+
 - 2\. die Kantonspolizei;
+
 - 3\. die Feuerwehren;
+
 - 4\. der Zivilschutz;
+
 - 5\. die zivilen Spitäler und Notspitäler sowie die geschützten Operationsstellen;
+
 - 6\. der kantonale Strassenunterhaltsdienst;
-- 7\. die Organisation der wirtschaftlichen Landesversorgung;
+
+- 7\. die Organisation der wirtschaftlichen Landesversorgung[^14-1];
+
 - 8\. der Informations- und Pressedienst;
+
 - 9\. je nach Lage und Bedarf weitere Personen und zivile Mittel sowie allenfalls zur Zusammenarbeit zugewiesene militärische Hilfsmittel.
 
-## 3 Finanzielle Bestimmungen
+[^14-1]: Fassung gemäss Landsgemeindebeschluss vom 30. April 1989, A 1989, 527
+
+### III. FINANZIELLE BESTIMMUNGEN
 
 #### Art. 15
 
@@ -162,11 +180,13 @@ beschliesst:
 
 #### Art. 16
 
-**Kosten der Hilfeleistung 1. Ausgabenkompetenz**
+**Kosten der Hilfeleistung**
+
+### 1. Ausgabenkompetenz
 
 <sup>1</sup> Im Kriegsfall verfügt der Regierungsrat für die Hilfeleistung über eine unbeschränkte Ausgabenkompetenz.
 
-<sup>2</sup> In den übrigen Fällen eines Notstandes kann der Regierungsrat für Hilfeleistungen Ausgaben bis Fr. 200'000.– tätigen; für die Bewilligung weiterer Mittel ist der Landrat zuständig.
+<sup>2</sup> In den übrigen Fällen eines Notstandes kann der Regierungsrat für Hilfeleistungen Ausgaben bis Franken 200 000.- tätigen; für die Bewilligung weiterer Mittel ist der Landrat zuständig.
 
 #### Art. 17
 
@@ -176,15 +196,19 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat setzt die Kostenteilung im Einzelfalle fest; gegen seine Verfügung kann binnen 20 Tagen durch betroffene Körperschaften an den Landrat rekurriert werden, der endgültig entscheidet.
 
-## 4 Straf- und Schlussbestimmungen
+### IV. STRAF- UND SCHLUSSBESTIMMUNGEN
+
+[^hIVSTRAFUNDSCHLU-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1377, A 2004, 56; in Kraft seit 1. Januar 2004
 
 #### Art. 18
 
-**Strafbestimmungen**
+**Strafbestimmungen[^hIVSTRAFUNDSCHLU-1]**
 
-<sup>1</sup> Widerhandlungen gegen Vorschriften dieses Gesetzes sowie darauf gestützte Erlasse und Verfügungen werden mit Busse bestraft; vorbehalten bleiben die Strafbestimmungen der Bundesgesetzgebung.
+<sup>1</sup> Widerhandlungen gegen Vorschriften dieses Gesetzes sowie darauf gestützte Erlasse und Verfügungen werden mit Busse[^18-1] bestraft; vorbehalten bleiben die Strafbestimmungen der Bundesgesetzgebung.
 
 <sup>2</sup> In leichten Fällen oder bei Fahrlässigkeit kann die zuständige Direktion auf die Einleitung eines Strafverfahrens verzichten; sie kann die betreffende Person verwarnen.
+
+[^18-1]: Fassung gemäss Landratsbeschluss vom 25. Oktober 2006, A 2006, 1705, A 2007, 5; in Kraft seit 1. Januar 2007
 
 #### Art. 19
 
@@ -198,6 +222,4 @@ beschliesst:
 
 **Rechtskraft**
 
-<sup>1</sup> Dieses Gesetz tritt mit der Annahme durch die Landsgemeinde in Kraft.
-
-A 1974, 855
+Dieses Gesetz tritt mit der Annahme durch die Landsgemeinde in Kraft.
