@@ -5,24 +5,26 @@ title: Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgl
 short: "Rahmenvereinbarung, IRV"
 language: de
 version: 2007-05-11
+corrected: 2021-10-07
 version_adopted: 2005-06-24
 adopted: 2005-06-24
 in_force: 2007-05-11
 url: "https://gesetze.nw.ch/app/de/texts_of_law/114.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/613/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/5/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich
+# Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (Rahmenvereinbarung, IRV)
 
-(Rahmenvereinbarung, IRV)
+vom 24. Juni 2005[^t-1]
 
-vom 24.06.2005 (Stand 11.05.2007)
+I. ALLGEMEINE BESTIMMUNGEN
 
-## 1 Allgemeine Bestimmungen
+- 1\. Grundsätze
 
-### 1.1 Grundsätze
+[^t-1]: Von der Konferenz der Kantonsregierungen vom 24. Juni 2005 zuhanden der Ratifikation in den Kantonen verabschiedet; A 2006, 399; vom Landrat genehmigt am 15. März 2006, A 2006, 398; Datum des Inkrafttretens: 11. Mai 2007
 
 #### Art. 1
 
@@ -30,15 +32,15 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 <sup>1</sup> Die Rahmenvereinbarung regelt Grundsätze und Verfahren der interkantonalen Zusammenarbeit mit Lastenausgleich.
 
-<sup>2</sup> Sie bildet die Grundlage für interkantonale Zusammenarbeitsverträge in den Bereichen gemäss Artikel 48a der Bundesverfassung[^1-1].
+<sup>2</sup> Sie bildet die Grundlage für interkantonale Zusammenarbeitsverträge in den Bereichen gemäss Artikel 48a der Bundesverfassung.
 
 <sup>3</sup> Kantone können interkantonale Zusammenarbeitsverträge in anderen Aufgabenbereichen der Rahmenvereinbarung unterstellen.
 
-[^1-1]: SR 101
-
 #### Art. 2
 
-**Ziele der interkantonalen Zusammenarbeit mit Lastenausgleich**
+**Ziele der interkantonalen Zusammenarbeit mit**
+
+### Lastenausgleich
 
 <sup>1</sup> Mit der interkantonalen Zusammenarbeit mit Lastenausgleich wird eine bedarfsgerechte und wirtschaftliche Aufgabenerfüllung angestrebt.
 
@@ -50,7 +52,7 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 **Innerkantonale Zusammenarbeit mit Lastenausgleich**
 
-<sup>1</sup> Die Kantone verpflichten sich, die Grundsätze der Subsidiarität und der fiskalischen Äquivalenz sinngemäss auch im innerkantonalen Verhältnis zu beachten.
+Die Kantone verpflichten sich, die Grundsätze der Subsidiarität und der fiskalischen Äquivalenz sinngemäss auch im innerkantonalen Verhältnis zu beachten.
 
 #### Art. 4
 
@@ -60,7 +62,7 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 <sup>2</sup> Im Übrigen regelt das kantonale Recht die Mitwirkungsrechte der Parlamente.
 
-### 1.2 Zuständigkeiten und Kompetenzen
+- 2\. Zuständigkeiten und Kompetenzen
 
 #### Art. 5
 
@@ -76,7 +78,7 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 **Präsidium der KdK**
 
-<sup>1</sup> Die Präsidentin oder der Präsident der KdK ist zuständig für das informelle Vorverfahren im Rahmen des Streitbeilegungsverfahrens.
+Die Präsidentin oder der Präsident der KdK ist zuständig für das informelle Vorverfahren im Rahmen des Streitbeilegungsverfahrens.
 
 #### Art. 7
 
@@ -90,7 +92,7 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 <sup>4</sup> Die KdK trägt die Bereitstellungskosten der IVK. Alle weiteren Kosten sind gemäss Art. 34 Abs. 5 von den Parteien zu tragen.
 
-### 1.3 Begriffe
+- 3\. Begriffe
 
 #### Art. 8
 
@@ -104,16 +106,17 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 <sup>5</sup> Nachfragende im Sinne von Art. 13 und 23 sind potentielle Leistungsbezüger.
 
-## 2 Formen der interkantonalen Zusammenarbeit mit Lastenausgleich
+### II. FORMEN DER INTERKANTONALEN ZUSAMMENARBEIT MIT LASTENAUSGLEICH
 
 #### Art. 9
 
-<sup>1</sup> Die Rahmenvereinbarung regelt folgende Formen der interkantonalen Zusammenarbeit mit Lastenausgleich:
+Die Rahmenvereinbarung regelt folgende Formen der interkantonalen Zusammenarbeit mit Lastenausgleich:
 
 - a. die gemeinsame Trägerschaft;
+
 - b. den Leistungskauf.
 
-### 2.1 Gemeinsame Trägerschaft
+### 1. Gemeinsame Trägerschaft
 
 #### Art. 10
 
@@ -143,7 +146,7 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 **Gleichberechtigter Zugang**
 
-<sup>1</sup> Nachfragende aus den Trägerkantonen haben gleichberechtigten Zugang zu den Leistungen.
+Nachfragende aus den Trägerkantonen haben gleichberechtigten Zugang zu den Leistungen.
 
 #### Art. 14
 
@@ -205,21 +208,21 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 **Information**
 
-<sup>1</sup> Die Trägerkantone sind über die Tätigkeiten der gemeinsamen Trägerschaft rechtzeitig und umfassend zu informieren.
+Die Trägerkantone sind über die Tätigkeiten der gemeinsamen Trägerschaft rechtzeitig und umfassend zu informieren.
 
-### 2.2 Leistungskauf
+- 2\. Leistungskauf
 
 #### Art. 21
 
 **Formen des Leistungskaufs**
 
-<sup>1</sup> Ein Leistungskauf kann mittels Ausgleichszahlungen, Tausch von Leistungen oder Mischformen von Zahlung und Tausch erfolgen.
+Ein Leistungskauf kann mittels Ausgleichszahlungen, Tausch von Leistungen oder Mischformen von Zahlung und Tausch erfolgen.
 
 #### Art. 22
 
 **Mitsprache der Leistungskäufer**
 
-<sup>1</sup> Den Leistungskäufern wird in der Regel mindestens ein partielles Mitspracherecht gewährt.
+Den Leistungskäufern wird in der Regel mindestens ein partielles Mitspracherecht gewährt.
 
 #### Art. 23
 
@@ -235,11 +238,11 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 **Informationsaustausch**
 
-<sup>1</sup> Die Leistungskäufer sind vom Leistungserbringer periodisch über die erbrachten Leistungen zu informieren.
+Die Leistungskäufer sind vom Leistungserbringer periodisch über die erbrachten Leistungen zu informieren.
 
-## 3 Lastenausgleich
+### III. LASTENAUSGLEICH
 
-### 3.1 Grundlagen für die Ermittlung der Abgeltungen
+### 1. Grundlagen für die Ermittlung der Abgeltungen
 
 #### Art. 25
 
@@ -257,13 +260,15 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 <sup>2</sup> Die Kantone sind verpflichtet, die nötigen Unterlagen zur Verfügung zu stellen.
 
-### 3.2 Grundsätze für die Abgeltungen
+- 2\. Grundsätze für die Abgeltungen
 
 #### Art. 27
 
-**Abgeltung von Leistungsbezügen aus anderen Kantonen**
+**Abgeltung von Leistungsbezügen aus anderen**
 
-<sup>1</sup> Leistungen mit erheblichen Kosten, für die ausserkantonale Leistungsbezügerinnen und ‑bezüger nicht aufkommen, werden durch Ausgleichszahlungen der Kantone abgegolten.
+### Kantonen
+
+<sup>1</sup> Leistungen mit erheblichen Kosten, für die ausserkantonale Leistungsbezügerinnen und -bezüger nicht aufkommen, werden durch Ausgleichszahlungen der Kantone abgegolten.
 
 <sup>2</sup> Die Festlegung der Abgeltung und der sonstigen Vertragsinhalte ist grundsätzlich Sache der Vertragsparteien.
 
@@ -278,16 +283,20 @@ vom 24.06.2005 (Stand 11.05.2007)
 <sup>3</sup> Weitere Kriterien bei der Festlegung der Abgeltung sind:
 
 - a. eingeräumte oder beanspruchte Mitsprache- und Mitwirkungsrechte;
+
 - b. der gewährte Zugang zum Leistungsangebot;
-- c. erhebliche Standortvorteile und ‑nachteile im Zusammenhang mit der Leistungserbringung und dem Leistungsbezug;
+
+- c. erhebliche Standortvorteile und –nachteile im Zusammenhang mit der Leistungserbringung und dem Leistungsbezug;
+
 - d. Transparenz des Kostennachweises;
+
 - e. Wirtschaftlichkeit der Leistungserstellung.
 
 #### Art. 29
 
 **Abgeltung des Leistungserstellers**
 
-<sup>1</sup> Der Leistungserbringer verpflichtet sich, die Abgeltung dem Leistungsersteller zukommen zu lassen, so weit dieser die Kosten für die Leistungserstellung trägt.
+Der Leistungserbringer verpflichtet sich, die Abgeltung dem Leistungsersteller zukommen zu lassen, so weit dieser die Kosten für die Leistungserstellung trägt.
 
 #### Art. 30
 
@@ -297,7 +306,7 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 <sup>2</sup> In einem interkantonalen Vertrag kann Gemeinden oder von ihnen getragenen Organisationen ein direkter Anspruch auf die Abgeltung eingeräumt werden.
 
-## 4 Streitbeilegung
+### IV. STREITBEILEGUNG
 
 #### Art. 31
 
@@ -347,7 +356,7 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 <sup>7</sup> Sie verpflichten sich, die Unterlagen des Streitbeilegungsverfahrens zu den Gerichtsakten zu geben.
 
-## 5 Schlussbestimmungen
+### V. SCHLUSSBESTIMMUNGEN
 
 #### Art. 35
 
@@ -363,9 +372,7 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 **Inkrafttreten**
 
-<sup>1</sup> Die Rahmenvereinbarung tritt in Kraft, wenn ihr 18 Kantone beigetreten sind[^36-1].
-
-[^36-1]: Von der Konferenz der Kantonsregierungen vom 24. Juni 2005 zuhanden der Ratifikation in den Kantonen verabschiedet; vom Landrat genehmigt am 15. März 2006 (A 2006, 398, 1217); Datum des Inkrafttretens: 11. Mai 2007
+Die Rahmenvereinbarung tritt in Kraft, wenn ihr 18 Kantone beigetreten sind.
 
 #### Art. 37
 
@@ -379,6 +386,8 @@ vom 24.06.2005 (Stand 11.05.2007)
 
 **Änderung der Rahmenvereinbarung**
 
-<sup>1</sup> Auf Antrag von drei Kantonen leitet die KdK die Änderung der Rahmenvereinbarung ein. Sie tritt unter den Voraussetzungen von Artikel 36 in Kraft.
+Auf Antrag von drei Kantonen leitet die KdK die Änderung der Rahmenvereinbarung ein. Sie tritt unter den Voraussetzungen von Artikel 36 in Kraft.
 
-A 2006, 398, 399
+## Weitere Fussnoten
+
+- [2] SR 101
