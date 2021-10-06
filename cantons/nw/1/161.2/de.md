@@ -5,20 +5,20 @@ title: Gesetz über die Haftung des Gemeinwesens und seiner Funktionäre
 short: Haftungsgesetz
 language: de
 version: 2011-01-01
+corrected: 2021-10-07
 version_adopted: 2010-06-09
 adopted: 1971-04-25
 in_force: 1971-04-25
 url: "https://gesetze.nw.ch/app/de/texts_of_law/161.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/616/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/36/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Haftung des Gemeinwesens und seiner Funktionäre
+# Gesetz über die Haftung des Gemeinwesens und seiner Funktionäre (Haftungsgesetz)
 
-(Haftungsgesetz)
-
-vom 25.04.1971 (Stand 01.01.2011)
+vom 25. April 1971[^t-1]
 
 Die Landsgemeinde,
 
@@ -26,7 +26,9 @@ gestützt auf Art. 6 und Art. 52 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Geltungsbereich
+[^t-1]: A 1971, 717
+
+### I. GELTUNGSBEREICH
 
 #### Art. 1
 
@@ -37,21 +39,24 @@ beschliesst:
 <sup>2</sup> Als Funktionäre des Gemeinwesens sind diesem Gesetz unterstellt:
 
 - 1\. die Mitglieder der Behörden und Kommissionen;
+
 - 2\. die Beamten und Angestellten, die in einem öffentlichrechtlichen oder privatrechtlichen Verhältnis zum Gemeinwesen stehen;
+
 - 3\. die anderen Personen, die mit einer öffentlichen Aufgabe betraut sind.
 
 #### Art. 2
 
 **Ausnahmen**
 
-<sup>1</sup> Dieses Gesetz findet keine Anwendung:
+Dieses Gesetz findet keine Anwendung:
 
 - 1\. soweit die Haftung des Gemeinwesens und seiner Funktionäre durch Bundesrecht geregelt ist;
+
 - 2\. soweit abweichende kantonale Haftungsvorschriften[^2-1] bestehen.
 
 [^2-1]: NG 841.115
 
-## 2 Haftung des Gemeinwesens
+### II. HAFTUNG DES GEMEINWESENS
 
 #### Art. 3
 
@@ -65,9 +70,11 @@ beschliesst:
 
 <sup>4</sup> Dem Dritten steht gegenüber dem Funktionär kein Anspruch auf Schadenersatz zu.
 
+[^3-1]: Fassung gemäss Landsgemeindebeschluss vom 26. April 1987, A 1987, 672; in Kraft seit 1. Januar 1988
+
 #### Art. 4
 
-**Rechtmässiges Verhalten**
+**Rechtmässiges Verhalten[^3-1]**
 
 <sup>1</sup> Wird durch rechtmässiges Verhalten einem Dritten Schaden zugefügt, haftet das Gemeinwesen nur, wenn die Gesetzgebung[^4-1] dies vorsieht.
 
@@ -87,21 +94,23 @@ beschliesst:
 
 <sup>1</sup> Wenn der Schaden durch die Funktionäre mehrerer Gemeinwesen verursacht wird, haften die Gemeinwesen dem Dritten gegenüber solidarisch.
 
-<sup>2</sup> Ob und in welchem Umfange unter den beteiligten Gemeinwesen Rückgriff genommen werden kann, wird auf Klage des Gemeinwesens bestimmt, das dem Dritten Ersatz leisten muss; die Rückgriffsklage ist innerhalb eines Jahres seit der Anerkennung oder der gerichtlichen Feststellung der Schadenersatzpflicht beim Verwaltungsgericht zu erheben.
+<sup>2</sup> Ob und in welchem Umfange unter den beteiligten Gemeinwesen Rückgriff genommen werden kann, wird auf Klage des Gemeinwesens bestimmt, das dem Dritten Ersatz leisten muss; die Rückgriffsklage ist innerhalb eines Jahres seit der Anerkennung oder der gerichtlichen Feststellung der Schadenersatzpflicht beim Verwaltungsgericht zu erheben.[^5-1]
+
+[^5-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
 
 #### Art. 6
 
 **Versicherung**
 
-<sup>1</sup> Der Landrat kann Vorschriften erlassen, durch welche alle oder einzelne Gemeinwesen verpflichtet werden, sich gegen die Haftungsfolgen zu versichern.
+Der Landrat kann Vorschriften erlassen, durch welche alle oder einzelne Gemeinwesen verpflichtet werden, sich gegen die Haftungsfolgen zu versichern.
 
-## 3 Haftung des Funktionärs
+### III. HAFTUNG DES FUNKTIONÄRS
 
 #### Art. 7
 
 **Grundsatz**
 
-<sup>1</sup> Der Funktionär ist für den Schaden haftbar, den er dem Gemeinwesen durch vorsätzliche oder grobfahrlässige Verletzung seiner Pflichten zufügt.
+Der Funktionär ist für den Schaden haftbar, den er dem Gemeinwesen durch vorsätzliche oder grobfahrlässige Verletzung seiner Pflichten zufügt.
 
 #### Art. 8
 
@@ -123,23 +132,27 @@ beschliesst:
 
 **Geltendmachung**
 
-<sup>1</sup> Die Haftung des Funktionärs wird geltend gemacht:
+Die Haftung des Funktionärs wird geltend gemacht:
 
 - 1\. durch den Landrat gegen Mitglieder des Landrates und der von ihm gewählten Kommissionen, gegen Mitglieder des Regierungsrates, der Gerichtsbehörden sowie der Verwaltungsbehörden der selbständigen kantonalen Anstalten;
+
 - 2\. durch den Regierungsrat gegen Mitglieder der administrativen Räte der Gemeinden und der Korporationen sowie der Verwaltungsbehörden der Gemeindeverbände;
+
 - 3\. durch die Verwaltungsbehörde des betreffenden Gemeinwesens gegen andere Funktionäre.
 
 #### Art. 11
 
 **Ausnahmen**
 
-<sup>1</sup> Privatrechtlich angestellte oder beauftragte Personen haften gegenüber dem Gemeinwesen nach den Vorschriften des Privatrechts.
+Privatrechtlich angestellte oder beauftragte Personen haften gegenüber dem Gemeinwesen nach den Vorschriften des Privatrechts.
 
-## 4 Beurteilung der Haftung
+### IV. BEURTEILUNG DER HAFTUNG
+
+[^hIVBEURTEILUNGDER-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
 
 #### Art. 12
 
-**Zuständigkeit**
+**Zuständigkeit[^hIVBEURTEILUNGDER-1]**
 
 <sup>1</sup> Für die Beurteilung der Haftung des Gemeinwesens sind im Rahmen von Art. 15 die Behörden der Zivilgerichtsbarkeit zuständig.
 
@@ -163,7 +176,9 @@ beschliesst:
 
 #### Art. 15
 
-**Verjährung 1. Haftung des Gemeinwesens**
+**Verjährung**
+
+- 1\. Haftung des Gemeinwesens
 
 <sup>1</sup> Die Haftung des Gemeinwesens gegenüber dem Dritten erlischt, wenn dieser den Schadenersatzanspruch nicht innerhalb eines Jahres seit Kenntnis des Schadens, auf jeden Fall innerhalb von zehn Jahren vom Tage des schädigenden Verhaltens an, bei der Verwaltungsbehörde des betreffenden Gemeinwesens schriftlich geltend macht.
 
@@ -173,21 +188,21 @@ beschliesst:
 
 **2. Haftung des Funktionärs**
 
-<sup>1</sup> Die Haftung des Funktionärs gegenüber dem Gemeinwesen erlischt, wenn dieses den Schadenersatzanspruch nicht innerhalb eines Jahres seit Kenntnis des Schadens oder den Rückgriffsanspruch nicht inner-halb eines Jahres seit der Anerkennung oder gerichtlichen Feststellung seiner Schadenersatzpflicht, auf jeden Fall innerhalb von zehn Jahren vom Tage des schädigenden Verhaltens an, beim Verwaltungsgericht geltend macht.
+Die Haftung des Funktionärs gegenüber dem Gemeinwesen erlischt, wenn dieses den Schadenersatzanspruch nicht innerhalb eines Jahres seit Kenntnis des Schadens oder den Rückgriffsanspruch nicht innerhalb eines Jahres seit der Anerkennung oder gerichtlichen Feststellung seiner Schadenersatzpflicht, auf jeden Fall innerhalb von zehn Jahren vom Tage des schädigenden Verhaltens an, beim Verwaltungsgericht geltend macht.
 
 #### Art. 17
 
 **3. Straf- und Disziplinarverfahren**
 
-<sup>1</sup> Die Fristen gemäss Art. 15 Abs. 1 und Art. 16 ruhen, solange wegen des nämlichen Tatbestandes ein Straf- oder ein Disziplinarverfahren durchgeführt wird.
+Die Fristen gemäss Art. 15 Abs. 1 und Art. 16 ruhen, solange wegen des nämlichen Tatbestandes ein Straf- oder ein Disziplinarverfahren durchgeführt wird.
 
-## 5 Übergangs- und Schlussbestimmungen
+### V. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 18
 
 **Gerichtsgesetz**
 
-<sup>1</sup> …[^18-1]
+…[^18-1]
 
 [^18-1]: NG 261.1
 
@@ -195,14 +210,12 @@ beschliesst:
 
 **Altes Recht**
 
-<sup>1</sup> Dieses Gesetz findet keine Anwendung auf Schadenersatzansprüche, die vor dem Inkrafttreten geltend gemacht worden sind.
+Dieses Gesetz findet keine Anwendung auf Schadenersatzansprüche, die vor dem Inkrafttreten geltend gemacht worden sind.
 
 #### Art. 20
 
 **Rechtskraft**
 
-<sup>1</sup> Dieses Gesetz tritt mit der Annahme durch die Landsgemeinde in Kraft; die Weiterzugsmöglichkeit an das Bundesgericht gemäss Art. 18 Ziff. 2 tritt nach der Genehmigung durch die Bundesversammlung in Kraft[^20-1].
+Dieses Gesetz tritt mit der Annahme durch die Landsgemeinde in Kraft; die Weiterzugsmöglichkeit an das Bundesgericht gemäss Art. 18 Ziff. 2 tritt nach der Genehmigung durch die Bundesversammlung in Kraft[^20-1].
 
 [^20-1]: In Kraft seit 14. März 1972; SR 173.114.13
-
-A 1971, 717
