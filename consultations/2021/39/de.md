@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Erhöhung der steuerlichen Abzüge von Prämien der obligatorischen Krankenpflegeversicherung und der Unfallversicherung
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur l’augmentation des déductions fiscales pour les primes de l’assurance obligatoire des soins et les primes d’assurance-accidents
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sull’aumento delle deduzioni fiscali relative ai premi dell’assicurazione obbligatoria delle cure medico-sanitarie e dell’assicurazione contro gli infortuni
 document: Progetto posto in consultazione
 language: it
