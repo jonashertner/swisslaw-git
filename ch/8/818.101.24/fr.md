@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-10-01
+version: 2021-10-11
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211011/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211011-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211011/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211001/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> octobre 2021)
+du 19 juin 2020 (Etat le 11 octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -550,25 +550,26 @@ Si la prestation fournie dans le cadre d’une analyse pour le SARS-CoV-2 visée
 
 - a. pour les personnes qui disposent d’une assurance obligatoire des soins au sens de la LAMal, par la caisse-maladie visée à l’art. 2 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^26a-4], auprès de laquelle la personne testée est assurée;
 - b. pour les personnes qui sont assurées en cas de maladie auprès de l’assurance militaire, par l’assurance militaire;
-- c. pour les personnes qui ne disposent pas d’une assurance obligatoire des soins au sens de la LAMal, par l’institution commune visée à l’art. 18 LAMal.
+- c.[^26a-5] pour les personnes qui ne disposent pas d’une assurance obligatoire des soins au sens de la LAMal, et pour les personnes décédées, par l’institution commune visée à l’art. 18 LAMal.
 
 <sup>2</sup> Si la prestation fournie dans le cadre d’une analyse pour le SARS-CoV-2 visée à l’annexe 6, ch. 1, est effectuée par un fournisseur de prestations qui ne dispose pas d’un numéro RCC, le canton dans lequel l’échantillon est prélevé est le débiteur de la rémunération des prestations.
 
 <sup>3</sup>
 
-Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, ch. 1.1.1, let. i et j, 1.4.1, let. h et i, 3.1.1, let. a, et 3.2.1, let. a, les fournisseurs de prestations peuvent choisir comme débiteur de la rémunération de la prestation:[^26a-5]
+Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, ch. 1.1.1, let. i et j, 1.4.1, let. h et i, 3.1.1, let. a, et 3.2.1, let. a, les fournisseurs de prestations peuvent choisir comme débiteur de la rémunération de la prestation:[^26a-6]
 
 - a. l’assureur visé à l’al. 1, qui est le débiteur de la rémunération des prestations selon le système du tiers payant au sens de l’art. 42, al. 2, LAMal, ou
 - b. le canton dans lequel l’échantillon pour le SARS-CoV-2 est prélevé.
 
-<sup>4</sup> Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, ch. 2, 3.1.1, let. b à d, et 3.2.1, let. b et c, le canton dans lequel l’échantillon pour le SARS-CoV-2 est prélevé est le débiteur de la rémunération des prestations.[^26a-6]
+<sup>4</sup> Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, ch. 2, 3.1.1, let. b à d, et 3.2.1, let. b et c, le canton dans lequel l’échantillon pour le SARS-CoV-2 est prélevé est le débiteur de la rémunération des prestations.[^26a-7]
 
 [^26a-1]: Introduit par le ch. I de l’O du 24 juin 2020 ([RO 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^26a-3]: Nouvelle teneur selon le ch. I de l’O du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^26a-4]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^26a-5]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^26a-6]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 26 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^26a-5]: Nouvelle teneur selon le ch. I de l'O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^26a-6]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26a-7]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 26 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 26b
 
@@ -631,7 +632,7 @@ L’organisateur d’une assemblée de société peut, quel que soit le nombre p
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020 (Prorogation; coûts des tests), en vigueur depuis le 14 sept. 2020 ([RO 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-## Chapitre 4*a***** Mesures de protection des employés vulnérables
+## Chapitre 4*a* Mesures de protection des employés vulnérables
 
 [^chap4a-1]
 
@@ -744,13 +745,13 @@ Les tests rapides SARS-CoV-2 avec application par un professionnel autorisés en
 [^29-2]: Abrogé par le ch. II de l’O du 12 août 2020 (Port du masque obligatoire dans les aéronefs; grandes manifestations), avec effet au 15 août 2020 ([RO 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Introduit par le ch. I de l’O du 11 sept. 2020 (Prorogation; coûts des tests), en vigueur depuis le 14 sept. 2020 ([RO 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 3, al. 3, 4, al. 2<sup>ter</sup>, et 5)
 
 ## Liste des pays et régions à risque
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 23 sept. 2021, en vigueur depuis le 27 sept. 2021 ([RO 2021 581](https://fedlex.data.admin.ch/eli/oc/2021/581)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 5 oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 599](https://fedlex.data.admin.ch/eli/oc/2021/599)).
 
 ### 1. Liste des pays et régions à risque (art. 3, al. 2, let. a)
 
@@ -759,31 +760,32 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 - – Andorre
 - – Arabie saoudite
 - – Australie
-- – Bosnie et Herzégovine
 - – Bulgarie
 - – Canada
+- – Chili
 - – Chypre
 - – Corée (Sud)
 - – Croatie
 - – Hong Kong
 - – Irlande
 - – Jordanie
+- – Koweït
 - – Macao
-- – Moldova
 - – Monaco
 - – Nouvelle-Zélande
 - – Qatar
 - – Roumanie
+- – Rwanda
 - – Saint-Marin
 - – Saint-Siège
 - – Singapour
 - – Taïwan
-- – Uruguay
 - – Ukraine
+- – Uruguay
 
 ### 2. Pays et régions à risque avec un variant du virus SARS-CoV-2 dont le risque d’infection ou d’évolution grave de la maladie est plus élevé que pour le variant du virus qui prévaut dans l’espace Schengen (art. 3, al. 2, let. b)
 
-Annexe 1a*[^t-2]*
+Annexe 1a[^t-2]
 
 (art. 4, al. 2, let. a, et 5)
 
@@ -811,11 +813,11 @@ Annexe 1a*[^t-2]*
 
 [^annex1a-lvlu1-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 [^t-3]: Sans objet suite à l’abrogation de l’art. 8 (art. 6 ch. 1 de l’O COVID-19 du 2 juil. 2020 mesures dans le domaine du transport international de voyageurs; [RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)), le 6 juil. 2020.
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 (art. 9, al. 3)
 
@@ -827,7 +829,7 @@ La circulation des personnes entre les États suivants et la Suisse est interdit
 
 ...
 
-Annexe 4*[^t-5]*
+Annexe 4[^t-5]
 
 (art. 11, al. 1, 19, al. 1, et 21, al. 2)
 
@@ -934,7 +936,7 @@ Annexe 4*[^t-5]*
 
 \49. Sotrovimab
 
-### 2. Dispositifs médicaux au sens de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux****
+### 2. Dispositifs médicaux au sens de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -962,7 +964,7 @@ Annexe 4*[^t-5]*
 
 ### 3. Équipements de protection individuelle et autres équipements
 
-### 3.1 Équipements de protection individuelle au sens de l’ordonnance du 25 octobre 2017 sur les EPI****
+### 3.1 Équipements de protection individuelle au sens de l’ordonnance du 25 octobre 2017 sur les EPI
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -981,7 +983,7 @@ Annexe 4*[^t-5]*
 - 3\. Éthanol
 - 4\. Articles d’hygiène en médecine intensive (p. ex. tapis médicaux absorbants, couches, entérocollecteurs rectaux, articles pour l’hygiène buccale et de la gorge)
 
-Annexe 5*[^t-6]*
+Annexe 5[^t-6]
 
 (art. 21, al. 1 et 3, et 22, al. 1)
 
@@ -993,17 +995,17 @@ Annexe 5*[^t-6]*
 - 2\. Bamlanivimab/étésevimab
 - 3\. Sotrovimab
 
-Annexe 5a*[^t-7]*
+Annexe 5a[^t-7]
 
 [^t-7]: Introduite par le ch. III al. 1 de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Abrogée par le ch. II al. 1 de l’O du 25 août 2021, avec effet au 30 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
-Annexe 6*[^t-8]*
+Annexe 6[^t-8]
 
 (art. 26, 26*a*, 26*b* et 26*c*)
 
 ## Prestations et montants maximaux pris en charge pour les analyses pour le SARS-CoV-2
 
-[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II des O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et du 23 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), l’erratum du 23 juin 2021 ([RO 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), l’annexe ch. 3 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) et le ch. II al. 2 de l’O du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II des O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et du 23 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), l’erratum du 23 juin 2021 ([RO 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), l’annexe ch. 3 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II al. 2 de l’O du 25 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)) et le ch. II de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 1 Tarif régulier pour les dépistages axés sur les symptômes et le nombre de cas
 
@@ -1028,6 +1030,9 @@ Annexe 6*[^t-8]*
     - – autotest SARS-CoV-2;
 
   - i. après un résultat positif d’une analyse poolée de biologie moléculaire;
+    - 1\. au sens du ch. 1.2,
+    - 2\. au sens des ch. 1.7., 2.2 et 3.2;
+
   - j. pour un contrôle et une enquête d’entourage ordonnés par un médecin.
 
 - 1\.1.2
@@ -1225,12 +1230,19 @@ Annexe 6*[^t-8]*
   - b. pour les personnes-contacts qui sont en quarantaine,
   - c. pour les personnes souhaitant mettre fin de manière anticipée à une quarantaine-contact en vertu de l’art. 3*e* de l’ordonnance COVID-19 situation particulière;
   - d. ...
-  - e. pour les personnes qui reçoivent une notification de l’application SwissCovid selon laquelle elles ont potentiellement eu un contact étroit avec une personne infectée au SARS-CoV-2; la Confédération prend en charge les coûts pour un test unique, qui peut être effectué au plus tôt le 5<sup>e</sup> jour après la notification de l’application SwissCovid;
+  - e. pour les personnes qui reçoivent une notification de l’application SwissCovid selon laquelle elles ont potentiellement eu un contact étroit avec une personne infectée au SARS-CoV-2; la Confédération prend en charge les coûts pour un test unique;
   - f. pour les personnes domiciliées à l’étranger qui travaillent ou suivent une formation en Suisse, à condition qu’elles aient l’obligation, à l’entrée dans leur pays de domicile, de présenter un résultat négatif à une analyse des antigènes du SARS-CoV-2 par immunologie ou à un test rapide SARS-CoV-2 avec application par un professionnel et que les coûts ne soient pas pris en charge autrement;
   - g. pour les personnes domiciliées en Suisse qui travaillent ou suivent une formation à l’étranger, à condition qu’elles aient l’obligation, à l’entrée dans le pays étranger, de présenter un résultat négatif à une analyse des antigènes du SARS-CoV-2 par immunologie ou à un test rapide SARS-CoV-2 avec application par un professionnel et que les coûts ne soient pas pris en charge autrement;
   - h. après un résultat positif d’une analyse poolée de biologie moléculaire;
+    - 1\. au sens du ch. 1.2,
+
+  - 2. au sens des ch. 1.7, 2.2 et 3.2;
   - i. pour un contrôle et une enquête d’entourage ordonnés par un médecin;
-  - j.[^annex6-lvlu1-lvl1-lvl14-1] pour toutes les personnes qui ne remplissent pas les critères des let. a à i.
+  - j.[^annex6-lvlu1-lvl1-lvl14-1] ...
+  - k. pour les enfants de moins de 16 ans;
+  - l. pour les personnes pouvant attester qu’elles ne peuvent pas se faire vacciner pour des motifs médicaux; l’invocation de raisons médicales doit pouvoir être attestée par un certificat délivré par un médecin titulaire d’une autorisation d’exercer sa profession sous sa propre responsabilité professionnelle au sens de la loi du 23 juin 2006 sur les professions médicales[^annex6-lvlu1-lvl1-lvl14-2];
+  - m. pour les visiteurs des hôpitaux, des établissements médico-sociaux et des autres institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation.
+  - n.[^annex6-lvlu1-lvl1-lvl14-3] pour les personnes qui ne remplissent pas les critères des let. a à i, si elles ont reçu une dose de vaccin mais qu’elles ne sont pas encore vaccinées conformément à l’annexe 1*a*, ch. 1.
 
 - 1\.4.2 ...
 - 1\.4.3
@@ -1282,6 +1294,8 @@ Annexe 6*[^t-8]*
 </table>
 
 [^annex6-lvlu1-lvl1-lvl14-1]: En vigueur jusqu’au 10 oct. 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [582](https://fedlex.data.admin.ch/eli/oc/2021/582)).
+[^annex6-lvlu1-lvl1-lvl14-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^annex6-lvlu1-lvl1-lvl14-3]: En vigueur jusqu'au 30 nov. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 1.5 Mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2
 
@@ -1322,6 +1336,74 @@ Annexe 6*[^t-8]*
 <tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
 </table>
 
+### 1.7 Analyses poolées de biologie moléculaire pour le SARS-CoV-2 pour les particuliers
+
+- 1\.7.1
+
+  La Confédération prend en charge les coûts de participation individuelle aux analyses poolées de biologie moléculaire pour le SARS-CoV-2 au moyen d’échantillons salivaires des personnes asymptomatiques suivantes:
+
+  - a. personnes visées au ch. 1.4.1, let. k;
+  - b. personnes visées au ch. 1.4.1, let l;
+  - c.[^annex6-lvlu1-lvl1-lvl17-1] personnes visées au ch. 1.4.1, let. n.
+
+- 1\.7.2
+
+  Elle ne prend en charge les coûts que si les prestations ont été fournies par les fournisseurs suivants:
+
+  - a.
+
+    pour la surveillance du prélèvement de l’échantillon par la personne à tester par:
+
+    - 1\.
+
+      les fournisseurs de prestations suivants visés par la LAMal:
+
+      - – médecins
+      - – pharmaciens
+      - – hôpitaux
+      - – laboratoires visés à l’art. 54, al. 3, OAMal et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
+      - – établissements médico-sociaux
+      - – organisations de soins et d’aide à domicile,
+
+    - 2\. les centres de tests exploités par le canton ou sur mandat,
+    - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
+    - 4\. les assistants au sens de la LAI;
+
+  - b. pour l’analyse par les laboratoires visés à l’art. 54, al. 3, OAMal et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
+
+- 1\.7.3
+
+  Elle prend en charge au maximum 36 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2 pour les particuliers. Ce montant comprend les prestations et les coûts suivants:
+
+  - a. pour le prélèvement de l’échantillon:
+
+<table>
+<tr><td>Prestation</td><td>Montant maximal</td></tr>
+<tr><td>Pour la surveillance du prélèvement de l’échantillon par la personne à tester et l’attribution de l’échantillon à la personne</td><td>15 francs</td></tr>
+<tr><td>Pour la transmission du résultat de l’analyse à la personne testée et pour l’établissement du certificat de test COVID-19</td><td>2,50 francs</td></tr>
+</table>
+
+- b. pour l’analyse poolée de biologie moléculaire pour les particuliers:
+
+<table>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>16 francs</td></tr>
+<tr><td>– pour l’analyse</td><td>13 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>3 francs</td></tr>
+<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>13,50 francs</td></tr>
+<tr><td>– pour l’analyse</td><td>13 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>0,50 franc</td></tr>
+</table>
+
+- c. pour le pooling centralisé:
+
+<table>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour la création de pool par personne</td><td>2,50 francs</td></tr>
+</table>
+
+[^annex6-lvlu1-lvl1-lvl17-1]: En vigueur jusqu'au 30 nov. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+
 ### 2 Tarif réduit pour les dépistages ciblés et répétitifs
 
 ### 2.1 Tests rapides SARS-CoV-2 avec application par un professionnel
@@ -1358,13 +1440,16 @@ Annexe 6*[^t-8]*
     - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
     - 4\. les assistants visés par la LAI.
 
-- 2\.1.3 Elle prend en charge au maximum 28 francs pour un test rapide SARS-CoV-2 avec application par un professionnel. Ce montant comprend les prestations et les coûts suivants:
+- 2\.1.3 2.1.3 Elle prend en charge au maximum 30,50 francs pour un test rapide SARS-CoV-2 avec application par un professionnel. Ce montant comprend les prestations et les coûts suivants:
 
 <table>
 <tr><td>Prestation</td><td>Montant maximal</td></tr>
 <tr><td>Pour le prélèvement de l’échantillon et la réalisation du test, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat, si le prélèvement de l’échantillon n’est pas effectué par la personne testée elle-même</td><td>28 francs</td></tr>
 <tr><td>Pour la réalisation du test, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat, si le prélèvement de l’échantillon est effectué par la personne testée elle-même</td><td>14 francs</td></tr>
+<tr><td>Pour l’établissement du certificat de test COVID-19</td><td>2,50 francs</td></tr>
 </table>
+
+- [tab]
 
 ### 2.2 Analyses poolées de biologie moléculaire pour le SARS-CoV-2
 
@@ -1404,7 +1489,7 @@ Annexe 6*[^t-8]*
 
 - 2\.2.3
 
-  Elle prend en charge au maximum 309 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
+  Elle prend en charge au maximum 311,50 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
@@ -1432,6 +1517,13 @@ Annexe 6*[^t-8]*
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
 <tr><td>Pour la réalisation à l’école obligatoire et au niveau secondaire II ainsi que dans des camps, par création de pool</td><td>18,50 francs</td></tr>
+</table>
+
+- d. pour le certificat:
+
+<table>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour l’établissement du certificat de test COVID-19</td><td>2,50 francs</td></tr>
 </table>
 
 ### 3 Tarif de base pour les dépistages ciblés et répétitifs
@@ -1467,11 +1559,12 @@ Annexe 6*[^t-8]*
   - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
   - 4\. les assistants visés par la LAI.
 
-- 3\.1.4 Elle prend en charge au maximum 6,50 francs pour un test rapide SARS-CoV-2 avec application par un professionnel selon le ch. 3.1.1. Ce montant comprend les prestations et les coûts suivants:
+- 3\.1.4 Elle prend en charge au maximum 9 francs pour un test rapide SARS-CoV-2 avec application par un professionnel selon le ch. 3.1.1. Ce montant comprend les prestations et les coûts suivants:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
 <tr><td>Pour le test rapide SARS-CoV-2 avec application par un professionnel, matériel de test uniquement</td><td>6,50 francs</td></tr>
+<tr><td>Pour l’établissement du certificat de test COVID-19</td><td>2,50 francs</td></tr>
 </table>
 
 ### 3.2 Analyses poolées de biologie moléculaire pour le SARS-CoV-2
@@ -1485,23 +1578,24 @@ Annexe 6*[^t-8]*
   - c. lorsqu’une personne-contact est en quarantaine et qu’un dépistage ciblé et répétitif est effectué au moins une fois par semaine auprès du personnel de l’entreprise dans laquelle travaille la personne-contact.
 
 - 3\.2.2 Elle prend en charge les coûts uniquement si les prestations sont fournies par les laboratoires visés à l’art. 54, al. 3, OAMal et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
-- 3\.2.3 Elle prend en charge au maximum 292,50 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
+- 3\.2.3 Elle prend en charge au maximum 295 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
 
 <table>
-<tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>274 francs</td></tr>
-<tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
-<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
-<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
-<tr><td>– pour la réalisation d’un pooling centralisé dans les cas visés au ch. 3.2.1, let. b et c, par création de pool</td><td>18,50 francs</td></tr>
-<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>255 francs</td></tr>
-<tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
-<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
-<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
-<tr><td>– Pour la réalisation d’un pooling centralisé dans les cas visés au ch. 3.2.1, let. b et c, par création de pool</td><td>18,50 francs</td></tr>
+<tr><th colspan="2">Prestation</th><th>Montant maximal</th></tr>
+<tr><td colspan="2">Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>274 francs</td></tr>
+<tr><td colspan="2">– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
+<tr><td colspan="2">– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
+<tr><td colspan="2">– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
+<tr><td colspan="2">– pour la réalisation d’un pooling centralisé dans les cas visés au ch. 3.2.1, let. b et c, par création de pool</td><td>18,50 francs</td></tr>
+<tr><td colspan="2">Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>255 francs</td></tr>
+<tr><td colspan="2">– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
+<tr><td colspan="2">– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
+<tr><td colspan="2">– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
+<tr><td colspan="2">– Pour la réalisation d’un pooling centralisé dans les cas visés au ch. 3.2.1, let. b et c, par création de pool</td><td>18,50 francs</td></tr>
+<tr><td>Pour l’établissement du certificat de test COVID-19</td><td>2,50 francs</td></tr>
 </table>
 
-### 3.3**** …
+### 3.3 …
 
 [^annex6-lvlu1-lvl3-lvl33-1]
 
@@ -1514,7 +1608,7 @@ Annexe 6*[^t-8]*
 - 4\.3 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2 selon le ch. 1.5 ou un séquençage du SARS-CoV-2 selon le ch. 1.6 sont réalisés sur une personne par le même fournisseur de prestations, la Confédération prend en charge une seule fois le montant comprenant le traitement du mandat et les frais généraux visés aux ch. 1.1.3, let. b, 1.5.3 et 1.6.3.
 - 4\.4 Lors d’analyses pour le SARS-CoV-2 pour lesquelles le prélèvement de l’échantillon est effectué par la personne testée elle-même, le coût du prélèvement ne doit pas être facturé.
 
-Annexe 7*[^t-9]*
+Annexe 7[^t-9]
 
 (art. 27*a*, al. 10 et 11)
 

@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-10-01
+version: 2021-10-11
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211011/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211011-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211011/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211001/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 1. Oktober 2021)
+vom 19. Juni 2020 (Stand am 11. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -550,25 +550,26 @@ Wird die Leistung im Rahmen einer Analyse auf Sars-CoV-2 nach Anhang 6 Ziffer 1 
 
 - a. bei Personen, die über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der Krankenkasse nach Artikel 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^26a-4], bei der die getestete Person versichert ist;
 - b. bei Personen, die bei der Militärversicherung gegen Krankheit versichert sind, von der Militärversicherung;
-- c. bei Personen, die nicht über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der gemeinsamen Einrichtung nach Artikel 18 KVG.
+- c.[^26a-5] bei Personen, die nicht über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, und bei verstorbenen Personen von der gemeinsamen Einrichtung nach Artikel 18 KVG.
 
 <sup>2</sup> Wird die Leistung im Rahmen einer Analyse auf Sars-CoV-2 nach Anhang 6 Ziffer 1 von einem Leistungserbringer durchgeführt, der über keine ZSR-Nummer verfügt, so schuldet der Kanton, in dem die Probenentnahme durchgeführt wird, die Vergütung der Leistungen.
 
 <sup>3</sup>
 
-Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1.1 Buchstaben i und j, 1.4.1 Buchstaben h und i, 3.1.1 Buchstabe a und 3.2.1 Buchstabe a durchgeführt, so können die Leistungserbringer als Schuldner der Vergütung der Leistung wählen:[^26a-5]
+Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1.1 Buchstaben i und j, 1.4.1 Buchstaben h und i, 3.1.1 Buchstabe a und 3.2.1 Buchstabe a durchgeführt, so können die Leistungserbringer als Schuldner der Vergütung der Leistung wählen:[^26a-6]
 
 - a. den Versicherer nach Absatz 1, der die Vergütung der Leistungen nach dem System des *Tiers payant* im Sinne von Artikel 42 Absatz 2 KVG schuldet; oder
 - b. den Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird.
 
-<sup>4</sup> Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 2, 3.1.1 Buchstaben b–d und 3.2.1 Buchstaben b und c durchgeführt, so schuldet der Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird, die Vergütung der Leistungen.[^26a-6]
+<sup>4</sup> Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 2, 3.1.1 Buchstaben b–d und 3.2.1 Buchstaben b und c durchgeführt, so schuldet der Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird, die Vergütung der Leistungen.[^26a-7]
 
 [^26a-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2020 ([AS 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^26a-3]: Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^26a-4]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^26a-5]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^26a-6]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^26a-5]: Fassung gemäss Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^26a-6]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26a-7]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 26b
 
@@ -750,7 +751,7 @@ Anhang 1*[^t-1]*
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 23. Sept. 2021, in Kraft seit 27. Sept. 2021 ([AS 2021 581](https://fedlex.data.admin.ch/eli/oc/2021/581)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 5. Okt. 2021, in Kraft seit 11. Okt.. 2021 ([AS 2021 599](https://fedlex.data.admin.ch/eli/oc/2021/599)).
 
 ### 1. Risikoländer und -regionen (Art. 3 Abs. 2 Bst. a)
 
@@ -758,8 +759,8 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 
 - – Andorra
 - – Australien
-- – Bosnien und Herzegowina
 - – Bulgarien
+- – Chile
 - – Heiliger Stuhl
 - – Hongkong
 - – Irland
@@ -768,10 +769,11 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Katar
 - – Korea (Süd-)
 - – Kroatien
+- – Kuwait
 - – Macau
-- – Moldova
 - – Monaco
 - – Neuseeland
+- – Ruanda
 - – Rumänien
 - – San Marino
 - – Saudi-Arabien
@@ -782,8 +784,6 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Zypern
 
 ### 2. Risikoländer und -regionen mit einer Variante des Virus Sars-CoV-2, von der im Vergleich zu der im Schengen-Raum verbreiteten Virusvariante eine höhere Gefahr der Ansteckung oder eines schweren Krankheitsverlaufs ausgeht (Art. 3 Abs. 2 Bst. b)
-
-- [tab]
 
 Anhang 1a*[^t-2]*
 
@@ -906,7 +906,7 @@ Anhang 4*[^t-5]*
 
 ### 3. Persönliche Schutzausrüstungen und weitere Ausrüstung
 
-### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017
+### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017****
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -937,7 +937,6 @@ Anhang 5*[^t-6]*
 - 1\. Casirivimab/Imdevimab
 - 2\. Bamlanivimab/Etesevimab
 - 3\. Sotrovimab
-- [tab]
 
 Anhang 5a*[^t-7]*
 
@@ -949,7 +948,7 @@ Anhang 6*[^t-8]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. II Abs. 2 der V vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507))
+[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II Abs. 2 der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)) und Ziff. II der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -963,7 +962,7 @@ Anhang 6*[^t-8]*
   - b. bei Kontaktpersonen, die sich in Quarantäne befinden;
   - c. bei Personen, die die Kontaktquarantäne nach Artikel 8 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^annex6-lvlu1-lvl1-lvl11-1] [^annex6-lvlu1-lvl1-lvl11-2] vorzeitig beenden möchten;
   - d. ...
-  - e. bei Personen, die von der SwissCovid-App benachrichtigt werden, dass sie potenziell mit einer mit Sars-CoV-2 infizierten Person engeren Kontakt hatten; der Bund übernimmt die Kosten für einen einzigen Test, der frühestens am fünften Tag nach Erhalt der Benachrichtigung der SwissCovid-App durchgeführt wird;
+  - e. bei Personen, die von der SwissCovid-App benachrichtigt werden, dass sie potenziell mit einer mit Sars-CoV-2 infizierten Person engeren Kontakt hatten; der Bund übernimmt die Kosten für einen einzigen Test;
   - f. bei Personen mit Wohnsitz im Ausland, die in der Schweiz arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Wohnsitzstaat eine Pflicht zum Vorlegen eines negativen molekularbiologischen Testergebnisses auf Sars-CoV-2 angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
   - g. bei Personen mit Wohnsitz in der Schweiz, die im Ausland arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Staat eine Pflicht zum Vorlegen eines negativen molekularbiologischen Testergebnisses auf Sars-CoV-2 angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
   - h.
@@ -973,7 +972,13 @@ Anhang 6*[^t-8]*
     - – bei einem Sars-CoV-2-Schnelltest zur Fachanwendung,
     - – bei einem Sars-CoV-2-Selbsttest;
 
-  - i. nach einem positiven Ergebnis einer gepoolten molekularbiologischen Analyse;
+  - i.
+
+    nach einem positiven Ergebnis einer gepoolten molekularbiologischen Analyse:
+
+    - 1\. nach Ziffer 1.2,
+    - 2\. nach den Ziffern 1.7, 2.2 und 3.2;
+
   - j. bei einer ärztlich angeordneten Ausbruchsuntersuchung und -kontrolle.
 
 - 1\.1.2
@@ -1170,12 +1175,19 @@ Anhang 6*[^t-8]*
   - b. bei Kontaktpersonen, die sich in Quarantäne befinden;
   - c. bei Personen, die die Kontaktquarantäne nach Artikel 3*e* der Covid-19-Verordnung besondere Lage vorzeitig beenden möchten;
   - d. ...
-  - e. bei Personen, die von der SwissCovid-App benachrichtigt werden, dass sie potenziell mit einer mit Sars-CoV-2 infizierten Person engeren Kontakt hatten; der Bund übernimmt die Kosten für einen einzigen Test, der frühestens am fünften Tag nach Erhalt der Benachrichtigung der SwissCovid-App durchgeführt wird;
+  - e. bei Personen, die von der SwissCovid-App benachrichtigt werden, dass sie potenziell mit einer mit Sars-CoV-2 infizierten Person engeren Kontakt hatten; der Bund übernimmt die Kosten für einen einzigen Test;
   - f. bei Personen mit Wohnsitz im Ausland, die in der Schweiz arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Wohnsitzstaat eine Pflicht zum Vorlegen eines negativen Ergebnisses einer immunologischen Analyse auf Sars-CoV-2-Antigene oder eines Sars-CoV-2-Schnelltests zur Fachanwendung angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
   - g. bei Personen mit Wohnsitz in der Schweiz, die im Ausland arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Staat eine Pflicht zum Vorlegen eines negativen Ergebnisses einer immunologischen Analyse auf Sars-CoV-2-Antigene oder eines Sars-CoV-2-Schnelltests zur Fachanwendung angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
   - h. nach einem positiven Ergebnis einer gepoolten molekularbiologischen Analyse;
+    - 1\. nach Ziffer 1.2,
+    - 2\. nach den Ziffern 1.7, 2.2 und 3.2;
+
   - i. bei einer ärztlich angeordneten Ausbruchsuntersuchung und -kontrolle;
-  - j.[^annex6-lvlu1-lvl1-lvl14-1] bei allen Personen, die nicht unter die Buchstaben a–i fallen.
+  - j.[^annex6-lvlu1-lvl1-lvl14-1] ...
+  - k. bei Kindern vor ihrem 16. Geburtstag;
+  - l. bei Personen, die nachweisen können, dass sie sich aus medizinischen Gründen nicht impfen lassen können; für den Nachweis ist ein Attest einer Ärztin oder eines Arztes erforderlich, die oder der über eine Bewilligung nach dem Medizinalberufegesetz vom 23. Juni 2006[^annex6-lvlu1-lvl1-lvl14-2] zur Berufsausübung in eigener fachlicher Verantwortung verfügt;
+  - m. bei Besucherinnen und Besuchern von Spitälern, Alters- und Pflegeheimen sowie anderen sozialmedizinischen Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen;
+  - n.[^annex6-lvlu1-lvl1-lvl14-3] bei Personen, die nicht unter die Buchstaben a–m fallen, sofern ihnen bereits eine Impfdosis verabreicht wurde, sie aber noch nicht gemäss Anhang 1*a* Ziffer 1 geimpft sind.
 
 - 1\.4.2 ...
 - 1\.4.3
@@ -1228,6 +1240,8 @@ Anhang 6*[^t-8]*
 </table>
 
 [^annex6-lvlu1-lvl1-lvl14-1]: In Kraft bis zum 10. Okt. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [582](https://fedlex.data.admin.ch/eli/oc/2021/582)).
+[^annex6-lvlu1-lvl1-lvl14-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^annex6-lvlu1-lvl1-lvl14-3]: In Kraft bis zum 30. Nov. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 1.5 Molekularbiologischer Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten
 
@@ -1276,6 +1290,74 @@ Anhang 6*[^t-8]*
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
 </table>
 
+### 1.7 Gepoolte molekularbiologische Analysen auf Sars-CoV-2 für Einzelpersonen
+
+- 1\.7.1
+
+  Der Bund übernimmt die Kosten für gepoolte molekularbiologische Analysen auf Sars-CoV-2 mittels Speichel bei individueller Teilnahme folgender Personen, sofern sie nicht symptomatisch sind:
+
+  - a. Personen nach Ziffer 1.4.1 Buchstabe k;
+  - b. Personen nach Ziffer 1.4.1 Buchstabe l;
+  - c.[^annex6-lvlu1-lvl1-lvl17-1] Personen nach Ziffer 1.4.1 Buchstabe n.
+
+- 1\.7.2
+
+  Er übernimmt die Kosten nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
+
+  - a.
+
+    bei der Überwachung der Entnahme der Probe durch die zu testende Person durch:
+
+    - 1\.
+
+      folgende Leistungserbringer nach dem KVG:
+
+      - – Ärztinnen und Ärzte
+      - – Apothekerinnen und Apotheker
+      - – Spitäler
+      - – Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen
+      - – Pflegeheime
+      - – Organisationen der Krankenpflege und Hilfe zu Hause,
+
+    - 2\. Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden,
+    - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
+    - 4\. Assistenzpersonen nach dem IVG;
+
+  - b. bei der Analyse durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
+
+- 1\.7.3
+
+  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 für Einzelpersonen übernimmt er höchstens 36 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+
+  - a. für die Probenentnahme:
+
+<table>
+<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
+<tr><td>Für die Überwachung der Entnahme der Probe durch die zu testende Person und die Zuordnung von Probe und Person</td><td>15 Fr.</td></tr>
+<tr><td>Für die Übermittlung des Testergebnisses an die getestete Person sowie für die Ausstellung des Covid-19-Testzertifikats</td><td>2.50 Fr.</td></tr>
+</table>
+
+- b. für die gepoolte molekularbiologische Analyse für Einzelpersonen:
+
+<table>
+<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>16 Fr.</td></tr>
+<tr><td>– für die Analyse</td><td>13 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>3 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>13.50 Fr.</td></tr>
+<tr><td>– für die Analyse</td><td>13 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>0.50 Fr.</td></tr>
+</table>
+
+- c. für das zentralisierte Pooling:
+
+<table>
+<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
+<tr><td>Für das Zusammenstellen des Pools pro Person</td><td>2.50 Fr.</td></tr>
+</table>
+
+[^annex6-lvlu1-lvl1-lvl17-1]: In Kraft bis zum 30. Nov. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+
 ### 2 Reduzierter Tarif für gezielte und repetitive Testungen
 
 ### 2.1 Sars-CoV-2-Schnelltests zur Fachanwendung
@@ -1312,12 +1394,13 @@ Anhang 6*[^t-8]*
     - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
     - 4\. Assistenzpersonen nach dem IVG.
 
-- 2\.1.3 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung übernimmt er höchstens 28 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 2\.1.3 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung übernimmt er höchstens 30.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
 <tr><td>Sofern die Probenentnahme nicht durch die getestete Person selbst durchgeführt wird: für die Probenentnahme und die Testdurchführung, einschliesslich des Testmaterials, des Schutzmaterials und der Arbeitszeit, sowie für die Analyse und die Auftragsabwicklung</td><td>28 Fr.</td></tr>
 <tr><td>Sofern die Probenentnahme durch die getestete Person selbst durchgeführt wird: für die Testdurchführung, einschliesslich des Testmaterials, des Schutzmaterials und der Arbeitszeit, sowie für die Analyse und die Auftragsabwicklung</td><td>14 Fr.</td></tr>
+<tr><td>Für die Ausstellung des Covid-19-Testzertifikats</td><td>2.50 Fr.</td></tr>
 </table>
 
 ### 2.2 Gepoolte molekularbiologische Analysen auf Sars-CoV-2
@@ -1358,12 +1441,12 @@ Anhang 6*[^t-8]*
 
 - 2\.2.3
 
-  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 309 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 311.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
-<tr><td>Leistung</td><td>Höchstbetrag</td></tr>
+<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
 <tr><td>Für die Probenentnahme, einschliesslich des Schutzmaterials und der Arbeitszeit</td><td>16.50 Fr.</td></tr>
 </table>
 
@@ -1386,6 +1469,13 @@ Anhang 6*[^t-8]*
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
 <tr><td>Für die Durchführung auf der obligatorischen Schulstufe, auf der Sekundarstufe II und bei Lagern pro Erstellung eines Pools</td><td>18.50 Fr.</td></tr>
+</table>
+
+- d. für das Zertifikat:
+
+<table>
+<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
+<tr><td>Für die Ausstellung des Covid-19-Testzertifikats</td><td>2.50 Fr.</td></tr>
 </table>
 
 ### 3 Basistarif für gezielte und repetitive Testungen
@@ -1421,11 +1511,12 @@ Anhang 6*[^t-8]*
   - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
   - 4\. Assistenzpersonen nach dem IVG.
 
-- 3\.1.4 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung nach Ziffer 3.1.1 übernimmt er höchstens 6.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 3\.1.4 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung nach Ziffer 3.1.1 übernimmt er höchstens 9 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
 <tr><td>Für den Sars-CoV-2-Schnelltest zur Fachanwendung, nur das Testmaterial</td><td>6.50 Fr.</td></tr>
+<tr><td>Für die Ausstellung des Covid-19-Testzertifikats</td><td>2.50 Fr.</td></tr>
 </table>
 
 ### 3.2 Gepoolte molekularbiologische Analysen auf Sars-CoV-2
@@ -1439,7 +1530,7 @@ Anhang 6*[^t-8]*
   - c. bei einer Kontaktperson, die sich in Quarantäne befindet, und wenn bei der Belegschaft des Betriebs, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung mit mindestens einem Test pro Woche durchgeführt wird.
 
 - 3\.2.2 Er übernimmt die Kosten nur, wenn die Leistungen erbracht werden durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
-- 3\.2.3 Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 292.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 3\.2.3 Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 295 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
@@ -1453,6 +1544,7 @@ Anhang 6*[^t-8]*
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
 <tr><td>– Zuschlag pro zusätzliche Probenentnahme, bis zu einer Maximalpoolgrösse von 25 Proben</td><td>8 Fr.</td></tr>
 <tr><td>– für die Durchführung eines zentralisierten Poolings in Fällen nach Ziffer 3.2.1 Buchstaben b und c pro Poolerstellung</td><td>18.50 Fr.</td></tr>
+<tr><td>Für die Ausstellung des Covid-19-Testzertifikats</td><td>2.50 Fr.</td></tr>
 </table>
 
 ### 3.3**** ...

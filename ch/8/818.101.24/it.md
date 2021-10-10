@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-10-01
+version: 2021-10-11
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211011/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211011-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211011/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211001/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 1° ottobre 2021)
+del 19 giugno 2020 (Stato 11 ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -550,25 +550,26 @@ Se la prestazione nell’ambito di un’analisi per il SARS-CoV-2 secondo l’al
 
 - a. per le persone che dispongono di un’assicurazione obbligatoria delle cure medico-sanitarie secondo la LAMal: la cassa malati secondo l’articolo 2 della legge del 26 settembre 2014[^26a-4] sulla vigilanza sull’assicurazione malattie presso la quale è assicurata la persona testata;
 - b. per le persone coperte contro malattia dall’assicurazione militare: l’assicurazione militare;
-- c. per le persone che non dispongono di un’assicurazione obbligatoria delle cure medico-sanitarie secondo la LAMal: l’istituzione comune di cui all’articolo 18 LAMal.
+- c.[^26a-5] per le persone che non dispongono di un’assicurazione obbligatoria delle cure medico-sanitarie secondo la LAMal e per le persone decedute: l’istituzione comune di cui all’articolo 18 LAMal.
 
 <sup>2</sup> Se la prestazione nell’ambito di un’analisi per il SARS-CoV-2 secondo l’allegato 6 numero 1 è eseguita da un fornitore di prestazioni non in possesso di un numero RCC, è debitore della rimunerazione delle prestazioni il Cantone in cui è eseguito il prelievo del campione.
 
 <sup>3</sup>
 
-Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1 lettere i e j, 1.4.1 lettere h e i, 3.1.1 lettera a e 3.2.1 lettera a, i fornitori di prestazioni possono scegliere quale debitore della rimunerazione delle prestazioni:[^26a-5]
+Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1 lettere i e j, 1.4.1 lettere h e i, 3.1.1 lettera a e 3.2.1 lettera a, i fornitori di prestazioni possono scegliere quale debitore della rimunerazione delle prestazioni:[^26a-6]
 
 - a. l’assicuratore di cui al capoverso 1 che è debitore della rimunerazione delle prestazioni secondo il sistema del terzo pagante ai sensi dell’articolo 42 capoverso 2 LAMal; o
 - b. il Cantone in cui è eseguito il prelievo del campione per il SARS-CoV-2.
 
-<sup>4</sup> Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 2, 3.1.1 lettere b–d e 3.2.1 lettere b e c, è debitore della rimunerazione delle prestazioni il Cantone in cui è eseguito il prelievo del campione per il SARS-CoV-2.[^26a-6]
+<sup>4</sup> Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 2, 3.1.1 lettere b–d e 3.2.1 lettere b e c, è debitore della rimunerazione delle prestazioni il Cantone in cui è eseguito il prelievo del campione per il SARS-CoV-2.[^26a-7]
 
 [^26a-1]: Introdotto dal n. I dell’O del 24 giu. 2020 ([RU 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^26a-3]: Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^26a-4]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^26a-5]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^26a-6]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^26a-5]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^26a-6]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26a-7]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 26b
 
@@ -751,59 +752,37 @@ Allegato 1*[^t-1]*
 
 ## Elenco dei Paesi e delle regioni a rischio
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 23 set. 2021, in vigore dal 27 set. 2021 ([RU 2021 581](https://fedlex.data.admin.ch/eli/oc/2021/581)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 5 ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 599](https://fedlex.data.admin.ch/eli/oc/2021/599)).
 
 ### 1. Paesi e regioni a rischio (art. 3 cpv. 2 lett. a)
 
 Tutti gli Stati e regioni al di fuori dello spazio Schengen, tranne:
 
-– Andorra
-
-– Arabia Saudita
-
-– Australia
-
-– Bosnia e Erzegovina
-
-– Bulgaria
-
-– Canada
-
-– Cipro
-
-– Corea (Sud)
-
-– Croazia
-
-– Giordania
-
-– Hong Kong
-
-– Irlanda
-
-– Macao
-
-– Moldova
-
-– Monaco
-
-– Nuova Zelanda
-
-– Qatar
-
-– Romania
-
-– San Marino
-
-– Santa Sede
-
-– Singapore
-
-– Taiwan
-
-– Ucraina
-
-– Uruguay
+- – Andorra
+- – Arabia Saudita
+- – Australia
+- – Bulgaria
+- – Canada
+- – Cile
+- – Cipro
+- – Corea (Sud)
+- – Croazia
+- – Giordania
+- – Hong Kong
+- – Irlanda
+- – Kuwait
+- – Macao
+- – Monaco
+- – Nuova Zelanda
+- – Qatar
+- – Romania
+- – Ruanda
+- – San Marino
+- – Santa Sede
+- – Singapore
+- – Taiwan
+- – Ucraina
+- – Uruguay
 
 ### 2. Paesi e regioni a rischio con una variante del virus SARS-CoV-2 che presenta un rischio di contagio più elevato o un decorso più grave della malattia rispetto alla variante del virus diffusa nello spazio Schengen (art. 3 cpv. 2 lett. b)
 
@@ -969,7 +948,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dal n. II cpv. 2 dell’O del 25 ago. 2021, in vigore dal 1°ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507))
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)) e dal n. II dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -983,7 +962,7 @@ Allegato 6*[^t-8]*
   - b. per i contatti in quarantena;
   - c. per le persone che desiderano concludere anticipatamente la quarantena dei contatti secondo l’articolo 8 dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^annex6-lvlu1-lvl1-lvl11-1] [^annex6-lvlu1-lvl1-lvl11-2];
   - d. ...
-  - e. per le persone informate dall’app SwissCovid di essere potenzialmente entrate in contatto stretto con una persona infettata dal SARS-CoV-2; la Confederazione assume le spese per un singolo test, eseguito al più presto a partire dal quinto giorno dopo la segnalazione dell’app SwissCovid;
+  - e. per le persone informate dall’app SwissCovid di essere potenzialmente entrate in contatto stretto con una persona infettata dal SARS-CoV-2; la Confederazione assume le spese per un singolo test;
   - f. per le persone domiciliate all’estero che lavorano o seguono una formazione in Svizzera, se per entrare nello Stato estero di residenza è richiesto il risultato negativo di un’analisi di biologia molecolare per il SARS-CoV-2 e i costi non sono assunti in altro modo;
   - g. per le persone domiciliate in Svizzera che lavorano o seguono una formazione all’estero, se per entrare nello Stato estero è richiesto il risultato negativo di un’analisi di biologia molecolare per il SARS-CoV-2 e i costi non sono assunti in altro modo;
   - h.
@@ -993,7 +972,13 @@ Allegato 6*[^t-8]*
     - – di un test rapido SARS-CoV-2 per uso professionale,
     - – di un test autodiagnostico SARS-CoV-2;
 
-  - i. dopo un risultato positivo di un’analisi di biologia molecolare aggregata;
+  - i.
+
+    dopo un risultato positivo di un’analisi di biologia molecolare aggregata:
+
+    - 1\. secondo il numero 1.2,
+    - 2\. secondo i numeri 1.7, 2.2 e 3.2;
+
   - j. nell’ambito dello studio e del controllo di un focolaio su ordine di un medico.
 
 - 1\.1.2
@@ -1192,12 +1177,19 @@ Allegato 6*[^t-8]*
   - b. per i contatti in quarantena;
   - c. per le persone che desiderano concludere anticipatamente la quarantena dei contatti secondo l’articolo 3*e* dell’ordinanza COVID-19 situazione particolare;
   - d. ...
-  - e. per le persone informate dall’app SwissCovid di essere potenzialmente entrate in contatto stretto con una persona infettata dal SARS-CoV-2; la Confederazione assume le spese per un singolo test, eseguito al più presto a partire dal quinto giorno dopo la segnalazione dell’app SwissCovid;
+  - e. per le persone informate dall’app SwissCovid di essere potenzialmente entrate in contatto stretto con una persona infettata dal SARS-CoV-2; la Confederazione assume le spese per un singolo test;
   - f. per le persone domiciliate all’estero che lavorano o seguono una formazione in Svizzera, se per entrare nello Stato estero di residenza è richiesto il risultato negativo di un’analisi immunologica degli antigeni SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale e i costi non sono assunti in altro modo;
   - g. per le persone domiciliate in Svizzera che lavorano o seguono una formazione all’estero, se per entrare nello Stato estero è richiesto il risultato negativo di un’analisi immunologica degli antigeni SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale e i costi non sono assunti in altro modo;
-  - h. dopo il risultato positivo di un’analisi di biologia molecolare aggregata;
+  - h. dopo un risultato positivo di un’analisi di biologia molecolare aggregata;
+    - 1\. secondo il numero 1.2,
+    - 2\. secondo i numeri 1.7, 2.2 e 3.2;
+
   - i. nell’ambito dello studio e del controllo di un focolaio su ordine di un medico;
-  - j.[^annex6-lvlu1-lvl1-lvl14-1] per tutte le persone che non rientrano nelle lettere a–i.
+  - j.[^annex6-lvlu1-lvl1-lvl14-1] per tutte le persone che non rientrano nelle lettere a–i;
+  - k. bambini al di sotto dei 16 anni;
+  - l. persone che possono attestare di non potersi far vaccinare per motivi medici; quale attestato è ammesso il certificato di un medico autorizzato a esercitare la professione sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006[^annex6-lvlu1-lvl1-lvl14-2] sulle professioni mediche;
+  - m. visitatori di ospedali, case di cura e per anziani nonché altri istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale;
+  - n.[^annex6-lvlu1-lvl1-lvl14-3] per le persone che non rientrano nelle lettere a–m, se è già stata somministrata loro una dose di vaccino, ma non sono ancora vaccinate secondo l’allegato 1*a* numero 1.
 
 - 1\.4.2 ...
 - 1\.4.3
@@ -1249,6 +1241,8 @@ Allegato 6*[^t-8]*
 </table>
 
 [^annex6-lvlu1-lvl1-lvl14-1]: In vigore fino al 10 ott. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [582](https://fedlex.data.admin.ch/eli/oc/2021/582)).
+[^annex6-lvlu1-lvl1-lvl14-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^annex6-lvlu1-lvl1-lvl14-3]: In vigore fino al 30 nov. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 1.5 Rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti
 
@@ -1297,6 +1291,74 @@ Allegato 6*[^t-8]*
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
 </table>
 
+### 1.7 Analisi di biologia molecolare aggregate per il SARS-CoV-2 per singole persone
+
+- 1\.7.1
+
+  La Confederazione assume le spese per le analisi di biologia molecolare aggregate per il SARS-CoV-2 per mezzo di campioni salivari con partecipazione individuale delle seguenti persone se non sono sintomatiche:
+
+  - a. le persone di cui al numero 1.4.1 lettera k;
+  - b. le persone di cui al numero 1.4.1 lettera l;
+  - c. [^annex6-lvlu1-lvl1-lvl17-1] le persone di cui al numero 1.4.1 lettera n.
+
+- 1\.7.2
+
+  Assume le spese soltanto se le prestazioni sono fornite dai seguenti fornitori di prestazioni:
+
+  - a.
+
+    per la sorveglianza del prelievo del campione da parte della persona da testare:
+
+    - 1\.
+
+      dai seguenti fornitori di prestazioni secondo la LAMal:
+
+      - – medici
+      - – farmacisti
+      - – ospedali
+      - – laboratori di cui all’articolo 54 capoverso 3 OAMal e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp
+      - – case di cura
+      - – organizzazioni di cure e d’aiuto a domicilio,
+
+    - 2\. da centri di test gestiti dal Cantone o su suo incarico,
+    - 3\. da istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale,
+    - 4\. da assistenti secondo la LAI;
+
+  - b. per l’analisi, da laboratori di cui all’articolo 54 capoverso 3 OAMal e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp.
+
+- 1\.7.3
+
+  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 per singole persone assume al massimo 36 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+
+  - a. per il prelievo del campione:
+
+<table>
+<tr><td>Prestazione</td><td>Importo massimo</td></tr>
+<tr><td>Sorveglianza del prelievo del campione da parte della persona da testare e attribuzione del campione alla persona</td><td>15 fr.</td></tr>
+<tr><td>Invio del risultato del test alla persona testata ed emissione del certificato di test COVID-19</td><td>2.50 fr.</td></tr>
+</table>
+
+- b. per l’analisi di biologia molecolare aggregata per singole persone:
+
+<table>
+<tr><th>Prestazione</th><th>Importo massimo</th></tr>
+<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>16 fr.</td></tr>
+<tr><td>– per l’analisi</td><td>13 fr.</td></tr>
+<tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>3 fr.</td></tr>
+<tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>13.50 fr.</td></tr>
+<tr><td>– per l’analisi</td><td>13 fr.</td></tr>
+<tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>0.50 fr.</td></tr>
+</table>
+
+- c. per l’aggregazione centralizzata:
+
+<table>
+<tr><th>Prestazione</th><th>Importo massimo</th></tr>
+<tr><td>Per l’aggregazione del campione, per persona</td><td>2.50 fr.</td></tr>
+</table>
+
+[^annex6-lvlu1-lvl1-lvl17-1]: In vigore fino al 30 nov. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+
 ### 2 Tariffe ridotte per i test mirati e ripetuti
 
 ### 2.1 Test rapidi SARS-CoV-2 per uso professionale
@@ -1333,12 +1395,13 @@ Allegato 6*[^t-8]*
     - 3\. da istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale,
     - 4\. da assistenti secondo la LAI.
 
-- 2\.1.3 Per i test rapidi SARS-CoV-2 per uso professionale assume al massimo 28 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 2\.1.3 Per i test rapidi SARS-CoV-2 per uso professionale assume al massimo 30.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
 <tr><td>Prestazione</td><td>Importo massimo</td></tr>
-<tr><td>Se il campione non è prelevato dalla persona testata stessa: per il prelievo del campione e l’esecuzione del test, compresi il materiale necessario per il test, il materiale di protezione e il tempo di lavoro, nonché l’analisi e il disbrigo dell’incarico</td><td>28 fr.</td></tr>
-<tr><td>Se il campione è prelevato dalla persona testata stessa: per l’esecuzione del test, compresi il materiale necessario per il test, il materiale di protezione e il tempo di lavoro, nonché l’analisi e il disbrigo dell’incarico</td><td>14 fr.</td></tr>
+<tr><td>Se il campione non è prelevato dalla persona testata stessa: per il prelievo del campione e l’esecuzione del test, compresi il materiale necessario per il test, il materiale di protezione e il tempo di lavoro, nonché per l’analisi e il disbrigo dell’incarico</td><td>28 fr.</td></tr>
+<tr><td>Se il campione è prelevato dalla persona testata stessa: per l’esecuzione del test, compresi il materiale necessario per il test, il materiale di protezione e il tempo di lavoro, nonché per l’analisi e il disbrigo dell’incarico</td><td>14 fr.</td></tr>
+<tr><td>Per l’emissione del certificato di test COVID-19</td><td>2.50 fr.</td></tr>
 </table>
 
 ### 2.2 Analisi di biologia molecolare aggregate per il SARS-CoV-2
@@ -1379,7 +1442,7 @@ Allegato 6*[^t-8]*
 
 - 2\.2.3
 
-  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 309 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 311.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
 
@@ -1406,7 +1469,14 @@ Allegato 6*[^t-8]*
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Per l’esecuzione nell’ambito della scuola dell’obbligo, del livello secondario II e dei campi, per ogni campione aggregato</td><td>18.50 Fr.</td></tr>
+<tr><td>Per l’esecuzione nell’ambito della scuola dell’obbligo, del livello secondario II e dei campi, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
+</table>
+
+- d. per il certificato:
+
+<table>
+<tr><th>Prestazione</th><th>Importo massimo</th></tr>
+<tr><td>Per l’emissione del certificato di test COVID-19</td><td>2.50 fr.</td></tr>
 </table>
 
 ### 3 Tariffe di base per i test mirati e ripetuti
@@ -1442,11 +1512,12 @@ Allegato 6*[^t-8]*
   - 3\. da istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale,
   - 4\. da assistenti secondo la LAI.
 
-- 3\.1.4 Per i test rapidi SARS-CoV-2 per uso professionale secondo il numero 3.1.1 assume al massimo 6.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 3\.1.4 Per i test rapidi SARS-CoV-2 per uso professionale secondo il numero 3.1.1 assume al massimo 9 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
-<tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Per il test rapido SARS-CoV-2 per uso professionale, solo il materiale necessario per il test</td><td>6.50 fr.</td></tr>
+<tr><th colspan="2">Prestazione</th><th>Importo massimo</th></tr>
+<tr><td colspan="2">Per il test rapido SARS-CoV-2 per uso professionale, solo il materiale necessario per il test</td><td>6.50 fr.</td></tr>
+<tr><td>Per l’emissione del certificato di test COVID-19</td><td>2.50 fr.</td></tr>
 </table>
 
 ### 3.2 Analisi di biologia molecolare aggregate per il SARS-CoV-2
@@ -1460,7 +1531,7 @@ Allegato 6*[^t-8]*
   - c. per un contatto in quarantena, se tra il personale dell’azienda in cui lavora sono eseguiti test mirati e ripetuti con almeno un test alla settimana.
 
 - 3\.2.2 Assume le spese soltanto se le prestazioni sono fornite da laboratori di cui all’articolo 54 capoverso 3 OAMal e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp.
-- 3\.2.3 Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 292.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 3\.2.3 Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 295 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
@@ -1474,6 +1545,7 @@ Allegato 6*[^t-8]*
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>5 fr.</td></tr>
 <tr><td>– supplemento per ogni altro campione prelevato fino a una dimensione massima del campione aggregato di 25 campioni singoli</td><td>8 fr.</td></tr>
 <tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1 lettere b e c, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
+<tr><td>Per l’emissione del certificato di test COVID-19</td><td>2.50 fr.</td></tr>
 </table>
 
 ### 3.3**** ...
