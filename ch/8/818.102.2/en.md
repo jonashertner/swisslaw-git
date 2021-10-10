@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-10-01
+version: 2021-10-11
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211001/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211001-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211011/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211011-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211011/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 1 October 2021)
+of 4 June 2021 (Status as of 11 October 2021)
 
 The Swiss Federal Council,
 
@@ -46,7 +46,10 @@ This Ordinance regulates:
 - c. the recognition of corresponding foreign certificates;
 - d. the information systems operated by the Confederation in connection with these certificates;
 - e. the apps offered by the Confederation for certificate holders and checkers;
-- f. the tasks of the cantons in connection with issuing and revoking certificates.
+- f. the tasks of the cantons in connection with issuing and revoking certificates;
+- g.[^1-1] the payment of costs by requesting persons.
+
+[^1-1]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 ## Section 2 Issuance, Form and Revocation of COVID-19 Certificates
 
@@ -140,9 +143,28 @@ The cantons and the Surgeon General shall ensure that in the following cases req
 
 <sup>3</sup> The request for issuance of a COVID-19 vaccination certificate or COVID-19 recovery certificate under paragraph 1 must be submitted in an official language of the canton, in English or an officially certified translation into one of these languages must be provided together with the documents listed in Articles 13 paragraph 2 letter c and 16.[^7-3]
 
+<sup>4</sup>
+
+If there is any doubt as to whether the documents submitted are genuine, the issuer may:
+
+- a.
+
+  demand that the requesting person:
+
+  - 1\. appear in person,
+  - 2\. submit officially certified documents,
+  - 3\. submit the information or documents required to assess the request;
+
+- b. obtain further information from the competent foreign authorities in compliance with Article 62 of the Epidemics Act of 28 September 2012[^7-4].[^7-5]
+
+<sup>5</sup> If there is still doubt as to whether the documents submitted are genuine despite taking the foregoing measures, the issuer may decline the request. In such an event, the requesting person is not entitled to a refund of any fee paid.[^7-6]
+
 [^7-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^7-2]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 [^7-3]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-4]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^7-5]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-6]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 8
 
@@ -211,16 +233,17 @@ Issuers, the FOITT and the competent cantonal authorities shall document the rev
 
 **Free of charge**
 
-<sup>1</sup> The requesting person shall not be charged for the issuance or revocation of COVID-19 certificates.
+<sup>1</sup> The requesting person shall not be charged for the issuance or revocation of COVID-19 certificates with the exception of the cases specified in paragraph 2 and Article 26*a* paragraph 3.[^11-1]
 
 <sup>2</sup>
 
 The cantons may make provision for issuers to charge an appropriate share of the cost in the following cases:
 
 - a. when a certificate has to be reissued repeatedly due to loss;
-- b. when issuing a certificate to persons in accordance with Article 7 paragraph 3 who do not have a place of residence in the canton concerned or, in the case of Swiss citizens living abroad, do not have their last place of residence or their home commune in the canton concerned.[^11-1]
+- b. when issuing a certificate to persons in accordance with Article 7 paragraph 3 who do not have a place of residence in the canton concerned or, in the case of Swiss citizens living abroad, do not have their last place of residence or their home commune in the canton concerned.[^11-2]
 
-[^11-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 [AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^11-1]: Amended by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^11-2]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 [AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ## Section 3 General Content of All COVID-19 Certificates
 
@@ -317,7 +340,23 @@ In addition to the general content of all COVID-19 certificates, COVID-19 vaccin
 
 **Requirements**
 
-A COVID-19 recovery certificate shall be issued when a person has been infected with Sars-CoV-2 and has recovered. The finding that the person has been infected with the virus must be based on the positive result of a molecular-biological analysis for Sars-CoV-2.
+<sup>1</sup> A COVID-19 recovery certificate shall be issued when a person has been infected with Sars-CoV-2 and has recovered. The finding that the person has been infected with the virus must be based on the positive result of a molecular-biological analysis for Sars-CoV-2.
+
+<sup>2</sup>
+
+A request for the issuance of a COVID-19 certificate that cannot be processed under the automated procedure for issuing COVID-19 recovery certficates pursuant to Article 8 must be accompanied by the following documents:
+
+- a.
+
+  proof of a positive molecular-biological analysis for Sars-CoV-2 that includes the following information:
+
+  - 1\. the requesting person's surname, first name and date of birth,
+  - 2\. the date and time at which the sample was taken,
+  - 3\. the name and address of the test centre or the institution where the test was carried out;
+
+- b. confirmation of termination of isolation or a medical certificate confirming recovery from a competent authority with official duties, including the name and address of this authority.[^16-1]
+
+[^16-1]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 17
 
@@ -348,7 +387,7 @@ A COVID-19 test certificate shall be issued in the event of a negative result of
 
 <sup>1bis</sup> The FOPH shall maintain an updated list of Sars-CoV-2 rapid tests in accordance with paragraph 1 letter b, and publish it on its website[^19-3].[^19-4]
 
-<sup>1ter</sup> In derogation from paragraph 1, no certificates shall be issued for analyses for Sars-Cov-2 in respect of which the Confederation pays the costs in accordance with Annex 6 numbers 1.1.1 letters a–e and h–j, 1.2.1, 1.4.1 letters a–e, h, i and m, 2.1.1 letter c, 2.2.1 letter c, 3.1.1 letter c and 3.2.1 letter c of the Covid-19 Ordinance 3.[^19-5]
+<sup>1ter</sup> In derogation from paragraph 1, no certificates shall be issued for analyses for Sars-Cov-2 in respect of which the Confederation pays the costs in accordance with Annex 6 numbers 1.1.1 letters a–e h, i number 1 and j, 1.2.1, 1.4.1 letters a–e, h number 1, i and m, 2.1.1 letter c, 2.2.1 letter c, 3.1.1 letter c and 3.2.1 letter c of the COVID-19 Ordinance 3.[^19-5]
 
 <sup>2</sup> Requests for test certificates may be submitted at the latest when the sample is taken.
 
@@ -356,7 +395,7 @@ A COVID-19 test certificate shall be issued in the event of a negative result of
 [^19-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Diseases &gt; Infectious diseases: Outbreaks, Epidemics, Pandemics &gt; Current outbreaks and epidemics &gt; Coronavirus &gt; Information for healthcare professionals &gt; Specialist information on COVID-19 testing
 [^19-4]: Inserted by No I of the O of 30 June 2021, in force since 3 July 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
-[^19-5]: Inserted by No IV of the O of 25 Aug. 2021, in force since 1 Oct. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^19-5]: Inserted by No IV of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Amended by No III of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 #### Art. 20
 
@@ -435,6 +474,26 @@ The FOITT shall operate an information system that is used to do the following w
 <sup>2</sup> The personal data of requesting persons may not be retained for longer than is necessary for generating, signing and transmitting the certificate, or for revoking it.
 
 <sup>3</sup> In order to detect and prevent misuse and for the purpose of any subsequent revocation of certificates, the system shall log which issuer retrieved which certificates and when.
+
+#### Art. 26a
+
+**System for requesting COVID-19 certificates for vaccination or recovery abroad**[^26a-1]
+
+<sup>1</sup> The FOITT shall operate a system that can be used to submit requests under Article 7 paragraph 1 letter b and by issuers to process these requests.
+
+<sup>2</sup>
+
+The system shall allocate the requests as follows:
+
+- a. requests for the issuance of a certificate to a person resident or with place of origin in Switzerland: to the canton of residence or in the case of Swiss citizens living abroad, to the last canton of residence, or, if the person has never been resident in Switzerland, the canton in which the place of origin is located;
+- b. requests for the issuance of a certificate to a person who does not fall under letter a: to the canton in which the person spends or plans to spend their first night in Switzerland.
+
+<sup>3</sup> The Confederation shall charge the issuer in advance a fee of 30 francs for processing a request for the issuance of a certificate to a person pursuant to paragraph 2 letter b. It shall pass on the revenues from this fee to the canton at the end of each quarter. Requests for which no fee has been paid may be declined. The provisions of the General Fees Ordinance of 8 September 2004[^26a-2] also apply.
+
+<sup>4</sup> The requests, the documents submitted and the unique certificate identifer shall be retained for 30 days and then deleted from the system.
+
+[^26a-1]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^26a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 27
 
@@ -529,11 +588,13 @@ The FOITT is the federal body responsible under the data protection legislation 
 
 #### Art. 32
 
-**Costs**
+**Costs of information systems and apps[^32-1]**
 
 <sup>1</sup> The Confederation shall bear the costs of the procurement and operation of the information systems, and of the provision of the apps.
 
 <sup>2</sup> It shall not collect any fees for the use of the systems and apps.
+
+[^32-1]: Amended by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 ## Section 9 Final Provisions
 

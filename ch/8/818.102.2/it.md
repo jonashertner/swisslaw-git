@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-10-01
+version: 2021-10-11
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211011/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211011-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211011/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211001/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 1° ottobre 2021)
+del 4 giugno 2021 (Stato 11 ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -44,7 +44,10 @@ La presente ordinanza disciplina:
 - c. il riconoscimento di certificati esteri equivalenti;
 - d. i sistemi d’informazione gestiti dalla Confederazione inerenti a questi certificati;
 - e. le applicazioni offerte dalla Confederazione ai titolari del certificato e alle persone incaricate della verifica;
-- f. i compiti dei Cantoni inerenti all’emissione e alla revoca dei certificati.
+- f. i compiti dei Cantoni inerenti all’emissione e alla revoca dei certificati;
+- g.[^1-1] l’addebito delle spese ai richiedenti.
+
+[^1-1]: Introdotta dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 ## Sezione 2: Emissione, forma e revoca dei certificati COVID-19
 
@@ -138,9 +141,28 @@ I Cantoni e il medico capo dell’esercito provvedono affinché, nei seguenti ca
 
 <sup>3</sup> La richiesta di emissione di un certificato di vaccinazione COVID-19 o di un certificato di guarigione dalla COVID-19 di cui al capoverso 1, compresa la documentazione di cui agli articoli 13 capoverso 2 lettera c e 16, deve essere presentata in una lingua ufficiale del Cantone, in inglese o come traduzione autenticata ufficialmente in una di queste lingue.[^7-3]
 
+<sup>4</sup>
+
+Se sussistono dubbi sull’autenticità della documentazione presentata, l’emittente può:
+
+- a.
+
+  chiedere al richiedente di:
+
+  - 1\. comparire personalmente,
+  - 2\. presentare autenticazioni ufficiali della documentazione,
+  - 3\. presentare altre informazioni o altra documentazione necessaria per valutare la domanda;
+
+- b. chiedere altre informazioni a servizi esteri competenti, nel rispetto dell’articolo 62 della legge del 28 settembre 2012[^7-4] sulle epidemie.[^7-5]
+
+<sup>5</sup> Se nonostante i provvedimenti permangono dubbi sull’autenticità della documentazione, l’emittente può respingere la richiesta. In questo caso il richiedente non ha diritto ad alcun rimborso di un eventuale emolumento versato.[^7-6]
+
 [^7-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^7-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 [^7-3]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-4]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^7-5]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-6]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 8
 
@@ -209,16 +231,17 @@ Gli emittenti, le autorità cantonali competenti e l’UFIT documentano la revoc
 
 **Gratuità**
 
-<sup>1</sup> L’emissione e la revoca di certificati COVID-19 sono gratuite per il richiedente.
+<sup>1</sup> L’emissione e la revoca di certificati COVID-19 sono gratuite per il richiedente, fatti salvi i casi di cui al capoverso 2 e all’articolo 26*a* capoverso 3.[^11-1]
 
 <sup>2</sup>
 
 I Cantoni possono prevedere la possibilità per gli emittenti di chiedere una partecipazione adeguata ai costi nei seguenti casi:
 
 - a. se un certificato deve essere emesso più volte perché è andato perso;
-- b. per le persone di cui all’articolo 7 capoverso 3 che non hanno un domicilio o, nel caso di Svizzeri all’estero, non hanno l’ultimo comune di domicilio o di attinenza nel Cantone interessato.[^11-1]
+- b. per le persone di cui all’articolo 7 capoverso 3 che non hanno un domicilio o, nel caso di Svizzeri all’estero, non hanno l’ultimo comune di domicilio o di attinenza nel Cantone interessato.[^11-2]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^11-1]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^11-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ## Sezione 3: Contenuto generale di tutti i certificati COVID-19
 
@@ -316,7 +339,23 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di va
 
 **Condizioni**
 
-Un certificato di guarigione dalla COVID-19 è emesso se una persona si è infettata con il SARS-CoV-2 ed è considerata guarita. L’attestazione che la persona si è infettata deve basarsi sul risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2.
+<sup>1</sup> Un certificato di guarigione dalla COVID-19 è emesso se una persona si è infettata con il SARS-CoV-2 ed è considerata guarita. L’attestazione che la persona si è infettata deve basarsi sul risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2.
+
+<sup>2</sup>
+
+Una richiesta di emissione di un certificato COVID-19 che non può essere elaborato con la procedura automatizzata per l’emissione di certificati di guarigione dalla COVID-19 di cui all’articolo 8 deve comprendere la seguente documentazione:
+
+- a.
+
+  attestazione di un risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2, contenente le seguenti indicazioni:
+
+  - 1\. cognome, nome e data di nascita del richiedente,
+  - 2\. data e ora del prelievo del campione,
+  - 3\. nome e indirizzo del centro di test o dell’istituzione che ha effettuato il test;
+
+- b. conferma della revoca dell’isolamento o conferma medica della guarigione rilasciata da un servizio competente che adempie compiti delle autorità, incluso il nome e l’indirizzo di questo servizio.[^16-1]
+
+[^16-1]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 17
 
@@ -345,16 +384,17 @@ Un certificato di test COVID-19 è emesso in caso di risultato negativo di:
 - a. un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2;
 - b.[^19-1] un test rapido SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^19-2].
 
-<sup>1bis</sup> In deroga al capoverso 1, non può essere emesso il certificato per le analisi SARS-CoV-2 di cui la Confederazione assume le spese secondo l’allegato 6 numeri 1.1.1 lettere a–e h–j, 1.2.1, 1.4.1 lettere a–e, h, i e m, 2.1.1 lettera c, 2.2.1 lettera c, 3.1.1 lettera c nonché 3.2.1 lettera c dell’ordinanza 3 COVID-19.[^19-3]
+<sup>1bis</sup> L’UFSP tiene un elenco aggiornato dei test rapidi SARS-CoV-2 secondo il capoverso 1 lettera b e lo pubblica sul proprio sito Internet[^19-3].[^19-4]
 
-<sup>1ter</sup> In deroga al capoverso 1, non può essere emesso il certificato per le analisi SARS-CoV-2 di cui la Confederazione assume le spese secondo l’allegato 6 numeri 1.1.1 lettere a–e h–j, 1.2.1, 1.4.1 lettere a–e, h, i e m, 2.1.1 lettera c, 2.2.1 lettera c, 3.1.1 lettera c nonché 3.2.1 lettera c dell’ordinanza 3 COVID-19.[^19-4]
+<sup>1ter</sup> In deroga al capoverso 1, non può essere emesso il certificato per le analisi SARS-CoV-2 di cui la Confederazione assume le spese secondo l’allegato 6 numeri 1.1.1 lettere a–e, h, i numero 1 e j, 1.2.1, 1.4.1 lettere a–e, h numero 1, i e m, 2.1.1 lettera c, 2.2.1 lettera c, 3.1.1 lettera c nonché 3.2.1 lettera c dell’ordinanza 3 COVID-19.[^19-5]
 
 <sup>2</sup> Le richieste per l’emissione di certificati di test possono essere presentate al più tardi al momento del prelievo del campione.
 
 [^19-1]: Nuovo testo giusta il n. IV dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^19-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^19-3]: Introdotto dal n. I dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)). Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
-[^19-4]: Introdotto dal n. IV dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^19-3]: www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: insorgenze, epidemie, pandemie &gt; Insorgenze e epidemie attuali &gt; Coronavirus &gt; Informazioni per i professionisti della salute &gt; Informazioni specialistiche sui test COVID-19.
+[^19-4]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 3 lug. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-5]: Introdotto dal n. IV dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Nuovo testo giusta il n. III dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 #### Art. 20
 
@@ -435,6 +475,26 @@ L’UFIT gestisce in un sistema d’informazione i certificati di firma utilizza
 <sup>2</sup> I dati personali del richiedente non possono essere conservati per un periodo superiore a quello necessario per la redazione, la firma e la trasmissione del certificato o per la revoca di quest’ultimo.
 
 <sup>3</sup> Al fine di individuare e prevenire gli abusi nonché di procedere successivamente a un’eventuale revoca dei certificati, il sistema registra quale emittente ha creato quali certificati e quando.
+
+#### Art. 26a
+
+**Sistema per la richiesta di certificati COVID-19 per vaccinazioni somministrate o guarigioni avvenute all’estero**[^26a-1]
+
+<sup>1</sup> L’UFIT gestisce un sistema che può essere utilizzato per la presentazione delle richieste di cui all’articolo 7 capoverso 1 lettera b nonché per l’elaborazione e il disbrigo di tali richieste da parte degli emittenti.
+
+<sup>2</sup>
+
+Il sistema attribuisce le richieste come segue:
+
+- a. richieste di emissione di un certificato a una persona con domicilio o luogo di attinenza in Svizzera: al Cantone di domicilio oppure, nel caso degli Svizzeri all’estero, all’ultimo Cantone di domicilio o, se la persona non è mai stata domiciliata in Svizzera, al Cantone del luogo di attinenza;
+- b. richieste di emissione di un certificato a una persona che non rientra nella lettera a: al Cantone nel quale la persona trascorre o pensa di trascorrere la sua prima notte in Svizzera.
+
+<sup>3</sup> Per l’elaborazione delle richieste di emissione di un certificato a una persona di cui al capoverso 2 lettera b, la Confederazione riscuote anticipatamente dal richiedente un emolumento di 30 franchi. Alla fine di ogni trimestre, versa i proventi di tale emolumento al Cantone. Le richieste per le quali l’emolumento non è stato versato possono essere respinte. Per il resto si applicano le disposizioni dell’ordinanza generale sugli emolumenti dell’8 settembre 2004[^26a-2].
+
+<sup>4</sup> Le richieste sono conservate per 30 giorni, unitamente alla documentazione presentata e all’identificativo univoco del certificato, e successivamente cancellate dal sistema.
+
+[^26a-1]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^26a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 27
 
@@ -529,11 +589,13 @@ L’UFIT è l’organo federale responsabile degli aspetti legali di protezione 
 
 #### Art. 32
 
-**Costi**
+**Costi dei sistemi d’informazione e delle applicazioni [^32-1]**
 
 <sup>1</sup> La Confederazione si assume i costi per l’acquisto e la gestione dei sistemi d’informazione nonché per la messa a disposizione delle applicazioni.
 
 <sup>2</sup> Non riscuote nessun emolumento per l’utilizzo dei sistemi e delle applicazioni.
+
+[^32-1]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 ## Sezione 9: Disposizioni finali
 

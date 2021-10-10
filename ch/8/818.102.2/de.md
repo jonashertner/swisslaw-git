@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-10-01
+version: 2021-10-11
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211011/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211011-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211011/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211001/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 1. Oktober 2021)
+vom 4. Juni 2021 (Stand am 11. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -44,7 +44,10 @@ Diese Verordnung regelt:
 - c. die Anerkennung entsprechender ausländischer Zertifikate;
 - d. die vom Bund betriebenen Informationssysteme im Zusammenhang mit diesen Zertifikaten;
 - e. die vom Bund angebotenen Apps für die Zertifikatsinhaberinnen und -inhaber und für die Prüfenden;
-- f. die Aufgaben der Kantone im Zusammenhang mit der Ausstellung und dem Widerruf der Zertifikate.
+- f. die Aufgaben der Kantone im Zusammenhang mit der Ausstellung und dem Widerruf der Zertifikate;
+- g.[^1-1] die Auferlegung von Kosten an antragsstellende Personen.
+
+[^1-1]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 ## 2. Abschnitt: Ausstellung, Form und Widerruf von Covid-19-Zertifikaten
 
@@ -138,9 +141,28 @@ Die Kantone und der Oberfeldarzt sorgen dafür, dass in den nachstehenden Fälle
 
 <sup>3</sup> Der Antrag auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Absatz 1 muss zusammen mit den Unterlagen nach den Artikeln 13 Absatz 2 Buchstabe c und 16 in einer Amtssprache des Kantons, in Englisch oder in einer amtlich beglaubigten Übersetzung in einer dieser Sprachen eingereicht werden.[^7-3]
 
+<sup>4</sup>
+
+Bestehen Zweifel an der Echtheit der eingereichten Unterlagen, so kann die Ausstellerin oder der Aussteller:
+
+- a.
+
+  verlangen, dass die Antragstellerin oder der Antragsteller:
+
+  - 1\. persönlich erscheint,
+  - 2\. amtliche Beglaubigungen der Unterlagen einreicht,
+  - 3\. weitere Informationen oder Unterlagen, die zur Beurteilung des Antrags notwendig sind, einreicht;
+
+- b. unter Einhaltung von Artikel 62 des Epidemiengesetzes vom 28. September 2012[^7-4] weitere Informationen von zuständigen ausländischen Stellen einholen. [^7-5]
+
+<sup>5</sup> Bestehen trotz Massnahmen weiterhin Zweifel an der Echtheit der Unterlagen, so kann die Ausstellerin oder der Aussteller den Antrag ablehnen. Die antragstellende Person hat diesfalls keinen Anspruch auf Rückerstattung einer allfällig bezahlten Gebühr. [^7-6]
+
 [^7-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^7-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 [^7-3]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-4]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^7-5]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-6]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 8
 
@@ -209,16 +231,17 @@ Die Ausstellerinnen und Aussteller, das BIT sowie die zuständigen kantonalen Be
 
 **Unentgeltlichkeit**
 
-<sup>1</sup> Die Ausstellung und der Widerruf von Covid-19-Zertifikaten sind für die antragstellende Person kostenlos.
+<sup>1</sup> Die Ausstellung und der Widerruf von Covid-19-Zertifikaten sind mit Ausnahme der Fälle nach Absatz 2 und nach Artikel 26*a* Absatz 3 für die antragstellende Person kostenlos.[^11-1]
 
 <sup>2</sup>
 
 Die Kantone können vorsehen, dass die Ausstellerinnen und Aussteller in den folgenden Fällen eine angemessene Kostenbeteiligung erheben können:
 
 - a. bei wiederholter Neuausstellung infolge Verlusts eines Zertifikats;
-- b. bei der Ausstellung eines Zertifikats an Personen nach Artikel 7 Absatz 3, die keinen Wohnsitz oder, im Falle von Auslandschweizerinnen und Auslandschweizern, nicht ihre letzte Wohnsitz- oder ihre Heimatgemeinde im betreffenden Kanton haben.[^11-1]
+- b. bei der Ausstellung eines Zertifikats an Personen nach Artikel 7 Absatz 3, die keinen Wohnsitz oder, im Falle von Auslandschweizerinnen und Auslandschweizern, nicht ihre letzte Wohnsitz- oder ihre Heimatgemeinde im betreffenden Kanton haben.[^11-2]
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ## 3. Abschnitt: Allgemeiner Inhalt aller Covid-19-Zertifikate
 
@@ -316,7 +339,23 @@ Covid-19-Impfzertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Z
 
 **Voraussetzungen**
 
-Ein Covid-19-Genesungszertifikat wird ausgestellt, wenn eine Person sich mit Sars-CoV-2 angesteckt hat und als genesen gilt. Der Befund, dass die Person sich angesteckt hat, muss sich auf ein positives Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2 stützen.
+<sup>1</sup> Ein Covid-19-Genesungszertifikat wird ausgestellt, wenn eine Person sich mit Sars-CoV-2 angesteckt hat und als genesen gilt. Der Befund, dass die Person sich angesteckt hat, muss sich auf ein positives Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2 stützen.
+
+<sup>2</sup>
+
+Ein Antrag auf Ausstellung eines Covid-19-Zertifikats, der nicht im automatisierten Verfahren für die Ausstellung von Covid-19-Genesungszertifikaten nach Artikel 8 verarbeitet werden kann, muss folgende Unterlagen umfassen:
+
+- a.
+
+  Nachweis eines positiven Ergebnisses einer molekularbiologischen Analyse auf Sars-CoV-2, der folgende Angaben enthält:
+
+  - 1\. Name, Vorname und Geburtsdatum der antragstellenden Person,
+  - 2\. Datum und Uhrzeit der Probenentnahme,
+  - 3\. Name und Adresse des Testzentrums oder der Institution, wo der Test durchgeführt wurde;
+
+- b. Bestätigung der Aufhebung der Absonderung oder ärztliche Bestätigung der Genesung von einer zuständigen Stelle mit behördlichen Aufgaben einschliesslich Name und Adresse dieser Stelle. [^16-1]
+
+[^16-1]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 17
 
@@ -347,7 +386,7 @@ Ein Covid-19-Testzertifikat wird ausgestellt bei einem negativen Ergebnis:
 
 <sup>1bis</sup> Das BAG führt eine aktualisierte Liste der Sars-CoV-2-Schnelltests nach Absatz 1 Buchstabe b und veröffentlicht sie auf seiner Website[^19-3].[^19-4]
 
-<sup>1ter</sup> In Abweichung von Absatz 1 dürfen für Analysen auf Sars-Cov-2, bei denen der Bund nach Anhang 6 Ziffern 1.1.1 Buchstaben a–e und h–j, 1.2.1, 1.4.1 Buchstaben a–e, h, i und m, 2.1.1 Buchstabe c, 2.2.1 Buchstabe c, 3.1.1 Buchstabe c sowie 3.2.1 Buchstabe c der Covid-19-Verordnung 3 die Kosten übernimmt, keine Zertifikate ausgestellt werden.[^19-5]
+<sup>1ter</sup> In Abweichung von Absatz 1 dürfen für Analysen auf Sars-CoV-2, bei denen der Bund nach Anhang 6 Ziffern 1.1.1 Buchstaben a–e, h, i Ziffer 1 und j, 1.2.1, 1.4.1 Buchstaben a–e, h Ziffer 1, i und m, 2.1.1 Buchstabe c, 2.2.1 Buchstabe c, 3.1.1 Buchstabe c sowie 3.2.1 Buchstabe c der Covid-19-Verordnung 3 die Kosten übernimmt, keine Zertifikate ausgestellt werden.[^19-5]
 
 <sup>2</sup> Anträge auf Ausstellung von Testzertifikaten können spätestens anlässlich der Probeentnahme gestellt werden.
 
@@ -355,7 +394,7 @@ Ein Covid-19-Testzertifikat wird ausgestellt bei einem negativen Ergebnis:
 [^19-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Fachinformationen über die Covid-19-Testung.
 [^19-4]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
-[^19-5]: Eingefügt durch Ziff. IV der V vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^19-5]: Eingefügt durch Ziff. IV der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Fassung gemäss Ziff. III der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 #### Art. 20
 
@@ -434,6 +473,26 @@ Das BIT betreibt ein Informationssystem, das dazu dient, Signaturzertifikate zur
 <sup>2</sup> Personenbezogene Daten der antragstellenden Personen dürfen nicht länger aufbewahrt werden, als es für die Erstellung, Signierung und Übermittlung des Zertifikats oder für dessen Widerruf erforderlich ist.
 
 <sup>3</sup> Zur Erkennung und Verhinderung von Missbräuchen sowie zum Zweck eines allfälligen späteren Widerrufs von Zertifikaten wird im System protokolliert, welche Ausstellerin oder welcher Aussteller wann welche Zertifikate abgerufen hat.
+
+#### Art. 26a
+
+**System zur Beantragung von Covid-19-Zertifikaten für im Ausland verabreichte Impfungen oder durchgemachte Erkrankungen**[^26a-1]
+
+<sup>1</sup> Das BIT betreibt ein System, das zur Einreichung von Anträgen nach Artikel 7 Absatz 1 Buchstabe b und zur Bearbeitung und Erledigung dieser Anträge durch die Ausstellerinnen und Aussteller genutzt werden kann.
+
+<sup>2</sup>
+
+Das System teilt die Anträge wie folgt zu:
+
+- a. Anträge auf Ausstellung eines Zertifikats an eine Person mit Wohnsitz oder Heimatort in der Schweiz: dem Wohnsitzkanton oder im Falle von Auslandschweizerinnen und Auslandschweizern, dem letzten Wohnsitzkanton oder, wenn die Person nie Wohnsitz in der Schweiz hatte, dem Kanton des Heimatorts;
+- b. Anträge auf Ausstellung eines Zertifikats an eine Person, die nicht unter Buchstabe a fällt: dem Kanton, in dem die Person ihre erste Nacht in der Schweiz verbringt oder zu verbringen gedenkt.
+
+<sup>3</sup> Für die Behandlung eines Antrags auf Ausstellung eines Zertifikats an eine Person nach Absatz 2 Buchstabe b erhebt der Bund von der Antragstellerin oder dem Antragsteller im Voraus eine Gebühr von 30 Franken. Er leitet dem Kanton am Ende jedes Quartals die Einnahmen aus der Gebühr weiter. Anträge, für die keine Gebühr entrichtet wurde, können abgelehnt werden. Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^26a-2].
+
+<sup>4</sup> Die Anträge einschliesslich der eingereichten Unterlagen sowie die eindeutigen Zertifikatskennungen werden für 30 Tage aufbewahrt und anschliessend vom System gelöscht.
+
+[^26a-1]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^26a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 27
 
@@ -528,11 +587,13 @@ Das BIT ist das datenschutzrechtlich verantwortliche Bundesorgan im Rahmen:
 
 #### Art. 32
 
-**Kosten**
+**Kosten der Informationssysteme und Apps[^32-1]**
 
 <sup>1</sup> Der Bund übernimmt die Kosten für die Beschaffung und den Betrieb der Informationssysteme sowie für die Bereitstellung der Apps.
 
 <sup>2</sup> Er erhebt keine Gebühren für die Benutzung der Systeme und der Apps.
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 ## 9. Abschnitt: Schlussbestimmungen
 

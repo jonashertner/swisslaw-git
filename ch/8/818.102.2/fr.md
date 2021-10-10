@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-10-01
+version: 2021-10-11
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211011/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211011-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211011/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211001/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 1<sup>er</sup> octobre 2021)
+du 4 juin 2021 (Etat le 11 octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -44,7 +44,10 @@ La présente ordonnance règle:
 - c. la reconnaissance de certificats étrangers correspondants;
 - d. les systèmes d’information exploités par la Confédération en relation avec ces certificats;
 - e. les applications proposées par la Confédération aux titulaires de certificats et aux personnes chargées de la vérification de ces certificats;
-- f. les tâches des cantons en lien avec l’établissement et la révocation des certificats.
+- f. les tâches des cantons en lien avec l’établissement et la révocation des certificats;
+- g.[^1-1] les coûts mis à la charge des demandeurs.
+
+[^1-1]: Introduite par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 ## Section 2 Établissement, forme et révocation des certificats COVID-19
 
@@ -87,7 +90,7 @@ L’émetteur informe le demandeur concernant:
 
 <sup>4</sup> Elle facture aux cantons l’impression et la transmission des certificats de vaccination COVID-19 des personnes qui auront été vaccinées à partir du 15 juillet 2021.[^5-1]
 
-[^5-1]: Introduit par le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^5-1]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 6
 
@@ -138,9 +141,28 @@ Les cantons et le médecin en chef de l’armée veillent à ce que les demandes
 
 <sup>3</sup> La demande d’établissement d’un certificat de vaccination COVID-19 ou d’un certificat de guérison COVID-19 visée à l’al. 1 doit être déposée avec les documents mentionnés aux art. 13, al. 2, let. c, et 16 dans une langue officielle du canton, en anglais ou dans une traduction certifiée conforme dans une des langues mentionnées.[^7-3]
 
+<sup>4</sup>
+
+En cas de doute sur l’authenticité des documents fournis, l’émetteur peut:
+
+- a.
+
+  exiger que le demandeur:
+
+  - 1\. se présente en personne,
+  - 2\. soumette une certification officielle des documents fournis,
+  - 3\. fournisse les informations ou documents supplémentaires nécessaires à l’évaluation de la demande;
+
+- b. demander des informations complémentaires à des services étrangers compétents, dans le respect des dispositions de l’art. 62 de la loi du 28 septembre 2012 sur les épidémies[^7-4].[^7-5]
+
+<sup>5</sup> Si le doute sur l’authenticité des documents subsiste malgré ces mesures, l’émetteur peut rejeter la demande de certificat. Dans ce cas, le demandeur n’a pas droit au remboursement d’un éventuel émolument qu’il aurait payé.[^7-6]
+
 [^7-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 [^7-3]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-4]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^7-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-6]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 8
 
@@ -209,16 +231,17 @@ Les émetteurs, l’OFIT et les autorités cantonales compétentes documentent l
 
 **Gratuité**
 
-<sup>1</sup> L’établissement et la révocation de certificats COVID-19 sont gratuits pour le demandeur.
+<sup>1</sup> L’établissement et la révocation de certificats COVID-19 sont gratuits pour le demandeur, à l’exception des cas visés à l’al. 2 et à l’art. 26*a*, al. 3.[^11-1]
 
 <sup>2</sup>
 
 Les cantons peuvent prévoir la possibilité pour les émetteurs de demander une participation aux frais appropriée dans les cas suivants:
 
 - a. si un certificat doit être établi plusieurs fois à la suite de pertes;
-- b. si le certificat doit être établi pour une personne visée à l’art. 7, al. 3, dont le domicile ou, dans les cas des Suisses de l’étranger, la dernière commune de domicile ou d’origine ne se trouve pas dans le canton concerné.[^11-1]
+- b. si le certificat doit être établi pour une personne visée à l’art. 7, al. 3, dont le domicile ou, dans les cas des Suisses de l’étranger, la dernière commune de domicile ou d’origine ne se trouve pas dans le canton concerné.[^11-2]
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ## Section 3 Contenu général de tous les certificats COVID-19
 
@@ -298,7 +321,7 @@ Pour les vaccins qui ne sont autorisés ni en Suisse ni pour l’UE, mais qui on
 
 Les certificats de vaccination COVID-19 contiennent, en plus du contenu général de tous les certificats COVID-19, les indications visées à l’annexe 2 concernant le vaccin COVID-19 administré, notamment celle précisant si la vaccination a été entièrement administrée.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 15
 
@@ -308,7 +331,7 @@ Les certificats de vaccination COVID-19 contiennent, en plus du contenu généra
 
 <sup>2</sup> La période de validité commence au plus tôt le jour où la dernière dose est administrée, pour autant que le vaccin ait été administré entièrement conformément aux exigences visées à l’annexe 2.[^15-1]
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ## Section 5 Certificats de guérison COVID-19
 
@@ -316,7 +339,23 @@ Les certificats de vaccination COVID-19 contiennent, en plus du contenu généra
 
 **Conditions**
 
-Un certificat de guérison COVID-19 est établi lorsqu’une personne a contracté le SARS-CoV-2 et qu’elle est considérée comme guérie. L’infection d’une personne doit être attestée par le résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2.
+<sup>1</sup> Un certificat de guérison COVID-19 est établi lorsqu’une personne a contracté le SARS-CoV-2 et qu’elle est considérée comme guérie. L’infection d’une personne doit être attestée par le résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2.
+
+<sup>2</sup>
+
+Une demande de certificat COVID-19 qui ne peut pas être traitée selon la procédure automatisée d’établissement de certificats de guérison COVID-19 prévue à l’art. 8 doit comprendre les documents suivants:
+
+- a.
+
+  une attestation du résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2 incluant les indications suivantes:
+
+  - 1\. nom, prénom et date de naissance du demandeur,
+  - 2\. date et heure du prélèvement de l’échantillon,
+  - 3\. nom et adresse du centre de test ou de l’institution où le test a été effectué;
+
+- [tab] b. une confirmation de la levée de l’isolement ou une attestation médicale de la guérison établie par un service compétent exerçant des tâches relevant de la puissance publique, indiquant le nom et l’adresse de ce service.[^16-1]
+
+[^16-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 17
 
@@ -347,7 +386,7 @@ Un certificat de test COVID-19 est établi lors du résultat négatif:
 
 <sup>1bis</sup> L’OFSP tient à jour une liste des tests rapides SARS-CoV-2 visés à l’al. 1, let. b, et la publie sur son site Internet[^19-3].[^19-4]
 
-<sup>1ter</sup> En dérogation à l’al. 1, aucun certificat ne peut être établi pour des analyses au SARS-CoV-2 dont la Confédération prend en charge les coûts en vertu de l’annexe 6, ch. 1.1.1., let. a à e et h à j, 1.2.1, 1.4.1, let. a à e, h, i et m, 2.1.1, let. c, 2.2.1, let. c, 3.1.1, let. c, et 3.2.1, let. c, de l’ordonnance 3 COVID-19.[^19-5]
+<sup>1ter</sup> En dérogation à l’al. 1, aucun certificat ne peut être établi pour des analyses au SARS-CoV-2 dont la Confédération prend en charge les coûts en vertu de l’annexe 6, ch. 1.1.1., let. a à e, h, i, ch. 1, et j, 1.2.1, 1.4.1, let. a à e, h, ch. 1, i et m, 2.1.1, let. c, 2.2.1, let. c, 3.1.1, let. c, et 3.2.1, let. c, de l’ordonnance 3 COVID-19.[^19-5]
 
 <sup>2</sup> Les demandes d’établissement de certificats de test peuvent être présentées au plus tard lors du prélèvement de l’échantillon.
 
@@ -355,7 +394,7 @@ Un certificat de test COVID-19 est établi lors du résultat négatif:
 [^19-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Informations techniques sur les tests COVID-19
 [^19-4]: Introduit par le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
-[^19-5]: Introduit par le ch. IV de l’O du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^19-5]: Introduit par le ch. IV de l’O du 25 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Nouvelle teneur selon le ch. III de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 #### Art. 20
 
@@ -436,6 +475,26 @@ L’OFIT exploite un système d’information qui sert à gérer les certificats
 
 <sup>3</sup> Afin de détecter et d’éviter les abus et de permettre une éventuelle révocation ultérieure des certificats, le système journalise quel émetteur a commandé quels certificats et à quel moment.
 
+#### Art. 26a
+
+**Système de demande de certificats COVID-19 pour les vaccinations ou les guérisons ayant eu lieu à l’étranger**[^26a-1]
+
+<sup>1</sup> L’OFIT exploite un système qui permet de déposer des demandes selon l’art. 7, al. 1, let. b, et qui peut être utilisé par les émetteurs pour traiter et liquider ces demandes.
+
+<sup>2</sup>
+
+Le système attribue les demandes de la manière suivante:
+
+- a. demandes d’établissement d’un certificat émanant de personnes ayant leur domicile ou le lieu d’origine en Suisse: au canton de domicile ou, s’il s’agit de Suisses de l’étranger, au dernier canton de domicile ou, si la personne n’a jamais eu de domicile en Suisse, au canton du lieu d’origine;
+- b. demandes d’établissement d’un certificat émanant de personnes qui ne remplissent pas les critères de la let. a: au canton dans lequel la personne passe ou pense passer la première nuit en Suisse.
+
+<sup>3</sup> Pour le traitement d’une demande d’établissement d’un certificat pour une personne visée à l’al. 2, let. b, la Confédération perçoit à l’avance un émolument de 30 francs. Elle transfère les émoluments perçus au canton à la fin de chaque trimestre. Les demandes pour lesquelles l’émolument n’a pas été versé peuvent être rejetées. Pour le reste, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^26a-2] s’appliquent.
+
+<sup>4</sup> Les demandes, avec les documents fournis, et les identifiants uniques sont conservés durant 30 jours, puis effacés définitivement du système.
+
+[^26a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^26a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
 #### Art. 27
 
 **Système de recherche des certificats révoqués**
@@ -458,7 +517,7 @@ Le logiciel est régi par les principes suivants:
 - b. le contenu des certificats doit être protégé par des mesures appropriées contre tout accès non autorisé;
 - c. l’OFIT publie le code source et les spécifications techniques du logiciel qu’il fournit.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 12 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 12 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 28a
 
@@ -478,7 +537,7 @@ Le certificat ne contenant que les données strictement nécessaires comprend:
 
 <sup>4</sup> La durée de validité du certificat ne contenant que les données strictement nécessaires correspond à la durée de validité la plus courte des certificats de test COVID-19 conformément à l’annexe 4; elle s’éteint dans tous les cas au moment de l’arrivée à échéance du certificat sur lequel il se fonde.
 
-[^28a-1]: Introduit par le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 12 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^28a-1]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 12 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 29
 
@@ -504,7 +563,7 @@ Les logiciels sont régis par les principes suivants:
 
 <sup>3</sup> Quiconque reçoit un certificat pour vérification ne peut conserver ce certificat et les informations qu’il contient ou les utiliser à une fin autre que la vérification.
 
-[^29-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 12 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 12 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 30
 
@@ -529,11 +588,13 @@ L’OFIT est l’organe fédéral responsable en matière de protection des donn
 
 #### Art. 32
 
-**Coûts**
+**Coûts relatifs aux systèmes d’information et aux applications[^32-1]**
 
 <sup>1</sup> La Confédération prend en charge les coûts relatifs à l’acquisition et à l’exploitation des systèmes d’information et à la mise à disposition des applications.
 
 <sup>2</sup> Elle ne perçoit pas d’émoluments pour l’utilisation des systèmes et des applications.
+
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 ## Section 9 Dispositions finales
 
@@ -563,7 +624,7 @@ Annexe 1*[^t-1]*
 
 ## Contenu général des certificats COVID-19
 
-[^t-1]: Mise à jour par le ch. II des O du 30 juin 2021 (Ordonnance COVID-19 certificats) ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) et du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^t-1]: Mise à jour par le ch. II des O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) et du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Indications concernant le titulaire
 
@@ -591,7 +652,7 @@ Annexe 2*[^t-2]*
 
 ## Dispositions particulières applicables aux certificats de vaccination COVID-19
 
-[^t-2]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière, ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et le ch. II des O du 30 juin 2021 (Ordonnance COVID-19 certificats) ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) et du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^t-2]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière, ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et le ch. II des O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) et du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Début de la validité et durée de validité maximale
 
@@ -654,7 +715,7 @@ Annexe 4*[^t-3]*
 
 ## Dispositions particulières applicables aux certificats de test COVID-19
 
-[^t-3]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et le ch. II de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-3]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et le ch. II de l’O du 30 juin 2021, en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ### 1 ...
 
