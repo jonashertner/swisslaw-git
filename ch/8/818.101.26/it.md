@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: it
-version: 2021-10-04
+version: 2021-10-11
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211004/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211004-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211004/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211011/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211011-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211011/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211004/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 23 giugno 2021 (Stato 4 ottobre 2021)
+del 23 giugno 2021 (Stato 11 ottobre 2021)
 
 Il Consiglio federale svizzero,
 

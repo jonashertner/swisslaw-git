@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: fr
-version: 2021-10-04
+version: 2021-10-11
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211004/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211004-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211004/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211011/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211011-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211011/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211004/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 23 juin 2021 (Etat le 4 octobre 2021)
+du 23 juin 2021 (Etat le 11 octobre 2021)
 
 Le Conseil fédéral suisse,
 

@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2021-10-04
+version: 2021-10-11
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211004/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211004-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211004/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211011/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211011-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211011/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 4 October 2021)
+of 23 June 2021 (Status as of 11 October 2021)
 
 The Swiss Federal Council,
 

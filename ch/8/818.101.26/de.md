@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2021-10-04
+version: 2021-10-11
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211004/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211004-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211004/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211011/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211011-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211011/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211004/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 4. Oktober 2021)
+vom 23. Juni 2021 (Stand am 11. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -609,7 +609,7 @@ Bewilligungen für Pilotprojekte, die gestützt auf Artikel 6*b*<sup>quater</sup
 
 Diese Verordnung tritt am 26. Juni 2021 um 00.00 Uhr in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 10 Abs. 4, 11 Abs. 1 sowie 29)
 
@@ -687,7 +687,7 @@ Das Schutzkonzept enthält Massnahmen in Bezug auf:
 - d. eine allfällige Pflicht zum Tragen einer Gesichtsmaske für Arbeitnehmerinnen und Arbeitnehmer und weitere an der Veranstaltung tätige Personen, die vor Ort Kontakt haben zu Besucherinnen und Besuchern;
 - e. die Anwesenheit von Personen mit einem Attest nach Artikel 3 Absatz 2<sup>bis</sup>, etwa die Pflicht dieser Personen zum Tragen einer Gesichtsmaske oder, bei gleichzeitigem Vorliegen eines Attests zur Befreiung von der Pflicht zum Tragen einer Gesichtsmaske nach Artikel 5 Absatz 1 Buchstabe b, Vorgaben zur Einhaltung des erforderlichen Abstands.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 6 Abs. 5 und 6, 7 Abs. 2 und 3 sowie 29)
 
