@@ -5,40 +5,44 @@ title: Vollzugsverordnung zum Gesetz über die Verhältniswahl des Landrates
 short: "Proporzverordnung, PropV"
 language: de
 version: 2017-08-01
-valid_until: 2025-12-31
+corrected: 2021-10-12
 version_adopted: 2017-07-04
 adopted: 2013-10-15
 in_force: 2013-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/132.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/631/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/17/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Gesetz über die Verhältniswahl des Landrates
+# Vollzugsverordnung zum Gesetz über die Verhältniswahl des Landrates (Proporzverordnung, PropV)
 
-(Proporzverordnung, PropV)
-
-vom 15.10.2013 (Stand 01.08.2017)
+vom 15. Oktober 2013[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 33 des Gesetzes vom 26. April 1981 über die Verhältniswahl des Landrates[^ingress-1],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 33 des Gesetzes vom 26. April 1981 über die Verhältniswahl des Landrates[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 132.1
+[^t-1]: A 2013, 1712
+[^t-2]: NG 132.1
 
-## 1 Wahlvorschläge
+### I. WAHLVORSCHLÄGE
+
+[^hIWAHLVORSCHLÄGE-1]: Fassung gemäss Regierungsratsbeschluss vom 4. Juli 2017, A 2017, 1264, in Kraft seit 1. August 2017
 
 #### § 1
 
-**Prüfung der Wahlvorschläge**
+**Prüfung der Wahlvorschläge[^hIWAHLVORSCHLÄGE-1]**
 
 <sup>1</sup> Die Gemeindekanzlei prüft jeden Wahlvorschlag unverzüglich und gibt nötigenfalls der Vertretung der Unterzeichnenden des Wahlvorschlages die Möglichkeit:
 
 - 1\. Mängel des Wahlvorschlages zu beheben;
+
 - 2\. Listenbezeichnungen, die zu Verwechslungen Anlass geben können, zu ändern;
+
 - 3\. für amtlich gestrichene Vorgeschlagene Ersatzvorschläge einzureichen.
 
 <sup>2</sup> Die Gemeinden melden dem kantonalen Abstimmungsbüro unverzüglich die eingegangenen Wahlvorschläge.
@@ -49,11 +53,13 @@ beschliesst:
 
 **Listengruppen**
 
-<sup>1</sup> Das kantonale Abstimmungsbüro teilt den Gemeinden unverzüglich die bereinigten Bezeichnungen der Listengruppen mit.
+Das kantonale Abstimmungsbüro teilt den Gemeinden unverzüglich die bereinigten Bezeichnungen der Listengruppen mit.
 
 #### § 3
 
-**Wahlzettel 1. allgemein**
+**Wahlzettel**
+
+### 1. allgemein
 
 <sup>1</sup> Die Wahlzettel sind in allen Gemeinden nach einem einheitlichen Muster und in einheitlicher Farbe zu gestalten; das kantonale Abstimmungsbüro legt die Einzelheiten in einem entsprechenden Muster fest.
 
@@ -88,16 +94,20 @@ beschliesst:
 <sup>2</sup> Die Wahlunterlagen umfassen:
 
 - 1\. einen vollständigen Satz der Wahlzettel, eingeschlossen einen Blankowahlzettel;
+
 - 2\. die vom Regierungsrat erlassene Wahlanleitung;
+
 - 3\. das Stimmcouvert;
+
 - 4\. den Stimmrechtsausweis; und
+
 - 5\. die Wahlprospekte.
 
 <sup>3</sup> Die Wahlunterlagen dürfen keine weiteren Beilagen enthalten.
 
 <sup>4</sup> Alle in einer Gemeinde gültigen amtlichen Wahlzettel sind im Wahllokal aufzulegen.
 
-## 2 Wahlakt
+### II. WAHLAKT
 
 #### § 7
 
@@ -111,7 +121,9 @@ beschliesst:
 
 #### § 8
 
-**Veränderte Wahlzettel 1. Änderung der Listenbezeichnung**
+**Veränderte Wahlzettel**
+
+### 1. Änderung der Listenbezeichnung
 
 <sup>1</sup> Die Listenbezeichnung kann handschriftlich ersatzlos gestrichen werden.
 
@@ -135,7 +147,11 @@ beschliesst:
 
 #### § 10
 
-**3. vom Abstimmungsbüro vorzunehmende Streichungen a) allgemein**
+**3. vom Abstimmungsbüro vorzunehmende**
+
+### Streichungen
+
+- a) allgemein
 
 <sup>1</sup> Wählbar sind nur Kandidierende, deren Name auf einem der amtlichen Wahlzettel des betreffenden Wahlkreises steht; andere Namen sind vom Abstimmungsbüro zu streichen.
 
@@ -143,25 +159,29 @@ beschliesst:
 
 <sup>3</sup> Unleserliche oder ungenügende Kandidierendenbezeichnungen sind vom Abstimmungsbüro zu streichen.
 
-#### § 11
+#### § 11 b
 
-**b) Reihenfolge der Streichungen**
+**) Reihenfolge der Streichungen**
 
-<sup>1</sup> Enthält ein Wahlzettel nach Vornahme der Streichungen gemäss den Paragraphen 9 und 10 immer noch mehr Kandidierende, als dem betreffenden Wahlkreis Mandate zustehen, sind die überzähligen Kandidierenden in folgender Reihenfolge zu streichen:
+Enthält ein Wahlzettel nach Vornahme der Streichungen gemäss den Paragraphen 9 und 10 immer noch mehr Kandidierende, als dem betreffenden Wahlkreis Mandate zustehen, sind die überzähligen Kandidierenden in folgender Reihenfolge zu streichen:
 
 - 1\. Kandidatennamen auf der Rückseite des Stimmzettels;
+
 - 2\. Kandidatennamen, die parallel zum rechten Listenrand notiert sind;
+
 - 3\. Kandidatennamen, die parallel zum linken Listenrand notiert sind;
+
 - 4\. Kandidatennamen (gedruckte oder von Hand geschriebene) von unten nach oben und, falls sich auf gleicher Höhe mehr als ein Name befindet, von rechts nach links;
+
 - 5\. sind sämtliche Kandierenden nummeriert, erfolgt die Streichung in der Reihenfolge der Nummern, beginnend mit der höchsten Zahl.
 
-## 3 Ermittlung des Ergebnisses
+### III. ERMITTLUNG DES ERGEBNISSES
 
 #### § 12
 
 **Elektronische Erfassung**
 
-<sup>1</sup> In allen Wahlkreisen sind die Wahlergebnisse elektronisch zu erfassen.
+In allen Wahlkreisen sind die Wahlergebnisse elektronisch zu erfassen.
 
 #### § 13
 
@@ -179,13 +199,13 @@ beschliesst:
 
 **Auswertung der Ergebnisse**
 
-<sup>1</sup> Das kantonale Abstimmungsbüro wertet die Ergebnisse nach Massgabe der Gesetzgebung aus.
+Das kantonale Abstimmungsbüro wertet die Ergebnisse nach Massgabe der Gesetzgebung aus.
 
 #### § 15
 
 **Meldung der Wahlergebnisse**
 
-<sup>1</sup> Das kantonale Abstimmungsbüro meldet die Wahlergebnisse den kommunalen Abstimmungsbüros, sobald die Wahlen vollständig ausgewertet sind, und veröffentlicht die Wahlergebnisse.
+Das kantonale Abstimmungsbüro meldet die Wahlergebnisse den kommunalen Abstimmungsbüros, sobald die Wahlen vollständig ausgewertet sind, und veröffentlicht die Wahlergebnisse.
 
 #### § 16
 
@@ -204,17 +224,17 @@ beschliesst:
 <sup>2</sup> Der Wahlgang ist durch den Beschwerdeentscheid ganz oder teilweise aufzuheben, wenn:
 
 - 1\. Verfahrensmängel festgestellt sind;
+
 - 2\. sich die Möglichkeit, dass diese Verfahrensmängel das Abstimmungsergebnis entscheidend verändert haben, nicht ausschliessen lässt; und
+
 - 3\. sich die Auswirkungen nicht durch den Beschwerdeentscheid beseitigen lassen.
 
 <sup>3</sup> Bei Aufhebung eines Wahlganges trifft der Regierungsrat die erforderlichen Anordnungen für die Wiederholung der Wahl.
 
-## 4 Schlussbestimmung
+### IV. SCHLUSSBESTIMMUNG
 
-#### § 18
+#### § 20
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. November 2013 in Kraft.
-
-A 2013, 1712
+Diese Verordnung tritt am 1. November 2013 in Kraft.
