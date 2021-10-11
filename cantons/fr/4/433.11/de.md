@@ -4,13 +4,13 @@ number: "433.11"
 title: Reglement über die Pädagogische Hochschule Freiburg
 short: PHFR
 language: de
-version: 2020-01-01
-valid_until: 2021-10-11
-version_adopted: 2020-01-14
+version: 2021-10-12
+valid_until: 2022-01-31
+version_adopted: 2021-10-12
 adopted: 2020-01-14
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/433.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6441/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6930/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Pädagogische Hochschule Freiburg – R
 
 (PHFR)
 
-vom 14.01.2020 (Fassung in Kraft getreten am 01.01.2020)
+vom 14.01.2020 (Fassung in Kraft getreten am 12.10.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -303,15 +303,17 @@ beschliesst:
 
 #### Art. 26
 
-**Aufnahmeentscheid**
+**Aufnahmebestätigung**
 
-<sup>1</sup> Nach Prüfung der von der kandidierenden Person im Verfahren eingereichten Unterlagen und gemäss den Bedingungen für die Aufnahme der Studierenden in die Grundausbildung entscheidet die Aufnahmekommission über die Aufnahme.
+<sup>1</sup> Die Aufnahmebestätigung wird den kandidierenden Personen ausgestellt, welche die Aufnahmebedingungen (Art. 22) erfüllen, wobei die Aufnahmegesuche in der Reihenfolge des Eingangs der vollständigen Dossiers berücksichtigt werden. Dossiers von Personen, die bis zum Ende des laufenden Schuljahres ihren Abschluss erwerben werden, gelten als vollständig.
 
-<sup>2</sup> Die Aufnahmekommission behält sich das Recht vor, die Aufnahme aufgrund des Strafregisterauszugs abzulehnen. Dieser Entscheid muss begründet werden.
+<sup>2</sup> Die Aufnahmebestätigung gilt für das akademische Studienjahr, für das sie erlassen wurde, und für das nachfolgende Studienjahr.
 
-<sup>3</sup> Der Aufnahmeentscheid wird der kandidierenden Person schriftlich mitgeteilt.
+<sup>3</sup> Der Ausbildungsbeginn von kandidierenden Personen, für welche die Aufnahmekapazität der HEP-PH FR nicht ausreicht, wird um ein Jahr verschoben.
 
-<sup>4</sup> Der Aufnahmeentscheid gilt nur für das akademische Studienjahr, für das er erlassen wurde. Die Bestimmungen über die «Admission sur Dossier» bleiben vorbehalten (Art. 22 Abs. 1 Bst. d).
+<sup>4</sup> Die Bestimmungen über die «Admission sur Dossier» bleiben vorbehalten (Art. 22 Abs. 1 Bst. d).
+
+<sup>5</sup> Die Aufnahme kann aufgrund des Strafregisterauszugs abgelehnt werden. Diese Ablehnung muss begründet werden.
 
 ### 2.1.2 Immatrikulation
 

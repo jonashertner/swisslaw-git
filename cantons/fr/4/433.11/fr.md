@@ -4,13 +4,13 @@ number: "433.11"
 title: Règlement sur la Haute Ecole pédagogique Fribourg
 short: RHEPF
 language: fr
-version: 2020-01-01
-valid_until: 2021-10-11
-version_adopted: 2020-01-14
+version: 2021-10-12
+valid_until: 2022-01-31
+version_adopted: 2021-10-12
 adopted: 2020-01-14
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/433.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6441/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6930/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Haute Ecole pédagogique Fribourg – R
 
 (RHEPF)
 
-du 14.01.2020 (version entrée en vigueur le 01.01.2020)
+du 14.01.2020 (version entrée en vigueur le 12.10.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -303,15 +303,17 @@ Arrête:
 
 #### Art. 26
 
-**Décision d'admission**
+**Attestation d'admission**
 
-<sup>1</sup> Après analyse des documents fournis par les personnes candidates lors de la procédure d'admission et sur la base des conditions d'admission à la formation initiale, la commission d'admission décide de l'admission.
+<sup>1</sup> L'attestation d'admission est délivrée aux personnes candidates remplissant les conditions (art. 22), étant précisé que les demandes d'admission sont retenues par ordre d'arrivée de dossiers complets. Sont considérés comme complets les dossiers en attente de diplôme prévu pour la fin de l'année scolaire en cours.
 
-<sup>2</sup> La commission d'admission se réserve le droit de refuser l'admission sur la base de l'extrait du casier judiciaire. Cette décision doit être motivée.
+<sup>2</sup> L'attestation d'admission est valable pour la rentrée académique pour laquelle elle a été rendue et la suivante.
 
-<sup>3</sup> La décision d'admission est communiquée par écrit à la personne candidate.
+<sup>3</sup> L'entrée en formation des personnes candidates qui dépassent la capacité d'accueil de la HEP-PH FR est reportée d'une année.
 
-<sup>4</sup> La décision d'admission n'est valable que pour l'année académique pour laquelle elle a été rendue. Sont réservées les dispositions concernant la procédure d'admission sur dossier (art. 22 al. 1 let. d).
+<sup>4</sup> Sont réservées les dispositions concernant la procédure d'admission sur dossier (art. 22 al. 1 let. d).
+
+<sup>5</sup> L'admission peut être refusée sur la base de l'extrait du casier judiciaire. Ce refus doit être motivé.
 
 ### 2.1.2 Immatriculation
 
