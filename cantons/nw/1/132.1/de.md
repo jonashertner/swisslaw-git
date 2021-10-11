@@ -5,20 +5,20 @@ title: Gesetz über die Verhältniswahl des Landrates
 short: Proporzgesetz; PropG
 language: de
 version: 2017-08-01
+corrected: 2021-10-12
 version_adopted: 2017-04-12
 adopted: 1981-04-26
 in_force: 1982-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/132.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/630/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/15/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Verhältniswahl des Landrates
+# Gesetz über die Verhältniswahl des Landrates (Proporzgesetz; PropG)
 
-(Proporzgesetz; PropG)
-
-vom 26.04.1981 (Stand 01.08.2017)
+vom 26. April 1981[^t-2][^t-1]
 
 Die Landsgemeinde,
 
@@ -26,19 +26,25 @@ gestützt auf Art. 52, in Ausführung von Art. 42 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
+[^t-2]: A 1981, 523
+
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Grundsatz**
 
-<sup>1</sup> Die Wahlen in den Landrat sind nach Massgabe der Gesetzgebung durch den Kanton und die Politischen Gemeinden durchzuführen.
+<sup>1</sup> Die Wahlen in den Landrat sind nach Massgabe der Gesetzgebung durch den Kanton und die Politischen Gemeinden durchzuführen.[^1-1]
 
 <sup>2</sup> Die Wahlen in den Landrat erfolgen durch die Urnenabstimmung getrennt von der Gemeindeversammlung nach dem Verhältniswahlverfahren.
 
+[^1-1]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
+[^1-2]: Fassung gemäss Landratsbeschluss vom 12. April 2017, A 2017, 593, 1263; in Kraft seit 1. August 2017
+
 #### Art. 2
 
-**Zeitpunkt der Wahl**
+**Zeitpunkt der Wahl[^1-2]**
 
 <sup>1</sup> Die Landratswahlen sind spätestens bis zum 15. April jenes Jahres durchzuführen, in welchem die Amtsdauer des Landrates zu Ende geht.
 
@@ -50,21 +56,26 @@ beschliesst:
 
 **Fristen**
 
-<sup>1</sup> Der Regierungsrat setzt die Fristen für die Einreichung von Wahlvorschlägen, die öffentliche Auflage sowie die Einsprachen gegen die Wahlvorschläge fest.
+<sup>1</sup> Der Regierungsrat setzt die Fristen für die Einreichung von Wahlvorschlägen, die öffentliche Auflage sowie die Einsprachen gegen die Wahlvorschläge fest.[^3-1]
 
 <sup>2</sup> Die Fristen sind in der Weise festzusetzen, dass die Bereinigung der Wahlvorschläge bis spätestens 20 Tage vor der Wahl abgeschlossen werden kann.
 
 <sup>3</sup> Die Fristen sind unter Angabe des Tages ihres Ablaufs zusammen mit der Bekanntgabe des Wahltages durch den Regierungsrat im Amtsblatt zu veröffentlichen.
 
-<sup>4</sup> Die Frist gilt als eingehalten, wenn die Eingabe am letzten Tag der Frist bis 12.00 Uhr bei der bezeichneten Amtsstelle eingetroffen ist.
+<sup>4</sup> Die Frist gilt als eingehalten, wenn die Eingabe am letzten Tag der Frist bis 12.00 Uhr bei der bezeichneten Amtsstelle eingetroffen ist.[^3-2]
 
-## 2 Wahlvorschläge
+[^3-1]: Fassung gemäss Landratsbeschluss vom 12. April 2017, A 2017, 593, 1263; in Kraft seit 1. August 2017
+[^3-2]: Fassung gemäss Landratsbeschluss vom 27. Mai 2009, A 2009, 919, 1524; in Kraft seit 1. September 2009
+
+### II. WAHLVORSCHLÄGE
+
+[^hIIWAHLVORSCHLÄGE-1]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
 
 #### Art. 4
 
-**Vorschlagsrecht**
+**Vorschlagsrecht[^hIIWAHLVORSCHLÄGE-1]**
 
-<sup>1</sup> Ein Wahlvorschlag ist von mindestens fünf Aktivbürgerinnen oder Aktivbürgern einzureichen.
+Ein Wahlvorschlag ist von mindestens fünf Aktivbürgerinnen oder Aktivbürgern einzureichen.
 
 #### Art. 5
 
@@ -90,11 +101,13 @@ beschliesst:
 
 **Bezeichnung des Wahlvorschlages**
 
-<sup>1</sup> Jeder Wahlvorschlag muss eine zu seiner Unterscheidung von den anderen Wahlvorschlägen geeignete Bezeichnung tragen.
+Jeder Wahlvorschlag muss eine zu seiner Unterscheidung von den anderen Wahlvorschlägen geeignete Bezeichnung tragen.
+
+[^7-1]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
 
 #### Art. 8
 
-**Unterzeichnende**
+**Unterzeichnende[^7-1]**
 
 <sup>1</sup> Jeder Wahlvorschlag muss mindestens die Unterschrift von fünf Aktivbürgerinnen oder Aktivbürgern unter Angabe ihres eigenen Namens, Vornamens, Geburtsjahres und ihrer Wohnadresse tragen.
 
@@ -104,25 +117,31 @@ beschliesst:
 
 <sup>4</sup> Die Vertretung ist berechtigt und verpflichtet, im Namen der Unterzeichnenden die zur Beseitigung von Mängeln erforderlichen Erklärungen rechtsverbindlich abzugeben.
 
+[^8-1]: Fassung gemäss Landratsbeschluss vom 12. April 2017, A 2017, 593, 1263; in Kraft seit 1. August 2017
+
 #### Art. 9
 
-**Bestätigung**
+**Bestätigung[^8-1]**
 
 <sup>1</sup> Jede vorgeschlagene Person muss auf dem Wahlvorschlag schriftlich bestätigen, dass sie eine allfällige Wahl annimmt.
 
 <sup>2</sup> Die Namen von Personen die nicht dem Amtszwang unterstehen werden bei fehlender Bestätigung gestrichen; Art. 11 ist anwendbar.
 
+[^9-1]: Fassung gemäss Landratsbeschluss vom 12. April 2017, A 2017, 593, 1263; in Kraft seit 1. August 2017
+
 #### Art. 10
 
-**Mehrfach Vorgeschlagene**
+**Mehrfach Vorgeschlagene[^9-1]**
 
 <sup>1</sup> Steht der Name einer Person auf mehr als einem Wahlvorschlag, hat sie auf Aufforderung der Gemeindekanzlei hin zu erklären, auf welchem dieser Wahlvorschläge ihr Name stehen soll.
 
 <sup>2</sup> Gibt sie bis 12.00 Uhr am nächstfolgenden Montag nach dem letztmöglichen Tag der Einreichung der Wahlvorschläge keine Erklärung ab, entscheidet das Los, auf welchem Wahlvorschlag ihr Name stehen soll.
 
+[^10-1]: Fassung gemäss Landratsbeschluss vom 12. April 2017, A 2017, 593, 1263; in Kraft seit 1. August 2017
+
 #### Art. 11
 
-**Behebung der Mängel, Ersatzvorschläge**
+**Behebung der Mängel, Ersatzvorschläge[^10-1]**
 
 <sup>1</sup> Die Gemeindekanzlei setzt der Vertretung schriftlich eine Frist von 3 Tagen, längstens aber bis 12.00 Uhr am nächstfolgenden Montag nach dem letztmöglichen Tag der Einreichung der Wahlvorschläge, allfällige Mängel zu beheben oder für amtlich gestrichene Vorgeschlagene Ersatzvorschläge einzureichen.
 
@@ -132,9 +151,11 @@ beschliesst:
 
 <sup>4</sup> Wird ein Mangel nicht fristgemäss behoben, ist der Wahlvorschlag ungültig; betrifft der Mangel nur einzelne der Vorgeschlagenen, werden lediglich deren Namen gestrichen.
 
+[^11-1]: Fassung gemäss Landratsbeschluss vom 12. April 2017, A 2017, 593, 1263; in Kraft seit 1. August 2017
+
 #### Art. 12
 
-**Öffentliche Auflage, Einsprachen**
+**Öffentliche Auflage, Einsprachen[^11-1]**
 
 <sup>1</sup> Der Gemeinderat bestätigt die bereinigten Wahlvorschläge und lässt sie während der gesetzten Frist auf der Gemeindekanzlei zur Einsicht auflegen.
 
@@ -142,9 +163,11 @@ beschliesst:
 
 <sup>3</sup> Einsprachen gegen die Gültigkeit des Wahlvorschlages, die Wahlfähigkeit der Vorgeschlagenen, die Stimmberechtigung der Unterzeichnenden und die Echtheit der Unterschriften sind binnen der gesetzten Frist schriftlich und begründet bei der Gemeindekanzlei zuhanden des Gemeinderates einzureichen.
 
+[^12-1]: Fassung gemäss Landratsbeschluss vom 12. April 2017, A 2017, 593, 1263; in Kraft seit 1. August 2017
+
 #### Art. 12a
 
-**Entscheid über Einsprachen, Rechtsmittel**
+**Entscheid über Einsprachen, Rechtsmittel[^12-1]**
 
 <sup>1</sup> Der Gemeinderat entscheidet über die Einsprachen.
 
@@ -158,18 +181,22 @@ beschliesst:
 
 <sup>1</sup> Die bereinigten Wahlvorschläge heissen Listen.
 
-<sup>2</sup> Listenverbindungen sind ausgeschlossen.
+<sup>2</sup> Listenverbindungen sind ausgeschlossen.[^13-1]
+
+[^13-1]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
 
 #### Art. 13a
 
-**Listengruppen**
+**Listengruppen[^13-1]**
 
 <sup>1</sup> Die Listen mit gleicher Bezeichnung bilden im Kanton eine Listengruppe.
 
 <sup>2</sup> Listen werden als Listengruppe behandelt, wenn:
 
 - 1\. die Unterzeichnenden der Listen eine entsprechende schriftliche Erklärung gegenüber dem kantonalen Abstimmungsbüro abgegeben haben;
+
 - 2\. sämtliche Listen aus verschiedenen Wahlkreisen stammen; und
+
 - 3\. die Listen die gleiche Bezeichnung tragen.
 
 <sup>3</sup> Besteht eine Liste nur in einem Wahlkreis, bildet sie ebenfalls eine Listengruppe.
@@ -188,11 +215,13 @@ beschliesst:
 
 <sup>3</sup> Der Gemeinderat stellt den Aktivbürgern einen vollständigen Satz der Wahlzettel zusammen mit der Wahlanleitung bis spätestens 10 Tage vor dem Wahltag zu.
 
-## 3 Wahlakt
+### III. WAHLAKT
+
+[^hIIIWAHLAKT-1]: Fassung gemäss Landratsbeschluss vom 26. März 1997, A 1997, 509, 859; in Kraft seit 15. Juni 1997
 
 #### Art. 15
 
-**Ausübung des Stimmrechts**
+**Ausübung des Stimmrechts[^hIIIWAHLAKT-1]**
 
 <sup>1</sup> Jede stimmberechtigte Person verfügt über so viele Einzelstimmen, als Landratsmitglieder in ihrer Gemeinde zu wählen sind.
 
@@ -214,7 +243,7 @@ beschliesst:
 
 **Panaschieren**
 
-<sup>1</sup> Der Aktivbürger kann Vorgeschlagene, die auf anderen Listen stehen, handschriftlich auf seinen Wahlzettel eintragen.
+Der Aktivbürger kann Vorgeschlagene, die auf anderen Listen stehen, handschriftlich auf seinen Wahlzettel eintragen.
 
 #### Art. 18
 
@@ -228,42 +257,57 @@ beschliesst:
 
 **Zusatzstimmen**
 
-<sup>1</sup> Enthält ein Wahlzettel weniger Namen von Vorgeschlagenen, als die Gemeinde Sitze zu besetzen hat, werden die übriggebliebenen Stimmen als Listenstimmen derjenigen Liste zugezählt, deren Bezeichnung der Wahlzettel trägt; fehlt eine Listenbezeichnung, zählen diese Stimmen nicht und gelten als leere Stimmen.
+Enthält ein Wahlzettel weniger Namen von Vorgeschlagenen, als die Gemeinde Sitze zu besetzen hat, werden die übriggebliebenen Stimmen als Listenstimmen derjenigen Liste zugezählt, deren Bezeichnung der Wahlzettel trägt; fehlt eine Listenbezeichnung, zählen diese Stimmen nicht und gelten als leere Stimmen.
 
 #### Art. 20
 
 **Ungültige Wahlzettel**
 
-<sup>1</sup> Wahlzettel sind ungültig, wenn sie:
+Wahlzettel sind ungültig, wenn sie:
 
 - 1\. nicht amtlich sind;
+
 - 2\. anders als handschriftlich abgeändert oder ausgefüllt sind, sofern nicht ein Wahlzettel mit Vordruck unverändert eingeworfen wird;
+
 - 3\. nur Namen von nicht gültig Vorgeschlagenen der Gemeinde enthalten;
+
 - 4\. den Willen des Aktivbürgers nicht eindeutig erkennen lassen;
+
 - 5\. Bemerkungen oder Kennzeichnungen enthalten.
 
-## 4 Ermittlung des Ergebnisses
+### IV. ERMITTLUNG DES ERGEBNISSES
+
+[^hIVERMITTLUNGDESE-1]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
 
 #### Art. 21
 
-**Zusammenstellung der Ergebnisse**
+**Zusammenstellung der Ergebnisse[^hIVERMITTLUNGDESE-1]**
 
 <sup>1</sup> Das Abstimmungsbüro der Gemeinde hat folgende Werte zu ermitteln:
 
 - 1\. die Zahl der Stimmberechtigten und der Stimmenden;
+
 - 2\. die Zahl der gültigen, ungültigen und leeren Wahlzettel;
+
 - 3\. die Zahl der Stimmen, welche die einzelnen Vorgeschlagenen jeder Liste erhalten haben (Kandidatenstimmen);
+
 - 4\. die Zahl der Zusatzstimmen jeder Liste;
+
 - 5\. die Summe der Kandidaten- und Zusatzstimmen der einzelnen Listen (Parteistimmen);
+
 - 6\. die Zahl der leeren Stimmen.
 
 <sup>2</sup> Diese Ergebnisse sind unverzüglich dem kantonalen Abstimmungsbüro elektronisch zu übermitteln.
 
 <sup>3</sup> Das Abstimmungsbüro der Gemeinde hat die Ergebnisse in einem Protokoll festzuhalten.
 
+[^21-1]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
+
 #### Art. 22
 
-**Sitzverteilung 1. allgemein**
+**Sitzverteilung[^21-1]**
+
+### 1. allgemein
 
 <sup>1</sup> Die Sitzverteilung erfolgt durch das kantonale Abstimmungsbüro.
 
@@ -288,6 +332,7 @@ beschliesst:
 <sup>2</sup> Das kantonale Abstimmungsbüro legt für jeden Wahlkreis einen Wahlkreis-Divisor und für jede Listengruppe einen Listengruppen-Divisor so fest, dass bei einem Vorgehen nach Abs. 1:
 
 - 1\. jeder Wahlkreis die ihm vom Regierungsrat gemäss Art. 56 des Wahl- und Abstimmungsgesetzes (WAG)[^24-1] zugewiesene Zahl von Sitzen erhält; und
+
 - 2\. jede Listengruppe die ihr gemäss Oberzuteilung zustehende Zahl von Sitzen erhält.
 
 [^24-1]: NG 132.2
@@ -302,39 +347,49 @@ beschliesst:
 
 <sup>3</sup> Werden einer Liste mehr Sitze zugeteilt, als sie kandidierende Personen enthält, gelten die Regeln über das Nachrücken und die Ergänzungswahl.
 
+[^25-1]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
+
 #### Art. 26
 
-**Veröffentlichung**
+**Veröffentlichung[^25-1]**
 
-<sup>1</sup> Das kantonale Abstimmungsbüro veröffentlicht die Wahlergebnisse im Amtsblatt.
+Das kantonale Abstimmungsbüro veröffentlicht die Wahlergebnisse im Amtsblatt.
+
+[^26-1]: Fassung gemäss Landratsbeschluss vom 12. April 2017, A 2017, 593, 1263; in Kraft seit 1. August 2017
 
 #### Art. 27
 
-**Beschwerde**
+**Beschwerde[^26-1]**
 
 <sup>1</sup> Die Wahlfeststellung des kantonalen Abstimmungsbüros kann binnen 3 Tagen nach erfolgter Veröffentlichung mit Beschwerde beim Regierungsrat angefochten werden. Beschwerdeberechtigt ist jede Aktivbürgerin beziehungsweise jeder Aktivbürger.
 
 <sup>2</sup> Der Entscheid des Regierungsrates kann binnen 3 Tagen nach erfolgter Zustellung mit Beschwerde beim Verfassungsgericht angefochten werden.
 
+[^27-1]: Fassung gemäss Landratsbeschluss vom 4. Februar 1998, A 1998, 197, 699; in Kraft seit 1. Juli 1998
+
 #### Art. 27a
 
-**Erwahrung**
+**Erwahrung[^27-1]**
 
-<sup>1</sup> Der Landrat stellt an der konstituierenden Sitzung durch Beschluss die Ratszusammensetzung fest.
+Der Landrat stellt an der konstituierenden Sitzung durch Beschluss die Ratszusammensetzung fest.
 
-## 5 Nachrücken und Ergänzungswahlen
+### V. NACHRÜCKEN UND ERGÄNZUNGSWAHLEN
+
+[^hVNACHRÜCKENUNDER-1]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
 
 #### Art. 28
 
-**Nachrücken**
+**Nachrücken[^hVNACHRÜCKENUNDER-1]**
 
 <sup>1</sup> Kann ein Sitz nicht besetzt werden oder scheidet ein Mitglied des Landrates vor Ablauf der Amtsdauer aus, erklärt der Gemeinderat den ersten Ersatz von der gleichen Liste als gewählt; lehnt der Ersatz binnen fünf Tagen seit Erhalt der Mitteilung seine Wahl schriftlich ab, rückt der nachfolgende Ersatz an seine Stelle.
 
 <sup>2</sup> Kann der Sitz durch Nachrücken nicht besetzt werden, kann die Mehrheit der Unterzeichnenden der Liste binnen 30 Tagen eine Ersatzperson bezeichnen.
 
+[^28-1]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
+
 #### Art. 29
 
-**Ergänzungswahl**
+**Ergänzungswahl[^28-1]**
 
 <sup>1</sup> Wird keine Ersatzperson bezeichnet, ordnet der Gemeinderat im betreffenden Wahlkreis eine Ergänzungswahl nach dem Mehrheitswahlverfahren gemäss § 7 und § 18 der Vollzugsverordnung über Urnenabstimmungen in kommunalen Angelegenheiten[^29-1] an.
 
@@ -343,52 +398,62 @@ beschliesst:
 <sup>3</sup> Es findet keine Ergänzungswahl statt, wenn die Erneuerungswahl des Landrates binnen sechs Monaten erfolgt.
 
 [^29-1]: NG 133.12
+[^29-2]: Fassung gemäss Landratsbeschluss vom 27. Mai 2009, A 2009, 919, 1524; in Kraft seit 1. September 2009
 
 #### Art. 30
 
-**Veröffentlichung; Beschwerde**
+**Veröffentlichung; Beschwerde[^29-2]**
 
 <sup>1</sup> Der Gemeinderat hat das Wahlergebnis der Ergänzungswahl oder das Nachrücken eines Ersatzes dem kantonalen Abstimmungsbüro mitzuteilen, das es im Amtsblatt veröffentlicht.
 
 <sup>2</sup> Für Beschwerden ist Art. 27 anwendbar.
 
+[^30-1]: Fassung gemäss Landratsbeschluss vom 26. März 1997, A 1997, 509, 859; in Kraft seit 15. Juni 1997
+
 #### Art. 31
 
-**Beginn der Amtsdauer**
+**Beginn der Amtsdauer[^30-1]**
 
-<sup>1</sup> Die Amtsdauer des Landrates beginnt am 1. Juli nach der Gesamterneuerungswahl.
+Die Amtsdauer des Landrates beginnt am 1. Juli nach der Gesamterneuerungswahl.
 
-## 6 Weitere Bestimmungen
+### VI. WEITERE BESTIMMUNGEN
+
+[^hVIWEITEREBESTIMMU-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2009, A 2009, 919, 1524; in Kraft seit 1. September 2009
 
 #### Art. 32
 
-**Ergänzende Bestimmungen**
+**Ergänzende Bestimmungen[^hVIWEITEREBESTIMMU-1]**
 
-<sup>1</sup> Soweit dieses Gesetz nicht etwas anderes bestimmt, gelten für die Landratswahlen in dieser Reihenfolge:
+Soweit dieses Gesetz nicht etwas anderes bestimmt, gelten für die Landratswahlen in dieser Reihenfolge:
 
 - 1\. das Gesetz über die politischen Rechte im Kanton (Wahl- und Abstimmungsgesetz, WAG)[^32-1];
+
 - 2\. das Einführungsgesetz zur Bundesgesetzgebung über die politischen Rechte[^32-2];
+
 - 3\. die Gemeindegesetzgebung[^32-3].
 
 [^32-1]: NG 132.2
 [^32-2]: NG 131.1
 [^32-3]: NG 171.1
+[^32-4]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
 
 #### Art. 33
 
-**Vollzugsbestimmungen**
+**Vollzugsbestimmungen[^32-4]**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
+
+[^33-1]: Fassung gemäss Landratsbeschluss vom 25. April 2012, A 2012, 710; A 2013, 1533, 1580, 1711; in Kraft seit 22. September 2013
 
 #### Art. 34
 
-**…**
+**…[^33-1]**
 
 #### Art. 35
 
 **Änderung des Organisationsgesetzes**
 
-<sup>1</sup> ...
+...
 
 #### Art. 36
 
@@ -398,4 +463,7 @@ beschliesst:
 
 <sup>2</sup> Alle mit ihm im Widerspruch stehenden Bestimmungen sind aufgehoben.
 
-A 1981, 523
+## Weitere Fussnoten
+
+- [3] NG 132.11
+- [11] Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
