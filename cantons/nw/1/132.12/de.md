@@ -4,53 +4,45 @@ number: "132.12"
 title: Regierungsratsbeschluss über die Zahl der in jeder politischen Gemeinde zu wählenden Mitglieder des Landrates
 language: de
 version: 2021-02-23
-valid_until: 2025-03-18
+corrected: 2021-10-12
 version_adopted: 2021-02-23
 adopted: 2025-03-18
 in_force: 2025-03-19
 url: "https://gesetze.nw.ch/app/de/texts_of_law/132.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/632/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/18/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Regierungsratsbeschluss über die Zahl der in jeder politischen Gemeinde zu wählenden Mitglieder des Landrates
 
-vom 23.02.2021 (Stand 23.02.2021)
+vom 23. Februar 2021[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 58 der Kantonsverfassung und Art. 53–56 des Wahl- und Abstimmungsgesetzes vom 22. März 1997 (WAG)[^ingress-1],
+gestützt auf Art. 58 der Kantonsverfassung und Art. 53 - 56 des Wahl- und Abstimmungsgesetzes vom 22. März 1997 (WAG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 132.2
+1.
 
-#### Ziff. 1
+<sup>1</sup> Aufgrund der kantonalen Einwohnerstatistik vom 31. Dezember 2020[^t-3] haben in den Landrat des Kantons Nidwalden zu wählen:
 
-<sup>1</sup> Aufgrund der kantonalen Einwohnerstatistik vom 31. Dezember 2020[^Ziff1-1] haben in den Landrat des Kantons Nidwalden zu wählen:
+Politische Gemeinde Einwohnerinnen und Landratsmitglieder Einwohner
 
-<table>
-<tr><th>Politische Gemeinde</th><th>Einwohnerinnen und Einwohner</th><th>Landratsmitglieder</th></tr>
-<tr><td>Beckenried</td><td>3'733</td><td>5</td></tr>
-<tr><td>Buochs</td><td>5'314</td><td>7</td></tr>
-<tr><td>Dallenwil</td><td>1'846</td><td>3</td></tr>
-<tr><td>Emmetten</td><td>1'552</td><td>2</td></tr>
-<tr><td>Ennetbürgen</td><td>4'811</td><td>7</td></tr>
-<tr><td>Ennetmoos</td><td>2'236</td><td>3</td></tr>
-<tr><td>Hergiswil</td><td>5'836</td><td>8</td></tr>
-<tr><td>Oberdorf</td><td>3'084</td><td>4</td></tr>
-<tr><td>Stans</td><td>8'083</td><td>11</td></tr>
-<tr><td>Stansstad</td><td>4'696</td><td>7</td></tr>
-<tr><td>Wolfenschiessen</td><td>2'117</td><td>3</td></tr>
-</table>
+**5 7 3 2 7 3 8 4 11 7 3**
+
+Beckenried 3’733 Buochs 5’314 Dallenwil 1’846 Emmetten 1’552 Ennetbürgen 4’811 Ennetmoos 2’236 Hergiswil 5’836 Oberdorf 3’084 Stans 8’083 Stansstad 4’696 Wolfenschiessen 2’117
 
 <sup>2</sup> Diese Mandatsverteilung findet bei der Gesamterneuerungswahl des Landrates im Jahre 2022 Anwendung.
 
-[^Ziff1-1]: A 2021, 230
+**1**
 
-#### Ziff. 2
+Stand: 4. März 2021 2.
 
-<sup>1</sup> Dieser Beschluss kann gemäss Art. 78 Abs. 2 und Art. 78a WAG binnen 3 Tagen nach erfolgter Veröffentlichung beim Verfassungsgericht angefochten werden.
+Dieser Beschluss kann gemäss Art. 78 Abs. 2 und Art. 78a WAG binnen 3 Tagen nach erfolgter Veröffentlichung beim Verfassungsgericht angefochten werden.
 
-A 2021, 392
+[^t-1]: A 2021, 392
+[^t-2]: NG 132.2
+[^t-3]: A 2021, 230
