@@ -5,51 +5,53 @@ title: Einführungsgesetz zum Bundesgesetz über die Ausländerinnen und Auslän
 short: EG zum Ausländerrecht
 language: de
 version: 2016-01-01
-valid_until: 2025-03-31
+corrected: 2021-10-13
 version_adopted: 2015-05-27
 adopted: 2008-06-25
 in_force: 2008-10-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/122.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/651/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/10/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zum Bundesgesetz über die Ausländerinnen und Ausländer sowie zum Asylgesetz
+# Einführungsgesetz zum Bundesgesetz über die Ausländerinnen und Ausländer sowie zum Asylgesetz (EG zum Ausländerrecht)
 
-(EG zum Ausländerrecht)
-
-vom 25.06.2008 (Stand 01.01.2016)
+vom 25. Juni 2008[^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 16. Dezember 2005 über die Ausländerinnen und Ausländer (AuG)[^ingress-1] und des Asylgesetzes vom 26. Juni 1998 (AsylG)[^ingress-2],
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 16. Dezember 2005 über die Ausländerinnen und Ausländer (AuG)[^t-2] und des Asylgesetzes vom 26. Juni 1998 (AsylG)[^t-3],
 
 beschliesst:
 
-[^ingress-1]: SR 142.20
-[^ingress-2]: SR 142.31
+[^t-1]: A 2008, 1403, 1845; Datum des Inkrafttretens: 1. Oktober 2008
+[^t-2]: SR 142.20
+[^t-3]: SR 142.31
 
-## 1 Organisation und Zuständigkeiten
+### I. ORGANISATION UND ZUSTÄNDIGKEITEN
 
 #### Art. 1
 
 **Kanton**
 
-<sup>1</sup> Der Kanton vollzieht unter Vorbehalt der Zuständigkeiten des Bundes das Ausländerrecht, soweit die Gesetzgebung den Vollzug nicht den Gemeinden überträgt.
+Der Kanton vollzieht unter Vorbehalt der Zuständigkeiten des Bundes das Ausländerrecht, soweit die Gesetzgebung den Vollzug nicht den Gemeinden überträgt.
 
 #### Art. 2
 
 **Gemeinden**
 
-<sup>1</sup> Die Gemeinden erbringen die ihnen durch die Gesetzgebung übertragenen Aufgaben, insbesondere:
+Die Gemeinden erbringen die ihnen durch die Gesetzgebung übertragenen Aufgaben, insbesondere:
 
 - 1\. sorgen sie in Zusammenarbeit mit dem Kanton und geeigneten Stellen für die Integration ihrer ausländischen Bevölkerung;
-- 2\. gewährleisten sie die Sozialhilfe an Personen, die gestützt auf das Ausländer- oder das Asylrecht Wohnsitz in der Gemeinde haben, soweit dafür nicht der Kanton zuständig ist (Art. 28 Sozialhilfegesetz[^2-1]).
+
+- 2\. gewährleisten sie die Sozialhilfe an Personen, die gestützt auf das Ausländer- oder das Asylrecht Wohnsitz in der Gemeinde haben, soweit dafür nicht der Kanton zuständig ist (Art. 28 Sozialhilfegesetz[^2-1].[^2-2]
 
 [^2-1]: NG 761.1
+[^2-2]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2014, A 2014, 1873, A 2015, 52; in Kraft seit 1. Januar 2015
 
-## 2 Integration
+### II. INTEGRATION
 
 #### Art. 3
 
@@ -71,13 +73,15 @@ beschliesst:
 
 #### Art. 5
 
-**Integrationsprojekte 1. allgemein**
+**Integrationsprojekte**
 
-<sup>1</sup> Kanton und Gemeinden fördern die Integration der Ausländerinnen und Ausländer, indem sie Projekte im Sinne von Art. 53 AuG[^5-1] mit Beiträgen unterstützen oder selber durchführen.
+### 1. allgemein
+
+<sup>1</sup> Kanton und Gemeinden fördern die Integration der Ausländerinnen und Ausländer, indem sie Projekte im Sinne von Art. 53 AuG[^h1allgemein-1] mit Beiträgen unterstützen oder selber durchführen.
 
 <sup>2</sup> Der Kanton fördert Projekte von kantonaler Bedeutung. Die politischen Gemeinden sind für Integrationsangebote von kommunaler Bedeutung zuständig. Die Schulgemeinden fördern oder realisieren Projekte im Bereich der Schule. Sie werden dabei von der Ansprechstelle für Integrationsfragen unterstützt.
 
-[^5-1]: SR 142.20
+[^h1allgemein-1]: SR 142.20
 
 #### Art. 6
 
@@ -86,11 +90,12 @@ beschliesst:
 <sup>1</sup> Der Kanton:
 
 - 1\. organisiert Bildungs- und Beschäftigungsprogramme für Asylsuchende;
+
 - 2\. stellt für vorläufig Aufgenommene und Flüchtlinge Programme zur Förderung ihrer beruflichen und sprachlichen Integration zur Verfügung.
 
 <sup>2</sup> Die Kosten dieser Programme werden vom Kanton getragen.
 
-## 3 Sozialhilfe und Nothilfe
+### III. SOZIALHILFE UND NOTHILFE
 
 #### Art. 7
 
@@ -101,21 +106,24 @@ beschliesst:
 <sup>2</sup> Der Regierungsrat erlässt besondere Vorschriften, die von der Sozialhilfegesetzgebung abweichen können, über Art und Umfang:
 
 - 1\. der wirtschaftlichen Sozialhilfe an Asylsuchende, Schutzbedürftige ohne Aufenthaltsbewilligung und vorläufig aufgenommene Personen;
+
 - 2\. der Nothilfe an Personen, die gestützt auf Bundesrecht nur Nothilfe erhalten beziehungsweise von der Sozialhilfe ausgeschlossen werden können.
 
 [^7-1]: NG 761.1
 [^7-2]: SR 142.20
 [^7-3]: SR 142.31
 
-## 4 Zwangsmassnahmen
+### IV. ZWANGSMASSNAHMEN
 
 #### Art. 8
 
-**Einzelrichterin oder Einzelrichter für Zwangsmassnahmen**
+**Einzelrichterin oder Einzelrichter für**
 
-<sup>1</sup> Einzelrichterin oder Einzelrichter für die richterliche Anordnung oder Überprüfung von Zwangsmassnahmen im Sinne des AuG[^8-1] ist das Verwaltungsgerichtspräsidium beziehungsweise dessen Stellvertretung.
+### Zwangsmassnahmen
 
-[^8-1]: SR 142.20
+Einzelrichterin oder Einzelrichter für die richterliche Anordnung oder Überprüfung von Zwangsmassnahmen im Sinne des AuG[^hZwangsmassnahmen-1] ist das Verwaltungsgerichtspräsidium beziehungsweise dessen Stellvertretung.
+
+[^hZwangsmassnahmen-1]: SR 142.20
 
 #### Art. 9
 
@@ -124,11 +132,17 @@ beschliesst:
 <sup>1</sup> Die inhaftierte Person ist in einer ihr verständlichen Sprache, nötigenfalls unter Beizug einer Dolmetscherin oder eines Dolmetschers:
 
 - 1\. über den Haftgrund zu orientieren;
+
 - 2\. zum Haftgrund anzuhören;
+
 - 3\. über die ihr zustehenden Rechte aufzuklären, insbesondere über die Befugnisse, einen Rechtsbeistand beizuziehen;
+
 - 4\. über die richterliche Haftüberprüfung zu informieren;
+
 - 5\. anzufragen, ob eine Person in der Schweiz über die Inhaftierung benachrichtigt werden soll;
+
 - 6\. über die persönlichen und familiären Verhältnisse zu befragen;
+
 - 7\. über die Umstände des Haftvollzuges zu orientieren.
 
 <sup>2</sup> Es ist ein Protokoll zu führen, welches von der inhaftierten Person zu unterzeichnen ist.
@@ -137,7 +151,9 @@ beschliesst:
 
 #### Art. 10
 
-**Haftüberprüfung 1. mündliche Gerichtsverhandlung**
+**Haftüberprüfung**
+
+### 1. mündliche Gerichtsverhandlung
 
 <sup>1</sup> Die Einzelrichterin oder der Einzelrichter bestimmt unverzüglich den Termin für die mündliche Gerichtsverhandlung, erlässt die Vorladung und bietet nötigenfalls eine Dolmetscherin oder einen Dolmetscher auf.
 
@@ -149,7 +165,7 @@ beschliesst:
 
 **2. Entscheidgrundlagen**
 
-<sup>1</sup> Der Entscheid erfolgt aufgrund der Akten und der Vorbringen; die erforderlichen Massnahmen zur Feststellung des Sachverhalts sind von Amtes wegen zu treffen.
+Der Entscheid erfolgt aufgrund der Akten und der Vorbringen; die erforderlichen Massnahmen zur Feststellung des Sachverhalts sind von Amtes wegen zu treffen.
 
 #### Art. 12
 
@@ -165,7 +181,7 @@ beschliesst:
 
 **Haftverlängerung**
 
-<sup>1</sup> Vor der Verlängerung der Ausschaffungshaft nach Art. 73 Abs. 3 AuG[^13-1] oder der Durchsetzungshaft nach Art. 78 Abs. 2 AuG[^13-2] ist die inhaftierte Person anzuhören. Es ist ein Protokoll zu erstellen.
+<sup>1</sup> Vor der Verlängerung der Ausschaffungshaft nach Art. 73 Abs. 3 AuG[^13-1] oder der Durchsetzungshaft nach Art. 78 Abs. 2 AuG[^13-1] ist die inhaftierte Person anzuhören. Es ist ein Protokoll zu erstellen.
 
 <sup>2</sup> Der Antrag auf Zustimmung ist zusammen mit dem Anhörungsprotokoll spätestens vier Arbeitstage vor Ablauf der bereits bewilligten Haft der Einzelrichterin oder dem Einzelrichter einzureichen.
 
@@ -174,11 +190,12 @@ beschliesst:
 <sup>4</sup> Die Vorschriften der Art. 9–12 finden sinngemäss Anwendung.
 
 [^13-1]: SR 142.20
-[^13-2]: SR 142.20
 
 #### Art. 14
 
-**Haftvollzug 1. Grundsatz**
+**Haftvollzug**
+
+- 1\. Grundsatz
 
 <sup>1</sup> Beim Vollzug der Vorbereitungs-, Ausschaffungs- und Durchsetzungshaft ist die Menschenwürde der inhaftierten Person zu wahren.
 
@@ -196,8 +213,11 @@ beschliesst:
 <sup>1</sup> Die inhaftierte Person kann im Rahmen der Hausordnung insbesondere:
 
 - 1\. ohne Einschränkungen Besuch empfangen;
+
 - 2\. auf eigene Kosten unbeschränkt telefonieren;
+
 - 3\. unbeschränkt Briefe empfangen und Briefe versenden;
+
 - 4\. sich im Freien aufhalten.
 
 <sup>2</sup> Sie ist nicht zur Arbeit verpflichtet.
@@ -214,13 +234,15 @@ beschliesst:
 
 <sup>4</sup> Wird das Gesuch abgewiesen, ist auf die Möglichkeit eines weiteren Haftentlassungsgesuchs aufmerksam zu machen.
 
-## 5 Rechtspflege
+### V. RECHTSPFLEGE
+
+[^hVRECHTSPFLEGE-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 17
 
-**Rechtsmittel**
+**Rechtsmittel[^hVRECHTSPFLEGE-1]**
 
-<sup>1</sup> Gegen Verfügungen kann unter Vorbehalt der Verfügungen gestützt auf Art. 74–78 AuG Verwaltungsbeschwerde erhoben werden.
+<sup>1</sup> Gegen Verfügungen kann unter Vorbehalt der Verfügungen gestützt auf Art. 74-78 AuG Verwaltungsbeschwerde erhoben werden.
 
 <sup>2</sup> Gegen Verfügungen gestützt auf Art. 74 AuG kann binnen 20 Tagen nach erfolgter Zustellung Beschwerde bei der Einzelrichterin oder beim Einzelrichter für Zwangsmassnahmen erhoben werden.
 
@@ -228,25 +250,26 @@ beschliesst:
 
 **Aufschiebende Wirkung**
 
-<sup>1</sup> Die Rechtsmittel haben keine aufschiebende Wirkung, sofern diese durch die Rechtsmittelinstanz oder dessen Präsidium nicht gewährt wird.
+Die Rechtsmittel haben keine aufschiebende Wirkung, sofern diese durch die Rechtsmittelinstanz oder dessen Präsidium nicht gewährt wird.
 
 #### Art. 19
 
 **Kosten des Gerichtsverfahrens**
 
-<sup>1</sup> Die Verlegung und die Bemessung der Prozesskosten richten sich nach dem Verwaltungsrechtspflegegesetz[^19-1] und dem Prozesskostengesetz[^19-2].
+<sup>1</sup> Die Verlegung und die Bemessung der Prozesskosten richten sich nach dem Verwaltungsrechtspflegegesetz[^19-1] und dem Prozesskostengesetz[^19-2].[^19-3]
 
-<sup>2</sup> Die Einzelrichterin oder Einzelrichter für Zwangsmassnahmen kann im Entscheid festlegen, dass auf die Rückvergütung der Gerichts- und Verbeiständungskosten, die im Rahmen der unentgeltlichen Rechtspflege[^19-3] gewährt wurden, verzichtet wird, sofern die Person die Schweiz zu verlassen hat.
+<sup>2</sup> Die Einzelrichterin oder Einzelrichter für Zwangsmassnahmen kann im Entscheid festlegen, dass auf die Rückvergütung der Gerichts- und Verbeiständungskosten, die im Rahmen der unentgeltlichen Rechtspflege[^19-4] gewährt wurden, verzichtet wird, sofern die Person die Schweiz zu verlassen hat.
 
 [^19-1]: NG 265.1
 [^19-2]: NG 261.2
-[^19-3]: NG 265.1, Art. 124 ff.
+[^19-3]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+[^19-4]: NG 265.1, Art. 124 ff.
 
 #### Art. 20
 
-**…**
+**…[^19-3]**
 
-## 6 Schlussbestimmungen
+### VI. SCHLUSSBESTIMMUNGEN
 
 #### Art. 21
 
@@ -258,17 +281,19 @@ beschliesst:
 
 #### Art. 22
 
-**Änderung bisherigen Rechts 1. Einführungsgesetz zum Zivilgesetzbuch**
+**Änderung bisherigen Rechts**
 
-<sup>1</sup> Das Gesetz vom 24. April 1988 über die Einführung des Schweizerischen Zivilgesetzbuches (Einführungsgesetz zum Zivilgesetzbuch)[^22-1] wird wie folgt geändert: …
+### 1. Einführungsgesetz zum Zivilgesetzbuch
 
-[^22-1]: NG 211.1
+Das Gesetz vom 24. April 1988 über die Einführung des Schweizerischen Zivilgesetzbuches (Einführungsgesetz zum Zivilgesetzbuch)[^h1Einführungsgesetz-1] wird wie folgt geändert: ...
+
+[^h1Einführungsgesetz-1]: NG 211.1
 
 #### Art. 23
 
 **2. Steuergesetz**
 
-<sup>1</sup> Das Gesetz vom 22. März 2000 über die Steuern des Kantons und der Gemeinden (Steuergesetz)[^23-1] wird wie folgt geändert: …
+Das Gesetz vom 22. März 2000 über die Steuern des Kantons und der Gemeinden (Steuergesetz)[^23-1] wird wie folgt geändert: ...
 
 [^23-1]: NG 521.1
 
@@ -276,7 +301,7 @@ beschliesst:
 
 **3. Sozialhilfegesetz**
 
-<sup>1</sup> Das Gesetz vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)[^24-1] wird wie folgt geändert: …
+Das Gesetz vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)[^24-1] wird wie folgt geändert: ...
 
 [^24-1]: NG 761.1
 
@@ -284,7 +309,7 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere die Einführungsverordnung vom 25. September 1996 zum Bundesgesetz über Aufenthalt und Niederlassung der Ausländer (Ausländerkontrollverordnung)[^25-1].
+Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere die Einführungsverordnung vom 25. September 1996 zum Bundesgesetz über Aufenthalt und Niederlassung der Ausländer (Ausländerkontrollverordnung)[^25-1].
 
 [^25-1]: A 1996, 1861, 2332
 
@@ -294,8 +319,10 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest[^26-1].
+<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^26-1] fest.
 
-[^26-1]: Datum des Inkrafttretens: 1. Oktober 2008
+[^26-1]: A 2008, 1403, 1845; Datum des Inkrafttretens: 1. Oktober 2008
 
-A 2008, 1403, 1845
+## Weitere Fussnoten
+
+- [7] NG 261.11
