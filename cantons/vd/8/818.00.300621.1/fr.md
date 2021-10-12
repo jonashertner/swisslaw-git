@@ -3,7 +3,7 @@ canton: VD
 number: "818.00.300621.1"
 title: "ARRÊTÉ du 30.06.2021 d'application de l'ordonnance fédérale sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière"
 language: fr
-version: 2021-06-26
+version: 2021-10-13
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/818.00.300621.1?id=4b3d512e-7299-4947-aef8-f39291ae7fc4"
 ---
 
@@ -66,6 +66,16 @@ arrête
 <sup>4</sup> Dans sa décision, le Chef de l'EMCC peut déléguer aux communes et aux autres entités cantonales le recouvrement des émoluments fixés par cette dernière.
 
 <sup>5</sup> La présente disposition est également applicable aux foires spécialisées au sens de l'article 18 de l'ordonnance COVID-19 situation particulière.
+
+#### Art. 5a
+
+**Restaurants, bars, cafés et buvettes [^5-1]**
+
+<sup>1</sup> En dérogation à l'article 51 du règlement d'application de la loi du 16 mai 2006 sur l'énergie, les chauffages électriques en plein air sont admis à titre exceptionnel sur les terrasses des restaurants, bars, cafés et buvettes jusqu'au 30 avril 2022.
+
+<sup>2</sup> Leur installation n'est pas soumise à autorisation communale. Elle doit être annoncée à la municipalité au moyen d'un formulaire mis à disposition par le service en charge de l'énergie.
+
+[^5-1]: Modif. 1 du 13.10.2021: Introduction tArt; entrée en vigueur au 13.10.2021; Introduction Al. 1-2; entrée en vigueur au 13.10.2021; Introduction Art. 5a; entrée en vigueur au 13.10.2021
 
 #### Art. 6
 
