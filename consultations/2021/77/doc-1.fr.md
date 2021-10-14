@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nouveau système de financement de l’asile; attestations des compétences linguistiques axées sur le contexte suisse dans le cadre des procédures relevant du droit des étrangers et du droit de la nationalité
 document: Projet mis en consultation-2
 language: fr

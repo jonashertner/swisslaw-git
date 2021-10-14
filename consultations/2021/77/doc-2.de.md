@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Neues Finanzierungssystem Asyl; Ausrichtung von Sprachnachweisen in ausländer- und bürgerrechtlichen Verfahren auf die schweizerischen Verhältnisse
 document: Vernehmlassungsvorlage
 language: de

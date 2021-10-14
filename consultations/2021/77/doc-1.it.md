@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nuovo sistema di finanziamento Asilo; orientamento al contesto svizzero dei certificati linguistici nell’ambito di una procedura in materia di diritto degli stranieri o di cittadinanza
 document: Progetto posto in consultazione-2
 language: it
