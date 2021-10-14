@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilinkraftsetzung des Bundesgesetzes über polizeiliche Massnahmen zur Bekämpfung von Terrorismus; Verordnung über polizeiliche Massnahmen zur Bekämpfung von Terrorismus
 document: Vernehmlassungsvorlage
 language: de

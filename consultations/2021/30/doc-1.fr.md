@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Mise en vigueur partielle de la loi fédérale sur les mesures policières de lutte contre le terrorisme; ordonnance sur les mesures policières de lutte contre le terrorisme
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Entrata in vigore parziale della legge federale sulle misure di polizia per la lotta al terrorismo; ordinanza sulle misure di polizia per la lotta al terrorismo
 document: Progetto posto in consultazione-3
 language: it
