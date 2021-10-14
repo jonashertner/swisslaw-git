@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision der Verordnung zum Bundesgesetz über den Datenschutz (VDSG)
 document: Vernehmlassungsvorlage
 language: de

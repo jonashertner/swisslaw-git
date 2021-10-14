@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision totale de l’ordonnance relative à la loi fédérale sur la protection des données (OLPD)
 document: Projet mis en consultation
 language: fr
