@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Totalrevision der Verordnung über die internationale Zusammenarbeit im Bereich der Bildung, der Berufsbildung, der Jugend und der Mobilitätsförderung (VIZBM)"
 document: Vernehmlassungsvorlage
 language: de

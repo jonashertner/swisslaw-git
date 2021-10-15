@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione totale dell’ordinanza sulla cooperazione internazionale in materia di educazione, formazione professionale, gioventù e mobilità (OCIFM)"
 document: Progetto posto in consultazione
 language: it
