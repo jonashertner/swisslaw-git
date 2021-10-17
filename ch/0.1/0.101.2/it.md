@@ -3,11 +3,11 @@ sr: "0.101.2"
 title: "Regolamento della Corte europea dei diritti dell'uomo del 4 novembre 1998"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: it
-version: 2021-06-02
+version: 2021-10-18
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20210602/it/xml/fedlex-data-admin-ch-eli-cc-2006-596-20210602-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20210602/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20211018/it/xml/fedlex-data-admin-ch-eli-cc-2006-596-20211018-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20211018/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ RU **2006** 3961[^t-1]
 
 Traduzione
 
-del 4 novembre 1998 (Stato 2 giugno 2021)
+del 4 novembre 1998 (Stato 18 ottobre 2021)
 
 [^t-1]: Questa nuova versione comprende gli emendamenti elencati nella nota all’art. 117 ([RU 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223)). Gli all. non sono pubblicati nella RU. I testi in francese possono essere consultati nel sito Internet della Corte: www.echr.coe.int.
 
@@ -327,12 +327,13 @@ Se la Corte deve risolvere una questione di procedura o ogni altra questione al 
 
 - 2\. a) Fanno parte della Grande Camera il presidente e i vicepresidenti della Corte, nonché i presidenti delle Sezioni. Se il vicepresidente della Corte o il presidente di una Sezione non può sedere alla Grande Camera, è sostituito dal vicepresidente della Sezione interessata.
 - b) Il giudice eletto a titolo di una Parte contraente interessata o, all’occorrenza, il giudice nominato ai sensi dell’articolo 29 o dell’articolo 30 del presente regolamento è membro di diritto della Grande Camera, conformemente a quanto stabilito nell’articolo 26 paragrafi 4 e 5 della Convenzione.
-- c) Per i casi deferiti alla Grande Camera ai sensi dell’articolo 30 della Convenzione, la Grande Camera comprende anche i membri della Camera che ha deciso la rimessione.
-- d) Per i casi deferiti alla Grande Camera ai sensi dell’articolo 43 della Convenzione, nessun giudice della Camera che si è pronunciata sulla ricevibilità o sul merito del ricorso può sedere nella Grande Camera, ad eccezione del presidente di quella Camera e del giudice che sedeva a titolo della Parte contraente in causa.
-- e) I giudici e i giudici supplenti chiamati a completare la Grande Camera ogni volta che un caso le è deferito sono designati fra i rimanenti giudici dal presidente della Corte con estrazione a sorte in presenza del cancelliere. Le modalità dell’estrazione a sorte sono stabilite dalla Corte plenaria, che si adopera affinché sia assicurata una composizione geograficamente equilibrata e rappresentativa dei diversi sistemi giuridici esistenti nelle Parti contraenti.
+- c) Per i casi deferiti ai sensi dell’articolo 43 della Convenzione, nella Grande Camera non siede nessun giudice della Camera che ha emesso la sentenza concernente il caso deferito, ad eccezione del presidente di questa Camera e del giudice che sedeva a titolo dell’Alta Parte interessata, né nessun giudice della Camera o delle Camere che si sono pronunciate sulla ricevibilità del ricorso.
+- d) I giudici e i giudici supplenti chiamati a completare la Grande Camera ogni volta che un caso le è deferito sono designati fra i rimanenti giudici dal presidente della Corte con estrazione a sorte in presenza del cancelliere. Le modalità dell’estrazione a sorte sono stabilite dalla Corte plenaria, che si adopera affinché sia assicurata una composizione geograficamente equilibrata e rappresentativa dei diversi sistemi giuridici esistenti nelle Parti contraenti.
+- e) Per l’esame di una domanda presentata ai sensi dell’articolo 46 paragrafo 4 della Convenzione, la Grande Camera comprende, oltre ai giudici di cui al paragrafo 2 lettere a e b del presente articolo, i membri del Comitato o della Camera che ha emesso la sentenza in questione. Se la sentenza è stata emessa da una Grande Camera, essa è composta dagli stessi giudici della Camera originaria. In tutti i casi, compresi quelli in cui non è possibile convocare la Grande Camera originaria, i giudici e i giudici supplenti chiamati a completare la Grande Camera sono designati conformemente al paragrafo 2 lettera d del presente articolo.
 - f) Quando esamina una richiesta di parere consultivo ai sensi dell’articolo 47 della Convenzione, la Grande Camera è costituita conformemente alle disposizioni di cui al paragrafo 2 lettere a ed e del presente articolo.
+- g) Quando esamina una richiesta di parere consultivo ai sensi del Protocollo n. 16 alla Convenzione, la Grande Camera è costituita conformemente alle disposizioni di cui al paragrafo 2 lettere a, b e d del presente articolo e comprende il giudice designato come giudice relatore ai sensi dell’articolo 93 paragrafo 1.1 lettera b.
 
-<sup>3.</sup> Qualora un giudice non possa sedere alla Grande Camera, egli è sostituito da un giudice supplente secondo l’ordine di designazione previsto al paragrafo 2 lettera e del presente articolo.
+<sup>3.</sup> Qualora un giudice non possa sedere alla Grande Camera, egli è sostituito da un giudice supplente secondo l’ordine di designazione previsto al paragrafo 2 lettera e del presente articolo. Finché i giudici interessati non sono stati sostituiti, i giudici supplenti non possono partecipare al voto.
 
 <sup>4.</sup> I giudici e i giudici supplenti designati conformemente alle disposizioni succitate rimangono membri della Grande Camera fino alla chiusura del procedimento. Se hanno già partecipato all’esame di merito, continuano a trattare il caso anche dopo la fine del loro mandato. Queste disposizioni si applicano parimenti alla procedura relativa ai pareri consultivi.
 
@@ -341,7 +342,7 @@ Se la Corte deve risolvere una questione di procedura o ogni altra questione al 
   Il collegio di cinque giudici della Grande Camera chiamata a esaminare una domanda presentata giusta l’articolo 43 della Convenzione si compone:
 
   - – del presidente della Corte; se il presidente della Corte si trova impedito, è sostituito dal vicepresidente che ha la precedenza;
-  - – dei presidenti delle due Sezioni designate per rotazione; se il presidente di una Sezione così designata si trova impedito, è sostituito dal vicepresidente della Sezione;
+  - – di due presidenti di Sezione designati per rotazione; se il presidente di una Sezione così designata si trova impedito, è sostituito dal vicepresidente della sua Sezione;
   - – di due giudici designati a rotazione tra i giudici eletti in seno alle restanti Sezioni per far parte del collegio per un periodo di sei mesi;
   - – di almeno due giudici supplenti designati a rotazione tra i giudici eletti in seno alle Sezioni per far parte del collegio per un periodo di sei mesi.
 
@@ -981,7 +982,7 @@ La Corte rende tutte le sue decisioni in francese o in inglese, a meno che non d
 
 - [tab] Quando una parte od ogni altra persona che dovrebbe comparire non si presenta o si rifiuta, la Camera può nondimeno proseguire l’udienza se ciò le sembra compatibile con una buona amministrazione della giustizia.
 
-#### Art. 66–69
+#### Art. 66 a 69
 
 *Abrogati*
 
@@ -1211,8 +1212,8 @@ Nelle procedure relative alle richieste di pareri consultivi presentate dalle gi
 1.1. La richiesta di parere consultivo è esaminata da un Collegio di cinque giudici della Grande Camera. Il Collegio si compone:
 
 - a) del presidente della Corte; se si trova impedito, il presidente della Corte è sostituito dal vicepresidente che ha la precedenza;
-- b) di due presidenti di Sezione designati per rotazione; se si trova impedito, un presidente di Sezione così designato è sostituito dal vicepresidente della sua Sezione;
-- c) di un giudice designato per rotazione tra i giudici eletti nelle Sezioni rimanenti per sedere nel collegio per un periodo di sei mesi;
+- b) di un giudice designato come giudice relatore conformemente all’articolo 91 e, *mutatis mutandis*, all’articolo 49 del presente regolamento;
+- c) di due presidenti di Sezione designati per rotazione; se si trova impedito, un presidente di Sezione così designato è sostituito dal vicepresidente della sua Sezione;
 - d) di un giudice eletto a titolo della Parte contraente da cui dipende la giurisdizione che ha presentato la richiesta o, all’occorrenza, di un giudice designato conformemente all’articolo 29 del presente regolamento; e
 - e) di almeno due giudici supplenti designati per rotazione tra i giudici eletti in seno alle Sezioni per sedere nel collegio per un periodo di sei mesi.
 
@@ -1228,17 +1229,17 @@ Nelle procedure relative alle richieste di pareri consultivi presentate dalle gi
 
 **Procedura successiva all’accettazione di una richiesta di parere consultivo da parte del Collegio**
 
-<sup>1.</sup> Quando il Collegio accetta una domanda di parere consultivo ai sensi dell’articolo 93, una Grande Camera è costituita conformemente all’articolo 24 paragrafo 2 lettera h del presente regolamento per esaminare la domanda e dare un parere consultivo.
+<sup>1.</sup> Quando il Collegio accetta una domanda di parere consultivo ai sensi dell’articolo 93, una Grande Camera è costituita conformemente all’articolo 24 paragrafo 2 lettera g del presente regolamento per esaminare la domanda e dare un parere consultivo.
 
 <sup>2.</sup> Il presidente della Grande Camera può invitare la giurisdizione che ha presentato la richiesta a sottoporre alla Corte ogni informazione complementare ritenuta necessaria per precisare l’oggetto della richiesta o il parere della giurisdizione interessata sulla questione sollevata dalla richiesta.
 
 <sup>3.</sup> Il presidente della Grande Camera può invitare le parti alla procedura interna a presentare osservazioni scritte e, all’occorrenza, a partecipare all’udienza.
 
-<sup>4.</sup> Le osservazioni scritte o gli altri documenti sono indirizzati al cancelliere nei termini impartiti dal presidente della Grande Camera.
+<sup>4.</sup> Le osservazioni scritte o gli altri documenti sono indirizzati al cancelliere nei termini impartiti dal presidente della Grande Camera, trascorsi i quali la procedura scritta si considera conclusa.
 
-<sup>5.</sup> Una copia delle osservazioni scritte depositate conformemente alle disposizioni dell’articolo 44 del presente regolamento è trasmessa alla giurisdizione che ha presentato la richiesta, la quale può prendere posizione al riguardo.
+<sup>5.</sup> Le disposizioni degli articoli 59 paragrafo 3 e 71 paragrafo 2 si applicano *mutatis mutandis* alla procedura seguita quando la Grande Camera deve dare un parere consultivo in virtù dell’articolo 2 del Protocollo n. 16 alla Convenzione. Al più tardi al termine della procedura scritta, il presidente della Grande Camera decide se occorre tenere un’udienza.
 
-<sup>6.</sup> Una volta terminata la procedura scritta, il presidente della Grande Camera decide se occorre tenere un’udienza.
+<sup>6.</sup> Una copia delle osservazioni scritte depositate conformemente alle disposizioni dell’articolo 44 del presente regolamento è trasmessa alla giurisdizione che ha presentato la richiesta, la quale può prendere posizione al riguardo.
 
 <sup>7.</sup> I pareri consultivi della Grande Camera sono emessi alla maggioranza dei voti. Menzionano il numero dei giudici che costituiscono tale maggioranza.
 
@@ -1310,7 +1311,7 @@ Ogni domanda presentata ai sensi dell’articolo 46 paragrafo 4 della Convenzion
 
 **(ex art. 96)**
 
-Per esaminare la questione sottoposta alla Corte è costituita una Grande Camera conformemente all’articolo 24 paragrafo 2 lettera g del regolamento.
+Per esaminare la questione sottoposta alla Corte è costituita una Grande Camera conformemente all’articolo 24 paragrafo 2 lettera e del regolamento.
 
 #### Art. 102
 
@@ -1473,4 +1474,4 @@ L’applicazione delle disposizioni relative al funzionamento interno della Cort
 
 Il presente regolamento entra in vigore il 1° novembre 1998.
 
-[^117-1]: Gli emendamenti adottati l’8 dic. 2000 sono entrati in vigore immediatamente. Gli emendamenti adottati il 17 giu. e l’8 lug. 2002 sono entrati in vigore il 1° ott. 2002. Gli emendamenti adottati il 7 lug. 2003 sono entrati in vigore il 1° nov. 2003. Gli emendamenti adottati il 13 dic. 2004 sono entrati in vigore il 1° mar. 2005. Gli emendamenti adottati il 4 lug. 2005 sono entrati in vigore il 3 ott. 2005. Gli emendamenti adottati il 7 nov. 2005 sono entrati in vigore il 1° dic. 2005. Gli emendamenti adottati il 29 mag. 2006 sono entrati in vigore il 1° lug. 2006. Gli emendamenti adottati il 14 mag. 2007 sono entrati in vigore il 1° lug. 2007. Gli emendamenti adottati l’11 dic. 2007, il 22 set. e il 1° dic. 2008 sono entrati in vigore il 1° gen. 2009. Gli emendamenti adottati il 29 giu. 2009 sono entrati in vigore il 1° lug. 2009. Gli emendamenti adottati il 16 nov. 2009 sono entrati in vigore il 1° dic. 2009. Gli emendamenti relativi al Prot. n. 14 della Conv., adottati il 13 nov. 2006 e il 14 mag. 2007, sono entrati in vigore il 1° giu. 2010. Gli emendamenti adottati il 21 feb. 2011 sono entrati in vigore il 1° apr. 2011. Gli emendamenti adottati il 16 gen. 2012 sono entrati in vigore il 1° feb. 2012. Gli emendamenti adottati il 20 feb. 2012 sono entrati in vigore il 1° mag. 2012. Gli emendamenti adottati il 2 apr. 2012 sono entrati in vigore il 1° set. 2012. Gli emendamenti adottati il 14 gen. e il 6 feb. 2013 sono entrati in vigore il 1° mag. 2013. Gli emendamenti adottati il 6 mag. 2013 sono entrati in vigore il 1° lug. 2013 e il 1° gen. 2014. Gli emendamenti adottati il 14 apr. e il 23 giu. 2014 sono entrati in vigore il 1° lug. 2014. Alcuni emendamenti adottati il 1° giu. 2015 sono entrati in vigore immediatamente. Gli emendamenti all’art. 47 adottati il 1° giu. e il 5 ott. 2015 sono entrati in vigore il 1° gen. 2016. Gli emendamenti all’art. 8 adottati il 19 set. 2016 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 14 nov. 2016 sono entrati in vigore alla stessa data. Gli emendamenti all’art. 29 adottati il 16 apr. 2018 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 19 set. 2016 sono entrati in vigore il 1° ago. 2018. L’emendamento all’art. 29 par. 1 adottato il 3 giu. 2019 è entrato in vigore alla stessa data. Gli emendamenti agli art. 27*a* e 52*a* adottati il 9 set. 2019 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 4 nov. 2019 sono entrati in vigore il 1° gen. 2020. Gli emendamenti all’art. 8 adottati il 2 giugno 2021 sono entrati in vigore alla stessa data.
+[^117-1]: Gli emendamenti adottati l’8 dic. 2000 sono entrati in vigore immediatamente. Gli emendamenti adottati il 17 giu. e l’8 lug. 2002 sono entrati in vigore il 1° ott. 2002. Gli emendamenti adottati il 7 lug. 2003 sono entrati in vigore il 1° nov. 2003. Gli emendamenti adottati il 13 dic. 2004 sono entrati in vigore il 1° mar. 2005. Gli emendamenti adottati il 4 lug. 2005 sono entrati in vigore il 3 ott. 2005. Gli emendamenti adottati il 7 nov. 2005 sono entrati in vigore il 1° dic. 2005. Gli emendamenti adottati il 29 mag. 2006 sono entrati in vigore il 1° lug. 2006. Gli emendamenti adottati il 14 mag. 2007 sono entrati in vigore il 1° lug. 2007. Gli emendamenti adottati l’11 dic. 2007, il 22 set. e il 1° dic. 2008 sono entrati in vigore il 1° gen. 2009. Gli emendamenti adottati il 29 giu. 2009 sono entrati in vigore il 1° lug. 2009. Gli emendamenti adottati il 16 nov. 2009 sono entrati in vigore il 1° dic. 2009. Gli emendamenti relativi al Prot. n. 14 della Conv., adottati il 13 nov. 2006 e il 14 mag. 2007, sono entrati in vigore il 1° giu. 2010. Gli emendamenti adottati il 21 feb. 2011 sono entrati in vigore il 1° apr. 2011. Gli emendamenti adottati il 16 gen. 2012 sono entrati in vigore il 1° feb. 2012. Gli emendamenti adottati il 20 feb. 2012 sono entrati in vigore il 1° mag. 2012. Gli emendamenti adottati il 2 apr. 2012 sono entrati in vigore il 1° set. 2012. Gli emendamenti adottati il 14 gen. e il 6 feb. 2013 sono entrati in vigore il 1° mag. 2013. Gli emendamenti adottati il 6 mag. 2013 sono entrati in vigore il 1° lug. 2013 e il 1° gen. 2014. Gli emendamenti adottati il 14 apr. e il 23 giu. 2014 sono entrati in vigore il 1° lug. 2014. Alcuni emendamenti adottati il 1° giu. 2015 sono entrati in vigore immediatamente. Gli emendamenti all’art. 47 adottati il 1° giu. e il 5 ott. 2015 sono entrati in vigore il 1° gen. 2016. Gli emendamenti all’art. 8 adottati il 19 set. 2016 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 14 nov. 2016 sono entrati in vigore alla stessa data. Gli emendamenti all’art. 29 adottati il 16 apr. 2018 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 19 set. 2016 sono entrati in vigore il 1° ago. 2018. L’emendamento all’art. 29 par. 1 adottato il 3 giu. 2019 è entrato in vigore alla stessa data. Gli emendamenti agli art. 27*a* e 52*a* adottati il 9 set. 2019 sono entrati in vigore alla stessa data. Gli emendamenti adottati il 4 nov. 2019 sono entrati in vigore il 1° gen. 2020. Gli emendamenti all’art. 8 adottati il 2 giu. 2021 sono entrati in vigore alla stessa data. Gli emendamenti agli art. 24, 93, 94 e 101 adottati l’11 ott. 2021 sono entrati in vigore il 18 ott. 2021.

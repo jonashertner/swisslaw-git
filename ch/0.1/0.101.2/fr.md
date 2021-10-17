@@ -3,22 +3,22 @@ sr: "0.101.2"
 title: "Règlement de la Cour européenne des droits de l'homme du 4 novembre 1998"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: fr
-version: 2021-06-02
+version: 2021-10-18
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20210602/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20210602-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20210602/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20211018/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20211018-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20211018/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Règlement de la Cour européenne des droits de l’homme
+# Règlement de la Cour européenne des droits de l’homme****
 
 RO **2006** 3961[^t-1]
 
 Texte original
 
-du 4 novembre 1998 (Etat le 2 juin 2021)
+du 4 novembre 1998 (Etat le 18 octobre 2021)
 
 [^t-1]: Cette nouvelle version inclut les Am. adoptés par la Cour et mentionnés en note de bas de page à l’art. 117 ([RO 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223)). Les annexes ne sont pas publiées au RO; les textes en français peuvent être consultés sur le site Internet de la Cour: www.echr.coe.int.
 
@@ -327,12 +327,13 @@ Lorsqu’il est nécessaire pour la Cour de trancher un point de procédure ou t
 
 - 2\. a) Font partie de la Grande Chambre le président et les vice-présidents de la Cour, ainsi que les présidents des sections. Lorsqu’un vice-président de la Cour ou le président d’une section ne peut siéger à la Grande Chambre, il est remplacé par le vice-président de la section concernée.
 - b) Le juge élu au titre d’une Partie contractante concernée ou, le cas échéant, le juge désigné en vertu de l’art. 29 ou de l’art. 30 du présent règlement est membre de droit de la Grande Chambre, conformément à l’art. 26 par. 4 et 5de la Convention.
-- c) Dans les affaires qui lui sont déférées en vertu de l’art. 30 de la Convention, la Grande Chambre comprend également les membres de la chambre s’étant dessaisie.
-- d) Dans les affaires qui lui sont déférées en vertu de l’art. 43 de la Convention, la Grande Chambre ne comprend aucun juge ayant siégé dans la chambre qui a rendu l’arrêt concernant l’affaire ainsi renvoyée, à l’exception du président de cette chambre et du juge y ayant siégé au titre de l’État partie intéressé, ni aucun juge ayant siégé dans la Chambre ou les Chambres s’étant prononcées sur la recevabilité de la requête.
-- e) Les juges et juges suppléants appelés à compléter la Grande Chambre chaque fois qu’une affaire lui est déférée sont désignés parmi les juges restants au moyen d’un tirage au sort effectué par le président de la Cour en présence du greffier. Les modalités du tirage au sort sont fixées par la Cour plénière, qui veille à ce que soit assurée une composition géographiquement équilibrée et reflétant la diversité des systèmes juridiques existant dans les Parties contractantes.
+- c) Dans les affaires qui lui sont déférées en vertu de l’art. 43 de la Convention, la Grande Chambre ne comprend aucun juge ayant siégé dans la chambre qui a rendu l’arrêt concernant l’affaire ainsi renvoyée, à l’exception du président de cette chambre et du juge y ayant siégé au titre de l’État partie intéressé, ni aucun juge ayant siégé dans la Chambre ou les Chambres s’étant prononcées sur la recevabilité de la requête.
+- d) Les juges et juges suppléants appelés à compléter la Grande Chambre chaque fois qu’une affaire lui est déférée sont désignés parmi les juges restants au moyen d’un tirage au sort effectué par le président de la Cour en présence du greffier. Les modalités du tirage au sort sont fixées par la Cour plénière, qui veille à ce que soit assurée une composition géographiquement équilibrée et reflétant la diversité des systèmes juridiques existant dans les Parties contractantes.
+- e) Pour l’examen d’une demande soumise au titre de l’art. 46 § 4 de la Convention, la Grande Chambre comprend, outre les juges visés au par.2 a) et b) du présent article, les membres du comité ou de la chambre ayant rendu l’arrêt en cause. Si celui-ci a été rendu par une Grande Chambre, elle est composée des mêmes juges que cette dernière. Dans tous les cas, y compris ceux où il n’est pas possible de réunir la Grande Chambre initiale, les juges et juges suppléants appelés à compléter la Grande Chambre sont désignés conformément au par. 2 d) du présent article.
 - f) Lorsqu’elle examine une demande d’avis consultatif au titre de l’art. 47 de la Convention, la Grande Chambre est constituée conformément aux dispositions du par. 2 a) et e) du présent article.
+- g) Lorsqu’elle examine une demande d’avis consultatif soumise en vertu du Protocole n<sup>o</sup> 16 à la Convention, la Grande Chambre est constituée conformément aux dispositions du par. 2 a), b) et d) du présent article et comprend le juge désigné comme juge rapporteur en application de l’art. 93 § 1.1 b) du présent règlement.
 
-<sup>3.</sup> Si des juges ne peuvent siéger, ils sont remplacés par les juges suppléants suivant l’ordre de désignation prévu au par. 2 e) du présent article.
+<sup>3.</sup> Si des juges ne peuvent siéger, ils sont remplacés par les juges suppléants suivant l’ordre de désignation prévu au par. 2 e) du présent article. Tant qu’il n’a pas été pourvu au remplacement des juges concernés, les juges suppléants ne peuvent participer au vote.
 
 <sup>4.</sup> Les juges et juges suppléants désignés conformément aux dispositions précitées siègent jusqu’à l’achèvement de la procédure. Leur mandat expiré, ils continuent de participer à l’examen de l’affaire s’ils en ont déjà connu au fond. Ces dispositions s’appliquent également à la procédure relative aux avis consultatifs.
 
@@ -341,7 +342,7 @@ Lorsqu’il est nécessaire pour la Cour de trancher un point de procédure ou t
   Le collège de cinq juges de la Grande Chambre appelé à examiner une demande présentée en vertu de l’art. 43 de la Convention se compose:
 
   - – du président de la Cour; si le président de la Cour se trouve empêché, il est remplacé par le vice-président ayant la préséance;
-  - – des présidents de deux sections désignées par rotation; si le président d’une section ainsi désignée se trouve empêché, il est remplacé par le vice-président de la section;
+  - – de deux des présidents de sections désignées par rotation; si le président d’une section ainsi désignée se trouve empêché, il est remplacé par le vice-président de sa section;
   - – de deux juges désignés par rotation parmi les juges élus au sein des sections restantes pour siéger au collège pour une période de six mois;
   - – d’au moins deux juges suppléants désignés par rotation parmi les juges élus au sein des sections pour siéger au collège pour une période de six mois.
 
@@ -1214,8 +1215,8 @@ Dans les procédures relatives aux demandes d’avis consultatif émanant des ju
 1.1. La demande d’avis consultatif est examinée par un collège de cinq juges de la Grande Chambre. Le collège se compose:
 
 - a) du président de la Cour; si le président de la Cour se trouve empêché, il est remplacé par le vice-président ayant la préséance;
-- b) de deux présidents de section désignés par rotation; si un président de section ainsi désigné se trouve empêché, il est remplacé par le vice-président de sa section;
-- c) d’un juge désigné par rotation parmi les juges élus au sein des sections restantes pour siéger au collège pour une période de six mois;
+- b) d’un juge désigné comme juge rapporteur conformément à l’art. 91 et, *mutatis mutandis*, à l’art. 49 du présent règlement;
+- c) de deux présidents de section désignés par rotation; si un président de section ainsi désigné se trouve empêché, il est remplacé par le vice-président de sa section;
 - d) du juge élu au titre de la Partie contractante dont relève la juridiction qui a procédé à la demande ou, le cas échéant, d’un juge désigné conformément à l’art. 29 du présent règlement; et
 - e) d’au moins deux juges suppléants désignés par rotation parmi les juges élus au sein des sections pour siéger au collège pour une période de six mois.
 
@@ -1231,17 +1232,17 @@ Dans les procédures relatives aux demandes d’avis consultatif émanant des ju
 
 **Procédure consécutive à l’acceptation par le collège d’une demande d’avis consultatif**
 
-<sup>1.</sup> Lorsque le collège accepte une demande d’avis consultatif au titre de l’art. 93, une Grande Chambre est constituée conformément à l’art. 24 par. 2 h) du présent règlement pour examiner la demande et rendre un avis consultatif.
+<sup>1.</sup> Lorsque le collège accepte une demande d’avis consultatif au titre de l’art. 93, une Grande Chambre est constituée conformément à l’art. 24 par. 2 g) du présent règlement pour examiner la demande et rendre un avis consultatif.
 
 <sup>2.</sup> Le président de la Grande Chambre peut inviter la juridiction dont émane la demande à soumettre à la Cour toute information complémentaire jugée nécessaire pour préciser l’objet de la demande ou l’avis de la juridiction concernée sur la question soulevée par la demande.
 
 <sup>3.</sup> Le président de la Grande Chambre peut inviter les parties à la procédure interne à présenter des observations écrites et, le cas échéant, à prendre part à l’audience.
 
-<sup>4.</sup> Les observations écrites ou les autres documents sont adressés au greffier dans les délais impartis par le président de la Grande Chambre.
+<sup>4.</sup> Les observations écrites ou les autres documents sont adressés au greffier dans les délais impartis par le président de la Grande Chambre, après quoi la procédure écrite est réputée clôturée.
 
-<sup>5.</sup> Une copie des observations écrites déposées conformément aux dispositions de l’art. 44 du présent règlement est communiquée à la juridiction dont émane la demande, qui pourra formuler des remarques sur les observations en question.
+<sup>5.</sup> Les dispositions des art. 59 § 3 et 71 § 2 s’appliquent *mutatis mutandis* à la procédure suivie lorsqu’il s’agit pour la Grande Chambre de rendre un avis consultatif au titre de l’art. 2 du Protocole n<sup>o</sup> 16 à la Convention. Au plus tard une fois la procédure écrite clôturée, le président de la Grande Chambre décide du point de savoir s’il y a lieu de tenir une audience.
 
-<sup>6.</sup> La procédure écrite une fois clôturée, le président de la Grande Chambre décide du point de savoir s’il y a lieu de tenir une audience.
+<sup>6.</sup> Une copie des observations écrites déposées conformément aux dispositions de l’art. 44 du présent règlement est communiquée à la juridiction dont émane la demande, qui pourra formuler des remarques sur les observations en question.
 
 <sup>7.</sup> Les avis consultatifs sont émis par la Grande Chambre à la majorité des voix. Ils mentionnent le nombre des juges ayant constitué la majorité.
 
@@ -1313,7 +1314,7 @@ Toute demande introduite au titre de l’art. 46 par. 4 de la Convention doit ê
 
 **(ancien art. 96)**
 
-Une Grande Chambre est constituée conformément à l’art. 24 par. 2 g) du règlement pour examiner la question soumise à la Cour.
+Une Grande Chambre est constituée conformément à l’art. 24 par. 2 e) du règlement pour examiner la question soumise à la Cour.
 
 #### Art. 102
 
@@ -1476,4 +1477,4 @@ L’application de toute disposition concernant le fonctionnement interne de la 
 
 Le présent règlement entre en vigueur le 1<sup>er</sup> novembre 1998.
 
-[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020. Les Am. à l’art. 8 qui ont été adoptés le 2 juin 2021 sont entrés en vigueur à la même date.
+[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020. Les Am. à l’art. 8 qui ont été adoptés le 2 juin 2021 sont entrés en vigueur à la même date. Les Am. aux art. 24, 93, 94 et 101 adoptés le 11 octobre 2021 sont entrés en vigueur le 18 octobre 2021.

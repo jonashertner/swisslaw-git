@@ -3,11 +3,11 @@ sr: "0.101.2"
 title: Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: de
-version: 2021-06-02
+version: 2021-10-18
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20210602/de/xml/fedlex-data-admin-ch-eli-cc-2006-596-20210602-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20210602/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20211018/de/xml/fedlex-data-admin-ch-eli-cc-2006-596-20211018-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20211018/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ AS **2006** 3961[^t-1]
 
 Übersetzung
 
-vom 4. November 1998 (Stand am 2. Juni 2021)
+vom 4. November 1998 (Stand am 18. Oktober 2021)
 
 [^t-1]: Neue Fassung unter Berücksichtigung der in der Fussnote zu Art. 117 aufgeführten Änd. ([AS 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223)). Die Anlagen werden in der AS nicht veröffentlicht. Ihre französischen Texte können auf der Internetseite des Gerichtshofs: www.echr.coe.int eingesehen werden.
 
@@ -329,12 +329,13 @@ Hat der Gerichtshof ausserhalb einer angesetzten Sitzung über eine Verfahrensfr
 
 - (2) a) Der Grossen Kammer gehören der Präsident und die Vizepräsidenten des Gerichtshofs sowie die Sektionspräsidenten an. Ist ein Vizepräsident des Gerichtshofs oder ein Sektionspräsident an der Teilnahme an einer Sitzung der Grossen Kammer verhindert, so wird er durch den Vizepräsidenten der betreffenden Sektion vertreten.
 - b) Der für die betroffene Vertragspartei gewählte Richter oder gegebenenfalls der nach Artikel 29 oder Artikel 30 benannte Richter ist nach Artikel 26 Absätze 4 und 5 der Konvention von Amts wegen Mitglied der Grossen Kammer.
-- c) In Rechtssachen, die nach Artikel 30 der Konvention an die Grosse Kammer abgegeben werden, gehören der Grossen Kammer auch die Mitglieder der Kammer an, welche die Sache abgegeben hat.
-- d) In Rechtssachen, die nach Artikel 43 der Konvention an die Grosse Kammer verwiesen werden, gehört der Grossen Kammer kein Richter an, welcher der Kammer angehörte, die das Urteil in der der verwiesenen Rechtssache fällte, mit Ausnahme des Präsidenten jener Kammer und des Richters, der ihr für die betroffene Vertragspartei angehörte, ebenso wenig ein Richter, welcher der oder den Kammern angehörte, die sich über die Zulässigkeit der Beschwerde aussprachen.
-- e) Die Richter und Ersatzrichter, welche die Grosse Kammer jeweils in einer ihr vorgelegten Rechtssache vervollständigen sollen, werden aus dem Kreis der verbleibenden Richter vom Präsidenten des Gerichtshofs im Beisein des Kanzlers durch das Los bestimmt. Die Einzelheiten des Losverfahrens werden unter gebührender Berücksichtigung der Notwendigkeit einer geographisch ausgewogenen Zusammensetzung, die den unterschiedlichen Rechtssystemen der Vertragsparteien Rechnung trägt, vom Plenum festgelegt.
+- c) In Rechtssachen, die nach Artikel 43 der Konvention an die Grosse Kammer verwiesen werden, gehört der Grossen Kammer kein Richter an, welcher der Kammer angehörte, die das Urteil in der verwiesenen Rechtssache fällte, mit Ausnahme des Präsidenten jener Kammer und des Richters, der ihr für die betroffene Vertragspartei angehörte, ebenso wenig ein Richter, welcher der oder den Kammern angehörte, die sich über die Zulässigkeit der Beschwerde aussprachen.
+- d) Die Richter und Ersatzrichter, welche die Grosse Kammer jeweils in einer ihr vorgelegten Rechtssache vervollständigen sollen, werden aus dem Kreis der verbleibenden Richter vom Präsidenten des Gerichtshofs im Beisein des Kanzlers durch das Los bestimmt. Die Einzelheiten des Losverfahrens werden unter gebührender Berücksichtigung der Notwendigkeit einer geografisch ausgewogenen Zusammensetzung, die den unterschiedlichen Rechtssystemen der Vertragsparteien Rechnung trägt, vom Plenum festgelegt.
+- e) Bei der Prüfung eines Antrags nach Artikel 46 Absatz 4 der Konvention gehören der Grossen Kammer neben den Richtern nach Absatz 2 Buchstaben a und b die Mitglieder des Komitees oder der Kammer, das oder die das entsprechende Urteil gefällt hat, an. Wurde das Urteil von einer Grossen Kammer gefällt, so besteht sie aus den gleichen Richtern wie diese Kammer. Die Richter und Ersatzrichter, welche die Grosse Kammer vervollständigen sollen, werden in jedem Fall nach Absatz 2 Buchstabe d bestimmt; dies gilt auch in Fällen, in denen es nicht möglich ist, die ursprüngliche Grosse Kammer zusammenzusetzen.
 - f) Bei der Prüfung eines Antrags auf Erstattung eines Gutachtens nach Artikel 47 der Konvention wird die Grosse Kammer nach Absatz 2 Buchstaben a und e gebildet.
+- g) Bei der Prüfung eines Antrags auf Erstattung eines Gutachtens nach dem Protokoll Nr. 16 zur Konvention wird die Grosse Kammer nach Absatz 2 Buchstaben a, b und d gebildet; ihr gehört der Richter an, der nach Artikel 93 Absatz 1.1 Buchstabe b als Referent bestimmt wird.
 
-<sup>(3)</sup> Sind Richter verhindert, so werden sie durch Ersatzrichter vertreten, die in der Reihenfolge nach Absatz 2 Buchstabe e bestimmt werden.
+<sup>(3)</sup> Sind Richter verhindert, so werden sie durch Ersatzrichter vertreten, die in der Reihenfolge nach Absatz 2 Buchstabe e bestimmt werden. Solange für die betreffenden Richter keine Vertretung bestimmt worden ist, dürfen die Ersatzrichter nicht an der Abstimmung teilnehmen.
 
 <sup>(4)</sup> Die so bestimmten Richter und Ersatzrichter bleiben für die Prüfung der Rechtssache Mitglieder der Grossen Kammer, bis das Verfahren abgeschlossen ist. Sie setzen ihre Tätigkeit in einer Rechtssache auch nach Ablauf ihrer Amtszeit fort, wenn sie an der Prüfung der Begründetheit teilgenommen haben. Diese Bestimmungen gelten auch für das Verfahren zur Erstattung von Gutachten.
 
@@ -1224,8 +1225,8 @@ In den Verfahren betreffend die Anträge auf Erstattung eines Gutachtens der von
 (1.1) Der Antrag auf Erstattung eines Gutachtens wird durch einen Ausschuss von fünf Richtern der Grossen Kammer geprüft. Der Ausschuss setzt sich zusammen aus:
 
 - a) dem Präsidenten des Gerichtshofs; ist der Präsident des Gerichtshofs verhindert, so wird er durch den rangälteren Vizepräsidenten des Gerichtshofs vertreten;
-- b) zwei Sektionspräsidenten, die im Rotationsverfahren bestimmt werden; ist ein so bestimmter Sektionspräsident verhindert, so wird er durch den Vizepräsidenten der Sektion vertreten;
-- c) einem Richter, der im Rotationsverfahren aus dem Kreis der Richter bestimmt wird, die von den verbleibenden Sektionen zur Mitwirkung im Ausschuss für sechs Monate gewählt wurden;
+- b) einem Richter, der nach Artikel 91 und entsprechend Artikel 49 als Referent bestimmt wird;
+- c) zwei Sektionspräsidenten, die im Rotationsverfahren bestimmt werden; ist ein so bestimmter Sektionspräsident verhindert, so wird er durch den Vizepräsidenten der Sektion vertreten;
 - d) dem Richter, der für die betroffene Vertragspartei gewählt wurde, deren Hoheitsgewalt das ersuchende Gericht untersteht, oder gegebenenfalls einem Richter, der nach Artikel 29 benannt wird;
 - e) mindestens zwei Ersatzrichtern, die im Rotationsverfahren aus dem Kreis der Richter bestimmt werden, die von den Sektionen zur Mitwirkung im Ausschuss für sechs Monate gewählt wurden.
 
@@ -1241,17 +1242,17 @@ In den Verfahren betreffend die Anträge auf Erstattung eines Gutachtens der von
 
 **Verfahren nach Annahme eines Antrags um Erstattung eines Gutachtens durch den Ausschuss**
 
-<sup>(1)</sup> Nimmt der Ausschuss einen Antrag um Erstattung eines Gutachtens nach Artikel 93 an, so wird nach Artikel 24 Absatz 2 Buchstabe h eine Grosse Kammer gebildet, um den Antrag zu prüfen und ein Gutachten zu erstatten.
+<sup>(1)</sup> Nimmt der Ausschuss einen Antrag auf Erstattung eines Gutachtens nach Artikel 93 an, so wird nach Artikel 24 Absatz 2 Buchstabe g eine Grosse Kammer gebildet, um den Antrag zu prüfen und ein Gutachten zu erstatten.
 
 <sup>(2)</sup> Der Präsident der Grossen Kammer kann das ersuchende Gericht auffordern, dem Gerichtshof alle weiteren Informationen mitzuteilen, die erforderlich sind, um den Gegenstand des Antrags oder die Auffassung des betreffenden Gerichts zur im Antrag aufgeworfenen Frage näher zu bestimmen.
 
 <sup>(3)</sup> Der Präsident der Grossen Kammer kann die Parteien des innerstaatlichen Verfahrens auffordern, schriftlich Stellung zu nehmen und gegebenenfalls an einer mündlichen Verhandlung teilzunehmen.
 
-<sup>(4)</sup> Die schriftlichen Stellungnahmen oder sonstigen Unterlagen sind innerhalb der vom Präsidenten der Grossen Kammer bestimmten Fristen beim Kanzler einzureichen.
+<sup>(4)</sup> Die schriftlichen Stellungnahmen oder sonstigen Unterlagen sind innerhalb der vom Präsidenten der Grossen Kammer bestimmten Fristen beim Kanzler einzureichen; danach gilt das schriftliche Verfahren als abgeschlossen.
 
-<sup>(5)</sup> Eine Kopie der nach den Bestimmungen von Artikel 44 eingereichten schriftlichen Stellungnahmen wird dem ersuchenden Gericht zugeleitet, das zu den betreffenden Stellungnahmen Bemerkungen anbringen kann.
+<sup>(5)</sup> Auf das Verfahren zur Erstattung eines Gutachtens durch die Grosse Kammer nach Artikel 2 des Protokolls Nr. 16 zur Konvention sind die Bestimmungen der Artikel 59 Absatz 3 und 71 Absatz 2 entsprechend anzuwenden. Spätestens nach Abschluss des schriftlichen Verfahrens entscheidet der Präsident der Grossen Kammer, ob eine mündliche Verhandlung durchzuführen ist.
 
-<sup>(6)</sup> Nach Abschluss des schriftlichen Verfahrens entscheidet der Präsident der Grossen Kammer, ob eine mündliche Verhandlung durchzuführen ist.
+<sup>(6)</sup> Eine Kopie der nach den Bestimmungen von Artikel 44 eingereichten schriftlichen Stellungnahmen wird dem ersuchenden Gericht zugeleitet, das zu den betreffenden Stellungnahmen Bemerkungen anbringen kann.
 
 <sup>(7)</sup> Die Gutachten werden von der Grossen Kammer mit Stimmenmehrheit beschlossen. Die Zahl der Richter, welche die Mehrheit gebildet haben, ist darin anzugeben.
 
@@ -1323,7 +1324,7 @@ Anträge nach Artikel 46 Absatz 4 der Konvention sind zu begründen und beim Kan
 
 **(bisheriger Art. 96)**
 
-Für die Prüfung der dem Gerichtshof vorgelegten Frage wird eine Grosse Kammer nach Artikel 24 Absatz 2 Buchstabe g gebildet.
+Für die Prüfung der dem Gerichtshof vorgelegten Frage wird eine Grosse Kammer nach Artikel 24 Absatz 2 Buchstabe e gebildet.
 
 #### Art. 102
 
@@ -1490,4 +1491,4 @@ Die Anwendung von Bestimmungen, welche die interne Arbeitsweise des Gerichtshofs
 
 Diese Verfahrensordnung tritt am 1. November 1998 in Kraft.
 
-[^117-1]: Die am 8. Dez. 2000 angenommenen Änd. sind sofort in Kraft getreten. Die am 17. Juni und 8. Juli 2002 angenommenen Änd. sind am 1. Okt. 2002 in Kraft getreten. Die am 7. Juli 2003 angenommenen Änd. sind am 1. Nov. 2003 in Kraft getreten. Die am 13. Dez. 2004 angenommenen Änd. sind am 1. März 2005 in Kraft getreten. Die am 4. Juli 2005 angenommenen Änd. sind am 3. Okt. 2005 in Kraft getreten. Die am 7. Nov. 2005 angenommenen Änd. sind am 1. Dez. 2005 in Kraft getreten. Die am 29. Mai 2006 angenommenen Änd. sind am 1. Juli 2006 in Kraft getreten. Die am 14. Mai 2007 angenommenen Änd. sind am 1. Juli 2007 in Kraft getreten. Die am 11. Dez. 2007, 22. Sept. und 1. Dez. 2008 angenommenen Änd. sind am 1. Jan. 2009 in Kraft getreten. Die am 29. Juni 2009 angenommenen Änd. sind am 1. Juli 2009 in Kraft getreten. Die am 16. Nov. 2009 angenommenen Änd. sind am 1. Dez. 2009 in Kraft getreten. Die am 13. Nov. 2006 und 14. Mai 2007 angenommenen Änd. betreffend das Protokoll Nr. 14 zur Konvention sind am 1. Juni 2010 in Kraft getreten. Die am 21. Feb. 2011 angenommenen Änd. sind am 1. April 2011 in Kraft getreten. Die am 16. Jan. 2012 angenommenen Änd. sind am 1. Feb. 2012 in Kraft getreten. Die am 20. Feb. 2012 angenommenen Änd. sind am 1. Mai 2012 in Kraft getreten. Die am 2. April 2012 angenommenen Änd. sind am 1. Sept. 2012 in Kraft getreten. Die am 14. Jan. und 6. Feb. 2013 angenommenen Änd. sind am 1. Mai 2013 in Kraft getreten. Die am 6. Mai 2013 angenommenen Änd. sind am 1. Juli 2013 und 1. Jan. 2014 in Kraft getreten. Die am 14. April und 23. Juni 2014 angenommenen Änd. sind am 1. Juli 2014 in Kraft getreten. Einige der am 1. Juni 2015 angenommenen Änd. sind sofort in Kraft getreten. Die am 1. Juni und 5. Okt. 2015 angenommenen Änd. an Art. 47 sind am 1. Jan. 2016 in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 14. Nov. 2016 angenommenen Änd. sind am selben Datum in Kraft getreten. Die am 16. April 2018 angenommenen Änd. an Art. 29 sind am selben Datum in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. sind am 1. Aug. 2018 in Kraft getreten. Die am 3. Juni 2019 angenommene Änd. an Art. 29 Abs. 1 ist am selben Datum in Kraft getreten. Die am 9. Sept. 2019 angenommenen Änd. an Art. 27*a* und 52*a* sind am selben Datum in Kraft getreten. Die am 4. Nov. 2019 angenommenen Änd. sind am 1. Jan. 2020 in Kraft getreten. Die am 2. Juni 2021 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten.
+[^117-1]: Die am 8. Dez. 2000 angenommenen Änd. sind sofort in Kraft getreten. Die am 17. Juni und 8. Juli 2002 angenommenen Änd. sind am 1. Okt. 2002 in Kraft getreten. Die am 7. Juli 2003 angenommenen Änd. sind am 1. Nov. 2003 in Kraft getreten. Die am 13. Dez. 2004 angenommenen Änd. sind am 1. März 2005 in Kraft getreten. Die am 4. Juli 2005 angenommenen Änd. sind am 3. Okt. 2005 in Kraft getreten. Die am 7. Nov. 2005 angenommenen Änd. sind am 1. Dez. 2005 in Kraft getreten. Die am 29. Mai 2006 angenommenen Änd. sind am 1. Juli 2006 in Kraft getreten. Die am 14. Mai 2007 angenommenen Änd. sind am 1. Juli 2007 in Kraft getreten. Die am 11. Dez. 2007, 22. Sept. und 1. Dez. 2008 angenommenen Änd. sind am 1. Jan. 2009 in Kraft getreten. Die am 29. Juni 2009 angenommenen Änd. sind am 1. Juli 2009 in Kraft getreten. Die am 16. Nov. 2009 angenommenen Änd. sind am 1. Dez. 2009 in Kraft getreten. Die am 13. Nov. 2006 und 14. Mai 2007 angenommenen Änd. betreffend das Protokoll Nr. 14 zur Konvention sind am 1. Juni 2010 in Kraft getreten. Die am 21. Feb. 2011 angenommenen Änd. sind am 1. April 2011 in Kraft getreten. Die am 16. Jan. 2012 angenommenen Änd. sind am 1. Feb. 2012 in Kraft getreten. Die am 20. Feb. 2012 angenommenen Änd. sind am 1. Mai 2012 in Kraft getreten. Die am 2. April 2012 angenommenen Änd. sind am 1. Sept. 2012 in Kraft getreten. Die am 14. Jan. und 6. Feb. 2013 angenommenen Änd. sind am 1. Mai 2013 in Kraft getreten. Die am 6. Mai 2013 angenommenen Änd. sind am 1. Juli 2013 und 1. Jan. 2014 in Kraft getreten. Die am 14. April und 23. Juni 2014 angenommenen Änd. sind am 1. Juli 2014 in Kraft getreten. Einige der am 1. Juni 2015 angenommenen Änd. sind sofort in Kraft getreten. Die am 1. Juni und 5. Okt. 2015 angenommenen Änd. an Art. 47 sind am 1. Jan. 2016 in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 14. Nov. 2016 angenommenen Änd. sind am selben Datum in Kraft getreten. Die am 16. April 2018 angenommenen Änd. an Art. 29 sind am selben Datum in Kraft getreten. Die am 19. Sept. 2016 angenommenen Änd. sind am 1. Aug. 2018 in Kraft getreten. Die am 3. Juni 2019 angenommene Änd. an Art. 29 Abs. 1 ist am selben Datum in Kraft getreten. Die am 9. Sept. 2019 angenommenen Änd. an Art. 27*a* und 52*a* sind am selben Datum in Kraft getreten. Die am 4. Nov. 2019 angenommenen Änd. sind am 1. Jan. 2020 in Kraft getreten. Die am 2. Juni 2021 angenommenen Änd. an Art. 8 sind am selben Datum in Kraft getreten. Die am 11. Oktober 2021 angenommenen Änd. an Art. 24, 93, 94 und 101 sind am 18. Oktober 2021 in Kraft getreten.
