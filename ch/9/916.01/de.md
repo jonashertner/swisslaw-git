@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2021-10-01
+version: 2021-10-18
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20211018/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20211018-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20211018/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20211001/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. Oktober 2021)
+vom 26. Oktober 2011 (Stand am 18. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -2896,7 +2896,7 @@ Anhang 3*[^t-3]*
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Ziff. I der V des BLW vom 16. Febr. 2021 ([AS 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), vom 29. April 2021 ([AS 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), vom 15. Juni 2021 ([AS 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)), vom 18. Juni 2021 ([AS 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)), Ziff. I und II der V des BLW vom 30. Aug. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)) und Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)).
+[^t-3]: Bereinigt gemäss Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Ziff. I der V des BLW vom 16. Febr. 2021 ([AS 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), vom 29. April 2021 ([AS 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), vom 15. Juni 2021 ([AS 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)), vom 18. Juni 2021 ([AS 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)), Ziff. I und II der V des BLW vom 30. Aug. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)) und der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -2936,7 +2936,7 @@ Anhang 3*[^t-3]*
 <tr><td>05.4</td><td>Koscherfleisch von Tieren der Schafgattung</td><td>**20**</td></tr>
 <tr><td>05.5</td><td>Halalfleisch von Tieren der Rindviehgattung</td><td>**410**</td></tr>
 <tr><td>05.6</td><td>Halalfleisch von Tieren der Schafgattung</td><td>**175**</td></tr>
-<tr><td>05.7</td><td>Übriges Fleisch vorwiegend auf der Basis von Raufutter produziert, von Rind, Pferd, Schaf und Ziege</td><td>**20 643**</td></tr>
+<tr><td>05.7</td><td>Übriges Fleisch vorwiegend auf der Basis von Raufutter produziert, von Rind, Pferd, Schaf und Ziege</td><td>**21 243**</td></tr>
 <tr><td>05.71</td><td>davon Rindfleisch der zu 05.711, 05.712 und 05.713 gehörenden Tarifnummern (Anhang 1):</td><td>2000</td></tr>
 <tr><td></td><td>[a] Verpflichtung aus der Tokyo-Runde des GATT im Sinne einer Mindestmenge, siehe dazu Beilage 19 zum Genfer Protokoll (1979), SR *0.632.231.53*</td><td>[a]</td></tr>
 <tr><td>05.711</td><td>davon sogenanntes US-Style-Beef:</td><td>700</td></tr>

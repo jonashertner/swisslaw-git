@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente l'importazione di prodotti agr
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: it
-version: 2021-10-01
+version: 2021-10-18
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20211018/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20211018-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20211018/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20211001/it"
 
 (Ordinanza sulle importazioni agricole, OIAgr)
 
-del 26 ottobre 2011 (Stato 1° ottobre 2021)
+del 26 ottobre 2011 (Stato 18 ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -2879,7 +2879,7 @@ Allegato 3*[^t-3]*
 
 ## Contingenti doganali interi e parziali
 
-[^t-3]: Aggiornato dal n. I cpv. 1 dell’O del 9 dic. 2016 ([RU 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dai n. I delle O dell’UFAG del 16 feb. 2021 ([RU 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), del 29 apr. 2021 ([RU 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), del 15 giu. 2021 ([RU 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)), del 18 giu. 2021 ([RU 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)), dal n. I e II dell’O dell’UFAG del 30 ago. 2021 ([RU 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)) e dal n. I dell’O del 17 set. 2021, in vigore dal 1° ott. 2021 ([RU 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)).
+[^t-3]: Aggiornato dal n. I cpv. 1 dell’O del 9 dic. 2016 ([RU 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dai n. I delle O dell’UFAG del 16 feb. 2021 ([RU 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), del 29 apr. 2021 ([RU 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), del 15 giu. 2021 ([RU 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)), del 18 giu. 2021 ([RU 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)), dal n. I e II dell’O dell’UFAG del 30 ago. 2021 ([RU 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), dal n. I dell’O del 17 set. 2021, in vigore dal 1° 0tt. 2021 ([RU 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)) e dalla correzione del 18 ott. 2021 ([RU 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)).
 
 ### 1. Disciplinamento del mercato: animali della specie equina
 
@@ -2919,7 +2919,7 @@ Allegato 3*[^t-3]*
 <tr><td>05.4</td><td>Carne koscher di animali della specie ovina</td><td colspan="2">**20**</td></tr>
 <tr><td>05.5</td><td>Carne halal di animali della specie bovina</td><td colspan="2">**410**</td></tr>
 <tr><td>05.6</td><td>Carne halal di animali della specie ovina</td><td colspan="2">**175**</td></tr>
-<tr><td>05.7</td><td>Altra carne, prodotta prevalentemente sulla base di foraggio grezzo, di animali delle specie bovina, equina, ovina e caprina</td><td colspan="2">**20 643**</td></tr>
+<tr><td>05.7</td><td>Altra carne, prodotta prevalentemente sulla base di foraggio grezzo, di animali delle specie bovina, equina, ovina e caprina</td><td colspan="2">**21 243**</td></tr>
 <tr><td>05.71</td><td>di cui carne della specie bovina delle voci di tariffa che rientrano sotto 05.711, 05.712 e 05.713 (allegato 1):</td><td colspan="2">2000</td></tr>
 <tr><td></td><td>[a] Obbligo in materia di quantità minima scaturito dal Tokyo Round del GATT, cfr. allegato 19 del Protocollo di Ginevra (1979), RS *0.632.231.53*</td><td colspan="2">[a]</td></tr>
 <tr><td>05.711</td><td>di cui carne del cosiddetto US-Style-Beef:</td><td colspan="2">700</td></tr>
