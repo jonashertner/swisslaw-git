@@ -3,11 +3,11 @@ sr: "0.451.43"
 title: Convenzione del 5 giugno 1992 sulla diversità biologica (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408"
 language: it
-version: 2017-01-04
+version: 2021-10-19
 adopted: 1992-06-05
 in_force: 1995-02-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408/20170104/it/xml/fedlex-data-admin-ch-eli-cc-1995-1408_1408_1408-20170104-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1408_1408_1408/20170104/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408/20211019/it/xml/fedlex-data-admin-ch-eli-cc-1995-1408_1408_1408-20211019-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1408_1408_1408/20211019/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1408_1408_1408/20170104/it"
 
 RU **1995** 1408; FF **1994** III 178
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa a Rio de Janeiro il 5 giugno 1992 Approvata dall’Assemblea federale il 28 settembre 1994[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 21 novembre 1994 Entrata in vigore per la Svizzera il 19 febbraio 1995
+Conclusa a Rio de Janeiro il 5 giugno 1992 Approvata dall’Assemblea federale il 28 settembre 1994[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 21 novembre 1994 Entrata in vigore per la Svizzera il 19 febbraio 1995
 
-(Stato 4 gennaio 2017)
+(Stato 19 ottobre 2021)
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: Art. 1 cpv. 2 del DF del 28 set. 1994 ([RU 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407)).
+[^t-1]: Art. 1 cpv. 2 del DF del 28 set. 1994 ([RU 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407)).
 
 *Preambolo*
 
@@ -695,7 +694,7 @@ La Commissione di conciliazione adotterà le sue decisioni con un voto di maggio
 
 Ogni disaccordo sul fatto che la Commissione di conciliazione abbia o meno competenza sarà deciso dalla Commissione.
 
-Campo d’applicazione il 4 gennaio 2017**[^t-3]**
+Campo d’applicazione il 19 ottobre 2021[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -758,6 +757,7 @@ Campo d’applicazione il 4 gennaio 2017**[^t-3]**
 <tr><td>Emirati Arabi Uniti</td><td>10 febbraio</td><td>2000</td><td>10 maggio</td><td>2000</td></tr>
 <tr><td>Eritrea</td><td>21 marzo</td><td>1996 A</td><td>19 giugno</td><td>1996</td></tr>
 <tr><td>Estonia</td><td>27 luglio</td><td>1994</td><td>25 ottobre</td><td>1994</td></tr>
+<tr><td>Eswatini</td><td>9 novembre</td><td>1994</td><td>7 febbraio</td><td>1995</td></tr>
 <tr><td>Etiopia</td><td>5 aprile</td><td>1994</td><td>4 luglio</td><td>1994</td></tr>
 <tr><td>Figi</td><td>25 febbraio</td><td>1993</td><td>29 dicembre</td><td>1993</td></tr>
 <tr><td>Filippine</td><td>8 ottobre</td><td>1993</td><td>6 gennaio</td><td>1994</td></tr>
@@ -805,7 +805,7 @@ Campo d’applicazione il 4 gennaio 2017**[^t-3]**
 <tr><td>Liechtenstein<sup>\*</sup></td><td>19 novembre</td><td>1997</td><td>17 febbraio</td><td>1998</td></tr>
 <tr><td>Lituania</td><td>1° febbraio</td><td>1996</td><td>1° maggio</td><td>1996</td></tr>
 <tr><td>Lussemburgo</td><td>9 maggio</td><td>1994</td><td>7 agosto</td><td>1994</td></tr>
-<tr><td>Macedonia</td><td>2 dicembre</td><td>1997 A</td><td>2 marzo</td><td>1998</td></tr>
+<tr><td>Macedonia del Nord</td><td>2 dicembre</td><td>1997 A</td><td>2 marzo</td><td>1998</td></tr>
 <tr><td>Madagascar</td><td>4 marzo</td><td>1996</td><td>2 giugno</td><td>1996</td></tr>
 <tr><td>Malawi</td><td>2 febbraio</td><td>1994</td><td>3 maggio</td><td>1994</td></tr>
 <tr><td>Malaysia</td><td>24 giugno</td><td>1994</td><td>22 settembre</td><td>1994</td></tr>
@@ -885,7 +885,6 @@ Campo d’applicazione il 4 gennaio 2017**[^t-3]**
 <tr><td>Suriname</td><td>12 gennaio</td><td>1996</td><td>11 aprile</td><td>1996</td></tr>
 <tr><td>Svezia</td><td>16 dicembre</td><td>1993</td><td>16 marzo</td><td>1994</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>21 novembre</td><td>1994</td><td>19 febbraio</td><td>1995</td></tr>
-<tr><td>Swaziland</td><td>9 novembre</td><td>1994</td><td>7 febbraio</td><td>1995</td></tr>
 <tr><td>Tagikistan</td><td>29 ottobre</td><td>1997 A</td><td>27 gennaio</td><td>1998</td></tr>
 <tr><td>Tanzania</td><td>8 marzo</td><td>1996</td><td>6 giugno</td><td>1996</td></tr>
 <tr><td>Thailandia</td><td>31 ottobre</td><td>2003</td><td>29 gennaio</td><td>2004</td></tr>
@@ -900,7 +899,7 @@ Campo d’applicazione il 4 gennaio 2017**[^t-3]**
 <tr><td>Ucraina</td><td>7 febbraio</td><td>1995</td><td>8 maggio</td><td>1995</td></tr>
 <tr><td>Uganda</td><td>8 settembre</td><td>1993</td><td>29 dicembre</td><td>1993</td></tr>
 <tr><td>Ungheria</td><td>24 febbraio</td><td>1994</td><td>25 maggio</td><td>1994</td></tr>
-<tr><td>Unione europea<sup>\*</sup></td><td>21 dicembre</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
+<tr><td>Unione europea (UE)\*</td><td>21 dicembre</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
 <tr><td>Uruguay</td><td>5 novembre</td><td>1993</td><td>29 novembre</td><td>1993</td></tr>
 <tr><td>Uzbekistan</td><td>19 luglio</td><td>1995 A</td><td>17 ottobre</td><td>1995</td></tr>
 <tr><td>Vanuatu</td><td>25 marzo</td><td>1993</td><td>29 dicembre</td><td>1993</td></tr>
@@ -909,14 +908,14 @@ Campo d’applicazione il 4 gennaio 2017**[^t-3]**
 <tr><td>Yemen</td><td>21 febbraio</td><td>1996</td><td>21 maggio</td><td>1996</td></tr>
 <tr><td>Zambia</td><td>28 maggio</td><td>1993</td><td>29 dicembre</td><td>1993</td></tr>
 <tr><td>Zimbabwe</td><td>11 novembre</td><td>1994</td><td>9 febbraio</td><td>1995</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultare sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 1995 1408](https://fedlex.data.admin.ch/eli/oc/1995/1408_1408_1408), [2003 3787](https://fedlex.data.admin.ch/eli/oc/2003/545), [2007 1399](https://fedlex.data.admin.ch/eli/oc/2007/243), [2011 4885](https://fedlex.data.admin.ch/eli/oc/2011/695), [2015 757](https://fedlex.data.admin.ch/eli/oc/2015/133)e [2017 117](https://fedlex.data.admin.ch/eli/oc/2017/33). Una versione aggiornata del campo di applicazione è pubblicata sul Sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1995 1408](https://fedlex.data.admin.ch/eli/oc/1995/1408_1408_1408); [2003 3787](https://fedlex.data.admin.ch/eli/oc/2003/545); [2007 1399](https://fedlex.data.admin.ch/eli/oc/2007/243); [2011 4885](https://fedlex.data.admin.ch/eli/oc/2011/695); [2015 757](https://fedlex.data.admin.ch/eli/oc/2015/133); [2017 117](https://fedlex.data.admin.ch/eli/oc/2017/33); [2021 625](https://fedlex.data.admin.ch/eli/oc/2021/625). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
 
 Dichiarazioni
 
-**Svizzera**[^t-4]
+**Svizzera**[^t-3]
 
 La Svizzera desidera ribadire l’importanza che attribuisce al trasferimento di tecnologia e alla biotecnologia allo scopo di garantire la protezione e l’uso durevole della diversità biologica. Il rispetto dei diritti di proprietà intellettuale rappresenta un elemento essenziale dell’attuazione delle politiche di trasferimento di tecnologia e di co‑investimento.
 
@@ -924,4 +923,4 @@ Per la Svizzera il trasferimento di tecnologia e l’accesso alla biotecnologia,
 
 La Svizzera incentiva il ricorso al meccanismo di finanziamento stabilito dalla Convenzione per promuovere il trasferimento volontario dei diritti di proprietà intellettuale detenuti dagli operatori svizzeri, segnatamente per quanto riguarda il rilascio di licenze, mediante decisioni e meccanismi commerciali classici, assicurando in ogni caso una protezione appropriata ed efficace dei diritti di proprietà.
 
-[^t-4]: Art. 1 cpv. 2 del DF del 28 set. 1994 ([RU 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407)).
+[^t-3]: Art. 1 cpv. 2 del DF del 28 set. 1994 ([RU 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407)).

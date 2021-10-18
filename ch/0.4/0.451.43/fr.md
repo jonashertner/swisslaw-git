@@ -3,11 +3,11 @@ sr: "0.451.43"
 title: Convention du 5 juin 1992 sur la diversité biologique (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408"
 language: fr
-version: 2017-01-04
+version: 2021-10-19
 adopted: 1992-06-05
 in_force: 1995-02-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408/20170104/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1408_1408_1408-20170104-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1408_1408_1408/20170104/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408/20211019/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1408_1408_1408-20211019-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1408_1408_1408/20211019/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,17 +18,11 @@ RO **1995** 1408; FF **1994** III 189
 
 Texte original
 
-Conclu à Rio de Janeiro le 5 juin 1992
+Conclu à Rio de Janeiro le 5 juin 1992 Approuvée par l’Assemblée fédérale le 28 septembre 1994[^t-1] Instrument de ratification déposé par la Suisse le 21 novembre 1994 Entrée en vigueur pour la Suisse le 19 février 1995
 
-Approuvée par l’Assemblée fédérale le 28 septembre 1994[^t-1]
+(État le 19 octobre 2021)
 
-Instrument de ratification déposé par la Suisse le 21 novembre 1994
-
-Entrée en vigueur pour la Suisse le 19 février 1995
-
-(Etat le 4 janvier 2017)
-
-[^t-1]: Art. 1 al. 1 de l’AF du 28 sept. 1994 ([RO 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407))
+[^t-1]: Art. 1 al. 1 de l’AF du 28 sept. 1994 ([RO 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407)).
 
 *Préambule*
 
@@ -40,9 +34,9 @@ conscientes également de l’importance de la diversité biologique pour l’é
 
 affirmant que la conservation de la diversité biologique est une préoccupation commune à l’humanité,
 
-réaffirmant que les Etats ont des droits souverains sur leurs ressources biologiques,
+réaffirmant que les États ont des droits souverains sur leurs ressources biologiques,
 
-réaffirmant également que les Etats sont responsables de la conservation de leur diversité biologique et de l’utilisation durable de leurs ressources biologiques,
+réaffirmant également que les États sont responsables de la conservation de leur diversité biologique et de l’utilisation durable de leurs ressources biologiques,
 
 préoccupées par le fait que la diversité biologique s’appauvrit considérablement par suite de certaines des activités de l’homme,
 
@@ -58,13 +52,13 @@ reconnaissant qu’un grand nombre de communautés locales et de populations aut
 
 reconnaissant également le rôle capital que jouent les femmes dans la conservation et l’utilisation durable de la diversité biologique et affirmant la nécessité d’assurer leur pleine participation à tous les niveaux aux décisions politiques concernant la conservation de la diversité biologique et à leur application,
 
-soulignant qu’il importe et qu’il est nécessaire de favoriser la coopération internationale, régionale et mondiale entre les Etats et les organisations intergouvernementales et le secteur non gouvernemental aux fins de conservation de la diversité biologique et de l’utilisation durable de ses éléments,
+soulignant qu’il importe et qu’il est nécessaire de favoriser la coopération internationale, régionale et mondiale entre les États et les organisations intergouvernementales et le secteur non gouvernemental aux fins de conservation de la diversité biologique et de l’utilisation durable de ses éléments,
 
 reconnaissant que le fait d’assurer des ressources financières nouvelles et additionnelles ainsi qu’un accès satisfaisant aux techniques pertinentes devrait influer sensiblement sur la mesure dans laquelle le monde sera à même de s’attaquer à l’appauvrissement de la diversité biologique,
 
 reconnaissant en outre que des moyens spéciaux sont nécessaires pour satisfaire les besoins des pays en développement, notamment la fourniture de ressources financières nouvelles et additionnelles ainsi qu’un accès approprié aux techniques pertinentes,
 
-notant à cet égard les conditions particulières des pays les moins avancés et des petits Etats insulaires,
+notant à cet égard les conditions particulières des pays les moins avancés et des petits États insulaires,
 
 reconnaissant que des investissements importants sont nécessaires pour assurer la conservation de la diversité biologique, dont on peut escompter de nombreux avantages sur les plans environnemental, économique et social,
 
@@ -72,7 +66,7 @@ reconnaissant que le développement économique et social et l’éradication de
 
 conscientes du fait que la conservation et l’utilisation durable de la diversité biologique revêtent la plus haute importance pour la satisfaction des besoins alimentaires, sanitaires et autres de la population de la planète, qui ne cesse de croître, et que l’accès aux ressources génétiques et à la technologie ainsi que leur partage sont de ce fait indispensables,
 
-notant qu’à terme la conservation et l’utilisation durable de la diversité biologique renforceront les relations amicales entre Etats et contribueront à la paix de l’humanité,
+notant qu’à terme la conservation et l’utilisation durable de la diversité biologique renforceront les relations amicales entre États et contribueront à la paix de l’humanité,
 
 désireuses d’améliorer et de compléter les arrangements internationaux existant en matière de conservation de la diversité biologique et d’utilisation durable de ses éléments,
 
@@ -102,7 +96,7 @@ Aux fins de la présente Convention, on entend par:
 
 *Diversité biologique:* variabilité des organismes vivants de toute origine y compris, entre autres, les écosystèmes terrestres, marins et autres écosystèmes aquatiques et les complexes écologiques dont ils font partie; cela comprend la diversité au sein des espèces et entre espèces ainsi que celle des écosystèmes.
 
-*Ecosystème:* le complexe dynamique formé de communautés de plantes, d’animaux et de micro‑organismes et de leur environnement non vivant qui, par leur interaction, forment une unité fonctionnelle.
+*Écosystème:* le complexe dynamique formé de communautés de plantes, d’animaux et de micro‑organismes et de leur environnement non vivant qui, par leur interaction, forment une unité fonctionnelle.
 
 *Espèce domestiquée ou cultivée:* toute espèce dont le processus d’évolution a été influencé par l’homme pour répondre à ses besoins.
 
@@ -110,7 +104,7 @@ Aux fins de la présente Convention, on entend par:
 
 *Matériel génétique:* le matériel d’origine végétale, animale, microbienne ou autre, contenant des unités fonctionnelles de l’hérédité.
 
-*Organisation régionale d’intégration économique:* toute organisation constituée par des Etats souverains d’une région donnée, à laquelle ces Etats membres ont transféré des compétences en ce qui concerne les questions régies par la présente Convention et qui a été dûment mandatée, conformément à ses procédures internes, pour signer, ratifier, accepter, approuver ladite Convention ou y adhérer.
+*Organisation régionale d’intégration économique:* toute organisation constituée par des États souverains d’une région donnée, à laquelle ces États membres ont transféré des compétences en ce qui concerne les questions régies par la présente Convention et qui a été dûment mandatée, conformément à ses procédures internes, pour signer, ratifier, accepter, approuver ladite Convention ou y adhérer.
 
 *Pays d’origine des ressources génétiques:* pays qui possède ces ressources génétiques dans des conditions *in situ.*
 
@@ -130,13 +124,13 @@ Aux fins de la présente Convention, on entend par:
 
 **Principe**
 
-Conformément à la Charte des Nations Unies et aux principes du droit international, les Etats ont le droit souverain d’exploiter leurs propres ressources selon leur politique d’environnement et ils ont le devoir de faire en sorte que les activités exercées dans les limites de leur juridiction ou sous leur contrôle ne causent pas de dommage à l’environnement dans d’autres Etats ou dans des régions ne relevant d’aucune juridiction nationale.
+Conformément à la Charte des Nations Unies et aux principes du droit international, les États ont le droit souverain d’exploiter leurs propres ressources selon leur politique d’environnement et ils ont le devoir de faire en sorte que les activités exercées dans les limites de leur juridiction ou sous leur contrôle ne causent pas de dommage à l’environnement dans d’autres États ou dans des régions ne relevant d’aucune juridiction nationale.
 
 #### Art. 4
 
 **Champ d’application**
 
-Sous réserve des droits des autres Etats et sauf disposition contraire expresse de la présente convention, les dispositions de la Convention s’appliquent à chacune des Parties contractantes:
+Sous réserve des droits des autres États et sauf disposition contraire expresse de la présente convention, les dispositions de la Convention s’appliquent à chacune des Parties contractantes:
 
 - a) lorsqu’il s’agit des éléments de la diversité biologique de zones situées dans les limites de sa juridiction nationale;
 - b) lorsqu’il s’agit des processus et activités qui sont réalisés sous sa juridiction ou son contrôle, que ce soit à l’intérieur de la zone relevant de sa juridiction nationale ou en dehors des limites de sa juridiction nationale, indépendamment de l’endroit où ces processus et activités produisent leurs effets.
@@ -229,16 +223,16 @@ Les Parties contractantes, tenant compte des besoins particuliers des pays en d�
 
 #### Art. 13
 
-**Education et sensibilisation du public**
+**Éducation et sensibilisation du public**
 
 Les Parties contractantes:
 
 - a) favorisent et encouragent une prise de conscience de l’importance de la conservation de la diversité biologique et des mesures nécessaires à cet effet et en assurent la promotion par les médias, ainsi que la prise en compte de ces questions dans les programmes d’enseignement;
-- b) coopèrent, selon qu’il conviendra, avec d’autres Etats et des organisations internationales, pour mettre au point des programmes d’éducation et de sensibilisation du public concernant la conservation et l’utilisation durable de la diversité biologique.
+- b) coopèrent, selon qu’il conviendra, avec d’autres États et des organisations internationales, pour mettre au point des programmes d’éducation et de sensibilisation du public concernant la conservation et l’utilisation durable de la diversité biologique.
 
 #### Art. 14
 
-**Etudes d’impact et réduction des effets nocifs**
+**Études d’impact et réduction des effets nocifs**
 
 <sup>1.</sup>
 
@@ -246,9 +240,9 @@ Chaque Partie contractante, dans la mesure du possible et selon qu’il conviend
 
 - a) adopte des procédures permettant d’exiger l’évaluation des impacts sur l’environnement des projets qu’elle a proposés et qui sont susceptibles de nuire sensiblement à la diversité biologique en vue d’éviter et de réduire au minimum de tels effets, et, s’il y a lieu, permet au public de participer à ces procédures;
 - b) prend les dispositions voulues pour qu’il soit dûment tenu compte des effets sur l’environnement de ses programmes et politiques susceptibles de nuire sensiblement à la diversité biologique;
-- c) encourage, sur une base de réciprocité, la notification, l’échange de renseignements et les consultations au sujet des activités relevant de sa juridiction ou de son autorité et susceptibles de nuire sensiblement à la diversité biologique d’autres Etats ou de zones situées hors des limites de la juridiction nationale, en encourageant la conclusion d’accords bilatéraux, régionaux ou multilatéraux, selon qu’il conviendra;
-- d) dans le cas d’un danger ou d’un dommage imminent ou grave trouvant son origine sous sa juridiction ou son contrôle et menaçant la diversité biologique dans une zone relevant de la juridiction d’autres Etats ou dans des zones situées en dehors des limites de la juridiction des Etats, en informe immédiatement les Etats susceptibles d’être touchés par ce danger ou ce dommage, et prend les mesures propres à prévenir ce danger ou ce dommage ou à en atténuer autant que possible les effets;
-- e) facilite les arrangements nationaux aux fins de l’adoption de mesures d’urgence au cas où des activités ou des événements, d’origine naturelle ou autre, présenteraient un danger grave ou imminent pour la diversité biologique, et encourage la coopération internationale en vue d’étayer ces efforts nationaux et, selon qu’il est approprié et comme en conviennent les Etats ou les organisations régionales d’intégration économique concernés, en vue d’établir des plans d’urgence communs.
+- c) encourage, sur une base de réciprocité, la notification, l’échange de renseignements et les consultations au sujet des activités relevant de sa juridiction ou de son autorité et susceptibles de nuire sensiblement à la diversité biologique d’autres États ou de zones situées hors des limites de la juridiction nationale, en encourageant la conclusion d’accords bilatéraux, régionaux ou multilatéraux, selon qu’il conviendra;
+- d) dans le cas d’un danger ou d’un dommage imminent ou grave trouvant son origine sous sa juridiction ou son contrôle et menaçant la diversité biologique dans une zone relevant de la juridiction d’autres États ou dans des zones situées en dehors des limites de la juridiction des États, en informe immédiatement les États susceptibles d’être touchés par ce danger ou ce dommage, et prend les mesures propres à prévenir ce danger ou ce dommage ou à en atténuer autant que possible les effets;
+- e) facilite les arrangements nationaux aux fins de l’adoption de mesures d’urgence au cas où des activités ou des événements, d’origine naturelle ou autre, présenteraient un danger grave ou imminent pour la diversité biologique, et encourage la coopération internationale en vue d’étayer ces efforts nationaux et, selon qu’il est approprié et comme en conviennent les États ou les organisations régionales d’intégration économique concernés, en vue d’établir des plans d’urgence communs.
 
 <sup>2.</sup> La Conférence des Parties examine, sur la base des études qui seront entreprises, la question de la responsabilité et de la réparation, y compris la remise en état et l’indemnisation pour dommages causés à la diversité biologique, sauf si cette responsabilité est d’ordre strictement interne.
 
@@ -256,7 +250,7 @@ Chaque Partie contractante, dans la mesure du possible et selon qu’il conviend
 
 **Accès aux ressources génétiques**
 
-<sup>1.</sup> Etant donné que les Etats ont droit de souveraineté sur leurs ressources naturelles, le pouvoir de déterminer l’accès aux ressources génétiques appartient aux gouvernements et est régi par la législation nationale.
+<sup>1.</sup> Étant donné que les États ont droit de souveraineté sur leurs ressources naturelles, le pouvoir de déterminer l’accès aux ressources génétiques appartient aux gouvernements et est régi par la législation nationale.
 
 <sup>2.</sup> Chaque Partie contractante s’efforce de créer les conditions propres à faciliter l’accès aux ressources génétiques aux fins d’utilisation écologiquement rationnelle par d’autres Parties contractantes et de ne pas imposer de restrictions allant à l’encontre des objectifs de la présente Convention.
 
@@ -286,7 +280,7 @@ Chaque Partie contractante, dans la mesure du possible et selon qu’il conviend
 
 #### Art. 17
 
-**Echange d’informations**
+**Échange d’informations**
 
 <sup>1.</sup> Les Parties contractantes facilitent l’échange d’informations, provenant de toutes les sources accessibles au public, intéressant la conservation et l’utilisation durable de la diversité biologique en tenant compte des besoins spéciaux des pays en développement.
 
@@ -332,7 +326,7 @@ Chaque Partie contractante, dans la mesure du possible et selon qu’il conviend
 
 <sup>5.</sup> Les Parties tiennent pleinement compte des besoins spécifiques et de la situation particulière des pays les moins avancés dans les mesures qu’ils prennent en matière de financement et de transfert de technologie.
 
-<sup>6.</sup> Les Parties contractantes prennent aussi en considération les conditions spéciales résultant de la répartition et de la localisation de la diversité biologique sur le territoire des Parties qui sont des pays en développement, et de la dépendance de ces dernières, en particulier de celles qui sont des petits Etats insulaires.
+<sup>6.</sup> Les Parties contractantes prennent aussi en considération les conditions spéciales résultant de la répartition et de la localisation de la diversité biologique sur le territoire des Parties qui sont des pays en développement, et de la dépendance de ces dernières, en particulier de celles qui sont des petits États insulaires.
 
 <sup>7.</sup> Elles prennent également en considération la situation particulière des pays en développement, notamment de ceux qui sont les plus vulnérables du point de vue de l’environnement, tels que ceux qui ont des zones arides et semi‑arides, des zones côtières et montagneuses.
 
@@ -354,7 +348,7 @@ Chaque Partie contractante, dans la mesure du possible et selon qu’il conviend
 
 <sup>1.</sup> Les dispositions de la présente Convention ne modifient en rien les droits et obligations découlant pour une Partie contractante d’un accord international existant, sauf si l’exercice de ces droits ou le respect de ces obligations causait de sérieux dommages à la diversité biologique ou constituait pour elle une menace.
 
-<sup>2.</sup> Les Parties contractantes appliquent la présente Convention, en ce qui concerne le milieu marin, conformément aux droits et obligations des Etats découlant du droit de la mer.
+<sup>2.</sup> Les Parties contractantes appliquent la présente Convention, en ce qui concerne le milieu marin, conformément aux droits et obligations des États découlant du droit de la mer.
 
 #### Art. 23
 
@@ -380,13 +374,15 @@ La Conférence des Parties examine l’application de la présente Convention et
 - h) se met en rapport, par l’intermédiaire du Secrétariat, avec les organes exécutifs des conventions traitant des questions qui font l’objet de la présente Convention en vue de fixer avec eux les modalités de coopération appropriées;
 - i) examine et prend toutes autres mesures nécessaires à la poursuite des objectifs de la présente Convention en fonction des enseignements tirés de son application.
 
-<sup>5.</sup> L’Organisation des Nations Unies, ses institutions spécialisées et l’Agence internationale de l’énergie atomique, de même que tout Etat qui n’est pas Partie à la présente Convention, peuvent se faire représenter aux réunions de la Conférence des Parties en qualité d’observateurs. Tout organe ou organisme, gouvernemental ou non gouvernemental, qualifié dans les domaines se rapportant à la conservation et à l’utilisation durable de la diversité biologique qui a informé le Secrétariat de son désir de se faire représenter à une réunion de la Conférence des Parties en qualité d’observateur peut être admis à y prendre part à moins qu’un tiers au moins des Parties présentes n’y fassent objection. L’admission et la participation des observateurs sont subordonnées au respect du règlement intérieur adopté par la Conférence des Parties.
+<sup>5.</sup> L’Organisation des Nations Unies, ses institutions spécialisées et l’Agence internationale de l’énergie atomique, de même que tout État qui n’est pas Partie à la présente Convention, peuvent se faire représenter aux réunions de la Conférence des Parties en qualité d’observateurs. Tout organe ou organisme, gouvernemental ou non gouvernemental, qualifié dans les domaines se rapportant à la conservation et à l’utilisation durable de la diversité biologique qui a informé le Secrétariat de son désir de se faire représenter à une réunion de la Conférence des Parties en qualité d’observateur peut être admis à y prendre part à moins qu’un tiers au moins des Parties présentes n’y fassent objection. L’admission et la participation des observateurs sont subordonnées au respect du règlement intérieur adopté par la Conférence des Parties.
 
 #### Art. 24
 
 **Le Secrétariat**
 
-<sup>1.</sup> Il est institué par les présentes un secrétariat. Ses fonctions sont les suivantes
+<sup>1.</sup>
+
+Il est institué par les présentes un secrétariat. Ses fonctions sont les suivantes:
 
 - a) organiser les réunions de la Conférence des Parties prévues à l’art. 23 et en assurer le service;
 - b) s’acquitter des fonctions qui lui sont assignées en vertu de tout protocole à la présente Convention;
@@ -430,7 +426,7 @@ Selon une périodicité qui sera déterminée par la Conférence des Parties, ch
 
 <sup>3.</sup>
 
-Au moment de ratifier, d’accepter ou d’approuver la présente Convention ou d’y adhérer, et à tout moment par la suite, tout Etat ou organisation régionale d’intégration économique peut déclarer par écrit auprès du Dépositaire que, dans le cas d’un différend qui n’a pas été réglé conformément aux par. 1 ou 2 ci‑dessus, il ou elle accepte de considérer comme obligatoire l’un ou l’autre des modes de règlement ci‑après, ou les deux:
+Au moment de ratifier, d’accepter ou d’approuver la présente Convention ou d’y adhérer, et à tout moment par la suite, tout État ou organisation régionale d’intégration économique peut déclarer par écrit auprès du Dépositaire que, dans le cas d’un différend qui n’a pas été réglé conformément aux par. 1 ou 2 ci‑dessus, il ou elle accepte de considérer comme obligatoire l’un ou l’autre des modes de règlement ci‑après, ou les deux:
 
 - a) l’arbitrage, conformément à la procédure énoncée à la première partie de l’annexe II;
 - b) la soumission du différend à la Cour internationale de Justice.
@@ -487,13 +483,13 @@ Sauf disposition contraire d’un protocole concernant ses propres annexes, la p
 
 <sup>1.</sup> Sous réserve des dispositions du par. 2 ci‑dessous, chaque Partie à la présente Convention ou à tout protocole dispose d’une voix.
 
-<sup>2.</sup> Les organisations régionales d’intégration économique disposent, pour exercer leur droit de vote dans les domaines qui relèvent de leur compétence, d’un nombre de voix égal au nombre de leurs Etats membres qui sont Parties à la Convention ou au protocole considéré. Elles n’exercent pas leur droit de vote si leurs Etats membres exercent le leur, et inversement.
+<sup>2.</sup> Les organisations régionales d’intégration économique disposent, pour exercer leur droit de vote dans les domaines qui relèvent de leur compétence, d’un nombre de voix égal au nombre de leurs États membres qui sont Parties à la Convention ou au protocole considéré. Elles n’exercent pas leur droit de vote si leurs États membres exercent le leur, et inversement.
 
 #### Art. 32
 
 **Rapports entre la présente Convention et ses protocoles**
 
-<sup>1.</sup> Aucun Etat ni aucune organisation régionale d’intégration économique ne peut devenir Partie à un protocole sans être ou devenir simultanément Partie à la présente Convention.
+<sup>1.</sup> Aucun État ni aucune organisation régionale d’intégration économique ne peut devenir Partie à un protocole sans être ou devenir simultanément Partie à la présente Convention.
 
 <sup>2.</sup> Les décisions prises en vertu d’un protocole sont prises par les seules Parties au protocole considéré. Toute Partie contractante qui n’a pas ratifié, accepté ou approuvé un protocole peut participer, en qualité d’observateur, à toute réunion des Parties à ce protocole.
 
@@ -501,15 +497,15 @@ Sauf disposition contraire d’un protocole concernant ses propres annexes, la p
 
 **Signature**
 
-La présente Convention est ouverte à la signature de tous les Etats et organisations régionales d’intégration économique à Rio de Janeiro, du 5 au 14 juin 1992, et au Siège de l’Organisation des Nations Unies à New York, du 15 juin 1992 au 4 juin 1993.
+La présente Convention est ouverte à la signature de tous les États et organisations régionales d’intégration économique à Rio de Janeiro, du 5 au 14 juin 1992, et au Siège de l’Organisation des Nations Unies à New York, du 15 juin 1992 au 4 juin 1993.
 
 #### Art. 34
 
 **Ratification, acceptation, approbation**
 
-<sup>1.</sup> La présente Convention et ses protocoles sont soumis à la ratification, à l’acceptation ou à l’approbation des Etats et des organisations régionales d’intégration économique. Les instruments de ratification, d’acceptation ou d’approbation seront déposés auprès du Dépositaire.
+<sup>1.</sup> La présente Convention et ses protocoles sont soumis à la ratification, à l’acceptation ou à l’approbation des États et des organisations régionales d’intégration économique. Les instruments de ratification, d’acceptation ou d’approbation seront déposés auprès du Dépositaire.
 
-<sup>2.</sup> Toute organisation visée au par. 1 ci‑dessus qui devient Partie à la présente Convention ou à l’un quelconque de ses protocoles et dont aucun Etat membre n’est lui‑même Partie contractante, est liée par toutes les obligations énoncées dans la Convention ou dans le protocole considéré, selon le cas. Lorsqu’un ou plusieurs Etats membres d’une de ces organisations sont Parties à la Convention ou à un protocole, l’organisation et ses Etats membres conviennent de leurs responsabilités respectives en ce qui concerne l’exécution de leurs obligations en vertu de la Convention ou du protocole, selon le cas. En tel cas, l’organisation et ses Etats membres ne sont pas habilités à exercer concurremment leurs droits au titre de la Convention ou du protocole.
+<sup>2.</sup> Toute organisation visée au par. 1 ci‑dessus qui devient Partie à la présente Convention ou à l’un quelconque de ses protocoles et dont aucun État membre n’est lui‑même Partie contractante, est liée par toutes les obligations énoncées dans la Convention ou dans le protocole considéré, selon le cas. Lorsqu’un ou plusieurs États membres d’une de ces organisations sont Parties à la Convention ou à un protocole, l’organisation et ses États membres conviennent de leurs responsabilités respectives en ce qui concerne l’exécution de leurs obligations en vertu de la Convention ou du protocole, selon le cas. En tel cas, l’organisation et ses États membres ne sont pas habilités à exercer concurremment leurs droits au titre de la Convention ou du protocole.
 
 <sup>3.</sup> Dans leurs instruments de ratification, d’acceptation ou d’approbation, les organisations visées au par. 1 ci‑dessus indiquent l’étendue de leurs compétences dans les domaines régis par la Convention ou par le protocole considéré. Elles informent également le Dépositaire de toute modification pertinente de l’étendue de ces compétences.
 
@@ -517,7 +513,7 @@ La présente Convention est ouverte à la signature de tous les Etats et organis
 
 **Adhésion**
 
-<sup>1.</sup> La présente Convention et ses protocoles éventuels sont ouverts à l’adhésion des Etats et des organisations régionales d’intégration économique à partir de la date à laquelle la Convention ou le protocole considéré ne sont plus ouverts à la signature. Les instruments d’adhésion seront déposés auprès du Dépositaire.
+<sup>1.</sup> La présente Convention et ses protocoles éventuels sont ouverts à l’adhésion des États et des organisations régionales d’intégration économique à partir de la date à laquelle la Convention ou le protocole considéré ne sont plus ouverts à la signature. Les instruments d’adhésion seront déposés auprès du Dépositaire.
 
 <sup>2.</sup> Dans leurs instruments d’adhésion, les organisations visées au par. 1 ci‑dessus indiquent l’étendue de leurs compétences dans les domaines régis par la Convention ou par le protocole considéré. Elles informent également le Dépositaire de toute modification pertinente de l’étendue de ces compétences.
 
@@ -535,7 +531,7 @@ La présente Convention est ouverte à la signature de tous les Etats et organis
 
 <sup>4.</sup> A moins qu’il n’en dispose autrement, un protocole entre en vigueur pour une Partie contractante qui le ratifie, l’accepte, l’approuve ou y adhère après son entrée en vigueur conformément au par. 2 ci‑dessus, soit le quatre‑vingt-dixième jour après la date de dépôt par cette Partie contractante de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, soit au moment où la Convention entre en vigueur pour cette Partie, la dernière date étant retenue.
 
-<sup>5.</sup> Aux fins des par. 1 et 2 ci‑dessus, aucun des instruments déposés par une organisation régionale d’intégration économique n’est considéré comme un instrument venant s’ajouter aux instruments déjà déposés par les Etats membres de ladite organisation.
+<sup>5.</sup> Aux fins des par. 1 et 2 ci‑dessus, aucun des instruments déposés par une organisation régionale d’intégration économique n’est considéré comme un instrument venant s’ajouter aux instruments déjà déposés par les États membres de ladite organisation.
 
 #### Art. 37
 
@@ -583,7 +579,7 @@ Annexe I
 
 ## Identification et surveillance
 
-\1. Ecosystèmes et habitats: comportant une forte diversité, de nombreuses espèces endémiques ou menacées, ou des étendues sauvages; nécessaires pour les espèces migratrices; ayant une importance sociale, économique, culturelle ou scientifique; ou qui sont représentatifs, uniques ou associés à des processus d’évolution ou d’autres processus biologiques essentiels;
+\1. Écosystèmes et habitats: comportant une forte diversité, de nombreuses espèces endémiques ou menacées, ou des étendues sauvages; nécessaires pour les espèces migratrices; ayant une importance sociale, économique, culturelle ou scientifique; ou qui sont représentatifs, uniques ou associés à des processus d’évolution ou d’autres processus biologiques essentiels;
 
 \2. Espèces et communautés qui sont: menacées; des espèces sauvages apparentées à des espèces domestiques ou cultivées; d’intérêt médicinal, agricole ou économique; d’importance sociale, scientifique ou culturelle; ou d’un intérêt pour la recherche sur la conservation et l’utilisation durable de la diversité biologique, telles que les espèces témoins;
 
@@ -696,10 +692,10 @@ La Commission de conciliation prend ses décisions à la majorité des voix de s
 
 En cas de désaccord au sujet de la compétence de la Commission de conciliation, celle‑ci décide si elle est ou non compétente.
 
-Champ d’application le 4 janvier 2017**[^t-2]**
+Champ d’application le 19 octobre 2021[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>19 septembre</td><td>2002</td><td>18 décembre</td><td>2002</td></tr>
 <tr><td>Afrique du Sud</td><td>2 novembre</td><td>1995</td><td>31 janvier</td><td>1996</td></tr>
 <tr><td>Albanie</td><td>5 janvier</td><td>1994 A</td><td>5 avril</td><td>1994</td></tr>
@@ -753,14 +749,15 @@ Champ d’application le 4 janvier 2017**[^t-2]**
 <tr><td>Danemark</td><td>21 décembre</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Djibouti</td><td>1<sup>er</sup> septembre</td><td>1994</td><td>30 novembre</td><td>1994</td></tr>
 <tr><td>Dominique</td><td>6 avril</td><td>1994 A</td><td>5 juillet</td><td>1994</td></tr>
-<tr><td>Egypte</td><td>2 juin</td><td>1994</td><td>31 août</td><td>1994</td></tr>
+<tr><td>Égypte</td><td>2 juin</td><td>1994</td><td>31 août</td><td>1994</td></tr>
 <tr><td>El Salvador</td><td>8 septembre</td><td>1994</td><td>7 décembre</td><td>1994</td></tr>
-<tr><td>Emirats arabes unis</td><td>10 février</td><td>2000</td><td>10 mai</td><td>2000</td></tr>
-<tr><td>Equateur</td><td>23 février</td><td>1993</td><td>29 décembre</td><td>1993</td></tr>
-<tr><td>Erythrée</td><td>21 mars</td><td>1996 A</td><td>19 juin</td><td>1996</td></tr>
+<tr><td>Émirats arabes unis</td><td>10 février</td><td>2000</td><td>10 mai</td><td>2000</td></tr>
+<tr><td>Équateur</td><td>23 février</td><td>1993</td><td>29 décembre</td><td>1993</td></tr>
+<tr><td>Érythrée</td><td>21 mars</td><td>1996 A</td><td>19 juin</td><td>1996</td></tr>
 <tr><td>Espagne</td><td>21 décembre</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Estonie</td><td>27 juillet</td><td>1994</td><td>25 octobre</td><td>1994</td></tr>
-<tr><td>Ethiopie</td><td>5 avril</td><td>1994</td><td>4 juillet</td><td>1994</td></tr>
+<tr><td>Eswatini</td><td>9 novembre</td><td>1994</td><td>7 février</td><td>1995</td></tr>
+<tr><td>Éthiopie</td><td>5 avril</td><td>1994</td><td>4 juillet</td><td>1994</td></tr>
 <tr><td>Fidji</td><td>25 février</td><td>1993</td><td>29 décembre</td><td>1993</td></tr>
 <tr><td>Finlande</td><td>27 juillet</td><td>1994</td><td>25 octobre</td><td>1994</td></tr>
 <tr><td>France<sup>\*</sup></td><td>1<sup>er</sup> juillet</td><td>1994</td><td>29 septembre</td><td>1994</td></tr>
@@ -778,8 +775,8 @@ Champ d’application le 4 janvier 2017**[^t-2]**
 <tr><td>Haïti</td><td>25 septembre</td><td>1996</td><td>24 décembre</td><td>1996</td></tr>
 <tr><td>Honduras</td><td>31 juillet</td><td>1995</td><td>29 octobre</td><td>1995</td></tr>
 <tr><td>Hongrie</td><td>24 février</td><td>1994</td><td>25 mai</td><td>1994</td></tr>
-<tr><td>Iles Cook</td><td>20 avril</td><td>1993</td><td>29 décembre</td><td>1993</td></tr>
-<tr><td>Iles Marshall</td><td>8 octobre</td><td>1992</td><td>29 décembre</td><td>1993</td></tr>
+<tr><td>Îles Cook</td><td>20 avril</td><td>1993</td><td>29 décembre</td><td>1993</td></tr>
+<tr><td>Îles Marshall</td><td>8 octobre</td><td>1992</td><td>29 décembre</td><td>1993</td></tr>
 <tr><td>Inde</td><td>18 février</td><td>1994</td><td>19 mai</td><td>1994</td></tr>
 <tr><td>Indonésie</td><td>23 août</td><td>1994</td><td>21 novembre</td><td>1994</td></tr>
 <tr><td>Iran</td><td>6 août</td><td>1996</td><td>4 novembre</td><td>1996</td></tr>
@@ -805,7 +802,7 @@ Champ d’application le 4 janvier 2017**[^t-2]**
 <tr><td>Liechtenstein<sup>\*</sup></td><td>19 novembre</td><td>1997</td><td>17 février</td><td>1998</td></tr>
 <tr><td>Lituanie</td><td>1<sup>er</sup> février</td><td>1996</td><td>1<sup>er</sup> mai</td><td>1996</td></tr>
 <tr><td>Luxembourg</td><td>9 mai</td><td>1994</td><td>7 août</td><td>1994</td></tr>
-<tr><td>Macédoine</td><td>2 décembre</td><td>1997 A</td><td>2 mars</td><td>1998</td></tr>
+<tr><td>Macédoine du Nord</td><td>2 décembre</td><td>1997 A</td><td>2 mars</td><td>1998</td></tr>
 <tr><td>Madagascar</td><td>4 mars</td><td>1996</td><td>2 juin</td><td>1996</td></tr>
 <tr><td>Malaisie</td><td>24 juin</td><td>1994</td><td>22 septembre</td><td>1994</td></tr>
 <tr><td>Malawi</td><td>2 février</td><td>1994</td><td>3 mai</td><td>1994</td></tr>
@@ -856,12 +853,12 @@ Champ d’application le 4 janvier 2017**[^t-2]**
 <tr><td>République tchèque</td><td>3 décembre</td><td>1993</td><td>3 mars</td><td>1994</td></tr>
 <tr><td>Roumanie</td><td>17 août</td><td>1994</td><td>15 novembre</td><td>1994</td></tr>
 <tr><td>Royaume-Uni<sup>\*</sup></td><td>3 juin</td><td>1994</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
-<tr><td>Géorgie du Sud et Iles Sandwich du Sud</td><td>27 mars</td><td>2015</td><td>27 mars</td><td>2015</td></tr>
+<tr><td>Géorgie du Sud et Îles Sandwich du Sud</td><td>27 mars</td><td>2015</td><td>27 mars</td><td>2015</td></tr>
 <tr><td>Gibraltar</td><td>3 juin</td><td>1994</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
-<tr><td>Iles Cayman</td><td>3 juin</td><td>1994</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
-<tr><td>Iles Falkland</td><td>29 juin</td><td>2016</td><td>29 juin</td><td>2016</td></tr>
-<tr><td>Ile de Man</td><td>8 mai</td><td>2012</td><td>8 août</td><td>2012</td></tr>
-<tr><td>Iles Vierges britanniques</td><td>3 juin</td><td>1994</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
+<tr><td>Îles Cayman</td><td>3 juin</td><td>1994</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
+<tr><td>Îles Falkland</td><td>29 juin</td><td>2016</td><td>29 juin</td><td>2016</td></tr>
+<tr><td>Île de Man</td><td>8 mai</td><td>2012</td><td>8 août</td><td>2012</td></tr>
+<tr><td>Îles Vierges britanniques</td><td>3 juin</td><td>1994</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
 <tr><td>Jersey</td><td>3 juin</td><td>1994</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>3 juin</td><td>1994</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
 <tr><td>Russie</td><td>5 avril</td><td>1995</td><td>4 juillet</td><td>1995</td></tr>
@@ -870,7 +867,7 @@ Champ d’application le 4 janvier 2017**[^t-2]**
 <tr><td>Saint-Kitts-et-Nevis</td><td>7 janvier</td><td>1993</td><td>29 décembre</td><td>1993</td></tr>
 <tr><td>Saint-Marin</td><td>28 octobre</td><td>1994</td><td>26 janvier</td><td>1995</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>3 juin</td><td>1996 A</td><td>1<sup>er</sup> septembre</td><td>1996</td></tr>
-<tr><td>Salomon, Iles</td><td>3 octobre</td><td>1995</td><td>1<sup>er</sup> janvier</td><td>1996</td></tr>
+<tr><td>Salomon, Îles</td><td>3 octobre</td><td>1995</td><td>1<sup>er</sup> janvier</td><td>1996</td></tr>
 <tr><td>Samoa</td><td>9 février</td><td>1994</td><td>10 mai</td><td>1994</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>29 septembre</td><td>1999</td><td>28 décembre</td><td>1999</td></tr>
 <tr><td>Sénégal</td><td>17 octobre</td><td>1994</td><td>15 janvier</td><td>1995</td></tr>
@@ -887,7 +884,6 @@ Champ d’application le 4 janvier 2017**[^t-2]**
 <tr><td>Suède</td><td>16 décembre</td><td>1993</td><td>16 mars</td><td>1994</td></tr>
 <tr><td>Suisse<sup>\*</sup></td><td>21 novembre</td><td>1994</td><td>19 février</td><td>1995</td></tr>
 <tr><td>Suriname</td><td>12 janvier</td><td>1996</td><td>11 avril</td><td>1996</td></tr>
-<tr><td>Swaziland</td><td>9 novembre</td><td>1994</td><td>7 février</td><td>1995</td></tr>
 <tr><td>Syrie</td><td>4 janvier</td><td>1996</td><td>3 avril</td><td>1996</td></tr>
 <tr><td>Tadjikistan</td><td>29 octobre</td><td>1997 A</td><td>27 janvier</td><td>1998</td></tr>
 <tr><td>Thaïlande</td><td>31 octobre</td><td>2003</td><td>29 janvier</td><td>2004</td></tr>
@@ -902,7 +898,7 @@ Champ d’application le 4 janvier 2017**[^t-2]**
 <tr><td>Turquie</td><td>14 février</td><td>1997</td><td>15 mai</td><td>1997</td></tr>
 <tr><td>Tuvalu</td><td>20 décembre</td><td>2002</td><td>20 mars</td><td>2003</td></tr>
 <tr><td>Ukraine</td><td>7 février</td><td>1995</td><td>8 mai</td><td>1995</td></tr>
-<tr><td>Union européenne<sup>\*</sup></td><td>21 décembre</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
+<tr><td>Union européenne (UE)<sup>\*</sup></td><td>21 décembre</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Uruguay</td><td>5 novembre</td><td>1993</td><td>29 novembre</td><td>1993</td></tr>
 <tr><td>Vanuatu</td><td>25 mars</td><td>1993</td><td>29 décembre</td><td>1993</td></tr>
 <tr><td>Venezuela</td><td>13 septembre</td><td>1994</td><td>12 décembre</td><td>1994</td></tr>
@@ -910,10 +906,10 @@ Champ d’application le 4 janvier 2017**[^t-2]**
 <tr><td>Yémen</td><td>21 février</td><td>1996</td><td>21 mai</td><td>1996</td></tr>
 <tr><td>Zambie</td><td>28 mai</td><td>1993</td><td>29 décembre</td><td>1993</td></tr>
 <tr><td>Zimbabwe</td><td>11 novembre</td><td>1994</td><td>9 février</td><td>1995</td></tr>
-<tr><td colspan="5">[tab] <sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">[tab] <sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: RO **1995** 1435, [2003 3787](https://fedlex.data.admin.ch/eli/oc/2003/545), [2007 1399](https://fedlex.data.admin.ch/eli/oc/2007/243), [2011 4885](https://fedlex.data.admin.ch/eli/oc/2011/695), [2015 757](https://fedlex.data.admin.ch/eli/oc/2015/133), [2017 117](https://fedlex.data.admin.ch/eli/oc/2017/33). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1995 1408](https://fedlex.data.admin.ch/eli/oc/1995/1408_1408_1408); [2003 3787](https://fedlex.data.admin.ch/eli/oc/2003/545); [2007 1399](https://fedlex.data.admin.ch/eli/oc/2007/243); [2011 4885](https://fedlex.data.admin.ch/eli/oc/2011/695); [2015 757](https://fedlex.data.admin.ch/eli/oc/2015/133); [2017 117](https://fedlex.data.admin.ch/eli/oc/2017/33); [2021 625](https://fedlex.data.admin.ch/eli/oc/2021/625). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
 
 Déclarations
 
@@ -925,4 +921,4 @@ Pour la Suisse, le transfert de technologie et l’accès à la biotechnologie, 
 
 La Suisse encourage le recours au mécanisme financier établi par la convention pour promouvoir le transfert volontaire des droits de propriété intellectuelle détenus par les opérateurs suisses, notamment en ce qui concerne l’octroi de licences, par des décisions et des mécanismes commerciaux classiques, tout en assurant une protection appropriée et efficace des droits de propriété.
 
-[^t-3]: Art. 1 al. 2 de l’AF du 28 sept. 1994 ([RO 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407))
+[^t-3]: Art. 1 al. 2 de l’AF du 28 sept. 1994 ([RO 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407)).

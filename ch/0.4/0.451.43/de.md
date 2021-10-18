@@ -3,11 +3,11 @@ sr: "0.451.43"
 title: Übereinkommen vom 5. Juni 1992 über die Biologische Vielfalt (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408"
 language: de
-version: 2017-01-04
+version: 2021-10-19
 adopted: 1992-06-05
 in_force: 1995-02-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408/20170104/de/xml/fedlex-data-admin-ch-eli-cc-1995-1408_1408_1408-20170104-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1408_1408_1408/20170104/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408/20211019/de/xml/fedlex-data-admin-ch-eli-cc-1995-1408_1408_1408-20211019-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1408_1408_1408/20211019/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1408_1408_1408/20170104/de"
 
 AS **1995** 1408; BBl **1994** III 182
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Rio de Janeiro am 5. Juni 1992 Von der Bundesversammlung genehmigt am 28. September 1994[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 21. November 1994 In Kraft getreten für die Schweiz am 19. Februar 1995
+Abgeschlossen in Rio de Janeiro am 5. Juni 1992 Von der Bundesversammlung genehmigt am 28. September 1994[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 21. November 1994 In Kraft getreten für die Schweiz am 19. Februar 1995
 
-(Stand am 4. Januar 2017)
+(Stand am 19. Oktober 2021)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Art. 1 Abs. 1 des BB vom 28. Sept. 1994 ([AS 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407))
+[^t-1]: Art. 1 Abs. 1 des BB vom 28. Sept. 1994 ([AS 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407)).
 
 *Präambel*
 
@@ -689,228 +688,228 @@ Die Vergleichskommission entscheidet mit der Mehrheit ihrer Mitglieder. Sofern d
 
 Bei Uneinigkeit darüber, ob die Vergleichskommission zuständig ist, entscheidet die Kommission.
 
-Geltungsbereich am 4. Januar 2017**[^t-3]**
+Geltungsbereich am 19. Oktober 2021[^t-2]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Afghanistan</td><td>19. September</td><td>2002</td><td>18. Dezember</td><td>2002</td></tr>
-<tr><td colspan="2">Ägypten</td><td>2. Juni</td><td>1994</td><td>31. August</td><td>1994</td></tr>
-<tr><td colspan="2">Albanien</td><td>5. Januar</td><td>1994 B</td><td>5. April</td><td>1994</td></tr>
-<tr><td colspan="2">Algerien</td><td>14. August</td><td>1995</td><td>12. November</td><td>1995</td></tr>
-<tr><td colspan="2">Andorra</td><td>4. Februar</td><td>2015 B</td><td>5. Mai</td><td>2015</td></tr>
-<tr><td colspan="2">Angola</td><td>1. April</td><td>1998</td><td>30. Juni</td><td>1998</td></tr>
-<tr><td colspan="2">Antigua und Barbuda</td><td>9. März</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Äquatorialguinea</td><td>6. Dezember</td><td>1994 B</td><td>6. März</td><td>1995</td></tr>
-<tr><td colspan="2">Argentinien\*</td><td>22. November</td><td>1994</td><td>20. Februar</td><td>1995</td></tr>
-<tr><td colspan="2">Armenien</td><td>14. Mai</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Aserbaidschan</td><td>3. August</td><td>2000</td><td>1. November</td><td>2000</td></tr>
-<tr><td colspan="2">Äthiopien</td><td>5. April</td><td>1994</td><td>4. Juli</td><td>1994</td></tr>
-<tr><td colspan="2">Australien</td><td>18. Juni</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Bahamas</td><td>2. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Bahrain</td><td>30. August</td><td>1996</td><td>28. November</td><td>1996</td></tr>
-<tr><td colspan="2">Bangladesch</td><td>3. Mai</td><td>1994</td><td>1. August</td><td>1994</td></tr>
-<tr><td colspan="2">Barbados</td><td>10. Dezember</td><td>1993</td><td>10. März</td><td>1994</td></tr>
-<tr><td colspan="2">Belarus</td><td>8. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Belgien</td><td>22. November</td><td>1996</td><td>20. Februar</td><td>1997</td></tr>
-<tr><td colspan="2">Belize</td><td>30. Dezember</td><td>1993</td><td>30. März</td><td>1994</td></tr>
-<tr><td colspan="2">Benin</td><td>30. Juni</td><td>1994</td><td>28. September</td><td>1994</td></tr>
-<tr><td colspan="2">Bhutan</td><td>25. August</td><td>1995</td><td>23. November</td><td>1995</td></tr>
-<tr><td colspan="2">Bolivien</td><td>3. Oktober</td><td>1994</td><td>1. Januar</td><td>1995</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>26. August</td><td>2002 B</td><td>24. November</td><td>2002</td></tr>
-<tr><td colspan="2">Botsuana</td><td>12. Oktober</td><td>1995</td><td>10. Januar</td><td>1996</td></tr>
-<tr><td colspan="2">Brasilien</td><td>28. Februar</td><td>1994</td><td>29. Mai</td><td>1994</td></tr>
-<tr><td colspan="2">Brunei</td><td>28. April</td><td>2008 B</td><td>27. Juli</td><td>2008</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>17. April</td><td>1996</td><td>16. Juli</td><td>1996</td></tr>
-<tr><td colspan="2">Burkina Faso</td><td>2. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Burundi</td><td>15. April</td><td>1997</td><td>14. Juli</td><td>1997</td></tr>
-<tr><td colspan="2">Chile\*</td><td>9. September</td><td>1994</td><td>8. Dezember</td><td>1994</td></tr>
-<tr><td colspan="2">China</td><td>5. Januar</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Hongkong</td><td>9. Mai</td><td>2011</td><td>9. Mai</td><td>2011</td></tr>
-<tr><td colspan="2">Macau</td><td>15. Dezember</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
-<tr><td colspan="2">Cook-Inseln</td><td>20. April</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Costa Rica</td><td>26. August</td><td>1994</td><td>24. November</td><td>1994</td></tr>
-<tr><td colspan="2">Côte d’Ivoire</td><td>29. November</td><td>1994</td><td>27. Februar</td><td>1995</td></tr>
-<tr><td colspan="2">Dänemark</td><td>21. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
-<tr><td colspan="2">Deutschland</td><td>21. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
-<tr><td colspan="2">Dominica</td><td>6. April</td><td>1994 B</td><td>5. Juli</td><td>1994</td></tr>
-<tr><td colspan="2">Dominikanische Republik</td><td>25. November</td><td>1996</td><td>23. Februar</td><td>1997</td></tr>
-<tr><td colspan="2">Dschibuti</td><td>1. September</td><td>1994</td><td>30. November</td><td>1994</td></tr>
-<tr><td colspan="2">Ecuador</td><td>23. Februar</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">El Salvador</td><td>8. September</td><td>1994</td><td>7. Dezember</td><td>1994</td></tr>
-<tr><td colspan="2">Eritrea</td><td>21. März</td><td>1996 B</td><td>19. Juni</td><td>1996</td></tr>
-<tr><td colspan="2">Estland</td><td>27. Juli</td><td>1994</td><td>25. Oktober</td><td>1994</td></tr>
-<tr><td colspan="2">[tab] Europäische Union\*</td><td>21. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
-<tr><td colspan="2">Fidschi</td><td>25. Februar</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Finnland</td><td>27. Juli</td><td>1994</td><td>25. Oktober</td><td>1994</td></tr>
-<tr><td colspan="2">Frankreich\*</td><td>1. Juli</td><td>1994</td><td>29. September</td><td>1994</td></tr>
-<tr><td colspan="2">Gabun</td><td>14. März</td><td>1997</td><td>12. Juni</td><td>1997</td></tr>
-<tr><td colspan="2">Gambia</td><td>10. Juni</td><td>1994</td><td>8. September</td><td>1994</td></tr>
-<tr><td colspan="2">Georgien\*</td><td>2. Juni</td><td>1994 B</td><td>31. August</td><td>1994</td></tr>
-<tr><td colspan="2">Ghana</td><td>29. August</td><td>1994</td><td>27. November</td><td>1994</td></tr>
-<tr><td colspan="2">Grenada</td><td>11. August</td><td>1994</td><td>9. November</td><td>1994</td></tr>
-<tr><td colspan="2">Griechenland</td><td>4. August</td><td>1994</td><td>2. November</td><td>1994</td></tr>
-<tr><td colspan="2">Guatemala</td><td>10. Juli</td><td>1995</td><td>8. Oktober</td><td>1995</td></tr>
-<tr><td colspan="2">Guinea</td><td>7. Mai</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Guinea-Bissau</td><td>27. Oktober</td><td>1995</td><td>25. Januar</td><td>1996</td></tr>
-<tr><td colspan="2">Guyana</td><td>29. August</td><td>1994</td><td>27. November</td><td>1994</td></tr>
-<tr><td colspan="2">Haiti</td><td>25. September</td><td>1996</td><td>24. Dezember</td><td>1996</td></tr>
-<tr><td colspan="2">Honduras</td><td>31. Juli</td><td>1995</td><td>29. Oktober</td><td>1995</td></tr>
-<tr><td colspan="2">Indien</td><td>18. Februar</td><td>1994</td><td>19. Mai</td><td>1994</td></tr>
-<tr><td colspan="2">Indonesien</td><td>23. August</td><td>1994</td><td>21. November</td><td>1994</td></tr>
-<tr><td colspan="2">Irak</td><td>28. Juli</td><td>2009 B</td><td>26. Oktober</td><td>2009</td></tr>
-<tr><td colspan="2">Iran</td><td>6. August</td><td>1996</td><td>4. November</td><td>1996</td></tr>
-<tr><td colspan="2">Irland\*</td><td>22. März</td><td>1996</td><td>20. Juni</td><td>1996</td></tr>
-<tr><td colspan="2">Island</td><td>12. September</td><td>1994</td><td>11. Dezember</td><td>1994</td></tr>
-<tr><td colspan="2">Israel\*</td><td>7. August</td><td>1995</td><td>5. November</td><td>1995</td></tr>
-<tr><td colspan="2">Italien\*</td><td>15. April</td><td>1994</td><td>14. Juli</td><td>1994</td></tr>
-<tr><td colspan="2">Jamaika</td><td>6. Januar</td><td>1995</td><td>6. April</td><td>1995</td></tr>
-<tr><td colspan="2">Japan</td><td>28. Mai</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Jemen</td><td>21. Februar</td><td>1996</td><td>21. Mai</td><td>1996</td></tr>
-<tr><td colspan="2">Jordanien</td><td>12. November</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Kambodscha</td><td>9. Februar</td><td>1995 B</td><td>10. Mai</td><td>1995</td></tr>
-<tr><td colspan="2">Kamerun</td><td>19. Oktober</td><td>1994</td><td>17. Januar</td><td>1995</td></tr>
-<tr><td colspan="2">Kanada\*</td><td>4. Dezember</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Kap Verde</td><td>29. März</td><td>1995</td><td>27. Juni</td><td>1995</td></tr>
-<tr><td colspan="2">Kasachstan</td><td>6. September</td><td>1994</td><td>5. Dezember</td><td>1994</td></tr>
-<tr><td colspan="2">Katar</td><td>21. August</td><td>1996</td><td>19. November</td><td>1996</td></tr>
-<tr><td colspan="2">Kenia</td><td>26. Juli</td><td>1994</td><td>24. Oktober</td><td>1994</td></tr>
-<tr><td colspan="2">Kirgisistan</td><td>6. August</td><td>1996 B</td><td>4. November</td><td>1996</td></tr>
-<tr><td colspan="2">Kiribati</td><td>16. August</td><td>1994 B</td><td>14. November</td><td>1994</td></tr>
-<tr><td colspan="2">Kolumbien</td><td>28. November</td><td>1994</td><td>26. Februar</td><td>1995</td></tr>
-<tr><td colspan="2">Komoren</td><td>29. September</td><td>1994</td><td>28. Dezember</td><td>1994</td></tr>
-<tr><td colspan="2">Kongo (Brazzaville)</td><td>1. August</td><td>1996</td><td>30. Oktober</td><td>1996</td></tr>
-<tr><td colspan="2">Kongo (Kinshasa)</td><td>3. Dezember</td><td>1994</td><td>3. März</td><td>1995</td></tr>
-<tr><td colspan="2">Korea (Nord-)</td><td>26. Oktober</td><td>1994</td><td>24. Januar</td><td>1995</td></tr>
-<tr><td colspan="2">Korea (Süd-)</td><td>3. Oktober</td><td>1994</td><td>1. Januar</td><td>1995</td></tr>
-<tr><td colspan="2">Kroatien</td><td>7. Oktober</td><td>1996</td><td>5. Januar</td><td>1997</td></tr>
-<tr><td colspan="2">Kuba\*</td><td>8. März</td><td>1994</td><td>6. Juni</td><td>1994</td></tr>
-<tr><td colspan="2">Kuwait</td><td>2. August</td><td>2002</td><td>31. Oktober</td><td>2002</td></tr>
-<tr><td colspan="2">Laos</td><td>20. September</td><td>1996 B</td><td>19. Dezember</td><td>1996</td></tr>
-<tr><td colspan="2">Lesotho</td><td>10. Januar</td><td>1995</td><td>10. April</td><td>1995</td></tr>
-<tr><td colspan="2">Lettland\*</td><td>14. Dezember</td><td>1995</td><td>13. März</td><td>1996</td></tr>
-<tr><td colspan="2">Libanon</td><td>15. Dezember</td><td>1994</td><td>15. März</td><td>1995</td></tr>
-<tr><td colspan="2">Liberia</td><td>8. November</td><td>2000</td><td>6. Februar</td><td>2001</td></tr>
-<tr><td colspan="2">Libyen</td><td>12. Juli</td><td>2001</td><td>10. Oktober</td><td>2001</td></tr>
-<tr><td colspan="2">Liechtenstein\*</td><td>19. November</td><td>1997</td><td>17. Februar</td><td>1998</td></tr>
-<tr><td colspan="2">Litauen</td><td>1. Februar</td><td>1996</td><td>1. Mai</td><td>1996</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>9. Mai</td><td>1994</td><td>7. August</td><td>1994</td></tr>
-<tr><td colspan="2">Madagaskar</td><td>4. März</td><td>1996</td><td>2. Juni</td><td>1996</td></tr>
-<tr><td colspan="2">Malawi</td><td>2. Februar</td><td>1994</td><td>3. Mai</td><td>1994</td></tr>
-<tr><td colspan="2">Malaysia</td><td>24. Juni</td><td>1994</td><td>22. September</td><td>1994</td></tr>
-<tr><td colspan="2">Malediven</td><td>9. November</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Mali</td><td>29. März</td><td>1995</td><td>27. Juni</td><td>1995</td></tr>
-<tr><td colspan="2">Malta</td><td>29. Dezember</td><td>2000</td><td>29. März</td><td>2001</td></tr>
-<tr><td colspan="2">Marokko</td><td>21. August</td><td>1995</td><td>19. November</td><td>1995</td></tr>
-<tr><td colspan="2">Marshallinseln</td><td>8. Oktober</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Mauretanien</td><td>16. August</td><td>1996</td><td>14. November</td><td>1996</td></tr>
-<tr><td colspan="2">Mauritius</td><td>4. September</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Mazedonien</td><td>2. Dezember</td><td>1997 B</td><td>2. März</td><td>1998</td></tr>
-<tr><td colspan="2">Mexiko</td><td>11. März</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Mikronesien</td><td>20. Juni</td><td>1994</td><td>18. September</td><td>1994</td></tr>
-<tr><td colspan="2">Moldau</td><td>20. Oktober</td><td>1995</td><td>28. Januar</td><td>1996</td></tr>
-<tr><td colspan="2">Monaco</td><td>20. November</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Mongolei</td><td>30. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
-<tr><td colspan="2">Mosambik</td><td>25. August</td><td>1995</td><td>23. November</td><td>1995</td></tr>
-<tr><td colspan="2">Myanmar</td><td>25. November</td><td>1994</td><td>23. Februar</td><td>1995</td></tr>
-<tr><td colspan="2">Namibia</td><td>16. Mai</td><td>1997</td><td>14. August</td><td>1997</td></tr>
-<tr><td colspan="2">Nauru</td><td>11. November</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Nepal</td><td>23. November</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Neuseeland</td><td>16. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Nicaragua</td><td>20. November</td><td>1995</td><td>18. Februar</td><td>1996</td></tr>
-<tr><td colspan="2">Niederlande<sup>\*</sup></td><td>12. Juli</td><td>1994</td><td>10. Oktober</td><td>1994</td></tr>
-<tr><td colspan="2">Aruba</td><td>4. Juni</td><td>1999</td><td>4. Juni</td><td>1999</td></tr>
-<tr><td colspan="2">Curaçao</td><td>4. Juni</td><td>1999</td><td>4. Juni</td><td>1999</td></tr>
-<tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>4. Juni</td><td>1999</td><td>4. Juni</td><td>1999</td></tr>
-<tr><td colspan="2">Sint Maarten</td><td>4. Juni</td><td>1999</td><td>4. Juni</td><td>1999</td></tr>
-<tr><td colspan="2">Niger</td><td>25. Juli</td><td>1995</td><td>23. Oktober</td><td>1995</td></tr>
-<tr><td colspan="2">Nigeria</td><td>29. August</td><td>1994</td><td>27. November</td><td>1994</td></tr>
-<tr><td colspan="2">Niue</td><td>28. Februar</td><td>1996 B</td><td>27. Mai</td><td>1996</td></tr>
-<tr><td colspan="2">Norwegen</td><td>9. Juli</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Oman</td><td>8. Februar</td><td>1995</td><td>9. Mai</td><td>1995</td></tr>
-<tr><td colspan="2">Österreich\*</td><td>18. August</td><td>1994</td><td>16. November</td><td>1994</td></tr>
-<tr><td colspan="2">Pakistan</td><td>26. Juli</td><td>1994</td><td>24. Oktober</td><td>1994</td></tr>
-<tr><td colspan="2">Palästina</td><td>2. Januar</td><td>2015 B</td><td>2. April</td><td>2015</td></tr>
-<tr><td colspan="2">Palau</td><td>6. Januar</td><td>1999 B</td><td>6. April</td><td>1999</td></tr>
-<tr><td colspan="2">Panama</td><td>17. Januar</td><td>1995</td><td>17. April</td><td>1995</td></tr>
-<tr><td colspan="2">Papua-Neuguinea\*</td><td>16. März</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Paraguay</td><td>24. Februar</td><td>1994</td><td>25. Mai</td><td>1994</td></tr>
-<tr><td colspan="2">Peru</td><td>7. Juni</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Philippinen</td><td>8. Oktober</td><td>1993</td><td>6. Januar</td><td>1994</td></tr>
-<tr><td colspan="2">Polen</td><td>18. Januar</td><td>1996</td><td>17. April</td><td>1996</td></tr>
-<tr><td colspan="2">Portugal\*</td><td>21. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
-<tr><td colspan="2">Ruanda</td><td>29. Mai</td><td>1996</td><td>27. August</td><td>1996</td></tr>
-<tr><td colspan="2">Rumänien</td><td>17. August</td><td>1994</td><td>15. November</td><td>1994</td></tr>
-<tr><td colspan="2">Russland</td><td>5. April</td><td>1995</td><td>4. Juli</td><td>1995</td></tr>
-<tr><td colspan="2">Salomoninseln</td><td>3. Oktober</td><td>1995</td><td>1. Januar</td><td>1996</td></tr>
-<tr><td colspan="2">Sambia</td><td>28. Mai</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Samoa</td><td>9. Februar</td><td>1994</td><td>10. Mai</td><td>1994</td></tr>
-<tr><td colspan="2">San Marino</td><td>28. Oktober</td><td>1994</td><td>26. Januar</td><td>1995</td></tr>
-<tr><td colspan="2">São Tomé und Príncipe</td><td>29. September</td><td>1999</td><td>28. Dezember</td><td>1999</td></tr>
-<tr><td colspan="2">Saudi-Arabien</td><td>3. Oktober</td><td>2001 B</td><td>1. Januar</td><td>2002</td></tr>
-<tr><td colspan="2">Schweden</td><td>16. Dezember</td><td>1993</td><td>16. März</td><td>1994</td></tr>
-<tr><td colspan="2">Schweiz\*</td><td>21. November</td><td>1994</td><td>19. Februar</td><td>1995</td></tr>
-<tr><td colspan="2">Senegal</td><td>17. Oktober</td><td>1994</td><td>15. Januar</td><td>1995</td></tr>
-<tr><td colspan="2">Serbien</td><td>1. März</td><td>2002</td><td>30. Mai</td><td>2002</td></tr>
-<tr><td colspan="2">Seychellen</td><td>22. September</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Sierra Leone</td><td>12. Dezember</td><td>1994 B</td><td>12. März</td><td>1995</td></tr>
-<tr><td colspan="2">Simbabwe</td><td>11. November</td><td>1994</td><td>9. Februar</td><td>1995</td></tr>
-<tr><td colspan="2">Singapur</td><td>21. Dezember</td><td>1995</td><td>20. März</td><td>1996</td></tr>
-<tr><td colspan="2">Slowakei</td><td>25. August</td><td>1994</td><td>23. November</td><td>1994</td></tr>
-<tr><td colspan="2">Slowenien</td><td>9. Juli</td><td>1996</td><td>7. Oktober</td><td>1996</td></tr>
-<tr><td colspan="2">Somalia</td><td>11. September</td><td>2009 B</td><td>10. Dezember</td><td>2009</td></tr>
-<tr><td colspan="2">Spanien</td><td>21. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
-<tr><td colspan="2">Sri Lanka</td><td>23. März</td><td>1994</td><td>21. Juni</td><td>1994</td></tr>
-<tr><td colspan="2">St. Kitts und Nevis</td><td>7. Januar</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">St. Lucia</td><td>28. Juli</td><td>1993 B</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">St. Vincent und die Grenadinen</td><td>3. Juni</td><td>1996 B</td><td>1. September</td><td>1996</td></tr>
-<tr><td colspan="2">Südafrika</td><td>2. November</td><td>1995</td><td>31. Januar</td><td>1996</td></tr>
-<tr><td colspan="2">Sudan\*</td><td>30. Oktober</td><td>1995</td><td>28. Januar</td><td>1996</td></tr>
-<tr><td colspan="2">Südsudan</td><td>17. Februar</td><td>2014 B</td><td>18. Mai</td><td>2014</td></tr>
-<tr><td colspan="2">Suriname</td><td>12. Januar</td><td>1996</td><td>11. April</td><td>1996</td></tr>
-<tr><td colspan="2">Swasiland</td><td>9. November</td><td>1994</td><td>7. Februar</td><td>1995</td></tr>
-<tr><td colspan="2">Syrien</td><td>4. Januar</td><td>1996</td><td>3. April</td><td>1996</td></tr>
-<tr><td colspan="2">Tadschikistan</td><td>29. Oktober</td><td>1997 B</td><td>27. Januar</td><td>1998</td></tr>
-<tr><td colspan="2">Tansania</td><td>8. März</td><td>1996</td><td>6. Juni</td><td>1996</td></tr>
-<tr><td colspan="2">Thailand</td><td>31. Oktober</td><td>2003</td><td>29. Januar</td><td>2004</td></tr>
-<tr><td colspan="2">Timor-Leste</td><td>10. Oktober</td><td>2006</td><td>8. Januar</td><td>2007</td></tr>
-<tr><td colspan="2">Togo</td><td>4. Oktober</td><td>1995</td><td>2. Januar</td><td>1996</td></tr>
-<tr><td colspan="2">Tonga</td><td>19. Mai</td><td>1998 B</td><td>17. August</td><td>1998</td></tr>
-<tr><td colspan="2">Trinidad und Tobago</td><td>1. August</td><td>1996</td><td>30. Oktober</td><td>1996</td></tr>
-<tr><td colspan="2">Tschad</td><td>7. Juni</td><td>1994</td><td>5. September</td><td>1994</td></tr>
-<tr><td colspan="2">Tschechische Republik</td><td>3. Dezember</td><td>1993</td><td>3. März</td><td>1994</td></tr>
-<tr><td colspan="2">Tunesien</td><td>15. Juli</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Türkei</td><td>14. Februar</td><td>1997</td><td>15. Mai</td><td>1997</td></tr>
-<tr><td colspan="2">Turkmenistan</td><td>18. September</td><td>1996 B</td><td>17. Dezember</td><td>1996</td></tr>
-<tr><td colspan="2">Tuvalu</td><td>20. Dezember</td><td>2002</td><td>20. März</td><td>2003</td></tr>
-<tr><td colspan="2">Uganda</td><td>8. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Ukraine</td><td>7. Februar</td><td>1995</td><td>8. Mai</td><td>1995</td></tr>
-<tr><td colspan="2">Ungarn</td><td>24. Februar</td><td>1994</td><td>25. Mai</td><td>1994</td></tr>
-<tr><td colspan="2">Uruguay</td><td>5. November</td><td>1993</td><td>29. November</td><td>1993</td></tr>
-<tr><td colspan="2">Usbekistan</td><td>19. Juli</td><td>1995 B</td><td>17. Oktober</td><td>1995</td></tr>
-<tr><td colspan="2">Vanuatu</td><td>25. März</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Venezuela</td><td>13. September</td><td>1994</td><td>12. Dezember</td><td>1994</td></tr>
-<tr><td colspan="2">Vereinigte Arabische Emirate</td><td>10. Februar</td><td>2000</td><td>10. Mai</td><td>2000</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich\*</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
-<tr><td colspan="2">Britische Jungferninseln</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
-<tr><td colspan="2">Falklandinseln</td><td>29. Juni</td><td>2016</td><td>29. Juni</td><td>2016</td></tr>
-<tr><td colspan="2">Gibraltar</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
-<tr><td colspan="2">Insel Man</td><td>8. Mai</td><td>2012</td><td>8. August</td><td>2012</td></tr>
-<tr><td colspan="2">Jersey</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
-<tr><td colspan="2">Kaimaninseln</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
-<tr><td colspan="2">St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
-<tr><td colspan="2">Südgeorgien und Südliche Sandwichinseln</td><td>27. März</td><td>2015</td><td>27. März</td><td>2015</td></tr>
-<tr><td colspan="2">Vietnam</td><td>16. November</td><td>1994</td><td>14. Februar</td><td>1995</td></tr>
-<tr><td colspan="2">Zentralafrikanische Republik</td><td>15. März</td><td>1995</td><td>13. Juli</td><td>1995</td></tr>
-<tr><td colspan="2">Zypern</td><td>10. Juli</td><td>1996</td><td>8. Oktober</td><td>1996</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Afghanistan</td><td>19. September</td><td>2002</td><td>18. Dezember</td><td>2002</td></tr>
+<tr><td>Ägypten</td><td>2. Juni</td><td>1994</td><td>31. August</td><td>1994</td></tr>
+<tr><td>Albanien</td><td>5. Januar</td><td>1994 B</td><td>5. April</td><td>1994</td></tr>
+<tr><td>Algerien</td><td>14. August</td><td>1995</td><td>12. November</td><td>1995</td></tr>
+<tr><td>Andorra</td><td>4. Februar</td><td>2015 B</td><td>5. Mai</td><td>2015</td></tr>
+<tr><td>Angola</td><td>1. April</td><td>1998</td><td>30. Juni</td><td>1998</td></tr>
+<tr><td>Antigua und Barbuda</td><td>9. März</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Äquatorialguinea</td><td>6. Dezember</td><td>1994 B</td><td>6. März</td><td>1995</td></tr>
+<tr><td>Argentinien\*</td><td>22. November</td><td>1994</td><td>20. Februar</td><td>1995</td></tr>
+<tr><td>Armenien</td><td>14. Mai</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Aserbaidschan</td><td>3. August</td><td>2000</td><td>1. November</td><td>2000</td></tr>
+<tr><td>Äthiopien</td><td>5. April</td><td>1994</td><td>4. Juli</td><td>1994</td></tr>
+<tr><td>Australien</td><td>18. Juni</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Bahamas</td><td>2. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Bahrain</td><td>30. August</td><td>1996</td><td>28. November</td><td>1996</td></tr>
+<tr><td>Bangladesch</td><td>3. Mai</td><td>1994</td><td>1. August</td><td>1994</td></tr>
+<tr><td>Barbados</td><td>10. Dezember</td><td>1993</td><td>10. März</td><td>1994</td></tr>
+<tr><td>Belarus</td><td>8. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Belgien</td><td>22. November</td><td>1996</td><td>20. Februar</td><td>1997</td></tr>
+<tr><td>Belize</td><td>30. Dezember</td><td>1993</td><td>30. März</td><td>1994</td></tr>
+<tr><td>Benin</td><td>30. Juni</td><td>1994</td><td>28. September</td><td>1994</td></tr>
+<tr><td>Bhutan</td><td>25. August</td><td>1995</td><td>23. November</td><td>1995</td></tr>
+<tr><td>Bolivien</td><td>3. Oktober</td><td>1994</td><td>1. Januar</td><td>1995</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>26. August</td><td>2002 B</td><td>24. November</td><td>2002</td></tr>
+<tr><td>Botsuana</td><td>12. Oktober</td><td>1995</td><td>10. Januar</td><td>1996</td></tr>
+<tr><td>Brasilien</td><td>28. Februar</td><td>1994</td><td>29. Mai</td><td>1994</td></tr>
+<tr><td>Brunei</td><td>28. April</td><td>2008 B</td><td>27. Juli</td><td>2008</td></tr>
+<tr><td>Bulgarien</td><td>17. April</td><td>1996</td><td>16. Juli</td><td>1996</td></tr>
+<tr><td>Burkina Faso</td><td>2. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Burundi</td><td>15. April</td><td>1997</td><td>14. Juli</td><td>1997</td></tr>
+<tr><td>Chile\*</td><td>9. September</td><td>1994</td><td>8. Dezember</td><td>1994</td></tr>
+<tr><td>China</td><td>5. Januar</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Hongkong</td><td>9. Mai</td><td>2011</td><td>9. Mai</td><td>2011</td></tr>
+<tr><td>Macau</td><td>15. Dezember</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
+<tr><td>Cook-Inseln</td><td>20. April</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Costa Rica</td><td>26. August</td><td>1994</td><td>24. November</td><td>1994</td></tr>
+<tr><td>Côte d’Ivoire</td><td>29. November</td><td>1994</td><td>27. Februar</td><td>1995</td></tr>
+<tr><td>Dänemark</td><td>21. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
+<tr><td>Deutschland</td><td>21. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
+<tr><td>Dominica</td><td>6. April</td><td>1994 B</td><td>5. Juli</td><td>1994</td></tr>
+<tr><td>Dominikanische Republik</td><td>25. November</td><td>1996</td><td>23. Februar</td><td>1997</td></tr>
+<tr><td>Dschibuti</td><td>1. September</td><td>1994</td><td>30. November</td><td>1994</td></tr>
+<tr><td>Ecuador</td><td>23. Februar</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>El Salvador</td><td>8. September</td><td>1994</td><td>7. Dezember</td><td>1994</td></tr>
+<tr><td>Eritrea</td><td>21. März</td><td>1996 B</td><td>19. Juni</td><td>1996</td></tr>
+<tr><td>Estland</td><td>27. Juli</td><td>1994</td><td>25. Oktober</td><td>1994</td></tr>
+<tr><td>Eswatini</td><td>9. November</td><td>1994</td><td>7. Februar</td><td>1995</td></tr>
+<tr><td>Europäische Union (EU)\*</td><td>21. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
+<tr><td>Fidschi</td><td>25. Februar</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Finnland</td><td>27. Juli</td><td>1994</td><td>25. Oktober</td><td>1994</td></tr>
+<tr><td>Frankreich\*</td><td>1. Juli</td><td>1994</td><td>29. September</td><td>1994</td></tr>
+<tr><td>Gabun</td><td>14. März</td><td>1997</td><td>12. Juni</td><td>1997</td></tr>
+<tr><td>Gambia</td><td>10. Juni</td><td>1994</td><td>8. September</td><td>1994</td></tr>
+<tr><td>Georgien\*</td><td>2. Juni</td><td>1994 B</td><td>31. August</td><td>1994</td></tr>
+<tr><td>Ghana</td><td>29. August</td><td>1994</td><td>27. November</td><td>1994</td></tr>
+<tr><td>Grenada</td><td>11. August</td><td>1994</td><td>9. November</td><td>1994</td></tr>
+<tr><td>Griechenland</td><td>4. August</td><td>1994</td><td>2. November</td><td>1994</td></tr>
+<tr><td>Guatemala</td><td>10. Juli</td><td>1995</td><td>8. Oktober</td><td>1995</td></tr>
+<tr><td>Guinea</td><td>7. Mai</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Guinea-Bissau</td><td>27. Oktober</td><td>1995</td><td>25. Januar</td><td>1996</td></tr>
+<tr><td>Guyana</td><td>29. August</td><td>1994</td><td>27. November</td><td>1994</td></tr>
+<tr><td>Haiti</td><td>25. September</td><td>1996</td><td>24. Dezember</td><td>1996</td></tr>
+<tr><td>Honduras</td><td>31. Juli</td><td>1995</td><td>29. Oktober</td><td>1995</td></tr>
+<tr><td>Indien</td><td>18. Februar</td><td>1994</td><td>19. Mai</td><td>1994</td></tr>
+<tr><td>Indonesien</td><td>23. August</td><td>1994</td><td>21. November</td><td>1994</td></tr>
+<tr><td>Irak</td><td>28. Juli</td><td>2009 B</td><td>26. Oktober</td><td>2009</td></tr>
+<tr><td>Iran</td><td>6. August</td><td>1996</td><td>4. November</td><td>1996</td></tr>
+<tr><td>Irland\*</td><td>22. März</td><td>1996</td><td>20. Juni</td><td>1996</td></tr>
+<tr><td>Island</td><td>12. September</td><td>1994</td><td>11. Dezember</td><td>1994</td></tr>
+<tr><td>Israel\*</td><td>7. August</td><td>1995</td><td>5. November</td><td>1995</td></tr>
+<tr><td>Italien\*</td><td>15. April</td><td>1994</td><td>14. Juli</td><td>1994</td></tr>
+<tr><td>Jamaika</td><td>6. Januar</td><td>1995</td><td>6. April</td><td>1995</td></tr>
+<tr><td>Japan</td><td>28. Mai</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Jemen</td><td>21. Februar</td><td>1996</td><td>21. Mai</td><td>1996</td></tr>
+<tr><td>Jordanien</td><td>12. November</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Kambodscha</td><td>9. Februar</td><td>1995 B</td><td>10. Mai</td><td>1995</td></tr>
+<tr><td>Kamerun</td><td>19. Oktober</td><td>1994</td><td>17. Januar</td><td>1995</td></tr>
+<tr><td>Kanada\*</td><td>4. Dezember</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Kap Verde</td><td>29. März</td><td>1995</td><td>27. Juni</td><td>1995</td></tr>
+<tr><td>Kasachstan</td><td>6. September</td><td>1994</td><td>5. Dezember</td><td>1994</td></tr>
+<tr><td>Katar</td><td>21. August</td><td>1996</td><td>19. November</td><td>1996</td></tr>
+<tr><td>Kenia</td><td>26. Juli</td><td>1994</td><td>24. Oktober</td><td>1994</td></tr>
+<tr><td>Kirgisistan</td><td>6. August</td><td>1996 B</td><td>4. November</td><td>1996</td></tr>
+<tr><td>Kiribati</td><td>16. August</td><td>1994 B</td><td>14. November</td><td>1994</td></tr>
+<tr><td>Kolumbien</td><td>28. November</td><td>1994</td><td>26. Februar</td><td>1995</td></tr>
+<tr><td>Komoren</td><td>29. September</td><td>1994</td><td>28. Dezember</td><td>1994</td></tr>
+<tr><td>Kongo (Brazzaville)</td><td>1. August</td><td>1996</td><td>30. Oktober</td><td>1996</td></tr>
+<tr><td>Kongo (Kinshasa)</td><td>3. Dezember</td><td>1994</td><td>3. März</td><td>1995</td></tr>
+<tr><td>Korea (Nord-)</td><td>26. Oktober</td><td>1994</td><td>24. Januar</td><td>1995</td></tr>
+<tr><td>Korea (Süd-)</td><td>3. Oktober</td><td>1994</td><td>1. Januar</td><td>1995</td></tr>
+<tr><td>Kroatien</td><td>7. Oktober</td><td>1996</td><td>5. Januar</td><td>1997</td></tr>
+<tr><td>Kuba\*</td><td>8. März</td><td>1994</td><td>6. Juni</td><td>1994</td></tr>
+<tr><td>Kuwait</td><td>2. August</td><td>2002</td><td>31. Oktober</td><td>2002</td></tr>
+<tr><td>Laos</td><td>20. September</td><td>1996 B</td><td>19. Dezember</td><td>1996</td></tr>
+<tr><td>Lesotho</td><td>10. Januar</td><td>1995</td><td>10. April</td><td>1995</td></tr>
+<tr><td>Lettland\*</td><td>14. Dezember</td><td>1995</td><td>13. März</td><td>1996</td></tr>
+<tr><td>Libanon</td><td>15. Dezember</td><td>1994</td><td>15. März</td><td>1995</td></tr>
+<tr><td>Liberia</td><td>8. November</td><td>2000</td><td>6. Februar</td><td>2001</td></tr>
+<tr><td>Libyen</td><td>12. Juli</td><td>2001</td><td>10. Oktober</td><td>2001</td></tr>
+<tr><td>Liechtenstein\*</td><td>19. November</td><td>1997</td><td>17. Februar</td><td>1998</td></tr>
+<tr><td>Litauen</td><td>1. Februar</td><td>1996</td><td>1. Mai</td><td>1996</td></tr>
+<tr><td>Luxemburg</td><td>9. Mai</td><td>1994</td><td>7. August</td><td>1994</td></tr>
+<tr><td>Madagaskar</td><td>4. März</td><td>1996</td><td>2. Juni</td><td>1996</td></tr>
+<tr><td>Malawi</td><td>2. Februar</td><td>1994</td><td>3. Mai</td><td>1994</td></tr>
+<tr><td>Malaysia</td><td>24. Juni</td><td>1994</td><td>22. September</td><td>1994</td></tr>
+<tr><td>Malediven</td><td>9. November</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Mali</td><td>29. März</td><td>1995</td><td>27. Juni</td><td>1995</td></tr>
+<tr><td>Malta</td><td>29. Dezember</td><td>2000</td><td>29. März</td><td>2001</td></tr>
+<tr><td>Marokko</td><td>21. August</td><td>1995</td><td>19. November</td><td>1995</td></tr>
+<tr><td>Marshallinseln</td><td>8. Oktober</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Mauretanien</td><td>16. August</td><td>1996</td><td>14. November</td><td>1996</td></tr>
+<tr><td>Mauritius</td><td>4. September</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Mexiko</td><td>11. März</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Mikronesien</td><td>20. Juni</td><td>1994</td><td>18. September</td><td>1994</td></tr>
+<tr><td>Moldau</td><td>20. Oktober</td><td>1995</td><td>28. Januar</td><td>1996</td></tr>
+<tr><td>Monaco</td><td>20. November</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Mongolei</td><td>30. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
+<tr><td>Mosambik</td><td>25. August</td><td>1995</td><td>23. November</td><td>1995</td></tr>
+<tr><td>Myanmar</td><td>25. November</td><td>1994</td><td>23. Februar</td><td>1995</td></tr>
+<tr><td>Namibia</td><td>16. Mai</td><td>1997</td><td>14. August</td><td>1997</td></tr>
+<tr><td>Nauru</td><td>11. November</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Nepal</td><td>23. November</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Neuseeland</td><td>16. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Nicaragua</td><td>20. November</td><td>1995</td><td>18. Februar</td><td>1996</td></tr>
+<tr><td>Niederlande<sup>\*</sup></td><td>12. Juli</td><td>1994</td><td>10. Oktober</td><td>1994</td></tr>
+<tr><td>Aruba</td><td>4. Juni</td><td>1999</td><td>4. Juni</td><td>1999</td></tr>
+<tr><td>Curaçao</td><td>4. Juni</td><td>1999</td><td>4. Juni</td><td>1999</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>4. Juni</td><td>1999</td><td>4. Juni</td><td>1999</td></tr>
+<tr><td>Sint Maarten</td><td>4. Juni</td><td>1999</td><td>4. Juni</td><td>1999</td></tr>
+<tr><td>Niger</td><td>25. Juli</td><td>1995</td><td>23. Oktober</td><td>1995</td></tr>
+<tr><td>Nigeria</td><td>29. August</td><td>1994</td><td>27. November</td><td>1994</td></tr>
+<tr><td>Niue</td><td>28. Februar</td><td>1996 B</td><td>27. Mai</td><td>1996</td></tr>
+<tr><td>Nordmazedonien</td><td>2. Dezember</td><td>1997 B</td><td>2. März</td><td>1998</td></tr>
+<tr><td>Norwegen</td><td>9. Juli</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Oman</td><td>8. Februar</td><td>1995</td><td>9. Mai</td><td>1995</td></tr>
+<tr><td>Österreich\*</td><td>18. August</td><td>1994</td><td>16. November</td><td>1994</td></tr>
+<tr><td>Pakistan</td><td>26. Juli</td><td>1994</td><td>24. Oktober</td><td>1994</td></tr>
+<tr><td>Palästina</td><td>2. Januar</td><td>2015 B</td><td>2. April</td><td>2015</td></tr>
+<tr><td>Palau</td><td>6. Januar</td><td>1999 B</td><td>6. April</td><td>1999</td></tr>
+<tr><td>Panama</td><td>17. Januar</td><td>1995</td><td>17. April</td><td>1995</td></tr>
+<tr><td>Papua-Neuguinea\*</td><td>16. März</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Paraguay</td><td>24. Februar</td><td>1994</td><td>25. Mai</td><td>1994</td></tr>
+<tr><td>Peru</td><td>7. Juni</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Philippinen</td><td>8. Oktober</td><td>1993</td><td>6. Januar</td><td>1994</td></tr>
+<tr><td>Polen</td><td>18. Januar</td><td>1996</td><td>17. April</td><td>1996</td></tr>
+<tr><td>Portugal\*</td><td>21. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
+<tr><td>Ruanda</td><td>29. Mai</td><td>1996</td><td>27. August</td><td>1996</td></tr>
+<tr><td>Rumänien</td><td>17. August</td><td>1994</td><td>15. November</td><td>1994</td></tr>
+<tr><td>Russland</td><td>5. April</td><td>1995</td><td>4. Juli</td><td>1995</td></tr>
+<tr><td>Salomoninseln</td><td>3. Oktober</td><td>1995</td><td>1. Januar</td><td>1996</td></tr>
+<tr><td>Sambia</td><td>28. Mai</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Samoa</td><td>9. Februar</td><td>1994</td><td>10. Mai</td><td>1994</td></tr>
+<tr><td>San Marino</td><td>28. Oktober</td><td>1994</td><td>26. Januar</td><td>1995</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>29. September</td><td>1999</td><td>28. Dezember</td><td>1999</td></tr>
+<tr><td>Saudi-Arabien</td><td>3. Oktober</td><td>2001 B</td><td>1. Januar</td><td>2002</td></tr>
+<tr><td>Schweden</td><td>16. Dezember</td><td>1993</td><td>16. März</td><td>1994</td></tr>
+<tr><td>Schweiz\*</td><td>21. November</td><td>1994</td><td>19. Februar</td><td>1995</td></tr>
+<tr><td>Senegal</td><td>17. Oktober</td><td>1994</td><td>15. Januar</td><td>1995</td></tr>
+<tr><td>Serbien</td><td>1. März</td><td>2002</td><td>30. Mai</td><td>2002</td></tr>
+<tr><td>Seychellen</td><td>22. September</td><td>1992</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Sierra Leone</td><td>12. Dezember</td><td>1994 B</td><td>12. März</td><td>1995</td></tr>
+<tr><td>Simbabwe</td><td>11. November</td><td>1994</td><td>9. Februar</td><td>1995</td></tr>
+<tr><td>Singapur</td><td>21. Dezember</td><td>1995</td><td>20. März</td><td>1996</td></tr>
+<tr><td>Slowakei</td><td>25. August</td><td>1994</td><td>23. November</td><td>1994</td></tr>
+<tr><td>Slowenien</td><td>9. Juli</td><td>1996</td><td>7. Oktober</td><td>1996</td></tr>
+<tr><td>Somalia</td><td>11. September</td><td>2009 B</td><td>10. Dezember</td><td>2009</td></tr>
+<tr><td>Spanien</td><td>21. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
+<tr><td>Sri Lanka</td><td>23. März</td><td>1994</td><td>21. Juni</td><td>1994</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>7. Januar</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>St. Lucia</td><td>28. Juli</td><td>1993 B</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>St. Vincent und die Grenadinen</td><td>3. Juni</td><td>1996 B</td><td>1. September</td><td>1996</td></tr>
+<tr><td>Südafrika</td><td>2. November</td><td>1995</td><td>31. Januar</td><td>1996</td></tr>
+<tr><td>Sudan\*</td><td>30. Oktober</td><td>1995</td><td>28. Januar</td><td>1996</td></tr>
+<tr><td>Südsudan</td><td>17. Februar</td><td>2014 B</td><td>18. Mai</td><td>2014</td></tr>
+<tr><td>Suriname</td><td>12. Januar</td><td>1996</td><td>11. April</td><td>1996</td></tr>
+<tr><td>Syrien</td><td>4. Januar</td><td>1996</td><td>3. April</td><td>1996</td></tr>
+<tr><td>Tadschikistan</td><td>29. Oktober</td><td>1997 B</td><td>27. Januar</td><td>1998</td></tr>
+<tr><td>Tansania</td><td>8. März</td><td>1996</td><td>6. Juni</td><td>1996</td></tr>
+<tr><td>Thailand</td><td>31. Oktober</td><td>2003</td><td>29. Januar</td><td>2004</td></tr>
+<tr><td>Timor-Leste</td><td>10. Oktober</td><td>2006</td><td>8. Januar</td><td>2007</td></tr>
+<tr><td>Togo</td><td>4. Oktober</td><td>1995</td><td>2. Januar</td><td>1996</td></tr>
+<tr><td>Tonga</td><td>19. Mai</td><td>1998 B</td><td>17. August</td><td>1998</td></tr>
+<tr><td>Trinidad und Tobago</td><td>1. August</td><td>1996</td><td>30. Oktober</td><td>1996</td></tr>
+<tr><td>Tschad</td><td>7. Juni</td><td>1994</td><td>5. September</td><td>1994</td></tr>
+<tr><td>Tschechische Republik</td><td>3. Dezember</td><td>1993</td><td>3. März</td><td>1994</td></tr>
+<tr><td>Tunesien</td><td>15. Juli</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Türkei</td><td>14. Februar</td><td>1997</td><td>15. Mai</td><td>1997</td></tr>
+<tr><td>Turkmenistan</td><td>18. September</td><td>1996 B</td><td>17. Dezember</td><td>1996</td></tr>
+<tr><td>Tuvalu</td><td>20. Dezember</td><td>2002</td><td>20. März</td><td>2003</td></tr>
+<tr><td>Uganda</td><td>8. September</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Ukraine</td><td>7. Februar</td><td>1995</td><td>8. Mai</td><td>1995</td></tr>
+<tr><td>Ungarn</td><td>24. Februar</td><td>1994</td><td>25. Mai</td><td>1994</td></tr>
+<tr><td>Uruguay</td><td>5. November</td><td>1993</td><td>29. November</td><td>1993</td></tr>
+<tr><td>Usbekistan</td><td>19. Juli</td><td>1995 B</td><td>17. Oktober</td><td>1995</td></tr>
+<tr><td>Vanuatu</td><td>25. März</td><td>1993</td><td>29. Dezember</td><td>1993</td></tr>
+<tr><td>Venezuela</td><td>13. September</td><td>1994</td><td>12. Dezember</td><td>1994</td></tr>
+<tr><td>Vereinigte Arabische Emirate</td><td>10. Februar</td><td>2000</td><td>10. Mai</td><td>2000</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
+<tr><td>Britische Jungferninseln</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
+<tr><td>Falklandinseln</td><td>29. Juni</td><td>2016</td><td>29. Juni</td><td>2016</td></tr>
+<tr><td>Gibraltar</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
+<tr><td>Insel Man</td><td>8. Mai</td><td>2012</td><td>8. August</td><td>2012</td></tr>
+<tr><td>Jersey</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
+<tr><td>Kaimaninseln</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
+<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>3. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
+<tr><td>Südgeorgien und Südliche Sandwichinseln</td><td>27. März</td><td>2015</td><td>27. März</td><td>2015</td></tr>
+<tr><td>Vietnam</td><td>16. November</td><td>1994</td><td>14. Februar</td><td>1995</td></tr>
+<tr><td>Zentralafrikanische Republik</td><td>15. März</td><td>1995</td><td>13. Juli</td><td>1995</td></tr>
+<tr><td>Zypern</td><td>10. Juli</td><td>1996</td><td>8. Oktober</td><td>1996</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 1995 1408](https://fedlex.data.admin.ch/eli/oc/1995/1408_1408_1408), [2003 3787](https://fedlex.data.admin.ch/eli/oc/2003/545), [2007 1399](https://fedlex.data.admin.ch/eli/oc/2007/243), [2011 4885](https://fedlex.data.admin.ch/eli/oc/2011/695), [2015 757](https://fedlex.data.admin.ch/eli/oc/2015/133)und [2017 117](https://fedlex.data.admin.ch/eli/oc/2017/33). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1995 1408](https://fedlex.data.admin.ch/eli/oc/1995/1408_1408_1408); [2003 3787](https://fedlex.data.admin.ch/eli/oc/2003/545); [2007 1399](https://fedlex.data.admin.ch/eli/oc/2007/243); [2011 4885](https://fedlex.data.admin.ch/eli/oc/2011/695); [2015 757](https://fedlex.data.admin.ch/eli/oc/2015/133); [2017 117](https://fedlex.data.admin.ch/eli/oc/2017/33); [2021 625](https://fedlex.data.admin.ch/eli/oc/2021/625). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
 
 Erklärungen
 
-Schweiz**[^t-4]**
+Schweiz[^t-3]
 
 Die Schweiz möchte die Bedeutung bekräftigen, welche sie dem Technologietransfer und der Biotechnologie zur Sicherung der Erhaltung und der nachhaltigen Nutzung der biologischen Vielfalt beimisst. Die Achtung der Rechte des geistigen Eigentums stellt ein grundlegendes Element für die Durchführung von Massnahmen zur Weitergabe von Technologie und von Investitionsbeteiligungen (joint ventures) dar.
 
@@ -918,4 +917,4 @@ Für die Schweiz erfolgt die Weitergabe von Technologie und der Zugang zur Biote
 
 Die Schweiz ermutigt den Einsatz des im Rahmen des Übereinkommens eingerichteten Finanzierungsmechanismus zur Förderung der freiwilligen Weitergabe von Rechten des geistigen Eigentums, welche schweizerischen Betreibern zustehen, insbesondere bei der Erteilung von Lizenzen durch die üblichen Handelsverfahren und ‑entscheidungen, bei gleichzeitiger Gewährleistung eines angemessenen und wirksamen Schutzes der Eigentumsrechte.
 
-[^t-4]: Art. 1 Abs. 2 des BB vom 28. Sept. 1994 ([AS 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407))
+[^t-3]: Art. 1 Abs. 2 des BB vom 28. Sept. 1994 ([AS 1995 1407](https://fedlex.data.admin.ch/eli/oc/1995/1407_1407_1407))
