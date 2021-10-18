@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Legge federale del 25 settembre 2020 sulle basi legali delle ordinanze del Consiglio federale volte a far fronte all'epidemia di COVID-19 (Legge COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: it
-version: 2021-09-02
+version: 2021-10-19
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210902/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210902-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210902/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211019/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211019-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211019/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210902/it"
 
 (Legge COVID-19)
 
-del 25 settembre 2020 (Stato 2 settembre 2021)
+del 25 settembre 2020 (Stato 19 ottobre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -68,7 +68,7 @@ decreta:
 
 <sup>2</sup> Se necessario, la Cancelleria federale trasmette le liste delle firme al servizio competente secondo il diritto cantonale per l’attestazione del diritto di voto.
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^2-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Cas di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
 #### Art. 3
 
@@ -200,13 +200,14 @@ In caso di chiusura delle frontiere, il Consiglio federale adotta i provvediment
 
 <sup>2</sup> Il documento è rilasciato su richiesta.
 
-<sup>3</sup> Il documento deve essere personale, non falsificabile e verificabile nel rispetto delle norme sulla protezione dei dati; è concepito in modo tale da consentire unicamente una verifica decentralizzata o locale della sua autenticità e validità e da poter essere utilizzato, per quanto possibile, per entrare in altri Paesi e uscirne.
+<sup>3</sup> Il documento deve essere personale, non falsificabile e verificabile nel rispetto delle norme sulla protezione dei dati; è concepito in modo tale da consentire unicamente una verifica decentralizzata o locale della sua autenticità e validità e da poter essere utilizzato, per quanto possibile, per entrare in altri Paesi e uscirne.[^6a-2]
 
 <sup>4</sup> Il Consiglio federale può disciplinare l’assunzione dei costi del documento.
 
 <sup>5</sup> La Confederazione può mettere a disposizione dei Cantoni e di terzi un sistema per il rilascio del documento.
 
 [^6a-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Correzione della Conissione di redazione dell’AF del 25 ago. 2021, pubblicata il 2 set. 2021 ([RU 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^6a-2]: La correzione della Commissione di redazione dell’AF del 15 ott. 2021, pubblicata il 19 ott. 2021, concerne soltanto il testo tedesco ([RU 2021 619](https://fedlex.data.admin.ch/eli/oc/2021/619)).
 
 #### Art. 7
 
@@ -227,7 +228,7 @@ Se necessario all’esercizio dei diritti nelle assemblee di società, il Consig
 - a. per scritto o in forma elettronica;
 - b. mediante un rappresentante indipendente.
 
-[^8-1]: Effetto sino all’entrata in vigore delle disposizioni sullo svolgimento dell’assemblea generale di cui alla modifica del 19 giugno 2020 del Codice delle obbligazioni (Diritto della società anonima), ma al massimo sino al 31 dicembre 2023 ([RU 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
+[^8-1]: Effetto sino all’entrata in vigore delle disposizioni sullo svolgimento dell’assemblea generale di cui alla modifica del 19 giu. 2020 del Codice delle obbligazioni (Diritto della società anonima), ma al massimo sino al 31 dic. 2023 ([RU 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
 [^8-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^8-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
@@ -246,6 +247,7 @@ Il Consiglio federale prevede allentamenti per i Cantoni la cui situazione epide
 Se necessario per impedire fallimenti di massa e assicurare la stabilità dell’economia e della società svizzere, il Consiglio federale può emanare disposizioni che deroghino alla legge federale dell’11 aprile 1889[^9-1] sulla esecuzione e sul fallimento (LEF) e al Codice delle obbligazioni[^9-2] con riguardo a:
 
 - a. il concordato (art. 293 segg. LEF);
+- [tab]
 - b. le condizioni, gli effetti e la procedura di una moratoria speciale;
 - c.[^9-3] gli avvisi obbligatori in caso di perdita di capitale ed eccedenza di debiti.
 

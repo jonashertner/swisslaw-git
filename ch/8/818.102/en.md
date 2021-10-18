@@ -3,11 +3,11 @@ sr: "818.102"
 title: Federal Act of 25 September 2020 on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic (COVID-19 Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: en
-version: 2021-09-02
+version: 2021-10-19
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210902/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210902-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210902/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211019/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211019-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211019/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Act)
 
-of 25 September 2020 (Status as of 2 September 2021)
+of 25 September 2020 (Status as of 19 October 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -203,13 +203,14 @@ In relation to the closure of borders, the Federal Council shall wherever possib
 
 <sup>2</sup> The certificate shall be issued in response to an application.
 
-<sup>3</sup> The certificate must be personal, forgery-proof, verifiable while complying with data protection requirements and designed so that only decentralised or local verification of its authenticity and validity is possible and, if possible, so that it can be used when entering or leaving other countries.
+<sup>3</sup> The certificate must be personal, forgery-proof, verifiable while complying with data protection requirements and designed so that only decentralised or local verification of its authenticity and validity is possible and, if possible, so that it can be used when entering or leaving other countries.[^6a-2]
 
 <sup>4</sup> The Federal Council may regulate who is to pay the cost of the certificate.
 
 <sup>5</sup> The Confederation may provide the cantons and third parties with a system for issuing certificates.
 
 [^6a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Correction by the FA Drafting Committee dated 25 Aug. 2021, published 2 Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^6a-2]: German version corrected by the FA Drafting Committee on 15 Oct. 2021, published on 19 Oct. 2021 ([AS 2021 619](https://fedlex.data.admin.ch/eli/oc/2021/619)).
 
 #### Art. 7
 

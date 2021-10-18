@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l'épidémie de COVID-19 (Loi COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: fr
-version: 2021-09-02
+version: 2021-10-19
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210902/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210902-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210902/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211019/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211019-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211019/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210902/fr"
 
 (Loi COVID-19)
 
-du 25 septembre 2020 (Etat le 2 septembre 2021)
+du 25 septembre 2020 (Etat le 19 octobre 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -111,7 +111,7 @@ La Confédération prend les mesures suivantes, en étroite collaboration avec l
 - d. définir un plan de vaccination garantissant que le plus grand nombre de volontaires possibles puissent se faire vacciner d’ici fin mai 2021 au plus tard;
 - e. permettre d’assouplir, de raccourcir ou d’abolir progressivement l’obligation de quarantaine si des mesures de rechange telles que la vaccination ou les tests réguliers peuvent garantir une réduction comparable de la propagation du virus.[^3-3]
 
-[^3-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars 2021 au 31 déc. 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Erratum de la Commission de rédaction de l’Ass. féd. du 25 août 2021, publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^3-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars 2021 au 31 déc. 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Erratum de la CdR de l’Ass. féd. du 25 août 2021, publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^3-2]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars au 31 déc. 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^3-3]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars au 31 déc. 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
@@ -199,13 +199,14 @@ En cas de fermeture des frontières, le Conseil fédéral prend les mesures néc
 
 <sup>2</sup> Ce document doit être délivré sur demande.
 
-<sup>3</sup> Il doit être personnel, infalsifiable et, dans le respect de la protection des données, vérifiable; il doit être conçu de manière que seule une vérification décentralisée ou locale de son authenticité et de sa validité soit possible et qu’il puisse, dans la mesure du possible, être utilisé par son détenteur pour entrer dans d’autres pays et en sortir.
+<sup>3</sup> Il doit être personnel, infalsifiable et, dans le respect de la protection des données, vérifiable; il doit être conçu de manière que seule une vérification décentralisée ou locale de son authenticité et de sa validité soit possible et qu’il puisse, dans la mesure du possible, être utilisé par son détenteur pour entrer dans d’autres pays et en sortir.[^6a-2]
 
 <sup>4</sup> Le Conseil fédéral peut régler la prise en charge des coûts du document.
 
 <sup>5</sup> La Confédération peut mettre un système pour la délivrance du document à la disposition des cantons et de tiers.
 
-[^6a-1]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars 2021 au 31 déc. 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Erratum de la Commission de rédaction de l’Ass. féd. du 25 août 2021 publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^6a-1]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars 2021 au 31 déc. 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Erratum de la CdR de l’Ass. féd. du 25 août 2021, publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^6a-2]: Erratum de la CdR de l’Ass. féd. du 15 oct. 2021, publié le 19 oct. 2021, ne concerne que le texte allemand ([RO 2021 619](https://fedlex.data.admin.ch/eli/oc/2021/619)).
 
 #### Art. 7
 
@@ -307,7 +308,7 @@ Le Conseil fédéral est habilité à exclure la responsabilité de la dette dou
 
 <sup>7</sup> Le soutien de manifestations régionales et locales relève de la compétence des cantons.
 
-[^11a-1]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars 2021 au 30 avr. 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Erratum de la Commission de rédaction de l’Ass. féd. du 25 août 2021 publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^11a-1]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars 2021 au 30 avr. 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Erratum de la CdR de l’Ass. féd. du 25 août 2021, publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^11a-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 
 #### Art. 12
@@ -516,7 +517,7 @@ Le Conseil fédéral peut édicter des dispositions sur:
 
 <sup>5</sup> Le Conseil fédéral peut déclarer les dispositions de la LPGA applicables. Il peut prévoir des dérogations à l’art. 24, al. 1, LPGA concernant l’extinction du droit et à l’art. 49, al. 1, LPGA concernant l’applicabilité de la procédure simplifiée.
 
-[^15-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifesta-tions), en vigueur du 1<sup>er</sup> avr. 2021 au 31 déc. 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
+[^15-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifesta-tions), en vigueur du 1<sup>er</sup> avr. au 31 déc. 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
 [^15-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 16
@@ -570,7 +571,7 @@ En dérogation à la LACI[^17a-2], l’indemnité en cas de réduction de l’ho
 
 - b. en cas d’occupation à temps partiel, le revenu et le montant minimum de l’indemnité en cas de réduction de l’horaire de travail, en vertu de la let. a, sont calculés proportionnellement au taux d’occupation.
 
-[^17a-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 1<sup>er</sup> déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)). Erratum de la Commission de rédaction de l’Ass. féd. du 25 août 2021 publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^17a-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 1<sup>er</sup> déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)). Erratum de la CdR de l’Ass. féd. du 25 août 2021, publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^17a-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17b

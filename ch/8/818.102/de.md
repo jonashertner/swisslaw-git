@@ -3,11 +3,11 @@ sr: "818.102"
 title: Bundesgesetz vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: de
-version: 2021-09-02
+version: 2021-10-19
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210902/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210902-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210902/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211019/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211019-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211019/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210902/de"
 
 (Covid-19-Gesetz)
 
-vom 25. September 2020 (Stand am 2. September 2021)
+vom 25. September 2020 (Stand am 19. Oktober 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -201,13 +201,14 @@ Bei Grenzschliessung ergreift der Bundesrat die notwendigen Massnahmen, um die R
 
 <sup>2</sup> Der Nachweis ist auf Gesuch hin zu erteilen.
 
-<sup>3</sup> Der Nachweis muss persönlich, fälschungssicher, unter Einhaltung des Datenschutzes überprüfbar und so ausgestaltet sein, dass nur eine dezentrale oder lokale Überprüfung der Authentizität und Gültigkeit von Nachweisen möglich ist sowie möglichst für die Ein- und Ausreise in andere Länder verwendet werden kann.
+<sup>3</sup> Der Nachweis muss persönlich, fälschungssicher, unter Einhaltung des Datenschutzes überprüfbar und so ausgestaltet sein, dass nur eine dezentrale oder lokale Überprüfung der Authentizität und Gültigkeit von Nachweisen möglich ist und er möglichst für die Ein- und Ausreise in andere Länder verwendet werden kann.[^6a-2]
 
 <sup>4</sup> Der Bundesrat kann die Übernahme der Kosten des Nachweises regeln.
 
 <sup>5</sup> Der Bund kann den Kantonen sowie Dritten ein System für die Erteilung von Nachweisen zur Verfügung stellen.
 
 [^6a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Berichtigung der RedK der BVers vom 25. Aug. 2021, veröffentlicht am 2. Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^6a-2]: Berichtigung der RedK der BVers vom 15. Okt. 2021, veröffentlicht am 19. Okt. 2021 ([AS 2021 619](https://fedlex.data.admin.ch/eli/oc/2021/619)).
 
 #### Art. 7
 
