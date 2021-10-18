@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung und Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und (EU) 2021/1152 hinsichtlich der Festlegung der Bedingungen für den Zugang zu anderen EU-Informationssystemen für ETIAS-Zwecke (Weiterentwicklungen des Schengen-Besitzstands)
 document: Vernehmlassungsvorlage
 language: de

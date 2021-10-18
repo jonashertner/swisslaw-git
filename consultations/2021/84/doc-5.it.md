@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Recepimento e trasposizione nel diritto svizzero degli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 per quanto riguarda la definizione delle condizioni di accesso agli altri sistemi di informazione dell’UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) (Sviluppi dell’acquis di Schengen)
 document: Progetto posto in consultazione-4
 language: it
