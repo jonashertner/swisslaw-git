@@ -4,11 +4,11 @@ title: "Verordnung vom 6. März 2000 über eine leistungsabhängige Schwerverkeh
 short: SVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/192"
 language: de
-version: 2021-07-01
+version: 2021-10-22
 adopted: 2000-03-06
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2000-192-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20211022/de/xml/fedlex-data-admin-ch-eli-cc-2000-192-20211022-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20211022/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20210701/de"
 
 (Schwerverkehrsabgabeverordnung, SVAV)
 
-vom 6. März 2000 (Stand am 1. Juli 2021)
+vom 6. März 2000 (Stand am 22. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -698,11 +698,12 @@ Die EZV stellt dem EETS-Anbieter die Summe aller Abgaben in Rechnung, die für d
 
 **Pflichten der Fahrzeugführerinnen und -führer**[^27-1]
 
-<sup>1</sup> Die Fahrzeugführerin oder der Fahrzeugführer muss die zur Erhebung der Abgabe erforderlichen Daten bei der Einfahrt und bei der Ausfahrt deklarieren. Für die Distanzermittlung ist der Fahrtschreiber massgebend.
+<sup>1</sup> Die Fahrzeugführerin oder der Fahrzeugführer muss die zur Erhebung der Abgabe erforderlichen Daten bei der Einfahrt und bei der Ausfahrt deklarieren. Für die Distanzermittlung ist der Fahrtschreiber massgebend.[^27-2]
 
 <sup>2</sup> Im Übrigen gelten die Artikel 22 Absatz 1<sup>bis</sup> und 23 Absatz 3.
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^27-2]: Die Berichtigung vom 22. Okt. 2021 betrifft nur den italienischen Text ([AS 2021 623](https://fedlex.data.admin.ch/eli/oc/2021/623)).
 
 #### Art. 28
 

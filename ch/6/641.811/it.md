@@ -4,11 +4,11 @@ title: "Ordinanza del 6 marzo 2000 concernente una tassa sul traffico pesante co
 short: OTTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/192"
 language: it
-version: 2021-07-01
+version: 2021-10-22
 adopted: 2000-03-06
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2000-192-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20211022/it/xml/fedlex-data-admin-ch-eli-cc-2000-192-20211022-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20211022/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20210701/it"
 
 (Ordinanza sul traffico pesante, OTTP)
 
-del 6 marzo 2000 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 6 marzo 2000 (Stato 22 ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -700,11 +700,12 @@ L’AFD fattura al fornitore del SET la somma di tutte le tasse dovute per le co
 
 **Obblighi del conducente**[^27-1]
 
-<sup>1</sup> Il conducente deve dichiarare i dati necessari alla riscossione della tassa all’atto dell’entrata e dell’uscita dalla Svizzera. La distanza percorsa determinante è quella indicata dall’odocronografo.
+<sup>1</sup> Il conducente deve dichiarare i dati necessari alla riscossione della tassa all’atto dell’entrata e dell’uscita dalla Svizzera. La distanza percorsa determinante è quella indicata dal tachigrafo.[^27-2]
 
 <sup>2</sup> Del rimanente sono applicabili gli articoli 22 capoverso 1<sup>bis</sup> e 23 capoverso 3.
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^27-2]: Correzione del 22 ott. 2021 ([RU 2021 623](https://fedlex.data.admin.ch/eli/oc/2021/623)).
 
 #### Art. 28
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 6 mars 2000 concernant une redevance sur le trafic des poi
 short: ORPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/192"
 language: fr
-version: 2021-07-01
+version: 2021-10-22
 adopted: 2000-03-06
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-192-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20211022/fr/xml/fedlex-data-admin-ch-eli-cc-2000-192-20211022-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20211022/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20210701/fr"
 
 (Ordonnance relative à une redevance sur le trafic des poids lourds, ORPL)
 
-du 6 mars 2000 (Etat le 1<sup>er</sup> juillet 2021)
+du 6 mars 2000 (Etat le 22 octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -695,11 +695,12 @@ L’AFD facture périodiquement au prestataire du SET la somme des redevances du
 
 **Obligations du conducteur**[^27-1]
 
-<sup>1</sup> Le conducteur doit déclarer à l’entrée et à la sortie de Suisse les données nécessaires à la perception de la redevance. Le tachygraphe est déterminant pour la détermination de la distance.
+<sup>1</sup> Le conducteur doit déclarer à l’entrée et à la sortie de Suisse les données nécessaires à la perception de la redevance. Le tachygraphe est déterminant pour la détermination de la distance.[^27-2]
 
 <sup>2</sup> Sont applicables au surplus les art. 22, al. 1<sup>bis</sup>, et 23, al. 3.
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^27-2]: Erratum du 22 oct. 2021, ne concerne que le texte italien ([RO 2021 623](https://fedlex.data.admin.ch/eli/oc/2021/623)).
 
 #### Art. 28
 
