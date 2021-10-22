@@ -4,13 +4,13 @@ number: "153.3"
 title: Delegationsverordnung
 short: DelV
 language: de
-version: 2019-12-14
-valid_until: 2021-10-22
-version_adopted: 2019-12-10
+version: 2021-10-23
+valid_until: 2023-04-13
+version_adopted: 2021-10-19
 adopted: 2017-11-28
 in_force: 2018-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.3"
-pdf: "https://bgs.zg.ch/api/de/versions/2254/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2265/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2254/pdf_file"
 
 (DelV)
 
-Vom 28. November 2017 (Stand 14. Dezember 2019)
+Vom 28. November 2017 (Stand 23. Oktober 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -39,7 +39,7 @@ beschliesst:
 
 **Personalgeschäfte**
 
-<sup>1</sup> Die Direktionen und die Staatskanzlei entscheiden über individuelle Personalgeschäfte der ihnen unterstellten Mitarbeiterinnen und Mitarbeiter inklusive kantonale Schulen gestützt auf das Gesetz über das Arbeitsverhältnis des Staatspersonals (Personalgesetz) vom 1. September 1994[^2-1] und die Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals (Personalverordnung) vom 12. Dezember 1994[^2-2]. Vorbehalten bleiben Abs. 2 und 3.
+<sup>1</sup> Die Direktionen und die Staatskanzlei entscheiden erstinstanzlich über individuelle Personalgeschäfte der ihnen unterstellten Mitarbeiterinnen und Mitarbeiter inklusive kantonale Schulen gestützt auf das Gesetz über das Arbeitsverhältnis des Staatspersonals (Personalgesetz) vom 1. September 1994[^2-1] und die Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals (Personalverordnung) vom 12. Dezember 1994[^2-2]. Vorbehalten bleiben Abs. 2 und 3.
 
 <sup>2</sup> Der Regierungsrat entscheidet
 
@@ -69,7 +69,7 @@ beschliesst:
 
 **Geschäfte der Direktionen und der Staatskanzlei**
 
-<sup>1</sup> Die Direktionen und die Staatskanzlei entscheiden erstinstanzlich über folgende Geschäfte:
+<sup>1</sup> Die Direktionen und die Staatskanzlei entscheiden über folgende Geschäfte:
 
 - 1\. Einholung von verwaltungsexternen Gutachten bis zum Betrag von Fr. 500'000.– mit der Möglichkeit zur Delegation an die ihnen direkt unterstellten Ämter bis zum Betrag von Fr. 150'000.– (§ 20 Abs. 1 des Kantonsratsbeschlusses über die Geschäftsordnung des Regierungsrats (GO RR) vom 26. September 2013[^3-1]);
 - 2\. Genehmigung von Vereinbarung und Verbandsordnung von Zweckverbänden (§ 45 Abs. 2 und § 46 Abs. 2 des Gesetzes über die Organisation und die Verwaltung der Gemeinden (Gemeindegesetz, GG) vom 4. September 1980[^3-2]). Zuständig ist diejenige Direktion, in deren Fachbereich das Geschäft schwergewichtsmässig fällt. Sofern die Direktion erwägt, ganz oder teilweise nicht zu genehmigen oder die Genehmigung mit Auflagen zu verbinden, ist das Geschäft dem Regierungsrat zum Entscheid vorzulegen;
@@ -97,7 +97,11 @@ beschliesst:
 
 <sup>5</sup> In Fällen von Abs. 4 entscheidet die zuständige Direktion im Entscheid ausserdem über Verfahrenskosten, die Parteientschädigung sowie die Bezifferung der finanziellen Entschädigung an den unentgeltlichen Rechtsbeistand. Soweit noch kein Zwischenentscheid über die Gewährung der unentgeltlichen Rechtspflege sowie des unentgeltlichen Rechtsbeistandes ergangen ist, wird darüber im Abschreibungsentscheid entschieden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-11]).
 
-<sup>6</sup> Wird gegen einen Entscheid des Regierungsrats ein Rechtsmittel ergriffen, erstellt die instruierende Direktion die eingeforderte Vernehmlassung und stellt diese dem Gericht zu. Sie nimmt in Vertretung des Regierungsrats als Vorinstanz am Verwaltungsgerichtsverfahren teil (§ 68 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-12]).
+<sup>6</sup> Wird gegen einen Entscheid des Regierungsrats ein Rechtsmittel ergriffen, vertritt die instruierende Direktion den Regierungsrat als Vorinstanz im Rechtsmittelverfahren.
+
+<sup>7</sup> Die Staatskanzlei nimmt die gegen den Kanton zugestellten Zahlungsbefehle entgegen. Sie ist zur Erhebung des Rechtsvorschlags berechtigt und verpflichtet. Der Regierungsrat regelt die Zuständigkeiten und Abläufe in einem Beschluss.
+
+<sup>8</sup> Im Übrigen vertritt die zuständige Direktion den Kanton in Schuldbetreibungs- und Konkurssachen.
 
 [^3-1]: BGS [151.1](https://bgs.zg.ch/data/151.1/de)
 [^3-2]: BGS [171.1](https://bgs.zg.ch/data/171.1/de)
@@ -110,13 +114,12 @@ beschliesst:
 [^3-9]: BGS [721.11](https://bgs.zg.ch/data/721.11/de)
 [^3-10]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 [^3-11]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
-[^3-12]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 
 #### § 4
 
 **Direktion des Innern**
 
-<sup>1</sup> Die Direktion des Innern entscheidet erstinstanzlich über folgende Geschäfte:
+<sup>1</sup> Die Direktion des Innern entscheidet über folgende Geschäfte:
 
 - 1\. Beistandspflicht gegenüber den Gemeinden (§ 35 Abs. 1 des Gesetzes über die Organisation und die Verwaltung der Gemeinden (Gemeindegesetz, GG) vom 4. September 1980[^4-1]);
 - 2\. Erlass von Vorschriften über die Jagdprüfung, Abschluss von Vereinbarungen mit anderen Kantonen über die gegenseitige Anerkennung der Jagdprüfungen und Anordnungen von Massnahmen zur Verhütung und Bekämpfung von Wildkrankheiten (§ 6 Abs. 1 und 2 sowie § 26 Abs. 1 des Gesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz) vom 25. Oktober 1990[^4-2]);
@@ -163,7 +166,7 @@ beschliesst:
 
 **Direktion für Bildung und Kultur**
 
-<sup>1</sup> Die Direktion für Bildung und Kultur entscheidet erstinstanzlich über folgende Geschäfte:
+<sup>1</sup> Die Direktion für Bildung und Kultur entscheidet über folgende Geschäfte:
 
 - 1\. Reduktion oder Verzicht auf Schulgeldbeiträge für ausserkantonale Schülerinnen und Schüler in besonderen Fällen (§ 9 Abs. 2 des Gesetzes über die kantonalen Schulen vom 27. September 1990[^5-1]);
 - 2\. Beiträge zur Förderung des kulturellen Lebens zu Lasten des Fonds für wohltätige, gemeinnützige und kulturelle Zwecke, sofern sie im Einzelfall den Betrag von Fr. 20'000.– nicht übersteigen (§ 4 Abs. 1 des Gesetzes über die Förderung des kulturellen Lebens vom 25. März 1965[^5-2], § 9 Abs. 2 des Gesetzes über den Finanzhaushalt des Kantons und der Gemeinden (Finanzhaushaltgesetz, FHG) vom 31. August 2006[^5-3] und § 27<sup>bis</sup> Abs. 3 des Gesetzes über Lotterien und gewerbsmässige Wetten (Lotteriegesetz) vom 6. Juli 1978[^5-4]);
@@ -179,7 +182,7 @@ beschliesst:
 
 **Volkswirtschaftsdirektion**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion entscheidet erstinstanzlich über folgende Geschäfte:
+<sup>1</sup> Die Volkswirtschaftsdirektion entscheidet über folgende Geschäfte:
 
 - 1\. Anpassung der Mutterschaftsbeiträge an die Preisentwicklung (§ 8 Abs. 1 des Gesetzes über die Ausrichtung kantonaler Mutterschaftsbeiträge vom 1. September 1988[^6-1]);
 - 2\. Änderung von Normalarbeitsverträgen Landwirtschaft und Privathaushalt (§ 5 Abs. 2 Bst. d des Einführungsgesetzes zum Schweizerischen Obligationenrecht (EG OR) vom 28. August 2003[^6-2] und § 2 Abs. 1 Bst. e des Einführungsgesetzes zu den Bundesgesetzen über die Landwirtschaft, die landwirtschaftliche Pacht und das bäuerliche Bodenrecht (EG Landwirtschaft) vom 29. Juni 2000[^6-3]);
@@ -238,7 +241,7 @@ beschliesst:
 
 **Baudirektion**
 
-<sup>1</sup> Die Baudirektion entscheidet erstinstanzlich über folgende Geschäfte:
+<sup>1</sup> Die Baudirektion entscheidet über folgende Geschäfte:
 
 - 1\. …
 - 2\. …
@@ -271,7 +274,7 @@ beschliesst:
 
 **Sicherheitsdirektion**
 
-<sup>1</sup> Die Sicherheitsdirektion entscheidet erstinstanzlich über folgende Geschäfte:
+<sup>1</sup> Die Sicherheitsdirektion entscheidet über folgende Geschäfte:
 
 - 1\. Angemessene Erhöhung der Spielsumme bei Veranstaltungen für gemeinnützige, wohltätige und kulturelle Zwecke (§ 15 Abs. 2 des Gesetzes über Lotterien und gewerbsmässige Wetten (Lotteriegesetz) vom 6. Juli 1978[^8-1]);
 - 2\. Vertretung des Kantons Zug in Zivilverfahren (§§ 18 Abs. 1 und 2 sowie 21 des Gesetzes über die Verantwortlichkeit der Gemeinwesen, Behördemitglieder und Beamten (Verantwortlichkeitsgesetz) vom 1. Februar 1979[^8-2]);
@@ -288,7 +291,7 @@ beschliesst:
 
 **Gesundheitsdirektion**
 
-<sup>1</sup> Die Gesundheitsdirektion entscheidet erstinstanzlich über folgende Geschäfte:
+<sup>1</sup> Die Gesundheitsdirektion entscheidet über folgende Geschäfte:
 
 - 1\. Beschluss betreffend Verwendung der Mittel aus dem Alkoholzehntel (Art. 131 Abs. 3 der Bundesverfassung der Schweizerischen Eidgenossenschaft (BV) vom 18. April 1999[^9-1] und Art. 45 Abs. 2 des Bundesgesetzes über die gebrannten Wasser (Alkoholgesetz; AlkG) vom 21. Juni 1932[^9-2]);
 - 2\. Genehmigung der die Durchführung der Ergänzungsleistungen betreffenden Verwaltungskosten (§ 15 des Einführungsgesetzes zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (EG ELG) vom 8. Mai 2008[^9-3] sowie Veranlassung ihrer Vergütung an die Ausgleichskasse Zug;
@@ -306,7 +309,7 @@ beschliesst:
 
 **Finanzdirektion**
 
-<sup>1</sup> Die Finanzdirektion entscheidet erstinstanzlich über folgende Geschäfte:
+<sup>1</sup> Die Finanzdirektion entscheidet über folgende Geschäfte:
 
 - 1\. Gewährung von Darlehen bis 500 000 Franken an gemeinnützige Organisationen mit Leistungsvereinbarung, mit einer Laufzeit von maximal zwölf Monaten, Verlängerungsmöglichkeit um maximal sechs Monate und einem Zinssatz von 1 % über dem Festgeldsatz der Zuger Kantonalbank für die entsprechende Laufzeit (§ 35 Abs. 2 Bst. d und Abs. 3 des Gesetzes über den Finanzhaushalt des Kantons und der Gemeinden (Finanzhaushaltgesetz, FHG) vom 31. August 2006[^10-1]).
 
@@ -316,7 +319,7 @@ beschliesst:
 
 **Staatskanzlei**
 
-<sup>1</sup> Die Staatskanzlei entscheidet erstinstanzlich über die Gratisabgabe der Amtlichen Sammlung, der Bereinigten Gesetzessammlung und des Amtsblattes an Behörden, Amts- und weitere Stellen (§ 12 Abs. 1 des Gesetzes über die Veröffentlichung der Gesetze und das Amtsblatt des Kantons Zug (Publikationsgesetz) vom 29. Januar 1981[^11-1]).
+<sup>1</sup> Die Staatskanzlei entscheidet über die Gratisabgabe der Amtlichen Sammlung, der Bereinigten Gesetzessammlung und des Amtsblattes an Behörden, Amts- und weitere Stellen (§ 12 Abs. 1 des Gesetzes über die Veröffentlichung der Gesetze und das Amtsblatt des Kantons Zug (Publikationsgesetz) vom 29. Januar 1981[^11-1]).
 
 [^11-1]: BGS [152.3](https://bgs.zg.ch/data/152.3/de)
 
@@ -358,6 +361,6 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Geschäfte, die zum Zeitpunkt des Inkrafttretens dieser Verordnung beim Regierungsrat hängig sind, neu jedoch in die Zuständigkeit der Direktionen oder der Staatskanzlei fallen, werden vom Regierungsrat erstinstanzlich entschieden.
+<sup>1</sup> Geschäfte, die zum Zeitpunkt des Inkrafttretens dieser Verordnung beim Regierungsrat hängig sind, neu jedoch in die Zuständigkeit der Direktionen oder der Staatskanzlei fallen, werden vom Regierungsrat entschieden.
 
 GS 2017/075
