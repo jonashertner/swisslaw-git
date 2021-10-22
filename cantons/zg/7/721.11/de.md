@@ -4,13 +4,12 @@ number: "721.11"
 title: Planungs- und Baugesetz
 short: PBG
 language: de
-version: 2019-07-01
-valid_until: 2021-10-22
-version_adopted: 2018-11-08
+version: 2021-10-23
+version_adopted: 2021-10-19
 adopted: 1998-11-26
 in_force: 2000-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/721.11"
-pdf: "https://bgs.zg.ch/api/de/versions/1991/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2266/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1991/pdf_file"
 
 (PBG)
 
-Vom 26. November 1998 (Stand 1. Juli 2019)
+Vom 26. November 1998 (Stand 23. Oktober 2021)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -67,9 +66,7 @@ beschliesst:
 - d) die besonderen Anforderungen an die Energieeffizienz von Bauten und Anlagen von Bebauungsplänen;
 - e) das übrige Ausführungsrecht zu diesem Gesetz.
 
-<sup>3</sup> Der Regierungsrat genehmigt die gemeindlichen Bauvorschriften, Zonen- und Sondernutzungspläne, sofern er in der gleichen Sache über Beschwerden entscheiden muss.[^3-1]
-
-[^3-1]: Delegation an die Baudirektion für die Genehmigung von gemeindlichen Bauvorschriften, Zonen- und Bebauungsplänen. Diese Delegation entfällt, wenn bestimmte Voraussetzungen nicht erfüllt sind (§ 7 Abs. 1 Ziff. 2 der Delegationsverordnung (DelV) vom 28. November 2017, BGS [153.3](https://bgs.zg.ch/data/153.3/de)).
+<sup>3</sup> Der Regierungsrat genehmigt die gemeindlichen Bauvorschriften, Zonen- und Sondernutzungspläne, sofern er in der gleichen Sache über Beschwerden entscheiden muss.
 
 #### § 4
 
