@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-10-11
+version: 2021-10-25
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211011/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211011-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211011/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211025/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211025-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211025/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211011/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 11 ottobre 2021)
+del 19 giugno 2020 (Stato 25 ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -632,7 +632,7 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 [^27-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020 (Proroga; spese per i test), in vigore dal 14 set. 2020 ([RU 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-## Capitolo 4*a*:**** Provvedimenti per proteggere i lavoratori particolarmente a rischio
+## Capitolo 4*a*: Provvedimenti per proteggere i lavoratori particolarmente a rischio
 
 [^chap4a-1]
 
@@ -752,7 +752,7 @@ Allegato 1*[^t-1]*
 
 ## Elenco dei Paesi e delle regioni a rischio
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 5 ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 599](https://fedlex.data.admin.ch/eli/oc/2021/599)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 20 ott. 2021, in vigore dal 25 ott. 2021 ([RU 2021 621](https://fedlex.data.admin.ch/eli/oc/2021/621)).
 
 ### 1. Paesi e regioni a rischio (art. 3 cpv. 2 lett. a)
 
@@ -761,12 +761,14 @@ Tutti gli Stati e regioni al di fuori dello spazio Schengen, tranne:
 - – Andorra
 - – Arabia Saudita
 - – Australia
+- – Bahrein
 - – Bulgaria
 - – Canada
 - – Cile
 - – Cipro
 - – Corea (Sud)
 - – Croazia
+- – Emirati Arabi Uniti
 - – Giordania
 - – Hong Kong
 - – Irlanda
@@ -888,7 +890,7 @@ Allegato 4*[^t-5]*
 - 48\. Soluzioni per infusioni
 - 49\. Sotrovimab
 
-### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001relativa ai dispositivi medici
+### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001****relativa ai dispositivi medici
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -1548,7 +1550,7 @@ Allegato 6*[^t-8]*
 <tr><td>Per l’emissione del certificato di test COVID-19</td><td>2.50 fr.</td></tr>
 </table>
 
-### 3.3**** ...
+### 3.3 ...
 
 [^annex6-lvlu1-lvl3-lvl33-1]
 
@@ -1561,7 +1563,7 @@ Allegato 6*[^t-8]*
 - 4\.3 Se su una persona sono eseguite dallo stesso fornitore di prestazioni un’analisi di biologia molecolare per il SARS-CoV-2 secondo il numero 1.1 e un rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti secondo il numero 1.5 o un sequenziamento del SARS-CoV-2 secondo il numero 1.6, la Confederazione assume *una tantum* l’importo per il disbrigo dell’incarico e i costi generali secondo i numeri 1.1.3 lettera b, 1.5.3 o 1.6.3.
 - 4\.4 Per le analisi per il SARS-CoV-2 nelle quali il campione è prelevato dalla persona testata stessa, il prelievo del campione non può essere fatturato.
 
-Allegato 7*[^t-9]*
+Allegato 7[^t-9]
 
 (art. 27*a* cpv. 10 e 11)
 

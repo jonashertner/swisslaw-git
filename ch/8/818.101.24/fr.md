@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-10-11
+version: 2021-10-25
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211011/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211011-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211011/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211025/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211025-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211025/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211011/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 11 octobre 2021)
+du 19 juin 2020 (Etat le 25 octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -745,13 +745,13 @@ Les tests rapides SARS-CoV-2 avec application par un professionnel autorisés en
 [^29-2]: Abrogé par le ch. II de l’O du 12 août 2020 (Port du masque obligatoire dans les aéronefs; grandes manifestations), avec effet au 15 août 2020 ([RO 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Introduit par le ch. I de l’O du 11 sept. 2020 (Prorogation; coûts des tests), en vigueur depuis le 14 sept. 2020 ([RO 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 3, al. 3, 4, al. 2<sup>ter</sup>, et 5)
 
 ## Liste des pays et régions à risque
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 5 oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 599](https://fedlex.data.admin.ch/eli/oc/2021/599)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 20 oct. 2021, en vigueur depuis le 25 oct. 2021 ([RO 2021 621](https://fedlex.data.admin.ch/eli/oc/2021/621)).
 
 ### 1. Liste des pays et régions à risque (art. 3, al. 2, let. a)
 
@@ -760,12 +760,14 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 - – Andorre
 - – Arabie saoudite
 - – Australie
+- – Bahreïn
 - – Bulgarie
 - – Canada
 - – Chili
 - – Chypre
 - – Corée (Sud)
 - – Croatie
+- – Émirats arabes unis
 - – Hong Kong
 - – Irlande
 - – Jordanie
@@ -780,8 +782,8 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 - – Saint-Siège
 - – Singapour
 - – Taïwan
-- – Ukraine
 - – Uruguay
+- – Ukraine
 
 ### 2. Pays et régions à risque avec un variant du virus SARS-CoV-2 dont le risque d’infection ou d’évolution grave de la maladie est plus élevé que pour le variant du virus qui prévaut dans l’espace Schengen (art. 3, al. 2, let. b)
 
