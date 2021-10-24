@@ -5,75 +5,75 @@ title: Vollzugsverordnung zum Personalgesetz
 short: "Personalverordnung, PersV"
 language: de
 version: 2021-01-01
-valid_until: 2023-09-30
+corrected: 2021-10-25
 version_adopted: 2020-12-15
 adopted: 2025-09-23
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/655/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/43/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Personalgesetz
+# Vollzugsverordnung zum Personalgesetz (Personalverordnung, PersV)<sup>14</sup>
 
-(Personalverordnung, PersV)
-
-vom 01.12.1998 (Stand 01.01.2021)
+vom 1. Dezember 1998<sup>1</sup>
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 11, 76 und 84 des Gesetzes vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz)[^ingress-1],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 11, 76 und 84 des Gesetzes vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz)<sup>2</sup>,
 
 beschliesst:
 
-[^ingress-1]: NG 165.1
-
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt im Rahmen der Art. 1–3 des Personalgesetzes für alle im öffentlichrechtlichen Arbeitsverhältnis beschäftigten Personen, soweit die Spezialgesetzgebung für einzelne Personalkategorien keine abweichenden Bestimmungen enthält.
+Diese Verordnung gilt im Rahmen der Art. 1-3 des Personalgesetzes für alle im öffentlichrechtlichen Arbeitsverhältnis beschäftigten Personen, soweit die Spezialgesetzgebung für einzelne Personalkategorien keine abweichenden Bestimmungen enthält.
 
 #### § 2
 
 **Anstellungsinstanz**
 
-<sup>1</sup> Die zuständige Anstellungsinstanz wird im Anhang 1 geregelt.
+Die zuständige Anstellungsinstanz wird im Anhang 1 geregelt.
 
 #### § 3
 
 **Arbeitsteilung**
 
-<sup>1</sup> Die Anstellungsinstanz kann eine Stelle oder einen Aufgabenbereich an zwei oder mehr Personen (Jobsharing) vergeben. Falls ein Mitglied einer Jobsharing-Gruppe kündigt, kann den andern Personen durch die Arbeitgeberin oder den Arbeitgeber ebenfalls gekündigt werden. Diese Kündigung gilt als wesentlicher Kündigungsgrund im Sinne von Art. 59 Abs. 1 des Personalgesetzes.
+Die Anstellungsinstanz kann eine Stelle oder einen Aufgabenbereich an zwei oder mehr Personen (Jobsharing) vergeben. Falls ein Mitglied einer Jobsharing-Gruppe kündigt, kann den andern Personen durch die Arbeitgeberin oder den Arbeitgeber ebenfalls gekündigt werden. Diese Kündigung gilt als wesentlicher Kündigungsgrund im Sinne von Art. 59 Abs. 1 des Personalgesetzes.
 
 #### § 4
 
 **Aufbewahrungsdauer für Personalakten**
 
-<sup>1</sup> Die Personalakten werden zehn Jahre nach dem Austritt dem Staatsarchiv übergeben.
+Die Personalakten werden zehn Jahre nach dem Austritt dem Staatsarchiv übergeben.
 
-## 2 Arbeitsfreie Tage, Ferien und Urlaub
+### II. ARBEITSFREIE TAGE, FERIEN UND URLAUB
 
 #### § 5
 
 **Arbeitsfreie Tage**
 
-<sup>1</sup> Arbeitsfrei sind die öffentlichen Ruhetage gemäss dem Ruhetagsgesetz[^5-1], die Samstage, die Nachheiligtage von Ostern, Pfingsten und Weihnachten sowie der Schmutzige Donnerstag.
-
-[^5-1]: NG 921.1
+Arbeitsfrei sind die öffentlichen Ruhetage gemäss dem Ruhetagsgesetz<sup>3</sup>, die Samstage, die Nachheiligtage von Ostern, Pfingsten und Weihnachten sowie der Schmutzige Donnerstag.
 
 #### § 6
 
-**Ferien 1. Dauer**
+**Ferien**
+
+- 1\. Dauer
 
 <sup>1</sup> Mitarbeiterinnen und Mitarbeiter haben je Kalenderjahr Anspruch auf folgende Ferientage:
 
 - 1\. bis und mit dem Kalenderjahr, in dem sie das 20. Altersjahr vollenden, 25 Arbeitstage;
+
 - 2\. von Beginn des Kalenderjahres an, in dem sie das 21. Altersjahr vollenden bis zum Kalenderjahr, in dem sie das 45. Altersjahr vollenden, 20 Arbeitstage;
+
 - 3\. von Beginn des Kalenderjahres an, in dem sie das 46. Altersjahr vollenden, bis zum Kalenderjahr, in dem sie das 59. Altersjahr vollenden, 25 Arbeitstage;
+
 - 4\. von Beginn des Kalenderjahres an, in dem sie das 60. Altersjahr vollenden, 30 Arbeitstage.
 
 <sup>2</sup> Wird das Arbeitsverhältnis während eines Kalenderjahres begründet oder aufgelöst, ist die Feriendauer im Verhältnis zur Anstellungszeit zu bemessen.
@@ -88,9 +88,9 @@ beschliesst:
 
 #### § 8
 
-**3. Nachbezug**
+**3. Nachbezug<sup>13</sup>**
 
-<sup>1</sup> Können Ferien aus betrieblichen oder anderen wichtigen Gründen im laufenden Kalenderjahr nicht bezogen werden, sind sie mit Zustimmung der vorgesetzten Person bis spätestens zum 30. April des folgenden Kalenderjahres nachzubeziehen. Danach verfallen nicht bezogene Ferien entschädigungslos.
+Können Ferien aus betrieblichen oder anderen wichtigen Gründen im laufenden Kalenderjahr nicht bezogen werden, sind sie mit Zustimmung der vorgesetzten Person bis spätestens zum 30. April des folgenden Kalenderjahres nachzubeziehen. Danach verfallen nicht bezogene Ferien entschädigungslos.
 
 #### § 9
 
@@ -114,9 +114,9 @@ beschliesst:
 
 **6. Kürzung**
 
-<sup>1</sup> Werden Mitarbeiterinnen oder Mitarbeiter infolge Krankheit, Schwangerschaft oder Unfall mehr als 20 Arbeitstage je Kalenderjahr an der Arbeitsleistung verhindert, wird die Dauer der Ferien je 20 weitere Arbeitstage der Verhinderung um einen Zwölftel gekürzt.
+<sup>1</sup> Werden Mitarbeiterinnen oder Mitarbeiter infolge Krankheit, Schwangerschaft oder Unfall mehr als 20 Arbeitstage je Kalenderjahr an der Arbeitsleistung verhindert, wird die Dauer der Ferien je 20 weitere Arbeitstage der Verhinderung um einen Zwölftel gekürzt.<sup>10</sup>
 
-<sup>2</sup> …
+<sup>2</sup> ...<sup>10</sup>
 
 <sup>3</sup> Bei unbezahltem Urlaub wird die Dauer der Ferien anteilsmässig gekürzt.
 
@@ -124,20 +124,41 @@ beschliesst:
 
 #### § 12
 
-**Urlaub 1. allgemein**
+**Urlaub**
+
+### 1. allgemein
 
 <sup>1</sup> Mitarbeiterinnen und Mitarbeiter können nach der Meldung an die vorgesetzte Person und soweit begründet höchstens folgende bezahlte Urlaubstage beziehen, sofern diese in die Arbeitszeit fallen:
 
-- 1\. für die Trauung oder die Begründung einer eingetragenen Partnerschaft: — 2 Tage
-- 2\. bei der Trauung oder der Begründung einer eingetragenen Partnerschaft von Kindern, Geschwistern oder eines Elternteils: — 1 Tag
-- 3\. bei der Geburt eines Kindes: — 10 Tage
+**2 Tage**
+
+- 1\. für die Trauung oder die Begründung einer eingetragenen Partnerschaft
+
+- 2\. bei der Trauung oder der Begründung einer eingetragenen Partnerschaft von Kindern, Geschwistern oder eines Elternteils 3.<sup>15</sup> bei der Geburt eines Kindes
+
+**1 Tag 10 Tage**
+
 - 4\. bei Todesfall:
-  - a) der Ehegattin, des Ehegatten, der Partnerin oder des Partners einer eingetragenen Partnerschaft, der Lebenspartnerin beziehungsweise des Lebenspartners oder eines Kindes: — 5 Tage
-  - b) von Eltern: — 2 Tage
-  - c) von Geschwistern, Grosseltern, Schwiegereltern, Eltern der Partnerin oder des Partners einer eingetragenen Partnerschaft, Onkeln, Tanten, Enkeln oder Schwägern: — 1 Tag
-- 5\. bei Wohnungswechsel: — 2 Tage
-- 6\. für die militärische Rekrutierung: die Anzahl Tage gemäss Aufgebot
-- 7\. für die Entlassung aus der Militärdienstpflicht: — 1 Tag
+
+- a)<sup>14</sup> der Ehegattin, des Ehegatten, der Partnerin oder des
+
+Partners einer eingetragenen Partnerschaft, der Le-
+
+benspartnerin beziehungsweise des Lebenspartners
+
+**5 Tage 2 Tage**
+
+oder eines Kindes b) von Eltern c) von Geschwistern, Grosseltern, Schwiegereltern, El-
+
+tern der Partnerin oder des Partners einer eingetra-
+
+genen Partnerschaft, Onkeln, Tanten, Enkeln oder
+
+**1 Tag 2 Tage**
+
+Schwägern 5. bei Wohnungswechsel 6. für die militärische Rekrutierung die Anzahl Tage gemäss Aufgebot 7.<sup>12</sup> für die Entlassung aus der Militärdienstpflicht
+
+**1 Tag**
 
 <sup>2</sup> Unbezahlter Urlaub kann nur unter Berücksichtigung betrieblicher oder anderer wichtiger Gründe bewilligt werden.
 
@@ -148,6 +169,7 @@ beschliesst:
 <sup>1</sup> Die Anstellungsinstanz kann nach Rücksprache mit dem Personalamt für unentgeltliche leitende, betreuende oder beratende Tätigkeit im Rahmen ausserschulischer Jugendarbeit in einer kulturellen oder sozialen Organisation sowie die dazu notwendige Aus- oder Weiterbildung höchstens fünf Urlaubstage je Kalenderjahr bewilligen.
 
 - 1\. Lehrlingen sowie Mitarbeiterinnen und Mitarbeitern bis zum vollendeten 30. Altersjahr;
+
 - 2\. Mitarbeiterinnen und Mitarbeitern, die das 30. Altersjahr vollendet haben, sofern sie zu gleichen Teilen auch ordentliche Ferientage zur Verfügung stellen.
 
 <sup>2</sup> Es besteht kein Rechtsanspruch auf Urlaub für ausserschulische Jugendarbeit.
@@ -158,25 +180,23 @@ beschliesst:
 
 <sup>1</sup> Die Anstellungsinstanz kann nach Rücksprache mit dem Personalamt für erforderliche Kurse, Rapporte oder Tagungen der Feuerwehr und weiterer Schutzdienste den Bezug von Urlaub bewilligen.
 
-<sup>2</sup> Entschädigungen für Kurse, Rapporte oder Tagungen, die während der ordentlichen Arbeitszeit stattfinden, sind nach einem Spesenabzug im Betrage von Fr. 60.– der Arbeitgeberin oder dem Arbeitgeber abzuliefern.
+<sup>2</sup> Entschädigungen für Kurse, Rapporte oder Tagungen, die während der ordentlichen Arbeitszeit stattfinden, sind nach einem Spesenabzug im Betrage von Fr. 60.- der Arbeitgeberin oder dem Arbeitgeber abzuliefern.
 
 <sup>3</sup> Es besteht kein Rechtsanspruch auf Urlaub für Schutzdienstleistungen.
 
 #### § 15
 
-**Mutterschaftsurlaub**
+**Mutterschaftsurlaub<sup>10</sup>**
 
 <sup>1</sup> Mitarbeiterinnen haben vom Tag der Niederkunft an Anspruch auf einen Mutterschaftsurlaub von 16 Wochen.
 
-<sup>2</sup> Dauerte das Arbeitsverhältnis vor dem Antritt des Urlaubs mindestens zwei Jahre, haben Mitarbeiterinnen während des gesamten Mutterschaftsurlaubs Anspruch auf die volle Entlöhnung. Andernfalls besteht Anspruch auf die Mutterschaftsentschädigung gemäss dem Bundesgesetz über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz)[^15-1].
+<sup>2</sup> Dauerte das Arbeitsverhältnis vor dem Antritt des Urlaubs mindestens zwei Jahre, haben Mitarbeiterinnen während des gesamten Mutterschaftsurlaubs Anspruch auf die volle Entlöhnung. Andernfalls besteht Anspruch auf die Mutterschaftsentschädigung gemäss dem Bundesgesetz über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz)<sup>11</sup>.
 
 <sup>3</sup> Die durch die Ausgleichskasse zu entrichtenden Erwerbsausfallentschädigungen fallen an die Arbeitgeberin oder den Arbeitgeber.
 
-<sup>4</sup> Der Mutterschaftsurlaub hat keine Kürzung des Ferienanspruchs zur Folge. Krankheits , Unfall- und Feiertage, die in die Zeit des Mutterschaftsurlaubs fallen, können nicht nachbezogen werden.
+<sup>4</sup> Der Mutterschaftsurlaub hat keine Kürzung des Ferienanspruchs zur Folge. Krankheits-, Unfall- und Feiertage, die in die Zeit des Mutterschaftsurlaubs fallen, können nicht nachbezogen werden.
 
-[^15-1]: SR 834.1
-
-## 3 Versicherungen
+### III. VERSICHERUNGEN
 
 #### § 16
 
@@ -184,11 +204,11 @@ beschliesst:
 
 <sup>1</sup> Bei Krankheit haben die Mitarbeiterinnen und Mitarbeiter für die ersten drei Monate Anspruch auf volle Entlöhnung. Für die folgende Zeit vermindert sich der Entlöhnungsanspruch auf den Betrag der Leistung der Krankentaggeldversicherung. Beträgt die Anstellungszeit bei der gleichen Arbeitgeberin oder beim gleichen Arbeitgeber sechs oder mehr Jahre, erhöht sich der Anspruch auf volle Entlöhnung auf sechs Monate.
 
-<sup>2</sup> Anschliessend richtet sich das Krankentaggeld nach dem jeweiligen Versicherungsvertrag; es wird bis zum 730. Tag zu 80% des im Durchschnitt der letzten zwölf Monate erzielten Lohnes ausbezahlt.
+<sup>2</sup> Anschliessend richtet sich das Krankentaggeld nach dem jeweiligen Versicherungsvertrag; es wird bis zum 730. Tag zu 80 % des im Durchschnitt der letzten zwölf Monate erzielten Lohnes ausbezahlt.<sup>12</sup>
 
-<sup>3</sup> Mitarbeiterinnen und Mitarbeiter, die das ordentliche AHV-Rentenalter erfüllt haben, erhalten während den ersten drei beziehungsweise sechs Monaten ebenfalls den vollen Lohn. Anschliessend richtet sich das Krankentaggeld nach dem jeweiligen Versicherungsvertrag; es wird für alle Krankheitsfälle zusammen während höchstens 180 Tagen, längstens bis zur Erfüllung des 70. Altersjahres, zu 80% des im Durchschnitt der letzten zwölf Monate erzielten Lohnes ausbezahlt.
+<sup>3</sup> Mitarbeiterinnen und Mitarbeiter, die das ordentliche AHV-Rentenalter erfüllt haben, erhalten während den ersten drei beziehungsweise sechs Monaten ebenfalls den vollen Lohn. Anschliessend richtet sich das Krankentaggeld nach dem jeweiligen Versicherungsvertrag; es wird für alle Krankheitsfälle zusammen während höchstens 180 Tagen, längstens bis zur Erfüllung des 70. Altersjahres, zu 80 % des im Durchschnitt der letzten zwölf Monate erzielten Lohnes ausbezahlt.<sup>12</sup>
 
-<sup>4</sup> Die Versicherungsleistung fällt an die Arbeitgeberin oder den Arbeitgeber.
+<sup>4</sup> Die Versicherungsleistung fällt an die Arbeitgeberin oder den Arbeitgeber.<sup>12</sup>
 
 #### § 17
 
@@ -196,7 +216,7 @@ beschliesst:
 
 <sup>1</sup> Bei Berufsunfällen haben die Mitarbeiterinnen und Mitarbeiter Anspruch auf die volle Entlöhnung bis zur Wiedererlangung der Arbeitsfähigkeit oder Pensionierung sowie auf die Bezahlung der Heilungskosten im Rahmen der Versicherungsbedingungen.
 
-<sup>2</sup> Bei Nichtberufsunfällen haben die Mitarbeiterinnen und Mitarbeiter, die acht oder mehr Wochenstunden (Lehrkräfte: 240 Minuten Nettounterrichtsdauer) bei der gleichen Arbeitgeberin oder dem gleichen Arbeitgeber arbeiten, Anspruch auf die Bezahlung der Heilungskosten sowie auf die volle Entlöhnung für die Dauer der ersten drei Monate. Für die folgende Zeit vermindert sich der Entlöhnungsanspruch auf den Betrag der Versicherungsleistung. Beträgt die Anstellungszeit bei der gleichen Arbeitgeberin oder beim gleichen Arbeitgeber sechs oder mehr Jahre, erhöht sich der Anspruch auf volle Entlöhnung auf sechs Monate.
+<sup>2</sup> Bei Nichtberufsunfällen haben die Mitarbeiterinnen und Mitarbeiter, die acht oder mehr Wochenstunden (Lehrkräfte: 240 Minuten Nettounterrichtsdauer) bei der gleichen Arbeitgeberin oder dem gleichen Arbeitgeber arbeiten, Anspruch auf die Bezahlung der Heilungskosten sowie auf die volle Entlöhnung für die Dauer der ersten drei Monate. Für die folgende Zeit vermindert sich der Entlöhnungsanspruch auf den Betrag der Versicherungsleistung. Beträgt die Anstellungszeit bei der gleichen Arbeitgeberin oder beim gleichen Arbeitgeber sechs oder mehr Jahre, erhöht sich der Anspruch auf volle Entlöhnung auf sechs Monate.<sup>10</sup>
 
 <sup>3</sup> Die Versicherungsleistung fällt an die Arbeitgeberin oder den Arbeitgeber.
 
@@ -204,15 +224,15 @@ beschliesst:
 
 **Einsichtsrecht**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter haben das Recht, in die Versicherungsverträge Einsicht zu nehmen.
+Mitarbeiterinnen und Mitarbeiter haben das Recht, in die Versicherungsverträge Einsicht zu nehmen.
 
-## 4 Internes Verfahren
+### IV. INTERNES VERFAHREN
 
 #### § 19
 
 **Allgemeines**
 
-<sup>1</sup> Der betroffenen Mitarbeiterin oder dem betroffenen Mitarbeiter ist zu Beginn des internen Verfahrens der zu untersuchende Sachverhalt zur Kenntnis zu geben.
+Der betroffenen Mitarbeiterin oder dem betroffenen Mitarbeiter ist zu Beginn des internen Verfahrens der zu untersuchende Sachverhalt zur Kenntnis zu geben.
 
 #### § 20
 
@@ -236,15 +256,17 @@ beschliesst:
 
 **Schriftlicher Bericht**
 
-<sup>1</sup> Der Abschlussbericht des internen Verfahrens hat den Ablauf der Untersuchung und den Sachverhalt zu enthalten.
+Der Abschlussbericht des internen Verfahrens hat den Ablauf der Untersuchung und den Sachverhalt zu enthalten.
 
-## 5 Schlussbestimmung
+### V. SCHLUSSBESTIMMUNG
+
+[^hVSCHLUSSBESTIMMUNG-1]: Fassung gemäss Regierungsratsbeschluss vom 1. September 2009, A 2009, 1605; in Kraft seit 15. September 2009
 
 #### § 22a
 
-**Ferienguthaben**
+**Ferienguthaben[^hVSCHLUSSBESTIMMUNG-1]**
 
-<sup>1</sup> Ferienguthaben, die bereits vor dem 1. Januar 2009 bestanden und bis 31. Dezember 2009 nicht bezogen werden können, sind gemäss § 10 Abs. 3 zu entschädigen.
+Ferienguthaben, die bereits vor dem 1. Januar 2009 bestanden und bis 31. Dezember 2009 nicht bezogen werden können, sind gemäss § 10 Abs. 3 zu entschädigen.
 
 #### § 23
 
@@ -260,24 +282,42 @@ beschliesst:
 [^23-4]: A 1991, 1717
 [^23-5]: A 1998, 748
 
-## A1 Anhang 1: Kompetenzenregelung
+### Kompetenzenregelung
 
-#### § A1-1
+**Individuelle Lohnanpassung**
 
-<sup>1</sup> Kompetenzenregelung:
+Personal- Anstellungs- Festlegung Personalkategorie bzw. des Anfangs- gespräch Entlassungs- lohnes[^hKompetenzenregelung-1] instanz[^hKompetenzenregelung-1],[^hKompetenzenregelung-2] Chefbeamtin- Regierungsrat Regierungsrat Direktions- Regierungsnen und vorsteherin rat -beamte bezie- oder hungsweise -vorsteher Amtsvorsteherinnen oder Amtsvorsteher
 
-<table>
-<tr><th>Personalkategorie</th><th>Anstellungs- bzw. Entlassungsinstanz[^A11-1][^A11-2]</th><th>Festlegung des Anfangslohnes[^A11-3]</th><th>Personalgespräch</th><th>Individuelle Lohnanpassung</th></tr>
-<tr><td>Chefbeamtinnen und ‑beamte beziehungsweise Amtsvorsteherinnen oder Amtsvorsteher</td><td>Regierungsrat</td><td>Regierungsrat</td><td>Direktionsvorsteherin oder ‑vorsteher</td><td>Regierungsrat</td></tr>
-<tr><td>Stellvertreterin oder Stellvertreter</td><td>Direktionsvorsteherin oder ‑vorsteher</td><td>Direktionsvorsteherin oder ‑vorsteher</td><td>Amtsvorsteherin oder ‑vorsteher</td><td>direkte und indirekte vorgesetzte Person; auf jeden Fall hat auch die Direktionsvorsteherin oder der Direktionsvorsteher den Lohnvorschlag zu visieren</td></tr>
-<tr><td>Abteilungsleiterin oder ‑leiter</td><td>Amtsvorsteherin oder ‑vorsteher</td><td>Amtsvorsteherin oder ‑vorsteher</td><td>Amtsvorsteherin oder ‑vorsteher</td><td>direkte und indirekte vorgesetzte Person; auf jeden Fall hat auch die Direktionsvorsteherin oder der Direktionsvorsteher den Lohnvorschlag zu visieren</td></tr>
-<tr><td>Mitarbeiterin, Mitarbeiter Ämter</td><td>Amtsvorsteherin oder ‑vorsteher</td><td>Amtsvorsteherin oder ‑vorsteher</td><td>Amtsvorsteherin oder ‑vorsteher</td><td>direkte und indirekte vorgesetzte Person; auf jeden Fall hat auch die Direktionsvorsteherin oder der Direktionsvorsteher den Lohnvorschlag zu visieren</td></tr>
-<tr><td>Mitarbeiterin, Mitarbeiter Abteilungen</td><td>Abteilungsleiterin oder ‑leiter</td><td>Abteilungsleiterin oder ‑leiter</td><td>Abteilungsleiterin oder ‑leiter</td><td>direkte und indirekte vorgesetzte Person; auf jeden Fall hat auch die Direktionsvorsteherin oder der Direktionsvorsteher den Lohnvorschlag zu visieren</td></tr>
-<tr><td>Auszubildende</td><td>Personalamt</td><td>Personalamt</td><td>Berufsbildnerin oder Berufsbildner</td><td>Personalamt</td></tr>
-</table>
+**indirekte vorgesetzte Person;**
 
-[^A11-1]: Alle Entscheide müssen in Zusammenarbeit mit dem Personalamt vorbereitet werden.
-[^A11-2]: Entlassungen bedürfen zu ihrer Gültigkeit der Zustimmung des Regierungsrates.
-[^A11-3]: Alle Entscheide müssen in Zusammenarbeit mit dem Personalamt vorbereitet werden.
+Stellvertreterin Direktions- Direktions- Amtsvorstehe- direkte und oder Stellver- vorsteherin vorsteherin rin oder treter oder oder -vorsteher -vorsteher -vorsteher auf jeden Abteilungs- Amtsvor- Amtsvor- Amtsvorleiterin oder steherin oder steherin oder steherin oder auch die -leiter - vorsteher -vorsteher -vorsteher vorsteherin Mitarbeiterin, Amtsvor- Amtsvor- Amtsvor-Mitarbeiter steherin oder steherin oder steherin oder Direktions-Ämter -vorsteher -vorsteher -vorsteher den Mitarbeiterin, Abteilungs- Abteilungs- Abteilungs- Lohn-Mitarbeiter leiterin oder leiterin oder leiterin oder vorschlag Abteilungen -leiter -leiter -leiter
 
-A 1998, 2189
+**Fall hat**
+
+**Direktions-**
+
+**oder der**
+
+**vorsteher**
+
+**zu visieren**
+
+**amt**
+
+Auszubildende[^hKompetenzenregelung-3] Personalamt Personalamt Berufsbildnerin Personal- oder Berufsbildner[^hKompetenzenregelung-3]
+
+[^hKompetenzenregelung-1]: Alle Entscheide müssen in Zusammenarbeit mit dem Personalamt vorbereitet werden.
+[^hKompetenzenregelung-2]: Entlassungen bedürfen zu ihrer Gültigkeit der Zustimmung des Regierungsrates.
+[^hKompetenzenregelung-3]: Fassung gemäss Regierungsratsbeschluss vom 13. November 2007; A 2007, 1866
+
+## Weitere Fussnoten
+
+- [1] A 1998, 2189
+- [2] NG 165.1
+- [3] NG 921.1
+- [9] Fassung gemäss Regierungsratsbeschluss vom 20. November 2001, A 2001, 1699; in Kraft seit 1. Januar 2002
+- [10] Fassung gemäss Regierungsratsbeschluss vom 20. Juni 2006, A 2006, 1077; in Kraft seit 1. Juli 2006
+- [11] SR 834.1
+- [12] Fassung gemäss Regierungsratsbeschluss vom 13. November 2007, A 2007, 1866; in Kraft seit 1. Januar 2008
+- [14] Fassung gemäss Regierungsratsbeschluss vom 5. November 2013, A 2013, 1934; in Kraft seit 1. Januar 2014
+- [15] Fassung gemäss Regierungsratsbeschluss vom 15. Dezember 2020, A 2020, 2515; in Kraft seit 1. Januar 2021
