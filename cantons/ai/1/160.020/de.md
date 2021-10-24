@@ -4,13 +4,12 @@ number: "160.020"
 title: Verordnung über ausserordentliche Urnenabstimmungen
 short: VaU
 language: de
-version: 2021-02-08
-valid_until: 2021-10-24
-version_adopted: 2021-02-08
+version: 2021-10-25
+version_adopted: 2021-10-25
 adopted: 2021-02-08
 in_force: 2021-02-08
 url: "https://ai.clex.ch/app/de/texts_of_law/160.020"
-pdf: "https://ai.clex.ch/api/de/versions/1899/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1956/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1899/pdf_file"
 
 (VaU)
 
-vom 08.02.2021 (Stand 08.02.2021)
+vom 08.02.2021 (Stand 25.10.2021)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
@@ -107,7 +106,7 @@ beschliesst:
 <sup>1</sup> Für das Einreichen von Gegenvorschlägen gilt:
 
 - a) Für Gegenvorschläge ist das amtliche Formular zu verwenden. Die Ratskanzlei stellt das amtliche Formular auf dem Internet zur Verfügung und stellt es auf Verlangen zu.
-- b) Der Gegenvorschlag muss von einer eindeutig bezeichneten, stimmberechtigten Person eingereicht und unterschrieben sein.
+- b) Jeder Gegenvorschlag muss von 10 in der fraglichen Körperschaft stimmberechtigten Personen unterzeichnet sein; die Unterzeichnenden müssen mit Namen, Vornamen, Adresse und Geburtsdatum angegeben sein.
 - c) Die als Gegenvorschlag genannte Person muss eindeutig bezeichnet und wählbar sein.
 - d) Der Gegenvorschlag enthält die Bezeichnung der Person und des Amts, gegen die sich der Gegenvorschlag richtet.
 
@@ -121,11 +120,11 @@ beschliesst:
 
 <sup>1</sup> Gültig eingegangene Gegenvorschläge werden amtlich mitgeteilt. Die als Gegenvorschlag genannten Personen und die Personen, gegen die sich der Gegenvorschlag richtet, erhalten eine schriftliche Mitteilung.
 
-<sup>2</sup> Sind Gegenvorschläge auf einem falschen Formular, unvollständig, unleserlich oder fehlerhaft vorgenommen worden, wird der einreichenden Person eine kurze Frist zur Nachbesserung gegeben.
+<sup>2</sup> Sind Gegenvorschläge auf einem falschen Formular, unvollständig, unleserlich oder fehlerhaft vorgenommen worden, wird der Ansprechperson eine kurze Frist zur Nachbesserung gegeben. Als Ansprechperson gilt, wer zuerst unterzeichnet hat; ist diese nicht erreichbar, gilt die nachfolgende Person als Ansprechperson.
 
-<sup>3</sup> Ungültige Gegenvorschläge werden als nicht eingereicht behandelt, was der einreichenden Person mitgeteilt wird.
+<sup>3</sup> Ungültige Gegenvorschläge werden als nicht eingereicht behandelt, was der Ansprechperson mitgeteilt wird.
 
-<sup>4</sup> Ist ein Gegenvorschlag von mehreren Personen eingereicht worden, geht die Aufforderung zur Nachbesserung oder die Mitteilung über die Ungültigkeit einzig an die erstunterzeichnende Person. Ist diese nicht sofort erreichbar, geht sie an die nachfolgende Person.
+<sup>4</sup>
 
 #### Art. 10
 
