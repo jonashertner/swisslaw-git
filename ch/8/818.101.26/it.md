@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: it
-version: 2021-10-11
+version: 2021-10-25
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211011/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211011-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211011/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211025/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211025-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211025/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211011/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 23 giugno 2021 (Stato 11 ottobre 2021)
+del 23 giugno 2021 (Stato 25 ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -55,22 +55,11 @@ Sono considerate persone con un certificato ai sensi della presente ordinanza le
 - a. un certificato COVID-19 secondo l’articolo 1 lettera a dell’ordinanza del 4 giugno 2021[^3-1] sui certificati COVID-19;
 - b. un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
 
-<sup>2</sup>
-
-Sono equiparate a un certificato secondo il capoverso 1 le altre attestazioni fornite per una vaccinazione effettuata all’estero con un vaccino che:
-
-- a. ha ottenuto l’autorizzazione dell’Agenzia europea per i medicinali per l’UE ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
-- b. presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo la lettera a, ma è immesso in commercio da un licenziatario con un altro nome ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione.[^3-2]
+<sup>2</sup> ...[^3-2]
 
 <sup>2bis</sup> Sono equiparati a un certificato secondo il capoverso 1 le attestazioni comprovanti che una persona non può essere vaccinata né testata per motivi medici. Per l’attestazione è necessario un attestato rilasciato da un medico abilitato all’esercizio della professione sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006<sup>2</sup> sulle professioni mediche.[^3-3]
 
-<sup>3</sup>
-
-L’attestazione deve corrispondere a una forma di attestazione attualmente consueta e deve essere presentata in tedesco, inglese, francese, italiano o spagnolo o come traduzione autenticata ufficialmente in una di queste lingue. Oltre al cognome, al nome e alla data di nascita del titolare, deve contenere le seguenti informazioni:
-
-- a. luogo o Paese in cui è stata somministrata la vaccinazione;
-- b. data della vaccinazione;
-- c. vaccino somministrato.[^3-4]
+<sup>3</sup> ...[^3-4]
 
 [^3-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^3-2]: Introdotto dal n. III dell’O del 17 set. 2021, in vigore dal 20 set. 2021 al 24 ott. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
@@ -440,12 +429,9 @@ Se l’accesso alle attività di insegnamento e ricerca di cui al capoverso 1 no
 
 Alle persone che svolgono attività sportive o culturali si applica quanto segue:
 
-a. non vige l’obbligo né di portare una mascherina facciale né di rispettare la distanza obbligatoria;
-
-b.[^20-1] se le attività sono svolte nel quadro di manifestazioni, si applicano gli articoli 14–15 per quanto riguarda le limitazioni dell’accesso, del numero di persone e della capienza;
-
-c. deve essere elaborato e attuato un piano di protezione soltanto se le attività in gruppo sono svolte da più di cinque persone; alle persone che svolgono le attività in un rapporto d’impiego si applicano le prescrizioni di cui all’articolo 25;
-
+- a. non vige l’obbligo né di portare una mascherina facciale né di rispettare la distanza obbligatoria;
+- b.[^20-1] se le attività sono svolte nel quadro di manifestazioni, si applicano gli articoli 14–15 per quanto riguarda le limitazioni dell’accesso, del numero di persone e della capienza;
+- c. deve essere elaborato e attuato un piano di protezione soltanto se le attività in gruppo sono svolte da più di cinque persone; alle persone che svolgono le attività in un rapporto d’impiego si applicano le prescrizioni di cui all’articolo 25;
 - d.[^20-2]
 
   se le attività sono svolte in luoghi chiusi:

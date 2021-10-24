@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2021-10-11
+version: 2021-10-25
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211011/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211011-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211011/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211025/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211025-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211025/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 11 October 2021)
+of 23 June 2021 (Status as of 25 October 2021)
 
 The Swiss Federal Council,
 
@@ -56,25 +56,13 @@ ordains:
 Persons with a certificate in terms of this Ordinance are persons who hold one of the following certificates:
 
 - a. a COVID-19 certificate in accordance with Article 1 letter a of the COVID-19 Ordinance on Certificates of 4 June 2021[^3-1];
-- [tab]
 - b. a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates.
 
-<sup>2</sup>
-
-Further proof of vaccination administered abroad equivalent to a certificate under paragraph 1 are those involving a vaccine that:
-
-- a. has authorisation for the EU from the European Medicines Agency and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out;
-- b. has been shown to have the same composition as a vaccine licensed under letter a but marketed by a licence holder under a different name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.[^3-2]
+<sup>2</sup> ...[^3-2]
 
 <sup>2bis</sup> Documentary proof that a person can neither be vaccinated nor tested on medical grounds is equivalent to a certificate under paragraph 1. As proof, a medical certificate from a doctor who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^3-3] is required.[^3-4]
 
-<sup>3</sup>
-
-The proof must be a currently customary form of proof and be submitted in German, English, French, Italian or Spanish or in an officially certified translation in one of these languages. In addition to the surname, first name and date of birth of the person concerned, it must contain the following information:
-
-- a. the place or country in which the vaccine was administered;
-- b. the date of vaccination;
-- c. the vaccine administered.[^3-5]
+<sup>3</sup> ...[^3-5]
 
 [^3-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^3-2]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 24 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).

@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2021-10-11
+version: 2021-10-25
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211011/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211011-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211011/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211025/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211025-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211025/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211011/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 11. Oktober 2021)
+vom 23. Juni 2021 (Stand am 25. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -48,27 +48,18 @@ verordnet:
 
 **Personen mit einem Zertifikat**
 
+<sup>1</sup>
+
 Als Personen mit einem Zertifikat im Sinne dieser Verordnung gelten Personen, die über eines der folgenden Zertifikate verfügen:
 
 - a. ein Covid-19-Zertifikat nach Artikel 1 Buchstabe a der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^3-1];
 - b. ein anerkanntes ausländisches Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate.
 
-<sup>2</sup>
-
-Einem Zertifikat nach Absatz 1 gleichgestellt sind weitere Nachweise für eine im Ausland erhaltene Impfung mit einem Impfstoff, der:
-
-- a. über eine Zulassung der Europäischen Arzneimittelagentur für die EU verfügt und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde;
-- b. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.[^3-2]
+<sup>2</sup> ...[^3-2]
 
 <sup>2bis</sup> Einem Zertifikat nach Absatz 1 gleichgestellt sind Nachweise, die belegen, dass eine Person aus medizinischen Gründen weder geimpft noch getestet werden kann. Für den Nachweis ist ein Attest einer Ärztin oder eines Arztes erforderlich, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006[^3-3] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist.[^3-4]
 
-<sup>3</sup>
-
-Der Nachweis muss einer aktuell üblichen Nachweisform entsprechen und in deutscher, englischer, französischer, italienischer oder spanischer Sprache oder in einer amtlich beglaubigten Übersetzung in einer dieser Sprachen eingereicht werden. Er muss neben dem Namen, Vornamen und Geburtsdatum der betreffenden Person folgende Angaben enthalten:
-
-- a. Ort oder Land, in dem die Impfung durchgeführt wurde;
-- b. Datum der Impfung;
-- c. verwendeter Impfstoff.[^3-5]
+<sup>3</sup> ...[^3-5]
 
 [^3-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^3-2]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 24. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).

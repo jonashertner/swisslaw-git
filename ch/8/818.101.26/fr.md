@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: fr
-version: 2021-10-11
+version: 2021-10-25
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211011/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211011-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211011/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211025/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211025-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211025/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211011/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 23 juin 2021 (Etat le 11 octobre 2021)
+du 23 juin 2021 (Etat le 25 octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -55,22 +55,11 @@ Sont considérées comme personnes disposant d’un certificat au sens de la pr�
 - a. un certificat COVID-19 au sens de l’art. 1, let. a, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^3-1];
 - b. un certificat étranger reconnu au sens de la section 7 de l’ordonnance COVID-19 certificats.
 
-<sup>2</sup>
-
-Sont assimilées à un certificat au sens de l’al. 1 les autres attestations délivrées pour une vaccination effectuée à l’étranger avec un vaccin:
-
-- a. qui a obtenu une autorisation de l’Agence européenne des médicaments pour l’UE et qui a été entièrement administré conformément aux prescriptions ou aux recommandations de l’État dans lequel il a été administré;
-- b. dont il peut être prouvé qu’il a la même composition que celle d’un vaccin autorisé en vertu de la let. a mais qui est mis en circulation par un preneur de licence sous un autre nom et qui a été entièrement administré conformément aux prescriptions ou aux recommandations de l’État dans lequel il a été administré.[^3-2]
+<sup>2</sup> ...[^3-2]
 
 <sup>2bis</sup> Sont assimilées à un certificat au sens de l’al. 1 les attestations certifiant que, pour des raisons médicales, une personne ne peut ni se faire vacciner ni se faire tester. Pour justifier de raisons médicales, la personne doit présenter une attestation délivrée par un médecin habilité à exercer sous sa propre responsabilité professionnelle en vertu de la loi du 23 juin 2006 sur les professions médicales[^3-3].[^3-4]
 
-<sup>3</sup>
-
-L’attestation doit correspondre à une forme actuellement usuelle et doit être fournie en allemand, en anglais, en français, en espagnol ou dans une traduction certifiée conforme dans une des langues mentionnées. Outre le nom, les prénoms et la date de naissance de la personne concernée, elle doit contenir les informations suivantes:
-
-- a. le lieu ou le pays où le vaccin a été administré;
-- b. la date de la vaccination;
-- c. le vaccin administré.[^3-5]
+<sup>3</sup> ...[^3-5]
 
 [^3-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^3-2]: Introduit par le ch. III de l’O du 17 sept. 2021, en vigueur du 20 sept. au 24 oct. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
@@ -173,7 +162,7 @@ Sont exemptées de la quarantaine-contact pour se rendre au travail et exercer l
 
 - a. le plan permet au personnel de se faire tester facilement et prévoit de l’informer régulièrement des avantages que le test procure;
 - b. le personnel peut se faire tester au minimum une fois par semaine;
-- c. les conditions pour la prise en charge des tests par la Confédération au sens de l’annexe 6, ch. 3.1 et 3.2, de l’ordonnance 3 COVID-19 du 19 juin 2020[[^7-1]](https://www.fedlex.admin.ch/eli/cc/2020/439/fr) sont remplies.
+- c. les conditions pour la prise en charge des tests par la Confédération au sens de l’annexe 6, ch. 3.1 et 3.2, de l’ordonnance 3 COVID-19 du 19 juin 2020[^7-1] sont remplies.
 
 <sup>5</sup> Les personnes visées à l’al. 4 doivent respecter la quarantaine-contact en dehors de leur activité professionnelle et du trajet pour se rendre au travail.
 
@@ -694,7 +683,7 @@ Annexe 2*[^t-2]*
 
 ## Prescriptions concernant les exemptions de l’obligation de porter un masque et de la quarantaine-contact pour les personnes vaccinées et guéries
 
-[^t-2]: Mise à jour par le ch. II de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur du 13 sept. 2021 au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) et l’annexe ch. 4 de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-2]: Mise à jour par le ch. II de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur jusqu’au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) et l’annexe ch. 4 de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ### 1 Personnes vaccinées
 
