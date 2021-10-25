@@ -4,28 +4,31 @@ number: "842.2"
 title: Interkantonale Vereinbarung über die Fischerei im Vierwaldstättersee
 language: de
 version: 1979-12-12
+corrected: 2021-10-26
 version_adopted: 1978-09-29
 adopted: 1978-09-29
 in_force: 1979-12-12
 url: "https://gesetze.nw.ch/app/de/texts_of_law/842.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/686/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/381/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Interkantonale Vereinbarung über die Fischerei im Vierwaldstättersee
 
-vom 29.09.1978 (Stand 12.12.1979)
+vom 29. September 1978[^t-1]
 
 Die Kantone Luzern, Uri, Schwyz, Obwalden und Nidwalden,
 
-in Anwendung von Art. 4 des Bundesgesetzes vom 14. Dezember 1979 über die Fischerei[^ingress-1], treffen über die Fischerei im Vierwaldstättersee
+in Anwendung von Art. 4 des Bundesgesetzes vom 14. Dezember 1979 über die Fischerei[^t-2], treffen über die Fischerei im Vierwaldstättersee folgende
 
-folgende Vereinbarung:
+Vereinbarung
 
-[^ingress-1]: SR 923.0
+I. ORGANISATION
 
-## 1 Organisation
+[^t-1]: A 1979, 21; vom Landrat genehmigt am 5. Januar 1979, A 1979, 20; vom Bundesrat genehmigt am 12. Dezember 1979
+[^t-2]: SR 923.0
 
 #### § 1
 
@@ -36,7 +39,9 @@ folgende Vereinbarung:
 <sup>2</sup> Als Organe walten:
 
 - 1\. Die Fischereikommission
+
 - 2\. Die Geschäftsstelle
+
 - 3\. Die Fischereiaufsicht.
 
 #### § 2
@@ -48,14 +53,16 @@ folgende Vereinbarung:
 <sup>2</sup> Die Fischereikommission besammelt sich auf Einladung des Präsidenten jährlich mindestens einmal. Sie führt die Oberaufsicht und amtet als Vollzugsorgan der Vereinbarung. Sie ist insbesondere zuständig für:
 
 - 1\. Die Anordnung von Massnahmen zur Förderung eines gesunden und ertragreichen Fischbestandes und die Aufsicht über die Ausübung der Berufs- und Sportfischerei.
+
 - 2\. Die Bezeichnung der zulässigen Fanggeräte und Methoden nach Art, Anzahl und Verwendung, das Festlegen der Schonzeiten, Fangmasse, Fangeinschränkungen und die Festsetzung der Bewilligungsbedingungen.
+
 - 3\. Die alljährliche Genehmigung der Rechnung und des Voranschlages.
 
 #### § 3
 
 **Geschäftsstelle**
 
-<sup>1</sup> Als Geschäftsstelle der Fischereikommission amtet die Fischereiverwaltung des Kantons Luzern. Sie führt die Rechnung, kontrolliert die Fischfangstatistiken, übt die Aufsicht aus über den Fischeinsatz, prüft Verbesserungsvorschläge und orientiert die Fischereikommission über die besondern fischereilichen Belange.
+Als Geschäftsstelle der Fischereikommission amtet die Fischereiverwaltung des Kantons Luzern. Sie führt die Rechnung, kontrolliert die Fischfangstatistiken, übt die Aufsicht aus über den Fischeinsatz, prüft Verbesserungsvorschläge und orientiert die Fischereikommission über die besondern fischereilichen Belange.
 
 #### § 4
 
@@ -65,13 +72,13 @@ folgende Vereinbarung:
 
 <sup>2</sup> Die Fischereikommission umschreibt die Befugnisse und Aufgaben der Fischereiaufseher in einer Richtlinie.
 
-## 2 Fischereiberechtigung
+### II. FISCHEREIBERECHTIGUNG
 
 #### § 5
 
 **Freiangelfischerei**
 
-<sup>1</sup> Unter Vorbehalt privater Fischereirechte darf jedermann den Fischfang vom Ufer aus gemäss den kantonalen Bestimmungen ausüben.
+Unter Vorbehalt privater Fischereirechte darf jedermann den Fischfang vom Ufer aus gemäss den kantonalen Bestimmungen ausüben.
 
 #### § 6
 
@@ -103,13 +110,7 @@ folgende Vereinbarung:
 
 <sup>1</sup> Die Bewerber für ein Berufsfischerpatent haben sich über eine bestandene Fachprüfung an einer anerkannten Fischereischule auszuweisen.
 
-<sup>2</sup> Die Zahl der Berufsfischerpatente pro Kanton wird wie folgt begrenzt:
-
-- 1\. Kanton Luzern: — 10 Patente
-- 2\. Kanton Uri: — 3 Patente
-- 3\. Kanton Schwyz: — 5 Patente
-- 4\. Kanton Obwalden: — 1 Patent
-- 5\. Kanton Nidwalden: — 12 Patente
+<sup>2</sup> Die Zahl der Berufsfischerpatente pro Kanton wird wie folgt begrenzt: Kanton Luzern 10 Patente Kanton Uri 3 Patente Kanton Schwyz 5 Patente Kanton Obwalden 1 Patent Kanton Nidwalden 12 Patente
 
 <sup>3</sup> Die für die Fischerei zuständigen Amtsstellen orientieren die Geschäftsstelle der Fischereikommission über Mutationen bei den Berufsfischern.
 
@@ -117,21 +118,21 @@ folgende Vereinbarung:
 
 **Uferbetretungsrecht**
 
-<sup>1</sup> Das Uferbetretungsrecht wird durch die Kantone geregelt.
+Das Uferbetretungsrecht wird durch die Kantone geregelt.
 
-## 3 Hebung des Fischbestandes
+### III. HEBUNG DES FISCHBESTANDES
 
 #### § 10
 
 **Brutanstalten**
 
-<sup>1</sup> Zur Vermehrung und Veredelung des Fischbestandes betreiben die Kantone allein oder gemeinsam Brutanstalten.
+Zur Vermehrung und Veredelung des Fischbestandes betreiben die Kantone allein oder gemeinsam Brutanstalten.
 
 #### § 11
 
 **Gewinnung des Brutmaterials**
 
-<sup>1</sup> Die Fischereikommission kann den Kantonen zur Gewinnung von Brutmaterial für die künstliche Fischzucht die Abgabe einer besonderen Laichfischfangbewilligung gestatten.
+Die Fischereikommission kann den Kantonen zur Gewinnung von Brutmaterial für die künstliche Fischzucht die Abgabe einer besonderen Laichfischfangbewilligung gestatten.
 
 #### § 12
 
@@ -159,33 +160,29 @@ folgende Vereinbarung:
 
 <sup>2</sup> Projekte für den Bau und Betrieb von Anlagen und Gesuche für Konzessionen, welche sich auf irgend eine Art auf die Fischerei auswirken können, sind der Fischereikommission zur Vernehmlassung zu unterbreiten.
 
-## 4 Finanzierung
+### IV. FINANZIERUNG
 
 #### § 15
 
 **Entschädigung durch die Kantone**
 
-<sup>1</sup> Die Entschädigung der Mitglieder der Fischereikommission und der Fischereiaufseher ist Sache der betreffenden Kantone.
+Die Entschädigung der Mitglieder der Fischereikommission und der Fischereiaufseher ist Sache der betreffenden Kantone.
 
 #### § 16
 
 **Geschäftsstelle**
 
-<sup>1</sup> Die Entschädigung für die Geschäftsstelle wird von der Fischereikommission mit dem Kanton Luzern vereinbart.
+Die Entschädigung für die Geschäftsstelle wird von der Fischereikommission mit dem Kanton Luzern vereinbart.
 
 #### § 17
 
 **Kostenverteilung**
 
-<sup>1</sup> Die Kosten werden von den beteiligten Kantonen im folgenden Verhältnis getragen:
+Die Kosten werden von den beteiligten Kantonen im folgenden Verhältnis getragen:
 
-- 1\. 35% für den Kanton Luzern
-- 2\. 30% für den Kanton Nidwalden
-- 3\. 15% für den Kanton Uri
-- 4\. 15% für den Kanton Schwyz
-- 5\. 5% für den Kanton Obwalden
+35 % für den Kanton Luzern 30 % für den Kanton Nidwalden 15 % für den Kanton Uri 15 % für den Kanton Schwyz 5 % für den Kanton Obwalden
 
-## 5 Strafbestimmungen
+### V. STRAFBESTIMMUNGEN
 
 #### § 18
 
@@ -211,35 +208,32 @@ folgende Vereinbarung:
 
 <sup>2</sup> Widerrechtlich gefangene Tiere sind zugunsten des Staates oder des geschädigten Fischereiberechtigten zu verwerten.
 
-## 6 Übergangs- und Schlussbestimmungen
+### VI. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### § 21
 
 **Berufsfischer**
 
-<sup>1</sup> Berufsfischer, die zum Zeitpunkt des Inkrafttretens der Vereinbarung ein Berufsfischerpatent besitzen, sind von der Fachprüfung befreit.
+Berufsfischer, die zum Zeitpunkt des Inkrafttretens der Vereinbarung ein Berufsfischerpatent besitzen, sind von der Fachprüfung befreit.
 
 #### § 22
 
 **Vollzug**
 
-<sup>1</sup> Die Fischereikommission erlässt die erforderlichen Ausführungsbestimmungen.
+Die Fischereikommission erlässt die erforderlichen Ausführungsbestimmungen.
 
 #### § 23
 
 **Geltungsdauer**
 
-<sup>1</sup> Die Vereinbarung wird auf unbestimmte Zeit abgeschlossen. Sie kann von einem Kanton unter Einhaltung einer Kündigungsfrist von einem Jahr jeweils auf Ende des folgenden Jahres gekündigt werden.
+Die Vereinbarung wird auf unbestimmte Zeit abgeschlossen. Sie kann von einem Kanton unter Einhaltung einer Kündigungsfrist von einem Jahr jeweils auf Ende des folgenden Jahres gekündigt werden.
 
 #### § 24
 
 **Inkrafttreten**
 
-<sup>1</sup> Die Vereinbarung tritt nach Annahme durch die beteiligten Kantone[^24-1] und mit der Genehmigung durch den Bundesrat in Kraft[^24-2].
+<sup>1</sup> Die Vereinbarung tritt nach Annahme durch die beteiligten Kantone[^24-1] und mit der Genehmigung durch den Bundesrat in Kraft.
 
 <sup>2</sup> Auf diesen Termin werden das Konkordat über die Fischerei im Vierwaldstättersee vom 9. Juni 1931 sowie die gestützt darauf erlassenen Beschlüsse der Kommission aufgehoben.
 
 [^24-1]: Vom Regierungsrat des Kantons Luzern am 13. Juli 1979, vom Regierungsrat des Kantons Uri am 4. Dezember 1978, vom Regierungsrat des Kantons Schwyz am 23. Juli 1979, vom Regierungsrat des Kantons Obwalden am 19. Februar 1979, vom Landrat des Kantons Nidwalden am 5. Januar 1979 genehmigt.
-[^24-2]: Vom Bundesrat genehmigt am 12. Dezember 1979
-
-A 1979, 20, 21
