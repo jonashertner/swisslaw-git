@@ -5,31 +5,32 @@ title: Einführungsgesetz zum Bundesgesetz über den Wald
 short: "Kantonales Waldgesetz, kWaG"
 language: de
 version: 2020-11-01
-valid_until: 2025-03-31
+corrected: 2021-10-26
 version_adopted: 2020-02-12
 adopted: 1998-03-11
 in_force: 1999-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/831.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/694/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/367/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zum Bundesgesetz über den Wald
+# Einführungsgesetz zum Bundesgesetz über den Wald (Kantonales Waldgesetz, kWaG)
 
-(Kantonales Waldgesetz, kWaG)
-
-vom 11.03.1998 (Stand 01.11.2020)
+vom 11. März 1998[^t-2][^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 21 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 4. Oktober 1991 über den Wald (Waldgesetz, WaG)[^ingress-1],
+gestützt auf Art. 21 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 4. Oktober 1991 über den Wald (Waldgesetz, WaG)[^t-3],
 
 beschliesst:
 
-[^ingress-1]: SR 921.0
+[^t-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+[^t-2]: A 1998, 425, 1048; vom Bund genehmigt am 27. Mai 1998
+[^t-3]: SR 921.0
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -38,9 +39,13 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz bezweckt:
 
 - 1\. den Wald zu erhalten;
+
 - 2\. dafür zu sorgen, dass der Wald seine Schutz- und Wohlfahrtsfunktion erfüllen kann;
+
 - 3\. den Wald als naturnahe Lebensgemeinschaft wildlebender Pflanzen und Tiere zu schützen;
+
 - 4\. die nachhaltige und schonende Bewirtschaftung des Waldes sowie die Versorgung mit dem Rohstoff Holz zu sichern und zu fördern;
+
 - 5\. die Waldwirtschaft und die Verwendung von einheimischen Holz zu fördern.
 
 <sup>2</sup> Dieses Gesetz soll dazu beitragen, dass Menschen und erhebliche Sachwerte vor Lawinen, Rutschungen, Erosion und Steinschlag geschützt werden.
@@ -55,33 +60,39 @@ beschliesst:
 
 <sup>2</sup> Eine bestockte Fläche gilt in Ausführung von Art. 1 der Verordnung vom 30. November 1992 über den Wald (Waldverordnung, WaV)[^2-1] als Wald, wenn sie folgende Minimalerfordernisse aufweist:
 
-- 1\. Fläche mit Einschluss des Waldsaumes: 600 m²;
+- 1\. Fläche mit Einschluss des Waldsaumes: 600 m2;
+
 - 2\. Breite mit Einschluss des Waldsaumes: 12 m;
+
 - 3\. Alter der Bestockung auf Einwuchsflächen: 20 Jahre.
 
 <sup>3</sup> Erfüllt die Bestockung in besonderem Masse Wohlfahrts- oder Schutzfunktionen, so gilt sie unabhängig von ihrer Fläche, ihrer Breite und ihrem Alter als Wald.
 
 [^2-1]: SR 921.01
 
-## 2 Schutz des Waldes vor Eingriffen
+### II. SCHUTZ DES WALDES VOR EINGRIFFEN
 
-### 2.1 Rodung
+### A. Rodung
 
 #### Art. 3
 
 **Zuständigkeit**
 
-<sup>1</sup> Die zuständige Direktion erteilt Ausnahmebewilligungen für Rodungen, soweit nicht der Bund zuständig ist.
+Die zuständige Direktion erteilt Ausnahmebewilligungen für Rodungen, soweit nicht der Bund zuständig ist.
+
+[^3-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 4
 
-**Verfahren**
+**Verfahren[^3-1]**
 
-<sup>1</sup> Das Rodungsgesuch ist beim Amt einzureichen. Dieses veröffentlicht das Gesuch im Amtsblatt unter Hinweis auf die Einwendungsmöglichkeit und legt es während 20 Tagen beim Amt zur öffentlichen Einsicht auf.
+<sup>1</sup> Das Rodungsgesuch ist beim Amt einzureichen. Dieses veröffentlicht das Gesuch im Amtsblatt unter Hinweis auf die Einwendungsmöglichkeit und legt es während 20 Tagen beim Amt zur öffentlichen Einsicht auf.[^4-1]
 
 <sup>2</sup> Während der Auflagefrist kann beim Amt gegen das Rodungsgesuch schriftlich und begründet Einwendung erhoben werden.
 
 <sup>3</sup> Das Amt stellt der Bewilligungsbehörde das Gesuch mit seinem Antrag, den Stellungnahmen der kantonalen Fachstellen und den Einwendungen zu.
+
+[^4-1]: Fassung gemäss Landratsbeschluss vom 28. Februar 2018, A 2018, 427, 981; in Kraft seit 1. Juni 2018
 
 #### Art. 5
 
@@ -99,7 +110,7 @@ beschliesst:
 
 **Ersatzabgabe**
 
-<sup>1</sup> Ersatzabgaben gemäss Art. 8 WaG[^6-1] sind dem Fonds für Walderhaltung zuzuweisen.
+Ersatzabgaben gemäss Art. 8 WaG[^6-1] sind dem Fonds für Walderhaltung zuzuweisen.
 
 [^6-1]: SR 921.0
 
@@ -112,9 +123,10 @@ beschliesst:
 <sup>2</sup> Der Mehrwert entspricht der Differenz zwischen dem Ertragswert des Waldes und dem Wert der mit der Rodung ermöglichten neuen Bodennutzung, abzüglich folgender Aufwendungen:
 
 - 1\. Kosten des Rodungsersatzes und einer allfälligen Ersatzabgabe;
+
 - 2\. voraussichtliche Kosten der Rekultivierung (Wiederaufforstung).
 
-<sup>3</sup> Der Wert der mit der Rodung ermöglichten neuen Bodennutzung wird vom kantonalen Steueramt festgesetzt.
+<sup>3</sup> Der Wert der mit der Rodung ermöglichten neuen Bodennutzung wird vom kantonalen Steueramt festgesetzt.[^7-2]
 
 <sup>4</sup> Massgebend für die Bemessung der Ausgleichsabgabe ist der Zeitpunkt der Erteilung der Rodungsbewilligung.
 
@@ -125,12 +137,15 @@ beschliesst:
 <sup>7</sup> Für Vorhaben der öffentlichen Hand wird auf die Erhebung einer Ausgleichsabgabe verzichtet.
 
 [^7-1]: SR 921.0
+[^7-2]: Fassung gemäss Landratsbeschluss vom 17. März 2010, A 2010, 501, 1348; in Kraft seit 1. Januar 2011
 
-### 2.2 Waldfeststellung und Raumplanung
+### B. Waldfeststellung und Raumplanung
 
 #### Art. 8
 
-**Waldfeststellung 1. allgemein**
+**Waldfeststellung**
+
+### 1. allgemein
 
 <sup>1</sup> Wer ein schutzwürdiges Interesse nachweist, kann auf eigene Kosten durch das Oberforstamt feststellen lassen, ob eine Fläche Wald ist.
 
@@ -146,19 +161,20 @@ beschliesst:
 
 **2. bei Nutzungsplänen**
 
-<sup>1</sup> Beim Erlass und bei der Revision von Nutzungsplänen gemäss der Planungs- und Baugesetzgebung[^9-1] ist dort ein Waldfeststellungsverfahren durchzuführen, wo Bauzonen an den Wald grenzen oder in Zukunft daran grenzen sollen.
+<sup>1</sup> Beim Erlass und bei der Revision von Nutzungsplänen gemäss der Planungs- und Baugesetzgebung[^9-1] ist dort ein Waldfeststellungsverfahren durchzuführen, wo Bauzonen an den Wald grenzen oder in Zukunft daran grenzen sollen.[^9-2]
 
 <sup>2</sup> Die festgestellten Waldgrenzen sind planerisch festzuhalten und zusammen mit dem Nutzungsplan aufzulegen.
 
 [^9-1]: NG 611.1
+[^9-2]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 10
 
 **Einbezug von Wald in Nutzungspläne**
 
-<sup>1</sup> Die Zuweisung von Wald zu einer Nutzungszone bedarf einer Rodungsbewilligung. Die Rodung kann in Etappen und unter Bedingungen und Auflagen frei gegeben werden.
+Die Zuweisung von Wald zu einer Nutzungszone bedarf einer Rodungsbewilligung. Die Rodung kann in Etappen und unter Bedingungen und Auflagen frei gegeben werden.
 
-### 2.3 Betreten und Befahren des Waldes
+### C. Betreten und Befahren des Waldes
 
 #### Art. 11
 
@@ -169,16 +185,22 @@ beschliesst:
 <sup>2</sup> Ausnahmen sind zulässig für die im öffentlichen Interesse notwendigen Einzäunungen und andere Zutrittsbeschränkungen zu bestimmten Waldflächen, insbesondere zum Schutz von:
 
 - 1\. Jungwaldflächen;
+
 - 2\. Pflanzen und Naturschutzgebieten;
+
 - 3\. Waldreservaten;
+
 - 4\. wildlebenden Tieren;
+
 - 5\. Bauten und Anlagen.
 
 <sup>3</sup> Das Oberforstamt bewilligt weitere Ausnahmen, wenn überwiegende öffentliche Interessen dies erfordern.
 
 #### Art. 12
 
-**Veranstaltungen 1. Bewilligungspflicht**
+**Veranstaltungen**
+
+### 1. Bewilligungspflicht
 
 <sup>1</sup> Kann eine Veranstaltung zu einer erheblichen Beanspruchung des Waldes führen, ist eine Bewilligung des Oberforstamtes einzuholen. Sind Waldreservate betroffen, ist jede Veranstaltung bewilligungspflichtig.
 
@@ -190,7 +212,7 @@ beschliesst:
 
 **2. Verfahren**
 
-<sup>1</sup> Vor der Erteilung der Bewilligung ist die Zustimmung der Waldeigentümerinnen und Waldeigentümer einzuholen. Das Oberforstamt verfügt die zum Schutz des Waldes erforderlichen Auflagen und Bedingungen und kontrolliert deren Einhaltung.
+Vor der Erteilung der Bewilligung ist die Zustimmung der Waldeigentümerinnen und Waldeigentümer einzuholen. Das Oberforstamt verfügt die zum Schutz des Waldes erforderlichen Auflagen und Bedingungen und kontrolliert deren Einhaltung.
 
 #### Art. 14
 
@@ -210,14 +232,19 @@ beschliesst:
 
 <sup>1</sup> Der Motorfahrzeugverkehr auf Waldstrassen ist untersagt. Diese dürfen mit Motorfahrzeugen nur befahren werden:
 
-- 1\. zu forstlichen sowie zu anderen öffentlichen Zwecken gemäss Art. 13 WaV;
+- 1\. zu forstlichen sowie zu anderen öffentlichen Zwecken gemäss Art.
+
+13 WaV;
+
 - 2\. zur Ausübung der Land- und Alpwirtschaft;
+
 - 3\. zum Unterhalt von Gewässern und Versorgungsanlagen;
+
 - 4\. zur Ausübung der Jagd während der Jagdzeit gemäss den Jagdbetriebsvorschriften[^15-1].
 
 <sup>2</sup> Die Strasseneigentümerschaft kann aus anderen wichtigen Gründen Ausnahmebewilligungen erteilen. Sie hat ein Benützungsreglement zu erlassen, das vom Regierungsrat zu genehmigen ist.
 
-[^15-1]: NG 841.111
+[^15-1]: NG 841.116
 
 #### Art. 16
 
@@ -235,7 +262,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat regelt Installation, Betrieb, Unterhalt und Beseitigung der Anlagen sowie die Entschädigung der Waldeigentümerinnen und Waldeigentümer.
 
-### 2.4 Schutz vor anderen Beeinträchtigungen
+### D. Schutz vor anderen Beeinträchtigungen
 
 #### Art. 18
 
@@ -251,18 +278,19 @@ beschliesst:
 
 **Waldabstand**
 
-<sup>1</sup> Der Abstand von Bauten oder Anlagen zum Wald richtet sich nach der Planungs- und Baugesetzgebung[^19-1].
+<sup>1</sup> Der Abstand von Bauten oder Anlagen zum Wald richtet sich nach der Planungs- und Baugesetzgebung[^19-1].[^19-2]
 
-<sup>2</sup> Wird Wald neu angelegt, richtet sich der Abstand nach den Bestimmungen des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^19-2].
+<sup>2</sup> Wird Wald neu angelegt, richtet sich der Abstand nach den Bestimmungen des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^19-3].
 
 [^19-1]: NG 611.1
-[^19-2]: NG 211.1
+[^19-2]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+[^19-3]: NG 211.1
 
 #### Art. 20
 
 **Umweltgefährdende Stoffe**
 
-<sup>1</sup> Für die Bewilligung zur Verwendung umweltgefährdender Stoffe gemäss Art. 25 Abs. 1 WaV[^20-1] ist das Oberforstamt zuständig.
+Für die Bewilligung zur Verwendung umweltgefährdender Stoffe gemäss Art. 25 Abs. 1 WaV[^20-1] ist das Oberforstamt zuständig.
 
 [^20-1]: SR 921.01
 
@@ -278,20 +306,21 @@ beschliesst:
 [^21-2]: SR 211.412.11
 [^21-3]: NG 825.1
 
-## 3 Schutz vor Naturereignissen
+### III. SCHUTZ VOR NATUREREIGNISSEN
 
 #### Art. 22
 
 **Grundsatz**
 
-<sup>1</sup> Wo durch Lawinen, Rutschungen, Erosion oder Steinschlag Menschen oder erhebliche Sachwerte gefährdet werden, sind geeignete planerische, organisatorische, waldbauliche und technische Massnahmen zu treffen. Vorbehalten bleiben die Bestimmungen der Gewässergesetzgebung[^22-1] betreffend den Schutz vor Hochwasser.
+<sup>1</sup> Wo durch Lawinen, Rutschungen, Erosion oder Steinschlag Menschen oder erhebliche Sachwerte gefährdet werden, sind geeignete planerische, organisatorische, waldbauliche und technische Massnahmen zu treffen. Vorbehalten bleiben die Bestimmungen der Gewässergesetzgebung[^22-1] betreffend den Schutz vor Hochwasser.[^22-2]
 
-<sup>2</sup> Der Regierungsrat sorgt für eine integrale Planung gemäss Art. 17 Abs. 3 WaV[^22-2].
+<sup>2</sup> Der Regierungsrat sorgt für eine integrale Planung gemäss Art. 17 Abs. 3 WaV[^22-3].
 
-<sup>3</sup> Koordinationsstelle für die Errichtung von Frühwarndiensten gemäss Art. 16 WaV ist die zuständige Direktion.
+<sup>3</sup> Koordinationsstelle für die Errichtung von Frühwarndiensten gemäss Art. 16 WaV[^22-3] ist die zuständige Direktion.
 
 [^22-1]: NG 631.1
-[^22-2]: SR 921.01
+[^22-2]: Fassung gemäss Landratsbeschluss vom 12. Februar 2020, A 2020, 327, 2029; in Kraft seit 1. November 2020
+[^22-3]: SR 921.01
 
 #### Art. 23
 
@@ -313,9 +342,9 @@ beschliesst:
 
 <sup>4</sup> Die Waldeigentümerinnen und Waldeigentümer treffen die erforderlichen Massnahmen im Rahmen ihrer Bewirtschaftungspflicht gemäss Art. 30.
 
-## 4 Pflege und Nutzung des Waldes
+### IV. PFLEGE UND NUTZUNG DES WALDES
 
-### 4.1 Forstliche Planung
+### A. Forstliche Planung
 
 #### Art. 25
 
@@ -353,11 +382,13 @@ beschliesst:
 
 <sup>2</sup> Für kleinflächiges Waldeigentum ist eine vereinfachte Betriebsplanung oder die gänzliche Entbindung von der Betriebsplanungspflicht vorzusehen. Der Regierungsrat bestimmt die Mindestfläche für die ordentliche Betriebsplanung.
 
-### 4.2 Waldbewirtschaftung
+### B. Waldbewirtschaftung
 
 #### Art. 29
 
-**Bewirtschaftung 1. Grundsätze**
+**Bewirtschaftung**
+
+### 1. Grundsätze
 
 <sup>1</sup> Die Bewirtschaftung des Waldes ist Sache der Waldeigentümerinnen und Waldeigentümer.
 
@@ -370,33 +401,38 @@ beschliesst:
 <sup>1</sup> Eine Bewirtschaftungspflicht besteht, soweit sie:
 
 - 1\. im Betriebsplan festgelegt ist;
+
 - 2\. zur Sicherung von Gefahrengebieten notwendig ist.
 
 <sup>2</sup> Wird den Verpflichtungen nicht nachgekommen, lässt das Oberforstamt die verbindlich festgelegten Massnahmen zu Lasten der Waldeigentümerinnen und Waldeigentümer und allfälligen nutzniessenden oder schadenverursachenden Personen ersatzweise ausführen.
 
 #### Art. 31
 
-**Holznutzung 1. Bewilligungspflicht**
+**Holznutzung**
+
+### 1. Bewilligungspflicht
 
 <sup>1</sup> Holzschläge im Wald bedürfen einer Bewilligung. Diese kann verweigert oder an Auflagen und Bedingungen geknüpft werden, wenn der vorgesehene Schlag die Schutz- oder Wohlfahrtsfunktionen des Waldes beeinträchtigt oder gefährdet.
 
 <sup>2</sup> Nicht bewilligungspflichtig sind:
 
 - 1\. Zwangsnutzungen infolge äusserer Einwirkungen;
+
 - 2\. das Entfernen von stehendem oder liegendem Dürrholz.
-- 3\. Holzschläge der Waldeigentümerinnen und Waldeigentümer für den eigenen Bedarf, sofern die Menge unter 10 m³ je Jahr liegt und der Wald nicht Schutzfunktionen erfüllt.
+
+- 3\. Holzschläge der Waldeigentümerinnen und Waldeigentümer für den eigenen Bedarf, sofern die Menge unter 10 m<sup>3</sup> je Jahr liegt und der Wald nicht Schutzfunktionen erfüllt.
 
 #### Art. 32
 
 **2. Zuständigkeit**
 
-<sup>1</sup> Über die Bewilligung entscheidet das Oberforstamt. Dieses kann die Kompetenz für die Bewilligung kleinerer Schläge sowie für die Holznutzung im Rahmen von genehmigten Betriebsplänen an die Revierförsterinnen oder die Revierförster delegieren.
+Über die Bewilligung entscheidet das Oberforstamt. Dieses kann die Kompetenz für die Bewilligung kleinerer Schläge sowie für die Holznutzung im Rahmen von genehmigten Betriebsplänen an die Revierförsterinnen oder die Revierförster delegieren.
 
 #### Art. 33
 
 **Kahlschlagverbot**
 
-<sup>1</sup> Für Ausnahmebewilligungen vom Kahlschlagverbot gemäss Art. 22 WaG[^33-1] ist das Oberforstamt zuständig.
+Für Ausnahmebewilligungen vom Kahlschlagverbot gemäss Art. 22 WaG[^33-1] ist das Oberforstamt zuständig.
 
 [^33-1]: SR 921.0
 
@@ -418,13 +454,13 @@ beschliesst:
 
 <sup>2</sup> Die zuständige Direktion trifft soweit erforderlich zur Sicherung der Waldreservate mit den Waldeigentümerinnen und Waldeigentümern eine langfristige vertragliche Regelung.
 
-### 4.3 Verhütung und Behebung von Waldschäden
+### C. Verhütung und Behebung von Waldschäden
 
 #### Art. 36
 
 **Forstliche Massnahmen**
 
-<sup>1</sup> Die zuständige Direktion veranlasst die forstlichen Massnahmen gegen die Ursachen und Folgen von Schäden, welche die Erhaltung des Waldes beziehungsweise dessen Funktionen gefährden können.
+Die zuständige Direktion veranlasst die forstlichen Massnahmen gegen die Ursachen und Folgen von Schäden, welche die Erhaltung des Waldes beziehungsweise dessen Funktionen gefährden können.
 
 #### Art. 37
 
@@ -436,9 +472,9 @@ beschliesst:
 
 [^37-1]: NG 841
 
-## 5 Förderungsmassnahmen
+### V. FÖRDERUNGSMASSNAHMEN
 
-### 5.1 Ausbildung, Beratung und Information
+### A. Ausbildung, Beratung und Information
 
 #### Art. 38
 
@@ -464,24 +500,30 @@ beschliesst:
 
 [^39-1]: SR 921.0
 
-### 5.2 Finanzierung
+### B. Finanzierung
 
 #### Art. 40
 
 **Grundsätze**
 
-<sup>1</sup> Der Kanton fördert im Rahmen der bewilligten Kredite Massnahmen zur Walderhaltung und zum Schutz von Menschen und erheblichen Sachwerten vor Naturereignissen sowie die Verwendung des Rohstoffes Holz, die Ausbildung, die Forschung und die Grundlagenbeschaffung.
+<sup>1</sup> Der Kanton fördert im Rahmen der bewilligten Kredite Massnahmen zur Walderhaltung und zum Schutz von Menschen und erheblichen Sachwerten vor Naturereignissen sowie die Verwendung des Rohstoffes Holz, die Ausbildung, die Forschung und die Grundlagenbeschaffung.[^40-1]
 
 <sup>2</sup> Der Landrat ist bei der Krediterteilung nicht an seine verfassungsmässigen Finanzkompetenzen gebunden.
 
 <sup>3</sup> Finanzielle Leistungen sind in der Regel davon abhängig zu machen, dass:
 
 - 1\. sich die Empfänger angemessen an den Kosten beteiligen;
+
 - 2\. Dritte, insbesondere nutzniessende und schadenverursachende Personen, zur Mitfinanzierung herangezogen werden;
+
 - 3\. die Massnahmen wirtschaftlich und fachkundig durchgeführt werden;
+
 - 4\. eine dauerhafte, für die Walderhaltung günstige Regelung von Konflikten getroffen wird;
+
 - 5\. die Forstbetriebe eine transparente, mit andern Forstbetrieben vergleichbare Betriebsabrechnung führen;
+
 - 6\. sich die Empfänger an Selbsthilfemassnahmen der Wald- und Holzwirtschaft beteiligen;
+
 - 7\. der Unterhalt gesichert ist.
 
 <sup>4</sup> An die Kosten, die aus nachteiligen Nutzungen entstehen, werden keine Beiträge bezahlt.
@@ -489,38 +531,50 @@ beschliesst:
 <sup>5</sup> Der Kanton trägt die nach Abzug der Abgeltungen und Finanzhilfen des Bundes verbleibenden Kosten für:
 
 - 1\. die Grundlagenbeschaffung der forstlichen Planung;
+
 - 2\. die Erstellung der Grundlagen für die Gefahrenbeurteilung;
+
 - 3\. die Erstellung des kantonalen Waldentwicklungsplans;
+
 - 4\. die Gewinnung und Lagerung des forstlichen Vermehrungsgutes.
+
+[^40-1]: Fassung gemäss Landratsbeschluss vom 24. Oktober 2007, A 2007, 1734, A 2008, 92; in Kraft seit 1. Januar 2008
 
 #### Art. 41
 
-**Beiträge**
+**Beiträge[^40-1]**
 
-<sup>1</sup> Der Kanton leistet unter den Voraussetzungen des Bundesrechts Beiträge an die vom Bund unterstützten Massnahmen gemäss den Artikeln 36–39 WaG, sofern die Massnahmen den Zielen und Prioritäten der Programmvereinbarung mit dem Bund entsprechen.
+<sup>1</sup> Der Kanton leistet unter den Voraussetzungen des Bundesrechts Beiträge an die vom Bund unterstützten Massnahmen gemäss den Artikeln 36-39 WaG, sofern die Massnahmen den Zielen und Prioritäten der Programmvereinbarung mit dem Bund entsprechen.
 
 <sup>2</sup> Die Kantonsbeiträge betragen:
 
 - 1\. für die Bewirtschaftung des Schutzwaldes 50 bis 80 Prozent;
+
 - 2\. für forstliche Massnahmen zum Schutz vor Naturereignissen 33 bis 70 Prozent;
+
 - 3\. für Massnahmen zur Erhaltung und Verbesserung der biologischen Vielfalt und zur Verbesserung der Wirtschaftlichkeit der Waldwirtschaft 50 bis 70 Prozent;
-- 4\. für die Aus- und Weiterbildung des Forstpersonals 30 bis 50 Prozent.
+
+4.[^41-1] für die Aus- und Weiterbildung des Forstpersonals 30 bis 50 Prozent.
 
 <sup>3</sup> In Härtefällen oder beim Vorliegen besonders schwieriger Verhältnisse kann ein Zusatzbeitrag von bis zu 10 Prozent gewährt werden.
 
 <sup>4</sup> Der Regierungsrat legt die Beiträge fest unter Berücksichtigung:
 
 - 1\. der wirtschaftlichen Leistungsfähigkeit der gesuchstellenden Person;
+
 - 2\. der Bedeutung, der Kosten und des Schwierigkeitsgrades der Projekte.
+
 - 3\. der Wirtschaftlichkeit und der Wirksamkeit der Massnahme.
 
 <sup>5</sup> Der Regierungsrat kann Beiträge unabhängig von den Leistungen des Bundes leisten.
+
+[^41-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 878, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 42
 
 **Investitionskredit**
 
-<sup>1</sup> Der Regierungsrat kann die Gewährung von forstlichen Investitionskrediten gemäss Art. 40 WaG beantragen.
+Der Regierungsrat kann die Gewährung von forstlichen Investitionskrediten gemäss Art. 40 WaG beantragen.
 
 #### Art. 43
 
@@ -531,25 +585,30 @@ beschliesst:
 <sup>2</sup> In diesen Fonds sind einzulegen:
 
 - 1\. Abgaben gemäss Art. 6 und 7 dieses Gesetzes;
+
 - 2\. andere für die Walderhaltung bestimmte Beiträge;
+
 - 3\. die Zinsen des Fondsvermögens.
 
 <sup>3</sup> Die zuständige Direktion entscheidet über Entnahmen für Walderhaltungsmassnahmen, für die keine oder nur ungenügende Finanzierungsbeiträge möglich sind, insbesondere für:
 
 - 1\. Neubegründungen von Wald;
+
 - 2\. Ausgleich des Ertragsausfalls bei Nutzungsbeschränkungen;
+
 - 3\. Ablösung von nachteiligen Nutzungen im Sinne von Art. 16 WaG[^43-1];
+
 - 4\. Massnahmen zugunsten des Natur- und Landschaftsschutzes im Wald und am Waldrand.
 
 [^43-1]: SR 921.0
 
-## 6 Organisation und Verfahren
+### VI. ORGANISATION UND VERFAHREN
 
 #### Art. 44
 
 **Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat übt die Oberaufsicht über den Vollzug der Waldgesetzgebung aus und erfüllt die ihm übertragenen Aufgaben.
+Der Regierungsrat übt die Oberaufsicht über den Vollzug der Waldgesetzgebung aus und erfüllt die ihm übertragenen Aufgaben.
 
 #### Art. 45
 
@@ -568,19 +627,24 @@ beschliesst:
 <sup>2</sup> Es lässt die Forstreviere durch Revierförsterinnen oder Revierförster betreuen, deren Hauptaufgaben sind:
 
 - 1\. das Anzeichnen der Holzschläge;
+
 - 2\. die Koordination der überbetrieblichen Zusammenarbeit;
+
 - 3\. die unmittelbare forstpolizeiliche Aufsicht;
+
 - 4\. die Beratung der Waldeigentümerinnen und Waldeigentümer.
 
 #### Art. 47
 
 **Gebietseinteilung**
 
-<sup>1</sup> Der Kanton bildet einen Forstkreis, der vom Regierungsrat in Forstreviere eingeteilt wird.
+Der Kanton bildet einen Forstkreis, der vom Regierungsrat in Forstreviere eingeteilt wird.
+
+[^47-1]: Fassung gemäss Landratsbeschluss vom 19. September 2007, A 2007, 1541, 1971; in Kraft seit 1. Januar 2008
 
 #### Art. 48
 
-**Gebühren**
+**Gebühren[^47-1]**
 
 <sup>1</sup> Die Gebühren werden nach der Gebührengesetzgebung[^48-1] festgesetzt.
 
@@ -589,18 +653,19 @@ beschliesst:
 <sup>3</sup> Für die Gewährung von forstlichen Investitionskrediten werden Gebühren erhoben.
 
 [^48-1]: NG 265.5
+[^48-2]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 49
 
-**…**
+**…[^48-2]**
 
-## 7 Verwaltungszwang und Strafbestimmungen
+### VII. VERWALTUNGSZWANG UND STRAFBESTIMMUNGEN
 
 #### Art. 50
 
 **Enteignung**
 
-<sup>1</sup> Die forstliche Enteignung im Sinne von Art. 48 WaG[^50-1] richtet sich nach dem kantonalen Enteignungsgesetz[^50-2].
+Die forstliche Enteignung im Sinne von Art. 48 WaG[^50-1] richtet sich nach dem kantonalen Enteignungsgesetz[^50-2].
 
 [^50-1]: SR 921.0
 [^50-2]: NG 266.1
@@ -619,12 +684,16 @@ beschliesst:
 
 **Strafbestimmung**
 
-<sup>1</sup> Unter Vorbehalt der Strafbestimmungen des Bundesrechts (Art. 42–45 WaG[^52-1]) wird mit Busse bestraft, wer vorsätzlich oder fahrlässig und ohne Berechtigung:
+<sup>1</sup> Unter Vorbehalt der Strafbestimmungen des Bundesrechts (Art. 42-45 WaG[^52-1] wird mit Busse[^52-2] bestraft, wer vorsätzlich oder fahrlässig und ohne Berechtigung:
 
 - 1\. im Wald bewilligungspflichtige Veranstaltungen im Sinne von Art. 12 durchführt;
+
 - 2\. abseits von Waldstrassen, Wegen oder bewilligten Sportpfaden reitet oder Velo fährt oder Anordnungen der zuständigen Direktion im Sinne von Art. 16 Abs. 2 verletzt;
+
 - 3\. nachteilige Nutzungen im Sinne von Art. 18 vornimmt;
+
 - 4\. im Wald ohne die erforderliche Ausbildung Arbeiten im Sinne von Art. 38 Abs. 4 ausführt oder ausführen lässt;
+
 - 5\. Anordnungen des Oberforstamtes missachtet.
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
@@ -634,22 +703,23 @@ beschliesst:
 <sup>4</sup> Das Oberforstamt ist zur Anzeige von Widerhandlungen gegen dieses Gesetz verpflichtet.
 
 [^52-1]: SR 921.0
+[^52-2]: Fassung gemäss Landratsbeschluss vom 25. Oktober 2006, A 2006, 1705, A 2007, 5; in Kraft seit 1. Januar 2007
 
 #### Art. 53
 
 **Wiederherstellung**
 
-<sup>1</sup> Die zuständige Direktion kann ausserhalb der strafrechtlichen Verfolgung die Wiederherstellung des gesetzlichen Zustandes unter Androhung von Strafen gemäss Art. 292 des Schweizerischen Strafgesetzbuches anordnen[^53-1].
+Die zuständige Direktion kann ausserhalb der strafrechtlichen Verfolgung die Wiederherstellung des gesetzlichen Zustandes unter Androhung von Strafen gemäss Art. 292 des Schweizerischen Strafgesetzbuches anordnen[^53-1].
 
 [^53-1]: SR 311.0
 
-## 8 Übergangs- und Schlussbestimmungen
+### VIII. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 54
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat wird ermächtigt, eine Vollzugsverordnung zu erlassen.
+Der Regierungsrat wird ermächtigt, eine Vollzugsverordnung zu erlassen.
 
 #### Art. 55
 
@@ -663,13 +733,13 @@ beschliesst:
 
 **Waldbaufonds**
 
-<sup>1</sup> Die Mittel des bestehenden kantonalen Waldbaufonds sind mit Inkrafttreten dieses Gesetzes dem Fonds für Walderhaltung zuzuweisen.
+Die Mittel des bestehenden kantonalen Waldbaufonds sind mit Inkrafttreten dieses Gesetzes dem Fonds für Walderhaltung zuzuweisen.
 
 #### Art. 57
 
 **Änderung des Baugesetzes**
 
-<sup>1</sup> Das Gesetz vom 24. April 1988 über die Raumplanung und das öffentliche Baurecht (Baugesetz)[^57-1] wird wie folgt geändert: …
+Das Gesetz vom 24. April 1988 über die Raumplanung und das öffentliche Baurecht (Baugesetz)[^57-1] wird wie folgt geändert: ...
 
 [^57-1]: NG 611.1
 
@@ -683,8 +753,12 @@ beschliesst:
 
 <sup>3</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Einführungsgesetz vom 27. April 1975 zur Bundesgesetzgebung betreffend die eidgenössische Oberaufsicht über die Forstpolizei (Forstgesetz)[^58-2] und die Vollziehungsverordnung vom 20. September 1975 zum Forstgesetz (Forstverordnung)[^58-3].
 
-[^58-1]: Vom Bund genehmigt am 27. Mai 1998; in Kraft seit 1. Januar 1999
-[^58-2]: A 1975, 640
+[^58-1]: In Kraft seit 1. Januar 1999
+[^58-2]: A 1975,640
 [^58-3]: A 1975, 1215, 1566
 
-A 1998, 425, 1048
+## Weitere Fussnoten
+
+- [4] NG 521.12 (heute Steuerverordnung NG 521.11)
+- [11] NG 631
+- [19] Fassung gemäss Landratsbeschluss vom 27. Juni 2001, A 2001, 935, 1252; in Kraft seit 1. Januar 2002
