@@ -5,36 +5,35 @@ title: Vollzugsverordnung zum Einführungsgesetz zum Bundesgesetz über Geldspie
 short: "Kantonale Geldspielverordnung, kGSpV"
 language: de
 version: 2021-01-01
+corrected: 2021-10-26
 version_adopted: 2020-09-08
 adopted: 2020-09-08
 in_force: 2021-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/932.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/705/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/429/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele
+# Vollzugsverordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele (Kantonale Geldspielverordnung, kGSpV)
 
-(Kantonale Geldspielverordnung, kGSpV)
+vom 8. September 2020[^t-1]
 
-vom 08.09.2020 (Stand 01.01.2021)
-
-Der Regierungsrat von Nidwalden,
-
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung des Einführungsgesetzes vom 27. Mai 2020 zum Bundesgesetz über Geldspiele (Kantonales Geldspielgesetz, kGSpG)[^ingress-1],
+Der Regierungsrat von Nidwalden, gestützt auf Art. 64 der Kantonsverfassung, in Ausführung des Einführungsgesetzes vom 27. Mai 2020 zum Bundesgesetz über Geldspiele (Kantonales Geldspielgesetz, kGSpG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 932.1
+[^t-1]: A 2020, 1842
+[^t-2]: NG 932.1
 
-## 1 Organisation
+### I. ORGANISATION
 
 #### § 1
 
 **Finanzdirektion**
 
-<sup>1</sup> Die Finanzdirektion ist zuständig für die Verteilung der Lotteriefondsmittel gemäss Art. 8 Abs. 3 Ziff. 1 kGSpG[^1-1].
+Die Finanzdirektion ist zuständig für die Verteilung der Lotteriefondsmittel gemäss Art. 8 Abs. 3 Ziff. 1 kGSpG[^1-1].
 
 [^1-1]: NG 932.1
 
@@ -73,23 +72,23 @@ beschliesst:
 
 **Steueramt**
 
-<sup>1</sup> Das Steueramt ist zuständig für die Veranlagung der kantonalen Spielbankenabgabe.
+Das Steueramt ist zuständig für die Veranlagung der kantonalen Spielbankenabgabe.
 
 #### § 6
 
 **Abteilung Jugend, Familie, Sucht**
 
-<sup>1</sup> Die Abteilung Jugend, Familie, Sucht ist die kantonale Fachstelle gemäss Art. 81 Abs. 3 BGS[^6-1].
+Die Abteilung Jugend, Familie, Sucht ist die kantonale Fachstelle gemäss Art. 81 Abs. 3 BGS[^6-1].
 
 [^6-1]: SR 935.51
 
-## 2 Kleinlotterien an einem Unterhaltungsanlass
+### II. KLEINLOTTERIEN AN EINEM UNTERHALTUNGSANLASS
 
 #### § 7
 
 **Verkauf der Lose**
 
-<sup>1</sup> Der Preis des einzelnen Loses darf Fr. 5.– nicht übersteigen.
+<sup>1</sup> Der Preis des einzelnen Loses darf Fr. 5.- nicht übersteigen.
 
 <sup>2</sup> Die Lose dürfen nur in unmittelbarem Zusammenhang mit dem Unterhaltungsanlass verkauft werden.
 
@@ -110,36 +109,46 @@ beschliesst:
 <sup>2</sup> Es hat insbesondere zu enthalten:
 
 - 1\. die Angaben über die Veranstalterin oder den Veranstalter sowie der Personen, welche die Verantwortung für die richtige Durchführung der Kleinlotterien übernehmen;
+
 - 2\. die Angabe des Zwecks, für den der Ertrag der Kleinlotterien verwendet werden soll;
+
 - 3\. die Anzahl Lose, den Lospreis, den Gesamtwert der Gewinne sowie die Anzahl der Treffer;
+
 - 4\. den Ort, den Zeitpunkt und die Bezeichnung des Anlasses, an dem die Kleinlotterien durchgeführt werden soll;
+
 - 5\. die Art, den Ort und den Zeitpunkt der Durchführung der Ziehung; und
+
 - 6\. den Ort und den Zeitpunkt der Ausgabe der Gewinne.
 
 #### § 10
 
 **Abrechnung**
 
-<sup>1</sup> Der Bewilligungsbehörde ist binnen 30 Tagen nach der Durchführung der Kleinlotterie eine detaillierte Abrechnung einzureichen.
+Der Bewilligungsbehörde ist binnen 30 Tagen nach der Durchführung der Kleinlotterie eine detaillierte Abrechnung einzureichen.
 
-## 3 Abgaben
+### III. ABGABEN
 
 #### § 11
 
-**Kantonale Abgabe für Geschicklichkeitsspielautomaten**
+**Kantonale Abgabe für Geschicklichkeits-**
 
-<sup>1</sup> Für jeweils 1 Geschicklichkeitsspielautomaten sind folgende Abgaben zu entrichten:
+spielautomaten Für jeweils 1 Geschicklichkeitsspielautomaten sind folgende Abgaben zu entrichten:
 
-- 1\. Betreiben eines Automaten mit Geldgewinn oder geldwerten Vorteilen: — Fr. 1'000.–
-- 2\. Betreiben eines Automaten mit geringen Einsatz und Sachgewinn: — Fr. 200.–
+**Fr. 1'000.-**
 
-## 4 Schlussbestimmungen
+- 1\. Betreiben eines Automaten mit Geldgewinn oder geldwerten Vorteilen
+
+**Fr. 200.-**
+
+- 2\. Betreiben eines Automaten mit geringen Einsatz und Sachgewinn
+
+### IV. SCHLUSSBESTIMMUNGEN
 
 #### § 12
 
 **Änderung der Gebührenverordnung**
 
-<sup>1</sup> Der Anhang der Vollzugsverordnung vom 4. Dezember 2001 zum Gesetz über die amtlichen Kosten (Gebührenverordnung, GebV)[^12-1] wird wie folgt geändert: …
+Der Anhang der Vollzugsverordnung vom 4. Dezember 2001 zum Gesetz über die amtlichen Kosten (Gebührenverordnung, GebV)[^12-1] wird wie folgt geändert: …
 
 [^12-1]: NG 265.51
 
@@ -147,7 +156,7 @@ beschliesst:
 
 **Aufhebung der Spielverordnung**
 
-<sup>1</sup> Die Vollzugsverordnung vom 6. November 2001 zum Gesetz über das Geldspiel in öffentlichen Lokalen (Spielverordnung, SpV)[^13-1] wird aufgehoben.
+Die Vollzugsverordnung vom 6. November 2001 zum Gesetz über das Geldspiel in öffentlichen Lokalen (Spielverordnung, SpV)[^13-1] wird aufgehoben.
 
 [^13-1]: A 2001, 1567
 
@@ -155,6 +164,4 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2021 in Kraft.
-
-A 2020, 1842
+Diese Verordnung tritt am 1. Januar 2021 in Kraft.
