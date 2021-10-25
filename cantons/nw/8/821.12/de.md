@@ -5,37 +5,37 @@ title: Vollzugsverordnung über die kontrollierte Ursprungsbezeichnung für Wein
 short: Weinverordnung
 language: de
 version: 2009-01-01
-valid_until: 2024-05-31
+corrected: 2021-10-26
 version_adopted: 2009-05-26
 adopted: 2009-05-26
 in_force: 2009-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/821.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/700/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/356/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung über die kontrollierte Ursprungsbezeichnung für Weine
+# Vollzugsverordnung über die kontrollierte Ursprungsbezeichnung für Weine (Weinverordnung)
 
-(Weinverordnung)
-
-vom 26.05.2009 (Stand 01.01.2009)
+vom 26. Mai 2009[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 178 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1], Art. 21 der Weinverordnung vom 14. November 2007[^ingress-2] sowie Art. 10 und 29 des kantonalen Landwirtschaftsgesetzes vom 24. Oktober 2001[^ingress-3],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 178 des Landwirtschaftsgesetzes vom 29. April 1998[^t-2], Art. 21 der Weinverordnung vom 14. November 2007[^t-3] sowie Art. 10 und 29 des kantonalen Landwirtschaftsgesetzes vom 24. Oktober 2001[^t-4],
 
 beschliesst:
 
-[^ingress-1]: SR 910.1
-[^ingress-2]: SR 916.140
-[^ingress-3]: NG 821.1
+[^t-1]: A 2009, 1030
+[^t-2]: SR 910.1
+[^t-3]: SR 916.140
+[^t-4]: NG 821.1
 
 #### § 1
 
 **Kontrollierte Ursprungsbezeichnung**
 
-<sup>1</sup> Weinproduzierende Betriebe beziehungsweise Kelterungsbetriebe, die für ihre Weine die Bezeichnung «Kontrollierte Ursprungsbezeichnung» oder «Appellation d’Origine Contrôlée» verwenden (AOC-Weine), müssen die Vorschriften dieser Verordnung erfüllen.
+Weinproduzierende Betriebe beziehungsweise Kelterungsbetriebe, die für ihre Weine die Bezeichnung „Kontrollierte Ursprungsbezeichnung“ oder „Appellation d’Origine Contrôlée“ verwenden (AOC-Weine), müssen die Vorschriften dieser Verordnung erfüllen.
 
 #### § 2
 
@@ -49,15 +49,17 @@ beschliesst:
 
 #### § 3
 
-**Bezeichnungen 1. AOC**
+**Bezeichnungen**
 
-<sup>1</sup> Weine aus Traubengut, das vollumfänglich aus Nidwalden stammt, dürfen die Bezeichnung «AOC Nidwalden» tragen.
+- 1\. AOC
+
+<sup>1</sup> Weine aus Traubengut, das vollumfänglich aus Nidwalden stammt, dürfen die Bezeichnung „AOC Nidwalden“ tragen.
 
 <sup>2</sup> Weine aus Traubengut, das vollumfänglich aus einer Gemeinde oder Lage stammt, dürfen zusätzlich mit der Bezeichnung der jeweiligen Gemeinde beziehungsweise Lage gekennzeichnet werden.
 
 <sup>3</sup> Vorbehalten bleiben die Bestimmungen von Art. 13 der Verordnung des EDI über alkoholische Getränke[^3-1].
 
-<sup>4</sup> Die Bezeichnung «AOC» muss der Kantons- beziehungsweise der Gemeinde- oder Lagebezeichnung vorangestellt werden.
+<sup>4</sup> Die Bezeichnung „AOC“ muss der Kantons- beziehungsweise der Gemeinde- oder Lagebezeichnung vorangestellt werden.
 
 <sup>5</sup> Die AOC-Bezeichnung muss auf der Hauptetikette zusammen mit den anderen vom Gesetzgeber vorgesehenen Daten aufgeführt werden.
 
@@ -67,7 +69,7 @@ beschliesst:
 
 **2. Auslese, Réserve**
 
-<sup>1</sup> Als «Auslese» oder «Réserve» kann ein Wein bezeichnet werden, den die Produzierenden mit besonderen Qualitätsmerkmalen hergestellt haben.
+<sup>1</sup> Als „Auslese“ oder „Réserve“ kann ein Wein bezeichnet werden, den die Produzierenden mit besonderen Qualitätsmerkmalen hergestellt haben.
 
 <sup>2</sup> Je Sorte, Jahrgang und Ursprungsbezeichnung darf nur ein Los als Auslese bezeichnet werden.
 
@@ -87,7 +89,7 @@ beschliesst:
 
 **Anbaumethoden**
 
-<sup>1</sup> Traubengut, das für die Herstellung von AOC-Weinen verwendet wird, muss aus Rebflächen stammen, die nach anerkannter rebbaulicher Praxis bewirtschaftet werden.
+Traubengut, das für die Herstellung von AOC-Weinen verwendet wird, muss aus Rebflächen stammen, die nach anerkannter rebbaulicher Praxis bewirtschaftet werden.
 
 #### § 7
 
@@ -115,7 +117,7 @@ beschliesst:
 
 **Methoden der Weinbereitung**
 
-<sup>1</sup> AOC-Weine müssen nach den anerkannten Methoden der guten önologischen Herstellungspraxis gemäss Anhang 1 der Verordnung des EDI über alkoholische Getränke[^9-1] hergestellt werden.
+AOC-Weine müssen nach den anerkannten Methoden der guten önologischen Herstellungspraxis gemäss Anhang 1 der Verordnung des EDI über alkoholische Getränke[^9-1] hergestellt werden.
 
 [^9-1]: SR 817.022.110
 
@@ -135,13 +137,13 @@ beschliesst:
 
 **Kosten**
 
-<sup>1</sup> Die Kosten für die Kontrolle der kontrollierten Ursprungsbezeichnung, insbesondere die analytische und die sensorische Prüfung, gehen zulasten der Produzentinnen und Produzenten.
+Die Kosten für die Kontrolle der kontrollierten Ursprungsbezeichnung, insbesondere die analytische und die sensorische Prüfung, gehen zulasten der Produzentinnen und Produzenten.
 
 #### § 12
 
 **Vollzug**
 
-<sup>1</sup> Für den Vollzug im Bereich der kontrollierten Ursprungsbezeichnung für Wein und der Weinlesekontrolle wird eine Leistungsvereinbarung mit dem Kanton Luzern abgeschlossen.
+Für den Vollzug im Bereich der kontrollierten Ursprungsbezeichnung für Wein und der Weinlesekontrolle wird eine Leistungsvereinbarung mit dem Kanton Luzern abgeschlossen.
 
 #### § 13
 
@@ -150,5 +152,3 @@ beschliesst:
 <sup>1</sup> Diese Verordnung tritt rückwirkend auf den 1. Januar 2009 in Kraft.
 
 <sup>2</sup> Sie ist dem Bund zur Kenntnis zu bringen.
-
-A 2009, 1030
