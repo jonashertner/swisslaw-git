@@ -5,28 +5,25 @@ title: Einführungsverordnung zur Bundesgesetzgebung über das Messwesen
 short: "Kantonale Messwesenverordnung, kMWV"
 language: de
 version: 2016-01-01
+corrected: 2021-10-26
 version_adopted: 2015-11-03
 adopted: 2012-03-06
 in_force: 2012-04-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/862.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/678/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/395/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsverordnung zur Bundesgesetzgebung über das Messwesen
+# Einführungsverordnung zur Bundesgesetzgebung über das Messwesen (Kantonale Messwesenverordnung, kMWV)
 
-(Kantonale Messwesenverordnung, kMWV)
+vom 06. März 2012[^t-1]
 
-vom 06.03.2012 (Stand 01.01.2016)
+Der Regierungsrat von Nidwalden, gestützt auf Art. 64 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 9. Juni 1977 über das Messwesen (Messgesetz)[^t-2], beschliesst:
 
-Der Regierungsrat von Nidwalden,
-
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 9. Juni 1977 über das Messwesen (Messgesetz)[^ingress-1],
-
-beschliesst:
-
-[^ingress-1]: SR 941.20
+[^t-1]: A 2012, 430
+[^t-2]: SR 941.20
 
 #### § 1
 
@@ -54,6 +51,10 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat kann in der Form von Verwaltungsvereinbarungen mit umliegenden Kantonen die Zusammenarbeit im Messwesen regeln.
 
+**1**
+
+Stand: 1. Januar 2016
+
 <sup>2</sup> Das Amt fördert die Zusammenarbeit mit den anderen betroffenen Behörden des Kantons und anderer Kantonen.
 
 #### § 4
@@ -65,16 +66,17 @@ beschliesst:
 <sup>2</sup> Der Tarif der Benützungsgebühren für die öffentlichen Waagen sowie die Entschädigungsansätze für die Auslagen der Fachstelle sind im Anhang festgelegt.
 
 [^4-1]: SR 941.298.1
+[^4-2]: Fassung gemäss Regierungsratsbeschluss vom 3. November 2015; A 2015, 1771, in Kraft seit 1. Januar 2016
 
 #### § 5
 
-**…**
+**…[^4-2]**
 
 #### § 6
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Einführungsverordnung vom 20. Mai 1978 zur Bundesgesetzgebung über das Messwesen[^6-1] und die Verfügung vom 9. Februar 1981 betreffend die provisorische Einführung der neuen Bestimmungen über öffentliche Wiegegeräte (Brückenwaagen)[^6-2] werden aufgehoben.
+Die Einführungsverordnung vom 20. Mai 1978 zur Bundesgesetzgebung über das Messwesen[^6-1] und die Verfügung vom 9. Februar 1981 betreffend die provisorische Einführung der neuen Bestimmungen über öffentliche Wiegegeräte (Brückenwaagen)[^6-2] werden aufgehoben.
 
 [^6-1]: A 1978, 950, 1281; A 1994, 682, 787, 1268
 [^6-2]: A 1981, 201
@@ -83,6 +85,4 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. April 2012 in Kraft.
-
-A 2012, 430
+Diese Verordnung tritt am 1. April 2012 in Kraft.
