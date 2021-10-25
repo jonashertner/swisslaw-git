@@ -5,20 +5,20 @@ title: Gesetz über die Gewinnung mineralischer Rohstoffe
 short: "Bergregalgesetz, BRG"
 language: de
 version: 2016-01-01
+corrected: 2021-10-26
 version_adopted: 2015-05-27
 adopted: 1979-04-29
 in_force: 1979-04-29
 url: "https://gesetze.nw.ch/app/de/texts_of_law/852.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/684/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/387/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Gewinnung mineralischer Rohstoffe
+# Gesetz über die Gewinnung mineralischer Rohstoffe (Bergregalgesetz, BRG)
 
-(Bergregalgesetz, BRG)
-
-vom 29.04.1979 (Stand 01.01.2016)
+vom 29. April 1979[^t-2][^t-1]
 
 Die Landsgemeinde,
 
@@ -26,7 +26,10 @@ gestützt auf Art. 52 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+[^t-2]: A 1979, 680
+
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -35,9 +38,13 @@ beschliesst:
 <sup>1</sup> Dem Kanton steht allein das Recht zum Aufsuchen und Gewinnen folgender mineralischer Rohstoffe zu:
 
 - 1\. Metalle und Erze;
+
 - 2\. Salze und Salzquellen;
+
 - 3\. fossile Brenn- und Leuchtstoffe wie Anthrazit, Steinkohle, Braunkohle, Schieferkohle sowie Schwefel;
+
 - 4\. mineralische Öle, Erdgas, Asphalt, Bitumen und andere feste, halbfeste, flüssige oder gasförmige Kohlenwasserstoffe;
+
 - 5\. Mineralien für die Erzeugung von Kernenergie.
 
 <sup>2</sup> Die Ausbeutung anderer mineralischer Rohstoffe wird in den Schranken der Rechtsordnung den Grundeigentümern oder Nutzungsberechtigten überlassen.
@@ -46,14 +53,17 @@ beschliesst:
 
 **Ausübung des Regals**
 
-<sup>1</sup> Der Kanton kann das Aufsuchen und die Gewinnung der in Art. 1 Abs.1 erwähnten Rohstoffe:
+Der Kanton kann das Aufsuchen und die Gewinnung der in Art. 1 Abs.1 erwähnten Rohstoffe:
 
 - 1\. auf eigene Rechnung betreiben;
+
 - 2\. durch Bewilligung oder Verleihung an Dritte übertragen.
+
+[^2-1]: Fassung gemäss Landsgemeindebeschluss vom 29. April 1990, A 1990, 828
 
 #### Art. 2a
 
-**Abwehr von Beeinträchtigungen**
+**Abwehr von Beeinträchtigungen[^2-1]**
 
 <sup>1</sup> Das Betreiben von Atomanlagen, insbesondere von Lagerstätten für radioaktive Abfälle, in Stollen oder Kavernen ist nach diesem Gesetz verleihungspflichtig, wenn dadurch das Aufsuchen und Gewinnen von Mineralien eingeschränkt wird.
 
@@ -87,7 +97,9 @@ beschliesst:
 
 #### Art. 5
 
-**Beteiligung des Kantons 1. finanziell**
+**Beteiligung des Kantons**
+
+### 1. finanziell
 
 <sup>1</sup> Der Kanton kann sich durch Beschluss des verfassungsmässig zuständigen Organs finanziell an einer Gesellschaft beteiligen, die sich um eine Bewilligung oder Verleihung bewirbt.
 
@@ -119,7 +131,7 @@ beschliesst:
 
 **Enteignungsrecht**
 
-<sup>1</sup> In bezug auf die Enteignung und ihre Anwendung gelten die Vorschriften der kantonalen Enteignungsgesetzgebung.
+In bezug auf die Enteignung und ihre Anwendung gelten die Vorschriften der kantonalen Enteignungsgesetzgebung.
 
 #### Art. 9
 
@@ -163,7 +175,9 @@ beschliesst:
 
 **Sicherstellung**
 
-<sup>1</sup> Für den Entschädigungsanspruch der Grundeigentümer (Art. 7) und für die Kosten für die Wiederherstellung des früheren Zustandes (Art. 11) hat der Inhaber einer Bewilligung oder Verleihung eine angemessene Sicherstellung zu leisten, deren Höhe durch den Regierungsrat festgesetzt wird; eine Bewilligung oder Verleihung darf erst nach Leistung der festgesetzten Sicherstellung erteilt werden.
+<sup>1</sup> Für den Entschädigungsanspruch der Grundeigentümer (Art. 7) und für die Kosten für die Wiederherstellung des früheren Zustandes (Art.
+
+- 11) hat der Inhaber einer Bewilligung oder Verleihung eine angemessene Sicherstellung zu leisten, deren Höhe durch den Regierungsrat festgesetzt wird; eine Bewilligung oder Verleihung darf erst nach Leistung der festgesetzten Sicherstellung erteilt werden.
 
 <sup>2</sup> Ändern sich im Laufe der Zeit die Verhältnisse wesentlich, kann der Regierungsrat jederzeit eine erhöhte Sicherstellung vorschreiben.
 
@@ -189,7 +203,7 @@ beschliesst:
 
 <sup>1</sup> Die wissenschaftliche Forschung darf vom Inhaber einer Bewilligung oder Verleihung nicht eingeschränkt werden.
 
-<sup>2</sup> Funde von wissenschaftlicher oder kulturhistorischer Bedeutung sind dem zuständigen Departement unverzüglich zu melden (Art. 724 ZGB[^16-1]).
+<sup>2</sup> Funde von wissenschaftlicher oder kulturhistorischer Bedeutung sind dem zuständigen Departement unverzüglich zu melden (Art. 724 ZGB[^16-1].
 
 [^16-1]: SR 210
 
@@ -203,9 +217,11 @@ beschliesst:
 
 #### Art. 18
 
-**Erlöschen einer Bewilligung oder Verleihung 1. Ablauf**
+**Erlöschen einer Bewilligung oder Verleihung**
 
-<sup>1</sup> Bewilligungen und Verleihungen erlöschen nach Ablauf ihrer Geltungsdauer.
+### 1. Ablauf
+
+Bewilligungen und Verleihungen erlöschen nach Ablauf ihrer Geltungsdauer.
 
 #### Art. 19
 
@@ -221,7 +237,7 @@ beschliesst:
 
 **3. Entzug**
 
-<sup>1</sup> Eine Bewilligung oder Verleihung kann entschädigungslos entzogen werden, wenn der Inhaber in gröblicher Weise trotz Mahnung fortgesetzt gegen Bedingungen und Auflagen der Bewilligung beziehungsweise Verleihung oder gegen Vorschriften dieses Gesetzes und der sich darauf stützenden Erlasse verstösst.
+Eine Bewilligung oder Verleihung kann entschädigungslos entzogen werden, wenn der Inhaber in gröblicher Weise trotz Mahnung fortgesetzt gegen Bedingungen und Auflagen der Bewilligung beziehungsweise Verleihung oder gegen Vorschriften dieses Gesetzes und der sich darauf stützenden Erlasse verstösst.
 
 #### Art. 21
 
@@ -241,13 +257,15 @@ beschliesst:
 
 <sup>3</sup> Die Schweigepflicht gilt nicht für Feststellungen an Grundwasservorkommen.
 
-## 2 Schürfung und Erschliessung
+### II. SCHÜRFUNG UND ERSCHLIESSUNG
 
 #### Art. 23
 
-**Schürfbewilligung 1. Wirkung**
+**Schürfbewilligung**
 
-<sup>1</sup> Die vom Regierungsrat erteilte Schürfbewilligung gibt dem Inhaber nach Massgabe ihres Inhalts sowie der gegenwärtigen und zukünftigen Gesetzgebung die Befugnis, innerhalb des Schürfgebietes auf fremdem Grundeigentum zu schürfen.
+### 1. Wirkung
+
+Die vom Regierungsrat erteilte Schürfbewilligung gibt dem Inhaber nach Massgabe ihres Inhalts sowie der gegenwärtigen und zukünftigen Gesetzgebung die Befugnis, innerhalb des Schürfgebietes auf fremdem Grundeigentum zu schürfen.
 
 #### Art. 24
 
@@ -273,7 +291,7 @@ beschliesst:
 
 **Duldungspflicht**
 
-<sup>1</sup> Grundeigentümer und Nutzungsberechtigte sind verpflichtet, die Schürfarbeiten zu dulden sowie Markierungen und andere Vorkehren des Schürfers zu belassen.
+Grundeigentümer und Nutzungsberechtigte sind verpflichtet, die Schürfarbeiten zu dulden sowie Markierungen und andere Vorkehren des Schürfers zu belassen.
 
 #### Art. 27
 
@@ -297,7 +315,7 @@ beschliesst:
 
 **Verfügungsrecht**
 
-<sup>1</sup> Der Schürfer ist befugt, über die bei seinen Schürfarbeiten geförderten mineralischen Rohstoffe soweit zu verfügen, als dies zur Abklärung der Abbauwürdigkeit der Lagerstätte notwendig ist.
+Der Schürfer ist befugt, über die bei seinen Schürfarbeiten geförderten mineralischen Rohstoffe soweit zu verfügen, als dies zur Abklärung der Abbauwürdigkeit der Lagerstätte notwendig ist.
 
 #### Art. 30
 
@@ -331,15 +349,17 @@ beschliesst:
 
 #### Art. 33
 
-**Erschliessungsbewilligung 1. Wirkung**
+**Erschliessungsbewilligung**
 
-<sup>1</sup> Die vom Regierungsrat erteilte Erschliessungsbewilligung gibt dem Schürfer das ausschliessliche Recht, innerhalb eines bestimmten Gebietes (Erschliessungsgebiet) mittels Tiefbohrungen sowie aller damit in Zusammenhang stehenden Massnahmen das Vorhandensein, die Ausdehnung und die Ausbeutungsmöglichkeiten einer Rohstofflagerstätte gemäss Art. 1 Absatz 1 Ziffer 4 abzuklären.
+### 1. Wirkung
+
+Die vom Regierungsrat erteilte Erschliessungsbewilligung gibt dem Schürfer das ausschliessliche Recht, innerhalb eines bestimmten Gebietes (Erschliessungsgebiet) mittels Tiefbohrungen sowie aller damit in Zusammenhang stehenden Massnahmen das Vorhandensein, die Ausdehnung und die Ausbeutungsmöglichkeiten einer Rohstofflagerstätte gemäss Art. 1 Absatz 1 Ziffer 4 abzuklären.
 
 #### Art. 34
 
 **2. Erteilung**
 
-<sup>1</sup> Bezüglich der Erteilung einer Erschliessungsbewilligung gelten die Bestimmungen von Art. 24 sinngemäss.
+Bezüglich der Erteilung einer Erschliessungsbewilligung gelten die Bestimmungen von Art. 24 sinngemäss.
 
 #### Art. 35
 
@@ -365,7 +385,7 @@ beschliesst:
 
 **Abschluss der Erschliessungsarbeiten**
 
-<sup>1</sup> Jedes endgültig aufgegebene Bohrloch ist den Vorschriften der Vollziehungsverordnung gemäss zu verfüllen.
+Jedes endgültig aufgegebene Bohrloch ist den Vorschriften der Vollziehungsverordnung gemäss zu verfüllen.
 
 #### Art. 38
 
@@ -375,13 +395,13 @@ beschliesst:
 
 <sup>2</sup> Für das von der Verleihung nicht erfasste Gebiet gilt die Erschliessungsbewilligung weiter.
 
-## 3 Ausbeutung
+### III. AUSBEUTUNG
 
 #### Art. 39
 
 **Voraussetzung für eine Verleihung**
 
-<sup>1</sup> Bewerber um eine Verleihung müssen Gewähr für eine sachgemässe Erstellung der Anlagen sowie für einen einwandfreien Betrieb bieten.
+Bewerber um eine Verleihung müssen Gewähr für eine sachgemässe Erstellung der Anlagen sowie für einen einwandfreien Betrieb bieten.
 
 #### Art. 40
 
@@ -397,11 +417,13 @@ beschliesst:
 
 <sup>1</sup> Das Verleihungsgesuch wird mit dem Beschrieb der Anlagen und den Projektplänen in den Gemeinden, auf deren Gebiet die Förderanlagen zu liegen kommen, während 30 Tagen öffentlich aufgelegt.
 
-<sup>2</sup> Die Auflage wird durch die Direktion im Amtsblatt öffentlich bekannt gemacht, mit der Aufforderung, allfällige Einwendungen wegen Verletzung öffentlicher oder privater Interessen binnen der Auflagefrist bei der Direktion einzureichen.
+<sup>2</sup> Die Auflage wird durch die Direktion im Amtsblatt öffentlich bekannt gemacht, mit der Aufforderung, allfällige Einwendungen wegen Verletzung öffentlicher oder privater Interessen binnen der Auflagefrist bei der Direktion einzureichen.[^41-1]
+
+[^41-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 42
 
-**Einwendungen**
+**Einwendungen[^41-1]**
 
 <sup>1</sup> Personen des öffentlichen und privaten Rechts können gegen das Verleihungsgesuch wegen Verletzung öffentlicher oder privater Interessen Einwendung erheben.
 
@@ -409,9 +431,11 @@ beschliesst:
 
 #### Art. 43
 
-**Ausbeutungsverleihung 1. Wirkung**
+**Ausbeutungsverleihung**
 
-<sup>1</sup> Die Ausbeutungsverleihung verschafft dem Inhaber nach Massgabe ihres Inhalts sowie der gegenwärtigen und zukünftigen Gesetzgebung das ausschliessliche Recht, innerhalb eines bestimmten Gebietes (Ausbeutungsgebiet) dem Hoheitsrecht des Kantons unterliegende mineralische Rohstoffe zu gewinnen.
+### 1. Wirkung
+
+Die Ausbeutungsverleihung verschafft dem Inhaber nach Massgabe ihres Inhalts sowie der gegenwärtigen und zukünftigen Gesetzgebung das ausschliessliche Recht, innerhalb eines bestimmten Gebietes (Ausbeutungsgebiet) dem Hoheitsrecht des Kantons unterliegende mineralische Rohstoffe zu gewinnen.
 
 #### Art. 44
 
@@ -421,17 +445,21 @@ beschliesst:
 
 <sup>2</sup> Eine Ausbeutungsverleihung kann nur dem Schürfer beziehungsweise Erschliesser erteilt werden, sofern er sein Verleihungsgesuch vor Ablauf der Schürf- beziehungsweise Erschliessungsbewilligung einreicht.
 
-<sup>3</sup> Wird die Verleihung erteilt, bevor alle privatrechtlichen Vorbringen behoben sind, bleibt deren Erledigung vorbehalten.
+<sup>3</sup> Wird die Verleihung erteilt, bevor alle privatrechtlichen Vorbringen behoben sind, bleibt deren Erledigung vorbehalten.[^44-1]
+
+[^44-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 45
 
 **3. Entscheid über öffentlichrechtliche Einwendungen**
 
-<sup>1</sup> Der Regierungsrat entscheidet über die öffentlich-rechtlichen Einwendungen.
+<sup>1</sup> Der Regierungsrat entscheidet über die öffentlich-rechtlichen Einwendungen.[^45-1]
 
 <sup>2</sup> Er hat in die Verleihung Vorschriften zur Wahrung öffentlicher Interessen aufzunehmen, insbesondere über den Schutz des Grundwassers und den Umweltschutz.
 
 <sup>3</sup> Die Verleihung hat im Rahmen der Gesetzgebung Rückkauf und Heimfall zu regeln, wobei Bestimmungen über den frühesten Zeitpunkt des Rückkaufes und dessen Voranzeige sowie über die zu leistenden Kostennachweise, die an den Kanton übergehenden Anlageteile und die hiefür massgebenden Abtretungsbedingungen in die Verleihung aufgenommen werden müssen.
+
+[^45-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 46
 
@@ -439,7 +467,9 @@ beschliesst:
 
 <sup>1</sup> Die Verleihungsdauer beträgt höchstens 50 Jahre; ein auf wenigstens 30 Jahre verliehenes Ausbeutungsrecht kann als selbständiges und dauerndes Recht in das Grundbuch eingetragen werden.
 
-<sup>2</sup> Der Regierungsrat kann unter Einhaltung der Bestimmungen von Art. 44 Absatz 1 eine Verleihung auf Gesuch hin erneuern, wenn vom Heimfall nicht Gebrauch gemacht wird und keine überwiegenden Gründe des öffentlichen Wohls entgegenstehen; das Gesuch für die Erneuerung ist mindestens drei Jahre vor Ablauf der Verleihungsdauer beim zuständigen Departement einzureichen.
+<sup>2</sup> Der Regierungsrat kann unter Einhaltung der Bestimmungen von Art.
+
+44 Absatz 1 eine Verleihung auf Gesuch hin erneuern, wenn vom Heimfall nicht Gebrauch gemacht wird und keine überwiegenden Gründe des öffentlichen Wohls entgegenstehen; das Gesuch für die Erneuerung ist mindestens drei Jahre vor Ablauf der Verleihungsdauer beim zuständigen Departement einzureichen.
 
 <sup>3</sup> Bei der Erneuerung einer Ausbeutungsverleihung können die Verleihungsbedingungen abgeändert oder ergänzt werden.
 
@@ -455,7 +485,7 @@ beschliesst:
 
 **6. Ende**
 
-<sup>1</sup> Soweit die Verleihung nichts anderes bestimmt, verfügt der Regierungsrat, in welchem Umfang der Beliehene den früheren Zustand wieder herzustellen hat und welche Sicherungsarbeiten vorzunehmen sind; die Arbeiten sind im Einvernehmen mit dem zuständigen Departement auszuführen.
+Soweit die Verleihung nichts anderes bestimmt, verfügt der Regierungsrat, in welchem Umfang der Beliehene den früheren Zustand wieder herzustellen hat und welche Sicherungsarbeiten vorzunehmen sind; die Arbeiten sind im Einvernehmen mit dem zuständigen Departement auszuführen.
 
 #### Art. 49
 
@@ -494,6 +524,7 @@ beschliesst:
 <sup>3</sup> Macht der Kanton von diesem Übernahmerecht Gebrauch, sind ihm:
 
 - 1\. die Bohrlöcher einschliesslich Verrohrung sowie alle Schächte und Stollen unentgeltlich zu überlassen;
+
 - 2\. alle Betriebsanlagen und Einrichtungen sowie die für den Betrieb erworbenen Eigentums- und Nutzungsrechte gegen Entschädigungen abzutreten.
 
 <sup>4</sup> Macht der Kanton vom Übernahmerecht keinen Gebrauch, hat der Beliehene auf seine Kosten die Betriebsanlagen zu beseitigen und den früheren Zustand wieder herzustellen, soweit dies der Regierungsrat verlangt.
@@ -502,13 +533,15 @@ beschliesst:
 
 #### Art. 52
 
-**Verzicht auf die Verwendung einzelner geförderter Materialien**
+**Verzicht auf die Verwendung einzelner geförderter**
+
+### Materialien
 
 <sup>1</sup> Verzichtet der Beliehene auf die Verwendung einzelner geförderter Materialien, kann der Kanton diese unentgeltlich für sich beanspruchen.
 
 <sup>2</sup> Der Kanton ist in diesem Falle berechtigt, entschädigungslos die erforderlichen Vorrichtungen anzubringen und zu betreiben.
 
-## 4 Gebühren und Abgaben
+### IV. GEBÜHREN UND ABGABEN
 
 #### Art. 53
 
@@ -524,7 +557,7 @@ beschliesst:
 
 **Höhe der Gebühren**
 
-<sup>1</sup> Die Höhe der Verwaltungsgebühren sowie der Oberflächengebühren setzt der Landrat in der Vollziehungsverordnung fest.
+Die Höhe der Verwaltungsgebühren sowie der Oberflächengebühren setzt der Landrat in der Vollziehungsverordnung fest.
 
 #### Art. 55
 
@@ -535,6 +568,7 @@ beschliesst:
 <sup>2</sup> Die jährliche Produktionsabgabe beträgt:
 
 - 1\. für feste mineralische Rohstoffe zehn Prozent des Marktwertes der Gesamtförderung;
+
 - 2\. für Erdöl und Erdgas sowie für andere feste, halbfeste, flüssige und gasförmige Kohlenwasserstoffe entweder zehn Prozent der Gesamtförderung ab Bohrloch oder zehn Prozent des Marktwertes der Gesamtförderung, nach Abzug des betriebsbedingten Eigenverbrauches, beides frei Behälter an der Bohrstelle.
 
 #### Art. 56
@@ -549,41 +583,50 @@ beschliesst:
 
 **Gesetzliches Pfandrecht**
 
-<sup>1</sup> Für sämtliche Forderungen aus den Bewilligungen und Verleihungen besitzt der Kanton ein gesetzliches Grundpfandrecht im Sinne von Art. 117 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^57-1].
+<sup>1</sup> Für sämtliche Forderungen aus den Bewilligungen und Verleihungen besitzt der Kanton ein gesetzliches Grundpfandrecht im Sinne von Art. 117 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^57-1].[^57-2]
 
 <sup>2</sup> Die Forderungen werden, sofern in der Bewilligungs- oder Verleihungsurkunde kein anderer Zeitpunkt bestimmt ist, mit der Rechnungsstellung fällig.
 
 [^57-1]: NG 211.1
+[^57-2]: Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1769; A 2012, 558, in Kraft seit 1. Januar 2012; vom Bund genehmigt am 25. Mai 2012
 
-## 5 Rechtsmittel, Streitigkeiten, Widerhandlungen
+### V. RECHTSMITTEL, STREITIGKEITEN, WIDERHANDLUNGEN
+
+[^hVRECHTSMITTELSTR-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 58
 
-**…**
+**…[^hVRECHTSMITTELSTR-1]**
 
 #### Art. 59
 
 **Streitigkeiten**
 
-<sup>1</sup> Streitigkeiten aus Verleihungen oder Bewilligungen, die gestützt auf dieses Gesetz erteilt wurden, sind durch die Verleihungs- oder Bewilligungsbehörde mittels Verfügung zu entscheiden, soweit es sich nicht um private Rechte handelt.
+<sup>1</sup> Streitigkeiten aus Verleihungen oder Bewilligungen, die gestützt auf dieses Gesetz erteilt wurden, sind durch die Verleihungs- oder Bewilligungsbehörde mittels Verfügung zu entscheiden, soweit es sich nicht um private Rechte handelt.[^59-1]
 
 <sup>2</sup> Streitigkeiten unter Nutzungsberechtigten über den Umfang ihrer Nutzungsrechte beurteilen die Zivilgerichte.
 
+[^59-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+
 #### Art. 60
 
-**Übertretungen 1. Strafen**
+**Übertretungen**
 
-<sup>1</sup> Widerhandlungen gegen Bestimmungen dieses Gesetzes und der sich darauf stützenden Erlasse und Verfügungen werden mit Busse bestraft.
+### 1. Strafen
+
+<sup>1</sup> Widerhandlungen gegen Bestimmungen dieses Gesetzes und der sich darauf stützenden Erlasse und Verfügungen werden mit Busse[^h1Strafen-1] bestraft.
 
 <sup>2</sup> Wird die Widerhandlung im Geschäftsbetrieb einer juristischen Person, einer Kollektiv- oder Kommanditgesellschaft begangen, finden die Strafbestimmungen auf die Personen Anwendung, die für jene gehandelt haben oder hätten handeln sollen; juristische Personen sowie Kollektiv- oder Kommanditgesellschaften sind für Bussen und Kosten solidarisch haftbar, und es stehen ihnen im Strafverfahren die Rechte einer Partei zu.
+
+[^h1Strafen-1]: Fassung gemäss Landratsbeschluss vom 25. Oktober 2006, A 2006, 1705, A 2007, 5; in Kraft seit 1. Januar 2007
 
 #### Art. 61
 
 **2. Verwaltungsmassnahmen**
 
-<sup>1</sup> Unabhängig von der Einleitung oder vom Ausgang eines Strafverfahrens kann der Regierungsrat den Fehlbaren zur Beseitigung der Anlage, zur Herstellung des früheren oder des vorgeschriebenen Zustandes und zur Nachzahlung der hinterzogenen Gebühren und Abgaben anhalten; nach erfolgter Mahnung und Fristansetzung kann der Regierungsrat auf Kosten des Widerhandelnden die nötigen Massnahmen zur Wiederherstellung des rechtmässigen Zustandes treffen.
+Unabhängig von der Einleitung oder vom Ausgang eines Strafverfahrens kann der Regierungsrat den Fehlbaren zur Beseitigung der Anlage, zur Herstellung des früheren oder des vorgeschriebenen Zustandes und zur Nachzahlung der hinterzogenen Gebühren und Abgaben anhalten; nach erfolgter Mahnung und Fristansetzung kann der Regierungsrat auf Kosten des Widerhandelnden die nötigen Massnahmen zur Wiederherstellung des rechtmässigen Zustandes treffen.
 
-## 6 Zusammenarbeit mit andern Kantonen
+### VI. ZUSAMMENARBEIT MIT ANDERN KANTONEN
 
 #### Art. 62
 
@@ -593,7 +636,7 @@ beschliesst:
 
 <sup>2</sup> Die Kündigung solcher Konkordate fällt in die Zuständigkeit des Landrates.
 
-## 7 Schlussbestimmungen
+### VII. SCHLUSSBESTIMMUNGEN
 
 #### Art. 63
 
@@ -610,5 +653,3 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz tritt mit der Annahme durch die Landsgemeinde in Kraft; es ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
 
 <sup>2</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Gesetz vom 30. April 1933 betreffend das Bergregal.
-
-A 1979, 680
