@@ -4,27 +4,28 @@ number: "923.11"
 title: Einführungsverordnung zur Gesetzgebung über Massnahmen zur Wahrung der inneren Sicherheit
 language: de
 version: 2010-01-01
+corrected: 2021-10-26
 version_adopted: 2009-12-01
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/923.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/707/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/423/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Einführungsverordnung zur Gesetzgebung über Massnahmen zur Wahrung der inneren Sicherheit
 
-vom 01.12.2009 (Stand 01.01.2010)
+vom 1. Dezember 2009[^t-1]
 
-Der Regierungsrat von Nidwalden,
-
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit (BWIS)[^ingress-1] und des Konkordats vom 15. November 2007 über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen (Konkordat)[^ingress-2],
+Der Regierungsrat von Nidwalden, gestützt auf Art. 64 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit (BWIS)[^t-2] und des Konkordats vom 15. November 2007 über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen (Konkordat)[^t-3],
 
 beschliesst:
 
-[^ingress-1]: SR 120
-[^ingress-2]: NG 923.1
+[^t-1]: A 2009, 2195
+[^t-2]: SR 120
+[^t-3]: NG 923.1
 
 #### § 1
 
@@ -33,6 +34,7 @@ beschliesst:
 <sup>1</sup> Diese Verordnung regelt den Vollzug:
 
 - 1\. der Bundesgesetzgebung über Massnahmen zur Wahrung der inneren Sicherheit[^1-1];
+
 - 2\. des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen[^1-2].
 
 <sup>2</sup> Sie bestimmt die zuständigen Behörden für den Vollzug der in der Bundesgesetzgebung und im Konkordat vorgesehenen Massnahmen.
@@ -49,17 +51,22 @@ beschliesst:
 <sup>2</sup> Sie ist insbesondere zuständig für die Anordnung:
 
 - 1\. des Rayonverbots (Art. 4 und 5 des Konkordats);
+
 - 2\. der Meldeauflage (Art. 6 und 7 des Konkordats);
+
 - 3\. des Polizeigewahrsams (Art. 8 und 9 des Konkordats).
 
-<sup>3</sup> Die Kantonspolizei kann beim Bundesamt für Polizei (fedpol) Ausreisebeschränkungen im Sinne von Art. 24c Abs. 5 BWIS[^2-3] beantragen.
+<sup>3</sup> Die Kantonspolizei kann beim Bundesamt für Polizei (fedpol) Ausreisebeschränkungen im Sinne von Art. 24c Abs. 5 BWIS[^2-1] beantragen.
 
-<sup>4</sup> Sie meldet der fedpol gemäss Art. 21c der Verordnung über Massnahmen zur Wahrung der inneren Sicherheit (VWIS)[^2-4] die Anordnung und die Aufhebung von Massnahmen, Verstösse gegen Massnahmen sowie die festgelegten Rayons.
+**1**
+
+Stand: 1. Januar 2010
+
+<sup>4</sup> Sie meldet der fedpol gemäss Art. 21c der Verordnung über Massnahmen zur Wahrung der inneren Sicherheit (VWIS)[^2-3] die Anordnung und die Aufhebung von Massnahmen, Verstösse gegen Massnahmen sowie die festgelegten Rayons.
 
 [^2-1]: SR 120
 [^2-2]: NG 923.1
-[^2-3]: SR 120
-[^2-4]: SR 120.2
+[^2-3]: SR 120.2
 
 #### § 3
 
@@ -75,7 +82,7 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Einführungsverordnung vom 20. Mai 2008 zum Bundesgesetz über Massnahmen zur Wahrung der inneren Sicherheit[^4-1] wird aufgehoben.
+Die Einführungsverordnung vom 20. Mai 2008 zum Bundesgesetz über Massnahmen zur Wahrung der inneren Sicherheit[^4-1] wird aufgehoben.
 
 [^4-1]: A 2008, 1061
 
@@ -83,6 +90,4 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt auf den 1. Januar 2010 in Kraft.
-
-A 2009, 2195
+Diese Verordnung tritt auf den 1. Januar 2010 in Kraft.
