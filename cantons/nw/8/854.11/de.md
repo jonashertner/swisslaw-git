@@ -5,75 +5,66 @@ title: Vollzugsverordnung zum Gesetz über das Gastgwerbe und den Handel mit alk
 short: "Gastgewerbeverordnung, GGV"
 language: de
 version: 2020-01-01
+corrected: 2021-10-26
 version_adopted: 2019-12-17
 adopted: 2019-12-17
 in_force: 2020-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/854.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1326/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/392/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Gesetz über das Gastgwerbe und den Handel mit alkoholischen Getränken
+# Vollzugsverordnung zum Gesetz über das Gastgwerbe und den Handel mit alkoholischen Getränken (Gastgewerbeverordnung, GGV)
 
-(Gastgewerbeverordnung, GGV)
-
-vom 17.12.2019 (Stand 01.01.2020)
+vom 17. Dezember 2019[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 13 Abs. 2, 19 Abs. 3, 37 Abs. 2 und 47 des Gesetzes über das Gastgewerbe und den Handel mit alkoholischen Getränken (Gastgewerbegesetz, GGG)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 13 Abs. 2, 19 Abs. 3, 37 Abs. 2 und 47 des Gesetzes über das Gastgewerbe und den Handel mit alkoholischen Getränken (Gastgewerbegesetz, GGG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 854.1
+[^t-1]: A 2020, 22
+[^t-2]: NG 854.1
 
-## 1 Gastgewerbe
+### I. GASTGEWERBE
 
-#### § 1
+### Begriffe
 
-**Begriffe**
-
-<sup>1</sup> In dieser Gesetzgebung bedeuten:
+In dieser Gesetzgebung bedeuten:
 
 - 1\. Kantinen: Betriebe, die einem eng begrenzten Personenkreis, wie Arbeitnehmer eines Betriebes, Schülern, Militärpersonen usw. Speisen und Getränke abgeben;
+
 - 2\. Berghütten: Unterkünfte des Schweizer Alpen-Clubs und anderer Organisationen mit ähnlicher Zielsetzung, die im Gebirge abseits von Strassen oder Verkehrsmitteln ausserhalb von Ortschaften gelegen sind;
-- 3\. Begegnungsstätten: Orte, die in gemeinnütziger Weise den Kanton, die Gemeinden oder Kirchen bei der Erfüllung ihrer Aufgaben un-terstützen und nicht auf Erwerb ausgerichtet sind.
 
-#### § 2
+- 3\. Begegnungsstätten: Orte, die in gemeinnütziger Weise den Kanton, die Gemeinden oder Kirchen bei der Erfüllung ihrer Aufgaben unterstützen und nicht auf Erwerb ausgerichtet sind.
 
-**Bauvorschriften**
+### Bauvorschriften
 
-<sup>1</sup> Die Planungshilfe für Gastwirtschaftsbetriebe der Gesellschaft der Schweizerischen Lebensmittelinspektoren von 2007[^2-1] wird verbindlich erklärt.
+<sup>1</sup> Die Planungshilfe für Gastwirtschaftsbetriebe der Gesellschaft der Schweizerischen Lebensmittelinspektoren von 2007[^hBauvorschriften-1] wird verbindlich erklärt.
 
-<sup>2</sup> Bei engen räumlichen Verhältnissen kann bei Gastgewerbebetrieben gemäss Art. 11 Abs. 3 GGG[^2-2] von der Pflicht zur Erstellung geschlechtergetrennter Toilettenanlagen abgewichen werden.
+<sup>2</sup> Bei engen räumlichen Verhältnissen kann bei Gastgewerbebetrieben gemäss Art. 11 Abs. 3 GGG[^hBauvorschriften-2] von der Pflicht zur Erstellung geschlechtergetrennter Toilettenanlagen abgewichen werden.
 
 <sup>3</sup> Tanzdarbietungslokale mit Stripteasevorführungen oder ähnlichem müssen nach Geschlechtern getrennte Garderoben mit Toilette und Dusche für die Künstlerinnen und Künstler aufweisen. Von der Bühne muss ein direkter Zugang zur Garderobe bestehen.
 
-[^2-1]: [www.laburk.ch](http://www.laburk.ch)
-[^2-2]: NG 854.1
+[^hBauvorschriften-1]: www.laburk.ch
+[^hBauvorschriften-2]: NG 854.1
 
-#### § 3
+### Ausnahmen von der Schliessungszeit
 
-**Ausnahmen von der Schliessungszeit**
-
-<sup>1</sup> Je Betrieb und Jahr können höchstens 24 Bewilligungen für Ausnahmen von der Schliessungszeit gemäss Art. 19 GGG[^3-1] bewilligt werden.
+<sup>1</sup> Je Betrieb und Jahr können höchstens 24 Bewilligungen für Ausnahmen von der Schliessungszeit gemäss Art. 19 GGG2 bewilligt werden.
 
 <sup>2</sup> Bewilligungen für weitere Ausnahmen müssen gemäss Art. 18 GGG erteilt werden.
 
-[^3-1]: NG 854.1
+### Gelegenheitswirtschaften
 
-#### § 4
+Eine einzelne Gelegenheitswirtschaftsbewilligung darf höchstens für eine Dauer von 15 aufeinanderfolgenden Tagen erteilt werden; in begründeten Fällen kann diese Frist auf höchstens 30 Tage verlängert werden.
 
-**Gelegenheitswirtschaften**
+### II. ABGABEN
 
-<sup>1</sup> Eine einzelne Gelegenheitswirtschaftsbewilligung darf höchstens für eine Dauer von 15 aufeinanderfolgenden Tagen erteilt werden; in begründeten Fällen kann diese Frist auf höchstens 30 Tage verlängert werden.
-
-## 2 Abgaben
-
-#### § 5
-
-**Einzelheiten der Bemessung**
+### Einzelheiten der Bemessung
 
 <sup>1</sup> Massgebend für die Bemessung der Abgabe sind Art, Grösse und Betriebszeiten des Gastwirtschaftsbetriebes. Die Grösse des Betriebs bestimmt sich nach der Anzahl Sitzplätze.
 
@@ -81,75 +72,54 @@ beschliesst:
 
 <sup>3</sup> Sitzplätze in nicht dauernd genutzten Sälen, die nur für spezielle Anlässe geöffnet werden, sind nur zu 20 Prozent anrechenbar.
 
-#### § 6
-
-**Ordentliche Gastwirtschaften**
+### Ordentliche Gastwirtschaften
 
 <sup>1</sup> Für ordentliche Gastwirtschaften mit ordentlichen Schliesszeiten gelten folgende Ansätze:
 
-- 1\. 1–30 Sitzplätze: — Fr. 200.–
-- 2\. 31–50 Sitzplätze: — Fr. 250.–
-- 3\. 51–70 Sitzplätze: — Fr. 300.–
-- 4\. 71–90 Sitzplätze: — Fr. 350.–
-- 5\. 91–110 Sitzplätze: — Fr. 400.–
-- 6\. 111–130 Sitzplätze: — Fr. 500.–
-- 7\. mehr als 130 Sitzplätze: — Fr. 500.– bis Fr. 2'000.–
+**Fr. 200.- Fr. 250.- Fr. 300.- Fr. 350.- Fr. 400.- Fr. 500.-**
 
-<sup>2</sup> Ab 130 Sitzplätzen sind für jeweils weitere 20 Sitzplätze zusätzlich Fr. 50.– zu entrichten.
+1 – 30 Sitzplätze 31 – 50 Sitzplätze 51 – 70 Sitzplätze 71 – 90 Sitzplätze 91 – 110 Sitzplätze 111 – 130 Sitzplätze mehr als 130 Sitzplätze Fr. 500.- bis Fr. 2'000.-
 
-<sup>3</sup> Kioskwirtschaften und Take-Aways gemäss Art. 11 Abs. 3 Ziff. 3 GGG[^6-1] haben pauschal Fr. 200.– zu entrichten.
+<sup>2</sup> Ab 130 Sitzplätzen sind für jeweils weitere 20 Sitzplätze zusätzlich Fr. 50.- zu entrichten.
 
-[^6-1]: NG 854.1
+<sup>3</sup> Kioskwirtschaften und Take-Aways gemäss Art. 11 Abs. 3 Ziff. 3 GGG[^hOrdentlicheGastwirt-1] haben pauschal Fr. 200.- zu entrichten.
 
-#### § 7
+[^hOrdentlicheGastwirt-1]: NG 854.1
 
-**Ordentliche Gastwirtschaften mit dauernder Ausnahme von den Schliessungszeiten**
+### Ordentliche Gastwirtschaften mit dauernder Ausnahme
 
-<sup>1</sup> Für ordentliche Gastwirtschaften mit dauernder Ausnahme von den Schliessungszeiten gemäss Art. 19 GGG[^7-1] gelten folgende Ansätze:
+von den Schliessungszeiten
 
-- 1\. 1–30 Sitzplätze: — Fr. 400.–
-- 2\. 31–50 Sitzplätze: — Fr. 500.–
-- 3\. 51–70 Sitzplätze: — Fr. 600.–
-- 4\. 71–90 Sitzplätze: — Fr. 700.–
-- 5\. 91–110 Sitzplätze: — Fr. 800.–
-- 6\. 111–130 Sitzplätze: — Fr. 900.–
-- 7\. mehr als 130 Sitzplätze: — Fr. 900.– bis Fr. 3'000.–
+<sup>1</sup> Für ordentliche Gastwirtschaften mit dauernder Ausnahme von den Schliessungszeiten gemäss Art. 19 GGG[^hOrdentlicheGastwirt_2-1] gelten folgende Ansätze: 1 – 30 Sitzplätze 31 – 50 Sitzplätze 51 – 70 Sitzplätze 71 – 90 Sitzplätze 91 – 110 Sitzplätze 111 – 130 Sitzplätze mehr als 130 Sitzplätze Fr. 900.- bis Fr. 3’000.-
 
-<sup>2</sup> Ab 130 Sitzplätzen sind für jeweils weitere 20 Sitzplätze zusätzlich Fr. 100.– zu entrichten.
+**Fr. 400.- Fr. 500.- Fr. 600.- Fr. 700.- Fr. 800.- Fr. 900.-**
 
-<sup>3</sup> Für die dauernde Verlängerung der Schliessungszeit wird je bewilligtem Wochentag ein Zuschlag von je Fr. 100.– erhoben.
+<sup>2</sup> Ab 130 Sitzplätzen sind für jeweils weitere 20 Sitzplätze zusätzlich Fr. 100.- zu entrichten.
 
-[^7-1]: NG 854.1
+<sup>3</sup> Für die dauernde Verlängerung der Schliessungszeit wird je bewilligtem Wochentag ein Zuschlag von je Fr. 100.- erhoben.
 
-#### § 8
+[^hOrdentlicheGastwirt_2-1]: NG 854.1
 
-**Ordentliche Gastwirtschaften, die nur bei besonderen Anlässen oder Veranstaltungen geöffnet sind**
+### Ordentliche Gastwirtschaften, die nur bei besonderen Anlässen oder Veranstaltungen geöffnet sind
 
-<sup>1</sup> Für ordentliche Gastwirtschaften, die nur bei besonderen Anlässen oder Veranstaltungen geöffnet sind gemäss Art. 11 Abs. 3 Ziff. 6 GGG[^8-1] gelten folgende Ansätze:
+<sup>1</sup> Für ordentliche Gastwirtschaften, die nur bei besonderen Anlässen oder Veranstaltungen geöffnet sind gemäss Art. 11 Abs. 3 Ziff. 6 GGG[^hOrdentlicheGastwirt_3-1] gelten folgende Ansätze:
 
-- 1\. 1–50 Sitzplätze: — Fr. 200.–
-- 2\. 51–100 Sitzplätze: — Fr. 250.–
-- 3\. 101–150 Sitzplätze: — Fr. 300.–
-- 4\. mehr als 150 Sitzplätze: — Fr. 400.–
+**Fr. 200.- Fr. 250.- Fr. 300.- Fr. 400.-**
 
-<sup>2</sup> Schützenstuben haben pauschal Fr. 200.– zu entrichten.
+1 – 50 Sitzplätze 51 – 100 Sitzplätze 101 – 150 Sitzplätze mehr als 150 Sitzplätze
 
-[^8-1]: NG 854.1
+<sup>2</sup> Schützenstuben haben pauschal Fr. 200.- zu entrichten.
 
-#### § 9
+[^hOrdentlicheGastwirt_3-1]: NG 854.1
 
-**Saisonbetriebe**
+### Saisonbetriebe
 
 <sup>1</sup> Für Saisonbetriebe sind die Kriterien für ordentliche Gastwirtschaften anwendbar, wobei je Monate, in welcher der Betrieb geschlossen ist, die Abgabe anteilsmässig reduziert wird.
 
-<sup>2</sup> Gastwirtschaften in Strandbädern haben pauschal Fr. 200.– zu entrichten.
+<sup>2</sup> Gastwirtschaften in Strandbädern haben pauschal Fr. 200.- zu entrichten.
 
-## 3 Schlussbestimmung
+### III. SCHLUSSBESTIMMUNG
 
-#### § 10
+### Inkrafttreten
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2020 in Kraft.
-
-A 2020, 22
+Diese Verordnung tritt am 1. Januar 2020 in Kraft.
