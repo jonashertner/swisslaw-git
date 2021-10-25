@@ -5,59 +5,70 @@ title: Gesamtschweizerisches Geldspielkonkordat
 short: GSK
 language: de
 version: 2021-01-01
+corrected: 2021-10-26
 version_adopted: 2019-05-20
 adopted: 2019-05-20
 in_force: 2021-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/932.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/704/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/427/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesamtschweizerisches Geldspielkonkordat
+# Gesamtschweizerisches Geldspielkonkordat (GSK)
 
-(GSK)
-
-vom 20.05.2019 (Stand 01.01.2021)
+vom 20. Mai 2019[^t-1]
 
 Die Kantone,
 
-gestützt auf Art. 48 und Art. 106 sowie Art. 191b Abs. 2 der Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999 (SR 101; BV) und das Bundesgesetz vom 29. September 2017 über Geldspiele (SR 935.51; Geldspielgesetz, BGS)[^ingress-1],
+gestützt auf Art. 48 und Art. 106 sowie Art. 191b Abs. 2 der Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999 (SR 101; BV) und das Bundesgesetz vom 29. September 2017 über Geldspiele (SR 935.51; Geldspielgesetz, BGS)[^t-2],
 
 vereinbaren:
 
-[^ingress-1]: SR 935.51
+- 1\. KAPITEL: ALLGEMEINE BESTIMMUNGEN
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: A 2020, 388; vom Landrat genehmigt am 12. Februar 2020, A 2020, 386, 1846; in Kraft seit dem 1. Januar 2021
+[^t-2]: SR 935.51
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Konkordat regelt:
+Dieses Konkordat regelt:
 
 - a. die interkantonale Trägerschaft Geldspiele (nachfolgend: Trägerschaft) einschliesslich das interkantonale Geldspielgericht (nachfolgend: Geldspielgericht);
+
 - b. die interkantonale Aufsichts- und Vollzugsbehörde gemäss Art. 105 BGS (nachfolgend: Interkantonale Geldspielaufsicht; GESPA);
+
 - c. die Stiftung Sportförderung Schweiz (nachfolgend SFS);
+
 - d. die Gewährung ausschliesslicher Veranstaltungsrechte für die Durchführung von Grosslotterien und grossen Sportwetten;
+
 - e. die Erhebung und Verwendung von Abgaben für die Finanzierung des Aufwands im Zusammenhang mit dem Geldspiel und der Bekämpfung der Spielsucht.
 
-## 2 Die interkantonale Trägerschaft Geldspiele
+- 2\. KAPITEL: DIE INTERKANTONALE TRÄGERSCHAFT
 
-### 2.1 Aufgaben und Organisation
+### GELDSPIELE
 
-### 2.1.1 Allgemeines
+### Erster Abschnitt: Aufgaben und Organisation
+
+- a) Allgemeines
 
 #### Art. 2
 
 **Aufgaben der Trägerschaft**
 
-<sup>1</sup> Die Trägerschaft:
+Die Trägerschaft:
 
 - a. bestimmt im Rahmen des übergeordneten Rechts die Politik der Kantone im Bereich der Grossspiele und setzt politische Rahmenbedingungen für den Grossspielsektor;
+
 - b. nimmt die Verantwortung der Kantone als Träger der GESPA wahr; sie übt insbesondere die administrative Aufsicht über die GESPA aus;
+
 - c. stellt das Geldspielgericht;
+
 - d. gewährleistet die transparente Verwendung von Reingewinnen aus Grosslotterien und grossen Sportwetten zugunsten des nationalen Sports; sie übt insbesondere die administrative Aufsicht über die SFS aus;
+
 - e. ist Depositärin des Konkordats.
 
 #### Art. 3
@@ -69,57 +80,97 @@ vereinbaren:
 <sup>2</sup> Organe der Trägerschaft sind:
 
 - a. die Fachdirektorenkonferenz Geldspiele (nachfolgend: FDKG);
+
 - b. der Vorstand;
+
 - c. das Geldspielgericht;
+
 - d. die Revisionsstelle.
 
-### 2.1.2 Fachdirektorenkonferenz Geldspiele (FDKG)
+- b) Fachdirektorenkonferenz Geldspiele (FDKG)
 
 #### Art. 4
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Kantone entsenden je ein Regierungsmitglied in die FDKG.
+Die Kantone entsenden je ein Regierungsmitglied in die FDKG.
 
 #### Art. 5
 
 **Zuständigkeiten der FDKG**
 
-<sup>1</sup> Die FDKG:
+Die FDKG:
 
 - a. verabschiedet Stellungnahmen und Empfehlungen zuhanden der Kantone im Bereich der Geldspielpolitik;
+
 - b. wählt:
-  - i. die Mitglieder des Vorstands;
-  - ii. die Revisionsstelle;
-  - iii. die Mitglieder des Aufsichtsrats der GESPA sowie deren Präsidium;
-  - iv. die Richterinnen und Richter, die Ersatzrichterinnen und Ersatzrichter sowie die a.o. Richterinnen und Richter des Geldspielgerichts sowie dessen Präsidium;
-  - v. die Mitglieder des Stiftungsrats der SFS sowie dessen Präsidium;
-  - vi. die Vertretungen der kantonalen Vollzugsbehörden und der GESPA im Koordinationsorgan gemäss Art. 113 ff. BGS;
+
+- i. die Mitglieder des Vorstands;
+
+- ii. die Revisionsstelle;
+
+iii. die Mitglieder des Aufsichtsrats der GESPA sowie deren Präsidium;
+
+- iv. die Richterinnen und Richter, die Ersatzrichterinnen und Ersatzrichter sowie die a.o. Richterinnen und Richter des Geldspielgerichts sowie dessen Präsidium;
+
+- v. die Mitglieder des Stiftungsrats der SFS sowie dessen Präsidium;
+
+- vi. die Vertretungen der kantonalen Vollzugsbehörden und der GESPA im Koordinationsorgan gemäss Art. 113 ff. BGS;
+
 - c. bestimmt das Mitglied oder die Mitglieder der Kantone in der Eidgenössischen Spielbankenkommission gemäss Art. 94 ff. BGS;
+
 - d. erlässt das Organisationsreglement;
+
 - e. beschliesst:
-  - i. das Budget;
-  - ii. den Jahresbericht und die Jahresrechnung;
-  - iii. die Höhe des Anteils «Aufsicht» der Abgabe gemäss Art. 67 Abs. 1;
-  - iv. den Leistungsauftrag der GESPA jeweils für 4 Jahre;
-  - v. auf Antrag der GESPA den jährlichen Beitrag an die GESPA aus dem Ertrag der Abgabe gemäss Art. 67 Abs. 2;
-  - vi. auf Antrag der SFS das Stiftungsreglement der SFS;
-  - vii. auf Antrag der SFS den Betrag zur Förderung des nationalen Sports jeweils für 4 Jahre im Verfahren gemäss Art. 34;
-  - viii. auf Antrag der SFS die Schwerpunkte für den Einsatz der Mittel zugunsten des nationalen Sports jeweils für 4 Jahre;
-  - ix. geringfügige Änderungen des Konkordats im vereinfachten Verfahren gemäss Art. 71 Abs. 3;
+
+- i. das Budget;
+
+- ii. den Jahresbericht und die Jahresrechnung;
+
+iii. die Höhe des Anteils „Aufsicht" der Abgabe gemäss Art. 67 Abs. 1;
+
+- iv. den Leistungsauftrag der GESPA jeweils für 4 Jahre;
+
+- v. auf Antrag der GESPA den jährlichen Beitrag an die GESPA
+
+aus dem Ertrag der Abgabe gemäss Art. 67 Abs. 2;
+
+- vi. auf Antrag der SFS das Stiftungsreglement der SFS;
+
+vii. auf Antrag der SFS den Betrag zur Förderung des nationalen
+
+Sports jeweils für 4 Jahre im Verfahren gemäss Art. 34;
+
+viii. auf Antrag der SFS die Schwerpunkte für den Einsatz der Mittel
+
+zugunsten des nationalen Sports jeweils für 4 Jahre;
+
+- ix. geringfügige Änderungen des Konkordats im vereinfachten Verfahren gemäss Art. 71 Abs. 3;
+
 - f. genehmigt:
-  - i. das Organisationsreglement der GESPA;
-  - ii. das Gebührenreglement der GESPA;
-  - iii. die Entschädigungsordnung für die Mitglieder des Aufsichtsrats der GESPA;
-  - iv. den vierjährlichen Rechenschaftsbericht der GESPA;
-  - v. das Geschäftsreglement des Geldspielgerichts;
-  - vi. den Jahresbericht und die Sonderrechnung des Geldspielgerichts;
-  - vii. die Entschädigungsordnung für die Mitglieder des Stiftungsrats der SFS;
-  - viii, den vierjährlichen Rechenschaftsbericht der SFS;
+
+- i. das Organisationsreglement der GESPA;
+
+- ii. das Gebührenreglement der GESPA;
+
+iii. die Entschädigungsordnung für die Mitglieder des Aufsichtsrats der GESPA;
+
+- iv. den vierjährlichen Rechenschaftsbericht der GESPA;
+
+- v. das Geschäftsreglement des Geldspielgerichts;
+
+- vi. den Jahresbericht und die Sonderrechnung des Geldspielgerichts;
+
+vii. die Entschädigungsordnung für die Mitglieder des Stiftungsrats der SFS;
+
+viii, den vierjährlichen Rechenschaftsbericht der SFS;
+
 - g. nimmt Kenntnis:
-  - i. vom jährlichen Budget der GESPA;
-  - ii. vom Jahresbericht und von der Jahresrechnung der GESPA;
-  - iii. vom Jahresbericht und von der Jahresrechnung der SFS;
+
+- i. vom jährlichen Budget der GESPA;
+
+- ii. vom Jahresbericht und von der Jahresrechnung der GESPA; iii. vom Jahresbericht und von der Jahresrechnung der SFS;
+
 - h. nimmt darüber hinaus alle Zuständigkeiten der Trägerschaft wahr, die keinem anderen Organ der Trägerschaft übertragen sind.
 
 #### Art. 6
@@ -132,7 +183,7 @@ vereinbaren:
 
 <sup>3</sup> Bei Stimmengleichheit fällt das Präsidium den Stichentscheid.
 
-### 2.1.3 Der Vorstand
+- c) Der Vorstand
 
 #### Art. 7
 
@@ -148,9 +199,10 @@ vereinbaren:
 
 **Zuständigkeiten**
 
-<sup>1</sup> Der Vorstand:
+Der Vorstand:
 
 - a. bereitet die Beschlüsse der FDKG vor, stellt Antrag und setzt die Beschlüsse der FDKG um;
+
 - b. vertritt die Trägerschaft nach aussen.
 
 #### Art. 9
@@ -171,7 +223,7 @@ vereinbaren:
 
 <sup>2</sup> Soweit Personal angestellt wird, erfolgt die Anstellung öffentlich-rechtlich. Das Bundespersonalrecht ist sinngemäss anwendbar. Das Organisationsreglement kann davon abweichende Bestimmungen enthalten, soweit die besonderen Verhältnisse und die zu erfüllenden Aufgaben dies erfordern.
 
-### 2.1.4 Das Geldspielgericht
+- d) Das Geldspielgericht
 
 #### Art. 11
 
@@ -185,20 +237,21 @@ vereinbaren:
 
 <sup>4</sup> Die FDKG kann auf Antrag des interkantonalen Geldspielgerichts ausserordentliche Richterinnen oder Richter ernennen,
 
-- a. soweit infolge Ausstands der ordentlichen Richterinnen und Richter und der Ersatzrichterinnen und ‑richter ansonsten keine gültige Verhandlung stattfinden kann, oder
-- b. wenn für die Beurteilung einer Streitsache besondere Fachkenntnisse erforderlich sind, über welche die ordentlichen Richterinnen und Richter bzw. die Ersatzrichterinnen oder ‑richter nicht verfügen; diesfalls muss die a.o. Richterin bzw. der a.o. Richter über die entsprechenden Fachkenntnisse verfügen.
+- a. soweit infolge Ausstands der ordentlichen Richterinnen und Richter und der Ersatzrichterinnen und -richter ansonsten keine gültige Verhandlung stattfinden kann, oder
+
+- b. wenn für die Beurteilung einer Streitsache besondere Fachkenntnisse erforderlich sind, über welche die ordentlichen Richterinnen und Richter bzw. die Ersatzrichterinnen oder -richter nicht verfügen; diesfalls muss die a.o. Richterin bzw. der a.o. Richter über die entsprechenden Fachkenntnisse verfügen.
 
 #### Art. 12
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Geldspielgericht beurteilt als letztinstanzliche interkantonale richterliche Behörde mit voller Kognition in Sachverhalts- und Rechtsfragen Beschwerden gegen Verfügungen und Entscheide der übrigen mit diesem Konkordat geschaffenen Organisationen bzw. deren Organe.
+Das Geldspielgericht beurteilt als letztinstanzliche interkantonale richterliche Behörde mit voller Kognition in Sachverhalts- und Rechtsfragen Beschwerden gegen Verfügungen und Entscheide der übrigen mit diesem Konkordat geschaffenen Organisationen bzw. deren Organe.
 
 #### Art. 13
 
 **Unabhängigkeit**
 
-<sup>1</sup> Das Geldspielgericht ist in seiner Recht sprechenden Tätigkeit unabhängig und nur dem Recht verpflichtet.
+Das Geldspielgericht ist in seiner Recht sprechenden Tätigkeit unabhängig und nur dem Recht verpflichtet.
 
 #### Art. 14
 
@@ -212,7 +265,7 @@ vereinbaren:
 
 <sup>4</sup> Das Geldspielgericht unterbreitet der FDKG jährlich einen Jahresbericht, zusammen mit der von der Revisionsstelle der Trägerschaft geprüften Sonderrechnung des Geldspielgerichts.
 
-### 2.1.5 Die Revisionsstelle
+- e) Die Revisionsstelle
 
 #### Art. 15
 
@@ -224,7 +277,7 @@ vereinbaren:
 
 <sup>3</sup> Sie berichtet der FDKG und stellt Antrag auf Genehmigung oder Nichtgenehmigung der jeweiligen Rechnung.
 
-### 2.1.6 Weitere organisatorische Einheiten
+- f) Weitere organisatorische Einheiten
 
 #### Art. 16
 
@@ -236,13 +289,13 @@ vereinbaren:
 
 <sup>3</sup> Die eingesetzten Einheiten berichten periodisch über den Stand der Geschäfte und stellen ihren Antrag.
 
-### 2.2 Finanzen
+### Zweiter Abschnitt: Finanzen
 
 #### Art. 17
 
 **Finanzierung**
 
-<sup>1</sup> Die Trägerschaft deckt ihren Aufwand über die Abgabe gemäss Art. 67 sowie über Gebührenerträge des Geldspielgerichts.
+Die Trägerschaft deckt ihren Aufwand über die Abgabe gemäss Art. 67 sowie über Gebührenerträge des Geldspielgerichts.
 
 #### Art. 18
 
@@ -252,11 +305,13 @@ vereinbaren:
 
 <sup>2</sup> Das Geldspielgericht führt eine Sonderrechnung, als Teil der Rechnung gemäss Abs. 1.
 
-## 3 Die interkantonale Geldspielaufsicht (GESPA)
+- 3\. KAPITEL: DIE INTERKANTONALE GELDSPIELAUFSICHT
 
-### 3.1 Aufgaben und Organisation
+### (GESPA)
 
-### 3.1.1 Allgemeines
+### Erster Abschnitt: Aufgaben und Organisation
+
+- a) Allgemeines
 
 #### Art. 19
 
@@ -281,7 +336,9 @@ vereinbaren:
 <sup>2</sup> Sie verfügt über die folgenden Organe:
 
 - a. den Aufsichtsrat;
+
 - b. die Geschäftsstelle;
+
 - c. die Revisionsstelle.
 
 #### Art. 21
@@ -302,7 +359,7 @@ vereinbaren:
 
 <sup>3</sup> Sie erstattet der Trägerschaft alle vier Jahre einen Rechenschaftsbericht.
 
-### 3.1.2 Der Aufsichtsrat
+- b) Der Aufsichtsrat
 
 #### Art. 23
 
@@ -319,15 +376,27 @@ vereinbaren:
 <sup>1</sup> Der Aufsichtsrat:
 
 - a. erlässt:
-  - i. das Organisationsreglement der GESPA, unter Vorbehalt der Genehmigung durch die FDKG;
-  - ii. das Gebührenreglement der GESPA, unter Vorbehalt der Genehmigung durch die FDKG;
-  - iii. die Entschädigungsordnung der Mitglieder des Aufsichtsrats, unter Vorbehalt der Genehmigung durch die FDKG;
-  - iv. die Regulierung betreffend das Personal;
+
+- i. das Organisationsreglement der GESPA, unter Vorbehalt der Genehmigung durch die FDKG;
+
+- ii. das Gebührenreglement der GESPA, unter Vorbehalt der Genehmigung durch die FDKG;
+
+iii. die Entschädigungsordnung der Mitglieder des Aufsichtsrats,
+
+unter Vorbehalt der Genehmigung durch die FDKG;
+
+- iv. die Regulierung betreffend das Personal;
+
 - b. kann zuhanden der Kantone Empfehlungen abgeben;
+
 - c. beschliesst:
-  - i. das jährliche Budget der GESPA;
-  - ii. den Jahresbericht und die Jahresrechnung der GESPA;
-  - iii. den Rechenschaftsbericht zuhanden der FDKG, jeweils für vier Jahre;
+
+- i. das jährliche Budget der GESPA;
+
+- ii. den Jahresbericht und die Jahresrechnung der GESPA;
+
+iii. den Rechenschaftsbericht zuhanden der FDKG, jeweils für vier Jahre;
+
 - d. stellt die Direktorin oder den Direktor und die Vizedirektorin oder den Vizedirektor an und genehmigt die Anstellung der weiteren Mitarbeitenden der Geschäftsstelle.
 
 <sup>2</sup> Der Aufsichtsrat übt die Zuständigkeiten gemäss BGS aus sowie darüber hinaus sämtliche Zuständigkeiten, die für die Erfüllung der mit diesem Konkordat und mit dem Leistungsauftrag der Trägerschaft übertragenen Aufgaben notwendig und keinem anderen Organ übertragen sind.
@@ -338,7 +407,7 @@ vereinbaren:
 
 <sup>5</sup> Der Aufsichtsrat kann Kantonen oder Gemeinden im gegenseitigen Einvernehmen und gegen kostendeckendes Entgelt einzelne Aufsichtsaufgaben übertragen.
 
-### 3.1.3 Die Geschäftsstelle
+- c) Die Geschäftsstelle
 
 #### Art. 25
 
@@ -360,7 +429,7 @@ vereinbaren:
 
 <sup>8</sup> Das Personal wird öffentlich-rechtlich angestellt. Das Bundespersonalrecht ist sinngemäss anwendbar. Das Reglement kann davon abweichende Regelungen enthalten, soweit die besonderen Verhältnisse und die zu erfüllenden Aufgaben dies erfordern.
 
-### 3.1.4 Die Revisionsstelle
+- d) Die Revisionsstelle
 
 #### Art. 26
 
@@ -370,7 +439,7 @@ vereinbaren:
 
 <sup>2</sup> Die Revisionsstelle führt eine im Sinn von Art. 728a OR ordentliche Revision durch und berichtet dem Aufsichtsrat.
 
-### 3.2 Finanzen und anwendbares Verfahrensrecht
+### Zweiter Abschnitt: Finanzen und anwendbares Verfahrensrecht
 
 #### Art. 27
 
@@ -384,7 +453,7 @@ vereinbaren:
 
 **Finanzierung**
 
-<sup>1</sup> Die GESPA deckt ihren Aufwand über Abgaben gemäss Kapitel 7 dieses Konkordats sowie über Beiträge der Trägerschaft.
+Die GESPA deckt ihren Aufwand über Abgaben gemäss Kapitel 7 dieses Konkordats sowie über Beiträge der Trägerschaft.
 
 #### Art. 29
 
@@ -396,7 +465,9 @@ vereinbaren:
 
 #### Art. 30
 
-**Verteilung eines Aufwand- oder Ertragsüberschusses bei Auflösung der GESPA**
+**Verteilung eines Aufwand- oder Ertragsüberschusses**
+
+bei Auflösung der GESPA
 
 <sup>1</sup> Bei einer Auflösung der Anstalt wird ein Aufwand- oder Ertragsüberschuss im Verhältnis der Wohnbevölkerung auf die Kantone verteilt.
 
@@ -406,9 +477,9 @@ vereinbaren:
 
 **Verfahrensrecht**
 
-<sup>1</sup> Das Verfahren richtet sich sinngemäss nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1968 über das Verwaltungsverfahren (VwVG; SR 172.021).
+Das Verfahren richtet sich sinngemäss nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1968 über das Verwaltungsverfahren (VwVG; SR 172.021).
 
-## 4 Die Stiftung Sportförderung Schweiz (SFS)
+- 4\. KAPITEL: DIE STIFTUNG SPORTFÖRDERUNG SCHWEIZ (SFS)
 
 #### Art. 32
 
@@ -438,7 +509,9 @@ vereinbaren:
 
 #### Art. 34
 
-**Verfahren für die Festlegung des Betrags zur Förderung des nationalen Sports**
+**Verfahren für die Festlegung des Betrags zur**
+
+### Förderung des nationalen Sports
 
 <sup>1</sup> Der Stiftungsrat der SFS stellt der FDKG spätestens 12 Monate vor Ablauf der Vierjahresperiode Antrag.
 
@@ -481,6 +554,7 @@ vereinbaren:
 <sup>1</sup> Die SFS gewährt Beiträge:
 
 - a. an den Dachverband der nationalen Sportverbände (Swiss Olympic);
+
 - b. an nationale Sportverbände, welche wie der Fussballverband und der Eishockeyverband massgebend in der Schweiz Wettsubstrat generieren.
 
 <sup>2</sup> Die FDKG regelt auf Antrag der SFS das Verfahren und die Kriterien für die Mittelverwendung im Stiftungsreglement und beschliesst auf Antrag der SFS die Schwerpunkte des Mitteleinsatzes jeweils für 4 Jahre.
@@ -495,7 +569,7 @@ vereinbaren:
 
 <sup>2</sup> Sie veröffentlicht die Informationen gemäss Abs. 1 sowie ihre Rechnung jährlich auf ihrer Website,
 
-## 5 Gemeinsame Bestimmungen
+### 5. KAPITEL: GEMEINSAME BESTIMMUNGEN
 
 #### Art. 39
 
@@ -529,24 +603,21 @@ vereinbaren:
 
 **Verpflichtung zur Überbindung auf Mitarbeitende**
 
-<sup>1</sup> Die mit dem vorliegenden Konkordat geschaffenen Organisationen stellen sicher, dass die Mitarbeitenden von der Geldspielbranche unabhängig sind und bei Interessenkonflikten in den Ausstand treten.
+Die mit dem vorliegenden Konkordat geschaffenen Organisationen stellen sicher, dass die Mitarbeitenden von der Geldspielbranche unabhängig sind und bei Interessenkonflikten in den Ausstand treten.
 
 #### Art. 43
 
 **Finanzaufsicht**
 
-<sup>1</sup> Die mit dem GSK geschaffenen Organisationen unterstehen nicht der Finanzaufsicht der Kantone. Die Finanzaufsicht wird abschliessend durch die FDKG wahrgenommen.
+Die mit dem GSK geschaffenen Organisationen unterstehen nicht der Finanzaufsicht der Kantone. Die Finanzaufsicht wird abschliessend durch die FDKG wahrgenommen.
 
 #### Art. 44
 
 **Haftung**
 
-<sup>1</sup> Die Haftung richtet sich unter Vorbehalt der nachfolgenden Bestimmungen sinngemäss nach dem Verantwortlichkeitsgesetz des Bundes vom 14. März 1958 (VG; SR 170.32).
+<sup>1</sup> 1Die Haftung richtet sich unter Vorbehalt der nachfolgenden Bestimmungen sinngemäss nach dem Verantwortlichkeitsgesetz des Bundes vom 14. März 1958 (VG; SR 170.32).
 
-<sup>2</sup> Für den Schaden, den die GESPA in Ausübung ihrer amtlichen Tätigkeit Dritten zufügt, haftet sie nur, wenn ihre Organe oder Mitarbeitenden
-
-- a. wesentliche Amtspflichten verletzt haben und
-- b. Schäden nicht auf Pflichtverletzungen eines Beaufsichtigten zurückzuführen sind.
+<sup>2</sup> Für den Schaden, den die GESPA in Ausübung ihrer amtlichen Tätigkeit Dritten zufügt, haftet sie nur, wenn ihre Organe oder Mitarbeitenden a. wesentliche Amtspflichten verletzt haben und b. Schäden nicht auf Pflichtverletzungen eines Beaufsichtigten zurückzuführen sind.
 
 <sup>3</sup> Über streitige Ansprüche von Dritten erlässt die Organisation, gegen welche ein Anspruch gerichtet wird, eine Verfügung.
 
@@ -588,13 +659,17 @@ vereinbaren:
 
 **Anwendbares Recht**
 
-<sup>1</sup> Soweit das vorliegende Konkordat oder die gestützt darauf erlassenen Reglemente keine besondere Regelung enthalten, gelangt Bundesrecht sinngemäss zur Anwendung.
+Soweit das vorliegende Konkordat oder die gestützt darauf erlassenen Reglemente keine besondere Regelung enthalten, gelangt Bundesrecht sinngemäss zur Anwendung.
 
-## 6 Gewährung ausschliesslicher Veranstaltungsrechte für die Durchführung von Grosslotterien und grossen Sportwetten
+- 6\. KAPITEL: GEWÄHRUNG AUSSCHLIESSLICHER
+
+### VERANSTALTUNGSRECHTE FÜR DIE DURCHFÜHRUNG VON GROSSLOTTERIEN UND GROSSEN SPORTWETTEN
 
 #### Art. 49
 
-**Zugelassene Veranstalterinnen oder Veranstalter von Grosslotterien und grossen Sportwetten**
+**Zugelassene Veranstalterinnen oder Veranstalter von**
+
+### Grosslotterien und grossen Sportwetten
 
 <sup>1</sup> Die Anzahl der Veranstalterinnen oder Veranstalter von Lotterien und Sportwetten ist i.S. von Art. 23 Abs. 1 BGS auf zwei beschränkt.
 
@@ -604,22 +679,26 @@ vereinbaren:
 
 #### Art. 50
 
-**Abgabe für die Gewährung ausschliesslicher Veranstaltungsrechte**
+**Abgabe für die Gewährung ausschliesslicher**
 
-<sup>1</sup> Als Gegenleistung für die Gewährung der ausschliesslichen Veranstaltungsrechte gemäss Art. 49 hiervor entrichten die Inhaberinnen oder Inhaber der entsprechenden Veranstalterbewilligung der Trägerschaft eine einmalige sowie eine jährlich wiederkehrende Abgabe nach Massgabe der Art. 65 bis 68 dieses Konkordats.
+### Veranstaltungsrechte
 
-## 7 Abgaben
+Als Gegenleistung für die Gewährung der ausschliesslichen Veranstaltungsrechte gemäss Art. 49 hiervor entrichten die Inhaberinnen oder Inhaber der entsprechenden Veranstalterbewilligung der Trägerschaft eine einmalige sowie eine jährlich wiederkehrende Abgabe nach Massgabe der Art. 65 bis 68 dieses Konkordats.
 
-### 7.1 Allgemeine Bestimmungen
+- 7\. KAPITEL: ABGABEN
+
+### Erster Abschnitt: Allgemeine Bestimmungen
 
 #### Art. 51
 
 **Massgebender Gesamtaufwand**
 
-<sup>1</sup> Der im Rahmen der nachfolgenden Bestimmungen mit Abgaben zu finanzierende Gesamtaufwand setzt sich wie folgt zusammen:
+Der im Rahmen der nachfolgenden Bestimmungen mit Abgaben zu finanzierende Gesamtaufwand setzt sich wie folgt zusammen:
 
 - a. Aufwand der Trägerschaft, einschliesslich Geldspielgericht;
+
 - b. Aufwand der GESPA;
+
 - c. Auf die Kantone entfallender Anteil des Aufwands des Koordinationsorgans gemäss Art. 114 BGS.
 
 #### Art. 52
@@ -629,11 +708,12 @@ vereinbaren:
 <sup>1</sup> Der Deckung des Gesamtaufwands gemäss Art. 51 hiervor dienen vorab:
 
 - a. Gebühren für Verfügungen und Dienstleistungen der GESPA im Einzelfall (Art. 54 ff.);
+
 - b. Gebühren für Verfahren vor dem Geldspielgericht im Einzelfall (Art. 59).
 
 <sup>2</sup> Zur Deckung des Anteils des Gesamtaufwands, welcher durch die Gebühren gemäss Abs. 1 lit. a und b vorstehend nicht gedeckt wird, bei welchem jedoch ein enger Zurechnungszusammenhang zu den Veranstalterinnen oder Veranstaltern von Grossspielen besteht, erhebt die GESPA von den Veranstalterinnen oder Veranstaltern jährlich pro Aufsichtsbereich eine Aufsichtsabgabe (Art. 60 ff.).
 
-<sup>3</sup> Der nicht den Veranstalterinnen oder Veranstaltern von Grossspielen zurechenbare Anteil des Gesamtaufwands wird über den Ertrag aus der wiederkehrenden Abgabe für die Gewährung der ausschliesslichen Veranstaltungsrechte, Anteil «Aufsicht», finanziert.
+<sup>3</sup> Der nicht den Veranstalterinnen oder Veranstaltern von Grossspielen zurechenbare Anteil des Gesamtaufwands wird über den Ertrag aus der wiederkehrenden Abgabe für die Gewährung der ausschliesslichen Veranstaltungsrechte, Anteil „Aufsicht", finanziert.
 
 #### Art. 53
 
@@ -645,7 +725,7 @@ vereinbaren:
 
 <sup>3</sup> Soweit das vorliegende Konkordat und das Reglement der GESPA keine Regelungen enthalten, gelten die Bestimmungen der Allgemeinen Gebührenverordnung des Bundes vom 8. September 2004 (AlIgGebV; SR 172.041.1) sinngemäss.
 
-### 7.2 Gebühren für Einzelakte der GESPA
+### Zweiter Abschnitt: Gebühren für Einzelakte der GESPA
 
 #### Art. 54
 
@@ -661,7 +741,7 @@ vereinbaren:
 
 <sup>1</sup> Die Gebühren werden nach dem tatsächlichen, gebotenen Zeitaufwand, und der erforderlichen Sachkenntnis, abgestuft nach Funktionsstufen und Qualifikation des ausführenden Personals, bemessen.
 
-<sup>2</sup> Die Höhe der Gebühr liegt zwischen CHF 100.– und CHF 350.– pro Stunde.
+<sup>2</sup> Die Höhe der Gebühr liegt zwischen CHF 100.- und CHF 350.- pro Stunde.
 
 <sup>3</sup> Die GESPA legt die Ansätze für die einzelnen Funktionsstufen im Gebührenreglement fest.
 
@@ -671,9 +751,10 @@ vereinbaren:
 
 **Gebührenzuschlag**
 
-<sup>1</sup> Die GESPA kann Zuschläge bis zu 50 Prozent der Gebühren gemäss Art. 54 f. erheben für Dienstleistungen oder Verfügungen, die:
+Die GESPA kann Zuschläge bis zu 50 Prozent der Gebühren gemäss Art. 54 f. erheben für Dienstleistungen oder Verfügungen, die:
 
 - a. auf Ersuchen hin dringlich verrichtet oder erlassen werden, oder
+
 - b. ausserhalb der normalen Arbeitszeit verrichtet oder erlassen werden müssen.
 
 #### Art. 57
@@ -685,31 +766,34 @@ vereinbaren:
 <sup>2</sup> Als Auslagen gelten die Kosten, die für die einzelne Verfügung oder Dienstleistung zusätzlich anfallen, namentlich:
 
 - a. Kosten für beigezogene Sachverständige;
+
 - b. Reise- und Transportkosten;
+
 - c. Übernachtungs- und Verpflegungskosten;
+
 - d. Reproduktionskosten, Porti, Kommunikation.
 
 #### Art. 58
 
 **Vorschüsse**
 
-<sup>1</sup> Die GESPA kann von der oder dem Gebührenpflichtigen bis zur voraussichtlichen Höhe der geschuldeten Gebühr einschliesslich Auslagen einen Vorschuss verlangen.
+Die GESPA kann von der oder dem Gebührenpflichtigen bis zur voraussichtlichen Höhe der geschuldeten Gebühr einschliesslich Auslagen einen Vorschuss verlangen.
 
-### 7.3 Gebühren des Geldspielgerichts
+### Dritter Abschnitt: Gebühren des Geldspielgerichts
 
 #### Art. 59
 
 **Gebühren des Geldspielgerichts**
 
-<sup>1</sup> Die Gebühren für das Verfahren vor dem Geldspielgericht richten sich sinngemäss nach der Bundesgesetzgebung für das Verfahren vor Bundesverwaltungsgericht.
+Die Gebühren für das Verfahren vor dem Geldspielgericht richten sich sinngemäss nach der Bundesgesetzgebung für das Verfahren vor Bundesverwaltungsgericht.
 
-### 7.4 Aufsichtsabgabe
+### Vierter Abschnitt: Aufsichtsabgabe
 
 #### Art. 60
 
 **Abgabepflicht**
 
-<sup>1</sup> Die GESPA erhebt von den Inhaberinnen oder Inhabern einer Veranstalterbewilligung (Art. 21 BGS) jährlich eine Aufsichtsabgabe.
+Die GESPA erhebt von den Inhaberinnen oder Inhabern einer Veranstalterbewilligung (Art. 21 BGS) jährlich eine Aufsichtsabgabe.
 
 #### Art. 61
 
@@ -717,7 +801,9 @@ vereinbaren:
 
 <sup>1</sup> Der Aufsichtsrat der GESPA legt die Höhe der Aufsichtsabgabe jährlich gestützt auf das Budget der GESPA fest.
 
-<sup>2</sup> Die Höhe der Abgabe ist so festzusetzen, dass die Erträge den nicht durch Einzelaktgebühren gedeckten, jedoch den Veranstalterinnen oder Veranstaltern von Grossspielen zurechenbaren Anteil des Gesamtaufwands deckt und die Vorgaben betreffend die Bildung von Reserven (Art. 27 Abs. 2) eingehalten werden.
+<sup>2</sup> Die Höhe der Abgabe ist so festzusetzen, dass die Erträge den nicht durch Einzelaktgebühren gedeckten, jedoch den Veranstalterinnen oder Veranstaltern von Grossspielen zurechenbaren Anteil des Gesamtaufwands deckt und die Vorgaben betreffend die Bildung von Reserven (Art.
+
+27 Abs. 2) eingehalten werden.
 
 <sup>3</sup> Der jährlich über die Aufsichtsabgabe finanzierte Aufwand darf 70% des jährlichen Gesamtaufwands (Art. 51) nicht überschreiten.
 
@@ -747,11 +833,13 @@ vereinbaren:
 
 <sup>5</sup> Mit der Eröffnung der Verfügung wird der ganze Abgabebetrag fällig.
 
-### 7.5 Abgabe für die Gewährung ausschliesslicher Veranstaltungsrechte
+### Fünfter Abschnitt: Abgabe für die Gewährung ausschliesslicher Veranstaltungsrechte
 
 #### Art. 64
 
-**Einmalige Abgabe für die Gewährung ausschliesslicher Veranstaltungsrechte**
+**Einmalige Abgabe für die Gewährung**
+
+ausschliesslicher Veranstaltungsrechte
 
 <sup>1</sup> Die einmalige Abgabe gemäss Art. 50 beträgt gesamthaft CHF 3 Mio.
 
@@ -761,17 +849,19 @@ vereinbaren:
 
 #### Art. 65
 
-**Wiederkehrende Abgabe für die Gewährung ausschliesslicher Veranstaltungsrechte**
+**Wiederkehrende Abgabe für die Gewährung**
 
-<sup>1</sup> Die jährlich wiederkehrende Abgabe gemäss Art. 50 setzt sich zusammen aus einem Anteil «Prävention» und einem Anteil «Aufsicht».
+ausschliesslicher Veranstaltungsrechte
+
+Die jährlich wiederkehrende Abgabe gemäss Art. 50 setzt sich zusammen aus einem Anteil „Prävention" und einem Anteil „Aufsicht'.
 
 #### Art. 66
 
-**Anteil «Prävention»**
+**Anteil „Prävention"**
 
-<sup>1</sup> Der Anteil «Prävention» beträgt 0.5% des mit den Lotterien und Sportwetten erzielten jährlichen Bruttospielertrags.
+<sup>1</sup> Der Anteil „Prävention" beträgt 0.5 % des mit den Lotterien und Sportwetten erzielten jährlichen Bruttospielertrags.
 
-<sup>2</sup> Die Erträge aus dem Anteil «Prävention» dürfen ausschliesslich für Massnahmen gemäss Art. 85 BGS eingesetzt werden.
+<sup>2</sup> Die Erträge aus dem Anteil „Prävention" dürfen ausschliesslich für Massnahmen gemäss Art. 85 BGS eingesetzt werden.
 
 <sup>3</sup> Sie werden mit der Zweckbindung gemäss Abs. 2 vorstehend nach dem in den einzelnen Kantonen erzielten Bruttospielertrag auf die Kantone verteilt.
 
@@ -779,36 +869,37 @@ vereinbaren:
 
 #### Art. 67
 
-**Anteil «Aufsicht»**
+**Anteil „Aufsicht"**
 
-<sup>1</sup> Die Höhe des Anteils «Aufsicht» wird jährlich von der FDKG nach Massgabe von Art. 52 Abs. 3 festgelegt.
+<sup>1</sup> Die Höhe des Anteils „Aufsicht" wird jährlich von der FDKG nach Massgabe von Art. 52 Abs. 3 festgelegt.
 
 <sup>2</sup> Die Trägerschaft verwendet den Ertrag aus dieser Abgabe zur Deckung ihres Aufwands sowie zur Leistung des Beitrags an die GESPA gemäss Art. 28.
 
 #### Art. 68
 
-**Erhebung der Abgabe für die Gewährung ausschliesslicher Veranstaltungsrechte**
+**Erhebung der Abgabe für die Gewährung**
+
+ausschliesslicher Veranstaltungsrechte
 
 <sup>1</sup> Die Erhebung der Abgabe erfolgt im Namen und auf Rechnung der Trägerschaft durch die GESPA.
 
 <sup>2</sup> Art. 63 gilt sinngemäss. Die GESPA erlässt gegebenenfalls die Verfügung.
 
-## 8 Schlussbestimmungen
+- 8\. KAPITEL: SCHLUSSBESTIMMUNGEN
 
 #### Art. 69
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Konkordat tritt in Kraft, sobald mindestens 18 Kantone ihren Beitritt erklärt haben.[^69-1]
+<sup>1</sup> Dieses Konkordat tritt in Kraft, sobald mindestens 18 Kantone ihren Beitritt erklärt haben.
 
 <sup>2</sup> Der Beitritt ist gegenüber der Fachdirektorenkonferenz Lotteriemarkt und Lotteriegesetz zu erklären. Sie teilt das Inkrafttreten den Kantonen und dem Bund mit.
 
-<sup>3</sup> Mit Inkrafttreten dieses Konkordats wird die Interkantonale Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten (IVLW)[^69-2], welche von der Fachdirektorenkonferenz Lotteriemarkt und Lotteriegesetz am 7. Januar 2005 zur Ratifizierung in den Kantonen verabschiedet wurde, aufgehoben.
+<sup>3</sup> Mit Inkrafttreten dieses Konkordats wird die Interkantonale Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten (IVLW)[^69-1], welche von der Fachdirektorenkonferenz Lotteriemarkt und Lotteriegesetz am 7. Januar 2005 zur Ratifizierung in den Kantonen verabschiedet wurde, aufgehoben.
 
 <sup>4</sup> Die gestützt auf die IVLW erlassenen Ausführungsbestimmungen werden auf den Zeitpunkt des Inkrafttretens dieses Konkordats aufgehoben.
 
-[^69-1]: Vom Landrat genehmigt am 12. Februar 2020, A 2020, 386, 1846; in Kraft seit dem 1. Januar 2021
-[^69-2]: A 2005, 850
+[^69-1]: A 2005, 850
 
 #### Art. 70
 
@@ -834,10 +925,9 @@ vereinbaren:
 
 **Verhältnis zu regional beschränkten Konkordaten**
 
-<sup>1</sup> Das vorliegende Konkordat geht widersprechenden Bestimmungen der IKV[^72-1], der C-LoRo[^72-2] sowie deren Nachfolgekonkordate vor.
+Das vorliegende Konkordat geht widersprechenden Bestimmungen der IKV[^72-1], der C-LoRo<sup>5</sup> sowie deren Nachfolgekonkordate vor.
 
-[^72-1]: Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Lotterien vom 26. Mai 1937 (welcher die Deutschschweizerkantone und der Kanton Tessin beigetreten sind); A 1977, 439
-[^72-2]: 9ème Convention relative à la Loterie Romande vom 18. November 2005 (welcher die Westschweizerkantone beigetreten sind)
+[^72-1]: Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Lotterien vom 26. Mai 1937 (welcher die Deutschschweizerkantone und der Kanton Tessin beigetreten sind); A 1977, 439 5 9ème Convention relative à la Loterie Romande vom 18. November 2005 (welcher die Westschweizerkantone beigetreten sind)
 
 #### Art. 73
 
@@ -859,8 +949,8 @@ vereinbaren:
 
 <sup>8</sup> Die GESPA ist berechtigt während einer Frist von 5 Jahren ab Inkrafttreten dieses Konkordats von den Inhaberinnen oder Inhabern altrechtlicher Bewilligungen Vorauszahlungen und Abgaben gestützt auf die altrechtlichen Bewilligungen zu erheben.
 
-<sup>9</sup> Die Festlegung des Betrags zur Förderung des nationalen Sports gemäss Art. 34 erfolgt erstmals im Jahr 2022 für die Periode 2023–2026. Bis Ende 2022 können die Kantone wie bisher einen Teil der Reinerträge vor der Verteilung in die kantonalen Fonds zur Förderung des nationalen Sports verwenden.
+<sup>9</sup> Die Festlegung des Betrags zur Förderung des nationalen Sports gemäss Art. 34 erfolgt erstmals im Jahr 2022 für die Periode 2023-2026. Bis Ende 2022 können die Kantone wie bisher einen Teil der Reinerträge vor der Verteilung in die kantonalen Fonds zur Förderung des nationalen Sports verwenden.
 
-<sup>10</sup> Die letzte altrechtlich bei den Veranstalterinnen oder Veranstaltern gestützt auf Art. 21 IVLW erhobene Aufsichtsgebühr gilt als Vorauszahlung im Sinne von Art. 58.
+<sup>1</sup> 0 Die letzte altrechtlich bei den Veranstalterinnen oder Veranstaltern gestützt auf Art. 21 IVLW erhobene Aufsichtsgebühr gilt als Vorauszahlung im Sinne von Art. 58.
 
-A 2020, 386, 388, 1846
+Beschlossen von der Plenarversammlung der Fachdirektorenkonferenz Lotteriemarkt und Lotteriegesetz zu Handen der Ratifikation in den Kantonen am 20. Mai 2019.
