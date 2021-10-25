@@ -5,31 +5,33 @@ title: Gesetz über das Halten von Hunden
 short: "Hundegesetz, HuG"
 language: de
 version: 2016-01-01
+corrected: 2021-10-26
 version_adopted: 2015-05-27
 adopted: 2004-02-04
 in_force: 2005-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/826.3"
-pdf: "https://gesetze.nw.ch/api/de/versions/696/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/363/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über das Halten von Hunden
+# Gesetz über das Halten von Hunden (Hundegesetz, HuG)
 
-(Hundegesetz, HuG)
-
-vom 04.02.2004 (Stand 01.01.2016)
+vom 4. Februar 2004[^t-2][^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 32 und 60 der Kantonsverfassung, in Ausführung von Art. 30 und 59 des Tierseuchengesetzes vom 1. Juli 1966 (TSG)[^ingress-1] sowie Art. 78 und 79 der Tierschutzverordnung vom 23. April 2008 (TSchV)[^ingress-2],
+gestützt auf Art. 32 und 60 der Kantonsverfassung, in Ausführung von Art. 30 und 59 des Tierseuchengesetzes vom 1. Juli 1966 (TSG)[^t-3] sowie Art. 78 und 79 der Tierschutzverordnung vom 23. April 2008 (TSchV)[^t-4],[^t-1]
 
 beschliesst:
 
-[^ingress-1]: SR 916.40
-[^ingress-2]: SR 455.1
+[^t-1]: Fassung gemäss Landratsbeschluss vom 19. Oktober 2011, A 2011, 1377, A 2012, 100; in Kraft seit 1. Januar 2012
+[^t-2]: A 2004, 255, 695, 1600, 1717, 2035; in Kraft seit 1. Januar 2005
+[^t-3]: SR 916.40
+[^t-4]: SR 455.1
 
-## 1 Allgemeine Bestimmung
+### I. ALLGEMEINE BESTIMMUNG
 
 #### Art. 1
 
@@ -38,6 +40,7 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz regelt:
 
 - 1\. das Halten, die Zucht und die Kontrolle von Hunden;
+
 - 2\. die Erhebung der Hundesteuer.
 
 <sup>2</sup> Vorbehalten bleiben die Tierschutzgesetzgebung[^1-1], die weiteren Bestimmungen der Tierseuchengesetzgebung[^1-2] und die Bestimmungen betreffend Hunde in der Jagd[^1-3]- und Polizeigesetzgebung[^1-4].
@@ -47,15 +50,15 @@ beschliesst:
 [^1-3]: NG 841
 [^1-4]: NG 911
 
-## 2 Haltung, Zucht und Kontrolle
+### II. HALTUNG, ZUCHT UND KONTROLLE
 
-### 2.1 Hundehaltung
+### A. Hundehaltung
 
 #### Art. 2
 
 **Artgerechte Haltung**
 
-<sup>1</sup> Hunde sind nach den Vorschriften der Tierschutzgesetzgebung[^2-1] artgerecht zu halten.
+Hunde sind nach den Vorschriften der Tierschutzgesetzgebung[^2-1] artgerecht zu halten.
 
 [^2-1]: SR 916, NG 826
 
@@ -74,18 +77,22 @@ beschliesst:
 <sup>1</sup> Es ist verboten:
 
 - 1\. Hunde auf Menschen oder Tiere zu hetzen;
+
 - 2\. Hunde absichtlich zu reizen;
+
 - 3\. Hunde unbeaufsichtigt frei laufen zu lassen.
 
 <sup>2</sup> Die mit der Aufsicht über einen Hund betraute Person hat mit allen ihr zu Gebote stehenden Mitteln einzugreifen, wenn ihr Hund einen Menschen oder ein Tier bedroht oder angreift.
 
 <sup>3</sup> Vorbehalten bleiben die Ausbildung und der Einsatz von Hunden im Polizei- und Bewachungsdienst.
 
+[^4-1]: Fassung gemäss Landratsbeschluss vom 19. Oktober 2011, A 2011, 1377, A 2012, 100; in Kraft seit 1. Januar 2012
+
 #### Art. 5
 
-**Meldung von Angriffen und Aggressionsverhalten**
+**Meldung von Angriffen und Aggressionsverhalten[^4-1]**
 
-<sup>1</sup> Die Meldepflicht für Vorfälle mit Hunden richtet sich nach der Tierschutzverordnung[^5-1].
+Die Meldepflicht für Vorfälle mit Hunden richtet sich nach der Tierschutzverordnung[^5-1].
 
 [^5-1]: SR 455.1
 
@@ -96,17 +103,25 @@ beschliesst:
 <sup>1</sup> Das zuständige Amt ordnet die erforderlichen Massnahmen an, wenn:
 
 - 1\. die Halterinnen und Halter von Hunden ihren Pflichten nicht nachkommen;
+
 - 2\. Bissverletzungen gemeldet werden;
+
 - 3\. ein schwerwiegender Verdacht einer Bedrohung besteht;
+
 - 4\. Verhaltensauffälligkeiten festgestellt werden.
 
 <sup>2</sup> Es kann insbesondere:
 
 - 1\. Weisungen über Erziehung, Pflege oder Unterbringung des Hundes erlassen;
+
 - 2\. Weisungen über Beaufsichtigung einschliesslich Leinen- und Maulkorbzwang erlassen;
+
 - 3\. einen Hund zu Lasten der Halterin oder des Halters unter Beobachtung stellen;
+
 - 4\. einen Wesenstest des Hundes anordnen;
+
 - 5\. den Besuch eines Erziehungskurses für Hunde anordnen;
+
 - 6\. in schwerwiegenden Fällen die Hundehaltung verbieten oder die Beseitigung des Hundes anordnen.
 
 <sup>3</sup> Rechtskräftige Verfügungen betreffend oben genannte Massnahmen eines anderen Kantons finden auch in Nidwalden Anwendung.
@@ -139,7 +154,7 @@ beschliesst:
 
 [^9-1]: SR 210
 
-### 2.2 Zucht
+### B. Zucht
 
 #### Art. 10
 
@@ -155,9 +170,9 @@ beschliesst:
 
 **Verbotene Zucht**
 
-<sup>1</sup> Eine auf Aggressivität zielende Zucht von Hunden ist verboten.
+Eine auf Aggressivität zielende Zucht von Hunden ist verboten.
 
-### 2.3 Hundekontrolle
+### C. Hundekontrolle
 
 #### Art. 12
 
@@ -175,9 +190,9 @@ beschliesst:
 
 **Tierärztliche Kontrolle**
 
-<sup>1</sup> Wenn es die seuchenpolizeiliche Lage gebietet, sind tierärztliche Kontrollen der Hunde anzuordnen.
+Wenn es die seuchenpolizeiliche Lage gebietet, sind tierärztliche Kontrollen der Hunde anzuordnen.
 
-## 3 Hundesteuer
+### III. HUNDESTEUER
 
 #### Art. 14
 
@@ -213,49 +228,62 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat regelt durch Verordnung die Verwendung der Mittel.
 
-## 4 Rechtsschutz und Strafbestimmung
+### IV. RECHTSSCHUTZ UND STRAFBESTIMMUNG
+
+[^hIVRECHTSSCHUTZUND-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 18
 
-**…**
+**…[^hIVRECHTSSCHUTZUND-1]**
+
+[^18-1]: Fassung gemäss Landratsbeschluss vom 25. Oktober 2006, A 2006, 1705, A 2007, 5; in Kraft seit 1. Januar 2007
 
 #### Art. 19
 
-**Strafbestimmung**
+**Strafbestimmung[^18-1]**
 
-<sup>1</sup> Mit Busse wird bestraft, wer:
+Mit Busse wird bestraft, wer:
 
 - 1\. seiner Meldepflicht gemäss Art. 12 nicht nachkommt;
+
 - 2\. seinen Hund nicht gemäss Art. 12 kennzeichnet;
+
 - 3\. Hunde auf Menschen oder Tiere hetzt;
+
 - 4\. Hunde absichtlich reizt;
+
 - 5\. Hunde nicht gehörig verwahrt, beaufsichtigt oder diese unbeaufsichtigt frei laufen lässt;
+
 - 6\. Verbote und Pflichten gemäss Art. 7 verletzt;
+
 - 7\. seiner Pflicht zur Beseitigung des Hundekots gemäss Art. 8 nicht nachkommt;
+
 - 8\. eine auf Aggressivität zielende Zucht von Hunden betreibt;
+
 - 9\. ohne Bewilligung eine gewerbsmässige Zucht von Hunden betreibt.
 
-## 5 Übergangs- und Schlussbestimmungen
+### V. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 20
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
 
 #### Art. 21
 
 **Kennzeichnung der Hunde**
 
-<sup>1</sup> Die beim Inkrafttreten dieses Gesetzes gehaltenen Hunde sind innerhalb von 6 Monaten gemäss Art. 12 zu kennzeichnen.
+Die beim Inkrafttreten dieses Gesetzes gehaltenen Hunde sind innerhalb von 6 Monaten gemäss Art. 12 zu kennzeichnen.
 
 #### Art. 22
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:
+Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:
 
-- 1\. Art. 16 des Gesetzes vom 27. April 1969 über das Veterinärwesen[^22-1];
+- 1\. Art. 16 des Gesetzes vom 27. April 1969 über das Veterinärwesen;[^22-1]
+
 - 2\. § 20 sowie Ziffer 18 im Anhang der Vollziehungsverordnung vom 3. Dezember 1982 zum Gesetz über das Veterinärwesen (Kantonale Tierseuchenverordnung)[^22-2].
 
 [^22-1]: NG 826.1
@@ -269,6 +297,4 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^23-1] fest.
 
-[^23-1]: In Kraft seit 1. Januar 2005
-
-A 2004, 255, 695, 1600, 1717, 2035
+[^23-1]: A 2004, 255, 695, 1600, 1717, 2035; in Kraft seit 1. Januar 2005
