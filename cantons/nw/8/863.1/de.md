@@ -5,39 +5,40 @@ title: Gesetz über die Märkte und das Reisendengewerbe
 short: "Markt- und Reisendengesetz, MRG"
 language: de
 version: 2016-01-01
-valid_until: 2026-06-30
+corrected: 2021-10-26
 version_adopted: 2015-05-27
 adopted: 2005-06-01
 in_force: 2005-09-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/863.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/677/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/396/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Märkte und das Reisendengewerbe
+# Gesetz über die Märkte und das Reisendengewerbe (Markt- und Reisendengesetz, MRG)
 
-(Markt- und Reisendengesetz, MRG)
-
-vom 01.06.2005 (Stand 01.01.2016)
+vom 1. Juni 2005[^t-2][^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 30 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 23. März 2001 über das Gewerbe der Reisenden[^ingress-1],
+gestützt auf Art. 30 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 23. März 2001 über das Gewerbe der Reisenden[^t-3],
 
 beschliesst:
 
-[^ingress-1]: SR 943.1
+[^t-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+[^t-2]: A 2005, 840, 1258; Datum des Inkrafttretens: 1. September 2005
+[^t-3]: SR 943.1
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt das kantonale Marktrecht und den Vollzug der Bundesgesetzgebung über das Gewerbe der Reisenden.
+Dieses Gesetz regelt das kantonale Marktrecht und den Vollzug der Bundesgesetzgebung über das Gewerbe der Reisenden.
 
-## 2 Märkte
+### II. MÄRKTE
 
 #### Art. 2
 
@@ -61,13 +62,13 @@ beschliesst:
 
 **Marktaufsicht**
 
-<sup>1</sup> Gemeinden, die einen Markt bewilligen oder durchführen, sind auf eigene Kosten zur Ausübung der Marktaufsicht verpflichtet, insbesondere zur Aufsicht über den Marktverkehr, die aufgeführten Waren sowie die Anbieterinnen und Anbieter.
+Gemeinden, die einen Markt bewilligen oder durchführen, sind auf eigene Kosten zur Ausübung der Marktaufsicht verpflichtet, insbesondere zur Aufsicht über den Marktverkehr, die aufgeführten Waren sowie die Anbieterinnen und Anbieter.
 
 #### Art. 5
 
 **Marktreglement, Gebühren**
 
-<sup>1</sup> Die Gemeinden können in einem Marktreglement weitere Vorschriften erlassen und die zu leistenden Gebühren festsetzen.
+Die Gemeinden können in einem Marktreglement weitere Vorschriften erlassen und die zu leistenden Gebühren festsetzen.
 
 #### Art. 6
 
@@ -77,7 +78,7 @@ beschliesst:
 
 <sup>2</sup> Wer sich den Anordnungen der Marktaufsicht nicht fügt, kann von ihr vom Markt weggewiesen werden.
 
-## 3 Gewerbe der Reisenden
+### III. GEWERBE DER REISENDEN
 
 #### Art. 7
 
@@ -94,8 +95,11 @@ beschliesst:
 <sup>1</sup> An den öffentlichen Ruhetagen ist die Ausübung des bewilligungspflichtigen Reisendengewerbes untersagt; davon ausgenommen sind:
 
 - 1\. Märkte;
+
 - 2\. das Betreiben eines Schaustellergewerbes oder eines Zirkus;
+
 - 3\. der Verkauf von Getränken, genussfertigen Speisen und Blumen;
+
 - 4\. der Verkauf von Waren aller Art in Verbindung mit einem besonderen Anlass.
 
 <sup>2</sup> Die Ausübung des Reisendengewerbes durch das ungerufene Aufsuchen privater Haushalte ist an Werktagen von 9.00 Uhr bis 19.00 Uhr erlaubt.
@@ -106,10 +110,11 @@ beschliesst:
 
 <sup>1</sup> Die Bewilligung und die Bewilligungsfreiheit für ein Reisendengewerbe begründen keinen Anspruch, öffentlichen Grund über den Gemeingebrauch hinaus oder fremden privaten Grund zu benützen.
 
-<sup>2</sup> Die Bewilligung für den Sondergebrauch an öffentlichen Wegen, Strassen und Plätzen richtet sich nach der Planungs- und Baugesetzgebung[^9-1] sowie der Strassengesetzgebung[^9-2].
+<sup>2</sup> Die Bewilligung für den Sondergebrauch an öffentlichen Wegen, Strassen und Plätzen richtet sich nach der Planungs- und Baugesetzgebung[^9-1] sowie der Strassengesetzgebung[^9-2].[^9-3]
 
 [^9-1]: NG 611.1
 [^9-2]: NG 622.1
+[^9-3]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 10
 
@@ -121,29 +126,34 @@ beschliesst:
 
 <sup>3</sup> Die Verantwortlichen sind verpflichtet, über ihr Gewerbe alle erforderlichen Auskünfte zu erteilen.
 
-## 4 Rechtsschutz
+### IV. RECHTSSCHUTZ
+
+[^hIVRECHTSSCHUTZ-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 11
 
-**…**
+**…[^hIVRECHTSSCHUTZ-1]**
 
-## 5 Schlussbestimmungen
+### V. SCHLUSSBESTIMMUNGEN
 
 #### Art. 12
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
 
 #### Art. 13
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Erlasse werden aufgehoben:
+Folgende Erlasse werden aufgehoben:
 
 - 1\. Gesetz vom 24. April 1938 betreffend den Hausierverkehr, das Verfahren bei Ausverkäufen und die Bekämpfung unlauteren Geschäftsgebarens[^13-1];
+
 - 2\. Gesetz vom 25. April 1976 über Handel, Gewerbe und Industrie (Gewerbegesetz)[^13-2];
+
 - 3\. Verordnung vom 26. Februar 1949 betreffend die Ausverkäufe und die Ausnahmeverkäufe[^13-3];
+
 - 4\. Verordnung vom 7. Oktober 1857 über den Marktverkehr[^13-4].
 
 [^13-1]: A 1938, 328; 1940, 390; 1958, 403
@@ -159,6 +169,8 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^14-1] fest.
 
-[^14-1]: Datum des Inkrafttretens: 1. September 2005
+[^14-1]: A 2005, 840, 1258; Datum des Inkrafttretens: 1. September 2005
 
-A 2005, 840, 1258
+## Weitere Fussnoten
+
+- [3] NG 921.1
