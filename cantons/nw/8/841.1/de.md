@@ -5,36 +5,37 @@ title: Einführungsgesetz zum Bundesgesetz über die Jagd und den Schutz wildleb
 short: "Kantonales Jagdgesetz, kJSG"
 language: de
 version: 2016-01-01
+corrected: 2021-10-26
 version_adopted: 2015-05-27
 adopted: 2007-01-17
 in_force: 2008-06-15
 url: "https://gesetze.nw.ch/app/de/texts_of_law/841.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/692/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/369/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zum Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel
+# Einführungsgesetz zum Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Kantonales Jagdgesetz, kJSG)
 
-(Kantonales Jagdgesetz, kJSG)
-
-vom 17.01.2007 (Stand 01.01.2016)
+vom 17. Januar 2007[^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 20. Juni 1986 über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz, JSG)[^ingress-1],
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 20. Juni 1986 über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz, JSG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: SR 922.0
+[^t-1]: A 2007, 136, A 2008, 978; vom Bund genehmigt am 25. Juni 2008; Datum des Inkrafttretens: 15. Juni 2008
+[^t-2]: SR 922.0
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz ergänzt die Jagdgesetzgebung des Bundes[^1-1] und regelt den Vollzug.
+Dieses Gesetz ergänzt die Jagdgesetzgebung des Bundes[^1-1] und regelt den Vollzug.
 
 [^1-1]: SR 922.0
 
@@ -53,8 +54,11 @@ beschliesst:
 <sup>1</sup> Die Jagdplanung hat folgende Ziele:
 
 - 1\. nachhaltige Nutzung der jagdbaren, wildlebenden Säugetiere und Vögel (Wild);
+
 - 2\. Regulierung des jagdbaren Wildes nach biologischen Grundsätzen;
+
 - 3\. Ausgleich zwischen Nutzung und Schutz der Natur durch hegerische und jagdliche Tätigkeiten;
+
 - 4\. Begrenzung der Wildschäden an Wald und landwirtschaftlichen Kulturen auf ein tragbares Mass.
 
 <sup>2</sup> Der Regierungsrat ist zuständig für die Jagdplanung und legt insbesondere die jährlichen Jagdkontingente fest.
@@ -73,21 +77,21 @@ beschliesst:
 
 **Information**
 
-<sup>1</sup> Die Direktion sorgt für die Information der Bevölkerung über die Lebensweise des Wildes, dessen Bedürfnisse und Schutz sowie über die Jagdplanung.
+Die Direktion sorgt für die Information der Bevölkerung über die Lebensweise des Wildes, dessen Bedürfnisse und Schutz sowie über die Jagdplanung.
 
 #### Art. 6
 
 **Forschung**
 
-<sup>1</sup> Der Kanton kann Beiträge an Forschungsprojekte von kantonalem Interesse über das Wild und dessen Lebensräume leisten.
+Der Kanton kann Beiträge an Forschungsprojekte von kantonalem Interesse über das Wild und dessen Lebensräume leisten.
 
-## 2 Jagdberechtigung
+### II. JAGDBERECHTIGUNG
 
 #### Art. 7
 
 **Jagdsystem**
 
-<sup>1</sup> Die Jagdberechtigung wird nach dem Patentsystem erteilt.
+Die Jagdberechtigung wird nach dem Patentsystem erteilt.
 
 #### Art. 8
 
@@ -106,16 +110,23 @@ beschliesst:
 <sup>1</sup> Ein Jagdpatent kann erwerben, wer:
 
 - 1\. das 20. Altersjahr erfüllt hat und handlungsfähig ist;
+
 - 2\. einen Fähigkeitsausweis eines Kantons oder einen gleichwertigen ausländischen Fähigkeitsausweis besitzt;
+
 - 3\. gemäss den bundesrechtlichen Vorschriften versichert ist;
+
 - 4\. die zu verwendenden Jagdwaffen selber eingeschossen hat;
+
 - 5\. nicht mit einem Jagdverbot belegt ist.
 
 <sup>2</sup> Die Ausstellung eines Jagdpatentes wird verweigert, wenn:
 
 - 1\. innerhalb der letzten fünf Jahre eine rechtskräftige Verurteilung wegen eines vorsätzlichen Jagdvergehens oder wegen vorsätzlicher Tierquälerei erfolgt ist;
+
 - 2\. innerhalb der letzten fünf Jahre drei oder mehr fahrlässige Jagdvergehen oder Jagdübertretungen rechtskräftig festgestellt oder Irrtumsabschüsse registriert worden sind;
+
 - 3\. die wegen einer Jagdwiderhandlung rechtskräftig ausgesprochenen, fälligen Geldstrafen, Bussen, amtlichen Kosten und Ersatzforderungen nicht bezahlt oder gemeinnützige Arbeit sowie Ersatzfreiheitsstrafen nicht vollzogen sind;
+
 - 4\. die gesuchstellende Person aufgrund ihrer körperlichen oder geistigen Verfassung die Jagd nicht ausüben oder Dritte gefährden könnte.
 
 <sup>3</sup> Die Ausstellung eines Jagdpatentes kann vorsorglich bis zum rechtskräftigen Abschluss einer wegen eines Jagdvergehens oder einer schweren Jagdübertretung hängigen Strafuntersuchung verweigert werden.
@@ -135,12 +146,19 @@ beschliesst:
 <sup>3</sup> Die Jagdprüfung umfasst insbesondere folgende Fachgebiete:
 
 - 1\. Distanzenschätzen;
+
 - 2\. Waffenhandhabung, Schiessfertigkeit, Sicherheit und Unfallprävention;
+
 - 3\. Jagdrecht;
+
 - 4\. Wild- und Vogelkunde;
+
 - 5\. Jagdkunde;
+
 - 6\. Jagdhunde;
+
 - 7\. Brauchtum,
+
 - 8\. Naturkunde, Lebensraum des Wildes, Wildschaden.
 
 <sup>4</sup> Der Regierungsrat regelt den Jagdlehrgang und die Jagdprüfung und die allfällige Zusammenarbeit mit anderen Kantonen.
@@ -152,8 +170,11 @@ beschliesst:
 <sup>1</sup> Es werden folgende Patentarten unterschieden:
 
 - 1\. Hochjagd auf Rothirsche, Gämsen und Murmeltiere;
+
 - 2\. Niederjagd auf alles nicht geschützte Wild mit Ausnahme von Rothirschen, Gämsen und Murmeltieren;
+
 - 3\. Winterjagd auf Haarraubwild, Raubzeug und Wasserwild;
+
 - 4\. Hege- und Regulationsjagd auf einzelne Tierarten.
 
 <sup>2</sup> Die Patente für die Winter-, Hege- sowie Regulationsjagd werden nur an Kantonseinwohnerinnen und Kantonseinwohner ausgestellt.
@@ -170,23 +191,47 @@ beschliesst:
 
 #### Art. 13
 
-**Patentabgaben 1. Tarif**
+**Patentabgaben**
+
+### 1. Tarif
 
 <sup>1</sup> Die Patentabgaben betragen:
 
-- 1\. Hochjagd
-  - a) Grundtaxe für Kantonseinwohnerinnen und Kantonseinwohner: — Fr. 350.–
-  - b) Grundtaxe für Personen mit zivilrechtlichem Wohnsitz ausserhalb des Kantons: — Fr. 1'800.–
-  - c) Zusatzabgabe je zum Abschuss freigegebene Gämse: — Fr. 60.–
-  - d) Zusatzabgabe je erlegten Rothirsch: — Fr. 3.–/kg
-- 2\. Niederjagd
-  - a) Grundtaxe für Kantonseinwohnerinnen und Kantonseinwohner: — Fr. 200.–
-  - b) Grundtaxe für Personen mit zivilrechtlichem Wohnsitz ausserhalb des Kantons: — Fr. 1'800.–
-  - c) Zusatzabgabe je zum Abschuss freigegebenes, adultes Reh: — Fr. 55.–
-  - d) Zusatzabgabe je zum Abschuss freigegebenes Rehkitz: — Fr. 30.–
-- 3\. Winterjagd: — Fr. 50.–
-- 4\. Hege- und Regulationsjagd: — Fr. 120 bis 1'000.–
-- 5\. Gästekarte: — Fr. 180.–
+- 1\. Hochjagd 1.1 Grundtaxe für Kantonseinwohnerinnen und Kantonseinwohner:
+
+**Fr. 350.-**
+
+1.2 Grundtaxe für Personen mit zivilrechtlichem Wohnsitz ausserhalb des Kantons:
+
+**Fr. 1800.-**
+
+**Fr. 60.- Fr. 3.-/kg**
+
+Zusatzabgaben 1.3 je zum Abschuss freigegebene Gämse 1.4 je erlegten Rothirsch:
+
+- 2\. Niederjagd 2.1 Grundtaxe für Kantonseinwohnerinnen und Kantonseinwohner:
+
+**Fr. 200.-**
+
+2.2 Grundtaxe für Personen mit zivilrechtlichem Wohnsitz ausserhalb des Kantons:
+
+**Fr. 1800.-**
+
+Zusatzabgaben 2.3 je zum Abschuss freigegebenes, adultes Reh:
+
+**Fr. 55.- Fr. 30.- Fr. 50.-**
+
+2.4 je zum Abschuss freigegebenes Rehkitz:
+
+- 3\. Winterjagd:
+
+**Fr. 120 bis 1000.-**
+
+- 4\. Hege- und Regulationsjagd:
+
+**Fr. 180.-**
+
+- 5\. Gästekarte:
 
 <sup>2</sup> Der Regierungsrat kann diese Patentabgaben und Tarife der Teuerung anpassen.
 
@@ -197,12 +242,14 @@ beschliesst:
 <sup>1</sup> Die Patentabgaben werden zurückerstattet, wenn:
 
 - 1\. spätestens ein Tag vor Jagdbeginn auf die Jagdberechtigung verzichtet wird;
+
 - 2\. das Patent vor Beginn der Jagd entzogen wird;
+
 - 3\. die Jagd behördlich vor ihrem Beginn untersagt worden ist.
 
 <sup>2</sup> Kann die Jagd nur zeitweise ausgeübt werden, werden die Patentabgaben nicht zurückerstattet.
 
-<sup>3</sup> Wird auf die Jagdberechtigung vor Jagdbeginn verzichtet, ist eine Gebühr von Fr. 50.– zu entrichten.
+<sup>3</sup> Wird auf die Jagdberechtigung vor Jagdbeginn verzichtet, ist eine Gebühr von Fr. 50.- zu entrichten.
 
 #### Art. 15
 
@@ -224,7 +271,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat regelt in der Verordnung die zugelassenen Selbsthilfemassnahmen und bezeichnet die Tierarten, gegen die Selbsthilfemassnahmen ergriffen werden dürfen.
 
-## 3 Jagdausübung
+### III. JAGDAUSÜBUNG
 
 #### Art. 17
 
@@ -257,14 +304,18 @@ beschliesst:
 <sup>1</sup> Für die Jagd sind nur folgende Waffen zugelassen:
 
 - 1\. ein- und mehrläufige Büchsen;
+
 - 2\. Repetierbüchsen;
+
 - 3\. ein- und mehrläufige Flinten;
+
 - 4\. zweischüssige, repetierbare und selbstladende Flinten und Büchsen;
+
 - 5\. kombinierte Waffen mit einem oder zwei Büchsenläufen und einem oder zwei Flintenläufen.
 
-<sup>2</sup> Büchsenläufe müssen ein Kaliber von mindestens 6.5 mm aufweisen; für den Abschuss von Murmeltieren, Raubwild und Raubzeug sind Kleinkalibergewehre mit einem Kaliber von mindestens 5.6 mm gestattet.
+<sup>2</sup> Büchsenläufe müssen ein Kaliber von mindestens 6,5 mm aufweisen; für den Abschuss von Murmeltieren, Raubwild und Raubzeug sind Kleinkalibergewehre mit einem Kaliber von mindestens 5,6 mm gestattet.
 
-<sup>3</sup> Der Schrotkorndurchmeser für die Jagd auf Rehe muss 3.7 mm bis höchstens 4.5 mm betragen.
+<sup>3</sup> Der Schrotkorndurchmeser für die Jagd auf Rehe muss 3,7 mm bis höchstens 4,5 mm betragen.
 
 <sup>4</sup> Faustfeuerwaffen, Reduzierläufe und Reduzierhülsen dürfen nur für den Fangschuss auf kurze Distanz verwendet werden. Die Jägerin oder der Jäger ist berechtigt, während der Jagdausübung eine Faustfeuerwaffe auf sich zu tragen.
 
@@ -276,7 +327,7 @@ beschliesst:
 
 **Einsatz von Hunden**
 
-<sup>1</sup> Für die Jagd dürfen nur geeignete und zugelassene Hunde in begrenzter Zahl eingesetzt werden.
+Für die Jagd dürfen nur geeignete und zugelassene Hunde in begrenzter Zahl eingesetzt werden.
 
 #### Art. 21
 
@@ -290,13 +341,13 @@ beschliesst:
 
 **Hilfe bei Jagdhandlungen**
 
-<sup>1</sup> Personen ohne Jagdberechtigung dürfen sich nicht aktiv an der Jagd oder an Jagdhandlungen beteiligen; ausgenommen sind Teilnehmerinnen oder Teilnehmer des Jagdlehrganges sowie Kandidatinnen und Kandidaten für die Jagdprüfung.
+Personen ohne Jagdberechtigung dürfen sich nicht aktiv an der Jagd oder an Jagdhandlungen beteiligen; ausgenommen sind Teilnehmerinnen oder Teilnehmer des Jagdlehrganges sowie Kandidatinnen und Kandidaten für die Jagdprüfung.
 
 #### Art. 23
 
 **Ausweispflicht**
 
-<sup>1</sup> Die Jagdberechtigten sind verpflichtet, das Patent und die vorgeschriebenen Kontrollunterlagen beziehungsweise die Gästekarte bei der Jagdausübung auf sich zu tragen und auf Verlangen den Wildschutzorganen vorzuweisen.
+Die Jagdberechtigten sind verpflichtet, das Patent und die vorgeschriebenen Kontrollunterlagen beziehungsweise die Gästekarte bei der Jagdausübung auf sich zu tragen und auf Verlangen den Wildschutzorganen vorzuweisen.
 
 #### Art. 24
 
@@ -310,7 +361,7 @@ beschliesst:
 
 <sup>4</sup> Wird die Abschusskontrolle dem Amt nicht fristgerecht eingereicht, ist eine Verzugsgebühr zu entrichten.
 
-## 4 Wild- und Vogelschutz
+### IV. WILD- UND VOGELSCHUTZ
 
 #### Art. 25
 
@@ -342,16 +393,18 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat kann in Ergänzung des Schutzes durch Wildruhegebiete weitere Massnahmen festlegen.
 
-## 5 Wildschaden
+### V. WILDSCHADEN
 
 #### Art. 28
 
 **Abwehrmassnahmen**
 
-<sup>1</sup> Grundeigentümerinnen und Grundeigentümer sowie Bewirtschafterinnen und Bewirtschafter sind verpflichtet, zur Verhütung von Wildschaden die zumutbaren Abwehrmassnahmen zu treffen. Zumutbar sind insbesondere:
+Grundeigentümerinnen und Grundeigentümer sowie Bewirtschafterinnen und Bewirtschafter sind verpflichtet, zur Verhütung von Wildschaden die zumutbaren Abwehrmassnahmen zu treffen. Zumutbar sind insbesondere:
 
 - 1\. das Anlegen beziehungsweise Verlegen von gefährdeten Intensivkulturen abseits von wildexponierten Gebieten;
+
 - 2\. das Einzäunen von erheblich gefährdeten Intensivkulturen;
+
 - 3\. das Hüten von Nutztieren zum Schutz vor Raubtieren.
 
 #### Art. 29
@@ -368,12 +421,11 @@ beschliesst:
 
 <sup>1</sup> Der Kanton leistet gemäss Art. 13 JSG[^30-1] angemessene Entschädigungen für den Schaden, den jagdbare Tiere an Wald, landwirtschaftlichen Kulturen und Nutztieren anrichten.
 
-<sup>2</sup> Der Kanton entschädigt den durch geschütztes Wild verursachten Schaden im Rahmen der Bundesgesetzgebung[^30-2].
+<sup>2</sup> Der Kanton entschädigt den durch geschütztes Wild verursachten Schaden im Rahmen der Bundesgesetzgebung[^30-1].
 
 [^30-1]: SR 922.0
-[^30-2]: SR 922.0
 
-## 6 Organisation
+### VI. ORGANISATION
 
 #### Art. 31
 
@@ -384,16 +436,20 @@ beschliesst:
 <sup>2</sup> Er ist zuständig für:
 
 - 1\. die Wahl der Jagdkommission und deren Präsidentin oder Präsident;
+
 - 2\. die Wahl der Jagdprüfungskommission und deren Präsidentin oder Präsident;
+
 - 3\. die Zulassung von Schiessanlagen für das Einschiessen von Jagdwaffen;
+
 - 4\. den Abschluss von Programmvereinbarungen mit dem Bund;
+
 - 5\. die Erfüllung der weiteren ihm durch die Gesetzgebung zugewiesenen Aufgaben.
 
 #### Art. 32
 
 **Direktion**
 
-<sup>1</sup> Die Direktion ist die direkte Aufsichtsbehörde und vollzieht alle dem Kanton gemäss der Jagdgesetzgebung zufallenden Aufgaben, soweit diese nicht anderen Organen übertragen sind.
+Die Direktion ist die direkte Aufsichtsbehörde und vollzieht alle dem Kanton gemäss der Jagdgesetzgebung zufallenden Aufgaben, soweit diese nicht anderen Organen übertragen sind.
 
 #### Art. 33
 
@@ -422,28 +478,40 @@ beschliesst:
 <sup>2</sup> Es ist insbesondere zuständig für:
 
 - 1\. die Aufsicht über die Jagd;
+
 - 2\. den Schutz und die Regulierung der Wildbestände;
+
 - 3\. die Anordnung von Massnahmen zur Verhütung von Wildschäden;
+
 - 4\. die Verfügung betreffend die Entschädigung von Wildschäden;
+
 - 5\. die Beratung der Direktion betreffend die Information der Bevölkerung;
+
 - 6\. die Ausstellung der Jagdpatente;
+
 - 7\. die Verwertung der beschlagnahmten und verunfallten Tiere;
+
 - 8\. die Bewilligung der Aneignung eines tot aufgefundenen wildlebenden Tieres oder eines Teils davon;
+
 - 9\. die Zusammenarbeit mit Nachbarkantonen bei Hege- und Regulationsabschüssen;
+
 - 10\. die Führung der Sekretariate der Jagdkommission und der Jagdprüfungskommission.
 
 #### Art. 36
 
 **Wildschutzorgane**
 
-<sup>1</sup> Für die Verhütung, Feststellung und Anzeige von Widerhandlungen gegen die Gesetzgebung über die Jagd sowie den Schutz von wildlebenden Tieren und ihrer Lebensräume sind folgende Organe des Wildschutzes zuständig:
+Für die Verhütung, Feststellung und Anzeige von Widerhandlungen gegen die Gesetzgebung über die Jagd sowie den Schutz von wildlebenden Tieren und ihrer Lebensräume sind folgende Organe des Wildschutzes zuständig:
 
 - 1\. Wildhüterinnen und Wildhüter;
+
 - 2\. Fischereiaufseherin oder Fischereiaufseher;
+
 - 3\. Revierförsterinnen und Revierförster;
+
 - 4\. Mitglieder des Polizeikorps.
 
-## 7 Befugnisse der Wildschutzorgane
+### VII. BEFUGNISSE DER WILDSCHUTZORGANE
 
 #### Art. 37
 
@@ -455,21 +523,23 @@ beschliesst:
 
 #### Art. 38
 
-**Befugnisse 1. Grundsätze**
+**Befugnisse**
+
+### 1. Grundsätze
 
 <sup>1</sup> Die Wildschutzorgane vollziehen die eidgenössische und kantonale Jagdgesetzgebung im Bereich der Wildhut und der Jagdaufsicht.
 
-<sup>2</sup> Sie sind zur Erfüllung ihrer Aufgaben ermächtigt, polizeiliche Massnahmen gemäss Art. 55 Absätze 1 und 2 (Anhalten, Identitätsfeststellung, Durchsuchung von Fahrzeugen und Behältnissen), Art. 57 (Befragung), Art. 63 (Wegweisung, Fernhaltung), Art. 64 Abs. 1 (Gewahrsam), Art. 71 (Betreten von Räumen und Grundstücken) und Art. 72–74 (Sicherstellung von Sachen) des Polizeigesetzes[^38-1] zu ergreifen.
+<sup>2</sup> Sie sind zur Erfüllung ihrer Aufgaben ermächtigt, polizeiliche Massnahmen gemäss Art. 55 Absätze 1 und 2 (Anhalten, Identitätsfeststellung, Durchsuchung von Fahrzeugen und Behältnissen), Art. 57 (Befragung), Art. 63 (Wegweisung, Fernhaltung), Art. 64 Abs. 1 (Gewahrsam), Art. 71 (Betreten von Räumen und Grundstücken) und Art. 72–74 (Sicherstellung von Sachen) des Polizeigesetzes[^h1Grundsätze-1] zu ergreifen.
 
-<sup>3</sup> Sie beachten dabei den Grundsatz der Verhältnismässigkeit gemäss Art. 44 des Polizeigesetzes[^38-2].
+<sup>3</sup> Sie beachten dabei den Grundsatz der Verhältnismässigkeit gemäss Art. 44 des Polizeigesetzes[^h1Grundsätze-1].
 
-<sup>4</sup> Die Anordnung und Durchführung weiterer Massnahmen richtet sich nach der Gesetzgebung über das Polizeiwesen[^38-3], der Schweizerischen Strafprozessordnung (StPO)[^38-4] sowie nach dem Gerichtsgesetz[^38-5].
+<sup>4</sup> Die Anordnung und Durchführung weiterer Massnahmen richtet sich nach der Gesetzgebung über das Polizeiwesen[^h1Grundsätze-2], der Schweizerischen Strafprozessordnung (StPO)[^h1Grundsätze-3] sowie nach dem Gerichtsgesetz[^h1Grundsätze-4].[^h1Grundsätze-5]
 
-[^38-1]: NG 911.1
-[^38-2]: NG 911.1
-[^38-3]: NG 911
-[^38-4]: SR 312.0
-[^38-5]: NG 261.1
+[^h1Grundsätze-1]: NG 911.1
+[^h1Grundsätze-2]: NG 911
+[^h1Grundsätze-3]: SR 312.0
+[^h1Grundsätze-4]: NG 261.1
+[^h1Grundsätze-5]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575, in Kraft seit 1. Januar 2011
 
 #### Art. 39
 
@@ -479,13 +549,15 @@ beschliesst:
 
 <sup>2</sup> Sie dürfen von der Schusswaffe nur zum Selbstschutz und zum Schutz Dritter Gebrauch machen.
 
-## 8 Strafbestimmungen und Rechtsschutz
+### VIII. STRAFBESTIMMUNGEN UND RECHTSSCHUTZ
 
 #### Art. 40
 
-**Strafbestimmungen 1. Allgemeines**
+**Strafbestimmungen**
 
-<sup>1</sup> Unter Vorbehalt der Strafbestimmungen des Bundesrechts wird mit Busse bis Fr. 20'000.– bestraft, wer vorsätzlich oder fahrlässig gegen die Vorschriften dieses Gesetzes sowie die darauf gestützten Ausführungsbestimmungen des Regierungsrates verstösst.
+### 1. Allgemeines
+
+<sup>1</sup> Unter Vorbehalt der Strafbestimmungen des Bundesrechts wird mit Busse bis Fr. 20‘000.- bestraft, wer vorsätzlich oder fahrlässig gegen die Vorschriften dieses Gesetzes sowie die darauf gestützten Ausführungsbestimmungen des Regierungsrates verstösst.
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
@@ -495,17 +567,19 @@ beschliesst:
 
 **2. Anzeigepflicht**
 
-<sup>1</sup> Die Wildschutzorgane sind unter Vorbehalt des Ordnungsbussenverfahrens verpflichtet, bei Widerhandlungen Strafanzeige einzureichen.
+Die Wildschutzorgane sind unter Vorbehalt des Ordnungsbussenverfahrens verpflichtet, bei Widerhandlungen Strafanzeige einzureichen.
 
 #### Art. 42
 
 **3. Mitteilungspflicht**
 
-<sup>1</sup> Rapporte der Wildschutzorgane sowie rechtskräftige Entscheide der Strafinstanzen, die sich auf die Jagdgesetzgebung stützen, sind dem Amt mitzuteilen.
+Rapporte der Wildschutzorgane sowie rechtskräftige Entscheide der Strafinstanzen, die sich auf die Jagdgesetzgebung stützen, sind dem Amt mitzuteilen.
 
 #### Art. 43
 
-**Ordnungsbussenverfahren 1. Grundsatz**
+**Ordnungsbussenverfahren**
+
+### 1. Grundsatz
 
 <sup>1</sup> Übertretungen können in einem vereinfachten Verfahren mit Ordnungsbussen geahndet werden, wenn es sich um einfache und klar erfassbare Tatbestände handelt.
 
@@ -513,7 +587,7 @@ beschliesst:
 
 <sup>3</sup> Die Ordnungsbusse beträgt höchstens 300 Franken; Vorleben und persönliche Verhältnisse der Täterin oder des Täters werden nicht berücksichtigt.
 
-<sup>4</sup> Erfüllt die Täterin oder der Täter durch eine oder mehrere Widerhandlungen mehrere Ordnungsbussentatbestände, werden die Bussen zusammengezählt und es wird eine Gesamtbusse von höchstens Fr. 500.– auferlegt.
+<sup>4</sup> Erfüllt die Täterin oder der Täter durch eine oder mehrere Widerhandlungen mehrere Ordnungsbussentatbestände, werden die Bussen zusammengezählt und es wird eine Gesamtbusse von höchstens Fr. 500.- auferlegt.
 
 <sup>5</sup> Das Ordnungsbussenverfahren ist kostenlos und wird mit der Bezahlung der Busse rechtskräftig abgeschlossen.
 
@@ -529,12 +603,16 @@ beschliesst:
 
 **3. Ausnahmen**
 
-<sup>1</sup> Das Ordnungsbussenverfahren ist ausgeschlossen:
+Das Ordnungsbussenverfahren ist ausgeschlossen:
 
 - 1\. bei Widerhandlungen, durch welche die Täterin oder der Täter Personen verletzt oder gefährdet oder einen Sachschaden verursacht hat;
+
 - 2\. bei Widerhandlungen, die von einer zuständigen Person gemäss Art. 44 nicht selber beobachtet beziehungsweise festgestellt worden sind;
+
 - 3\. wenn der Täterin oder dem Täter zusätzlich eine Widerhandlung vorgeworfen wird, die nicht in der Bussenliste aufgeführt ist;
+
 - 4\. wenn die Täterin oder der Täter das Ordnungsbussenverfahren ganz oder teilweise ablehnt;
+
 - 5\. wenn die Ordnungsbusse nicht umgehend bezahlt wird.
 
 #### Art. 46
@@ -556,12 +634,13 @@ beschliesst:
 <sup>3</sup> Im übrigen gelten die Bestimmungen des Obligationenrechts[^47-1].
 
 [^47-1]: SR 220
+[^47-2]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 48
 
-**…**
+**…[^47-2]**
 
-## 9 Schlussbestimmungen
+### IX. SCHLUSSBESTIMMUNGEN
 
 #### Art. 49
 
@@ -575,7 +654,7 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Einführungsgesetz vom 30. April 1972 zur Bundesgesetzgebung über Jagd und Vogelschutz (Jagdgesetz)[^50-1] und die Vollziehungsverordnung vom 2. Dezember 1992 zum Einführungsgesetz zur Bundesgesetzgebung über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Kantonale Jagdverordnung)[^50-2].
+Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Einführungsgesetz vom 30. April 1972 zur Bundesgesetzgebung über Jagd und Vogelschutz (Jagdgesetz)[^50-1] und die Vollziehungsverordnung vom 2. Dezember 1992 zum Einführungsgesetz zur Bundesgesetzgebung über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Kantonale Jagdverordnung)[^50-2].
 
 [^50-1]: A 1972, 780
 [^50-2]: A 1992, 1921; 2000, 681
@@ -588,6 +667,8 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^51-1] fest; die Genehmigung durch den Bund bleibt vorbehalten.
 
-[^51-1]: Vom Bund genehmigt am 25. Juni 2008; Datum des Inkrafttretens: 15. Juni 2008
+[^51-1]: A 2007, 136, A 2008, 978; vom Bund genehmigt am 25. Juni 2008; Datum des Inkrafttretens: 15. Juni 2008
 
-A 2007, 136, A 2008, 978
+## Weitere Fussnoten
+
+- [7] NG 263.1
