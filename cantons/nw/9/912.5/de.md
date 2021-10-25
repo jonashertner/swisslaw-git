@@ -5,30 +5,26 @@ title: Interkantonale Vereinbarung über die computergestützte Zusammenarbeit d
 short: ViCLAS-Konkordat
 language: de
 version: 2010-05-01
+corrected: 2021-10-26
 version_adopted: 2009-04-02
 adopted: 2009-04-02
 in_force: 2010-05-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/912.5"
-pdf: "https://gesetze.nw.ch/api/de/versions/661/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/418/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten
+# Interkantonale Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (ViCLAS-Konkordat)
 
-(ViCLAS-Konkordat)
+vom 02. April 2009<sup>1</sup>
 
-vom 02.04.2009 (Stand 01.05.2010)
-
-Die Regierungen der Kantone schliessen
-
-in Ausführung von Art. 57 der Bundesverfassung[^ingress-1]
+Die Regierungen der Kantone schliessen in Ausführung von Art. 57 der Bundesverfassung<sup>2</sup>
 
 folgende Verwaltungsvereinbarung ab:
 
-[^ingress-1]: SR 101
-
-## 1 Allgmeine Bestimmungen
+### I. ALLGMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -37,6 +33,7 @@ folgende Verwaltungsvereinbarung ab:
 <sup>1</sup> Die interkantonale Vereinbarung (bzw. das Konkordat; nachstehend: Vereinbarung) bezweckt die effiziente Bekämpfung der (seriellen) Gewalt- und Sexualkriminalität durch interkantonale Zusammenarbeit, indem insbesondere:
 
 - a) die rechtliche Grundlage für den kantonsübergreifenden Einsatz des Analyseinstruments ViCLAS zur Verhinderung und Aufklärung von Delikten gegen die physische und sexuelle Integrität geschaffen und
+
 - b) die überkantonale Zusammenführung und Auswertung kantonaler Ermittlungsergebnisse und Strafverfahren ermöglicht wird.
 
 <sup>2</sup> Diese Vereinbarung regelt, unter welchen Voraussetzungen ViCLAS durch die der Vereinbarung angeschlossenen Kantone sowie dem Fürstentum Liechtenstein eingesetzt wird.
@@ -45,7 +42,7 @@ folgende Verwaltungsvereinbarung ab:
 
 **Begriff**
 
-<sup>1</sup> ViCLAS (Violent Crime Linkage Analysis System) ist ein auf bestehenden Ermittlungsergebnissen basierendes Analysesystem für Gewalt- und Sexualdelikte, das die Grundlage für neue Ermittlungsansätze (Tat-Täter-Zusammenhänge beziehungsweise Tat-Tat-Zusammenhänge) bildet. Es dient dazu, deliktspezifische Informationen sprachunabhängig auswertbar zu machen.
+ViCLAS (Violent Crime Linkage Analysis System) ist ein auf bestehenden Ermittlungsergebnissen basierendes Analysesystem für Gewalt- und Sexualdelikte, das die Grundlage für neue Ermittlungsansätze (Tat-Täter-Zusammenhänge beziehungsweise Tat-Tat-Zusammenhänge) bildet. Es dient dazu, deliktspezifische Informationen sprachunabhängig auswertbar zu machen.
 
 #### Art. 3
 
@@ -56,15 +53,18 @@ folgende Verwaltungsvereinbarung ab:
 <sup>2</sup> Mit ViCLAS werden Verhaltensweisen und/oder Umstände erfasst, welche in Zusammenhang mit Delikten gegen die physische bzw. sexuelle Integrität stehen bzw. darauf hindeuten oder sexuell motiviert sind und sich für eine Analyse und Recherche in ViCLAS eignen. Dies beinhaltet insbesondere:
 
 - a) Tötungsdelikte (inkl. Versuche),
+
 - b) Straftaten gegen die sexuelle Selbstbestimmung (inkl. Versuche und Antragsdelikte),
+
 - c) Vermisstenfälle, wenn die Gesamtumstände auf ein Verbrechen hindeuten,
+
 - d) verdächtiges Ansprechen von Kindern und Jugendlichen, wenn auf Grund der Gesamtumstände von einem Gewalt- oder Sexualmotiv auszugehen ist,
+
 - e) Entführungen (ohne elterliche Kindesentführung und ohne Entziehen von Unmündigen durch Inhaber der elterlichen Gewalt),
-- f) Tierquälerei im Sinn von Artikel 26 Absatz 1 Buchstaben a und b des Tierschutzgesetzes vom 16. Dezember 2005 (Stand 1. September 2008; TSchG[^3-1]), wenn auf Grund der Gesamtumstände von einem Gewalt- oder Sexualmotiv auszugehen ist.
 
-[^3-1]: SR 455
+- f) Tierquälerei im Sinn von Artikel 26 Absatz 1 Buchstaben a und b des Tierschutzgesetzes vom 16. Dezember 2005 (Stand 1. September 2008; TSchG<sup>3</sup>), wenn auf Grund der Gesamtumstände von einem Gewalt- oder Sexualmotiv auszugehen ist.
 
-## 2 Organisation, Zuständigkeiten
+### II. ORGANISATION, ZUSTÄNDIGKEITEN
 
 #### Art. 4
 
@@ -75,12 +75,19 @@ folgende Verwaltungsvereinbarung ab:
 <sup>2</sup> In ViCLAS werden standardmässig alle verfügbaren ermittlungsrelevanten Informationen zu den nachfolgenden Bereichen aufgenommen:
 
 - a) Angaben über die Täterschaft und ihre Lebenssituation,
+
 - b) Angaben über die Opfer und deren Lebenssituation,
+
 - c) Angaben über Täter-Opferbeziehung,
+
 - d) Angaben zur Tat und zur Vorgehensweise der Täterschaft,
+
 - e) Angaben zu Verletzungen und Todesursachen,
+
 - f) Angaben über die Tatorte,
+
 - g) Art der verwendeten Waffen und Gegenstände,
+
 - h) Angaben zu Fahrzeugen, die in einem Zusammenhang mit der Tat und/oder der Täterschaft stehen.
 
 <sup>3</sup> Absatz 2 ist ebenso anwendbar auf polizeilich ermittelte, jedoch nicht oder noch nicht gerichtlich beurteilte Daten.
@@ -97,7 +104,7 @@ folgende Verwaltungsvereinbarung ab:
 
 <sup>4</sup> Die strategische Leitung von ViCLAS wird durch den Lenkungsausschuss ViCLAS wahrgenommen. Diesem gehören der Chef bzw. Chefin Kriminalabteilung der Zentralstelle (Vorsitz) und die Chefs bzw. Chefinnen der Kriminalpolizei der fünf Aussenstellen an. Der Lenkungsausschuss ist der Konferenz der kantonalen Polizeikommandanten (KKPKS) rechenschaftspflichtig. Diese übt die Aufsicht über die Einhaltung der Vereinbarung aus.
 
-## 3 Betrieb und Datenschutz
+### III. BETRIEB UND DATENSCHUTZ
 
 #### Art. 6
 
@@ -111,9 +118,7 @@ folgende Verwaltungsvereinbarung ab:
 
 **Betriebsbewilligung**
 
-<sup>1</sup> Das Datenbearbeitungssystem wird von der Kantonspolizei Bern für die ganze Schweiz betrieben. Der Betrieb des Analysesystems ViCLAS wird mit der Betriebsbewilligung des Regierungsrates des Kantons Bern gemäss Artikel 52 Absatz 5 des Polizeigesetzes des Kantons Bern vom 8. Juni 1997 (PolG[^7-1]) geregelt.
-
-[^7-1]: BSG 551.5
+Das Datenbearbeitungssystem wird von der Kantonspolizei Bern für die ganze Schweiz betrieben. Der Betrieb des Analysesystems ViCLAS wird mit der Betriebsbewilligung des Regierungsrates des Kantons Bern gemäss Artikel 52 Absatz 5 des Polizeigesetzes des Kantons Bern vom 8. Juni 1997 (PolG<sup>4</sup>) geregelt.
 
 #### Art. 8
 
@@ -121,26 +126,25 @@ folgende Verwaltungsvereinbarung ab:
 
 <sup>1</sup> Die physische Speicherung der ViCLAS-Daten erfolgt ausschliesslich bei der Zentralstelle.
 
-Bezüglich der Datenpflege in ViCLAS gelten die folgenden Grundsätze:
+<sup>2</sup> Bezüglich der Datenpflege in ViCLAS gelten die folgenden Grundsätze:
 
 - a) Die Aussenstellen können ihre eigenen Daten mutieren und haben ein Leserecht für die Daten der anderen Aussenstellen sowie der Zentralstelle.
+
 - b) Das Recht, den ganzen Datensatz, d.h. auch die Daten der fünf ViCLAS-Aussenstellen zu mutieren, kommt ausschliesslich der Zentralstelle zu.
+
 - c) Die Löschung erfolgt durch die Zentralstelle.
 
 #### Art. 9
 
 **Verantwortlichkeit**
 
-<sup>1</sup> Die Verantwortung für die Einhaltung des Datenschutzes und die Gewährleistung der Datensicherheit liegt beim Polizeikommandanten beziehungsweise bei der Polizeikommandantin des Kantons Bern. Die ViCLAS-Mitarbeiter und ‑Mitarbeiterinnen der Zentralstelle sowie der Aussenstellen sind daneben auch persönlich für die Einhaltung der Anliegen und Vorgaben des Datenschutzes verantwortlich.
+Die Verantwortung für die Einhaltung des Datenschutzes und die Gewährleistung der Datensicherheit liegt beim Polizeikommandanten beziehungsweise bei der Polizeikommandantin des Kantons Bern. Die ViCLAS-Mitarbeiter und -Mitarbeiterinnen der Zentralstelle sowie der Aussenstellen sind daneben auch persönlich für die Einhaltung der Anliegen und Vorgaben des Datenschutzes verantwortlich.
 
 #### Art. 10
 
 **Akteneinsichtsrecht**
 
-<sup>1</sup> Verlangt eine Person nach Massgabe des anwendbaren kantonalen Datenschutzrechts Auskunft oder Einsicht in die von der Polizei über sie bearbeiteten Daten, ist die zuständige kantonale Polizeibehörde zur Weiterleitung des Gesuchs als Teilgesuch an die zuständige Aussenstelle verpflichtet, wenn
-
-- a) sich aus den bearbeiteten Daten Anhaltspunkte für einen ViCLAS-Eintrag ergeben oder
-- b) der Gesuchsteller oder die Gesuchstellerin dies verlangt.
+<sup>1</sup> Verlangt eine Person nach Massgabe des anwendbaren kantonalen Datenschutzrechts Auskunft oder Einsicht in die von der Polizei über sie bearbeiteten Daten, ist die zuständige kantonale Polizeibehörde zur Weiterleitung des Gesuchs als Teilgesuch an die zuständige Aussenstelle verpflichtet, wenn a) sich aus den bearbeiteten Daten Anhaltspunkte für einen ViCLAS-Eintrag ergeben oder b) der Gesuchsteller oder die Gesuchstellerin dies verlangt.
 
 <sup>2</sup> Es ist zulässig, Gesuche um Auskunft und Einsicht unmittelbar an die Aussenstelle oder die Zentralstelle zu richten.
 
@@ -160,11 +164,9 @@ Bezüglich der Datenpflege in ViCLAS gelten die folgenden Grundsätze:
 
 **Verfahren und Rechtsschutz**
 
-<sup>1</sup> Die im Zusammenhang mit ViCLAS stehenden Auskunfts- und Berichtigungsgesuche sowie alle anderen im Zusammenhang mit der vorliegenden Vereinbarung stehenden datenschutzrechtlichen Ansprüche richten sich – soweit diese Vereinbarung keine abweichenden Regelungen enthält – nach dem Datenschutzgesetz des Kantons Bern vom 19. Februar 1986 (KDSG[^12-1]).
+<sup>1</sup> Die im Zusammenhang mit ViCLAS stehenden Auskunfts- und Berichtigungsgesuche sowie alle anderen im Zusammenhang mit der vorliegenden Vereinbarung stehenden datenschutzrechtlichen Ansprüche richten sich - soweit diese Vereinbarung keine abweichenden Regelungen enthält - nach dem Datenschutzgesetz des Kantons Bern vom 19. Februar 1986 (KDSG<sup>5</sup>).
 
 <sup>2</sup> Zuständige Datenaufsichtsstelle ist die Datenaufsichtsstelle des Kantons Bern.
-
-[^12-1]: BSG 152.04
 
 #### Art. 13
 
@@ -173,19 +175,26 @@ Bezüglich der Datenpflege in ViCLAS gelten die folgenden Grundsätze:
 <sup>1</sup> Die in ViCLAS erfassten Datensätze werden gemäss den nachfolgenden Fristen gelöscht:
 
 - a) Die Datensätze werden im Analysesystem grundsätzlich 40 Jahre ab Eingabe gespeichert. Die Daten werden nach dieser Frist oder nach Ableben der Tatbeteiligten gelöscht.
+
 - b) Die Frist kann in Fällen erheblicher Wiederholungsgefahr und in Absprache mit der betroffenen Polizei auf Antrag der Zentralstelle durch die zuständige richterliche Behörde des betreffenden Kantons um jeweils fünf Jahre verlängert werden.
+
 - c) Bei Wiederholungstätern ist für den Beginn des Fristenlaufs das letzte im Analysesystem erfasste Delikt massgebend.
+
 - d) Der Fristenlauf steht still während dem Vollzug einer Freiheitsstrafe oder einer stationären Massnahme.
+
 - e) Die gespeicherten Datensätze über die (mutmassliche) Täterschaft sind von Amtes wegen zu löschen:
-  - 1\. unter Vorbehalt von Buchstabe f nach einem Freispruch bezüglich der Daten, welche diesen Freispruch betreffen, oder
-  - 2\. sobald gegen einen (mutmasslich) Tatbeteiligten ein Verdacht definitiv ausgeräumt ist.
+
+- unter Vorbehalt von Buchstabe f nach einem Freispruch bezüglich der Daten, welche diesen Freispruch betreffen, oder
+
+- sobald gegen einen (mutmasslich) Tatbeteiligten ein Verdacht definitiv ausgeräumt ist.
+
 - f) Erfolgte ein Freispruch oder die Verfahrenseinstellung wegen Schuldunfähigkeit des Täters, so wird bezüglich der Datenlöschung gemäss den Grundsätzen von Buchstaben a bis d vorgegangen.
 
 <sup>2</sup> Für Daten von Opfern und bei Registrierungen nach Artikel 3 Absatz 2 Buchstabe d überprüft die Zentralstelle auf Gesuch hin unabhängig von den festgelegten Fristen, ob die vorhandenen Daten noch benötigt werden. Alle nicht mehr benötigten Daten werden im Analysesystem gelöscht. Daten von Opfern können auf Gesuch anonymisiert werden.
 
 <sup>3</sup> Die Behörden, die für die Meldung der löschungspflichtigen Daten beziehungsweise des Friststillstands während des Vollzugs einer Freiheitsstrafe oder einer Massnahme zuständig sind, werden durch das kantonale Recht bestimmt.
 
-## 4 Finanzierung
+### IV. FINANZIERUNG
 
 #### Art. 14
 
@@ -197,7 +206,7 @@ Bezüglich der Datenpflege in ViCLAS gelten die folgenden Grundsätze:
 
 <sup>3</sup> Anfallende Lizenzkosten sowie vom Lenkungsausschuss beschlossene Ausgaben für systembedingte Erneuerungen und Anschaffungen werden auf die Vereinbarungspartner proportional zur Einwohnerzahl aufgeteilt.
 
-## 5 Schlussbestimmungen
+### V. SCHLUSSBESTIMMUNGEN
 
 #### Art. 15
 
@@ -221,23 +230,21 @@ Bezüglich der Datenpflege in ViCLAS gelten die folgenden Grundsätze:
 
 **Inkrafttreten**
 
-<sup>1</sup> Die Vereinbarung tritt in Kraft, sobald ihm der Kanton Bern sowie mindestens zwei weitere Kantone beigetreten sind[^17-1].
+<sup>1</sup> Die Vereinbarung tritt in Kraft, sobald ihm der Kanton Bern sowie mindestens zwei weitere Kantone beigetreten sind.
 
 <sup>2</sup> Änderungen der Vereinbarung bedürfen der Zustimmung aller Vertragspartner.
-
-[^17-1]: Datum des Inkrafttretens: 1. Mai 2010
 
 #### Art. 18
 
 **Notifikation an den Bund**
 
-<sup>1</sup> Das Generalsekretariat der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und ‑direktoren (KKJPD) informiert die Bundeskanzlei über die vorliegende Vereinbarung. Das Verfahren richtet sich nach Artikel 27o RVOV (SR 172.010.1).
+Das Generalsekretariat der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD) informiert die Bundeskanzlei über die vorliegende Vereinbarung. Das Verfahren richtet sich nach Artikel 27o RVOV (SR 172.010.1).
 
 #### Art. 19
 
 **Fürstentum Liechtenstein**
 
-<sup>1</sup> Dieser Vereinbarung kann das Fürstentum Liechtenstein auf der Grundlage seiner eigenen Gesetzgebung beitreten. Ihm stehen alle Rechte und Pflichten der anderen Vereinbarungspartner zu.
+Dieser Vereinbarung kann das Fürstentum Liechtenstein auf der Grundlage seiner eigenen Gesetzgebung beitreten. Ihm stehen alle Rechte und Pflichten der anderen Vereinbarungspartner zu.
 
 #### Art. 20
 
@@ -269,4 +276,11 @@ Bezüglich der Datenpflege in ViCLAS gelten die folgenden Grundsätze:
 
 <sup>5</sup> Daten von Vorkommnissen nach Art. 3, welche sich vor Inkrafttreten dieser Vereinbarung ereignet haben, dürften nur dann neu erfasst werden, sofern diese den in dieser Vereinbarung aufgestellten Grundsätzen nicht widersprechen.
 
-2009, 1527
+<sup>1</sup> 2009, 1527; Datum des Inkrafttretens: 1. Mai 2010
+
+## Weitere Fussnoten
+
+- [2] SR 101
+- [3] SR 455
+- [4] BSG 551.5
+- [5] BSG 152.04
