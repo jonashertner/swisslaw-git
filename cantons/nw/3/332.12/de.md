@@ -4,29 +4,32 @@ number: "332.12"
 title: Verordnung über den Schutz des Gnappiriedes in der Gemeinde Stans
 language: de
 version: 2016-01-01
+corrected: 2021-10-26
 version_adopted: 2015-11-03
 adopted: 1988-09-19
 in_force: 1988-09-19
 url: "https://gesetze.nw.ch/app/de/texts_of_law/332.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/710/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/465/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verordnung über den Schutz des Gnappiriedes in der Gemeinde Stans
 
-vom 19.09.1988 (Stand 01.01.2016)
+vom 19. September 1988[^t-1]
 
 Der Regierungsrat,
 
-gestützt auf Art. 18 und folgende des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz[^ingress-1], in Ausführung von § 2, § 11, § 13 Abs. 2 und 3, sowie § 14 der Verordnung vom 16. Dezember 1961 über den Heimatschutz[^ingress-2],
+gestützt auf Art. 18 und folgende des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz[^t-2], in Ausführung von § 2, § 11, § 13 Abs. 2 und 3, sowie § 14 der Verordnung vom 16. Dezember 1961 über den Heimatschutz[^t-3],
 
 beschliesst:
 
-[^ingress-1]: SR 451
-[^ingress-2]: A 1961, 1105
+[^t-1]: A 1988, 1555
+[^t-2]: SR 451
+[^t-3]: A 1961, 1105
 
-## 1 Geschütztes Gebiet
+### I. GESCHÜTZTES GEBIET
 
 #### § 1
 
@@ -40,7 +43,7 @@ beschliesst:
 
 **Schutzziel**
 
-<sup>1</sup> Mit der Unterschutzstellung wird die langfristige und ungeschmälerte Erhaltung des Riedgebietes als Lebensraum für zahlreiche seltene und geschützte Pflanzen und Tiere sowie Pflanzengesellschaften und Tiergemeinschaften angestrebt.
+Mit der Unterschutzstellung wird die langfristige und ungeschmälerte Erhaltung des Riedgebietes als Lebensraum für zahlreiche seltene und geschützte Pflanzen und Tiere sowie Pflanzengesellschaften und Tiergemeinschaften angestrebt.
 
 #### § 3
 
@@ -49,16 +52,20 @@ beschliesst:
 <sup>1</sup> Das Schutzgebiet wird in folgende Zonen eingeteilt:
 
 - 1\. Naturschutzzone;
+
 - 2\. Randzone;
+
 - 3\. Zone für militärische Ausbildung.
 
 <sup>2</sup> Die Grenzen und Zonen des Schutzgebietes richten sich nach dem im Anhang enthaltenen Übersichtsplan.
 
-## 2 Zonenvorschriften
+### II. ZONENVORSCHRIFTEN
 
 #### § 4
 
-**Naturschutzzone 1. Grundsatz**
+**Naturschutzzone**
+
+### 1. Grundsatz
 
 <sup>1</sup> Die Naturschutzzone dient der umfassenden Erhaltung der schutzwürdigen Fläche als Lebensraum seltener Pflanzen und Tiere und dem Schutz der Landschaft.
 
@@ -68,31 +75,38 @@ beschliesst:
 
 **2. Pflanzen- und Tierschutz**
 
-<sup>1</sup> In der Naturschutzzone sind untersagt:
+In der Naturschutzzone sind untersagt:
 
 - 1\. das Ausbringen von Dünger und Pestiziden aller Art sowie das Weidenlassen von Vieh;
+
 - 2\. das Ansiedeln von standortfremden Pflanzen und Tieren;
+
 - 3\. das Pflücken, Ausgraben oder Zerstören von wildwachsenden Pflanzen sowie das Entfernen von Bäumen und Sträuchern;
+
 - 4\. das Töten, Verletzen, Fangen oder Stören von wildlebenden Tieren sowie das Beschädigen ihrer Unterschlupfe, Nester und Gelege.
 
 #### § 6
 
 **3. Verbot von baulichen Anlagen**
 
-<sup>1</sup> In der Naturschutzzone sind untersagt:
+In der Naturschutzzone sind untersagt:
 
 - 1\. das Errichten von Bauten und Anlagen aller Art sowie Erweiterung und Ausbau des bestehenden Wegnetzes;
+
 - 2\. die Vornahme von Geländeveränderungen sowie das Ablagern von Gegenständen aller Art;
+
 - 3\. die Zu- oder Ableitung von Wasser sowie die Veränderung des Wasserhaushalts.
 
 #### § 7
 
 **4. Zutritt**
 
-<sup>1</sup> In der Naturschutzzone sind verboten:
+In der Naturschutzzone sind verboten:
 
 - 1\. das Anfachen von Feuer, das Lagern, Zelten und Kampieren;
+
 - 2\. das Befahren mit Fahrzeugen aller Art, mit Ausnahme für die landwirtschaftliche Nutzung;
+
 - 3\. das Laufenlassen von Hunden, das Reiten sowie das Eindringen in die Wasserflächen.
 
 #### § 8
@@ -106,8 +120,11 @@ beschliesst:
 <sup>3</sup> In der Randzone sind untersagt:
 
 - 1\. das Errichten von Bauten aller Art sowie Erweiterung und Ausbau des bestehenden Wegnetzes;
+
 - 2\. die Vornahme von Geländeveränderungen sowie das Ablagern von Gegenständen aller Art;
+
 - 3\. das Ausbringen von Kunstdünger, Jauche, Klärschlamm und Pestiziden aller Art;
+
 - 4\. das Befahren mit zivilen Fahrzeugen aller Art, mit Ausnahme für die landwirtschaftliche Nutzung.
 
 #### § 9
@@ -119,19 +136,24 @@ beschliesst:
 <sup>2</sup> In der Zone für militärische Ausbildung sind untersagt:
 
 - 1\. das Ablagern von Gegenständen aller Art;
+
 - 2\. die Anwendung von Pestiziden aller Art;
+
 - 3\. das Ansiedeln von standortfremden Pflanzen und Tieren;
+
 - 4\. das vorsätzliche Töten, Verletzen, Fangen oder Stören von wildlebenden Tieren sowie das vorsätzliche Beschädigen ihrer Unterschlupfe, Nester und Gelege;
+
 - 5\. das Befahren mit zivilen Fahrzeugen aller Art;
+
 - 6\. das Laufenlassen von Hunden, das Reiten sowie das Eindringen in die Wasserflächen.
 
-## 3 Gemeinsame Bestimmungen
+### III. GEMEINSAME BESTIMMUNGEN
 
 #### § 10
 
 **Unterhalt**
 
-<sup>1</sup> Zur Erreichung des Schutzziels ist das Naturschutzgebiet fachgerecht zu nutzen und pflegen; die dafür erforderlichen Massnahmen sind von den Verboten gemäss den Paragraphen 5–9 ausgenommen.
+Zur Erreichung des Schutzziels ist das Naturschutzgebiet fachgerecht zu nutzen und pflegen; die dafür erforderlichen Massnahmen sind von den Verboten gemäss den Paragraphen 5-9 ausgenommen.
 
 #### § 11
 
@@ -141,11 +163,13 @@ beschliesst:
 
 <sup>2</sup> Die Ausnahmebewilligung kann unter Bedingungen und Auflagen erteilt werden.
 
-## 4 Vollzug und Verfahren
+### IV. VOLLZUG UND VERFAHREN
 
 #### § 12
 
-**Vollzug 1. Direktion**
+**Vollzug**
+
+### 1. Direktion
 
 <sup>1</sup> Der Vollzug dieser Verordnung obliegt der Direktion des Innern.
 
@@ -155,7 +179,7 @@ beschliesst:
 
 **2. Fachkommission**
 
-<sup>1</sup> Der Vorsteher der Direktion des Innern wählt auf die verfassungsmässige Amtsdauer eine Fachkommission von fünf Mitgliedern; die Verwaltung des Waffenplatzes Wil sowie Vereinigungen für Natur- und Heimatschutz, denen gestützt auf § 12 Abs. 2 Vollzugsaufgaben übertragen wurden, haben das Vorschlagsrecht für je ein Kommissionsmitglied.
+Der Vorsteher der Direktion des Innern wählt auf die verfassungsmässige Amtsdauer eine Fachkommission von fünf Mitgliedern; die Verwaltung des Waffenplatzes Wil sowie Vereinigungen für Natur- und Heimatschutz, denen gestützt auf § 12 Abs. 2 Vollzugsaufgaben übertragen wurden, haben das Vorschlagsrecht für je ein Kommissionsmitglied.
 
 #### § 14
 
@@ -177,21 +201,24 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Verfahren richtet sich nach der Verwaltungsrechtspflegeverordnung[^16-1].
+Das Verfahren richtet sich nach der Verwaltungsrechtspflegeverordnung[^16-1].
 
 [^16-1]: NG 265.1
+[^16-2]: Fassung gemäss Regierungsratsbeschluss vom 3. November 2015; A 2015, 1771, in Kraft seit 1. Januar 2016
 
 #### § 17
 
-**…**
+**…[^16-2]**
 
-## 5 Straf- und Schlussbestimmungen
+### V. STRAF- UND SCHLUSSBESTIMMUNGEN
 
 #### § 18
 
 **Widerhandlungen**
 
-<sup>1</sup> Widerhandlungen gegen diese Verordnung werden mit Busse bestraft.
+Widerhandlungen gegen diese Verordnung werden mit Busse[^18-1] bestraft.
+
+[^18-1]: Fassung gemäss Landratsbeschluss vom 25. Oktober 2006, A 2006, 1705, A 2007, 5; in Kraft seit 1. Januar 2007
 
 #### § 19
 
@@ -203,10 +230,28 @@ beschliesst:
 
 <sup>3</sup> Alle mit ihr in Widerspruch stehenden Verfügungen und Schutzbestimmungen sind aufgehoben, insbesondere die entsprechenden Teile des Landschafts- und Naturschutzgebietes gemäss dem Plan der provisorischen Schutzgebiete vom 22. November 1972 / 30. April 1973 sowie die Schutzbestimmungen gemäss Regierungsratsbeschluss vom 16. November 1971.
 
-## A1 Anhang: Plan
+Anhang
 
-#### § A1-1
+### Gnappiried in der Gemeinde Stans
 
-<sup>1</sup> Plan
+## /
 
-A 1988, 1555
+Zentrumskoordinaten 671 400 I 202 700
+
+SCHUTZZONEN
+
+[^h-1]: A 1988, 1555
+
+### k\\S\\J <sup>Zone</sup> <sup>Naturschutzzone</sup>
+
+[^h-1]
+
+### Wffii <sup>Zone2</sup> <sup>Randzone</sup>
+
+**0**
+
+**militärische Ausbildung**
+
+1 1 Zone3 Zone für 100 200m Standorte Markierungstaleln Naturschutzgebiet
+
+### Plan 1:1000
