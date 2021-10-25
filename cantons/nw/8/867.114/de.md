@@ -5,36 +5,37 @@ title: Reglement über die Beitragsleistungen an die Elementarschadenprävention
 short: Elementarschadenpräventionsreglement
 language: de
 version: 2019-01-01
+corrected: 2021-10-26
 version_adopted: 2018-12-03
 adopted: 2018-12-03
 in_force: 2019-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/867.114"
-pdf: "https://gesetze.nw.ch/api/de/versions/667/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/409/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Beitragsleistungen an die Elementarschadenprävention
+# Reglement über die Beitragsleistungen an die Elementarschadenprävention (Elementarschadenpräventionsreglement)
 
-(Elementarschadenpräventionsreglement)
-
-vom 03.12.2018 (Stand 01.01.2019)
+vom 3. Dezember 2018[^t-1]
 
 Der Verwaltungsrat der Nidwaldner Sachversicherung (NSV),
 
-gestützt auf Art. 65 Abs. 2 des Gesetzes vom 13. Dezember 2017 über die Nidwaldner Sachversicherung (Sachversicherungsgesetz, NSVG)[^ingress-1],
+gestützt auf Art. 65 Abs. 2 des Gesetzes vom 13. Dezember 2017 über die Nidwaldner Sachversicherung (Sachversicherungsgesetz, NSVG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 867.1
+[^t-1]: A 2018, 2169
+[^t-2]: NG 867.1
 
-## 1 Ausrichtung von Beiträgen
+### I. AUSRICHTUNG VON BEITRÄGEN
 
 #### § 1
 
 **Grundsatz**
 
-<sup>1</sup> Die NSV unterstützt Gebäudeeigentümerinnen und Gebäudeeigentümer, die bei bestehenden Gebäuden freiwillige Objektschutzmassnahmen ergreifen, mit finanziellen Beiträgen.
+Die NSV unterstützt Gebäudeeigentümerinnen und Gebäudeeigentümer, die bei bestehenden Gebäuden freiwillige Objektschutzmassnahmen ergreifen, mit finanziellen Beiträgen.
 
 #### § 2
 
@@ -47,11 +48,17 @@ beschliesst:
 <sup>3</sup> Keine Beiträge werden ausgerichtet für:
 
 - 1\. übergeordnete Schutzmassnahmen wie Wildbachverbauungen oder Schutzdämme;
+
 - 2\. Massnahmen, die unwirksam sind oder kein wirtschaftliches Kosten-Nutzen-Verhältnis aufweisen;
+
 - 3\. die Behebung von baulichen Mängeln an Gebäuden;
+
 - 4\. bauliche Unterhaltsmassnahmen;
+
 - 5\. spätere Massnahmen zur Abwehr von Gefahren, die bei der Erstellung des Gebäudes bekannt waren;
+
 - 6\. Abklärungen und Massnahmen im Bereich der Erdbebenprävention;
+
 - 7\. Neubauten.
 
 #### § 3
@@ -62,7 +69,7 @@ beschliesst:
 
 <sup>2</sup> Die Massnahmen müssen nach den Regeln der Baukunde beziehungsweise dem Stand der Technik ausgeführt werden, für eine minimale Lebensdauer von 20 Jahren ausgelegt sein und entsprechend unterhalten werden.
 
-[^3-1]: [www.vkf.ch](http://www.vkf.ch)
+[^3-1]: www.vkf.ch
 
 #### § 4
 
@@ -70,27 +77,13 @@ beschliesst:
 
 <sup>1</sup> Der Anteil der NSV an den Objektschutzkosten beträgt:
 
-<table>
-<tr><th>Objektschutzkosten in Fr.</th><th>Prozentsatz</th></tr>
-<tr><td>0–25'000</td><td>20%</td></tr>
-<tr><td>25'001–50'000</td><td>19%</td></tr>
-<tr><td>50'001–100'000</td><td>17%</td></tr>
-<tr><td>100'001–150'000</td><td>15%</td></tr>
-<tr><td>150'001–200'000</td><td>13%</td></tr>
-<tr><td>201'001–250'000</td><td>11%</td></tr>
-<tr><td>250'001–300'000</td><td>10%</td></tr>
-<tr><td>300'001–350'000</td><td>9%</td></tr>
-<tr><td>350'001–400'000</td><td>8%</td></tr>
-<tr><td>400'001–500'000</td><td>7%</td></tr>
-<tr><td>500'001–800'000</td><td>6%</td></tr>
-<tr><td>800'001–1'000'000</td><td>5%</td></tr>
-</table>
+Objektschutzkosten in Fr. Prozentsatz 0 – 25'000 20 % 25'001 – 50'000 19 % 50'001 – 100'000 17 % 100'001 – 150'000 15 % 150'001 – 200'000 13 % 201'001 – 250'000 11 % 250'001 – 300'000 10 % 300'001 – 350'000 9 % 350'001 – 400'000 8 % 400'001 – 500'000 7 % 500'001 – 800'000 6 % 800'001 – 1’000'000 5 %
 
-<sup>2</sup> Sind die Objektschutzkosten höher als Fr. 1'000'000.–, beträgt der Beitrag Fr. 50'000.–.
+<sup>2</sup> Sind die Objektschutzkosten höher als Fr. 1'000'000.-, beträgt der Beitrag Fr. 50'000.-.
 
-<sup>3</sup> Bei Objektschutzkosten von mehr als Fr. 50'000.– entscheidet der Verwaltungsrat über die Beitragsgewährung.
+<sup>3</sup> Bei Objektschutzkosten von mehr als Fr. 50'000.- entscheidet der Verwaltungsrat über die Beitragsgewährung.
 
-## 2 Verfahren
+### II. VERFAHREN
 
 #### § 5
 
@@ -130,17 +123,16 @@ beschliesst:
 
 **Rückerstattung**
 
-<sup>1</sup> Die NSV kann Beiträge ganz oder teilweise zurückfordern bei:
+Die NSV kann Beiträge ganz oder teilweise zurückfordern bei:
 
 - 1\. Nichterfüllung von mit der Beitragszusicherung verbundenen Auflagen und Bedingungen;
+
 - 2\. Vernachlässigung der Unterhaltspflicht.
 
-## 3 Schlussbestimmung
+### III. SCHLUSSBESTIMMUNG
 
 #### § 10
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2019 in Kraft.
-
-A 2018, 2169
+Dieses Reglement tritt am 1. Januar 2019 in Kraft.
