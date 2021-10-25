@@ -5,28 +5,28 @@ title: Konkordat über die Grundlagen der Polizei-Zusammenarbeit in der Zentrals
 short: Polizeikonkordat Zentralschweiz
 language: de
 version: 2011-01-13
+corrected: 2021-10-26
 version_adopted: 2009-11-06
 adopted: 2009-11-06
 in_force: 2011-01-13
 url: "https://gesetze.nw.ch/app/de/texts_of_law/912.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/664/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/414/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Konkordat über die Grundlagen der Polizei-Zusammenarbeit in der Zentralschweiz
+# Konkordat über die Grundlagen der Polizei-Zusammenarbeit in der Zentralschweiz (Polizeikonkordat Zentralschweiz)
 
-(Polizeikonkordat Zentralschweiz)
-
-vom 06.11.2009 (Stand 13.01.2011)
+vom 6. November 2009[^t-1]
 
 Die Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug,
 
-gestützt auf Artikel 48 der Bundesverfassung,
+gestützt auf Artikel 48 der Bundesverfassung, vereinbaren:
 
-vereinbaren:
+[^t-1]: A 2010, 1107; vom Landrat genehmigt am 9. Juni 2010, A 2010, 1105, 1575; in Kraft seit 13. Januar 2011
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -34,18 +34,20 @@ vereinbaren:
 
 <sup>1</sup> Dieses Konkordat enthält die rechtssetzenden Vorschriften, nach denen sich die interkantonale Polizei-Zusammenarbeit in der Zentralschweiz richtet.
 
-<sup>2</sup> Die Allgemeinen Bestimmungen (Abschnitt 1), die Bestimmungen über die Unterstützungseinsätze (Abschnitt 2) und die weiteren polizeilichen Befugnisse (Abschnitt 3) sowie die Bestimmungen über die Zuständigkeiten und Organe (Abschnitt 5) sind direkt anwendbar.
+<sup>2</sup> Die Allgemeinen Bestimmungen (Abschnitt I.), die Bestimmungen über die Unterstützungseinsätze (Abschnitt II.) und die weiteren polizeilichen Befugnisse (Abschnitt III.) sowie die Bestimmungen über die Zuständigkeiten und Organe (Abschnitt V.) sind direkt anwendbar.
 
-<sup>3</sup> Die Bestimmungen über die polizeiliche Zusammenarbeit mittels Vereinbarung (Abschnitt 4) sind anwendbar, wenn Kantone miteinander Zusammenarbeitsvereinbarungen abschliessen.
+<sup>3</sup> Die Bestimmungen über die polizeiliche Zusammenarbeit mittels Vereinbarung (Abschnitt IV.) sind anwendbar, wenn Kantone miteinander Zusammenarbeitsvereinbarungen abschliessen.
 
 #### Art. 2
 
 **Begriffe**
 
-<sup>1</sup> Dieses Konkordat verwendet die folgenden Begriffe:
+Dieses Konkordat verwendet die folgenden Begriffe:
 
 - 1\. Kantone sind die diesem Konkordat beigetretenen Kantone;
+
 - 2\. Vereinbarungskantone sind die Kantone, die gestützt auf dieses Konkordat miteinander eine Vereinbarung abgeschlossen haben;
+
 - 3\. Polizeiorgane sind hoheitlich handelnde Personen.
 
 #### Art. 3
@@ -58,13 +60,13 @@ vereinbaren:
 
 <sup>3</sup> Die Prüfung des Gesuches um Amtshilfe richtet sich nach dem Recht des angefragten Kantons.
 
-## 2 Unterstützungseinsätze
+### II. UNTERSTÜTZUNGSEINSÄTZE
 
 #### Art. 4
 
 **Voraussetzungen**
 
-<sup>1</sup> Hat ein Ereignis oder ein Anlass einen ausserordentlichen Umfang oder grenzüberschreitenden Charakter, wie namentlich eine Katastrophe, ein Grossereignis, eine drohende schwerwiegende oder bereits eingetretene Beeinträchtigung der Inneren Sicherheit, ein Grossanlass oder ein Einsatz verkehrs- oder kriminalpolizeilicher Art, und ist ein Kanton nicht in der Lage, dies mit seinem Polizeikorps allein zu bewältigen, kann er die anderen Kantone um Unterstützung ersuchen.
+Hat ein Ereignis oder ein Anlass einen ausserordentlichen Umfang oder grenzüberschreitenden Charakter, wie namentlich eine Katastrophe, ein Grossereignis, eine drohende schwerwiegende oder bereits eingetretene Beeinträchtigung der Inneren Sicherheit, ein Grossanlass oder ein Einsatz verkehrs- oder kriminalpolizeilicher Art, und ist ein Kanton nicht in der Lage, dies mit seinem Polizeikorps allein zu bewältigen, kann er die anderen Kantone um Unterstützung ersuchen.
 
 #### Art. 5
 
@@ -78,16 +80,15 @@ vereinbaren:
 
 **Inhalt der Unterstützung**
 
-<sup>1</sup> Für einen Unterstützungseinsatz werden
+Für einen Unterstützungseinsatz werden a) einem Polizeikorps (Einsatzkorps) Mitarbeitende anderer Polizeikorps (Unterstützungskorps) für einen einzelnen Einsatz oder für eine begrenzte Zeit zur Unterstützung unterstellt oder Material zur Verfügung gestellt;
 
-- a) einem Polizeikorps (Einsatzkorps) Mitarbeitende anderer Polizeikorps (Unterstützungskorps) für einen einzelnen Einsatz oder für eine begrenzte Zeit zur Unterstützung unterstellt oder Material zur Verfügung gestellt;
 - b) gemäss Artikel 36 Abs. 1 für ein mehrere Kantone betreffendes Ereignis der Einsatzraum festgelegt, soweit notwendig eine gemeinsame Einsatzleiterin oder ein gemeinsamer Einsatzleiter bestimmt und ihr oder ihm alle eingesetzten Mitarbeitenden unterstellt sowie Material zugeteilt.
 
 #### Art. 7
 
-**Gesuchsverfahren und ‑vorbereitung**
+**Gesuchsverfahren und –vorbereitung**
 
-<sup>1</sup> Die zuständige Behörde des betroffenen Kantons richtet ihr Gesuch an die zuständigen Behörden des ersuchten Kantons bzw. der ersuchten Kantone oder im Fall von Artikel 6 lit. b an die Zentralschweizer Polizeidirektorinnen- und ‑direktorenkonferenz (ZPDK).
+<sup>1</sup> Die zuständige Behörde des betroffenen Kantons richtet ihr Gesuch an die zuständigen Behörden des ersuchten Kantons bzw. der ersuchten Kantone oder im Fall von Artikel 6 lit. b an die Zentralschweizer Polizeidirektorinnen- und –direktorenkonferenz (ZPDK).
 
 <sup>2</sup> Die Vorbereitung des Gesuches erfolgt gemäss Artikel 37.
 
@@ -115,7 +116,7 @@ vereinbaren:
 
 **Rechtspflege**
 
-<sup>1</sup> Für die Rechtspflege sind unter Vorbehalt von Artikel 11 die Behörden des Kantons des Einsatzortes zuständig.
+Für die Rechtspflege sind unter Vorbehalt von Artikel 11 die Behörden des Kantons des Einsatzortes zuständig.
 
 #### Art. 11
 
@@ -139,7 +140,7 @@ vereinbaren:
 
 [^12-1]: NG 912.3
 
-## 3 Weitere polizeiliche Befugnisse
+### III. WEITERE POLIZEILICHE BEFUGNISSE
 
 #### Art. 13
 
@@ -171,9 +172,9 @@ vereinbaren:
 
 [^14-1]: SR 741.03
 
-## 4 Formen der interkantonalen Polizei-Zusammenarbeit mittels Vereinbarungen
+### IV. FORMEN DER INTERKANTONALEN POLIZEI-ZUSAMMENARBEIT MITTELS VEREINBARUNGEN
 
-### 4.1 Übertragung von Aufgaben (Leistungskauf)
+### A. Übertragung von Aufgaben (Leistungskauf)
 
 #### Art. 15
 
@@ -225,7 +226,7 @@ vereinbaren:
 
 **Aufsicht**
 
-<sup>1</sup> Die Aufgabenerfüllung steht unabhängig des Erfüllungsortes ausschliesslich unter der Aufsicht der zuständigen Behörde des Leistungserbringers. An diese sind Vorbringen des Leistungskäufers zu richten.
+Die Aufgabenerfüllung steht unabhängig des Erfüllungsortes ausschliesslich unter der Aufsicht der zuständigen Behörde des Leistungserbringers. An diese sind Vorbringen des Leistungskäufers zu richten.
 
 #### Art. 21
 
@@ -235,30 +236,31 @@ vereinbaren:
 
 <sup>2</sup> Die Berichtspunkte werden in der Vereinbarung geregelt.
 
-### 4.2 Interkantonaler Polizeidienst
+### B. Interkantonaler Polizeidienst
 
 #### Art. 22
 
 **Zweck**
 
-<sup>1</sup> Die Kantone können zusammenarbeiten, indem sie mit einer Vereinbarung einen aus Mitarbeitenden verschiedener Polizeikorps zusammengesetzten Interkantonalen Polizeidienst formieren, der eine bestimmte Aufgabe wahrnimmt.
+Die Kantone können zusammenarbeiten, indem sie mit einer Vereinbarung einen aus Mitarbeitenden verschiedener Polizeikorps zusammengesetzten Interkantonalen Polizeidienst formieren, der eine bestimmte Aufgabe wahrnimmt.
 
 #### Art. 23
 
 **Vereinbarungsinhalt**
 
-<sup>1</sup> Die Vereinbarung enthält namentlich
+Die Vereinbarung enthält namentlich a) die genaue Bezeichnung der vom Interkantonalen Polizeidienst für eine bestimmte oder unbestimmte Dauer wahrzunehmende Aufgabe;
 
-- a) die genaue Bezeichnung der vom Interkantonalen Polizeidienst für eine bestimmte oder unbestimmte Dauer wahrzunehmende Aufgabe;
 - b) die Zuweisung des Interkantonalen Polizeidienstes an ein Polizeikorps (Dienstkorps);
+
 - c) die Festlegung des Bestandes an Mitarbeitenden, welche die Kantone zur Verfügung stellen, sowie der Zuständigkeiten und Modalitäten für Bestandesänderungen;
+
 - d) die Regelung des Ablaufs von Einsätzen des Interkantonalen Polizeidienstes und deren Rechnungsstellung.
 
 #### Art. 24
 
 **Zuständigkeiten**
 
-<sup>1</sup> Das Dienstkorps ist zuständig für die Organisation, die Aus- und Weiterbildung gemäss den Grundsätzen der Fachgremien sowie für die materielle Ausrüstung des Interkantonalen Polizeidienstes. Ausgenommen davon ist die persönliche Ausrüstung, welche jedes Korps für seine Mitarbeitenden stellt.
+Das Dienstkorps ist zuständig für die Organisation, die Aus- und Weiterbildung gemäss den Grundsätzen der Fachgremien sowie für die materielle Ausrüstung des Interkantonalen Polizeidienstes. Ausgenommen davon ist die persönliche Ausrüstung, welche jedes Korps für seine Mitarbeitenden stellt.
 
 #### Art. 25
 
@@ -280,7 +282,7 @@ vereinbaren:
 
 **Rechtspflege**
 
-<sup>1</sup> Die Rechtspflege richtet sich nach dem Recht des Kantons des Einsatzortes.
+Die Rechtspflege richtet sich nach dem Recht des Kantons des Einsatzortes.
 
 #### Art. 28
 
@@ -312,7 +314,7 @@ vereinbaren:
 
 **Aufsicht**
 
-<sup>1</sup> Die Aufgabenerfüllung steht unabhängig des Einsatzortes unter der Aufsicht der für das Dienstkorps zuständigen Behörde. An diese sind Vorbringen der anderen Kantone zu richten.
+Die Aufgabenerfüllung steht unabhängig des Einsatzortes unter der Aufsicht der für das Dienstkorps zuständigen Behörde. An diese sind Vorbringen der anderen Kantone zu richten.
 
 #### Art. 32
 
@@ -322,35 +324,40 @@ vereinbaren:
 
 <sup>2</sup> Die Vereinbarung legt die Berichtspunkte fest.
 
-### 4.3 Vereinbarungen mit Nicht-Konkordatskantonen
+### C. Vereinbarungen mit Nicht-Konkordatskantonen
 
 #### Art. 33
 
 **Abschluss oder Beitritt**
 
-<sup>1</sup> Mit dem Einverständnis der Konkordatskantone, die eine Vereinbarung gestützt auf dieses Konkordat abschliessen oder abgeschlossen haben, können Kantone, die nicht dem Konkordat angehören, beim Abschluss der Vereinbarung mitmachen oder ihr später beitreten. Die Vereinbarung richtet sich nach den Regeln dieses Konkordates.
+Mit dem Einverständnis der Konkordatskantone, die eine Vereinbarung gestützt auf dieses Konkordat abschliessen oder abgeschlossen haben, können Kantone, die nicht dem Konkordat angehören, beim Abschluss der Vereinbarung mitmachen oder ihr später beitreten. Die Vereinbarung richtet sich nach den Regeln dieses Konkordates.
 
-## 5 Zuständigkeiten und Organe
+### V. ZUSTÄNDIGKEITEN UND ORGANE
 
 #### Art. 34
 
 **Kantonale Zuständigkeiten**
 
-<sup>1</sup> Die Zuständigkeit für Abschluss und Änderungen dieses Konkordates und von darauf gestützten Vereinbarungen richtet sich nach dem Recht jedes Kantons.
+Die Zuständigkeit für Abschluss und Änderungen dieses Konkordates und von darauf gestützten Vereinbarungen richtet sich nach dem Recht jedes Kantons.
 
 #### Art. 35
 
-**Zentralschweizer Polizeidirektorinnen- und ‑direktorenkonferenz (ZPDK) a) Allgemein**
+**Zentralschweizer Polizeidirektorinnen- und –direkto-**
 
-<sup>1</sup> Die für die Polizei zuständigen Regierungsmitglieder bilden die Zentralschweizer Polizeidirektorinnen- und ‑direktorenkonferenz (ZPDK). Sie konstituiert sich selbst.
+renkonferenz (ZPDK) a) Allgemein
+
+<sup>1</sup> Die für die Polizei zuständigen Regierungsmitglieder bilden die Zentralschweizer Polizeidirektorinnen- und -direktorenkonferenz (ZPDK). Sie konstituiert sich selbst.
 
 <sup>2</sup> Die ZPDK bezweckt die Zusammenarbeit der Kantone im Bereich der Inneren Sicherheit und wahrt die regionalen Interessen gegenüber anderen Kantonen und dem Bund.
 
 <sup>3</sup> Im Rahmen dieses Konkordates ist sie das strategische Organ der Polizei-Zusammenarbeit der Zentralschweiz und zuständig für:
 
 - a) die allgemeine Förderung der Polizei-Zusammenarbeit in der Zentralschweiz;
+
 - b) die ihr in diesem Konkordat übertragenen Aufgaben;
+
 - c) den Erlass ihrer Geschäftsordnung;
+
 - d) die periodische Berichterstattung an die Zentralschweizer Regierungskonferenz (ZRK) über den Vollzug dieses Konkordates und die Polizei-Zusammenarbeit in der Zentralschweiz, sowie die Information der Öffentlichkeit.
 
 <sup>4</sup> Die ZPDK ist beschlussfähig, wenn mindestens 2/3 ihrer stimmberechtigten Mitglieder anwesend sind. Sie beschliesst mit der Mehrheit der anwesenden Stimmberechtigten. Jedes Mitglied hat eine Stimme. In dringenden Fällen kann die Präsidentin oder der Präsident selbstständig Entscheide fällen.
@@ -359,45 +366,55 @@ vereinbaren:
 
 <sup>6</sup> Beschlüsse auf dem Zirkularweg sind möglich, sofern kein Mitglied eine Sitzung verlangt.
 
-#### Art. 36
+#### Art. 36 b
 
-**bei Unterstützungseinsätzen**
+**) bei Unterstützungseinsätzen**
 
 <sup>1</sup> Die ZPDK ist im Zusammenhang mit Artikel 6 lit. b zuständig für:
 
 - a) die Festlegung des Einsatzraumes und der Mannschaftskontingente;
+
 - b) soweit notwendig die Bestimmung einer Einsatzleiterin oder eines Einsatzleiters;
+
 - c) die Erteilung des Auftrages;
+
 - d) die Genehmigung des Einsatzkonzeptes, der Eventualplanung und der Einsatzrichtlinien (Rules of engagement).
 
-<sup>2</sup> Beschlüsse gemäss lit. b–d können an eine Delegation gemäss Artikel 9 Abs. 2 übertragen werden.
+<sup>2</sup> Beschlüsse gemäss lit. b – d können an eine Delegation gemäss Artikel 9 Abs. 2 übertragen werden.
 
 <sup>3</sup> Die ZPDK ist weiter zuständig für:
 
-- a) die Einreichung von Unterstützungsgesuchen an andere Kantone gemäss der Vereinbarung über die interkantonalen Polizeieinsätze (IKAPOL-Vereinbarung)[^36-1] vom 6. April / 9. November 2006, die vom betroffenen Kanton oder von der Einsatzleiterin bzw. vom Einsatzleiter beantragt werden, sofern auch andere Kantone solche Gesuche beantragen;
+- a) die Einreichung von Unterstützungsgesuchen an andere Kantone gemäss der Vereinbarung über die interkantonalen Polizeieinsätze (IKAPOL-Vereinbarung)[^36b-1] vom 6. April / 9. November 2006, die vom betroffenen Kanton oder von der Einsatzleiterin bzw. vom Einsatzleiter beantragt werden, sofern auch andere Kantone solche Gesuche beantragen;
+
 - b) die Behandlung von Unterstützungsgesuchen anderer Kantone gemäss IKAPOL-Vereinbarung;
+
 - c) die Festlegung der Mannschaftskontingente der Kantone, falls darüber keine Einigung zustande kommt;
+
 - d) die Festlegung einer gegenüber den IKAPOL-Ansätzen gemäss Artikel 12 Absatz 1 und 2 um höchstens 40% tieferen Abgeltungsregelung.
 
 <sup>4</sup> Die ZPDK vermittelt bei Streitigkeiten über finanzielle Entschädigungen und Schadenersatzansprüche und unterbreitet den beteiligten Kantonen Vergleichsvorschläge. Scheitert die Vermittlung, findet das Verfahren gemäss Artikel 45 statt.
 
-[^36-1]: NG 912.3
+[^36b-1]: NG 912.3
 
 #### Art. 37
 
-**Zentralschweizer Polizeikommandantenkonferenz (ZPKK)**
+**Zentralschweizer Polizeikommandantenkonferenz**
 
-<sup>1</sup> Die Polizeikommandantinnen und ‑kommandanten der Kantone bilden die Zentralschweizer Polizeikommandantenkonferenz (ZPKK). Sie konstituiert sich selbst.
+### (ZPKK)
+
+<sup>1</sup> Die Polizeikommandantinnen und -kommandanten der Kantone bilden die Zentralschweizer Polizeikommandantenkonferenz (ZPKK). Sie konstituiert sich selbst.
 
 <sup>2</sup> Die ZPKK ist im Rahmen dieses Konkordates das vorbereitende Organ der ZPDK und zuständig für:
 
 - a) die Koordination der Vorbereitung von Unterstützungseinsätzen;
+
 - b) die Vorbereitung der Geschäfte der ZPDK. Sie kann zu allen Geschäften Anträge stellen;
+
 - c) den Erlass ihrer von der ZPDK zu genehmigenden Geschäftsordnung.
 
 <sup>3</sup> Die ZPKK ist beschlussfähig, wenn mindestens 2/3 ihrer stimmberechtigten Mitglieder anwesend sind. Sie beschliesst mit der Mehrheit der anwesenden Stimmberechtigten. Jedes Mitglied hat eine Stimme.
 
-## 6 Schlussbestimmungen
+### VI. SCHLUSSBESTIMMUNGEN
 
 #### Art. 38
 
@@ -413,13 +430,11 @@ vereinbaren:
 
 #### Art. 39
 
-**Inkrafttreten[^39-1]**
+**Inkrafttreten**
 
-<sup>1</sup> Das Konkordat tritt, mit Ausnahme von Abschnitt 2, in Kraft, sobald vier Kantone ihren Beitritt erklärt haben.
+<sup>1</sup> Das Konkordat tritt, mit Ausnahme von Abschnitt II., in Kraft, sobald vier Kantone ihren Beitritt erklärt haben.
 
-<sup>2</sup> Abschnitt 2 tritt in Kraft, sobald dem Konkordat alle sechs Zentralschweizer Kantone beigetreten sind.
-
-[^39-1]: Vom Landrat genehmigt am 9. Juni 2010; in Kraft seit 13. Januar 2011
+<sup>2</sup> Abschnitt II. tritt in Kraft, sobald dem Konkordat alle sechs Zentralschweizer Kantone beigetreten sind.
 
 #### Art. 40
 
@@ -433,7 +448,7 @@ vereinbaren:
 
 **Bestehende Vereinbarungen**
 
-<sup>1</sup> Bestehende Vereinbarungen der Kantone werden durch dieses Konkordat ohne anderslautende Regelung weder geändert noch aufgehoben.
+Bestehende Vereinbarungen der Kantone werden durch dieses Konkordat ohne anderslautende Regelung weder geändert noch aufgehoben.
 
 #### Art. 42
 
@@ -459,7 +474,7 @@ vereinbaren:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Sobald Abschnitt 2 dieses Konkordates in Kraft getreten ist, tritt das Konkordat über die polizeiliche Zusammenarbeit in der Zentralschweiz vom 25. August 1978[^44-1] ausser Kraft.
+Sobald Abschnitt II. dieses Konkordates in Kraft getreten ist, tritt das Konkordat über die polizeiliche Zusammenarbeit in der Zentralschweiz vom 25. August 1978[^44-1] ausser Kraft.
 
 [^44-1]: A 1979, 1034, 1242
 
@@ -467,8 +482,6 @@ vereinbaren:
 
 **Streitbeilegung**
 
-<sup>1</sup> Zur Beilegung von Streitigkeiten über dieses Konkordat oder auf dieses gestützte Vereinbarungen gilt das Verfahren gemäss Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich vom 24. Juni 2005 (IRV)[^45-1].
+Zur Beilegung von Streitigkeiten über dieses Konkordat oder auf dieses gestützte Vereinbarungen gilt das Verfahren gemäss Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich vom 24. Juni 2005 (IRV)[^45-1].
 
 [^45-1]: NG 114.1
-
-A 2010, 1107
