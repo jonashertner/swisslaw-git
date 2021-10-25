@@ -5,28 +5,29 @@ title: Reglement über die Ausgabe von Partizipationsscheinen der Nidwaldner Kan
 short: Partizipations-Reglement
 language: de
 version: 2013-01-01
+corrected: 2021-10-26
 version_adopted: 2012-12-11
 adopted: 2012-12-11
 in_force: 2013-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/866.112"
-pdf: "https://gesetze.nw.ch/api/de/versions/673/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/401/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Ausgabe von Partizipationsscheinen der Nidwaldner Kantonalbank
+# Reglement über die Ausgabe von Partizipationsscheinen der Nidwaldner Kantonalbank (Partizipations-Reglement)
 
-(Partizipations-Reglement)
-
-vom 11.12.2012 (Stand 01.01.2013)
+vom 11. Dezember 2012[^t-1]
 
 Der Bankrat,
 
-gestützt auf Art. 15 Abs. 2 Ziff. 2 des Gesetzes vom 25. April 1982 über die Nidwaldner Kantonalbank (Kantonalbankgesetz)[^ingress-1],
+gestützt auf Art. 15 Abs. 2 Ziff. 2 des Gesetzes vom 25. April 1982 über die Nidwaldner Kantonalbank (Kantonalbankgesetz)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 866.1
+[^t-1]: A 2012, 1955
+[^t-2]: NG 866.1
 
 #### § 1
 
@@ -72,13 +73,13 @@ beschliesst:
 
 **Agio**
 
-<sup>1</sup> Der bei der Ausgabe von Partizipationsscheinen nach Abzug der Ausgabekosten erzielte Mehrerlös (Agio) wird den offenen Reserven zugewiesen.
+Der bei der Ausgabe von Partizipationsscheinen nach Abzug der Ausgabekosten erzielte Mehrerlös (Agio) wird den offenen Reserven zugewiesen.
 
 #### § 6
 
 **Kotierung**
 
-<sup>1</sup> Bis zu einer allfälligen Kotierung der Partizipationsscheine an einer oder mehreren Börsen ist die Kantonalbank für einen Handel für ihre Partizipationsscheine besorgt.
+Bis zu einer allfälligen Kotierung der Partizipationsscheine an einer oder mehreren Börsen ist die Kantonalbank für einen Handel für ihre Partizipationsscheine besorgt.
 
 #### § 7
 
@@ -112,13 +113,13 @@ beschliesst:
 
 **Mitteilungen**
 
-<sup>1</sup> Einladungen und Mitteilungen an die Partizipanten erfolgen durch einmalige Veröffentlichung im Schweizerischen Handelsamtsblatt und im Amtsblatt des Kantons Nidwalden.
+Einladungen und Mitteilungen an die Partizipanten erfolgen durch einmalige Veröffentlichung im Schweizerischen Handelsamtsblatt und im Amtsblatt des Kantons Nidwalden.
 
 #### § 10
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 25. April 1988 über die Ausgabe von Partizipationsscheinen der Nidwaldner Kantonalbank (Partizipations-Reglement)[^10-1] wird aufgehoben.
+Das Reglement vom 25. April 1988 über die Ausgabe von Partizipationsscheinen der Nidwaldner Kantonalbank (Partizipations-Reglement)[^10-1] wird aufgehoben.
 
 [^10-1]: A 1988, 1208; A 2002, 1914
 
@@ -129,5 +130,3 @@ beschliesst:
 <sup>1</sup> Dieses Reglement tritt am 1. Januar 2013 in Kraft.
 
 <sup>2</sup> Es ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
-
-A 2012, 1955
