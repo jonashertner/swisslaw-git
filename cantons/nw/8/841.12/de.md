@@ -5,30 +5,32 @@ title: Vollzugsverordnung über den Jagdlehrgang und die Jagdprüfung
 short: "Jagdprüfungsverordnung, JPV"
 language: de
 version: 2018-03-01
+corrected: 2021-10-26
 version_adopted: 2017-12-12
 adopted: 2008-06-02
 in_force: 2008-06-15
 url: "https://gesetze.nw.ch/app/de/texts_of_law/841.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/691/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/371/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung über den Jagdlehrgang und die Jagdprüfung
+# Vollzugsverordnung über den Jagdlehrgang und die Jagdprüfung (Jagdprüfungsverordnung, JPV
 
-(Jagdprüfungsverordnung, JPV)
+vom 2. Juni 2008[^t-2][^t-1]
 
-vom 02.06.2008 (Stand 01.03.2018)
+Der Regierungsrat von Nidwalden ,
 
-Der Regierungsrat von Nidwalden,
-
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 10 und 49 des Einführungsgesetzes vom 17. Januar 2007 zum Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Kantonales Jagdgesetz, kJSG)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 10 und 49 des Einführungsgesetzes vom 17. Januar 2007 zum Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Kantonales Jagdgesetz, kJSG)[^t-3],
 
 beschliesst:
 
-[^ingress-1]: NG 841.1
+[^t-1]: Fassung gemäss Regierungsratsbeschluss vom 14. Oktober 2014, A 2014, 1818; in Kraft seit 1. November 2014
+[^t-2]: A 2008, 1169
+[^t-3]: NG 841.1
 
-## 1 Jagdprüfungskommission
+### I. JAGDPRÜFUNGSKOMMISSION
 
 #### § 1
 
@@ -37,6 +39,7 @@ beschliesst:
 <sup>1</sup> Die Jagdprüfungskommission hat insbesondere folgende Aufgaben:
 
 - 1\. die Organisation des Jagdlehrgangs und der Jagdprüfung;
+
 - 2\. die Abnahme der Jagdprüfung und die Erteilung des Jagdfähigkeitsausweises.
 
 <sup>2</sup> Für die Durchführung des Jagdlehrgangs und die Abnahme der Jagdprüfung kann die Jagdprüfungskommission Fachpersonen beiziehen.
@@ -45,15 +48,15 @@ beschliesst:
 
 **Interkantonale Zusammenarbeit**
 
-<sup>1</sup> Jagdlehrgang und Jagdprüfung können zusammen mit anderen Kantonen durchgeführt werden.
+Jagdlehrgang und Jagdprüfung können zusammen mit anderen Kantonen durchgeführt werden.
 
-## 2 Zulassung zu Jagdlehrgang und Jagdprüfung
+### II. ZULASSUNG ZU JAGDLEHRGANG UND JAGDPRÜFUNG
 
 #### § 3
 
 **Voraussetzung**
 
-<sup>1</sup> Den Jagdlehrgang und die Jagdprüfung können Personen absolvieren, die im Anmeldejahr mindestens das 18. Altersjahr erfüllen und bei denen kein Verweigerungsgrund gemäss Art. 9 Abs. 2–5 kJSG[^3-1] und gemäss § 9 Ziffer 1 der kantonalen Jagdverordnung (kJSV)[^3-2] vorliegt.
+Den Jagdlehrgang und die Jagdprüfung können Personen absolvieren, die im Anmeldejahr mindestens das 18. Altersjahr erfüllen und bei denen kein Verweigerungsgrund gemäss Art. 9 Abs. 2–5 kJSG[^3-1] und gemäss § 9 Ziffer 1 der kantonalen Jagdverordnung (kJSV)[^3-2] vorliegt.
 
 [^3-1]: NG 841.1
 [^3-2]: NG 841.11
@@ -70,9 +73,11 @@ beschliesst:
 
 <sup>4</sup> Verspätete Anmeldungen werden nicht berücksichtigt.
 
+[^4-1]: Fassung gemäss Regierungsratsbeschluss vom 12. Dezember 2017, A 2018, 16; in Kraft seit 1. März 2018
+
 #### § 5
 
-**…**
+**…[^4-1]**
 
 #### § 6
 
@@ -82,29 +87,31 @@ beschliesst:
 
 <sup>2</sup> Für die Dauer des Jagdlehrganges ist der Nachweis zu erbringen, dass eine Haftpflichtversicherung entsprechend den bundesrechtlichen Vorschriften besteht.
 
-## 3 Jagdlehrgang
+### III. JAGDLEHRGANG
 
 #### § 7
 
 **Zweck**
 
-<sup>1</sup> Der Jagdlehrgang vermittelt Kenntnisse über Jagd, Wildbiologie, Schutz des Wildes, Natur, Brauchtum, Jagdethik, Gesetzgebung und Waffenkunde.
+Der Jagdlehrgang vermittelt Kenntnisse über Jagd, Wildbiologie, Schutz des Wildes, Natur, Brauchtum, Jagdethik, Gesetzgebung und Waffenkunde.
 
 #### § 8
 
 **Pflichtleistungen**
 
-<sup>1</sup> Der Jagdlehrgang umfasst folgende Pflichtleistungen:
+Der Jagdlehrgang umfasst folgende Pflichtleistungen:
 
 - 1\. Teilnahme an den von der Jagdprüfungskommission festgelegten Instruktions- und Ausbildungskursen sowie an den naturkundlichen Exkursionen;
+
 - 2\. Begleitung einer jagdberechtigten Person oder einer Jagdgruppe während je einem Jagdtag auf der Hoch- sowie der Niederjagd;
+
 - 3\. Mithilfe beim Wildschutz, bei der Wildschadenverhütung und bei weiteren von der Jagdprüfungskommission angeordneten Arbeiten während insgesamt fünf Tagen.
 
 #### § 9
 
 **Ausschluss**
 
-<sup>1</sup> Kandidatinnen und Kandidaten können durch die Jagdprüfungskommission vom Jagdlehrgang ausgeschlossen werden, wenn sie Sicherheitsaspekte missachten oder durch ungebührliches Verhalten die Ausbildung stören.
+Kandidatinnen und Kandidaten können durch die Jagdprüfungskommission vom Jagdlehrgang ausgeschlossen werden, wenn sie Sicherheitsaspekte missachten oder durch ungebührliches Verhalten die Ausbildung stören.
 
 #### § 10
 
@@ -114,19 +121,21 @@ beschliesst:
 
 <sup>2</sup> Die erfolgreiche Absolvierung des Jagdlehrgangs bildet die Voraussetzung für die Zulassung zur Jagdprüfung und gilt für die Dauer von fünf Jahren.
 
-## 4 Jagdprüfung
+### IV. JAGDPRÜFUNG
 
 #### § 11
 
 **Zweck**
 
-<sup>1</sup> Mit der Jagdprüfung ist nachzuweisen, dass die Kandidatin oder der Kandidat über die erforderlichen Kenntnisse und Fähigkeiten zum weidgerechten Jagen verfügt.
+Mit der Jagdprüfung ist nachzuweisen, dass die Kandidatin oder der Kandidat über die erforderlichen Kenntnisse und Fähigkeiten zum weidgerechten Jagen verfügt.
 
 #### § 12
 
-**Praktische Prüfung 1. Inhalt**
+**Praktische Prüfung**
 
-<sup>1</sup> Die praktische Prüfung beinhaltet das Schiessen, das Distanzenschätzen, die Handhabung der Jagdwaffen sowie Kenntnisse über den Lebensraum wildlebender Säugetiere und Vögel.
+### 1. Inhalt
+
+Die praktische Prüfung beinhaltet das Schiessen, das Distanzenschätzen, die Handhabung der Jagdwaffen sowie Kenntnisse über den Lebensraum wildlebender Säugetiere und Vögel.
 
 #### § 13
 
@@ -135,6 +144,7 @@ beschliesst:
 <sup>1</sup> Die Schiessprüfung umfasst folgendes Programm:
 
 - 1\. Kugel: 5 Schüsse auf Rehbockscheibe, Zehner Einteilung, 100 m bis 150 m Distanz, Zielhilfen sind gestattet, Stellung liegend aufgelegt;
+
 - 2\. Schrot: 10 Schüsse ohne Doppellieren, Scheibe „laufender Hase“, 30 m bis 35 m Distanz, Schrotkorn Durchmesser 3½ mm (Nr. 3), Zielhilfen sind gestattet, Stellung stehend frei, Jagdanschlag (Kolben an der Hüfte bis der Hase erscheint), Auslösung durch die Schützin oder den Schützen; als Treffer gilt ein Schuss mit zwei umgekippten Segmenten.
 
 <sup>2</sup> Je Disziplin sind höchstens zwei Probeschüsse gestattet.
@@ -161,25 +171,30 @@ beschliesst:
 
 **Theoretische Prüfung**
 
-<sup>1</sup> Die theoretische Prüfung gliedert sich in einen schriftlichen und einen mündlichen Teil und umfasst die Fächer gemäss Art. 10 Abs. 3 Ziff. 2–8 kJSG.
+Die theoretische Prüfung gliedert sich in einen schriftlichen und einen mündlichen Teil und umfasst die Fächer gemäss Art. 10 Abs. 3 Ziff. 2-8 kJSG.
 
 #### § 16
 
 **Bewertung**
 
-<sup>1</sup> Die Leistungen werden mit folgenden Höchstpunktzahlen bewertet:
+Die Leistungen werden mit folgenden Höchstpunktzahlen bewertet:
 
 - 1\. Distanzenschätzen, Waffenhandhabung, Kugelschiessen, Schrotschiessen und Lebensraum mit je 10 Punkten;
-- 2\. die Fächer gemäss Art. 10 Abs. 3 Ziff. 2–8 kJSG mit je 6 Punkten für die schriftliche sowie die mündliche Prüfung.
+
+- 2\. die Fächer gemäss Art. 10 Abs. 3 Ziff. 2-8 kJSG mit je 6 Punkten für die schriftliche sowie die mündliche Prüfung.
+
+[^16-1]: Fassung gemäss Regierungsratsbeschluss vom 14. Oktober 2014, A 2014, 1818; in Kraft seit 1. November 2014
 
 #### § 17
 
-**Ergebnis**
+**Ergebnis[^16-1]**
 
-<sup>1</sup> Die Jagdprüfung gilt als bestanden, wenn:
+Die Jagdprüfung gilt als bestanden, wenn:
 
 - 1\. die Summe der erreichten Punkte in den Fächern gemäss § 16 Ziff. 1 (praktische Prüfung) mindestens 38 Punkte beträgt;
+
 - 2\. die Summe der erreichten Punkte in den anderen Fächern (theoretische Prüfung) mindestens 62 Punkte beträgt; und
+
 - 3\. im Kugelschiessen mindestens 8, im Schrotschiessen mindestens 7 und in keinem anderen Fach weniger als die Hälfte der möglichen Punkte erzielt werden.
 
 #### § 18
@@ -190,9 +205,11 @@ beschliesst:
 
 <sup>2</sup> Bei Nichtbestehen der Jagdprüfung wird der Entscheid summarisch begründet und der Kandidatin oder dem Kandidaten schriftlich mitgeteilt.
 
+[^18-1]: Fassung gemäss Regierungsratsbeschluss vom 14. Oktober 2014, A 2014, 1818; in Kraft seit 1. November 2014
+
 #### § 19
 
-**Wiederholung**
+**Wiederholung[^18-1]**
 
 <sup>1</sup> Die Jagdprüfung kann frühestens im folgenden Jahr wiederholt werden; vorbehalten bleibt § 13 Abs. 4.
 
@@ -208,29 +225,29 @@ beschliesst:
 
 **Ausschluss, Nichtzulassung**
 
-<sup>1</sup> Kandidatinnen oder Kandidaten, die nicht pünktlich zur Jagdprüfung erscheinen, unerlaubte Hilfsmittel benützen oder auf dem Schiessplatz die Sicherheitsvorschriften verletzen, werden von der Prüfung ausgeschlossen. Die Jagdprüfung gilt als nicht bestanden.
+Kandidatinnen oder Kandidaten, die nicht pünktlich zur Jagdprüfung erscheinen, unerlaubte Hilfsmittel benützen oder auf dem Schiessplatz die Sicherheitsvorschriften verletzen, werden von der Prüfung ausgeschlossen. Die Jagdprüfung gilt als nicht bestanden.
 
-## 5 Jagdfähigkeitsausweis
+### V. JAGDFÄHIGKEITSAUSWEIS
 
 #### § 21
 
 **Inhalt**
 
-<sup>1</sup> Der vom Amt ausgestellte Jagdfähigkeitsausweis enthält Foto, Name, Vorname, Geburtsdatum, Heimatort und Adresse sowie Ort und Datum der Jagdprüfung.
+Der vom Amt ausgestellte Jagdfähigkeitsausweis enthält Foto, Name, Vorname, Geburtsdatum, Heimatort und Adresse sowie Ort und Datum der Jagdprüfung.
 
 #### § 22
 
 **Ausstellung**
 
-<sup>1</sup> Der Jagdfähigkeitsausweis wird im Auftrag der Jagdprüfungskommission vom Amt ausgestellt.
+Der Jagdfähigkeitsausweis wird im Auftrag der Jagdprüfungskommission vom Amt ausgestellt.
 
-## 6 Schlussbestimmungen
+### VI. SCHLUSSBESTIMMUNGEN
 
 #### § 23
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 21. Juni 1993 über den Jagdlehrgang und die Jagdprüfung[^23-1] wird aufgehoben.
+Das Reglement vom 21. Juni 1993 über den Jagdlehrgang und die Jagdprüfung[^23-1] wird aufgehoben.
 
 [^23-1]: NG 841.112; A 1993, 1083
 
@@ -238,6 +255,8 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vollzugsverordnung tritt auf den 15. Juni 2008 in Kraft.
+Diese Vollzugsverordnung tritt auf den 15. Juni 2008 in Kraft.
 
-A 2008, 1169
+## Weitere Fussnoten
+
+- [4] NG 161.3
