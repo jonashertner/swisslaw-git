@@ -4,22 +4,24 @@ number: "912.2"
 title: Übereinkunft betreffend die Polizeitransporte
 language: de
 version: 1965-03-23
+corrected: 2021-10-26
 version_adopted: 1965-03-23
 adopted: 1909-06-23
 in_force: 1910-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/912.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/663/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/415/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Übereinkunft betreffend die Polizeitransporte
 
-vom 23.06.1909 (Stand 23.03.1965)
+vom 23. Juni 1909[^t-1]
 
-Das Eidgenössische Justiz- und Polizeidepartement und die Polizeidirektionen sämtlicher Kantone
+Das Eidgenössische Justiz- und Polizeidepartement und die Polizeidirektionen sämtlicher Kantone haben nachstehende Vereinbarung über das polizeiliche Transportwesen getroffen.
 
-haben nachstehende Vereinbarung über das polizeiliche Transportwesen getroffen.
+[^t-1]: SR 354.1; vom Landrat genehmigt am 27. November 1907, A 1907, 427; vom Bundesrat genehmigt am 23. Juni 1909
 
 #### § 1
 
@@ -32,19 +34,25 @@ haben nachstehende Vereinbarung über das polizeiliche Transportwesen getroffen.
 <sup>1</sup> Die Behörde, welche einen Polizeitransport anordnet, sorgt dafür:
 
 - a) dass der zu Transportierende vorerst auf seine Transportfähigkeit untersucht und in bezug auf Haut- und Ungezieferreinheit und Bekleidung transportfähig gemacht wird;
+
 - b) dass die Identität des Transportanden wenn möglich festgestellt wird;
+
 - c) dass seine Ausweisschriften und seine Effekten dem Transport beigefügt werden.
 
 <sup>2</sup> Jedem Polizeitransport, sei derselbe begleitet oder nicht, ist ein Transportbefehl nach einheitlichem Formular mitzugeben.
 
 #### § 3
 
-<sup>1</sup> Die von den Kantonen angeordneten Polizeitransporte zerfallen mit Bezug auf die Verteilung der Fahrkosten in drei Kategorien:
+Die von den Kantonen angeordneten Polizeitransporte zerfallen mit Bezug auf die Verteilung der Fahrkosten in drei Kategorien:
 
 - 1\. Die Kosten des Transportes werden vom empfangenden Kanton getragen:
+
 - a) wenn einem Kanton eine von ihm requirierte Person oder eine solche, deren strafrechtliche Verfolgung ihm obliegt, zugeführt wird;
+
 - b) wenn ausgewiesene oder ausgeschaffte (gesunde oder kranke) schweizerische Angehörige vom Ausland her an der Grenze eintreffen und von dort ihrem Heimatkanton zugeschoben werden.
+
 - 2\. Die Kosten der Abschub- und Heimschaffungstransporte (gesunder und kranker Personen) aus der Schweiz nach dem Ausland trägt der Bund.
+
 - 3\. Die Kosten der übrigen Transporte trägt der absendende Kanton. Hierher gehören u.a. auch alle Heimschaffungen von schweizerischen (gesunden oder kranken) Armen aus dem Aufenthalts- oder Niederlassungskanton nach dem Heimatkanton.
 
 #### § 4
@@ -65,19 +73,24 @@ haben nachstehende Vereinbarung über das polizeiliche Transportwesen getroffen.
 
 #### § 6
 
-<sup>1</sup> Auslagen für allfällige Transportbegleitung gehen in der Transportkategorie 1 (§ 3 hiervor) zu Lasten des empfangenden Kantons, in Kategorie 2 zu Lasten des Bundes, in Kategorie 3 zu Lasten des absendenden Kantons. Eine Begleitung hat nur dann einzutreten, wenn eine solche zufolge der Gefährlichkeit oder des Zustandes (Jugend, Alter, Gebrechlichkeit, Krankheit) der zu transportierenden Person als notwendig erscheint. Die Begleitung eines Transportes ist von Fall zu Fall bei der Rechnungsstellung schriftlich zu begründen.
+<sup>1</sup> Auslagen für allfällige Transportbegleitung gehen in der Transportkategorie 1 (§ 3 hiervor) zu Lasten des empfangenden Kantons, in Kategorie 2 zu Lasten des Bundes, in Kategorie 3 zu Lasten des absendenden Kantons. Eine Begleitung hat nur dann einzutreten, wenn eine solche zufolge der Gefährlichkeit oder des Zustandes (Jugend, Alter, Gebrechlichkeit, Krankheit) der zu transportierenden Person als notwendig erscheint. Die Begleitung eines Transportes ist von Fall zu Fall bei der Rechnungsstellung schriftlich zu begründen.[^6-1]
 
 <sup>2</sup> Die nach den Vorschriften über die Polizeitransporte auf den schweizerischen Eisenbahnen dem begleitenden Polizeipersonal zukommende Taxbegünstigung findet auf das Begleitpersonal aller Polizeitransporte im Sinne von § 1 der gegenwärtigen Übereinkunft (also auch auf begleitende Wärter und Wärterinnen) Anwendung.
 
 <sup>3</sup> Der absendende Kanton stellt für die Begleitungskosten in der Kategorie 1 dem empfangenden Kanton, in der Kategorie 2 dem Bund Rechnung, welche umfasst:
 
-- 1\. eine Transportgebühr (für die Hinreise) von 20 Rappen für die ersten 30 km Bahnfahrt oder Fahrt im Auto, 10 Rappen für jeden weiteren Kilometer, von 60 Rappen pro Kilometer zu Fuss zurückgelegter Strecken, im Minimum 4 Franken, im Maximum 24 Franken. Ist ein Begleiter genötigt, die transportierende Person an den Ausgangsort zurückzubringen, oder hat er eine andere Person dorthin mitzunehmen, so beträgt das Minimum der Transportgebühr 6 Franken, wenn der Rücktransport sich aus amtlichen Gründen derart verzögert, dass der Begleiter auswärts eine Hauptmahlzeit einnehmen muss. Bedingt die Verzögerung die Einnahme von zwei Hauptmahlzeiten, so beträgt das Minimum der Transportgebühr 9.75 Franken. Die Wartezeit wird von der zuständigen Behörde des Ortes, wo die Verzögerung eintrat, bescheinigt;
+- 1\. eine Transportgebühr (für die Hinreise) von 20 Rappen für die ersten 30 km Bahnfahrt oder Fahrt im Auto, 10 Rappen für jeden weiteren Kilometer, von 60 Rappen pro Kilometer zu Fuss zurückgelegter Strecken, im Minimum 4 Franken, im Maximum 24 Franken.[^6-2] Ist ein Begleiter genötigt, die transportierende Person an den Ausgangsort zurückzubringen, oder hat er eine andere Person dorthin mitzunehmen, so beträgt das Minimum der Transportgebühr 6 Franken, wenn der Rücktransport sich aus amtlichen Gründen derart verzögert, dass der Begleiter auswärts eine Hauptmahlzeit einnehmen muss. Bedingt die Verzögerung die Einnahme von zwei Hauptmahlzeiten, so beträgt das Minimum der Transportgebühr 9.75 Franken. Die Wartezeit wird von der zuständigen Behörde des Ortes, wo die Verzögerung eintrat, bescheinigt;
+
 - 2\. eine Entschädigung von 12 Franken für allfälliges Nachtquartier des Transportbegleiters;
+
 - 3\. die Fahrkosten für Hin- und Rückfahrt zum halben Preis der gewöhnlichen Billette 2. oder 1. Klasse.
 
 <sup>4</sup> Den Behörden wird es zur Pflicht gemacht, die Transporte zeitlich in der Weise anzusetzen, dass der Begleiter, wenn immer möglich, am Tag, an dem der Transport stattfindet, an den Ausgangsort zurückkehren kann.
 
 <sup>5</sup> Die Rechnungsstellung erfolgt jeweilen von Fall zu Fall.
+
+[^6-1]: Ergänzung gemäss Bundesratsbeschluss vom 17. Dezember 1935; AS 51, 813
+[^6-2]: Fassung gemäss Beschlüssen des EJPD vom 1. August 1942 und vom 23. März 1965
 
 #### § 7
 
@@ -86,12 +99,14 @@ haben nachstehende Vereinbarung über das polizeiliche Transportwesen getroffen.
 <sup>2</sup> Als Bestimmung gilt:
 
 - a) bei Abschiebung von Schweizerbürgern in die Heimat der Hauptort des Bezirkes, wo die Heimatgemeinde liegt, oder eine im Transportbefehl im Einverständnis mit dem Empfangskanton als Abgabeort bezeichneten Eisenbahnstation;
+
 - b) bei Abschiebung von Ausländern die betreffende Station;
+
 - c) für polizeilich gesuchte oder requirierte Personen der Sitz der ausschreibenden oder requirierenden Amtsstelle bzw. eventuell eine im Einzelfalle besonders vereinbarte Abgabestation.
 
 #### § 8
 
-<sup>1</sup> Wenn die Übernahme des Transportierten an der Grenze oder am Transportziel auf Schwierigkeiten stösst, so ist die absendende Behörde zur Rücknahme des Transportierten auf ihre Kosten verpflichtet.
+Wenn die Übernahme des Transportierten an der Grenze oder am Transportziel auf Schwierigkeiten stösst, so ist die absendende Behörde zur Rücknahme des Transportierten auf ihre Kosten verpflichtet.
 
 #### § 9
 
@@ -101,7 +116,7 @@ haben nachstehende Vereinbarung über das polizeiliche Transportwesen getroffen.
 
 #### § 10
 
-<sup>1</sup> Der Transportand ist vor dem Transport zu verpflegen und soll auf längeren Routen Zwischenverpflegung durch die Polizeiposten an grösseren Bahnhöfen erhalten. Kann der Transport seinen Bestimmungsort nicht an einem Tag erreichen, so erhalten die Transportierten an geeignetem Orte (in der Regel einem Kantonshauptort oder Amtssitz) Unterkunft, womit warme Verpflegung am Abend und am folgenden Morgen verbunden sein soll. Auf den Zwischenverpflegungs- und Unterkunftsstationen soll bei Bedarf auch ärztliche Hilfe und Wartung zur Verfügung stehen.
+Der Transportand ist vor dem Transport zu verpflegen und soll auf längeren Routen Zwischenverpflegung durch die Polizeiposten an grösseren Bahnhöfen erhalten. Kann der Transport seinen Bestimmungsort nicht an einem Tag erreichen, so erhalten die Transportierten an geeignetem Orte (in der Regel einem Kantonshauptort oder Amtssitz) Unterkunft, womit warme Verpflegung am Abend und am folgenden Morgen verbunden sein soll. Auf den Zwischenverpflegungs- und Unterkunftsstationen soll bei Bedarf auch ärztliche Hilfe und Wartung zur Verfügung stehen.
 
 #### § 11
 
@@ -123,48 +138,48 @@ haben nachstehende Vereinbarung über das polizeiliche Transportwesen getroffen.
 
 #### § 14
 
-<sup>1</sup> Für die Transporte, welche von den Bundesbehörden angeordnet werden (Auslieferungen, eidgenössische Ausweisungen, Durchtransporte), stellen die Kantone dem Eidgenössischen Justiz- und Polizeidepartement von Fall zu Fall Rechnung. Dieselbe umfasst:
+Für die Transporte, welche von den Bundesbehörden angeordnet werden (Auslieferungen, eidgenössische Ausweisungen, Durchtransporte), stellen die Kantone dem Eidgenössischen Justiz- und Polizeidepartement von Fall zu Fall Rechnung. Dieselbe umfasst:
 
 - 1\. die Fahrkosten (vgl. § 4 Abs. 3);
+
 - 2\. die Begleitungskosten nach Massgabe der in § 6 Absatz 3 festgesetzten Gebühren;
+
 - 3\. die Kosten von Verpflegung, Unterkunft und ärztlicher Wartung während des Transportes (vgl. § 12 Abs. 2).
 
 #### § 15
 
-<sup>1</sup> Die Transporte sind, wenn immer möglich, so einzurichten, dass sie in einem Tage zur Durchführung gelangen. Sie sollen am Bestimmungsort oder am Orte der Unterkunft nicht später als abends 8 Uhr ankommen. An Sonntagen sowie am Neujahrstag, Karfreitag, Auffahrtstag und Weihnachtstag sind Polizeitransporte zu unterlassen.
+Die Transporte sind, wenn immer möglich, so einzurichten, dass sie in einem Tage zur Durchführung gelangen. Sie sollen am Bestimmungsort oder am Orte der Unterkunft nicht später als abends 8 Uhr ankommen. An Sonntagen sowie am Neujahrstag, Karfreitag, Auffahrtstag und Weihnachtstag sind Polizeitransporte zu unterlassen.
 
 #### § 16
 
-<sup>1</sup> Weibliche Personen dürfen nicht in Zellen zusammen mit Männern transportiert werden. Insofern ihnen nicht eine besondere Zelle angewiesen wird, sind sie in dritter Wagenklasse[^16-1] zu transportieren, wobei begleitende Polizeiagenten Zivilkleidung tragen. Vorbehalten bleibt der gemeinsame Transport von Ehegatten und Eltern mit ihren Kindern.
+Weibliche Personen dürfen nicht in Zellen zusammen mit Männern transportiert werden. Insofern ihnen nicht eine besondere Zelle angewiesen wird, sind sie in dritter Wagenklasse[^16-1] zu transportieren, wobei begleitende Polizeiagenten Zivilkleidung tragen. Vorbehalten bleibt der gemeinsame Transport von Ehegatten und Eltern mit ihren Kindern.
 
 [^16-1]: Heute: in 2. Klasse (Eisenbahn-Amtsblatt vom 2. Mai 1956, Mitteilung Nr. 244, S. 282)
 
 #### § 17
 
-<sup>1</sup> Die Polizeiorgane haben ihr Augenmerk darauf zu richten, dass die benutzten Transportzellen (und allfällige besondere Transportwagen) sowie die zeitweiligen Unterkunfts- bzw. Arrestlokale für durchgehend Transportierte in gutem und reinlichem Zustande und bei kalter Witterung geheizt seien.
+Die Polizeiorgane haben ihr Augenmerk darauf zu richten, dass die benutzten Transportzellen (und allfällige besondere Transportwagen) sowie die zeitweiligen Unterkunfts- bzw. Arrestlokale für durchgehend Transportierte in gutem und reinlichem Zustande und bei kalter Witterung geheizt seien.
 
 #### § 18
 
-<sup>1</sup> Die vollzogenen Transportbefehle verbleiben am Bestimmungsorte des Transportes ein Jahr lang zur Verfügung der Rechnungskontrollstellen des Bundes und der Kantone aufbewahrt. Ein vom Formular loszutrennender Empfangsschein geht unmittelbar nach Eintreffen des Transportes am Bestimmungsorte an die absendende Stelle zurück; bei begleiteten Transporten ist der Empfangsschein dem Transportbegleiter auszuhändigen.
+Die vollzogenen Transportbefehle verbleiben am Bestimmungsorte des Transportes ein Jahr lang zur Verfügung der Rechnungskontrollstellen des Bundes und der Kantone aufbewahrt. Ein vom Formular loszutrennender Empfangsschein geht unmittelbar nach Eintreffen des Transportes am Bestimmungsorte an die absendende Stelle zurück; bei begleiteten Transporten ist der Empfangsschein dem Transportbegleiter auszuhändigen.
 
 #### § 19
 
-<sup>1</sup> Dem Eidgenössischen Justiz- und Polizeidepartement steht die allgemeine Kontrolle über das Polizeitransportwesen zu. Es entscheidet allfällige Anstände und Beschwerden betreffend die Handhabung dieser Vereinbarung.
+Dem Eidgenössischen Justiz- und Polizeidepartement steht die allgemeine Kontrolle über das Polizeitransportwesen zu. Es entscheidet allfällige Anstände und Beschwerden betreffend die Handhabung dieser Vereinbarung.
 
 #### § 20
 
-<sup>1</sup> Die gegenwärtige Vereinbarung wird unter Genehmigung der zuständigen eidgenössischen und kantonalen Behörden abgeschlossen.
+Die gegenwärtige Vereinbarung wird unter Genehmigung der zuständigen eidgenössischen und kantonalen Behörden abgeschlossen.
 
 #### § 21
 
-<sup>1</sup> Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Abkommens.[^21-1]
+Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Abkommens.[^21-1]
 
 [^21-1]: In Kraft seit 1. Januar 1910
 
 #### § 22
 
-<sup>1</sup> Die Übereinkunft kann von den Vertragsparteien jederzeit bei Jahresschluss gekündigt werden, und es tritt die Kündigung jeweilen ein Jahr nachher in Wirksamkeit[^22-1].
+Die Übereinkunft kann von den Vertragsparteien jederzeit bei Jahresschluss gekündigt werden, und es tritt die Kündigung jeweilen ein Jahr nachher in Wirksamkeit.
 
-[^22-1]: Die Übereinkunft ist heute für alle Kantone verbindlich
-
-A 1907, 427
+(Die Übereinkunft ist heute für alle Kantone verbindlich)
