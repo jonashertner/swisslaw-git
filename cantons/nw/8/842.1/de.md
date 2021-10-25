@@ -5,35 +5,37 @@ title: Einführungsgesetz zur Bundesgesetzgebung betreffend die Fischerei
 short: "Fischereigesetz, kFG"
 language: de
 version: 1969-01-01
-valid_until: 2023-12-31
+corrected: 2021-10-26
 version_adopted: 1968-04-28
 adopted: 2023-05-31
 in_force: 2024-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/842.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/688/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/380/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Einführungsgesetz zur Bundesgesetzgebung betreffend die Fischerei
 
-vom 28.04.1968 (Stand 01.01.1969)
+vom 28. April 1968[^t-1]
 
 Die Landsgemeinde,
 
-gestützt auf Art. 53 der Kantonsverfassung, in Ausführung der Bundesgesetzgebung betreffend die Fischerei[^ingress-1],
+gestützt auf Art. 53 der Kantonsverfassung, in Ausführung der Bundesgesetzgebung betreffend die Fischerei[^t-2],
 
 beschliesst:
 
-[^ingress-1]: SR 923.0
+[^t-1]: A 1968, 547
+[^t-2]: SR 923.0
 
-## 1 Fischereihoheit
+### I. FISCHEREIHOHEIT
 
 #### Art. 1
 
 **Hoheitsrecht**
 
-<sup>1</sup> Das Hoheitsrecht zum Fang von Fischen und andern nutzbaren Wassertieren in den Gewässern steht dem Kanton zu, soweit nicht besondere Fischereirechte von Körperschaften oder Einzelpersonen nachgewiesen sind.
+Das Hoheitsrecht zum Fang von Fischen und andern nutzbaren Wassertieren in den Gewässern steht dem Kanton zu, soweit nicht besondere Fischereirechte von Körperschaften oder Einzelpersonen nachgewiesen sind.
 
 #### Art. 2
 
@@ -47,15 +49,17 @@ beschliesst:
 
 **Grenzgewässer**
 
-<sup>1</sup> Die besonderen Bestimmungen von Konkordaten über die Fischerei in interkantonalen Grenzgewässern sowie der gerichtliche Vergleich der Kantone Luzern und Nidwalden über die Fischerei im Vierwaldstättersee vom 6./20. März 1967[^3-1] bleiben vorbehalten.
+Die besonderen Bestimmungen von Konkordaten über die Fischerei in interkantonalen Grenzgewässern sowie der gerichtliche Vergleich der Kantone Luzern und Nidwalden über die Fischerei im Vierwaldstättersee vom 6./20. März 1967[^3-1] bleiben vorbehalten.
 
 [^3-1]: NG 112.2
 
-## 2 Allgemeine Bestimmungen
+### II. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 4
 
-**Fischereiberechtigung 1. Voraussetzungen**
+**Fischereiberechtigung**
+
+- 1\. Voraussetzungen
 
 <sup>1</sup> Die Berechtigung zum Fang von Fischen und andern nutzbaren Wassertieren wird durch Patent oder Pacht erworben; der Regierungsrat ist berechtigt, aus fischereiwirtschaftlichen oder andern Gründen des öffentlichen Interesses die Zahl der Fischereipatente beziehungsweise der in einem Pachtkreis zugelassenen Fischer zu beschränken.
 
@@ -75,7 +79,7 @@ beschliesst:
 
 **3. Besondere Fischereirechte**
 
-<sup>1</sup> Für die Feststellung der bestehenden besonderen Fichereirechte von Körperschaften oder Einzelpersonen hat der Landrat das Aufgebotsverfahren vorzusehen, mit der Wirkung, dass nicht angemeldete und nicht nachgewiesene Rechte untergehen.
+Für die Feststellung der bestehenden besonderen Fichereirechte von Körperschaften oder Einzelpersonen hat der Landrat das Aufgebotsverfahren vorzusehen, mit der Wirkung, dass nicht angemeldete und nicht nachgewiesene Rechte untergehen.
 
 #### Art. 7
 
@@ -105,9 +109,9 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Der Landrat erlässt die zum Vollzug der Bundesgesetzgebung und dieses Einführungsgesetzes notwendigen Vorschriften, insbesondere über die Zuständigkeit der Behörden, die Fischereiberechtigung, die Verpachtung der Pachtkreise, die Ausübung der Fischerei, die Fischereiwirtschaft, den Schutz der Fischerei, die Strafbestimmungen sowie die Rechtsmittel.
+Der Landrat erlässt die zum Vollzug der Bundesgesetzgebung und dieses Einführungsgesetzes notwendigen Vorschriften, insbesondere über die Zuständigkeit der Behörden, die Fischereiberechtigung, die Verpachtung der Pachtkreise, die Ausübung der Fischerei, die Fischereiwirtschaft, den Schutz der Fischerei, die Strafbestimmungen sowie die Rechtsmittel.
 
-## 3 Schlussbestimmung
+### III. SCHLUSSBESTIMMUNG
 
 #### Art. 11
 
@@ -118,5 +122,3 @@ beschliesst:
 <sup>2</sup> Paragraph 133 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^11-1] wird aufgehoben.
 
 [^11-1]: NG 211.1
-
-A 1968, 547
