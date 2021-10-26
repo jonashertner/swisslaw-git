@@ -4,32 +4,31 @@ number: "722.2"
 title: Vereinbarung über gemeinsame Gewässerschutzvorkehren für den Vierwaldstättersee
 language: de
 version: 1987-02-10
+corrected: 2021-10-27
 version_adopted: 1985-11-21
 adopted: 1985-11-21
 in_force: 1987-02-10
 url: "https://gesetze.nw.ch/app/de/texts_of_law/722.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/738/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/294/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vereinbarung über gemeinsame Gewässerschutzvorkehren für den Vierwaldstättersee
 
-vom 21.11.1985 (Stand 10.02.1987)
+vom 21. November 1985[^t-1]
 
-Die Kantone Luzern, Uri, Schwyz, Obwalden und Nidwalden
+Die Kantone Luzern, Uri, Schwyz, Obwalden und Nidwalden treffen gestützt auf Art. 11 GSchG vom 8. Oktober 1971[^t-2] folgende Vereinbarung:
 
-treffen gestützt auf Art. 11 GSchG vom 8. Oktober 1971[^ingress-1]
-
-folgende Vereinbarung:
-
-[^ingress-1]: SR 814.20
+[^t-1]: A 1986, 1489; vom Landrat genehmigt am 29. Oktober 1986, A 1986, 1488
+[^t-2]: SR 814.20
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Der Vierwaldstättersee soll durch ein koordiniertes Vorgehen als aquatisches Oekosystem erhalten und wenn erforderlich verbessert werden. Um dem Vierwaldstättersee den bestmöglichen Schutz zu gewähren, stimmen die Anstösserkantone die Gewässerschutzmassnahmen im See und seinem ganzen Einzugsgebiet aufeinander ab und verhindern frühzeitig nachteilige Veränderungen des Oekosystems.
+Der Vierwaldstättersee soll durch ein koordiniertes Vorgehen als aquatisches Oekosystem erhalten und wenn erforderlich verbessert werden. Um dem Vierwaldstättersee den bestmöglichen Schutz zu gewähren, stimmen die Anstösserkantone die Gewässerschutzmassnahmen im See und seinem ganzen Einzugsgebiet aufeinander ab und verhindern frühzeitig nachteilige Veränderungen des Oekosystems.
 
 #### Art. 2
 
@@ -71,19 +70,19 @@ folgende Vereinbarung:
 
 **Schwerpunktprogramm**
 
-<sup>1</sup> Die Aufsichtskommission legt für einen befristeten Zeitraum die hauptsächlichen Ziele und vordringlichen Massnahmen in einem Schwerpunktprogramm fest. Diese Programme sind den Kantonsregierungen zur Kenntnisnahme vorzulegen.
+Die Aufsichtskommission legt für einen befristeten Zeitraum die hauptsächlichen Ziele und vordringlichen Massnahmen in einem Schwerpunktprogramm fest. Diese Programme sind den Kantonsregierungen zur Kenntnisnahme vorzulegen.
 
 #### Art. 7
 
 **Information**
 
-<sup>1</sup> Die fünf Kantonsregierungen werden regelmässig über den Zustand des Vierwaldstättersees und die Tätigkeit der Aufsichtskommission orientiert. Nach Bedarf orientiert die Aufsichtskommission in geeigneter Weise die Öffentlichkeit.
+Die fünf Kantonsregierungen werden regelmässig über den Zustand des Vierwaldstättersees und die Tätigkeit der Aufsichtskommission orientiert. Nach Bedarf orientiert die Aufsichtskommission in geeigneter Weise die Öffentlichkeit.
 
 #### Art. 8
 
 **Meinungsverschiedenheiten**
 
-<sup>1</sup> Bei Meinungsverschiedenheiten über die Anwendung dieser Vereinbarung oder gestützt darauf erlassener Bestimmungen suchen sich die Kantonsregierungen zu verständigen. Kommt keine Einigung zustande, so findet das Verfahren nach den Bestimmungen des GSchG Anwendung.
+Bei Meinungsverschiedenheiten über die Anwendung dieser Vereinbarung oder gestützt darauf erlassener Bestimmungen suchen sich die Kantonsregierungen zu verständigen. Kommt keine Einigung zustande, so findet das Verfahren nach den Bestimmungen des GSchG Anwendung.
 
 #### Art. 9
 
@@ -93,6 +92,16 @@ folgende Vereinbarung:
 
 <sup>2</sup> Mit Inkrafttreten dieser Vereinbarung wird die Vereinbarung vom 19. Januar 1972 aufgehoben.
 
+Von der Aufsichtskommission für den Vierwaldstättersee beschlossen am 21. November 1985.
+
+Der Präsident:
+
 [^9-1]: Vom Bundesrat genehmigt am 10. Februar 1987
 
-A 1986, 1488, 1489
+### R. Bühler
+
+Der Sekretär:
+
+### P. Stadel-
+
+mann
