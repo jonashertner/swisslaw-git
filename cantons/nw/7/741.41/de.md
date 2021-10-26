@@ -4,30 +4,30 @@ number: "741.41"
 title: Konkordat über die Zentralschweizer BVG- und Stiftungsaufsicht
 language: de
 version: 2006-01-01
+corrected: 2021-10-27
 version_adopted: 2004-04-19
 adopted: 2004-04-19
 in_force: 2006-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/741.41"
-pdf: "https://gesetze.nw.ch/api/de/versions/733/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/305/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Konkordat über die Zentralschweizer BVG- und Stiftungsaufsicht
 
-vom 19.04.2004 (Stand 01.01.2006)
+vom 19. April 2004<sup>1</sup>
 
-Die Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug
+Die Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug vereinbaren:
 
-vereinbaren:
-
-## 1 Allgemeine Bestimmungen
+- 1\. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Name, Rechtsform und Sitz**
 
-<sup>1</sup> Die «Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA)» ist eine öffentlich-rechtliche Anstalt der Konkordatskantone mit eigener Rechtspersönlichkeit.
+<sup>1</sup> Die „Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA)“ ist eine öffentlich-rechtliche Anstalt der Konkordatskantone mit eigener Rechtspersönlichkeit.
 
 <sup>2</sup> Sitz der Anstalt ist Luzern.
 
@@ -35,32 +35,32 @@ vereinbaren:
 
 **Zweck der Anstalt**
 
-<sup>1</sup> Die ZBSA bezweckt die gemeinsame Erfüllung der den Kantonen nach dem Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^2-1] obliegenden Aufgaben.
+<sup>1</sup> Die ZBSA bezweckt die gemeinsame Erfüllung der den Kantonen nach dem Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)<sup>2</sup> obliegenden Aufgaben.
 
-<sup>2</sup> Die Konkordatskantone können der ZBSA überdies die Aufsicht über die nach Art. 84 des Schweizerischen Zivilgesetzbuches (ZGB)[^2-2] unter kantonaler Aufsicht stehenden, klassischen Stiftungen übertragen.
+<sup>2</sup> Die Konkordatskantone können der ZBSA überdies die Aufsicht über die nach Art. 84 des Schweizerischen Zivilgesetzbuches (ZGB)<sup>3</sup> unter kantonaler Aufsicht stehenden, klassischen Stiftungen übertragen.
 
 <sup>3</sup> Für die Konkordatskantone, die der ZBSA die Aufsicht über die klassischen Stiftungen übertragen haben, nimmt die ZBSA für die kantonalen und kommunalen klassischen Stiftungen auch die Aufgaben der Änderungsbehörde im Sinne von Art. 85 und 86 ZGB wahr.
-
-[^2-1]: SR 831.40
-[^2-2]: SR 210
 
 #### Art. 3
 
 **Führung der Anstalt**
 
-<sup>1</sup> Die ZBSA wird nach den Grundsätzen der Kunden-, Leistungs- und Wirkungsorientierung geführt. Ihre Dienstleistungen werden in einem Leistungsauftrag festgelegt.
+Die ZBSA wird nach den Grundsätzen der Kunden-, Leistungs- und Wirkungsorientierung geführt. Ihre Dienstleistungen werden in einem Leistungsauftrag festgelegt.
 
-## 2 Organisation und Zuständigkeiten
+- 2\. Organisation und Zuständigkeiten
 
 #### Art. 4
 
 **Organisation, Organe**
 
-<sup>1</sup> Die Organe der Zentralschweizer BVG- und Stiftungsaufsicht sind:
+Die Organe der Zentralschweizer BVG- und Stiftungsaufsicht sind:
 
 - a) Konkordatsrat;
+
 - b) Geschäftsleitung;
+
 - c) Interparlamentarische Geschäftsprüfungskommission;
+
 - d) Revisionsstelle.
 
 #### Art. 5
@@ -77,19 +77,30 @@ vereinbaren:
 
 **Aufgaben**
 
-<sup>1</sup> Der Konkordatsrat:
+Der Konkordatsrat:
 
 - a) führt die direkte Aufsicht über die ZBSA;
+
 - b) erteilt unter Vorbehalt von Art. 13 Abs. 2 den Leistungsauftrag mit Globalkredit;
+
 - c) nimmt den Bericht der Revisionsstelle zur Kenntnis und genehmigt den Jahresbericht, die Jahresrechnung und das jährliche Budget;
+
 - d) erstattet zuhanden der Regierungen der Konkordatskantone und der interparlamentarischen Geschäftsprüfungskommission jährlich Bericht über die Ausführung des Leistungsauftrages, die Einhaltung des Globalkredits und den Bericht der Revisionsstelle;
+
 - e) wählt den Geschäftsleiter der ZBSA und stellt ihn an;
+
 - f) wählt eine Revisionsstelle;
+
 - g) erlässt eine Geschäftsordnung für den Konkordatsrat;
+
 - h) genehmigt das Geschäftsreglement der ZBSA;
+
 - i) erlässt gemäss Art. 14 dieses Konkordates Personalvorschriften;
+
 - j) legt die Gebührenordnung fest und veröffentlicht sie;
+
 - k) erlässt die gemäss BVG den Kantonen zum Erlass übertragenen Ausführungsbestimmungen;
+
 - l) erlässt die Ausführungsbestimmungen zu den Aufgaben der ZBSA im Bereich der klassischen Stiftungen.
 
 #### Art. 7
@@ -106,7 +117,7 @@ vereinbaren:
 
 **Geschäftsleitung**
 
-<sup>1</sup> Ein Geschäftsleiter führt die ZBSA in operativer und personeller Hinsicht im Rahmen der Gesetzgebung und des Leistungsauftrages. Er vertritt die ZBSA nach aussen.
+Ein Geschäftsleiter führt die ZBSA in operativer und personeller Hinsicht im Rahmen der Gesetzgebung und des Leistungsauftrages. Er vertritt die ZBSA nach aussen.
 
 #### Art. 9
 
@@ -115,9 +126,13 @@ vereinbaren:
 <sup>1</sup> Der Geschäftsleiter:
 
 - a) überwacht und verantwortet die Einhaltung des Leistungsauftrages mit Globalkredit und des jährlichen Budgets;
+
 - b) ist für ein aussagekräftiges Finanz- und Rechnungswesen (inklusive Controlling und Berichtswesen) besorgt;
+
 - c) schliesst die Anstellungsverträge mit den Mitarbeiterinnen und Mitarbeitern ab und ist für die personellen Belange zuständig;
+
 - d) legt dem Konkordatsrat periodisch Rechenschaft ab;
+
 - e) bereitet die Geschäfte des Konkordatsrates vor.
 
 <sup>2</sup> Der Geschäftsleitung stehen im Übrigen alle Befugnisse zu, die nicht einem anderen Organ zugewiesen sind. Die ihr zustehenden Befugnisse kann sie in einem vom Konkordatsrat zu genehmigenden Geschäftsreglement weiter delegieren.
@@ -148,7 +163,7 @@ vereinbaren:
 
 <sup>2</sup> Sie erstattet dem Konkordatsrat Bericht und Antrag.
 
-## 3 Betrieb und Personal der ZBSA
+- 3\. Betrieb und Personal der ZBSA
 
 #### Art. 13
 
@@ -188,11 +203,9 @@ vereinbaren:
 
 <sup>2</sup> Die Körperschaften und Anstalten der Konkordatskantone sowie von diesen mit öffentlich-rechtlichen Aufgaben betrauten Organisationen haben im Rahmen dieser Aufgaben die gleiche Auskunftspflicht wie die Behörden.
 
-<sup>3</sup> Wird die Amtshilfe durch die ZBSA verweigert, kann Beschwerde beim Verwaltungsgericht[^16-1] des Standortkantons erhoben werden.
+<sup>3</sup> Wird die Amtshilfe durch die ZBSA verweigert, kann Beschwerde beim Verwaltungsgericht<sup>4</sup> des Standortkantons erhoben werden.
 
-[^16-1]: seit dem 1. Juni 2013 ist das Kantonsgericht Luzern zuständig
-
-## 4 Finanz- und Rechnungswesen
+- 4\. Finanz- und Rechnungswesen
 
 #### Art. 17
 
@@ -208,7 +221,7 @@ vereinbaren:
 
 **Dotationskapital**
 
-<sup>1</sup> Die Konkordatskantone stellen der ZBSA für die Finanzierung der Startphase ein Dotationskapital im Betrag von maximal Fr. 1'000'000 zur Verfügung. Sie zahlen das Dotationskapital ein im Verhältnis zur Anzahl beaufsichtigter Einrichtungen mit Stichdatum sechs Monate vor der Betriebsaufnahme. Das Dotationskapital wird verzinst auf der Basis der Jahresdurchschnittsrendite der 10-jährigen Bundesanleihen.
+<sup>1</sup> Die Konkordatskantone stellen der ZBSA für die Finanzierung der Startphase ein Dotationskapital im Betrag von maximal Fr. 1‘000‘000 zur Verfügung. Sie zahlen das Dotationskapital ein im Verhältnis zur Anzahl beaufsichtigter Einrichtungen mit Stichdatum sechs Monate vor der Betriebsaufnahme. Das Dotationskapital wird verzinst auf der Basis der Jahresdurchschnittsrendite der 10-jährigen Bundesanleihen.
 
 <sup>2</sup> Der Konkordatsrat kann das Dotationskapital einschliesslich die aufgelaufenen Zinsen jederzeit teilweise oder insgesamt im Verhältnis der gewährten Anteile zurückbezahlen.
 
@@ -221,6 +234,7 @@ vereinbaren:
 <sup>2</sup> Die Gebühren decken die Kosten und bestehen aus:
 
 - a) einer jährlichen Aufsichtsgebühr;
+
 - b) Gebühren für Verfügungen und Dienstleistungen.
 
 <sup>3</sup> Die Aufsichtsgebühr wird aufgrund des Bruttovermögens bemessen und gemäss kantonalem Kostendeckungsgrad verrechnet. Die Gebühren für Verfügungen und Dienstleistungen werden den Vorsorgeeinrichtungen und Stiftungen nach effektivem Aufwand in Rechnung gestellt.
@@ -257,35 +271,35 @@ vereinbaren:
 
 **Steuerfreiheit**
 
-<sup>1</sup> Die ZBSA ist für ihre hoheitlichen Verrichtungen von allen Kantons-, Bezirks- und Gemeindesteuern der Konkordatskantone befreit.
+Die ZBSA ist für ihre hoheitlichen Verrichtungen von allen Kantons-, Bezirks- und Gemeindesteuern der Konkordatskantone befreit.
 
-## 5 Anwendbares Recht
+- 5\. Anwendbares Recht
 
 #### Art. 24
 
 **Allgemein**
 
-<sup>1</sup> Wo dieses Konkordat nichts anderes bestimmt, ist das Recht des Standortkantons anwendbar. Das gilt insbesondere für die Bereiche Submission, Datenschutz und Archiv.
+Wo dieses Konkordat nichts anderes bestimmt, ist das Recht des Standortkantons anwendbar. Das gilt insbesondere für die Bereiche Submission, Datenschutz und Archiv.
 
 #### Art. 25
 
 **Rechtspflege**
 
-<sup>1</sup> Das Verfahren für den Erlass, die Abänderung oder die Aufhebung von Verfügungen und Entscheiden der ZBSA sowie das Rechtsmittelverfahren richten sich nach den Vorschriften des Eidgenössischen Rechtes und den Vorschriften des Standortkantons.
+Das Verfahren für den Erlass, die Abänderung oder die Aufhebung von Verfügungen und Entscheiden der ZBSA sowie das Rechtsmittelverfahren richten sich nach den Vorschriften des Eidgenössischen Rechtes und den Vorschriften des Standortkantons.
 
 #### Art. 26
 
 **Streitigkeiten zwischen Partnern**
 
-<sup>1</sup> Über Streitigkeiten zwischen den Konkordatskantonen, die sich aus diesem Konkordat ergeben, entscheidet das Bundesgericht.
+Über Streitigkeiten zwischen den Konkordatskantonen, die sich aus diesem Konkordat ergeben, entscheidet das Bundesgericht.
 
 #### Art. 27
 
 **Publikationen**
 
-<sup>1</sup> Publikationen der ZBSA erfolgen in den Publikationsorganen aller Konkordatskantone.
+Publikationen der ZBSA erfolgen in den Publikationsorganen aller Konkordatskantone.
 
-## 6 Übergangsbestimmungen
+- 6\. Übergangsbestimmungen
 
 #### Art. 28
 
@@ -307,25 +321,23 @@ vereinbaren:
 
 **Haftung für Schadenfälle vor Betriebsaufnahme**
 
-<sup>1</sup> Die Kantone bleiben haftbar für Schadenfälle, die noch vor der Betriebsaufnahme entstanden sind.
+Die Kantone bleiben haftbar für Schadenfälle, die noch vor der Betriebsaufnahme entstanden sind.
 
 #### Art. 31
 
 **Geschäftsübergabe**
 
-<sup>1</sup> Die Berichte und Rechnungen von Vorsorgeeinrichtungen und Stiftungen sowie die hängigen Verfahren werden per Datum der Betriebsaufnahme von der ZBSA zur Bearbeitung übernommen.
+Die Berichte und Rechnungen von Vorsorgeeinrichtungen und Stiftungen sowie die hängigen Verfahren werden per Datum der Betriebsaufnahme von der ZBSA zur Bearbeitung übernommen.
 
-## 7 Schlussbestimmungen
+- 7\. Schlussbestimmungen
 
 #### Art. 32
 
 **Inkrafttreten**
 
-<sup>1</sup> Das Konkordat tritt in Kraft, wenn alle sechs Konkordatskantone ihre Zustimmung erteilt und ihren Beitritt gegenüber der Staatskanzlei des Standortkantons erklärt haben[^32-1].
+<sup>1</sup> Das Konkordat tritt in Kraft, wenn alle sechs Konkordatskantone ihre Zustimmung erteilt und ihren Beitritt gegenüber der Staatskanzlei des Standortkantons erklärt haben.
 
 <sup>2</sup> Der Standortkanton lädt den Konkordatsrat zur konstituierenden Sitzung ein. Dieser legt den Zeitpunkt der Betriebsaufnahme fest und macht dem Bund Mitteilung davon.
-
-[^32-1]: vom Landrat genehmigt am 24. November 2004, Datum des Inkrafttretens: 1. Januar 2006
 
 #### Art. 33
 
@@ -341,7 +353,7 @@ vereinbaren:
 
 **Austritt**
 
-<sup>1</sup> Tritt ein Kanton aus dem Konkordat aus, haftet er für die während seiner Mitgliedschaft eingegangenen Verpflichtungen der Anstalt. Ein allfälliger Haftungsanteil errechnet sich auf Grund des Verhältnisses der Anzahl beaufsichtigter Einrichtungen während den vier Jahren vor dem Austritt. Der austretende Kanton hat Anspruch auf das von ihm einbezahlte und bis zum Austritt anteilsmässig nicht konsumierte Dotationskapital. Allfällige weitere Ansprüche regelt der Konkordatsrat.
+Tritt ein Kanton aus dem Konkordat aus, haftet er für die während seiner Mitgliedschaft eingegangenen Verpflichtungen der Anstalt. Ein allfälliger Haftungsanteil errechnet sich auf Grund des Verhältnisses der Anzahl beaufsichtigter Einrichtungen während den vier Jahren vor dem Austritt. Der austretende Kanton hat Anspruch auf das von ihm einbezahlte und bis zum Austritt anteilsmässig nicht konsumierte Dotationskapital. Allfällige weitere Ansprüche regelt der Konkordatsrat.
 
 #### Art. 35
 
@@ -349,6 +361,12 @@ vereinbaren:
 
 <sup>1</sup> Der Beschluss über die Auflösung dieses Konkordates bedarf der Einstimmigkeit der Kantonsregierungen der Konkordatskantone.
 
-<sup>2</sup> Ein allfälliger Liquidationsgewinn oder ‑verlust wird zum Zeitpunkt der Auflösung nach der Anzahl beaufsichtigter Einrichtungen verteilt.
+<sup>2</sup> Ein allfälliger Liquidationsgewinn oder -verlust wird zum Zeitpunkt der Auflösung nach der Anzahl beaufsichtigter Einrichtungen verteilt.
 
-A 2004, 2018, 2019; A 2005, 547
+## Weitere Fussnoten
+
+- [1] A 2004, 2019; vom Landrat genehmigt am 24. November 2004, A 2004, 2018, A 2005,
+- [547] ; Datum des Inkrafttretens: 1. Januar 2006
+- [2] SR 831.40
+- [3] SR 210
+- [4] Seit dem 1. Juni 2013 ist das Kantonsgericht Luzern zuständig.
