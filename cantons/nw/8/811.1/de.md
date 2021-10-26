@@ -5,30 +5,32 @@ title: Gesetz über die Förderung der Wirtschaft
 short: "Wirtschaftsförderungsgesetz, WFG"
 language: de
 version: 2016-01-01
+corrected: 2021-10-27
 version_adopted: 2015-09-23
 adopted: 1999-10-20
 in_force: 2000-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/811.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/719/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/344/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Förderung der Wirtschaft
+# Gesetz über die Förderung der Wirtschaft (Wirtschaftsförderungsgesetz, WFG
 
-(Wirtschaftsförderungsgesetz, WFG)
-
-vom 20.10.1999 (Stand 01.01.2016)
+vom 20. Oktober 1999[^t-2][^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 30 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 6. Oktober 2006 über Regionalpolitik[^ingress-1],
+gestützt auf Art. 30 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 6. Oktober 2006 über Regionalpolitik[^t-3],[^t-1]
 
 beschliesst:
 
-[^ingress-1]: SR 901.1
+[^t-1]: Fassung gemäss Landratsbeschluss vom 26. Mai 2010, A 2010, 975, 1575; in Kraft seit 1. September 2010
+[^t-2]: A 1999, 1473, A 2000, 75; in Kraft seit 1. Januar 2000
+[^t-3]: SR 901.1
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -47,10 +49,15 @@ beschliesst:
 <sup>1</sup> Die Massnahmen der Wirtschaftsförderung haben zum Ziel:
 
 - 1\. die Entwicklungsvoraussetzungen und die Wettbewerbsfähigkeit der Wirtschaft zu verbessern;
+
 - 2\. die Entwicklung bestehender und den Zuzug neuer Betriebe zu erleichtern;
+
 - 3\. Arbeits- und Ausbildungsplätze zu erhalten und neue zu schaffen;
+
 - 4\. die infrastrukturelle Grundversorgung zu erhalten, zu erneuern oder auszubauen;
+
 - 5\. die Zusammenarbeit der Gemeinden untereinander sowie mit dem Kanton im Bereich der Wirtschaftsförderung zu verstärken;
+
 - 6\. die interkantonale Zusammenarbeit zu fördern.
 
 <sup>2</sup> Die Erhaltung der natürlichen Lebensgrundlagen und die Ausgewogenheit zwischen Wirtschaftsstandort sowie Wohn- und Lebensraum Nidwalden sind bei der Umsetzung der Massnahmen zu berücksichtigen.
@@ -62,11 +69,16 @@ beschliesst:
 <sup>1</sup> Leistungen der Wirtschaftsförderung werden nur ausgerichtet, wenn:
 
 - 1\. eine ausreichende Beteiligung aufgrund anderer Erlasse nicht oder nicht in genügendem Umfang möglich ist;
+
 - 2\. die Mittel privater Initiative nicht ausreichen und nicht genügend anderweitige Hilfe zur Verfügung steht.
 
 <sup>2</sup> Auf Leistungen nach diesem Gesetz besteht kein Rechtsanspruch.
 
-## 2 Regionalpolitik
+[^3-1]: Fassung gemäss Landratsbeschluss vom 26. Mai 2010, A 2010, 975, 1575; in Kraft seit 1. September 2010
+
+### II. REGIONALPOLITIK
+
+[^3-1]
 
 #### Art. 4
 
@@ -114,12 +126,13 @@ beschliesst:
 
 <sup>1</sup> Gesuche für Leistungen sind mit den erforderlichen Unterlagen bei der Geschäftsstelle des Entwicklungsträgers einzureichen, welche diese mit dem Antrag des Entwicklungsträgers an die Direktion weiterleitet. Diese kann ergänzende Unterlagen verlangen und weitere Abklärungen treffen.
 
-<sup>2</sup> Über die Gewährung von Leistungen entscheidet:
+<sup>2</sup> Über die Gewährung von Leistungen entscheidet:[^8-1] 1. die Direktion, wenn die Beiträge und Darlehen des Kantons zusammen höchstens Fr. 50‘000.- betragen;
 
-- 1\. die Direktion, wenn die Beiträge und Darlehen des Kantons zusammen höchstens Fr. 50'000.– betragen;
-- 2\. der Regierungsrat, wenn die Beiträge und Darlehen des Kantons zusammen Fr. 50'000.– überschreiten.
+- 2\. der Regierungsrat, wenn die Beiträge und Darlehen des Kantons zusammen Fr. 50‘000.- überschreiten.
 
-<sup>3</sup> Die zuständige Instanz gemäss Abs. 2 kann, insbesondere bei interkantonalen Projekten, Vereinbarungen abschliessen und darin namentlich das Verfahren regeln.
+<sup>3</sup> Die zuständige Instanz gemäss Abs. 2 kann, insbesondere bei interkantonalen Projekten, Vereinbarungen abschliessen und darin namentlich das Verfahren regeln.[^8-1]
+
+[^8-1]: Fassung gemäss Landratsbeschluss vom 23. September 2015, A 2015, 1503, 2102; in Kraft seit 1. Januar 2016
 
 #### Art. 9
 
@@ -130,12 +143,13 @@ beschliesst:
 <sup>2</sup> Die dem Kanton zustehenden Darlehensrückzahlungen werden zugunsten der Investitionsrechnung verbucht.
 
 [^9-1]: NG 511.1
+[^9-2]: Fassung gemäss Landratsbeschluss vom 26. Mai 2010, A 2010, 975, 1575; in Kraft seit 1. September 2010
 
-#### Art. 10–13
+#### Art. 10
 
-**…**
+**-13[^9-2]**
 
-## 3 Massnahmen der Wirtschaftsförderung
+### III. MASSNAHMEN DER WIRTSCHAFTSFÖRDERUNG
 
 #### Art. 14
 
@@ -146,23 +160,31 @@ beschliesst:
 <sup>2</sup> Die Kontaktstelle hat insbesondere:
 
 - 1\. im Hinblick auf einen einfachen und beschleunigten Verfahrensgang die Verfahren der Verwaltung zu koordinieren;
+
 - 2\. zwischen Unternehmen und der Verwaltung zu vermitteln;
+
 - 3\. Unterstützung an Unternehmen bei der Realisierung von zukunftsorientierten Projekten zu vermitteln;
+
 - 4\. Unternehmen zu beraten und zu betreuen.
 
 <sup>3</sup> Die Kontaktstelle kann von anderen kantonalen und kommunalen Amtsstellen Auskünfte über hängige Verwaltungsverfahren einholen.
 
 #### Art. 15
 
-**Beratung von Unternehmen 1. Beiträge**
+**Beratung von Unternehmen**
+
+### 1. Beiträge
 
 <sup>1</sup> Der Kanton kann zur Umsetzung von zukunftsorientierten Projekten finanzielle Beiträge für die Beratung und fachliche Unterstützung von Unternehmen durch Dritte gewähren.
 
 <sup>2</sup> Zukunftsorientiert sind insbesondere Projekte, die:
 
 - 1\. bestehende Produktions- und Managementmethoden modernisieren;
+
 - 2\. Produkte und Dienstleistungen entwickeln und verbessern;
+
 - 3\. neuartige Lösungen anbieten für Produktionsprozesse oder für den Marktzutritt;
+
 - 4\. auf strukturelle Reformen ausgerichtet sind.
 
 #### Art. 16
@@ -177,7 +199,7 @@ beschliesst:
 
 **Vermittlung von Investoren**
 
-<sup>1</sup> Die zuständige Direktion errichtet und unterhält ein Informationssystem zur Vermittlung von Risikokapital an Unternehmen zur Umsetzung von Projekten.
+Die zuständige Direktion errichtet und unterhält ein Informationssystem zur Vermittlung von Risikokapital an Unternehmen zur Umsetzung von Projekten.
 
 #### Art. 18
 
@@ -188,7 +210,9 @@ beschliesst:
 <sup>2</sup> Der Kanton kann:
 
 - 1\. die Verwaltungskosten von Bürgschaftsgenossenschaften teilweise übernehmen;
+
 - 2\. sich zur teilweisen Übernahme von Verlusten aus Bürgschaften gegenüber Bürgschaftsgenossenschaften verpflichten;
+
 - 3\. sich an Bürgschaftsgenossenschaften beteiligen.
 
 #### Art. 19
@@ -199,15 +223,20 @@ beschliesst:
 
 <sup>2</sup> Der Kanton kann Beiträge an gemeinsame Standortpromotionen im Ausland für die Wirtschaftsstandorte Zentralschweiz und Schweiz gewähren.
 
+[^19-1]: Fassung gemäss Landratsbeschluss vom 30. Mai 2007, A 2007, 887, 1463; in Kraft seit 1. September 2007
+
 #### Art. 19a
 
-**Flugplatz**
+**Flugplatz[^19-1]**
 
 <sup>1</sup> Der Kanton kann zur Sicherstellung eines zivilen Flugbetriebes auf dem Flugplatz Buochs:
 
 - 1\. Beiträge und Darlehen an den Betrieb des Flugplatzes leisten;
+
 - 2\. Beiträge und Darlehen an Investitionen für den Flugbetrieb leisten;
+
 - 3\. Infrastrukturanlagen erwerben, veräussern, erstellen oder zur Verfügung stellen;
+
 - 4\. Grundstücke erwerben, veräussern oder zur Verfügung stellen.
 
 <sup>2</sup> Die Gewährung von Beiträgen an einen konzessionierten Regionalflugplatz oder eine Beteiligung sind ausgeschlossen.
@@ -216,21 +245,21 @@ beschliesst:
 
 **Koordination der Wirtschaftsförderung**
 
-<sup>1</sup> Der Kanton fördert die Koordination der Wirtschaftsförderungsmassnahmen von Korporationen, Gemeinden, Kanton und Region.
+Der Kanton fördert die Koordination der Wirtschaftsförderungsmassnahmen von Korporationen, Gemeinden, Kanton und Region.
 
 #### Art. 21
 
 **Internationale Zusammenarbeit**
 
-<sup>1</sup> Der Kanton kann sich an Projekten zur internationalen Zusammenarbeit der Regionen beteiligen.
+Der Kanton kann sich an Projekten zur internationalen Zusammenarbeit der Regionen beteiligen.
 
 #### Art. 22
 
 **Finanzierung**
 
-<sup>1</sup> Der Landrat beschliesst mit dem Voranschlag die Kredite zur Gewährung von Beiträgen an Massnahmen zur Wirtschaftsförderung.
+Der Landrat beschliesst mit dem Voranschlag die Kredite zur Gewährung von Beiträgen an Massnahmen zur Wirtschaftsförderung.
 
-## 4 Verfahren und Vollzug
+### IV. VERFAHREN UND VOLLZUG
 
 #### Art. 23
 
@@ -244,13 +273,13 @@ beschliesst:
 
 **Bedingungen und Auflagen**
 
-<sup>1</sup> Leistungen des Kantons können mit Bedingungen und Auflagen zur Sicherstellung der ordentlichen Verwendung der Mittel verbunden werden.
+Leistungen des Kantons können mit Bedingungen und Auflagen zur Sicherstellung der ordentlichen Verwendung der Mittel verbunden werden.
 
 #### Art. 25
 
 **Wirtschaftsförderungsprogramme des Bundes**
 
-<sup>1</sup> Die zuständige Direktion vollzieht die Wirtschaftsförderungsprogramme des Bundes. Sie koordiniert den Vollzug, soweit die Programme in die sachliche Zuständigkeit einer anderen Direktion fallen.
+Die zuständige Direktion vollzieht die Wirtschaftsförderungsprogramme des Bundes. Sie koordiniert den Vollzug, soweit die Programme in die sachliche Zuständigkeit einer anderen Direktion fallen.
 
 #### Art. 26
 
@@ -260,37 +289,43 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat erlässt die zum Vollzug erforderlichen Ausführungsbestimmungen.
 
+[^26-1]: Fassung gemäss Landratsbeschluss vom 27. Juni 2001, A 2001, 935, 1252; in Kraft seit 1. Januar 2002
+
 #### Art. 26a
 
-**Gebühren**
+**Gebühren[^26-1]**
 
-<sup>1</sup> Beim Vollzug dieses Gesetzes werden keine Gebühren erhoben.
+Beim Vollzug dieses Gesetzes werden keine Gebühren erhoben.
+
+[^26a-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 27
 
-**Rechtsmittel**
+**Rechtsmittel[^26a-1]**
 
-<sup>1</sup> Der Regierungsrat entscheidet im Bereich der Regionalpolitik als letzte kantonale Instanz. Die Rechtsmittel des Bundes richten sich nach Art. 23 des Bundesgesetzes über Regionalpolitik[^27-1].
+Der Regierungsrat entscheidet im Bereich der Regionalpolitik als letzte kantonale Instanz. Die Rechtsmittel des Bundes richten sich nach Art. 23 des Bundesgesetzes über Regionalpolitik[^27-1].
 
 [^27-1]: SR 901.1
 
-## 5 Schlussbestimmungen
+### V. SCHLUSSBESTIMMUNGEN
 
 #### Art. 28
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Erlasse werden aufgehoben:
+Folgende Erlasse werden aufgehoben:
 
 - 1\. das Einführungsgesetz vom 30. April 1978 zur Bundesgesetzgebung über Investitionshilfe für Berggebiete[^28-1];
+
 - 2\. der Landratsbeschluss vom 22. März 1995 über die Erhöhung des Finanzierungsbeitrages des Kantons betreffend die Investitionshilfeleistungen für Berggebiete[^28-2].
 
 [^28-1]: A 1978, 816
 [^28-2]: A 1995, 633
+[^28-3]: Fassung gemäss Landratsbeschluss vom 26. Mai 2010, A 2010, 975, 1575; in Kraft seit 1. September 2010
 
 #### Art. 28a
 
-**Übergangsbestimmungen**
+**Übergangsbestimmungen[^28-3]**
 
 <sup>1</sup> Für die bestehenden Investitionshilfedarlehen gelten bis zu deren vollständigen Rückzahlungen das Bundesgesetz vom 21. März 1997 über Investitionshilfen für Berggebiete (IHG)[^28a-1] sowie die eidgenössischen und kantonalen Ausführungsbestimmungen[^28a-2] dazu.
 
@@ -305,8 +340,4 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum; es ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
 
-<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^29-1].
-
-[^29-1]: In Kraft seit 1. Januar 2000
-
-A 1999, 1473, A 2000, 75
+<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
