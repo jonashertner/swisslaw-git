@@ -5,44 +5,47 @@ title: Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung 
 short: VPTI
 language: de
 version: 2021-02-02
+corrected: 2021-10-27
 version_adopted: 2019-11-15
 adopted: 2019-11-15
 in_force: 2021-02-02
 url: "https://gesetze.nw.ch/app/de/texts_of_law/912.6"
-pdf: "https://gesetze.nw.ch/api/de/versions/745/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/472/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz
+# Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz (VPTI)
 
-(VPTI)
+vom 15. November 2019<sup>1</sup>
 
-vom 15.11.2019 (Stand 02.02.2021)
+Die Kantone, handelnd durch ihre Justiz- und Polizeidirektorinnen beziehungsweise -direktoren, und der Bund, handelnd durch die Vorsteherin des Eidgenössischen Justiz- und Polizeidepartements (EJPD),
 
-Die Kantone, handelnd durch ihre Justiz- und Polizeidirektorinnen beziehungsweise ‑direktoren, und der Bund, handelnd durch die Vorsteherin des Eidgenössischen Justiz- und Polizeidepartements (EJPD),
+mit dem Ziel, die Polizeitechnik und -informatik (PTI) zu harmonisieren,
 
-mit dem Ziel, die Polizeitechnik und ‑informatik (PTI) zu harmonisieren,
+mit der Absicht, im Rahmen eines Programms PTI Neues gemeinsam zu realisieren und Bestehendes schrittweise anzugleichen,
 
-mit der Absicht, im Rahmen eines Programms PTI Neues gemeinsam zu realisieren und Bestehendes schrittweise anzugleichen, mit dem Bestreben, polizeiliche Fachanwendungen und Systeme sowie deren Schnittstellen zu Dritten gemeinsam und aufeinander abgestimmt zu planen, zu beschaffen, zu implementieren, weiterzuentwickeln und zu betreiben,
+mit dem Bestreben, polizeiliche Fachanwendungen und Systeme sowie deren Schnittstellen zu Dritten gemeinsam und aufeinander abgestimmt zu planen, zu beschaffen, zu implementieren, weiterzuentwickeln und zu betreiben,
 
 mit der Absicht, dabei den Datenschutz und den Informationsschutz sicherzustellen,
 
 schliessen folgende Vereinbarung:
 
-## 1 Allgemeine Bestimmungen
+I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Gegenstand der Vereinbarung**
 
-<sup>1</sup> Diese Vereinbarung regelt die Zusammenarbeit zwischen den Kantonen, die Partei dieser Vereinbarung sind, sowie zwischen diesen Kantonen und den beteiligten Bundesstellen im Bereich der Polizeitechnik und ‑informatik (PTI).
+<sup>1</sup> Diese Vereinbarung regelt die Zusammenarbeit zwischen den Kantonen, die Partei dieser Vereinbarung sind, sowie zwischen diesen Kantonen und den beteiligten Bundesstellen im Bereich der Polizeitechnik und -informatik (PTI).
 
 <sup>2</sup> Sie regelt insbesondere die Gründung und die Arbeitsweise der Körperschaft «PTI Schweiz».
 
 <sup>3</sup> Zur PTI gehören insbesondere:
 
 - a. polizeiliche Einsatzmittel;
+
 - b. Informatiklösungen, die insbesondere der Kommunikation sowie der gemeinsamen Verwaltung und dem Austausch von Daten zur Erfüllung von Polizeiaufgaben und damit verwandten öffentlichen Aufgaben dienen.
 
 #### Art. 2
@@ -54,9 +57,10 @@ schliessen folgende Vereinbarung:
 <sup>2</sup> PTI Schweiz und ihre Partner, insbesondere die Parteien dieser Vereinbarung, sorgen für die gegenseitige Information und die gegenseitige Abstimmung der Tätigkeiten, insbesondere was Beschaffungstätigkeiten, die Informatikarchitektur, den Datenschutz und die Informationssicherheit betrifft. Zu diesem Zweck sorgen sie insbesondere dafür, dass ihre Behörden aller Stufen sowie die Organe von PTI Schweiz:
 
 - a. einander frühzeitig über laufende und über geplante Vorhaben informieren;
+
 - b. geplante und laufende Vorhaben auf ihre Relevanz für die betroffenen Anwendungen und Systeme von PTI Schweiz sowie von Bund und Kantonen prüfen und bei der Führung eigener Projekte die Interessen der anderen Stellen berücksichtigen.
 
-## 2 Körperschaft PTI Schweiz
+### II. KÖRPERSCHAFT PTI SCHWEIZ
 
 #### Art. 3
 
@@ -71,6 +75,7 @@ schliessen folgende Vereinbarung:
 <sup>4</sup> Sie kann ihre Produkte gestützt auf Vereinbarungen weiteren Nutzern zur Verfügung stellen, nämlich:
 
 - a. schweizerischen Gemeinwesen sowie dem Fürstentum Liechtenstein und deren gemeinsamen Organisationen;
+
 - b. dezentralen Verwaltungseinheiten der Gemeinwesen nach Buchstabe a sowie Privaten, die zur Erfüllung von Polizeiaufgaben beigezogen werden oder denen polizeinahe öffentliche Aufgaben übertragen sind, soweit diese die Produkte für die Erfüllung ihrer gesetzlichen Aufgaben benötigen.
 
 <sup>5</sup> Sie verfolgt ausschliesslich öffentliche Interessen zugunsten der Gemeinwesen.
@@ -84,11 +89,17 @@ schliessen folgende Vereinbarung:
 <sup>1</sup> Die Organe von PTI Schweiz sind:
 
 - a. die strategische Versammlung;
+
 - b. der strategische Ausschuss;
+
 - c. die operative Versammlung;
+
 - d. der operative Ausschuss;
+
 - e. der Leistungserbringer;
+
 - f. die Fachgruppen;
+
 - g. die Revisionsstelle.
 
 <sup>2</sup> Bei der Besetzung der Organe ist darauf Rücksicht zu nehmen, dass die Landesgegenden und Sprachregionen angemessen vertreten sind.
@@ -106,6 +117,7 @@ schliessen folgende Vereinbarung:
 <sup>3</sup> Jedes Aufsichtsorgan kann insbesondere:
 
 - a. zur Erfüllung seiner eigenen Aufgaben die untergeordneten Organe mit Vorarbeiten beauftragen;
+
 - b. den untergeordneten Organen Weisungen über die Erfüllung ihrer eigenen Aufgaben erteilen.
 
 <sup>4</sup> Das beaufsichtigte Organ kann seinem Aufsichtsorgan Anträge stellen.
@@ -122,7 +134,7 @@ schliessen folgende Vereinbarung:
 
 <sup>1</sup> Die strategische Versammlung ist das oberste Organ von PTI Schweiz.
 
-<sup>2</sup> Ihre Mitglieder sind die kantonalen Justiz- und Polizeidirektorinnen und ‑direktoren, deren Kantone Parteien dieser Vereinbarung sind, die Vorsteherin oder der Vorsteher des EJPD sowie die Präsidentin oder der Präsident der Konferenz der Städtischen Sicherheitsdirektorinnen und ‑direktoren (KSSD).
+<sup>2</sup> Ihre Mitglieder sind die kantonalen Justiz- und Polizeidirektorinnen und -direktoren, deren Kantone Parteien dieser Vereinbarung sind, die Vorsteherin oder der Vorsteher des EJPD sowie die Präsidentin oder der Präsident der Konferenz der Städtischen Sicherheitsdirektorinnen und - direktoren (KSSD).
 
 <sup>3</sup> Die strategische Versammlung wählt ihre Präsidentin oder ihren Präsidenten und die Vizepräsidentin oder den Vizepräsidenten.
 
@@ -134,9 +146,12 @@ schliessen folgende Vereinbarung:
 
 <sup>2</sup> Er besteht aus:
 
-- a. zwei Mitgliedern der Konferenz der kantonalen Justiz- und Polizeidirektorinnen und ‑direktoren (KKJPD);
+- a. zwei Mitgliedern der Konferenz der kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD);
+
 - b. der Generalsekretärin oder dem Generalsekretär der KKJPD;
-- c. zwei Vertreterinnen oder Vertretern der Konferenz der kantonalen Polizeikommandantinnen und ‑kommandanten (KKPKS);
+
+- c. zwei Vertreterinnen oder Vertretern der Konferenz der kantonalen Polizeikommandantinnen und -kommandanten (KKPKS);
+
 - d. je einer Vertreterin oder einem Vertreter des EJPD, des Eidgenössischen Finanzdepartements (EFD) und des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS).
 
 <sup>3</sup> Die strategische Versammlung wählt die kantonalen Mitglieder sowie die Präsidentin oder den Präsidenten und die Vizepräsidentin oder den Vizepräsidenten. Der Bundesrat wählt die Vertreterinnen und Vertreter des Bundes.
@@ -150,9 +165,13 @@ schliessen folgende Vereinbarung:
 <sup>2</sup> Ihre Mitglieder sind:
 
 - a. die Kommandantinnen und Kommandanten der Kantonspolizeien, deren Kantone Parteien dieser Vereinbarung sind;
+
 - b. die Kommandantin oder der Kommandant der Stadtpolizei Zürich, sofern der Kanton Zürich Partei dieser Vereinbarung ist;
+
 - c. die Präsidentin oder der Präsident der Schweizerischen Vereinigung Städtischer Polizeichefs (SVSP);
+
 - d. die Direktorin oder der Direktor des Schweizerischen Polizei-Instituts (SPI);
+
 - e. die Direktorinnen oder Direktoren des Bundesamts für Polizei (fedpol), des Bundesamts für Bevölkerungsschutz (BABS) und der Eidgenössischen Zollverwaltung (EZV).
 
 <sup>3</sup> Hat dieselbe Person zwei Rollen nach Absatz 2, vertritt sie in der operativen Versammlung nur eine von beiden Behörden. Die strategische Versammlung wählt eine andere Person zur Vertretung der anderen Behörde.
@@ -170,14 +189,23 @@ schliessen folgende Vereinbarung:
 <sup>3</sup> Er setzt sich zusammen aus:
 
 - a. der Präsidentin oder dem Präsidenten; sie oder er muss Mitglied der KKPKS sein;
+
 - b. einer Finanzexpertin oder einem Finanzexperten;
+
 - c. einer Juristin oder einem Juristen.
+
 - d. je einer Vertreterin oder einem Vertreter:
-  - 1\. der Polizeikonkordate Concordat de coopération policière de Suisse romande et du Tessin (CCPC RBT), Polizeikonkordat Nordwestschweiz (PKNW), Zentralschweizer Polizeikonkordat (ZPK) und Polizeikonkordat der Ostschweizer Polizeikorps (ostpol),
-  - 2\. der Kantone Bern, Zürich und Tessin,
-  - 3\. der Stadt Zürich,
-  - 4\. der Schweizerischen Vereinigung Städtischer Polizeichefs (SVSP),
-  - 5\. des Programms Harmonisierung der Informatik in der Strafjustiz (HIS).
+
+- 1\. der Polizeikonkordate Concordat de coopération policière de Suisse romande et du Tessin (CCPC RBT), Polizeikonkordat Nordwestschweiz (PKNW), Zentralschweizer Polizeikonkordat (ZPK) und Polizeikonkordat der Ostschweizer Polizeikorps (ostpol),
+
+- 2\. der Kantone Bern, Zürich und Tessin,
+
+- 3\. der Stadt Zürich,
+
+- 4\. der Schweizerischen Vereinigung Städtischer Polizeichefs (SVSP),
+
+- 5\. des Programms Harmonisierung der Informatik in der Strafjustiz (HIS).
+
 - e. je einer Vertreterin oder einem Vertreter des EJPD, des EFD und des VBS.
 
 <sup>4</sup> Die Mitglieder nach Absatz 3 Buchstaben b und c können Privatpersonen sein.
@@ -200,15 +228,13 @@ schliessen folgende Vereinbarung:
 
 **Revisionsstelle**
 
-<sup>1</sup> Die Revisionsstelle führt eine ordentliche Revision unter sinngemässer Anwendung der diesbezüglichen Vorschriften des Obligationenrechts[^11-1]. durch.
+<sup>1</sup> Die Revisionsstelle führt eine ordentliche Revision unter sinngemässer Anwendung der diesbezüglichen Vorschriften des Obligationenrechts<sup>2</sup> durch.
 
 <sup>2</sup> Sie wird von der strategischen Versammlung gewählt.
 
 <sup>3</sup> Wenn möglich wird die Finanzkontrolle einer Partei dieser Vereinbarung gewählt.
 
 <sup>4</sup> Die Wiederwahl ist zulässig.
-
-[^11-1]: SR 220
 
 #### Art. 12
 
@@ -224,7 +250,9 @@ schliessen folgende Vereinbarung:
 
 #### Art. 13
 
-**Beschlussfassung in den Versammlungen und Ausschüssen**
+**Beschlussfassung in den Versammlungen und**
+
+### Ausschüssen
 
 <sup>1</sup> In der strategischen Versammlung entfallen auf jeden Kanton zwei Stimmen. Die Vorsteherin oder der Vorsteher des EJPD und die Präsidentin oder der Präsident der KSSD haben je eine Stimme. In der operativen Versammlung und in beiden Ausschüssen hat jedes Mitglied eine Stimme.
 
@@ -237,6 +265,7 @@ schliessen folgende Vereinbarung:
 <sup>5</sup> Bei Entscheiden der Versammlungen über ein Produkt sind nach dem folgenden Zeitpunkt nur diejenigen Mitglieder stimmberechtigt, deren Gemeinwesen sich am Produkt beteiligen:
 
 - a. bei Produkten von nationaler und strategischer Bedeutung: nach der Verabschiedung des Projektauftrags;
+
 - b. bei den übrigen Produkten: nach dem Abschluss der Vorstudien.
 
 <sup>6</sup> An der Beschlussfassung über Produkte, an denen der Bund sich nicht beteiligt, nehmen seine Vertreterinnen und Vertreter in allen Organen nur mit beratender Stimme teil, und das EJPD kann einen Entscheid nicht nach Absatz 4 ablehnen.
@@ -256,9 +285,13 @@ schliessen folgende Vereinbarung:
 <sup>2</sup> Das Geschäftsreglement und das Finanzreglement enthalten die notwendigen Bestimmungen namentlich zu den folgenden Gegenständen:
 
 - a. Organisation, Aufgaben, Zuständigkeiten und Verantwortlichkeiten der einzelnen Organe;
+
 - b. Verhältnis zwischen den Organen (Art. 5);
+
 - c. Einberufung und Traktandierung von Versammlungen und Ausschüssen;
+
 - d. internes Kontrollsystem (IKS) und Risikomanagement;
+
 - e. Budgetierung, Finanzplan und überjährige Finanzierungen.
 
 #### Art. 15
@@ -271,7 +304,7 @@ schliessen folgende Vereinbarung:
 
 <sup>3</sup> Die zur Vertretung befugten Personen sowie die Mitglieder beider Ausschüsse werden ins Handelsregister eingetragen.
 
-## 3 Strategische Führung
+### III. STRATEGISCHE FÜHRUNG
 
 #### Art. 16
 
@@ -283,7 +316,7 @@ schliessen folgende Vereinbarung:
 
 <sup>4</sup> Der strategische Ausschuss sorgt dafür, dass die für politische und strategische Entscheide dienlichen Informationen aus dem Bereich von PTI Schweiz den zuständigen Stellen zur Verfügung stehen.
 
-## 4 Projekte sowie Produkte und deren Bezug
+### IV. PROJEKTE SOWIE PRODUKTE UND DEREN BEZUG
 
 #### Art. 17
 
@@ -309,7 +342,9 @@ schliessen folgende Vereinbarung:
 
 #### Art. 19
 
-**Entwicklung, Lancierung und Durchführung von Projekten**
+**Entwicklung, Lancierung und Durchführung von**
+
+### Projekten
 
 <sup>1</sup> Der Leistungserbringer entwickelt gestützt auf den Masterplan oder einen Auftrag des operativen Ausschusses mögliche Projekte und erarbeitet entsprechende Vorstudien als Entscheidgrundlage.
 
@@ -318,9 +353,10 @@ schliessen folgende Vereinbarung:
 <sup>3</sup> Die Versammlung, die für den Entscheid über die Lancierung eines Projekts zuständig ist, legt mit nach Artikel 13 Absatz 5 eingeschränktem Stimmrecht die Bedingungen fest für:
 
 - a. die Teilnahme der Gemeinwesen am Projekt einschliesslich der Bedingungen für den nachträglichen Einstieg in ein Projekt und den Ausstieg aus einem Projekt;
+
 - b. den Bezug von Produkten und dessen Beendigung.
 
-<sup>4</sup> Der jeweilige Ausschuss setzt eine Einzelperson als Projektauftraggeberin oder ‑auftraggeber ein. Diese Person untersteht der Aufsicht durch den Ausschuss.
+<sup>4</sup> Der jeweilige Ausschuss setzt eine Einzelperson als Projektauftraggeberin oder -auftraggeber ein. Diese Person untersteht der Aufsicht durch den Ausschuss.
 
 <sup>5</sup> Für die Durchführung der Projekte sowie das Entwickeln, Beschaffen und Zurverfügungstellen der Produkte ist der Leistungserbringer zuständig.
 
@@ -330,7 +366,7 @@ schliessen folgende Vereinbarung:
 
 <sup>8</sup> Der Leistungserbringer unternimmt frühzeitig die nötigen Schritte, um eine Zusammenarbeit der Datenschutzaufsichtsstellen von Bund und Kantonen im Rahmen des für die Parteien anwendbaren Rechts zu unterstützen.
 
-## 5 Finanzen
+### V. FINANZEN
 
 #### Art. 20
 
@@ -343,7 +379,9 @@ schliessen folgende Vereinbarung:
 <sup>3</sup> Über den allgemeinen Voranschlag wird insbesondere Folgendes finanziert:
 
 - a. die nicht an ein Produkt gebundenen Aufgaben des Leistungserbringers;
+
 - b. Vorstudien zu Projekten;
+
 - c. die Initialisierungsphase bei Projekten von nationaler und strategischer Bedeutung; diese endet mit der Verabschiedung des Projektauftrags.
 
 #### Art. 21
@@ -353,6 +391,7 @@ schliessen folgende Vereinbarung:
 <sup>1</sup> Jede Partei dieser Vereinbarung leistet einen jährlichen Beitrag an die über den allgemeinen Voranschlag finanzierten Kosten. Dieser wird von der strategischen Versammlung nach den folgenden Regeln festgelegt:
 
 - a. Der Bund trägt 30 Prozent der Kosten.
+
 - b. Die Kantone tragen gesamthaft 70 Prozent der Kosten; die Beiträge der Kantone werden im Verhältnis ihrer im Zeitpunkt der Festlegung bekannten ständigen Wohnbevölkerung festgelegt.
 
 <sup>2</sup> Mit Leistungsbezügern ohne Parteistatus (Art. 18) wird ein Beitrag an die allgemeinen Kosten von PTI Schweiz vereinbart, der der Belastung der Organe, insbesondere des Leistungserbringers, durch das Produkt entspricht. Die Beiträge der Parteien nach Absatz 1 reduzieren sich in diesem Umfang.
@@ -364,6 +403,7 @@ schliessen folgende Vereinbarung:
 <sup>1</sup> Die für den Entscheid über die Lancierung eines Projekts zuständige Versammlung (Art. 19 Abs. 2) legt mit nach Artikel 13 Absatz 5 eingeschränktem Stimmrecht Folgendes fest:
 
 - a. den Schlüssel, nach dem die Kosten des Produkts auf die Teilnehmer des Projekts und die Leistungsbezüger verteilt werden;
+
 - b. die Regeln zur Bemessung der Einkaufsbeiträge von nachträglich eintretenden Projektteilnehmern und von Leistungsbezügern, die nicht am Projekt zur Einführung des Produkts beteiligt waren.
 
 <sup>2</sup> Massgebend für die Festlegung des Verteilschlüssels und der Einkaufsbeiträge ist der Nutzen des betreffenden Produkts für die Beteiligten.
@@ -374,7 +414,7 @@ schliessen folgende Vereinbarung:
 
 **Gewinn und Vermögen**
 
-<sup>1</sup> PTI Schweiz strebt keinen Gewinn an und baut Vermögen nur so weit auf, als es notwendig ist, um den dauerhaften Betrieb zu finanzieren und die Liquidität sicherzustellen.
+PTI Schweiz strebt keinen Gewinn an und baut Vermögen nur so weit auf, als es notwendig ist, um den dauerhaften Betrieb zu finanzieren und die Liquidität sicherzustellen.
 
 #### Art. 24
 
@@ -386,21 +426,22 @@ schliessen folgende Vereinbarung:
 
 <sup>3</sup> Für jedes an einem Produkt teilnehmende Gemeinwesen wird in der Bilanz pro Produkt ein eigenes Konto geführt. Gutschriften aus Einkaufsbeiträgen (Art. 21 Abs. 2) werden auf diesen Konten verbucht. Über allfällige Guthaben entscheidet jedes Gemeinwesen gemäss seinem Recht.
 
-<sup>4</sup> Die Rechnungslegung richtet sich nach einem der anerkannten Standards zur Rechnungslegung nach Art. 962a des Obligationenrechts[^24-1].
+<sup>4</sup> Die Rechnungslegung richtet sich nach einem der anerkannten Standards zur Rechnungslegung nach Art. 962a des Obligationenrechts<sup>2</sup>.
 
 <sup>5</sup> Das Geschäftsjahr ist das Kalenderjahr.
 
-[^24-1]: SR 220
-
-## 6 Anwendbares Recht
+### VI. ANWENDBARES RECHT
 
 #### Art. 25
 
 <sup>1</sup> Auf die mit dem Betrieb von PTI Schweiz verbundenen Rechtsfragen ist unter Vorbehalt der Absätze 4 und 5 kantonales bernisches Recht anwendbar, insbesondere betreffend:
 
 - a. Datenschutz, Öffentlichkeit der Verwaltung, Informationsschutz und Archivierung;
+
 - b. öffentliche Beschaffungen;
+
 - c. Arbeitsverhältnisse und damit verbundene Fragen wie die berufliche Vorsorge;
+
 - d. Haftung.
 
 <sup>2</sup> Für die Behörden der beteiligten Gemeinwesen richtet sich die Beurteilung von Zugangsgesuchen zu amtlichen Dokumenten, die sie zuhanden von PTI Schweiz erstellt haben oder die ihnen als Hauptadressaten zugestellt wurden, nach der jeweils anwendbaren Gesetzgebung über die Öffentlichkeit der Verwaltung.
@@ -409,18 +450,17 @@ schliessen folgende Vereinbarung:
 
 <sup>4</sup> Wird Personal von einem Gemeinwesen gestellt, so bleibt auf die Arbeitsverhältnisse und die damit verbundenen Fragen unter Vorbehalt von Artikel 10 Absatz 3 dessen Recht anwendbar.
 
-<sup>5</sup> Für Staatshaftungsansprüche nach bernischem Recht haftet PTI Schweiz mit ihrem Vermögen. Die Ausfallhaftung des Kantons Bern (Art. 101 Abs. 2 des bernischen Personalgesetzes vom 16. Sept. 2004[^25-1]) gilt nicht; an ihre Stelle treten die Beitragsverpflichtungen nach dieser Vereinbarung.
+<sup>5</sup> Für Staatshaftungsansprüche nach bernischem Recht haftet PTI Schweiz mit ihrem Vermögen. Die Ausfallhaftung des Kantons Bern (Art. 101 Abs. 2 des bernischen Personalgesetzes vom 16. Sept. 2004<sup>3</sup>) gilt nicht; an ihre Stelle treten die Beitragsverpflichtungen nach dieser Vereinbarung.
 
 <sup>6</sup> Sieht das bernische Recht einen Entscheid durch Verfügung vor, so erlässt diese:
 
 - a. bei Beschaffungen: der Leistungserbringer;
+
 - b. in den übrigen Fällen: der operative Ausschuss.
 
 <sup>7</sup> Verfügungen nach Absatz 6 können beim Verwaltungsgericht des Kantons Bern angefochten werden; im Übrigen gilt das Verfahrensrecht des Kantons Bern.
 
-[^25-1]: BSG 153.01
-
-## 7 Schlussbestimmungen
+### VII. SCHLUSSBESTIMMUNGEN
 
 #### Art. 26
 
@@ -428,11 +468,9 @@ schliessen folgende Vereinbarung:
 
 <sup>1</sup> Diese Vereinbarung steht allen Kantonen und dem Bund zur Unterzeichnung offen.
 
-<sup>2</sup> Sie kann in Kraft treten, nachdem der Bund sowie mindestens 18 Kantone sie unterzeichnet haben. Die strategische Versammlung legt das Datum des Inkrafttretens fest[^26-1].
+<sup>2</sup> Sie kann in Kraft treten, nachdem der Bund sowie mindestens 18 Kantone sie unterzeichnet haben. Die strategische Versammlung legt das Datum des Inkrafttretens fest.
 
 <sup>3</sup> Artikel 28 Absätze 2 und 3 tritt mit dem Erreichen des Quorums nach Absatz 2 in Kraft.
-
-[^26-1]: Vom Landrat genehmigt am 25. November 2020; in Kraft seit 2. Februar 2021
 
 #### Art. 27
 
@@ -455,14 +493,18 @@ schliessen folgende Vereinbarung:
 <sup>4</sup> Beschliesst der Verein HPI Applikationen seine Auflösung und die Übertragung seines Vermögens auf PTI Schweiz, so:
 
 - a. übernimmt diese es vollständig;
+
 - b. führt diese die im Verein geführten Produkte weiter;
+
 - c. werden die vorhandenen Vermögenswerte den Produkten sowie den daran beteiligten Gemeinwesen gemäss der bisherigen Regelung im Verein zugeordnet.
 
 <sup>5</sup> Die Regeln nach Absatz 4 gelten, solange die für den Entscheid über die Lancierung eines Projekts zuständige Versammlung nichts anderes beschliesst.
 
 #### Art. 29
 
-**Weitergeführter Bezug von Produkten von HPI ohne Unterzeichnung dieser Vereinbarung**
+**Weitergeführter Bezug von Produkten von HPI ohne**
+
+### Unterzeichnung dieser Vereinbarung
 
 <sup>1</sup> Ein Leistungsbezüger, der im Verein HPI Applikationen vertreten ist oder sich an bestehenden Projekten des Vereins beteiligt oder bestehende Produkte des Vereins bezieht, diese Vereinbarung aber im Zeitpunkt ihres Inkrafttretens nicht unterzeichnet hat, kann sich während zwei Jahren ohne Abschluss einer Nutzungsvereinbarung nach dieser Vereinbarung (Art. 3 Abs. 4 und Art. 18) weiterhin an den bisherigen Produkten beteiligen.
 
@@ -502,11 +544,13 @@ schliessen folgende Vereinbarung:
 
 **Auflösung von PTI Schweiz**
 
-<sup>1</sup> Wird diese Vereinbarung aufgelöst, so liquidiert der operative Ausschuss PTI Schweiz und lässt die Organisation im Handelsregister löschen.
+Wird diese Vereinbarung aufgelöst, so liquidiert der operative Ausschuss PTI Schweiz und lässt die Organisation im Handelsregister löschen.
 
 #### Art. 34
 
-**Finanzielle Folgen des Austritts und der Auflösung von PTI Schweiz**
+**Finanzielle Folgen des Austritts und der Auflösung von**
+
+### PTI Schweiz
 
 <sup>1</sup> Beim Austritt einer Partei aus dieser Vereinbarung sowie bei der Auflösung von PTI Schweiz werden geleistete Beiträge nicht zurückerstattet.
 
@@ -515,18 +559,26 @@ schliessen folgende Vereinbarung:
 <sup>3</sup> Bei der Auflösung von PTI Schweiz wird:
 
 - a. das positive oder negative Liquidationsergebnis für jedes Produkt gesondert ermittelt und gemäss dem entsprechenden Schlüssel (Art. 22 Abs. 1) unter den Projektteilnehmern beziehungsweise Leistungsbezügern aufgeteilt;
+
 - b. das verbleibende positive oder negative Gesamtergebnis gemäss dem Schlüssel für die Beiträge an die allgemeinen Kosten (Art. 21 Abs. 1) unter den Parteien dieser Vereinbarung aufgeteilt.
 
 #### Art. 35
 
-**Weitergeführter Bezug von Produkten nach dem Austritt**
+**Weitergeführter Bezug von Produkten nach dem**
 
-<sup>1</sup> Für ausgetretene Parteien gelten in Bezug auf die Beteiligung an Projekten und den Bezug von Produkten die Regeln für Leistungsbezüger ohne Parteistatus (Art. 18 und Art. 19 Abs. 3).
+### Austritt
+
+Für ausgetretene Parteien gelten in Bezug auf die Beteiligung an Projekten und den Bezug von Produkten die Regeln für Leistungsbezüger ohne Parteistatus (Art. 18 und Art. 19 Abs. 3).
 
 #### Art. 36
 
 **Streitbeilegung**
 
-<sup>1</sup> Streitigkeiten unter Parteien dieser Vereinbarung, Projektteilnehmern und Leistungsbezügern ohne Parteistatus und PTI Schweiz werden nach Möglichkeit durch Verhandlung und Vermittlung beigelegt (Art. 44 Abs. 3 der Bundesverfassung).
+Streitigkeiten unter Parteien dieser Vereinbarung, Projektteilnehmern und Leistungsbezügern ohne Parteistatus und PTI Schweiz werden nach Möglichkeit durch Verhandlung und Vermittlung beigelegt (Art. 44 Abs. 3 der Bundesverfassung).
 
-A 2020, 2346, 2348; A 2021, 489
+## Weitere Fussnoten
+
+- [1] A 2020, 2348; vom Landrat genehmigt am 25. November 2020; A 2020, 2346; A 2021,
+- [489] ; in Kraft seit 2. Februar 2021
+- [2] SR 220
+- [3] BSG 153.01
