@@ -5,31 +5,31 @@ title: Einführungsgesetz zum Gesetz über die Familienzulagen
 short: "Kantonales Familienzulagengesetz, kFamZG"
 language: de
 version: 2021-01-01
-valid_until: 2024-12-31
+corrected: 2021-10-27
 version_adopted: 2019-06-26
 adopted: 2008-06-25
 in_force: 2009-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/762.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/711/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/340/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zum Gesetz über die Familienzulagen
+# Einführungsgesetz zum Gesetz über die Familienzulagen (Kantonales Familienzulagengesetz, kFamZG)
 
-(Kantonales Familienzulagengesetz, kFamZG)
-
-vom 25.06.2008 (Stand 01.01.2021)
+vom 25. Juni 2008[^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 26, 29 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 24. März 2006 über die Familienzulagen (Familienzulagengesetz, FamZG)[^ingress-1],
+gestützt auf Art. 26, 29 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 24. März 2006 über die Familienzulagen (Familienzulagengesetz, FamZG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: SR 836.2
+[^t-1]: A 2008, 1411, 1845
+[^t-2]: SR 836.2
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -40,9 +40,14 @@ beschliesst:
 <sup>2</sup> Dieses Gesetz regelt:
 
 - 1\. die Arten und die Höhe der Familienzulagen;
-- 2\. …
+
+- 2\. …;[^1-1]
+
 - 3\. die Zuständigkeiten und die Organisation;
+
 - 4\. die Finanzierung und den Lastenausgleich.
+
+[^1-1]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
 
 #### Art. 2
 
@@ -60,7 +65,7 @@ beschliesst:
 
 <sup>2</sup> Die Familienausgleichskassen sind befugt, den Steuerbehörden im Einzelfall Auskunft über Beiträge und Leistungen zu erteilen.
 
-## 2 Unterstellung und Kassenzugehörigkeit
+### II. UNTERSTELLUNG UND KASSENZUGEHÖRIGKEIT
 
 #### Art. 4
 
@@ -70,9 +75,11 @@ beschliesst:
 
 <sup>2</sup> Die Familienausgleichskasse Nidwalden kann mit anderen Kantonen oder ausserkantonalen Familienausgleichskassen für die Unterstellung von Zweigniederlassungen abweichende Regelungen vereinbaren.
 
+[^4-1]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
+
 #### Art. 5
 
-**…**
+**…[^4-1]**
 
 #### Art. 6
 
@@ -80,27 +87,31 @@ beschliesst:
 
 <sup>1</sup> Diesem Gesetz unterstellte natürliche und juristische Personen haben einer Familienausgleichskasse beizutreten.
 
-<sup>2</sup> Gehören die Arbeitgeberinnen, Arbeitgeber oder Selbständigerwerbenden einer AHV-Ausgleichskasse gemäss Artikel 64 AHVG[^6-1] an, und führt diese Kasse eine Familienausgleichskasse, haben sie sich dieser Familienausgleichskasse anzuschliessen.
+<sup>2</sup> Gehören die Arbeitgeberinnen, Arbeitgeber oder Selbständigerwerbenden einer AHV-Ausgleichskasse gemäss Artikel 64 AHVG[^6-1] an, und führt diese Kasse eine Familienausgleichskasse, haben sie sich dieser Familienausgleichskasse anzuschliessen.[^6-2]
 
 <sup>3</sup> Der Familienausgleichskasse Nidwalden werden angeschlossen:
 
 - 1\. alle Arbeitgeberinnen und Arbeitgeber sowie Selbständigerwerbenden, die nicht einer anderen von einer AHV-Ausgleichskasse geführten Familienausgleichskasse angehören;
+
 - 2\. Nichterwerbstätige;
-- 3\. Kanton, Gemeinden, öffentlich-rechtliche Betriebe und Anstalten sowie übrige Körperschaften des öffentlichen Rechts .
+
+- 3\. Kanton, Gemeinden, öffentlich-rechtliche Betriebe und Anstalten sowie übrige Körperschaften des öffentlichen Rechts.[^6-2]
 
 <sup>4</sup> Die Familienausgleichskasse Nidwalden kontrolliert die Kassenzugehörigkeit.
 
 [^6-1]: SR 831.10
+[^6-2]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
 
-## 3 Familienzulagen
+### III. FAMILIENZULAGEN
 
 #### Art. 7
 
 **Arten der Familienzulagen**
 
-<sup>1</sup> Es werden folgende Familienzulagen ausbezahlt:
+Es werden folgende Familienzulagen ausbezahlt:
 
 - 1\. Kinderzulage;
+
 - 2\. Ausbildungszulage.
 
 #### Art. 8
@@ -109,13 +120,14 @@ beschliesst:
 
 <sup>1</sup> Die Kinderzulage beträgt monatlich Fr. 240.–.
 
-<sup>2</sup> Die Ausbildungszulage beträgt monatlich Fr. 290.–.
+<sup>2</sup> Die Ausbildungszulage beträgt monatlich Fr. 290.–.[^8-1]
 
-<sup>3</sup> Bei einer Anpassung der Mindestansätze gemäss Art. 5 Abs. 3 FamZG[^8-1] erhöht der Regierungsrat die kantonalen Ansätze im gleichen Verhältnis auf denselben Zeitpunkt.
+<sup>3</sup> Bei einer Anpassung der Mindestansätze gemäss Art. 5 Abs. 3 FamZG[^8-2] erhöht der Regierungsrat die kantonalen Ansätze im gleichen Verhältnis auf denselben Zeitpunkt.
 
 <sup>4</sup> Die kantonalen Ansätze können auch unabhängig von einer Anpassung der Mindestansätze gemäss Art. 5 Abs. 3 FamZG erhöht werden.
 
-[^8-1]: SR 836.2
+[^8-1]: Fassung gemäss Landratsbeschluss vom 26. Juni 2019, A 2019, 1091, A 2020, 2029; in Kraft seit 1. Januar 2021
+[^8-2]: SR 836.2
 
 #### Art. 9
 
@@ -123,9 +135,10 @@ beschliesst:
 
 <sup>1</sup> Haben mehrere Personen für das gleiche Kind Anspruch auf Familienzulagen nach eidgenössischem oder kantonalem Recht, richtet sich der Anspruch nach Art. 7 FamZG[^9-1].
 
-<sup>2</sup> …
+<sup>2</sup> ...[^9-2]
 
 [^9-1]: SR 836.2
+[^9-2]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
 
 #### Art. 10
 
@@ -133,20 +146,24 @@ beschliesst:
 
 <sup>1</sup> Die Kinder- und Ausbildungszulagen an Arbeitnehmerinnen und Arbeitnehmer werden nach den Weisungen der zuständigen Familienausgleichskasse durch die Arbeitgeberinnen und Arbeitgeber ausbezahlt.
 
-<sup>2</sup> Die Kinder- und Ausbildungszulagen an Selbständigerwerbende und Nichterwerbstätige werden direkt durch die zuständige Familienausgleichkasse ausbezahlt.
+<sup>2</sup> Die Kinder- und Ausbildungszulagen an Selbständigerwerbende und Nichterwerbstätige werden direkt durch die zuständige Familienausgleichkasse ausbezahlt.[^10-1]
 
-## 4 Organisation
+[^10-1]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
+
+### IV. ORGANISATION
 
 #### Art. 11
 
 **Familienausgleichskasse Nidwalden**
 
-<sup>1</sup> Unter dem Namen «Familienausgleichskasse Nidwalden» besteht die kantonale Familienausgleichskasse als öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit mit Sitz in Stans.
+<sup>1</sup> Unter dem Namen „Familienausgleichskasse Nidwalden“ besteht die kantonale Familienausgleichskasse als öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit mit Sitz in Stans.
 
 <sup>2</sup> Die Organe der Familienausgleichskasse Nidwalden sind:
 
 - 1\. die Aufsichtskommission;
+
 - 2\. die Direktion;
+
 - 3\. die Revisionsstelle.
 
 <sup>3</sup> Die Geschäftsführung der Familienausgleichskasse Nidwalden ist der Ausgleichskasse Nidwalden übertragen. Die Organe der Ausgleichskasse Nidwalden sind zugleich die Organe der Familienausgleichskasse Nidwalden.
@@ -159,14 +176,14 @@ beschliesst:
 
 **Andere Familienausgleichskassen**
 
-<sup>1</sup> Andere Familienausgleichkassen sind Familienausgleichskassen im Sinne von Art. 14 lit. c FamZG[^12-1]. Diese müssen gleichermassen Arbeitgeberinnen und Arbeitgebern sowie Selbständigerwerbenden offen stehen und jeweils eine einheitliche Solidargemeinschaft bilden.
+<sup>1</sup> Andere Familienausgleichkassen sind Familienausgleichskassen im Sinne von Art. 14 lit. c FamZG[^12-1]. Diese müssen gleichermassen Arbeitgeberinnen und Arbeitgebern sowie Selbständigerwerbenden offen stehen und jeweils eine einheitliche Solidargemeinschaft bilden.[^12-2]
 
-<sup>2</sup> Familienausgleichskassen gemäss Art. 14 lit. a FamZG[^12-2] werden nicht anerkannt.
+<sup>2</sup> Familienausgleichskassen gemäss Art. 14 lit. a FamZG[^12-1] werden nicht anerkannt.
 
 <sup>3</sup> Abrechnungsstellen können anerkannt werden.
 
 [^12-1]: SR 836.2
-[^12-2]: SR 836.2
+[^12-2]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
 
 #### Art. 13
 
@@ -175,17 +192,26 @@ beschliesst:
 <sup>1</sup> Den Familienausgleichskassen obliegt die Durchführung dieses Gesetzes. Sie haben insbesondere folgende Aufgaben:
 
 - 1\. Bezug der Beiträge;
+
 - 2\. Festsetzung und Auszahlung der Familienzulagen;
+
 - 3\. Abrechnung über die bezogenen Beiträge und die ausbezahlten Familienzulagen;
-- 4\. Führung einer gemeinsamen Rechnung über die gesetzlichen Leistungen der Familienzulagenordnung für die Arbeitnehmerinnen, Arbeitnehmer und Selbständigerwerbenden;
+
+4.[^13-1] Führung einer gemeinsamen Rechnung über die gesetzlichen Leistungen der Familienzulagenordnung für die Arbeitnehmerinnen, Arbeitnehmer und Selbständigerwerbenden;
+
 - 5\. Entscheid über die Anerkennung von Abrechnungsstellen;
+
 - 6\. Führung einer gesonderten Rechnung für die anerkannten Abrechnungsstellen.
 
 <sup>2</sup> Die Familienausgleichskasse Nidwalden hat zudem folgende Aufgaben:
 
 - 1\. regelmässige Information der Bevölkerung über die Leistungen nach diesem Gesetz;
-- 2\. Führung einer gesonderten Rechnung über die gesetzlichen Leistungen der Familienzulagenordnung für die Nichterwerbstätigen;
+
+2.[^13-1] Führung einer gesonderten Rechnung über die gesetzlichen Leistungen der Familienzulagenordnung für die Nichterwerbstätigen;
+
 - 3\. Verbindungsstelle bei internationalen Verhältnissen.
+
+[^13-1]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
 
 #### Art. 14
 
@@ -204,6 +230,7 @@ beschliesst:
 <sup>2</sup> Die Aufsichtskommission ist zuständig für:
 
 - 1\. die Entgegennahme der Jahresrechnungen sowie der Geschäfts- und Revisionsberichte der Familienausgleichskassen;
+
 - 2\. die Überwachung und jährliche Kontrolle der Familienausgleichskassen.
 
 <sup>3</sup> Der Regierungsrat erlässt Bestimmungen betreffend die Anlage des Vermögens, die Berichterstattung, die Rechnungsablage und die Revision der Familienausgleichskassen.
@@ -212,40 +239,45 @@ beschliesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Die Familienausgleichskassen stellen der Familienausgleichskasse Nidwalden unentgeltlich die geprüfte Jahresrechnung und die notwendigen statistischen Angaben zu.
+Die Familienausgleichskassen stellen der Familienausgleichskasse Nidwalden unentgeltlich die geprüfte Jahresrechnung und die notwendigen statistischen Angaben zu.
 
 #### Art. 17
 
 **Steuerbefreiung**
 
-<sup>1</sup> Die Familienausgleichskassen sind von den kantonalen und kommunalen Steuern befreit.
+Die Familienausgleichskassen sind von den kantonalen und kommunalen Steuern befreit.
 
-## 5 Finanzierung und Lastenausgleich
+### V. FINANZIERUNG UND LASTENAUSGLEICH
 
 #### Art. 18
 
-**Finanzierung der Familienzulagen 1. für Arbeitnehmerinnen und Arbeitnehmer**
+**Finanzierung der Familienzulagen**
 
-<sup>1</sup> Die Zulagen für die Arbeitnehmerinnen und Arbeitnehmer sowie für die Selbständigerwerbenden werden durch die diesem Gesetz unterstellten Arbeitgeberinnen und Arbeitgeber sowie die Selbständigerwerbenden gemeinsam finanziert. Der Beitragssatz beträgt höchstens 3.0 Prozent des AHV-pflichtigen Einkommens. Das massgebende Einkommen aus selbständiger Erwerbstätigkeit wird von den kantonalen Steuerbehörden analog der AHV-Gesetzgebung (Art. 9 AHVG[^18-1]) ermittelt und den Familienausgleichskassen gemeldet.
+### 1. für Arbeitnehmerinnen und Arbeitnehmer
 
-<sup>2</sup> Arbeitnehmerinnen und Arbeitnehmer nicht beitragspflichtiger Arbeitgeber gemäss Art. 12 Abs. 3 FamZG[^18-2] leisten Beiträge auf ihrem AHV-pflichtigen Einkommen mit dem Beitragssatz gemäss Abs. 4.
+<sup>1</sup> Die Zulagen für die Arbeitnehmerinnen und Arbeitnehmer sowie für die Selbständigerwerbenden werden durch die diesem Gesetz unterstellten Arbeitgeberinnen und Arbeitgeber sowie die Selbständigerwerbenden gemeinsam finanziert. Der Beitragssatz beträgt höchstens 3.0 Prozent des AHV-pflichtigen Einkommens. Das massgebende Einkommen aus selbständiger Erwerbstätigkeit wird von den kantonalen Steuerbehörden analog der AHV-Gesetzgebung (Art. 9 AHVG[^h1fürArbeitnehmeri-1] ermittelt und den Familienausgleichskassen gemeldet.[^h1fürArbeitnehmeri-2]
 
-<sup>3</sup> Die Familienausgleichskassen legen die Höhe des Beitragssatzes fest. Sie dürfen für Arbeitgeberinnen und Arbeitgeber sowie Selbständigerwerbende keine unterschiedlichen Beiträge festlegen. Sie berücksichtigen dabei ihren Bedarf für die Familienzulagen, für die Äufnung der Schwankungsreserven, für die Deckung der Verwaltungskosten sowie für allfällige Zahlungen an den Lastenausgleich.
+<sup>2</sup> Arbeitnehmerinnen und Arbeitnehmer nicht beitragspflichtiger Arbeitgeber gemäss Art. 12 Abs. 3 FamZG[^h1fürArbeitnehmeri-3] leisten Beiträge auf ihrem AHVpflichtigen Einkommen mit dem Beitragssatz gemäss Abs. 4.
+
+<sup>3</sup> Die Familienausgleichskassen legen die Höhe des Beitragssatzes fest. Sie dürfen für Arbeitgeberinnen und Arbeitgeber sowie Selbständigerwerbende keine unterschiedlichen Beiträge festlegen. Sie berücksichtigen dabei ihren Bedarf für die Familienzulagen, für die Äufnung der Schwankungsreserven, für die Deckung der Verwaltungskosten sowie für allfällige Zahlungen an den Lastenausgleich.[^h1fürArbeitnehmeri-2]
 
 <sup>4</sup> Für die Familienausgleichskasse Nidwalden legt der Regierungsrat den Beitragssatz fest. Er kann diesen auf höchstens 2.0 Prozent des AHV-pflichtigen Einkommens festlegen.
 
-[^18-1]: SR 831.10
-[^18-2]: SR 836.2
+[^h1fürArbeitnehmeri-1]: SR 831.10
+[^h1fürArbeitnehmeri-2]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
+[^h1fürArbeitnehmeri-3]: SR 836.2
 
 #### Art. 19
 
-**…**
+**…[^h1fürArbeitnehmeri-2]**
+
+[^19-1]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
 
 #### Art. 20
 
-**2. für Nichterwerbstätige**
+**2.[^19-1] für Nichterwerbstätige**
 
-<sup>1</sup> Der Kanton finanziert die Familienzulagen für Nichterwerbstätige und trägt die Durchführungskosten.
+Der Kanton finanziert die Familienzulagen für Nichterwerbstätige und trägt die Durchführungskosten.
 
 #### Art. 21
 
@@ -259,16 +291,24 @@ beschliesst:
 
 **Reserven der Familienausgleichskasse Nidwalden**
 
-<sup>1</sup> Übersteigen die Reserven der Familienausgleichskasse Nidwalden 60 Prozent eines durchschnittlichen Jahresaufwandes oder sinken die Reserven auf unter 20 Prozent eines durchschnittlichen Jahresaufwandes, schlägt die Familienausgleichskasse Nidwalden dem Regierungsrat eine Anpassung des Beitragssatzes vor.
+Übersteigen die Reserven der Familienausgleichskasse Nidwalden 60 Prozent eines durchschnittlichen Jahresaufwandes oder sinken die Reserven auf unter 20 Prozent eines durchschnittlichen Jahresaufwandes, schlägt die Familienausgleichskasse Nidwalden dem Regierungsrat eine Anpassung des Beitragssatzes vor.
 
 #### Art. 23
 
-**Lastenausgleich 1. Grundsatz**
+**Lastenausgleich**
 
-<sup>1</sup> Alle im Kanton tätigen Familienausgleichskassen beteiligen sich am Lastenausgleich. Dieser berücksichtigt:
+[^23-1]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
+
+### 1. Grundsatz
+
+[^23-1]
+
+Alle im Kanton tätigen Familienausgleichskassen beteiligen sich am Lastenausgleich. Dieser berücksichtigt:
 
 - 1\. die beitragspflichtigen jährlichen Lohnsummen der Arbeitnehmerinnen und Arbeitnehmer;
+
 - 2\. die beitragspflichtigen jährlichen Einkommenssummen der Selbständigerwerbenden; und
+
 - 3\. die jährlich ausgerichteten Familienzulagen für Arbeitnehmerinnen, Arbeitnehmer und Selbständigerwerbende.
 
 #### Art. 24
@@ -277,42 +317,50 @@ beschliesst:
 
 <sup>1</sup> Für den Lastenausgleich ist das Verhältnis zwischen dem durchschnittlichen Risikosatz aller am Lastenausgleich beteiligten Familienausgleichskassen und dem individuellen Risikosatz der einzelnen Familienausgleichskasse massgebend.
 
-<sup>2</sup> Der in Prozenten ausgedrückte, durchschnittliche Risikosatz bestimmt sich nach dem Quotienten aus dem Total der gemäss dem gesetzlichen Umfang geleisteten Familienzulagen aller Familienausgleichskassen über dem Total aller beitragspflichtigen Lohn- und Einkommenssummen.
+<sup>1</sup> Der in Prozenten ausgedrückte, durchschnittliche Risikosatz bestimmt sich nach dem Quotienten aus dem Total der gemäss dem gesetzlichen Umfang geleisteten Familienzulagen aller Familienausgleichskassen über dem Total aller beitragspflichtigen Lohn- und Einkommenssummen.[^24-1]
 
-<sup>3</sup> Der Risikosatz der einzelnen Familienausgleichskassen ergibt sich aus dem Quotienten aus den von ihr ausbezahlten Familienzulagen über der beitragspflichtigen Lohn- und Einkommenssumme.
+<sup>2</sup> Der Risikosatz der einzelnen Familienausgleichskassen ergibt sich aus dem Quotienten aus den von ihr ausbezahlten Familienzulagen über der beitragspflichtigen Lohn- und Einkommenssumme.[^24-1]
+
+[^24-1]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
 
 #### Art. 25
 
 **3. Verfahren**
 
-<sup>1</sup> Weicht der individuelle Risikosatz einer Familienausgleichskasse vom durchschnittlichen Risikosatz aller Familienausgleichskassen ab, erhält oder zahlt sie einen Ausgleich im Betrag der Differenz dieser beiden Sätzen auf ihre Lohn- und Einkommenssumme.
+<sup>1</sup> Weicht der individuelle Risikosatz einer Familienausgleichskasse vom durchschnittlichen Risikosatz aller Familienausgleichskassen ab, erhält oder zahlt sie einen Ausgleich im Betrag der Differenz dieser beiden Sätzen auf ihre Lohn- und Einkommenssumme.[^25-1]
 
-<sup>2</sup> Der Ausgleich ist über die Familienausgleichskasse Nidwalden abzurechnen. Die Familienausgleichskassen haben dieser bis spätestens 31. März des folgenden Jahres die Lohn- und Einkommenssummen sowie die ausbezahlten Familienzulagen auszuweisen.
+<sup>2</sup> Der Ausgleich ist über die Familienausgleichskasse Nidwalden abzurechnen. Die Familienausgleichskassen haben dieser bis spätestens 31. März des folgenden Jahres die Lohn- und Einkommenssummen sowie die ausbezahlten Familienzulagen auszuweisen.[^25-1]
 
-<sup>3</sup> Die Zahlungen in den Lastenausgleich sind 30 Tage nach der Rechnungsstellung fällig. Mit der Fälligkeit ist ein Verzugszins gemäss Art. 26 ATSG[^25-1] beziehungsweise Art. 41<sup>bis</sup> ff. der Verordnung über die Alters- und Hinterlassenenversicherung (AHVV)[^25-2] geschuldet.
+<sup>3</sup> Die Zahlungen in den Lastenausgleich sind 30 Tage nach der Rechnungsstellung fällig. Mit der Fälligkeit ist ein Verzugszins gemäss Art. 26 ATSG[^25-2] beziehungsweise Art. 41bis ff. der Verordnung über die Alters- und Hinterlassenenversicherung (AHVV)[^25-3] geschuldet.
 
-[^25-1]: SR 830.1
-[^25-2]: SR 831.101
+[^25-1]: Fassung gemäss Landratsbeschluss vom 26. September 2012; A 2012, 1472, 1915; in Kraft seit 1. Januar 2013
+[^25-2]: SR 830.1
+[^25-3]: SR 831.101
 
 #### Art. 26
 
 **Auflösung einer Familienausgleichskasse**
 
-<sup>1</sup> Bei Auflösung einer Familienausgleichskasse fällt das Vermögen nach Massgabe der Beitragsleistungen nach diesem Gesetz anteilsmässig an die Familienausgleichskassen, welche die Mitglieder übernehmen.
+Bei Auflösung einer Familienausgleichskasse fällt das Vermögen nach Massgabe der Beitragsleistungen nach diesem Gesetz anteilsmässig an die Familienausgleichskassen, welche die Mitglieder übernehmen.
 
-## 6 Übergangs- und Schlussbestimmungen
+### VI. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 27
 
 **Anwendbarkeit der AHV-Gesetzgebung**
 
-<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, gelten sinngemäss die Bestimmungen des Bundesgesetzes über die Alters- und Hinterlassenenversicherung[^27-1], insbesondere für:
+Soweit dieses Gesetz nichts anderes bestimmt, gelten sinngemäss die Bestimmungen des Bundesgesetzes über die Alters- und Hinterlassenenversicherung[^27-1], insbesondere für:
 
 - 1\. Beiträge;
+
 - 2\. Nachzahlungen;
+
 - 3\. Meldungen der Steuerbehörden;
+
 - 4\. Kassenzugehörigkeit;
+
 - 5\. Kassenwechsel;
+
 - 6\. Kassenhaftung.
 
 [^27-1]: SR 831.10
@@ -321,7 +369,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
 
 #### Art. 29
 
@@ -335,7 +383,7 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Gesetz vom 13. März 2002 über die Familienzulagen (Familienzulagengesetz)[^30-1] wird aufgehoben.
+Das Gesetz vom 13. März 2002 über die Familienzulagen (Familienzulagengesetz)[^30-1] wird aufgehoben.
 
 [^30-1]: A 2002, 391, 1178
 
@@ -346,5 +394,3 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
 <sup>2</sup> Es tritt auf den 1. Januar 2009 in Kraft.
-
-A 2008, 1411, 1845
