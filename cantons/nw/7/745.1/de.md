@@ -5,36 +5,34 @@ title: Einführungsgesetz zum Bundesgesetz über die Arbeitsvermittlung und den 
 short: "Kantonales Arbeitsvermittlungsgesetz, kAVG"
 language: de
 version: 2016-01-01
+corrected: 2021-10-27
 version_adopted: 2015-05-27
 adopted: 2001-02-07
 in_force: 2001-06-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/745.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/716/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/329/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zum Bundesgesetz über die Arbeitsvermittlung und den Personalverleih
+# Einführungsgesetz zum Bundesgesetz über die Arbeitsvermittlung und den Personalverleih (Kantonales Arbeitsvermittlungsgesetz, kAVG)
 
-(Kantonales Arbeitsvermittlungsgesetz, kAVG)
+vom 07. Februar 2001[^t-2][^t-1]
 
-vom 07.02.2001 (Stand 01.01.2016)
+Der Landrat von Nidwalden, gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 6. Oktober 1989 über die Arbeitsvermittlung und den Personalverleih (Arbeitsvermittlungsgesetz, AVG)[^t-3], beschliesst:
 
-Der Landrat von Nidwalden,
+[^t-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+[^t-2]: A 2001, 207, 653; in Kraft seit 1. Juni 2001
+[^t-3]: SR 823.11
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 6. Oktober 1989 über die Arbeitsvermittlung und den Personalverleih (Arbeitsvermittlungsgesetz, AVG)[^ingress-1],
-
-beschliesst:
-
-[^ingress-1]: SR 823.11
-
-## 1 Private Arbeitsvermittlung und Personalverleih
+### I. PRIVATE ARBEITSVERMITTLUNG UND PERSONALVERLEIH
 
 #### Art. 1
 
 **Zuständigkeit**
 
-<sup>1</sup> Das kantonale Arbeitsamt vollzieht die Vorschriften über die private Arbeitsvermittlung und den Personalverleih.
+Das kantonale Arbeitsamt vollzieht die Vorschriften über die private Arbeitsvermittlung und den Personalverleih.
 
 #### Art. 2
 
@@ -44,43 +42,50 @@ beschliesst:
 
 <sup>2</sup> Die Höhe der Kaution wird gemäss den Bestimmungen der eidgenössischen Arbeitsvermittlungsgesetzgebung bemessen.
 
-## 2 Öffentliche Arbeitsvermittlung
+### II. ÖFFENTLICHE ARBEITSVERMITTLUNG
 
 #### Art. 3
 
 **Zuständigkeit**
 
-<sup>1</sup> Das kantonale Arbeitsamt vollzieht die Vorschriften über die öffentliche Arbeitsvermittlung, soweit durch die Gesetzgebung keine andere Vollzugsbehörde bestimmt wird.
+Das kantonale Arbeitsamt vollzieht die Vorschriften über die öffentliche Arbeitsvermittlung, soweit durch die Gesetzgebung keine andere Vollzugsbehörde bestimmt wird.
+
+**1**
+
+Stand: 1. Januar 2016
 
 #### Art. 4
 
 **Beiträge**
 
-<sup>1</sup> Der Kanton kann Massnahmen der Arbeitsvermittlung, die der Verhinderung von Arbeitslosigkeit oder der Eingliederung von Personen in den Erwerbsprozess dienen, durch Beiträge fördern.
+Der Kanton kann Massnahmen der Arbeitsvermittlung, die der Verhinderung von Arbeitslosigkeit oder der Eingliederung von Personen in den Erwerbsprozess dienen, durch Beiträge fördern.
 
-## 3 Rechtsschutz und Schlussbestimmungen
+### III. RECHTSSCHUTZ UND SCHLUSSBESTIMMUNGEN
+
+[^hIIIRECHTSSCHUTZUN-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 5
 
-**…**
+**…[^hIIIRECHTSSCHUTZUN-1]**
 
 #### Art. 6
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen.
 
 #### Art. 7
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:
+Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:
 
-- 1\. das Einführungsgesetz vom 27. April 1969 zur Bundesgesetzgebung über die Arbeitsvermittlung[^7-1];
+- 1\. das Einführungsgesetz vom 27. April 1969 zur Bundesgesetzgebung über die Arbeitsvermittlung[^7-1],
+
 - 2\. die Vollziehungsverordnung vom 3. April 1970 zum Einführungsgesetz zur Bundesgesetzgebung über die Arbeitsvermittlung[^7-2].
 
 [^7-1]: A 1960, 519
-[^7-2]: A 1970, 594, 925
+[^7-2]: A 1970, 594,925
 
 #### Art. 8
 
@@ -90,6 +95,4 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^8-1] fest.
 
-[^8-1]: In Kraft seit 1. Juni 2001
-
-A 2001, 207, 653
+[^8-1]: A 2001, 207, 653; in Kraft seit 1. Juni 2001
