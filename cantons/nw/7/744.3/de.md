@@ -4,29 +4,32 @@ number: "744.3"
 title: Vereinbarung über eine gemeinsame öffentliche Arbeitslosenkasse der Kantone Obwalden und Nidwalden
 language: de
 version: 2011-11-01
+corrected: 2021-10-27
 version_adopted: 2011-10-18
 adopted: 1999-12-07
 in_force: 2000-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/744.3"
-pdf: "https://gesetze.nw.ch/api/de/versions/717/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/328/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vereinbarung über eine gemeinsame öffentliche Arbeitslosenkasse der Kantone Obwalden und Nidwalden
 
-vom 07.12.1999 (Stand 01.11.2011)
+vom 6./7. Dezember 1999[^t-1]
 
 Die Kantone Obwalden und Nidwalden,
 
-in Ausführung von Artikel 77 bis 82 des Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung vom 25. Juni 1982 (Arbeitslosenversicherungsgesetz, AVIG)[^ingress-1] sowie Artikel 103 ff. der Verordnung über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung vom 31. August 1983 (Arbeitslosenversicherungsverordnung, AVIV)[^ingress-2],
+in Ausführung von Artikel 77 bis 82 des Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung vom 25. Juni 1982 (Arbeitslosenversicherungsgesetz, AVIG)[^t-2] sowie Artikel 103 ff. der Verordnung über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung vom 31. August 1983 (Arbeitslosenversicherungsverordnung, AVIV)[^t-3],
 
 vereinbaren:
 
-[^ingress-1]: SR 837.0
-[^ingress-2]: SR 837.02
+[^t-1]: A 1999, 1981; vom Landrat genehmigt am 15. Dezember 1999; A 1999, A 2000, 250; vom Bund genehmigt am 19. Januar 2000
+[^t-2]: SR 837.0
+[^t-3]: SR 837.02
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -53,7 +56,7 @@ vereinbaren:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Arbeitslosenkasse steht allen versicherten Einwohnerinnen und Einwohnern der Kantone Obwalden und Nidwalden offen. Ferner können die in den beiden Kantonen gelegenen Betriebe für alle betroffenen Arbeitnehmerinnen und Arbeitnehmer unabhängig von deren Wohnsitz, die Ausrichtung der Kurzarbeits- und Schlechtwetterentschädigung beanspruchen. Sie ist auch zuständig für die Auszahlung der Insolvenzentschädigung[^3-1].
+Die Arbeitslosenkasse steht allen versicherten Einwohnerinnen und Einwohnern der Kantone Obwalden und Nidwalden offen. Ferner können die in den beiden Kantonen gelegenen Betriebe für alle betroffenen Arbeitnehmerinnen und Arbeitnehmer unabhängig von deren Wohnsitz, die Ausrichtung der Kurzarbeits- und Schlechtwetterentschädigung beanspruchen. Sie ist auch zuständig für die Auszahlung der Insolvenzentschädigung[^3-1].
 
 [^3-1]: Art. 53 Abs. 1 AVIG
 
@@ -64,54 +67,71 @@ vereinbaren:
 <sup>1</sup> Die Arbeitslosenkasse vollzieht im Auftrag der beiden Kantone folgende Aufgaben nach Art. 81 AVIG[^4-1]:
 
 - a) sie klärt die Anspruchsberechtigung ab, soweit diese Aufgabe nicht ausdrücklich einer anderen Stelle vorbehalten ist;
+
 - b) sie stellt die Versicherten in den Fällen von Art. 30 Abs. 1 AVIG in der Anspruchsberechtigung ein, soweit diese Befugnis nicht nach Art. 30 Abs. 2 und 4 sowie Art. 81 Abs. 2 AVIG den kantonalen Amtsstellen des Wohnsitzkantons beziehungsweise gemäss einer Übertragung der Aufgaben gestützt auf Art. 85b AVIG dem regionalen Arbeitsvermittlungszentrum zusteht;
+
 - c) sie richtet die Leistungen aus;
+
 - d) sie verwaltet das Betriebskapital nach den Bestimmungen des Bundes;
+
 - e) sie legt periodisch Rechnung ab und erstattet den Geschäftsbericht zuhanden der Ausgleichsstelle;
+
 - f) sie erfüllt weitere ihr übertragene Aufgaben.
 
 <sup>2</sup> Zweifelsfälle gemäss Art. 81 Abs. 2 AVIG unterbreitet die Arbeitslosenkasse der kantonalen Amtsstelle des Wohnsitzkantons der versicherten Person zum Entscheid.
 
 [^4-1]: SR 837.0
 
-## 2 Organisation
+### II. ORGANISATION
 
 #### Art. 5
 
 **Organe**
 
-<sup>1</sup> Organe der Arbeitslosenkasse sind:
+Organe der Arbeitslosenkasse sind:
 
 - a) die Aufsichtskommission;
+
 - b) die Leitung der Arbeitslosenkasse.
 
 #### Art. 6
 
-**Aufsichtskommission a. Zusammensetzung**
+**Aufsichtskommission**
+
+- a. Zusammensetzung
 
 <sup>1</sup> Die Aufsichtskommission besteht aus:
 
 - a) einem von den beiden Regierungen gemeinsam bezeichneten Präsidenten oder einer Präsidentin;
+
 - b) den Vorstehern beziehungsweise Vorsteherinnen der zuständigen kantonalen Departemente;
+
 - c) den Vorstehern beziehungsweise Vorsteherinnen der kantonalen Arbeitsämter.
 
 <sup>2</sup> Die Aufsichtskommission gibt sich eine Geschäftsordnung. Der Leiter oder die Leiterin der Arbeitslosenkasse nimmt an den Sitzungen der Aufsichtskommission mit beratender Stimme teil. Das Sekretariat wird von der Arbeitslosenkasse geführt.
 
-#### Art. 7
+#### Art. 7 b
 
-**b. Aufgaben**
+**Aufgaben**
 
 <sup>1</sup> Die Aufsichtskommission führt die Aufsicht über die Arbeitslosenkasse. Ihr ist die Leitung der Arbeitslosenkasse unterstellt.
 
 <sup>2</sup> Sie ist insbesondere zuständig für:
 
 - a) die Organisation des Aufbaus und des Betriebs der Arbeitslosenkasse;
+
 - b) die Anstellung der Leitung sowie des nötigen Personals auf Vorschlag der Leitung;
+
 - c) die Genehmigung des Voranschlags, der Jahresrechnung und des Jahresberichts zuhanden der Ausgleichsstelle der Arbeitslosenversicherung;
+
 - d) den Beschluss über weitere Ausgaben, Anschaffungen und Investitionen, soweit nicht kantonale Vorschriften oder diese Vereinbarung etwas anderes vorsehen;
+
 - e) den Erlass von Weisungen für die Betriebsführung der Arbeitslosenkasse und die Bestimmung der Ausgabenbefugnis der Leitung der Arbeitslosenkasse;
+
 - f) die Zuweisung von weiteren Aufgaben an die Arbeitslosenkasse;
+
 - g) den Erlass nötiger Verfahrensvorschriften;
+
 - h) den Beizug von Dienststellen der kantonalen Verwaltungen für die Unterstützung der Arbeitslosenkasse sowie die Festsetzung der Entschädigung.
 
 <sup>3</sup> Die Aufsichtskommission kann einzelne ihrer Befugnisse an Ausschüsse, einzelne Mitglieder oder die Leitung der Arbeitslosenkasse übertragen.
@@ -125,16 +145,17 @@ vereinbaren:
 <sup>2</sup> Die Leitung und das Personal werden sinngemäss nach den Vorschriften des Personalrechtes des Kantons Nidwalden[^8-1] angestellt. Aufgaben, die nach dem Personalrecht des Kantons Nidwalden dem Landrat oder Regierungsrat zukommen, werden von der Aufsichtskommission wahrgenommen. Stellenausschreibungen erfolgen in beiden Kantonen.
 
 [^8-1]: NG 165
+[^8-2]: A 2011, 1419; vom Regierungsrat Obwalden genehmigt am 27. September 2011 und vom Regierungsrat Nidwalden genehmigt am 18. Oktober 2011; in Kraft seit 1. November 2011
 
 #### Art. 9
 
-**Rechtsmittel**
+**Rechtsmittel[^8-2]**
 
-<sup>1</sup> Beschwerden gegen Einspracheentscheide der Arbeitslosenkasse sind innert 30 Tagen seit Eröffnung schriftlich und begründet dem zuständigen Gericht nach Art. 58 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts[^9-1] einzureichen.
+Beschwerden gegen Einspracheentscheide der Arbeitslosenkasse sind innert 30 Tagen seit Eröffnung schriftlich und begründet dem zuständigen Gericht nach Art. 58 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts[^9-1] einzureichen.
 
 [^9-1]: SR 830.1
 
-## 3 Finanzierung
+### III. FINANZIERUNG
 
 #### Art. 10
 
@@ -150,22 +171,18 @@ vereinbaren:
 
 **Finanzkontrolle**
 
-<sup>1</sup> Die Prüfung der Jahresrechnung erfolgt durch die Finanzkontrolle des Kantons Obwalden, soweit die Prüfung nicht durch die Organe des Bundes erfolgt.
+Die Prüfung der Jahresrechnung erfolgt durch die Finanzkontrolle des Kantons Obwalden, soweit die Prüfung nicht durch die Organe des Bundes erfolgt.
 
-## 4 Übergangs- und Schlussbestimmungen
+### IV. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 12
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Vereinbarung werden alle hängigen Fälle der kantonalen Arbeitslosenkassen an die gemeinsame Arbeitslosenkasse übertragen.
+Mit dem Inkrafttreten dieser Vereinbarung werden alle hängigen Fälle der kantonalen Arbeitslosenkassen an die gemeinsame Arbeitslosenkasse übertragen.
 
 #### Art. 13
 
 **Inkrafttreten und Kündigung**
 
-<sup>1</sup> Diese Vereinbarung tritt unter dem Vorbehalt der Genehmigung durch den Bund[^13-1] auf den 1. Januar 2000 in Kraft und kann von den Kantonsregierungen unter Beachtung einer Kündigungsfrist von einem Jahr auf das Ende eines Kalenderjahres gekündigt werden, frühestens aber auf den 31. Dezember 2005.
-
-[^13-1]: Vom Bund genehmigt am 19. Januar 2000
-
-A 1999 1981; A 2000, 250
+Diese Vereinbarung tritt unter dem Vorbehalt der Genehmigung durch den Bund auf den 1. Januar 2000 in Kraft und kann von den Kantonsregierungen unter Beachtung einer Kündigungsfrist von einem Jahr auf das Ende eines Kalenderjahres gekündigt werden, frühestens aber auf den 31. Dezember 2005.
