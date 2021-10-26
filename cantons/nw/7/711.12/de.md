@@ -5,12 +5,12 @@ title: Vollzugsverordnung betreffend die Einschränkung der Zulassung zur Tätig
 short: "Zulassungseinschränkungsverordnung, ZEV"
 language: de
 version: 2021-07-01
-corrected: 2021-08-26
+corrected: 2021-10-27
 version_adopted: 2021-06-29
 adopted: 2019-09-17
 in_force: 2019-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/711.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/487/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/499/pdf_file"
 text: pdf
 ---
 
@@ -79,10 +79,7 @@ Stand: 1.Oktober 2019 3. die Fristverlängerungen gemäss Art. 55a Abs. 5 des Bu
 
 <sup>1</sup> Diese Verordnung tritt rückwirkend auf den 1. Juli 2019 in Kraft.
 
-<sup>2</sup> Sie gilt gestützt auf die Übergangsbestimmung zur Änderung vom 19. Juni 2020 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^4-1] längstens bis am 30. Juni 2023.
+<sup>2</sup> Sie gilt gestützt auf die Übergangsbestimmung zur Änderung vom 19. Juni 2020 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^4-1] längstens bis am 30. Juni 2023.[^4-2]
 
 [^4-1]: SR 832.10
-
-## Weitere Fussnoten
-
-- [5] Fassung gemäss Regierungsratsbeschluss vom 29. Juni 2021, A 2021, 1326; in Kraft seit 1. Juli 2021
+[^4-2]: Fassung gemäss Regierungsratsbeschluss vom 29. Juni 2021, A 2021, 1326; in Kraft seit 1. Juli 2021
