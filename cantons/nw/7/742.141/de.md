@@ -4,33 +4,32 @@ number: "742.141"
 title: Vertrag zwischen dem Kanton Nidwalden und der Einwohnergemeinde Seelisberg betreffend Abgeltung von Pflegeleistungen
 language: de
 version: 2011-01-01
+corrected: 2021-10-27
 version_adopted: 2011-09-27
 adopted: 2011-09-27
 in_force: 2011-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.141"
-pdf: "https://gesetze.nw.ch/api/de/versions/724/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/323/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vertrag zwischen dem Kanton Nidwalden und der Einwohnergemeinde Seelisberg betreffend Abgeltung von Pflegeleistungen
 
-vom 27.09.2011 (Stand 01.01.2011)
+vom 27. September 2011[^t-1]
 
-Der Regierungsrat von Nidwalden,
+Der Regierungsrat von Nidwalden, gestützt auf Art. 28e des Einführungsgesetzes vom 25. Oktober 2006 zum Bundesgesetz über die Krankenversicherung (Krankenversicherungsgesetz, kKVG)[^t-2] , und
 
-gestützt auf Art. 28e des Einführungsgesetzes vom 25. Oktober 2006 zum Bundesgesetz über die Krankenversicherung (Krankenversicherungsgesetz, kKVG)[^ingress-1], und
-
-der Gemeinderat der Einwohnergemeinde Seelisberg,
-
-gestützt auf Art. 5 und 20 des Gesetzes vom 26. September 2010 über die Langzeitpflege[^ingress-2],
+der Gemeinderat der Einwohnergemeinde Seelisberg, gestützt auf Art. 5 und 20 des Gesetzes vom 26. September 2010 über die Langzeitpflege[^t-3],
 
 vereinbaren:
 
-[^ingress-1]: NG 742.1
-[^ingress-2]: RB 20.2231
+[^t-1]: A 2011, 1599; vom Landrat genehmigt am 23. November 2011; rückwirkend seit 1. Januar 2011 in Kraft
+[^t-2]: NG 742.1
+[^t-3]: RB 20.2231
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -48,7 +47,7 @@ vereinbaren:
 
 <sup>2</sup> Mehr als sechs Personen mit Wohnsitz in Seelisberg dürfen nur unter dem Vorbehalt der Genehmigung durch die Gesundheits- und Sozialdirektion aufgenommen werden.
 
-## 2 Jährliche Leistungsabgeltung für Personen mit Wohnsitz in Nidwalden
+### II. JÄHRLICHE LEISTUNGSABGELTUNG FÜR PERSONEN MIT WOHNSITZ IN NIDWALDEN
 
 #### Art. 3
 
@@ -66,7 +65,7 @@ vereinbaren:
 
 **Ein- und Austritt**
 
-<sup>1</sup> Die Abgeltung ist auch für den Ein- und Austrittstag vollumfänglich zu leisten.
+Die Abgeltung ist auch für den Ein- und Austrittstag vollumfänglich zu leisten.
 
 #### Art. 5
 
@@ -82,17 +81,17 @@ vereinbaren:
 
 **Meldung**
 
-<sup>1</sup> Vor dem Eintritt und nach dem Austritt einer versicherten Person, für deren Pflege eine Leistungsabgeltung geltend gemacht wird, informieren die Heimleitungen der Nidwaldner Pflegeheime die Einwohnergemeinde Seelisberg und die Finanzverwaltung Nidwalden.
+Vor dem Eintritt und nach dem Austritt einer versicherten Person, für deren Pflege eine Leistungsabgeltung geltend gemacht wird, informieren die Heimleitungen der Nidwaldner Pflegeheime die Einwohnergemeinde Seelisberg und die Finanzverwaltung Nidwalden.
 
-## 3 Kostengutsprache
+### III. KOSTENGUTSPRACHE
 
 #### Art. 7
 
 **Anspruch, Umfang**
 
-<sup>1</sup> Seelisberg hat für versicherte Personen gemäss Art. 1 Abs. 2 eine Kostengutsprache im Umfang der Pflegetaxe der Nidwaldner Heime zu erteilen.
+Seelisberg hat für versicherte Personen gemäss Art. 1 Abs. 2 eine Kostengutsprache im Umfang der Pflegetaxe der Nidwaldner Heime zu erteilen.
 
-## 4 Schlussbestimmung
+### IV. SCHLUSSBESTIMMUNG
 
 #### Art. 8
 
@@ -102,4 +101,18 @@ vereinbaren:
 
 <sup>2</sup> Der Vertrag ist jeweils mit einer Frist von sechs Monaten auf das Jahresende durch den Regierungsrat Nidwalden beziehungsweise den Einwohnergemeinderat Seelisberg kündbar.
 
-A 2011, 1599
+Seelisberg, 06. Oktober 2011 GEMEINDERAT SEELISBERG Gemeindepräsident
+
+### Karl Huser
+
+Gemeindeschreiberin
+
+### Kathrin Truttmann
+
+Stans, 27. September 2011 REGIERUNGSRAT NIDWALDEN Landammann
+
+### Hugo Kayser
+
+Landschreiber
+
+### Hugo Murer
