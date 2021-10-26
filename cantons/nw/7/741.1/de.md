@@ -4,30 +4,35 @@ number: "741.1"
 title: Einführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung
 language: de
 version: 2008-01-01
+corrected: 2021-10-27
 version_adopted: 2007-10-24
 adopted: 1993-04-25
 in_force: 1993-04-25
 url: "https://gesetze.nw.ch/app/de/texts_of_law/741.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/720/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/299/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Einführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung
 
-vom 25.04.1993 (Stand 01.01.2008)
+vom 25. April 1993[^t-1]
 
 Die Landsgemeinde,
 
-gestützt auf Art. 52 der Kantonsverfassung, in Ausführung von Art. 61 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG [Bundesgesetz])[^ingress-1],
+gestützt auf Art. 52 der Kantonsverfassung, in Ausführung von Art. 61 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG [Bundesgesetz])[^t-2],
 
 beschliesst:
 
-[^ingress-1]: SR 831.10
+[^t-1]: A 1993, 755, vom Bund genehmigt am 14. Juni 1996
+[^t-2]: SR 831.10
 
 #### Art. 1
 
-**Ausgleichskasse 1. Grundsatz**
+**Ausgleichskasse**
+
+- 1\. Grundsatz
 
 <sup>1</sup> Der Kanton führt unter dem Namen «Ausgleichskasse Nidwalden» eine Ausgleichskasse im Sinne von Art. 61 des Bundesgesetzes.
 
@@ -45,40 +50,49 @@ beschliesst:
 
 #### Art. 3
 
-**3. Organisation a) Landrat**
+**3. Organisation**
+
+- a) Landrat
 
 <sup>1</sup> Dem Landrat obliegt die Oberaufsicht über die Ausgleichskasse.
 
 <sup>2</sup> Er ist insbesondere zuständig für:
 
 - 1\. die Wahl der Verwaltungskommission und aus ihrer Mitte des Präsidenten;
+
 - 2\. die Bezeichnung des für die Wahl des Direktors zuständigen Organs;
+
 - 3\. die Abnahme des Geschäftsberichtes und der Jahresrechnung sowie die Beschlussfassung über die Entlastung der Organe;
+
 - 4\. die Erfüllung der weitern ihm durch die Gesetzgebung zugewiesenen Aufgaben.
 
-#### Art. 4
+#### Art. 4 b
 
-**b) Organe der Ausgleichskasse**
+**) Organe der Ausgleichskasse**
 
 <sup>1</sup> Die Organe der Ausgleichskasse sind:
 
 - 1\. die Verwaltungskommission;
+
 - 2\. der Direktor;
+
 - 3\. die Revisionsstelle.
 
 <sup>2</sup> Der Landrat ordnet die Zusammensetzung, Aufgaben und Befugnisse dieser Organe in der Vollziehungsverordnung.
 
-#### Art. 5
+#### Art. 5 c
 
-**c) Personal**
+**) Personal**
 
-<sup>1</sup> Das Personal der Ausgleichskasse untersteht der kantonalen Beamtengesetzgebung[^5-1], sofern durch den Landrat nicht besondere Vorschriften erlassen werden.
+Das Personal der Ausgleichskasse untersteht der kantonalen Beamtengesetzgebung[^5c-1], sofern durch den Landrat nicht besondere Vorschriften erlassen werden.
 
-[^5-1]: NG 165.1 (heute Personalgesetz)
+[^5c-1]: NG 165.1 (heute Personalgesetz)
 
 #### Art. 6
 
-**AHV-Zweigstellen 1. Grundsatz**
+**AHV-Zweigstellen**
+
+### 1. Grundsatz
 
 <sup>1</sup> Jede politische Gemeinde errichtet eine AHV-Zweigstelle im Sinne von Art. 65 Abs. 2 des Bundesgesetzes; die Verwaltungskommission kann mehreren Gemeinden die Errichtung einer gemeinsamen AHV-Zweigstelle bewilligen.
 
@@ -98,11 +112,13 @@ beschliesst:
 
 **Kostentragung**
 
-<sup>1</sup> Die Verwaltungskosten der Ausgleichskasse werden gemäss Art. 69 des Bundesgesetzes durch besondere Beiträge der Beitragspflichtigen sowie durch Zuschüsse aus dem eidgenössischen Ausgleichsfonds der Alters- und Hinterlassenenversicherung gedeckt.
+Die Verwaltungskosten der Ausgleichskasse werden gemäss Art. 69 des Bundesgesetzes durch besondere Beiträge der Beitragspflichtigen sowie durch Zuschüsse aus dem eidgenössischen Ausgleichsfonds der Alters- und Hinterlassenenversicherung gedeckt.
+
+[^8-1]: Fassung gemäss Landratsbeschluss vom 24. Oktober 2007, A 2007, 1734, A 2008, 92; in Kraft seit 1. Januar 2008
 
 #### Art. 9
 
-**…**
+**..[^8-1]**
 
 #### Art. 10
 
@@ -130,11 +146,8 @@ beschliesst:
 
 **Rechtskraft**
 
-<sup>1</sup> Dieses Gesetz tritt unter dem Vorbehalt der Genehmigung durch den Bund[^12-1] mit der Annahme durch die Landsgemeinde in Kraft; es ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
+<sup>1</sup> Dieses Gesetz tritt unter dem Vorbehalt der Genehmigung durch den Bund mit der Annahme durch die Landsgemeinde in Kraft; es ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
 
-<sup>2</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Einführungsgesetz vom 24. April 1960 zum Bundesgesetz über die Alters- und Hinterlassenenversicherung[^12-2].
+<sup>2</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Einführungsgesetz vom 24. April 1960 zum Bundesgesetz über die Alters- und Hinterlassenenversicherung[^12-1].
 
-[^12-1]: Vom Bund genehmigt am 14. Juni 1996
-[^12-2]: A 1960, 463
-
-A 1993, 755
+[^12-1]: A 1960, 463
