@@ -5,30 +5,31 @@ title: Vollzugsverordnung über die Friedhöfe und Bestattungen
 short: "Friedhofs- und Bestattungsverordnung, FBV"
 language: de
 version: 2019-03-01
+corrected: 2021-10-27
 version_adopted: 2019-02-05
 adopted: 2012-12-04
 in_force: 2013-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/715.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/751/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/280/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung über die Friedhöfe und Bestattungen
+# Vollzugsverordnung über die Friedhöfe und Bestattungen (Friedhofs- und Bestattungsverordnung, FBV)
 
-(Friedhofs- und Bestattungsverordnung, FBV)
-
-vom 04.12.2012 (Stand 01.03.2019)
+vom 4. Dezember 2012[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 78 des Gesetzes vom 30. Mai 2007 zur Erhaltung und Förderung der Gesundheit (Gesundheitsgesetz, GesG)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 78 des Gesetzes vom 30. Mai 2007 zur Erhaltung und Förderung der Gesundheit (Gesundheitsgesetz, GesG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 711.1
+[^t-1]: A 2012, 1883
+[^t-2]: NG 711.1
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### § 1
 
@@ -50,13 +51,13 @@ beschliesst:
 
 **Bundesrecht**
 
-<sup>1</sup> Beim Vollzug des Bestattungswesens sind die Bestimmungen des Bundesrechts, insbesondere das Bundesgesetz über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^3-1], die Verordnung über Transport und Beisetzung ansteckungsgefährlicher Leichen sowie Transport von Leichen vom und ins Ausland[^3-2] und die Zivilstandsverordnung (ZStV)[^3-3], zu beachten.
+Beim Vollzug des Bestattungswesens sind die Bestimmungen des Bundesrechts, insbesondere das Bundesgesetz über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^3-1], die Verordnung über Transport und Beisetzung ansteckungsgefährlicher Leichen sowie Transport von Leichen vom und ins Ausland[^3-2] und die Zivilstandsverordnung (ZStV)[^3-3], zu beachten.
 
 [^3-1]: SR 818.101
 [^3-2]: SR 818.61
 [^3-3]: SR 211.112.2
 
-## 2 Leichenschau, Obduktion, Aufbewahrung
+### II. LEICHENSCHAU, OBDUKTION, AUFBEWAHRUNG
 
 #### § 4
 
@@ -93,13 +94,14 @@ beschliesst:
 <sup>1</sup> Die Bestattungsbehörde kann die sofortige Überführung des Leichnams in das Leichenhaus oder in einen zur Aufbewahrung geeigneten Raum verfügen, wenn:
 
 - 1\. die einsetzende Verwesung stark belästigenden Geruch verursacht; oder
+
 - 2\. Ansteckungsgefahr besteht.
 
 <sup>2</sup> Die Ärztin oder der Arzt gemäss § 4 und das Bestattungsunternehmen sind verpflichtet, die Bestattungsbehörde darauf aufmerksam zu machen, wenn die Überführung des Leichnams notwendig ist.
 
-## 3 Bestattung
+### III. BESTATTUNG
 
-### 3.1 Allgemeines
+### A. Allgemeines
 
 #### § 8
 
@@ -113,15 +115,18 @@ beschliesst:
 
 **Totgeburten, Fehlgeburten**
 
-<sup>1</sup> Für Kinder, die ohne Lebenszeichen auf die Welt kommen, besteht ein Anspruch auf Bestattung.
+Für Kinder, die ohne Lebenszeichen auf die Welt kommen, besteht ein Anspruch auf Bestattung.
 
 #### § 10
 
-**Voraussetzungen für die Bestattung 1. Leichenschau, Anmeldung, Freigabe**
+**Voraussetzungen für die Bestattung**
+
+### 1. Leichenschau, Anmeldung, Freigabe
 
 <sup>1</sup> Die Bestattung und die Ausstellung eines Leichenpasses dürfen erst erfolgen, nachdem:
 
 - 1\. die Leichenschau durchgeführt wurde; und
+
 - 2\. das zuständige Zivilstandsamt die Anmeldung des Todesfalls schriftlich bestätigt hat.
 
 <sup>2</sup> Die Bestattungsbehörde entscheidet über Ausnahmen von Abs. 1 und informiert unverzüglich das Zivilstandsamt.
@@ -137,21 +142,26 @@ beschliesst:
 <sup>2</sup> Die Bestattung vor Ablauf der Minimalfrist ist zulässig, wenn:
 
 - 1\. es sich um den Leichnam eines totgeborenen Kindes handelt; oder
+
 - 2\. ärztlich bescheinigt ist, dass der Leichnam obduziert wurde.
 
 <sup>3</sup> Die Bestattung vor Ablauf der Minimalfrist ist mit schriftlicher Zustimmung oder auf Anordnung der Kantonsärztin oder des Kantonsarztes zulässig bei epidemischen Krankheiten, wenn:
 
 - 1\. bei längerer Aufbewahrung des Leichnams die Umgebung gefährdet ist; und
+
 - 2\. er weder in einem Leichenhaus noch sonst in geeigneter Weise aufbewahrt werden kann.
 
 <sup>4</sup> Die Wartefrist von 120 Stunden darf ausnahmsweise um längstens 72 Stunden erstreckt werden, wenn:
 
 - 1\. der Leichnam in einem hierzu besonders eingerichteten und gekühlten Raum aufbewahrt wird; und
+
 - 2\. die Ärztin oder der Arzt gemäss § 4 keine Einwendungen aus Gründen der öffentlichen Gesundheit erhebt.
 
 #### § 12
 
-**Einsargung 1. Grundsatz**
+**Einsargung**
+
+### 1. Grundsatz
 
 <sup>1</sup> Jede Leiche ist in einem Sarg zu bestatten.
 
@@ -169,19 +179,19 @@ beschliesst:
 
 <sup>4</sup> Das Bestattungspersonal vor Ort ist verantwortlich, dass bei der Einsargung verwesungstechnisch nicht geeignete Materialien entfernt und nicht verwendet werden.
 
-### 3.2 Bestattungsarten
+### B. Bestattungsarten
 
 #### § 14
 
 **Grundsatz**
 
-<sup>1</sup> Als Bestattungsarten sind sowohl die Erdbestattung (Beisetzung der eingesargten Leiche in einem Erdgrab) als auch die Feuerbestattung (Einäscherung der eingesargten Leiche) zulässig.
+Als Bestattungsarten sind sowohl die Erdbestattung (Beisetzung der eingesargten Leiche in einem Erdgrab) als auch die Feuerbestattung (Einäscherung der eingesargten Leiche) zulässig.
 
 #### § 15
 
 **Erdbestattung**
 
-<sup>1</sup> Erdbestattungen dürfen nur auf Friedhöfen erfolgen.
+Erdbestattungen dürfen nur auf Friedhöfen erfolgen.
 
 #### § 16
 
@@ -204,9 +214,10 @@ beschliesst:
 <sup>2</sup> Eine Feuerbestattung erfolgt, wenn:
 
 - 1\. weder der Wille der verstorbenen Person feststellbar ist noch ein Entscheid der nächsten vertretungsberechtigten Person vorliegt; oder
+
 - 2\. es aus gesundheitspolizeilichen Gründen notwendig ist.
 
-### 3.3 Gräber
+### C. Gräber
 
 #### § 18
 
@@ -217,6 +228,7 @@ beschliesst:
 <sup>2</sup> Die Gemeinde kann:
 
 - 1\. die Bestattung in Familien- und Hallengräbern sowie die Beisetzung von Urnen in bestehenden Urnen- oder Erdgräbern erlauben; und
+
 - 2\. Gemeinschaftsgräber für die Beisetzung der Asche, in der Urne oder offen, bereitstellen.
 
 #### § 19
@@ -236,14 +248,18 @@ beschliesst:
 <sup>1</sup> Über die Bestattungen ist ein Register zu führen, das folgende Angaben enthalten muss:
 
 - 1\. den Namen und Vornamen, das Geburtsdatum, den Heimatort sowie den Wohnort der verstorbenen Person;
+
 - 2\. das Datum des Todes und der Bestattung;
+
 - 3\. die Art der Bestattung;
+
 - 4\. die Nummer des Grabes;
+
 - 5\. die Adresse des vertretungsberechtigten Angehörigen.
 
 <sup>2</sup> Sind die Gräber nicht nummeriert, ist ein Belegungsplan zu führen, aus dem hervorgeht, welche Person wo beerdigt ist.
 
-### 3.4 Grabesruhe
+### D. Grabesruhe
 
 #### § 21
 
@@ -257,7 +273,9 @@ beschliesst:
 
 #### § 22
 
-**Graböffnung vor Ablauf der Grabesruhe 1. Exhumierung**
+**Graböffnung vor Ablauf der Grabesruhe**
+
+### 1. Exhumierung
 
 <sup>1</sup> Die Exhumierung vor Ablauf der Grabesruhe ist nur mit Bewilligung des Gemeinderates gestattet.
 
@@ -267,20 +285,23 @@ beschliesst:
 
 **2. Voraussetzungen**
 
-<sup>1</sup> Die vorzeitige Öffnung eines Grabes darf nur bewilligt werden, wenn:
+Die vorzeitige Öffnung eines Grabes darf nur bewilligt werden, wenn:
 
 - 1\. die Kantonsärztin oder der Kantonsarzt bestätigt, dass nicht Gründe der öffentlichen Gesundheit die Graböffnung verbieten; und
+
 - 2\. die würdige Bestattung des exhumierten Leichnams gesichert ist.
 
 #### § 24
 
 **3. Kosten**
 
-<sup>1</sup> Die Kosten der Exhumation und der Wiederbestattung sind von den Gesuchstellerinnen und Gesuchstellern zu tragen. Abweichende Bestimmungen des Bundesrechts bleiben vorbehalten.
+Die Kosten der Exhumation und der Wiederbestattung sind von den Gesuchstellerinnen und Gesuchstellern zu tragen. Abweichende Bestimmungen des Bundesrechts bleiben vorbehalten.
 
 #### § 25
 
-**Aufhebung der Gräber nach Ablauf der Grabesruhe 1. Veröffentlichung**
+**Aufhebung der Gräber nach Ablauf der Grabesruhe**
+
+### 1. Veröffentlichung
 
 <sup>1</sup> Die beabsichtigte Aufhebung von Gräbern nach Ablauf der gesetzlichen Grabesruhe ist im Amtsblatt bekanntzugeben und den vertretungsberechtigten Angehörigen mitzuteilen.
 
@@ -296,7 +317,7 @@ beschliesst:
 
 <sup>2</sup> Nicht verrottete Urnen und Urnen aus Urnennischen werden den Angehörigen zur Verfügung gestellt, wenn diese die Herausgabe wünschen. Anderenfalls erfolgt die Beisetzung der Asche im Gemeinschaftsgrab.
 
-## 4 Friedhöfe, Krematorien
+### IV. FRIEDHÖFE, KREMATORIEN
 
 #### § 27
 
@@ -314,7 +335,7 @@ beschliesst:
 
 <sup>2</sup> Aus wichtigen Gründen kann der Gemeinderat in Anwendung von § 22 f. Ausnahmen bewilligen.
 
-## 5 Übergangs- und Schlussbestimmungen
+### V. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### § 29
 
@@ -335,12 +356,12 @@ beschliesst:
 
 <sup>2</sup> Die Friedhofsreglemente sind binnen zweier Jahre an das neue Recht anzupassen.
 
-<sup>3</sup> Für Urnenbeisetzungen, die vor Inkrafttreten dieser Verordnung erfolgt sind, gilt für die Mindestdauer der Grabesruhe die Regelung im Zeitpunkt der Beisetzung.
+<sup>3</sup> Für Urnenbeisetzungen, die vor Inkrafttreten dieser Verordnung erfolgt sind, gilt für die Mindestdauer der Grabesruhe die Regelung im Zeitpunkt der Beisetzung.[^30-1]
+
+[^30-1]: Fassung gemäss Regierungsratsbeschluss vom 5. Februar 2019, A 2019, 262; in Kraft seit 1. März 2019
 
 #### § 31
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2013 in Kraft.
-
-A 2012, 1883
+Diese Verordnung tritt am 1. Januar 2013 in Kraft.
