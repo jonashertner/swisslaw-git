@@ -5,22 +5,24 @@ title: Interkantonale Vereinbarung über die hochspezialisierte Medizin
 short: IVHSM
 language: de
 version: 2009-01-01
+corrected: 2021-10-27
 version_adopted: 2008-03-14
 adopted: 2008-03-14
 in_force: 2009-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.113"
-pdf: "https://gesetze.nw.ch/api/de/versions/727/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/316/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung über die hochspezialisierte Medizin
+# Interkantonale Vereinbarung über die hochspezialisierte Medizin (IVHSM)
 
-(IVHSM)
+vom 14. März 2008[^t-1]
 
-vom 14.03.2008 (Stand 01.01.2009)
+I. ALLGEMEINE BESTIMMUNGEN
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: A 2008, 1880; vom Landrat genehmigt am 17. September 2008, A 2008, 1979, A 2009,
 
 #### Art. 1
 
@@ -36,24 +38,29 @@ vom 14.03.2008 (Stand 01.01.2009)
 
 **Vollzug der Vereinbarung**
 
-<sup>1</sup> Die Mitglieder der Konferenz der kantonalen Gesundheitsdirektorinnen und ‑direktoren aus den Vereinbarungskantonen wählen ein Beschlussorgan (HSM-Beschlussorgan), dem der Vollzug der Vereinbarung obliegt. Dieses setzt ein Fachorgan sowie ein Projektsekretariat ein.
+Die Mitglieder der Konferenz der kantonalen Gesundheitsdirektorinnen und –direktoren aus den Vereinbarungskantonen wählen ein Beschlussorgan (HSM-Beschlussorgan), dem der Vollzug der Vereinbarung obliegt. Dieses setzt ein Fachorgan sowie ein Projektsekretariat ein.
 
-## 2 Die Organisation der interkantonalen Planung
+### II. DIE ORGANISATION DER INTERKANTONALEN PLANUNG
 
 #### Art. 3
 
-**Zusammensetzung, Wahl und Aufgaben des HSM-Beschlussorgans**
+**Zusammensetzung, Wahl und Aufgaben des HSM-**
+
+### Beschlussorgans
 
 <sup>1</sup> Das Beschlussorgan setzt sich aus folgenden Mitgliedern der GDK-Plenarversammlung zusammen:
 
-- 1\. den fünf Mitgliedern der Vereinbarungskantone mit Universitätsspital Zürich, Bern, Basel-Stadt, Waadt und Genf;
-- 2\. fünf Mitglieder aus den anderen Vereinbarungskantonen wovon mindestens zwei Mitglieder Vereinbarungskantone mit einem grossen Zentrumsspital, das interkantonale Leistungsaufgaben wahrnimmt, vertreten.
+- den fünf Mitgliedern der Vereinbarungskantone mit Universitätsspital Zürich, Bern, Basel-Stadt, Waadt und Genf;
 
-<sup>2</sup> Die Mitglieder einschliesslich des Präsidiums werden von den GDK-Mitgliedern der Vereinbarungskantone für eine Dauer von 2 Jahren gewählt. Eine Wiederwahl ist möglich. Die Stellvertretung richtet sich nach den Bestimmungen in den Statuten der GDK über die Stellvertretung an Plenarversammlungen[^3-1].
+- fünf Mitglieder aus den anderen Vereinbarungskantonen wovon mindestens zwei Mitglieder Vereinbarungskantone mit einem grossen Zentrumsspital, das interkantonale Leistungsaufgaben wahrnimmt, vertreten.
+
+Zudem können das Bundesamt für Gesundheit, die Schweizerische Universitätskonferenz und santésuisse je eine Person mit beratender Stimme in das Beschlussorgan delegieren.
+
+<sup>2</sup> Die Mitglieder einschliesslich des Präsidiums werden von den GDK-Mitgliedern der Vereinbarungskantone für eine Dauer von 2 Jahren gewählt. Eine Wiederwahl ist möglich. Die Stellvertretung richtet sich nach den Bestimmungen in den Statuten der GDK über die Stellvertretung an Plenarversammlungen[^hBeschlussorgans-1].
 
 <sup>3</sup> Das Beschlussorgan bestimmt die Bereiche der hochspezialisierten Medizin, die einer schweizweiten Konzentration bedürfen, und trifft die Planungs- und Zuteilungsentscheide.
 
-<sup>4</sup> Hierzu erstellt es eine Liste der Bereiche der hochspezialisierten Medizin und der mit der Erbringung der definierten Leistungen beauftragten Zentren. Die Liste wird periodisch überprüft. Sie gilt als gemeinsame Spitalliste der Vereinbarungskantone gemäss Art. 39 KVG[^3-2]. Die Zuteilungsentscheide werden befristet.
+<sup>4</sup> Hierzu erstellt es eine Liste der Bereiche der hochspezialisierten Medizin und der mit der Erbringung der definierten Leistungen beauftragten Zentren. Die Liste wird periodisch überprüft. Sie gilt als gemeinsame Spitalliste der Vereinbarungskantone gemäss Art. 39 KVG[^hBeschlussorgans-2]. Die Zuteilungsentscheide werden befristet.
 
 <sup>5</sup> Die Entscheide des Beschlussorgans basieren auf Anträgen des Fachorgans. Das Beschlussorgan beachtet die Kriterien gemäss Art. 4 Abs. 4. Seine Beschlüsse gemäss Art. 3 Abs. 3 und 4 bedürfen der vorgängigen Stellungnahme des Fachorgans.
 
@@ -61,12 +68,14 @@ vom 14.03.2008 (Stand 01.01.2009)
 
 <sup>7</sup> Die Mitglieder streben eine einvernehmliche Entscheidfindung an. Kann diese nicht erreicht werden, erfordert ein Beschluss die Zustimmung von mindestens vier Mitgliedern aus Vereinbarungskantonen mit Universitätsspital und von vier Mitgliedern der anderen Vereinbarungskantone.
 
-[^3-1]: Art. 5 Statuten der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und ‑direktoren
-[^3-2]: SR 832.10
+[^hBeschlussorgans-1]: Art. 5 Statuten der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und –direktoren
+[^hBeschlussorgans-2]: SR 832.10
 
 #### Art. 4
 
-**Zusammensetzung, Wahl und Aufgaben des HSM-Fachorgans**
+**Zusammensetzung, Wahl und Aufgaben des HSM-**
+
+### Fachorgans
 
 <sup>1</sup> Das HSM-Fachorgan besteht aus höchstens 15 unabhängigen Experten, bei deren Bestellung mehrere geeignete Bewerber aus dem Ausland zu berücksichtigen sind. Das Beschlussorgan bestimmt die Anforderungen an die Experten und legt das Auswahlverfahren fest. Die Mitglieder legen ihre Interessen in einem Interessenbindungsregister offen.
 
@@ -75,28 +84,46 @@ vom 14.03.2008 (Stand 01.01.2009)
 <sup>3</sup> Das HSM-Fachorgan hat folgende Aufgaben:
 
 - 1\. es beobachtet neue Entwicklungen;
+
 - 2\. es stellt und überprüft Anträge auf Aufnahme und Streichung aus dem HSM-Bereich;
+
 - 3\. es legt die Voraussetzungen fest, welche zur Ausführung einer Dienstleistung bzw. eines Dienstleistungsbereiches erfüllt werden müssen bezüglich Fallzahl, personellen und strukturellen Ressourcen und an unterstützenden Disziplinen;
+
 - 4\. es bereitet die Entscheidungen des Beschlussorgans vor; dazu gehören insbesondere die Vorbereitungsarbeiten der Zuteilung gemäss den oben beschriebenen Voraussetzungen sowie die Prüfung der Lösungsvorschläge;
+
 - 5\. es stellt dem Beschlussorgan die entsprechenden Anträge und begründet diese fachbezogen und wissenschaftlich;
+
 - 6\. es erstattet dem Beschlussorgan jährlich Bericht über den Stand seiner Arbeiten.
 
 <sup>4</sup> Das HSM-Fachorgan berücksichtigt bei der Erfüllung seiner in Abs. 3 genannten Aufgaben folgende Kriterien:
 
 - 1\. Für die Aufnahme in die Liste der HSM-Bereiche:
-  - a) Wirksamkeit;
-  - b) Nutzen;
-  - c) Technologisch-ökonomische Lebensdauer;
-  - d) Kosten der Leistung.
+
+- a) Wirksamkeit;
+
+- b) Nutzen;
+
+- c) Technologisch-ökonomische Lebensdauer;
+
+- d) Kosten der Leistung.
+
 - 2\. Für den Zuteilungsentscheid:
-  - a) Qualität;
-  - b) Verfügbarkeit hochqualifizierten Personals und Teambildung;
-  - c) Verfügbarkeit der unterstützenden Disziplinen;
-  - d) Wirtschaftlichkeit;
-  - e) Weiterentwicklungspotenzial.
+
+- a) Qualität;
+
+- b) Verfügbarkeit hochqualifizierten Personals und Teambildung;
+
+- c) Verfügbarkeit der unterstützenden Disziplinen;
+
+- d) Wirtschaftlichkeit;
+
+- e) Weiterentwicklungspotenzial.
+
 - 3\. Für den Entscheid über die Aufnahme in die Liste der HSM-Bereiche und die Zuteilung:
-  - a) Relevanz des Bezugs zu Forschung und Lehre;
-  - b) Internationale Konkurrenzfähigkeit.
+
+- a) Relevanz des Bezugs zu Forschung und Lehre;
+
+- b) Internationale Konkurrenzfähigkeit.
 
 <sup>5</sup> Die Experten streben eine einvernehmliche Entscheidfindung an. Kann diese nicht erreicht werden, werden Beschlüsse mit dem einfachen Mehr der anwesenden Mitglieder gefasst, wobei mindestens zwei Drittel der Mitglieder anwesend sein müssen. Das Beschlussorgan erlässt die Ausstandsregeln.
 
@@ -112,9 +139,9 @@ vom 14.03.2008 (Stand 01.01.2009)
 
 **Arbeitsweise**
 
-<sup>1</sup> Das Beschluss- und das Fachorgan geben sich jeweils ein Geschäftsreglement, das die Einzelheiten zur Organisation, Arbeitsweise und Beschlussfassung festlegt. Das Reglement des Fachorgans bedarf der Genehmigung des Beschlussorgans.
+Das Beschluss- und das Fachorgan geben sich jeweils ein Geschäftsreglement, das die Einzelheiten zur Organisation, Arbeitsweise und Beschlussfassung festlegt. Das Reglement des Fachorgans bedarf der Genehmigung des Beschlussorgans.
 
-## 3 Planung
+### III. PLANUNG
 
 #### Art. 7
 
@@ -138,33 +165,39 @@ vom 14.03.2008 (Stand 01.01.2009)
 
 #### Art. 8
 
-**Besondere Anforderungen an die Planung der Kapazitäten**
+**Besondere Anforderungen an die Planung der**
 
-<sup>1</sup> Bei der Zuordnung der Kapazitäten sind folgende Vorgaben zu beachten:
+### Kapazitäten
+
+Bei der Zuordnung der Kapazitäten sind folgende Vorgaben zu beachten:
 
 - a) Die gesamten in der Schweiz verfügbaren Kapazitäten sind so zu bemessen, dass die Zahl der Behandlungen, die sich unter umfassender kritischer Würdigung erwarten lassen, nicht überschritten werden kann.
+
 - b) Die resultierende Anzahl der Behandlungsfälle der einzelnen Einrichtung pro Zeitperiode darf die kritische Masse unter den Gesichtspunkten der medizinischen Sicherheit und der Wirtschaftlichkeit nicht unterschreiten.
+
 - c) Den Möglichkeiten der Zusammenarbeit mit Zentren im Ausland kann Rechnung getragen werden.
 
 #### Art. 9
 
 **Auswirkungen auf die kantonalen Spitallisten**
 
-<sup>1</sup> Die Vereinbarungskantone übertragen ihre Zuständigkeit gemäss Art. 39 Abs. 1 lit. e KVG[^9-1] zum Erlass der Spitalliste für den Bereich der hochspezialisierten Medizin dem HSM-Beschlussorgan.
+<sup>1</sup> Die Vereinbarungskantone übertragen ihre Zuständigkeit gemäss Art.
+
+39 Abs. 1 lit. e KVG[^9-1] zum Erlass der Spitalliste für den Bereich der hochspezialisierten Medizin dem HSM-Beschlussorgan.
 
 <sup>2</sup> Ab dem Zeitpunkt der gemäss Art. 3 Abs. 3 und 4 erfolgten Bestimmung eines Bereiches der hochspezialisierten Medizin und seiner Zuteilung durch das HSM-Beschlussorgan an mit der Einbringung der betreffenden Leistung beauftragte Zentren gelten abweichende Spitallistenzulassungen der Kantone im entsprechenden Umfang als aufgehoben.
 
 [^9-1]: SR 832.10
 
-## 4 Finanzen
+### IV. FINANZEN
 
 #### Art. 10
 
 **Verteilung der Kosten**
 
-<sup>1</sup> Die Kosten der Tätigkeit der im 2. Abschnitt genannten Organe sowie des Sekretariats werden von den der Vereinbarung beigetretenen Kantonen entsprechend ihrer Einwohnerzahl anteilsmässig getragen.
+Die Kosten der Tätigkeit der im 2. Abschnitt genannten Organe sowie des Sekretariats werden von den der Vereinbarung beigetretenen Kantonen entsprechend ihrer Einwohnerzahl anteilsmässig getragen.
 
-## 5 Streitbeilegung
+### V. STREITBEILEGUNG
 
 #### Art. 11
 
@@ -176,7 +209,7 @@ vom 14.03.2008 (Stand 01.01.2009)
 
 [^11-1]: NG 114.1; Rahmenvereinbarung über die interkantonale Zusammenarbeit mit Lastenausgleich vom 24. Juni 2005, Abschnitt IV
 
-## 6 Rechtspflege und Schlussbestimmungen
+### VI. RECHTSPFLEGE UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 12
 
@@ -203,15 +236,13 @@ vom 14.03.2008 (Stand 01.01.2009)
 
 **Berichterstattung**
 
-<sup>1</sup> Das Präsidium des Beschlussorgans stattet den Vereinbarungskantonen jährlich über den Stand der Umsetzung dieser Vereinbarung Bericht.
+Das Präsidium des Beschlussorgans stattet den Vereinbarungskantonen jährlich über den Stand der Umsetzung dieser Vereinbarung Bericht.
 
 #### Art. 15
 
 **Inkrafttreten**
 
-<sup>1</sup> Die GDK setzt die Vereinbarung in Kraft, wenn ihr 17 Kantone einschliesslich der Kantone mit Universitätsspital (Zürich, Bern, Basel-Stadt, Waadt und Genf) beigetreten sind[^15-1]. Für später beigetretene Kantone tritt die Vereinbarung mit der Mitteilung gemäss Art. 13 Abs. 1 in Kraft.
-
-[^15-1]: vom Landrat genehmigt am 17. September 2008, Datum des Inkrafttretens: 1. Januar 2009
+Die GDK setzt die Vereinbarung in Kraft, wenn ihr 17 Kantone einschliesslich der Kantone mit Universitätsspital (Zürich, Bern, Basel-Stadt, Waadt und Genf) beigetreten sind. Für später beigetretene Kantone tritt die Vereinbarung mit der Mitteilung gemäss Art. 13 Abs. 1 in Kraft.
 
 #### Art. 16
 
@@ -225,6 +256,4 @@ vom 14.03.2008 (Stand 01.01.2009)
 
 **Änderung der Vereinbarung**
 
-<sup>1</sup> Stellen die Vereinbarungskantone fest, dass eine Anpassung der Vereinbarung erforderlich ist, nehmen sie entsprechende Verhandlungen auf. Auf Antrag von drei Vereinbarungskantonen leitet die GDK die Anpassung der Vereinbarung ein. Die Anpassung tritt in Kraft, wenn ihr sämtliche Vereinbarungskantone beigetreten sind.
-
-A 2008, 1879, 1880; A 2009, 2
+Stellen die Vereinbarungskantone fest, dass eine Anpassung der Vereinbarung erforderlich ist, nehmen sie entsprechende Verhandlungen auf. Auf Antrag von drei Vereinbarungskantonen leitet die GDK die Anpassung der Vereinbarung ein. Die Anpassung tritt in Kraft, wenn ihr sämtliche Vereinbarungskantone beigetreten sind.
