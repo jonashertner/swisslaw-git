@@ -4,30 +4,32 @@ number: "721.22"
 title: Interkantonale Vereinbarung über die Gründung einer interkantonalen Umweltagentur
 language: de
 version: 2004-01-01
+corrected: 2021-10-27
 version_adopted: 2003-06-01
 adopted: 2003-06-01
 in_force: 2004-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/721.22"
-pdf: "https://gesetze.nw.ch/api/de/versions/739/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/293/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Interkantonale Vereinbarung über die Gründung einer interkantonalen Umweltagentur
 
-vom 01.06.2003 (Stand 01.01.2004)
+vom 1. Juni 2003[^t-1]
 
-Die Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug
+Die Kantone Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug vereinbaren:
 
-vereinbaren:
+[^t-1]: A 2003, 1455; vom Landrat Nidwalden genehmigt am 22. Oktober 2003, A 2003, 1454, A 2004, 56
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Pflicht zur Gründung**
 
-<sup>1</sup> Die Vereinbarungskantone verpflichten sich, im Rahmen der folgenden Bestimmungen eine interkantonale Umweltagentur, nachfolgend «Unternehmung» genannt, zu gründen.
+<sup>1</sup> Die Vereinbarungskantone verpflichten sich, im Rahmen der folgenden Bestimmungen eine interkantonale Umweltagentur, nachfolgend "Unternehmung" genannt, zu gründen.
 
 <sup>2</sup> Die Unternehmung soll ab dem 1. Januar 2004 ihre Tätigkeit aufnehmen können.
 
@@ -42,7 +44,9 @@ vereinbaren:
 <sup>3</sup> In diesem Rahmen hat die Unternehmung insbesondere Dienstleistungen anzubieten, die es den Vereinbarungskantonen ermöglichen:
 
 - a) den Stand und die Entwicklung der Luftverunreinigung auf dem Gebiet der Vereinbarungskantone zu überwachen;
+
 - b) das Ausmass der Luftimmissionen zu ermitteln;
+
 - c) die Öffentlichkeit sachgerecht darüber zu informieren.
 
 #### Art. 3
@@ -53,11 +57,15 @@ vereinbaren:
 
 <sup>2</sup> Ihre Organisation richtet sich nach den folgenden Bestimmungen, nach den Statuten und den aktienrechtlichen Vorschriften.
 
+**1**
+
+26.1.2005 - 39
+
 <sup>3</sup> Die Unternehmung wird unter der in den Statuten aufgeführten Firma ins Handelsregister des Sitzkantons eingetragen. Der Sitz befindet sich in einem Vereinbarungskanton.
 
 [^3-1]: SR 220
 
-## 2 Organisatorische Bestimmungen
+### II. ORGANISATORISCHE BESTIMMUNGEN
 
 #### Art. 4
 
@@ -75,9 +83,9 @@ vereinbaren:
 
 **Geschäftsleitung**
 
-<sup>1</sup> Die Geschäftsleitung besorgt die Geschäftsführung der Unternehmung nach Massgabe des Organisationsreglements und den Vorgaben des Verwaltungsrates.
+Die Geschäftsleitung besorgt die Geschäftsführung der Unternehmung nach Massgabe des Organisationsreglements und den Vorgaben des Verwaltungsrates.
 
-## 3 Errichtung der Unternehmung
+### III. ERRICHTUNG DER UNTERNEHMUNG
 
 #### Art. 6
 
@@ -121,9 +129,13 @@ vereinbaren:
 
 **Gründungskosten**
 
-<sup>1</sup> Sämtliche mit der Gründung der Unternehmung in Verbindung stehenden Kosten trägt die Unternehmung.
+Sämtliche mit der Gründung der Unternehmung in Verbindung stehenden Kosten trägt die Unternehmung.
 
-## 4 Leistungsauftrag
+**3**
+
+26.1.2005 - 39
+
+### IV. LEISTUNGSAUFTRAG
 
 #### Art. 11
 
@@ -149,13 +161,13 @@ vereinbaren:
 
 <sup>3</sup> Der Basisleistungsauftrag darf dadurch nicht beeinträchtigt werden.
 
-## 5 Steuereinnahmen und Arbeitsvergaben
+### V. STEUEREINNAHMEN UND ARBEITSVERGABEN
 
 #### Art. 13
 
 **Aufteilung der Steuereinnahmen**
 
-<sup>1</sup> Die Kantonssteuern, die der Sitzkanton von der Unternehmung einnimmt, werden je zur Hälfte paritätisch und proportional zur Bevölkerungszahl auf alle Vereinbarungskantone verteilt.
+Die Kantonssteuern, die der Sitzkanton von der Unternehmung einnimmt, werden je zur Hälfte paritätisch und proportional zur Bevölkerungszahl auf alle Vereinbarungskantone verteilt.
 
 #### Art. 14
 
@@ -165,7 +177,7 @@ vereinbaren:
 
 <sup>2</sup> Verfügende Instanz ist der Verwaltungsrat der Unternehmung. Er kann diese Befugnis für kleinere Beschaffungen im Organisationsreglement der Geschäftsleitung delegieren.
 
-## 6 Beitritt, Dauer und Austritt
+### VI. BEITRITT, DAUER UND AUSTRITT
 
 #### Art. 15
 
@@ -197,15 +209,19 @@ vereinbaren:
 
 <sup>2</sup> Der austretende Vereinbarungskanton hat neben dem Erlös aus dem Verkauf seiner Aktien keinen Anspruch auf eine Entschädigung.
 
+**5**
+
+26.1.2005 - 39
+
 <sup>3</sup> Die Unternehmung und in zweiter Linie die übrigen Vereinbarungskantone haben ein Vorkaufsrecht zum Erwerb der Aktien eines austretenden Vereinbarungskantons.
 
-## 7 Schlussbestimmungen
+### VII. SCHLUSSBESTIMMUNGEN
 
 #### Art. 18
 
 **Auflösung der Einfachen Gesellschaft GLIS**
 
-<sup>1</sup> Der «Gesellschaftsvertrag für ein gemeinsames Luftmessnetz GLIS vom 3. August 1998» gilt als aufgelöst, sobald die vorliegende Vereinbarung in Kraft ist.
+<sup>1</sup> Der "Gesellschaftsvertrag für ein gemeinsames Luftmessnetz GLIS vom 3. August 1998" gilt als aufgelöst, sobald die vorliegende Vereinbarung in Kraft ist.
 
 <sup>2</sup> Gesellschafter der Einfachen Gesellschaft GLIS, die der vorliegenden Vereinbarung nicht beitreten, erhalten auf Antrag eine Entschädigung, die die Revisionsstelle nach Liquidationswerten bestimmt. Die bisher erbrachten Leistungen des ausscheidenden Kantons sind zudem angemessen zu berücksichtigen.
 
@@ -221,12 +237,9 @@ vereinbaren:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vereinbarung tritt in Kraft[^20-1], wenn mindestens vier Kantone zugestimmt haben[^20-2].
+<sup>1</sup> Diese Vereinbarung tritt in Kraft[^20-1], wenn mindestens vier Kantone zugestimmt haben.
 
-<sup>2</sup> Die Konferenz der Umweltschutzdirektoren bringt diese Vereinbarung dem Bund nach Artikel 48 Absatz 3 der Bundesverfassung[^20-3] zur Kenntnis.
+<sup>2</sup> Die Konferenz der Umweltschutzdirektoren bringt diese Vereinbarung dem Bund nach Artikel 48 Absatz 3 der Bundesverfassung[^20-2] zur Kenntnis.
 
 [^20-1]: Datum des Inkrafttretens: 1. Januar 2004
-[^20-2]: Vom Landrat Nidwalden genehmigt am 22. Oktober 2003
-[^20-3]: SR 101
-
-A 2003, 1454, 1455; A 2004, 56
+[^20-2]: SR 101
