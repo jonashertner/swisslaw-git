@@ -5,20 +5,20 @@ title: Gesetz über die Nidwaldner Sachversicherung
 short: "Sachversicherungsgesetz, NSVG"
 language: de
 version: 2020-10-01
+corrected: 2021-10-28
 version_adopted: 2020-06-24
 adopted: 2017-12-13
 in_force: 2018-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/867.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/764/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/402/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Nidwaldner Sachversicherung
+# Gesetz über die Nidwaldner Sachversicherung (Sachversicherungsgesetz, NSVG)
 
-(Sachversicherungsgesetz, NSVG)
-
-vom 13.12.2017 (Stand 01.10.2020)
+vom 13. Dezember 2017[^t-1]
 
 Der Landrat von Nidwalden,
 
@@ -26,15 +26,17 @@ gestützt auf Art. 60 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Die Nidwaldner Sachversicherung
+[^t-1]: A 2017, 2207; A 2018, 584; in Kraft seit 1. 2018
 
-### 1.1 Rechtsstellung, Zweck und Mittel
+### I. DIE NIDWALDNER SACHVERSICHERUNG
+
+### A. Rechtsstellung, Zweck und Mittel
 
 #### Art. 1
 
 **Rechtsform, Sitz**
 
-<sup>1</sup> Die Nidwaldner Sachversicherung (NSV) ist eine selbständige Anstalt des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit und Sitz in Stans.
+Die Nidwaldner Sachversicherung (NSV) ist eine selbständige Anstalt des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit und Sitz in Stans.
 
 #### Art. 2
 
@@ -74,16 +76,20 @@ beschliesst:
 
 <sup>3</sup> Die Rechnungslegung richtet sich nach allgemein anerkannten Standards. Der Verwaltungsrat bezeichnet das anzuwendende Regelwerk.
 
-### 1.2 Organisation
+### B. Organisation
 
 #### Art. 6
 
-**Organe 1. allgemein**
+**Organe**
 
-<sup>1</sup> Die Organe der NSV sind:
+### 1. allgemein
+
+Die Organe der NSV sind:
 
 - 1\. der Verwaltungsrat;
+
 - 2\. die Geschäftsleitung;
+
 - 3\. die Revisionsstelle.
 
 #### Art. 7
@@ -99,14 +105,23 @@ beschliesst:
 <sup>4</sup> Der Verwaltungsrat hat die folgenden Aufgaben:
 
 - 1\. Festlegung der Grundsätze der Geschäftspolitik mit den nötigen Weisungen;
+
 - 2\. Wahl der Geschäftsleitung und Aufsicht über ihre Geschäftsführung sowie Bezeichnung der zur Unterschrift berechtigten Personen;
+
 - 3\. Wahl einer Aktuarin oder eines Aktuars;
+
 - 4\. Festlegung der Unternehmensstrategie und die wirtschaftliche Führung des Unternehmens;
+
 - 5\. Erlass aller von der NSV gemäss Gesetz zu erlassenden Reglemente;
+
 - 6\. Verabschiedung des Geschäftsberichts und der Jahresrechnung an den Regierungsrat zuhanden des Landrates;
+
 - 7\. Überwachung der Bildung und Verwendung der Reserven und Festlegung des Risikomanagements;
+
 - 8\. Abschluss und Kündigung von Rück- und Mitversicherungsverträgen sowie Beschlussfassung über den Beitritt zu Pools, Versicherungsgemeinschaften und Rückversicherungsinstitutionen;
+
 - 9\. Beschlussfassung über den Ausschluss aus der Versicherung;
+
 - 10\. Erfüllung der weiteren ihm durch die Gesetzgebung übertragenen Aufgaben.
 
 #### Art. 8
@@ -133,7 +148,9 @@ beschliesst:
 
 **Personal**
 
-<sup>1</sup> Das Personal der NSV untersteht dem kantonalen Personalgesetz2.
+Das Personal der NSV untersteht dem kantonalen Personalgesetz[^10-1].
+
+[^10-1]: NG 165.1
 
 #### Art. 11
 
@@ -145,9 +162,9 @@ beschliesst:
 
 <sup>3</sup> Der Landrat übt die Oberaufsicht über die NSV aus. Er genehmigt den Geschäftsbericht und die Jahresrechnung.
 
-## 2 Gebäudeversicherung
+### II. GEBÄUDEVERSICHERUNG
 
-### 2.1 Versicherungspflicht und Monopol
+### A. Versicherungspflicht und Monopol
 
 #### Art. 12
 
@@ -158,6 +175,7 @@ beschliesst:
 <sup>2</sup> Nicht dem Obligatorium unterstellt sind:
 
 - 1\. Objekte, deren Versicherungswert den in einer Verordnung festgesetzten Mindestbetrag nicht erreicht;
+
 - 2\. Fahrnisbauten wie Baubaracken, Festhütten, Markt- oder Schaubuden.
 
 #### Art. 13
@@ -172,13 +190,13 @@ beschliesst:
 
 **Beginn der Versicherungspflicht**
 
-<sup>1</sup> Neubauten und wertvermehrende Änderungen an bestehenden Gebäuden sind durch die Bauherrschaft ab dem Beginn der Bauarbeiten versichern zu lassen.
+Neubauten und wertvermehrende Änderungen an bestehenden Gebäuden sind durch die Bauherrschaft ab dem Beginn der Bauarbeiten versichern zu lassen.
 
 #### Art. 15
 
 **Versicherungspflichtige Person**
 
-<sup>1</sup> Die Versicherungspflicht obliegt der Eigentümerin oder dem Eigentümer der zu versichernden Gebäude.
+Die Versicherungspflicht obliegt der Eigentümerin oder dem Eigentümer der zu versichernden Gebäude.
 
 #### Art. 16
 
@@ -197,12 +215,14 @@ beschliesst:
 <sup>1</sup> Auf Antrag der Eigentümerin oder des Eigentümers kann die NSV versichern:
 
 - 1\. dem Obligatorium nicht unterstehende Objekte gemäss Art. 12 Abs. 2 Ziff. 1 und 2;
+
 - 2\. bauliche Anlagen der Umgebung wie Wasserzisternen, Brunnen, Treppen, Schwimmbassins, Einfriedungen, nicht im Gebäude integrierte Silos und Jauchegruben;
+
 - 3\. Verbesserungen der obligatorischen Deckung.
 
 <sup>2</sup> Der Verwaltungsrat regelt die Einzelheiten in einem Reglement.
 
-### 2.2 Versicherungswerte
+### B. Versicherungswerte
 
 #### Art. 18
 
@@ -237,15 +257,16 @@ beschliesst:
 <sup>2</sup> Als Versicherungswert gelten:
 
 - 1\. bei in Ausführung begriffenen Neubauten der Aufwand gemäss den Werkverträgen für jene Massnahmen und Vorkehren, die durch Einbau bereits Bestandteil des Gebäudes geworden sind;
+
 - 2\. bei Änderungen an bestehenden Bauten der Aufwand gemäss Ziffer 1 unter Abzug des Wertes der abgebrochenen Teile des geänderten Gebäudeteils.
 
 #### Art. 22
 
 **Änderung der Baukosten**
 
-<sup>1</sup> Ändern die Baukosten um mehr als drei Prozent, passt die NSV die Versicherungswerte dem neuen Stand der Baukosten an.
+Ändern die Baukosten um mehr als drei Prozent, passt die NSV die Versicherungswerte dem neuen Stand der Baukosten an.
 
-### 2.3 Vergütung des Schadens
+### C. Vergütung des Schadens
 
 #### Art. 23
 
@@ -259,11 +280,14 @@ beschliesst:
 
 **Nebenleistungen**
 
-<sup>1</sup> Die NSV vergütet zusätzlich zur Leistung für den Gebäudeschaden:
+Die NSV vergütet zusätzlich zur Leistung für den Gebäudeschaden:
 
 - 1\. die notwendigen Abbruch- und Aufräumungskosten, soweit sie das Gebäude betreffen, ausgenommen bei Abbruchobjekten; es dürfen für Abbruch- und Aufräumungsarbeiten höchstens fünf Prozent des Versicherungswertes vergütet werden;
+
 - 2\. die Kosten der zum Schutze noch vorhandener Gebäudeteile erforderlichen Vorkehren, wie die Errichtung von Notdächern oder Stützen;
+
 - 3\. die Schäden an Gebäuden, Bäumen und Einfriedungen, die bei der Schadenbekämpfung entstanden sind;
+
 - 4\. die von den Eigentümerinnen oder Eigentümern gemäss Art. 52 zweckmässig aufgewendeten Kosten, auch wenn die getroffenen Massnahmen ohne Erfolg geblieben sind.
 
 #### Art. 25
@@ -288,7 +312,7 @@ beschliesst:
 
 [^26-1]: SR 210
 
-## 3 Mobiliarversicherung
+### III. MOBILIARVERSICHERUNG
 
 #### Art. 27
 
@@ -299,15 +323,25 @@ beschliesst:
 <sup>2</sup> Dieses Obligatorium gilt nicht für:
 
 - 1\. Bargeld, Wertschriften, Edelmetalle und andere Wertgegenstände wie Schmuck oder Edelsteine;
+
 - 2\. Motorfahrzeuge, Boote, Schiffe, Mobilheime und Wohnwagen;
+
 - 3\. Rollmaterial der Eisenbahn sowie Flugzeuge;
+
 - 4\. Sammlungen aller Art, die für den Besitzer einen Liebhaber- oder Antiquitätswert besitzen;
+
 - 5\. Gegenstände von künstlerischem beziehungsweise kulturellem Wert, der den in eine Verordnung festgesetzten Betrag übersteigt;
+
 - 6\. Urkunden und Manuskripte aller Art;
+
 - 7\. Transportgüter und Warenlager im Freien;
+
 - 8\. Inventar von Fahrnisbauten wie Festhütten, Baubaracken, Markt- oder Schaubuden;
+
 - 9\. bewegliche Sachen von Personen, die sich nur vorübergehend im Kanton aufhalten;
+
 - 10\. bewegliche Sachen, die sich dauernd in nicht bei der NSV versicherten Gebäuden befinden;
+
 - 11\. Tiere, die nicht zum Nutzvieh gehören.
 
 #### Art. 28
@@ -322,7 +356,7 @@ beschliesst:
 
 **Versicherungspflichtige Person**
 
-<sup>1</sup> Die Versicherungspflicht obliegt der Eigentümerin oder dem Eigentümer der zu versichernden beweglichen Sache, sofern nicht eine andere Person aufgrund von Miete, Pacht, Auftrag, Nutzniessung, Leasing, Abzahlungsvertrag, Besitz oder einem anderen Rechtsverhältnis die Versicherungspflicht übernimmt.
+Die Versicherungspflicht obliegt der Eigentümerin oder dem Eigentümer der zu versichernden beweglichen Sache, sofern nicht eine andere Person aufgrund von Miete, Pacht, Auftrag, Nutzniessung, Leasing, Abzahlungsvertrag, Besitz oder einem anderen Rechtsverhältnis die Versicherungspflicht übernimmt.
 
 #### Art. 30
 
@@ -365,44 +399,46 @@ beschliesst:
 <sup>1</sup> Auf Antrag der Eigentümerin oder des Eigentümers kann die NSV versichern:
 
 - 1\. bewegliche Sachen gemäss Art. 27 Abs. 2;
+
 - 2\. Verbesserungen der obligatorischen Deckung.
 
 <sup>2</sup> Der Verwaltungsrat regelt die Einzelheiten in einem Reglement.
 
-## 4 Gemeinsame Bestimmungen
+### IV. GEMEINSAME BESTIMMUNGEN
 
-### 4.1 Allgemeines
+### A. Allgemeines
 
 #### Art. 35
 
 **Beginn der Versicherungsdeckung**
 
-<sup>1</sup> Die Versicherungsdeckung von Gebäuden und beweglichen Sachen beginnt, unter Vorbehalt von Art. 28 Abs. 2:
+Die Versicherungsdeckung von Gebäuden und beweglichen Sachen beginnt, unter Vorbehalt von Art. 28 Abs. 2:
 
 - 1\. sobald der Antrag der NSV an ihrem Sitz zugegangen oder der schweizerischen Post übergeben worden ist;
+
 - 2\. mit der rechtskräftigen Schätzung in allen übrigen Fällen.
 
 #### Art. 36
 
 **Schätzung**
 
-<sup>1</sup> Der Verwaltungsrat regelt die Schätzung von Versicherungswert und Schaden in einem Reglement.
+Der Verwaltungsrat regelt die Schätzung von Versicherungswert und Schaden in einem Reglement.
 
 #### Art. 37
 
 **Verjährung**
 
-<sup>1</sup> Ansprüche aus der obligatorischen und freiwilligen Gebäude- und Mobiliarversicherung verjähren binnen dreier Jahre seit dem Schadenereignis.
+Ansprüche aus der obligatorischen und freiwilligen Gebäude- und Mobiliarversicherung verjähren binnen dreier Jahre seit dem Schadenereignis.
 
 #### Art. 38
 
 **Ergänzende Bestimmungen**
 
-<sup>1</sup> Für die Gebäudeversicherung und die Mobiliarversicherung gelten ergänzend die Vorschriften des Bundesgesetzes über den Versicherungsvertrag[^38-1].
+Für die Gebäudeversicherung und die Mobiliarversicherung gelten ergänzend die Vorschriften des Bundesgesetzes über den Versicherungsvertrag[^38-1].
 
 [^38-1]: SR 221.229.1
 
-### 4.2 Versicherte Gefahren
+### B. Versicherte Gefahren
 
 #### Art. 39
 
@@ -411,19 +447,25 @@ beschliesst:
 <sup>1</sup> Die Gebäude und beweglichen Sachen sind gegen Schäden versichert, die entstanden sind durch:
 
 - 1\. Feuer, Rauch oder Hitze;
+
 - 2\. Blitzschlag;
+
 - 3\. Explosion;
+
 - 4\. abstürzende und notlandende Flug- und Raumfahrzeuge oder Teile davon, soweit kein Ersatz von einem Dritten erhältlich ist.
 
 <sup>2</sup> Von der Versicherungsdeckung ausgeschlossen sind Schäden, verursacht durch:
 
 - 1\. Abnützung zufolge bestimmungsgemässer oder allmählicher Feuer-, Rauch- oder Hitzeeinwirkung;
+
 - 2\. Schleuderbrüche oder andere kräftemechanische Betriebseinwirkungen;
+
 - 3\. gewerbsmässige Sprengarbeiten.
 
 <sup>3</sup> Von der Versicherungsdeckung sind zudem ausgeschlossen:
 
 - 1\. Sengschäden, die nicht auf einen Brand zurückzuführen sind, sowie Schäden, die dadurch entstehen, dass die versicherten Sachen einem Nutzfeuer oder der Wärme ausgesetzt wurden;
+
 - 2\. Schäden an unter Spannung stehenden elektrischen Maschinen, Geräten, Apparaten und Leitungen durch die Wirkung der elektrischen Energie selbst, durch Erwärmung infolge Überlastung oder durch Überspannung wie beispielsweise Nullleiterunterbruch.
 
 #### Art. 40
@@ -433,16 +475,23 @@ beschliesst:
 <sup>1</sup> Die Gebäude und beweglichen Sachen sind versichert gegen Schäden, die entstanden sind durch direkte Einwirkung von:
 
 - 1\. Sturm;
+
 - 2\. Hagel;
+
 - 3\. Hochwasser und Überschwemmungen;
+
 - 4\. Lawinen, Schneerutsch und Schneedruck;
+
 - 5\. Felssturz und Steinschlag;
+
 - 6\. Erdrutsch und Erdfall.
 
 <sup>2</sup> Von der Versicherungsdeckung ausgenommen sind Schäden:
 
-- 1\. die nicht durch plötzliche Einwirkung von Naturgewalten entstanden oder die auf fortgesetztes Einwirken zurückzuführen sind, wie Bergdruck, Bodensetzungen und ‑hebungen, Feuchtigkeit, Frost, Verwitterung, Trockenheit oder Eindringen von Regen-, Schnee- und Schmelzwasser;
+- 1\. die nicht durch plötzliche Einwirkung von Naturgewalten entstanden oder die auf fortgesetztes Einwirken zurückzuführen sind, wie Bergdruck, Bodensetzungen und -hebungen, Feuchtigkeit, Frost, Verwitterung, Trockenheit oder Eindringen von Regen-, Schnee- und Schmelzwasser;
+
 - 2\. die verursacht wurden durch Stauseen oder sonstige künstliche Wasseranlagen, wie Rückstau aus Kanalisationen;
+
 - 3\. infolge Grundwasser oder künstlich hervorgerufenen Bodenveränderungen.
 
 <sup>3</sup> Von der Versicherungsdeckung ganz oder teilweise ausgenommen sind zudem Schäden infolge schlechten Baugrundes, unsachgemässer oder nicht nach den Regeln der Baukunst vorgenommener Bauausführung oder Abdichtung sowie mangelhaften Unterhalts.
@@ -457,7 +506,7 @@ beschliesst:
 
 <sup>2</sup> Die NSV kann einem Pool beitreten oder andere geeignete Massnahmen beschliessen, die es ermöglichen, Schäden gemäss Abs. 1 ganz oder teilweise in die Versicherung einzubeziehen.
 
-### 4.3 Prämien
+### C. Prämien
 
 #### Art. 42
 
@@ -473,7 +522,7 @@ beschliesst:
 
 **Prämienbemessung**
 
-<sup>1</sup> Die Prämien sind so zu bemessen, dass sie zusammen mit den übrigen Erträgen ausreichen, um die Aufgaben der Versicherung zu finanzieren.
+Die Prämien sind so zu bemessen, dass sie zusammen mit den übrigen Erträgen ausreichen, um die Aufgaben der Versicherung zu finanzieren.
 
 #### Art. 44
 
@@ -507,7 +556,7 @@ beschliesst:
 
 **Gesetzliches Grundpfandrecht**
 
-<sup>1</sup> Für Prämien besteht am Grundstück, auf dem das versicherte Gebäude steht, vom Zeitpunkt der Fälligkeit an ein gesetzliches Grundpfandrecht im Sinne von Art. 117 Abs. 1 Ziff. 3 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^47-1].
+Für Prämien besteht am Grundstück, auf dem das versicherte Gebäude steht, vom Zeitpunkt der Fälligkeit an ein gesetzliches Grundpfandrecht im Sinne von Art. 117 Abs. 1 Ziff. 3 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^47-1].
 
 [^47-1]: NG 211.1
 
@@ -521,7 +570,7 @@ beschliesst:
 
 [^48-1]: SR 281.1
 
-### 4.4 Pflichten der Versicherten
+### D. Pflichten der Versicherten
 
 #### Art. 49
 
@@ -575,13 +624,13 @@ beschliesst:
 
 <sup>2</sup> Verletzt die oder der Versicherte dieses Verbot, kann die NSV die Entschädigung kürzen oder ablehnen.
 
-### 4.5 Vergütung des Schadens
+### E. Vergütung des Schadens
 
 #### Art. 54
 
 **Totalschaden**
 
-<sup>1</sup> Liegt ein Totalschaden vor, entspricht die Schadenssumme höchstens dem Versicherungswert.
+Liegt ein Totalschaden vor, entspricht die Schadenssumme höchstens dem Versicherungswert.
 
 #### Art. 55
 
@@ -628,6 +677,7 @@ beschliesst:
 <sup>2</sup> Die Entschädigung wird nach dem Verschulden der Versicherten gekürzt, wenn:
 
 - 1\. sie den Schaden grobfahrlässig verursacht oder ihre Pflicht zur Schadenverhütung offenkundig missachtet haben;
+
 - 2\. jemand, der mit den Versicherten in Hausgemeinschaft lebt oder für dessen Handlung sie haftbar sind, den Schaden vorsätzlich oder grobfahrlässig verursacht hat, sofern sich die Versicherten bei der Auswahl, Anleitung oder Beaufsichtigung dieser Person einer groben Fahrlässigkeit schuldig gemacht haben.
 
 #### Art. 59
@@ -642,17 +692,17 @@ beschliesst:
 
 **Auszahlung**
 
-<sup>1</sup> Der Regierungsrat regelt die Einzelheiten der Auszahlung in einer Verordnung.
+Der Regierungsrat regelt die Einzelheiten der Auszahlung in einer Verordnung.
 
-## 5 Prävention und Intervention
+### V. PRÄVENTION UND INTERVENTION
 
-### 5.1 Präventions- und Interventionsabgabe
+### A. Präventions- und Interventionsabgabe
 
 #### Art. 61
 
 **Abgabepflicht**
 
-<sup>1</sup> Die Versicherten haben der NSV nebst den Versicherungsprämien für jedes Kalenderjahr von den jeweils gültigen Versicherungswerten der Gebäude- und Mobiliarversicherung eine zweckgebundene Präventions- und Interventionsabgabe zu entrichten.
+Die Versicherten haben der NSV nebst den Versicherungsprämien für jedes Kalenderjahr von den jeweils gültigen Versicherungswerten der Gebäude- und Mobiliarversicherung eine zweckgebundene Präventions- und Interventionsabgabe zu entrichten.
 
 #### Art. 62
 
@@ -663,6 +713,7 @@ beschliesst:
 <sup>2</sup> Die Abgabe ist so zu bemessen, dass die Einnahmen ausreichen, um Folgendes zu finanzieren:
 
 - 1\. die gesetzlichen Aufgaben der NSV bezüglich der Verhütung und Bekämpfung von Feuer- und Elementarschäden;
+
 - 2\. den Verwaltungsaufwand der NSV für diese Tätigkeitsbereiche.
 
 <sup>3</sup> Die Vorschriften über die Versicherungsprämien sind für diese Abgabe sinngemäss anwendbar.
@@ -675,13 +726,13 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat setzt die Beiträge in einer Verordnung fest.
 
-### 5.2 Beitragsleistungen der NSV
+### B. Beitragsleistungen der NSV
 
 #### Art. 64
 
 **Verhütung und Bekämpfung von Brandschäden**
 
-<sup>1</sup> Die NSV leistet Beiträge an die Verhütung und Bekämpfung von Brandschäden nach Massgabe der Brandschutzgesetzgebung[^64-1].
+Die NSV leistet Beiträge an die Verhütung und Bekämpfung von Brandschäden nach Massgabe der Brandschutzgesetzgebung[^64-1].
 
 [^64-1]: NG 613.1
 
@@ -693,46 +744,53 @@ beschliesst:
 
 <sup>2</sup> Sie kann an die Kosten baulicher Schutzmassnahmen für einzelne bestehende Gebäude Beiträge ausrichten, sofern sie konstruktiv einwandfrei und ordnungsgemäss unterhalten sind und durch die Massnahmen weitgehend vor drohenden Elementarschäden geschützt werden; der Verwaltungsrat regelt die Einzelheiten in einem Reglement.
 
-## 6 Datenschutz und Rechtsschutz
+### VI. <sup>11</sup>DATENSCHUTZ UND RECHTSSCHUTZ
 
 #### Art. 65a
 
-**Verwendung der Versichertennummer gemäss AHVG[^65a-1],**
+**Verwendung der Versichertennummer gemäss**
 
-<sup>1</sup> Die NSV ist berechtigt, die Versichertennummer gemäss AHVG[^65a-2] für die Erfüllung ihrer gesetzlichen Aufgaben, insbesondere zur Sicherstellung des Versicherungsobligatoriums, systematisch zu verwenden.
+[^65a-1]: SR 831.10
+[^65a-2]: Fassung gemäss Landratsbeschluss vom 24. Juni 2020, A 2020, 1382, 1846; in Kraft seit 1. Oktober 2020
+
+### AHVG,
+
+[^65a-1][^65a-2]
+
+<sup>1</sup> Die NSV ist berechtigt, die Versichertennummer gemäss AHVG[^hAHVG65a165a2-1] für die Erfüllung ihrer gesetzlichen Aufgaben, insbesondere zur Sicherstellung des Versicherungsobligatoriums, systematisch zu verwenden.
 
 <sup>2</sup> Die NSV ruft die Versichertennummer über die kantonale Datenplattform ab.
 
-[^65a-1]: SR 831.10
-[^65a-2]: SR 831.10
+[^hAHVG65a165a2-1]: SR 831.10
 
 #### Art. 66
 
 **Einsprache**
 
-<sup>1</sup> Gegen Verfügungen der NSV, die gestützt auf dieses Gesetz ergehen, kann binnen 20 Tagen nach erfolgter Zustellung Einsprache erhoben werden.
+Gegen Verfügungen der NSV, die gestützt auf dieses Gesetz ergehen, kann binnen 20 Tagen nach erfolgter Zustellung Einsprache erhoben werden.
 
-## 7 Vollzugs , Übergangs- und Schlussbestimmungen
+### VII. VOLLZUGS-, ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 67
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
 
 #### Art. 68
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Schadenfälle, die vor dem Inkrafttreten dieses Gesetzes eingetreten sind, werden nach dem bisherigen Gesetz erledigt.
+Schadenfälle, die vor dem Inkrafttreten dieses Gesetzes eingetreten sind, werden nach dem bisherigen Gesetz erledigt.
 
 #### Art. 69
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Erlasse werden aufgehoben:
+Folgende Erlasse werden aufgehoben:
 
 - 1\. das Gesetz vom 27. April 1986 über die Nidwaldner Gebäude- und Mobiliarversicherung (Sachversicherungsgesetz, NSVG)[^69-1];
+
 - 2\. die Vollziehungsverordnung vom 10. September 1986 zum Gesetz über die Nidwaldner Gebäude- und Mobiliarversicherung (Sachversicherungsverordnung, NSVV)[^69-2].
 
 [^69-1]: A 1986, 701
@@ -746,9 +804,6 @@ beschliesst:
 
 <sup>2</sup> Es tritt unter dem Vorbehalt des Inkrafttretens des Gesetzes vom 13. Dezember 2017 über den Brandschutz und die Feuerwehr (Brandschutz- und Feuerwehrgesetz, BFG)[^70-1] in Kraft.
 
-<sup>3</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest[^70-2].
+<sup>3</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.
 
 [^70-1]: NG 613.1
-[^70-2]: In Kraft seit 1. Januar 2018
-
-A 2017, 2207; A 2018, 584
