@@ -4,26 +4,25 @@ number: "867.112"
 title: Reglement über die freiwillige Versicherung
 language: de
 version: 2019-01-01
+corrected: 2021-10-28
 version_adopted: 2018-12-03
 adopted: 2018-12-03
 in_force: 2019-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/867.112"
-pdf: "https://gesetze.nw.ch/api/de/versions/765/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/407/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Reglement über die freiwillige Versicherung
 
-vom 03.12.2018 (Stand 01.01.2019)
+vom 3. Dezember 2018[^t-1]
 
-Der Verwaltungsrat der Nidwaldner Sachversicherung (NSV),
+Der Verwaltungsrat der Nidwaldner Sachversicherung (NSV), gestützt auf Art. 17, 34, 44 und 57 Abs. 2 des Gesetzes vom 13. Dezember 2017 über die Nidwaldner Sachversicherung (Sachversicherungsgesetz, NSVG)[^t-2], beschliesst:
 
-gestützt auf Art. 17, 34, 44 und 57 Abs. 2 des Gesetzes vom 13. Dezember 2017 über die Nidwaldner Sachversicherung (Sachversicherungsgesetz, NSVG)[^ingress-1],
-
-beschliesst:
-
-[^ingress-1]: NG 867.1
+[^t-1]: A 2018, 2142
+[^t-2]: NG 867.1
 
 #### § 1
 
@@ -39,7 +38,7 @@ beschliesst:
 
 **Produkte und Allgemeine Versicherungsbedingungen**
 
-<sup>1</sup> Der Verwaltungsrat legt die Produkte fest und regelt die Allgemeinen Versicherungsbedingungen (AVB).
+Der Verwaltungsrat legt die Produkte fest und regelt die Allgemeinen Versicherungsbedingungen (AVB).
 
 #### § 3
 
@@ -49,63 +48,71 @@ beschliesst:
 
 <sup>2</sup> Die in ‰ des Versicherungswerts festgelegten Prämiensätze betragen:
 
-<table>
-<tr><th>Produktebezeichnung</th><th>Tarif I</th><th>Tarif II</th><th>Erstrisiko Aufräumung</th></tr>
-<tr><td>Gebäude: Bauzeitversicherung Standard</td><td>0.35</td><td></td><td></td></tr>
-<tr><td>Gebäude: Bauzeitversicherung Plus</td><td>0.45</td><td></td><td></td></tr>
-<tr><td>Gebäude: Gebäude Standard</td><td>0.35</td><td>0.60</td><td>1.84</td></tr>
-<tr><td>Gebäude: Gebäude Plus</td><td>0.45</td><td>0.70</td><td>1.84</td></tr>
-<tr><td>Mobiliar: Hausrat Standard</td><td>0.35</td><td></td><td></td></tr>
-<tr><td>Mobiliar: Hausrat Plus</td><td>0.45</td><td></td><td>1.84</td></tr>
-<tr><td>Mobiliar: Hausrat ausserkantonal</td><td>0.45</td><td></td><td></td></tr>
-<tr><td>Mobiliar: Landwirtschaft Standard</td><td>0.35</td><td></td><td>1.84</td></tr>
-<tr><td>Mobiliar: Landwirtschaft Plus</td><td>0.45</td><td></td><td>1.84</td></tr>
-<tr><td>Mobiliar: Gewerbe Standard</td><td>0.35</td><td>0.60</td><td>1.84</td></tr>
-<tr><td>Mobiliar: Gewerbe Plus</td><td>0.45</td><td>0.70</td><td>1.84</td></tr>
-<tr><td>Mobiliar: Fahrzeuge Dritter</td><td></td><td></td><td>4.84</td></tr>
-<tr><td>Mobiliar: Fahrzeuge Handel (Feuer)</td><td></td><td>1.14</td><td></td></tr>
-<tr><td>Mobiliar: Fahrzeuge Handel (Feuer und Elementar)</td><td></td><td>29.84</td><td></td></tr>
-<tr><td>Mobiliar: Geldwerte</td><td></td><td></td><td>1.84</td></tr>
-<tr><td>Fahrzeuge: Arbeitsfahrzeuge Benzin betrieben</td><td></td><td></td><td>2.34</td></tr>
-<tr><td>Fahrzeuge: Arbeitsfahrzeuge Diesel betrieben</td><td></td><td></td><td>1.34</td></tr>
-<tr><td>Fahrzeuge: Privatfahrzeuge (PW)</td><td></td><td></td><td>3.84</td></tr>
-<tr><td>Fahrzeuge: Wasserfahrzeuge (Feuer und Elementar)</td><td></td><td></td><td>6.34</td></tr>
-<tr><td>Fahrzeuge: Wasserfahrzeuge (Feuer)</td><td></td><td></td><td>2.34</td></tr>
-<tr><td>Fahrzeuge: Elektrofahrzeuge, Anhänger</td><td></td><td></td><td>1.34</td></tr>
-<tr><td>Fahrzeuge: Mobilheime (Feuer und Elementar)</td><td></td><td></td><td>11.84</td></tr>
-<tr><td>Fahrzeuge: Mobilheime (Feuer)</td><td></td><td></td><td>1.84</td></tr>
-</table>
+Produktebezeichnung Tarif I Tarif II Erstrisiko Aufräumung
 
-<sup>3</sup> Auf den tarifierten Prämien wird neben den ordentlichen Rabatten gemäss § 8 des Prämienreglements[^3-1] für die Produkte Standard und Plus bei Rechnungsstellung ein Schadenfreiheitsrabatt von 6% gewährt. Bauzeitversicherungen sind davon ausgeschlossen.
+### Gebäude
 
-[^3-1]: NG 867.111
+Bauzeitversicherung Standard 0.35 Bauzeitversicherung Plus 0.45 Gebäude Standard 0.35 0.60 1.84 Gebäude Plus 0.45 0.70 1.84
+
+### Mobiliar
+
+Hausrat Standard 0.35 Hausrat Plus 0.45 Hausrat ausserkantonal 0.45 Landwirtschaft Standard 0.35 Landwirtschaft Plus 0.45 Gewerbe Standard 0.35 0.60 1.84 Gewerbe Plus 0.45 0.70 1.84 Fahrzeuge Dritter Fahrzeuge Handel (Feuer) Fahrzeuge Handel (Feuer und Elementar) Geldwerte
+
+**1.84**
+
+**1.84 1.84**
+
+**4.84**
+
+**1.14 29.84**
+
+**1.84**
+
+### Fahrzeuge
+
+**2.34 1.34 3.84 6.34 2.34 1.34 11.84 1.84**
+
+Arbeitsfahrzeuge Benzin betrieben Arbeitsfahrzeuge Diesel betrieben Privatfahrzeuge (PW) Wasserfahrzeuge (Feuer und Elementar) Wasserfahrzeuge (Feuer) Elektrofahrzeuge, Anhänger Mobilheime (Feuer und Elementar) Mobilheime (Feuer)
+
+<sup>3</sup> Auf den tarifierten Prämien wird neben den ordentlichen Rabatten gemäss § 8 des Prämienreglements[^hFahrzeuge-1] für die Produkte Standard und Plus bei Rechnungsstellung ein Schadenfreiheitsrabatt von 6 % gewährt. Bauzeitversicherungen sind davon ausgeschlossen.
+
+[^hFahrzeuge-1]: NG 867.111
 
 #### § 4
 
 **Selbstbehalt**
 
-<sup>1</sup> Der Selbstbehalt für Elementarschäden beträgt:
+Der Selbstbehalt für Elementarschäden beträgt:
 
-<table>
-<tr><th>Produktebezeichnung</th><th>Tarif I</th><th>Tarif II</th></tr>
-<tr><td>Gebäude: Bauzeitversicherung Standard</td><td>200.–</td><td>200.–</td></tr>
-<tr><td>Gebäude: Bauzeitversicherung Plus</td><td>200.–</td><td>200.–</td></tr>
-<tr><td>Gebäude: Gebäude Standard</td><td>200.–</td><td>10%, mind. Fr. 500.– und max. Fr. 3'000.–</td></tr>
-<tr><td>Gebäude: Gebäude Plus</td><td>200.–</td><td>10%, mind. Fr. 500.– und max. Fr. 3'000.–</td></tr>
-<tr><td>Mobiliar: Hausrat Standard</td><td>200.–</td><td></td></tr>
-<tr><td>Mobiliar: Hausrat Plus</td><td>200.–</td><td></td></tr>
-<tr><td>Mobiliar: Landwirtschaft Standard</td><td>200.–</td><td></td></tr>
-<tr><td>Mobiliar: Landwirtschaft Plus</td><td>200.–</td><td></td></tr>
-<tr><td>Mobiliar: Gewerbe Standard</td><td>10%, mind. Fr. 500.– und max. Fr. 3'000.–</td><td>10%, mind. Fr. 500.– und max. Fr. 3'000.–</td></tr>
-<tr><td>Mobiliar: Gewerbe Plus</td><td>10%, mind. Fr. 500.– und max. Fr. 3'000.–</td><td>10%, mind. Fr. 500.– und max. Fr. 3'000.–</td></tr>
-<tr><td>Mobiliar: Fahrzeuge</td><td>–</td><td>–</td></tr>
-</table>
+**Tarif II**
+
+Produktebezeichnung Tarif I
+
+### Gebäude
+
+**200.-**
+
+Bauzeitversicherung Standard 200.- Bauzeitversicherung Plus Gebäude Standard 200.- Gebäude Plus und max.
+
+**10 % mind. Fr. 500.-**
+
+Fr. 3'000.-
+
+### Mobiliar
+
+Hausrat Standard 200.- Hausrat Plus Landwirtschaft Standard 200.- Landwirtschaft Plus Gewerbe Standard 10 % Gewerbe Plus mind. Fr. 500.- mind. Fr. 500.- und max.
+
+**10 %**
+
+**und max. Fr. 3'000.- -**
+
+Fr. 3'000.- Fahrzeuge -
 
 #### § 5
 
 **Kündigung**
 
-<sup>1</sup> Die freiwilligen Versicherungen können von der NSV und den Versicherten unter Einhaltung einer Kündigungsfrist von drei Monaten auf das Ende eines Kalenderjahres gekündigt werden.
+Die freiwilligen Versicherungen können von der NSV und den Versicherten unter Einhaltung einer Kündigungsfrist von drei Monaten auf das Ende eines Kalenderjahres gekündigt werden.
 
 #### § 6
 
@@ -122,6 +129,4 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Reglement tritt am 1. Januar 2019 in Kraft.
-
-A 2018, 2142
+Dieses Reglement tritt am 1. Januar 2019 in Kraft.
