@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-09-25
-valid_until: 2021-10-27
-version_adopted: 2021-09-22
+version: 2021-10-28
+valid_until: 2021-11-28
+version_adopted: 2021-10-27
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2381/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2414/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2381/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 25.09.2021)
+du 04.11.2020 (état au 28.10.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -350,7 +350,7 @@ arrête:
 
 <sup>1</sup> Les pharmaciens et pharmaciennes autorisés à administrer des vaccins sur la base de l'article 19, alinéa 2 de l'ordonnance du 24 octobre 2001 sur les activités professionnelles dans le secteur sanitaire (ordonnance sur la santé publique, OSP)[^20d-1] sont habilités à et chargés de vacciner des personnes en bonne santé dès 16 ans contre le COVID-19 dans les pharmacies.
 
-<sup>2</sup> Ils peuvent déléguer l’administration du vaccin contre le COVID-19 à des assistants et assistantes en pharmacie placés sous leur surveillance et leur responsabilité, pour autant que ces personnes aient suivi une formation continue appropriée.
+<sup>2</sup> Ils peuvent déléguer l’administration des vaccins contre le COVID-19 et contre la grippe saisonnière à des assistants et assistantes en pharmacie, ainsi qu'à du personnel soignant diplômé, placés sous leur surveillance et leur responsabilité, pour autant que ces personnes aient suivi une formation continue appropriée.
 
 [^20d-1]: RSB [811.111](https://www.belex.sites.be.ch/data/811.111/fr)
 

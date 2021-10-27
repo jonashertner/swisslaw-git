@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-09-25
-valid_until: 2021-10-27
-version_adopted: 2021-09-22
+version: 2021-10-28
+valid_until: 2021-11-28
+version_adopted: 2021-10-27
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2381/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2414/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2381/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 25.09.2021)
+vom 04.11.2020 (Stand 28.10.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -350,7 +350,7 @@ beschliesst:
 
 <sup>1</sup> Apothekerinnen und Apotheker, die gestützt auf Artikel 19 Absatz 2 der Verordnung vom 24. Oktober 2001 über die beruflichen Tätigkeiten im Gesundheitswesen (Gesundheitsverordnung, GesV)[^20d-1] über eine Bewilligung zur Durchführung von Impfungen verfügen, sind ermächtigt und beauftragt, an gesunden Personen ab 16 Jahren Covid-19-Impfungen in der Apotheke vorzunehmen.
 
-<sup>2</sup> Sie können die Durchführung der Covid-19-Impfungen unter ihrer fachlichen Aufsicht und Verantwortung an Pharma-Assistentinnen und Pharma-Assistenten übertragen, sofern diese über eine entsprechende Weiterbildung verfügen.
+<sup>2</sup> Sie können die Durchführung der Covid-19-Impfungen sowie der saisonalen Grippeimpfungen unter ihrer fachlichen Aufsicht und Verantwortung an Pharma-Assistentinnen und Pharma-Assistenten sowie an diplomierte Pflegefachpersonen übertragen, sofern diese über eine entsprechende Weiterbildung verfügen.
 
 [^20d-1]: BSG [811.111](https://www.belex.sites.be.ch/data/811.111/de)
 
