@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordonnance du 20 mars 2020 sur les mesures en cas de pertes de gain en lien avec le coronavirus (COVID-19) (Ordonnance sur les pertes de gain COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: fr
-version: 2021-09-20
+version: 2021-10-28
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210920/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210920-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20211028/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20211028-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20211028/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210920/fr"
 
 (Ordonnance sur les pertes de gain COVID-19)
 
-du 20 mars 2020 (Etat le 20 septembre 2021)
+du 20 mars 2020 (Etat le 28 octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -120,14 +120,14 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 [^2-7]: Introduit par le ch. I de l’O du 16 avr. 2020, en vigueur depuis le 17 mars 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)).
 [^2-8]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 [^2-9]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
-[^2-10]: Introduit par l’art. 6 ch. 2 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 2 juil. 2020 ([RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)). Nouvelle teneur selon l’annexe 2 ch.3 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021, en vigueur depuis le 8 fév. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^2-10]: Introduit par l’art. 6 ch. 2 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 2 juil. 2020 ([RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)). Nouvelle teneur selon l’annexe 2 ch. 3 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021, en vigueur depuis le 8 fév. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 [^2-11]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^2-12]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-13]: Introduit par le ch. I de l’O du 16 avr. 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-14]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2020 ([RO 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 183](https://fedlex.data.admin.ch/eli/oc/2021/183)).
 [^2-15]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^2-16]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 oct. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^2-17]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 oct. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^2-16]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^2-17]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 [^2-18]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
 [^2-19]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-20]: Abrogé par le ch. I de l’O du 11 sept. 2020, avec effet au 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
@@ -153,8 +153,8 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3-6]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 oct. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^3-7]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 oct. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^3-6]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^3-7]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 4
 
@@ -193,7 +193,7 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 [^5-5]: Introduit par le ch.I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
 [^5-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^5-7]: Introduit par le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^5-8]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 oct. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^5-8]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 [^5-9]: Abrogé par le ch. I de l’O du 11 sept. 2020, avec effet au 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 
 #### Art. 6
@@ -204,7 +204,7 @@ En dérogation à l’art. 24, al 1, LPGA[^6-2], le droit aux prestations non pe
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 183](https://fedlex.data.admin.ch/eli/oc/2021/183)).
 [^6-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^6-3]: Nouvelle teneur selon le ch.I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
 
 #### Art. 7
 
@@ -326,5 +326,5 @@ Sont payées sur l’allocation des cotisations:
 [^11-1]: Abrogé par le ch. I de l’O du 4 nov. 2020, avec effet au 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^11-2]: Introduit par le ch. I de l’O du 16 avr. 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Abrogé par le ch. I de l’O du 22 avr. 2020, avec effet au 23 avr. 2020 ([RO 2020 1335](https://fedlex.data.admin.ch/eli/oc/2020/253)).
 [^11-3]: Introduit par le ch. I de l’O du 11 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)). Abrogé par le ch. I de l’O du 4 nov. 2020, avec effet au 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^11-4]: Introduit par le ch. I de l’O du 4 nov. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)). Abrogé par le ch.I de l’O du 18 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
-[^11-5]: Introduit par le ch.I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
+[^11-4]: Introduit par le ch. I de l’O du 4 nov. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)). Abrogé par le ch. I de l’O du 18 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
+[^11-5]: Introduit par le ch. I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
