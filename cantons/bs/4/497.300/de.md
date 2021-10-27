@@ -3,13 +3,13 @@ canton: BS
 number: "497.300"
 title: Denkmalverzeichnis
 language: de
-version: 2021-05-20
-valid_until: 2021-10-27
-version_adopted: 2021-05-11
+version: 2021-10-28
+valid_until: 2021-12-13
+version_adopted: 2021-10-19
 adopted: 1981-06-23
 in_force: 1981-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/497.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5299/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5368/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5299/pdf_file"
 
 Denkmalverzeichnis | Denkmalschutz / Archäologische Forschung
 
-Vom 23. Juni 1981 (Stand 20. Mai 2021)
+Vom 23. Juni 1981 (Stand 28. Oktober 2021)
 
 Der Regierungsrat veröffentlicht, gestützt auf die §§ 14 und 15 des Denkmalschutzgesetzes vom 20. März 1980[^ingress-1], folgendes Denkmalverzeichnis:[^ingress-2]
 
