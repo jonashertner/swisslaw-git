@@ -5,37 +5,34 @@ title: Einführungsverordnung zur Bundesgesetzgebung über explosionsgefährlich
 short: "Kantonale Sprengstoffverordnung, kSprstV"
 language: de
 version: 2018-07-01
-valid_until: 2026-03-31
+corrected: 2021-10-28
 version_adopted: 2017-12-13
 adopted: 1982-07-03
 in_force: 1982-09-10
 url: "https://gesetze.nw.ch/app/de/texts_of_law/931.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/766/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/425/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsverordnung zur Bundesgesetzgebung über explosionsgefährliche Stoffe
+# Einführungsverordnung zur Bundesgesetzgebung über explosionsgefährliche Stoffe (Kantonale Sprengstoffverordnung, kSprstV)<sup>6</sup>
 
-(Kantonale Sprengstoffverordnung, kSprstV)
-
-vom 03.07.1982 (Stand 01.07.2018)
+vom 3. Juli 1982<sup>1</sup>
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 42 Abs. 2 und 3 des Bundesgesetzes vom 25. März 1977 über explosionsgefährliche Stoffe (Sprengstoffgesetz)[^ingress-1],
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 42 Abs. 2 und 3 des Bundesgesetzes vom 25. März 1977 über explosionsgefährliche Stoffe (Sprengstoffgesetz)<sup>2</sup>,
 
 beschliesst:
 
-[^ingress-1]: SR 941.41
-
-## 1 Zuständigkeit
+### I. ZUSTÄNDIGKEIT
 
 #### § 1
 
 **Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat übt die Aufsicht über den Vollzug der eidgenössischen und kantonalen Sprengstoffgesetzgebung aus.
+Der Regierungsrat übt die Aufsicht über den Vollzug der eidgenössischen und kantonalen Sprengstoffgesetzgebung aus.
 
 #### § 2
 
@@ -46,44 +43,50 @@ beschliesst:
 <sup>2</sup> Dem zuständigen Departement obliegt insbesondere:
 
 - 1\. die Erteilung von Bewilligungen für den Handel mit Sprengmitteln und pyrotechnischen Gegenständen;
+
 - 2\. die Erteilung von Bewilligungen zum Verkauf von losem Schiesspulver durch Private unter Vorbehalt der Zustimmung der Eidgenössischen Kriegsmaterialverwaltung;
+
 - 3\. die Erteilung von Ausnahmebewilligungen für die Verwendung von Schiesspulver für die Feier historischer Anlässe oder für ähnliche Gebräuche;
+
 - 4\. die Durchführung von Prüfungen für den Erwerb von Sprengausweisen, soweit nicht geeignete Organisationen der Wirtschaft zur Verfügung stehen;
+
 - 5\. die Abgabe von Erwerbsscheinen für Sprengmittel und pyrotechnische Gegenstände;
+
 - 6\. die Überwachung des Verkehrs mit Sprengmitteln, Schiesspulver und pyrotechnischen Gegenständen;
+
 - 7\. der Entzug von Sprengausweisen;
+
 - 8\. die Anordnung administrativer Massnahmen.
 
 #### § 3
 
 **Kantonspolizei**
 
-<sup>1</sup> Die Kantonspolizei ist zuständig für die Bescheinigung der Zuverlässigkeit, welche der Bewerber für einen Sprengausweis beizubringen hat.
+Die Kantonspolizei ist zuständig für die Bescheinigung der Zuverlässigkeit, welche der Bewerber für einen Sprengausweis beizubringen hat.
 
 #### § 4
 
 **Arbeitsamt**
 
-<sup>1</sup> Dem Amt für Industrie, Gewerbe und Arbeit obliegt:
+Dem Amt für Industrie, Gewerbe und Arbeit obliegt:
 
 - 1\. die Überwachung der Fabrikationsbetriebe einschliesslich der Herstellerlager, die sich auf dem Betriebsareal befinden;
+
 - 2\. der Schutz der Arbeitnehmer in Zusammenarbeit mit der Schweizerischen Unfallversicherungsanstalt.
 
 #### § 5
 
-**Feuerpolizei**
+**Feuerpolizei<sup>8</sup>**
 
-<sup>1</sup> Die Zuständigkeit der Feuerpolizeiorgane richtet sich nach der Brandschutz- und Feuerwehrgesetzgebung[^5-1].
-
-[^5-1]: NG 613.1
+Die Zuständigkeit der Feuerpolizeiorgane richtet sich nach der Brandschutz- und Feuerwehrgesetzgebung<sup>3</sup>.
 
 #### § 6
 
 **Zusammenarbeit mit anderen Stellen**
 
-<sup>1</sup> Die für den Vollzug der Sprengstoffgesetzgebung zuständigen Stellen sowie die Baupolizeibehörden sind zur gegenseitigen Zusammenarbeit verpflichtet.
+Die für den Vollzug der Sprengstoffgesetzgebung zuständigen Stellen sowie die Baupolizeibehörden sind zur gegenseitigen Zusammenarbeit verpflichtet.
 
-## 2 Verfahren
+### II. VERFAHREN
 
 #### § 7
 
@@ -111,18 +114,20 @@ beschliesst:
 
 <sup>2</sup> Sie sind gegen Erstattung der Selbstkosten beim zuständigen Departement zu beziehen.
 
+[^9-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+
 #### § 10
 
-**Rechtsmittel**
+**Rechtsmittel[^9-1]**
 
 <sup>1</sup> Das Rechtsmittelverfahren gemäss Art. 36 des eidgenössischen Sprengstoffgesetzes[^10-1] bleibt vorbehalten.
 
 <sup>2</sup> Im Übrigen richten sich die Rechtsmittel nach dem Verwaltungspflegegesetz[^10-2].
 
-[^10-1]: SR 941.41
+[^10-1]: SR 941,41
 [^10-2]: NG 265.1
 
-## 3 Gebühren
+### III. GEBÜHREN
 
 #### § 11
 
@@ -132,13 +137,13 @@ beschliesst:
 
 <sup>2</sup> Die Ausstellung von Ausnahmebewilligungen gemäss § 2 Absatz 2 Ziffer 3 ist gebührenfrei.
 
-## 4 Schlussbestimmungen
+### IV. SCHLUSSBESTIMMUNGEN
 
 #### § 12
 
 **Ergänzung der Regierungsratsverordnung**
 
-<sup>1</sup> Der Anhang der Regierungsratsverordnung vom 21. April 1978[^12-1] wird wie folgt ergänzt: …
+Der Anhang der Regierungsratsverordnung vom 21. April 1978[^12-1] wird wie folgt ergänzt: ...
 
 [^12-1]: NG 151.12
 
@@ -154,4 +159,9 @@ beschliesst:
 
 [^13-1]: NG 151.1
 
-A 1982, 1293, 1553
+## Weitere Fussnoten
+
+- [1] A 1982, 1293, 1553; vom Bundesrat genehmigt am 7. Dezember 1982
+- [3] NG 613.1
+- [8] Fassung gemäss Landratsbeschluss vom 13. Dezember 2017, A 2017, 2188, A 2018,
+- [584] ; in Kraft seit 1. Juli 2018
