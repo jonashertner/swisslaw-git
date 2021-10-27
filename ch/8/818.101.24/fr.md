@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-10-25
+version: 2021-10-28
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211025/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211025-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211025/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211028/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211028-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211028/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211025/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 25 octobre 2021)
+du 19 juin 2020 (Etat le 28 octobre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -306,8 +306,11 @@ La Confédération peut distribuer contre paiement sur le marché, par elle-mêm
 
 <sup>4</sup> Si une analyse bénéfice-risque a été effectuée, Swissmedic peut, pour les médicaments destinés à prévenir ou à combattre le coronavirus en Suisse, autoriser des divergences par rapport au processus de fabrication approuvé dans le cadre de l’autorisation. Il fixe les critères qui permettent au responsable technique de libérer précocement sur le marché les médicaments destinés à prévenir et à combattre le coronavirus en Suisse.
 
+<sup>5</sup> En dérogation à l’art. 9*a*, al. 1, let. c, de la loi du 15 décembre 2000 sur les produits thérapeutiques, des autorisations de mise sur le marché à durée limitée peuvent être accordées même s’il existe un médicament de substitution et équivalent autorisé en Suisse, si ces autorisations visent à garantir l’approvisionnement en médicaments destinés à prévenir ou à combattre le coronavirus en Suisse.[^21-3]
+
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^21-3]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 28 oct. 2021 ([RO 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 22
 
@@ -357,7 +360,7 @@ Les masques faciaux pour lesquels aucune procédure d’évaluation de la confor
 [^23-3]: Le renvoi a été adapté au 26 mai 2021 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
 [^23-4]: [RS 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
 [^23-5]: [RS 818.102.4](https://fedlex.data.admin.ch/eli/cc/2021/411)
-[^23-6]: Introduit par l’art.18 de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> juillet 2021 au 31 juin 2022 ([RO 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
+[^23-6]: Introduit par l’art. 18 de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> juillet 2021 au 31 juin 2022 ([RO 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
 
 #### Art. 23a
 
@@ -567,7 +570,7 @@ Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, 
 [^26a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^26a-3]: Nouvelle teneur selon le ch. I de l’O du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^26a-4]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^26a-5]: Nouvelle teneur selon le ch. I de l'O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^26a-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 [^26a-6]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^26a-7]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 26 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
@@ -628,15 +631,15 @@ L’organisateur d’une assemblée de société peut, quel que soit le nombre p
 - a. par écrit ou sous forme électronique, ou
 - b. par l’intermédiaire d’un représentant indépendant désigné par l’organisateur.
 
-<sup>2</sup> Il est habilité à prendre cette décision durant toute la période visée à l’art. 29, al. 4. Il doit la notifier par écrit ou la publier sous forme électronique au plus tard 4 jours avant l’assemblée.[^27-1]
+<sup>2</sup> Il doit notifier sa décision par écrit ou la publier sous forme électronique au plus tard 4 jours avant l’assemblée.[^27-1]
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020 (Prorogation; coûts des tests), en vigueur depuis le 14 sept. 2020 ([RO 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 28 oct. 2021 ([RO 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
-## Chapitre 4*a* Mesures de protection des employés vulnérables
+## Chapitre 4*a***** Mesures de protection des employés vulnérables
 
 [^chap4a-1]
 
-[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 oct. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 27a
 
@@ -739,11 +742,16 @@ Les tests rapides SARS-CoV-2 avec application par un professionnel autorisés en
 
 <sup>3</sup> ...[^29-2]
 
-<sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2021.[^29-3]
+<sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2021, sous réserve de l’al. 5.[^29-3]
+
+<sup>5</sup> L’art. 27 a effet jusqu’à l’entrée en vigueur des dispositions relatives au déroulement de l’assemblée générale prévues par la modification du 19 juin 2020[^29-4] du code des obligations[^29-5] (droit de la société anonyme), mais au plus tard jusqu’au 31 décembre 2023.[^29-6]
 
 [^29-1]: Nouvelle teneur selon le ch. II de l’O du 12 août 2020 (Port du masque obligatoire dans les aéronefs; grandes manifestations), en vigueur depuis le 15 août 2020 ([RO 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-2]: Abrogé par le ch. II de l’O du 12 août 2020 (Port du masque obligatoire dans les aéronefs; grandes manifestations), avec effet au 15 août 2020 ([RO 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
-[^29-3]: Introduit par le ch. I de l’O du 11 sept. 2020 (Prorogation; coûts des tests), en vigueur depuis le 14 sept. 2020 ([RO 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
+[^29-3]: Introduit par le ch. I de l’O du 11 sept. 2020 (Prorogation; coûts des tests ([RO 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)). Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 28 oct. 2021 ([RO 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^29-4]: [RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
+[^29-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-6]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 28 oct. 2021 ([RO 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 Annexe 1*[^t-1]*
 
@@ -787,7 +795,7 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 
 ### 2. Pays et régions à risque avec un variant du virus SARS-CoV-2 dont le risque d’infection ou d’évolution grave de la maladie est plus élevé que pour le variant du virus qui prévaut dans l’espace Schengen (art. 3, al. 2, let. b)
 
-Annexe 1a[^t-2]
+Annexe 1a*[^t-2]*
 
 (art. 4, al. 2, let. a, et 5)
 
@@ -815,11 +823,11 @@ Annexe 1a[^t-2]
 
 [^annex1a-lvlu1-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
-Annexe 2[^t-3]
+Annexe 2*[^t-3]*
 
 [^t-3]: Sans objet suite à l’abrogation de l’art. 8 (art. 6 ch. 1 de l’O COVID-19 du 2 juil. 2020 mesures dans le domaine du transport international de voyageurs; [RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)), le 6 juil. 2020.
 
-Annexe 3[^t-4]
+Annexe 3*[^t-4]*
 
 (art. 9, al. 3)
 
@@ -831,7 +839,7 @@ La circulation des personnes entre les États suivants et la Suisse est interdit
 
 ...
 
-Annexe 4[^t-5]
+Annexe 4*[^t-5]*
 
 (art. 11, al. 1, 19, al. 1, et 21, al. 2)
 
@@ -938,7 +946,7 @@ Annexe 4[^t-5]
 
 \49. Sotrovimab
 
-### 2. Dispositifs médicaux au sens de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux
+### 2. Dispositifs médicaux au sens de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux****
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -966,7 +974,7 @@ Annexe 4[^t-5]
 
 ### 3. Équipements de protection individuelle et autres équipements
 
-### 3.1 Équipements de protection individuelle au sens de l’ordonnance du 25 octobre 2017 sur les EPI
+### 3.1 Équipements de protection individuelle au sens de l’ordonnance du 25 octobre 2017 sur les EPI****
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -985,7 +993,7 @@ Annexe 4[^t-5]
 - 3\. Éthanol
 - 4\. Articles d’hygiène en médecine intensive (p. ex. tapis médicaux absorbants, couches, entérocollecteurs rectaux, articles pour l’hygiène buccale et de la gorge)
 
-Annexe 5[^t-6]
+Annexe 5*[^t-6]*
 
 (art. 21, al. 1 et 3, et 22, al. 1)
 
@@ -997,11 +1005,11 @@ Annexe 5[^t-6]
 - 2\. Bamlanivimab/étésevimab
 - 3\. Sotrovimab
 
-Annexe 5a[^t-7]
+Annexe 5a*[^t-7]*
 
 [^t-7]: Introduite par le ch. III al. 1 de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Abrogée par le ch. II al. 1 de l’O du 25 août 2021, avec effet au 30 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
-Annexe 6[^t-8]
+Annexe 6*[^t-8]*
 
 (art. 26, 26*a*, 26*b* et 26*c*)
 
@@ -1297,7 +1305,7 @@ Annexe 6[^t-8]
 
 [^annex6-lvlu1-lvl1-lvl14-1]: En vigueur jusqu’au 10 oct. 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [582](https://fedlex.data.admin.ch/eli/oc/2021/582)).
 [^annex6-lvlu1-lvl1-lvl14-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^annex6-lvlu1-lvl1-lvl14-3]: En vigueur jusqu'au 30 nov. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^annex6-lvlu1-lvl1-lvl14-3]: En vigueur jusqu’au 30 nov. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 1.5 Mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2
 
@@ -1404,7 +1412,7 @@ Annexe 6[^t-8]
 <tr><td>Pour la création de pool par personne</td><td>2,50 francs</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl1-lvl17-1]: En vigueur jusqu'au 30 nov. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^annex6-lvlu1-lvl1-lvl17-1]: En vigueur jusqu’au 30 nov. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 2 Tarif réduit pour les dépistages ciblés et répétitifs
 
@@ -1450,8 +1458,6 @@ Annexe 6[^t-8]
 <tr><td>Pour la réalisation du test, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat, si le prélèvement de l’échantillon est effectué par la personne testée elle-même</td><td>14 francs</td></tr>
 <tr><td>Pour l’établissement du certificat de test COVID-19</td><td>2,50 francs</td></tr>
 </table>
-
-- [tab]
 
 ### 2.2 Analyses poolées de biologie moléculaire pour le SARS-CoV-2
 
@@ -1597,7 +1603,7 @@ Annexe 6[^t-8]
 <tr><td>Pour l’établissement du certificat de test COVID-19</td><td>2,50 francs</td></tr>
 </table>
 
-### 3.3 …
+### 3.3**** …
 
 [^annex6-lvlu1-lvl3-lvl33-1]
 
@@ -1610,13 +1616,13 @@ Annexe 6[^t-8]
 - 4\.3 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2 selon le ch. 1.5 ou un séquençage du SARS-CoV-2 selon le ch. 1.6 sont réalisés sur une personne par le même fournisseur de prestations, la Confédération prend en charge une seule fois le montant comprenant le traitement du mandat et les frais généraux visés aux ch. 1.1.3, let. b, 1.5.3 et 1.6.3.
 - 4\.4 Lors d’analyses pour le SARS-CoV-2 pour lesquelles le prélèvement de l’échantillon est effectué par la personne testée elle-même, le coût du prélèvement ne doit pas être facturé.
 
-Annexe 7[^t-9]
+Annexe 7*[^t-9]*
 
 (art. 27*a*, al. 10 et 11)
 
 ## Maladies et anomalies génétiques rendant vulnérables les personnes concernées
 
-[^t-9]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 oct. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Mise à jour par le ch. I des O de l’OFSP du 25 fév. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) et du 1<sup>er</sup> avr. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) et le ch. II de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)). Mise à jour par le ch. I des O de l’OFSP du 25 fév. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) et du 1<sup>er</sup> avr. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) et le ch. II de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Selon l’état actuel de la science, seules certaines catégories d’adultes sont vulnérables. Partant, les critères ci-après concernent uniquement les adultes.
 

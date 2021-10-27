@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-10-25
+version: 2021-10-28
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211025/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211025-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211025/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211028/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211028-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211028/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211025/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 25 ottobre 2021)
+del 19 giugno 2020 (Stato 28 ottobre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -306,8 +306,11 @@ La Confederazione può distribuire il materiale medico importante contro pagamen
 
 <sup>4</sup> Sulla base di un’analisi dei rischi e dei benefici Swissmedic può, per i medicamenti impiegati in Svizzera per prevenire e combattere il coronavirus, autorizzare deroghe al processo di fabbricazione approvato nel quadro del rilascio dell’omologazione. Fissa i criteri in base ai quali il responsabile tecnico può emanare la decisione di liberazione sul mercato anticipata dei medicamenti impiegati in Svizzera per prevenire e combattere il coronavirus.
 
+<sup>5</sup> In deroga allʼarticolo 9*a* capoverso 1 lettera c della legge del 15 dicembre 2000 sugli agenti terapeutici, possono essere rilasciate omologazioni temporanee, anche se in Svizzera è disponibile un medicamento alternativo equivalente omologato, a condizione che le omologazioni servano a garantire lʼapprovvigionamento di medicamenti destinati a prevenire e a combattere il coronavirus in Svizzera.[^21-3]
+
 [^21-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^21-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^21-3]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 28 ott. 2021 ([RU 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 22
 
@@ -628,15 +631,15 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 - a. per scritto o in forma elettronica; o
 - b. mediante un rappresentante indipendente designato dall’organizzatore.
 
-<sup>2</sup> L’organizzatore decide durante il termine di cui all’articolo 29 capoverso 4. La disposizione deve essere comunicata per scritto o pubblicata in forma elettronica al più tardi quattro giorni prima della manifestazione.[^27-1]
+<sup>2</sup> La disposizione deve essere comunicata per scritto o pubblicata in forma elettronica al più tardi quattro giorni prima della manifestazione.[^27-1]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020 (Proroga; spese per i test), in vigore dal 14 set. 2020 ([RU 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
+[^27-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 28 ott. 2021 ([RU 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
-## Capitolo 4*a*: Provvedimenti per proteggere i lavoratori particolarmente a rischio
+## Capitolo 4*a*:**** Provvedimenti per proteggere i lavoratori particolarmente a rischio
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ott. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 dic. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 27a
 
@@ -675,7 +678,6 @@ Sono considerate particolarmente a rischio:
 Non sono considerate particolarmente a rischio:
 
 - a. le donne incinte vaccinate contro il COVID-19, durante dodici mesi a partire dalla vaccinazione completa;
-
 - b. le persone di cui al capoverso 10 che sono state contagiate dal SARS-CoV-2 e sono considerate guarite, durante sei mesi a partire dall’undicesimo giorno dopo la conferma del contagio.[^27a-3]
 
 <sup>11</sup> Le patologie e anomalie genetiche di cui al capoverso 10 lettera b sono precisate nell’allegato 7 in base a criteri medici. L’elenco di questi criteri non è esaustivo. È fatta salva una valutazione clinica del rischio nel singolo caso, che può portare a classificare anche persone di cui al capoverso 10<sup>bis</sup> tra quelle particolarmente a rischio.[^27a-4]
@@ -740,11 +742,16 @@ I test rapidi SARS-CoV-2 per uso professionale utilizzati sulla base dell’arti
 
 <sup>3</sup> ...[^29-2]
 
-<sup>4</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2021.[^29-3]
+<sup>4</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2021, fatto salvo il capoverso 5. [^29-3]
+
+<sup>5</sup> L’articolo 27 ha effetto sino all’entrata in vigore delle disposizioni sullo svolgimento dell’assemblea generale di cui alla modifica del 19 giugno 2020[^29-4] del Codice delle obbligazioni[^29-5] (Diritto della società anonima), ma al massimo sino al 31 dicembre 2023. [^29-6]
 
 [^29-1]: Nuovo testo giusta il n. II dell’O del 12 ago. 2020 (Obbligo della mascherina negli aeromobili; grandi manifestazioni), in vigore dal 15 ago. 2020 ([RU 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-2]: Abrogato dal n. II dell’O del 12 ago. 2020 (Obbligo della mascherina negli aeromobili; grandi manifestazioni), con effetto dal 15 ago. 2020 ([RU 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
-[^29-3]: Introdotto dal n. I dell’O dell’11 set. 2020 (Proroga; spese per i test), in vigore dal 14 set. 2020 ([RU 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
+[^29-3]: Introdotto dal n. I dell’O dell’11 set. 2020 (Proroga; spese per i test) ([RU 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)). Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 28 ott. 2021 ([RU 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^29-4]: [RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
+[^29-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-6]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 28 ott. 2021 ([RU 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 Allegato 1*[^t-1]*
 
@@ -816,11 +823,11 @@ Allegato 1a*[^t-2]*
 
 [^annex1a-lvlu1-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 [^t-3]: Privo di oggetto a seguito dell’abrogazione dell’art. 8 (art. 6 n. 1 dell’O del 2 giu. 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 ## Restrizioni del traffico transfrontaliero delle persone
 
@@ -830,7 +837,7 @@ Il traffico delle persone dai seguenti Stati in Svizzera è vietato:
 
 ...
 
-Allegato 4*[^t-5]*
+Allegato 4[^t-5]
 
 (art. 11 cpv. 1, 19 cpv. 1 e 21 cpv. 2)
 
@@ -909,7 +916,7 @@ Allegato 4*[^t-5]*
 
 ### 3. Dispositivi di protezione individuale e altri dispositivi
 
-### 3.1 Dispositivi di protezione individuale ai sensi dell’ordinanzadel 25 ottobre 2017 sui DPI
+### 3.1 Dispositivi di protezione individuale ai sensi dell’ordinanzadel 25 ottobre 2017**** sui DPI
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -1569,7 +1576,7 @@ Allegato 7[^t-9]
 
 ## Malattie e anomalie genetiche che rendono le persone interessate particolarmente a rischio
 
-[^t-9]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ott. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 dic. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio particolare soltanto per determinate categorie di persone adulte. I criteri seguenti si riferiscono pertanto unicamente a persone adulte.
 

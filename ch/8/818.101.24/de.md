@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-10-25
+version: 2021-10-28
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211025/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211025-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211025/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211028/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211028-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211028/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211025/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 25. Oktober 2021)
+vom 19. Juni 2020 (Stand am 28. Oktober 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -306,8 +306,11 @@ Der Bund kann wichtige medizinische Güter gegen Bezahlung im Markt selber oder 
 
 <sup>4</sup> Die Swissmedic kann auf der Grundlage einer Nutzen-/Risiko-Analyse bei Arzneimitteln zur Verhütung und Bekämpfung des Coronavirus in der Schweiz Abweichungen von dem im Rahmen der Zulassung genehmigten Herstellungsprozess bewilligen. Sie legt Kriterien fest, unter denen die fachtechnisch verantwortliche Person eine vorzeitige Marktfreigabe für Arzneimittel zur Verhütung und Bekämpfung des Coronavirus in der Schweiz erteilen kann.
 
+<sup>5</sup> In Abweichung von Artikel 9*a* Absatz 1 Buchstabe c des Heilmittelgesetzes vom 15. Dezember 2000 können befristete Zulassungen erteilt werden, auch wenn in der Schweiz ein zugelassenes, alternativ anwendbares und gleichwertiges Arzneimittel verfügbar ist, sofern die Zulassungen der Sicherstellung der Versorgung mit Arzneimitteln zur Verhütung und Bekämpfung des Coronavirus in der Schweiz dienen.[^21-3]
+
 [^21-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^21-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^21-3]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 28. Okt. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 22
 
@@ -628,15 +631,15 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 - a. auf schriftlichem Weg oder in elektronischer Form; oder
 - b. durch einen vom Veranstalter bezeichneten unabhängigen Stimmrechtvertreter.
 
-<sup>2</sup> Der Veranstalter entscheidet während der Frist gemäss Artikel 29 Absatz 4. Die Anordnung muss spätestens vier Tage vor der Veranstaltung schriftlich mitgeteilt oder elektronisch veröffentlicht werden.[^27-1]
+<sup>2</sup> Die Anordnung muss spätestens vier Tage vor der Veranstaltung schriftlich mitgeteilt oder elektronisch veröffentlicht werden.[^27-1]
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
+[^27-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 28. Okt. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 ## 4*a*. Kapitel:**** Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern
 
 [^chap4a-1]
 
-[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Okt. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 27a
 
@@ -739,11 +742,16 @@ Gestützt auf Artikel 24*a* des bisherigen Rechts zulässige Sars-CoV-2-Schnellt
 
 <sup>3</sup> ...[^29-2]
 
-<sup>4</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2021 verlängert.[^29-3]
+<sup>4</sup> Die Geltungsdauer dieser Verordnung wird unter Vorbehalt von Absatz 5 bis zum 31. Dezember 2021 verlängert.[^29-3]
+
+<sup>5</sup> Artikel 27 gilt bis zur Inkraftsetzung der Bestimmungen über die Durchführung der Generalversammlung der Änderung vom 19. Juni 2020[^29-4] des Obligationenrechts[^29-5] (Aktienrecht), längstens aber bis zum 31. Dezember 2023.[^29-6]
 
 [^29-1]: Fassung gemäss Ziff. II der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen), in Kraft seit 15. Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-2]: Aufgehoben durch Ziff. II der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen), mit Wirkung seit 15. Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
-[^29-3]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
+[^29-3]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten) ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)). Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 28. Okt. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^29-4]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
+[^29-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-6]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 28. Okt. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 Anhang 1*[^t-1]*
 
@@ -1568,7 +1576,7 @@ Anhang 7*[^t-9]*
 
 ## Erkrankungen und genetische Anomalien, welche die Betroffenen zu besonders gefährdeten Personen machen
 
-[^t-9]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Okt. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwachsener Personen von einer besonderen Gefährdung auszugehen. Die nachfolgenden Kriterien beziehen sich deshalb nur auf erwachsene Personen.
 

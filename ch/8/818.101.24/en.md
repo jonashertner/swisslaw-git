@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-10-25
+version: 2021-10-28
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211025/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211025-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211025/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211028/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211028-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211028/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 25 October 2021)
+of 19 June 2020 (Status as of 28 October 2021)
 
 The Swiss Federal Council,
 
@@ -308,8 +308,11 @@ The Confederation may sell the essential medical goods on the market in return f
 
 <sup>4</sup> Swissmedic may on the basis of a risk-benefit analysis permit changes to the manufacturing process approved within the framework of the authorisation of medicinal products used to prevent and treat COVID-19 in Switzerland. It shall specify criteria according to which the person responsible for technical matters may grant an early market release for medicinal products used to prevent and treat COVID-19 in Switzerland.
 
+<sup>5</sup> In derogation from Article 9*a* paragraph 1 letter c of the Therapeutic Products Act of 15 December 2000, temporary authorisations may be issued even if an authorised equivalent medicinal product that can be used as an alternative is available in Switzerland, provided the authorisations serve to guarantee the supply of medicinal products to prevent and combat the coronavirus in Switzerland.[^21-3]
+
 [^21-1]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^21-2]: Amended by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^21-3]: Inserted by No I of the O of 27 Oct. 2021, in force since 28 Oct. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 22
 
@@ -630,15 +633,15 @@ In the case of company meetings, the organiser may, regardless of the probable n
 - a. in writing or online; or
 - b. through an independent proxy appointed by the organiser.
 
-<sup>2</sup> The organiser shall decide within the period specified in Article 29 paragraph 4. Notification of the order must be given in writing or published online no later than four days before the event.[^27-1]
+<sup>2</sup> Notification of the order must be given in writing or published online no later than four days before the event.[^27-1]
 
-[^27-1]: Amended by No I of the O of 11 Sept. 2020 (Extension; Test Costs), in force since 14 Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
+[^27-1]: Amended by No I of the O of 27 Oct. 2021, in force since 28 Oct. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 ## Chapter 4*a***** Measures to protect Employees at High Risk
 
 [^chap4a-1]
 
-[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Oct. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Dec. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 #### Art. 27a
 
@@ -741,11 +744,16 @@ Sars-CoV-2 rapid tests for specialist use that are permitted based on Article 24
 
 <sup>3</sup> ...[^29-2]
 
-<sup>4</sup> The term of application of this Ordinance shall be extended to 31 December 2021.[^29-3]
+<sup>4</sup> The term of application of this Ordinance shall be extended to 31 December 2021, subject to paragraph 5.[^29-3]
+
+<sup>5</sup> Article 27 applies until the provisions on the conduct of general meetings in the Amendment of 19 June 2020[^29-4] to the Swiss Code of Obligations[^29-5] (Company Law) comes into force, but at the latest until 31 December 2023.[^29-6]
 
 [^29-1]: Amended by No II of the O of 12 Aug. 2020 (Requirement to wear Masks in Aircraft; Large-scale Events), in force since 15 Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-2]: Repealed by No II of the O of 12 Aug. 2020 (Requirement to wear Masks in Aircraft; Large-scale Events), with effect from 15 Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
-[^29-3]: Inserted by No I of the O of 11 Sept. 2020 (Extension; Test Costs), in force since 14 Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
+[^29-3]: Inserted by No I of the O of 11 Sept. 2020 (Extension; Test Costs) ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)). Amended by No I of the O of 27 Oct. 2021, in force since 28 Oct. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^29-4]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
+[^29-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-6]: Inserted by No I of the O of 27 Oct. 2021, in force since 28 Oct. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 
 Annex 1*[^t-1]*
 
@@ -1629,7 +1637,7 @@ Annex 7*[^t-9]*
 
 ## Diseases and genetic anomalies that make the persons concerned persons at high risk
 
-[^t-9]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Oct. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Revised in accordance with No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) and No II of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Dec. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)). Revised in accordance with No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) and No II of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 
