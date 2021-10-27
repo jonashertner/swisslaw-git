@@ -4,13 +4,13 @@ number: "423.411.2"
 title: Einführungsverordnung zur eidgenössischen Covid-19-Gesetzgebung im Kulturbereich
 short: EV Covid-19 Kultur
 language: de
-version: 2021-02-03
-valid_until: 2021-10-27
-version_adopted: 2021-02-03
+version: 2021-10-28
+valid_until: 2022-02-28
+version_adopted: 2021-10-27
 adopted: 2020-11-25
 in_force: 2020-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.411.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2136/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2395/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2136/pdf_file"
 
 (EV Covid-19 Kultur)
 
-vom 25.11.2020 (Stand 03.02.2021)
+vom 25.11.2020 (Stand 28.10.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -59,10 +59,10 @@ beschliesst:
 
 <sup>1</sup> Die Ausfallentschädigungen nach Artikel 5 Absatz 2 Covid-19-Kulturverordnung decken höchstens 80 Prozent des finanziellen Schadens.
 
-<sup>2</sup> Sie betragen höchstens 500'000 Franken pro
+<sup>2</sup> Sie betragen höchstens
 
-- a Kulturunternehmen oder
-- b Kulturschaffende oder Kulturschaffenden.
+- a eine Million Franken pro Kulturunternehmen,
+- b 500'000 Franken pro Kulturschaffende oder Kulturschaffenden.
 
 #### Art. 4
 
@@ -139,6 +139,12 @@ beschliesst:
 <sup>2</sup> Sie ist in Anwendung der Artikel 7 und 8 des Publikationsgesetzes vom 18. Januar 1993 (PuG)[^9-1] amtlich zu veröffentlichen (ausserordentliche Veröffentlichung).
 
 [^9-1]: BSG [103.1](https://www.belex.sites.be.ch/data/103.1/de)
+
+## T1 Übergangsbestimmung der Änderung vom 27.10.2021
+
+#### Art. T1-1
+
+<sup>1</sup> Artikel 3 Absatz 2 Buchstabe a ist rückwirkend auf den 1. Dezember 2020 anwendbar.
 
 Bern, 25. November 2020
 

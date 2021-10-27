@@ -4,13 +4,13 @@ number: "423.411.2"
 title: Ordonnance portant introduction de la législation fédérale relative au COVID-19 dans le domaine de la culture
 short: Oi COVID-19 culture
 language: fr
-version: 2021-02-03
-valid_until: 2021-10-27
-version_adopted: 2021-02-03
+version: 2021-10-28
+valid_until: 2022-02-28
+version_adopted: 2021-10-27
 adopted: 2020-11-25
 in_force: 2020-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.411.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2136/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2395/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2136/pdf_file"
 
 (Oi COVID-19 culture)
 
-du 25.11.2020 (état au 03.02.2021)
+du 25.11.2020 (état au 28.10.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -59,10 +59,10 @@ arrête:
 
 <sup>1</sup> Les indemnités pour pertes financières visées à l’article 5, alinéa 2 de l’ordonnance COVID-19 culture couvrent au maximum 80 pour cent du dommage financier.
 
-<sup>2</sup> Elles n’excèdent pas 500'000 francs par
+<sup>2</sup> Elles n’excèdent pas
 
-- a entreprise culturelle ou
-- b acteur ou actrice culturelle.
+- a un million de francs par entreprise culturelle ou
+- b 500'000 francs par acteur ou actrice culturelle.
 
 #### Art. 4
 
@@ -139,6 +139,12 @@ arrête:
 <sup>2</sup> Elle est publiée en application des articles 7 et 8 de la loi du 18 janvier 1993 sur les publications officielles (LPO)[^9-1] (publication extraordinaire).
 
 [^9-1]: RSB [103.1](https://www.belex.sites.be.ch/data/103.1/fr)
+
+## T1 Disposition transitoire de la modification du 27 octobre 2021
+
+#### Art. T1-1
+
+<sup>1</sup> L’article 3, alinéa 2, lettre a est applicable avec effet rétroactif au 1<sup>er</sup> décembre 2020.
 
 Berne, le 25 novembre 2020
 
