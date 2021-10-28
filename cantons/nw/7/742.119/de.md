@@ -4,276 +4,208 @@ number: "742.119"
 title: Einführungsverordnung zum Bundesgesetz über die Krankenversicherung betreffend Einschränkung der Kostenübernahme bei bestimmten elektiven Eingriffen
 language: de
 version: 2020-01-01
-valid_until: 2021-12-31
+corrected: 2021-10-29
 version_adopted: 2019-12-17
 adopted: 2018-12-11
 in_force: 2019-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.119"
-pdf: "https://gesetze.nw.ch/api/de/versions/768/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/322/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Einführungsverordnung zum Bundesgesetz über die Krankenversicherung betreffend Einschränkung der Kostenübernahme bei bestimmten elektiven Eingriffen
 
-vom 11.12.2018 (Stand 01.01.2020)
+vom 11. Dezember 2018[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 32 des Bundesgesetzes über die Krankenversicherung (KVG)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 32 des Bundesgesetzes über die Krankenversicherung (KVG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: SR 832.10
+**§ 1**
 
-#### § 1
+[^t-1]: A 2018, 2191
+[^t-2]: SR 832.10
 
-**Geltungsbereich**
+### Geltungsbereich
 
-<sup>1</sup> Diese Einführungsverordnung regelt die Einschränkung der Kostenübernahme bei bestimmten elektiven Eingriffen, die nicht von Art. 3c der Verordnung über Leistungen in der obligatorischen Krankenpflegeversicherung (Krankenpflege-Leistungsverordnung, KLV[^1-1]) erfasst sind.
+Diese Einführungsverordnung regelt die Einschränkung der Kostenübernahme bei bestimmten elektiven Eingriffen, die nicht von Art. 3c der Verüber Leistungen in der obligatorischen Krankenpflegeversicherung (Krankenpflege-Leistungsverordnung, KLV[^hGeltungsbereich-1] erfasst sind.
 
-[^1-1]: SR 832.112.31
+**ordnung**
 
-#### § 2
+**§ 2**
 
-**Grundsatz**
+[^hGeltungsbereich-1]: SR 832.112.31
 
-<sup>1</sup> Wird ein im Anhang aufgeführter elektiver Eingriff stationär durchgeführt, übernimmt der Kanton die Kosten für die Durchführung dieses Eingriffs nur, wenn eine ambulante Durchführung wegen besonderer Umstände nicht zweckmässig oder nicht wirtschaftlich ist.
+### Grundsatz
 
-#### § 3
+Wird ein im Anhang aufgeführter elektiver Eingriff stationär durchgeführt, übernimmt der Kanton die Kosten für die Durchführung dieses Eingriffs nur, wenn eine ambulante Durchführung wegen besonderer Umstände nicht zweckmässig oder nicht wirtschaftlich ist.
 
-**Ausnahmen bei besonderen Umständen**
+**§ 3**
 
-<sup>1</sup> Eine ambulante Durchführung ist wegen besonderer Umstände nicht zweckmässig oder nicht wirtschaftlich, wenn ein Kriterium gemäss Anhang 1a Ziffer II KLV[^3-1] erfüllt ist oder andere besondere Umstände vorliegen.
+### Ausnahmen bei besonderen Umständen
 
-<sup>2</sup> Die Leistungserbringer haben vor der stationären Durchführung des Eingriffs bei der Kantonsärztin oder beim Kantonsarzt eine Kostengutsprache einzuholen, wobei sie die besonderen Umstände zu dokumentieren haben.
+<sup>1</sup> Eine ambulante Durchführung ist wegen besonderer Umstände nicht zweckmässig oder nicht wirtschaftlich, wenn ein Kriterium gemäss Anhang 1a Ziffer II KLV[^hAusnahmenbeibesond-1] erfüllt ist oder andere besondere Umstände vorlie-
+
+**gen.**
+
+<sup>2</sup> Die Leistungserbringer haben vor der stationären Durchführung des bei der Kantonsärztin oder beim Kantonsarzt eine Kostengutsprache einzuholen, wobei sie die besonderen Umstände zu dokumentieren haben.
 
 <sup>3</sup> Erfolgt die stationäre Durchführung eines Eingriffs ausnahmsweise ohne vorgängige Kostengutsprache, hat der Leistungserbringer die besonderen Umstände zu dokumentieren und nachzuweisen.
 
 <sup>4</sup> Die Kantonsärztin oder der Kantonsarzt kann jederzeit umfassend Einsicht in die Patientenunterlagen nehmen.
 
-[^3-1]: SR 832.112.31
+**§ 4**
 
-#### § 4
+[^hAusnahmenbeibesond-1]: SR 832.112.31
 
-**Inkrafttreten**
+### Inkrafttreten
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2019 in Kraft.
+**Eingriffs**
 
-## A1 Anhang 1: Liste der grundsätzlich ambulant durchzuführenden elektiven Eingriffe
+Diese Verordnung tritt am 1. Januar 2019 in Kraft.
 
-#### § A1-1
+[^hInkrafttreten-1]: A 2018, 2191
 
-**Augen**
+### Liste der grundsätzlich ambulant durchzuführenden elektiven Eingriffe
 
-<sup>1</sup> Katarakt:
+[^hInkrafttreten-1]
 
-<table>
-<tr><th>Kategorie CHOP 2019</th><th>Bezeichnung</th></tr>
-<tr><td>Z13.11</td><td>Intrakapsuläre Extraktion der Linse durch inferioren temporalen Zugang</td></tr>
-<tr><td>Z13.19</td><td>Intrakapsuläre Extraktion der Linse, sonstige</td></tr>
-<tr><td>Z13.2</td><td>Extrakapsuläre Extraktion der Linse durch lineares Extraktionsverfahren</td></tr>
-<tr><td>Z13.3</td><td>Extrakapsuläre Extraktion der Linse durch einfaches Aspirations- (und Irrigations-)Verfahren</td></tr>
-<tr><td>Z13.4</td><td>Extrakapsuläre Extraktion der Linse durch Fragmentations- und Aspirationsverfahren</td></tr>
-<tr><td>Z13.41</td><td>Phakoemulsifikation und Aspiration eines Katarakts</td></tr>
-<tr><td>Z13.42</td><td>Mechanische Phakofragmentation und Aspiration eines Katarakts durch posterioren Zugang</td></tr>
-<tr><td>Z13.43</td><td>Mechanische Phakofragmentation und andere Aspiration eines Katarakts</td></tr>
-<tr><td>Z13.51</td><td>Extrakapsuläre Extraktion der Linse durch inferioren temporalen Zugang</td></tr>
-<tr><td>Z13.59</td><td>Sonstige extrakapsuläre Extraktion der Linse, sonstige</td></tr>
-<tr><td>Z13.64</td><td>Diszision einer Sekundärmembran [nach Katarakt]</td></tr>
-<tr><td>Z13.65</td><td>Exzision einer Sekundärmembran [nach Katarakt]</td></tr>
-<tr><td>Z13.66</td><td>Mechanische Fragmentation einer Sekundärmembran [nach Katarakt]</td></tr>
-<tr><td>Z13.69</td><td>Sonstige Kataraktextraktion, sonstige</td></tr>
-</table>
+**Ziffer**
 
-#### § A1-2
+### Kategorie Bezeichnung CHOP 2019 Augen Katarakt
 
-**Bewegungsapparat**
+**1 1.1**
 
-<sup>1</sup> Handchirurgie:
+Z13.11 Intrakapsuläre Extraktion der Linse durch inferioren temporalen Zugang Z13.19 Intrakapsuläre Extraktion der Linse, sonstige Z13.2 Extrakapsuläre Extraktion der Linse durch lineares Extraktionsverfahren Z13.3 Extrakapsuläre Extraktion der Linse durch einfaches
 
-<table>
-<tr><th>Kategorie CHOP 2019</th><th>Bezeichnung</th></tr>
-<tr><td>Z04.43.00</td><td>Entlastung am Karpaltunnel, nicht näher bezeichnet</td></tr>
-<tr><td>Z04.43.10</td><td>Entlastung am Karpaltunnel, endoskopisch</td></tr>
-<tr><td>Z04.43.99</td><td>Entlastung am Karpaltunnel, sonstige</td></tr>
-<tr><td>Z04.49.13</td><td>Sonstige Dekompression oder Lösung von Adhäsionen an Nerven der Hand</td></tr>
-<tr><td>Z80.23.10</td><td>Diagnostische Arthroskopie des Handgelenkes</td></tr>
-<tr><td>Z80.23.99</td><td>Arthroskopie des Handgelenks, sonstige</td></tr>
-<tr><td>Z80.24</td><td>Arthroskopie von Hand- und Finger</td></tr>
-<tr><td>Z80.34.00</td><td>Gelenkbiopsie an Hand und Finger, nicht näher bezeichnet</td></tr>
-<tr><td>Z80.34.10</td><td>Perkutane (Nadel-) Biopsie an Hand und Finger</td></tr>
-<tr><td>Z80.34.20</td><td>Arthroskopische Gelenkbiopsie an Hand und Finger</td></tr>
-<tr><td>Z80.34.30</td><td>Offene Gelenkbiopsie an Hand und Finger</td></tr>
-<tr><td>Z80.34.99</td><td>Gelenkbiopsie an Hand und Finger, sonstige</td></tr>
-<tr><td>Z80.44.99</td><td>Durchtrennung von Gelenkkapsel, Ligament oder Knorpel an Hand und Fingern, sonstige</td></tr>
-<tr><td>Z80.74.00</td><td>Synovektomie an Hand und Finger, nicht näher bezeichnet</td></tr>
-<tr><td>Z80.74.10</td><td>Synovektomie an Hand und Finger</td></tr>
-<tr><td>Z80.74.99</td><td>Synovektomie an Hand und Finger, sonstige</td></tr>
-<tr><td>Z80.83.00</td><td>Sonstige lokale Exzision oder Destruktion einer Gelenksläsion am Handgelenk, nicht näher bezeichnet</td></tr>
-<tr><td>Z80.83.10</td><td>Arthroskopische lokale Exzision oder Destruktion einer Gelenksläsion am Handgelenk</td></tr>
-<tr><td>Z80.83.11</td><td>Débridement am Handgelenk</td></tr>
-<tr><td>Z80.83.12</td><td>Zystenexstirpation am Handgelenk</td></tr>
-<tr><td>Z80.83.99</td><td>Sonstige lokale Exzision oder Destruktion einer Gelenksläsion am Handgelenk, sonstige</td></tr>
-<tr><td>Z80.84.00</td><td>Sonstige lokale Exzision oder Destruktion einer Gelenksläsion an Hand und Finger, nicht näher bezeichnet</td></tr>
-<tr><td>Z80.84.10</td><td>Débridement an Gelenken der Handwurzel</td></tr>
-<tr><td>Z80.84.20</td><td>Débridement an sonstigen Gelenken der Hand und Finger</td></tr>
-<tr><td>Z80.84.99</td><td>Sonstige lokale Exzision oder Destruktion einer Gelenksläsion an Hand und Finger, sonstige</td></tr>
-<tr><td>Z80.93.00</td><td>Sonstige Exzision am Handgelenk, nicht näher bezeichnet</td></tr>
-<tr><td>Z80.93.10</td><td>Arthroskopische Exzision am Handgelenk</td></tr>
-<tr><td>Z80.93.11</td><td>Entnahme eines Knorpeltransplantates am Handgelenk</td></tr>
-<tr><td>Z80.93.12</td><td>Resektion des Discus triangularis am Handgelenk</td></tr>
-<tr><td>Z80.93.99</td><td>Sonstige Exzision am Handgelenk, sonstige</td></tr>
-<tr><td>Z80.94</td><td>Sonstige Exzision an Hand- und Fingergelenk</td></tr>
-<tr><td>Z82.21</td><td>Exzision einer Läsion an einer Sehnenscheide der Hand</td></tr>
-<tr><td>Z86.2A.16</td><td>Chirurgisches Débridement, kleinflächig, an der Hand</td></tr>
-<tr><td>Z86.2B.16</td><td>Débridement, kleinflächig, an der Hand</td></tr>
-<tr><td>Z86.2B.26</td><td>Débridement, grossflächig, an der Hand</td></tr>
-</table>
+Aspirations- (und Irrigations-)Verfahren
 
-<sup>2</sup> Fusschirurgie (exkl. Hallux valgus):
+Z13.4 Extrakapsuläre Extraktion der Linse durch Fragmen-
 
-<table>
-<tr><th>Kategorie CHOP 2019</th><th>Bezeichnung</th></tr>
-<tr><td>Z77.54</td><td>Resektion oder Korrekturosteotomie bei Digitus quintus varus</td></tr>
-<tr><td>Z77.56</td><td>Plastische Rekonstruktion bei Hammerzehe</td></tr>
-<tr><td>Z77.89.40</td><td>Sonstige partielle Knochenresektion an Phalangen des Fusses</td></tr>
-<tr><td>Z77.99.40</td><td>Totale Knochenresektionen an Phalangen des Fusses</td></tr>
-</table>
+tations- und Aspirationsverfahren
 
-<sup>3</sup> Osteosynthesematerialentfernungen:
+Z13.41 Phakoemulsifikation und Aspiration eines Katarakts Z13.42 Mechanische Phakofragmentation und Aspiration ei-
 
-<table>
-<tr><th>Kategorie CHOP 2019</th><th>Bezeichnung</th></tr>
-<tr><td>Z78.60.08</td><td>Entfernung eines internen Verlängerungs- oder Knochentransportsystems (motorisiert / nicht-motorisiert), jede Lokalisation</td></tr>
-<tr><td>Z78.60.99</td><td>Knochenimplantatentfernung, ohne Angabe der Lokalisation, sonstige</td></tr>
-<tr><td>Z78.61.00</td><td>Knochenimplantatentfernung an Skapula, Klavikula, Rippen und Sternum, nicht näher bezeichnet</td></tr>
-<tr><td>Z78.61.01</td><td>Knochenimplantatentfernung an Skapula und Klavikula, Draht, intramedullärer Draht, Schraube, Zuggurtung / Cerclage, Platte, winkelstabile Platte, Fixateur externe, Blount-Klammern</td></tr>
-<tr><td>Z78.61.05</td><td>Knochenimplantatentfernung an Skapula, Klavikula, Rippen und Sternum, Entfernung eines Knochen(teil)ersatzes an Skapula, Klavikula, Rippen und Sternum</td></tr>
-<tr><td>Z78.61.08</td><td>Knochenimplantatentfernung an Skapula und Klavikula, sonstiges Osteosynthesematerial</td></tr>
-<tr><td>Z78.61.11</td><td>Knochenimplantatentfernung an Rippen und Sternum</td></tr>
-<tr><td>Z78.61.99</td><td>Knochenimplantatentfernung an Skapula, Klavikula, Rippen und Sternum, sonstige</td></tr>
-<tr><td>Z78.63.00</td><td>Knochenimplantatentfernung an Radius und Ulna, nicht näher bezeichnet</td></tr>
-<tr><td>Z78.63.01</td><td>Knochenimplantatentfernung an Radius und Ulna, (intramedullärer) Draht, Schraube, Zuggurtung / Cerclage, (winkelstabile) Platte, Winkelplatte / Kondylenplatte, Marknagel, Verriegelungsnagel, Transfixationsnagel, Fixateur externe, Ringfixateur, (Blount-)Klammern</td></tr>
-<tr><td>Z78.63.05</td><td>Knochenimplantatentfernung an Radius und Ulna, Entfernung eines Knochen(teil)ersatzes an Radius und Ulna</td></tr>
-<tr><td>Z78.63.08</td><td>Knochenimplantatentfernung an Radius und Ulna (proximal / Schaft / distal), sonstiges</td></tr>
-<tr><td>Z78.63.99</td><td>Knochenimplantatentfernung an Radius und Ulna, sonstige</td></tr>
-<tr><td>Z78.64.00</td><td>Knochenimplantatentfernung an Karpalia und Metakarpalia, nicht näher bezeichnet</td></tr>
-<tr><td>Z78.64.01</td><td>Knochenimplantatentfernung an Karpalia und Metakarpalia, (intramedullärer) Draht, Schraube, Zuggurtung/Cerclage, (winkelstabile) Platte, Fixateur externe, Ringfixateur, (Blount-)Klammern</td></tr>
-<tr><td>Z78.64.05</td><td>Knochenimplantatentfernung an Karpalia und Metakarpalia, Entfernung eines Knochen(teil)ersatzes an Karpalia und Metakarpalia</td></tr>
-<tr><td>Z78.64.08</td><td>Knochenimplantatentfernung an Karpalia und Metakarpalia, sonstiges Osteosynthesematerial</td></tr>
-<tr><td>Z78.64.99</td><td>Knochenimplantatentfernung an Karpalia und Metakarpalia, sonstige</td></tr>
-<tr><td>Z78.66.00</td><td>Knochenimplantatentfernung an der Patella, nicht näher bezeichnet</td></tr>
-<tr><td>Z78.66.01</td><td>Knochenimplantatentfernung an der Patella, (intramedullärer) Draht, Schraube, Zuggurtung / Cerclage, Fixateur externe, (Blount-) Klammern</td></tr>
-<tr><td>Z78.66.08</td><td>Knochenimplantatentfernung an der Patella, sonstiges Osteosynthesematerial</td></tr>
-<tr><td>Z78.66.99</td><td>Knochenimplantatentfernung an der Patella, sonstige</td></tr>
-<tr><td>Z78.67.00</td><td>Knochenimplantatentfernung an Tibia und Fibula, nicht näher bezeichnet</td></tr>
-<tr><td>Z78.67.01</td><td>Knochenimplantatentfernung an Tibia und Fibula, (intramedullärer) Draht, Schraube, Zuggurtung / Cerclage, Fixateur externe, Ringfixateur, (Blount-)Klammern</td></tr>
-<tr><td>Z78.67.05</td><td>Knochenimplantatentfernung an Tibia und Fibula, Entfernung eines Knochen(teil)ersatzes an Tibia und Fibula</td></tr>
-<tr><td>Z78.67.13</td><td>Knochenimplantatentfernung an der Tibia, dynamische Kompressionsschraube</td></tr>
-<tr><td>Z78.67.21</td><td>Knochenimplantatentfernung an der Fibula, (winkelstabile) Platte</td></tr>
-<tr><td>Z78.67.22</td><td>Knochenimplantatentfernung an der Fibula, Marknagel, Verriegelungsnagel, Transfixationsnagel</td></tr>
-<tr><td>Z78.67.28</td><td>Knochenimplantatentfernung an Tibia und Fibula, sonstiges Osteosynthesematerial</td></tr>
-<tr><td>Z78.67.99</td><td>Knochenimplantatentfernung an Tibia und Fibula, sonstige</td></tr>
-<tr><td>Z78.68.00</td><td>Knochenimplantatentfernung an Tarsalia und Metatarsalia, nicht näher bezeichnet</td></tr>
-<tr><td>Z78.68.01</td><td>Knochenimplantatentfernung an Tarsalia und Metatarsalia, (intramedullärer) Draht, Schraube, Zuggurtung / Cerclage, (winkelstabile) Platte, Fixateur externe, Ringfixateur, (Blount-)Klammern</td></tr>
-<tr><td>Z78.68.06</td><td>Knochenimplantatentfernung an Tarsalia und Metatarsalia, Entfernung eines Knochen(teil)ersatzes an sonstigen Tarsalia und Metatarsalia</td></tr>
-<tr><td>Z78.68.08</td><td>Knochenimplantatentfernung an Tarsalia und Metatarsalia, sonstiges Osteosynthesematerial</td></tr>
-<tr><td>Z78.68.99</td><td>Knochenimplantatentfernung an Tarsalia und Metatarsalia, sonstige</td></tr>
-<tr><td>Z78.69.00</td><td>Knochenimplantatentfernung an anderen näher bezeichneten Knochen, ausser Gesichtsschädelknochen, nicht näher bezeichnet</td></tr>
-<tr><td>Z78.69.11</td><td>Knochenimplantatentfernung an Phalangen der Hand, (intramedullärer) Draht, Schraube, Zuggurtung / Cerclage, (winkelstabile) Platte, Fixateur externe, (Blount-)Klammern</td></tr>
-<tr><td>Z78.69.15</td><td>Knochenimplantatentfernung an anderen näher bezeichneten Knochen, ausser Gesichtsschädelknochen, Entfernung eines Knochen(teil)ersatzes an Phalangen der Hand</td></tr>
-<tr><td>Z78.69.18</td><td>Knochenimplantatentfernung an Phalangen der Hand, sonstiges Osteosynthesematerial</td></tr>
-<tr><td>Z78.69.31</td><td>Knochenimplantatentfernung an Talus und Kalkaneus, (intramedullärer) Draht, Schraube, Zuggurtung / Cerclage, (winkelstabile) Platte, Fixateur externe, Ringfixateur, (Blount-)Klammern</td></tr>
-<tr><td>Z78.69.38</td><td>Knochenimplantatentfernung an Talus und Kalkaneus, sonstiges Osteosynthesematerial</td></tr>
-<tr><td>Z78.69.41</td><td>Knochenimplantatentfernung an Phalangen des Fusses, (intramedullärer) Draht, Schraube, Zuggurtung / Cerclage, (winkelstabile) Platte, Fixateur externe, (Blount-)Klammern</td></tr>
-<tr><td>Z78.69.45</td><td>Knochenimplantatentfernung an anderen näher bezeichneten Knochen, ausser Gesichtsschädelknochen, Entfernung eines Knochen(teil)ersatzes an Phalangen des Fusses</td></tr>
-<tr><td>Z78.69.48</td><td>Knochenimplantatentfernung an Phalangen des Fusses, sonstiges Osteosynthesematerial</td></tr>
-<tr><td>Z78.69.51</td><td>Knochenimplantatentfernung an anderen näher bezeichneten Knochen, Draht, Zuggurtung / Cerclage, Blount-Klammern</td></tr>
-<tr><td>Z78.69.71</td><td>Arthroskopische Entfernung von Osteosynthesematerial</td></tr>
-</table>
+nes Katarakts durch posterioren Zugang
 
-#### § A1-3
+Z13.43 Mechanische Phakofragmentation und andere Aspiration eines Katarakts Z13.51 Extrakapsuläre Extraktion der Linse durch inferioren temporalen Zugang Z13.59 Sonstige extrakapsuläre Extraktion der Linse, sonstige Z13.64 Diszision einer Sekundärmembran [nach Katarakt] Z13.65 Exzision einer Sekundärmembran [nach Katarakt] Z13.66 Mechanische Fragmentation einer Sekundärmembran [nach Katarakt] Z13.69 Sonstige Kataraktextraktion, sonstige
 
-**Kardiologie**
+**2 2.1**
 
-<sup>1</sup> Kardiologische Untersuchungsverfahren:
+### Bewegungsapparat Handchirurgie
 
-<table>
-<tr><th>Kategorie CHOP 2019</th><th>Bezeichnung</th></tr>
-<tr><td>Z37.20.00</td><td>Nicht-invasive programmierte elektrische Stimulation (NIPS), nicht näher bezeichnet</td></tr>
-<tr><td>Z37.20.11</td><td>Herz Testen bei implantiertem Schrittmacher, mit Arrhythmieinduktion</td></tr>
-<tr><td>Z37.20.12</td><td>Herz Testen bei implantiertem Schrittmacher mit der Möglichkeit der Fernüberwachung</td></tr>
-<tr><td>Z37.20.13</td><td>Herz Testen bei implantiertem Kardioverter / Defibrillator (ICD) mit Arrhythmieinduktion</td></tr>
-<tr><td>Z37.20.22</td><td>Herz Testen bei implantiertem Kardioverter / Defibrillator (ICD) mit der Möglichkeit der Fernüberwachung</td></tr>
-<tr><td>Z37.20.99</td><td>Nicht-invasive programmierte elektrische Stimulation (NIPS), sonstige</td></tr>
-<tr><td>Z37.21</td><td>Rechtsherzkatheter</td></tr>
-<tr><td>Z37.22</td><td>Linksherzkatheter</td></tr>
-<tr><td>Z37.23</td><td>Kombinierter Rechts- und Linksherzkatheter</td></tr>
-<tr><td>Z88.50</td><td>Angiokardiographie, nicht näher bezeichnet</td></tr>
-<tr><td>Z88.51</td><td>Angiokardiographie der Vv. cavae</td></tr>
-<tr><td>Z88.52</td><td>Angiokardiographie von Strukturen des rechten Herzens</td></tr>
-<tr><td>Z88.53</td><td>Angiokardiographie von Strukturen des linken Herzens</td></tr>
-<tr><td>Z88.54</td><td>Kombinierte Angiokardiographie des rechten und linken Herzens</td></tr>
-<tr><td>Z88.55</td><td>Koronare Arteriographie mit einem einzigen Katheter</td></tr>
-<tr><td>Z88.56</td><td>Koronare Arteriographie mit zwei Kathetern</td></tr>
-<tr><td>Z88.57</td><td>Sonstige und nicht näher bezeichnete koronare Arteriographie</td></tr>
-<tr><td>Z88.58</td><td>Negativ-Kontrast Radiographie des Herzens</td></tr>
-</table>
+Z04.43.00 Entlastung am Karpaltunnel, nicht näher bezeichnet Z04.43.10 Entlastung am Karpaltunnel, endoskopisch Z04.43.99 Entlastung am Karpaltunnel, sonstige Z04.49.13 Sonstige Dekompression oder Lösung von Adhäsionen an Nerven der Hand Z80.23.10 Diagnostische Arthroskopie des Handgelenkes Z80.23.99 Arthroskopie des Handgelenks, sonstige Z80.24 Arthroskopie von Hand- und Finger Z80.34.00 Gelenkbiopsie an Hand und Finger, nicht näher bezeichnet Z80.34.10 Perkutane (Nadel-) Biopsie an Hand und Finger Z80.34.20 Arthroskopische Gelenkbiopsie an Hand und Finger Z80.34.30 Offene Gelenkbiopsie an Hand und Finger Z80.34.99 Gelenkbiopsie an Hand und Finger, sonstige Z80.44.99 Durchtrennung von Gelenkkapsel, Ligament oder
 
-<sup>2</sup> Herzschrittmacher inkl. Wechsel:
+Knorpel an Hand und Fingern, sonstige
 
-<table>
-<tr><th>Kategorie CHOP 2019</th><th>Bezeichnung</th></tr>
-<tr><td>Z37.8A.00</td><td>Implantation eines permanenten Herzschrittmachers, nicht näher bezeichnet</td></tr>
-<tr><td>Z37.8A.11</td><td>Implantation eines Einkammer-Schrittmachers</td></tr>
-<tr><td>Z37.8A.21</td><td>Implantation eines Zweikammer-Schrittmachers, ohne antitachykarde Stimulation</td></tr>
-<tr><td>Z37.8A.22</td><td>Implantation eines Zweikammer-Schrittmachers, mit antitachykarder Stimulation</td></tr>
-<tr><td>Z37.8A.31</td><td>Implantation eines Resynchronisationsherzschrittmacher (CRT-P)</td></tr>
-<tr><td>Z37.8A.99</td><td>Implantation eines permanenten Herzschrittmachers, sonstige</td></tr>
-<tr><td>Z37.8C</td><td>Implantation eines Ereignisrekorders</td></tr>
-<tr><td>Z37.8D</td><td>Entfernen eines Ereignisrekorders</td></tr>
-</table>
+Z80.74.00 Synovektomie an Hand und Finger, nicht näher bezeichnet Z80.74.10 Synovektomie an Hand und Finger Z80.74.99 Synovektomie an Hand und Finger, sonstige Z80.83.00 Sonstige lokale Exzision oder Destruktion einer Gelenksläsion am Handgelenk, nicht näher bezeichnet Z80.83.10 Arthroskopische lokale Exzision oder Destruktion ei-
 
-#### § A1-4
+ner Gelenksläsion am Handgelenk
 
-**Gefässe**
+Z80.83.11 Débridement am Handgelenk Z80.83.12 Zystenexstirpation am Handgelenk Z80.83.99 Sonstige lokale Exzision oder Destruktion einer Ge-
 
-<sup>1</sup> Perkutane transluminale Angioplastik inkl. Ballondilatation i.d.R. exkl. Zugang mittels einer Schleuse &gt;6F:
+lenksläsion am Handgelenk, sonstige
 
-<table>
-<tr><th>Kategorie CHOP 2019</th><th>Bezeichnung</th></tr>
-<tr><td>Z39.50.00</td><td>Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en), nicht näher bezeichnet</td></tr>
-<tr><td>Z39.50.10</td><td>Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit Ballon, nicht näher bezeichnet</td></tr>
-<tr><td>Z39.50.11</td><td>Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit einfacher Ballon</td></tr>
-<tr><td>Z39.50.12</td><td>Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit cutting Ballon</td></tr>
-<tr><td>Z39.50.13</td><td>Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit Kryoplastie-Ballon</td></tr>
-<tr><td>Z39.50.14</td><td>Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit Drug eluting Ballon</td></tr>
-<tr><td>Z39.50.19</td><td>Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit sonstiger Ballon</td></tr>
-<tr><td>Z39.50.20</td><td>Angioplastik Blade-Laserangioplastie an sonstigem(n) Nicht-Herzkranzgefäss(en)</td></tr>
-<tr><td>Z39.50.99</td><td>Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en), sonstige</td></tr>
-</table>
+Z80.84.00 Sonstige lokale Exzision oder Destruktion einer Gelenksläsion an Hand und Finger, nicht näher bezeichnet Z80.84.10 Débridement an Gelenken der Handwurzel Z80.84.20 Débridement an sonstigen Gelenken der Hand und Finger Z80.84.99 Sonstige lokale Exzision oder Destruktion einer Gelenksläsion an Hand und Finger, sonstige Z80.93.00 Sonstige Exzision am Handgelenk, nicht näher bezeichnet Z80.93.10 Arthroskopische Exzision am Handgelenk Z80.93.11 Entnahme eines Knorpeltransplantates am Handgelenk Z80.93.12 Resektion des Discus triangularis am Handgelenk Z80.93.99 Sonstige Exzision am Handgelenk, sonstige Z80.94 Sonstige Exzision an Hand- und Fingergelenk Z82.21 Exzision einer Läsion an einer Sehnenscheide der Hand Z86.2A.16 Chirurgisches Débridement, kleinflächig, an der Hand Z86.2B.16 Débridement, kleinflächig, an der Hand Z86.2B.26 Débridement, grossflächig, an der Hand
 
-#### § A1-5
+**2.2**
 
-**Chirurgie**
+### Fusschirurgie (exkl. Hallux valgus)
 
-<sup>1</sup> Zirkumzision:
+Z77.54 Resektion oder Korrekturosteotomie bei Digitus quintus varus Z77.56 Plastische Rekonstruktion bei Hammerzehe Z77.89.40 Sonstige partielle Knochenresektion an Phalangen des Fusses Z77.99.40 Totale Knochenresektionen an Phalangen des Fusses
 
-<table>
-<tr><th>Kategorie CHOP 2019</th><th>Bezeichnung</th></tr>
-<tr><td>Z64.0</td><td>Zirkumzision</td></tr>
-</table>
+**2.3**
 
-#### § A1-6
+### Osteosynthesematerialentfernungen
 
-**Urologie**
+Z78.60.08 Entfernung eines internen Verlängerungs- oder Knochentransportsystems (motorisiert / nicht-motorisiert), jede Lokalisation Z78.60.99 Knochenimplantatentfernung, ohne Angabe der Lokalisation, sonstige Z78.61.00 Knochenimplantatentfernung an Skapula, Klavikula, Rippen und Sternum, nicht näher bezeichnet Z78.61.01 Knochenimplantatentfernung an Skapula und Klavikula, Draht, intramedullärer Draht, Schraube, Zuggurtung/Cerclage, Platte, winkelstabile Platte, Fixateur externe, Blount-Klammern Z78.61.05 Knochenimplantatentfernung an Skapula, Klavikula, Rippen und Sternum, Entfernung eines Knochen(teil)ersatzes an Skapula, Klavikula, Rippen und Sternum Z78.61.08 Knochenimplantatentfernung an Skapula und Klavi-
 
-<sup>1</sup> Extrakorporelle Stosswellenlithotripsie (ESWL):
+kula, sonstiges Osteosynthesematerial
 
-<table>
-<tr><th>Kategorie CHOP 2019</th><th>Bezeichnung</th></tr>
-<tr><td>Z98.51</td><td>Extrakorporelle Stosswellen-Lithotripsie [ESWL] von Niere, Ureter und / oder Blase</td></tr>
-</table>
+Z78.61.11 Knochenimplantatentfernung an Rippen und Sternum Z78.61.99 Knochenimplantatentfernung an Skapula, Klavikula, Rippen und Sternum, sonstige Z78.63.00 Knochenimplantatentfernung an Radius und Ulna, nicht näher bezeichnet Z78.63.01 Knochenimplantatentfernung an Radius und Ulna, (intramedullärer) Draht, Schraube, Zuggurtung/Cerclage, (winkelstabile) Platte, Winkelplatte/Kondylenplatte, Marknagel, Verriegelungsnagel, Transfixationsnagel, Fixateur externe, Ringfixateur, (Blount)Klammern Z78.63.05 Knochenimplantatentfernung an Radius und Ulna, Entfernung eines Knochen(teil)ersatzes an Radius und Ulna Z78.63.08 Knochenimplantatentfernung an Radius und Ulna
 
-A 2018, 2191
+(proximal / Schaft / distal), sonstiges
+
+Z78.63.99 Knochenimplantatentfernung an Radius und Ulna, sonstige Z78.64.00 Knochenimplantatentfernung an Karpalia und Me-
+
+takarpalia, nicht näher bezeichnet
+
+Z78.64.01 Knochenimplantatentfernung an Karpalia und Metakarpalia, (intramedullärer) Draht, Schraube, Zuggurtung/Cerclage, (winkelstabile) Platte, Fixateur ex-
+
+terne, Ringfixateur, (Blount)Klammern
+
+Z78.64.05 Knochenimplantatentfernung an Karpalia und Metakarpalia, Entfernung eines Knochen(teil)ersatzes an Karpalia und Metakarpalia Z78.64.08 Knochenimplantatentfernung an Karpalia und Metakarpalia, sonstiges Osteosynthesematerial Z78.64.99 Knochenimplantatentfernung an Karpalia und Metakarpalia, sonstige Z78.66.00 Knochenimplantatentfernung an der Patella, nicht näher bezeichnet Z78.66.01 Knochenimplantatentfernung an der Patella, (intramedullärer) Draht, Schraube, Zuggurtung/Cerclage, Fixateur externe, (Blount-) Klammern Z78.66.08 Knochenimplantatentfernung an der Patella, sonstiges Osteosynthesematerial Z78.66.99 Knochenimplantatentfernung an der Patella, sonstige Z78.67.00 Knochenimplantatentfernung an Tibia und Fibula, nicht näher bezeichnet Z78.67.01 Knochenimplantatentfernung an Tibia und Fibula, (intramedullärer) Draht, Schraube, Zuggurtung/Cerclage, Fixateur externe, Ringfixateur, (Blount-)Klammern Z78.67.05 Knochenimplantatentfernung an Tibia und Fibula, Entfernung eines Knochen(teil)ersatzes an Tibia und Fibula Z78.67.13 Knochenimplantatentfernung an der Tibia, dynamische Kompressionsschraube Z78.67.21 Knochenimplantatentfernung an der Fibula, (winkelstabile) Platte Z78.67.22 Knochenimplantatentfernung an der Fibula, Marknagel, Verriegelungsnagel, Transfixationsnagel Z78.67.28 Knochenimplantatentfernung an Tibia und Fibula,
+
+sonstiges Osteosynthesematerial
+
+Z78.67.99 Knochenimplantatentfernung an Tibia und Fibula, sonstige Z78.68.00 Knochenimplantatentfernung an Tarsalia und Meta-
+
+tarsalia, nicht näher bezeichnet
+
+Z78.68.01 Knochenimplantatentfernung an Tarsalia und Metatarsalia, (intramedullärer) Draht, Schraube, Zuggurtung/Cerclage, (winkelstabile) Platte, Fixateur ex-
+
+terne, Ringfixateur, (Blount)Klammern
+
+Z78.68.06 Knochenimplantatentfernung an Tarsalia und Metatarsalia, Entfernung eines Knochen(teil)ersatzes an
+
+sonstigen Tarsalia und Metatarsalia
+
+Z78.68.08 Knochenimplantatentfernung an Tarsalia und Metatarsalia, sonstiges Osteosynthesematerial Z78.68.99 Knochenimplantatentfernung an Tarsalia und Metatarsalia, sonstige Z78.69.00 Knochenimplantatentfernung an anderen näher bezeichneten Knochen, ausser Gesichtsschädelknochen, nicht näher bezeichnet Z78.69.11 Knochenimplantatentfernung an Phalangen der Hand, (intramedullärer) Draht, Schraube, Zuggurtung/Cerclage, (winkelstabile) Platte, Fixateur externe, (Blount-)Klammern Z78.69.15 Knochenimplantatentfernung an anderen näher bezeichneten Knochen, ausser Gesichtsschädelknochen, Entfernung eines Knochen(teil)ersatzes an Phalangen der Hand Z78.69.18 Knochenimplantatentfernung an Phalangen der
+
+Hand, sonstiges Osteosynthesematerial
+
+Z78.69.31 Knochenimplantatentfernung an Talus und Kalkaneus, (intramedullärer) Draht, Schraube, Zuggurtung/Cerclage, (winkelstabile) Platte, Fixateur ex-
+
+terne, Ringfixateur, (Blount)Klammern
+
+Z78.69.38 Knochenimplantatentfernung an Talus und Kalka-
+
+neus, sonstiges Osteosynthesematerial
+
+Z78.69.41 Knochenimplantatentfernung an Phalangen des Fusses, (intramedullärer) Draht, Schraube, Zuggurtung/Cerclage, (winkelstabile) Platte, Fixateur externe, (Blount-)Klammern Z78.69.45 Knochenimplantatentfernung an anderen näher bezeichneten Knochen, ausser Gesichtsschädelknochen, Entfernung eines Knochen(teil)ersatzes an Phalangen des Fusses Z78.69.48 Knochenimplantatentfernung an Phalangen des Fus-
+
+ses, sonstiges Osteosynthesematerial
+
+Z78.69.51 Knochenimplantatentfernung an anderen näher bezeichneten Knochen, Draht, Zuggurtung/Cerclage, Blount-Klammern Z78.69.71 Arthroskopische Entfernung von Osteosynthesematerial
+
+**3 3.1**
+
+### Kardiologie Kardiologische Untersuchungsverfahren
+
+Z37.20.00 Nicht-invasive programmierte elektrische Stimulation (NIPS), nicht näher bezeichnet Z37.20.11 Herz Testen bei implantiertem Schrittmacher, mit Arrhythmieinduktion Z37.20.12 Herz Testen bei implantiertem Schrittmacher mit der
+
+Möglichkeit der Fernüberwachung
+
+Z37.20.13 Herz Testen bei implantiertem Kardioverter/Defibrillator (ICD) mit Arrhythmieinduktion Z37.20.22 Herz Testen bei implantiertem Kardioverter/Defibrillator (ICD) mit der Möglichkeit der Fernüberwachung Z37.20.99 Nicht-invasive programmierte elektrische Stimulation (NIPS), sonstige Z37.21 Rechtsherzkatheter Z37.22 Linksherzkatheter Z37.23 Kombinierter Rechts- und Linksherzkatheter Z88.50 Angiokardiographie, nicht näher bezeichnet Z88.51 Angiokardiographie der Vv. cavae Z88.52 Angiokardiographie von Strukturen des rechten Herzens Z88.53 Angiokardiographie von Strukturen des linken Herzens Z88.54 Kombinierte Angiokardiographie des rechten und linken Herzens Z88.55 Koronare Arteriographie mit einem einzigen Katheter Z88.56 Koronare Arteriographie mit zwei Kathetern Z88.57 Sonstige und nicht näher bezeichnete koronare Arteriographie Z88.58 Negativ-Kontrast Radiographie des Herzens
+
+**3.2**
+
+### Herzschrittmacher inkl. Wechsel
+
+Z37.8A.00 Implantation eines permanenten Herzschrittmachers, nicht näher bezeichnet Z37.8A.11 Implantation eines Einkammer-Schrittmachers Z37.8A.21 Implantation eines Zweikammer-Schrittmachers, ohne antitachykarde Stimulation Z37.8A.22 Implantation eines Zweikammer-Schrittmachers, mit antitachykarder Stimulation Z37.8A.31 Implantation eines Resynchronisationsherzschrittmacher (CRT-P) Z37.8A.99 Implantation eines permanenten Herzschrittmachers, sonstige
+
+Z37.8C Implantation eines Ereignisrekorders
+
+Z37.8D Entfernen eines Ereignisrekorders
+
+### 4 Gefässe 4.1 Perkutane transluminale Angioplastik inkl. Ballondilatation
+
+i.d.R. exkl. Zugang mittels einer Schleuse &gt;6F Z39.50.00 Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en), nicht näher bezeichnet Z39.50.10 Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit Ballon, nicht näher bezeichnet Z39.50.11 Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit einfacher Ballon Z39.50.12 Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit cutting Ballon Z39.50.13 Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit Kryoplastie-Ballon Z39.50.14 Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit Drug eluting Ballon Z39.50.19 Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en) mit sonstiger Ballon Z39.50.20 Angioplastik Blade- Laserangioplastie an sonstigem(n) Nicht-Herzkranzgefäss(en) Z39.50.99 Angioplastik oder Atherektomie an sonstigem(n) Nicht-Herzkranzgefäss(en), sonstige
+
+### 5 Chirurgie 5.1 Zirkumzision
+
+Z64.0 Zirkumzision
+
+### 6 Urologie 6.1 Extrakorporelle Stosswellenlithotripsie (ESWL)
+
+Z98.51 Extrakorporelle Stosswellen-Lithotripsie [ESWL] von
+
+Niere, Ureter und/oder Blase
+
+## Weitere Fussnoten
+
+- [1] Fassung gemäss Regierungsratsbeschluss vom 17. Dezember 2019, A 2020, 12; in Kraft seit 1. Januar 2020
