@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision du code civil (Mesures de lutte contre les mariages avec un mineur)
 document: Projet mis en consultation
 language: fr

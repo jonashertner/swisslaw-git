@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision des ZGB (Massnahmen gegen Minderjährigenheiraten)
 document: Vernehmlassungsvorlage
 language: de
