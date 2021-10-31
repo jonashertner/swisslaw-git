@@ -3,20 +3,19 @@ canton: ZG
 number: "933.111"
 title: Ausführungsbestimmungen zum Konkordat über die Fischerei im Zugersee
 language: de
-version: 2020-11-01
-valid_until: 2021-10-31
-version_adopted: 2020-08-17
+version: 2021-11-01
+version_adopted: 2021-06-29
 adopted: 1996-05-23
 in_force: 1996-06-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/933.111"
-pdf: "https://bgs.zg.ch/api/de/versions/2144/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2277/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen zum Konkordat über die Fischerei im Zugersee
 
-Vom 23. Mai 1996 (Stand 1. November 2020)
+Vom 23. Mai 1996 (Stand 1. November 2021)
 
 Die Konkordatskommission,
 
@@ -117,7 +116,7 @@ erlässt folgende Ausführungsbestimmungen:
 - c) Felchen: 28 cm
 - d) Hecht: 50 cm
 - e) Egli (Barsch): 15 cm
-- f) Aal: 50 cm
+- f) …
 - g) …
 
 #### § 9
@@ -272,6 +271,6 @@ erlässt folgende Ausführungsbestimmungen:
 
 <sup>3</sup> Mit der Annahme werden sämtliche den Ausführungsbestimmungen widersprechenden Beschlüsse der Konkordatskommission aufgehoben.
 
-Vom Eidgenössischen Departement des Innern genehmigt am 11. Juli 1996. Änderungen vom UVEK genehmigt am 3. Dez. 2002, am 14. Dez. 2007 und am 28. Nov. 2008.
+Vom Eidgenössischen Departement des Innern genehmigt am 11. Juli 1996. Änderungen vom UVEK genehmigt am 3. Dez. 2002, am 14. Dez. 2007, am 28. Nov. 2008 und am 25. Aug. 2021.
 
 GS 25, 311
