@@ -4,11 +4,11 @@ title: "Ordinanza del 25 febbraio 1998 concernente il materiale bellico (Ordinan
 short: OMB
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: it
-version: 2015-10-01
+version: 2021-11-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20151001/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20151001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20151001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20211101/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20211101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20151001/it"
 
 (Ordinanza sul materiale bellico, OMB)
 
-del 25 febbraio 1998 (Stato 1° ottobre 2015)
+del 25 febbraio 1998 (Stato 1° novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -41,7 +41,7 @@ ordina:
 <sup>2</sup> L’ordinanza si applica al territorio doganale svizzero, ai depositi doganali aperti svizzeri, ai depositi di merci di gran consumo e ai depositi franchi doganali, nonché alle enclavi doganali svizzere.[^1-2]
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^1-2]: Nuovo testo giusta il n. 10 dell’all. 9 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^1-2]: Nuovo testo giusta l’all. 9 n. 10 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
 
@@ -184,7 +184,7 @@ Chi vuole esportare materiale bellico non destinato a un Governo estero o a un�
 
 ### (art. 17 LMB)
 
-<sup>1</sup> Alle persone che viaggiano in aereo e fanno scalo intermedio in Svizzera con, nei bagagli, armi da fuoco, relative parti e accessori, nonché munizioni o elementi di munizioni, non è richiesta un’autorizzazione di transito sempreché queste merci siano destinate all’uso personale e non lascino la zona di transito dell’aeroporto. Tale disciplinamento si applica per analogia anche ai bagagli spediti in precedenza o in seguito.
+<sup>1</sup> Alle persone che viaggiano in aereo, inclusi gli agenti di sicurezza nell’aviazione, e fanno scalo intermedio in Svizzera con, nei loro bagagli o in quelli spediti in precedenza o in seguito, armi da fuoco, relative parti e accessori, nonché munizioni o elementi di munizioni, non è richiesta l’autorizzazione di transito sempreché queste merci siano destinate all’uso personale e non lascino la zona di transito dell’aeroporto.[^6a-2]
 
 <sup>2</sup> Chiunque intende far transitare dalla Svizzera con bolletta di scorta armi da fuoco, relative parti, accessori, munizioni o elementi di munizioni da uno Stato vincolato da un accordo di associazione alla normativa di Schengen (Stato Schengen) verso un altro Stato Schengen non necessita di un’autorizzazione di transito.
 
@@ -192,7 +192,8 @@ Chi vuole esportare materiale bellico non destinato a un Governo estero o a un�
 
 <sup>4</sup> Gli accordi di associazione alla normativa di Schengen sono riportati nell’allegato 3.
 
-[^6a-1]: Introdotto dal n. I dell’O del 21 nov. 2001 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Nuovo testo giusta il n. II 2 dell’all. 4 all’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
+[^6a-1]: Introdotto dal n. I dell’O del 21 nov. 2001 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Nuovo testo giusta l’all. 4 n. II 2 dell’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
+[^6a-2]: Nuovo testo giusta il n. III 1 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 7
 
@@ -244,7 +245,7 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 <sup>2</sup> L’importazione e la riesportazione di armi da fuoco con le relative munizioni nell’ambito di dette attività sono rette dalla legislazione sulle armi.
 
 [^9b-1]: Introdotto dall’art. 50 n. 3 dell’O del 21 set. 1998 sulle armi nel testo del 16 mar. 2001 ([RU 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9b-2]: Nuova espr. giusta il n. II 2 dell’all. 4 all’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^9b-2]: Nuova espr. giusta l’all. 4 n. II 2 dell’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 9c
 
@@ -292,7 +293,7 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 [^9e-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^9e-3]: Nuovo testo giusta il n. I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^9e-4]: Nuovo testo giusta il n. I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^9e-5]: Nuovo testo giusta il n. 10 dell’all. 9 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^9e-5]: Nuovo testo giustal’all. 9 n. 10 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^9e-6]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 
 ## Sezione 4: Certificati di importazione
@@ -322,7 +323,7 @@ Su richiesta scritta dell’importatore, la Segreteria di Stato dell’economia 
 
 <sup>2</sup> Egli deve dimostrare alla SECO l’avvenuta importazione mediante l’originale della decisione d’imposizione doganale e le relative fatture dei fornitori. I giustificativi sono da esibire immediatamente dopo la ricezione dell’originale della decisione d’imposizione doganale. Il regime dell’ammissione temporanea in Svizzera e il Carnet ATA non sono considerati imposizione doganale.[^11-1]
 
-[^11-1]: Nuovo testo giusta il n. 10 dell’all. 9 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^11-1]: Nuovo testo giusta l’all. 9 n. 10 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 12
 
@@ -335,6 +336,16 @@ Su richiesta scritta dell’importatore, la Segreteria di Stato dell’economia 
 [^12-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ## Sezione 5: Procedura d’autorizzazione
+
+#### Art. 12a
+
+**Presupposti per il rilascio dell*’*autorizzazione**[^12a-1]
+
+<sup>1</sup> Le autorizzazioni sono rilasciate unicamente a persone fisiche o giuridiche che hanno il domicilio oppure la sede o uno stabilimento nel territorio doganale svizzero o in una enclave doganale svizzera. In casi motivati la SECO può prevedere deroghe.
+
+<sup>2</sup> Per il rilascio dell’autorizzazione a una persona giuridica dev’essere fornita la prova di controlli affidabili in seno all’azienda inerenti al rispetto delle prescrizioni della legislazione sul materiale bellico.
+
+[^12a-1]: Introdotto dal n. III 1 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 13
 
@@ -378,10 +389,10 @@ Per le autorizzazioni di affari con l’estero secondo l’articolo 22 LMB e la 
 
 <sup>5</sup> In casi di importanza minore o qualora vi siano dei precedenti, i servizi interessati possono rinunciare a una trattazione comune e autorizzare la SECO a decidere autonomamente.
 
-[^14-1]: Nuovo testo giusta il n. II 20 dell’all. 4 all’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^14-1]: Nuovo testo giusta l’all. 4 n. II 20 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^14-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
 [^14-3]: Introdotta dal n. I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
-[^14-4]: Introdotto dal n. I dell’O del 27 ago. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)). Nuovo testo giusta il n. II 20 dell’all. 4 all’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^14-4]: Introdotto dal n. I dell’O del 27 ago. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)). Nuovo testo giusta l’all. 4 n. II 20 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^14-5]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 #### Art. 15
@@ -400,9 +411,12 @@ Per le autorizzazioni di affari con l’estero secondo l’articolo 22 LMB e la 
 
 **Imposizione doganale**[^16-1]
 
-L’imposizione doganale al momento dell’importazione, dell’esportazione e del transito è retta dalle disposizioni previste dalla normativa doganale.
+<sup>1</sup> L’imposizione doganale al momento dell’importazione, dell’esportazione e del transito è retta dalle disposizioni previste dalla normativa doganale.
 
-[^16-1]: Nuovo testo giusta il n. 10 dell’all. 9 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+<sup>2</sup> Chiunque importa, esporta o fa transitare merci con un’autorizzazione deve indicare nella dichiarazione doganale il tipo di autorizzazione, l’autorità preposta all’autorizzazione e il numero dell’autorizzazione.[^16-2]
+
+[^16-1]: Nuovo testo giusta l’all. 9 n. 10 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^16-2]: Introdotto dal n. III 1 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## Sezione 6: Controllo e disposizioni amministrative
 
@@ -427,7 +441,7 @@ I documenti seguenti devono poter essere prodotti per dieci anni quali giustific
 - c. i contratti inerenti alle transazioni di beni immateriali, «know-how» compreso, concernenti materiale bellico;
 - d.[^17-1] i documenti di trasporto con indicazione dei Paesi di transito.
 
-[^17-1]: Introdotta dal n. 2 dell’appendice 2 all’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^17-1]: Introdotta dall’appendice 2 n. 2 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 #### Art. 18
 
@@ -451,7 +465,7 @@ Chi ha l’obbligo di tenere la contabilità deve accertarsi, prima di consegnar
 
 L’Ufficio centrale per la repressione delle attività illegali concernenti materiale bellico ha il compito, in particolare, di verificare se le forniture di materiale bellico sono arrivate nel luogo di destinazione previsto e autorizzato.
 
-[^20-1]: Nuovo testo giusta il n. 19 dell’all. all’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^20-1]: Nuovo testo giusta l’all. n. 19 dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 
 #### Art. 21
 
@@ -688,7 +702,7 @@ Allegato 3*[^t-3]*
 
 ## Accordi di associazione alla normativa di Schengen
 
-[^t-3]: Introdotto dal n. II 2 dell’all. 4 all’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
+[^t-3]: Introdotto dall’all. 4 n. II 2 dell’O del 2 lug. 2008 sulle armi, in vigore dal 12 dic. 2008 ([RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
 
 Gli accordi di associazione alla normativa di Schengen comprendono:
 

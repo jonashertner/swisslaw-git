@@ -4,11 +4,11 @@ title: "Ordinance of 25 February 1998 on War Material (War Material Ordinance, W
 short: WMO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: en
-version: 2015-10-01
+version: 2021-11-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20151001/en/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20151001-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20151001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20211101/en/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20211101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20211101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (War Materiel Ordinance, WMO)
 
-of 25 February 1998 (Status as of 1 October 2015)
+of 25 February 1998 (Status as of 1 November 2021)
 
 The Swiss Federal Council,
 
@@ -186,7 +186,7 @@ Any person who wishes to export war materiel to a body that is neither a foreign
 
 ### (Art. 17 WMA)
 
-<sup>1</sup> Air passengers who stop over in Switzerland do not require a transit licence for firearms, their components and accessories, and their ammunition and munitions components that they are carrying in their baggage for personal use provided such goods do not leave the transit area of the airport. This regulation also applies by analogy to baggage that is sent in advance or forwarded.
+<sup>1</sup> Air passengers, including sky marshals, who stop over in Switzerland do not require a transit licence for firearms, their components and accessories, and their ammunition and munitions components that they are carrying for personal use in their baggage or in baggage that is sent in advance or forwarded provided such goods do not leave the transit area of the airport.[^6a-2]
 
 <sup>2</sup> No transit licence is required by persons wishing to carry firearms, their components and accessories, and their ammunition and munitions components with an accompanying document from a state that is bound by any one of the Schengen Association Agreements (a Schengen state) via Switzerland to another Schengen state.
 
@@ -195,6 +195,7 @@ Any person who wishes to export war materiel to a body that is neither a foreign
 <sup>4</sup> The Schengen Association Agreements are listed in Annex 3.
 
 [^6a-1]: Inserted by No I of the Ordinance of 21. Nov. 2001 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Amended by Annex 4 No II 2 of the Weapons Ordinance of 2 July 2008, in force since 12 Dec. 2008 ([SR 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)).
+[^6a-2]: Amended by No III 1 of the O of 17 Sept. 2021, in force since 1 Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 7
 
@@ -282,7 +283,7 @@ No licence is required by persons in the following categories for the temporary 
 
 <sup>1</sup> Manufacturers who hold an initial licence may apply for a general import licence (GIL) for the import of individual parts, assembly packages or anonymous components of war materiel in terms of Article 18 paragraph 2 WMA, provided the parts concerned do not fall within the scope of application of the Weapons Act of 20 June 1997[^9e-2]. An individual licence is required in every case for the temporary import of such war materiel with the ATA Carnet or in the procedure for temporary use.[^9e-3]
 
-<sup>2</sup> Holders of initial licences and transport and haulage undertakings with a domicile or permanent establishment in Switzerland may apply for a general transit licence (GTL) for the transit of war materiel to countries of final destination that are listed in Annex 2.[^9e-4]
+<sup>2</sup> Holders of initial licences and transport and haulage undertakings with their seat or permanent establishment in Switzerland may apply for a general transit licence (GTL) for the transit of war materiel to countries of final destination that are listed in Annex 2.[^9e-4]
 
 <sup>3</sup> The licensing authority may at any time demand from the licensee information on the nature, quantity, customs clearance data and end use of goods that are or have been imported or transported in transit in terms of a GIL or GTL; the obligation to provide information expires ten years after customs clearance.[^9e-5]
 
@@ -338,6 +339,12 @@ On written application from the importer, the State Secretariat for Economic Aff
 
 ## Section 5 Licensing Procedure
 
+**Art. 12**a*[^sec5-1]* Licensing requirements
+
+<sup>1</sup> Licences shall only be granted to natural persons or legal entities who are resident or which have their seat or permanent establishment on Swiss customs territory or in a Swiss customs enclave. SECO may make exceptions in justified cases.
+
+<sup>2</sup> For a licence to be granted to a legal entity, proof of reliable internal control of compliance with the provisions of the war materiel legislation must be provided.
+
 #### Art. 13
 
 **Licensing authority**
@@ -350,6 +357,7 @@ On written application from the importer, the State Secretariat for Economic Aff
 
 <sup>3</sup> The responsibility for the transit of military and other state aircraft is governed by the Ordinance of 23 March 2005[^13-4] on the Protection of Airspace Sovereignty.[^13-5]
 
+[^sec5-1]: Inserted by No III 1 of the O of 17 Sept. 2021, in force since 1 Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^13-1]: Amended by No I of the Ordinance on War Materiel of 21 Nov. 2001, in force since 1 March 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^13-2]: Repealed by No I of the Ordinance on War Materiel of 21 Nov. 2001 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^13-3]: Inserted by Art. 50 No 3 of the Weapons Ordinance of 21 Sept. 1998, in its version of 16 March 2001 ([SR 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)). Repealed by No I of the Ordinance of 21 Nov. 2001 (AS **2001** 312).
@@ -403,9 +411,12 @@ In the case of the licensing of foreign transactions under Article 22 WMA and of
 
 **Customs clearance**[^16-1]
 
-Customs clearance for import, export and transit is governed by the provisions of the customs legislation.
+<sup>1</sup> Customs clearance for import, export and transit is governed by the provisions of the customs legislation.
+
+<sup>2</sup> Any person or entity that imports or exports goods with a licence, or carries such goods in transit, must indicate the type of licence, issuing office and licence number in the customs declaration.[^16-2]
 
 [^16-1]: Amended by Annex 4 No 10 of the Customs Ordinance of 1 Nov. 2006, in force since 1 May 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250))
+[^16-2]: Inserted by No III 1 of the O of 17 Sept. 2021, in force since 1 Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## Section 6 Controls and Administrative Measures
 
@@ -552,7 +563,7 @@ Applications that are pending when the amendments of 19 September 2014 come into
 
 <sup>1</sup> and <sup>2</sup> ... [^25-1]
 
-<sup>3</sup> [^25-2]
+<sup>3</sup> ...[^25-2]
 
 [^25-1]: Repealed by No I of the Ordinance of 21 Nov. 2001 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68))
 [^25-2]: Inserted by No I of the Ordinance on War Materiel of Nov. 2001, in force since 1 March 2002 (AS **2002** 312). Repealed by No IV 14 of the Ordinance of 22 Aug. 2007 on the formal revision of the Federal Act, with effect from 1 Jan. 2008 (AS **2007** 4477)

@@ -4,11 +4,11 @@ title: Ordonnance du 25 février 1998 sur le matériel de guerre (OMG)
 short: OMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: fr
-version: 2015-10-01
+version: 2021-11-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20151001/fr/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20151001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20151001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20151001/fr"
 
 (OMG)
 
-du 25 février 1998 (Etat le 1<sup>er</sup> octobre 2015)
+du 25 février 1998 (Etat le 1<sup>er</sup> novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -184,7 +184,7 @@ Quiconque veut exporter du matériel de guerre vers un destinataire autre qu’u
 
 ### (art. 17 LFMG)
 
-<sup>1</sup> Aucune autorisation de transit n’est requise pour les personnes voyageant par avion qui transitent par la Suisse avec, dans leurs bagages, des armes à feu pour leur usage personnel, ainsi que leurs composants et accessoires, leurs munitions et composants de munitions, pour autant que ces biens ne quittent pas la zone de transit de l’aéroport. Cette règle s’applique par analogie aux bagages envoyés d’avance ou que l’on fait suivre.
+<sup>1</sup> Aucune autorisation de transit n’est requise pour les personnes voyageant par avion, y compris les agents de sûreté aérienne, qui transitent par la Suisse avec, dans leurs bagages ou dans les bagages envoyés d’avance ou que l’on fait suivre, des armes à feu pour leur usage personnel, ainsi que leurs composants et accessoires, leurs munitions et composants de munitions, pour autant que ces biens ne quittent pas la zone de transit de l’aéroport.[^6a-2]
 
 <sup>2</sup> Aucune autorisation de transit n’est requise pour les personnes qui veulent faire transiter par la Suisse des armes à feu leurs composants, accessoires, munitions ou composants de munitions avec un document de suivi d’un État lié par l’un des accords d’association à Schengen (État Schengen) vers un autre État Schengen.
 
@@ -193,6 +193,7 @@ Quiconque veut exporter du matériel de guerre vers un destinataire autre qu’u
 <sup>4</sup> Les accords d’association à Schengen sont mentionnés à l’annexe 3.
 
 [^6a-1]: Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Nouvelle teneur selon le ch. II 2 de l’annexe 4 à l’O du 2 juil. 2008 sur les armes, en vigueur depuis le 12 déc. 2008 ([RO 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
+[^6a-2]: Nouvelle teneur selon le ch. III 1 de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 7
 
@@ -334,6 +335,16 @@ Les personnes des catégories suivantes n’ont besoin d’aucune autorisation p
 
 ## Section 5 Procédure d’autorisation
 
+#### Art. 12a
+
+**Conditions d’octroi de l’autorisation**[^12a-1]
+
+<sup>1</sup> Les autorisations ne sont accordées qu’à des personnes physiques ou morales ayant leur domicile, leur siège ou un établissement sur le territoire douanier suisse ou dans une enclave douanière suisse. Le SECO peut prévoir des exceptions dans des cas motivés.
+
+<sup>2</sup> Pour obtenir une autorisation, une personne morale doit apporter la preuve d’un contrôle interne fiable du respect des prescriptions de la législation sur le matériel de guerre.
+
+[^12a-1]: Introduit par le ch. III 1 de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+
 #### Art. 13
 
 **Autorité compétente en matière d’autorisation**
@@ -398,9 +409,12 @@ Le SECO se prononce, en accord avec les services compétents du Département fé
 
 **Placement sous régime douanier**[^16-1]
 
-Le placement sous régime douanier effectué lors d’une importation, d’une exportation ou d’un transit est régi par les dispositions de la législation douanière.
+<sup>1</sup> Le placement sous régime douanier effectué lors d’une importation, d’une exportation ou d’un transit est régi par les dispositions de la législation douanière.
+
+<sup>2</sup> Quiconque importe, exporte ou fait transiter des marchandises au moyen d’une autorisation est tenu d’indiquer le type d’autorisation, l’autorité qui a accordé l’autorisation et le numéro de l’autorisation dans la déclaration en douane.[^16-2]
 
 [^16-1]: Nouvelle teneur selon le ch. 10 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^16-2]: Introduit par le ch. III 1 de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## Section 6 Contrôle et mesures administratives
 
@@ -425,7 +439,7 @@ Les documents suivants doivent pouvoir être présentés pendant dix ans au titr
 - c. les contrats portant sur des transactions de biens immatériels, dont le savoir-faire, en matière de matériel de guerre;
 - d.[^17-1] les documents de transport y compris les données sur les pays de transit.
 
-[^17-1]: Introduite par le ch. 2 de l’appendice 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^17-1]: Introduite par l’appendice 2 ch. 2 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 #### Art. 18
 
@@ -567,7 +581,7 @@ Annexe 1*[^t-1]*
 
 ## Liste du matériel de guerre
 
-[^t-1]: Mise à jour selon le ch. I de l’O du 25 août 1999 ([RO 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)) et le ch. II de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^t-1]: Mise à jour par le ch. I de l’O du 25 août 1999 ([RO 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)), le ch. II de l’O du 21 nov. 2001 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)) et le ch. III 1 de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 Note:
 
@@ -601,7 +615,7 @@ Les biens répertoriés dans cette annexe de l’ordonnance sur le matériel de 
 <tr><td colspan="2">KM 22</td><td colspan="2">(Ne vise pas du matériel de guerre; ne figure que pour que la numérotation coïncide avec celle de la LM)</td></tr>
 <tr><td colspan="2">KM 1</td><td colspan="2">Armes individuelles à épauler et armes de poing de tout calibre, leurs accessoires et leurs composants spécialement conçus, à l’exception des armes suivantes: a. armes de chasse et armes de sport incontestablement reconnaissables (p. ex. selon les normes ISSF) qui, dans la même exécution, ne sont pas également des armes de combat; b. armes à un coup et armes se chargeant par la bouche; c. armes de poing et fusils à répétition tirant des cartouches à percussion annulaire; d. armes anciennes, pour lesquelles des munitions utilisables ne sont plus fabriquées ou ne se trouvent plus dans le commerce. Notes: La rubrique KM 1d vise également les armes suivantes: 1. mousquets, fusils et carabines fabriqués avant 1890, ainsi que leurs reproductions; 2. revolvers, pistolets et mitrailleuses fabriqués avant 1890, ainsi que leurs reproductions. Note: Les rubriques KM 1a à KM 1d visent également les armes spécialement conçues pour des munitions inertes d’instruction, qui ne peuvent tirer aucune des munitions visées à la rubrique KM 3.</td></tr>
 <tr><td colspan="2">KM 2</td><td colspan="2">Armes ou armements de tout calibre (à l’exception des armes individuelles à épauler et des armes de poing visées à la rubrique KM 1), lance-fumées, lance-gaz, lance-flammes et accessoires, comme il suit, et leurs composants spécialement conçus: a. canons, obusiers, mortiers, pièces d’artillerie, armes antichars, lance-projectiles, lance-flammes, canons sans recul; Note: La rubrique KM 2a comprend les injecteurs, les dispositifs de mesure, les réservoirs de stockage et les autres composants spécialement conçus pour servir avec des charges propulsives liquides pour tout matériel visé à la rubrique KM 2a. b. matériel militaire pour le lancement ou la production de fumées, de gaz et de produits pyrotechniques. Note: Le chiffre KM 2b ne vise pas les pistolets de signalisation.</td></tr>
-<tr><td colspan="2">KM 3</td><td colspan="2">Munitions et leurs composants spécialement conçus, destinés aux armes visées aux rubriques KM 1, KM 2 ou KM 12 Notes: 1. Les composants spécialement conçus comprennent: a. les pièces en métal ou en plastique comme les enclumes d’amorces, les godets pour balles, les maillons, les ceintures et les pièces métalliques pour munitions; b. les pièces en métal ou en plastique comme les enclumes d’amorces, les godets pour balles, les maillons, les ceintures et les pièces métalliques pour munitions; c. les dispositifs d’alimentation à puissance de sortie opérationnelle élevée fonctionnant une seule fois; d. les étuis combustibles pour charges; e. les sous-munitions, y compris les petites bombes, les petites mines et les projectiles à guidage terminal. 2. La rubrique KM 3 ne vise pas les munitions serties sans projectile (munition d’exercice, munition de signalisation) et les munitions inertes d’instruction à chambre de poudre percée.</td></tr>
+<tr><td colspan="2">KM 3</td><td colspan="2">Munitions et leurs composants spécialement conçus, destinés aux armes visées aux rubriques KM 1, KM 2 ou KM 12 Notes: 1. Les composants spécialement conçus comprennent: a. les pièces en métal ou en plastique comme les enclumes d’amorces, les godets pour balles, les maillons, les ceintures et les pièces métalliques pour munitions; b. les dispositifs de sécurité et d’armement, les amorces, les capteurs et les détonateurs; c. les dispositifs d’alimentation à puissance de sortie opérationnelle élevée fonctionnant une seule fois; d. les étuis combustibles pour charges; e. les sous-munitions, y compris les petites bombes, les petites mines et les projectiles à guidage terminal. 2. La rubrique KM 3 ne vise pas les munitions serties sans projectile (munition d’exercice, munition de signalisation) et les munitions inertes d’instruction à chambre de poudre percée.</td></tr>
 <tr><td colspan="2">KM 4</td><td colspan="2">Bombes, torpilles, roquettes, missiles, et équipement et accessoires connexes, comme il suit, spécialement conçus pour l’engagement au combat, et leurs composants spécialement conçus: bombes, torpilles, grenades, pots fumigènes, roquettes, mines, missiles, charges sous-marines, charges et dispositifs et kits de démolition, produits pyrotechniques militaires, cartouches et simulateurs, c’est-à-dire le matériel simulant les caractéristiques de l’un des biens visés à la rubrique KM 4. Note: La rubrique KM 4 comprend: 1. les grenades fumigènes, bombes incendiaires et dispositifs explosifs; 2. les tuyères de vecteurs de missiles et les pointes d’ogives de corps de rentrée.</td></tr>
 <tr><td colspan="2">KM 5</td><td colspan="2">Matériel de conduite de tir, spécialement conçu pour l’engagement au combat, et ses composants et accessoires spécialement conçus, comme suit:</td></tr>
 <tr><td colspan="2">[tab]</td><td colspan="2">a. viseurs d’armement, calculateurs de bombardement, appareils de pointage et systèmes destinés au contrôle des armements; b. système d’acquisition des buts, de coordination des buts, de mesure de l’éloignement des buts ou de poursuite des buts; dispositifs de connexion de localisations ou de données (data fusion) et équipements d’intégration de senseurs (sensor integration equipment). Note: sont notamment visés les viseurs d’armement, calculateurs de bombardement, appareils de pointage et systèmes destinés au contrôle des armements.</td></tr>

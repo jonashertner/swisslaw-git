@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Februar 1998 über das Kriegsmaterial (Kriegsmaterial
 short: KMV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: de
-version: 2015-10-01
+version: 2021-11-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20151001/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20151001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20151001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20211101/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20151001/de"
 
 (Kriegsmaterialverordnung, KMV)
 
-vom 25. Februar 1998 (Stand am 1. Oktober 2015)
+vom 25. Februar 1998 (Stand am 1. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -184,7 +184,7 @@ Wer Kriegsmaterial weder an eine ausländische Regierung noch an ein für eine s
 
 ### (Art. 17 KMG)
 
-<sup>1</sup> Flugreisende, die in der Schweiz zwischenlanden, benötigen für die im Reisegepäck für den persönlichen Gebrauch mitgeführten Feuerwaffen, deren Bestandteile und Zubehör sowie deren Munition und Munitionsbestandteile keine Durchfuhrbewilligung, sofern diese Güter den Transitbereich des Flughafens nicht verlassen. Diese Regelung gilt sinngemäss auch für voraus- oder nachgesandtes Gepäck.
+<sup>1</sup> Flugreisende, einschliesslich Flugsicherheitsbegleiterinnen und -begleiter, die in der Schweiz zwischenlanden, benötigen für die im Reisegepäck und in voraus- oder nachgesandtem Gepäck für den persönlichen Gebrauch mitgeführten Feuerwaffen, deren Bestandteile und Zubehör sowie deren Munition und Munitionsbestandteile keine Durchfuhrbewilligung, sofern diese Güter den Transitbereich des Flughafens nicht verlassen.[^6a-2]
 
 <sup>2</sup> Wer Feuerwaffen, deren Bestandteile oder Zubehör oder deren Munition oder Munitionsbestandteile mit Begleitschein von einem Staat, der durch eines der Schengen-Assoziierungsabkommen gebunden ist (Schengen-Staat), in einen anderen Schengen-Staat durch die Schweiz führen will, benötigt keine Durchfuhrbewilligung.
 
@@ -193,6 +193,7 @@ Wer Kriegsmaterial weder an eine ausländische Regierung noch an ein für eine s
 <sup>4</sup> Die Schengen-Assoziierungsabkommen sind in Anhang 3 aufgeführt.
 
 [^6a-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2001 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Fassung gemäss Anhang 4 Ziff. II 2 der Waffenverordnung vom 2. Juli 2008, in Kraft seit 12. Dez. 2008 ([AS 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)).
+[^6a-2]: Fassung gemäss Ziff. III 1 der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 7
 
@@ -337,6 +338,12 @@ Das Staatssekretariat für Wirtschaft (SECO) stellt für die Einfuhr von Kriegsm
 
 ## 5. Abschnitt: Bewilligungsverfahren
 
+**Art. 12**a*[^sec5-1]* Bewilligungsvoraussetzungen
+
+<sup>1</sup> Bewilligungen werden nur natürlichen oder juristischen Personen erteilt, die ihren Wohnsitz beziehungsweise ihren Sitz oder ihre Niederlassung im schweizerischen Zollgebiet oder in einem schweizerischen Zollausschlussgebiet haben. Das SECO kann in begründeten Fällen Ausnahmen vorsehen.
+
+<sup>2</sup> Für die Erteilung einer Bewilligung an eine juristische Person ist der Nachweis einer zuverlässigen firmeninternen Kontrolle der Einhaltung der Vorschriften der Kriegsmaterialgesetzgebung zu erbringen.
+
 #### Art. 13
 
 **Bewilligungsbehörde**
@@ -349,6 +356,7 @@ Das Staatssekretariat für Wirtschaft (SECO) stellt für die Einfuhr von Kriegsm
 
 <sup>3</sup> Die Zuständigkeit für Durchfuhren mit ausländischen Militär- und anderen Staatsluftfahrzeugen richtet sich nach der Verordnung vom 23. März 2005[^13-4] über die Wahrung der Lufthoheit.[^13-5]
 
+[^sec5-1]: Eingefügt durch Ziff. III 1 der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^13-1]: Fassung gemäss Ziff. I der V über das Kriegsmaterial vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^13-2]: Aufgehoben durch Ziff. I der V über das Kriegsmaterial vom 21. Nov. 2001, mit Wirkung seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^13-3]: Eingefügt durch Art. 50 Ziff. 3 der Waffenverordnung vom 21. Sept. 1998, in der Fassung vom 16. März 2001 ([AS 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Aufgehoben durch Ziff. I der V vom 21. Nov. 2001, mit Wirkung seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
@@ -402,9 +410,12 @@ Bei der Bewilligung von Auslandsgeschäften nach Artikel 22 KMG und des Abschlus
 
 **Zollabfertigung**[^16-1]
 
-Die Zollveranlagung bei der Ein-, Aus- und Durchfuhr richtet sich nach den Bestimmungen der Zollgesetzgebung.
+<sup>1</sup> Die Zollveranlagung bei der Ein-, Aus- und Durchfuhr richtet sich nach den Bestimmungen der Zollgesetzgebung.
+
+<sup>2</sup> Wer Waren mit einer Bewilligung ein-, aus- oder durchführt, muss in der Zollanmeldung die Bewilligungsart, die Bewilligungsstelle und die Bewilligungsnummer angeben.[^16-2]
 
 [^16-1]: Fassung gemäss Anhang 4 Ziff. 10 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^16-2]: Eingefügt durch Ziff. III 1 der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## 6. Abschnitt: Kontrolle und Verwaltungsmassnahmen
 
@@ -570,7 +581,7 @@ Anhang 1*[^t-1]*
 
 ## Liste des Kriegsmaterials
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 25. Aug. 1999 ([AS 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)) und II der V vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 25. Aug. 1999 ([AS 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)) und Ziff. II der V vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 Anmerkung: Die in dieser Liste als Anhang zur Kriegsmaterialverordnung aufgeführten Güter entstammen der so genannten «Munitions List» (ML) der Vereinbarung von Wassenaar. Die Nummern der einzelnen Positionen entsprechen denjenigen der ML. Alle in dieser Liste nicht aufgeführten, jedoch in der ML enthaltenen Güter fallen als «besondere militärische Güter» unter den Geltungsbereich des Güterkontrollgesetzes vom 13. Dezember 1996 (SR **946.202**).
 
