@@ -4,11 +4,11 @@ title: Regolamento di esecuzione del 7 dicembre 2006 della Convenzione sul breve
 short: RE CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: it
-version: 2021-04-01
+version: 2021-11-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20211101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -21,11 +21,9 @@ Traduzione
 
 (RE CBE 2000)
 
-Approvato dal Consiglio d’amministrazione il 7 dicembre 2006
+Approvato dal Consiglio d’amministrazione il 7 dicembre 2006 Entrato in vigore per la Svizzera il 13 dicembre 2007
 
-Entrato in vigore per la Svizzera il 13 dicembre 2007
-
-(Stato 1° aprile 2021)
+(Stato 1° novembre 2021)
 
 ## Parte prima: Disposizioni di applicazione della parte prima della Convenzione
 
@@ -1608,7 +1606,7 @@ Nelle decisioni dell’Ufficio europeo dei brevetti, solo gli errori linguistici
 - d) il simbolo della classificazione assegnata alla domanda;
 - e) gli Stati contraenti designati;
 - f) le generalità del richiedente o del titolare del brevetto, alle condizioni di cui alla regola 41 paragrafo 2 lettera c);
-- g) cognome, nomi e indirizzo dell’inventore menzionato dal richiedente o dal titolare del brevetto europeo, a meno che l’inventore non abbia rinunciato, secondo la regola 20 paragrafo 1, ad essere designato come tale;
+- g)[^part7-chapIX-lvlu1-1] cognome, nomi, Stato sul cui territorio egli risiede e domicilio dell’inventore menzionato dal richiedente o dal titolare del brevetto, a meno che l’inventore non abbia rinunciato, secondo la regola 20 paragrafo 1, ad essere designato come tale;
 - h) le generalità del mandatario del richiedente o del titolare del brevetto, alle condizioni di cui alla regola 41 paragrafo 2 lettera d); se vi sono più mandatari, solo le generalità del primo mandatario citato seguite dalla menzione «e altri» e per i gruppi di cui alla regola 152 paragrafo 11, unicamente la loro denominazione e il loro indirizzo;
 - i) le indicazioni relative alla priorità (data, Stato e numero di deposito della domanda anteriore);
 - j) nel caso di divisione della domanda di brevetto europeo, i numeri di tutte le domande divisionali europee;
@@ -1629,6 +1627,8 @@ Nelle decisioni dell’Ufficio europeo dei brevetti, solo gli errori linguistici
 - y) la data e il senso della decisione della Commissione allargata di ricorso relativa alla richiesta di revisione.
 
 (2) Il Presidente dell’Ufficio europeo dei brevetti può prescrivere che menzioni diverse da quelle previste nel paragrafo 1 vengano iscritte nel Registro europeo dei brevetti.
+
+[^part7-chapIX-lvlu1-1]: Nuovo testo giusta l’art. 1 della Dec. del Consiglio d’amministrazione del 15 dic. 2020, in vigore dal 1° nov. 2021 ([RU 2021 652](https://fedlex.data.admin.ch/eli/oc/2021/652)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### **Regola 144**Documenti dell’inserto esclusi dalla consultazione pubblica
 
@@ -1913,7 +1913,7 @@ Salve le restrizioni previste dall’articolo 128, paragrafi 1–4 e dalla regol
 
 Una domanda euro-PCT è considerata compresa nello stato della tecnica ai sensi dell’articolo 54 paragrafo 3 se sono adempiute le condizioni previste all’articolo 153 ai paragrafi 3 o 4 ed è stata pagata la tassa di deposito di cui alla regola 159 paragrafo 1 lettera c).
 
-## Disposizioni transitorie della modifica del 21 ottobre 2008****
+## Disposizioni transitorie della modifica del 21 ottobre 2008
 
 [^u1-1]
 
@@ -1923,7 +1923,7 @@ Una domanda euro-PCT è considerata compresa nello stato della tecnica ai sensi 
 
 (2) Le disposizioni del regolamento di esecuzione modificate all’articolo 1, numeri da 1 a 4, 9, 18 e 19 della presente decisione entrano in vigore il 1° aprile 2009 e valgono per le domande di brevetto europeo presentate a decorrere da tale data, nonché per le domande internazionali che entrano nella fase regionale a decorrere da tale data.
 
-## Disposizioni transitorie della modifica del 25 marzo 2009****
+## Disposizioni transitorie della modifica del 25 marzo 2009
 
 [^u2-1]
 
@@ -1935,7 +1935,7 @@ Una domanda euro-PCT è considerata compresa nello stato della tecnica ai sensi 
 
 (3) La regola 161 come modificata dall’articolo 1 punto 8 della presente decisione è applicabile alle domande di brevetto europeo per cui non è stata emessa alcuna notificazione prima del 1° aprile 2010 ai sensi della vigente regola 161.
 
-## Disposizioni transitorie della modifica del 25 marzo 2009****
+## Disposizioni transitorie della modifica del 25 marzo 2009
 
 [^u3-1]
 
@@ -1945,7 +1945,7 @@ Una domanda euro-PCT è considerata compresa nello stato della tecnica ai sensi 
 
 (2) La regola 36 paragrafi 1 e 2, come modificata dalla presente decisione, è applicabile alle domande divisionali presentate a decorrere da tale data.
 
-## Disposizioni transitorie della modifica del 28 ottobre 2009****
+## Disposizioni transitorie della modifica del 28 ottobre 2009
 
 [^u4-1]
 
@@ -1955,7 +1955,7 @@ Una domanda euro-PCT è considerata compresa nello stato della tecnica ai sensi 
 
 (2) La regola 141 come modificata dall’articolo 1 paragrafo 1 e la nuova regola 70*b* sono applicabili alle domande di brevetto europeo e alle domande internazionali presentate a decorrere da tale data.
 
-## Disposizioni transitorie della modifica del 26 ottobre 2010****
+## Disposizioni transitorie della modifica del 26 ottobre 2010
 
 [^u5-1]
 
@@ -1965,7 +1965,7 @@ Una domanda euro-PCT è considerata compresa nello stato della tecnica ai sensi 
 
 (2) Senza pregiudizio dell’articolo 3 della decisione CA/D 2/09 del Consiglio d’amministrazione, la regola 36 paragrafo 1, modificata all’articolo 1 della presente decisione, vale per le domande divisionali presentate a decorrere dal 1° aprile 2010.
 
-## Disposizioni transitorie della modifica del 26 ottobre 2010****
+## Disposizioni transitorie della modifica del 26 ottobre 2010
 
 [^u6-1]
 
@@ -1975,7 +1975,7 @@ Una domanda euro-PCT è considerata compresa nello stato della tecnica ai sensi 
 
 (2) Le nuove regole 161 e 162 CBE come modificate dall’articolo 1 della presente decisione si applicano alle domande di brevetto euro-PCT per le quali, al 1° maggio 2011, non è stata emessa alcuna notificazione ai sensi delle vigenti regole 161 e 162 CBE.
 
-## Disposizioni transitorie della modifica del 26 ottobre 2010****
+## Disposizioni transitorie della modifica del 26 ottobre 2010
 
 [^u7-1]
 
@@ -1985,7 +1985,7 @@ Una domanda euro-PCT è considerata compresa nello stato della tecnica ai sensi 
 
 (2) La nuova regola 71 CBE come modificata dall’articolo 1 della presente decisione e la nuova regola 71*a* CBE introdotta dall’articolo 1 della presente decisione si applicano alle domande di brevetto europeo per le quali non è stata emessa alcuna notificazione prima dell’entrata in vigore di tali disposizioni ai sensi della precedente regola 71 paragrafo 3 CBE.
 
-## Disposizioni transitorie della modifica del 27 giugno 2012****
+## Disposizioni transitorie della modifica del 27 giugno 2012
 
 [^u8-1]
 
@@ -1995,7 +1995,7 @@ Una domanda euro-PCT è considerata compresa nello stato della tecnica ai sensi 
 
 (2) La nuova regola 53 CBE come modificata dall’articolo 1 della presente decisione si applica alle domande di brevetto europeo e alle domande euro-PCT, nonché ai brevetti europei per i quali non è ancora stato emesso alcun invito ai sensi della regola 53 (3) CBE prima dell’entrata in vigore di tale disposizione.
 
-## Disposizioni transitorie della modifica del 16 ottobre 2013****
+## Disposizioni transitorie della modifica del 16 ottobre 2013
 
 [^u9-1]
 
@@ -2005,108 +2005,106 @@ Una domanda euro-PCT è considerata compresa nello stato della tecnica ai sensi 
 
 (2) È applicabile alle domande divisionali presentate a decorrere da tale data.
 
-## Disposizioni transitorie della modifica del 13 dicembre 2013****
+## Disposizioni transitorie della modifica del 16 ottobre 2013
 
 [^u10-1]
 
-[^u10-1]: [RU 2014 2405](https://fedlex.data.admin.ch/eli/oc/2014/420)art. 4
-
-(1) La regola 6 CBE e l’articolo 14 (1) del regolamento sulle tasse, come modificati in virtù dell’articolo 1 e dell’articolo 2 della presente decisione, sono applicabili alle domande di brevetto europeo presentate a decorrere dal 1° aprile 2014, nonché alle domande internazionali che entrano nella fase europea a decorrere da tale data.
-
-(2) La regola 6 CBE e l’articolo 14 (1) del regolamento sulle tasse, come modificati in virtù dell’articolo 1 e dell’articolo 2 della presente decisione, sono applicabili alle opposizioni o ai ricorsi interposti a decorrere dal 1° aprile 2014, nonché alle richieste di revisione, di limitazione o di revoca presentate a decorrere da tale data.
-
-## Disposizioni transitorie della modifica del 13 dicembre 2013****
-
-[^u11-1]
-
-[^u11-1]: [RU 2014 2407](https://fedlex.data.admin.ch/eli/oc/2014/421)art. 2
-
-(1) La regola 103 CBE come modificata dall’articolo 1 della presente decisione entra in vigore il 1° aprile 2014.
-
-(2) La regola 103 CBE come modificata dall’articolo 1 della presente decisione si applica ai ricorsi pendenti alla data di entrata in vigore della decisione e ai ricorsi presentati dopo tale data.
-
-## Disposizioni transitorie della modifica del 16 ottobre 2013****
-
-[^u12-1]
-
-[^u12-1]: [RU 2014 3275](https://fedlex.data.admin.ch/eli/oc/2014/565)art. 3
+[^u10-1]: [RU 2014 3275](https://fedlex.data.admin.ch/eli/oc/2014/565)art. 3
 
 (1) La regola 164 (1) CBE come modificata dall’articolo 1 della presente decisione si applica a tutte le notificazioni per le quali non è stato redatto il rapporto complementare di ricerca europea di cui all’articolo 153 (7) CBE al momento della sua entrata in vigore.
 
 (2) La regola 164 (2) CBE come modificata dall’articolo 1 si applica a tutte le domande per le quali non è stata emessa la prima notificazione secondo l’articolo 94 (3) CBE e la regola 71 (1) e (2) CBE o eventualmente la regola 71 (3) CBE al momento della sua entrata in vigore.
 
-## Disposizioni transitorie della modifica del 14 ottobre 2015****
+## Disposizioni transitorie della modifica del 13 dicembre 2013
 
-[^u13-1]
+[^u11-1]
 
-[^u13-1]: [RU 2017 2095](https://fedlex.data.admin.ch/eli/oc/2017/186)art. 2
+[^u11-1]: [RU 2014 2405](https://fedlex.data.admin.ch/eli/oc/2014/420)art. 4
+
+(1) La regola 6 CBE e l’articolo 14 (1) del regolamento sulle tasse, come modificati in virtù dell’articolo 1 e dell’articolo 2 della presente decisione, sono applicabili alle domande di brevetto europeo presentate a decorrere dal 1° aprile 2014, nonché alle domande internazionali che entrano nella fase europea a decorrere da tale data.
+
+(2) La regola 6 CBE e l’articolo 14 (1) del regolamento sulle tasse, come modificati in virtù dell’articolo 1 e dell’articolo 2 della presente decisione, sono applicabili alle opposizioni o ai ricorsi interposti a decorrere dal 1° aprile 2014, nonché alle richieste di revisione, di limitazione o di revoca presentate a decorrere da tale data.
+
+## Disposizioni transitorie della modifica del 14 ottobre 2015
+
+[^u12-1]
+
+[^u12-1]: [RU 2017 2095](https://fedlex.data.admin.ch/eli/oc/2017/186)art. 2
 
 La disposizione di cui all’articolo 1 della presente decisione si applica a tutti i brevetti europei per i quali, il giorno dell’entrata in vigore di tale disposizione o dopo tale data, nell’ambito della procedura orale è presa una decisione secondo l’articolo 106 paragrafo 2 o secondo l’articolo 111 paragrafo 2 CBE.
 
-## Disposizioni transitorie della modifica del 14 ottobre 2015****
+## Disposizioni transitorie della modifica del 14 ottobre 2015
 
-[^u14-1]
+[^u13-1]
 
-[^u14-1]: [RU 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)art. 2 par. 2
+[^u13-1]: [RU 2017 2097](https://fedlex.data.admin.ch/eli/oc/2017/187)art. 2 par. 2
 
 Le disposizioni di cui all’articolo 1 della presente decisione si applicano a tutte le domande di brevetto europeo e a tutti i brevetti europei, purché il periodo di conservazione di cinque anni previsto alla regola 147(3) CBE non scada prima del 31 dicembre 2018, a prescindere dalla data in cui il documento è stato assunto nell’inserto elettronico.
 
-## Disposizioni transitorie della modifica del 14 dicembre 2016****
+## Disposizioni transitorie della modifica del 14 dicembre 2016
 
-[^u15-1]
+[^u14-1]
 
-[^u15-1]: [RU 2017 7199](https://fedlex.data.admin.ch/eli/oc/2017/778)art. 3
+[^u14-1]: [RU 2017 7199](https://fedlex.data.admin.ch/eli/oc/2017/778)art. 3
 
 La regola 162 (2) CBE nel nuovo tenore modificato dall'articolo 1 si applica a tutte le domande di brevetto euro-PCT per cui alla data di entrata in vigore non è stata emessa alcuna notificazione secondo le regole 161 e 162.
 
-## Disposizioni transitorie della modifica del 28 giugno 2017****
+## Disposizioni transitorie della modifica del 28 giugno 2017
 
-[^u16-1]
+[^u15-1]
 
-[^u16-1]: [RU 2017 7203](https://fedlex.data.admin.ch/eli/oc/2017/780)art. 2
+[^u15-1]: [RU 2017 7203](https://fedlex.data.admin.ch/eli/oc/2017/780)art. 2
 
 Le regole 32 e 33 CBE nel nuovo tenore modificato dall’articolo 1 della presente decisione si applicano alle domande di brevetto europeo pendenti alla data di entrata in vigore della presente decisione e alle domande di brevetto europeo depositate dopo questa data.
 
-## Disposizioni transitorie della modifica del 29 giugno 2017****
+## Disposizioni transitorie della modifica del 29 giugno 2017
 
-[^u17-1]
+[^u16-1]
 
-[^u17-1]: [RU 2017 7201](https://fedlex.data.admin.ch/eli/oc/2017/779)art. 3
+[^u16-1]: [RU 2017 7201](https://fedlex.data.admin.ch/eli/oc/2017/779)art. 3
 
 Le regole 27 e 28 CBE nel nuovo tenore secondo gli articoli 1 e 2 della presente decisione si applicano alle domande di brevetto europeo depositate a partire da questa data come anche ai brevetti europei e alle domande di brevetto europeo pendenti a questa data.
 
-## Disposizioni transitorie della modifica del 5 ottobre 2017****
+## Disposizioni transitorie della modifica del 5 ottobre 2017
 
-[^u18-1]
+[^u17-1]
 
-[^u18-1]: [RU 2018 2763](https://fedlex.data.admin.ch/eli/oc/2018/410)art. 3
+[^u17-1]: [RU 2018 2763](https://fedlex.data.admin.ch/eli/oc/2018/410)art. 3
 
 La regola 51 (1) CBE come modificata dall'articolo 1 della presente decisione si applica a tutte le domande per cui la tassa annuale è pagata a partire dal 1° aprile 2018.
 
-## Disposizioni transitorie della modifica del 12 dicembre 2019****
+## Disposizioni transitorie della modifica del 12 dicembre 2019
 
-[^u19-1]
+[^u18-1]
 
-[^u19-1]: [RU 2020 1471](https://fedlex.data.admin.ch/eli/oc/2020/285)art. 2
+[^u18-1]: [RU 2020 1471](https://fedlex.data.admin.ch/eli/oc/2020/285)art. 2
 
 La regola 103 del regolamento di esecuzione della CBE come modificata dall’articolo 1 della presente decisione si applica ai ricorsi in sospeso al momento dell’entrata in vigore della presente decisione nonché a quelli presentati dopo l’entrata in vigore della presente decisione.
 
-## Disposizioni transitorie della modifica del 26 marzo 2020****
+## Disposizioni transitorie della modifica del 26 marzo 2020
 
-[^u20-1]
+[^u19-1]
 
-[^u20-1]: [RU 2020 2877](https://fedlex.data.admin.ch/eli/oc/2020/525)art. 2
+[^u19-1]: [RU 2020 2877](https://fedlex.data.admin.ch/eli/oc/2020/525)art. 2
 
 La regola 142 paragrafo 2 modificata dall’articolo 1 della presente decisione si applica a tutte le procedure già interrotte in tale data o interrotte a partire da tale data.
 
-## Disposizioni transitorie della modifica del 15 dicembre 2020****
+## Disposizioni transitorie della modifica del 15 dicembre 2020
 
-[^u21-1]
+[^u20-1]
 
-[^u21-1]: [RU 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)art. 2
+[^u20-1]: [RU 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)art. 2
 
 La regola 19 del regolamento di esecuzione della CBE come modificata dall’articolo 1 della presente decisione entra in vigore il 1° aprile 2021. La nuova regola 19 (1) del regolamento di esecuzione della CBE si applica a tutte le menzioni dell’inventore presentate o rettificate a quella data o a decorrere da quella data. La nuova regola 19 (1) del regolamento di esecuzione della CBE si applica altresì a tutte le domande internazionali che entrano nella fase europea a quella data o a decorrere da quella data.
 
-Campo d’applicazione del Regolamento d’esecuzione**[^t-1]**
+## Disposizioni transitorie della modifica del 15 dicembre 2020
+
+[^u21-1]
+
+[^u21-1]: [RU 2021 652](https://fedlex.data.admin.ch/eli/oc/2021/652)art. 2
+
+La regola 143 CBE come modificata dall’articolo 1 della presente decisione entra in vigore il 1° novembre 2021. Si applica a tutte le domande di brevetto pubblicate nel Registro europeo dei brevetti a quella data o a decorrere da quella data.
+
+Campo d’applicazione del Regolamento d’esecuzione[^t-1]
 
 [^t-1]: Vedi il campo d’applicazione della Conv. sul brevetto europeo ([RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)).

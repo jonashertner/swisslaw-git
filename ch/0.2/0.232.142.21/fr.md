@@ -4,11 +4,11 @@ title: "Règlement d'exécution du 7 décembre 2006 de la convention sur le brev
 short: RE CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: fr
-version: 2021-04-01
+version: 2021-11-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-850-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-850-20211101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -25,7 +25,7 @@ Approuvé par le Conseil d’administration le 7 décembre 2006
 
 Entré en vigueur pour la Suisse le 13 décembre 2007
 
-(Etat le 1<sup>er</sup> avril 2021)
+(État le 1<sup>er</sup> novembre 2021)
 
 ## Partie I Dispositions générales et institutionnelles
 
@@ -242,7 +242,7 @@ Avant le début de chaque année d’activité, les membres de la Grande Chambre
 
 **Suspension de la procédure**
 
-<sup>(1)</sup> Si un tiers apporte la preuve qu'il a introduit une procédure contre le demandeur afin d'obtenir une décision au sens de l'art. 61, par. 1, la procédure de délivrance est suspendue, à moins que ce tiers ne déclare par écrit à l'Office européen des brevets qu'il consent à la poursuite de la procédure. Ce consentement est irrévocable. Toutefois, la procédure de délivrance n'est pas suspendue tant que la demande de brevet européen n'a pas été publiée.
+<sup>(1)</sup> Si un tiers apporte la preuve qu’il a introduit une procédure contre le demandeur afin d’obtenir une décision au sens de l’art. 61, par. 1, la procédure de délivrance est suspendue, à moins que ce tiers ne déclare par écrit à l’Office européen des brevets qu’il consent à la poursuite de la procédure. Ce consentement est irrévocable. Toutefois, la procédure de délivrance n’est pas suspendue tant que la demande de brevet européen n’a pas été publiée.
 
 <sup>(2)</sup> Si la preuve est apportée qu’une décisionpassée en force de chose jugée au sens de l’art. 61, par. 1, a été rendue, l’Office européen des brevets notifie au demandeur et, le cas échéant, aux autres parties que la procédure de délivrance est reprise à compter de la date fixée dans la notification, à moins qu’une nouvelle demande de brevet européen n’ait été déposée conformément à l’art. 61, par. 1 b), pour l’ensemble des États contractants désignés. Si la décision est prononcée en faveur du tiers, la procédure ne peut pas être reprise avant l’expiration d’un délai de trois mois après que la décision est passée en force de chose jugée, à moins que le tiers n’ait demandé la reprise de la procédure.
 
@@ -301,8 +301,8 @@ La personne qui a droit à l’obtention du brevet européen ne peut faire usage
 
 <sup>(3)</sup> et (4)[^19-2]
 
-[^19-1]: Nouvelle teneur selon l' art 1 ch.1 de la D. du conseil d'administration du 15 déc. 2020, en vigueur le 1 <sup>er</sup> avr. 2021 ([RO 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224))
-[^19-2]: Abrogés par l' art 1 ch.1 de la D. du conseil d'administration du 15 déc. 2020, avec effet au 1 <sup>er</sup> avr. 2021 ([RO 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224))
+[^19-1]: Nouvelle teneur selon l’art. 1 ch. 1 de la D du Conseil d’administration du 15 déc. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^19-2]: Abrogés par l’art. 1 ch. 1 de la D du Conseil d’administration du 15 déc. 2020, avec effet au 1 <sup>er</sup> avr. 2021 ([RO 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)).
 
 #### Règle 20
 
@@ -1937,7 +1937,7 @@ Les mentions suivantes sontinscrites au Registre européen des brevets:
 - d) les symboles de la classification attribués à la demande;
 - e) les États contractants désignés;
 - f) les indications concernant le demandeur ou le titulaire du brevet telles que prévues à la règle 41, par. 2 c);
-- g) les nom, prénoms et adresse de l’inventeur désigné par le demandeur ou par le titulaire du brevet, à moins que l’inventeur n’ait renoncé au droit d’être mentionné en tant que tel en vertu de la règle 20, par. 1;
+- g)[^143-1] les nom et prénoms de l’inventeur désigné par le demandeur ou par le titulaire du brevet, ainsi que le pays et le lieu de son domicile, à moins que l’inventeur n’ait renoncé au droit d’être mentionné en tant que tel en vertu de la règle 20, par. 1;
 - h) les indications concernant le mandataire du demandeur ou du titulaire du brevet telles que prévues à la règle 41, par. 2 d); en cas de pluralité de mandataires, uniquement les indications concernant le premier mandataire cité, suivies de la mention «et autres», et dans le cas d’un groupement visé à la règle 152, par. 11, uniquement sa dénomination et son adresse;
 - i) les indications relatives à la priorité (date, État et numéro de dépôt de la demande antérieure);
 - j) en cas de division de la demande, le numéro de toutes les demandes divisionnaires;
@@ -1958,6 +1958,8 @@ Les mentions suivantes sontinscrites au Registre européen des brevets:
 - y) la date et la nature de la décision de la Grande Chambre de recours relative à la requête en révision.
 
 <sup>(2)</sup> Le Président de l’Office européen des brevets peut prescrire que des mentions autres que celles prévues au par. 1 seront inscrites au Registre européen des brevets.
+
+[^143-1]: Nouvelle teneur selon l’art. 1 de la D du Conseil d’administration du 15 déc. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 652](https://fedlex.data.admin.ch/eli/oc/2021/652)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Règle 144
 
@@ -2293,7 +2295,7 @@ S’il est renoncé au rapport complémentaire de recherche européenne et que l
 
 Une demande euro‑PCT est considérée comme comprise dans l’état de la technique au sens de l’art. 54, par. 3, si les conditions prévues à l’art. 153, par. 3 ou 4 sont remplies, et si la taxe de dépôt visée à la règle 159, par. 1 c) a été payée.
 
-## Dispositions transitoires de la modification du 21 octobre 2008****
+## Dispositions transitoires de la modification du 21 octobre 2008
 
 [^u1-1]
 
@@ -2303,7 +2305,7 @@ Une demande euro‑PCT est considérée comme comprise dans l’état de la tech
 
 (2) Les dispositions du règlement d’exécution visées et modifiées à l’art. 1, points 1 à 4, 9, 18 et 19 de la présente décision entrent en vigueur le 1<sup>er</sup> avril 2009 et s’appliquent aux demandes de brevet européen déposées à compter de cette date, ainsi qu’aux demandes internationales entrant dans la phase régionale à compter de cette date.
 
-## Dispositions transitoires de la modification du 25 mars 2009****
+## Dispositions transitoires de la modification du 25 mars 2009
 
 [^u2-1]
 
@@ -2315,7 +2317,7 @@ Une demande euro‑PCT est considérée comme comprise dans l’état de la tech
 
 (3) La règle 161 telle que modifiée par l’art. 1, point 8 de la présente décision est applicable aux demandes de brevet européen pour lesquelles aucune notification n’a été émise avant le 1<sup>er</sup> avril 2010 au titre de l’actuelle règle 161.
 
-## Dispositions transitoires de la modification du 25 mars 2009****
+## Dispositions transitoires de la modification du 25 mars 2009
 
 [^u3-1]
 
@@ -2325,7 +2327,7 @@ Une demande euro‑PCT est considérée comme comprise dans l’état de la tech
 
 (2) La règle 36, par. 1 et 2, telle que modifiée par la présente décision, est applicable aux demandes divisionnaires déposées à compter de cette date.
 
-## Dispositions transitoires de la modification du 28 octobre 2009****
+## Dispositions transitoires de la modification du 28 octobre 2009
 
 [^u4-1]
 
@@ -2335,7 +2337,7 @@ Une demande euro‑PCT est considérée comme comprise dans l’état de la tech
 
 (2) La règle 141, telle que modifiée par l’art. 1, par. 1 de la présente décision, et la nouvelle règle 70<sup>ter</sup> introduite par la présente décision s’appliquent aux demandes de brevet européen et aux demandes internationales déposées à compter de cette date.
 
-## Dispositions transitoires de la modification du 26 octobre 2010****
+## Dispositions transitoires de la modification du 26 octobre 2010
 
 [^u5-1]
 
@@ -2345,7 +2347,7 @@ Une demande euro‑PCT est considérée comme comprise dans l’état de la tech
 
 (2) Sans préjudice de l’art. 3 de la décision CA/D 2/09 du Conseil d’administration, la règle 36, par. 1, telle que modifiée par l’article premier de la présente décision s’applique aux demandes divisionnaires déposées à compter du 1<sup>er</sup> avril 2010.
 
-## Dispositions transitoires de la modification du 26 octobre 2010****
+## Dispositions transitoires de la modification du 26 octobre 2010
 
 [^u6-1]
 
@@ -2353,7 +2355,7 @@ Une demande euro‑PCT est considérée comme comprise dans l’état de la tech
 
 Les règles 161 et 162 CBE telles que modifiées par l’article premier de la présente décision s’appliquent aux demandes euro-PCT pour lesquelles aucune notification au titre des actuelles règles 161 et 162 CBE n’a été émise avant le 1<sup>er</sup> mai 2011.
 
-## Dispositions transitoires de la modification du 26 octobre 2010****
+## Dispositions transitoires de la modification du 26 octobre 2010
 
 [^u7-1]
 
@@ -2363,7 +2365,7 @@ Les règles 161 et 162 CBE telles que modifiées par l’article premier de la p
 
 (2) La règle 71 CBE telle que modifiée et la règle 71<sup>bis</sup> CBE telle qu’insérée par l’article premier de la présente décision sont applicables aux demandes de brevet européen qui, d’ici la date d’entrée en vigueur de ces dispositions, n’auront pas encore donné lieu à l’envoi d’une notification en vertu du texte actuel de la règle 71, par. 3 CBE.
 
-## Dispositions transitoires de la modification du 27 juin 2012****
+## Dispositions transitoires de la modification du 27 juin 2012
 
 [^u8-1]
 
@@ -2373,7 +2375,7 @@ Les règles 161 et 162 CBE telles que modifiées par l’article premier de la p
 
 (2) La règle 53 CBE telle que modifiée par l’article premier de la présente décision s’applique aux demandes européennes et aux demandes euro-PCT, ainsi qu’aux brevets européens pour lesquels il n’a pas encore été émis d’invitation au titre de la règle 53 (3) CBE à la date d’entrée en vigueur de la disposition modifiée.
 
-## Dispositions transitoires de la modification du 16 octobre 2013****
+## Dispositions transitoires de la modification du 16 octobre 2013
 
 [^u9-1]
 
@@ -2383,27 +2385,27 @@ Les règles 161 et 162 CBE telles que modifiées par l’article premier de la p
 
 (2) Elle est applicable aux demandes divisionnaires déposées à compter de cette date.
 
-## Dispositions transitoires de la modification du 13 décembre 2013****
+## Dispositions transitoires de la modification du 16 octobre 2013
 
 [^u10-1]
 
-[^u10-1]: [RO 2014 2405](https://fedlex.data.admin.ch/eli/oc/2014/420)art. 4
-
-(1) La règle 6 CBE et l’art. 14 (1) du règlement relatif aux taxes, tels que modifiés en vertu de l’art. 1 et de l’art. 2 de la présente décision, sont applicables aux demandes de brevet européen déposées à compter du 1<sup>er</sup> avril 2014, ainsi qu’aux demandes internationales entrant dans la phase européenne à compter de cette date.
-
-(2) La règle 6 CBE et l’art. 14 (1) du règlement relatif aux taxes, tels que modifiés en vertu de l’art. 1 et de l’art. 2 de la présente décision, sont applicables aux oppositions ou aux recours formés à compter du 1<sup>er</sup> avril 2014, ainsi qu’aux requêtes en révision, en limitation ou en révocation présentées à compter de cette date.
-
-## Dispositions transitoires de la modification du 16 octobre 2013****
-
-[^u11-1]
-
-[^u11-1]: [RO 2014 3275](https://fedlex.data.admin.ch/eli/oc/2014/565)art. 3
+[^u10-1]: [RO 2014 3275](https://fedlex.data.admin.ch/eli/oc/2014/565)art. 3
 
 (1) La règle 164(1) CBE, telle que modifiée par l’article premier de la présente décision, s’applique à toute demande pour laquelle le rapport complémentaire de recherche européenne visé à l’art. 153(7) CBE n’a pas été établi à la date à laquelle elle entre en vigueur.
 
 (2) La règle 164(2) CBE, telle que modifiée par l’article premier de la présente décision, s’applique à toute demande pour laquelle la première notification prévue à l’art. 94(3) CBE et à la règle 71(1) et (2) CBE ou, le cas échéant, à la règle 71(3) CBE n’a pas été émise à la date à laquelle elle entre en vigueur.
 
-## Disposition transitoire de la modification du 14 octobre 2015****
+## Dispositions transitoires de la modification du 13 décembre 2013
+
+[^u11-1]
+
+[^u11-1]: [RO 2014 2405](https://fedlex.data.admin.ch/eli/oc/2014/420)art. 4
+
+(1) La règle 6 CBE et l’art. 14 (1) du règlement relatif aux taxes, tels que modifiés en vertu de l’art. 1 et de l’art. 2 de la présente décision, sont applicables aux demandes de brevet européen déposées à compter du 1<sup>er</sup> avril 2014, ainsi qu’aux demandes internationales entrant dans la phase européenne à compter de cette date.
+
+(2) La règle 6 CBE et l’art. 14 (1) du règlement relatif aux taxes, tels que modifiés en vertu de l’art. 1 et de l’art. 2 de la présente décision, sont applicables aux oppositions ou aux recours formés à compter du 1<sup>er</sup> avril 2014, ainsi qu’aux requêtes en révision, en limitation ou en révocation présentées à compter de cette date.
+
+## Disposition transitoire de la modification du 14 octobre 2015
 
 [^u12-1]
 
@@ -2411,7 +2413,7 @@ Les règles 161 et 162 CBE telles que modifiées par l’article premier de la p
 
 Les dispositions énoncées à l’art. 1 de la présente décision s’appliquent à tous les brevets européens pour lesquels une décision est prise au titre de l’art. 106, par. 2, ou de l’art. 111, par. 2 CBE lors d’une procédure orale à compter de leur date d’entrée en vigueur.
 
-## Disposition transitoire de la modification du 14 octobre 2015****
+## Disposition transitoire de la modification du 14 octobre 2015
 
 [^u13-1]
 
@@ -2419,7 +2421,7 @@ Les dispositions énoncées à l’art. 1 de la présente décision s’applique
 
 Les dispositions figurant à l’art. 1 de la présente décision s’appliquent à toutes les demandes de brevet européen et à tous les brevets européens, sous réserve que le délai de conservation de cinq années prévu à la règle 147 (3) CBE n’expire pas avant le 31 décembre 2018, quelle que soit la date à laquelle le document a été incorporé dans le dossier électronique.
 
-## Disposition transitoire de la modification du 14 décembre 2016****
+## Disposition transitoire de la modification du 14 décembre 2016
 
 [^u14-1]
 
@@ -2427,7 +2429,7 @@ Les dispositions figurant à l’art. 1 de la présente décision s’appliquent
 
 La règle 162(2) CBE, telle que modifiée par l’art. 1 de la présente décision, s’applique à toute demande euro-PCT pour laquelle la notification au titre des règles 161 et 162 CBE n’a pas été émise à la date d’entrée en vigueur.
 
-## Disposition transitoire de la modification du 28 juin 2017****
+## Disposition transitoire de la modification du 28 juin 2017
 
 [^u15-1]
 
@@ -2435,7 +2437,7 @@ La règle 162(2) CBE, telle que modifiée par l’art. 1 de la présente décisi
 
 Les règles 32 et 33 CBE telles que modifiées à l’art. 1 de la présente décision s’appliquent aux demandes de brevet européen en instance à la date d’entrée en vigueur de la décision et aux demandes de brevet européen déposées après cette date.
 
-## Disposition transitoire de la modification du 29 juin 2017****
+## Disposition transitoire de la modification du 29 juin 2017
 
 [^u16-1]
 
@@ -2443,7 +2445,7 @@ Les règles 32 et 33 CBE telles que modifiées à l’art. 1 de la présente dé
 
 Les règles 27 et 28 CBE, telles que modifiées par l’art. 1 et l’art. 2 de la présente décision, s’appliquent aux demandes de brevet européen déposées à compter de cette date, ainsi qu’aux brevets européens et aux demandes de brevet européen en instance à cette date.
 
-## Disposition transitoire de la modification du 5 octobre 2017****
+## Disposition transitoire de la modification du 5 octobre 2017
 
 [^u17-1]
 
@@ -2451,7 +2453,7 @@ Les règles 27 et 28 CBE, telles que modifiées par l’art. 1 et l’art. 2 de 
 
 La règle 51, par. 1 CBE, telle que modifiée par l’article premier de la présente décision, s’applique à toutes les demandes pour lesquelles la taxe annuelle est acquittée à compter du 1<sup>er</sup> avril 2018.
 
-## Dispositions transitoires de la modification du 12 décembre 2019****
+## Dispositions transitoires de la modification du 12 décembre 2019
 
 [^u18-1]
 
@@ -2459,7 +2461,7 @@ La règle 51, par. 1 CBE, telle que modifiée par l’article premier de la pré
 
 La règle 103 CBE telle que modifiée à l’article premier de la présente décision s’applique aux recours en instance à la date d’entrée en vigueur de la décision ainsi qu’aux recours formés après cette date.
 
-## Dispositions transitoires de la modification du 26 mars 2020****
+## Dispositions transitoires de la modification du 26 mars 2020
 
 [^u19-1]
 
@@ -2467,14 +2469,22 @@ La règle 103 CBE telle que modifiée à l’article premier de la présente dé
 
 La règle 142, par. 2, telle que modifiée par l’article premier de la présente décision, s’applique à toutes les procédures qui sont déjà interrompues à cette date ou qui seront interrompues à compter de cette date.
 
-## Dispositions transitoires de la modification du 15 décembre 2020****
+## Dispositions transitoires de la modification du 15 décembre 2020
 
 [^u20-1]
 
-[^u20-1]: R0 **2021** 224 art.2
+[^u20-1]: [RO 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)art. 2
 
 La règle 19(1) CBE telle que modifiée s’applique à toute désignation de l’inventeur déposée ou rectifiée à compter de cette date. La règle 19(1) CBE telle que modifiée s’applique également à toute demande internationale entrant dans la phase européenne à compter de cette date.
 
-Champ d’application du Règlement d’exécution**[^t-1]**
+## Dispositions transitoires de la modification du 15 décembre 2020
+
+[^u21-1]
+
+[^u21-1]: [RO 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)art. 2
+
+La règle 143 CBE telle que modifiée à l’art. 1 de la présente décision entre en vigueur le 1<sup>er</sup> novembre 2021. Elle s’applique à toutes les demandes de brevet publiées au Registre européen des brevets à compter de cette date.
+
+Champ d’application du Règlement d’exécution[^t-1]
 
 [^t-1]: Voir le champ d’application de la Conv. sur le brevet européen ([RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)).

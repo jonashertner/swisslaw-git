@@ -4,11 +4,11 @@ title: Ausführungsordnung vom 7. Dezember 2006 zum Europäischen Patentüberein
 short: AO EPÜ 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: de
-version: 2021-04-01
+version: 2021-11-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20211101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -25,7 +25,7 @@ Angenommen vom Verwaltungsrat am 7. Dezember 2006
 
 In Kraft getreten für die Schweiz am 13. Dezember 2007
 
-(Stand am 1. April 2021)
+(Stand am 1. November 2021)
 
 ## Erster Teil Ausführungsvorschriften zum Ersten Teil des Übereinkommens
 
@@ -262,7 +262,7 @@ Von dem Tag an, an dem ein Dritter nachweist, dass er ein nationales Verfahren n
 
 (2) Die Richtigkeit der Erfindernennung wird vom Europäischen Patentamt nicht geprüft.
 
-(3) und (4) ...[^part2-chapII-lvlu1-2]
+(3) und (4) …[^part2-chapII-lvlu1-2]
 
 [^part2-chapII-lvlu1-1]: Fassung gemäss Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 15. Dez. 2020, in Kraft seit 1. April 2021 ([AS 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 [^part2-chapII-lvlu1-2]: Aufgehoben durch Art. 1 Ziff. 2 des Beschlusses des Verwaltungsrats vom 15. Dez. 2020, mit Wirkung 1. April 2021 ([AS 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)).
@@ -562,7 +562,7 @@ Ist nach Regel 31 hinterlegtes biologisches Material bei der anerkannten Hinterl
 
 (5) Die Anzahl der Patentansprüche hat sich mit Rücksicht auf die Art der beanspruchten Erfindung in vertretbaren Grenzen zu halten. Die Patentansprüche sind fortlaufend mit arabischen Zahlen zu nummerieren.
 
-(6) Die Patentansprüche dürfen bei der Angabe der technischen Merkmale der Erfindung nicht auf die Beschreibung oder die Zeichnungen Bezug nehmen, es sei denn, dies ist unbedingt erforderlich. Insbesondere dürfen sie keine Formulierungen enthalten wie «wie beschrieben in Teil ... der Beschreibung» oder «wie in Abbildung ... der Zeichnungen dargestellt».
+(6) Die Patentansprüche dürfen bei der Angabe der technischen Merkmale der Erfindung nicht auf die Beschreibung oder die Zeichnungen Bezug nehmen, es sei denn, dies ist unbedingt erforderlich. Insbesondere dürfen sie keine Formulierungen enthalten wie «wie beschrieben in Teil … der Beschreibung» oder «wie in Abbildung … der Zeichnungen dargestellt».
 
 (7) Sind der europäischen Patentanmeldung Zeichnungen mit Bezugszeichen beigefügt, so sollen die in den Patentansprüchen angegebenen technischen Merkmale mit denselben, in Klammern gesetzten Bezugszeichen versehen werden, wenn dies das Verständnis des Patentanspruchs erleichtert. Die Bezugszeichen dürfen nicht zu einer einschränkenden Auslegung des Patentanspruchs herangezogen werden.
 
@@ -941,7 +941,7 @@ Gleichzeitig mit der Erstellung des europäischen Recherchenberichts bestimmt da
 
 (7) Werden die Erteilungs- und Veröffentlichungsgebühr oder die Anspruchsgebühren nicht rechtzeitig entrichtet oder die Übersetzungen nicht rechtzeitig eingereicht, so gilt die europäische Patentanmeldung als zurückgenommen.[^part4-chapIV-lvlu3-5]
 
-(8)–(11) ...[^part4-chapIV-lvlu3-6]
+(8)–(11) …[^part4-chapIV-lvlu3-6]
 
 [^part4-chapIV-lvlu3-1]: Fassung gemäss Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 26. Okt. 2010, in Kraft seit 1. April 2012 ([AS 2011 3303](https://fedlex.data.admin.ch/eli/oc/2011/440)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 [^part4-chapIV-lvlu3-2]: Fassung gemäss Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 26. Okt. 2010, in Kraft seit 1. April 2012 ([AS 2011 3303](https://fedlex.data.admin.ch/eli/oc/2011/440)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
@@ -1619,7 +1619,7 @@ In Entscheidungen des Europäischen Patentamts können nur sprachliche Fehler, S
 - d) Symbole der Klassifikation der Anmeldung;
 - e) die benannten Vertragsstaaten;
 - f) Angaben zur Person des Anmelders oder Patentinhabers nach Massgabe der Regel 41 Absatz 2 c);
-- g) Name, Vornamen und Anschrift des vom Anmelder oder Patentinhaber genannten Erfinders, sofern er nicht nach Regel 20 Absatz 1 auf das Recht verzichtet hat, als Erfinder bekannt gemacht zu werden;
+- g)[^part7-chapIX-lvlu1-1] Name, Vornamen, Wohnsitzstaat und Wohnort des vom Anmelder oder Patentinhaber genannten Erfinders, sofern er nicht nach Regel 20 Absatz 1 auf das Recht verzichtet hat, als Erfinder bekannt gemacht zu werden;
 - h) Angaben zur Person des Vertreters des Anmelders oder Patentinhabers nach Massgabe der Regel 41 Absatz 2 d); im Fall mehrerer Vertreter nur die Angaben zur Person des zuerst genannten Vertreters, gefolgt von den Worten «und Partner» sowie im Fall eines Zusammenschlusses von Vertretern nach Regel 152 Absatz 11 nur Name und Anschrift des Zusammenschlusses;
 - i) Prioritätsangaben (Tag, Staat und Aktenzeichen der früheren Anmeldung);
 - j) im Fall der Teilung der europäischen Patentanmeldung die Nummern aller Teilanmeldungen;
@@ -1640,6 +1640,8 @@ In Entscheidungen des Europäischen Patentamts können nur sprachliche Fehler, S
 - y) Tag und Art der Entscheidung der Grossen Beschwerdekammer über den Antrag auf Überprüfung.
 
 (2) Der Präsident des Europäischen Patentamts kann bestimmen, dass in das Europäische Patentregister andere als die in Absatz 1 vorgesehenen Angaben eingetragen werden.
+
+[^part7-chapIX-lvlu1-1]: Fassung gemäss Art. 1 des Beschlusses des Verwaltungsrats vom 15. Dez. 2020, in Kraft seit 1. Nov. 2021 ([AS 2021 652](https://fedlex.data.admin.ch/eli/oc/2021/652)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### **Regel 144**Von der Einsicht ausgeschlossene Aktenteile
 
@@ -1926,7 +1928,7 @@ entrichtet hat.[^part7-chapXI-lvlu4-1]
 
 Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3, wenn die in Artikel 153 Absatz 3 oder 4 festgelegten Voraussetzungen erfüllt sind und die Anmeldegebühr nach Regel 159 Absatz 1 c) entrichtet worden ist.
 
-## Übergangsbestimmungen der Änderung vom 21. Oktober 2008****
+## Übergangsbestimmungen der Änderung vom 21. Oktober 2008
 
 [^u1-1]
 
@@ -1936,7 +1938,7 @@ Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3,
 
 (2) Die mit Artikel 1 Nummern 1–4, 9, 18 und 19 dieses Beschlusses neu gefassten Bestimmungen der Ausführungsordnung treten am 1. April 2009 in Kraft und gelten für europäische Patentanmeldungen, die ab diesem Zeitpunkt eingereicht werden, sowie für internationale Anmeldungen, die ab diesem Zeitpunkt in die regionale Phase eintreten.
 
-## Übergangsbestimmungen der Änderung vom 25. März 2009****
+## Übergangsbestimmungen der Änderung vom 25. März 2009
 
 [^u2-1]
 
@@ -1948,7 +1950,7 @@ Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3,
 
 (3) Die durch Artikel 1 Nummer 8 dieses Beschlusses geänderte Regel 161 gilt für europäische Patentanmeldungen, zu denen vor dem 1. April 2010 keine Mitteilung nach der geltenden Regel 161 ergangen ist.
 
-## Übergangsbestimmungen der Änderung vom 25. März 2009****
+## Übergangsbestimmungen der Änderung vom 25. März 2009
 
 [^u3-1]
 
@@ -1958,7 +1960,7 @@ Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3,
 
 (2) Regel 36 Absätze (1) und (2) in der durch diesen Beschluss geänderten Fassung sind auf Teilanmeldungen anzuwenden, die ab diesem Datum eingereicht werden.
 
-## Übergangsbestimmungen der Änderung vom 28. Oktober 2009****
+## Übergangsbestimmungen der Änderung vom 28. Oktober 2009
 
 [^u4-1]
 
@@ -1968,7 +1970,7 @@ Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3,
 
 (2) Die durch Artikel 1 Absatz 1 dieses Beschlusses geänderte Regel 141 sowie die neue durch diesen Beschluss eingeführte Regel 70*b* gelten für europäische Patentanmeldungen und internationale Anmeldungen, die ab diesem Datum eingereicht werden.
 
-## Übergangsbestimmungen der Änderung vom 26. Oktober 2010****
+## Übergangsbestimmungen der Änderung vom 26. Oktober 2010
 
 [^u5-1]
 
@@ -1978,7 +1980,7 @@ Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3,
 
 (2) Unbeschadet des Artikels 3 des Beschlusses CA/D 2/09 des Verwaltungsrats gilt die mit Artikel 1 dieses Beschlusses neu gefasste Regel 36 Absatz 1 für ab dem 1. April 2010 eingereichte Teilanmeldungen.
 
-## Übergangsbestimmungen der Änderung vom 26. Oktober 2010****
+## Übergangsbestimmungen der Änderung vom 26. Oktober 2010
 
 [^u6-1]
 
@@ -1988,7 +1990,7 @@ Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3,
 
 (2) Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 161 und 162 EPÜ gelten für Euro-PCT-Anmeldungen, für die bis 1. Mai 2011 keine Mitteilung nach den geltenden Regeln 161 und 162 EPÜ ergangen ist.
 
-## Übergangsbestimmungen der Änderung vom 26. Oktober 2010****
+## Übergangsbestimmungen der Änderung vom 26. Oktober 2010
 
 [^u7-1]
 
@@ -1998,7 +2000,7 @@ Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3,
 
 (2) Die mit Artikel 1 dieses Beschlusses neu gefasste Regel 71 EPÜ und neu eingefügte Regel 71*a* EPÜ gelten für europäische Patentanmeldungen, für die bis zum Tag des Inkrafttretens dieser Bestimmungen keine Mitteilung nach der bisherigen Regel 71 Absatz (3) EPÜ versandt wurde.
 
-## Übergangsbestimmungen der Änderung vom 27. Juni 2012****
+## Übergangsbestimmungen der Änderung vom 27. Juni 2012
 
 [^u8-1]
 
@@ -2008,7 +2010,7 @@ Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3,
 
 (2) Die mit Artikel 1 dieses Beschlusses neu gefasste Regel 53 EPÜ gilt für europäische und Euro-PCT-Anmeldungen sowie europäische Patente, für die bei Inkrafttreten der geänderten Vorschrift noch keine Aufforderung nach Regel 53 (3) EPÜ ergangen ist.
 
-## Übergangsbestimmungen der Änderung vom 16. Oktober 2013****
+## Übergangsbestimmungen der Änderung vom 16. Oktober 2013
 
 [^u9-1]
 
@@ -2018,27 +2020,27 @@ Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3,
 
 (2) Er gilt für Teilanmeldungen, die ab diesem Datum eingereicht werden.
 
-## Übergangsbestimmungen der Änderung vom 13. Dezember 2013****
+## Übergangsbestimmungen der Änderung vom 16. Oktober 2013
 
 [^u10-1]
 
-[^u10-1]: [AS 2014 2405](https://fedlex.data.admin.ch/eli/oc/2014/420)Art. 4
-
-(1) Regel 6 EPÜ und Artikel 14 (1) der Gebührenordnung in der gemäss Artikel 1 und Artikel 2 dieses Beschlusses geänderten Fassung gelten für europäische Patentanmeldungen, die ab dem 1. April 2014 eingereicht werden, sowie für internationale Anmeldungen, die ab diesem Zeitpunkt in die europäische Phase eintreten.
-
-(2) Regel 6 EPÜ und Artikel 14 (1) der Gebührenordnung in der gemäss Artikel 1 und Artikel 2 dieses Beschlusses geänderten Fassung gelten für Einsprüche und Beschwerden, die ab dem 1. April 2014 eingelegt werden, sowie für Überprüfungsanträge und Anträge auf Beschränkung oder Widerruf, die ab diesem Zeitpunkt gestellt werden.
-
-## Übergangsbestimmungen der Änderung vom 16. Oktober 2013****
-
-[^u11-1]
-
-[^u11-1]: [AS 2014 3275](https://fedlex.data.admin.ch/eli/oc/2014/565)Art. 3
+[^u10-1]: [AS 2014 3275](https://fedlex.data.admin.ch/eli/oc/2014/565)Art. 3
 
 (1) Die mit Artikel 1 dieses Beschlusses neu gefasste Regel 164 (1) EPÜ gilt für alle Anmeldungen, für die der ergänzende europäische Recherchenbericht nach Artikel 153 (7) EPÜ bei ihrem Inkrafttreten nicht erstellt worden ist.
 
 (2) Die mit Artikel 1 dieses Beschlusses neu gefasste Regel 164 (2) EPÜ gilt für alle Anmeldungen, für die die erste Mitteilung nach Artikel 94 (3) EPÜ und Regel 71 (1) und (2) EPÜ bzw. gegebenenfalls Regel 71 (3) EPÜ bei ihrem Inkrafttreten nicht erstellt worden ist.
 
-## Übergangsbestimmungen der Änderung vom 14. Oktober 2015****
+## Übergangsbestimmungen der Änderung vom 13. Dezember 2013
+
+[^u11-1]
+
+[^u11-1]: [AS 2014 2405](https://fedlex.data.admin.ch/eli/oc/2014/420)Art. 4
+
+(1) Regel 6 EPÜ und Artikel 14 (1) der Gebührenordnung in der gemäss Artikel 1 und Artikel 2 dieses Beschlusses geänderten Fassung gelten für europäische Patentanmeldungen, die ab dem 1. April 2014 eingereicht werden, sowie für internationale Anmeldungen, die ab diesem Zeitpunkt in die europäische Phase eintreten.
+
+(2) Regel 6 EPÜ und Artikel 14 (1) der Gebührenordnung in der gemäss Artikel 1 und Artikel 2 dieses Beschlusses geänderten Fassung gelten für Einsprüche und Beschwerden, die ab dem 1. April 2014 eingelegt werden, sowie für Überprüfungsanträge und Anträge auf Beschränkung oder Widerruf, die ab diesem Zeitpunkt gestellt werden.
+
+## Übergangsbestimmungen der Änderung vom 14. Oktober 2015
 
 [^u12-1]
 
@@ -2046,7 +2048,7 @@ Eine Euro‑PCT‑Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3,
 
 Die in Artikel 1 dieses Beschlusses enthaltene Bestimmung gilt für alle europäischen Patente, für die in der mündlichen Verhandlung am oder nach dem Tag ihres Inkrafttretens eine Entscheidung nach Artikel 106 Absatz 2 oder Artikel 111 Absatz 2 EPÜ erlassen wird.
 
-## Übergangsbestimmungen der Änderung vom 14. Oktober 2015****
+## Übergangsbestimmungen der Änderung vom 14. Oktober 2015
 
 [^u13-1]
 
@@ -2054,7 +2056,7 @@ Die in Artikel 1 dieses Beschlusses enthaltene Bestimmung gilt für alle europä
 
 Die in Artikel 1 dieses Beschlusses genannten Vorschriften gelten für alle europäischen Patentanmeldungen und Patente mit der Massgabe, dass die in Regel 147 (3) EPÜ vorgesehene 5-jährige Aufbewahrungsdauer unabhängig davon, wann eine Unterlage in die elektronische Akte aufgenommen wurde, nicht vor dem 31. Dezember 2018 endet.
 
-## Übergangsbestimmungen der Änderung vom 14. Dezember 2016****
+## Übergangsbestimmungen der Änderung vom 14. Dezember 2016
 
 [^u14-1]
 
@@ -2062,7 +2064,7 @@ Die in Artikel 1 dieses Beschlusses genannten Vorschriften gelten für alle euro
 
 Die neu gefasste Regel 162 (2) EPÜ ist auf alle Euro-PCT-Anmeldungen anzuwenden, für die bei Inkrafttreten die Mitteilung nach den Regeln 161 und 162 EPÜ noch nicht ergangen ist.
 
-## Übergangsbestimmungen der Änderung vom 28. Juni 2017****
+## Übergangsbestimmungen der Änderung vom 28. Juni 2017
 
 [^u15-1]
 
@@ -2070,7 +2072,7 @@ Die neu gefasste Regel 162 (2) EPÜ ist auf alle Euro-PCT-Anmeldungen anzuwenden
 
 Die neu gefassten Regeln 32 und 33 EPÜ gelten für europäische Patentanmeldungen, die beim Inkrafttreten des Beschlusses anhängig sind, und für europäische Patentanmeldungen, die nach diesem Zeitpunkt eingereicht werden.
 
-## Übergangsbestimmungen der Änderung vom 29. Juni 2017****
+## Übergangsbestimmungen der Änderung vom 29. Juni 2017
 
 [^u16-1]
 
@@ -2078,7 +2080,7 @@ Die neu gefassten Regeln 32 und 33 EPÜ gelten für europäische Patentanmeldung
 
 Die neu gefassten Regeln 27 und 28 EPÜ sind anzuwenden auf ab diesem Datum eingereichte europäische Patentanmeldungen sowie auf zu diesem Zeitpunkt anhängige europäische Patentanmeldungen und europäische Patente.
 
-## Übergangsbestimmungen der Änderung vom 5. Oktober 2017****
+## Übergangsbestimmungen der Änderung vom 5. Oktober 2017
 
 [^u17-1]
 
@@ -2086,7 +2088,7 @@ Die neu gefassten Regeln 27 und 28 EPÜ sind anzuwenden auf ab diesem Datum eing
 
 Die mit diesem Beschluss neu gefasste Regel 51 Absatz 1 EPÜ ist auf alle Anmeldungen anzuwenden, bei denen die Jahresgebühr ab dem 1. April 2018 entrichtet wird.
 
-## Übergangsbestimmungen der Änderung vom 12. Dezember 2019****
+## Übergangsbestimmungen der Änderung vom 12. Dezember 2019
 
 [^u18-1]
 
@@ -2094,7 +2096,7 @@ Die mit diesem Beschluss neu gefasste Regel 51 Absatz 1 EPÜ ist auf alle Anmeld
 
 Die mit Artikel 1 dieses Beschlusses neu gefasste Regel 103 EPÜ gilt für Beschwerden, die bei Inkrafttreten des Beschlusses anhängig sind und für Beschwerden, die nach diesem Zeitpunkt eingelegt werden.
 
-## Übergangsbestimmungen der Änderung vom 26. März 2020****
+## Übergangsbestimmungen der Änderung vom 26. März 2020
 
 [^u19-1]
 
@@ -2102,7 +2104,7 @@ Die mit Artikel 1 dieses Beschlusses neu gefasste Regel 103 EPÜ gilt für Besch
 
 Die mit Artikel 1 dieses Beschlusses geänderte Regel 142 Absatz 2 gilt für alle Ver-fahren, die an diesem Datum bereits unterbrochen sind oder ab diesem Datum unter-brochen werden.
 
-## Übergangsbestimmungen der Änderung vom 15. Dezember 2020****
+## Übergangsbestimmungen der Änderung vom 15. Dezember 2020
 
 [^u20-1]
 
@@ -2110,6 +2112,14 @@ Die mit Artikel 1 dieses Beschlusses geänderte Regel 142 Absatz 2 gilt für all
 
 Die mit Artikel 1 dieses Beschlusses geänderte Regel 19 EPÜ tritt am 1. April 2021 in Kraft. Die neu gefasste Regel 19 (1) EPÜ ist auf jede an oder nach diesem Tag eingereichte oder berichtigte Erfindernennung anzuwenden. Die neu gefasste Regel 19 (1) EPÜ ist auch auf jede an oder nach diesem Tag in die europäische Phase eintretende internationale Anmeldung anzuwenden.
 
-Geltungsbereich der Ausführungsordnung**[^t-1]**
+## Übergangsbestimmungen der Änderung vom 15. Dezember 2020
+
+[^u21-1]
+
+[^u21-1]: [AS 2021 652](https://fedlex.data.admin.ch/eli/oc/2021/652)Art. 2
+
+Die mit Artikel 1 dieses Beschlusses geänderte Regel 143 EPÜ tritt am 1. November 2021 in Kraft. Sie ist auf alle an oder nach diesem Tag im Europäischen Patentregister veröffentlichten Patentanmeldungen anzuwenden.
+
+Geltungsbereich der Ausführungsordnung[^t-1]
 
 [^t-1]: Siehe Geltungsbereich des Europäischen Patentübereinkommens ([SR 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)).
