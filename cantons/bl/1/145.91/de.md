@@ -4,13 +4,12 @@ number: "145.91"
 title: Verordnung über geografische Namen und Gebäudeadressen
 short: GeoNAV
 language: de
-version: 2011-04-01
-valid_until: 2021-10-31
-version_adopted: 2011-03-01
+version: 2021-11-01
+version_adopted: 2021-10-26
 adopted: 2011-03-01
 in_force: 2011-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/145.91"
-pdf: "https://bl.clex.ch/api/de/versions/2604/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3653/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2604/pdf_file"
 
 (GeoNAV)
 
-Vom 01.03.2011 (Stand 01.04.2011)
+Vom 01.03.2011 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -53,7 +52,7 @@ beschliesst:
 - b. Gemeinden: die kleinsten politischen Einheiten, die durch ein Hoheitsgebiet und einen Namen eindeutig bestimmt sind.
 - c. Ortschaften: bewohnte, geografisch abgrenzbare Siedlungsgebiete mit eigenem Namen und eigener Postleitzahl. Ortschaften können sich über Hoheitsgebiete mehrerer Gemeinden erstrecken.
 - d. Strassenbezeichnung: Überbegriff für die Namen von Strassen, Wegen, Gassen, Plätzen und benannten Gebieten.
-- e. Eidgenössischer Gebäudeidentifikator (EGID): Nummer, die für jedes Gebäude in der Schweiz eindeutig ist.
+- e. …
 - f. Geografische Namen der amtlichen Vermessung: Namen der topografischen Objekte, die in den Informationsebenen Nomenklatur (Flurnamen, Ortsnamen und Geländenamen), Bodenbedeckung und Einzelobjekte verwendet werden.
 
 #### § 3
@@ -99,31 +98,17 @@ beschliesst:
 
 <sup>5</sup> Neue oder geänderte Strassenbezeichnungen müssen innert 10 Arbeitstagen der GIS-Fachstelle und der Nachführungsgeometerin oder dem Nachführungsgeometer gemeldet werden.
 
-<sup>6</sup> Das offizielle Verzeichnis der Strassenbezeichnungen wird von der GIS-Fachstelle in der Gebäudedatenbank geführt.
+<sup>6</sup> …
 
-## 3 Gebäude und Gebäudeadressen
+## 3 Gebäudeadressen
 
 #### § 7
 
-**Gebäude**
-
-<sup>1</sup> Als Gebäude gelten:
-
-- a. auf Dauer angelegte, mit dem Boden fest verbundene Bauten, die Wohnzwecken oder Zwecken der Arbeit, der Ausbildung, der Kultur oder des Sportes dienen;
-- b. weitere auf Dauer angelegte, mit dem Boden fest verbundene überdachte Bauten, die eine Fläche von mehr als 12 m² haben oder für die Orientierung in der Landschaft wesentlich sind;
-- c. unterirdische Gebäude, Reservoirs, Unterstände und Perrondächer, Silos und Aussichtstürme.
-
-<sup>2</sup> Bei Doppel-, Gruppen- und Reihenhäusern gilt jedes Gebäude als selbstständig, wenn es einen eigenen Zugang von aussen hat und wenn zwischen den Gebäuden eine senkrechte, vom Erdgeschoss bis zum Dach reichende tragende Trennmauer besteht.
+**…**
 
 #### § 8
 
-**Eidgenössischer Gebäudeidentifikator (EGID)**
-
-<sup>1</sup> Jedem selbstständigen Gebäude wird ein EGID zugeordnet.
-
-<sup>2</sup> Dieser wird für bewohnte Gebäude durch das Statistische Amt, für die übrigen Gebäude durch die GIS-Fachstelle vergeben.
-
-<sup>3</sup> Der EGID wird in der amtlichen Vermessung als Gebäudenummer erfasst und nachgeführt.
+**…**
 
 #### § 9
 
@@ -131,15 +116,21 @@ beschliesst:
 
 <sup>1</sup> Die Gebäudeadresse setzt sich zusammen aus der Strassenbezeichnung, der Hausnummer, der Postleitzahl und dem Ortschaftsnamen.
 
-<sup>2</sup> Jedes Gebäude, das einen EGID erhalten hat, braucht mindestens eine Gebäudeadresse. Sie muss sowohl pro Gemeinde als auch pro Ortschaft eindeutig sein.
+<sup>2</sup> …
 
-<sup>3</sup> Das amtliche Register der Gebäudeadressen wird von der GIS-Fachstelle in der Gebäudedatenbank geführt.
+<sup>2<sup>bis</sup></sup> Eine Gebäudeadresse muss zwingend vergeben werden für Gebäude mit Wohnnutzung, Arbeitsstätten sowie Gebäude von allgemein öffentlichem Interesse. Darunter fallen insbesondere Autoeinstellhallen, Reservoirs sowie Gebäude des Gesundheitswesens, der Ausbildung oder der Kultur.
+
+<sup>2<sup>ter</sup></sup> Für weitere Gebäude können nach Bedarf Gebäudeadressen vergeben werden.
+
+<sup>3</sup> …
+
+<sup>4</sup> Die Gemeinde ist zuständig für die Vergabe der Gebäudeadressen.
 
 #### § 10
 
 **Hausnummer**
 
-<sup>1</sup> Die Gemeinde ist zuständig für die Nummerierung der Gebäude nach Strassen, Wegen, Gassen, Plätzen und benannten Gebieten.
+<sup>1</sup> …
 
 <sup>2</sup> Die Hausnummer wird der Strasse zugeordnet, an welcher der Eingang liegt. Im Übrigen richtet sich die Nummerierung nach der Empfehlung des Bundesamtes für Landestopografie.
 
@@ -169,7 +160,7 @@ beschliesst:
 
 **Meldepflicht**
 
-<sup>1</sup> Die GIS-Fachstelle teilt den EGID der Gemeinde und der zuständigen Nachführungsgeometerin oder dem Nachführungsgeometer unmittelbar nach erteilter Baubewilligung mit.
+<sup>1</sup> Die GIS-Fachstelle meldet nach erteilter Baubewilligung die zu adressierenden Gebäude der Gemeinde.
 
 <sup>2</sup> Die Gemeinde teilt innert 10 Arbeitstagen nach Baubewilligung (oder bei gebauten Gebäuden nach Anfrage) insbesondere den nachfolgend aufgeführten Stellen die erforderlichen Gebäudeadressen mit:
 
@@ -179,19 +170,13 @@ beschliesst:
 - d. der Basellandschaftlichen Gebäudeversicherung;
 - e. der Post, sofern es sich um Gebäude mit Postzustellung handelt.
 
-<sup>3</sup> Das Amt für Geoinformation, das Statistische Amt und die Basellandschaftliche Gebäudeversicherung können fehlende Adressen bei der Gemeinde anfordern.
+<sup>3</sup> Das Amt für Geoinformation, das Amt für Daten und Statistik und die Basellandschaftliche Gebäudeversicherung können fehlende Adressen bei der Gemeinde anfordern.
 
-<sup>4</sup> Nach der Archivierung des Baugesuchs durch das Bauinspektorat, meldet die GIS-Fachstelle der Gemeinde und der zuständigen Nachführungsgeometerin oder dem Nachführungsgeometer den Erledigungsstatus.
+<sup>4</sup> Nach der Archivierung des Baugesuchs durch das Bauinspektorat, meldet die GIS-Fachstelle der Gemeinde den Erledigungsstatus.
 
 #### § 14
 
-**Nachführung der Gebäudeadresse in der amtlichen Vermessung**
-
-<sup>1</sup> Der EGID und die Gebäudeadressen werden für projektierte Gebäude innert 30 Tagen nach Erteilung der Baubewilligung in der amtlichen Vermessung nachgeführt.
-
-<sup>2</sup> Änderungen von EGID oder Gebäudeadressen an bestehenden Gebäuden werden innert 30 Tagen nach Mitteilung durch die Gemeinde oder das Amt für Geoinformation in der amtlichen Vermessung nachgeführt.
-
-<sup>3</sup> Fehler an EGID und Gebäudeadressen im Datenbestand der amtlichen Vermessung müssen innert 30 Tagen nach Mitteilung durch das Amt für Geoinformation behoben werden.
+**…**
 
 ## 4 Geografische Namen der amtlichen Vermessung
 
@@ -229,7 +214,7 @@ beschliesst:
 
 <sup>1</sup> Das Reglement vom 27. April 1951[^18-1] für die Nomenklaturkommission für die Erhebung und die Schreibweise der Lokalnamen des Kantons Basel-Landschaft wird aufgehoben.
 
-[^18-1]: GS 20.327, SGS 145.91
+[^18-1]: GS 20.327
 
 #### § 19
 
@@ -241,9 +226,9 @@ beschliesst:
 - 2\. Die Verordnung vom 1. Dezember 1981[^19-3] zum Sachversicherungsgesetz wird wie folgt geändert: ...[^19-4]
 - 3\. Die Regierungsratverordnung vom 18. Dezember 1984[^19-5] über den Informationsaustausch der Gemeinden und Bezirksschreibereien mit der Basellandschaftlichen Gebäudeversicherung wird wie folgt geändert: ...[^19-6]
 
-[^19-1]: GS 32.353, SGS 211.53
+[^19-1]: GS 32.353
 [^19-2]: GS 37.412
-[^19-3]: GS 27.847, SGS 350.11
+[^19-3]: GS 27.847
 [^19-4]: GS 37.412
 [^19-5]: GS 28.805, SGS 350.12
 [^19-6]: GS 37.412
