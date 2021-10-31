@@ -3,11 +3,11 @@ sr: "414.132.2"
 title: Verordnung der ETH Lausanne vom 30. Juni 2015 über die Kontrolle des Bachelor- und des Masterstudiums (Studienkontrollverordnung ETHL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/476"
 language: de
-version: 2019-09-15
+version: 2021-11-01
 adopted: 2015-06-30
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20190915/de/xml/fedlex-data-admin-ch-eli-cc-2015-476-20190915-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20190915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2015-476-20211101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20190915/de"
 
 (Studienkontrollverordnung ETHL)
 
-vom 30. Juni 2015 (Stand am 15. September 2019)
+vom 30. Juni 2015 (Stand am 1. November 2021)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne (Schulleitung ETHL),
 
@@ -222,13 +222,12 @@ Für die Semesterfächer können Bewertungskommissionen bestellt werden. Den Bew
 
 #### Art. 18
 
-**Betrug**
+**Betrügerisches Verhalten**[^18-1]
 
-<sup>1</sup> Als Betrug gilt jede Form der Täuschung in der Absicht, für sich oder für andere eine unverdiente Bewertung zu erlangen.
+Die Sanktionen bei betrügerischem Verhalten anlässlich von Leistungskontrollen sind in der ETHL-Disziplinarverordnung vom 2. August 2021[^18-2] geregelt.
 
-<sup>2</sup> Bei Betrug, Mitwirkung am Betrug oder Betrugsversuch ist die Disziplinarordnung vom 15. Dezember 2008[^18-1] betreffend die Studierenden der Eidgenössischen Technischen Hochschule Lausanne anwendbar.
-
-[^18-1]: [SR 414.138.2](https://fedlex.data.admin.ch/eli/cc/2021/482)
+[^18-1]: Fassung gemäss Art. 16 der ETHL-Disziplinarverordnung vom 2. Aug. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 482](https://fedlex.data.admin.ch/eli/oc/2021/482)).
+[^18-2]: [SR 414.138.2](https://fedlex.data.admin.ch/eli/cc/2021/482)
 
 #### Art. 19
 
@@ -403,7 +402,7 @@ Studierende können bedingt zur Masterarbeit zugelassen werden, sofern:
 
 Die Studienkontrollverordnung ETHL vom 14. Juni 2004[^33-1] wird aufgehoben.
 
-[^33-1]: [[AS 2004 4323](https://fedlex.data.admin.ch/eli/oc/2004/652), [2006 4125](https://fedlex.data.admin.ch/eli/oc/2006/604), [2008 3721](https://fedlex.data.admin.ch/eli/oc/2008/495)]
+[^33-1]: [[AS 2004 4323](https://fedlex.data.admin.ch/eli/oc/2004/652); [2006 4125](https://fedlex.data.admin.ch/eli/oc/2006/604); [2008 3721](https://fedlex.data.admin.ch/eli/oc/2008/495)]
 
 #### Art. 34
 
@@ -411,7 +410,7 @@ Die Studienkontrollverordnung ETHL vom 14. Juni 2004[^33-1] wird aufgehoben.
 
 Das 2. Kapitel der Studienkontrollverordnung ETHL vom 14. Juni 2004[^34-1] bleibt bis am 31. August 2017 anwendbar für Studierende, die im Studienjahr 2016−2017 die Grundstufe wiederholen.
 
-[^34-1]: [AS 2004 4323](https://fedlex.data.admin.ch/eli/oc/2004/652), [2006 4125](https://fedlex.data.admin.ch/eli/oc/2006/604), [2008 3721](https://fedlex.data.admin.ch/eli/oc/2008/495)
+[^34-1]: [AS 2004 4323](https://fedlex.data.admin.ch/eli/oc/2004/652); [2006 4125](https://fedlex.data.admin.ch/eli/oc/2006/604); [2008 3721](https://fedlex.data.admin.ch/eli/oc/2008/495)
 
 #### Art. 35
 

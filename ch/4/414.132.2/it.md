@@ -3,11 +3,11 @@ sr: "414.132.2"
 title: Ordinanza del 30 giugno 2015 sulla verifica degli studi che portano al bachelor e al master presso il Politecnico federale di Losanna (Ordinanza sulla verifica degli studi al PFL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/476"
 language: it
-version: 2019-09-15
+version: 2021-11-01
 adopted: 2015-06-30
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20190915/it/xml/fedlex-data-admin-ch-eli-cc-2015-476-20190915-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20190915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2015-476-20211101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20190915/it"
 
 (Ordinanza sulla verifica degli studi al PFL)
 
-del 30 giugno 2015 (Stato 15 settembre 2019) (Stato 15 settembre 2019)
+del 30 giugno 2015 (Stato 1° novembre 2021)
 
 La Direzione del Politecnico federale di Losanna (Direzione del PFL),
 
@@ -222,13 +222,12 @@ Per le discipline di semestre possono essere istituite commissioni di valutazion
 
 #### Art. 18
 
-**Frode**
+**Comportamento fraudolento**[^18-1]
 
-<sup>1</sup> Per frode si intende qualsiasi espediente volto a ottenere per se stessi o per altri una valutazione non meritata.
+Le sanzioni per i comportamenti fraudolenti durante le verifiche delle prestazioni sono disciplinate dall’ordinanza disciplinare del PFL del 2 agosto 2021[^18-2].
 
-<sup>2</sup> In caso di frode, di concorso in frode o di tentativo di frode si applica il regolamento disciplinare del 15 dicembre 2008[^18-1] concernente gli studenti del Politecnico federale di Losanna.
-
-[^18-1]: [RS 414.138.2](https://fedlex.data.admin.ch/eli/cc/2021/482)
+[^18-1]: Nuovo testo giusta l’art. 16 dell’O del 2 ago. 2021 sui provvedimenti disciplinari, in vigore dal 1° nov. 2021 ([RU 2021 482](https://fedlex.data.admin.ch/eli/oc/2021/482)).
+[^18-2]: [RS 414.138.2](https://fedlex.data.admin.ch/eli/cc/2021/482)
 
 #### Art. 19
 

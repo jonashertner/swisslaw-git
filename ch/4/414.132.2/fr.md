@@ -3,11 +3,11 @@ sr: "414.132.2"
 title: "Ordonnance du 30 juin 2015 sur le contrôle des études menant au bachelor et au master à l'École polytechnique fédérale de Lausanne (Ordonnance sur le contrôle des études à l'EPFL)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/476"
 language: fr
-version: 2019-09-15
+version: 2021-11-01
 adopted: 2015-06-30
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20190915/fr/xml/fedlex-data-admin-ch-eli-cc-2015-476-20190915-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20190915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-476-20211101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20190915/fr"
 
 (Ordonnance sur le contrôle des études à l’EPFL)
 
-du 30 juin 2015 (Etat le 15 septembre 2019)
+du 30 juin 2015 (Etat le 1<sup>er</sup> novembre 2021)
 
 La Direction de l’École polytechnique fédérale de Lausanne (Direction de l’EPFL),
 
@@ -223,13 +223,12 @@ Des commissions d’évaluation peuvent être mises sur pied pour les branches d
 
 #### Art. 18
 
-**Fraude**
+**Comportement frauduleux**[^18-1]
 
-<sup>1</sup> Par fraude, on entend toute forme de tricherie en vue d’obtenir pour soi-même ou pour autrui une évaluation non méritée.
+Les sanctions applicables aux comportements frauduleux lors du contrôle des études sont régies par l’ordonnance de l’École polytechnique fédérale de Lausanne du 2 août 2021 sur les mesures disciplinaires[^18-2].
 
-<sup>2</sup> En cas de fraude, de participation à la fraude ou de tentative de fraude, le règlement disciplinaire du 15 décembre 2008 concernant les étudiants de l’École polytechnique fédérale de Lausanne[^18-1] s’applique.
-
-[^18-1]: [RS 414.138.2](https://fedlex.data.admin.ch/eli/cc/2021/482)
+[^18-1]: Nouvelle teneur selon l’art. 16 de l’O de l’EPFL du 2 août 2021 sur les mesures disciplinaires, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 482](https://fedlex.data.admin.ch/eli/oc/2021/482)).
+[^18-2]: [RS 414.138.2](https://fedlex.data.admin.ch/eli/cc/2021/482)
 
 #### Art. 19
 
