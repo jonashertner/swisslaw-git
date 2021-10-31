@@ -4,11 +4,11 @@ title: Verordnung 2 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 2) (Sonderbestimmun
 short: ArGV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: de
-version: 2019-04-01
+version: 2021-11-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20190401/de/xml/fedlex-data-admin-ch-eli-cc-2000-244-20190401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20190401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2000-244-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20190401/de"
 
 (Sonderbestimmungen für bestimmte Gruppen von Betrieben oder Arbeitnehmern und Arbeitnehmerinnen)
 
-vom 10. Mai 2000 (Stand am 1. April 2019)
+vom 10. Mai 2000 (Stand am 1. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -655,6 +655,17 @@ Auf Betriebe des Autogewerbes und die in ihnen beschäftigten Arbeitnehmer und A
 Auf Bau- und Unterhaltsbetriebe für Eisenbahnanlagen und die in ihnen mit Unterhalts- und Erneuerungsarbeiten an Eisenbahnanlagen beschäftigten Arbeitnehmer und Arbeitnehmerinnen sind Artikel 4 für die ganze Nacht und den ganzen Sonntag sowie Artikel 12 Absatz 1 anwendbar, soweit Nacht- und Sonntagsarbeit, namentlich an Anlagen der Fahrbahn und der Stromversorgung sowie an Anlagen für die Steuerung und Sicherung des Zugverkehrs, für die Aufrechterhaltung des Bahnbetriebes notwendig sind.
 
 [^48-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6009](https://fedlex.data.admin.ch/eli/oc/2012/705)).
+
+#### Art. 48a
+
+**Bau- und Unterhaltsbetriebe auf Nationalstrassen**[^48a-1]
+
+<sup>1</sup> Auf Bau- und Unterhaltsbetriebe und die Arbeitnehmerinnen und Arbeitnehmer, die in diesen Betrieben beschäftigt sind mit Betriebs-, Unterhalts-, Ausbau- und Erneuerungsarbeiten in direktem Zusammenhang mit Arbeiten an Tunnels, Galerien und Brücken von Nationalstrassen nach den Artikeln 2–4 des Bundesgesetzes vom 8. März 1960[^48a-2] über die Nationalstrassen, ist Artikel 4 Absatz 1 für die ganze Nacht anwendbar, soweit Nachtarbeit aus sicherheitstechnischen Gründen notwendig ist, insbesondere, wenn eine Fahrspur gesperrt werden muss.
+
+<sup>2</sup> Der Betrieb muss Baustellen, auf denen Arbeitnehmerinnen und Arbeitnehmer nach Absatz 1 in der Nacht eingesetzt werden, mindestens 14 Tage vor Arbeitsbeginn im Schweizerischen Handelsamtsblatt publizieren. In der Publikation müssen der Name des Betriebs, der Einsatzort, die Anzahl der betroffenen Arbeitnehmerinnen und Arbeitnehmer und die Dauer der geplanten Nachtarbeit ersichtlich sein.
+
+[^48a-1]: Eingefügt durch Ziff. I der V vom 1. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
+[^48a-2]: [SR 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
 
 #### Art. 49
 

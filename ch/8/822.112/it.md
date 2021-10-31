@@ -4,11 +4,11 @@ title: Ordinanza 2 del 10 maggio 2000 concernente la legge sul lavoro (OLL 2) (D
 short: OLL 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: it
-version: 2019-04-01
+version: 2021-11-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20190401/it/xml/fedlex-data-admin-ch-eli-cc-2000-244-20190401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20190401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2000-244-20211101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20190401/it"
 
 (Disposizioni speciali per determinate categorie di aziende e di lavoratori)
 
-del 10 maggio 2000 (Stato 1° aprile 2019)
+del 10 maggio 2000 (Stato 1° novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -656,6 +656,17 @@ Alle aziende del settore automobilistico e ai lavoratori in esse occupati si app
 Alle aziende di costruzione e di manutenzione di impianti ferroviari e ai lavoratori in esse occupati nei lavori di manutenzione e di rinnovamento di impianti ferroviari si applica l’articolo 4 per tutta la notte e tutta la domenica, nonché l’articolo 12 capoverso 1, sempreché il lavoro notturno e domenicale, segnatamente agli impianti delle linee ferroviarie e di approvvigionamento in energia elettrica nonché ai dispositivi per il comando e la sicurezza della circolazione ferroviaria, sia necessario per garantire il buon funzionamento dei servizi ferroviari.
 
 [^48-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6009](https://fedlex.data.admin.ch/eli/oc/2012/705)).
+
+#### Art. 48a
+
+**Aziende di costruzione e di manutenzione che effettuano lavori su strade nazionali**[^48a-1]
+
+<sup>1</sup> Alle aziende di costruzione e di manutenzione e ai lavoratori occupati in tali aziende nei lavori di esercizio, di manutenzione, di sistemazione e di rinnovo in diretta relazione con lavori a gallerie e ponti di strade nazionali secondo gli articoli 2–4 della legge federale dell’8 marzo 1960[^48a-2] sulle strade nazionali si applica l’articolo 4 capoverso 1 per tutta la notte, sempreché il lavoro notturno sia necessario per motivi di sicurezza tecnica, in particolare se occorre chiudere al traffico una corsia.
+
+<sup>2</sup> L’azienda deve pubblicare nel Foglio ufficiale svizzero di commercio, almeno 14 giorni prima dell’inizio dei lavori, i cantieri in cui sono impiegati lavoratori durante la notte secondo il capoverso 1. La pubblicazione deve indicare il nome dell’azienda, il luogo d’impiego, il numero di lavoratori interessati e la durata del lavoro notturno previsto.
+
+[^48a-1]: Introdotto dal n. I dell’O del 1° set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
+[^48a-2]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
 
 #### Art. 49
 

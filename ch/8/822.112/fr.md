@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 10 mai 2000 relative à la loi sur le travail (OLT 2) (D
 short: OLT 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: fr
-version: 2019-04-01
+version: 2021-11-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20190401/fr/xml/fedlex-data-admin-ch-eli-cc-2000-244-20190401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20190401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-244-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20190401/fr"
 
 (Dispositions spéciales pour certaines catégories d’entreprises ou de travailleurs)
 
-du 10 mai 2000 (Etat le 1<sup>er</sup> avril 2019)
+du 10 mai 2000 (Etat le 1<sup>er</sup> novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -47,7 +47,7 @@ La présente ordonnance précise les possibilités de dérogations aux prescript
 
 La nécessité (art. 27, al. 1<sup>bis</sup>, de la loi) est établie lorsque:
 
-- a. une entreprise appartient à l’une des catégories d’entreprises énumérées à la section 3 de la présente ordonnance; ou
+- a. une entreprise appartient à l’une des catégories d’entreprises énumérées à la section 3 de la présente ordonnance, ou
 - b. que les conditions fixées à l’art. 28 de l’ordonnance 1 du 10 mai 2000 relative à la loi sur le travail[^2-1] sont remplies.
 
 [^2-1]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
@@ -90,7 +90,7 @@ La durée maximale du travail hebdomadaire peut, pour un certain nombre de semai
 
 Les travailleurs peuvent être occupés pendant onze jours consécutifs au plus:
 
-- a. s’ils bénéficient d’un minimum de trois jours de congé immédiatement après; et
+- a. s’ils bénéficient d’un minimum de trois jours de congé immédiatement après, et
 - b. si la semaine de cinq jours est observée en moyenne durant l’année civile.
 
 <sup>2</sup>
@@ -98,7 +98,7 @@ Les travailleurs peuvent être occupés pendant onze jours consécutifs au plus:
 Les travailleurs peuvent être occupés pendant sept jours consécutifs:
 
 - a. si la durée quotidienne du travail s’inscrivant dans le travail de jour ou le travail du soir n’excède pas neuf heures;
-- b. si la durée maximale du travail hebdomadaire est observée en moyenne sur deux semaines; et
+- b. si la durée maximale du travail hebdomadaire est observée en moyenne sur deux semaines, et
 - c. si au minimum 83 heures consécutives de congé sont accordées immédiatement après le septième jour: ces 83 heures comprennent le repos quotidien, le repos compensatoire pour le travail dominical et la demi-journée de congé hebdomadaire.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
@@ -161,7 +161,7 @@ La durée du repos quotidien d’un travailleur adulte peut être réduite à 9 
 
 Le travail de nuit peut s’inscrire dans un intervalle de douze heures s’il est suivi d’une période de repos de douze heures au minimum, qu’un endroit pour s’allonger est à disposition et pour autant:
 
-- a. que la durée du travail soit de dix heures au maximum et qu’elle soit en grande partie composée de temps de présence; ou
+- a. que la durée du travail soit de dix heures au maximum et qu’elle soit en grande partie composée de temps de présence, ou
 - b. que le travail effectif soit de huit heures au maximum; l’intégralité des douze heures compte alors comme temps de travail.[^10-1]
 
 <sup>3</sup> La durée quotidienne du travail, en cas de travail de nuit commençant après 4 heures ou finissant avant 1 heure, se situe dans un intervalle de 17 heures au plus. Si le travail quotidien commence avant 5 heures ou se termine après 24 heures, la durée minimale du repos quotidien est de 12 heures en moyenne par semaine civile. Dans ce cas, la durée minimale du repos quotidien entre deux interventions est de 8 heures.
@@ -507,7 +507,7 @@ Est applicable au personnel assumant des tâches relevant des technologies de l�
 
 S’applique aux travailleurs occupés dans les banques, le commerce des valeurs mobilières, les infrastructures des marchés financiers et leurs sociétés communes l’art. 4 pour toute la nuit et pour les jours fériés légaux tombant un jour ouvrable, pour autant que le travail effectué de nuit ou un jour férié légal soit nécessaire pour prévenir toute interruption du fonctionnement des systèmes de trafic des paiements, de commerce des valeurs mobilières et de règlement internationaux.
 
-[^34-1]: Nouvelle teneur selon le ch. 10 de l’annexe 1 à l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^34-1]: Nouvelle teneur selon l’annexe 1 ch. 10 de l’O du 25 nov. 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
 #### Art. 35
 
@@ -533,7 +533,7 @@ Sont applicables aux travailleurs participant à l’exécution d’œuvres musi
 
 #### Art. 37
 
-**Etablissements cinématographiques**
+**Établissements cinématographiques**
 
 Sont applicables aux établissements cinématographiques, dont l’activité consiste à projeter des films cinématographiques à titre professionnel et aux travailleurs qu’ils occupent l’art. 4 pour la nuit jusqu’à 2 h et pour tout le dimanche ainsi que l’art. 12, al. 2.
 
@@ -657,6 +657,17 @@ Est applicable aux entreprises de la branche automobile et aux travailleurs qu�
 Sont applicables aux entreprises de construction et d’entretien d’installations ferroviaires et aux travailleurs qu’elles affectent à l’entretien et à la rénovation des installations ferroviaires, telles qu’installations des voies ferrées, approvisionnement en électricité, dispositifs de commande et sécurité pour la circulation ferroviaire, l’art. 4 pour toute la nuit et pour tout le dimanche, et l’art. 12, al. 1, pour autant que cela soit nécessaire à la bonne marche des services ferroviaires.
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6009](https://fedlex.data.admin.ch/eli/oc/2012/705)).
+
+#### Art. 48a
+
+**Entreprises de construction et d’entretien intervenant sur des routes nationales**[^48a-1]
+
+<sup>1</sup> Est applicable aux entreprises de construction et d’entretien et aux travailleurs qu’elles affectent aux travaux d’exploitation, d’entretien, d’aménagement et de rénovation qui sont en lien direct avec des travaux effectués sur des tunnels, des galeries et des ponts appartenant aux routes nationales selon les art. 2 à 4 de la loi fédérale du 8 mars 1960 sur les routes nationales[^48a-2] l’art. 4, al. 1, pour toute la nuit, pour autant que le travail de nuit soit nécessaire pour des raisons de sécurité, en particulier lorsqu’une voie de circulation doit être fermée.
+
+<sup>2</sup> L’entreprise doit publier les chantiers occupant des travailleurs la nuit en application de l’al. 1 dans la Feuille officielle suisse du commerce au moins 14 jours avant le début des travaux. La publication doit indiquer le nom de l’entreprise, le lieu d’intervention, le nombre de travailleurs concernés et la durée du travail de nuit prévu.
+
+[^48a-1]: Introduit par le ch.I de l’O du 1<sup>er</sup> sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543))
+[^48a-2]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
 
 #### Art. 49
 
