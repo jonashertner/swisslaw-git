@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Règlement d'exécution du 2 octobre 2018 du Protocole relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: fr
-version: 2021-02-01
+version: 2021-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20210201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20211101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,18 +22,18 @@ Adopté par l’Assemblée de l’Union de Madrid le 2 octobre 2018
 
 Entré en vigueur le 1<sup>er</sup> février 2020
 
-(Etat le 1<sup>er</sup> février 2021)
+(Etat le 1<sup>er</sup> novembre 2021)
 
 ## Liste des règles
 
 <table>
 <tr><td>Chapitre 1:</td><td>Dispositions générales</td></tr>
 <tr><td>Règle 1</td><td>Expressions abrégées</td></tr>
-<tr><td>Règle 1<sup>bis</sup></td><td>...</td></tr>
+<tr><td>Règle 1<sup>bis</sup></td><td>…</td></tr>
 <tr><td>Règle 2</td><td>Communications avec le Bureau international; signature</td></tr>
 <tr><td>Règle 3</td><td>Représentation devant le Bureau international</td></tr>
 <tr><td>Règle 4</td><td>Calcul des délais</td></tr>
-<tr><td>Règle 5</td><td>Perturbations dans le service postal et dans les entreprises d’acheminement du courrier et l’envoi de communications par voie électronique</td></tr>
+<tr><td>Règle 5</td><td>Excuse de retard dans l’observation de délais</td></tr>
 <tr><td>Règle 5<sup>bis</sup></td><td>Poursuite de la procédure</td></tr>
 <tr><td>Règle 6</td><td>Langues</td></tr>
 <tr><td>Règle 7</td><td>Notification de certaines exigences particulières</td></tr>
@@ -103,17 +103,17 @@ Au sens du présent règlement d’exécution:
 - v) «organisation contractante» s’entend d’une partie contractante qui est une organisation intergouvernementale;
 - vi) «enregistrement international» s’entend de l’enregistrement d’une marque effectué en vertu de l’Arrangement, du Protocole ou des deux, selon le cas;
 - vii) «demande internationale» s’entend d’une demande d’enregistrement international déposée en vertu du Protocole;
-- viii) ...
-- ix) ...
-- x) ...
+- viii) …
+- ix) …
+- x) …
 - xi) «déposant» s’entend de la personne physique ou morale au nom de laquelle est déposée la demande internationale;
 - xii) «personne morale» s’entend d’une société, d’une association ou de tout autre groupement ou organisation qui, en vertu de la législation qui lui est applicable, a capacité pour acquérir des droits, assumer des obligations et ester en justice;
 - xiii) «demande de base» s’entend de la demande d’enregistrement d’une marque qui a été déposée auprès de l’Office d’une partie contractante et qui constitue la base de la demande internationale d’enregistrement de cette marque;
 - xiv) «enregistrement de base» s’entend de l’enregistrement d’une marque qui a été effectué par l’Office d’une partie contractante et qui constitue la base de la demande internationale d’enregistrement de cette marque;
 - xv) «désignation» s’entend de la requête en extension de la protection («extension territoriale») visée à l’art. 3<sup>ter</sup>.1) ou 2) du Protocole; ce terme s’entend aussi d’une telle extension inscrite au registre international;
 - xvi) «partie contractante désignée» s’entend d’une partie contractante pour laquelle a été demandée l’extension de la protection («extension territoriale») visée à l’art. 3<sup>ter</sup>.1) ou 2) du Protocole ou à l’égard de laquelle une telle extension a été inscrite au registre international;
-- xvii) ...
-- xviii) ...
+- xvii) …
+- xviii) …
 - [tab] xix) «notification de refus provisoire» s’entend d’une déclaration de l’Office d’une partie contractante désignée, faite conformément à l’art. 5.1) du Protocole;
 - xix<sup>bis</sup>) «invalidation» s’entend d’une décision de l’autorité compétente (administrative ou judiciaire) d’une partie contractante désignée révoquant ou annulant les effets, sur le territoire de cette partie contractante, d’un enregistrement international pour tout ou partie des produits ou services couverts par la désignation de ladite partie contractante;
 - xx) «gazette» s’entend de la gazette périodique visée à la règle 32;
@@ -141,7 +141,7 @@ Au sens du présent règlement d’exécution:
 
 #### Règle 1<sup>bis</sup>
 
-**...**
+**…**
 
 #### Règle 2
 
@@ -155,7 +155,7 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 \1) [Mandataire; nombre de mandataires]
 
-\2) [Constitution de mandataire]
+\2) [Constitution du mandataire][^3-1]
 
 \3) [Constitution irrégulière]
 
@@ -168,9 +168,9 @@ Les communications adressées au Bureau international doivent être effectuées 
 - a) Le déposant ou le titulaire peut constituer un mandataire auprès du Bureau international.
 - b) Le déposant ou le titulaire ne peut avoir qu’un mandataire. Lorsque plusieurs mandataires sont indiqués dans l’acte de constitution, seul celui qui est indiqué en premier lieu est considéré comme mandataire et inscrit comme tel.
 - c) Lorsqu’un cabinet ou bureau d’avocats, ou de conseils en brevets ou en marques, a été indiqué au Bureau international comme mandataire, il est considéré comme constituant un seul mandataire.
-- d) ...
+- d) …
 
-- a)[^3-1] La constitution d’un mandataire peut être faite dans la demande internationale ou dans une désignation postérieure ou dans une demande visée à la règle 25 qui doit contenir le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique du mandataire.
+- a)[^3-2] La constitution d’un mandataire peut être faite dans la demande internationale ou par le nouveau titulaire de l’enregistrement international dans une demande visée à la règle 25.1)a)i) qui doit contenir le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique du mandataire.
 - b)
 
   La constitution d’un mandataire peut aussi être faite dans une communication distincte qui peut se rapporter à une ou plusieurs demandes internationales spécifiées ou à un ou plusieurs enregistrements internationaux spécifiés du même déposant ou titulaire. Cette communication doit être présentée au Bureau international:
@@ -182,9 +182,9 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 - a) Lorsque le Bureau international considère que la constitution d’un mandataire faite en vertu de l’al. 2) est irrégulière, il le notifie au déposant ou titulaire, au mandataire présumé et, si c’est un Office qui a adressé ou transmis l’acte de constitution, à cet Office.
 - b) Tant que les conditions applicables selon l’al. 2) ne sont pas remplies, le Bureau international adresse toutes les communications pertinentes au déposant ou titulaire mais pas au mandataire présumé.
-- c) ...
+- c) …
 
-- a)[^3-2] Lorsque le Bureau international constate que la constitution d’un mandataire remplit les conditions fixées, il inscrit au registre international le fait que le déposant ou titulaire a un mandataire, ainsi que le nom, l’adresse et l’adresse électronique du mandataire. Dans ce cas, la date de prise d’effet de la constitution du mandataire est la date à laquelle le Bureau international a reçu la demande internationale, la désignation postérieure, la demande ou la communication distincte dans laquelle le mandataire est constitué.
+- a)[^3-3] Lorsque le Bureau international constate que la constitution d’un mandataire remplit les conditions fixées, il inscrit au registre international le fait que le déposant ou titulaire a un mandataire, ainsi que le nom, l’adresse et l’adresse électronique du mandataire. Dans ce cas, la date de prise d’effet de la constitution du mandataire est la date à laquelle le Bureau international a reçu la demande internationale, la demande ou la communication distincte dans laquelle le mandataire est constitué.
 - b) Le Bureau international notifie l’inscription visée au sous‑alinéa a) à la fois au déposant ou titulaire et, dans ce dernier cas, aux Offices des parties contractantes désignées, ainsi qu’au mandataire. Lorsque la constitution de mandataire a été faite dans une communication distincte présentée par l’intermédiaire d’un Office, le Bureau international notifie aussi l’inscription à cet Office.
 
 - a) Sauf disposition expresse contraire du présent règlement d’exécution, la signature d’un mandataire inscrit selon l’al. 4)a) remplace la signature du déposant ou titulaire.
@@ -201,12 +201,14 @@ Les communications adressées au Bureau international doivent être effectuées 
   - ii) la date d’expiration d’une période de deux mois à compter de la réception de la communication par laquelle le mandataire demande la radiation de l’inscription.
 
 - Jusqu’à la date à laquelle la radiation prend effet, le Bureau international adresse toutes les communications visées à l’al. 5)b) à la fois au déposant ou titulaire et au mandataire.
-- d) Lorsqu’il reçoit une demande de radiation faite par le mandataire, le Bureau international notifie ce fait au déposant ou titulaire, et joint à la notification une copie de toutes les communications qui ont été envoyées au mandataire, ou qui ont été reçues du mandataire par le Bureau international, durant les six mois qui précèdent la date de la notification.
+- d)[^3-4] Lorsqu’il reçoit une demande de radiation faite par le mandataire, le Bureau international notifie ce fait au déposant ou titulaire.
 - e) Dès l’instant où la date de prise d’effet de la radiation est connue, le Bureau international notifie la radiation et la date à laquelle elle prend effet au mandataire dont l’inscription a été radiée, au déposant ou titulaire et, si la constitution du mandataire a été présentée par l’intermédiaire d’un Office, à cet Office.
 - f) Les radiations à la demande du titulaire ou du mandataire du titulaire sont également notifiées aux Offices des parties contractantes désignées.
 
 [^3-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-[^3-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^3-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 #### Règle 4
 
@@ -234,34 +236,26 @@ Dans tous les cas où le Bureau international communique un délai, il indique l
 
 #### Règle 5
 
-**Perturbations dans le service postal et dans les entreprises d’acheminement du courrier**
+**Excuse de retard dans l’observation de délais[^5-1]**
 
-\1) [Communications envoyées par l’intermédiaire d’un service postal]
+\1) [Excuse de retard dans l’observation de délais dû à des causes de force majeure]
 
-\2) [Communications envoyées par l’intermédiaire d’une entreprise d’acheminement du courrier]
+L’inobservation, par une partie intéressée, d’un délai prévu dans le règlement d’exécution pour l’accomplissement d’un acte devant le Bureau international est excusée si la partie intéressée apporte la preuve, d’une façon satisfaisante pour le Bureau international, que ce délai n’a pas été respecté pour raison de guerre, de révolution, de désordre civil, de grève, de calamité naturelle, de perturbations dans les services postaux, d’une entreprises d’acheminement du courrier ou de communication électronique dues à des circonstances indépendantes de la volonté de la partie intéressée ou pour une autre cause de force majeure.[^5-2]
 
-\3) [Communication envoyée par voie électronique]
-
-L’inobservation, par une partie intéressée, d’un délai pour une communication adressée au Bureau international et envoyée par voie électronique est excusée si la partie intéressée apporte la preuve, d’une façon satisfaisante pour le Bureau international, que le délai n’a pas été respecté en raison de défaillances dans la communication électronique avec le Bureau international, ou concernant la localité de la partie intéressée en raison de circonstances extraordinaires indépendantes de la volonté de la partie intéressée, et que la communication a été effectuée au plus tard cinq jours après la reprise du service de communication électronique.
+\2) et 3) …[^5-3]
 
 \4) [Limites à l’excuse]
 
-L’inobservation d’un délai n’est excusée en vertu de la présente règle que si la preuve visée à l’al. 1), 2) ou 3) et la communication ou, le cas échéant, un double de celle‑ci, sont reçus par le Bureau international au plus tard six mois après l’expiration du délai.
+L’inobservation d’un délai n’est excusée en vertu de la présente règle que si la preuve et l’acte visés à l’alinéa 1) sont reçus par le Bureau international, et accomplis devant celui-ci, dès qu’il est raisonnablement possible de le faire et au plus tard six mois après l’expiration du délai applicable.[^5-4]
 
 \5) [Demande internationale et désignation postérieure]
 
 Lorsque le Bureau international reçoit une demande internationale ou une désignation postérieure après le délai de deux mois visé à l’art. 3.4) du Protocole et à la règle 24.6)b), et que l’Office concerné indique que la réception tardive résulte de circonstances visées à l’al. 1), 2) ou 3), l’al. 1), 2) ou 3) et l’al. 4) s’appliquent.
 
-L’inobservation, par une partie intéressée, d’un délai pour une communication adressée au Bureau international et expédiée par l’intermédiaire d’un service postal est excusée si la partie intéressée apporte la preuve, d’une façon satisfaisante pour le Bureau international, que:
-
-- i) la communication a été expédiée au moins cinq jours avant l’expiration du délai ou, lorsque le service postal a été interrompu lors de l’un quelconque des dix jours qui ont précédé la date d’expiration du délai pour raison de guerre, de révolution, de désordre civil, de grève, de calamité naturelle ou d’autres raisons semblables, la communication a été expédiée au plus tard cinq jours après la reprise du service postal, que
-- ii) l’expédition de la communication a été effectuée par le service postal sous pli recommandé ou que les données relatives à l’expédition ont été enregistrées par le service postal au moment de l’expédition, et que
-- iii) dans les cas où le courrier, quelle que soit sa catégorie, n’arrive normalement pas au Bureau international dans les deux jours suivant son expédition, la communication a été expédiée dans une catégorie de courrier qui parvient normalement au Bureau international dans les deux jours suivant l’expédition, ou l’a été par avion.
-
-L’inobservation, par une partie intéressée, d’un délai pour une communication adressée au Bureau international et envoyée par l’intermédiaire d’une entreprise d’acheminement du courrier est excusée si la partie intéressée apporte la preuve, d’une façon satisfaisante pour le Bureau international, que:
-
-- i) la communication a été envoyée au moins cinq jours avant l’expiration du délai ou, lorsque le fonctionnement de l’entreprise d’acheminement du courrier a été interrompu lors de l’un quelconque des dix jours qui ont précédé la date d’expiration du délai pour raison de guerre, de révolution, de désordre civil, de grève, de calamité naturelle ou d’autres raisons semblables, la communication a été envoyée au plus tard cinq jours après la reprise du fonctionnement de l’entreprise d’acheminement du courrier, et que
-- ii) les données relatives à l’envoi de la communication ont été enregistrées par l’entreprise d’acheminement du courrier au moment de l’envoi.
+[^5-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-3]: Abrogés par la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 #### Règle 5<sup>bis</sup>
 
@@ -273,14 +267,16 @@ L’inobservation, par une partie intéressée, d’un délai pour une communica
 
 Le Bureau international inscrit au registre international toute poursuite de la procédure et notifie ce fait au déposant ou au titulaire.
 
-- a)
+- a)[^5bis-1]
 
-  Lorsqu’un déposant ou un titulaire n’a pas observé l’un des délais prescrits ou visés aux règles 11.2), 11.3), 20<sup>bis</sup>.2), 24.5)b), 26.2), 34.3)c)iii) et 39.1), le Bureau international poursuit néanmoins le traitement de la demande internationale, de la désignation postérieure, du paiement ou de la requête concernés si:
+  Lorsqu’un déposant ou un titulaire n’a pas observé l’un des délais prescrits ou visés aux règles 11.2), 11.3), 12.7), 20<sup>bis</sup>.2), 24.5)b), 26.2), 27<sup>bis</sup>.3)c), 34.3)c)iii) et 39.1), le Bureau international poursuit néanmoins le traitement de la demande internationale, de la désignation postérieure, du paiement ou de la requête concernés si:
 
   - i) une requête à cet effet, signée par le déposant ou le titulaire, est présentée au Bureau international sur le formulaire officiel, et
   - ii) la requête est reçue, la taxe fixée dans le barème des émoluments et taxes est payée, et, avec la requête, toutes les conditions à l’égard desquelles le délai fixé s’applique sont remplies, dans un délai de deux mois à compter de la date d’expiration de ce délai.
 
 - b) Une requête qui ne remplit pas les conditions énoncées aux points i) et ii) du sous‑alinéa a) n’est pas considérée comme telle et le déposant ou le titulaire reçoit une notification à cet effet.
+
+[^5bis-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 #### Règle 6
 
@@ -313,7 +309,7 @@ Toute communication relative à une demande internationale ou à un enregistreme
 
 **Notification de certaines exigences particulières**
 
-\1) ...
+\1) …
 
 \2) [Intention d’utiliser la marque]
 
@@ -330,7 +326,7 @@ Lorsqu’une partie contractante exige, en tant que partie contractante désign�
 
 **Pluralité de déposants**
 
-\1) ...
+\1) …
 
 \2) [Plusieurs déposants]
 
@@ -354,7 +350,7 @@ Les émoluments et taxes prescrits qui sont applicables à la demande internatio
 
 \5) [Contenu supplémentaire de la demande internationale]
 
-\6) et 7) ...
+\6) et 7) …
 
 - a) La demande internationale doit être présentée sur le formulaire officiel.
 - b) La demande internationale doit être signée par l’Office d’origine et, lorsque l’Office d’origine l’exige, aussi par le déposant. Lorsque l’Office d’origine, sans exiger que la demande internationale soit signée par le déposant, autorise qu’elle soit aussi signée par le déposant, le déposant peut signer la demande internationale.
@@ -391,7 +387,7 @@ Les émoluments et taxes prescrits qui sont applicables à la demande internatio
   - v) lorsque le déposant souhaite ne pas revendiquer la protection à l’égard de tout élément de la marque, une indication de ce fait et de l’élément ou des éléments dont la protection n’est pas revendiquée;
   - vi) une description de la marque exprimée par des mots ou, si le déposant le souhaite, la description de la marque exprimée par des mots figurant dans la demande de base ou l’enregistrement de base, lorsqu’elle n’a pas été fournie en vertu de l’al. 4)a)xi).
 
-- a) ...
+- a) …
 - b)
 
   La demande internationale doit contenir le numéro et la date de la demande de base ou de l’enregistrement de base et doit comporter une ou plusieurs des indications suivantes:
@@ -435,19 +431,19 @@ Les émoluments et taxes prescrits qui sont applicables à la demande internatio
 
 **Émoluments et taxes concernant la demande internationale**
 
-\1) ...
+\1) …
 
 \2) [Émoluments et taxes prescrits]
 
 La demande internationale relevant exclusivement du Protocole donne lieu au paiement de l’émolument de base, du complément d’émolument ou de la taxe individuelle ou des deux et, le cas échéant, de l’émolument supplémentaire, indiqués ou visés au point 2 du barème des émoluments et taxes. Ces émoluments et taxes sont payés pour une période de dix ans.
 
-\3) ...
+\3) …
 
 #### Règle 11
 
 **Irrégularités autres que celles concernant le classement des produits et des services ou leur indication**
 
-\1) ...
+\1) …
 
 \2) [Irrégularités dont la correction incombe au déposant]
 
@@ -479,7 +475,7 @@ Si la demande internationale est présentée directement auprès du Bureau inter
   - ii) constate que la demande internationale contient une ou plusieurs des irrégularités visées à la règle 15.1);
   - iii) considère que la demande internationale contient des irrégularités relatives au droit du déposant à déposer une demande internationale;
   - iv) considère que la demande internationale contient des irrégularités relatives à la déclaration de l’Office d’origine visée à la règle 9.5)d);
-  - v) ...
+  - v) …
   - vi) constate que la demande internationale n’est pas signée par l’Office d’origine, ou
   - vii) constate que la demande internationale ne contient pas la date et le numéro de la demande de base ou de l’enregistrement de base, selon le cas,
 
@@ -568,7 +564,7 @@ L’enregistrement international contient:
 - ii) la date de l’enregistrement international;
 - iii) le numéro de l’enregistrement international;
 - iv) lorsque la marque peut être classée selon la classification internationale des éléments figuratifs, et à moins que la demande internationale contienne une déclaration selon laquelle le déposant souhaite que la marque soit considérée comme une marque en caractères standard, les symboles pertinents de cette classification déterminés par le Bureau international;
-- v) ...
+- v) …
 - vi) les indications annexées à la demande internationale, conformément à la règle 9.5)g)i), relatives à l’État membre ou aux États membres dans ou pour lesquels une marque antérieure, dont l’ancienneté est revendiquée, est enregistrée, à la date à partir de laquelle l’enregistrement de cette marque antérieure a pris effet et au numéro de l’enregistrement correspondant.
 
 #### Règle 15
@@ -591,7 +587,7 @@ Dans tous les autres cas, l’enregistrement international porte la date qui est
   - iv) l’indication des produits et services pour lesquels l’enregistrement de la marque est demandé,
 
 - l’enregistrement international porte la date à laquelle le dernier des éléments faisant défaut est parvenu au Bureau international; toutefois, si le dernier des éléments faisant défaut parvient au Bureau international dans le délai de deux mois visé à l’art. 3.4) du Protocole, l’enregistrement international porte la date à laquelle la demande internationale défectueuse a été reçue par l’Office d’origine.
-- b) ...
+- b) …
 
 ## Chapitre 4 Faits survenant dans les parties contractantes et ayant une incidence sur les enregistrements internationaux
 
@@ -627,7 +623,7 @@ Le Bureau international inscrit le refus provisoire au registre international av
 
 \5) [Déclarations relatives à la possibilité d’un réexamen]
 
-\6) ...
+\6) …
 
 - a) Une notification de refus provisoire peut comprendre une déclaration indiquant les motifs pour lesquels l’Office qui fait la notification considère que la protection ne peut être accordée dans la partie contractante concernée («refus provisoire d’office») ou une déclaration selon laquelle la protection ne peut être accordée dans la partie contractante concernée parce qu’une opposition a été déposée («refus provisoire fondé sur une opposition») ou ces deux déclarations.
 - b) Une notification de refus provisoire doit se rapporter à un seul enregistrement international, être datée et être signée par l’Office faisant la notification.
@@ -636,14 +632,14 @@ Une notification de refus provisoire contient ou indique:
 
 - i) l’Office qui fait la notification;
 - ii) le numéro de l’enregistrement international, accompagné, de préférence, d’autres indications permettant de confirmer l’identité de l’enregistrement international, telles que les éléments verbaux de la marque ou le numéro de la demande de base ou de l’enregistrement de base;
-- iii) ...
+- iii) …
 - iv) tous les motifs sur lesquels le refus provisoire est fondé, accompagnés d’un renvoi aux dispositions essentielles correspondantes de la loi;
 - v) lorsque les motifs sur lesquels le refus provisoire est fondé se rapportent à une marque qui a fait l’objet d’une demande ou d’un enregistrement et avec laquelle la marque qui fait l’objet de l’enregistrement international semble être en conflit, la date et le numéro de dépôt, la date de priorité (le cas échéant), la date et le numéro d’enregistrement (s’ils sont disponibles), le nom et l’adresse du titulaire et une reproduction de cette première marque, ainsi que la liste de tous les produits et services ou des produits et services pertinents figurant dans la demande ou l’enregistrement concernant cette première marque, étant entendu que ladite liste peut être rédigée dans la langue de ladite demande ou dudit enregistrement;
 - vi) soit que les motifs sur lesquels le refus provisoire est fondé concernent la totalité des produits et services, soit une indication des produits et services qui sont concernés, ou qui ne sont pas concernés, par le refus provisoire;
 - vii) le délai, raisonnable eu égard aux circonstances, pour présenter une requête en réexamen ou un recours se rapportant au refus provisoire d’office ou au refus provisoire fondé sur une opposition et, le cas échéant, pour présenter une réponse à l’opposition, de préférence avec une indication de la date à laquelle ledit délai expire, ainsi que l’autorité compétente pour connaître de cette requête en réexamen, de ce recours ou de cette réponse, avec indication, le cas échéant, de l’obligation de présenter la requête en réexamen, le recours ou la réponse par l’intermédiaire d’un mandataire qui a son adresse sur le territoire de la partie contractante dont l’Office a prononcé le refus;
-- viii) ...
+- viii) …
 
-- a) à c) ...
+- a) à c) …
 - d)
 
   L’Office d’une partie contractante peut, dans une déclaration, notifier au Directeur général le fait que, conformément à la législation de ladite partie contractante:
@@ -679,7 +675,7 @@ Une notification de refus provisoire contient ou indique:
   - ii) ne contient pas, le cas échéant, d’indications détaillées sur la marque avec laquelle la marque qui fait l’objet de l’enregistrement international semble être en conflit (règle 17.2)v) et 3));
   - iii) ne remplit pas les conditions fixées à la règle 17.2)vi);
   - iv) ne remplit pas les conditions fixées à la règle 17.2)vii), ou
-  - v) ...
+  - v) …
   - vi) ne contient pas, le cas échéant, le nom et l’adresse de l’opposant ni l’indication des produits et services sur lesquels l’opposition est fondée (règle 17.3)), le Bureau international, sauf lorsque le sous-alinéa d) s’applique, inscrit néanmoins le refus provisoire au registre international.
 
 - Le Bureau international invite l’Office qui a communiqué le refus provisoire à envoyer une notification régularisée dans un délai de deux mois à compter de l’invitation et transmet au titulaire une copie de la notification de refus irrégulière et de l’invitation envoyée à l’Office concerné.
@@ -687,7 +683,7 @@ Une notification de refus provisoire contient ou indique:
 - e) Toute notification régularisée indique, lorsque la législation applicable le permet, un nouveau délai, raisonnable eu égard aux circonstances, pour présenter une requête en réexamen ou un recours se rapportant au refus provisoire prononcé d’office ou au refus provisoire fondé sur une opposition et, le cas échéant, pour présenter une réponse à l’opposition, avec de préférence une indication de la date à laquelle ledit délai expire.
 - f) Le Bureau international transmet une copie de toute notification régularisée au titulaire.
 
-- a) ...
+- a) …
 - b) L’al. 1)a) s’applique pour déterminer si le délai avant l’expiration duquel l’Office de la partie contractante concernée doit donner au Bureau international l’information visée à l’art. 5.2)c)i) du Protocole a été respecté. Si cette information est donnée après l’expiration de ce délai, elle est réputée ne pas avoir été donnée et le Bureau international en informe l’Office concerné.
 - c) Lorsque la notification de refus provisoire est faite en vertu de l’art. 5.2)c)ii) du Protocole sans que les conditions de l’art. 5.2)c)i) aient été remplies, cette notification de refus provisoire n’est pas considérée comme telle. Dans un tel cas, le Bureau international transmet néanmoins une copie de la notification au titulaire, informe en même temps le titulaire et l’Office qui a envoyé la notification du fait que la notification de refus provisoire n’est pas considérée comme telle par le Bureau international et en indique les raisons.
 
@@ -767,7 +763,7 @@ Lorsque le Bureau international a été informé, conformément à l’al. 1), d
 
 \3) [Inscription]
 
-\4) ...
+\4) …
 
 - a) Le titulaire d’un enregistrement international ou l’Office de la partie contractante du titulaire peut informer le Bureau international que le droit du titulaire de disposer de l’enregistrement international a été restreint, en indiquant, s’il y a lieu, les parties contractantes concernées.
 - b) L’Office d’une partie contractante désignée peut informer le Bureau international que le droit du titulaire de disposer de l’enregistrement international a été restreint sur le territoire de cette partie contractante.
@@ -854,7 +850,7 @@ La notification peut aussi inclure des informations sur tout autre droit acquis 
 
 \3) [Précisions supplémentaires concernant le remplacement]
 
-À compter de la date de la notification de l’enregistrement international ou de la désignation postérieure, selon le cas, le titulaire peut présenter directement à l’Office d’une partie contractante désignée une demande tendant à ce que cet Office prenne note de l’enregistrement international dans son registre, conformément à l’art. 4*<sup>bis</sup>*.2) du Protocole. Lorsque, suite à cette demande, l’Office a pris note, dans son registre, du fait qu’un enregistrement national ou régional ou des enregistrements nationaux ou régionaux, selon le cas, ont été remplacés par l’enregistrement international, cet Office le notifie au Bureau international. Cette notification indique:
+À compter de la date de la notification de l’enregistrement international ou de la désignation postérieure, selon le cas, le titulaire peut présenter directement à l’Office d’une partie contractante désignée une demande tendant à ce que cet Office prenne note de l’enregistrement international dans son registre, conformément à l’art. 4<sup>bis</sup>.2) du Protocole. Lorsque, suite à cette demande, l’Office a pris note, dans son registre, du fait qu’un enregistrement national ou régional ou des enregistrements nationaux ou régionaux, selon le cas, ont été remplacés par l’enregistrement international, cet Office le notifie au Bureau international. Cette notification indique:
 
 - i) le numéro de l’enregistrement international concerné;
 - ii) lorsque le remplacement ne concerne qu’un ou certains des produits et services énumérés dans l’enregistrement international, ces produits et services, et
@@ -865,11 +861,11 @@ La notification peut aussi inclure des informations sur tout autre droit acquis 
 
 - a) La protection de la marque qui fait l’objet d’un enregistrement international ne peut être refusée, même partiellement, sur la base d’un enregistrement national ou régional qui est réputé avoir été remplacé par cet enregistrement international.
 - b) Un enregistrement national ou régional et l’enregistrement international qui l’a remplacé peuvent coexister. Le titulaire ne peut être tenu de renoncer à un enregistrement national ou régional qui est réputé avoir été remplacé par un enregistrement international ou d’en demander la radiation et il devrait être autorisé à renouveler cet enregistrement, s’il le souhaite, conformément à la législation nationale ou régionale applicable.
-- c) Avant de prendre note de l’enregistrement international dans son registre, l’Office d’une partie contractante désignée examine la demande visée à l’al. 1) afin de déterminer si les conditions énoncées à l’art. 4*<sup>bis</sup>*.1) du Protocole sont remplies.
-- d) Les produits et services concernés par le remplacement, énumérés dans l’enregistrement national ou régional, sont couverts par ceux qui sont énumérés dans l’enregistrement international.
+- c) Avant de prendre note de l’enregistrement international dans son registre, l’Office d’une partie contractante désignée examine la demande visée à l’al. 1) afin de déterminer si les conditions énoncées à l’art. 4<sup>bis</sup>.1) du Protocole sont remplies.
+- d) Les produits et services concernés par le remplacement, énumérés dans l’enregistrement national ou régional, doivent être couverts par ceux qui sont énumérés dans l’enregistrement international. Le remplacement peut ne concerner que certains des produits et services énumérés dans l’enregistrement national ou régional.
 - e) Un enregistrement national ou régional est réputé avoir été remplacé par un enregistrement international à compter de la date à laquelle cet enregistrement international prend effet dans la partie contractante désignée concernée, conformément à l’art. 4.1)a) du Protocole.
 
-[^21-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^21-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
 
 #### Règle 21<sup>bis</sup>
 
@@ -912,7 +908,7 @@ Lorsque le titulaire d’un enregistrement international désignant une organisa
   - iv) lorsque lesdits faits et décisions n’ont d’incidence sur l’enregistrement international qu’à l’égard de certains des produits et services, les produits et services sur lesquels ces faits et décisions ont une incidence ou ceux sur lesquels ces faits et décisions n’ont pas d’incidence.
 
 - b) Lorsqu’une procédure visée au point i), ii) ou iii) de l’art. 6.3) du Protocole, a commencé avant l’expiration de la période de cinq ans mais n’a pas, avant l’expiration de cette période, abouti à la décision finale visée à la deuxième phrase de l’art. 6.3) du Protocole ou au retrait ou à la renonciation visés à la troisième phrase de l’art. 6.3) du Protocole, l’Office d’origine, lorsqu’il en a connaissance, notifie ce fait au Bureau international dès que possible après l’expiration de ladite période.
-- c) À bref délai après que la procédure visée au sous-alinéa b) a abouti à la décision finale visée à la deuxième phrase de l’art. 6.3) du Protocole ou au retrait ou à la renonciation visés à la troisième phrase de l’art. 6.3) du Protocole, l’Office d’origine, lorsqu’il en a connaissance, notifie ce fait au Bureau international et donne les indications visées au sous-alinéa a)i) à iv). Lorsque l’action judiciaire ou la procédure visée au sous-alinéa b) est achevée et n’a pas abouti à la décision finale, au retrait ou à la renonciation susmentionné, l’Office d’origine, lorsqu’il en a connaissance, ou à la demande du titulaire, notifie ce fait au Bureau international.
+- c)[^22-1] À bref délai après que la procédure visée au sous-alinéa b) a abouti à la décision finale visée à la deuxième phrase de l’art. 6.3) du Protocole ou au retrait ou à la renonciation visés à la troisième phrase de l’art. 6.3) du Protocole, l’Office d’origine, lorsqu’il en a connaissance, notifie ce fait au Bureau international et donne les indications visées au sous-alinéa a)i) à iv). Lorsque la procédure visée au sous-alinéa b) est achevée et n’a pas abouti à la décision finale, au retrait ou à la renonciation susmentionné, l’Office d’origine, lorsqu’il en a connaissance, ou à la demande du titulaire, notifie ce fait au Bureau international.
 
 - a) Le Bureau international inscrit au registre international la notification visée à l’al. 1) et transmet une copie de cette notification aux Offices des parties contractantes désignées et au titulaire.
 - b) Lorsqu’une notification visée à l’al. 1)a) ou c) requiert la radiation de l’enregistrement international et remplit les conditions de cet alinéa, le Bureau international radie, dans la mesure applicable, l’enregistrement international du registre international. Le Bureau international radie également, dans la mesure applicable, les enregistrements internationaux issus d’un changement partiel de titulaire ou d’une division inscrits sous l’enregistrement international qui a été radié, à la suite de la notification susmentionnée, et ceux issus de leur fusion.
@@ -923,6 +919,8 @@ Lorsque le titulaire d’un enregistrement international désignant une organisa
   - i) la date à laquelle l’enregistrement international a été radié du registre international;
   - ii) lorsque la radiation concerne l’ensemble des produits et des services, ce fait;
   - iii) lorsque la radiation ne concerne que certains des produits et des services, ceux qui ont été indiqués en vertu de l’al. 1)a)iv).
+
+[^22-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 #### Règle 23
 
@@ -995,15 +993,15 @@ Les règles 16 à 18<sup>ter</sup> s’appliquent *mutatis mutandis*.
 Si les conditions de l’al. 2)a) ne sont pas remplies, la désignation postérieure n’est pas considérée comme telle et le Bureau international en informe l’expéditeur.
 
 - a) Une partie contractante peut faire l’objet d’une désignation postérieurement à l’enregistrement international (ci-après dénommée «désignation postérieure») lorsque, au moment de cette désignation, le titulaire remplit les conditions prévues à l’art. 2 du Protocole pour être le titulaire d’un enregistrement international.
-- b) ...
-- c) ...
+- b) …
+- c) …
 
 - a)
 
   Une désignation postérieure doit être présentée au Bureau international par le titulaire ou par l’Office de la partie contractante du titulaire; toutefois:
 
-  - i) ...
-  - ii) ...
+  - i) …
+  - ii) …
   - iii) lorsque l’al. 7) s’applique, la désignation postérieure issue d’une conversion doit être présentée par l’Office de l’organisation contractante.
 
 - b) La désignation postérieure doit être présentée sur le formulaire officiel en un exemplaire. Lorsqu’elle est présentée par le titulaire, elle doit être signée par le titulaire. Lorsqu’elle est présentée par un Office, elle doit être signée par cet Office et, lorsque l’Office l’exige, aussi par le titulaire. Lorsqu’elle est présentée par un Office et que cet Office, sans exiger que la désignation postérieure soit signée par le titulaire, autorise qu’elle soit aussi signée par le titulaire, le titulaire peut signer la désignation postérieure.
@@ -1013,7 +1011,7 @@ Si les conditions de l’al. 2)a) ne sont pas remplies, la désignation postéri
   Sous réserve de l’al. 7)b), la désignation postérieure doit contenir ou indiquer:
 
   - i) le numéro de l’enregistrement international concerné;
-  - ii) le nom et l’adresse du titulaire;
+  - ii)[^24-1] le nom du titulaire;
   - iii) la partie contractante qui est désignée;
   - iv) si la désignation postérieure se rapporte à tous les produits et services énumérés dans l’enregistrement international concerné, ce fait, ou, si la désignation postérieure ne se rapporte qu’à une partie des produits et services énumérés dans l’enregistrement international concerné, ces produits et services;
   - v) le montant des émoluments et taxes payés et le mode de paiement, ou des instructions à l’effet de prélever le montant requis des émoluments et taxes sur un compte ouvert auprès du Bureau international, et l’identité de l’auteur du paiement ou des instructions, et
@@ -1034,7 +1032,7 @@ Si les conditions de l’al. 2)a) ne sont pas remplies, la désignation postéri
   - ii) une requête tendant à ce que la désignation postérieure prenne effet après l’inscription d’une modification ou d’une radiation concernant l’enregistrement international en cause ou après le renouvellement de l’enregistrement international;
   - iii) lorsque la désignation postérieure concerne une organisation contractante, les indications visées à la règle 9.5)g)i), qui sont fournies sur un formulaire officiel annexé à la désignation postérieure, et les indications visées à la règle 9.5)g)ii).
 
-- d) ...
+- d) …
 
 - a) Si la désignation postérieure ne remplit pas les conditions requises, et sous réserve de l’al. 10), le Bureau international notifie ce fait au titulaire et, si la désignation postérieure a été présentée par un Office, à cet Office.
 - b) Si l’irrégularité n’est pas corrigée dans un délai de trois mois à compter de la date de sa notification par le Bureau international, la désignation postérieure est réputée abandonnée, et le Bureau international notifie ce fait en même temps au titulaire et, si la désignation postérieure a été présentée par un Office, à cet Office, et il rembourse à l’auteur du paiement les émoluments et taxes payés, après déduction d’un montant correspondant à la moitié de l’émolument de base visé au point 5.1 du barème des émoluments et taxes.
@@ -1060,6 +1058,8 @@ Si les conditions de l’al. 2)a) ne sont pas remplies, la désignation postéri
   - i) l’organisation contractante dont la désignation doit être convertie, et
   - ii) le fait que la désignation postérieure d’un État membre issue de la conversion concerne tous les produits et services couverts par la désignation de l’organisation contractante ou, si la désignation postérieure de cet État membre concerne une partie seulement de ces produits et services, ces produits et services.
 
+[^24-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+
 #### Règle 25
 
 **Demande d’inscription**
@@ -1068,7 +1068,7 @@ Si les conditions de l’al. 2)a) ne sont pas remplies, la désignation postéri
 
 \2) [Contenu de la demande]
 
-\3) ...
+\3) …
 
 \4) [Pluralité de nouveaux titulaires]
 
@@ -1086,7 +1086,7 @@ Lorsque la demande d’inscription d’un changement de titulaire de l’enregis
   - vi) un changement de nom ou d’adresse du mandataire.
 
 - b) La demande doit être présentée par le titulaire ou par l’Office de la partie contractante du titulaire; toutefois, la demande d’inscription d’un changement de titulaire peut être présentée par l’intermédiaire de l’Office de la partie contractante ou de l’une des parties contractantes indiquées dans cette demande conformément à l’al. 2)a)iv).
-- c) ...
+- c) …
 - d) Lorsque la demande est présentée par le titulaire, elle doit être signée par le titulaire. Lorsqu’elle est présentée par un Office, elle doit être signée par cet Office et, lorsque l’Office l’exige, aussi par le titulaire. Lorsqu’elle est présentée par un Office et que cet Office, sans exiger que la demande soit signée par le titulaire, autorise qu’elle soit aussi signée par le titulaire, le titulaire peut signer la demande.
 
 - a)
@@ -1137,7 +1137,7 @@ Si les conditions de la règle 25.1)b) ne sont pas remplies, la demande n’est 
 
 \2) [Inscription d’un changement partiel de titulaire]
 
-\3) ...
+\3) …
 
 \4) [Déclaration selon laquelle un changement de titulaire est sans effet]
 
@@ -1290,7 +1290,7 @@ Les émoluments et taxes requis pour chaque renouvellement sont payés pour une 
 - a) Lorsque le titulaire ne souhaite pas renouveler l’enregistrement international à l’égard d’une partie contractante désignée pour laquelle aucune déclaration de refus en vertu de la règle 18<sup>ter</sup> pour l’ensemble des produits et services concernés n’est inscrite au registre international, le paiement des taxes requises doit être accompagné d’une déclaration du titulaire selon laquelle le renouvellement de l’enregistrement international ne doit pas être inscrit au registre international à l’égard de cette partie contractante.
 - b) Lorsque le titulaire souhaite renouveler l’enregistrement international à l’égard d’une partie contractante désignée nonobstant le fait qu’une déclaration de refus en vertu de la règle 18<sup>ter</sup> est inscrite au registre international pour cette partie contractante pour l’ensemble des produits et services concernés, le paiement des taxes requises, y compris le complément d’émolument ou la taxe individuelle, selon le cas, pour cette partie contractante, doit être accompagné d’une déclaration du titulaire selon laquelle le renouvellement de l’enregistrement international doit être inscrit au registre international à l’égard de cette partie contractante pour tous les produits et services concernés.
 - c) L’enregistrement international ne peut pas être renouvelé à l’égard d’une partie contractante désignée à l’égard de laquelle une invalidation a été inscrite pour tous les produits et services en vertu de la règle 19.2) ou à l’égard de laquelle une renonciation a été inscrite en vertu de la règle 27.1)a). L’enregistrement international ne peut pas être renouvelé à l’égard d’une partie contractante désignée pour les produits et services pour lesquels une invalidation des effets de l’enregistrement international dans cette partie contractante a été inscrite en vertu de la règle 19.2) ou pour lesquels une limitation a été inscrite en vertu de la règle 27.1)a).
-- d) ...
+- d) …
 - e) Le fait que l’enregistrement international ne soit pas renouvelé à l’égard de toutes les parties contractantes désignées n’est pas considéré comme constituant une modification au sens de l’art. 7.2) du Protocole.
 
 - a) Si le montant des émoluments et taxes reçu est inférieur au montant des émoluments et taxes requis pour le renouvellement, le Bureau international notifie ce fait à bref délai et en même temps au titulaire et au mandataire éventuel. La notification précise le montant restant dû.
@@ -1332,7 +1332,7 @@ Le Bureau international notifie le renouvellement aux Offices des parties contra
 
 Le Bureau international effectue les publications visées aux al. 1) et 2) sur le site Internet de l’Organisation Mondiale de la Propriété Intellectuelle.
 
-\4) ...
+\4) …
 
 - a)
 
@@ -1508,7 +1508,9 @@ Toute taxe individuelle payée au Bureau international à l’égard d’une par
 \1) Lorsqu’un État («État successeur») dont le territoire faisait partie, avant l’indépendance de cet État, du territoire d’une partie contractante («partie contractante prédécesseur») a déposé auprès du Directeur général une déclaration de continuation qui a pour effet l’application du Protocole par l’État successeur, tout enregistrement international qui était en vigueur dans la partie contractante prédécesseur à la date fixée selon l’al. 2) produit ses effets dans l’État successeur si les conditions ci-après sont remplies:
 
 - i) dépôt auprès du Bureau international, dans les six mois qui suivent un avis adressé à cet effet par le Bureau international au titulaire de l’enregistrement international en cause, d’une demande visant à ce que cet enregistrement international continue de produire ses effets dans l’État successeur, et
-- ii) paiement au Bureau international, dans le même délai, d’une taxe de 41 francs suisses, qui sera transférée par le Bureau international à l’Office national de l’État successeur, et d’une taxe de 23 francs suisses au profit du Bureau international.
+- ii)[^39-1] paiement au Bureau international, dans le même délai, de la taxe indiquée au point 10.1 du barème des émoluments et taxes revenant au Bureau international, et de la taxe indiquée au point 10.2 dudit barème qui sera transférée par le Bureau international à l’État successeur.
+
+[^39-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 #### Règle 40
 
@@ -1520,15 +1522,19 @@ Le présent règlement d’exécution entre en vigueur le 1<sup>er</sup> févrie
 
 \2) [Dispositions transitoires générales]
 
-\3) ...
+\3) …
 
 \4) [Dispositions transitoires relatives aux langues]
 
-\5) ...
+\5) …
 
 \6) [Incompatibilité avec la législation nationale ou régionale]
 
 Si, à la date à laquelle la présente règle entre en vigueur ou à la date à laquelle une partie contractante devient liée par le Protocole, l’al. 1) de la règle 27<sup>bis</sup> ou l’al. 2)a) de la règle 27<sup>ter</sup> ne sont pas compatibles avec la législation nationale ou régionale de cette partie contractante, le ou les alinéas concernés, selon le cas, ne s’appliquent pas à l’égard de cette partie contractante, aussi longtemps qu’ils continuent à ne pas être compatibles avec cette législation, pour autant que ladite partie contractante notifie ce fait au Bureau international avant la date à laquelle la présente règle entre en vigueur ou la date à laquelle ladite partie contractante devient liée par le Protocole. Cette notification peut être retirée en tout temps.
+
+\7) [Disposition transitoire relative au remplacement partiel]
+
+Aucun Office n’est tenu d’appliquer la seconde phrase de la règle 21.3)d) avant le 1<sup>er</sup> février 2025.[^40-1]
 
 - a)
 
@@ -1542,7 +1548,7 @@ Si, à la date à laquelle la présente règle entre en vigueur ou à la date à
 
 - b) Aux fins de la règle 34.7), les émoluments et taxes en vigueur à toute date antérieure au 1<sup>er</sup> février 2020 sont les émoluments et taxes prescrits par la règle 34.1) du règlement d’exécution commun.
 - c) Une notification en vertu des règles 6.2)iii), 7.2), 17.5)d), 20<sup>bis</sup>*.*6), 27<sup>bis</sup>.6), 27<sup>ter</sup>.2)b), 34.3)a) ou 40.6) du règlement d’exécution commun envoyée par l’Office d’une partie contractante au Bureau international avant le 1<sup>er</sup> février 2020 continue de produire ses effets conformément aux règles 6.2)iii), 7.2), 17.5)d), 20<sup>bis</sup>*.*6), 27<sup>bis</sup>.6), 27<sup>ter</sup>.2)b), 34.3)a) ou 40.6).
-- d) ...
+- d) …
 
 - a)
 
@@ -1553,6 +1559,8 @@ Si, à la date à laquelle la présente règle entre en vigueur ou à la date à
   - iii) la désignation postérieure est inscrite au registre international.
 
 - b) Aux fins du présent alinéa, une demande internationale est réputée déposée à la date à laquelle la requête en présentation de la demande internationale au Bureau international a été reçue, ou est réputée avoir été reçue, conformément à la règle 11.1)a) ou c) du règlement d’exécution commun, par l’Office d’origine et un enregistrement international est réputé faire l’objet d’une désignation postérieure à la date à laquelle la désignation postérieure est présentée au Bureau international, si elle est présentée directement par le titulaire, ou à la date à laquelle la requête en présentation de la désignation postérieure a été remise à l’Office de la partie contractante du titulaire, si elle est présentée par l’intermédiaire de cet Office.
+
+[^40-1]: Introduit par la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
 
 #### Règle 41
 
@@ -1578,11 +1586,11 @@ En cas de divergence entre une disposition des instructions administratives, d�
 
 ## Barème des émoluments et taxes
 
-(État le 1<sup>er</sup> février 2020)
+(État le 1<sup>er</sup> novembre 2021)
 
 <table>
 <tr><th></th><th>Francs suisses</th></tr>
-<tr><td>1. ...</td><td></td></tr>
+<tr><td>1. …</td><td></td></tr>
 <tr><td>2. Demandes internationales</td><td></td></tr>
 <tr><td>Les émoluments et taxes suivants doivent être payés et couvrent 10 ans:</td><td></td></tr>
 <tr><td>2.1 Émolument de base (art. 8.2)i) du Protocole)[^lvlu11-1]\*</td><td></td></tr>
@@ -1591,7 +1599,7 @@ En cas de divergence entre une disposition des instructions administratives, d�
 <tr><td>2.2 Émolument supplémentaire pour chaque classe de produits et services en sus de la troisième, sauf lorsque seules sont désignées des parties contractantes pour lesquelles des taxes individuelles (voir le point 2.4 ci-dessous) doivent être payées (art. 8.2)ii) et 7)a)i) du Protocole)</td><td>100</td></tr>
 <tr><td>2.3 Complément d’émolument pour chaque partie contractante désignée, sauf lorsque la partie contractante désignée est une partie contractante pour laquelle une taxe individuelle (voir le point 2.4 ci-dessous) doit être payée (art. 8.2)iii) et 7)a)ii) du Protocole)</td><td>100</td></tr>
 <tr><td>2.4 Taxe individuelle pour chaque partie contractante désignée pour laquelle une taxe individuelle (et non un complément d’émolument) doit être payée, sauf lorsque la partie contractante désignée et la partie contractante de l’Office d’origine sont toutes deux des État liés également par l’Arrangement, auquel cas un complément d’émolument doit être payé pour ladite partie contractante désignée (art. 8.7)a) et 9<sup>sexies</sup>.1)b) du Protocole): le montant de la taxe individuelle est fixé par chaque partie contractante concernée</td><td></td></tr>
-<tr><td>3. ...</td><td></td></tr>
+<tr><td>3. …</td><td></td></tr>
 <tr><td>4. Irrégularités concernant le classement des produits et de services</td><td></td></tr>
 <tr><td>Les taxes suivantes doivent être payées (règle 12.1)b)):</td><td></td></tr>
 <tr><td>4.1 Lorsque les produits et services ne sont pas groupés par classes</td><td>77 plus 4 par terme au-delà de 20</td></tr>
@@ -1627,11 +1635,14 @@ En cas de divergence entre une disposition des instructions administratives, d�
 <tr><td>8.4 Tiré à part ou photocopie de la publication d’un enregistrement international, par page</td><td>5</td></tr>
 <tr><td>9. Services particuliers</td><td></td></tr>
 <tr><td>Le Bureau international est autorisé à percevoir une taxe, dont il fixera lui-même le montant, pour les opérations qui doivent être effectuées d’urgence et pour les services qui ne sont pas couverts par le présent barème des émoluments et taxes.</td><td></td></tr>
+<tr><td colspan="2">10. Continuation des effets</td></tr>
+<tr><td>10.1 Taxe revenant au Bureau international</td><td>23</td></tr>
+<tr><td>10.2 Taxe devant être transférée par le Bureau international à l’État successeur</td><td>41</td></tr>
 </table>
 
 [^lvlu11-1]: \* Pour les demandes internationales déposées par des déposants dont le pays d’origine est un pays figurant parmi les pays les moins avancés, conformément à la liste établie par l’Organisation des Nations Unies, l’émolument de base est réduit à 10% du montant prescrit (arrondi au nombre entier le plus proche). Ainsi, l’émolument de base s’élèvera à 65 francs suisses (lorsque aucune reproduction de la marque n’est en couleur) et à 90 francs suisses (lorsqu’une reproduction de la marque est en couleur).
 
-## Instructions administratives pour l’application du Protocole relatif à l’Arrangement de Madrid concernant l’enregistrement international des marques****
+## Instructions administratives pour l’application du Protocole relatif à l’Arrangement de Madrid concernant l’enregistrement international des marques
 
 [^lvlu12-1]
 
@@ -1648,13 +1659,13 @@ En cas de divergence entre une disposition des instructions administratives, d�
 <tr><td>Instruction 2</td><td>Demande internationale</td></tr>
 <tr><td>Instruction 3</td><td>Désignation postérieure à l’enregistrement international</td></tr>
 <tr><td>Instruction 4</td><td>Publication et mise à disposition des formulaires</td></tr>
-<tr><td>Instruction 5</td><td>...</td></tr>
+<tr><td>Instruction 5</td><td>…</td></tr>
 <tr><td>Troisième partie:</td><td>Communications avec le Bureau international; Signature</td></tr>
 <tr><td>Instruction 6</td><td>Exigence de la forme écrite; envoi de plusieurs documents sous un même pli</td></tr>
 <tr><td>Instruction 7</td><td>Signature</td></tr>
-<tr><td>Instruction 8</td><td>...</td></tr>
-<tr><td>Instruction 9</td><td>...</td></tr>
-<tr><td>Instruction 10</td><td>...</td></tr>
+<tr><td>Instruction 8</td><td>…</td></tr>
+<tr><td>Instruction 9</td><td>…</td></tr>
+<tr><td>Instruction 10</td><td>…</td></tr>
 <tr><td>Instruction 11</td><td>Communications électroniques; accusé et date de réception par le Bureau international d’une transmission électronique</td></tr>
 <tr><td>Quatrième partie:</td><td>Conditions relatives aux noms et adresses</td></tr>
 <tr><td>Instruction 12</td><td>Noms et adresses</td></tr>
@@ -1697,7 +1708,7 @@ En cas de divergence entre une disposition des instructions administratives, d�
 
 Le Bureau international publie et met à disposition tous les formulaires prescrits et facultatifs, tels que visés aux instructions 2 et 3, sur le site Web de l’Organisation Mondiale de la Propriété Intellectuelle.
 
-### **Instruction 5**...
+### **Instruction 5**…
 
 ### Troisième partie Communications avec le Bureau international; signature
 
@@ -1711,11 +1722,11 @@ Le Bureau international publie et met à disposition tous les formulaires prescr
 - a) Une signature doit être manuscrite, imprimée, dactylographiée ou apposée au moyen d’un timbre. En ce qui concerne les communications électroniques visées à l’instruction 11.a)i), une signature peut être remplacée par un mode d’identification convenu entre le Bureau international et l’Office concerné. S’agissant des communications électroniques visées à l’instruction 11.a)ii), une signature peut être remplacée par un mode d’identification à déterminer par le Bureau international.
 - b) Lorsqu’il y a plusieurs déposants, plusieurs titulaires, plusieurs nouveaux titulaires ou plusieurs preneurs de licence, la signature de l’un d’entre eux suffit, à condition que la personne qui signe déclare être habilitée à le faire en vertu du droit applicable.
 
-### **Instruction 8**...
+### **Instruction 8**…
 
-### **Instruction 9**...
+### **Instruction 9**…
 
-### **Instruction 10**...
+### **Instruction 10**…
 
 ### **Instruction 11**Communications électroniques; accusé et date de réception par le Bureau international d’une transmission électronique
 
@@ -1754,7 +1765,7 @@ Dans le cas d’une notification de refus provisoire expédiée par l’intermé
 ### **Instruction 16**Numérotation résultant d’un changement partiel de titulaire
 
 - a) L’enregistrement international distinct issu de l’inscription d’un changement partiel de titulaire porte le numéro, suivi d’une lettre majuscule, de l’enregistrement dont une partie a fait l’objet d’un changement de titulaire ou d’une division.
-- b) ...
+- b) …
 
 ### **Instruction 17**Numérotation résultant de la fusion d’enregistrements internationaux
 
@@ -1770,6 +1781,6 @@ L’enregistrement international distinct qui est inscrit au registre internatio
 
 Les émoluments et taxes sont payés au Bureau international:
 
-- i) par prélèvement sur un compte courant ouvert auprès du Bureau international; ou
+- i) par prélèvement sur un compte courant ouvert auprès du Bureau international, ou
 - ii) par versement sur le compte postal suisse du Bureau international ou sur tout compte bancaire du Bureau international indiqué à cette fin; ou
 - iii) par carte de crédit, lorsque, dans le cas d’une communication électronique visée à l’instruction 11, une interface électronique pour un paiement en ligne a été mise à disposition par le Bureau international.

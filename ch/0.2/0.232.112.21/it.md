@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Regolamento di esecuzione del 2 ottobre 2018 concernente il Protocollo relativo all'Accordo di Madrid per la registrazione internazionale dei marchi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: it
-version: 2021-02-01
+version: 2021-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20210201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20211101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018
 
 Entrata in vigore il 1° febbraio 2020
 
-(Stato 1° febbraio 2021)
+(Stato 1° novembre 2021)
 
 ## Indice
 
@@ -33,7 +33,7 @@ Entrata in vigore il 1° febbraio 2020
 <tr><td>Regola 2:</td><td>Comunicazioni con l’Ufficio internazionale; firma</td></tr>
 <tr><td>Regola 3:</td><td>Rappresentanza dinnanzi all’Ufficio internazionale</td></tr>
 <tr><td>Regola 4:</td><td>Calcolo dei termini di scadenza</td></tr>
-<tr><td>Regola 5:</td><td>Perturbazioni nel servizio postale e nelle agenzie di recapito e nelle comunicazioni inviate per via elettronica</td></tr>
+<tr><td>Regola 5:</td><td>Giustificazione di ritardo nell’osservanza dei termini</td></tr>
 <tr><td>Regola 5<sup>bis</sup>:</td><td>Proseguimento della procedura</td></tr>
 <tr><td>Regola 6:</td><td>Lingue</td></tr>
 <tr><td>Regola 7:</td><td>Notifica di talune esigenze speciali</td></tr>
@@ -154,7 +154,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
 
 \2) [Costituzione del mandatario]
 
-- a)[^chap1-lvlu4-1] La costituzione di un mandatario può essere fatta nella domanda internazionale o in una designazione successiva o in una domanda di cui alla regola 25, che deve contenere il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del mandatario.
+- a)[^chap1-lvlu4-1] La costituzione di un mandatario può essere fatta nella domanda internazionale o dal nuovo titolare della registrazione internazionale in una domanda di cui alla regola 25.1)a)i), che deve contenere il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del mandatario.
 - b)
 
   La costituzione di un mandatario può anche essere fatta in una comunicazione separata che può riferirsi ad una o a più domande internazionali specifiche o ad una o più registrazioni internazionali specifiche del medesimo depositante o titolare. Tale comunicazione deve essere presentata all’Ufficio internazionale:
@@ -172,7 +172,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
 
 \4) [Iscrizione e notifica della costituzione di un mandatario; data di entrata in vigore della costituzione]
 
-- a)[^chap1-lvlu4-2] Quando l’Ufficio internazionale constata che la costituzione di un mandatario soddisfa i requisiti stabiliti, esso iscrive nel registro internazionale il fatto che il depositante o titolare ha un mandatario, nonché il nome, l’indirizzo e l’indirizzo di posta elettronica del mandatario. In questo caso, la data di entrata in vigore della costituzione è la data in cui l’Ufficio internazionale ha ricevuto la domanda internazionale, la designazione successiva, la domanda o la comunicazione separata con la quale il mandatario è costituito.
+- a)[^chap1-lvlu4-2] Quando l’Ufficio internazionale constata che la costituzione di un mandatario soddisfa i requisiti stabiliti, esso iscrive nel registro internazionale il fatto che il depositante o titolare ha un mandatario, nonché il nome, l’indirizzo e l’indirizzo di posta elettronica del mandatario. In questo caso, la data di entrata in vigore della costituzione è la data in cui l’Ufficio internazionale ha ricevuto la domanda internazionale, la domanda o la comunicazione separata con la quale il mandatario è costituito.
 - b) L’Ufficio internazionale notifica l’iscrizione di cui al punto a) sia al depositante che al titolare e, in quest’ultimo caso, anche agli Uffici delle parti contraenti designate, nonché al mandatario. Quando la costituzione è stata fatta tramite una comunicazione separata presentata attraverso un Ufficio, l’Ufficio internazionale notifica anche l’iscrizione a tale Ufficio.
 
 \5) [Effetti della costituzione di un mandatario]
@@ -193,12 +193,13 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
   - ii) la data di scadenza di un periodo di due mesi a decorrere dalla ricezione della comunicazione con la quale il mandatario chiede la radiazione dell’iscrizione.
 
 - Fino alla data in cui la radiazione entra in vigore, l’Ufficio internazionale invia tutte le comunicazioni di cui all<sup>’</sup>alinea 5)b) sia al depositante o titolare che al mandatario.
-- d) Quando riceve una domanda di radiazione fatta dal mandatario, l’Ufficio internazionale notifica tale fatto al depositante o titolare, ed allega alla notifica una copia di tutte le comunicazioni che sono state inviate al mandatario, o che sono state ricevute dal mandatario tramite l’Ufficio internazionale, durante i sei mesi che precedono la data di notifica.
+- d)[^chap1-lvlu4-3] Quando riceve una domanda di radiazione fatta dal mandatario, l’Ufficio internazionale notifica tale fatto al depositante o al titolare.
 - e) Non appena è nota la data di entrata in vigore della radiazione, l’Ufficio internazionale notifica la radiazione e la data in cui essa entra in vigore al mandatario la cui iscrizione è stata radiata, al depositante o titolare e, se la costituzione del mandatario è stata presentata attraverso un Ufficio, a tale Ufficio.
 - f) Le radiazioni richieste dal titolare o dal suo mandatario sono notificate anche agli Uffici delle parti contraenti designate.
 
-[^chap1-lvlu4-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-[^chap1-lvlu4-2]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^chap1-lvlu4-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^chap1-lvlu4-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^chap1-lvlu4-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 ### **Regola 4**Calcolo dei termini di scadenza
 
@@ -222,42 +223,37 @@ Se un termine di scadenza spira un giorno in cui l’Ufficio internazionale o l�
 
 In tutti i casi in cui l’Ufficio internazionale comunica un termine di scadenza, esso indica la data in cui tale termine scade in conformità degli alinea 1) a 3).
 
-### **Regola 5**Perturbazioni nel servizio postale e nelle agenzie di recapito e nelle comunicazioni inviate per via elettronica
+### **Regola 5**Giustificazione di ritardo nell’osservanza dei termini
 
-\1) [Comunicazioni inviate tramite un servizio postale]
+[^chap1-lvlu6-1]
 
-L’inosservanza, effettuata da una parte interessata, di un termine di scadenza per una comunicazione inviata all’Ufficio internazionale e spedita per mezzo di un servizio postale è giustificata se la parte interessata fornisce la prova, tale da soddisfare l’Ufficio internazionale, che:
+[^chap1-lvlu6-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
-- i) la comunicazione è stata inviata almeno cinque giorni prima della scadenza o, quando il servizio postale è stato interrotto durante uno qualsiasi dei dieci giorni che hanno preceduto la data di scadenza per cause di guerra, rivoluzione, disordini civili, scioperi, calamità naturali od altre cause simili, che la comunicazione è stata inviata al più tardi cinque giorni dopo la ripresa del servizio postale;
-- ii) che l’invio della comunicazione è stato effettuato dal servizio postale in plico raccomandato o che i dati relativi all’invio sono stati registrati dal servizio postale al momento dell’invio; e che
-- iii) nei casi in cui la corrispondenza, di qualsiasi categoria, non pervenga normalmente all’Ufficio internazionale entro i due giorni che seguono l’invio, la comunicazione è stata inviata tramite una categoria di corrispondenza che perviene normalmente all’Ufficio internazionale entro i due giorni successivi all’invio, od è stata inviata per aereo.
+\1) [Giustificazione di ritardo nell’osservanza dei termini dovuto a motivi di forza maggiore]
 
-\2) [Comunicazioni inviate per mezzo di un<sup>’</sup>agenzia di recapito e consegna della corrispondenza]
+L’inosservanza, ad opera di una parte interessata, di un termine di scadenza previsto dal presente regolamento per il compimento di un atto dinanzi all’Ufficio internazionale è giustificata se la parte interessata produce la prova, tale da soddisfare l’Ufficio internazionale, che il termine di scadenza non è stato osservato a causa di guerra, rivoluzione, disordini civili, scioperi, calamità naturali, o di perturbazioni nel servizio postale, nel funzionamento di un’agenzia di recapito o nella comunicazione elettronica dovute a circostanze straordinarie indipendenti dalla sua volontà o ad altri motivi di forza maggiore.[^chap1-lvlu6-2]
 
-L’inosservanza, da una parte interessata, di una scadenza riguardante una comunicazione indirizzata all’Ufficio internazionale ed inviata tramite un’agenzia di recapito e consegna della corrispondenza è giustificata se la parte interessata produce la prova, tale da soddisfare l’Ufficio internazionale, che:
-
-- i) la comunicazione è stata inviata almeno cinque giorni prima della scadenza dei termini o, quando il funzionamento dell’agenzia di recapito e consegna della corrispondenza è stato interrotto durante uno qualsiasi dei dieci giorni che precedevano la data di scadenza dei termini a causa di guerra, rivoluzione, disordini civili, scioperi, calamità naturali o altre cause simili, la comunicazione è stata inviata al più tardi cinque giorni dopo la ripresa del funzionamento dell’agenzia di recapito e consegna della corrispondenza; e che
-- ii) i dati relativi all’invio della comunicazione sono stati registrati dall’agenzia di recapito e consegna della corrispondenza al momento dell’invio.
-
-\3) [Comunicazioni inviate per via elettronica]
-
-L’inosservanza, ad opera di una parte interessata, di un termine di scadenza riguardante una comunicazione indirizzata all’Ufficio internazionale e inviata per via elettronica è giustificata, se la parte interessata fornisce la prova, tale da soddisfare l’Ufficio internazionale, che il termine di scadenza non è stato osservato a causa di perturbazioni, dovute a circostanze straordinarie indipendenti dalla sua volontà, nella comunicazione elettronica con l’Ufficio internazionale o di perturbazioni con ripercussioni sulla comunicazione elettronica nella località nella quale essa è stabilita, e che la comunicazione è stata inviata al più tardi cinque giorni dopo la ripresa del servizio di comunicazione elettronica.
+\2) e 3) ...[^chap1-lvlu6-3]
 
 \4) [Limiti alla giustificazione]
 
-L’inosservanza di un termine di scadenza è giustificata, in virtù di questa regola, solo se la prova di cui all’alinea 1), 2) o 3) e la comunicazione o, se del caso, un duplicato di essa sono ricevuti dall’Ufficio internazionale al più tardi sei mesi dopo la scadenza dei termini.
+L’inosservanza di un termine di scadenza è giustificata, in virtù di questa regola, solo se la prova e l’atto di cui all’alinea 1) sono ricevuti dall’Ufficio internazionale e compiuti dinanzi ad esso, non appena ciò sia ragionevolmente possibile e al più tardi sei mesi dopo la scadenza dei termini.[^chap1-lvlu6-4]
 
 \5) [Domanda internazionale e designazione successiva]
 
 Quando l’Ufficio internazionale riceve una domanda internazionale o una designazione successiva dopo il termine di scadenza di due mesi di cui all’articolo 3.4) del Protocollo ed alla regola 24.6)b), e l’Ufficio interessato indica che la ricezione tardiva risulta da circostanze di cui all’alinea 1), 2) o 3), si applicano l’alinea 1), 2) o 3) e l’alinea 4).
 
+[^chap1-lvlu6-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^chap1-lvlu6-3]: Abrogati dalla mod. con effetto dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^chap1-lvlu6-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+
 ### **Regola 5**<sup>bis</sup>Proseguimento della procedura
 
 \1) [Richiesta]
 
-- a)
+- a)[^chap1-lvlu7-1]
 
-  Se un depositante o un titolare non ha osservato uno dei termini prescritti o stabiliti nelle regole 11.2), 11.3), 20<sup>bis</sup>.2), 24.5)b), 26.2), 34.3)c)iii) e 39.1), l’Ufficio internazionale prosegue comunque il trattamento della domanda internazionale, della designazione successiva, del pagamento o della richiesta interessata se:
+  Se un depositante o un titolare non ha osservato uno dei termini prescritti o stabiliti nelle regole 11.2), 11.3), 12.7), 20<sup>bis</sup>.2), 24.5)b), 26.2), 27<sup>bis</sup>.3)c), 34.3)c)iii) e 39.1), l’Ufficio internazionale prosegue comunque il trattamento della domanda internazionale, della designazione successiva, del pagamento o della richiesta interessata se:
 
   - i) una richiesta in questo senso, firmata dal depositante o dal titolare, è presentata all’Ufficio internazionale mediante il modulo ufficiale; e
   - ii) la richiesta è ricevuta, la tassa stabilita nell’elenco delle tasse e degli emolumenti è pagata e, insieme alla richiesta, tutte le condizioni cui si applica il termine fissato sono soddisfatte, entro un termine di due mesi a decorrere dalla data della scadenza di tale termine.
@@ -267,6 +263,8 @@ Quando l’Ufficio internazionale riceve una domanda internazionale o una design
 \2) [Iscrizione e notifica]
 
 L’Ufficio internazionale iscrive nel Registro internazionale ogni proseguimento della procedura e lo notifica al depositante o al titolare.
+
+[^chap1-lvlu7-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 ### **Regola 6**Lingue
 
@@ -797,7 +795,7 @@ Gli alinea 1) a 3) si applicano *mutatis mutandis* a una domanda di modifica o d
 
 [^chap4-lvlu9-1]
 
-[^chap4-lvlu9-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^chap4-lvlu9-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
 
 \1) [Domanda e notifica]
 
@@ -819,7 +817,7 @@ La notifica può anche includere informazioni su qualsiasi altro diritto acquisi
 - a) La protezione del marchio oggetto della registrazione internazionale non può essere rifiutata, neppure parzialmente, sulla base di una registrazione nazionale o regionale considerata sostituita da tale registrazione internazionale.
 - b) Una registrazione nazionale o regionale e la registrazione internazionale che l’ha sostituita possono coesistere. Il titolare non può essere obbligato a rinunciare a una registrazione nazionale o regionale considerata sostituita da una registrazione internazionale o a chiederne la radiazione e, se lo desidera, dovrebbe essere autorizzato a rinnovarla in conformità della legislazione nazionale o regionale applicabile.
 - c) Prima di annotare la registrazione internazionale nel proprio registro, l’Ufficio di una parte contraente designata esamina la domanda di cui all’alinea 1 al fine di determinare se le condizioni di cui all’articolo 4<sup>bis</sup>.1) del Protocollo sono soddisfatte.
-- d) I prodotti e servizi interessati dalla sostituzione elencati nella registrazione nazionale o regionale sono coperti da quelli elencati nella registrazione internazionale.
+- d) I prodotti e servizi interessati dalla sostituzione elencati nella registrazione nazionale o regionale devono essere coperti da quelli elencati nella registrazione internazionale. La sostituzione può interessare anche solo determinati prodotti e servizi elencati nella registrazione nazionale o regionale.
 - e) Una registrazione nazionale o regionale è considerata sostituita da una registrazione internazionale a partire dalla data nella quale tale registrazione entra in vigore in conformità dell’articolo 4.1).a) del Protocollo.
 
 ### **Regola 21**<sup>bis</sup>Altri fatti relativi a una rivendicazione di preesistenza
@@ -857,7 +855,7 @@ L’Ufficio internazionale iscrive nel registro internazionale le informazioni n
   - iv) quando i suddetti fatti e decisioni incidono sulla registrazione internazionale soltanto nei confronti di taluni dei prodotti e servizi, i prodotti e servizi su cui tali fatti e decisioni incidono o quelli su cui tali fatti e decisioni non incidono.
 
 - b) Quando una procedura oggetto del punto i), ii) oppure iii) dell’articolo 6.3) del Protocollo, ha avuto inizio prima della scadenza del periodo di cinque anni ma non si è conclusa, prima della scadenza di tale periodo, con la decisione finale oggetto della seconda frase dell’articolo 6.3) del Protocollo o con il ritiro o la rinuncia oggetto della terza frase dell’articolo 6.3) del Protocollo, l’Ufficio d’origine, quando ne è a conoscenza, notifica tale fatto all’Ufficio internazionale non appena possibile dopo la scadenza del suddetto periodo.
-- c) Non appena la procedura oggetto del punto b) si è conclusa con la decisione finale oggetto della seconda frase dell’articolo 6.3) del Protocollo o col ritiro o la rinuncia oggetto della terza frase dell’articolo 6.3) del Protocollo, l’Ufficio d’origine, quando ne è a conoscenza, notifica tale fatto all’Ufficio internazionale e fornisce le indicazioni oggetto del punto a)i) a iv). Quando l’azione giudiziaria o la procedura oggetto del punto b) si conclude senza giudizio definitivo, ritiro o rinuncia di cui sopra, l’Ufficio d’origine, quando ne è a conoscenza, o a richiesta del titolare, lo notifica all’Ufficio internazionale.
+- c)[^chap4-lvlu11-1] Non appena la procedura oggetto del punto b) si è conclusa con la decisione finale oggetto della seconda frase dell’articolo 6.3) del Protocollo o col ritiro o la rinuncia oggetto della terza frase dell’articolo 6.3) del Protocollo, l’Ufficio d’origine, quando ne è a conoscenza, notifica tale fatto all’Ufficio internazionale e fornisce le indicazioni oggetto del punto a)i) a iv). Quando la procedura oggetto del punto b) si conclude senza giudizio definitivo, ritiro o rinuncia di cui sopra, l’Ufficio d’origine, quando ne è a conoscenza, o a richiesta del titolare, lo notifica all’Ufficio internazionale.
 
 \2) [Iscrizione e trasmissione della notifica; radiazione della registrazione internazionale]
 
@@ -870,6 +868,8 @@ L’Ufficio internazionale iscrive nel registro internazionale le informazioni n
   - i) la data in cui la registrazione internazionale è stata radiata dal registro internazionale;
   - ii) quando la radiazione riguarda l<sup>’</sup>insieme dei prodotti e dei servizi, tale fatto;
   - iii) quando la radiazione concerne soltanto taluni dei prodotti e dei servizi, quelli che sono stati indicati in virtù dell’alinea 1)a)iv).
+
+[^chap4-lvlu11-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 ### **Regola 23**Divisione o fusione delle domande di base, delle registrazioni che ne risultano o delle registrazioni di base
 
@@ -932,7 +932,7 @@ L’Ufficio internazionale trasmette al titolare la comunicazione di cui all’a
   Fatto salvo l’alinea 7)b), la designazione successiva deve contenere o indicare:
 
   - i) il numero di registrazione internazionale considerata;
-  - ii) il nome e l’indirizzo del titolare;
+  - ii)[^chap5-lvlu1-1] il nome del titolare;
   - iii) la parte contraente che è designata;
   - iv) se la designazione successiva si riferisce a tutti i prodotti e servizi elencati nella registrazione internazionale considerata, tale fatto, oppure, se la designazione successiva si riferisce soltanto a una parte dei prodotti e servizi elencati nella registrazione internazionale considerata, tali prodotti e servizi;
   - v) l’ammontare degli emolumenti e tasse pagati e le modalità di pagamento, o le direttive per prelevare l’ammontare richiesto degli emolumenti e tasse da un conto aperto presso l’Ufficio internazionale, e l’identità dell’autore del pagamento o delle direttive; e
@@ -1000,6 +1000,8 @@ Le regole da 16 a 18<sup>ter</sup> si applicano *mutatis mutandis*.
 \10) [Designazione successiva non considerata tale]
 
 Se le condizioni dell’alinea 2)a) non sono soddisfatte, la designazione successiva non è considerata tale e l’Ufficio internazionale ne informa il mittente.
+
+[^chap5-lvlu1-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 ### **Regola 25**Domanda di iscrizione di una modifica
 
@@ -1404,10 +1406,10 @@ Qualsiasi tassa individuale pagata all’Ufficio internazionale nei confronti di
 
 ### **Regola****39**Continuazione degli effetti delle registrazioni internazionali in taluni Stati successori
 
-\1) Quando uno Stato il cui territorio faceva parte, prima dell’indipendenza di tale Stato, del territorio di una parte contraente («parte contraente predecessora») ha deposto dinnanzi al Direttore generale dell’Organizzazione Mondiale della Proprietà Intellettuale una dichiarazione di continuazione che ha come effetto l’applicazione del Protocollo da parte dello Stato successore, qualsiasi registrazione internazionale che era in vigore nella parte contraente predecessora alla data stabilita in conformità dell’alinea 2) produce i suoi effetti nello Stato successore se sono osservate le condizioni seguenti:
+\1) Quando uno Stato («Stato successore») il cui territorio faceva parte, prima dell’indipendenza di tale Stato, del territorio di una parte contraente («parte contraente predecessora») ha deposto dinnanzi al Direttore generale una dichiarazione di continuazione che ha come effetto l’applicazione del Protocollo da parte dello Stato successore, qualsiasi registrazione internazionale che era in vigore nella parte contraente predecessora alla data stabilita in conformità dell’alinea 2) produce i suoi effetti nello Stato successore se sono osservate le condizioni seguenti:[^chap9-lvlu1-1]
 
 - i) deposito presso l’Ufficio internazionale, entro i sei mesi che seguono un parere indirizzato in tal senso dall’Ufficio internazionale al titolare della registrazione considerata, di una domanda affinché tale registrazione internazionale continui ad avere effetto nello Stato successore; e
-- ii) pagamento all’Ufficio internazionale, entro i medesimi termini di scadenza, di una tassa di 41 franchi svizzeri, che sarà trasferita dall’Ufficio internazionale all’Ufficio nazionale dello Stato successore, e di una tassa di 23 franchi svizzeri a profitto dell’Ufficio internazionale.
+- ii)[^chap9-lvlu1-2] pagamento all’Ufficio internazionale, entro i medesimi termini di scadenza, della tassa indicata al punto 10.1 dell’elenco delle tasse e degli emolumenti dovuta all’Ufficio internazionale e della tassa indicata al punto 10.2 di tale elenco, che sarà trasferita dall’Ufficio internazionale allo Stato successore.
 
 \2) La data di cui all’alinea 1) è la data notificata dallo Stato successore all’Ufficio internazionale ai sensi di questa regola, a condizione che tale data non sia antecedente alla data dell’indipendenza dello Stato successore.
 
@@ -1416,6 +1418,9 @@ Qualsiasi tassa individuale pagata all’Ufficio internazionale nei confronti di
 \4) Per quanto concerne qualsiasi registrazione internazionale per la quale l’Ufficio dello Stato successore ha ricevuto una notifica in virtù dell’alinea 3), questo Ufficio può rifiutare la protezione soltanto se il termine applicabile secondo l’articolo 5.2)a), b) o c) del Protocollo non è scaduto nei confronti dell’estensione territoriale alla parte contraente predecessora e se la notifica del rifiuto è ricevuta dall’Ufficio internazionale entro tale termine.
 
 \5) Questa regola non si applica alla Federazione russa, né a uno Stato che abbia depositato presso il Direttore generale una dichiarazione in cui affermi di essere il prosecutore della personalità giuridica di una parte contraente.
+
+[^chap9-lvlu1-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^chap9-lvlu1-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 ### **Regola 40**Entrata in vigore; disposizioni transitorie
 
@@ -1459,6 +1464,12 @@ Questo regolamento di esecuzione entra in vigore il 1° febbraio 2020 e sostitui
 
 Se, alla data in cui la presente regola entra in vigore o alla data in cui una parte contraente diventa vincolata dal Protocollo, le regole 27<sup>bis</sup> 1) o 27<sup>ter</sup> 2) a) non sono compatibili con la legislazione nazionale o regionale della suddetta parte contraente, tale o tali alinea, secondo il caso, non si applicano nei confronti della suddetta parte contraente fintantoché continuano a essere incompatibili con tale legislazione, a condizione che la suddetta parte contraente notifichi questo fatto all’Ufficio internazionale prima della data in cui la presente regola entra in vigore o della data in cui la suddetta parte contraente diventa vincolata dal Protocollo. Tale notifica può essere ritirata in ogni momento.
 
+\7) [Disposizione transitoria relativa alla sostituzione parziale]
+
+Nessun Ufficio è tenuto ad applicare il secondo periodo della regola 21.3)d) prima del 1° febbraio 2025.[^chap9-lvlu2-1]
+
+[^chap9-lvlu2-1]: Introdotto dalla mod. in vigore dal 1° nov. 2021 ([RU 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
+
 ### **Regola 41**Istruzioni amministrative
 
 \1) [Istruzioni amministrative e materie trattate]
@@ -1481,12 +1492,12 @@ In caso di divergenza fra una disposizione delle istruzioni amministrative, da u
 
 ## Elenco delle tasse e degli emolumenti
 
-(testo in vigore il 1° febbraio 2020)
+(testo in vigore il 1° novembre 2021)
 
 <table>
 <tr><th></th><th>Franchi svizzeri</th></tr>
-<tr><td>*1.* ...</td><td></td></tr>
-<tr><td>*2. Domanda internazionale*</td><td></td></tr>
+<tr><td>1. ...</td><td></td></tr>
+<tr><td>2. Domanda internazionale</td><td></td></tr>
 <tr><td>I seguenti emolumenti e tasse devono essere pagati e coprono 10 anni:</td><td></td></tr>
 <tr><td>2.1 Emolumento di base (articolo 8.2)i) del Protocollo[^lvlu11-1]\*</td><td></td></tr>
 <tr><td>2.1.1 quando nessuna riproduzione del marchio è a colori</td><td>653</td></tr>
@@ -1494,25 +1505,25 @@ In caso di divergenza fra una disposizione delle istruzioni amministrative, da u
 <tr><td>2.2 Emolumento suppletivo per ogni classe di prodotti e servizi oltre la terza, salvo quando sono designate soltanto parti contraenti per cui devono essere pagate (articoli 8.2)ii) e 7)a)i) del Protocollo) tasse individuali (vedasi il punto 2.4 qui di seguito)</td><td>100</td></tr>
 <tr><td>2.3 Emolumento complementare per ogni parte contraente designata, salvo quando la parte contraente designata è una parte contraente per la quale deve essere pagata una tassa individuale (articolo 8.2)iii) e 7)a)ii) del Protocollo) (vedasi il punto 2.4 qui di seguito)</td><td>100</td></tr>
 <tr><td>2.4 Tassa individuale per ogni parte contraente designata per la quale una tassa individuale (e non un emolumento complementare) deve essere pagata, salvo quando la parte contraente designata e la parte contraente dell’Ufficio di origine sono entrambe Stati vincolati anche dall’Accordo, nel qual caso un emolumento complementare dev’essere pagato per la suddetta parte contraente designata (articoli 8.7)a) e 9<sup>sexies</sup>.1)b) del Protocollo): l’ammontare della tassa individuale è stabilito da ciascuna parte contraente interessata</td><td></td></tr>
-<tr><td>*3.* ...</td><td></td></tr>
-<tr><td colspan="2">*4. Irregolarità riguardanti la classificazione dei prodotti e dei servizi*</td></tr>
+<tr><td>3. ...</td><td></td></tr>
+<tr><td colspan="2">4. Irregolarità riguardanti la classificazione dei prodotti e dei servizi</td></tr>
 <tr><td>Le seguenti tasse devono essere pagate (regola 12.1)b)):</td><td></td></tr>
 <tr><td>4.1 Quando i prodotti e servizi non sono raggruppati per classi</td><td>77 più 4 per ogni termine oltre i 20</td></tr>
 <tr><td>4.2 Quando la classificazione indicata nella domanda per uno o più termini è inesatta [tab]</td><td>20 più 4 per ogni termine la cui classificazione è inesatta</td></tr>
 <tr><td>essendo convenuto che, se l’ammontare totale dovuto in virtù di questo punto nei confronti di una domanda internazionale è inferiore a 150 franchi svizzeri, nessuna tassa dovrà essere pagata</td><td></td></tr>
-<tr><td colspan="2">*5. Designazione successiva alla registrazione internazionale*</td></tr>
+<tr><td colspan="2">5. Designazione successiva alla registrazione internazionale</td></tr>
 <tr><td>I seguenti emolumenti e tasse devono essere pagati e coprono il periodo tra la data in cui la designazione entra in vigore e la scadenza del periodo per il quale la registrazione internazionale è in vigore (articolo 3<sup>ter</sup>.2) del Protocollo):</td><td></td></tr>
 <tr><td>5.1 Emolumento di base</td><td>300</td></tr>
 <tr><td>5.2 Emolumento complementare per ciascuna parte contraente designata che è indicata nella medesima domanda e per la quale non deve essere pagata una tassa individuale (vedasi il punto 5.3 qui di seguito)</td><td>100</td></tr>
 <tr><td>5.3 Tassa individuale per ciascuna parte contraente designata per la quale una tassa individuale (e non un emolumento complementare) deve essere pagata, salvo quando la parte contraente designata e la parte contraente del titolare sono entrambe Stati vincolati anche dall’Accordo nel qual caso, deve essere pagato un emolumento complementare per la suddetta parte contraente designata (articoli 8.7)a) e 9*<sup>sexies</sup>*.1)b) del Protocollo): l’ammontare della tassa individuale è stabilito da ciascuna parte contraente interessata</td><td></td></tr>
-<tr><td colspan="2">*6. Rinnovo*</td></tr>
+<tr><td colspan="2">6. Rinnovo</td></tr>
 <tr><td>I seguenti emolumenti e tasse devono essere pagati e coprono 10 anni (articolo 7.1 del Protocollo):</td><td></td></tr>
 <tr><td>6.1 Emolumento di base</td><td>653</td></tr>
 <tr><td>6.2 Emolumento suppletivo, salvo se il rinnovo è effettuato soltanto per parti contraenti designate per le quali devono essere pagate tasse individuali (vedasi il punto 6.4 qui di seguito)</td><td>100</td></tr>
 <tr><td>6.3 Emolumento complementare per una parte contraente designata per la quale una tassa individuale non deve essere pagata (vedasi il punto 6.4 qui di seguito)</td><td>100</td></tr>
 <tr><td>6.4 Tassa individuale per ciascuna parte contraente designata per la quale deve essere pagata una tassa individuale (e non un emolumento complementare), salvo quando la parte contraente designata e la parte contraente del titolare sono entrambe Stati vincolati anche dall’Accordo nel qual caso, deve essere pagato un emolumento complementare per la suddetta parte contraente designata (articoli 8.7)a) e 9*<sup>sexies</sup>*.1)b) del Protocollo): l’ammontare della tassa individuale è stabilito da ciascuna parte con traente interessata</td><td></td></tr>
 <tr><td>6.5 Sovrattassa per l’uso del periodo di tolleranza (articolo 7.4) del Protocollo)</td><td>50 % dell’ammontare dell’emolumento dovuto in base al punto 6.1</td></tr>
-<tr><td colspan="2">*7. Iscrizioni diverse (articolo 9**<sup>ter</sup>* *del Protocollo)*</td></tr>
+<tr><td colspan="2">7. Iscrizioni diverse (articolo 9<sup>ter</sup> del Protocollo)</td></tr>
 <tr><td>7.1 Trasmissione totale di una registrazione internazionale</td><td>177</td></tr>
 <tr><td>7.2 Trasmissione parziale (per una parte dei prodotti e dei servizi o per una parte delle parti contraenti) di una registrazione internazionale</td><td>177</td></tr>
 <tr><td>7.3 Limitazione dell’elenco dei prodotti e servizi chiesta dal titolare successivamente alla registrazione internazionale, a condizione che, se la limitazione riguarda più parti contraenti, essa sia la medesima per tutte</td><td>177</td></tr>
@@ -1520,7 +1531,7 @@ In caso di divergenza fra una disposizione delle istruzioni amministrative, da u
 <tr><td>7.5 Iscrizione di una licenza relativa a una registrazione internazionale o modifica dell’iscrizione di una licenza</td><td>177</td></tr>
 <tr><td>7.6 Richiesta relativa al proseguimento della procedura in virtù della regola 5<sup>bis</sup>.1)</td><td>200</td></tr>
 <tr><td>7.7 Divisione di una registrazione internazionale</td><td>177</td></tr>
-<tr><td colspan="2">*8. Informazioni riguardanti le registrazioni internazionali (articolo 5**<sup>ter</sup>* *del Protocollo)*</td></tr>
+<tr><td colspan="2">8. Informazioni riguardanti le registrazioni internazionali (articolo 5<sup>ter</sup> del Protocollo)</td></tr>
 <tr><td>8.1 Compilazione di un estratto autenticato del Registro internazionale consistente in un’analisi della situazione di una registrazione internazionale (estratto autenticato specifico),</td><td></td></tr>
 <tr><td>fino a tre pagine</td><td>155</td></tr>
 <tr><td>per ogni pagina oltre la terza</td><td>10</td></tr>
@@ -1531,13 +1542,16 @@ In caso di divergenza fra una disposizione delle istruzioni amministrative, da u
 <tr><td>per una sola registrazione internazionale</td><td>77</td></tr>
 <tr><td>per ciascuna delle successive registrazioni internazionali, se la medesima informazione è richiesta nella medesima domanda</td><td>10</td></tr>
 <tr><td>8.4 Ristampa o fotocopia della pubblicazione di una registrazione internazionale, per pagina</td><td>5</td></tr>
-<tr><td colspan="2">*9. Servizi speciali*</td></tr>
+<tr><td colspan="2">9. Servizi speciali</td></tr>
 <tr><td>L’Ufficio internazionale è autorizzato a percepire una tassa, il cui ammontare sarà fissato dall’Ufficio medesimo, per le operazioni che devono essere effettuate d’urgenza e per i servizi che non sono coperti da questa tabella degli emolumenti e tasse.</td><td></td></tr>
+<tr><td colspan="2">10. Continuazione degli effetti</td></tr>
+<tr><td>10.1 Tassa dovuta all’Ufficio internazionale</td><td>23</td></tr>
+<tr><td>10.2 Tassa trasferita dall’Ufficio internazionale allo Stato successore</td><td>41</td></tr>
 </table>
 
 [^lvlu11-1]: \* Per le domande internazionali depositate da depositanti il cui Paese d’origine è un Paese che figura nell’elenco dei Paesi meno avanzati dell’Organizzazione delle Nazioni Unite, l’emolumento di base è pari al 10% dell’importo fissato (arrotondato al numero intero più vicino). L’emolumento di base sarà quindi di 65 franchi svizzeri (se nessuna riproduzione del marchio è a colori) e di 90 franchi svizzeri (se una riproduzione del marchio è a colori).
 
-## Istruzioni amministrative per l’applicazione del Protocollo relativo all’Accordo di Madrid concernente la registrazione internazionale dei marchi****
+## Istruzioni amministrative per l’applicazione del Protocollo relativo all’Accordo di Madrid concernente la registrazione internazionale dei marchi
 
 [^lvlu12-1]
 
@@ -1548,31 +1562,31 @@ In caso di divergenza fra una disposizione delle istruzioni amministrative, da u
 ### Elenco delle istruzioni
 
 <table>
-<tr><td>*Parte prima:*</td><td>Definizioni</td></tr>
+<tr><td>Parte prima:</td><td>Definizioni</td></tr>
 <tr><td>Istruzione 1</td><td>Espressioni abbreviate</td></tr>
-<tr><td>*Parte seconda:*</td><td>Moduli</td></tr>
+<tr><td>Parte seconda:</td><td>Moduli</td></tr>
 <tr><td>Istruzione 2</td><td>Moduli prescritti</td></tr>
 <tr><td>Istruzione 3</td><td>Moduli facoltativi</td></tr>
 <tr><td>Istruzione 4</td><td>Pubblicazione e messa a disposizione dei moduli</td></tr>
 <tr><td>Istruzione 5</td><td>...</td></tr>
-<tr><td>*Parte terza:*</td><td>Comunicazioni con l’Ufficio internazionale; firma</td></tr>
+<tr><td>Parte terza:</td><td>Comunicazioni con l’Ufficio internazionale; firma</td></tr>
 <tr><td>Istruzione 6</td><td>Esigenza della forma scritta; invio di più documenti in un unico plico</td></tr>
 <tr><td>Istruzione 7</td><td>Firma</td></tr>
 <tr><td>Istruzione 8</td><td>...</td></tr>
 <tr><td>Istruzione 9</td><td>...</td></tr>
 <tr><td>Istruzione 10</td><td>...</td></tr>
 <tr><td>Istruzione 11</td><td>Comunicazioni elettroniche; ricevuta e data di ricezione da parte dell’Ufficio internazionale di una trasmissione elettronica</td></tr>
-<tr><td>*Parte quarta:*</td><td>Requisiti relativi ai nomi e agli indirizzi</td></tr>
+<tr><td>Parte quarta:</td><td>Requisiti relativi ai nomi e agli indirizzi</td></tr>
 <tr><td>Istruzione 12</td><td>Nomi e indirizzi</td></tr>
 <tr><td>Istruzione 13</td><td>Indirizzo per la corrispondenza</td></tr>
-<tr><td>*Parte quinta:*</td><td>Notifica di rifiuti provvisori</td></tr>
+<tr><td>Parte quinta:</td><td>Notifica di rifiuti provvisori</td></tr>
 <tr><td>Istruzione 14</td><td>Data d’invio di una notifica di rifiuto provvisorio</td></tr>
 <tr><td>Istruzione 15</td><td>Contenuto di una notifica di rifiuto provvisorio fondato su un’opposizione</td></tr>
-<tr><td>*Parte sesta:*</td><td>Numerazione delle registrazioni internazionali</td></tr>
+<tr><td>Parte sesta:</td><td>Numerazione delle registrazioni internazionali</td></tr>
 <tr><td>Istruzione 16</td><td>Numerazione risultante da un cambiamento parziale di titolare</td></tr>
 <tr><td>Istruzione 17</td><td>Numerazione risultante dalla fusione di registrazioni internazionali</td></tr>
 <tr><td>Istruzione 18</td><td>Numerazione risultante da una dichiarazione per cui un cambiamento di titolare è privo di effetto</td></tr>
-<tr><td>*Parte settima:*</td><td>Pagamento degli emolumenti e tasse</td></tr>
+<tr><td>Parte settima:</td><td>Pagamento degli emolumenti e tasse</td></tr>
 <tr><td>Istruzione 19</td><td>Modalità di pagamento</td></tr>
 </table>
 
