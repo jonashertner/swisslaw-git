@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 2007 concernant les diplômes, la formation univer
 short: OPMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/538"
 language: fr
-version: 2020-05-28
+version: 2021-11-01
 adopted: 2007-06-27
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20200528/fr/xml/fedlex-data-admin-ch-eli-cc-2007-538-20200528-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20200528/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-538-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20200528/fr"
 
 (Ordonnance sur les professions médicales, OPMéd)**[^t-1]**
 
-du 27 juin 2007 (Etat le 28 mai 2020)
+du 27 juin 2007 (Etat le 1<sup>er</sup> novembre 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)).
 
@@ -107,7 +107,7 @@ La MEBEKO inscrit dans une banque de données les informations importantes relat
 - f. aux titres postgrades étrangers reconnus visés à l’art. 21, al. 1, LPMéd;
 - g. aux titres postgrades vérifiés visés à l’art. 35, al. 1, LPMéd;
 - h. aux titres postgrades jugés équivalents visés à l’art. 36, al. 3, LPMéd;
-- i.[^5-2] aux candidats à l’examen fédéral en médecine humaine 2020 selon l’art. 4*a* de l’ordonnance du 26 novembre 2008 concernant les examens LPMéd[^5-3], qui ont réussi l’examen écrit.
+- i.[^5-2] ...
 
 <sup>2</sup>
 
@@ -117,12 +117,12 @@ Le secrétariat de la section «formation universitaire» de la MEBEKO enregistr
 - b. date de naissance et sexe;
 - c. langue de correspondance;
 - d. lieux d’origine et nationalités;
-- e. numéro d’assuré visé à l’art. 50*e*, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^5-4];
-- f. numéro d’identification unique pour les personnes relevant des professions médicales (GLN[^5-5]);
+- e. numéro d’assuré visé à l’art. 50*e*, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^5-3];
+- f. numéro d’identification unique pour les personnes relevant des professions médicales (GLN[^5-4]);
 - g. adresse, numéro de téléphone et adresse électronique;
 - h. connaissances linguistiques.
 
-<sup>2bis</sup> Il enregistre, pour les personnes visées à l’al. 1, let. i, les données énumérées à l’al. 2, let. a à e, g et h, ainsi que la mention indiquant que ces personnes sont provisoirement inscrites dans la banque de données.[^5-6]
+<sup>2bis</sup> ...[^5-5]
 
 <sup>3</sup>
 
@@ -130,7 +130,7 @@ Il enregistre également, concernant les titulaires:
 
 - a. d’un diplôme fédéral visé à l’art. 5, al. 1, LPMéd: ledit diplôme avec sa date d’établissement et le lieu où il a été délivré;
 - b. d’un diplôme étranger reconnu visé à l’art. 15, al. 1, LPMéd: ledit diplôme avec sa date d’établissement, le lieu et le pays où il a été délivré ainsi que la date de sa reconnaissance par la MEBEKO;
-- c. d’un diplôme visé à l’art. 33*a*, al. 2, let. a, LPMéd: ledit diplôme avec sa date d’établissement, le lieu et le pays où il a été délivré ainsi que la date de son inscription dans le registre des professions médicales universitaires par la MEBEKO, conformément à l’ordonnance concernant le registre LPMéd du 5 avril 2017[^5-7] (registre des professions médicales universitaires);
+- c. d’un diplôme visé à l’art. 33*a*, al. 2, let. a, LPMéd: ledit diplôme avec sa date d’établissement, le lieu et le pays où il a été délivré ainsi que la date de son inscription dans le registre des professions médicales universitaires par la MEBEKO, conformément à l’ordonnance concernant le registre LPMéd du 5 avril 2017[^5-6] (registre des professions médicales universitaires);
 - d. d’un diplôme vérifié visé à l’art. 35, al. 1, LPMéd: ledit diplôme avec sa date d’établissement, le lieu et le pays où il a été délivré ainsi que la date de sa vérification par la MEBEKO;
 - e. d’un diplôme jugé équivalent visé à l’art. 36, al. 3, LPMéd: ledit diplôme avec sa date d’établissement, le lieu et le pays où il a été délivré ainsi que la date à laquelle la MEBEKO a délivré le certificat d’équivalence.
 
@@ -148,11 +148,10 @@ Le secrétariat de la section «formation postgrade» de la MEBEKO enregistre le
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 [^5-2]: Introduite par le ch. I 1 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^5-3]: [RS 811.113.3](https://fedlex.data.admin.ch/eli/cc/2008/832)
-[^5-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^5-5]: L’abréviation «GLN» signifie «*Global Location Number*»
-[^5-6]: Introduit par le ch. I 1 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^5-7]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
+[^5-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-4]: L’abréviation «GLN» signifie «*Global Location Number*»
+[^5-5]: Introduit par le ch. I 1 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^5-6]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
 
 #### Art. 6
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 2007 sui diplomi, la formazione, il perfezioname
 short: OPMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/538"
 language: it
-version: 2020-05-28
+version: 2021-11-01
 adopted: 2007-06-27
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20200528/it/xml/fedlex-data-admin-ch-eli-cc-2007-538-20200528-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20200528/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2007-538-20211101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20200528/it"
 
 (Ordinanza sulle professioni mediche, OPMed)**[^t-1]**
 
-del 27 giugno 2007 (Stato 28 maggio 2020)
+del 27 giugno 2007 (Stato 1° novembre 2021)
 
 [^t-1]: Introdotto dal n. I dell’O del 17 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)).
 
@@ -43,7 +43,7 @@ ordina:
 
 <sup>3</sup> Il diploma è rilasciato sotto forma di documento e di tessera plastificata.
 
-<sup>4</sup> Non è rilasciato alcun nuovo diploma in caso di perdita dello stesso o di modifiche dello stato civile. Può essere richiesto un duplicato o un facsimile al segretariato della Commissione delle professioni mediche (MEBEKO), sezione «Formazione». Il duplicato e il facsimile recano la firma del direttore dell’UFSP.[^1-1].
+<sup>4</sup> Non è rilasciato alcun nuovo diploma in caso di perdita dello stesso o di modifiche dello stato civile. Può essere richiesto un duplicato o un facsimile al segretariato della Commissione delle professioni mediche (MEBEKO), sezione «Formazione». Il duplicato e il facsimile recano la firma del direttore dell’UFSP.[^1-1]
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 
@@ -109,7 +109,7 @@ La MEBEKO iscrive in una banca dati i dati rilevanti che riguardano:
 - f. i titoli di perfezionamento esteri riconosciuti di cui all’articolo 21 capoverso 1 LPMed;
 - g. i titoli di perfezionamento verificati di cui all’articolo 35 capoverso 1 LPMed;
 - h. i titoli di perfezionamento equivalenti di cui all’articolo 36 capoverso 3 LPMed;
-- i.[^5-2] i candidati all’esame federale di medicina umana 2020 di cui all’articolo 4*a* dell’ordinanza del 26 novembre 2008[^5-3] sugli esami LPMed che hanno superato l’esame scritto.
+- i.[^5-2] ...
 
 <sup>2</sup>
 
@@ -119,12 +119,12 @@ Il segretariato della sezione «Formazione» della MEBEKO rileva i seguenti dati
 - b. la data di nascita e il sesso;
 - c. la lingua di corrispondenza;
 - d. i luoghi di attinenza e le cittadinanze;
-- e. il numero d’assicurato di cui all’articolo 50*e* capoverso 1 della legge federale del 20 dicembre 1946[^5-4] sull’assicurazione per la vecchiaia e per i superstiti;
-- f. un numero di identificazione univoco per le persone appartenenti alle professioni mediche (GLN[^5-5]);
+- e. il numero d’assicurato di cui all’articolo 50*e* capoverso 1 della legge federale del 20 dicembre 1946[^5-3] sull’assicurazione per la vecchiaia e per i superstiti;
+- f. un numero di identificazione univoco per le persone appartenenti alle professioni mediche (GLN[^5-4]);
 - g. l’indirizzo, il numero di telefono e l’indirizzo di posta elettronica;
 - h. le conoscenze linguistiche del titolare del diploma.
 
-<sup>2bis</sup> Rileva i dati secondo il capoverso 2 lettere a–e, g e h delle persone di cui al capoverso 1 lettera i, nonché l’indicazione che queste persone sono iscritte provvisoriamente nella banca dati.[^5-6]
+<sup>2bis</sup> ...[^5-5]
 
 <sup>3</sup>
 
@@ -132,7 +132,7 @@ Rileva inoltre i seguenti documenti per i titolari di:
 
 - a. un diploma federale secondo l’articolo 5 capoverso 1 LPMed: questo diploma con la data d’emissione e il luogo di rilascio;
 - b. un diploma estero riconosciuto secondo l’articolo 15 capoverso 1 LPMed: questo diploma con la data d’emissione, il luogo e il Paese di rilascio, nonché la data di riconoscimento da parte della MEBEKO;
-- c. un diploma secondo l’articolo 33*a* capoverso 2 lettera a LPMed: questo diploma con la data d’emissione, il luogo e il Paese di rilascio, nonché la data d’iscrizione nel registro delle professioni mediche universitarie secondo l’ordinanza del 5 aprile 2017[^5-7] sul registro LPMed (registro delle professioni mediche) da parte della MEBEKO;
+- c. un diploma secondo l’articolo 33*a* capoverso 2 lettera a LPMed: questo diploma con la data d’emissione, il luogo e il Paese di rilascio, nonché la data d’iscrizione nel registro delle professioni mediche universitarie secondo l’ordinanza del 5 aprile 2017[^5-6] sul registro LPMed (registro delle professioni mediche) da parte della MEBEKO;
 - d. un diploma verificato secondo l’articolo 35 capoverso 1 LPMed: questo diploma con la data d’emissione, il luogo e il Paese di rilascio, nonché la data di verifica da parte della MEBEKO;
 - e. un diploma equivalente secondo l’articolo 36 capoverso 3 LPMed: questo diploma con la data d’emissione, il luogo e il Paese di rilascio, nonché la data dell’attestato di equivalenza rilasciato dalla MEBEKO.
 
@@ -150,11 +150,10 @@ Il segretariato della sezione «Perfezionamento» della MEBEKO rileva i dati rig
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 [^5-2]: Introdotta dal n. I 1 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^5-3]: [RS 811.113.3](https://fedlex.data.admin.ch/eli/cc/2008/832)
-[^5-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^5-5]: GLN è l’acronimo di *Global Location Number*.
-[^5-6]: Introdotto dal n. I 1 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^5-7]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
+[^5-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-4]: GLN è l’acronimo di *Global Location Number*.
+[^5-5]: Introdotto dal n. I 1 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^5-6]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
 
 #### Art. 6
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Juni 2007 über Diplome, Ausbildung, Weiterbildung un
 short: MedBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/538"
 language: de
-version: 2020-05-28
+version: 2021-11-01
 adopted: 2007-06-27
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20200528/de/xml/fedlex-data-admin-ch-eli-cc-2007-538-20200528-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20200528/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/538/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2007-538-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/538/20200528/de"
 
 (Medizinalberufeverordnung, MedBV)**[^t-1]**
 
-vom 27. Juni 2007 (Stand am 28. Mai 2020)
+vom 27. Juni 2007 (Stand am 1. November 2021)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5419](https://fedlex.data.admin.ch/eli/oc/2010/768)).
 
@@ -108,7 +108,7 @@ Die MEBEKO trägt in einer Datenbank die relevanten Daten ein zu:
 - f. den anerkannten ausländischen Weiterbildungstiteln nach Artikel 21 Absatz 1 MedBG;
 - g. den nachgeprüften Weiterbildungstiteln nach Artikel 35 Absatz 1 MedBG;
 - h. den gleichwertigen Weiterbildungstiteln nach Artikel 36 Absatz 3 MedBG;
-- i.[^5-2] den Kandidatinnen und Kandidaten der eidgenössischen Prüfung in Humanmedizin 2020 nach Artikel 4*a* der Prüfungsverordnung MedBG vom 26. November 2008[^5-3], die die schriftliche Prüfung bestanden haben.
+- i.[^5-2] ...
 
 <sup>2</sup>
 
@@ -118,12 +118,12 @@ Das Sekretariat des Ressorts Ausbildung der MEBEKO erfasst folgende Daten zu den
 - b. Geburtsdatum und Geschlecht;
 - c. Korrespondenzsprache;
 - d. Heimatorte und Nationalitäten;
-- e. Versichertennummer nach Artikel 50*e* Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^5-4] über die Alters- und Hinterlassenenversicherung;
-- f. eine eindeutige Identifikationsnummer für die Medizinalpersonen (GLN[^5-5]);
+- e. Versichertennummer nach Artikel 50*e* Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^5-3] über die Alters- und Hinterlassenenversicherung;
+- f. eine eindeutige Identifikationsnummer für die Medizinalpersonen (GLN[^5-4]);
 - g. Adresse, Telefonnummer und E-Mail-Adresse;
 - h. die vorhandenen Sprachkenntnisse.
 
-<sup>2bis</sup> Es erfasst zu den Personen nach Absatz 1 Buchstabe i die Daten nach Absatz 2 Buchstaben a–e, g und h sowie den Hinweis, dass diese Personen provisorisch in der Datenbank eingetragen sind.[^5-6]
+<sup>2bis</sup> ...[^5-5]
 
 <sup>3</sup>
 
@@ -131,7 +131,7 @@ Zusätzlich erfasst es zu Inhaberinnen und Inhabern:
 
 - a. eines eidgenössischen Diploms nach Artikel 5 Absatz 1 MedBG: dieses Diplom mit Ausstellungsdatum und Ort der Diplomerteilung;
 - b. eines anerkannten ausländischen Diploms nach Artikel 15 Absatz 1 MedBG: dieses Diplom mit Ausstellungsdatum, Ort und Land der Diplomerteilung sowie Datum der Anerkennung durch die MEBEKO;
-- c. eines Diploms nach Artikel 33*a* Absatz 2 Buchstabe a MedBG: dieses Diplom mit Ausstellungsdatum, Ort und Land der Diplomerteilung sowie Datum der Eintragung im Register der universitären Medizinalberufe nach der Registerverordnung MedBG vom 5. April 2017[^5-7] (Medizinalberuferegister) durch die MEBEKO;
+- c. eines Diploms nach Artikel 33*a* Absatz 2 Buchstabe a MedBG: dieses Diplom mit Ausstellungsdatum, Ort und Land der Diplomerteilung sowie Datum der Eintragung im Register der universitären Medizinalberufe nach der Registerverordnung MedBG vom 5. April 2017[^5-6] (Medizinalberuferegister) durch die MEBEKO;
 - d. eines nachgeprüften Diploms nach Artikel 35 Absatz 1 MedBG: dieses Diplom mit Ausstellungsdatum, Ort und Land der Erteilung sowie Datum der Nachprüfung durch die MEBEKO;
 - e. eines gleichwertigen Diploms nach Artikel 36 Absatz 3 MedBG: dieses Diplom mit Ausstellungsdatum, Ort und Land der Diplomerteilung sowie Datum der Gleichwertigkeitsbescheinigung durch die MEBEKO.
 
@@ -149,11 +149,10 @@ Das Sekretariat des Ressorts Weiterbildung der MEBEKO erfasst zu den Inhaberinne
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 [^5-2]: Eingefügt durch Ziff. I 1 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^5-3]: [SR 811.113.3](https://fedlex.data.admin.ch/eli/cc/2008/832)
-[^5-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^5-5]: GLN steht für Global Location Number.
-[^5-6]: Eingefügt durch Ziff. I 1 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^5-7]: [SR 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
+[^5-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^5-4]: GLN steht für Global Location Number.
+[^5-5]: Eingefügt durch Ziff. I 1 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^5-6]: [SR 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
 
 #### Art. 6
 
