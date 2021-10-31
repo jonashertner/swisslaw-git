@@ -4,23 +4,21 @@ number: "702.010"
 title: Einführungsverordnung zum Bundesgesetz über Zweitwohnungen
 short: EV ZWG
 language: de
-version: 2016-06-20
-corrected: 2018-09-04
-version_adopted: 2016-06-20
+version: 2021-11-01
+version_adopted: 2021-10-25
 adopted: 2016-06-20
 in_force: 2016-06-20
 url: "https://ai.clex.ch/app/de/texts_of_law/702.010"
-pdf: "https://ai.clex.ch/api/de/versions/660/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/1963/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Einführungsverordnung zum Bundesgesetz über Zweitwohnungen (EV ZWG)
+# Einführungsverordnung zum Bundesgesetz über Zweitwohnungen
 
-Gesetzessammlung Appenzell I. Rh. – Juni 2016
+(EV ZWG)
 
-vom 20. Juni 2016
+vom 20.06.2016 (Stand 01.11.2021)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
@@ -40,16 +38,18 @@ beschliesst:
 
 **Wohnungsinventar**
 
-Das Schatzungsamt führt das Wohnungsinventar für die Bezirke und legt es jährlich dem Bund vor.
+<sup>1</sup> Das Schatzungsamt führt das Wohnungsinventar für die Bezirke und legt es jährlich dem Bund vor.
 
 #### Art. 3
 
 **Meldung Eigentumsübertragung**
 
-Bei Bezirken mit einem Zweitwohnungsanteil von über 20 Prozent meldet das Grundbuchamt der zuständigen Baubewilligungsbehörde innert 30 Tagen nach dem grundbuchlichen Vollzug alle Eigentumsübertragungen von Grundstücken mit einer Nutzungsbeschränkung gemäss Zweitwohnungsgesetzgebung.
+<sup>1</sup> Bei Bezirken mit einem Zweitwohnungsanteil von über 20% meldet die für das Grundbuch zuständige Stelle der zuständigen Baubewilligungsbehörde innert 30 Tagen nach dem grundbuchlichen Vollzug alle Eigentumsübertragungen von Grundstücken mit einer Nutzungsbeschränkung gemäss Zweitwohnungsgesetzgebung.
 
 #### Art. 4
 
 **Inkrafttreten**
 
-Diese Verordnung tritt sofort in Kraft.
+<sup>1</sup> Diese Verordnung tritt sofort in Kraft.
+
+cGS -
