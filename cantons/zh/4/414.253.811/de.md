@@ -3,17 +3,17 @@ canton: ZH
 number: "414.253.811"
 title: "Studienordnung für die Bachelorstudiengänge Angewandtes Recht, Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2021-11-01
+version: "2021-11-01"
+nachtrag: "115"
+valid_until: 2022-02-01
 adopted: 2009-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_811-2009_01_29-2009_06_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_811-2009_01_29-2009_06_01-115.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Studienordnung für die Bachelorstudiengänge Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an der Zürcher Hochschule für Angewandte Wissenschaften
+# Studienordnung für die Bachelorstudiengänge Angewandtes Recht, Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an der Zürcher Hochschule für Angewandte Wissenschaften
 
 (vom 29. Januar 2009)[^t-2][^t-1]
 
@@ -23,13 +23,13 @@ gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudieng�
 
 beschliesst:
 
-[^t-1]: Fassung gemäss B vom 3. November 2016 (OS 72, 111; ABl 2017-01-13). In Kraft seit 1. April 2017.
+[^t-1]: Fassung gemäss B vom 20. August 2020 (OS 76, 384; ABl 2021-07-23). In Kraft seit 1. November 2021.
 [^t-2]: OS 64, 168. Vom Fachhochschulrat genehmigt am 24. März 2009.
-[^t-3]: LS 414.252.3.
+[^t-3]: LS 414.252.3. 1. 1. 22 - 115 7
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3.
+[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 1. 22 - 115 7
 
 #### § 1
 
@@ -43,9 +43,13 @@ Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung 
 
 Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Vertiefungen, zur Studienform und den zu belegenden Modulen, werden in einem Anhang geregelt.
 
+[^2-1]: Fassung gemäss B vom 20. August 2020 (OS 76, 384; ABl 2021-07-23). In Kraft seit 1. November 2021.
+
+#### § 3
+
 **Studiengänge und Vertiefungen**
 
-§ 3.[^2-1] <sup>1</sup> Die ZHAW bietet am Departement Wirtschaft, Management und Recht die Bachelorstudiengänge Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an.
+<sup>1</sup> Die ZHAW bietet am Departement Wirtschaft, Management und Recht die Bachelorstudiengänge Angewandtes Recht, Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an.[^2-1]
 
 <sup>2</sup> Der Studiengang Betriebsökonomie kann in den folgenden Vertiefungen durchgeführt werden:
 
@@ -63,7 +67,7 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Vertiefungen
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Der Studiengang Wirtschaftsinformatik kann in den folgenden Vertiefungen durchgeführt werden:
 
@@ -71,13 +75,13 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Vertiefungen
 
 - b. Data Science.
 
-[^2-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+[^3-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 #### § 4
 
 **Studienform**
 
-<sup>1</sup> Die Bachelorstudiengänge können als Vollzeit- und als Teilzeitstudium geführt werden.[^2-1]
+<sup>1</sup> Die Bachelorstudiengänge können als Vollzeit- und als Teilzeitstudium geführt werden.[^3-1]
 
 <sup>2</sup> Ein Wechsel vom Vollzeitstudium ins Teilzeitstudium und umgekehrt ist erst nach bestandenem Assessment möglich.
 
@@ -179,30 +183,32 @@ Der Beginn des Hauptstudiums in einer Vertiefung setzt das Bestehen des Assessme
 
 <sup>3</sup> Nicht bestandene Module der Modulgruppe des Hauptstudiums können nur nach Nichtbestehen des gesamten Hauptstudiums wiederholt werden.
 
-**3**
-
-- 1\. 1. 21 - 111 § 16. Ein Wechsel der Vertiefung nach Beginn des Hauptstudiums richtet sich sinngemäss nach § 18 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der ZHAW vom 29. Januar 2008[^14-2].
-
 [^14-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
-[^14-2]: LS 414.252.3.
+[^14-2]: LS 414.252.3. 1. 1. 22 - 115 7
 
-#### § 17
+#### § 16
 
 **Wechsel der Vertiefung**
 
+Ein Wechsel der Vertiefung nach Beginn des Hauptstudiums richtet sich sinngemäss nach § 18 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der ZHAW vom 29. Januar 2008[^14-2].
+
+**3**
+
+- 1\. 1. 22 - 115 § 17. <sup>1</sup> Das Hauptstudium ist bestanden, wenn
+
 **Abschluss**
 
-<sup>1</sup> Das Hauptstudium ist bestanden, wenn a. die Module gemäss Anhang absolviert sind,
+- a. die Module gemäss Anhang absolviert sind,
 
 - b. keine Modulnote 1 und keine Modulbewertung «nicht bestanden» erzielt wurde,
 
 - c. 480 ECTS-Notenpunkte erreicht wurden,
 
-- d. höchstens 18 Minus-ECTS-Notenpunkte erreicht wurden, e.[^17-1] die nicht zur Modulgruppe gehörenden Module bestanden sind.
+- d. höchstens 18 Minus-ECTS-Notenpunkte erreicht wurden, e.[^16-1] die nicht zur Modulgruppe gehörenden Module bestanden sind.
 
 <sup>2</sup> Die Berechnung der ECTS-Notenpunkte und der Minus-ECTS-Notenpunkte richtet sich nach § 13 Abs. 2 und 3.
 
-[^17-1]: Eingefügt durch B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+[^16-1]: Eingefügt durch B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 ### E. Prüfungen und andere Leistungsnachweise
 
@@ -270,12 +276,15 @@ Das Bachelordiplom wird erteilt, wenn a. das Assessment und das Hauptstudium bes
 
 Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:
 
-- a. Bachelor of Science ZFH in Betriebsökonomie mit Vertiefung in [Vertiefungsrichtung], b.[^23-1] Bachelor of Science ZFH in International Management, c.[^23-2] Bachelor of Science ZFH in Wirtschaftsinformatik mit Vertiefung in [Vertiefungsrichtung],
+a.[^23-1] Bachelor of Science ZFH in Angewandtem Recht,
 
-- d. Bachelor of Science ZFH in Wirtschaftsrecht.
+- b. Bachelor of Science ZFH in Betriebsökonomie mit Vertiefung in [Vertiefungsrichtung], c.[^23-2] Bachelor of Science ZFH in International Management, d.[^23-3] Bachelor of Science ZFH in Wirtschaftsinformatik mit Vertiefung in [Vertiefungsrichtung],
 
-[^23-1]: Eingefügt durch B vom 3. November 2016 (OS 72, 111; ABl 2017-01-13). In Kraft seit 1. April 2017.
-[^23-2]: Fassung gemäss B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+- e. Bachelor of Science ZFH in Wirtschaftsrecht.
+
+[^23-1]: Eingefügt durch B vom 20. August 2020 (OS 76, 384; ABl 2021-07-23). In Kraft seit 1. November 2021.
+[^23-2]: Eingefügt durch B vom 3. November 2016 (OS 72, 111; ABl 2017-01-13). In Kraft seit 1. April 2017.
+[^23-3]: Fassung gemäss B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 ### G. Schlussbestimmungen
 
@@ -303,7 +312,7 @@ Studierende, die ihr Studium vor dem Herbstsemester 2009/ 2010 aufgenommen haben
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Studierende im Teilzeitstudium, die im Frühlingssemester 2010 das Assessment einmal nicht bestanden haben, wiederholen das Assessment nach dieser Studienordnung. Die Studien- und Prüfungsordnung der Zürcher Hochschule Winterthur vom 8. Juni 2006 bleibt im dritten Semester der Assessmentstufe (Herbstsemester 2009/2010) anwendbar.
 
@@ -379,34 +388,26 @@ Studierende, die ihr Studium vor dem Herbstsemester 2009/ 2010 aufgenommen haben
 
 **Studierende im Hauptstudium**
 
-§ 36.[^hKÜbergangsbestimmu-1] <sup>1</sup> Studierende im Vollzeitstudium, die ab dem Herbstsemester 2022/2023 mit dem Hauptstudium beginnen, wählen eine der Vertiefungsrichtungen. Sie schliessen mit dem Titel «Bachelor of Science ZFH in Wirtschaftsinformatik mit Vertiefung in [Vertiefungsrichtung]» ab.
+§ 36.[^hKÜbergangsbestimmu-2] <sup>1</sup> Studierende, die ab dem Frühlingssemester 2022 mit dem Hauptstudium beginnen, wählen eine der Vertiefungsrichtungen. Sie schliessen mit dem Titel «Bachelor of Science ZFH in Wirtschaftsinformatik mit Vertiefung in [Vertiefungsrichtung]» ab.
 
-<sup>2</sup> Studierende im Teilzeitstudium, die ab Frühlingssemester 2022 mit dem Hauptstudium beginnen und die Vertiefung «Data Science» wählen, schliessen mit dem Titel «Bachelor of Science ZFH in Wirtschaftsinformatik mit Vertiefung in Data Science» ab. Die übrigen Studierenden schliessen mit dem Titel «Bachelor of Science ZFH in Wirtschaftsinformatik» ab.
-
-<sup>3</sup> Studierende im Teilzeitstudium, die ab Frühlingssemester 2023 mit dem Hauptstudium beginnen, wählen eine der Vertiefungsrichtungen und schliessen mit dem Titel «Bachelor of Science ZFH in Wirtschaftsinformatik mit Vertiefung in [Vertiefungsrichtung]» ab.
-
-**7**
-
-- 1\. 1. 21 - 111
-
-<sup>4</sup> Die Studierenden, die das Hauptstudium noch ohne Vertiefung begonnen haben, schliessen bis Ende des Frühlingssemesters 2025 mit dem Titel «Bachelor of Science ZFH in Wirtschaftsinformatik» ab. Danach schliessen sie mit dem Titel «Bachelor of Science ZFH in Wirtschaftsinformatik mit Vertiefung in Business Information Systems» ab.
+<sup>2</sup> Die Studierenden, die das Hauptstudium noch ohne Vertiefung begonnen haben, schliessen bis Ende des Frühlingssemesters 2024 mit dem Titel «Bachelor of Science ZFH in Wirtschaftsinformatik» ab. Danach schliessen sie mit dem Titel «Bachelor of Science ZFH in Wirtschaftsinformatik mit Vertiefung in Business Information Systems» ab.
 
 [^hKÜbergangsbestimmu-1]: Eingefügt durch B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
-[^hKÜbergangsbestimmu-2]: Fassung gemäss B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+[^hKÜbergangsbestimmu-2]: Fassung gemäss B vom 20. August 2020 (OS 76, 384; ABl 2021-07-23). In Kraft seit 1. November 2021.
 
-### Anhang zur Studienordnung für die Bachelorstudiengänge Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an der Zürcher Hochschule für Angewandte Wissenschaften
+### Anhang zur Studienordnung für die Bachelorstudiengänge Angewandtes Recht, Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an der Zürcher Hochschule für Angewandte Wissenschaften
 
 [^hKÜbergangsbestimmu-2]
 
-Der Anhang zur Studienordnung für die Bachelorstudiengänge Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
+Der Anhang zur Studienordnung für die Bachelorstudiengänge Angewandtes Recht, Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
 Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
 
-bezogen oder unter (www.zhaw.ch) eingesehen werden.
+bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **9**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 ## Weitere Fussnoten
 
