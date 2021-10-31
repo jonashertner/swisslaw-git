@@ -3,11 +3,11 @@ sr: "632.911"
 title: Verordnung vom 16. März 2007 über die Präferenz-Zollansätze zugunsten der Entwicklungsländer (Zollpräferenzenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: de
-version: 2020-11-01
+version: 2021-11-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20201101/de/xml/fedlex-data-admin-ch-eli-cc-2007-159-20201101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20201101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2007-159-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20201101/de"
 
 (Zollpräferenzenverordnung)
 
-vom 16. März 2007 (Stand am 1. November 2020)
+vom 16. März 2007 (Stand am 1. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -149,7 +149,7 @@ Anhang 1*[^t-1]*
 
 ## Liste der Entwicklungsländer und ‑gebiete
 
-[^t-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2012 ([AS 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Bereinigt gemäss Ziff. I der V vom 17. Sept. 2010 ([AS 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), Ziff. I der V vom 20. Aug. 2014 ([AS 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), Ziff. I Abs. 1 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Ziff. I der V vom 28. März 2018 ([AS 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), vom 9. Mai. 2018 ([AS 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)) und vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)).
+[^t-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2012 ([AS 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Bereinigt gemäss Ziff. I der V vom 17. Sept. 2010 ([AS 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), Ziff. I der V vom 20. Aug. 2014 ([AS 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), Ziff. I Abs. 1 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Ziff. I der V vom 28. März 2018 ([AS 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), vom 9. Mai. 2018 ([AS 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), vom 18. Sept. 2020 ([AS 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)) und vom 24. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)).
 
 Spalte A: ISO-Ländercode
 
@@ -216,7 +216,6 @@ Spalte E: Aussetzungen von Zollpräferenzen
 <tr><td>GY</td><td>Guyana</td><td></td><td></td><td></td></tr>
 <tr><td>HN</td><td>Honduras</td><td></td><td></td><td></td></tr>
 <tr><td>HT</td><td>Haiti</td><td>X</td><td></td><td></td></tr>
-<tr><td>ID</td><td>Indonesien</td><td></td><td></td><td></td></tr>
 <tr><td>IN</td><td>Indien</td><td></td><td></td><td></td></tr>
 <tr><td>IQ</td><td>Irak</td><td></td><td></td><td></td></tr>
 <tr><td>IR</td><td>Iran</td><td></td><td></td><td></td></tr>

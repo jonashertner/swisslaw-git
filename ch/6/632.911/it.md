@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordinanza del 16 marzo 2007 concernente le aliquote di dazio preferenziali a favore dei Paesi in sviluppo (Ordinanza sulle preferenze tariffali)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: it
-version: 2020-11-01
+version: 2021-11-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20201101/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20201101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20201101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20211101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20201101/it"
 
 (Ordinanza sulle preferenze tariffali)
 
-del 16 marzo 2007 (Stato 1° novembre 2020)
+del 16 marzo 2007 (Stato 1° novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -52,7 +52,7 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 
 [^3-1]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220). Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^3-2]: [RS 632.102.1](https://fedlex.data.admin.ch/eli/cc/2019/311)
-[^3-3]: Introdotto dal n. 1 dell’all 2 all’O del 18 nov. 2015 sulla riduzione temporanea delle aliquote di dazio per tessili ([RU 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Nuovo testo giusta l’all. 2 n. II 2 dell’O del 1° mag. 2019 sulla sospensione temporanea delle aliquote di dazio per materiali tessili e materiali tessili intermedi, in vigore dal 1° lug. 2019 con effetto sino al 31 dic. 2023 ([RU 2019 1611](https://fedlex.data.admin.ch/eli/oc/2019/311)).
+[^3-3]: Introdotto dall’all. 2 n. 1 dell’O del 18 nov. 2015 sulla riduzione temporanea delle aliquote di dazio per tessili ([RU 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Nuovo testo giusta l’all. 2 n. II 2 dell’O del 1° mag. 2019 sulla sospensione temporanea delle aliquote di dazio per materiali tessili e materiali tessili intermedi, in vigore dal 1° lug. 2019 con effetto sino al 31 dic. 2023 ([RU 2019 1611](https://fedlex.data.admin.ch/eli/oc/2019/311)).
 
 #### Art. 4
 
@@ -75,7 +75,7 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 [^4-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 25 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 [^4-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^4-4]: Nuove voci di tariffa giusta il n. 11 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^4-4]: Nuove voci di tariffa giusta l’all. 3 n. 11 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
 
 #### Art. 5
 
@@ -135,7 +135,7 @@ L’ordinanza del 29 gennaio 1997[^9-1] concernente le aliquote di dazio prefere
 
 [^10-1]
 
-[^10-1]: Abrogato dal n. 11 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale, con effetto dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^10-1]: Abrogato dall’all. 3 n. 11 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, con effetto dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
 
 #### Art. 11
 
@@ -149,7 +149,7 @@ Allegato 1*[^t-1]*
 
 ## Elenco dei Paesi e territori in sviluppo
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2012 ([RU 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Aggiornato dal n. I dell’O del 17 set. 2010 ([RU 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), dal n. I dell’O del 20 ago. 2014 ([RU 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), dal n. I cpv. 1 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. I delle O del 28 mar. 2018 ([RU 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), del 9 mag. 2018 ([RU 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)) e del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2012 ([RU 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Aggiornato dal n. I dell’O del 17 set. 2010 ([RU 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), dal n. I dell’O del 20 ago. 2014 ([RU 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), dal n. I cpv. 1 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. I delle O del 28 mar. 2018 ([RU 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), del 9 mag. 2018 ([RU 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), del 18 set. 2020 ([RU 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)) e del 24 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)).
 
 - Colonna A: Codice ISO del Paese
 - Colonna B: Nome del Paese
@@ -202,7 +202,6 @@ Allegato 1*[^t-1]*
 <tr><td>GY</td><td>Guyana</td><td></td><td></td><td></td></tr>
 <tr><td>HN</td><td>Honduras</td><td></td><td></td><td></td></tr>
 <tr><td>HT</td><td>Haiti</td><td>X</td><td></td><td></td></tr>
-<tr><td>ID</td><td>Indonesia</td><td></td><td></td><td></td></tr>
 <tr><td>IN</td><td>India</td><td></td><td></td><td></td></tr>
 <tr><td>IQ</td><td>Iraq</td><td></td><td></td><td></td></tr>
 <tr><td>IR</td><td>Iran</td><td></td><td></td><td></td></tr>

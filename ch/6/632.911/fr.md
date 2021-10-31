@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordonnance du 16 mars 2007 fixant les droits de douane préférentiels en faveur des pays en développement (Ordonnance sur les préférences tarifaires)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: fr
-version: 2020-11-01
+version: 2021-11-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20201101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-159-20201101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20201101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-159-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20201101/fr"
 
 (Ordonnance sur les préférences tarifaires)
 
-du 16 mars 2007 (Etat le 1<sup>er</sup> novembre 2020)
+du 16 mars 2007 (Etat le 1<sup>er</sup> novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -149,7 +149,7 @@ Annexe 1*[^t-1]*
 
 ## Liste des pays et des territoires en développement
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2012 ([RO 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Mise à jour selon les ch. I de l’O du 17 sept. 2010 ([RO 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), du 20 août 2014 ([RO 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), le ch. I al. 1 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), les ch. I de l’O du 28 mars 2018 ([RO 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), du 9 mai 2018 ([RO 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)) et du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2012 ([RO 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Mise à jour par le ch. I des O du 17 sept. 2010 ([RO 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), du 20 août 2014 ([RO 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), le ch. I al. 1 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), le ch. I des O du 28 mars 2018 ([RO 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), du 9 mai 2018 ([RO 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), du 18 sept. 2020 ([RO 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)) et du 24 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)).
 
 - Colonne A: Code ISO du pays
 - Colonne B: Nom du pays
@@ -202,7 +202,6 @@ Annexe 1*[^t-1]*
 <tr><td>GY</td><td>Guyana</td><td></td><td></td><td></td></tr>
 <tr><td>HN</td><td>Honduras</td><td></td><td></td><td></td></tr>
 <tr><td>HT</td><td>Haïti</td><td>X</td><td></td><td></td></tr>
-<tr><td>ID</td><td>Indonésie</td><td></td><td></td><td></td></tr>
 <tr><td>IN</td><td>Inde</td><td></td><td></td><td></td></tr>
 <tr><td>IQ</td><td>Irak</td><td></td><td></td><td></td></tr>
 <tr><td>IR</td><td>Iran</td><td></td><td></td><td></td></tr>
@@ -875,7 +874,7 @@ Annexe 2*[^t-2]*
 
 Annexe 2a*[^t-3]*
 
-[^t-3]: Introduite par le ch. II al. 2 de l’O du 7 déc. 2007 ([RO 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)). Abrogée par le ch. II al. 2 de l'O du 25 mars 2009, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
+[^t-3]: Introduite par le ch. II al. 2 de l’O du 7 déc. 2007 ([RO 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)). Abrogée par le ch. II al. 2 de l’O du 25 mars 2009, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 
 Annexe 3
 
