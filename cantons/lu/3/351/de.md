@@ -4,13 +4,13 @@ number: "351"
 title: Verordnung über die Luzerner Polizei
 short: PolV
 language: de
-version: 2021-01-01
-valid_until: 2021-10-31
-version_adopted: 2020-12-09
+version: 2021-11-01
+valid_until: 2022-05-31
+version_adopted: 2021-09-28
 adopted: 2004-04-06
 in_force: 2004-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/351"
-pdf: "https://srl.lu.ch/api/de/versions/3689/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3831/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3689/pdf_file"
 
 (PolV)
 
-vom 06.04.2004 (Stand 01.01.2021)
+vom 06.04.2004 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -114,7 +114,7 @@ beschliesst:
 <sup>1</sup> Für die polizeiliche Grundausbildung an der Interkantonalen Polizeischule Hitzkirch kann angemeldet werden, wer
 
 - a. das Schweizer Bürgerrecht besitzt,
-- b. zwischen 22 und 35 Jahre alt ist,
+- b. mindestens 21 Jahre alt ist,
 - c. eine abgeschlossene Berufslehre oder eine gleichwertige Ausbildung vorweisen kann,
 - d. nach Möglichkeit militärdiensttauglich ist und
 - e. die erforderlichen charakterlichen, geistigen und körperlichen Voraussetzungen mitbringt.
