@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2016 sul controllo dei beni utilizzabili a fini c
 short: OBDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: it
-version: 2021-05-01
+version: 2021-11-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20210501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20210501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20211101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20210501/it"
 
 (Ordinanza sul controllo dei beni a duplice impiego, OBDI)
 
-del 3 giugno 2016 (Stato 1° maggio 2021)
+del 3 giugno 2016 (Stato 1° novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -169,12 +169,15 @@ La persona fisica che presenta la domanda o i membri degli organi della persona 
 - a. alla LBDI;
 - b. alla legge federale del 13 dicembre 1996[^10-1] sul materiale bellico;
 - c. alla LArm;
-- d. alla legge federale del 21 marzo 2003[^10-2] sull’energia nucleare; oppure
-- e. alla legge federale del 25 giugno 1982[^10-3] sulle misure economiche esterne.
+- c<sup>bis</sup>.[^10-2] alla legge federale del 25 marzo 1977[^10-3] sugli esplosivi;
+- d. alla legge federale del 21 marzo 2003[^10-4] sull’energia nucleare; oppure
+- e. alla legge federale del 25 giugno 1982[^10-5] sulle misure economiche esterne.
 
 [^10-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^10-2]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^10-3]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^10-2]: Introdotta dal n. III 2 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^10-3]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^10-4]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^10-5]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
 
 #### Art. 11
 
@@ -226,13 +229,14 @@ La fornitura di beni di cui agli allegati 2–5 a depositi doganali aperti o a d
 
 **Indicazioni all’atto dell’esportazione**
 
-<sup>1</sup> Chiunque esporta beni con un’autorizzazione deve indicare il numero dell’autorizzazione nella dichiarazione doganale.
+<sup>1</sup> Chiunque esporta beni con un’autorizzazione deve indicare nella dichiarazione doganale il tipo di autorizzazione, l’autorità preposta all’autorizzazione e il numero dell’autorizzazione.[^17-1]
 
 <sup>2</sup> Se si tratta di un’autorizzazione generale d’esportazione, sui documenti commerciali relativi all’esportazione dev’essere apposta l’indicazione «Questi beni sottostanno ai controlli internazionali delle esportazioni».
 
-<sup>3</sup> Chiunque esporta beni che sono enumerati nei capitoli della tariffa doganale[^17-1] 28–29, 30 (solo le voci 3002.1000–9000), 34, 36–40, 54–56, 59, 62, 65 (solo la voce 6506.1000), 68–76, 79, 81–90 e 93, ma che non soggiacciono all’obbligo dell’autorizzazione secondo l’articolo 3 o che sono esentati dall’obbligo dell’autorizzazione d’esportazione secondo l’articolo 4, deve menzionare nella dichiarazione doganale l’indicazione «esente da autorizzazione».
+<sup>3</sup> Chiunque esporta beni che sono enumerati nei capitoli della tariffa doganale[^17-2] 28–29, 30 (solo le voci 3002.1000–9000), 34, 36–40, 54–56, 59, 62, 65 (solo la voce 6506.1000), 68–76, 79, 81–90 e 93, ma che non soggiacciono all’obbligo dell’autorizzazione secondo l’articolo 3 o che sono esentati dall’obbligo dell’autorizzazione d’esportazione secondo l’articolo 4, deve menzionare nella dichiarazione doganale l’indicazione «esente da autorizzazione».
 
-[^17-1]: L del 9 ott. 1986 sulla tariffa delle dogane ([RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), all. 1 e 2. È possibile consultare gratuitamente la tariffa doganale su www.ezv.admin.ch/index.html?lang=it &gt; Tariffa doganale – Tares.
+[^17-1]: Nuovo testo gisuta il n. III 2 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^17-2]: L del 9 ott. 1986 sulla tariffa delle dogane ([RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), all. 1 e 2. È possibile consultare gratuitamente la tariffa doganale su www.ezv.admin.ch &gt; Tariffa doganale – Tares.
 
 #### Art. 18
 

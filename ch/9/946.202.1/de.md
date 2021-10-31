@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juni 2016 über die Kontrolle zivil und militärisch v
 short: GKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: de
-version: 2021-05-01
+version: 2021-11-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20210501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20210501/de"
 
 (Güterkontrollverordnung, GKV)
 
-vom 3. Juni 2016 (Stand am 1. Mai 2021)
+vom 3. Juni 2016 (Stand am 1. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -169,12 +169,15 @@ Die gesuchstellende natürliche Person oder die Mitglieder der Organe der gesuch
 - a. das GKG;
 - b. das Kriegsmaterialgesetz vom 13. Dezember 1996[^10-1];
 - c. das WG;
-- d. das Kernenergiegesetz vom 21. März 2003[^10-2]; oder
-- e. das Bundesgesetz vom 25. Juni 1982[^10-3] über aussenwirtschaftliche Massnahmen.
+- c<sup>bis</sup>.[^10-2] das Sprengstoffgesetz vom 25. März 1977[^10-3];
+- d. das Kernenergiegesetz vom 21. März 2003[^10-4]; oder
+- e. das Bundesgesetz vom 25. Juni 1982[^10-5] über aussenwirtschaftliche Massnahmen.
 
 [^10-1]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^10-2]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^10-3]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^10-2]: Eingefügt durch Ziff. III 2 der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^10-3]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^10-4]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^10-5]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
 
 #### Art. 11
 
@@ -226,13 +229,14 @@ Für die Lieferung von Gütern nach den Anhängen 2–5 an offene Zolllager oder
 
 **Angaben bei der Ausfuhr**
 
-<sup>1</sup> Wer Güter mit einer Bewilligung ausführt, muss auf der Zollanmeldung die Bewilligungsnummer angeben.
+<sup>1</sup> Wer Güter mit einer Bewilligung ausführt, muss in der Zollanmeldung die Bewilligungsart, die Bewilligungsstelle und die Bewilligungsnummer angeben.[^17-1]
 
 <sup>2</sup> Handelt es sich um eine Generalausfuhrbewilligung, so müssen die Geschäftspapiere, die sich auf die Ausfuhr beziehen, mit dem Hinweis «Diese Güter unterliegen internationalen Exportkontrollen» versehen werden.
 
-<sup>3</sup> Wer Güter ausführt, die unter die Zolltarifkapitel[^17-1] 28–29, 30 (nur die Tarifnummern 3002.1000–9000), 34, 36–40, 54–56, 59, 62, 65 (nur die Tarifnummer 6506.1000), 68–76, 79, 81–90 und 93 fallen, jedoch nicht der Bewilligungspflicht nach Artikel 3 unterliegen oder nach Artikel 4 von der Ausfuhrbewilligungspflicht ausgenommen sind, muss in der Zollanmeldung den Hinweis «bewilligungsfrei» anbringen.
+<sup>3</sup> Wer Güter ausführt, die unter die Zolltarifkapitel[^17-2] 28–29, 30 (nur die Tarifnummern 3002.1000–9000), 34, 36–40, 54–56, 59, 62, 65 (nur die Tarifnummer 6506.1000), 68–76, 79, 81–90 und 93 fallen, jedoch nicht der Bewilligungspflicht nach Artikel 3 unterliegen oder nach Artikel 4 von der Ausfuhrbewilligungspflicht ausgenommen sind, muss in der Zollanmeldung den Hinweis «bewilligungsfrei» anbringen.
 
-[^17-1]: Zolltarifgesetz vom 9. Oktober 1986 ([SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), Anhänge 1 und 2. Der Zolltarif kann kostenlos eingesehen werden unter www.ezv.admin.ch &gt; Zolltarif – Tares.
+[^17-1]: Fassung gemäss Ziff. III 2 der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^17-2]: Zolltarifgesetz vom 9. Oktober 1986 ([SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), Anhänge 1 und 2. Der Zolltarif kann kostenlos eingesehen werden unter www.ezv.admin.ch &gt; Zolltarif – Tares.
 
 #### Art. 18
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juin 2016 sur le contrôle des biens utilisables à des 
 short: OCB
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: fr
-version: 2021-05-01
+version: 2021-11-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20210501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20210501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20210501/fr"
 
 (Ordonnance sur le contrôle des biens, OCB)
 
-du 3 juin 2016 (Etat le 1<sup>er</sup> mai 2021)
+du 3 juin 2016 (Etat le 1<sup>er</sup> novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -169,12 +169,15 @@ La personne physique présentant la demande ou les membres des organes de la per
 - a. à la LCB;
 - b. à la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^10-1];
 - c. à la LArm;
-- d. à la loi du 21 mars 2003 sur l’énergie nucléaire[^10-2], ou
-- e. à la loi fédérale du 25 juin 1982 sur les mesures économiques extérieures[^10-3].
+- c<sup>bis</sup>.[^10-2] à la loi du 25 mars 1977 sur les explosifs[^10-3];
+- d. à la loi du 21 mars 2003 sur l’énergie nucléaire[^10-4], ou
+- e. à la loi fédérale du 25 juin 1982 sur les mesures économiques extérieures[^10-5].
 
 [^10-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^10-2]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^10-3]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^10-2]: Introduite par le ch. III 2 de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^10-3]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^10-4]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^10-5]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
 
 #### Art. 11
 
@@ -226,13 +229,14 @@ La livraison de biens mentionnés aux annexes 2 à 5 à des entrepôts douaniers
 
 **Indications lors de l’exportation**
 
-<sup>1</sup> Quiconque exporte des biens au moyen d’un permis est tenu d’indiquer le numéro du permis dans la déclaration en douane.
+<sup>1</sup> Quiconque exporte des biens au moyen d’un permis est tenu d’indiquer le type de permis, l’autorité qui a délivré le permis et le numéro du permis dans la déclaration en douane.[^17-1]
 
 <sup>2</sup> S’il s’agit d’une licence générale d’exportation, les documents commerciaux relatifs à l’exportation doivent comporter la mention «Ces biens sont soumis aux contrôles internationaux à l’exportation».
 
-<sup>3</sup> Quiconque exporte des biens relevant des chap. 28, 29, 30 (uniquement les n<sup>os</sup> 3002.1000-9000), 34, 36 à 40, 54 à 56, 59, 62, 65 (uniquement le n<sup>o</sup> 6506.1000), 68 à 76, 79, 81 à 90 et 93 du tarif des douanes[^17-1], mais qui ne sont pas soumis au régime du permis d’exportation selon l’art. 3, ou en sont exemptés aux termes de l’art. 4, est tenu de faire figurer la mention «exempt de permis» dans la déclaration en douane.
+<sup>3</sup> Quiconque exporte des biens relevant des chap. 28, 29, 30 (uniquement les n<sup>os</sup> 3002.1000-9000), 34, 36 à 40, 54 à 56, 59, 62, 65 (uniquement le n<sup>o</sup> 6506.1000), 68 à 76, 79, 81 à 90 et 93 du tarif des douanes[^17-2], mais qui ne sont pas soumis au régime du permis d’exportation selon l’art. 3, ou en sont exemptés aux termes de l’art. 4, est tenu de faire figurer la mention «exempt de permis» dans la déclaration en douane.
 
-[^17-1]: Loi fédérale du 9 oct. 1986 sur le tarif des douanes ([RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), annexes 1 et 2. Le tarif des douanes peut être consulté gratuitement à l’adresse suivante: www.afd.admin.ch &gt; Tarif des douanes – Tares.
+[^17-1]: Nouvelle teneur selon le ch. III 2 de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^17-2]: Loi fédérale du 9 oct. 1986 sur le tarif des douanes ([RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), annexes 1 et 2. Le tarif des douanes peut être consulté gratuitement à l’adresse suivante: www.afd.admin.ch &gt; Tarif des douanes – Tares.
 
 #### Art. 18
 

@@ -4,11 +4,11 @@ title: "Ordinance of 3 June 2016 on the Export, Import and Transit of Dual Use G
 short: GCO
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: en
-version: 2021-05-01
+version: 2021-11-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20210501/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20210501-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20210501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20211101/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20211101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20211101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Goods Control Ordinance, GCO)
 
-of 3 June 2016 (Status as of 1 May 2021)
+of 3 June 2016 (Status as of 1 November 2021)
 
 The Swiss Federal Council,
 
@@ -171,12 +171,15 @@ The natural person or the officers of the legal entity making the application mu
 - a. the GCA;
 - b. the War Material Act of 13 December 1996[^10-1];
 - c. the WA;
-- d. the Nuclear Energy Act of 21 March 2003[^10-2]; or
-- e. the Federal Act of 25 June 1982[^10-3] on International Trade Measures.
+- c<sup>bis</sup>.[^10-2] the Explosives Act of 25 March 1977[^10-3];
+- d. the Nuclear Energy Act of 21 March 2003[^10-4]; or
+- e. the Federal Act of 25 June 1982[^10-5] on International Trade Measures.
 
 [^10-1]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^10-2]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^10-3]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^10-2]: Inserted by No III 2 of the O of 17 Sept. 2021, in force since 1 Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^10-3]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^10-4]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^10-5]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
 
 #### Art. 11
 
@@ -228,13 +231,14 @@ Supplies of goods listed in Annexes 2–5 to public warehouses or bonded warehou
 
 **Details require for the export**
 
-<sup>1</sup> Any person who exports goods under a licence must indicate the licence number on the customs declaration.
+<sup>1</sup> Any person who exports goods under a licence must indicate the form of licence, the issuing office and the licence number on the customs declaration.[^17-1]
 
 <sup>2</sup> In the case of a general export licence, the commercial documents that relate to the export must be marked: «These goods are subject to international export controls».
 
-<sup>3</sup> Any person who exports goods covered by Customs Tariff chapters[^17-1] 28–29, 30 (only tariff numbers 3002.1000/9000), 34, 36–40, 54–56, 59, 62, 65 (only tariff numbers 6506.1000), 68–76, 79, 81–90 and 93 but which are not subject to a licence requirement under Article 3 or which are exempted from an export licence in terms of Article 4 must mark the customs declaration: «Licence not required».
+<sup>3</sup> Any person who exports goods covered by Customs Tariff chapters[^17-2] 28–29, 30 (only tariff numbers 3002.1000/9000), 34, 36–40, 54–56, 59, 62, 65 (only tariff numbers 6506.1000), 68–76, 79, 81–90 and 93 but which are not subject to a licence requirement under Article 3 or which are exempted from an export licence in terms of Article 4 must mark the customs declaration: «Licence not required».
 
-[^17-1]: Customs Tariff Act of 9 Oct. 1986 ([SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)). Annex 1 and 2 of the Customs Tariff Act can be viewed free of charges at www.ezv.admin.ch &gt; Zolltarif - Tares.
+[^17-1]: Amended by No III 2 of the O of 17 Sept. 2021, in force since 1 Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^17-2]: Customs Tariff Act of 9 Oct. 1986 ([SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)). Annex 1 and 2 of the Customs Tariff Act can be viewed free of charges at www.ezv.admin.ch &gt; Zolltarif - Tares.
 
 #### Art. 18
 
@@ -376,7 +380,7 @@ The content of Annexes 1–3 is not published in the Official Compilation of Fed
 
 The Goods Control Ordinance of 25 June 1997[^30-1] is repealed.
 
-[^30-1]: [[AS 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 No 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)No II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 4 [3537](https://fedlex.data.admin.ch/eli/oc/2005/507); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)Annex 4 No II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Annex 4 No II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)Annex 6 No II 1 [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)Attachment 2 No 4; **2014** 2507 4553; **2016** 493]
+[^30-1]: [[AS 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 No 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)No II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 4, [3537](https://fedlex.data.admin.ch/eli/oc/2005/507); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)Annex 4 No II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Annex 4 No II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)Annex 6 No II 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249), [6781](https://fedlex.data.admin.ch/eli/oc/2012/820)Attachment 2 No 4; **2014** 2507, 4553; **2016** 493]
 
 #### Art. 31
 
@@ -570,6 +574,6 @@ Annex 8
 
 The legislation below is amended as follows:
 
-…[^annex8-lvlu1-1]
+...**[^annex8-lvlu1-1]**
 
 [^annex8-lvlu1-1]: The amendments may be consulted under [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352).
