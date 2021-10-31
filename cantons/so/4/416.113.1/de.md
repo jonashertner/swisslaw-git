@@ -3,20 +3,20 @@ canton: SO
 number: "416.113.1"
 title: Reglement über die Berufsmaturität
 language: de
-version: 2020-09-01
-valid_until: 2021-10-31
-version_adopted: 2020-05-18
+version: 2021-11-01
+valid_until: 2025-07-31
+version_adopted: 2021-11-05
 adopted: 2013-06-05
 in_force: 2014-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/416.113.1"
-pdf: "https://bgs.so.ch/api/de/versions/4992/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5138/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Berufsmaturität
 
-Vom 05.06.2013 (Stand 01.09.2020)
+Vom 05.06.2013 (Stand 01.11.2021)
 
 Das Departement für Bildung und Kultur des Kantons Solothurn
 
@@ -41,22 +41,27 @@ erlässt:
 
 **Voraussetzungen für die Aufnahme**
 
-<sup>1</sup> In den Berufsmaturitätsunterricht während der beruflichen Grundbildung wird aufgenommen, wer zum Zeitpunkt des Antritts über einen gültigen Lehrvertrag verfügt und die Aufnahmebedingungen erfüllt.
+<sup>1</sup> In den Berufsmaturitätsunterricht während der beruflichen Grundbildung (BM 1) wird aufgenommen, wer zum Zeitpunkt des Antritts über einen gültigen Lehrvertrag verfügt und die Aufnahmebedingungen erfüllt.
 
-<sup>2</sup> In die Berufsmaturitätslehrgänge nach Abschluss der beruflichen Grundbildung wird aufgenommen, wer über ein eidgenössisches Fähigkeitszeugnis verfügt und die Aufnahmebedingungen erfüllt.
+<sup>2</sup> In die Berufsmaturitätslehrgänge nach Abschluss der beruflichen Grundbildung (BM 2) wird aufgenommen, wer über ein eidgenössisches Fähigkeitszeugnis (EFZ) verfügt und die Aufnahmebedingungen erfüllt.
 
 #### § 3
 
 **Aufnahme ohne Prüfung**
 
-<sup>1</sup> Zum Berufsmaturitätsunterricht während der beruflichen Grundbildung wird prüfungsfrei aufgenommen, wer im Zeugnis des ersten Semesters des dritten Schuljahres der Sekundarschule E die Promotionsbedingungen erfüllt und in den Fächern Deutsch, Fremdsprachen (ungerundeter Durchschnitt aus Französisch und Englisch) und Mathematik (doppelt gezählt) einen Notendurchschnitt von mindestens 4,7 aufweist.
+<sup>1</sup> In die BM 1 wird prüfungsfrei aufgenommen, wer im Zeugnis des ersten Semesters des dritten Schuljahres der Sekundarschule E die Promotionsbedingungen erfüllt und in den Fächern Deutsch, Fremdsprachen (ungerundeter Durchschnitt aus Französisch und Englisch) und Mathematik (doppelt gezählt) einen Notendurchschnitt von mindestens 4,7 aufweist.
 
-<sup>2</sup> In die Berufsmaturitätslehrgänge nach Abschluss der beruflichen Grundbildung wird prüfungsfrei aufgenommen,
+<sup>2</sup> In die BM 2 wird prüfungsfrei aufgenommen, wer die folgenden Aufnahmebedingungen erfüllt:
 
-- a) wer einen von der Berufsmaturitätskonferenz anerkannten vorbereitenden Lehrgang bestanden hat; oder
-- b) wer die von der Berufsmaturitätskonferenz festgelegten Aufnahmekriterien für die Berufsmaturitätsausrichtung Wirtschaft und Dienstleistungen erfüllt.
+- a) Für die Berufsmaturitätsausrichtung Wirtschaft und Dienstleistungen (Typ Wirtschaft):
+  - 1\. Gelernte Berufsleute mit EFZ als Kauffrau oder Kaufmann mit erweiterter Grundbildung (E-Profil): Schulische Gesamtnote von mindestens 4.7;
+  - 2\. Gelernte Berufsleute mit anderem EFZ: Notendurchschnitt von mindestens 5.0.
+  - 3\. Lernende Kauffrau oder Kaufmann EFZ mit erweiterter Grundbildung (E-Profil): Zeugnisnoten des 5. Semesters in den Fächern Deutsch (Gewichtung 1/5), Französisch (Gewichtung 1/5), Wirtschaft und Gesellschaft (Gewichtung 2/5) und Englisch (Gewichtung 1/5, Fachnote) mit einem Notendurchschnitt von mindestens 4.8.
+  - 4\. …
+- b) Für die Berufsmaturitätsausrichtung Wirtschaft und Dienstleistungen (Typ Dienstleistungen) und alle anderen Berufsmaturitätsausrichtungen: Gelernte Berufsleute mit EFZ: Notendurchschnitt von mindestens 5.0.
+- c) Für die Berufsmaturitätsausrichtung Wirtschaft und Dienstleistungen (Typ Dienstleistungen): Lernende Detailhandelsfachfrau oder Detailhandelsfachmann EFZ: Zeugnisnoten des 5. Semesters in den Fächern Deutsch (Gewichtung 1/4), Französisch (Gewichtung 1/4), Englisch (Gewichtung 1/4) und Betriebswirtschaft (Gewichtung 1/4) mit einem Notendurchschnitt von mindestens 5.0.
 
-<sup>3</sup> Für den Berufsmaturitätslehrgang nach der Lehre (BM 2) bleibt eine erworbene Berechtigung zum prüfungsfreien Eintritt für zwei nachfolgende Jahre gültig.
+<sup>3</sup> …
 
 #### § 4
 
@@ -70,9 +75,9 @@ erlässt:
 
 <sup>1</sup> Die Aufnahmeprüfung umfasst die Fächer Deutsch, Fremdsprachen (Französisch und Englisch) und Mathematik.
 
-<sup>2</sup> Für die Ausrichtung Gestaltung und Kunst der Berufsmaturität wird zusätzlich im Fachbereich Gestalten geprüft.
+<sup>2</sup> …
 
-<sup>3</sup> Für die Ausrichtung Wirtschaft des Berufsmaturitätslehrgangs nach Abschluss der beruflichen Grundbildung wird an Stelle von Mathematik das Fach Wirtschaft und Gesellschaft geprüft.
+<sup>3</sup> …
 
 <sup>4</sup> Die Prüfungsanforderungen richten sich nach den Lernzielen der dritten Klasse der Sekundarschule E.
 
@@ -92,13 +97,13 @@ erlässt:
 
 <sup>1</sup> Die Prüfung besteht, wer in den Fächern Deutsch, Fremdsprachen (ungerundeter Durchschnitt aus Französisch und Englisch) und Mathematik (doppelt gezählt) zusammen mit der Empfehlung der bisherigen Schule mindestens 16 Punkte erreicht.
 
-<sup>2</sup> Für die Ausrichtung Gestaltung und Kunst der Berufsmaturität sind mit der Note im Fachbereich Gestalten (doppelt gezählt) 24 Punkte zu erreichen.
+<sup>2</sup> …
 
-<sup>3</sup> Für die Ausrichtung Wirtschaft des Berufsmaturiätslehrgangs nach Abschluss der beruflichen Grundbildung zählt an Stelle von Mathematik die Note in Wirtschaft und Gesellschaft doppelt.
+<sup>3</sup> …
 
 #### § 8
 
-**Zeitpunkt und Gültigkeit der Aufnahmeprüfung**
+**Zeitpunkt und Wiederholung der Aufnahmeprüfung**
 
 <sup>1</sup> Die Aufnahmeprüfung wird im Frühling durchgeführt.
 
@@ -106,7 +111,7 @@ erlässt:
 
 <sup>3</sup> Eine nicht bestandene Aufnahmeprüfung kann einmal wiederholt werden. Dies ist frühestens nach einem Jahr möglich.
 
-<sup>4</sup> Eine bestandene Aufnahmeprüfung bleibt für das nachfolgende Schuljahr gültig, bei späterem Eintritt muss die Aufnahmeprüfung neu absolviert werden.
+<sup>4</sup> …
 
 #### § 9
 
@@ -287,6 +292,16 @@ erlässt:
 <sup>2</sup> Für die Lehrgänge, welche vor dem 1. August 2015 beginnen, gelten noch die §§ 1 Absätze 1 und 2, 2, 7, 14 Absätze 1 und 2 sowie 15–28 der alten Verordnung über die Berufsmaturität vom 7. Juli 2000[^26-1].
 
 [^26-1]: BGS [416.113](https://bgs.so.ch/data/416.113/de).
+
+#### § 27
+
+**Übergangsregelung für Lernende und gelernte Berufsleute mit im Schuljahr 2020/2021 bestandener Aufnahmeprüfung und für Absolvierende des anerkannten vorbereitenden Lehrgangs (VWB)**
+
+<sup>1</sup> Für gelernte Berufsleute, welche das EFZ vor dem 1. November 2021 erlangt haben, gilt das bisherige Recht.
+
+<sup>2</sup> Für Lernende der beruflichen Grundbildung und gelernte Berufsleute mit EFZ, welche die Aufnahmeprüfung in die BM 2 im Schuljahr 2020/2021 absolviert und bestanden haben, behält diese ihre Gültigkeit bis zur Aufnahme in die BM 2.
+
+<sup>3</sup> Für Lernende der beruflichen Grundbildung und gelernte Berufsleute mit EFZ, welche den von der Berufsmaturitätskonferenz anerkannten vorbereitenden Lehrgang (Vorbereitungskurs für Weiterbildungen VWB) im Schuljahr 2020/2021 erfolgreich absolviert haben oder bis 2022/2023 erfolgreich abschliessen werden, behält dieser die Gültigkeit bis zur Aufnahme in die BM 2.
 
 Beschlossen vom Departement für Bildung und Kultur am 5. Juni 2013.
 
