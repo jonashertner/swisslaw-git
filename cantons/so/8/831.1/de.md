@@ -4,13 +4,13 @@ number: "831.1"
 title: Sozialgesetz
 short: SG
 language: de
-version: 2021-01-01
-valid_until: 2021-10-31
-version_adopted: 2020-02-09
+version: 2021-11-01
+valid_until: 2021-12-31
+version_adopted: 2020-11-04
 adopted: 2007-01-31
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.1"
-pdf: "https://bgs.so.ch/api/de/versions/5037/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5122/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5037/pdf_file"
 
 (SG)
 
-Vom 31.01.2007 (Stand 01.01.2021)
+Vom 31.01.2007 (Stand 01.11.2021)
 
 Der Kantonsrat von Solothurn
 
