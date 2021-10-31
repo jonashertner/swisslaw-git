@@ -3,20 +3,20 @@ canton: SO
 number: "511.11"
 title: Gesetz über die Kantonspolizei
 language: de
-version: 2021-03-01
-valid_until: 2021-10-31
-version_adopted: 2020-05-06
+version: 2021-11-01
+valid_until: 2024-03-31
+version_adopted: 2020-11-04
 adopted: 1990-09-23
 in_force: 1991-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/511.11"
-pdf: "https://bgs.so.ch/api/de/versions/5241/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5242/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Kantonspolizei
 
-Vom 23.09.1990 (Stand 01.03.2021)
+Vom 23.09.1990 (Stand 01.11.2021)
 
 Der Kantonsrat von Solothurn
 
@@ -778,11 +778,11 @@ beschliesst:
 
 **e) Verlängerung bei zivilrechtlichen Verfahren**
 
-<sup>1</sup> Ersucht die gefährdete Person während der Geltungsdauer des Rückkehrverbots beim Zivilrichter um Anordnung von Schutzmassnahmen nach Artikel 28b Absatz 2 oder Artikel 172 ff. des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)[^37sexies-1] oder Artikel 276 der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (ZPO)[^37sexies-2], verlängert sich das Rückkehrverbot bis zum Entscheid des Zivilrichters, längstens um vierzehn Tage.
+<sup>1</sup> Ersucht die gefährdete Person während der Geltungsdauer des Rückkehrverbots beim Zivilrichter um Anordnung von Schutzmassnahmen nach Artikel 28b Absatz 2, Artikel 28c Absatz 1 oder Artikel 172 ff. des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)[^37sexies-1] oder Artikel 276 der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (ZPO)[^37sexies-2], verlängert sich das Rückkehrverbot bis zum Entscheid des Zivilrichters, längstens um vierzehn Tage.
 
-<sup>2</sup> Der Zivilrichter informiert den Haftrichter und die Kantonspolizei über die Einleitung eines Zivilverfahrens nach Absatz 1.
+<sup>2</sup> Der Zivilrichter informiert den Haftrichter, die Kantonspolizei sowie die Kindes- und Erwachsenenschutzbehörde am Wohnort und am Aufenthaltsort der betroffenen Person über die Einleitung eines Zivilverfahrens nach Absatz 1.
 
-<sup>3</sup> Der Zivilrichter teilt seinen Entscheid den betroffenen Personen, dem Haftrichter und der Kantonspolizei unverzüglich schriftlich mit.
+<sup>3</sup> Der Zivilrichter teilt seinen Entscheid den betroffenen Personen, dem Haftrichter, der Kantonspolizei sowie der Kindes- und Erwachsenenschutzbehörde am Wohnort und am Aufenthaltsort der betroffenen Person unverzüglich schriftlich mit.
 
 [^37sexies-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
 [^37sexies-2]: SR [272](https://db.clex.ch/link/Bund/272/de).
