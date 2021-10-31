@@ -4,13 +4,13 @@ number: "211.58"
 title: Kantonale Verordnung über Geoinformation
 short: KGeoIV
 language: de
-version: 2021-09-01
-valid_until: 2021-10-31
-version_adopted: 2021-08-24
+version: 2021-11-01
+valid_until: 2022-02-28
+version_adopted: 2021-10-26
 adopted: 2008-06-17
 in_force: 2008-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.58"
-pdf: "https://bl.clex.ch/api/de/versions/3081/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3255/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3081/pdf_file"
 
 (KGeoIV)
 
-Vom 17.06.2008 (Stand 01.09.2021)
+Vom 17.06.2008 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -117,7 +117,7 @@ beschliesst:
 
 - a. plant und koordiniert den Auf- und Ausbau des kantonalen GIS;
 - b. verwaltet die Geobasisdaten und Geoinformationen in der kantonalen Geodatenbank;
-- c. sorgt für den Betrieb, die Pflege und die Weiterentwicklung der kantonalen Geodatenbank, der kantonalen Gebäudedatenbank, des kantonalen Geoportals, der Geodienste und Geoapplikationen;
+- c. sorgt für den Betrieb, die Pflege und die Weiterentwicklung der kantonalen Geodatenbank, des kantonalen Geoportals, der Geodienste und Geoapplikationen;
 - d. stellt die technische Infrastruktur im Bereich GIS bereit;
 - e. beschafft die notwendigen Georeferenzdaten des Bundes, des Kantons und der Nachbarkantone;
 - f. vertreibt Geobasisdaten und daraus abgeleitete Produkte an staatliche und private Stellen;
@@ -323,7 +323,7 @@ beschliesst:
 - c. «Download-Dienst» für den Bezug von Geobasisdaten im Abrufverfahren;
 - d. Geodienst für die Darstellung von Geobasisdaten als Bilddaten in anderen Informatiksystemen (Web Map Service).
 
-<sup>2</sup> Für die Nachführung der Gebäudedatenbank durch die Gemeinden oder beauftragte Dritte bietet die GIS-Fachstelle besondere Geodienste an.
+<sup>2</sup> Für die Nachführung des kantonalen Gebäude- und Wohnungsregisters («kGWR») durch die Gemeinden oder beauftragte Dritte bietet die GIS-Fachstelle besondere Geodienste an.
 
 <sup>3</sup> Weitere Geodienste können vom Kanton nach Bedarf angeboten werden.
 
@@ -391,7 +391,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Geoinformation trägt vollumfänglich die Kosten der Basisinfrastruktur des kantonalen GIS.
 
-<sup>2</sup> Zur Basisinfrastruktur zählen die kantonale Geodatenbank, die Gebäudedatenbank, das kantonale Geoportal, die grundlegenden Geodienste und Geoapplikationen einschliesslich ihrer technischen Infrastruktur.
+<sup>2</sup> Zur Basisinfrastruktur zählen die kantonale Geodatenbank, das kantonale Geoportal, die grundlegenden Geodienste und Geoapplikationen einschliesslich ihrer technischen Infrastruktur.
 
 <sup>3</sup> Das Amt für Geoinformation trägt die Lizenzgebühren für die Nutzung von Georeferenzdaten von Dritten, die von verwaltungsweitem Interesse sind.
 
