@@ -4,13 +4,12 @@ number: "423.11"
 title: Loi sur l’encouragement des activités culturelles
 short: LEAC
 language: fr
-version: 2021-01-01
-valid_until: 2021-10-31
-version_adopted: 2020-06-10
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 2012-06-12
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2056/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2360/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2056/pdf_file"
 
 (LEAC)
 
-du 12.06.2012 (état au 01.01.2021)
+du 12.06.2012 (état au 01.11.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -403,7 +402,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif décide la délégation de tâches.
 
-<sup>2</sup> Le service compétent de la Direction de l’instruction publique conclut un contrat de prestations avec les tiers mandatés.
+<sup>2</sup> Le service compétent de la Direction de l’instruction publique et de la culture conclut un contrat de prestations avec les tiers mandatés.
 
 <sup>3</sup> Le contrat de prestations régit en particulier les tâches et les attributions des tiers mandatés, le financement de leur activité, l’établissement de rapports ainsi que les responsabilités.
 
@@ -422,7 +421,7 @@ arrête:
 
 **Fonds d’encouragement des activités culturelles**
 
-<sup>1</sup> La Direction de l’instruction publique administre le Fonds d’encouragement des activités culturelles.
+<sup>1</sup> La Direction de l’instruction publique et de la culture administre le Fonds d’encouragement des activités culturelles.
 
 <sup>2</sup> Le Fonds d’encouragement des activités culturelles est alimenté par
 
@@ -455,9 +454,9 @@ arrête:
 
 **Autorités compétentes**
 
-<sup>1</sup> Sauf disposition contraire de la présente loi ou de la législation spéciale, l’exécution de la présente loi relève du service compétent de la Direction de l’instruction publique.
+<sup>1</sup> Sauf disposition contraire de la présente loi ou de la législation spéciale, l’exécution de la présente loi relève du service compétent de la Direction de l’instruction publique et de la culture.
 
-<sup>2</sup> Le service compétent de la Direction de l’instruction publique collabore avec d’autres Directions lorsque leur domaine d’activité est concerné. Il coordonne en particulier l’octroi de subventions provenant du Fonds d’encouragement des activités culturelles et du Fonds de loterie avec la Direction compétente.
+<sup>2</sup> Le service compétent de la Direction de l’instruction publique et de la culture collabore avec d’autres Directions lorsque leur domaine d’activité est concerné. Il coordonne en particulier l’octroi de subventions provenant du Fonds d’encouragement des activités culturelles et du Fonds de loterie avec la Direction compétente.
 
 <sup>3</sup> Les décisions concernant les mandats de réalisation d’oeuvres d’art dans l’espace public ou pour les bâtiments et les installations publics sont du ressort du service compétent de la Direction concernée. L’autorisation des dépenses nécessaires par l’organe compétent est réservée.
 

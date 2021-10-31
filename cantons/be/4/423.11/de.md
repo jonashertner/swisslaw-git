@@ -4,13 +4,12 @@ number: "423.11"
 title: Kantonales Kulturförderungsgesetz
 short: KKFG
 language: de
-version: 2021-01-01
-valid_until: 2021-10-31
-version_adopted: 2020-06-10
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 2012-06-12
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2056/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2360/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2056/pdf_file"
 
 (KKFG)
 
-vom 12.06.2012 (Stand 01.01.2021)
+vom 12.06.2012 (Stand 01.11.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -403,7 +402,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat beschliesst die Übertragung von Aufgaben.
 
-<sup>2</sup> Die zuständige Stelle der Erziehungsdirektion schliesst mit den beauftragten Dritten einen Leistungsvertrag ab.
+<sup>2</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion schliesst mit den beauftragten Dritten einen Leistungsvertrag ab.
 
 <sup>3</sup> Der Leistungsvertrag regelt insbesondere die Aufgaben und Befugnisse der beauftragten Dritten, die Finanzierung ihrer Tätigkeit, die Berichterstattung und die Verantwortlichkeiten.
 
@@ -422,7 +421,7 @@ beschliesst:
 
 **Kulturförderungsfonds**
 
-<sup>1</sup> Die Erziehungsdirektion führt den Kulturförderungsfonds.
+<sup>1</sup> Die Bildungs- und Kulturdirektion führt den Kulturförderungsfonds.
 
 <sup>2</sup> Der Kulturförderungsfonds wird geäufnet
 
@@ -455,9 +454,9 @@ beschliesst:
 
 **Zuständige Stellen**
 
-<sup>1</sup> Soweit dieses Gesetz oder die besondere Gesetzgebung nichts anderes bestimmen, obliegt der Vollzug dieses Gesetzes der zuständigen Stelle der Erziehungsdirektion.
+<sup>1</sup> Soweit dieses Gesetz oder die besondere Gesetzgebung nichts anderes bestimmt, obliegt der Vollzug dieses Gesetzes der zuständigen Stelle der Bildungs- und Kulturdirektion.
 
-<sup>2</sup> Die zuständige Stelle der Erziehungsdirektion arbeitet mit anderen Direktionen zusammen, wo deren Aufgabenbereich betroffen ist. Sie koordiniert insbesondere die Gewährung von Beiträgen aus dem Kulturförderungsfonds und dem Lotteriefonds mit der zuständigen Direktion.
+<sup>2</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion arbeitet mit anderen Direktionen zusammen, wo deren Aufgabenbereich betroffen ist. Sie koordiniert insbesondere die Gewährung von Beiträgen aus dem Kulturförderungsfonds und dem Lotteriefonds mit der zuständigen Direktion.
 
 <sup>3</sup> Über Aufträge für Kunst im öffentlichen Raum oder für öffentliche Bauten und Anlagen entscheidet die zuständige Stelle der betroffenen Direktion. Vorbehalten bleibt die Bewilligung der dafür erforderlichen Ausgaben durch das zuständige Organ.
 
