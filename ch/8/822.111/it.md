@@ -4,11 +4,11 @@ title: Ordinanza 1 del 10 maggio 2000 concernente la legge sul lavoro (OLL 1)
 short: OLL 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: it
-version: 2020-11-01
+version: 2021-11-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20201101/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20201101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20201101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20211101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20201101/it"
 
 (OLL 1)
 
-del 10 maggio 2000 (Stato 1° novembre 2020) (Stato 1° novembre 2020)
+del 10 maggio 2000 (Stato 1° novembre 2021) (Stato 1° novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1463,11 +1463,13 @@ I permessi concernenti la durata del lavoro rilasciati in virtù del diritto ant
 
 [^94-1]: [RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293). Questa L è entrata in vigore il 1° set. 2000.
 
-Allegato
+Allegato*[^t-1]*
 
 (art. 28 cpv. 4)
 
 ## Indispensabilità tecnica o economica del lavoro notturno o domenicale per singoli processi lavorativi
+
+[^t-1]: Aggiornato dal n. II dell’O del 1° set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
 
 Per i seguenti processi lavorativi, il lavoro notturno o domenicale regolare o periodico è ritenuto indispensabile nella misura indicata:
 
@@ -1539,9 +1541,15 @@ lavoro notturno
 
 lavoro notturno e domenicale per il servizio degli impianti di trattamento termico.
 
-### 14. Trafori e gallerie:
+### 14. Costruzione di strade e di gallerie nonché trivellazioni in profondità:
 
-lavoro notturno e domenicale per lavori di avanzamento e di sicurezza.
+lavoro notturno e domenicale per effettuare, su mandato delle autorità, i seguenti lavori non contemplati nell’articolo 48*a* dell’ordinanza 2 del 10 maggio 2000[^annexu1-lvlu1-lvl14-1] concernete la legge sul lavoro:
+
+- – lavori di risanamento e di sistemazione su strade fortemente trafficate;
+- – lavori di avanzamento, di sistemazione e di sicurezza a gallerie e cunicoli in fase di costruzione o esistenti;
+- – trivellazioni in profondità.
+
+[^annexu1-lvlu1-lvl14-1]: [RS 822.112](https://fedlex.data.admin.ch/eli/cc/2000/244)
 
 ### 15. Orologeria:
 

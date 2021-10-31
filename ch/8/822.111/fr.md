@@ -4,11 +4,11 @@ title: Ordonnance 1 du 10 mai 2000 relative à la loi sur le travail (OLT 1)
 short: OLT 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: fr
-version: 2020-11-01
+version: 2021-11-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20201101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-243-20201101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20201101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-243-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20201101/fr"
 
 (OLT 1)
 
-du 10 mai 2000 (Etat le 1<sup>er</sup> novembre 2020)
+du 10 mai 2000 (Etat le 1<sup>er</sup> novembre 2021)
 
 <sup>Le Conseil fédéral suisse,</sup>
 
@@ -1465,11 +1465,13 @@ Les permis concernant la durée de travail délivrés sur la base de l’ancienn
 
 [^94-1]: [RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293). Cette loi est entrée en vigueur le 1<sup>er</sup> sept. 2000.
 
-Annexe
+Annexe*[^t-1]*
 
 (art. 28, al. 4)
 
 ## Établissement de l’indispensabilité technique ou économique du travail de nuit ou du dimanche pour certains procédés de travail
+
+[^t-1]: Mise à jour selon le ch. II de l’O du 1<sup>er</sup> sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
 
 Il y a présomption d’indispensabilité de travail de nuit ou du dimanche à caractère régulier ou périodique pour les activités et dans la mesure indiquées ci-après:
 
@@ -1546,7 +1548,13 @@ Travail de nuit et du dimanche pour le maniement d’installations de traitement
 
 ### 14. Construction de tunnels et de galeries
 
-Travail de nuit et du dimanche pour le creusement et les tâches imposées par la sécurité.
+Travail de nuit et du dimanche pour effectuer, sur mandat des autorités, les travaux suivants lorsque ceux-ci ne relèvent pas de l’art. 48*a* de l’ordonnance 2 du 10 mai 2000 relative à la loi sur le travail[^annexu1-lvlu1-lvl14-1]:
+
+- – les travaux d’assainissement et d’aménagement sur des routes fortement fréquentées;
+- – les travaux de creusement, d’aménagement ou de sécurisation effectués sur des tunnels et de galeries préexistantes ou en cours de construction;
+- – les forages en profondeur.
+
+[^annexu1-lvlu1-lvl14-1]: [RS 822.112](https://fedlex.data.admin.ch/eli/cc/2000/244)
 
 ### 15. Industrie horlogère
 

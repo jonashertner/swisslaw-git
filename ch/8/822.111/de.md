@@ -4,11 +4,11 @@ title: Verordnung 1 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 1)
 short: ArGV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: de
-version: 2020-11-01
+version: 2021-11-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20201101/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20201101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20201101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20201101/de"
 
 (ArGV 1)
 
-vom 10. Mai 2000 (Stand am 1. November 2020)
+vom 10. Mai 2000 (Stand am 1. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1462,11 +1462,13 @@ Arbeitszeitbewilligungen, die gestützt auf das bisherige Gesetz erlassen worden
 
 [^94-1]: [AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293). Dieses BG ist am 1. Sept. 2000 in Kraft getreten.
 
-Anhang
+Anhang*[^t-1]*
 
 (Art. 28 Abs. 4)
 
 ## Nachweis der technischen oder wirtschaftlichen Unentbehrlichkeit von Nacht- oder Sonntagsarbeit für einzelne Arbeitsverfahren
+
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 1. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
 
 Der Nachweis der Unentbehrlichkeit von dauernder oder regelmässig wiederkehrender Nacht- und Sonntagsarbeit gilt für die nachstehend genannten Arbeitsverfahren im bezeichneten Umfang als vermutet:
 
@@ -1540,9 +1542,15 @@ Nachtarbeit für
 - – für das Bedienen von Druckguss- und Strangpressanlagen;
 - [tab] Nacht- und Sonntagsarbeit für die Bedienung von Wärmebehandlungsanlagen.
 
-### 14. Tunnel- und Stollenbau
+### 14. Strassenbau, Tunnelbau sowie Tiefenbohrungen
 
-Nacht- und Sonntagsarbeit für Vortriebs- und Sicherungsarbeiten.
+Nacht- und Sonntagsarbeit, um im Auftrag von Behörden folgende Arbeiten, die nicht unter Artikel 48*a* der Verordnung 2 vom 10. Mai 2000[^annexu1-lvlu1-lvl14-1] zum Arbeitsgesetz fallen, auszuführen:
+
+- – Sanierungs- und Ausbauarbeiten auf stark befahrenen Strassen;
+- – Vortriebs-, Ausbau- und Sicherungsarbeiten an bestehenden und neuen Tunnels, Galerien und Stollen;
+- – Tiefenbohrungen.
+
+[^annexu1-lvlu1-lvl14-1]: [SR 822.112](https://fedlex.data.admin.ch/eli/cc/2000/244)
 
 ### 15. Uhrenindustrie
 
