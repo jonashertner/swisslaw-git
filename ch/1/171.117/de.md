@@ -4,11 +4,11 @@ title: Verordnung der Bundesversammlung vom 28. September 2012 über die Pflege 
 short: VPiB
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/613"
 language: de
-version: 2019-12-02
+version: 2021-11-01
 adopted: 2012-09-28
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/613/20191202/de/xml/fedlex-data-admin-ch-eli-cc-2012-613-20191202-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/613/20191202/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/613/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2012-613-20211101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/613/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/613/20191202/de"
 
 (VPiB)
 
-vom 28. September 2012 (Stand am 2. Dezember 2019)
+vom 28. September 2012 (Stand am 1. November 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -55,6 +55,14 @@ Die Bundesversammlung ist in den folgenden internationalen parlamentarischen Ver
 - d. Internationale Versammlung der Parlamentarier französischer Sprache (APF);
 - e. Parlamentarische Versammlung der Organisation für Sicherheit und Zusammenarbeit in Europa (PV-OSZE);
 - f. Parlamentarische Versammlung des nordatlantischen Verteidigungsbündnisses (PV-NATO).
+
+#### Art. 2a
+
+**Ständige parlamentarische Delegation zur Teilnahme an Aktivitäten im Rahmen der OECD**[^2a-1]
+
+Die Bundesversammlung ist an Aktivitäten im Rahmen der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) durch eine ständige parlamentarische Delegation (PD-OECD) vertreten.
+
+[^2a-1]: Eingefügt durch Ziff. I der V der BVers vom 1. Okt. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [BBl 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 3
 
@@ -119,7 +127,11 @@ Die ständigen Delegationen in internationalen parlamentarischen Versammlungen s
 - e. *PV-OSZE:* aus drei Mitgliedern des Nationalrates und drei Mitgliedern des Ständerates; als Ersatzmitglieder werden ein Mitglied des Nationalrates und ein Mitglied des Ständerates bestimmt;
 - f. *PV-NATO:* aus zwei Mitgliedern des Nationalrates und zwei Mitgliedern des Ständerates; als Ersatzmitglieder werden ein Mitglied des Nationalrates und ein Mitglied des Ständerates bestimmt; die Delegation besteht in der Regel aus den Präsidentinnen oder den Präsidenten und den Vizepräsidentinnen oder den Vizepräsidenten der Sicherheitspolitischen Kommissionen beider Räte; als Ersatzmitglieder werden in der Regel die Altpräsidentinnen oder die Altpräsidenten dieser Kommissionen bestimmt.
 
+<sup>1bis</sup> Die PD-OECD setzt sich zusammen aus zwei Mitgliedern des Nationalrates und zwei Mitgliedern des Ständerates; als Ersatzmitglieder werden zwei Mitglieder des Nationalrates und zwei Mitglieder des Ständerates bestimmt. Bei der Bestellung der Delegation wird auf eine Vertretung von Mitgliedern aus den verschiedenen Kommissionen geachtet.[^6-1]
+
 <sup>2</sup> Die ständigen Delegationen zur Pflege der Beziehungen mit Parlamenten der Nachbarländer setzen sich zusammen aus drei Mitgliedern des Nationalrates und zwei Mitgliedern des Ständerates. Als Ersatzmitglieder werden drei Mitglieder des Nationalrates und zwei Mitglieder des Ständerates bestimmt. Bei der Bestellung der Delegationen werden die Sprachkenntnisse der Delegationsmitglieder berücksichtigt.
+
+[^6-1]: Eingefügt durch Ziff. I der V der BVers vom 1. Okt. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [BBl 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 7
 
@@ -127,9 +139,11 @@ Die ständigen Delegationen in internationalen parlamentarischen Versammlungen s
 
 <sup>1</sup> Die Delegationen konstituieren sich selbst. Sie bestimmen für die Dauer von zwei Jahren eine Präsidentin oder einen Präsidenten und eine Vizepräsidentin oder einen Vizepräsidenten.
 
-<sup>2</sup> Die Mitglieder der Delegationen nach Artikel 2 Buchstaben b–f können sich nur durch Ersatzmitglieder vertreten lassen.
+<sup>2</sup> Die Mitglieder der Delegationen nach den Artikeln 2 Buchstaben b–f, 2*a* und 4 können sich nur durch Ersatzmitglieder vertreten lassen.[^7-1]
 
 <sup>3</sup> Die Delegationen entscheiden mit der Mehrheit der stimmenden Mitglieder.
+
+[^7-1]: Fassung gemäss Ziff. I der V der BVers vom 1. Okt. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [BBl 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 8
 
@@ -137,13 +151,18 @@ Die ständigen Delegationen in internationalen parlamentarischen Versammlungen s
 
 <sup>1</sup> Die ständigen Delegationen in den internationalen parlamentarischen Versammlungen nehmen im Auftrag der Bundesversammlung an den Tätigkeiten dieser Versammlungen teil. Sie halten sich an die Reglemente und die Praxis der jeweiligen internationalen parlamentarischen Versammlung.
 
+<sup>1bis</sup> Die PD-OECD nimmt im Auftrag der Bundesversammlung an Aktivitäten im Rahmen der OECD teil, die sich an die Mitglieder der nationalen Parlamente richten, namentlich an Aktivitäten des «Réseau parlementaire mondial de l’OCDE».[^8-1]
+
 <sup>2</sup> Die ständigen Delegationen zur Pflege der Beziehungen mit Parlamenten der Nachbarländer treffen sich periodisch und im Rahmen der zur Verfügung stehenden Delegationsmittel mit den Delegationen ihrer Partnerländer.
 
 <sup>3</sup> Sie nehmen Rücksicht auf die in den Parlamenten ihrer Partnerländer geltenden Bestimmungen und auf die übliche Praxis für die Pflege der Beziehungen mit anderen Staaten.
 
-<sup>4</sup> Die Delegationen nach den Absätzen 1 und 2 koordinieren ihre Aktivitäten mit den APK. Eine gemeinsame Vertretung aller Delegationen diskutiert mindestens einmal jährlich mit den APK wichtige Themen.
+<sup>4</sup> Die Delegationen nach den Absätzen 1–2 koordinieren ihre Aktivitäten mit den APK.[^8-2] Eine gemeinsame Vertretung aller Delegationen diskutiert mindestens einmal jährlich mit den APK wichtige Themen.
 
 <sup>5</sup> In einer jährlichen Konferenz koordinieren die Präsidentinnen und Präsidenten der Delegationen und jene der APK die Tätigkeiten der Delegationen und Kommissionen.
+
+[^8-1]: Eingefügt durch Ziff. I der V der BVers vom 1. Okt. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [BBl 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
+[^8-2]: Fassung gemäss Ziff. I der V der BVers vom 1. Okt. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [BBl 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 9
 
@@ -151,9 +170,11 @@ Die ständigen Delegationen in internationalen parlamentarischen Versammlungen s
 
 <sup>1</sup> Die APK erstatten den Räten mindestens einmal pro Legislaturperiode schriftlich Bericht über die Tätigkeit der Delegationen nach Artikel 1.
 
-<sup>2</sup> Die ständigen Delegationen in den internationalen parlamentarischen Versammlungen erstatten den Räten jährlich schriftlich Bericht über ihre Tätigkeit. Die Berichte werden von den APK beziehungsweise, für den Bericht der Delegation zur PV-NATO, von den Sicherheitspolitischen Kommissionen der beiden Räte vorberaten.
+<sup>2</sup> Die ständigen Delegationen in den internationalen parlamentarischen Versammlungen und die PD-OECD erstatten den Räten jährlich schriftlich Bericht über ihre Tätigkeit.[^9-1] Die Berichte werden von den APK beziehungsweise, für den Bericht der Delegation zur PV-NATO, von den Sicherheitspolitischen Kommissionen der beiden Räte vorberaten.
 
 <sup>3</sup> Die ständigen Delegationen nach Artikel 4, vertreten durch ihre Präsidentin oder ihren Präsidenten, erstatten den Räten mindestens einmal pro Legislaturperiode schriftlich Bericht über ihre Tätigkeit. Die Berichte werden von den APK der beiden Räte vorberaten.
+
+[^9-1]: Fassung gemäss Ziff. I der V der BVers vom 1. Okt. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [BBl 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 9a
 
@@ -168,7 +189,7 @@ Das Register enthält folgende Angaben:
 - a. Liste der Reisen jeweils mit Angabe des verantwortlichen Organs, des Grundes, des Zielortes und der Namen der teilnehmenden Ratsmitglieder;
 - b. jährliche Kosten der Reisen pro Organ.
 
-[^9a-1]: Eingefügt durch Ziff. II der V der BVers vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^9a-1]: Eingefügt durch Ziff. II der V der BVers vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 10
 

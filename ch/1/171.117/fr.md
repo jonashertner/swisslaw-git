@@ -4,11 +4,11 @@ title: "Ordonnance de l'Assemblée fédérale du 28 septembre 2012 sur les relat
 short: ORInt
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/613"
 language: fr
-version: 2019-12-02
+version: 2021-11-01
 adopted: 2012-09-28
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/613/20191202/fr/xml/fedlex-data-admin-ch-eli-cc-2012-613-20191202-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/613/20191202/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/613/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-613-20211101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/613/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/613/20191202/fr"
 
 (ORInt)
 
-du 28 septembre 2012 (Etat le 2 décembre 2019)
+du 28 septembre 2012 (État le 1<sup>er</sup> novembre 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -56,6 +56,14 @@ L’Assemblée fédérale est représentée par des délégations permanentes au
 - e. l’Assemblée parlementaire de l’Organisation pour la sécurité et la coopération en Europe (AP-OSCE);
 - f. l’Assemblée parlementaire de l’Organisation du traité de l’Atlantique Nord (AP-OTAN).
 
+#### Art. 2a
+
+**Délégation parlementaire permanente pour la participation aux activités s’inscrivant dans le cadre de l’OCDE**[^2a-1]
+
+L’Assemblée fédérale est représentée aux activités organisées dans le cadre de l’Organisation de coopération et de développement économiques (OCDE) par une délégation parlementaire permanente (DP-OCDE).
+
+[^2a-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
+
 #### Art. 3
 
 **Relations avec le Parlement européen**
@@ -70,7 +78,7 @@ L’Assemblée fédérale est représentée par des délégations permanentes au
 
 <sup>5</sup> Lorsqu’un objet traité par l’Assemblée fédérale concerne la politique européenne, la Délégation AELE/UE, à moins qu’elle ne soit elle-même l’auteur du rapport relatif à cet objet, rédige en règle générale un co-rapport.
 
-[^3-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^3-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 4
 
@@ -119,7 +127,11 @@ Les délégations permanentes auprès d’assemblées parlementaires internation
 - e. *AP-OSCE:* trois membres du Conseil national et trois membres du Conseil des États; un membre du Conseil national et un membre du Conseil des États sont désignés membres suppléants;
 - f. *AP-OTAN:* deux membres du Conseil national et deux membres du Conseil des États; un membre du Conseil national et un membre du Conseil des États sont désignés membres suppléants; la délégation se compose en règle générale du président et du vice-président des Commissions de la politique de sécurité des deux conseils; les membres suppléants sont en règle générale les anciens présidents de ces commissions.
 
+<sup>1bis</sup> La DP-OCDE se compose de deux membres du Conseil national et de deux membres du Conseil des États; deux membres du Conseil national et deux membres du Conseil des États sont désignés membres suppléants. Les membres sont choisis notamment de manière à représenter les différentes commissions.[^6-1]
+
 <sup>2</sup> Chaque délégation chargée des relations avec les parlements des États limitrophes se compose de trois membres du Conseil national et de deux membres du Conseil des États. Trois membres du Conseil national et deux membres du Conseil des États sont désignés membres suppléants. Les membres sont choisis notamment en fonction de leurs connaissances linguistiques.
+
+[^6-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 7
 
@@ -127,9 +139,11 @@ Les délégations permanentes auprès d’assemblées parlementaires internation
 
 <sup>1</sup> Les délégations se constituent elles-mêmes. Elles désignent pour une période de deux ans un président et un vice-président.
 
-<sup>2</sup> Les membres des délégations énumérées à l’art. 2, let. b à f, ne peuvent se faire remplacer que par des membres suppléants.
+<sup>2</sup> Les membres des délégations énumérées aux art. 2, let. b à f, 2*a* et 4 ne peuvent se faire remplacer que par des membres suppléants.[^7-1]
 
 <sup>3</sup> Les délégations prennent leurs décisions à la majorité des membres votants.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 8
 
@@ -137,13 +151,18 @@ Les délégations permanentes auprès d’assemblées parlementaires internation
 
 <sup>1</sup> Les délégations permanentes auprès des assemblées parlementaires internationales prennent part, sur mandat de l’Assemblée fédérale, aux activités des assemblées parlementaires internationales. Elles respectent les règlements et les usages de l’assemblée parlementaire internationale concernée.
 
+<sup>1bis</sup> La DP-OCDE participe, sur mandat de l’Assemblée fédérale, aux activités organisées dans le cadre de l’OCDE à l’intention des membres des parlements nationaux, notamment aux activités du Réseau parlementaire mondial de l’OCDE.[^8-1]
+
 <sup>2</sup> Les délégations permanentes chargées des relations avec les parlements des États limitrophes rencontrent périodiquement, dans les limites du budget disponible, la délégation du pays partenaire.
 
 <sup>3</sup> Elles tiennent compte des règlements en vigueur dans les parlements des États limitrophes et de leurs usages dans les relations avec d’autres États.
 
-<sup>4</sup> Les délégations visées aux al. 1 et 2 coordonnent leurs activités avec celles des CPE. Elles chargent chacune un ou plusieurs représentants de discuter conjointement avec les CPE, au moins une fois par an, les thèmes importants.
+<sup>4</sup> Les délégations visées aux al. 1 à 2 coordonnent leurs activités avec celles des CPE.[^8-2] Elles chargent chacune un ou plusieurs représentants de discuter conjointement avec les CPE, au moins une fois par an, les thèmes importants.
 
 <sup>5</sup> Les présidents des délégations et des CPE coordonnent les activités des délégations et des commissions lors d’une conférence des présidents se réunissant une fois par an.
+
+[^8-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 9
 
@@ -151,9 +170,11 @@ Les délégations permanentes auprès d’assemblées parlementaires internation
 
 <sup>1</sup> Les CPE présentent aux deux conseils, au moins une fois par législature, un rapport écrit sur les activités des délégations visées à l’art. 1.
 
-<sup>2</sup> Les délégations permanentes auprès des assemblées parlementaires internationales présentent chaque année aux deux conseils un rapport écrit sur leurs activités. Ces rapports sont soumis à l’examen préalable des CPE; le rapport de la Délégation auprès de l’AP-OTAN est soumis à l’examen préalable des Commissions de la politique de sécurité.
+<sup>2</sup> Les délégations permanentes auprès des assemblées parlementaires internationales et la DP-OCDE présentent chaque année aux deux conseils un rapport écrit sur leurs activités.[^9-1] Ces rapports sont soumis à l’examen préalable des CPE; le rapport de la Délégation auprès de l’AP-OTAN est soumis à l’examen préalable des Commissions de la politique de sécurité.
 
 <sup>3</sup> Les délégations permanentes visées à l’art. 4 présentent aux deux conseils, au moins une fois par législature, un rapport écrit sur leurs activités, rédigé par leurs présidents respectifs. Ces rapports sont soumis à l’examen préalable des CPE.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 9a
 
@@ -168,7 +189,7 @@ Le registre comporte les données suivantes:
 - a. la liste des voyages et, pour chacun d’eux, l’organe responsable, le motif, la destination et les noms des députés ayant participé au voyage en question;
 - b. les frais annuels de voyage par organe.
 
-[^9a-1]: Introduit par le ch. II de l’O de l’Ass. féd. du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^9a-1]: Introduit par le ch. II de l’O de l’Ass. féd. du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 10
 

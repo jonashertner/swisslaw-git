@@ -4,11 +4,11 @@ title: "Ordinanza dell'Assemblea federale del 28 settembre 2012 sulle relazioni 
 short: ORInt
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/613"
 language: it
-version: 2019-12-02
+version: 2021-11-01
 adopted: 2012-09-28
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/613/20191202/it/xml/fedlex-data-admin-ch-eli-cc-2012-613-20191202-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/613/20191202/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/613/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2012-613-20211101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/613/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/613/20191202/it"
 
 (ORInt)
 
-del 28 settembre 2012 (Stato 2 dicembre 2019)
+del 28 settembre 2012 (Stato 1° novembre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -56,6 +56,14 @@ L’Assemblea federale è rappresentata da delegazioni permanenti nelle seguenti
 - e. Assemblea parlamentare dell’Organizzazione per la sicurezza e la cooperazione in Europa (AP-OSCE);
 - f. Assemblea parlamentare dell’Organizzazione del trattato dell’Atlantico del Nord (AP-NATO).
 
+#### Art. 2a
+
+**Delegazione parlamentare permanente per la partecipazione alle attività nel quadro dell’OCSE**[^2a-1]
+
+L’Assemblea federale è rappresentata da una delegazione parlamentare permanente (DP-OCSE) nelle attività svolte nel quadro dell’Organizzazione per la cooperazione economica e lo sviluppo (OCSE).
+
+[^2a-1]: Introdotto dal n. I dell’O dell’AF del 1° ott. 2021, in vigore dal 1° nov. 2021 ([RU 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
+
 #### Art. 3
 
 **Relazioni con il Parlamento europeo**
@@ -64,7 +72,7 @@ L’Assemblea federale è rappresentata da delegazioni permanenti nelle seguenti
 
 <sup>2</sup> I presidenti delle CPE e della Delegazione AELS/UE hanno il diritto di curare le relazioni con il Parlamento europeo.
 
-3 Se i Servizi del Parlamento non sono in grado di svolgere essi stessi i lavori necessari possono rivolgersi alla Direzione degli affari europei (DAE)[^3-1] e al punto di contatto alla Missione svizzera presso l’UE a Bruxelles.
+<sup>3</sup> Se i Servizi del Parlamento non sono in grado di svolgere essi stessi i lavori necessari possono rivolgersi alla Direzione degli affari europei (DAE)[^3-1] e al punto di contatto alla Missione svizzera presso l’UE a Bruxelles.
 
 <sup>4</sup> A fini di coordinamento, le CPE si incontrano una volta all’anno con la Delegazione AELS/UE per discutere delle relazioni con il Parlamento europeo.
 
@@ -119,7 +127,11 @@ Le delegazioni permanenti in assemblee parlamentari internazionali si compongono
 - e. *AP-OSCE:* di tre membri del Consiglio nazionale e di tre membri del Consiglio degli Stati; quali membri supplenti vengono designati un membro del Consiglio nazionale e un membro del Consiglio degli Stati;
 - f. *AP-NATO:* di due membri del Consiglio nazionale e di due membri del Consiglio degli Stati; quali membri supplenti vengono designati un membro del Consiglio nazionale e un membro del Consiglio degli Stati; di regola, la delegazione è composta dei presidenti e dei vicepresidenti delle Commissioni della politica di sicurezza delle due Camere; di regola, quali membri supplenti vengono designati gli ex presidenti di queste Commissioni.
 
+<sup>1bis</sup> La DP-OCSE si compone di due membri del Consiglio nazionale e di due membri del Consiglio degli Stati; quali membri supplenti vengono designati due membri del Consiglio nazionale e due membri del Consiglio degli Stati. I membri della Delegazione sono designati in modo da rappresentare le varie commissioni.[^6-1]
+
 <sup>2</sup> Le delegazioni permanenti per le relazioni con i parlamenti degli Stati limitrofi si compongono di tre membri del Consiglio nazionale e di due membri del Consiglio degli Stati. Quali membri supplenti vengono designati tre membri del Consiglio nazionale e due membri del Consiglio degli Stati. Nella nomina delle delegazioni si tengono in considerazione le conoscenze linguistiche dei membri della delegazione.
+
+[^6-1]: Introdotto dal n. I dell’O dell’AF del 1° ott. 2021, in vigore dal 1° nov. 2021 ([RU 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 7
 
@@ -127,9 +139,11 @@ Le delegazioni permanenti in assemblee parlamentari internazionali si compongono
 
 <sup>1</sup> Le delegazioni si costituiscono da sé. Esse designano per un biennio un presidente e un vicepresidente.
 
-<sup>2</sup> I membri delle delegazioni di cui all’articolo 2 lettere b–f possono farsi rappresentare unicamente da membri supplenti.
+<sup>2</sup> I membri delle delegazioni di cui agli articoli 2 lettere b–f, 2*a* e 4 possono farsi rappresentare unicamente dai membri supplenti.[^7-1]
 
 <sup>3</sup> Le delegazioni decidono a maggioranza dei membri votanti.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O dell’AF del 1° ott. 2021, in vigore dal 1° nov. 2021 ([RU 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 8
 
@@ -137,13 +151,18 @@ Le delegazioni permanenti in assemblee parlamentari internazionali si compongono
 
 <sup>1</sup> Su mandato dell’Assemblea federale, le delegazioni permanenti nelle assemblee parlamentari internazionali prendono parte alle attività di queste ultime. Si attengono ai regolamenti e alla prassi dell’assemblea parlamentare internazionale in questione.
 
+<sup>1bis</sup> Su mandato dell’Assemblea federale, la DP-OCSE prende parte alle attività nel quadro dell’OCSE destinate ai membri dei Parlamenti nazionali, segnatamente alle attività del «Réseau parlementaire mondial de l’OCDE».[^8-1]
+
 <sup>2</sup> Le delegazioni permanenti per le relazioni con i parlamenti degli Stati limitrofi si incontrano periodicamente, entro i limiti dei mezzi finanziari a loro disposizione, con le delegazioni dei loro Paesi partner.
 
 <sup>3</sup> Tengono conto delle disposizioni vigenti nei parlamenti dei Paesi partner e della prassi usuale per la cura delle relazioni con altri Stati.
 
-<sup>4</sup> Le delegazioni di cui ai capoversi 1 e 2 coordinano le loro attività con quelle delle CPE. Una rappresentanza comune di tutte le delegazioni discute i temi importanti con le CPE almeno una volta all’anno.
+<sup>4</sup> Le delegazioni di cui ai capoversi 1–2 coordinano le loro attività con quelle delle CPE.[^8-2] Una rappresentanza comune di tutte le delegazioni discute i temi importanti con le CPE almeno una volta all’anno.
 
 <sup>5</sup> I presidenti delle delegazioni e delle CPE coordinano le attività delle delegazioni e delle commissioni nell’ambito di una conferenza annuale.
+
+[^8-1]: Introdotto dal n. I dell’O dell’AF del 1° ott. 2021, in vigore dal 1° nov. 2021 ([RU 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
+[^8-2]: Nuovo testo giusta il n. I dell’O dell’AF del 1° ott. 2021, in vigore dal 1° nov. 2021 ([RU 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 9
 
@@ -151,9 +170,11 @@ Le delegazioni permanenti in assemblee parlamentari internazionali si compongono
 
 <sup>1</sup> Almeno una volta nella legislatura, le CPE presentano alle Camere un rapporto scritto sulle attività delle delegazioni di cui all’articolo 1.
 
-<sup>2</sup> Ogni anno, le delegazioni permanenti nelle assemblee parlamentari internazionali presentano alle Camere un rapporto scritto sulla loro attività. Tali rapporti sono sottoposti all’esame preliminare delle CPE o, nel caso del rapporto della delegazione nell’AP-NATO, delle Commissioni della politica di sicurezza.
+<sup>2</sup> Ogni anno, le delegazioni permanenti nelle assemblee parlamentari internazionali e la DP-OCSE presentano alle Camere un rapporto scritto sulla loro attività.[^9-1] Tali rapporti sono sottoposti all’esame preliminare delle CPE o, nel caso del rapporto della delegazione nell’AP-NATO, delle Commissioni della politica di sicurezza.
 
 <sup>3</sup> Almeno una volta nella legislatura, le delegazioni permanenti di cui all’articolo 4, rappresentate dal loro presidente, presentano alle Camere un rapporto scritto sulle loro attività. Tali rapporti sono sottoposti all’esame preliminare delle CPE.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O dell’AF del 1° ott. 2021, in vigore dal 1° nov. 2021 ([RU 2021 613](https://fedlex.data.admin.ch/eli/oc/2021/613); [FF 2021 999](https://fedlex.data.admin.ch/eli/fga/2021/999), [1210](https://fedlex.data.admin.ch/eli/fga/2021/1210)).
 
 #### Art. 9a
 
@@ -168,7 +189,7 @@ Il registro contiene i seguenti dati:
 - a. l’elenco delle trasferte, con indicazione dell’organo responsabile, del motivo, della destinazione e del nome dei parlamentari che vi partecipano;
 - b. i costi annuali delle trasferte per ogni organo.
 
-[^9a-1]: Introdotto dal n. II dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^9a-1]: Introdotto dal n. II dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995), [5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 10
 
