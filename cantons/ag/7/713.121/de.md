@@ -4,13 +4,13 @@ number: "713.121"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2018-01-01
-valid_until: 2021-10-31
-version_adopted: 2017-11-08
+version: 2021-11-01
+valid_until: 2021-12-31
+version_adopted: 2021-08-25
 adopted: 2011-05-25
 in_force: 2011-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3012/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3076/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,18 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3012/pdf_file"
 
 (BauV)
 
-Vom 25.05.2011 (Stand 01.01.2018)
+Vom 25.05.2011 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 17 Abs. 4, 50 Abs. 4, 50a, 51, 52 Abs. 3, 53 Abs. 2, 56 Abs. 5, 66, 100 und 164a des Gesetzes über Raumentwicklung und Bauwesen (Baugesetz, BauG) vom 19. Januar 1993[^ingress-1], § 5 des Energiegesetzes des Kantons Aargau (EnergieG) vom 9. März 1993[^ingress-2] und § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-3],
+gestützt auf Art. 15 des Bundesgesetzes über Zweitwohnungen (Zweitwohnungsgesetz, ZWG) vom 20. März 2015[^ingress-1], § 91 Abs. 2<sup>bis</sup> der Kantonsverfassung, die §§ 17 Abs. 4, 50 Abs. 4, 50a, 51, 52 Abs. 3, 53 Abs. 2, 56 Abs. 5, 66, 100 und 164a des Gesetzes über Raumentwicklung und Bauwesen (Baugesetz, BauG) vom 19. Januar 1993[^ingress-2], § 5 des Energiegesetzes des Kantons Aargau (EnergieG) vom 9. März 1993[^ingress-3] und § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-4],
 
 beschliesst:
 
-[^ingress-1]: SAR [713.100](https://gesetzessammlungen.ag.ch/data/713.100/de)
-[^ingress-2]: SAR [773.100](https://gesetzessammlungen.ag.ch/data/773.100/de)
-[^ingress-3]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
+[^ingress-1]: SR [702](https://db.clex.ch/link/Bund/702/de)
+[^ingress-2]: SAR [713.100](https://gesetzessammlungen.ag.ch/data/713.100/de)
+[^ingress-3]: SAR [773.100](https://gesetzessammlungen.ag.ch/data/773.100/de)
+[^ingress-4]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
 
 ## 1. Regionale und kommunale Raumentwicklung
 
@@ -56,13 +57,24 @@ beschliesst:
 
 <sup>1</sup> Der Kommunale Gesamtplan Verkehr legt die Ziele der Verkehrsentwicklung einer Gemeinde für die nächsten 10 bis 15 Jahre fest. Er bezieht alle Aspekte der Mobilität ein und zeigt auf, wie die Verkehrskapazitäten mit der Siedlungsentwicklung abzustimmen sind.
 
-<sup>2</sup> Mögliche Inhalte sind namentlich
+<sup>2</sup> In Abstimmung mit der Siedlungsentwicklung sowie den bestehenden und geplanten Nutzungen sind darin zu behandeln:
 
-- a) Angaben zur Klassierung der Strassen und zur Gestaltung und Entwicklung des Strassennetzes, des öffentlichen Verkehrs sowie des Fuss- und des Radverkehrsnetzes,
-- b) Erschliessung, Parkierung (Bereitstellung, Begrenzung und Bewirtschaftung), Parkleitsysteme, Verkehrsberuhigungsmassnahmen sowie andere Massnahmen zur Gestaltung des Verkehrsablaufs,
-- c) Massnahmen zur Beeinflussung der Verkehrsnachfrage und einer nachhaltigen Abwicklung des Personen- und Güterverkehrs,
-- d) Konzept, wie die Umsetzungs- und Wirkungsziele erreicht und allenfalls angepasst werden,
-- e) Grundsätze für das Reglement betreffend Ersatzabgaben für Parkfelder.
+- a) die Kapazitäten des Strassennetzes sowie die Klassierung der Gemeindestrassen,
+- b) das Angebot des öffentlichen Verkehrs sowie dessen Infrastruktur (z.B. Haltestellen),
+- c) die Qualität und Dichte der Netze des Fuss- und Veloverkehrs,
+- d) die Anzahl und Qualität der Veloabstellplätze an Haltestellen des öffentlichen Verkehrs,
+- e) die Bemessung und gegebenenfalls Begrenzung, Herabsetzung und Bewirtschaftung der privaten, öffentlichen und öffentlich zugänglichen Parkfelder,
+- f) die Möglichkeiten des Mobilitätsmanagements für die Zielgruppen der Bevölkerung und der Verkehrserzeugenden.
+
+<sup>3</sup> Mögliche weitere Inhalte sind namentlich:
+
+- a) detaillierte Schwachstellenanalyse der Netze des Fuss- und Veloverkehrs,
+- b) Schulverkehr,
+- c) Betrieb und Gestaltung des Strassenraums mit Fokus auf Sicherheit, Aufenthaltsqualität und Lärmbelastung,
+- d) Fragen zu Schleichverkehr und zur Lenkung der Verkehrsströme,
+- e) Belastungen durch Schwerverkehr,
+- f) die planerische Verankerung des Mobilitätsmanagements,
+- g) Handlungsbedarf bei den Umsteigeanlagen der kombinierten Mobilität.
 
 #### § 3
 
@@ -80,13 +92,13 @@ beschliesst:
 
 **Innere Siedlungsentwicklung, Siedlungsqualität und Verkehr (§ 13 BauG)**
 
-<sup>1</sup> Die Gemeinde zeigt bei Einzonungen namentlich auf,
+<sup>1</sup> Die Gemeinde zeigt bei Gesamtrevisionen oder umfassenderen Teilrevisionen der Nutzungsplanung namentlich auf,
 
 - a) welche Nutzungsreserven im Baugebiet bestehen,
 - b) Massnahmen zur Erhöhung und Ausschöpfung der Nutzungsreserven in den überbauten und unüberbauten Bauzonen,
 - c) wie die unüberbauten Bauzonen zeitgerecht und tatsächlich verfügbar gemacht werden,
-- d) wie die Wohnqualität und die Qualität der Aussen- und Naherholungsräume, namentlich in Zentren und Agglomerationen, verbessert werden,
-- e) mit welchen Konzepten und Massnahmen eine hohe Siedlungsqualität erreicht wird, wenn das eingezonte Gebiet zusammenhängend grösser ist als 5'000 m².
+- d) wie die Wohnqualität und die Qualität der Aussen- und Naherholungsräume, namentlich durch Massnahmen zur lokalen Hitzeminderung, Biodiversitätsförderung sowie Lärmsenkung, verbessert werden,
+- e) mit welchen Konzepten und Massnahmen eine hohe Siedlungsqualität erreicht wird, wenn das neu eingezonte Gebiet zusammenhängend grösser ist als 5'000 m².
 
 <sup>2</sup> Sie stimmt bei Ein- und Umzonungen Siedlung und Verkehr aufeinander ab und legt dar,
 
@@ -139,14 +151,14 @@ beschliesst:
 - c) Vorschriften im Interesse des Natur-, Ortsbild-, Denkmal-, Gewässer- und Umweltschutzes sowie der Siedlungsqualität,
 - d) Vorschriften über energieeffizientes Bauen.
 
-<sup>2</sup> Wenn die Gemeinden nichts anderes festlegen, dürfen Gestaltungspläne von den allgemeinen Nutzungsplänen abweichen bezüglich
+<sup>2</sup> Wenn die Gemeinden nichts anderes festlegen, dürfen Gestaltungspläne von den allgemeinen Nutzungsplänen namentlich abweichen bezüglich
 
 - a) Bauweise, Baumasse (höchstens jedoch um ein zusätzliches Geschoss), Gestaltung der Bauten (Gebäude- und Dachform) und Abständen,
 - b) Nutzungsart, soweit überwiegende Schutzinteressen (Lärmschutz, Denkmalschutz usw.) es erfordern,
 - c) Herabsetzung der Parkfelderzahl,
 - d) Lärmempfindlichkeitsstufen, wenn es um lärmvorbelastete Flächen gemäss Art. 43 Abs. 2 der Lärmschutz-Verordnung (LSV) vom 15. Dezember 1986[^8-1] geht.
 
-<sup>3</sup> Bei Abweichungen vom allgemeinen Nutzungsplan zeigt der Gemeinderat auf, wie diese zu einem siedlungs- und landschaftsgestalterisch besseren Ergebnis führen. Er beauftragt eine qualifizierte Fachperson mit der Ausarbeitung der Stellungnahme. Die Stellungnahme ist mit dem Entwurf öffentlich aufzulegen.
+<sup>3</sup> Bei Abweichungen vom allgemeinen Nutzungsplan zeigt der Gemeinderat auf, wie diese zu einem siedlungs- und landschaftsgestalterisch besseren Ergebnis führen.
 
 <sup>4</sup> Im Gestaltungsplangebiet sind die Vorschriften für Arealüberbauungen nicht anwendbar.
 
@@ -206,6 +218,51 @@ beschliesst:
 
 <sup>1</sup> Das Departement erlässt Empfehlungen für Vorgehen und Inhalt sowie technische Richtlinien für die Form der Nutzungspläne und regionalen Sachpläne (wie Massstab, Datenmodelle und Datenabgabe, Mustererlasse, notwendige Beilagen, Anzahl Exemplare für die Vorprüfung und die Genehmigung).
 
+#### § 15a
+
+**Verletzung überfälliger Umsetzungspflichten**
+
+<sup>1</sup> Wird eine überfällige Umsetzung von kantonalen oder Bundesvorgaben ohne triftigen Grund nicht vorgenommen, weist die Genehmigungsbehörde die Vorlage als Ganzes zurück.
+
+## 2<sup>bis</sup> Definitionen
+
+#### § 15b
+
+**Wohnanteil**
+
+<sup>1</sup> Der Wohnanteil ist das Verhältnis der Summe der anrechenbaren Geschossflächen für Wohnzwecke zur Gesamtsumme der anrechenbaren Geschossflächen (§ 32 Abs. 2). § 32 Abs. 3 ist nicht anwendbar.
+
+#### § 15c
+
+**Störende Betriebe**
+
+<sup>1</sup> Als nicht störend gelten in Wohnquartiere passende Kleinbetriebe mit geringem Zubringerverkehr, die keine erheblich grösseren Auswirkungen entfalten, als sie aus dem Wohnen entstehen.
+
+<sup>2</sup> Als mässig störend gelten Betriebe mit Auswirkungen, die im Rahmen herkömmlicher Handwerks-, Gewerbe- und Dienstleistungsbetriebe bleiben und auf die üblichen Arbeits- und Öffnungszeiten beschränkt sind.
+
+<sup>3</sup> Als stark störend gelten insbesondere Betriebe, die ein hohes Mass an quartierunüblichem Verkehr verursachen.
+
+#### § 15d
+
+**Verkaufsfläche**
+
+<sup>1</sup> Die Verkaufsfläche (Nettoladenfläche) ist die der Kundschaft zugängliche Fläche samt den Flächen für Gestelle, Auslagen und dergleichen, aber ohne Sanitärräume, Flächen für die Verkehrserschliessung und dergleichen.
+
+## 2<sup>ter</sup> Einordnung von Bauten und Anlagen (§ 42 BauG)
+
+#### § 15e
+
+**Allgemeine Anforderungen**
+
+<sup>1</sup> Der Gemeinderat beurteilt die Einordnung von Gebäuden und Aussenräumen in die Umgebung nach folgenden Kriterien:
+
+- a) Stellung und Wirkung im Strassenraum,
+- b) Proportionen und Dimensionen der Bauten,
+- c) Form, Staffelung und Gliederung der Bauten,
+- d) Dachform, Dachneigung und Dachaufbauten,
+- e) Gestaltung, Materialisierung und Farbgebung von Fassaden und Dächern,
+- f) Ausgestaltung von Aussenräumen wie namentlich Grundstückzufahrten und -zugänge, Abstellplätze, Vorgärten und Grünflächen.
+
 ## 3. Baubegriffe und Messweisen
 
 #### § 16
@@ -220,7 +277,13 @@ beschliesst:
 
 **Terrassenhäuser**
 
-<sup>1</sup> Terrassenhäuser sind in der Höhe gestaffelte Gebäude (Ziff. 6.1 Anhänge IVHB) mit Gebäudestufen, die der Hangneigung nach versetzt sind, wenn das Gefälle des massgebenden Terrains grösser ist als 10 % und das Verhältnis der Grundflächen von Terrasse und zurückversetzter Gebäudeeinheit mindestens 1:3 beträgt.
+<sup>1</sup> Terrassenhäuser sind in der Höhe gestaffelte Gebäude (Ziff. 6.1 Anhang 1 IVHB), wenn die Gebäudestufen der Hangneigung nach versetzt sind und das Verhältnis der Grundflächen von Terrasse und zurückversetzter Gebäudeeinheit mindestens 1:3 beträgt. Teile des Gebäudekubus, die vollständig unter dem massgebenden Terrain liegen und nicht sichtbar sind, sind nicht mitzurechnen.
+
+#### § 17a
+
+**Hang**
+
+<sup>1</sup> Als Hang gilt eine Neigung des massgebenden Terrains von mehr als 10 %.
 
 #### § 18
 
@@ -237,10 +300,12 @@ beschliesst:
 <sup>1</sup> Für Klein- und Anbauten gelten folgende Höchstmasse:
 
 - a) Gebäudefläche: 40 m²,
-- b) traufseitige Fassadenhöhe: 3 m; ist das massgebende Terrain geneigt, vergrössert sich die zulässige Höhe um die Hälfte der Höhendifferenz innerhalb des Grundrisses,
-- c) Dachneigung: maximal 45°, wenn die Gemeinde nichts anderes festlegt.
+- b) traufseitige Fassadenhöhe: 3 m; ist das massgebende Terrain geneigt, vergrössert sich die zulässige Höhe um die Hälfte der Höhendifferenz innerhalb des Grundrisses. Bei Pultdächern gilt die Höhenbegrenzung für alle Fassadenseiten,
+- c) Dachneigung: maximal 45°.
 
-<sup>2</sup> Wenn die Gemeinde nichts anderes festlegt, gilt für Klein- und Anbauten ein Grenzabstand von 2 m, welcher mit schriftlicher Zustimmung der betroffenen Nachbarschaft reduziert oder aufgehoben werden kann.
+<sup>2</sup> Für Klein- und Anbauten, einschliesslich Kleinstbauten (§ 49 Abs. 2 lit. d), gilt ein Grenzabstand von 2 m, der mit schriftlicher Zustimmung der betroffenen Nachbarschaft reduziert oder aufgehoben werden kann.
+
+<sup>3</sup> Kabelverteilkästen und ähnliche Bauten im öffentlichen Interesse dürfen unter angemessener Rücksichtnahme auf die Interessen der Betroffenen an die Parzellengrenze gestellt werden.
 
 #### § 20
 
@@ -256,7 +321,7 @@ beschliesst:
 
 <sup>1</sup> Vorspringende Gebäudeteile ragen höchstens 1,50 m, bei Klein- und Anbauten höchstens 60 cm über die Fassadenflucht (Mass a) und dürfen – mit Ausnahme von Dachvorsprüngen und Vordächern – pro Gebäudeeinheit gesamthaft nicht breiter sein als ein Drittel des zugehörigen Fassadenabschnitts (Mass b).
 
-<sup>2</sup> Sie dürfen den Grenz- und den Waldabstand unterschreiten und entsprechende Baulinien überschreiten.
+<sup>2</sup> Sie dürfen den Grenz- und den Waldabstand unterschreiten und entsprechende Baulinien überschreiten. Baubereichsgrenzen eines Sondernutzungsplans dürfen sie nur überschreiten, wenn der Plan dies ausdrücklich zulässt.
 
 <sup>3</sup> In den Abstandsraum von Strassen dürfen ragen:
 
@@ -265,13 +330,23 @@ beschliesst:
 
 <sup>4</sup> Abweichende Bestimmungen in Sondernutzungsplänen und Strassenbauprojekten bleiben vorbehalten.
 
+#### § 21a
+
+**Nichtanrechnung an die Fassadenhöhe (Ziff. 5.2 Anhänge IVHB)**
+
+<sup>1</sup> Ohne Einfluss auf die Berechnung der Fassadenhöhe sind
+
+- a) Dachdurchbrüche, die von Fassadenflucht oder Dachrand um wenigstens 50 cm zurückversetzt sind,
+- b) Dachdurchbrüche, die fassadenbündig angeordnet oder weniger stark zurückversetzt sind als gemäss lit. a, wenn sie nicht breiter sind als ein Drittel der Fassadenlänge,
+- c) Attikageschossfassaden, die um das Mass ihrer Höhe zurückversetzt sind.
+
 #### § 22
 
 **Geschosshöhe (§ 49 BauG)**
 
 <sup>1</sup> Die Geschosshöhe ist die Höhe von Oberkante bis Oberkante der fertigen Böden.
 
-<sup>2</sup> Wenn die Gemeinde die Geschosszahl festlegt, aber kein Mass für die Gesamthöhe oder Fassadenhöhe vorgibt, darf die Höhe der Vollgeschosse und des Attikageschosses im Durchschnitt höchstens 3,20 m betragen.
+<sup>2</sup> Wenn die Gemeinde die zulässige Höhe eines Gebäudes nicht anderweitig begrenzt, darf die Höhe der Vollgeschosse und des Attikageschosses, vorbehältlich abweichender kommunaler Regelungen, im Durchschnitt höchstens 3,20 m betragen.
 
 #### § 23
 
@@ -285,10 +360,10 @@ beschliesst:
 
 **Dachgeschosse (Ziff. 6.3 Anhänge IVHB)**
 
-<sup>1</sup> Wenn die Gemeinde nichts anderes festlegt, darf
+<sup>1</sup> Bei einem Dachgeschoss darf
 
 - a) die Kniestockhöhe (Mass b) nicht mehr als 1,20 m betragen,
-- b) die grosse Kniestockhöhe (Mass d) nicht mehr als 3,50 m betragen. Legt die Gemeinde kein Mass für die Gesamthöhe oder die giebelseitige Fassadenhöhe fest, darf die Gesamthöhe eines asymmetrischen Dachs die Gesamthöhe eines symmetrischen Dachs nicht überragen,
+- b) die grosse Kniestockhöhe (Mass d) nicht mehr als 3,50 m betragen. Fehlt eine Begrenzung der Gesamthöhe, darf die Höhe eines asymmetrischen Dachs die Höhe eines angenommenen symmetrischen Dachs nicht überragen,
 - c) …
 - d) die Dachneigung nicht steiler sein als 45°.
 
@@ -306,7 +381,7 @@ beschliesst:
 
 **Attikageschosse (Ziff. 6.4 Anhänge IVHB)**
 
-<sup>1</sup> Die Grundfläche eines Attikageschosses darf höchstens 60 % der Fläche eines Vollgeschosses betragen. Balkone zählen nicht zur Vollgeschossfläche.
+<sup>1</sup> Die Grundfläche eines Attikageschosses darf höchstens 60 % der Fläche eines Vollgeschosses betragen. Balkone, Loggias ausgenommen, zählen nicht zur Vollgeschossfläche, unabhängig davon, ob sie verglast oder unverglast sind.
 
 <sup>1<sup>bis</sup></sup> Das Attikageschoss muss so platziert werden, dass es auf einer Längs- oder Breitseite mindestens um das Mass seiner Höhe gegenüber dem darunterliegenden Geschoss zurückversetzt ist. Soweit die Nachbargrundstücke nicht übermässig beeinträchtigt werden, ist im Übrigen die Anordnung der Grundfläche frei.
 
@@ -402,31 +477,62 @@ AZ = ∑aGF / aGSF
 
 **Nutzungsübertragung**
 
-<sup>1</sup> Wenn die Gemeinde nichts anderes festlegt, kann der Gemeinderat die Übertragung von Nutzungsziffern zwischen benachbarten Grundstücken bewilligen, wenn das Orts-, Quartier- und Landschaftsbild nicht übermässig beeinträchtigt wird. Die Übertragung über eine Zonengrenze ist nur innerhalb von Sondernutzungsplänen und Arealüberbauungen zulässig.
+<sup>1</sup> Der Gemeinderat kann die Übertragung von Nutzungsziffern zwischen benachbarten Grundstücken bewilligen, wenn das Orts-, Quartier- und Landschaftsbild nicht übermässig beeinträchtigt wird. Die Übertragung über eine Zonengrenze ist nur innerhalb von Sondernutzungsplänen und Arealüberbauungen zulässig.
 
 #### § 35
 
 **Nutzungsbonus (§ 50 BauG)**
 
-<sup>1</sup> Eine Erhöhung der Nutzungsziffern um 10 % wird gewährt für Neubauten und für die Modernisierung von Gebäuden, die 1990 oder später bewilligt worden sind, wenn die Gebäude den MINERGIE‑P®-Standard erreichen. Für früher bewilligte Gebäude genügt es, wenn sie mit der Modernisierung den MINERGIE®-Standard erhalten. Die Beurteilung erfolgt gemäss dem «Reglement zur Nutzung des Produktes MINERGIE‑P® der Qualitätsmarke MINERGIE®» und dem «Reglement zur Nutzung der Qualitätsmarke MINERGIE®», beide Stand Januar 2010.[^35-1]
+<sup>1</sup> Eine Erhöhung der Nutzungsziffern um 10 % wird gewährt für Neubauten und für die Modernisierung von Gebäuden, die 1990 oder später bewilligt worden sind, wenn die Gebäude den MINERGIE‑P®-Standard erreichen. Für früher bewilligte Gebäude genügt es, wenn sie mit der Modernisierung den MINERGIE®-Standard erhalten. Die Beurteilung erfolgt gemäss dem «Nutzungsreglement Marke MINERGIE®» und dem «Produktreglement Minergie-Gebäudestandards», beide Stand Januar 2021.[^35-1]
 
 <sup>2</sup> Für Gebäude einer Arealüberbauung, die den MINERGIE‑P®-Standard erreichen, wird zusätzlich zum Nutzungsbonus für Arealüberbauungen ein Nutzungsbonus von 5 % gewährt.
 
 <sup>3</sup> Bei Gestaltungsplänen, welche bereits eine gegenüber der Regelbauweise höhere Nutzungsziffer zulassen, wird kein zusätzlicher Nutzungsbonus gewährt.
 
-[^35-1]: Die Reglemente sind veröffentlicht unter: www.minergie.ch &gt; Dokumente & Tools &gt; MINERGIE® bzw. MINERGIE-P®. Sie sind einsehbar beim Departement Bau, Verkehr und Umwelt.
+[^35-1]: Die Reglemente sind veröffentlicht unter: www.minergie.ch &gt; Zertifizieren &gt; MINERGIE® bzw. MINERGIE-P® &gt; Arbeitsdokumente: Grundlagen. Sie sind einsehbar beim Departement Bau, Verkehr und Umwelt.
 
 ## 5. Energetische Sanierung
 
 #### § 36
 
-**Energetische Sanierung von Bauten und Anlagen (§ 51 Abs. 2 BauG, Art. 9 Abs. 3 lit. e EnG[^36-1])**
+**Energetische Sanierung von Bauten und Anlagen (§ 51 Abs. 2 BauG, Art. 45 Abs. 4 EnG[^36-1])**
 
 <sup>1</sup> Bei bestehenden Bauten und Anlagen ist eine für die Wärmedämmung oder zur besseren Nutzung einheimischer erneuerbarer Energien erforderliche Abweichung von den Vorschriften betreffend Gebäudemasse, Abstände und Baulinien um höchstens 20 cm zulässig. Ebenfalls ist eine dadurch entstehende Überschreitung der Nutzungsziffern erlaubt.
 
 <sup>2</sup> Unterschreiten die Bauten und Anlagen den Strassenabstand, ist für eine zusätzliche Abstandsunterschreitung gegenüber Kantonsstrassen die Zustimmung des Departements, gegenüber Gemeindestrassen und Privatstrassen im Gemeingebrauch die Zustimmung des Gemeinderats erforderlich.
 
-[^36-1]: Energiegesetz (EnG) vom 26. Juni 1998 (SR [730.0](https://db.clex.ch/link/Bund/730.0/de))
+[^36-1]: Energiegesetz (EnG) vom 30. September 2016 (SR [730.0](https://db.clex.ch/link/Bund/730.0/de))
+
+## 5<sup>bis</sup> Anforderungen an die Beschaffenheit von Bauten und Anlagen (§ 52 BauG)
+
+#### § 36a
+
+**Raummasse, Fenstergrössen, Nebenräume**
+
+<sup>1</sup> In Wohn-, Schlaf- und Arbeitsräumen von Neubauten gelten folgende Mindestmasse für die lichte Höhe und die Befensterung:
+
+- a) lichte Höhe für Vollgeschosse: 2,40 m,
+- b) lichte Höhe für Dachgeschosse: 2,40 m auf einer Fläche von mindestens 5 m²,
+- c) Fensterfläche: 1/10 der Bodenfläche; die Fenster müssen direkt ins Freie führen. Bei Dachflächenfenstern kann die Fensterfläche (Lüftungsöffnung) bis auf 1/15 der nutzbaren Bodenfläche (siehe § 32 Abs. 2 lit. a Ziff. 6) reduziert werden.
+
+<sup>2</sup> Neue Mehrfamilienhäuser müssen Nebenräume mit folgenden Mindestgrössen aufweisen:
+
+- a) im Estrich oder auf gleichem Geschoss wie die Wohnung: 4 m² pro Wohnung und
+- b) im Keller: 4 m² für eine 1-Zimmer-Wohnung, 1 m² zusätzlich für jedes weitere Zimmer.
+
+#### § 36b
+
+**Vogelfreundliches Bauen mit Glas**
+
+<sup>1</sup> Bei zusammenhängenden Glasflächen von mehr als 5 m² sind Massnahmen gegen Vogelkollisionen zu prüfen.
+
+#### § 36c
+
+**Schutz vor Hochwasser**
+
+<sup>1</sup> Für Bauten und Anlagen in durch Hochwasser oder Oberflächenabfluss gefährdetem Gebiet ist nachzuweisen, dass angemessene Schutzmassnahmen getroffen sowie Abflusswege und -höhen des Wassers nicht so beeinflusst werden, dass sich für Dritte nachteilige Auswirkungen ergeben.
+
+<sup>2</sup> Die Schutzmassnahmen sind mindestens auf ein 100-jährliches Ereignis auszurichten.
 
 ## 6. Hindernisfreies Bauen
 
@@ -463,9 +569,9 @@ AZ = ∑aGF / aGSF
 - b) gute architektonische Gestaltung der Bauten, Anlagen und Freiräume,
 - c) gute Einordnung in das Orts-, Quartier- und Landschaftsbild,
 - d) sorgfältige und rationelle Erschliessung und gemeinsame Autoabstellanlagen,
-- e) energieeffiziente Gebäude, welche
+- e) energieeffiziente Gebäude, die
   - 1\. den MINERGIE®-Standard erreichen oder
-  - 2\. höchstens 80 % des zulässigen Heizwärmebedarfs gemäss § 5 Abs. 4 der Energieverordnung (EnergieV) vom 27. Juni 2012[^39-1] benötigen und den Wärmebedarf für das Warmwasser mehrheitlich mit erneuerbarer Energie decken,
+  - 2\. höchstens 80 % des zulässigen Heizwärmebedarfs gemäss § 5 Abs. 4 der Energieverordnung (EnergieV) vom 27. Juni 2012[^39-1] benötigen und den Wärmebedarf für das Warmwasser mit erneuerbarer Energie decken,
 - f) gute Spiel-, Freizeit-, Erholungs- und Gartenanlagen sowie ökologische Ausgleichsflächen,
 - g) gemeinsame Entsorgungseinrichtungen.
 
@@ -495,38 +601,48 @@ AZ = ∑aGF / aGSF
 
 <sup>1</sup> Für die Beurteilung der Beschaffenheit öffentlicher Strassen gelten als Richtlinien die Normen des Schweizerischen Verbands der Strassen- und Verkehrsfachleute (VSS)[^41-1]
 
-- a) SN 640 040b «Projektierung, Grundlagen; Strassentypen» vom April 1992,
-- b) SN 640 042 «Projektierung, Grundlagen; Strassentyp: Hauptverkehrsstrassen» vom April 1992,
-- c) SN 640 043 «Projektierung, Grundlagen; Strassentyp: Verbindungsstrassen» vom April 1992,
-- d) SN 640 044 «Projektierung, Grundlagen; Strassentyp: Sammelstrassen» vom April 1992,
-- e) SN 640 045 «Projektierung, Grundlagen; Strassentyp: Erschliessungsstrassen» vom April 1992,
+- a) VSS 40 040b «Projektierung, Grundlagen; Strassentypen» vom 31. März 2019,[^41-2]
+- b) VSS 40 042 «Projektierung, Grundlagen; Strassentyp: Hauptverkehrsstrassen» vom 31. März 2019,[^41-3]
+- c) VSS 40 043 «Projektierung, Grundlagen; Strassentyp: Verbindungsstrassen» vom 31. März 2019,[^41-4]
+- d) VSS 40 044 «Projektierung, Grundlagen; Strassentyp: Sammelstrassen» vom 31. März 2019,[^41-5]
+- e) VSS 40 045 «Projektierung, Grundlagen; Strassentyp: Erschliessungsstrassen» vom 31. März 2019,[^41-6]
 - f) SN 640 070 «Fussgängerverkehr; Grundnorm» vom Dezember 2008,
-- g) SN 640 200a «Geometrisches Normalprofil; Allgemeine Grundsätze, Begriffe und Elemente» vom Juni 2003,
-- h) SN 640 201 «Geometrisches Normalprofil; Grundabmessungen und Lichtraumprofil der Verkehrsteilnehmer» vom Oktober 1992,
-- i) SN 640 202 «Geometrisches Normalprofil; Erarbeitung» vom Oktober 1992,
-- j) SN 640 271a «Kontrolle der Befahrbarkeit» vom August 1990.
+- g) VSS 40 200a «Geometrisches Normalprofil; Allgemeine Grundsätze, Begriffe und Elemente» vom 31. März 2019,[^41-7]
+- h) VSS 40 201 «Geometrisches Normalprofil; Grundabmessungen und Lichtraumprofil der Verkehrsteilnehmer» vom 31. März 2019,[^41-8]
+- i) VSS 40 202 «Geometrisches Normalprofil; Erarbeitung» vom 31. März 2019,[^41-9]
+- j) VSS 40 271a «Kontrolle der Befahrbarkeit» vom 31. März 2019,[^41-10]
 
-<sup>2</sup> Für die Gestaltung von Grundstückzufahrten gilt als Richtlinie die VSS‑Norm SN 640 050 «Grundstückzufahrten» vom Mai 1993.
+<sup>2</sup> Für die Gestaltung von Grundstückzufahrten gilt als Richtlinie die Norm VSS 40 050 «Grundstückzufahrten» vom 31. März 2019.[^41-11]
 
 [^41-1]: Die VSS-Normen können bezogen werden bei www.vss.ch.
+[^41-2]: Die Norm ist identisch mit der Norm SN 640 040b vom April 1992.
+[^41-3]: Die Norm ist identisch mit der Norm SN 640 042 vom April 1992.
+[^41-4]: Die Norm ist identisch mit der Norm SN 640 043 vom April 1992.
+[^41-5]: Die Norm ist identisch mit der Norm SN 640 044 vom April 1992.
+[^41-6]: Die Norm ist identisch mit der Norm SN 640 045 vom April 1992.
+[^41-7]: Die Norm ist identisch mit der Norm SN 640 200a vom Juni 2003.
+[^41-8]: Die Norm ist identisch mit der Norm SN 640 201 vom Oktober 1992.
+[^41-9]: Die Norm ist identisch mit der Norm SN 640 202 vom Oktober 1992.
+[^41-10]: Die Norm ist identisch mit der Norm SN 640 271a vom August 1990.
+[^41-11]: Die Norm ist identisch mit der Norm SN 640 050 vom Mai 1993.
 
 #### § 42
 
 **Sichtzonen (§ 110 BauG)**
 
-<sup>1</sup> Für die Beurteilung der Sichtzonen gilt als Richtlinie das «Merkblatt Sicht an Knoten und Ausfahrten» des Departements Bau, Verkehr und Umwelt vom 1. März 2011.[^42-1]
+<sup>1</sup> Für die Beurteilung der Sichtzonen gilt als Richtlinie das «Merkblatt Sicht im Strassenraum» des Departements Bau, Verkehr und Umwelt vom 1. Februar 2021.[^42-1]
 
-<sup>2</sup> In den Sichtzonen muss eine freie Sicht in einer Höhe von 80 cm bis 3 m gewährleistet sein. Einzelne, die Sicht nicht hemmende Bäume, Stangen und Masten sind innerhalb der Sichtzonen zugelassen.
+<sup>2</sup> In den Sichtzonen muss eine freie Sicht in einer Höhe von 60 cm bis 3 m gewährleistet sein. Einzelne, die Sicht nicht hemmende Bäume, Stangen und Masten sind innerhalb der Sichtzonen zugelassen.
 
 <sup>3</sup> Für Sichtzonen bei Einmündungen von Gemeinde- und Privatstrassen und von Privatausfahrten in Kantonsstrassen setzt die Gemeinde die dauernde Freihaltung durch. Für die Freihaltung von Sichtzonen bei Einmündungen und Kreuzungen von Kantonsstrassen unter sich ist der Kanton zuständig.
 
-[^42-1]: Das Merkblatt ist veröffentlicht unter www.ag.ch/verkehr &gt; Strasseninfrastruktur &gt; Strassennetz &gt; Sicht an Knoten und Ausfahrten.
+[^42-1]: Das Merkblatt ist veröffentlicht unter www.ag.ch/verkehr &gt; Mobilität & Verkehr &gt; Strasseninfrastruktur &gt; Strassennetz &gt; Sicht an Knoten und Ausfahrten.
 
 #### § 43
 
 **Parkfelderzahl (§ 56 BauG)**
 
-<sup>1</sup> Für die Berechnung der Parkfelderzahl von Personenwagen gilt die VSS-Norm SN 640 281 «Parkieren; Angebot an Parkfeldern für Personenwagen» vom 1. Februar 2006.[^43-1] Das vereinfachte Verfahren gemäss der Norm findet Anwendung für
+<sup>1</sup> Für die Berechnung der Parkfelderzahl von Personenwagen gilt die Norm VSS 40 281 «Parkieren; Angebot an Parkfeldern für Personenwagen» vom 31. März 2019.[^43-1] Das vereinfachte Verfahren gemäss der Norm findet Anwendung für
 
 - a) Wohnnutzungen,
 - b) übrige Nutzungen, wenn das Parkfelderangebot nicht mehr als 300 oder das motorisierte Individualverkehrsaufkommen nicht mehr als 1'500 Fahrten pro Tag (im Durchschnitt über die Betriebstage; Zu- und Wegfahrt zählen als zwei Fahrten) beträgt.
@@ -535,21 +651,31 @@ AZ = ∑aGF / aGSF
 
 <sup>3</sup> Bei Standortfestsetzungen in Richt- und Nutzungsplänen wird für die Berechnung der erforderlichen Parkfelderzahl in einer ersten Annäherung vom Standort-Typ D der Norm ausgegangen, wenn nicht aufgrund der zentralen Lage, der Erschliessung mit öffentlichem Verkehr und der Nutzung offensichtlich ein anderer Standort-Typ vorliegt.
 
-<sup>4</sup> Für Velos und Mofas gilt als Richtlinie die VSS-Norm SN 640 065 «Parkieren; Bedarfsermittlung und Standortwahl von Veloparkierungsanlagen» vom August 2011.[^43-2]
+<sup>4</sup> Für Velos und Mofas gilt als Richtlinie die Norm VSS 40 065 «Parkieren; Bedarfsermittlung und Standortwahl von Veloparkierungsanlagen» vom 31. März 2019.[^43-2]
 
-[^43-1]: Die VSS-Norm kann bezogen werden bei www.vss.ch.
-[^43-2]: Die VSS-Norm kann bezogen werden bei www.vss.ch.
+[^43-1]: Die Norm ist identisch mit der Norm SN 640 281 vom 1. Februar 2006. Sie kann bezogen werden bei www.vss.ch.
+[^43-2]: Die Norm ist identisch mit der Norm SN 640 065 vom August 2011. Sie kann bezogen werden bei www.vss.ch.
+
+#### § 43a
+
+**Autoarmes Wohnen**
+
+<sup>1</sup> Bei speziellen örtlichen Verhältnissen kann für autoarmes Wohnen ein geringeres Parkfelder-Angebot als gemäss den Richtwerten festgelegt werden, wenn in einem Mobilitätskonzept aufgezeigt wird, warum der Bedarf an Parkfeldern tiefer liegt und mit welchen Massnahmen dieser geringere Bedarf dauerhaft sichergestellt wird.
+
+<sup>2</sup> Das Mobilitätskonzept ist als Auflage in die Baubewilligung aufzunehmen und im Grundbuch anzumerken.
+
+<sup>3</sup> Das kommunale Recht kann konkretisierende Bestimmungen erlassen.
 
 #### § 44
 
 **Gestaltung**
 
-<sup>1</sup> Für die technische Gestaltung der Parkfelder und Verkehrsflächen gilt als Richtlinie die VSS-Norm SN 640 291a «Parkieren; Anordnung und Geometrie der Parkierungsanlagen» vom 1. Februar 2006.[^44-1]
+<sup>1</sup> Für die technische Gestaltung der Parkfelder und Verkehrsflächen gilt als Richtlinie die Norm VSS 40 291a «Parkieren; Anordnung und Geometrie der Parkierungsanlagen» vom 31. März 2019.[^44-1]
 
-<sup>2</sup> Für Parkierungsanlagen von Velos und Mofas gilt als Richtlinie die VSS-Norm SN 640 066 «Parkieren; Projektierung von Veloparkierungsanlagen» vom August 2011.[^44-2]
+<sup>2</sup> Für Parkierungsanlagen von Velos und Mofas gilt als Richtlinie die Norm VSS 40 066 «Parkieren; Projektierung von Veloparkierungsanlagen» vom 31. März 2019.[^44-2]
 
-[^44-1]: Die VSS-Norm kann bezogen werden bei www.vss.ch.
-[^44-2]: Die VSS-Norm kann bezogen werden bei www.vss.ch.
+[^44-1]: Die Norm ist identisch mit der Norm SN 640 291a vom 1. Februar 2006. Sie kann bezogen werden bei www.vss.ch.
+[^44-2]: Die Norm ist identisch mit der Norm SN 640 066 vom August 2011. Sie kann bezogen werden bei www.vss.ch.
 
 #### § 45
 
@@ -605,22 +731,22 @@ AZ = ∑aGF / aGSF
 
 **Baubewilligungsfreie Bauten und Anlagen (§ 59 BauG)**
 
-<sup>1</sup> Keiner Baubewilligung bedürfen, unter Vorbehalt abweichender Nutzungsvorschriften für bestimmte Schutzzonen, im ganzen Gemeindegebiet
+<sup>1</sup> Im ganzen Gemeindegebiet bedürfen keiner Baubewilligung
 
-- a) herkömmliche Weidezäune bis zu 1,50 m Höhe,
+- a) herkömmliche Weidezäune bis zu 1,50 m Höhe. Die Zäune müssen wieder entfernt werden, wenn die Fläche zukünftig nicht mehr als Weide genutzt wird,
 - b) Tiergehege von höchstens 25 m² Fläche und Zaunhöhe bis zu 1,50 m,
 - c) Wildschutzzäune bis 1,50 m Höhe zum Schutz von Spezialkulturen des Obst-, Gemüse- und Weinbaus ausserhalb von Wildtierkorridoren. Wildschutzzäune müssen wieder entfernt werden, wenn sie nicht mehr erforderlich sind,
 - d) verfestigte Laufhöfe und Trockenplätze bis zu 300 m² Fläche ohne Hartbelag für die Rindvieh- und Pferdehaltung bei landwirtschaftlichen Betrieben,
 - e) Wanderwagen für Bienen bis zu einer Aufstelldauer von 8 Monaten am gleichen Ort sowie freistehende Magazin- oder andere Beuten für maximal 12 Bienenvölker,
-- f) Fahnenstangen, Verkehrssignale, Strassentafeln, Strassenbeleuchtungsanlagen, Vermessungszeichen, einzelne Pfähle und Stangen, Messeinrichtungen, Schaltkästen, Hydranten und dergleichen,
+- f) Fahnenstangen, Verkehrssignale, Strassentafeln, Vermessungszeichen, einzelne Pfähle und Stangen, Messeinrichtungen, Hydranten und dergleichen,
 - g) Satellitenempfangsanlagen für Radio und Fernsehen mit einer Fläche bis zu 0,5 m²,
 - h) einfache Feuerstellen für maximal 10 Personen ohne fest mit dem Boden verbundene Einrichtungen,
 - i) Terrainveränderungen bis zu 80 cm Höhe oder Tiefe und bis zu 100 m² Fläche,
 - j) Aufstellschwimmbecken sowie begehbare Plastiktunnels und ähnliche Einrichtungen der Landwirtschaft und des Gartenbaus bis zu einer Aufstelldauer von 6 Monaten pro Kalenderjahr.
 
-<sup>2</sup> Keiner Baubewilligung bedürfen, unter Vorbehalt abweichender Nutzungsvorschriften für bestimmte Schutzzonen, in den Bauzonen
+<sup>2</sup> Keiner Baubewilligung bedürfen in den Bauzonen
 
-- a) Einfriedungen bis zu 1,20 m Höhe und Stützmauern bis zu 80 cm Höhe,
+- a) Einfriedungen bis zu 1,20 m Höhe und Stützmauern bis zu 60 cm Höhe,
 - b) Erdsonden, für die eine Bohrbewilligung gemäss Umweltschutzgesetzgebung vorliegt,
 - c) Anlagen der Garten- und Aussenraumgestaltung wie Fusswege, Treppen, Brunnen, Feuerstellen und Gartencheminées, Pflanzentröge, künstlerische Plastiken sowie Teiche mit einer Fläche bis rund 10 m²,
 - d) Kleinstbauten mit einer Grundfläche bis 5 m² und einer Gesamthöhe bis 2,50 m, wenn allfällige Immissionen nur minim sind, wie zum Beispiel Gerätehäuschen und Fahrradunterstände,
@@ -628,13 +754,13 @@ AZ = ∑aGF / aGSF
   - 1\. Materialablagerungen und Fahrnisbauten, wie Festhütten, Zelte, Hütten, Buden, Baracken, Stände,
   - 2\. einzelne bewohnte Mobilheime und Wohnwagen. Während der Nichtbetriebszeit dürfen Mobilheime, Wohnwagen und Boote auf bestehenden rechtmässigen Abstellflächen ohne zeitliche Beschränkung abgestellt werden. Pflichtparkfelder dürfen nicht benutzt werden.
 
-<sup>3</sup> Keiner Baubewilligung bedürfen, unter Vorbehalt abweichender Nutzungsvorschriften für bestimmte Schutzzonen, unbeleuchtete temporäre Strassenreklamen mit einer Fläche bis 3,5 m², welche innerorts und bis 100 m ausserorts aufgestellt werden. Sie müssen die Anforderungen an die Verkehrssicherheit gemäss der «Richtlinie über Strassenreklamen» des Departements Bau, Verkehr und Umwelt vom 1. Mai 2011[^49-1] erfüllen und dürfen bei
+<sup>3</sup> Keiner Baubewilligung bedürfen unbeleuchtete temporäre Strassenreklamen mit einer Fläche bis 3,50 m², die innerorts und bis 100 m ausserorts aufgestellt werden. Sie müssen die Anforderungen an die Verkehrssicherheit gemäss dem «Merkblatt Wahl-, Abstimmungs- und andere temporäre Plakate» des Departements Bau, Verkehr und Umwelt vom 1. April 2021[^49-1] erfüllen und dürfen bei
 
 - a) Wahlplakaten während maximal acht Wochen vor dem Wahlsonntag aufgestellt und müssen spätestens sieben Tage danach entfernt werden,
 - b) Abstimmungsplakaten während maximal acht Wochen vor dem Abstimmungssonntag aufgestellt und müssen spätestens sieben Tage danach entfernt werden,
 - c) anderen Plakaten während maximal sechs Wochen vor dem Beginn der Veranstaltung aufgestellt und müssen spätestens sieben Tage danach entfernt werden.
 
-<sup>4</sup> Die Errichtung von baubewilligungsfreien Bauten und Anlagen entbindet nicht von der Einhaltung aller übrigen Vorschriften. Ist eine Ausnahmebewilligung erforderlich, ist ein Baubewilligungsverfahren durchzuführen; davon ausgenommen sind temporäre Strassenreklamen gemäss Absatz 3, die gemäss der Richtlinie aufgestellt werden.
+<sup>4</sup> Die oben aufgeführten Bauvorhaben sind baubewilligungspflichtig, wenn Nutzungsvorschriften für Schutzzonen dies bestimmen oder öffentlich-rechtliche Vorschriften, insbesondere Abstandsvorschriften, nicht eingehalten werden.
 
 <sup>5</sup> Eine Nutzung, die erhebliche Auswirkungen auf die Umwelt hat, ist baubewilligungspflichtig, auch wenn die Nutzung selbst nur kurz dauert.
 
@@ -648,7 +774,7 @@ AZ = ∑aGF / aGSF
 
 <sup>2</sup> Solaranlagen auf Gebäuden unter Substanzschutz oder in Zonen mit erhöhten Anforderungen an das Orts- und Landschaftsbild, namentlich Weilerzonen mit Ortsbild von nationaler Bedeutung, Dorf-, Altstadt- oder Kernzonen, bedürfen einer Baubewilligung.
 
-<sup>3</sup> Baubewilligungsfreie Solaranlagen sind dem Gemeinderat mit einem kantonalen Formular[^49a-3] zu melden. Der Meldung sind ein Ansichtsplan des Gebäudes mit der geplanten Anlage und ein Schnitt mit Massangaben beizulegen.
+<sup>3</sup> Baubewilligungsfreie Solaranlagen sind dem Gemeinderat mit einem kantonalen Formular[^49a-3] zu melden. Bei Baubewilligungspflicht ist das kantonale Formular zusammen mit dem Baugesuch einzureichen.
 
 <sup>4</sup> Baubewilligungsfreie Solaranlagen dürfen ausgeführt werden, wenn die Behörde innert 30 Tagen nach Eingang der Meldung keine Einwände erhebt.
 
@@ -674,7 +800,7 @@ AZ = ∑aGF / aGSF
 
 <sup>1</sup> Das Baugesuch muss die für die Beurteilung notwendigen Begründungen, Unterlagen und Pläne enthalten. Beizulegen sind zudem:
 
-- a) ein Nachweis der Einhaltung der Energiegesetzgebung (Energienachweis),
+- a) ein Nachweis der Einhaltung der Energiegesetzgebung (Energienachweis); in begründeten Fällen kann der Nachweis auch später, spätestens aber vor Baubeginn erbracht werden. Im Anwendungsbereich der Energienachweisformulare EN-1 bis EN-5 der Konferenz Kantonaler Energiefachstellen genügt das provisorische Minergie-Zertifikat,
 - b) eine Konformitätserklärung zur erdbebengerechten Bauweise von Neu- und Erweiterungsbauten sowie von Umbauten mit Eingriff in die Tragstruktur,
 - c) für Einrichtungen der Langzeitpflege, die gemäss Pflegegesetz (PflG) vom 26. Juni 2007 bewilligungspflichtig sind, ein Nachweis vom Departement Gesundheit und Soziales über die Einhaltung der §§ 8 Abs. 7 beziehungsweise 24 Abs. 2 lit. d der Pflegeverordnung (PflV) vom 21. November 2012[^51-1], falls eine entsprechende Vorprüfung des Projekts durchgeführt wurde.
 
@@ -768,7 +894,7 @@ AZ = ∑aGF / aGSF
 - a) den Beginn der Bauarbeiten und die Erstellung des Schnurgerüsts, an dem die Erdgeschosskote markiert sein muss,
 - b) das bevorstehende Eindecken von Leitungsgräben (Wasser- und Energieversorgung, Kanalisation), das bevorstehende Versetzen von Tanks und bei Zivilschutzräumen das Verlegen der Armierung vor dem Zuschalen der Wände und vor dem Einbringen des Betons für die Decke,
 - c) die Fertigstellung der Feuerungsanlagen und die Beendigung des Rohbaus,
-- d) die Beendigung der Bauten und Anlagen vor ihrer Benutzung. Die Bauherrschaft und die für das Projekt verantwortliche Person bestätigen schriftlich, dass gemäss bewilligtem Energienachweis gebaut wurde.
+- d) die Beendigung der Bauten und Anlagen vor ihrer Benutzung. Die Bauherrschaft und die für das Projekt verantwortliche Person bestätigen schriftlich, dass gemäss bewilligtem Energienachweis gebaut wurde. Bei Minergiezertifizierung ist das definitive Zertifikat in der Regel ebenfalls zu diesem Zeitpunkt vorzulegen.
 
 <sup>2</sup> Der Gemeinderat prüft die Bauten und Anlagen auf Übereinstimmung mit der Baubewilligung. Über vorgenommene Kontrollen ist ein Protokoll zu erstellen. Den Behörden und ihren Kontrollorganen ist jederzeit Zutritt zur Baustelle gestattet.
 
@@ -779,6 +905,12 @@ AZ = ∑aGF / aGSF
 **Zuständiges Departement**
 
 <sup>1</sup> Vorbehältlich anderslautender Bestimmungen ist mit «zuständigem Departement» gemäss Gesetz und mit «Departement» gemäss Verordnung das Departement Bau, Verkehr und Umwelt gemeint.
+
+#### § 59a
+
+**Zweitwohnungsgesetz**
+
+<sup>1</sup> Die Abteilung für Baubewilligungen ist Aufsichtsbehörde für die Umsetzung des Bundesgesetzes über Zweitwohnungen.
 
 #### § 60
 
@@ -812,7 +944,7 @@ AZ = ∑aGF / aGSF
 
 <sup>1</sup> Nach bisherigem Recht werden beurteilt
 
-- a) Baugesuche, die im Zeitpunkt des Inkrafttretens dieser Verordnung hängig sind, es sei denn, für die Gesuchstellenden ist eine Beurteilung nach neuem Recht günstiger,
+- a) Baugesuche, die im Zeitpunkt des Inkrafttretens dieser Verordnung oder der Änderung vom 25. August 2021 hängig sind, es sei denn, für die Gesuchstellenden ist eine Beurteilung nach neuem Recht günstiger,
 - b) kommunale Nutzungsplanentwürfe, die die Gemeinde vor Inkrafttreten der Verordnung zur Vorprüfung eingereicht hat.
 
 <sup>2</sup> Kommunale Nutzungspläne, die der Kanton vor dem 1. Januar 2010 vorgeprüft hat und bis Ende Februar 2010 publiziert worden sind, werden nach dem Recht zum Zeitpunkt der Vorprüfung beurteilt.
@@ -824,6 +956,8 @@ AZ = ∑aGF / aGSF
 **Altrechtliche Nutzungspläne**
 
 <sup>1</sup> Die Gemeinden passen ihre allgemeinen Nutzungspläne bis spätestens zehn Jahre nach Inkraftsetzung dieser Verordnung an die neuen Baubegriffe und Messweisen der IVHB an. Solange eine Anpassung nicht erfolgt ist, gelten anstelle der Bestimmungen im Titel 3 (Baubegriffe und Messweisen) die Bestimmungen der Allgemeinen Verordnung zum Baugesetz (ABauV) vom 23. Februar 1994, wie sie im Anhang 3 aufgeführt sind.
+
+<sup>1<sup>bis</sup></sup> Sondernutzungspläne, die nach dem 1. Januar 2022 öffentlich aufgelegt werden, müssen mit der Regelung der IVHB konform sein.
 
 <sup>2</sup> Ist eine Anpassung erfolgt und haben die Gemeinden nichts anderes festlegt, gelten für altrechtliche Sondernutzungspläne folgende Begriffsdefinitionen:
 
