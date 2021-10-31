@@ -3,13 +3,13 @@ canton: FR
 number: "834.2.41"
 title: Verordnung über die Liste der Pflegeheime des Kantons Freiburg
 language: de
-version: 2020-11-01
-valid_until: 2021-10-31
-version_adopted: 2020-10-12
+version: 2021-11-01
+valid_until: 2021-12-31
+version_adopted: 2021-12-21
 adopted: 2018-01-30
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/834.2.41"
-pdf: "https://bdlf.fr.ch/api/de/versions/6610/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7079/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6610/pdf_file"
 
 Liste der Pflegeheime – V
 
-vom 30.01.2018 (Fassung in Kraft getreten am 01.11.2020)
+vom 30.01.2018 (Fassung in Kraft getreten am 01.11.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -126,7 +126,7 @@ beschliesst:
 - a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte
   - 1\. Pflegeheim des Seebezirks, 3280 Murten: 65 Betten;
   - 2\. Pflegeheim Jeuss, 1793 Jeuss: 46 Betten;
-  - 3\. Home médicalisé Saint-François, 1784 Courtepin: 44 Betten;
+  - 3\. Home médicalisé Saint-François, 1784 Courtepin: 45 Betten;
   - 4\. Home du Vully, 1786 Sugiez: 36 Betten;
   - 5\. Alters- und Pflegeheim Kerzers, 3210 Kerzers: 38 Betten;
   - 6\. Alters- und Pflegeheim Ulmiz, 3214 Ulmiz: 18 Betten;
@@ -161,10 +161,12 @@ beschliesst:
 
 <sup>1</sup> Liste der Pflegeheime des Broyebezirks:
 
-- a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte
-  - 1\. EMS Les Grèves du Lac, 1544 Gletterens: 36 Betten;
-  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: 177 Betten.
-- b) OKP-Pflegeheimbetten für Langzeitaufenthalte: Kein Bett.
+- a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte:
+  - 1\. EMS Les Grèves du Lac, 1544 Gletterens: 37 Betten;
+  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: 173 Betten.
+- b) OKP-Pflegeheimbetten für Langzeitaufenthalte:
+  - 1\. EMS Les Grèves du Lac, 1544 Gletterens: 3 Betten;
+  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: 4 Betten.
 - c) Anerkannte Pflegeheimbetten für Kurzaufenthalte
   - 1\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: 11 Betten.
 - d) Betreuungsplätze im Tagesheim
@@ -194,12 +196,15 @@ beschliesst:
 
 - a) Anerkannte Pflegeheimbetten für Langzeitaufenthalte
   - 1\. EMS Les Camélias, 1633 Marsens: 15 Betten.
-  - 2\. Pflegeheimabteilung HFR, 1681 Billens: 17 Betten.
+  - 2\. …
+  - 3\. EMS Les Grèves du Lac, 1544 Gletterens: 10 Betten.
 - b) OKP-Pflegeheimbetten für Langzeitaufenthalte
   - 1\. Institution de santé pour religieux de Fribourg, 1700 Freiburg: 70 Betten.
+  - 2\. Pflegeheimabteilung HFR, 1752 Villars-sur-Glâne: 17 Betten.
 - c) Anerkannte Pflegeheimbetten für Kurzaufenthalte
   - 1\. La Famille au Jardin, 1717 St. Ursen: 2 Betten;
   - 2\. EMS La Providence, 1700 Freiburg: 19 Betten.
+  - 3\. Pflegeheimabteilung HFR, Palliativhospiz, 1752 Villars-sur-Glâne: 6 Betten.
 - d) Betreuungsplätze im Tagesheim
   - 1\. La Famille au Jardin, 1717 St. Ursen: 11 Plätze.
 

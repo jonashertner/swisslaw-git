@@ -3,13 +3,13 @@ canton: FR
 number: "834.2.41"
 title: Ordonnance fixant la liste des établissements médico-sociaux du canton de Fribourg
 language: fr
-version: 2020-11-01
-valid_until: 2021-10-31
-version_adopted: 2020-10-12
+version: 2021-11-01
+valid_until: 2021-12-31
+version_adopted: 2021-12-21
 adopted: 2018-01-30
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/834.2.41"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6610/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7079/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6610/pdf_file"
 
 Liste des établissements médico-sociaux – O
 
-du 30.01.2018 (version entrée en vigueur le 01.11.2020)
+du 30.01.2018 (version entrée en vigueur le 01.11.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -126,7 +126,7 @@ Arrête:
 - a) Lits EMS long séjour reconnus
   - 1\. Pflegeheim des Seebezirks, 3280 Morat: 65 lits;
   - 2\. Pflegeheim Jeuss, 1793 Jeuss: 46 lits;
-  - 3\. Home médicalisé Saint-François, 1784 Courtepin: 44 lits;
+  - 3\. Home médicalisé Saint-François, 1784 Courtepin: 45 lits;
   - 4\. Home du Vully, 1786 Sugiez: 36 lits;
   - 5\. Alters- und Pflegeheim Kerzers, 3210 Kerzers: 38 lits;
   - 6\. Alters- und Pflegeheim Ulmiz, 3214 Ulmiz: 18 lits;
@@ -162,9 +162,11 @@ Arrête:
 <sup>1</sup> La liste des établissements médico-sociaux du district de la Broye est la suivante:
 
 - a) Lits EMS long séjour reconnus
-  - 1\. EMS Les Grèves du Lac, 1544 Gletterens: 36 lits;
-  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: 177 lits.
-- b) Lits EMS long séjour AOS: Aucun lit.
+  - 1\. EMS Les Grèves du Lac, 1544 Gletterens: 37 lits;
+  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: 173 lits.
+- b) Lits EMS long séjour AOS
+  - 1\. EMS Les Grèves du Lac, 1544 Gletterens: 3 lits;
+  - 2\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: 4 lits.
 - c) Lits EMS court séjour reconnus
   - 1\. Homes médicalisés de la Broye, 1470 Estavayer-le-Lac: 11 lits.
 - d) Places en foyer de jour
@@ -194,12 +196,15 @@ Arrête:
 
 - a) Lits EMS long séjour reconnus
   - 1\. EMS Les Camélias, 1633 Marsens: 15 lits.
-  - 2\. Unité EMS HFR, 1681 Billens: 17 lits.
+  - 2\. …
+  - 3\. EMS Les Grèves du Lac, 1544 Gletterens: 10 lits.
 - b) Lits EMS long séjour AOS
   - 1\. Institution de santé pour religieux de Fribourg, 1700 Fribourg: 70 lits.
+  - 2\. Lits EMS HFR, 1752 Villars-sur-Glâne: 17 lits.
 - c) Lits EMS court séjour reconnus
   - 1\. La Famille au Jardin, 1717 St. Ursen: 2 lits;
   - 2\. EMS La Providence, 1700 Fribourg: 19 lits.
+  - 3\. Lits EMS HFR, Résidence palliative, 1752 Villars-sur-Glâne: 6 lits.
 - d) Places en foyer de jour
   - 1\. La Famille au Jardin, 1717 St. Ursen: 11 places.
 
