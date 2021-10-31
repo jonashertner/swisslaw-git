@@ -3,32 +3,35 @@ sr: "0.831.109.367.1"
 title: "Convention de sécurité sociale du 21 février 1968 entre la Suisse et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (avec protocole final)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/253_260_260"
 language: fr
-version: 1969-04-01
+version: 2021-11-01
 adopted: 1968-02-21
 in_force: 1969-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/253_260_260/19690401/fr/xml/fedlex-data-admin-ch-eli-cc-1969-253_260_260-19690401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/253_260_260/19690401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/253_260_260/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-1969-253_260_260-20211101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/253_260_260/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention de sécurité sociale entre la Suisse et le Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord
+# Convention de sécurité sociale entre la Suisse et le Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord****
 
-RO **1969** 260; FF **1968** I 1153
+RO **1969** 260; FF **1968** I 1153[^t-1]
 
 Texte original
 
 Conclue à Berne le 21 février 1968
 
-Approuvée par l’Assemblée fédérale le 3 décembre 1968[^t-1]
+Approuvée par l’Assemblée fédérale le 3 décembre 1968[^t-2]
 
 Date de l’entrée en vigueur: 1<sup>er</sup> avril 1969
 
-[^t-1]: Art. 1<sup>er</sup> al. 1 de l’AF du 3 déc. 1968 ([RO 1969 259](https://fedlex.data.admin.ch/eli/oc/1969/252_259_259))
+(Etat le 1<sup>er</sup> novembre 2021)
+
+[^t-1]: À partir du 1<sup>er</sup> nov. 2021, la Convention ne s’applique plus que dans les relations avec l’Île de Man, Jersey, Guernesey, Alderney, Herm et Jethou (art. 77 de la conv. du 9 sept. 2021 – [RO 2021 818](https://fedlex.data.admin.ch/eli/oc/2021/818)).
+[^t-2]: Art. 1<sup>er</sup> al. 1 de l’AF du 3 déc. 1968 ([RO 1969 259](https://fedlex.data.admin.ch/eli/oc/1969/252_259_259))
 
 Le Conseil fédéral suisse et le Gouvernement du Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord,
 
-Ayant réglé les rapports réciproques des deux Etats en matière de sécurité sociale dans les conventions qui ont été signées en leur nom à Berne les 16 janvier 1953[^ingress-1] et 12 novembre 1959[^ingress-2],
+Ayant réglé les rapports réciproques des deux États en matière de sécurité sociale dans les conventions qui ont été signées en leur nom à Berne les 16 janvier 1953[^ingress-1] et 12 novembre 1959[^ingress-2],
 
 Désireux d’élargir le champ d’application de ces accords et, en particulier, de donner effet plus complètement au principe de l’égalité de traitement des ressortissants des deux Parties contractantes dans le domaine de leur législation d’assurances sociales,
 
@@ -43,7 +46,7 @@ Sont convenus des dispositions suivantes:
 
 Pour l’application de la présente Convention,
 
-- a. «Territoire» désigne, en ce qui concerne le Royaume‑Uni, l’Angleterre, l’Ecosse, le Pays de Galles, l’Irlande du Nord, l’Ile de Man, Jersey, Guernsey, Alderney, Herm et Jethou, et, en ce qui concerne la Suisse, le territoire de la Confédération suisse;
+- a. «Territoire» désigne, en ce qui concerne le Royaume‑Uni, l’Angleterre, l’Écosse, le Pays de Galles, l’Irlande du Nord, l’Île de Man, Jersey, Guernsey, Alderney, Herm et Jethou, et, en ce qui concerne la Suisse, le territoire de la Confédération suisse;
 - b. «Ressortissant» désigne, en ce qui concerne le Royaume‑Uni, un citoyen du Royaume‑Uni et des Colonies et, en ce qui concerne la Suisse, une personne ayant la nationalité suisse;
 - c. «Législation» désigne, selon le contexte, les actes législatifs et réglemen-taires de l’une ou l’autre des Parties contractantes mentionnés à l’art. 2 de la Convention;
 - d. «L’assurance‑pensions suisse» désigne la législation suisse sur l’assurance-vieillesse, survivants et invalidité;
@@ -91,7 +94,7 @@ Les législations auxquelles s’applique la présente Convention sont:
 
 <sup>2</sup> Sous réserve des dispositions de l’al. 3 du présent article, la Convention s’applique également à tous les actes législatifs ou réglementaires qui codifient, modifient ou complètent les législations énumérées à l’alinéa premier du présent article.
 
-<sup>3</sup> La présente Convention ne s’applique aux lois et règlements qui modifient les législations visées au premier alinéa du présent article aux fins de donner effet à une convention de réciprocité en matière de sécurité sociale avec un Etat tiers, que si les Parties contractantes en décident ainsi.
+<sup>3</sup> La présente Convention ne s’applique aux lois et règlements qui modifient les législations visées au premier alinéa du présent article aux fins de donner effet à une convention de réciprocité en matière de sécurité sociale avec un État tiers, que si les Parties contractantes en décident ainsi.
 
 [^2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^2-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -162,7 +165,7 @@ Si une personne qui réside ordinairement au Royaume‑Uni ou a été astreinte 
 
 ## 4<sup>e</sup> Partie Dispositions concernant les prestations
 
-Prestations à des personnes détachées d’un Etat dans l’autre
+Prestations à des personnes détachées d’un État dans l’autre
 
 #### Art. 9
 
@@ -189,7 +192,7 @@ Pour établir si les conditions sont remplies en vertu desquelles des personnes 
 - a. Avoir leur lieu de naissance au Royaume‑Uni s’ils sont nés en Suisse;
 - b. Avoir séjourné au Royaume‑Uni pendant toute période pendant laquelle ils ont séjourné en Suisse.
 
-### Prestations de maladie en cas de transfert de résidence d’un Etat dans l’autre
+### Prestations de maladie en cas de transfert de résidence d’un État dans l’autre
 
 #### Art. 11
 
@@ -353,7 +356,7 @@ Le montant de toutes prestations dues en application des dispositions de la pré
 
 <sup>2</sup> Si un différend ne peut être réglé de cette manière, il sera soumis, sur requête de l’une des Parties, à un organisme arbitral.
 
-<sup>3</sup> L’organisme arbitral est constitué pour chaque différend de la manière suivante: chacune des Parties contractantes désigne un représentant et les deux représentants choisissent d’un commun accord, parmi les ressortissants d’un Etat tiers, un président qui est désigné par les Gouvernements des deux Parties. Les représentants doivent être désignés dans les deux mois, le président dans les trois mois à compter du jour où l’une des Parties a communiqué à l’autre qu’elle entendait soumettre le différend à l’organisme arbitral.
+<sup>3</sup> L’organisme arbitral est constitué pour chaque différend de la manière suivante: chacune des Parties contractantes désigne un représentant et les deux représentants choisissent d’un commun accord, parmi les ressortissants d’un État tiers, un président qui est désigné par les Gouvernements des deux Parties. Les représentants doivent être désignés dans les deux mois, le président dans les trois mois à compter du jour où l’une des Parties a communiqué à l’autre qu’elle entendait soumettre le différend à l’organisme arbitral.
 
 <sup>4</sup> Lorsque les délais prévus au troisième alinéa ne sont pas respectés, chaque Partie peut prier le Président de la Cour de justice européenne des droits de l’homme de procéder aux nominations nécessaires. Si le Président est ressortissant de l’une des Parties contractantes ou s’il est empêché, le Vice‑président pourvoit aux nominations. Si le Vice‑président est aussi ressortissant de l’une des Parties contractantes ou s’il est également empêché, le membre le plus élevé de la Cour de justice qui n’est pas ressortissant de l’une des Parties contractantes procède aux nominations.
 
@@ -392,7 +395,7 @@ En cas de dénonciation de la présente Convention, tout droit acquis par une pe
 
 La présente Convention est conclue pour une période d’une année à partir de la date de son entrée en vigueur. Elle se renouvelle d’année en année, sauf dénonciation écrite qui doit être notifiée trois mois avant l’expiration d’une période d’une année.
 
-*En foi de quoi,* les soussignés dûment autorisés par leur Gouvernement respectif, ont signé et cacheté la présente Convention. Fait en double exemplaire en anglais et en français, les deux textes faisant également foi, à Berne, le 21 février 1968. Pour le Conseil fédéral suisse: Pour le Gouvernement du Royaume‑Uni de Grande- Bretagne et d’Irlande du Nord: Cristoforo Motta H. A. F. Hohler
+*En foi de quoi,* les soussignés dûment autorisés par leur Gouvernement respectif, ont signé et cacheté la présente Convention. Fait en double exemplaire en anglais et en français, les deux textes faisant également foi, à Berne, le 21 février 1968. Pour le Conseil fédéral suisse: Cristoforo Motta Pour le Gouvernement du Royaume‑Uni de Grande- Bretagne et d’Irlande du Nord: H. A. F. Hohler
 
 Protocole final à la Convention de sécurité sociale entre la Suisse et le Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord
 
@@ -403,6 +406,5 @@ Lors de la signature à ce jour de la Convention de sécurité sociale entre la 
 Fait en double exemplaire en anglais et en français, les deux textes faisant également foi, à Berne, le 21 février 1968.
 
 <table>
-<tr><td>Pour le Conseil fédéral suisse:</td><td>Pour le Gouvernement du Royaume‑Uni de Grande- Bretagne et d’Irlande du Nord:</td></tr>
-<tr><td>Cristoforo Motta</td><td>H. A. F. Hohler</td></tr>
+<tr><td>Pour le Conseil fédéral suisse: Cristoforo Motta</td><td>Pour le Gouvernement du Royaume‑Uni de Grande- Bretagne et d’Irlande du Nord: H. A. F. Hohler</td></tr>
 </table>

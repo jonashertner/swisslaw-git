@@ -3,26 +3,27 @@ sr: "0.831.109.367.1"
 title: "Convenzione sulla sicurezza sociale del 21 febbraio 1968 fra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e d'Irlanda del Nord (con Protocollo finale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/253_260_260"
 language: it
-version: 1969-04-01
+version: 2021-11-01
 adopted: 1968-02-21
 in_force: 1969-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/253_260_260/19690401/it/xml/fedlex-data-admin-ch-eli-cc-1969-253_260_260-19690401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/253_260_260/19690401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/253_260_260/20211101/it/xml/fedlex-data-admin-ch-eli-cc-1969-253_260_260-20211101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/253_260_260/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione sulla sicurezza sociale fra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e d’Irlanda del Nord
+# Convenzione sulla sicurezza sociale fra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e d’Irlanda del Nord****
 
-RU **1969** 260; FF **1968** I 877
+RU **1969** 260; FF **1968** I 877[^t-1]
 
 Traduzione
 
-Conchiusa in Berna il 21 febbraio 1968 Approvata dall’Assemblea federale il 3 dicembre 1968[^t-1] Entrata in vigore il 1° aprile 1969
+Conchiusa in Berna il 21 febbraio 1968 Approvata dall’Assemblea federale il 3 dicembre 1968[^t-2] Entrata in vigore il 1° aprile 1969
 
-(Stato 1° aprile 1969)
+(Stato 1° novembre 2021)
 
-[^t-1]: [RU 1969 259](https://fedlex.data.admin.ch/eli/oc/1969/252_259_259)
+[^t-1]: La Conv. resta continua ad applicarsi all’Isola di Man, Jersey, Guernesey, Alderney, Herm e Jethou. No più all’Inghilterra, la Scozia, il Paese di Galles, l’Irlanda del Nord (art. 77 della Conv. del 9 set. 2021 – [RU 2021 818](https://fedlex.data.admin.ch/eli/oc/2021/818)).
+[^t-2]: [RU 1969 259](https://fedlex.data.admin.ch/eli/oc/1969/252_259_259)
 
 Il Consiglio federale svizzero e il Governo del Regno Unito di Gran Bretagna e d’Irlanda del Nord,
 
@@ -383,7 +384,7 @@ In caso di disdetta della presente Convenzione, i diritti acquisiti in virtù de
 
 La presente convenzione è conchiusa per un periodo di un anno a contare dalla data della sua entrata in vigore. Essa sarà considerata rinnovata tacitamente di anno in anno, qualora non sia disdetta per iscritto tre mesi prima dello scadere del termine.
 
-*In fede di che,* i sottoscritti plenipotenziari, debitamente autorizzati dai rispettivi Governi, hanno firmato la presente Convenzione e vi hanno apposto i loro sigilli. Fatto a Berna, in doppio esemplare, il 21 febbraio 1968, nelle lingue francese e inglese, entrambi i testi facendo parimente fede. (Si omettono le firme)
+*In fede di che,* i sottoscritti plenipotenziari, debitamente autorizzati dai rispettivi Governi, hanno firmato la presente Convenzione e vi hanno apposto i loro sigilli. Fatto a Berna, in doppio esemplare, il 21 febbraio 1968, nelle lingue francese e inglese, entrambi i testi facendo parimente fede. Per il Consiglio federale svizzero: Cristoforo Motta Per il Governo del Regno Unito di Gran Bretagna e d’Irlanda del Nord H. A. F. Hohler
 
 Protocollo finale
 
@@ -393,4 +394,6 @@ All’atto della firma, in data odierna, della Convenzione sulla sicurezza socia
 
 Fatto a Berna, in doppio esemplare, il 21 febbraio 1968, nelle lingue francese e inglese, entrambi i testi facendo parimente fede.
 
-(Si omettono le firme)
+<table>
+<tr><td>Per il Consiglio federale svizzero: Cristoforo Motta</td><td>Per il Governo del Regno Unito di Gran Bretagna e d’Irlanda del Nord H. A. F. Hohler</td></tr>
+</table>

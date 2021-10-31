@@ -3,24 +3,26 @@ sr: "0.831.109.367.1"
 title: Abkommen vom 21. Februar 1968 zwischen der Schweiz und dem Vereinigten Königreich von Grossbritannien und Nordirland über Soziale Sicherheit (mit Schlussprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/253_260_260"
 language: de
-version: 1969-04-01
+version: 2021-11-01
 adopted: 1968-02-21
 in_force: 1969-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/253_260_260/19690401/de/xml/fedlex-data-admin-ch-eli-cc-1969-253_260_260-19690401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/253_260_260/19690401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/253_260_260/20211101/de/xml/fedlex-data-admin-ch-eli-cc-1969-253_260_260-20211101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/253_260_260/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Abkommen zwischen der Schweiz und dem Vereinigten Königreich von Grossbritannien und Nordirland über Soziale Sicherheit
+# Abkommen zwischen der Schweiz und dem Vereinigten Königreich von Grossbritannien und Nordirland über Soziale Sicherheit****
 
-AS **1969** 253; BBl **1968** I 1137
+AS **1969** 253; BBl **1968** I 1137[^t-1]
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Bern am 21. Februar 1968 Von der Bundesversammlung genehmigt am 3. Dezember 1968[^t-2] Datum des Inkrafttretens: 1. April 1969
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechen-den Ausgabe dieser Sammlung.
+(Stand am 1. November 2021)
+
+[^t-1]: Seit 1. Nov. 2021 gilt dieses Abk. nur noch für die Inseln Man, Jersey, Guernsey, Alderney, Herm und Jethou (Art. 77 des Abk. vom 9. Sept. 2021 – [AS 2021 818](https://fedlex.data.admin.ch/eli/oc/2021/818); [SR 0.831.109.367.2](https://fedlex.data.admin.ch/eli/cc/2021/818)).
 [^t-2]: [AS 1969 252](https://fedlex.data.admin.ch/eli/oc/1969/252_259_259)
 
 Der Schweizerische Bundesrat und die Regierung des Vereinigten Königreichs von Grossbritannien und Nordirland,
@@ -38,7 +40,7 @@ haben die nachstehenden Bestimmungen vereinbart:
 
 #### Art. 1
 
-In diesem Abkommen bedeuten die Ausdrücke
+In diesem Abkommen bedeuten die Ausdrücke:
 
 - a. «Gebiet» in bezug auf das Vereinigte Königreich das Gebiet von England, Schottland, Wales, Nordirland, die Inseln Man, Jersey, Guernsey, Alderney, Herrn und Jethou; in bezug auf die Schweiz das Gebiet der Schweizerischen Eidgenossenschaft;
 - b. «Staatsangehöriger» in bezug auf das Vereinigte Königreich einen Staatsbürger des Vereinigten Königreichs und der Kolonien; in bezug auf die Schweiz einen Schweizerbürger;
@@ -62,7 +64,9 @@ In diesem Abkommen bedeuten die Ausdrücke
 
 #### Art. 2
 
-<sup>1</sup> Dieses Abkommen findet Anwendung
+<sup>1</sup>
+
+Dieses Abkommen findet Anwendung:
 
 - a.
 
@@ -126,9 +130,11 @@ Die Bestimmungen der Artikel 3, 9, 11 und 16 dieses Abkommens stehen der Anwendu
 
 #### Art. 6
 
-<sup>1</sup> Die Bestimmungen dieses Abschnittes des Abkommens gelten nicht
+<sup>1</sup>
 
-- a. in Bezug auf das Vereinigte Königreich für die Berufsdiplomaten,
+Die Bestimmungen dieses Abschnittes des Abkommens gelten nicht:
+
+- a. in Bezug auf das Vereinigte Königreich für die Berufsdiplomaten;
 - b. in Bezug auf die Schweiz für die Berufsdiplomaten und ‑konsuln.
 
 <sup>2</sup> Wird ein Staatsangehöriger der einen Vertragspartei in deren Dienst in das Gebiet der andern Vertragspartei entsandt, so untersteht er unter Vorbehalt des Absatzes 1 dieses Artikels der Gesetzgebung der ersten Vertragspartei, als wäre er in deren Gebiet beschäftigt.
@@ -149,7 +155,7 @@ Die zuständigen Behörden der beiden Vertragsparteien können im gegenseitigen 
 
 Stellt eine Person, die im Gebiet des Vereinigten Königreichs wohnt oder dort seit ihrer letzten Ankunft gemäss der Gesetzgebung des Vereinigten Königreichs als Arbeitnehmer oder Selbständigerwerbender beitragspflichtig geworden ist, wegen Arbeitsunfähigkeit, Niederkunft oder Arbeitslosigkeit ein Gesuch um Befreiung von der Beitragspflicht für eine unbestimmte Zeit und um Gutschrift von Beiträgen für diese Zeit, so gilt folgendes:
 
-- a. jede Zeit einer unselbständigen Beschäftigung dieser Person in der Schweiz wird als Zeit einer Beschäftigung im Vereinigten Königreich behandelt, für die sie nach dessen Gesetzgebung Beiträge als Arbeitnehmer entrichtete,
+- a. jede Zeit einer unselbständigen Beschäftigung dieser Person in der Schweiz wird als Zeit einer Beschäftigung im Vereinigten Königreich behandelt, für die sie nach dessen Gesetzgebung Beiträge als Arbeitnehmer entrichtete;
 - b. jede Zeit einer Erwerbstätigkeit dieser Person in der Schweiz auf eigene Rechnung wird als Zeit einer selbständigen Erwerbstätigkeit im Vereinigten Königreich behandelt, für die sie nach dessen Gesetzgebung Beiträge als Selbständigerwerbender entrichtete.
 
 ## Abschnitt IV Bestimmungen über die Leistungen
@@ -160,23 +166,27 @@ Leistungen an entsandte Arbeitnehmer
 
 <sup>1</sup> Ist eine Person im Vereinigten Königreich beschäftigt und untersteht sie gemäss den Bestimmungen dieses Abkommens der schweizerischen Gesetzgebung, so wird sie bezüglich ihrer Ansprüche auf Leistungen infolge eines Betriebs- oder eines Nichtbetriebsunfalls oder einer Berufskrankheit so behandelt, als hätte sie den Betriebs- oder Nichtbetriebsunfall in der Schweiz erlitten oder sich dort die Berufskrankheit zugezogen.
 
-<sup>2</sup> Ist eine Person in der Schweiz beschäftigt und untersteht sie gemäss den Bestimmungen dieses Abkommens der Gesetzgebung des Vereinigten Königreichs, so wird sie behandelt
+<sup>2</sup>
+
+Ist eine Person in der Schweiz beschäftigt und untersteht sie gemäss den Bestimmungen dieses Abkommens der Gesetzgebung des Vereinigten Königreichs, so wird sie behandelt:
 
 - a bezüglich ihrer Ansprüche auf Leistungen infolge von Krankheit oder Mutterschaft, als hielte sie sich im Gebiete des Vereinigten Königreichs auf;
 - b. bezüglich ihrer Ansprüche auf Leistungen infolge eines Betriebsunfalles oder einer Berufskrankheit, die sie während dieser Beschäftigung erlitten beziehungsweise sich zugezogen hat, als hätte sie den Unfall im Gebiet des Vereinigten Königreichs erlitten oder sich dort die Berufskrankheit zugezogen.
 
-<sup>3</sup> Erleidet eine versicherte Person, die das Gebiet der einen Vertragspartei verlassen hat, um sich in Ausübung ihrer Beschäftigung in das Gebiet der andern Vertragspartei zu begeben, vor ihrer Ankunft in diesem Gebiet einen Unfall, so wird, falls dort auf sie die Gesetzgebung des Vereinigten Königreichs anwendbar gewesen wäre, für die Beurteilung eines Gesuches um Gewährung von Leistungen infolge dieses Unfalls
+<sup>3</sup>
 
-- a so vorgegangen, als wäre der Unfall im Gebiet des Vereinigten Königreichs eingetreten und
+Erleidet eine versicherte Person, die das Gebiet der einen Vertragspartei verlassen hat, um sich in Ausübung ihrer Beschäftigung in das Gebiet der andern Vertragspartei zu begeben, vor ihrer Ankunft in diesem Gebiet einen Unfall, so wird, falls dort auf sie die Gesetzgebung des Vereinigten Königreichs anwendbar gewesen wäre, für die Beurteilung eines Gesuches um Gewährung von Leistungen infolge dieses Unfalls:
+
+- a so vorgegangen, als wäre der Unfall im Gebiet des Vereinigten Königreichs eingetreten; und
 - b für die Frage, ob auf Grund der Beschäftigung nach dieser Gesetzgebung Versicherung bestanden hätte, ausser acht gelassen, dass sich die versicherte Person im Gebiet keiner der beiden Vertragsparteien aufgehalten hat.
 
 ### Familienzulagen
 
 #### Art. 10
 
-Für die Beurteilung eines Anspruchs auf Familienzulagen nach der Gesetzgebung des Vereinigten Königreichs, gemäss welcher eine Person sich dort während einer bestimmten vorgeschriebenen Zeit aufgehalten haben muss, wird ein Staatsangehöriger einer der Vertragsparteien, der im Vereinigten Königreich wohnt oder dort nach dessen Gesetzgebung als Arbeitnehmer oder Selbständigerwerbender beitragspflichtig ist, so behandelt,
+Für die Beurteilung eines Anspruchs auf Familienzulagen nach der Gesetzgebung des Vereinigten Königreichs, gemäss welcher eine Person sich dort während einer bestimmten vorgeschriebenen Zeit aufgehalten haben muss, wird ein Staatsangehöriger einer der Vertragsparteien, der im Vereinigten Königreich wohnt oder dort nach dessen Gesetzgebung als Arbeitnehmer oder Selbständigerwerbender beitragspflichtig ist, so behandelt:
 
-- a. als befinde sich sein Geburtsort, auch wenn er in der Schweiz geboren ist, im Vereinigten Königreich,
+- a. als befinde sich sein Geburtsort, auch wenn er in der Schweiz geboren ist, im Vereinigten Königreich;
 - b. als sei er während der Zeit, während welcher er sich in der Schweiz aufgehalten hat, im Vereinigten Königreich gewesen.
 
 ### Leistungen bei Krankheit im Falle der Übersiedlung vom einen in den andern Vertragsstaat
@@ -185,33 +195,36 @@ Für die Beurteilung eines Anspruchs auf Familienzulagen nach der Gesetzgebung d
 
 <sup>1</sup> Die zuständige schweizerische Behörde wird die schweizerischen Krankenkassen bezeichnen, die sich zur Anwendung der Absätze 2 und 3 dieses Artikels verpflichten.
 
-<sup>2</sup> Hat ein Staatsangehöriger einer der Vertragsparteien
+<sup>2</sup> Wird der Versicherte als Mitglied in die Krankenkasse aufgenommen, so ist er hinsichtlich des Anspruches auf Leistungen so zu behandeln, als wären die Zeiten, während welcher er nach der Gesetzgebung des Vereinigten Königreichs Beiträge bezahlt oder gutgeschrieben erhalten hat, Zeiten der Mitgliedschaft bei der Krankenkasse; einer Frau jedoch werden Leistungen im Falle von Mutterschaft nur gewährt, wenn sie unmittelbar vor der Niederkunft ununterbrochen während drei Monaten der Krankenkasse angehört hat.
 
-so gelten die von der Krankenkasse für den Beitritt verlangten Altersbedingungen als erfüllt, und er ist in die Krankenkasse aufzunehmen, sofern er
+Hat ein Staatsangehöriger einer der Vertragsparteien:
 
-Wird der Versicherte als Mitglied in die Krankenkasse aufgenommen, so ist er hinsichtlich des Anspruches auf Leistungen so zu behandeln, als wären die Zeiten, während welcher er nach der Gesetzgebung des Vereinigten Königreichs Beiträge bezahlt oder gutgeschrieben erhalten hat, Zeiten der Mitgliedschaft bei der Krankenkasse; einer Frau jedoch werden Leistungen im Falle von Mutterschaft nur gewährt, wenn sie unmittelbar vor der Niederkunft ununterbrochen während drei Monaten der Krankenkasse angehört hat.
+- a. nach der Gesetzgebung des Vereinigten Königreichs Beiträge entrichtet oder gutgeschrieben erhalten oder den Nachweis für den Anspruch auf eine Alterspension oder auf eine Witwenleistung nach dieser Gesetzgebung erbracht; und
+- b.
 
-- a. nach der Gesetzgebung des Vereinigten Königreichs Beiträge entrichtet oder gutgeschrieben erhalten oder den Nachweis für den Anspruch auf eine Alterspension oder auf eine Witwenleistung nach dieser Gesetzgebung erbracht, und
-- b. stellt er bei einer gemäss Absatz 1 dieses Artikels bezeichneten schweizerischen Krankenkasse innerhalb von drei Monaten
+  stellt er bei einer gemäss Absatz 1 dieses Artikels bezeichneten schweizerischen Krankenkasse innerhalb von drei Monaten:
+
   - i) nach Ende der Woche, für welche er den letzten Beitrag bezahlt oder gutgeschrieben erhalten hat, oder
   - ii) nach Verlassen des Vereinigten Königreichs, wenn er Anspruch auf eine der in Buchstabe a) dieses Absatzes genannten Leistungen hat,
 
-- ein Aufnahmegesuch,
+- ein Aufnahmegesuch;
 
-- aa. die übrigen statutarischen Aufnahmebedingungen erfüllt, und
+so gelten die von der Krankenkasse für den Beitritt verlangten Altersbedingungen als erfüllt, und er ist in die Krankenkasse aufzunehmen, sofern er:
+
+- aa. die übrigen statutarischen Aufnahmebedingungen erfüllt; und
 - bb. nicht ausschliesslich zu Kur‑ oder Heilzwecken in die Schweiz übersiedelt.
 
 <sup>3</sup> Erfüllt ein Staatsangehöriger einer der Vertragsparteien die Bedingungen der Buchstaben a. und b. des Absatzes 2 dieses Artikels, so finden die Bestimmungen des genannten Absatzes bezüglich der Sachleistungen auch Anwendung auf seine Ehefrau und seine Kinder unter zwanzig Jahren.
 
-<sup>4</sup> Wohnt ein Staatsangehöriger einer der Vertragsparteien im Gebiet des Vereinigten Königreichs oder war er nach dessen Gesetzgebung seit seiner letzten Ankunft in diesem Gebiet als Arbeitnehmer oder selbständig Erwerbender beitragspflichtig, so wird er hinsichtlich der Gewährung von Krankengeld nach dieser Gesetzgebung so behandelt, als ob
+<sup>4</sup> Das nach diesem Absatz zustehende Krankengeld wird um den Betrag jeder für die gleiche Zeit zustehenden schweizerischen Geldleistung, mit Ausnahme der Invalidenrente der schweizerischen Unfallversicherung, gekürzt.
 
-ein Anspruch auf Krankengeld nach den Bestimmungen dieses Absatzes besteht jedoch nicht
-
-Das nach diesem Absatz zustehende Krankengeld wird um den Betrag jeder für die gleiche Zeit zustehenden schweizerischen Geldleistung, mit Ausnahme der Invalidenrente der schweizerischen Unfallversicherung, gekürzt.
+Wohnt ein Staatsangehöriger einer der Vertragsparteien im Gebiet des Vereinigten Königreichs oder war er nach dessen Gesetzgebung seit seiner letzten Ankunft in diesem Gebiet als Arbeitnehmer oder selbständig Erwerbender beitragspflichtig, so wird er hinsichtlich der Gewährung von Krankengeld nach dieser Gesetzgebung so behandelt, als ob:
 
 - a. er für jede Woche, während welcher er Mitglied einer schweizerischen Krankenkasse und erwerbstätig war, einen Beitrag bezahlt hätte;
 - b. ihm für jede Woche, während welcher er Mitglied einer solchen Kasse war und infolge Krankheit oder Arbeitslosigkeit keine Erwerbstätigkeit ausüben konnte, ein Beitrag als Erwerbstätiger gutgeschrieben worden wäre;
 - c. er die Beitragsbedingungen erfüllte, um das genannte Krankengeld während der ersten sechs Monate zu erhalten, die auf die Beendigung seiner Mitgliedschaft bei einer schweizerischen Krankenkasse folgen, bei welcher er für Krankengeld versichert war;
+
+ein Anspruch auf Krankengeld nach den Bestimmungen dieses Absatzes besteht jedoch nicht:
 
 - i) für die Tage, während welchen der Versicherte Anspruch auf ein Taggeld der schweizerischen Unfallversicherung oder auf eine Rente der schweizerischen Rentenversicherung infolge einer Invalidität von mindestens zwei Dritteln hat;
 - ii) für mehr als 312 Tage im Verlaufe eines Beschäftigungsunterbruchs.
@@ -222,24 +235,35 @@ Das nach diesem Absatz zustehende Krankengeld wird um den Betrag jeder für die 
 
 <sup>1</sup> Zur Feststellung, ob nach der Gesetzgebung des Vereinigten Königreichs ein Krankengeld, eine Witwenleistung oder eine Alterspension zu zahlen ist, wird jede vom Versicherten in der schweizerischen Rentenversicherung zurückgelegte Beitragszeit so behandelt, als wäre sie nach der Gesetzgebung des Vereinigten Königreichs zurückgelegt. Der Betrag der solcherart zustehenden Leistung ist gleich einem Teil der Leistung, die zustehen würde, wenn alle vom Versicherten in der schweizerischen Rentenversicherung zurückgelegten Beitragszeiten nach der Gesetzgebung des Vereinigten Königreichs zurückgelegt worden wären; dieser Leistungsteil verhält sich zur Gesamtleistung wie die Summe aller vom Versicherten nach der Gesetzgebung des Vereinigten Königreichs zurückgelegten Beitrags- und gleichgestellten Zeiten zur Summe aller von ihm nach der Gesetzgebung beider Vertragsparteien zurückgelegten Zeiten; ist jedoch hinsichtlich eines Gesuchs um Gewährung von Krankengeld für einen bestimmten Tag das Verhältnis zwischen den beiden Summen ermittelt worden, so wird es für ein späteres Gesuch um Gewährung von Krankengeld für einen andern in die Zeit des selben Beschäftigungsunterbruchs fallenden Tag nicht neu ermittelt.
 
-<sup>2</sup> Bei der Anwendung des Absatzes 1 dieses Artikels
+<sup>2</sup> jede Bezugnahme auf die von der Frau zurückgelegten Beitragszeiten oder gleichgestellten Zeiten, zwecks Ermittlung des Jahresdurchschnittes der vom Ehemann bezahlten oder ihm gutgeschriebenen Beiträge, auch als eine solche auf die vom Ehemann zurückgelegten Beitragszeiten oder gleichgestellten Zeiten betrachtet.
 
-jede Bezugnahme auf die von der Frau zurückgelegten Beitragszeiten oder gleichgestellten Zeiten, zwecks Ermittlung des Jahresdurchschnittes der vom Ehemann bezahlten oder ihm gutgeschriebenen Beiträge, auch als eine solche auf die vom Ehemann zurückgelegten Beitragszeiten oder gleichgestellten Zeiten betrachtet.
+Bei der Anwendung des Absatzes 1 dieses Artikels:
 
 - a. werden die in der schweizerischen Rentenversicherung zurückgelegten Beitragszeiten nur soweit berücksichtigt, als sie zusammen mit den nach der Gesetzgebung des Vereinigten Königreichs zurückgelegten Beitragszeiten nicht bewirken, dass die Gesamtzahl der nach dieser Gesetzgebung in irgendeinem Beitragsjahr bezahlten oder gutgeschriebenen Beiträge die Zahl der Wochen in diesem Jahr übersteigt;
 - b. werden bei einem Gesuch um Gewährung eines Krankengeldes die in der schweizerischen Rentenversicherung zurückgelegten Beitragszeiten, während welcher der Versicherte nicht erwerbstätig gewesen ist, nur berücksichtigt, wenn er durch Krankheit oder Arbeitslosigkeit an der Ausübung einer Erwerbstätigkeit verhindert war;
 - c. werden die gemäss der Gesetzgebung des Vereinigten Königreichs nach dem steuerbaren Einkommen bemessenen und entrichteten Beiträge beziehungsweise die gestützt darauf geschuldeten Leistungen nicht berücksichtigt, vielmehr werden die entsprechenden Leistungen den auf Grund dieses Absatzes berechneten Leistungen hinzugefügt;
-- d. werden in Fällen, in welchen
+- d.
+
+  werden in Fällen, in welchen:
+
   - i) eine Frau auf Grund der Versicherung ihres Ehemannes eine Alterspension beansprucht, oder
   - ii) bei der Feststellung des Anspruchs einer Frau auf eine Alterspension aus eigener Versicherung die Beiträge des Ehemannes, wegen Auflösung der Ehe zufolge Tod des Ehemannes oder aus andern Gründen, mitzuberücksichtigen sind,
 
-<sup>3</sup> Die Vorschriften des Absatzes 1 dieses Artikels sind nur anwendbar,
+<sup>3</sup>
+
+Die Vorschriften des Absatzes 1 dieses Artikels sind nur anwendbar:
 
 - a. wenn die vom Versicherten nach der Gesetzgebung jeder der beiden Vertragsparteien zurückgelegten Beitrags‑ oder gleichgestellten Zeiten mindestens je ein Jahr betragen;
-- b. wenn im Falle von Krankengeld
+- b.
+
+  wenn im Falle von Krankengeld:
+
   - i) die zuständige Behörde des Vereinigten Königreichs dafürhält, dass der Versicherte voraussichtlich während mindestens drei Monaten arbeitsunfähig bleiben wird, und
   - ii) die vom Versicherten nach der Gesetzgebung beider Parteien zurückgelegten Beitragszeiten, unter Ausserachtlassung der nach Absatz 2 dieses Artikels nicht berücksichtigten Zeiten, insgesamt mindestens drei Jahre betragen, und
-  - iii) wenn der Versicherte
+  - iii)
+
+    wenn der Versicherte:
+
     - aa. entweder auf Grund des Artikels 11 Absatz 4 dieses Abkommens oder nach andern Bestimmungen keinen Anspruch auf Krankengeld nach der Gesetzgebung des Vereinigten Königreichs hat, oder
     - bb. eine Geldleistung (ausgenommen eine Invalidenrente der schweizerischen Unfallversicherung oder eine Abfindung) nach der schweizerischen Gesetzgebung erhält und nach der Gesetzgebung des Vereinigten Königreichs im Verlaufe eines Beschäftigungsunterbruchs, der den Tag miteinschliesst, für den eine Leistung verlangt wird, während 156 Tagen Krankengeld bezogen hat;
 
@@ -251,12 +275,15 @@ jede Bezugnahme auf die von der Frau zurückgelegten Beitragszeiten oder gleichg
 
 #### Art. 13
 
-Staatsangehörigen des Vereinigten Königreichs steht der Anspruch auf Eingliederungsmassnahmen der schweizerischen Rentenversicherung nur zu, solange sie in der Schweiz Wohnsitz haben und wenn sie
+Staatsangehörigen des Vereinigten Königreichs steht der Anspruch auf Eingliederungsmassnahmen der schweizerischen Rentenversicherung nur zu, solange sie in der Schweiz Wohnsitz haben und wenn sie:
 
-- a. unmittelbar vor dem Eintritt der Invalidität
+- a.
+
+  unmittelbar vor dem Eintritt der Invalidität:
+
   - i) während mindestens eines Jahres Beiträge an die schweizerische Versicherung bezahlt haben, oder
   - ii) als nichterwerbstätige Ehefrau oder Witwe ununterbrochen während mindestens eines Jahres in der Schweiz gewohnt haben, oder
-  - iii) als Kind ununterbrochen während mindestens eines Jahres in der Schweiz gewohnt haben, oder
+  - iii) als Kind ununterbrochen während mindestens eines Jahres in der Schweiz gewohnt haben; oder
 
 - b. als Kind in der Schweiz invalid geboren sind oder daselbst seit der Geburt ununterbrochen gewohnt haben.
 
@@ -270,12 +297,15 @@ In bezug auf den Anspruch auf ordentliche Invalidenrenten der schweizerischen Re
 
 #### Art. 15
 
-Staatsangehörige des Vereinigten Königreichs mit Wohnsitz in der Schweiz haben Anspruch auf ausserordentliche Renten der schweizerischen Rentenversicherung, wenn sie unmittelbar vor dem Monat, von welchem an die Rente verlangt wird,
+Staatsangehörige des Vereinigten Königreichs mit Wohnsitz in der Schweiz haben Anspruch auf ausserordentliche Renten der schweizerischen Rentenversicherung, wenn sie unmittelbar vor dem Monat, von welchem an die Rente verlangt wird:
 
-- a. im Falle einer Altersrente mindestens zehn Jahre,
-- b. im Falle einer Invalidenrente, einer Hinterlassenenrente oder der sie ablösenden Altersrenten mindestens fünf Jahre
+- a. im Falle einer Altersrente mindestens zehn Jahre;
+- b. im Falle einer Invalidenrente, einer Hinterlassenenrente oder der sie ablösenden Altersrenten mindestens fünf Jahre;
 - [tab] ununterbrochen in der Schweiz gewohnt haben.
-- In diesen Fällen
+-
+
+  In diesen Fällen:
+
   - i) bleiben Zeiten, während welcher ein Staatsangehöriger des Vereinigten Königreichs von der Beitragspflicht in der schweizerischen Rentenversicherung befreit war, unberücksichtigt;
   - ii) gilt die Wohndauer als nicht unterbrochen, wenn die Schweiz während eines Kalenderjahres insgesamt nicht länger als drei Monate verlassen wurde.
 
@@ -287,8 +317,11 @@ Staatsangehörige des Vereinigten Königreichs mit Wohnsitz in der Schweiz haben
 
 <sup>2</sup> Personen, denen bei Wohnsitz oder Aufenthalt im Vereinigten Königreich nach der dortigen Gesetzgebung Anspruch auf Krankengeld (sickness benefit), Witwenleistung (widow’s benefit), Waisenzulage (guardian’s allowance), Alterspension (retirement pension), Unfallentschädigung (injury benefit), Invalidenleistung infolge Arbeitsunfalls (disablement benefit) oder Sterbegeld (death benefit) zusteht, erhalten diese Leistung auch, wenn sie in der Schweiz wohnen oder sich hier aufhalten, sofern sie
 
-- a. im Falle von Krankengeld
-  - i) die Beitragsvoraussetzungen für die Gewährung dieser Leistung ohne Anwendung der Bestimmungen von Artikel 11 dieses Abkommens ganz oder teilweise erfüllen, und
+- a.
+
+  im Falle von Krankengeld:
+
+  - i) die Beitragsvoraussetzungen für die Gewährung dieser Leistung ohne Anwendung der Bestimmungen von Artikel 11 dieses Abkommens ganz oder teilweise erfüllen; und
   - ii) aa. eine Rente nach der schweizerischen Gesetzgebung für eine Invalidität von mindestens zwei Dritteln beziehen, oder
     - bb. vor Verlassen des Vereinigten Königreichs die dortige zuständige Behörde über ihre Absicht einer Wohnsitznahme in der Schweiz unterrichtet und von ihrer voraussichtlich dauernden Arbeitsunfähigkeit überzeugt haben, oder
     - cc. zwecks Behandlung einer vor Verlassen des Vereinigten Königreichs eingetretenen Arbeitsunfähigkeit vorübergehend landesabwesend sind;
@@ -301,7 +334,7 @@ Staatsangehörige des Vereinigten Königreichs mit Wohnsitz in der Schweiz haben
 
 #### Art. 17
 
-Die zuständigen Behörden
+Die zuständigen Behörden:
 
 - a. vereinbaren die notwendigen Durchführungsbestimmungen für die Anwendung des Abkommens;
 - b. unterrichten sich gegenseitig über alle von ihnen für die Anwendung des Abkommens getroffenen Massnahmen;
@@ -363,7 +396,9 @@ Sämtliche auf Grund dieses Abkommens geschuldeten Leistungen werden in der Wäh
 
 <sup>5</sup> Vor dem Inkrafttreten dieses Abkommens festgestellte Leistungen werden, wenn nötig, nach den Bestimmungen des Absatzes 4 dieses Artikels neu festgestellt.
 
-<sup>6</sup> Leistungen, die nach den Bestimmungen dieses Artikels geschuldet sind, werden gegebenenfalls vom Zeitpunkt des Inkrafttretens dieses Abkommens an ausbezahlt beziehungsweise festgestellt und ausbezahlt, wobei
+<sup>6</sup>
+
+Leistungen, die nach den Bestimmungen dieses Artikels geschuldet sind, werden gegebenenfalls vom Zeitpunkt des Inkrafttretens dieses Abkommens an ausbezahlt beziehungsweise festgestellt und ausbezahlt, wobei:
 
 - a. wenn es sich um eine nach der schweizerischen Gesetzgebung geschuldeten Leistung handelt, die Frist für deren Geltendmachung frühestens von diesem Zeitpunkt an zu laufen beginnt;
 - b. wenn es sich um eine nach der Gesetzgebung des Vereinigten Königreichs geschuldete Leistung handelt, ein entsprechendes Gesuch innert zwölf Monaten von diesem Zeitpunkt an zu stellen beziehungsweise eine Mitteilung über den Eintritt in den Ruhestand abzugeben ist.
@@ -382,7 +417,7 @@ Wird dieses Abkommen gekündigt, so bleiben die von einer Person nach seinen Bes
 
 Dieses Abkommen wird für die Dauer eines Jahres, gerechnet vom Tage seines Inkrafttretens an, geschlossen; es gilt jeweils für ein weiteres Jahr, wenn es nicht drei Monate vor Ablauf der Jahresfrist schriftlich gekündigt wird.
 
-*Zu Urkund dessen* haben die Bevollmächtigten der beiden Regierungen dieses Abkommen unterzeichnet und mit Siegeln versehen. Geschehen zu Bern am 21. Februar 1968, in zweifacher Ausfertigung, in französischer und englischer Sprache; beide Fassungen sind in gleicher Weise verbindlich. Für den Schweizerischen Bundesrat: Für die Regierung des Vereinigten Königreichs von Grossbritannien und Nordirland: (gez.) Cristoforo Motta (gez.) H. A. F. Hohler
+*Zu Urkund dessen* haben die Bevollmächtigten der beiden Regierungen dieses Abkommen unterzeichnet und mit Siegeln versehen. Geschehen zu Bern am 21. Februar 1968, in zweifacher Ausfertigung, in französischer und englischer Sprache; beide Fassungen sind in gleicher Weise verbindlich. Für den Schweizerischen Bundesrat: (gez.) Cristoforo Motta Für die Regierung des Vereinigten Königreichs von Grossbritannien und Nordirland: (gez.) H. A. F. Hohler
 
 Schlussprotokoll zum Abkommen über Soziale Sicherheit zwischen der Schweiz und dem Vereinigten Königreich von Grossbritannien und Nordirland
 
@@ -393,6 +428,5 @@ Bei der Unterzeichnung des heute zwischen der Schweiz und dem Vereinigten König
 Geschehen zu Bern am 21. Februar 1968 in zweifacher Ausfertigung, in französischer und englischer Sprache; beide Fassungen sind in gleicher Weise verbindlich.
 
 <table>
-<tr><td>Für den Schweizerischen Bundesrat:</td><td>Für die Regierung des Vereinigten Königreichs von Grossbritannien und Nordirland:</td></tr>
-<tr><td>(gez.) Cristoforo Motta</td><td>(gez.) H. A. F. Hohler</td></tr>
+<tr><td>Für den Schweizerischen Bundesrat: (gez.) Cristoforo Motta</td><td>Für die Regierung des Vereinigten Königreichs von Grossbritannien und Nordirland: (gez.) H. A. F. Hohler</td></tr>
 </table>
