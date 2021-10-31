@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2021-10-02
+version: 2021-11-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211002/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211002-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 2. Oktober 2021)
+vom 13. Dezember 2002 (Stand am 1. November 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1742,7 +1742,15 @@ Eine im Erstrat angenommene Motion kann im Zweitrat:
 - a. definitiv angenommen oder abgelehnt werden;
 - b. auf Antrag der Mehrheit der vorberatenden Kommission oder auf Antrag des Bundesrates abgeändert werden.
 
-<sup>4</sup> Nimmt der Zweitrat eine Änderung vor, so kann der Erstrat in der zweiten Beratung der Änderung zustimmen oder die Motion definitiv ablehnen.
+<sup>4</sup>
+
+Nimmt der Zweitrat eine Änderung vor, so kann der Erstrat in der zweiten Beratung:
+
+- a. der Änderung zustimmen;
+- b. an seinem Beschluss, die Motion in ihrer ursprünglichen Fassung anzunehmen, festhalten; oder
+- c. die Motion definitiv ablehnen.[^121-2]
+
+<sup>4bis</sup> Hält der Erstrat in der zweiten Beratung an seinem Beschluss, die Motion in ihrer ursprünglichen Fassung anzunehmen, fest, so kann der Zweitrat diesem Beschluss zustimmen oder die Motion definitiv ablehnen.[^121-3]
 
 <sup>5</sup>
 
@@ -1752,6 +1760,8 @@ Eine vom Erstrat angenommene Motion ist ohne Zustimmung des Zweitrates definitiv
 - b. es sich um eine Kommissionsmotion handelt und eine gleich lautende Kommissionsmotion im anderen Rat angenommen wird.
 
 [^121-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^121-2]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Differenzbereinigungsverfahren bei Motionen), in Kraft seit 1. Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-3]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Differenzbereinigungsverfahren bei Motionen), in Kraft seit 1. Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
 
 #### Art. 122
 
@@ -1875,7 +1885,7 @@ Die Kommission beantragt ihrem Rat, der Petition sei keine Folge zu geben, wenn 
 
 Eine Eingabe zur Geschäftsführung und zum Finanzgebaren des Bundesrates, der Bundesverwaltung, der eidgenössischen Gerichte und anderer Träger von Aufgaben des Bundes wird den Geschäftsprüfungs- oder Finanzkommissionen zur direkten Beantwortung zugewiesen.
 
-### 8. Kapitel: Verfahren bei Einsprachen gegen Verträge der Kantone unter sich oder mit dem Ausland
+### 8. Kapitel:**** Verfahren bei Einsprachen gegen Verträge der Kantone unter sich oder mit dem Ausland
 
 [^tit5-chap8-1]
 
@@ -2658,7 +2668,7 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 ...[^annexu1-lvlu1-4]
 
-[^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)Art. 60 Abs. 2, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 121, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. I 414, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 3]
+[^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)Art. 60 Abs. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 3]
 [^annexu1-lvlu1-2]: [BS **1** 461]
-[^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869), [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452), [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 16 Ziff. 3, [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642), [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
+[^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 16 Ziff. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
 [^annexu1-lvlu1-4]: Die Änderungen können unter [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510)konsultiert werden.

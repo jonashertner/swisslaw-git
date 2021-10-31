@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2021-10-02
+version: 2021-11-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211002/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211002-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (Etat le 2 octobre 2021)
+du 13 décembre 2002 (Etat le 1<sup>er</sup> novembre 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1743,16 +1743,24 @@ Lorsque le conseil prioritaire a adopté une motion, le second conseil peut:
 - a. l’adopter ou la rejeter définitivement;
 - b. la modifier, sur proposition de la majorité de la commission chargée de l’examen préalable ou sur proposition du Conseil fédéral.
 
-<sup>4</sup> Si le second conseil modifie une motion, le conseil prioritaire peut approuver cette modification en seconde lecture ou rejeter définitivement la motion.
+<sup>4</sup>
 
-<sup>5</sup>
+Si le second conseil modifie une motion, le conseil prioritaire peut, en seconde lecture:
 
-Une motion est définitivement adoptée par le conseil prioritaire sans être transmise à l’autre conseil:
+- a. approuver cette modification;
+- b. confirmer sa décision d’adopter la motion dans sa version initiale;
+- c. rejeter définitivement la motion.[^121-2]
+
+<sup>4bis</sup>
+
+Si le conseil prioritaire confirme, en seconde lecture, sa décision d’adopter la motion dans sa version initiale, le second conseil peut se rallier à cette décision ou rejeter définitivement la motion.<sup>5</sup> Une motion est définitivement adoptée par le conseil prioritaire sans être transmise à l’autre conseil:
 
 - a. si elle concerne l’organisation ou le fonctionnement du conseil où elle a été déposée;
-- b. si elle a été déposée par une commission et qu’une motion de teneur identique déposée par une commission est adoptée par l’autre conseil.
+- b. si elle a été déposée par une commission et qu’une motion de teneur identique déposée par une commission est adoptée par l’autre conseil.[^121-3]
 
 [^121-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^121-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2021 (Procédure d’élimination des divergences pour les motions), en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [FF 2020 9001](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-3]: Introduit par le ch. I de la LF du 18 juin 2021 (Procédure d’élimination des divergences pour les motions), en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [FF 2020 9001](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
 
 #### Art. 122
 

@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2021-10-02
+version: 2021-11-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211002/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211002-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211101/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Status as of 2 October 2021)
+of 13 December 2002 (Status as of 1 November 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1744,7 +1744,15 @@ A motion accepted by the first chamber may in the second chamber be:
 - a. irrevocably accepted or rejected;
 - b. amended on the proposal of the majority of the committee responsible for the preliminary examination or on the proposal of the Federal Council.
 
-<sup>4</sup> If the second chamber makes an amendment, the first chamber may in the second consideration agree to the amendment or irrevocably reject the motion.
+<sup>4</sup>
+
+If the second chamber makes an amendment, the first chamber may in the second consideration:
+
+- a. agree to the amendment;
+- b. stand by its decision to accept the motion in its original form; or
+- c. irrevocably reject the motion.[^121-2]
+
+<sup>4bis</sup> If the first chamber in the second consideration stands by its decision to accept the motion in its original form, the second chamber may agree to this decision or irrevocably reject the motion.[^121-3]
 
 <sup>5</sup>
 
@@ -1754,6 +1762,8 @@ A motion accepted by the first chamber without the agreement of the second chamb
 - b. it is a committee motion and an identical committee motion is accepted in the other chamber.
 
 [^121-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^121-2]: Amended by No I of the FA of 18 June 2021 (Resolution of Differences in the case of Motions), in force since 1 Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-3]: Inserted by No I of the FA of 18 June 2021 (Resolution of Differences in the case of Motions), in force since 1 Nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
 
 #### Art. 122
 
@@ -2652,7 +2662,7 @@ The following enactments are amended as follows:
 
 ...[^annexu1-lvlu1-4]
 
-[^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)Art. 60 para. 2, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 121, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226),[2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Annex No I 414, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 3]
+[^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)Art. 60 para. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226),[2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Annex No I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 3]
 [^annexu1-lvlu1-2]: [BS **1** 461]
-[^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869), [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452), [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 16 No 3, [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642), [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
+[^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 16 No 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
 [^annexu1-lvlu1-4]: The amendments may be consulted under [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).

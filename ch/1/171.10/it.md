@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2021-10-02
+version: 2021-11-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211002/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211002-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 2 ottobre 2021) (Stato 2 ottobre 2021)
+del 13 dicembre 2002 (Stato 1° novembre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1749,7 +1749,15 @@ Se la Camera prioritaria ha accolto una mozione, la seconda Camera può:
 - a. accoglierla o respingerla definitivamente;
 - b. modificarla, su proposta della maggioranza della commissione incaricata dell’esame preliminare o su proposta del Consiglio federale.
 
-<sup>4</sup> Se la seconda Camera procede a una modifica, la Camera prioritaria può acconsentire alla modifica in seconda lettura oppure respingere definitivamente la mozione.
+<sup>4</sup>
+
+Se la seconda Camera procede a una modifica, in seconda lettura la Camera prioritaria può:
+
+- a. acconsentire alla modifica;
+- b. confermare la propria decisione di accogliere la mozione nella sua versione iniziale; o
+- c. respingere definitivamente la mozione.[^121-2]
+
+<sup>4bis</sup> Se la Camera prioritaria conferma in seconda lettura la propria decisione di accogliere la mozione nella sua versione iniziale, la seconda Camera può aderire a tale decisione o respingere definitivamente la mozione. [^121-3]
 
 <sup>5</sup>
 
@@ -1759,6 +1767,8 @@ Una mozione accolta dalla Camera prioritaria è accolta definitivamente senza es
 - b. se si tratta di una mozione di commissione e una mozione di commissione di ugual tenore è accolta dalla seconda Camera.
 
 [^121-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^121-2]: Nuovo testo giusta il n. I della LF del 18 giu. 2021 (Procedura di appianamento delle divergenze per le mozioni), in vigore dal 1° nov. 2021 ([RU 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [FF 2020 8149](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-3]: Introdotto dal n. I della LF del 18 giu. 2021 (Procedura di appianamento delle divergenze per le mozioni), in vigore dal 1° nov. 2021 ([RU 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [FF 2020 8149](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
 
 #### Art. 122
 

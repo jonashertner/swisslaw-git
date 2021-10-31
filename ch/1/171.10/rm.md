@@ -4,11 +4,11 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2021-10-02
+version: 2021-11-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211002/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211002-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211002/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211101/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211101-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dals 2 da october 2021)
+dals 13 da december 2002 (versiun dal 1. da november 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -175,17 +175,11 @@ Per lur activitad parlamentara survegnan ils parlamentaris da la Confederaziun i
 
 Ils parlamentaris èn obligads da sa participar a las sesidas da las chombras e da las cumissiuns.
 
-#### Art. 10a
+#### Art. 10a e 10b
 
-[^10a-1]
+[^10a10b-1]
 
-[^10a-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun), en vigur dals 11 da dec. 2020 fin maximalmain il 1. d’oct. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
-
-#### Art. 10b
-
-[^10b-1]
-
-[^10b-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun), en vigur dals 11 da dec. 2020 fin maximalmain il 1. d’oct. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+[^10a10b-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun), en vigur dals 11 da dec. 2020 fin maximalmain il 1. d’oct. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 11
 
@@ -1035,6 +1029,21 @@ Ils posts dals Servetschs dal parlament han ils medems dretgs d’infurmaziun sc
 
 <sup>2</sup> Mintga parlamentari po laschar emetter ina carta d’access per mintgamai duas persunas che giavischan – per ina tscherta durada – access a las parts betg publicas da la Chasa federala. Questas persunas e lur funcziuns ston vegnir inscrittas en in register accessibel publicamain.
 
+#### Art. 69a
+
+**Obligatori d’in certificat da COVID-19 en l’edifizi dal parlament**[^69a-1]
+
+<sup>1</sup> Persunas a partir da 16 onns survegnan access a l’edifizi dal parlament mo cun in certificat COVID-19 valaivel tenor l’artitgel 6*a* da la Lescha COVID-19 dals 25 da settember 2020[^69a-2]. Sche la situaziun epidemiologica permetta quai, po la Delegaziun administrativa suspender questa mesira.
+
+<sup>2</sup> A persunas che ston en mintga cas avair access a l’edifizi dal parlament, vegnan indemnisads ils custs dals tests ch’èn eventualmain necessaris per emetter il certificat. La Delegaziun administrativa fixescha, tge gruppas da persunas che han il dretg d’ina indemnisaziun dals tests.
+
+<sup>3</sup> La Delegaziun administrativa regla ils detagls da la controlla dals certificats.
+
+<sup>4</sup> Ils parlamentaris che na preschentan nagin certificat survegnan access, sch’els portan ina mascrina en l’edifizi dal parlament. Ils Servetschs dal parlament mainan ina glista da quests parlamentaris per mauns da las persunas ch’èn cumpetentas per l’execuziun dal dretg da chasa.
+
+[^69a-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dals 2. d’oct. 2021 fin ils 31 da dec. 2022 ([AS 2021 588](https://fedlex.data.admin.ch/eli/oc/2021/588); [BBl 2021 2181](https://fedlex.data.admin.ch/eli/fga/2021/2181)[2183](https://fedlex.data.admin.ch/eli/fga/2021/2183)).
+[^69a-2]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
+
 #### Art. 70
 
 **Disposiziuns executivas**
@@ -1737,7 +1746,15 @@ Ina moziun ch’è vegnida acceptada en la chombra prioritara po la segunda chom
 - a. acceptar u refusar definitivamain;
 - b. midar sin proposta da la maioritad da la cumissiun predeliberanta u dal Cussegl federal.
 
-<sup>4</sup> En la segunda tractativa po la chombra prioritara acceptar las midadas che la segunda chombra ha fatg, u refusar definitivamain la moziun.
+<sup>4</sup>
+
+Sche la segunda chombra fa ina midada, po la chombra prioritara far il suandant en la segunda tractativa:
+
+- a. acceptar la midada;
+- b. confermar ses conclus d’acceptar la moziun en sia versiun oriunda; u
+- c. refusar definitivamain la moziun.[^121-2]
+
+<sup>4bis</sup> Sche la chombra prioritara conferma en la segunda tractativa ses conclus d’acceptar la moziun en sia versiun oriunda, po la segunda chombra approvar quest conclus u refusar definitivamain la moziun.[^121-3]
 
 <sup>5</sup>
 
@@ -1747,6 +1764,8 @@ Ina moziun ch’è vegnida acceptada da la chombra prioritara è acceptada defin
 - b. ella è vegnida inoltrada d’ina cumissiun ed ina moziun identica d’ina cumissiun è vegnida acceptada da l’autra chombra.
 
 [^121-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2008, en vigur dapi ils 2 da mars 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^121-2]: Versiun tenor la cifra I da la LF dals 18 da zer. 2021 (procedura d’eliminaziun da las differenzas per las moziuns), en vigur dapi il 1. da nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
+[^121-3]: Integrà tras la cifra I da la LF dals 18 da zer. 2021 (procedura d’eliminaziun da las differenzas per las moziuns), en vigur dapi il 1. da nov. 2021 ([AS 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [BBl 2020 9309](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
 
 #### Art. 122
 
@@ -2645,7 +2664,7 @@ Ils suandants decrets vegnan abolids:
 
 - 1\. Lescha da garanzia dals 26 da mars 1934[^annexu1-lvlu1-1]
 - 2\. Decret da l’Assamblea federala dals 15 da november 1848[^annexu1-lvlu1-2] concernent il sarament che sto vegnir fatg da las autoritads federalas supremas
-- 3\. Lescha davart las relaziuns tranter las chombras dals 23 da mars 1962[^annexu1-lvlu1-3]. L’artitgel 8<sup>septies</sup> resta en vigur fin che l’artitgel 61 da la Lescha dal parlament vegn mess en vigur (art. 174 al. 3).
+- 3\. Lescha dals 23 da mars 1962[^annexu1-lvlu1-3] davart las relaziuns tranter las chombras. L’artitgel 8<sup>septies</sup> resta en vigur fin che l’artitgel 61 da la Lescha dal parlament vegn mess en vigur (art. 174 al. 3).
 
 II
 
@@ -2653,7 +2672,7 @@ Ils decrets qua sutvart vegnan midads sco suonda:
 
 ...[^annexu1-lvlu1-4]
 
-[^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 al. 2, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 121, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra I 414, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 3]
+[^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 al. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 3]
 [^annexu1-lvlu1-2]: [BS **1** 461]
-[^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869), [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452), [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 cifra 3, [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642), [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
+[^annexu1-lvlu1-3]: [[AS 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/811_849_869); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 cifra 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
 [^annexu1-lvlu1-4]: Las midadas pon vegnir consultadas en la [AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).
