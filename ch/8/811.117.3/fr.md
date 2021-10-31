@@ -3,11 +3,11 @@ sr: "811.117.3"
 title: Ordonnance du 5 avril 2017 concernant le registre des professions médicales universitaires (Ordonnance concernant le registre LPMéd)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/279"
 language: fr
-version: 2020-05-28
+version: 2021-11-01
 adopted: 2017-04-05
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20200528/fr/xml/fedlex-data-admin-ch-eli-cc-2017-279-20200528-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20200528/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-279-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20200528/fr"
 
 (Ordonnance concernant le registre LPMéd)
 
-du 5 avril 2017 (Etat le 28 mai 2020)
+du 5 avril 2017 (Etat le 1<sup>er</sup> novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -77,13 +77,12 @@ La Commission des professions médicales (MEBEKO) inscrit dans le registre des p
 - k. diplôme visé à l’art. 33*a*, al. 2, let. a, LPMéd, date d’établissement, lieu et pays où le diplôme a été délivré, date d’inscription au registre;
 - l. numéro d’identification de la personne (GLN[^3-3]).
 
-<sup>2</sup> Elle inscrit, pour les candidats à l’examen fédéral en médecine humaine 2020 selon l’art. 4*a* de l’ordonnance du 26 novembre 2008 concernant les examens LPMéd[^3-4], qui ont réussi l’examen écrit de type questionnaire à choix multiples, les données visées à l’al. 1, let. a à f, ainsi que la mention indiquant que ces personnes sont provisoirement inscrites dans la banque de données. Elle supprime l’inscription au plus tard le 31 octobre 2021 si le candidat n’a pas obtenu son diplôme fédéral dans ce délai.[^3-5]
+<sup>2</sup> ...[^3-4]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 13. déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 [^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-3]: L’abréviation GLN signifie *Global Location Number*.
-[^3-4]: [RS 811.113.3](https://fedlex.data.admin.ch/eli/cc/2008/832)
-[^3-5]: Introduit par le ch. I 3 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^3-4]: Introduit par le ch. I 3 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 4
 

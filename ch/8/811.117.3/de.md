@@ -3,11 +3,11 @@ sr: "811.117.3"
 title: Verordnung vom 5. April 2017 über das Register der universitären Medizinalberufe (Registerverordnung MedBG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/279"
 language: de
-version: 2020-05-28
+version: 2021-11-01
 adopted: 2017-04-05
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20200528/de/xml/fedlex-data-admin-ch-eli-cc-2017-279-20200528-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20200528/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2017-279-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20200528/de"
 
 (Registerverordnung MedBG)
 
-vom 5. April 2017 (Stand am 28. Mai 2020)
+vom 5. April 2017 (Stand am 1. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -77,13 +77,12 @@ Die Medizinalberufekommission (MEBEKO) trägt folgende Daten zu den Medizinalper
 - k. Diplome nach Artikel 33*a* Absatz 2 Buchstabe a MedBG mit Ausstellungsdatum, Ort und Land der Diplomerteilung sowie Datum des Register-eintrags;
 - l. Personen-Identifikationsnummer (GLN[^3-3]).
 
-<sup>2</sup> Sie trägt zu den Kandidatinnen und Kandidaten der eidgenössischen Prüfung in Humanmedizin 2020 nach Artikel 4*a* der Prüfungsverordnung MedBG vom 26. November 2008[^3-4], die die schriftliche Prüfung bestanden haben, die Daten nach Absatz 1 Buchstaben a–f sowie den Hinweis, dass diese Personen provisorisch in der Datenbank eingetragen sind, ein. Sie löscht die Eintragung spätestens am 31. Oktober 2021, falls die Kandidatin oder der Kandidat bis zu diesem Zeitpunkt das eidgenössische Diplom nicht erworben hat.[^3-5]
+<sup>2</sup> ...[^3-4]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 [^3-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-3]: GLN steht für Global Location Number
-[^3-4]: [SR 811.113.3](https://fedlex.data.admin.ch/eli/cc/2008/832)
-[^3-5]: Eingefügt durch Ziff. I 3 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^3-4]: Eingefügt durch Ziff. I 3 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 4
 

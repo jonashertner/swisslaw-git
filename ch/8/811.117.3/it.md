@@ -3,11 +3,11 @@ sr: "811.117.3"
 title: Ordinanza del 5 aprile 2017 sul registro delle professioni mediche universitarie (Ordinanza sul registro LPMed)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/279"
 language: it
-version: 2020-05-28
+version: 2021-11-01
 adopted: 2017-04-05
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20200528/it/xml/fedlex-data-admin-ch-eli-cc-2017-279-20200528-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20200528/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/279/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2017-279-20211101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/279/20200528/it"
 
 (Ordinanza sul registro LPMed)
 
-del 5 aprile 2017 (Stato 28 maggio 2020) (Stato 28 maggio 2020)
+del 5 aprile 2017 (Stato 1° novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -77,13 +77,12 @@ La Commissione delle professioni mediche (MEBEKO) iscrive nel registro delle pro
 - k. i diplomi di cui all’articolo 33*a* capoverso 2 lettera a LPMed con la data d’emissione, il luogo e il Paese di rilascio, nonché la data d’iscrizione nel registro;
 - l. il numero d’identificazione delle persone (GLN[^3-3]).
 
-<sup>2</sup> Iscrive i dati di cui al capoverso 1 lettere a–f dei candidati all’esame federale di medicina umana 2020 di cui all’articolo 4*a* dell’ordinanza del 26 novembre 2008[^3-4] sugli esami LPMed che hanno superato l’esame scritto, nonché l’indicazione che queste persone sono iscritte provvisoriamente nella banca dati. Cancella l’iscrizione entro il 31 ottobre 2021 se entro questa data il candidato non ha conseguito il diploma federale.[^3-5]
+<sup>2</sup> ...[^3-4]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 51](https://fedlex.data.admin.ch/eli/oc/2020/15)).
 [^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-3]: GLN è l’acronimo di *Global Location Number.*
-[^3-4]: [RS 811.113.3](https://fedlex.data.admin.ch/eli/cc/2008/832)
-[^3-5]: Introdotto dal n. I 3 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^3-4]: Introdotto dal n. I 3 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 4
 
