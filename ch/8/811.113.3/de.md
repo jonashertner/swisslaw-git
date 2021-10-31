@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Verordnung vom 26. November 2008 über die eidgenössischen Prüfungen der universitären Medizinalberufe (Prüfungsverordnung MedBG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: de
-version: 2020-05-28
+version: 2021-11-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20200528/de/xml/fedlex-data-admin-ch-eli-cc-2008-832-20200528-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20200528/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2008-832-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20200528/de"
 
 (Prüfungsverordnung MedBG)
 
-vom 26. November 2008 (Stand am 28. Mai 2020)
+vom 26. November 2008 (Stand am 1. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -85,36 +85,11 @@ Grundlage für den Inhalt der eidgenössischen Prüfung sind die allgemeinen und
 
 [^4-1]: Aufgehoben durch Ziff. I der V vom 5. April 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 
-#### Art. 4a
+#### Art. 4a und 4b
 
-**Massnahmen betreffend die eidgenössische Prüfung in Humanmedizin 2020 angesichts der Pandemie des Coronavirus**[^4a-1]
+[^4a4b-1]
 
-<sup>1</sup>
-
-Die eidgenössische Prüfung in Humanmedizin 2020 besteht aus:
-
-- a. einer schriftlichen Prüfung nach dem Wahlantwortverfahren; und
-- b. dem im Rahmen einer praktischen Tätigkeit an einer vom Schweizerischen Institut für ärztliche Weiter- und Fortbildung anerkannten Weiterbildungsstätte erbrachten Nachweis, dass sie über die Fertigkeiten und Fähigkeiten, die Verhaltensweisen und die sozialen Kompetenzen, die sie zur Berufsausübung unter fachlicher Aufsicht benötigen, verfügen (praktischer Nachweis).
-
-<sup>2</sup> Für Kandidatinnen und Kandidaten, die sich im Jahr 2020 für die Wiederholung der strukturierten praktischen Prüfung angemeldet haben, ist Absatz 1 Buchstabe b anwendbar.
-
-[^4a-1]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-
-#### Art. 4b
-
-**Praktischer Nachweis im Rahmen der eidgenössischen Prüfung in Humanmedizin 2020**[^4b-1]
-
-<sup>1</sup> Die für die Weiterbildung verantwortliche Person beurteilt die Kandidatin oder den Kandidaten gemäss Artikel 4*a* Absatz 1 Buchstabe b während einer Dauer von sechs Wochen.
-
-<sup>2</sup> Die Beurteilung erfolgt inhaltlich und strukturell nach den Vorgaben eines einheitlichen Beurteilungsformulars.
-
-<sup>3</sup> Die für die Weiterbildung verantwortliche Person stellt der Kandidatin oder dem Kandidaten ein Dokument aus mit dem Ergebnis ihrer Beurteilung samt Begründung.
-
-<sup>4</sup> Sie reicht das Dokument bis zum 15. Oktober 2021 bei der Prüfungskommission Humanmedizin ein.
-
-<sup>5</sup> Die MEBEKO, Ressort Ausbildung, erstellt das Beurteilungsformular nach Absatz 2 auf Vorschlag der Prüfungskommission.
-
-[^4b-1]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^4a4b-1]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 5
 
@@ -260,7 +235,7 @@ Berechtigte Examinatorinnen und Examinatoren können sein:
 
 <sup>2</sup> Die MEBEKO, Ressort Ausbildung, veröffentlicht jährlich vor Beginn des Universitätsjahres den Anmeldetermin im Internet.[^12-1]
 
-<sup>3</sup> Für Kandidatinnen und Kandidaten der eidgenössischen Prüfung in Humanmedizin 2020 kann die MEBEKO, Ressort Ausbildung, für die eidgenössische Prüfung 2021 einen ausserordentlichen Anmeldetermin vorsehen.[^12-2]
+<sup>3</sup> ...[^12-2]
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 [^12-2]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
@@ -377,12 +352,9 @@ Das Sekretariat des Ressorts Ausbildung der MEBEKO erstellt zuhanden der Standor
 
 <sup>3</sup> Eine nicht bestandene eidgenössische Prüfung kann zweimal wiederholt werden.
 
-<sup>4</sup> Für Kandidatinnen und Kandidaten der eidgenössischen Prüfung in Humanmedizin 2020 wird eine im Jahr 2020 nicht bestandene schriftliche Prüfung nach Artikel 4*a* Absatz 1 Buchstabe a oder ein nicht bestandener praktischer Nachweis nach Artikel 4*a* Absatz 1 Buchstabe b nicht an die Anzahl der Wiederholungsmöglichkeiten nach Absatz 3 angerechnet.[^18-1]
-
-<sup>5</sup> Wer den praktischen Nachweis nicht vor dem Datum nach Artikel 4*b* Absatz 4 besteht, kann sich zur nächstmöglichen strukturierten praktischen Prüfung anmelden.[^18-2]
+<sup>4</sup> und <sup>5</sup> ...[^18-1]
 
 [^18-1]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^18-2]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 19
 
@@ -390,7 +362,7 @@ Das Sekretariat des Ressorts Ausbildung der MEBEKO erstellt zuhanden der Standor
 
 <sup>1</sup> Wer die eidgenössische Prüfung dreimal nicht bestanden hat, wird von jeder weiteren eidgenössischen Prüfung des gleichen universitären Medizinalberufs ausgeschlossen.
 
-<sup>2</sup> Für Kandidatinnen und Kandidaten der eidgenössischen Prüfung in Humanmedizin 2020 wird eine im Jahr 2020 nicht bestandene schriftliche Prüfung nach Artikel 4*a* Absatz 1 Buchstabe a oder ein nicht bestandener praktischer Nachweis nach Artikel 4*a* Absatz 1 Buchstabe b nicht an die Anzahl der Wiederholungsmöglichkeiten nach Absatz 1 angerechnet.[^19-1]
+<sup>2</sup> ...[^19-1]
 
 [^19-1]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -402,7 +374,7 @@ Das Sekretariat des Ressorts Ausbildung der MEBEKO erstellt zuhanden der Standor
 
 <sup>2</sup> Die Namen derjenigen Kandidatinnen und Kandidaten, welche die eidgenössische Prüfung bestanden haben, werden im Internet und in anderer geeigneter Form veröffentlicht.
 
-<sup>3</sup> Die Präsidentin oder der Präsident der Prüfungskommission Humanmedizin gibt den Kandidatinnen und Kandidaten der eidgenössischen Prüfung in Humanmedizin 2020 das Resultat der schriftlichen Prüfung nach Artikel 4*a* Absatz 1 Buchstabe a mittels separater Zwischenverfügung bekannt.[^20-1]
+<sup>3</sup> ...[^20-1]
 
 [^20-1]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -512,16 +484,7 @@ Die Datenbank enthält zusätzlich:
 
 #### Art. 28
 
-**Gebühren und Entschädigungen für die eidgenössische Prüfung in Humanmedizin 2020**[^28-1]
-
-<sup>1</sup>
-
-In Abweichung von Artikel 27 Absatz 2 Buchstaben a beträgt die Gebühr für die eidgenössische Prüfung in Humanmedizin 2020 nach Artikel 4*a* für:
-
-- a. die schriftliche Prüfung im Wahlantwortverfahren: 750 Franken;
-- b. den praktischen Nachweis: 300 Franken;
-
-<sup>2</sup> Weiterbildungsverantwortliche erhalten für die Ausstellung des Dokuments nach Artikel 4*b* Absatz 3 eine Entschädigung von 300 Franken.
+[^28-1]
 
 [^28-1]: Fassung gemäss Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 

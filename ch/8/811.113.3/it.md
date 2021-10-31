@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Ordinanza del 26 novembre 2008 concernente gli esami federali per le professioni mediche (Ordinanza sugli esami LPMed)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: it
-version: 2020-05-28
+version: 2021-11-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20200528/it/xml/fedlex-data-admin-ch-eli-cc-2008-832-20200528-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20200528/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2008-832-20211101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20200528/it"
 
 (Ordinanza sugli esami LPMed)
 
-del 26 novembre 2008 (Stato 28 maggio 2020)
+del 26 novembre 2008 (Stato 1° novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -85,36 +85,11 @@ Il contenuto dell’esame federale si fonda sugli obiettivi formativi generali e
 
 [^4-1]: Abrogato dal n. I dell’O del 5 apr. 2017, con effetto dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 
-#### Art. 4a
+#### Art. 4a e 4b
 
-**Provvedimenti concernenti l’esame federale di medicina umana 2020 in considerazione della pandemia di coronavirus**[^4a-1]
+[^4a4b-1]
 
-<sup>1</sup>
-
-L’esame federale di medicina umana 2020 si compone di:
-
-- a. un esame scritto secondo il procedimento della scelta fra più risposte; e
-- b. la prova fornita nel quadro di un’attività pratica in un centro di perfezionamento riconosciuto dall’Istituto svizzero per la formazione medica di disporre delle attitudini e delle capacità, nonché delle modalità di comportamento e della competenza sociale necessarie all’esercizio della professione sotto vigilanza professionale (prova pratica).
-
-<sup>2</sup> Ai candidati che nel 2020 si sono iscritti alla ripetizione dell’esame pratico strutturato si applica il capoverso 1 lettera b.
-
-[^4a-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-
-#### Art. 4b
-
-**Prova pratica nel quadro dell’esame federale di medicina umana 2020**[^4b-1]
-
-<sup>1</sup> La persona responsabile del perfezionamento valuta il candidato secondo l’articolo 4*a* capoverso 1 lettera b per una durata di sei settimane.
-
-<sup>2</sup> I contenuti e la struttura della valutazione sono conformi alle prescrizioni di un modulo di valutazione unitario.
-
-<sup>3</sup> La persona responsabile del perfezionamento rilascia al candidato un documento con il risultato della sua valutazione inclusa la motivazione.
-
-<sup>4</sup> Consegna il documento alla commissione d’esame in medicina umana entro il 15 ottobre 2021.
-
-<sup>5</sup> La MEBEKO, sezione «Formazione», elabora il modulo di valutazione di cui al capoverso 2 su proposta della commissione d’esame.
-
-[^4b-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^4a4b-1]: Introdotti dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 5
 
@@ -260,7 +235,7 @@ Possono essere autorizzati quali esaminatori:
 
 <sup>2</sup> Prima dell’inizio di ogni anno accademico, la MEBEKO, sezione «Formazione», pubblica la data di chiusura delle iscrizioni in Internet.[^12-1]
 
-<sup>3</sup> La MEBEKO, sezione «Formazione», può prevedere una data straordinaria di chiusura delle iscrizioni all’esame federale 2021 per i candidati all’esame federale di medicina umana 2020.[^12-2]
+<sup>3</sup> ...[^12-2]
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 [^12-2]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
@@ -377,12 +352,9 @@ Il segretariato della sezione «Formazione» della MEBEKO stila, all’attenzion
 
 <sup>3</sup> In caso d’insuccesso, l’esame federale può essere ripetuto due volte.
 
-<sup>4</sup> Ai candidati all’esame federale di medicina umana 2020 non sono conteggiati, nel numero di possibilità di ripetizione secondo il capoverso 3, un esame di cui all’articolo 4*a* capoverso 1 lettera a o una prova pratica di cui all’articolo 4*a* capoverso 1 lettera b non superati nel 2020.[^18-1]
+<sup>4</sup> e <sup>5</sup> ...[^18-1]
 
-<sup>5</sup> Chi non supera la prova pratica prima della data di cui all’articolo 4*b* capoverso 4 può iscriversi alla prima sessione successiva possibile dell’esame pratico strutturato.[^18-2]
-
-[^18-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^18-2]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^18-1]: Introdotti dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 19
 
@@ -390,7 +362,7 @@ Il segretariato della sezione «Formazione» della MEBEKO stila, all’attenzion
 
 <sup>1</sup> Il candidato che non ha superato per tre volte l’esame federale è escluso da qualsiasi altro esame federale per la stessa professione medica universitaria.
 
-<sup>2</sup> Ai candidati all’esame federale di medicina umana 2020 non sono conteggiati, nel numero di possibilità di ripetizione di cui al capoverso 1, un esame di cui all’articolo 4*a* capoverso 1 lettera a o una prova pratica di cui all’articolo 4*a* capoverso 1 lettera b non superati nel 2020.[^19-1]
+<sup>2</sup> ...[^19-1]
 
 [^19-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -402,7 +374,7 @@ Il segretariato della sezione «Formazione» della MEBEKO stila, all’attenzion
 
 <sup>2</sup> I nomi dei candidati che hanno superato l’esame federale sono pubblicati in Internet e in un’altra forma appropriata.
 
-<sup>3</sup> Il presidente della commissione d’esame in medicina umana comunica al candidato all’esame federale di medicina umana 2020 il risultato dell’esame scritto di cui all’articolo 4*a* capoverso 1 lettera a mediante una decisione formale intermedia separata.[^20-1]
+<sup>3</sup> ...[^20-1]
 
 [^20-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -512,18 +484,9 @@ La banca dati contiene inoltre:
 
 #### Art. 28
 
-**Tasse e indennità per l’esame federale di medicina umana 2020**[^28-1]
+[^28-1]
 
-<sup>1</sup>
-
-In deroga all’articolo 27 capoverso 2 lettera a, la tassa per l’esame federale di medicina umana 2020 di cui all’articolo 4*a* è stabilita come segue:
-
-- a. esame scritto secondo il procedimento della scelta fra più risposte: 750 franchi;
-- b. prova pratica: 300 franchi.
-
-<sup>2</sup> I responsabili del perfezionamento ricevono un’indennità di 300 franchi per il rilascio del documento di cui all’articolo 4*b* capoverso 3.
-
-[^28-1]: Nuovo testo giusta il n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^28-1]: Abrogato dal n. I dell’O del 17 nov. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Nuovo testo giusta il n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 29
 

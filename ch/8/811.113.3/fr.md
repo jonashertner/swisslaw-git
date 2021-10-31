@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Ordonnance du 26 novembre 2008 concernant les examens fédéraux des professions médicales universitaires (Ordonnance concernant les examens LPMéd)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: fr
-version: 2020-05-28
+version: 2021-11-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20200528/fr/xml/fedlex-data-admin-ch-eli-cc-2008-832-20200528-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20200528/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-832-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20200528/fr"
 
 (Ordonnance concernant les examens LPMéd)
 
-du 26 novembre 2008 (Etat le 28 mai 2020)
+du 26 novembre 2008 (Etat le 1<sup>er</sup> novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -85,36 +85,11 @@ Les objectifs de formation généraux et spécifiques à chaque profession fixé
 
 [^4-1]: Abrogé par le ch. I de l’O du 5 avr. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 
-#### Art. 4a
+#### Art. 4a et 4b
 
-**Mesures concernant l’examen fédéral en médecine humaine 2020 compte tenu de la pandémie de coronavirus**[^4a-1]
+[^4a4b-1]
 
-<sup>1</sup>
-
-L’examen fédéral en médecine humaine 2020 comprend:
-
-- a. un examen écrit de type questionnaire à choix multiples, et
-- b. une activité pratique dans un établissement de formation reconnu par l’Institut suisse pour la formation médicale postgraduée et continue, sanctionnée par l’obtention d’une attestation établissant qu’ils disposent des aptitudes et des capacités, des compétences sociales et des comportements nécessaires à l’exercice de la profession médicale sous surveillance professionnelle (validation pratique).
-
-<sup>2</sup> L’al. 1, let. b, s’applique aux candidats inscrits en 2020 pour répéter l’examen pratique structuré.
-
-[^4a-1]: Introduit par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-
-#### Art. 4b
-
-**Validation pratique dans le cadre de l’examen fédéral en médecine humaine 2020**[^4b-1]
-
-<sup>1</sup> La personne responsable de la formation postgrade évalue les candidats au sens de l’art. 4*a*, al. 1, let. b, sur une période de six semaines.
-
-<sup>2</sup> L’évaluation a lieu, pour le contenu et la forme, suivant les exigences du formulaire d’évaluation uniforme.
-
-<sup>3</sup> La personne responsable de la formation postgrade délivre au candidat un document avec le résultat de son évaluation dûment motivé.
-
-<sup>4</sup> Elle remet le document au plus tard le 15 octobre 2021 à la commission d’examen en médecine humaine.
-
-<sup>5</sup> La MEBEKO, section «formation universitaire», établit le formulaire d’évaluation prévu à l’al. 2, sur proposition de la commission d’examen.
-
-[^4b-1]: Introduit par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^4a4b-1]: Introduits par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 5
 
@@ -260,7 +235,7 @@ Peuvent être habilités comme examinateurs:
 
 <sup>2</sup> Avant le début de chaque année universitaire, la section «formation universitaire» de la MEBEKO publie sur Internet la date de clôture des inscriptions.[^12-1]
 
-<sup>3</sup> Elle peut, pour les candidats à l’examen fédéral en médecine humaine 2020, prévoir un délai d’inscription exceptionnel à l’examen fédéral 2021.[^12-2]
+<sup>3</sup> ...[^12-2]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 [^12-2]: Introduit par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
@@ -377,12 +352,9 @@ Le secrétariat de la section «formation universitaire» de la MEBEKO établit,
 
 <sup>3</sup> En cas d’échec, l’examen fédéral peut être répété deux fois.
 
-<sup>4</sup> Pour les candidats à l’examen fédéral en médecine humaine 2020, un échec en 2020 à l’examen écrit selon l’art. 4*a*, al. 1, let. a, ou à une validation pratique selon l’art. 4*a*, al. 1, let. b, n’est pas pris en compte dans le nombre de répétitions possibles selon l’al. 3.[^18-1]
+<sup>4</sup> et <sup>5</sup> ...[^18-1]
 
-<sup>5</sup> Quiconque ne réussit pas la validation pratique avant la date prévue à l’art. 4*b*, al. 4, peut s’inscrire au prochain examen pratique structuré possible.[^18-2]
-
-[^18-1]: Introduit par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
-[^18-2]: Introduit par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^18-1]: Introduits par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 19
 
@@ -390,7 +362,7 @@ Le secrétariat de la section «formation universitaire» de la MEBEKO établit,
 
 <sup>1</sup> Le candidat qui a échoué trois fois à l’examen fédéral n’est plus autorisé à s’inscrire à un nouvel examen fédéral de la même profession médicale universitaire.
 
-<sup>2</sup> Pour les candidats à l’examen fédéral en médecine humaine 2020, un échec en 2020 à l’examen écrit selon l’art. 4*a*, al. 1, let. a, ou à une validation pratique selon l’art. 4*a*, al. 1, let. b, n’est pas pris en compte dans le nombre de répétitions possibles selon l’al. 1.[^19-1]
+<sup>2</sup> ...[^19-1]
 
 [^19-1]: Introduit par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -402,7 +374,7 @@ Le secrétariat de la section «formation universitaire» de la MEBEKO établit,
 
 <sup>2</sup> Les noms des candidats ayant réussi l’examen fédéral sont publiés sur Internet et d’une autre manière appropriée.
 
-<sup>3</sup> Le président de la commission d’examen en médecine humaine notifie au candidat à l’examen fédéral en médecine humaine 2020 le résultat de l’examen écrit selon l’art. 4*a*, al. 1, let. a, au moyen d’une décision intermédiaire séparée.[^20-1]
+<sup>3</sup> ...[^20-1]
 
 [^20-1]: Introduit par le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -510,18 +482,9 @@ La banque de données contient en outre:
 
 #### Art. 28
 
-**Taxes et indemnités pour l’examen fédéral en médecine humaine 2020**[^28-1]
+[^28-1]
 
-<sup>1</sup>
-
-En dérogation à l’art. 27, al. 2, let. a, les taxes d’examen pour l’examen fédéral en médecine humaine 2020 visé à l’art. 4*a* sont fixées comme suit:
-
-- a. examen écrit de type questionnaire à choix multiples: 750 francs;
-- b. validation pratique: 300 francs.
-
-<sup>2</sup> Les responsables de la formation postgrade reçoivent une indemnité de 300 francs pour délivrer le document visé à l’art. 4*b*, al. 3.
-
-[^28-1]: Nouvelle teneur selon le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^28-1]: Abrogé par le ch. I de l’O du 17 nov. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Nouvelle teneur selon le ch. I 2 de l’O COVID-19 examen fédéral en médecine humaine du 27 mai 2020, en vigueur du 28 mai 2020 au 31 oct. 2021 ([RO 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 29
 
