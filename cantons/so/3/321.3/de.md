@@ -4,13 +4,13 @@ number: "321.3"
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung
 short: EG StPO
 language: de
-version: 2018-01-01
-valid_until: 2021-10-31
-version_adopted: 2017-07-05
+version: 2021-11-01
+valid_until: 2023-12-31
+version_adopted: 2020-11-04
 adopted: 2010-03-10
 in_force: 2011-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/321.3"
-pdf: "https://bgs.so.ch/api/de/versions/4650/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5119/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4650/pdf_file"
 
 (EG StPO)
 
-Vom 10.03.2010 (Stand 01.01.2018)
+Vom 10.03.2010 (Stand 01.11.2021)
 
 Der Kantonsrat von Solothurn
 
@@ -86,7 +86,7 @@ beschliesst:
 
 <sup>1</sup> Ist die Staatsanwaltschaft mit einem Fall von internationaler Rechtshilfe befasst, so ist der Oberstaatsanwalt oder die Oberstaatsanwältin zuständig.
 
-<sup>2</sup> Vorbehalten bleiben die Zuständigkeiten der Jugendanwaltschaft, des Departements des Innern als Strafvollzugsbehörde sowie der Kantonspolizei im direkten polizeilichen Rechtshilfeverkehr.
+<sup>2</sup> Vorbehalten bleiben die Zuständigkeiten der Jugendanwaltschaft, der zuständigen Stelle Departements des Innern als Strafvollzugsbehörde sowie der Kantonspolizei im direkten polizeilichen Rechtshilfeverkehr.
 
 #### § 6
 
@@ -137,10 +137,13 @@ beschliesst:
 
 <sup>1<sup>quinquies</sup></sup> Die Strafbehörden informieren die zuständige Kontrollbehörde über Urteile betreffend Widerhandlungen gegen das Bundesgesetz über Lebensmittel und Gebrauchsgegenstände (Lebensmittelgesetz, LMG) vom 20. Juni 2014[^9-2] oder die dazugehörigen Ausführungserlasse.
 
+<sup>1<sup>sexies</sup></sup> Die Strafbehörden informieren die Kantonspolizei und die Bewährungshilfe über Anordnungen betreffend Lernprogramme gegen Gewalt gemäss Artikel 55a Absatz 2 StGB[^9-3].
+
 <sup>2</sup> Vorbehalten bleiben Mitteilungsrechte und -pflichten gemäss anderen Erlassen.
 
 [^9-1]: BGS [511.515](https://bgs.so.ch/data/511.515/de).
 [^9-2]: SR [817.0](https://db.clex.ch/link/Bund/817.0/de).
+[^9-3]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 
 #### § 9bis
 
@@ -189,7 +192,7 @@ beschliesst:
 <sup>1</sup> Die Funktion von ständig bestellten amtlichen Sachverständigen nehmen wahr:
 
 - a) für Legalinspektionen, körperliche Untersuchungen an lebenden Personen und die Beurteilung von Substanzen (Betäubungsmittel, Toxikologie etc.): der Kantonsarzt oder die Kantonsärztin, die Amteiärzte und Amteiärztinnen sowie die wissenschaftlichen Mitarbeitenden der Institute für Rechtsmedizin;
-- b) für die Beurteilung der Hafterstehungsfähigkeit: der Gefängnisarzt oder die Gefängnisärztin sowie die Ärzteschaft der Psychiatrischen Dienste des Kantons Solothurn;
+- b) für die Beurteilung der Hafterstehungsfähigkeit: der Gefängnisarzt oder die Gefängnisärztin sowie die Ärzte und Ärztinnen der Solothurner Spitäler AG;
 - c) für die Beurteilung von Motorfahrzeugen (inkl. Zubehör): die technischen Verkehrsexperten und Verkehrsexpertinnen der Motorfahrzeugkontrolle Solothurn.
 
 ### 1.6. Zwangsmassnahmen
@@ -297,7 +300,11 @@ beschliesst:
 
 <sup>1</sup> Die Erhebung der Verfahrenskosten richtet sich nach dem Gebührentarif[^25-1], soweit die Schweizerische Strafprozessordnung keine Regelung enthält.
 
+<sup>2</sup> Die Übernahme der Kosten für den Besuch von Lernprogrammen gegen Gewalt gemäss Artikel 55a Absatz 2 StGB[^25-2] richtet sich nach Artikel 426 StPO[^25-3].
+
 [^25-1]: BGS [615.11](https://bgs.so.ch/data/615.11/de).
+[^25-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
+[^25-3]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
 
 #### § 26
 
@@ -311,7 +318,7 @@ beschliesst:
 
 **Freiheitsstrafen und Massnahmen (Art. 439 StPO)**
 
-<sup>1</sup> Für den Vollzug von Freiheitsstrafen und von Massnahmen ist bei Erwachsenen das Departement des Innern zuständig.
+<sup>1</sup> Für den Vollzug von Freiheitsstrafen und von Massnahmen ist bei Erwachsenen die zuständige Stelle des Departements des Innern zuständig.
 
 <sup>2</sup> Der Vollzug richtet sich nach dem Justizvollzugsgesetz[^27-1].
 
