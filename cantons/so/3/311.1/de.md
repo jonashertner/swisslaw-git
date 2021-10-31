@@ -3,20 +3,19 @@ canton: SO
 number: "311.1"
 title: Gesetz über das kantonale Strafrecht und die Einführung des Schweizerischen Strafgesetzbuches
 language: de
-version: 2021-03-01
-valid_until: 2021-10-31
-version_adopted: 2020-05-06
+version: 2021-11-01
+version_adopted: 2020-11-04
 adopted: 1941-09-14
 in_force: 1942-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/311.1"
-pdf: "https://bgs.so.ch/api/de/versions/5050/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5118/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über das kantonale Strafrecht und die Einführung des Schweizerischen Strafgesetzbuches
 
-Vom 14.09.1941 (Stand 01.03.2021)
+Vom 14.09.1941 (Stand 01.11.2021)
 
 Der Kantonsrat von Solothurn
 
@@ -334,6 +333,16 @@ beschliesst:
 
 <sup>1</sup> Wer der Anordnung oder Aufforderung nicht nachkommt, die ein Polizeibeamter innerhalb seiner Befugnisse erlässt, wird mit Haft bis 8 Tage oder Busse bestraft.
 
+#### § 31quater
+
+**Annäherungs-, Kontakt- und Flugverbote im Bereich von Vollzugseinrichtungen**
+
+<sup>1</sup> Wer ein Annäherungs-, Kontakt- oder Flugverbot gemäss § 22<sup>bis</sup> des Gesetzes über den Justizvollzug (JUVG) vom 13. November 2013[^31quater-1] missachtet, wird mit Busse bestraft.
+
+<sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
+
+[^31quater-1]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
+
 #### § 31bis
 
 **Feuerverbot**
@@ -396,6 +405,7 @@ beschliesst:
 
 - a) …
 - b) Vollzug der Geldstrafen, Bussen und Ersatzfreiheitsstrafen (Art. 35, 36 und 106 StGB);
+- b<sup>bis</sup>) Sicherstellung eines ausreichenden Angebots an Lernprogrammen gegen Gewalt (Art. 55a Abs. 2 StGB);
 - c) …
 - d) …
 - e) …
@@ -412,6 +422,8 @@ beschliesst:
 **Zuständigkeit des Departementes des Innern**
 
 <sup>1</sup> Zum Entscheid über die Einschränkung oder Aufhebung eines Tätigkeitsverbotes oder eines Kontakt- und Rayonverbotes nach Artikel 67c Absätze 4 und 5 StGB[^39bis-1] ist das Departement des Innern zuständig.
+
+<sup>2</sup> Das Departement des Innern kann Leistungsvereinbarungen mit auf Gewaltberatungen spezialisierten sozialen Institutionen abschliessen und an diese im Rahmen seiner Finanzkompetenzen Beiträge leisten. Es legt die Voraussetzungen für die Anerkennung der betreffenden sozialen Institutionen fest.
 
 [^39bis-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 
