@@ -4,13 +4,13 @@ number: "102.111.1"
 title: Geschäftsordnung des Bernjurassischen Rats
 short: GO BJR
 language: de
-version: 2019-06-01
-valid_until: 2021-10-31
-version_adopted: 2019-03-27
+version: 2021-11-01
+valid_until: 2022-04-30
+version_adopted: 2021-09-29
 adopted: 2006-09-27
 in_force: 2006-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/102.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1651/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2389/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1651/pdf_file"
 
 (GO BJR)
 
-vom 27.09.2006 (Stand 01.06.2019)
+vom 27.09.2006 (Stand 01.11.2021)
 
 Der Bernjurassische Rat,
 
@@ -205,14 +205,14 @@ beschliesst:
 
 <sup>1</sup> Der BJR bildet aus seiner Mitte folgende ständigen Kommissionen, die aus sieben bis zehn Mitgliedern bestehen:
 
-- a Institutionskommission,
-- b Volkswirtschaftskommission,
-- c Gesundheits- und Fürsorgekommission,
-- d Justiz-, Gemeinden- und Kirchenkommission,
-- e Polizei-, Militär- und Finanzkommission,
-- f Erziehungskommission,
+- a Kommission Institutionen,
+- b Wirtschafts-, Energie- und Umweltkommission,
+- c Gesundheits-, Sozial- und Integrationskommission,
+- d Kommission für Inneres und Justiz,
+- e Sicherheits- und Finanzkommission,
+- f Bildungskommission,
 - g Kulturkommission,
-- h Bau-, Verkehrs- und Energiekommission.
+- h Bau- und Verkehrskommission.
 
 <sup>2</sup> Die Mitglieder, die Vizevorsitzenden und die Vorsitzenden der ständigen Kommissionen werden vom BJR gewählt.
 
@@ -258,7 +258,7 @@ beschliesst:
 
 <sup>1</sup> Das Büro und die Institutionskommission vertreten den BJR grundsätzlich in den interkantonalen und insbesondere in den interjurassischen Beziehungen im Sinne von Artikel 27 und 28 SStG.
 
-<sup>2</sup> Die Erziehungskommission vertritt den BJR in den interkantonalen Beziehungen im Rahmen der Schulkoordination mit der Westschweiz und dem Kanton Jura gemäss Artikel 23 SStG und Artikel 16 bis 18 SStV.
+<sup>2</sup> Die Bildungskommission vertritt den BJR in den interkantonalen Beziehungen im Rahmen der Schulkoordination mit der Westschweiz und dem Kanton Jura gemäss Artikel 23 SStG und Artikel 16 bis 18 SStV.
 
 <sup>3</sup> Die zuständige Kommission kann im Einzelfall ihre Präsidentin oder ihren Präsidenten oder ein anderes Mitglied ermächtigen, den BJR in den interkantonalen Beziehungen zu vertreten.
 
@@ -315,7 +315,7 @@ beschliesst:
 
 #### Art. 24
 
-**Aufgaben**
+**Aufgaben und Stellvertretung**
 
 <sup>1</sup> Die Generalsekretärin oder der Generalsekretär hat folgende Aufgaben:
 
@@ -324,8 +324,8 @@ beschliesst:
 - c Prüfung aller Geschäfte, die dem BJR unterbreitet werden, und Vorbereitung der Beschlüsse;
 - d Verfassen der Entwürfe der Stellungnahmen, die im Rahmen der politischen Mitwirkung abgegeben werden;
 - e–f …
-- g Durchführen des Verwaltungsverfahrens in Bezug auf die Gewährung von Staatsbeiträgen aus dem Lotteriefonds oder aus dem Sportfonds, dies in Zusammenarbeit mit dem Amt für Migration und Personenstand und dem Polizei-, Militär- und Finanzkommission, und Sicherstellen, dass der RFB konsultiert wird;
-- h Prüfen, gemeinsam mit dem Generalsekretariat des RFB und in Zusammenarbeit mit der Französischsprachigen Koordinationskonferenz der Erziehungsdirektion (FRAKO), der Geschäfte mit Bezug auf die Schulkoordination mit der Westschweiz und dem Kanton Jura;
+- g Durchführen des Verwaltungsverfahrens in Bezug auf die Gewährung von Staatsbeiträgen aus dem Lotteriefonds oder aus dem Sportfonds, dies in Zusammenarbeit mit dem Amt für Migration und Personenstand und der Sicherheits- und Finanzkommission, und Sicherstellen, dass der RFB konsultiert wird;
+- h Prüfen, gemeinsam mit dem Generalsekretariat des RFB und in Zusammenarbeit mit der Französischsprachigen Koordinationskonferenz der Bildungs- und Kulturdirektion (FRAKO), der Geschäfte mit Bezug auf die Schulkoordination mit der Westschweiz und dem Kanton Jura;
 - i Unterhalten der Beziehungen und Sicherstellen der Zusammenarbeit des BJR mit dem RFB, der Kantonsverwaltung, den öffentlichen oder privaten Organisationen und Vereinigungen;
 - k den Mitgliedern des BJR diejenigen Informationen zur Verfügung stellen, die zur Ausübung ihres Mandats erforderlich sind;
 - l Verfassen des jährlichen Tätigkeitsberichts des BJR;
@@ -338,6 +338,8 @@ beschliesst:
 
 - a Ausarbeiten, nach Konsultation des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (RFB) sowie in Zusammenarbeit mit dem Amt für Kultur, der französischsprachigen Kommission für allgemeine kulturelle Fragen und der Kulturkommission, des Entwurfs für ein allgemeines kulturpolitisches Konzept des BJR;
 - b Durchführen des Verwaltungsverfahrens in Bezug auf die Gewährung von Staatsbeiträgen an kulturelle Aktivitäten, dies in Zusammenarbeit mit dem Amt für Kultur und der Kulturkommission, und Sicherstellen, dass der RFB konsultiert wird;
+
+<sup>3</sup> Die Assistentin oder der Assistent der Generalsekretärin oder des Generalsekretärs nimmt die Stellvertretung der Generalsekretärin oder des Generalsekretärs wahr.
 
 #### Art. 25
 

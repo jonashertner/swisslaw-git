@@ -4,13 +4,13 @@ number: "102.111.1"
 title: Règlement du Conseil du Jura bernois
 short: RCJB
 language: fr
-version: 2019-06-01
-valid_until: 2021-10-31
-version_adopted: 2019-03-27
+version: 2021-11-01
+valid_until: 2022-04-30
+version_adopted: 2021-09-29
 adopted: 2006-09-27
 in_force: 2006-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1651/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2389/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1651/pdf_file"
 
 (RCJB)
 
-du 27.09.2006 (état au 01.06.2019)
+du 27.09.2006 (état au 01.11.2021)
 
 Le Conseil du Jura bernois,
 
@@ -206,13 +206,13 @@ arrête:
 <sup>1</sup> Le CJB constitue en son sein les commissions permanentes suivantes comptant chacune entre sept et dix membres:
 
 - a Commission Institutions,
-- b Commission Economie publique,
-- c Commission Santé publique et prévoyance sociale,
-- d Commission Justice, affaires communales et affaires ecclésiastiques,
-- e Commission Police, affaires militaires et finances,
+- b Commission Economie, énergie et environnement,
+- c Commission Santé, affaires sociales et intégration,
+- d Commission Intérieur et justice,
+- e Commission Sécurité et finances,
 - f Commission Instruction publique,
 - g Commission Culture,
-- h Commission Travaux publics, transports et énergie.
+- h Commission Travaux publics et transports.
 
 <sup>2</sup> Les membres, les vice-présidents ou vice-présidentes et les présidents ou présidentes des commissions permanentes sont élus par le CJB.
 
@@ -315,7 +315,7 @@ arrête:
 
 #### Art. 24
 
-**Tâches**
+**Tâches et suppléance**
 
 <sup>1</sup> Les tâches du secrétaire général ou de la secrétaire générale sont les suivantes:
 
@@ -324,8 +324,8 @@ arrête:
 - c examiner toutes les affaires soumises au CJB et préparer les décisions;
 - d rédiger les projets de prises de position dans le cadre de la participation politique;
 - e–f …
-- g mener la procédure administrative relative à l'octroi de subventions cantonales à prélever sur le Fonds de loterie ou sur le Fonds du sport, en collaboration avec l'Office de la population et des migrations et la Commission Police, affaires militaires et finances, et assurer la consultation du CAF;
-- h examiner, conjointement avec le secrétariat général du CAF, les affaires relevant de la coordination scolaire romande et interjurassienne, en collaboration avec la Conférence de coordination francophone de la Direction de l'instruction publique (COFRA);
+- g mener la procédure administrative relative à l'octroi de subventions cantonales à prélever sur le Fonds de loterie ou sur le Fonds du sport, en collaboration avec l'Office de la population et des migrations et la Commission Sécurité et finances, et assurer la consultation du CAF;
+- h examiner, conjointement avec le secrétariat général du CAF, les affaires relevant de la coordination scolaire romande et interjurassienne, en collaboration avec la Conférence de coordination francophone de la Direction de l'instruction publique et de la culture (COFRA);
 - i entretenir les relations et assurer la collaboration du CJB avec le CAF, l'administration cantonale, les organisations et associations publiques ou privées;
 - k mettre à disposition des membres du CJB les informations nécessaires à l'exercice de leur mandat;
 - l rédiger annuellement le projet de rapport sur les activités du CJB;
@@ -338,6 +338,8 @@ arrête:
 
 - a élaborer, après consultation du Conseil des affaires francophones de l'arrondissement de Biel/Bienne (CAF), le projet de conception de politique culturelle générale du CJB, en collaboration avec l'Office de la culture, la Commission francophone chargée des affaires culturelles générales et la Commission Culture;
 - b mener la procédure administrative relative à l'octroi de subventions cantonales aux activités culturelles, en collaboration avec l'Office de la culture et la Commission Culture, et assurer la consultation du CAF.
+
+<sup>3</sup> L’assistant ou l’assistante du secrétaire général ou de la secrétaire générale assume la suppléance du secrétaire général ou de la secrétaire générale.
 
 #### Art. 25
 
