@@ -4,13 +4,12 @@ number: "436.111.4"
 title: Ordonnance de Direction régissant les procédures de nomination et de recrutement des membres de la direction de l’Université
 short: ODDU
 language: fr
-version: 2013-06-01
-valid_until: 2021-10-31
-version_adopted: 2013-03-06
+version: 2021-11-01
+version_adopted: 2021-09-10
 adopted: 2013-03-06
 in_force: 2013-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/436.111.4"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/813/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2379/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/813/pdf_file"
 
 (ODDU)
 
-du 06.03.2013 (état au 01.06.2013)
+du 06.03.2013 (état au 01.11.2021)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -42,7 +41,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Le directeur ou la directrice de l’instruction publique institue une commission chargée de préparer la désignation, l’engagement ou la révocation d’un membre de la direction de l’Université. L’article 7 est réservé.
+<sup>1</sup> Le directeur ou la directrice de l’instruction publique et de la culture institue une commission chargée de préparer la désignation, l’engagement ou la révocation d’un membre de la direction de l’Université. L’article 7 est réservé.
 
 #### Art. 3
 
@@ -56,19 +55,19 @@ arrête:
 
 **Composition et droit de vote**
 
-<sup>1</sup> La commission se compose d’un nombre égal de membres du sénat et de membres de la Direction de l’instruction publique.
+<sup>1</sup> La commission se compose d’un nombre égal de membres du sénat et de membres de la Direction de l’instruction publique et de la culture.
 
 <sup>2</sup> Elle est composée de huit à douze membres dotés du droit de vote ainsi que de la personne chargée de rédiger le procès-verbal.
 
 <sup>3</sup> Le président ou la présidente de la commission fixe le nombre de membres visé à l’alinéa 2.
 
-<sup>4</sup> Si la procédure concerne le recteur ou la rectrice, la présidence de la commission est assurée par le directeur ou la directrice de l’instruction publique et le procès-verbal est tenu par un membre de la Section de l’Université de l’Office de l’enseignement supérieur.
+<sup>4</sup> Si la procédure concerne le recteur ou la rectrice, la présidence de la commission est assurée par le directeur ou la directrice de l’instruction publique et de la culture et le procès-verbal est tenu par un membre de la Section de l’Université de l’Office de l’enseignement supérieur.
 
 <sup>5</sup> Si la procédure concerne le vice-recteur ou la vice-rectrice ou le directeur administratif ou la directrice administrative, la présidence de la commission est assurée par le recteur ou la rectrice en fonction ou désignée et le procès-verbal est tenu par un membre du rectorat.
 
 #### Art. 5
 
-**Membres délégués de la Direction de l’instruction publique et du sénat**
+**Membres délégués de la Direction de l’instruction publique et de la culture et du sénat**
 
 <sup>1</sup> Le sénat désigne une personne chargée de présider la procédure de désignation, d’engagement ou de révocation des membres de la direction de l’Université. Le secrétaire général ou la secrétaire générale de l’Université en informe l’Office de l’enseignement supérieur.
 
@@ -76,7 +75,7 @@ arrête:
 
 <sup>3</sup> Dans la procédure d’engagement du directeur administratif ou de la directrice administrative, les autres délégués du sénat visés à l’alinéa 2 sont désignés par le recteur ou la rectrice.
 
-<sup>4</sup> Le directeur ou la directrice de l’instruction publique, le chef ou la cheffe de l’Office de l’enseignement supérieur ainsi que le chef ou la cheffe de la Section de l’Université de l’Office de l’enseignement supérieur sont désignés d’office membres de la commission. Les autres membres sont nommés par le directeur ou la directrice de l’instruction publique.
+<sup>4</sup> Le directeur ou la directrice de l’instruction publique et de la culture, le chef ou la cheffe de l’Office de l’enseignement supérieur ainsi que le chef ou la cheffe de la Section de l’Université de l’Office de l’enseignement supérieur sont désignés d’office membres de la commission. Les autres membres sont nommés par le directeur ou la directrice de l’instruction publique et de la culture.
 
 #### Art. 6
 
@@ -84,7 +83,7 @@ arrête:
 
 <sup>1</sup> Toute personne susceptible d’être concernée directement ou indirectement par une décision de la commission ne peut siéger au sein de celle-ci.
 
-<sup>2</sup> Si la partialité d’un membre de la commission semble être directement ou indirectement compromise au cours de la procédure, cette personne se récuse immédiatement. La Direction de l’instruction publique ou le sénat désigne un remplaçant ou une remplaçante.
+<sup>2</sup> Si la partialité d’un membre de la commission semble être directement ou indirectement compromise au cours de la procédure, cette personne se récuse immédiatement. La Direction de l’instruction publique et de la culture ou le sénat désigne un remplaçant ou une remplaçante.
 
 ## 3 Procédure
 
@@ -98,7 +97,7 @@ arrête:
 
 <sup>3</sup> L’Office de l’enseignement supérieur prépare la proposition de renouvellement du mandat du recteur ou de la rectrice à l’intention du Conseil-exécutif.
 
-<sup>4</sup> Si le Conseil-exécutif rejette la proposition, le directeur ou la directrice de l’instruction publique institue immédiatement une commission et en informe la personne concernée.
+<sup>4</sup> Si le Conseil-exécutif rejette la proposition, le directeur ou la directrice de l’instruction publique et de la culture institue immédiatement une commission et en informe la personne concernée.
 
 <sup>5</sup> Les alinéas 1 à 4 s’appliquent aussi à la nomination du vice-recteur ou de la vice-rectrice. Le sénat informe l’Office de l’enseignement supérieur de l’intention du vice-recteur ou de la vice-rectrice de se présenter pour un nouveau mandat un an avant l’échéance du mandat.
 
@@ -110,7 +109,7 @@ arrête:
 
 <sup>2</sup> En cas de départ anticipé ou de résiliation des rapports de travail du directeur administratif ou de la directrice administrative, la commission est instituée sans délai dès la réception du courrier correspondant.
 
-<sup>3</sup> Si le sénat, le recteur ou la rectrice ou la Direction de l’instruction publique envisage de révoquer un membre de la direction de l’Université, une commission est instituée sur décision conjointe du président ou de la présidente désignée par le sénat et du directeur ou de la directrice de l’instruction publique. En cas de désaccord, une commission est instituée.
+<sup>3</sup> Si le sénat, le recteur ou la rectrice ou la Direction de l’instruction publique et de la culture envisage de révoquer un membre de la direction de l’Université, une commission est instituée sur décision conjointe du président ou de la présidente désignée par le sénat et du directeur ou de la directrice de l’instruction publique et de la culture. En cas de désaccord, une commission est instituée.
 
 <sup>4</sup> La commission est convoquée par l’Office de l’enseignement supérieur.
 
@@ -150,7 +149,7 @@ arrête:
 
 **Décision du sénat et proposition commune**
 
-<sup>1</sup> Le sénat décide de l’approbation ou du rejet de la proposition de la commission dans un délai de 30 jours et communique sa décision à la Direction de l’instruction publique.
+<sup>1</sup> Le sénat décide de l’approbation ou du rejet de la proposition de la commission dans un délai de 30 jours et communique sa décision à la Direction de l’instruction publique et de la culture.
 
 <sup>2</sup> Si le sénat approuve la proposition de la commission, celle-ci est considérée comme proposition commune au sens de l’article 38, alinéa 3 LUni.
 
@@ -166,7 +165,7 @@ arrête:
 
 #### Art. 14
 
-<sup>1</sup> Dans la procédure de résiliation des rapports de travail du directeur administratif ou de la directrice administrative, le directeur ou la directrice de l’instruction publique et le recteur ou la rectrice soumettent une proposition commune au Conseil-exécutif.
+<sup>1</sup> Dans la procédure de résiliation des rapports de travail du directeur administratif ou de la directrice administrative, le directeur ou la directrice de l’instruction publique et de la culture et le recteur ou la rectrice soumettent une proposition commune au Conseil-exécutif.
 
 ## 5 Entrée en vigueur
 

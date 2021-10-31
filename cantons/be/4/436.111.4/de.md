@@ -4,13 +4,12 @@ number: "436.111.4"
 title: Direktionsverordnung über das Verfahren zur Wahl oder Anstellung der Mitglieder der Universitätsleitung
 short: ULDV
 language: de
-version: 2013-06-01
-valid_until: 2021-10-31
-version_adopted: 2013-03-06
+version: 2021-11-01
+version_adopted: 2021-09-10
 adopted: 2013-03-06
 in_force: 2013-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/436.111.4"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/813/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2379/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/813/pdf_file"
 
 (ULDV)
 
-vom 06.03.2013 (Stand 01.06.2013)
+vom 06.03.2013 (Stand 01.11.2021)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -42,7 +41,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Für die Vorbereitung einer Wahl, Anstellung oder Abberufung eines Mitglieds der Universitätsleitung setzt die Erziehungsdirektorin oder der Erziehungsdirektor eine Kommission ein. Artikel 7 bleibt vorbehalten.
+<sup>1</sup> Für die Vorbereitung einer Wahl, Anstellung oder Abberufung eines Mitglieds der Universitätsleitung setzt die Bildungs- und Kulturdirektorin oder der Bildungs- und Kulturdirektor eine Kommission ein. Artikel 7 bleibt vorbehalten.
 
 #### Art. 3
 
@@ -56,19 +55,19 @@ beschliesst:
 
 **Zusammensetzung und Stimmrecht**
 
-<sup>1</sup> Die Kommission ist paritätisch aus Mitgliedern des Senats und der Erziehungsdirektion zusammengesetzt.
+<sup>1</sup> Die Kommission ist paritätisch aus Mitgliedern des Senats und der Bildungs- und Kulturdirektion zusammengesetzt.
 
 <sup>2</sup> Sie umfasst mindestens acht und höchstens zwölf Mitglieder mit Stimmrecht sowie die Protokollführerin oder den Protokollführer.
 
 <sup>3</sup> Die oder der Vorsitzende der Kommission bestimmt die Anzahl der Mitglieder gemäss Absatz 2.
 
-<sup>4</sup> Betrifft das Verfahren die Rektorin oder den Rektor, führt die Erziehungsdirektorin oder der Erziehungsdirektor den Vorsitz und eine Mitarbeiterin oder ein Mitarbeiter der Abteilung Universität des Amtes für Hochschulen führt das Protokoll.
+<sup>4</sup> Betrifft das Verfahren die Rektorin oder den Rektor, führt die Bildungs- und Kulturdirektorin oder der Bildungs- und Kulturdirektor den Vorsitz und eine Mitarbeiterin oder ein Mitarbeiter der Abteilung Universität des Amtes für Hochschulen führt das Protokoll.
 
 <sup>5</sup> Betrifft das Verfahren die Vizerektorinnen und Vizerektoren oder die Verwaltungsdirektorin bzw. den Verwaltungsdirektor, wird der Vorsitz von der amtierenden oder designierten Rektorin oder dem amtierenden oder designierten Rektor geführt und eine Mitarbeiterin oder ein Mitarbeiter des Rektorats führt das Protokoll.
 
 #### Art. 5
 
-**Delegierte der Erziehungsdirektion und des Senats**
+**Delegierte der Bildungs- und Kulturdirektion und des Senats**
 
 <sup>1</sup> Der Senat bestimmt für das Verfahren zur Wahl, Anstellung oder Abberufung der Mitglieder der Universitätsleitung eine Wahlvorsitzende oder einen Wahlvorsitzenden. Die Generalsekretärin oder der Generalsekretär der Universität setzt das Amt für Hochschulen davon in Kenntnis.
 
@@ -76,7 +75,7 @@ beschliesst:
 
 <sup>3</sup> Bei der Anstellung der Verwaltungsdirektorin oder des Verwaltungsdirektors werden die weiteren Delegierten des Senats gemäss Absatz 2 von der Rektorin oder vom Rektor bestimmt.
 
-<sup>4</sup> Die Erziehungsdirektorin oder der Erziehungsdirektor, die Vorsteherin oder der Vorsteher des Amtes für Hochschulen sowie die Leiterin oder der Leiter der Abteilung Universität des Amtes für Hochschulen sind von Amtes wegen Mitglieder der Kommission. Die weiteren Mitglieder bestimmt die Erziehungsdirektorin oder der Erziehungsdirektor.
+<sup>4</sup> Die Bildungs- und Kulturdirektorin oder der Bildungs- und Kulturdirektor, die Vorsteherin oder der Vorsteher des Amtes für Hochschulen sowie die Leiterin oder der Leiter der Abteilung Universität des Amtes für Hochschulen sind von Amtes wegen Mitglieder der Kommission. Die weiteren Mitglieder bestimmt die Bildungs- und Kulturdirektorin oder der Bildungs- und Kulturdirektor.
 
 #### Art. 6
 
@@ -84,7 +83,7 @@ beschliesst:
 
 <sup>1</sup> Wer vom Entscheid der Kommission direkt oder indirekt betroffen sein könnte, kann nicht Mitglied der Kommission sein.
 
-<sup>2</sup> Ergibt sich die direkte oder indirekte Betroffenheit erst im Laufe des Verfahrens, so tritt das entsprechende Mitglied der Kommission unverzüglich zurück und die Erziehungsdirektion oder der Senat bestimmt ein Ersatzmitglied.
+<sup>2</sup> Ergibt sich die direkte oder indirekte Betroffenheit erst im Laufe des Verfahrens, so tritt das entsprechende Mitglied der Kommission unverzüglich zurück und die Bildungs- und Kulturdirektion oder der Senat bestimmt ein Ersatzmitglied.
 
 ## 3 Verfahren
 
@@ -98,7 +97,7 @@ beschliesst:
 
 <sup>3</sup> Das Amt für Hochschulen bereitet den Antrag an den Regierungsrat auf Wiederwahl der Rektorin oder des Rektors vor.
 
-<sup>4</sup> Lehnt der Regierungsrat den Antrag ab, setzt die Erziehungsdirektorin oder der Erziehungsdirektor unverzüglich eine Kommission ein. Die betroffene Person wird davon in Kenntnis gesetzt.
+<sup>4</sup> Lehnt der Regierungsrat den Antrag ab, setzt die Bildungs- und Kulturdirektorin oder der Bildungs- und Kulturdirektor unverzüglich eine Kommission ein. Die betroffene Person wird davon in Kenntnis gesetzt.
 
 <sup>5</sup> Die Absätze 1 bis 4 gelten auch für die Wahl der Vizerektorinnen und Vizerektoren. Die Mitteilung des Senats an das Amt für Hochschulen gemäss Absatz 1 erfolgt ein Jahr vor Ablauf der Amtsdauer.
 
@@ -110,7 +109,7 @@ beschliesst:
 
 <sup>2</sup> Bei vorzeitigem Amtsaustritt oder bei der Kündigung der Verwaltungsdirektorin oder des Verwaltungsdirektors erfolgt die Einsetzung unverzüglich nach dem Empfang des entsprechenden Schreibens.
 
-<sup>3</sup> Erwägt der Senat, die Rektorin oder der Rektor oder die Erziehungsdirektion die Abberufung eines Mitgliedes der Universitätsleitung, so erfolgt die Einsetzung einer Kommission gestützt auf den gemeinsamen Beschluss der oder des Wahlvorsitzenden des Senats und der Erziehungsdirektorin oder des Erziehungsdirektors. Bei Uneinigkeit wird eine Kommission eingesetzt.
+<sup>3</sup> Erwägt der Senat, die Rektorin oder der Rektor oder die Bildungs- und Kulturdirektion die Abberufung eines Mitgliedes der Universitätsleitung, so erfolgt die Einsetzung einer Kommission gestützt auf den gemeinsamen Beschluss der oder des Wahlvorsitzenden des Senats und der Bildungs- und Kulturdirektorin oder des Bildungs- und Kulturdirektors. Bei Uneinigkeit wird eine Kommission eingesetzt.
 
 <sup>4</sup> Die Kommission wird durch das Amt für Hochschulen einberufen.
 
@@ -150,7 +149,7 @@ beschliesst:
 
 **Beschluss des Senats und gemeinsamer Antrag**
 
-<sup>1</sup> Der Senat beschliesst innert einer Frist von 30 Tagen über die Annahme oder Nichtannahme des Vorschlags der Kommission. Er teilt seinen Beschluss der Erziehungsdirektion mit.
+<sup>1</sup> Der Senat beschliesst innert einer Frist von 30 Tagen über die Annahme oder Nichtannahme des Vorschlags der Kommission. Er teilt seinen Beschluss der Bildungs- und Kulturdirektion mit.
 
 <sup>2</sup> Beschliesst der Senat die Annahme des Vorschlags der Kommis¬sion, so gilt dieser als gemeinsamer Antrag im Sinne von Artikel 38 Absatz 3 UniG.
 
@@ -166,7 +165,7 @@ beschliesst:
 
 #### Art. 14
 
-<sup>1</sup> Im Verfahren zur Kündigung der Verwaltungsdirektorin oder des Verwaltungsdirektors stellen die Erziehungsdirektorin oder der Erziehungsdirektor und die Rektorin oder der Rektor einen gemeinsamen Antrag an den Regierungsrat.
+<sup>1</sup> Im Verfahren zur Kündigung der Verwaltungsdirektorin oder des Verwaltungsdirektors stellen die Bildungs- und Kulturdirektorin oder der Bildungs- und Kulturdirektor und die Rektorin oder der Rektor einen gemeinsamen Antrag an den Regierungsrat.
 
 ## 5 Inkrafttreten
 
