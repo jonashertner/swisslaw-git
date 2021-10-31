@@ -4,13 +4,13 @@ number: "125.12"
 title: Gesetz über die Gerichtsorganisation
 short: GO
 language: de
-version: 2021-08-01
-valid_until: 2021-10-31
-version_adopted: 2020-09-08
+version: 2021-11-01
+valid_until: 2022-06-30
+version_adopted: 2020-11-04
 adopted: 1977-03-13
 in_force: 1977-05-01
 url: "https://bgs.so.ch/app/de/texts_of_law/125.12"
-pdf: "https://bgs.so.ch/api/de/versions/5090/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5117/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5090/pdf_file"
 
 (GO)
 
-Vom 13.03.1977 (Stand 01.08.2021)
+Vom 13.03.1977 (Stand 01.11.2021)
 
 Der Kantonsrat von Solothurn
 
@@ -163,17 +163,19 @@ beschliesst:
 - a) …
 - b) Einsprachen gegen Strafbefehle der Staatsanwälte, der Untersuchungsbeamten der Staatsanwaltschaft, der Friedensrichter und weiterer Behörden;
 - b<sup>bis</sup>) …
-- c) alle Verbrechen und Vergehen sowie die damit zusammenhängenden Übertretungen, soweit der Staatsanwalt in der Anklage eine Geldstrafe oder eine Freiheitsstrafe von nicht mehr als 18 Monaten sowie eine Massnahme mit Ausnahme jener nach Artikel 59, 60, 61, 64 und 65 StGB[^12-1] beantragt. Der Amtsgerichtspräsident beurteilt auch Anklagen gegen Unternehmen nach Artikel 102 StGB[^12-2], wenn ausser dem Unternehmen eine natürliche Person nach Artikel 112 Absatz 4 der Schweizerischen Strafprozessordnung (StPO) vom 5. Oktober 2007[^12-3] angeklagt ist, für welche der Staatsanwalt eine der vorgenannten Sanktionen beantragt.
+- c) alle Verbrechen und Vergehen sowie die damit zusammenhängenden Übertretungen, soweit der Staatsanwalt in der Anklage eine Geldstrafe oder eine Freiheitsstrafe von nicht mehr als 18 Monaten sowie eine Massnahme mit Ausnahme jener nach Artikel 59, 60, 61, 64 und 65 StGB[^12-1] beantragt. Der Amtsgerichtspräsident beurteilt auch Anklagen gegen Unternehmen nach Artikel 102 StGB[^12-2], wenn ausser dem Unternehmen eine natürliche Person nach Artikel 112 Absatz 4 der Schweizerischen Strafprozessordnung (StPO) vom 5. Oktober 2007[^12-3] angeklagt ist, für welche der Staatsanwalt eine der vorgenannten Sanktionen beantragt;
+- c<sup>bis</sup> Anträge der Vollzugsbehörde gemäss § 7 Absatz 1 des Gesetzes über den Justizvollzug (JUVG) vom 13. November 2013[^12-4] um Aufhebung von Massnahmen gemäss Artikel 63 StGB und gleichzeitigen, nicht in die Kompetenz des Amtsgerichts fallenden Entscheid über die Rechtsfolgen.
 - d) …
 
-<sup>2</sup> Überweist der Amtsgerichtspräsident den Fall in Anwendung von Artikel 334 der Schweizerischen Strafprozessordnung (StPO)[^12-4] dem Amtsgericht, so tritt er im Verfahren vor Amtsgericht in den Ausstand, falls die beschuldigte Person nicht ausdrücklich darauf verzichtet.
+<sup>2</sup> Überweist der Amtsgerichtspräsident den Fall in Anwendung von Artikel 334 der Schweizerischen Strafprozessordnung (StPO)[^12-5] dem Amtsgericht, so tritt er im Verfahren vor Amtsgericht in den Ausstand, falls die beschuldigte Person nicht ausdrücklich darauf verzichtet.
 
 <sup>3</sup> …
 
 [^12-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 [^12-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 [^12-3]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
-[^12-4]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
+[^12-4]: BGS [333.11](https://bgs.so.ch/data/333.11/de).
+[^12-5]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
 
 ### 3.4. Amtsgerichte
 
@@ -203,7 +205,11 @@ beschliesst:
 
 <sup>2</sup> …
 
+<sup>3</sup> Das Amtsgericht beurteilt Anträge der Vollzugsbehörde gemäss § 7 Absatz 1 JUVG[^15-2] um Aufhebung von Massnahmen gemäss den Artikeln 59, 60, 61 und 63 StGB[^15-3] und gleichzeitigen Entscheid über die Rechtsfolgen. Vorbehalten bleiben die Befugnisse des Amtsgerichtspräsidenten gemäss § 12 Absatz 1 Buchstabe c<sup>bis</sup>.
+
 [^15-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
+[^15-2]: BGS [333.11](https://bgs.so.ch/data/333.11/de).
+[^15-3]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 
 ### 3.5.
 
