@@ -4,13 +4,13 @@ number: "438.312"
 title: Verordnung über die Ausbildungsbeiträge
 short: ABV
 language: de
-version: 2018-08-01
-valid_until: 2021-10-31
-version_adopted: 2018-05-23
+version: 2021-11-01
+valid_until: 2024-07-31
+version_adopted: 2021-09-01
 adopted: 2006-04-05
 in_force: 2006-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/438.312"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1460/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2367/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1460/pdf_file"
 
 (ABV)
 
-vom 05.04.2006 (Stand 01.08.2018)
+vom 05.04.2006 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -130,7 +130,7 @@ beschliesst:
 
 **Grundlagen**
 
-<sup>1</sup> Das Darlehen wird der Darlehensnehmerin oder dem Darlehensnehmer durch die Berner Kantonalbank gestützt auf eine rechtskräftige Verfügung der Abteilung Ausbildungsbeiträge des Amtes für zentrale Dienste der Erziehungsdirektion (AAB) ausgerichtet.
+<sup>1</sup> Das Darlehen wird der Darlehensnehmerin oder dem Darlehensnehmer durch die Berner Kantonalbank gestützt auf eine rechtskräftige Verfügung der Abteilung Ausbildungsbeiträge des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion (AAB) ausgerichtet.
 
 <sup>2</sup> Die AAB bestimmt den Zeitpunkt des Beginns der Rückzahlungs- und Zinspflicht für die Darlehensnehmerin oder den Darlehensnehmer.
 

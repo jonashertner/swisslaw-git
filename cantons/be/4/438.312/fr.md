@@ -4,13 +4,13 @@ number: "438.312"
 title: "Ordonnance sur l'octroi de subsides de formation"
 short: OSF
 language: fr
-version: 2018-08-01
-valid_until: 2021-10-31
-version_adopted: 2018-05-23
+version: 2021-11-01
+valid_until: 2024-07-31
+version_adopted: 2021-09-01
 adopted: 2006-04-05
 in_force: 2006-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/438.312"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1460/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2367/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1460/pdf_file"
 
 (OSF)
 
-du 05.04.2006 (état au 01.08.2018)
+du 05.04.2006 (état au 01.11.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -130,7 +130,7 @@ arrête:
 
 **Fondements**
 
-<sup>1</sup> La Banque cantonale bernoise verse le prêt à son ou sa bénéficiaire sur la base d’une décision entrée en force de la Section des subsides de formation de l’Office des services centralisés de la Direction de l’instruction publique (SSF).
+<sup>1</sup> La Banque cantonale bernoise verse le prêt à son ou sa bénéficiaire sur la base d’une décision entrée en force de la Section des subsides de formation de l’Office des services centralisés de la Direction de l’instruction publique et de la culture (SSF).
 
 <sup>2</sup> La SSF détermine le moment à partir duquel le prêt doit être remboursé et les intérêts versés par le ou la bénéficiaire.
 
