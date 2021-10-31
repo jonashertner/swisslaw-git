@@ -4,13 +4,13 @@ number: "961.212"
 title: Sonderverordnung 2 zur Abfederung der wirtschaftlichen Auswirkungen der COVID-19-Pandemie
 short: SonderV 20-2
 language: de
-version: 2021-07-01
-valid_until: 2021-10-31
-version_adopted: 2021-06-30
+version: 2021-11-01
+valid_until: 2021-12-31
+version_adopted: 2021-10-27
 adopted: 2020-04-15
 in_force: 2020-04-20
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.212"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3010/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3082/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3010/pdf_file"
 
 (SonderV 20-2)
 
-Vom 15.04.2020 (Stand 01.07.2021)
+Vom 15.04.2020 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -208,7 +208,7 @@ beschliesst:
 
 **Unternehmen mit klar abgrenzbaren Tätigkeitsbereichen**
 
-<sup>1</sup> Die Berücksichtigung einer Spartenrechnung gemäss Art. 2a Covid-19-Härtefallverordnung kann für die Härtefallmassnahmen gemäss den §§ 7d und 7f beantragt werden. Voraussetzung ist ein Gesamtumsatz im Durchschnitt der Jahre 2018 und 2019 von mindestens Fr. 200'000.–.
+<sup>1</sup> Die Berücksichtigung einer Spartenrechnung gemäss Art. 2a Covid-19-Härtefallverordnung kann für die Härtefallmassnahmen gemäss den §§ 7d und 7e beantragt werden. Voraussetzung ist ein Gesamtumsatz im Durchschnitt der Jahre 2018 und 2019 von mindestens Fr. 200'000.–.
 
 <sup>2</sup> Der Nachweis der Spartenrechnung ist mittels den Jahresabschlüssen oder der spartenweise geführten Buchhaltung der Jahre 2018 bis 2020 zu erbringen.
 
@@ -232,6 +232,15 @@ beschliesst:
 <sup>2</sup> Für die Berechnung der Gewinnbeteiligung massgeblich ist der steuerbare Jahresgewinn 2021 vor Verlustrechnung gemäss den Artikeln 58–67 DBG. Vom steuerbaren Jahresgewinn abziehbar ist ausschliesslich ein im Geschäftsjahr 2020 entstandener steuerlich massgeblicher Verlust.
 
 [^7h-1]: SR [642.11](https://db.clex.ch/link/Bund/642.11/de)
+
+#### § 7i
+
+**Verwendung der Zusatzbeiträge des Bundes (Bundesratsreserve)**
+
+<sup>1</sup> Die Bundesratsreserve gemäss Art. 15 Covid-19-Härtefallverordnung wird wie folgt verwendet:
+
+- a) Bereich Kultur und Sport: Hat ein Unternehmen bereits eine branchenspezifische Covid-19-Finanzhilfe in den Bereichen Kultur oder Sport erhalten, und ist diese geringer ausgefallen als eine Härtefallhilfe gemäss Covid-19-Härtefallverordnung, wird der Differenzbetrag ausbezahlt.
+- b) Unternehmen mit einem Umsatzrückgang von mehr als 70 %: Hat ein Unternehmen im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 einen Umsatzrückgang von mehr als 70 % erlitten, wird der Differenzbetrag zwischen den ungedeckten Fixkosten aufgrund des Umsatzrückgangs und dem aufgrund der Obergrenze von Art. 8a Abs. 2 beziehungsweise 8c Abs. 2 lit. a Covid-19-Härtefallverordnung tatsächlich ausbezahlten, tieferen Unterstützungsbeitrags ausbezahlt.
 
 ### 2.5 Vollzug
 
