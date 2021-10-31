@@ -4,13 +4,13 @@ number: "762.412"
 title: Verordnung über das Angebot im öffentlichen Verkehr
 short: Angebotsverordnung; AGV
 language: de
-version: 2015-01-01
-valid_until: 2021-10-31
-version_adopted: 2014-10-29
+version: 2021-11-01
+valid_until: 2022-01-31
+version_adopted: 2021-09-22
 adopted: 1997-09-10
 in_force: 1997-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/762.412"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/576/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2387/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/576/pdf_file"
 
 (Angebotsverordnung; AGV)
 
-vom 10.09.1997 (Stand 01.01.2015)
+vom 10.09.1997 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -40,16 +40,16 @@ beschliesst:
 <sup>1</sup> Diese Verordnung
 
 - a konkretisiert die vom Grossen Rat beschlossenen Grundsätze über das Angebot im öffentlichen Verkehr,
-- b bildet den Rahmen für die Leistungsvereinbarungen zwischen dem Kanton und den Transportunternehmungen und
+- b bildet den Rahmen für die Angebots- und Leistungsvereinbarungen zwischen dem Kanton und den Transportunternehmungen und
 - c legt die Auslastungs- und Kostendeckungsgrade nach Artikel 7 Absatz 1 und 2 des Gesetzes über den öffentlichen Verkehr fest.
 
 #### Art. 2
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Angebotsverordnung definiert das Angebot im öffentlichen, nicht touristischen Verkehr, das gemäss Artikel 28 des Bundesgesetzes vom 20. März 2009 über die Personenbeförderung (Personenbeförderungsgesetz, PBG)[^2-1] sowie gemäss Artikel 3 und 4 des Gesetzes über den öffentlichen Verkehr vom Kanton abzugelten ist.
+<sup>1</sup> Diese Verordnung definiert das Angebot im öffentlichen, nicht touristischen Verkehr, das gemäss Artikel 28 des Bundesgesetzes vom 20. März 2009 über die Personenbeförderung (Personenbeförderungsgesetz, PBG)[^2-1] sowie gemäss Artikel 3 und 4 des Gesetzes über den öffentlichen Verkehr vom Kanton abzugelten ist.
 
-<sup>2</sup> Der Schnellzugsverkehr unterliegt dieser Verordnung nicht. Als Schnellzüge gelten alle Züge des internationalen Verkehrs und alle Züge des Fernverkehrs auf SBB-Strecken und auf den BLS-Strecken Thun-Brig, Thun-Interlaken und Lengnau-Moutier.
+<sup>2</sup> Der Fernverkehr unterliegt dieser Verordnung nicht.
 
 [^2-1]: SR 745.1
 
@@ -65,7 +65,7 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 
 <sup>2</sup> Der Wert gemäss Absatz 1 kann unterschritten werden, wenn ein Siedlungsgebiet mit geringem Aufwand erschlossen werden kann, wenn mehrere Siedlungsgebiete zusammen mit einem vertretbaren Aufwand erschlossen werden können oder wenn die zu erwartende Nachfrage die Erschliessung rechtfertigt.
 
-<sup>3</sup> Im Berggebiet beträgt der entsprechende Wert 200 Einwohnerinnen und Einwohner, Arbeits- und Ausbildungsplätze.
+<sup>3</sup> Im Hügel- und Berggebiet gemäss kantonalem Richtplan beträgt der entsprechende Wert 200 ständige Einwohnerinnen und Einwohner, Arbeits- und Ausbildungsplätze.
 
 <sup>4</sup> Freizeitanlagen können im Rahmen von Absatz 2 berücksichtigt werden.
 
@@ -95,9 +95,15 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 - c Halbstundentakt für regionale Verbindungen bei hoher Siedlungsdichte oder Siedlungsschwerpunkten als Angebotsstufe 3 mit 26 bis 39 Kurspaaren pro Tag,
 - d Kursfolgezeit von 30 Minuten und weniger für Gebiete mit flächenhaft hoher Siedlungs- und Arbeitsplatzdichte als Angebotsstufe 4 mit 40 und mehr Kurspaaren pro Tag.
 
-<sup>2</sup> …
+<sup>2–3</sup> …
 
-<sup>3</sup> Kurse, welche vor 05.30 Uhr am Bestimmungsort ankommen oder diesen Ort nach 01.00 Uhr verlassen, werden vom Kanton in der Regel weder bestellt noch abgegolten.
+#### Art. 5a
+
+**Bestellung und Abgeltung des Nachtangebots**
+
+<sup>1</sup> Kurse, die vor 5.30 Uhr am Bestimmungsort ankommen oder diesen Ort nach 1.00 Uhr verlassen, werden vom Kanton in der Regel weder bestellt noch abgegolten. Davon ausgenommen ist das Nachtangebot gemäss Absatz 2.
+
+<sup>2</sup> Die Linien des Nachtangebots werden im Angebotsbeschluss festgelegt. Das Nachtangebot umfasst insbesondere Kurse in den Nächten von Freitag/Samstag und Samstag/Sonntag zwischen 1.00 Uhr und 5.30 Uhr.
 
 ## 3 Angebotsgrundsätze
 
@@ -118,7 +124,7 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 - a Fahrgastströme,
 - b grundsätzliche Anwendung des Taktsystems,
 - c gute Anschlüsse an die wichtigen Verbindungen in den Knotenpunkten sowie kurze Fahrzeiten,
-- d das Erreichen des nächstgelegenen Zentrums der Stufen 1 bis 3 gemäss Richtplan des Kantons Bern mit höchstens einmaligem Umsteigen.
+- d das Erreichen des nächstgelegenen Zentrums der Stufen 1 bis 3 gemäss Richtplan des Kantons mit grundsätzlich höchstens einmaligem Umsteigen.
 
 <sup>6</sup> Die Fahrzeuge sind nach umweltschonenden und wirtschaftlichen, auf die Nachfrage abgestimmten Aspekten einzusetzen.
 
@@ -144,19 +150,19 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 
 **Tarife**
 
-<sup>1</sup> Die Transportunternehmungen legen die Tarife fest und setzen sich für die Bildung von Tarifverbunden ein. Die Tarife, das Verkaufssystem und die Vertriebskanäle sollen im Verkehrsgebiet möglichst einheitlich sein.
+<sup>1</sup> Die Transportunternehmungen legen die Tarife fest. Die Tarife, das Verkaufssystem und die Vertriebskanäle sollen im Verkehrsgebiet möglichst einheitlich sein.
 
-<sup>2</sup> Der Kanton ist bestrebt, Tarifunterschiede bei gleichwertigen Verkehrsangeboten auszugleichen. Insbesondere leistet er den Transportunternehmungen Abgeltungen für Tarifausfälle, welche durch die Angleichung von Tarifen in Verbundgebieten entstehen und nicht durch Preiserhöhungen ausgeglichen werden können.
+<sup>2</sup> Der Kanton ist bestrebt, Tarifunterschiede bei gleichwertigen Verkehrsangeboten auszugleichen. Insbesondere leistet er den Transportunternehmungen Abgeltungen für Tarifausfälle, die durch die Angleichung von Tarifen in Verbundgebieten entstehen und nicht durch Preiserhöhungen ausgeglichen werden können.
 
 <sup>3</sup> Der Kanton und die Transportunternehmungen sind bestrebt, marktgerechte und sozialverträgliche Tarife anzubieten.
 
 #### Art. 9
 
-**Bestellverfahren und Leistungsvereinbarungen**
+**Bestellverfahren sowie Angebots- und Leistungsvereinbarungen**
 
-<sup>1</sup> Das Amt für öffentlichen Verkehr und Verkehrskoordination schliesst mit den Transportunternehmungen Leistungsvereinbarungen ab, die insbesondere das Angebotskonzept und die dafür zu bezahlende Abgeltung festlegen.
+<sup>1</sup> Das Amt für öffentlichen Verkehr und Verkehrskoordination schliesst mit den Transportunternehmungen Angebots- und Leistungsvereinbarungen ab, die insbesondere das bestellte Angebot oder die Infrastrukturleistungen und die dafür zu bezahlende Abgeltung festlegen.
 
-<sup>2</sup> Das Bestellverfahren richtet sich nach Artikel 11 bis 23 ARPV und gilt sinngemäss auch für den Ortsverkehr.
+<sup>2</sup> Das Bestellverfahren richtet sich nach Artikel 11 bis 29 ARPV und gilt sinngemäss auch für den Ortsverkehr.
 
 <sup>3</sup> Das Amt für öffentlichen Verkehr und Verkehrskoordination führt die Verhandlungen mit den Transportunternehmungen über die zu erbringenden Leistungen und prüft im Rahmen des Bestellverfahrens insbesondere
 
@@ -164,9 +170,9 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 - b die Zweckmässigkeit gemäss Artikel 12,
 - c die Einhaltung der Angebotsgrundsätze.
 
-<sup>4</sup> Es schliesst Anbietende aus, wenn Ausschlussgründe nach Artikel 24 der Verordnung vom 16. Oktober 2002 über das öffentliche Beschaffungswesen (ÖBV)[^9-1] vorliegen.
+<sup>4</sup> Es schliesst Anbieterinnen und Anbieter aus, wenn Ausschlussgründe gemäss Artikel 24 der Verordnung vom 16. Oktober 2002 über das öffentliche Beschaffungswesen (ÖBV)[^9-1] vorliegen.
 
-<sup>5</sup> Die Transportunternehmungen reichen ihre Offerten für die neue Fahrplanperiode dem Amt für öffentlichen Verkehr und Verkehrskoordination innerhalb der vom Bundesamt für Verkehr festgelegten Fristen ein.
+<sup>5</sup> Die Transportunternehmungen reichen ihre Offerten für die neue Offertperiode dem Amt für öffentlichen Verkehr und Verkehrskoordination innerhalb der vom Bundesamt für Verkehr festgelegten Fristen ein.
 
 <sup>6</sup> …
 
@@ -183,7 +189,7 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 <sup>1a</sup> Tabelle 1 (durchschnittliche Auslastung in Personen pro Kurs, gemessen am meistbelasteten Teilstück einer Linie, Zielvorgaben):
 
 <table>
-<tr><th>Angebotsstufe</th><th>1 Kleinbus</th><th>2 Midi- und Standardbus</th><th>3 Gelenk- und Megabus</th><th>4 Schmalspurzug und Tram</th><th>5 Normalspurzug</th></tr>
+<tr><th>Angebotsstufe</th><th>1 Kleinbus</th><th>2 Midi- und Standardbus, Seilbahn</th><th>3 Gelenk- und Megabus</th><th>4 Schmalspurzug und Tram</th><th>5 Normalspurzug</th></tr>
 <tr><td>1 (4 bis 15 Kurspaare / Tag)</td><td>3</td><td>6</td><td>8</td><td>20</td><td>25</td></tr>
 <tr><td>2 (16 bis 25 Kurspaare / Tag)</td><td>5</td><td>10</td><td>15</td><td>25</td><td>35</td></tr>
 <tr><td>3 (26 bis 39 Kurspaare / Tag</td><td>6</td><td>13</td><td>20</td><td>30</td><td>50</td></tr>
@@ -206,27 +212,22 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 - b Midi- und Standardbusse sind Fahrzeuge mit einem Gesamtgewicht über fünf Tonnen und einer Länge von maximal 13 Metern.
 - c Gelenk- und Megabusse sind Fahrzeuge mit einer Länge von mehr als 13 Metern.
 
-<sup>3</sup> Die Transportunternehmungen weisen den Bedarf von Linien nach, welche die Zielvorgaben gemäss Absatz 1 nicht erreichen.[^10-2]
+<sup>3</sup> Für die Linien des Nachtangebots gelten die Zielvorgaben gemäss Angebotsstufe 1.
 
-<sup>4</sup> Im Rahmen des Bestellverfahrens schlagen die Transportunternehmungen Verbesserungen vor für Linien, welche die Zielvorgaben gemäss Absatz 1 nicht erreichen, namentlich Massnahmen, um den Mitteleinsatz zu reduzieren und mehr Fahrgäste zu gewinnen.[^10-3]
-
-<sup>5</sup> Das Amt für öffentlichen Verkehr und Verkehrskoordination prüft die Vorschläge der Transportunternehmungen in Zusammenarbeit mit den betroffenen regionalen Verkehrskonferenzen und allenfalls mit den Gemeinden. Es kann neue Lösungen vorschlagen.[^10-4]
+<sup>4–5</sup> …
 
 [^10-1]: SR 741.41
-[^10-2]: Die Abätze 3 bis 5 entsprechen den bisherigen Absätzen 2 bis 4
-[^10-3]: Die Abätze 3 bis 5 entsprechen den bisherigen Absätzen 2 bis 4
-[^10-4]: Die Abätze 3 bis 5 entsprechen den bisherigen Absätzen 2 bis 4
 
 #### Art. 11
 
 **Minimalanforderungen**
 
-<sup>1</sup> Angebote, welche auch die Minimalanforderungen gemäss den untenstehenden Tabellen 3 und 4 nicht erreichen, sind auf ihre Zweckmässigkeit gemäss Artikel 12 und auf ihre Effizienz aufgrund von Kennzahlen (Art. 16 Abs. 1 und 3) im Detail zu überprüfen.
+<sup>1</sup> Angebote, die auch die Minimalanforderungen gemäss den untenstehenden Tabellen 3 und 4 nicht erreichen, sind auf ihre Zweckmässigkeit gemäss Artikel 12 und auf ihre Effizienz aufgrund von Kennzahlen im Detail zu überprüfen.
 
 <sup>1a</sup> Tabelle 3 (durchschnittliche Auslastung in Personen pro Kurs, gemessen am meistbelasteten Teilstück einer Linie, Minimalanforderungen):
 
 <table>
-<tr><th>Angebotsstufe</th><th>1 Kleinbus</th><th>2 Midi- und Standardbus</th><th>3 Gelenk- und Megabus</th><th>4 Schmalspurzug und Tram</th><th>5 Normalspurzug</th></tr>
+<tr><th>Angebotsstufe</th><th>1 Kleinbus</th><th>2 Midi- und Standardbus, Seilbahn</th><th>3 Gelenk- und Megabus</th><th>4 Schmalspurzug und Tram</th><th>5 Normalspurzug</th></tr>
 <tr><td>1 (4 bis 15 Kurspaare / Tag)</td><td>2</td><td>4</td><td>5</td><td>12</td><td>15</td></tr>
 <tr><td>2 (16 bis 25 Kurspaare / Tag)</td><td>3</td><td>6</td><td>9</td><td>15</td><td>20</td></tr>
 <tr><td>3 (26 bis 39 Kurspaare / Tag</td><td>4</td><td>8</td><td>12</td><td>20</td><td>30</td></tr>
@@ -243,7 +244,7 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 <tr><td>4 (ab 40 Kurspaare / Tag)</td><td>30%</td></tr>
 </table>
 
-<sup>2</sup> Ist die Zweckmässigkeit ausgewiesen, schlagen die Transportunternehmungen im Rahmen des Bestellverfahrens Massnahmen vor, um die Effizienz zu steigern und die Minimalanforderungen gemäss Tabellen 3 und 4 zu erreichen.
+<sup>2</sup> Ist die Zweckmässigkeit ausgewiesen, schlagen die Transportunternehmungen im Rahmen des Bestellverfahrens Massnahmen vor, um die Effizienz zu steigern und die Minimalanforderungen gemäss den Tabellen 3 und 4 zu erreichen.
 
 <sup>3</sup> Sofern notwendig, schlagen sie grundlegende Veränderungen vor, so insbesondere eine Änderung der Linienführung, des Verkehrsmittels, der Fahrzeugtypen oder der Betriebsart einschliesslich unkonventioneller Betriebsformen gemäss Artikel 14.
 
@@ -256,8 +257,8 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 <sup>1</sup> Linien, welche die Minimalanforderungen gemäss den Tabellen 3 und 4 nicht erreichen, sind zweckmässig, wenn sie die Minimalkriterien gemäss Artikel 7 Absatz 2 ARPV erfüllen. Linien können zudem als zweckmässig erachtet werden, wenn
 
 - a sie eine wichtige Funktion im öffentlichen Verkehrsnetz erfüllen, wie zum Beispiel als Zubringerlinie zu einem Hauptast oder zur Gewährleistung von wichtigen Anschlüssen an das übergeordnete Netz;
-- b es sich um kantonsübergreifende Linien handelt, welche für den Nachbarkanton wichtig sind;
-- c sie zu wesentlichen Teilen andere Transportzwecke wie Postsachentransporte erfüllen;
+- b es sich um kantonsübergreifende Linien handelt, die für den Nachbarkanton wichtig sind;
+- c …
 - d durch ihre Aufhebung, unter Einbezug der Auswirkungen auf andere Linien, keine effektiven Nettoeinsparungen erzielt werden können.
 
 #### Art. 13
@@ -266,7 +267,7 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 
 <sup>1</sup> Das Amt für öffentlichen Verkehr und Verkehrskoordination unterbreitet die bereinigten, grundlegenden Veränderungsvorschläge (Art. 11 Abs. 4) dem zuständigen Organ zum Entscheid.
 
-<sup>2</sup> Angebote, die nicht zweckmässig sind und die auch die Minimalanforderungen nach Artikel 11 Absatz 1 nicht erfüllen, werden nur noch für das der Offerte folgende Fahrplanjahr vereinbart und abgegolten. Vorbehalten bleibt in jedem Fall der Angebotsbeschluss.
+<sup>2</sup> …
 
 #### Art. 14
 
@@ -289,11 +290,11 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 - c keine bestehende Linie des öffentlichen Verkehrs erheblich konkurrenzieren;
 - d aller Voraussicht nach mindestens die Minimalanforderungen an Auslastung und Kostendeckung gemäss Artikel 11 erreichen.
 
-<sup>2</sup> Der Kanton kann seine Abgeltung davon abhängig machen, dass Gemeinden den zusätzlichen Beitrag gemäss Artikel 12 Absatz 4 Gesetzes über den öffentlichen Verkehr oder Dritte finanzielle Beiträge leisten.
+<sup>2</sup> Der Kanton kann sich mit bis zu einem Drittel an den Betriebskosten beteiligen. Die übrigen Kosten sind durch Verkehrserträge, Beiträge der Gemeinden oder Dritte zu finanzieren.
 
-<sup>3</sup> Der zusätzliche Beitrag der weiteren Träger gemäss Artikel 12 Absatz 4 Gesetzes über den öffentlichen Verkehr wird je nach Interessenlage fallweise festgelegt. Er beträgt mindestens 25 Prozent, höchstens 75 Prozent des Abgeltungsbetrages.
+<sup>3</sup> …
 
-<sup>4</sup> Angebote, welche aufgrund von Betriebsumstellungen (Bahn/Bus) neu konzipiert werden oder durch die der Kanton Einsparungen erzielt oder welche einem übergeordneten kantonalen Interesse dienen, werden gemäss Artikel 6 und 12 Absatz 1 Gesetzes über den öffentlichen Verkehr finanziert.
+<sup>4</sup> Angebote, die aufgrund von Betriebsumstellungen (Bahn/Bus) neu konzipiert werden oder durch die der Kanton Einsparungen erzielt oder die einem übergeordneten kantonalen Interesse dienen, werden gemäss Artikel 6 und 12 Absatz 1 des Gesetzes über den öffentlichen Verkehr finanziert.
 
 ## 5 Übergangs- und Schlussbestimmungen
 

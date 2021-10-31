@@ -4,13 +4,13 @@ number: "762.412"
 title: "Ordonnance sur l'offre de transports publics"
 short: OOT
 language: fr
-version: 2015-01-01
-valid_until: 2021-10-31
-version_adopted: 2014-10-29
+version: 2021-11-01
+valid_until: 2022-01-31
+version_adopted: 2021-09-22
 adopted: 1997-09-10
 in_force: 1997-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/762.412"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/576/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2387/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/576/pdf_file"
 
 (OOT)
 
-du 10.09.1997 (état au 01.01.2015)
+du 10.09.1997 (état au 01.11.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -40,7 +40,7 @@ arrête:
 <sup>1</sup> La présente ordonnance a pour objet
 
 - a de concrétiser les principes que le Grand Conseil a arrêtés en matière d'offre de transports publics,
-- b de définir le cadre des conventions de prestations entre le canton et les entreprises de transport et
+- b de définir le cadre des conventions d'offre et de prestations entre le canton et les entreprises de transport et
 - c de fixer les taux d’utilisation et de couverture des coûts au sens de l’article 7, 1<sup>er</sup> et 2<sup>e</sup> alinéas de la loi sur les transports publics.
 
 #### Art. 2
@@ -49,7 +49,7 @@ arrête:
 
 <sup>1</sup> La présente ordonnance définit l’offre de transports publics non touristiques qui doit être indemnisée par le canton conformément à l’article 28 de la loi fédérale du 20 mars 2009 sur le transport de voyageurs (LTV)[^2-1] et aux articles 3 et 4 de la loi sur les transports publics.
 
-<sup>2</sup> Le trafic des trains directs n'est pas soumis à la présente ordonnance. Sont réputés trains directs ceux du trafic à longue distance circulant sur tous les tronçons CFF et sur les tronçons BLS Thoune-Brigue, Thoune-Interlaken et Longeau-Moutier, de même que les trains internationaux.
+<sup>2</sup> Le trafic à longue distance n'est pas soumis à la présente ordonnance.
 
 [^2-1]: RS 745.1
 
@@ -63,7 +63,7 @@ arrête:
 
 <sup>2</sup> La valeur fixée au 1<sup>er</sup> alinéa peut être abaissée si une agglomération peut être desservie à des conditions plus avantageuses, si plusieurs agglomérations peuvent être desservies à un coût raisonnable ou si la demande escomptée justifie la desserte.
 
-<sup>3</sup> Le nombre déterminant d'habitants, d'habitantes, d'emplois ou de postes d'apprentissage s'élève à 200 dans les régions de montagne.
+<sup>3</sup> Le nombre déterminant d'habitants et d'habitantes permanents, d'emplois ou de postes ​d'apprentissage s'élève à 200 dans les régions de collines et de montagne selon le plan directeur cantonal.
 
 <sup>4</sup> Les équipements de loisirs peuvent être pris en compte dans le cadre du 2<sup>e</sup> alinéa.
 
@@ -94,9 +94,15 @@ arrête:
 - c offre de niveau 3 à cadence semi-horaire pour les liaisons régionales dans des couloirs à forte densité de population et dans les pôles urbains, comprenant de 26 à 39 allers retours quotidiens;
 - d offre de niveau 4 à cadence semi-horaire au moins dans les agglomérations étendues à forte concentration de population et d'emplois, comprenant 40 allers retours quotidiens et plus.
 
-<sup>2</sup> …
+<sup>2–3</sup> …
 
-<sup>3</sup> Les courses qui arrivent au lieu de destination avant 05 h 30 et celles qui quittent ce lieu après 01 h 00 ne seront, en règle générale, ni commandées ni indemnisées par le canton.
+#### Art. 5a
+
+**Commande et indemnisation de l'offre de nuit**
+
+<sup>1</sup> Les courses qui arrivent au lieu de destination avant 5 h 30 et celles qui quittent ce lieu après 1 h 00 ne seront, en règle générale, ni commandées ni indemnisées par le canton. Fait exception l'offre de nuit au sens de l'alinéa 2.
+
+<sup>2</sup> Les lignes de l'offre de nuit sont définies dans l’arrêté sur l’offre. L’offre de nuit comprend en particulier les courses pendant les nuits de vendredi à samedi et de samedi à dimanche entre 1 h 00 et 5 h 30.
 
 ## 3 Principes d'offre
 
@@ -117,7 +123,7 @@ arrête:
 - a mouvements de passagers;
 - b mise en œuvre, en principe, du système cadencé;
 - c temps de parcours brefs et correspondances optimales aux points nodaux pour les liaisons importantes;
-- d centres des niveaux 1 à 3 selon le plan directeur du canton de Berne accessibles en utilisant au maximum une seule correspondance.
+- d centres des niveaux 1 à 3 selon le plan directeur du canton accessibles en utilisant en principe au maximum une seule correspondance.
 
 <sup>6</sup> Les véhicules doivent être mis en service en fonction de la demande en tenant compte de critères écologiques et économiques.
 
@@ -143,7 +149,7 @@ arrête:
 
 **Tarifs**
 
-<sup>1</sup> Les entreprises de transport fixent leurs tarifs et favorisent la création de communautés tarifaires. Les tarifs ainsi que les réseaux de vente et de distribution doivent, autant que possible, être les mêmes sur l'ensemble de la zone de transport.
+<sup>1</sup> Les entreprises de transport fixent leurs tarifs. Les tarifs ainsi que les réseaux de vente et de distribution doivent, autant que possible, être les mêmes sur l'ensemble de la zone de transport.
 
 <sup>2</sup> Le canton s'efforce de compenser les différences de tarif dans le cas d'offres de transport équivalentes. Il verse, en particulier, des subventions pour les pertes de recettes qui résultent de l'harmonisation des tarifs dans les communautés tarifaires et qui ne peuvent être compensées par des hausses de prix.
 
@@ -151,11 +157,11 @@ arrête:
 
 #### Art. 9
 
-**Procédure de commande et conventions de prestations**
+**Procédure de commande et conventions d'offre et de prestations**
 
-<sup>1</sup> L'Office des transports publics et de la coordination des transports passe avec les entreprises de transport des conventions de prestations qui fixent en particulier le schéma d’offre et l’indemnité à payer.
+<sup>1</sup> L'Office des transports publics et de la coordination des transports passe avec les entreprises de transport des conventions d'offre et de prestations qui fixent en particulier l'offre commandée ou les prestations d'infrastructure et l'indemnité à payer.
 
-<sup>2</sup> La procédure de commande est régie par les articles 11 à 23 OITRV et s'applique également par analogie au trafic local.
+<sup>2</sup> La procédure de commande est régie par les articles 11 à 29 OITRV et s'applique également par analogie au trafic local.
 
 <sup>3</sup> L'Office des transports publics et de la coordination des transports négocie avec les entreprises de transport les prestations que celles-ci doivent fournir et examine, dans le cadre de la procédure de commande, en particulier
 
@@ -165,7 +171,7 @@ arrête:
 
 <sup>4</sup> Il rejette les offres s’il existe des motifs d’exclusion au sens de l’article 24 de l’ordonnance du 16 octobre 2002 sur les marchés publics (OCMP)[^9-1].
 
-<sup>5</sup> Les entreprises de transport transmettent à l'Office des transports publics et de la coordination des transports leurs offres pour la nouvelle période d'horaire dans les délais fixés par l'Office fédéral des transports.
+<sup>5</sup> Les entreprises de transport transmettent à l'Office des transports publics et de la coordination des transports leurs offres pour la nouvelle période d'offre dans les délais fixés par l'Office fédéral des transports.
 
 <sup>6</sup> …
 
@@ -182,7 +188,7 @@ arrête:
 <sup>1a</sup> Tableau 1 (taux d'utilisation moyen exprimé en nombre de personnes par course sur le tronçon le plus fréquenté d'une ligne, objectifs):
 
 <table>
-<tr><th>Niveau d'offre</th><th>1 Minibus</th><th>2 Midibus et bus standard</th><th>3 Bus articulé et mégabus</th><th>4 Train à voie étroite et tram</th><th>5 Train à voie normale</th></tr>
+<tr><th>Niveau d'offre</th><th>1 Minibus</th><th>2 Midibus et bus standard, téléphérique</th><th>3 Bus articulé et mégabus</th><th>4 Train à voie étroite et tram</th><th>5 Train à voie normale</th></tr>
 <tr><td>1 (4 à 15 allers retours / jour)</td><td>3</td><td>6</td><td>8</td><td>20</td><td>25</td></tr>
 <tr><td>2 (de 16 à 25 allers retours / jour)</td><td>5</td><td>10</td><td>15</td><td>25</td><td>35</td></tr>
 <tr><td>3 (de 26 à 39 allers retours / jour)</td><td>6</td><td>13</td><td>20</td><td>30</td><td>50</td></tr>
@@ -205,27 +211,22 @@ arrête:
 - b Les midibus et bus standard sont des véhicules d’un poids total de plus de cinq tonnes et d’une longueur de 13 mètres au maximum;
 - c Les bus articulés et les mégabus sont des véhicules d’une longueur supérieure à 13 mètres.
 
-<sup>3</sup> Les entreprises de transport justifient le besoin de lignes qui n'atteignent pas les objectifs au sens du 1<sup>er</sup> alinéa.[^10-2]
+<sup>3</sup> Les objectifs du niveau d'offre 1 s'appliquent aux lignes de l'offre de nuit.
 
-<sup>4</sup> Dans le cadre de la procédure de commande, les entreprises de transport proposent des améliorations concernant les lignes qui n'atteignent pas les objectifs fixés au 1<sup>er</sup> alinéa, notamment des mesures visant à réduire les coûts et à augmenter la clientèle.[^10-3]
-
-<sup>5</sup> L'Office des transports publics et de la coordination des transports examine les propositions des entreprises de transport en collaboration avec les conférences régionales des transports concernées et, éventuellement, avec les communes. Il peut proposer de nouvelles solutions.[^10-4]
+<sup>4–5</sup> …
 
 [^10-1]: RS 741.41
-[^10-2]: Anciens alinéas 2 à 4
-[^10-3]: Anciens alinéas 2 à 4
-[^10-4]: Anciens alinéas 2 à 4
 
 #### Art. 11
 
 **Exigences minimales**
 
-<sup>1</sup> Les offres qui n'atteignent pas non plus les exigences minimales figurant aux tableaux 3 et 4 doivent faire l'objet d'un examen approfondi de leur opportunité au sens de l'article 12 et de leur efficacité sur la base d'indi-cateurs (art. 16, 1<sup>er</sup> et 3<sup>e</sup> al.).
+<sup>1</sup> Les offres qui n'atteignent pas non plus les exigences minimales figurant aux tableaux 3 et 4 doivent faire l'objet d'un examen approfondi de leur opportunité au sens de l'article 12 et de leur efficacité sur la base d'indicateurs.
 
 <sup>1a</sup> Tableau 3 (taux d'utilisation moyen exprimé en nombre de personnes par course sur le tronçon le plus fréquenté d'une ligne, exigences minimales):
 
 <table>
-<tr><th>Niveau d'offre</th><th>1 Minibus</th><th>2 Midibus et bus standard</th><th>3 Bus articulé et mégabus</th><th>4 Train à voie étroite et tram</th><th>5 Train à voie normale</th></tr>
+<tr><th>Niveau d'offre</th><th>1 Minibus</th><th>2 Midibus et bus standard, téléphérique</th><th>3 Bus articulé et mégabus</th><th>4 Train à voie étroite et tram</th><th>5 Train à voie normale</th></tr>
 <tr><td>1 (4 à 15 allers retours / jour)</td><td>2</td><td>4</td><td>5</td><td>12</td><td>15</td></tr>
 <tr><td>2 (de 16 à 25 allers retours / jour)</td><td>3</td><td>6</td><td>9</td><td>15</td><td>20</td></tr>
 <tr><td>3 (de 26 à 39 allers retours / jour)</td><td>4</td><td>8</td><td>12</td><td>20</td><td>30</td></tr>
@@ -256,7 +257,7 @@ arrête:
 
 - a elles remplissent une fonction importante dans le réseau de transports publics en tant que ligne de rabattement vers un axe principal par exemple ou pour assurer des correspondances importantes avec le réseau supérieur;
 - b elles constituent des lignes intercantonales qui sont importantes pour le canton voisin;
-- c elles remplissent, dans une proportion importante, d'autres fonctions de transport, par exemple le trafic postal;
+- c …
 - d leur suppression ne permet pas, compte tenu des conséquences sur d'autres lignes, de réaliser une économie nette effective.
 
 #### Art. 13
@@ -265,7 +266,7 @@ arrête:
 
 <sup>1</sup> L'Office des transports publics et de la coordination des transports soumet, pour décision, à l'organe compétent, les propositions de modifications fondamentales corrigées (art. 11, 4<sup>e</sup> al.).
 
-<sup>2</sup> Les offres qui ne sont pas jugées opportunes et ne répondent pas non plus aux exigences minimales au sens de l'article 11, 1<sup>er</sup> alinéa ne seront, en principe, conclues et subventionnées que jusqu'à l'année d'horaire suivant l'offre. L'arrêté sur l'offre est en tout cas réservé.
+<sup>2</sup> …
 
 #### Art. 14
 
@@ -288,9 +289,9 @@ arrête:
 - c si elles ne concurrencent aucune ligne existante des transports publics de manière importante;
 - d s'il est vraisemblable que les exigences minimales relatives à l'utilisation et à la couverture des coûts au sens de l'article 11 seront atteintes.
 
-<sup>2</sup> Le canton peut faire dépendre son indemnisation du versement de la subvention supplémentaire au sens de l'article 12, 4<sup>e</sup> alinéa de la loi sur les transports publics par la commune ou de contributions financières de tiers.
+<sup>2</sup> Le canton peut participer aux coûts d'exploitation jusqu'à hauteur d'un tiers. Les autres coûts seront financés par le produit des transports et par des contributions des communes ou de tiers.
 
-<sup>3</sup> La subvention supplémentaire des autres organismes au sens de l'article 12, 4<sup>e</sup> alinéa de la loi sur les transports publics est fixée au cas par cas en fonction des intérêts en présence. Elle est au minimum de 25 pour cent et au maximum de 75 pour cent du montant de l'indemnisation.
+<sup>3</sup> …
 
 <sup>4</sup> Les offres qui ont été révisées à la suite d'une réorganisation de l'exploitation (chemin de fer/autobus), qui permettent au canton de réaliser des économies ou qui répondent à un intérêt supérieur du canton, seront financées en vertu des articles 6 et 12, 1<sup>er</sup> alinéa de la loi sur les transports publics.
 
