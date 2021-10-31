@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Ordonnance sur le statut du corps enseignant
 short: OSE
 language: fr
-version: 2021-01-01
-valid_until: 2021-10-31
-version_adopted: 2020-11-11
+version: 2021-11-01
+valid_until: 2021-12-31
+version_adopted: 2021-09-01
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2071/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2364/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2071/pdf_file"
 
 (OSE)
 
-du 28.03.2007 (état au 01.01.2021)
+du 28.03.2007 (état au 01.11.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -45,7 +45,7 @@ arrête:
 - b aux auxiliaires de classe et
 - c aux personnes qui accomplissent des tâches spéciales dans l’intérêt de l’école.
 
-<sup>3</sup> La Direction de l’instruction publique décide si certains postes du personnel assistant les membres du corps enseignant relèvent de la législation sur le statut du corps enseignant ou de la législation sur le personnel.
+<sup>3</sup> La Direction de l’instruction publique et de la culture décide si certains postes du personnel assistant les membres du corps enseignant relèvent de la législation sur le statut du corps enseignant ou de la législation sur le personnel.
 
 <sup>4</sup> La décision d’engagement du personnel assistant soumis à la législation sur le statut du corps enseignant peut préciser que le temps de travail, la réglementation des vacances et les délais de résiliation sont assujettis aux dispositions de la législation sur le personnel.
 
@@ -57,7 +57,7 @@ arrête:
 
 <sup>2</sup> Les conditions d’engagement des Ecoles techniques ES Bois Bienne sont soumises à la législation sur le personnel du canton, pour autant que les dispositions particulières de la législation sur la Haute école spécialisée bernoise ne soient pas applicables.
 
-<sup>3</sup> Les conditions d'engagement dans les écoles professionnelles subventionnées par le canton mentionnées ci-après sont soumises au droit privé et sont consignées dans un règlement devant être approuvé par l'Office de l'enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle:
+<sup>3</sup> Les conditions d'engagement dans les écoles professionnelles subventionnées par le canton mentionnées ci-après sont soumises au droit privé et sont consignées dans un règlement devant être approuvé par l'Office des écoles moyennes et de la formation professionnelle:
 
 - a Gartenbauschule Hünibach et
 - b Berufsfachschule für medizinische Assistenzberufe be-med AG.
@@ -66,7 +66,7 @@ arrête:
 
 **Autorité compétente**
 
-<sup>1</sup> Dans la mesure où la présente ordonnance s’applique à des écoles qui ne sont pas subordonnées à la Direction de l’instruction publique, la Direction compétente peut édicter des dispositions divergentes en matière de compétences.
+<sup>1</sup> Dans la mesure où la présente ordonnance s’applique à des écoles qui ne sont pas subordonnées à la Direction de l’instruction publique et de la culture, la Direction compétente peut édicter des dispositions divergentes en matière de compétences.
 
 #### Art. 3
 
@@ -88,11 +88,11 @@ arrête:
 
 <sup>1</sup> L’autorité d’engagement des enseignants et enseignantes et des directions d’école de l’école obligatoire est l’autorité au sens de l’article 7, alinéa 2 LSE[^5-1].
 
-<sup>2</sup> L’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation engage les membres de la direction de l’école pour enfants hospitalisés de l’Hôpital de l’Ile.
+<sup>2</sup> L’Office de l’école obligatoire et du conseil engage les membres de la direction de l’école pour enfants hospitalisés de l’Hôpital de l’Ile.
 
 <sup>3</sup> Les directions de l’Ecole cantonale de langue française et de l’école pour enfants hospitalisés de l’Hôpital de l’Ile engagent leurs membres du corps enseignant.
 
-<sup>4</sup> L’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle engage les membres de la direction d’école qui assument la responsabilité générale des écoles cantonales du degré secondaire II et des écoles supérieures.
+<sup>4</sup> L’Office des écoles moyennes et de la formation professionnelle engage les membres de la direction d’école qui assument la responsabilité générale des écoles cantonales du degré secondaire II et des écoles supérieures.
 
 <sup>5</sup> Les membres des directions d’école qui assument la responsabilité générale des écoles cantonales du degré secondaire II et des écoles supérieures engagent les autres membres des directions d’école et le corps enseignant.
 
@@ -101,7 +101,7 @@ arrête:
 - a l’organe responsable désigne l’autorité d’engagement de la direction d’école,
 - b la direction d’école engage le corps enseignant.
 
-<sup>7</sup> L’Office désigné de la Direction de l’instruction publique engage, pour une durée déterminée, les membres du corps enseignant qui assument une tâche dans des projets scolaires.
+<sup>7</sup> L’Office désigné de la Direction de l’instruction publique et de la culture engage, pour une durée déterminée, les membres du corps enseignant qui assument une tâche dans des projets scolaires.
 
 [^5-1]: RSB 430.250
 [^5-2]: RSB 435.11
@@ -143,7 +143,7 @@ arrête:
 <sup>2</sup> Les autorités suivantes décident si une formation correspond à un diplôme reconnu:
 
 - a la section compétente de l’Office de l’enseignement supérieur pour les membres du corps enseignant des établissements de la scolarité obligatoire ainsi que pour les membres du corps enseignant des écoles moyennes cantonales et des écoles professionnelles commerciales,
-- b la section compétente de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle pour les membres du corps enseignant des autres écoles professionnelles et des écoles supérieures cantonales ou subventionnées par le canton.
+- b la section compétente de l’Office des écoles moyennes et de la formation professionnelle pour les membres du corps enseignant des autres écoles professionnelles et des écoles supérieures cantonales ou subventionnées par le canton.
 
 <sup>3–6</sup> …
 
@@ -170,7 +170,7 @@ arrête:
 
 **Conditions d’engagement des intervenants et intervenantes externes, des remplaçants et remplaçantes et des auxiliaires de classe**
 
-<sup>1</sup> La Direction de l’instruction publique fixe les modalités dérogeant à la présente ordonnance concernant le début, la durée et la fin des engagements des intervenants et intervenantes externes, des remplaçants et remplaçantes et des auxiliaires de classe ainsi que leur traitement.
+<sup>1</sup> La Direction de l’instruction publique et de la culture fixe les modalités dérogeant à la présente ordonnance concernant le début, la durée et la fin des engagements des intervenants et intervenantes externes, des remplaçants et remplaçantes et des auxiliaires de classe ainsi que leur traitement.
 
 ### 2.2 Résiliation de l’engagement à la suite d’une réorganisation
 
@@ -182,8 +182,8 @@ arrête:
 
 <sup>1</sup> L’autorité d’engagement des membres du corps enseignant annonce une réorganisation prévue pour
 
-- a l’école obligatoire, à l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation,
-- b le degré secondaire II et les écoles supérieures, à l‘Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle.
+- a l’école obligatoire, à l’Office de l’école obligatoire et du conseil,
+- b le degré secondaire II et les écoles supérieures, à l‘Office des écoles moyennes et de la formation professionnelle.
 
 <sup>2</sup> L’annonce porte sur:
 
@@ -197,7 +197,7 @@ arrête:
 
 **Examen**
 
-<sup>1</sup> L’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation ou l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle examine, sur la base d’une annonce ou d’office, si les conditons visées aux articles 14 et 15 sont remplies.
+<sup>1</sup> L’Office de l’école obligatoire et du conseil ou l’Office des écoles moyennes et de la formation professionnelle examine, sur la base d’une annonce ou d’office, si les conditions visées aux articles 14 et 15 sont remplies.
 
 #### Art. 14
 
@@ -219,11 +219,11 @@ arrête:
 
 **Annonce au service de placement**
 
-<sup>1</sup> Lorsque les conditions visées aux articles 14 et 15 sont remplies, l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation ou l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle informe l’autorité d’engagement et le membre du corps enseignant concerné et annonce celui-ci auprès du service de placement.
+<sup>1</sup> Lorsque les conditions visées aux articles 14 et 15 sont remplies, l’Office de l’école obligatoire et du conseil ou l’Office des écoles moyennes et de la formation professionnelle informe l’autorité d’engagement et le membre du corps enseignant concerné et annonce celui-ci auprès du service de placement.
 
 <sup>2</sup> L’annonce et l’information ont lieu en règle générale neuf mois avant la résiliation des rapports de travail.
 
-<sup>3</sup> Lorsque les conditions visées aux articles 14 et 15 ne sont pas remplies, l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation ou l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle rend une décision à la demande du membre du corps enseignant concerné.
+<sup>3</sup> Lorsque les conditions visées aux articles 14 et 15 ne sont pas remplies, l’Office de l’école obligatoire et du conseil ou l’Office des écoles moyennes et de la formation professionnelle rend une décision à la demande du membre du corps enseignant concerné.
 
 ### 2.2.2 Placement
 
@@ -231,7 +231,7 @@ arrête:
 
 **Service de placement**
 
-<sup>1</sup> Le Secrétariat général de la Direction de l’instruction publique gère le service de placement.
+<sup>1</sup> Le Secrétariat général de la Direction de l’instruction publique et de la culture gère le service de placement.
 
 <sup>2</sup> Il peut déléguer à un service les tâches incombant au service de placement dans la mesure où celles-ci ne sont liées à aucune compétence décisionnelle.
 
@@ -251,13 +251,13 @@ arrête:
 
 **Mesures d’accompagnement**
 
-<sup>1</sup> Le Secrétariat général de la Direction de l’instruction publique peut, d’entente avec l’office compétent et sur demande du membre du corps enseignant touché par la réorganisation, financer une partie ou la totalité d’une formation continue afin d’accroître ses chances sur le marché du travail.
+<sup>1</sup> Le Secrétariat général de la Direction de l’instruction publique et de la culture peut, d’entente avec l’office compétent et sur demande du membre du corps enseignant touché par la réorganisation, financer une partie ou la totalité d’une formation continue afin d’accroître ses chances sur le marché du travail.
 
 <sup>2</sup> Il peut charger des tiers de mettre en place des entraînements à la candidature et des conseils en réinsertion professionnelle individuels ou de groupe.
 
 <sup>3</sup> D’autres mesures d’accompagnement peuvent être autorisées en cas de besoin.
 
-<sup>4</sup> La Direction de l’instruction publique règle les détails par voie d’ordonnance.
+<sup>4</sup> La Direction de l’instruction publique et de la culture règle les détails par voie d’ordonnance.
 
 #### Art. 19–20
 
@@ -323,11 +323,11 @@ arrête:
 
 **Classement**
 
-<sup>1</sup> Le classement des membres des directions d’école qui assument la responsabilité générale des écoles du degré secondaire II et des écoles supérieures ainsi que l’imputation d’échelons de traitement ou d’échelons préliminaires relèvent de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle.
+<sup>1</sup> Le classement des membres des directions d’école qui assument la responsabilité générale des écoles du degré secondaire II et des écoles supérieures ainsi que l’imputation d’échelons de traitement ou d’échelons préliminaires relèvent de l’Office des écoles moyennes et de la formation professionnelle.
 
 <sup>2</sup> Dans les écoles du degré secondaire II qui gèrent elles-mêmes les traitements, les membres de la direction d’école qui assument la responsabilité générale de l’école fixent, dans la décision d’engagement, le classement et l’imputation d’échelons de traitement ou d’échelons préliminaires des autres membres de la direction d’école et des enseignants et enseignantes.
 
-<sup>3</sup> La Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique rend les décisions concernant le classement des autres membres des directions d’école et membres du corps enseignant ainsi que l’imputation des échelons préliminaires ou des échelons de traitement.
+<sup>3</sup> La Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique et de la culture rend les décisions concernant le classement des autres membres des directions d’école et membres du corps enseignant ainsi que l’imputation des échelons préliminaires ou des échelons de traitement.
 
 <sup>4</sup> Elle assure aussi l’égalité en matière de classement des directions d’école et du corps enseignant visés aux alinéas 1 et 2. Elle dispose à cette fin d’un droit de consulter les dossiers.
 
@@ -345,7 +345,7 @@ arrête:
 
 <sup>4</sup> Dès que les membres du corps enseignant satisfont aux exigences de formation requises, leur traitement est augmenté en conséquence au début du mois suivant.
 
-<sup>5</sup> En cas de pénurie d’enseignants et d’enseignantes ou lorsqu’il est nécessaire de recruter des spécialistes, la Direction de l’instruction publique règle par voie d’ordonnance les détails ainsi que les dérogations aux alinéas 1 à 4 fixées pour assurer la continuité de l’enseignement.
+<sup>5</sup> En cas de pénurie d’enseignants et d’enseignantes ou lorsqu’il est nécessaire de recruter des spécialistes, la Direction de l’instruction publique et de la culture règle par voie d’ordonnance les détails ainsi que les dérogations aux alinéas 1 à 4 fixées pour assurer la continuité de l’enseignement.
 
 #### Art. 30
 
@@ -365,7 +365,7 @@ arrête:
 
 <sup>5</sup> Le temps consacré à la formation, à la formation continue ou aux stages y afférents n’est pas pris en compte.
 
-<sup>6</sup> La Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique détermine à quel pourcentage correspond l’expérience professionnelle pouvant être prise en compte et publie chaque année un tableau à l’appui.
+<sup>6</sup> La Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique et de la culture détermine à quel pourcentage correspond l’expérience professionnelle pouvant être prise en compte et publie chaque année un tableau à l’appui.
 
 ### 3.2a Formations continues attestées
 
@@ -379,8 +379,8 @@ arrête:
 
 <sup>3</sup> Décide de l'imputation d'échelons de traitement supplémentaires
 
-- a pour le corps enseignant et les directeurs et directrices des écoles du degré secondaire II et des écoles supérieures, le service compétent en matière de classement selon l’article 28, alinéas 1 et 2, d’entente avec la Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique;
-- b pour les autres membres du corps enseignant, la Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique, après avoir consulté l’office compétent.
+- a pour le corps enseignant et les directeurs et directrices des écoles du degré secondaire II et des écoles supérieures, le service compétent en matière de classement selon l’article 28, alinéas 1 et 2, d’entente avec la Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique et de la culture;
+- b pour les autres membres du corps enseignant, la Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique et de la culture, après avoir consulté l’office compétent.
 
 ### 3.3 Progression individuelle du traitement
 
@@ -424,7 +424,7 @@ arrête:
 
 <sup>3</sup> Si l’absence pour cause de maladie ou d'accident dure plus longtemps, un nouveau certificat médical doit être produit tous les deux mois. L’autorité d’engagement peut exiger la présentation d’un certificat médical précisant la date à laquelle le travail pourra être repris partiellement ou totalement ainsi que la nécessité d’engager des mesures visant à faciliter la réintégration dans le processus de travail.
 
-<sup>4</sup> La direction d’école transmet le certificat médical à la Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique.
+<sup>4</sup> La direction d’école transmet le certificat médical à la Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique et de la culture.
 
 <sup>5</sup> …
 
@@ -432,9 +432,9 @@ arrête:
 
 **Absences de longue durée**
 
-<sup>1</sup> En cas d’absence de longue durée, le service désigné par la Direction de l’instruction publique prend, d’entente avec la direction d’école et l’enseignant ou l’enseignante concernée, des mesures visant à faciliter la réintégration de ce dernier ou de cette dernière dans le processus de travail. Dans les établissements du degré secondaire II, la direction d’école peut engager ces mesures, d’entente avec le service compétent.
+<sup>1</sup> En cas d’absence de longue durée, le service désigné par la Direction de l’instruction publique et de la culture prend, d’entente avec la direction d’école et l’enseignant ou l’enseignante concernée, des mesures visant à faciliter la réintégration de ce dernier ou de cette dernière dans le processus de travail. Dans les établissements du degré secondaire II, la direction d’école peut engager ces mesures, d’entente avec le service compétent.
 
-<sup>2</sup> La Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique transmet le certificat et d’autres informations utiles au service désigné par la Direction conformément à l’alinéa 1.
+<sup>2</sup> La Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique et de la culture transmet le certificat et d’autres informations utiles au service désigné par la Direction conformément à l’alinéa 1.
 
 <sup>3</sup> Elle peut exiger que la personne concernée se soumette à l’examen d’un médecin-conseil dans le but de clarifier la situation.
 
@@ -482,7 +482,7 @@ arrête:
 
 #### Art. 39
 
-<sup>1</sup> La Direction de l’instruction publique règle l’indemnité de déplacement et d’autres indemnités par voie d’ordonnance.
+<sup>1</sup> La Direction de l’instruction publique et de la culture règle l’indemnité de déplacement et d’autres indemnités par voie d’ordonnance.
 
 ## 5 Temps de travail et degré d’occupation
 
@@ -508,7 +508,7 @@ arrête:
 
 <sup>2</sup> Les annexes 3A et 3B de la présente ordonnance fixent, pour les différents types d’école et degrés d’enseignement, le nombre de leçons hebdomadaires ou annuelles correspondant à un degré d’occupation de 100 pour cent.
 
-<sup>3</sup> La Direction de l’instruction publique fixe le nombre de leçons et les pourcentages de degré d’occupation pour les types d’école et les degrés d’enseignement qui ne sont pas mentionnés dans les annexes 3A et 3B, ainsi que pour certains cas particuliers.
+<sup>3</sup> La Direction de l’instruction publique et de la culture fixe le nombre de leçons et les pourcentages de degré d’occupation pour les types d’école et les degrés d’enseignement qui ne sont pas mentionnés dans les annexes 3A et 3B, ainsi que pour certains cas particuliers.
 
 <sup>4</sup> Pour le corps enseignant dispensant une formation professionnelle supérieure ou une formation continue dans une école du degré secondaire II, l’autorité d’engagement peut exceptionnellement fixer un degré d'occupation dérogeant à l’alinéa 2 si la situation est particulière et qu’il n’en résulte pas des frais supplémentaires.
 
@@ -522,17 +522,17 @@ arrête:
 
 <sup>3</sup> L’écart autorisé ne pouvant être compensé durant le même semestre doit être reporté dans le relevé individuel des heures d’enseignement. Un solde négatif peut être reporté sur l’année scolaire suivante, même sans l’accord de la personne concernée.
 
-<sup>4</sup> A la fin de l’année scolaire, un solde situé dans une fourchette maximale de moins 8 à plus 50 pour cent de degré d’occupation peut être reporté sur l’année scolaire suivante. La Direction de l’instruction publique peut, dans des cas particuliers, autoriser des écarts plus importants.
+<sup>4</sup> A la fin de l’année scolaire, un solde situé dans une fourchette maximale de moins 8 à plus 50 pour cent de degré d’occupation peut être reporté sur l’année scolaire suivante. La Direction de l’instruction publique et de la culture peut, dans des cas particuliers, autoriser des écarts plus importants.
 
 <sup>5</sup> Lors d’une résiliation des rapports de travail, le solde, situé dans une fourchette maximale de moins 8 à plus 50 pour cent de degré d’occupation est pris en compte dans le dernier traitement. Cette prise en compte se fait sur la base du niveau du salaire atteint au moment où prend fin l’engagement. Les soldes négatifs ne sont pas pris en compte dans le dernier traitement lorsque le membre du corps enseignant concerné n’en est pas responsable.
 
-<sup>6</sup> La Direction de l’instruction publique règle les détails par voie d’ordonnance.
+<sup>6</sup> La Direction de l’instruction publique et de la culture règle les détails par voie d’ordonnance.
 
 #### Art. 44
 
 **3 Modèles à l’essai**
 
-<sup>1</sup> La Direction de l’instruction publique peut autoriser des dérogations aux articles 42 et 47 lorsque le degré d’occupation est fixé à l’essai dans des modèles alternatifs.
+<sup>1</sup> La Direction de l’instruction publique et de la culture peut autoriser des dérogations aux articles 42 et 47 lorsque le degré d’occupation est fixé à l’essai dans des modèles alternatifs.
 
 <sup>2</sup> Elle règle les détails par voie d’ordonnance.
 
@@ -552,7 +552,7 @@ arrête:
 
 <sup>2</sup> Les inspecteurs et inspectrices scolaires décident de la charge de travail exceptionnelle et du montant de l’indemnisation.
 
-<sup>3</sup> La Direction de l’instruction publique règle les détails par voie d’ordonnance.
+<sup>3</sup> La Direction de l’instruction publique et de la culture règle les détails par voie d’ordonnance.
 
 [^45a-1]: RSB 432.271.1
 
@@ -560,7 +560,7 @@ arrête:
 
 **Corps enseignant chargé de l’enseignement professionnel pratique**
 
-<sup>1</sup> L’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle définit, sur proposition de l’école, le nombre d’heures de présence et de leçons obligatoires du corps enseignant chargé de l’enseignement professionnel pratique. Elle tient compte, à cet effet, du cahier des charges de la personne concernée, du temps de travail annuel prescrit et de la situation particulière de l’école.
+<sup>1</sup> L’Office des écoles moyennes et de la formation professionnelle définit, sur proposition de l’école, le nombre d’heures de présence et de leçons obligatoires du corps enseignant chargé de l’enseignement professionnel pratique. Elle tient compte, à cet effet, du cahier des charges de la personne concernée, du temps de travail annuel prescrit et de la situation particulière de l’école.
 
 #### Art. 47
 
@@ -568,7 +568,7 @@ arrête:
 
 <sup>1</sup> Le degré d’occupation rétribué ne peut dépasser 105 pour cent au maximum.
 
-<sup>2</sup> La Direction de l’instruction publique peut, pour des raisons majeures, relever ou baisser ce taux par voie d’ordonnance pour certaines fonctions et catégories d’enseignants et d’enseignantes.
+<sup>2</sup> La Direction de l’instruction publique et de la culture peut, pour des raisons majeures, relever ou baisser ce taux par voie d’ordonnance pour certaines fonctions et catégories d’enseignants et d’enseignantes.
 
 #### Art. 47a
 
@@ -586,7 +586,7 @@ arrête:
 
 <sup>4</sup> …
 
-<sup>5</sup> La Direction de l’instruction publique règle les détails par voie d’ordonnance.
+<sup>5</sup> La Direction de l’instruction publique et de la culture règle les détails par voie d’ordonnance.
 
 ### 5.4 Congé
 
@@ -616,7 +616,7 @@ arrête:
 
 <sup>5</sup> La suppléance doit si possible être réglée au niveau interne de l’école.
 
-<sup>6</sup> L’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation et l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle peuvent octroyer d’autres congés payés si ces derniers présentent un intérêt pour l’école ou si la personne concernée en a besoin pour achever une formation qui présente un intérêt pour le canton. Ils précisent alors à qui incombent les frais de remplacement.
+<sup>6</sup> L’Office de l’école obligatoire et du conseil et l’Office des écoles moyennes et de la formation professionnelle peuvent octroyer d’autres congés payés si ces derniers présentent un intérêt pour l’école ou si la personne concernée en a besoin pour achever une formation qui présente un intérêt pour le canton. Ils précisent alors à qui incombent les frais de remplacement.
 
 #### Art. 50
 
@@ -634,7 +634,7 @@ arrête:
 
 <sup>2</sup> Elle tient compte ce faisant des besoins de l’école.
 
-<sup>3</sup> La Direction de l’instruction publique règle les détails par voie d’ordonnance.
+<sup>3</sup> La Direction de l’instruction publique et de la culture règle les détails par voie d’ordonnance.
 
 ## 6 Mandat du corps enseignant
 
@@ -781,7 +781,7 @@ arrête:
 <sup>2</sup> La révision au sens de l’alinéa 1 est menée par
 
 - a la commission scolaire pour le corps enseignant et les directions d’école de l’école obligatoire;
-- b les services désignés par l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle pour le corps enseignant et les directions d’école du degré secondaire II et des écoles supérieures.
+- b les services désignés par l’Office des écoles moyennes et de la formation professionnelle pour le corps enseignant et les directions d’école du degré secondaire II et des écoles supérieures.
 
 <sup>3</sup> Si le membre du corps enseignant ou la direction d’école n’est pas d'accord avec le résultat de la révision, il ou elle peut remettre une déclaration écrite en ce sens pour son dossier personnel.
 
@@ -801,7 +801,7 @@ arrête:
 
 **Formation continue obligatoire**
 
-<sup>1</sup> La Direction de l’instruction publique peut déclarer obligatoires des cours de formation continue.
+<sup>1</sup> La Direction de l’instruction publique et de la culture peut déclarer obligatoires des cours de formation continue.
 
 #### Art. 69
 
@@ -819,7 +819,7 @@ arrête:
 
 <sup>2</sup> Les congés visés à l’alinéa 1 peuvent être accordés pour un total de six jours ouvrés maximum par année au corps enseignant de l’école obligatoire.
 
-<sup>3</sup> Aucune autorisation n’est requise pour les cours de formation continue visés à l’alinéa 1 qui sont déclarés obligatoires par la Direction de l’instruction publique.
+<sup>3</sup> Aucune autorisation n’est requise pour les cours de formation continue visés à l’alinéa 1 qui sont déclarés obligatoires par la Direction de l’instruction publique et de la culture.
 
 ### 7.2.2 Financement
 
@@ -827,7 +827,7 @@ arrête:
 
 **Cours de formation continue obligatoires**
 
-<sup>1</sup> Le canton prend à sa charge l’intégralité des coûts des manifestations de formation continue déclarées obligatoires par la Direction de l’instruction publique.
+<sup>1</sup> Le canton prend à sa charge l’intégralité des coûts des manifestations de formation continue déclarées obligatoires par la Direction de l’instruction publique et de la culture.
 
 <sup>2</sup> Il prend à sa charge les frais de remplacement éventuels des membres du corps enseignant qui assistent à des manifestations déclarées obligatoires.
 
@@ -839,11 +839,11 @@ arrête:
 
 <sup>1</sup> Le canton peut, selon l’intérêt du service, prendre à sa charge l’intégralité ou une partie des coûts des autres manifestations de formation continue ainsi que d’éventuels remplacements.
 
-<sup>2</sup> La Direction de l’instruction publique peut convenir de la prise en charge des coûts d’autres cours de formation continue directement avec l’institution qui les propose.
+<sup>2</sup> La Direction de l’instruction publique et de la culture peut convenir de la prise en charge des coûts d’autres cours de formation continue directement avec l’institution qui les propose.
 
 <sup>3</sup> En l’absence de convention au sens de l’alinéa 2, les membres du corps enseignant des écoles visées à l’article 2, alinéa 1, lettres a à c LSE peuvent déposer une demande de prise en charge partielle ou totale des coûts, le préavis de la direction d’école devant être joint à la demande:
 
-- a auprès de l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation, après avoir suivi la formation, s’ils enseignent dans la partie germanophone du canton et
+- a auprès de l’Office de l’école obligatoire et du conseil, après avoir suivi la formation, s’ils enseignent dans la partie germanophone du canton et
 - b auprès de la Haute école pédagogique des cantons de Berne, du Jura et de Neuchâtel, avant la formation, s’ils enseignent dans la partie francophone du canton.
 
 <sup>4</sup> La direction d’école peut déposer une demande de prise en charge des coûts auprès des instances visées à l’alinéa 3 pour des cours de formation continue destinés au collège des enseignants et des enseignantes.
@@ -856,7 +856,7 @@ arrête:
 
 <sup>1</sup> Toute personne enseignant dans un établissement visé à l’article 2, alinéa 1, lettres e à h LSE qui reçoit une contribution de plus de 3000 francs aux coûts d’une formation continue ou se voit accorder un congé payé totalisant plus de dix jours ouvrés s’engage par écrit, avant le début de la formation, à rembourser ces dépenses.
 
-<sup>2</sup> Les articles 176 et 178a à 182 OPers s’appliquent par analogie. L’Office des services centralisés de la Direction de l’instruction publique est compétent pour statuer sur une dispense de l’obligation de rembourser ainsi que sur le calcul et la facturation conformément aux articles 181 et 182 OPers.
+<sup>2</sup> Les articles 176 et 178a à 182 OPers s’appliquent par analogie. L’Office des services centralisés de la Direction de l’instruction publique et de la culture est compétent pour statuer sur une dispense de l’obligation de rembourser ainsi que sur le calcul et la facturation conformément aux articles 181 et 182 OPers.
 
 <sup>3</sup> L’obligation de rembourser naît lorsque l’enseignant ou l’enseignante concernée interrompt sa formation pour des raisons personnelles ou interrompt son activité d’enseignement dans une école soumise à la législation sur le statut du corps enseignant au cours de sa formation ou dans un délai déterminé après celle-ci.
 
@@ -866,7 +866,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Les membres du corps enseignant peuvent demander à la Direction de l’instruction publique jusqu’à trois congés de formation payés pour de la formation continue à des fins professionnelles au cours de leur carrière d’enseignement. Ces congés de formation ne doivent pas dépasser six mois au total.
+<sup>1</sup> Les membres du corps enseignant peuvent demander à la Direction de l’instruction publique et de la culture jusqu’à trois congés de formation payés pour de la formation continue à des fins professionnelles au cours de leur carrière d’enseignement. Ces congés de formation ne doivent pas dépasser six mois au total.
 
 <sup>2</sup> Les congés de formation sont accordés dans les limites des moyens financiers disponibles.
 
@@ -880,25 +880,25 @@ arrête:
 
 <sup>1</sup> En règle générale, les membres du corps enseignant présentent leurs demandes de congé de formation au moins une année à l’avance auprès de la commission compétente pour les congés de formation.
 
-<sup>2</sup> Les membres du corps enseignant du degré secondaire II et des écoles supérieures qui enseignent dans la partie germanophone du canton soumettent leurs demandes de congé de formation à la section compétente de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle.
+<sup>2</sup> Les membres du corps enseignant du degré secondaire II et des écoles supérieures qui enseignent dans la partie germanophone du canton soumettent leurs demandes de congé de formation à la section compétente de l’Office des écoles moyennes et de la formation professionnelle.
 
-<sup>3</sup> La demande de congé est accompagnée du préavis de la direction d’école et de celui de l’autorité d’engagement. Les autres annexes sont fixées par la commission des congés de formation ou par la section compétente de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle.
+<sup>3</sup> La demande de congé est accompagnée du préavis de la direction d’école et de celui de l’autorité d’engagement. Les autres annexes sont fixées par la commission des congés de formation ou par la section compétente de l’Office des écoles moyennes et de la formation professionnelle.
 
 #### Art. 75
 
 **Admission ou rejet des demandes**
 
-<sup>1</sup> La commission des congés de formation pour la partie germanophone du canton propose à l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation l’admission ou le rejet des demandes de congé de formation des enseignants et des enseignantes de l’école obligatoire qui exercent dans la partie germanophone du canton.
+<sup>1</sup> La commission des congés de formation pour la partie germanophone du canton propose à l’Office de l’école obligatoire et du conseil l’admission ou le rejet des demandes de congé de formation des enseignants et des enseignantes de l’école obligatoire qui exercent dans la partie germanophone du canton.
 
-<sup>2</sup> La section compétente de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle statue sur l’admission ou le rejet des demandes de congé de formation des enseignants et des enseignantes du degré secondaire II et des écoles supérieures qui exercent dans la partie germanophone du canton.
+<sup>2</sup> La section compétente de l’Office des écoles moyennes et de la formation professionnelle statue sur l’admission ou le rejet des demandes de congé de formation des enseignants et des enseignantes du degré secondaire II et des écoles supérieures qui exercent dans la partie germanophone du canton.
 
-<sup>3</sup> La commission des congés de formation pour la partie francophone du canton propose à la Section francophone de l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation ou à la section compétente de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle l’admission ou le rejet des demandes de congé de formation des enseignants et des enseignantes de la partie francophone du canton.
+<sup>3</sup> La commission des congés de formation pour la partie francophone du canton propose à la Section francophone de l’Office de l’école obligatoire et du conseil ou à la section compétente de l’Office des écoles moyennes et de la formation professionnelle l’admission ou le rejet des demandes de congé de formation des enseignants et des enseignantes de la partie francophone du canton.
 
 #### Art. 76
 
 **Rapport**
 
-<sup>1</sup> A la fin de leur congé de formation, les bénéficiaires présentent à la commission compétente de la Direction de l’instruction publique ou à la section compétente de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle un rapport sur les activités qu’ils ont exercées pendant leur congé ou remplissent les conditions convenues dans le programme de cours.
+<sup>1</sup> A la fin de leur congé de formation, les bénéficiaires présentent à la commission compétente de la Direction de l’instruction publique et de la culture ou à la section compétente de l’Office des écoles moyennes et de la formation professionnelle un rapport sur les activités qu’ils ont exercées pendant leur congé ou remplissent les conditions convenues dans le programme de cours.
 
 #### Art. 77
 
@@ -920,13 +920,13 @@ arrête:
 
 <sup>1</sup> Les membres du corps enseignant qui quittent le service de l’école bernoise dans les trois ans qui suivent le congé de formation doivent rembourser un tiers des frais occasionnés par le congé pour toute année scolaire non achevée. Est réservée la démission à la suite d’une maladie ou d’un accident ou la résiliation par l’autorité d’engagement.
 
-<sup>2</sup> La Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique peut déduire du traitement le montant à rembourser pour autant que cette mesure n’empiète pas sur le minimum vital selon le droit des poursuites.
+<sup>2</sup> La Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique et de la culture peut déduire du traitement le montant à rembourser pour autant que cette mesure n’empiète pas sur le minimum vital selon le droit des poursuites.
 
 #### Art. 80
 
 **Commissions d’examen des congés de formation 1 Composition**
 
-<sup>1</sup> La Direction de l’instruction publique institue pour l’examen des congés de formation une commission pour la partie germanophone du canton et une autre pour la partie francophone du canton, qui se composent respectivement de cinq et sept membres.
+<sup>1</sup> La Direction de l’instruction publique et de la culture institue pour l’examen des congés de formation une commission pour la partie germanophone du canton et une autre pour la partie francophone du canton, qui se composent respectivement de cinq et sept membres.
 
 <sup>2</sup> Siègent à la commission des congés de formation pour la partie germanophone du canton
 
@@ -945,7 +945,7 @@ arrête:
 - e deux représentants ou représentantes du degré secondaire II et des écoles supérieures,
 - f un représentant ou une représentante du domaine de la formation continue de la Haute école pédagogique des cantons de Berne, du Jura et de Neuchâtel.
 
-<sup>4</sup> La Direction de l’instruction publique désigne le président ou la présidente de chaque commission.
+<sup>4</sup> La Direction de l’instruction publique et de la culture désigne le président ou la présidente de chaque commission.
 
 #### Art. 81
 
@@ -1056,7 +1056,7 @@ arrête:
 
 <sup>2</sup> Les prescriptions de calcul ainsi que les principes applicables à l’utilisation et à la répartition des ressources attribuées aux pools sont fixés à l’annexe 4.
 
-<sup>3</sup> Le service désigné de la Direction de l’instruction publique fixe le pool de direction ainsi que le pool destiné à la direction de l’enseignement spécialisé.
+<sup>3</sup> Le service désigné de la Direction de l’instruction et de la culture publique fixe le pool de direction ainsi que le pool destiné à la direction de l’enseignement spécialisé.
 
 #### Art. 92
 
@@ -1066,7 +1066,7 @@ arrête:
 
 <sup>2</sup> Les prescriptions de calcul ainsi que les principes applicables à l’utilisation et à la répartition des ressources attribuées au pool destiné aux tâches spéciales sont fixés à l’annexe 4.
 
-<sup>3</sup> Le service désigné de la Direction de l’instruction publique fixe le pool destiné aux tâches spéciales.
+<sup>3</sup> Le service désigné de la Direction de l’instruction publique et de la culture fixe le pool destiné aux tâches spéciales.
 
 ### 9.2b Pools pour les écoles du degré secondaire II
 
@@ -1076,7 +1076,7 @@ arrête:
 
 <sup>2</sup> Les prescriptions de calcul ainsi que les principes applicables à l’utilisation et à la répartition des ressources attribuées aux pools sont fixées dans la législation spéciale.
 
-<sup>3</sup> Le service compétent de la Direction de l’instruction publique fixe les pools.
+<sup>3</sup> Le service compétent de la Direction de l’instruction publique et de la culture fixe les pools.
 
 #### Art. 93
 
@@ -1090,20 +1090,20 @@ arrête:
 
 <sup>1</sup> La création d’un pool spécial, exprimé en pourcentages de degré d’occupation et destiné à des tâches qui ne peuvent pas être attribuées à un des pools visés aux articles 91 à 92a peut être autorisée pour une durée déterminée par:
 
-- a l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation, pour l’école obligatoire,
-- b l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle, pour le degré secondaire II et les écoles supérieures.
+- a l’Office de l’école obligatoire et du conseil, pour l’école obligatoire,
+- b l’Office des écoles moyennes et de la formation professionnelle, pour le degré secondaire II et les écoles supérieures.
 
 ### 9.3 Traitement
 
 #### Art. 95
 
-<sup>1</sup> L’annexe 2 définit les classes de traitement dans lesquelles sont rangées les fonctions de direction d’école. L’office désigné de la Direction de l’instruction publique définit les classes de traitement de fonctions de direction d’école et d’autres fonctions non mentionnées dans la présente ordonnance.
+<sup>1</sup> L’annexe 2 définit les classes de traitement dans lesquelles sont rangées les fonctions de direction d’école. L’office désigné de la Direction de l’instruction publique et de la culture définit les classes de traitement de fonctions de direction d’école et d’autres fonctions non mentionnées dans la présente ordonnance.
 
-<sup>2</sup> En cas de structures complexes dans les écoles du degré secondaire II et dans les écoles supérieures, l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle peut relever d’une classe le traitement alloué à la direction d’école.
+<sup>2</sup> En cas de structures complexes dans les écoles du degré secondaire II et dans les écoles supérieures, l’Office des écoles moyennes et de la formation professionnelle peut relever d’une classe le traitement alloué à la direction d’école.
 
 <sup>3</sup> Les membres du corps enseignant qui sont rétribués pour l’accomplissement de tâches spéciales se voient appliquer la classe de traitement ainsi que les échelons préliminaires et les échelons dont ils bénéficient en tant qu’enseignant ou enseignante. Lorsque des classes de traitement différentes sont attribuées pour leur activité d’enseignement, c’est la classe de traitement la plus élevée qui est applicable.
 
-<sup>4</sup> L’alinéa 3 de la présente ordonnance s’applique par analogie aux enseignants et enseignantes des établissements du degré secondaire II ou des écoles supérieures qui ne disposent pas d’un diplôme d’enseignement pour le degré d’enseignement concerné et exercent une fonction au sein de la direction ou accomplissent des tâches spéciales. La Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique statue sur leur classement.
+<sup>4</sup> L’alinéa 3 de la présente ordonnance s’applique par analogie aux enseignants et enseignantes des établissements du degré secondaire II ou des écoles supérieures qui ne disposent pas d’un diplôme d’enseignement pour le degré d’enseignement concerné et exercent une fonction au sein de la direction ou accomplissent des tâches spéciales. La Section du personnel de l’Office des services centralisés de la Direction de l’instruction publique et de la culture statue sur leur classement.
 
 <sup>5</sup> Si des pourcentages de degré d’occupation provenant du pool de direction sont utilisés pour l’accomplissement de tâches spéciales, le classement s’opère conformément à l’alinéa 3.
 
@@ -1111,13 +1111,13 @@ arrête:
 
 #### Art. 96
 
-<sup>1</sup> En ce qui concerne les écoles et types d’école qui ne sont mentionnés ni dans les annexes ni dans la législation spéciale, le service désigné de la Direction de l’instruction publique détermine au cas par cas les ressources dans le cadre des moyens disponibles et les classes de traitement selon les dispositions de la présente ordonnance ou de la législation spéciale.
+<sup>1</sup> En ce qui concerne les écoles et types d’école qui ne sont mentionnés ni dans les annexes ni dans la législation spéciale, le service désigné de la Direction de l’instruction publique et de la culture détermine au cas par cas les ressources dans le cadre des moyens disponibles et les classes de traitement selon les dispositions de la présente ordonnance ou de la législation spéciale.
 
 ## 10 Exécution
 
 #### Art. 97
 
-<sup>1</sup> Les prétentions patrimoniales relèvent de l’Office des services centralisés de la Direction de l’instruction publique.
+<sup>1</sup> Les prétentions patrimoniales relèvent de l’Office des services centralisés de la Direction de l’instruction publique et de la culture.
 
 ## 11 Dispositions transitoires et finales
 

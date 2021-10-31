@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Verordnung über die Anstellung der Lehrkräfte
 short: LAV
 language: de
-version: 2021-01-01
-valid_until: 2021-10-31
-version_adopted: 2020-11-11
+version: 2021-11-01
+valid_until: 2021-12-31
+version_adopted: 2021-09-01
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2071/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2364/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2071/pdf_file"
 
 (LAV)
 
-vom 28.03.2007 (Stand 01.01.2021)
+vom 28.03.2007 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -45,7 +45,7 @@ beschliesst:
 - b Klassenhilfen und
 - c Personen, die Spezialaufgaben im Interesse der Schule wahrnehmen.
 
-<sup>3</sup> Die Erziehungsdirektion entscheidet, ob einzelne Stellen für unterrichtsbegleitendes Personal der Lehreranstellungs- oder der Personalgesetzgebung unterstehen.
+<sup>3</sup> Die Bildungs- und Kulturdirektion entscheidet, ob einzelne Stellen für unterrichtsbegleitendes Personal der Lehreranstellungs- oder der Personalgesetzgebung unterstehen.
 
 <sup>4</sup> Für die der Lehreranstellungsgesetzgebung unterstellten unterrichtsbegleitenden Personen kann in der Anstellungsverfügung festgelegt werden, dass bezüglich Arbeitszeit, Ferienregelung und Kündigungsfristen die Bestimmungen der Personalgesetzgebung gelten.
 
@@ -66,7 +66,7 @@ beschliesst:
 
 **Zuständigkeiten der Behörden**
 
-<sup>1</sup> Soweit diese Verordnung auf Schulen angewendet wird, die nicht der Erziehungsdirektion unterstehen, kann die zuständige Direktion abweichende Bestimmungen über die Zuständigkeiten erlassen.
+<sup>1</sup> Soweit diese Verordnung auf Schulen angewendet wird, die nicht der Bildungs- und Kulturdirektion unterstehen, kann die zuständige Direktion abweichende Bestimmungen über die Zuständigkeiten erlassen.
 
 #### Art. 3
 
@@ -96,14 +96,14 @@ beschliesst:
 
 <sup>5</sup> Die gesamtverantwortlichen Schulleitungsmitglieder von kantonalen Schulen der Sekundarstufe II und der höheren Fachschulen stellen die weiteren Schulleitungsmitglieder und die Lehrkräfte an.
 
-<sup>6</sup> An subventionierten Schulen, die nach dem Gesetz vom 14. Juni 2005 über die Berufsbildung, die Weiterbildung und die Berufsberatung (BerG[^5-1])
+<sup>6</sup> An subventionierten Schulen, die nach dem Gesetz vom 14. Juni 2005 über die Berufsbildung, die Weiterbildung und die Berufsberatung (BerG)[^5-1]
 
 geführt werden,
 
 - a bestimmt die Trägerschaft die Anstellungsbehörde der Schulleitung,
 - b stellt die Schulleitung die Lehrkräfte an.
 
-<sup>7</sup> Das zuständige Amt der Erziehungsdirektion stellt jene Lehrkräfte befristet an, die eine Aufgabe im Rahmen von schulbezogenen Projekten übernehmen.
+<sup>7</sup> Das zuständige Amt der Bildungs- und Kulturdirektion stellt jene Lehrkräfte befristet an, die eine Aufgabe im Rahmen von schulbezogenen Projekten übernehmen.
 
 [^5-1]: BSG 435.11
 
@@ -171,7 +171,7 @@ geführt werden,
 
 **Anstellungsverhältnisse von Fachreferentinnen, Fachreferenten, Stellvertretungen und Klassenhilfen**
 
-<sup>1</sup> Die Erziehungsdirektion regelt die Entstehung, die Dauer, das Gehalt und die Beendigung von Anstellungen für Fachreferentinnen, Fachreferenten, Stellvertretungen und Klassenhilfen abweichend von dieser Verordnung.
+<sup>1</sup> Die Bildungs- und Kulturdirektion regelt die Entstehung, die Dauer, das Gehalt und die Beendigung von Anstellungen für Fachreferentinnen, Fachreferenten, Stellvertretungen und Klassenhilfen abweichend von dieser Verordnung.
 
 ### 2.2 Auflösung eines Anstellungsverhältnisses infolge von Reorganisation
 
@@ -232,7 +232,7 @@ geführt werden,
 
 **Stellenvermittlung**
 
-<sup>1</sup> Das Generalsekretariat der Erziehungsdirektion führt die Stellenvermittlung.
+<sup>1</sup> Das Generalsekretariat der Bildungs- und Kulturdirektion führt die Stellenvermittlung.
 
 <sup>2</sup> Es kann die Aufgaben der Stellenvermittlung an eine Dienststelle delegieren, soweit keine Verfügungsbefugnisse damit verbunden sind.
 
@@ -252,13 +252,13 @@ geführt werden,
 
 **Flankierende Massnahmen**
 
-<sup>1</sup> Das Generalsekretariat der Erziehungsdirektion. kann im Einvernehmen mit dem zuständigen Amt zur Erhöhung der Arbeitsmarktfähigkeit auf Gesuch der von der Reorganisation betroffenen Lehrkraft hin die ganze oder teilweise Finanzierung einer Weiterbildung bewilligen.
+<sup>1</sup> Das Generalsekretariat der Bildungs- und Kulturdirektion kann im Einvernehmen mit dem zuständigen Amt zur Erhöhung der Arbeitsmarktfähigkeit auf Gesuch der von der Reorganisation betroffenen Lehrkraft hin die ganze oder teilweise Finanzierung einer Weiterbildung bewilligen.
 
 <sup>2</sup> Es kann Dritte mit der Organisation von Bewerbungstrainings sowie von Gruppen- oder Einzeloutplacements beauftragen.
 
 <sup>3</sup> Bei Bedarf können weitere flankierende Massnahmen bewilligt werden.
 
-<sup>4</sup> Die Erziehungsdirektion regelt das Nähere durch Verordnung.
+<sup>4</sup> Die Bildungs- und Kulturdirektion regelt das Nähere durch Verordnung.
 
 #### Art. 19–20
 
@@ -328,7 +328,7 @@ geführt werden,
 
 <sup>2</sup> Die gesamtverantwortlichen Schulleitungsmitglieder von Schulen der Sekundarstufe II, welche die Gehälter selber verarbeiten, legen die Einstufung in die entsprechende Gehaltsklasse und die anrechenbaren Gehalts- oder Vorstufen für die übrigen Schulleitungsmitglieder und Lehrkräfte in der Anstellungsverfügung fest.
 
-<sup>3</sup> Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Erziehungsdirektion verfügt die Einstufung der übrigen Schulleitungsmitglieder und Lehrkräfte in die entsprechende Gehaltsklasse sowie die Festlegung der anrechenbaren Gehalts- oder Vorstufen.
+<sup>3</sup> Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion verfügt die Einstufung der übrigen Schulleitungsmitglieder und Lehrkräfte in die entsprechende Gehaltsklasse sowie die Festlegung der anrechenbaren Gehalts- oder Vorstufen.
 
 <sup>4</sup> Sie stellt die rechtsgleiche Einstufung der in Absatz 1 und 2 erwähnten Schulleitungen und Lehrkräfte sicher. Ihr steht die dafür erforderliche Akteneinsicht zu.
 
@@ -346,7 +346,7 @@ geführt werden,
 
 <sup>4</sup> Sobald die Ausbildungsanforderungen erfüllt sind, wird das Gehalt auf den Beginn des folgenden Monates entsprechend angehoben.
 
-<sup>5</sup> Die Erziehungsdirektion regelt das Nähere sowie Abweichungen von den Absätzen 1 bis 4 zur Sicherstellung des Unterrichts, bei Mangel an Lehrkräften und zur Rekrutierung von Spezialistinnen und Spezialisten durch Verordnung.
+<sup>5</sup> Die Bildungs- und Kulturdirektion regelt das Nähere sowie Abweichungen von den Absätzen 1 bis 4 zur Sicherstellung des Unterrichts, bei Mangel an Lehrkräften und zur Rekrutierung von Spezialistinnen und Spezialisten durch Verordnung.
 
 #### Art. 30
 
@@ -360,13 +360,13 @@ geführt werden,
 - b Andere berufliche Tätigkeiten werden zur Hälfte der Dauer angerechnet.
 - c Die Erfüllung von Elternpflichten (bis zur Vollendung des 16. Altersjahres des letztgeborenen Kindes) wird zur Hälfte der Dauer angerechnet.
 
-<sup>3</sup> Eine andere berufliche Tätigkeit kann auf Gesuch der Lehrkraft hin für die gesamte Dauer angerechnet werden, wenn sie zur Erfüllung des Berufsauftrages direkt dienlich ist.
+<sup>3</sup> Eine andere berufliche Tätigkeit kann auf Gesuch der Lehrkraft hin für die gesamte Dauer angerechnet werden, wenn sie zur Erfüllung des Berufsauftrags direkt dienlich ist.
 
 <sup>4</sup> Erfahrung innerhalb und ausserhalb des Berufs darf nicht mehrfach angerechnet werden.
 
 <sup>5</sup> Nicht angerechnet wird die Zeit der Aus- und Weiterbildung, einschliesslich der dazugehörenden Praktika, die für die Ausübung der Funktion erforderlich sind.
 
-<sup>6</sup> Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Erziehungsdirektion legt fest, wie vielen Prozenten die anrechenbare Berufserfahrung entspricht, und publiziert jährlich eine entsprechende Tabelle.
+<sup>6</sup> Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion legt fest, wie vielen Prozenten die anrechenbare Berufserfahrung entspricht, und publiziert jährlich eine entsprechende Tabelle.
 
 ### 3.2a Nachgewiesene Weiterbildungen
 
@@ -380,8 +380,8 @@ geführt werden,
 
 <sup>3</sup> Über die Anrechnung zusätzlicher Gehaltsstufen entscheidet
 
-- a für die Lehrkräfte und Schulleitungen der Sekundarstufe II und der höheren Fachschulen die gemäss Artikel 28 Absatz 1 und 2 für die Einstufung zuständige Stelle mit Zustimmung der Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Erziehungsdirektion,
-- b für die übrigen Lehrkräfte die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Erziehungsdirektion nach Anhören des zuständigen Amtes.
+- a für die Lehrkräfte und Schulleitungen der Sekundarstufe II und der höheren Fachschulen die gemäss Artikel 28 Absatz 1 und 2 für die Einstufung zuständige Stelle mit Zustimmung der Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion,
+- b für die übrigen Lehrkräfte die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion nach Anhören des zuständigen Amtes.
 
 ### 3.3 Individueller Gehaltsaufstieg
 
@@ -423,9 +423,9 @@ geführt werden,
 
 <sup>2</sup> Treten wiederholt kurze Krankheitsabsenzen von einem bis fünf Tagen auf, kann die Schulleitung das Arztzeugnis früher verlangen.
 
-<sup>3</sup> Dauert eine krankheits- oder unfallbedingte Abwesenheit länger an, ist alle zwei Monate ein neues Arztzeugnis einzureichen. Die Anstellungsbehörde kann ein Arztzeugnis verlangen, das Aussagen über den Zeitpunkt enthält, an dem die Arbeit ganz oder teilweise wieder aufgenommen werden kann, sowie über die Erforderlichkeit von Massnahmen, die die Wiedereingliederung in den Arbeitsprozess unterstützen würden.
+<sup>3</sup> Dauert eine krankheits- oder unfallbedingte Abwesenheit länger an, ist alle zwei Monate ein neues Arztzeugnis einzureichen. Die Anstellungsbehörde kann ein Arztzeugnis verlangen, das Aussagen über den Zeitpunkt enthält, an dem die Arbeit ganz oder teilweise wieder aufgenommen werden kann, sowie über die Erforderlichkeit von Massnahmen, welche die Wiedereingliederung in den Arbeitsprozess unterstützen würden.
 
-<sup>4</sup> Die Schulleitung leitet das Arztzeugnis an die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Erziehungsdirektion weiter.
+<sup>4</sup> Die Schulleitung leitet das Arztzeugnis an die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion weiter.
 
 <sup>5</sup> …
 
@@ -433,9 +433,9 @@ geführt werden,
 
 **Längere Abwesenheiten**
 
-<sup>1</sup> Bei länger dauernden Abwesenheiten leitet eine von der Erziehungsdirektion bezeichnete Dienststelle in Absprache mit der Schulleitung und der betroffenen Lehrkraft Massnahmen ein, um die Wiedereingliederung in den Arbeitsprozess zu unterstützen. In Schulen der Sekundarstufe II kann die Schulleitung in Absprache mit der zuständigen Dienststelle diese Massnahmen einleiten.
+<sup>1</sup> Bei länger dauernden Abwesenheiten leitet eine von der Bildungs- und Kulturdirektion bezeichnete Dienststelle in Absprache mit der Schulleitung und der betroffenen Lehrkraft Massnahmen ein, um die Wiedereingliederung in den Arbeitsprozess zu unterstützen. In Schulen der Sekundarstufe II kann die Schulleitung in Absprache mit der zuständigen Dienststelle diese Massnahmen einleiten.
 
-<sup>2</sup> Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Erziehungsdirektion leitet das Arztzeugnis und weitere dienliche Informationen an die von der Direktion bezeichnete Stelle gemäss Absatz 1 weiter.
+<sup>2</sup> Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion leitet das Arztzeugnis und weitere dienliche Informationen an die von der Direktion bezeichnete Stelle gemäss Absatz 1 weiter.
 
 <sup>3</sup> Sie kann zur weiteren Abklärung eine vertrauensärztliche Untersuchung anordnen.
 
@@ -483,7 +483,7 @@ geführt werden,
 
 #### Art. 39
 
-<sup>1</sup> Die Erziehungsdirektion regelt die Entschädigung von Fahrkosten und anderen Spesen durch Verordnung.
+<sup>1</sup> Die Bildungs- und Kulturdirektion regelt die Entschädigung von Fahrkosten und anderen Spesen durch Verordnung.
 
 ## 5 Arbeitszeit und Beschäftigungsgrad
 
@@ -509,7 +509,7 @@ geführt werden,
 
 <sup>2</sup> Die Anhänge 3A und 3B legen für die verschiedenen Schultypen und -stufen die Anzahl Wochen- oder Jahreslektionen fest, die einem Beschäftigungsgrad von 100 Prozent entsprechen.
 
-<sup>3</sup> Für die in den Anhängen 3A und 3B nicht erwähnten Schultypen und -stufen sowie für besondere Verhältnisse werden die Anzahl Lektionen und Beschäftigungsgradprozente von der Erziehungsdirektion festgelegt.
+<sup>3</sup> Für die in den Anhängen 3A und 3B nicht erwähnten Schultypen und -stufen sowie für besondere Verhältnisse werden die Anzahl Lektionen und Beschäftigungsgradprozente von der Bildungs- und Kulturdirektion festgelegt.
 
 <sup>4</sup> Im Bereich der höheren Berufsbildung und der Weiterbildungsangebote der Schulen der Sekundarstufe II kann die Anstellungsbehörde den Beschäftigungsgrad im Einzelfall abweichend von Absatz 2 festlegen, wenn besondere Verhältnisse vorliegen und keine Mehrkosten verursacht werden.
 
@@ -521,19 +521,19 @@ geführt werden,
 
 <sup>2</sup> Bewilligte Abweichungen sind nach Möglichkeit im gleichen Semester im Rahmen der Erfüllung des Berufsauftrags oder durch Mehr- oder Minderlektionen zu kompensieren.
 
-<sup>3</sup> Bewilligte Abweichungen, welche nicht im gleichen Semester kompensiert werden können, sind in einer individuellen Pensenbuchhaltung auszuweisen. Negative Saldi können auch ohne Zustimmung der Lehrkraft ins nächste Schuljahr übertragen werden.
+<sup>3</sup> Bewilligte Abweichungen, die nicht im gleichen Semester kompensiert werden können, sind in einer individuellen Pensenbuchhaltung auszuweisen. Negative Saldi können auch ohne Zustimmung der Lehrkraft ins nächste Schuljahr übertragen werden.
 
-<sup>4</sup> Am Ende des Schuljahres darf ein Saldo von maximal minus 8 bis plus 50 Beschäftigungsgradprozente auf das nächste Schuljahr übertragen werden. Die Erziehungsdirektion kann in besonderen Fällen eine grössere Abweichung bewilligen.
+<sup>4</sup> Am Ende des Schuljahres darf ein Saldo von maximal minus 8 bis plus 50 Beschäftigungsgradprozente auf das nächste Schuljahr übertragen werden. Die Bildungs- und Kulturdirektion kann in besonderen Fällen eine grössere Abweichung bewilligen.
 
-<sup>5</sup> Bei Beendigung der Anstellung wird der aktuelle Saldo , maximal aber minus 8 bis plus 50 Beschäftigungsgradprozente, mit dem letzten Gehalt verrechnet. Diese Verrechnung erfolgt auf der Basis der aktuellen Gehaltseinstufung. Negative Saldi werden mit dem letzten Gehalt nicht verrechnet, wenn sie nicht durch die Lehrkräfte verursacht worden sind.
+<sup>5</sup> Bei Beendigung der Anstellung wird der aktuelle Saldo, maximal aber minus 8 bis plus 50 Beschäftigungsgradprozente, mit dem letzten Gehalt verrechnet. Diese Verrechnung erfolgt auf der Basis der aktuellen Gehaltseinstufung. Negative Saldi werden mit dem letzten Gehalt nicht verrechnet, wenn sie nicht durch die Lehrkräfte verursacht worden sind.
 
-<sup>6</sup> Die Erziehungsdirektion regelt das Nähere durch Verordnung.
+<sup>6</sup> Die Bildungs- und Kulturdirektion regelt das Nähere durch Verordnung.
 
 #### Art. 44
 
 **3. Versuche**
 
-<sup>1</sup> Die Erziehungsdirektion kann Abweichungen von Artikel 42 und 47 bewilligen, wenn der Beschäftigungsgrad versuchsweise durch alternative Modelle festgelegt wird.
+<sup>1</sup> Die Bildungs- und Kulturdirektion kann Abweichungen von Artikel 42 und 47 bewilligen, wenn der Beschäftigungsgrad versuchsweise durch alternative Modelle festgelegt wird.
 
 <sup>2</sup> Sie regelt das Nähere durch Verordnung.
 
@@ -549,11 +549,11 @@ geführt werden,
 
 **Abgeltung für Lehrkräfte**
 
-<sup>1</sup> Den Lehrkräften der Volksschule, die wegen besonderer Massnahmen nach der Verordnung vom 19. September 2007 über die besonderen Massnahmen in der Volksschule (BMV[^45a-1]) durch Gespräche mit Fachpersonen oder durch Anfahrtszeiten wegen der verschiedenen Einsatzorte ausserordentlich belastet sind, wird dieser Aufwand mit je höchstens zwei Lektionen pro Woche abgegolten.
+<sup>1</sup> Den Lehrkräften der Volksschule, die wegen besonderer Massnahmen nach der Verordnung vom 19. September 2007 über die besonderen Massnahmen in der Volksschule (BMV)[^45a-1] durch Gespräche mit Fachpersonen oder durch Anfahrtszeiten wegen der verschiedenen Einsatzorte ausserordentlich belastet sind, wird dieser Aufwand mit je höchstens zwei Lektionen pro Woche abgegolten.
 
 <sup>2</sup> Die Schulinspektorinnen und Schulinspektoren entscheiden über die ausserordentliche Belastung und die Höhe der Abgeltung.
 
-<sup>3</sup> Die Erziehungsdirektion regelt das Nähere durch Verordnung.
+<sup>3</sup> Die Bildungs- und Kulturdirektion regelt das Nähere durch Verordnung.
 
 [^45a-1]: BSG 432.271.1
 
@@ -569,7 +569,7 @@ geführt werden,
 
 <sup>1</sup> Der maximal entlöhnte Beschäftigungsgrad darf 105 Prozent nicht übersteigen.
 
-<sup>2</sup> Die Erziehungsdirektion kann diesen Wert für einzelne Funktionen und Lehrerkategorien aus wichtigen Gründen durch Verordnung höher oder tiefer ansetzen.
+<sup>2</sup> Die Bildungs- und Kulturdirektion kann diesen Wert für einzelne Funktionen und Lehrerkategorien aus wichtigen Gründen durch Verordnung höher oder tiefer ansetzen.
 
 #### Art. 47a
 
@@ -587,7 +587,7 @@ geführt werden,
 
 <sup>4</sup> …
 
-<sup>5</sup> Die Erziehungsdirektion regelt das Nähere durch Verordnung.
+<sup>5</sup> Die Bildungs- und Kulturdirektion regelt das Nähere durch Verordnung.
 
 ### 5.4 Urlaub
 
@@ -635,7 +635,7 @@ geführt werden,
 
 <sup>2</sup> Dabei sind die Bedürfnisse der Schule zu berücksichtigen.
 
-<sup>3</sup> Die Erziehungsdirektion regelt das Nähere durch Verordnung.
+<sup>3</sup> Die Bildungs- und Kulturdirektion regelt das Nähere durch Verordnung.
 
 ## 6 Berufsauftrag
 
@@ -802,7 +802,7 @@ geführt werden,
 
 **Obligatorische Weiterbildungsveranstaltungen**
 
-<sup>1</sup> Die Erziehungsdirektion kann Weiterbildungsveranstaltungen als obligatorisch erklären.
+<sup>1</sup> Die Bildungs- und Kulturdirektion kann Weiterbildungsveranstaltungen als obligatorisch erklären.
 
 #### Art. 69
 
@@ -820,7 +820,7 @@ geführt werden,
 
 <sup>2</sup> Für Lehrkräfte der Volksschule dürfen pro Jahr Urlaube gemäss Absatz 1 für insgesamt höchstens sechs Arbeitstage gewährt werden.
 
-<sup>3</sup> Für Weiterbildungsveranstaltungen gemäss Absatz 1, die von der Erziehungsdirektion als obligatorisch erklärt werden, muss keine Bewilligung eingeholt werden.
+<sup>3</sup> Für Weiterbildungsveranstaltungen gemäss Absatz 1, die von der Bildungs- und Kulturdirektion als obligatorisch erklärt werden, muss keine Bewilligung eingeholt werden.
 
 ### 7.2.2 Finanzierung
 
@@ -828,7 +828,7 @@ geführt werden,
 
 **Obligatorische Weiterbildungsveranstaltungen**
 
-<sup>1</sup> Der Kanton trägt die gesamten Kosten für die von der Erziehungsdirektion als obligatorisch erklärten Weiterbildungsveranstaltungen.
+<sup>1</sup> Der Kanton trägt die gesamten Kosten für die von der Bildungs- und Kulturdirektion als obligatorisch erklärten Weiterbildungsveranstaltungen.
 
 <sup>2</sup> Er übernimmt allfällige Stellvertretungskosten für Lehrkräfte, die an einer als obligatorisch erklärten Veranstaltung teilnehmen.
 
@@ -840,9 +840,9 @@ geführt werden,
 
 <sup>1</sup> Für die übrigen Weiterbildungsveranstaltungen kann der Kanton je nach Massgabe des dienstlichen Interesses die Kosten für die Veranstaltungen sowie allfällige Stellvertretungskosten ganz oder teilweise übernehmen.
 
-<sup>2</sup> Die Erziehungsdirektion kann für übrige Weiterbildungsveranstaltungen die Kostenübernahme direkt mit einer Institution vereinbaren, welche die entsprechenden Weiterbildungsveranstaltungen anbietet.
+<sup>2</sup> Die Bildungs- und Kulturdirektion kann für übrige Weiterbildungsveranstaltungen die Kostenübernahme direkt mit einer Institution vereinbaren, welche die entsprechenden Weiterbildungsveranstaltungen anbietet.
 
-<sup>3</sup> Besteht keine Vereinbarung gemäss Absatz 2, können Lehrkräfte an Schulen gemäss Artikel 2 Absatz 1 Buchstabe a bis c LAG ein Gesuch um ganze oder teilweise Übernahme der Kosten einreichen, wobei dem Gesuch die Stellungnahme der Schulleitung beizulegen ist:
+<sup>3</sup> Besteht keine Vereinbarung gemäss Absatz 2, können Lehrkräfte an Schulen gemäss Artikel 2 Absatz 1 Buchstaben a bis c LAG ein Gesuch um ganze oder teilweise Übernahme der Kosten einreichen, wobei dem Gesuch die Stellungnahme der Schulleitung beizulegen ist:
 
 - a im deutschsprachigen Kantonsteil unterrichtende Lehrkräfte nach dem Besuch der Veranstaltung beim Amt für Kindergarten, Volksschule und Beratung und
 - b im französischsprachigen Kantonsteil unterrichtende Lehrkräfte vor dem Besuch der Veranstaltung bei der Pädagogischen Hochschule der Kantone Bern, Jura und Neuenburg.
@@ -857,7 +857,7 @@ geführt werden,
 
 <sup>1</sup> Werden an die Kosten von Weiterbildungen Beiträge von über 3000 Franken geleistet oder wird ein bezahlter Urlaub von insgesamt mehr als zehn Arbeitstagen gewährt, hat sich die Lehrkraft an Schulen gemäss Artikel 2 Absatz 1 Buchstaben e bis h LAG vor der Veranstaltung schriftlich zur Rückzahlung der Aufwendungen zu verpflichten.
 
-<sup>2</sup> Die Artikel 176 und 178a bis 182 PV sind sinngemäss anwendbar. Für die Befreiung von der Rückzahlungspflicht sowie Berechnung und Rechnungsstellung gemäss den Artikeln 181 und 182 PV ist das Amt für zentrale Dienste der Erziehungsdirektion zuständig.
+<sup>2</sup> Die Artikel 176 und 178a bis 182 PV sind sinngemäss anwendbar. Für die Befreiung von der Rückzahlungspflicht sowie Berechnung und Rechnungsstellung gemäss den Artikeln 181 und 182 PV ist das Amt für zentrale Dienste der Bildungs- und Kulturdirektion zuständig.
 
 <sup>3</sup> Die Rückzahlungspflicht entsteht, wenn die betroffene Lehrkraft die Ausbildung aus privaten Gründen abbricht oder während der Ausbildung oder nach deren Abschluss innerhalb einer bestimmten Frist die Lehrtätigkeit an einer der Lehreranstellungsgesetzgebung unterstellten Schule beendet.
 
@@ -899,7 +899,7 @@ geführt werden,
 
 **Berichterstattung**
 
-<sup>1</sup> Die Beurlaubten legen nach Beendigung des Urlaubs der zuständigen Kommission der Erziehungsdirektion bzw. der zuständigen Abteilung des Mittelschul- und Berufsbildungsamtes einen Bericht über ihre Tätigkeit während des Urlaubs vor oder erfüllen die gemäss Kurskonzept vereinbarten Bedingungen.
+<sup>1</sup> Die Beurlaubten legen nach Beendigung des Urlaubs der zuständigen Kommission der Bildungs- und Kulturdirektion bzw. der zuständigen Abteilung des Mittelschul- und Berufsbildungsamtes einen Bericht über ihre Tätigkeit während des Urlaubs vor oder erfüllen die gemäss Kurskonzept vereinbarten Bedingungen.
 
 #### Art. 77
 
@@ -921,13 +921,13 @@ geführt werden,
 
 <sup>1</sup> Lehrkräfte, die vor Ablauf von drei Jahren nach dem Bildungsurlaub den bernischen Schuldienst verlassen, haben für jedes nicht vollendete Schuljahr die Urlaubskosten im Umfang von einem Drittel zurückzuerstatten. Vorbehalten bleiben der Austritt infolge Krankheit, Unfall oder Kündigung durch die Anstellungsbehörde.
 
-<sup>2</sup> Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Erziehungsdirektion kann den Rückerstattungsanspruch mit der Lohnforderung verrechnen, soweit dadurch nicht ins betreibungsrechtliche Existenzminimum eingegriffen wird.
+<sup>2</sup> Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion kann den Rückerstattungsanspruch mit der Lohnforderung verrechnen, soweit dadurch nicht ins betreibungsrechtliche Existenzminimum eingegriffen wird.
 
 #### Art. 80
 
 **Kommissionen für die Beurteilung von Bildungsurlauben 1 Zusammensetzung**
 
-<sup>1</sup> Die Erziehungsdirektion ernennt für die Beurteilung von Bildungsurlauben je eine Kommission für den deutschsprachigen und für den französischsprachigen Kantonsteil, die aus fünf bzw. sieben Mitgliedern besteht.
+<sup>1</sup> Die Bildungs- und Kulturdirektion ernennt für die Beurteilung von Bildungsurlauben je eine Kommission für den deutschsprachigen und für den französischsprachigen Kantonsteil, die aus fünf bzw. sieben Mitgliedern besteht.
 
 <sup>2</sup> In der Kommission für Bildungsurlaube für den deutschsprachigen Kantonsteil nehmen Einsitz
 
@@ -946,7 +946,7 @@ geführt werden,
 - e zwei Vertreterinnen oder Vertreter der Sekundarstufe II bzw. der höheren Fachschulen,
 - f eine Vertreterin oder ein Vertreter des Bereichs Weiterbildung der Pädagogischen Hochschule der Kantone Bern, Jura und Neuenburg.
 
-<sup>4</sup> Die Präsidentin oder der Präsident der jeweiligen Kommission wird von der Erziehungsdirektion bestimmt.
+<sup>4</sup> Die Präsidentin oder der Präsident der jeweiligen Kommission wird von der Bildungs- und Kulturdirektion bestimmt.
 
 #### Art. 81
 
@@ -1057,7 +1057,7 @@ geführt werden,
 
 <sup>2</sup> Die Vorgaben zur Berechnung sowie die Grundsätze zur Nutzung und Verteilung der den Pools zugewiesenen Ressourcen werden in Anhang 4 festgelegt.
 
-<sup>3</sup> Die zuständige Stelle der Erziehungsdirektion legt den Schulleitungspool sowie den Pool für die Leitung des Spezialunterrichts fest.
+<sup>3</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion legt den Schulleitungspool sowie den Pool für die Leitung des Spezialunterrichts fest.
 
 #### Art. 92
 
@@ -1067,7 +1067,7 @@ geführt werden,
 
 <sup>2</sup> Die Vorgaben zur Berechnung sowie die Grundsätze zur Nutzung und Verteilung der dem Pool für Spezialaufgaben zugewiesenen Ressourcen werden in Anhang 4 festgelegt.
 
-<sup>3</sup> Die zuständige Stelle der Erziehungsdirektion legt den Pool für Spezialaufgaben fest.
+<sup>3</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion legt den Pool für Spezialaufgaben fest.
 
 ### 9.2b Pools für die Schulen der Sekundarstufe II
 
@@ -1077,7 +1077,7 @@ geführt werden,
 
 <sup>2</sup> Die Vorgaben zur Berechnung sowie die Grundsätze zur Nutzung und Verteilung der den Pools zugewiesenen Ressourcen werden in der besonderen Gesetzgebung festgelegt.
 
-<sup>3</sup> Die zuständige Stelle der Erziehungsdirektion legt die Pools fest.
+<sup>3</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion legt die Pools fest.
 
 #### Art. 93
 
@@ -1098,13 +1098,13 @@ geführt werden,
 
 #### Art. 95
 
-<sup>1</sup> Die Zuordnung der Schulleitungsfunktionen zu Gehaltsklassen erfolgt gemäss Anhang 2. Das zuständige Amt der Erziehungsdirektion ordnet nicht erwähnte Schulleitungsfunktionen und Funktionen in besonderen Verhältnissen zu.
+<sup>1</sup> Die Zuordnung der Schulleitungsfunktionen zu Gehaltsklassen erfolgt gemäss Anhang 2. Das zuständige Amt der Bildungs- und Kulturdirektion ordnet nicht erwähnte Schulleitungsfunktionen und Funktionen in besonderen Verhältnissen zu.
 
 <sup>2</sup> Bei komplexen Strukturen in den Schulen der Sekundarstufe II und in den höheren Fachschulen kann das Mittelschul- und Berufsbildungsamt die Schulleitungsfunktionen eine Gehaltsklasse höher einstufen.
 
 <sup>3</sup> Für Lehrkräfte, die für die Erfüllung von Spezialaufgaben entschädigt werden, gelten die gleiche Gehaltsklasse und die gleichen Vor- und Gehaltsstufen, die für sie als Lehrkraft gelten. Sind Lehrkräfte für ihre Lehrtätigkeit in verschiedene Gehaltsklassen eingestuft, gilt die höhere Gehaltsklasse.
 
-<sup>4</sup> Für Personen, die nicht über eine Lehrbefähigung der betreffenden Stufe verfügen und in einer Schule der Sekundarstufe II oder einer höheren Fachschule eine Funktion in der Schulleitung ausüben oder Spezialaufgaben erfüllen, gilt Absatz 3 sinngemäss. Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Erziehungsdirektion entscheidet über die Einstufung.
+<sup>4</sup> Für Personen, die nicht über eine Lehrbefähigung der betreffenden Stufe verfügen und in einer Schule der Sekundarstufe II oder einer höheren Fachschule eine Funktion in der Schulleitung ausüben oder Spezialaufgaben erfüllen, gilt Absatz 3 sinngemäss. Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion entscheidet über die Einstufung.
 
 <sup>5</sup> Werden Beschäftigungsgradprozente vom Schulleitungspool für die Erfüllung von Spezialaufgaben eingesetzt, erfolgt die Einstufung gemäss Absatz 3.
 
@@ -1112,13 +1112,13 @@ geführt werden,
 
 #### Art. 96
 
-<sup>1</sup> Für in den Anhängen sowie in der besonderen Gesetzgebung nicht erwähnte Schulen und Schultypen legt die zuständige Stelle der Erziehungsdirektion die Ressourcen im Rahmen der verfügbaren Mittel und die Gehaltsklasse in Anlehnung an die Bestimmungen dieser Verordnung oder der besonderen Gesetzgebung im Einzelfall fest.
+<sup>1</sup> Für in den Anhängen sowie in der besonderen Gesetzgebung nicht erwähnte Schulen und Schultypen legt die zuständige Stelle der Bildungs- und Kulturdirektion die Ressourcen im Rahmen der verfügbaren Mittel und die Gehaltsklasse in Anlehnung an die Bestimmungen dieser Verordnung oder der besonderen Gesetzgebung im Einzelfall fest.
 
 ## 10 Vollzug
 
 #### Art. 97
 
-<sup>1</sup> Über vermögensrechtliche Ansprüche verfügt das Amt für zentrale Dienste der Erziehungsdirektion.
+<sup>1</sup> Über vermögensrechtliche Ansprüche verfügt das Amt für zentrale Dienste der Bildungs- und Kulturdirektion.
 
 ## 11 Übergangs- und Schlussbestimmungen
 
