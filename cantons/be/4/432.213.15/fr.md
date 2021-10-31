@@ -4,13 +4,13 @@ number: "432.213.15"
 title: "Ordonnance de Direction concernant le Plan d'études romand et les dispositions générales complétant le Plan d'études romand"
 short: OD PER
 language: fr
-version: 2019-08-01
-valid_until: 2021-10-31
-version_adopted: 2019-05-31
+version: 2021-11-01
+valid_until: 2023-07-31
+version_adopted: 2021-09-10
 adopted: 2019-05-31
 in_force: 2019-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.213.15"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1687/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2377/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1687/pdf_file"
 
 (OD PER)
 
-du 31.05.2019 (état au 01.08.2019)
+du 31.05.2019 (état au 01.11.2021)
 
 La Direction de l'instruction publique du canton de Berne,
 
@@ -141,9 +141,9 @@ Güterstrasse 13
 
 3008 Berne
 
-et consulté sur le site de la Direction de l'instruction publique à l'adresse:
+et consulté sur le site de la Direction de l'instruction publique et de la culture à l'adresse:
 
-[http://www.erz.be.ch/comeo](http://www.erz.be.ch/comeo)
+[www.bkd.be.ch](https://www.bkd.be.ch) &gt; Ecole obligatoire &gt; Comeo
 
 [^A13-1]: RSB [103.1](https://www.belex.sites.be.ch/data/103.1/fr)
 
@@ -161,9 +161,9 @@ Güterstrasse 13
 
 3008 Berne
 
-et consulté sur le site de la Direction de l'instruction publique à l'adresse:
+et consulté sur le site de la Direction de l'instruction publique et de la culture à l'adresse:
 
-[http://www.erz.be.ch/comeo](http://www.erz.be.ch/comeo)
+[www.bkd.be.ch](https://www.bkd.be.ch) &gt; Ecole obligatoire &gt; Comeo
 
 [^A21-1]: RSB [103.1](https://www.belex.sites.be.ch/data/103.1/fr)
 
