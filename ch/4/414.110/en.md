@@ -3,11 +3,11 @@ sr: "414.110"
 title: Federal Act of 4 October 1991 on the Federal Institutes of Technology (ETH Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: en
-version: 2017-05-01
+version: 2021-11-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20170501/en/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20170501-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20170501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20211101/en/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20211101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20211101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (ETH Act)
 
-of 4 October 1991 (Status as of 1 May 2017)
+of 4 October 1991 (Status as of 1 November 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -28,7 +28,7 @@ decrees:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 1988 I 741](https://fedlex.data.admin.ch/eli/fga/1988/1_741_697_565)
-[^ingress-3]: Amended by No. I of the FA of 17 June 2011, in force since 15 Nov. 2011 ([AS 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [BBl 2011 757](https://fedlex.data.admin.ch/eli/fga/2011/95)).
+[^ingress-3]: Amended by No I of the FA of 17 June 2011, in force since 15 Nov. 2011 ([AS 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [BBl 2011 757](https://fedlex.data.admin.ch/eli/fga/2011/95)).
 
 ## Chapter 1 General Provisions
 
@@ -46,7 +46,7 @@ This Act applies to the Federal Institutes of Technology Domain (ETH Domain) com
 
 <sup>2</sup> These institutions are subject to federal control.
 
-[^1-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^1-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 2
 
@@ -69,8 +69,8 @@ The two federal institutes of technology and the four research institutes within
 
 <sup>4</sup> The guiding principles for teaching and research are respect for human dignity, responsibility in the use of natural resources and the environment together with an evaluation of the consequences of technological applications.
 
-[^2-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^2-2]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-1]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^2-2]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 3
 
@@ -93,7 +93,7 @@ The two federal institutes of technology and the four research institutes within
 
 The two federal institutes of technology and the four research institutes within the ETH Domain may set up or hold shares in companies or cooperate in other ways with third parties in pursuit of their remit within the scope of the strategic objectives set by the Federal Council for the ETH Domain and the instructions given by the ETH Board.
 
-[^3a-1]: Inserted by No. I of the FA of 21 March 2003 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)). Amended by No I of the FA of 30 Sept. 2016, in force since 1 May 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^3a-1]: Inserted by No I of the FA of 21 March 2003 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)). Amended by No I of the FA of 30 Sept. 2016, in force since 1 May 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 4
 
@@ -105,7 +105,7 @@ The two federal institutes of technology and the four research institutes within
 
 <sup>3</sup> The two federal institutes of technology and the four research institutes within the ETH Domain shall fulfil those responsibilities not expressly assigned to the ETH Board.
 
-[^4-1]: Amended by No. I of the FA of 21 March 2003, in force since Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^4-1]: Amended by No I of the FA of 21 March 2003, in force since Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^4-2]: Term in accordance with No I 9 of the O of 15 June 2012 (Reorganisation of the Departments), in force since 1 Jan. 2013 ([AS 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). This amendment has been made throughout the text.
 
 #### Art. 4a
@@ -114,7 +114,7 @@ The two federal institutes of technology and the four research institutes within
 
 For the purposes of discharging their statutory responsibilities, the institutions specified in Article 1.1 may systematically use individual insurance numbers of the old-age and survivors’ insurance scheme in accordance with the provisions of the Federal Act of 20 December 1946[^4a-2] on the Old-Age and Survivors’ Insurance.
 
-[^4a-1]: Inserted by Annex No. 3 of Federal Act of 23 June 2006 (New insurance number for old-age and survivors’ insurance), in force since 1 December 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^4a-1]: Inserted by Annex No 3 of FA of 23 June 2006 (New insurance number for old-age and survivors’ insurance), in force since 1 Dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^4a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ## Chapter 2 Federal Institutes of Technology
@@ -133,7 +133,7 @@ For the purposes of discharging their statutory responsibilities, the institutio
 
 <sup>4</sup> …[^5-1]
 
-[^5-1]: Repealed by No. I of the FA of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^5-1]: Repealed by No I of the FA of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 6
 
@@ -167,8 +167,8 @@ The two federal institutes of technology shall discharge their teaching duties i
 
 <sup>2</sup> In order to do this, they shall rely in particular on the research work of the teaching staff.[^8-2]
 
-[^8-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491))
-[^8-2]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491))
+[^8-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491))
+[^8-2]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491))
 
 #### Art. 9
 
@@ -193,16 +193,26 @@ The two federal institutes of technology shall discharge their research duties b
 
 #### Art. 10a
 
-**Quality assurance**[^10a-1]
+**Sale of energy**[^10a-1]
+
+<sup>1</sup> The two federal institutes of technology and the research institutes may sell at market prices energy produced by their own installations or any energy purchased for their own consumption that remains unused.
+
+<sup>2</sup> The Federal Council shall regulate the use of the proceeds of such sales.
+
+[^10a-1]: Inserted by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 10b
+
+**Quality assurance**[^10b-1]
 
 <sup>1</sup> The two federal institutes of technology shall review the quality of teaching, research and services at regular intervals and are responsible for sustainably maintaining and improving quality.
 
-<sup>2</sup> They shall create and operate a quality assurance system under Article 27 of the Higher Education Act of 30 September 2011[^10a-2].
+<sup>2</sup> They shall create and operate a quality assurance system under Article 27 of the Higher Education Act of 30 September 2011[^10b-2].
 
 <sup>3</sup> They shall obtain institutional accreditation.
 
-[^10a-1]: Inserted by No. I of the FA of 21 March 2003 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)). Amended by Annex No II 3 of the Higher Education Act of 30 Sept. 2011, in force since 1 Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812))
-[^10a-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^10b-1]: Originally Art. 10*a*. Inserted by No I of the FA of 21 March 2003 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)). Amended by Annex No II 3 of the Higher Education Act of 30 Sept. 2011, in force since 1 Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812))
+[^10b-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 11
 
@@ -214,8 +224,8 @@ The two federal institutes of technology shall discharge their research duties b
 
 <sup>3</sup> They shall encourage university sport.[^11-2]
 
-[^11-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^11-2]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^11-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^11-2]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 12
 
@@ -227,7 +237,7 @@ The two federal institutes of technology shall discharge their research duties b
 
 <sup>3</sup> The two federal institutes of technology shall support Swiss national languages and encourage the understanding of associated cultural values.
 
-[^12-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^12-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ### Section 2 Federal Institutes of Technology Members and Activities
 
@@ -239,15 +249,15 @@ The two federal institutes of technology shall discharge their research duties b
 
 The following are members of the federal institutes of technology:
 
-- a.[^13-1] teaching staff (full professors, associate professors, assistant professors, *Pr**i**vatdozenten*, *maîtres d’enseignement et de recherche* and lecturers);
+- a.[^13-1] teaching staff (full professors, associate professors, assistant professors, *Privatdozenten*, *maîtres d’enseignement et de recherche* and lecturers);
 - b. assistants, scientific staff and doctoral students;
-- c. students and “auditors” admitted to lectures;
+- c. students and «auditors» admitted to lectures;
 - d. administrative and technical staff.
 
 <sup>2</sup> The ETH Board may specify other categories of teaching staff.[^13-2]
 
-[^13-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^13-2]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^13-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^13-2]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 14
 
@@ -257,11 +267,12 @@ The following are members of the federal institutes of technology:
 
 <sup>2</sup> At the proposal of either of the two federal institutes of technology, the ETH Board shall appoint full and associate professors and assign their teaching and research fields.
 
-<sup>3</sup> At the proposal of either of the two federal institutes of technology, the ETH Board shall appoint assistant professors for a maximum of four years. It may reappoint them for one further period of four years. Their employment may be terminated subject to due notice.
+<sup>3</sup> At the proposal of either of the two federal institutes of technology, the ETH Board shall appoint assistant professors for a maximum of four years. It may reappoint them for one further period of four years until they reach the maximum duration of their employment as specified in Article 17*b* paragraph 2 letter a. A limited-term contract of employment may be terminated subject to due notice.[^14-2]
 
 <sup>4</sup> The Executive Board shall award the status of *venia legendi* and appoint *maîtres d’enseignement et de recherche* and lecturers.
 
-[^14-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491))
+[^14-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491))
+[^14-2]: Amended by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 15
 
@@ -271,8 +282,8 @@ The following are members of the federal institutes of technology:
 
 <sup>2</sup> and <sup>3</sup>…[^15-2]
 
-[^15-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^15-2]: Repealed by No. I of the FA of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^15-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^15-2]: Repealed by No I of the FA of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 16
 
@@ -318,29 +329,50 @@ The Executive Board shall establish the admission requirements and procedure for
 [^16a-3]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Feb. 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^16a-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Feb. 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
+#### Art. 16b
+
+**Terms of employment for members of the ETH Board, the ETHZ and EPFL presidents and research institute directors**[^16b-1]
+
+<sup>1</sup> The Federal Council shall regulate the terms of employment and occupational pension scheme of the full-time members of the ETH Board, and the director of each of the four research institutes within the ETH Domain in accordance with the Federal Personnel Act of 24 March 2000[^16b-2] (FPA) and des PUBLICA Act of 20 December 2006[^16b-3].
+
+<sup>2</sup> The other members of the ETH Board have a public-law contractual relationship with the Federal Government. The Federal Council determines the compensation and the other terms of the contract.
+
+[^16b-1]: Inserted by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^16b-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^16b-3]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+
 #### Art. 17
 
-**Terms of employment**[^17-1]
+**Terms of employment for staff and professors[^17-2]**[^17-1]
 
-<sup>1</sup> The Federal Council shall regulate the terms of employment and occupational pension scheme of the full-time members of the ETH Board, the ETHZ President, the EPFL President and the Director of each of the four research institutes within the ETH Domain in accordance with the Federal Personnel Act of 24 March 2000[^17-2] and the Federal Act of 23 June 2000[^17-3] on the Federal Pension Fund.
+<sup>1</sup> The terms of employment for staff and professors are based on the FPA[^17-3]. The ETH Board is the employer within the meaning of Article 3 paragraph 2 FPA for the ETH Domain.
 
-<sup>1bis</sup> The other members of the ETH Board have a public-law contractual relationship with the Federal Government. The Federal Council determines the compensation and the other terms of the contract.[^17-4]
+<sup>2</sup> The ETH Board shall issue General Terms of Employment for Staff and General Terms of Employment for Professors and submit these two documents to the Federal Council for approval.
 
-<sup>2</sup> The terms of employment for staff are based on the Federal Personnel Act of 24 March 2000, unless otherwise stipulated in this Act.
+<sup>3</sup>
 
-<sup>3</sup> If required by the specific needs of teaching and research and subject to compliance with Article 6 paragraph 5 of the Federal Personnel Act of 24 March 2000, the ETH Board may issue rules under private law regulating the terms of employment of professors; these rules require the approval of the Federal Council.
+The General Terms of Employment for Staff may specify alternative salary levels and salary progressions for the following categories of employees in derogation from Article 15 Paragraph 1 FPA:
 
-<sup>4</sup> In exceptional and justifiable cases, the ETH Board may approve the appointment of professors above the age limit specified in Article 21 of the Federal Act of 20 December 1946[^17-5] on the Old-Age and Survivors’ Insurance.
+- a. employees hired for a limited duration as part of their training;
+- b. employees hired for a limited duration to work on third-party funded research projects;
+- c. employees hired for a limited duration to carry out specific tasks.
 
-<sup>5</sup> Staff are insured with the Federal Pension Fund (PUBLICA). Within the ETH Domain, the ETH Board is the employer as defined in the PUBLICA Act of 20 December 2006[^17-6].[^17-7]
+<sup>4</sup> For the employment relationships under paragraph 3, it shall define the criteria for determining the salary level for the aforementioned categories in the General Terms of Employment of Staff in line with the specific requirements of the positions concerned.
 
-[^17-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^17-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^17-3]: [[AS 2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107), [2004 5265](https://fedlex.data.admin.ch/eli/oc/2004/809), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 13, [2007 2821](https://fedlex.data.admin.ch/eli/oc/2007/369). [AS 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313)Art. 27]. Now see the PUBLICA Act of 20 Dec. 2006 ([SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)).
-[^17-4]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 May 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^17-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^17-6]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
-[^17-7]: Amended by Annex No 2 of the FA of 14 Dec. 2012, in force since 1 July 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+<sup>5</sup> It may delegate the authority to make employer's decisions and to issue implementing provisions for the General Terms of Employment for Temporary Staff to the management of the the federal institutes of technology and of the research institutes.
+
+<sup>6</sup> Subject to compliance with Article 6 paragraph 5 FPA, it may include private-law provisions in the Terms of Employment for Professors, provided specific requirements of teaching and research so require.
+
+<sup>7</sup> In exceptional and justifiable cases, it may approve the appointment of professors above the age limit specified in Article 21 of the Federal Act of 20 December 1946[^17-4] on the Old-Age and Survivors’ Insurance (OASIA). To do so, it may enter into an employment contract under public or private law. It may also issue regulations in the professors' ordinance.
+
+<sup>8</sup> Professors may on request to the ETHZ or EPFL and with the agreement of the ETH Board remain in employment until the age-limit for men specified in Article 21 paragraph 1 letter a OASIA or until the end of the semester in which they reach this age limit.
+
+<sup>9</sup> Staff and professors are insured with the Federal Pension Fund (PUBLICA) in accordance with Articles 32*a*–32*m* FPA. Within the ETH Domain, the ETH Board is the employer in terms of Article 32*b* paragraph 2 FPA. It shall represent the ETH Domain as the contracting party.
+
+[^17-1]: Amended by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^17-2]: Footnote not relevant to English text.
+[^17-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^17-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 17a
 
@@ -352,7 +384,7 @@ The Executive Board shall establish the admission requirements and procedure for
 
 <sup>3</sup> The two federal institutes of technology and the four research institutes within the ETH Domain shall regulate the remuneration payable for teaching assignments.
 
-[^17a-1]: Inserted by No. I of the FA of 5 Oct. 2007, in force since 1 Aug. 2008 ([AS 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108); [BBl 2007 1223](https://fedlex.data.admin.ch/eli/fga/2007/181)).
+[^17a-1]: Inserted by No I of the FA of 5 Oct. 2007, in force since 1 Aug. 2008 ([AS 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108); [BBl 2007 1223](https://fedlex.data.admin.ch/eli/fga/2007/181)).
 [^17a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 17b
@@ -370,7 +402,10 @@ Limited-term employment may be renewed several times for:
 - c. employees hired to work on teaching and research projects as well as persons hired to work on third party-funded projects, within a maximum period of nine years;
 - d. all other employees within a maximum period of five years.
 
+<sup>3</sup> The limits in paragraph 2 letters a and b may on request be extended in the event of lengthy absence due to illness, accident, maternity, adoption or other good cause.[^17b-2]
+
 [^17b-1]: Inserted by Annex No 2 of the FA of 14 Dec. 2012, in force since 1 July 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^17b-2]: Inserted by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 18
 
@@ -378,7 +413,7 @@ Limited-term employment may be renewed several times for:
 
 Scientific publications must list all those who have made a scientific contribution.
 
-[^18-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^18-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 19
 
@@ -397,7 +432,7 @@ The two federal institutes of technology shall confer:
 
 <sup>3</sup> The two federal institutes of technology may issue references and certificates.
 
-[^19-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^19-1]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 20
 
@@ -407,7 +442,7 @@ The two federal institutes of technology shall confer:
 
 <sup>2</sup> The two federal institutes of technology may confer the title of honorary doctor on persons who have rendered particular service to science.
 
-[^20-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^20-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ### Section 3**** Scientific Integrity and Good Scientific Practice
 
@@ -473,7 +508,7 @@ The ETH Board, the two federal institutes of technology or the given institute w
 
 Research institutes within the ETH Domain may be established or closed by Federal Assembly ordinance.
 
-[^22-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^22-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 23
 
@@ -505,7 +540,7 @@ The Federal Council shall elect the following members of the ETH Board for a ter
 
 <sup>4</sup> The Federal Council may dismiss members of the ETH Board for good cause during their term of office.[^24-3]
 
-[^24-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^24-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^24-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 May 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^24-3]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 May 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
@@ -554,20 +589,43 @@ The ETH Board shall:
 - c. issue rules and regulations on the control process and carry out strategic control tasks;
 - d. approve the development plans for the ETH Domain and monitor their implementation;
 - e.[^25-2] carry out recruitment and elections falling under its responsibility;
-- f. supervise the ETH Domain;
-- g.[^25-3] be responsible for coordination and planning in accordance with the Higher Education Act of 30 September 2011[^25-4];
+- f.[^25-3] ...
+- g.[^25-4] be responsible for coordination and planning in accordance with the Higher Education Act of 30 September 2011[^25-5];
 - h. issue its own rules of procedure;
-- i. discharge other tasks assigned to it by virtue of this Act.[^25-5]
+- i. discharge other tasks assigned to it by virtue of this Act.[^25-6]
 
 <sup>2</sup> The ETH Board shall submit applications and proposals to the WBF on matters relating to the ETH Domain. If the WBF plans to deviate from proposals submitted by the ETH Board or if it presents its own proposals, it shall consult the ETH Board.
 
 <sup>3</sup> The ETH Board shall inform the two federal institutes of technology and the four research institutes within the ETH Domain of issues relating to them.
 
+<sup>4</sup> It shall oversee the ETH Domain. It may after consulting the two federal institutes of technology and the research institutes in particular issue them with recommendations and in justified cases issue them with orders. It may after consulting the institution concerned take suitable measures if it establishes that there has been an infringement of the law.[^25-7]
+
 [^25-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 May 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^25-2]: Amended by Annex No 2 of the FA of 14 Dec. 2012, in force since 1 July 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^25-3]: Amended by Annex No II 3 of the Higher Education Act of 30 Sept. 2011, in force since 1 Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^25-4]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^25-5]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^25-3]: Repealed by No I of the FA of 19 March 2021, with effect from 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25-4]: Amended by Annex No II 3 of the Higher Education Act of 30 Sept. 2011, in force since 1 Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^25-5]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^25-6]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^25-7]: Inserted by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 25a
+
+**Restriction of voting rights and recusal**[^25a-1]
+
+<sup>1</sup>
+
+Members in accordance with Article 24 paragraphs 1 letters c and d and 3 do not have the right to vote on the following matters at meetings of the ETH Board:
+
+- a. the allocation of federal funding;
+- b. proposed candidates for the ETHZ and EPFL presidents and the directors of the research institutes;
+- c. election of the members of the ETH Appeals Commission and other decisions on ETH Appeals Commission matters.
+
+<sup>2</sup> The members of the ETH Board in accordance with Article 24 paragraph 1 letter c and paragraph 3 shall recuse themselves in relation to the following items of business;
+
+- a. oversight matters in accordance with Article 25 paragraph 4;
+- b. matters relating to financial supervision in accordance with Article 35*a*<sup>ter</sup>.
+
+[^25a-1]: Inserted by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 26
 
@@ -577,7 +635,7 @@ The ETH Board shall:
 
 <sup>2</sup> The President shall represent the ETH Domain in its dealings with third parties.
 
-[^26-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^26-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 26a
 
@@ -585,7 +643,7 @@ The ETH Board shall:
 
 The ETH Board may appoint a scientific advisory council.
 
-[^26a-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^26a-1]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 26b
 
@@ -593,7 +651,7 @@ The ETH Board may appoint a scientific advisory council.
 
 The ETH Board shall have its own administrative staff.
 
-[^26b-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^26b-1]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ### Section 2 Federal Institutes of Technology
 
@@ -607,7 +665,7 @@ The ETH Board shall have its own administrative staff.
 
 <sup>3</sup> …[^27-2]
 
-[^27-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^27-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^27-2]: Repealed by Annex No 2 of the FA of 14 Dec. 2012, with effect from 1 July 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
 
 #### Art. 28
@@ -647,7 +705,7 @@ The ETH Board shall have its own administrative staff.
 
 <sup>2</sup> Members of teaching staff determine the election procedure and rules of procedure of the Conference.
 
-[^30-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^30-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 31
 
@@ -659,7 +717,7 @@ The ETH Board shall have its own administrative staff.
 
 The ETHZ Assembly and the EPFL Assembly are each entitled to present motions on:
 
-- a. legislative instruments issued by the ETH Board or its subordinate bodies regarding the federal institute of technology concerned;
+- a, legislative instruments issued by the ETH Board or its subordinate bodies regarding the federal institute of technology concerned;
 - b. budgeting and planning and the creation/abolition of teaching and research units within the federal institute of technology concerned;
 - c. structural and participation issues.
 
@@ -669,7 +727,7 @@ The ETHZ Assembly and the EPFL Assembly are each entitled to present motions on:
 
 <sup>5</sup> Each Executive Board and the ETH Board shall take decisions of general interest to the federal institute of technology concerned after consultation with the corresponding Assembly and relevant groups of ETHZ and EPFL members.
 
-[^31-1]: Second sentence amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^31-1]: Second sentence amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 32
 
@@ -688,13 +746,13 @@ Representatives of all groups of ETHZ or EPFL members affected by an issue shall
 
 <sup>4</sup> In addition, the ETH Board shall regulate the scope of participation and its format.[^32-1]
 
-[^32-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^32-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ## Chapter 5**** Strategic Objectives and Finances****
 
 [^chap5-1][^chap5-2]
 
-[^chap5-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap5-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^chap5-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 May 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 33
@@ -738,9 +796,13 @@ The ETH Board shall submit the following documents to the Federal Council:
 
 #### Art. 34a
 
-**Evaluation and measures**
+**Evaluation of performance**[^34a-1]
 
-The Department shall evaluate the extent to which the performance mandate has been discharged and if necessary propose appropriate measures to the Federal Council. The Department shall submit an interim report to the Federal Assembly on achieving strategic objectives together with a proposal for the next performance period.
+<sup>1</sup> The Department shall regularly evaluate the extent to which the performance mandate has been discharged and Federal Council's strategic goals for the ETH Domain have been achieved and if necessary propose appropriate measures to the Federal Council.
+
+<sup>2</sup> The Federal Council shall inform the Federal Assembly.
+
+[^34a-1]: Amended by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 34b
 
@@ -853,12 +915,13 @@ The ETH Board, the two federal institutes of technology and four research instit
 
 <sup>1</sup> The ETH Board shall establish an office responsible for internal audits.[^35ater-2]
 
-<sup>2</sup> The ETH Board shall issue rules on the exercise of financial supervision within the ETH Domain in consultation with Swiss Federal Audit Office.
+<sup>2</sup> The ETH Board shall issue rules on the exercise of financial supervision within the ETH Domain.[^35ater-3]
 
 <sup>3</sup> The accounts of the ETH Domain shall be audited by the Swiss Federal Audit Office.
 
-[^35ater-1]: Originally: Art. 35*a*, then Art. 35*a*<sup>bis</sup>.
+[^35ater-1]: Originally Art. 35*a*, then Art. 35*a*<sup>bis</sup>.
 [^35ater-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 May 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35ater-3]: Amended by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 35a<sup>quater</sup>
 
@@ -876,7 +939,7 @@ The ETH Board, the two federal institutes of technology and four research instit
 
 [^chap6-1]
 
-[^chap6-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap6-1]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 35b
 
@@ -886,7 +949,7 @@ The ETH Board, the two federal institutes of technology and four research instit
 
 <sup>2</sup> The ETH Board shall coordinate the management of real estate and ensure that both value and function are maintained.
 
-[^35b-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^35b-1]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 36
 
@@ -900,7 +963,7 @@ The ETH Board, the two federal institutes of technology and four research instit
 
 <sup>4</sup> The ETH Board shall issue implementing provisions in an ordinance; it shall require the approval of the Federal Council.
 
-[^36-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^36-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ## Chapter 6*a***** Data processing
 
@@ -916,58 +979,18 @@ The ETH Board, the two federal institutes of technology and four research instit
 
 #### Art. 36a
 
-**Personnel information systems**
+**Personnel information systems**[^36a-1]
 
-<sup>1</sup> The ETH Board, the two federal institutes of technology and the four research institutes within the ETH Domain shall each maintain a personnel information system in which particularly sensitive personal data and personality profiles may also be processed. The ETH Board may delegate the processing of its data in a personnel information system to the ETHZ, the EPFL or one of the four research institutes within the ETH Domain.
+<sup>1</sup> The ETH Board, the two federal institutes of technology and the four research institutes within the ETH Domain shall each maintain one or more personnel information systems in which particularly sensitive personal data and personality profiles may also be processed. Article 27 FPA[^36a-2] applies to the personnel information systems and by analogy to private law terms of employment.
 
-<sup>2</sup>
+<sup>2</sup> The ETH Board may delegate the processing of the data on its personnel to the ETHZ, the EPFL or one of the four research institutes within the ETH Domain.
 
-These personnel information systems shall be used to perform the tasks set forth in the Federal Personnel Act, in particular:
+<sup>3</sup> Procedures and processes for the systematic evaluation of data in electronic form may be used in the personnel information systems.
 
-- a. the administration of personal data relating to employees and management of these data;
-- b. the processing of salary data and conducting of evaluations, budget simulations and personnel cost planning;
-- c. the integration of data management in the financial and accounting management system;
-- d. the administration of relevant data for manager training and development.
+<sup>4</sup> The ETH Board shall issue implementing provisions and submit these to the Federal Council for approval.
 
-<sup>3</sup>
-
-The following categories of data shall be processed in personnel information systems, if required for performance of the tasks mentioned in paragraph 2 above:
-
-- a. mother tongue and date of birth;
-- b. nationality;
-- c. position and salary, number of years of experience, and non-wage benefits;
-- d. all information required to levy withholding tax;
-- e. all information required to implement the Family Allowances Act of 24 March 2006[^36a-1];
-- f. parental leave;
-- g. public offices held and secondary employment;
-- h. any medical examinations required to ensure occupational health and safety and their results;
-- i. working hours, including all manner of absences;
-- j. behavioural and technical skills as well as training;
-- k. assessment level, based on performance assessment, as well as rating given to performance assessment;
-- l. data on personnel development, particularly manager training and development as well as assessment of potential;
-- m. arrestment of wages, divorce decrees, extracts from the criminal and debt enforcement registers, offsetting of salary payments against debts owed to employer;
-- n. reduction of working capacity;
-- o. retirement due to illness;
-- p. claims filed under social insurance legislation;
-- q. reasons for departure;
-- r. other data mentioned in the implementing provisions.
-
-<sup>4</sup> The ETH Board, the two federal institutes of technology and the four research institutes within the ETH Domain shall gather data on their employees. They shall be responsible for data protection and security.
-
-<sup>5</sup> The personnel office, the finance office and the technical support office shall each receive access within their respective institution to the personnel information system, if required for performance of their tasks.
-
-<sup>6</sup>
-
-The ETH Board shall issue implementing provisions regarding:
-
-- a. the structure and operation of the personnel information systems;
-- b. the processing of data, particularly the capture, storage, communication, archiving and destruction;
-- c. data processing permissions;
-- d. the data catalogue;
-- e. data security and data protection;
-- f. the communication of non-sensitive data from the information systems to organisations and persons outside the ETH Domain through request procedures.
-
-[^36a-1]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^36a-1]: Amended by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^36a-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 36b
 
@@ -1038,11 +1061,75 @@ The ETHZ and EPFL shall issue implementing provisions on:
 
 <sup>2</sup> The obligation to inform shall also apply if the personal data are obtained from third parties. In this case, the two federal institutes of technology and four research institutes within the ETH Domain shall ensure that the third parties fulfil their obligation to inform. If this cannot be guaranteed, the two federal institutes of technology and four research institutes within the ETH Domain shall immediately inform the persons concerned directly.
 
-## Chapter 7 Rights of Appeal and Criminal Provisions****
+### Section 3**** Handling Personal Data for Teaching
+
+[^chap6a-sec3-1]
+
+[^chap6a-sec3-1]: Inserted by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 36f
+
+<sup>1</sup> The two federal institutes of technology and the research institutes may process personal data, including sensitive personal data, in order to develop, use and evaluate teaching methods that use information technologies.
+
+<sup>2</sup> They shall ensure compliance with the provisions of the Federal Act of 19 June 1992[^36f-1] on Data Protection.
+
+[^36f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+## Chapter 6*b***** Security
+
+[^chap6b-1]
+
+[^chap6b-1]: Inserted by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+### Section 1 Security Services
+
+#### Art. 36g
+
+**Establishment**
+
+<sup>1</sup> The two federal institutes of technology and the research institutes may each establish security services insofar as this is required to protect their staff, students and visitors and to guarantee security and order on their premises.
+
+<sup>2</sup> They may establish joint security services by contract.
+
+<sup>3</sup> They may engage third parties to provide security services.
+
+#### Art. 36h
+
+**Powers**
+
+<sup>1</sup> The security services shall ensure respect for the house rules by enforcing the access and use regulations in buildings and on the non-public premises of the federal institute of technology or research institute concerned. They may question persons and carry out identity checks. In addition, they may stop, check and remove persons who violate the house rules or the operating regulations.
+
+<sup>2</sup> In order to fulfil their duties, they may process data containing information establishing the identity of a person and on violations by a person of regulations that protect persons and equipment in buildings and on the non-public premises of the two federal institutes of technology and the research institutes.
+
+<sup>3</sup> When delegating security tasks to a third party, the two federal institutes of technology or the research institutes shall contractually agree with the third party that the third party physically and logically separates the required data processing systems from its other data processing systems. They shall require the third party not to use the data of the two federal institutes of technology or the research institutes for any other purpose, and shall ensure that they have their own rights of access and control.
+
+<sup>4</sup> The security services shall pass on any information relating to criminal offences to the competent federal and cantonal police authorities.
+
+<sup>5</sup> The provisions on security guards under the nuclear energy legislation for federal institutes of technology or research institutes that hold a licence under the Nuclear Energy Act of 21 March 2003[^36h-1] are reserved.
+
+[^36h-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+
+### Section 2 Video Surveillance
+
+#### Art. 36i
+
+<sup>1</sup> The two federal institutes of technology and the research institutes may install a video surveillance system insofar as this is necessary in order to protect their staff, students and visitors, their infrastructure and operations.
+
+<sup>2</sup> Video signals may be recorded. In the event of any security-relevant incidents, recordings must be viewed and secured by the person responsible no later than the first working day after the incident is discovered. Unsecured recordings shall be deleted after 20 days at the latest.
+
+<sup>3</sup> Recordings may only be shown to prosecuting authorities or authorities with which the federal institutes of technology or the research institutes file a complaint or against which they assert legal claims. Only these authorities are permitted to analyse the recordings.
+
+<sup>4</sup> The two federal institutes of technology and the research institutes shall store secured recordings in a way that protects them from theft and misuse. They shall destroy them after 100 days at the latest, unless they are being used as evidence in ongoing legal proceedings or disciplinary proceedings. The records may be re-used in anonymous form for training or accident prevention purposes.
+
+<sup>5</sup> The provisions on security precautions under the nuclear energy legislation for federal institutes of technology or research institutes that hold a licence under the Nuclear Energy Act of 21 March 2003[^36i-1] are reserved.
+
+[^36i-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+
+## Chapter 7 Rights of Appeal, Disciplinary and Criminal Provisions****
 
 [^chap7-1]
 
-[^chap7-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap7-1]: Inserted by No I of the FA of 21 March 2003 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)). Amended by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 37
 
@@ -1052,19 +1139,22 @@ The ETHZ and EPFL shall issue implementing provisions on:
 
 <sup>2</sup> The ETH Board, the two federal institutes of technology and the four research institutes within the ETH Domain shall have a right of appeal against decisions made on appeal if they ruled at first instance on the case. The ETHZ Assembly and the EPFL Assembly each have a right of appeal if the contested rulings relate to matters on which they have shared decision-making powers.
 
-<sup>3</sup> Rulings issued by the two federal institutes of technology and the four research institutes within the ETH Domain may be appealed to the ETH Appeals Commission. Excluded from the foregoing are rulings that are based on the Government Liability Act of 14 March 1958[^37-2].[^37-3]
+<sup>2bis</sup> The two federal institutes of technology have no right of appeal against decisions taken by the ETH Board under Articles 25 paragraph 1 letter e and 33*a* paragraph 3.[^37-2]
+
+<sup>3</sup> Rulings issued by the two federal institutes of technology and the four research institutes within the ETH Domain may be appealed to the ETH Appeals Commission. Excluded from the foregoing are rulings that are based on the Government Liability Act of 14 March 1958[^37-3].[^37-4]
 
 <sup>4</sup> If the appeal relates to the results of examinations or doctorates, the results may not be challenged on the grounds that they are unreasonable.
 
-[^37-1]: Amended by Annex No. 36 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^37-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^37-3]: Amended by No. II of the FA of 25 Sept. 2009, in force since 1 March 2010 ([AS 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [BBl 2009 469](https://fedlex.data.admin.ch/eli/fga/2009/60)).
+[^37-1]: Amended by Annex No 36 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^37-2]: Inserted by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37-3]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^37-4]: Amended by No II of the FA of 25 Sept. 2009, in force since 1 March 2010 ([AS 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [BBl 2009 469](https://fedlex.data.admin.ch/eli/fga/2009/60)).
 
 #### Art. 37a
 
 **ETH Appeals Commission**[^37a-1]
 
-<sup>1</sup> The ETH Board shall elect the seven members of the ETH Appeals Commission, whereby at least four must be members of the ETH Domain.
+<sup>1</sup> The Federal Council shall elect the seven members of the ETH Appeals Commission.[^37a-2] At least four must be members of the ETH Domain.
 
 <sup>2</sup> Each member is elected for a term of four years; re-election is permitted.
 
@@ -1072,9 +1162,33 @@ The ETHZ and EPFL shall issue implementing provisions on:
 
 <sup>4</sup> For administrative purposes, the Commission shall report to the ETH Board; it shall have its own secretariat.
 
-<sup>5</sup> The ETH Board shall issue the rules of procedure for the Appeals Commission. In particular, the ETH Board shall regulate the jurisdiction of the Chairman in urgent cases and in cases of lesser importance, together with the formation of panels with independent decision-making powers.
+<sup>5</sup> The Federal Council shall issue the rules of procedure for the Appeals Commission.[^37a-3] In particular, it shall regulate the jurisdiction of the Chairman in urgent cases and in cases of lesser importance, together with the formation of panels with independent decision-making powers.
 
-[^37a-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^37a-1]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^37a-2]: Amended by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37a-3]: Amended by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 37b
+
+**Disciplinary rules**[^37b-1]
+
+<sup>1</sup> The two federal institutes of technology and the research institutes may take disciplinary measures against students, auditors and doctoral students.
+
+<sup>2</sup> They shall regulate the disciplinary offences, disciplinary measures and procedure in ordinances.
+
+<sup>3</sup>
+
+Provision may be made for the following disciplinary measures for serious or repeated disciplinary offences:
+
+- a. temporary exclusion from specific courses, examinations or premises;
+- b non-admission to a study level;
+- c. temporary exclusion from the federal institute of technology or the research institute;
+- d. permanent exclusion from the federal institute of technology or the research institute;
+- e. the withdrawal of an academic title if this has been acquired unlawfully by means of a disciplinary offence;
+
+<sup>4</sup> The two federal institutes of technology and the research institutes may notify each other about serious disciplinary offences.in individual cases in response to a written request
+
+[^37b-1]: Inserted by No I of the FA of 19 March 2021, in force since 1 Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 38
 
@@ -1090,19 +1204,19 @@ Any person who:
 
 <sup>2</sup> The prosecuting authority is the canton.
 
-[^38-1]: Amended by Article 333 of the Swiss Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^38-1]: Amended by Art. 333 of the Swiss Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in the version of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
 ## Chapter 8**** Final Provisions
 
 [^chap8-1]
 
-[^chap8-1]: Originally chapter 6.
+[^chap8-1]: Originally Chapter 6.
 
 ### Section 1 Supervision and Implementation Provisions****
 
 [^chap8-sec1-1]
 
-[^chap8-sec1-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap8-sec1-1]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 39
 
@@ -1116,13 +1230,13 @@ Any person who:
 
 <sup>4</sup> The Federal Council shall consult the ETH Board before issuing implementation provisions and signing agreements under international law. Personnel associations shall be consulted before service regulations are issued.
 
-[^39-1]: Repealed by No. I of the FA of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^39-1]: Repealed by No I of the FA of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 ### Section 2 Amendment of Current Legislation****
 
 [^chap8-sec2-1]
 
-[^chap8-sec2-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 (AS **2003** 4265; BBl **2002** 3465).
+[^chap8-sec2-1]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 (AS **2003** 4265; BBl **2002** 3465).
 
 #### Art. 40
 
@@ -1140,7 +1254,7 @@ The following are repealed:
 
 …[^40-8]
 
-[^40-1]: Amended by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^40-1]: Amended by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 [^40-2]: [BS **4** 103; [AS 1959 535](https://fedlex.data.admin.ch/eli/oc/1959/535_557_533), [1970 1089](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085)Art. 17, [1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114)Art. 70]
 [^40-3]: [[AS 1965 417](https://fedlex.data.admin.ch/eli/oc/1965/417_421_415)]
 [^40-4]: [[AS 1970 1089](https://fedlex.data.admin.ch/eli/oc/1970/1089_1085_1085), [1975 1759](https://fedlex.data.admin.ch/eli/oc/1975/1759_1759_1759), [1980 886](https://fedlex.data.admin.ch/eli/oc/1980/886_886_886), [1991 2276](https://fedlex.data.admin.ch/eli/oc/1991/2276_2276_2276)]
@@ -1153,7 +1267,7 @@ The following are repealed:
 
 [^chap8-sec3-1]
 
-[^chap8-sec3-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap8-sec3-1]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 40a
 
@@ -1193,11 +1307,11 @@ The Federal Council shall issue an ordinance indicating the date on which the ow
 
 [^chap8-sec3a-1]
 
-[^chap8-sec3a-1]: Inserted by No. I of the FA of 5 Oct. 2007, in force since 1 Aug. 2008 ([AS 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108); [BBl 2007 1223](https://fedlex.data.admin.ch/eli/fga/2007/181)).
+[^chap8-sec3a-1]: Inserted by No I of the FA of 5 Oct. 2007, in force since 1 Aug. 2008 ([AS 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108); [BBl 2007 1223](https://fedlex.data.admin.ch/eli/fga/2007/181)).
 
 #### Art. 40e
 
-Article 17a applies to all external teaching assignments issued from 5 October 2007[^40e-1], the date on which the Amendment to this Act comes into force. All external teaching assignments issued before 5 October 2007 must be adjusted by the start of the following semester.
+Article 17*a* applies to all external teaching assignments issued from 5 October 2007[^40e-1], the date on which the Amendment to this Act comes into force. All external teaching assignments issued before 5 October 2007 must be adjusted by the start of the following semester.
 
 [^40e-1]: [AS 2008 431](https://fedlex.data.admin.ch/eli/oc/2008/108)
 
@@ -1205,7 +1319,7 @@ Article 17a applies to all external teaching assignments issued from 5 October 2
 
 [^chap8-sec3b-1]
 
-[^chap8-sec3b-1]: Inserted by No. I of the FA of 17 June 2011, in force since 15 Nov. 2011 ([AS 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [BBl 2011 757](https://fedlex.data.admin.ch/eli/fga/2011/95)).
+[^chap8-sec3b-1]: Inserted by No I of the FA of 17 June 2011, in force since 15 Nov. 2011 ([AS 2011 4789](https://fedlex.data.admin.ch/eli/oc/2011/683); [BBl 2011 757](https://fedlex.data.admin.ch/eli/fga/2011/95)).
 
 #### Art. 40f
 
@@ -1245,7 +1359,7 @@ Current terms of office for other members of management boards (Art. 28 para. 4)
 
 [^chap8-sec4-1]
 
-[^chap8-sec4-1]: Inserted by No. I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap8-sec4-1]: Inserted by No I of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
 #### Art. 41
 
@@ -1257,5 +1371,5 @@ Current terms of office for other members of management boards (Art. 28 para. 4)
 
 Commencement date: 1 February 1993[^41-2]
 
-[^41-1]: Repealed by No. I of the FA of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^41-2]: Federal Council Decree of 13 Jan. 1993.
+[^41-1]: Repealed by No I of the FA of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^41-2]: FCD of 13 Jan. 1993.

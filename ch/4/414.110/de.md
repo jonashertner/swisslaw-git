@@ -3,11 +3,11 @@ sr: "414.110"
 title: Bundesgesetz vom 4. Oktober 1991 über die Eidgenössischen Technischen Hochschulen (ETH-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: de
-version: 2017-05-01
+version: 2021-11-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20170501/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20170501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20170501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20211101/de/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20170501/de"
 
 (ETH-Gesetz)
 
-vom 4. Oktober 1991 (Stand am 1. Mai 2017)
+vom 4. Oktober 1991 (Stand am 1. November 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -191,16 +191,26 @@ Die ETH erfüllen ihre Aufgaben in der Forschung, indem sie:
 
 #### Art. 10a
 
-**Qualitätssicherung und Akkreditierung**[^10a-1]
+**Energieverkauf**[^10a-1]
+
+<sup>1</sup> Die ETH und die Forschungsanstalten können Energie, die sie zum Eigenverbrauch in von ihnen betriebenen Anlagen produzieren oder zum Eigenverbrauch einkaufen, jedoch nicht selbst benötigen, zu Marktpreisen verkaufen.
+
+<sup>2</sup> Der Bundesrat regelt die Verwendung der daraus erzielten Erträge.
+
+[^10a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 10b
+
+**Qualitätssicherung und Akkreditierung**[^10b-1]
 
 <sup>1</sup> Die ETH überprüfen periodisch die Qualität ihrer Lehre, ihrer Forschung und ihrer Dienstleistungen und sorgen für die langfristige Qualitätssicherung und ‑entwicklung.
 
-<sup>2</sup> Sie schaffen und betreiben zu diesem Zweck ein Qualitätssicherungssystem nach Artikel 27 des Hochschulförderungs- und -koordinationsgesetzes vom 30. September 2011[^10a-2].
+<sup>2</sup> Sie schaffen und betreiben zu diesem Zweck ein Qualitätssicherungssystem nach Artikel 27 des Hochschulförderungs- und -koordinationsgesetzes vom 30. September 2011[^10b-2].
 
 <sup>3</sup> Sie lassen sich institutionell akkreditieren.
 
-[^10a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2003 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)). Fassung gemäss Anhang Ziff. II 3 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^10a-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^10b-1]: Urpsünglich: Art. 10*a*. Eingefügt durch Ziff. I des BG vom 21. März 2003 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)). Fassung gemäss Anhang Ziff. II 3 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^10b-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 11
 
@@ -255,11 +265,12 @@ Angehörige der Hochschulen sind:
 
 <sup>2</sup> Der ETH-Rat ernennt auf Antrag der ETH die ordentlichen und ausserordentlichen Professoren und bezeichnet ihr Lehr- und Forschungsgebiet.
 
-<sup>3</sup> Er ernennt auf Antrag der ETH die Assistenzprofessoren für maximal vier Jahre. Er kann sie einmal wieder ernennen. Das Arbeitsverhältnis kann ordentlich gekündigt werden.
+<sup>3</sup> Er ernennt auf Antrag der ETH die Assistenzprofessoren für vier Jahre. Er kann sie wieder ernennen, bis das Arbeitsverhältnis die Maximaldauer nach Artikel 17*b* Absatz 2 Buchstabe a erreicht. Das befristete Arbeitsverhältnis kann ordentlich gekündigt werden.[^14-2]
 
 <sup>4</sup> Die Schulleitung verleiht die *Venia legendi* und ernennt die Maîtres d’enseignement et de recherche sowie die Lehrbeauftragten.
 
 [^14-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^14-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 15
 
@@ -316,29 +327,50 @@ Die Schulleitung regelt die Zulassungsbedingungen und das Zulassungsverfahren f�
 [^16a-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Febr. 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^16a-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Febr. 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
+#### Art. 16b
+
+**Arbeitsverhältnisse der Mitglieder des ETH-Rates, der Schulpräsidenten und der Anstaltsdirektoren**[^16b-1]
+
+<sup>1</sup> Der Bundesrat regelt die Anstellungsbedingungen und die berufliche Vorsorge der vollamtlichen Mitglieder des ETH-Rates, der Schulpräsidenten und der Direktoren der Forschungsanstalten im Rahmen des Bundespersonalgesetzes vom 24. März 2000[^16b-2] (BPG) und des PUBLICA-Gesetzes vom 20. Dezember 2006[^16b-3].
+
+<sup>2</sup> Die übrigen Mitglieder des ETH-Rates stehen zum Bund in einem öffentlich-rechtlichen Auftragsverhältnis. Der Bundesrat legt die Entschädigung und die weiteren Vertragsbedingungen fest.
+
+[^16b-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^16b-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^16b-3]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+
 #### Art. 17
 
-**Arbeitsverhältnisse**[^17-1]
+**Arbeitsverhältnisse des Personals sowie der Professorinnen und Professoren[^17-2]**[^17-1]
 
-<sup>1</sup> Der Bundesrat regelt die Anstellungsbedingungen und die berufliche Vorsorge der vollamtlichen Mitglieder des ETH-Rates, der Schulpräsidenten sowie der Direktoren der Forschungsanstalten im Rahmen des Bundespersonalgesetzes vom 24. März 2000[^17-2] und des PKB-Gesetzes vom 23. Juni 2000[^17-3].
+<sup>1</sup> Die Arbeitsverhältnisse des Personals sowie der Professorinnen und Professoren richten sich, soweit das vorliegende Gesetz nichts Abweichendes bestimmt, nach dem BPG[^17-3]. Der ETH-Rat ist für den ETH-Bereich Arbeitgeber nach Artikel 3 Absatz 2 BPG.
 
-<sup>1bis</sup> Die übrigen Mitglieder des ETH-Rates stehen zum Bund in einem öffentlich-rechtlichen Auftragsverhältnis. Der Bundesrat legt die Entschädigung und die weiteren Vertragsbedingungen fest.[^17-4]
+<sup>2</sup> Der ETH-Rat erlässt eine Personalverordnung sowie eine Verordnung für die Professorinnen und Professoren und unterbreitet sie dem Bundesrat zur Genehmigung.
 
-<sup>2</sup> Die Arbeitsverhältnisse des Personals richten sich, soweit das vorliegende Gesetz nichts Abweichendes bestimmt, nach dem Bundespersonalgesetz vom 24. März 2000.
+<sup>3</sup>
 
-<sup>3</sup> Soweit besondere Bedürfnisse von Lehre und Forschung dies erfordern, kann der ETH-Rat im Rahmen von Artikel 6 Absatz 5 des Bundespersonalgesetzes vom 24. März 2000 Vorschriften für privatrechtliche Arbeitsverhältnisse von Professoren erlassen; diese Vorschriften bedürfen der Genehmigung des Bundesrates.
+Er kann in der Personalverordnung für die folgenden Personalkategorien bestimmen, dass die Lohnbemessung und die Lohnentwicklung in Abweichung von Artikel 15 Absatz 1 BPG erfolgen:
 
-<sup>4</sup> Der ETH-Rat kann in begründeten Ausnahmefällen mit einem Professor eine Anstellung über die Altersgrenze von Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^17-5] über die Alters- und Hinterlassenenversicherung hinaus vereinbaren.
+- a. Mitarbeitende, die befristet zu Ausbildungszwecken angestellt sind;
+- b. Mitarbeitende, die für befristete von Dritten finanzierte Forschungsprojekte angestellt sind;
+- c. Mitarbeitende, die für befristete Aufgaben angestellt sind.
 
-<sup>5</sup> Das Personal ist bei der Pensionskasse des Bundes (PUBLICA) versichert. Für den ETH-Bereich ist der ETH-Rat Arbeitgeber im Sinne des PUBLICA-Gesetzes vom 20. Dezember 2006[^17-6].[^17-7]
+<sup>4</sup> Für Arbeitsverhältnisse nach Absatz 3 definiert er in der Personalverordnung für diese Personalkategorien die Kriterien der Lohnbemessung abgestimmt auf die spezifischen Anforderungen dieser Anstellungen.
 
-[^17-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
-[^17-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^17-3]: [[AS 2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107), [2004 5265](https://fedlex.data.admin.ch/eli/oc/2004/809), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 13, [2007 2821](https://fedlex.data.admin.ch/eli/oc/2007/369). [AS 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313)Art. 27]. Siehe heute: das PUBLICA-Gesetz vom 20. Dez. 2006 ([SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)).
-[^17-4]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^17-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^17-6]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
-[^17-7]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+<sup>5</sup> Er kann Arbeitgeberentscheide sowie den Erlass von Ausführungsbestimmungen zur Personalverordnung an die Leitungen der ETH und der Forschungsanstalten delegieren.
+
+<sup>6</sup> Er kann im Rahmen von Artikel 6 Absatz 5 BPG Vorschriften für privatrechtliche Arbeitsverhältnisse von Professorinnen und Professoren in der Verordnung für Professorinnen und Professoren erlassen, soweit besondere Bedürfnisse von Lehre und Forschung dies erfordern.
+
+<sup>7</sup> Er kann in begründeten Ausnahmefällen mit einer Professorin oder einem Professor eine Anstellung über die Altersgrenze gemäss Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^17-4] über die Alters- und Hinterlassenenversicherung (AHVG) hinaus vereinbaren. Dafür kann er einen öffentlich-rechtlichen oder privatrechtlichen Arbeitsvertrag abschliessen. Er kann dazu Vorschriften in der Verordnung für Professorinnen und Professoren erlassen.
+
+<sup>8</sup> Professorinnen können auf Antrag der ETH und im Einvernehmen mit dem ETH-Rat bis zum Erreichen der Altersgrenze für Männer gemäss Artikel 21 Absatz 1 Buchstabe a AHVG oder bis zum Semesterende, das auf das Erreichen dieser Altersgrenze folgt, angestellt bleiben.
+
+<sup>9</sup> Das Personal und die Professorinnen und Professoren sind bei der Pensionskasse des Bundes (PUBLICA) nach den Artikeln 32*a*–32*m* BPG versichert. Für den ETH-Bereich ist der ETH-Rat Arbeitgeber nach Artikel 32*b* Absatz 2 BPG. Er vertritt den ETH-Bereich als Vertragspartei.
+
+[^17-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^17-2]: Zur Vermeidung von Missverständnissen wird in diesem Artikel, anders als im übrigen ETH-Gesetz, nicht die generische Form «Professor» oder «Professoren» verwendet.
+[^17-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^17-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 17a
 
@@ -368,7 +400,10 @@ Das Arbeitsverhältnis darf wiederholt befristet werden für:
 - c. Angestellte in Lehr- und Forschungsprojekten sowie Personen in Projekten, die mit Drittmitteln finanziert werden, während maximal neun Jahren;
 - d. die übrigen Angestellten während maximal fünf Jahren.
 
+<sup>3</sup> Die Fristen gemäss Absatz 2 Buchstaben a und b können bei längerer Abwesenheit wegen Krankheit, Unfall, Mutterschaft, Adoption oder anderen wichtigen Gründen auf Antrag verlängert werden.[^17b-2]
+
 [^17b-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^17b-2]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 18
 
@@ -552,20 +587,45 @@ Der ETH-Rat:
 - c. erlässt Vorschriften über das Controlling und führt das strategische Controlling durch;
 - d. genehmigt die Entwicklungspläne des ETH-Bereichs und überwacht ihre Verwirklichung;
 - e.[^25-2] nimmt die in seine Zuständigkeit fallenden Anstellungen und Wahlen vor;
-- f. übt die Aufsicht über den ETH-Bereich aus;
-- g.[^25-3] ist für die Sicherstellung der Koordination und der Planung nach dem Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011[^25-4] verantwortlich;
+- f.[^25-3] ...
+- g.[^25-4] ist für die Sicherstellung der Koordination und der Planung nach dem Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011[^25-5] verantwortlich;
 - h. gibt sich eine Geschäftsordnung;
-- i. erfüllt die weiteren Aufgaben, die ihm durch dieses Gesetz übertragen werden.[^25-5]
+- i. erfüllt die weiteren Aufgaben, die ihm durch dieses Gesetz übertragen werden.[^25-6]
 
 <sup>2</sup> Er unterbreitet die Anträge und Vorschläge zu Geschäften aus dem ETH-Bereich dem WBF. Beabsichtigt das WBF, vom Antrag des ETH-Rates abzuweichen, oder stellt es einen eigenen Antrag, so hört es den ETH-Rat an.
 
 <sup>3</sup> Er informiert die Angehörigen der Hochschulen und der Forschungsanstalten über alle sie betreffenden Geschäfte.
 
+<sup>4</sup> Er übt die Aufsicht über den ETH-Bereich aus. Er kann den ETH und den Forschungsanstalten nach Anhörung insbesondere Empfehlungen abgeben und in begründeten Fällen Aufträge erteilen. Er kann nach Anhörung der betroffenen Institution entsprechende Massnahmen ergreifen, wenn er eine Rechtsverletzung feststellt.[^25-7]
+
 [^25-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^25-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2012, in Kraft seit 1. Juli 2013 ([AS 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [BBl 2011 6703](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^25-3]: Fassung gemäss Anhang Ziff. II 3 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^25-4]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^25-5]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^25-3]: Aufgehoben durch Ziff. I des BG vom 19. März 2021, mit Wirkung seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25-4]: Fassung gemäss Anhang Ziff. II 3 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^25-5]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^25-6]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^25-7]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 25a
+
+**Einschränkung des Stimmrechts und Ausstand**[^25a-1]
+
+<sup>1</sup>
+
+An den Sitzungen des ETH-Rates verfügen die Mitglieder nach Artikel 24 Absätze 1 Buchstaben c und d sowie 3 über kein Stimmrecht in folgenden Geschäften:
+
+- a. Zuteilung der Bundesmittel;
+- b. Wahlvorschläge für die Schulpräsidenten und die Direktoren der Forschungsanstalten;
+- c. Wahl der Mitglieder der ETH-Beschwerdekommission und weitere Beschlüsse in Angelegenheiten der ETH-Beschwerdekommission.
+
+<sup>2</sup>
+
+Die Mitglieder des ETH-Rates nach Artikel 24 Absätze 1 Buchstabe c sowie 3 treten für folgende Geschäfte in den Ausstand:
+
+- a. Aufsichtsangelegenheiten nach Artikel 25 Absatz 4;
+- b. Angelegenheiten der Finanzaufsicht nach Artikel 35*a*<sup>ter</sup>.
+
+[^25a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 26
 
@@ -736,9 +796,13 @@ Der ETH-Rat unterbreitet dem Bundesrat jährlich folgende Unterlagen:
 
 #### Art. 34a
 
-**Überprüfung und Massnahmen**
+**Beurteilung der Aufgabenerfüllung und Massnahmen**[^34a-1]
 
-Das WBF überprüft die Auftragserfüllung und beantragt dem Bundesrat nötigenfalls Massnahmen. Es orientiert die Bundesversammlung jeweils zusammen mit dem Antrag für die nächste Leistungsperiode in einem Zwischenbericht über die Zielerreichung.
+<sup>1</sup> Das WBF überprüft periodisch die Erfüllung des Grundauftrags und der strategischen Ziele des Bundesrates für den ETH-Bereich und beantragt dem Bundesrat nötigenfalls Massnahmen.
+
+<sup>2</sup> Der Bundesrat informiert die Bundesversammlung.
+
+[^34a-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 34b
 
@@ -851,12 +915,13 @@ Der ETH-Rat, die ETH und die Forschungsanstalten betreiben im Rahmen der Vorgabe
 
 <sup>1</sup> Der ETH-Rat setzt eine Dienststelle für das interne Audit ein.[^35ater-2]
 
-<sup>2</sup> Er erlässt die Vollzugsvorschriften über die Ausübung der Finanzaufsicht im ETH-Bereich im Einvernehmen mit der Eidgenössischen Finanzkontrolle.
+<sup>2</sup> Er erlässt die Vollzugsvorschriften über die Ausübung der Finanzaufsicht im ETH-Bereich.[^35ater-3]
 
 <sup>3</sup> Die Rechnungen des ETH-Bereichs werden durch die Eidgenössische Finanzkontrolle revidiert.
 
 [^35ater-1]: Ursprünglich: Art. 35*a*, dann Art. 35*a*<sup>bis</sup>.
 [^35ater-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35ater-3]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 35a<sup>quater</sup>
 
@@ -914,58 +979,18 @@ Der ETH-Rat, die ETH und die Forschungsanstalten betreiben im Rahmen der Vorgabe
 
 #### Art. 36a
 
-**Personalinformationssysteme**
+**Personalinformationssysteme**[^36a-1]
 
-<sup>1</sup> Der ETH-Rat, die ETH und die Forschungsanstalten betreiben je ein Personalinformationssystem, in welchem auch besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeitet werden können. Der ETH-Rat kann die Bearbeitung seiner Daten in einem Personalinformationssystem einer ETH oder einer Forschungsanstalt übertragen.
+<sup>1</sup> Der ETH-Rat, die ETH und die Forschungsanstalten betreiben je ein oder mehrere Personalinformationssysteme; darin können auch besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeitet werden. Für die Personalinformationssysteme gilt Artikel 27 BPG[^36a-2], für privatrechtliche Arbeitsverhältnisse gilt er sinngemäss.
 
-<sup>2</sup>
+<sup>2</sup> Der ETH-Rat kann die Bearbeitung der Daten seines Personals einer ETH oder einer Forschungsanstalt übertragen.
 
-Die Personalinformationssysteme dienen der Erfüllung der Aufgaben nach dem BPG, insbesondere:
+<sup>3</sup> In den Personalinformationssystemen können Verfahren und Prozesse zur systematischen Auswertung der Daten in elektronischer Form verwendet werden.
 
-- a. der Verwaltung der Personendaten der Angestellten und der Bewirtschaftung dieser Daten;
-- b. der Bearbeitung der Lohndaten und der Durchführung von Evaluationen, Budgetsimulationen und Personalkostenplanungen;
-- c. der Integration der Datenverwaltung in das System für das Finanz- und Rechnungswesen;
-- d. der Verwaltung von für die Kaderförderung und Managemententwicklung relevanten Daten.
+<sup>4</sup> Der ETH-Rat erlässt die Ausführungsbestimmungen und unterbreitet sie dem Bundesrat zur Genehmigung.
 
-<sup>3</sup>
-
-In den Personalinformationssystemen werden folgende Datenkategorien bearbeitet, soweit es zur Erfüllung der unter Absatz 2 genannten Aufgaben notwendig ist:
-
-- a. Muttersprache und Geburtsdatum;
-- b. Staatsangehörigkeit;
-- c. Funktion und Lohn, Erfahrungsjahre, Lohnnebenleistungen;
-- d. alle Informationen zur Umsetzung der Quellenbesteuerung;
-- e. alle Informationen zur Umsetzung des Familienzulagengesetzes vom 24. März 2006[^36a-1];
-- f. Elternurlaub;
-- g. öffentliche Ämter und Nebenbeschäftigungen;
-- h. im Rahmen der Arbeitssicherheit nötige Gesundheitsprüfungen und deren Resultate;
-- i. Arbeitszeit, inklusive Absenzen aller Art;
-- j. Verhaltens- und Fachkompetenzen sowie Ausbildung;
-- k. die Beurteilungsstufe, gestützt auf die Leistungsbeurteilung, sowie die Auswertung der Leistungsbeurteilung;
-- l. Daten zur Personalentwicklung, insbesondere zur Kaderförderung, Managemententwicklung und Potenzialerfassung;
-- m. Lohnpfändungen, Scheidungsurteile, Straf- und Betreibungsregisterauszüge, Verrechnungen mit dem Lohn für Schulden gegenüber dem Arbeitgeber;
-- n. Reduktion der Erwerbsfähigkeit;
-- o. medizinisch bedingte Pensionierung;
-- p. Ansprüche aus der Sozialversicherungsgesetzgebung;
-- q. Austrittsgründe;
-- r. weitere in den Ausführungsbestimmungen bezeichnete Daten.
-
-<sup>4</sup> Der ETH-Rat, die ETH und die Forschungsanstalten erfassen die Daten ihrer Angestellten. Sie sind für den Schutz und die Sicherheit der Daten verantwortlich.
-
-<sup>5</sup> Die Personaldienste, die Finanzdienste und die für den technischen Support verantwortlichen Dienststellen erhalten je an ihrer Institution Zugriff auf das Personalinformationssystem, soweit es für die Erfüllung ihrer Aufgaben notwendig ist.
-
-<sup>6</sup>
-
-Der ETH-Rat erlässt Ausführungsbestimmungen über:
-
-- a. die Organisation und den Betrieb der Personalinformationssysteme;
-- b. die Bearbeitung der Daten, insbesondere die Beschaffung, Aufbewahrung, Bekanntgabe, Archivierung und Vernichtung;
-- c. die Berechtigungen zur Datenbearbeitung;
-- d. die Datenkataloge;
-- e. die Datensicherheit und den Datenschutz;
-- f. die Bekanntgabe von nicht besonders schützenswerten Daten aus den Personalinformationssystemen an Organisationen und Personen ausserhalb des ETH-Bereichs im Abrufverfahren.
-
-[^36a-1]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^36a-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^36a-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 36b
 
@@ -1036,11 +1061,75 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 <sup>2</sup> Die Informationspflicht gilt auch dann, wenn die Personendaten bei Dritten beschafft werden. In diesem Fall sorgen die ETH und die Forschungsanstalten dafür, dass die Dritten die Informationspflicht wahrnehmen. Kann dies nicht gewährleistet werden, so informieren die ETH und die Forschungsanstalten die betroffenen Personen umgehend selber.
 
-## 7. Kapitel: Rechtsschutz und Strafbestimmungen****
+### 3. Abschnitt:**** Umgang mit Personendaten in der Lehre
+
+[^chap6a-sec3-1]
+
+[^chap6a-sec3-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 36f
+
+<sup>1</sup> Für die Entwicklung, den Einsatz und die Auswertung von Lehrmethoden, die Informationstechnologien verwenden, können die ETH und die Forschungsanstalten Personendaten bearbeiten, einschliesslich besonders schützenswerter Personendaten.
+
+<sup>2</sup> Sie stellen sicher, dass dabei die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^36f-1] über den Datenschutz eingehalten werden.
+
+[^36f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+## 6*b*. Kapitel:**** Sicherheit
+
+[^chap6b-1]
+
+[^chap6b-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+### 1. Abschnitt: Sicherheitsdienste
+
+#### Art. 36g
+
+**Schaffung**
+
+<sup>1</sup> Die ETH und die Forschungsanstalten können je für sich Sicherheitsdienste einrichten, soweit dies zum Schutz ihres Personals, der Studierenden und der Besucher sowie zur Gewährleistung von Sicherheit und Ordnung auf ihrem Areal erforderlich ist.
+
+<sup>2</sup> Sie können vertraglich gemeinsame Sicherheitsdienste einrichten.
+
+<sup>3</sup> Sie können Dritte mit der Erbringung von Sicherheitsdienstleistungen beauftragen.
+
+#### Art. 36h
+
+**Befugnisse**
+
+<sup>1</sup> Die Sicherheitsdienste setzen in Ausübung des Hausrechts die Zutritts- und Benützungsordnung in Gebäuden und auf dem nicht öffentlichen Areal der betreffenden ETH oder Forschungsanstalt durch. Sie dürfen Personen befragen und Ausweiskontrollen vornehmen. Zudem dürfen sie Personen, die gegen das Hausrecht oder die Betriebsvorschriften verstossen, anhalten, kontrollieren und wegweisen.
+
+<sup>2</sup> Sie dürfen zur Erfüllung ihrer Aufgaben Daten bearbeiten mit Angaben zur Feststellung der Identität einer Person und zu Verstössen einer Person gegen Vorschriften zum Schutz von Personen und Einrichtungen in Gebäuden und auf den nicht öffentlichen Arealen der ETH und der Forschungsanstalten.
+
+<sup>3</sup> Bei der Übertragung der Aufgaben des Sicherheitsdienstes an einen Dritten vereinbaren die ETH oder die Forschungsanstalten mit diesem vertraglich, dass der Dritte die entsprechenden Datenbearbeitungssysteme physisch und logisch von seinen übrigen Datenbearbeitungssystemen trennt. Sie verpflichten den Dritten, die Daten der ETH oder der Forschungsanstalten nicht anderweitig zu verwenden, und sichern sich Auskunfts- und Kontrollrechte zu.
+
+<sup>4</sup> Die Sicherheitsdienste leiten den zuständigen Polizeibehörden von Bund und Kantonen alle Angaben weiter, die im Zusammenhang mit strafbaren Handlungen stehen.
+
+<sup>5</sup> Vorbehalten bleiben Bestimmungen betreffend die Betriebswachen gemäss Kernenergiegesetzgebung für die ETH und die Forschungsanstalten, die über eine Bewilligung nach dem Kernenergiegesetz vom 21. März 2003[^36h-1] verfügen.
+
+[^36h-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+
+### 2. Abschnitt: Videoüberwachung
+
+#### Art. 36i
+
+<sup>1</sup> Die ETH und die Forschungsanstalten können eine Videoüberwachung einrichten, soweit dies zum Schutz ihres Personals, der Studierenden und Besucher, ihrer Infrastruktur und des Betriebs erforderlich ist.
+
+<sup>2</sup> Videosignale können aufgezeichnet werden. Bei sicherheitsrelevanten Vorfällen müssen sie spätestens am ersten Werktag nach Entdeckung des Vorfalls durch die dafür zuständige Person gesichtet und gesichert werden. Nicht gesicherte Aufzeichnungen werden spätestens nach 20 Tagen gelöscht.
+
+<sup>3</sup> Aufzeichnungen dürfen nur strafverfolgenden Behörden oder Behörden, bei denen die ETH oder die Forschungsanstalten Anzeige erstatten oder Rechtsansprüche geltend machen, bekannt gegeben werden. Die Auswertung von Aufzeichnungen ist nur diesen Behörden erlaubt.
+
+<sup>4</sup> Die ETH und die Forschungsanstalten bewahren gesicherte Aufzeichnungen diebstahlsicher und vor Missbrauch geschützt auf. Sie vernichten sie spätestens nach 100 Tagen, ausser sie dienen als Beweismittel in einem hängigen gerichtlichen Verfahren oder Disziplinarverfahren. Die Aufzeichnungen können in anonymisierter Form für Zwecke der Schulung oder Unfallverhütung weiterverwendet werden.
+
+<sup>5</sup> Vorbehalten bleiben Bestimmungen betreffend die Sicherheitsvorkehren gemäss Kernenergiegesetzgebung für die ETH und die Forschungsanstalten, die über eine Bewilligung nach dem Kernenergiegesetz vom 21. März 2003[^36i-1] verfügen.
+
+[^36i-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+
+## 7. Kapitel: Rechtsschutz, Disziplinarrecht und Strafbestimmungen****
 
 [^chap7-1]
 
-[^chap7-1]: Eingefügt durch Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap7-1]: Eingefügt durch Ziff. I des BG vom 21. März 2003 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)). Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 37
 
@@ -1050,19 +1139,22 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 <sup>2</sup> Der ETH-Rat, die ETH und die Forschungsanstalten sind berechtigt, gegen Beschwerdeentscheide Beschwerde zu führen, wenn sie in der gleichen Sache als erste Instanz verfügt haben. Die Hochschulversammlungen sind zur Beschwerde gegen Verfügungen über Gegenstände der Mitwirkung berechtigt.
 
-<sup>3</sup> Gegen Verfügungen der ETH und der Forschungsanstalten kann bei der ETH-Beschwerdekommission Beschwerde geführt werden. Ausgenommen sind Verfügungen, die sich auf das Verantwortlichkeitsgesetz vom 14. März 1958[^37-2] stützen.[^37-3]
+<sup>2bis</sup> Den ETH und den Forschungsanstalten steht kein Beschwerderecht zu gegen Entscheide des ETH-Rates nach den Artikeln 25 Absatz 1 Buchstabe e und 33*a* Absatz 3.[^37-2]
+
+<sup>3</sup> Gegen Verfügungen der ETH und der Forschungsanstalten kann bei der ETH-Beschwerdekommission Beschwerde geführt werden. Ausgenommen sind Verfügungen, die sich auf das Verantwortlichkeitsgesetz vom 14. März 1958[^37-3] stützen.[^37-4]
 
 <sup>4</sup> Mit der Beschwerde gegen Verfügungen über das Ergebnis von Prüfungen und Promotionen kann die Unangemessenheit nicht gerügt werden.
 
 [^37-1]: Fassung gemäss Anhang Ziff. 36 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^37-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^37-3]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2009, in Kraft seit 1. März 2010 ([AS 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [BBl 2009 469](https://fedlex.data.admin.ch/eli/fga/2009/60)).
+[^37-2]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37-3]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^37-4]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2009, in Kraft seit 1. März 2010 ([AS 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [BBl 2009 469](https://fedlex.data.admin.ch/eli/fga/2009/60)).
 
 #### Art. 37a
 
 **ETH-Beschwerdekommission**[^37a-1]
 
-<sup>1</sup> Der ETH-Rat wählt die sieben Mitglieder der ETH-Beschwerdekommission. Mindestens vier Mitglieder müssen dem ETH-Bereich angehören.
+<sup>1</sup> Der Bundesrat wählt die sieben Mitglieder der ETH-Beschwerdekommission.[^37a-2] Mindestens vier Mitglieder müssen dem ETH-Bereich angehören.
 
 <sup>2</sup> Die Amtsdauer beträgt jeweils vier Jahre, wobei Wiederwahl möglich ist.
 
@@ -1070,9 +1162,33 @@ Die ETH erlassen Ausführungsbestimmungen über:
 
 <sup>4</sup> Die Kommission ist dem ETH-Rat administrativ zugewiesen. Sie verfügt über ein eigenes Sekretariat.
 
-<sup>5</sup> Der ETH-Rat erlässt die Geschäftsordnung. Er regelt darin namentlich die Zuständigkeit des Präsidenten in dringlichen Fällen und in Fällen von untergeordneter Bedeutung sowie die Bildung von Kammern mit selbstständiger Entscheidungsbefugnis.
+<sup>5</sup> Der Bundesrat erlässt die Geschäftsordnung.[^37a-3] Er regelt darin namentlich die Zuständigkeit des Präsidenten in dringlichen Fällen und in Fällen von untergeordneter Bedeutung sowie die Bildung von Kammern mit selbstständiger Entscheidungsbefugnis.
 
 [^37a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [BBl 2002 3465](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^37a-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37a-3]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 37b
+
+**Disziplinarrecht**[^37b-1]
+
+<sup>1</sup> Die ETH und die Forschungsanstalten können gegenüber Studierenden, Hörern und Doktoranden Disziplinarmassnahmen aussprechen.
+
+<sup>2</sup> Sie regeln in Verordnungen die Disziplinarverstösse, die Disziplinarmassnahmen und das Verfahren.
+
+<sup>3</sup>
+
+Für schwerwiegende oder wiederholte Disziplinarverstösse können folgende Disziplinarmassnahmen vorgesehen werden:
+
+- a. der befristete Ausschluss von bestimmten Lehrveranstaltungen, Prüfungen und Einrichtungen;
+- b die Nichtzulassung zu einer Studienstufe;
+- c. der befristete Ausschluss aus der ETH oder der Forschungsanstalt;
+- d. der unbefristete Ausschluss aus der ETH oder der Forschungsanstalt;
+- e. der Entzug des akademischen Titels, wenn dieser aufgrund eines Disziplinarverstosses unrechtmässig erworben wurde.
+
+<sup>4</sup> Die ETH und die Forschungsanstalten können sich im Einzelfall und auf schriftliche Anfrage hin gegenseitig über schwere Disziplinarverstösse informieren.
+
+[^37b-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [BBl 2020 715](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 38
 

@@ -3,11 +3,11 @@ sr: "414.110"
 title: Loi fédérale du 4 octobre 1991 sur les écoles polytechniques fédérales (Loi sur les EPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/210_210_210"
 language: fr
-version: 2017-05-01
+version: 2021-11-01
 adopted: 1991-10-04
 in_force: 1993-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20170501/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20170501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20170501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/210_210_210/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-210_210_210-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/210_210_210/20170501/fr"
 
 (Loi sur les EPF)
 
-du 4 octobre 1991 (Etat le 1<sup>er</sup> mai 2017)
+du 4 octobre 1991 (Etat le 1<sup>er</sup> novembre 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -38,8 +38,8 @@ arrête:
 
 La présente loi s’applique au domaine des écoles polytechniques fédérales (ci-après domaine des EPF), dont font partie:
 
-- a. l’Ecole polytechnique fédérale de Zurich (EPFZ);
-- b. l’Ecole polytechnique fédérale de Lausanne (EPFL);
+- a. l’École polytechnique fédérale de Zurich (EPFZ);
+- b. l’École polytechnique fédérale de Lausanne (EPFL);
 - c.[^1-1] des établissements de recherche.
 
 <sup>2</sup> Ces établissements relèvent de la Confédération.
@@ -115,7 +115,7 @@ Les établissements au sens de l’art. 1, al. 1, sont habilités à utiliser sy
 [^4a-1]: Introduit par le ch. 3 de l’annexe à la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^4a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-## Chapitre 2 Ecoles polytechniques fédérales
+## Chapitre 2 Écoles polytechniques fédérales
 
 ### Section 1 Statut et tâches des EPF
 
@@ -192,16 +192,26 @@ Les EPF accomplissent leurs tâches de recherche:
 
 #### Art. 10a
 
-**Assurance de la qualité et accréditation**[^10a-1]
+**Vente d’énergie**[^10a-1]
+
+<sup>1</sup> S’ils n’en ont pas eux-mêmes l’usage, les EPF et les établissements de recherche peuvent vendre au prix du marché l’énergie qu’ils ont produite pour leur consommation propre dans les installations qu’ils exploitent ou qu’ils ont achetée pour leur consommation propre.
+
+<sup>2</sup> Le Conseil fédéral règle l’affectation des revenus ainsi générés.
+
+[^10a-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 10b
+
+**Assurance de la qualité et accréditation**[^10b-1]
 
 <sup>1</sup> Les EPF examinent périodiquement la qualité de l’enseignement, de la recherche et des prestations de services et veillent à assurer la qualité et le développement de la qualité à long terme.
 
-<sup>2</sup> Elles mettent en place un système d’assurance de la qualité conformément à l’art. 27 de la loi du 30 septembre 2011 sur l’encouragement et la coordination des aux hautes écoles[^10a-2].
+<sup>2</sup> Elles mettent en place un système d’assurance de la qualité conformément à l’art. 27 de la loi du 30 septembre 2011 sur l’encouragement et la coordination des aux hautes écoles[^10b-2].
 
 <sup>3</sup> Elles demandent leur accréditation d’institution.
 
-[^10a-1]: Introduit par le ch. I de la LF du 21 mars 2003 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nouvelle teneur selon le ch. II 3 de l’annexe à la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^10a-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^10b-1]: Anciennement art. 10*a*. Introduit par le ch. I de la LF du 21 mars 2003 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nouvelle teneur selon le ch. II 3 de l’annexe à la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^10b-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 11
 
@@ -256,11 +266,12 @@ Relèvent des EPF:
 
 <sup>2</sup> Sur proposition des EPF, le Conseil des EPF nomme les professeurs ordinaires et les professeurs associés et délimite leur domaine d’enseignement et de recherche.
 
-<sup>3</sup> Sur proposition des EPF, il nomme les professeurs assistants pour une période de quatre ans au maximum. Il peut renouveler leur mandat une seule fois. Les rapports de travail peuvent être résiliés selon la procédure ordinaire.
+<sup>3</sup> Sur proposition des EPF, il nomme les professeurs assistants pour une période de quatre ans. Il peut renouveler leur contrat jusqu’à ce que les rapports de travail atteignent la limite fixée à l’art. 17*b*, al. 2, let. a. Les contrats de travail de durée déterminée peuvent être résiliés selon la procédure ordinaire.[^14-2]
 
 <sup>4</sup> La direction de l’école confère la *venia legendi* et nomme les maîtres d’enseignement et de recherche ainsi que les chargés de cours.
 
 [^14-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^14-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 15
 
@@ -317,29 +328,49 @@ La direction de l’école fixe les conditions et la procédure d’admission po
 [^16a-3]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2017 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^16a-4]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2017 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
+#### Art. 16b
+
+**Rapports de travail des membres du Conseil des EPF, des présidents des écoles et des directeurs des établissements de recherche**[^16b-1]
+
+<sup>1</sup> Le Conseil fédéral règle les conditions d’engagement et la prévoyance professionnelle des membres à plein temps du Conseil des EPF, des présidents des écoles et des directeurs des établissements de recherche dans le cadre de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^16b-2] et de la loi du 20 décembre 2006 relative à PUBLICA[^16b-3].
+
+<sup>2</sup> Les autres membres du Conseil des EPF sont liés à la Confédération par un mandat de droit public. Le Conseil fédéral fixe l’indemnisation et les autres dispositions contractuelles.
+
+[^16b-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^16b-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^16b-3]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+
 #### Art. 17
 
-**Rapports de travail**[^17-1]
+**Rapports de travail du personnel et des professeurs**[^17-1]
 
-<sup>1</sup> Le Conseil fédéral règle, dans le cadre de la loi du 24 mars 2000 sur le personnel de la Confédération[^17-2] et de la loi fédérale du 23 juin 2000 régissant la Caisse fédérale de pensions[^17-3], les conditions d’engagement et la prévoyance professionnelle des membres à plein temps du Conseil des EPF, des présidents des écoles et des directeurs des établissements de recherche.
+<sup>1</sup> Les rapports de travail du personnel et des professeurs sont régis par la LPers[^17-2], à moins que la présente loi n’en dispose autrement. À l’égard du domaine des EPF, le Conseil des EPF est réputé employeur au sens de l’art. 3, al. 2, LPers.
 
-<sup>1bis</sup> Les autres membres du Conseil des EPF sont liés à la Confédération par un mandat de droit public. Le Conseil fédéral fixe l’indemnisation et les autres dispositions contractuelles.[^17-4]
+<sup>2</sup> Le Conseil des EPF édicte une ordonnance sur le personnel et une ordonnance sur le corps professoral, qu’il soumet toutes deux à l’approbation du Conseil fédéral.
 
-<sup>2</sup> Les rapports de travail du personnel sont régis par la loi du 24 mars 2000 sur le personnel de la Confédération pour autant que la présente loi n’en dispose pas autrement.
+<sup>3</sup>
 
-<sup>3</sup> Dans la mesure où l’exigent l’enseignement et la recherche, le Conseil des EPF peut, dans le cadre de l’art. 6, al. 5, de la loi du 24 mars 2000 sur le personnel de la Confédération, édicter des dispositions relatives à l’engagement de professeurs sur la base d’un contrat de droit privé; ces dispositions sont soumises à l’approbation du Conseil fédéral.
+Il peut prévoir, dans l’ordonnance sur le personnel, une dérogation à l’art. 15, al. 1, LPers concernant la rémunération (salaire initial et évolution) pour:
 
-<sup>4</sup> Dans des cas dûment motivés, le Conseil des EPF peut employer un professeur au-delà de l’âge limite défini à l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^17-5].
+- a. les collaborateurs qui sont engagés pour une durée déterminée à des fins de formation;
+- b. les collaborateurs qui sont engagés pour des projets de recherche de durée déterminée financés par des tiers;
+- c. les collaborateurs qui sont engagés pour des missions de durée déterminée.
 
-<sup>5</sup> Le personnel est assuré auprès de la Caisse fédérale de pensions (PUBLICA). Pour le domaine des EPF, le Conseil des EPF est l’employeur au sens de la loi fédérale du 20 décembre 2006 relative à PUBLICA[^17-6].[^17-7]
+<sup>4</sup> Dans les cas visés à l’al. 3, il définit dans l’ordonnance sur le personnel les critères déterminant la rémunération de ces collaborateurs, en tenant compte des exigences spécifiques de leur poste.
 
-[^17-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+<sup>5</sup> Il peut déléguer aux directions des EPF et des établissements de recherche les décisions relevant de l’employeur ainsi que l’édiction de dispositions d’exécution de l’ordonnance sur le personnel.
+
+<sup>6</sup> Dans la mesure où les besoins spécifiques de l’enseignement et de la recherche le commandent, le Conseil des EPF peut, dans le cadre fixé par l’art. 6, al. 5, LPers, édicter dans l’ordonnance sur le corps professoral des prescriptions concernant les rapports de travail de droit privé des professeurs.
+
+<sup>7</sup> Si des circonstances exceptionnelles le justifient, le Conseil des EPF peut employer un professeur au-delà de l’âge limite fixé à l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^17-3]. Il peut conclure à cet effet un contrat de travail de droit public ou de droit privé. Il peut édicter des dispositions en la matière dans l’ordonnance sur le corps professoral.
+
+<sup>8</sup> Sur proposition des EPF et en accord avec le Conseil des EPF, les professeures peuvent rester engagées jusqu’à l’âge limite fixé pour les hommes à l’art. 21, al. 1, let. a, LAVS, ou jusqu’à la fin du semestre au cours duquel elles atteignent cet âge limite.
+
+<sup>9</sup> Le personnel et les professeurs sont assurés auprès de la Caisse fédérale de pensions (PUBLICA) conformément aux art. 32*a* à 32*m* LPers. À l’égard du personnel du domaine des EPF, le Conseil des EPF est réputé employeur au sens de l’art. 32*b*, al. 2, LPers. Il représente le domaine des EPF en qualité de partie contractante.
+
+[^17-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 [^17-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^17-3]: [[RO 2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107), [2004 5265](https://fedlex.data.admin.ch/eli/oc/2004/809), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 13, [2007 2821](https://fedlex.data.admin.ch/eli/oc/2007/369). [RO 2007 2239](https://fedlex.data.admin.ch/eli/oc/2007/313)art. 27]. Voir actuellement la LF du 20 déc. 2006 relative à PUBLICA ([RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)).
-[^17-4]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^17-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^17-6]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
-[^17-7]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^17-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 17a
 
@@ -369,7 +400,10 @@ Un contrat de travail de durée déterminée peut être renouvelé plusieurs foi
 - c. pour les employés associés à des projets d’enseignement et de recherche et pour les personnes participant à des projets financés par des fonds de tiers, neuf ans au plus;
 - d. pour les autres employés, cinq ans au plus.
 
+<sup>3</sup> Les délais visés à l’al. 2, let. a et b, peuvent être prolongés sur demande dans le cas d’une longue absence pour cause de maladie, d’accident, de maternité ou d’adoption ou pour tout autre motif important.[^17b-2]
+
 [^17b-1]: Introduit par le ch. 2 de l’annexe à la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
+[^17b-2]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 18
 
@@ -454,7 +488,7 @@ Le Conseil des EPF, l’EPF ou l’établissement de recherche communique à la 
 
 <sup>3</sup> Lorsque le motif justifiant le refus, la restriction ou l’ajournement disparaît, la personne concernée doit être informée sans délai, à moins que cela s’avère impossible ou nécessite un travail disproportionné.
 
-## Chapitre 3 Etablissements de recherche
+## Chapitre 3 Établissements de recherche
 
 #### Art. 21
 
@@ -553,20 +587,45 @@ Le Conseil des EPF:
 - c. édicte des dispositions sur le controlling et procède au controlling stratégique;
 - d. approuve les plans de développement du domaine des EPF et contrôle leur exécution;
 - e.[^25-2] procède aux engagements et aux nominations qui relèvent de sa compétence;
-- f. exerce la surveillance du domaine des EPF;
-- g.[^25-3] est responsable de la coordination et de la planification au sens de la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles[^25-4];
+- f.[^25-3] ...
+- g.[^25-4] est responsable de la coordination et de la planification au sens de la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles[^25-5];
 - h. se donne un règlement;
-- i. remplit les autres tâches qui lui incombent en vertu de la présente loi.[^25-5]
+- i. remplit les autres tâches qui lui incombent en vertu de la présente loi.[^25-6]
 
 <sup>2</sup> Il soumet au DEFR les propositions concernant les affaires relevant du domaine des EPF. Si le DEFR a l’intention de s’écarter de la proposition du Conseil des EPF ou s’il fait lui-même une proposition, il consulte le Conseil.
 
 <sup>3</sup> Il informe les personnes relevant des écoles polytechniques et des établissements de recherche sur toutes les affaires qui les concernent.
 
+<sup>4</sup> Il exerce la surveillance sur le domaine des EPF. Il peut notamment émettre des recommandations à l’intention des EPF et des établissements de recherche après les avoir entendus et, dans des cas dûment motivés leur confier des mandats. Il peut, après avoir entendu l’institution concernée, prendre les mesures qui s’imposent s’il constate une violation du droit.[^25-7]
+
 [^25-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 [^25-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1493](https://fedlex.data.admin.ch/eli/oc/2013/352); [FF 2011 6171](https://fedlex.data.admin.ch/eli/fga/2011/1076)).
-[^25-3]: Nouvelle teneur selon le ch. II 3 de l’annexe à la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
-[^25-4]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^25-5]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^25-3]: Abrogée par le ch. I de la LF du 19 mars 2021, avec effet au 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^25-4]: Nouvelle teneur selon le ch. II 3 de l’annexe à la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^25-5]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^25-6]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^25-7]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 25a
+
+**Limitation du droit de vote et récusation**[^25a-1]
+
+<sup>1</sup>
+
+Aux séances du Conseil des EPF, les membres visés à l’art. 24, al. 1, let. c et d, et 3, n’ont pas le droit de vote pour les affaires suivantes:
+
+- a. répartition des fonds fédéraux;
+- b. proposition de candidats pour la nomination des présidents des écoles et des directeurs des établissements de recherche;
+- c. nomination des membres de la Commission de recours interne des EPF et autres décisions concernant les affaires de la Commission de recours interne des EPF.
+
+<sup>2</sup>
+
+Les membres du Conseil des EPF visés à l’art. 24, al. 1, let. c, et 3, se récusent pour les affaires suivantes:
+
+- a. questions relatives à la surveillance au sens de l’art. 25, al. 4;
+- b. questions relatives à la surveillance des finances au sens de l’art. 35*a*<sup>ter</sup>.
+
+[^25a-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 26
 
@@ -588,13 +647,13 @@ Le Conseil des EPF peut s’adjoindre un conseil scientifique consultatif.
 
 #### Art. 26b
 
-**Etat-major**[^26b-1]
+**État-major**[^26b-1]
 
 Le Conseil des EPF dispose d’un état-major.
 
 [^26b-1]: Introduit par le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
 
-### Section 2 Ecoles polytechniques fédérales
+### Section 2 Écoles polytechniques fédérales
 
 #### Art. 27
 
@@ -737,11 +796,13 @@ Le Conseil des EPF soumet chaque année au Conseil fédéral les documents suiva
 
 #### Art. 34a
 
-**Evaluation et mesures**
+**Évaluation de la réalisation des objectifs et mesures**[^34a-1]
 
-Le DEFR évalue la réalisation du mandat et propose si nécessaire des mesures au Conseil fédéral. Avec le projet d’un nouveau mandat de prestations[^34a-1], le département présente à l’Assemblée fédérale un rapport intermédiaire sur la réalisation du mandat en cours.
+<sup>1</sup> Le DEFR évalue périodiquement l’accomplissement de la mission de base et la réalisation des objectifs stratégiques que le Conseil fédéral a assignés au domaine des EPF et propose si nécessaire des mesures au Conseil fédéral.
 
-[^34a-1]: Actuellement «objectifs stratégiques».
+<sup>2</sup> Le Conseil fédéral informe l’Assemblée fédérale.
+
+[^34a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 34b
 
@@ -773,7 +834,7 @@ Le DEFR évalue la réalisation du mandat et propose si nécessaire des mesures 
 
 #### Art. 34d
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup> Les EPF et les établissements de recherche prélèvent des émoluments pour leurs prestations.
 
@@ -854,12 +915,13 @@ Le Conseil des EPF, les EPF et les établissements de recherche mettent chacun e
 
 <sup>1</sup> Le Conseil des EPF institue un service d’audit interne.[^35ater-2]
 
-<sup>2</sup> Il édicte les dispositions d’exécution sur l’exercice de la surveillance des finances du domaine des EPF, en accord avec le Contrôle fédéral des finances (CDF).
+<sup>2</sup> Il édicte les dispositions d’exécution sur l’exercice de la surveillance des finances dans le domaine des EPF.[^35ater-3]
 
 <sup>3</sup> Les comptes du domaine des EPF sont révisés par le CDF.
 
 [^35ater-1]: Anciennement art. 35*a,* puis 35*a*<sup>bis</sup>.
 [^35ater-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 151](https://fedlex.data.admin.ch/eli/oc/2017/43); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^35ater-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 35a<sup>quater</sup>
 
@@ -917,58 +979,18 @@ Le Conseil des EPF, les EPF et les établissements de recherche mettent chacun e
 
 #### Art. 36a
 
-**Systèmes d’information concernant le personnel**
+**Systèmes d’information concernant le personnel**[^36a-1]
 
-<sup>1</sup> Le Conseil des EPF, les EPF et les établissements de recherche exploitent chacun un système d’information concernant le personnel dans lequel des données sensibles et des profils de la personnalité peuvent également être traitées. Le Conseil des EPF peut transférer le traitement de ses données sur le système de gestion des données du personnel d’une EPF ou d’un établissement de recherche.
+<sup>1</sup> Le Conseil des EPF, les EPF et les établissements de recherche exploitent chacun un ou plusieurs systèmes d’information concernant le personnel; le traitement de données sensibles et de profils de la personnalité au moyen de ces systèmes est autorisé. Ces systèmes sont régis par l’art. 27 LPers[^36a-2], qui s’applique par analogie au traitement des données relatives aux rapports de travail de droit privé.
 
-<sup>2</sup>
+<sup>2</sup> Le Conseil des EPF peut confier à une EPF ou à un établissement de recherche le traitement des données relatives à son personnel.
 
-Les systèmes d’information concernant le personnel servent l’exécution des tâches prévues par la LPers; ils poursuivent notamment les buts suivants:
+<sup>3</sup> Le Conseil des EPF, les EPF et les établissements de recherche peuvent recourir à des procédés et processus informatiques destinés à l’analyse systématique de ces données.
 
-- a. assurer la gestion et l’exploitation des données personnelles relatives aux employés;
-- b. traiter les données relatives au salaire et réaliser des évaluations, des simulations de budget et une planification des frais de personnel;
-- c. intégrer la gestion des données relatives au personnel dans le système de gestion financière et de comptabilité;
-- d. gérer les données utiles à la formation et à la relève des cadres et au développement des capacités de gestion.
+<sup>4</sup> Le Conseil des EPF édicte les dispositions d’exécution et les soumet à l’approbation du Conseil fédéral.
 
-<sup>3</sup>
-
-Les systèmes d’information concernant le personnel traitent les données ci-après, pour autant que l’exécution des tâches visées à l’al. 2 l’exige:
-
-- a. langue maternelle et date de naissance;
-- b. nationalité;
-- c. fonction et salaire, années d’expérience, avantages hors salaire;
-- d. toute information nécessaire à l’imposition à la source;
-- e. toute information nécessaire à la mise en œuvre de la loi du 24 mars 2006 sur les allocations familiales[^36a-1];
-- f. congé parental;
-- g. charges publiques et activités accessoires;
-- h. examens de santé exigés par les impératifs de la sécurité au travail;
-- i. temps de travail, absences de toute nature comprises;
-- j. compétences sociales et professionnelles, formation;
-- k. échelon d’évaluation fondé sur l’évaluation des prestations et analyse de cette évaluation;
-- l. données relatives au développement du personnel, en particulier à la formation et à la relève des cadres, au développement de leurs capacités de gestion et à l’établissement de leur potentiel;
-- m. saisies de salaire, jugements de divorce, extraits de casier judiciaire et extraits du registre des poursuites, retenue sur le salaire de remboursements de dettes à l’égard de l’employeur;
-- n. réduction de la capacité de gain;
-- o. mise à la retraite pour raisons médicales;
-- p. droits découlant de la législation sur les assurances sociales;
-- q. motifs de départ;
-- r. autres données définies dans les dispositions d’exécution.
-
-<sup>4</sup> Le Conseil des EPF, les EPF et les établissements de recherche saisissent les données relatives à leurs employés. Ils sont responsables de la protection et de la sécurité de ces données.
-
-<sup>5</sup> Les services du personnel, les services financiers et les services d’assistance technique ont accès au système de gestion des données du personnel de leur institution pour autant que l’exécution de leurs tâches l’exige.
-
-<sup>6</sup>
-
-Le Conseil des EPF édicte les dispositions d’exécution concernant:
-
-- a. l’organisation et l’exploitation des systèmes d’information concernant le personnel;
-- b. le traitement des données, notamment leur collecte, leur conservation, leur communication, leur archivage et leur destruction;
-- c. les autorisations de traiter des données;
-- d. les catalogues de données;
-- e. la sécurité et la protection des données;
-- f. l’accès en ligne d’organisations ou de personnes étrangères au domaine des EPF à des données non sensibles contenues dans les systèmes de gestion des données du personnel.
-
-[^36a-1]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^36a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^36a-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 36b
 
@@ -1039,11 +1061,75 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 <sup>2</sup> L’obligation d’informer vaut également dans les cas où les données personnelles sont collectées auprès de tiers. En pareil cas, les EPF et les établissements de recherche veillent à ce que ces tiers respectent leur obligation d’informer. Si ceux-ci ne sont pas en mesure de le garantir, ils informent eux-mêmes sans délai les personnes concernées.
 
-## Chapitre 7 Voies de recours et dispositions pénales****
+### Section 3**** Traitement des données personnelles dans l’enseignement
+
+[^chap6a-sec3-1]
+
+[^chap6a-sec3-1]: Introduite par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 36f
+
+<sup>1</sup> Les EPF et les établissements de recherche peuvent traiter des données personnelles, y compris des données sensibles, pour le développement, l’utilisation et l’analyse de méthodes d’enseignement faisant appel aux technologies de l’information.
+
+<sup>2</sup> Ils s’assurent du respect des dispositions de la loi fédérale du 19 juin 1992 sur la protection des données[^36f-1].
+
+[^36f-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+## Chapitre 6*b***** Sécurité
+
+[^chap6b-1]
+
+[^chap6b-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+### Section 1 Services de sécurité
+
+#### Art. 36g
+
+**Constitution**
+
+<sup>1</sup> Dans la mesure où cela est nécessaire pour assurer la protection de leur personnel, des étudiants et des visiteurs et pour maintenir l’ordre et la sécurité sur leur site, les EPF et les établissements de recherche peuvent constituer chacun leur propre service de sécurité.
+
+<sup>2</sup> Ils peuvent se doter contractuellement de services de sécurité communs.
+
+<sup>3</sup> Ils peuvent confier à des tiers la fourniture de prestations de sécurité.
+
+#### Art. 36h
+
+**Compétences**
+
+<sup>1</sup> Les services de sécurité font appliquer le règlement intérieur et les droits d’accès et d’utilisation qui en découlent dans les bâtiments et sur le site non public de l’EPF ou de l’établissement de recherche concernés. Ils peuvent interroger des personnes et procéder à des contrôles d’identité. Ils peuvent en outre interpeller, contrôler et expulser les personnes qui contreviennent au règlement intérieur ou aux prescriptions d’exploitation.
+
+<sup>2</sup> Dans la mesure où leurs tâches le requièrent, les services de sécurité peuvent traiter des données permettant d’identifier une personne ou relatives aux infractions commises par une personne contre les prescriptions relatives à la protection des personnes et des équipements présents dans les bâtiments et sur les sites non publics des EPF et des établissements de recherche.
+
+<sup>3</sup> Lorsque les tâches du service de sécurité sont confiées à un tiers, les EPF ou les établissements de recherche l’obligent par contrat à séparer physiquement et logiquement les systèmes de traitement des données qu’il utilise à cet effet de ses autres systèmes de traitement des données. Ils imposent au tiers de ne pas utiliser leurs données à d’autres fins et se réservent le droit d’être renseignés et de procéder à des contrôles.
+
+<sup>4</sup> Les services de sécurité transmettent aux autorités de police fédérales et cantonales compétentes toutes les informations dont ils disposent concernant des infractions.
+
+<sup>5</sup> Sont réservées les dispositions sur les équipes de surveillance prévues dans la législation sur l’énergie nucléaire applicables aux EPF et aux établissements de recherche détenteurs d’une autorisation délivrée en vertu de la loi fédérale du 21 mars 2003 sur l’énergie nucléaire[^36h-1].
+
+[^36h-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+
+### Section 2 Vidéosurveillance
+
+#### Art. 36i
+
+<sup>1</sup> Dans la mesure où cela est nécessaire pour assurer la protection de leur personnel, des étudiants, des visiteurs et des équipements et pour assurer leur bon fonctionnement, les EPF et les établissements de recherche peuvent mettre en place une vidéosurveillance.
+
+<sup>2</sup> Les signaux vidéo peuvent être enregistrés. En cas d’incident de sécurité, ils doivent être visionnés et sauvegardés par la personne habilitée à cet effet le premier jour ouvrable qui suit celui de la découverte de l’incident au plus tard. Les enregistrements non sauvegardés sont effacés après 20 jours au plus.
+
+<sup>3</sup> Les enregistrements peuvent être communiqués uniquement aux autorités de poursuite pénale ou aux autorités auprès desquelles les EPF ou les établissements de recherche portent plainte ou font valoir des droits. L’analyse des enregistrements est réservée à ces autorités.
+
+<sup>4</sup> Les EPF et les établissements de recherche conservent les enregistrements sauvegardés dans un lieu protégé contre les risques de vol et d’utilisation abusive. Ils les détruisent après 100 jours au plus, sauf s’ils servent de moyen de preuve dans une procédure judiciaire ou disciplinaire pendante. Les enregistrements peuvent être utilisés sous une forme anonymisée à des fins d’instruction ou de prévention d’accidents.
+
+<sup>5</sup> Sont réservées les dispositions sur les mesures de sécurité prévues dans la législation sur l’énergie nucléaire applicables aux EPF et aux établissements de recherche détenteurs d’une autorisation délivrée en vertu de la loi fédérale du 21 mars 2003 sur l’énergie nucléaire[^36i-1].
+
+[^36i-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+
+## Chapitre 7 Voies de recours, droit disciplinaire et dispositions pénales****
 
 [^chap7-1]
 
-[^chap7-1]: Introduit par le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^chap7-1]: Introduit par le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 37
 
@@ -1053,19 +1139,22 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 <sup>2</sup> Le Conseil des EPF, les EPF et les établissements de recherche ont qualité pour recourir contre les décisions rendues sur recours s’ils ont statué dans la même cause à titre de première instance. Les assemblées des écoles ont qualité pour recourir si la décision attaquée a trait à leur participation.
 
-<sup>3</sup> Les décisions rendues par les EPF et par les établissements de recherche peuvent faire l’objet d’un recours auprès de la Commission de recours interne des EPF. Sont exceptées les décisions relevant de la loi du 14 mars 1958 sur la responsabilité[^37-2].[^37-3]
+<sup>2bis</sup> Les EPF et les établissements de recherche n’ont pas qualité pour recourir contre les décisions du Conseil des EPF prises en vertu des art. 25, al. 1, let. e et 33*a*, al. 3.[^37-2]
+
+<sup>3</sup> Les décisions rendues par les EPF et par les établissements de recherche peuvent faire l’objet d’un recours auprès de la Commission de recours interne des EPF. Sont exceptées les décisions relevant de la loi du 14 mars 1958 sur la responsabilité[^37-3].[^37-4]
 
 <sup>4</sup> Le grief de l’inopportunité ne peut être invoqué en cas de recours contre des décisions portant sur les résultats d’examens et de promotions.
 
 [^37-1]: Nouvelle teneur selon le ch. 36 de l’annexe à la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^37-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^37-3]: Nouvelle teneur selon le ch. II al. 2 de la LF du 25 sept. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [FF 2009 419](https://fedlex.data.admin.ch/eli/fga/2009/60)).
+[^37-2]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^37-4]: Nouvelle teneur selon le ch. II al. 2 de la LF du 25 sept. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [FF 2009 419](https://fedlex.data.admin.ch/eli/fga/2009/60)).
 
 #### Art. 37a
 
 **Commission de recours interne des EPF**[^37a-1]
 
-<sup>1</sup> Le Conseil des EPF nomme les sept membres de la Commission de recours interne des EPF. Au moins quatre de ces membres doivent faire partie du domaine des EPF.
+<sup>1</sup> Le Conseil fédéral nomme les sept membres de la Commission de recours interne des EPF.[^37a-2] Au moins quatre de ces membres doivent faire partie du domaine des EPF.
 
 <sup>2</sup> La durée de fonction est de quatre ans, le mandat étant renouvelable.
 
@@ -1073,9 +1162,33 @@ Les EPF édictent des dispositions d’exécution concernant les éléments suiv
 
 <sup>4</sup> La commission est rattachée administrativement au Conseil des EPF. Elle possède son propre secrétariat.
 
-<sup>5</sup> Le Conseil des EPF édicte le règlement de la commission. Il y règle notamment les compétences du président en cas d’urgence ou dans les cas d’importance secondaire ainsi que la création de chambres munies d’un pouvoir de décision indépendant.
+<sup>5</sup> Le Conseil fédéral édicte le règlement de la commission.[^37a-3] Il y règle notamment les compétences du président en cas d’urgence ou dans les cas d’importance secondaire ainsi que la création de chambres munies d’un pouvoir de décision indépendant.
 
 [^37a-1]: Introduit par le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [FF 2002 3251](https://fedlex.data.admin.ch/eli/fga/2002/491)).
+[^37a-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+[^37a-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
+
+#### Art. 37b
+
+**Droit disciplinaire**[^37b-1]
+
+<sup>1</sup> Les EPF et les établissements de recherche peuvent prononcer des mesures disciplinaires à l’encontre des étudiants, des auditeurs et des doctorants.
+
+<sup>2</sup> Ils édictent par voie d’ordonnance les dispositions relatives aux infractions disciplinaires, aux mesures disciplinaires et à la procédure.
+
+<sup>3</sup>
+
+En cas d’infraction grave ou répétée, peuvent être prononcées les mesures disciplinaires suivantes:
+
+- a. l’exclusion temporaire de certains cours, examens ou infrastructures;
+- b. la non-admission à un cycle d’études;
+- c. l’exclusion temporaire de l’EPF ou de l’établissement de recherche;
+- d. l’exclusion définitive de l’EPF ou de l’établissement de recherche;
+- e. le retrait du titre académique lorsque celui-ci a été obtenu de manière illicite à la suite d’une infraction disciplinaire.
+
+<sup>4</sup> Dans des cas particuliers et sur demande écrite, les EPF et les établissements de recherche peuvent s’informer mutuellement sur les infractions disciplinaires graves.
+
+[^37b-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 603](https://fedlex.data.admin.ch/eli/oc/2021/603); [FF 2020 697](https://fedlex.data.admin.ch/eli/fga/2020/69)).
 
 #### Art. 38
 
@@ -1134,8 +1247,8 @@ Est puni de l’amende quiconque:
 Sont abrogés:
 
 - 1\. la loi fédérale du 7 février 1854 sur la création d’une école polytechnique suisse[^40-subdivu1-1];
-- 2\. la loi fédérale du 11 décembre 1964 concernant la compétence de fixer les prestations de la Confédération aux anciens professeurs de l’Ecole polytechnique fédérale et à leurs survivants[^40-subdivu1-2];
-- 3\. les arrêtés fédéraux des 24 juin 1970[^40-subdivu1-3], 20 juin 1975[^40-subdivu1-4], 21 mars 1980[^40-subdivu1-5] et 26 juin 1985[^40-subdivu1-6] sur les Ecoles polytechniques fédérales (Réglementation transitoire).
+- 2\. la loi fédérale du 11 décembre 1964 concernant la compétence de fixer les prestations de la Confédération aux anciens professeurs de l’École polytechnique fédérale et à leurs survivants[^40-subdivu1-2];
+- 3\. les arrêtés fédéraux des 24 juin 1970[^40-subdivu1-3], 20 juin 1975[^40-subdivu1-4], 21 mars 1980[^40-subdivu1-5] et 26 juin 1985[^40-subdivu1-6] sur les Écoles polytechniques fédérales (Réglementation transitoire).
 
 <sup>2</sup> Les lois mentionnées ci-après sont modifiées comme suit:
 
