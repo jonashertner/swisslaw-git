@@ -3,20 +3,20 @@ canton: SO
 number: "122.218"
 title: Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 language: de
-version: 2021-05-01
-valid_until: 2021-10-31
-version_adopted: 2021-02-23
+version: 2021-11-01
+valid_until: 2021-12-31
+version_adopted: 2021-08-24
 adopted: 2004-05-25
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.218"
-pdf: "https://bgs.so.ch/api/de/versions/5078/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5130/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 
-Vom 25.05.2004 (Stand 01.05.2021)
+Vom 25.05.2004 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -211,7 +211,7 @@ beschliesst:
 - o) …
 - p) vom Chef oder von der Chefin Amt für Justizvollzug
   - 1\. die dem Departementssekretär oder der Departementssekretärin im Amtsbereich zugewiesenen Verrichtungen;
-  - 2\. Verfügungen und Entscheide in Anwendung von § 6 Absatz 1 und Absatz 2 Buchstabe b - d des Justizvollzugsgesetzes[^4-4];
+  - 2\. Entscheide in Anwendung von § 6 Absatz 2 Buchstabe c des Justizvollzugsgesetzes[^4-4];
   - 3\. die den einzelnen Leitern oder Leiterinnen der Abteilungen des Amtes zugewiesenen Verrichtungen.
 - q) von der Leitung der Justizvollzugsanstalt Solothurn, von der Leitung der Untersuchungsgefängnisse oder vom Abteilungleiter oder von der Abteilungsleiterin Bewährungshilfe:
   - 1\. Strafanträge wegen Sachbeschädigung.
@@ -277,7 +277,7 @@ beschliesst:
   - 1\. Verfügungen zur Rückforderung der unentgeltlichen Rechtspflege.
 - f) vom Amtsschreiberei-Inspektor oder der Amtsschreiberei-Inspektorin
   - 1\. die Verzichtserklärung, gegen die Erteilung von Bewilligungen der kantonalen Bewilligungsbehörde gemäss Artikel 83 Absatz 3 Bundesgesetz über das bäuerliche Bodenrecht[^6-1] beim Verwaltungsgericht Beschwerde zu erheben.
-- g) vom Chef oder von der Chefin oder vom Leiter oder von der Leiterin der Abteilung Personaldienste des Personalamts
+- g) vom Chef oder von der Chefin oder vom Leiter oder von der Leiterin der Abteilung Rechtsdienst/Versicherungen des Personalamts
   - 1\. Verfügungen im Zusammenhang mit Anstellungsverhältnissen.
 
 [^6-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de).
