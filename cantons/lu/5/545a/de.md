@@ -3,20 +3,20 @@ canton: LU
 number: 545a
 title: Studien- und Prüfungsordnung der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
 language: de
-version: 2020-04-01
-valid_until: 2021-10-31
-version_adopted: 2020-03-25
+version: 2021-11-01
+valid_until: 2022-07-31
+version_adopted: 2021-10-20
 adopted: 2018-01-24
 in_force: 2018-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/545a"
-pdf: "https://srl.lu.ch/api/de/versions/3566/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3843/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studien- und Prüfungsordnung der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
 
-vom 24.01.2018 (Stand 01.04.2020)
+vom 24.01.2018 (Stand 01.11.2021)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -193,7 +193,9 @@ beschliesst:
 
 <sup>1</sup> Bachelor- und Masterarbeiten sind bestanden, wenn sie mindestens mit der Note 4 bewertet wurden.
 
-<sup>2</sup> Bachelor- und Masterarbeiten können höchstens einmal wiederholt werden.
+<sup>2</sup> Als ungenügend beurteilte Bachelor- und Masterarbeiten können höchstens einmal wiederholt werden.
+
+<sup>3</sup> Die Betreuerin bzw. der Betreuer beurteilt, ob die ungenügende Arbeit überarbeitet werden kann oder ob eine Arbeit mit einem neuen Thema zu verfassen ist. Ein ungenügender erster Versuch der Arbeit wird im Leistungsnachweis als Fehlversuch aufgeführt, die Credits werden nicht als Fehlversuch-Credits gezählt. Ausgenommen sind Fälle von Plagiat oder Ghostwriting nach § 38 Absatz 1<sup>bis</sup>. Die Abgabe der überarbeiteten beziehungsweise der neuen Arbeit erfolgt auf die nächste reguläre Frist. Eine erneut ungenügende Beurteilung hat das endgültige Nichtbestehen der Bachelor- beziehungsweise der Masterarbeit und den Studienausschluss zur Folge (vgl. § 35 Abs. 2).
 
 #### § 18
 
@@ -232,7 +234,7 @@ beschliesst:
 
 - a. Vorlesung (3 Credits),
 - b. Vorlesung mit Übung (6 Credits),
-- c. Seminarveranstaltungen (3-4,5 Credits).
+- c. Seminarveranstaltungen (3-6 Credits).
 
 <sup>3</sup> Für die obligatorische schriftliche Semesterarbeit im Bachelorstudium werden 10 Credits vergeben, die Bachelorarbeit umfasst 20 Credits, die Masterarbeit 18 Credits.
 
@@ -389,13 +391,15 @@ beschliesst:
 
 <sup>1</sup> Zur Annahme einer schriftlichen Arbeit muss mindestens die Note 4 erzielt werden.
 
-<sup>2</sup> Eine als ungenügend beurteilte schriftliche Arbeit kann innerhalb von drei Monaten nach Notenbekanntgabe überarbeitet und erneut eingereicht werden. Wird die überarbeitete Fassung erneut als ungenügend bewertet, ist die Arbeit endgültig abgelehnt und zählt als Fehlversuch. Es ist eine Arbeit mit einem neuen Thema zu verfassen. Abschlussarbeiten unterliegen einer eigenen Regelung.
+<sup>2</sup> Eine als ungenügend beurteilte schriftliche Arbeit kann innerhalb von drei Monaten nach Notenbekanntgabe überarbeitet und erneut eingereicht werden. Ausgenommen sind Fälle von Plagiat oder Ghostwriting gemäss § 38 Absatz 1<sup>bis</sup>. Wird die überarbeitete Fassung erneut als ungenügend bewertet, ist die Arbeit endgültig abgelehnt und zählt als Fehlversuch. Es ist eine Arbeit mit einem neuen Thema zu verfassen. Abschlussarbeiten unterliegen einer eigenen Regelung (vgl. § 17).
 
 #### § 38
 
 **Plagiate und Ghostwriting**
 
 <sup>1</sup> Wird eine Studienleistung nicht in allen Teilen selbstständig erbracht, oder werden verwendete kreative Leistungen Dritter nicht oder nicht ausreichend kenntlich gemacht, wird sie als nicht bestanden und mit der Note 1 bewertet.
+
+<sup>1<sup>bis</sup></sup> Liegt bei einer schriftlichen Arbeit ein Plagiat oder Ghostwriting vor, zählt die Arbeit direkt als Fehlversuch und die Credits werden als Fehlversuch-Credits verbucht.
 
 <sup>2</sup> Bei wiederholter Unkorrektheit oder schwerer Zuwiderhandlung wird die Kandidatin oder der Kandidat von der betreffenden Studienrichtung oder den betreffenden Studienrichtungen endgültig ausgeschlossen.
 
@@ -418,6 +422,8 @@ beschliesst:
 <sup>1</sup> Die Abschlussnote des Bachelor- bzw. Masterstudiums wird als nach Credits gewichteter Durchschnitt aller benoteten Studienleistungen berechnet. Die Berechnung des Notenschnitts erfolgt exakt, das Ergebnis wird auf zwei Nachkommastellen gerundet.
 
 <sup>2</sup> Sind extern erbrachte Studienleistungen anzurechnen, legt die bzw. der Studiendelegierte die Zusammensetzung der Gesamtnote fest.
+
+<sup>3</sup> Während des Masterstudiums absolvierte, benotete Auflagen fliessen in die Berechnung der Gesamtnote des Masterstudiums ein. Studienleistungen aus der Mastervorbereitungsstufe (Zulassung zum Master mit Bedingungen) werden bei der Berechnung der Gesamtnote nicht berücksichtigt.
 
 #### § 41
 
@@ -443,13 +449,13 @@ beschliesst:
 
 #### § 43
 
-**Abschlusszeugnisse und Zeugniszusatz**
+**Abschlusszeugnis**
 
 <sup>1</sup> Studierende anderer Fakultäten und Universitäten erhalten beim erfolgreichen Abschluss eines Nebenfachs an der Fakultät ein Abschlusszeugnis.
 
 <sup>2</sup> Das Abschlusszeugnis enthält die Bezeichnung des Faches und die Gesamtnote und wird von der Dekanin oder dem Dekan unterzeichnet.
 
-<sup>3</sup> Mit dem Abschlusszeugnis erhält die Absolventin oder der Absolvent einen Zeugniszusatz ausgestellt. Dieser enthält detaillierte Angaben zum absolvierten Studium und zu erzielten Einzelbewertungen der Studienleistungen.
+<sup>3</sup> …
 
 ## 10 Schlussbestimmungen
 
