@@ -3,18 +3,18 @@ canton: ZH
 number: "414.253.325"
 title: "Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-nachtrag: "74"
-valid_until: 2021-11-01
+nachtrag: "115"
+valid_until: 2023-01-01
 adopted: 2021-05-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_325-2011_03_24-2011_09_01-074.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_325-2021_05_05-2021_11_01-115.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Studienordnung für den Masterstudiengang Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften
+# Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften
 
-(vom 24. März 2011)[^t-1],[^t-2]
+(vom 5. Mai 2021)[^t-1],[^t-2]
 
 Die Hochschulleitung,
 
@@ -22,8 +22,8 @@ gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudieng�
 
 beschliesst:
 
-[^t-1]: OS 66, 433; Begründung siehe ABl 2011, 1700. Vom Fachhochschulrat genehmigt am 24. Mai 2011.
-[^t-2]: Inkrafttreten: 1. September 2011.
+[^t-1]: OS 76, 379; Begründung siehe ABl 2021-07-23.
+[^t-2]: Inkrafttreten: 1. November 2021.
 [^t-3]: LS 414.252.3.
 
 ### A. Allgemeine Bestimmungen
@@ -34,7 +34,7 @@ beschliesst:
 
 **Gegenstand**
 
-Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der ZHAW vom 29. Januar 2008 (RPO)[^hAAllgemeineBestim-1] den Masterstudiengang Facility Management.
+Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der ZHAW vom 29. Januar 2008 (RPO)[^hAAllgemeineBestim-1] den Masterstudiengang Real Estate & Facility Management des Departements Life Sciences und Facility Management.
 
 #### § 2
 
@@ -44,63 +44,55 @@ Einzelheiten zum Studiengang, insbesondere zu den zu belegenden Modulen, werden 
 
 #### § 3
 
-**Studienformen**
+**Studienform und Umfang**
 
-<sup>1</sup> Das Masterstudium wird als Vollzeit- und als Teilzeitstudium geführt.
+<sup>1</sup> Der Masterstudiengang kann als Vollzeit- und als Teilzeitstudium angeboten werden.
 
-<sup>2</sup> Der Regelstudienverlauf entspricht dem Vollzeitstudium.
-
-<sup>3</sup> Studierende im Teilzeitstudium legen die Abfolge der Module und die Belegung pro Semester im Rahmen des Angebots fest.
-
-<sup>4</sup> Ein Wechsel vom Vollzeit- ins Teilzeitstudium und umgekehrt ist schriftlich bei der Studiengangleitung zu beantragen.
+<sup>2</sup> Der Studiengang umfasst Studienleistungen von 90 ECTS-Credits.
 
 #### § 4
 
-**Studiendauer**
+**Vertiefungen**
 
-Das Vollzeitstudium dauert drei Semester und umfasst 90 Credits. Im Teilzeitstudium verlängert sich die Studiendauer entsprechend.
+Der Studiengang kann in den folgenden Vertiefungen angeboten werden:
+
+- a. Digitalisation & Sustainability,
+
+- b. Economics & Finance,
+
+- c. Strategic Real Estate & Facility Management.
 
 #### § 5
 
-**Anrechnung von Credits**
+**Anrechnung von ECTS-Credits**
 
-<sup>1</sup> An der ZHAW oder andernorts erworbene Credits werden während zehn Jahren ab dem Semester ihres Erwerbs angerechnet.
+<sup>1</sup> An der ZHAW oder andernorts erworbene ECTS-Credits werden während zehn Jahren ab dem Semester ihres Erwerbs angerechnet.
 
-<sup>2</sup> Die Studienleitung entscheidet über Ausnahmen.
+<sup>2</sup> Die Studiengangleitung entscheidet über Ausnahmen.
 
 #### § 6
 
-**Überzählige Credits**
+**Unterrichtssprache**
 
-Überzählige Credits werden nicht berücksichtigt.
+Die Module werden in deutscher oder englischer Sprache durchgeführt.
 
 **1**
 
-- 1\. 10. 11 - 74 § 7. Unterrichtssprache ist in der Regel Englisch. Die Masterarbeit und weitere Leistungsnachweise können nach Absprache mit den Dozierenden und der Studiengangleitung sowohl in Deutsch als auch in Englisch verfasst werden.
-
-**Unterrichtssprache**
+- 1\. 1. 22 - 115
 
 ### B. Zulassung zum Studium
 
-#### § 8
+#### § 7
 
 **Voraussetzungen**
 
-<sup>1</sup> Bewerberinnen und Bewerber werden zum Studium zugelassen, wenn sie folgende Voraussetzungen erfüllen:
+Zum Masterstudium wird zugelassen, wer über einen Bachelorabschluss von 180 ECTS-Credits oder über einen gleichwertigen Hochschulabschluss im Fachbereich Facility Management, Immobilienmanagement oder Betriebsökonomie oder in einem verwandten Gebiet verfügt sowie die Eignungsabklärung besteht.
 
-- a. Bachelorabschluss in Facility Management mit einer Gesamtbewertung von mindestens «gut» (Note 5.00 oder gleichwertig),
-
-- b. Bachelorabschluss in Hospitality Management, Betriebsökonomie, Bauingenieurwesen, Gebäudetechnik oder Architektur mit einer Gesamtbewertung von mindestens «gut» (Note 5.00 oder gleichwertig).
-
-<sup>2</sup> Bewerberinnen und Bewerber gemäss Abs. 1 müssen ausserdem die Eignungsabklärung erfolgreich absolvieren.
-
-<sup>3</sup> Bewerberinnen und Bewerber, die über einen andern Hochschulabschluss mit einer Gesamtbewertung von mindestens «gut» (Note 5.00 oder gleichwertig) verfügen, können die Zulassung zur Eignungsabklärung beantragen. Die Studiengangleitung entscheidet über die Zulassung zur Eignungsabklärung.
-
-#### § 9
+#### § 8
 
 **Eignungsabklärung a. Allgemein**
 
-<sup>1</sup> Die ZHAW führt für Bewerberinnen und Bewerber, die die Zulassungsvoraussetzungen gemäss § 8 erfüllen, ein Verfahren zur Eignungsabklärung durch.
+<sup>1</sup> Die ZHAW führt für Bewerberinnen und Bewerber, welche die Zulassungsvoraussetzungen gemäss § 7 erfüllen, ein Verfahren zur Eignungsabklärung durch.
 
 <sup>2</sup> In der Eignungsabklärung werden folgende Fähigkeiten überprüft:
 
@@ -110,43 +102,47 @@ Das Vollzeitstudium dauert drei Semester und umfasst 90 Credits. Im Teilzeitstud
 
 - c. Sozialkompetenz,
 
-- d. Sprachkompetenz in Englisch.
+- d. Sprachkompetenz in Deutsch und Englisch.
 
-<sup>3</sup> Aufgrund der Ergebnisse der Eignungsabklärung können Kompetenznachweise eingefordert oder Ergänzungsleistungen verlangt werden, die spätestens im Verlauf des ersten Semesters des Masterstudiums erbracht werden müssen.
+<sup>3</sup> Die Einzelheiten zu Inhalt, Bewertung und Ablauf der Eignungsabklärung werden im Anhang geregelt.
 
-<sup>4</sup> Bewerberinnen und Bewerber haben die Eignungsabklärung bestanden, wenn die Kriterien gemäss Abs. 2 lit. a–d als erfüllt beurteilt werden und allfällige Kompetenznachweise oder Ergänzungsleistungen gemäss Abs. 3 bestanden sind.
+<sup>4</sup> Die Studiengangleitung entscheidet über die Zulassung.
+
+#### § 9
+
+**b. Auflagen**
+
+Für Bewerberinnen und Bewerber, welche die Zulassungsbedingungen nicht vollständig erfüllen, kann die Studiengangleitung zusätzliche Auflagen in der Form von abgestimmten Kompetenznachweisen oder Ergänzungsleistungen von höchstens 25 ECTS-Credits vorsehen. Diese müssen spätestens im Verlauf des ersten Semesters des Masterstudiums erbracht werden.
 
 #### § 10
 
-**b. Erweiterte Eignungsabklärung**
-
-<sup>1</sup> Bewerberinnen und Bewerber mit Hochschulabschluss, welche die Aufnahmebedingungen gemäss § 8 Abs. 1 oder Abs. 3 nicht vollständig, aber weitgehend erfüllen, können in einer erweiterten Eignungsabklärung ihre Kompetenz nachweisen.
-
-<sup>2</sup> Die erweiterte Eignungsabklärung beinhaltet die Eignungsabklärung gemäss § 9 Abs. 2.
-
-<sup>3</sup> Die Art und Anzahl der darüber hinaus zu erbringenden Kompetenznachweise richtet sich nach der Vorbildung der Kandidatinnen und Kandidaten. Einzelheiten sind im Anhang geregelt.
-
-#### § 11
-
 **c. Gültigkeit und Wiederholung**
 
-<sup>1</sup> Eine bestandene Eignungsabklärung oder eine bestandene erweiterte Eignungsabklärung ist für den Studienbeginn im Jahr der Eignungsabklärung und für den Studienbeginn im darauf folgenden Jahr gültig.
+<sup>1</sup> Eine bestandene Eignungsabklärung ist für den Studienbeginn im Jahr der Eignungsabklärung und für den Studienbeginn im darauffolgenden Jahr gültig.
 
-<sup>2</sup> Die Eignungsabklärung oder die erweiterte Eignungsabklärung kann einmal wiederholt werden.
+<sup>2</sup> Die Eignungsabklärung kann einmal wiederholt werden.
 
 ### C. Prüfungen und andere Leistungsnachweise
 
-#### § 12
+#### § 11
 
 **Expertinnen und Experten**
 
 <sup>1</sup> Mündliche Leistungsnachweise finden unter Beizug von Expertinnen und Experten statt.
 
-<sup>2</sup> Die Expertinnen und Experten haben Beisitzfunktion und führen ein Stichwortprotokoll. Sie achten auf die korrekte Durchführung der Prüfung.
+<sup>2</sup> Die Expertinnen und Experten haben Beisitzfunktion und achten auf die korrekte Durchführung der Prüfung.
 
 <sup>3</sup> Die Benotung erfolgt einvernehmlich mit den prüfenden Dozierenden.
 
 <sup>4</sup> Kommt keine Einigung zustande, steht der Stichentscheid der prüfenden Dozentin oder dem prüfenden Dozenten zu.
+
+#### § 12
+
+**Nachbesserung**
+
+<sup>1</sup> Für Leistungsnachweise in der Form einer schriftlichen Arbeit kann eine Nachbesserung erbracht werden, wenn a. der Leistungsnachweis mit einer Note zwischen 3,5 und 3,9 oder mit dem Prädikat «nicht bestanden (Nachbesserung möglich)» bewertet wurde und b. die Modulbeschreibung die Möglichkeit einer Nachbesserung vorsieht.
+
+<sup>2</sup> Eine erfolgreiche Nachbesserung wird mit der Note 4,0 oder dem Prädikat «bestanden» bewertet.
 
 #### § 13
 
@@ -156,40 +152,62 @@ Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen
 
 #### § 14
 
-**Masterarbeit a. Allgemein**
+**Masterarbeit**
 
 <sup>1</sup> Die Masterarbeit ist eine Einzelarbeit. Sie besteht aus einem schriftlichen und einem mündlichen Teil.
 
-<sup>2</sup> Mit der Masterarbeit kann begonnen werden, wenn 30 Credits erreicht sind. Über Ausnahmen entscheidet die Studiengangleitung.
+<sup>2</sup> Mit der Masterarbeit kann begonnen werden, wenn 30 ECTS-Credits erreicht sind. Über Ausnahmen entscheidet die Studiengangleitung.
 
-<sup>3</sup> Die Masterarbeit kann sich über zwei Semester erstrecken.
-
-**3**
-
-- 1\. 10. 11 - 74 § 15. <sup>1</sup> Eine ungenügende Masterarbeit kann einmal nachgebessert werden, wenn die Gesamtbewertung der Masterarbeit zwischen 3.50 und 3.99 liegt. Eine erfolgreiche Nachbesserung wird mit der Note 4.00 bewertet.
-
-**b. Nachbesserung**
-
-<sup>2</sup> Ist die Nachbesserung nicht erfolgreich, kann die Masterarbeit einmal wiederholt werden.
+<sup>3</sup> Die Masterarbeit kann sich über zwei Semester erstrecken. Über Ausnahmen entscheidet die Studiengangleitung.
 
 ### D. Studienabschluss und Masterdiplom
 
-#### § 16
+**Bestehensvoraussetzungen**
 
-**Titel**
+- 15\. Der Mastertitel wird vergeben, wenn
 
-Das Masterstudium wird mit dem Titel «Master of Science ZFH in Facility Management» abgeschlossen.
-
-#### § 17
-
-**Abschluss des Studiums**
-
-Der Mastertitel wird vergeben, wenn a. in den geforderten Modulen 90 Credits erworben sind,
+- a. in den geforderten Modulen 90 ECTS-Credits erworben sind,
 
 - b. die Masterarbeit bestanden ist.
 
-#### § 18
-
 **Abschlussnote**
 
-Die Abschlussnote errechnet sich aus dem Durchschnitt sämtlicher Modulnoten. Die Modulnoten werden nach Credits gewichtet.
+- 16\. <sup>1</sup> Die Abschlussnote errechnet sich aus dem Durchschnitt der Modulnoten aller besuchten oder angerechneten Pflicht- und Wahlpflichtmodule gemäss Anhang.
+
+<sup>2</sup> Die Modulnoten werden nach der Anzahl der ECTS-Credits eines Moduls gewichtet.
+
+#### § 17
+
+**Titel**
+
+Der Masterstudiengang wird mit dem Titel «Master of Science ZFH in Real Estate & Facility Management mit Vertiefung in [gewählten Vertiefungsrichtung]» abgeschlossen.
+
+**3**
+
+- 1\. 1. 22 - 115
+
+### E. Schlussbestimmung
+
+#### § 18
+
+**Schlussbestimmung**
+
+Diese Studienordnung ersetzt die Studienordnung für den Masterstudiengang Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften vom 24. März 2011.
+
+#### § 19
+
+**Übergangsbestimmung**
+
+Studierende, die ihr Studium unter der Studienordnung vom 24. März 2011 aufgenommen und dieses bis Ende Herbstsemester 2022/ 2023 nicht abgeschlossen haben, werden in die Studienordnung vom 5. Mai 2021 überführt.
+
+### Anhang zur Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften
+
+Der Anhang zur Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
+
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+
+bezogen oder unter www.zhaw.ch eingesehen werden.
+
+**5**
+
+- 1\. 1. 22 - 115
