@@ -3,20 +3,19 @@ canton: BE
 number: "439.182.8"
 title: Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen
 language: de
-version: 2011-08-01
-valid_until: 2021-10-31
-version_adopted: 2011-03-30
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 2011-03-30
 in_force: 2011-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.182.8"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/430/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2368/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen
 
-vom 30.03.2011 (Stand 01.08.2011)
+vom 30.03.2011 (Stand 01.11.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -40,7 +39,7 @@ beschliesst:
 
 #### Art. 4
 
-<sup>1</sup> Die zuständige Stelle der Erziehungsdirektion wird ermächtigt, den Kanton in der Konferenz der Vereinbarungskantone gemäss Artikel 20 zu vertreten. Beschlüsse gemäss Artikel 20 Absatz 1 Buchstabe a müssen vorgängig dem Regierungsrat zur Genehmigung unterbreitet werden, wenn sie die Höchstansätze des Kantons übersteigen.
+<sup>1</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion wird ermächtigt, den Kanton in der Konferenz der Vereinbarungskantone gemäss Artikel 20 zu vertreten. Beschlüsse gemäss Artikel 20 Absatz 1 Buchstabe a müssen vorgängig dem Regierungsrat zur Genehmigung unterbreitet werden, wenn sie die Höchstansätze des Kantons übersteigen.
 
 #### Art. 5
 

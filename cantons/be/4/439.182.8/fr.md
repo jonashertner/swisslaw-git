@@ -3,20 +3,19 @@ canton: BE
 number: "439.182.8"
 title: "Arrêté du Grand Conseil concernant l'adhésion à l'Accord intercantonal sur l'harmonisation des régimes de bourses d'études"
 language: fr
-version: 2011-08-01
-valid_until: 2021-10-31
-version_adopted: 2011-03-30
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 2011-03-30
 in_force: 2011-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.182.8"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/430/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2368/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Arrêté du Grand Conseil concernant l'adhésion à l'Accord intercantonal sur l'harmonisation des régimes de bourses d'études
 
-du 30.03.2011 (état au 01.08.2011)
+du 30.03.2011 (état au 01.11.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -42,7 +41,7 @@ arrête:
 
 #### Art. 4
 
-<sup>1</sup> Le service compétent de la Direction de l'instruction publique est habilité à représenter le canton à la Conférence des cantons signataires conformément à l'article 20. Les décisions fondées sur l'article 20, alinéa 1, lettre a sont auparavant soumises à l'approbation du Conseil-exécutif lorsqu'elles impliquent le dépassement des plafonds fixés par le canton.
+<sup>1</sup> Le service compétent de la Direction de l'instruction publique et de la culture est habilité à représenter le canton à la Conférence des cantons signataires conformément à l'article 20. Les décisions fondées sur l'article 20, alinéa 1, lettre a sont auparavant soumises à l'approbation du Conseil-exécutif lorsqu'elles impliquent le dépassement des plafonds fixés par le canton.
 
 #### Art. 5
 
