@@ -4,13 +4,12 @@ number: "172.510"
 title: Gebührenverordnung
 short: GebV
 language: de
-version: 2020-01-01
-valid_until: 2021-10-31
-version_adopted: 2019-06-24
+version: 2021-11-01
+version_adopted: 2021-10-25
 adopted: 2019-06-24
 in_force: 2020-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.510"
-pdf: "https://ai.clex.ch/api/de/versions/1707/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1965/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1707/pdf_file"
 
 (GebV)
 
-vom 24.06.2019 (Stand 01.01.2020)
+vom 24.06.2019 (Stand 01.11.2021)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.
 
@@ -207,7 +206,7 @@ beschliesst:
 
 **Grundbuch**
 
-<sup>1</sup> Für Grundbuchauszüge und Bescheinigungen des Grundbuchamts betragen die Gebühren 20.-- bis 600.--.
+<sup>1</sup> Für Grundbuchauszüge und Bescheinigungen der für das Grundbuch zuständigen Stelle betragen die Gebühren 20.-- bis 600.--.
 
 #### Art. 20
 
