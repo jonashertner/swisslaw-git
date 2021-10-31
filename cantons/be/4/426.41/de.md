@@ -4,13 +4,12 @@ number: "426.41"
 title: Gesetz über die Denkmalpflege
 short: "Denkmalpflegegesetz, DPG"
 language: de
-version: 2009-09-01
-valid_until: 2021-10-31
-version_adopted: 2009-01-28
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 1999-09-08
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/426.41"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/324/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2362/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/324/pdf_file"
 
 (Denkmalpflegegesetz, DPG)
 
-vom 08.09.1999 (Stand 01.09.2009)
+vom 08.09.1999 (Stand 01.11.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -397,7 +396,7 @@ beschliesst:
 
 <sup>1</sup> Die kantonale Gesetzgebung bezeichnet die für die Denkmalpflege zuständigen Stellen des Kantons und der Gemeinden.
 
-<sup>2</sup> Auf Gesuch hin kann die Erziehungsdirektion Gemeinden mit einer eigenen, geeigneten Fachstelle für Denkmalpflege Aufgaben und Befugnisse aus diesem Gesetz mit Ausnahme der Befugnisse gemäss Artikel 15 übertragen. Diese Verfügung unterliegt der Beschwerde an den Regierungsrat.
+<sup>2</sup> Auf Gesuch hin kann die Bildungs- und Kulturdirektion Gemeinden mit einer eigenen, geeigneten Fachstelle für Denkmalpflege Aufgaben und Befugnisse aus diesem Gesetz mit Ausnahme der Befugnisse gemäss Artikel 15 übertragen. Diese Verfügung unterliegt der Beschwerde an den Regierungsrat.
 
 <sup>3</sup> Der Regierungsrat kann durch Verordnung beratende Kommissionen einsetzen.
 

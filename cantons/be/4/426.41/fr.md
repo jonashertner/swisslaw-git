@@ -4,13 +4,12 @@ number: "426.41"
 title: Loi sur la protection du patrimoine
 short: LPat
 language: fr
-version: 2009-09-01
-valid_until: 2021-10-31
-version_adopted: 2009-01-28
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 1999-09-08
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/426.41"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/324/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2362/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/324/pdf_file"
 
 (LPat)
 
-du 08.09.1999 (état au 01.09.2009)
+du 08.09.1999 (état au 01.11.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -397,7 +396,7 @@ arrête:
 
 <sup>1</sup> La législation cantonale désigne les services compétents du canton et des communes pour la protection du patrimoine
 
-<sup>2</sup> Sur demande, la Direction de l'instruction publique peut déléguer aux communes possédant leur propre service de protection du patrimoine des tâches et des attributions prévues par la présente loi, à l'exception de celles visées à l'article 15, pour autant que ledit service dispose des capacités nécessaires. Sa décision peut faire l'objet d'un recours auprès du Conseil-exécutif.
+<sup>2</sup> Sur demande, la Direction de l'instruction publique et de la culture peut déléguer aux communes possédant leur propre service de protection du patrimoine des tâches et des attributions prévues par la présente loi, à l'exception de celles visées à l'article 15, pour autant que ledit service dispose des capacités nécessaires. Sa décision peut faire l'objet d'un recours auprès du Conseil-exécutif.
 
 <sup>3</sup> Le Conseil-exécutif peut instituer des commissions consultatives par voie d'ordonnance.
 
