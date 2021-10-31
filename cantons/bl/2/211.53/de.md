@@ -4,13 +4,12 @@ number: "211.53"
 title: Kantonale Verordnung über die amtliche Vermessung
 short: KVAV
 language: de
-version: 2018-01-01
-valid_until: 2021-10-31
-version_adopted: 2017-12-12
+version: 2021-11-01
+version_adopted: 2021-10-26
 adopted: 2012-06-12
 in_force: 2012-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.53"
-pdf: "https://bl.clex.ch/api/de/versions/2605/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3123/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2605/pdf_file"
 
 (KVAV)
 
-Vom 12.06.2012 (Stand 01.01.2018)
+Vom 12.06.2012 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -381,7 +380,7 @@ beschliesst:
   - 1\. die Eidgenössischen Gebäudeidentifikatoren (EGID) unter der Abgabe einer Kopie des Situationsplanes mit eingezeichnetem projektierten Gebäude nach erteilter Baubewilligung;
   - 2\. den Erledigungsstatus des durch das Bauinspektorat archivierte Baugesuchs;
   - 3\. die von der Eidgenössischen Vermessungsdirektion festgelegten Änderungen an den Postleitzahlgebieten;
-  - 4\. die vom ARP zugestellten kommunalen Bau- und Strassenlinienpläne.
+  - 4\. die Eidgenössischen Gebäudeidentifikatoren (EGID) nach Ergänzung oder Änderung im kantonalen Gebäude- und Wohnungsregister.
 
 #### § 29
 
@@ -389,9 +388,9 @@ beschliesst:
 
 <sup>1</sup> Die Nachführungsgeometerin oder der Nachführungsgeometer führt die Daten wie folgt nach:
 
-- a. projektierte Gebäude innert 30 Tagen nach Erteilung der Baubewilligung;
+- a. projektierte Gebäude einschliesslich EGID innert 30 Tagen nach Erteilung der Baubewilligung;
 - b. bewilligungspflichtige bauliche Veränderungen innerhalb von 6 Monaten seit der ersten Meldung der GIS-Fachstelle oder der Gebäudeversicherung;
-- c. die Änderung von Gebäudeadressen innert 30 Tagen seit der Meldung durch die Gemeinde oder durch die GIS-Fachstelle;
+- c. die Änderung von Gebäudeadressen oder EGID innert 30 Tagen seit der Meldung durch die Gemeinde oder durch die GIS-Fachstelle;
 - d. von Bahnunternehmungen durchgeführte Nachführungen innert 30 Tagen nach Erhalt der Daten;
 - e. die übrigen Daten innerhalb von 6 Monaten seit der Meldung;
 - f. die Löschung von nicht gebauten projektierten Gebäuden innert 30 Tagen seit der Archivierung des Baugesuchs durch das Bauinspektorat.
