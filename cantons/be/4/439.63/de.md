@@ -3,20 +3,19 @@ canton: BE
 number: "439.63"
 title: Grossratsbeschluss betreffend die Genehmigung des Statuts der Interkantonalen Lehrmittelzentrale ilz (ilz-Statut)
 language: de
-version: 2014-01-01
-valid_until: 2021-10-31
-version_adopted: 2013-11-28
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 2013-11-28
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.63"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/513/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2369/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Grossratsbeschluss betreffend die Genehmigung des Statuts der Interkantonalen Lehrmittelzentrale ilz (ilz-Statut)
 
-vom 28.11.2013 (Stand 01.01.2014)
+vom 28.11.2013 (Stand 01.11.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -39,7 +38,7 @@ beschliesst:
 
 #### Art. 3
 
-<sup>1</sup> Der Kanton Bern wird in der Plenarversammlung der Mitgliederkantone durch die Erziehungsdirektorin oder den Erziehungsdirektor vertreten. Weitere Vertretungen, namentlich in der Konferenz der kantonalen Lehrmittelverantwortlichen, richten sich nach der Organisationsgesetzgebung.
+<sup>1</sup> Der Kanton Bern wird in der Plenarversammlung der Mitgliederkantone durch die Bildungs- und Kulturdirektorin oder den Bildungs- und Kulturdirektor vertreten. Weitere Vertretungen, namentlich in der Konferenz der kantonalen Lehrmittelverantwortlichen, richten sich nach der Organisationsgesetzgebung.
 
 #### Art. 4
 

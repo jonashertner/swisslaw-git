@@ -3,20 +3,19 @@ canton: BE
 number: "439.63"
 title: "Arrêté du Grand Conseil concernant l'approbation des statuts de l'Interkantonale Lehrmittelzentrale (Statuts de l'ilz)"
 language: fr
-version: 2014-01-01
-valid_until: 2021-10-31
-version_adopted: 2013-11-28
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 2013-11-28
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.63"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/513/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2369/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Arrêté du Grand Conseil concernant l'approbation des statuts de l'Interkantonale Lehrmittelzentrale (Statuts de l'ilz)
 
-du 28.11.2013 (état au 01.01.2014)
+du 28.11.2013 (état au 01.11.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -39,7 +38,7 @@ arrête:
 
 #### Art. 3
 
-<sup>1</sup> Le canton de Berne est représenté par le directeur ou la directrice de l'instruction publique à l'assemblée plénière des cantons membres. Les autres représentants et représentantes, notamment à la conférence des responsables cantonaux des moyens d'enseignement, sont désignés en vertu de la législation d'organisation.
+<sup>1</sup> Le canton de Berne est représenté par le directeur ou la directrice de l'instruction publique et de la culture à l'assemblée plénière des cantons membres. Les autres représentants et représentantes, notamment à la conférence des responsables cantonaux des moyens d'enseignement, sont désignés en vertu de la législation d'organisation.
 
 #### Art. 4
 
