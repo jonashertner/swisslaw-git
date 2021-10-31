@@ -4,13 +4,13 @@ number: "762.415"
 title: Verordnung über die Beiträge der Gemeinden an die Kosten des öffentlichen Verkehrs
 short: KBV
 language: de
-version: 2015-01-01
-valid_until: 2021-10-31
-version_adopted: 2014-10-29
+version: 2021-11-01
+valid_until: 2023-11-30
+version_adopted: 2021-09-22
 adopted: 1995-08-23
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/762.415"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/372/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2388/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/372/pdf_file"
 
 (KBV)
 
-vom 23.08.1995 (Stand 01.01.2015)
+vom 23.08.1995 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -56,15 +56,20 @@ beschliesst:
 
 **Berechnung des Verkehrsangebotes**
 
-<sup>1</sup> Das Verkehrsangebot einer Gemeinde bestimmt sich anhand der Anzahl Abfahrten von öffentlichen Verkehrsmitteln an anrechenbaren Haltestellen innerhalb des Gemeindegebietes. Massgebend für die Berechnung des Verkehrsangebotes einer Gemeinde sind die nach Verkehrsmitteln gewichteten Haltestellen-Abfahrten.
+<sup>1</sup> Das Verkehrsangebot einer Gemeinde bestimmt sich, mit Ausnahme des Nachtnetzes, anhand der Anzahl Abfahrten von öffentlichen Verkehrsmitteln an anrechenbaren Haltestellen innerhalb des Gemeindegebietes. Massgebend für die Berechnung des Verkehrsangebotes einer Gemeinde sind die nach Verkehrsmitteln gewichteten Haltestellen-Abfahrten.
 
-<sup>2</sup> Ausschliesslich touristische Linien, vereinbarte Zusatzleistungen gemäss Artikel 3 Absatz 2 des Gesetzes, Sonderlösungen mit zusätzlichen Betriebsbeiträgen (Art. 14 Abs. 1 AGV[^3-1]) und Versuchsbetriebe mit zusätzlichen Betriebsbeiträgen (Art. 15 Abs. 3 AGV) sowie Güterverkehr werden bei der Ermittlung des Verkehrsangebotes nicht berücksichtigt.
+<sup>1a</sup> Das Verkehrsangebot des Nachtnetzes bestimmt sich anhand der nach Verkehrsmitteln gewichteten Haltestellen-Ankünften.
 
-[^3-1]: BSG 762.412
+<sup>1b</sup> Als Nachtnetz gelten das Nachtangebot gemäss Artikel 5a Absatz 2 der Verordnung vom 10. September 1997 über das Angebot im öffentlichen Verkehr (Angebotsverordnung; AGV)[^3-1] und die entsprechenden Kurse des Fernverkehrs.
+
+<sup>2</sup> Ausschliesslich touristische Linien, vereinbarte Zusatzleistungen gemäss Artikel 3 Absatz 2 des Gesetzes über den öffentlichen Verkehr[^3-2], Sonderlösungen mit zusätzlichen Betriebsbeiträgen (Art. 14 Abs. 1 AGV) und Versuchsbetriebe mit zusätzlichen Betriebsbeiträgen (Art. 15 AGV) sowie Güterverkehr werden bei der Ermittlung des Verkehrsangebotes nicht berücksichtigt.
+
+[^3-1]: BSG [762.412](https://www.belex.sites.be.ch/data/762.412/de)
+[^3-2]: BSG [762.4](https://www.belex.sites.be.ch/data/762.4/de)
 
 #### Art. 3a
 
-**Anzahl Abfahrten**
+**Anzahl Abfahrten und Ankünfte**
 
 <sup>1</sup> Die Anzahl Abfahrten werden der Gemeinde wie folgt angerechnet:
 
@@ -72,11 +77,13 @@ beschliesst:
 - b Abfahrten von Kursen, die zwischen 122 und 244 Tagen pro Jahr verkehren, werden zur Hälfte angerechnet;
 - c Abfahrten von Kursen, die an mehr als 244 Tagen pro Jahr verkehren, werden vollständig angerechnet.
 
+<sup>2</sup> Die Anzahl Ankünfte des Nachtnetzes werden unabhängig von der Kursfrequenz vollständig angerechnet.
+
 #### Art. 4
 
 **Anrechenbare Haltestellen**
 
-<sup>1</sup> Haltestellen werden der Gemeinde wie folgt angerechnet:
+<sup>1</sup> Haltestellen werden der Gemeinde vorbehältlich Absatz 1a wie folgt angerechnet:
 
 - a Haltestellen mit unbedeutendem Fahrgastaufkommen und kleinem Nachfragepotenzial werden nicht angerechnet;
 - b Haltestellen mit unbedeutendem Fahrgastaufkommen oder kleinem Nachfragepotenzial werden zur Hälfte angerechnet;
@@ -84,17 +91,23 @@ beschliesst:
 - d Haltestellen, die einen Umweg zur Folge haben, werden vollständig angerechnet;
 - e alle übrigen Haltestellen werden vollständig angerechnet.
 
+<sup>1a</sup> Haltestellen des Nachtnetzes werden der Gemeinde wie folgt angerechnet:
+
+- a Haltestellen, die auch tagsüber angefahren werden, werden nach dem höchsten Wert gemäss Absatz 1 angerechnet;
+- b Haltestellen, die tagsüber nicht angefahren werden, werden vollständig angerechnet;
+- c Haltestellen, die innerhalb von 750 Metern um die Bahnhöfe Bern, Biel/Bienne, Thun, Burgdorf, Interlaken und Langenthal liegen, werden zur Hälfte angerechnet.
+
 <sup>2</sup> Jeder Gemeinde mit Haltestellen auf dem Gemeindegebiet wird mindestens eine Haltestelle vollständig angerechnet.
 
-<sup>3</sup> Erschliesst eine Bahnhaltestelle gleichzeitig mehrere Gemeinden, so wird diese grundsätzlich im Verhältnis der Summen aus Einwohnerzahl und Arbeitsplätzen im Einzugsgebiet auf die betroffenen Gemeinden aufgeteilt. Eine Bahnhaltestelle mit kleinem Nachfragepotenzial wird zu 100 Prozent der Standortgemeinde angerechnet. Vorbehalten bleiben abweichende Vereinbarungen unter den betroffenen Gemeinden.
+<sup>3</sup> Erschliesst eine Bahnhaltestelle gleichzeitig mehrere Gemeinden, so wird diese grundsätzlich im Verhältnis der Summen aus Einwohnerzahl und Arbeitsplätzen im Einzugsgebiet auf die betroffenen Gemeinden aufgeteilt. Eine Bahnhaltestelle mit kleinem Nachfragepotenzial wird vollständig der Standortgemeinde angerechnet. Vorbehalten bleiben abweichende Vereinbarungen unter den betroffenen Gemeinden.
 
-<sup>4</sup> Als unbedeutendes Fahrgastaufkommen gilt ein Wert von weniger als 0,5 ein- und aussteigenden Personen pro Kurs (Durchschnittswert Montag bis Freitag).
+<sup>3a</sup> Bus- und Tramhaltestellen werden vollständig der Standortgemeinde angerechnet. Vorbehalten bleiben abweichende Vereinbarungen unter den betroffenen Gemeinden.
+
+<sup>4</sup> Als unbedeutendes Fahrgastaufkommen gilt ein Wert von weniger als 0,5 ein- und aussteigender Personen pro Kurs (Durchschnittswert Montag bis Freitag).
 
 <sup>5</sup> Als kleines Nachfragepotenzial gilt ein Wert von weniger als 100 Einwohnerinnen und Einwohnern und Arbeitsplätzen im Einzugsgebiet.
 
-<sup>6</sup> Das Einzugsgebiet wird nach Artikel 4 Absatz 1 der Verordnung vom 10. September 1997 über das Angebot im öffentlichen Verkehr (Angebotsverordnung, AGV[^4-1] bestimmt.
-
-[^4-1]: BSG 762.412
+<sup>6</sup> Das Einzugsgebiet wird nach Artikel 4 Absatz 1 AGV bestimmt.
 
 #### Art. 5
 
@@ -102,15 +115,17 @@ beschliesst:
 
 <sup>1</sup> Die Haltestellen-Abfahrten werden mit folgenden Faktoren gewichtet:
 
-- a Normalspur: EuroCity, InterCity: 4.5
+- a Normalspur: EuroCity, InterCity: 4,5
 - b InterRegio: 4
-- c SNormalspur: RegioExpress: 3.5
+- c Normalspur: RegioExpress: 3,5
 - d Schmalspur: Schnellzug, InterRegio, RegioExpress: 3
-- e Normalspur: Regionalzug, S-Bahn: 2.5
+- e Normalspur: Regionalzug, S-Bahn: 2,5
 - f Schmalspur: Regionalzug, S-Bahn: 2
-- g Tram: 1.5
+- g Tram: 1,5
 - h Bus, Trolleybus: 1
 - i Seilbahn: 1
+
+<sup>2</sup> Die Haltestellen-Ankünfte des Nachtnetzes werden mit dem Faktor 0,4 gewichtet.
 
 #### Art. 5a
 
@@ -154,7 +169,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für öffentlichen Verkehr und Verkehrskoordination berechnet das Verkehrsangebot jeweils für zwei Jahre im Voraus.
 
-<sup>2</sup> Grundlage ist dabei der veröffentlichte Jahresfahrplan des Jahres vor der festzulegenden Zweijahresperiode.
+<sup>2</sup> Grundlage ist dabei der veröffentlichte Jahresfahrplan des Jahres vor der festzulegenden Zweijahresperiode. Bahnersatzangebote aufgrund von Umbauten oder Sanierungen werden nicht berücksichtigt, es gilt der normale Fahrplan.
 
 #### Art. 10–11
 
@@ -177,12 +192,14 @@ beschliesst:
 <sup>3</sup> Die Abkürzungen bedeuten:
 
 - a E: Anzahl Einwohnerinnen und Einwohner
-- b BahnHS: anrechenbare Bahnhaltestellen
-- c BusHS: anrechenbare Bushaltestellen
+- b BahnHS: Gesamtwert der anrechenbaren Bahnhaltestellen
+- c BusHS: Gesamtwert der anrechenbaren Bushaltestellen
 
 <sup>4</sup> Als Bahngemeinden gelten Gemeinden mit mindestens einer hälftig anrechenbaren Bahnhaltestelle; als Busgemeinden gelten alle übrigen Gemeinden mit Bushaltestelle.
 
 <sup>5</sup> Endhaltestellen werden bei der Berechnung nicht berücksichtigt.
+
+<sup>5a</sup> Haltestellen des Nachtnetzes, die tagsüber nicht angefahren werden, werden bei der Berechnung nicht berücksichtigt.
 
 <sup>6</sup> Ergibt sich bei der Berechnung ein Wert von weniger als 0,25, so gilt ein Reduktionsfaktor von 0,25.
 
