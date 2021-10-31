@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Kantonale Kulturförderungsverordnung
 short: KKFV
 language: de
-version: 2021-01-01
-valid_until: 2021-10-31
-version_adopted: 2020-12-02
+version: 2021-11-01
+valid_until: 2022-02-28
+version_adopted: 2021-09-01
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2089/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2089/pdf_file"
 
 (KKFV)
 
-vom 13.11.2013 (Stand 01.01.2021)
+vom 13.11.2013 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -212,13 +212,13 @@ beschliesst:
 
 - a für Beiträge bis 10'000 Franken die zuständige Abteilung des Amtes für Kultur,
 - b für Beiträge über 10'000 bis 50'000 Franken das Amt für Kultur,
-- c für Beiträge über 50'000 bis 200'000 Franken die Erziehungsdirektion.
+- c für Beiträge über 50'000 bis 200'000 Franken die Bildungs- und Kulturdirektion.
 
 <sup>2a</sup> Für Beiträge bis 10'000 Franken, die den zweisprachigen Amtsbezirk Biel betreffen, ist die oder der Beauftragte für französischsprachige und zweisprachige Angelegenheiten des Amtes für Kultur anstelle der Abteilung zuständig.
 
 <sup>3</sup> Im Übrigen ist die Gesetzgebung über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel bei der Zuständigkeit für die Gewährung von Beiträgen zu beachten.
 
-<sup>4</sup> Über die Gewährung von Beiträgen von mehr als 200 000 Franken entscheidet das Organ, das über die entsprechenden verfassungsmässigen Ausgabenbefugnisse verfügt. Die Erziehungsdirektion entscheidet über die Ablehnung des Gesuchs oder leitet dieses an das für die Gewährung des Beitrags zuständige Organ weiter.
+<sup>4</sup> Über die Gewährung von Beiträgen von mehr als 200'000 Franken entscheidet das Organ, das über die entsprechenden verfassungsmässigen Ausgabenbefugnisse verfügt. Die Bildungs- und Kulturdirektion entscheidet über die Ablehnung des Gesuchs oder leitet dieses an das für die Gewährung des Beitrags zuständige Organ weiter.
 
 #### Art. 17
 
@@ -230,7 +230,7 @@ beschliesst:
 
 **Koordination und Information**
 
-<sup>1</sup> Das Amt für Kultur und die Verwaltung des Lotteriefonds der Polizei- und Militärdirektion stellen sicher, dass Beiträge aus dem Kulturförderungsfonds und aus dem Lotteriefonds koordiniert ausgerichtet und unerwünschte Doppelspurigkeiten vermieden werden.
+<sup>1</sup> Das Amt für Kultur und die Verwaltung des Lotteriefonds der Sicherheitsdirektion stellen sicher, dass Beiträge aus dem Kulturförderungsfonds und aus dem Lotteriefonds koordiniert ausgerichtet und unerwünschte Doppelspurigkeiten vermieden werden.
 
 <sup>2</sup> Sie treffen geeignete Absprachen und stellen einander die erforderlichen Informationen rechtzeitig zur Verfügung.
 
@@ -265,7 +265,7 @@ beschliesst:
 - e Stiftung Ballenberg – Schweizerisches Freilichtmuseum für ländliche Kultur,
 - f Stiftung Schweizerisches Alpines Museum.
 
-<sup>2</sup> Die Erziehungsdirektion ernennt die Vertreterinnen und Vertreter in Organen der Trägerschaften weiterer Kulturinstitutionen und von kulturellen Organisationen und berücksichtigt dabei ein ausgewogenes Geschlechterverhältnis.
+<sup>2</sup> Die Bildungs- und Kulturdirektion ernennt die Vertreterinnen und Vertreter in Organen der Trägerschaften weiterer Kulturinstitutionen und von kulturellen Organisationen und berücksichtigt dabei ein ausgewogenes Geschlechterverhältnis.
 
 #### Art. 21
 
@@ -291,7 +291,7 @@ beschliesst:
 
 **Arbeitsgruppe**
 
-<sup>1</sup> Die Justiz-, Gemeinde- und Kirchendirektion, die Polizei- und Militärdirektion, die Gesundheits- und Fürsorgedirektion und die Erziehungsdirektion setzen für die Planung und Umsetzung von Massnahmen zugunsten der Fahrenden eine gemeinsame Arbeitsgruppe ein.
+<sup>1</sup> Die Direktion für Inneres und Justiz, die Sicherheitsdirektion, die Gesundheits-, Sozial- und Integrationsdirektion sowie die Bildungs- und Kulturdirektion setzen für die Planung und Umsetzung von Massnahmen zugunsten der Fahrenden eine gemeinsame Arbeitsgruppe ein.
 
 <sup>2</sup> Die Arbeitsgruppe
 
@@ -300,7 +300,7 @@ beschliesst:
 - c prüft Gesuche um Beiträge oder andere Massnahmen zugunsten der Fahrenden,
 - d stellt den für den Entscheid zuständigen Stellen Antrag.
 
-<sup>3</sup> Sie wird von der Vertreterin oder dem Vertreter der Justiz-, Gemeinde- und Kirchendirektion geleitet. Im Übrigen konstituiert sie sich selbst. Sie kann bei Bedarf weitere Vertreterinnen und Vertreter kantonaler Stellen oder Dritte beiziehen.
+<sup>3</sup> Sie wird von der Vertreterin oder dem Vertreter der Direktion für Inneres und Justiz geleitet. Im Übrigen konstituiert sie sich selbst. Sie kann bei Bedarf weitere Vertreterinnen und Vertreter kantonaler Stellen oder Dritte beiziehen.
 
 ## 5 Kulturkommissionen
 
@@ -356,7 +356,7 @@ beschliesst:
 
 **Bibliothekskommission**
 
-<sup>1</sup> Die Bibliothekskommission berät die zuständigen Stellen der Erziehungsdirektion im Hinblick auf die Unterstützung der Bibliotheken.
+<sup>1</sup> Die Bibliothekskommission berät die zuständigen Stellen der Bildungs- und Kulturdirektion im Hinblick auf die Unterstützung der Bibliotheken.
 
 <sup>2</sup> Sie erarbeitet insbesondere Vorschläge und Anträge betreffend
 
@@ -380,7 +380,7 @@ beschliesst:
 
 <sup>2</sup> Die zuständigen Stellen hören die Kunstkommission vor der Erteilung von Aufträgen betreffend Kunst im öffentlichen Raum oder für öffentliche Bauten und Anlagen an.
 
-<sup>3</sup> Die Bau-, Verkehrs- und Energiedirektion hört die Kunstkommission vor dem Erlass von Regelungen betreffend Kunst im öffentlichen Raum oder für öffentliche Bauten und Anlagen an.
+<sup>3</sup> Die Bau- und Verkehrsdirektion hört die Kunstkommission vor dem Erlass von Regelungen betreffend Kunst im öffentlichen Raum oder für öffentliche Bauten und Anlagen an.
 
 #### Art. 30
 
@@ -404,7 +404,7 @@ beschliesst:
 
 <sup>1</sup> Die Kulturkommissionen bestehen aus fünf bis zehn Mitgliedern.
 
-<sup>2</sup> Die Erziehungsdirektion bestimmt die Mitgliederzahl der einzelnen Kommissionen.
+<sup>2</sup> Die Bildungs- und Kulturdirektion bestimmt die Mitgliederzahl der einzelnen Kommissionen.
 
 #### Art. 33
 
@@ -458,15 +458,15 @@ beschliesst:
 
 **Ernennung**
 
-<sup>1</sup> Die Erziehungsdirektion ernennt die Mitglieder der Kulturkommissionen und, auf Antrag der Kommission, deren Präsidentin oder Präsidenten.
+<sup>1</sup> Die Bildungs- und Kulturdirektion ernennt die Mitglieder der Kulturkommissionen und, auf Antrag der Kommission, deren Präsidentin oder Präsidenten.
 
-<sup>2</sup> Die Bau-, Verkehrs- und Energiedirektion wirkt bei der Ernennung der Mitglieder der Kunstkommission mit.
+<sup>2</sup> Die Bau- und Verkehrsdirektion wirkt bei der Ernennung der Mitglieder der Kunstkommission mit.
 
-<sup>3</sup> Vor der Ernennung von Mitgliedern der französischsprachigen Kommission für allgemeine kulturelle Fragen aus dem Verwaltungskreis Biel/Bienne hört die Erziehungsdirektion den Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel an.
+<sup>3</sup> Vor der Ernennung von Mitgliedern der französischsprachigen Kommission für allgemeine kulturelle Fragen aus dem Verwaltungskreis Biel/Bienne hört die Bildungs- und Kulturdirektion den Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel an.
 
-<sup>4</sup> Die Erziehungsdirektion hört
+<sup>4</sup> Die Bildungs- und Kulturdirektion hört
 
-- a vor der Ernennung von Bibliothekskommissionmitgliedern aus dem Berner Jura den Bernjurassischen Rat an,
+- a vor der Ernennung von Bibliothekskommissionsmitgliedern aus dem Berner Jura den Bernjurassischen Rat an,
 - b vor der Ernennung von Bibliothekskommissionmitgliedern aus dem Verwaltungskreis Biel/Bienne den Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel an.
 
 #### Art. 39
@@ -493,7 +493,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Kultur führt die Geschäftsstelle für die Kulturkommissionen, soweit diese Verordnung nichts anderes bestimmt oder das Amt und die Kommission im Einzelfall nichts anderes vereinbaren.
 
-<sup>2</sup> Das Amt für Grundstücke und Gebäude der Bau-, Verkehrs- und Energiedirektion führt die Geschäftsstelle der Kunstkommission, soweit sich diese mit Aufträgen für Kunst im öffentlichen Raum oder für öffentliche Bauten und Anlagen befasst.
+<sup>2</sup> Das Amt für Grundstücke und Gebäude der Bau- und Verkehrsdirektion führt die Geschäftsstelle der Kunstkommission, soweit sich diese mit Aufträgen für Kunst im öffentlichen Raum oder für öffentliche Bauten und Anlagen befasst.
 
 #### Art. 42
 
@@ -509,7 +509,7 @@ beschliesst:
 
 <sup>1</sup> Die Kulturkommissionen konstituieren sich im Rahmen der Vorgaben dieser Verordnung selbst.
 
-<sup>2</sup> Sie können für ihre Organisation ein Reglement erlassen. Dieses unterliegt der Genehmigung durch die Erziehungsdirektion.
+<sup>2</sup> Sie können für ihre Organisation ein Reglement erlassen. Dieses unterliegt der Genehmigung durch die Bildungs- und Kulturdirektion.
 
 ### 5.4 Rechte und Pflichten der Kommissionsmitglieder
 

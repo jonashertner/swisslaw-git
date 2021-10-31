@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Ordonnance sur l’encouragement des activités culturelles
 short: OEAC
 language: fr
-version: 2021-01-01
-valid_until: 2021-10-31
-version_adopted: 2020-12-02
+version: 2021-11-01
+valid_until: 2022-02-28
+version_adopted: 2021-09-01
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2089/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2361/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2089/pdf_file"
 
 (OEAC)
 
-du 13.11.2013 (état au 01.01.2021)
+du 13.11.2013 (état au 01.11.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -212,13 +212,13 @@ arrête:
 
 - a la section compétente de l’Office de la culture pour les subventions d’un montant inférieur ou égal à 10'000 francs,
 - b l’Office de la culture pour les subventions d’un montant supérieur à 10'000 francs et inférieur ou égal à 50'000 francs,
-- c la Direction de l’instruction publique pour les subventions d’un montant supérieur à 50'000 francs et inférieur ou égal à 200'000 francs.
+- c la Direction de l’instruction publique et de la culture pour les subventions d’un montant supérieur à 50'000 francs et inférieur ou égal à 200'000 francs.
 
 <sup>2a</sup> Le délégué ou la déléguée aux affaires francophones et bilingues de l’Office de la culture octroie, à la place de la section compétente, les subventions d'un montant inférieur ou égal à 10'000 francs concernant le district bilingue de Bienne.
 
 <sup>3</sup> Pour le reste, la législation sur le statut particulier du Jura bernois et sur la minorité francophone du district bilingue de Bienne doit être prise en compte s’agissant de la compétence en matière d’octroi de subventions.
 
-<sup>4</sup> La décision concernant l’octroi des subventions d’un montant supérieur à 200 000 francs incombe à l’organe qui dispose des compétences constitutionnelles correspondantes. La Direction de l’instruction publique décide du rejet des demandes dépassant ce montant ou les transmet à l’organe compétent pour l’octroi de ces subventions.
+<sup>4</sup> La décision concernant l’octroi des subventions d’un montant supérieur à 200'000 francs incombe à l’organe qui dispose des compétences constitutionnelles correspondantes. La Direction de l’instruction publique et de la culture décide du rejet des demandes dépassant ce montant ou les transmet à l’organe compétent pour l’octroi de ces subventions.
 
 #### Art. 17
 
@@ -230,7 +230,7 @@ arrête:
 
 **Coordination et information**
 
-<sup>1</sup> L’Office de la culture et l’administration du Fonds de loterie de la Direction de la police et des affaires militaires veillent à assurer un versement coordonné des subventions prélevées sur le Fonds d’encouragement des activités culturelles et sur le Fonds de loterie, et à éviter ainsi les doublons.
+<sup>1</sup> L’Office de la culture et l’administration du Fonds de loterie de la Direction de la sécurité veillent à assurer un versement coordonné des subventions prélevées sur le Fonds d’encouragement des activités culturelles et sur le Fonds de loterie, et à éviter ainsi les doublons.
 
 <sup>2</sup> Ils mettent en place une forme de concertation adaptée et se communiquent à temps les informations nécessaires.
 
@@ -265,7 +265,7 @@ arrête:
 - e la fondation Ballenberg – Musée suisse de l’habitat rural,
 - f la Fondation du Musée alpin suisse.
 
-<sup>2</sup> La Direction de l’instruction publique nomme, en veillant à une répartition équilibrée des sexes, les représentants et les représentantes du canton dans les structures des organes responsables d’autres institutions culturelles ou d’organisations culturelles.
+<sup>2</sup> La Direction de l’instruction publique et de la culture nomme, en veillant à une répartition équilibrée des sexes, les représentants et les représentantes du canton dans les structures des organes responsables d’autres institutions culturelles ou d’organisations culturelles.
 
 #### Art. 21
 
@@ -291,7 +291,7 @@ arrête:
 
 **Groupe de travail**
 
-<sup>1</sup> La Direction de la justice, des affaires communales et des affaires ecclésiastiques, la Direction de la police et des affaires militaires, la Direction de la santé publique et de la prévoyance sociale et la Direction de l’instruction publique instituent un groupe de travail commun pour la planification et la mise en œuvre de mesures répondant aux besoins spécifiques des gens du voyage.
+<sup>1</sup> La Direction de l’intérieur et de la justice, la Direction de la sécurité, la Direction de la santé, des affaires sociales et de l’intégration et la Direction de l’instruction publique et de la culture instituent un groupe de travail commun pour la planification et la mise en œuvre de mesures répondant aux besoins spécifiques des gens du voyage.
 
 <sup>2</sup> Le groupe de travail
 
@@ -300,7 +300,7 @@ arrête:
 - c examine les demandes de subvention ou d’autres mesures en faveur des gens du voyage;
 - d émet une proposition auprès des services compétents pour statuer.
 
-<sup>3</sup> Il est dirigé par le représentant ou de la représentante de la Direction de la justice, des affaires communales et des affaires ecclésiastiques. Au surplus, il se constitue lui-même. Il peut en cas de besoin s’adjoindre d’autres représentants et représentantes de services cantonaux ou des tiers.
+<sup>3</sup> Il est dirigé par le représentant ou de la représentante de la Direction de l’intérieur et de la justice. Au surplus, il se constitue lui-même. Il peut en cas de besoin s’adjoindre d’autres représentants et représentantes de services cantonaux ou des tiers.
 
 ## 5 Commissions culturelles
 
@@ -356,7 +356,7 @@ arrête:
 
 **Commission des bibliothèques**
 
-<sup>1</sup> La commission des bibliothèques conseille le service compétent de la Direction de l’instruction publique en matière de soutien aux bibliothèques.
+<sup>1</sup> La commission des bibliothèques conseille le service compétent de la Direction de l’instruction publique et de la culture en matière de soutien aux bibliothèques.
 
 <sup>2</sup> En particulier, elle élabore des propositions et des demandes concernant
 
@@ -380,7 +380,7 @@ arrête:
 
 <sup>2</sup> Les services compétents consultent la commission des arts visuels avant d’octroyer des mandats concernant la réalisation d’œuvres d’art dans l’espace public ou pour des bâtiments et des installations publics.
 
-<sup>3</sup> La Direction des travaux publics, des transports et de l’énergie consulte la commission des arts visuels avant d’édicter des réglementations concernant la réalisation d’œuvres d’art dans l’espace public ou pour des bâtiments et des installations publics.
+<sup>3</sup> La Direction des travaux publics et des transports consulte la commission des arts visuels avant d’édicter des réglementations concernant la réalisation d’œuvres d’art dans l’espace public ou pour des bâtiments et des installations publics.
 
 #### Art. 30
 
@@ -404,7 +404,7 @@ arrête:
 
 <sup>1</sup> Les commissions culturelles comprennent cinq à dix membres.
 
-<sup>2</sup> La Direction de l’instruction publique détermine le nombre de membres de chacune des commissions.
+<sup>2</sup> La Direction de l’instruction publique et de la culture détermine le nombre de membres de chacune des commissions.
 
 #### Art. 33
 
@@ -458,13 +458,13 @@ arrête:
 
 **Nomination**
 
-<sup>1</sup> La Direction de l’instruction publique nomme les membres des commissions culturelles et, sur proposition de ces dernières, leur président ou leur présidente.
+<sup>1</sup> La Direction de l’instruction publique et de la culture nomme les membres des commissions culturelles et, sur proposition de ces dernières, leur président ou leur présidente.
 
-<sup>2</sup> La Direction des travaux publics, des transports et de l’énergie participe à la nomination des membres de la commission des arts visuels.
+<sup>2</sup> La Direction des travaux publics et des transports participe à la nomination des membres de la commission des arts visuels.
 
-<sup>3</sup> La Direction de l’instruction publique consulte le Conseil des affaires francophones du district bilingue de Bienne avant la désignation des membres de la commission francophone chargée des affaires culturelles générales, issus de l'arrondissement administratif de Biel/Bienne.
+<sup>3</sup> La Direction de l’instruction publique et de la culture consulte le Conseil des affaires francophones du district bilingue de Bienne avant la désignation des membres de la commission francophone chargée des affaires culturelles générales, issus de l'arrondissement administratif de Biel/Bienne.
 
-<sup>4</sup> La Direction de l'instruction publique consulte
+<sup>4</sup> La Direction de l'instruction publique et de la culture consulte
 
 - a le Conseil du Jura bernois avant la nomination des membres de la Commission des bibliothèques issus du Jura bernois,
 - b le Conseil des affaires francophones du district bilingue de Bienne avant la nomination des membres de cette commission issus de l'arrondissement administratif de Biel/Bienne.
@@ -493,7 +493,7 @@ arrête:
 
 <sup>1</sup> L’Office de la culture gère le secrétariat pour les commissions culturelles, sauf disposition contraire dans la présente ordonnance ou accord contraire au cas par cas entre l’Office et la commission concernée.
 
-<sup>2</sup> L’Office des immeubles et des constructions de la Direction des travaux publics, des transports et de l’énergie gère le secrétariat de la commission des arts visuels lorsque les travaux concernent des mandats relatifs à la réalisation d’œuvres d’art dans l’espace public ou pour des bâtiments et installations publics.
+<sup>2</sup> L’Office des immeubles et des constructions de la Direction des travaux publics et des transports gère le secrétariat de la commission des arts visuels lorsque les travaux concernent des mandats relatifs à la réalisation d’œuvres d’art dans l’espace public ou pour des bâtiments et installations publics.
 
 #### Art. 42
 
@@ -509,7 +509,7 @@ arrête:
 
 <sup>1</sup> Les commissions culturelles se constituent elles-mêmes dans le cadre des prescriptions énoncées dans la présente ordonnance.
 
-<sup>2</sup> Elles peuvent édicter pour leur organisation un règlement qui doit être approuvé par la Direction de l’instruction publique.
+<sup>2</sup> Elles peuvent édicter pour leur organisation un règlement qui doit être approuvé par la Direction de l’instruction publique et de la culture.
 
 ### 5.4 Droits et obligations des membres des commissions
 
