@@ -4,13 +4,12 @@ number: "435.311"
 title: Loi sur le Centre interrégional de perfectionnement
 short: LCIP
 language: fr
-version: 2006-01-01
-valid_until: 2021-10-31
-version_adopted: 2004-09-13
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 2003-04-09
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.311"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/667/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2365/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/667/pdf_file"
 
 (LCIP)
 
-du 09.04.2003 (état au 01.01.2006)
+du 09.04.2003 (état au 01.11.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -186,9 +185,9 @@ arrête:
 
 #### Art. 17
 
-**Direction de l'instruction publique**
+**Direction de l'instruction publique et de la culture**
 
-<sup>1</sup> La Direction de l'instruction publique exerce la surveillance sur le CIP.
+<sup>1</sup> La Direction de l'instruction publique et de la culture exerce la surveillance sur le CIP.
 
 <sup>2</sup> Elle établit un plan pluriannuel intégré «mission-financement» pour le CIP.
 

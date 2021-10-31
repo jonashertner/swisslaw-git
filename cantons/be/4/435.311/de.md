@@ -4,13 +4,12 @@ number: "435.311"
 title: Gesetz über das Interregionale Fortbildungszentrum
 short: IFZG
 language: de
-version: 2006-01-01
-valid_until: 2021-10-31
-version_adopted: 2004-09-13
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 2003-04-09
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.311"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/667/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2365/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/667/pdf_file"
 
 (IFZG)
 
-vom 09.04.2003 (Stand 01.01.2006)
+vom 09.04.2003 (Stand 01.11.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -186,9 +185,9 @@ beschliesst:
 
 #### Art. 17
 
-**Erziehungsdirektion**
+**Bildungs- und Kulturdirektion**
 
-<sup>1</sup> Die Erziehungsdirektion übt die Aufsicht über das IFZ aus.
+<sup>1</sup> Die Bildungs- und Kulturdirektion übt die Aufsicht über das IFZ aus.
 
 <sup>2</sup> Sie erarbeitet einen mehrjährigen Aufgaben- und Finanzplan für das IFZ.
 
