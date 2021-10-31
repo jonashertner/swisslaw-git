@@ -3,20 +3,20 @@ canton: SG
 number: "231.11"
 title: Berufsbildungsverordnung
 language: de
-version: 2020-06-01
-valid_until: 2021-10-31
-version_adopted: 2020-04-28
+version: 2021-11-01
+valid_until: 2022-07-31
+version_adopted: 2021-09-28
 adopted: 2020-04-28
 in_force: 2020-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/231.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2960/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3272/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Berufsbildungsverordnung
 
-vom 28.04.2020 (Stand 01.06.2020)
+vom 28.04.2020 (Stand 01.11.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -142,6 +142,8 @@ als Verordnung:[^ingress-2]
 
 - a) die Rektorinnen und Rektoren der Berufsfachschulen;
 - b) die Präsidentinnen und Präsidenten der Berufsfachschulkommissionen, soweit sie die Unterstützungsaufgabe bei der Steuerung und Beaufsichtigung der Berufsfachschulen nach Art. 18 Abs. 1 EG-BB leisten und nicht die ihnen nach Art. 18 Abs. 2 EG-BB übertragenen Zuständigkeiten wahrnehmen.
+
+<sup>2</sup> Sie oder er trifft die zur Umsetzung von schulübergreifenden strategischen, pädagogischen und konzeptionellen Themen nötigen Anordnungen.
 
 #### Art. 12
 
@@ -563,5 +565,36 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Der Anspruch auf Rückerstattung von Beiträgen verjährt ein Jahr, nachdem die verfügende oder die Leistungsvereinbarung abschliessende Behörde vom Rechtsgrund des Anspruchs Kenntnis erhalten hat, in jedem Fall zehn Jahre nach der Entstehung des Anspruchs.
 
 <sup>3</sup> Der Anspruch des Kantons auf Rückerstattung von Baubeiträgen verjährt in jedem Fall 25 Jahre nach Entstehung des Anspruchs.
+
+## VI. Vergütungen an Mitglieder von Kommissionen sowie Expertinnen und Experten
+
+#### Art. 54
+
+**Grundsatz**
+
+<sup>1</sup> Vergütungen an Mitglieder von Kommissionen sowie Expertinnen und Experten in der Berufsbildung richten sich nach den Bestimmungen dieses Abschnitts.
+
+<sup>2</sup> Ergänzend wird die Verordnung über die Vergütungen an Mitglieder von Kommissionen sowie Expertinnen und Experten der kantonalen Verwaltung (Vergütungsverordnung KomEx) vom 12. Mai 2020[^54-1] angewendet.
+
+[^54-1]: sGS [145.1](https://www.gesetzessammlung.sg.ch/data/145.1/de).
+
+#### Art. 55
+
+**Taggeldansätze**
+
+<sup>1</sup> Das Taggeld beträgt:
+
+- a) Fr. 180.–;
+- b) Fr. 360.–, wenn die Tätigkeit als Expertin oder Experte oder Kommissionsmitglied zu einem Verdienstausfall führt.
+
+<sup>2</sup> Taggelder werden wie folgt vergütet:
+
+- a) ein halbes Taggeld für einen Zeitaufwand bis zu fünf Stunden;
+- b) ein ganzes Taggeld für einen Zeitaufwand von mehr als fünf Stunden.
+
+<sup>3</sup> Für die Tätigkeit als Chefexpertin oder Chefexperte sowie als Präsidentin oder Präsident einer Kommission werden folgende Zuschläge ausgerichtet:
+
+- a) Fr. 30.– bei einem Zeitaufwand bis zu fünf Stunden;
+- b) Fr. 60.– bei einem Zeitaufwand von mehr als fünf Stunden.
 
 nGS 2020-027
