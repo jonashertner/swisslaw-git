@@ -4,11 +4,11 @@ number: "177.111"
 title: Vollzugsverordnung zum Personalgesetz (VVO)
 short: VVO
 language: de
-version: "2021-07-01"
-nachtrag: "114"
-valid_until: 2021-11-01
+version: "2021-11-01"
+nachtrag: "115"
+valid_until: 2022-01-26
 adopted: 1999-05-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_111-1999_05_19-1999_07_01-114.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_111-1999_05_19-1999_07_01-115.html"
 text: pdf
 ---
 
@@ -1857,13 +1857,11 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 <sup>2</sup> Wo diese Verordnung im Einzelfall das Einvernehmen mit dem Personalamt vorsieht, wird das Geschäft diesem vorgängig zur Stellungnahme vorgelegt. Bei Uneinigkeit ist nach § 148 Abs. 2 vorzugehen.
 
-<sup>3</sup> Das Personalamt verkehrt mit den Ämtern, namentlich mit den dezentralen Personal- und Zahlstellen, direkt, mit den Direktionen in der Regel über deren Personalbeauftragte. Soweit es seine Aufgaben erfordern, holt es von den Direktionen und Ämtern die notwendigen Informationen ein. Es nimmt Einsicht in die Verfügungen und in die Daten des zentralen Personalinformationssystems.
-
-#### § 150
+<sup>3</sup> Das Personalamt verkehrt mit den Ämtern, namentlich mit den dezentralen Personal- und Zahlstellen, direkt, mit den Direktionen in der Regel über deren Leiterinnen und Leiter Human Resources (HR). Soweit es seine Aufgaben erfordern, holt es von den Direktionen und Ämtern die notwendigen Informationen ein. Es nimmt Einsicht in die Verfügungen und in die Daten des zentralen Personalinformationssystems.<sup>54</sup>
 
 **b. Aufgaben im Einzelnen**
 
-Das Personalamt a. erarbeitet und begutachtet rechtsetzende Erlasse, Richtlinien und Weisungen und bearbeitet grundsätzliche Fragen und Massnahmen im Personalwesen,
+§ 150. Das Personalamt a. erarbeitet und begutachtet rechtsetzende Erlasse, Richtlinien und Weisungen und bearbeitet grundsätzliche Fragen und Massnahmen im Personalwesen,
 
 - b. stellt die Auslegung und Anwendung des Personalrechts und der Lohnordnung der Gesamtverwaltung nach rechtsgleichen und wirtschaftlichen Grundsätzen sicher, namentlich durch die Koordination der Praxis zwischen den Direktionen und die Abgabe von Empfehlungen,
 
@@ -1899,11 +1897,11 @@ Das Personalamt a. erarbeitet und begutachtet rechtsetzende Erlasse, Richtlinien
 
 #### § 152
 
-**Personalbeauftragte der Direktionen, Personaldienste**
+**Leiterinnen und Leiter HR der Direktionen, Personaldienste**
 
-<sup>1</sup> Die Direktionen ordnen die Organisation und Betreuung des Personalwesens in ihrem Bereich. Sie bezeichnen eine ihnen in der Regel direktunterstellte Personalbeauftragte oder einen Personalbeauftragten und regeln deren Aufgaben bei der Zusammenarbeit mit den Organen der Revision sowie des Personalcontrollings.
+<sup>1</sup> Die Direktionen ordnen die Organisation und Betreuung des Personalwesens in ihrem Bereich. Sie bezeichnen eine Leiterin oder einen Leiter HR und regeln deren bzw. dessen Aufgaben bei der Zusammenarbeit mit den Organen der Revision sowie des Personalcontrollings.<sup>54</sup>
 
-<sup>2</sup> Die oder der Personalbeauftragte a. koordiniert die Personalgeschäfte, bearbeitet sie zusammen mit den Ämtern und deren Personaldiensten und sorgt für den einheitlichen Vollzug des Personalrechts innerhalb der Direktion,
+<sup>2</sup> Die Leiterin oder der Leiter HR<sup>54</sup> a. koordiniert die Personalgeschäfte, bearbeitet sie zusammen mit den Ämtern und deren Personaldiensten und sorgt für den einheitlichen Vollzug des Personalrechts innerhalb der Direktion,
 
 - b. berät und unterstützt die Ämter und das Personal der Direktion in personellen Fragen,
 
@@ -2148,6 +2146,8 @@ Der bezahlte Vaterschaftsurlaub gemäss § 96 a Abs. 1 gilt bei Geburt eines Kin
 <sup>52</sup> Aufgehoben durch RRB vom 31. März 2021 (OS 76, 165; ABl 2021-04-09). In Kraft seit 1. Januar 2021.
 
 <sup>53</sup> Fassung gemäss RRB vom 1. September 2021 (OS 76, 354; ABl 2021-09-10). In Kraft seit 1. Juli 2021.
+
+<sup>54</sup> Fassung gemäss RRB vom 25. August 2021 (OS 76, 353; ABl 2021-09-10). In Kraft seit 1. November 2021.
 
 **55**
 
