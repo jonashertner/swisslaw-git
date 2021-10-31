@@ -4,11 +4,11 @@ title: "Ordinanza del 21 agosto 2013 sul controllo dei composti chimici utilizza
 short: OCCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/580"
 language: it
-version: 2020-06-01
+version: 2021-11-01
 adopted: 2013-08-21
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20200601/it/xml/fedlex-data-admin-ch-eli-cc-2013-580-20200601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20200601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2013-580-20211101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20200601/it"
 
 (Ordinanza sul controllo dei composti chimici, OCCC)
 
-del 21 agosto 2013 (Stato 1° giugno 2020)
+del 21 agosto 2013 (Stato 1° novembre 2021)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 4, 11 e 22 capoverso 1 della legge del 13 dicembre 1996[^ingress-1] sul controllo dei beni a duplice impiego,
+visti gli articoli 4, 11 e 22 capoverso 1 della legge del 13 dicembre 1996[^ingress-1] sul controllo dei beni a duplice impiego (LBDI),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -47,20 +48,35 @@ ordina:
 
 Nella presente ordinanza si intende per:
 
-- a. *produzione*: formazione di un composto chimico mediante una reazione chimica o biochimica oppure un processo biologico;
+- a.[^2-1] *produzione**:* formazione di un composto chimico mediante una reazione chimica oppure un processo biochimico o biologico;
 - b. *lavorazione*: processo fisico, come la formulazione, l’estrazione o la purificazione, in cui un composto chimico non è trasformato in un altro composto chimico;
-- c. *consumo*: trasformazione di un composto chimico in un altro composto chimico mediante una reazione chimica o biochimica oppure un processo biologico;
+- c.[^2-2] *consumo:* trasformazione di un composto chimico in un altro composto chimico mediante una reazione chimica oppure un processo biochimico o biologico;
 - d. *sito d’impianti:* più impianti situati nel medesimo luogo;
 - e. *impianto:* settore autonomo comprendente una o più unità;
 - f. *unità*: installazione per la produzione, la lavorazione o il consumo di un composto chimico, comprese le attrezzature a ciò necessarie;
-- g. *composti DOC:* tutti i composti chimici organici secondo la definizione conforme allo stato delle conoscenze scientifiche, eccettuati i polimeri con un peso molecolare superiore a 1 000 e i composti chimici formati unicamente da idrocarburi o da carbonio e metalli;
-- h. *composto PSF*: composto DOC che contiene uno o più tra gli elementi fosforo, zolfo o fluoro, e che non figura nelle tabelle;
-- i *sottoprodotto inevitabile:* composto chimico che si forma per effetto di una reazione chimica o biochimica oppure di un processo biologico, in mancanza di un adeguato procedimento alternativo;
-- j. *Stato contraente:* Stato che ha ratificato la CAC[^2-1];
-- k. *Paese di origine:* Paese in cui un composto chimico è stato prodotto;
-- l. *Paese di provenienza*: Paese in cui è avvenuto l’ultimo sdoganamento di un composto chimico.
+- g.[^2-3]
 
-[^2-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+  *composti DOC:* tutti i composti chimici organici secondo la definizione conforme allo stato delle conoscenze scientifiche, eccettuati:
+
+  - 1\. i composti chimici che figurano nelle tabelle dei composti chimici dell’allegato,
+  - 2\. i composti chimici formati unicamente da idrocarburi o da carbonio e metalli,
+  - 3\. le molecole formate da tre o più unità ripetitive, come gli oligomeri o i polimeri;
+
+- h. *composto PSF*: composto DOC che contiene uno o più tra gli elementi fosforo, zolfo o fluoro, e che non figura nelle tabelle;
+- i.[^2-4] *sottoprodotto inevitabile:* composto chimico che si è formato per effetto di una reazione chimica oppure di un processo biochimico o biologico, in mancanza di un adeguato procedimento alternativo;
+- j. *Stato contraente:* Stato che ha ratificato la CAC[^2-5];
+- k.[^2-6] *Paese di origine*: Paese in cui un composto chimico è stato interamente ottenuto o prodotto oppure ha subito l’ultima lavorazione o trasformazione sufficiente;
+- l.[^2-7] *Paese di provenienza*: Paese in cui è avvenuto l’ultimo sdoganamento di un composto chimico Paese in cui un composto chimico è stato sdoganato l’ultima volta prima di essere inviato nel territorio doganale svizzero o in una enclave doganale svizzera;
+- m.[^2-8] *Paese di destinazione*: Paese in cui è previsto che un composto chimico venga impiegato secondo la sua finalità d’uso, lavorato, perfezionato o trasformato in altro modo.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-3]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-4]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-5]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^2-6]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-7]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-8]: Introdotta dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 3
 
@@ -72,19 +88,38 @@ Le forniture da e per rappresentanze diplomatiche o consolari nonché organizzaz
 
 #### Art. 4
 
-**Autorizzazioni**[^4-1]
+**Autorità preposta all’autorizzazione**[^4-1]
 
-<sup>1</sup> Il Consiglio federale rilascia le autorizzazioni ai sensi dell’articolo 11 su proposta del DEFR.
+<sup>1</sup> La Segreteria di Stato dell’economia (SECO) rilascia le autorizzazioni. È fatto salvo l’articolo 4*b*.
 
-<sup>2</sup> La Segreteria di Stato dell’economia (SECO) approva le domande di autorizzazioni singole in assenza di indizi di uno dei motivi di rifiuto di cui all’articolo 6 della legge del 13 dicembre 1996 sul controllo dei beni a duplice impiego o all’articolo 20 capoverso 1 della presente ordinanza.
+<sup>2</sup> A fini di consulenza tecnica, la SECO può consultare altre unità della Confederazione, segnatamente il Laboratorio Spiez, nonché associazioni di categoria, organizzazioni specializzate e periti. Il personale delle associazioni di categoria e delle organizzazioni specializzate nonché i periti sono tenuti al segreto d’ufficio ai sensi dell’articolo 320 del Codice penale[^4-2].
 
-<sup>3</sup> Essa respinge le domande di autorizzazione in presenza di uno dei motivi di rifiuto di cui all’articolo 6 della legge sul controllo dei beni a duplice impiego o all’articolo 20 della presente ordinanza.
+[^4-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^4-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-<sup>4</sup> Per l’esame materiale delle domande di autorizzazione, essa può consultare altre unità della Confederazione, segnatamente il Laboratorio Spiez, nonché organizzazioni e associazioni specializzate come pure periti.
+#### Art. 4a
 
-<sup>5</sup> Negli altri casi essa decide d’intesa con le unità competenti del Dipartimento federale degli affari esteri (DFAE), del Dipartimento federale della difesa, della protezione della popolazione e dello sport e del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni e dopo aver sentito il Servizio delle attività informative della Confederazione. In mancanza di accordo, decide il Consiglio federale su proposta del DEFR.
+**Decisione sull’autorizzazione**[^4a-1]
 
-[^4-1]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+<sup>1</sup> La SECO rilascia l’autorizzazione in assenza di indizi di uno dei motivi di rifiuto secondo l’articolo 20.
+
+<sup>2</sup> La SECO nega l’autorizzazione in presenza di un motivo di rifiuto secondo l’articolo 20.
+
+<sup>3</sup> In presenza di un indizio di motivo di rifiuto, la SECO decide sul rilascio di un’autorizzazione d’intesa con le unità competenti del Dipartimento federale degli affari esteri (DFAE), del Dipartimento federale della difesa, della protezione della popolazione e dello sport e del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni, dopo aver sentito il Servizio delle attività informative della Confederazione (SIC). In mancanza di accordo, decide il Consiglio federale su proposta del DEFR.
+
+[^4a-1]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+
+#### Art. 4b
+
+**Autorizzazione per la produzione, la lavorazione e il consumo di composti chimici della tabella 1**[^4b-1]
+
+<sup>1</sup> Le autorizzazioni per la produzione, la lavorazione e il consumo di composti chimici secondo l’articolo 11 capoverso 2 sono rilasciate dal Consiglio federale.
+
+<sup>2</sup> Le autorizzazioni secondo l’articolo 11 capoverso 2 lettera b sono rilasciate dalla SECO d’intesa con il Laboratorio Spiez, se il quantitativo totale annuo di composto chimico per impianto è inferiore a 100 g.
+
+<sup>3</sup> La SECO informa il SIC sulle autorizzazioni rilasciate.
+
+[^4b-1]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 5
 
@@ -92,9 +127,10 @@ Le forniture da e per rappresentanze diplomatiche o consolari nonché organizzaz
 
 <sup>1</sup> Il Laboratorio Spiez riceve le dichiarazioni ai sensi della presente ordinanza, le esamina secondo le direttive della SECO e le classifica conformemente alle disposizioni della CAC[^5-1].
 
-<sup>2</sup> Stabilisce il termine per l’inoltro delle dichiarazioni e fornisce i moduli necessari.
+<sup>2</sup> Il Laboratorio Spiez fornisce i moduli necessari.[^5-2]
 
 [^5-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^5-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 6
 
@@ -159,7 +195,7 @@ Il divieto suddetto vale anche per miscele con composti chimici della tabella 2.
 
 **Composti chimici della tabella 1**
 
-<sup>1</sup> La produzione, la lavorazione e il consumo di composti chimici della tabella 1 sono soggetti ad autorizzazione.
+<sup>1</sup> La produzione, la lavorazione e il consumo di composti chimici della tabella 1 sono soggetti ad autorizzazione. Sono esenti da autorizzazione la lavorazione e il consumo di composti chimici della tabella 1 se il quantitativo totale annuo per impianto è di 100 g al massimo.[^11-1]
 
 <sup>2</sup>
 
@@ -170,20 +206,23 @@ L’autorizzazione può essere rilasciata:
 
 <sup>3</sup>
 
-La domanda deve essere inoltrata alla SECO almeno 200 giorni prima che l’attività soggetta ad autorizzazione sia avviata per la prima volta, e deve contenere le indicazioni seguenti:
+La domanda deve contenere le indicazioni seguenti:[^11-2]
 
 - a. nome e indirizzo del richiedente;
 - b. una descrizione tecnica dettagliata dell’unità e delle sue parti interessate;
 - c. una descrizione dell’attività prevista.
 
-<sup>4</sup>
+<sup>3bis</sup> La domanda per un’attività di cui all’articolo 4*b* capoverso 1 deve essere inoltrata alla SECO almeno 200 giorni prima che l’attività soggetta ad autorizzazione sia avviata per la prima volta. Il Consiglio federale stabilisce la durata di validità dell’autorizzazione.[^11-3]
 
-Sono esenti dall’obbligo di autorizzazione la lavorazione e il consumo di composti chimici della tabella 1 ai seguenti scopi, se il quantitativo totale annuo per impianto è di 100 g al massimo:
+<sup>3ter</sup> La domanda per un’attività di cui all’articolo 4*b* capoverso 2 deve essere inoltrata alla SECO almeno 40 giorni prima che l’attività soggetta ad autorizzazione sia avviata per la prima volta. L’autorizzazione è valida cinque anni.[^11-4]
 
-- a. per le finalità connesse alla ricerca, alla medicina o alla farmaceutica;
-- b. per le finalità connesse alla sicurezza di un impianto dell’Amministrazione federale centrale.[^11-1]
+<sup>4</sup> ...[^11-5]
 
-[^11-1]: Introdotto dal n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^11-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-3]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-4]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-5]: Introdotto dal n. I dell’O del 28 gen. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)). Abrogato dal n. I dell’O del 17 set. 2021, con effetto dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 12
 
@@ -208,7 +247,7 @@ Sono esenti dall’obbligo di autorizzazione la lavorazione e il consumo di comp
 La domanda ai sensi del capoverso 1 va inoltrata alla SECO almeno 40 giorni prima dell’importazione o dell’esportazione e deve contenere le indicazioni seguenti:
 
 - a. la denominazione chimica con il numero del *Chemical Abstract Service* (numero CAS)[^13-1] e il quantitativo esatto del composto chimico;
-- b. nome e indirizzo del consumatore finale;
+- b.[^13-2] nome e indirizzo del destinatario finale;
 - c. una descrizione dettagliata della prevista utilizzazione del composto chimico;
 - d. la conferma che il composto chimico sarà utilizzato esclusivamente per finalità connesse alla ricerca o alla sicurezza, alla medicina o alla farmaceutica;
 - e. la conferma che il composto chimico non sarà riesportato.
@@ -216,6 +255,7 @@ La domanda ai sensi del capoverso 1 va inoltrata alla SECO almeno 40 giorni prim
 <sup>4</sup> In caso di esportazione l’esportatore è tenuto a far certificare dal Paese di destinazione le indicazioni di cui al capoverso 3.
 
 [^13-1]: Si tratta del numero di identificazione delle sostanze stabilito dal *Chemical Abstract Service* (www.cas.org).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 14
 
@@ -251,17 +291,18 @@ L’esportazione di composti chimici della tabella 3 è soggetta ad autorizzazio
 Se l’esportazione è destinata a uno Stato non contraente, la domanda va inoltrata alla SECO unitamente a un certificato del Paese di destinazione che contenga le indicazioni seguenti:[^15-1]
 
 - a. la denominazione chimica con il numero CAS e il quantitativo esatto del composto chimico;
-- b. nome e indirizzo del consumatore finale;
+- b.[^15-2] nome e indirizzo del destinatario finale;
 - c. una descrizione dettagliata della prevista utilizzazione del composto chimico;
-- d. la conferma che il composto chimico sarà utilizzato esclusivamente per finalità non vietate dalla CAC[^15-2];
-- e.[^15-3] la conferma che il composto chimico non sarà riesportato.
+- d. la conferma che il composto chimico sarà utilizzato esclusivamente per finalità non vietate dalla CAC[^15-3];
+- e.[^15-4] la conferma che il composto chimico non sarà riesportato.
 
-<sup>3</sup> ... [^15-4]
+<sup>3</sup> ... [^15-5]
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
-[^15-2]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
-[^15-3]: Introdotta dal n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
-[^15-4]: Abrogato dal n. I dell’O del 28 gen. 2015, con effetto dal 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^15-3]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^15-4]: Introdotta dal n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-5]: Abrogato dal n. I dell’O del 28 gen. 2015, con effetto dal 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
 
 #### Art. 16
 
@@ -273,14 +314,18 @@ Se l’esportazione è destinata a uno Stato non contraente, la domanda va inolt
 
 #### Art. 17
 
-**Esportazione esente da autorizzazione**
+**Obblighi al momento dell’importazione e dell’esportazione[^17-1]**
 
-<sup>1</sup> Chi esporta composti chimici figuranti nei capitoli 28–30 (voci di tariffa 3002.1100–9000), 34, 36–40 e 81 della tariffa doganale[^17-1] non soggetti ad autorizzazione di esportazione è tenuto ad apporre la menzione «esente da autorizzazione» sulla dichiarazione di esportazione.[^17-2]
+<sup>1</sup> Chi esporta composti chimici figuranti nei capitoli 28–30 (voci di tariffa 3002.1100–9000), 34, 36–40 e 81 della tariffa doganale[^17-2] non soggetti ad autorizzazione di esportazione è tenuto ad apporre la menzione «esente da autorizzazione» sulla dichiarazione di esportazione.[^17-3]
 
 <sup>2</sup> Su richiesta della SECO, l’esportatore deve poter provare in qualsiasi momento la regolarità dell’esportazione in esenzione da autorizzazione. L’obbligo della prova cessa dieci anni dopo l’imposizione doganale.
 
-[^17-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
-[^17-2]: Nuovo testo giusta l’all. 3 n. 15 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+<sup>3</sup> Chiunque importa o esporta merci con un’autorizzazione deve indicare nella dichiarazione doganale il tipo di autorizzazione, l’autorità preposta all’autorizzazione e il numero dell’autorizzazione.[^17-4]
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^17-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
+[^17-3]: Nuovo testo giusta l’all. 3 n. 15 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^17-4]: Introdotto dal I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 18
 
@@ -288,55 +333,77 @@ Se l’esportazione è destinata a uno Stato non contraente, la domanda va inolt
 
 <sup>1</sup> Gli agenti di dogana possono fermare per accertamenti i trasporti di composti chimici in transito.
 
-<sup>2</sup> Il transito è consentito unicamente se l’esportazione è conforme alle prescrizioni del Paese di origine o del Paese di provenienza.
+<sup>2</sup> La SECO rifiuta il transito se l’esportazione viola le prescrizioni del Paese di origine o del Paese di provenienza o se vi è motivo di ritenere che il transito contravvenga alle disposizioni della CAC[^18-1].[^18-2]
 
 <sup>3</sup> All’entrata nel territorio doganale l’impresa incaricata del transito è tenuta a presentare la prova della conformità secondo il capoverso 2. In casi motivati, d’intesa con le autorità competenti la prova può essere presentata successivamente.
 
-<sup>4</sup> La SECO vieta il transito se vi è motivo di ritenere che quest’ultimo contravvenga alle disposizioni della CAC[^18-1].
+<sup>4</sup> ...[^18-3]
 
 <sup>5</sup> L’uscita da un deposito doganale aperto, da un deposito di merci di gran consumo o da un deposito franco doganale è equiparata al transito.
 
 [^18-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^18-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^18-3]: Abrogato dal n. I dell’O del 17 set. 2021, con effetto dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ### Sezione 3: Procedura
 
 #### Art. 19
 
-**Domande di autorizzazione**
+**Certificati del Paese di destinazione[^19-1]**
 
-<sup>1</sup> Le domande di autorizzazione vanno inoltrate mediante il modulo emesso dalla SECO.
+<sup>1</sup> ... [^19-2]
 
-<sup>2</sup> I certificati del Paese di destinazione di cui agli articoli 13 capoverso 4 e 15 capoverso 2 possono essere redatti in tedesco, francese, italiano o in inglese. Le traduzioni da altre lingue devono essere autenticate.[^19-1]
+<sup>2</sup> I certificati del Paese di destinazione di cui agli articoli 13 capoverso 4 e 15 capoverso 2 possono essere redatti in tedesco, francese, italiano o in inglese. Le traduzioni da altre lingue devono essere autenticate.[^19-3]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^19-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^19-2]: Abrogato dal n. I dell’O del 17 set. 2021, con effetto dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^19-3]: Nuovo testo giusta il n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+
+#### Art. 19a
+
+**Presupposti per il rilascio dell’autorizzazione**[^19a-1]
+
+<sup>1</sup> Le autorizzazioni sono rilasciate unicamente a persone fisiche o giuridiche che hanno il domicilio oppure la sede o uno stabilimento nel territorio doganale svizzero oppure in una enclave doganale svizzera.
+
+<sup>2</sup> Per il rilascio dell’autorizzazione a una persona giuridica dev’essere fornita la prova di controlli affidabili in seno all’azienda inerenti al rispetto delle prescrizioni della legislazione in materia di controllo dei beni a duplice impiego.
+
+<sup>3</sup> I permessi generali d’esportazione (PG) sono rilasciati soltanto a persone giuridiche iscritte al registro di commercio svizzero o del Liechtenstein. Questa condizione non si applica alle scuole universitarie e alle istituzioni pubbliche.
+
+[^19a-1]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 20
 
-**Rifiuto delle autorizzazioni**
+**Rifiuto di autorizzazioni**[^20-1]
 
-<sup>1</sup> Se l’attività prevista è in contrasto con la CAC[^20-1] l’autorizzazione non viene concessa.
+<sup>1</sup> Il rifiuto di autorizzazioni è disciplinato dall’articolo 6 LBDI.
 
 <sup>2</sup>
 
-Il permesso generale d’esportazione (PG) non viene concesso se nei due anni che precedono l’inoltro della domanda il richiedente o un membro dei suoi organi è stato oggetto di una condanna passata in giudicato per infrazioni:
+Un PG non viene rilasciato se la persona giuridica richiedente o i membri degli organi della persona giuridica richiedente nei due anni che precedono l’inoltro della domanda sono stati oggetto di una condanna passata in giudicato per infrazioni:
 
-- a. alla legge del 13 dicembre 1996 sul controllo dei beni a duplice impiego;
-- b. alle disposizioni in materia di esportazione, importazione e transito della legge del 13 dicembre 1996[^20-2] sul materiale bellico, della legge del 21 marzo 2003[^20-3] sull’energia nucleare o della legge federale del 25 giugno 1982[^20-4] sulle misure economiche esterne.
+- a. alla LBDI;
+- b. alla legge federale del 13 dicembre 1996[^20-2] sul materiale bellico;
+- c. alla legge del 20 giugno 1997[^20-3] sulle armi;
+- d. alla legge federale del 25 marzo 1977[^20-4] sugli esplosivi;
+- e. alla legge federale del 21 marzo 2003[^20-5] sull’energia nucleare;
+- f. alla legge federale del 25 giugno 1982[^20-6] sulle misure economiche esterne.
 
-[^20-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^20-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^20-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^20-3]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^20-4]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^20-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^20-4]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^20-5]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^20-6]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
 
 #### Art. 21
 
 **Autorizzazioni singole**
 
-<sup>1</sup> La SECO può rilasciare un’autorizzazione singola per l’importazione e l’esportazione di composti chimici che figurano nelle tabelle dei composti chimici ad una persona fisica o giuridica avente domicilio o sede in territorio doganale svizzero oppure in una enclave doganale svizzera.
+<sup>1</sup> Le autorizzazioni singole sono rilasciate per l’importazione di composti chimici della tabella 1 e per l’esportazione di composti chimici delle tabelle 1, 2 e 3.[^21-1]
 
 <sup>2</sup> L’autorizzazione singola non è trasferibile.
 
-<sup>3</sup> È valida due anni. La sua validità può essere prorogata una volta di due anni.[^21-1]
+<sup>3</sup> È valida due anni. La sua validità può essere prorogata una volta di due anni.[^21-2]
 
 <sup>4</sup> L’autorizzazione singola può essere vincolata a condizioni ed oneri.
 
@@ -347,13 +414,14 @@ La SECO revoca l’autorizzazione se:
 - a non sussistono più i presupposti per il rilascio;
 - b. le condizioni e gli oneri vincolati all’autorizzazione non sono adempiuti.
 
-[^21-1]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+[^21-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^21-2]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
 
 #### Art. 22
 
 **Permesso generale d’esportazione**
 
-<sup>1</sup> Ad una persona fisica o giuridica iscritta al registro di commercio svizzero o del Liechtenstein la SECO può rilasciare un PG per l’esportazione di composti chimici delle tabelle 2B e 3.
+<sup>1</sup> I PG sono rilasciati per l’esportazione di composti chimici delle tabelle 2B e 3.[^22-1]
 
 <sup>2</sup> Un PG può essere rilasciato anche per prove interlaboratorio ai sensi dell’articolo 16.
 
@@ -368,17 +436,19 @@ La SECO revoca il permesso se:
 - a non sussistono più i presupposti per il rilascio;
 - b. le condizioni e gli oneri ad esso vincolati non sono adempiuti.
 
+[^22-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+
 #### Art. 23
 
-**Presupposti per il rilascio di un PG**
+**Prove per il rilascio di un PG**[^23-1]
 
-Un PG può essere rilasciato se i composti chimici sono destinati a consumatori finali con sede o domicilio in uno Stato contraente della CAC[^23-1] e se il richiedente può dimostrare che:
+Un PG può essere rilasciato se i composti chimici sono destinati a un destinatario finale con sede o domicilio in uno Stato contraente della CAC[^23-2] e il richiedente può dimostrare che:
 
-- a. l’attività del consumatore finale è compatibile con la CAC;
-- b. svolge in modo regolamentare le sue attività transfrontaliere; e
-- c. assicura l’attuazione di controlli affidabili in seno all’azienda all’atto dell’esportazione.
+- a. l’attività del destinatario finale è compatibile con la CAC; e
+- b. svolge in modo regolamentare le sue attività transfrontaliere.
 
-[^23-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^23-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^23-2]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
 
 #### Art. 24
 
@@ -400,13 +470,15 @@ Il titolare di un PG deve adempiere agli oneri seguenti:
 
 <sup>1</sup>
 
-Il Laboratorio Spiez e il titolare di un’autorizzazione ai sensi dell’articolo 11 sono tenuti a dichiarare al Laboratorio Spiez quanto segue:
+Il Laboratorio Spiez e il titolare di un’autorizzazione ai sensi dell’articolo 11 sono tenuti a dichiarare al Laboratorio Spiez quanto segue entro i termini sotto indicati:
 
-- a produzione, lavorazione e consumo di composti chimici della tabella 1 dell’anno civile precedente, indicando i quantitativi esatti, inclusi i quantitativi immagazzinati;
-- b. tutte le modifiche apportate all’unità nell’anno civile precedente;
-- c. prima della fine dell’anno: le attività previste nell’anno civile successivo.
+- a. entro 45 giorni a decorrere dall’inizio dell’anno: produzione, lavorazione e consumo di composti chimici della tabella 1 dell’anno civile precedente, indicando i quantitativi esatti, inclusi i quantitativi immagazzinati;
+- b. entro 45 giorni a decorrere dall’inizio dell’anno: tutte le modifiche apportate all’unità nell’anno civile precedente;
+- c. almeno 120 giorni prima della fine dell’anno: le attività previste per l’anno civile successivo.[^25-1]
 
 <sup>2</sup> Le modifiche dell’unità previste vanno dichiarate al Laboratorio Spiez almeno 200 giorni prima della loro realizzazione.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 26
 
@@ -422,10 +494,10 @@ La produzione, la lavorazione e il consumo di composti chimici della tabella 2 v
 
 <sup>2</sup>
 
-Le dichiarazioni annuali comprendono:
+Entro i termini sotto indicati vanno dichiarate:
 
-- a. all’inizio dell’anno, una dichiarazione sulle attività svolte durante l’anno civile precedente;
-- b. prima della fine dell’anno, una dichiarazione sulle attività previste nell’anno civile successivo.
+- a. entro 45 giorni a decorrere dall’inizio dell’anno: le attività svolte nell’anno civile precedente;
+- b. almeno 105 giorni prima della fine dell’anno: le attività previste per l’anno civile successivo.[^26-1]
 
 <sup>3</sup>
 
@@ -437,6 +509,8 @@ Le dichiarazioni devono contenere le indicazioni seguenti:
 - d. in caso di attività soggette a dichiarazione: il periodo in cui verranno svolte.
 
 <sup>4</sup> Se dopo l’inoltro della dichiarazione ai sensi del capoverso 2 lettera b si pianifica un’attività supplementare, quest’ultima va dichiarata almeno dieci giorni prima del suo inizio.
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 27
 
@@ -467,10 +541,10 @@ Gli obblighi di dichiarazione di cui all’articolo 26 valgono anche per i compo
 
 <sup>2</sup>
 
-Le dichiarazioni annuali comprendono:
+Entro i termini sotto indicati vanno dichiarate:
 
-- a. all’inizio dell’anno, una dichiarazione sulle attività svolte durante l’anno civile precedente;
-- b. prima della fine dell’anno, una dichiarazione sulle attività previste nell’anno civile successivo.
+- a. entro 45 giorni a decorrere dall’inizio dell’anno: le attività svolte nell’anno civile precedente;
+- b. almeno 105 giorni prima della fine dell’anno: le attività previste per l’anno civile successivo.[^28-1]
 
 <sup>3</sup>
 
@@ -481,6 +555,8 @@ Le dichiarazioni devono contenere le indicazioni seguenti:
 - c. l’esatta denominazione dei composti chimici, con l’indicazione approssimativa dei quantitativi di produzione e degli usi previsti.
 
 <sup>4</sup> Se dopo l’inoltro della dichiarazione ai sensi del capoverso 2 lettera b si pianifica un’attività supplementare, quest’ultima va dichiarata almeno dieci giorni prima del suo inizio.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 29
 
@@ -501,12 +577,12 @@ Gli obblighi di dichiarazione di cui all’articolo 28 valgono anche per i compo
 
 <sup>1</sup>
 
-I produttori di composti DOC sono tenuti a dichiarare ogni anno al Laboratorio Spiez:
+I produttori di composti DOC sono tenuti a dichiarare al Laboratorio Spiez entro 45 giorni a decorrere dall’inizio dell’anno:[^30-1]
 
 - a. in quale sito d’impianti nell’anno civile precedente sono state prodotte complessivamente più di 200 t di composti DOC;
 - b. in quale impianto o in quali impianti del sito d’impianti oggetto della dichiarazione, nell’anno civile precedente sono state prodotte più di 30 t di un composto PSF.
 
-<sup>2</sup> I siti d’impianti che producono esclusivamente esplosivi o idrocarburi non devono essere oggetto di dichiarazione.
+<sup>2</sup> I siti d’impianti che producono esclusivamente esplosivi o idrocarburi e i siti d’impianti che producono composti DOC esclusivamente mediante processi biochimici o biologici non devono essere dichiarati.[^30-2]
 
 <sup>3</sup>
 
@@ -517,15 +593,20 @@ Le dichiarazioni devono contenere le indicazioni seguenti:
 - c. la sua esatta ubicazione con l’indirizzo;
 - d. la denominazione della ditta che lo gestisce.
 
+[^30-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^30-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+
 ### Sezione 2: Importazione ed esportazione
 
 #### Art. 31
 
 **Importazione ed esportazione di composti chimici della tabella 1**
 
-<sup>1</sup> Ad inizio anno il titolare di un’autorizzazione ai sensi dell’articolo 21 o 22 è tenuto a dichiarare al Laboratorio Spiez i quantitativi di composti chimici della tabella 1 effettivamente importati ed esportati nell’anno civile precedente, indicando i Paesi di provenienza e di destinazione.
+<sup>1</sup> Entro 45 giorni a decorrere dall’inizio dell’anno il titolare di un’autorizzazione ai sensi dell’articolo 21 o 22 è tenuto a dichiarare al Laboratorio Spiez i quantitativi di composti chimici della tabella 1 effettivamente importati ed esportati nell’anno civile precedente, indicando i Paesi di provenienza e di destinazione.[^31-1]
 
 <sup>2</sup> Per le miscele va indicata la quantità presente di composto chimico soggetto ad autorizzazione.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 32
 
@@ -533,7 +614,7 @@ Le dichiarazioni devono contenere le indicazioni seguenti:
 
 <sup>1</sup>
 
-All’inizio dell’anno il titolare di un’autorizzazione ai sensi dell’articolo 21 o 22 è tenuto a dichiarare al Laboratorio Spiez i quantitativi di composti chimici delle tabelle 2 e 3 effettivamente esportati nell’anno civile precedente, indicando i Paesi di destinazione, se i quantitativi seguenti vengono superati:
+Entro 45 giorni a decorrere dall’inizio dell’anno, il titolare di un’autorizzazione ai sensi dell’articolo 21 o 22 è tenuto a dichiarare al Laboratorio Spiez i quantitativi di composti chimici delle tabelle 2 e 3 effettivamente esportati nell’anno civile precedente, indicando il Paese di destinazione, se i quantitativi seguenti vengono superati:[^32-1]
 
 - a. 1 kg di un composto chimico della tabella 2A contrassegnato con «\*»;
 - b. 100 kg di un composto chimico della tabella 2A non contrassegnato con «\*»;
@@ -549,7 +630,10 @@ All’inizio dell’anno è tenuto a dichiarare al Laboratorio Spiez i quantitat
 - c 100 kg di un composto chimico della tabella 2B;
 - d. 100 kg di un composto chimico della tabella 3.
 
-<sup>3</sup> Per le miscele va indicato il peso effettivo del composto chimico soggetto ad autorizzazione.
+<sup>3</sup> L’obbligo di dichiarazione delle miscele di composti chimici delle tabelle 2 e 3 si applica alle soglie di concentrazione di cui all’articolo 27 o 29. Per queste miscele va indicato il peso effettivo del composto chimico soggetto ad autorizzazione.[^32-2]
+
+[^32-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^32-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ### Sezione 3: Misure di protezione
 
@@ -681,10 +765,12 @@ Se necessario ai fini dello svolgimento delle ispezioni ai sensi dell’articolo
 
 #### Art. 41
 
-Secondo l’articolo 15 della legge del 13 dicembre 1996 sul controllo dei beni a duplice impiego, è punito con la multa fino a 100 000 franchi chiunque:
+Secondo l’articolo 15 LBDI è punito con la multa fino a 100 000 franchi chiunque:[^41-1]
 
 - a intenzionalmente o per negligenza trasgredisce gli obblighi di dichiarazione di cui agli articoli 3, 25, 26, 28 e 30–34;
 - b. impedisce le ispezioni di cui all’articolo 35 o si rifiuta di adempiere agli obblighi di cooperazione di cui all’articolo 39 in occasione di dette ispezioni.
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## Capitolo 8: Disposizioni finali
 
@@ -704,13 +790,13 @@ La presente ordinanza entra in vigore il 1° ottobre 2013.
 
 Allegato*[^t-1]*
 
-(art. 1 cpv. 2 e 3)
+(art. 1 cpv. 2 e 3, 2 lett. g)
 
 ## Tabelle dei composti chimici****
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DEFR del 24 feb. 2020, in vigore dal 1° giu. 2020 ([RU 2020 821](https://fedlex.data.admin.ch/eli/oc/2020/151)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DEFR del 24 feb. 2020 ([RU 2020 821](https://fedlex.data.admin.ch/eli/oc/2020/151)). Aggiornato dal n. II dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^annexu1-lvlu1-1]: Determinanti per i controlli sono le denominazioni dei composti chimici. Un composto non può essere identificato unicamente alla luce del numero CAS. Diverse iscrizioni nelle tabelle si riferiscono a «categorie» comprendenti centinaia di sostanze simili sotto il profilo della struttura.
 
 (cfr. anche il numero di controllo 1C350 dell’allegato 2 parte 2 dell’ordinanza del 3 giugno 2016[^annexu1-lvlu1-2] sul controllo dei beni a duplice impiego)

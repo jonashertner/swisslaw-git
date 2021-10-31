@@ -4,11 +4,11 @@ title: "Verordnung vom 21. August 2013 über die Kontrolle von Chemikalien mit z
 short: ChKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/580"
 language: de
-version: 2020-06-01
+version: 2021-11-01
 adopted: 2013-08-21
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20200601/de/xml/fedlex-data-admin-ch-eli-cc-2013-580-20200601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20200601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2013-580-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20200601/de"
 
 (Chemikalienkontrollverordnung, ChKV)
 
-vom 21. August 2013 (Stand am 1. Juni 2020)
+vom 21. August 2013 (Stand am 1. November 2021)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 4, 11 und 22 Absatz 1 des Güterkontrollgesetzes vom 13. Dezember 1996[^ingress-1],
+gestützt auf die Artikel 4, 11 und 22 Absatz 1 des Güterkontrollgesetzes vom 13. Dezember 1996[^ingress-1] (GKG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -47,20 +48,35 @@ verordnet:
 
 In dieser Verordnung bedeutet:
 
-- a. *Herstellung:* Bildung einer Chemikalie durch eine chemische oder biochemische Reaktion oder durch einen biologischen Prozess;
+- a.[^2-1] *Herstellung:* Bildung einer Chemikalie durch eine chemische Reaktion oder durch einen biochemischen oder biologischen Prozess;
 - b. *Verarbeitung:* physikalischer Prozess, wie das Formulieren, Extrahieren oder Reinigen, in dem eine Chemikalie nicht in eine andere umgewandelt wird;
-- c. *Verbrauch:* Umwandlung einer Chemikalie durch eine chemische oder biochemische Reaktion oder durch einen biologischen Prozess in eine andere Chemikalie;
+- c.[^2-2] *Verbrauch:* Umwandlung einer Chemikalie durch eine chemische Reaktion oder durch einen biochemischen oder biologischen Prozess in eine andere Chemikalie;
 - d. *Werk:* mehrere Betriebe, die örtlich zusammengehören;
 - e. *Betrieb:* eigenständiger Bereich, in dem sich eine oder mehrere Anlagen befinden;
 - f. *Anlage:* Einrichtung für die Herstellung, die Verarbeitung oder den Verbrauch einer Chemikalie, einschliesslich der dazu notwendigen Ausrüstungen;
-- g. *DOC-Chemikalien:* alle organischen Chemikalien nach der dem aktuellen Stand der Wissenschaft entsprechenden Definition, ausgenommen Polymere mit einem Molekulargewicht grösser als 1000 und Chemikalien, die nur Kohlenwasserstoffe oder Kohlenstoffe und Metalle enthalten;
-- h. *PSF-Chemikalie:* DOC-Chemikalie, die ein oder mehrere Elemente von Phosphor, Schwefel oder Fluor enthält und die in den Chemikalienlisten nicht aufgeführt ist;
-- i. *unvermeidbares Nebenprodukt:* Chemikalie, die durch eine chemische oder biochemische Reaktion oder durch einen biologischen Prozess gebildet wird, wobei die Bildung mangels eines angemessenen alternativen Verfahrens erfolgt;
-- j. *Vertragsstaat:* Staat, der das CWÜ[^2-1] ratifiziert hat;
-- k. *Ursprungsland:* Land, in dem eine Chemikalie hergestellt wurde;
-- l. *Herkunftsland:* Land, in dem eine Chemikalie das letzte Mal verzollt wurde.
+- g.[^2-3]
 
-[^2-1]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+  *DOC-Chemikalien:* alle organischen Chemikalien nach der dem aktuellen Stand der Wissenschaft entsprechenden Definition mit Ausnahme von:
+
+  - 1\. Chemikalien, die in den Chemikalienlisten im Anhang aufgeführt sind,
+  - 2\. Chemikalien, die nur Kohlenwasserstoffe oder nur Kohlenstoffe und Metalle enthalten,
+  - 3\. Molekülen aus drei oder mehr sich wiederholenden Einheiten, wie Oligomere und Polymere;
+
+- h. *PSF-Chemikalie:* DOC-Chemikalie, die ein oder mehrere Elemente von Phosphor, Schwefel oder Fluor enthält und die in den Chemikalienlisten nicht aufgeführt ist;
+- i.[^2-4] *unvermeidbares Nebenprodukt:* Chemikalie, die durch eine chemische Reaktion oder durch einen biochemischen oder biologischen Prozess gebildet wurde, wobei die Bildung mangels eines angemessenen alternativen Verfahrens erfolgte;
+- j. *Vertragsstaat:* Staat, der das CWÜ[^2-5] ratifiziert hat;
+- k.[^2-6] *Ursprungsland*: Land, in dem eine Chemikalie vollständig gewonnen oder hergestellt oder in welchem letztmals eine ausreichende Be- oder Verarbeitung durchgeführt wurde;
+- l.[^2-7] *Herkunftsland*: Land, aus dem eine Chemikalie ins schweizerische Zollgebiet oder in eines der schweizerischen Zollausschlussgebiete versendet und in welchem sie vor diesem Versand ein letztes Mal verzollt wurde;
+- m.[^2-8] *Bestimmungsland*: Land, in dem eine Chemikalie ihrem Verwendungszweck zugeführt oder in welchem sie verarbeitet, veredelt oder sonst wie bearbeitet werden soll.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-4]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-5]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^2-6]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-7]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-8]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 3
 
@@ -72,19 +88,38 @@ Lieferungen von und an diplomatische oder konsularische Vertretungen sowie von u
 
 #### Art. 4
 
-**Bewilligungen**[^4-1]
+**Bewilligungsbehörde**[^4-1]
 
-<sup>1</sup> Bewilligungen nach Artikel 11 erteilt der Bundesrat auf Antrag des WBF.
+<sup>1</sup> Das Staatssekretariat für Wirtschaft (SECO) erteilt die Bewilligungen. Artikel 4*b* bleibt vorbehalten.
 
-<sup>2</sup> Das Staatssekretariat für Wirtschaft (SECO) bewilligt Gesuche um Einzelbewilligungen, wenn kein Hinweis auf einen Verweigerungsgrund nach Artikel 6 des Güterkontrollgesetzes vom 13. Dezember 1996 oder Artikel 20 Absatz 1 dieser Verordnung vorliegt.
+<sup>2</sup> Das SECO kann zur technischen Beratung andere Bundesstellen, namentlich das Labor Spiez, sowie Branchenverbände, fachkundige Organisationen und Fachleute beiziehen. Das Personal der Branchenverbände und der fachkundigen Organisationen sowie die Fachleute sind zur Wahrung des Amtsgeheimnisses im Sinne von Artikel 320 des Strafgesetzbuches[^4-2] verpflichtet.
 
-<sup>3</sup> Es lehnt Gesuche um Bewilligungen ab, wenn ein Verweigerungsgrund nach Artikel 6 des Güterkontrollgesetzes oder Artikel 20 dieser Verordnung vorliegt.
+[^4-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^4-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-<sup>4</sup> Es kann zur inhaltlichen Prüfung der Bewilligungsgesuche andere Bundesstellen, namentlich das Labor Spiez, sowie fachkundige Organisationen, Verbände, Expertinnen und Experten beiziehen.
+#### Art. 4a
 
-<sup>5</sup> In den übrigen Fällen entscheidet es im Einvernehmen mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA), des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport und des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation sowie nach Anhörung des Nachrichtendienstes des Bundes. Kommt keine Einigung zustande, so entscheidet der Bundesrat auf Antrag des WBF.
+**Entscheid über die Bewilligung**[^4a-1]
 
-[^4-1]: Fassung gemäss Anhang 8 Ziff. 3 der Güterkontrollverordnung vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+<sup>1</sup> Das SECO erteilt eine Bewilligung, wenn kein Hinweis auf einen Verweigerungsgrund nach Artikel 20 vorliegt.
+
+<sup>2</sup> Es verweigert eine Bewilligung, wenn ein Verweigerungsgrund nach Artikel 20 vorliegt.
+
+<sup>3</sup> Liegt ein Hinweis auf einen Verweigerungsgrund vor, so entscheidet das SECO über die Erteilung einer Bewilligung im Einvernehmen mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA), des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport und des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation nach Anhörung des Nachrichtendienstes des Bundes (NDB). Kommt keine Einigung zustande, so entscheidet der Bundesrat auf Antrag des WBF.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+
+#### Art. 4b
+
+**Bewilligung für die Herstellung, die Verarbeitung und den Verbrauch von Chemikalien der Liste 1**[^4b-1]
+
+<sup>1</sup> Bewilligungen für die Herstellung, die Verarbeitung und den Verbrauch von Chemikalien nach Artikel 11 Absatz 2 werden vom Bundesrat erteilt.
+
+<sup>2</sup> Bewilligungen nach Artikel 11 Absatz 2 Buchstabe b werden vom SECO im Einvernehmen mit dem Labor Spiez erteilt, wenn die Gesamtmenge der Chemikalie pro Betrieb unter 100 g pro Jahr liegt.
+
+<sup>3</sup> Das SECO informiert den NDB über erteilte Bewilligungen.
+
+[^4b-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 5
 
@@ -92,9 +127,10 @@ Lieferungen von und an diplomatische oder konsularische Vertretungen sowie von u
 
 <sup>1</sup> Das Labor Spiez nimmt die Meldungen nach dieser Verordnung entgegen, prüft sie nach den Weisungen des SECO und stellt sie nach Massgabe des CWÜ[^5-1] zusammen.
 
-<sup>2</sup> Es bestimmt, bis wann die Meldungen einzureichen sind, und erstellt die nötigen Formulare.
+<sup>2</sup> Es erstellt die nötigen Formulare.[^5-2]
 
 [^5-1]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^5-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 6
 
@@ -159,7 +195,7 @@ Dieses Verbot gilt auch für Mischungen mit Chemikalien der Liste 2. Davon ausge
 
 **Chemikalien der Liste 1**
 
-<sup>1</sup> Die Herstellung, die Verarbeitung und der Verbrauch von Chemikalien der Liste 1 sind bewilligungspflichtig.
+<sup>1</sup> Die Herstellung, die Verarbeitung und der Verbrauch von Chemikalien der Liste 1 sind bewilligungspflichtig. Ausgenommen von der Bewilligungspflicht sind die Verarbeitung und der Verbrauch von Chemikalien der Liste 1, sofern die Gesamtmenge pro Betrieb höchstens 100 g pro Jahr beträgt.[^11-1]
 
 <sup>2</sup>
 
@@ -170,20 +206,23 @@ Eine Bewilligung kann erteilt werden:
 
 <sup>3</sup>
 
-Das Gesuch ist dem SECO spätestens 200 Tage vor der erstmaligen Aufnahme der bewilligungspflichtigen Tätigkeit einzureichen und muss folgende Angaben enthalten:
+Das Gesuch muss folgende Angaben enthalten:[^11-2]
 
 - a. Name und Adresse der Gesuchstellerin oder des Gesuchstellers;
 - b. eine detaillierte technische Beschreibung der Anlage und ihrer betroffenen Teile;
 - c. eine Beschreibung der geplanten Tätigkeit.
 
-<sup>4</sup>
+<sup>3bis</sup> Das Gesuch für eine Tätigkeit nach Artikel 4*b* Absatz 1 ist beim SECO spätestens 200 Tage vor der erstmaligen Aufnahme der bewilligungspflichtigen Tätigkeit einzureichen. Der Bundesrat bestimmt die Gültigkeitsdauer der Bewilligung.[^11-3]
 
-Ausgenommen von der Bewilligungspflicht sind die Verarbeitung und der Verbrauch von Chemikalien der Liste 1 zu folgenden Zwecken, sofern die Gesamtmenge pro Betrieb höchstens 100 g pro Jahr beträgt:
+<sup>3ter</sup> Das Gesuch für eine Tätigkeit nach Artikel 4*b* Absatz 2 ist beim SECO spätestens 40 Tage vor der erstmaligen Aufnahme der bewilligungspflichtigen Tätigkeit einzureichen. Die Bewilligung ist fünf Jahre gültig.[^11-4]
 
-- a. Zwecke der Forschung, der Medizin und der Pharmazeutik;
-- b. Schutzzwecke in einem Betrieb der zentralen Bundesverwaltung.[^11-1]
+<sup>4</sup> ...[^11-5]
 
-[^11-1]: Eingefügt durch Ziff. I der V vom 28. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-3]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-4]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-5]: Eingefügt durch Ziff. I der V vom 28. Jan. 2015 ([AS 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)). Aufgehoben durch Ziff. I der V vom 17. Sept. 2021, mit Wirkung seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 12
 
@@ -208,7 +247,7 @@ Ausgenommen von der Bewilligungspflicht sind die Verarbeitung und der Verbrauch 
 Das Gesuch nach Absatz 1 ist dem SECO spätestens 40 Tage vor der Ein- oder Ausfuhr einzureichen und muss folgende Angaben enthalten:
 
 - a. die chemische Bezeichnung mit der Nummer des *Chemical Abstract Se**r**vice* (CAS-Nummer)[^13-1] und die genaue Menge der Chemikalie;
-- b. Name und Adresse der Endverbraucherin oder des Endverbrauchers;
+- b.[^13-2] Name und Adresse der Endempfängerin oder des Endempfängers;
 - c. eine detaillierte Beschreibung der vorgesehenen Verwendung der Chemikalie;
 - d. eine Bestätigung, dass die Chemikalie ausschliesslich für Forschungs- oder Schutzzwecke oder in der Medizin oder Pharmazeutik verwendet wird;
 - e. eine Bestätigung, dass die Chemikalie nicht wieder ausgeführt wird.
@@ -216,6 +255,7 @@ Das Gesuch nach Absatz 1 ist dem SECO spätestens 40 Tage vor der Ein- oder Ausf
 <sup>4</sup> Bei der Ausfuhr hat die Exporteurin oder der Exporteur die Angaben nach Absatz 3 vom Empfangsstaat bescheinigen zu lassen.
 
 [^13-1]: Vom *Chemical Abstract Service* (www.cas.org) festgelegte Nummer zur Identifizierung der Stoffe.
+[^13-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 14
 
@@ -251,17 +291,18 @@ Die Ausfuhr von Chemikalien der Liste 3 ist bewilligungspflichtig. Von der Bewil
 Erfolgt die Ausfuhr in einen Nichtvertragsstaat, so ist das Gesuch dem SECO zusammen mit einer Bescheinigung des Empfangsstaats einzureichen, die folgende Angaben enthalten muss:[^15-1]
 
 - a. die chemische Bezeichnung mit der CAS-Nummer und die genaue Menge der Chemikalie;
-- b. Name und Adresse der Endverbraucherin oder des Endverbrauchers;
+- b.[^15-2] Name und Adresse der Endempfängerin oder des Endempfängers;
 - c. eine detaillierte Beschreibung der vorgesehenen Verwendung der Chemikalie;
-- d. eine Bestätigung, dass die Chemikalie nur für Zwecke verwendet wird, die nach dem CWÜ[^15-2] nicht verboten sind;
-- e.[^15-3] eine Bestätigung, dass die Chemikalie nicht wieder ausgeführt wird.
+- d. eine Bestätigung, dass die Chemikalie nur für Zwecke verwendet wird, die nach dem CWÜ[^15-3] nicht verboten sind;
+- e.[^15-4] eine Bestätigung, dass die Chemikalie nicht wieder ausgeführt wird.
 
-<sup>3</sup> ...[^15-4]
+<sup>3</sup> ...[^15-5]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 28. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
-[^15-2]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
-[^15-3]: Eingefügt durch Ziff. I der V vom 28. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
-[^15-4]: Aufgehoben durch Ziff. I der V vom 28. Jan. 2015, mit Wirkung seit 1. März 2015 ([AS 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^15-3]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^15-4]: Eingefügt durch Ziff. I der V vom 28. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-5]: Aufgehoben durch Ziff. I der V vom 28. Jan. 2015, mit Wirkung seit 1. März 2015 ([AS 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
 
 #### Art. 16
 
@@ -273,14 +314,18 @@ Erfolgt die Ausfuhr in einen Nichtvertragsstaat, so ist das Gesuch dem SECO zusa
 
 #### Art. 17
 
-**Bewilligungsfreie Ausfuhr**
+**Pflichten bei der Ein- und Ausfuhr[^17-1]**
 
-<sup>1</sup> Wer Chemikalien ausführt, die unter die Zolltarifkapitel[^17-1] 28–30 (Tarifnummern 3002.1100–9000), 34, 36–40 und 81 fallen und deren Ausfuhr nicht bewilligungspflichtig ist, muss auf der Ausfuhrzollanmeldung den Vermerk «bewilligungsfrei» anbringen.[^17-2]
+<sup>1</sup> Wer Chemikalien ausführt, die unter die Zolltarifkapitel[^17-2] 28–30 (Tarifnummern 3002.1100–9000), 34, 36–40 und 81 fallen und deren Ausfuhr nicht bewilligungspflichtig ist, muss auf der Ausfuhrzollanmeldung den Vermerk «bewilligungsfrei» anbringen.[^17-3]
 
 <sup>2</sup> Auf Verlangen des SECO muss jederzeit nachgewiesen werden können, dass die Ausfuhr zu Recht bewilligungsfrei erfolgt ist. Die Nachweispflicht erlischt zehn Jahre nach der Zollveranlagung.
 
-[^17-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
-[^17-2]: Fassung gemäss Anhang 3 Ziff. 15 der V vom 10. Juni 2016 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2017 ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+<sup>3</sup> Wer Güter mit einer Bewilligung ein- oder ausführt, muss in der Zollanmeldung die Bewilligungsart, die Bewilligungsstelle und die Bewilligungsnummer angeben.[^17-4]
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^17-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^17-3]: Fassung gemäss Anhang 3 Ziff. 15 der V vom 10. Juni 2016 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2017 ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^17-4]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 18
 
@@ -288,55 +333,77 @@ Erfolgt die Ausfuhr in einen Nichtvertragsstaat, so ist das Gesuch dem SECO zusa
 
 <sup>1</sup> Die Zollorgane können Transporte mit Chemikalien, die zur Durchfuhr bestimmt sind, für Abklärungen anhalten.
 
-<sup>2</sup> Die Durchfuhr ist nur erlaubt, wenn die Ausfuhr den Vorschriften des Ursprungslandes oder Herkunftslandes entspricht.
+<sup>2</sup> Das SECO verweigert die Durchfuhr, wenn die Ausfuhr gegen Vorschriften des Ursprungs- oder Herkunftslandes verstösst oder Grund zur Annahme besteht, dass sie dem CWÜ[^18-1] widerspricht.[^18-2]
 
 <sup>3</sup> Das mit der Durchfuhr beauftragte Unternehmen hat den Nachweis nach Absatz 2 beim Verbringen in das Zollgebiet zu liefern. In begründeten Fällen kann der Nachweis nach Absprache mit der zuständigen Behörde zu einem späteren Zeitpunkt erfolgen.
 
-<sup>4</sup> Besteht Grund zur Annahme, dass eine Durchfuhr dem CWÜ[^18-1] widerspricht, so verbietet das SECO diese.
+<sup>4</sup> ...[^18-3]
 
 <sup>5</sup> Der Durchfuhr gleichgestellt ist die Auslagerung aus einem offenen Zolllager, einem Lager für Massengüter oder einem Zollfreilager.
 
 [^18-1]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^18-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^18-3]: Aufgehoben durch Ziff. I der V vom 17. Sept. 2021, mit Wirkung seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ### 3. Abschnitt: Verfahren
 
 #### Art. 19
 
-**Bewilligungsgesuche**
+**Bescheinigungen des Empfangsstaats[^19-1]**
 
-<sup>1</sup> Bewilligungsgesuche sind auf dem vom SECO herausgegebenen Formular einzureichen.
+<sup>1</sup> ...[^19-2]
 
-<sup>2</sup> Bescheinigungen des Empfangsstaates nach den Artikeln 13 Absatz 4 und 15 Absatz 2 können in deutscher, französischer, italienischer oder englischer Sprache eingereicht werden. Übersetzungen aus anderen Sprachen ist eine amtliche Beglaubigung beizulegen.[^19-1]
+<sup>2</sup> Bescheinigungen des Empfangsstaates nach den Artikeln 13 Absatz 4 und 15 Absatz 2 können in deutscher, französischer, italienischer oder englischer Sprache eingereicht werden. Übersetzungen aus anderen Sprachen ist eine amtliche Beglaubigung beizulegen.[^19-3]
 
-[^19-1]: Fassung gemäss Ziff. I der V vom 28. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^19-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^19-2]: Aufgehoben durch Ziff. I der V vom 17. Sept. 2021, mit Wirkung seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^19-3]: Fassung gemäss Ziff. I der V vom 28. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+
+#### Art. 19a
+
+**Bewilligungsvoraussetzungen**[^19a-1]
+
+<sup>1</sup> Bewilligungen werden nur natürlichen oder juristischen Personen erteilt, die ihren Wohnsitz beziehungsweise ihren Sitz oder ihre Niederlassung im schweizerischen Zollgebiet oder in einem schweizerischen Zollausschlussgebiet haben.
+
+<sup>2</sup> Für die Erteilung einer Bewilligung an eine juristische Person ist der Nachweis einer zuverlässigen firmeninternen Kontrolle der Einhaltung der Vorschriften der Güterkontrollgesetzgebung zu erbringen.
+
+<sup>3</sup> Generalausfuhrbewilligungen (GAB) werden nur an juristische Personen erteilt, die im schweizerischen oder liechtensteinischen Handelsregister eingetragen sind. Hochschulen und öffentliche Institutionen sind von dieser Anforderung ausgenommen.
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 20
 
-**Verweigerung der Bewilligungen**
+**Verweigerung von Bewilligungen**[^20-1]
 
-<sup>1</sup> Die Bewilligung wird nicht erteilt, wenn die beabsichtigte Tätigkeit dem CWÜ[^20-1] widerspricht.
+<sup>1</sup> Die Verweigerung von Bewilligungen richtet sich nach Artikel 6 GKG.
 
 <sup>2</sup>
 
-Die Generalausfuhrbewilligung (GAB) wird nicht erteilt, wenn die Gesuchstellerin oder der Gesuchsteller oder ein Mitglied ihrer oder seiner Organe in den letzten zwei Jahren vor Einreichung des Gesuches rechtskräftig verurteilt wurde wegen Widerhandlungen gegen:
+Eine GAB wird nicht erteilt, wenn die gesuchstellende natürliche Person oder die Mitglieder der Organe der gesuchstellenden juristischen Person in den zwei Jahren vor der Einreichung des Gesuches rechtskräftig verurteilt worden sind wegen Widerhandlungen gegen:
 
-- a. das Güterkontrollgesetz vom 13. Dezember 1996,
-- b. Aus-, Ein- oder Durchfuhrbestimmungen des Kriegsmaterialgesetzes vom 13. Dezember 1996[^20-2], des Kernenergiegesetzes vom 21. März 2003[^20-3] oder des Bundesgesetzes vom 25. Juni 1982[^20-4] über aussenwirtschaftliche Massnahmen.
+- a. das GKG;
+- b. das Kriegsmaterialgesetz vom 13. Dezember 1996[^20-2];
+- c. das Waffengesetz vom 20. Juni 1997[^20-3];
+- d. das Sprengstoffgesetz vom 25. März 1977[^20-4];
+- e. das Kernenergiegesetz vom 21. März 2003[^20-5];
+- f. das Bundesgesetz vom 25. Juni 1982[^20-6] über aussenwirtschaftliche Massnahmen.
 
-[^20-1]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^20-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^20-2]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^20-3]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^20-4]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^20-3]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^20-4]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^20-5]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^20-6]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
 
 #### Art. 21
 
 **Einzelbewilligungen**
 
-<sup>1</sup> Das SECO kann einer natürlichen oder juristischen Person, die ihren Wohnsitz beziehungsweise eine Niederlassung im schweizerischen Zollgebiet oder in einem der schweizerischen Zollausschlussgebiete hat, für die Einfuhr von Chemikalien nach den Chemikalienlisten sowie deren Ausfuhr eine Einzelbewilligung erteilen.
+<sup>1</sup> Einzelbewilligungen werden erteilt für die Einfuhr von Chemikalien der Liste 1 sowie für die Ausfuhr von Chemikalien der Listen 1, 2 und 3.[^21-1]
 
 <sup>2</sup> Eine Einzelbewilligung ist nicht übertragbar.
 
-<sup>3</sup> Sie ist für zwei Jahre gültig. Ihre Gültigkeitsdauer kann einmal um zwei Jahre verlängert werden.[^21-1]
+<sup>3</sup> Sie ist für zwei Jahre gültig. Ihre Gültigkeitsdauer kann einmal um zwei Jahre verlängert werden.[^21-2]
 
 <sup>4</sup> Sie kann mit Bedingungen und Auflagen verbunden werden.
 
@@ -347,13 +414,14 @@ Das SECO widerruft die Bewilligung, wenn:
 - a. die Voraussetzungen für eine Erteilung nicht mehr gegeben sind;
 - b. die an die Bewilligung geknüpften Bedingungen und Auflagen nicht eingehalten werden.
 
-[^21-1]: Fassung gemäss Anhang 8 Ziff. 3 der Güterkontrollverordnung vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+[^21-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^21-2]: Fassung gemäss Anhang 8 Ziff. 3 der Güterkontrollverordnung vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
 
 #### Art. 22
 
 **Generalausfuhrbewilligung**
 
-<sup>1</sup> Das SECO kann einer natürlichen oder juristischen Person, die im schweizerischen oder liechtensteinischen Handelsregister eingetragen ist, für die Ausfuhr von Chemikalien der Listen 2B und 3 eine GAB erteilen.
+<sup>1</sup> GAB werden erteilt für die Ausfuhr von Chemikalien der Listen 2B und 3.[^22-1]
 
 <sup>2</sup> Eine GAB kann auch für Ringversuche nach Artikel 16 erteilt werden.
 
@@ -368,17 +436,19 @@ Das SECO widerruft die Bewilligung, wenn:
 - a. die Voraussetzungen für eine Erteilung nicht mehr gegeben sind;
 - b. die an die Bewilligung geknüpften Bedingungen und Auflagen nicht eingehalten werden.
 
+[^22-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+
 #### Art. 23
 
-**Voraussetzung für die Erteilung einer GAB**
+**Nachweise für die Erteilung einer GAB**[^23-1]
 
-Eine GAB kann erteilt werden, wenn die Chemikalien für Endverbraucherinnen oder Endverbraucher mit Sitz oder Wohnsitz in einem Vertragsstaat des CWÜ[^23-1] bestimmt sind und die Gesuchstellerin oder der Gesuchsteller nachweisen kann, dass:
+Eine GAB kann erteilt werden, wenn die Chemikalien für eine Endempfängerin oder einen Endempfänger mit Sitz oder Wohnsitz in einem Vertragsstaat des CWÜ[^23-2] bestimmt sind und die Gesuchstellerin oder der Gesuchsteller nachweisen kann, dass:
 
-- a. die Tätigkeit der Endverbraucherin oder des Endverbrauchers mit dem CWÜ vereinbar sind;
-- b. sie oder er grenzüberschreitende Geschäfte ordnungsgemäss abwickelt; und
-- c. sie oder er bei der Ausfuhr eine zuverlässige firmeninterne Kontrolle gewährleistet.
+- a. die Tätigkeit der Endempfängerin oder des Endempfängers mit dem CWÜ vereinbar ist; und
+- b. sie oder er grenzüberschreitende Geschäfte ordnungsgemäss abwickelt.
 
-[^23-1]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^23-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^23-2]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
 
 #### Art. 24
 
@@ -400,13 +470,15 @@ Die Inhaberin oder der Inhaber einer GAB muss folgende Auflagen erfüllen:
 
 <sup>1</sup>
 
-Das Labor Spiez und die Inhaberin oder der Inhaber einer Bewilligung nach Artikel 11 haben dem Labor Spiez Folgendes zu melden:
+Das Labor Spiez und die Inhaberin oder der Inhaber einer Bewilligung nach Artikel 11 haben dem Labor Spiez innert folgender Fristen Folgendes zu melden:
 
-- a. die Herstellung, die Verarbeitung und den Verbrauch von Chemikalien der Liste 1 im abgelaufenen Kalenderjahr mit genauen Mengenangaben, einschliesslich der gelagerten Mengen;
-- b. alle Änderungen, die an der Anlage im abgelaufenen Kalenderjahr durchgeführt wurden;
-- c. vor Jahresbeginn: die voraussichtlichen Tätigkeiten im folgenden Kalenderjahr.
+- a. bis 45 Tage nach Jahresende: die Herstellung, die Verarbeitung und den Verbrauch von Chemikalien der Liste 1 im abgelaufenen Kalenderjahr mit genauen Mengenangaben, einschliesslich der gelagerten Mengen;
+- b. bis 45 Tage nach Jahresende: alle Änderungen, die an der Anlage im abgelaufenen Kalenderjahr durchgeführt wurden;
+- c. bis 120 Tage vor Jahresbeginn: die voraussichtlichen Tätigkeiten im folgenden Kalenderjahr.[^25-1]
 
 <sup>2</sup> Geplante Änderungen an der Anlage sind dem Labor Spiez spätestens 200 Tage, bevor die Änderungen vorgenommen werden soll, zu melden.
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 26
 
@@ -422,10 +494,10 @@ Die Herstellung, die Verarbeitung und der Verbrauch von Chemikalien der Liste 2 
 
 <sup>2</sup>
 
-Die jährlichen Meldungen umfassen:
+Innert folgender Fristen sind zu melden:
 
-- a. nach Jahresende eine Meldung über die Tätigkeiten im abgelaufenen Kalenderjahr;
-- b. vor Jahresbeginn eine Meldung über die voraussichtlichen Tätigkeiten im folgenden Kalenderjahr.
+- a. bis 45 Tage nach Jahresende: die Tätigkeiten im abgelaufenen Kalenderjahr;
+- b. bis 105 Tage vor Jahresbeginn: die voraussichtlichen Tätigkeiten im folgenden Kalenderjahr.[^26-1]
 
 <sup>3</sup>
 
@@ -437,6 +509,8 @@ Die Meldungen müssen folgende Angaben enthalten:
 - d. im Falle der Meldung voraussichtlicher Tätigkeiten: den Zeitraum der Ausübung.
 
 <sup>4</sup> Wird nach Abgabe der Meldung nach Absatz 2 Buchstabe b eine zusätzliche Tätigkeit geplant, so ist diese spätestens zehn Tage vor der Aufnahme der Tätigkeit zu melden.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 27
 
@@ -467,10 +541,10 @@ Die Meldepflichten nach Artikel 26 gelten auch für Chemikalien:
 
 <sup>2</sup>
 
-Die jährlichen Meldungen umfassen:
+Innert folgender Fristen sind zu melden:
 
-- a. nach Jahresende eine Meldung über die Tätigkeiten im abgelaufenen Kalenderjahr;
-- b. vor Jahresbeginn eine Meldung über die voraussichtlichen Tätigkeiten im folgenden Kalenderjahr.
+- a. bis 45 Tage nach Jahresende: die Tätigkeiten im abgelaufenen Kalenderjahr;
+- b. bis 105 Tage vor Jahresbeginn: die voraussichtlichen Tätigkeiten im folgenden Kalenderjahr.[^28-1]
 
 <sup>3</sup>
 
@@ -481,6 +555,8 @@ Die Meldungen müssen folgende Angaben enthalten:
 - c. die genaue Bezeichnung der Chemikalien mit Angabe der ungefähren Herstellungsmengen und der Verwendungszwecke.
 
 <sup>4</sup> Wird nach Abgabe der Meldung nach Absatz 2 Buchstabe b eine zusätzliche Tätigkeit geplant, so ist diese spätestens zehn Tage vor der Aufnahme der Tätigkeit zu melden.
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 29
 
@@ -501,12 +577,12 @@ Die Meldepflichten nach Artikel 28 gelten auch für Chemikalien:
 
 <sup>1</sup>
 
-Hersteller von DOC-Chemikalien haben dem Labor Spiez jährlich zu melden:
+Hersteller von DOC-Chemikalien haben dem Labor Spiez bis 45 Tage nach Jahresende zu melden:[^30-1]
 
 - a. im welchem Werk im abgelaufenen Kalenderjahr gesamthaft mehr als 200 t DOC-Chemikalien hergestellt wurden;
 - b. in welchem Betrieb oder in welchen Betrieben vom gemeldeten Werk im abgelaufenen Kalenderjahr mehr als 30 t einer PSF-Chemikalie hergestellt wurden.
 
-<sup>2</sup> Werke, die ausschliesslich Explosivstoffe oder Kohlenwasserstoffverbindungen herstellen, müssen nicht gemeldet werden.
+<sup>2</sup> Werke, die ausschliesslich Explosivstoffe oder Kohlenwasserstoffverbindungen herstellen und Werke, die DOC-Chemikalien ausschliesslich durch biochemische oder biologische Prozesse herstellen, müssen nicht gemeldet werden.[^30-2]
 
 <sup>3</sup>
 
@@ -517,15 +593,20 @@ Die Meldungen müssen folgende Angaben enthalten:
 - c. den genauen Standort mit Adresse;
 - d. die Bezeichnung der Firma, die das Werk betreibt.
 
+[^30-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^30-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+
 ### 2. Abschnitt: Ein- und Ausfuhr
 
 #### Art. 31
 
 **Ein- und Ausfuhr von Chemikalien der Liste 1**
 
-<sup>1</sup> Die Inhaberin oder der Inhaber einer Bewilligung nach Artikel 21 oder 22 hat dem Labor Spiez nach Jahresende Meldung zu erstatten über die im abgelaufenen Kalenderjahr tatsächlich ein- und ausgeführten Mengen von Chemikalien der Liste 1, unter Angabe des Herkunfts- und des Bestimmungslandes.
+<sup>1</sup> Die Inhaberin oder der Inhaber einer Bewilligung nach Artikel 21 oder 22 hat dem Labor Spiez bis 45 Tage nach Jahresende Meldung zu erstatten über die im abgelaufenen Kalenderjahr tatsächlich ein- und ausgeführten Mengen von Chemikalien der Liste 1, unter Angabe des Herkunfts- und des Bestimmungslandes.[^31-1]
 
 <sup>2</sup> Bei Mischungen ist der Anteil der bewilligungspflichtigen Chemikalie anzugeben.
+
+[^31-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 32
 
@@ -533,7 +614,7 @@ Die Meldungen müssen folgende Angaben enthalten:
 
 <sup>1</sup>
 
-Die Inhaberin oder der Inhaber einer Bewilligung nach Artikel 21 oder 22 hat dem Labor Spiez nach Jahresende Meldung zu erstatten über die im abgelaufenen Kalenderjahr tatsächlich ausgeführten Mengen von Chemikalien der Listen 2 und 3, unter Angabe des Bestimmungslandes, wenn folgende Mengen überschritten werden:
+Die Inhaberin oder der Inhaber einer Bewilligung nach Artikel 21 oder 22 hat dem Labor Spiez bis 45 Tagenach Jahresende Meldung zu erstatten über die im abgelaufenen Kalenderjahr tatsächlich ausgeführten Mengen von Chemikalien der Listen 2 und 3, unter Angabe des Bestimmungslandes, wenn folgende Mengen überschritten werden:[^32-1]
 
 - a. 1 kg einer Chemikalie der Liste 2A, die mit «\*» gekennzeichnet ist;
 - b. 100 kg einer Chemikalie der Liste 2A, die nicht mit «\*» gekennzeichnet ist;
@@ -549,7 +630,10 @@ Sie oder er hat dem Labor Spiez nach Jahresende Meldung zu erstatten über die i
 - c. 100 kg einer Chemikalie der Liste 2B;
 - d. 100 kg einer Chemikalie der Liste 3.
 
-<sup>3</sup> Bei Mischungen ist das tatsächliche Gewicht der meldepflichtigen Chemikalie anzugeben.
+<sup>3</sup> Die Meldepflicht für Mischungen von Chemikalien der Listen 2 und 3 gilt für Konzentrationsschwellen nach Artikel 27 oder 29. Bei diesen Mischungen ist das tatsächliche Gewicht der meldepflichtigen Chemikalie anzugeben.[^32-2]
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^32-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ### 3. Abschnitt: Schutzmassnahmen
 
@@ -681,10 +765,12 @@ Es ist, soweit dies zur Durchführung von Inspektionen nach Artikel IX CWÜ erfo
 
 #### Art. 41
 
-Nach Artikel 15 des Güterkontrollgesetzes vom 13. Dezember 1996 wird mit Busse bis zu 100 000 Franken bestraft, wer:
+Nach Artikel 15 GKG wird mit Busse bis zu 100 000 Franken bestraft, wer:[^41-1]
 
 - a. vorsätzlich oder fahrlässig gegen die Meldepflichten nach den Artikeln 3, 25, 26, 28 und 30–34 verstösst;
 - b. Inspektionen nach Artikel 35 verhindert oder sich weigert, seine Mitwirkungspflichten bei solchen Inspektionen nach Artikel 39 zu erfüllen.
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## 8. Kapitel: Schlussbestimmungen
 
@@ -704,13 +790,13 @@ Diese Verordnung tritt am 1. Oktober 2013 in Kraft.
 
 Anhang*[^t-1]*
 
-(Art. 1 Abs. 2 und 3)
+(Art. 1 Abs. 2 und 3, 2 Bst. g)
 
 ## Chemikalienlisten****
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des WBF vom 24. Febr. 2020, in Kraft seit 1. Juni 2020 ([AS 2020 821](https://fedlex.data.admin.ch/eli/oc/2020/151)).
+[^t-1]: Fassung gemäss Ziff. I der V des WBF vom 24. Febr. 2020 ([AS 2020 821](https://fedlex.data.admin.ch/eli/oc/2020/151)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^annexu1-lvlu1-1]: Massgebend für die Kontrolle sind die Namen der Chemikalien. Die CAS-Nummer darf nicht als alleiniges Kriterium zur Identifikation der Verbindung dienen. Verschiedene Listeneinträge stehen für «Familien», die aus Hunderten von strukturell ähnlichen Substanzen bestehen.
 
 (vgl. auch Exportkontrollnummer 1C350 von Anhang 2 Teil 2 der Güterkontrollverordnung vom 3. Juni 2016[^annexu1-lvlu1-2])
@@ -783,7 +869,7 @@ Anhang*[^t-1]*
 <tr><td></td><td>Dimethylmethylphosphonat</td><td>756-79-6</td></tr>
 <tr><td></td><td>*Ausnahme:* Fonofos: O-Ethyl-S-phenylethyldithiophosphonat</td><td>944-22-9</td></tr>
 <tr><td>5.</td><td>N,N-Dialkyl (Me, Et, n-Pr oder i-Pr)-phosphoramiddihalogenide</td><td></td></tr>
-<tr><td>6.</td><td>Diakyl (Me, Et, n-Pr oder i-Pr)-N,N-dialkyl (Me, Et, n-Pr oder i-Pr)-phosphoramidate</td><td></td></tr>
+<tr><td>6.</td><td>Dialkyl (Me, Et, n-Pr oder i-Pr)-N,N-dialkyl (Me, Et, n-Pr oder i-Pr)-phosphoramidate</td><td></td></tr>
 <tr><td>7.</td><td>Arsentrichlorid</td><td>7784-34-1</td></tr>
 <tr><td>8.</td><td>2,2-Diphenyl-2-hydroxyessigsäure</td><td>76-93-7</td></tr>
 <tr><td>9.</td><td>Chinuclidin-3-ol</td><td>1619-34-7</td></tr>

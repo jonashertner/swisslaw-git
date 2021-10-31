@@ -4,11 +4,11 @@ title: "Ordonnance du 21 août 2013 sur le contrôle des produits chimiques util
 short: OCPCh
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/580"
 language: fr
-version: 2020-06-01
+version: 2021-11-01
 adopted: 2013-08-21
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20200601/fr/xml/fedlex-data-admin-ch-eli-cc-2013-580-20200601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20200601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-580-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20200601/fr"
 
 (Ordonnance sur le contrôle des produits chimiques, OCPCh)
 
-du 21 août 2013 (Etat le 1<sup>er</sup> juin 2020)
+du 21 août 2013 (Etat le 1<sup>er</sup> novembre 2021)
 
 Le Conseil fédéral suisse,
 
-vu les art. 4, 11 et 22, al. 1, de la loi du 13 décembre 1996 sur le contrôle des biens[^ingress-1],
+vu les art. 4, 11 et 22, al. 1, de la loi du 13 décembre 1996 sur le contrôle des biens (LCB)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -47,20 +48,35 @@ arrête:
 
 Au sens de la présente ordonnance, on entend par:
 
-- a. *fabrication:* l’obtention d’un produit chimique par le biais d’une réaction chimique ou biochimique, ou d’un processus biologique;
+- a.[^2-1] *fabrication:* l’obtention d’un produit chimique par le biais d’une réaction chimique ou d’un processus biochimique ou biologique;
 - b. *traitement:* un processus physique tel que la préparation, l’extraction ou la purification, où le produit chimique n’est pas transformé en un autre;
-- c. *consommation:* la transformation d’un produit chimique en un autre par le biais d’une réaction chimique ou biochimique, ou d’un processus biologique;
+- c.[^2-2] *consommation:* la transformation d’un produit chimique en un autre par le biais d’une réaction chimique ou d’un processus biochimique ou biologique;
 - d. *site d’usines:* plusieurs usines localisées au même endroit;
 - e. *usine:* une zone autonome abritant une ou plusieurs unités;
 - f. *unité:* une installation destinée à la fabrication, au traitement ou à la consommation d’un produit chimique, y compris le matériel nécessaire à cet effet;
-- g. *produit chimique organique défini (PCOD):* tout produit chimique organique selon la définition correspondant à l’état des connaissances scientifiques, à l’exception des polymères d’un poids moléculaire supérieur à 1000 et des produits chimiques contenant seulement des hydrocarbures ou du carbone et des métaux;
-- h. *produit chimique PSF:* un PCOD qui contient un ou plusieurs éléments de phosphore, de soufre ou de fluor et qui n’est pas mentionné dans les tableaux de produits chimiques;
-- i. *sous-produit inévitable:* un produit chimique qui se forme, à défaut d’un autre procédé approprié, lors d’une réaction chimique ou biochimique, ou d’un processus biologique;
-- j. *État partie:* un État qui a ratifié la CAC[^2-1];
-- k. *pays d’origine:* le pays dans lequel un produit chimique a été fabriqué;
-- l. *pays de provenance:* le pays dans lequel un produit chimique a été dédouané en dernier.
+- g.[^2-3]
 
-[^2-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+  *produit chimique organique défini (PCOD):* tout produit chimique organique selon la définition correspondant à l’état des connaissances scientifiques, à l’exception:
+
+  - 1\. des produits chimiques mentionnés dans les tableaux de produits chimiques en annexe,
+  - 2\. des produits chimiques contenant seulement des hydrocarbures ou du carbone et des métaux,
+  - 3\. des molécules constituées de trois unités de récurrence ou plus, comme les oligomères et les polymères;
+
+- h. *produit chimique PSF:* un PCOD qui contient un ou plusieurs éléments de phosphore, de soufre ou de fluor et qui n’est pas mentionné dans les tableaux de produits chimiques;
+- i.[^2-4] *sous-produit inévitable:* un produit chimique qui se forme, à défaut d’un autre procédé approprié, lors d’une réaction chimique ou d’un processus biologique ou biochimique;
+- j. *État partie:* un État qui a ratifié la CAC[^2-5];
+- k.[^2-6] *pays d’origine:* le pays dans lequel un produit chimique a été entièrement obtenu ou a fait l’objet de sa dernière ouvraison ou transformation suffisantes;
+- l.[^2-7] *pays de provenance:* le pays dans lequel un produit chimique a été dédouané en dernier avant d’être expédié vers le territoire douanier suisse ou l’une des enclaves douanières suisses;
+- m.[^2-8] *pays de destination:* le pays dans lequel un produit chimique est censé être utilisé, transformé, perfectionné ou ouvré de quelque autre manière.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-5]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^2-6]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-7]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-8]: Introduite par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 3
 
@@ -72,19 +88,38 @@ Les livraisons en provenance de représentations diplomatiques ou consulaires, o
 
 #### Art. 4
 
-**Permis**[^4-1]
+**Autorité habilitée à délivrer les permis**[^4-1]
 
-<sup>1</sup> Le Conseil fédéral délivre les permis prévus à l’art. 11 sur proposition du DEFR.
+<sup>1</sup> Le Secrétariat d’État à l’économie (SECO) délivre les permis. L’art. 4*b* est réservé.
 
-<sup>2</sup> Le Secrétariat d’État à l’économie (SECO) autorise les demandes de permis individuels lorsque rien n’indique qu’il existe un motif de refus selon l’art. 6 de la loi du 13 décembre 1996 sur le contrôle des biens (LCB) ou l’art. 20, al. 1, de la présente ordonnance.
+<sup>2</sup> Le SECO peut faire appel, pour une expertise technique, à d’autres services fédéraux, notamment le Laboratoire Spiez, ainsi qu’à des associations professionnelles, à des organisations spécialisées et à des experts. Le personnel des associations professionnelles et des organisations spécialisées ainsi que les experts sont tenus au secret de fonction au sens de l’art. 320 du code pénal[^4-2].
 
-<sup>3</sup> Il rejette les demandes de permis lorsqu’il existe un motif de refus visé à l’art. 6 LCB ou à l’art. 20 de la présente ordonnance.
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^4-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-<sup>4</sup> Pour l’examen matériel des demandes de permis, il peut faire appel à d’autres services fédéraux, notamment au Laboratoire Spiez, ainsi qu’à des organisations spécialisées, des associations professionnelles et à des experts.
+#### Art. 4a
 
-<sup>5</sup> Dans tous les autres cas, il décide en accord avec les services compétents du Département fédéral des affaires étrangères (DFAE), du Département fédéral de la défense, de la protection de la population et des sports et du Département fédéral de l’environnement, des transports, de l’énergie et de la communication, après avoir consulté le Service de renseignement de la Confédération. Faute d’accord, le Conseil fédéral tranche sur proposition du DEFR.
+**Décision concernant le permis**[^4a-1]
 
-[^4-1]: Nouvelle teneur selon le ch. 3 de l’annexe 8 à l’O du 3 juin 2016 sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+<sup>1</sup> Le SECO délivre un permis lorsque rien n’indique qu’il existe un motif de refus visé à l’art. 20.
+
+<sup>2</sup> Il refuse le permis lorsqu’il existe un motif de refus visé à l’art. 20.
+
+<sup>3</sup> En présence d’un indice d’un motif de refus, le SECO accepte ou rejette la demande de permis en accord avec les services compétents du Département fédéral des affaires étrangères (DFAE), du Département fédéral de la défense, de la protection de la population et des sports et du Département fédéral de l’environnement, des transports, de l’énergie et de la communication, après avoir consulté le Service de renseignement de la Confédération (SRC). Faute d’accord, le Conseil fédéral tranche sur proposition du DEFR.
+
+[^4a-1]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+
+#### Art. 4b
+
+**Permis pour la fabrication, le traitement et la consommation de produits chimiques du tableau 1**[^4b-1]
+
+<sup>1</sup> Les permis pour la fabrication, le traitement et la consommation de produits chimiques selon l’art. 11, al. 2, sont délivrés par le Conseil fédéral.
+
+<sup>2</sup> Les permis visés à l’art. 11, al. 2, let. b, sont délivrés par le SECO en accord avec le Laboratoire Spiez lorsque la quantité totale du produit chimique par usine est inférieure à 100 g par an.
+
+<sup>3</sup> Le SECO informe le SRC des permis délivrés.
+
+[^4b-1]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 5
 
@@ -92,9 +127,10 @@ Les livraisons en provenance de représentations diplomatiques ou consulaires, o
 
 <sup>1</sup> Le Laboratoire Spiez collecte les déclarations prévues par la présente ordonnance, les examine selon les instructions du SECO et les classe conformément à la CAC[^5-1].
 
-<sup>2</sup> Il fixe le délai dans lequel les déclarations doivent être présentées et établit les formulaires nécessaires.
+<sup>2</sup> Il établit les formulaires nécessaires.[^5-2]
 
 [^5-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 6
 
@@ -159,7 +195,7 @@ Cette interdiction s’applique aussi aux mélanges contenant des produits chimi
 
 **Produits chimiques du tableau 1**
 
-<sup>1</sup> La fabrication, le traitement et la consommation de produits chimiques du tableau 1 requièrent un permis.
+<sup>1</sup> La fabrication, le traitement et la consommation de produits chimiques du tableau 1 requièrent un permis. Le traitement et la consommation de produits chimiques du tableau 1 ne sont pas soumis au permis si la quantité totale par usine ne dépasse pas 100 g par an.[^11-1]
 
 <sup>2</sup>
 
@@ -170,20 +206,23 @@ Le permis peut être délivré:
 
 <sup>3</sup>
 
-La demande doit être présentée au SECO au plus tard 200 jours avant que l’activité soumise au permis ne commence pour la première fois, et contenir les indications suivantes:
+La demande doit contenir les indications suivantes:[^11-2]
 
 - a. le nom et l’adresse du requérant;
 - b. une description technique détaillée de l’unité et des parties concernées de celle-ci;
 - c. une description de l’activité prévue.
 
-<sup>4</sup>
+<sup>3bis</sup> La demande portant sur une activité visée à l’art. 4*b*, al. 1, doit être présentée au SECO au plus tard 200 jours avant que l’activité soumise au permis ne commence pour la première fois. Le Conseil fédéral fixe la durée de validité du permis.[^11-3]
 
-Ne sont pas soumis au permis, pour autant que la quantité totale par usine ne dépasse pas 100 g par an, le traitement et la consommation de produits chimiques du tableau 1:
+<sup>3ter</sup> La demande portant sur une activité visée à l’art. 4*b*, al. 2, doit être présentée au SECO au plus tard 40 jours avant que l’activité soumise au permis ne commence pour la première fois. Le permis est valable pendant cinq ans.[^11-4]
 
-- a. à des fins de recherche ou à des fins médicales ou pharmaceutiques;
-- b. à des fins de protection dans une usine de l’administration fédérale centrale.[^11-1]
+<sup>4</sup> …[^11-5]
 
-[^11-1]: Introduit par le ch. I de l’O du 28 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-3]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-4]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-5]: Introduit par le ch. I de l’O du 28 janv. 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)). Abrogé par le ch. I de l’O du 17 sept. 2021, avec effet au 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 12
 
@@ -208,7 +247,7 @@ Ne sont pas soumis au permis, pour autant que la quantité totale par usine ne d
 La demande visée à l’al. 1 doit être présentée au SECO au plus tard 40 jours avant l’importation ou l’exportation, et contenir les indications suivantes:
 
 - a. la désignation chimique, y compris le numéro du *Chemical Abstract Service* (numéro CAS)[^13-1], et la quantité exacte du produit chimique;
-- b. le nom et l’adresse de l’utilisateur final;
+- b.[^13-2] le nom et l’adresse du destinataire final;
 - c. une description détaillée de l’utilisation prévue du produit chimique;
 - d. une confirmation que le produit chimique sera utilisé exclusivement à des fins de recherche ou de protection, ou dans le domaine médical ou pharmaceutique;
 - e. une confirmation que le produit chimique ne sera pas réexporté.
@@ -216,6 +255,7 @@ La demande visée à l’al. 1 doit être présentée au SECO au plus tard 40 jo
 <sup>4</sup> En cas d’exportation, l’exportateur doit faire certifier les indications visées à l’al. 3 par l’État destinataire.
 
 [^13-1]: Numéro attribué par le *Chemical Abstract Service* (www.cas.org) pour identifier les substances.
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 14
 
@@ -251,17 +291,18 @@ L’exportation de produits chimiques du tableau 3 requiert un permis. Ne sont p
 En cas d’exportation vers un État non partie, la demande doit être présentée au SECO, accompagnée d’un certificat de l’État destinataire, qui doit contenir les indications suivantes:[^15-1]
 
 - a. la désignation chimique, y compris le numéro CAS, et la quantité exacte du produit chimique;
-- b. le nom et l’adresse de l’utilisateur final;
+- b.[^15-2] le nom et l’adresse du destinataire final;
 - c. une description détaillée de l’utilisation prévue du produit chimique;
-- d. une confirmation que le produit chimique ne sera utilisé qu’à des fins non interdites par la CAC[^15-2];
-- e.[^15-3] une confirmation que le produit chimique ne sera pas réexporté.
+- d. une confirmation que le produit chimique ne sera utilisé qu’à des fins non interdites par la CAC[^15-3];
+- e.[^15-4] une confirmation que le produit chimique ne sera pas réexporté.
 
-<sup>3</sup> …[^15-4]
+<sup>3</sup> …[^15-5]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
-[^15-2]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
-[^15-3]: Introduite par le ch. I de l’O du 28 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
-[^15-4]: Abrogé par le ch. I de l’O du 28 janv. 2015, avec effet au 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^15-3]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^15-4]: Introduite par le ch. I de l’O du 28 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-5]: Abrogé par le ch. I de l’O du 28 janv. 2015, avec effet au 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
 
 #### Art. 16
 
@@ -273,14 +314,18 @@ En cas d’exportation vers un État non partie, la demande doit être présent�
 
 #### Art. 17
 
-**Exportation exempte de permis**
+**Obligations à l’importation et à l’exportation[^17-1]**
 
-<sup>1</sup> Quiconque exporte des produits chimiques relevant des chap. 28 à 30 (n<sup>os</sup> 3002.1100–9000 du tarif), 34, 36 à 40 et 81 du tarif des douanes[^17-1] et dont l’exportation ne requiert pas de permis est tenu de faire figurer la mention «exempt de permis» dans la déclaration d’exportation.[^17-2]
+<sup>1</sup> Quiconque exporte des produits chimiques relevant des chap. 28 à 30 (n<sup>os</sup> 3002.1100–9000 du tarif), 34, 36 à 40 et 81 du tarif des douanes[^17-2] et dont l’exportation ne requiert pas de permis est tenu de faire figurer la mention «exempt de permis» dans la déclaration d’exportation.[^17-3]
 
 <sup>2</sup> Sur demande du SECO, il doit pouvoir être prouvé à tout moment que l’exportation sans permis a eu lieu conformément au droit. L’obligation de fournir cette preuve expire dix ans après le placement sous régime douanier.
 
-[^17-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
-[^17-2]: Nouvelle teneur selon le ch. 15 de l’annexe 3 à l’O du 10 juin 2016 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+<sup>3</sup> Quiconque importe ou exporte des biens au moyen d’un permis est tenu d’indiquer le type de permis, l’autorité qui a délivré le permis et le numéro du permis dans la déclaration en douane.[^17-4]
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^17-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
+[^17-3]: Nouvelle teneur selon le ch. 15 de l’annexe 3 à l’O du 10 juin 2016 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^17-4]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 18
 
@@ -288,55 +333,77 @@ En cas d’exportation vers un État non partie, la demande doit être présent�
 
 <sup>1</sup> Les services douaniers peuvent, à des fins de clarification, retenir des transports de produits chimiques en transit.
 
-<sup>2</sup> Le transit n’est autorisé que si l’exportation répond aux prescriptions du pays d’origine ou du pays de provenance.
+<sup>2</sup> Le SECO interdit le transit si l’exportation viole les prescriptions du pays d’origine ou de provenance, ou s’il y a des raisons de penser qu’il contrevient à la CAC[^18-1].[^18-2]
 
 <sup>3</sup> L’entreprise chargée du transit doit fournir la preuve prévue à l’al. 2 lors de l’introduction sur le territoire douanier. Dans des cas dûment motivés et après entente avec l’autorité compétente, la preuve peut être fournie plus tard.
 
-<sup>4</sup> Le SECO interdit le transit s’il y a des raisons de supposer qu’il contrevient à la CAC[^18-1].
+<sup>4</sup> …[^18-3]
 
 <sup>5</sup> La sortie d’un entrepôt douanier ouvert, d’un entrepôt de marchandises de grande consommation ou d’un dépôt franc sous douane est assimilée au transit.
 
 [^18-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^18-3]: Abrogé par le ch. I de l’O du 17 sept. 2021, avec effet au 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ### Section 3 Procédure
 
 #### Art. 19
 
-**Demandes de permis**
+**Certificats fournis par l’État destinataire[^19-1]**
 
-<sup>1</sup> Les demandes de permis doivent être présentées au moyen du formulaire établi par le SECO.
+<sup>1</sup> …[^19-2]
 
-<sup>2</sup> Les certificats fournis par l’État destinataire en application des art. 13, al. 4, et 15, al. 2, peuvent être rédigés en allemand, en français, en italien ou en anglais. Les traductions à partir d’autres langues doivent être accompagnées d’une authentification officielle.[^19-1]
+<sup>2</sup> Les certificats fournis par l’État destinataire en application des art. 13, al. 4, et 15, al. 2, peuvent être rédigés en allemand, en français, en italien ou en anglais. Les traductions à partir d’autres langues doivent être accompagnées d’une authentification officielle.[^19-3]
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^19-2]: Abrogé par le ch. I de l’O du 17 sept. 2021, avec effet au 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du 28 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+
+#### Art. 19a
+
+**Conditions d’octroi du permis**[^19a-1]
+
+<sup>1</sup> Les permis ne sont délivrés qu’à des personnes physiques ou morales ayant leur domicile, leur siège ou un établissement sur le territoire douanier suisse ou dans une enclave douanière suisse.
+
+<sup>2</sup> Pour obtenir un permis, une personne morale doit apporter la preuve d’un contrôle interne fiable du respect des prescriptions de la législation sur le contrôle des biens.
+
+<sup>3</sup> Les licences générales d’exportation (LG) sont délivrées uniquement à des personnes morales inscrites au registre suisse ou liechtensteinois du commerce. Cette exigence ne s’applique pas aux hautes écoles ni aux institutions publiques.
+
+[^19a-1]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 20
 
-**Refus de permis**
+**Refus du permis**[^20-1]
 
-<sup>1</sup> Le permis n’est pas délivré si l’activité envisagée est contraire à la CAC[^20-1].
+<sup>1</sup> Le refus du permis est régi par l’art. 6 LCB.
 
 <sup>2</sup>
 
-La licence générale d’exportation (LG) n’est pas délivrée si le requérant ou un membre de ses organes a fait l’objet, au cours des deux années précédant la présentation de la demande, d’une condamnation exécutoire prononcée pour infraction:
+L’octroi d’une LG est exclu lorsque la personne physique présentant la demande ou les membres des organes de la personne morale présentant la demande ont été condamnés par un jugement entré en force, au cours des deux années précédant le dépôt de la demande, pour infraction:
 
-- a. à la loi du 13 décembre 1996 sur le contrôle des biens;
-- b. aux dispositions en matière d’exportation, d’importation ou de transit de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^20-2], de la loi du 21 mars 2003 sur l’énergie nucléaire[^20-3] ou de la loi fédérale du 25 juin 1982 sur les mesures économiques extérieures[^20-4].
+- a. à la LCB;
+- b. à la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^20-2];
+- c. à la loi du 20 juin 1997 sur les armes[^20-3];
+- d. à la loi du 25 mars 1977 sur les explosifs[^20-4];
+- e. à la loi du 21 mars 2003 sur l’énergie nucléaire[^20-5];
+- f. à la loi fédérale du 25 juin 1982 sur les mesures économiques extérieures[^20-6].
 
-[^20-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^20-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^20-3]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^20-4]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^20-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^20-4]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^20-5]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^20-6]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
 
 #### Art. 21
 
 **Permis individuels**
 
-<sup>1</sup> Le SECO peut délivrer un permis individuel à une personne physique ou morale ayant son domicile ou un établissement sur le territoire douanier suisse ou dans une enclave douanière suisse pour l’importation de produits chimiques mentionnés dans les tableaux de produits chimiques et leur exportation.
+<sup>1</sup> Un permis individuel est délivré pour l’importation de produits chimiques du tableau 1 et l’exportation de produits chimiques des tableaux 1, 2 et 3.[^21-1]
 
 <sup>2</sup> Le permis individuel n’est pas transmissible.
 
-<sup>3</sup> Il est valable deux ans. Sa durée de validité peut être prolongée une fois de deux ans.[^21-1]
+<sup>3</sup> Il est valable deux ans. Sa durée de validité peut être prolongée une fois de deux ans.[^21-2]
 
 <sup>4</sup> Il peut être assorti de charges et de conditions.
 
@@ -347,13 +414,14 @@ Le SECO retire le permis:
 - a. si les conditions préalables à son octroi ne sont plus remplies;
 - b. si les conditions et les charges liées au permis ne sont pas respectées.
 
-[^21-1]: Nouvelle teneur selon le ch. 3 de l’annexe 8 à l’O du 3 juin 2016 sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^21-2]: Nouvelle teneur selon le ch. 3 de l’annexe 8 à l’O du 3 juin 2016 sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
 
 #### Art. 22
 
 **Licence générale d’exportation**
 
-<sup>1</sup> Le SECO peut délivrer une LG à une personne physique ou morale inscrite au registre suisse ou liechtensteinois du commerce pour l’exportation de produits chimiques des tableaux 2B et 3.
+<sup>1</sup> Une LG est délivrée pour l’exportation de produits chimiques des tableaux 2B et 3.[^22-1]
 
 <sup>2</sup> Une LG peut aussi être délivrée pour des épreuves de compétence selon l’art. 16.
 
@@ -368,17 +436,19 @@ Le SECO retire la licence:
 - a. si les conditions préalables à son octroi ne sont plus remplies;
 - b. si les conditions et les charges liées à la licence ne sont pas respectées.
 
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+
 #### Art. 23
 
-**Condition préalable à l’octroi d’une LG**
+**Preuves requises pour l’octroi d’une LG**[^23-1]
 
-Une LG peut être délivrée lorsque les produits chimiques sont destinés à des utilisateurs finaux ayant leur siège ou leur domicile dans un État partie à la CAC[^23-1] ou que le requérant peut prouver:
+Une LG peut être délivrée lorsque les produits chimiques sont destinés à un destinataire final ayant son siège ou son domicile dans un État partie à la CAC[^23-2] et que le requérant peut prouver:
 
-- a. que l’activité de l’utilisateur final est compatible avec la CAC;
-- b. qu’il assure une exécution réglementaire des affaires transfrontalières, et
-- c. qu’il effectue un contrôle interne fiable lors de l’exportation.
+- a. que l’activité du destinataire final est compatible avec la CAC, et
+- b. qu’il assure une exécution réglementaire des opérations transfrontalières.
 
-[^23-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^23-2]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
 
 #### Art. 24
 
@@ -400,13 +470,15 @@ Le titulaire d’une LG doit remplir les charges suivantes:
 
 <sup>1</sup>
 
-Le Laboratoire Spiez et le titulaire d’un permis selon l’art. 11 sont tenus de déclarer au Laboratoire Spiez:
+Le Laboratoire Spiez et le titulaire d’un permis selon l’art. 11 sont tenus de déclarer au Laboratoire Spiez dans les délais suivants:
 
-- a. la fabrication, le traitement et la consommation de produits chimiques du tableau 1 pendant l’année civile écoulée, en indiquant les quantités exactes, y compris les quantités stockées;
-- b. toutes les modifications apportées à l’unité pendant l’année civile écoulée;
-- c. avant la fin de l’année, les activités prévues pendant l’année civile suivante.
+- a. au plus tard 45 jours après le début de l’année: la fabrication, le traitement et la consommation de produits chimiques du tableau 1 pendant l’année civile écoulée, en indiquant les quantités exactes, y compris les quantités stockées;
+- b. au plus tard 45 jours après le début de l’année: toutes les modifications apportées à l’unité pendant l’année civile écoulée;
+- c. au plus tard 120 jours avant la fin de l’année, les activités prévues pendant l’année civile suivante.[^25-1]
 
 <sup>2</sup> Les modifications qu’il est prévu d’apporter à l’unité doivent être déclarées au Laboratoire Spiez 200 jours au plus tard avant qu’elles ne soient réalisées.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 26
 
@@ -422,10 +494,10 @@ La fabrication, le traitement et la consommation de produits chimiques du tablea
 
 <sup>2</sup>
 
-Les déclarations annuelles comprennent:
+Doivent être déclarées dans les délais suivants:
 
-- a. au début de l’année, une déclaration sur les activités pratiquées pendant l’année civile écoulée;
-- b. avant la fin de l’année, une déclaration sur les activités prévues au cours de l’année civile suivante.
+- a. au plus tard 45 jours après le début de l’année: les activités pratiquées pendant l’année civile écoulée;
+- b. au plus tard 105 jours avant la fin de l’année: les activités prévues pendant l’année civile suivante.[^26-1]
 
 <sup>3</sup>
 
@@ -437,6 +509,8 @@ Les déclarations doivent contenir les indications suivantes:
 - d. s’agissant de la déclaration d’activités prévues: la période pendant laquelle elles seront pratiquées.
 
 <sup>4</sup> Si, après la présentation de la déclaration visée à l’al. 2, let. b, une activité supplémentaire est prévue, elle doit être déclarée dix jours au plus tard avant qu’elle ne commence.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 27
 
@@ -467,10 +541,10 @@ Les obligations en matière de déclaration fixées à l’art. 26 s’appliquen
 
 <sup>2</sup>
 
-Les déclarations annuelles comprennent:
+Doivent être déclarées dans les délais suivants:
 
-- a. au début de l’année, une déclaration sur les activités pratiquées pendant l’année civile écoulée;
-- b. avant la fin de l’année, une déclaration sur les activités prévues au cours de l’année civile suivante.
+- a. au plus tard 45 jours après le début de l’année: les activités pratiquées pendant l’année civile écoulée;
+- b. au plus tard 105 jours avant la fin de l’année: les activités prévues pendant l’année civile suivante.[^28-1]
 
 <sup>3</sup>
 
@@ -481,6 +555,8 @@ Les déclarations doivent contenir les indications suivantes:
 - c. la désignation exacte des produits chimiques, ainsi que l’indication des quantités approximatives fabriquées et des fins auxquelles les produits chimiques ont été ou seront fabriqués.
 
 <sup>4</sup> Si, après la présentation de la déclaration visée l’al. 2, let. b, une activité supplémentaire est prévue, elle doit être déclarée dix jours au plus tard avant qu’elle ne commence.
+
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 29
 
@@ -501,12 +577,12 @@ Les obligations en matière de déclaration fixées à l’art. 28 s’appliquen
 
 <sup>1</sup>
 
-Les fabricants de PCOD sont tenus de déclarer chaque année au Laboratoire Spiez:
+Les fabricants de PCOD sont tenus de déclarer au Laboratoire Spiez au plus tard 45 jours après le début de l’année:[^30-1]
 
 - a. sur quel site d’usines plus de 200 t de PCOD ont été fabriquées au total pendant l’année civile écoulée;
 - b. dans quelle usine ou quelles usines du site déclaré plus de 30 t d’un produit chimique PSF ont été fabriquées au total pendant l’année civile écoulée.
 
-<sup>2</sup> Les sites d’usines qui fabriquent exclusivement des explosifs et des hydrocarbures ne doivent pas être déclarés.
+<sup>2</sup> Les sites d’usines qui fabriquent exclusivement des explosifs et des hydrocarbures et les sites d’usines qui fabriquent des PCOD en recourant exclusivement à des processus biochimiques ou biologiques ne doivent pas être déclarés.[^30-2]
 
 <sup>3</sup>
 
@@ -517,15 +593,20 @@ Les déclarations doivent comporter les indications suivantes:
 - c. son emplacement exact, y compris son adresse;
 - d. la désignation de l’entreprise qui gère le site d’usines.
 
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^30-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+
 ### Section 2 Importation et exportation
 
 #### Art. 31
 
 **Importation et exportation de produits chimiques du tableau 1**
 
-<sup>1</sup> Le titulaire d’un permis selon l’art. 21 ou 22 est tenu de déclarer au Laboratoire Spiez, au début de l’année, les quantités de produits chimiques du tableau 1 effectivement importées et exportées pendant l’année civile écoulée, en indiquant le pays de provenance et le pays de destination.
+<sup>1</sup> Le titulaire d’un permis selon l’art. 21 ou 22 est tenu de déclarer au Laboratoire Spiez, au plus tard 45 jours après le début de l’année, les quantités de produits chimiques du tableau 1 effectivement importées et exportées pendant l’année civile écoulée, en indiquant le pays de provenance et le pays de destination.[^31-1]
 
 <sup>2</sup> Dans le cas de mélanges, il convient d’indiquer la proportion du produit chimique soumis au permis.
+
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 32
 
@@ -533,7 +614,7 @@ Les déclarations doivent comporter les indications suivantes:
 
 <sup>1</sup>
 
-Le titulaire d’un permis selon l’art. 21 ou 22 est tenu de déclarer au Laboratoire Spiez, au début de l’année, les quantités de produits chimiques des tableaux 2 et 3 effectivement exportées pendant l’année civile écoulée, en indiquant le pays de destination, lorsque les quantités suivantes sont dépassées:
+Le titulaire d’un permis selon l’art. 21 ou 22 est tenu de déclarer au Laboratoire Spiez, au plus tard 45 jours après le début de l’année, les quantités de produits chimiques des tableaux 2 et 3 effectivement exportées pendant l’année civile écoulée, en indiquant le pays de destination, lorsque les quantités suivantes sont dépassées:[^32-1]
 
 - a. 1 kg d’un produit chimique du tableau 2A suivi d’un «\*»;
 - b. 100 kg d’un produit chimique du tableau 2A non suivi d’un «\*»;
@@ -549,7 +630,10 @@ Il est tenu de déclarer au Laboratoire Spiez, au début de l’année, les quan
 - c. 100 kg d’un produit chimique du tableau 2B;
 - d. 100 kg d’un produit chimique du tableau 3.
 
-<sup>3</sup> Dans le cas de mélanges, il convient d’indiquer le poids effectif du produit chimique soumis à déclaration.
+<sup>3</sup> L’obligation de déclarer les mélanges de produits chimiques des tableaux 2 et 3 s’applique aux seuils de concentration visés à l’art. 27 ou 29. Pour ces mélanges, il convient d’indiquer le poids effectif du produit chimique soumis à déclaration.[^32-2]
+
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^32-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ### Section 3 Mesures de protection
 
@@ -681,10 +765,12 @@ Si la conduite des inspections prévues à l’art. IX de la CAC l’exige, elle
 
 #### Art. 41
 
-Est puni d’une amende de 100 000 francs au plus, conformément à l’art. 15 de la loi du 13 décembre 1996 sur le contrôle des biens, quiconque:
+Est puni d’une amende de 100 000 francs au plus, conformément à l’art. 15 LCB, quiconque:[^41-1]
 
 - a. enfreint, intentionnellement ou par négligence, les obligations en matière de déclaration fixées aux art. 3, 25, 26, 28 et 30 à 34;
 - b. empêche les inspections prévues à l’art. 35 ou refuse de s’acquitter des obligations de coopérer prévues à l’art. 39 lors de telles inspections.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## Chapitre 8 Dispositions finales
 
@@ -704,13 +790,13 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2013.
 
 Annexe*[^t-1]*
 
-(art. 1, al. 2 et 3)
+(art. 1, al. 2 et 3, et 2, let. g)
 
 ## Tableaux de produits chimiques****
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 24 fév. 2020, en vigueur depuis le 1<sup>er</sup> juin 2020 ([RO 2020 821](https://fedlex.data.admin.ch/eli/oc/2020/151)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 24 fév. 2020 ([RO 2020 821](https://fedlex.data.admin.ch/eli/oc/2020/151)). Mise à jour par le ch. II de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^annexu1-lvlu1-1]: Les noms des produits chimiques sont déterminants pour le contrôle. Le numéro CAS ne doit pas être utilisé comme identifiant unique du composé. Plusieurs inscriptions correspondent à des «familles», comptant des centaines de substances dont la composition chimique est similaire.
 
 (v. aussi le numéro de contrôle à l’exportation 1C350 à l’ann. 2, partie 2, de l’ordonnance du 3 juin 2016 sur le contrôle des biens[^annexu1-lvlu1-2])
