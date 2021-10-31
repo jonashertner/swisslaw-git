@@ -4,13 +4,13 @@ number: "426.411"
 title: Ordonnance sur la protection du patrimoine
 short: OPat
 language: fr
-version: 2021-01-01
-valid_until: 2021-10-31
-version_adopted: 2020-12-02
+version: 2021-11-01
+valid_until: 2025-01-31
+version_adopted: 2021-09-01
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/426.411"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2090/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2363/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2090/pdf_file"
 
 (OPat)
 
-du 25.10.2000 (état au 01.01.2021)
+du 25.10.2000 (état au 01.11.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -78,7 +78,7 @@ arrête:
 
 <sup>2</sup> Les détails de la collaboration entre le canton et ces sociétés éditrices sont fixés par contrat.
 
-<sup>3</sup> La Direction de l'instruction publique constitue des commissions spécialisées chargées d'encadrer le canton sur le plan technique pour les prestations qu'il doit fournir conformément au contrat.
+<sup>3</sup> La Direction de l'instruction publique et de la culture constitue des commissions spécialisées chargées d'encadrer le canton sur le plan technique pour les prestations qu'il doit fournir conformément au contrat.
 
 ## 2 Liste du patrimoine mobilier
 
@@ -158,11 +158,11 @@ arrête:
 
 **Classement d'office 1. Procédure**
 
-<sup>1</sup> La demande formelle de classement d'office au Conseil-exécutif incombe toujours à la Direction de l'instruction publique.
+<sup>1</sup> La demande formelle de classement d'office au Conseil-exécutif incombe toujours à la Direction de l'instruction publique et de la culture.
 
-<sup>2</sup> La Direction de l'instruction publique entend les intéressés avant la présentation de la demande et soumet le résultat de l'audition au Conseil-exécutif en même temps que sa demande.
+<sup>2</sup> La Direction de l'instruction publique et de la culture entend les intéressés avant la présentation de la demande et soumet le résultat de l'audition au Conseil-exécutif en même temps que sa demande.
 
-<sup>3</sup> La Direction de l'instruction publique peut compléter la demande par un rapport de la commission spécialisée compétente. Pour les classements visés à l'article 15, alinéa 3 (absence d'inscription dans un inventaire) et alinéa 4 (détails d'architecture intérieure, agencement des pièces et équipements fixes d'un bien du patrimoine immobilier appartenant à des particuliers) de la loi sur la protection du patrimoine, ce rapport est obligatoire.
+<sup>3</sup> Elle peut compléter la demande par un rapport de la commission spécialisée compétente. Pour les classements visés à l'article 15, alinéa 3 (absence d'inscription dans un inventaire) et alinéa 4 (détails d'architecture intérieure, agencement des pièces et équipements fixes d'un bien du patrimoine immobilier appartenant à des particuliers) de la loi sur la protection du patrimoine, ce rapport est obligatoire.
 
 #### Art. 14
 
@@ -234,11 +234,11 @@ arrête:
 
 <sup>1</sup> La participation financière des communes ou d'autres organismes chargés de tâches publiques au sens de l'article 24, alinéa 3 de la loi sur la protection du patrimoine[^22-1] se monte en principe à un tiers.
 
-<sup>2</sup> La Direction de l'instruction publique peut, sur demande, réduire la participation financière à un minimum de dix pour cent, si la participation financière visée à l'alinéa 1 ne peut pas être raisonnablement exigée ou est manifestement disproportionnée par rapport au coût du projet dans son ensemble.
+<sup>2</sup> La Direction de l'instruction publique et de la culture peut, sur demande, réduire la participation financière à un minimum de dix pour cent, si la participation financière visée à l'alinéa 1 ne peut pas être raisonnablement exigée ou est manifestement disproportionnée par rapport au coût du projet dans son ensemble.
 
-<sup>3</sup> La Direction de l'instruction publique peut augmenter la participation financière à un maximum de 50 pour cent, si cela apparaît raisonnable ou si la participation financière ne représente qu'une contribution infime aux frais du projet dans son ensemble.
+<sup>3</sup> Elle peut augmenter la participation financière à un maximum de 50 pour cent, si cela apparaît raisonnable ou si la participation financière ne représente qu'une contribution infime aux frais du projet dans son ensemble.
 
-<sup>4</sup> La participation financière est toujours fixée par décision de la Direction de l'instruction publique.
+<sup>4</sup> La participation financière est toujours fixée par décision de la Direction de l'instruction publique et de la culture.
 
 [^22-1]: RSB 426.41
 
@@ -396,7 +396,7 @@ arrête:
 
 **Services compétents du canton**
 
-<sup>1</sup> Sauf disposition contraire de la présente ordonnance, la Direction de l'instruction publique, avec son Office de la culture, est le service compétent du canton pour tout ce qui touche à la protection du patrimoine.
+<sup>1</sup> Sauf disposition contraire de la présente ordonnance, la Direction de l'instruction publique et de la culture, avec son Office de la culture, est le service compétent du canton pour tout ce qui touche à la protection du patrimoine.
 
 <sup>2</sup> Les services spécialisés de l'Office de la culture sont le Service cantonal des monuments historiques et le Service archéologique.
 
@@ -408,7 +408,7 @@ arrête:
 
 <sup>1</sup> La délégation de tâches aux communes (art. 36, al. 2 LPat[^38-1]) suppose que celles-ci disposent d'un service spécialisé doté des compétences et de l'infrastructure nécessaires.
 
-<sup>2</sup> La décision de la Direction de l'instruction publique définit en détail les tâches et les attributions qui sont déléguées. Elle peut être assortie de conditions et de charges et paraît dans la Feuille officielle cantonale.
+<sup>2</sup> La décision de la Direction de l'instruction publique et de la culture définit en détail les tâches et les attributions qui sont déléguées. Elle peut être assortie de conditions et de charges et paraît dans la Feuille officielle cantonale.
 
 <sup>3</sup> La décision doit fixer l'indemnité découlant de la délégation de tâches (art. 28 LPat).
 
@@ -418,9 +418,9 @@ arrête:
 
 **Commissions d'experts pour la protection du patrimoine et pour l'archéologie 1. Composition**
 
-<sup>1</sup> Sur proposition de la Direction de l'instruction publique, le Conseil-exécutif constitue pour quatre ans une commission d'experts consultative pour la protection du patrimoine et une commission d'experts consultative pour l'archéologie, composées chacune de sept à neuf membres.
+<sup>1</sup> Sur proposition de la Direction de l'instruction publique et de la culture, le Conseil-exécutif constitue pour quatre ans une commission d'experts consultative pour la protection du patrimoine et une commission d'experts consultative pour l'archéologie, composées chacune de sept à neuf membres.
 
-<sup>2</sup> La Direction de l'instruction publique désigne les représentants et les représentantes de l'Office de la culture et de ses services spécialisés qui participent aux séances des commissions avec voix consultative et droit de proposition.
+<sup>2</sup> La Direction de l'instruction publique et de la culture désigne les représentants et les représentantes de l'Office de la culture et de ses services spécialisés qui participent aux séances des commissions avec voix consultative et droit de proposition.
 
 <sup>3</sup> Exceptionnellement, les commissions d'experts peuvent faire appel à des experts et des expertes supplémentaires.
 
@@ -432,7 +432,7 @@ arrête:
 
 **2. Tâches**
 
-<sup>1</sup> Les commissions d'experts conseillent la Direction de l'instruction publique pour les questions fondamentales relevant de la protection du patrimoine et de l'archéologie.
+<sup>1</sup> Les commissions d'experts conseillent la Direction de l'instruction publique et de la culture pour les questions fondamentales relevant de la protection du patrimoine et de l'archéologie.
 
 <sup>2</sup> Les commissions d'experts sont notamment chargées des tâches suivantes:
 
@@ -448,7 +448,7 @@ arrête:
 
 **Nomination**
 
-<sup>1</sup> La Direction de l'instruction publique nomme les représentants et les représentantes du canton dans les organes de direction des organisations qui s'occupent principalement de la sauvegarde du patrimoine.
+<sup>1</sup> La Direction de l'instruction publique et de la culture nomme les représentants et les représentantes du canton dans les organes de direction des organisations qui s'occupent principalement de la sauvegarde du patrimoine.
 
 <sup>2</sup> Elle veille à une répartition équilibrée des sexes.
 

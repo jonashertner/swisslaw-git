@@ -4,13 +4,13 @@ number: "426.411"
 title: Verordnung über die Denkmalpflege
 short: "Denkmalpflegeverordnung, DPV"
 language: de
-version: 2021-01-01
-valid_until: 2021-10-31
-version_adopted: 2020-12-02
+version: 2021-11-01
+valid_until: 2025-01-31
+version_adopted: 2021-09-01
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/426.411"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2090/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2363/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2090/pdf_file"
 
 (Denkmalpflegeverordnung, DPV)
 
-vom 25.10.2000 (Stand 01.01.2021)
+vom 25.10.2000 (Stand 01.11.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -78,7 +78,7 @@ beschliesst:
 
 <sup>2</sup> Die Einzelheiten der Zusammenarbeit zwischen dem Kanton und den Herausgeberinnen sind vertraglich zu regeln.
 
-<sup>3</sup> Die Erziehungsdirektion setzt für die fachliche Begleitung der vom Kanton gemäss Vertrag zu erbringenden Leistungen Fachkommissionen ein.
+<sup>3</sup> Die Bildungs- und Kulturdirektion setzt für die fachliche Begleitung der vom Kanton gemäss Vertrag zu erbringenden Leistungen Fachkommissionen ein.
 
 ## 2 Verzeichnis der beweglichen Denkmäler
 
@@ -158,11 +158,11 @@ beschliesst:
 
 **Behördliche Unterschutzstellung 1. Verfahren**
 
-<sup>1</sup> Die formelle Antragstellung an den Regierungsrat für die behördliche Unterschutzstellung erfolgt in jedem Falle durch die Erziehungsdirektion.
+<sup>1</sup> Die formelle Antragstellung an den Regierungsrat für die behördliche Unterschutzstellung erfolgt in jedem Falle durch die Bildungs- und Kulturdirektion.
 
-<sup>2</sup> Die Erziehungsdirektion hört die Betroffenen vor der Antragstellung an und legt das Ergebnis der Anhörung mit dem Antrag dem Regierungsrat vor.
+<sup>2</sup> Die Bildungs- und Kulturdirektion hört die Betroffenen vor der Antragstellung an und legt das Ergebnis der Anhörung mit dem Antrag dem Regierungsrat vor.
 
-<sup>3</sup> Die Erziehungsdirektion kann den Antrag mit einem Bericht der zuständigen Fachkommission ergänzen. Bei Unterschutzstellungen im Sinne von Artikel 15 Absatz 3 (fehlende Aufnahme ins Bauinventar) und Absatz 4 (innere Bauteile, Raumstrukturen und feste Ausstattungen in unbeweglichen Denkmälern privater Eigentümerinnen und Eigentümer) des Denkmalpflegegesetzes ist dieser Bericht zwingend.
+<sup>3</sup> Sie kann den Antrag mit einem Bericht der zuständigen Fachkommission ergänzen. Bei Unterschutzstellungen im Sinne von Artikel 15 Absatz 3 (fehlende Aufnahme ins Bauinventar) und Absatz 4 (innere Bauteile, Raumstrukturen und feste Ausstattungen in unbeweglichen Denkmälern privater Eigentümerinnen und Eigentümer) des Denkmalpflegegesetzes ist dieser Bericht zwingend.
 
 #### Art. 14
 
@@ -232,11 +232,11 @@ beschliesst:
 
 <sup>1</sup> Die Kostenbeteiligung von Gemeinden und anderen Trägerinnen und Trägern öffentlicher Aufgaben gemäss Artikel 24 Absatz 3 des Denkmalpflegegesetzes beträgt grundsätzlich einen Drittel.
 
-<sup>2</sup> Die Erziehungsdirektion kann die Kostenbeteiligung auf Gesuch hin bis auf ein Minimum von zehn Prozent reduzieren, wenn die Kostenbeteiligung gemäss Absatz 1 als unzumutbar erscheint oder in einem offensichtlichen Missverhältnis zu den Kosten des Gesamtprojektes steht.
+<sup>2</sup> Die Bildungs- und Kulturdirektion kann die Kostenbeteiligung auf Gesuch hin bis auf ein Minimum von zehn Prozent reduzieren, wenn die Kostenbeteiligung gemäss Absatz 1 als unzumutbar erscheint oder in einem offensichtlichen Missverhältnis zu den Kosten des Gesamtprojektes steht.
 
-<sup>3</sup> Die Erziehungsdirektion kann die Kostenbeteiligung bis auf ein Maximum von 50 Prozent erhöhen, wenn dies als zumutbar erscheint oder die Kostenbeteiligung nur einen geringen Anteil an den Kosten des Gesamtprojektes ausmacht.
+<sup>3</sup> Sie kann die Kostenbeteiligung bis auf ein Maximum von 50 Prozent erhöhen, wenn dies als zumutbar erscheint oder die Kostenbeteiligung nur einen geringen Anteil an den Kosten des Gesamtprojekts ausmacht.
 
-<sup>4</sup> Die Kostenbeteiligung wird in jedem Fall durch eine Verfügung der Erziehungsdirektion festgelegt.
+<sup>4</sup> Die Kostenbeteiligung wird in jedem Fall durch eine Verfügung der Bildungs- und Kulturdirektion festgelegt.
 
 #### Art. 23
 
@@ -390,7 +390,7 @@ beschliesst:
 
 **Zuständige Stellen des Kantons**
 
-<sup>1</sup> Soweit diese Verordnung nichts anderes bestimmt, ist die Erziehungsdirektion mit ihrem Amt für Kultur die für die Belange der Denkmalpflege zuständige Stelle des Kantons.
+<sup>1</sup> Soweit diese Verordnung nichts anderes bestimmt, ist die Bildungs- und Kulturdirektion mit ihrem Amt für Kultur die für die Belange der Denkmalpflege zuständige Stelle des Kantons.
 
 <sup>2</sup> Die zuständigen Fachstellen im Amt für Kultur sind die Kantonale Denkmalpflege und der Archäologische Dienst.
 
@@ -402,7 +402,7 @@ beschliesst:
 
 <sup>1</sup> Voraussetzung für die Delegation von Aufgaben an Gemeinden (Art. 36 Abs. 2 DPG[^38-1]) ist eine fachlich qualifizierte Fachstelle, die mit den notwendigen Kompetenzen versehen und mit der notwendigen Infrastruktur ausgerüstet ist.
 
-<sup>2</sup> Die Verfügung der Erziehungsdirektion bezeichnet im Einzelnen die delegierten Aufgaben und Befugnisse. Sie kann mit Bedingungen und Auflagen verbunden werden und ist im Amtsblatt zu veröffentlichen.
+<sup>2</sup> Die Verfügung der Bildungs- und Kulturdirektion bezeichnet im Einzelnen die delegierten Aufgaben und Befugnisse. Sie kann mit Bedingungen und Auflagen verbunden werden und ist im Amtsblatt zu veröffentlichen.
 
 <sup>3</sup> In der Verfügung ist die mit der Aufgabendelegation verbundene Abgeltung (Art. 28 DPG) festzulegen.
 
@@ -412,11 +412,11 @@ beschliesst:
 
 **Fachkommissionen für Denkmalpflege und Archäologie 1. Zusammensetzung**
 
-<sup>1</sup> Der Regierungsrat setzt auf Antrag der Erziehungsdirektion für eine Amtsdauer von jeweils vier Jahren je eine beratende Fachkommission für Denkmalpflege und für Archäologie mit je sieben bis neun Mitgliedern ein.
+<sup>1</sup> Der Regierungsrat setzt auf Antrag der Bildungs- und Kulturdirektion für eine Amtsdauer von jeweils vier Jahren je eine beratende Fachkommission für Denkmalpflege und für Archäologie mit je sieben bis neun Mitgliedern ein.
 
-<sup>2</sup> Die Erziehungsdirektion bestimmt die an den Kommissionssitzungen mit beratender Stimme und Antragsrecht teilnehmenden Vertreterinnen und Vertreter des Amtes für Kultur und seiner Fachstellen.
+<sup>2</sup> Die Bildungs- und Kulturdirektion bestimmt die an den Kommissionssitzungen mit beratender Stimme und Antragsrecht teilnehmenden Vertreterinnen und Vertreter des Amtes für Kultur und seiner Fachstellen.
 
-<sup>3</sup> Die Fachkommissionen können im Einzelfall zusätzliche Expertinnen oder Experten beiziehen.
+<sup>3</sup> Die Fachkommissionen können im Einzelfall zusätzliche Expertinnen und Experten beiziehen.
 
 <sup>4</sup> Die Entschädigung der Kommissionsmitglieder richtet sich nach der Verordnung vom 2. Juli 1980 über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^39-1].
 
@@ -426,7 +426,7 @@ beschliesst:
 
 **2. Aufgaben**
 
-<sup>1</sup> Die Fachkommissionen beraten die Erziehungsdirektion in Grundsatzfragen der Denkmalpflege und der Archäologie.
+<sup>1</sup> Die Fachkommissionen beraten die Bildungs- und Kulturdirektion in Grundsatzfragen der Denkmalpflege und der Archäologie.
 
 <sup>2</sup> Den Fachkommissionen obliegen insbesondere folgende Aufgaben:
 
@@ -442,7 +442,7 @@ beschliesst:
 
 **Ernennung**
 
-<sup>1</sup> Die Erziehungsdirektion ernennt die Vertreterinnen und Vertreter des Kantons in den Leitungsorganen von Organisationen, die sich hauptsächlich denkmalpflegerischen Aufgaben widmen.
+<sup>1</sup> Die Bildungs- und Kulturdirektion ernennt die Vertreterinnen und Vertreter des Kantons in den Leitungsorganen von Organisationen, die sich hauptsächlich denkmalpflegerischen Aufgaben widmen.
 
 <sup>2</sup> Sie berücksichtigt dabei ein ausgewogenes Geschlechterverhältnis.
 
