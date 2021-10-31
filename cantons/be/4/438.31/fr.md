@@ -4,13 +4,12 @@ number: "438.31"
 title: "Loi sur l'octroi de subsides de formation"
 short: LSF
 language: fr
-version: 2013-08-01
-valid_until: 2021-10-31
-version_adopted: 2012-03-21
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 2004-11-18
 in_force: 2006-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/438.31"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1067/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3480/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1067/pdf_file"
 
 (LSF)
 
-du 18.11.2004 (état au 01.08.2013)
+du 18.11.2004 (état au 01.11.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -68,13 +67,13 @@ arrête:
 
 **Collecte de données personnelles**
 
-<sup>1</sup> Le service compétent de la Direction de l’instruction publique est en droit de se procurer auprès des autorités les documents, les renseignements et les données personnelles nécessaires au calcul du montant des subsides de formation.
+<sup>1</sup> Le service compétent de la Direction de l’instruction publique et de la culture est en droit de se procurer auprès des autorités les documents, les renseignements et les données personnelles nécessaires au calcul du montant des subsides de formation.
 
 <sup>2</sup> Il peut accéder aux données fiscales de l’Intendance cantonale des impôts par procédure d’appel, pour autant que cela soit nécessaire pour les décisions concernant les subsides.
 
 <sup>3</sup> Les personnes chargées du calcul du montant des subsides de formation sont soumises au secret fiscal.
 
-<sup>4</sup> Les personnes, en particulier les parents et des tiers tenus légalement au financement d’une formation, qui ne savent pas que des données les concernant sont collectées, en sont informées par le service compétent de la Direction de l’instruction publique au plus tard au moment de la collecte des premières données.
+<sup>4</sup> Les personnes, en particulier les parents et des tiers tenus légalement au financement d’une formation, qui ne savent pas que des données les concernant sont collectées, en sont informées par le service compétent de la Direction de l’instruction publique et de la culture au plus tard au moment de la collecte des premières données.
 
 #### Art. 5
 
@@ -125,7 +124,7 @@ arrête:
 
 <sup>2</sup> Les établissements de formation ne sont reconnus que s’ils délivrent un diplôme reconnu par le canton, par la Confédération ou par un Etat étranger.
 
-<sup>3</sup> Sur proposition de la Direction de l’instruction publique, le Conseil-exécutif peut reconnaître d’autres établissements de formation, pour autant qu’ils puissent justifier d’une qualité de formation équivalente.
+<sup>3</sup> Sur proposition de la Direction de l’instruction publique et de la culture, le Conseil-exécutif peut reconnaître d’autres établissements de formation, pour autant qu’ils puissent justifier d’une qualité de formation équivalente.
 
 #### Art. 9
 
@@ -238,9 +237,9 @@ arrête:
 
 **Obligation d’informer**
 
-<sup>1</sup> Les personnes en formation qui ont fait une demande de subside doivent communiquer au service compétent de la Direction de l’instruction publique toutes les indications nécessaires au calcul des subsides. Ces indications doivent être conformes à la vérité.
+<sup>1</sup> Les personnes en formation qui ont fait une demande de subside doivent communiquer au service compétent de la Direction de l’instruction publique et de la culture toutes les indications nécessaires au calcul des subsides. Ces indications doivent être conformes à la vérité.
 
-<sup>2</sup> Les personnes en formation qui perçoivent des subsides sont tenues d’informer immédiatement le service compétent de la Direction de l’instruction publique de toute modification des données servant de base de calcul.
+<sup>2</sup> Les personnes en formation qui perçoivent des subsides sont tenues d’informer immédiatement le service compétent de la Direction de l’instruction publique et de la culture de toute modification des données servant de base de calcul.
 
 <sup>3</sup> Si le requérant ou la requérante se soustrait aux obligations fixées aux alinéas 1 et 2, il ou elle peut être exclue du droit à d’autres subsides.
 
@@ -269,7 +268,7 @@ arrête:
 
 **Compétences**
 
-<sup>1</sup> Le service compétent de la Direction de l’instruction publique applique la loi et ses dispositions d’exécution.
+<sup>1</sup> Le service compétent de la Direction de l’instruction publique et de la culture applique la loi et ses dispositions d’exécution.
 
 <sup>2</sup> Il est seul compétent pour octroyer des subsides de formation indépendamment du montant.
 
@@ -277,7 +276,7 @@ arrête:
 
 **Voies de recours**
 
-<sup>1</sup> Les décisions rendues par le service compétent de la Direction de l’instruction publique sont susceptibles de recours auprès de cette dernière.
+<sup>1</sup> Les décisions rendues par le service compétent de la Direction de l’instruction publique et de la culture sont susceptibles de recours auprès de cette dernière.
 
 #### Art. 22
 

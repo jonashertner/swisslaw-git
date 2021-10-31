@@ -4,13 +4,12 @@ number: "438.31"
 title: Gesetz über die Ausbildungsbeiträge
 short: ABG
 language: de
-version: 2013-08-01
-valid_until: 2021-10-31
-version_adopted: 2012-03-21
+version: 2021-11-01
+version_adopted: 2021-09-01
 adopted: 2004-11-18
 in_force: 2006-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/438.31"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1067/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3480/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1067/pdf_file"
 
 (ABG)
 
-vom 18.11.2004 (Stand 01.08.2013)
+vom 18.11.2004 (Stand 01.11.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -68,13 +67,13 @@ beschliesst:
 
 **Beschaffen von Personendaten**
 
-<sup>1</sup> Die zuständige Stelle der Erziehungsdirektion ist berechtigt, die für die Bemessung eines Ausbildungsbeitrags erforderlichen Unterlagen, Auskünfte und Personendaten bei Behörden einzuholen.
+<sup>1</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion ist berechtigt, die für die Bemessung eines Ausbildungsbeitrags erforderlichen Unterlagen, Auskünfte und Personendaten bei Behörden einzuholen.
 
 <sup>2</sup> Sie kann in einem Abrufverfahren auf Steuerdaten der kantonalen Steuerverwaltung greifen, soweit dies für die Beitragsverfügungen nötig ist.
 
 <sup>3</sup> Personen, die mit der Bemessung von Ausbildungsbeiträgen betraut sind, unterstehen dem Steuergeheimnis.
 
-<sup>4</sup> Personen, insbesondere Eltern und andere Verpflichtete, die keine Kenntnis davon haben, dass über sie Daten beschafft werden, werden durch die zuständige Stelle der Erziehungsdirektion spätestens bei der ersten Datenbeschaffung informiert.
+<sup>4</sup> Personen, insbesondere Eltern und andere Verpflichtete, die keine Kenntnis davon haben, dass über sie Daten beschafft werden, werden durch die zuständige Stelle der Bildungs- und Kulturdirektion spätestens bei der ersten Datenbeschaffung informiert.
 
 #### Art. 5
 
@@ -125,7 +124,7 @@ beschliesst:
 
 <sup>2</sup> Ausbildungsstätten sind nur anerkannt, soweit sie zu einem Abschluss führen, der vom Kanton, von der Eidgenossenschaft oder von einem ausländischen Staat anerkannt ist.
 
-<sup>3</sup> Der Regierungsrat kann auf Antrag der Erziehungsdirektion weitere Ausbildungsstätten anerkennen, soweit sie sich über eine gleichwertige Ausbildungsqualität ausweisen können.
+<sup>3</sup> Der Regierungsrat kann auf Antrag der Bildungs- und Kulturdirektion weitere Ausbildungsstätten anerkennen, soweit sie sich über eine gleichwertige Ausbildungsqualität ausweisen können.
 
 #### Art. 9
 
@@ -163,7 +162,7 @@ beschliesst:
 
 - a das Schweizer Bürgerrecht haben,
 - b das Bürgerrecht eines Mitgliedstaates der EU oder der EFTA haben und in der Schweiz Wohnsitz haben,
-- c das Bürgerrecht eines Staates haben, der nichtMitglied der EU oder EFTAist und über eine Niederlassungsbewilligung C verfügen oder seit fünf Jahren in der Schweiz Wohnsitz haben und über eine Aufenthaltsbewilligung B verfügen,
+- c das Bürgerrecht eines Staates haben, der nicht Mitglied der EU oder EFTA ist, und über eine Niederlassungsbewilligung C verfügen oder seit fünf Jahren in der Schweiz Wohnsitz haben und über eine Aufenthaltsbewilligung B verfügen,
 - d von der Schweiz anerkannte Flüchtlinge oder Staatenlose sind.
 
 #### Art. 13
@@ -238,9 +237,9 @@ beschliesst:
 
 **Meldepflicht**
 
-<sup>1</sup> Auszubildende, die ein Gesuch stellen, haben der zuständigen Stelle der Erziehungsdirektion alle für die Bemessung der Ausbildungsbeiträge erheblichen Umstände wahrheitsgetreu zu melden.
+<sup>1</sup> Auszubildende, die ein Gesuch stellen, haben der zuständigen Stelle der Bildungs- und Kulturdirektion alle für die Bemessung der Ausbildungsbeiträge erheblichen Umstände wahrheitsgetreu zu melden.
 
-<sup>2</sup> Wer Ausbildungsbeiträge bezieht, hat der zuständigen Stelle der Erziehungsdirektion jede Änderung der für die Bemessung massgeblichen Daten unverzüglich zu melden.
+<sup>2</sup> Wer Ausbildungsbeiträge bezieht, hat der zuständigen Stelle der Bildungs- und Kulturdirektion jede Änderung der für die Bemessung massgeblichen Daten unverzüglich zu melden.
 
 <sup>3</sup> Wer die Pflichten gemäss Absatz 1 und 2 missachtet, kann von der weiteren Beitragsberechtigung ausgeschlossen werden.
 
@@ -269,7 +268,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die zuständige Stelle der Erziehungsdirektion vollzieht das Gesetz und seine Ausführungsbestimmungen.
+<sup>1</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion vollzieht das Gesetz und seine Ausführungsbestimmungen.
 
 <sup>2</sup> Sie bewilligt die Beiträge abschliessend, unabhängig von der Beitragshöhe.
 
@@ -277,7 +276,7 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Verfügungen der zuständigen Stelle der Erziehungsdirektion kann Beschwerde bei der Erziehungsdirektion geführt werden.
+<sup>1</sup> Gegen Verfügungen der zuständigen Stelle der Bildungs- und Kulturdirektion kann Beschwerde bei der Bildungs- und Kulturdirektion geführt werden.
 
 #### Art. 22
 
