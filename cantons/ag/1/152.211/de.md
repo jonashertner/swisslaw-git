@@ -3,20 +3,20 @@ canton: AG
 number: "152.211"
 title: Richtlinien des Büros des Grossen Rats zur Vorbereitung und Durchführung der durch den Grossen Rat vorzunehmenden Wahlen
 language: de
-version: 2018-05-01
-valid_until: 2021-10-31
-version_adopted: 2018-05-01
+version: 2021-11-01
+valid_until: 2026-08-31
+version_adopted: 2021-09-14
 adopted: 2018-05-01
 in_force: 2018-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/152.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2615/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3778/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Richtlinien des Büros des Grossen Rats zur Vorbereitung und Durchführung der durch den Grossen Rat vorzunehmenden Wahlen
 
-Vom 01.05.2018 (Stand 01.05.2018)
+Vom 01.05.2018 (Stand 01.11.2021)
 
 Das Büro des Grossen Rats des Kantons Aargau,
 
@@ -145,7 +145,7 @@ beschliesst:
 
 **Wahlbüro**
 
-<sup>1</sup> Das Ratspräsidium achtet auf eine ausgewogene Zusammensetzung des Wahlbüros, wobei jede Fraktion mindestens mit einem Mitglied vertreten sein muss. Das Präsidium wird abwechselnd unter den Fraktionen zugewiesen.
+<sup>1</sup> Das Ratspräsidium achtet auf eine ausgewogene Zusammensetzung des Wahlbüros, wobei jede Fraktion in der Regel mit einem Mitglied vertreten sein muss. Das Präsidium wird abwechselnd unter den Fraktionen zugewiesen.
 
 <sup>2</sup> Für jedes Wahlbüromitglied wird für den Verhinderungsfall ein Ersatzmitglied bestimmt.
 
