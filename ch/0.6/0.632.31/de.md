@@ -3,11 +3,11 @@ sr: "0.632.31"
 title: "Übereinkommen vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA) (mit Anhängen, Schlussakte und Erkl.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/590_635_621"
 language: de
-version: 2017-11-09
+version: 2021-11-01
 adopted: 1960-01-04
 in_force: 1960-05-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/590_635_621/20171109/de/xml/fedlex-data-admin-ch-eli-cc-1960-590_635_621-20171109-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/590_635_621/20171109/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/590_635_621/20211101/de/xml/fedlex-data-admin-ch-eli-cc-1960-590_635_621-20211101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/590_635_621/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1960** 590; BBl **1960** I 841
 
 Abgeschlossen in Stockholm am 4. Januar 1960 Konsolidierte Fassung des Vaduzer Abkommens vom 21. Juni 2001[^t-1] Von der Bundesversammlung genehmigt am 14. Dezember 2001[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 12. April 2002 In Kraft getreten am 1. Juni 2002
 
-(Stand am 9. November 2017)
+(Stand am 1. November 2021)
 
 [^t-1]: [AS 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)Anhang XX
 [^t-2]: [AS 2003 2684](https://fedlex.data.admin.ch/eli/oc/2003/415)
@@ -85,7 +85,7 @@ Die Assoziation hat zum Ziel
 
 [^chapII-1]
 
-[^chapII-1]: Gestützt auf die mit dem Vertrag vom 29. März 1923 zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet ([SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)) errichtete Zollunion vertritt die Schweiz Liechtenstein in den darunter fallenden Angelegenheiten (siehe [AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190)[1377](https://fedlex.data.admin.ch/eli/fga/2013/191)).
+[^chapII-1]: Gestützt auf die mit dem Vertrag vom 29. März 1923 zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet ([SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)) errichtete Zollunion vertritt die Schweiz Liechtenstein in den darunter fallenden Angelegenheiten (siehe [AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190), [1377](https://fedlex.data.admin.ch/eli/fga/2013/191)).
 
 #### Art. 3
 
@@ -107,14 +107,9 @@ Ein- und Ausfuhrzölle sowie alle Abgaben mit gleicher Wirkung zwischen den Mitg
 
 **Ursprungsregeln und administrative Zusammenarbeit**[^5-1]
 
-<sup>1.</sup> Für die Rechte und Pflichten der Mitgliedstaaten in Bezug auf die Ursprungsregeln und die administrative Zusammenarbeit zwischen den Zollbehörden der Mitgliedstaaten kommt das Regionale Übereinkommen vom 15. Juni 2011[^5-2] über Pan-Europa-Mittelmeer-Präferenzursprungsregeln (nachfolgend als «PEM-Konvention» bezeichnet) zur Anwendung; dieses gilt *mutatis mutandis* und unbeschadet von Artikel 15 als integraler Bestandteil dieses Übereinkommens.
+Die Bestimmungen zu den Ursprungsregeln und den Methoden der administrativen Zusammenarbeit sind in Anhang A aufgeführt.
 
-<sup>2.</sup> Für Basisagrarprodukte nach Anhang V und verarbeitete Landwirtschaftsprodukte nach Anhang W ist gemäss Artikel 3 der Anlage I des Pan-Euro-Med-Übereinkommens ausschliesslich die bilaterale Kumulation zwischen Mitgliedstaaten zulässig.
-
-<sup>3.</sup> Tritt ein Mitgliedstaat von der PEM-Konvention zurück, nehmen die Mitgliedstaaten umgehend Verhandlungen über neue Ursprungsregeln für dieses Übereinkommen auf. Bis diese Regeln in Kraft treten, kommen die in der PEM-Konvention enthaltenen Ursprungsregeln zur Anwendung und bleiben *mutatis mutandis* integraler Bestandteil dieses Übereinkommens; dabei ist ausschliesslich die Kumulation zwischen Mitgliedstaaten zugelassen.
-
-[^5-1]: Fassung gemäss Ziff. I des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und in Kraft getreten für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423)[2031](https://fedlex.data.admin.ch/eli/oc/2013/422); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190)[1377](https://fedlex.data.admin.ch/eli/fga/2013/191)).
-[^5-2]: [SR 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+[^5-1]: Fassung gemäss Ziff. I des Beschlusses Nr. 2/2019 des Rates vom 14. Mai 2019, von der BVers genehmigt am 19. März 2021 und in Kraft getreten für die Schweiz am 1. Nov. 2021 ([AS 2021 645](https://fedlex.data.admin.ch/eli/oc/2021/645), [644](https://fedlex.data.admin.ch/eli/oc/2021/644); [BBl 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 6
 
@@ -139,14 +134,14 @@ Im Hinblick auf die besonderen für die Landwirtschaft massgebenden Erwägungen 
 - (a) Anhang V über Basisagrarprodukte; oder
 - (b) Anhang W über verarbeitete Landwirtschaftsprodukte.
 
-[^8-1]: Fassung gemäss Ziff. I des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und in Kraft getreten für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423)[2031](https://fedlex.data.admin.ch/eli/oc/2013/422); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190)[1377](https://fedlex.data.admin.ch/eli/fga/2013/191)).
+[^8-1]: Fassung gemäss Ziff. I des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und in Kraft getreten für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423), [2031](https://fedlex.data.admin.ch/eli/oc/2013/422); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190), [1377](https://fedlex.data.admin.ch/eli/fga/2013/191)).
 [^8-2]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
 
 #### Art. 9
 
 [^9-1]
 
-[^9-1]: Aufgehoben durch Ziff. I des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und mit Wirkung für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423)[2031](https://fedlex.data.admin.ch/eli/oc/2013/422); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190)[1377](https://fedlex.data.admin.ch/eli/fga/2013/191)).
+[^9-1]: Aufgehoben durch Ziff. I des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und mit Wirkung für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423), [2031](https://fedlex.data.admin.ch/eli/oc/2013/422); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190), [1377](https://fedlex.data.admin.ch/eli/fga/2013/191)).
 
 #### Art. 10
 
@@ -640,18 +635,16 @@ Die Vertreter, Delegierten und Sachverständigen der Mitgliedstaaten sowie die B
 
 #### Art. 53
 
-**Anhänge**
+**Anhänge**[^53-1]
 
 <sup>1.</sup> Die Anhänge, Anlagen und Protokolle zu diesem Übereinkommen bilden einen integrierenden Bestandteil dieses Übereinkommens.
 
-<sup>2.</sup> Der Rat ist befugt, die Bestimmungen dieses Absatzes zu ändern.
+<sup>2.</sup>
 
 Die Anhänge zu diesem Übereinkommen sind die Folgenden:
 
-- Anhang A …
+- Anhang A Ursprungsregeln und administrative Zusammenarbeit
 - Anhang B Gegenseitige Amtshilfe im Zollbereich
-- Anhang C …
-- Anhang D …
 - Anhang E Saatgut
 - Anhang F Ökologischer Landbau
 - Anhang G Gesundheitspolizeiliche und pflanzenschutzrechtliche Massnahmen
@@ -673,11 +666,11 @@ Die Anhänge zu diesem Übereinkommen sind die Folgenden:
 - Anhang W Verarbeitete Landwirtschaftsprodukte
 - Anhang X Landwirtschaftliche Erzeugnisse, welche nicht in die Kapitel 1–24 des Harmonisierten Systems (HS) fallen
 
-<sup>3.</sup> Der Rat ist befugt, die Anhänge A, C, H, S und T sowie die Anlagen zu den Anhängen E, F, K, P, Q und R zu ändern, sofern in den Anhängen nichts anderes bestimmt wurde.
+<sup>3.</sup> Der Rat ist befugt, die Bestimmungen von Absatz 2 zu ändern.
 
-<sup>4.</sup> Der unter Anhang I eingesetzte Ausschuss ist befugt, Artikel 3 dieses Anhangs sowie die Anlage dazu zu ändern.[^53-1] Er informiert den Rat über seine Beschlussfassung.
+<sup>4.</sup> Der Rat ist befugt, die Anhänge A, H, S, T, V, W und X sowie die Anlagen zu den Anhängen E, F, K, P, Q und R zu ändern, sofern in den Anhängen nichts anderes bestimmt wurde.
 
-[^53-1]: Fassung gemäss Ziff. 1 des Beschlusses Nr. 2/2009 des Rates vom 16. Juni 2009, in Kraft getreten für die Schweiz am 1. Sept. 2010 ([AS 2010 4063](https://fedlex.data.admin.ch/eli/oc/2010/593)).
+[^53-1]: Fassung gemäss Ziff. I des Beschlusses Nr. 2/2019 des Rates vom 14. Mai 2019, von der BVers genehmigt am 19. März 2021 und in Kraft getreten für die Schweiz am 1. Nov. 2021 ([AS 2021 645](https://fedlex.data.admin.ch/eli/oc/2021/645), [644](https://fedlex.data.admin.ch/eli/oc/2021/644); [BBl 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 54
 
@@ -729,7 +722,75 @@ Sofern in diesem Übereinkommen nicht anders festgehalten, hat der Rat zur Ände
 
 Anhang A*[^t-3]*
 
-[^t-3]: Aufgehoben durch Ziff. I des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und mit Wirkung für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423)[2031](https://fedlex.data.admin.ch/eli/oc/2013/422); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190)[1377](https://fedlex.data.admin.ch/eli/fga/2013/191)).
+(Art. 5)
+
+## Ursprungsregeln und administrative Zusammenarbeit
+
+[^t-3]: Fassung gemäss Beschluss Nr. 6/2020 des Rates vom 8. Dez. 2020, von der BVers genehmigt am 19. März 2021 und in Kraft getreten für die Schweiz am 1. Nov. 2021 ([AS 2021 646](https://fedlex.data.admin.ch/eli/oc/2021/646), [644](https://fedlex.data.admin.ch/eli/oc/2021/644); [BBl 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
+
+#### Art. 1
+
+**Geltende Ursprungsregeln**
+
+<sup>1.</sup> Für die Rechte und Pflichten der Mitgliedstaaten in Bezug auf die Ursprungsregeln und die administrative Zusammenarbeit zwischen den Zollbehörden der Mitgliedstaaten kommen Anlage I und die einschlägigen Bestimmungen von Anlage II des Regionalen Übereinkommens über Pan-Europa-Mittelmeer-Präferenzursprungsregeln (das «PEM-Übereinkommen»)[^annexA-lvlu1-1-1] mit allfälligen nachfolgenden Änderungen zur Anwendung und werden unbeschadet von Artikel 15 des EFTA-Übereinkommens *mutatis mutandis* zu Bestandteilen des EFTA-Übereinkommens erklärt.
+
+<sup>2.</sup> Sämtliche Verweise auf das «einschlägige Abkommen» in Anlage I und in den einschlägigen Bestimmungen von Anlage II des PEM-Übereinkommens sind als Verweise auf das EFTA-Übereinkommen auszulegen.
+
+[^annexA-lvlu1-1-1]: [SR 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+
+#### Art. 2
+
+**Alternativ geltende Ursprungsregeln**
+
+<sup>1.</sup> Unbeschadet von Artikel 1 gelten für die Zwecke des EFTA-Übereinkommens Erzeugnisse, die im Einklang mit den Bestimmungen von Anlage 1 dieses Anhangs (die «alternativen Regeln») die Präferenzursprungseigenschaft erlangen, ebenfalls als Erzeugnisse mit Ursprung in einem Mitgliedstaat.
+
+<sup>2.</sup> Die alternativen Regeln gelten bis die Änderung des PEM-Übereinkommens in Kraft tritt.
+
+#### Art. 3
+
+**Streitbeilegung**
+
+Kapitel XVII des EFTA-Übereinkommens gilt für die Beilegung jeglicher Streitigkeiten im Zusammenhang mit der Auslegung und Anwendung von Anlage I und der einschlägigen Bestimmungen von Anlage II des PEM-Übereinkommens.
+
+#### Art. 4
+
+**Rücktritt vom PEM-Übereinkommen**
+
+<sup>1.</sup> Tritt ein Mitgliedstaat vom PEM-Übereinkommen zurück, notifiziert er dies umgehend den anderen Mitgliedstaaten und nimmt Verhandlungen über neue Ursprungsregeln für die Zwecke des EFTA-Übereinkommens auf.
+
+<sup>2.</sup> Bis entsprechende neu verhandelte Ursprungsregeln in Kraft treten, bleiben die Ursprungsregeln in Anlage I und gegebenenfalls die einschlägigen Bestimmungen von Anlage II des PEM-Übereinkommens, die zum Zeitpunkt des Rücktritts gelten, anwendbar und die alternativen Regeln können für das EFTA-Übereinkommen weiterhin angewendet werden. Ab dem Zeitpunkt des Rücktritts sind die Ursprungsregeln in Anlage I und gegebenenfalls die einschlägigen Bestimmungen von Anlage II des PEM-Übereinkommens und in den alternativen Regeln jedoch so auszulegen, dass die bilaterale Kumulierung ausschliesslich zwischen den Mitgliedstaaten zulässig ist.
+
+#### Art. 5
+
+**Übergangsbestimmungen**
+
+Bis zur Anwendung der revidierten Regeln des PEM-Übereinkommens und unbeschadet von Artikel 16 Absatz 5 und Artikel 21 Absatz 3 von Anlage I des PEM-Übereinkommens kann für die Kumulierung ausschliesslich zwischen EFTA-Staaten, den Färöer-Inseln, der Europäischen Union, der Türkei, den Teilnehmern des Stabilisierungs- und Assoziierungsprozesses, Moldau, Georgien und der Ukraine eine Warenverkehrsbescheinigung EUR.1 oder eine Ursprungserklärung verwendet werden.
+
+#### Art. 6
+
+**Elektronisch ausgestellte Warenverkehrsbescheinigungen EUR.1**
+
+<sup>1.</sup> Als Alternative zu den Bestimmungen über die Ausstellung von Warenverkehrsbescheinigungen anerkennen die Mitgliedstaaten elektronisch ausgestellte Warenverkehrsbescheinigungen EUR.1. Mit Blick auf das digitalisierte System zur Ausstellung von Warenverkehrsbescheinigungen EUR.1 sind die formalen Anforderungen für elektronisch ausgestellte Warenverkehrsbescheinigungen EUR.1 in Absatz 3 festgelegt. Die Zollbehörden des ausführenden und des einführenden Mitgliedstaates können weitere formale Anforderungen für elektronisch ausgestellte Warenverkehrsbescheinigungen EUR.1 vereinbaren.
+
+<sup>2.</sup> Jeder ausführende Mitgliedstaat informiert das EFTA-Sekretariat über die Bereitschaft zur Ausstellung elektronischer Warenverkehrsbescheinigungen EUR.1 und über sämtliche technischen Probleme im Zusammenhang mit deren Einführung (Ausstellung, Vorlage und Prüfung elektronischer Bescheinigungen).
+
+<sup>3.</sup>
+
+Falls die Zollbehörden des ausführenden und des einführenden Mitgliedstaates dies vereinbaren, sind Anhang IIIa Absätze 1 und 2 des PEM-Übereinkommens nicht anwendbar, wenn die Warenverkehrsbescheinigung elektronisch ausgestellt und bestätigt wird; die folgenden Bestimmungen gelten:
+
+- a) Tintenstempel, die von den Zoll- oder den zuständigen Regierungsbehörden zur Bestätigung der Warenverkehrsbescheinigungen EUR.1 (Rubrik 11) verwendet werden, können durch ein Bild oder elektronische Stempel ersetzt werden;
+- b) die Rubriken 11 und 12 können Faksimile- oder elektronische Unterschriften anstelle von Originalunterschriften enthalten;
+- c) die Informationen in Rubrik 11 zum Formular und zur Nummer des Ausfuhrpapiers sind nur anzugeben, wenn dies nach den Rechtsvorschriften des ausführenden Mitgliedstaates erforderlich ist;
+- d) sie trägt zur Identifizierung eine Seriennummer oder einen Code; und
+- e) sie kann in einer der Amtssprachen der Mitgliedstaaten oder in Englisch ausgestellt werden.
+
+Anlage A
+
+## Alternativ geltende Ursprungsregeln****
+
+[^annexA-lvlu1-1]
+
+[^annexA-lvlu1-1]: Anlage A zu Anhang A des Übereinkommens in englischer Originalsprache kann eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols. Eine deutsche Übersetzung der alternativen Ursprungsregeln ist in [BBl 2021 346](https://fedlex.data.admin.ch/eli/fga/2021/346)veröffentlicht.
 
 Anhang B
 
@@ -896,7 +957,7 @@ Dieser Anhang steht der Durchführung etwaiger Amtshilfeabkommen, die zwischen d
 
 Anhang C und D*[^t-4]*
 
-[^t-4]: Aufgehoben durch Ziff. I des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und mit Wirkung für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423)[2031](https://fedlex.data.admin.ch/eli/oc/2013/422); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190)[1377](https://fedlex.data.admin.ch/eli/fga/2013/191)).
+[^t-4]: Aufgehoben durch Ziff. I des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und mit Wirkung für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423), [2031](https://fedlex.data.admin.ch/eli/oc/2013/422); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190), [1377](https://fedlex.data.admin.ch/eli/fga/2013/191)).
 
 Anhang E
 
@@ -1672,7 +1733,7 @@ In dieser Anlage sind die benennenden Behörden der Mitgliedstaaten für die fol
 - 15\. Inspektion der guten Herstellungspraxis für Arzneimittel und Zertifizierung der Chargen
 - 16\. Bauprodukte
 - 17\. Aufzüge
-- [tab] 18. und 19.[^annexI-lvlu1-2] …
+- [tab] 18. und 19.[^annexI-lvlu1-2] ...
 - 20\. Explosivstoffe für zivile Zwecke (ausgenommen Munition)
 
 ### 1. Maschinen
@@ -1907,7 +1968,7 @@ EWR-EFTA-Staaten
 <tr><td>*Schweiz:*</td><td>Staatssekretariat für Wirtschaft (SECO)</td></tr>
 </table>
 
-### 18. und 19.****…
+### 18. und 19.****...
 
 [^annexI-lvlu1-lvl18-1]
 
@@ -1981,7 +2042,7 @@ Die Mitgliedstaaten gewährleisten in ihrer nationalen Gesetzgebung mindestens F
   - – das Inverkehrbringen des patentgeschützten Produkts ist wegen behördlicher Verfahren für die Marktzulassung hinausgeschoben worden, so dass die effektive Nutzung des Patents weniger als fünfzehn Jahre beträgt;
   - – der effektive Schutz aus dem Patent und der ergänzende Schutz sollen zusammen fünfzehn Jahren nicht übersteigen.
 
-[^annexJ-lvlu1-3-1]: [[AS 1977 1711](https://fedlex.data.admin.ch/eli/oc/1977/1711_1711_1711), [1979 621](https://fedlex.data.admin.ch/eli/oc/1979/621_621_621)Art. 1, [1995 4187](https://fedlex.data.admin.ch/eli/oc/1995/4187_4187_4187), [1996 793](https://fedlex.data.admin.ch/eli/oc/1996/793_793_793), [1997 1647](https://fedlex.data.admin.ch/eli/oc/1997/1647_1647_1647)Art. 1, [2007 3673](https://fedlex.data.admin.ch/eli/oc/2007/460)I, II]. Siehe heute: das Übereink. vom 29. Nov. 2000 ([RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849))
+[^annexJ-lvlu1-3-1]: [[AS 1977 1711](https://fedlex.data.admin.ch/eli/oc/1977/1711_1711_1711); [1979 621](https://fedlex.data.admin.ch/eli/oc/1979/621_621_621)Art. 1; [1995 4187](https://fedlex.data.admin.ch/eli/oc/1995/4187_4187_4187); [1996 793](https://fedlex.data.admin.ch/eli/oc/1996/793_793_793); [1997 1647](https://fedlex.data.admin.ch/eli/oc/1997/1647_1647_1647)Art. 1; [2007 3673](https://fedlex.data.admin.ch/eli/oc/2007/460)I und II]. Siehe heute: das Übereink. vom 29. Nov. 2000 ([RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)).
 
 #### Art. 4
 
@@ -4037,29 +4098,29 @@ Anhang P – Beilage 3
 <tr><td>Staat, der die Genehmigung erteilt Nationalitätszeichen[^annexP-lvlu1-1]</td><td>Bezeichnung der zuständigen Behörde oder Stelle</td></tr>
 </table>
 
-Genehmigung Nr. … … … für den grenzüberschreitenden gewerblichen Güterkraftverkehr
+Genehmigung Nr. ... ... ... für den grenzüberschreitenden gewerblichen Güterkraftverkehr
 
-Diese Genehmigung berechtigt … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … .
+Diese Genehmigung berechtigt ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
 
-… … … … … … … … … … … … … … … … … … … … … … … … … … … .
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
 
 auf allen Verkehrsverbindungen für die Wegstrecken oder Teile von Wegstrecken in der Europäischen Gemeinschaft, Island, Liechtenstein und Norwegen[^annexP-lvlu1-2] zum grenzüberschreitenden gewerblichen Güterkraftverkehr im Sinne der Verordnung (EWG) Nr. 881/92 des Rates vom 26. März 1992, gemäss dem Zweck des Abkommens über den Europäischen Wirtschaftsaum (EWR-Abkommen) und den allgemeinen Bestimmungen dieser Genehmigung.
 
-Besondere Bemerkungen: … … … … … … … … … … … … … … … … … … … … … … … … … … … .
+Besondere Bemerkungen: ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
 
-… … … … … … … … … … … … … … … … … … … … … … … … … … … .
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
 
-… … … … … … … … … … … … … … … … … … … … … … … … … … … .
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
 
-… … … … … … … … … … … … … … … … … … … … … … … … … … … .
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
 
-Diese Genehmigung gilt vom … … … … … … … bis zum … … … … … … …
+Diese Genehmigung gilt vom ... ... ... ... ... ... ... bis zum ... ... ... ... ... ... ...
 
-Erteilt in … … … … … … … … … … … … … …, am … … … … … … … …
+Erteilt in ... ... ... ... ... ... ... ... ... ... ... ... ... ..., am ... ... ... ... ... ... ... ...
 
-… … … … … … … … … … … … … … … … … … … … … … … … … … … .
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
 
-… … … … … … … … … … … … … … … … … … … … … … … … … …[^annexP-lvlu1-3]
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...[^annexP-lvlu1-3]
 
 (Zweite Seite der Genehmigung)
 
@@ -4248,7 +4309,7 @@ Bei für den Betrieb von Linienverkehrsdiensten gebildeten Unternehmensvereinigu
 
 \3. Der Antragsteller legt zur Begründung seines Genehmigungsantrags alle zusätzlichen Informationen vor, die er für zweckdienlich hält oder um welche die Genehmigungsbehörde ersucht, insbesondere einen Fahrplan, anhand dessen die Einhaltung der Rechtsvorschriften über die Lenk- und Ruhezeiten überprüft werden kann. Verkehrsunternehmer von Mitgliedstaaten mit Ausnahme der Schweiz sollen eine Kopie der Gemeinschaftslizenz für die gewerbliche Personenbeförderung im grenzüberschreitenden Verkehr auf der Strasse, wie im EWR-Abkommen vereinbart ist, vorzeigen; Schweizer Verkehrsunternehmer sollen eine Kopie der vergleichbaren Schweizer Lizenz, die dem Betreiber des Liniendienstes erteilt wird, vorzeigen.
 
-[^annexP-lvlu1-secI-3-1]: [[AS 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106), [2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)Anhang Ziff. II 5, [2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)Anhang Ziff. II 5, [2008 3547](https://fedlex.data.admin.ch/eli/oc/2008/456). [AS 2009 6027](https://fedlex.data.admin.ch/eli/oc/2009/739)Art. 82 Ziff. 1]. Siehe heute: die V vom 4. November 2009 über die Personenbeförderung ([SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)).
+[^annexP-lvlu1-secI-3-1]: [[AS 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106); [2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)Anhang Ziff. II 5; [2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)Anhang Ziff. II 5; [2008 3547](https://fedlex.data.admin.ch/eli/oc/2008/456). [AS 2009 6027](https://fedlex.data.admin.ch/eli/oc/2009/739)Art. 82 Ziff. 1]. Siehe heute: die V vom 4. November 2009 über die Personenbeförderung ([SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)).
 
 #### Art. 4
 
@@ -5393,7 +5454,7 @@ Beispiele: CKW, ATEL, EGL.
 
 [^annexR-lvlu1-1]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
 [^annexR-lvlu1-2]: [SR 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
-[^annexR-lvlu1-3]: [[AS 1979 816](https://fedlex.data.admin.ch/eli/oc/1979/816_816_816),[2001 283](https://fedlex.data.admin.ch/eli/oc/2001/57). [AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. I 2]. Siehe heute: das Kernenergiegesetz vom 21. März 2003 ([SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)).
+[^annexR-lvlu1-3]: [[AS 1979 816](https://fedlex.data.admin.ch/eli/oc/1979/816_816_816);[2001 283](https://fedlex.data.admin.ch/eli/oc/2001/57). [AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. I 2]. Siehe heute: das Kernenergiegesetz vom 21. März 2003 ([SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)).
 
 Anhang R – Anlage 3
 
@@ -5528,8 +5589,8 @@ Stellen, die gewerbsmässig mit regelmässigen Fahrten nach Fahrplan Reisende be
 
 [^annexR-lvlu1-8]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^annexR-lvlu1-9]: [SR 744.21](https://fedlex.data.admin.ch/eli/cc/1951/665_663_685)
-[^annexR-lvlu1-10]: [[AS 1993 3128](https://fedlex.data.admin.ch/eli/oc/1993/3128_3128_3128), [1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [1998 2859](https://fedlex.data.admin.ch/eli/oc/1998/2859_2859_2859), [2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497). [AS 2009 5631](https://fedlex.data.admin.ch/eli/oc/2009/680)Art. 64]. Siehe heute: das BG vom 20. März 2009 ([SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)).
-[^annexR-lvlu1-11]: [[AS 1996 443](https://fedlex.data.admin.ch/eli/oc/1996/443_443_443)[2747](https://fedlex.data.admin.ch/eli/oc/1996/2747_2747_2747), [1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142). [AS 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)Art. 26 Bst. a]. Siehe heute: die V vom 4. Nov. 2009 über die Konzessionierung und Finanzierung der Eisenbahninfrastruktur ([SR 742.120](https://fedlex.data.admin.ch/eli/cc/2015/697)).
+[^annexR-lvlu1-10]: [[AS 1993 3128](https://fedlex.data.admin.ch/eli/oc/1993/3128_3128_3128); [1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [1998 2859](https://fedlex.data.admin.ch/eli/oc/1998/2859_2859_2859); [2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497). [AS 2009 5631](https://fedlex.data.admin.ch/eli/oc/2009/680)Art. 64]. Siehe heute: das BG vom 20. März 2009 ([SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)).
+[^annexR-lvlu1-11]: [[AS 1996 443](https://fedlex.data.admin.ch/eli/oc/1996/443_443_443), [2747](https://fedlex.data.admin.ch/eli/oc/1996/2747_2747_2747); [1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142). [AS 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)Art. 26 Bst. a]. Siehe heute: die V vom 4. Nov. 2009 über die Konzessionierung und Finanzierung der Eisenbahninfrastruktur ([SR 742.120](https://fedlex.data.admin.ch/eli/cc/2015/697)).
 
 Anhang R – Anlage 8
 
@@ -5751,17 +5812,17 @@ Anhang S
 
 ### Ausschüsse
 
-\1. …[^annexS-lvlu1-lvlu1-1]
+\1. ...[^annexS-lvlu1-lvlu1-1]
 
 \2. Ausschuss für technische Handelshemmnisse[^annexS-lvlu1-lvlu1-2]
 
 \3. Ausschuss für Ursprungsbezeichnung und Zollsachverständige[^annexS-lvlu1-lvlu1-3]
 
-\4. …[^annexS-lvlu1-lvlu1-4]
+\4. ...[^annexS-lvlu1-lvlu1-4]
 
 \5. Ausschuss für Wirtschaftsfragen[^annexS-lvlu1-lvlu1-5]
 
-\6. …[^annexS-lvlu1-lvlu1-6]
+\6. ...[^annexS-lvlu1-lvlu1-6]
 
 \7. Ausschuss für die Abgeordneten des Parlamentes[^annexS-lvlu1-lvlu1-7]
 
@@ -5771,7 +5832,7 @@ Anhang S
 
 \10. Rechnungsprüfungsausschuss[^annexS-lvlu1-lvlu1-10]
 
-\11. …[^annexS-lvlu1-lvlu1-11]
+\11. ...[^annexS-lvlu1-lvlu1-11]
 
 \12. Ausschuss für Drittlandbeziehungen[^annexS-lvlu1-lvlu1-12]
 
@@ -5807,7 +5868,7 @@ Anhang S
 
 ### Expertengruppen
 
-- 1\.–6. …[^annexS-lvlu1-lvlu2-1]
+- 1\.–6. ...[^annexS-lvlu1-lvlu2-1]
 
 [^annexS-lvlu1-lvlu2-1]: Ratsentscheid Nr. 2/2010 vom 17. Mai 2010 ([AS 2010 3531](https://fedlex.data.admin.ch/eli/oc/2010/502)).
 
@@ -5882,7 +5943,7 @@ Anhang V*[^t-18]*
 
 ## Basisagrarprodukte
 
-[^t-18]: Eingefügt durch Ziff. II des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190)[1377](https://fedlex.data.admin.ch/eli/fga/2013/191)). Bereinigt gemäss Beschluss Nr. 4/2013 des Rates vom 22. Okt. 2013, in Kraft seit 1. April 2014 ([AS 2014 759](https://fedlex.data.admin.ch/eli/oc/2014/164)). Anhang V des Übereinkommens ist nur in englischer Originalsprache verfügbar und kann eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols oder: www.efta.int/legal-texts/efta-convention/annexes.
+[^t-18]: Eingefügt durch Ziff. II des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190), [1377](https://fedlex.data.admin.ch/eli/fga/2013/191)). Bereinigt gemäss Beschluss Nr. 4/2013 des Rates vom 22. Okt. 2013, in Kraft seit 1. April 2014 ([AS 2014 759](https://fedlex.data.admin.ch/eli/oc/2014/164)). Anhang V des Übereinkommens ist nur in englischer Originalsprache verfügbar und kann eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols oder: www.efta.int/legal-texts/efta-convention/annexes.
 
 Anhang W*[^t-19]*
 
@@ -5890,7 +5951,7 @@ Anhang W*[^t-19]*
 
 ## Verarbeitete Landwirtschaftsprodukte
 
-[^t-19]: Eingefügt durch Ziff. II des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und in Kraft getreten für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190)[1377](https://fedlex.data.admin.ch/eli/fga/2013/191)). Anhang W des Übereinkommens ist nur in englischer Originalsprache verfügbar und kann eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols.
+[^t-19]: Eingefügt durch Ziff. II des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und in Kraft getreten für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190), [1377](https://fedlex.data.admin.ch/eli/fga/2013/191)). Anhang W des Übereinkommens ist nur in englischer Originalsprache verfügbar und kann eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols.
 
 Anhang X*[^t-20]*
 
@@ -5900,7 +5961,7 @@ Anhang X*[^t-20]*
 
 [^annexX-lvlu1-1]
 
-[^t-20]: Eingefügt durch Ziff. II des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und in Kraft getreten für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190)[1377](https://fedlex.data.admin.ch/eli/fga/2013/191)). Anhang X des Übereinkommens ist nur in englischer Originalsprache verfügbar und kann eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols.
+[^t-20]: Eingefügt durch Ziff. II des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, von der BVers genehmigt am 13. März 2013 und in Kraft getreten für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190), [1377](https://fedlex.data.admin.ch/eli/fga/2013/191)). Anhang X des Übereinkommens ist nur in englischer Originalsprache verfügbar und kann eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols.
 [^annexX-lvlu1-1]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
 
 ## Schlussakte
@@ -6063,4 +6124,4 @@ Gemeinsame Erklärung*[^t-21]*
 
 ## Weitere Liberalisierung in Bezug auf Basisagrarprodukte
 
-[^t-21]: Eingefügt durch Ziff. III des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, mit Wirkung für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190)[1377](https://fedlex.data.admin.ch/eli/fga/2013/191)). Die gemeinsame Erklärung ist nur in englischer Originalsprache verfügbar und kann eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int &gt; LegalTexts &gt; EFTA Convention &gt; Annexes and Protocols.
+[^t-21]: Eingefügt durch Ziff. III des Beschlusses Nr. 2/2012 des Rates vom 21. Juni 2012, mit Wirkung für die Schweiz am 1. Juli 2013 ([AS 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [BBl 2013 1257](https://fedlex.data.admin.ch/eli/fga/2013/190), [1377](https://fedlex.data.admin.ch/eli/fga/2013/191)). Die gemeinsame Erklärung ist nur in englischer Originalsprache verfügbar und kann eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int &gt; LegalTexts &gt; EFTA Convention &gt; Annexes and Protocols.

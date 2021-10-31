@@ -3,11 +3,11 @@ sr: "0.632.31"
 title: "Convenzione del 4 gennaio 1960 istitutiva dell'Associazione europea di libero scambio (AELS) (con allegati, Alto finale e Dichiarazioni)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/590_635_621"
 language: it
-version: 2017-11-09
+version: 2021-11-01
 adopted: 1960-01-04
 in_force: 1960-05-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/590_635_621/20171109/it/xml/fedlex-data-admin-ch-eli-cc-1960-590_635_621-20171109-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/590_635_621/20171109/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/590_635_621/20211101/it/xml/fedlex-data-admin-ch-eli-cc-1960-590_635_621-20211101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/590_635_621/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -28,7 +28,7 @@ Istrumenti di ratificazione depositati dalla Svizzera il 12 aprile 2002
 
 Entrata in vigore 1° giugno 2002
 
-(Stato 9 novembre 2017)
+(Stato 1° novembre 2021)
 
 [^t-1]: [RU 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)All. XX
 [^t-2]: [RU 2003 2684](https://fedlex.data.admin.ch/eli/oc/2003/415)
@@ -107,14 +107,9 @@ I dazi d’importazione e d’esportazione e tutti i gravami con effetto equival
 
 **Regole d’origine e cooperazione amministrativa**[^5-1]
 
-<sup>1.</sup> I diritti e gli obblighi degli Stati membri in materia di regole d’origine e la cooperazione amministrativa tra le autorità doganali degli Stati membri sono disciplinati dalla Convenzione regionale del 15 giugno 2011[^5-2] sulle norme di origine preferenziali paneuromediterranee (qui appresso Convenzione PEM); ciò vale, *mutatis mutandis* e impregiudicato il disposto dell’articolo 15, come parte integrante della presente Convenzione.
+Le disposizioni relative alle regole d’origine e alla cooperazione amministrativa sono contenute nell’allegato A.
 
-<sup>2.</sup> Per i prodotti agricoli di base di cui all’allegato V e i prodotti agricoli trasformati di cui all’allegato W, conformemente all’articolo 3 dell’allegato I della Convenzione PEM il cumulo bilaterale è ammesso esclusivamente tra Stati membri.
-
-<sup>3.</sup> In caso di denuncia della Convenzione PEM da parte di uno Stato membro, gli Stati membri intraprendono senza indugio negoziati relativi a nuove regole d’origine per la presente Convenzione. Fino all’entrata in vigore di tali regole, valgono le regole d’origine contemplate dalla Convenzione PEM e rimangono *mutatis mutandis* parte integrante della presente Convenzione; è ammesso esclusivamente il cumulo tra Stati membri.
-
-[^5-1]: Nuovo testo giusta il n. I della Dec. n. 2/2012 del Consiglio del 21 giu. 2012, approvata dall’AF il 13 mar. 2013, in vigore per la Svizzera dal 1° lug. 2013 ([RU 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423)[2031](https://fedlex.data.admin.ch/eli/oc/2013/422); [FF 2013 1119](https://fedlex.data.admin.ch/eli/fga/2013/190)[1235](https://fedlex.data.admin.ch/eli/fga/2013/191)).
-[^5-2]: [RS 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+[^5-1]: Nuovo testo giusta il n. I della Dec. n. 2/2019 del Consiglio del 14 mag. 2019, approvata dall’art. 1 cpv. 1 lett. a dell’AF del 19 mar. 2021, in vigore per la Svizzera dal 1° nov. 2021 ([RU 2021 645](https://fedlex.data.admin.ch/eli/oc/2021/645), [644](https://fedlex.data.admin.ch/eli/oc/2021/644); [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 6
 
@@ -643,67 +638,42 @@ Sempreché agiscano in virtù della presente Convenzione, i rappresentanti, i de
 
 #### Art. 53
 
-**Allegati**
+**Allegati**[^53-1]
 
 <sup>1.</sup> Gli allegati, le appendici e i protocolli della presente Convenzione sono parte integrante della stessa.
 
-<sup>2.</sup> Gli allegati della presente Convenzione sono i seguenti:
+<sup>2.</sup>
 
-Allegato A …
+Gli allegati della presente Convenzione sono i seguenti:
 
-Allegato B Relativo all’assistenza amministrativa reciproca in materia doganale
+- Allegato A Regole d’origine e cooperazione amministrativa
+- Allegato B Relativo all’assistenza amministrativa reciproca in materia doganale
+- Allegato E Sementi
+- Allegato F Agricoltura biologica
+- Allegato G Misure sanitarie e fitosanitarie
+- Allegato H Procedura di notifica relativa ai progetti di regolamentazioni tecniche e di regole relative ai servizi della società dell’informazione
+- Allegato I Riconoscimento reciproco in materia di valutazione della conformità
+- Allegato J Protezione della proprietà intellettuale
+- Allegato K Libera circolazione delle persone
+- Allegato L Riserve dell’Islanda relative agli investimenti e ai servizi
+- Allegato M Riserve del Liechtenstein relative agli investimenti e ai servizi
+- Allegato N Riserve della Norvegia relative agli investimenti e ai servizi
+- Allegato O Riserve della Svizzera relative agli investimenti e ai servizi
+- Allegato P Trasporti terrestri
+- Allegato Q Trasporto aereo
+- Allegato R Appalti pubblici
+- Allegato S Organi, comitati e altri organismi istituiti dal Consiglio
+- Allegato T Arbitrato
+- Allegato U Applicazione territoriale
+- Allegato V Prodotti agricoli di base
+- Allegato W Prodotti agricoli trasformati
+- Allegato X Prodotti agricoli non compresi nei capitoli 1‒24 del Sistema armonizzato (SA)
 
-Allegato C …
+<sup>3.</sup> Il Consiglio può decidere di emendare le disposizioni del presente paragrafo.
 
-Allegato D …
+<sup>4.</sup> Il Consiglio può decidere di emendare gli allegati A, H, S, T, V e W come pure le appendici degli allegati E, F, K, P, Q, e R, salvo disposizione contraria menzionata negli allegati.
 
-Allegato E Sementi
-
-Allegato F Agricoltura biologica
-
-Allegato G Misure sanitarie e fitosanitarie
-
-Allegato H Procedura di notifica relativa ai progetti di regolamentazioni tecniche e di regole relative ai servizi della società dell’informazione
-
-Allegato I Riconoscimento reciproco in materia di valutazione della conformità
-
-Allegato J Protezione della proprietà intellettuale
-
-Allegato K Libera circolazione delle persone
-
-Allegato L Riserve dell’Islanda relative agli investimenti e ai servizi
-
-Allegato M Riserve del Liechtenstein relative agli investimenti e ai servizi
-
-Allegato N Riserve della Norvegia relative agli investimenti e ai servizi
-
-Allegato O Riserve della Svizzera relative agli investimenti e ai servizi
-
-Allegato P Trasporti terrestri
-
-Allegato Q Trasporto aereo
-
-Allegato R Appalti pubblici
-
-Allegato S Organi, comitati e altri organismi istituiti dal Consiglio
-
-Allegato T Arbitrato
-
-Allegato U Applicazione territoriale
-
-Allegato V Prodotti agricoli di base
-
-Allegato W Prodotti agricoli trasformati
-
-Allegato X Prodotti agricoli non compresi nei capitoli 1‒24 del Sistema armonizzato (SA)
-
-Il Consiglio può decidere di emendare le disposizioni del presente paragrafo.
-
-<sup>3.</sup> Il Consiglio può decidere di emendare gli allegati A, C, H, S e T come pure le appendici degli allegati E, F, K, P, Q, e R, salvo disposizione contraria menzionata negli allegati.
-
-<sup>4.</sup> Il Comitato nominato in base all’allegato I può decidere di emendare l’articolo 3 di tale allegato come pure la relativa appendice.[^53-1] Esso informa il Consiglio sulle sue procedure di decisione corrispondenti.
-
-[^53-1]: Nuovo testo giusta il n. 1 della Dec. n. 2/2009 del Consiglio del 16 giu. 2009, in vigore per la Svizzera dal 1° set. 2010 ([RU 2010 4063](https://fedlex.data.admin.ch/eli/oc/2010/593)).
+[^53-1]: Nuovo testo giusta il n. I della Dec. n. 2/2019 del Consiglio del 14 mag. 2019, approvata dall’art. 1 cpv. 1 lett. a dell’AF del 19 mar. 2021, in vigore per la Svizzera dal 1° nov. 2021 ([RU 2021 645](https://fedlex.data.admin.ch/eli/oc/2021/645), [644](https://fedlex.data.admin.ch/eli/oc/2021/644); [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 54
 
@@ -755,7 +725,73 @@ Salvo disposizione contraria della presente Convenzione, un emendamento alle dis
 
 Allegato A*[^t-3]*
 
-[^t-3]: Abrogato dal n. I della Dec. n. 2/2012 del Consiglio del 21 giu. 2012, con effetto per la Svizzera dal 1° lug. 2013 ([RU 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423)).
+## Regole d’origine e cooperazione amministrativa (art. 5)
+
+[^t-3]: Nuovo testo giusta la Dec. n. 6/2020 del Consiglio dell’8 dic. 2020, approvata dall’art. 1 cpv. 1 lett. b dell’AF del 19 mar. 2021, in vigore per la Svizzera dal 1° nov. 2021 ([RU 2021 645](https://fedlex.data.admin.ch/eli/oc/2021/645), [644](https://fedlex.data.admin.ch/eli/oc/2021/644); [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
+
+#### Art. 1
+
+**Norme di origine applicabili**
+
+<sup>1.</sup> Per quanto riguarda i diritti e gli obblighi degli Stati membri in materia di regole di origine e di cooperazione amministrativa tra le loro autorità doganali, si applicano l’appendice I e le pertinenti disposizioni dell’appendice II della Convenzione regionale sulle norme di origine preferenziali paneuromediterranee (di seguito Convenzione PEM)[^annexA-lvlu1-1-1], comprese le successive modifiche, che sono inserite nella presente Convenzione e ne divengono parte integrante, *mutatis mutandis*, fatto salvo l’articolo 15.
+
+<sup>2.</sup> Tutti i riferimenti all’«accordo pertinente» nell’appendice I e nelle pertinenti disposizioni dell’appendice II della Convenzione PEM s’intendono come riferimenti alla presente Convenzione.
+
+[^annexA-lvlu1-1-1]: [RS 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+
+#### Art. 2
+
+**Norme di origine alternative applicabili**
+
+<sup>1.</sup> In deroga all’articolo 21, ai fini dell’applicazione della presente Convenzione anche i prodotti che acquisiscono l’origine preferenziale conformemente alle disposizioni di cui all’appendice A del presente allegato («norme alternative») sono considerati originari di uno Stato membro.
+
+<sup>2.</sup> Le norme alternative si applicano fino all’entrata in vigore della modifica della Convenzione PEM.
+
+#### Art. 3
+
+**Composizione delle controversie**
+
+Il capitolo XVII della presente Convenzione si applica alla composizione delle controversie relative all’interpretazione e all’applicazione dell’appendice I e delle pertinenti disposizioni dell’appendice II della Convenzione PEM.
+
+#### Art. 4
+
+**Denuncia della Convenzione PEM**
+
+<sup>1.</sup> In caso di denuncia della Convenzione PEM da parte di uno Stato membro, quest’ultimo ne informa senza indugio gli altri Stati membri e avvia negoziati relativi a nuove regole d’origine ai fini della presente Convenzione.
+
+<sup>2.</sup> Fino all’entrata in vigore di tali nuove regole, continuano ad applicarsi l’appendice I e, se del caso, le pertinenti disposizioni dell’appendice II della Convenzione PEM, applicabili al momento della denuncia, e le norme alternative possono continuare ad applicarsi alla presente Convenzione. Tuttavia, a partire dal momento della denuncia, le norme di origine contenute nell’appendice I e, se del caso, le pertinenti disposizioni dell’appendice II della Convenzione PEM e nelle norme alternative sono interpretate in modo da consentire il cumulo bilaterale unicamente tra lo Stato membro che ha denunciato la Convenzione PEM e ciascuno degli altri Stati membri.
+
+#### Art. 5
+
+**Disposizioni transitorie**
+
+Fino all’applicazione delle disposizioni rivedute della Convenzione PEM e in deroga agli articoli 16 paragrafo 5 e 21 paragrafo 3 dell’appendice I della Convenzione PEM, quando il cumulo riguarda soltanto gli Stati AELS, le Isole Færøer, l’Unione europea, la Turchia, i partecipanti al processo di stabilizzazione e associazione, la Moldova, la Georgia e l’Ucraina, può essere utilizzato un certificato di circolazione EUR.1 o una dichiarazione di origine.
+
+#### Art. 6
+
+**Certificati di circolazione EUR.1 rilasciati elettronicamente**
+
+<sup>1.</sup> In alternativa alle disposizioni sul rilascio dei certificati di circolazione, gli Stati membri accettano i certificati di circolazione EUR.1 rilasciati elettronicamente. In considerazione del sistema digitalizzato per il rilascio di tali certificati, i requisiti formali per i certificati di circolazione EUR.1 rilasciati elettronicamente sono stabiliti al paragrafo 3. Le autorità doganali dello Stato membro esportatore e dello Stato membro importatore possono concordare altri requisiti formali per i certificati di circolazione EUR.1 rilasciati elettronicamente.
+
+<sup>2.</sup> Ogni Stato membro esportatore informa il segretariato dell’AELS sullo stato di attuazione del rilascio dei certificati di circolazione EUR.1 elettronici e a tutte le questioni tecniche relative a tale attuazione (rilascio, presentazione e verifica di un certificato elettronico).
+
+<sup>3.</sup>
+
+Se concordato dalle autorità doganali dello Stato membro esportatore e importatore, ai certificati di circolazione rilasciati e convalidati elettronicamente non si applicano i paragrafi 1 e 2 dell’allegato IIIa, bensì quanto segue:
+
+- a) i timbri a inchiostro utilizzati dalle autorità doganali o dalle autorità governative competenti per la convalida dei certificati di circolazione EUR.1 (casella 11) possono essere sostituiti da timbri-immagine o da timbri elettronici;
+- b) le caselle 11 e 12 possono contenere firme facsimile o elettroniche invece delle firme originali;
+- c) le informazioni nella casella 11 relative alla forma e al numero del documento di esportazione sono indicate solo se così richiesto dalla legislazione nazionale dello Stato membro esportatore;
+- d) i certificati devono recare inoltre un numero di serie o un codice che permetta di identificarli; e
+- e) i certificati di circolazione sono redatti in una delle lingue ufficiali degli Stati membri o in inglese.
+
+Appendice A
+
+## Norme di origine alternative applicabili****
+
+[^annexA-lvlu1-1]
+
+[^annexA-lvlu1-1]: La versione originale inglese dell’appendice A dell’all. A della Conv. può essere consultata sul sito Internet della Segreteria dell’AELS: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols. Una traduzione italiana delle norme alternative di origine è pubblicata nel [FF 2021 346](https://fedlex.data.admin.ch/eli/fga/2021/346).
 
 Allegato B
 

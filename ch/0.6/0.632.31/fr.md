@@ -3,16 +3,16 @@ sr: "0.632.31"
 title: "Convention du 4 janvier 1960 instituant l'Association Européenne de Libre-Échange (AELE) (avec annexes, acte final et déclarations)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/590_635_621"
 language: fr
-version: 2017-11-09
+version: 2021-11-01
 adopted: 1960-01-04
 in_force: 1960-05-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/590_635_621/20171109/fr/xml/fedlex-data-admin-ch-eli-cc-1960-590_635_621-20171109-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/590_635_621/20171109/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/590_635_621/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-1960-590_635_621-20211101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/590_635_621/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention instituant l’Association Européenne de Libre-Echange (AELE)
+# Convention instituant l’Association Européenne de Libre-Échange (AELE)
 
 RO **1960** 635; FF **1960** I 869
 
@@ -28,14 +28,14 @@ Instrument de ratification déposé par la suisse le 12 avril 2002
 
 Entrée en vigueur le 1<sup>er</sup> juin 2002
 
-(Etat le 9 novembre 2017)
+(Etat le 1<sup>er</sup> novembre 2021)
 
 [^t-1]: [RO 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)annexe XX
 [^t-2]: [RO 2003 2684](https://fedlex.data.admin.ch/eli/oc/2003/415)
 
 La République d’Islande, la Principauté de Liechtenstein, le Royaume de Norvège et la Confédération suisse
 
-(ci-après dénommés les «Etats membres»);
+(ci-après dénommés les «États membres»);
 
 considérant la conclusion, le 4 janvier 1960, de la Convention instituant l’Association européenne de libre-échange (ci-après dénommée la «Convention»), par la République d’Autriche, le Royaume du Danemark, le Royaume de Norvège, la République du Portugal, le Royaume de Suède, la Confédération suisse et le Royaume-Uni de Grande Bretagne et d’Irlande du Nord;
 
@@ -43,11 +43,11 @@ considérant l’association avec la République de Finlande et son adhésion su
 
 considérant les retraits successifs de la Convention du Royaume du Danemark et du Royaume-Uni, le 1<sup>er</sup> janvier 1973; de la République du Portugal, le 1<sup>er</sup> janvier 1986; de la République d’Autriche, de la République de Finlande et du Royaume de Suède, le 1<sup>er</sup> janvier 1995;
 
-considérant les accords de libre-échange entre les Etats membres, d’une part, et de tierces parties, d’autre part;
+considérant les accords de libre-échange entre les États membres, d’une part, et de tierces parties, d’autre part;
 
-réaffirmant la grande priorité qu’ils attachent à maintenir les relations privilégiées entre les Etats membres et à faciliter la poursuite de bonnes relations que chacun d’entre eux entretient avec l’Union européenne, en raison de leur proximité géographique, de leurs valeurs communes de longue date et de leur identité européenne;
+réaffirmant la grande priorité qu’ils attachent à maintenir les relations privilégiées entre les États membres et à faciliter la poursuite de bonnes relations que chacun d’entre eux entretient avec l’Union européenne, en raison de leur proximité géographique, de leurs valeurs communes de longue date et de leur identité européenne;
 
-décidés à intensifier la coopération au sein de l’Association européenne de libre-échange en vue de faciliter davantage la libre circulation des marchandises, de promouvoir progressivement la libre circulation des personnes et la libéralisation progressive du commerce des services et celle des investissements, à poursuivre l’ouverture des marchés publics dans les Etats de l’AELE et à garantir une protection adéquate des droits de propriété intellectuelle dans des conditions de concurrence loyales;
+décidés à intensifier la coopération au sein de l’Association européenne de libre-échange en vue de faciliter davantage la libre circulation des marchandises, de promouvoir progressivement la libre circulation des personnes et la libéralisation progressive du commerce des services et celle des investissements, à poursuivre l’ouverture des marchés publics dans les États de l’AELE et à garantir une protection adéquate des droits de propriété intellectuelle dans des conditions de concurrence loyales;
 
 s’appuyant sur leurs droits et obligations respectifs conformément à l’Accord instituant l’Organisation mondiale du commerce[^ingress-1] et à d’autres instruments de coopération multilatéraux ou bilatéraux;
 
@@ -73,12 +73,12 @@ Par la présente Convention, il est établi une organisation internationale sous
 
 Les objectifs de l’Association sont:
 
-- a) de favoriser le renforcement continu et équilibré des relations économiques et commerciales entre les Etats membres, dans des conditions de concurrence loyales et dans le respect de règles équivalentes sur le territoire des Etats membres de l’Association;
+- a) de favoriser le renforcement continu et équilibré des relations économiques et commerciales entre les États membres, dans des conditions de concurrence loyales et dans le respect de règles équivalentes sur le territoire des États membres de l’Association;
 - b) le libre-échange des marchandises;
 - c) la libéralisation progressive de la circulation des personnes;
 - d) la libéralisation progressive du commerce des services et des investissements;
-- e) de garantir une concurrence loyale pour les échanges commerciaux entre les Etats membres;
-- f) d’ouvrir les marchés publics des Etats membres;
+- e) de garantir une concurrence loyale pour les échanges commerciaux entre les États membres;
+- f) d’ouvrir les marchés publics des États membres;
 - g) d’assurer une protection appropriée des droits de propriété intellectuelle conformément aux normes internationales les plus élevées.
 
 ## Chapitre II Libre circulation des marchandises****
@@ -91,36 +91,31 @@ Les objectifs de l’Association sont:
 
 **Droits de douane à l’importation et à l’exportation et taxes d’effet équivalent**
 
-Les droits de douane à l’importation et à l’exportation ainsi que toutes taxes d’effet équivalent sont interdits entre les Etats membres. Cette interdiction s’applique également aux droits de douane à caractère fiscal.
+Les droits de douane à l’importation et à l’exportation ainsi que toutes taxes d’effet équivalent sont interdits entre les États membres. Cette interdiction s’applique également aux droits de douane à caractère fiscal.
 
 #### Art. 4
 
 **Impositions intérieures**
 
-<sup>1.</sup> Aucun Etat membre ne frappe directement ou indirectement les produits des autres Etats membres d’impositions intérieures, de quelque nature qu’elles soient, supérieures à celles qui frappent directement ou indirectement les produits nationaux similaires.
+<sup>1.</sup> Aucun État membre ne frappe directement ou indirectement les produits des autres États membres d’impositions intérieures, de quelque nature qu’elles soient, supérieures à celles qui frappent directement ou indirectement les produits nationaux similaires.
 
-<sup>2.</sup> En outre, aucun Etat membre ne frappe les produits des autres Etats membres d’impositions intérieures de nature à protéger indirectement d’autres productions.
+<sup>2.</sup> En outre, aucun État membre ne frappe les produits des autres États membres d’impositions intérieures de nature à protéger indirectement d’autres productions.
 
-<sup>3.</sup> Les produits exportés vers le territoire d’un des Etats membres ne peuvent bénéficier d’aucune ristourne d’impositions intérieures supérieure aux impositions intérieures dont ils ont été frappés directement ou indirectement.
+<sup>3.</sup> Les produits exportés vers le territoire d’un des États membres ne peuvent bénéficier d’aucune ristourne d’impositions intérieures supérieure aux impositions intérieures dont ils ont été frappés directement ou indirectement.
 
 #### Art. 5
 
 **Règles d’origine et coopération administrative**[^5-1]
 
-<sup>1.</sup> Les droits et obligations des Etats membres relatifs aux règles d’origine et à la coopération administrative entre les autorités douanières des Etats membres sont régis par la Convention régionale du 15 juin 2011 sur les règles d’origine préférentielles paneuroméditerranéennes (ci-après dénommée «Convention PEM»)[^5-2], qui, *mutatis mutandis* et sans préjudice de l’art. 15, fait partie intégrante de la présente Convention.
+Les dispositions concernant les règles d’origine et la coopération administrative figurent à l’annexe A.
 
-<sup>2.</sup> En ce qui concerne les produits agricoles de base figurant à l’annexe V et les produits agricoles transformés figurant à l’annexe W, seul est admis le cumul bilatéral entre les Etats membres prévu à l’art. 3 de l’appendice I de la Convention PEM.
-
-<sup>3.</sup> Si un Etat membre dénonce la Convention PEM, les Etats membres ouvrent immédiatement des négociations en vue de définir de nouvelles règles d’origine pour la présente Convention. D’ici à l’entrée en vigueur de celles-ci, les règles d’origine de la Convention PEM sont applicables et restent *mutatis mutandis* partie intégrante de la présente Convention; seul est admis le cumul entre les Etats membres.
-
-[^5-1]: Nouvelle teneur selon le ch. I de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)).
-[^5-2]: [RS 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+[^5-1]: Nouvelle teneur selon le ch. I de la D n<sup>o</sup> 2/2019 du Conseil du 14 mai 2019, approuvée par l’Ass. féd. le 19 mars 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 645](https://fedlex.data.admin.ch/eli/oc/2021/645), [644](https://fedlex.data.admin.ch/eli/oc/2021/644); [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 6
 
 **Assistance mutuelle en matière douanière**
 
-<sup>1.</sup> Les Etats membres se prêtent mutuellement assistance dans le domaine douanier en général conformément aux dispositions figurant à l’annexe B, de manière à assurer la bonne application de leur législation douanière.
+<sup>1.</sup> Les États membres se prêtent mutuellement assistance dans le domaine douanier en général conformément aux dispositions figurant à l’annexe B, de manière à assurer la bonne application de leur législation douanière.
 
 <sup>2.</sup> L’annexe B s’applique à tous les produits, indépendamment du fait qu’ils soient couverts ou non par la présente Convention.
 
@@ -128,15 +123,15 @@ Les droits de douane à l’importation et à l’exportation ainsi que toutes t
 
 **Restrictions quantitatives à l’importation et à l’exportation et mesures d’effet équivalent**
 
-Les restrictions quantitatives à l’importation et à l’exportation ainsi que toutes mesures d’effet équivalent sont interdites entre les Etats membres.
+Les restrictions quantitatives à l’importation et à l’exportation ainsi que toutes mesures d’effet équivalent sont interdites entre les États membres.
 
 #### Art. 8
 
 **Produits agricoles**[^8-1]
 
-Eu égard aux considérations particulières relatives à l’agriculture, les art. 2, 3, 4 et 7 ainsi que le chap. IV sur les aides d’Etat, le chap. VI sur les règles en matière de concurrence et le chap. XII sur les marchés publics ne s’appliquent pas aux produits agricoles visés aux chap. 1 à 24 de la Convention internationale du 14 juin 1983 sur le Système harmonisé de désignation et de codification des marchandises (Système harmonisé)[^8-2] ou à l’annexe X, sous réserve des dispositions figurant:
+Eu égard aux considérations particulières relatives à l’agriculture, les art. 2, 3, 4 et 7 ainsi que le chap. IV sur les aides d’État, le chap. VI sur les règles en matière de concurrence et le chap. XII sur les marchés publics ne s’appliquent pas aux produits agricoles visés aux chap. 1 à 24 de la Convention internationale du 14 juin 1983 sur le Système harmonisé de désignation et de codification des marchandises (Système harmonisé)[^8-2] ou à l’annexe X, sous réserve des dispositions figurant:
 
-- a) à l’annexe V relative aux produits agricoles de base; ou
+- a) à l’annexe V relative aux produits agricoles de base, ou
 - b) à l’annexe W relative aux produits agricoles transformés.
 
 [^8-1]: Nouvelle teneur selon le ch. I de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)).
@@ -166,13 +161,13 @@ Les dispositions de cette Convention sont applicables aux poissons et autres pro
 
 **Mesures sanitaires et phytosanitaires**
 
-Les droits et obligations des Etats membres concernant les mesures sanitaires et phytosanitaires sont régis par l’annexe G.
+Les droits et obligations des États membres concernant les mesures sanitaires et phytosanitaires sont régis par l’annexe G.
 
 #### Art. 13
 
 **Exceptions**
 
-Les dispositions de l’art. 7 ne font pas obstacle aux interdictions ou restrictions d’importation, d’exportation ou de transit justifiées par des raisons de moralité publique, d’ordre public, de sécurité publique, de protection de la santé et de la vie des personnes et des animaux ou de préservation des végétaux et de l’environnement, de protection de trésors nationaux ayant une valeur artistique, historique ou archéologique ou de protection de la propriété industrielle et commerciale. Toutefois, ces interdictions ou restrictions ne doivent constituer ni un moyen de discrimination arbitraire ni une restriction déguisée dans le commerce entre les Etats membres.
+Les dispositions de l’art. 7 ne font pas obstacle aux interdictions ou restrictions d’importation, d’exportation ou de transit justifiées par des raisons de moralité publique, d’ordre public, de sécurité publique, de protection de la santé et de la vie des personnes et des animaux ou de préservation des végétaux et de l’environnement, de protection de trésors nationaux ayant une valeur artistique, historique ou archéologique ou de protection de la propriété industrielle et commerciale. Toutefois, ces interdictions ou restrictions ne doivent constituer ni un moyen de discrimination arbitraire ni une restriction déguisée dans le commerce entre les États membres.
 
 ## Chapitre III Obstacles techniques au commerce
 
@@ -180,7 +175,7 @@ Les dispositions de l’art. 7 ne font pas obstacle aux interdictions ou restric
 
 **Notification des projets de règles techniques**
 
-<sup>1.</sup> Les Etats membres notifient au Conseil aussi tôt que possible au stade de leur élaboration tous les projets de règles techniques ou d’amendements de celles-ci.
+<sup>1.</sup> Les États membres notifient au Conseil aussi tôt que possible au stade de leur élaboration tous les projets de règles techniques ou d’amendements de celles-ci.
 
 <sup>2.</sup> Les dispositions sur la procédure de notification figurent à l’annexe H.
 
@@ -190,17 +185,17 @@ Les dispositions de l’art. 7 ne font pas obstacle aux interdictions ou restric
 
 Sans préjudice de l’art. 7, la Suisse d’une part, et l’Islande, le Liechtenstein et la Norvège d’autre part, acceptent mutuellement les rapports, certificats, autorisations, marques de conformité et déclarations de conformité du fabricant conformément aux dispositions de l’annexe I.
 
-## Chapitre IV Aides d’Etat
+## Chapitre IV Aides d’État
 
 #### Art. 16
 
-**Aides d’Etat**
+**Aides d’État**
 
-<sup>1.</sup> Les droits et obligations des Etats membres concernant les aides d’Etat sont régis par l’art. XVI de l’Accord GATT de 1994[^16-1] et par l’Accord OMC sur les subventions et les mesures compensatoires[^16-2], qui sont intégrés dans la présente Convention et en font partie intégrante, sous réserve des règles spécifiques de l’annexe Q.
+<sup>1.</sup> Les droits et obligations des États membres concernant les aides d’État sont régis par l’art. XVI de l’Accord GATT de 1994[^16-1] et par l’Accord OMC sur les subventions et les mesures compensatoires[^16-2], qui sont intégrés dans la présente Convention et en font partie intégrante, sous réserve des règles spécifiques de l’annexe Q.
 
-<sup>2.</sup> Conformément à l’art. 36 de la présente Convention, les Etats membres n’appliquent pas, à l’égard de tout autre Etat membre, les mesures compensatoires figurant dans la partie V de l’Accord OMC sur les subventions et les mesures compensatoires.
+<sup>2.</sup> Conformément à l’art. 36 de la présente Convention, les États membres n’appliquent pas, à l’égard de tout autre État membre, les mesures compensatoires figurant dans la partie V de l’Accord OMC sur les subventions et les mesures compensatoires.
 
-<sup>3.</sup> Les Etats membres réexaminent le champ d’application du présent chapitre dans le but d’étendre au secteur des services les disciplines relatives aux aides d’Etat, en tenant compte des développements intervenus dans ce domaine sur le plan international. A cette fin, un réexamen a lieu chaque année.
+<sup>3.</sup> Les États membres réexaminent le champ d’application du présent chapitre dans le but d’étendre au secteur des services les disciplines relatives aux aides d’État, en tenant compte des développements intervenus dans ce domaine sur le plan international. À cette fin, un réexamen a lieu chaque année.
 
 [^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1A.1
 [^16-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1A.13
@@ -213,20 +208,20 @@ Sans préjudice de l’art. 7, la Suisse d’une part, et l’Islande, le Liecht
 
 <sup>1.</sup>
 
-Les Etats membres veillent à ce que les entreprises publiques s’abstiennent d’appliquer:
+Les États membres veillent à ce que les entreprises publiques s’abstiennent d’appliquer:
 
-- a) des mesures ayant pour effet d’accorder à la production nationale une protection qui serait incompatible avec la présente Convention si elle était obtenue au moyen de droits de douane ou de taxes d’effet équivalent, de restrictions quantitatives ou d’aides d’Etat; ou
-- b) une discrimination commerciale fondée sur la nationalité dans la mesure où une telle discrimination compromet les bénéfices attendus de l’élimination ou de l’absence de droits de douane et de restrictions quantitatives dans les échanges entre Etats membres.
+- a) des mesures ayant pour effet d’accorder à la production nationale une protection qui serait incompatible avec la présente Convention si elle était obtenue au moyen de droits de douane ou de taxes d’effet équivalent, de restrictions quantitatives ou d’aides d’État, ou
+- b) une discrimination commerciale fondée sur la nationalité dans la mesure où une telle discrimination compromet les bénéfices attendus de l’élimination ou de l’absence de droits de douane et de restrictions quantitatives dans les échanges entre États membres.
 
-<sup>2.</sup> Aux fins du présent article, l’expression «entreprises publiques» désigne les autorités centrales, régionales ou locales, les entreprises publiques et toute autre organisation permettant à un Etat membre, en fait ou en droit, de contrôler les importations en provenance du territoire d’un Etat membre ou les exportations à destination de celui-ci, ou d’influer sensiblement sur ces importations et ces exportations.
+<sup>2.</sup> Aux fins du présent article, l’expression «entreprises publiques» désigne les autorités centrales, régionales ou locales, les entreprises publiques et toute autre organisation permettant à un État membre, en fait ou en droit, de contrôler les importations en provenance du territoire d’un État membre ou les exportations à destination de celui-ci, ou d’influer sensiblement sur ces importations et ces exportations.
 
-<sup>3.</sup> Les dispositions du par. 1 de l’art. 18 sont également applicables aux activités des entreprises publiques et des entreprises auxquelles les Etats membres ont accordé des droits spéciaux ou exclusifs, dans les limites où l’application des présentes dispositions ne fait pas échec à l’accomplissement, en droit ou en fait, de la mission particulière qui a été impartie à ces entreprises.
+<sup>3.</sup> Les dispositions du par. 1 de l’art. 18 sont également applicables aux activités des entreprises publiques et des entreprises auxquelles les États membres ont accordé des droits spéciaux ou exclusifs, dans les limites où l’application des présentes dispositions ne fait pas échec à l’accomplissement, en droit ou en fait, de la mission particulière qui a été impartie à ces entreprises.
 
-<sup>4.</sup> Le par. 3 s’applique à l’annexe Q. Les Etats membres réexaminent le champ d’application du présent chapitre dans le but d’étendre ses disciplines à d’autres services, en tenant compte des développements intervenus dans ce domaine sur le plan international. A cette fin, un réexamen a lieu chaque année.
+<sup>4.</sup> Le par. 3 s’applique à l’annexe Q. Les États membres réexaminent le champ d’application du présent chapitre dans le but d’étendre ses disciplines à d’autres services, en tenant compte des développements intervenus dans ce domaine sur le plan international. À cette fin, un réexamen a lieu chaque année.
 
-<sup>5.</sup> Les Etats membres veillent à empêcher l’introduction de pratiques nouvelles de la nature de celles qui sont décrites au par. 1 du présent article.
+<sup>5.</sup> Les États membres veillent à empêcher l’introduction de pratiques nouvelles de la nature de celles qui sont décrites au par. 1 du présent article.
 
-<sup>6.</sup> Les Etats membres, lorsqu’ils n’ont pas légalement le pouvoir de diriger, en cette matière, les autorités régionales ou locales ou des entreprises qui en dépendent, s’efforcent néanmoins d’assurer le respect des dispositions du présent article par ces autorités et ces entreprises.
+<sup>6.</sup> Les États membres, lorsqu’ils n’ont pas légalement le pouvoir de diriger, en cette matière, les autorités régionales ou locales ou des entreprises qui en dépendent, s’efforcent néanmoins d’assurer le respect des dispositions du présent article par ces autorités et ces entreprises.
 
 ## Chapitre VI Règles en matière de concurrence
 
@@ -236,24 +231,24 @@ Les Etats membres veillent à ce que les entreprises publiques s’abstiennent d
 
 <sup>1.</sup>
 
-Les Etats membres reconnaissent que les pratiques suivantes sont incompatibles avec la présente Convention, dans la mesure où elles compromettent les bénéfices attendus de celle-ci:
+Les États membres reconnaissent que les pratiques suivantes sont incompatibles avec la présente Convention, dans la mesure où elles compromettent les bénéfices attendus de celle-ci:
 
 - a) tous accords entre entreprises, toutes décisions d’associations d’entreprises et toutes pratiques concertées entre entreprises qui ont pour objet ou effet d’empêcher, de restreindre ou de fausser le jeu de la concurrence;
-- b) l’exploitation abusive, par une ou plusieurs entreprises, d’une position dominante sur l’ensemble du territoire des Etats membres ou dans une partie substantielle de celui-ci.
+- b) l’exploitation abusive, par une ou plusieurs entreprises, d’une position dominante sur l’ensemble du territoire des États membres ou dans une partie substantielle de celui-ci.
 
-<sup>2.</sup> Si un Etat membre estime qu’une pratique donnée est incompatible avec le présent article, il peut demander des consultations selon les procédures prévues à l’art. 47 et prendre les mesures appropriées conformément au par. 2 de l’art. 40 pour remédier aux difficultés résultant de la pratique en question.
+<sup>2.</sup> Si un État membre estime qu’une pratique donnée est incompatible avec le présent article, il peut demander des consultations selon les procédures prévues à l’art. 47 et prendre les mesures appropriées conformément au par. 2 de l’art. 40 pour remédier aux difficultés résultant de la pratique en question.
 
 ## Chapitre VII Protection de la propriété intellectuelle
 
 #### Art. 19
 
-<sup>1.</sup> Les Etats membres accordent et assurent une protection adéquate et effective des droits de propriété intellectuelle. Ils prennent des mesures pour faire respecter ces droits en cas d’infraction, de contrefaçon et de piraterie, conformément aux dispositions du présent article, de l’annexe J et des conventions internationales auxquelles ce dernier fait référence.
+<sup>1.</sup> Les États membres accordent et assurent une protection adéquate et effective des droits de propriété intellectuelle. Ils prennent des mesures pour faire respecter ces droits en cas d’infraction, de contrefaçon et de piraterie, conformément aux dispositions du présent article, de l’annexe J et des conventions internationales auxquelles ce dernier fait référence.
 
-<sup>2.</sup> Les Etats membres accordent aux ressortissants des autres Etats membres un traitement non moins favorable que celui qu’ils réservent à leurs propres ressortissants. Les exemptions à cette obligation doivent être conformes aux dispositions matérielles de l’art. 3 de l’Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce[^19-1] (ci-après Accord sur les ADPIC).
+<sup>2.</sup> Les États membres accordent aux ressortissants des autres États membres un traitement non moins favorable que celui qu’ils réservent à leurs propres ressortissants. Les exemptions à cette obligation doivent être conformes aux dispositions matérielles de l’art. 3 de l’Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce[^19-1] (ci-après Accord sur les ADPIC).
 
-<sup>3.</sup> Les Etats membres accordent aux ressortissants des autres Etats membres un traitement non moins favorable que celui qu’ils réservent aux ressortissants de tout autre Etat. Les exemptions à cette obligation doivent être conformes aux dispositions matérielles de l’Accord sur les ADPIC, en particulier aux art. 4 et 5.
+<sup>3.</sup> Les États membres accordent aux ressortissants des autres États membres un traitement non moins favorable que celui qu’ils réservent aux ressortissants de tout autre État. Les exemptions à cette obligation doivent être conformes aux dispositions matérielles de l’Accord sur les ADPIC, en particulier aux art. 4 et 5.
 
-<sup>4.</sup> Les Etats membres conviennent de réviser, à la demande de l’un d’eux, les dispositions relatives à la protection des droits de propriété intellectuelle contenues dans le présent article et dans l’annexe J en vue d’améliorer le niveau de protection et d’éviter ou de corriger des distorsions commerciales lorsqu’elles résultent du niveau effectif de protection des droits de propriété intellectuelle.
+<sup>4.</sup> Les États membres conviennent de réviser, à la demande de l’un d’eux, les dispositions relatives à la protection des droits de propriété intellectuelle contenues dans le présent article et dans l’annexe J en vue d’améliorer le niveau de protection et d’éviter ou de corriger des distorsions commerciales lorsqu’elles résultent du niveau effectif de protection des droits de propriété intellectuelle.
 
 [^19-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1C
 
@@ -263,44 +258,44 @@ Les Etats membres reconnaissent que les pratiques suivantes sont incompatibles a
 
 **Circulation des personnes**
 
-<sup>1.</sup> La libre circulation des personnes est assurée entre les Etats membres conformément aux dispositions figurant à l’annexe K et dans le protocole à l’annexe K sur la libre circulation des personnes entre le Liechtenstein et la Suisse.
+<sup>1.</sup> La libre circulation des personnes est assurée entre les États membres conformément aux dispositions figurant à l’annexe K et dans le protocole à l’annexe K sur la libre circulation des personnes entre le Liechtenstein et la Suisse.
 
 <sup>2.</sup>
 
-L’objectif du présent article, en faveur des ressortissants des Etats membres, est:
+L’objectif du présent article, en faveur des ressortissants des États membres, est:
 
-- a) d’accorder un droit d’entrée, de séjour, d’accès à une activité économique salariée, d’établissement en tant qu’indépendant, et le droit de demeurer sur le territoire des Etats membres;
-- b) de faciliter la prestation de services sur le territoire des Etats membres, en particulier de libéraliser la prestation de services de courte durée;
-- c) d’accorder un droit d’entrée et de séjour, sur le territoire des Etats membres, aux personnes sans activité économique dans le pays d’accueil;
+- a) d’accorder un droit d’entrée, de séjour, d’accès à une activité économique salariée, d’établissement en tant qu’indépendant, et le droit de demeurer sur le territoire des États membres;
+- b) de faciliter la prestation de services sur le territoire des États membres, en particulier de libéraliser la prestation de services de courte durée;
+- c) d’accorder un droit d’entrée et de séjour, sur le territoire des États membres, aux personnes sans activité économique dans le pays d’accueil;
 - d) d’accorder les mêmes conditions de vie, d’emploi et de travail que celles accordées aux nationaux.
 
 #### Art. 21
 
 **Coordination des systèmes de sécurité sociale**
 
-En vue d’assurer la libre circulation des personnes, les Etats membres règlent, conformément à l’appendice 2 de l’annexe K et au protocole à l’annexe K sur la libre circulation des personnes entre le Liechtenstein et la Suisse, la coordination des systèmes de sécurité sociale dans le but de garantir notamment:
+En vue d’assurer la libre circulation des personnes, les États membres règlent, conformément à l’appendice 2 de l’annexe K et au protocole à l’annexe K sur la libre circulation des personnes entre le Liechtenstein et la Suisse, la coordination des systèmes de sécurité sociale dans le but de garantir notamment:
 
 - a) l’égalité de traitement;
 - b) la détermination de la législation applicable;
 - c) la totalisation, pour l’ouverture et le maintien du droit aux prestations ainsi que pour le calcul de celles-ci, de toutes périodes prises en considération par les différentes législations nationales;
-- d) le paiement des prestations aux personnes résidant sur le territoire des Etats membres;
+- d) le paiement des prestations aux personnes résidant sur le territoire des États membres;
 - e) l’entraide et la coopération administratives entre les autorités et les institutions.
 
 #### Art. 22
 
 **Reconnaissance des qualifications professionnelles**
 
-Afin de faciliter aux ressortissants des Etats membres l’accès aux activités salariées ou indépendantes et leur exercice, les Etats membres prennent les mesures nécessaires, conformément aux dispositions figurant à l’appendice 3 de l’annexe K et dans le protocole à l’annexe K sur la libre circulation des personnes entre le Liechtenstein et la Suisse, concernant la reconnaissance mutuelle des diplômes, certificats et autres preuves de qualifications officielles et la coordination des dispositions législatives, réglementaires et administratives des Etats membres concernant l’accès aux activités salariées et non salariées ainsi que l’exercice de celles-ci.
+Afin de faciliter aux ressortissants des États membres l’accès aux activités salariées ou indépendantes et leur exercice, les États membres prennent les mesures nécessaires, conformément aux dispositions figurant à l’appendice 3 de l’annexe K et dans le protocole à l’annexe K sur la libre circulation des personnes entre le Liechtenstein et la Suisse, concernant la reconnaissance mutuelle des diplômes, certificats et autres preuves de qualifications officielles et la coordination des dispositions législatives, réglementaires et administratives des États membres concernant l’accès aux activités salariées et non salariées ainsi que l’exercice de celles-ci.
 
 ## Chapitre IX Investissement
 
-### Section I Etablissement
+### Section I Établissement
 
 #### Art. 23
 
 **Principes et portée**
 
-<sup>1.</sup> Dans le cadre et sous réserve des dispositions de la présente Convention, les restrictions au droit d’établissement des sociétés sont interdites lorsque les sociétés sont constituées en conformité avec la législation d’un Etat membre et ont leur siège statutaire, leur administration centrale ou leur principal établissement sur le territoire d’un Etat membre. Cette règle s’applique également à la création d’agences, de succursales ou de filiales par des sociétés de n’importe quel Etat membre établies sur le territoire de n’importe quel Etat membre.
+<sup>1.</sup> Dans le cadre et sous réserve des dispositions de la présente Convention, les restrictions au droit d’établissement des sociétés sont interdites lorsque les sociétés sont constituées en conformité avec la législation d’un État membre et ont leur siège statutaire, leur administration centrale ou leur principal établissement sur le territoire d’un État membre. Cette règle s’applique également à la création d’agences, de succursales ou de filiales par des sociétés de n’importe quel État membre établies sur le territoire de n’importe quel État membre.
 
 Le droit d’établissement comprend le droit de constituer, d’acquérir et de gérer des entreprises, en particulier les sociétés au sens du par. 2, dans les conditions définies par la législation du pays d’établissement pour ses propres sociétés, sous réserve des dispositions ci-après.
 
@@ -309,13 +304,13 @@ Le droit d’établissement comprend le droit de constituer, d’acquérir et de
 Aux fins de ce chapitre:
 
 - a) le terme «filiale» d’une société s’entend d’une société qui est effectivement contrôlée par une autre société;
-- b) le terme «sociétés» s’entend des sociétés de droit civil ou commercial, y compris les sociétés coopératives, et les autres personnes morales relevant du droit public ou privé, à l’exception des sociétés qui ne poursuivent pas de but lucratif; pour être considérées comme établies dans un Etat membre, les sociétés doivent avoir un lien réel et continu avec l’économie dudit Etat membre.
+- b) le terme «sociétés» s’entend des sociétés de droit civil ou commercial, y compris les sociétés coopératives, et les autres personnes morales relevant du droit public ou privé, à l’exception des sociétés qui ne poursuivent pas de but lucratif; pour être considérées comme établies dans un État membre, les sociétés doivent avoir un lien réel et continu avec l’économie dudit État membre.
 
-<sup>3.</sup> Les annexes L à O contiennent les dispositions spécifiques et les exemptions relatives au droit d’établissement. Les Etats membres s’efforcent d’éliminer progressivement les discriminations restantes qu’ils peuvent maintenir conformément aux annexes L à O. Les Etats membres réexaminent la présente disposition, y compris ses annexes, au cours des deux années suivant l’entrée en vigueur de l’Accord amendant la Convention instituant l’AELE du 21 juin 2001, en vue de réduire et, finalement, d’éliminer les restrictions restantes.
+<sup>3.</sup> Les annexes L à O contiennent les dispositions spécifiques et les exemptions relatives au droit d’établissement. Les États membres s’efforcent d’éliminer progressivement les discriminations restantes qu’ils peuvent maintenir conformément aux annexes L à O. Les États membres réexaminent la présente disposition, y compris ses annexes, au cours des deux années suivant l’entrée en vigueur de l’Accord amendant la Convention instituant l’AELE du 21 juin 2001, en vue de réduire et, finalement, d’éliminer les restrictions restantes.
 
-<sup>4.</sup> Dès l’entrée en vigueur de l’Accord amendant la Convention instituant l’AELE du 21 juin 2001, aucun des Etats membres n’adopte de nouvelles mesures ou des mesures discriminatoires supplémentaires liées à l’établissement et aux opérations des sociétés d’un autre Etat membre, par rapport au traitement accordé à ses propres sociétés.
+<sup>4.</sup> Dès l’entrée en vigueur de l’Accord amendant la Convention instituant l’AELE du 21 juin 2001, aucun des États membres n’adopte de nouvelles mesures ou des mesures discriminatoires supplémentaires liées à l’établissement et aux opérations des sociétés d’un autre État membre, par rapport au traitement accordé à ses propres sociétés.
 
-<sup>5.</sup> Dans les secteurs couverts par une exception contenue dans les annexes L à O, chaque Etat membre accorde aux sociétés d’un autre Etat membre un traitement non moins favorable que celui qu’il accorde aux sociétés d’une tierce Partie autre que la Communauté européenne. Pour ce qui est de tout nouvel accord conclu entre un Etat membre et la Communauté européenne, les Etats membres conviennent de s’accorder réciproquement les bénéfices de tels accords, par une décision du Conseil.
+<sup>5.</sup> Dans les secteurs couverts par une exception contenue dans les annexes L à O, chaque État membre accorde aux sociétés d’un autre État membre un traitement non moins favorable que celui qu’il accorde aux sociétés d’une tierce Partie autre que la Communauté européenne. Pour ce qui est de tout nouvel accord conclu entre un État membre et la Communauté européenne, les États membres conviennent de s’accorder réciproquement les bénéfices de tels accords, par une décision du Conseil.
 
 <sup>6.</sup> Le droit d’établissement dans les domaines des transports terrestres et aérien est régi par les dispositions de l’art. 35 et des annexes P et Q, sous réserve des dispositions spécifiques et des exceptions contenues dans les annexes L et M.
 
@@ -329,55 +324,55 @@ Aux fins de ce chapitre:
 
 Dans le champ d’application de ce chapitre, et sans préjudice des dispositions spéciales qui y figurent:
 
-- a) les Etats membres accordent un traitement non moins favorable que celui qu’ils accordent à leurs propres sociétés;
-- b) chaque Etat membre peut réglementer l’établissement et les activités des sociétés sur son territoire, dans la mesure où ces réglementations ne discriminent pas les sociétés d’un autre Etat membre par rapport à ses propres sociétés.
+- a) les États membres accordent un traitement non moins favorable que celui qu’ils accordent à leurs propres sociétés;
+- b) chaque État membre peut réglementer l’établissement et les activités des sociétés sur son territoire, dans la mesure où ces réglementations ne discriminent pas les sociétés d’un autre État membre par rapport à ses propres sociétés.
 
-<sup>2.</sup> Les dispositions de cet article ne font pas obstacle à l’application par un Etat membre de règles spécifiques concernant l’établissement et les activités sur son territoire de succursales et d’agences de sociétés d’un autre Etat membre, non constituées sur le territoire du premier qui sont justifiées par des différences juridiques ou techniques entre ces succursales et agences et celles des sociétés constituées sur son territoire. La différence de traitement ne doit pas aller au-delà de ce qui est strictement nécessaire par suite de ces différences juridiques ou techniques.
+<sup>2.</sup> Les dispositions de cet article ne font pas obstacle à l’application par un État membre de règles spécifiques concernant l’établissement et les activités sur son territoire de succursales et d’agences de sociétés d’un autre État membre, non constituées sur le territoire du premier qui sont justifiées par des différences juridiques ou techniques entre ces succursales et agences et celles des sociétés constituées sur son territoire. La différence de traitement ne doit pas aller au-delà de ce qui est strictement nécessaire par suite de ces différences juridiques ou techniques.
 
 #### Art. 25
 
 **Réglementation des marchés financiers**
 
-<sup>1.</sup> En ce qui concerne les services financiers, le présent chapitre ne limite pas le droit des Etats membres d’adopter des mesures rendues nécessaires pour des raisons prudentielles afin d’assurer la protection des investisseurs, des déposants, des titulaires de polices ou des personnes à qui un droit de garde est dû par un fournisseur de services financiers, ou pour assurer l’intégrité et la stabilité du système financier. Ces mesures ne discrimineront pas les sociétés d’un autre Etat membre par rapport aux sociétés dudit Etat membre.
+<sup>1.</sup> En ce qui concerne les services financiers, le présent chapitre ne limite pas le droit des États membres d’adopter des mesures rendues nécessaires pour des raisons prudentielles afin d’assurer la protection des investisseurs, des déposants, des titulaires de polices ou des personnes à qui un droit de garde est dû par un fournisseur de services financiers, ou pour assurer l’intégrité et la stabilité du système financier. Ces mesures ne discrimineront pas les sociétés d’un autre État membre par rapport aux sociétés dudit État membre.
 
-<sup>2.</sup> Aucune disposition du présent chapitre ne peut être interprétée comme obligeant un Etat membre à révéler des renseignements en rapport avec les affaires et les comptes des différents clients ou tout autre renseignement confidentiel ou exclusif en la possession des entités publiques.
+<sup>2.</sup> Aucune disposition du présent chapitre ne peut être interprétée comme obligeant un État membre à révéler des renseignements en rapport avec les affaires et les comptes des différents clients ou tout autre renseignement confidentiel ou exclusif en la possession des entités publiques.
 
 #### Art. 26
 
 **Reconnaissance**
 
-<sup>1.</sup> Un Etat membre peut participer à un accord ou arrangement avec un autre Etat, dans un but de reconnaissance des normes ou critères concernant la délivrance d’autorisations, de licences ou de certificats pour les fournisseurs de services. Dans une telle situation, l’Etat membre concerné ménage une possibilité adéquate à tout autre Etat membre de négocier son accession à un tel accord ou arrangement ou de négocier un accord ou arrangement comparable.
+<sup>1.</sup> Un État membre peut participer à un accord ou arrangement avec un autre État, dans un but de reconnaissance des normes ou critères concernant la délivrance d’autorisations, de licences ou de certificats pour les fournisseurs de services. Dans une telle situation, l’État membre concerné ménage une possibilité adéquate à tout autre État membre de négocier son accession à un tel accord ou arrangement ou de négocier un accord ou arrangement comparable.
 
-<sup>2.</sup> Dans les cas où un Etat membre accorde la reconnaissance, conformément au par. 1, de manière autonome, il ménage à tout autre Etat membre une possibilité adéquate de démontrer que l’expérience acquise, les licences ou les certificats obtenus, ou les prescriptions remplies sur le territoire de cet autre membre devraient être reconnus.
+<sup>2.</sup> Dans les cas où un État membre accorde la reconnaissance, conformément au par. 1, de manière autonome, il ménage à tout autre État membre une possibilité adéquate de démontrer que l’expérience acquise, les licences ou les certificats obtenus, ou les prescriptions remplies sur le territoire de cet autre membre devraient être reconnus.
 
-<sup>3.</sup> Un Etat membre n’accorde pas de reconnaissance qui puisse constituer un moyen de discrimination entre les Etats dans l’application de ses normes ou critères concernant la délivrance d’autorisations, de licences ou de certificats pour les fournisseurs de services ou une restriction déguisée au droit d’établissement dans le commerce des services.
+<sup>3.</sup> Un État membre n’accorde pas de reconnaissance qui puisse constituer un moyen de discrimination entre les États dans l’application de ses normes ou critères concernant la délivrance d’autorisations, de licences ou de certificats pour les fournisseurs de services ou une restriction déguisée au droit d’établissement dans le commerce des services.
 
 #### Art. 27
 
 **Exceptions**
 
-<sup>1.</sup> Sont exceptées de l’application des dispositions du présent chapitre, en ce qui concerne l’Etat membre concerné, les activités participant dans cet Etat membre, même à titre occasionnel, à l’exercice de l’autorité publique.
+<sup>1.</sup> Sont exceptées de l’application des dispositions du présent chapitre, en ce qui concerne l’État membre concerné, les activités participant dans cet État membre, même à titre occasionnel, à l’exercice de l’autorité publique.
 
 <sup>2.</sup> Les dispositions du présent chapitre et les mesures prises en vertu de celles-ci ne préjugent pas l’applicabilité des dispositions législatives, réglementaires et administratives prévoyant un régime spécial pour les sociétés étrangères, et justifiées par des raisons d’ordre public, de sécurité publique, de protection de la santé publique ou de l’environnement.
 
 <sup>3.</sup>
 
-Sous réserve que ces exceptions ne s’appliquent pas d’une manière constituant un moyen arbitraire de discrimination entre Etats pour lesquels les mêmes conditions prévalent ou ne constituent pas une forme déguisée de limitation du commerce des services, aucune disposition de la présente Convention ne peut être invoquée afin d’empêcher l’adoption, l’application ou le maintien par l’un des Etats membres des mesures qui sont:
+Sous réserve que ces exceptions ne s’appliquent pas d’une manière constituant un moyen arbitraire de discrimination entre États pour lesquels les mêmes conditions prévalent ou ne constituent pas une forme déguisée de limitation du commerce des services, aucune disposition de la présente Convention ne peut être invoquée afin d’empêcher l’adoption, l’application ou le maintien par l’un des États membres des mesures qui sont:
 
-- a) incompatibles avec l’art. 24, à condition que la différence de traitement vise à assurer l’imposition ou le recouvrement équitable ou effectif[^27-1] d’impôts directs pour ce qui est des services ou des fournisseurs de services d’autres Etats membres;
-- b) incompatibles avec le par. 5 de l’art. 23 à condition que la différence de traitement découle d’un accord visant à éviter la double imposition ou de dispositions visant à éviter la double imposition figurant dans tout autre accord ou arrangement international par lequel l’Etat membre est lié.
+- a) incompatibles avec l’art. 24, à condition que la différence de traitement vise à assurer l’imposition ou le recouvrement équitable ou effectif[^27-1] d’impôts directs pour ce qui est des services ou des fournisseurs de services d’autres États membres;
+- b) incompatibles avec le par. 5 de l’art. 23 à condition que la différence de traitement découle d’un accord visant à éviter la double imposition ou de dispositions visant à éviter la double imposition figurant dans tout autre accord ou arrangement international par lequel l’État membre est lié.
 
-[^27-1]: Les mesures qui visent à assurer l’imposition ou le recouvrement équitable ou effectif d’impôts directs comprennent les mesures prises par un Etat membre en vertu de son régime fiscal qui: i) s’appliquent aux fournisseurs de services non résidents en reconnaissance du fait que l’obligation fiscale des non-résidents est déterminée pour ce qui concerne les éléments imposables ayant leur source ou situés sur le territoire de l’Etat membre; ou ii) s’appliquent aux non-résidents afin d’assurer l’imposition ou le recouvrement des impôts sur le territoire de l’Etat membre; ou iii) s’appliquent aux non-résidents ou aux résidents afin d’empêcher l’évasion ou la fraude fiscales, y compris les mesures d’exécution; ou iv) s’appliquent aux consommateurs de services fournis sur le territoire ou en provenance du territoire d’un autre Etat membre afin d’assurer l’imposition ou le recouvrement des impôts frappant ces consommateurs provenant de sources qui se trouvent sur le territoire de l’Etat membre; ou v) distinguent les fournisseurs de services assujettis à l’impôt sur les éléments imposables au niveau mondial des autres fournisseurs de services, en reconnaissance de la différence de nature de la base d’imposition qui existe entre eux; ou vi) déterminent, attribuent ou répartissent les revenus, les bénéfices, les gains, les pertes, les déductions ou les avoirs des personnes ou succursales résidentes, ou entre personnes liées ou succursales de la même personne, afin de préserver la base d’imposition de l’Etat membre. Les termes ou concepts relatifs à la fiscalité figurant au par. 3 (a) de l’art. 27 et dans la présente note de bas de page sont déterminés conformément aux définitions et concepts relatifs à la fiscalité, ou aux définitions et concepts équivalents ou similaires, contenus dans la législation intérieure de l’Etat membre qui prend la mesure.
+[^27-1]: Les mesures qui visent à assurer l’imposition ou le recouvrement équitable ou effectif d’impôts directs comprennent les mesures prises par un Etat membre en vertu de son régime fiscal qui: i) s’appliquent aux fournisseurs de services non résidents en reconnaissance du fait que l’obligation fiscale des non-résidents est déterminée pour ce qui concerne les éléments imposables ayant leur source ou situés sur le territoire de l’Etat membre; ou ii) s’appliquent aux non-résidents afin d’assurer l’imposition ou le recouvrement des impôts sur le territoire de l’Etat membre, ou iii) s’appliquent aux non-résidents ou aux résidents afin d’empêcher l’évasion ou la fraude fiscales, y compris les mesures d’exécution, ou iv) s’appliquent aux consommateurs de services fournis sur le territoire ou en provenance du territoire d’un autre Etat membre afin d’assurer l’imposition ou le recouvrement des impôts frappant ces consommateurs provenant de sources qui se trouvent sur le territoire de l’Etat membre, ou v) distinguent les fournisseurs de services assujettis à l’impôt sur les éléments imposables au niveau mondial des autres fournisseurs de services, en reconnaissance de la différence de nature de la base d’imposition qui existe entre eux, ou vi) déterminent, attribuent ou répartissent les revenus, les bénéfices, les gains, les pertes, les déductions ou les avoirs des personnes ou succursales résidentes, ou entre personnes liées ou succursales de la même personne, afin de préserver la base d’imposition de l’Etat membre. Les termes ou concepts relatifs à la fiscalité figurant au par. 3 (a) de l’art. 27 et dans la présente note de bas de page sont déterminés conformément aux définitions et concepts relatifs à la fiscalité, ou aux définitions et concepts équivalents ou similaires, contenus dans la législation intérieure de l’Etat membre qui prend la mesure.
 
 ### Section II Mouvements de capitaux
 
 #### Art. 28
 
-<sup>1.</sup> Dans le cadre du présent chapitre, sont interdites entre les Etats membres les restrictions aux mouvements de capitaux liés à l’établissement d’une société d’un Etat membre sur le territoire d’un autre Etat membre.
+<sup>1.</sup> Dans le cadre du présent chapitre, sont interdites entre les États membres les restrictions aux mouvements de capitaux liés à l’établissement d’une société d’un État membre sur le territoire d’un autre État membre.
 
-<sup>2.</sup> Les mouvements de capitaux qui ne sont pas liés à l’établissement entre les Etats membres sont réglés conformément aux accords internationaux auxquels les Etats membres sont Parties.
+<sup>2.</sup> Les mouvements de capitaux qui ne sont pas liés à l’établissement entre les États membres sont réglés conformément aux accords internationaux auxquels les États membres sont Parties.
 
-<sup>3.</sup> Les Etats membres réexaminent le présent article dans le courant des deux années suivant l’entrée en vigueur de l’Accord amendant la Convention instituant l’AELE du 21 juin 2001 afin d’en élargir la portée et, finalement, d’éliminer les restrictions restantes aux mouvements de capitaux.
+<sup>3.</sup> Les États membres réexaminent le présent article dans le courant des deux années suivant l’entrée en vigueur de l’Accord amendant la Convention instituant l’AELE du 21 juin 2001 afin d’en élargir la portée et, finalement, d’éliminer les restrictions restantes aux mouvements de capitaux.
 
 ## Chapitre X Commerce des services
 
@@ -385,19 +380,19 @@ Sous réserve que ces exceptions ne s’appliquent pas d’une manière constitu
 
 **Principes et portée**
 
-<sup>1.</sup> Dans le cadre et sous réserve des dispositions de la présente Convention, toute restriction au droit de fournir des services à l’intérieur du territoire des Etats membres à l’égard des personnes physiques et des sociétés d’un Etat membre, autre que celui du destinataire de la prestation de services, est interdite.
+<sup>1.</sup> Dans le cadre et sous réserve des dispositions de la présente Convention, toute restriction au droit de fournir des services à l’intérieur du territoire des États membres à l’égard des personnes physiques et des sociétés d’un État membre, autre que celui du destinataire de la prestation de services, est interdite.
 
 <sup>2.</sup> Aux fins du présent chapitre, sont considérées comme services dans le cadre de la présente Convention, les prestations fournies normalement contre rémunération,
 
-- a) en provenance du territoire d’un Etat membre et à destination du territoire d’un autre Etat membre;
-- b) sur le territoire d’un Etat membre à l’intention d’un consommateur de services de tout autre Etat membre, conformément au par. 7 ci-dessous;
-- c) par un fournisseur de services d’un Etat membre, grâce à la présence de personnes physiques d’un Etat membre sur le territoire d’un autre Etat membre, conformément au par. 7 ci-dessous.
+- a) en provenance du territoire d’un État membre et à destination du territoire d’un autre État membre;
+- b) sur le territoire d’un État membre à l’intention d’un consommateur de services de tout autre État membre, conformément au par. 7 ci-dessous;
+- c) par un fournisseur de services d’un État membre, grâce à la présence de personnes physiques d’un État membre sur le territoire d’un autre État membre, conformément au par. 7 ci-dessous.
 
-<sup>3.</sup> Les annexes L à O contiennent des dispositions spécifiques et des exemptions relatives au droit de fournir des services. Les Etats membres s’efforcent d’éliminer progressivement les discriminations restantes qu’ils peuvent maintenir conformément aux annexes L à O. Les Etats membres réexaminent la présente disposition, y compris ses annexes, au cours des deux années suivant l’entrée en vigueur de l’Accord amendant la Convention instituant l’AELE du 21 juin 2001, en vue de réduire et, finalement, d’éliminer les restrictions restantes.
+<sup>3.</sup> Les annexes L à O contiennent des dispositions spécifiques et des exemptions relatives au droit de fournir des services. Les États membres s’efforcent d’éliminer progressivement les discriminations restantes qu’ils peuvent maintenir conformément aux annexes L à O. Les États membres réexaminent la présente disposition, y compris ses annexes, au cours des deux années suivant l’entrée en vigueur de l’Accord amendant la Convention instituant l’AELE du 21 juin 2001, en vue de réduire et, finalement, d’éliminer les restrictions restantes.
 
-<sup>4.</sup> Dès l’entrée en vigueur de l’Accord amendant la Convention instituant l’AELE du 21 juin 2001, aucun Etat membre n’adopte de nouvelles mesures ou des mesures discriminatoires supplémentaires à l’égard des services et fournisseurs de services d’un autre Etat membre, par rapport au traitement accordé à ses services et fournisseurs de services.
+<sup>4.</sup> Dès l’entrée en vigueur de l’Accord amendant la Convention instituant l’AELE du 21 juin 2001, aucun État membre n’adopte de nouvelles mesures ou des mesures discriminatoires supplémentaires à l’égard des services et fournisseurs de services d’un autre État membre, par rapport au traitement accordé à ses services et fournisseurs de services.
 
-<sup>5.</sup> Dans les secteurs couverts par une exception figurant aux annexes L à O, chaque Etat membre accorde aux services et fournisseurs de services d’un autre Etat membre un traitement non moins favorable que celui qu’il accorde aux services similaires et aux fournisseurs de services similaires d’une tierce Partie, autre que la Communauté européenne. Pour ce qui est de tout nouvel accord conclu entre un Etat membre et la Communauté européenne, les Etats membres conviennent de s’accorder réciproquement les bénéfices de tels accords, par une décision du Conseil.
+<sup>5.</sup> Dans les secteurs couverts par une exception figurant aux annexes L à O, chaque État membre accorde aux services et fournisseurs de services d’un autre État membre un traitement non moins favorable que celui qu’il accorde aux services similaires et aux fournisseurs de services similaires d’une tierce Partie, autre que la Communauté européenne. Pour ce qui est de tout nouvel accord conclu entre un État membre et la Communauté européenne, les États membres conviennent de s’accorder réciproquement les bénéfices de tels accords, par une décision du Conseil.
 
 <sup>6.</sup> Le droit de fournir des services dans les domaines des transports terrestres et aérien est régi par les dispositions de l’art. 35 et des annexes P et Q, sous réserve des dispositions spécifiques et des exemptions contenues dans l’annexe M.
 
@@ -409,43 +404,43 @@ Sous réserve que ces exceptions ne s’appliquent pas d’une manière constitu
 
 Dans le champ d’application du présent chapitre, sans préjudice des dispositions spéciales qui y figurent:
 
-- a) les Etats membres accordent un traitement non moins favorable que celui qu’ils accordent à leurs propres personnes physiques ou à leurs propres sociétés qui fournissent des services;
-- b) chaque Etat membre peut réglementer les activités de services sur son territoire, dans la mesure où ces réglementations ne discriminent pas les personnes physiques et les sociétés d’un autre Etat membre par rapport à ses propres personnes physiques ou ses propres sociétés.
+- a) les États membres accordent un traitement non moins favorable que celui qu’ils accordent à leurs propres personnes physiques ou à leurs propres sociétés qui fournissent des services;
+- b) chaque État membre peut réglementer les activités de services sur son territoire, dans la mesure où ces réglementations ne discriminent pas les personnes physiques et les sociétés d’un autre État membre par rapport à ses propres personnes physiques ou ses propres sociétés.
 
 #### Art. 31
 
 **Réglementation des marchés financiers**
 
-<sup>1.</sup> En ce qui concerne les services financiers, le présent chapitre ne limite pas le droit des Etats membres d’adopter des mesures rendues nécessaires pour des raisons prudentielles afin d’assurer la protection des investisseurs, des déposants, des titulaires de polices ou des personnes à qui un droit de garde est dû par un fournisseur de services financiers, ou pour assurer l’intégrité et la stabilité du système financier. Ces mesures ne doivent pas discriminer les personnes physiques et sociétés d’un autre Etat membre par rapport aux personnes physiques et sociétés dudit Etat membre.
+<sup>1.</sup> En ce qui concerne les services financiers, le présent chapitre ne limite pas le droit des États membres d’adopter des mesures rendues nécessaires pour des raisons prudentielles afin d’assurer la protection des investisseurs, des déposants, des titulaires de polices ou des personnes à qui un droit de garde est dû par un fournisseur de services financiers, ou pour assurer l’intégrité et la stabilité du système financier. Ces mesures ne doivent pas discriminer les personnes physiques et sociétés d’un autre État membre par rapport aux personnes physiques et sociétés dudit État membre.
 
-<sup>2.</sup> Aucune disposition du présent chapitre ne peut être interprétée comme obligeant un Etat membre à révéler des renseignements en rapport avec les affaires et les comptes des différents clients ou tout autre renseignement confidentiel ou exclusif en la possession des entités publiques.
+<sup>2.</sup> Aucune disposition du présent chapitre ne peut être interprétée comme obligeant un État membre à révéler des renseignements en rapport avec les affaires et les comptes des différents clients ou tout autre renseignement confidentiel ou exclusif en la possession des entités publiques.
 
 #### Art. 32
 
 **Reconnaissance**
 
-<sup>1.</sup> La reconnaissance mutuelle entre les Etats membres des diplômes, certificats et autres preuves de qualifications formelles, ainsi que la coordination des dispositions législatives, réglementaires ou administratives des Etats membres concernant l’accès aux activités et l’exercice de celles-ci par des personnes physiques sont régies par les dispositions pertinentes de l’art. 22, de l’annexe K (y compris son appendice 3) et du protocole à l’annexe K sur la libre circulation des personnes entre la Suisse et le Liechtenstein.
+<sup>1.</sup> La reconnaissance mutuelle entre les États membres des diplômes, certificats et autres preuves de qualifications formelles, ainsi que la coordination des dispositions législatives, réglementaires ou administratives des États membres concernant l’accès aux activités et l’exercice de celles-ci par des personnes physiques sont régies par les dispositions pertinentes de l’art. 22, de l’annexe K (y compris son appendice 3) et du protocole à l’annexe K sur la libre circulation des personnes entre la Suisse et le Liechtenstein.
 
-<sup>2.</sup> Un Etat membre peut participer à un accord ou arrangement avec un autre Etat, dans un but de reconnaissance des normes ou critères concernant la délivrance d’autorisations, de licences ou de certificats pour les fournisseurs de services. Dans une telle situation, l’Etat membre concerné ménage une possibilité adéquate à tout autre Etat membre de négocier son accession à un tel accord ou arrangement ou de négocier un accord ou arrangement comparable.
+<sup>2.</sup> Un État membre peut participer à un accord ou arrangement avec un autre État, dans un but de reconnaissance des normes ou critères concernant la délivrance d’autorisations, de licences ou de certificats pour les fournisseurs de services. Dans une telle situation, l’État membre concerné ménage une possibilité adéquate à tout autre État membre de négocier son accession à un tel accord ou arrangement ou de négocier un accord ou arrangement comparable.
 
-<sup>3.</sup> Dans les cas où un Etat membre accorde la reconnaissance, conformément au par. 2, de manière autonome, il ménage à tout autre Etat membre une possibilité adéquate de démontrer que l’expérience acquise, les licences ou les certificats obtenus, ou les prescriptions remplies sur le territoire de cet autre membre devraient être reconnus.
+<sup>3.</sup> Dans les cas où un État membre accorde la reconnaissance, conformément au par. 2, de manière autonome, il ménage à tout autre État membre une possibilité adéquate de démontrer que l’expérience acquise, les licences ou les certificats obtenus, ou les prescriptions remplies sur le territoire de cet autre membre devraient être reconnus.
 
-<sup>4.</sup> Un Etat membre n’accorde pas une reconnaissance qui puisse constituer un moyen de discrimination entre les pays dans l’application de ses normes ou critères concernant la délivrance d’autorisations, de licences ou de certificats pour les fournisseurs de services ou une restriction déguisée au commerce des services.
+<sup>4.</sup> Un État membre n’accorde pas une reconnaissance qui puisse constituer un moyen de discrimination entre les pays dans l’application de ses normes ou critères concernant la délivrance d’autorisations, de licences ou de certificats pour les fournisseurs de services ou une restriction déguisée au commerce des services.
 
 #### Art. 33
 
 **Exceptions**
 
-<sup>1.</sup> Sont exceptées de l’application des dispositions du présent chapitre, en ce qui concerne l’Etat membre concerné, les activités participant dans cet Etat membre, même à titre occasionnel, à l’exercice de l’autorité publique.
+<sup>1.</sup> Sont exceptées de l’application des dispositions du présent chapitre, en ce qui concerne l’État membre concerné, les activités participant dans cet État membre, même à titre occasionnel, à l’exercice de l’autorité publique.
 
 <sup>2.</sup> Les dispositions du présent chapitre et les mesures prises en vertu de celles-ci ne préjugent pas l’applicabilité des dispositions législatives, réglementaires et administratives prévoyant un régime spécial pour les fournisseurs de services étrangers, et justifiées par des raisons d’ordre public, de sécurité publique, de protection de la santé publique ou de l’environnement.
 
 <sup>3.</sup>
 
-Sous réserve que ces exceptions ne s’appliquent pas d’une manière constituant un moyen arbitraire de discrimination entre Etats pour lesquels les mêmes conditions prévalent ou ne constituent pas une forme déguisée de limitation du commerce des services, aucune disposition de la présente Convention ne peut être invoquée afin d’empêcher l’adoption, l’application ou le maintien par l’un des Etats membres des mesures qui sont:
+Sous réserve que ces exceptions ne s’appliquent pas d’une manière constituant un moyen arbitraire de discrimination entre États pour lesquels les mêmes conditions prévalent ou ne constituent pas une forme déguisée de limitation du commerce des services, aucune disposition de la présente Convention ne peut être invoquée afin d’empêcher l’adoption, l’application ou le maintien par l’un des États membres des mesures qui sont:
 
-- a) incompatibles avec l’art. 30, à condition que la différence de traitement vise à assurer l’imposition ou le recouvrement équitable ou effectif[^33-1] d’impôts directs pour ce qui est des services ou des fournisseurs de services d’autres Etats membres;
-- b) incompatibles avec le par. 5 de l’art. 29, à condition que la différence de traitement découle d’un accord visant à éviter la double imposition ou de dispositions visant à éviter la double imposition figurant dans tout autre accord ou arrangement international par lequel l’Etat membre est lié.
+- a) incompatibles avec l’art. 30, à condition que la différence de traitement vise à assurer l’imposition ou le recouvrement équitable ou effectif[^33-1] d’impôts directs pour ce qui est des services ou des fournisseurs de services d’autres États membres;
+- b) incompatibles avec le par. 5 de l’art. 29, à condition que la différence de traitement découle d’un accord visant à éviter la double imposition ou de dispositions visant à éviter la double imposition figurant dans tout autre accord ou arrangement international par lequel l’État membre est lié.
 
 [^33-1]: Voir la note à l’art. 27 ch. 3 let. a.
 
@@ -459,21 +454,21 @@ Aucune disposition de ce chapitre ne peut être interprétée comme imposant des
 
 **Transports**
 
-Les Etats membres libéralisent réciproquement l’accès à leurs marchés des transports de passagers et de marchandises par voies routière, ferroviaire et aérienne conformément aux dispositions respectives de l’annexe P et de l’annexe Q.
+Les États membres libéralisent réciproquement l’accès à leurs marchés des transports de passagers et de marchandises par voies routière, ferroviaire et aérienne conformément aux dispositions respectives de l’annexe P et de l’annexe Q.
 
 ## Chapitre XI Dumping
 
 #### Art. 36
 
-Les mesures antidumping, les droits compensateurs et les mesures sanctionnant les pratiques commerciales illicites imputables à des pays tiers ne s’appliquent pas dans les relations entre les Etats membres.
+Les mesures antidumping, les droits compensateurs et les mesures sanctionnant les pratiques commerciales illicites imputables à des pays tiers ne s’appliquent pas dans les relations entre les États membres.
 
 ## Chapitre XII Marchés publics
 
 #### Art. 37
 
-<sup>1.</sup> Les Etats membres réaffirment leurs droits et obligations découlant de l’Accord OMC sur les marchés publics (AMP)[^37-1]. Dans le cadre de la présente Convention, les Etats membres élargissent la portée des engagements qu’ils ont pris dans l’Accord OMC sur les marchés publics en vue de poursuivre la libéralisation des marchés publics selon l’annexe R.
+<sup>1.</sup> Les États membres réaffirment leurs droits et obligations découlant de l’Accord OMC sur les marchés publics (AMP)[^37-1]. Dans le cadre de la présente Convention, les États membres élargissent la portée des engagements qu’ils ont pris dans l’Accord OMC sur les marchés publics en vue de poursuivre la libéralisation des marchés publics selon l’annexe R.
 
-<sup>2.</sup> A cet effet, les Etats membres assurent un accès non-discriminatoire, transparent et réciproque à leurs marchés publics respectifs ainsi qu’une concurrence ouverte et effective basée sur un traitement égal.
+<sup>2.</sup> À cet effet, les États membres assurent un accès non-discriminatoire, transparent et réciproque à leurs marchés publics respectifs ainsi qu’une concurrence ouverte et effective basée sur un traitement égal.
 
 [^37-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
 
@@ -481,7 +476,7 @@ Les mesures antidumping, les droits compensateurs et les mesures sanctionnant le
 
 #### Art. 38
 
-Les paiements courants afférents à la circulation entre les Etats membres de marchandises, de personnes, de services et de capitaux tels qu’ils sont définis à l’art. 28, dans le cadre de la présente Convention, sont libres de toutes restrictions.
+Les paiements courants afférents à la circulation entre les États membres de marchandises, de personnes, de services et de capitaux tels qu’ils sont définis à l’art. 28, dans le cadre de la présente Convention, sont libres de toutes restrictions.
 
 ## Chapitre XIV Exceptions et sauvegardes
 
@@ -489,7 +484,7 @@ Les paiements courants afférents à la circulation entre les Etats membres de m
 
 **Exceptions concernant la sécurité**
 
-Aucune disposition de la présente Convention ne fait obstacle à ce qu’un Etat membre prenne des mesures:
+Aucune disposition de la présente Convention ne fait obstacle à ce qu’un État membre prenne des mesures:
 
 - a) qu’il estime nécessaires pour empêcher la divulgation d’informations contraires à ses intérêts essentiels en matière de sécurité;
 - b) qui se rapportent soit à la production ou au commerce d’armes, de munitions, de matériel de guerre ou d’autres produits ou services indispensables à la défense, soit à des activités de recherche, de développement ou de production indispensables à la défense, à condition que ces mesures ne faussent pas les conditions de concurrence en ce qui concerne les produits ou services non destinés à des fins spécifiquement militaires;
@@ -499,11 +494,11 @@ Aucune disposition de la présente Convention ne fait obstacle à ce qu’un Eta
 
 **Mesures de sauvegarde**
 
-<sup>1.</sup> En cas de difficultés sérieuses d’ordre économique, sociétal ou environnemental, de nature sectorielle ou régionale, susceptibles de persister, un Etat membre peut prendre unilatéralement des mesures appropriées dans les conditions et selon les procédures prévues à l’art. 41.
+<sup>1.</sup> En cas de difficultés sérieuses d’ordre économique, sociétal ou environnemental, de nature sectorielle ou régionale, susceptibles de persister, un État membre peut prendre unilatéralement des mesures appropriées dans les conditions et selon les procédures prévues à l’art. 41.
 
 <sup>2.</sup> Ces mesures de sauvegarde sont limitées, dans leur champ d’application et leur durée, à ce qui est strictement indispensable pour remédier à la situation. Par priorité devront être choisies les mesures qui apportent le moins de perturbations au fonctionnement de la présente Convention.
 
-<sup>3.</sup> Les mesures de sauvegarde s’appliquent à l’égard de tous les Etats membres.
+<sup>3.</sup> Les mesures de sauvegarde s’appliquent à l’égard de tous les États membres.
 
 <sup>4.</sup> Le présent article s’applique sans préjudice des mesures de sauvegarde spécifiques figurant aux annexes de la présente Convention ou à l’art. 5 de l’Accord OMC sur l’agriculture[^40-1].
 
@@ -511,23 +506,23 @@ Aucune disposition de la présente Convention ne fait obstacle à ce qu’un Eta
 
 #### Art. 41
 
-<sup>1.</sup> Lorsqu’un Etat membre envisage de prendre des mesures de sauvegarde en application de l’art. 40, il en avise sans délai les autres Etats membres par l’intermédiaire du Conseil et leur fournit toutes les informations utiles.
+<sup>1.</sup> Lorsqu’un État membre envisage de prendre des mesures de sauvegarde en application de l’art. 40, il en avise sans délai les autres États membres par l’intermédiaire du Conseil et leur fournit toutes les informations utiles.
 
-<sup>2.</sup> Les Etats membres se consultent immédiatement au sein du Conseil en vue de trouver une solution mutuellement acceptable.
+<sup>2.</sup> Les États membres se consultent immédiatement au sein du Conseil en vue de trouver une solution mutuellement acceptable.
 
-<sup>3.</sup> L’Etat membre concerné ne peut pas prendre des mesures de sauvegarde avant l’expiration d’un délai d’un mois à compter de la date de la notification prévue au par. 1, à moins que la consultation prévue au par. 2 n’ait été achevée avant l’expiration du délai précité. Lorsque des circonstances exceptionnelles nécessitant une intervention immédiate excluent un examen préalable, l’Etat membre concerné peut appliquer sans délai les mesures de protection strictement nécessaires pour remédier à la situation.
+<sup>3.</sup> L’État membre concerné ne peut pas prendre des mesures de sauvegarde avant l’expiration d’un délai d’un mois à compter de la date de la notification prévue au par. 1, à moins que la consultation prévue au par. 2 n’ait été achevée avant l’expiration du délai précité. Lorsque des circonstances exceptionnelles nécessitant une intervention immédiate excluent un examen préalable, l’État membre concerné peut appliquer sans délai les mesures de protection strictement nécessaires pour remédier à la situation.
 
-<sup>4.</sup> L’Etat membre concerné notifie sans délai au Conseil les mesures qu’il a prises et lui fournit toutes les informations utiles.
+<sup>4.</sup> L’État membre concerné notifie sans délai au Conseil les mesures qu’il a prises et lui fournit toutes les informations utiles.
 
 <sup>5.</sup> Les mesures de sauvegarde prises font l’objet de consultations au sein du Conseil tous les trois mois à compter de leur adoption, en vue de leur suppression avant la date d’expiration prévue ou de la limitation de leur champ d’application.
 
-Chaque Etat membre peut demander à tout moment au Conseil la révision de telles mesures.
+Chaque État membre peut demander à tout moment au Conseil la révision de telles mesures.
 
 ## Chapitre XV Coopération en matière de politique économique et monétaire
 
 #### Art. 42
 
-Les Etats membres procèdent à des échanges de vues et d’informations concernant la mise en œuvre de la présente Convention et l’incidence de l’intégration sur les activités économiques et sur la conduite des politiques économique et monétaire. Ils peuvent, en outre, discuter des situations, des politiques et des perspectives macro-économiques. Ces échanges de vues et d’informations n’ont pas un caractère obligatoire.
+Les États membres procèdent à des échanges de vues et d’informations concernant la mise en œuvre de la présente Convention et l’incidence de l’intégration sur les activités économiques et sur la conduite des politiques économique et monétaire. Ils peuvent, en outre, discuter des situations, des politiques et des perspectives macro-économiques. Ces échanges de vues et d’informations n’ont pas un caractère obligatoire.
 
 ## Chapitre XVI Dispositions institutionnelles
 
@@ -542,22 +537,22 @@ Il est de la responsabilité du Conseil:
 - a) d’exercer les pouvoirs et les fonctions qui lui sont conférés par la présente Convention;
 - b) de décider des amendements à apporter à la présente Convention conformément aux dispositions qui y figurent;
 - c) de veiller à la mise en œuvre de la présente Convention et d’en surveiller le fonctionnement;
-- d) d’examiner si les Etats membres devraient prendre de nouvelles dispositions en vue de favoriser la réalisation des objectifs de l’Association;
-- e) de faciliter l’établissement de liens étroits avec d’autres Etats ou unions d’Etats;
+- d) d’examiner si les États membres devraient prendre de nouvelles dispositions en vue de favoriser la réalisation des objectifs de l’Association;
+- e) de faciliter l’établissement de liens étroits avec d’autres États ou unions d’États;
 - f) de chercher à établir des liens avec d’autres organisations internationales, en vue de faciliter la réalisation des buts de l’Association;
-- g) de négocier des accords de commerce et de coopération entre les Etats membres et un Etat tiers, une union d’Etats ou une organisation internationale;
-- h) de s’efforcer de régler les différends relatifs à l’interprétation ou à l’application de la présente Convention; et
+- g) de négocier des accords de commerce et de coopération entre les États membres et un État tiers, une union d’États ou une organisation internationale;
+- h) de s’efforcer de régler les différends relatifs à l’interprétation ou à l’application de la présente Convention, et
 - i) de traiter tout autre sujet qui pourrait affecter le fonctionnement de la présente Convention.
 
-<sup>2.</sup> Chaque Etat membre est représenté au Conseil et y dispose d’une voix.
+<sup>2.</sup> Chaque État membre est représenté au Conseil et y dispose d’une voix.
 
 <sup>3.</sup> Le Conseil peut décider d’instituer les organes, comités et autres organismes dont le concours lui paraît nécessaire à l’accomplissement de ses tâches. Ces organes, comités et autres organismes sont énumérés dans l’annexe S.
 
-<sup>4.</sup> Dans l’exercice de ses responsabilités conformément au présent article, le Conseil peut prendre des décisions qui sont obligatoires pour tous les Etats membres et adresser à ceux-ci des recommandations.
+<sup>4.</sup> Dans l’exercice de ses responsabilités conformément au présent article, le Conseil peut prendre des décisions qui sont obligatoires pour tous les États membres et adresser à ceux-ci des recommandations.
 
-<sup>5.</sup> Le Conseil adopte ses décisions et ses recommandations à l’unanimité, à moins que la présente Convention n’en dispose autrement. Les décisions et les recommandations sont considérées comme unanimes si aucun Etat membre n’émet un vote négatif. Les décisions et les recommandations qui doivent être adoptées à la majorité requièrent le vote affirmatif de trois Etats membres.
+<sup>5.</sup> Le Conseil adopte ses décisions et ses recommandations à l’unanimité, à moins que la présente Convention n’en dispose autrement. Les décisions et les recommandations sont considérées comme unanimes si aucun État membre n’émet un vote négatif. Les décisions et les recommandations qui doivent être adoptées à la majorité requièrent le vote affirmatif de trois États membres.
 
-<sup>6.</sup> Si le nombre des Etats membres change, le Conseil peut décider de modifier le nombre des votes requis pour les décisions et recommandations adoptées à la majorité.
+<sup>6.</sup> Si le nombre des États membres change, le Conseil peut décider de modifier le nombre des votes requis pour les décisions et recommandations adoptées à la majorité.
 
 #### Art. 44
 
@@ -567,15 +562,15 @@ Le Conseil prend les décisions en vue d’arrêter:
 
 - a) les règles de procédure du Conseil et de tout autre organe de l’Association qui peuvent prévoir des décisions à la majorité pour des questions de procédure;
 - b) les dispositions relatives aux services de secrétariat nécessaires à l’Association;
-- c) les dispositions financières relatives aux dépenses administratives de l’Association, la procédure d’établissement du budget et la répartition de ces dépenses entre les Etats membres.
+- c) les dispositions financières relatives aux dépenses administratives de l’Association, la procédure d’établissement du budget et la répartition de ces dépenses entre les États membres.
 
 #### Art. 45
 
 **Capacité juridique, privilèges et immunités**
 
-<sup>1.</sup> La capacité juridique, les privilèges et immunités que les Etats membres reconnaissent et accordent en rapport avec l’Association sont arrêtés dans un protocole à la présente Convention.
+<sup>1.</sup> La capacité juridique, les privilèges et immunités que les États membres reconnaissent et accordent en rapport avec l’Association sont arrêtés dans un protocole à la présente Convention.
 
-<sup>2.</sup> Le Conseil, agissant au nom de l’Association, peut conclure avec le Gouvernement de l’Etat sur le territoire duquel est situé le siège de l’Association un accord relatif à la capacité juridique et aux privilèges et immunités qui sont reconnus et accordés en rapport avec l’Association.
+<sup>2.</sup> Le Conseil, agissant au nom de l’Association, peut conclure avec le Gouvernement de l’État sur le territoire duquel est situé le siège de l’Association un accord relatif à la capacité juridique et aux privilèges et immunités qui sont reconnus et accordés en rapport avec l’Association.
 
 ## Chapitre XVII Consultations et règlement des différends
 
@@ -589,9 +584,9 @@ Les dispositions du présent chapitre s’appliquent à toute affaire relevant d
 
 **Consultations**
 
-<sup>1.</sup> Les Etats membres s’efforcent en tout temps de trouver un accord sur l’interprétation et l’application de la présente Convention et entreprennent, au moyen de la coopération et de consultations, de parvenir à une solution mutuellement acceptable dans toute affaire pouvant affecter son fonctionnement.
+<sup>1.</sup> Les États membres s’efforcent en tout temps de trouver un accord sur l’interprétation et l’application de la présente Convention et entreprennent, au moyen de la coopération et de consultations, de parvenir à une solution mutuellement acceptable dans toute affaire pouvant affecter son fonctionnement.
 
-<sup>2.</sup> Chaque Etat membre peut soumettre au Conseil une question d’interprétation ou d’application de la présente Convention. Il fournit au Conseil toutes les informations utiles pour permettre un examen approfondi de la situation en vue de trouver une solution acceptable. A cet effet, le Conseil examine toutes les possibilités permettant de maintenir le bon fonctionnement de la présente Convention.
+<sup>2.</sup> Chaque État membre peut soumettre au Conseil une question d’interprétation ou d’application de la présente Convention. Il fournit au Conseil toutes les informations utiles pour permettre un examen approfondi de la situation en vue de trouver une solution acceptable. À cet effet, le Conseil examine toutes les possibilités permettant de maintenir le bon fonctionnement de la présente Convention.
 
 <sup>3.</sup> Le Conseil se réunit dans les 30 jours à compter de la réception de la demande de consultations.
 
@@ -599,11 +594,11 @@ Les dispositions du présent chapitre s’appliquent à toute affaire relevant d
 
 **Arbitrage**
 
-<sup>1.</sup> Si un Etat membre estime qu’une mesure appliquée par un autre Etat membre viole la Convention et que l’affaire n’a pas été résolue dans les 45 jours dans le cadre des consultations prévues à l’art. 47, l’affaire peut être soumise à l’arbitrage par un ou plusieurs Etats membres parties au différend au moyen d’une notification écrite adressée à l’Etat membre objet de la plainte. Une copie de ladite notification est communiquée aux autres Etats membres pour que chacun puisse déterminer s’il a un intérêt substantiel dans l’affaire. Si plus d’un Etat membre demande que soit soumis à l’arbitrage un différend avec le même Etat membre sur le même sujet, un seul tribunal arbitral est, si possible, constitué pour examiner tous ces différends.
+<sup>1.</sup> Si un État membre estime qu’une mesure appliquée par un autre État membre viole la Convention et que l’affaire n’a pas été résolue dans les 45 jours dans le cadre des consultations prévues à l’art. 47, l’affaire peut être soumise à l’arbitrage par un ou plusieurs États membres parties au différend au moyen d’une notification écrite adressée à l’État membre objet de la plainte. Une copie de ladite notification est communiquée aux autres États membres pour que chacun puisse déterminer s’il a un intérêt substantiel dans l’affaire. Si plus d’un État membre demande que soit soumis à l’arbitrage un différend avec le même État membre sur le même sujet, un seul tribunal arbitral est, si possible, constitué pour examiner tous ces différends.
 
-<sup>2.</sup> Un Etat membre qui n’est pas partie au différend peut, moyennant une note écrite aux Etats membres parties au différend, soumettre des propositions écrites au tribunal arbitral, recevoir des propositions écrites des Etats membres parties au différend, assister à toutes les audiences et faire des propositions orales.
+<sup>2.</sup> Un État membre qui n’est pas partie au différend peut, moyennant une note écrite aux États membres parties au différend, soumettre des propositions écrites au tribunal arbitral, recevoir des propositions écrites des États membres parties au différend, assister à toutes les audiences et faire des propositions orales.
 
-<sup>3.</sup> La sentence du tribunal arbitral est définitive et obligatoire pour les Etats membres parties au différend et elle doit être exécutée rapidement.
+<sup>3.</sup> La sentence du tribunal arbitral est définitive et obligatoire pour les États membres parties au différend et elle doit être exécutée rapidement.
 
 <sup>4.</sup> L’établissement et le fonctionnement du tribunal arbitral ainsi que l’exécution des sentences arbitrales sont régis par les dispositions de l’annexe T.
 
@@ -613,46 +608,44 @@ Les dispositions du présent chapitre s’appliquent à toute affaire relevant d
 
 **Obligations découlant d’autres accords internationaux**
 
-<sup>1.</sup> Aucune disposition de la présente Convention ne peut être considérée comme exemptant un Etat membre des obligations qui lui incombent en vertu d’accords avec des Etats tiers, ou d’accords multilatéraux auxquels il est partie.
+<sup>1.</sup> Aucune disposition de la présente Convention ne peut être considérée comme exemptant un État membre des obligations qui lui incombent en vertu d’accords avec des États tiers, ou d’accords multilatéraux auxquels il est partie.
 
-<sup>2.</sup> La présente Convention s’applique sans préjudice des règles qui lient les Etats membres Parties à l’Accord sur l’Espace économique européen[^49-1], à la coopération nordique ou à l’union régionale entre la Suisse et le Liechtenstein.
+<sup>2.</sup> La présente Convention s’applique sans préjudice des règles qui lient les États membres Parties à l’Accord sur l’Espace économique européen[^49-1], à la coopération nordique ou à l’union régionale entre la Suisse et le Liechtenstein.
 
 [^49-1]: FF **1992** IV 657
 
 #### Art. 50
 
-**Droits et obligations des Etats membres**
+**Droits et obligations des États membres**
 
-Les Etats membres prennent toutes mesures générales ou particulières propres à assurer l’exécution des obligations découlant de la présente Convention. Ils s’abstiennent de toutes mesures susceptibles de mettre en péril la réalisation des buts de la présente Convention.
+Les États membres prennent toutes mesures générales ou particulières propres à assurer l’exécution des obligations découlant de la présente Convention. Ils s’abstiennent de toutes mesures susceptibles de mettre en péril la réalisation des buts de la présente Convention.
 
 #### Art. 51
 
 **Transparence**
 
-<sup>1.</sup> Les Etats membres publient ou rendent accessibles au public d’une autre manière leurs lois, réglementations, procédures et décisions administratives, leurs décisions judiciaires d’application générale, ainsi que les accords internationaux qui peuvent affecter le fonctionnement de la présente Convention.
+<sup>1.</sup> Les États membres publient ou rendent accessibles au public d’une autre manière leurs lois, réglementations, procédures et décisions administratives, leurs décisions judiciaires d’application générale, ainsi que les accords internationaux qui peuvent affecter le fonctionnement de la présente Convention.
 
-<sup>2.</sup> Les Etats membres répondent rapidement aux questions spécifiques et se fournissent mutuellement, sur demande, les informations mentionnées au par. 1.
+<sup>2.</sup> Les États membres répondent rapidement aux questions spécifiques et se fournissent mutuellement, sur demande, les informations mentionnées au par. 1.
 
 #### Art. 52
 
 **Confidentialité**
 
-En tant qu’ils agissent dans le cadre de la présente Convention, les représentants, délégués et experts des Etats membres, ainsi que les fonctionnaires et autres agents sont tenus, même après la cessation de leurs fonctions, de ne pas divulguer les informations qui, par leur nature, sont couvertes par le secret professionnel, et notamment les renseignements relatifs aux entreprises et concernant leurs relations commerciales ou les éléments de leur prix de revient.
+En tant qu’ils agissent dans le cadre de la présente Convention, les représentants, délégués et experts des États membres, ainsi que les fonctionnaires et autres agents sont tenus, même après la cessation de leurs fonctions, de ne pas divulguer les informations qui, par leur nature, sont couvertes par le secret professionnel, et notamment les renseignements relatifs aux entreprises et concernant leurs relations commerciales ou les éléments de leur prix de revient.
 
 #### Art. 53
 
-**Annexes**
+**Annexes**[^53-1]
 
 <sup>1.</sup> Les annexes, appendices et protocoles de la présente Convention en font partie intégrante.
 
-<sup>2.</sup> Le Conseil peut décider d’amender les dispositions du présent paragraphe.
+<sup>2.</sup>
 
 Les annexes de la présente Convention sont les suivantes:
 
-- Annexe A …
+- Annexe A Règles d’origine et coopération administrative
 - Annexe B Assistance administrative mutuelle en matière douanière
-- Annexe C …
-- Annexe D …
 - Annexe E Semences
 - Annexe F Agriculture biologique
 - Annexe G Mesures sanitaires et phytosanitaires
@@ -674,17 +667,17 @@ Les annexes de la présente Convention sont les suivantes:
 - Annexe W Produits agricoles transformés
 - Annexe X Produits agricoles ne relevant pas des chap. 1 à 24 du Système harmonisé
 
-<sup>3.</sup> Le Conseil peut décider d’amender les annexes A, C, H, S et T ainsi que les appendices des annexes E, F, K, P, Q et R, sauf disposition contraire figurant aux annexes.
+<sup>3.</sup> Le Conseil peut décider d’amender le par. 2.
 
-<sup>4.</sup> Le comité institué par l’annexe I peut décider d’amender l’art. 3 de cette annexe ainsi que son appendice.[^53-1] Il informe le Conseil sur ses procédures de décision y relatives.
+<sup>4.</sup> Le Conseil peut décider d’amender les annexes A, H, S, T, V et X ainsi que les appendices des annexes E, F, K, P, Q et R, sauf disposition contraire figurant aux annexes.
 
-[^53-1]: Nouvelle teneur selon le ch. 1 de la D n<sup>o</sup> 2/2009 du Conseil du 16 juin 2009, en vigueur depuis le 1<sup>er</sup> sept. 2010 ([RO 2010 4063](https://fedlex.data.admin.ch/eli/oc/2010/593)).
+[^53-1]: Nouvelle teneur selon le ch. I de la D n<sup>o</sup> 2/2019 du Conseil du 14 mai 2019, approuvée par l’Ass. féd. le 19 mars 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 645](https://fedlex.data.admin.ch/eli/oc/2021/645), [644](https://fedlex.data.admin.ch/eli/oc/2021/644); [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 54
 
 **Ratification**
 
-<sup>1.</sup> La présente Convention sera ratifiée par les Etats signataires. Les instruments de ratification seront déposés auprès du gouvernement de la Suède qui en donnera notification à tous les autres Etats signataires.
+<sup>1.</sup> La présente Convention sera ratifiée par les États signataires. Les instruments de ratification seront déposés auprès du gouvernement de la Suède qui en donnera notification à tous les autres États signataires.
 
 <sup>2.</sup> Le gouvernement de la Norvège agit en tant que dépositaire dès le 17 novembre 1995.
 
@@ -694,43 +687,107 @@ Les annexes de la présente Convention sont les suivantes:
 
 **Entrée en vigueur**
 
-La présente Convention entrera en vigueur dès le dépôt des instruments de ratification par tous les Etats signataires.
+La présente Convention entrera en vigueur dès le dépôt des instruments de ratification par tous les États signataires.
 
 #### Art. 56
 
 **Adhésion et association**
 
-<sup>1.</sup> Tout Etat peut adhérer à la présente Convention à condition que le Conseil décide d’approuver son adhésion, aux termes et conditions énoncés dans cette décision. L’instrument d’adhésion sera déposé auprès du dépositaire qui en donnera notification à tous les autres Etats membres. La Convention entrera en vigueur, en ce qui concerne l’Etat qui y adhère, à la date indiquée dans la décision du Conseil.
+<sup>1.</sup> Tout État peut adhérer à la présente Convention à condition que le Conseil décide d’approuver son adhésion, aux termes et conditions énoncés dans cette décision. L’instrument d’adhésion sera déposé auprès du dépositaire qui en donnera notification à tous les autres États membres. La Convention entrera en vigueur, en ce qui concerne l’État qui y adhère, à la date indiquée dans la décision du Conseil.
 
-<sup>2.</sup> Le Conseil peut négocier un accord entre les Etats membres et tout autre Etat, union d’Etats ou organisation internationale, créant une association caractérisée par les droits et obligations réciproques, les actions en commun et les procédures particulières qui paraissent appropriés. Ledit accord sera soumis aux Etats membres pour acceptation et entrera en vigueur à condition d’être accepté par tous les Etats membres. Les instruments d’acceptation seront déposés auprès du dépositaire qui en donnera notification à tous les autres Etats membres.
+<sup>2.</sup> Le Conseil peut négocier un accord entre les États membres et tout autre État, union d’États ou organisation internationale, créant une association caractérisée par les droits et obligations réciproques, les actions en commun et les procédures particulières qui paraissent appropriés. Ledit accord sera soumis aux États membres pour acceptation et entrera en vigueur à condition d’être accepté par tous les États membres. Les instruments d’acceptation seront déposés auprès du dépositaire qui en donnera notification à tous les autres États membres.
 
-<sup>3.</sup> Tout Etat qui devient Partie à la présente Convention doit demander à devenir Partie aux accords de libre-échange conclus entre les Etats membres, d’une part, et des Etats tiers, des unions d’Etats ou des organisations internationales, d’autre part.
+<sup>3.</sup> Tout État qui devient Partie à la présente Convention doit demander à devenir Partie aux accords de libre-échange conclus entre les États membres, d’une part, et des États tiers, des unions d’États ou des organisations internationales, d’autre part.
 
 #### Art. 57
 
 **Retrait**
 
-<sup>1.</sup> Tout Etat membre peut se retirer de la présente Convention moyennant un préavis écrit de douze mois au dépositaire, qui en donnera notification à tous les autres Etats membres.
+<sup>1.</sup> Tout État membre peut se retirer de la présente Convention moyennant un préavis écrit de douze mois au dépositaire, qui en donnera notification à tous les autres États membres.
 
-<sup>2.</sup> Avant que le retrait ne prenne effet, les Etats membres doivent se mettre d’accord sur les arrangements appropriés et un partage équitable des coûts engendrés par le retrait.
+<sup>2.</sup> Avant que le retrait ne prenne effet, les États membres doivent se mettre d’accord sur les arrangements appropriés et un partage équitable des coûts engendrés par le retrait.
 
 #### Art. 58
 
 **Application territoriale**
 
-La présente Convention s’applique aux territoires des Etats membres sous réserve des dispositions de l’annexe U.
+La présente Convention s’applique aux territoires des États membres sous réserve des dispositions de l’annexe U.
 
 #### Art. 59
 
 **Amendements**
 
-Sauf disposition contraire de la présente Convention, tout amendement aux dispositions de celle-ci fait l’objet d’une décision du Conseil, qui sera soumise aux Etats membres afin qu’ils l’approuvent conformément aux exigences de leur législation interne. Sauf disposition contraire, elle entre en vigueur le premier jour du deuxième mois suivant le dépôt des instruments d’acceptation de tous les Etats membres auprès du dépositaire qui en donnera notification à tous les Etats membres.
+Sauf disposition contraire de la présente Convention, tout amendement aux dispositions de celle-ci fait l’objet d’une décision du Conseil, qui sera soumise aux États membres afin qu’ils l’approuvent conformément aux exigences de leur législation interne. Sauf disposition contraire, elle entre en vigueur le premier jour du deuxième mois suivant le dépôt des instruments d’acceptation de tous les États membres auprès du dépositaire qui en donnera notification à tous les États membres.
 
-*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Stockholm le 4 janvier 1960, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé auprès du Gouvernement de la Suède qui en transmettra copie certifiée conforme à tous les Etats signataires et adhérents. Amendé à Vaduz, le 21 juin 2001, en un seul exemplaire, en anglais, qui fait foi et qui sera déposé auprès du gouvernement de la Norvège.
+*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Stockholm le 4 janvier 1960, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé auprès du Gouvernement de la Suède qui en transmettra copie certifiée conforme à tous les États signataires et adhérents. Amendé à Vaduz, le 21 juin 2001, en un seul exemplaire, en anglais, qui fait foi et qui sera déposé auprès du gouvernement de la Norvège.
 
 Annexe A*[^t-3]*
 
-[^t-3]: Abrogée par le ch. I de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013, avec effet pour la Suisse au 1<sup>er</sup> juil. 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)).
+## Règles d’origine et coopération administrative (art. 5)
+
+[^t-3]: Nouvelle teneur selon la D n<sup>o</sup> 6/2020 du Conseil du 8 déc. 2020, approuvée par l’Ass. féd. le 19 mars 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 646](https://fedlex.data.admin.ch/eli/oc/2021/646), [644](https://fedlex.data.admin.ch/eli/oc/2021/644); [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
+
+#### Art. 1
+
+**Règles d’origine applicables**
+
+<sup>1.</sup> En ce qui concerne les droits et obligations des États membres relatifs aux règles d’origine et à la coopération administrative entre les autorités douanières des États membres, l’appendice I et les dispositions pertinentes de l’appendice II de la Convention régionale sur les règles d’origine préférentielles paneuro-méditerranéennes (Convention PEM)[^annexA-lvlu1-1-1], dans la mesure où celle-ci est susceptible d’être modifiée par la suite, s’appliquent; ils sont incorporés *mutatis mutandis* à la Convention AELE et en font partie intégrante, sans préjudice de l’art. 15 de la Convention AELE.
+
+<sup>2.</sup> Toutes les références à l’«accord pertinent» dans l’appendice I et dans les dispositions pertinentes de l’appendice II de la Convention PEM sont interprétées comme faisant référence à la Convention AELE.
+
+[^annexA-lvlu1-1-1]: [RS 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+
+#### Art. 2
+
+**Règles d’origine applicables de substitution**
+
+<sup>1.</sup> Nonobstant l’art. 1, aux fins de la mise en œuvre de la Convention AELE, les produits qui obtiennent une origine préférentielle conformément aux dispositions de l’appendice I de la présente annexe («règles de substitution») sont également considérés comme originaires d’un État membre.
+
+<sup>2.</sup> Les règles de substitution s’appliquent jusqu’à l’entrée en vigueur de l’amendement de la Convention PEM.
+
+#### Art. 3
+
+**Règlement des différends**
+
+Le chapitre XVII de la Convention AELE s’applique au règlement de tout différend concernant l’interprétation et l’application de l’appendice I et des dispositions pertinentes de l’appendice II de la Convention PEM.
+
+#### Art. 4
+
+**Dénonciation de la Convention PEM**
+
+<sup>1.</sup> Si un État membre dénonce la Convention PEM, il le notifie immédiatement aux autres États membres et engage des négociations en vue de définir de nouvelles règles d’origine aux fins de la Convention AELE.
+
+<sup>2.</sup> Jusqu’à l’entrée en vigueur des nouvelles règles d’origine, les règles d’origine figurant à l’appendice I et, le cas échéant, les dispositions pertinentes de l’appendice II de la Convention PEM qui sont en vigueur au moment de la dénonciation continuent de s’appliquer et les règles de substitution peuvent continuer de s’appliquer à la Convention AELE. Toutefois, à compter de la dénonciation, les règles d’origine figurant dans l’appendice I et, le cas échéant, les dispositions pertinentes de l’appendice II de la Convention PEM ainsi que dans les règles de substitution sont interprétées de manière à permettre un cumul bilatéral uniquement entre les États membres.
+
+#### Art. 5
+
+**Dispositions transitoires**
+
+Jusqu’à ce que les règles révisées de la Convention PEM s’appliquent et nonobstant l’art. 16, par. 5, et l’art. 21, par. 3, de l’appendice I de la Convention PEM, lorsque le cumul implique uniquement des États membres, les Îles Féroé, l’Union européenne, la Turquie, les participants au processus de stabilisation et d’association, la Moldavie, la Géorgie et l’Ukraine, un certificat de circulation des marchandises EUR.1 ou une déclaration d’origine peut être utilisé.
+
+#### Art. 6
+
+**Certificats de circulation des marchandises EUR.1 émis par voie électronique**
+
+<sup>1.</sup> En lieu et place des dispositions relatives à la délivrance de certificats de circulation des marchandises, les États membres acceptent des certificats de circulation des marchandises EUR.1 émis par voie électronique. S’agissant du système numérisé servant à délivrer des certificats de circulation des marchandises EUR.1, les exigences formelles relatives aux certificats de circulation des marchandises EUR.1 émis par voie électronique sont exposées au par. 3. Les autorités douanières de l’État membre exportateur et de l’État membre importateur peuvent convenir d’autres exigences formelles concernant les certificats de circulation des marchandises EUR.1 émis par voie électronique.
+
+<sup>2.</sup> Chaque État membre exportateur informe le Secrétariat de l’AELE de la disponibilité de la procédure de délivrance de certificats de circulation des marchandises EUR.1par voie électronique et des problèmes techniques ayant trait à la mise en place d’une telle procédure (délivrance, fourniture et vérification d’un certificat électronique).
+
+<sup>3.</sup>
+
+Si les autorités douanières de l’État exportateur et de l’État importateur en conviennent, les par. 1 et 2 de l’annexe IIIa de la Convention PEM ne s’appliquent pas si le certificat de circulation des marchandises est émis et validé par voie électronique; les dispositions suivantes s’appliquent:
+
+- a) les cachets à l’encre utilisés par les autorités douanières ou gouvernementales compétentes pour la validation du certificat de circulation des marchandises EUR.1 (case 11) peuvent être remplacés par une image ou des cachets électroniques;
+- b) les cases 11 et 12 peuvent contenir des signatures en fac-similé ou des signatures électroniques au lieu des signatures originales;
+- c) l’information demandée à la case 11 concernant la forme et le numéro du document d’exportation est indiquée uniquement lorsqu’elle est requise par les réglementations de l’État membre exportateur;
+- d) le certificat est pourvu d’un numéro de série ou d’un code permettant de l’identifier, et
+- e) il est émis dans l’une des langues officielles des États membres ou en anglais.
+
+Appendice A
+
+Règles d’origine applicables de substitution[^t-4]
+
+[^t-4]: L’appendice A de l’annexe A de la Convention, disponible en anglais, peut être consultée sur le site Internet de l’AELE, à l’adresse suivante: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols. Une traduction française des règles d’origine de substitution est publiée à la [FF 2021 346](https://fedlex.data.admin.ch/eli/fga/2021/346).
 
 Annexe B
 
@@ -743,9 +800,9 @@ Annexe B
 Aux fins de la présente annexe, on entend par:
 
 - a) «marchandises», toute marchandise relevant des chap. 1 à 97 du Système harmonisé[^annexB-lvlu1-1-1], indépendamment du champ d’application de la Convention instituant l’Association européenne de libre-échange, dénommée ci-après «la Convention AELE»;
-- b) «législation douanière», toute disposition légale ou réglementaire adoptée par les Etats de l’AELE individuellement, dénommés ci-après «Etats membres», régissant l’importation, l’exportation, le transit des marchandises et leur placement sous tout régime douanier, y compris les mesures d’interdiction, de restriction et de contrôle;
-- c) «autorité requérante», une autorité administrative compétente qui a été désignée à cette fin par un Etat membre et qui formule une demande d’assistance en matière douanière;
-- d) «autorité requise», une autorité administrative compétente qui a été désignée à cette fin par un Etat membre et qui reçoit une demande d’assistance en matière douanière;
+- b) «législation douanière», toute disposition légale ou réglementaire adoptée par les États de l’AELE individuellement, dénommés ci-après «États membres», régissant l’importation, l’exportation, le transit des marchandises et leur placement sous tout régime douanier, y compris les mesures d’interdiction, de restriction et de contrôle;
+- c) «autorité requérante», une autorité administrative compétente qui a été désignée à cette fin par un État membre et qui formule une demande d’assistance en matière douanière;
+- d) «autorité requise», une autorité administrative compétente qui a été désignée à cette fin par un État membre et qui reçoit une demande d’assistance en matière douanière;
 - e) «opérations contraires à la législation douanière», toute violation de la législation douanière ou toute tentative de violation de cette législation.
 
 [^annexB-lvlu1-1-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
@@ -754,21 +811,21 @@ Aux fins de la présente annexe, on entend par:
 
 **Portée**
 
-<sup>1.</sup> Les Etats membres se prêtent mutuellement assistance, dans les domaines relevant de leur compétence, selon les modalités et dans les conditions prévues par la présente annexe, pour garantir que la législation douanière est correctement appliquée, notamment en prévenant et en décelant les opérations contraires à cette législation et en menant des enquêtes à leur sujet.
+<sup>1.</sup> Les États membres se prêtent mutuellement assistance, dans les domaines relevant de leur compétence, selon les modalités et dans les conditions prévues par la présente annexe, pour garantir que la législation douanière est correctement appliquée, notamment en prévenant et en décelant les opérations contraires à cette législation et en menant des enquêtes à leur sujet.
 
-<sup>2.</sup> L’assistance en matière douanière prévue par la présente annexe s’applique à toute autorité administrative des Etats membres compétente pour l’application de la présente annexe. Elle ne préjuge pas des dispositions régissant l’assistance mutuelle en matière pénale. De même, elle ne s’applique pas aux renseignements recueillis en vertu de pouvoirs exercés à la demande des autorités judiciaires, sauf accord de ces autorités.
+<sup>2.</sup> L’assistance en matière douanière prévue par la présente annexe s’applique à toute autorité administrative des États membres compétente pour l’application de la présente annexe. Elle ne préjuge pas des dispositions régissant l’assistance mutuelle en matière pénale. De même, elle ne s’applique pas aux renseignements recueillis en vertu de pouvoirs exercés à la demande des autorités judiciaires, sauf accord de ces autorités.
 
 #### Art. 3
 
 **Assistance sur demande**
 
-<sup>1.</sup> A la demande de l’autorité requérante, l’autorité requise communique à celle-ci tout renseignement utile lui permettant de s’assurer que la législation douanière est correctement appliquée, notamment les renseignements concernant les opérations constatées ou projetées qui sont contraires ou sont susceptibles d’être contraires à cette législation.
+<sup>1.</sup> À la demande de l’autorité requérante, l’autorité requise communique à celle-ci tout renseignement utile lui permettant de s’assurer que la législation douanière est correctement appliquée, notamment les renseignements concernant les opérations constatées ou projetées qui sont contraires ou sont susceptibles d’être contraires à cette législation.
 
-<sup>2.</sup> A la demande de l’autorité requérante, l’autorité requise informe celle-ci sur le point de savoir si des marchandises exportées du territoire d’un des Etats membres ont été régulièrement importées sur son territoire, en précisant, le cas échéant, le régime douanier sous lequel les marchandises ont été placées.
+<sup>2.</sup> À la demande de l’autorité requérante, l’autorité requise informe celle-ci sur le point de savoir si des marchandises exportées du territoire d’un des États membres ont été régulièrement importées sur son territoire, en précisant, le cas échéant, le régime douanier sous lequel les marchandises ont été placées.
 
 <sup>3.</sup>
 
-A la demande de l’autorité requérante, l’autorité requise prend les mesures nécessaires, dans le cadre de sa législation, pour assurer qu’une surveillance est exercée sur:
+À la demande de l’autorité requérante, l’autorité requise prend les mesures nécessaires, dans le cadre de sa législation, pour assurer qu’une surveillance est exercée sur:
 
 - a) les personnes physiques ou morales dont il y a lieu raisonnablement de croire qu’elles commettent ou ont commis des opérations contraires à la législation douanière;
 - b) les lieux où des dépôts de marchandises sont constitués dans des conditions telles qu’elles laissent raisonnablement supposer qu’ils ont pour but d’alimenter des opérations contraires à la législation douanière;
@@ -779,9 +836,9 @@ A la demande de l’autorité requérante, l’autorité requise prend les mesur
 
 **Assistance spontanée**
 
-Les Etats membres se prêtent mutuellement assistance, de leur propre initiative, conformément à leurs législations, règles et autres instruments juridiques, si elles considèrent que cela est nécessaire à l’application correcte de la législation douanière, en particulier lorsqu’elles obtiennent des renseignements se rapportant:
+Les États membres se prêtent mutuellement assistance, de leur propre initiative, conformément à leurs législations, règles et autres instruments juridiques, si elles considèrent que cela est nécessaire à l’application correcte de la législation douanière, en particulier lorsqu’elles obtiennent des renseignements se rapportant:
 
-- – à des opérations qui sont contraires ou qui leur paraissent être contraires à cette législation et qui peuvent intéresser d’autres Etats membres;
+- – à des opérations qui sont contraires ou qui leur paraissent être contraires à cette législation et qui peuvent intéresser d’autres États membres;
 - – aux nouveaux moyens ou méthodes utilisés pour effectuer ces opérations;
 - – aux marchandises dont on sait qu’elles font l’objet d’opérations gravement contraires à la législation douanière;
 - – aux personnes physiques ou morales dont il y a lieu raisonnablement de croire qu’elles commettent ou ont commis des opérations gravement contraires à la législation douanière;
@@ -793,7 +850,7 @@ Les Etats membres se prêtent mutuellement assistance, de leur propre initiative
 
 entrant dans le domaine d’application de la présente annexe, à un destinataire résidant ou établi sur son territoire. Dans ce cas l’art. 6 par. 3 est applicable à la demande de communication ou de notification.
 
-A la demande de l’autorité requérante, l’autorité requise prend, conformément à sa législation, toutes les mesures nécessaires pour:
+À la demande de l’autorité requérante, l’autorité requise prend, conformément à sa législation, toutes les mesures nécessaires pour:
 
 - – communiquer tout document,
 - – notifier toute décision, ainsi que tout autre acte pertinent qui fait partie de la procédure en cause,
@@ -823,13 +880,13 @@ Les demandes présentées conformément au par. 1 comportent les renseignements 
 
 **Exécution des demandes**
 
-<sup>1.</sup> Pour répondre à une demande d’assistance, l’autorité requise procède, dans les limites de sa compétence et de ses ressources, comme si elle agissait pour son propre compte ou à la demande d’autres autorités du même Etat membre, en fournissant les renseignements dont elle dispose déjà et en procédant ou faisant procéder aux enquêtes appropriées. Cette disposition s’applique également au service administratif auquel la demande a été adressée par l’autorité requise lorsque celle-ci ne peut pas agir seule.
+<sup>1.</sup> Pour répondre à une demande d’assistance, l’autorité requise procède, dans les limites de sa compétence et de ses ressources, comme si elle agissait pour son propre compte ou à la demande d’autres autorités du même État membre, en fournissant les renseignements dont elle dispose déjà et en procédant ou faisant procéder aux enquêtes appropriées. Cette disposition s’applique également au service administratif auquel la demande a été adressée par l’autorité requise lorsque celle-ci ne peut pas agir seule.
 
-<sup>2.</sup> Les demandes d’assistance sont satisfaites conformément à la législation, aux règles et autres instruments juridiques de l’Etat membre requis.
+<sup>2.</sup> Les demandes d’assistance sont satisfaites conformément à la législation, aux règles et autres instruments juridiques de l’État membre requis.
 
-<sup>3.</sup> Les fonctionnaires dûment autorisés d’un Etat membre peuvent, avec l’accord de l’Etat membre en cause et dans les conditions prévues par celui-ci, recueillir, dans les bureaux de l’autorité requise ou d’une autre autorité dont celle-ci est responsable, des renseignements relatifs aux opérations contraires ou susceptibles d’être contraires à la législation douanière, dont l’autorité requérante a besoin dans le cadre d’une enquête, aux fins de la présente annexe.
+<sup>3.</sup> Les fonctionnaires dûment autorisés d’un État membre peuvent, avec l’accord de l’État membre en cause et dans les conditions prévues par celui-ci, recueillir, dans les bureaux de l’autorité requise ou d’une autre autorité dont celle-ci est responsable, des renseignements relatifs aux opérations contraires ou susceptibles d’être contraires à la législation douanière, dont l’autorité requérante a besoin dans le cadre d’une enquête, aux fins de la présente annexe.
 
-<sup>4.</sup> Les fonctionnaires d’un Etat membre peuvent, avec l’accord de l’Etat membre en cause et dans les conditions prévues par celui-ci, être présents aux enquêtes effectuées sur le territoire de ce dernier.
+<sup>4.</sup> Les fonctionnaires d’un État membre peuvent, avec l’accord de l’État membre en cause et dans les conditions prévues par celui-ci, être présents aux enquêtes effectuées sur le territoire de ce dernier.
 
 #### Art. 8
 
@@ -845,10 +902,10 @@ Les demandes présentées conformément au par. 1 comportent les renseignements 
 
 <sup>1.</sup>
 
-Les Etats membres peuvent refuser de prêter leur assistance au titre de la présente annexe si une telle assistance:
+Les États membres peuvent refuser de prêter leur assistance au titre de la présente annexe si une telle assistance:
 
-- a) est susceptible de porter atteinte à leur souveraineté, à l’ordre public, à leur sécurité ou à d’autres intérêts essentiels; ou
-- b) fait intervenir une réglementation fiscale ou de change autre que la législation douanière; ou
+- a) est susceptible de porter atteinte à leur souveraineté, à l’ordre public, à leur sécurité ou à d’autres intérêts essentiels, ou
+- b) fait intervenir une réglementation fiscale ou de change autre que la législation douanière, ou
 - c) implique une violation d’un secret industriel, commercial ou professionnel.
 
 <sup>2.</sup> Si l’autorité requérante sollicite une assistance qu’elle ne pourrait elle-même fournir si elle lui était demandée, elle attire l’attention sur ce fait dans sa demande. Il appartient alors à l’autorité requise de décider de la manière dont elle doit répondre à cette demande.
@@ -859,49 +916,49 @@ Les Etats membres peuvent refuser de prêter leur assistance au titre de la pré
 
 **Confidentialité**
 
-<sup>1.</sup> Toute information communiquée, sous quelque forme que ce soit, en application de la présente annexe revêt un caractère confidentiel ou restreint. Elle est couverte par l’obligation du secret professionnel et bénéficie de la protection accordée à des informations similaires par les lois applicables en la matière sur le territoire de l’Etat membre qui l’a reçue.
+<sup>1.</sup> Toute information communiquée, sous quelque forme que ce soit, en application de la présente annexe revêt un caractère confidentiel ou restreint. Elle est couverte par l’obligation du secret professionnel et bénéficie de la protection accordée à des informations similaires par les lois applicables en la matière sur le territoire de l’État membre qui l’a reçue.
 
-<sup>2.</sup> Les données à caractère personnel, c’est-à-dire toutes les informations se rapportant à une personne physique identifiée ou identifiable, ne peuvent être échangées que si l’Etat membre destinataire s’engage à protéger ces données d’une façon au moins équivalente à celle applicable au cas particulier dans l’Etat membre susceptible de les fournir.
+<sup>2.</sup> Les données à caractère personnel, c’est-à-dire toutes les informations se rapportant à une personne physique identifiée ou identifiable, ne peuvent être échangées que si l’État membre destinataire s’engage à protéger ces données d’une façon au moins équivalente à celle applicable au cas particulier dans l’État membre susceptible de les fournir.
 
 #### Art. 11
 
 **Utilisation des informations**
 
-<sup>1.</sup> Les informations recueillies sont utilisées uniquement aux fins de la présente annexe. Lorsqu’un Etat membre demande l’utilisation de telles informations à d’autres fins, il doit en demander l’accord écrit préalable de l’autorité qui les a fournies. Cette utilisation est alors soumise aux restrictions imposées par cette autorité. De telles informations pourront être communiquées à d’autres autorités chargées du combat contre le trafic illicite de drogues.
+<sup>1.</sup> Les informations recueillies sont utilisées uniquement aux fins de la présente annexe. Lorsqu’un État membre demande l’utilisation de telles informations à d’autres fins, il doit en demander l’accord écrit préalable de l’autorité qui les a fournies. Cette utilisation est alors soumise aux restrictions imposées par cette autorité. De telles informations pourront être communiquées à d’autres autorités chargées du combat contre le trafic illicite de drogues.
 
 <sup>2.</sup> Le par. 1 ne fait pas obstacle à l’utilisation des informations dans le cadre d’actions judiciaires ou administratives engagées pour non-respect de la législation douanière. L’autorité compétente qui a fourni ces informations est avisée sans délai d’une telle utilisation.
 
-<sup>3.</sup> Les Etats membres peuvent faire état, à titre de preuve, dans leurs procès-verbaux, rapports et témoignages ainsi qu’au cours des procédures et poursuites devant les tribunaux, des renseignements recueillis et des documents consultés conformément aux dispositions de la présente annexe.
+<sup>3.</sup> Les États membres peuvent faire état, à titre de preuve, dans leurs procès-verbaux, rapports et témoignages ainsi qu’au cours des procédures et poursuites devant les tribunaux, des renseignements recueillis et des documents consultés conformément aux dispositions de la présente annexe.
 
 #### Art. 12
 
 **Experts et témoins**
 
-Un agent d’une autorité requise peut être autorisé à comparaître, dans les limites fixées par l’autorisation qui lui a été accordée, comme expert ou témoin dans le cadre d’actions judiciaires ou administratives engagées dans les domaines relevant de la présente annexe, dans la juridiction d’un autre Etat membre, et à produire les objets, documents ou copies certifiées conformes de ceux-ci qui peuvent être nécessaires à la procédure. La demande de comparution doit indiquer avec précision dans quelle affaire, à quel titre et en quelle qualité l’agent sera interrogé.
+Un agent d’une autorité requise peut être autorisé à comparaître, dans les limites fixées par l’autorisation qui lui a été accordée, comme expert ou témoin dans le cadre d’actions judiciaires ou administratives engagées dans les domaines relevant de la présente annexe, dans la juridiction d’un autre État membre, et à produire les objets, documents ou copies certifiées conformes de ceux-ci qui peuvent être nécessaires à la procédure. La demande de comparution doit indiquer avec précision dans quelle affaire, à quel titre et en quelle qualité l’agent sera interrogé.
 
 #### Art. 13
 
 **Frais d’assistance**
 
-Les Etats membres renoncent de part et d’autre à toute réclamation portant sur le remboursement des frais résultant de l’application de la présente annexe, sauf en ce qui concerne, le cas échéant, les indemnités versées aux experts, témoins, interprètes et traducteurs qui ne dépendent pas des services publics.
+Les États membres renoncent de part et d’autre à toute réclamation portant sur le remboursement des frais résultant de l’application de la présente annexe, sauf en ce qui concerne, le cas échéant, les indemnités versées aux experts, témoins, interprètes et traducteurs qui ne dépendent pas des services publics.
 
 #### Art. 14
 
 **Application**
 
-<sup>1.</sup> L’application de la présente annexe est confiée aux autorités douanières des Etats membres. Ils décident de toutes les mesures et dispositions pratiques nécessaires pour son application, en tenant compte des règles en vigueur dans le domaine de la protection des données.
+<sup>1.</sup> L’application de la présente annexe est confiée aux autorités douanières des États membres. Ils décident de toutes les mesures et dispositions pratiques nécessaires pour son application, en tenant compte des règles en vigueur dans le domaine de la protection des données.
 
-<sup>2.</sup> Les Etats membres se consultent et s’informent mutuellement par l’intermédiaire du Secrétariat de l’AELE des modalités d’application qui sont adoptées conformément aux dispositions de la présente annexe. Ils échangent notamment la liste des autorités compétentes habilitées à intervenir en vertu de la présente annexe.
+<sup>2.</sup> Les États membres se consultent et s’informent mutuellement par l’intermédiaire du Secrétariat de l’AELE des modalités d’application qui sont adoptées conformément aux dispositions de la présente annexe. Ils échangent notamment la liste des autorités compétentes habilitées à intervenir en vertu de la présente annexe.
 
 #### Art. 15
 
 **Complémentarité**
 
-Cette annexe est destinée à compléter et non à faire obstacle à l’application des accords relatifs à l’assistance administrative mutuelle qui ont été conclus ou pourraient être conclus entre des Etats membres et des pays tiers ainsi qu’entre des Etats membres des Communautés européennes et des Etats membres de l’AELE et/ou des pays tiers. Elle n’exclura pas non plus une assistance mutuelle plus étendue accordée conformément à de tels accords.
+Cette annexe est destinée à compléter et non à faire obstacle à l’application des accords relatifs à l’assistance administrative mutuelle qui ont été conclus ou pourraient être conclus entre des États membres et des pays tiers ainsi qu’entre des États membres des Communautés européennes et des États membres de l’AELE et/ou des pays tiers. Elle n’exclura pas non plus une assistance mutuelle plus étendue accordée conformément à de tels accords.
 
-Annexes C et D*[^t-4]*
+Annexes C et D*[^t-5]*
 
-[^t-4]: Abrogées par le ch. I de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013, avec effet pour la Suisse au 1<sup>er</sup> juil. 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)).
+[^t-5]: Abrogées par le ch. I de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013, avec effet pour la Suisse au 1<sup>er</sup> juil. 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)).
 
 Annexe E
 
@@ -919,9 +976,9 @@ La présente annexe concerne les semences des espèces agricoles couvertes par l
 
 **Reconnaissance de la conformité des législations**
 
-<sup>1.</sup> Les Etats membres reconnaissent que les exigences posées par les législations figurant à l’appendice 1 conduisent aux mêmes résultats.
+<sup>1.</sup> Les États membres reconnaissent que les exigences posées par les législations figurant à l’appendice 1 conduisent aux mêmes résultats.
 
-<sup>2.</sup> Les semences des espèces définies dans les législations visées au par. 1 peuvent être échangées entre les Etats membres et mises dans le commerce librement sur le territoire des Etats membres, sans préjudice des art. 6 et 7, avec, comme unique document certifiant de la conformité à la législation respective des Etats membres, l’étiquette ou tout autre document exigé pour la mise dans le commerce par ces législations.
+<sup>2.</sup> Les semences des espèces définies dans les législations visées au par. 1 peuvent être échangées entre les États membres et mises dans le commerce librement sur le territoire des États membres, sans préjudice des art. 6 et 7, avec, comme unique document certifiant de la conformité à la législation respective des États membres, l’étiquette ou tout autre document exigé pour la mise dans le commerce par ces législations.
 
 <sup>3.</sup> Les organismes chargés de contrôler la conformité sont énumérés dans l’appendice 2.
 
@@ -929,19 +986,19 @@ La présente annexe concerne les semences des espèces agricoles couvertes par l
 
 **Reconnaissance réciproque des certificats**
 
-<sup>1.</sup> Chaque Etat membre reconnaît pour les semences des espèces visées dans les législations figurant dans l’appendice 1, section 2, les certificats définis au par. 2, qui ont été établis conformément à la législation de l’autre Etat membre par les organismes mentionnés dans l’appendice 2.
+<sup>1.</sup> Chaque État membre reconnaît pour les semences des espèces visées dans les législations figurant dans l’appendice 1, section 2, les certificats définis au par. 2, qui ont été établis conformément à la législation de l’autre État membre par les organismes mentionnés dans l’appendice 2.
 
-<sup>2.</sup> Par certificat au sens du par. 1, on entend les documents exigés par la législation respective des Etats membres, applicables à l’importation de semences et définis à l’appendice 1, section 2.
+<sup>2.</sup> Par certificat au sens du par. 1, on entend les documents exigés par la législation respective des États membres, applicables à l’importation de semences et définis à l’appendice 1, section 2.
 
 #### Art. 4
 
 **Rapprochement des législations**
 
-<sup>1.</sup> Les Etats membres s’efforcent de rapprocher leurs législations en matière de mise dans le commerce de semences pour les espèces visées par les législations définies dans l’appendice 1, section 1 et 2, et des espèces qui ne sont pas couvertes par les actes législatifs figurant dans les sections première et deuxième de l’appendice 1.
+<sup>1.</sup> Les États membres s’efforcent de rapprocher leurs législations en matière de mise dans le commerce de semences pour les espèces visées par les législations définies dans l’appendice 1, section 1 et 2, et des espèces qui ne sont pas couvertes par les actes législatifs figurant dans les sections première et deuxième de l’appendice 1.
 
-<sup>2.</sup> Lors de l’adoption par l’un des Etats membres d’une nouvelle disposition législative, les Etats membres s’engagent à évaluer la possibilité de soumettre ce nouveau secteur à la présente annexe.
+<sup>2.</sup> Lors de l’adoption par l’un des États membres d’une nouvelle disposition législative, les États membres s’engagent à évaluer la possibilité de soumettre ce nouveau secteur à la présente annexe.
 
-<sup>3.</sup> Lors de la modification d’une disposition législative relative à un secteur soumis aux dispositions de la présente annexe, les Etats membres s’engagent à en évaluer les conséquences.
+<sup>3.</sup> Lors de la modification d’une disposition législative relative à un secteur soumis aux dispositions de la présente annexe, les États membres s’engagent à en évaluer les conséquences.
 
 #### Art. 5
 
@@ -949,7 +1006,7 @@ La présente annexe concerne les semences des espèces agricoles couvertes par l
 
 <sup>1.</sup> Le Conseil établit un comité des semences (ci-après:comité) chargé de traiter toute question en relation avec la présente annexe.
 
-<sup>2.</sup> Le comité examine périodiquement l’évolution des dispositions législatives et réglementaires internes des Etats membres dans les domaines couverts par la présente annexe.
+<sup>2.</sup> Le comité examine périodiquement l’évolution des dispositions législatives et réglementaires internes des États membres dans les domaines couverts par la présente annexe.
 
 <sup>3.</sup> Il formule notamment des propositions qu’il soumet au Conseil en vue d’adapter et de mettre à jour les appendices de la présente annexe.
 
@@ -957,44 +1014,44 @@ La présente annexe concerne les semences des espèces agricoles couvertes par l
 
 **Variétés**
 
-<sup>1.</sup> Les Etats membres permettent la commercialisation sur leur territoire de semences des variétés figurant dans le catalogue commun de la Communauté européenne dans la mesure où elles sont couvertes par les actes législatifs énumérés à l’appendice 1, première section.
+<sup>1.</sup> Les États membres permettent la commercialisation sur leur territoire de semences des variétés figurant dans le catalogue commun de la Communauté européenne dans la mesure où elles sont couvertes par les actes législatifs énumérés à l’appendice 1, première section.
 
 <sup>2.</sup> Le par. 1 ne s’applique pas aux variétés modifiées génétiquement.
 
-<sup>3.</sup> Les Etats membres s’informent mutuellement sur les demandes ou les retraits de demandes d’admission, sur les inscriptions de nouvelles variétés dans un catalogue national ainsi que sur toute modification de celui-ci. Elles se communiquent mutuellement et sur demande une brève description des caractères les plus importants concernant l’utilisation de chaque nouvelle variété et les caractères qui permettent de distinguer une variété des autres variétés connues.
+<sup>3.</sup> Les États membres s’informent mutuellement sur les demandes ou les retraits de demandes d’admission, sur les inscriptions de nouvelles variétés dans un catalogue national ainsi que sur toute modification de celui-ci. Elles se communiquent mutuellement et sur demande une brève description des caractères les plus importants concernant l’utilisation de chaque nouvelle variété et les caractères qui permettent de distinguer une variété des autres variétés connues.
 
-Elles tiennent à la disposition des autres Etats membres les dossiers dans lesquels figurent pour chaque variété admise une description de la variété et un résumé clair de tous les faits sur lesquels l’admission est fondée. Dans le cas de variétés génétiquement modifiées, elles se communiquent mutuellement les résultats de l’évaluation des risques liés à leur mise dans l’environnement.
+Elles tiennent à la disposition des autres États membres les dossiers dans lesquels figurent pour chaque variété admise une description de la variété et un résumé clair de tous les faits sur lesquels l’admission est fondée. Dans le cas de variétés génétiquement modifiées, elles se communiquent mutuellement les résultats de l’évaluation des risques liés à leur mise dans l’environnement.
 
-<sup>4.</sup> Des consultations techniques entre les Etats membres peuvent se tenir en vue d’évaluer les éléments sur lesquels l’admission d’une variété dans l’un des Etats membres est fondée. Le cas échéant, le comité est tenu informé des résultats de ces consultations.
+<sup>4.</sup> Des consultations techniques entre les États membres peuvent se tenir en vue d’évaluer les éléments sur lesquels l’admission d’une variété dans l’un des États membres est fondée. Le cas échéant, le comité est tenu informé des résultats de ces consultations.
 
-<sup>5.</sup> En vue de faciliter les échanges d’informations visés au par. 3, les Etats membres utiliseront les systèmes informatiques d’échanges d’informations existants ou en développement.
+<sup>5.</sup> En vue de faciliter les échanges d’informations visés au par. 3, les États membres utiliseront les systèmes informatiques d’échanges d’informations existants ou en développement.
 
 #### Art. 7
 
 **Dérogations**
 
-<sup>1.</sup> Les Etats membres s’informent mutuellement de toutes les dérogations relatives à la mise dans le commerce des semences qu’elles ont l’intention de mettre en œuvre sur leur territoire ou un Etat membre de leur territoire. Dans le cas des dérogations de brève durée ou nécessitant une entrée en vigueur immédiate, une information a posteriori suffit.
+<sup>1.</sup> Les États membres s’informent mutuellement de toutes les dérogations relatives à la mise dans le commerce des semences qu’elles ont l’intention de mettre en œuvre sur leur territoire ou un État membre de leur territoire. Dans le cas des dérogations de brève durée ou nécessitant une entrée en vigueur immédiate, une information a posteriori suffit.
 
-<sup>2.</sup> En dérogation aux dispositions de l’art. 6, par. 1, un Etat membre peut décider d’interdire la mise dans le commerce sur son territoire de semences de variétés admises dans le catalogue commun de la Communauté européenne.
+<sup>2.</sup> En dérogation aux dispositions de l’art. 6, par. 1, un État membre peut décider d’interdire la mise dans le commerce sur son territoire de semences de variétés admises dans le catalogue commun de la Communauté européenne.
 
 <sup>3.</sup> Les dispositions du par. 2 sont applicables dans les cas prévus par les actes législatifs figurant à l’appendice 1, section 1.
 
 <sup>4.</sup>
 
-Chacune des Etats membres peut recourir aux dispositions du par. 2:
+Chacune des États membres peut recourir aux dispositions du par. 2:
 
 - a) dans un délai de trois ans après la mise en vigueur de la présente annexe pour les variétés figurant dans le catalogue commun de la Communauté européenne avant la mise en vigueur de la présente annexe;
 - b) dans un délai de trois ans après la réception des informations visées à l’art. 6, par. 3, pour les variétés inscrites dans le catalogue commun de la Communauté européenne après la mise en vigueur de la présente annexe.
 
 <sup>5.</sup> Les dispositions du par. 4 s’appliquent par analogie aux variétés des espèces couvertes par les actes législatifs qui, en vertu des dispositions de l’art. 4, pourraient figurer dans l’appendice 1, section 1, après l’entrée en vigueur de la présente annexe.
 
-<sup>6.</sup> Des consultations techniques entre les Etats membres peuvent se tenir en vue d’évaluer la portée pour la présente annexe des dérogations visées aux par. 1 à 3.
+<sup>6.</sup> Des consultations techniques entre les États membres peuvent se tenir en vue d’évaluer la portée pour la présente annexe des dérogations visées aux par. 1 à 3.
 
 #### Art. 8
 
 **Pays tiers**
 
-<sup>1.</sup> Sans préjudice de l’art. 10, les dispositions de la présente annexe s’appliquent également aux semences mises sur le marché dans un Etat membre et provenant d’un pays autre qu’un Etat membre et reconnu par tous les Etats membres.
+<sup>1.</sup> Sans préjudice de l’art. 10, les dispositions de la présente annexe s’appliquent également aux semences mises sur le marché dans un État membre et provenant d’un pays autre qu’un État membre et reconnu par tous les États membres.
 
 <sup>2.</sup> La liste des pays tiers visés au par. 1, les espèces concernées et la portée de cette reconnaissance figurent dans l’appendice 3.
 
@@ -1002,7 +1059,7 @@ Chacune des Etats membres peut recourir aux dispositions du par. 2:
 
 **Essais comparatifs**
 
-<sup>1.</sup> Des essais comparatifs peuvent être effectués afin de contrôler a posteriori des échantillons de semences prélevés des lots commercialisés dans les Etats membres.
+<sup>1.</sup> Des essais comparatifs peuvent être effectués afin de contrôler a posteriori des échantillons de semences prélevés des lots commercialisés dans les États membres.
 
 <sup>2.</sup> L’organisation des essais comparatifs dans les pays membres est soumise à l’approbation du comité.
 
@@ -1010,17 +1067,17 @@ Chacune des Etats membres peut recourir aux dispositions du par. 2:
 
 **Accords avec des pays tiers**
 
-Les Etats membres conviennent que les accords de reconnaissance mutuelle conclus par chaque Etat membre avec tout pays tiers ne peuvent, en aucun cas, créer des obligations pour l’autre Etat membre en termes d’acceptation des rapports, certificats, autorisations et marques délivrés par des organismes d’évaluation de la conformité de ce pays tiers, sauf accord formel entre les Etats membres.
+Les États membres conviennent que les accords de reconnaissance mutuelle conclus par chaque État membre avec tout pays tiers ne peuvent, en aucun cas, créer des obligations pour l’autre État membre en termes d’acceptation des rapports, certificats, autorisations et marques délivrés par des organismes d’évaluation de la conformité de ce pays tiers, sauf accord formel entre les États membres.
 
-Annexe E – Appendice 1*[^t-5]*
+Annexe E – Appendice 1*[^t-6]*
 
 ## Législation
 
-[^t-5]: Nouvelle teneur selon la D n<sup>o</sup> 3/2012 du Conseil du 2 juil. 2012, en vigueur pour la Suisse depuis le 2 juil. 2012 ([RO 2012 4873](https://fedlex.data.admin.ch/eli/oc/2012/579)).
+[^t-6]: Nouvelle teneur selon la D n<sup>o</sup> 3/2012 du Conseil du 2 juil. 2012, en vigueur pour la Suisse depuis le 2 juil. 2012 ([RO 2012 4873](https://fedlex.data.admin.ch/eli/oc/2012/579)).
 
 ### Section 1 (reconnaissance de la conformité des législations)
 
-### A. Actes législatifs applicables aux Etats de l’AELE parties à l’EEE:
+### A. Actes législatifs applicables aux États de l’AELE parties à l’EEE:
 
 Les dispositions nationales adoptées en conformité des textes législatifs ci-après, comme incorporés dans l’Accord EEE:
 
@@ -1099,7 +1156,7 @@ Dispositions de la Suisse:**[^annexE-lvlu1-sec1-lvlB-1]**
 
 ### Section 2 (reconnaissance réciproque des certificats)
 
-### A. Actes législatifs applicables aux Etats de l’AELE parties à l’EEE:
+### A. Actes législatifs applicables aux États de l’AELE parties à l’EEE:
 
 Les dispositions nationales adoptées en conformité des textes législatifs ci-après, comme incorporés dans l’Accord EEE:
 
@@ -1144,11 +1201,11 @@ Dispositions de la Suisse:
 
 Les étiquettes officielles UE ou OCDE relatives aux emballages délivrés par les organismes définis à l’appendice 2 de la présente annexe ainsi que les bulletins oranges ou verts de l’ISTA ou un certificat d’analyse des semences analogue relatifs à chaque lot de semences.
 
-Annexe E – Appendice 2*[^t-6]*
+Annexe E – Appendice 2*[^t-7]*
 
 ## Autorités nationales responsables de l’application de la législation
 
-[^t-6]: Nouvelle teneur selon la D n<sup>o</sup> 3/2012 du Conseil du 2 juil. 2012, en vigueur pour la Suisse depuis le 2 juil. 2012 ([RO 2012 4873](https://fedlex.data.admin.ch/eli/oc/2012/579)).
+[^t-7]: Nouvelle teneur selon la D n<sup>o</sup> 3/2012 du Conseil du 2 juil. 2012, en vigueur pour la Suisse depuis le 2 juil. 2012 ([RO 2012 4873](https://fedlex.data.admin.ch/eli/oc/2012/579)).
 
 <table>
 <tr><td>Islande</td><td>Ministry of Fisheries and Agriculture Skulagata 4 IS-150 Reykjavík Tél: +354 545 8300 Fax: +354 552 1160</td></tr>
@@ -1157,11 +1214,11 @@ Annexe E – Appendice 2*[^t-6]*
 <tr><td>Suisse</td><td>Office fédéral de l’agriculture Service des semences et plants CH-3003 Berne Tél: +41 31 322 25 50 Fax: +41 31 322 26 34</td></tr>
 </table>
 
-Annexe E – Appendice 3*[^t-7]*
+Annexe E – Appendice 3*[^t-8]*
 
 ## Liste des pays tiers
 
-[^t-7]: Nouvelle teneur selon la D n<sup>o</sup> 3/2012 du Conseil du 2 juil. 2012, en vigueur pour la Suisse depuis le 2 juil. 2012 ([RO 2012 4873](https://fedlex.data.admin.ch/eli/oc/2012/579)).
+[^t-8]: Nouvelle teneur selon la D n<sup>o</sup> 3/2012 du Conseil du 2 juil. 2012, en vigueur pour la Suisse depuis le 2 juil. 2012 ([RO 2012 4873](https://fedlex.data.admin.ch/eli/oc/2012/579)).
 
 La reconnaissance se fonde en ce qui concerne l’inspection sur pied des cultures productrices des semences et les semences produites, sur la décision du Conseil 95/514/CE (JO L 296 du 9.12.1995, p. 34), modifiée en dernier lieu par la décision 98/162/CE (JO L 53 du 24.2.1998, p. 21), et en ce qui concerne le contrôle de la sélection conservatrice des variétés, sur la décision 97/788/CE du Conseil (JO L 322 du 25.11.1998, p. 39).
 
@@ -1239,7 +1296,7 @@ Turquie
 
 Royaume-Uni
 
-Etats-Unis d’Amérique
+États-Unis d’Amérique
 
 Uruguay
 
@@ -1253,7 +1310,7 @@ Annexe F
 
 **Objectifs**
 
-Sans préjudice de leurs obligations par rapport aux produits ne provenant pas des Etats membres, et sans préjudice des autres dispositions législatives en vigueur, les Etats membres s’engagent sur la base de la non-discrimination et de la réciprocité, à favoriser le commerce des produits agricoles et denrées alimentaires obtenus selon le mode de production biologique en provenance d’Etats membres et conformes aux actes juridiques figurant à l’appendice 1.
+Sans préjudice de leurs obligations par rapport aux produits ne provenant pas des États membres, et sans préjudice des autres dispositions législatives en vigueur, les États membres s’engagent sur la base de la non-discrimination et de la réciprocité, à favoriser le commerce des produits agricoles et denrées alimentaires obtenus selon le mode de production biologique en provenance d’États membres et conformes aux actes juridiques figurant à l’appendice 1.
 
 #### Art. 2
 
@@ -1261,53 +1318,53 @@ Sans préjudice de leurs obligations par rapport aux produits ne provenant pas d
 
 <sup>1.</sup> La présente annexe s’applique aux produits végétaux et denrées alimentaires obtenus selon le mode de production biologique et conformes aux actes juridiques figurant à l’appendice 1
 
-<sup>2.</sup> Les Etats membres s’engagent à étendre le champ d’application de la présente annexe aux animaux, produits animaux et denrées alimentaires contenant des ingrédients d’origine animale dès qu’ils auront adopté leurs actes juridiques respectifs en la matière.
+<sup>2.</sup> Les États membres s’engagent à étendre le champ d’application de la présente annexe aux animaux, produits animaux et denrées alimentaires contenant des ingrédients d’origine animale dès qu’ils auront adopté leurs actes juridiques respectifs en la matière.
 
 #### Art. 3
 
 **Principe de l’équivalence**
 
-<sup>1.</sup> Les Etats membres reconnaissent que les actes juridiques respectifs figurant à l’appendice 1 de la présente annexe sont équivalents. Les Etats membres peuvent convenir d’exclure certains aspects ou certains produits du régime d’équivalence. Ils le précisent à l’appendice 1.
+<sup>1.</sup> Les États membres reconnaissent que les actes juridiques respectifs figurant à l’appendice 1 de la présente annexe sont équivalents. Les États membres peuvent convenir d’exclure certains aspects ou certains produits du régime d’équivalence. Ils le précisent à l’appendice 1.
 
-<sup>2.</sup> Les Etats membres s’efforcent de mettre tout en œuvre pour assurer que les actes juridiques couvrant spécifiquement les produits visés à l’art. 2 évoluent de manière équivalente.
+<sup>2.</sup> Les États membres s’efforcent de mettre tout en œuvre pour assurer que les actes juridiques couvrant spécifiquement les produits visés à l’art. 2 évoluent de manière équivalente.
 
 #### Art. 4
 
 **Libre circulation des produits biologiques**
 
-<sup>1.</sup> Les Etats membres prennent, selon leurs procédures internes prévues à cet égard, les mesures nécessaires permettant l’importation et la mise dans le commerce des produits visés à l’art. 2, satisfaisant aux actes juridiques d’un autre Etat membre figurant à l’appendice 1.
+<sup>1.</sup> Les États membres prennent, selon leurs procédures internes prévues à cet égard, les mesures nécessaires permettant l’importation et la mise dans le commerce des produits visés à l’art. 2, satisfaisant aux actes juridiques d’un autre État membre figurant à l’appendice 1.
 
-<sup>2.</sup> Cela comprend l’accès à leurs signes de conformité, logos officiels ou marques nationaux respectifs utilisés pour les produits biologiques en ce qui concerne tous les produits visés à l’art. 2 conformes aux actes juridiques de l’autre Etat membre figurant à l’appendice 1.
+<sup>2.</sup> Cela comprend l’accès à leurs signes de conformité, logos officiels ou marques nationaux respectifs utilisés pour les produits biologiques en ce qui concerne tous les produits visés à l’art. 2 conformes aux actes juridiques de l’autre État membre figurant à l’appendice 1.
 
 #### Art. 5
 
-**Etiquetage**
+**Étiquetage**
 
 <sup>1.</sup>
 
-Dans l’objectif de développer des régimes permettant d’éviter le réétiquetage des produits biologiques visés par la présente annexe, les Etats membres s’efforcent de mettre tout en oeuvre pour assurer dans leurs actes juridiques respectifs:
+Dans l’objectif de développer des régimes permettant d’éviter le réétiquetage des produits biologiques visés par la présente annexe, les États membres s’efforcent de mettre tout en oeuvre pour assurer dans leurs actes juridiques respectifs:
 
 - a) la protection des mêmes termes dans leurs différentes langues officielles pour désigner les produits biologiques;
 - b) l’utilisation des mêmes termes obligatoires pour les déclarations sur l’étiquette pour les produits répondant à des conditions équivalentes.
 
-<sup>2.</sup> Les Etats membres peuvent prescrire que les produits importés en provenance d’un autre Partie respectent les exigences relatives à l’étiquetage, telles que prévues dans leurs actes juridiques respectifs figurant à l’appendice 1.
+<sup>2.</sup> Les États membres peuvent prescrire que les produits importés en provenance d’un autre Partie respectent les exigences relatives à l’étiquetage, telles que prévues dans leurs actes juridiques respectifs figurant à l’appendice 1.
 
 #### Art. 6
 
-**Etats tiers**
+**États tiers**
 
-<sup>1.</sup> Les Etats membres s’efforcent de mettre tout en oeuvre pour assurer l’équivalence des régimes d’importation applicables aux produits obtenus selon le mode de production biologique et provenant d’Etats tiers.
+<sup>1.</sup> Les États membres s’efforcent de mettre tout en oeuvre pour assurer l’équivalence des régimes d’importation applicables aux produits obtenus selon le mode de production biologique et provenant d’États tiers.
 
-<sup>2.</sup> De manière à assurer une pratique équivalente en matière de reconnaissance à l’égard des pays tiers, les Etats membres se consultent préalablement à la reconnaissance et à l’inclusion d’un Etat tiers dans la liste établie à cet effet dans leurs actes juridiques respectifs.
+<sup>2.</sup> De manière à assurer une pratique équivalente en matière de reconnaissance à l’égard des pays tiers, les États membres se consultent préalablement à la reconnaissance et à l’inclusion d’un État tiers dans la liste établie à cet effet dans leurs actes juridiques respectifs.
 
 #### Art. 7
 
-**Echange d’informations**
+**Échange d’informations**
 
-Les Etats membres se communiquent notamment les informations suivantes:
+Les États membres se communiquent notamment les informations suivantes:
 
 - a) la liste des autorités compétentes, des organismes d’inspection et leur numéro de code ainsi que les rapports concernant la supervision exercée par les autorités responsables de cette tâche;
-- b) la liste des décisions administratives autorisant l’importation de produits obtenus selon le mode de production biologique et provenant d’un Etat tiers;
+- b) la liste des décisions administratives autorisant l’importation de produits obtenus selon le mode de production biologique et provenant d’un État tiers;
 - c) les irrégularités ou les infractions constatées en ce qui concerne les actes juridiques figurant à l’appendice 1
 
 #### Art. 8
@@ -1318,16 +1375,16 @@ Les Etats membres se communiquent notamment les informations suivantes:
 
 <sup>2.</sup>
 
-Le comité examine périodiquement l’évolution des actes juridiques respectifs des Etats membres dans les domaines couverts par la présente annexe. Il est en particulier responsable:
+Le comité examine périodiquement l’évolution des actes juridiques respectifs des États membres dans les domaines couverts par la présente annexe. Il est en particulier responsable:
 
-- a) de vérifier l’équivalence des actes juridiques des Etats membres en vue de leur inclusion dans l’appendice 1;
-- b) de recommander au Conseil, si nécessaire, l’introduction dans l’appendice 2 de la présente annexe des règles nécessaires pour assurer la cohérence dans la mise en œuvre des actes juridiques visés par la présente annexe, sur les territoires respectifs des Etats membres;
+- a) de vérifier l’équivalence des actes juridiques des États membres en vue de leur inclusion dans l’appendice 1;
+- b) de recommander au Conseil, si nécessaire, l’introduction dans l’appendice 2 de la présente annexe des règles nécessaires pour assurer la cohérence dans la mise en œuvre des actes juridiques visés par la présente annexe, sur les territoires respectifs des États membres;
 - c) de recommander au Conseil l’extension du champ d’application de la présente annexe à d’autres produits que ceux visés à l’art. 2, par. 1.
 - d) de recommander au Conseil les modifications des appendices.
 
 Annexe F – Appendice 1
 
-## Dispositions réglementaires applicables dans les Etats de l’AELE parties à l’Accord EEE
+## Dispositions réglementaires applicables dans les États de l’AELE parties à l’Accord EEE
 
 Dispositions réglementaires nationales adoptées en application des actes de la CE suivants, tels qu’ils sont incorporés dans l’Accord EEE:
 
@@ -1363,7 +1420,7 @@ Annexe G
 
 (art. 12 de la Convention)
 
-En ce qui concerne les mesures sanitaires et phytosanitaires, les droits et obligations des Etats membres sont régis par l’Accord sur l’application des mesures sanitaires et phytosanitaires de l’OMC[^annexG-lvlu1-1].
+En ce qui concerne les mesures sanitaires et phytosanitaires, les droits et obligations des États membres sont régis par l’Accord sur l’application des mesures sanitaires et phytosanitaires de l’OMC[^annexG-lvlu1-1].
 
 [^annexG-lvlu1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1A.4
 
@@ -1404,7 +1461,7 @@ La présente annexe ne s’applique pas à des règles concernant les services d
 
 La présente annexe ne s’applique pas à des règles concernant les services financiers comme les services d’investissement, les opérations d’assurance et de réassurance, les services bancaires, les opérations ayant trait aux fonds de pensions, les services visant des opérations à terme ou en option.
 
-A l’exception de l’art. 2, par. 3, la présente annexe ne s’applique pas aux règles édictées par ou pour les marchés réglementés (services d’investissement) ou par ou pour d’autres marchés ou organes effectuant des opérations de compensation ou de règlement pour ces marchés.
+À l’exception de l’art. 2, par. 3, la présente annexe ne s’applique pas aux règles édictées par ou pour les marchés réglementés (services d’investissement) ou par ou pour d’autres marchés ou organes effectuant des opérations de compensation ou de règlement pour ces marchés.
 
 Aux fins de la présente définition:
 
@@ -1419,71 +1476,71 @@ Aux fins de la présente définition:
 - – norme européenne: norme qui est adoptée par un organisme européen de normalisation et qui est mise à la disposition du public,
 - – norme nationale: norme qui est adoptée par un organisme national de normalisation et qui est mise à la disposition du public.
 
-<sup>7.</sup> «Règle technique»: une spécification technique ou autre exigence ou une règle relative aux services, y compris les dispositions administratives qui s’y appliquent, dont l’observation est obligatoire de jure ou de facto, pour la commercialisation, la prestation de services, l’établissement d’un opérateur de services ou l’utilisation dans un Etat membre ou dans une partie importante de cet Etat membre, de même que, sous réserve de celles visées à l’art. 4, les dispositions législatives, réglementaires et administratives des Etats membres interdisant la fabrication, l’importation, la commercialisation ou l’utilisation d’un produit ou interdisant de fournir ou d’utiliser un service ou de s’établir comme prestataire de services.
+<sup>7.</sup> «Règle technique»: une spécification technique ou autre exigence ou une règle relative aux services, y compris les dispositions administratives qui s’y appliquent, dont l’observation est obligatoire de jure ou de facto, pour la commercialisation, la prestation de services, l’établissement d’un opérateur de services ou l’utilisation dans un État membre ou dans une partie importante de cet État membre, de même que, sous réserve de celles visées à l’art. 4, les dispositions législatives, réglementaires et administratives des États membres interdisant la fabrication, l’importation, la commercialisation ou l’utilisation d’un produit ou interdisant de fournir ou d’utiliser un service ou de s’établir comme prestataire de services.
 
-Sont concernées les règles techniques qui sont fixées par les autorités désignées par les Etats membres et qui figurent sur une liste à établir par le Conseil avant l’entrée en vigueur de la présente annexe.
+Sont concernées les règles techniques qui sont fixées par les autorités désignées par les États membres et qui figurent sur une liste à établir par le Conseil avant l’entrée en vigueur de la présente annexe.
 
 La modification de cette liste s’effectue selon cette même procédure.
 
 Constituent notamment des règles techniques de facto:
 
-- – les dispositions législatives, réglementaires ou administratives d’un Etat membre qui renvoient soit à des spécifications techniques ou à d’autres exigences ou à des règles relatives aux services, soit à des codes professionnels ou de bonne pratique qui se réfèrent eux-mêmes à des spécifications techniques ou à d’autres exigences ou à des règles relatives aux services, dont le respect confère une présomption de conformité aux prescriptions fixées par lesdites dispositions législatives, réglementaires ou administratives,
+- – les dispositions législatives, réglementaires ou administratives d’un État membre qui renvoient soit à des spécifications techniques ou à d’autres exigences ou à des règles relatives aux services, soit à des codes professionnels ou de bonne pratique qui se réfèrent eux-mêmes à des spécifications techniques ou à d’autres exigences ou à des règles relatives aux services, dont le respect confère une présomption de conformité aux prescriptions fixées par lesdites dispositions législatives, réglementaires ou administratives,
 - – les accords volontaires auxquels l’autorité publique est partie contractante et qui visent, dans l’intérêt général, le respect de spécifications techniques ou d’autres exigences, ou de règles relatives aux services à l’exclusion des cahiers de charges des marchés publics,
 - – les spécifications techniques ou d’autres exigences ou les règles relatives aux services liées à des mesures fiscales ou financières qui affectent la consommation de produits ou de services en encourageant le respect de ces spécifications techniques ou autres exigences ou règles relatives aux services; ne sont pas concernées les spécifications techniques ou autres exigences ou les règles relatives aux services liées aux régimes nationaux de sécurité sociale.
 
 <sup>8.</sup> «Projet de règle technique»: le texte d’une spécification technique, ou d’une autre exigence ou d’une règle relative aux services, y compris de dispositions administratives, qui est élaboré dans le but de l’établir ou de la faire finalement établir comme une règle technique et qui se trouve à un stade de préparation où il est encore possible d’y apporter des amendements substantiels.
 
-La présente annexe ne s’applique pas aux mesures que les Etats membres estiment nécessaires pour assurer la protection des personnes, et en particulier des travailleurs, lors de l’utilisation de produits, pour autant que ces mesures n’affectent pas les produits.
+La présente annexe ne s’applique pas aux mesures que les États membres estiment nécessaires pour assurer la protection des personnes, et en particulier des travailleurs, lors de l’utilisation de produits, pour autant que ces mesures n’affectent pas les produits.
 
 #### Art. 2
 
-<sup>1.</sup> Sous réserve de l’art. 4, les Etats membres communiquent immédiatement au Conseil tout projet de règle technique, sauf s’il s’agit d’une simple transposition intégrale d’une norme internationale ou européenne, auquel cas une simple information quant à la norme concernée suffit. Ils adressent également au Conseil une notification concernant les raisons pour lesquelles l’établissement d’une telle règle technique est nécessaire, à moins que ces raisons ne ressortent déjà du projet,
+<sup>1.</sup> Sous réserve de l’art. 4, les États membres communiquent immédiatement au Conseil tout projet de règle technique, sauf s’il s’agit d’une simple transposition intégrale d’une norme internationale ou européenne, auquel cas une simple information quant à la norme concernée suffit. Ils adressent également au Conseil une notification concernant les raisons pour lesquelles l’établissement d’une telle règle technique est nécessaire, à moins que ces raisons ne ressortent déjà du projet,
 
 - a) La notification doit comprendre le texte intégral du projet de règle technique rédigé dans la langue originale ainsi qu’une traduction complète ou un résumé en anglais;
-- b) Le cas échéant, et à moins qu’il n’ait été transmis en liaison avec une communication antérieure, les Etats membres communiquent en même temps le texte des dispositions législatives et réglementaires de base principalement et directement concernées, si la connaissance de ce texte est nécessaire pour l’appréciation de la portée du projet de règle technique;
-- c) Les Etats membres procèdent à une nouvelle communication dans les conditions énoncées ci-dessus s’il apportent au projet de règle technique, d’une manière significative, des changements qui auront pour effet de modifier le champ d’application, d’en raccourcir le calendrier d’application initialement prévu, d’ajouter des spécifications ou exigences ou de rendre celles-ci plus strictes;
-- d) Lorsque le projet de règle technique vise en particulier la limitation de la commercialisation ou de l’utilisation d’une substance, d’une préparation ou d’un produit chimique, pour des motifs de santé publique ou de protection des consommateurs ou de l’environnement, les Etats membres communiquent également soit un résumé, soit les références des données pertinentes relatives à la substance, à la préparation ou au produit visé et celles relatives aux produits de substitution connus et disponibles, dans la mesure où ces renseignements seront disponibles, ainsi que les effets attendus de la mesure au regard de la santé publique ou de la protection du consommateur et de l’environnement, avec une analyse des risques effectuée, dans des cas appropriés, selon les principes généraux de l’évaluation des risques des produits chimiques telles les substances nouvelles et existantes;
-- e) Le Conseil porte aussitôt le projet de règle technique et tous les documents qui lui ont été communiqués à la connaissance des autres Etats membres. Il peut aussi soumettre le projet pour avis au comité visé à l’art. 5 (ci-après le comité), et le cas échéant au comité compétent dans le domaine en question;
-- f) En ce qui concerne des spécifications techniques ou autres exigences ou règles relatives aux services visées à l’art. 1, point 7, troisième tiret, par. 2, les observations ou avis circonstanciés des Etats membres ne peuvent porter que sur l’aspect éventuellement entravant pour les échanges ou, pour ce qui est des règles relatives aux services, la libre circulation des services ou la liberté d’établissement des prestataires de services et non sur le volet fiscal ou financier de la mesure.
+- b) Le cas échéant, et à moins qu’il n’ait été transmis en liaison avec une communication antérieure, les États membres communiquent en même temps le texte des dispositions législatives et réglementaires de base principalement et directement concernées, si la connaissance de ce texte est nécessaire pour l’appréciation de la portée du projet de règle technique;
+- c) Les États membres procèdent à une nouvelle communication dans les conditions énoncées ci-dessus s’il apportent au projet de règle technique, d’une manière significative, des changements qui auront pour effet de modifier le champ d’application, d’en raccourcir le calendrier d’application initialement prévu, d’ajouter des spécifications ou exigences ou de rendre celles-ci plus strictes;
+- d) Lorsque le projet de règle technique vise en particulier la limitation de la commercialisation ou de l’utilisation d’une substance, d’une préparation ou d’un produit chimique, pour des motifs de santé publique ou de protection des consommateurs ou de l’environnement, les États membres communiquent également soit un résumé, soit les références des données pertinentes relatives à la substance, à la préparation ou au produit visé et celles relatives aux produits de substitution connus et disponibles, dans la mesure où ces renseignements seront disponibles, ainsi que les effets attendus de la mesure au regard de la santé publique ou de la protection du consommateur et de l’environnement, avec une analyse des risques effectuée, dans des cas appropriés, selon les principes généraux de l’évaluation des risques des produits chimiques telles les substances nouvelles et existantes;
+- e) Le Conseil porte aussitôt le projet de règle technique et tous les documents qui lui ont été communiqués à la connaissance des autres États membres. Il peut aussi soumettre le projet pour avis au comité visé à l’art. 5 (ci-après le comité), et le cas échéant au comité compétent dans le domaine en question;
+- f) En ce qui concerne des spécifications techniques ou autres exigences ou règles relatives aux services visées à l’art. 1, point 7, troisième tiret, par. 2, les observations ou avis circonstanciés des États membres ne peuvent porter que sur l’aspect éventuellement entravant pour les échanges ou, pour ce qui est des règles relatives aux services, la libre circulation des services ou la liberté d’établissement des prestataires de services et non sur le volet fiscal ou financier de la mesure.
 
-<sup>2.</sup> Les Etats membres peuvent adresser à l’Etat membre qui a fait part d’un projet de règle technique des observations dont cet Etat membre tiendra compte dans la mesure du possible lors de la mise au point ultérieure de la règle technique.
+<sup>2.</sup> Les États membres peuvent adresser à l’État membre qui a fait part d’un projet de règle technique des observations dont cet État membre tiendra compte dans la mesure du possible lors de la mise au point ultérieure de la règle technique.
 
-<sup>3.</sup> Les Etats membres communiquent sans délai au Conseil le texte définitif d’une règle technique.
+<sup>3.</sup> Les États membres communiquent sans délai au Conseil le texte définitif d’une règle technique.
 
-<sup>4.</sup> Les informations fournies au titre du présent article ne sont pas considérées comme confidentielles, sauf si l’Etat membre auteur de la notification demande expressément qu’elles le soient. Toute demande de ce type doit être motivée. Dans le cas d’une telle demande, le comité et les administrations nationales peuvent, en prenant les précautions nécessaires, consulter pour expertise des personnes physiques ou morales qui peuvent relever du secteur privé.
+<sup>4.</sup> Les informations fournies au titre du présent article ne sont pas considérées comme confidentielles, sauf si l’État membre auteur de la notification demande expressément qu’elles le soient. Toute demande de ce type doit être motivée. Dans le cas d’une telle demande, le comité et les administrations nationales peuvent, en prenant les précautions nécessaires, consulter pour expertise des personnes physiques ou morales qui peuvent relever du secteur privé.
 
 #### Art. 3
 
-<sup>1.</sup> Les Etats membres reportent l’adoption d’un projet de règle technique de trois mois à compter de la date de la réception par le Conseil de la communication visée à l’art. 2, ch. 1.
+<sup>1.</sup> Les États membres reportent l’adoption d’un projet de règle technique de trois mois à compter de la date de la réception par le Conseil de la communication visée à l’art. 2, ch. 1.
 
-<sup>2.</sup> à compter de la date de la réception par le Conseil de la communication visée à l’art. 2, ch. 1, si un autre Etat membre émet, dans les trois mois qui suivent cette date, un avis circonstancié selon lequel la mesure envisagée présente des aspects pouvant éventuellement créer des obstacles à la libre circulation des marchandises ou des services, ou à la liberté d’établissement des prestataires de service dans le cadre de l’Association.
+<sup>2.</sup> à compter de la date de la réception par le Conseil de la communication visée à l’art. 2, ch. 1, si un autre État membre émet, dans les trois mois qui suivent cette date, un avis circonstancié selon lequel la mesure envisagée présente des aspects pouvant éventuellement créer des obstacles à la libre circulation des marchandises ou des services, ou à la liberté d’établissement des prestataires de service dans le cadre de l’Association.
 
-Les Etats membres reportent:
+Les États membres reportent:
 
 - – de quatre mois l’adoption d’un projet de règle technique ayant la forme d’un accord volontaire au sens de l’art. 1, ch. 7, deuxième tiret;
 - – de quatre mois l’adoption de n’importe quel projet de règle relative aux services;
 - – de six mois l’adoption de tout autre projet de règle technique;
 
-<sup>3.</sup> Concernant les projets de règles relatives aux services, des avis circonstanciés d’Etats membres ne peuvent porter atteinte aux mesures de politique culturelle, notamment dans le domaine audiovisuel, qu’un Etat membre pourrait adopter, conformément à ses obligations internationales en tenant compte de ses spécificités nationales et régionales, ainsi que de son patrimoine culturel.
+<sup>3.</sup> Concernant les projets de règles relatives aux services, des avis circonstanciés d’États membres ne peuvent porter atteinte aux mesures de politique culturelle, notamment dans le domaine audiovisuel, qu’un État membre pourrait adopter, conformément à ses obligations internationales en tenant compte de ses spécificités nationales et régionales, ainsi que de son patrimoine culturel.
 
-<sup>4.</sup> L’Etat membre concerné fait rapport au Conseil sur la suite qu’il a l’intention de donner à de tels avis circonstanciés.
+<sup>4.</sup> L’État membre concerné fait rapport au Conseil sur la suite qu’il a l’intention de donner à de tels avis circonstanciés.
 
-<sup>5.</sup> Concernant les règles relatives aux services, l’Etat membre concerné doit indiquer les raisons pour lesquelles de tels avis circonstanciés ne peuvent pas être pris en compte.
+<sup>5.</sup> Concernant les règles relatives aux services, l’État membre concerné doit indiquer les raisons pour lesquelles de tels avis circonstanciés ne peuvent pas être pris en compte.
 
 <sup>6.</sup>
 
-Les ch. 1 et 2 ne sont pas applicables lorsqu’un Etat membre:
+Les ch. 1 et 2 ne sont pas applicables lorsqu’un État membre:
 
-- a) pour des raisons urgentes tenant à une situation grave et imprévisible qui a trait à la protection de la santé ou la sécurité des personnes et des animaux, à la préservation des végétaux et, pour les règles relatives aux services, à la sécurité, notamment la protection des mineurs, doit élaborer à très bref délai des règles techniques pour les arrêter et les mettre en vigueur aussitôt, sans qu’une consultation soit possible; ou
+- a) pour des raisons urgentes tenant à une situation grave et imprévisible qui a trait à la protection de la santé ou la sécurité des personnes et des animaux, à la préservation des végétaux et, pour les règles relatives aux services, à la sécurité, notamment la protection des mineurs, doit élaborer à très bref délai des règles techniques pour les arrêter et les mettre en vigueur aussitôt, sans qu’une consultation soit possible, ou
 - b) pour des raisons urgentes tenant à la protection de la sécurité et à l’intégrité du système financier, notamment la protection des déposants, des investisseurs et des assurés, doit immédiatement élaborer et mettre en vigueur des règles relatives aux services financiers.
 
-<sup>7.</sup> L’Etat membre indique, dans la communication visée à l’art. 2, les motifs qui justifient l’urgence des mesures en question. Cette justification, qui doit être détaillée et clairement expliquée, met tout particulièrement l’accent sur l’imprévisibilité et la gravité du danger auquel les autorités concernées doivent faire face ainsi que sur l’absolue nécessité de prendre des mesures immédiates pour y remédier. Le Comité se prononce sur cette communication dans les plus brefs délais. Il prend les mesures appropriées en cas de recours abusif à cette procédure.
+<sup>7.</sup> L’État membre indique, dans la communication visée à l’art. 2, les motifs qui justifient l’urgence des mesures en question. Cette justification, qui doit être détaillée et clairement expliquée, met tout particulièrement l’accent sur l’imprévisibilité et la gravité du danger auquel les autorités concernées doivent faire face ainsi que sur l’absolue nécessité de prendre des mesures immédiates pour y remédier. Le Comité se prononce sur cette communication dans les plus brefs délais. Il prend les mesures appropriées en cas de recours abusif à cette procédure.
 
 #### Art. 4
 
-<sup>1.</sup> Les art. 2 et 3 ne sont pas applicables aux dispositions législatives, réglementaires ou administratives des Etats membres ou aux accords volontaires par lesquels ces derniers remplissent les engagements découlant d’un accord international qui ont pour effet l’adoption de spécifications techniques communes ou de règles relatives aux services.
+<sup>1.</sup> Les art. 2 et 3 ne sont pas applicables aux dispositions législatives, réglementaires ou administratives des États membres ou aux accords volontaires par lesquels ces derniers remplissent les engagements découlant d’un accord international qui ont pour effet l’adoption de spécifications techniques communes ou de règles relatives aux services.
 
-<sup>2.</sup> L’art. 3 ne s’applique pas aux dispositions législatives, réglementaires ou administratives des Etats membres visant l’interdiction de fabrication, dans la mesure où elles n’entravent pas la libre circulation des produits.
+<sup>2.</sup> L’art. 3 ne s’applique pas aux dispositions législatives, réglementaires ou administratives des États membres visant l’interdiction de fabrication, dans la mesure où elles n’entravent pas la libre circulation des produits.
 
 <sup>3.</sup> L’art. 3 ne s’applique pas aux spécifications techniques ou autres exigences ou règles relatives aux services visées à l’art. 1, ch. 7, troisième tiret.
 
@@ -1497,11 +1554,11 @@ Les ch. 1 et 2 ne sont pas applicables lorsqu’un Etat membre:
 
 <sup>4.</sup> Le comité se réunit dans une composition particulière pour examiner les questions relatives aux services de la société de l’information.
 
-Annexe I*[^t-8]*
+Annexe I*[^t-9]*
 
 ## Reconnaissance mutuelle en matière d’évaluation de la conformité
 
-[^t-8]: Nouvelle teneur selon le ch. 2 de la D n<sup>o</sup> 2/2009 du Conseil du 16 juin 2009 ([RO 2010 4063](https://fedlex.data.admin.ch/eli/oc/2010/593)). Mise à jour selon le ch. 1 de la D n<sup>o</sup> 01/2011 du Comité du 31 mars 2011 ([RO 2011 2983](https://fedlex.data.admin.ch/eli/oc/2011/390)) et de la D n<sup>o</sup> 01/2013 du 4 déc. 2013, en vigueur pour la Suisse depuis le 4 déc. 2013 ([RO 2014 2263](https://fedlex.data.admin.ch/eli/oc/2014/378)).
+[^t-9]: Nouvelle teneur selon le ch. 2 de la D n<sup>o</sup> 2/2009 du Conseil du 16 juin 2009 ([RO 2010 4063](https://fedlex.data.admin.ch/eli/oc/2010/593)). Mise à jour selon le ch. 1 de la D n<sup>o</sup> 01/2011 du Comité du 31 mars 2011 ([RO 2011 2983](https://fedlex.data.admin.ch/eli/oc/2011/390)) et de la D n<sup>o</sup> 01/2013 du 4 déc. 2013, en vigueur pour la Suisse depuis le 4 déc. 2013 ([RO 2014 2263](https://fedlex.data.admin.ch/eli/oc/2014/378)).
 
 (art. 15 de la Convention)
 
@@ -1515,9 +1572,9 @@ Annexe I*[^t-8]*
 
 **But**
 
-<sup>1.</sup> La Suisse et les Etats AELE parties à l’EEE acceptent mutuellement les rapports, certificats, autorisations et marques de conformité délivrés par les organismes d’évaluation de la conformité reconnus et visés à l’art. 6, ainsi que les déclarations de conformité du fabricant attestant la conformité à leurs exigences respectives, dans les domaines couverts par l’art. 3.
+<sup>1.</sup> La Suisse et les États AELE parties à l’EEE acceptent mutuellement les rapports, certificats, autorisations et marques de conformité délivrés par les organismes d’évaluation de la conformité reconnus et visés à l’art. 6, ainsi que les déclarations de conformité du fabricant attestant la conformité à leurs exigences respectives, dans les domaines couverts par l’art. 3.
 
-<sup>2.</sup> De manière à éviter la duplication des procédures, lorsque les exigences suisses sont jugées équivalentes aux exigences de l’EEE, la Suisse et les Etats AELE parties à l’EEE acceptent mutuellement les rapports, certificats et autorisations délivrés par les organismes d’évaluation de la conformité reconnus et visés à l’art. 6, ainsi que les déclarations de conformité du fabricant, attestant la conformité à leurs exigences respectives dans les domaines couverts par l’art. 3. Les rapports, certificats, autorisations et déclarations de conformité du fabricant doivent notamment indiquer la conformité avec la législation en vigueur dans l’EEE. Les marques de conformité exigées par la législation d’un des Etats membres doivent être apposées sur les produits mis sur le marché de cet Etat membre.
+<sup>2.</sup> De manière à éviter la duplication des procédures, lorsque les exigences suisses sont jugées équivalentes aux exigences de l’EEE, la Suisse et les États AELE parties à l’EEE acceptent mutuellement les rapports, certificats et autorisations délivrés par les organismes d’évaluation de la conformité reconnus et visés à l’art. 6, ainsi que les déclarations de conformité du fabricant, attestant la conformité à leurs exigences respectives dans les domaines couverts par l’art. 3. Les rapports, certificats, autorisations et déclarations de conformité du fabricant doivent notamment indiquer la conformité avec la législation en vigueur dans l’EEE. Les marques de conformité exigées par la législation d’un des États membres doivent être apposées sur les produits mis sur le marché de cet État membre.
 
 <sup>3.</sup> Le comité institué par l’art. 10 spécifie les cas dans lesquels le par. 2 est applicable.
 
@@ -1529,7 +1586,7 @@ Annexe I*[^t-8]*
 
 Aux fins de la présente annexe, on entend par:
 
-- – «Etats AELE parties à l’EEE», les Etats membres de l’Association européenne de libre-échange qui participent à l’Espace économique européen, à savoir la République d’Islande, la Principauté de Liechtenstein et le Royaume de Norvège;
+- – «États AELE parties à l’EEE», les États membres de l’Association européenne de libre-échange qui participent à l’Espace économique européen, à savoir la République d’Islande, la Principauté de Liechtenstein et le Royaume de Norvège;
 - – «évaluation de la conformité», l’examen systématique de la mesure dans laquelle un produit, un procédé ou un service satisfait aux exigences spécifiées;
 - – «organisme d’évaluation de la conformité», l’entité de droit public ou privé dont les activités visent l’exécution de tout ou partie du processus d’évaluation de la conformité;
 - – «autorité de désignation», l’autorité investie du pouvoir de désigner ou de révoquer, de suspendre ou de rétablir les organismes d’évaluation de la conformité placés sous sa juridiction.
@@ -1553,7 +1610,7 @@ Aux fins de la présente annexe, on entend par:
 
 <sup>1.</sup> Pour la Suisse, les dispositions législatives, réglementaires et administratives pertinentes couvertes par la présente annexe sont énoncées dans l’Accord entre la Communauté européenne et la Confédération suisse relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité.
 
-<sup>2.</sup> Pour les Etats AELE parties à l’EEE, les dispositions législatives, réglementaires et administratives pertinentes couvertes par la présente annexe sont énoncées dans l’Accord sur l’EEE.
+<sup>2.</sup> Pour les États AELE parties à l’EEE, les dispositions législatives, réglementaires et administratives pertinentes couvertes par la présente annexe sont énoncées dans l’Accord sur l’EEE.
 
 \3. Lorsque la Communauté européenne et la Suisse sont toutes deux arrivées à la conclusion que leur législation respective était équivalente, la législation suisse est également considérée comme équivalente à la législation de l’EEE[^annexI-lvlu1-4-1].
 
@@ -1579,7 +1636,7 @@ Les organismes d’évaluation de la conformité qui sont notifiés ou acceptés
 
 **Autorités de désignation**
 
-<sup>1.</sup> Les Etats membres veillent à ce que leurs autorités de désignation disposent du pouvoir et des compétences nécessaires pour procéder à la désignation ou à la révocation, à la suspension ou au rétablissement des organismes visés à l’art. 6.
+<sup>1.</sup> Les États membres veillent à ce que leurs autorités de désignation disposent du pouvoir et des compétences nécessaires pour procéder à la désignation ou à la révocation, à la suspension ou au rétablissement des organismes visés à l’art. 6.
 
 <sup>2.</sup> Les autorités de désignation pour chacun des secteurs de produits couverts sont énumérées dans l’appendice 1 à la présente annexe.
 
@@ -1587,11 +1644,11 @@ Les organismes d’évaluation de la conformité qui sont notifiés ou acceptés
 
 **Vérification des organismes d’évaluation de la conformité**
 
-<sup>1.</sup> Chaque Etat membre peut, dans des circonstances exceptionnelles, contester la compétence technique des organismes d’évaluation de la conformité visés à l’art. 6. Une telle contestation doit faire l’objet d’une justification écrite objective et argumentée, adressée aux autres Etats membres.
+<sup>1.</sup> Chaque État membre peut, dans des circonstances exceptionnelles, contester la compétence technique des organismes d’évaluation de la conformité visés à l’art. 6. Une telle contestation doit faire l’objet d’une justification écrite objective et argumentée, adressée aux autres États membres.
 
-<sup>2.</sup> En cas de désaccord entre les Etats membres confirmé au sein du comité visé à l’art. 10, une vérification de la compétence technique de l’organisme d’évaluation de la conformité contesté est réalisée conjointement par les Etats membres, selon les exigences requises et avec la participation des autorités compétentes concernées. Le résultat de cette vérification est discuté au sein du comité pour arriver à une solution dans les meilleurs délais.
+<sup>2.</sup> En cas de désaccord entre les États membres confirmé au sein du comité visé à l’art. 10, une vérification de la compétence technique de l’organisme d’évaluation de la conformité contesté est réalisée conjointement par les États membres, selon les exigences requises et avec la participation des autorités compétentes concernées. Le résultat de cette vérification est discuté au sein du comité pour arriver à une solution dans les meilleurs délais.
 
-<sup>3.</sup> Chaque Etat membre veille à ce que les organismes d’évaluation de la conformité sous sa juridiction soient disponibles pour la réalisation des vérifications de leur compétence technique comme requis.
+<sup>3.</sup> Chaque État membre veille à ce que les organismes d’évaluation de la conformité sous sa juridiction soient disponibles pour la réalisation des vérifications de leur compétence technique comme requis.
 
 <sup>4.</sup> Sauf décision contraire du comité, l’organisme contesté est suspendu par l’autorité de désignation compétente à partir du constat du désaccord jusqu’à ce qu’un accord soit trouvé au sein du comité.
 
@@ -1599,7 +1656,7 @@ Les organismes d’évaluation de la conformité qui sont notifiés ou acceptés
 
 **Application de l’annexe**
 
-<sup>1.</sup> Les Etats membres collaborent afin d’assurer une application satisfaisante de la présente annexe.
+<sup>1.</sup> Les États membres collaborent afin d’assurer une application satisfaisante de la présente annexe.
 
 <sup>2.</sup> Les autorités de désignation s’assurent par des moyens appropriés que les organismes d’évaluation de la conformité sous leur juridiction respectent les principes généraux de désignation énoncés dans les dispositions applicables visées à l’art. 4.
 
@@ -1613,7 +1670,7 @@ Les organismes d’évaluation de la conformité qui sont notifiés ou acceptés
 
 <sup>2.</sup> Le comité établit son règlement intérieur qui contient, entre autres dispositions, les modalités de convocation des réunions, de désignation du président et de la définition de son mandat.
 
-<sup>3.</sup> Le comité se réunit lorsque la situation l’exige. Chaque Etat membre peut demander la convocation d’une réunion.
+<sup>3.</sup> Le comité se réunit lorsque la situation l’exige. Chaque État membre peut demander la convocation d’une réunion.
 
 <sup>4.</sup> Le comité peut décider d’amender l’art. 3, par. 1, de la présente annexe ainsi que son appendice.
 
@@ -1621,41 +1678,41 @@ Les organismes d’évaluation de la conformité qui sont notifiés ou acceptés
 
 #### Art. 11
 
-**Echange d’informations**
+**Échange d’informations**
 
-<sup>1.</sup> Les Etats membres échangent toute information utile concernant la mise en œuvre et l’application de la présente annexe.
+<sup>1.</sup> Les États membres échangent toute information utile concernant la mise en œuvre et l’application de la présente annexe.
 
-<sup>2.</sup> Chaque Etat membre informe les autres Etats membres des modifications qu’il envisage d’apporter aux dispositions législatives, réglementaires et administratives relatives à l’objet de la présente annexe et leur communique les nouvelles dispositions par écrit, au plus tard 60 jours avant leur entrée en vigueur.
+<sup>2.</sup> Chaque État membre informe les autres États membres des modifications qu’il envisage d’apporter aux dispositions législatives, réglementaires et administratives relatives à l’objet de la présente annexe et leur communique les nouvelles dispositions par écrit, au plus tard 60 jours avant leur entrée en vigueur.
 
-<sup>3.</sup> Lorsque la législation de l’un des Etats membres prévoit qu’une certaine information doit être tenue à disposition de l’autorité compétente par une personne établie sur son territoire, cette autorité compétente peut également s’adresser à l’autorité compétente des autres Etats membres ou directement au fabricant ou, le cas échéant, à son mandataire établi sur le territoire des autres Etats membres pour obtenir ladite information.
+<sup>3.</sup> Lorsque la législation de l’un des États membres prévoit qu’une certaine information doit être tenue à disposition de l’autorité compétente par une personne établie sur son territoire, cette autorité compétente peut également s’adresser à l’autorité compétente des autres États membres ou directement au fabricant ou, le cas échéant, à son mandataire établi sur le territoire des autres États membres pour obtenir ladite information.
 
-<sup>4.</sup> Chaque Etat membre informe immédiatement les autres Etats membres des mesures de sauvegarde prises sur son territoire.
+<sup>4.</sup> Chaque État membre informe immédiatement les autres États membres des mesures de sauvegarde prises sur son territoire.
 
 #### Art. 12
 
 **Règlement des différends**
 
-Chaque Etat membre peut soumettre au comité visé à l’art. 10 un différend relatif à l’interprétation ou à l’application de la présente annexe. Le comité s’efforce de régler le différend. Tous les éléments d’information utiles pour permettre un examen approfondi de la situation en vue de trouver une solution acceptable lui sont fournis. A cet effet, le comité examine toutes les possibilités permettant de maintenir le bon fonctionnement de la présente annexe.
+Chaque État membre peut soumettre au comité visé à l’art. 10 un différend relatif à l’interprétation ou à l’application de la présente annexe. Le comité s’efforce de régler le différend. Tous les éléments d’information utiles pour permettre un examen approfondi de la situation en vue de trouver une solution acceptable lui sont fournis. À cet effet, le comité examine toutes les possibilités permettant de maintenir le bon fonctionnement de la présente annexe.
 
 #### Art. 13
 
-**Accords avec des Etats tiers**
+**Accords avec des États tiers**
 
-Les Etats membres conviennent que les accords de reconnaissance mutuelle conclus par chaque Etat membre avec un Etat tiers ne peuvent en aucun cas créer des obligations pour les autres Etats membres en termes d’acceptation des déclarations de conformité du fabricant, ainsi que des rapports, certificats, autorisations et marques délivrés par des organismes d’évaluation de la conformité de cet Etat tiers, sauf accord formel entre les Etats membres.
+Les États membres conviennent que les accords de reconnaissance mutuelle conclus par chaque État membre avec un État tiers ne peuvent en aucun cas créer des obligations pour les autres États membres en termes d’acceptation des déclarations de conformité du fabricant, ainsi que des rapports, certificats, autorisations et marques délivrés par des organismes d’évaluation de la conformité de cet État tiers, sauf accord formel entre les États membres.
 
 #### Art. 14
 
 **Suspension**
 
-Si un Etat membre constate qu’un autre Etat membre ne respecte pas les conditions de la présente annexe ou que l’application de dispositions de même nature contenues dans un accord conclu avec la Communauté européenne est suspendue à son encontre, il peut, après avoir consulté le comité, suspendre partiellement ou totalement l’application de la présente annexe.
+Si un État membre constate qu’un autre État membre ne respecte pas les conditions de la présente annexe ou que l’application de dispositions de même nature contenues dans un accord conclu avec la Communauté européenne est suspendue à son encontre, il peut, après avoir consulté le comité, suspendre partiellement ou totalement l’application de la présente annexe.
 
 #### Art. 15
 
 **Droits acquis**
 
-Les Etats membres continuent de reconnaître les rapports, certificats, autorisations, marques de conformité et déclarations de conformité du fabricant délivrés conformément à la présente annexe dans la mesure où:
+Les États membres continuent de reconnaître les rapports, certificats, autorisations, marques de conformité et déclarations de conformité du fabricant délivrés conformément à la présente annexe dans la mesure où:
 
-- a) la demande d’engagement des travaux d’évaluation de la conformité a été formulée avant la notification de suspension de la présente annexe ou de dénonciation de la Convention; et
+- a) la demande d’engagement des travaux d’évaluation de la conformité a été formulée avant la notification de suspension de la présente annexe ou de dénonciation de la Convention, et
 - b) les rapports, certificats, autorisations, marques de conformité et déclarations de conformité du fabricant ont été délivrés avant que la suspension ou la dénonciation ne devienne effective.
 
 Annexe I – Appendice 1
@@ -1666,15 +1723,15 @@ Annexe I – Appendice 1
 
 [^annexI-lvlu1-1]: Le Gouvernement du Liechtenstein est habilité à nommer à une date ultérieure les organes nationaux spécifiques de l’administration qui seront responsables de la désignation des organismes d’évaluation de la conformité.
 
-Le présent appendice énumère les autorités de désignation des Etats membres pour les secteurs de produits suivants:
+Le présent appendice énumère les autorités de désignation des États membres pour les secteurs de produits suivants:
 
 - 1\. Machines
-- 2\. Equipements de protection individuelle
+- 2\. Équipements de protection individuelle
 - 3\. Jouets
 - 4\. Dispositifs médicaux
 - 5\. Appareils à gaz et chaudières
 - 6\. Appareils à pression
-- 7\. Equipements terminaux de télécommunication
+- 7\. Équipements terminaux de télécommunication
 - 8\. Appareils et systèmes de protection destinés à être utilisés en atmosphères explosibles
 - 9\. Matériel électrique et compatibilité électromagnétique
 - 10\. Engins et matériels de chantier
@@ -1692,29 +1749,29 @@ Le présent appendice énumère les autorités de désignation des Etats membres
 
 [^annexI-lvlu1-2]: Pas encore publiés au RO.
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires sociales</td></tr>
 <tr><td>Liechtenstein:</td><td>Le Gouvernement du Liechtenstein</td></tr>
 <tr><td>Norvège:</td><td>Ministère du Travail et de l’Insertion sociale</td></tr>
-<tr><td>*Suisse:*</td><td>Secrétariat d’Etat à l’économie (SECO)</td></tr>
+<tr><td>*Suisse:*</td><td>Secrétariat d’État à l’économie (SECO)</td></tr>
 </table>
 
-### 2. Equipements de protection individuelle
+### 2. Équipements de protection individuelle
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires sociales</td></tr>
 <tr><td>Liechtenstein:</td><td>Le Gouvernement du Liechtenstein</td></tr>
 <tr><td>Norvège:</td><td>Ministère de Justice et Police Pour les équipements de protection personnelle maritimes: Ministère du Commerce et de l’Industrie</td></tr>
-<tr><td>*Suisse:*</td><td>Secrétariat d’Etat à l’économie (SECO)</td></tr>
+<tr><td>*Suisse:*</td><td>Secrétariat d’État à l’économie (SECO)</td></tr>
 </table>
 
 ### 3. Jouets
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires économiques</td></tr>
@@ -1725,7 +1782,7 @@ Etats AELE parties à l’EEE
 
 ### 4. Dispositifs médicaux
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère de la Santé et de la Sécurité sociale</td></tr>
@@ -1738,7 +1795,7 @@ Etats AELE parties à l’EEE
 
 ### Dispositions visées par l’art. 1, par. 1 (chaudières)
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires sociales</td></tr>
@@ -1749,20 +1806,20 @@ Etats AELE parties à l’EEE
 
 ### Dispositions visées par l’art. 1, par. 2 (appareils à gaz)
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires sociales</td></tr>
 <tr><td>Liechtenstein:</td><td>Le Gouvernement du Liechtenstein</td></tr>
 <tr><td>Norvège:</td><td>Ministère de Justice et Police</td></tr>
-<tr><td>*Suisse:*</td><td>Secrétariat d’Etat à l’économie (SECO)</td></tr>
+<tr><td>*Suisse:*</td><td>Secrétariat d’État à l’économie (SECO)</td></tr>
 </table>
 
 ### 6. Appareils à pression
 
 ### Dispositions visées par l’art. 1, par. 1 (équipements sous pression transportables)
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires sociales</td></tr>
@@ -1773,18 +1830,18 @@ Etats AELE parties à l’EEE
 
 ### Dispositions visées par l’art. 1, par. 2 (équipements sous pression et récipients à pression simples)
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires sociales</td></tr>
 <tr><td>Liechtenstein:</td><td>Le Gouvernement du Liechtenstein</td></tr>
 <tr><td>Norvège:</td><td>Ministère de Justice et Police</td></tr>
-<tr><td>*Suisse:*</td><td>Secrétariat d’Etat à l’économie (SECO)</td></tr>
+<tr><td>*Suisse:*</td><td>Secrétariat d’État à l’économie (SECO)</td></tr>
 </table>
 
-### 7. Equipements terminaux de télécommunication
+### 7. Équipements terminaux de télécommunication
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère de la Communication</td></tr>
@@ -1795,7 +1852,7 @@ Etats AELE parties à l’EEE
 
 ### 8. Appareils et systèmes de protection destinés à être utilisés en atmosphères explosibles
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires sociales</td></tr>
@@ -1806,7 +1863,7 @@ Etats AELE parties à l’EEE
 
 ### 9. Matériel électrique et compatibilité électromagnétique
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires économiques Ministère des Transports et de la Communication</td></tr>
@@ -1817,7 +1874,7 @@ Etats AELE parties à l’EEE
 
 ### 10. Engins et matériels de chantier
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère de l’Industrie</td></tr>
@@ -1830,7 +1887,7 @@ Etats AELE parties à l’EEE
 
 ### Dispositions visées par l’art. 1, par. 1
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère du Commerce</td></tr>
@@ -1841,7 +1898,7 @@ Etats AELE parties à l’EEE
 
 ### Dispositions visées par l’art. 1, par. 2
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires économiques</td></tr>
@@ -1852,7 +1909,7 @@ Etats AELE parties à l’EEE
 
 ### 12. Véhicules à moteur
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère de la Communication</td></tr>
@@ -1863,7 +1920,7 @@ Etats AELE parties à l’EEE
 
 ### 13. Tracteurs agricoles ou forestiers
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère de la Communication</td></tr>
@@ -1874,22 +1931,22 @@ Etats AELE parties à l’EEE
 
 ### 14. Bonnes pratiques de laboratoire (BPL)
 
-Aux fins du présent chapitre sectoriel, il y a lieu d’entendre par «autorités de désignation» les autorités officielles de vérification en matière de BPL des Etats membres.
+Aux fins du présent chapitre sectoriel, il y a lieu d’entendre par «autorités de désignation» les autorités officielles de vérification en matière de BPL des États membres.
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires économiques</td></tr>
 <tr><td>Liechtenstein:</td><td>Le Gouvernement du Liechtenstein</td></tr>
 <tr><td>Norvège:</td><td>Accréditation norvégienne</td></tr>
-<tr><td>*Suisse:*</td><td>*Etudes environnementales sur tous les produits:* Office fédéral de l’environnement (OFEV) *Etudes de* *santé* *sur les* *produits pharmaceutiques:* Swissmedic, Institut suisse des produits thérapeutiques *Etudes de* *santé* *sur* *tous* *les* *produits* *autres* *que pharmace**u**tiques:* Office fédéral de la santé publique (OFSP)</td></tr>
+<tr><td>*Suisse:*</td><td>*Études environnementales sur tous les produits:* Office fédéral de l’environnement (OFEV) *Études de* *santé* *sur les* *produits pharmaceutiques:* Swissmedic, Institut suisse des produits thérapeutiques *Études de* *santé* *sur* *tous* *les* *produits* *autres* *que pharmace**u**tiques:* Office fédéral de la santé publique (OFSP)</td></tr>
 </table>
 
 ### 15. Inspection BPF des médicaments et certification des lots
 
-Aux fins du présent chapitre, il y a lieu d’entendre par «organismes d’évaluation de la conformité» les services officiels d’inspection des BPF de chaque Etat membre.
+Aux fins du présent chapitre, il y a lieu d’entendre par «organismes d’évaluation de la conformité» les services officiels d’inspection des BPF de chaque État membre.
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Agence islandaise de contrôle des médicaments</td></tr>
@@ -1900,7 +1957,7 @@ Etats AELE parties à l’EEE
 
 ### 16. Produits de construction
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires économiques</td></tr>
@@ -1911,13 +1968,13 @@ Etats AELE parties à l’EEE
 
 ### 17. Ascenseurs
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministère des Affaires sociales</td></tr>
 <tr><td>Liechtenstein:</td><td>Office du commerce et des transports</td></tr>
 <tr><td>Norvège:</td><td>Office national de la technologie et de l’administration de la construction</td></tr>
-<tr><td>*Suisse:*</td><td>Secrétariat d’Etat à l’économie (SECO)</td></tr>
+<tr><td>*Suisse:*</td><td>Secrétariat d’État à l’économie (SECO)</td></tr>
 </table>
 
 ### 18 et 19 …****
@@ -1928,7 +1985,7 @@ Etats AELE parties à l’EEE
 
 ### 20. Explosifs à usage civil (munitions exclues)
 
-Etats AELE parties à l’EEE
+États AELE parties à l’EEE
 
 <table>
 <tr><td>Islande:</td><td>Ministry of the Interior (Innanríkisráðuneyti)</td></tr>
@@ -1955,22 +2012,22 @@ La «propriété intellectuelle» comprend notamment les droits d’auteur, y co
 
 <sup>1.</sup>
 
-Les Etats membres réaffirment leur engagement de respecter les obligations qui leur incombent en vertu des accords internationaux auxquels ils sont parties et notamment les conventions multilatérales suivantes:
+Les États membres réaffirment leur engagement de respecter les obligations qui leur incombent en vertu des accords internationaux auxquels ils sont parties et notamment les conventions multilatérales suivantes:
 
 - – l’Accord OMC du 15 avril 1994 sur les aspects des droits de propriété intellectuelle qui touchent au commerce[^annexJ-lvlu1-2-1] (Accord ADPIC);
 - – la Convention de Paris du 20 mars 1883 pour la protection de la propriété industrielle (Acte de Stockholm, 1967)[^annexJ-lvlu1-2-2];
-- – la Convention de Berne du 9 septembre 1886 pour la protection des œuvres littéraires et artistiques (Acte de Paris, 1971)[^annexJ-lvlu1-2-3]; et
+- – la Convention de Berne du 9 septembre 1886 pour la protection des œuvres littéraires et artistiques (Acte de Paris, 1971)[^annexJ-lvlu1-2-3], et
 - – la Convention internationale du 26 octobre 1961 sur la protection des artistes interprètes ou exécutants, des producteurs de phonogrammes et des organismes de radiodiffusion[^annexJ-lvlu1-2-4] (Convention de Rome).
 
 <sup>2.</sup>
 
-Les Etats membres qui ne sont pas parties à l’un ou plusieurs des accords énumérés ci-après s’engagent à y adhérer avant le 1<sup>er</sup> janvier 2005:
+Les États membres qui ne sont pas parties à l’un ou plusieurs des accords énumérés ci-après s’engagent à y adhérer avant le 1<sup>er</sup> janvier 2005:
 
 - – l’Acte de Genève (1999) de l’Arrangement de La Haye concernant l’enregistrement international des dessins et modèles industriels[^annexJ-lvlu1-2-5];
-- – le Traité de l’OMPI sur le droit d’auteur (Genève 1996); et
+- – le Traité de l’OMPI sur le droit d’auteur (Genève 1996), et
 - – le Traité de l’OMPI sur les interprétations et exécutions et les phono-grammes (Genève 1996).
 
-<sup>3.</sup> Les Etats membres conviennent d’entamer rapidement des consultations d’experts, à la demande de l’un d’eux, sur les activités relatives aux conventions internationales susmentionnées ou à de futures conventions concernant l’harmonisation, l’administration et le respect des droits de propriété intellectuelle ainsi que sur les activités des organisations internationales, telles que l’OMC et l’Organisation mondiale de la propriété intellectuelle (OMPI), et sur les relations des Etats membres avec des Etats tiers dans le domaine de la propriété intellectuelle.
+<sup>3.</sup> Les États membres conviennent d’entamer rapidement des consultations d’experts, à la demande de l’un d’eux, sur les activités relatives aux conventions internationales susmentionnées ou à de futures conventions concernant l’harmonisation, l’administration et le respect des droits de propriété intellectuelle ainsi que sur les activités des organisations internationales, telles que l’OMC et l’Organisation mondiale de la propriété intellectuelle (OMPI), et sur les relations des États membres avec des États tiers dans le domaine de la propriété intellectuelle.
 
 [^annexJ-lvlu1-2-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1C
 [^annexJ-lvlu1-2-2]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
@@ -1982,7 +2039,7 @@ Les Etats membres qui ne sont pas parties à l’un ou plusieurs des accords én
 
 **Brevets d’invention**
 
-Les Etats membres assurent dans leurs lois nationales au moins ce qui suit:
+Les États membres assurent dans leurs lois nationales au moins ce qui suit:
 
 - a) la protection adéquate et effective des brevets d’invention dans tous les domaines technologiques. Pour le Liechtenstein et la Suisse, cela signifie une protection à un niveau correspondant à celui prévu dans la Convention sur le brevet européen[^annexJ-lvlu1-3-1] du 5 octobre 1973, telle que mise en œuvre dans le droit national. Pour l’Islande et la Norvège, cela signifie une protection à un niveau correspondant à celui prévu dans l’Accord sur l’Espace économique européen du 2 mai 1992, tel que mis en œuvre dans le droit national.
 - b)
@@ -2000,25 +2057,25 @@ Les Etats membres assurent dans leurs lois nationales au moins ce qui suit:
 
 **Designs**
 
-Les Etats membres assurent dans leurs lois nationales la protection adéquate et effective des designs en prévoyant notamment une période de protection de cinq ans à compter de la date de dépôt, susceptible d’être prolongée d’au moins quatre fois cinq ans. Les Etats membres peuvent prévoir une période de protection plus courte pour les designs de pièces utilisées dans le but de permettre la réparation d’un produit.
+Les États membres assurent dans leurs lois nationales la protection adéquate et effective des designs en prévoyant notamment une période de protection de cinq ans à compter de la date de dépôt, susceptible d’être prolongée d’au moins quatre fois cinq ans. Les États membres peuvent prévoir une période de protection plus courte pour les designs de pièces utilisées dans le but de permettre la réparation d’un produit.
 
 #### Art. 5
 
 **Indications géographiques**
 
-Les Etats membres assurent dans leurs lois nationales des moyens adéquats et effectifs de protection des indications géographiques, y compris les appellations d’origine, en ce qui concerne tous les produits et services.
+Les États membres assurent dans leurs lois nationales des moyens adéquats et effectifs de protection des indications géographiques, y compris les appellations d’origine, en ce qui concerne tous les produits et services.
 
 #### Art. 6
 
 **Acquisition et maintien des droits de propriété intellectuelle**
 
-Lorsque l’acquisition d’un droit de propriété intellectuelle est soumise à l’octroi ou à l’enregistrement de ce droit, les Etats membres font en sorte que les procédures d’octroi ou d’enregistrement soient du même niveau que celui prévu par l’Accord ADPIC, notamment à l’art. 62.
+Lorsque l’acquisition d’un droit de propriété intellectuelle est soumise à l’octroi ou à l’enregistrement de ce droit, les États membres font en sorte que les procédures d’octroi ou d’enregistrement soient du même niveau que celui prévu par l’Accord ADPIC, notamment à l’art. 62.
 
 #### Art. 7
 
 **Respect des droits de propriété intellectuelle**
 
-Les Etats membres veillent à ce que leurs lois nationales comportent des dispositions visant à faire respecter les droits de propriété intellectuelle d’un niveau identique à celui prévu par l’Accord ADPIC, notamment aux art. 41 à 61.
+Les États membres veillent à ce que leurs lois nationales comportent des dispositions visant à faire respecter les droits de propriété intellectuelle d’un niveau identique à celui prévu par l’Accord ADPIC, notamment aux art. 41 à 61.
 
 Annexe K
 
@@ -2032,24 +2089,24 @@ Annexe K
 
 **Objectifs**
 
-Les objectifs de la présente annexe, en faveur des ressortissants des Etats membres, sont:
+Les objectifs de la présente annexe, en faveur des ressortissants des États membres, sont:
 
-- a) d’accorder un droit d’entrée, de séjour, d’accès à une activité économique salariée, d’établissement en tant qu’indépendant et le droit de demeurer sur le territoire des Etats membres;
-- b) de faciliter la prestation de services sur le territoire des Etats membres, en particulier de libéraliser la prestation de services de courte durée;
-- c) d’accorder un droit d’entrée et de séjour, sur le territoire des Etats membres, aux personnes sans activité économique dans le pays d’accueil;
+- a) d’accorder un droit d’entrée, de séjour, d’accès à une activité économique salariée, d’établissement en tant qu’indépendant et le droit de demeurer sur le territoire des États membres;
+- b) de faciliter la prestation de services sur le territoire des États membres, en particulier de libéraliser la prestation de services de courte durée;
+- c) d’accorder un droit d’entrée et de séjour, sur le territoire des États membres, aux personnes sans activité économique dans le pays d’accueil;
 - d) d’accorder les mêmes conditions de vie, d’emploi et de travail que celles accordées aux nationaux du pays d’accueil.
 
 #### Art. 2
 
 **Non-discrimination**
 
-Les ressortissants d’un Etat membre qui séjournent légalement sur le territoire d’un autre Etat membre ne sont pas, dans l’application et conformément aux dispositions des appendices 1, 2 et 3 de la présente annexe, discriminés en raison de leur nationalité.
+Les ressortissants d’un État membre qui séjournent légalement sur le territoire d’un autre État membre ne sont pas, dans l’application et conformément aux dispositions des appendices 1, 2 et 3 de la présente annexe, discriminés en raison de leur nationalité.
 
 #### Art. 3
 
 **Droit d’entrée**
 
-Le droit d’entrée des ressortissants d’un Etat membre sur le territoire d’un autre Etat membre est garanti conformément aux dispositions arrêtées dans l’appendice 1.
+Le droit d’entrée des ressortissants d’un État membre sur le territoire d’un autre État membre est garanti conformément aux dispositions arrêtées dans l’appendice 1.
 
 #### Art. 4
 
@@ -2061,14 +2118,14 @@ Le droit de séjour et d’accès à une activité économique est garanti sous 
 
 **Prestataire de services**
 
-<sup>1.</sup> Sans préjudice d’autres accords spécifiques relatifs à la prestation de services entre les Etats membres (y inclus l’accord sur le secteur des marchés publics[^annexK-lvlu1-lvlI-5-1] pour autant qu’il couvre la prestation de services), un prestataire de services, y compris les sociétés conformément aux dispositions de l’appendice 1, bénéficie du droit de fournir un service pour une prestation sur le territoire d’un Etat membre qui ne dépasse pas 90 jours de travail effectif par année civile.
+<sup>1.</sup> Sans préjudice d’autres accords spécifiques relatifs à la prestation de services entre les États membres (y inclus l’accord sur le secteur des marchés publics[^annexK-lvlu1-lvlI-5-1] pour autant qu’il couvre la prestation de services), un prestataire de services, y compris les sociétés conformément aux dispositions de l’appendice 1, bénéficie du droit de fournir un service pour une prestation sur le territoire d’un État membre qui ne dépasse pas 90 jours de travail effectif par année civile.
 
-<sup>2.</sup> Un prestataire de services bénéficie du droit d’entrée et de séjour sur le territoire de l’autre Etat membre
+<sup>2.</sup> Un prestataire de services bénéficie du droit d’entrée et de séjour sur le territoire de l’autre État membre
 
 - a) si le prestataire de services bénéficie du droit de fournir un service selon le par. 1 ou en vertu des dispositions d’un accord visé au par. 1;
-- b) ou, lorsque les conditions mentionnées sous point a) ne sont pas réunies, si l’autorisation de fournir un service lui a été accordée par les autorités compétentes de l’Etat membre concerné.
+- b) ou, lorsque les conditions mentionnées sous point a) ne sont pas réunies, si l’autorisation de fournir un service lui a été accordée par les autorités compétentes de l’État membre concerné.
 
-<sup>3.</sup> Des personnes physiques ressortissantes d’un Etat membre qui ne se rendent sur le territoire d’un autre Etat membre qu’en tant que destinataires de services bénéficient du droit d’entrée et de séjour.
+<sup>3.</sup> Des personnes physiques ressortissantes d’un État membre qui ne se rendent sur le territoire d’un autre État membre qu’en tant que destinataires de services bénéficient du droit d’entrée et de séjour.
 
 <sup>4.</sup> Les droits visés par le présent article sont garantis conformément aux dispositions des appendices 1, 2 et 3. Les limites quantitatives de l’art. 10 ne sont pas opposables aux personnes visées dans le présent article.
 
@@ -2078,39 +2135,39 @@ Le droit de séjour et d’accès à une activité économique est garanti sous 
 
 **Droit de séjour pour les personnes n’exerçant pas d’activité économique**
 
-Le droit de séjour sur le territoire d’un Etat membre est garanti aux personnes n’exerçant pas d’activité économique selon les dispositions de l’appendice 1 relatives aux non actifs.
+Le droit de séjour sur le territoire d’un État membre est garanti aux personnes n’exerçant pas d’activité économique selon les dispositions de l’appendice 1 relatives aux non actifs.
 
 #### Art. 7
 
 **Autres droits**
 
-Les Etats membres règlent, conformément à l’appendice 1, notamment les droits mentionnés ci-dessous liés à la libre circulation des personnes:
+Les États membres règlent, conformément à l’appendice 1, notamment les droits mentionnés ci-dessous liés à la libre circulation des personnes:
 
 - a) le droit à l’égalité de traitement avec les nationaux en ce qui concerne l’accès à une activité économique et son exercice ainsi que les conditions de vie, d’emploi et de travail;
-- b) le droit à une mobilité professionnelle et géographique, qui permet aux ressortissants des Etats membres de se déplacer librement sur le territoire de l’Etat d’accueil et d’exercer la profession de leur choix;
-- c) le droit de demeurer sur le territoire d’un Etat membre après la fin d’une activité économique;
+- b) le droit à une mobilité professionnelle et géographique, qui permet aux ressortissants des États membres de se déplacer librement sur le territoire de l’État d’accueil et d’exercer la profession de leur choix;
+- c) le droit de demeurer sur le territoire d’un État membre après la fin d’une activité économique;
 - d) le droit au séjour des membres de la famille, quelle que soit leur nationalité;
 - e) le droit d’exercer une activité économique pour les membres de la famille, quelle que soit leur nationalité;
 - f) le droit d’acquérir des immeubles dans la mesure où celui-ci est lié à l’exercice des droits conférés par la présente annexe;
-- g) pendant la période transitoire, le droit après la fin d’une activité économique ou d’un séjour sur le territoire d’un Etat membre, d’y retourner afin d’y exercer une activité économique ainsi que le droit à la transformation d’un titre de séjour temporaire en titre durable.
+- g) pendant la période transitoire, le droit après la fin d’une activité économique ou d’un séjour sur le territoire d’un État membre, d’y retourner afin d’y exercer une activité économique ainsi que le droit à la transformation d’un titre de séjour temporaire en titre durable.
 
 #### Art. 8
 
 **Coordination des systèmes de sécurité sociale**
 
-Les Etats membres règlent, conformément à l’appendice 2, la coordination des systèmes de sécurité sociale dans le but d’assurer notamment:
+Les États membres règlent, conformément à l’appendice 2, la coordination des systèmes de sécurité sociale dans le but d’assurer notamment:
 
 - a) l’égalité de traitement;
 - b) la détermination de la législation applicable;
 - c) la totalisation, pour l’ouverture et le maintien du droit aux prestations, ainsi que pour le calcul de celles-ci, de toutes périodes prises en considération par les différentes législations nationales;
-- d) le paiement des prestations aux personnes résidant sur le territoire des Etats membres;
+- d) le paiement des prestations aux personnes résidant sur le territoire des États membres;
 - e) l’entraide et la coopération administratives entre les autorités et les institutions.
 
 #### Art. 9
 
 **Reconnaissance mutuelle des qualifications professionnelles**
 
-Afin de faciliter aux ressortissants des Etats membres l’accès aux activités salariées et indépendantes et leur exercice, ainsi que la prestation de services, les Etats membres prennent les mesures nécessaires, conformément à l’appendice 3, concernant la reconnaissance mutuelle des diplômes, certificats et autres titres et la coordination des dispositions législatives, réglementaires et administratives des Etats membres concernant l’accès aux activités salariées et non salariées et l’exercice de celles-ci ainsi que la prestation de services.
+Afin de faciliter aux ressortissants des États membres l’accès aux activités salariées et indépendantes et leur exercice, ainsi que la prestation de services, les États membres prennent les mesures nécessaires, conformément à l’appendice 3, concernant la reconnaissance mutuelle des diplômes, certificats et autres titres et la coordination des dispositions législatives, réglementaires et administratives des États membres concernant l’accès aux activités salariées et non salariées et l’exercice de celles-ci ainsi que la prestation de services.
 
 ### II. D Dispositions générales et finales
 
@@ -2118,19 +2175,19 @@ Afin de faciliter aux ressortissants des Etats membres l’accès aux activités
 
 **Dispositions transitoires et développement de l’annexe**
 
-<sup>1.</sup> Pendant les cinq[^annexK-lvlu1-lvlII-10-1] ans suivant l’entrée en vigueur de l’accord entre la Communauté européenne et ses Etats membres, d’une part, et la Confédération suisse, d’autre part, sur la libre circulation des personnes[^annexK-lvlu1-lvlII-10-2] (ci-après nommé l’accord Suisse-CE sur la libre circulation des personnes) la Suisse peut maintenir des limites quantitatives concernant l’accès à une activité économique pour les deux catégories de séjour suivants: pour une durée supérieure à quatre mois et inférieure à une année et pour une durée égale ou supérieure à une année. Les séjours inférieurs à quatre mois ne sont pas limités.
+<sup>1.</sup> Pendant les cinq[^annexK-lvlu1-lvlII-10-1] ans suivant l’entrée en vigueur de l’accord entre la Communauté européenne et ses États membres, d’une part, et la Confédération suisse, d’autre part, sur la libre circulation des personnes[^annexK-lvlu1-lvlII-10-2] (ci-après nommé l’accord Suisse-CE sur la libre circulation des personnes) la Suisse peut maintenir des limites quantitatives concernant l’accès à une activité économique pour les deux catégories de séjour suivants: pour une durée supérieure à quatre mois et inférieure à une année et pour une durée égale ou supérieure à une année. Les séjours inférieurs à quatre mois ne sont pas limités.
 
-A partir du début de la sixième année, toutes les limites quantitatives à l’égard des ressortissants des autres Etats membres seront abandonnées.
+À partir du début de la sixième année, toutes les limites quantitatives à l’égard des ressortissants des autres États membres seront abandonnées.
 
-<sup>2.</sup> Les Etats membres peuvent, pendant une période maximale de deux ans, suivant l’entrée en vigueur de l’accord Suisse-CE sur la libre circulation des personnes, maintenir les contrôles de la priorité du travailleur intégré dans le marché régulier du travail et des conditions de salaire et de travail pour les ressortissants des autres Etats membres, y compris les personnes prestataires de services visées à l’art. 5. Avant la fin de la première année, le comité visé à l’art. 14 (ci-après nommé le «comité») examinera la nécessité du maintien de ces restrictions. Le Conseil peut raccourcir la période maximale. Le contrôle de la priorité du travailleur intégré dans le marché régulier du travail ne s’applique pas aux prestataires de services libéralisés par les annexes P, Q et R pour autant qu’elles couvrent la prestation de service.
+<sup>2.</sup> Les États membres peuvent, pendant une période maximale de deux ans, suivant l’entrée en vigueur de l’accord Suisse-CE sur la libre circulation des personnes, maintenir les contrôles de la priorité du travailleur intégré dans le marché régulier du travail et des conditions de salaire et de travail pour les ressortissants des autres États membres, y compris les personnes prestataires de services visées à l’art. 5. Avant la fin de la première année, le comité visé à l’art. 14 (ci-après nommé le «comité») examinera la nécessité du maintien de ces restrictions. Le Conseil peut raccourcir la période maximale. Le contrôle de la priorité du travailleur intégré dans le marché régulier du travail ne s’applique pas aux prestataires de services libéralisés par les annexes P, Q et R pour autant qu’elles couvrent la prestation de service.
 
-<sup>3.</sup> Dès l’entrée en vigueur de l’accord Suisse-CE sur la libre circulation des personnes, et pour une période allant jusqu’à la fin de la cinquième année, la Suisse réserve, à l’intérieur de ses contingents globaux, les minima suivants de nouveaux titres de séjour à des travailleurs salariés et indépendants des autres Etats membres: titres de séjour d’une durée égale ou supérieure à une année: 300 par année; titres de séjour d’une durée supérieure à quatre mois et inférieure à une année: 200 par année. Dans la mesure où ces contingents ne suffiraient pas, le Conseil prendra des dispositions.
+<sup>3.</sup> Dès l’entrée en vigueur de l’accord Suisse-CE sur la libre circulation des personnes, et pour une période allant jusqu’à la fin de la cinquième année, la Suisse réserve, à l’intérieur de ses contingents globaux, les minima suivants de nouveaux titres de séjour à des travailleurs salariés et indépendants des autres États membres: titres de séjour d’une durée égale ou supérieure à une année: 300 par année; titres de séjour d’une durée supérieure à quatre mois et inférieure à une année: 200 par année. Dans la mesure où ces contingents ne suffiraient pas, le Conseil prendra des dispositions.
 
-<sup>4.</sup> Le nombre de nouveaux titres de séjour délivrés par la Suisse à des travailleurs salariés ou indépendants des autres Etats membres ne peut pas être limité à moins de 300 par année pour les nouveaux titres de séjour d’une durée égale ou supérieure à une année et à 200 par année pour les titres de séjour d’une durée supérieure à quatre mois et inférieure à une année.
+<sup>4.</sup> Le nombre de nouveaux titres de séjour délivrés par la Suisse à des travailleurs salariés ou indépendants des autres États membres ne peut pas être limité à moins de 300 par année pour les nouveaux titres de séjour d’une durée égale ou supérieure à une année et à 200 par année pour les titres de séjour d’une durée supérieure à quatre mois et inférieure à une année.
 
-<sup>5.</sup> Les dispositions transitoires des par. 1 à 4, et en particulier celles du par. 2 concernant la priorité du travailleur intégré dans le marché régulier du travail et le contrôle des conditions de salaire et de travail, ne s’appliquent pas aux travailleurs salariés et indépendants qui, au moment de l’entrée en vigueur de l’accord Suisse-CE sur la libre circulation des personnes, sont autorisés à exercer une activité économique sur le territoire des Etats membres. Ces derniers jouissent notamment de la mobilité géographique et professionnelle. Les titulaires d’un titre de séjour d’une durée inférieure à un an ont le droit au renouvellement de leur titre de séjour; l’épuisement des limites quantitatives ne leur est pas opposable. Les titulaires d’un titre de séjour d’une durée égale ou supérieure à un an ont automatiquement le droit à la prolongation de leur titre de séjour; ces travailleurs salariés et indépendants auront en conséquence à partir de l’entrée en vigueur de l’annexe les droits liés à la libre circulation des personnes établis dans les dispositions de base de la présente annexe et spécialement de son art. 7.
+<sup>5.</sup> Les dispositions transitoires des par. 1 à 4, et en particulier celles du par. 2 concernant la priorité du travailleur intégré dans le marché régulier du travail et le contrôle des conditions de salaire et de travail, ne s’appliquent pas aux travailleurs salariés et indépendants qui, au moment de l’entrée en vigueur de l’accord Suisse-CE sur la libre circulation des personnes, sont autorisés à exercer une activité économique sur le territoire des États membres. Ces derniers jouissent notamment de la mobilité géographique et professionnelle. Les titulaires d’un titre de séjour d’une durée inférieure à un an ont le droit au renouvellement de leur titre de séjour; l’épuisement des limites quantitatives ne leur est pas opposable. Les titulaires d’un titre de séjour d’une durée égale ou supérieure à un an ont automatiquement le droit à la prolongation de leur titre de séjour; ces travailleurs salariés et indépendants auront en conséquence à partir de l’entrée en vigueur de l’annexe les droits liés à la libre circulation des personnes établis dans les dispositions de base de la présente annexe et spécialement de son art. 7.
 
-<sup>6.</sup> La Suisse communique régulièrement et rapidement au Conseil les statistiques et informations utiles, y compris les mesures de mise en œuvre du par. 2. Chaque Etat membre peut demander un examen de la situation.
+<sup>6.</sup> La Suisse communique régulièrement et rapidement au Conseil les statistiques et informations utiles, y compris les mesures de mise en œuvre du par. 2. Chaque État membre peut demander un examen de la situation.
 
 <sup>7.</sup> Aucune limitation quantitative n’est applicable aux travailleurs frontaliers.
 
@@ -2143,7 +2200,7 @@ A partir du début de la sixième année, toutes les limites quantitatives à l�
 
 **Traitement des recours**
 
-<sup>1.</sup> Les personnes visées par la présente annexe ont un droit de recours en ce qui concerne l’application des dispositions de la présente annexe auprès des autorités compétentes de l’Etat membre concerné.
+<sup>1.</sup> Les personnes visées par la présente annexe ont un droit de recours en ce qui concerne l’application des dispositions de la présente annexe auprès des autorités compétentes de l’État membre concerné.
 
 <sup>2.</sup> Les recours doivent être traités dans un délai raisonnable.
 
@@ -2153,21 +2210,21 @@ A partir du début de la sixième année, toutes les limites quantitatives à l�
 
 **Dispositions plus favorables**
 
-La présente annexe ne préjuge pas des dispositions nationales plus favorables qui puissent exister aussi bien pour les ressortissants des Etats membres que pour les membres de leur famille.
+La présente annexe ne préjuge pas des dispositions nationales plus favorables qui puissent exister aussi bien pour les ressortissants des États membres que pour les membres de leur famille.
 
 #### Art. 13
 
 **Standstill**
 
-Les Etats membres s’engagent à ne pas adopter de nouvelles mesures restrictives à l’égard des ressortissants des autres Etats membres dans les domaines d’application de la présente annexe.
+Les États membres s’engagent à ne pas adopter de nouvelles mesures restrictives à l’égard des ressortissants des autres États membres dans les domaines d’application de la présente annexe.
 
 #### Art. 14
 
 **Comité sur la circulation des personnes**
 
-<sup>1.</sup> Le Conseil établit un comité sur la circulation des personnes, qui est responsable de la gestion et de la bonne application de l’annexe. A cet effet, il formule des recommandations. Il peut constituer des groupes de travail sur la coordination des systèmes de sécurité sociale et sur la reconnaissance mutuelle des qualifications professionnelles.
+<sup>1.</sup> Le Conseil établit un comité sur la circulation des personnes, qui est responsable de la gestion et de la bonne application de l’annexe. À cet effet, il formule des recommandations. Il peut constituer des groupes de travail sur la coordination des systèmes de sécurité sociale et sur la reconnaissance mutuelle des qualifications professionnelles.
 
-<sup>2.</sup> Aux fins de la bonne exécution de la présente annexe, les Etats membres procèdent régulièrement à des échanges d’information et, à la demande d’un Etat membre, se consultent au sein du comité.
+<sup>2.</sup> Aux fins de la bonne exécution de la présente annexe, les États membres procèdent régulièrement à des échanges d’information et, à la demande d’un État membre, se consultent au sein du comité.
 
 <sup>3.</sup> Le Conseil peut décider de modifier les appendices 2 et 3 de la présente annexe.
 
@@ -2175,21 +2232,21 @@ Les Etats membres s’engagent à ne pas adopter de nouvelles mesures restrictiv
 
 **Mesures de sauvegarde**
 
-En cas de difficultés sérieuses d’ordre économique ou social, le comité se réunit, à la demande d’un Etat membre, afin d’examiner les mesures appropriées pour remédier à la situation. Le Conseil peut décider des mesures à prendre dans un délai de 60 jours à compter de la date de la demande. Ce délai peut être prolongé par le Conseil. Ces mesures sont limitées, dans leur champ d’application et leur durée, à ce qui est strictement indispensable pour remédier à la situation. Devront être choisies les mesures qui perturbent le moins le fonctionnement de la présente annexe.
+En cas de difficultés sérieuses d’ordre économique ou social, le comité se réunit, à la demande d’un État membre, afin d’examiner les mesures appropriées pour remédier à la situation. Le Conseil peut décider des mesures à prendre dans un délai de 60 jours à compter de la date de la demande. Ce délai peut être prolongé par le Conseil. Ces mesures sont limitées, dans leur champ d’application et leur durée, à ce qui est strictement indispensable pour remédier à la situation. Devront être choisies les mesures qui perturbent le moins le fonctionnement de la présente annexe.
 
 #### Art. 16
 
 **Référence au droit communautaire**
 
-<sup>1.</sup> Pour atteindre les objectifs visés par la présente annexe, les Etats membres prendront toutes les mesures nécessaires pour que les droits et obligations équivalant à ceux contenus dans les actes juridiques de la Communauté européenne auxquels il est fait référence, tels qu’ils sont incorporés dans l’accord EEE et dans l’accord Suisse-CE sur la libre circulation des personnes, trouvent application dans leurs relations.
+<sup>1.</sup> Pour atteindre les objectifs visés par la présente annexe, les États membres prendront toutes les mesures nécessaires pour que les droits et obligations équivalant à ceux contenus dans les actes juridiques de la Communauté européenne auxquels il est fait référence, tels qu’ils sont incorporés dans l’accord EEE et dans l’accord Suisse-CE sur la libre circulation des personnes, trouvent application dans leurs relations.
 
-<sup>2.</sup> Dans la mesure où l’application de la présente annexe implique des notions communes aux instruments juridiques mentionnés au par. 1, il sera tenu compte de la jurisprudence pertinente antérieure au 21 juin 1999. En vue d’assurer le bon fonctionnement de la présente annexe, le Conseil déterminera, à la demande d’un Etat membre, les implications de la jurisprudence postérieure au 21 juin 1999.
+<sup>2.</sup> Dans la mesure où l’application de la présente annexe implique des notions communes aux instruments juridiques mentionnés au par. 1, il sera tenu compte de la jurisprudence pertinente antérieure au 21 juin 1999. En vue d’assurer le bon fonctionnement de la présente annexe, le Conseil déterminera, à la demande d’un État membre, les implications de la jurisprudence postérieure au 21 juin 1999.
 
 #### Art. 17
 
 **Développement du droit**
 
-<sup>1.</sup> Dès qu’un Etat membre a entamé le processus d’adoption d’un projet de modification de sa législation interne, ou dès qu’il y a un changement dans la jurisprudence des instances dont les décisions ne sont pas susceptibles d’un recours juridictionnel de droit interne dans un domaine régi par la présente annexe, l’Etat membre concerné en informe les autres Etats membres par le biais du comité.
+<sup>1.</sup> Dès qu’un État membre a entamé le processus d’adoption d’un projet de modification de sa législation interne, ou dès qu’il y a un changement dans la jurisprudence des instances dont les décisions ne sont pas susceptibles d’un recours juridictionnel de droit interne dans un domaine régi par la présente annexe, l’État membre concerné en informe les autres États membres par le biais du comité.
 
 <sup>2.</sup> Le comité procède à un échange de vues sur les implications qu’une telle modification entraînerait pour le bon fonctionnement de la présente annexe.
 
@@ -2197,23 +2254,23 @@ En cas de difficultés sérieuses d’ordre économique ou social, le comité se
 
 **Relation avec les accords bilatéraux en matière de sécurité sociale**
 
-Sauf disposition contraire découlant de l’appendice 2, les accords de sécurité sociale bilatéraux entre les Etats membres sont suspendus dès l’entrée en vigueur de la présente annexe, dans la mesure où la même matière est régie par la présente annexe.
+Sauf disposition contraire découlant de l’appendice 2, les accords de sécurité sociale bilatéraux entre les États membres sont suspendus dès l’entrée en vigueur de la présente annexe, dans la mesure où la même matière est régie par la présente annexe.
 
 #### Art. 19
 
 **Relation avec les accords bilatéraux en matière de double imposition**
 
-<sup>1.</sup> Les dispositions des accords bilatéraux entre les Etats membres en matière de double imposition ne sont pas affectées par les dispositions de la présente annexe. En particulier les dispositions de la présente annexe ne doivent pas affecter la définition du travailleur frontalier selon les accords de double imposition.
+<sup>1.</sup> Les dispositions des accords bilatéraux entre les États membres en matière de double imposition ne sont pas affectées par les dispositions de la présente annexe. En particulier les dispositions de la présente annexe ne doivent pas affecter la définition du travailleur frontalier selon les accords de double imposition.
 
-<sup>2.</sup> Aucune disposition de la présente annexe ne peut être interprétée de manière à empêcher les Etats membres d’établir une distinction, dans l’application des dispositions pertinentes de leur législation fiscale, entre les contribuables qui ne se trouvent pas dans des situations comparables, en particulier en ce qui concerne leur lieu de résidence.
+<sup>2.</sup> Aucune disposition de la présente annexe ne peut être interprétée de manière à empêcher les États membres d’établir une distinction, dans l’application des dispositions pertinentes de leur législation fiscale, entre les contribuables qui ne se trouvent pas dans des situations comparables, en particulier en ce qui concerne leur lieu de résidence.
 
-<sup>3.</sup> Aucune disposition de la présente annexe ne fait obstacle à l’adoption ou l’application par les Etats membres d’une mesure destinée à assurer l’imposition, le paiement et le recouvrement effectif des impôts ou à éviter l’évasion fiscale conformément aux dispositions de la législation fiscale nationale ou aux accords visant à éviter la double imposition entre les Etats membres, ou d’autres arrangements fiscaux.
+<sup>3.</sup> Aucune disposition de la présente annexe ne fait obstacle à l’adoption ou l’application par les États membres d’une mesure destinée à assurer l’imposition, le paiement et le recouvrement effectif des impôts ou à éviter l’évasion fiscale conformément aux dispositions de la législation fiscale nationale ou aux accords visant à éviter la double imposition entre les États membres, ou d’autres arrangements fiscaux.
 
 #### Art. 20
 
 **Relation avec les accords bilatéraux dans les matières autres que la sécurité sociale et la double imposition**
 
-<sup>1.</sup> Nonobstant les dispositions des art. 18 et 19, la présente annexe n’affecte pas les accords entre les Etats membres, tels les accords concernant les particuliers, les agents économiques, la coopération transfrontalière ou le petit trafic frontalier, dans la mesure où ils sont compatibles avec la présente annexe.
+<sup>1.</sup> Nonobstant les dispositions des art. 18 et 19, la présente annexe n’affecte pas les accords entre les États membres, tels les accords concernant les particuliers, les agents économiques, la coopération transfrontalière ou le petit trafic frontalier, dans la mesure où ils sont compatibles avec la présente annexe.
 
 <sup>2.</sup> En cas d’incompatibilité entre ces accords et la présente annexe, cette dernière prévaut.
 
@@ -2221,7 +2278,7 @@ Sauf disposition contraire découlant de l’appendice 2, les accords de sécuri
 
 **Droits acquis**
 
-En cas de dénonciation ou de non-reconduction, les droits acquis par les particuliers ne sont pas touchés. Les Etats membres régleront d’un commun accord le sort des droits en cours d’acquisition.
+En cas de dénonciation ou de non-reconduction, les droits acquis par les particuliers ne sont pas touchés. Les États membres régleront d’un commun accord le sort des droits en cours d’acquisition.
 
 Annexe K – Appendice 1
 
@@ -2235,37 +2292,37 @@ Annexe K – Appendice 1
 
 **Entrée et sortie**
 
-<sup>1.</sup> Les Etats membres admettent sur leur territoire les ressortissants des autres Etats membres, les membres de leur famille au sens de l’art. 3 du présent appendice ainsi que les travailleurs détachés au sens de l’art. 16 du présent appendice sur simple présentation d’une carte d’identité ou d’un passeport en cours de validité.
+<sup>1.</sup> Les États membres admettent sur leur territoire les ressortissants des autres États membres, les membres de leur famille au sens de l’art. 3 du présent appendice ainsi que les travailleurs détachés au sens de l’art. 16 du présent appendice sur simple présentation d’une carte d’identité ou d’un passeport en cours de validité.
 
-Aucun visa d’entrée ni obligation équivalente ne peut être imposé, sauf aux membres de la famille et aux travailleurs détachés au sens de l’art. 16 du présent appendice, qui ne possèdent pas la nationalité d’un Etat membre. L’Etat membre concerné accorde à ces personnes toutes facilités pour obtenir les visas qui leur seraient nécessaires.
+Aucun visa d’entrée ni obligation équivalente ne peut être imposé, sauf aux membres de la famille et aux travailleurs détachés au sens de l’art. 16 du présent appendice, qui ne possèdent pas la nationalité d’un État membre. L’État membre concerné accorde à ces personnes toutes facilités pour obtenir les visas qui leur seraient nécessaires.
 
-<sup>2.</sup> Les Etats membres reconnaissent aux ressortissants des Etats membres, aux membres de leur famille au sens de l’art. 3 du présent appendice, ainsi qu’aux travailleurs détachés au sens de l’art. 16 du présent appendice, le droit de quitter leur territoire sur simple présentation d’une carte d’identité ou d’un passeport en cours de validité. Les Etats membres ne peuvent imposer aux ressortissants des autres Etats membres aucun visa de sortie ni obligation équivalente.
+<sup>2.</sup> Les États membres reconnaissent aux ressortissants des États membres, aux membres de leur famille au sens de l’art. 3 du présent appendice, ainsi qu’aux travailleurs détachés au sens de l’art. 16 du présent appendice, le droit de quitter leur territoire sur simple présentation d’une carte d’identité ou d’un passeport en cours de validité. Les États membres ne peuvent imposer aux ressortissants des autres États membres aucun visa de sortie ni obligation équivalente.
 
-Les Etats membres délivrent ou renouvellent à leurs ressortissants, conformément à leur législation, une carte d’identité ou un passeport précisant notamment leur nationalité.
+Les États membres délivrent ou renouvellent à leurs ressortissants, conformément à leur législation, une carte d’identité ou un passeport précisant notamment leur nationalité.
 
-Le passeport doit être valable au moins pour tous les Etats membres et pour les pays en transit direct entre ceux-ci. Lorsque le passeport est le seul document valable pour sortir du pays, la durée de sa validité ne peut être inférieure à cinq ans.
+Le passeport doit être valable au moins pour tous les États membres et pour les pays en transit direct entre ceux-ci. Lorsque le passeport est le seul document valable pour sortir du pays, la durée de sa validité ne peut être inférieure à cinq ans.
 
 #### Art. 2
 
 **Séjour et activité économique**
 
-<sup>1.</sup> Sans préjudice des dispositions de la période transitoire arrêtée à l’art. 10 de l’annexe et au chap. VII du présent appendice, les ressortissants d’un Etat membre ont le droit de séjourner et d’exercer une activité économique sur le territoire d’un autre Etat membre selon les modalités prévues aux chap. II à IV. Ce droit est constaté par la délivrance d’un titre de séjour ou spécifique pour les frontaliers.
+<sup>1.</sup> Sans préjudice des dispositions de la période transitoire arrêtée à l’art. 10 de l’annexe et au chap. VII du présent appendice, les ressortissants d’un État membre ont le droit de séjourner et d’exercer une activité économique sur le territoire d’un autre État membre selon les modalités prévues aux chap. II à IV. Ce droit est constaté par la délivrance d’un titre de séjour ou spécifique pour les frontaliers.
 
-Les ressortissants des Etats membres ont aussi le droit de se rendre dans un autre Etat membre ou d’y rester après la fin d’un emploi d’une durée inférieure à un an pour y chercher un emploi et y séjourner pendant un délai raisonnable, qui peut être de six mois qui leur permette de prendre connaissance des offres d’emplois correspondant à leurs qualifications professionnelles et de prendre, le cas échéant, les mesures nécessaires aux fins d’être engagés. Les chercheurs d’emploi ont le droit, sur le territoire de l’Etat membre concerné, de recevoir la même assistance que celle que les bureaux d’emploi de cet Etat accordent à ses propres ressortissants. Ils peuvent être exclus de l’aide sociale pendant la durée de ce séjour.
+Les ressortissants des États membres ont aussi le droit de se rendre dans un autre État membre ou d’y rester après la fin d’un emploi d’une durée inférieure à un an pour y chercher un emploi et y séjourner pendant un délai raisonnable, qui peut être de six mois qui leur permette de prendre connaissance des offres d’emplois correspondant à leurs qualifications professionnelles et de prendre, le cas échéant, les mesures nécessaires aux fins d’être engagés. Les chercheurs d’emploi ont le droit, sur le territoire de l’État membre concerné, de recevoir la même assistance que celle que les bureaux d’emploi de cet État accordent à ses propres ressortissants. Ils peuvent être exclus de l’aide sociale pendant la durée de ce séjour.
 
-<sup>2.</sup> Les ressortissants des Etats membres n’exerçant pas d’activité économique dans l’Etat d’accueil et qui ne bénéficient pas d’un droit de séjour en vertu d’autres dispositions de l’annexe ont, pour autant qu’ils remplissent les conditions préalables requises dans le chap. V, un droit de séjour. Ce droit est constaté par la délivrance d’un titre de séjour.
+<sup>2.</sup> Les ressortissants des États membres n’exerçant pas d’activité économique dans l’État d’accueil et qui ne bénéficient pas d’un droit de séjour en vertu d’autres dispositions de l’annexe ont, pour autant qu’ils remplissent les conditions préalables requises dans le chap. V, un droit de séjour. Ce droit est constaté par la délivrance d’un titre de séjour.
 
-<sup>3.</sup> Le titre de séjour ou spécifique accordé aux ressortissants des Etats membres est délivré et renouvelé à titre gratuit ou contre le versement d’une somme ne dépassant pas les droits et taxes exigés pour la délivrance des cartes d’identité aux nationaux. Les Etats membres prennent les mesures nécessaires pour simplifier au maximum les formalités et les procédures d’obtention de ces documents.
+<sup>3.</sup> Le titre de séjour ou spécifique accordé aux ressortissants des États membres est délivré et renouvelé à titre gratuit ou contre le versement d’une somme ne dépassant pas les droits et taxes exigés pour la délivrance des cartes d’identité aux nationaux. Les États membres prennent les mesures nécessaires pour simplifier au maximum les formalités et les procédures d’obtention de ces documents.
 
-<sup>4.</sup> Les Etats membres peuvent imposer aux ressortissants des autres Etats membres de signaler leur présence sur le territoire.
+<sup>4.</sup> Les États membres peuvent imposer aux ressortissants des autres États membres de signaler leur présence sur le territoire.
 
 #### Art. 3
 
 **Membres de la famille**
 
-<sup>1.</sup> Les membres de la famille d’une personne ressortissant d’un Etat membre ayant un droit de séjour ont le droit de s’installer avec elle. Le travailleur salarié doit disposer d’un logement pour sa famille considéré comme normal pour les travailleurs nationaux salariés dans la région où il est employé sans que cette disposition puisse entraîner de discriminations entre les travailleurs nationaux et les travailleurs en provenance de l’autre Etat membre.
+<sup>1.</sup> Les membres de la famille d’une personne ressortissant d’un État membre ayant un droit de séjour ont le droit de s’installer avec elle. Le travailleur salarié doit disposer d’un logement pour sa famille considéré comme normal pour les travailleurs nationaux salariés dans la région où il est employé sans que cette disposition puisse entraîner de discriminations entre les travailleurs nationaux et les travailleurs en provenance de l’autre État membre.
 
-<sup>2.</sup> Les Etats membres favorisent l’admission de tout membre de la famille qui ne bénéficie pas des dispositions de ce paragraphe sous a), b) et c), s’il se trouve à la charge ou vit, dans les pays de provenance, sous le toit du ressortissant d’un Etat membre.
+<sup>2.</sup> Les États membres favorisent l’admission de tout membre de la famille qui ne bénéficie pas des dispositions de ce paragraphe sous a), b) et c), s’il se trouve à la charge ou vit, dans les pays de provenance, sous le toit du ressortissant d’un État membre.
 
 Sont considérés comme membres de la famille, quelle que soit leur nationalité:
 
@@ -2275,23 +2332,23 @@ Sont considérés comme membres de la famille, quelle que soit leur nationalité
 
 <sup>3.</sup>
 
-Pour la délivrance du titre de séjour aux membres de la famille d’un ressortissant d’un Etat membre, les Etats membres ne peuvent demander que les documents énumérés ci-dessous:
+Pour la délivrance du titre de séjour aux membres de la famille d’un ressortissant d’un État membre, les États membres ne peuvent demander que les documents énumérés ci-dessous:
 
 - a. le document sous le couvert duquel ils ont pénétré sur leur territoire;
-- b. un document délivré par l’autorité compétente de l’Etat d’origine ou de provenance prouvant leur lien de parenté;
-- c. pour les personnes à charge, un document délivré par l’autorité compétente de l’Etat d’origine ou de provenance attestant qu’ils sont à la charge de la personne visée au par. 1 ou qu’ils vivent sous son toit dans cet Etat.
+- b. un document délivré par l’autorité compétente de l’État d’origine ou de provenance prouvant leur lien de parenté;
+- c. pour les personnes à charge, un document délivré par l’autorité compétente de l’État d’origine ou de provenance attestant qu’ils sont à la charge de la personne visée au par. 1 ou qu’ils vivent sous son toit dans cet État.
 
 <sup>4.</sup> La validité du titre de séjour délivré à un membre de la famille est la même que celle de celui qui a été délivré à la personne dont il dépend.
 
 <sup>5.</sup> Le conjoint et les enfants de moins de 21 ans ou à charge d’une personne ayant un droit de séjour, quelle que soit leur nationalité, ont le droit d’accéder à une activité économique.
 
-<sup>6.</sup> Les enfants d’un ressortissant d’un Etat membre qui exerce ou non, ou qui a exercé une activité économique sur le territoire d’un autre Etat membre sont admis aux cours d’enseignement général, d’apprentissage et de formation professionnelle dans les mêmes conditions que les ressortissants de l’Etat d’accueil, si ces enfants résident sur son territoire. Les Etats membres encouragent les initiatives permettant à ces enfants de suivre les cours précités dans les meilleures conditions.
+<sup>6.</sup> Les enfants d’un ressortissant d’un État membre qui exerce ou non, ou qui a exercé une activité économique sur le territoire d’un autre État membre sont admis aux cours d’enseignement général, d’apprentissage et de formation professionnelle dans les mêmes conditions que les ressortissants de l’État d’accueil, si ces enfants résident sur son territoire. Les États membres encouragent les initiatives permettant à ces enfants de suivre les cours précités dans les meilleures conditions.
 
 #### Art. 4
 
 **Droit de demeurer**
 
-<sup>1.</sup> Les ressortissants d’un Etat membre et les membres de leur famille ont le droit de demeurer sur le territoire d’un autre Etat membre après la fin de leur activité économique.
+<sup>1.</sup> Les ressortissants d’un État membre et les membres de leur famille ont le droit de demeurer sur le territoire d’un autre État membre après la fin de leur activité économique.
 
 <sup>2.</sup> Conformément à l’art. 16 de l’annexe, il est fait référence au règlement (CEE) 1251/70 (JO L 142, 1970, p. 24) et à la directive 75/34/CEE (JO L 14, 1975, p. 10), tels qu’incorporés dans l’accord EEE et dans l’accord Suisse-CE sur la libre circulation des personnes[^annexK-lvlu1-lvlI-4-1] et en vigueur le 21 juin 1999.
 
@@ -2311,20 +2368,20 @@ Pour la délivrance du titre de séjour aux membres de la famille d’un ressort
 
 **Réglementation du séjour**
 
-<sup>1.</sup> Le travailleur salarié ressortissant d’un Etat membre (ci-après nommé travailleur salarié) qui occupe un emploi d’une durée égale ou supérieure à un an au service d’un employeur de l’Etat d’accueil reçoit un titre de séjour d’une durée de cinq ans au moins à dater de sa délivrance. Il est automatiquement prolongé pour une durée de cinq ans au moins. Lors du premier renouvellement, sa durée de validité peut être limitée, sans pouvoir être inférieure à un an, lorsque son détenteur se trouve dans une situation de chômage involontaire depuis plus de douze mois consécutifs.
+<sup>1.</sup> Le travailleur salarié ressortissant d’un État membre (ci-après nommé travailleur salarié) qui occupe un emploi d’une durée égale ou supérieure à un an au service d’un employeur de l’État d’accueil reçoit un titre de séjour d’une durée de cinq ans au moins à dater de sa délivrance. Il est automatiquement prolongé pour une durée de cinq ans au moins. Lors du premier renouvellement, sa durée de validité peut être limitée, sans pouvoir être inférieure à un an, lorsque son détenteur se trouve dans une situation de chômage involontaire depuis plus de douze mois consécutifs.
 
-<sup>2.</sup> Le travailleur salarié qui occupe un emploi d’une durée supérieure à trois mois et inférieure à un an au service d’un employeur de l’Etat d’accueil reçoit un titre de séjour d’une durée égale à celle prévue dans le contrat.
+<sup>2.</sup> Le travailleur salarié qui occupe un emploi d’une durée supérieure à trois mois et inférieure à un an au service d’un employeur de l’État d’accueil reçoit un titre de séjour d’une durée égale à celle prévue dans le contrat.
 
 Le travailleur salarié qui occupe un emploi d’une durée ne dépassant pas trois mois n’a pas besoin d’un titre de séjour.
 
 <sup>3.</sup>
 
-Pour la délivrance des titres de séjour, les Etats membres ne peuvent demander au travailleur que la présentation des documents ci-après énumérés:
+Pour la délivrance des titres de séjour, les États membres ne peuvent demander au travailleur que la présentation des documents ci-après énumérés:
 
 - a) le document sous le couvert duquel il a pénétré sur le territoire;
 - b) une déclaration d’engagement de l’employeur ou une attestation de travail.
 
-<sup>4.</sup> Le titre de séjour est valable pour l’ensemble du territoire de l’Etat qui l’a délivré.
+<sup>4.</sup> Le titre de séjour est valable pour l’ensemble du territoire de l’État qui l’a délivré.
 
 <sup>5.</sup> Les interruptions de séjour ne dépassant pas six mois consécutifs ainsi que les absences motivées par l’accomplissement d’obligations militaires n’affectent pas la validité du titre de séjour.
 
@@ -2336,49 +2393,49 @@ Pour la délivrance des titres de séjour, les Etats membres ne peuvent demander
 
 **Travailleurs frontaliers salariés**
 
-<sup>1.</sup> Le travailleur frontalier salarié est un ressortissant d’un Etat membre qui a sa résidence sur le territoire d’un Etat membre et qui exerce une activité salariée sur le territoire de l’autre Etat membre en retournant à son domicile en principe chaque jour, ou au moins une fois par semaine.
+<sup>1.</sup> Le travailleur frontalier salarié est un ressortissant d’un État membre qui a sa résidence sur le territoire d’un État membre et qui exerce une activité salariée sur le territoire de l’autre État membre en retournant à son domicile en principe chaque jour, ou au moins une fois par semaine.
 
 <sup>2.</sup> Les travailleurs frontaliers n’ont pas besoin d’un titre de séjour.
 
-Cependant, l’autorité compétente de l’Etat d’emploi peut doter le travailleur frontalier salarié d’un titre spécifique pour une durée de cinq ans au moins ou pour la durée de son emploi si celle-ci est supérieure à trois mois et inférieure à un an. Il est prolongé pour cinq ans au moins pour autant que le travailleur frontalier produise la preuve qu’il exerce une activité économique.
+Cependant, l’autorité compétente de l’État d’emploi peut doter le travailleur frontalier salarié d’un titre spécifique pour une durée de cinq ans au moins ou pour la durée de son emploi si celle-ci est supérieure à trois mois et inférieure à un an. Il est prolongé pour cinq ans au moins pour autant que le travailleur frontalier produise la preuve qu’il exerce une activité économique.
 
-<sup>3.</sup> Le titre spécifique est valable pour l’ensemble du territoire de l’Etat qui l’a délivré.
+<sup>3.</sup> Le titre spécifique est valable pour l’ensemble du territoire de l’État qui l’a délivré.
 
 #### Art. 8
 
 **Mobilité professionnelle et géographique**
 
-<sup>1.</sup> Les travailleurs salariés ont le droit à la mobilité professionnelle et géographique sur l’ensemble du territoire de l’Etat d’accueil.
+<sup>1.</sup> Les travailleurs salariés ont le droit à la mobilité professionnelle et géographique sur l’ensemble du territoire de l’État d’accueil.
 
 <sup>2.</sup> La mobilité professionnelle comprend le changement d’employeur, d’emploi, de profession et le passage d’une activité salariée à une activité indépendante. La mobilité géographique comprend le changement de lieu de travail et de séjour.
 
 #### Art. 9
 
-**Egalité de traitement**
+**Égalité de traitement**
 
-<sup>1.</sup> Un travailleur salarié ressortissant d’un Etat membre ne peut, sur le territoire d’un autre Etat membre, être, en raison de sa nationalité, traité différemment des travailleurs nationaux salariés en ce qui concerne les conditions d’emploi et de travail, notamment en matière de rémunération, de licenciement, et de réintégration professionnelle ou de réemploi s’il est tombé au chômage.
+<sup>1.</sup> Un travailleur salarié ressortissant d’un État membre ne peut, sur le territoire d’un autre État membre, être, en raison de sa nationalité, traité différemment des travailleurs nationaux salariés en ce qui concerne les conditions d’emploi et de travail, notamment en matière de rémunération, de licenciement, et de réintégration professionnelle ou de réemploi s’il est tombé au chômage.
 
 <sup>2.</sup> Le travailleur salarié et les membres de sa famille visés à l’art. 3 du présent appendice y bénéficient des mêmes avantages fiscaux et sociaux que les travailleurs salariés nationaux et les membres de leur famille.
 
 <sup>3.</sup> Il bénéficie également au même titre et dans les mêmes conditions que les travailleurs nationaux salariés de l’enseignement des écoles professionnelles et des centres de réadaptation ou de rééducation.
 
-<sup>4.</sup> Toute clause de convention collective ou individuelle ou d’autres réglementations collectives portant sur l’accès à l’emploi, l’emploi, la rémunération et les autres conditions de travail et de licenciement, est nulle de plein droit dans la mesure où elle prévoit ou autorise des conditions discriminatoires à l’égard des travailleurs salariés non nationaux ressortissants des Etats membres.
+<sup>4.</sup> Toute clause de convention collective ou individuelle ou d’autres réglementations collectives portant sur l’accès à l’emploi, l’emploi, la rémunération et les autres conditions de travail et de licenciement, est nulle de plein droit dans la mesure où elle prévoit ou autorise des conditions discriminatoires à l’égard des travailleurs salariés non nationaux ressortissants des États membres.
 
-<sup>5.</sup> Un travailleur salarié ressortissant d’un Etat membre, occupé sur le territoire de l’autre Etat membre, bénéficie de l’égalité de traitement en matière d’affiliation aux organisations syndicales et d’exercice des droits syndicaux, y compris le droit de vote et l’accès aux postes d’administration ou de direction d’une organisation syndicale; il peut être exclu de la participation à la gestion d’organismes de droit public et de l’exercice d’une fonction de droit public. Il bénéficie, en outre, du droit d’éligibilité aux organes de représentation des travailleurs salariés dans l’entreprise.
+<sup>5.</sup> Un travailleur salarié ressortissant d’un État membre, occupé sur le territoire de l’autre État membre, bénéficie de l’égalité de traitement en matière d’affiliation aux organisations syndicales et d’exercice des droits syndicaux, y compris le droit de vote et l’accès aux postes d’administration ou de direction d’une organisation syndicale; il peut être exclu de la participation à la gestion d’organismes de droit public et de l’exercice d’une fonction de droit public. Il bénéficie, en outre, du droit d’éligibilité aux organes de représentation des travailleurs salariés dans l’entreprise.
 
-Ces dispositions ne portent pas atteinte aux législations ou réglementations qui, dans l’Etat d’accueil, accordent des droits plus étendus aux travailleurs salariés en provenance de l’autre Etat membre.
+Ces dispositions ne portent pas atteinte aux législations ou réglementations qui, dans l’État d’accueil, accordent des droits plus étendus aux travailleurs salariés en provenance de l’autre État membre.
 
-<sup>6.</sup> Sans préjudice des dispositions de l’art. 25 du présent appendice, un travailleur salarié ressortissant d’un Etat membre, occupé sur le territoire d’un autre Etat membre, bénéficie de tous les droits et de tous les avantages accordés aux travailleurs salariés nationaux en matière de logement, y compris l’accès à la propriété du logement dont il a besoin.
+<sup>6.</sup> Sans préjudice des dispositions de l’art. 25 du présent appendice, un travailleur salarié ressortissant d’un État membre, occupé sur le territoire d’un autre État membre, bénéficie de tous les droits et de tous les avantages accordés aux travailleurs salariés nationaux en matière de logement, y compris l’accès à la propriété du logement dont il a besoin.
 
 Ce travailleur peut, au même titre que les nationaux, s’inscrire dans la région où il est employé, sur les listes des demandeurs de logements dans les lieux où telles listes sont tenues, et il bénéficie des avantages et priorités qui en découlent.
 
-Sa famille restée dans l’Etat de provenance est considérée, à cette fin, comme résidente de ladite région, dans la mesure où les travailleurs nationaux bénéficient d’une présomption analogue.
+Sa famille restée dans l’État de provenance est considérée, à cette fin, comme résidente de ladite région, dans la mesure où les travailleurs nationaux bénéficient d’une présomption analogue.
 
 #### Art. 10
 
 **Emploi dans l’administration publique**
 
-Le ressortissant d’un Etat membre exerçant une activité salariée peut se voir refuser le droit d’occuper un emploi dans l’administration publique lié à l’exercice de la puissance publique et destiné à sauvegarder les intérêts généraux de l’Etat ou d’autres collectivités publiques.
+Le ressortissant d’un État membre exerçant une activité salariée peut se voir refuser le droit d’occuper un emploi dans l’administration publique lié à l’exercice de la puissance publique et destiné à sauvegarder les intérêts généraux de l’État ou d’autres collectivités publiques.
 
 ### III. Indépendants
 
@@ -2386,18 +2443,18 @@ Le ressortissant d’un Etat membre exerçant une activité salariée peut se vo
 
 **Réglementation du séjour**
 
-<sup>1.</sup> Le ressortissant d’un Etat membre désirant s’établir sur le territoire d’un autre Etat membre en vue d’exercer une activité non salariée (ci-après nommé indépendant) reçoit un titre de séjour d’une durée de cinq ans au moins à dater de sa délivrance pour autant qu’il produise la preuve aux autorités nationales compétentes qu’il est établi ou veut s’établir à cette fin.
+<sup>1.</sup> Le ressortissant d’un État membre désirant s’établir sur le territoire d’un autre État membre en vue d’exercer une activité non salariée (ci-après nommé indépendant) reçoit un titre de séjour d’une durée de cinq ans au moins à dater de sa délivrance pour autant qu’il produise la preuve aux autorités nationales compétentes qu’il est établi ou veut s’établir à cette fin.
 
 <sup>2.</sup> Le titre de séjour est automatiquement prolongé pour cinq ans au moins, pour autant que l’indépendant produise la preuve aux autorités nationales compétentes qu’il exerce une activité économique non salariée.
 
 <sup>3.</sup>
 
-Pour la délivrance des titres de séjour, les Etats membres ne peuvent demander à l’indépendant que la présentation:
+Pour la délivrance des titres de séjour, les États membres ne peuvent demander à l’indépendant que la présentation:
 
 - a) du document sous le couvert duquel il a pénétré sur le territoire;
 - b) de la preuve visée aux par. 1 et 2.
 
-<sup>4.</sup> Le titre de séjour est valable pour l’ensemble du territoire de l’Etat qui l’a délivré.
+<sup>4.</sup> Le titre de séjour est valable pour l’ensemble du territoire de l’État qui l’a délivré.
 
 <sup>5.</sup> Les interruptions de séjour ne dépassant pas six mois consécutifs ainsi que les absences motivées par l’accomplissement d’obligations militaires n’affectent pas la validité du titre de séjour.
 
@@ -2407,25 +2464,25 @@ Pour la délivrance des titres de séjour, les Etats membres ne peuvent demander
 
 **Frontaliers indépendants**
 
-<sup>1.</sup> Le frontalier indépendant est un ressortissant d’un Etat membre qui a sa résidence sur le territoire d’un Etat membre et qui exerce une activité non salariée sur le territoire d’un autre Etat membre en retournant à son domicile en principe chaque jour, ou au moins une fois par semaine.
+<sup>1.</sup> Le frontalier indépendant est un ressortissant d’un État membre qui a sa résidence sur le territoire d’un État membre et qui exerce une activité non salariée sur le territoire d’un autre État membre en retournant à son domicile en principe chaque jour, ou au moins une fois par semaine.
 
 <sup>2.</sup> Les frontaliers indépendants n’ont pas besoin d’un titre de séjour.
 
-Cependant, l’autorité compétente de l’Etat concerné peut doter le frontalier indépendant d’un titre spécifique pour une durée de cinq ans au moins pour autant qu’il produise la preuve aux autorités nationales compétentes qu’il exerce ou veut exercer une activité indépendante. Il est prolongé pour cinq ans au moins pour autant que le frontalier produise la preuve qu’il exerce une activité indépendante.
+Cependant, l’autorité compétente de l’État concerné peut doter le frontalier indépendant d’un titre spécifique pour une durée de cinq ans au moins pour autant qu’il produise la preuve aux autorités nationales compétentes qu’il exerce ou veut exercer une activité indépendante. Il est prolongé pour cinq ans au moins pour autant que le frontalier produise la preuve qu’il exerce une activité indépendante.
 
-<sup>3.</sup> Le titre spécifique est valable pour l’ensemble du territoire de l’Etat qui l’a délivré.
+<sup>3.</sup> Le titre spécifique est valable pour l’ensemble du territoire de l’État qui l’a délivré.
 
 #### Art. 13
 
 **Mobilité professionnelle et géographique**
 
-<sup>1.</sup> L’indépendant a le droit à la mobilité professionnelle et géographique sur l’ensemble du territoire de l’Etat d’accueil.
+<sup>1.</sup> L’indépendant a le droit à la mobilité professionnelle et géographique sur l’ensemble du territoire de l’État d’accueil.
 
 <sup>2.</sup> La mobilité professionnelle comprend le changement de profession et le passage d’une activité indépendante à une activité salariée. La mobilité géographique comprend le changement de lieu de travail et de séjour.
 
 #### Art. 14
 
-**Egalité de traitement**
+**Égalité de traitement**
 
 <sup>1.</sup> L’indépendant reçoit dans le pays d’accueil, en ce qui concerne l’accès à une activité non salariée et à son exercice, un traitement non moins favorable que celui accordé à ses propres ressortissants.
 
@@ -2445,18 +2502,18 @@ L’indépendant peut se voir refuser le droit de pratiquer une activité partic
 
 Est interdite dans le cadre de la prestation de services, selon l’art. 5 de l’annexe:
 
-- a) toute restriction à une prestation de services transfrontalière sur le territoire d’une Etat membre ne dépassant pas 90 jours de travail effectif par année civile.
+- a) toute restriction à une prestation de services transfrontalière sur le territoire d’une État membre ne dépassant pas 90 jours de travail effectif par année civile.
 - b) toute restriction relative à l’entrée et au séjour dans les cas visés à l’art. 5 par. 2 de l’annexe en ce qui concerne
-  - i) les ressortissants des Etats membres qui sont des prestataires de services et sont établis sur le territoire d’un des Etats membres, autre que celui du destinataire de services;
-  - ii) les travailleurs salariés, indépendamment de leur nationalité, d’un prestataire de services intégrés dans le marché régulier du travail d’un Etat membre et qui sont détachés pour la prestation d’un service sur le territoire d’un autre Etat membre, sans préjudice de l’art. 1.
+  - i) les ressortissants des États membres qui sont des prestataires de services et sont établis sur le territoire d’un des États membres, autre que celui du destinataire de services;
+  - ii) les travailleurs salariés, indépendamment de leur nationalité, d’un prestataire de services intégrés dans le marché régulier du travail d’un État membre et qui sont détachés pour la prestation d’un service sur le territoire d’un autre État membre, sans préjudice de l’art. 1.
 
 #### Art. 17
 
-Les dispositions de l’art. 16 du présent appendice s’appliquent à des sociétés qui sont constituées en conformité de la législation d’un Etat membre et ayant leur siège statuaire, leur administration centrale ou leur établissement principal sur le territoire d’un Etat membre.
+Les dispositions de l’art. 16 du présent appendice s’appliquent à des sociétés qui sont constituées en conformité de la législation d’un État membre et ayant leur siège statuaire, leur administration centrale ou leur établissement principal sur le territoire d’un État membre.
 
 #### Art. 18
 
-Le prestataire de services ayant le droit ou ayant été autorisé à fournir un service peut, pour l’exécution de sa prestation, exercer, à titre temporaire, son activité dans l’Etat où la prestation est fournie dans les mêmes conditions que celles que cet Etat impose à ses propres ressortissants, conformément aux dispositions du présent appendice et des appendices 2 et 3 de l’annexe.
+Le prestataire de services ayant le droit ou ayant été autorisé à fournir un service peut, pour l’exécution de sa prestation, exercer, à titre temporaire, son activité dans l’État où la prestation est fournie dans les mêmes conditions que celles que cet État impose à ses propres ressortissants, conformément aux dispositions du présent appendice et des appendices 2 et 3 de l’annexe.
 
 #### Art. 19
 
@@ -2464,11 +2521,11 @@ Le prestataire de services ayant le droit ou ayant été autorisé à fournir un
 
 <sup>2.</sup> Les personnes visées à l’art. 16, point b), du présent appendice ayant le droit de fournir un service d’une durée supérieure à 90 jours ou ayant été autorisées à fournir un service reçoivent, pour constater ce droit, un titre de séjour d’une durée égale à celle de la prestation.
 
-<sup>3.</sup> Le droit de séjour s’étend à tout le territoire des Etats membres.
+<sup>3.</sup> Le droit de séjour s’étend à tout le territoire des États membres.
 
 <sup>4.</sup>
 
-Pour la délivrance des titres de séjour, les Etats membres ne peuvent demander aux personnes visées à l’art. 16, point b), du présent appendice que:
+Pour la délivrance des titres de séjour, les États membres ne peuvent demander aux personnes visées à l’art. 16, point b), du présent appendice que:
 
 - a) le document sous le couvert duquel elles ont pénétré sur le territoire;
 - b) la preuve qu’elles effectuent ou désirent effectuer une prestation de services.
@@ -2481,16 +2538,16 @@ Pour la délivrance des titres de séjour, les Etats membres ne peuvent demander
 
 #### Art. 21
 
-<sup>1.</sup> Sont exceptées de l’application des dispositions des art. 16 et 18 du présent appendice, les activités participant, même à titre occasionnel, à l’exercice de l’autorité publique dans l’Etat membre concerné.
+<sup>1.</sup> Sont exceptées de l’application des dispositions des art. 16 et 18 du présent appendice, les activités participant, même à titre occasionnel, à l’exercice de l’autorité publique dans l’État membre concerné.
 
 <sup>2.</sup> Les dispositions des art. 16 et 18 du présent appendice, ainsi que les mesures prises en vertu de celles-ci ne préjugent pas de l’applicabilité des dispositions législatives, réglementaires et administratives prévoyant l’application de conditions de travail et d’emploi aux travailleurs détachés dans le cadre d’une prestation de services. Conformément à l’art. 16 de l’annexe, il est fait référence à la directive 96/71/CE du 16 décembre 1996 (JO L 18, 1997, p. 1) relative au détachement des travailleurs dans le cadre d’une prestation de services, telle qu’incorporée dans l’accord EEE et l’accord Suisse-CE sur la libre circulation des personnes et en vigueur le 21 juin 1999.
 
-<sup>3.</sup> Les dispositions des art. 16, point a), et 18 du présent appendice ne préjugent pas de l’applicabilité des dispositions législatives, réglementaires et administratives existantes dans chaque Etat membre à l’entrée en vigueur de l’annexe à propos
+<sup>3.</sup> Les dispositions des art. 16, point a), et 18 du présent appendice ne préjugent pas de l’applicabilité des dispositions législatives, réglementaires et administratives existantes dans chaque État membre à l’entrée en vigueur de l’annexe à propos
 
 - i) des activités des agences de travail temporaire et de travail intérimaire;
-- ii) des services financiers dont l’exercice exige une autorisation préalable sur le territoire d’une Etat membre et dont le prestataire est soumis à un contrôle prudentiel des autorités publiques de cet Etat membre.
+- ii) des services financiers dont l’exercice exige une autorisation préalable sur le territoire d’une État membre et dont le prestataire est soumis à un contrôle prudentiel des autorités publiques de cet État membre.
 
-<sup>4.</sup> Les dispositions des art. 16, point a), et 18 du présent appendice ne préjugent pas de l’applicabilité des dispositions législatives, réglementaires et administratives de chaque Etat membre, en ce qui concerne les prestations de services inférieure ou égale à 90 jours de travail effectif, justifiées par des raisons impérieuses liées à un intérêt général.
+<sup>4.</sup> Les dispositions des art. 16, point a), et 18 du présent appendice ne préjugent pas de l’applicabilité des dispositions législatives, réglementaires et administratives de chaque État membre, en ce qui concerne les prestations de services inférieure ou égale à 90 jours de travail effectif, justifiées par des raisons impérieuses liées à un intérêt général.
 
 #### Art. 22
 
@@ -2498,7 +2555,7 @@ Pour la délivrance des titres de séjour, les Etats membres ne peuvent demander
 
 <sup>1.</sup> Le destinataire de services visé à l’art. 5, par. 3, de l’annexe n’a pas besoin de titre de séjour pour des séjours inférieurs ou égaux à trois mois. Pour des séjours supérieurs à trois mois, le destinataire de services reçoit un titre de séjour d’une durée égale à celle de la prestation. Il peut être exclu de l’aide sociale pendant la durée de son séjour.
 
-<sup>2.</sup> Le titre de séjour est valable pour l’ensemble du territoire de l’Etat qui l’a délivré.
+<sup>2.</sup> Le titre de séjour est valable pour l’ensemble du territoire de l’État qui l’a délivré.
 
 ### V. P Personnes n’exerçant pas une activité économique
 
@@ -2506,24 +2563,24 @@ Pour la délivrance des titres de séjour, les Etats membres ne peuvent demander
 
 **Réglementation du séjour**
 
-<sup>1.</sup> Les Etats membres peuvent, quand ils l’estiment nécessaire, demander la revalidation du titre de séjour au terme des deux premières années de séjour.
+<sup>1.</sup> Les États membres peuvent, quand ils l’estiment nécessaire, demander la revalidation du titre de séjour au terme des deux premières années de séjour.
 
-Une personne ressortissante d’un Etat membre n’exerçant pas d’activité économique dans l’Etat de résidence et qui ne bénéficie pas d’un droit de séjour en vertu d’autres dispositions de l’annexe reçoit un titre de séjour d’une durée de cinq ans au moins, à condition qu’elle prouve aux autorités nationales compétentes qu’elle dispose pour elle-même et les membres de sa famille:
+Une personne ressortissante d’un État membre n’exerçant pas d’activité économique dans l’État de résidence et qui ne bénéficie pas d’un droit de séjour en vertu d’autres dispositions de l’annexe reçoit un titre de séjour d’une durée de cinq ans au moins, à condition qu’elle prouve aux autorités nationales compétentes qu’elle dispose pour elle-même et les membres de sa famille:
 
 - a) de moyens financiers suffisants pour ne devoir faire appel à l’aide sociale pendant leur séjour;
 - b) d’une assurance-maladie couvrant l’ensemble des risques[^annexK-lvlu1-lvlV-23-1].
 
-<sup>2.</sup> Sont considérés comme suffisants les moyens financiers nécessaires qui dépassent le montant en dessous duquel les nationaux, eu égard à leur situation personnelle, et le cas échéant, et à celle des membres de leur famille, peuvent prétendre à des prestations d’assistance. Lorsque cette condition ne peut s’appliquer, les moyens financiers du demandeur sont considérés comme suffisants lorsqu’ils sont supérieurs au niveau de la pension minimale de sécurité sociale versée par l’Etat d’accueil.
+<sup>2.</sup> Sont considérés comme suffisants les moyens financiers nécessaires qui dépassent le montant en dessous duquel les nationaux, eu égard à leur situation personnelle, et le cas échéant, et à celle des membres de leur famille, peuvent prétendre à des prestations d’assistance. Lorsque cette condition ne peut s’appliquer, les moyens financiers du demandeur sont considérés comme suffisants lorsqu’ils sont supérieurs au niveau de la pension minimale de sécurité sociale versée par l’État d’accueil.
 
-<sup>3.</sup> Les personnes qui ont occupé un emploi d’une durée inférieure à un an sur le territoire d’un Etat membre, peuvent y séjourner, pourvu qu’ils répondent aux conditions prévues au par. 1 du présent article. Les allocations de chômage auxquelles ils ont droit conformément aux dispositions de la législation nationale, le cas échéant complétée par les dispositions de l’appendice 2 de l’annexe, sont à considérer comme des moyens financiers au sens des par. 1 let. a) et 2 du présent article.
+<sup>3.</sup> Les personnes qui ont occupé un emploi d’une durée inférieure à un an sur le territoire d’un État membre, peuvent y séjourner, pourvu qu’ils répondent aux conditions prévues au par. 1 du présent article. Les allocations de chômage auxquelles ils ont droit conformément aux dispositions de la législation nationale, le cas échéant complétée par les dispositions de l’appendice 2 de l’annexe, sont à considérer comme des moyens financiers au sens des par. 1 let. a) et 2 du présent article.
 
-<sup>4.</sup> Un titre de séjour, d’une durée limitée à celle de la formation ou à un an si la durée de la formation dépasse un an, est délivré à l’étudiant qui ne dispose pas d’un droit de séjour sur le territoire d’un autre Etat membre sur la base d’une autre disposition de l’annexe et qui par déclaration ou au choix de l’étudiant par tout autre moyen au moins équivalent, assure l’autorité nationale concernée de disposer de moyens financiers afin que lui, son conjoint et leurs enfants à charge, ne fassent appel, pendant leur séjour, à l’aide sociale de l’Etat d’accueil, et à condition qu’il soit inscrit dans un établissement agréé pour y suivre, à titre principal, une formation professionnelle et qu’il dispose d’une assurance-maladie couvrant l’ensemble des risques. L’annexe ne règle ni l’accès à la formation professionnelle, ni l’aide accordée pour leur entretien aux étudiants visés par le présent article.
+<sup>4.</sup> Un titre de séjour, d’une durée limitée à celle de la formation ou à un an si la durée de la formation dépasse un an, est délivré à l’étudiant qui ne dispose pas d’un droit de séjour sur le territoire d’un autre État membre sur la base d’une autre disposition de l’annexe et qui par déclaration ou au choix de l’étudiant par tout autre moyen au moins équivalent, assure l’autorité nationale concernée de disposer de moyens financiers afin que lui, son conjoint et leurs enfants à charge, ne fassent appel, pendant leur séjour, à l’aide sociale de l’État d’accueil, et à condition qu’il soit inscrit dans un établissement agréé pour y suivre, à titre principal, une formation professionnelle et qu’il dispose d’une assurance-maladie couvrant l’ensemble des risques. L’annexe ne règle ni l’accès à la formation professionnelle, ni l’aide accordée pour leur entretien aux étudiants visés par le présent article.
 
 <sup>5.</sup> Le titre de séjour est automatiquement prolongé pour cinq ans au moins, tant que les conditions d’admission sont toujours remplies. Pour l’étudiant, le titre de séjour est prolongé annuellement pour une durée correspondant à la durée résiduelle de la formation.
 
 <sup>6.</sup> Les interruptions de séjour ne dépassant pas six mois consécutifs ainsi que les absences motivées par l’accomplissement d’obligations militaires n’affectent pas la validité du titre de séjour.
 
-<sup>7.</sup> Le titre de séjour est valable pour l’ensemble du territoire de l’Etat qui l’a délivré.
+<sup>7.</sup> Le titre de séjour est valable pour l’ensemble du territoire de l’État qui l’a délivré.
 
 <sup>8.</sup> Le droit de séjour demeure tant que les bénéficiaires de ce droit répondent aux conditions prévues au par. 1.
 
@@ -2533,11 +2590,11 @@ Une personne ressortissante d’un Etat membre n’exerçant pas d’activité �
 
 #### Art. 24
 
-<sup>1.</sup> Le ressortissant d’un Etat membre qui a un droit de séjour et qui constitue sa résidence principale dans l’Etat d’accueil bénéficie des mêmes droits qu’un ressortissant national dans le domaine de l’acquisition d’immeubles. Il peut à tout moment établir sa résidence principale dans l’Etat d’accueil, selon les règles nationales, indépendamment de la durée de son emploi. Le départ hors de l’Etat d’accueil n’implique aucune obligation d’aliénation.
+<sup>1.</sup> Le ressortissant d’un État membre qui a un droit de séjour et qui constitue sa résidence principale dans l’État d’accueil bénéficie des mêmes droits qu’un ressortissant national dans le domaine de l’acquisition d’immeubles. Il peut à tout moment établir sa résidence principale dans l’État d’accueil, selon les règles nationales, indépendamment de la durée de son emploi. Le départ hors de l’État d’accueil n’implique aucune obligation d’aliénation.
 
-<sup>2.</sup> Le ressortissant d’un Etat membre qui a un droit de séjour et qui ne constitue pas sa résidence principale dans l’Etat d’accueil bénéficie des mêmes droits qu’un ressortissant national en ce qui concerne l’acquisition des immeubles qui servent à l’exercice d’une activité économique; ces droits n’impliquent aucune obligation d’aliénation lors de son départ de l’Etat d’accueil. Il peut également être autorisé à acquérir une résidence secondaire ou un logement de vacances. L’annexe n’affecte pas les règles en vigueur concernant le placement pur de capitaux et le commerce de terrains non bâtis et de logements.
+<sup>2.</sup> Le ressortissant d’un État membre qui a un droit de séjour et qui ne constitue pas sa résidence principale dans l’État d’accueil bénéficie des mêmes droits qu’un ressortissant national en ce qui concerne l’acquisition des immeubles qui servent à l’exercice d’une activité économique; ces droits n’impliquent aucune obligation d’aliénation lors de son départ de l’État d’accueil. Il peut également être autorisé à acquérir une résidence secondaire ou un logement de vacances. L’annexe n’affecte pas les règles en vigueur concernant le placement pur de capitaux et le commerce de terrains non bâtis et de logements.
 
-<sup>3.</sup> Un frontalier bénéficie des mêmes droits qu’un ressortissant national en ce qui concerne l’acquisition des immeubles qui servent à l’exercice d’une activité économique et d’une résidence secondaire; ces droits n’impliquent aucune obligation d’aliénation lors de son départ de l’Etat d’accueil. Il peut également être autorisé à acquérir un logement de vacances. L’annexe n’affecte pas les règles en vigueur dans l’Etat d’accueil concernant le placement pur de capitaux et le commerce de terrains non bâtis et de logements.
+<sup>3.</sup> Un frontalier bénéficie des mêmes droits qu’un ressortissant national en ce qui concerne l’acquisition des immeubles qui servent à l’exercice d’une activité économique et d’une résidence secondaire; ces droits n’impliquent aucune obligation d’aliénation lors de son départ de l’État d’accueil. Il peut également être autorisé à acquérir un logement de vacances. L’annexe n’affecte pas les règles en vigueur dans l’État d’accueil concernant le placement pur de capitaux et le commerce de terrains non bâtis et de logements.
 
 ### VII. D Dispositions transitoires et développement de l’annexe
 
@@ -2555,10 +2612,10 @@ Une personne ressortissante d’un Etat membre n’exerçant pas d’activité �
 
 <sup>1.</sup> Le titre de séjour d’un travailleur salarié au bénéfice d’un contrat de travail d’une durée inférieure à un an est prolongé jusqu’à une durée totale inférieure à 12 mois, pour autant que le travailleur salarié produise aux autorités nationales compétentes la preuve qu’il peut exercer une activité économique. Un nouveau titre de séjour est délivré pour autant que le travailleur salarié produise la preuve qu’il peut exercer une activité économique et que les limites quantitatives prévues à l’art. 10 de l’annexe ne soient pas atteintes. Il n’y a pas d’obligation de quitter le pays entre deux contrats de travail conformément à l’art. 23 du présent appendice.
 
-<sup>2.</sup> Pendant la période visée à l’art. 10, par. 2 de l’annexe, un Etat membre peut, pour la délivrance d’un titre de séjour initial, exiger un contrat écrit ou une proposition de contrat.
+<sup>2.</sup> Pendant la période visée à l’art. 10, par. 2 de l’annexe, un État membre peut, pour la délivrance d’un titre de séjour initial, exiger un contrat écrit ou une proposition de contrat.
 
-- 3\. a) Les personnes qui ont occupé précédemment des emplois temporaires sur le territoire de l’Etat d’accueil pendant au moins 30 mois ont automatiquement le droit de prendre un emploi de durée non limitée[^annexK-lvlu1-lvlVII-26-1]. Un épuisement éventuel du nombre des titres de séjour garanti ne leur est pas opposable.
-- b) Les personnes qui ont occupé précédemment un emploi saisonnier sur le territoire de l’Etat d’accueil d’une durée totale non inférieure à 50 mois durant les 15 dernières années et qui ne remplissent pas les conditions pour avoir droit à un titre de séjour selon les dispositions du point a) du présent paragraphe ont automatiquement le droit de prendre un emploi de durée non limitée.
+- 3\. a) Les personnes qui ont occupé précédemment des emplois temporaires sur le territoire de l’État d’accueil pendant au moins 30 mois ont automatiquement le droit de prendre un emploi de durée non limitée[^annexK-lvlu1-lvlVII-26-1]. Un épuisement éventuel du nombre des titres de séjour garanti ne leur est pas opposable.
+- b) Les personnes qui ont occupé précédemment un emploi saisonnier sur le territoire de l’État d’accueil d’une durée totale non inférieure à 50 mois durant les 15 dernières années et qui ne remplissent pas les conditions pour avoir droit à un titre de séjour selon les dispositions du point a) du présent paragraphe ont automatiquement le droit de prendre un emploi de durée non limitée.
 
 [^annexK-lvlu1-lvlVII-26-1]: Ils ne sont pas soumis à la priorité des travailleurs indigènes, ni au contrôle du respect des conditions de travail et de salaire dans la branche et le lieu.
 
@@ -2566,9 +2623,9 @@ Une personne ressortissante d’un Etat membre n’exerçant pas d’activité �
 
 **Travailleurs frontaliers salariés**
 
-<sup>1.</sup> Le travailleur frontalier salarié est un ressortissant d’un Etat membre qui a son domicile régulier dans les zones frontalières de la Suisse ou de ses Etats limitrophes et qui exerce une activité salariée dans les zones frontalières de la Suisse ou de ses Etats limitrophes en retournant à sa résidence principale en principe chaque jour, ou pour le moins une fois par semaine. Sont considérées comme zones frontalières au sens de l’annexe les zones définies par les accords conclus entre la Suisse et ses Etats limitrophes relatifs à la circulation frontalière.
+<sup>1.</sup> Le travailleur frontalier salarié est un ressortissant d’un État membre qui a son domicile régulier dans les zones frontalières de la Suisse ou de ses États limitrophes et qui exerce une activité salariée dans les zones frontalières de la Suisse ou de ses États limitrophes en retournant à sa résidence principale en principe chaque jour, ou pour le moins une fois par semaine. Sont considérées comme zones frontalières au sens de l’annexe les zones définies par les accords conclus entre la Suisse et ses États limitrophes relatifs à la circulation frontalière.
 
-<sup>2.</sup> Le titre spécifique est valable pour l’ensemble de la zone frontalière de l’Etat qui l’a délivré.
+<sup>2.</sup> Le titre spécifique est valable pour l’ensemble de la zone frontalière de l’État qui l’a délivré.
 
 #### Art. 28
 
@@ -2578,7 +2635,7 @@ Une personne ressortissante d’un Etat membre n’exerçant pas d’activité �
 
 <sup>2.</sup> Le travailleur frontalier a droit à un nouveau titre spécifique dans un délai de six ans suivant la fin de son activité précédente d’une durée ininterrompue de trois ans, sous réserve d’un contrôle des conditions de rémunération et de travail s’il est salarié pendant les deux ans suivant l’entrée en vigueur de l’annexe, et pour autant qu’il produise aux autorités nationales compétentes la preuve qu’il peut exercer une activité économique.
 
-<sup>3.</sup> Les jeunes qui ont quitté le territoire d’un Etat membre après y avoir séjourné au moins cinq ans avant l’âge de 21 ans auront le droit pendant un délai de quatre ans d’y retourner et d’y exercer une activité économique.
+<sup>3.</sup> Les jeunes qui ont quitté le territoire d’un État membre après y avoir séjourné au moins cinq ans avant l’âge de 21 ans auront le droit pendant un délai de quatre ans d’y retourner et d’y exercer une activité économique.
 
 #### Art. 29
 
@@ -2586,45 +2643,45 @@ Une personne ressortissante d’un Etat membre n’exerçant pas d’activité �
 
 <sup>1.</sup> Le travailleur salarié détenteur d’un titre de séjour de moins d’une année a, pendant les 12 mois qui suivent le début de son emploi, un droit à la mobilité professionnelle et géographique. Le passage d’une activité salariée à une activité indépendante est possible eu égard au respect des dispositions de l’art. 10 de l’annexe.
 
-<sup>2.</sup> Les titres spécifiques délivrés aux travailleurs frontaliers salariés donnent un droit à la mobilité professionnelle et géographique à l’intérieur de l’ensemble des zones frontalières de la Suisse ou de ses Etats limitrophes.
+<sup>2.</sup> Les titres spécifiques délivrés aux travailleurs frontaliers salariés donnent un droit à la mobilité professionnelle et géographique à l’intérieur de l’ensemble des zones frontalières de la Suisse ou de ses États limitrophes.
 
 #### Art. 30
 
 **Réglementation du séjour des indépendants**
 
-Le ressortissant d’un Etat membre désirant s’établir sur le territoire d’un autre Etat membre en vue d’exercer une activité indépendante (ci-après nommé indépendant) reçoit un titre de séjour d’une durée de six mois. Il reçoit un titre de séjour d’une durée de cinq ans au moins pour autant qu’il produise, aux autorités nationales compétentes avant la fin de la période de six mois, la preuve qu’il exerce une activité indépendante. Cette période de six mois peut au besoin être prolongée de deux mois au maximum si celui-ci a de réelles chances de présenter cette preuve.
+Le ressortissant d’un État membre désirant s’établir sur le territoire d’un autre État membre en vue d’exercer une activité indépendante (ci-après nommé indépendant) reçoit un titre de séjour d’une durée de six mois. Il reçoit un titre de séjour d’une durée de cinq ans au moins pour autant qu’il produise, aux autorités nationales compétentes avant la fin de la période de six mois, la preuve qu’il exerce une activité indépendante. Cette période de six mois peut au besoin être prolongée de deux mois au maximum si celui-ci a de réelles chances de présenter cette preuve.
 
 #### Art. 31
 
 **Frontaliers indépendants**
 
-<sup>1.</sup> Le frontalier indépendant est un ressortissant d’un Etat membre qui a son domicile régulier dans les zones frontalières de la Suisse ou de ses Etats limitrophes et qui exerce une activité non salariée dans les zones frontalières de la Suisse ou de ses Etats limitrophes en retournant à sa résidence principale en principe chaque jour, ou pour le moins une fois par semaine. Sont considérées comme zones frontalières au sens de l’annexe les zones définies par les accords conclus entre la Suisse et ses Etats limitrophes relatifs à la circulation frontalière.
+<sup>1.</sup> Le frontalier indépendant est un ressortissant d’un État membre qui a son domicile régulier dans les zones frontalières de la Suisse ou de ses États limitrophes et qui exerce une activité non salariée dans les zones frontalières de la Suisse ou de ses États limitrophes en retournant à sa résidence principale en principe chaque jour, ou pour le moins une fois par semaine. Sont considérées comme zones frontalières au sens de l’annexe les zones définies par les accords conclus entre la Suisse et ses États limitrophes relatifs à la circulation frontalière.
 
-<sup>2.</sup> Le ressortissant d’un Etat membre désirant exercer en tant que frontalier et à titre indépendant une activité dans les zones frontalières de la Suisse ou de ses Etats limitrophes reçoit un titre spécifique préalable d’une durée de six mois. Il reçoit un titre spécifique d’une durée de cinq ans au moins pour autant qu’il produise, avant la fin de la période de 6 mois, aux autorités nationales compétentes la preuve qu’il exerce une activité indépendante. Cette période de 6 mois peut au besoin être prolongée de deux mois au maximum si celui-ci a de réelles chances de présenter cette preuve.
+<sup>2.</sup> Le ressortissant d’un État membre désirant exercer en tant que frontalier et à titre indépendant une activité dans les zones frontalières de la Suisse ou de ses États limitrophes reçoit un titre spécifique préalable d’une durée de six mois. Il reçoit un titre spécifique d’une durée de cinq ans au moins pour autant qu’il produise, avant la fin de la période de 6 mois, aux autorités nationales compétentes la preuve qu’il exerce une activité indépendante. Cette période de 6 mois peut au besoin être prolongée de deux mois au maximum si celui-ci a de réelles chances de présenter cette preuve.
 
-<sup>3.</sup> Le titre spécifique est valable pour l’ensemble de la zone frontalière de l’Etat qui l’a délivré.
+<sup>3.</sup> Le titre spécifique est valable pour l’ensemble de la zone frontalière de l’État qui l’a délivré.
 
 #### Art. 32
 
 **Droit au retour des indépendants**
 
-<sup>1.</sup> L’indépendant qui a été détenteur d’un titre de séjour d’une durée de cinq ans au moins, qui a quitté l’Etat d’accueil, a droit à un nouveau titre de séjour dans un délai de six ans suivant son départ, pour autant qu’il ait déjà travaillé dans le pays d’accueil pendant une durée ininterrompue de trois ans et qu’il produise la preuve aux autorités nationales compétentes qu’il peut exercer une activité économique.
+<sup>1.</sup> L’indépendant qui a été détenteur d’un titre de séjour d’une durée de cinq ans au moins, qui a quitté l’État d’accueil, a droit à un nouveau titre de séjour dans un délai de six ans suivant son départ, pour autant qu’il ait déjà travaillé dans le pays d’accueil pendant une durée ininterrompue de trois ans et qu’il produise la preuve aux autorités nationales compétentes qu’il peut exercer une activité économique.
 
 <sup>2.</sup> Le frontalier indépendant a droit à un nouveau titre spécifique dans un délai de six ans suivant la fin de son activité précédente d’une durée ininterrompue de quatre ans, et pour autant qu’il produise la preuve aux autorités nationales compétentes qu’il peut exercer une activité économique.
 
-<sup>3.</sup> Les jeunes qui ont quitté le territoire d’un Etat membre après y avoir séjourné au moins cinq ans avant l’âge de 21 ans auront le droit pendant un délai de quatre ans d’y retourner et d’y exercer une activité économique.
+<sup>3.</sup> Les jeunes qui ont quitté le territoire d’un État membre après y avoir séjourné au moins cinq ans avant l’âge de 21 ans auront le droit pendant un délai de quatre ans d’y retourner et d’y exercer une activité économique.
 
 #### Art. 33
 
 **Mobilité géographique et professionnelle des indépendants**
 
-Les titres spécifiques délivrés aux frontaliers indépendants donnent un droit à la mobilité professionnelle et géographique à l’intérieur des zones frontalières de la Suisse ou des ses Etats limitrophes. Les titres de séjour (pour les frontaliers: les titres spécifiques) préalables d’une durée de six mois ne donnent un droit qu’à la mobilité géographique.
+Les titres spécifiques délivrés aux frontaliers indépendants donnent un droit à la mobilité professionnelle et géographique à l’intérieur des zones frontalières de la Suisse ou des ses États limitrophes. Les titres de séjour (pour les frontaliers: les titres spécifiques) préalables d’une durée de six mois ne donnent un droit qu’à la mobilité géographique.
 
-Annexe K – Appendice 2*[^t-9]*
+Annexe K – Appendice 2*[^t-10]*
 
 ## Coordination des systèmes de sécurité sociale
 
-[^t-9]: Mise à jour selon la mod. du 13 juil. 2004 ([RO 2005 1525](https://fedlex.data.admin.ch/eli/oc/2005/236)) et les D du Conseil n<sup>o</sup> 4/2007 du 27 nov. 2007 ([RO 2009 605](https://fedlex.data.admin.ch/eli/oc/2009/107)) et n<sup>o</sup> 5/2015 du 12 nov. 2015, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)).
+[^t-10]: Mise à jour selon la mod. du 13 juil. 2004 ([RO 2005 1525](https://fedlex.data.admin.ch/eli/oc/2005/236)) et les D du Conseil n<sup>o</sup> 4/2007 du 27 nov. 2007 ([RO 2009 605](https://fedlex.data.admin.ch/eli/oc/2009/107)) et n<sup>o</sup> 5/2015 du 12 nov. 2015, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)).
 
 (art. 21 de la Convention)
 
@@ -2652,36 +2709,36 @@ Les sections A et B sont applicables aux relations entre le Liechtenstein et la 
 
 - 1\.1
 
-  Les personnes résidant dans l’un des deux Etats sont soumises aux dispositions concernant l’assurance-maladie obligatoire de leur Etat de résidence lorsque:
+  Les personnes résidant dans l’un des deux États sont soumises aux dispositions concernant l’assurance-maladie obligatoire de leur État de résidence lorsque:
 
-  - (a) elles exercent une activité lucrative et sont soumises dans l’un des deux Etats à la législation concernant les autres branches d’assurance sociale;
-  - (b) elles sont soumises à la législation de l’un des deux Etats en tant que bénéficiaire ou demandeur de rentes, conformément au titre III, chap. 1, du règlement;
-  - (c) elles touchent des prestations de l’assurance-chômage de l’un des deux Etats;
-  - (d) elles sont membres de la famille d’une personne soumise, en vertu des let. a) à c), aux dispositions concernant l’assurance-maladie obligatoire de l’un des deux Etats.
+  - (a) elles exercent une activité lucrative et sont soumises dans l’un des deux États à la législation concernant les autres branches d’assurance sociale;
+  - (b) elles sont soumises à la législation de l’un des deux États en tant que bénéficiaire ou demandeur de rentes, conformément au titre III, chap. 1, du règlement;
+  - (c) elles touchent des prestations de l’assurance-chômage de l’un des deux États;
+  - (d) elles sont membres de la famille d’une personne soumise, en vertu des let. a) à c), aux dispositions concernant l’assurance-maladie obligatoire de l’un des deux États.
 
 - 1\.2 L’assujettissement à l’assurance d’indemnités journalières est déterminé par la législation applicable à la personne en raison de son activité lucrative.
-- 1\.3 Les travailleurs qui sont soumis aux dispositions légales suisses en vertu du point 1.1, let. a), et qui sont soumis aux dispositions du Liechtenstein en vertu du point 1.2 ont droit à un subside de la part de leur employeur au Liechtenstein correspondant à la contribution au paiement des primes d’assurance-maladie à la charge des employeurs au Liechtenstein pour leurs employés affiliés au système obligatoire de cet Etat.
-- 1\.4 Par analogie à l’art. 17 du règlement, les travailleurs frontaliers et les membres de leur famille qui sont soumis aux dispositions légales de leur Etat de résidence en matière d’assurance-maladie obligatoire en vertu du point 1.1, let. a) et d), ont droit aux prestations en nature dans l’Etat dans lequel ils exercent leur activité comme s’ils étaient assurés dans cet Etat.
+- 1\.3 Les travailleurs qui sont soumis aux dispositions légales suisses en vertu du point 1.1, let. a), et qui sont soumis aux dispositions du Liechtenstein en vertu du point 1.2 ont droit à un subside de la part de leur employeur au Liechtenstein correspondant à la contribution au paiement des primes d’assurance-maladie à la charge des employeurs au Liechtenstein pour leurs employés affiliés au système obligatoire de cet État.
+- 1\.4 Par analogie à l’art. 17 du règlement, les travailleurs frontaliers et les membres de leur famille qui sont soumis aux dispositions légales de leur État de résidence en matière d’assurance-maladie obligatoire en vertu du point 1.1, let. a) et d), ont droit aux prestations en nature dans l’État dans lequel ils exercent leur activité comme s’ils étaient assurés dans cet État.
 
 ### 2. Assurance-chômage
 
-Un travailleur ou un indépendant au chômage complet qui remplit, au sens l’art. 64, par. 1, du règlement, les conditions pour l’ouverture d’un droit aux prestations selon la législation d’un Etat et qui se rend dans l’autre Etat pour y chercher un emploi reçoit des prestations de l’institution compétente du premier Etat et doit se soumettre à ses prescriptions de contrôle.
+Un travailleur ou un indépendant au chômage complet qui remplit, au sens l’art. 64, par. 1, du règlement, les conditions pour l’ouverture d’un droit aux prestations selon la législation d’un État et qui se rend dans l’autre État pour y chercher un emploi reçoit des prestations de l’institution compétente du premier État et doit se soumettre à ses prescriptions de contrôle.
 
-Annexe K – Appendice 3*[^t-10]*
+Annexe K – Appendice 3*[^t-11]*
 
 ## Reconnaissance mutuelle des qualifications professionnelles
 
-[^t-10]: Mise à jour selon la D n<sup>o</sup> 1/2013 du Conseil du 18 avr. 2013, en vigueur pour la Suisse depuis le 18 avr. 2013, à l’exception du titre II de la directive 2005/36/CE en vigueur pour la Suisse depuis le 2 sept. 2013 ([RO 2014 803](https://fedlex.data.admin.ch/eli/oc/2014/177)).
+[^t-11]: Mise à jour selon la D n<sup>o</sup> 1/2013 du Conseil du 18 avr. 2013, en vigueur pour la Suisse depuis le 18 avr. 2013, à l’exception du titre II de la directive 2005/36/CE en vigueur pour la Suisse depuis le 2 sept. 2013 ([RO 2014 803](https://fedlex.data.admin.ch/eli/oc/2014/177)).
 
 ### (diplômes, certificats et autres titres)
 
 (art. 22 de la Convention)
 
-\1. Les Etats membres conviennent d’appliquer entre eux, dans le domaine de la reconnaissance mutuelle des qualifications professionnelles, les actes communautaires auxquels il est fait référence, tels qu’intégrés dans l’Accord EEE[^annexK-lvlu1-lvlu1-1] et dans l’Accord Suisse – CE sur la libre circulation des personnes[^annexK-lvlu1-lvlu1-2], tels qu’en vigueur au 21 juin 1999 et tels que modifiés par la section A du présent appendice, ou des règles équivalentes à ceux-ci.
+\1. Les États membres conviennent d’appliquer entre eux, dans le domaine de la reconnaissance mutuelle des qualifications professionnelles, les actes communautaires auxquels il est fait référence, tels qu’intégrés dans l’Accord EEE[^annexK-lvlu1-lvlu1-1] et dans l’Accord Suisse – CE sur la libre circulation des personnes[^annexK-lvlu1-lvlu1-2], tels qu’en vigueur au 21 juin 1999 et tels que modifiés par la section A du présent appendice, ou des règles équivalentes à ceux-ci.
 
-\2. Aux fins de l’application du présent appendice, les Etats membres prennent acte des actes communautaires auxquels il est fait référence à la section B du présent appendice tels qu’intégrés dans l’Accord EEE et dans l’Accord Suisse – CE sur la libre circulation des personnes et tels qu’en vigueur au 21 juin 1999.
+\2. Aux fins de l’application du présent appendice, les États membres prennent acte des actes communautaires auxquels il est fait référence à la section B du présent appendice tels qu’intégrés dans l’Accord EEE et dans l’Accord Suisse – CE sur la libre circulation des personnes et tels qu’en vigueur au 21 juin 1999.
 
-\3. L’expression «Etat(s) membre(s)» figurant dans les actes auxquels il est fait référence à la section A du présent appendice doit être considérée s’appliquer aux Etats membres de la présente Convention.
+\3. L’expression «État(s) membre(s)» figurant dans les actes auxquels il est fait référence à la section A du présent appendice doit être considérée s’appliquer aux États membres de la présente Convention.
 
 [^annexK-lvlu1-lvlu1-1]: FF **1992** IV 657
 [^annexK-lvlu1-lvlu1-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
@@ -3041,10 +3098,10 @@ Aux fins de la présente Convention, la directive est adaptée comme suit:
 <tr><td>Islande</td><td>1. B.Sc. í hjúkrunarfræði 2. B.Sc. í hjúkrunarfræði 3. Hjúkrunarpróf</td><td>1. Háskóli Íslands 2. Háskólinn á Akureyri 3. Hjúkrunarskóli Íslands</td><td>Hjúkrunarfræðingur</td><td>1<sup>er</sup> janvier 1994</td></tr>
 <tr><td>Liechtenstein</td><td>Les diplômes, certificats et autres titres délivrés dans un autre État auquel la présente directive s’applique et énumérés dans la présente annexe</td><td>Autorités compétentes</td><td>Krankenschwester – Krankenpfleger</td><td>1<sup>er</sup> mai 1995</td></tr>
 <tr><td>Norvège</td><td>Vitnemål for bestått sykepleier-utdanning</td><td>Høgskole</td><td>Sykepleier</td><td>1<sup>er</sup> janvier 1994</td></tr>
-<tr><td>Suisse</td><td>1. Infirmière diplômée et infirmier diplômé</td><td>Ecoles qui proposent des filières de formation reconnues par l’État</td><td>Infirmière, infirmier</td><td>1<sup>er</sup> juin 2002</td></tr>
+<tr><td>Suisse</td><td>1. Infirmière diplômée et infirmier diplômé</td><td>Écoles qui proposent des filières de formation reconnues par l’État</td><td>Infirmière, infirmier</td><td>1<sup>er</sup> juin 2002</td></tr>
 <tr><td></td><td>Diplomierte Pflegefachfrau, diplomierter Pflegefachmann</td><td>Schulen, die staatlich anerkannte Bildungsgänge durchführen</td><td>Pflegefachfrau, Pflegefachmann</td><td></td></tr>
 <tr><td></td><td>Infermiera diplomata e infermiere diplomato</td><td>Scuole che propongono dei cicli di formazione riconosciuti dallo Stato</td><td>Infermiera, infermiere</td><td></td></tr>
-<tr><td></td><td>2. Bachelor of Science in Pflege</td><td>Ecoles qui proposent des filières de formation reconnues par l’Etat</td><td>Infirmière, infirmier</td><td>30 septembre 2011</td></tr>
+<tr><td></td><td>2. Bachelor of Science in Pflege</td><td>Écoles qui proposent des filières de formation reconnues par l’État</td><td>Infirmière, infirmier</td><td>30 septembre 2011</td></tr>
 <tr><td></td><td>[tab]</td><td>Schulen, die staatlich anerkannte Bildungsgänge durchführen</td><td>Pflegefachfrau, Pflegefachmann</td><td></td></tr>
 <tr><td></td><td>[tab]</td><td>Scuole che propongono dei cicli di formazione riconosciuti dallo Stato</td><td>Infermiera, infermiere</td><td></td></tr>
 </table>
@@ -3100,7 +3157,7 @@ Aux fins de la présente Convention, la directive est adaptée comme suit:
 <tr><td>Islande</td><td>1. Embættispróf í ljósmóðurfræði 2. Próf í ljósmæðrafræðum</td><td>1. Háskóli Íslands [tab] 2. Ljósmæðraskóli Íslands</td><td>Ljósmóðir</td><td>1<sup>er</sup> janvier 1994</td></tr>
 <tr><td>Liechtenstein</td><td>Les diplômes, certificats et autres titres délivrés dans un autre État auquel la présente directive s’applique et énumérés dans la présente annexe</td><td>Autorités compétentes</td><td>Hebamme</td><td>1<sup>er</sup> mai 1995</td></tr>
 <tr><td>Norvège</td><td>Vitnemål for bestått jordmorutdanning</td><td>Høgskole</td><td>Jordmor</td><td>1<sup>er</sup> janvier 1994</td></tr>
-<tr><td>Suisse</td><td>Sage-femme diplômée Diplomierte Hebamme Levatrice diplomata</td><td>Ecoles qui proposent des filières de formation reconnues par l’État Schulen, die staatlich anerkannte Bildungsgänge durchführen Scuole che propongono dei cicli di formazione riconosciuti dallo Stato</td><td>Sage-femme Hebamme Levatrice</td><td>1<sup>er</sup> juin 2002</td></tr>
+<tr><td>Suisse</td><td>Sage-femme diplômée Diplomierte Hebamme Levatrice diplomata</td><td>Écoles qui proposent des filières de formation reconnues par l’État Schulen, die staatlich anerkannte Bildungsgänge durchführen Scuole che propongono dei cicli di formazione riconosciuti dallo Stato</td><td>Sage-femme Hebamme Levatrice</td><td>1<sup>er</sup> juin 2002</td></tr>
 </table>
 
 - (f) Sous le sous-titre «5.6.2 Titres de formation de pharmacien», placé sous le titre «V.6 Pharmacien»:
@@ -3130,7 +3187,7 @@ Aux fins de la présente Convention, la directive est adaptée comme suit:
 <tr><td></td><td>Master of Arts FHNW in Architektur</td><td>Fachhochschule Nordwestschweiz FHNW</td><td>–</td><td>2007–2008</td></tr>
 <tr><td></td><td>Master of Arts FHZ in Architektur</td><td>Fachhochschule Zentralschweiz (FHZ)</td><td>–</td><td>2007–2008</td></tr>
 <tr><td></td><td>Master of Arts ZFH in Architektur</td><td>Zürcher Fachhochschule (ZFH), Zürcher Hochschule für Angewandte Wissenschaften (ZHAW), Departement Architekur, Gestaltung und Bauingenieurwesen</td><td>–</td><td>2007–2008</td></tr>
-<tr><td></td><td>Master of Science MSc in Architecture, Architecte (arch dipl. EPF)</td><td>Ecole Polytechnique Fédérale de Lausanne</td><td></td><td>2007–2008</td></tr>
+<tr><td></td><td>Master of Science MSc in Architecture, Architecte (arch dipl. EPF)</td><td>École Polytechnique Fédérale de Lausanne</td><td></td><td>2007–2008</td></tr>
 <tr><td></td><td>Master of Science ETH in Architektur, «MSc ETH Arch»</td><td>Eidgenössische Technische Hochschule Zürich</td><td></td><td>2007–2008</td></tr>
 </table>
 
@@ -3155,7 +3212,7 @@ modifiée par:
 
 - – **1****79****H:** acte relatif aux conditions d’adhésion de la République hellénique et aux adaptations des traités (JO L 291 du 19.11.1979, p. 91),
 - – **1 85****I:** acte relatif aux conditions d’adhésion du Royaume d’Espagne et de la République portugaise et aux adaptations des traités (JO L 302 du 15.11.1985, p. 160),
-- – **395 D 0001:** la décision 95/1/CE, Euratom, CECA, du Conseil de l’Union européenne, du 1<sup>er</sup> janvier 1995, portant adaptation des instruments relatifs à l’adhésion de nouveaux Etats membres à l’Union Européenne (JO L 1 du 1.1.1995, p. 1),
+- – **395 D 0001:** la décision 95/1/CE, Euratom, CECA, du Conseil de l’Union européenne, du 1<sup>er</sup> janvier 1995, portant adaptation des instruments relatifs à l’adhésion de nouveaux États membres à l’Union Européenne (JO L 1 du 1.1.1995, p. 1),
 - – **1****03****T****:** acte relatif aux conditions d’adhésion de la République tchèque, de la République d’Estonie, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, de la République de Hongrie, de la République de Malte, de la République de Pologne, de la République de Slovénie et de la République slovaque et aux adaptations des traités qui fondent l’Union européenne (JO L 236 du 23.9.2003, p. 33),
 - – **32206 L 0100:** la directive 2006/100/CE du Conseil du 20 novembre 2006 portant adaptation de certaines directives dans le domaine de la libre circulation des personnes, en raison de l’adhésion de la Bulgarie et de la Roumanie (JO L 363 du 20.12.2006, p. 141).
 
@@ -3170,7 +3227,7 @@ Le texte suivant est ajouté à l’art. 1<sup>er</sup>, par. 2:
 <tr><td>En Suisse:</td><td>Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech Avocat Avvocato»</td></tr>
 </table>
 
-\3. **398****L****0005:**directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise (JO L 77 du 14.3.1998, p. 36), modifiée par:
+\3. **398****L****0005:**directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un État membre autre que celui où la qualification a été acquise (JO L 77 du 14.3.1998, p. 36), modifiée par:
 
 - – **1****03****T****:** acte relatif aux conditions d’adhésion de la République tchèque, de la République d’Estonie, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, de la République de Hongrie, de la République de Malte, de la République de Pologne, de la République de Slovénie et de la République slovaque et aux adaptations des traités qui fondent l’Union européenne (JO L 236 du 23.9.2003, p. 33),
 - – **32206 L 0100:** la directive 2006/100/CE du Conseil du 20 novembre 2006 portant adaptation de certaines directives dans le domaine de la libre circulation des personnes, en raison de l’adhésion de la Bulgarie et de la Roumanie (JO L 363 du 20.12.2006, p. 141).
@@ -3194,7 +3251,7 @@ Le texte suivant est ajouté à l’art. 1<sup>er</sup>, par. 2:
 
 \5. **374****L****0557:**directive 74/557/CEE du Conseil du 4 juin 1974 concernant la réalisation de la liberté d’établissement et la libre prestation des services pour les activités non salariées et les activités d’intermédiaires relevant du commerce et de la distribution des produits toxiques (JO L 307 du 18.11.1974, p. 5), modifiée par:
 
-- – **395 D 001:** la décision 95/1/CE, Euratom, CECA, du Conseil de l’Union européenne du 1<sup>er</sup> janvier 1995 portant adaptation des instruments relatifs à l’adhésion de nouveaux Etats membres à l’Union Européenne (JO L 1 du 1.1.1995, p. 1),
+- – **395 D 001:** la décision 95/1/CE, Euratom, CECA, du Conseil de l’Union européenne du 1<sup>er</sup> janvier 1995 portant adaptation des instruments relatifs à l’adhésion de nouveaux États membres à l’Union Européenne (JO L 1 du 1.1.1995, p. 1),
 - – **1****03****T****:** acte relatif aux conditions d’adhésion de la République tchèque, de la République d’Estonie, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, de la République de Hongrie, de la République de Malte, de la République de Pologne, de la République de Slovénie et de la République slovaque et aux adaptations des traités qui fondent l’Union européenne (JO L 236 du 23.9.2003, p. 33),
 - – **32006 L 0101:** la directive 2006/101/CE du Conseil du 20 novembre 2006 portant adaptation des directives 73/239/CEE, 74/557/CEE et 2002/83/CE dans le domaine de la libre prestation de services, en raison de l’adhésion de la Bulgarie et de la Roumanie (JO L 363 du 20.12.2006, p. 238).
 
@@ -3224,11 +3281,11 @@ Le texte suivant doit être inséré dans l’annexe:
 
 ### Agents commerciaux indépendants
 
-\6. **386 L 0653:** directive 86/653/CEE du Conseil du 18 décembre 1986 relative à la coordination des droits des Etats membres concernant les agents commerciaux indépendants (JO L 382 du 31.12.1986, p. 17).
+\6. **386 L 0653:** directive 86/653/CEE du Conseil du 18 décembre 1986 relative à la coordination des droits des États membres concernant les agents commerciaux indépendants (JO L 382 du 31.12.1986, p. 17).
 
-### Section B Actes dont les Etats membres prennent acte
+### Section B Actes dont les États membres prennent acte
 
-Les Etats membres prennent acte de la teneur des actes suivants:
+Les États membres prennent acte de la teneur des actes suivants:
 
 \7. **389 X 0601:** Recommandation 89/601/CEE de la Commission, du 8 novembre 1989, concernant la formation des personnels de santé en matière de cancer (JO L 346 du 27.11.1989, p. 1).
 
@@ -3238,7 +3295,7 @@ La Suisse et le Liechtenstein,
 
 ci-après dénommés les «parties»,
 
-- – considérant que la Suisse, l’Islande et la Norvège, dans le cadre de l’Accord amendant la Convention instituant l’Association européenne de libre-échan-ge, ont conclu un accord sur la circulation des personnes, basé sur l’accord entre la Communauté européenne et ses Etats membres, d’une part, et la Confédération suisse, d’autre part, sur la libre circulation des personnes;
+- – considérant que la Suisse, l’Islande et la Norvège, dans le cadre de l’Accord amendant la Convention instituant l’Association européenne de libre-échan-ge, ont conclu un accord sur la circulation des personnes, basé sur l’accord entre la Communauté européenne et ses États membres, d’une part, et la Confédération suisse, d’autre part, sur la libre circulation des personnes;
 - – considérant que la Suisse et le Liechtenstein ont pour but de conclure également un tel accord;
 - – considérant la situation particulière du Liechtenstein en vertu de laquelle, le Liechtenstein, en tant que membre de l’Espace économique européen (EEE), a négocié une solution spéciale en matière de libre circulation, fondée sur la déclaration du Conseil de l’EEE relative à la libre circulation, laquelle est partie intégrante des conclusions de la deuxième réunion du Conseil de l’EEE du 20 décembre 1994 et selon laquelle le Conseil de l’EEE reconnaît que le Liechtenstein représente un très petit territoire à caractère rural qui abrite un pourcentage exceptionnellement élevé de résidants étrangers actifs, et qui a un intérêt essentiel à protéger son identité nationale;, et considérant également la décision n<sup>o</sup> 191/1999 du Comité mixte de l’EEE du 17 décembre 1999;
 - – considérant la déclaration commune de la Suisse et du Liechtenstein sur les questions d’égalité de traitement du 2 novembre 1994;
@@ -3268,13 +3325,13 @@ Si une mesure de sauvegarde prise par une partie crée un déséquilibre entre l
 
 2.1. Une année après l’entrée en vigueur de l’Accord amendant la Convention instituant l’Association européenne de libre-échange, le Liechtenstein applique aux ressortissants suisses résidant déjà au Liechtenstein un traitement identique à celui qu’il applique aux ressortissants de l’EEE résidant au Liechtenstein.
 
-2.2. A compter de cette même date, la Suisse accorde la libre circulation aux ressortissants du Liechtenstein résidant déjà en Suisse, conformément à l’art. 10, par. 5, de l’annexe VIII de l’Accord amendant la Convention instituant l’Association européenne de libre-échange (Annexe K de la version consolidée de la Convention AELE),
+2.2. À compter de cette même date, la Suisse accorde la libre circulation aux ressortissants du Liechtenstein résidant déjà en Suisse, conformément à l’art. 10, par. 5, de l’annexe VIII de l’Accord amendant la Convention instituant l’Association européenne de libre-échange (Annexe K de la version consolidée de la Convention AELE),
 
 2.3. Au cours de l’année suivant l’entrée en vigueur de l’Accord amendant la Convention instituant l’Association européenne de libre-échange, le Liechtenstein et la Suisse conviennent des règles applicables aux prestations transfrontalières de services de nature commerciale.
 
 2.4. Au cours de la deuxième, voire au plus tard de la troisième année suivant l’entrée en vigueur de l’Accord amendant la Convention instituant l’Association européenne de libre-échange, le Liechtenstein et la Suisse conviennent de l’introduction de l’égalité de traitement entre les ressortissants suisses et les ressortissants de l’EEE non domiciliés au Liechtenstein ainsi que de l’introduction de l’égalité de traitement entre les ressortissants liechtensteinois et les ressortissants de l’UE ou de l’AELE non domiciliés en Suisse.
 
-### B) Concernant le point 29 (Coordination des systèmes de sécurité sociale) ainsi que l’annexe VIII et l’appendice 2 à l’annexe VIII (Annexe K de la version consolidée de la Convention AELE) de l’Accord amendant la Convention instituant l’Association européenne de Libre-Echange:
+### B) Concernant le point 29 (Coordination des systèmes de sécurité sociale) ainsi que l’annexe VIII et l’appendice 2 à l’annexe VIII (Annexe K de la version consolidée de la Convention AELE) de l’Accord amendant la Convention instituant l’Association européenne de Libre-Échange:
 
 Les relations entre la Suisse et le Liechtenstein sont régies par les dispositions de l’annexe VIII (Annexe K de la version consolidée de la Convention AELE) et l’appendice 2 à l’annexe VIII (Annexe K de la version consolidée de la Convention AELE) de l’Accord amendant la Convention instituant l’Association européenne de libre-échange.
 
@@ -3290,9 +3347,9 @@ Vaduz, le 21 juin 2001
 <tr><td>Pour la Confédération suisse Pascal Couchepin</td><td>Pour la Principauté de Liechtenstein Ernst Walch</td></tr>
 </table>
 
-### Déclaration des gouvernements de la Suisse et du Liechtenstein concernant les négociations additionnelles entre la Suisse et le Liechtenstein relatives à l’égalité de traitement des ressortissants d’un Etat dans l’autre
+### Déclaration des gouvernements de la Suisse et du Liechtenstein concernant les négociations additionnelles entre la Suisse et le Liechtenstein relatives à l’égalité de traitement des ressortissants d’un État dans l’autre
 
-En ce qui concerne la mise en oeuvre des par. 2.1. à 2.3. du présent protocole (personnes domiciliées dans l’autre Etat respectif), la Suisse et le Liechtenstein examinent ensemble, d’ici à la fin de l’année 2001, la situation juridique relative à la nécessité d’établir une réglementation en vue d’élaborer un arrangement en la matière entre les deux parties. Par la suite, les travaux portant sur la clarification de la situation juridique visée par le par. 2.4. du présent protocole (personnes non domiciliées dans l’autre Etat respectif) seront entrepris.
+En ce qui concerne la mise en oeuvre des par. 2.1. à 2.3. du présent protocole (personnes domiciliées dans l’autre État respectif), la Suisse et le Liechtenstein examinent ensemble, d’ici à la fin de l’année 2001, la situation juridique relative à la nécessité d’établir une réglementation en vue d’élaborer un arrangement en la matière entre les deux parties. Par la suite, les travaux portant sur la clarification de la situation juridique visée par le par. 2.4. du présent protocole (personnes non domiciliées dans l’autre État respectif) seront entrepris.
 
 Vaduz, le 21 juin 2001
 
@@ -3300,29 +3357,29 @@ Vaduz, le 21 juin 2001
 <tr><td>Pour la Confédération suisse Pascal Couchepin</td><td>Pour la Principauté de Liechtenstein Ernst Walch</td></tr>
 </table>
 
-Annexe L*[^t-11]*
+Annexe L*[^t-12]*
 
 ## Réserves de l’Islande relatives aux investissements et services
 
-[^t-11]: Cette annexe n’est pas publiée dans le présent recueil mais peut être obtenue, sous forme de tiré à part, auprès du SECO, 3003 Berne.
+[^t-12]: Cette annexe n’est pas publiée dans le présent recueil mais peut être obtenue, sous forme de tiré à part, auprès du SECO, 3003 Berne.
 
-Annexe M[^t-12]
+Annexe M[^t-13]
 
 ## Réserves du Liechtenstein relatives aux investissements et services
 
-[^t-12]: Cette annexe n’est pas publiée dans le présent recueil mais peut être obtenue, sous forme de tiré à part, auprès du SECO, 3003 Berne.
+[^t-13]: Cette annexe n’est pas publiée dans le présent recueil mais peut être obtenue, sous forme de tiré à part, auprès du SECO, 3003 Berne.
 
-Annexe N[^t-13]
+Annexe N[^t-14]
 
 ## Réserves de la Norvège relatives aux investissements et services
 
-[^t-13]: Cette annexe n’est pas publiée dans le présent recueil mais peut être obtenue, sous forme de tiré à part, auprès du SECO, 3003 Berne.
+[^t-14]: Cette annexe n’est pas publiée dans le présent recueil mais peut être obtenue, sous forme de tiré à part, auprès du SECO, 3003 Berne.
 
-Annexe O[^t-14]
+Annexe O[^t-15]
 
 ## Réserves de la Suisse relatives aux investissements et services
 
-[^t-14]: Cette annexe n’est pas publiée dans le présent recueil mais peut être obtenue, sous forme de tiré à part, auprès du SECO, 3003 Berne.
+[^t-15]: Cette annexe n’est pas publiée dans le présent recueil mais peut être obtenue, sous forme de tiré à part, auprès du SECO, 3003 Berne.
 
 Annexe P
 
@@ -3336,13 +3393,13 @@ Annexe P
 
 **Principes généraux et objectifs**
 
-<sup>1.</sup> La présente annexe vise à libéraliser l’accès des Etats membres à leurs marchés respectifs des transports routier et ferroviaire des marchandises et des voyageurs de manière à assurer un écoulement plus efficace du trafic sur l’itinéraire techniquement, géographiquement et économiquement le plus adapté pour tous les modes de transport visés par la présente annexe.
+<sup>1.</sup> La présente annexe vise à libéraliser l’accès des États membres à leurs marchés respectifs des transports routier et ferroviaire des marchandises et des voyageurs de manière à assurer un écoulement plus efficace du trafic sur l’itinéraire techniquement, géographiquement et économiquement le plus adapté pour tous les modes de transport visés par la présente annexe.
 
 <sup>2.</sup> Les dispositions de la présente annexe et leur application sont fondées sur les principes de réciprocité, de territorialité, de transparence et du libre choix du mode de transport.
 
-<sup>3.</sup> Les Etats membres s’engagent à ne pas prendre de mesures discriminatoires dans le cadre de l’application de la présente annexe.
+<sup>3.</sup> Les États membres s’engagent à ne pas prendre de mesures discriminatoires dans le cadre de l’application de la présente annexe.
 
-<sup>4.</sup> L’application de la présente annexe est également fondée, dans les limites des compétences des Etats membres, sur les principes et les objectifs d’une mobilité durable et d’une politique des transports coordonnée dans les régions alpines tels qu’ils figurent dans le chap. 4 de l’accord du 21 juin 1999 sur les transports terrestres entre la Suisse et la CE[^annexP-lvlu1-titI-1-1] (ci-après accord Suisse-CE)
+<sup>4.</sup> L’application de la présente annexe est également fondée, dans les limites des compétences des États membres, sur les principes et les objectifs d’une mobilité durable et d’une politique des transports coordonnée dans les régions alpines tels qu’ils figurent dans le chap. 4 de l’accord du 21 juin 1999 sur les transports terrestres entre la Suisse et la CE[^annexP-lvlu1-titI-1-1] (ci-après accord Suisse-CE)
 
 [^annexP-lvlu1-titI-1-1]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
 
@@ -3350,11 +3407,11 @@ Annexe P
 
 **Champ d’application**
 
-<sup>1.</sup> La présente annexe s’applique aux transports bilatéraux routiers de voyageurs et de marchandises entre les Etats membres, au transit par le territoire des Etats membres sous réserve de l’art. 7, par. 3 et aux opérations de transports routiers de marchandises et de voyageurs à caractère triangulaire.
+<sup>1.</sup> La présente annexe s’applique aux transports bilatéraux routiers de voyageurs et de marchandises entre les États membres, au transit par le territoire des États membres sous réserve de l’art. 7, par. 3 et aux opérations de transports routiers de marchandises et de voyageurs à caractère triangulaire.
 
 <sup>2.</sup> La présente annexe s’applique au transport ferroviaire international de voyageurs et de marchandises, ainsi qu’au transport combiné international. Il ne s’applique pas aux entreprises ferroviaires dont l’activité est limitée à l’exploitation des seuls transports urbains, suburbains ou régionaux.
 
-<sup>3.</sup> La présente annexe s’applique aux transports effectués par des entreprises de transport routier ou par des entreprises ferroviaires établies dans l’un des Etats membres.
+<sup>3.</sup> La présente annexe s’applique aux transports effectués par des entreprises de transport routier ou par des entreprises ferroviaires établies dans l’un des États membres.
 
 #### Art. 3
 
@@ -3367,24 +3424,24 @@ Aux fins de la présente annexe, on entend par:
 - – profession de transporteur de marchandises par route: l’activité de toute entreprise effectuant, au moyen soit d’un véhicule à moteur, soit d’un ensemble de véhicules, le transport de marchandises pour le compte d’autrui;
 - – profession de transporteur de voyageurs par route: l’activité de toute entreprise effectuant, pour le compte d’autrui des transports internationaux de voyageurs par autocars et autobus;
 - – entreprise: toute personne physique, toute personne juridique avec ou sans but lucratif, toute association ou tout groupement de personnes sans personnalité juridique et avec ou sans but lucratif, ainsi que tout organisme relevant de l’autorité publique, qu’il soit doté d’une personnalité juridique propre ou qu’il dépende d’une autorité ayant cette personnalité;
-- – véhicule: véhicule à moteur immatriculé dans un Etat membre ou ensemble de véhicules dont au moins le véhicule moteur est immatriculé dans un Etat membre, destiné exclusivement au transport de marchandises, ou tout véhicule à moteur qui d’après son type de construction et son équipement est apte à transporter plus de 9 personnes, le conducteur compris, et destiné à cet effet;
-- – transport international: déplacement d’un véhicule dont le point de départ se trouve sur le territoire d’un Etat membre et dont la destination est située sur le territoire d’un autre Etat membre ou dans un pays tiers et vice-versa, ainsi que le déplacement à vide lié au parcours précité; dans le cas où le point de départ ou de destination du déplacement est situé dans un pays tiers, le transport doit être effectué par un véhicule immatriculé dans l’Etat membre où le point de départ ou de destination du déplacement est situé;
-- – transit: le transport de marchandises ou de voyageurs (effectué sans chargement ou déchargement), ainsi que le déplacement à vide à travers le territoire d’un Etat membre;
-- – opérations de transport triangulaire avec des pays tiers: tout transport de marchandises ou de voyageurs effectué au départ d’un Etat membre vers un pays tiers, et vice-versa, par un véhicule immatriculé dans un autre Etat membre, que le véhicule transite ou non, au cours du même voyage et selon l’itinéraire normal, par le pays dans lequel il est immatriculé;
-- – autorisation: autorisation, licence ou concession exigible selon la législation de l’Etat membre;
+- – véhicule: véhicule à moteur immatriculé dans un État membre ou ensemble de véhicules dont au moins le véhicule moteur est immatriculé dans un État membre, destiné exclusivement au transport de marchandises, ou tout véhicule à moteur qui d’après son type de construction et son équipement est apte à transporter plus de 9 personnes, le conducteur compris, et destiné à cet effet;
+- – transport international: déplacement d’un véhicule dont le point de départ se trouve sur le territoire d’un État membre et dont la destination est située sur le territoire d’un autre État membre ou dans un pays tiers et vice-versa, ainsi que le déplacement à vide lié au parcours précité; dans le cas où le point de départ ou de destination du déplacement est situé dans un pays tiers, le transport doit être effectué par un véhicule immatriculé dans l’État membre où le point de départ ou de destination du déplacement est situé;
+- – transit: le transport de marchandises ou de voyageurs (effectué sans chargement ou déchargement), ainsi que le déplacement à vide à travers le territoire d’un État membre;
+- – opérations de transport triangulaire avec des pays tiers: tout transport de marchandises ou de voyageurs effectué au départ d’un État membre vers un pays tiers, et vice-versa, par un véhicule immatriculé dans un autre État membre, que le véhicule transite ou non, au cours du même voyage et selon l’itinéraire normal, par le pays dans lequel il est immatriculé;
+- – autorisation: autorisation, licence ou concession exigible selon la législation de l’État membre;
 
 <sup>2.</sup> Transports ferroviaires
 
 Aux fins de la présente annexe, on entend par:
 
 - – entreprise ferroviaire: toute entreprise à statut privé ou public dont l’activité principale est la fourniture de prestations de transport de marchandises et/ou de voyageurs par chemin de fer, la traction devant obligatoirement être assurée par cette entreprise;
-- – regroupement international: toute association d’au moins deux entreprises ferroviaires établies dans des Etats membres différents l’une d’entre elles étant établie en Suisse en vue de fournir des prestations de transports internationaux entre les Etats membres.
+- – regroupement international: toute association d’au moins deux entreprises ferroviaires établies dans des États membres différents l’une d’entre elles étant établie en Suisse en vue de fournir des prestations de transports internationaux entre les États membres.
 - – gestionnaire de l’infrastructure: toute entité publique ou entreprise chargée notamment de l’établissement et de l’entretien de l’infrastructure ferroviaire, ainsi que de la gestion des systèmes de régulation et de sécurité;
-- – licence: une autorisation accordée par l’autorité compétente d’un Etat membre à une entreprise à laquelle la qualité d’entreprise ferroviaire est reconnue par ladite autorisation. Cette qualité peut être limitée à l’exploitation de certains types de services de transport;
-- – autorité responsable des licences: les organismes chargés par chaque Etat membre de délivrer les licences;
+- – licence: une autorisation accordée par l’autorité compétente d’un État membre à une entreprise à laquelle la qualité d’entreprise ferroviaire est reconnue par ladite autorisation. Cette qualité peut être limitée à l’exploitation de certains types de services de transport;
+- – autorité responsable des licences: les organismes chargés par chaque État membre de délivrer les licences;
 - – sillon: la capacité d’infrastructure requise pour faire circuler un train donné d’un point à un autre à un moment donné;
 - – répartition: l’affectation des capacités d’infrastructure ferroviaire par un organisme de répartition;
-- – organisme de répartition: l’autorité et/ou le gestionnaire de l’infrastructure chargé par un des Etats membres de répartir les capacités d’infrastructure;
+- – organisme de répartition: l’autorité et/ou le gestionnaire de l’infrastructure chargé par un des États membres de répartir les capacités d’infrastructure;
 - – services urbains et suburbains: les services de transport répondant aux besoins d’un centre urbain ou d’une agglomération, ainsi qu’aux besoins de transports entre ce centre ou cette agglomération et ses banlieues;
 - – services régionaux: les services de transport destinés à répondre aux besoins de transports d’une région;
 - – transport combiné: les transports de marchandises effectués par des véhicules routiers ou des unités de chargement qui sont acheminés par chemin de fer pour une partie du trajet et par route pour les parcours initiaux et/ou terminaux.
@@ -3393,7 +3450,7 @@ Aux fins de la présente annexe, on entend par:
 
 **Accords bilatéraux existants**
 
-<sup>1.</sup> Sous réserve des dérogations introduites par la présente annexe, les droits et obligations des Etats membres résultant des accords bilatéraux conclus entre eux ne sont pas affectés par les dispositions de la présente annexe.
+<sup>1.</sup> Sous réserve des dérogations introduites par la présente annexe, les droits et obligations des États membres résultant des accords bilatéraux conclus entre eux ne sont pas affectés par les dispositions de la présente annexe.
 
 <sup>2.</sup> Les accords bilatéraux existant entre le Liechtenstein et la Suisse, énumérés à l’appendice 9, prévalent en ce qui concerne les transports internationaux, le cabotage, le transit et les transports triangulaires.
 
@@ -3429,9 +3486,9 @@ Les dispositions applicables en matière sociale figurent dans la section 2 de l
 
 <sup>1.</sup> Les dispositions sur les normes techniques applicables dans ce domaine figurent dans la section 3 de l’appendice 1.
 
-<sup>2.</sup> Chaque Etat membre s’engage à ne pas soumettre les véhicules homologués dans un autre Etat membre à des conditions plus restrictives que celles qui sont en vigueur dans son propre territoire.
+<sup>2.</sup> Chaque État membre s’engage à ne pas soumettre les véhicules homologués dans un autre État membre à des conditions plus restrictives que celles qui sont en vigueur dans son propre territoire.
 
-<sup>3.</sup> Vu les principes de non-discrimination, de proportionnalité, de territorialité et de transparence, les Etats membres appliquent aux véhicules des autres Etats membres, de la même manière qu’ils le font à leurs propres véhicules, les mêmes règles concernant la limite de poids, les redevances routières et, là où elle est applicable, l’interdiction de circuler la nuit et le dimanche.
+<sup>3.</sup> Vu les principes de non-discrimination, de proportionnalité, de territorialité et de transparence, les États membres appliquent aux véhicules des autres États membres, de la même manière qu’ils le font à leurs propres véhicules, les mêmes règles concernant la limite de poids, les redevances routières et, là où elle est applicable, l’interdiction de circuler la nuit et le dimanche.
 
 <sup>4.</sup> Les exemptions aux règles de la Suisse relatives à la limite de poids et à l’interdiction de circuler la nuit et le dimanche sont énumérées à l’appendice 6.
 
@@ -3439,7 +3496,7 @@ Les dispositions applicables en matière sociale figurent dans la section 2 de l
 
 **Régime transitoire pour le poids des véhicules**
 
-<sup>1.</sup> Les transports de marchandises exécutés au moyen d’un véhicule dont le poids total effectif en charge dépasse 34 tonnes (entre le 1<sup>er</sup> janvier 2001 et le 31 décembre 2004) mais ne dépasse pas 40 tonnes, et effectués en provenance d’un autre Etat membre à destination d’un lieu situé au-delà de la zone suisse proche de la frontière, telle que définie à l’appendice 10, (et inversement) ou effectués en transit à travers la Suisse, sont soumis à contingentement moyennant paiement d’une redevance pour l’utilisation de l’infrastructure, selon les modalités prévues aux par. 2 et 3 ci-dessous.
+<sup>1.</sup> Les transports de marchandises exécutés au moyen d’un véhicule dont le poids total effectif en charge dépasse 34 tonnes (entre le 1<sup>er</sup> janvier 2001 et le 31 décembre 2004) mais ne dépasse pas 40 tonnes, et effectués en provenance d’un autre État membre à destination d’un lieu situé au-delà de la zone suisse proche de la frontière, telle que définie à l’appendice 10, (et inversement) ou effectués en transit à travers la Suisse, sont soumis à contingentement moyennant paiement d’une redevance pour l’utilisation de l’infrastructure, selon les modalités prévues aux par. 2 et 3 ci-dessous.
 
 <sup>2.</sup> L’Islande reçoit un contingent de 4 autorisations, le Liechtenstein un contingent de 4000 autorisations et la Norvège un contingent de 900 autorisations tant pour l’année 2001 que pour l’année 2002.
 
@@ -3447,15 +3504,15 @@ Les dispositions applicables en matière sociale figurent dans la section 2 de l
 
 <sup>4.</sup> L’utilisation des autorisations prévues aux par. 2 et 3 est subordonnée, pour chaque opérateur, à l’acquittement d’une redevance concernant l’emploi de l’infra-structure, calculée et perçue selon les procédures mentionnées à l’appendice 2.
 
-<sup>5.</sup> A partir du 1<sup>er</sup> janvier 2005, les véhicules répondant aux normes prévues dans la législation suisse sur les limites du poids maximal admissible des véhicules utilisés en trafic international sont exempts de tout régime de contingent ou d’autorisation.
+<sup>5.</sup> À partir du 1<sup>er</sup> janvier 2005, les véhicules répondant aux normes prévues dans la législation suisse sur les limites du poids maximal admissible des véhicules utilisés en trafic international sont exempts de tout régime de contingent ou d’autorisation.
 
 ### B. Transports internationaux routiers de marchandises
 
 #### Art. 9
 
-**Transports de marchandises entre les territoires des Etats membres**
+**Transports de marchandises entre les territoires des États membres**
 
-<sup>1.</sup> Les transports internationaux de marchandises par route pour compte d’autrui ainsi que les voyages à vide effectués entre les territoires des Etats membres sont exécutés sous le couvert de l’autorisation pour les transporteurs établie dans le Règlement (CEE) n<sup>o</sup> 881/92 telle qu’elle est incorporée dans l’accord EEE et dans l’accord Suisse-CE, dont le modèle figure à l’appendice 3, et sous le couvert d’une autorisation similaire suisse pour les transporteurs suisses.
+<sup>1.</sup> Les transports internationaux de marchandises par route pour compte d’autrui ainsi que les voyages à vide effectués entre les territoires des États membres sont exécutés sous le couvert de l’autorisation pour les transporteurs établie dans le Règlement (CEE) n<sup>o</sup> 881/92 telle qu’elle est incorporée dans l’accord EEE et dans l’accord Suisse-CE, dont le modèle figure à l’appendice 3, et sous le couvert d’une autorisation similaire suisse pour les transporteurs suisses.
 
 <sup>2.</sup> Les transports mentionnés à l’appendice 4 sont libérés de tout régime de licence et de toute autorisation de transport.
 
@@ -3463,9 +3520,9 @@ Les dispositions applicables en matière sociale figurent dans la section 2 de l
 
 #### Art. 10
 
-**Transports de marchandises en transit à travers le territoire des Etats membres**
+**Transports de marchandises en transit à travers le territoire des États membres**
 
-<sup>1.</sup> Les transports internationaux de marchandises par route pour compte d’autrui, ainsi que les voyages à vide effectués en transit par les territoires des Etats membres sont libéralisés. Ces transports sont effectués sous le couvert des licences visées à l’art. 9.
+<sup>1.</sup> Les transports internationaux de marchandises par route pour compte d’autrui, ainsi que les voyages à vide effectués en transit par les territoires des États membres sont libéralisés. Ces transports sont effectués sous le couvert des licences visées à l’art. 9.
 
 <sup>2.</sup> Les par. 2 et 3 de l’art. 9 sont applicables.
 
@@ -3473,15 +3530,15 @@ Les dispositions applicables en matière sociale figurent dans la section 2 de l
 
 **Opérations de transport triangulaire avec des pays tiers**
 
-<sup>1.</sup> Le régime régissant les transports triangulaires avec des pays tiers sera déterminé d’un commun accord après la conclusion de l’accord nécessaire entre n’importe quel Etat membre et le pays tiers en question. Ces accords sont destinés à assurer la réciprocité de traitement entre les opérateurs des Etats membres pour ces transports triangulaires.
+<sup>1.</sup> Le régime régissant les transports triangulaires avec des pays tiers sera déterminé d’un commun accord après la conclusion de l’accord nécessaire entre n’importe quel État membre et le pays tiers en question. Ces accords sont destinés à assurer la réciprocité de traitement entre les opérateurs des États membres pour ces transports triangulaires.
 
-<sup>2.</sup> Dans l’attente de la conclusion d’accords entre les Etats membres et les pays tiers concernés, la présente annexe n’affecte pas les dispositions relatives à ces transports triangulaires et qui figurent dans des accords bilatéraux conclus entre les Etats membres concernant le transport avec les pays tiers. Une liste de ces droits est reprise à l’appendice 5 de la présente annexe.
+<sup>2.</sup> Dans l’attente de la conclusion d’accords entre les États membres et les pays tiers concernés, la présente annexe n’affecte pas les dispositions relatives à ces transports triangulaires et qui figurent dans des accords bilatéraux conclus entre les États membres concernant le transport avec les pays tiers. Une liste de ces droits est reprise à l’appendice 5 de la présente annexe.
 
 #### Art. 12
 
-**Transport entre deux points situés sur le territoire d’un Etat membre**
+**Transport entre deux points situés sur le territoire d’un État membre**
 
-Les transports entre deux points situés sur le territoire d’un Etat membre et effectués par un véhicule immatriculé dans un autre Etat membre ne sont pas autorisés en vertu de la présente annexe.
+Les transports entre deux points situés sur le territoire d’un État membre et effectués par un véhicule immatriculé dans un autre État membre ne sont pas autorisés en vertu de la présente annexe.
 
 ### C. Transports internationaux de voyageurs en autocar et autobus
 
@@ -3493,14 +3550,14 @@ Les transports entre deux points situés sur le territoire d’un Etat membre et
 
 Tout transporteur pour compte d’autrui est admis à effectuer les services de transport définis à l’art. 1 de l’appendice 7 sans discrimination en raison de sa nationalité ou de son lieu d’établissement, à condition:
 
-- – d’être habilité dans l’Etat membre où le transporteur est établi à effectuer des transports par autocars et autobus, sous forme de services réguliers, y compris les services réguliers spécialisés, ou de services occasionnels,
+- – d’être habilité dans l’État membre où le transporteur est établi à effectuer des transports par autocars et autobus, sous forme de services réguliers, y compris les services réguliers spécialisés, ou de services occasionnels,
 - – de satisfaire aux réglementations en matière de sécurité routière en ce qui concerne les normes applicables aux conducteurs et aux véhicules.
 
 <sup>2.</sup>
 
 Tout transporteur pour compte propre est admis à effectuer les services de transport visés à l’art. 1, point 3 de l’appendice 7 sans discrimination en raison de la nationalité ou du lieu d’établissement, à condition:
 
-- – d’être habilité dans l’Etat membre où le transporteur est établi à effectuer des transports par autocars et autobus d’après les conditions d’accès au marché fixées par la législation nationale,
+- – d’être habilité dans l’État membre où le transporteur est établi à effectuer des transports par autocars et autobus d’après les conditions d’accès au marché fixées par la législation nationale,
 - – de satisfaire aux réglementations en matière de sécurité routière en ce qui concerne les normes applicables aux conducteurs et aux véhicules.
 
 <sup>3.</sup> En vue de l’exécution de transports internationaux de voyageurs effectués par autocars et autobus, tout transporteur qui répond aux critères établis au par. 1, doit être en possession d’une licence appropriée. Le modèle, les procédures régissant la délivrance, l’utilisation, le renouvellement des licences sont couverts par les dispositions du Règlement (CEE) n<sup>o</sup> 684/92, tel que modifié par le règlement (CE) n<sup>o</sup> 11/98, tels qu’ils figurent dans l’accord EEE, l’accord Suisse-CE et la législation suisse équivalente.
@@ -3511,13 +3568,13 @@ Tout transporteur pour compte propre est admis à effectuer les services de tran
 
 <sup>1.</sup> Les services occasionnels définis à l’art. 1, ch. 2.1, de l’appendice 7 sont exemptés de toute autorisation.
 
-<sup>2.</sup> Les services réguliers spécialisés définis à l’art. 1, ch. 1.2 de l’appendice 7 sont exemptés d’autorisation à condition d’être couverts, sur le territoire des Etats membres autres que celui de la Suisse, par un contrat conclu entre l’organisateur et le transporteur.
+<sup>2.</sup> Les services réguliers spécialisés définis à l’art. 1, ch. 1.2 de l’appendice 7 sont exemptés d’autorisation à condition d’être couverts, sur le territoire des États membres autres que celui de la Suisse, par un contrat conclu entre l’organisateur et le transporteur.
 
 <sup>3.</sup> Les déplacements à vide des véhicules en rapport avec les transports visés aux par. 1 et 2 sont également exemptés de toute autorisation.
 
 <sup>4.</sup> Les services réguliers sont soumis à autorisation conformément aux art. 2 ss de l’appendice 7.
 
-<sup>5.</sup> Les services réguliers spécialisés non couverts par un contrat conclu entre l’organisateur et le transporteur sont soumis à autorisation sur le territoire des Etats membres autres que celui de la Suisse, conformément aux art. 2 ss de l’appendice 7. En Suisse, de tels services sont exemptés de toute autorisation.
+<sup>5.</sup> Les services réguliers spécialisés non couverts par un contrat conclu entre l’organisateur et le transporteur sont soumis à autorisation sur le territoire des États membres autres que celui de la Suisse, conformément aux art. 2 ss de l’appendice 7. En Suisse, de tels services sont exemptés de toute autorisation.
 
 <sup>6.</sup> Les transports par route pour compte propre définis à l’art. 1, point 3, de l’appendice 7 sont exemptés d’autorisation.
 
@@ -3525,17 +3582,17 @@ Tout transporteur pour compte propre est admis à effectuer les services de tran
 
 **Opérations triangulaires avec des pays tiers**
 
-<sup>1.</sup> Le régime régissant les transports triangulaires avec des pays tiers sera déterminé d’un commun accord après la conclusion de l’accord nécessaire entre n’importe quel Etat membre et le pays tiers en question. Ces accords sont destinés à assurer la réciprocité de traitement entre les opérateurs des Etats membres pour ces transports triangulaires.
+<sup>1.</sup> Le régime régissant les transports triangulaires avec des pays tiers sera déterminé d’un commun accord après la conclusion de l’accord nécessaire entre n’importe quel État membre et le pays tiers en question. Ces accords sont destinés à assurer la réciprocité de traitement entre les opérateurs des États membres pour ces transports triangulaires.
 
-<sup>2.</sup> Dans l’attente de la conclusion d’accords entre les Etats membres et les pays tiers concernés, la présente annexe n’affecte pas les dispositions relatives au transport visé dans des accords bilatéraux conclus entre les Etats membres concernant le transport avec les pays tiers. Une liste de ces droits est reprise à l’appendice 8 de la présente annexe.
+<sup>2.</sup> Dans l’attente de la conclusion d’accords entre les États membres et les pays tiers concernés, la présente annexe n’affecte pas les dispositions relatives au transport visé dans des accords bilatéraux conclus entre les États membres concernant le transport avec les pays tiers. Une liste de ces droits est reprise à l’appendice 8 de la présente annexe.
 
 #### Art. 16
 
-**Opérations de transport entre deux points situés sur le territoire d’un même Etat membre**
+**Opérations de transport entre deux points situés sur le territoire d’un même État membre**
 
-<sup>1.</sup> Les opérations de transport entre deux points situés sur le territoire d’un même Etat membre effectuées par des transporteurs établis dans un autre Etat membre ne sont pas autorisées en vertu de la présente annexe.
+<sup>1.</sup> Les opérations de transport entre deux points situés sur le territoire d’un même État membre effectuées par des transporteurs établis dans un autre État membre ne sont pas autorisées en vertu de la présente annexe.
 
-<sup>2.</sup> Toutefois, les droits existants découlant des accords bilatéraux conclus entre les Etats membres et encore en vigueur continuent à pouvoir être exercés, à condition qu’aucune discrimination ne soit exercée entre les transporteurs et qu’il n’y ait pas de distorsions de concurrence. Une liste de ces droits est reprise à l’appendice 8 de la présente annexe.
+<sup>2.</sup> Toutefois, les droits existants découlant des accords bilatéraux conclus entre les États membres et encore en vigueur continuent à pouvoir être exercés, à condition qu’aucune discrimination ne soit exercée entre les transporteurs et qu’il n’y ait pas de distorsions de concurrence. Une liste de ces droits est reprise à l’appendice 8 de la présente annexe.
 
 #### Art. 17
 
@@ -3555,7 +3612,7 @@ Les autorisations des services existant à la date d’entrée en vigueur de la 
 
 **Indépendance de gestion**
 
-Les Etats membres s’engagent à:
+Les États membres s’engagent à:
 
 - – garantir l’indépendance de gestion des entreprises ferroviaires, notamment en les dotant d’un statut d’indépendance leur permettant d’ajuster au marché leurs activités et de les gérer sous la responsabilité de leurs organes de direction;
 - – séparer la gestion de l’infrastructure ferroviaire de l’exploitation des services de transports des entreprises ferroviaires, au moins sur le plan comptable; l’aide versée à l’une de ces deux activités ne peut pas être transférée à l’autre.
@@ -3566,7 +3623,7 @@ Les Etats membres s’engagent à:
 
 <sup>1.</sup> Les entreprises ferroviaires et les regroupements internationaux ont les droits d’accès et/ou de transit définis par la législation communautaire à laquelle il est fait référence dans l’appendice 1, section 4, tels qu’ils figurent dans l’accord EEE et dans l’accord Suisse-CE.
 
-<sup>2.</sup> Les entreprises ferroviaires établies sur le territoire d’un Etat membre se voient accorder un droit d’accès à l’infrastructure sur le territoire des autres Etats membres aux fins de l’exploitation des services de transports combinés internationaux.
+<sup>2.</sup> Les entreprises ferroviaires établies sur le territoire d’un État membre se voient accorder un droit d’accès à l’infrastructure sur le territoire des autres États membres aux fins de l’exploitation des services de transports combinés internationaux.
 
 <sup>3.</sup> Les entreprises ferroviaires et les regroupements internationaux exploitant leur droits d’accès respectivement de transit concluent les accords administratifs, techniques et financiers requis avec les gestionnaires de l’infrastructure ferroviaire utilisée afin de régler les questions de régulation et de sécurité du trafic relatives aux services de transports internationaux visés aux par. 1 et 2.
 
@@ -3576,13 +3633,13 @@ Les Etats membres s’engagent à:
 
 <sup>1.</sup> L’octroi d’une licence appropriée au type de service ferroviaire en question est un préalable à toute demande d’accès ou de transit de l’infrastructure ferroviaire et, donc, au droit d’exploiter des services de transport. Cette licence ne donne pas droit par elle-même à l’accès à l’infrastructure ferroviaire.
 
-<sup>2.</sup> Une entreprise ferroviaire a le droit de demander une licence dans l’Etat membre où elle est établie. Les licences ne sont ni accordées ni prorogées par les Etats membres lorsque les exigences de la présente annexe ne sont pas réunies.
+<sup>2.</sup> Une entreprise ferroviaire a le droit de demander une licence dans l’État membre où elle est établie. Les licences ne sont ni accordées ni prorogées par les États membres lorsque les exigences de la présente annexe ne sont pas réunies.
 
-<sup>3.</sup> Les licences sont délivrées par l’autorité responsable des licences spécialement désignées aux entreprises existantes et nouvelles sous la responsabilité des Etats membres.
+<sup>3.</sup> Les licences sont délivrées par l’autorité responsable des licences spécialement désignées aux entreprises existantes et nouvelles sous la responsabilité des États membres.
 
-<sup>4.</sup> Les licences sont reconnues dans les Etats membres sur une base de réciprocité.
+<sup>4.</sup> Les licences sont reconnues dans les États membres sur une base de réciprocité.
 
-<sup>5.</sup> Elles sont soumises à des exigences fixées par les Etats membres en matière d’honorabilité, de capacité financière et capacité professionnelle, ainsi que de couverture en responsabilité civile, et ce pendant toute la durée de leur validité. Les dispositions applicables en la matière figurent dans la section 4 de l’appendice 1.
+<sup>5.</sup> Elles sont soumises à des exigences fixées par les États membres en matière d’honorabilité, de capacité financière et capacité professionnelle, ainsi que de couverture en responsabilité civile, et ce pendant toute la durée de leur validité. Les dispositions applicables en la matière figurent dans la section 4 de l’appendice 1.
 
 <sup>6.</sup> Les licences restent valables aussi longtemps que l’entreprise ferroviaire remplit les obligations prévues par les dispositions légales susmentionnées. Toutefois, l’autorité responsable peut en prescrire le réexamen à intervalles réguliers.
 
@@ -3592,11 +3649,11 @@ Les Etats membres s’engagent à:
 
 **Attribution du certificat de sécurité**
 
-<sup>1.</sup> Les Etats membres prévoient l’obligation pour les entreprises ferroviaires de présenter en outre un certificat de sécurité fixant les exigences imposées aux entreprises ferroviaires en matière de sécurité en vue d’assurer un service sans danger sur les trajets concernés.
+<sup>1.</sup> Les États membres prévoient l’obligation pour les entreprises ferroviaires de présenter en outre un certificat de sécurité fixant les exigences imposées aux entreprises ferroviaires en matière de sécurité en vue d’assurer un service sans danger sur les trajets concernés.
 
-<sup>2.</sup> L’entreprise ferroviaire peut demander le certificat de sécurité auprès d’une instance désignée par l’Etat membre sur le territoire duquel se trouve l’infrastructure empruntée.
+<sup>2.</sup> L’entreprise ferroviaire peut demander le certificat de sécurité auprès d’une instance désignée par l’État membre sur le territoire duquel se trouve l’infrastructure empruntée.
 
-<sup>3.</sup> En vue de l’obtention du certificat de sécurité, l’entreprise ferroviaire doit respecter les prescriptions de la législation de l’Etat membre pour la partie du parcours situé sur le territoire de cet Etat membre.
+<sup>3.</sup> En vue de l’obtention du certificat de sécurité, l’entreprise ferroviaire doit respecter les prescriptions de la législation de l’État membre pour la partie du parcours situé sur le territoire de cet État membre.
 
 #### Art. 23
 
@@ -3604,31 +3661,31 @@ Les Etats membres s’engagent à:
 
 <sup>1.</sup>
 
-Chaque Etat membre désigne le responsable de la répartition des capacités, qu’il s’agisse d’une autorité spécifique ou du gestionnaire de l’infrastructure. L’organisme de répartition, qui aura connaissance de l’ensemble des sillons disponibles, veille notamment à ce que:
+Chaque État membre désigne le responsable de la répartition des capacités, qu’il s’agisse d’une autorité spécifique ou du gestionnaire de l’infrastructure. L’organisme de répartition, qui aura connaissance de l’ensemble des sillons disponibles, veille notamment à ce que:
 
 - – la capacité d’infrastructure ferroviaire soit répartie sur une base équitable et non discriminatoire,
 - – la procédure de répartition permette une utilisation efficace et optimale de l’infrastructure sous réserve des par. 3 et 4 du présent article.
 
-<sup>2.</sup> L’entreprise ferroviaire ou le regroupement international qui demande l’attribution d’un ou de plusieurs sillons s’adresse à l’(aux) organisme(s) de répartition de l’Etat membre sur le territoire duquel a lieu le départ du service de transport. L’organisme de répartition auquel est présentée la demande de capacité d’infra-structure informe immédiatement ses homologues intéressés. Ces derniers se prononcent au plus tard un mois après réception des informations nécessaires, chaque organisme de répartition pouvant refuser une demande. L’organisme de répartition auquel est présentée la demande se prononce, en concertation avec ses homologues intéressés, au plus tard deux mois après la date à laquelle toutes les informations nécessaires ont été transmises. Les procédures en ce qui concerne le traitement d’une demande de capacité d’infrastructure sont réglées par les dispositions figurant dans la section 4 de l’appendice 1.
+<sup>2.</sup> L’entreprise ferroviaire ou le regroupement international qui demande l’attribution d’un ou de plusieurs sillons s’adresse à l’(aux) organisme(s) de répartition de l’État membre sur le territoire duquel a lieu le départ du service de transport. L’organisme de répartition auquel est présentée la demande de capacité d’infra-structure informe immédiatement ses homologues intéressés. Ces derniers se prononcent au plus tard un mois après réception des informations nécessaires, chaque organisme de répartition pouvant refuser une demande. L’organisme de répartition auquel est présentée la demande se prononce, en concertation avec ses homologues intéressés, au plus tard deux mois après la date à laquelle toutes les informations nécessaires ont été transmises. Les procédures en ce qui concerne le traitement d’une demande de capacité d’infrastructure sont réglées par les dispositions figurant dans la section 4 de l’appendice 1.
 
 <sup>3.</sup>
 
-Les Etats membres peuvent prendre les mesures nécessaires pour assurer que, lors de la répartition des capacités d’infrastructure ferroviaire, la priorité soit donnée aux services ferroviaires suivants:
+Les États membres peuvent prendre les mesures nécessaires pour assurer que, lors de la répartition des capacités d’infrastructure ferroviaire, la priorité soit donnée aux services ferroviaires suivants:
 
 - a) services fournis dans l’intérêt du public,
 - b) services qui sont effectués totalement ou partiellement sur une infrastructure spécifiquement construite ou aménagée pour ces services (p. ex. lignes spéciales à grande vitesse ou lignes spécialisées dans le fret).
 
-<sup>4.</sup> Les Etats membres peuvent charger l’organisme de répartition d’accorder à des entreprises ferroviaires qui fournissent certains types de services ou les fournissent dans certaines régions, des droits spéciaux en matière de répartition des capacités d’infrastructure sur une base non discriminatoire, si ces droits sont indispensables pour assurer un bon niveau de service public ou une utilisation efficace de la capacité d’infrastructure, ou pour permettre le financement d’infrastructures nouvelles.
+<sup>4.</sup> Les États membres peuvent charger l’organisme de répartition d’accorder à des entreprises ferroviaires qui fournissent certains types de services ou les fournissent dans certaines régions, des droits spéciaux en matière de répartition des capacités d’infrastructure sur une base non discriminatoire, si ces droits sont indispensables pour assurer un bon niveau de service public ou une utilisation efficace de la capacité d’infrastructure, ou pour permettre le financement d’infrastructures nouvelles.
 
-<sup>5.</sup> Les Etats membres peuvent prévoir la possibilité que les demandes d’accès aux infrastructures s’accompagnent d’un dépôt de garantie ou qu’une sûreté comparable soit constituée.
+<sup>5.</sup> Les États membres peuvent prévoir la possibilité que les demandes d’accès aux infrastructures s’accompagnent d’un dépôt de garantie ou qu’une sûreté comparable soit constituée.
 
-<sup>6.</sup> Les Etats membres arrêtent et publient les procédures de répartition des capacités d’infrastructures ferroviaires. Elles en informent en outre le Comité institué par l’art. 29.
+<sup>6.</sup> Les États membres arrêtent et publient les procédures de répartition des capacités d’infrastructures ferroviaires. Elles en informent en outre le Comité institué par l’art. 29.
 
 #### Art. 24
 
 **Comptes et redevances d’utilisation**
 
-<sup>1.</sup> Les comptes du gestionnaire d’une infrastructure doivent présenter au moins un équilibre considéré sur une période de temps raisonnable entre, d’une part, les recettes tirées de ces redevances et des contributions éventuelles de l’Etat et, d’autre part, les dépenses d’infrastructure.
+<sup>1.</sup> Les comptes du gestionnaire d’une infrastructure doivent présenter au moins un équilibre considéré sur une période de temps raisonnable entre, d’une part, les recettes tirées de ces redevances et des contributions éventuelles de l’État et, d’autre part, les dépenses d’infrastructure.
 
 <sup>2.</sup> Le gestionnaire de l’infrastructure applique une redevance d’utilisation de l’infrastructure ferroviaire dont il assure la gestion à payer par les entreprises ferroviaires ou les regroupements internationaux qui empruntent cette infrastructure.
 
@@ -3636,7 +3693,7 @@ Les Etats membres peuvent prendre les mesures nécessaires pour assurer que, lor
 
 <sup>4.</sup> Le paiement des redevances se fait auprès du/des gestionnaire(s) de l’infra-structure.
 
-<sup>5.</sup> Chaque Etat membre définit les modalités de fixation des redevances, après consultation du gestionnaire de l’infrastructure. Les redevances perçues sur des services de nature équivalente dans un même marché s’appliquent sans discrimination.
+<sup>5.</sup> Chaque État membre définit les modalités de fixation des redevances, après consultation du gestionnaire de l’infrastructure. Les redevances perçues sur des services de nature équivalente dans un même marché s’appliquent sans discrimination.
 
 <sup>6.</sup> Le gestionnaire de l’infrastructure communique en temps utile aux entreprises ferroviaires ou aux regroupements internationaux qui utilisent ses infrastructures pour effectuer les services visés à l’art. 20 toutes les modifications importantes de la qualité ou de la capacité de l’infrastructure concernée.
 
@@ -3644,9 +3701,9 @@ Les Etats membres peuvent prendre les mesures nécessaires pour assurer que, lor
 
 **Recours**
 
-<sup>1.</sup> Les Etats membres prennent les mesures nécessaires pour garantir que les décisions prises en matière de répartition des capacités d’infrastructure ou en matière de perception des redevances sont susceptibles d’un recours devant une instance indépendante. Cette instance se prononce dans les deux mois qui suivent la communication de toutes les informations nécessaires.
+<sup>1.</sup> Les États membres prennent les mesures nécessaires pour garantir que les décisions prises en matière de répartition des capacités d’infrastructure ou en matière de perception des redevances sont susceptibles d’un recours devant une instance indépendante. Cette instance se prononce dans les deux mois qui suivent la communication de toutes les informations nécessaires.
 
-<sup>2.</sup> Les Etats membres prennent les mesures nécessaires pour garantir que les décisions prises conformément au par. 1 ci-dessus et au par. 3 de l’art. 21 sont soumises à un contrôle juridictionnel.
+<sup>2.</sup> Les États membres prennent les mesures nécessaires pour garantir que les décisions prises conformément au par. 1 ci-dessus et au par. 3 de l’art. 21 sont soumises à un contrôle juridictionnel.
 
 ### Titre IV Divers
 
@@ -3660,13 +3717,13 @@ L’Islande reçoit un contingent annuel de 5 autorisations, le Liechtenstein de
 
 **Facilitation des contrôles aux frontières**
 
-Les Etats membres s’engagent à alléger et à simplifier les formalités pesant sur le transport, en particulier dans le domaine douanier.
+Les États membres s’engagent à alléger et à simplifier les formalités pesant sur le transport, en particulier dans le domaine douanier.
 
 #### Art. 28
 
 **Normes écologiques pour véhicules utilitaires**
 
-La catégorie d’émission EURO des véhicules lourds (telle que définie par la législation communautaire et incorporée dans l’accord EEE et dans l’accord Suisse-CE), si elle n’est pas mentionnée sur le certificat d’immatriculation du véhicule, est vérifiée à partir de la date de première mise en circulation figurant sur ce certificat ou, le cas échéant, à partir d’un document additionnel spécial établi par les autorités compétentes de l’Etat de délivrance.
+La catégorie d’émission EURO des véhicules lourds (telle que définie par la législation communautaire et incorporée dans l’accord EEE et dans l’accord Suisse-CE), si elle n’est pas mentionnée sur le certificat d’immatriculation du véhicule, est vérifiée à partir de la date de première mise en circulation figurant sur ce certificat ou, le cas échéant, à partir d’un document additionnel spécial établi par les autorités compétentes de l’État de délivrance.
 
 #### Art. 29
 
@@ -3674,17 +3731,17 @@ La catégorie d’émission EURO des véhicules lourds (telle que définie par l
 
 <sup>1.</sup> Le Conseil institue un Comité sur les transports terrestres qui est responsable de la gestion et de l’application correcte de la présente annexe.
 
-<sup>2.</sup> A cet effet, le comité formule des recommandations et prend des décisions dans les cas prévus dans la présente annexe.
+<sup>2.</sup> À cet effet, le comité formule des recommandations et prend des décisions dans les cas prévus dans la présente annexe.
 
 <sup>3.</sup> Il peut, en particulier, recommander au Conseil de modifier les dispositions des appendices 1 et 3 à 9 de la présente annexe.
 
-Annexe P – Appendice 1*[^t-15]*
+Annexe P – Appendice 1*[^t-16]*
 
 ## Dispositions applicables
 
-[^t-15]: Mise à jour selon le ch. 1 des D du Conseil 3/2010 du 20 sept. 2010 ([RO 2011 1551](https://fedlex.data.admin.ch/eli/oc/2011/224)), 6/2011 du 4 oct. 2011 ([RO 2012 6929](https://fedlex.data.admin.ch/eli/oc/2012/836)) et 3/2015 du 25 août 2015, en vigueur pour la Suisse depuis le 25 août 2015 ([RO 2017 5077](https://fedlex.data.admin.ch/eli/oc/2017/557)).
+[^t-16]: Mise à jour selon le ch. 1 des D du Conseil 3/2010 du 20 sept. 2010 ([RO 2011 1551](https://fedlex.data.admin.ch/eli/oc/2011/224)), 6/2011 du 4 oct. 2011 ([RO 2012 6929](https://fedlex.data.admin.ch/eli/oc/2012/836)) et 3/2015 du 25 août 2015, en vigueur pour la Suisse depuis le 25 août 2015 ([RO 2017 5077](https://fedlex.data.admin.ch/eli/oc/2017/557)).
 
-Afin d’atteindre les objectifs fixés dans la présente annexe, les Etats membres prennent, selon les calendriers établis dans la présente annexe, toutes les mesures nécessaires propres à garantir que les droits et obligations équivalents à ceux qui figurent dans les instruments légaux ci-après de la Communauté européenne, tels qu’ils sont incorporés dans l’accord EEE et l’accord Suisse-CE, sont appliqués dans leurs relations:
+Afin d’atteindre les objectifs fixés dans la présente annexe, les États membres prennent, selon les calendriers établis dans la présente annexe, toutes les mesures nécessaires propres à garantir que les droits et obligations équivalents à ceux qui figurent dans les instruments légaux ci-après de la Communauté européenne, tels qu’ils sont incorporés dans l’accord EEE et l’accord Suisse-CE, sont appliqués dans leurs relations:
 
 ### Section 1
 
@@ -3692,9 +3749,9 @@ Afin d’atteindre les objectifs fixés dans la présente annexe, les Etats memb
 
 Les dispositions de la directive doivent être lues avec les adaptations suivantes:
 
-Dans l’art. 3(3)(c), concernant les Etats membres, l’expression «les monnaies nationales qui ne participent pas à la troisième étape de l’Union monétaire» est remplacée par «les monnaies nationales des Etats membres» et l’expression «publié dans le Journal officiel des Communautés européennes» est remplacée par «publié officiellement dans chaque Etat membre»;
+Dans l’art. 3(3)(c), concernant les États membres, l’expression «les monnaies nationales qui ne participent pas à la troisième étape de l’Union monétaire» est remplacée par «les monnaies nationales des États membres» et l’expression «publié dans le Journal officiel des Communautés européennes» est remplacée par «publié officiellement dans chaque État membre»;
 
-Les Etats membres reconnaissent les certificats délivrés par les autres Etats membres conformément à l’art. 3(4)(d) de la directive, tel qu’il figure dans l’accord EEE et dans l’accord Suisse-CE
+Les États membres reconnaissent les certificats délivrés par les autres États membres conformément à l’art. 3(4)(d) de la directive, tel qu’il figure dans l’accord EEE et dans l’accord Suisse-CE
 
 ### Section 2
 
@@ -3713,7 +3770,7 @@ Le ch. 1 (Données visibles) du chapitre IV de l’annexe I B relatif à la page
 </table>
 
 - ii) La phrase introductive relative aux signes distinctifs se lira avec les adaptations suivantes:
-- «le signe distinctif de l’Etat de l’AELE délivrant la carte entouré par l’ellipse visée à l’art. 37 de la convention des Nations unies sur la circulation routière du 8 novembre 1968 (avec la même toile de fond que la carte); les signes distinctifs sont les suivants:»;
+- «le signe distinctif de l’État de l’AELE délivrant la carte entouré par l’ellipse visée à l’art. 37 de la convention des Nations unies sur la circulation routière du 8 novembre 1968 (avec la même toile de fond que la carte); les signes distinctifs sont les suivants:»;
 - iii)
 
   La liste des signes distinctifs est complétée comme suit:
@@ -3728,7 +3785,7 @@ Le ch. 1 (Données visibles) du chapitre IV de l’annexe I B relatif à la page
 Les dispositions du règlement doivent être lues avec les adaptations suivantes:
 
 - (a) Seul l’art. 1 est applicable.
-- (b) Les Etats membres dispensent réciproquement leurs ressortissants de l’obligation de porter une attestation de conducteur.
+- (b) Les États membres dispensent réciproquement leurs ressortissants de l’obligation de porter une attestation de conducteur.
   - – Directive 2006/22/CE du Parlement européen et du Conseil du 15 mars 2006 établissant les conditions minimales à respecter pour la mise en œuvre des règlements du Conseil (CEE) n<sup>o</sup> 3820/85 et (CEE) n<sup>o</sup> 3821/85 concernant la législation sociale relative aux activités de transport routier et abrogeant la directive 88/599/CEE du Conseil (JO L 102 du 11.4.2006, p.35).
   - – Directive 2003/59/CE du Parlement européen et du Conseil du 15 juillet 2003 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs, modifiant le règlement (CEE) n<sup>o</sup> 3820/85 du Conseil ainsi que la directive 91/439/CEE du Conseil et abrogeant la directive 76/914/CEE du Conseil (JO L 226 du 10.9.2003, p. 4).
 
@@ -3741,16 +3798,16 @@ Les dispositions de la directive doivent être lues avec les adaptations suivant
   Les États de l’AELE peuvent délivrer une carte de qualification de conducteur conformément aux dispositions de la présente directive et en tenant compte des adaptations suivantes:
 
   - (i) Au point 2 c) de l’annexe II relatif à la face 1 de la carte, la mention suivante est ajoutée après la mention concernant le Royaume-Uni:
-  - «le signe distinctif de l’Etat-membre délivrant la carte entouré par l’ellipse visée à l’art. 37 de la convention des Nations unies sur la circulation routière du 8 novembre 1968 (avec la même toile de fond que la carte); les signes distinctifs sont les suivants:
+  - «le signe distinctif de l’État-membre délivrant la carte entouré par l’ellipse visée à l’art. 37 de la convention des Nations unies sur la circulation routière du 8 novembre 1968 (avec la même toile de fond que la carte); les signes distinctifs sont les suivants:
   - IS: Islande
   - FL: Liechtenstein
   - N: Norvège
   - CH: Suisse»
-  - (ii) En ce qui concerne les Etats de l’AELE, au point 2 e) de l’annexe II relatif à la face 1 de la carte, les termes «modèle des Communautés européennes» sont remplacés par «modèle de l’EEE».
+  - (ii) En ce qui concerne les États de l’AELE, au point 2 e) de l’annexe II relatif à la face 1 de la carte, les termes «modèle des Communautés européennes» sont remplacés par «modèle de l’EEE».
   - (iii) Au point 2 e) de l’annexe II relatif à la face 1 de la carte, les mentions suivantes sont ajoutées:
   - «atvinnuskírteini ökumanns
   - yrkessjåførbevis/yrkessjåførprov»
-  - (iv) Le point 2 f) de l’annexe II relatif à la face 1 de la carte ne s’applique pas aux Etats de l’AELE.
+  - (iv) Le point 2 f) de l’annexe II relatif à la face 1 de la carte ne s’applique pas aux États de l’AELE.
   - (v) Au point 2 b) de l’annexe II relatif à la face 2 de la carte, les termes «et suédoise» sont remplacés par «, suédoise, islandaise, norvégienne».
   - (vi) Au point 2 b) de l’annexe II relatif à la face 2 de la carte, le paragraphe suivant est ajouté:
   - «Une référence à la langue norvégienne s’entend comme référence à la fois au norvégien littéraire (‹yrkessjåførbevis›) et au nouveau norvégien (‹yrkessjåførprov›).»
@@ -3762,10 +3819,10 @@ Les dispositions de la directive doivent être lues avec les adaptations suivant
 ### Section 3
 
 - – Règlement (CE) nº 2411/98 du Conseil du 3 novembre 1998 relatif à la reconnaissance en circulation intracommunautaire du signe distinctif de l’État membre d’immatriculation des véhicules à moteur et de leurs remorques (JO L 299 du 10.11.1998, p. 1).
-- – Directive 91/542/CE du Conseil du 1<sup>er</sup> octobre 1991 modifiant la directive 88/77/CEE concernant le rapprochement des législations des Etats membres relatives aux mesures contre les émissions de gaz polluants provenant des moteurs Diesel destinés à la propulsion des véhicules (JO L 295 du 25.10.1991 p. 1).
+- – Directive 91/542/CE du Conseil du 1<sup>er</sup> octobre 1991 modifiant la directive 88/77/CEE concernant le rapprochement des législations des États membres relatives aux mesures contre les émissions de gaz polluants provenant des moteurs Diesel destinés à la propulsion des véhicules (JO L 295 du 25.10.1991 p. 1).
 - – Directive 92/6/CEE du Conseil, du 10 février 1992 relative à l’installation et à l’utilisation, dans la Communauté, de limiteurs de vitesse sur certaines catégories de véhicules à moteur (JO L 57 du 23.2.1992, p. 27) modifiée en dernier lieu par la directive 2002/85/CE du Parlement européen et du Conseil du 5 novembre 2002 (JO L 327 du 4.12.2002, p. 8).
 - – Directive 92/24/CEE du Conseil du 31 mars 1992 relative aux dispositifs limiteurs de vitesse ou à des systèmes de limitation de vitesse similaires montés sur certaines catégories de véhicules à moteur (JO L 129 du 14.5.1992, p. 154).
-- – Directive 92/97/CEE du Conseil, du 10 novembre 1992 modifiant la directive 70/157/CEE concernant le rapprochement des législations des Etats membres relatives au niveau sonore admissible et au dispositif d’échappement des véhicules à moteur (JO L 371 du 19.12.1992, p. 1).
+- – Directive 92/97/CEE du Conseil, du 10 novembre 1992 modifiant la directive 70/157/CEE concernant le rapprochement des législations des États membres relatives au niveau sonore admissible et au dispositif d’échappement des véhicules à moteur (JO L 371 du 19.12.1992, p. 1).
 - – Directive 96/53/CE du Conseil du 25 juillet 1996, fixant, pour certains véhicules routiers circulant dans la Communauté, les dimensions maximales autorisées en trafic national et international et les poids maximaux autorisés en trafic international (JO L 235 de 17.9.1996, p. 59), modifiée en dernier lieu par la directive 2002/7/CE du Parlement européen et du Conseil du 18 février 2002 (JO L 67 du 9.3.2002, p. 47).
 - – Directive 2000/30/CE du Parlement européen et du Conseil du 6 juin 2000 relative au contrôle technique routier des véhicules utilitaires circulant dans la Communauté (JO L 203 du 10.8.2000, p. 1).
 - – Directive 2003/20/CE du Parlement européen et du Conseil du 8 avril 2003 modifiant la directive 91/671/CEE du Conseil concernant le rapprochement des législations des États membres relatives au port obligatoire de la ceinture de sécurité dans les véhicules de moins de 3,5 tonnes (JO L 115 du 9.5.2003, p. 63).
@@ -3907,7 +3964,7 @@ Date d’expiration: 1<sup>er</sup> janvier 2017.
 
 - – Directive n<sup>o</sup> 2007/34/CE de la Commission du 14 juin 2007 portant modification, aux fins de son adaptation au progrès technique, de la directive 70/157/CEE du Conseil concernant le niveau sonore admissible et le dispositif d’échappement des véhicules à moteur, JO L 155 du 15.6.2007, p. 49.
 - Les dispositions de la directive doivent être lues avec les adaptations suivantes:
-- A l’annexe II, la mention suivante est ajoutée au point 4.2:
+- À l’annexe II, la mention suivante est ajoutée au point 4.2:
 
 «IS pour l’Islande
 
@@ -4045,10 +4102,10 @@ Annexe P – Appendice 3
 
 (Première page de l’autorisation)
 
-(Texte libellé dans la langue officielle ou l’une des langues officielles de l’Etat AELE qui délivre l’autorisation)
+(Texte libellé dans la langue officielle ou l’une des langues officielles de l’État AELE qui délivre l’autorisation)
 
 <table>
-<tr><td>Etat qui délivre l’autorisation Signe distinctif du pays[^annexP-lvlu1-1]</td><td>Dénomination de l’autorité ou de l’organisme compétent</td></tr>
+<tr><td>État qui délivre l’autorisation Signe distinctif du pays[^annexP-lvlu1-1]</td><td>Dénomination de l’autorité ou de l’organisme compétent</td></tr>
 </table>
 
 Autorisation N<sup>o</sup>......... pour le transport international de marchandises par route pour compte d’autrui
@@ -4081,19 +4138,19 @@ Délivrée à ..................................................................
 
 La présente autorisation est délivrée en vertu du règlement (CEE) n<sup>o</sup> 881/92 du Conseil, du 26 mars 1992, adapté aux fins de l’accord EEE.
 
-Elle permet d’effectuer, sur toutes les relations de trafic, pour les trajets ou parties de trajets effectués sur le territoire de la Communauté européenne et les Etats de l’AELE et, le cas échéant, dans les conditions qu’elle fixe, des transports internationaux de marchandises par route pour compte d’autrui:
+Elle permet d’effectuer, sur toutes les relations de trafic, pour les trajets ou parties de trajets effectués sur le territoire de la Communauté européenne et les États de l’AELE et, le cas échéant, dans les conditions qu’elle fixe, des transports internationaux de marchandises par route pour compte d’autrui:
 
-- – dont le point de départ et le point d’arrivée se trouvent dans deux Etats membres différents qui sont soit membres de la CE ou des Etats de l’AELE, avec ou sans transit par un ou plusieurs Etats membres de la CE ou des Etats de l’AELE ou pays tiers,
-- – au départ d’un Etat membre de la CE ou des Etats de l’AELE et à destination d’un pays tiers et vice-versa, avec ou sans transit par un ou plusieurs Etats membres de la CE ou des Etats de l’AELE ou pays tiers,
-- – entre pays tiers traversant en transit le territoire d’un ou plusieurs Etats membres de la CE ou des Etats de l’AELE.
+- – dont le point de départ et le point d’arrivée se trouvent dans deux États membres différents qui sont soit membres de la CE ou des États de l’AELE, avec ou sans transit par un ou plusieurs États membres de la CE ou des États de l’AELE ou pays tiers,
+- – au départ d’un État membre de la CE ou des États de l’AELE et à destination d’un pays tiers et vice-versa, avec ou sans transit par un ou plusieurs États membres de la CE ou des États de l’AELE ou pays tiers,
+- – entre pays tiers traversant en transit le territoire d’un ou plusieurs États membres de la CE ou des États de l’AELE.
 
 ainsi que les trajets à vide en corrélation avec ces transports.
 
-Dans le cas d’un transport au départ d’un Etat membre de la CE ou d’un Etat de l’AELE et à destination d’un pays tiers et vice-versa, la présente autorisation n’est pas valable pour le trajet effectué sur le territoire de l’Etat membre de la CE ou des Etats de l’AELE de chargement ou de déchargement.
+Dans le cas d’un transport au départ d’un État membre de la CE ou d’un État de l’AELE et à destination d’un pays tiers et vice-versa, la présente autorisation n’est pas valable pour le trajet effectué sur le territoire de l’État membre de la CE ou des États de l’AELE de chargement ou de déchargement.
 
 Elle est personnelle et ne peut être transférée à un tiers.
 
-Elle peut être retirée par l’autorité compétente de l’Etat membre de l’AELE qui l’a délivrée lorsque le transporteur a notamment:
+Elle peut être retirée par l’autorité compétente de l’État membre de l’AELE qui l’a délivrée lorsque le transporteur a notamment:
 
 - – omis de respecter toutes les conditions auxquelles l’utilisation de l’autorisation était soumise,
 - – fourni des informations inexactes au sujet de données qui étaient nécessaires pour la délivrance ou le renouvellement de l’autorisation.
@@ -4102,11 +4159,11 @@ L’original de l’autorisation doit être conservé par l’entreprise de tran
 
 Une copie certifiée conforme de l’autorisation doit se trouver à bord du véhicule[^annexP-lvlu1-4].
 
-Elle doit, dans le cas d’un ensemble de véhicules couplés, accompagner le véhicule tracteur. Elle couvre l’ensemble des véhicules couplés même si la remorque ou la semi-remorque ne sont pas immatriculées ou admises à la circulation au nom du titulaire de l’autorisation ou qu’elles sont immatriculées ou admises à la circulation d’un Etat membre de la CE ou d’un autre Etat de l’AELE.
+Elle doit, dans le cas d’un ensemble de véhicules couplés, accompagner le véhicule tracteur. Elle couvre l’ensemble des véhicules couplés même si la remorque ou la semi-remorque ne sont pas immatriculées ou admises à la circulation au nom du titulaire de l’autorisation ou qu’elles sont immatriculées ou admises à la circulation d’un État membre de la CE ou d’un autre État de l’AELE.
 
 L’autorisation doit être présentée à toute réquisition des agents chargés du contrôle.
 
-Le titulaire est tenu de respecter sur le territoire de chaque Etat membre de la CE et des Etats de l’AELE les dispositions législatives et administratives en vigueur dans cet Etat, notamment en matière de transport et de circulation routière.
+Le titulaire est tenu de respecter sur le territoire de chaque État membre de la CE et des États de l’AELE les dispositions législatives et administratives en vigueur dans cet État, notamment en matière de transport et de circulation routière.
 
 [^annexP-lvlu1-1]: Signe distinctif du pays: IS (Islande), FL (Liechtenstein), N (Norvège),
 [^annexP-lvlu1-2]: Désignés ci-après comme «les Etats de l’AELE»
@@ -4135,7 +4192,7 @@ Annexe P – Appendice 4
 
 Annexe P – Appendice 5
 
-Inventaire des dispositions contenues dans les accords bilatéraux routiers conclus entre les différents Etats membres relatives au transport de marchandises en trafic triangulaire:
+Inventaire des dispositions contenues dans les accords bilatéraux routiers conclus entre les différents États membres relatives au transport de marchandises en trafic triangulaire:
 
 - – Accord du 26 mai 1998 entre le Conseil fédéral suisse et le gouvernement du Royaume de Norvège relatif au transport international de personnes et de marchandises par la route[^annexP-lvlu1-5].
 - Art. 4: transport de marchandises
@@ -4208,7 +4265,7 @@ Les services réguliers spécialisés comprennent notamment:
 
 - a) le transport «domicile-travail» des travailleurs;
 - b) le transport «domicile-établissement» d’enseignement des scolaires et étudiants;
-- c) le transport «Etat d’origine-lieu de casernement» des militaires et de leurs familles. Le caractère régulier des services spécialisés n’est pas affecté par le fait que l’organisation du transport est adaptée aux besoins variables des utilisateurs.
+- c) le transport «État d’origine-lieu de casernement» des militaires et de leurs familles. Le caractère régulier des services spécialisés n’est pas affecté par le fait que l’organisation du transport est adaptée aux besoins variables des utilisateurs.
 
 <sup>2.</sup> Services occasionnels
 
@@ -4218,7 +4275,7 @@ L’organisation de services parallèles ou temporaires comparables aux services
 
 2.2. Les services visés au présent point 2 ne perdent pas le caractère de services occasionnels par le fait qu’ils sont effectués avec une certaine fréquence.
 
-2.3. Les services occasionnels peuvent être exploités par un groupe de transporteurs agissant pour compte du même donneur d’ordre. Les noms de ces transporteurs ainsi que, le cas échéant, les points de correspondance en cours de route sont communiqués aux autorités compétentes des Etats membres selon les modalités à déterminer par le Comité.
+2.3. Les services occasionnels peuvent être exploités par un groupe de transporteurs agissant pour compte du même donneur d’ordre. Les noms de ces transporteurs ainsi que, le cas échéant, les points de correspondance en cours de route sont communiqués aux autorités compétentes des États membres selon les modalités à déterminer par le Comité.
 
 <sup>3.</sup> Transport pour compte propre
 
@@ -4250,7 +4307,7 @@ L’autorisation détermine:
 
 <sup>4.</sup> L’autorisation doit être conforme au modèle établi par le règlement (CE) n<sup>o</sup> 2121/98 de la Commission du 2 octobre 1998 portant modalités d’application des règlements (CEE) n<sup>o</sup> 684/92 et (CE) n<sup>o</sup> 12/98 du Conseil en ce qui concerne les documents pour les transports de voyageurs effectués par autocar et autobus publié au Journal officiel des Communautés européennes L 268 du 03/10/1998, p. 10, tel qu’il est intégré dans l’accord EEE et dans l’accord Suisse-CE.
 
-<sup>5.</sup> L’autorisation habilite son ou ses titulaires à effectuer le service régulier sur le territoire des Etats membres.
+<sup>5.</sup> L’autorisation habilite son ou ses titulaires à effectuer le service régulier sur le territoire des États membres.
 
 <sup>6.</sup>
 
@@ -4264,11 +4321,11 @@ L’exploitant d’un service régulier peut utiliser des véhicules de renfort 
 
 **Introduction des demandes d’autorisation**
 
-<sup>1.</sup> L’introduction des demandes d’autorisation par des opérateurs des Etats membres autres que la Suisse est effectuée en conformité avec les dispositions de l’art. 6 du règlement (CEE) 684/92 tel que modifié par le règlement (CE) n<sup>o</sup> 11/98 et intégré dans l’accord EEE et l’accord Suisse-CE sur les transports terrestres et l’introduction des demandes d’autorisation par des opérateurs suisses est effectuée en conformité avec les dispositions du chap. 5 de l’ordonnance du 25 novembre 1998 sur les concessions pour le transport de voyageurs (OCTV)[^annexP-lvlu1-secI-3-1]. Pour les services exonérés d’autorisation dans un Etat membre mais soumis à autorisation dans un autre, l’introduction des demandes d’autorisation par les opérateurs sera effectuée auprès des autorités compétentes de l’Etat où a lieu le départ.
+<sup>1.</sup> L’introduction des demandes d’autorisation par des opérateurs des États membres autres que la Suisse est effectuée en conformité avec les dispositions de l’art. 6 du règlement (CEE) 684/92 tel que modifié par le règlement (CE) n<sup>o</sup> 11/98 et intégré dans l’accord EEE et l’accord Suisse-CE sur les transports terrestres et l’introduction des demandes d’autorisation par des opérateurs suisses est effectuée en conformité avec les dispositions du chap. 5 de l’ordonnance du 25 novembre 1998 sur les concessions pour le transport de voyageurs (OCTV)[^annexP-lvlu1-secI-3-1]. Pour les services exonérés d’autorisation dans un État membre mais soumis à autorisation dans un autre, l’introduction des demandes d’autorisation par les opérateurs sera effectuée auprès des autorités compétentes de l’État où a lieu le départ.
 
 <sup>2.</sup> Les demandes doivent être conformes au modèle établi par le règlement (CE) n<sup>o</sup> 2121/98.
 
-<sup>3.</sup> Le demandeur fournit, à l’appui de sa demande d’autorisation, tout renseignement complémentaire qu’il juge utile ou qui lui est demandé par l’autorité délivrante, et notamment un schéma de conduite permettant de contrôler le respect de la réglementation relative aux temps de conduite et de repos. Les transporteurs d’Etats membres autres que la Suisse soumettront aussi une copie de la licence communautaire pour le transport international de voyageurs par route pour compte d’autrui, comme cela est requis dans l’accord EEE. Les transporteurs suisses fourniront une copie d’une licence similaire suisse délivrée à l’exploitant du service régulier.
+<sup>3.</sup> Le demandeur fournit, à l’appui de sa demande d’autorisation, tout renseignement complémentaire qu’il juge utile ou qui lui est demandé par l’autorité délivrante, et notamment un schéma de conduite permettant de contrôler le respect de la réglementation relative aux temps de conduite et de repos. Les transporteurs d’États membres autres que la Suisse soumettront aussi une copie de la licence communautaire pour le transport international de voyageurs par route pour compte d’autrui, comme cela est requis dans l’accord EEE. Les transporteurs suisses fourniront une copie d’une licence similaire suisse délivrée à l’exploitant du service régulier.
 
 [^annexP-lvlu1-secI-3-1]: [[RO 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106), [2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)annexe ch. II 5, [2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)annexe ch. II 5, [2008 3547](https://fedlex.data.admin.ch/eli/oc/2008/456). [RO 2009 6027](https://fedlex.data.admin.ch/eli/oc/2009/739)art. 82 ch. 1]. Voir actuellement l'O du 4 nov. 2009 sur le transport de voyageurs ([RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)).
 
@@ -4276,9 +4333,9 @@ L’exploitant d’un service régulier peut utiliser des véhicules de renfort 
 
 **Procédure d’autorisation**
 
-<sup>1.</sup> L’autorisation est délivrée en accord avec les autorités compétentes des Etats membres sur le territoire desquelles des voyageurs sont pris en charge ou déposés. L’autorité délivrante fournit à ces dernières – ainsi qu’aux autorités compétentes des Etats membres dont le territoire est traversé sans prise en charge ni dépose de voyageurs – en même temps que son appréciation, une copie de la demande et de tous autres documents utiles.
+<sup>1.</sup> L’autorisation est délivrée en accord avec les autorités compétentes des États membres sur le territoire desquelles des voyageurs sont pris en charge ou déposés. L’autorité délivrante fournit à ces dernières – ainsi qu’aux autorités compétentes des États membres dont le territoire est traversé sans prise en charge ni dépose de voyageurs – en même temps que son appréciation, une copie de la demande et de tous autres documents utiles.
 
-<sup>2.</sup> Les autorités compétentes des Etats membres dont l’accord a été demandé font connaître leur décision à l’autorité délivrante dans un délai de deux mois. Ce délai est calculé à partir de la date de réception de la demande d’avis qui figure dans l’accusé de réception. Si l’autorité délivrante n’a pas reçu de réponse dans ce délai, les autorités consultées sont réputées avoir donné leur accord et l’autorité délivrante accorde l’autorisation.
+<sup>2.</sup> Les autorités compétentes des États membres dont l’accord a été demandé font connaître leur décision à l’autorité délivrante dans un délai de deux mois. Ce délai est calculé à partir de la date de réception de la demande d’avis qui figure dans l’accusé de réception. Si l’autorité délivrante n’a pas reçu de réponse dans ce délai, les autorités consultées sont réputées avoir donné leur accord et l’autorité délivrante accorde l’autorisation.
 
 <sup>3.</sup> Sous réserve des par. 7 et 8, l’autorité délivrante prend une décision dans un délai de quatre mois à compter de la date d’introduction de la demande par le transporteur.
 
@@ -4291,13 +4348,13 @@ L’autorisation est accordée à moins que:
 - c) dans le cas d’une demande de renouvellement d’autorisation, les conditions de l’autorisation n’aient pas été respectées;
 - d) il soit établi que le service qui en fait l’objet compromettrait directement l’existence des services réguliers déjà autorisés, sauf dans le cas où les services réguliers en cause ne sont exploités que par un seul transporteur ou groupe de transporteurs;
 - e) il apparaisse que l’exploitation des services qui en font l’objet vise uniquement les services les plus lucratifs parmi les services existants sur les liaisons concernées;
-- f) l’autorité compétente d’un Etat membre ne décide, sur la base d’une analyse détaillée, que ledit service affecterait sérieusement la viabilité d’un service ferroviaire comparable sur les tronçons directs concernés. Toute décision prise en application de la présente disposition, ainsi que sa justification, sont notifiées aux transporteurs concernés. A partir du 1<sup>er</sup> janvier 2000, dans le cas où un service international par autocars et autobus existant affecte sérieusement la viabilité d’un service ferroviaire comparable sur les tronçons directs concernés, l’autorité compétente d’un Etat membre peut, avec l’accord du Comité, suspendre ou retirer l’autorisation d’exploiter le service international d’autobus et d’autocars après avoir donné un préavis de 6 mois au transporteur. Le fait qu’un transporteur offre des prix inférieurs à ceux offerts par d’autres transporteurs routiers, ou que la liaison en question est déjà exploitée par d’autres transporteurs routiers, ne peut en lui-même constituer une justification pour refuser la demande.
+- f) l’autorité compétente d’un État membre ne décide, sur la base d’une analyse détaillée, que ledit service affecterait sérieusement la viabilité d’un service ferroviaire comparable sur les tronçons directs concernés. Toute décision prise en application de la présente disposition, ainsi que sa justification, sont notifiées aux transporteurs concernés. À partir du 1<sup>er</sup> janvier 2000, dans le cas où un service international par autocars et autobus existant affecte sérieusement la viabilité d’un service ferroviaire comparable sur les tronçons directs concernés, l’autorité compétente d’un État membre peut, avec l’accord du Comité, suspendre ou retirer l’autorisation d’exploiter le service international d’autobus et d’autocars après avoir donné un préavis de 6 mois au transporteur. Le fait qu’un transporteur offre des prix inférieurs à ceux offerts par d’autres transporteurs routiers, ou que la liaison en question est déjà exploitée par d’autres transporteurs routiers, ne peut en lui-même constituer une justification pour refuser la demande.
 
 <sup>5.</sup> L’autorité délivrante ne peut rejeter les demandes que pour des raisons compatibles avec la présente annexe.
 
 <sup>6.</sup> Si la procédure de formation de l’accord visé au par. 1 n’aboutit pas, le Comité peut être saisi.
 
-<sup>7.</sup> Le Comité prend, dans les meilleurs délais, une décision qui prend effet dans un délai de trente jours après notification aux Etats membres intéressés.
+<sup>7.</sup> Le Comité prend, dans les meilleurs délais, une décision qui prend effet dans un délai de trente jours après notification aux États membres intéressés.
 
 <sup>8.</sup> Une fois accomplie la procédure prévue au présent article, l’autorité délivrante en informe toutes les autorités visées au par. 1 et leur envoie, les cas échéant, une copie de l’autorisation.
 
@@ -4307,9 +4364,9 @@ L’autorisation est accordée à moins que:
 
 <sup>1.</sup> Au terme de la procédure visée à l’art. 4 de la présente annexe, l’autorité délivrante accorde l’autorisation ou rejette formellement la demande.
 
-<sup>2.</sup> Le rejet d’une demande doit être motivé. Les Etats membres garantissent aux transporteurs la possibilité de faire valoir leurs intérêts en cas de rejet de leur demande.
+<sup>2.</sup> Le rejet d’une demande doit être motivé. Les États membres garantissent aux transporteurs la possibilité de faire valoir leurs intérêts en cas de rejet de leur demande.
 
-<sup>3.</sup> L’art. 4 du présent appendice s’applique, *mutatis mutandis*, aux demandes de renouvellement d’une autorisation ou de modification des conditions dans lesquelles les services soumis à autorisation doivent être effectués. Dans les cas d’une modification de moindre importance des conditions d’exploitation, en particulier d’une adaptation des fréquences, des tarifs et des horaires, il suffit que l’autorité délivrante communique ladite information aux autorités compétentes de l’autre Etat membre.
+<sup>3.</sup> L’art. 4 du présent appendice s’applique, *mutatis mutandis*, aux demandes de renouvellement d’une autorisation ou de modification des conditions dans lesquelles les services soumis à autorisation doivent être effectués. Dans les cas d’une modification de moindre importance des conditions d’exploitation, en particulier d’une adaptation des fréquences, des tarifs et des horaires, il suffit que l’autorité délivrante communique ladite information aux autorités compétentes de l’autre État membre.
 
 #### Art. 6
 
@@ -4325,7 +4382,7 @@ La procédure à suivre en matière de caducité de l’autorisation est conform
 
 <sup>2.</sup> Le transporteur est tenu de publier l’itinéraire du service, les arrêts, les horaires, les tarifs et les autres conditions d’exploitation, dans la mesure où celles-ci ne sont pas fixées par la loi, de façon à ce que ces informations soient facilement accessibles à tous les usagers.
 
-<sup>3.</sup> Les Etats membres concernés ont la faculté d’apporter, d’un commun accord et en accord avec le titulaire de l’autorisation, des modifications aux conditions d’exploitation d’un service régulier.
+<sup>3.</sup> Les États membres concernés ont la faculté d’apporter, d’un commun accord et en accord avec le titulaire de l’autorisation, des modifications aux conditions d’exploitation d’un service régulier.
 
 ### Section II Services occasionnels et autres services exemptes d’autorisation
 
@@ -4337,7 +4394,7 @@ La procédure à suivre en matière de caducité de l’autorisation est conform
 
 <sup>2.</sup> Les transporteurs effectuant des services occasionnels doivent remplir la feuille de route avant chaque voyage.
 
-<sup>3.</sup> Les carnets de feuilles de route sont délivrés par les autorités compétentes de l’Etat membre dans lequel le transporteur est établi ou par des organismes désignés par elles.
+<sup>3.</sup> Les carnets de feuilles de route sont délivrés par les autorités compétentes de l’État membre dans lequel le transporteur est établi ou par des organismes désignés par elles.
 
 <sup>4.</sup> Le modèle du document de contrôle ainsi que les modalités de son utilisation sont déterminés par le règlement (CE) n<sup>o</sup> 2121/98.
 
@@ -4345,7 +4402,7 @@ La procédure à suivre en matière de caducité de l’autorisation est conform
 
 **Attestation**
 
-L’attestation prévue au par. 6 de l’art. 14 de l’annexe est délivrée par l’autorité compétente de l’Etat membre où le véhicule est immatriculé. Elle est conforme au modèle fixé par le règlement (CE) n<sup>o</sup> 2121/98.
+L’attestation prévue au par. 6 de l’art. 14 de l’annexe est délivrée par l’autorité compétente de l’État membre où le véhicule est immatriculé. Elle est conforme au modèle fixé par le règlement (CE) n<sup>o</sup> 2121/98.
 
 ### Section III Contrôles et sanctions
 
@@ -4367,7 +4424,7 @@ Les voyageurs utilisant un service régulier, à l’exclusion des services rég
 
 **Contrôles sur route et dans les entreprises**
 
-<sup>1.</sup> Dans le cas d’un transport pour compte d’autrui doivent se trouver à bord du véhicule et être présentées à la demande des agents chargés du contrôle, la copie certifiée conforme de la licence d’un Etat membre, ainsi que, suivant la nature du service, l’autorisation (ou une copie conforme de celle-ci) ou la feuille de route. Dans le cas d’un transport pour compte propre, l’attestation (ou une copie conforme de celle-ci) doit se trouver à bord du véhicule et être présentée à la demande des agents chargés du contrôle. Dans le cas des services visés à l’art. 14, par. 2, de l’annexe, le contrat ou une copie certifiée conforme du contrat tient lieu de document de contrôle.
+<sup>1.</sup> Dans le cas d’un transport pour compte d’autrui doivent se trouver à bord du véhicule et être présentées à la demande des agents chargés du contrôle, la copie certifiée conforme de la licence d’un État membre, ainsi que, suivant la nature du service, l’autorisation (ou une copie conforme de celle-ci) ou la feuille de route. Dans le cas d’un transport pour compte propre, l’attestation (ou une copie conforme de celle-ci) doit se trouver à bord du véhicule et être présentée à la demande des agents chargés du contrôle. Dans le cas des services visés à l’art. 14, par. 2, de l’annexe, le contrat ou une copie certifiée conforme du contrat tient lieu de document de contrôle.
 
 <sup>2.</sup> Les transporteurs exploitant des autocars et des autobus affectés aux transports internationaux de voyageurs autorisent tout contrôle visant à assurer que les opérations sont effectuées correctement, notamment en ce qui concerne les temps de conduite et de repos.
 
@@ -4377,27 +4434,27 @@ Les voyageurs utilisant un service régulier, à l’exclusion des services rég
 
 <sup>1.</sup>
 
-Sur demande, les autorités compétentes des Etats membres se communiquent mutuellement tous renseignements utiles en leur possession sur:
+Sur demande, les autorités compétentes des États membres se communiquent mutuellement tous renseignements utiles en leur possession sur:
 
-- – les infractions au présent appendice, ainsi qu’aux autres règles applicables aux services de transport internationaux de voyageurs effectués par autocars et autobus, qui sont commises sur leur territoire par un transporteur d’un autre Etat membre, ainsi que les sanctions appliquées,
-- – les sanctions appliquées à leurs propres transporteurs pour les infractions commises sur le territoire de l’autre Etat membre.
+- – les infractions au présent appendice, ainsi qu’aux autres règles applicables aux services de transport internationaux de voyageurs effectués par autocars et autobus, qui sont commises sur leur territoire par un transporteur d’un autre État membre, ainsi que les sanctions appliquées,
+- – les sanctions appliquées à leurs propres transporteurs pour les infractions commises sur le territoire de l’autre État membre.
 
 <sup>2.</sup>
 
-Les autorités compétentes de l’Etat membre d’établissement du transporteur retirent la licence octroyée par un Etat membre lorsque le titulaire:
+Les autorités compétentes de l’État membre d’établissement du transporteur retirent la licence octroyée par un État membre lorsque le titulaire:
 
 - – ne remplit plus les conditions prévues au par. 1 de l’art. 13 de l’annexe,
-- – a fourni des informations inexactes au sujet de données qui étaient nécessaires pour la délivrance de la licence octroyée par un Etat membre.
+- – a fourni des informations inexactes au sujet de données qui étaient nécessaires pour la délivrance de la licence octroyée par un État membre.
 
-<sup>3.</sup> L’autorité délivrante retire l’autorisation lorsque le titulaire ne remplit plus les conditions qui ont déterminé la délivrance de cette autorisation en vertu du présent appendice, et notamment lorsque les autorités compétentes de l’Etat membre où le transporteur est établi en fait la demande. Elle en avise immédiatement les autorités compétentes des autres Etats membres.
+<sup>3.</sup> L’autorité délivrante retire l’autorisation lorsque le titulaire ne remplit plus les conditions qui ont déterminé la délivrance de cette autorisation en vertu du présent appendice, et notamment lorsque les autorités compétentes de l’État membre où le transporteur est établi en fait la demande. Elle en avise immédiatement les autorités compétentes des autres États membres.
 
-<sup>4.</sup> En cas d’infraction grave ou d’infractions mineures et répétées aux réglementations relatives au transport et en matière de sécurité routière, notamment en ce qui concerne les normes applicables aux véhicules, les temps de conduite et de repos des conducteurs et l’exécution sans autorisation des services parallèles ou temporaires prévus à l’art. 1, ch. 2.1, les autorités compétentes de l’Etat membre d’établissement du transporteur qui a commis l’infraction peuvent procéder notamment au retrait de la licence octroyée par un Etat membre ou à des retraits temporaires et/ou partiels des copies conformes de la licence octroyée par un Etat membre.
+<sup>4.</sup> En cas d’infraction grave ou d’infractions mineures et répétées aux réglementations relatives au transport et en matière de sécurité routière, notamment en ce qui concerne les normes applicables aux véhicules, les temps de conduite et de repos des conducteurs et l’exécution sans autorisation des services parallèles ou temporaires prévus à l’art. 1, ch. 2.1, les autorités compétentes de l’État membre d’établissement du transporteur qui a commis l’infraction peuvent procéder notamment au retrait de la licence octroyée par un État membre ou à des retraits temporaires et/ou partiels des copies conformes de la licence octroyée par un État membre.
 
-Ces sanctions sont déterminées en fonction de la gravité de l’infraction commise par le titulaire de la licence octroyée par un Etat membre et en fonction du nombre total des copies conformes dont il dispose au regard de son trafic international.
+Ces sanctions sont déterminées en fonction de la gravité de l’infraction commise par le titulaire de la licence octroyée par un État membre et en fonction du nombre total des copies conformes dont il dispose au regard de son trafic international.
 
 Annexe P – Appendice 8
 
-Inventaire des dispositions contenues dans les accords bilatéraux routiers conclus entre les Etats membres relatives à l’octroi des autorisations au transport de voyageurs en trafic triangulaire:
+Inventaire des dispositions contenues dans les accords bilatéraux routiers conclus entre les États membres relatives à l’octroi des autorisations au transport de voyageurs en trafic triangulaire:
 
 - – Accord du 4 mars 1999 entre le Conseil fédéral suisse et le gouvernement de la Principauté du Liechtenstein relatif aux transports internationaux de personnes par route[^annexP-lvlu1-6]
 - Art. 3: transport occasionnel de voyageurs
@@ -4412,7 +4469,7 @@ Inventaire des dispositions contenues dans les accords bilatéraux routiers conc
 
 Annexe P – Appendice 9
 
-Liste des accords bilatéraux conclus entre les Etats membres et portant en tout ou en partie sur le champ d’application matériel de l’annexe:
+Liste des accords bilatéraux conclus entre les États membres et portant en tout ou en partie sur le champ d’application matériel de l’annexe:
 
 - – Accord du 26 mai 1998 entre le Conseil fédéral suisse et le gouvernement du Royaume de Norvège relatif aux transports internationaux par route de personnes et de marchandises[^annexP-lvlu1-8]
 - – Traité du 29 mars 1923 entre la Suisse et la Principauté du Liechtenstein concernant la réunion de la Principauté du Liechtenstein au territoire douanier suisse[^annexP-lvlu1-9]
@@ -4430,11 +4487,11 @@ La zone frontière de la Suisse est définie à l’annexe 4 du procès-verbal d
 
 [^annexP-lvlu1-11]: Ce document peut être obtenu auprès du Ministère des transports de chaque Etat membre (en Suisse: Office fédéral des transports, 3003 Berne).
 
-Annexe Q*[^t-16]*
+Annexe Q*[^t-17]*
 
 ## Transport aérien
 
-[^t-16]: Mise à jour selon les D du Conseil n<sup>o</sup> 3/2004 du 5 nov. 2004 ([RO 2005 1639](https://fedlex.data.admin.ch/eli/oc/2005/262)[2201](https://fedlex.data.admin.ch/eli/oc/2005/366)), n<sup>o</sup> 1/2006 du 3 fév. 2006 ([RO 2009 297](https://fedlex.data.admin.ch/eli/oc/2009/51)), n<sup>o</sup> 5/2007 du 13 déc. 2007 ([RO 2009 299](https://fedlex.data.admin.ch/eli/oc/2009/52)), n<sup>o</sup> 4/2009 du 19 nov. 2009 ([RO 2012 627](https://fedlex.data.admin.ch/eli/oc/2012/96)), n<sup>o</sup> 7/2011 du 4 oct. 2011 ([RO 2012 907](https://fedlex.data.admin.ch/eli/oc/2012/149)), n<sup>o</sup> 1/2012 du 22 mars 2012 ([RO 2012 2897](https://fedlex.data.admin.ch/eli/oc/2012/345)), n<sup>o</sup> 4/2012 du 6 nov. 2012 ([RO 2013 961](https://fedlex.data.admin.ch/eli/oc/2013/200)), n<sup>o</sup> 2/2013 du 18 avr. 2013 ([RO 2013 2097](https://fedlex.data.admin.ch/eli/oc/2013/443)), n<sup>o</sup> 1/2014 du 2 oct. 2014 ([RO 2014 4425](https://fedlex.data.admin.ch/eli/oc/2014/732)) et n<sup>o</sup> 2/2015 du 17 juin 2015 ([RO 2016 363](https://fedlex.data.admin.ch/eli/oc/2016/51)), n<sup>o</sup> 4/2015 du 12 nov. 2015 ([RO 2016 427](https://fedlex.data.admin.ch/eli/oc/2016/70)), n<sup>o</sup> 1/2017 du 8 fév. 2017 ([RO 2018 2771](https://fedlex.data.admin.ch/eli/oc/2018/414)) et n<sup>o</sup> 2/2017 du 9 nov. 2017, en vigueur pour la Suisse depuis le 9 nov. 2017 ([RO 2018 2781](https://fedlex.data.admin.ch/eli/oc/2018/415)).
+[^t-17]: Mise à jour selon les D du Conseil n<sup>o</sup> 3/2004 du 5 nov. 2004 ([RO 2005 1639](https://fedlex.data.admin.ch/eli/oc/2005/262)[2201](https://fedlex.data.admin.ch/eli/oc/2005/366)), n<sup>o</sup> 1/2006 du 3 fév. 2006 ([RO 2009 297](https://fedlex.data.admin.ch/eli/oc/2009/51)), n<sup>o</sup> 5/2007 du 13 déc. 2007 ([RO 2009 299](https://fedlex.data.admin.ch/eli/oc/2009/52)), n<sup>o</sup> 4/2009 du 19 nov. 2009 ([RO 2012 627](https://fedlex.data.admin.ch/eli/oc/2012/96)), n<sup>o</sup> 7/2011 du 4 oct. 2011 ([RO 2012 907](https://fedlex.data.admin.ch/eli/oc/2012/149)), n<sup>o</sup> 1/2012 du 22 mars 2012 ([RO 2012 2897](https://fedlex.data.admin.ch/eli/oc/2012/345)), n<sup>o</sup> 4/2012 du 6 nov. 2012 ([RO 2013 961](https://fedlex.data.admin.ch/eli/oc/2013/200)), n<sup>o</sup> 2/2013 du 18 avr. 2013 ([RO 2013 2097](https://fedlex.data.admin.ch/eli/oc/2013/443)), n<sup>o</sup> 1/2014 du 2 oct. 2014 ([RO 2014 4425](https://fedlex.data.admin.ch/eli/oc/2014/732)) et n<sup>o</sup> 2/2015 du 17 juin 2015 ([RO 2016 363](https://fedlex.data.admin.ch/eli/oc/2016/51)), n<sup>o</sup> 4/2015 du 12 nov. 2015 ([RO 2016 427](https://fedlex.data.admin.ch/eli/oc/2016/70)), n<sup>o</sup> 1/2017 du 8 fév. 2017 ([RO 2018 2771](https://fedlex.data.admin.ch/eli/oc/2018/414)) et n<sup>o</sup> 2/2017 du 9 nov. 2017, en vigueur pour la Suisse depuis le 9 nov. 2017 ([RO 2018 2781](https://fedlex.data.admin.ch/eli/oc/2018/415)).
 
 (art. 29 de la Convention)
 
@@ -4442,7 +4499,7 @@ Annexe Q*[^t-16]*
 
 **Champ d’application**
 
-La présente annexe fixe des règles auxquelles doivent se conformer les Etats membres dans le domaine du transport aérien; elle s’applique pour autant qu’elles concernent le transport aérien ou des objets directement liés au transport aérien, tel que mentionné dans l’appendice à la présente annexe.
+La présente annexe fixe des règles auxquelles doivent se conformer les États membres dans le domaine du transport aérien; elle s’applique pour autant qu’elles concernent le transport aérien ou des objets directement liés au transport aérien, tel que mentionné dans l’appendice à la présente annexe.
 
 #### Art. 2
 
@@ -4454,7 +4511,7 @@ Dans le domaine d’application de la présente annexe, et sans préjudice des d
 
 **Liberté d’établissement**
 
-<sup>1.</sup> Dans le cadre de la présente annexe et sans préjudice du règlement (CEE) du Conseil n<sup>o</sup> 2407/92 tel qu’il figure à l’appendice à la présente annexe, les restrictions à la liberté d’établissement des ressortissants d’un Etat membre sur le territoire d’un autre Etat membre sont interdites. Cette disposition s’applique également à la création d’agences, de succursales et de filiales par des ressortissants d’un Etat membre établis sur le territoire d’un autre Etat membre. La liberté d’établissement comporte l’accès aux activités non salariées et leur exercice ainsi que la constitution et la gestion d’entreprises, en particulier des sociétés au sens du par. 2 de l’art. 4, dans les conditions fixées par le droit de l’Etat d’établissement pour ses propres ressortissants.
+<sup>1.</sup> Dans le cadre de la présente annexe et sans préjudice du règlement (CEE) du Conseil n<sup>o</sup> 2407/92 tel qu’il figure à l’appendice à la présente annexe, les restrictions à la liberté d’établissement des ressortissants d’un État membre sur le territoire d’un autre État membre sont interdites. Cette disposition s’applique également à la création d’agences, de succursales et de filiales par des ressortissants d’un État membre établis sur le territoire d’un autre État membre. La liberté d’établissement comporte l’accès aux activités non salariées et leur exercice ainsi que la constitution et la gestion d’entreprises, en particulier des sociétés au sens du par. 2 de l’art. 4, dans les conditions fixées par le droit de l’État d’établissement pour ses propres ressortissants.
 
 <sup>2.</sup> Les dispositions du présent article s’appliquent sous réserve des restrictions contenues dans les annexes L et M et dans le protocole à l’annexe K sur la libre circulation des personnes entre le Liechtenstein et la Suisse.
 
@@ -4462,7 +4519,7 @@ Dans le domaine d’application de la présente annexe, et sans préjudice des d
 
 **Sociétés**
 
-<sup>1.</sup> Dans le cadre de la présente annexe, les sociétés créées conformément au droit d’un Etat membre et ayant leur siège statutaire, leur administration centrale ou leur principal établissement sur le territoire d’un Etat membre sont assimilées aux personnes physiques ressortissantes d’un Etat membre.
+<sup>1.</sup> Dans le cadre de la présente annexe, les sociétés créées conformément au droit d’un État membre et ayant leur siège statutaire, leur administration centrale ou leur principal établissement sur le territoire d’un État membre sont assimilées aux personnes physiques ressortissantes d’un État membre.
 
 <sup>2.</sup> Par «sociétés» on entend les sociétés de droit civil ou commercial, y compris les sociétés coopératives et les autres personnes relevant du droit public ou privé, à l’exception des sociétés qui ne poursuivent pas de but lucratif.
 
@@ -4470,15 +4527,15 @@ Dans le domaine d’application de la présente annexe, et sans préjudice des d
 
 **Exceptions**
 
-<sup>1.</sup> Les art. 3 et 4 ne s’appliquent pas, en ce qui concerne un Etat membre, aux activités participant dans cet Etat membre, même à titre occasionnel, à l’exercice de l’autorité publique.
+<sup>1.</sup> Les art. 3 et 4 ne s’appliquent pas, en ce qui concerne un État membre, aux activités participant dans cet État membre, même à titre occasionnel, à l’exercice de l’autorité publique.
 
 <sup>2.</sup> Les art. 3 et 4 ainsi que les mesures prises en application de ces articles ne préjugent pas l’applicabilité des dispositions législatives, réglementaires ou administratives prévoyant un régime spécial pour les ressortissants étrangers et justifiées par des raisons d’ordre public, de sécurité publique ou de santé publique.
 
 #### Art. 6
 
-**Aides d’Etat**
+**Aides d’État**
 
-<sup>1.</sup> Sauf disposition contraire de la présente annexe, sont incompatibles avec la présente annexe, pour autant qu’elles affectent les échanges entre les Etats membres, les aides accordées par un ou plusieurs Etat membres ou provenant de fonds publics, sous quelque forme que ce soit, et qui faussent ou menacent de fausser la concurrence en favorisant certaines entreprises ou la production de certains produits.
+<sup>1.</sup> Sauf disposition contraire de la présente annexe, sont incompatibles avec la présente annexe, pour autant qu’elles affectent les échanges entre les États membres, les aides accordées par un ou plusieurs État membres ou provenant de fonds publics, sous quelque forme que ce soit, et qui faussent ou menacent de fausser la concurrence en favorisant certaines entreprises ou la production de certains produits.
 
 <sup>2.</sup>
 
@@ -4492,22 +4549,22 @@ Sont compatibles avec la présente annexe:
 Peuvent être considérées comme compatibles avec la présente annexe:
 
 - a. les aides visant à promouvoir le développement économique de régions dans lesquelles le niveau de vie est anormalement bas ou qui connaissent une situation de grave sous-emploi;
-- b. les aides visant à promouvoir la réalisation d’un important projet d’intérêt commun européen, ou à remédier à une perturbation grave de l’économie d’un Etat membre;
+- b. les aides visant à promouvoir la réalisation d’un important projet d’intérêt commun européen, ou à remédier à une perturbation grave de l’économie d’un État membre;
 - c. les aides visant à faciliter le développement de certaines activités ou de certaines régions économiques, lorsqu’elles ne portent pas atteinte aux conditions des échanges dans une mesure contraire à l’intérêt commun.
 
 #### Art. 7
 
 **Surveillance**
 
-Les autorités compétentes respectives assurent un suivi permanent de tous les systèmes d’aides existant dans l’Etat membre concerné. Chaque Etat membre veille à ce que les autres Etats membres soient informés de toute procédure engagée afin de garantir le respect des règles de l’art. 6 et, si nécessaire, peut soumettre des observations avant qu’une décision définitive soit prise. A la demande d’un Etat membre, le Conseil examine toute mesure appropriée relative à l’objet et au fonctionnement de la présente annexe.
+Les autorités compétentes respectives assurent un suivi permanent de tous les systèmes d’aides existant dans l’État membre concerné. Chaque État membre veille à ce que les autres États membres soient informés de toute procédure engagée afin de garantir le respect des règles de l’art. 6 et, si nécessaire, peut soumettre des observations avant qu’une décision définitive soit prise. À la demande d’un État membre, le Conseil examine toute mesure appropriée relative à l’objet et au fonctionnement de la présente annexe.
 
 #### Art. 8
 
 **Accords bilatéraux existants**
 
-<sup>1.</sup> Les dispositions concernant les droits de trafic auxquelles il est fait référence dans l’appendice prévalent sur les dispositions pertinentes des accords bilatéraux existant entre les Etats membres. Toutefois, les droits de trafic existants résultant de ces accords bilatéraux et qui n’entrent pas dans le champ de ces dispositions peuvent continuer à être exercés, pour autant qu’il n’y ait pas de discrimination en raison de la nationalité et que la concurrence ne soit pas faussée.
+<sup>1.</sup> Les dispositions concernant les droits de trafic auxquelles il est fait référence dans l’appendice prévalent sur les dispositions pertinentes des accords bilatéraux existant entre les États membres. Toutefois, les droits de trafic existants résultant de ces accords bilatéraux et qui n’entrent pas dans le champ de ces dispositions peuvent continuer à être exercés, pour autant qu’il n’y ait pas de discrimination en raison de la nationalité et que la concurrence ne soit pas faussée.
 
-<sup>2.</sup> Sans préjudice du par. 1, la présente annexe prévaut sur les dispositions pertinentes des accords bilatéraux en vigueur entre les Etats membres concernant toute question couverte par la présente annexe.
+<sup>2.</sup> Sans préjudice du par. 1, la présente annexe prévaut sur les dispositions pertinentes des accords bilatéraux en vigueur entre les États membres concernant toute question couverte par la présente annexe.
 
 #### Art. 9
 
@@ -4515,28 +4572,28 @@ Les autorités compétentes respectives assurent un suivi permanent de tous les 
 
 <sup>1.</sup> Le Conseil institue un Comité du transport aérien, responsable de la gestion de la présente annexe et de son application correcte.
 
-<sup>2.</sup> A cette fin, le Comité formule des recommandations.
+<sup>2.</sup> À cette fin, le Comité formule des recommandations.
 
 <sup>3.</sup> Il peut en particulier recommander au Conseil d’amender les dispositions de l’appendice.
 
-<sup>4.</sup> Aux fins de la mise en œuvre correcte de la présente annexe, les Etats membres échangent des informations et, à la demande de l’un d’entre eux, organisent des consultations au sein du Comité.
+<sup>4.</sup> Aux fins de la mise en œuvre correcte de la présente annexe, les États membres échangent des informations et, à la demande de l’un d’entre eux, organisent des consultations au sein du Comité.
 
 #### Art. 10
 
 **Droits acquis**
 
-<sup>1.</sup> En cas de dénonciation de la présente Convention ou du retrait d’un Etat membre, les services aériens fonctionnant à la date de l’expiration de la Convention ou à la date à laquelle le retrait devient effectif peuvent continuer jusqu’à la fin de la saison horaire en cours à cette date.
+<sup>1.</sup> En cas de dénonciation de la présente Convention ou du retrait d’un État membre, les services aériens fonctionnant à la date de l’expiration de la Convention ou à la date à laquelle le retrait devient effectif peuvent continuer jusqu’à la fin de la saison horaire en cours à cette date.
 
-<sup>2.</sup> Les droits et obligations des entreprises découlant des art. 3 et 4 de la présente annexe et des règles définies par le règlement (CEE) n<sup>o</sup> 2407/92 du Conseil figurant à l’appendice à la présente annexe ne sont pas affectés par l’expiration de la Convention ou par le retrait d’un Etat membre.
+<sup>2.</sup> Les droits et obligations des entreprises découlant des art. 3 et 4 de la présente annexe et des règles définies par le règlement (CEE) n<sup>o</sup> 2407/92 du Conseil figurant à l’appendice à la présente annexe ne sont pas affectés par l’expiration de la Convention ou par le retrait d’un État membre.
 
 Annexe Q – Appendice
 
 Aux fins du présent appendice:
 
-- – Dans tous les cas où les actes auxquels il est fait référence dans le présent appendice mentionnent les Etats membres de la Communauté européenne ou l’exigence d’un lien de rattachement avec ceux-ci, ces mentions sont réputées, aux fins de l’annexe, renvoyer également aux Etats membres ou à l’exigence d’un lien identique de rattachement avec un des Etats membres;
-- – le terme «transporteur aérien communautaire» visé dans les directives et règlements communautaires qui suivent s’applique à un transporteur aérien détenteur d’une autorisation d’exploitation et ayant son principal lieu d’activité et, le cas échéant, son siège statutaire dans un des Etats membres, conformément au règlement (CEE) du Conseil n<sup>o</sup> 2407/92.
+- – Dans tous les cas où les actes auxquels il est fait référence dans le présent appendice mentionnent les États membres de la Communauté européenne ou l’exigence d’un lien de rattachement avec ceux-ci, ces mentions sont réputées, aux fins de l’annexe, renvoyer également aux États membres ou à l’exigence d’un lien identique de rattachement avec un des États membres;
+- – le terme «transporteur aérien communautaire» visé dans les directives et règlements communautaires qui suivent s’applique à un transporteur aérien détenteur d’une autorisation d’exploitation et ayant son principal lieu d’activité et, le cas échéant, son siège statutaire dans un des États membres, conformément au règlement (CEE) du Conseil n<sup>o</sup> 2407/92.
 
-Dans la mesure où l’application de l’ annexe implique des notions communes contenues dans les instruments juridiques auxquels le présent appendice fait référence, il est tenu compte de la jurisprudence pertinente antérieure au 21 juin 1999. Afin d’assurer le bon fonctionnement de la présente annexe, le Conseil, à la demande d’un Etat membre, détermine les implications de la jurisprudence postérieure au 21 juin 1999.
+Dans la mesure où l’application de l’ annexe implique des notions communes contenues dans les instruments juridiques auxquels le présent appendice fait référence, il est tenu compte de la jurisprudence pertinente antérieure au 21 juin 1999. Afin d’assurer le bon fonctionnement de la présente annexe, le Conseil, à la demande d’un État membre, détermine les implications de la jurisprudence postérieure au 21 juin 1999.
 
 ## 1. Libéralisation et autres règles dans le domaine de l’aviation civile
 
@@ -4708,7 +4765,7 @@ Règlementdu Parlement européen et du Conseil du 20 février 2008 concernant de
 
 Les dispositions du règlement seront, aux fins de la présente Convention, lues avec l’adaptation suivante:
 
-- (a) A l’art. 12(1), les mots «ou d’un Etat membre de l’AELE» sont insérés après les mots «la Communauté».
+- (a) À l’art. 12(1), les mots «ou d’un État membre de l’AELE» sont insérés après les mots «la Communauté».
 - (b) L’art. 12(2) ne s’applique pas.
 - (c)
 
@@ -4785,7 +4842,7 @@ Règlement du Parlement européens et du Conseil du 20 octobre 2010 sur les enqu
 
 Les dispositions de ce règlement seront, aux fins de la présente Convention, lues avec l’adaptation suivante:
 
-La mention «Etant donné que le Liechtenstein et la Suisse ont une base de données commune au sens de la Directive 2003/42/CE, les données pertinentes transmises par le Liechtenstein seront intégrées dans le registre central avec celles transmises par la Suisse.» est ajoutée aux art. 18, al. 5 et 19, al. 1.
+La mention «Étant donné que le Liechtenstein et la Suisse ont une base de données commune au sens de la Directive 2003/42/CE, les données pertinentes transmises par le Liechtenstein seront intégrées dans le registre central avec celles transmises par la Suisse.» est ajoutée aux art. 18, al. 5 et 19, al. 1.
 
 N<sup>o</sup> 69/2014
 
@@ -4805,7 +4862,7 @@ Règlement (UE) de la Commission du 27 mars 2014 relatif aux honoraires et redev
 
 Les dispositions de ce règlement seront, aux fins de la présente Convention, lues avec l’adaptation suivante:
 
-A l’art. 3, al. 5, les mots «ou un Etat membre de l’AELE» sont insérés après les mots «l’Union».
+À l’art. 3, al. 5, les mots «ou un État membre de l’AELE» sont insérés après les mots «l’Union».
 
 N<sup>o</sup> 2015/445
 
@@ -4829,7 +4886,7 @@ Règlement du Parlement européen et du Conseil du 3 avril 2014 concernant les c
 
 Aux fins de la présente Convention, les dispositions du règlement se liront avec l’adaptation suivante:
 
-Le Liechtenstein et la Suisse ont une base de données commune sur les incidents dans l’aviation civile. Les données pertinentes en provenance du Liechtenstein seront intégrées dans le registre central avec les données suisses. Etant donné la coopération bilatérale avec la Suisse concernant les incidents dans l’aviation civile survenant au Liechtenstein, le Liechtenstein traitera les demandes reçues en conformité avec ce règlement en étroite collaboration avec la Suisse.
+Le Liechtenstein et la Suisse ont une base de données commune sur les incidents dans l’aviation civile. Les données pertinentes en provenance du Liechtenstein seront intégrées dans le registre central avec les données suisses. Étant donné la coopération bilatérale avec la Suisse concernant les incidents dans l’aviation civile survenant au Liechtenstein, le Liechtenstein traitera les demandes reçues en conformité avec ce règlement en étroite collaboration avec la Suisse.
 
 N<sup>o</sup> 2015/1039
 
@@ -4947,7 +5004,7 @@ N<sup>o</sup> 549/2004
 
 Les dispositions de ce règlement seront, aux fins de la présente Convention, lues avec l’adaptation suivante:
 
-- a) A l’art. 11, les mots «communautaires» est compris comme «régionaux ou nationaux» en ce qui concerne l’Islande.
+- a) À l’art. 11, les mots «communautaires» est compris comme «régionaux ou nationaux» en ce qui concerne l’Islande.
 - b) En ce qui concerne l’Islande, l’art. 11 s’applique à partir du 1<sup>er</sup> janvier 2015.
 - c) Ce règlement ne s’applique pas au Liechtenstein.
 
@@ -5001,7 +5058,7 @@ Règlement du Parlement européen et du Conseil du 10 mars 2004 concernant l’i
 
 Aux fins de la présente convention, les dispositions du règlement se liront avec les adaptations suivantes:
 
-- a) Aux art. 5, par. 2 et 7, par. 4, ainsi qu’au deuxième et au dernier tirets de la section 3 de l’annexe III, l’expression ‹ou les Etats membres de l’AELE› est insérée après les termes ‹la Communauté›;
+- a) Aux art. 5, par. 2 et 7, par. 4, ainsi qu’au deuxième et au dernier tirets de la section 3 de l’annexe III, l’expression ‹ou les États membres de l’AELE› est insérée après les termes ‹la Communauté›;
 - b) Ce règlement ne s’applique pas au Liechtenstein.
 
 N<sup>o</sup> 2096/2005
@@ -5282,7 +5339,7 @@ Annexe R
 
 **Champ d’application**
 
-L’accès des fournisseurs et prestataires de services des Etats membres aux marchés de produits et de services, y compris les services de construction, passés par des opérateurs ferroviaires, des entités exerçant leurs activités dans le domaine de l’énergie autre que l’électricité et des entités privées assurant un service au public dans les domaines de l’eau potable, de l’électricité, du transport urbain, des ports et des aéroports des Etats membres est régi par les dispositions de la présente annexe.
+L’accès des fournisseurs et prestataires de services des États membres aux marchés de produits et de services, y compris les services de construction, passés par des opérateurs ferroviaires, des entités exerçant leurs activités dans le domaine de l’énergie autre que l’électricité et des entités privées assurant un service au public dans les domaines de l’eau potable, de l’électricité, du transport urbain, des ports et des aéroports des États membres est régi par les dispositions de la présente annexe.
 
 #### Art. 2
 
@@ -5290,17 +5347,17 @@ L’accès des fournisseurs et prestataires de services des Etats membres aux ma
 
 Aux fins de la présente annexe, il y a lieu d’entendre par:
 
-- a) «opérateurs ferroviaires» (ci-après dénommés OF), des entités qui, soit sont des pouvoirs publics ou des entreprises publiques, soit bénéficient de droits exclusifs ou spéciaux délivrés pour l’exercice de cette activité par une autorité compétente d’un des Etats membres et ont parmi leurs activités l’exploitation de réseaux destinés à fournir un service au public dans le domaine des transports par chemin de fer;
+- a) «opérateurs ferroviaires» (ci-après dénommés OF), des entités qui, soit sont des pouvoirs publics ou des entreprises publiques, soit bénéficient de droits exclusifs ou spéciaux délivrés pour l’exercice de cette activité par une autorité compétente d’un des États membres et ont parmi leurs activités l’exploitation de réseaux destinés à fournir un service au public dans le domaine des transports par chemin de fer;
 - b)
 
-  «entités exerçant leurs activités dans le domaine de l’énergie autre que l’électricité», les entités qui, soit sont des pouvoirs publics ou des entreprises publiques, soit bénéficient de droits exclusifs ou spéciaux délivrés pour l’exercice de cette activité par une autorité compétente d’un des Etats membres et ont parmi leurs activités l’une de celles citées aux points (i) et (ii) ci-dessous ou plusieurs de ces activités:
+  «entités exerçant leurs activités dans le domaine de l’énergie autre que l’électricité», les entités qui, soit sont des pouvoirs publics ou des entreprises publiques, soit bénéficient de droits exclusifs ou spéciaux délivrés pour l’exercice de cette activité par une autorité compétente d’un des États membres et ont parmi leurs activités l’une de celles citées aux points (i) et (ii) ci-dessous ou plusieurs de ces activités:
 
   - i) la mise à disposition ou l’exploitation de réseaux fixes destinés à fournir un service au public dans le domaine de la production, du transport ou de la distribution de gaz ou de chaleur ou l’alimentation de ces réseaux en gaz ou en chaleur,
   - ii) l’exploitation d’une aire géographique dans le but de prospecter ou d’extraire du pétrole, du gaz, du charbon ou d’autres combustibles solides[^annexR-lvlu1-2-1];
 
 - c)
 
-  «entités privées assurant un service au public», des entités qui ne sont pas couvertes par l’AMP[^annexR-lvlu1-2-2] mais bénéficient de droits exclusifs ou spéciaux délivrés pour l’exercice de cette activité par une autorité compétente d’un des Etats membres et ont parmi leurs activités l’une de celles citées aux ch. i) à v) ci-dessous ou plusieurs de ces activités:
+  «entités privées assurant un service au public», des entités qui ne sont pas couvertes par l’AMP[^annexR-lvlu1-2-2] mais bénéficient de droits exclusifs ou spéciaux délivrés pour l’exercice de cette activité par une autorité compétente d’un des États membres et ont parmi leurs activités l’une de celles citées aux ch. i) à v) ci-dessous ou plusieurs de ces activités:
 
   - i) la mise à disposition ou l’exploitation de réseaux fixes destinés à fournir un service au public dans le domaine de la production, du transport ou de la distribution d’eau potable ou l’alimentation de ces réseaux en eau potable,
   - ii) la mise à disposition ou l’exploitation de réseaux fixes destinés à fournir un service au public dans le domaine de la production, du transport ou de la distribution d’électricité ou l’alimentation de ces réseaux en électricité,
@@ -5310,14 +5367,14 @@ Aux fins de la présente annexe, il y a lieu d’entendre par:
 
 - d) Cette annexe s’applique aux lois, règlements et pratiques relatifs aux marchés passés par les OF des parties, par les entités exerçant leurs activités dans le domaine de l’énergie autre que l’électricité et par les entités privées assurant un service au public (ci-après dénommées «entités couvertes») telles qu’elles sont définies dans le présent article et spécifiées dans les appendices 1 à 9 de cette annexe ainsi qu’à l’attribution de tout marché par ces entités couvertes.
 
-[^annexR-lvlu1-2-1]: A la suite de changements des règles nationales concernant les entités assurant un service au public en Norvège, ayant établi des règles alternatives qui assurent que les entités acheteuses engagées dans l’exploitation de pétrole ou de gaz attribuent les marchés sur une base non-discriminatoire, transparente et compétitive, la Norvège est exemptée de l’application des règles procédurales de la directive sur les entités assurant un service au public (Directive du Conseil 93/38/CEE du 14 juin 1993) aux entités engagées dans l’exploitation d’aires géographiques dans le but de prospecter ou d’extraire du pétrole ou du gaz. Cette exemption a été accordée à la Norvège, à sa demande, suite à une décision de l’Autorité de surveillance AELE concluant que la Norvège a correctement transposé la Directive du Conseil 94/22/CE du Parlement européen et du Conseil du 30 mai 1994 ce qui constitue une pré-condition pour l’octroi d’une telle exemption.
+[^annexR-lvlu1-2-1]: À la suite de changements des règles nationales concernant les entités assurant un service au public en Norvège, ayant établi des règles alternatives qui assurent que les entités acheteuses engagées dans l’exploitation de pétrole ou de gaz attribuent les marchés sur une base non-discriminatoire, transparente et compétitive, la Norvège est exemptée de l’application des règles procédurales de la directive sur les entités assurant un service au public (Directive du Conseil 93/38/CEE du 14 juin 1993) aux entités engagées dans l’exploitation d’aires géographiques dans le but de prospecter ou d’extraire du pétrole ou du gaz. Cette exemption a été accordée à la Norvège, à sa demande, suite à une décision de l’Autorité de surveillance AELE concluant que la Norvège a correctement transposé la Directive du Conseil 94/22/CE du Parlement européen et du Conseil du 30 mai 1994 ce qui constitue une pré-condition pour l’octroi d’une telle exemption.
 [^annexR-lvlu1-2-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)**.** Tel qu’en vigueur au 21 juin 2001.
 
 #### Art. 3
 
 **Concurrence**
 
-La présente annexe ne s’applique pas aux marchés passés par des OF, des entités opérant dans le domaine de l’énergie autre que l’électricité et les entités privés assurant un service au public dès que ces secteurs seront libéralisés, pour leurs achats destinés exclusivement à leur permettre d’assurer un ou plusieurs services lorsque d’autres entités sont libres d’offrir les mêmes services dans la même aire géographique à des conditions substantiellement identiques. Chaque Etat membre informe les autres Etats membres de ces marchés dans les meilleurs délais.
+La présente annexe ne s’applique pas aux marchés passés par des OF, des entités opérant dans le domaine de l’énergie autre que l’électricité et les entités privés assurant un service au public dès que ces secteurs seront libéralisés, pour leurs achats destinés exclusivement à leur permettre d’assurer un ou plusieurs services lorsque d’autres entités sont libres d’offrir les mêmes services dans la même aire géographique à des conditions substantiellement identiques. Chaque État membre informe les autres États membres de ces marchés dans les meilleurs délais.
 
 #### Art. 4
 
@@ -5343,13 +5400,13 @@ La présente annexe s’applique aux marchés ou séries de marchés dont la val
 
 **Traitement national et non-discrimination**
 
-Concernant les lois, règlements, procédures et pratiques de passation de marchés couverts par la présente annexe, chaque Etat membre accorde le traitement prévu à l’art. III de l’AMP.
+Concernant les lois, règlements, procédures et pratiques de passation de marchés couverts par la présente annexe, chaque État membre accorde le traitement prévu à l’art. III de l’AMP.
 
 #### Art. 7
 
 **Régime en dessous des valeurs seuils**
 
-Concernant les procédures et pratiques de passation des marchés en dessous des valeurs seuils fixées dans l’art. 5, les Etats membres s’engagent à encourager leurs entités couvertes à traiter les fournisseurs et les prestataires de services des autres Etats membres conformément aux dispositions du par. 2 de l’art. 37 de la Convention. Cette disposition est sans préjudice des mesures rendues nécessaires par le développement du marché intérieur suisse[^annexR-lvlu1-7-1] ou d’autres mesures notifiées par les Etats membres et figurant dans l’appendice 12 de cette annexe.
+Concernant les procédures et pratiques de passation des marchés en dessous des valeurs seuils fixées dans l’art. 5, les États membres s’engagent à encourager leurs entités couvertes à traiter les fournisseurs et les prestataires de services des autres États membres conformément aux dispositions du par. 2 de l’art. 37 de la Convention. Cette disposition est sans préjudice des mesures rendues nécessaires par le développement du marché intérieur suisse[^annexR-lvlu1-7-1] ou d’autres mesures notifiées par les États membres et figurant dans l’appendice 12 de cette annexe.
 
 [^annexR-lvlu1-7-1]: Cette exemption couvre uniquement les procédures de contestation prévues par LF du 6 oct. 1995 sur le marché intérieur ([RS 943.02](https://fedlex.data.admin.ch/eli/cc/1996/1738_1738_1738)) pour des procédures de passation en dessous des valeurs seuils. La loi traite du développement du marché intérieur suisse en tenant compte de la structure fédérale de la Suisse.
 
@@ -5363,13 +5420,13 @@ La présente annexe ne s’applique pas aux entités couvertes lorsqu’elles re
 
 **Procédures de passation et de contestation**
 
-Les Etats membres assurent que les procédures de passation et de contestation sont non-discriminatoires et transparentes. Les procédures de passation et de contestation de l’AMP spécifiées dans l’appendice 14 sont applicables aux entités couvertes par la présente annexe.
+Les États membres assurent que les procédures de passation et de contestation sont non-discriminatoires et transparentes. Les procédures de passation et de contestation de l’AMP spécifiées dans l’appendice 14 sont applicables aux entités couvertes par la présente annexe.
 
 #### Art. 10
 
-**Echange d’information**
+**Échange d’information**
 
-Les Etats membres se communiquent les noms et adresses des points de contact qui sont chargés de fournir des informations sur les règles et règlements dans le domaine des marchés publics.
+Les États membres se communiquent les noms et adresses des points de contact qui sont chargés de fournir des informations sur les règles et règlements dans le domaine des marchés publics.
 
 #### Art. 11
 
@@ -5544,7 +5601,7 @@ Entités au sens de l’art. 1, al. 2 et l’art. 2, al. 1, de la loi fédérale
 Par exemple: BLS, MthB, chemin de fer du Jura, RhB, FO, TPF.
 
 [^annexR-lvlu1-lvlu4-6]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^annexR-lvlu1-lvlu4-7]: A l’exception de participations financières et d’entreprises qui n’opèrent pas directement dans le domaine du transport.
+[^annexR-lvlu1-lvlu4-7]: À l’exception de participations financières et d’entreprises qui n’opèrent pas directement dans le domaine du transport.
 
 Annexe R – Appendice 7
 
@@ -5666,10 +5723,10 @@ La présente annexe ne s’applique pas:
 - 4\. aux marchés de l’emploi.
 - 5\. aux marchés visant l’achat, le développement, la production ou la coproduction d’éléments de programmes par des organismes de radiodiffusion et aux marchés concernant les temps de diffusion.
 
-[^annexR-lvlu1-1]: A l’exclusion des services de transports ferroviaires
-[^annexR-lvlu1-2]: A l’exclusion des services de téléphonie vocale, de télex, de radiotéléphonie, de radiomessagerie et de télécommunication par satellite
-[^annexR-lvlu1-3]: A l’exclusion des marchés de services financiers relatifs à l’émission, à l’achat, à la vente et au transfert de titres ou d’autres instruments financiers, ainsi que de services fournis par des banques centrales.
-[^annexR-lvlu1-4]: A l’exclusion des services d’arbitrage et de conciliation.
+[^annexR-lvlu1-1]: À l’exclusion des services de transports ferroviaires
+[^annexR-lvlu1-2]: À l’exclusion des services de téléphonie vocale, de télex, de radiotéléphonie, de radiomessagerie et de télécommunication par satellite
+[^annexR-lvlu1-3]: À l’exclusion des marchés de services financiers relatifs à l’émission, à l’achat, à la vente et au transfert de titres ou d’autres instruments financiers, ainsi que de services fournis par des banques centrales.
+[^annexR-lvlu1-4]: À l’exclusion des services d’arbitrage et de conciliation.
 [^annexR-lvlu1-5]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1B
 [^annexR-lvlu1-6]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
 
@@ -5702,7 +5759,7 @@ Les engagements pris par les parties dans le domaine des services de constructio
 
 Annexe R – Appendice 12
 
-## Mesures notifiées par les Etats membres
+## Mesures notifiées par les États membres
 
 Mesures notifiées par la Suisse:
 
@@ -5736,9 +5793,9 @@ L’approvisionnement d’eau potable, d’électricité, de gaz ou chaleur à d
   - 1) la production de gaz ou de chaleur par l’entité concernée est le résultat inéluctable de l’exercice d’une activité autre que celle visée dans l’art. 2, let. b), ch. i) de l’annexe et
   - 2) l’alimentation du réseau public ne vise qu’à exploiter de manière économique cette production et correspond à 20 % du chiffre d’affaires au maximum de l’entité en prenant en considération la moyenne des trois dernières années, y inclus l’année en cours.
 
-Activités sous conditions n’utilisant pas les réseaux ou l’aire géographique dans un Etats membre:
+Activités sous conditions n’utilisant pas les réseaux ou l’aire géographique dans un États membre:
 
-Les dispositions de l’annexe ne s’appliquent pas aux marchés que les entités adjudicatrices passent à des fins autres que la poursuite de leurs activités décrites dans l’art. 2 de l’annexe ou pour la poursuite de leurs activités en dehors de chaque Etat membre, n’utilisant pas le réseau ou l’aire géographique de cet Etat membre.
+Les dispositions de l’annexe ne s’appliquent pas aux marchés que les entités adjudicatrices passent à des fins autres que la poursuite de leurs activités décrites dans l’art. 2 de l’annexe ou pour la poursuite de leurs activités en dehors de chaque État membre, n’utilisant pas le réseau ou l’aire géographique de cet État membre.
 
 Revente ou location à des tiers
 
@@ -5753,15 +5810,15 @@ Les dispositions de l’annexe ne s’appliquent pas:
 
 Sécurité nationale
 
-Les dispositions de l’annexe ne s’appliquent pas aux marchés lorsqu’ils sont déclarés secrets par les Etats membres ou lorsque leur exécution doit s’accompagner de mesures particulières de sécurité, conformément aux dispositions législatives, réglementaires ou administratives en vigueur dans l’Etat membre concerné ou lorsque la protection des intérêts essentiels de la sécurité de cet Etat l’exige.
+Les dispositions de l’annexe ne s’appliquent pas aux marchés lorsqu’ils sont déclarés secrets par les États membres ou lorsque leur exécution doit s’accompagner de mesures particulières de sécurité, conformément aux dispositions législatives, réglementaires ou administratives en vigueur dans l’État membre concerné ou lorsque la protection des intérêts essentiels de la sécurité de cet État l’exige.
 
 Obligations internationales
 
 Les dispositions de l’annexe ne s’appliquent pas:
 
-- a) aux marchés passés en vertu d’un accord international et portant sur la réalisation ou l’exploitation en commun d’un ouvrage par deux Etats membres ou davantage.
+- a) aux marchés passés en vertu d’un accord international et portant sur la réalisation ou l’exploitation en commun d’un ouvrage par deux États membres ou davantage.
 - b) aux marchés passés en vertu de la procédure spécifique d’une organisation internationale.
-- c) à des arrangements en Norvège, Islande, au Liechtenstein ou dans un Etat tiers mettant en œuvre un accord international concernant le stationnement de troupes.
+- c) à des arrangements en Norvège, Islande, au Liechtenstein ou dans un État tiers mettant en œuvre un accord international concernant le stationnement de troupes.
 
 Disposition spéciale concernant les OF
 
@@ -5773,7 +5830,7 @@ Annexe R – Appendice 14
 
 Les dispositions suivantes de l’AMP[^annexR-lvlu1-9] sont applicables à l’annexe:
 
-- Art. II Evaluation des marchés
+- Art. II Évaluation des marchés
 - Art. III Traitement national et non-discrimination
 - Art. IV Règles d’origine
 - Art. VI Spécifications techniques
@@ -5874,19 +5931,19 @@ Annexe T
 
 \1. Le tribunal arbitral est composé de trois membres.
 
-<sup>2.</sup> Dans la notification écrite, conformément à l’art. 48 de la Convention, le ou les Etat(s) membre(s) qui soumettent le différend à l’arbitrage désignent un membre du tribunal arbitral.
+<sup>2.</sup> Dans la notification écrite, conformément à l’art. 48 de la Convention, le ou les État(s) membre(s) qui soumettent le différend à l’arbitrage désignent un membre du tribunal arbitral.
 
-<sup>3.</sup> Dans les quinze jours suivant la réception de la notification mentionnée au par. 2 du présent article, le ou les Etat(s) membre(s) auxquels la notification est adressée désigne(nt) à leur tour, un membre.
+<sup>3.</sup> Dans les quinze jours suivant la réception de la notification mentionnée au par. 2 du présent article, le ou les État(s) membre(s) auxquels la notification est adressée désigne(nt) à leur tour, un membre.
 
-<sup>4.</sup> Dans les trente jours suivant la réception de la notification mentionnée au par. 2 du présent article, les Etats membres parties au différend conviennent d’un troisième arbitre. Ce dernier ne doit être ni un ressortissant d’une partie au différend, ni résider de manière permanente sur le territoire d’un Etat membre. L’arbitre ainsi désigné préside le tribunal arbitral.
+<sup>4.</sup> Dans les trente jours suivant la réception de la notification mentionnée au par. 2 du présent article, les États membres parties au différend conviennent d’un troisième arbitre. Ce dernier ne doit être ni un ressortissant d’une partie au différend, ni résider de manière permanente sur le territoire d’un État membre. L’arbitre ainsi désigné préside le tribunal arbitral.
 
-<sup>5.</sup> Si les trois membres du tribunal arbitral n’ont pas été désignés ou nommés dans les trente jours suivant la réception de la notification mentionnée au par. 2 du présent article, les nominations nécessaires sont effectuées, à la demande d’une partie au différend, par le Président de la Cour internationale de justice, selon les critères définis aux par. 3 et 4. Si le Président de la Cour internationale de justice est empêché d’exercer son mandat ou s’il est ressortissant de l’une des parties au différend, les nominations seront faites par le membre le plus ancien de la Cour qui n’est ni empêché d’agir ni ressortissant d’un Etat membre.
+<sup>5.</sup> Si les trois membres du tribunal arbitral n’ont pas été désignés ou nommés dans les trente jours suivant la réception de la notification mentionnée au par. 2 du présent article, les nominations nécessaires sont effectuées, à la demande d’une partie au différend, par le Président de la Cour internationale de justice, selon les critères définis aux par. 3 et 4. Si le Président de la Cour internationale de justice est empêché d’exercer son mandat ou s’il est ressortissant de l’une des parties au différend, les nominations seront faites par le membre le plus ancien de la Cour qui n’est ni empêché d’agir ni ressortissant d’un État membre.
 
-<sup>6.</sup> A moins que les parties au différend n’en disposent autrement, et sous réserve de l’art. 48 de la Convention et de la présente annexe, le règlement facultatif pour l’arbitrage des différends entre deux Etats de la CPA, entré en vigueur le 20 octobre 1992, est applicable.
+<sup>6.</sup> À moins que les parties au différend n’en disposent autrement, et sous réserve de l’art. 48 de la Convention et de la présente annexe, le règlement facultatif pour l’arbitrage des différends entre deux États de la CPA, entré en vigueur le 20 octobre 1992, est applicable.
 
 \7. Le tribunal arbitral prend ses décisions à la majorité des voix. Les opinions minoritaires ne sont pas rendues publiques.
 
-<sup>8.</sup> Un Etat membre qui n’est pas partie au différend peut, moyennant une notification écrite aux parties au différend, soumettre des propositions écrites au
+<sup>8.</sup> Un État membre qui n’est pas partie au différend peut, moyennant une notification écrite aux parties au différend, soumettre des propositions écrites au
 
 tribunal arbitral, recevoir des propositions écrites des parties au différend, assister à toutes les audiences et faire des propositions orales.
 
@@ -5898,13 +5955,13 @@ tribunal arbitral, recevoir des propositions écrites des parties au différend,
 
 **Application des sentences du tribunal arbitral**
 
-<sup>1.</sup> Dès réception de la sentence arbitrale, les parties au différend se mettent d’accord sur l’application de la sentence arbitrale qui, sauf s’ils en décident autrement d’un commun accord, doit être conforme aux décisions et aux recommandations du tribunal arbitral. Les parties au différend doivent notifier aux autres Etats membres tout règlement du différend.
+<sup>1.</sup> Dès réception de la sentence arbitrale, les parties au différend se mettent d’accord sur l’application de la sentence arbitrale qui, sauf s’ils en décident autrement d’un commun accord, doit être conforme aux décisions et aux recommandations du tribunal arbitral. Les parties au différend doivent notifier aux autres États membres tout règlement du différend.
 
 <sup>2.</sup> Si possible, le règlement doit consister dans la non-exécution ou l’abandon de la mesure contraire à la Convention ou, en l’absence d’un tel règlement, dans un dédommagement.
 
 <sup>3.</sup> En cas de désaccord sur l’existence ou la conformité d’une mesure d’application de la sentence arbitrale avec les recommandations du tribunal arbitral, ce même tribunal doit statuer sur le différend, avant qu’un dédommagement ne puisse être demandé ou la suspension des avantages ne puisse être appliquée conformément à l’art. 3 ci-dessous.
 
-<sup>4.</sup> L’Etat membre plaignant ne peut pas recourir à l’arbitrage en vertu du paragraphe précédent avant l’échéance d’un délai de 12 mois suivant la sentence rendue en vertu du par. 3 de l’art. 48. La sentence du tribunal visé au paragraphe précédent doit être rendue dans les trois mois suivant la demande d’arbitrage.
+<sup>4.</sup> L’État membre plaignant ne peut pas recourir à l’arbitrage en vertu du paragraphe précédent avant l’échéance d’un délai de 12 mois suivant la sentence rendue en vertu du par. 3 de l’art. 48. La sentence du tribunal visé au paragraphe précédent doit être rendue dans les trois mois suivant la demande d’arbitrage.
 
 #### Art. 3
 
@@ -5912,12 +5969,12 @@ tribunal arbitral, recevoir des propositions écrites des parties au différend,
 
 <sup>1.</sup>
 
-Si le tribunal arbitral a déterminé, conformément au par. 3 de l’art. 48, qu’une mesure est contraire aux obligations découlant de la Convention, et si l’Etat membre attaqué n’a pas trouvé une solution mutuellement acceptable avec l’Etat membre plaignant dans un délai de 30 jours dès la réception de la sentence arbitrale, ou si aucune mesure d’application n’a été prise, l’Etat ou les Etats membre(s) plaignants peuvent:
+Si le tribunal arbitral a déterminé, conformément au par. 3 de l’art. 48, qu’une mesure est contraire aux obligations découlant de la Convention, et si l’État membre attaqué n’a pas trouvé une solution mutuellement acceptable avec l’État membre plaignant dans un délai de 30 jours dès la réception de la sentence arbitrale, ou si aucune mesure d’application n’a été prise, l’État ou les États membre(s) plaignants peuvent:
 
-- a) demander un dédommagement par le biais d’un accord avec l’Etat membre attaqué; ou
-- b) suspendre, par rapport à l’Etat membre attaqué, l’application de bénéfices d’effet équivalant au préjudice subi jusqu’à ce que les Etats membres parties au différend aient trouvé un accord sur le règlement du litige.
+- a) demander un dédommagement par le biais d’un accord avec l’État membre attaqué, ou
+- b) suspendre, par rapport à l’État membre attaqué, l’application de bénéfices d’effet équivalant au préjudice subi jusqu’à ce que les États membres parties au différend aient trouvé un accord sur le règlement du litige.
 
-<sup>2.</sup> A la demande écrite d’une partie au différend adressée à l’autre ou aux autres Etat(s) membre(s), le même tribunal arbitral se réunit à nouveau pour déterminer si le degré des bénéfices suspendus par un Etat membre en vertu du par. 1 a un effet équivalant au préjudice subi.
+<sup>2.</sup> À la demande écrite d’une partie au différend adressée à l’autre ou aux autres État(s) membre(s), le même tribunal arbitral se réunit à nouveau pour déterminer si le degré des bénéfices suspendus par un État membre en vertu du par. 1 a un effet équivalant au préjudice subi.
 
 <sup>3.</sup> Le tribunal arbitral conduit la procédure conformément au par. 2 de l’art. 1 ci-dessus. La sentence du tribunal arbitral est rendue dans les soixante jours suivant la date de la demande visée au par. 2 ou tout autre délai convenu par les parties au différend.
 
@@ -5929,23 +5986,23 @@ Annexe U
 
 Lorsqu’il ratifiera l’Accord amendant la Convention AELE du 21 juin 2001, le Royaume de Norvège pourra exempter de l’application de la Convention le territoire de Svalbard, sauf dans le domaine des échanges de marchandises.
 
-Annexe V*[^t-17]*
+Annexe V*[^t-18]*
 
 (art. 8)
 
 ## Produits agricoles de base
 
-[^t-17]: Introduite par le ch. II de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)). Mise à jour selon la D n<sup>o</sup> 4/2013 du Conseil du 22 oct. 2013, en vigueur pour la Suisse depuis le 1<sup>er</sup> avr. 2014 ([RO 2014 759](https://fedlex.data.admin.ch/eli/oc/2014/164)). L’annexe V de la Convention, disponible uniquement en anglais, peut être consultée sur le site Internet de l’AELE, à l’adresse suivante: www.efta.int/legal-texts/efta-convention/annexes
+[^t-18]: Introduite par le ch. II de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)). Mise à jour selon la D n<sup>o</sup> 4/2013 du Conseil du 22 oct. 2013, en vigueur pour la Suisse depuis le 1<sup>er</sup> avr. 2014 ([RO 2014 759](https://fedlex.data.admin.ch/eli/oc/2014/164)). L’annexe V de la Convention, disponible uniquement en anglais, peut être consultée sur le site Internet de l’AELE, à l’adresse suivante: www.efta.int/legal-texts/efta-convention/annexes
 
-Annexe W*[^t-18]*
+Annexe W*[^t-19]*
 
 (art. 8)
 
 ## Produits agricoles transformés
 
-[^t-18]: Introduite par le ch. II de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)). L’annexe W de la Convention, disponible uniquement en anglais, peut être consultée sur le site Internet de l’AELE, à l’adresse suivante: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols.
+[^t-19]: Introduite par le ch. II de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)). L’annexe W de la Convention, disponible uniquement en anglais, peut être consultée sur le site Internet de l’AELE, à l’adresse suivante: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols.
 
-Annexe X*[^t-19]*
+Annexe X*[^t-20]*
 
 (art. 8)
 
@@ -5953,7 +6010,7 @@ Annexe X*[^t-19]*
 
 [^annexX-lvlu1-1]
 
-[^t-19]: Introduite par le ch. II de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)). L’annexe X de la Convention, disponible uniquement en anglais, peut être consultée sur le site Internet de l’AELE, à l’adresse suivante: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols.
+[^t-20]: Introduite par le ch. II de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)). L’annexe X de la Convention, disponible uniquement en anglais, peut être consultée sur le site Internet de l’AELE, à l’adresse suivante: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols.
 [^annexX-lvlu1-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
 
 ## Acte final
@@ -5964,7 +6021,7 @@ Entré en vigueur le 1<sup>er</sup> juin 2002
 
 Les plénipotentiaires
 
-*de la République d’Islande, de la Principauté de Liechtenstein, du Royaume de la Norvège, de la Confédération suisse,* ci-après dénommés les «Etats de l’AELE»,
+*de la République d’Islande, de la Principauté de Liechtenstein, du Royaume de la Norvège, de la Confédération suisse,* ci-après dénommés les «États de l’AELE»,
 
 réunis à Vaduz, le 21 juin 2001, pour la signature de l’Accord modifiant la Convention instituant l’Association européenne de libre-échange,
 
@@ -6000,11 +6057,11 @@ ont arrêté les textes suivants:
   - Appendice 2 Modalités d’application des redevances prévues à l’art. 8
   - Appendice 3 Modèle d’autorisation
   - Appendice 4 Catégories de transports exemptés de tout système de licence et de toute autorisation
-  - Appendice 5 Inventaire des dispositions contenues dans les accords bilatéraux routiers conclus entre les différents Etats membres relatives au transport de marchandises en trafic triangulaire
+  - Appendice 5 Inventaire des dispositions contenues dans les accords bilatéraux routiers conclus entre les différents États membres relatives au transport de marchandises en trafic triangulaire
   - Appendice 6 Exemptions à la limite de poids et à l’interdiction de circuler la nuit et le dimanche
   - Appendice 7 Transport international de passagers en autocar et autobus
-  - Appendice 8 Inventaire des dispositions contenues dans les accords bilatéraux routiers conclus entre les Etats membres relatives à l’octroi des autorisations au transport de voyageurs en trafic triangulaire
-  - Appendice 9 Liste des accords bilatéraux conclus entre les Etats membres et portant en tout ou en partie sur le champ d’application matériel de l’annexe
+  - Appendice 8 Inventaire des dispositions contenues dans les accords bilatéraux routiers conclus entre les États membres relatives à l’octroi des autorisations au transport de voyageurs en trafic triangulaire
+  - Appendice 9 Liste des accords bilatéraux conclus entre les États membres et portant en tout ou en partie sur le champ d’application matériel de l’annexe
   - Appendice 10 Zone frontière de la Suisse
 
 - Annexe XIV Annexe U de la Convention – Transport aérien
@@ -6032,21 +6089,21 @@ ont arrêté les textes suivants:
 - Annexe XIX Table de concordance
 - Annexe XX Version consolidée de la Convention instituant l’Association européenne de libre-échange
 
-Les plénipotentiaires des Etats de l’AELE ont pris note que le Liechtenstein et la Suisse ont adopté un Protocole concernant la libre circulation des personnes entre le Liechtenstein et la Suisse, lequel fait partie intégrante de l’Accord amendant la Convention établissant l’Association européenne de libre-échange et est annexé à l’annexe VIII et au présent Acte final.
+Les plénipotentiaires des États de l’AELE ont pris note que le Liechtenstein et la Suisse ont adopté un Protocole concernant la libre circulation des personnes entre le Liechtenstein et la Suisse, lequel fait partie intégrante de l’Accord amendant la Convention établissant l’Association européenne de libre-échange et est annexé à l’annexe VIII et au présent Acte final.
 
-Les plénipotentiaires des Etats de l’AELE ont adopté les déclarations communes figurant ci-après et annexées au présent Acte final:
+Les plénipotentiaires des États de l’AELE ont adopté les déclarations communes figurant ci-après et annexées au présent Acte final:
 
-- 1\. Evolution du droit;
+- 1\. Évolution du droit;
 - 2\. Concurrence;
 - 3\. Reconnaissance mutuelle en matière d’évaluation de la conformité;
 - 4\. Application parallèle de l’annexe I (version consolidée) sur la reconnaissance mutuelle en matière d’évaluation de la conformité et de l’Accord sur la reconnaissance mutuelle entre la Suisse et la CE;
 - 5\. Reconnaissance mutuelle des bonnes pratiques cliniques et des inspections y relatives;
 - 6\. Contingents pour les véhicules lourds;
-- 7\. Protection des investissements en relation avec les Etats tiers.
+- 7\. Protection des investissements en relation avec les États tiers.
 
-Les plénipotentiaires des Etats de l’AELE ont également pris note de la Déclaration de la Norvège et de la Suisse concernant le Protocole 1 de l’appendice 2 de l’annexe K (version consolidée) sur les indemnités de chômage qui est annexé au présent Acte final.
+Les plénipotentiaires des États de l’AELE ont également pris note de la Déclaration de la Norvège et de la Suisse concernant le Protocole 1 de l’appendice 2 de l’annexe K (version consolidée) sur les indemnités de chômage qui est annexé au présent Acte final.
 
-Enfin, les plénipotentiaires des Etats de l’AELE ont pris note du corrigendum qui est annexé au présent Acte final.
+Enfin, les plénipotentiaires des États de l’AELE ont pris note du corrigendum qui est annexé au présent Acte final.
 
 Fait à Vaduz, le 21 juin 2001, en un seul exemplaire, en anglais, qui fait foi et qui sera déposé auprès du gouvernement de la Norvège.
 
@@ -6055,7 +6112,7 @@ Suivent les signatures
 Champ d’application de l’amendement le 1<sup>er</sup> juin 2002
 
 <table>
-<tr><td>Etats parties</td><td>Ratification</td><td></td><td>Entrée en vigueur</td><td></td></tr>
+<tr><td>États parties</td><td>Ratification</td><td></td><td>Entrée en vigueur</td><td></td></tr>
 <tr><td>Islande</td><td>22 avril</td><td>2002</td><td>1<sup>er</sup> juin</td><td>2002</td></tr>
 <tr><td>Liechtenstein</td><td>24 avril</td><td>2002</td><td>1<sup>er</sup> juin</td><td>2002</td></tr>
 <tr><td>Norvège</td><td>8 mars</td><td>2002</td><td>1<sup>er</sup> juin</td><td>2002</td></tr>
@@ -6064,33 +6121,33 @@ Champ d’application de l’amendement le 1<sup>er</sup> juin 2002
 
 Déclaration commune
 
-## Evolution du droit
+## Évolution du droit
 
-Les Etats membres veilleront à mettre régulièrement à jour la Convention pour tenir compte de l’évolution de l’Accord sur l’Espace économique européen et des accords bilatéraux du 21 juin 1999 entre la Confédération suisse, d’une part, et la CE et – le cas échéant – ses Etats membres, de l’autre. Dans les trois mois suivant l’entrée en vigueur de l’Accord du 21 juin 2001 amendant la Convention instituant l’AELE, les Etats membres adapteront la Convention pour tenir compte des développements communs de l’Accord EEE et des accords bilatéraux Suisse-CE.
+Les États membres veilleront à mettre régulièrement à jour la Convention pour tenir compte de l’évolution de l’Accord sur l’Espace économique européen et des accords bilatéraux du 21 juin 1999 entre la Confédération suisse, d’une part, et la CE et – le cas échéant – ses États membres, de l’autre. Dans les trois mois suivant l’entrée en vigueur de l’Accord du 21 juin 2001 amendant la Convention instituant l’AELE, les États membres adapteront la Convention pour tenir compte des développements communs de l’Accord EEE et des accords bilatéraux Suisse-CE.
 
 Déclaration commune
 
 ## Concurrence
 
-Les Etats membres reconnaissent que les dispositions de l’art. 18 (ancien art. 15) de la Convention ne doivent pas être interprétées comme créant des obligations directes pour les entreprises. Ils confirment en outre que les pratiques visées à l’art. 18 (ancien art. 15) doivent être interprétées à la lumière des législations nationales des Etats membres en matière de concurrence.
+Les États membres reconnaissent que les dispositions de l’art. 18 (ancien art. 15) de la Convention ne doivent pas être interprétées comme créant des obligations directes pour les entreprises. Ils confirment en outre que les pratiques visées à l’art. 18 (ancien art. 15) doivent être interprétées à la lumière des législations nationales des États membres en matière de concurrence.
 
-Les Etats membres reconnaissent l’importance de la coopération sur les questions relevant de la politique de surveillance du respect des lois en matière de concurrence, notamment les notifications, les consultations et les échanges d’information, afin de faciliter une application efficace de l’art. 18 (ancien art. 15). Les Etats membres concluront des accords de coopération lorsqu’ils l’estimeront souhaitable.
+Les États membres reconnaissent l’importance de la coopération sur les questions relevant de la politique de surveillance du respect des lois en matière de concurrence, notamment les notifications, les consultations et les échanges d’information, afin de faciliter une application efficace de l’art. 18 (ancien art. 15). Les États membres concluront des accords de coopération lorsqu’ils l’estimeront souhaitable.
 
 Déclaration commune
 
 ## Reconnaissance mutuelle en matière d’évaluation de la conformité
 
-Les Etats membres ont convenu d’intégrer des dispositions sur la reconnaissance mutuelle en matière d’évaluation de la conformité dans la Convention étant entendu que les arrangements prévus aux art. 53 et 59 de la Convention (version consolidée) et à l’art. 10 de l’annexe I n’entravent pas le bon fonctionnement de la coopération dans ce domaine, y compris à l’égard de la Communauté européenne. Les Etats membres réexamineront ces arrangements si nécessaire.
+Les États membres ont convenu d’intégrer des dispositions sur la reconnaissance mutuelle en matière d’évaluation de la conformité dans la Convention étant entendu que les arrangements prévus aux art. 53 et 59 de la Convention (version consolidée) et à l’art. 10 de l’annexe I n’entravent pas le bon fonctionnement de la coopération dans ce domaine, y compris à l’égard de la Communauté européenne. Les États membres réexamineront ces arrangements si nécessaire.
 
 Déclaration commune
 
 ## Application parallèle de l’Annexe I (version consolidée) sur la reconnaissance mutuelle en matière d’évaluation de la conformité et de l’Accord sur la reconnaissance mutuelle entre la Suisse et la CE
 
-Les Etats membres conviennent que l’annexe doit être appliquée parallèlement à l’accord de reconnaissance mutuelle en matière d’évaluation de la conformité entre la Suisse et la CE[^declu5-lvlu1-1].
+Les États membres conviennent que l’annexe doit être appliquée parallèlement à l’accord de reconnaissance mutuelle en matière d’évaluation de la conformité entre la Suisse et la CE[^declu5-lvlu1-1].
 
-Les Etats membres s’engagent à mettre à jour les appendices de l’annexe I (version consolidée) au plus tard un mois après l’entrée en vigueur de celle-ci.
+Les États membres s’engagent à mettre à jour les appendices de l’annexe I (version consolidée) au plus tard un mois après l’entrée en vigueur de celle-ci.
 
-Afin d’éviter tout doute, les Etats membres confirment qu’au sens de l’annexe, les rapports, certificats, autorisations et marques de conformité délivrés par des organismes reconnus au titre de l’ARM entre la Suisse et la CE seront acceptés.
+Afin d’éviter tout doute, les États membres confirment qu’au sens de l’annexe, les rapports, certificats, autorisations et marques de conformité délivrés par des organismes reconnus au titre de l’ARM entre la Suisse et la CE seront acceptés.
 
 [^declu5-lvlu1-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
 
@@ -6098,19 +6155,19 @@ Déclaration commune
 
 ## Reconnaissance mutuelle des bonnes pratiques cliniques et des inspections y relatives
 
-Pour les produits médicaux, l’inclusion des résultats des essais cliniques effectués sur le territoire des Etats membres dans les demandes d’autorisations de mise sur le marché ou toute variante ou extension de celle-ci est actuellement acceptée. En principe, les Etats membres s’engagent à continuer à accepter ces essais cliniques pour les demandes d’autorisation de mise sur le marché. Ils conviennent de travailler au rapprochement de leurs bonnes pratiques cliniques, notamment en mettant en œuvre les déclarations actuelles d’Helsinki et de Tokyo ainsi que toutes les recommandations relatives aux essais cliniques adoptées dans le cadre de la Conférence internationale sur l’harmonisation. Toutefois en raison de l’évolution de la législation applicable à la vérification et à l’autorisation des essais cliniques dans la Communauté européenne, la reconnaissance mutuelle du contrôle officiel de ces essais devra être étudiée en détail dans un avenir proche et les modalités pratiques devront être fixées dans un chapitre à part.
+Pour les produits médicaux, l’inclusion des résultats des essais cliniques effectués sur le territoire des États membres dans les demandes d’autorisations de mise sur le marché ou toute variante ou extension de celle-ci est actuellement acceptée. En principe, les États membres s’engagent à continuer à accepter ces essais cliniques pour les demandes d’autorisation de mise sur le marché. Ils conviennent de travailler au rapprochement de leurs bonnes pratiques cliniques, notamment en mettant en œuvre les déclarations actuelles d’Helsinki et de Tokyo ainsi que toutes les recommandations relatives aux essais cliniques adoptées dans le cadre de la Conférence internationale sur l’harmonisation. Toutefois en raison de l’évolution de la législation applicable à la vérification et à l’autorisation des essais cliniques dans la Communauté européenne, la reconnaissance mutuelle du contrôle officiel de ces essais devra être étudiée en détail dans un avenir proche et les modalités pratiques devront être fixées dans un chapitre à part.
 
 Déclaration commune
 
 ## Contingents pour les véhicules lourds
 
-En ce qui concerne les par. 2 et 3 de l’art. 8 ainsi que l’art. 26 de l’annexe P sur les transports terrestres (version consolidée), les Etats membres déclarent qu’ils réexamineront leurs arrangements compte tenu de leurs expériences et de leurs besoins. La Suisse transmettra régulièrement au Conseil les statistiques et informations pertinentes quant à l’utilisation des contingents pour les véhicules lourds.
+En ce qui concerne les par. 2 et 3 de l’art. 8 ainsi que l’art. 26 de l’annexe P sur les transports terrestres (version consolidée), les États membres déclarent qu’ils réexamineront leurs arrangements compte tenu de leurs expériences et de leurs besoins. La Suisse transmettra régulièrement au Conseil les statistiques et informations pertinentes quant à l’utilisation des contingents pour les véhicules lourds.
 
 Déclaration commune
 
-## Protection des investissements en relation avec les Etats tiers
+## Protection des investissements en relation avec les États tiers
 
-Les Etats membres visent à convenir de lignes directrices communes pour protéger les investissements de leurs investisseurs respectifs dans les Etats tiers.
+Les États membres visent à convenir de lignes directrices communes pour protéger les investissements de leurs investisseurs respectifs dans les États tiers.
 
 Déclaration
 
@@ -6118,8 +6175,8 @@ Déclaration
 
 En ce qui concerne la rétrocession des cotisations d’assurance-chômage, les arrangements figurant aux par. 1.2 et 1.3 du protocole 1 de l’appendice 2 de l’annexe K de la Convention (version consolidée), devront être fixées entre les autorités du marché du travail de la Norvège et de la Suisse avant l’entrée en vigueur de l’Accord amendant la Convention AELE du 21 juin 2001.
 
-Déclaration commune*[^t-20]*
+Déclaration commune*[^t-21]*
 
 ## Autre libéralisation relative aux produits agricoles de base
 
-[^t-20]: Introduite par le ch. III de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)). La déclaration commune, disponible uniquement en anglais, peut être consultée sur le site Internet de l’AELE, à l’adresse suivante: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols.
+[^t-21]: Introduite par le ch. III de la D n<sup>o</sup> 2/2012 du Conseil du 21 juin 2012, approuvée par l’Ass. féd. le 13 mars 2013, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 2033](https://fedlex.data.admin.ch/eli/oc/2013/423); [FF 2013 1153](https://fedlex.data.admin.ch/eli/fga/2013/190)[1273](https://fedlex.data.admin.ch/eli/fga/2013/191)). La déclaration commune, disponible uniquement en anglais, peut être consultée sur le site Internet de l’AELE, à l’adresse suivante: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols.
