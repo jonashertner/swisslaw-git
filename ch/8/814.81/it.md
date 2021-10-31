@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2021-06-01
+version: 2021-11-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20211101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20211101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210601/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° giugno 2021) (Stato 1° giugno 2021)
+del 18 maggio 2005 (Stato 1° novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1251,7 +1251,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, redatta in almeno due lingue ufficiali e conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -3868,7 +3868,7 @@ Allegato 2.9*[^t-28]*
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -3909,7 +3909,7 @@ Allegato 2.10*[^t-29]*
 
 ## Prodotti refrigeranti
 
-[^t-29]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 18 set. 2018 ([RU 2018 3215](https://fedlex.data.admin.ch/eli/oc/2018/516)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 3 dic. 2019 ([RU 2019 4087](https://fedlex.data.admin.ch/eli/oc/2019/712)) e dall’all. n. 2 dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^t-29]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 18 set. 2018 ([RU 2018 3215](https://fedlex.data.admin.ch/eli/oc/2018/516)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 3 dic. 2019 ([RU 2019 4087](https://fedlex.data.admin.ch/eli/oc/2019/712)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) e dal n. I dell’O del UFAM del 9 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
 
 ### 1 Definizioni
 
@@ -4060,14 +4060,14 @@ Allegato 2.10*[^t-29]*
 
 <sup>8</sup> Su domanda motivata, l’UFAM può concedere a un determinato impianto una deroga dal divieto di cui al numero 2.1 capoverso 3 se:
 
-- a. secondo lo stato della tecnica non è possibile rispettare le norme SN EN 378-1:2017, SN EN 378-2:2017 e SN EN 378-3:2017[^annex210-lvlu1-lvl2-lvl22-2] senza impiegare un prodotto refrigerante stabile nell’aria;
+- a. secondo lo stato della tecnica non è possibile rispettare le norme SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 e SN EN 378-3:2017+A1:2021[^annex210-lvlu1-lvl2-lvl22-2] senza impiegare un prodotto refrigerante stabile nell’aria;
 - b. secondo lo stato della tecnica sono state selezionate le sostanze refrigeranti stabili nell’aria con il minor impatto sul clima; e
 - c. sono state adottate le misure disponibili secondo lo stato della tecnica per evitare le emissioni del prodotto refrigerante.
 
 <sup>9</sup> D’intesa con la SECO, l’UFAM può adeguare di conseguenza i capoversi 6 lettera a e 8 lettera b in caso di modifica delle norme ivi indicate.
 
 [^annex210-lvlu1-lvl2-lvl22-1]: In vigore dal 1° gen. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl2-lvl22-2]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
+[^annex210-lvlu1-lvl2-lvl22-2]: Queste norme possono essere consultate gratuitamente o ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 2.3 Obblighi del gestore e obblighi di informazione relativi alle deroghe
 
@@ -5021,7 +5021,7 @@ Allegato 2.18*[^t-36]*
 
 ## Apparecchiature elettriche ed elettroniche
 
-[^t-36]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dal n. I dell’O dell’UFAM del 29 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
+[^t-36]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dal n. I dell’O dell’UFAM) del 9 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
 
 ### 1 Definizioni
 
@@ -5079,7 +5079,7 @@ Allegato 2.18*[^t-36]*
 
 I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed elettroniche, ai cavi e alle parti di ricambio che contengono le sostanze menzionate negli allegati III e IV della direttiva 2011/65/UE[^annex218-lvlu1-lvl3-1] per le applicazioni ivi riportate.
 
-[^annex218-lvlu1-lvl3-1]: Direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell’8 giugno 2011, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 174 dell’1.7.2011, pag. 88; modificata da ultimo dalla direttiva delegata (UE) 2020/366, GU L 67 del 5.3.2020, pag. 129.
+[^annex218-lvlu1-lvl3-1]: Direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell’8 giugno 2011, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 174 dell’1.7.2011, pag. 88; modificata da ultimo dalla direttiva delegata (UE) 2021/884, GU L 194 del 2.6.2021, pag. 37.
 
 ### 4 Prescrizioni per gli attori economici
 

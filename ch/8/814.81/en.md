@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2021-06-01
+version: 2021-11-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210601-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20211101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20211101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Status as of 1 June 2021)
+of 18 May 2005 (Status as of 1 November 2021)
 
 The Swiss Federal Council,
 
@@ -1253,7 +1253,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must appear in at least two official languages and comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -1357,8 +1357,10 @@ Annex 1.7*[^t-8]*
 
 <sup>4</sup> The prohibition on the placing on the market specified in Number 1.1 paragraph 2 letter c does not apply to switches and relays that:
 
-- a. are intended for equipment which, in accordance with Annex 2.18 Number 3, may contain switches and relays containing mercury;
-- b. are intended as spare parts for equipment in accordance with Annex 2.18 Number 1 paragraph 1 if, according to the state of the art, no mercury-free alternative is available.
+- a. are intended as components or spare parts for equipment that is required to protect Switzerland's essential security interests, including weapons, ammunition and war materiel for military purposes;
+- b. are intended as components or spare parts for equipment that Annex 2.18 Number 3 specifies may contain switches and relays containing mercury;
+- c. are intended as spare parts for equipment other than that mentioned in letter b that have been or will be placed on the market in accordance with Annex 2.18 number 8 paragraphs 1 and 4;
+- d. are intended as spare parts for the articles, equipment, large-scale tools, large-scale installations, means of transport, machinery, photo-voltaic panels and pipe organs listed in Article 2 paragraph 4 letters b to k of Directive 2011/65/EU[^annex17-lvlu1-lvl1-lvl12-1].
 
 <sup>5</sup> The prohibition on the placing on the market of biocidal products specified in Number 1.1 paragraph 2 letter d Number 2 does not apply for research and development purposes.
 
@@ -1367,6 +1369,8 @@ Annex 1.7*[^t-8]*
 - a. mercury-containing preparations and articles that are necessary for the protection of the essential interests of the security of Switzerland, including arms, munitions and war material specifically intended for military purposes;
 - b. mercury-containing preparations and articles for use in outer space;
 - c. mercury-containing preparations for use as auxiliary substances in industrial manufacturing processes, the use of which has been authorised as specified in Number 3.2.1 paragraph 1.
+
+[^annex17-lvlu1-lvl1-lvl12-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Directive (EU) 2017/2102 of the European Parliament and of the Council, OJ L 305 of 21.11.2017, p. 8.
 
 ### 1.3 Exemptions with Authorisation
 
@@ -1706,7 +1710,11 @@ It is prohibited for the manufacturer to place on the market textiles containing
 
 <sup>3</sup> For electrical and electronic equipment that contains decaBDE, Annex 2.18 applies.
 
-### 3 Inorganic ammonium salts
+### 3**** Inorganic ammonium salts
+
+[^annex19-lvlu1-lvl3-1]
+
+[^annex19-lvlu1-lvl3-1]: In force since 1 June 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289))
 
 ### 3.1 Prohibition
 
@@ -3852,7 +3860,7 @@ Annex 2.9*[^t-28]*
 
 <sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/en/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/en/xml/image/image2.png)</sup>
 
 <sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass and intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
 
@@ -3893,7 +3901,7 @@ Annex 2.10*[^t-29]*
 
 ## Refrigerants
 
-[^t-29]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) and No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^t-29]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) and No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 18 Nov. 2020, ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) and No I of the FOEN O of 9 Sept. 2021, in force since 1 Nov. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
 
 ### 1 Definitions
 
@@ -3907,7 +3915,7 @@ Annex 2.10*[^t-29]*
 
 <sup>5</sup> Any non-minor modification of the cooling part of existing systems is deemed to be equivalent to placing systems on the market. Significant modifications of the cooling part of existing systems are not deemed to be equivalent to placing on the market if the modification achieves a significant increase in energy efficiency or, through material savings, avoids significant greenhouse gas emissions.
 
-<sup>6</sup> An *appliance* is a plug-in cooling system not permanently connected to refrigerant or thermal distribution piping. Fixed appliances are classified as appliances rather than as systems.
+<sup>6</sup> An appliance is a plug-in cooling system not permanently connected to refrigerant or thermal distribution piping. Fixed appliances are classified as appliances rather than as systems.
 
 <sup>7</sup> *Medium temperature cooling* is the cooling of foodstuffs or perishable goods where the working temperature is not lower than 0 °C or if no freezing occurs.[^annex210-lvlu1-lvl1-1]
 
@@ -4044,7 +4052,7 @@ Annex 2.10*[^t-29]*
 
 <sup>8</sup> On receipt of a justified request, the FOEN may grant an exemption to the prohibition specified in Number 2.1 paragraph 3 if:
 
-- a. according to the state of the art, it would not be possible to comply with the standards SN EN 378-1:2017, SN EN 378‑2:2017 and SN EN 378-3:2017[^annex210-lvlu1-lvl2-lvl22-2] without the use of a refrigerant which is stable in the atmosphere;
+- a. according to the state of the art, it would not be possible to comply with the standards SN EN 378-1:2017+A1:2021, SN EN 378‑2:2017 and SN EN 378-3:2017+A1:2021[^annex210-lvlu1-lvl2-lvl22-2] without the use of a refrigerant which is stable in the atmosphere;
 - b. according to the state of the art, the refrigerant stable in the atmosphere with the lowest impact on climate has been selected; and
 - c. state-of-the-art measures have been taken to prevent refrigerant emissions.
 
@@ -4854,7 +4862,7 @@ For the placing on the market of consumer articles, toys, jewellery and candle w
 - h. devotional objects;
 - i. zinc-carbon portable batteries and button cells.
 
-<sup>2</sup> In addition, exempted from the prohibition specified in Number 3<sup>ter</sup>.2 paragraph 1 are:
+<sup>2</sup> In addition, exempted from the prohibition specified in Number 3<sup>t</sup><sup>er</sup>.2 paragraph 1 are:
 
 - a. uncoated lead-containing articles, if the release rate of lead from the article or accessible parts demonstrably does not exceed 005 μg/cm<sup>2</sup> per hour (corresponding to 0.05 μg/g/h);
 - b. coated lead-containing articles, provided that they demonstrably do not exceed the release rate referred to in letter a and the coating is sufficient to ensure that this rate is not exceeded for a period of at least two years of use of the article under normal or reasonably foreseeable conditions.
@@ -5000,7 +5008,7 @@ Annex 2.18*[^t-36]*
 
 ## Electrical and electronic equipment
 
-[^t-36]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No 1 of the FOEN Ordinances of 27 Oct. 2016, ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)) and of 29 Sept. 2020, in force since 1 Nov. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
+[^t-36]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No 1 of the FOEN Ordinances of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and No I of the FOEN O of 9 Sept. 2021, in force since 1 Nov. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
 
 ### 1 Definitions
 
@@ -5014,21 +5022,21 @@ Annex 2.18*[^t-36]*
 
 <sup>5</sup> *Manufacturer* means any natural or legal person who manufactures electrical or electronic equipment, or who has it designed or manufactured, and markets it under his name or trademark.
 
-<sup>6</sup> Importer means any natural or legal person established in Switzerland who places electrical or electronic equipment from another country on the Swiss market.
+<sup>6</sup> *Importer* means any natural or legal person established in Switzerland who places electrical or electronic equipment from another country on the Swiss market.
 
-<sup>7</sup> Trader means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes electrical or electronic equipment available on the market.
+<sup>7</sup> *Trader* means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes electrical or electronic equipment available on the market.
 
 <sup>8</sup> An importer or trader who places electrical or electronic equipment on the market under his name or trademark or modifies equipment already placed on the market in such a way that compliance with the requirements specified in Number 2 may be affected shall be considered a manufacturer.
 
-<sup>9</sup> Authorised representative means any natural or legal person established in Switzerland who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks.
+<sup>9</sup> *Authorised representative* means any natural or legal person established in Switzerland who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks.
 
-<sup>10</sup> Making available on the market means any supply of electrical or electronic equipment for distribution, consumption or use on the market in the course of a commercial activity, whether in return for payment or free of charge.
+<sup>10</sup> *Making available on the marke*t means any supply of electrical or electronic equipment for distribution, consumption or use on the market in the course of a commercial activity, whether in return for payment or free of charge.
 
-<sup>11</sup> Placing on the market means making electrical or electronic equipment available on the market for the first time.
+<sup>11</sup> *Placing on the mark*et means making electrical or electronic equipment available on the market for the first time.
 
-<sup>12</sup> Recall means any measure aimed at ensuring that the end user returns electrical or electronic equipment that has already been made available.
+<sup>12</sup> *Recall* means any measure aimed at ensuring that the end user returns electrical or electronic equipment that has already been made available.
 
-<sup>13</sup> Withdrawal means any measure aimed at preventing electrical or electronic equipment in the supply chain from being made available on the market.
+<sup>13</sup> *Withdrawal* means any measure aimed at preventing electrical or electronic equipment in the supply chain from being made available on the market.
 
 [^annex218-lvlu1-lvl1-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Directive (EU) 2017/2102 of the European Parliament and of the Council, OJ L 305 of 21.11.2017, p. 8.
 
@@ -5058,7 +5066,7 @@ Annex 2.18*[^t-36]*
 
 The prohibitions specified in Number 2 do not apply to electrical and electronic equipment, cables and spare parts which contain substances included in Annexes III and IV to Directive 2011/65/EU[^annex218-lvlu1-lvl3-1] in the applications listed therein.
 
-[^annex218-lvlu1-lvl3-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Commission Delegated Directive (EU) 2020/366, OJ L 67, 5.3.2020, p. 129.
+[^annex218-lvlu1-lvl3-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Commission Delegated Directive (EU) 2021/884, OJ L 194 of 2.6.2021, p. 37.
 
 ### 4 Requirements for economic operators
 

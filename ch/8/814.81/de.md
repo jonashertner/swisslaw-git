@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2021-06-01
+version: 2021-11-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20211101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20211101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210601/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Juni 2021)
+vom 18. Mai 2005 (Stand am 1. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1250,7 +1250,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen in mindestens zwei Amtssprachen und nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -2350,7 +2350,7 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 
 <sup>2</sup> Die Anmeldestelle führt ein Verzeichnis über die Meldungen nach den Absätzen 1 und 1<sup>bis</sup>.
 
-### 4 …
+### 4 ...
 
 ### 5 Liste der Stoffe nach Ziffer 1 und Übergangsbestimmungen
 
@@ -2360,7 +2360,7 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 <tr><th>Eintrag Nr.</th><th>Stoff</th><th>Verbotsbegründende inhärente Eigenschaften</th><th>Übergangsfrist</th><th>Ausgenommene Verwendungen oder Verwendungskategorien</th><th>Überprüfungszeiträume</th></tr>
 <tr><td>1.</td><td>5-tert-Butyl-2,4,6-trinitro-m-xylol (Moschus-Xylol) EG-Nr.: 201-329-4 CAS-Nr.: 81-15-2</td><td>vPvB</td><td>21. August 2014</td><td>–</td><td>–</td></tr>
 <tr><td>2.</td><td>4,4’-Diaminodiphenylmethan (MDA) EG-Nr.: 202-974-4 CAS-Nr.: 101-77-9</td><td>Krebserzeugend (Kategorie 1B)</td><td>21. August 2014</td><td>–</td><td>–</td></tr>
-<tr><td>3.</td><td>…</td><td>…</td><td>…</td><td>–</td><td>–</td></tr>
+<tr><td>3.</td><td>...</td><td>...</td><td>...</td><td>–</td><td>–</td></tr>
 <tr><td>4.</td><td>Bis(2-ethylhexyl)-phthalat (DEHP) EG-Nr.: 204-211-0 CAS-Nr.: 117-81-7</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004[^annex117-lvlu1-lvl5-1], die Richtlinie 2001/82/EG[^annex117-lvlu1-lvl5-2] und/ oder die Richtlinie 2001/83/EG[^annex117-lvlu1-lvl5-3] fallen</td><td></td></tr>
 <tr><td>5.</td><td>Benzylbutylphthalat (BBP) EG-Nr.: 201-622-7 CAS Nr.: 85-68-7</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004, die Richtlinie 2001/82/EG und/oder die Richtlinie 2001/83/EG fallen</td><td></td></tr>
 <tr><td>6.</td><td>Dibutylphthalat (DBP) EG-Nr.: 201-557-4 CAS Nr.: 84-74-2</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004, die Richtlinie 2001/82/ EG und/oder die Richtlinie 2001/83/EG fallen</td><td></td></tr>
@@ -3855,7 +3855,7 @@ Anhang 2.9*[^t-28]*
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
@@ -3896,7 +3896,7 @@ Anhang 2.10*[^t-29]*
 
 ## Kältemittel
 
-[^t-29]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^t-29]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) und Ziff. I der V des BAFU vom 9. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
 
 ### 1 Begriffe
 
@@ -4047,7 +4047,7 @@ Anhang 2.10*[^t-29]*
 
 <sup>8</sup> Das BAFU kann auf begründetes Gesuch für eine bestimmte Anlage eine Ausnahme vom Verbot nach Ziffer 2.1 Absatz 3 gewähren, wenn:
 
-- a. nach dem Stand der Technik die Normen SN EN 378-1:2017, SN EN 378‑2:2017 und SN EN 378-3:2017[^annex210-lvlu1-lvl2-lvl22-2] nicht eingehalten werden können ohne die Anwendung eines in der Luft stabilen Kältemittels;
+- a. nach dem Stand der Technik die Normen SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 und SN EN 378-3:2017+A1:2021[^annex210-lvlu1-lvl2-lvl22-2] nicht eingehalten werden können ohne die Anwendung eines in der Luft stabilen Kältemittels;
 - b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
 - c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen der Kältemittel getroffen worden sind.
 
@@ -4547,7 +4547,7 @@ Anhang 2.15*[^t-33]*
 
 ### 3 Ausnahmen
 
-<sup>1</sup> …
+<sup>1</sup> ...
 
 <sup>2</sup> Das Verbot nach Ziffer 2 Absatz 2 gilt nicht für Gerätebatterien, die zur Verwendung bestimmt sind in:
 
@@ -4944,7 +4944,7 @@ Fahrzeugwerkstoffe und -bauteile sind nach Anhang II der Richtlinie 2000/53/EG[^
 
 [^annex216-lvlu1-lvl5-lvl55-1]: Siehe Fussnote zu Ziffer 5.3 Absatz 1.
 
-### 6 …
+### 6 ...
 
 ### 7 Übergangsbestimmungen
 
@@ -5005,7 +5005,7 @@ Anhang 2.18*[^t-36]*
 
 ## Elektro- und Elektronikgeräte
 
-[^t-36]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Ziff. I der V des BAFU vom 29. Sept. 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
+[^t-36]: Eingefügt durch Ziff. II Abs. 1 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V des BAFU vom 27. Okt. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Ziff. I der V des BAFU vom 9. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
 
 ### 1 Begriffe
 
@@ -5063,7 +5063,7 @@ Anhang 2.18*[^t-36]*
 
 Die Verbote nach Ziffer 2 gelten nicht für Elektro- und Elektronikgeräte, Kabel und Ersatzteile, die in den Anhängen III und IV der Richtlinie 2011/65/EU[^annex218-lvlu1-lvl3-1] aufgeführte Stoffe für die dort genannten Verwendungen enthalten.
 
-[^annex218-lvlu1-lvl3-1]: Richtlinie 2011/65/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 zur Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektro- und Elektronikgeräten, ABl. L 174 vom 1.7.2011, S. 88; zuletzt geändert durch Delegierte Richtlinie (EU) 2020/366, ABl. L 67 vom 5.3.2020, S. 129.
+[^annex218-lvlu1-lvl3-1]: Richtlinie 2011/65/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 zur Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektro- und Elektronikgeräten, ABl. L 174 vom 1.7.2011, S. 88; zuletzt geändert durch Delegierte Richtlinie (EU) 2021/884, ABl. L 194 vom 2.6.2021, S. 37.
 
 ### 4 Vorschriften für die Wirtschaftsakteure
 

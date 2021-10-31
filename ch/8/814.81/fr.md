@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2021-06-01
+version: 2021-11-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20211101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20211101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210601/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (Etat le 1<sup>er</sup> juin 2021)
+du 18 mai 2005 (Etat le 1<sup>er</sup> novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -1247,7 +1247,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre; elle doit être rédigée en deux langues officielles au moins et être conforme au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/fr/xml/image/image1.png)</td><td colspan="3">chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/fr/xml/image/image1.png)</td><td colspan="3">chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -3850,7 +3850,7 @@ Annexe 2.9*[^t-28]*
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 
@@ -3891,7 +3891,7 @@ Annexe 2.10*[^t-29]*
 
 ## Fluides frigorigènes
 
-[^t-29]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), par l’erratum du 9 juil. 2019 ([RO 2019 2113](https://fedlex.data.admin.ch/eli/oc/2019/392)) et par l’annexe ch. 2 de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^t-29]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’erratum du 9 juil. 2019 ([RO 2019 2113](https://fedlex.data.admin.ch/eli/oc/2019/392)), l’annexe ch. 2 de l’O du 18 nov. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) et le ch. I de l’O de l’OFEV du 9 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
 
 ### 1 Définitions
 
@@ -4042,14 +4042,14 @@ Annexe 2.10*[^t-29]*
 
 <sup>8</sup> Sur demande motivée, l’OFEV peut octroyer une dérogation à l’interdiction au sens du ch. 2.1, al. 3, pour une installation déterminée, si:
 
-- a. l’état de la technique ne permet pas de respecter les normes SN EN 378-1:2017, SN EN 378-2:2017 et SN EN 378-3:2017[^annex210-lvlu1-lvl2-lvl22-2] sans l’utilisation d’un fluide frigorigène stable dans l’air;
+- a. l’état de la technique ne permet pas de respecter les normes SN EN 378-1:2017+A1:2021, SN EN 378-2:2017 et SN EN 378-3:2017+A1:2021[^annex210-lvlu1-lvl2-lvl22-2] sans l’utilisation d’un fluide frigorigène stable dans l’air;
 - b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
 - c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
 
 <sup>9</sup> En accord avec le SECO, l’OFEV peut adapter les al. 6, let. a, et 8, let. a, lorsque les normes qui y sont désignées sont modifiées.
 
 [^annex210-lvlu1-lvl2-lvl22-1]: En vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl2-lvl22-2]: Ces normes peuvent être consultées gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex210-lvlu1-lvl2-lvl22-2]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
 
 ### 2.3 Obligation de l’exploitant et obligation d’informer en ce qui concerne l’obtention d’une dérogation
 
@@ -5000,7 +5000,7 @@ Annexe 2.18*[^t-36]*
 
 ## Équipements électriques et électroniques
 
-[^t-36]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et le ch. I de l’O de l’OFEV du 29 sept. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
+[^t-36]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et le ch. I de l’O de l’OFEV du 9 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
 
 ### 1 Définitions
 
@@ -5058,7 +5058,7 @@ Annexe 2.18*[^t-36]*
 
 Les interdictions au sens du ch. 2 ne s’appliquent pas aux équipements électriques et électroniques, aux câbles et aux pièces détachées qui contiennent des substances énumérées aux annexes III et IV de la directive 2011/65/UE[^annex218-lvlu1-lvl3-1] pour les applications qui y sont mentionnées.
 
-[^annex218-lvlu1-lvl3-1]: Directive 2011/65/UE du Parlement européen et du Conseil du 8 juin 2011 relative à la limitation de l’utilisation de certaines substances dangereuses dans les équipements électriques et électroniques, JO L 174 du 1.7.2011, p. 88; modifiée en dernier lieu par la directive déléguée (UE) 2020/366, JO L 67 du 5.3.2020, p. 129.
+[^annex218-lvlu1-lvl3-1]: Directive 2011/65/UE du Parlement européen et du Conseil du 8 juin 2011 relative à la limitation de l’utilisation de certaines substances dangereuses dans les équipements électriques et électroniques, JO L 174 du 1.7.2011, p. 88; modifiée en dernier lieu par la directive déléguée (UE) 2021/884, JO L 194 du 2.6.2021, p. 37.
 
 ### 4 Prescriptions pour les opérateurs économiques
 
