@@ -5,37 +5,37 @@ title: Vollzugsverordnung zum Publikationsgesetz
 short: Publikationsverordnung
 language: de
 version: 2017-05-15
-valid_until: 2021-12-31
+corrected: 2021-11-02
 version_adopted: 2017-05-02
 adopted: 2024-10-29
 in_force: 2025-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/141.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/776/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/440/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Publikationsgesetz
+# Vollzugsverordnung zum Publikationsgesetz (Publikationsverordnung)
 
-(Publikationsverordnung)
-
-vom 19.12.2001 (Stand 15.05.2017)
+vom 19. Dezember 2001[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 19 des Gesetzes vom 19. April 2000 über die amtlichen Veröffentlichungen (Publikationsgesetz)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 19 des Gesetzes vom 19. April 2000 über die amtlichen Veröffentlichungen (Publikationsgesetz)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 141.1
+[^t-1]: A 2000, 1763
+[^t-2]: NG 141.1
 
-## 1 Amtsblatt
+### I. AMTSBLATT
 
 #### § 1
 
 **Herausgabe**
 
-<sup>1</sup> Der Regierungsrat erteilt einem Unternehmen (Vertragspartnerin) durch Vertrag den Auftrag zur Gesamtherstellung des Amtsblattes des Kantons Nidwalden (Amtsblatt).
+Der Regierungsrat erteilt einem Unternehmen (Vertragspartnerin) durch Vertrag den Auftrag zur Gesamtherstellung des Amtsblattes des Kantons Nidwalden (Amtsblatt).
 
 #### § 2
 
@@ -61,15 +61,17 @@ beschliesst:
 
 **Ausgabetag und Bezug**
 
-<sup>1</sup> Das Amtsblatt erscheint wöchentlich in der Regel am Mittwoch.
+<sup>1</sup> Das Amtsblatt erscheint wöchentlich in der Regel am Mittwoch.[^4-1]
 
 <sup>2</sup> Es ist im Abonnement und als Einzelnummer erhältlich.
+
+[^4-1]: Fassung gemäss Regierungsratsbeschluss vom 25. November 2008, A 2008, 2321; in Kraft seit 1. Januar 2009
 
 #### § 5
 
 **Internet**
 
-<sup>1</sup> Der Regierungsrat stellt vertraglich die Veröffentlichung des Amtsblattes im Internet durch die Vertragspartnerin sicher.
+Der Regierungsrat stellt vertraglich die Veröffentlichung des Amtsblattes im Internet durch die Vertragspartnerin sicher.
 
 #### § 6
 
@@ -79,7 +81,7 @@ beschliesst:
 
 <sup>2</sup> Die Staatskanzlei bezeichnet die kommunalen, kantonalen und eidgenössischen Instanzen, die das Amtsblatt unentgeltlich erhalten.
 
-## 2 Gesetzessammlung
+### II. GESETZESSAMMLUNG
 
 #### § 7
 
@@ -98,12 +100,19 @@ beschliesst:
 <sup>1</sup> In die Gesetzessammlung werden aufgenommen:
 
 - 1\. die Kantonsverfassung;
+
 - 2\. die Gesetze;
+
 - 3\. die Verträge mit rechtsetzendem Inhalt mit anderen Kantonen, dem Bund oder anderen Staaten;
+
 - 4\. die rechtsetzenden Erlasse, wie Verordnungen, Reglemente und Beschlüsse der kantonalen Behörden und anderen kantonalen Instanzen, einschliesslich der kantonalen Normalarbeitsverträge;
+
 - 5\. die rechtsetzenden Erlasse interkantonaler Instanzen;
+
 - 6\. die Beschlüsse des Landrates und des Regierungsrates über die Beteiligung des Kantons an Unternehmen;
+
 - 7\. weitere Erlasse, deren Veröffentlichung in der Gesetzessammlung vom Landrat oder Regierungsrat beschlossen wird;
+
 - 8\. weitere Erlasse, Beschlüsse und Vereinbarungen, soweit ein Interesse an der Veröffentlichung vorausgesetzt werden kann.
 
 <sup>2</sup> Die Staatskanzlei entscheidet in Zweifelsfällen über die Aufnahme oder Nichtaufnahme eines Erlasses in die Gesetzessammlung sowie über Veröffentlichungen gemäss Abs. 1 Ziff. 8.
@@ -112,7 +121,7 @@ beschliesst:
 
 **Einzelausgaben**
 
-<sup>1</sup> Die Staatskanzlei erstellt von allen in der Gesetzessammlung veröffentlichten oder noch zu veröffentlichen Erlassen Einzelausgaben.
+Die Staatskanzlei erstellt von allen in der Gesetzessammlung veröffentlichten oder noch zu veröffentlichen Erlassen Einzelausgaben.
 
 #### § 10
 
@@ -132,7 +141,7 @@ beschliesst:
 
 <sup>2</sup> Die Staatskanzlei bezeichnet die kommunalen, kantonalen und eidgenössischen Instanzen, welche die Gesetzessammlung unentgeltlich erhalten.
 
-## 3 Veröffentlichungen im Einzelnen
+### III. VERÖFFENTLICHUNGEN IM EINZELNEN
 
 #### § 12
 
@@ -142,7 +151,7 @@ beschliesst:
 
 <sup>2</sup> Die weiteren rechtsetzenden Erlasse sind unmittelbar nach der Beschlussfassung zu veröffentlichen.
 
-<sup>3</sup> Die Direktionen, die Kommissionen, die Gerichte, die selbstständigen kantonalen Anstalten, andere kantonale Instanzen sowie die Gemeinden übermitteln ihre Erlasse gemäss Art. 2 Abs. 2 Ziff. 4–8 des Publikationsgesetzes[^12-2] unmittelbar nach der Verabschiedung der Staatskanzlei zur Veröffentlichung, welche die Erlasse an die Vertragspartnerin weiterleitet.
+<sup>3</sup> Die Direktionen, die Kommissionen, die Gerichte, die selbstständigen kantonalen Anstalten, andere kantonale Instanzen sowie die Gemeinden übermitteln ihre Erlasse gemäss Art. 2 Abs. 2 Ziff. 4-8 des Publikationsgesetzes[^12-2] unmittelbar nach der Verabschiedung der Staatskanzlei zur Veröffentlichung, welche die Erlasse an die Vertragspartnerin weiterleitet.
 
 [^12-1]: NG 132.2
 [^12-2]: NG 141.1
@@ -172,10 +181,15 @@ beschliesst:
 <sup>1</sup> Die ausserordentliche Publikation im Sinne von Art. 11 des Publikationsgesetzes[^15-1] erfolgt insbesondere als:
 
 - 1\. Bekanntmachung über Fernseh- und Radiogesellschaften;
+
 - 2\. Abgabe entsprechender Pressemitteilungen;
+
 - 3\. Bekanntmachung im Online-Verfahren;
+
 - 4\. Zustellung von Zirkularen, Rundschreiben usw. an die vom Erlass betroffenen Personen, sofern sie persönlich bestimmbar sind;
+
 - 5\. öffentlicher Anschlag;
+
 - 6\. direkte Eröffnung bei der unmittelbaren Anwendung des Erlasses.
 
 <sup>2</sup> Die ausserordentliche Publikation gibt den ganzen Erlass oder dessen wesentlichen Inhalt wieder.
@@ -186,7 +200,7 @@ beschliesst:
 
 **Veröffentlichung durch Verweisung**
 
-<sup>1</sup> Mit der Anzeige im Amtsblatt ist bekanntzugeben, wo rechtsetzende Erlasse und Teile von ihnen, die gemäss Art. 12 des Publikationsgesetzes nur durch Verweisung publiziert werden, bezogen beziehungsweise eingesehen werden können.
+Mit der Anzeige im Amtsblatt ist bekanntzugeben, wo rechtsetzende Erlasse und Teile von ihnen, die gemäss Art. 12 des Publikationsgesetzes nur durch Verweisung publiziert werden, bezogen beziehungsweise eingesehen werden können.
 
 #### § 17
 
@@ -198,54 +212,86 @@ beschliesst:
 
 <sup>3</sup> Die Angebote Dritter müssen deutlich als inoffizielle Publikationen bezeichnet werden.
 
-## 4 Schlussbestimmung
+### IV. SCHLUSSBESTIMMUNG
 
 #### § 18
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2001 in Kraft.
+Diese Verordnung tritt am 1. Januar 2001 in Kraft.
 
-## A1 Anhang: Preise und Tarife
+[^18-1]: A 2000, 1763
 
-#### § A1-1
+### ANHANG ZUR PUBLIKATIONSVERORDNUNG
 
-**Preise der amtlichen Publikationsorgane**
+[^18-1]
 
-<sup>1</sup> Amtsblatt:
+### 1. Preise der amtlichen Publikationsorgane:
 
-- 1\. Jahresabonnement: — Fr. 49.–
-- 2\. Halbjahresabonnement: — Fr. 32.–
-- 3\. Einzelnummer: — Fr. 1.–
-- 4\. Jahresabonnement für Auswärtige: — Fr. 55.–
-- 5\. Online-Ausgabe: — kostenlos
+Fr.
 
-<sup>2</sup> Gesetzessammlung:
+[^h1Preisederamtlic-1]: NG 141.1
 
-- 1\. vollständige Sammlung: — Fr. 500.–
-- 2\. Einzelband: — Fr. 100.–
+### Amtsblatt:
 
-<sup>3</sup> Nachträge der Gesetzessammlung je Jahr:
+[^h1Preisederamtlic-1]
 
-- 1\. vollständige Sammlung: — Fr. 60.–
-- 2\. Einzelband: — Fr. 30.–
+**49.- 32.- 1.- 55.- kostenlos**
 
-<sup>4</sup> Einzelausgaben von Erlassen:
+- Jahresabonnement
 
-- 1\. je Seite 10 Rappen; jedoch mindestens Fr. 2.–
-- 2\. zusätzlich Fr. 5.– je Zustellung
+- Halbjahresabonnement
 
-<sup>5</sup> Weitere Ausgaben: Die Staatskanzlei setzt die Verkaufspreise für weitere Ausgaben von Erlassen im Einzelfall fest.
+- Einzelnummer
 
-#### § A1-2
+- Jahresabonnement für Auswärtige
 
-**Insertionstarife im amtlichen Teil des Amtsblattes**
+- Online-Ausgabe
 
-<sup>1</sup> Ganze Seite:
+Gesetzessammlung:
 
-- 1\. Gemeinden, Gemeindeverbände, Ausgleichskasse: — Fr. 252.–
-- 2\. übrige Institutionen: — Fr. 324.–
+**500.- 100.-**
 
-<sup>2</sup> Baugesuche: Fr. 48.–
+- vollständige Sammlung
 
-A 2000, 1763
+- Einzelband
+
+Nachträge der Gesetzessammlung je Jahr:
+
+**60.- 30.-**
+
+- vollständige Sammlung
+
+- Einzelband
+
+Einzelausgaben von Erlassen:
+
+- je Seite 10 Rappen; jedoch mindestens Fr. 2
+
+- zusätzlich Fr. 5.- je Zustellung
+
+Weitere Ausgaben:
+
+### Die Staatskanzlei setzt die Verkaufspreise für weitere
+
+Ausgaben von Erlassen im Einzelfall fest.
+
+- 2\. Insertionstarife im amtlichen Teil des Amtsblattes: Ganze Seite:
+
+**252.- 324.-**
+
+- Gemeinden, Gemeindeverbände, Ausgleichskasse
+
+- übrige Institutionen
+
+**48.-**
+
+### Baugesuche
+
+<sup>1</sup> Fassung gemäss Regierungsratsbeschluss vom 25. November 2008, A 2008, 2321; in Kraft seit 1. Januar 2009
+
+<sup>2</sup> Fassung gemäss Regierungsratsbeschluss vom 2. Mai 2017, A 2017, 837; in Kraft seit 15. Mai 2017
+
+**7**
+
+Stand: 1. Juni 2017
