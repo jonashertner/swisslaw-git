@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-10-11
+version: 2021-11-02
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211011/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211011-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211011/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211102/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211102-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211102/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211011/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 11 octobre 2021)
+du 4 juin 2021 (Etat le 2 novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -393,7 +393,7 @@ Un certificat de test COVID-19 est établi lors du résultat négatif:
 [^19-1]: Nouvelle teneur selon le ch. IV de l’O du 25 août 2021, en vigueur depuis le 30 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^19-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Informations techniques sur les tests COVID-19
-[^19-4]: Introduit par le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-4]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 [^19-5]: Introduit par le ch. IV de l’O du 25 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Nouvelle teneur selon le ch. III de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 #### Art. 20
@@ -742,7 +742,7 @@ Annexe 5*[^t-4]*
 
 ## Liste des certificats étrangers reconnus
 
-[^t-4]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) et le ch. I de l’O du DFI du 24 sept. 2021, en vigueur depuis le 27 sept. 2021 ([RO 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)).
+[^t-4]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), le ch. I des O du DFI du 24 sept. 2021 ([RO 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)) et du 1<sup>er</sup> nov. 2021, en vigueur depuis le 2 nov. 2021 ([RO 2021 640](https://fedlex.data.admin.ch/eli/oc/2021/640)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 
@@ -765,12 +765,14 @@ Annexe 5*[^t-4]*
 
   - – Albanie
   - – Andorre
+  - – Arménie
   - – Îles Féroé
   - – Israël
   - – Macédoine du Nord
   - – Maroc
   - – Monaco
   - – Panama
+  - – Royaume-Uni
   - – Saint-Marin
   - – Saint-Siège
   - – Turquie

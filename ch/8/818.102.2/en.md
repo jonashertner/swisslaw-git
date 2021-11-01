@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-10-11
+version: 2021-11-02
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211011/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211011-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211011/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211102/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211102-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211102/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 11 October 2021)
+of 4 June 2021 (Status as of 2 November 2021)
 
 The Swiss Federal Council,
 
@@ -744,7 +744,7 @@ Annex 5*[^t-4]*
 
 ## List of recognised foreign certificates
 
-[^t-4]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) and No I of the FDHA O of 24 Sept. 2021, in force since 27 Sept. 2021([AS 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)).
+[^t-4]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), No I of the FDHA O of 24 Sept. 2021 ([AS 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)) und of 1 Nov. 2021, in force since 2 Nov. 2021 ([AS 2021 640](https://fedlex.data.admin.ch/eli/oc/2021/640)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -767,6 +767,7 @@ Annex 5*[^t-4]*
 
   - – Albania
   - – Andorra
+  - – Armenia
   - – Faroe Islands
   - – Holy See
   - – Israel
@@ -777,5 +778,6 @@ Annex 5*[^t-4]*
   - – San Marino
   - – Turkey
   - – Ukraine
+  - – United Kingdom
 
 - 2\.2 Vaccination certificates are only recognised if they have been issued for vaccinations with a vaccine that meets the requirements of number 1.2.

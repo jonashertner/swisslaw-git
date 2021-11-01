@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-10-11
+version: 2021-11-02
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211011/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211011-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211011/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211102/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211102-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211102/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211011/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 11. Oktober 2021)
+vom 4. Juni 2021 (Stand am 2. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -689,7 +689,6 @@ Eine Impfung gilt bei der Kombination von zwei Dosen unterschiedlicher Impfstoff
 - b. Erstimpfung: Spikevax / Zweitimpfung: Comirnaty;
 - c. Erstimpfung: Vaxzevria oder ein Lizenzprodukt dieses Impfstoffs / Zweitimpfung: Spikevax;
 - d. Erstimpfung: Vaxzevria oder ein Lizenzprodukt dieses Impfstoffs / Zweitimpfung: Comirnaty.
-  - [tab]
 
 Anhang 3
 
@@ -744,7 +743,7 @@ Anhang 5*[^t-4]*
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-4]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) und Ziff. I der V des EDI vom 24. Sept. 2021, in Kraft seit 27. Sept. 2021 ([AS 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)).
+[^t-4]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. I der V des EDI vom 24. Sept. 2021 ([AS 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)) und vom 1. Nov. 2021, in Kraft seit 2. Nov. 2021 ([AS 2021 640](https://fedlex.data.admin.ch/eli/oc/2021/640)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -767,6 +766,7 @@ Anhang 5*[^t-4]*
 
   - – Albanien
   - – Andorra
+  - – Armenien
   - – Färöer-Inseln
   - – Heiliger Stuhl
   - – Israel
@@ -777,5 +777,6 @@ Anhang 5*[^t-4]*
   - – San Marino
   - – Türkei
   - – Ukraine
+  - – Vereinigtes Königreich
 
 - 2\.2 Impfzertifikate sind nur anerkannt, wenn sie für Impfungen mit einem Impfstoff ausgestellt wurden, der die Anforderungen nach Ziffer 1.2 erfüllt.
