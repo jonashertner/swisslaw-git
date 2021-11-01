@@ -4,30 +4,30 @@ number: "912.4"
 title: Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch
 language: de
 version: 2005-01-01
+corrected: 2021-11-02
 version_adopted: 2003-06-25
 adopted: 2003-06-25
 in_force: 2005-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/912.4"
-pdf: "https://gesetze.nw.ch/api/de/versions/775/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/417/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch
 
-vom 25.06.2003 (Stand 01.01.2005)
+vom 25. Juni 2003<sup>1</sup>
 
-Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, Uri, Schwyz, Obwalden, Nidwalden, Bern, Basel-Landschaft, Basel-Stadt, Aargau, Solothurn sowie die Stadt Luzern folgendes Konkordat:[^ingress-1]
+Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, Uri, Schwyz, Obwalden, Nidwalden, Bern, Basel-Landschaft, Basel-Stadt, Aargau, Solothurn sowie die Stadt Luzern folgendes Konkordat:
 
-[^ingress-1]: Vom Landrat genehmigt am 17. März 2004, A 2004, 528, 1111
-
-## 1 Allgemeines
+I. ALLGEMEINES
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Unter dem Namen «Interkantonale Polizeischule Hitzkirch» (IPH) errichten und betreiben die Konkordatsmitglieder für die deutschsprachige Grundausbildung und Weiterbildung von Angehörigen ihrer Polizeikorps sowie die Forschung im Bereich des Polizeiwesens eine gemeinsame Polizeischule.
+Unter dem Namen „Interkantonale Polizeischule Hitzkirch“ (IPH) errichten und betreiben die Konkordatsmitglieder für die deutschsprachige Grundausbildung und Weiterbildung von Angehörigen ihrer Polizeikorps sowie die Forschung im Bereich des Polizeiwesens eine gemeinsame Polizeischule.
 
 #### Art. 2
 
@@ -49,7 +49,9 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 #### Art. 4
 
-**Grundausbildung und Weiterbildung zugunsten der Konkordatsmitglieder**
+**Grundausbildung und Weiterbildung zugunsten der**
+
+### Konkordatsmitglieder
 
 <sup>1</sup> Die IPH stellt die Grundausbildung der Polizistinnen und Polizisten der Konkordatsmitglieder sicher. Die Konkordatsmitglieder verpflichten sich, ihre deutschsprachigen Polizistinnen und Polizisten an der IPH auszubilden.
 
@@ -61,24 +63,29 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 **Forschung**
 
-<sup>1</sup> In den von ihr auszubildenden Bereichen und mit Blick auf die Ziele dieses Konkordats kann die IPH Forschung betreiben.
+In den von ihr auszubildenden Bereichen und mit Blick auf die Ziele dieses Konkordats kann die IPH Forschung betreiben.
 
-## 2 Organisation
+### II. ORGANISATION
 
-### 2.1 Organe
+### A. Organe
 
 #### Art. 6
 
-<sup>1</sup> Organe des Konkordats sind:
+Organe des Konkordats sind:
 
 - a) Konkordatsbehörde,
+
 - b) Schulrat,
+
 - c) Schuldirektion,
+
 - d) externe Buchprüfungsstelle,
+
 - e) interparlamentarische Geschäftsprüfungskommission,
+
 - f) unabhängige Rekurskommission.
 
-### 2.2 Konkordatsbehörde
+### B. Konkordatsbehörde
 
 #### Art. 7
 
@@ -104,21 +111,29 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Konkordatsbehörde
+Die Konkordatsbehörde a) regelt die ihr in diesem Konkordat ausdrücklich zur Regelung übertragenen Bereiche und das zur Umsetzung dieses Konkordats Notwendige;
 
-- a) regelt die ihr in diesem Konkordat ausdrücklich zur Regelung übertragenen Bereiche und das zur Umsetzung dieses Konkordats Notwendige;
 - b) regelt die Organisation der Schule;
+
 - c) ernennt die Schuldirektorin oder den Schuldirektor;
+
 - d) wählt eine externe Buchprüfungsstelle;
+
 - e) wählt die Mitglieder der Rekurskommission;
+
 - f) erteilt der Schule den vierjährigen Leistungsauftrag mit Globalbudget und entscheidet:
-  - 1\. abschliessend über Ausweitungen des Globalbudgets im Umfang der aufgelaufenen Teuerung nach Massgabe des Landesindexes der Konsumentenpreise. Der Beschluss bedarf einer Mehrheit von ⅔ der Stimmenden, welche gleichzeitig mindestens ⅔ der Beitragslast gemäss jeweils aktuellem Verteilschlüssel tragen;
-  - 2\. abschliessend über weitergehende Ausweitungen des Globalbudgets im Umfang von maximal 2%. Der Beschluss bedarf einer Mehrheit von ⅔ der Stimmenden, welche gleichzeitig mindestens ⅔ der Beitragslast gemäss jeweils aktuellem Verteilschlüssel tragen. Darüber hinausgehende Ausweitungen des Globalbudgets bedürfen der Zustimmung der zuständigen Organe der Konkordatsmitglieder. Der Beschluss ist für alle Konkordatsmitglieder verbindlich, wenn ⅔ der Mitglieder, welche gleichzeitig ⅔ der Beitragslast gemäss aktuellem Verteilschlüssel tragen, zugestimmt haben;
-- g) genehmigt den Jahresbericht, den jährlichen Voranschlag sowie die Rechnung der IPH; der Beschluss bedarf einer Mehrheit von ⅔ der Stimmenden;
+
+- abschliessend über Ausweitungen des Globalbudgets im Umfang der aufgelaufenen Teuerung nach Massgabe des Landesindexes der Konsumentenpreise. Der Beschluss bedarf einer Mehrheit von 2/3 der Stimmenden, welche gleichzeitig mindestens 2/3 der Beitragslast gemäss jeweils aktuellem Verteilschlüssel tragen;
+
+- abschliessend über weitergehende Ausweitungen des Globalbudgets im Umfang von maximal 2 %. Der Beschluss bedarf einer Mehrheit von 2/3 der Stimmenden, welche gleichzeitig mindestens 2/3 der Beitragslast gemäss jeweils aktuellem Verteilschlüssel tragen. Darüber hinausgehende Ausweitungen des Globalbudgets bedürfen der Zustimmung der zuständigen Organe der Konkordatsmitglieder. Der Beschluss ist für alle Konkordatsmitglieder verbindlich, wenn 2/3 der Mitglieder, welche gleichzeitig 2/3 der Beitragslast gemäss aktuellem Verteilschlüssel tragen, zugestimmt haben;
+
+- g) genehmigt den Jahresbericht, den jährlichen Voranschlag sowie die Rechnung der IPH; der Beschluss bedarf einer Mehrheit von 2/3 der Stimmenden;
+
 - h) nimmt den Bericht der externen Buchprüfungsstelle zur Kenntnis;
+
 - i) schliesst Verträge über Erwerb und Miete von Liegenschaften.
 
-### 2.3 Schulrat
+### C. Schulrat
 
 #### Art. 10
 
@@ -134,7 +149,7 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 <sup>1</sup> Der Schulrat wählt aus seiner Mitte für jeweils vier Jahre eine Vorsitzende oder einen Vorsitzenden sowie eine Stellvertretung. Nicht wählbar ist die Schuldirektorin oder der Schuldirektor.
 
-<sup>2</sup> Der Schulrat ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Das Stimmrecht bestimmt sich nach der von den Konkordatsmitgliedern im Durchschnitt der letzten vier Jahre beanspruchten Ausbildungsplätze der einjährigen Grundausbildung. Für die ersten 10 beanspruchten Ausbildungsplätze sowie pro jeweils 15 weitere Ausbildungsplätze bzw. angefangene Bruchteile hat jedes Mitglied je eine Stimme. Jedes Mitglied hat mindestens eine Stimme. Der Beschluss bedarf einer Mehrheit von ⅔ der Stimmenden.
+<sup>2</sup> Der Schulrat ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Das Stimm-recht bestimmt sich nach der von den Konkordatsmitgliedern im Durchschnitt der letzten vier Jahre beanspruchten Ausbildungsplätze der einjährigen Grundausbildung. Für die ersten 10 beanspruchten Ausbildungsplätze sowie pro jeweils 15 weitere Ausbildungsplätze bzw. angefangene Bruchteile hat jedes Mitglied je eine Stimme. Jedes Mitglied hat mindestens eine Stimme. Der Beschluss bedarf einer Mehrheit von 2/3 der Stimmenden.
 
 <sup>3</sup> Die Entschädigung der Mitglieder ist Sache der Konkordatsmitglieder.
 
@@ -142,13 +157,15 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Schulrat:
+Der Schulrat:
 
 - a) regelt den Schulbetrieb, das Prüfungswesen und die Erteilung des Diploms;
+
 - b) ernennt das höhere Kader der Schule;
+
 - c) prüft den Jahresbericht, den jährlichen Voranschlag sowie die Rechnung und legt diese der Konkordatsbehörde zur Genehmigung vor.
 
-### 2.4 Schuldirektion
+### D. Schuldirektion
 
 #### Art. 13
 
@@ -159,10 +176,12 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 <sup>2</sup> Die Schuldirektion:
 
 - a) führt die Schule;
+
 - b) verfügt über die von den Konkordatsmitgliedern der Schule zur Verfügung gestellten Mittel;
+
 - c) entscheidet alle für die Erfüllung der Aufgaben der Grundausbildung und Weiterbildung und der Forschung notwendigen Fragen, soweit nicht ein anderes Organ zuständig ist.
 
-### 2.5 Interparlamentarische Geschäftsprüfungskommission
+### E. Interparlamentarische Geschäftsprüfungskommission
 
 #### Art. 14
 
@@ -190,7 +209,7 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 <sup>2</sup> Die interparlamentarische Geschäftsprüfungskommission erstellt zu Handen der Legislativen der Konkordatsmitglieder jährlich einen Bericht über ihre Prüftätigkeit und kann der Konkordatsbehörde Empfehlungen abgeben.
 
-### 2.6 Unabhängige Rekurskommission
+### F. Unabhängige Rekurskommission
 
 #### Art. 17
 
@@ -212,7 +231,7 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 **Zuständigkeit**
 
-<sup>1</sup> Die unabhängige Rekurskommission entscheidet über Beschwerden gegen Verfügungen der Konkordatsbehörde, der Schuldirektion sowie des Schulrats. Sie ist in ihrem Entscheid nicht weisungsgebunden. Sie hat volle Kognition.
+Die unabhängige Rekurskommission entscheidet über Beschwerden gegen Verfügungen der Konkordatsbehörde, der Schuldirektion sowie des Schulrats. Sie ist in ihrem Entscheid nicht weisungsgebunden. Sie hat volle Kognition.
 
 #### Art. 19
 
@@ -228,32 +247,39 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 **Weiterziehung**
 
-<sup>1</sup> Gegen Entscheide der Rekurskommission kann innert 30 Tagen beim Verwaltungsgericht[^20-1] des Kantons Luzern Verwaltungsgerichtsbeschwerde geführt werden. Es findet das Verwaltungsverfahrensrecht des Kantons Luzern Anwendung.
+<sup>1</sup> Gegen Entscheide der Rekurskommission kann innert 30 Tagen beim Verwaltungsgericht<sup>2</sup> des Kantons Luzern Verwaltungsgerichtsbeschwerde geführt werden. Es findet das Verwaltungsverfahrensrecht des Kantons Luzern Anwendung.
 
 <sup>2</sup> Entscheide betreffend Verfügungen über den Schulausschluss von Auszubildenden der Konkordatsmitglieder sind bei der zuständigen Verwaltungsjustizbehörde des anstellenden Konkordatsmitglieds anzufechten. Es findet das Verfahrensrecht des betroffenen Konkordatsmitglieds Anwendung.
 
-[^20-1]: seit dem 1. Juni 2013 ist das Kantonsgericht Luzern zuständig
-
-## 3 Sonderleistungen des Standortkantons
+### III. SONDERLEISTUNGEN DES STANDORTKANTONS
 
 #### Art. 21
 
-<sup>1</sup> Der Kanton Luzern als Standortkanton erbringt zugunsten der IPH folgende Sonderleistungen:
+Der Kanton Luzern als Standortkanton erbringt zugunsten der IPH folgende Sonderleistungen:
 
-- a) Der Kanton Luzern errichtet auf seinen für den Schulbetrieb erforderlichen Liegenschaften in Hitzkirch ein selbständiges und dauerndes Baurecht und überträgt dieses auf die IPH. Das Baurecht ist nach Ablauf der gesetzlichen Maximaldauer auf Begehren der IPH zu deren Gunsten zu erneuern. Die Kosten der Errichtung, Eintragung und Übertragung gehen zu Lasten des Kantons Luzern. Die IPH entrichtet dem Kanton Luzern zum Zeitpunkt der Aufnahme des Schulbetriebs einen einmaligen Baurechtszins von Fr. 20 Mio. Die Heimfallentschädigung beträgt ⅓ des Verkehrswerts im Zeitpunkt des Heimfalls. Der Kanton Luzern haftet für nach Übertragung auftretende versteckte Mängel während fünf Jahren. Weiteres regeln die Konkordatsbehörde und der Kanton Luzern im Baurechtsvertrag.
+- a) Der Kanton Luzern errichtet auf seinen für den Schulbetrieb erforderlichen Liegenschaften in Hitzkirch ein selbständiges und dauerndes Baurecht und überträgt dieses auf die IPH. Das Baurecht ist nach Ablauf der gesetzlichen Maximaldauer auf Begehren der IPH zu deren Gunsten zu erneuern. Die Kosten der Errichtung, Eintragung und Übertragung gehen zu Lasten des Kantons Luzern. Die IPH entrichtet dem Kanton Luzern zum Zeitpunkt der Aufnahme des Schulbetriebs einen einmaligen Baurechtszins von Fr. 20 Mio. Die Heimfallentschädigung beträgt 1/3 des Verkehrswerts im Zeitpunkt des Heimfalls.
+
+Der Kanton Luzern haftet für nach Übertragung auftretende versteckte Mängel während fünf Jahren.
+
+Weiteres regeln die Konkordatsbehörde und der Kanton Luzern im Baurechtsvertrag.
+
 - b) Der Kanton Luzern verpflichtet sich, für die Absicherung der notwendigen Rechte zu Gunsten der IPH auf den Liegenschaften Dritter besorgt zu sein. Die Absicherung hat soweit möglich dinglich zu erfolgen und es ist für alle nicht ausschliesslich polizeilich nutzbare Infrastruktur eine angemessene Heimfallentschädigung vorzusehen.
+
 - c) Auf Begehren der IPH übernimmt der Kanton Luzern bei Bautätigkeiten der Schule auf deren Rechnung die Funktion und Verantwortung eines Bauherrn.
+
 - d) Für die Aufbauphase der IPH stellt der Kanton Luzern die notwendigen Räumlichkeiten kostenlos zur Verfügung.
+
 - e) Der Kanton Luzern gewährt der IPH ab Inkrafttreten des Konkordats ein zinsloses Darlehen im Betrag von Fr. 7 Mio., das spätestens nach Ablauf von 10 Jahren seit Aufnahme des Schulbetriebs zurückzubezahlen ist.
+
 - f) Der Kanton Luzern befreit die IPH von allen Kantons- und Gemeindesteuern. Ausgenommen sind gewinnorientierte Tätigkeiten zugunsten Dritter.
 
-## 4 Finanz- und Rechnungswesen
+### IV. FINANZ- UND RECHNUNGSWESEN
 
 #### Art. 22
 
 **Allgemeine Finanzierung**
 
-<sup>1</sup> Die IPH wird durch Beiträge der Konkordatsmitglieder sowie durch die von der Schule bei Dritten akquirierten Mittel (Drittmittel) finanziert.
+Die IPH wird durch Beiträge der Konkordatsmitglieder sowie durch die von der Schule bei Dritten akquirierten Mittel (Drittmittel) finanziert.
 
 #### Art. 23
 
@@ -277,13 +303,13 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 <sup>2</sup> Die Leistungserbringung für Dritte muss gewinnbringend sein und darf die Auftragserfüllung der Polizeischule sowie die Erfüllung der gesetzlichen Aufgaben durch die Konkordatsmitglieder nicht beeinträchtigen.
 
-<sup>3</sup> Den Konkordatsmitgliedern werden die Kosten für die Grundausbildung und Weiterbildung in Form einer Leistungspauschale in Rechnung gestellt. Die Leistungspauschale wird durch die Konkordatsbehörde zusammen mit dem Beschluss über das Vierjahres Globalbudget festgelegt. 70% der Leistungspauschale wird den Konkordatsmitgliedern nach Tragfähigkeitsprinzip (je ein Drittel entsprechend den Teilnehmertagen der letzten vier Jahre, der Einwohnerzahl und der Korpsgrösse) in Rechnung gestellt. 30% der Leistungspauschale wird den Konkordatsmitgliedern nach dem Verursacherprinzip (Teilnehmertage des Vorjahres) in Rechnung gestellt.
+<sup>3</sup> Den Konkordatsmitgliedern werden die Kosten für die Grundausbildung und Weiterbildung in Form einer Leistungspauschale in Rechnung gestellt. Die Leistungspauschale wird durch die Konkordatsbehörde zusammen mit dem Beschluss über das Vierjahres Globalbudget festgelegt. 70 % der Leistungspauschale wird den Konkordatsmitgliedern nach Tragfähigkeitsprinzip (je ein Drittel entsprechend den Teilnehmertagen der letzten vier Jahre, der Einwohnerzahl und der Korpsgrösse) in Rechnung gestellt. 30 % der Leistungspauschale wird den Konkordatsmitgliedern nach dem Verursacherprinzip (Teilnehmertage des Vorjahres) in Rechnung gestellt.
 
-<sup>4</sup> Für das Tragfähigkeitsprinzip werden während der ersten vier Jahre und für das Verursacherprinzip während dem ersten Jahre nach Aufnahme des Schulbetriebs als Schlüsselgrösse statt der Anzahl Teilnehmertage die Zahl der Schulabgängerinnen und ‑abgänger der letzten fünf Jahre zugezogen.
+<sup>4</sup> Für das Tragfähigkeitsprinzip werden während der ersten vier Jahre und für das Verursacherprinzip während dem ersten Jahre nach Aufnahme des Schulbetriebs als Schlüsselgrösse statt der Anzahl Teilnehmertage die Zahl der Schulabgängerinnen und –abgänger der letzten fünf Jahre zugezogen.
 
 <sup>5</sup> Die Rechnungsstellung der Leistungspauschale erfolgt hälftig im Januar und Juni. Andere Lehrgänge und Kurse sowie anderweitige Leistungen zugunsten Dritter werden unmittelbar den Auftraggebern fakturiert.
 
-## 5 Personal
+### V. PERSONAL
 
 #### Art. 25
 
@@ -307,7 +333,7 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 <sup>3</sup> Der Aufwand, welcher den Konkordatsmitgliedern durch die Zurverfügungstellung ihrer Angestellten entsteht, ist gemäss Tarif der Schule durch die IPH zu vergüten.
 
-## 6 Auszubildende
+### VI. AUSZUBILDENDE
 
 #### Art. 27
 
@@ -317,7 +343,7 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 <sup>2</sup> Das Minimalkontingent wird durch Aufteilung von 90% der zur Verfügung stehenden Plätze (Schulkapazität) im Verhältnis der jährlichen Beiträge der Partner errechnet. Das Ergebnis wird auf die nächste ganze Zahl aufgerundet.
 
-«Minimalkontingent des Konkordatsmitglieds A» = «90% der zur Verfügung stehenden Plätze» x «jährlicher Beitrag des Konkordatsmitglieds A» / «Gesamte Beiträge der Konkordatsmitglieder gemäss Globalbudget»
+90% der zur Verfügung stehenden Plätze x jährlicher Minimalkontingent Beitrag des Konkordatsmitglieds A des Konkordatsmitglieds A = Gesamte Beiträge der Konkordatsmitglieder gemäss Globalbudget
 
 <sup>3</sup> Über die Zuteilung freier Plätze an die Konkordatsmitglieder entscheidet die Schuldirektion. Ist die Nachfrage nach ungebundenen freien Plätzen grösser als das Angebot, so erfolgt eine Aufteilung dieser Plätze im Verhältnis des Minimalkontingents.
 
@@ -377,9 +403,9 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 **Rechtliche Stellung der Weiterzubildenden**
 
-<sup>1</sup> Die Art. 29 bis 31 gelten analog auch für die Weiterbildung.
+Die Art. 29 bis 31 gelten analog auch für die Weiterbildung.
 
-## 7 Haftung
+### VII. HAFTUNG
 
 #### Art. 34
 
@@ -391,25 +417,29 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 #### Art. 35
 
-**Schaden zum Nachteil der IPH oder der Konkordatsmitglieder**
+**Schaden zum Nachteil der IPH oder der**
 
-<sup>1</sup> Die Mitglieder der Organe des Konkordats, die Mitarbeitenden, die Ausbildenden und die Auszubildenden der IPH haften dieser sowie den Konkordatsmitgliedern für vorsätzlich oder grobfahrlässig zugefügten Schaden. Im Übrigen gilt das Staatshaftungsrecht des Kantons Luzern.
+### Konkordatsmitglieder
 
-## 8 Anwendbares Recht
+Die Mitglieder der Organe des Konkordats, die Mitarbeitenden, die Ausbildenden und die Auszubildenden der IPH haften dieser sowie den Konkordatsmitgliedern für vorsätzlich oder grob-fahrlässig zugefügten Schaden. Im Übrigen gilt das Staatshaftungsrecht des Kantons Luzern.
+
+### VIII. ANWENDBARES RECHT
 
 #### Art. 36
 
-<sup>1</sup> Wo dieses Konkordat keine Bestimmungen enthält und weder die einzelnen Konkordatsmitglieder noch die Konkordatsbehörde zur Regelung zuständig sind, namentlich betreffend Submission, Datenschutz und Archivrecht, ist das Recht des Kantons Luzern anwendbar.
+Wo dieses Konkordat keine Bestimmungen enthält und weder die einzelnen Konkordatsmitglieder noch die Konkordatsbehörde zur Regelung zuständig sind, namentlich betreffend Submission, Datenschutz und Archivrecht, ist das Recht des Kantons Luzern anwendbar.
 
 #### Art. 37
 
-<sup>1</sup> Publikationen der Schule erfolgen in allen amtlichen Publikationsorganen der Konkordatsmitglieder.
+Publikationen der Schule erfolgen in allen amtlichen Publikationsorganen der Konkordatsmitglieder.
 
-## 9 Zusammenarbeit und Verhältnis zu Dritten
+### IX. ZUSAMMENARBEIT UND VERHÄLTNIS ZU DRITTEN
 
 #### Art. 38
 
-**Förderung der Zusammenarbeit zwischen den Konkordatsmitgliedern**
+**Förderung der Zusammenarbeit zwischen den**
+
+### Konkordatsmitgliedern
 
 <sup>1</sup> Die Konkordatsmitglieder sind bestrebt zum Nutzen der IPH ihre Zusammenarbeit zu festigen und zu vertiefen.
 
@@ -419,13 +449,13 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 **Zusammenarbeit mit dem Bund**
 
-<sup>1</sup> Die Konkordatsbehörde kann mit dem Bund Vereinbarungen betreffend die polizeiliche Ausbildung abschliessen.
+Die Konkordatsbehörde kann mit dem Bund Vereinbarungen betreffend die polizeiliche Ausbildung abschliessen.
 
 #### Art. 40
 
 **Zusammenarbeit mit Bildungsinstitutionen**
 
-<sup>1</sup> Die IPH kann mit Ausbildungsinstitutionen des In- und Auslands zusammenarbeiten.
+Die IPH kann mit Ausbildungsinstitutionen des In- und Auslands zusammenarbeiten.
 
 #### Art. 41
 
@@ -435,13 +465,13 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 <sup>2</sup> Es besteht kein Anspruch auf Aufnahme.
 
-## 10 Schlussbestimmungen
+### X. SCHLUSSBESTIMMUNGEN
 
 #### Art. 42
 
 **Inkrafttreten**
 
-<sup>1</sup> Das Konkordat tritt in Kraft, sofern Konkordatsmitglieder, welche zusammen mindestens 95% der Beiträge (gemäss Anhang 1) zu übernehmen haben, ihren Beitritt erklärt haben.
+<sup>1</sup> Das Konkordat tritt in Kraft, sofern Konkordatsmitglieder, welche zusammen mindestens 95 % der Beiträge (gemäss Anhang 1) zu übernehmen haben, ihren Beitritt erklärt haben.
 
 <sup>2</sup> Der Beitritt ist bis am 31. Dezember 2004 gegenüber der Staatskanzlei des Kantons Luzern zu erklären, welche das Konkordat und dessen Zustandekommen dem Bundesrat zur Kenntnis bringt. Spätere Beitrittserklärungen stellen Beitritte weiterer Konkordatsmitglieder nach Art. 43 dar.
 
@@ -451,7 +481,7 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 **Beitritt weiterer Kantone**
 
-<sup>1</sup> Das Konkordat steht weiteren Kantonen zum Beitritt offen. Die Konkordatsbehörde entscheidet unter Berücksichtigung der Schulkapazitäten, der finanziellen Gegebenheiten und der Entwicklungsziele der Schule über die Aufnahme. Mit der Zustimmung zum Beitritt wird ein Minimalkontingent sowie der vom eintretenden Kanton zu bezahlende einmalige Eintrittsbeitrag festgelegt.
+Das Konkordat steht weiteren Kantonen zum Beitritt offen. Die Konkordatsbehörde entscheidet unter Berücksichtigung der Schulkapazitäten, der finanziellen Gegebenheiten und der Entwicklungsziele der Schule über die Aufnahme. Mit der Zustimmung zum Beitritt wird ein Minimalkontingent sowie der vom eintretenden Kanton zu bezahlende einmalige Eintrittsbeitrag festgelegt.
 
 #### Art. 44
 
@@ -477,6 +507,29 @@ Gestützt auf Art. 48 der Bundesverfassung schliessen die Kantone Luzern, Zug, U
 
 <sup>2</sup> Ein allfälliger Liquidationserlös wird nach Massgabe der Beiträge der Konkordatsmitglieder während der der Liquidation vorangehenden zehn Jahre unter den Mitgliedern verteilt.
 
-<sup>3</sup> Für allfällige Verluste haften die Konkordatsmitglieder analog Absatz 2.
+<sup>3</sup> Für allfällige Verluste haften die Konkordatsmitglieder analog Absatz°2.
 
-A 2004, 528, 529, 1111
+[^45-1]: A 2004, 529; vom Landrat genehmigt am 17. März 2004, A 2004, 528, 1111
+
+### ANHANG 1 ZUM KONKORDAT IPH
+
+[^45-1]
+
+Berechnung der von den Partner im Rahmen ihrer prozentualen Beitragspflicht gemäss Art. 24 in Verbindung mit der Planerfolgsrechnung zu leistenden Beiträge
+
+**13'654'000.00 400'000.00 320'000.00 320'000.00 240'000.00 12'374'000.00**
+
+Jahresbudget IPH ./. Botschaftsschutz ./. Polizeidienstangestellte ./. Gemeindepolizei ./. Übrige Dienstleistung\* Gesamtbeiträge der Partner gemäss Art. 24 \* nicht berücksichtigt sind die Einnahmen der Schule im Rahmen der Unkostenbeiträge der Schüler während des dreimonatigen Pflichtinternats nach Art. 29 Abs. 3. Die Konkordatsbehörde wird den Unkostenbeitrag vor Betriebsaufnahme in einem Tarif festlegen. Die nachstehend ausgewiesenen jährlichen Beiträge der Konkordatspartner werden sich entsprechend verringern.
+
+### Aufteilung auf die Partner
+
+**Frankenbeträge gemäss Plan Erfolgsrechnung vom 25. Juni 2003**
+
+**1'571'498.00 1'088'912.00 1'818'978.00 2'734'654.00 1'163'156.00 185'610.00 123'740.00 1'113'660.00 494'960.00 148'488.00 433'090.00 1'138'408.00 358'846.00 12'374'000.00**
+
+Konkordatspartner Prozent gemäss Verteilschlüssel nach Art. 24 Stand 25. Juni 2003 Aargau 12.7 Basel-Land 8.8 Basel-Stadt 14.7 Bern Kanton 22.1 Luzern Kanton 9.4 Nidwalden 1.5 Obwalden 1.0 Solothurn 9.0 Schwyz 4.0 Uri 1.2 Zug 3.5 Stadt Bern 9.2 Stadt Luzern 2.9 Total 100 Die entsprechenden Werte werden im Zeitpunkt der Betriebsaufnahme gemäss Art. 24 Abs. 4 aktualisiert.
+
+## Weitere Fussnoten
+
+- [1] A 2004, 529; vom Landrat genehmigt am 17. März 2004, A 2004, 528, 1111; in Kraft seit dem 1. Januar 2005
+- [2] Seit dem 1. Juni 2013 ist das Kantonsgericht Luzern zuständig.
