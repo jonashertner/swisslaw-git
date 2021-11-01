@@ -4,35 +4,38 @@ number: "651.121"
 title: Verwaltungsvereinbarung über den polizeilichen Betrieb des Seelisbergtunnels
 language: de
 version: 2009-04-01
+corrected: 2021-11-02
 version_adopted: 2009-02-03
 adopted: 2009-02-03
 in_force: 2009-04-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/651.121"
-pdf: "https://gesetze.nw.ch/api/de/versions/793/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/257/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verwaltungsvereinbarung über den polizeilichen Betrieb des Seelisbergtunnels
 
-vom 03.02.2009 (Stand 01.04.2009)
+vom 03. Februar 2009[^t-1]
 
 Die Kantone Uri und Nidwalden,
 
-gestützt auf Art. 57a des Bundesgesetzes vom 19. Dezember 1958 über den Strassenverkehr (SVG)[^ingress-1] und Art. 4 Abs. 1 des Bundesgesetzes vom 24. Juni 1970 über Ordnungsbussen im Strassenverkehr[^ingress-2],
+gestützt auf Art. 57a des Bundesgesetzes vom 19. Dezember 1958 über den Strassenverkehr (SVG)[^t-2] und Art. 4 Abs. 1 des Bundesgesetzes vom 24. Juni 1970 über Ordnungsbussen im Strassenverkehr[^t-3],
 
 vereinbaren:
 
-[^ingress-1]: SR 741.01
-[^ingress-2]: SR 741.03
+[^t-1]: A 2009, 441; Vom Regierungsrat des Kantons Uri genehmigt am 3. Februar 2009; Vom Regierungsrat des Kantons Nidwalden genehmigt am 17. Februar 2009
+[^t-2]: SR 741.01
+[^t-3]: SR 741.03
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Mit dieser Vereinbarung regeln die Kantone Uri und Nidwalden die gegenseitigen Rechte und Pflichten aus der Polizeitätigkeit im Seelisbergtunnel im Gebiet des Nachbarkantons.
+Mit dieser Vereinbarung regeln die Kantone Uri und Nidwalden die gegenseitigen Rechte und Pflichten aus der Polizeitätigkeit im Seelisbergtunnel im Gebiet des Nachbarkantons.
 
 #### Art. 2
 
@@ -46,29 +49,34 @@ vereinbaren:
 
 **Örtlicher Geltungsbereich**
 
-<sup>1</sup> Für den Polizeidienst bildet die Tunnelstrecke einen Zuständigkeitsabschnitt im Sinne von Art. 57a SVG[^3-1].
+Für den Polizeidienst bildet die Tunnelstrecke einen Zuständigkeitsabschnitt im Sinne von Art. 57a SVG[^3-1].
 
 [^3-1]: SR 741.01
 
-## 2 Aufgaben, Finanzielles
+### II. AUFGABEN, FINANZIELLES
 
 #### Art. 4
 
 **Einsatzzentrale**
 
-<sup>1</sup> Die Einsatzzentrale Flüelen gewährleistet die Verkehrsführung, die Verkehrsüberwachung sowie das Alarmieren und Aufbieten der Ereignisdienste.
+Die Einsatzzentrale Flüelen gewährleistet die Verkehrsführung, die Verkehrsüberwachung sowie das Alarmieren und Aufbieten der Ereignisdienste.
 
 #### Art. 5
 
 **Verkehrspolizeiliche Aufgaben**
 
-<sup>1</sup> Die Polizeiorgane beider Kantone haben auf der Tunnelstrecke unabhängig von den Kantonsgrenzen folgende Aufgaben:
+Die Polizeiorgane beider Kantone haben auf der Tunnelstrecke unabhängig von den Kantonsgrenzen folgende Aufgaben:
 
 - 1\. die Überwachung und Kontrolle des Verkehrs, der Verkehrsteilnehmerinnen und Verkehrsteilnehmer sowie der Fahrzeuge;
-- 2\. die Anordnungen der zur Wahrung der Verkehrssicherheit und Aufrechterhaltung des Verkehrs notwendigen Massnahmen, namentlich vorübergehende Verkehrsbeschränkungen und ‑umleitungen;
+
+- 2\. die Anordnungen der zur Wahrung der Verkehrssicherheit und Aufrechterhaltung des Verkehrs notwendigen Massnahmen, namentlich vorübergehende Verkehrsbeschränkungen und –umleitungen;
+
 - 3\. die Überwachung des Strassenzustandes und der verkehrsleitenden Einrichtungen unter dem Aspekt der Verkehrssicherheit;
+
 - 4\. die Vornahme jener unaufschiebbaren Massnahmen bei Verkehrsunfällen, die nicht sofort der Polizei des Gebietskantons übergeben werden können;
+
 - 5\. die Abnahme von Bussendepositen im ordentlichen Verfahren nach den im Gebietskanton geltenden Bestimmungen;
+
 - 6\. die Erhebung von Ordnungsbussen an Ort und Stelle nach den im Stammkanton geltenden Vorschriften.
 
 #### Art. 6
@@ -78,6 +86,7 @@ vereinbaren:
 <sup>1</sup> Auf der Tunnelstrecke besorgen die Polizeiorgane beider Kantone unabhängig von den Kantonsgrenzen:
 
 - 1\. den allgemeinen Ordnungs- und Sicherheitsdienst, soweit unaufschiebbare Eingriffe in Frage stehen, die nicht sofort der Polizei des Gebietskantons übergeben werden können;
+
 - 2\. die unaufschiebbaren Massnahmen bei Straftaten jeglicher Natur und veranlassen die Polizei des Gebietskantons zu den weiteren Massnahmen.
 
 <sup>2</sup> Für die Verfolgung und Beurteilung von Straftaten ist unter Vorbehalt von Art. 5 Ziff. 6 der Gebietskanton zuständig.
@@ -86,7 +95,7 @@ vereinbaren:
 
 **Rettungswesen**
 
-<sup>1</sup> Die Einsatzzentrale Flüelen veranlasst und koordiniert den Ersteinsatz der Schadenwehr- und Rettungsdienste.
+Die Einsatzzentrale Flüelen veranlasst und koordiniert den Ersteinsatz der Schadenwehr- und Rettungsdienste.
 
 #### Art. 8
 
@@ -100,7 +109,7 @@ vereinbaren:
 
 **Zusammenarbeit**
 
-<sup>1</sup> Die Polizeikommandanten oder Polizeikommandantinnen regeln gemeinsam die übrige Tätigkeit der Polizei des Stammkantons im Gebietskanton sowie das Rapport- und Meldewesen.
+Die Polizeikommandanten oder Polizeikommandantinnen regeln gemeinsam die übrige Tätigkeit der Polizei des Stammkantons im Gebietskanton sowie das Rapport- und Meldewesen.
 
 #### Art. 10
 
@@ -110,7 +119,7 @@ vereinbaren:
 
 <sup>2</sup> Allfällige Beiträge des Bundes an die Kosten der Polizei gehen an den Stammkanton.
 
-## 3 Haftung und Verantwortlichkeit
+### III. HAFTUNG UND VERANTWORTLICHKEIT
 
 #### Art. 11
 
@@ -130,15 +139,15 @@ vereinbaren:
 
 **Unfälle im Dienst**
 
-<sup>1</sup> Der Stammkanton entschädigt Polizeiorgane für die Folgen von Unfällen, die sie beim Dienst im Gebietskanton erleiden, in gleichem Masse wie für die Folgen von dienstlichen Unfällen im eigenen Kanton.
+Der Stammkanton entschädigt Polizeiorgane für die Folgen von Unfällen, die sie beim Dienst im Gebietskanton erleiden, in gleichem Masse wie für die Folgen von dienstlichen Unfällen im eigenen Kanton.
 
-## 4 Schlussbestimmungen
+### IV. SCHLUSSBESTIMMUNGEN
 
 #### Art. 13
 
 **Beistand**
 
-<sup>1</sup> Haben sich Polizeiorgane des Stammkantons wegen ihres Verhaltens beim Dienst im Gebietskanton in einem straf- oder zivilrechtlichen Verfahren zu verantworten, leistet ihnen der Gebietskanton in gleichem Masse Beistand, wie sie ihn in ihrem Stammkanton erhielten, und nicht weniger, als den Polizeiorganen des Gebietskantons.
+Haben sich Polizeiorgane des Stammkantons wegen ihres Verhaltens beim Dienst im Gebietskanton in einem straf- oder zivilrechtlichen Verfahren zu verantworten, leistet ihnen der Gebietskanton in gleichem Masse Beistand, wie sie ihn in ihrem Stammkanton erhielten, und nicht weniger, als den Polizeiorganen des Gebietskantons.
 
 #### Art. 14
 
@@ -152,16 +161,12 @@ vereinbaren:
 
 **Kündigung**
 
-<sup>1</sup> Diese Vereinbarung kann von den Parteien unter Einhaltung einer Frist von sechs Monaten auf das Ende eines jeden Jahres, frühestens per 31. Dezember 2010, gekündigt werden.
+Diese Vereinbarung kann von den Parteien unter Einhaltung einer Frist von sechs Monaten auf das Ende eines jeden Jahres, frühestens per 31. Dezember 2010, gekündigt werden.
 
 #### Art. 16
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vereinbarung tritt am 1. April 2009 in Kraft[^16-1].
+<sup>1</sup> Diese Vereinbarung tritt am 1. April 2009 in Kraft.
 
 <sup>2</sup> Sie wird durch den Kanton Nidwalden im Namen der Parteien dem Bundesamt für Strassen zur Kenntnisnahme gebracht.
-
-[^16-1]: Vom Regierungsrat des Kantons Uri genehmigt am 3. Februar 2009; Vom Regierungsrat des Kantons Nidwalden genehmigt am 17. Februar 2009
-
-A 2009, 441
