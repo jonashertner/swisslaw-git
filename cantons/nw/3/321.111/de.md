@@ -5,39 +5,43 @@ title: Reglement über die Benutzung der Kantonsbibliothek
 short: Bibliotheksreglement
 language: de
 version: 1996-08-01
-valid_until: 2022-06-30
+corrected: 2021-11-02
 version_adopted: 1996-07-10
 adopted: 2022-06-24
 in_force: 2022-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/321.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/792/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/451/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Reglement über die Benutzung der Kantonsbibliothek
 
-vom 10.07.1996 (Stand 01.08.1996)
+vom 10. Juli 1996[^t-1]
 
 Die Bibliothekskommission,
 
-in Ausführung von § 16 Absatz 2 der Verordnung vom 21. März 1970 über die Kantonsbibliothek[^ingress-1],
+in Ausführung von § 16 Absatz 2 der Verordnung vom 21. März 1970 über die Kantonsbibliothek[^t-2],
 
 beschliesst:
 
-[^ingress-1]: A 1970, 379, 857 (NG 324.11)
+[^t-1]: A 1996, 1519
+[^t-2]: A 1970, 379, 857 (NG 324.11)
 
-## 1 Zulassung und Ausschluss
+### I. ZULASSUNG UND AUSSCHLUSS
 
 #### § 1
 
 **Benutzerkreis**
 
-<sup>1</sup> Die Kantonsbibliothek dient in erster Linie den Bewohnern des Kantons.
+Die Kantonsbibliothek dient in erster Linie den Bewohnern des Kantons.
 
 #### § 2
 
-**Einschreibung 1. allgemein**
+**Einschreibung**
+
+### 1. allgemein
 
 <sup>1</sup> Wer die Kantonsbibliothek benutzen will, hat sich persönlich unter Vorlage eines amtlichen Ausweises mit gültiger Adresse bei der Ausleihe einzuschreiben.
 
@@ -53,7 +57,11 @@ beschliesst:
 
 **2. Wirkung**
 
-<sup>1</sup> Mit der Einschreibung werden das Reglement über die Benutzung der Kantonsbibliothek sowie die Weisungen des Bibliothekspersonals als verbindlich anerkannt.
+Mit der Einschreibung werden das Reglement über die Benutzung der Kantonsbibliothek sowie die Weisungen des Bibliothekspersonals als verbindlich anerkannt.
+
+**1**
+
+1.8.2004 - 38
 
 #### § 4
 
@@ -69,7 +77,7 @@ beschliesst:
 
 **Wegweisung, Ausschluss**
 
-<sup>1</sup> Personen, die sich nicht zum Zwecke der Benutzung im Sinne dieses Reglementes in der Kantonsbibliothek aufhalten, sind vom Bibliotheks-personal wegzuweisen.
+<sup>1</sup> Personen, die sich nicht zum Zwecke der Benutzung im Sinne dieses Reglementes in der Kantonsbibliothek aufhalten, sind vom Bibliothekspersonal wegzuweisen.
 
 <sup>2</sup> Wer den Bibliotheksbetrieb behindert, wiederholt das Benutzungsreglement oder die Hausordnung missachtet, Anordnungen des Bibliothekspersonal nicht befolgt oder andere Personen stört, kann durch die Bibliotheksleitung zeitlich befristet ganz oder teilweise von der Bibliotheksbenutzung ausgeschlossen werden.
 
@@ -77,7 +85,7 @@ beschliesst:
 
 <sup>4</sup> Ausschluss oder Benutzungsbeschränkung können auch bei Diebstahl sowie bei Schädigung der Bibliotheksbestände oder der Bibliothekseinrichtungen verfügt werden.
 
-## 2 Bibliotheksbenutzung
+### II. BIBLIOTHEKSBENUTZUNG
 
 #### § 6
 
@@ -123,9 +131,15 @@ beschliesst:
 
 <sup>3</sup> Bestellte Bücher werden während fünf Arbeitstagen zum Abholen bereitgehalten.
 
+**3**
+
+1.8.2004 - 38
+
 #### § 11
 
-**Ausleihe 1. allgemein**
+**Ausleihe**
+
+### 1. allgemein
 
 <sup>1</sup> Sammlungsgegenstände, die keiner Ausleihbeschränkung unterliegen, können nach Hause entliehen oder durch Vermittlung einer Bibliothek entliehen werden.
 
@@ -139,7 +153,7 @@ beschliesst:
 
 **2. Frist**
 
-<sup>1</sup> Die Ausleihfrist beträgt einen Monat; sie kann stillschweigend bis auf höchstens drei Monate verlängert werden, sofern kein anderer Bibliotheksbenutzer das Leihgut vorbestellt hat. Während der Verlängerungszeit kann die Bibliothek ausgeliehene Bestände jederzeit zurückrufen.
+Die Ausleihfrist beträgt einen Monat; sie kann stillschweigend bis auf höchstens drei Monate verlängert werden, sofern kein anderer Bibliotheksbenutzer das Leihgut vorbestellt hat. Während der Verlängerungszeit kann die Bibliothek ausgeliehene Bestände jederzeit zurückrufen.
 
 #### § 13
 
@@ -167,7 +181,7 @@ beschliesst:
 
 **5. Verbuchung**
 
-<sup>1</sup> Für die Ausleihverbuchung muss der Benutzerausweis vorgewiesen werden. Bis zur Rückbuchung gilt der Sammlungsgegenstand als ausgeliehen. Die Bibliothek bescheinigt die Rückgabe.
+Für die Ausleihverbuchung muss der Benutzerausweis vorgewiesen werden. Bis zur Rückbuchung gilt der Sammlungsgegenstand als ausgeliehen. Die Bibliothek bescheinigt die Rückgabe.
 
 #### § 16
 
@@ -193,6 +207,10 @@ beschliesst:
 
 <sup>3</sup> Aus der Vermittlung entstehende Kosten trägt der Besteller und zwar auch dann, wenn er bestellte und richtig gelieferte Sendungen trotz Aufforderung nicht abholt.
 
+**5**
+
+1.8.2004 - 38
+
 #### § 18
 
 **Reproduktionen**
@@ -215,13 +233,13 @@ beschliesst:
 
 <sup>2</sup> Eine Ausleihe von Dokumenten der Mediothek ist nicht gestattet.
 
-## 3 Allgemeine Bestimmungen
+### III. ALLGEMEINE BESTIMMUNGEN
 
 #### § 20
 
 **Bestand**
 
-<sup>1</sup> Die Kantonsbibliothek ist nicht verpflichtet bestimmte Werke anzuschaffen oder auswärts auszuleihen.
+Die Kantonsbibliothek ist nicht verpflichtet bestimmte Werke anzuschaffen oder auswärts auszuleihen.
 
 #### § 21
 
@@ -261,7 +279,7 @@ beschliesst:
 
 **Kontrolle**
 
-<sup>1</sup> Das Bibliothekspersonal ist befugt bei weggehenden Personen Bücher, Mappen, Taschen und dergleichen zu kontrollieren.
+Das Bibliothekspersonal ist befugt bei weggehenden Personen Bücher, Mappen, Taschen und dergleichen zu kontrollieren.
 
 #### § 25
 
@@ -271,12 +289,20 @@ beschliesst:
 
 <sup>2</sup> Für besondere Verwaltungsarbeiten, wie die Vermittlung von Dokumenten anderer Bibliotheken, Mahnungen, Wiederbeschaffung nicht zurückgebrachter Bücher usw. werden Gebühren und Kosten nach den im Anhang enthaltenen Ansätzen erhoben.
 
+**7**
+
+1.8.2004 - 38
+
 <sup>3</sup> Ausserdem werden in Rechnung gestellt:
 
 - 1\. Schadenersatz für verlorene oder beschädigte Werke;
+
 - 2\. auf bibliothekseigenen Einrichtungen hergestellte Fotokopien und andere Reproduktionen;
+
 - 3\. Benutzungskosten kommerzieller Datenbanken;
+
 - 4\. Telekommunikationsgebühren und besondere Portospesen;
+
 - 5\. weitere besondere Dienstleistungen der Kantonsbibliothek nach Aufwand.
 
 <sup>4</sup> Allfällige Kautionen sind im Rahmen des im Anhang enthaltenen Ansatzes zu hinterlegen.
@@ -310,7 +336,9 @@ beschliesst:
 <sup>4</sup> Die Kantonsbibliothek lehnt im gesetzlich zulässigen Rahmen die Haftung ab für:
 
 - 1\. Urheberrechtsverletzungen durch Bibliotheksbenutzer;
+
 - 2\. Schäden, die durch falsche Auskünfte im Zusammenhang mit der Benutzung der Kantonsbibliothek entstehen;
+
 - 3\. Diebstähle und Schäden, die zum Nachteil von Bibliotheksbenutzern von Dritten begangen beziehungsweise verursacht werden.
 
 #### § 29
@@ -321,7 +349,7 @@ beschliesst:
 
 <sup>2</sup> Beschwerden gegen Verfügungen und Entscheide der Bibliotheksleitung sind an die Bibliothekskommission zu richten, die endgültig entscheidet.
 
-## 4 Schlussbestimmungen
+### IV. SCHLUSSBESTIMMUNGEN
 
 #### § 30
 
@@ -331,64 +359,70 @@ beschliesst:
 
 <sup>2</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Reglement vom 17. Dezember 1971 über die Benützung der Kantonsbibliothek[^30-1].
 
+**9**
+
+1.8.2004 - 38
+
 [^30-1]: A 1971, 1522
 
-## A1 Anhang Gebührenordnung
+### GEBÜHRENORDNUNG
 
-#### § A1-1
+### Benutzerausweis
 
-<sup>1</sup> Benutzerausweis:
+**Fr. 5.– Fr. 10.–**
 
-- 1\. Erstbezug: — Fr. 5.–
-- 2\. Ersatzausweis: — Fr. 10.–
+- Erstbezug
 
-#### § A1-2
+- Ersatzausweis
 
-<sup>1</sup> Vorbestellung, je Medium: Fr. 1.–
+### Vorbestellung
 
-#### § A1-3
+**Fr. 1.–**
 
-<sup>1</sup> Kaution, je nach Fall: Fr. 50.– bis Fr. 500.–
+- je Medium
 
-#### § A1-4
+### Kaution
 
-<sup>1</sup> Fernleihe, je Medium Fr. 1.–.
+- je nach Fall Fr. 50.- bis Fr. 500.–
 
-<sup>2</sup> Der Betrag ist zusammen mit der Bestellung zu entrichten. Allfällige Gebühren und Kosten der ausleihenden Bibliothek sind ebenfalls vom Besteller zu bezahlen.
+### Fernleihe
 
-<sup>3</sup> Die Gebühr wird nicht zurückerstattet, auch wenn das Gewünschte nicht vermittelt werden kann.
+**Fr. 1.–**
 
-#### § A1-5
+- je Medium Der Betrag ist zusammen mit der Bestellung zu entrichten. Allfällige Gebühren und Kosten der ausleihenden Bibliothek sind ebenfalls vom Besteller zu bezahlen.
 
-<sup>1</sup> Mahnungen:
+Die Gebühr wird nicht zurückerstattet, auch wenn das Gewünschte nicht vermittelt werden kann.
 
-- 1\. Rückruf: — gebührenfrei
-- 2\. 1. Mahnung, nach Ablauf von drei Monaten: — gebührenfrei
-- 3\. 2. Mahnung: — Fr. 10.– je Buch
-- 4\. 3. Mahnung: — Fr. 35.– je Buch
+### Mahnungen
 
-<sup>2</sup> Die Mahngebühren werden kumuliert. Nach erfolgloser dritter Mahnung wird Rechnung gestellt; zu bezahlen sind die geschuldeten Mahngebühren, der Neuwert der Medien sowie eine Bearbeitungsgebühr von Fr. 30.– je Medium.
+**gebührenfrei gebührenfrei Fr. 10.– je Buch Fr. 35.– je Buch**
 
-#### § A1-6
+- Rückruf
 
-<sup>1</sup> Fotokopien:
+- 1\. Mahnung, nach Ablauf von drei Monaten
 
-- 1\. Format A4:
-  - a) einseitig: — Fr. -.20
-  - b) doppelseitig: — Fr. -.30
-- 2\. Format A3:
-  - a) einseitig: — Fr. -.30
-  - b) doppelseitig: — Fr. -.45
+- 2\. Mahnung
 
-<sup>2</sup> Fotokopien von andern Bibliotheken werden nach deren Gebührentarif verrechnet.
+- 3\. Mahnung Die Mahngebühren werden kumuliert. Nach erfolgloser dritter Mahnung wird Rechnung gestellt; zu bezahlen sind die geschuldeten Mahngebühren, der Neuwert der Medien sowie eine Bearbeitungsgebühr von Fr. 30.– je Medium.
 
-<sup>3</sup> Kopien, die ausserhalb des Hauses erstellt werden müssen (Color-Laser-Kopien, s/w Laser-Kopien, Foto-Reproduktionen s/w oder farbig, Diapositive) werden nach Aufwand verrechnet.
+### Fotokopien
 
-#### § A1-7
+**Fr. -.20 Fr. -.30 Fr. -.30 Fr. -.45**
 
-<sup>1</sup> Schäden und Verluste:
+- Format A4: einseitig doppelseitig
 
-- 1\. Schäden an Medien: Verrechnung der Reparaturkosten
-- 2\. Verlust von Medien: Neuwert plus Bearbeitungskosten von Fr. 30.– je Medium.
+- Format A3: einseitig doppelseitig Fotokopien von andern Bibliotheken werden nach deren Gebührentarif verrechnet.
 
-A 1996, 1519
+Kopien, die ausserhalb des Hauses erstellt werden müssen (Color-Laser-Kopien, s/w Laser-Kopien, Foto-Reproduktionen s/w oder farbig, Diapositive) werden nach Aufwand verrechnet.
+
+**11**
+
+1.8.2004 - 38
+
+### Schäden und Verluste
+
+**Verrechnung der Reparaturkosten Neuwert plus Bearbeitungskosten von Fr. 30.– je Medium.**
+
+- Schäden an Medien:
+
+- Verlust von Medien:
