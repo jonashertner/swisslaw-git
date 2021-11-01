@@ -4,39 +4,41 @@ number: "842.21"
 title: Ausführungsbestimmungen zur Vereinbarung über die Fischerei im Vierwaldstättersee
 language: de
 version: 2017-06-01
-valid_until: 2023-08-31
+corrected: 2021-11-02
 version_adopted: 2017-04-25
 adopted: 2008-06-04
 in_force: 2009-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/842.21"
-pdf: "https://gesetze.nw.ch/api/de/versions/773/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/384/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Ausführungsbestimmungen zur Vereinbarung über die Fischerei im Vierwaldstättersee
 
-vom 04.06.2008 (Stand 01.06.2017)
+vom 4. Juni 2008[^t-1]
 
 Die Fischereikommission,
 
-gestützt auf § 2 der Interkantonalen Vereinbarung über die Fischerei im Vierwaldstättersee vom 29. September 1978[^ingress-1],
+gestützt auf § 2 der Interkantonalen Vereinbarung über die Fischerei im Vierwaldstättersee vom 29. September 1978[^t-2],
 
 erlässt folgende Ausführungsbestimmungen:
 
-[^ingress-1]: NG 842.2
+I. ALLGEMEINE VORSCHRIFTEN
 
-## 1 Allgemeine Vorschriften
+- a. Geltungsbereich
 
-### 1.1 Geltungsbereich
+[^t-1]: A 2009, 91
+[^t-2]: NG 842.2
 
 #### § 1
 
 **Kantonsgrenzen und Privatfischenzen**
 
-<sup>1</sup> Die nachfolgenden Vorschriften gelten für die Ausübung der Fischerei auf dem ganzen Gebiet des Vierwaldstättersees. Sie gelten auch für die im Vierwaldstättersee liegenden Privatfischenzen.
+Die nachfolgenden Vorschriften gelten für die Ausübung der Fischerei auf dem ganzen Gebiet des Vierwaldstättersees. Sie gelten auch für die im Vierwaldstättersee liegenden Privatfischenzen.
 
-### 1.2 Pflichten der Patentinhaberinnen und Patentinhaber
+- b. Pflichten der Patentinhaberinnen und Patentinhaber
 
 #### § 2
 
@@ -48,11 +50,15 @@ erlässt folgende Ausführungsbestimmungen:
 
 <sup>3</sup> Die Kantone befinden über die Gleichwertigkeit und die Übergangsfristen.
 
+**1**
+
+Stand: 1. Januar 2016
+
 #### § 3
 
 **Fischereivorschriften**
 
-<sup>1</sup> Die Patentinhaberinnen und Patentinhaber müssen im Besitze der für sie geltenden Vorschriften sein. Sie haben das Patent auf sich zu tragen und den Aufsichtsorganen auf Verlangen vorzuweisen.
+Die Patentinhaberinnen und Patentinhaber müssen im Besitze der für sie geltenden Vorschriften sein. Sie haben das Patent auf sich zu tragen und den Aufsichtsorganen auf Verlangen vorzuweisen.
 
 #### § 4
 
@@ -64,7 +70,7 @@ erlässt folgende Ausführungsbestimmungen:
 
 <sup>3</sup> Bei Unterlassung oder unrichtiger Führung der Fischfangstatistik kann das Fischereipatent gemäss kantonalem Recht entzogen bzw. verweigert werden. Die Fischfangstatistik der Berufsfischer wird durch die Geschäftsstelle geführt.
 
-### 1.3 Befugnisse der Aufsichtsorgane
+- c. Befugnisse der Aufsichtsorgane
 
 #### § 5
 
@@ -74,17 +80,17 @@ erlässt folgende Ausführungsbestimmungen:
 
 <sup>2</sup> Verbotene oder widerrechtlich eingesetzte Fanggeräte und damit erzielte Fänge sind einzuziehen.
 
-### 1.4 Weitergehende Bestimmungen der Kantone
+- d. Weitergehende Bestimmungen der Kantone
 
 #### § 6
 
 **Weitere Bestimmungen der Kantone**
 
-<sup>1</sup> Den Kantonen bleibt es vorbehalten, im Einvernehmen mit der Fischereikommission für ihr Seegebiet strengere Anforderungen an die zulässigen Gerätschaften zu stellen und weitere zeitliche und örtliche Beschränkungen der Fischerei sowie ergänzende Bestimmungen über die Ausübung der Fischerei, über wissenschaftliche Untersuchungen und ähnliche Zwecke zu erlassen.
+Den Kantonen bleibt es vorbehalten, im Einvernehmen mit der Fischereikommission für ihr Seegebiet strengere Anforderungen an die zulässigen Gerätschaften zu stellen und weitere zeitliche und örtliche Beschränkungen der Fischerei sowie ergänzende Bestimmungen über die Ausübung der Fischerei, über wissenschaftliche Untersuchungen und ähnliche Zwecke zu erlassen.
 
-## 2 Fangausübung
+### II. FANGAUSÜBUNG
 
-### 2.1 Allgemeine Bestimmungen
+- a. Allgemeine Bestimmungen
 
 #### § 7
 
@@ -110,7 +116,7 @@ erlässt folgende Ausführungsbestimmungen:
 
 **Platzvorrecht**
 
-<sup>1</sup> Die Berufsfischerei hat mit ihren Gerätschaften auf den Fangplätzen gegenüber der Sportfischerei das Vorrecht zur Fischereiausübung.
+Die Berufsfischerei hat mit ihren Gerätschaften auf den Fangplätzen gegenüber der Sportfischerei das Vorrecht zur Fischereiausübung.
 
 #### § 10
 
@@ -124,7 +130,11 @@ erlässt folgende Ausführungsbestimmungen:
 
 **Fang und Handel von Fischnährtieren**
 
-<sup>1</sup> Der Fang von Fischnährtieren erfordert eine Bewilligung der kantonalen Behörde.
+Der Fang von Fischnährtieren erfordert eine Bewilligung der kantonalen Behörde.
+
+**3**
+
+Stand: 1. Januar 2016
 
 #### § 12
 
@@ -142,9 +152,9 @@ erlässt folgende Ausführungsbestimmungen:
 
 **Hilfsgeräte**
 
-<sup>1</sup> Als Hilfsgerät zur Anlandung von gehakten oder im Netz verfangener Fische darf nur der Feumer (Unterfangnetz) verwendet werden.
+Als Hilfsgerät zur Anlandung von gehakten oder im Netz verfangener Fische darf nur der Feumer (Unterfangnetz) verwendet werden.
 
-### 2.2 Fanggeräte und Fangmethoden
+- b. Fanggeräte und Fangmethoden
 
 #### § 14
 
@@ -154,15 +164,20 @@ erlässt folgende Ausführungsbestimmungen:
 
 <sup>2</sup> Erlaubt ist nur eine Angelrute mit einem einfachen Angelhaken ohne Widerhaken mit natürlichem Köder. Köderfische dürfen nicht verwendet werden.
 
+[^14-1]: Fassung gemäss Fischereikommission Vierwaldstättersee vom 22. Juni 2015; A 2015, 2112, in Kraft seit 1. Januar 2016
+
 #### § 15
 
-**Fanggeräte**
+**Fanggeräte[^14-1]**
 
 <sup>1</sup> Für die Sportfischerei sind ausschliesslich die nachstehend erwähnten Fanggeräte und Fangmethoden erlaubt:
 
 - a) Die Flug-, die Spinn-, die Grundangel- und die Zapfenfischerei mit natürlichem oder künstlichem Köder mit einfachen oder mehrendigen Angelhaken. Es dürfen höchstens zwei Angelruten gleichzeitig verwendet werden.
+
 - b) Die Hegenenfischerei mit zwei Angelruten mit je einer Hegene mit höchstens sechs an der Leitschnur angebrachten Seitenschnüren mit je einem einfachen Angelhaken.
+
 - c) Die Juckerfischerei mit nur einer Angelrute und nur einem einfachen oder mehrendigen Angelhaken.
+
 - d) Die Schleppfischerei mit von Hand geführten Ködern, mit Ruten, Seehunden und Tiefseeschleicke mit einfachen oder mehrendigen Angelhaken. Pro Boot sind 10 Anbissstellen erlaubt und die Gerätschaften dürfen kombiniert eingesetzt werden.
 
 <sup>2</sup> Bei der Schleppfischerei ist das Boot mit einem weissen Ball zu kennzeichnen.
@@ -173,56 +188,87 @@ erlässt folgende Ausführungsbestimmungen:
 
 **Beaufsichtigung**
 
-<sup>1</sup> Die Sportfischergerätschaften sind dauernd zu beaufsichtigen.
+Die Sportfischergerätschaften sind dauernd zu beaufsichtigen.
 
 #### § 17
 
 **Gerätschaften der Berufsfischer**
 
-<sup>1</sup> Die Gerätschaften für die Berufsfischerei werden gestützt auf die Resultate der fischereibiologischen Bestandesüberwachung festgelegt und im Anhang umschrieben.
+Die Gerätschaften für die Berufsfischerei werden gestützt auf die Resultate der fischereibiologischen Bestandesüberwachung festgelegt und im Anhang umschrieben.
 
-## 3 Schutzvorschriften
+### III. SCHUTZVORSCHRIFTEN
 
-### 3.1 Schonzeiten
+- a. Schonzeiten
 
 #### § 18
 
 **Schonzeiten**
 
-<sup>1</sup> Die Schonzeiten für Fische und Krebse werden wie folgt festgelegt:
+Die Schonzeiten für Fische und Krebse werden wie folgt festgelegt:
 
-- a) Forellen: — 1. Okt.–25. Dez.
-- b) Rötel (Seesaibling): — 1. Okt.–25. Dez.
-- c) Albeli: — 1. Okt.–25. Dez.
-- d) Balchen / Felchen: — 15. Okt.–25. Dez.
-- e) Edelfisch (sommerlaichender Felchen): — 1. Jan.–31. Dez.
-- f) Äsche: — 15. Feb.–30. April
-- g) Hecht (gilt nicht im Alpnachersee): — 15. März–30. April
-- h) Zander: — 15. April–31. Mai
-- i) Nase: — 1. Jan.–31. Dez.
-- k) Alle Krebsarten: — 1. Jan.–31. Dez.
+**01. Okt. - 25. Dez. 01. Okt. - 25. Dez. 01. Okt. - 25. Dez. 15. Okt. - 25. Dez.**
 
-### 3.2 Fangmindestmasse
+- a. Forellen
+
+- b. Rötel (Seesaibling)
+
+- c. Albeli
+
+- d. Balchen/Felchen
+
+- e. Edelfisch (sommerlaichender Felchen) 01. Jan. - 31. Dez.
+
+**15. Feb. - 30. April 15. März - 30. April 15. April - 31. Mai 01. Jan. - 31. Dez. 01. Jan. - 31. Dez.**
+
+- f. Äsche
+
+- g. Hecht (gilt nicht im Alpnachersee[^18-1]
+
+- h. Zander
+
+- i. Nase
+
+- k. Alle Krebsarten
+
+**5**
+
+Stand: 1. Januar 2016 b. Fangmindestmasse
+
+[^18-1]: Fassung gemäss Fischereikommission Vierwaldstättersee vom 6. Juni 2011; A 2012, 16, in Kraft seit 1. Januar 2012
 
 #### § 19
 
 **Fangmindestmass**
 
-<sup>1</sup> Die nachgenannten Fische müssen, gemessen von der Kopfspitze bis zu den Spitzen der natürlich ausgebreiteten Schwanzflosse, mindestens folgende Längen aufweisen:
+Die nachgenannten Fische müssen, gemessen von der Kopfspitze bis zu den Spitzen der natürlich ausgebreiteten Schwanzflosse, mindestens folgende Längen aufweisen:
 
-- a) Forellen: — 35 cm
-- b) Rötel: — 22 cm
-- c) Albeli: — 22 cm
-- d) Balchen / Felchen: — 30 cm
-- e) Balchen / Felchen Alpnachersee: — 25 cm
-- f) Edelfisch (sommerlaichender Felchen): — 30 cm
-- g) Äsche: — 30 cm
-- h) Hecht (gilt nicht im Alpnachersee): — 50 cm
-- i) Zander: — 40 cm
-- k) Egli (Barsch): — 15 cm
-- l) Aal: — 50 cm
+**35 cm 22 cm 22 cm 30 cm 25 cm 30 cm 30 cm 50 cm 40 cm 15 cm 50 cm**
 
-### 3.3 Zeitliche Einschränkungen
+- a. Forellen
+
+- b. Rötel
+
+- c. Albeli
+
+- d. Balchen/Felchen
+
+- e. Balchen/Felchen Alpnachersee
+
+- f. Edelfisch (sommerlaichender Felchen)
+
+- g. Äsche
+
+- h. Hecht (gilt nicht im Alpnachersee[^19-1]
+
+- i. Zander
+
+- k. Egli (Barsch)
+
+- l. Aal
+
+- c. Zeitliche Einschränkungen
+
+[^19-1]: Fassung gemäss Fischereikommission Vierwaldstättersee vom 6. Juni 2011; A 2012, 16, in Kraft seit 1. Januar 2012
 
 #### § 20
 
@@ -231,13 +277,14 @@ erlässt folgende Ausführungsbestimmungen:
 <sup>1</sup> Die Ausübung der Fischerei ist verboten:
 
 - a) vom 1. März bis 31. Oktober in der Zeit von 22.00 Uhr bis 04.00 Uhr;
+
 - b) vom 1. November bis Ende Februar in der Zeit von 20.00 Uhr bis 06.00 Uhr.
 
 <sup>2</sup> Die Schleppangelfischerei ist nur bei Tageslicht gestattet.
 
 <sup>3</sup> Die Nachtfischerei auf Aale und Trüschen ist von öffentlich zugänglichen Ufern aus erlaubt, die Kantone können weitere Fangplätze bewilligen.
 
-### 3.4 Örtliche Einschränkungen
+- d. Örtliche Einschränkungen
 
 #### § 21
 
@@ -251,31 +298,31 @@ erlässt folgende Ausführungsbestimmungen:
 
 **Öffentliche Badeanlagen**
 
-<sup>1</sup> Innerhalb gekennzeichneter öffentlicher Badeanlagen ist die Fischerei während des Badebetriebes verboten.
+Innerhalb gekennzeichneter öffentlicher Badeanlagen ist die Fischerei während des Badebetriebes verboten.
 
 #### § 23
 
 **Uferschutz**
 
-<sup>1</sup> Das Betreten und Befahren von Schilf- und Binsenbeständen ist verboten. Beim Setzen von Reusen dürfen die Pflanzenbestände nicht beschädigt werden.
+Das Betreten und Befahren von Schilf- und Binsenbeständen ist verboten. Beim Setzen von Reusen dürfen die Pflanzenbestände nicht beschädigt werden.
 
-## 4 Hebung des Fischbestandes
+### IV. HEBUNG DES FISCHBESTANDES
 
-### 4.1 Laichfischerei
+- a. Laichfischerei
 
 #### § 24
 
 **Laichfangbewilligung**
 
-<sup>1</sup> Für die künstliche Fischzucht kann der Fang von geschonten Fischen durch die zuständige kantonale Behörde bewilligt werden. Die Auflagen und Bedingungen werden in der Laichfangbewilligung festgelegt.
+Für die künstliche Fischzucht kann der Fang von geschonten Fischen durch die zuständige kantonale Behörde bewilligt werden. Die Auflagen und Bedingungen werden in der Laichfangbewilligung festgelegt.
 
 #### § 25
 
 **Beginn der Laichfischerei**
 
-<sup>1</sup> Der Beginn der Laichfischfänge wird durch die Geschäftsstelle festgelegt.
+Der Beginn der Laichfischfänge wird durch die Geschäftsstelle festgelegt.
 
-### 4.2 Fischeinsatz
+- b. Fischeinsatz
 
 #### § 26
 
@@ -287,6 +334,10 @@ erlässt folgende Ausführungsbestimmungen:
 
 <sup>3</sup> Die Geschäftsstelle ist über die jährlichen Fischeinsätze zu orientieren. Sie führt eine Besatzstatistik.
 
+**7**
+
+Stand: 1. Januar 2016
+
 #### § 27
 
 **Besatzfische Verfügungsrecht**
@@ -297,7 +348,7 @@ erlässt folgende Ausführungsbestimmungen:
 
 <sup>3</sup> Im Einvernehmen mit der Geschäftsstelle sind Ausnahmen möglich.
 
-### 4.3 Erhaltung und Verbesserung von Lebensräumen
+- c. Erhaltung und Verbesserung von Lebensräumen
 
 #### § 28
 
@@ -307,19 +358,21 @@ erlässt folgende Ausführungsbestimmungen:
 
 <sup>2</sup> Die Erteilung der fischereirechtlichen Bewilligung für technische Eingriffe, im Sinne von Artikel 8 des Bundesgesetzes über die Fischerei, ist Sache der zuständigen kantonalen Behörde.
 
-## 5 Strafbestimmungen
+### V. STRAFBESTIMMUNGEN
 
 #### § 29
 
 **Verbot der Fischereiausübung**
 
-<sup>1</sup> Zusätzlich zu den Strafbestimmungen und der Strafverfolgung im Sinne der §§ 18, 19 und 20 der Interkantonalen Vereinbarung über die Fischerei auf dem Vierwaldstättersee können Bewilligungen widerrufen und die Fischereiberechtigung durch die zuständige kantonale Behörde administrativ entzogen werden.
+Zusätzlich zu den Strafbestimmungen und der Strafverfolgung im Sinne der §§ 18, 19 und 20 der Interkantonalen Vereinbarung über die Fischerei auf dem Vierwaldstättersee können Bewilligungen widerrufen und die Fischereiberechtigung durch die zuständige kantonale Behörde administrativ entzogen werden.
 
-## 6 Übergangs- und Schlussbestimmungen
+### VI. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### § 30
 
-**Genehmigung, Veröffentlichung, Aufhebung bisheriger Bestimmungen**
+**Genehmigung, Veröffentlichung, Aufhebung bisheriger**
+
+### Bestimmungen
 
 <sup>1</sup> Diese Ausführungsbestimmungen treten nach Genehmigung der Vorschriften über Bewirtschaftung, Schonbestimmungen, sowie fremder Arten und Rassen durch die zuständige Bundesbehörde, durch Beschluss der Fischereikommission auf den 1. Januar 2009 in Kraft.
 
@@ -327,100 +380,125 @@ erlässt folgende Ausführungsbestimmungen:
 
 <sup>3</sup> Mit der Annahme werden sämtliche den Ausführungsbestimmungen widersprechenden Beschlüsse der Fischereikommission aufgehoben.
 
-## A1 Anhang: Gerätschaften für die Berufsfischerei im Vierwaldstättersee
+**9**
 
-#### § A1-1
+Stand: 1. Januar 2016
+
+## Gerätschaften für die Berufsfischerei im Vierwaldstättersee
+
+vom 4. Juni 2008
+
+#### § 1
 
 **Albelifischerei**
 
 <sup>1</sup> Das Albelischweb- und Albelibodennetz ist wie folgt zugelassen:
 
-- a) Höchstlänge: — 80 m
-- b) Maximalhöhe: — 180 cm
-- c) Mindestmaschenweite: — 24 mm
-- d) Pro Patent dürfen maximal je 13 Netze verwendet werden.
+**80 m 180 cm 24 mm**
+
+[^1_2-1]: A 2009, 91
+
+### Höchstlänge Maximalhöhe Mindestmaschenweite Pro Patent dürfen maximal je 13 Netze verwendet werden.
+
+[^1_2-1]
 
 <sup>2</sup> Das hohe Albelischweb- und Albelibodennetz ist wie folgt zugelassen:
 
-- a) Höchstlänge: — 80 m
-- b) Maximalhöhe: — 6 m
-- c) Mindestmaschenweite: — 24 mm
-- d) Pro Patent dürfen maximal je 16 Netze verwendet werden.
+**80 m 6 m 24 mm**
+
+[^hHöchstlängeMaximalh-1]: A 2009, 91
+
+### Höchstlänge Maximalhöhe Mindestmaschenweite Pro Patent dürfen maximal je 16 Netze verwendet werden.
+
+[^hHöchstlängeMaximalh-1]
 
 <sup>3</sup> Im Alpnachersee sind keine Albelinetze zugelassen.
 
-#### § A1-2
+#### § 2
 
-**Balchen- / Felchenfischerei**
+**Balchen-/Felchenfischerei**
 
-<sup>1</sup> …
+<sup>1</sup> …[^2_2-1]
 
-<sup>2</sup> Das hohe Balchen- / Felchenschwebnetz ist wie folgt zugelassen:
+<sup>2</sup> Das hohe Balchen-/Felchenschwebnetz ist wie folgt zugelassen:
 
-- a) Höchstlänge: — 120 m
-- b) Maximalhöhe: — 8 m
-- c) Mindestmaschenweite: — 38 mm
-- d) Pro Patent dürfen maximal 17 Netze verwendet werden.
+**120 m 8 m 38 mm**
 
-<sup>3</sup> Im Alpnachersee haben Netze für die Balchen- / Felchenfischerei eine Mindestmaschenweite von 34 mm aufzuweisen.
+[^2_2-1]: A 2009, 91
 
-#### § A1-3
+### Höchstlänge Maximalhöhe Mindestmaschenweite Pro Patent dürfen maximal 17 Netze verwendet werden.
+
+[^2_2-1]
+
+<sup>3</sup> Im Alpnachersee haben Netze für die Balchen-/Felchenfischerei eine Mindestmaschenweite von 34 mm aufzuweisen.
+
+**11**
+
+Stand: 1. Juni 2017
+
+#### § 3
 
 **Rötel (Saibling)-Fischerei**
 
-<sup>1</sup> Das Rötel (Saibling)-Netz ist wie folgt zugelassen:
+Das Rötel (Saibling)-Netz ist wie folgt zugelassen:
 
-- a) Höchstlänge: — 80 m
-- b) Maximalhöhe: — 180 cm
-- c) Mindestmaschenweite: — 27 mm
-- d) Pro Patent dürfen je 16 Boden- und 16 Schwebnetze verwendet werden.
+**80 m 180 cm 27 mm**
 
-#### § A1-4
+### Höchstlänge Maximalhöhe Mindestmaschenweite
+
+Pro Patent dürfen je 16 Boden- und 16 Schwebnetze verwendet werden.
+
+#### § 4
 
 **Allgemeine Uferfischerei**
 
 <sup>1</sup> Das Bodennetz für die allgemeine Uferfischerei ist wie folgt zugelassen:
 
-- 1\. Höchstlänge: — 80 m
-- 2\. Maximalhöhe: — 180 cm
-- 3\. Mindestmaschenweite: — 27 mm
-- 4\. Pro Patent dürfen maximal 24 Netze verwendet werden.
+**80 m 180 cm 27 mm werden.**
+
+### Höchstlänge Maximalhöhe Mindestmaschenweite Pro Patent dürfen maximal 24 Netze verwendet
 
 <sup>2</sup> Das hohe Bodennetz für die allgemeine Uferfischerei ist wie folgt zugelassen:
 
-- a) Höchstlänge: — 120 m
-- b) Maximalhöhe: — 8 m
-- c) Mindestmaschenweite: — 45 mm
-- d) Pro Patent dürfen maximal 8 Netze verwendet werden.
+**120 m 8 m 45 mm**
 
-#### § A1-5
+### Höchstlänge Maximalhöhe Mindestmaschenweite
+
+Pro Patent dürfen maximal 8 Netze verwendet werden.
+
+#### § 5
 
 **Zuggarnfischerei**
 
 <sup>1</sup> Das Klusgarn ist mit folgenden Massen zugelassen:
 
-- a) Maschenweite des Sackes: — 40 mm
-- b) Länge des Sackzipfels: — 4 m
-- c) Maschenweite des Sackzipfels: — 35 mm
+**40 mm 4 m 35 mm**
+
+### Maschenweite des Sackes Länge des Sackzipfels Maschenweite des Sackzipfels
 
 <sup>2</sup> Das Landgarn ist mit folgenden Massen zugelassen:
 
-- a) Maschenweite des Sackes: — 30 mm
+**30 mm**
+
+### Maschenweite des Sackes
 
 <sup>3</sup> Das Klus- und Landgarn ist vom Patentinhaber persönlich zu ziehen.
 
-#### § A1-6
+#### § 6
 
 **Reusenfischerei**
 
 <sup>1</sup> Die Reusen haben folgende Maschen- bzw. Öffnungsweite aufzuweisen:
 
-- a) Aalreuse: — 20 mm
-- b) Übrige Reusen: — 25 mm
+**20 mm 25 mm**
+
+### Aalreuse Übrige Reusen
 
 <sup>2</sup> Ab 1. Juni sind die Reusen täglich zu heben.
 
-#### § A1-7
+12
+
+#### § 7
 
 **Sonderfänge**
 
@@ -430,10 +508,14 @@ erlässt folgende Ausführungsbestimmungen:
 
 <sup>3</sup> Die Geschäftsstelle erteilt für die Sonderfänge eine Bewilligung. Sie orientiert die Kantonalen Fischereifachstellen.
 
-#### § A1-8
+### Dieser Anhang ist ein integrierender Bestandteil der Ausführungsbe-
 
-<sup>1</sup> Dieser Anhang ist ein integrierender Bestandteil der Ausführungsbestimmungen zur Vereinbarung über die Fischerei im Vierwaldstättersee vom 4. Juni 2008.
+stimmungen zur Vereinbarung über die Fischerei im Vierwaldstättersee vom 4. Juni 2008.
 
-<sup>2</sup> Er tritt auf den 1. Januar 2009 in Kraft.
+Er tritt auf den 1. Januar 2009 in Kraft.
 
-A 2009, 91
+<sup>1</sup> Fassung gemäss Beschluss der Fischereikommission Vierwaldstättersee vom 25. April 2017; A 2017, 931; in Kraft seit 1. Juni 2017
+
+**13**
+
+Stand: 1. Juni 2017
