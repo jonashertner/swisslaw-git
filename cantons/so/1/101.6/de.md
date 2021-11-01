@@ -4,13 +4,13 @@ number: "101.6"
 title: Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: Härtefallverordnung-SO
 language: de
-version: 2021-09-29
-valid_until: 2021-11-01
-version_adopted: 2021-09-28
+version: 2021-11-02
+valid_until: 2021-12-30
+version_adopted: 2021-10-06
 adopted: 2020-12-07
 in_force: 2021-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/101.6"
-pdf: "https://bgs.so.ch/api/de/versions/5126/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5127/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.so.ch/api/de/versions/5126/pdf_file"
 
 (Härtefallverordnung-SO)
 
-Vom 07.12.2020 (Stand 29.09.2021)
+Vom 07.12.2020 (Stand 02.11.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
-gestützt auf Artikel 12 f. des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020[^ingress-1], die Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung) vom 25. November 2020[^ingress-2], Artikel 79 Absatz 4 der Verfassung des Kantons Solothurn (KV) vom 8. Juni 1986[^ingress-3] und § 128 Absatz 3 des Gesetzes über die Staats- und Gemeindesteuern (Steuergesetz) vom 1. Dezember 1985[^ingress-4]
+gestützt auf Artikel 12 f. des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020[^ingress-1], die Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung) vom 25. November 2020[^ingress-2], Artikel 79 Absatz 4 der Verfassung des Kantons Solothurn (KV) vom 8. Juni 1986[^ingress-3] und § 128 Absatz 3 des Gesetzes über die Staats- und Gemeindesteuern (Steuergesetz) vom 1. Dezember 1985[^ingress-4]
 
 beschliesst:
 
@@ -212,6 +212,14 @@ beschliesst:
 **Frist zur Gesuchseinreichung**
 
 <sup>1</sup> Gesuche für Härtefallmassnahmen oder kantonale Unterstützungsmassnahmen können bis spätestens 31. Juli 2021 eingereicht werden. Verspätet eingereichte Gesuche werden ohne weitere Begründung abgelehnt.
+
+#### § 14bis
+
+**Frist zur Gesuchseinreichung für Unternehmen mit einem Jahresumsatz über 5 Millionen Franken**
+
+<sup>1</sup> Gesuche für Härtefallmassnahmen für Unternehmen mit einem Jahresumsatz über 5 Millionen Franken können vom 2. November 2021 bis 22. November 2021 eingereicht werden.
+
+<sup>2</sup> Verspätet eingereichte Gesuche werden ohne weitere Begründung abgelehnt.
 
 #### § 15
 
