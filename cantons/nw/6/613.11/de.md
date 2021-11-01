@@ -5,38 +5,39 @@ title: Vollzugsverordnung zum Gesetz über den Brandschutz und die Feuerwehr
 short: "Brandschutz- und Feuerwehrverordnung, BFV"
 language: de
 version: 2018-07-01
+corrected: 2021-11-02
 version_adopted: 2018-03-27
 adopted: 2018-03-27
 in_force: 2018-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/613.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/790/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/219/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Gesetz über den Brandschutz und die Feuerwehr
+# Vollzugsverordnung zum Gesetz über den Brandschutz und die Feuerwehr (Brandschutz- und Feuerwehrverordnung, BFV)
 
-(Brandschutz- und Feuerwehrverordnung, BFV)
+vom 27. März 2018[^t-1]
 
-vom 27.03.2018 (Stand 01.07.2018)
+Der Regierungsrat von Nidwalden ,
 
-Der Regierungsrat von Nidwalden,
-
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung des Gesetzes vom 13. Dezember 2017 über den Brandschutz und die Feuerwehr (Brandschutz- und Feuerwehrgesetz, BFG)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung des Gesetzes vom 13. Dezember 2017 über den Brandschutz und die Feuerwehr (Brandschutz- und Feuerwehrgesetz, BFG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 613.1
+[^t-1]: A 2018, 640
+[^t-2]: NG 613.1
 
-## 1 Brandschutz
+### I. BRANDSCHUTZ
 
 #### § 1
 
 **Brandschutzvorschriften**
 
-<sup>1</sup> Die Stand der Technik Papiere (STP)[^1-1], die von der technischen Kommission Brandschutz der Vereinigung Kantonaler Feuerversicherungen als massgebend erklärt wurden, sind verbindlich.
+Die Stand der Technik Papiere (STP)[^1-1], die von der technischen Kommission Brandschutz der Vereinigung Kantonaler Feuerversicherungen als massgebend erklärt wurden, sind verbindlich.
 
-[^1-1]: [www.vkf.ch](http://www.vkf.ch)
+[^1-1]: www.vkf.ch
 
 #### § 2
 
@@ -48,19 +49,22 @@ beschliesst:
 
 #### § 3
 
-**Brandschutznachweis 1. Begriff**
+**Brandschutznachweis**
 
-<sup>1</sup> Ein Brandschutznachweis ist eine vollständige, nachvollziehbare und plausible Bestätigung der geplanten baulichen, technischen, organisatorischen oder abwehrenden Brandschutzmassnahmen in einem Standardkonzept der Brandschutzvorschriften oder in einem Brandschutzkonzept.
+- 1\. Begriff Ein Brandschutznachweis ist eine vollständige, nachvollziehbare und plausible Bestätigung der geplanten baulichen, technischen, organisatorischen oder abwehrenden Brandschutzmassnahmen in einem Standardkonzept der Brandschutzvorschriften oder in einem Brandschutzkonzept.
 
 #### § 4
 
 **2. Bauten und Anlagen**
 
-<sup>1</sup> Als Bauten und Anlagen gemäss Art. 7 BFG[^4-1] gelten:
+Als Bauten und Anlagen gemäss Art. 7 BFG[^4-1] gelten:
 
 - 1\. Gebäude;
+
 - 2\. Fahrnisbauten;
+
 - 3\. offene Produktionsanlagen;
+
 - 4\. wärmetechnische Anlagen.
 
 [^4-1]: NG 613.1
@@ -72,9 +76,13 @@ beschliesst:
 <sup>1</sup> Nur auf Verlangen der NSV ist ein Brandschutznachweis zu erbringen bei:
 
 - 1\. Kleinbauten gemäss Art. 3 des Planungs- und Baugesetzes (PBG)[^5-1];
+
 - 2\. Einfamilienhäusern;
-- 3\. Nebenbauten: eingeschossige Bauten mit einer Grundfläche von höchstens 150 m², die nicht für den dauernden Aufenthalt von Personen bestimmt sind, keine offenen Feuerstellen aufweisen und in denen keine gefährlichen Stoffe in massgebender Menge gelagert werden, wie Fahrzeugunterstände, Garagen, Gartenhäuser, Kleintierställe und Kleinlager;
+
+- 3\. Nebenbauten: eingeschossige Bauten mit einer Grundfläche von höchstens 150 m<sup>2</sup>, die nicht für den dauernden Aufenthalt von Personen bestimmt sind, keine offenen Feuerstellen aufweisen und in denen keine gefährlichen Stoffe in massgebender Menge gelagert werden, wie Fahrzeugunterstände, Garagen, Gartenhäuser, Kleintierställe und Kleinlager;
+
 - 4\. landwirtschaftlichen Bauten der Qualitätssicherungsstufe (QSS) 1;
+
 - 5\. baulichen oder nutzungsbezogenen Änderungen, die zu keiner Erhöhung der Brand- oder Explosionsgefahr führen und die Personensicherheit nicht mindern, wie kleine Umbauten und Fassadensanierungen.
 
 <sup>2</sup> Der Brandschutznachweis für wärmetechnische Anlagen bleibt vorbehalten.
@@ -112,25 +120,31 @@ beschliesst:
 <sup>1</sup> Die NSV regelt in einer Richtlinie:
 
 - 1\. die Wartungsfristen;
+
 - 2\. die Voraussetzungen für die Anerkennung einer gleichwertigen Ausbildung;
+
 - 3\. die Aus- und Weiterbildung der zugelassenen Fachpersonen.
 
 <sup>2</sup> Diese Richtlinien sind verbindlich.
 
-## 2 Feuerwehr
+### II. FEUERWEHR
 
-### 2.1 Gemeindefeuerwehr
+### A. Gemeindefeuerwehr
 
 #### § 9
 
 **Feuerwehrreglement**
 
-<sup>1</sup> Die Feuerwehrreglemente der Gemeinden haben Bestimmungen zu enthalten über:
+Die Feuerwehrreglemente der Gemeinden haben Bestimmungen zu enthalten über:
 
 - 1\. die Organisation, den Betrieb und Unterhalt der Feuerwehren;
+
 - 2\. die Löschgebiete und die Löscheinrichtungen;
+
 - 3\. die Versicherung der Angehörigen der Feuerwehr sowie von nicht feuerwehrpflichtigen Personen, die bei einem Ernstfalleinsatz Hilfe leisten;
+
 - 4\. Disziplinarvergehen;
+
 - 5\. die Ansätze für die Inrechnungstellung von Einsatzkosten.
 
 #### § 10
@@ -140,18 +154,31 @@ beschliesst:
 <sup>1</sup> Die Gemeinden legen im Feuerwehrreglement fest, wer zuständig ist für:
 
 - 1\. den Entscheid über die Befreiung von der Feuerwehrpflicht sowie der Dienst- oder Ersatzabgabepflicht;
+
 - 2\. die Stellungnahme zu Gesuchen um Feuerwehrdienst in einer anderen anerkannten Feuerwehr;
+
 - 3\. die Einteilung der Feuerwehrmannschaft;
+
 - 4\. die Wahl der Feuerwehrkommandantin oder des Feuerwehrkommandanten und der Stellvertretung;
+
 - 5\. die Ernennung, Beförderung, Versetzung oder Entlassung von Chargierten;
+
 - 6\. die Sicherstellung und Überwachung der Dienst- und Einsatzbereitschaft der Feuerwehr;
+
 - 7\. die Führung der nötigen Kontrollen;
+
 - 8\. die Ausarbeitung des Feuerwehrbudgets;
+
 - 9\. den Entscheid über:
-  - a) Beschaffung der Ausrüstung der Feuerwehr;
-  - b) Erstellung, Erweiterung oder Ausbau von Feuerwehrmagazinen und Materialdepots;
-  - c) Erstellung von neuen Wasserbezugsorten;
+
+- a) Beschaffung der Ausrüstung der Feuerwehr;
+
+- b) Erstellung, Erweiterung oder Ausbau von Feuerwehrmagazinen und Materialdepots;
+
+- c) Erstellung von neuen Wasserbezugsorten;
+
 - 10\. den Erlass von Disziplinarverfügungen;
+
 - 11\. die jährliche Berichterstattung an das Feuerwehrinspektorat über die Tätigkeit der Feuerwehr.
 
 <sup>2</sup> Je nach den örtlichen Gegebenheiten sind für die Gemeindefeuerwehr ein oder mehrere Löschgebiete zu bilden.
@@ -164,7 +191,7 @@ beschliesst:
 
 <sup>2</sup> Die Zuteilung wird durch die Gemeinderäte der beteiligten Gemeinden vereinbart; die Vereinbarung bedarf der Genehmigung durch den Regierungsrat.
 
-### 2.2 Feuerwehrinspektorat
+### B. Feuerwehrinspektorat
 
 #### § 12
 
@@ -173,9 +200,13 @@ beschliesst:
 <sup>1</sup> Das Feuerwehrinspektorat hat folgende Aufgaben:
 
 - 1\. Koordination und Überwachung der Organisation, der Lösch- und Rettungseinrichtungen, der Alarmierung, des Einsatzes, der Ausbildung und Ausrüstung der Gemeinde- und Stützpunktfeuerwehren und der Betriebsfeuerwehren;
+
 - 2\. jährlich Durchführung von Feuerwehrinspektionen bei allen Gemeinde- und Betriebsfeuerwehren;
+
 - 3\. Organisation und Durchführung der Kurse für die Kader und Spezialisten der Feuerwehr in Zusammenarbeit mit den Feuerwehrinstruktorinnen und Feuerwehrinstruktoren;
+
 - 4\. Begutachtung der Beitragsgesuche zu Handen der NSV;
+
 - 5\. Erfüllung weiterer Aufgaben, die ihm durch die Gesetzgebung oder durch Beschluss des Regierungsrates übertragen werden.
 
 <sup>2</sup> Es kann bei Grossereignissen im Einvernehmen mit den zuständigen Gemeindeorganisationen die Einsatzleitung der Rettungs- und Löschmassnahmen übernehmen.
@@ -184,21 +215,29 @@ beschliesst:
 
 **Weisungen**
 
-<sup>1</sup> Das Feuerwehrinspektorat kann gestützt auf die Grundsätze der Feuerwehr Koordination Schweiz (FKS)[^13-1] Weisungen erlassen über:
+Das Feuerwehrinspektorat kann gestützt auf die Grundsätze der Feuerwehr Koordination Schweiz (FKS)[^13-1] Weisungen erlassen über:
 
 - 1\. die Aufgaben der Feuerwehrkommandantinnen oder Feuerwehrkommandanten und der Stellvertretung;
+
 - 2\. die Gliederung der Feuerwehr, die Dienstgrade und Beförderung;
+
 - 3\. die Aus- und Weiterbildung der Angehörigen der Feuerwehr (Übungs- und Kurswesen);
+
 - 4\. den Bestand und die Beschaffung von Feuerwehrmaterial, Geräten und Fahrzeugen;
+
 - 5\. die Feuerwehrlokale und Materialdepots;
+
 - 6\. die Löschwasserversorgung;
+
 - 7\. die Alarmierung und den Einsatz der Feuerwehren.
 
 [^13-1]: www.feukos.ch
 
 #### § 14
 
-**Feuerwehrinstruktorinnen und Feuerwehrinstruktoren 1. Ernennung, Dienstdauer, Einsatz**
+**Feuerwehrinstruktorinnen und Feuerwehrinstruktoren**
+
+### 1. Ernennung, Dienstdauer, Einsatz
 
 <sup>1</sup> Der Regierungsrat ernennt die Feuerwehrinstruktorinnen und Feuerwehrinstruktoren.
 
@@ -218,7 +257,7 @@ beschliesst:
 
 <sup>3</sup> Die Entschädigung, der Spesenersatz und die Uniformierung der Feuerwehrinstruktorinnen und Feuerwehrinstruktoren gehen zulasten der NSV.
 
-### 2.3 Feuerwehrpflicht
+### C. Feuerwehrpflicht
 
 #### § 16
 
@@ -242,21 +281,25 @@ beschliesst:
 
 **Entschuldigungsgründe**
 
-<sup>1</sup> Als Entschuldigungsgründe für die Nichtbefolgung von Aufgeboten zu Übungen, Kursen oder Ernstfalleinsätzen gelten:
+Als Entschuldigungsgründe für die Nichtbefolgung von Aufgeboten zu Übungen, Kursen oder Ernstfalleinsätzen gelten:
 
 - 1\. Krankheit oder Unfall;
+
 - 2\. schwere Krankheit oder Todesfall in der Familie;
+
 - 3\. Militär- oder Zivilschutzdienst;
+
 - 4\. berufsmässig bedingte Unabkömmlichkeit;
+
 - 5\. andere wichtige Gründe.
 
 #### § 19
 
 **Bemessung der Ersatzabgabe**
 
-<sup>1</sup> Die Ersatzabgabe von in ungetrennter Ehe oder in ungetrennter eingetragener Partnerschaft lebenden Personen wird aufgrund des gemeinsamen steuerbaren Einkommens einmal erhoben.
+Die Ersatzabgabe von in ungetrennter Ehe oder in ungetrennter eingetragener Partnerschaft lebenden Personen wird aufgrund des gemeinsamen steuerbaren Einkommens einmal erhoben.
 
-### 2.4 Übungen, Kurse
+### D. Übungen, Kurse
 
 #### § 20
 
@@ -272,7 +315,9 @@ beschliesst:
 
 #### § 21
 
-**Kurse für Feuerwehrkader und Spezialisten 1. Ausbildungskurse**
+**Kurse für Feuerwehrkader und Spezialisten**
+
+### 1. Ausbildungskurse
 
 <sup>1</sup> Zur Ausbildung der Feuerwehrkader und Spezialisten führt das Feuerwehrinspektorat Kurse durch. Die Kurse sind je nach Bedarf alle drei bis fünf Jahre durchzuführen.
 
@@ -282,10 +327,12 @@ beschliesst:
 
 **2. Weiterbildungskurse**
 
-<sup>1</sup> Das Feuerwehrinspektorat führt folgende Kurse durch:
+Das Feuerwehrinspektorat führt folgende Kurse durch:
 
 - 1\. jährlich regionale Weiterbildungskurse von mindestens einem halben Tag Dauer für das Feuerwehrkader;
+
 - 2\. jährlich einen Arbeitsrapport von der Dauer eines Tages für Feuerwehrkommandantinnen und Feuerwehrkommandanten sowie der Stellvertretung;
+
 - 3\. Weiterbildungskurse für Spezialdienste.
 
 #### § 23
@@ -296,7 +343,7 @@ beschliesst:
 
 <sup>2</sup> Bei Aus- und Weiterbildungskursen gehen Besoldungs- und Reisekosten zulasten der Gemeinden beziehungsweise der Betriebe; die Verpflegungs- und übrigen Kurskosten gehen zulasten der NSV.
 
-### 2.5 Einsatz
+### E. Einsatz
 
 #### § 24
 
@@ -307,6 +354,7 @@ beschliesst:
 <sup>2</sup> Ein Entschädigungsanspruch gegenüber der Gemeinde, die Nachbarhilfe in Anspruch nimmt, besteht nur für:
 
 - 1\. die Verpflegungskosten;
+
 - 2\. die Einsatzkosten bei ABC-Einsätzen.
 
 #### § 25
@@ -335,7 +383,7 @@ beschliesst:
 
 <sup>2</sup> Allfällige Wahrnehmungen hat sie den zuständigen Untersuchungsorganen zu melden.
 
-### 2.6 Löschwasserversorgung
+### F. Löschwasserversorgung
 
 #### § 28
 
@@ -349,9 +397,9 @@ beschliesst:
 
 <sup>4</sup> Gemeinden haben mit privaten Eigentümerinnen und Eigentümern von Löscheinrichtungen Vereinbarungen über deren Wartung und den Unterhalt sowie über die Kostentragung abzuschliessen, sofern diese Punkte nicht im Feuerwehrreglement der Gemeinde geordnet sind.
 
-## 3 Beitragsleistungen an die Brandbekämpfung
+### III. BEITRAGSLEISTUNGEN AN DIE BRANDBEKÄMPFUNG
 
-### 3.1 Beiträge
+### A. Beiträge
 
 #### § 29
 
@@ -360,8 +408,11 @@ beschliesst:
 <sup>1</sup> Beiträge werden geleistet für Objekte, die:
 
 - 1\. notwendig sind;
+
 - 2\. wirtschaftlich sind;
+
 - 3\. den feuerschutztechnischen Anforderungen entsprechen; und
+
 - 4\. sachgemäss erstellt beziehungsweise hergestellt sind.
 
 <sup>2</sup> Bei Schaffung von Raumreserven wird die Beitragsleistung aufgeschoben, bis der Nachweis erbracht wird, dass auch diese Raumreserven benötigt werden.
@@ -374,22 +425,37 @@ beschliesst:
 
 <sup>1</sup> Die Beitragssätze für beitragsberechtigte Bauten und Anlagen betragen:
 
-- 1\. an die Kosten von Rohrnetzarbeiten bei der Neuerstellung und der Erweiterung von Wasserleitungen, sofern sie vorwiegend dem Feuerschutz dienen und einen von der NSV festgelegten minimalen Durchmesser erreichen: — 20 Prozent
-- 2\. an die Anschaffungskosten von Hydrantenstöcken in normaler Ausführung: — 100 Prozent
-- 3\. für die Neuerstellung und Erweiterung von zweckgebundenen Feuerlöschwasserreserven, sofern sie ausschliesslich der Feuerlöschwasserreserve dienen: — 15 Prozent
-- 4\. für den Neu- und Umbau von zweckmässigen Feuerwehrlokalen: — 20 Prozent
+- 1\. an die Kosten von Rohrnetzarbeiten bei der Neuerstellung und der Erweiterung von Wasserleitungen, sofern sie vorwiegend dem Feuerschutz dienen und einen von der NSV festgelegten minimalen Durchmesser erreichen
 
-<sup>2</sup> Die NSV kann im Reglement über die Beitragsleistungen vorsehen, dass an den Neu- und Umbau von Feuerwehrlokalen, Lösch- und Materialdepots anstelle eines Beitrages gemäss Abs. 1 ein fester Pauschalbeitrag je m² Nutzfläche ausgerichtet wird; sie regelt die beitragsberechtigte Nutzfläche solcher Lokalitäten.
+**20 Prozent**
+
+**100 Prozent**
+
+- 2\. an die Anschaffungskosten von Hydrantenstöcken in normaler Ausführung
+
+- 3\. für die Neuerstellung und Erweiterung von zweckgebundenen Feuerlöschwasserreserven, sofern sie ausschliesslich der Feuerlöschwasserreserve dienen
+
+**15 Prozent**
+
+**20 Prozent**
+
+- 4\. für den Neu- und Umbau von zweckmässigen Feuerwehrlokalen
+
+<sup>2</sup> Die NSV kann im Reglement über die Beitragsleistungen vorsehen, dass an den Neu- und Umbau von Feuerwehrlokalen, Lösch- und Materialdepots anstelle eines Beitrages gemäss Abs. 1 ein fester Pauschalbeitrag je m<sup>2</sup> Nutzfläche ausgerichtet wird; sie regelt die beitragsberechtigte Nutzfläche solcher Lokalitäten.
 
 #### § 31
 
 **Anschaffungen**
 
-<sup>1</sup> Die Beitragssätze für beitragsberechtigte Anschaffungen betragen für:
+Die Beitragssätze für beitragsberechtigte Anschaffungen betragen für:
 
-- 1\. Tanklöschfahrzeuge: — 40 Prozent
-- 2\. Fahrzeuge und Motorspritzen: — 30 Prozent
-- 3\. Material und Gerätschaften: — 25 Prozent
+**40 Prozent 30 Prozent 25 Prozent**
+
+- 1\. Tanklöschfahrzeuge
+
+- 2\. Fahrzeuge und Motorspritzen
+
+- 3\. Material und Gerätschaften
 
 #### § 32
 
@@ -405,7 +471,7 @@ beschliesst:
 
 **Löschmittel Privater**
 
-<sup>1</sup> Beiträge an Löschmittel Privater regelt die NSV in einem Reglement über die Beitragsleistungen.
+Beiträge an Löschmittel Privater regelt die NSV in einem Reglement über die Beitragsleistungen.
 
 #### § 34
 
@@ -417,7 +483,7 @@ beschliesst:
 
 [^34-1]: NG 613.1
 
-### 3.2 Beitragsgewährung, Zahlung und Rückerstattung
+### B. Beitragsgewährung, Zahlung und Rückerstattung
 
 #### § 35
 
@@ -429,7 +495,9 @@ beschliesst:
 
 #### § 36
 
-**Beitragsgesuch 1. Inhalt**
+**Beitragsgesuch**
+
+### 1. Inhalt
 
 <sup>1</sup> Beitragsgesuche sind schriftlich bei der NSV einzureichen und müssen alle Unterlagen wie Offerten, Pläne und Kostenberechnungen beinhalten, die nötig sind, um die Beitragsberechtigung und die Beitragshöhe festzustellen.
 
@@ -459,13 +527,13 @@ beschliesst:
 
 <sup>1</sup> Mit den Bauarbeiten darf erst begonnen werden, wenn die NSV den Beitrag zugesichert hat.
 
-<sup>2</sup> Anschaffungen, die im Einzelfall einen Beitrag von Fr. 5'000.– oder mehr auslösen können, dürfen erst getätigt werden, wenn die NSV den Betrag zugesichert hat.
+<sup>2</sup> Anschaffungen, die im Einzelfall einen Beitrag von Fr. 5000.- oder mehr auslösen können, dürfen erst getätigt werden, wenn die NSV den Betrag zugesichert hat.
 
 #### § 40
 
 **Nachträgliche Projektänderungen**
 
-<sup>1</sup> Nachträgliche Projektänderungen beziehungsweise Abweichungen der Bauten und Anlagen von den Projektplänen, die der Beitragszusicherung zugrunde lagen, bedürfen vorgängig der Genehmigung durch die NSV.
+Nachträgliche Projektänderungen beziehungsweise Abweichungen der Bauten und Anlagen von den Projektplänen, die der Beitragszusicherung zugrunde lagen, bedürfen vorgängig der Genehmigung durch die NSV.
 
 #### § 41
 
@@ -476,6 +544,7 @@ beschliesst:
 <sup>2</sup> Die NSV kann Teilzahlungen ausrichten:
 
 - 1\. bei grösseren Bauten und Anlagen im Rahmen des Baufortschrittes;
+
 - 2\. bei grösseren Anschaffungen, wenn bei der Bestellung eine Anzahlung zu leisten ist.
 
 #### § 42
@@ -490,11 +559,14 @@ beschliesst:
 
 **Verweigerung von Beiträgen**
 
-<sup>1</sup> Die Ausrichtung der Beiträge ist zu verweigern, wenn:
+Die Ausrichtung der Beiträge ist zu verweigern, wenn:
 
 - 1\. die Einsichtnahme in die Berechnungsunterlagen behindert oder verweigert wird;
+
 - 2\. die Belege nicht für die Kontrolle durch die NSV zur Verfügung gestellt werden;
+
 - 3\. mit der Ausführung von Projektierungs- oder Bauarbeiten begonnen wird oder wenn Bestellungen von Material, Gerätschaften oder Fahrzeugen aufgegeben werden, bevor die NSV eine Beitragszusicherung abgegeben hat;
+
 - 4\. Auflagen und Bedingungen nicht erfüllt sind.
 
 #### § 44
@@ -525,21 +597,23 @@ beschliesst:
 
 <sup>2</sup> Rückerstattungsforderungen der NSV können mit Guthaben der Gemeinde bei der NSV verrechnet werden.
 
-## 4 Übergangs- und Schlussbestimmungen
+### IV. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### § 47
 
-**Änderung bisherigen Rechts 1. Gebührenverordnung**
+**Änderung bisherigen Rechts**
 
-<sup>1</sup> Der Anhang zur Vollzugsverordnung vom 4. Dezember 2001 zum Gesetz über die amtlichen Kosten (Gebührentarif)[^47-1] wird wie folgt geändert: …
+### 1. Gebührenverordnung
 
-[^47-1]: NG 265.51
+Der Anhang zur Vollzugsverordnung vom 4. Dezember 2001 zum Gesetz über die amtlichen Kosten (Gebührentarif)[^h1Gebührenverordnun-1] wird wie folgt geändert: …
+
+[^h1Gebührenverordnun-1]: NG 265.51
 
 #### § 48
 
 **2. Planungs- und Bauverordnung**
 
-<sup>1</sup> Die Vollzugsverordnung vom 25. November 2014 zum Planungs- und Baugesetz (Planungs- und Bauverordnung, PBV)[^48-1] wird wie folgt geändert: …
+Die Vollzugsverordnung vom 25. November 2014 zum Planungs- und Baugesetz (Planungs- und Bauverordnung, PBV)[^48-1] wird wie folgt geändert: …
 
 [^48-1]: NG 611.11
 
@@ -547,7 +621,7 @@ beschliesst:
 
 **3. Kantonale Umweltschutzverordnung**
 
-<sup>1</sup> Die Vollzugsverordnung vom 12. Juli 2005 zum kantonalen Umweltschutzgesetz (Kantonale Umweltschutzverordnung, kUSV)[^49-1] wird wie folgt geändert: …
+Die Vollzugsverordnung vom 12. Juli 2005 zum kantonalen Umweltschutzgesetz (Kantonale Umweltschutzverordnung, kUSV)[^49-1] wird wie folgt geändert: …
 
 [^49-1]: NG 721.11
 
@@ -566,14 +640,12 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Der Kaminfegertarif vom 7. Dezember 1998[^51-1] wird aufgehoben.
+Der Kaminfegertarif vom 7. Dezember 1998[^51-1] wird aufgehoben.
 
-[^51-1]: NG 613.111; A 1998, 2267
+[^51-1]: NG 613.111; A 1998,2267
 
 #### § 52
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Juli 2018 in Kraft.
-
-A 2018, 640
+Diese Verordnung tritt am 1. Juli 2018 in Kraft.
