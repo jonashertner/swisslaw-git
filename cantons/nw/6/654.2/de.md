@@ -4,34 +4,37 @@ number: "654.2"
 title: Interkantonale Vereinbarung über die Schiffahrt auf dem Vierwaldstättersee
 language: de
 version: 1998-07-01
+corrected: 2021-11-02
 version_adopted: 1997-06-20
 adopted: 1997-06-20
 in_force: 1998-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/654.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/785/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/264/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Interkantonale Vereinbarung über die Schiffahrt auf dem Vierwaldstättersee
 
-vom 20.06.1997 (Stand 01.07.1998)
+vom 20. Juni 1997[^t-1]
 
 Die Kantone Luzern, Uri, Schwyz, Obwalden und Nidwalden,
 
-gestützt auf die Art. 4 Abs. 1 und Art. 58 Abs. 4 des Bundesgesetzes über die Binnenschiffahrt[^ingress-1], treffen für die Schiffahrt auf dem Vierwaldstättersee
+gestützt auf die Art. 4 Abs. 1 und Art. 58 Abs. 4 des Bundesgesetzes über die Binnenschiffahrt[^t-2],
 
-folgende Vereinbarung:
+treffen für die Schiffahrt auf dem Vierwaldstättersee folgende Vereinbarung:
 
-[^ingress-1]: SR 747.201
+I. ALLGEMEINE BESTIMMUNGEN
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: A 1997, 1753; vom Landrat Nidwalden genehmigt am 22. Oktober 1997, A 1997, 1752
+[^t-2]: SR 747.201
 
 #### Art. 1
 
 **Inhalt**
 
-<sup>1</sup> Die Vereinbarung regelt die Zulassung von Schiffen und die Ausübung der Schiffahrt auf dem Vierwaldstättersee, soweit nicht Bundesrecht Anwendung findet.
+Die Vereinbarung regelt die Zulassung von Schiffen und die Ausübung der Schiffahrt auf dem Vierwaldstättersee, soweit nicht Bundesrecht Anwendung findet.
 
 #### Art. 2
 
@@ -43,6 +46,10 @@ folgende Vereinbarung:
 
 <sup>3</sup> Die Kommission wacht über den Vollzug dieser Vereinbarung. Sie schlägt den Regierungen der Uferkantone notwendige Änderungen der Vereinbarung vor.
 
+**1**
+
+1.8.1998 - 26
+
 #### Art. 3
 
 **Vollzugsorgane**
@@ -51,43 +58,51 @@ folgende Vereinbarung:
 
 <sup>2</sup> Die für die Schiffahrt zuständigen Ämter setzen sich für die einheitliche Handhabung der Vorschriften ein. Sie überwachen die Entwicklung der Schiffahrt und stellen Anträge an die Schiffahrtskommission.
 
-## 2 Verkehrszulassung
+### II. VERKEHRSZULASSUNG
 
 #### Art. 4
 
 **Grundsatz**
 
-<sup>1</sup> Für die dauernde Verkehrszulassung eines immatrikulationspflichtigen Schiffes auf dem Vierwaldstättersee ist der Nachweis eines vom Uferkanton bewilligten Standplatzes erforderlich.
+Für die dauernde Verkehrszulassung eines immatrikulationspflichtigen Schiffes auf dem Vierwaldstättersee ist der Nachweis eines vom Uferkanton bewilligten Standplatzes erforderlich.
 
 #### Art. 5
 
 **Beschränkung für Schiffe mit Verbrennungsmotoren**
 
-<sup>1</sup> Die Zahl der Standplätze für Schiffe mit Verbrennungsmotoren ist auf 8'000 beschränkt.
+<sup>1</sup> Die Zahl der Standplätze für Schiffe mit Verbrennungsmotoren ist auf 8000 beschränkt.
 
 <sup>2</sup> Die Kontingente für die Vereinbarungskantone werden wie folgt festgelegt:
 
-- a. Luzern: — 3'287 Standplätze
-- b. Uri: — 578 Standplätze
-- c. Schwyz: — 1'340 Standplätze
-- d. Obwalden: — 503 Standplätze
-- e. Nidwalden: — 2'292 Standplätze
+**3287 Standplätze 578 Standplätze 1340 Standplätze 503 Standplätze 2292 Standplätze**
+
+- a. Luzern
+
+- b. Uri
+
+- c. Schwyz
+
+- d. Obwalden
+
+- e. Nidwalden
 
 #### Art. 6
 
 **Ausnahmen**
 
-<sup>1</sup> Von der Beschränkung gemäss Art. 5 sind Standplätze ausgenommen für:
+Von der Beschränkung gemäss Art. 5 sind Standplätze ausgenommen für:
 
 - a. Schiffe der öffentlichen Dienste, der Berufsfischer sowie Schiffe zu Forschungszwecken;
+
 - b. Fahrgastschiffe, Güterschiffe, Motorschiffe für Schlepp- und Schubverbände;
+
 - c. Schiffe mit befristeter Zulassung gemäss Art. 8.
 
 #### Art. 7
 
 **Zusatzbewilligung**
 
-<sup>1</sup> Auf dem Vierwaldstättersee gemäss Art. 5 zugelassene Schiffe mit Verbrennungsmotoren dürfen nur mit einer im Schiffsausweis eingetragenen Zusatzbewilligung verkehren.
+Auf dem Vierwaldstättersee gemäss Art. 5 zugelassene Schiffe mit Verbrennungsmotoren dürfen nur mit einer im Schiffsausweis eingetragenen Zusatzbewilligung verkehren.
 
 #### Art. 8
 
@@ -101,13 +116,13 @@ folgende Vereinbarung:
 
 [^8-1]: SR 747.201.1
 
-## 3 Verkehrsvorschriften
+### III. VERKEHRSVORSCHRIFTEN
 
 #### Art. 9
 
 **Richtgeschwindigkeit**
 
-<sup>1</sup> Ausserhalb der Uferzonen und der signalisierten Geschwindigkeitszonen sollen die Führer von Motorschiffen bei Tag nicht schneller als 50 km/h und bei Nacht nicht schneller als 30 km/h fahren.
+Ausserhalb der Uferzonen und der signalisierten Geschwindigkeitszonen sollen die Führer von Motorschiffen bei Tag nicht schneller als 50 km/h und bei Nacht nicht schneller als 30 km/h fahren.
 
 #### Art. 10
 
@@ -117,13 +132,17 @@ folgende Vereinbarung:
 
 <sup>2</sup> Zusätzlich zu den im Artikel 53 Absatz 2 der Binnenschiffahrtsverordnung erwähnten Ausnahmen sind auch Schiffe, die mit der Schleppangel fischen, vom Längsfahrtenverbot in der inneren Uferzone ausgenommen.
 
-## 4 Seerettung und Sturmwarnung
+**3**
+
+1.8.1998 - 26
+
+### IV. SEERETTUNG UND STURMWARNUNG
 
 #### Art. 11
 
 **Organisation**
 
-<sup>1</sup> Die Uferkantone unterhalten einen öffentlichen Seerettungsdienst und gemeinsam einen öffentlichen Sturmwarndienst.
+Die Uferkantone unterhalten einen öffentlichen Seerettungsdienst und gemeinsam einen öffentlichen Sturmwarndienst.
 
 #### Art. 12
 
@@ -155,13 +174,13 @@ folgende Vereinbarung:
 
 <sup>2</sup> Die Weitergabe der Meldungen an die Standorte der Blinkscheinwerfer und an die Rettungsdienste obliegt den einzelnen Kantonen.
 
-## 5 Schlussbestimmungen
+### V. SCHLUSSBESTIMMUNGEN
 
 #### Art. 15
 
 **Rücktritt**
 
-<sup>1</sup> Die Uferkantone können jederzeit, unter Einhaltung einer einjährigen Kündigungsfrist, auf Ende eines Kalenderjahres von dieser Vereinbarung zurücktreten.
+Die Uferkantone können jederzeit, unter Einhaltung einer einjährigen Kündigungsfrist, auf Ende eines Kalenderjahres von dieser Vereinbarung zurücktreten.
 
 #### Art. 16
 
@@ -171,6 +190,8 @@ folgende Vereinbarung:
 
 <sup>2</sup> Auf den gleichen Zeitpunkt wird die Interkantonale Vereinbarung über die Schiffahrt auf dem Vierwaldstättersee vom 26. November 1980 aufgehoben.
 
-[^16-1]: Vom Landrat Nidwalden genehmigt am 22. Oktober 1997; Datum des Inkrafttretens: 1. Juli 1998
+**5**
 
-A 1997, 1752, 1753
+1.8.1998 - 26
+
+[^16-1]: Datum des Inkrafttretens: 1. Juli 1998
