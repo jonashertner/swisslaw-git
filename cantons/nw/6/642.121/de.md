@@ -4,26 +4,29 @@ number: "642.121"
 title: Reglement für Anschlüsse an das Verteilnetz des EWN
 language: de
 version: 2015-01-01
+corrected: 2021-11-02
 version_adopted: 2014-12-05
 adopted: 2014-12-05
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/642.121"
-pdf: "https://gesetze.nw.ch/api/de/versions/794/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/250/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Reglement für Anschlüsse an das Verteilnetz des EWN
 
-vom 05.12.2014 (Stand 01.01.2015)
+vom 05. Dezember 2014[^t-1]
 
 Der Verwaltungsrat,
 
-gestützt auf Art. 2 Abs. 1; Art. 3 Abs. 1 und Art. 11 Abs. 2 Ziff. 5 des EWN-Gesetzes[^ingress-1],
+gestützt auf Art. 2 Abs. 1; Art. 3 Abs. 1 und Art. 11 Abs. 2 Ziff. 5 des EWN-Gesetzes[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 642.1
+[^t-1]: A 2014, 2334; Datum des Inkrafttretens: 1. Januar 2015
+[^t-2]: NG 642.1
 
 #### Art. 1
 
@@ -33,7 +36,7 @@ beschliesst:
 
 <sup>2</sup> Der Anschluss an das Netz gilt als Anerkennung dieses Reglements sowie der jeweils gültigen Ausführungsvorschriften und Preise.
 
-<sup>3</sup> Jeder Kunde hat auf Verlangen Anrecht auf Aushändigung dieses Reglements sowie der für ihn zutreffenden Preisstrukturen. Im Übrigen können sämtliche Unterlagen sowie die auf EWN anwendbaren kantonalen Gesetze, Verordnungen und Ausführungsbestimmungen auf der Internet-Homepage des EWN ([www.ewn.ch](http://www.ewn.ch)) eingesehen bzw. heruntergeladen werden.
+<sup>3</sup> Jeder Kunde hat auf Verlangen Anrecht auf Aushändigung dieses Reglements sowie der für ihn zutreffenden Preisstrukturen. Im Übrigen können sämtliche Unterlagen sowie die auf EWN anwendbaren kantonalen Gesetze, Verordnungen und Ausführungsbestimmungen auf der Internet-Homepage des EWN (www.ewn.ch) eingesehen bzw. heruntergeladen werden.
 
 <sup>4</sup> Die in diesem Reglement verwendeten Personenbezeichnungen beziehen sich sowohl auf das weibliche wie das männliche Geschlecht.
 
@@ -42,6 +45,7 @@ beschliesst:
 <sup>6</sup> Bei Anschlüssen von elektrischen Installationen an die EWN-Verteilanlagen gelten als Netzanschlussnehmer:
 
 - a) Der Eigentümer der anzuschliessenden Liegenschaft;
+
 - b) Bei Baurechten oder Stockwerkeigentum die Baurechtsberechtigten oder Stockwerkeigentümer.
 
 <sup>7</sup> Nebst den gesetzlichen Grundlagen und den technischen Normen sind insbesondere die Werkvorschriften Bestandteil dieses Reglements
@@ -52,7 +56,7 @@ beschliesst:
 
 <sup>1</sup> Das Rechtsverhältnis mit dem Netzanschlussnehmer entsteht in der Regel mit dem Anschluss der Liegenschaft an das Verteilnetz bzw. durch Abschluss eines Netzanschlussvertrags und dauert bis zur ordentlichen Abmeldung.
 
-<sup>2</sup> Die Energielieferung wird aufgenommen, sobald die allenfalls notwendigen Netzanschluss , Netznutzungs- bzw. Energielieferverträge abgeschlossen sowie die Vorleistungen des Hauseigentümers und des Kunden erfüllt sind, wie Bezahlung der Anschlussbeiträge, Baukostenbeiträge und dergleichen.
+<sup>2</sup> Die Energielieferung wird aufgenommen, sobald die allenfalls notwendigen Netzanschluss-, Netznutzungs- bzw. Energielieferverträge abgeschlossen sowie die Vorleistungen des Hauseigentümers und des Kunden erfüllt sind, wie Bezahlung der Anschlussbeiträge, Baukostenbeiträge und dergleichen.
 
 #### Art. 3
 
@@ -62,9 +66,8 @@ beschliesst:
 
 <sup>2</sup> Die Nichtbenutzung von Netzanschlüssen, elektrischen Geräten oder Anlageteilen bewirkt keine Beendigung des Rechtsverhältnisses.
 
-<sup>3</sup> Dem EWN ist unter Angabe des genauen Zeitpunkts Meldung zu erstatten
+<sup>3</sup> Dem EWN ist unter Angabe des genauen Zeitpunkts Meldung zu erstatten a) vom Verkäufer bei Eigentumswechsel einer Liegenschaft oder einer Wohnung, mit Adressangabe des Käufers;
 
-- a) vom Verkäufer bei Eigentumswechsel einer Liegenschaft oder einer Wohnung, mit Adressangabe des Käufers;
 - b) vom Eigentümer der verwalteten Liegenschaft bei Wechsel in der Person oder Firma, welche die Liegenschaftsverwaltung besorgt, mit Angabe deren Adresse.
 
 <sup>4</sup> Nach Beendigung des Rechtsverhältnisses kann der Liegenschaftseigentümer für leerstehende Mieträume und unbenutzte Anlagen die Demontage der Messeinrichtung verlangen. Die Aufwendungen für die Wiederinbetriebnahme, enthaltend Demontage und Montage der Messeinrichtung sowie die Wiedereinschaltung werden dem Liegenschaftseigentümer verrechnet.
@@ -75,12 +78,14 @@ beschliesst:
 
 **Bewilligungen und Zulassungsanforderungen**
 
-<sup>1</sup> Einer Bewilligung des EWN bedürfen
+<sup>1</sup> Einer Bewilligung des EWN bedürfen a) der Neuanschluss einer Liegenschaft;
 
-- a) der Neuanschluss einer Liegenschaft;
 - b) die Änderung oder die Erweiterung eines bestehenden Anschlusses;
+
 - c) der Anschluss von bewilligungspflichtigen Installationen und elektrischen Verbrauchern, insbesondere Anlagen, die Spannungseinbrüche oder Netzrückwirkungen verursachen;
+
 - d) der Anschluss von elektrischen Raum- und Aussenheizungen, Wärmepumpen und dergleichen;
+
 - e) der Parallelbetrieb elektrischer Energieerzeugungsanlagen mit dem Verteilnetz.
 
 <sup>2</sup> Das Gesuch ist auf dem vom EWN herausgegebenen Formular einzureichen. Es sind alle für die Beurteilung erforderlichen Pläne, Beschriebe, allfällige kantonale Sonderbewilligungen und dergleichen beizulegen, insbesondere Angaben über die Energieverwendung und eine fachkundige Bedarfsberechnung (Anschlussleistung, Gleichzeitigkeitsfaktor), bei Raumheizungen zusätzlich detaillierte Angaben über die vorgesehenen Heizgeräte.
@@ -89,21 +94,23 @@ beschliesst:
 
 <sup>4</sup> Das Netz ist grundsätzlich für die Übertragung von Daten und Signalen des EWN reserviert. Ausnahmen bedürfen der Bewilligung durch das EWN und sind entschädigungspflichtig.
 
-<sup>5</sup> Installationen und elektrische Verbraucher werden nur bewilligt und angeschlossen, wenn sie
+<sup>5</sup> Installationen und elektrische Verbraucher werden nur bewilligt und angeschlossen, wenn sie a) den eidgenössischen und kantonalen Vorschriften und Ausführungsbestimmungen, den anerkannten Regeln der Technik und den Werkvorschriften des EWN entsprechen;
 
-- a) den eidgenössischen und kantonalen Vorschriften und Ausführungsbestimmungen, den anerkannten Regeln der Technik und den Werkvorschriften des EWN entsprechen;
 - b) im normalen Betrieb elektrische Einrichtungen benachbarter Kunden, Fernmelde- und Rundsteueranlagen nicht störend beeinflussen;
+
 - c) von Firmen oder Personen ausgeführt werden, welche im Besitz einer Installationsbewilligung des Eidgenössischen Starkstrominspektorats (ESTI) gemäss Niederspannungsinstallationsverordnung (NIV)[^4-1] sind, soweit eine solche Bewilligung notwendig ist.
 
 <sup>6</sup> Das EWN kann auf Kosten des Verursachers besondere Bedingungen und Massnahmen festlegen, namentlich in folgenden Fällen:
 
 - a) Für die Dimensionierung und Steuerung von elektrischen Raum- und Aussenheizungen und anderen speziellen Wärmeanwendungen;
-- b) Wenn der vorgeschriebene Leistungsfaktor cos phi nicht eingehalten wird;
-- c) Für elektrische Verbraucher, die Netzrückwirkungen verursachen und damit den Betrieb der Anlagen des EWN oder dessen Kunden stören; insbesondere auch bei störenden Oberwellen- und Resonanzerscheinungen sowie Spannungsabsenkungen;
-- d) Zur rationellen Energienutzung;
-- e) Für die Rückspeisung bei Energieerzeugungsanlagen (EEA).
 
-<sup>7</sup> Diese Bedingungen und Massnahmen können auch für bereits vorhandene Kunden und Anlagen angeordnet werden.
+- b) Wenn der vorgeschriebene Leistungsfaktor cos phi nicht eingehalten wird;
+
+- c) Für elektrische Verbraucher, die Netzrückwirkungen verursachen und damit den Betrieb der Anlagen des EWN oder dessen Kunden stören; insbesondere auch bei störenden Oberwellen- und Resonanzerscheinungen sowie Spannungsabsenkungen;
+
+- d) Zur rationellen Energienutzung;
+
+- e) Für die Rückspeisung bei Energieerzeugungsanlagen (EEA). Diese Bedingungen und Massnahmen können auch für bereits vorhandene Kunden und Anlagen angeordnet werden.
 
 [^4-1]: SR 734.27
 
@@ -129,11 +136,13 @@ beschliesst:
 
 <sup>9</sup> Anschluss, Erstellung sowie Unterhalt von Einrichtungen für die öffentliche Beleuchtung von Strassen und Plätzen ist Sache der zuständigen Gemeindebehörden bzw. des Kantons NW.
 
-<sup>10</sup> Der Netzanschlussnehmer ermöglicht den Mitarbeitern des EWN oder beauftragten Dritten zu angemessener Zeit und im Fall von Störungen jederzeit den Zugang zu sämtlichen Grenz- und Messstellen sowie zur Installation.
+<sup>1</sup> 0 Der Netzanschlussnehmer ermöglicht den Mitarbeitern des EWN oder beauftragten Dritten zu angemessener Zeit und im Fall von Störungen jederzeit den Zugang zu sämtlichen Grenz- und Messstellen sowie zur Installation.
 
 #### Art. 6
 
-**Anschluss an das Niederspannungsnetz innerhalb der Bauzone**
+**Anschluss an das Niederspannungsnetz innerhalb der**
+
+### Bauzone
 
 <sup>1</sup> Bei einem Anschluss an das Niederspannungsnetz liegt die Grenzstelle an einer Spannung von 3x400 Volt. Es ist dabei unerheblich, auf welcher Spannungsebene die Messung der Energie erfolgt.
 
@@ -141,9 +150,11 @@ beschliesst:
 
 #### Art. 7
 
-**Anschluss an das Mittelspannungsnetz innerhalb der Bauzone**
+**Anschluss an das Mittelspannungsnetz innerhalb der**
 
-<sup>1</sup> Bei einem Anschluss an das Mittelspannungsnetz liegt die Grenzstelle an einer Spannung von 30 kV. Endverbraucher mit einer bezugsberechtigten Leistung über 800 kVA pro Verbrauchsstätte sind in der Regel an das Mittelspannungsnetz angeschlossen. Der Zusammenzug (Bündelung) mehrerer Endverbraucher / Verbrauchsstätten zum Erreichen der Mindestleistung ist nicht zulässig. Bei Neuanschlüssen und bei einem Netzebenenwechsel wird für die Netznutzung nach dem 12. Monat nach Inbetriebsetzung des Anschlusses eine minimale monatliche Wirkleistung von 580 kW verrechnet. Der Anschluss an die Netzebene 5 setzt eine betriebseigene Transformatorenstation voraus. Die baulichen und technischen Spezifikationen sind zwischen Kunde und dem EWN festzulegen. Ein Anschluss an das Mittelspannungsnetz wird in einem separaten Vertrag geregelt. Bau, Betrieb und Unterhalt der Transformatorenstation sind Sache des Netzanschlussnehmers.
+### Bauzone
+
+<sup>1</sup> Bei einem Anschluss an das Mittelspannungsnetz liegt die Grenzstelle an einer Spannung von 30 kV. Endverbraucher mit einer bezugsberechtigten Leistung über 800 kVA pro Verbrauchsstätte sind in der Regel an das Mittelspannungsnetz angeschlossen. Der Zusammenzug (Bündelung) mehrerer Endverbraucher/Verbrauchsstätten zum Erreichen der Mindestleistung ist nicht zulässig. Bei Neuanschlüssen und bei einem Netzebenenwechsel wird für die Netznutzung nach dem 12. Monat nach Inbetriebsetzung des Anschlusses eine minimale monatliche Wirkleistung von 580 kW verrechnet. Der Anschluss an die Netzebene 5 setzt eine betriebseigene Transformatorenstation voraus. Die baulichen und technischen Spezifikationen sind zwischen Kunde und dem EWN festzulegen. Ein Anschluss an das Mittelspannungsnetz wird in einem separaten Vertrag geregelt. Bau, Betrieb und Unterhalt der Transformatorenstation sind Sache des Netzanschlussnehmers.
 
 <sup>2</sup> Wird die Transformatorenstation vom EWN auch für die Versorgung von Dritten mitbenützt, so übernimmt das EWN die Kosten im Verhältnis der von ihm für Dritte beanspruchten Trafoleistung in kVA, bezogen auf die vom Netzanschlussnehmer abonnierte Anschlussleistung sowie die anteilsmässigen Kosten der Mittelspannungszuleitung ab der Netzanschlussstelle.
 
@@ -161,28 +172,25 @@ beschliesst:
 
 **Anschluss an das Hochspannungsnetz**
 
-<sup>1</sup> Bei einem Anschluss an das Hochspannungsnetz liegt die Grenzstelle an einer Spannung von 50 kV oder mehr. Ein Anschluss an das Hochspannungsnetz wird nur erstellt, wenn die bezugsberechtigte Leistung aus technischen Gründen nicht aus dem Mittelspannungsnetz bezogen werden kann. Die Messung der Energie erfolgt zwingend auf der Netzebene 3. Ein Anschluss an das Hochspannungsnetz wird in einem Netzanschlussvertrag geregelt.
+Bei einem Anschluss an das Hochspannungsnetz liegt die Grenzstelle an einer Spannung von 50 kV oder mehr. Ein Anschluss an das Hochspannungsnetz wird nur erstellt, wenn die bezugsberechtigte Leistung aus technischen Gründen nicht aus dem Mittelspannungsnetz bezogen werden kann. Die Messung der Energie erfolgt zwingend auf der Netzebene 3. Ein Anschluss an das Hochspannungsnetz wird in einem Netzanschlussvertrag geregelt.
 
 #### Art. 10
 
 **Provisorische Anschlüsse**
 
-<sup>1</sup> Provisorische Anschlüsse sind im Reglement über Baustrom- und temporäre Stromanschlüsse vom 1. Februar 2013 geregelt.
+Provisorische Anschlüsse sind im Reglement über Baustrom- und temporäre Stromanschlüsse vom 1. Februar 2013 geregelt
 
 #### Art. 11
 
 **Eigentum**
 
-<sup>1</sup> Als Grenzstelle für das Eigentum zwischen EWN-Netz und Hausinstallation gilt
-
-- a) bei unterirdischer Zuleitung die netzseitigen Klemmen des 1. Anschlussüberstromunterbrechers (die Rohranlage der Liegenschaftszuleitung auf der Parzelle des Anschlussobjekts steht im Eigentum des Grundeigentümers, das Kabel im Eigentum des EWN)
-- b) bei oberirdischer Zuleitung die Abspannisolatoren des Hausanschlusses.
+<sup>1</sup> Als Grenzstelle für das Eigentum zwischen EWN-Netz und Hausinstallation gilt a) bei unterirdischer Zuleitung die netzseitigen Klemmen des 1. Anschlussüberstromunterbrechers (die Rohranlage der Liegenschaftszuleitung auf der Parzelle des Anschlussobjekts steht im Eigentum des Grundeigentümers, das Kabel im Eigentum des EWN) b) bei oberirdischer Zuleitung die Abspannisolatoren des Hausanschlusses.
 
 <sup>2</sup> Der Kabelschutz von der Netzanschlussstelle bis zur Parzellengrenze des Anschlussobjekts ist im Eigentum des EWN und wird durch dieses unterhalten. Der Kabelschutz von der Parzellengrenze bis zur Grenzstelle ist im Eigentum des Grundeigentümers und wird durch diesen unterhalten.
 
 <sup>3</sup> Die Grenzstelle ist massgebend für die Zuordnung von Eigentum, Haftung und Unterhaltspflicht der elektrischen Einrichtungen. Der Netzanschlussnehmer trägt ab der Grenzstelle auf eigene Kosten die Verantwortung für den Unterhalt seiner Anlagen.
 
-<sup>4</sup> Die Eigentumsverhältnisse nach Artikel 16 gelten innerhalb der Bauzone. Ausserhalb der Bauzone können spezielle Regelungen getroffen werden.
+<sup>4</sup> Die Eigentumsverhältnisse nach Artikel 16 gelten innerhalb der Bauzone. Ausserhalb der Bauzone können spezielle Regelungen getroffen werden
 
 #### Art. 12
 
@@ -198,7 +206,9 @@ beschliesst:
 
 #### Art. 13
 
-**Regelmässigkeit der Energielieferung / Einschränkungen**
+**Regelmässigkeit der Energielieferung /**
+
+### Einschränkungen
 
 <sup>1</sup> Die Kunden haben von sich aus alle nötigen Vorkehrungen zu treffen, um in ihren Anlagen Schäden oder Unfälle zu verhüten, die durch Energieunterbruch, Wiedereinschaltung sowie aus Spannungs- oder Frequenzschwankungen und Oberschwingungen im Netz entstehen können. In besonderem Mass gilt diese Verpflichtung für auf solche Ereignisse anfälligen Betriebe wie Krankenhäuser, Altersheime, EDV-Anlagen, Kühlanlagen, Intensivmastbetriebe und dergleichen. Kunden, die eigene Erzeugungsanlagen besitzen oder Energie von dritter Seite beziehen, haben die besonderen Bedingungen über den Parallelbetrieb mit dem Netz des EWN einzuhalten. Insbesondere ist darauf zu achten, dass im Fall von Stromunterbrüchen im EWN-Netz solche Anlagen automatisch von diesem abgetrennt und nicht wieder zugeschaltet werden können, solange das EWN-Netz spannungslos ist.
 
@@ -206,9 +216,11 @@ beschliesst:
 
 #### Art. 14
 
-**Einstellung der Netznutzung und / oder der Energielieferung infolge Kundenverhalten**
+**Einstellung der Netznutzung und/oder der**
 
-<sup>1</sup> Mangelhafte elektrische Einrichtungen oder Geräte, von denen eine beträchtliche Personen- oder Brandgefahr ausgeht, können durch Beauftragte des EWN oder durch das Eidgenössische Starkstrominspektorat ESTI ohne vorherige Mahnung vom Verteilnetz abgetrennt oder plombiert werden.
+### Energielieferung infolge Kundenverhalten
+
+Mangelhafte elektrische Einrichtungen oder Geräte, von denen eine beträchtliche Personen- oder Brandgefahr ausgeht, können durch Beauftragte des EWN oder durch das Eidgenössische Starkstrominspektorat ESTI ohne vorherige Mahnung vom Verteilnetz abgetrennt oder plombiert werden.
 
 #### Art. 15
 
@@ -228,7 +240,7 @@ beschliesst:
 
 **Messeinrichtungen**
 
-<sup>1</sup> Die für die Messung der Energie notwendigen Zähler und anderen Einrichtungen werden vom EWN geliefert und montiert. Die Zähler und Messeinrichtungen bleiben im Eigentum des EWN und werden auf dessen Kosten instand gehalten. Der Hauseigentümer bzw. Kunde erstellt auf eigene Kosten die für den Anschluss der Messeinrichtungen notwendigen Installationen nach Anleitung des EWN. Überdies stellt er dem EWN den für den Einbau der Messeinrichtungen und der Zählapparate erforderlichen Platz kostenlos zur Verfügung. Allfällige Verschalungen, Nischen, Aussenkästen usw., die zum Schutz der Apparate notwendig sind, werden vom Kunden bzw. Hauseigentümer auf seine Kosten erstellt.
+<sup>1</sup> Die für die Messung der Energie notwendigen Zähler und anderen Einrichtungen werden vom EWN geliefert und montiert. Die Zähler und Messeinrichtungen bleiben im Eigentum des EWN und werden auf dessen Kosten instand gehalten. Der Hauseigentümer bzw. Kunde erstellt auf eigene Kosten die für den Anschluss der Messeinrichtungen notwendigen Installationen nach Anleitung des EWN. Überdies stellt er dem EWN den für den Einbau der Messeinrichtungen und der Zählapparate erforderlichen Platz kostenlos zur Verfügung. Allfällige Verschalungen, Nischen, Aus-senkästen usw., die zum Schutz der Apparate notwendig sind, werden vom Kunden bzw. Hauseigentümer auf seine Kosten erstellt.
 
 <sup>2</sup> Die Kosten der Montage und Demontage der im Grundangebot vorgesehenen Zähler und Messeinrichtungen gehen zulasten des EWN. Sind gemäss den Anforderungen des Netzanschlussnehmers oder aufgrund gesetzlicher Vorgaben die Montage zusätzlicher oder besonderer Messeinrichtungen (wie Lastgangmessung) bzw. entsprechende Kommunikationsanschlüsse notwendig, so gehen die entsprechenden Mehrkosten für Installation und Betrieb zu dessen Lasten.
 
@@ -236,7 +248,7 @@ beschliesst:
 
 <sup>4</sup> Messeinrichtungen wie Unterzähler, welche sich im Eigentum des Netzanschlussnehmer befinden und für die Weiterverrechnung an Dritte dienen, sind von diesem auf eigene Kosten nach den Bestimmungen des Bundesgesetzes über das Messwesen[^16-1] sowie den entsprechenden Ausführungsvorschriften und Verordnungen zu unterhalten und periodisch amtlich prüfen zu lassen.
 
-<sup>5</sup> Der Netzanschlussnehmer kann jederzeit auf eigene Kosten eine Prüfung der Messeinrichtungen durch ein amtlich ermächtigtes Prüforgan verlangen. In Streitfällen ist der Befund des Bundesamts für Metrologie und Akkreditierung massgebend. Werden bei den Prüfungen Fehler an den Messeinrichtungen festgestellt, so trägt das EWN die Kosten der Prüfungen einschliesslich der Auswechslung der Messeinrichtungen. Messapparate, deren Abweichungen die gesetzlichen Toleranzen nicht überschreiten, gelten als korrekt messend. Dies gilt ebenfalls für Umschaltuhren, Sperrschalter, Rundsteuerempfänger usw. mit Differenzen bis +/– 30 Minuten auf die Uhrzeit.
+<sup>5</sup> Der Netzanschlussnehmer kann jederzeit auf eigene Kosten eine Prüfung der Messeinrichtungen durch ein amtlich ermächtigtes Prüforgan verlangen. In Streitfällen ist der Befund des Bundesamts für Metrologie und Akkreditierung massgebend. Werden bei den Prüfungen Fehler an den Messeinrichtungen festgestellt, so trägt das EWN die Kosten der Prüfungen einschliesslich der Auswechslung der Messeinrichtungen. Messapparate, deren Abweichungen die gesetzlichen Toleranzen nicht überschreiten, gelten als korrekt messend. Dies gilt ebenfalls für Umschaltuhren, Sperrschalter, Rundsteuerempfänger usw. mit Differenzen bis +/- 30 Minuten auf die Uhrzeit.
 
 <sup>6</sup> Die Netzanschlussnehmer sind verpflichtet, festgestellte Unregelmässigkeiten in der Funktion der Mess- und Schaltapparate dem EWN unverzüglich anzuzeigen.
 
@@ -258,31 +270,37 @@ beschliesst:
 
 #### Art. 18
 
-**Zusätzliche Aufwendungen zulasten des Netzanschlussnehmers**
+**Zusätzliche Aufwendungen zulasten des**
 
-<sup>1</sup> Alle baulichen Massnahmen auf der Parzelle des Netzanschlussnehmers zur Erstellung des Anschlusses an das Verteilnetz des EWN gehen zulasten des Netzanschlussnehmers.
+### Netzanschlussnehmers
+
+Alle baulichen Massnahmen auf der Parzelle des Netzanschlussnehmers zur Erstellung des Anschlusses an das Verteilnetz des EWN gehen zulasten des Netzanschlussnehmers.
 
 #### Art. 19
 
-**Anschlussbeitrag für die Verstärkung oder Änderung eines bestehenden Anschlusses**
+**Anschlussbeitrag für die Verstärkung oder Änderung**
+
+eines bestehenden Anschlusses
 
 <sup>1</sup> Für die Berechnung des Netzkostenbeitrags wird nur die Differenz zwischen den neuen und den bestehenden Anschlussdaten (Nennstrom, Leistung in kVA) eingesetzt.
 
-<sup>2</sup> Der Netzanschlussbeitrag berechnet sich nach den Aufwendungen (Material, Montage, Projektierung usw.) für die Anpassung / Verstärkung des Anschlusses.
+<sup>2</sup> Der Netzanschlussbeitrag berechnet sich nach den Aufwendungen (Material, Montage, Projektierung usw.) für die Anpassung/Verstärkung des Anschlusses.
 
 <sup>3</sup> Die Netzanschlussstelle, ab der die Verstärkung berechnet wird (Schacht, Verteilkabine, Trafostation), wird durch das EWN festgelegt.
 
 #### Art. 20
 
-**Anschluss eines Neubaus, der wegen Brand- oder Elemntarschaden neu erstellt wird**
+**Anschluss eines Neubaus, der wegen Brand- oder**
 
-<sup>1</sup> Es gelten die gleichen Grundsätze wie für die Verstärkung oder Änderung eines bestehenden Anschlusses, sofern der Anschluss innerhalb von zwei Jahren seit der Demontage auf derselben Parzelle erstellt wird. Wird der Anschluss erst nach zwei Jahren erstellt, so wird der Anschlussbeitrag wie für einen Neuanschluss berechnet.
+### Elemntarschaden neu erstellt wird
+
+Es gelten die gleichen Grundsätze wie für die Verstärkung oder Änderung eines bestehenden Anschlusses, sofern der Anschluss innerhalb von zwei Jahren seit der Demontage auf derselben Parzelle erstellt wird. Wird der Anschluss erst nach zwei Jahren erstellt, so wird der Anschlussbeitrag wie für einen Neuanschluss berechnet.
 
 #### Art. 21
 
-**Anschluss eines Neubaus, welcher einen abgebrochenen Bau erstetzt**
+**Anschluss eines Neubaus, welcher einen**
 
-<sup>1</sup> Es gelten die gleichen Grundsätze wie für die Verstärkung oder Änderung eines bestehenden Anschlusses, sofern der Anschluss innerhalb von zwei Jahren seit der Demontage auf derselben Parzelle erstellt wird. Wird der Anschluss erst nach zwei Jahren erstellt, so wird der Anschlussbeitrag wie für einen Neuanschluss berechnet.
+abgebrochenen Bau erstetzt Es gelten die gleichen Grundsätze wie für die Verstärkung oder Änderung eines bestehenden Anschlusses, sofern der Anschluss innerhalb von zwei Jahren seit der Demontage auf derselben Parzelle erstellt wird. Wird der Anschluss erst nach zwei Jahren erstellt, so wird der Anschlussbeitrag wie für einen Neuanschluss berechnet.
 
 #### Art. 22
 
@@ -322,68 +340,112 @@ beschliesst:
 
 [^24-1]: A 2009, 2279
 
-## A1 Anhang 1: Prinzipschema Anschluss an das Niederspannungsnetz
+### Prinzipschema Anschluss an das Niederspannungsnetz
 
-#### Art. A1-1
+Messpunkt + Messstelle
 
-<sup>1</sup>
+Anschlussüberstromunterbrecher NIV Art. 2 Abs. 2
 
-## A2 Anhang 2: Grösse Anschlussstromunterbrecher (Niederspannungsnetz)
+Grenzstelle
 
-#### Art. A2-1
+Bauliche Voraussetzungen (u.a. Kabelschutz, Grabarbeiten, Mauerdurchbrüche, Aussenkasten, Hauptverteilung etc.) Zulasten und im Eigentum des Kunden
 
-<sup>1</sup> Anschlussstromunterbrecher:
+Erstellung Anschlussleitung ab Parzellengrenze bis Anschlusspunkt zulasten des Kunden.
 
-<table>
-<tr><th>Anschlussstromunterbrecher Nennstrom [A]</th></tr>
-<tr><td>10</td></tr>
-<tr><td>16</td></tr>
-<tr><td>25</td></tr>
-<tr><td>40</td></tr>
-<tr><td>63</td></tr>
-<tr><td>80</td></tr>
-<tr><td>100</td></tr>
-<tr><td>125</td></tr>
-<tr><td>160</td></tr>
-<tr><td>200</td></tr>
-<tr><td>250</td></tr>
-<tr><td>315</td></tr>
-<tr><td>400</td></tr>
-<tr><td>630</td></tr>
-<tr><td>&gt; 630 auf Anfrage</td></tr>
-</table>
+Nachher Übergang ins Eigentum des EWN Parzellengrenze
 
-## A3 Anhang 3: Netzkosten- und Netzanschlussbeiträge
+Bauliche Voraussetzungen (u.a. Kabelschutz, Grabarbeiten etc.) Zulasten und im Eigentum des EWN
 
-#### Art. A3-1
+Anschlussleitung ab Parzellengrenze bis Netzanschlussstelle zulasten und im
 
-**Netzkostenbeiträge**
+Eigentum des EWN Netzanschlusspunkt
 
-<sup>1</sup> Netzkostenbeiträge:
+Verteilnetz des EWN
 
-<table>
-<tr><th>Netz</th><th>Netzkostenbeiträge exkl. MwSt. ab 01.01.2015</th><th>Netzkostenbeiträge exkl. MwSt. ab 01.01.2016</th><th>Netzkostenbeiträge exkl. MwSt. ab 01.01.2017</th></tr>
-<tr><td>Niederspannungsnetz [CHF/A]</td><td>75</td><td>110</td><td>148</td></tr>
-<tr><td>Mittelspannungsnetz [CHF/KVA]</td><td>79</td><td>93</td><td>110</td></tr>
-<tr><td>Hochspannungsnetz [CHF/KVA]</td><td>Auf Anfrage</td><td>Auf Anfrage</td><td>Auf Anfrage</td></tr>
-</table>
+## Anhang 2 6421.121
 
-#### Art. A3-2
+### Grösse Anschlussstromunterbrecher (Niederspannungsnetz)
 
-**Netzanschlussbeiträge Niederspannungsnetz innerhalb Bauzone:**
+Anschlussstromunterbrecher Nennstrom [A]
 
-<sup>1</sup> Netzanschlussbeiträge Niederspannungsnetz innerhalb Bauzone:
+10
 
-<table>
-<tr><th>Max. Absicherung [A]</th><th>Netzanschlussbeitrag [CHF]</th><th>Mehrlängenzuschlag [CHF/m]</th></tr>
-<tr><td>40</td><td>2'320</td><td>18</td></tr>
-<tr><td>80</td><td>2'800</td><td>18</td></tr>
-<tr><td>125</td><td>3'560</td><td>32</td></tr>
-<tr><td>250</td><td>6'450</td><td>61</td></tr>
-<tr><td>315</td><td>8'020</td><td>92</td></tr>
-<tr><td>Ab 400</td><td>Auf Anfrage</td><td>Auf Anfrage</td></tr>
-</table>
+16
 
-<sup>2</sup> Im Anschlussbeitrag sind 25 m auf der eigenen Parzelle eingerechnet. Falls auf der eigenen Parzelle mehr als 25 m Kabel nötig sind, wird die Mehrlänge zusätzlich in Rechnung gestellt.
+25
 
-A 2014, 2334
+40
+
+63
+
+80
+
+100
+
+125
+
+160
+
+200
+
+250
+
+315
+
+400
+
+630
+
+&gt;630 auf Anfrage
+
+### Netzkosten- und Netzanschlussbeiträge
+
+Netzkostenbeiträge:
+
+**Ab Ab**
+
+Netzkostenbeiträge exkl. Ab MwSt. 01.01.2015 01.01.2016 01.01.2017
+
+**110 148**
+
+Niederspannungsnetz 75 [CHF/A]
+
+**93 110**
+
+Mittelspannungsnetz 79 [CHF/KVA]
+
+Hochspannungsnetz Auf Anfrage [CHF/KVA]
+
+Netzanschlussbeiträge Niederspannungsnetz innerhalb Bauzone:
+
+Max. Absicherung Netzanschlussbeitrag Mehrlängenzuschlag
+
+**[CHF/m]**
+
+[A] [CHF]
+
+**18**
+
+40 2‘320
+
+**18**
+
+80 2‘800
+
+**32**
+
+125 3‘560
+
+**61**
+
+250 6‘450
+
+**92**
+
+315 8‘020
+
+**Auf Anfrage**
+
+Ab 400 Auf Anfrage
+
+Im Anschlussbeitrag sind 25 m auf der eigenen Parzelle eingerechnet. Falls auf der eigenen Parzelle mehr als 25 m Kabel nötig sind, wird die Mehrlänge zusätzlich in Rechnung gestellt.
