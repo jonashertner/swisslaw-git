@@ -5,35 +5,35 @@ title: Vollzugsverordnung zur Notverordnung zur Gewährung von Überbrückungshi
 short: kantonale Covid-19-Überbrückungshilfeverordnung
 language: de
 version: 2021-01-01
-valid_until: 2021-11-16
+corrected: 2021-11-02
 version_adopted: 2020-12-22
 adopted: 2020-12-22
 in_force: 2021-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/811.31"
-pdf: "https://gesetze.nw.ch/api/de/versions/781/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/351/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zur Notverordnung zur Gewährung von Überbrückungshilfen für Härtefälle infolge der Covid-19-Pandemie
+# Vollzugsverordnung zur Notverordnung zur Gewährung von Überbrückungshilfen für Härtefälle infolge der Covid-19-Pandemie (kantonale Covid-19-Überbrückungshilfeverordnung)
 
-(kantonale Covid-19-Überbrückungshilfeverordnung)
-
-vom 22.12.2020 (Stand 01.01.2021)
+vom 22. Dezember 2020[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung der Notverordnung vom 22. Dezember 2020 zur Gewährung von Überbrückungshilfen für Härtefalle infolge der Covid-19-Pandemie[^ingress-1],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung der Notverordnung vom 22. Dezember 2020 zur Gewährung von Überbrückungshilfen für Härtefalle infolge der Covid-19-Pandemie[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 811.3
+[^t-1]: A 2021, 20
+[^t-2]: NG 811.3
 
 #### § 1
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt die erforderlichen Ausführungsbestimmungen zur Notverordnung zur Gewährung von Überbrückungshilfen für Härtefälle infolge der Covid-19-Pandemie[^1-1].
+Diese Verordnung regelt die erforderlichen Ausführungsbestimmungen zur Notverordnung zur Gewährung von Überbrückungshilfen für Härtefälle infolge der Covid-19-Pandemie[^1-1].
 
 [^1-1]: NG 811.3
 
@@ -56,16 +56,23 @@ beschliesst:
 <sup>2</sup> Sie haben mit dem Gesuch anzugeben (Selbstdeklaration):
 
 - 1\. den Jahresumsatz 2018;
+
 - 2\. den Jahresumsatz 2019;
+
 - 3\. den prognostizierten Umsatz 2020.
 
 <sup>3</sup> Mit dem Gesuch hat das Unternehmen insbesondere zu bestätigen, dass:
 
 - 1\. der Jahresumsatz 2020 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie unter 60 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 liegt;
+
 - 2\. es im Kanton Nidwalden eine operative Geschäftstätigkeit ausübt;
+
 - 3\. es im Kanton Nidwalden Geschäftsräumlichkeiten nutzt oder eigenes Personal beschäftigt;
+
 - 4\. die Einschränkung des Verwendungszwecks gemäss Art. 6 der Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung)[^3-1] eingehalten wird;
+
 - 5\. alle Angaben im eingereichten Formular wahr und vollständig sind;
+
 - 6\. die zuständigen Amtsstellen, von diesen zugezogene Dritte sowie die im Gesuchformular oder in den Beilagen aufgeführten Banken von den Geheimhaltungsvorschriften, insbesondere vom Bankkunden-, Steuer- und Amtsgeheimnis entbunden sind, soweit dies zur Beurteilung des Gesuchs einschliesslich der Nachweise und Bestätigungen erforderlich ist.
 
 <sup>4</sup> Die Volkswirtschaftsdirektion kann auf dem elektronischen Gesuchformular weitere Angaben und Bestätigungen verlangen.
@@ -129,6 +136,4 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2021 in Kraft; sie wird am 23. Dezember 2020 zusätzlich ausserordentlich im Internet veröffentlicht.
-
-A 2021, 20
+Diese Verordnung tritt am 1. Januar 2021 in Kraft; sie wird am 23. Dezember 2020 zusätzlich ausserordentlich im Internet veröffentlicht.
