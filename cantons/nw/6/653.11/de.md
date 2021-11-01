@@ -4,22 +4,26 @@ number: "653.11"
 title: Konkordat über die nicht eidgenössisch konzessionierten Seilbahnen und Skilifte
 language: de
 version: 1973-06-18
+corrected: 2021-11-02
 version_adopted: 1972-11-27
 adopted: 1951-10-15
 in_force: 1966-01-15
 url: "https://gesetze.nw.ch/app/de/texts_of_law/653.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/783/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/458/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Konkordat über die nicht eidgenössisch konzessionierten Seilbahnen und Skilifte
 
-vom 15.10.1951 (Stand 18.06.1973)
+vom 15. Oktober 1951[^t-1]
 
 Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und Skiliften möglichst sicher zu gestalten, wird von den Konkordatskantonen, gesützt auf Art. 7 Abs. 2 der Bundesverfassung, das nachstehende Konkordat abgeschlossen:
 
-## 1 Zweck und Umfang
+I. ZWECK UND UMFANG
+
+[^t-1]: SR 743.22; vom Landrat genehmigt am 15. Januar 1966; vom Bundesrat genehmigt am 17. Juni 1955
 
 #### Art. 1
 
@@ -28,7 +32,9 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 <sup>1</sup> Die dem Konkordat beitretenden Kantone schliessen sich zusammen,
 
 - a) um einheitliche Vorschriften aufzustellen, welche den Betrieb der unter das Konkordat fallenden Anlagen möglichst sicher gestalten, ohne die Kosten für Bau und Betrieb allzusehr zu erhöhen;
+
 - b) um eine interkantonale Kontrollstelle einzusetzen, die technische Fragen zuhanden der Kantone begutachtet;
+
 - c) um die einheitliche Anwendung der technischen Vorschriften zu fördern.
 
 <sup>2</sup> Die Halbkantone sind in allen Teilen den Kantonen gleichgestellt.
@@ -40,13 +46,15 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 <sup>1</sup> Das Konkordat bezieht sich auf alle Seilbahnen für Personen- oder Warentransporte, insbesondere Luftseilbahnen, Skilifte und schräg geführte Lifte. Hievon ausgenommen sind:
 
 - a) Seilbahnen, die der eidgenössischen Konzessionspflicht unterstehen;
-- b) Seilbahnen für den ausschliessenden Warentransport, sofern sie den öffentlichen Verkehr oder öffentlichen Anlagen nicht gefährden können.
 
-<sup>2</sup> In allen Fällen ist die Erstellung einer Luftseilbahn, die ein Flughindernis im Sinne von Art. 67 und folgende der Vollziehungsverordnung vom 5. Juni 1950 zum Luftfahrtgesetz[^2-1] darstellt, der zuständigen kantonalen Behörde zu melden1.
+- b) Seilbahnen für den ausschliessenden Warentransport, sofern sie den öffentlichen Verkehr oder öffentlichen Anlagen nicht gefährden können[^2-1].
 
-[^2-1]: Heute: SR 748.01
+<sup>2</sup> In allen Fällen ist die Erstellung einer Luftseilbahn, die ein Flughindernis im Sinne von Art. 67 und folgende der Vollziehungsverordnung vom 5. Juni 1950 zum Luftfahrtgesetz[^2-2] darstellt, der zuständigen kantonalen Behörde zu melden[^2-1].
 
-## 2 Bau und Betrieb der Anlagen
+[^2-1]: Fassung gemäss Änderung vom 27. November 1972; vom Bundesrat genehmigt am 30. Mai 1973
+[^2-2]: Heute: SR 748.01
+
+### II. BAU UND BETRIEB DER ANLAGEN
 
 #### Art. 3
 
@@ -60,21 +68,25 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 
 **Enteignungsrecht**
 
-<sup>1</sup> Die Kantone können dem Inhaber der Bewilligung das Enteignungsrecht nach kantonalem Recht verleihen.
+Die Kantone können dem Inhaber der Bewilligung das Enteignungsrecht nach kantonalem Recht verleihen.
 
 #### Art. 5
 
 **Voraussetzungen der Bewilligungen**
 
-<sup>1</sup> Die Kantone erteilen die Bewilligung zum Bau oder zum Betrieb einer Anlage erst dann, wenn das Projekt oder die Anlage in baulicher, technischer und finanzieller Hinsicht den Bestimmungen dieses Konkordates und des zugehörigen Reglementes entspricht, die vorgeschriebenen Versicherungen abgeschlossen sind und wenn
+<sup>1</sup> Die Kantone erteilen die Bewilligung zum Bau oder zum Betrieb einer Anlage erst dann, wenn das Projekt oder die Anlage in baulicher, technischer und finanzieller Hinsicht den Bestimmungen dieses Konkordates und des zugehörigen Reglementes entspricht, die vorgechriebenen Versicherungen abgeschlossen sind und wenn a) sie nicht öffentliche Interessen des Bundes, wie namentlich Interessen der Landesverteidigung, der Forstpolizei, der Raumplanung und des Natur- und Heimatschutzes, verletzt;
 
-- a) sie nicht öffentliche Interessen des Bundes, wie namentlich Interessen der Landesverteidigung, der Forstpolizei, der Raumplanung und des Natur- und Heimatschutzes, verletzt;
 - b) sie weder dem Bund gehörende oder von ihm konzessionierte Transportunternehmungen noch unter der Hoheit des Kantons stehende Skilifte und Luftseilbahnen wesentlich konkurrenziert;
+
 - c) sie einem Bedürfnis entspricht;
+
 - d) die Sicherheit ihres Betriebes gewährleistet ist;
-- e) die Betriebsbewilligung auf längstens 20 Jahre befristet ist.
+
+- e) die Betriebsbewilligung auf längstens 20 Jahre befristet ist[^5-1].
 
 <sup>2</sup> Vor Erteilung der Bewilligungen werden die Bauprojekte und die betriebsbereiten Anlagen im Auftrage des zuständigen Kantons von einer technischen Kontrollinstanz nach den Bestimmungen dieses Konkordates und des Reglementes begutachtet.
+
+[^5-1]: Fassung gemäss Änderung vom 27. November 1972; vom Bundesrat genehmigt am 30. Mai 1973
 
 #### Art. 6
 
@@ -84,7 +96,9 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 
 <sup>2</sup> Die Kantone veranlassen nach Bedürfnis, bei Anlagen mit Personenbeförderung in der Regel eine jährlich sich wiederholende technische Kontrolle der Anlagen. Über diese Kontrollen sind zuhanden des Kantons Protokolle aufzunehmen.
 
-<sup>3</sup> Der zuständige Kanton kann dem Betriebsinhaber Frist ansetzen für die Behebung festgestellter Mängel, unter der Androhung des Bewilligungsentzuges und der Bestrafung wegen Ungehorsams gegen amtliche Verfügungen[^6-1]. Bei unmittelbarer Gefährdung kann der Kanton oder die mit der technischen Kontrolle beauftragte Instanz im Sinne von Art. 12 Abs. 2 die Anlage sofort stillegen.
+<sup>3</sup> Der zuständige Kanton kann dem Betriebsinhaber Frist ansetzen für die Behebung festgestellter Mängel, unter der Androhung des Bewilligungsentzuges und der Bestrafung wegen Ungehorsams gegen amtliche Verfügungen[^6-1]. Bei unmittelbarer Gefährdung kann der Kanton oder die mit der technischen Kontrolle beauftragte Instanz im Sinne von Art.
+
+12 Abs. 2 die Anlage sofort stillegen.
 
 [^6-1]: SR 311.0 (StGB)
 
@@ -98,7 +112,7 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 
 <sup>3</sup> Für die Sicherstellung ihrer Forderungen sind die Kantone befugt, vom Bewilligungsempfänger die Stellung einer Kaution zu verlangen.
 
-## 3 Organisation
+### III. ORGANISATION
 
 #### Art. 8
 
@@ -119,11 +133,17 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 <sup>3</sup> Die Konferenz ist zuständig für:
 
 - 1\. die Aufstellung von Vorschriften für den Bau und Betrieb der unter das Konkordat fallenden Luftseilbahnen und Skilifte;
+
 - 2\. die Aufstellung eines Geschäftsreglementes für den Verkehr der Kantone mit den Organen des Konkordates und der technischen Kontrollstelle, eines Pflichtenheftes für die technische Kontrollstelle und einer Gebührenordnung;
+
 - 3\. die Wahl der Mitglieder der Geschäftsleitung und des Sekretärs für eine Amtsdauer von fünf Jahren; das Sekretariat kann einer kantonalen Amtsstelle oder einer sonst geeigneten Organisation übertragen werden;
+
 - 4\. die Wahl von zwei Rechnungsrevisoren;
+
 - 5\. die Bezeichnung einer technischen Kontrollstelle;
+
 - 6\. die Genehmigung von Voranschlag, Jahresrechnung und Jahresbericht und die Festsetzung der Kantonsbeiträge;
+
 - 7\. Aussprachen über gemeinsam interessierende Fragen im Interesse eines einheitlichen Vollzuges der Konkordatsbestimmungen.
 
 <sup>4</sup> Die Konferenz tritt ordentlicherweise einmal jährlich zusammen. Der Präsident ist befugt, jederzeit eine ausserordentliche Konferenz einzuberufen. Er ist hiezu verpflichtet, wenn dies von mindestens einem Viertel der Konkordatskantone verlangt wird.
@@ -141,9 +161,13 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 <sup>3</sup> Die Geschäftsleitung besorgt alle jene Geschäfte, die nicht ausdrücklich einem andern Organ übertragen sind. Sie hat insbesondere folgende Aufgaben:
 
 - 1\. Vorbereitung und Vollzug der Konferenzbeschlüsse;
+
 - 2\. Beaufsichtigung der technischen Kontrollstelle;
+
 - 3\. Führung des gesamten Rechnungswesens, Erstellung der Jahresrechnung und Antragstellung zum Voranschlag;
+
 - 4\. Abfassung des Jahresberichtes;
+
 - 5\. Protokollführung an den Sitzungen der Konferenz.
 
 <sup>4</sup> Die Konferenz kann der Geschäftsleitung weitere Aufgaben übertragen.
@@ -154,7 +178,7 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 
 **Rechnungsrevisoren**
 
-<sup>1</sup> Die beiden Rechnungsrevisoren prüfen jährlich einmal die Buchhaltung der Geschäftsleitung und erstatten darüber der Konferenz Bericht.
+Die beiden Rechnungsrevisoren prüfen jährlich einmal die Buchhaltung der Geschäftsleitung und erstatten darüber der Konferenz Bericht.
 
 #### Art. 12
 
@@ -163,10 +187,15 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 <sup>1</sup> Die technische Kontrollstelle steht den Kantonen namentlich für folgende Aufgaben zur Verfügung:
 
 - 1\. Begutachtung von Projekten;
+
 - 2\. Abnahme betriebsbereiter Anlagen, eingeschlossen der bei Inkrafttreten des Konkordates bereits bestehenden Anlagen;
+
 - 3\. Periodische und ausserordentliche Kontrollen der Anlagen und technische Untersuchungen bei Unfällen, Betriebsstörungen und Betriebsgefährdungen;
+
 - 4\. Berichterstattung über die Kontrollen und Untersuchungen an die Geschäftsleitung und an die zuständigen Kantone;
+
 - 5\. Beratung der Organe der Konferenz und der zuständigen Instanzen der Kantone, insbesondere Ausarbeitung von Vorschlägen für die Schaffung neuer, Lockerung oder Verschärfung bestehender Bestimmungen;
+
 - 6\. Ausarbeitung von Rapporten an die Geschäftsleitung als Grundlagen für den Jahresbericht und für die Berechnung von Gebühren.
 
 <sup>2</sup> Bei unmittelbar drohender Gefahr hat die technische Kontrollstelle, wenn nötig mit Polizeigewalt, die betreffende Anlage sofort stillzulegen und diesen Entscheid dem zuständigen Kanton auf dem schnellsten Wege zu melden. Der entgültige Entscheid über die Betriebseinstellung steht der zuständigen kantonalen Amtsstelle zu.
@@ -189,7 +218,7 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 
 **Sitz**
 
-<sup>1</sup> Der Sitz des Konkordates befindet sich am Ort des Sekretariates.
+Der Sitz des Konkordates befindet sich am Ort des Sekretariates.
 
 #### Art. 15
 
@@ -199,7 +228,7 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 
 <sup>2</sup> Der Austritt kann auf Ende eines Kalenderjahres und unter Berücksichtigung einer wenigstens einjährigen Kündigungsfrist erfolgen, nachdem sämtliche aus dem Konkordat fliessenden Verbindlichkeiten erfüllt sind.
 
-## 4 Schlussbestimmungen
+### IV. SCHLUSSBESTIMMUNGEN
 
 #### Art. 16
 
@@ -223,8 +252,8 @@ Um den Betrieb auf den nicht eidgenössisch konzessionierten Luftseilbahnen und 
 
 **Inkrafttreten**
 
-<sup>1</sup> Das Konkordat tritt nach Annahme durch wenigstens fünf Kantone in Kraft[^18-1].
+Das Konkordat tritt nach Annahme durch wenigstens fünf Kantone in Kraft.
 
-[^18-1]: Vom Landrat genehmigt am 15. Januar 1966; vom Bundesrat genehmigt am 17. Juni 1955
+Das Konkordat ist heute verbindlich für die Kantone:
 
-A 1966 57
+Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Landschaft, Appenzell A.Rh., Appenzell I.Rh., St. Gallen, Graubünden, Aargau, Tessin, Waadt, Wallis, Neuenburg, Jura.
