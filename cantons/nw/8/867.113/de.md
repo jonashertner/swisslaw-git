@@ -5,38 +5,39 @@ title: Reglement über die Schätzung und Schadenregelung
 short: Schätzungs- und Schadenreglement
 language: de
 version: 2019-01-01
+corrected: 2021-11-02
 version_adopted: 2018-12-03
 adopted: 2018-12-03
 in_force: 2019-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/867.113"
-pdf: "https://gesetze.nw.ch/api/de/versions/774/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/408/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Schätzung und Schadenregelung
+# Reglement über die Schätzung und Schadenregelung (Schätzungs- und Schadenreglement)
 
-(Schätzungs- und Schadenreglement)
-
-vom 03.12.2018 (Stand 01.01.2019)
+vom 3. Dezember 2018[^t-1]
 
 Der Verwaltungsrat der Nidwaldner Sachversicherung (NSV),
 
-gestützt auf Art. 36 des Gesetzes vom 13. Dezember 2017 über die Nidwaldner Sachversicherung (Sachversicherungsgesetz, NSVG)[^ingress-1],
+gestützt auf Art. 36 des Gesetzes vom 13. Dezember 2017 über die Nidwaldner Sachversicherung (Sachversicherungsgesetz, NSVG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 613.1
+[^t-1]: A 2018, 2146
+[^t-2]: NG 613.1
 
-## 1 Allgmeine Bestimmungen
+### I. ALLGMEINE BESTIMMUNGEN
 
-### 1.1 Organisation
+### A. Organisation
 
 #### § 1
 
 **Expertinnen und Experten**
 
-<sup>1</sup> Die Geschäftsleitung setzt für die Schätzung und Schadenerledigung bei Gebäuden und Mobiliar Schätzungsexpertinnen und ‑experten sowie Schadenexpertinnen und ‑experten der NSV ein.
+<sup>1</sup> Die Geschäftsleitung setzt für die Schätzung und Schadenerledigung bei Gebäuden und Mobiliar Schätzungsexpertinnen und -experten sowie Schadenexpertinnen und -experten der NSV ein.
 
 <sup>2</sup> Sie sorgt dabei für eine zweckmässige Arbeitsaufteilung.
 
@@ -50,7 +51,7 @@ beschliesst:
 
 <sup>2</sup> Bei Vorliegen besonderer Verhältnisse (spezielle Versicherungswerte, komplexe Schadenfälle usw.) können sie in Absprache mit der Leiterin oder dem Leiter Versicherung externe Fachpersonen beiziehen.
 
-### 1.2 Mitwirkungspflicht und Kosten
+### B. Mitwirkungspflicht und Kosten
 
 #### § 3
 
@@ -74,12 +75,13 @@ beschliesst:
 
 <sup>3</sup> Es werden in Rechnung gestellt:
 
-- 1\. Fr. 95.– je Arbeitsstunde einer Expertin oder eines Experten der NSV;
+- 1\. Fr. 95.- je Arbeitsstunde einer Expertin oder eines Experten der NSV;
+
 - 2\. die Entschädigung an beigezogene Fachpersonen.
 
-## 2 Schätzung von Gebäuden
+### II. SCHÄTZUNG VON GEBÄUDEN
 
-### 2.1 Schätzung
+### A. Schätzung
 
 #### § 5
 
@@ -95,19 +97,28 @@ beschliesst:
 
 **Neuwert**
 
-<sup>1</sup> Als Neuwert eines Gebäudes gilt der Kostenaufwand am betreffenden Standort, der für die Erstellung eines Gebäudes gleicher Art, gleicher Grösse und gleichen Ausbaus am Tag der Schätzung erforderlich ist (Art. 18 NSVG[^6-1]). Inbegriffen sind die Kosten für Honorare, Bauplatzinstallationen sowie Baureinigung.
+<sup>1</sup> Als Neuwert eines Gebäudes gilt der Kostenaufwand am betreffenden Standort, der für die Erstellung eines Gebäudes gleicher Art, gleicher Grösse und gleichen Ausbaus am Tag der Schätzung erforderlich ist (Art. 18 NSVG[^6-1]. Inbegriffen sind die Kosten für Honorare, Bauplatzinstallationen sowie Baureinigung.
 
 <sup>2</sup> Bei der Schätzung des Neuwerts sind die Kosten für folgende Aufwendungen nicht zu berücksichtigen:
 
 - 1\. Bodenerwerb;
+
 - 2\. Arbeiten für die Vorbereitung, Aushub der Baugrube, Wasserhaltung, Aufschüttungen, Planierungs- und Hinterfüllungsarbeiten;
+
 - 3\. besondere bauliche Vorrichtungen zur Verstärkung des Baugrundes und Hangsicherungen (Spezialfundationen, Stützmauern, Baugrubensicherungen, Aussteifungen, Anker usw.);
+
 - 4\. Werkzeuge, Baugeräte, noch nicht verbautes Baumaterial sowie Maschinen aller Art;
+
 - 5\. durch den Bau bedingte Provisorien;
+
 - 6\. Werkleitungen für Wasser, Strom, Gas, Kanalisation, Grundwasserpumpen, Erdsonden einschliesslich Bohrung, usw. ausserhalb des Gebäudes;
+
 - 7\. Anschlussgebühren für Wasser, Strom, Gas, Kanalisation usw. sowie alle übrigen Baunebenkosten;
+
 - 8\. Umgebungsarbeiten, Platz- und Gartengestaltung;
+
 - 9\. alle baulichen Anlagen ausserhalb des Gebäudes, die zur Liegenschaft gehören und kein Gebäude darstellen;
+
 - 10\. Ufermauern und Bachläufe.
 
 <sup>3</sup> Besondere bauliche Vorrichtungen gemäss Abs. 2 Ziff. 3 und bauliche Anlagen gemäss Abs. 2 Ziff. 9 können bei der NSV freiwillig versichert werden (siehe Anhang 1). Sie sind diesfalls im Schätzungsprotokoll mit Wertangabe aufzuführen.
@@ -140,11 +151,11 @@ beschliesst:
 
 **Anpassung**
 
-<sup>1</sup> Die Versicherungswerte werden für alle versicherten Gebäude auf den Prämienverfall angepasst, wenn sich der Zürcher Index für Wohnbaupreise, ausgehend von der letzten Indexierung der Versicherungswerte, um 3% oder mehr verändert hat.
+<sup>1</sup> Die Versicherungswerte werden für alle versicherten Gebäude auf den Prämienverfall angepasst, wenn sich der Zürcher Index für Wohnbaupreise, ausgehend von der letzten Indexierung der Versicherungswerte, um 3 % oder mehr verändert hat.
 
 <sup>2</sup> Die angepassten Versicherungswerte werden den Versicherten zusammen mit der Jahresprämienrechnung eröffnet.
 
-### 2.2 Schätzungsverfahren
+### B. Schätzungsverfahren
 
 #### § 10
 
@@ -153,6 +164,7 @@ beschliesst:
 <sup>1</sup> Die Schätzung der Versicherungswerte erfolgt:
 
 - 1\. auf begründetes Begehren der Gebäudeeigentümerin oder des Gebäudeeigentümers;
+
 - 2\. auf Anordnung der NSV, insbesondere, wenn in Erfahrung gebracht wird, dass der Wert eines Gebäudes nicht mehr dem Versicherungswert entspricht.
 
 <sup>2</sup> Die Gebäudeeigentümerin oder der Gebäudeeigentümer ist bei Neubauten und Änderungen an bestehenden Bauten verpflichtet, nach Vollendung der Bauarbeiten bei der NSV einen Schätzungsantrag einzureichen.
@@ -161,30 +173,39 @@ beschliesst:
 
 **Protokoll**
 
-<sup>1</sup> Die Schätzungsexpertinnen und ‑experten erstellen über jede Schätzung ein Protokoll.
+<sup>1</sup> Die Schätzungsexpertinnen und -experten erstellen über jede Schätzung ein Protokoll.
 
 <sup>2</sup> Das Schätzungsprotokoll hat sämtliche Angaben zu enthalten, die nötig sind, um den Versicherungswert des Gebäudes im Zeitpunkt der Schätzung, die versicherten Teile und die Tarifierung zu ermitteln.
 
 <sup>3</sup> Es muss insbesondere folgende Angaben enthalten:
 
 - 1\. Grund, Ort und Datum der Schätzung;
+
 - 2\. Baukosten zum Neuwert des Objektes;
+
 - 3\. Kubatur des umbauten Raumes;
+
 - 4\. freiwillig versicherte Objekte;
+
 - 5\. besondere technische Einrichtungen;
+
 - 6\. nötigenfalls Gebäudeskizze/Fotos;
+
 - 7\. Zweckbestimmung des Gebäudes beziehungsweise der Gebäudeteile;
+
 - 8\. Bauartklassen;
+
 - 9\. Erstellungsjahr;
+
 - 10\. Gebäudezustand und allfällige Mängel.
 
 #### § 12
 
 **Eröffnung**
 
-<sup>1</sup> Das Schätzungsergebnis wird den Versicherten mittels Zustellung der Versicherungspolice eröffnet.
+Das Schätzungsergebnis wird den Versicherten mittels Zustellung der Versicherungspolice eröffnet.
 
-## 3 Schätzung von Mobiliar
+### III. SCHÄTZUNG VON MOBILIAR
 
 #### § 13
 
@@ -210,7 +231,9 @@ beschliesst:
 
 #### § 15
 
-**Wertfestsetzung 1. allgemein**
+**Wertfestsetzung**
+
+### 1. allgemein
 
 <sup>1</sup> Die NSV kann für den Hausrat je nach Wohnungs- beziehungsweise Haushaltgrösse aufgrund der Durchschnittswerte für vergleichbare Haushalte pauschale Versicherungswerte ohne Schätzung festsetzen.
 
@@ -227,13 +250,14 @@ beschliesst:
 <sup>2</sup> Sie können auf Verlangen der Versicherungsnehmerin oder des Versicherungsnehmers versichert werden:
 
 - 1\. für eine Versicherungssumme an einem im Voraus festgesetzten Stichtag;
+
 - 2\. zu einem pauschalen Durchschnittswert. Letzterer ergibt sich aus dem Mittel zwischen dem höchstmöglichen und dem tiefstmöglichen Wert der zu versichernden Warenbestände.
 
 <sup>3</sup> In der Stichtagversicherung meldet die Versicherungsnehmerin oder der Versicherungsnehmer der NSV binnen vier Wochen ab dem jeweiligen Stichtag jene Versicherungssumme, die er ab dem Stichtag benötigt. So lange keine neue Meldung erfolgt, gilt jeweils die zuletzt gemeldete Versicherungssumme.
 
 <sup>4</sup> Bei der Versicherung zu einem pauschalen Durchschnittswert hat die Unterversicherung eine entsprechende Reduktion der Versicherungsleistung zur Folge.
 
-## 4 Abgrenzung zwischen Gebäude und Mobiliar
+### IV. ABGRENZUNG ZWISCHEN GEBÄUDE UND MOBILIAR
 
 #### § 17
 
@@ -242,13 +266,17 @@ beschliesst:
 <sup>1</sup> Zum Gebäude gehören:
 
 - 1\. die Bestandteile gemäss Art. 642 des Schweizerischen Zivilgesetzbuches (ZGB)[^17-1];
+
 - 2\. bauliche Einrichtungen, die, ohne Bestandteil des Gebäudes zu bilden, normalerweise zu diesem gehören, im Eigentum der Gebäudeeigentümerin oder des Gebäudeeigentümers stehen und so befestigt oder angepasst sind, dass sie ohne erhebliche Einbusse ihres Wertes oder ohne wesentliche Beschädigung des Gebäudes nicht entfernt werden können;
+
 - 3\. bei Wohnhäusern und Wohnungen auch die nach Ortsgebrauch zur Grundausstattung gehörenden Einrichtungsgegenstände, die im Eigentum der Gebäudeeigentümerin oder des Gebäudeeigentümers stehen, selbst wenn sie ohne erhebliche Einbusse ihres Wertes oder ohne wesentliche Beschädigung des Gebäudes entfernt werden können;
+
 - 4\. maschinelle Teile untergeordneter Natur, die mit einer baulichen Einrichtung ein zusammenhängendes Ganzes bilden.
 
 <sup>2</sup> Bei gewerblichen, industriellen und landwirtschaftlichen Anlagen gelten nicht als Bestandteil des Gebäudes:
 
 - 1\. betriebliche Einrichtungen wie Maschinen oder Apparate;
+
 - 2\. die zugehörigen baulichen Einrichtungen wie Fundamente, Sockel, Fördereinrichtungen oder Behälter, einschliesslich Leitungen, die mit betrieblichen Einrichtungen ein zusammenhängendes Ganzes bilden.
 
 <sup>3</sup> Von Mietern oder Pächtern eingebrachte, fest mit dem Gebäude verbundene bauliche Einrichtungen (Mieter- und Pächtereinbau) sind durch die Mieter oder Pächter zu versichern.
@@ -259,15 +287,17 @@ beschliesst:
 
 **Anwendungsbeispiele**
 
-<sup>1</sup> Die Abgrenzung zwischen Gebäude und Mobiliar wird in Anhang 2 mit einer Liste von Anwendungsbeispielen konkretisiert.
+Die Abgrenzung zwischen Gebäude und Mobiliar wird in Anhang 2 mit einer Liste von Anwendungsbeispielen konkretisiert.
 
-## 5 Schadenerledigung
+### V. SCHADENERLEDIGUNG
 
-### 5.1 Grundsätze der Entschädigung
+### A. Grundsätze der Entschädigung
 
 #### § 19
 
-**Neuwert 1. Bemessung**
+**Neuwert**
+
+### 1. Bemessung
 
 <sup>1</sup> Bei der Bemessung der Neuwertentschädigung wird von dem Neuanschaffungspreis einer Sache ausgegangen, die mit der zerstörten Sache identisch beziehungsweise gleichwertig ist in Bezug auf Art, Konstruktion, technische Leistung und Zweckbestimmung.
 
@@ -294,21 +324,24 @@ beschliesst:
 <sup>2</sup> Es gelten:
 
 - 1\. für Gebäudeteile die paritätische Lebensdauertabelle des Hauseigentümer- und Mieterverbandes;
+
 - 2\. für Fahrzeuge die Eintauschwerte von Eurotax unter Berücksichtigung nachgewiesener ausserordentlicher Investitionen;
+
 - 3\. für Seile und Masten eine individuelle Bewertung entsprechend Standort, Betriebszustand und vorbestandener Schäden;
-- 4\. für Blachen und Stoffe unter Berücksichtigung des tatsächlichen Zustandes die folgenden Richtwerte: bis 5 Jahre 0% Abzug; über 5 Jahre jeweils 10% Abzug je zusätzliches Jahr.
+
+- 4\. für Blachen und Stoffe unter Berücksichtigung des tatsächlichen Zustandes die folgenden Richtwerte: bis 5 Jahre 0 % Abzug; über 5 Jahre jeweils 10 % Abzug je zusätzliches Jahr.
 
 #### § 22
 
 **Vereinbarter Wert**
 
-<sup>1</sup> Ist eine feste Versicherungssumme vereinbart, entspricht der Deckungsgrad dem Verhältnis zwischen dem vereinbarten Wert und dem Neuwert.
+Ist eine feste Versicherungssumme vereinbart, entspricht der Deckungsgrad dem Verhältnis zwischen dem vereinbarten Wert und dem Neuwert.
 
 #### § 23
 
 **Unterversicherung**
 
-<sup>1</sup> Besteht eine Unterversicherung, wird die Entschädigung gekürzt, wenn die Unterversicherung mehr als 10% beträgt (Schätzungstoleranz von 10%).
+Besteht eine Unterversicherung, wird die Entschädigung gekürzt, wenn die Unterversicherung mehr als 10 % beträgt (Schätzungstoleranz von 10 %).
 
 #### § 24
 
@@ -317,12 +350,14 @@ beschliesst:
 <sup>1</sup> Eine Minderwertentschädigung im Sinne von Art. 56 Abs. 3 NSVG[^24-1] wird geleistet, wenn kumulativ folgende Bedingungen erfüllt sind:
 
 - 1\. es besteht ein Missverhältnis zwischen den Kosten der Behebung und der Beeinträchtigung;
+
 - 2\. es liegt eine geringe oder keine Beeinträchtigung der Funktion vor; und
+
 - 3\. es besteht eine stärkere ästhetische Beeinträchtigung.
 
 <sup>2</sup> Eine stärkere ästhetische Beeinträchtigung liegt vor, wenn diese einem unvoreingenommenen Betrachter auffällt. Die beeinträchtigte Stelle muss zudem gut sichtbar sein und darf keine reine Schutzfunktion gegenüber der Witterung erfüllen.
 
-<sup>3</sup> Die Minderwertentschädigung beträgt je nach Schwere der Beeinträchtigung 10–30% der mutmasslichen Reparaturkosten.
+<sup>3</sup> Die Minderwertentschädigung beträgt je nach Schwere der Beeinträchtigung 10-30% der mutmasslichen Reparaturkosten.
 
 [^24-1]: NG 613.1
 
@@ -330,7 +365,7 @@ beschliesst:
 
 **Bau- und Unterhaltsmängel**
 
-<sup>1</sup> Wenn Schäden durch ein Elementarereignis ausgelöst werden, die wesentliche Schadenursache jedoch in einem Bau- oder Unterhaltsmangel liegt, sind die Schäden nicht entschädigungsberechtigt (Art. 40 Abs. 3 NSVG[^25-1]).
+<sup>1</sup> Wenn Schäden durch ein Elementarereignis ausgelöst werden, die wesentliche Schadenursache jedoch in einem Bau- oder Unterhaltsmangel liegt, sind die Schäden nicht entschädigungsberechtigt (Art. 40 Abs. 3 NSVG[^25-1].
 
 <sup>2</sup> Lässt sich nicht eindeutig beantworten, ob der Mangel oder das Elementarereignis die wesentliche Schadenursache ist, wird der Schaden nach dem vermuteten Grad der Ursächlichkeit anteilsmässig auf den Mangel und das Elementarereignis verteilt.
 
@@ -342,13 +377,13 @@ beschliesst:
 
 **Überschwemmungs- und Hochwasserschäden**
 
-<sup>1</sup> Der Wassereintritt durch eine undichte Aussenwand, durch einen undichten Boden- oder Wandanschluss, durch Rückstauung aus der Kanalisation oder durch sonstige undichte Leitungsführungen ist nicht gedeckt.
+Der Wassereintritt durch eine undichte Aussenwand, durch einen undichten Boden- oder Wandanschluss, durch Rückstauung aus der Kanalisation oder durch sonstige undichte Leitungsführungen ist nicht gedeckt.
 
 #### § 27
 
 **Hagelschäden**
 
-<sup>1</sup> Die bei Hagelschäden zu berücksichtigenden Besonderheiten und Entschädigungsregeln werden in einer Richtlinie festgelegt.
+Die bei Hagelschäden zu berücksichtigenden Besonderheiten und Entschädigungsregeln werden in einer Richtlinie festgelegt.
 
 #### § 28
 
@@ -378,20 +413,21 @@ beschliesst:
 
 <sup>2</sup> Es gelten die folgenden Stundenansätze:
 
-- 1\. Privatpersonen und Landwirtschaft für Aufräumarbeiten Fr. 25.– je Stunde;
-- 2\. Arbeit im Gewerbe Fr. 40.– bis 50.– je Stunde.
+- 1\. Privatpersonen und Landwirtschaft für Aufräumarbeiten Fr. 25.- je Stunde;
+
+- 2\. Arbeit im Gewerbe Fr. 40.- bis 50.- je Stunde.
 
 <sup>3</sup> Der Ansatz für Arbeit im Gewerbe basiert auf den Selbstkosten. Liegen diese nachweislich höher, kann davon abgewichen werden.
 
 <sup>4</sup> Sonstige Unkosten, wie Verpflegung und Unkostenbeiträge sowie Essen für die Helfer, werden nicht entschädigt.
 
-### 5.2 Nachweis von Ursache und Umfang des Schadens
+### B. Nachweis von Ursache und Umfang des Schadens
 
 #### § 31
 
 **Feststellung, Verfügung**
 
-<sup>1</sup> Die Schadenexpertinnen und experten der NSV stellen den Umfang des Schadens fest. Hierzu sind sie berechtigt, Mauerwerk oder Holzteile freizulegen, Böden aufbrechen zu lassen usw. Ebenso können sie Kostenvoranschläge einfordern.
+<sup>1</sup> Die Schadenexpertinnen und -experten der NSV stellen den Umfang des Schadens fest. Hierzu sind sie berechtigt, Mauerwerk oder Holzteile freizulegen, Böden aufbrechen zu lassen usw. Ebenso können sie Kostenvoranschläge einfordern.
 
 <sup>2</sup> Der von der NSV anerkannte Schadenbetrag wird mit der Schadenabrechnung verfügt.
 
@@ -407,7 +443,7 @@ beschliesst:
 
 <sup>3</sup> In der Bauzeitversicherung erfolgt die Abschätzung gestützt auf den von der Eigentümerin oder dem Eigentümer nachzuweisenden Versicherungswert im Zeitpunkt des Schadeneintritts.
 
-### 5.3 Schadenprävention
+### C. Schadenprävention
 
 #### § 33
 
@@ -419,7 +455,7 @@ beschliesst:
 
 [^33-1]: NG 613.1
 
-## 6 Schlussbestimmung
+### VI. SCHLUSSBESTIMMUNG
 
 #### § 34
 
@@ -429,341 +465,654 @@ beschliesst:
 
 <sup>2</sup> Dieses Reglement tritt am 1. Januar 2019 in Kraft.
 
-## A1 Anhang 1: Versicherung besonderer baulicher Vorrichtungen, baulicher Anlagen ausserhalb des Gebäudes sowie ideeller Werte
+### ANHANG 1
 
-#### § A1.1
+### Versicherung besonderer baulicher Vorrichtungen, baulicher Anla-
 
-<sup>1</sup> Nur aufgrund besonderer Vereinbarung deckt die Gebäudeversicherung im Rahmen der dafür festgesetzten Versicherungssumme:
+gen ausserhalb des Gebäudes sowie ideeller Werte
 
-- 1\. Spezielle Fundationen und Baugrubensicherung (Bohr-, Ramm-, Beton-, Holz- und Spezialpfähle, Spund , Rühl- und Pfahlwände, Schlitzwandpfähle, Aussteifungen, Anker usw.).
-- 2\. Ausserhalb des versicherten Gebäudes liegende, nicht zu diesem, wohl aber zur Liegenschaft gehörende bauliche Anlagen wie z.B.
-  - a) Behälter
-  - b) Beleuchtungskörper im Freien
-  - c) Briefkastenanlage freistehend
-  - d) Brunnen
-  - e) Einfriedungen
-  - f) Erdsonden und ‑register
-  - g) Fahnenstangen
-  - h) Filterbrunnen
-  - i) Hühnerhof
-  - j) Jauchebehälter und ‑gruben
-  - k) Keltertröge
-  - l) Klärbecken
-  - m) Mistgruben
-  - n) Pavillons
-  - o) Pergolas
-  - p) Schwimmbäder
-  - q) Senkgruben
-  - r) Silos
-  - s) Sonnenkollektoren
-  - t) Tanks jeder Art samt Leitungen und Wannen (betriebliche)
-  - u) Treibhäuser
-  - v) Treppen
-  - w) Veloständer
-  - x) Volieren
-  - y) Wärmepumpen
-  - z) Wasser- und Energieleitungen
-  - aa) Zisternen
-- 3\. Den künstlerischen oder historischen Wert von Gebäuden und Gebäudeteilen (protokollierter Wert).
-- 4\. Bauliche Anlagen ausserhalb des versicherten Gebäudes, die vorwiegend dem Elementarschadenrisiko ausgesetzt sind, wie z.B.
-  - a) Boots- und andere Stege
-  - b) Brücken
-  - c) Einfahrten
-  - d) Fundamente
-  - e) Kanäle
-  - f) Rampen
-  - g) Sonnenkollektoren freistehend
-  - h) Stützmauern
-  - i) Terrassen
-  - j) Trottoirs
-  - k) Tunnels
-- 5\. Nebensachen teilen im Zweifelsfall das Schicksal der Hauptsache.
+Nur aufgrund besonderer Vereinbarung deckt die Gebäudeversicherung im Rahmen der dafür festgesetzten Versicherungssumme:
 
-## A2 Anhang 2: Abgrenzung Gebäude / Mobiliar
+1.
 
-#### § A2-1
+Spezielle Fundationen und Baugrubensicherung (Bohr-, Ramm-, Beton-, Holz und Spezialpfähle, Spund-, Rühl- und Pfahlwände, Schlitzwandpfähle, Aussteifungen, Anker usw.).
 
-**Anwendungsbeispiele allgemein**
+2.
 
-<sup>1</sup> Abweichungen werden in der Police oder in der Gebäudeschätzung festgehalten.
+Ausserhalb des versicherten Gebäudes liegende, nicht zu diesem, wohl aber zur Liegenschaft gehörende bauliche Anlagen wie z.B.
 
-<sup>2</sup> Gebäudebestandteile:
+- Behälter
 
-- 1\. Abwasserreinigungsanlagen (ohne betriebliche)
-- 2\. Antennen (nur solche, die dem Gebäudeeigentümer gehören)
-- 3\. Aufzüge
-- 4\. Beleuchtungskörper (ohne betriebliche sowie ohne Leuchtmittel)
-- 5\. Blitzschutzanlagen
-- 6\. Bodenbeläge
-- 7\. Boiler (ohne betriebliche)
-- 8\. Brandmeldeanlagen
-- 9\. Briefkästen (ohne freistehende)
-- 10\. Brückenwaagen (baulicher Teil)
-- 11\. Dekorationsmalereien
-- 12\. Druck- und Vakuumleitungen (ohne betriebliche)
-- 13\. Elektrische Leitungen (ohne betriebliche)
-- 14\. Elektrische Maschinen (zur baulichen Einrichtung gehörend)
-- 15\. Essen (baulicher Teil)
-- 16\. Futtersilo (baulicher Teil)
-- 17\. Heizanlagen (ohne betriebliche)
-- 18\. Heubelüftungsanlagen (baulicher Teil)
-- 19\. Jauche-·und Mistgruben (mit dem Gebäude verbunden)
-- 20\. Kegelbahnen (baulicher Teil)
-- 21\. Kläranlagen (baulicher Teil)
-- 22\. Klimaanlagen (ohne betriebliche)
-- 23\. Kraftwerke (baulicher Teil)
-- 24\. Kücheneinrichtungen (wie Kochherde, Küchenschränke, Kühlschränke, Tiefkühltruhen, Waschmaschinen aller Art; für Restaurant , Hotel- und weitere betriebliche Küchen siehe Abs. 3)
-- 25\. Kühlanlagen (ohne betriebliche)
-- 26\. Kehrichtverbrennungsanlagen (baulicher Teil)
-- 27\. Pumpen (der Raumheizung oder der Wasserversorgung dienende)
-- 28\. Reklameschriften (eingehauen, eingemauert oder aufgemalt)
-- 29\. Reservoire (baulicher Teil)
-- 30\. Rolltreppen
-- 31\. Sanitärinstallationen (ohne betriebliche)
-- 32\. Schalttableaux (ohne betriebliche)
-- 33\. Schaufenster, kästen Scheibenstände (ohne Scheiben und ohne Transportanlagen)
-- 34\. Silos (baulicher Teil)
-- 35\. Spannteppiche
-- 36\. Sprinkleranlagen
-- 37\. Storen (samt Stoff)
-- 38\. Tankgruben und ‑keller
-- 39\. Tanke einschliesslich Wannen (ohne betriebliche)
-- 40\. Telefonleitungen
-- 41\. Trocknereinrichtungen (baulicher Teil)
-- 42\. Turbinenschächte
-- 43\. Umwälzpumpen
-- 44\. Ventilationsanlagen (ohne betriebliche)
-- 45\. Vorfenster (auch ausgehängte)
-- 46\. Wagenhebeanlagen (baulicher Teil)
-- 47\. Wäscheeinrichtungen (ohne betriebliche)
-- 48\. Wasserenthärtungsanlagen (ohne betriebliche)
-- 49\. Ziegeleiöfen (baulicher Teil)
-- 50\. Zivilschutzanlagen (inkl. technische Ausrüstungen)
+- Beleuchtungskörper im Freien
 
-<sup>3</sup> Bauliche Einrichtungen (vgl. Reglement § 17 Abs. 1 Ziff. 2), falls nicht Mieter- oder Pächtereinbau
+- Briefkastenanlage freistehend
 
-- 1\. Alarmanlagen
-- 2\. Anpassungsrampen
-- 3\. Anschlagkästen
-- 4\. Ausstellungskästen
-- 5\. Bänke
-- 6\. Behälter (ohne betriebliche)
-- 7\. Bestuhlungen
-- 8\. Buffets
-- 9\. Bühnen
-- 10\. Fasslager
-- 11\. Garderoben
-- 12\. Gegensprechanlagen
-- 13\. Gestelle
-- 14\. Hotelküchen
-- 15\. Kabelkanäle (ohne betriebliche)
-- 16\. Kapellen in Labors
-- 17\. Kassenschränke
-- 18\. Labortische
-- 19\. Lautsprecheranlagen
-- 20\. Podien
-- 21\. Rauchkammern
-- 22\. Restaurantküchen
-- 23\. Sackrutschen
-- 24\. Sauna-Einrichtungen
-- 25\. Sirenen
-- 26\. Spritzanlagen
-- 27\. Stellwände
-- 28\. Telefonkabinen
-- 29\. Theken
-- 30\. Tresen
-- 31\. Tresore
-- 32\. Wandtafeln
-- 33\. Wasseraufbereitungsanlagen (ohne betriebliche)
-- 34\. Werktische
-- 35\. Whirl-Pools
+- Brunnen
 
-<sup>4</sup> Mobiliar:
+- Einfriedungen
 
-- 1\. Abwaschmaschinen (betriebliche)
-- 2\. Abwasserreinigungsanlagen (maschineller Teil)
-- 3\. Backöfen (betriebliche)
-- 4\. Brennöfen (betriebliche)
-- 5\. Brückenwaagen (maschineller Teil)
-- 6\. Dämpfer
-- 7\. Dampfkessel
-- 8\. Dampfmaschinen und ‑turbinen
-- 9\. EDV-Anlagen inkl. Kabel
-- 10\. Elektrische Maschinen (betriebliche)
-- 11\. Elektrokessel (betriebliche)
-- 12\. Entmistungsanlagen
-- 13\. Entstaubungsanlagen
-- 14\. Essen (maschineller Teil)
-- 15\. Futteraufzüge
-- 16\. Futterkocher
-- 17\. Futtersilo (mobiler Teil)
-- 18\. Gaskessel
-- 19\. Gattersägen
-- 20\. Gebläse
-- 21\. Geleiseanlagen
-- 22\. Glühöfen
-- 23\. Härteöfen
-- 24\. Hebebühnen
-- 25\. Heubelüftungsanlagen (maschineller Teil)
-- 26\. Heugebläse
-- 27\. Hurden(betriebliche)
-- 28\. Jauche- und Mistmaschinen
-- 29\. Käsekessi
-- 30\. Kehrichtverbrennungsanlagen (maschineller Teil)
-- 31\. Kegelbahnen (maschineller Teil)
-- 32\. Kläranlagen (maschineller Teil)
-- 33\. Kollergänge
-- 34\. Kompaktanlagen
-- 35\. Kraftwerke (maschineller Teil)
-- 36\. Krananlagen samt Geleisen
-- 37\. Kücheneinrichtungen (betriebliche, falls Mieter- oder Pächtereinbau)
-- 38\. Kühlanlagen (maschineller Teil)
-- 39\. Ladentische und ‑korpusse
-- 40\. Lichtreklamen
-- 41\. Mahlgänge
-- 42\. Melkapparate
-- 43\. Milchzentrifugen
-- 44\. Mischkästen
-- 45\. Motoren (ohne diejenigen, die dem Gebäude oder Gebäudebestandteil dienen)
-- 46\. Obstpressen
-- 47\. Pressen
-- 48\. Pumpen (betriebliche)
-- 49\. Reklametafeln
-- 50\. Reservoire (maschineller Teil)
-- 51\. Rohrpostanlagen
-- 52\. Rührwerke
-- 53\. Schaufenstereinrichtungen
-- 54\. Schmelzanlagen
-- 55\. Schmelzöfen
-- 56\. Silos (maschineller Teil)
-- 57\. Spänetransportanlagen
-- 58\. Spritzanlagen (maschineller Teil)
-- 59\. Telefonapparate, ‑zentralen
-- 60\. Tierhaltevorrichtungen
-- 61\. Transmissionen
-- 62\. Transportanlagen
-- 63\. Trocknereinrichtungen (betriebliche)
-- 64\. Trotten
-- 65\. Turbinen
-- 66\. Turmuhren
-- 67\. Uhrenanlagen (ohne Leitungen)
-- 68\. Waagen
-- 69\. Wagenhebeanlagen (maschineller Teil)
-- 70\. Wärmeschränke und ‑tische
-- 71\. Wellenböcke
-- 72\. Zähler
-- 73\. Ziegeleiöfen (maschineller Teil)
-- 74\. Zivilschutzausrüstungen (nicht technische)
+- Erdsonden und -register
 
-#### § A2-2
+- Fahnenstangen
 
-**Ergänzende Angaben**
+- Filterbrunnen
 
-<sup>1</sup> Technische Anlagen, zum Gebäude gehörend. Mit dem Gebäude versichert werden:
+- Hühnerhof
 
-- 1\. Gewerbe Produktion und Gastronomie
-  - a) Alarmanlage (falls das ganze Gebäude betreffend, nicht betriebsspezifisch)
-  - b) Brandmeldeanlagen
-  - c) Kühlzellen fest eingemauert
-  - d) Sprinkleranlagen
-- 2\. Landwirtschaft
-  - a) Entmistungsanlagen
-  - b) Silos, die innerhalb des Gebäude stehen
-- 3\. Seilbahnen
-  - a) Fahrzeuge (Bahn)
-  - b) Masten
-  - c) Steuerung
-  - d) Telefonleitungen
-  - e) Zug- und Tragseile
-- 4\. Wohnhäuser, Schulhäuser, Kirchen, Banken, Versicherungen
-  - a) Alarmanlagen
-  - b) Anbauten wie Garage, Velounterstand, Gartenhaus, Holzhütte, usw.
-  - c) Brandmeldeanlagen
-  - d) Pergolas
-  - e) Solaranlagen, zum Gebäude gehörend
-  - f) Sprinkleranlagen
-  - g) Tankanlagen von Heizungen, die ausserhalb vom Gebäude sind
-  - h) Wasseraufbereitungsanlage
-  - i) Wintergärten
+- Jauchebehälter und -gruben
 
-<sup>2</sup> Betriebliche Einrichtungen, zum Mobiliar gehörend. Als betriebsbedingte Einrichtungen werden u.a. mit dem Mobiliar versichert:
+- Keltertröge
 
-- 1\. Gewerbe Produktion
-  - a) Absauganlagen von Staub, Späne, Sägemehl, Dämpfen, usw.
-  - b) Aussenbeleuchtung freistehend
-  - c) Einbau von Spezialleitungen für Schweissanlagen / Pumpleitungen
-  - d) Einbrennkabinen (Automalerei)
-  - e) Fahnenstangen (Fahnenflaggen werden nicht versichert)
-  - f) Flüssigkeits-Tanke
-  - g) Förderbände / Rollanlagen
-  - h) Gestelle lose oder festmontiert
-  - i) Hobel- / Drechsler- / Mechanik-Tische
-  - j) Klimaanlagen
-  - k) Krananlagen jeglicher Art (Aufzüge Schienenkran)
-  - l) Laden-Empfangskorpusse
-  - m) Lüftungsanlage / Mono-Blöcke und Steuerung
-  - n) Maschinen, die zur Produktion dienen und fest mit dem Gebäude verbunden sind
-  - o) Reklametafeln
-  - p) Rolltreppen
-  - q) Solaranlagen, nicht zum Gebäude gehörend
-  - r) Sonnenstoren
-  - s) Spänsilo im Freien und deren Inhalt
-  - t) Stanz- und Biegemaschinen (Metallbranche)
-  - u) Warenlifte
-  - v) Wärmerückgewinnungsanlage
-- 2\. Gastronomie
-  - a) Absperrgitter und Umzäunung
-  - b) Aussenbeleuchtung freistehend (nicht direkt mit dem Gebäude verbunden)
-  - c) Bartheken
-  - d) Buffetanlage
-  - e) Fahnenstangen, freistehend oder am Gebäude festmontiert
-  - f) Gestelle festmontiert
-  - g) Hotelzimmerausbauten (nachträglich hineingestellte Duschboxen etc.)
-  - h) Kegelbahneinrichtungen
-  - i) Kücheneinrichtungen, sofern nicht mit dem Gebäude versichert
-  - j) Kühlaggregate
-  - k) Kühlcontainer
-  - l) Kühlzellen (Container System)
-  - m) Lüftungssysteme betriebsbedingte / Küche Restaurant getrennt
-  - n) Nasszellen im Baukastensystem
-  - o) Reklametafeln
-  - p) Sonnenstoren (Gartenrestaurant, Terrassen)
-  - q) Trennwände mobile
-  - r) Trocknungsanlagen
-- 3\. Landwirtschaft
-  - a) Computersteuerung für Fütterungsanlage
-  - b) Entlüftungsanlagen (je nach Mastbetrieb Computergesteuert)
-  - c) Entmistungsanlage
-  - d) Futtersilo mit Förderschnecke
-  - e) Gummimatten
-  - f) Heubelüftung
-  - g) Jaucherührwerke oder andere Rührwerke, die festmontiert sind
-  - h) Krananlagen fest mit Stall verbunden
-  - i) Legehennen-Einrichtungen / Freilaufgehege
-  - j) Melkanlage mit Milchabsaugeanlage
-  - k) Milchtankanlagen
-  - l) Selbsttränke-Einrichtung inkl. Leitungsnetz
-  - m) Silo im Freien
-  - n) Tierhaltevorrichtungen
-  - o) Umzäunung bei Freilaufställe
+- Klärbecken
 
-<sup>3</sup> Kirchen und Kapellen:
+- Mistgruben
 
-- 1\. Folgende protokollierte Werte werden als Unterposition mit dem Gebäude erfasst:
-  - a) Altare
-  - b) Beichtstühle
-  - c) Figuren
-  - d) Kanzel
-  - e) Malereien (Wand und Decke)
-  - f) Tabernakel
-- 2\. Folgende Anlagen und Einrichtungen werden im Mobiliar aufgenommen:
-  - a) Ambo
-  - b) Lautsprecheranlagen
-  - c) Lüftungs- und Klimaanlage
-  - d) Glocken / Glockenstuhl
-  - e) Orgel
-  - f) Taufsteine/Weihwasserbecken
-  - g) Sakrale (Monstranzen, Baldachine)
-  - h) Schriftenstand
+- Pavillons
 
-A 2018, 2146
+- Pergolas
+
+- Schwimmbäder
+
+- Senkgruben
+
+- Silos
+
+- Sonnenkollektoren
+
+- Tanks jeder Art samt Leitungen und Wannen (betriebliche)
+
+- Treibhäuser
+
+- Treppen
+
+- Veloständer
+
+- Volieren
+
+- Wärmepumpen
+
+- Wasser- und Energieleitungen
+
+- Zisternen
+
+3.
+
+Den künstlerischen oder historischen Wert von Gebäuden und Gebäudeteilen (protokollierter Wert).
+
+4.
+
+Bauliche Anlagen ausserhalb des versicherten Gebäudes, die vorwiegend dem Elementarschadenrisiko ausgesetzt sind, wie z.B.
+
+- Boots- und andere Stege
+
+- Brücken
+
+- Einfahrten
+
+- Fundamente
+
+- Kanäle
+
+- Rampen
+
+- Sonnenkollektoren freistehend
+
+- Stützmauern
+
+- Terrassen
+
+- Trottoirs
+
+- Tunnels
+
+5.
+
+Nebensachen teilen im Zweifelsfall das Schicksal der Hauptsache.
+
+### ANHANG 2
+
+### Abgrenzung Gebäude / Mobiliar
+
+### I. Anwendungsbeispiele allgemein
+
+Abweichungen werden in der Police oder in der Gebäudeschätzung festgehalten.
+
+### 1. Gebäudebestandteile
+
+- Abwasserreinigungsanlagen (ohne betriebliche)
+
+- Antennen (nur solche, die dem Gebäudeeigentümer gehören)
+
+- Aufzüge
+
+- Beleuchtungskörper (ohne betriebliche sowie ohne Leuchtmittel)
+
+- Blitzschutzanlagen
+
+- Bodenbeläge
+
+- Boiler (ohne betriebliche)
+
+- Brandmeldeanlagen
+
+- Briefkästen (ohne freistehende)
+
+- Brückenwaagen (baulicher Teil)
+
+- Dekorationsmalereien
+
+- Druck- und Vakuumleitungen (ohne betriebliche)
+
+- Elektrische Leitungen (ohne betriebliche)
+
+- Elektrische Maschinen (zur baulichen Einrichtung gehörend)
+
+- Essen (baulicher Teil)
+
+- Futtersilo (baulicher Teil)
+
+- Heizanlagen (ohne betriebliche)
+
+- Heubelüftungsanlagen (baulicher Teil)
+
+- Jauche-·und Mistgruben (mit dem Gebäude verbunden)
+
+- Kegelbahnen (baulicher Teil)
+
+- Kläranlagen (baulicher Teil)
+
+- Klimaanlagen (ohne betriebliche)
+
+- Kraftwerke (baulicher Teil)
+
+- Kücheneinrichtungen (wie Kochherde, Küchenschränke, Kühlschränke, Tiefkühltruhen, Waschmaschinen aller Art; für Restaurant-, Hotel- und weitere betriebliche Küchen siehe Ziff. 2)
+
+- Kühlanlagen (ohne betriebliche)
+
+- Kehrichtverbrennungsanlagen (baulicher Teil)
+
+- Pumpen (der Raumheizung oder der Wasserversorgung dienende)
+
+- Reklameschriften (eingehauen, eingemauert oder aufgemalt)
+
+- Reservoire (baulicher Teil)
+
+- Rolltreppen
+
+- Sanitärinstallationen (ohne betriebliche)
+
+- Schalttableaux (ohne betriebliche)
+
+- Schaufenster, -kästen Scheibenstände (ohne Scheiben und ohne Transportanlagen)
+
+- Silos (baulicher Teil)
+
+- Spannteppiche
+
+- Sprinkleranlagen
+
+- Storen (samt Stoff)
+
+- Tankgruben und -keller
+
+- Tanke einschliesslich Wannen (ohne betriebliche)
+
+- Telefonleitungen
+
+- Trocknereinrichtungen (baulicher Teil)
+
+- Turbinenschächte
+
+- Umwälzpumpen
+
+- Ventilationsanlagen (ohne betriebliche)
+
+- Vorfenster (auch ausgehängte)
+
+- Wagenhebeanlagen (baulicher Teil)
+
+- Wäscheeinrichtungen (ohne betriebliche)
+
+- Wasserenthärtungsanlagen (ohne betriebliche)
+
+- Ziegeleiöfen (baulicher Teil)
+
+- Zivilschutzanlagen (inkl. technische Ausrüstungen)
+
+- 2\. Bauliche Einrichtungen (vgl. Reglement § 17 Abs. 1
+
+### Ziff. 2), falls nicht Mieter- oder Pächtereinbau
+
+- Alarmanlagen
+
+- Anpassungsrampen
+
+- Anschlagkästen
+
+- Ausstellungskästen
+
+- Bänke
+
+- Behälter (ohne betriebliche)
+
+- Bestuhlungen
+
+- Buffets
+
+- Bühnen
+
+- Fasslager
+
+- Garderoben
+
+- Gegensprechanlagen
+
+- Gestelle
+
+- Hotelküchen
+
+- Kabelkanäle (ohne betriebliche)
+
+- Kapellen in Labors
+
+- Kassenschränke
+
+- Labortische
+
+- Lautsprecheranlagen
+
+- Podien
+
+- Rauchkammern
+
+- Restaurantküchen
+
+- Sackrutschen
+
+- Sauna-Einrichtungen
+
+- Sirenen
+
+- Spritzanlagen
+
+- Stellwände
+
+- Telefonkabinen
+
+- Theken
+
+- Tresen
+
+- Tresore
+
+- Wandtafeln
+
+- Wasseraufbereitungsanlagen (ohne betriebliche)
+
+- Werktische
+
+- Whirl-Pools
+
+- 3\. Mobiliar
+
+- Abwaschmaschinen (betriebliche)
+
+- Abwasserreinigungsanlagen (maschineller Teil)
+
+- Backöfen (betriebliche)
+
+- Brennöfen (betriebliche)
+
+- Brückenwaagen (maschineller Teil)
+
+- Dämpfer
+
+- Dampfkessel
+
+- Dampfmaschinen und -turbinen
+
+- EDV-Anlagen inkl. Kabel
+
+- Elektrische Maschinen (betriebliche)
+
+- Elektrokessel (betriebliche)
+
+- Entmistungsanlagen
+
+- Entstaubungsanlagen
+
+- Essen (maschineller Teil)
+
+- Futteraufzüge
+
+- Futterkocher
+
+- Futtersilo (mobiler Teil)
+
+- Gaskessel
+
+- Gattersägen
+
+- Gebläse
+
+- Geleiseanlagen
+
+- Glühöfen
+
+- Härteöfen
+
+- Hebebühnen
+
+- Heubelüftungsanlagen (maschineller Teil)
+
+- Heugebläse
+
+- Hurden(betriebliche)
+
+- Jauche- und Mistmaschinen
+
+- Käsekessi
+
+- Kehrichtverbrennungsanlagen (maschineller Teil)
+
+- Kegelbahnen (maschineller Teil)
+
+- Kläranlagen (maschineller Teil)
+
+- Kollergänge
+
+- Kompaktanlagen
+
+- Kraftwerke (maschineller Teil)
+
+- Krananlagen samt Geleisen
+
+- Kücheneinrichtungen (betriebliche, falls Mieter- oder Pächtereinbau)
+
+- Kühlanlagen (maschineller Teil)
+
+- Ladentische und·-korpusse
+
+- Lichtreklamen
+
+- Mahlgänge
+
+- Melkapparate
+
+- Milchzentrifugen
+
+- Mischkästen
+
+- Motoren (ohne diejenigen, die dem Gebäude oder Gebäudebestandteil dienen)
+
+- Obstpressen
+
+- Pressen
+
+- Pumpen (betriebliche)
+
+- Reklametafeln
+
+- Reservoire (maschineller Teil)
+
+- Rohrpostanlagen
+
+- Rührwerke
+
+- Schaufenstereinrichtungen
+
+- Schmelzanlagen
+
+- Schmelzöfen
+
+- Silos (maschineller Teil)
+
+- Spänetransportanlagen
+
+- Spritzanlagen (maschineller Teil)
+
+- Telefonapparate, -zentralen
+
+- Tierhaltevorrichtungen
+
+- Transmissionen
+
+- Transportanlagen
+
+- Trocknereinrichtungen (betriebliche)
+
+- Trotten
+
+- Turbinen
+
+- Turmuhren
+
+- Uhrenanlagen (ohne Leitungen)
+
+- Waagen
+
+- Wagenhebeanlagen (maschineller Teil)
+
+- Wärmeschränke und·-tische
+
+- Wellenböcke
+
+- Zähler
+
+- Ziegeleiöfen (maschineller Teil)
+
+- Zivilschutzausrüstungen (nicht technische)
+
+### II. Ergänzende Angaben
+
+### 1. Technische Anlagen, zum Gebäude gehörend
+
+Mit dem Gebäude versichert werden:
+
+### 1.1 Gewerbe Produktion und Gastronomie
+
+- Alarmanlage (falls das ganze Gebäude betreffend, nicht betriebsspezifisch)
+
+- Brandmeldeanlagen
+
+- Kühlzellen fest eingemauert
+
+- Sprinkleranlagen
+
+### 1.2 Landwirtschaft
+
+- Entmistungsanlagen
+
+- Silos, die innerhalb des Gebäude stehen
+
+### 1.3 Seilbahnen
+
+- Fahrzeuge (Bahn)
+
+- Masten
+
+- Steuerung
+
+- Telefonleitungen
+
+- Zug- und Tragseile
+
+### 1.4 Wohnhäuser, Schulhäuser, Kirchen, Banken, Versiche-
+
+rungen
+
+- Alarmanlagen
+
+- Anbauten wie Garage, Velounterstand, Gartenhaus, Holzhütte, usw.
+
+- Brandmeldeanlagen
+
+- Pergolas
+
+- Solaranlagen, zum Gebäude gehörend
+
+- Sprinkleranlagen
+
+- Tankanlagen von Heizungen, die ausserhalb vom Gebäude sind
+
+- Wasseraufbereitungsanlage
+
+- Wintergärten
+
+- 2\. Betriebliche Einrichtungen, zum Mobiliar gehörend Als betriebsbedingte Einrichtungen werden u.a. mit dem Mobiliar versichert:
+
+### 2.1 Gewerbe Produktion
+
+- Absauganlagen von Staub, Späne, Sägemehl, Dämpfen, usw.
+
+- Aussenbeleuchtung freistehend
+
+- Einbau von Spezialleitungen für Schweissanlagen / Pumpleitungen
+
+- Einbrennkabinen (Automalerei)
+
+- Fahnenstangen (Fahnenflaggen werden nicht versichert)
+
+- Flüssigkeits-Tanke
+
+- Förderbände / Rollanlagen
+
+- Gestelle lose oder festmontiert
+
+- Hobel- / Drechsler- / Mechanik-Tische
+
+- Klimaanlagen
+
+- Krananlagen jeglicher Art (Aufzüge Schienenkran)
+
+- Laden-Empfangskorpusse
+
+- Lüftungsanlage / Mono-Blöcke und Steuerung
+
+- Maschinen, die zur Produktion dienen und fest mit dem Gebäude verbunden sind
+
+- Reklametafeln
+
+- Rolltreppen
+
+- Solaranlagen, nicht zum Gebäude gehörend
+
+- Sonnenstoren
+
+- Spänsilo im Freien und deren Inhalt
+
+- Stanz- und Biegemaschinen (Metallbranche)
+
+- Warenlifte
+
+- Wärmerückgewinnungsanlage
+
+### 2.2 Gastronomie
+
+- Absperrgitter und Umzäunung
+
+- Aussenbeleuchtung freistehend (nicht direkt mit dem Gebäude verbunden)
+
+- Bartheken
+
+- Buffetanlage
+
+- Fahnenstangen, freistehend oder am Gebäude festmontiert
+
+- Gestelle festmontiert
+
+- Hotelzimmerausbauten (nachträglich hineingestellte Duschboxen etc.)
+
+- Kegelbahneinrichtungen
+
+- Kücheneinrichtungen, sofern nicht mit dem Gebäude versichert
+
+- Kühlaggregate
+
+- Kühlcontainer
+
+- Kühlzellen (Container System)
+
+- Lüftungssysteme betriebsbedingte / Küche Restaurant getrennt
+
+- Nasszellen im Baukastensystem
+
+- Reklametafeln
+
+- Sonnenstoren (Gartenrestaurant, Terrassen)
+
+- Trennwände mobile
+
+- Trocknungsanlagen
+
+### 2.3 Landwirtschaft
+
+- Computersteuerung für Fütterungsanlage
+
+- Entlüftungsanlagen (je nach Mastbetrieb Computergesteuert)
+
+- Entmistungsanlage
+
+- Futtersilo mit Förderschnecke
+
+- Gummimatten
+
+- Heubelüftung
+
+- Jaucherührwerke oder andere Rührwerke, die festmontiert sind
+
+- Krananlagen fest mit Stall verbunden
+
+- Legehennen-Einrichtungen / Freilaufgehege
+
+- Melkanlage mit Milchabsaugeanlage
+
+- Milchtankanlagen
+
+- Selbsttränke-Einrichtung inkl. Leitungsnetz
+
+- Silo im Freien
+
+- Tierhaltevorrichtungen
+
+- Umzäunung bei Freilaufställe
+
+- 3\. Kirchen und Kapellen
+
+### 3.1
+
+Folgende protokollierte Werte werden als Unterposition mit dem Gebäude erfasst:
+
+- Altare
+
+- Beichtstühle
+
+- Figuren
+
+- Kanzel
+
+- Malereien (Wand und Decke)
+
+- Tabernakel
+
+### 3.2
+
+Folgende Anlagen und Einrichtungen werden im Mobiliar aufgenommen:
+
+- Ambo
+
+- Bänke
+
+- Lautsprecheranlagen
+
+- Lüftungs- und Klimaanlage
+
+- Glocken / Glockenstuhl
+
+- Orgel
+
+- Taufsteine/Weihwasserbecken
+
+- Sakrale (Monstranzen, Baldachine)
+
+- Schriftenstand
