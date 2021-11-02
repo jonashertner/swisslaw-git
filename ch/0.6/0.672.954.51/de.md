@@ -3,11 +3,11 @@ sr: "0.672.954.51"
 title: Abkommen vom 25. Februar 2011 zwischen der Schweizerischen Eidgenossenschaft und Malta zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/481"
 language: de
-version: 2012-07-06
+version: 2021-11-03
 adopted: 2011-02-25
 in_force: 2012-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/481/20120706/de/xml/fedlex-data-admin-ch-eli-cc-2012-481-20120706-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/481/20120706/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/481/20211103/de/xml/fedlex-data-admin-ch-eli-cc-2012-481-20211103-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/481/20211103/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 16. März 2012[^t-1]
 
 In Kraft getreten durch Notenaustausch am 6. Juli 2012
 
-(Stand am 6. Juli 2012)
+(Stand am 3. November 2021)
 
 [^t-1]: [AS 2012 4107](https://fedlex.data.admin.ch/eli/oc/2012/480)
 
@@ -32,7 +32,13 @@ Der Schweizerische Bundesrat und die Regierung von Malta,
 
 vom Wunsch geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen abzuschliessen,
 
-haben Folgendes vereinbart:
+vom Wunsch geleitet, ihre wirtschaftlichen Beziehungen weiterzuentwickeln und die Zusammenarbeit in steuerlichen Angelegenheiten zu vertiefen,
+
+in der Absicht, in Bezug auf die Steuern vom Einkommen eine Doppelbesteuerung zu beseitigen, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten ansässigen Personen) zu schaffen,
+
+haben Folgendes vereinbart:*[^ingress-1]*
+
+[^ingress-1]: Fassung gemäss Art. I des Prot. vom 16. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [BBl 2020 9377](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
 
 #### Art. 1
 
@@ -174,7 +180,12 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 <sup>6.</sup> Bei der Anwendung der vorstehenden Absätze sind die der Betriebsstätte zuzurechnenden Gewinne jedes Jahr auf dieselbe Art zu ermitteln, es sei denn, dass ausreichende Gründe dafür bestehen, anders zu verfahren.
 
-<sup>7.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.
+<sup>7.</sup> Ein Vertragsstaat darf keine Berichtigung der Gewinne, die einer Betriebsstätte eines Unternehmens eines der Vertragsstaaten zugerechnet werden können, nach Ablauf von fünf Jahren ab dem Ende des Steuerjahres vornehmen, in dem die Gewinne der Betriebsstätte hätten zugerechnet werden können. Dieser Absatz ist nicht anzuwenden im Fall von Betrug, grober Fahrlässigkeit oder vorsätzlicher Unterlassung.[^7-1]
+
+<sup>8.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.[^7-2]
+
+[^7-1]: Eingefügt durch Art. II des Prot. vom 16. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [BBl 2020 9377](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
+[^7-2]: Ursprünglich Abs. 7.
 
 #### Art. 8
 
@@ -190,14 +201,19 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 **Verbundene Unternehmen**
 
-<sup>1.</sup> Wenn
+<sup>1.</sup> und in diesen Fällen beide Unternehmen in ihren kaufmännischen oder finanziellen Beziehungen an vereinbarte oder auferlegte Bedingungen gebunden sind, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so können die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
 
-und in diesen Fällen beide Unternehmen in ihren kaufmännischen oder finanziellen Beziehungen an vereinbarte oder auferlegte Bedingungen gebunden sind, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so können die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
+Wenn:
 
-- a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist, oder
-- b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind
+- a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist; oder
+- b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind;
 
-<sup>2.</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat, sofern er darin übereinstimmt, dass die vom erstgenannten Staat vorgenommene Aufrechnung sowohl vom Grundsatz als auch im Ausmass gerechtfertigt ist, eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; soweit erforderlich, werden sich die zuständigen Behörden der Vertragsstaaten konsultieren.
+<sup>2.</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; soweit erforderlich, konsultieren sich die zuständigen Behörden der Vertragsstaaten.[^9-1]
+
+<sup>3.</sup> Ein Vertragsstaat darf nach Ablauf von fünf Jahren ab dem Ende des Steuerjahres, in dem ein Unternehmen die Gewinne erzielt hätte, den Gewinnen des Unternehmens keine Gewinne zurechnen und entsprechend besteuern, die das Unternehmen erzielt hätte, aufgrund der in Absatz 1 genannten Bedingungen jedoch nicht erzielt hat. Dieser Absatz ist nicht anzuwenden im Fall von Betrug, grober Fahrlässigkeit oder vorsätzlicher Unterlassung.[^9-2]
+
+[^9-1]: Fassung gemäss Art. III Ziff. 1 des Prot. vom 16. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [BBl 2020 9377](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
+[^9-2]: Eingefügt durch Art. III Ziff. 2 des Prot. vom 16. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [BBl 2020 9377](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
 
 #### Art. 10
 
@@ -387,9 +403,11 @@ In der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 #### Art. 23
 
-**Missbrauchsbestimmung**
+**Anspruch auf Vorteile**[^23-1]
 
-Ungeachtet der Bestimmungen dieses Abkommens wird keine in diesem Abkommen vorgesehene Verminderung oder Ausnahme von der Besteuerung gewährt, wenn eine rein künstliche Gestaltung vorliegt. Eine Gestaltung gilt nicht als rein künstlich, wenn sie einer wirtschaftlichen Realität entspricht, welche sich insbesondere in einer Geschäfts- oder Managementtätigkeit widerspiegelt. Die Anwendung der Artikel 24 (Nicht-Diskriminierung), 25 (Verständigungsverfahren) und 26 (Informationsaustausch) wird durch diese Bestimmung nicht beeinträchtigt.
+Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen nicht für bestimmte Einkünfte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+[^23-1]: Fassung gemäss Art. IV des Prot. vom 16. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [BBl 2020 9377](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
 
 #### Art. 24
 
@@ -409,13 +427,15 @@ Ungeachtet der Bestimmungen dieses Abkommens wird keine in diesem Abkommen vorge
 
 **Verständigungsverfahren**
 
-<sup>1.</sup> Ist eine Person der Auffassung, dass Massnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie unbeschadet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde des Vertragsstaats, in dem sie ansässig ist, oder, sofern ihr Fall von Artikel 24 Absatz 1 erfasst wird, der zuständigen Behörde des Vertragsstaats unterbreiten, dessen Staatsangehöriger sie ist. Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Massnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
+<sup>1.</sup> Ist eine Person der Auffassung, dass die Massnahmen eines oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie ungeachtet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel den Fall der zuständigen Behörde eines der beiden Vertragsstaaten unterbreiten.[^25-1] Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Massnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
 
 <sup>2.</sup> Hält die zuständige Behörde die Einwendung für begründet und ist sie selbst nicht in der Lage, eine befriedigende Lösung herbeizuführen, so bemüht sie sich, den Fall durch Verständigung mit der zuständigen Behörde des anderen Vertragsstaats so zu regeln, dass eine dem Abkommen nicht entsprechende Besteuerung vermieden wird.
 
 <sup>3.</sup> Die zuständigen Behörden der Vertragsstaaten bemühen sich, Schwierigkeiten oder Zweifel, die bei der Auslegung oder Anwendung des Abkommens entstehen, in gegenseitigem Einvernehmen zu beseitigen. Sie können auch gemeinsam darüber beraten, wie eine Doppelbesteuerung in Fällen vermieden werden kann, die im Abkommen nicht behandelt sind.
 
 <sup>4.</sup> Die zuständigen Behörden der Vertragsstaaten können zur Herbeiführung einer Einigung im Sinne der vorstehenden Absätze unmittelbar miteinander verkehren und sich auch in einer gemeinsamen Kommission, in der sie selbst oder ihre Vertreter Einsitz nehmen, beraten.
+
+[^25-1]: Fassung gemäss Art. V des Prot. vom 16. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [BBl 2020 9377](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
 
 #### Art. 26
 
@@ -468,7 +488,7 @@ Die Bestimmungen dieses Abkommens finden Anwendung:
 
 <sup>3.</sup> Der Briefwechsel vom 30. März 1987[^28-1] zwischen der Regierung der Republik Malta und dem Schweizerischen Bundesrat zur Vermeidung der Doppelbesteuerung von Einkünften aus dem Betrieb der Luftfahrt ist nicht mehr anwendbar ab dem Zeitpunkt an welchem dieses Abkommen Anwendung findet.
 
-[^28-1]: [AS 1987 777](https://fedlex.data.admin.ch/eli/oc/1987/777_777_777)
+[^28-1]: [[AS 1987 777](https://fedlex.data.admin.ch/eli/oc/1987/777_777_777)]
 
 #### Art. 29
 
@@ -481,7 +501,18 @@ Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekün
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Rom am 25. Februar 2011 im Doppel in französischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Für den Schweizerischen Bundesrat: Bernardino Regazzoni Für die Regierung von Malta: Leslie Agius
 
-Protokoll
+Art. VI Ziff. 2 und 3 des Prot. vom 16. Juli 2020**[^t-2]**
+
+\2. Das Protokoll tritt am Tag des Eingangs der späteren dieser beiden Notifikationen in Kraft, und seine Bestimmungen finden Anwendung:
+
+- a) hinsichtlich der an der Quelle erhobenen Steuern auf Einkünfte, die am oder nach dem 1. Januar des auf das Inkrafttreten dieses Protokolls folgenden Kalenderjahres gezahlt oder gutgeschrieben werden;
+- b) hinsichtlich der übrigen Steuern auf Steuerjahre, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahres beginnen.
+
+\3. Ungeachtet der Bestimmungen von Absatz 2 finden die in den Artikeln II und III Absatz 2 dieses Protokolls vorgesehenen Änderungen vom Tag des Inkrafttretens dieses Protokolls an Anwendung ohne Berücksichtigung der Steuerperiode, auf die sich die Sache bezieht.
+
+## Protokoll
+
+[^t-2]: [AS 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [BBl 2020 9377](https://fedlex.data.admin.ch/eli/fga/2020/2551)
 
 Die Schweizerische Eidgenossenschaft und Malta
 
@@ -543,20 +574,21 @@ Geschehen zu Rom am 25. Februar 2011 im Doppel in französischer und englischer 
 <tr><td>Für den Schweizerischen Bundesrat: Bernardino Regazzoni</td><td>Für die Regierung von Malta: Leslie Agius</td></tr>
 </table>
 
-Übersetzung*[^t-2]*
+Übersetzung*[^annexu1-lvlu2-1]*
+
+[^annexu1-lvlu2-1]: Übersetzung des englischen Originaltexts.
 
 ## Verständigungsvereinbarung**** betreffend die Auslegung von Ziffer 5 Buchstabe b des Protokolls zum Abkommen vom 25. Februar 2011 zwischen der Schweizerischen Eidgenossenschaft und Malta zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen
 
-[^annexu1-lvlu2-1]
+[^annexu1-lvlu3-1]
 
-[^t-2]: Übersetzung des englischen Originaltexts.
-[^annexu1-lvlu2-1]: [AS 2012 5787](https://fedlex.data.admin.ch/eli/oc/2012/669)
+[^annexu1-lvlu3-1]: [AS 2012 5787](https://fedlex.data.admin.ch/eli/oc/2012/669)
 
 Abgeschlossen am 30. Juni 2012
 
 In Kraft getreten am 6. Juli 2012
 
-Die zuständigen Behörden der Schweizerischen Eidgenossenschaft und Malta haben die folgende Verständigungsvereinbarung abgeschlossen betreffend die Auslegung von Ziffer 5 Buchstabe b des Protokolls (nachfolgend «Protokoll») zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und Malta zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen (nachfolgend «Abkommen»), unterzeichnet am 25. Februar 2011[^annexu1-lvlu2-2] in Rom:
+Die zuständigen Behörden der Schweizerischen Eidgenossenschaft und Malta haben die folgende Verständigungsvereinbarung abgeschlossen betreffend die Auslegung von Ziffer 5 Buchstabe b des Protokolls (nachfolgend «Protokoll») zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und Malta zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen (nachfolgend «Abkommen»), unterzeichnet am 25. Februar 2011[^annexu1-lvlu3-2] in Rom:
 
 Ziffer 5 Buchstabe b des Protokolls legt die Informationen fest, die die zuständige Behörde des ersuchenden Staats der zuständigen Behörde des ersuchten Staats zu übermitteln hat, wenn sie Auskünfte nach Artikel 26 des Abkommens verlangt. Nach dieser Bestimmung muss der ersuchende Staat unter anderem (i) den Namen und die Adresse der in eine Untersuchung oder Überprüfung einbezogenen Person(en) und, sofern verfügbar, weitere Angaben zur Identifikation dieser Person(en) wie Geburtsdatum, Zivilstand oder Steuernummer sowie (v) den Namen und die Adresse des mutmasslichen Inhabers der verlangten Informationen übermitteln. Buchstabe c hält fest, dass Buchstabe b wichtige verfahrenstechnische Anforderungen enthält, die «fishing expeditions» vermeiden sollen, diese Anforderungen aber so auszulegen sind, dass sie einen wirksamen Informationsaustausch nicht behindern.
 
@@ -573,4 +605,4 @@ Mit den Unterschriften von beiden zuständigen Behörden ist diese Verständigun
 <tr><td>Geschehen zu Bern am 28. Juni 2012 Für die zuständige Behörde der Schweizerischen Eidgenossenschaft: Jürg Giraudi Staatssekretariat für internationale Finanzfragen SIF</td><td>Geschehen zu La Valetta am 30. Juni 2012 Für die zuständige Behörde von Malta: Aldo Farrugia Abteilung Internationale Besteuerung Steuerdepartement</td></tr>
 </table>
 
-[^annexu1-lvlu2-2]: [SR 0.672.954.51](https://fedlex.data.admin.ch/eli/cc/2012/481)
+[^annexu1-lvlu3-2]: [SR 0.672.954.51](https://fedlex.data.admin.ch/eli/cc/2012/481)

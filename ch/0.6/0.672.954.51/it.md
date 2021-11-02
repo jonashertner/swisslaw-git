@@ -3,11 +3,11 @@ sr: "0.672.954.51"
 title: Convenzione del 25 febbraio 2011 tra la Confederazione Svizzera e Malta per evitare le doppie imposizioni in materia di imposte sul reddito (con Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/481"
 language: it
-version: 2012-07-06
+version: 2021-11-03
 adopted: 2011-02-25
 in_force: 2012-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/481/20120706/it/xml/fedlex-data-admin-ch-eli-cc-2012-481-20120706-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/481/20120706/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/481/20211103/it/xml/fedlex-data-admin-ch-eli-cc-2012-481-20211103-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/481/20211103/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,24 +16,29 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/481/20120706/it"
 
 RU **2012** 4109; FF **2011** 6181
 
-Traduzione*[^t-1]*
+Traduzione
 
 Conclusa il 25 febbraio 2011
 
-Approvata dall’Assemblea federale il 16 marzo 2012[^t-2]
+Approvata dall’Assemblea federale il 16 marzo 2012[^t-1]
 
 Entrata in vigore mediante scambio di note il 6 luglio 2012
 
-(Stato 6 luglio 2012)
+(Stato 3 novembre 2021)
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: [RU 2012 4107](https://fedlex.data.admin.ch/eli/oc/2012/480)
+[^t-1]: [RU 2012 4107](https://fedlex.data.admin.ch/eli/oc/2012/480)
 
 Il Consiglio federale svizzero e il Governo di Malta,
 
-animati dal desiderio di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito,
+desiderosi di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito;
 
-hanno convenuto quanto segue:
+desiderosi di sviluppare ulteriormente le loro relazioni economiche e di migliorare la cooperazione in materia fiscale;
+
+nell’intento di eliminare la doppia imposizione in materia di imposte sul reddito, senza creare opportunità di non imposizione o di ridotta imposizione attraverso l’evasione o l’elusione fiscale (incluse le strategie di abuso dei trattati fiscali («treaty-shopping») finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti di Stati terzi),
+
+hanno convenuto quanto segue:*[^ingress-1]*
+
+[^ingress-1]: Nuovo testo giusta l’art. I del Prot. del 16 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [FF 2020 8207](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
 
 #### Art. 1
 
@@ -176,7 +181,12 @@ Nonostante le precedenti disposizioni del presente articolo non si considera che
 
 <sup>6.</sup> Ai fini dell’applicazione dei paragrafi precedenti, gli utili da attribuire alla stabile organizzazione sono determinati ogni anno con lo stesso metodo, a meno che non esistano validi e sufficienti motivi per procedere diversamente.
 
-<sup>7.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.
+<sup>7.</sup> Uno Stato contraente non può eseguire una rettifica degli utili attribuibili a una stabile organizzazione di un’impresa di uno Stato contraente decorsi cinque anni dalla fine dell’esercizio fiscale in cui gli utili sarebbero stati attribuibili alla stabile organizzazione. Le disposizioni del presente paragrafo non sono applicabili in caso di frode, negligenza grave od omissione volontaria.[^7-1]
+
+<sup>8.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.[^7-2]
+
+[^7-1]: Introdotto dall’art. II del Prot. del 16 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [FF 2020 8207](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
+[^7-2]: Originario par. 7.
 
 #### Art. 8
 
@@ -184,7 +194,7 @@ Nonostante le precedenti disposizioni del presente articolo non si considera che
 
 <sup>1.</sup> Gli utili di un’impresa di uno Stato contraente derivanti dall’esercizio, in traffico internazionale, di navi o di aeromobili sono imponibili soltanto in questo Stato contraente.
 
-<sup>2.</sup> Le disposizioni del paragrafo 1 si applicano parimenti agli utili derivanti dalla partecipazione a un fondo comune («pool»), a un esercizio in comune o a un organismo internazionale di esercizio.»
+<sup>2.</sup> Le disposizioni del paragrafo 1 si applicano parimenti agli utili derivanti dalla partecipazione a un fondo comune («pool»), a un esercizio in comune o a un organismo internazionale di esercizio.
 
 #### Art. 9
 
@@ -195,9 +205,14 @@ Nonostante le precedenti disposizioni del presente articolo non si considera che
 Se:
 
 - a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente; o
-- b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente;
+- b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente,
 
-<sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di questo Stato contraente, e tassa di conseguenza, gli utili sui quali un’impresa dell’altro Stato contraente è stata tassata in quest’altro Stato e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, l’altro Stato procede a un adeguato aggiustamento dell’ammontare d’imposta prelevato su detti utili, se condivide che l’aggiustamento effettuato dal primo Stato contraente sia giustificato quanto a principio e ammontare. Per determinare questo aggiustamento occorre tener conto delle altre disposizioni della presente Convenzione; se necessario, le autorità competenti degli Stati contraenti potranno consultarsi.
+<sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di detto Stato, e tassa di conseguenza, utili sui quali un’impresa dell’altro Stato contraente è stata tassata in detto altro Stato e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, l’altro Stato procede a una rettifica appropriata dell’ammontare d’imposta prelevato su questi utili. Per determinare questa rettifica occorre tener conto delle altre disposizioni della presente Convenzione; se necessario, le autorità competenti degli Stati contraenti si consultano.[^9-1]
+
+<sup>3.</sup> Uno Stato contraente non può includere negli utili di un’impresa, e tassare di conseguenza, utili che sarebbero stati conseguiti da detta impresa ma che non lo sono stati a motivo delle condizioni indicate nel paragrafo 1 decorsi cinque anni dalla fine dell’esercizio fiscale in cui gli utili sarebbero stati conseguiti dall’impresa. Le disposizioni del presente paragrafo non sono applicabili in caso di frode, negligenza grave od omissione volontaria.[^9-2]
+
+[^9-1]: Nuovo testo giusta l’art. III par. 1 del Prot. del 16 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [FF 2020 8207](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
+[^9-2]: Introdotto dall’art. III par. 2 del Prot. del 16 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [FF 2020 8207](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
 
 #### Art. 10
 
@@ -387,9 +402,11 @@ Per quanto concerne la Svizzera, la doppia imposizione è evitata nel modo segue
 
 #### Art. 23
 
-**Prevenzione dell’impiego abusivo della convenzione**
+**Diritto ai benefici**[^23-1]
 
-Indipendentemente dalle disposizioni della presente Convenzione, nessuna riduzione o esenzione d’imposta prevista nella Convenzione può essere applicata a redditi pagati in virtù di una struttura puramente artificiale. Una struttura non è considerata puramente artificiale se corrisponde a una realtà economica svolta in particolare attraverso un’attività industriale, commerciale o di gestione. Questa disposizione non ostacola l’applicazione degli articoli 24 (Non discriminazione), 25 (Procedura amichevole) e 26 (Scambio di informazioni) della Convenzione.
+Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito, se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che sia stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+[^23-1]: Nuovo testo giusta l’art. IV del Prot. del 16 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [FF 2020 8207](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
 
 #### Art. 24
 
@@ -409,13 +426,15 @@ Indipendentemente dalle disposizioni della presente Convenzione, nessuna riduzio
 
 **Procedura amichevole**
 
-<sup>1.</sup> Se ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lei un’imposizione non conforme alla presente Convenzione, una persona può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di tali Stati, sottoporre il suo caso all’autorità competente dello Stato contraente di cui è residente o, se il suo caso ricade nell’ambito di applicazione del paragrafo 1 dell’articolo 24, a quella dello Stato contraente di cui possiede la cittadinanza. Il caso deve essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
+<sup>1.</sup> Se ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lei un’imposizione non conforme alle disposizioni della presente Convenzione, una persona può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di detti Stati, sottoporre il caso all’autorità competente di uno dei due Stati contraenti.[^25-1] Il caso deve essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
 
 <sup>2.</sup> Se il reclamo le appare fondato e se non è in grado di giungere ad una soluzione soddisfacente, l’autorità competente si adopera per regolare il caso per via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare un’imposizione non conforme alla Convenzione.
 
 <sup>3.</sup> Le autorità competenti degli Stati contraenti si adoperano per risolvere in via di amichevole composizione le difficoltà o i dubbi inerenti all’interpretazione o all’applicazione della Convenzione. Esse potranno altresì consultarsi al fine di eliminare la doppia imposizione nei casi non previsti dalla Convenzione.
 
 <sup>4.</sup> Le autorità competenti degli Stati contraenti possono conferire direttamente fra loro per giungere a un accordo ai sensi dei paragrafi precedenti e procedere anche a un colloquio nell’ambito di una commissione comune composta da esse stesse o da loro rappresentanti.
+
+[^25-1]: Nuovo testo giusta l’art. V del Prot. del 16 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [FF 2020 8207](https://fedlex.data.admin.ch/eli/fga/2020/2551)).
 
 #### Art. 26
 
@@ -479,9 +498,20 @@ La presente Convenzione rimane in vigore sino alla denuncia da parte di uno degl
 - a) alle imposte prelevate alla fonte sui redditi pagati o accreditati il 1° gennaio dell’anno civile seguente a quello nel corso del quale è stata notificata la denuncia o dopo tale data;
 - b) alle rimanenti imposte per i periodi fiscali che iniziano il 1° gennaio dell’anno civile seguente quello nel corso del quale è stata notificata la denuncia o dopo tale data.
 
-*In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Roma, il 25 febbraio 2011, in due esemplari in lingua francese e inglese, ciascun testo facente egualmente fede. Per il Consiglio federale svizzero: Per il Governo di Malta: Bernardino Regazzoni Leslie Agius
+*In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Roma, il 25 febbraio 2011, in due esemplari in lingua francese e inglese, ciascun testo facente egualmente fede. Per il Consiglio federale svizzero: Bernardino Regazzoni Per il Governo di Malta: Leslie Agius
 
-Protocollo
+Art. VI n. 2 e 3 del Prot. del 16 luglio 2020**[^t-2]**
+
+\2. Il presente Protocollo entrerà in vigore alla data della ricezione della seconda notifica e le sue disposizioni si applicheranno:
+
+- a) con riferimento alle imposte prelevate alla fonte, ai redditi pagati o accreditati il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data;
+- b) con riferimento alle altre imposte, agli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data.
+
+\3. Nonostante le disposizioni del paragrafo 2 le modifiche previste nell’articolo II e nel paragrafo 2 dell’articolo III del presente Protocollo saranno applicabili dalla data dell’entrata in vigore del presente Protocollo senza tenere conto del periodo fiscale considerato.
+
+## Protocollo
+
+[^t-2]: [RU 2021 754](https://fedlex.data.admin.ch/eli/oc/2021/754), [753](https://fedlex.data.admin.ch/eli/oc/2021/753); [FF 2020 8207](https://fedlex.data.admin.ch/eli/fga/2020/2551)
 
 La Confederazione Svizzera e Malta
 
@@ -539,24 +569,24 @@ Gli Stati contraenti possono mettere a disposizione del tribunale arbitrale cost
 Fatto in doppio esemplare a Roma, il 25 febbraio 2011, in lingua francese e inglese, ciascun testo facente egualmente fede.
 
 <table>
-<tr><td>Per il Consiglio federale svizzero:</td><td>Per il Governo di Malta:</td></tr>
-<tr><td>Bernardino Regazzoni</td><td>Leslie Agius</td></tr>
+<tr><td>Per il Consiglio federale svizzero: Bernardino Regazzoni</td><td>Per il Governo di Malta: Leslie Agius</td></tr>
 </table>
 
-Traduzione*[^t-3]*
+Traduzione*[^annexu1-lvlu2-1]*
+
+[^annexu1-lvlu2-1]: Dal testo originale inglese.
 
 ## Accordo amichevole**** relativo all’interpretazione della lettera b del numero 5 del Protocollo concernente la Convezione del 25 febbraio 2011 tra la Confederazione Svizzera e Malta per evitare le doppie imposizioni in materia di imposte sul reddito
 
-[^annexu1-lvlu2-1]
+[^annexu1-lvlu3-1]
 
-[^t-3]: Dal testo originale inglese.
-[^annexu1-lvlu2-1]: [RU 2012 5787](https://fedlex.data.admin.ch/eli/oc/2012/669)
+[^annexu1-lvlu3-1]: [RU 2012 5787](https://fedlex.data.admin.ch/eli/oc/2012/669)
 
 Concluso il 30 giugno 2012
 
 Entrato in vigore il 6 luglio 2012
 
-Le autorità competenti della Confederazione Svizzera e di Malta hanno concluso il seguente Accordo amichevole relativo all’interpretazione della lettera b del numero 5 del Protocollo (di seguito «Protocollo») concernente la Convezione tra la Confederazione Svizzera e Malta per evitare le doppie imposizioni in materia di imposte sul reddito (di seguito «Convenzione») firmata a Roma il 25 febbraio 2011[^annexu1-lvlu2-2]:
+Le autorità competenti della Confederazione Svizzera e di Malta hanno concluso il seguente Accordo amichevole relativo all’interpretazione della lettera b del numero 5 del Protocollo (di seguito «Protocollo») concernente la Convezione tra la Confederazione Svizzera e Malta per evitare le doppie imposizioni in materia di imposte sul reddito (di seguito «Convenzione») firmata a Roma il 25 febbraio 2011[^annexu1-lvlu3-2]:
 
 Alla lettera b) del numero 5 del Protocollo sono contenute le informazioni che l’autorità competente dello Stato richiedente deve fornire all’autorità competente dello Stato richiesto in caso richiesta di informazioni ai sensi dell’articolo 26 della Convenzione. Sulla base di questa disposizione lo Stato richiedente deve fornire, oltre ad altre informazioni, (i) il nome e l’indirizzo della persona o delle persone oggetto del controllo o dell’inchiesta e, se disponibile, qualsiasi altro elemento che faciliti l’identificazione della persona o delle persone (data di nascita, stato civile o codice fiscale), nonché (v) il nome e l’indirizzo della persona per cui vi è motivo di ritenere che sia in possesso delle informazioni richieste. Alla lettera c) viene stabilito che sebbene la lettera b) contenga importanti requisiti di tecnica procedurale volti a impedire la «fishing expedition», essa deve essere interpretata in maniera da non ostacolare uno scambio di informazioni automatico o spontaneo.
 
@@ -570,9 +600,7 @@ a condizione che non si tratti di una «fishing expedition».
 Con le firme di entrambe le autorità competenti questo Accordo amichevole è applicabile dal giorno dell’entrata in vigore della Convenzione.
 
 <table>
-<tr><td>Fatto a Berna il 28 giugno 2012</td><td>Fatto a La Valletta il 30 giugno 2012</td></tr>
-<tr><td>Per l’autorità competente della Confederazione Svizzera:</td><td>Per l’autorità competente di Malta:</td></tr>
-<tr><td>Jürg Giraudi Segreteria di Stato per le questioni finanziarie internazionali (SFI)</td><td>Aldo Farrugia Divisione imposizione internazionale Dipartimento delle contribuzioni</td></tr>
+<tr><td>Fatto a Berna il 28 giugno 2012 Per l’autorità competente della Confederazione Svizzera: Jürg Giraudi Segreteria di Stato per le questioni finanziarie internazionali (SFI)</td><td>Fatto a La Valletta il 30 giugno 2012 Per l’autorità competente di Malta: Aldo Farrugia Divisione imposizione internazionale Dipartimento delle contribuzioni</td></tr>
 </table>
 
-[^annexu1-lvlu2-2]: [RS 0.672.954.51](https://fedlex.data.admin.ch/eli/cc/2012/481)
+[^annexu1-lvlu3-2]: [RS 0.672.954.51](https://fedlex.data.admin.ch/eli/cc/2012/481)
