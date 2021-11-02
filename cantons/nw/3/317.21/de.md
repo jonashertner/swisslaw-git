@@ -5,22 +5,22 @@ title: Interkantonale Fachhochschulvereinbarung ab 2005
 short: FHV
 language: de
 version: 2005-04-05
+corrected: 2021-11-03
 version_adopted: 2003-06-12
 adopted: 2003-06-12
 in_force: 2005-04-05
 url: "https://gesetze.nw.ch/app/de/texts_of_law/317.21"
-pdf: "https://gesetze.nw.ch/api/de/versions/802/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/156/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Fachhochschulvereinbarung ab 2005
+# Interkantonale Fachhochschulvereinbarung ab 2005 (FHV)
 
-(FHV)
+vom 12. Juni 2003<sup>1</sup>
 
-vom 12.06.2003 (Stand 05.04.2005)
-
-## 1 Allgemeine Bestimmungen
+I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -34,15 +34,19 @@ vom 12.06.2003 (Stand 05.04.2005)
 
 **Subsidiarität zu anderen Vereinbarungen**
 
-<sup>1</sup> Interkantonale Vereinbarungen, die die Mitträgerschaft oder Mitfinanzierung einer oder mehrerer Fachhochschulen regeln, gehen dieser Vereinbarung vor. Vorausgesetzt wird, dass die finanziellen Abgeltungen gesamthaft mindestens so hoch sind, wie sie der Abschnitt 2 der vorliegenden Vereinbarung vorsieht und dass die Gleichberechtigung der Studierenden (Art. 3 Abs. 2, Art. 6 und 7) gewährleistet ist.
+Interkantonale Vereinbarungen, die die Mitträgerschaft oder Mitfinanzierung einer oder mehrerer Fachhochschulen regeln, gehen dieser Vereinbarung vor. Vorausgesetzt wird, dass die finanziellen Abgeltungen gesamthaft mindestens so hoch sind, wie sie der Abschnitt II der vorliegenden Vereinbarung vorsieht und dass die Gleichberechtigung der Studierenden (Art. 3 Abs. 2, Art. 6 und 7) gewährleistet ist.
 
 #### Art. 3
 
 **Grundsätze**
 
-<sup>1</sup> Wer Wohnsitzkanton der Studierenden leistet den Trägern von Fachhochschulen Beiträge an die Ausbildungskosten.
+<sup>1</sup> Der Wohnsitzkanton der Studierenden leistet den Trägern von Fachhochschulen Beiträge an die Ausbildungskosten.
 
 <sup>2</sup> Die Fachhochschulträger gewähren den Studierenden aus allen Vereinbarungskantonen die gleiche Rechtsstellung. Soweit die Kantone nicht selber Träger der Fachhochschulen sind, verpflichten sie die ihnen verbundenen Schulen zur Gleichbehandlung.
+
+**1**
+
+1.9.2005 - 40
 
 #### Art. 4
 
@@ -58,29 +62,35 @@ vom 12.06.2003 (Stand 05.04.2005)
 
 **Wohnsitzkanton**
 
-<sup>1</sup> Als Wohnsitzkanton von Studierenden gilt:
+Als Wohnsitzkanton von Studierenden gilt:
 
 - a. der Heimatkanton für Schweizerinnen und Schweizer, deren Eltern im Ausland wohnen oder die elternlos im Ausland wohnen; bei mehreren Heimatkantonen gilt das zuletzt erworbene Bürgerrecht,
+
 - b. der zugewiesene Kanton für mündige Flüchtlinge und Staatenlose, die elternlos sind oder deren Eltern im Ausland wohnen; vorbehalten bleibt Buchstabe d,
+
 - c. der Kanton des zivilrechtlichen Wohnsitzes für mündige Ausländerinnen und Ausländer, die elternlos sind oder deren Eltern im Ausland wohnen; vorbehalten bleibt Buchstabe d,
+
 - d. der Kanton, in dem mündige Studierende mindestens zwei Jahre ununterbrochen gewohnt haben und, ohne gleichzeitig in Ausbildung zu sein, finanziell unabhängig gewesen sind; als Erwerbstätigkeit gelten auch die Führung eines Familienhaushalts und das Leisten von Militärdienst,
+
 - e. in allen übrigen Fällen der Kanton, in dem sich bei Studienbeginn der zivilrechtliche Wohnsitz der Eltern befindet, bzw. der Sitz der zuletzt zuständigen Vormundschaftsbehörde.
 
 #### Art. 6
 
 **Umleitung von Studierenden**
 
-<sup>1</sup> Wenn in einem Studiengang die Studienplatzkapazitäten einer Schule ausgeschöpft sind, können Studienanwärterinnen und Studienanwärter sowie Studierende an andere Schulen umgeleitet werden, sofern diese freie Studienplätze zur Verfügung stellen. Die Kommission FHV bestimmt das Verfahren und die für die Umleitung zuständige Stelle.
+Wenn in einem Studiengang die Studienplatzkapazitäten einer Schule ausgeschöpft sind, können Studienanwärterinnen und Studienanwärter sowie Studierende an andere Schulen umgeleitet werden, sofern diese freie Studienplätze zur Verfügung stellen. Die Kommission FHV bestimmt das Verfahren und die für die Umleitung zuständige Stelle.
 
 #### Art. 7
 
-**Behandlung von Studierenden aus Nichtvereinbarungskantonen**
+**Behandlung von Studierenden aus**
+
+### Nichtvereinbarungskantonen
 
 <sup>1</sup> Studierende und Studienanwärterinnen und Studienanwärter aus Kantonen, welche dieser Vereinbarung nicht beigetreten sind, haben keinen Anspruch auf Gleichbehandlung. Sie werden an eine Schule zugelassen, wenn die Studierenden aus den Vereinbarungskantonen Aufnahme gefunden haben.
 
 <sup>2</sup> Studierenden aus Kantonen, welche dieser Vereinbarung nicht beigetreten sind, wird nebst den Studiengebühren eine Gebühr auferlegt, welche mindestens dem Beitrag der Vereinbarungskantone entspricht.
 
-## 2 Beiträge
+### II. BEITRÄGE
 
 #### Art. 8
 
@@ -98,15 +108,19 @@ vom 12.06.2003 (Stand 05.04.2005)
 
 <sup>2</sup> Massgebend für die Festlegung der Beiträge sind die durchschnittlichen Ausbildungskosten pro Gruppe, d.h. die Betriebskosten, abzüglich der individuellen Studiengebühren, der Infrastrukturkosten und allfälliger Bundesbeiträge.
 
-<sup>3</sup> Die Beiträge werden so festgelegt, dass sie pro Gruppe 85% der Ausbildungskosten decken. Zuständig für die Festlegung der Beiträge ist die Konferenz der Vereinbarungskantone. Der Beschluss bedarf der Mehrheit von zwei Dritteln der Konferenzmitglieder.
+<sup>3</sup> Die Beiträge werden so festgelegt, dass sie pro Gruppe 85% der Ausbildungskosten decken. Zuständig für die Festlegung der Beiträge
+
+**3**
+
+1.9.2005 - 40 ist die Konferenz der Vereinbarungskantone. Der Beschluss bedarf der Mehrheit von zwei Dritteln der Konferenzmitglieder.
 
 #### Art. 10
 
 **Abzug bei hohen Studiengebühren**
 
-<sup>1</sup> Die Schulen können angemessene individuelle Studiengebühren erheben. Die Kommission FHV legt die anrechenbaren Mindest- und Höchstbeträge je Studiengang fest. Übersteigen diese Gebühren die von der Kommission FHV festgelegte Höchstgrenze, werden die Beiträge für den entsprechenden Studiengang gekürzt.
+Die Schulen können angemessene individuelle Studiengebühren erheben. Die Kommission FHV legt die anrechenbaren Mindest- und Höchstbeträge je Studiengang fest. Übersteigen diese Gebühren die von der Kommission FHV festgelegte Höchstgrenze, werden die Beiträge für den entsprechenden Studiengang gekürzt.
 
-## 3 Vollzug
+### III. VOLLZUG
 
 #### Art. 11
 
@@ -117,9 +131,13 @@ vom 12.06.2003 (Stand 05.04.2005)
 <sup>2</sup> Ihr obliegen folgende Aufgaben:
 
 - a. die Wahl der Mitglieder und des bzw. der Vorsitzenden der Kommission FHV,
+
 - b. die Wahl der Mitglieder der Schiedsinstanz,
+
 - c. die Festlegung der Beiträge gemäss Art. 9,
+
 - d. die Festlegung eines abweichenden Abgeltungsmodells gemäss Art. 8,
+
 - e. die Abnahme der Berichterstattung der Kommission FHV.
 
 <sup>3</sup> Sie erlässt Vorschriften über die Dauer der Zahlungspflicht für die einzelnen Studiengänge.
@@ -135,24 +153,30 @@ vom 12.06.2003 (Stand 05.04.2005)
 <sup>3</sup> Der Kommission FHV obliegen insbesondere die folgenden Aufgaben:
 
 - a. die Überwachung des Vollzugs, insbesondere auch der Geschäftsstelle,
+
 - b. die jährliche Berichterstattung an die Konferenz der Vereinbarungskantone,
+
 - c. die Antragsstellung für die Festlegung der Beiträge und der Dauer der Zahlungspflicht für die einzelnen Studiengänge,
+
 - d. die Antragsstellung für die Festlegung eines abweichenden Abgeltungsmodells gemäss Art. 8,
+
 - e. die Festlegung der Mindest- und Höchstgrenze für die individuellen Studiengebühren,
+
 - f. die Regelung der Rechnungslegung, der Beitragszahlung, der Termine und Stichdaten sowie der Verzugszinse,
+
 - g. die Einteilung neu anerkannter bzw. im Anerkennungsverfahren befindlicher Studiengänge nach Artikel 9 Absatz 1 und Artikel 21.
 
 #### Art. 13
 
 **Geschäftsstelle**
 
-<sup>1</sup> Das Generalsekretariat der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) ist Geschäftsstelle dieser Vereinbarung.
+Das Generalsekretariat der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) ist Geschäftsstelle dieser Vereinbarung.
 
 #### Art. 14
 
 **Liste der beitragsberechtigten Studiengänge**
 
-<sup>1</sup> Die beitragsberechtigten Studiengänge und die Beitragshöhe werden in einem Anhang aufgeführt.
+Die beitragsberechtigten Studiengänge und die Beitragshöhe werden in einem Anhang aufgeführt.
 
 #### Art. 15
 
@@ -166,9 +190,13 @@ vom 12.06.2003 (Stand 05.04.2005)
 
 **Vollzugskosten**
 
-<sup>1</sup> Die Kosten des Vollzugs dieser Vereinbarung sind durch die Vereinbarungskantone nach Massgabe der Zahl ihrer Studierenden zu tragen. Sie werden ihnen jährlich in Rechnung gestellt. Für besondere Abklärungen, die sich nur auf einzelne Kantone und Schulen beziehen, können, auf Beschluss der Kommission FHV, die Kosten auf die betroffenen Kantone abgewälzt werden.
+Die Kosten des Vollzugs dieser Vereinbarung sind durch die Vereinbarungskantone nach Massgabe der Zahl ihrer Studierenden zu tragen. Sie werden ihnen jährlich in Rechnung gestellt. Für besondere Abklärungen, die sich nur auf einzelne Kantone und Schulen beziehen, können, auf Beschluss der Kommission FHV, die Kosten auf die betroffenen Kantone abgewälzt werden.
 
-## 4 Rechtspflege
+**5**
+
+1.9.2005 - 40
+
+### IV. RECHTSPFLEGE
 
 #### Art. 17
 
@@ -178,10 +206,10 @@ vom 12.06.2003 (Stand 05.04.2005)
 
 <sup>2</sup> Die Schiedsinstanz entscheidet in einer Besetzung von drei Mitgliedern, von denen sich keines aus den direkt betroffenen Kantonen befinden darf.
 
-<sup>3</sup> Die Schiedsinstanz entscheidet endgültig über strittige Fragen betreffend
+<sup>3</sup> Die Schiedsinstanz entscheidet endgültig über strittige Fragen betreffend a. die Zahl der Studierenden,
 
-- a. die Zahl der Studierenden,
 - b. den massgebenden Wohnsitz,
+
 - c. die Zahlungspflicht der Kantone.
 
 <sup>4</sup> Die Bestimmungen des Konkordats über die Schiedsgerichtsbarkeit vom 27. März 1969 (SR 279) finden Anwendung.
@@ -190,29 +218,27 @@ vom 12.06.2003 (Stand 05.04.2005)
 
 **Bundesgericht**
 
-<sup>1</sup> Vorbehältlich von Artikel 17 entscheidet das Bundesgericht über Streitigkeiten, die sich aus dieser Vereinbarung zwischen den Kantonen ergeben, auf staatsrechtliche Klage hin gemäss Artikel 83 Absatz 1 Buchstabe b des Bundesgesetzes über die Bundesrechtspflege vom 16. Dezember 1943.
+Vorbehältlich von Artikel 17 entscheidet das Bundesgericht über Streitigkeiten, die sich aus dieser Vereinbarung zwischen den Kantonen ergeben, auf staatsrechtliche Klage hin gemäss Artikel 83 Absatz 1 Buchstabe b des Bundesgesetzes über die Bundesrechtspflege vom 16. Dezember 1943.
 
-## 5 Übergangs- und Schlussbestimmungen
+### V. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 19
 
 **Beitritt**
 
-<sup>1</sup> Der Beitritt zu dieser Vereinbarung ist dem Generalsekretariat der EDK mitzuteilen. Mit dem Beitritt verpflichten sich die Kantone, die für den Vollzug dieser Vereinbarung notwendigen Daten in vorgeschriebener Weise zur Verfügung zu stellen[^19-1].
-
-[^19-1]: Vom Landrat genehmigt am 26. Januar 2005
+Der Beitritt zu dieser Vereinbarung ist dem Generalsekretariat der EDK mitzuteilen. Mit dem Beitritt verpflichten sich die Kantone, die für den Vollzug dieser Vereinbarung notwendigen Daten in vorgeschriebener Weise zur Verfügung zu stellen.
 
 #### Art. 20
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vereinbarung tritt auf den Beginn des Studienjahres 2005/2006 in Kraft. Bedingung für das In-Kraft-Treten ist, dass mindestens fünfzehn Kantone den Beitritt erklärt haben.
+Diese Vereinbarung tritt auf den Beginn des Studienjahres 2005/2006 in Kraft. Bedingung für das In-Kraft-Treten ist, dass mindestens fünfzehn Kantone den Beitritt erklärt haben.
 
 #### Art. 21
 
 **Fachhochschulen im Anerkennungsverfahren**
 
-<sup>1</sup> Die Kommission FHV bestimmt diejenigen Studiengänge, für die bereits im Anerkennungsverfahren Beiträge geleistet werden und teilt sie in die Gruppen ein. Massgeblich ist, ob der Studiengang Aussicht auf Anerkennung hat (Art. 4 Abs. 1). Es ist eine Stellungnahme der zuständigen Anerkennungskommission einzuholen.
+Die Kommission FHV bestimmt diejenigen Studiengänge, für die bereits im Anerkennungsverfahren Beiträge geleistet werden und teilt sie in die Gruppen ein. Massgeblich ist, ob der Studiengang Aussicht auf Anerkennung hat (Art. 4 Abs. 1). Es ist eine Stellungnahme der zuständigen Anerkennungskommission einzuholen.
 
 #### Art. 22
 
@@ -226,12 +252,16 @@ vom 12.06.2003 (Stand 05.04.2005)
 
 **Fürstentum Liechtenstein**
 
-<sup>1</sup> Dieser Vereinbarung kann das Fürstentum Liechtenstein auf der Grundlage seiner eigenen Gesetzgebung beitreten. Ihm stehen alle Rechte und Pflichten der andern Vereinbarungspartner zu. Nach liechtensteinischem Recht anerkannte Fachhochschulen oder Fachhochschul-Studiengänge sind wie die entsprechenden nach schweizerischem Recht anerkannten Fachhochschulen oder Fachhochschul-Studiengänge zu behandeln.
+Dieser Vereinbarung kann das Fürstentum Liechtenstein auf der Grundlage seiner eigenen Gesetzgebung beitreten. Ihm stehen alle Rechte und Pflichten der andern Vereinbarungspartner zu. Nach liechtensteinischem Recht anerkannte Fachhochschulen oder Fachhochschul-Studiengänge sind wie die entsprechenden nach schweizerischem Recht anerkannten Fachhochschulen oder Fachhochschul-Studiengänge zu behandeln.
 
-## A1 Anhang
+### Anhang
 
-#### Art. A1-1
+Der Anhang kann bei der Bildungsdirektion eingesehen werden.
 
-<sup>1</sup> Der Anhang kann bei der Bildungsdirektion eingesehen werden.
+**7**
 
-A 2005, 182, 183, 547
+1.9.2005 - 40
+
+## Weitere Fussnoten
+
+- [1] A 2005, 183; vom Landrat genehmigt am 26. Januar 2005, A 2005, 182, 547
