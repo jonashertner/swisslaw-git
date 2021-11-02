@@ -3,20 +3,20 @@ canton: GL
 number: VII B/1/2
 title: Bauverordnung
 language: de
-version: 2018-07-01
-valid_until: 2021-11-02
-version_adopted: 2018-02-28
+version: 2021-11-03
+valid_until: 2025-04-30
+version_adopted: 2021-11-03
 adopted: 2011-02-23
 in_force: 2011-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-B.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2013/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2249/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Bauverordnung
 
-Vom 23.02.2011 (Stand 01.07.2018)
+Vom 23.02.2011 (Stand 03.11.2021)
 
 Der Landrat,
 
@@ -323,7 +323,7 @@ beschliesst:
 
 **Abgabebefreiung**
 
-<sup>1</sup> Beträgt der Mehrwert weniger als 50 000 Franken, wird keine Abgabe erhoben.
+<sup>1</sup> Beträgt der Mehrwert weniger als 30 000 Franken, wird keine Abgabe erhoben.
 
 ### 2.5. Förderung der Überbauung
 
