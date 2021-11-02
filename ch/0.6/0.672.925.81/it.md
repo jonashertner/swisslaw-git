@@ -3,11 +3,11 @@ sr: "0.672.925.81"
 title: Convenzione del 25 luglio 2014 tra la Confederazione Svizzera e la Repubblica di Cipro per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (con Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/705"
 language: it
-version: 2015-10-15
+version: 2021-11-03
 adopted: 2014-07-25
 in_force: 2015-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/705/20151015/it/xml/fedlex-data-admin-ch-eli-cc-2015-705-20151015-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/705/20151015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/705/20211103/it/xml/fedlex-data-admin-ch-eli-cc-2015-705-20211103-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/705/20211103/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,24 +16,25 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/705/20151015/it"
 
 RU **2015** 4205; FF **2014** 7879
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa il 25 luglio 2014
+Conclusa il 25 luglio 2014 Approvata dall’Assemblea federale il 19 giugno 2015[^t-1] Entrata in vigore mediante scambio di note il 15 ottobre 2015
 
-Approvata dall’Assemblea federale il 19 giugno 2015[^t-2]
+(Stato 3 novembre 2021)
 
-Entrata in vigore mediante scambio di note il 15 ottobre 2015
-
-(Stato 15 ottobre 2015)
-
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 2015 4203](https://fedlex.data.admin.ch/eli/oc/2015/704)
+[^t-1]: [RU 2015 4203](https://fedlex.data.admin.ch/eli/oc/2015/704)
 
 Il Consiglio federale svizzero e il Governo della Repubblica di Cipro,
 
-desiderosi di concludere una Convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio,
+desiderosi di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio;
 
-hanno convenuto quanto segue:
+desiderosi di sviluppare ulteriormente le loro relazioni economiche e di migliorare la cooperazione in materia fiscale;
+
+nell’intento di eliminare la doppia imposizione in materia di imposte sul reddito e sul patrimonio, senza creare opportunità di non imposizione o di ridotta imposizione attraverso l’evasione o l’elusione fiscale (incluse le strategie di abuso dei trattati fiscali («treaty-shopping») finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti di Stati terzi),
+
+hanno convenuto quanto segue:*[^ingress-1]*
+
+[^ingress-1]: Nuovo testo giusta l’art. I del Prot. del 20 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [FF 2020 8235](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
 
 #### Art. 1
 
@@ -184,7 +185,12 @@ Nonostante le precedenti disposizioni del presente articolo non si considera che
 
 <sup>3.</sup> Se uno Stato contraente, conformemente al paragrafo 2, procede a un aggiustamento degli utili attribuibili alla stabile organizzazione di un’impresa di uno Stato contraente e impone di conseguenza utili dell’impresa che sono già stati soggetti a imposizione nell’altro Stato, questo altro Stato procede, per quanto necessario al fine di evitare la doppia imposizione di tali utili, al corrispondente aggiustamento dell’imposta riscossa sugli stessi, se approva l’aggiustamento effettuato dal primo Stato; in caso contrario gli Stati contraenti si adoperano per risolvere in via di amichevole composizione la doppia imposizione che ne risulta.
 
-<sup>4.</sup> Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.
+<sup>4.</sup> Uno Stato contraente non può eseguire una rettifica degli utili attribuibili a una stabile organizzazione di un’impresa di uno Stato contraente decorsi sei anni dalla fine dell’esercizio fiscale in cui gli utili sarebbero stati attribuibili alla stabile organizzazione. Le disposizioni del presente paragrafo non sono applicabili in caso di frode, negligenza grave od omissione volontaria.[^7-1]
+
+5.[^7-2] Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non sono pregiudicate da quelle del presente articolo.
+
+[^7-1]: Introdotto dall’art. II del Prot. del 20 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [FF 2020 8235](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
+[^7-2]: Originario par. 4.
 
 #### Art. 8
 
@@ -212,7 +218,12 @@ Se:
 - a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente; o
 - b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente;
 
-<sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di questo Stato, e tassa in conseguenza, utili sui quali un’impresa dell’altro Stato contraente è stata tassata in questo altro Stato e le autorità competenti degli Stati contraenti si accordano che gli utili così inclusi sono utili o parti di utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, l’altro Stato procede ad un aggiustamento dell’ammontare d’imposta riscosso su questi utili, se condivide che l’aggiustamento effettuato dal primo Stato contraente sia giustificato quanto a principio e ammontare. Per determinare questo aggiustamento occorre tener conto delle altre disposizioni della presente Convenzione; se necessario, le autorità competenti degli Stati contraenti si consultano.
+<sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di questo Stato, e tassa di conseguenza, utili sui quali un’impresa dell’altro Stato contraente è stata tassata in questo altro Stato e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, l’altro Stato procede a una rettifica appropriata dell’ammontare d’imposta prelevato su questi utili. Per determinare questa rettifica occorre tener conto delle altre disposizioni della presente Convenzione; se necessario, le autorità competenti degli Stati contraenti si consultano.[^9-1]
+
+<sup>3.</sup> Uno Stato contraente non può includere negli utili di un’impresa, e tassare di conseguenza, utili che sarebbero stati conseguiti da detta impresa ma che non lo sono stati a motivo delle condizioni indicate nel paragrafo 1 decorsi sei anni dalla fine dell’esercizio fiscale in cui gli utili sarebbero stati conseguiti dall’impresa. Le disposizioni del presente paragrafo non sono applicabili in caso di frode, negligenza grave od omissione volontaria.[^9-2]
+
+[^9-1]: Nuovo testo giusta l’art. III par. 1 del Prot. del 20 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [FF 2020 8235](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
+[^9-2]: Introdotto dall’art. III par. 2 del Prot. del 20 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [FF 2020 8235](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
 
 #### Art. 10
 
@@ -440,13 +451,15 @@ Conformemente alle disposizioni legislative di Cipro sul computo dell’imposta 
 
 **Procedura amichevole**
 
-<sup>1.</sup> Se ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportino o comporteranno per lei un’imposizione non conforme alle disposizioni della presente Convenzione, una persona può, indipendentemente dai rimedi giuridici previsti dal diritto interno di tali Stati, sottoporre il suo caso all’autorità competente dello Stato contraente di cui è residente o, se il suo caso rientra nell’ambito di applicazione del paragrafo 1 dell’articolo 25, a quella dello Stato contraente di cui ha la cittadinanza. Il caso dovrà essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
+<sup>1.</sup> Se ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lei un’imposizione non conforme alle disposizioni della presente Convenzione, una persona può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di detti Stati, sottoporre il caso all’autorità competente di uno dei due Stati contraenti.[^26-1] Il caso dovrà essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
 
 <sup>2.</sup> Se considera il reclamo fondato e non è in grado di giungere autonomamente ad una soluzione soddisfacente, l’autorità competente si adopera per regolare il caso per via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare una tassazione non conforme alla Convenzione.
 
 <sup>3.</sup> Le autorità competenti degli Stati contraenti si adoperano per risolvere in via di amichevole composizione le difficoltà inerenti all’interpretazione o all’applicazione della Convenzione. Esse potranno altresì consultarsi al fine di eliminare la doppia imposizione nei casi non previsti dalla Convenzione.
 
 <sup>4.</sup> Le autorità competenti degli Stati contraenti possono conferire direttamente fra loro per giungere a un accordo ai sensi dei paragrafi precedenti e procedere anche a un colloquio nell’ambito di una commissione comune composta da esse stesse o da loro rappresentanti.
+
+[^26-1]: Nuovo testo giusta l’art. IV del Prot. del 20 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [FF 2020 8235](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
 
 #### Art. 27
 
@@ -483,6 +496,14 @@ Nonostante le disposizioni dell’articolo 4, ogni persona fisica che è membro 
 
 <sup>3.</sup> La Convenzione non si applica alle organizzazioni internazionali, ai loro organi o ai loro funzionari, né alle persone che sono membri di una missione diplomatica, di un posto consolare o di una delegazione permanente di uno Stato terzo, quando si trovino sul territorio di uno Stato contraente e non sono trattate come residenti dell’uno o dell’altro Stato contraente in materia di imposte sul reddito o sul patrimonio.
 
+#### Art. 28a
+
+**Diritto ai benefici**[^28a-1]
+
+Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito o di patrimonio, se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che venga stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+[^28a-1]: Introdotto dall’art. V par. 1 del Prot. del 20 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 3 nov. 2021 ([RU 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [FF 2020 8235](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
+
 #### Art. 29
 
 **Entrata in vigore**
@@ -507,14 +528,22 @@ La presente Convenzione rimarrà in vigore sino a quando non sarà denunciata da
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Nicosia, il 25 luglio 2014, in due esemplari in lingua francese, greca e inglese, ciascun testo facente egualmente fede. In caso di divergenza d’interpretazione fra il testo francese e quello greco, prevarrà il testo inglese. Per il Consiglio federale svizzero: Gabriela Nützi Sulpizio Per il Governo della Repubblica di Cipro: Harris Georgiades
 
+**Art. VI par. 2 e 3 del Prot. del 20 luglio 2020**[^t-2]
+
+\2. Il presente Protocollo entrerà in vigore alla data della ricezione della seconda notifica e le sue disposizioni si applicheranno:
+
+- a) con riferimento alle imposte trattenute alla fonte, sui redditi pagati o accreditati il 1˚ gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data;
+- b) con riferimento alle altre imposte, agli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data.
+
+\3. Nonostante le disposizioni del paragrafo 2 le modifiche previste agli articoli II, III e IV del presente Protocollo saranno applicabili dalla data dell’entrata in vigore del presente Protocollo senza tenere conto del periodo fiscale considerato.
+
+Protocollo alla Convenzione tra la Confederazione Svizzera e la Repubblica di Cipro per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio
+
 Il Consiglio federale svizzero e il Governo della Repubblica di Cipro,
 
 all’atto della firma della Convenzione conclusa a Nicosia, il 25 luglio 2014, per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio, hanno convenuto le seguenti disposizioni che formano parte integrante della Convenzione.
 
-**1. Clausola contro gli abusi**
-
-- a) Le disposizioni della presente Convenzione non si applicano in caso di abuso.
-- b) Nel caso in cui uno degli Stati contraenti intende rifiutare i vantaggi della presente Convenzione di cui alla lettera a) del presente paragrafo, le autorità competenti di questo Stato possono consultare l’autorità competente dell’altro Stato contraente.
+**1. …*[^t-3]***
 
 **2. Ad art. 10**
 
@@ -566,4 +595,5 @@ Fatto a Nicosia, il 25 luglio 2014, in due esemplari in lingua francese, greca e
 <tr><td>Per il Consiglio federale svizzero: Gabriela Nützi Sulpizio</td><td>Per il Governo della Repubblica di Cipro: Harris Georgiades</td></tr>
 </table>
 
-Protocollo
+[^t-2]: ([RU 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [FF 2020 8235](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
+[^t-3]: Abrogato dall’art. V par. 2 del Prot. del 20 lug. 2020, approvato dall’AF il 18 giu. 2021, con effetto dal 3 nov. 2021 ([RU 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [FF 2020 8235](https://fedlex.data.admin.ch/eli/fga/2020/2557)).

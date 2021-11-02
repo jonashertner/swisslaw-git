@@ -3,11 +3,11 @@ sr: "0.672.925.81"
 title: Abkommen vom 25. Juli 2014 zwischen der Schweizerischen Eidgenossenschaft und der Republik Zypern zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/705"
 language: de
-version: 2015-10-15
+version: 2021-11-03
 adopted: 2014-07-25
 in_force: 2015-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/705/20151015/de/xml/fedlex-data-admin-ch-eli-cc-2015-705-20151015-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/705/20151015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/705/20211103/de/xml/fedlex-data-admin-ch-eli-cc-2015-705-20211103-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/705/20211103/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 19. Juni 2015[^t-1]
 
 In Kraft getreten durch Notenaustausch am 15. Oktober 2015
 
-(Stand am 15. Oktober 2015)
+(Stand am 3. November 2021)
 
 [^t-1]: [AS 2015 4203](https://fedlex.data.admin.ch/eli/oc/2015/704)
 
@@ -32,7 +32,13 @@ Der Schweizerische Bundesrat und die Regierung der Republik Zypern,
 
 vom Wunsch geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
 
-haben Folgendes vereinbart:
+vom Wunsch geleitet, ihre wirtschaftlichen Beziehungen weiterzuentwickeln und die Zusammenarbeit in steuerlichen Angelegenheiten zu vertiefen,
+
+in der Absicht, in Bezug auf die Steuern vom Einkommen und vom Vermögen eine Doppelbesteuerung zu beseitigen, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten ansässigen Personen) zu schaffen,
+
+haben Folgendes vereinbart:*[^ingress-1]*
+
+[^ingress-1]: Eingefügt durch Art. II des Prot. vom 20. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [BBl 2020 9405](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
 
 #### Art. 1
 
@@ -183,7 +189,12 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 <sup>3.</sup> Berichtigt ein Vertragsstaat in Übereinstimmung mit Absatz 2 die Gewinne, die der Betriebsstätte eines Unternehmens eines der Vertragsstaaten zugerechnet werden können, und besteuert er deshalb Gewinne des Unternehmens, die bereits im anderen Staat besteuert wurden, so nimmt der andere Vertragsstaat, soweit dies zur Vermeidung der Doppelbesteuerung dieser Gewinne erforderlich ist, eine entsprechende Berichtigung der auf diesen Gewinnen erhobenen Steuer vor, wenn er der Berichtigung des erstgenannten Staats zustimmt; stimmt der andere Vertragsstaat nicht zu, beseitigen die Vertragsstaaten eine daraus resultierende Doppelbesteuerung durch ein Verständigungsverfahren.
 
-<sup>4.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.
+<sup>4.</sup> Ein Vertragsstaat darf keine Berichtigung der Gewinne, die einer Betriebsstätte eines Unternehmens eines der Vertragsstaaten zugerechnet werden können, nach Ablauf von sechs Jahren ab dem Ende des Steuerjahres vornehmen, in dem die Gewinne der Betriebsstätte hätten zugerechnet werden können. Dieser Absatz ist nicht anzuwenden im Fall von Betrug, grober Fahrlässigkeit oder vorsätzlicher Unterlassung.[^7-1]
+
+<sup>5.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.[^7-2]
+
+[^7-1]: Eingefügt durch Art. II des Prot. vom 20. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [BBl 2020 9405](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
+[^7-2]: Ursprünglich Abs. 4.
 
 #### Art. 8
 
@@ -211,7 +222,12 @@ Wenn:
 - a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist; oder
 - b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind;
 
-<sup>2.</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor, wenn er die vom erstgenannten Staat vorgenommene Aufrechnung sowohl in grundsätzlicher Hinsicht als auch betragsmässig für gerechtfertigt hält. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; soweit erforderlich, konsultieren sich die zuständigen Behörden der Vertragsstaaten.
+<sup>2.</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; soweit erforderlich, konsultieren sich die zuständigen Behörden der Vertragsstaaten.[^9-1]
+
+<sup>3.</sup> Ein Vertragsstaat darf nach Ablauf von sechs Jahren ab dem Ende des Steuerjahres, in dem ein Unternehmen die Gewinne erzielt hätte, den Gewinnen des Unternehmens keine Gewinne zurechnen und entsprechend besteuern, die das Unternehmen erzielt hätte, aufgrund der in Absatz 1 genannten Bedingungen jedoch nicht erzielt hat. Dieser Absatz ist nicht anzuwenden im Fall von Betrug, grober Fahrlässigkeit oder vorsätzlicher Unterlassung.[^9-2]
+
+[^9-1]: Fassung gemäss Art. III Abs. 1 des Prot. vom 20. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [BBl 2020 9405](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
+[^9-2]: Eingefügt durch Art. III Abs. 2 des Prot. vom 20. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [BBl 2020 9405](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
 
 #### Art. 10
 
@@ -439,13 +455,15 @@ Nach Massgabe der Gesetzgebung Zyperns über die Anrechnung der ausländischen S
 
 **Verständigungsverfahren**
 
-<sup>1.</sup> Ist eine Person der Auffassung, dass Massnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie ungeachtet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde des Vertragsstaats, in dem sie ansässig ist, oder, sofern ihr Fall von Artikel 25 Absatz 1 erfasst wird, der zuständigen Behörde des Vertragsstaats unterbreiten, dessen Staatsangehörige sie ist. Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Massnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
+<sup>1.</sup> Ist eine Person der Auffassung, dass die Massnahmen eines oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie ungeachtet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel den Fall der zuständigen Behörde eines der beiden Vertragsstaaten unterbreiten.[^26-1]
 
 <sup>2.</sup> Hält die zuständige Behörde die Einwendung für begründet und kann sie nicht selbst eine befriedigende Lösung herbeiführen, so bemüht sie sich, den Fall durch Verständigung mit der zuständigen Behörde des anderen Vertragsstaats so zu regeln, dass eine dem Abkommen nicht entsprechende Besteuerung vermieden wird.
 
 <sup>3.</sup> Die zuständigen Behörden der Vertragsstaaten bemühen sich, Schwierigkeiten oder Zweifel, die bei der Auslegung oder Anwendung des Abkommens entstehen, in gegenseitigem Einvernehmen zu beseitigen. Sie können sich auch darüber beraten, wie eine Doppelbesteuerung in Fällen vermieden werden kann, die im Abkommen nicht behandelt sind.
 
 <sup>4.</sup> Die zuständigen Behörden der Vertragsstaaten können zur Herbeiführung einer Einigung im Sinne der vorstehenden Absätze unmittelbar miteinander verkehren und sich auch in einer gemeinsamen Kommission beraten, in der sie selbst oder zu ihrer Vertretung befugte Personen Einsitz nehmen.
+
+[^26-1]: Fassung gemäss Art. IV des Prot. vom 20. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [BBl 2020 9405](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
 
 #### Art. 27
 
@@ -482,6 +500,14 @@ Ungeachtet des Artikels 4 gilt eine natürliche Person, die Mitglied einer diplo
 
 <sup>3.</sup> Das Abkommen gilt weder für internationale Organisationen, deren Organe oder Beamte noch für Mitglieder einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines Drittstaats, die sich in einem Vertragsstaat aufhalten und in keinem der Vertragsstaaten für die Zwecke der Steuern vom Einkommen oder vom Vermögen als ansässig gelten.
 
+#### Art. 28a
+
+**Anspruch auf Vorteile**[^28a-1]
+
+Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+[^28a-1]: Eingefügt durch Art. V Abs. 1 des Prot. vom 20. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [BBl 2020 9405](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
+
 #### Art. 29
 
 **Inkrafttreten**
@@ -506,16 +532,24 @@ Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekün
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Nikosia, am 25. Juli 2014, im Doppel in französischer, griechischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des französischen und des griechischen Wortlauts ist der englische Wortlaut massgebend. Für den Schweizerischen Bundesrat: Gabriela Nützi Sulpizio Für die Regierung der Republik Zypern: Harris Georgiades
 
-Protokoll zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Republik Zypern zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
+Art. VI Abs. 2 und 3 des Prot. vom 20. Juli 2020**[^t-2]**
+
+\2. Das Protokoll tritt am Tag des Eingangs der späteren dieser beiden Notifikationen in Kraft, und seine Bestimmungen finden Anwendung:
+
+- a) hinsichtlich der an der Quelle erhobenen Steuern auf Einkünfte, die am oder nach dem 1. Januar des auf das Inkrafttreten dieses Protokolls folgenden Kalenderjahres gezahlt oder gutgeschrieben werden;
+- b) hinsichtlich der übrigen Steuern auf Steuerjahre, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahres beginnen.
+
+\3. Ungeachtet der Bestimmungen von Absatz 2 finden die in den Artikeln II, III und IV dieses Protokolls vorgesehenen Änderungen vom Tag des Inkrafttretens dieses Protokolls an Anwendung ohne Berücksichtigung der Steuerperiode, auf die sich die Sache bezieht.
+
+## Protokoll zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Republik Zypern zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
+
+[^t-2]: [AS 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [BBl 2020 9405](https://fedlex.data.admin.ch/eli/fga/2020/2557)
 
 Der Schweizerische Bundesrat und die Regierung der Republik Zypern
 
 haben anlässlich der Unterzeichnung in Nikosia, am 25. Juli 2014, des Abkommens zwischen den beiden Staaten zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen folgende Bestimmungen vereinbart, die einen integrierenden Bestandteil dieses Abkommens bilden.
 
-\1. Vermeidung von Missbrauch
-
-- a) Die Bestimmungen dieses Abkommens sind nicht anwendbar auf Fälle von Missbrauch.
-- b) Beabsichtigt einer der Vertragsstaaten, die Vorteile dieses Abkommens nach Buchstabe a dieses Absatzes zu verweigern, so kann seine zuständige Behörde die zuständige Behörde des anderen Vertragsstaates konsultieren.
+\1. …*[^annexu1-lvlu2-1]*
 
 \2. Zu Art. 10
 
@@ -566,3 +600,5 @@ Geschehen zu Nikosia, am 25. Juli 2014, im Doppel in französischer, griechische
 <table>
 <tr><td>Für den Schweizerischen Bundesrat: Gabriela Nützi Sulpizio</td><td>Für die Regierung der Republik Zypern: Harris Georgiades</td></tr>
 </table>
+
+[^annexu1-lvlu2-1]: Aufgehoben durch Art. V Abs. 2 des Prot. vom 20. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 3. Nov. 2021 ([AS 2021 810](https://fedlex.data.admin.ch/eli/oc/2021/810), [809](https://fedlex.data.admin.ch/eli/oc/2021/809); [BBl 2020 9405](https://fedlex.data.admin.ch/eli/fga/2020/2557)).
