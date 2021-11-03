@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2021-09-20
+version: 2021-11-04
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210920/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210920-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210920/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20211104/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20211104-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20211104/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210920/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 20. September 2021)
+vom 29. April 2015 (Stand am 4. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -971,6 +971,16 @@ Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der 
 [^64c-7]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 1. März 2021 ([AS 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
 [^64c-8]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft vom 1. Juni 2021 bis zum 31. Aug. 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 [^64c-9]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+
+#### Art. 64d
+
+**Übernahme der Kosten von Covid-19-Impfungen zum indirekten Schutz besonders gefährdeter Personen**[^64d-1]
+
+<sup>1</sup> Der Bund übernimmt die Kosten von Covid-19-Impfungen, einschliesslich Auffrischimpfungen, von Personen, die selber nicht besonders gefährdet sind, deren Impfung aber dem indirekten Schutz besonders gefährdeter Personen dient.
+
+<sup>2</sup> Artikel 64*c* Absätze 3–7 ist anwendbar.
+
+[^64d-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft vom 4. Nov. 2021 bis zum 31. Dez. 2021 ([AS 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)).
 
 ### 3. Abschnitt: Warenverkehr
 

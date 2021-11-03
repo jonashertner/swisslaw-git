@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2021-09-20
+version: 2021-11-04
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210920/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210920-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20211104/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20211104-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20211104/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210920/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 20 septembre 2021)
+du 29 avril 2015 (Etat le 4 novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -879,12 +879,12 @@ Le montant visé à l’al. 3 couvre l’ensemble des prestations liées à la v
 [^64a-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64a-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64a-5]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 17 sept. 2021, en vigueur du 1<sup>er</sup> sept. au 31 déc. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^64a-6]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur du 4 fév. 2021 au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
+[^64a-6]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur du 4 fév. au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64a-7]: Introduit par l’annexe ch. 2 de l’O du 17 sept. 2021, en vigueur du 20 sept. au 31 déc. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^64a-8]: Consultable sous www.fphch.org/fr/web/fph/vaccination-et-prélèvements-sanguins
 [^64a-9]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
 [^64a-10]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
-[^64a-11]: Introduit par le le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 jusqu’au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64a-11]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur du 1<sup>er</sup> juin au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 #### Art. 64b
 
@@ -913,7 +913,7 @@ Pour la fin des mois de février, avril, juin, septembre et décembre, les pharm
 [^64b-1]: Introduit par le ch. I de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
 [^64b-2]: Nouvelle teneur selon le ch. I de l’O du 25 août 2021, en vigueur du 1<sup>er</sup> sept. au 31 déc. 2021 ([RO 2021 506](https://fedlex.data.admin.ch/eli/oc/2021/506)).
 [^64b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64b-4]: Introduit par le le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 jusqu’au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64b-4]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur du 1<sup>er</sup> juin au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 #### Art. 64c
 
@@ -966,15 +966,25 @@ Le montant visé à l’al. 4 couvre l’ensemble des prestations liées à la v
 
 <sup>7</sup> L’art. 64*b* s’applique par analogie à la procédure de prise en charge des coûts.[^64c-9]
 
-[^64c-1]: Introduit par le ch. I de l’O du 3 fév. 2021, en vigueur du 4 janv. 2021 au 31 déc. 2021, al. 7, en vigueur du 4 fév. 2021 au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
+[^64c-1]: Introduit par le ch. I de l’O du 3 fév. 2021, en vigueur du 4 janv. au 31 déc. 2021, al. 7, en vigueur du 4 fév. au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64c-2]: Nouvelle teneur selon le ch. I de l’O du 25 août 2021, en vigueur du 1<sup>er</sup> sept. au 31 déc. 2021 ([RO 2021 506](https://fedlex.data.admin.ch/eli/oc/2021/506)).
 [^64c-3]: Introduit par l’annexe ch. 2 de l’O du 17 sept. 2021, en vigueur du 20 sept. au 31 déc. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^64c-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-5]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64c-6]: Abrogée par le ch. I de l’O du 23 juin 2021, avec effet au le 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-6]: Abrogée par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 [^64c-7]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
-[^64c-8]: Introduit par le le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 jusqu’au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-8]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur du 1<sup>er</sup> juin au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 [^64c-9]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+
+#### Art. 64d
+
+**Prise en charge des coûts des vaccinations contre le COVID-19 pour la protection indirecte des personnes vulnérables**[^64d-1]
+
+<sup>1</sup> La Confédération prend en charge les coûts des vaccinations contre le COVID-19, y compris les vaccinations de rappel, des personnes qui ne sont pas elles-mêmes vulnérables, mais dont la vaccination sert à protéger indirectement les personnes vulnérables.
+
+<sup>2</sup> L’art. 64*c*, al. 3 à 7, s’applique.
+
+[^64d-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur du 4 nov. au 31 déc. 2021 ([RO 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)).
 
 ### Section 3 Transport de marchandises
 

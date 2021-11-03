@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2021-09-20
+version: 2021-11-04
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210920/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210920-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210920/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20211104/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20211104-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20211104/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210920/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 20 settembre 2021)
+del 29 aprile 2015 (Stato 4 novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -971,6 +971,16 @@ Con l’importo di cui al capoverso 4 sono indennizzate tutte le prestazioni for
 [^64c-7]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 1° mar. 2021 ([RU 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
 [^64c-8]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 al 31 ago. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 [^64c-9]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+
+#### Art. 64d
+
+**Assunzione dei costi delle vaccinazioni anti-COVID-19 per la protezione indiretta di persone particolarmente a rischio**[^64d-1]
+
+<sup>1</sup> La Confederazione assume i costi delle vaccinazioni anti-COVID-19, compresi i richiami, di persone che non sono particolarmente a rischio, ma la cui vaccinazione serve a proteggere indirettamente le persone particolarmente a rischio.
+
+<sup>2</sup> L’articolo 64*c* capoversi 3–7 è applicabile.
+
+[^64d-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 4 nov. 2021 al 31 dic. 2021 ([RU 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)).
 
 ### Sezione 3: Trasporto di merci
 
