@@ -5,11 +5,12 @@ title: "Ordinaziun davart l'elecziun dal Cussegl grond"
 short: OECG
 language: rm
 version: 2021-10-01
+corrected: 2021-11-04
 version_adopted: 2021-09-21
 adopted: 2021-09-21
 in_force: 2021-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.410"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3194/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3192/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

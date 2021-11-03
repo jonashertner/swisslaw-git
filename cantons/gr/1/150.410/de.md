@@ -5,11 +5,12 @@ title: Verordnung über die Wahl des Grossen Rates
 short: Grossratswahlverordnung; GRWV
 language: de
 version: 2021-10-01
+corrected: 2021-11-04
 version_adopted: 2021-09-21
 adopted: 2021-09-21
 in_force: 2021-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/150.410"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3194/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3192/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -94,7 +95,7 @@ von der Regierung erlassen am 21. September 2021
 
 <sup>1</sup> Mit dem Wahlvorschlag ist für jede kandidierende Person ein von deren Wohnsitzgemeinde (politischer Wohnsitz) ausgestellter Wahlfähigkeitsausweis einzureichen.
 
-<sup>2</sup> Kandidierende, welche im Zeitpunkt der Einreichung des Wahlvorschlags Mitglieder des Grossen Rates sind, müssen keinen Wahlfähigkeitsausweis beibringen.
+<sup>2</sup> Kandidierende, welche im Zeitpunkt der Einreichung des Wahlvorschlags Mitglied des Grossen Rates sind, müssen kein Wahlfähigkeitsausweis beibringen.
 
 #### Art. 10
 
