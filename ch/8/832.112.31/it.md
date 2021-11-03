@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2021-10-01
+version: 2021-11-04
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20211001/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20211104/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20211104-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211104/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211001/it"
 
 (Ordinanza sulle prestazioni, OPre)**[^t-1]**
 
-del 29 settembre 1995 (Stato 1° ottobre 2021)
+del 29 settembre 1995 (Stato 4 novembre 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -288,7 +288,7 @@ Sono assunti i costi delle seguenti prestazioni dei fisioterapisti ai sensi degl
 [^5-1]: Nuovo testo giusta il n. I dellʼO del DFI del 27 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)).
 [^5-2]: Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 [^5-3]: Introdotto dal n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
-[^5-4]: Introdotto dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
+[^5-4]: Introdotto dal n. I dellʼO del DFI del 5 giu. 2009 (RU **20****09** 2821). Nuovo testo giusta il n. I dellʼO del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
 [^5-5]: Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 [^5-6]: Introdotto dal n. I dellʼO del DFI del 9 dic. 2002 ([RU 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Nuovo testo giusta il n. I dellʼO del DFI del 10 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)).
 [^5-7]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -390,8 +390,8 @@ Sono prestazioni ai sensi del capoverso 1:
 [^7-2]: Nuovo testo giusta il n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 [RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
 [^7-3]: Nuovo testo giusta il n. I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-4]: Nuovo testo giusta il n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-5]: Nuovo testo giusta il n. I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 (RU **2****019** 2145).
-[^7-6]: Introdotto dal n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
+[^7-5]: Nuovo testo giusta il n. I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+[^7-6]: Introdotto dal n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 (RU **20****11** 6487).
 [^7-7]: Nuovo testo giusta il n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^7-8]: Introdotto dal n. I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-9]: Introdotto dal n. I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
@@ -571,7 +571,7 @@ I dietisti o le organizzazioni di dietetica ai sensi degli articoli 46, 50*a* e 
 <sup>3</sup> Affinché la cura continui ad essere rimunerata dopo 12 consultazioni, il medico curante deve trasmettere al medico di fiducia una proposta debitamente motivata. Il medico di fiducia propone all’assicuratore se e in quale misura la consulenza nutrizionale può essere continuata a carico dell’assicurazione.
 
 [^9b-1]: Originario art. 9*a*.
-[^9b-2]: Nuovo testo giusta il n. I dellʼO del DFI del 16 ott. 2012, in vigore dal 1° gen. 2013 (RU **2****012** 5829).
+[^9b-2]: Nuovo testo giusta il n. I dellʼO del DFI del 16 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5829](https://fedlex.data.admin.ch/eli/oc/2012/681)).
 [^9b-3]: Nuovo testo giusta il n. I dellʼO del DFI del 18 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
 [^9b-4]: Nuovo testo giusta il n. I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^9b-5]: Introdotta dal n. I dellʼO del DFI del 6 dic. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
@@ -597,7 +597,7 @@ L’assicurazione assume i costi della consulenza ai diabetici prestata previa p
 
 <sup>4</sup> I dietisti (art. 50*a* OAMal) che operano in centri di consulenza dell’Associazione svizzera per il diabete possono effettuare le prestazioni di cui all’articolo 9*b* capoverso 1 lettera a e capoversi 2 e 3.
 
-[^9c-1]: Nuovo testo giusta il n. I dellʼO del DFI del 9 dic. 2002, in vigore dal 1° gen. 2003 (RU **2****002** 4253).
+[^9c-1]: Nuovo testo giusta il n. I dellʼO del DFI del 9 dic. 2002, in vigore dal 1° gen. 2003 ([RU 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)).
 
 ### Sezione 4: Logopedia
 
@@ -678,7 +678,7 @@ L’assicurazione assume i costi delle seguenti vaccinazioni profilattiche alle 
 <tr><td>k. Vaccinazione contro i virus del papilloma umano (HPV)</td><td colspan="2">1. Secondo il Calendario vaccinale 2021: a. vaccinazione di base delle ragazze dal compimento dell’11° anno di età al compimento del 15° anno di età; b. vaccinazione delle ragazze e delle donne dal compimento del 15° anno di età al compimento del 27° anno di età; c. vaccinazione complementare dei ragazzi e degli uomini dal compimento dell’11° anno di età al compimento del 27° anno di età. 2. Vaccinazione nel quadro di programmi cantonali di vaccinazione che devono soddisfare i seguenti requisiti minimi: a. l’informazione ai giovani appartenenti ai gruppi target e ai loro genitori (o rappresentanti legali) in merito alla disponibilità della vaccinazione e alle raccomandazioni dell’UFSP e della CFV secondo il numero 1 è garantita; b. la completezza delle vaccinazioni è ricercata; c. le prestazioni e gli obblighi dei responsabili del programma, dei medici che effettuano le vaccinazioni e degli assicuratori-malattie sono definiti; d. il rilevamento di dati, il conteggio, i flussi delle informazioni e delle finanze sono disciplinati. 3. Questa prestazione non è soggetta ad alcuna franchigia. Per la vaccinazione, compreso il vaccino, viene concordato un rimborso forfettario. 4. L’assunzione dei costi del vaccino nonavalente è in fase di valutazione fino al 31 dicembre 2022.</td></tr>
 <tr><td>l. Vaccinazione contro l’epatite A</td><td colspan="2">Secondo il Calendario vaccinale 2021. Per le seguenti persone: – per pazienti affetti da una malattia cronica del fegato – per bambini provenienti da Paesi con un’endemicità media o elevata che vivono in Svizzera e che ritornano al loro Paese d’origine per un soggiorno temporaneo – per persone che si iniettano droghe – per uomini che hanno contatti sessuali con altri uomini al di fuori di una relazione stabile. Vaccinazione post-esposizione entro sette giorni dall’esposizione. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
 <tr><td>m. Vaccinazione contro la rabbia</td><td colspan="2">Vaccinazione post-esposizione dopo il morso di un animale affetto, o sospettato di essere affetto, dalla rabbia. Se effettuato per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
-<tr><td>n.[^12a-6] Vaccinazione contro il COVID-19</td><td colspan="2">Durante un’epidemia di COVID-19 per le persone esposte a rischio elevato. Questa prestazione non è soggetta a franchigia. Per la vaccinazione, incluso il vaccino, viene concordato un rimborso forfettario.</td></tr>
+<tr><td>n.[^12a-6] Vaccinazione contro il COVID-19</td><td colspan="2">1. Immunizzazione di base durante un’epidemia di COVID-19 per le persone particolarmente in pericolo. 2. Vaccinazione di richiamo durante un’epidemia di COVID-19 per le persone particolarmente in pericolo. In valutazione. Le prestazioni elencate nei numeri 1 e 2 non sono soggette a franchigia. Per la vaccinazione, incluso il vaccino, viene concordato un rimborso forfettario.</td></tr>
 </table>
 
 [^12a-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nuovo testo giusta il n. I dellʼO del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
@@ -686,7 +686,7 @@ L’assicurazione assume i costi delle seguenti vaccinazioni profilattiche alle 
 [^12a-3]: Il documento può essere consultato al seguente indirizzo Internet: www.bag.admin.ch/ref
 [^12a-4]: Vedi l’O del 29 apr. 2015 sulle epidemie ([RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)).
 [^12a-5]: Abrogata dal n. I dell’O del DFI dell’8 giu. 2021, con effetto dal 1° lug. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^12a-6]: Introdotta dal n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^12a-6]: Introdotta dal n. I dellʼO del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Nuovo testo giusta il n. I dellʼO del DFI del 3 nov. 2021, in vigore dal 4 nov. 2021 al 30 giu. 2022 ([RU 2021 649](https://fedlex.data.admin.ch/eli/oc/2021/649)).
 
 #### Art. 12b
 
@@ -705,7 +705,7 @@ L’assicurazione assume i costi delle seguenti misure di profilassi di malattie
 </table>
 
 [^12b-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
-[^12b-2]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 (RU **20****09** 2821). Nuovo testo giusta il n. I dellʼO del DFI del 20 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)).
+[^12b-2]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 20 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)).
 [^12b-3]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif
 [^12b-4]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 31 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)).
 [^12b-5]: I documenti possono essere consultati allʼindirizzo [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Assicurazione malattie &gt; Basi giuridiche e dʼesecuzione&gt; Diritto applicabile &gt; Documenti di riferimento.
@@ -978,7 +978,7 @@ L’assicurazione assume i costi delle cure dentarie attinenti alle malattie gra
 [^18-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^18-3]: Nuovo testo giusta il n. I dellʼO del DFI del 9 lug. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2923](https://fedlex.data.admin.ch/eli/oc/1998/2923_2923_2923)).
 [^18-4]: Abrogata dal n. I dellʼO del DFI del 9 lug. 1998, con effetto dal 1° gen. 1999 ([RU 1998 2923](https://fedlex.data.admin.ch/eli/oc/1998/2923_2923_2923)).
-[^18-5]: Introdotto dal n. I dellʼO del DFI del 2 lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)). Nuovo testo giusta il n. I dellʼO del DFI del 28 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)).
+[^18-5]: Introdotto dal n. I dellʼO del DFI del 2 lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)). Nuovo testo giusta il n. I dellʼO del DFI del 28 nov. 2017, in vigore dal 1° gen. 2018 (RU **2****017** 7151).
 
 #### Art. 19
 
@@ -1109,7 +1109,7 @@ L’assicurazione assume una determinata rimunerazione dei mezzi e degli apparec
 <sup>2</sup> La rimunerazione dei mezzi e degli apparecchi che i fornitori di prestazioni di cui all’articolo 35 capoverso 2 LAMal, nel quadro della loro attività, non utilizzano ai sensi del capoverso 1 lettera b è fissata nelle convenzioni tariffali con la relativa diagnosi o cura.
 
 [^20-1]: Nuovo testo giusta il n. I dellʼO del DFI del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
-[^20-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^20-2]: RS **832****.****10**
 
 #### Art. 20a
 

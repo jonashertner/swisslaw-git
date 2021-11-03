@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2021-10-01
+version: 2021-11-04
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20211104/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20211104-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211104/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211001/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)**[^t-1]**
 
-du 29 septembre 1995 (Etat le 1<sup>er</sup> octobre 2021)
+du 29 septembre 1995 (Etat le 4 novembre 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -27,7 +27,7 @@ vu les art. 33, 36, al. 1, 54, al. 2 à 4, 59*a*, 62, 65, al. 3, 65*b*, al. 3, 6
 
 arrête:
 
-[^ingress-1]: <sup>RS 832.1</sup>**02**
+[^ingress-1]: <sup>RS</sup> <sup>**832.1**</sup>**02**
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
 
 ## Titre 1 Prestations
@@ -231,7 +231,7 @@ L’assurance prend en charge les coûts des prestations des disciplines suivant
 [^4b-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 [^4b-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 [^4b-5]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
-[^4b-6]: Nouvelle teneur selon le ch.I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^4b-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 [^4b-7]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 [^4b-8]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 
@@ -679,7 +679,7 @@ L’assurance prend en charge les coûts des vaccinations prophylactiques suivan
 <tr><td>k. Vaccination contre les papillomavirus humain (HPV)</td><td colspan="2">1. Selon le Plan de vaccination 2021: a. vaccination de base des filles à partir de 11 ans jusqu’au jour où elles atteignent l’âge de 15 ans; b. vaccination des filles à partir de 15 ans et des jeunes femmes jusqu’au jour où elles atteignent l’âge de 27 ans; c. vaccination complémentaire pour les garçons à partir de 11 ans et les jeunes hommes jusqu’au jour où ils atteignent l’âge de 27 ans. 2. Vaccination dans le cadre de programmes cantonaux de vaccination qui doivent satisfaire aux exigences minimales suivantes: a. l’information des groupes cibles et de leurs parents ou représentants légaux sur la disponibilité des vaccins et les recommandations de l’OFSP et de la CFV visées au ch. 1 est assurée; b. la vaccination complète est visée; c. les prestations et les obligations des responsables du programme, des médecins chargés de la vaccination et des assureurs-maladie sont définies; d. la collecte des données, le décompte, les flux d’information et les flux financiers sont réglés. 3. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris). 4. La prise en charge du vaccin nonavalent est en cours d’évaluation jusqu’au 31 décembre 2022.</td></tr>
 <tr><td>l. Vaccination contre l’hépatite A</td><td colspan="2">Selon le Plan de vaccination 2021. Pour les personnes suivantes: – pour les patients atteints d’une affection chronique du foie; – pour les enfants en provenance de pays à forte ou moyenne endémie qui vivent en Suisse et retournent dans leur pays d’origine pour un séjour temporaire; – pour les consommateurs de drogue par injection; – pour les hommes ayant des relations sexuelles avec d’autres hommes en dehors d’une relation stable. Vaccination post-expositionnelle dans les sept jours suivant l’exposition. En cas d’indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
 <tr><td>m. Vaccination contre la rage</td><td colspan="2">Vaccination post-expositionnelle, après une morsure par un animal enragé ou susceptible de l’être. En cas d’indication professionnelle la vaccination n’est pas prise en charge par l’assurance.</td></tr>
-<tr><td>n.[^12a-6] Vaccination contre COVID-19</td><td colspan="2">En cas d’une épidémie COVID-19, pour les personnes particulièrement menacées. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
+<tr><td>n.[^12a-6] Vaccination contre le COVID-19</td><td colspan="2">1. Immunisation de base en cas d’épidémie de COVID-19, pour les personnes particulièrement menacées. 2. Vaccination de rappel en cas d’épidémie de COVID-19, pour les personnes particulièrement menacées. En évaluation. Aucune franchise n’est prélevée pour les prestations énumérées aux ch. 1 et 2. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
 </table>
 
 [^12a-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
@@ -687,7 +687,7 @@ L’assurance prend en charge les coûts des vaccinations prophylactiques suivan
 [^12a-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 [^12a-4]: Voir l’ordonnance du 29 avril 2015 sur les épidémies ([RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)**)**.
 [^12a-5]: Abrogée par le ch. I de l’O du DFI du 8 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^12a-6]: Introduite par le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^12a-6]: Introduite par le ch. I de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Nouvelle teneur selon le ch. I de l’O du DFI du 3 nov. 2021, en vigueur du 4 nov. 2021 au 30 juin 2022 ([RO 2021 649](https://fedlex.data.admin.ch/eli/oc/2021/649)).
 
 #### Art. 12b
 
@@ -1324,7 +1324,7 @@ Il décide sans consulter la CFM:
 <sup>2</sup> Le titulaire de l’autorisation doit avoir déposé une demande d’admission auprès de l’OFSP au plus tard 30 jours avant la séance de la CFM au cours de laquelle la demande d’autorisation doit être traitée.
 
 [^31a-1]: Introduit par le ch. I de l’O du DFI du 2 juil. 2002 ([RO 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)). Nouvelle teneur selon le ch. I de l’O du DFI du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
-[^31a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^31a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
 
 #### Art. 31b
 

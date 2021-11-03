@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2021-10-01
+version: 2021-11-04
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20211001/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20211104/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20211104-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211104/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211001/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. Oktober 2021)
+vom 29. September 1995 (Stand am 4. November 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -684,7 +684,7 @@ Die Versicherung übernimmt die Kosten für folgende prophylaktische Impfungen u
 <tr><td>k. Impfung gegen Humane Papillomaviren (HPV)</td><td>1. Gemäss Impfplan 2021: a. Basisimpfung der Mädchen zwischen dem vollendeten 11. und dem vollendeten 15. Altersjahr; b. Impfung der Mädchen und Frauen zwischen dem vollendeten 15. und dem vollendeten 27. Altersjahr; c. ergänzende Impfung bei Knaben und Männern zwischen dem vollendeten 11. und dem vollendeten 27. Altersjahr. 2. Impfung im Rahmen von kantonalen Impfprogrammen, die folgende Minimalanforderungen erfüllen: a. Die Information der Zielgruppen und von deren Eltern/gesetzlicher Vertretung über die Verfügbarkeit der Impfung und die Empfehlungen des BAG und der EKIF nach Ziffer 1 ist sichergestellt. b. Die Vollständigkeit der Impfung wird angestrebt. c. Die Leistungen und Pflichten der Programmträger, der impfenden Ärzte und Ärztinnen und der Krankenversicherer sind definiert. d. Datenerhebung, Abrechnung, Informations- und Finanzflüsse sind geregelt. 3. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart. 4. Die Kostenübernahme des nonavalenten Impfstoffes ist in Evaluation bis 31. Dezember 2022.</td></tr>
 <tr><td>l. Hepatitis-A-Impfung</td><td>Gemäss Impfplan 2021. Bei folgenden Personen: – bei Patienten und Patientinnen mit einer chronischen Lebererkrankung; – bei Kindern aus Ländern mit mittlerer und hoher Endemizität, die in der Schweiz leben und für einen vorübergehenden Aufenthalt in ihr Herkunftsland zurückkehren; – bei drogeninjizierenden Personen; – bei Männern mit sexuellen Kontakten zu Männern ausserhalb einer stabilen Beziehung. Postexpositionelle Impfung innerhalb von sieben Tagen nach Exposition. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
 <tr><td>m. Impfung gegen Tollwut</td><td>Postexpositionelle Impfung nach Biss durch ein tollwütiges oder tollwutverdächtiges Tier. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><th>n.[^12a-6] Impfung gegen Covid-19</th><th>Während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.</th></tr>
+<tr><th>n.[^12a-6] Impfung gegen Covid-19</th><th>1. Grundimmunisierung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. 2. Auffrischimpfung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. In Evaluation. Auf den Leistungen nach den Ziffern 1 und 2 wird keine Franchise erhoben. Für die Impfung einschliesslich Impfstoff wird eine pauschale Vergütung vereinbart.</th></tr>
 </table>
 
 [^12a-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
@@ -692,7 +692,7 @@ Die Versicherung übernimmt die Kosten für folgende prophylaktische Impfungen u
 [^12a-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
 [^12a-4]: Siehe die Epidemienverordnung vom 29. April 2015 ([SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)).
 [^12a-5]: Aufgehoben durch Ziff. I der V des EDI vom 8. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^12a-6]: Eingefügt durch Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^12a-6]: Eingefügt durch Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Fassung gemäss Ziff. I der V des EDI vom 3. Nov. 2021, in Kraft vom 4. Nov. 2021 bis zum 30. Juni 2022 ([AS 2021 649](https://fedlex.data.admin.ch/eli/oc/2021/649)).
 
 #### Art. 12b
 
