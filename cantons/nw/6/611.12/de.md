@@ -5,37 +5,38 @@ title: Verordnung über die Aussen- und Strassenreklame
 short: "Reklameverordnung, ReklV"
 language: de
 version: 2018-10-01
-valid_until: 2025-12-31
+corrected: 2021-11-04
 version_adopted: 2018-06-13
 adopted: 2026-03-17
 in_force: 2026-04-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/811/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/481/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Aussen- und Strassenreklame
+# Verordnung über die Aussen- und Strassenreklame (Reklameverordnung, ReklV)
 
-(Reklameverordnung, ReklV)
-
-vom 17.05.1989 (Stand 01.10.2018)
+vom 17. Mai 1989[^t-2][^t-1]
 
 Der Landrat,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 133 des Gesetzes vom 24. April 1988 über die Raumplanung und das öffentliche Baurecht (Baugesetz)[^ingress-1],
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 133 des Gesetzes vom 24. April 1988 über die Raumplanung und das öffentliche Baurecht (Baugesetz)[^t-3],
 
 beschliesst:
 
-[^ingress-1]: NG 611.1
+[^t-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+[^t-2]: A 1989, 631, 985
+[^t-3]: NG 611.1
 
-## 1 Zweck und Geltungsbereich
+### I. ZWECK UND GELTUNGSBEREICH
 
 #### § 1
 
 **Zweck**
 
-<sup>1</sup> Die Reklameverordnung dient dem Schutz des Orts- und Landschaftsbildes, der Kultur- und Naturdenkmäler sowie der Aussichtspunkte und regelt den Vollzug der eidgenössischen Reklamevorschriften zur Gewährleistung der Verkehrssicherheit.
+Die Reklameverordnung dient dem Schutz des Orts- und Landschaftsbildes, der Kultur- und Naturdenkmäler sowie der Aussichtspunkte und regelt den Vollzug der eidgenössischen Reklamevorschriften zur Gewährleistung der Verkehrssicherheit.
 
 #### § 2
 
@@ -50,7 +51,7 @@ beschliesst:
 [^2-1]: SR 741.21
 [^2-2]: SR 742.41
 
-## 2 Begriffe
+### II. BEGRIFFE
 
 #### § 3
 
@@ -74,7 +75,7 @@ beschliesst:
 
 **Fremdreklamen**
 
-<sup>1</sup> Fremdreklamen werben für Firmen, Betriebe, Produkte, Dienstleistungen, Veranstaltungen, Ideen und dergleichen, die mit dem Standort der Reklame in keinem örtlichen Zusammenhang stehen.
+Fremdreklamen werben für Firmen, Betriebe, Produkte, Dienstleistungen, Veranstaltungen, Ideen und dergleichen, die mit dem Standort der Reklame in keinem örtlichen Zusammenhang stehen.
 
 #### § 6
 
@@ -88,7 +89,7 @@ beschliesst:
 
 **Plakatanschlagstellen**
 
-<sup>1</sup> Plakatanschlagstellen sind Einrichtungen zum wechselweisen Anbringen von Fremdreklamen auf öffentlichem oder privatem Grund.
+Plakatanschlagstellen sind Einrichtungen zum wechselweisen Anbringen von Fremdreklamen auf öffentlichem oder privatem Grund.
 
 #### § 8
 
@@ -104,51 +105,51 @@ beschliesst:
 
 <sup>1</sup> Informationstafeln sind Einrichtungen mit überwiegend im öffentlichen Interesse liegendem Informationsgehalt (Ortspläne, geschichtliche Abrisse usw.) und zusätzlicher Werbefläche.
 
-Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
+<sup>2</sup> Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 #### § 10
 
 **Temporäre Reklamen**
 
-<sup>1</sup> Temporäre Reklamen werben für bestimmte Veranstaltungen oder Anlässe.
+Temporäre Reklamen werben für bestimmte Veranstaltungen oder Anlässe.
 
 #### § 11
 
 **Baureklamen**
 
-<sup>1</sup> Baureklamen orientieren an Ort über Neu- und Umbauten, die am Bau beteiligten Firmen sowie über Verkauf und Vermietung.
+Baureklamen orientieren an Ort über Neu- und Umbauten, die am Bau beteiligten Firmen sowie über Verkauf und Vermietung.
 
 #### § 12
 
 **Leuchtreklamen**
 
-<sup>1</sup> Unter den Begriff Leuchtreklamen fallen selbstleuchtende, angeleuchtete und lichtreflektierende Reklamen.
+Unter den Begriff Leuchtreklamen fallen selbstleuchtende, angeleuchtete und lichtreflektierende Reklamen.
 
 #### § 13
 
 **Dachreklamen**
 
-<sup>1</sup> Dachreklamen sind Reklamen, die im Bereich der Dachfläche angebracht werden oder über den Dachfirst, bei Flachdächern über die Brüstung, nach oben hinausragen. Ausgenommen sind die Reklamen auf eingeschossigen Geschäftstrakten (bis 4.50 m) und auf oder an Vordächern.
+Dachreklamen sind Reklamen, die im Bereich der Dachfläche angebracht werden oder über den Dachfirst, bei Flachdächern über die Brüstung, nach oben hinausragen. Ausgenommen sind die Reklamen auf eingeschossigen Geschäftstrakten (bis 4,50 m) und auf oder an Vordächern.
 
 #### § 14
 
 **Freistehende Reklamen**
 
-<sup>1</sup> Freistehende Reklamen sind nicht an einem Gebäude angebracht.
+Freistehende Reklamen sind nicht an einem Gebäude angebracht.
 
 #### § 15
 
 **Bewegliche Reklamen**
 
-<sup>1</sup> Bewegliche Reklamen bewegen sich selbst, werden durch äussere Einflüsse bewegt oder erwecken optisch den Eindruck der Bewegung.
+Bewegliche Reklamen bewegen sich selbst, werden durch äussere Einflüsse bewegt oder erwecken optisch den Eindruck der Bewegung.
 
-## 3 Allgemeine Bestimmungen
+### III. ALLGEMEINE BESTIMMUNGEN
 
 #### § 16
 
-**Bewilligungspflicht 1. Grundsatz**
+**Bewilligungspflicht**
 
-<sup>1</sup> Das Anbringen, Ändern und Versetzen von Reklamen ist bewilligungspflichtig.
+- 1\. Grundsatz Das Anbringen, Ändern und Versetzen von Reklamen ist bewilligungspflichtig.
 
 #### § 17
 
@@ -157,11 +158,17 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 <sup>1</sup> Keiner Bewilligung bedürfen:
 
 - 1\. Eigenreklamen und Fremdreklamen in Schaufenstern und Schaukästen sowie an Fahrzeugen;
-- 2\. nicht leuchtende, flach an einer Fassade oder an vorspringenden Bauteilen angebrachte Firmenanschriften, entweder in der Form von Einzelbuchstaben von höchstens 50 cm Höhe oder als Schilder von höchstens 1.5 m Fläche;
+
+- 2\. nicht leuchtende, flach an einer Fassade oder an vorspringenden Bauteilen angebrachte Firmenanschriften, entweder in der Form von Einzelbuchstaben von höchstens 50 cm Höhe oder als Schilder von höchstens 1,5 m<sup>2</sup> Fläche;
+
 - 3\. Angebotstafeln beim Eingang zu Detailhandelsgeschäften und Gastgewerbebetrieben, sofern sie nur während der Geschäftsöffnungszeit aufgestellt werden und den Fussgängerverkehr nicht behindern (vorbehalten bleiben Vorschriften über Preisbekanntgabe sowie Ausverkäufe und ähnliche Veranstaltungen);
+
 - 4\. Fahnen und Flaggen;
+
 - 5\. Eigenreklamen von höchstens 25 cm Höhe an Volants von Sonnenstoren;
-- 6\. unbeleuchtete Einzeltafeln von höchstens 0.3 m² Fläche im Bereich des Geschäftseinganges oder der Schaufenster;
+
+- 6\. unbeleuchtete Einzeltafeln von höchstens 0,3 m<sup>2</sup> Fläche im Bereich des Geschäftseinganges oder der Schaufenster;
+
 - 7\. Baureklamen sowie temporäre Reklamen im Rahmen von § 31.
 
 <sup>2</sup> Die Wiederholung von Firmenanschriften an derselben Fassade, die Ausgestaltung als Dachreklame, Leuchtreklame oder als von der Fassade abstehende Reklame bedarf in jedem Fall einer Bewilligung.
@@ -170,7 +177,9 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 #### § 18
 
-**Grundsätze für Form und Gestaltung der Reklamen 1. allgemein**
+**Grundsätze für Form und Gestaltung der Reklamen**
+
+### 1. allgemein
 
 <sup>1</sup> Reklamen müssen sich in ihrer Grösse, Form, Farbe, Ausführung (Werkstoff) und Häufigkeit dem Orts- und Landschaftsbild sowie den bestehenden baulichen Anlagen ein- und unterordnen. Sie müssen in einem ausgewogenen Verhältnis zu ihrer Umgebung stehen und dürfen weder den Charakter einer Liegenschaft verändern noch einen dominierenden Akzent in der Umgebung werden. Dabei ist die Gesamtwirkung aller zulässigen Reklamen in der Umgebung zu berücksichtigen.
 
@@ -180,7 +189,7 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 **2. quergestellte**
 
-<sup>1</sup> Quer zum Gebäude angebrachte Reklamen sind bis zu einer Grösse von höchstens 1.0 m² zulässig. Die flächenmässige Begrenzung gilt nicht für Reklamen von Betrieben, die dem Verkehr oder dem Tourismus dienen, wie Garagen, Gastgewerbebetriebe, Banken, Bahnhöfen und dergleichen. Deren quergestellte Reklamen müssen aber auf die Höhe der Gebäudefassade abgestimmt sein und dürfen in keinem Fall grösser als höchstens 100 x 30 cm sein.
+Quer zum Gebäude angebrachte Reklamen sind bis zu einer Grösse von höchstens 1,0 m<sup>2</sup> zulässig. Die flächenmässige Begrenzung gilt nicht für Reklamen von Betrieben, die dem Verkehr oder dem Tourismus dienen, wie Garagen, Gastgewerbebetriebe, Banken, Bahnhöfen und dergleichen. Deren quergestellte Reklamen müssen aber auf die Höhe der Gebäudefassade abgestimmt sein und dürfen in keinem Fall grösser als höchstens 100 x 300 cm sein.
 
 #### § 20
 
@@ -204,9 +213,11 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 <sup>1</sup> Aus wichtigen Gründen können Ausnahmen von einzelnen Reklamevorschriften bewilligt werden, sofern dadurch keine öffentlichen Interessen beeinträchtigt werden.
 
-<sup>2</sup> …
+<sup>2</sup> ...[^22-1]
 
-## 4 Spezielle Bestimmungen für einzelne Reklamearten
+[^22-1]: Fassung gemäss Landratsbeschluss vom 21. September 2005, A 2005, 1440, 1855; in Kraft seit 1. Januar 2006
+
+### IV. SPEZIELLE BESTIMMUNGEN FÜR EINZELNE REKLAMEARTEN
 
 #### § 23
 
@@ -222,7 +233,9 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 #### § 24
 
-**Eigenreklamen 1. allgemein**
+**Eigenreklamen**
+
+### 1. allgemein
 
 <sup>1</sup> Je Betrieb kann eine Eigenreklame an der Fassade oder anstelle einer Firmenanschrift quer zur Fassade oder in Kombination mit einer Firmenanschrift an beziehungsweise quer zur Fassade bewilligt werden.
 
@@ -232,7 +245,7 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 **2. bewegliche**
 
-<sup>1</sup> Bewegliche Eigenreklamen sind nur gestattet, wenn eine Beeinträchtigung des Orts- oder Landschaftsbildes sowie von Interessen Dritter ausgeschlossen ist.
+Bewegliche Eigenreklamen sind nur gestattet, wenn eine Beeinträchtigung des Orts- oder Landschaftsbildes sowie von Interessen Dritter ausgeschlossen ist.
 
 #### § 26
 
@@ -241,8 +254,11 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 <sup>1</sup> Fremdreklamen sind zulässig:
 
 - 1\. innerorts an den behördlich bewilligten Anschlagstellen für Plakate oder temporäre Reklamen;
+
 - 2\. innerorts an den Anschlagstellen für Bekanntmachungen von Behörden und Verkehrsbetrieben;
+
 - 3\. flach an den Fassaden von Stationsgebäuden der Verkehrsbetriebe, an Mehrzweckgebäuden für den Sport sowie innerhalb von Sportanlagen;
+
 - 4\. in Schaukästen für ortsansässige Betriebe ohne andere geeignete Reklamemöglichkeiten sowie für Vereine, Theater, Kinos und dergleichen.
 
 <sup>2</sup> Bewegliche Fremdreklamen sind nur unter den Voraussetzungen von § 25 zulässig.
@@ -251,7 +267,7 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 **Dachreklamen**
 
-<sup>1</sup> Dachreklamen sind nur ausnahmsweise und nur als Eigenreklame zulässig.
+Dachreklamen sind nur ausnahmsweise und nur als Eigenreklame zulässig.
 
 #### § 28
 
@@ -285,17 +301,19 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 <sup>6</sup> Veranstalter, die temporäre Reklamen aushängen, sind verpflichtet, die verwendeten Werbemittel jeweils binnen drei Tagen nach Durchführung der Veranstaltung zu entfernen; bei Säumnis findet Absatz 5 sinngemäss Anwendung.
 
+[^30-1]: Fassung gemäss Landratsbeschluss vom 22. Oktober 2008, A 2008, 2087, A 2009, 2; in Kraft seit 1. Januar 2009
+
 #### § 31
 
-**Baureklamen**
+**Baureklamen[^30-1]**
 
 <sup>1</sup> Baureklamen sind für die Dauer der eigentlichen Bauarbeiten zulässig. Sie sind in der Regel auf einer Tafel zusammenzufassen. Die Grösse der Tafel richtet sich nach den örtlichen Verhältnissen.
 
 <sup>2</sup> Baureklamen sind als Leuchtreklamen nicht zulässig.
 
-<sup>3</sup> Angaben über Verkauf oder Vermietung dürfen ausserhalb der Bauphase höchstens während zwölf Monaten angebracht sein. Die Grösse solcher Tafeln darf 2 m² nicht übersteigen.
+<sup>3</sup> Angaben über Verkauf oder Vermietung dürfen ausserhalb der Bauphase höchstens während zwölf Monaten angebracht sein. Die Grösse solcher Tafeln darf 2 m<sup>2</sup> nicht übersteigen.
 
-## 5 Besondere Bestimmungen für Tankstellen und Garagen
+### V. BESONDERE BESTIMMUNGEN FÜR TANKSTELLEN UND GARAGEN
 
 #### § 32
 
@@ -309,7 +327,7 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Vorschriften dieses Verordnungsabschnittes gelten für alle Tankstellen mit oder ohne Service- und Reparaturanlagen, Kioske und dergleichen; ausgenommen sind Tankstellen an Autobahnen, bei denen eidgenössisches Recht zur Anwendung gelangt.
+Die Vorschriften dieses Verordnungsabschnittes gelten für alle Tankstellen mit oder ohne Service- und Reparaturanlagen, Kioske und dergleichen; ausgenommen sind Tankstellen an Autobahnen, bei denen eidgenössisches Recht zur Anwendung gelangt.
 
 #### § 34
 
@@ -326,6 +344,7 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 <sup>1</sup> Bei Tankstellen oder auf Tankstellendächern dürfen in Richtung auf den zufliessenden Verkehr angebracht werden:
 
 - 1\. ein Markenzeichen für eine Treibstoffmarke;
+
 - 2\. die Markenzeichen von höchstens drei vom Tankstelleninhaber vertretenen Automarken oder Markengruppen.
 
 <sup>2</sup> Zusätzlich zur Treibstoffmarke kann eine Tafel mit Treibstoffpreis-Angaben und eine mit der Anschrift «offen», «geschlossen» und «Automat» angebracht werden.
@@ -336,10 +355,13 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 <sup>5</sup> Die Fläche von Markenzeichen darf (mit oder ohne Beleuchtung, einschliesslich Umrandung) höchstens betragen:
 
-- 1\. bei Treibstoffmarken 1.50 m²;
-- 2\. je Automarke 0.80 m²;
-- 3\. je Tafel «offen», «geschlossen» und «Automat» 0.40 m²;
-- 4\. bei Tafeln für die Anzeige des Treibstoffpreises 0.25 m².
+- 1\. bei Treibstoffmarken 1,50 m<sup>2</sup>;
+
+- 2\. je Automarke 0,80 m<sup>2</sup>;
+
+- 3\. je Tafel «offen», «geschlossen» und «Automat» 0,40 m<sup>2</sup>;
+
+- 4\. bei Tafeln für die Anzeige des Treibstoffpreises 0,25 m<sup>2</sup>.
 
 <sup>6</sup> Vorankündigungen von Marken sind nicht zulässig. Bei ungünstigen Sichtverhältnissen oder auf Strassen mit schnellem Verkehr kann die zuständige Behörde ausserorts das Signal «Tankstelle» aufstellen.
 
@@ -353,7 +375,9 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 #### § 37
 
-**Beleuchtungsanzeigen 1. Grundsätze**
+**Beleuchtungsanzeigen**
+
+### 1. Grundsätze
 
 <sup>1</sup> Die Beleuchtungsanzeigen an Tankstellen einschliesslich Markenzeichen und Reklamen dürfen keine Blendung verursachen.
 
@@ -368,13 +392,14 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 <sup>2</sup> Bei direkter Beleuchtung sind zulässig:
 
 - 1\. Leuchten mit lichtstreuender Abdeckung oder mit Rasterabdeckung, allenfalls unterstützt durch bauseitige Abschirmungen in Richtung des fliessenden Verkehrs;
+
 - 2\. Reflektorleuchten, die bei Öffnungswinkeln von mehr als 120° zusätzlich mit Rastern versehen sein müssen.
 
 <sup>3</sup> Bei indirekter Beleuchtung über Wände und Decken sind möglichst grosse, gleichmässig beleuchtete Flächen zum Rückwurf des Lichtes heranzuziehen.
 
 <sup>4</sup> Die Leuchtdichte selbstleuchtender oder angestrahlter Markenzeichen, Reklamen, Ankündigungen, Transparente usw. muss der Leuchtdichte der Umgebung der Tankstelle angepasst werden.
 
-## 6 Schutzgebiete
+### VI. SCHUTZGEBIETE
 
 #### § 39
 
@@ -384,17 +409,20 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 <sup>2</sup> Die entsprechenden Reglemente bedürfen der Genehmigung durch den Regierungsrat.
 
-## 7 Bewilligungsverfahren
+### VII. BEWILLIGUNGSVERFAHREN
 
 #### § 40
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Baubewilligungsbehörde ist zuständig, im Rahmen der Vorschriften dieser Verordnung Reklamebewilligungen zu erteilen.
+<sup>1</sup> Die Baubewilligungsbehörde ist zuständig, im Rahmen der Vorschriften dieser Verordnung Reklamebewilligungen zu erteilen.[^40-1]
 
-<sup>2</sup> Für Reklamen im Bereich der für Motorfahrzeuge oder Fahrräder offenen Strassen hat er vorgängig die Zustimmung der Kantonspolizei einzuholen.
+<sup>2</sup> Für Reklamen im Bereich der für Motorfahrzeuge oder Fahrräder offenen Strassen hat er vorgängig die Zustimmung der Kantonspolizei einzuholen.[^40-2]
 
-<sup>3</sup> Bewilligungsgesuche, die Reklamen im Bereich geschützter Ortsbilder, in der Umgebung von geschützten Kulturobjekten oder an geschützten Objekten betreffen, hat der Gemeinderat zur Stellungnahme der Fachstelle für Denkmalpflege vorzulegen, bevor er entscheidet.
+<sup>3</sup> Bewilligungsgesuche, die Reklamen im Bereich geschützter Ortsbilder, in der Umgebung von geschützten Kulturobjekten oder an geschützten Objekten betreffen, hat der Gemeinderat zur Stellungnahme der Fachstelle für Denkmalpflege vorzulegen, bevor er entscheidet.[^40-2]
+
+[^40-1]: Fassung gemäss Landratsbeschluss vom 13. Juni 2018, A 2018, 1109, 1623; in Kraft seit 1. Oktober 2018
+[^40-2]: Fassung gemäss Landratsbeschluss vom 21. September 2005, A 2005, 1440, 1855; in Kraft seit 1. Januar 2006
 
 #### § 41
 
@@ -402,7 +430,7 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 <sup>1</sup> Das Gesuch für eine Reklamebewilligung ist bei der Gemeinde einzureichen, auf deren Gebiet sich der vorgesehene Standort der Reklame befindet.
 
-<sup>2</sup> Dem Gesuch ist eine massstäbliche Skizze mit den erforderlichen Einzelangaben über Art und Ausführung, Grösse, Farbe, Text und Anbringungsort der Reklame sowie ein Situationsplan im Massstab 1:2'000, 1:1'000 oder 1:500 beizulegen. Anstelle eines Situationsplanes kann eine hinreichende Fotodokumentation beigelegt werden.
+<sup>2</sup> Dem Gesuch ist eine massstäbliche Skizze mit den erforderlichen Einzelangaben über Art und Ausführung, Grösse, Farbe, Text und Anbringungsort der Reklame sowie ein Situationsplan im Massstab 1:2000, 1:1000 oder 1:500 beizulegen. Anstelle eines Situationsplanes kann eine hinreichende Fotodokumentation beigelegt werden.
 
 <sup>3</sup> Für Reklamen auf einer fremden Liegenschaft ist das Gesuch mit einer Zustimmungserklärung des Grundeigentümers zu ergänzen.
 
@@ -412,33 +440,35 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 <sup>1</sup> Nach der genauen Abklärung des Sachverhalts sowie nach dem Vorliegen der Stellungnahmen gemäss § 40 Absätze 2 und 3 entscheidet der Gemeinderat über das Gesuch.
 
-<sup>2</sup> Reklamebewilligungen sind der Kantonspolizei und der Fachstelle für Denkmalpflege zu eröffnen, sofern sie angehört worden sind.
+<sup>2</sup> Reklamebewilligungen sind der Kantonspolizei und der Fachstelle für Denkmalpflege zu eröffnen, sofern sie angehört worden sind.[^42-1]
+
+[^42-1]: Fassung gemäss Landratsbeschluss vom 21. September 2005, A 2005, 1440, 1855; in Kraft seit 1. Januar 2006
 
 #### § 43
 
 **Gültigkeitsdauer der Bewilligung**
 
-<sup>1</sup> Reklamebewilligungen verfallen, wenn die bewilligten Reklamen nicht innerhalb von zwei Jahren verwirklicht werden.
+Reklamebewilligungen verfallen, wenn die bewilligten Reklamen nicht innerhalb von zwei Jahren verwirklicht werden.
+
+[^43-1]: Fassung gemäss Landratsbeschluss vom 21. September 2005, A 2005, 1440, 1855; in Kraft seit 1. Januar 2006
 
 #### § 44
 
-**Gebühren**
+**Gebühren[^43-1]**
 
 <sup>1</sup> Für die Behandlung von Reklamegesuchen wird eine Gebühr erhoben. Diese setzt sich zusammen aus der Behandlungsgebühr der Gemeinde und gegebenenfalls jener der Kantonspolizei.
 
-<sup>2</sup> Die Behandlungsgebühr der Gemeinde richtet sich nach dem im Anhang enthaltenen Tarif, jene der Kantonspolizei nach der Vollzugsverordnung zum Gesetz über die amtlichen Kosten (Gebührenverordnung)[^44-1].
-
-<sup>3</sup> Gebühren und Abgaben für die Beanspruchung öffentlichen Grundes bleiben vorbehalten.
+<sup>2</sup> Die Behandlungsgebühr der Gemeinde richtet sich nach dem im Anhang enthaltenen Tarif, jene der Kantonspolizei nach der Vollzugsverordnung zum Gesetz über die amtlichen Kosten (Gebührenverordnung)[^44-1]. Gebühren und Abgaben für die Beanspruchung öffentlichen Grundes bleiben vorbehalten.
 
 [^44-1]: NG 265.51
 
-## 8 Aufsicht
+### VIII. AUFSICHT
 
 #### § 45
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Aufsicht über die Reklamen obliegt innerhalb des Gemeindegebietes dem Gemeinderat.
+Die Aufsicht über die Reklamen obliegt innerhalb des Gemeindegebietes dem Gemeinderat.
 
 #### § 46
 
@@ -458,15 +488,19 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 <sup>3</sup> Wird die Reklame innerhalb der gesetzmässigen Frist weder entfernt noch den Vorschriften dieser Verordnung angepasst oder unterhalten, droht der Gemeinderat auf Kosten des Säumigen Ersatzvornahme an.
 
-## 9 Rechtspflege
+### IX. RECHTSPFLEGE
+
+[^hIXRECHTSPFLEGE-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### § 48
 
-**…**
+**…[^hIXRECHTSPFLEGE-1]**
+
+[^48-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### § 48a
 
-**Beschwerdebefugnis**
+**Beschwerdebefugnis[^48-1]**
 
 <sup>1</sup> Fachstellen und Organisationen gemäss Art. 46 des Denkmalschutzgesetzes[^48a-1] sind zur Beschwerde befugt.
 
@@ -475,13 +509,15 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 [^48a-1]: NG 322.2
 [^48a-2]: NG 265.1
 
-## 10 Strafbestimmung, Ersatzvornahme
+### X. STRAFBESTIMMUNG, ERSATZVORNAHME
 
 #### § 49
 
 **Widerhandlungen**
 
-<sup>1</sup> Unter Vorbehalt besonderer gesetzlicher Bestimmungen werden Widerhandlungen gegen Vorschriften dieser Verordnung und der gestützt darauf erlassenen Verfügungen und Entscheide oder gegen an eine Bewilligung geknüpfte Bedingungen und Auflagen mit Busse bestraft.
+Unter Vorbehalt besonderer gesetzlicher Bestimmungen werden Widerhandlungen gegen Vorschriften dieser Verordnung und der gestützt darauf erlassenen Verfügungen und Entscheide oder gegen an eine Bewilligung geknüpfte Bedingungen und Auflagen mit Busse[^49-1] bestraft.
+
+[^49-1]: Fassung gemäss Landratsbeschluss vom 25. Oktober 2006, A 2006, 1705, A 2007, 5; in Kraft seit 1. Januar 2007
 
 #### § 50
 
@@ -493,7 +529,7 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 [^50-1]: SR 281.1
 
-## 11 Übergangs- und Schlussbestimmungen
+### XI. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### § 51
 
@@ -511,18 +547,23 @@ Die Werbefläche darf die Hälfte der Gesamtfläche nicht überschreiten.
 
 <sup>2</sup> Sie tritt gemäss Art. 46 des Organisationsgesetzes[^52-1] in Kraft und ist in die Gesetzessammlung aufzunehmen.
 
-<sup>3</sup> Alle mit ihr in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere die Paragraphen 8–10 der Verordnung vom 16. Dezember 1961 über den Heimatschutz[^52-2].
+<sup>3</sup> Alle mit ihr in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere die Paragraphen 8-10 der Verordnung vom 16. Dezember 1961 über den Heimatschutz[^52-2].
 
 [^52-1]: NG 151.1 (heute aufgehoben)
 [^52-2]: A 1961, 1105
 
-## A1 Anhang 1: Gebührentarif für Gemeinden
+### Gebührentarif für Gemeinden
 
-#### § A1-1
+Die Behandlungsgebühr der Gemeinden für Reklamegesuche beträgt:
 
-<sup>1</sup> Die Behandlungsgebühr der Gemeinden für Reklamegesuche beträgt:
+**Fr. 20.- bis Fr. 200.-**
 
-- 1\. bei einem Entscheid, ohne dass ein Augenschein durchgeführt werden muss: — Fr. 20.– bis Fr. 200.–
-- 2\. bei einem Entscheid, der einen Augenschein erforderlich macht: — Fr. 50.– bis Fr. 500.–
+- 1\. bei einem Entscheid, ohne dass ein Augenschein durchgeführt werden muss
 
-A 1989, 631, 985
+**Fr. 50.- bis Fr. 500.-**
+
+- 2\. bei einem Entscheid, der einen Augenschein erforderlich macht
+
+**17**
+
+Stand: 1. Januar 2016
