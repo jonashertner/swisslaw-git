@@ -5,74 +5,82 @@ title: Gesetz über das öffentliche Beschaffungswesen
 short: "Submissionsgesetz, SubmG"
 language: de
 version: 2016-01-01
-valid_until: 2024-04-30
+corrected: 2021-11-04
 version_adopted: 2015-05-27
 adopted: 2023-06-28
 in_force: 2024-05-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/612.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/809/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/215/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über das öffentliche Beschaffungswesen
+# Gesetz über das öffentliche Beschaffungswesen (Submissionsgesetz, SubmG)
 
-(Submissionsgesetz, SubmG)
-
-vom 07.02.2001 (Stand 01.01.2016)
+vom 07. Februar 2001[^t-2][^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 6. Oktober 1995 über den Binnenmarkt (BGBM)[^ingress-1],
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 6. Oktober 1995 über den Binnenmarkt (BGBM)[^t-3],
 
 beschliesst:
 
-[^ingress-1]: SR 943.02
+[^t-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+[^t-2]: A 2001, 199, 831; in Kraft seit 1. Juli 2001
+[^t-3]: SR 943.02
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt die Vergabe öffentlicher Bau-, Liefer- und Dienstleistungsaufträge (im Folgenden Aufträge genannt) durch:
+Dieses Gesetz regelt die Vergabe öffentlicher Bau-, Liefer- und Dienstleistungsaufträge (im Folgenden Aufträge genannt) durch:
 
 - 1\. den Kanton und die Gemeinden;
+
 - 2\. die kantonalen und kommunalen selbstständigen öffentlichrechtlichen Anstalten und die Gemeindezweckverbände, soweit diese keinen kommerziellen oder industriellen Charakter haben;
+
 - 3\. andere Träger kantonaler oder kommunaler Aufgaben, insbesondere Zweck- und Regionalverbände, Stiftungen und Vereine, die von einer oder mehreren diesem Gesetz unterstellten öffentlichrechtlichen Körperschaften beherrscht werden;
+
 - 4\. weitere Beschaffungsstellen gemäss der übrigen Gesetzgebung, insbesondere den entsprechenden Staatsverträgen;
+
 - 5\. alle Auftraggeberinnen und Auftraggeber für Objekte und Leistungen, die zu mehr als 50 Prozent der Gesamtkosten mit öffentlichen Geldern subventioniert werden.
 
 #### Art. 2
 
 **Beitritt zur IVöB**
 
-<sup>1</sup> Der Kanton tritt der Interkantonalen Vereinbarung vom 25. November 1994 / 15. März 2001 über das öffentliche Beschaffungswesen (IVöB)[^2-1] bei.
+<sup>1</sup> Der Kanton tritt der Interkantonalen Vereinbarung vom 25. November 1994/15. März 2001 über das öffentliche Beschaffungswesen (IVöB)[^2-1] bei.[^2-2]
 
-<sup>2</sup> Der Regierungsrat kann die vom Interkantonalen Organ gestützt auf Art. 4 Absatz 2 Buchstabe b IVöB[^2-2] erlassenen Richtlinien als verbindlich erklären.
+<sup>2</sup> Der Regierungsrat kann die vom Interkantonalen Organ gestützt auf Art. 4 Absatz 2 Buchstabe b IVöB[^2-1] erlassenen Richtlinien als verbindlich erklären.
 
 [^2-1]: NG 612.2, SR 172.056.4
-[^2-2]: NG 612.2, SR 172.056.4
+[^2-2]: Fassung gemäss Landratsbeschluss vom 5. Mai 2004, A 2004, 809, 1270; in Kraft seit 1. August 2004
 
 #### Art. 3
 
 **Ausnahmen**
 
-<sup>1</sup> Aufträge müssen nicht nach den Bestimmungen dieses Gesetzes vergeben werden:
+Aufträge müssen nicht nach den Bestimmungen dieses Gesetzes vergeben werden:
 
 - 1\. durch Anbieterinnen und Anbieter mit Niederlassung oder Sitz in der Schweiz, wenn die Voraussetzungen nach Art. 3 des BGBM[^3-1] erfüllt sind;
+
 - 2\. wenn die Voraussetzungen gemäss Art. 10 IVöB[^3-2] gegeben sind.
 
 [^3-1]: SR 943.02
 [^3-2]: NG 612.2, SR 172.056.4
 
-## 2 Vergabeverfahren
+### II. VERGABEVERFAHREN
+
+[^hIIVERGABEVERFAHREN-1]: Fassung gemäss Landratsbeschluss vom 5. Mai 2004, A 2004, 809, 1270; in Kraft seit 1. August 2004
 
 #### Art. 4
 
-**Arten**
+**Arten[^hIIVERGABEVERFAHREN-1]**
 
-<sup>1</sup> Die Aufträge werden im offenen, im selektiven, im Einladungsverfahren oder im freihändigen Verfahren gemäss der IVöB[^4-1] vergeben.
+Die Aufträge werden im offenen, im selektiven, im Einladungsverfahren oder im freihändigen Verfahren gemäss der IVöB[^4-1] vergeben.
 
 [^4-1]: NG 612.2, SR 172.056.4
 
@@ -80,7 +88,7 @@ beschliesst:
 
 **Wahl des Verfahrens**
 
-<sup>1</sup> Unter Vorbehalt besonderer Vorschriften gelten für die Wahl und die Zulässigkeit des Verfahrens die Schwellenwerte gemäss der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen.
+Unter Vorbehalt besonderer Vorschriften gelten für die Wahl und die Zulässigkeit des Verfahrens die Schwellenwerte gemäss der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen.
 
 #### Art. 6
 
@@ -96,16 +104,21 @@ beschliesst:
 
 <sup>1</sup> Das wirtschaftlich günstigste Angebot erhält den Zuschlag.
 
-<sup>2</sup> Die Beschaffungsstelle eröffnet den begründeten Zuschlag allen Anbieterinnen und Anbietern unter Hinweis auf das Rechtsmittel gemäss Art 13.
+<sup>2</sup> Die Beschaffungsstelle eröffnet den begründeten Zuschlag allen Anbieterinnen und Anbietern unter Hinweis auf das Rechtsmittel gemäss Art 13.[^7-1]
 
 <sup>3</sup> Die Beschaffungsstelle kann den Anbieterinnen und Anbietern den Zuschlag ohne Begründung zustellen mit dem Hinweis, dass:
 
 - 1\. binnen 5 Tagen nach erfolgter Zustellung die Bekanntgabe der Gründe, die zur Nichtberücksichtigung führten, verlangt werden kann, und der begründete Entscheid gemäss Art. 13 angefochten werden kann, und
-- 2\. der Entscheid in Rechtskraft erwächst, wenn diese Begründung nicht verlangt wird.
+
+- 2\. der Entscheid in Rechtskraft erwächst, wenn diese Begründung nicht verlangt wird.[^7-1]
+
+[^7-1]: Fassung gemäss Landratsbeschluss vom 5. Mai 2004, A 2004, 809, 1270; in Kraft seit 1. August 2004
 
 #### Art. 8
 
-**Vertrag 1. Abschluss**
+**Vertrag**
+
+- 1\. Abschluss
 
 <sup>1</sup> Der Vertrag mit der Anbieterin oder dem Anbieter darf erst nach erfolgtem Zuschlag und nach Ablauf der Beschwerdefrist abgeschlossen werden. Die Gewährung der aufschiebenden Wirkung durch das zuständige Gericht bleibt vorbehalten.
 
@@ -119,19 +132,24 @@ beschliesst:
 
 <sup>2</sup> Zur Durchsetzung dieser allgemeinen Grundsätze sind Konventionalstrafen zu vereinbaren.
 
-## 3 Rechtsschutz
+### III. RECHTSSCHUTZ
 
 #### Art. 10
 
 **Anfechtbare Verfügungen**
 
-<sup>1</sup> Als anfechtbare Verfügungen gelten:
+Als anfechtbare Verfügungen gelten:
 
 - 1\. die Ausschreibung des Auftrages;
+
 - 2\. der Entscheid über die Auswahl der Teilnehmerinnen und Teilnehmer im selektiven Verfahren;
+
 - 3\. der Ausschluss einer Anbieterin oder eines Anbieters vom Vergabeverfahren;
+
 - 4\. weitere Beschränkungen des freien Marktzuganges gemäss Art. 3 BGBM[^10-1];
+
 - 5\. der Zuschlag;
+
 - 6\. der Abbruch des Verfahrens.
 
 [^10-1]: SR 943.02
@@ -140,7 +158,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Verfahren richtet sich nach den Vorschriften der Verwaltungsrechtspflegegesetzgebung[^11-1], soweit dieses Gesetz nichts anderes bestimmt.
+Das Verfahren richtet sich nach den Vorschriften der Verwaltungsrechtspflegegesetzgebung[^11-1], soweit dieses Gesetz nichts anderes bestimmt.
 
 [^11-1]: NG 265
 
@@ -148,11 +166,13 @@ beschliesst:
 
 **Rechtliches Gehör, Akteneinsicht**
 
-<sup>1</sup> Der Anspruch auf Akteneinsicht und rechtliches Gehör besteht erst im Beschwerdeverfahren.
+Der Anspruch auf Akteneinsicht und rechtliches Gehör besteht erst im Beschwerdeverfahren.
+
+[^12-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 13
 
-**Beschwerde, Stillstand der Fristen**
+**Beschwerde, Stillstand der Fristen[^12-1]**
 
 <sup>1</sup> Gegen Verfügungen im Sinne von Art. 10 kann binnen 10 Tagen nach erfolgter Eröffnung Beschwerde beim Verwaltungsgericht erhoben werden.
 
@@ -162,7 +182,9 @@ beschliesst:
 
 #### Art. 14
 
-**Aufschiebende Wirkung 1. Gesuch, Entscheid**
+**Aufschiebende Wirkung**
+
+### 1. Gesuch, Entscheid
 
 <sup>1</sup> Die Verwaltungsgerichtsbeschwerde hat keine aufschiebende Wirkung.
 
@@ -176,7 +198,7 @@ beschliesst:
 
 **2. Sicherheitsleistung**
 
-<sup>1</sup> Wird die aufschiebende Wirkung erteilt und kann sie für die Beschwerdegegnerin oder für den Beschwerdegegner zu einem bedeutenden Nachteil führen, kann die beschwerdeführende Partei verpflichtet werden, innerhalb nützlicher Frist Sicherheiten für die amtlichen Kosten und die Parteientschädigung zu leisten. Bei nicht fristgerechter Leistung der Sicherheit wird der Entscheid über die aufschiebende Wirkung hinfällig.
+Wird die aufschiebende Wirkung erteilt und kann sie für die Beschwerdegegnerin oder für den Beschwerdegegner zu einem bedeutenden Nachteil führen, kann die beschwerdeführende Partei verpflichtet werden, innerhalb nützlicher Frist Sicherheiten für die amtlichen Kosten und die Parteientschädigung zu leisten. Bei nicht fristgerechter Leistung der Sicherheit wird der Entscheid über die aufschiebende Wirkung hinfällig.
 
 #### Art. 16
 
@@ -185,6 +207,7 @@ beschliesst:
 <sup>1</sup> Mit der Beschwerde können gerügt werden:
 
 - 1\. Rechtsverletzungen, einschliesslich Überschreitung und Missbrauch des Ermessens;
+
 - 2\. unrichtige oder unvollständige Feststellung des rechtserheblichen Sachverhaltes.
 
 <sup>2</sup> Unangemessenheit kann nicht geltend gemacht werden.
@@ -209,13 +232,15 @@ beschliesst:
 
 [^18-1]: NG 161.2
 
-## 4 Überwachung
+### IV. ÜBERWACHUNG
 
 #### Art. 19
 
-**Kontrollkommission 1. Wahl**
+**Kontrollkommission**
 
-<sup>1</sup> Der Regierungsrat wählt eine unabhängige Kommission mit drei Mitgliedern.
+### 1. Wahl
+
+Der Regierungsrat wählt eine unabhängige Kommission mit drei Mitgliedern.
 
 #### Art. 20
 
@@ -231,30 +256,35 @@ beschliesst:
 
 #### Art. 21
 
-**Sanktionen 1. gegen Anbieterinnen und Anbieter**
+**Sanktionen**
 
-<sup>1</sup> Hält eine Anbieterin oder ein Anbieter vor oder nach dem Zuschlag die Vergabebestimmungen nicht ein, so kann die Beschaffungsstelle folgende Sanktionen verfügen:
+### 1. gegen Anbieterinnen und Anbieter
+
+Hält eine Anbieterin oder ein Anbieter vor oder nach dem Zuschlag die Vergabebestimmungen nicht ein, so kann die Beschaffungsstelle folgende Sanktionen verfügen:
 
 - 1\. Ausschluss vom weiteren Verfahren;
+
 - 2\. Widerruf des Zuschlages.
 
 #### Art. 22
 
 **2. gegen subventionierte Beschaffungsstellen**
 
-<sup>1</sup> Bei Widerhandlungen einer subventionierten Beschaffungsstelle gegen die Vergabebestimmungen können die Subventionen ganz oder teilweise durch Verfügung der zuständigen Behörden entzogen werden.
+Bei Widerhandlungen einer subventionierten Beschaffungsstelle gegen die Vergabebestimmungen können die Subventionen ganz oder teilweise durch Verfügung der zuständigen Behörden entzogen werden.
 
-## 5 Übergangs- und Schlussbestimmungen
+### V. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 23
 
 **Anwendbarkeit**
 
-<sup>1</sup> Dieses Gesetz gilt für die Vergabe von Aufträgen, die nach dessen Inkrafttreten ausgeschrieben oder vergeben werden. Eine Rückwirkung auf bereits laufende Verfahren ist ausgeschlossen.
+Dieses Gesetz gilt für die Vergabe von Aufträgen, die nach dessen Inkrafttreten ausgeschrieben oder vergeben werden. Eine Rückwirkung auf bereits laufende Verfahren ist ausgeschlossen.
+
+[^23-1]: Fassung gemäss Landratsbeschluss vom 5. Mai 2004, A 2004, 809, 1270; in Kraft seit 1. August 2004
 
 #### Art. 24
 
-**…**
+**..[^23-1]**
 
 #### Art. 25
 
@@ -268,7 +298,7 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Gesetz vom 28. April 1996 betreffend den Beitritt des Kantons zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (Submissionsgesetz)[^26-1].
+Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Gesetz vom 28. April 1996 betreffend den Beitritt des Kantons zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (Submissionsgesetz)[^26-1].
 
 [^26-1]: A 1996, 632
 
@@ -280,6 +310,4 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^27-1] fest.
 
-[^27-1]: In Kraft seit 1. Juli 2001
-
-A 2001, 199, 831
+[^27-1]: A 2001, 199, 831; in Kraft seit 1. Juli 2001
