@@ -5,37 +5,38 @@ title: Einführungsgesetz zur Bundesgesetzgebung über Fuss- und Wanderwege
 short: "Kantonales Fuss- und Wanderweggesetz, kFWG"
 language: de
 version: 2016-01-01
-valid_until: 2026-02-28
+corrected: 2021-11-04
 version_adopted: 2015-05-27
 adopted: 2025-11-26
 in_force: 2026-03-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/614.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/813/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/224/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zur Bundesgesetzgebung über Fuss- und Wanderwege
+# Einführungsgesetz zur Bundesgesetzgebung über Fuss- und Wanderwege (Kantonales Fuss- und Wanderweggesetz, kFWG)
 
-(Kantonales Fuss- und Wanderweggesetz, kFWG)
-
-vom 29.04.1990 (Stand 01.01.2016)
+vom 29. April 1990[^t-2][^t-1]
 
 Die Landsgemeinde,
 
-gestützt auf Art. 52 der Kantonsverfassung, in Ausführung der Bundesgesetzgebung über Fuss- und Wanderwege[^ingress-1],
+gestützt auf Art. 52 der Kantonsverfassung, in Ausführung der Bundesgesetzgebung über Fuss- und Wanderwege[^t-3],
 
 beschliesst:
 
-[^ingress-1]: SR 704
+[^t-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+[^t-2]: A 1990, 829
+[^t-3]: SR 704
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz regelt die Planung, den Bau, den Unterhalt, die Erhaltung und den Ersatz von zusammenhängenden Fuss- und Wanderwegnetzen im Interesse der Bevölkerung und des Tourismus.
+Dieses Gesetz regelt die Planung, den Bau, den Unterhalt, die Erhaltung und den Ersatz von zusammenhängenden Fuss- und Wanderwegnetzen im Interesse der Bevölkerung und des Tourismus.
 
 #### Art. 2
 
@@ -53,7 +54,7 @@ beschliesst:
 
 **Träger der Planung**
 
-<sup>1</sup> Träger der Planung sind für die Wanderwegnetze (Wanderwegpläne) der Kanton und für die Fusswegnetze (Fusswegpläne) die politischen Gemeinden.
+Träger der Planung sind für die Wanderwegnetze (Wanderwegpläne) der Kanton und für die Fusswegnetze (Fusswegpläne) die politischen Gemeinden.
 
 #### Art. 4
 
@@ -67,13 +68,13 @@ beschliesst:
 
 **Änderung der Pläne**
 
-<sup>1</sup> Die Fuss- und Wanderwegpläne sind in der Regel alle zehn Jahre gesamthaft zu prüfen und nötigenfalls anzupassen.
+Die Fuss- und Wanderwegpläne sind in der Regel alle zehn Jahre gesamthaft zu prüfen und nötigenfalls anzupassen.
 
 #### Art. 6
 
 **Gemeingebrauch**
 
-<sup>1</sup> Die diesem Gesetz unterstellten Fuss- und Wanderwege dürfen im Rahmen ihrer Zweckbestimmung, ihrer Gestaltung, der örtlichen Verhältnisse und der geltenden Vorschriften von jedermann unentgeltlich und ohne besondere Bewilligung benützt werden.
+Die diesem Gesetz unterstellten Fuss- und Wanderwege dürfen im Rahmen ihrer Zweckbestimmung, ihrer Gestaltung, der örtlichen Verhältnisse und der geltenden Vorschriften von jedermann unentgeltlich und ohne besondere Bewilligung benützt werden.
 
 #### Art. 7
 
@@ -85,13 +86,13 @@ beschliesst:
 
 [^7-1]: SR 704.1
 
-## 2 Organisation
+### II. ORGANISATION
 
 #### Art. 8
 
 **Landrat**
 
-<sup>1</sup> Dem Landrat obliegt der Erlass des kantonalen Wanderwegplanes.
+Dem Landrat obliegt der Erlass des kantonalen Wanderwegplanes.
 
 #### Art. 9
 
@@ -102,8 +103,11 @@ beschliesst:
 <sup>2</sup> Ihm obliegt insbesondere:
 
 - 1\. die Genehmigung der Fusswegpläne;
+
 - 2\. die Vornahme von geringfügigen Änderungen des Wanderwegplanes;
+
 - 3\. die Beschlussfassung betreffend die Ersatzpflicht und die Kostentragung gemäss Art. 7, wenn ein Wanderweg ersetzt werden muss;
+
 - 4\. die Erfüllung der weiteren ihm durch die Gesetzgebung übertragenen Aufgaben.
 
 #### Art. 10
@@ -138,15 +142,18 @@ beschliesst:
 <sup>2</sup> Ihm obliegt insbesondere:
 
 - 1\. die Vornahme von geringfügigen Änderungen des Fusswegplanes;
+
 - 2\. die Zuteilung der im Voranschlag enthaltenen Mittel für den Unterhalt und den Bau von Fuss- und Wanderwegen;
+
 - 3\. die Beschlussfassung betreffend die Ersatzpflicht und die Kostentragung gemäss Art. 7, wenn ein Fussweg ersetzt werden muss;
+
 - 4\. die Erfüllung der weiteren ihm durch die Gesetzgebung übertragenen Aufgaben.
 
 [^12-1]: SR 704
 
-## 3 Planungsvorschriften
+### III. PLANUNGSVORSCHRIFTEN
 
-### 3.1 Rechtswirkung der Pläne
+### A. Rechtswirkung der Pläne
 
 #### Art. 13
 
@@ -160,11 +167,11 @@ beschliesst:
 
 **Vorgesehene Wege**
 
-<sup>1</sup> Die im Fuss- oder Wanderwegplan enthaltenen vorgesehenen Wege sind für die Behörden der Gemeinde und des Kantons verbindlich; für die Bundesstellen sind sie gemäss Art. 10 des Bundesgesetzes[^14-1] verbindlich.
+Die im Fuss- oder Wanderwegplan enthaltenen vorgesehenen Wege sind für die Behörden der Gemeinde und des Kantons verbindlich; für die Bundesstellen sind sie gemäss Art. 10 des Bundesgesetzes[^14-1] verbindlich.
 
 [^14-1]: SR 704.1
 
-### 3.2 Planung des Fusswegnetzes
+### B. Planung des Fusswegnetzes
 
 #### Art. 15
 
@@ -186,13 +193,13 @@ beschliesst:
 
 **Vorprüfung**
 
-<sup>1</sup> Der Fusswegplan ist vor der öffentlichen Auflage beziehungsweise vor der Änderung gemäss Art. 12 Abs. 2 Ziff. 1 der Baudirektion zur Vorprüfung einzureichen.
+Der Fusswegplan ist vor der öffentlichen Auflage beziehungsweise vor der Änderung gemäss Art. 12 Abs. 2 Ziff. 1 der Baudirektion zur Vorprüfung einzureichen.
 
 #### Art. 18
 
 **Genehmigung**
 
-<sup>1</sup> Der Fusswegplan bedarf der Genehmigung durch den Regierungsrat.
+<sup>1</sup> Der Fusswegplan bedarf der Genehmigung durch den Regierungsrat.[^18-1]
 
 <sup>2</sup> Bei der Genehmigung sind die Pläne auf ihre Übereinstimmung mit den gesetzlichen Vorschriften und den Plänen der Nachbargemeinden zu überprüfen.
 
@@ -200,19 +207,26 @@ beschliesst:
 
 <sup>4</sup> Mit der Genehmigung ist über allfällige Beschwerden zu entscheiden.
 
+[^18-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+[^18-2]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+
 #### Art. 19
 
-**Verfahren 1. Auflage**
+**Verfahren[^18-2]**
+
+- 1\. Auflage
 
 <sup>1</sup> Der Entwurf des Fusswegplans ist unter Hinweis auf die Möglichkeit zur Einwendung sowie zu Anregungen und Vorschlägen im Amtsblatt zu veröffentlichen und zusammen mit den Beilagen während 30 Tagen zur öffentlichen Einsicht bei der Gemeinde aufzulegen.
 
-<sup>2</sup> Während der Auflagefrist können stimmberechtigte Personen sowie die gemäss dem Verwaltungsrechtspflegegesetz[^19-1] Legitimierten schriftlich und begründet Einwendungen, Anregungen und Vorschläge einreichen.
+<sup>2</sup> Während der Auflagefrist können stimmberechtigte Personen sowie die gemäss dem Verwaltungsrechtspflegegesetz[^19-1] Legitimierten schriftlich und begründet Einwendungen, Anregungen und Vorschläge einreichen.[^19-2]
 
 [^19-1]: NG 265.1
+[^19-2]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+[^19-3]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 20
 
-**2. Behandlung der Eingaben**
+**2. Behandlung der Eingaben[^19-3]**
 
 <sup>1</sup> Hat die Behandlung der Einwendungen, Anregungen und Vorschläge wesentliche Änderungen zur Folge, ist das Verfahren für betroffene Dritte und kantonale Fachorganisationen zu wiederholen.
 
@@ -220,9 +234,11 @@ beschliesst:
 
 <sup>3</sup> Der Gemeinderat nimmt zu den nicht berücksichtigten Anregungen und Vorschlägen gesamthaft und abschliessend in einem Bericht zuhanden der Gemeindeversammlung Stellung.
 
+[^20-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+
 #### Art. 21
 
-**3. Abänderungsanträge, Abstimmung, Eröffnung**
+**3. Abänderungsanträge, Abstimmung, Eröffnung[^20-1]**
 
 <sup>1</sup> Abänderungsanträge im Sinne des Gemeindegesetzes[^21-1] sind von den Stimmberechtigten spätestens zehn Tage vor der Gemeindeversammlung schriftlich und begründet beim Gemeinderat einzureichen.
 
@@ -234,29 +250,37 @@ beschliesst:
 
 [^21-1]: NG 171.1
 
-### 3.3 Planung des Wanderwegnetzes
+### C. Planung des Wanderwegnetzes
+
+[^hCPlanungdesWande-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 22
 
-**Vorarbeiten**
+**Vorarbeiten[^hCPlanungdesWande-1]**
 
 <sup>1</sup> Die erforderlichen Vorarbeiten sind unter Beizug von kantonalen Fachorganisationen durch eine vom Landrat gewählte Kommission zu leisten.
 
 <sup>2</sup> Die bestehenden öffentlichen Wanderwege sind in den Wanderwegplan aufzunehmen.
 
+[^22-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+
 #### Art. 23
 
-**Verfahren 1. Auflage**
+**Verfahren[^22-1]**
+
+### 1. Auflage
 
 <sup>1</sup> Der Entwurf des Wanderwegplans ist unter Hinweis auf die Möglichkeit zur Einwendung sowie zu Anregungen und Vorschlägen im Amtsblatt zu veröffentlichen und zusammen mit den Beilagen während 30 Tagen zur öffentlichen Einsicht auf der Direktion und in den betroffenen Gemeinden aufzulegen.
 
-<sup>2</sup> Während der Auflagefrist können stimmberechtigte Personen sowie die gemäss dem Verwaltungsrechtspflegegesetz[^23-1] Legitimierten schriftlich und begründet Einwendungen, Anregungen und Vorschläge einreichen.
+<sup>2</sup> Während der Auflagefrist können stimmberechtigte Personen sowie die gemäss dem Verwaltungsrechtspflegegesetz[^h1Auflage-1] Legitimierten schriftlich und begründet Einwendungen, Anregungen und Vorschläge einreichen.[^h1Auflage-2]
 
-[^23-1]: NG 265.1
+[^h1Auflage-1]: NG 265.1
+[^h1Auflage-2]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+[^h1Auflage-3]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 24
 
-**2. Behandlung der Eingaben**
+**2. Behandlung der Eingaben[^h1Auflage-3]**
 
 <sup>1</sup> Hat die Behandlung der Einwendungen, Anregungen und Vorschläge wesentliche Änderungen zur Folge, ist das Verfahren für betroffene Dritte und kantonale Fachorganisationen zu wiederholen.
 
@@ -264,15 +288,17 @@ beschliesst:
 
 <sup>3</sup> Die Kommission nimmt zu den nicht berücksichtigten Anregungen und Vorschlägen gesamthaft und abschliessend in einem Bericht zuhanden des Landrates Stellung.
 
+[^24-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+
 #### Art. 25
 
-**3. Inkraftsetzung**
+**3. Inkraftsetzung[^24-1]**
 
 <sup>1</sup> Der Landrat erlässt den kantonalen Wanderwegplan.
 
 <sup>2</sup> Er entscheidet über die nicht erledigten Einwendungen.
 
-## 4 Bau und Unterhalt der Fuss- und Wanderwege
+### IV. BAU UND UNTERHALT DER FUSS- UND WANDERWEGE
 
 #### Art. 26
 
@@ -292,27 +318,35 @@ beschliesst:
 
 <sup>3</sup> Der Gemeinderat ist zuständig, mit den Eigentümern von Flurstrassen, die keinen staubfreien Deckbelag aufweisen und die als Wanderwege benutzt werden, die Beteiligung der Gemeinde an den Unterhaltsaufwendungen zu regeln.
 
+[^27-1]: Fassung gemäss Landratsbeschluss vom 3. Juni 1998, A 1998, 1023, 1530; in Kraft seit 1. Januar 1999
+
 #### Art. 28
 
-**…**
+**..[^27-1]**
 
 #### Art. 29
 
-**Baubewilligungsverfahren 1. Baubeschluss**
+**Baubewilligungsverfahren**
 
-<sup>1</sup> Der Gemeinderat beschliesst den Bau neuer Fuss- oder Wanderwege im Rahmen des Fuss- oder Wanderwegplanes.
+### 1. Baubeschluss
+
+Der Gemeinderat beschliesst den Bau neuer Fuss- oder Wanderwege im Rahmen des Fuss- oder Wanderwegplanes.
+
+[^h1Baubeschluss-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 30
 
-**Auflage des Projektes**
+**Auflage des Projektes[^h1Baubeschluss-1]**
 
 <sup>1</sup> Das Ausführungsprojekt ist unter Hinweis auf die Möglichkeit zur Einwendung im Amtsblatt zu veröffentlichen und zusammen mit den Beilagen während 20 Tagen zur öffentlichen Einsicht bei der Gemeinde aufzulegen.
 
 <sup>2</sup> Bei Wanderwegen ist das Ausführungsprojekt auch bei der Direktion aufzulegen.
 
+[^30-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+
 #### Art. 31
 
-**Einwendungsverfahren**
+**Einwendungsverfahren[^30-1]**
 
 <sup>1</sup> Während der Auflagefrist kann gegen das Ausführungsprojekt beim Gemeinderat Einwendung erhoben werden.
 
@@ -344,26 +378,30 @@ beschliesst:
 
 <sup>1</sup> Bau und Unterhalt von öffentlichen Strassen, Radrouten, Plätzen und Trottoirs, die auch als Fuss- oder Wanderwege dienen, richtet sich nach den Bestimmungen des Strassengesetzes[^34-1].
 
-<sup>2</sup> Die Bestimmungen der Planungs- und Baugesetzgebung[^34-2] betreffend die Überbindung der Erstellung von Erschliessungsanlagen an die interessierten Grundeigentümerinnen und Grundeigentümer bleiben vorbehalten.
+<sup>2</sup> Die Bestimmungen der Planungs- und Baugesetzgebung[^34-2] betreffend die Überbindung der Erstellung von Erschliessungsanlagen an die interessierten Grundeigentümerinnen und Grundeigentümer bleiben vorbehalten.[^34-3]
 
 [^34-1]: NG 622.1
 [^34-2]: NG 611.1
+[^34-3]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
-## 5 Rechtsschutz
+### V. RECHTSSCHUTZ
+
+[^hVRECHTSSCHUTZ-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 35
 
-**Rechtsmittel**
+**Rechtsmittel[^hVRECHTSSCHUTZ-1]**
 
 <sup>1</sup> Gegen Entscheide des Landrates gemäss Art. 25 kann binnen 20 Tagen nach erfolgter Zustellung Beschwerde beim Verwaltungsgericht erhoben werden.
 
 <sup>2</sup> Im Übrigen richten sich die Rechtsmittel nach dem Verwaltungsrechtspflegegesetz[^35-1].
 
 [^35-1]: NG 265.1
+[^35-2]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 36
 
-**Legitimation**
+**Legitimation[^35-2]**
 
 <sup>1</sup> Sektionen schweizerischer Fachorganisationen, die seit mindestens 10 Jahren im Kanton tätig sind und nach deren Statuten die Förderung von Fuss- oder Wanderwegen zu den dauernden Hauptaufgaben zählt, sind zur Erhebung einer Einwendung oder Beschwerde legitimiert, soweit sie an der Abweisung, Änderung oder Aufhebung des angefochtenen Beschlusses oder Entscheides ein schutzwürdiges Interesse haben.
 
@@ -371,23 +409,25 @@ beschliesst:
 
 [^36-1]: NG 265.1
 
-## 6 Schlussbestimmungen
+### VI. SCHLUSSBESTIMMUNGEN
 
 #### Art. 37
 
 **Vollzug**
 
-<sup>1</sup> Der Landrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Vorschriften.
+Der Landrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Vorschriften.
 
 #### Art. 38
 
-**Änderung bestehender Erlasse 1. Strassengesetz**
+**Änderung bestehender Erlasse**
 
-<sup>1</sup> Art. 1 Abs. 3 des Gesetzes vom 24. April 1966 über den Bau und den Unterhalt der Strassen (Strassengesetz)[^38-1] wird aufgehoben.
+### 1. Strassengesetz
+
+<sup>1</sup> Art. 1 Abs. 3 des Gesetzes vom 24. April 1966 über den Bau und den Unterhalt der Strassen (Strassengesetz)[^h1Strassengesetz-1] wird aufgehoben.
 
 <sup>2</sup> Das Strassengesetz lautet neu: …
 
-[^38-1]: NG 622.1
+[^h1Strassengesetz-1]: NG 622.1
 
 #### Art. 39
 
@@ -406,5 +446,3 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz tritt mit der Annahme durch die Landsgemeinde in Kraft.
 
 <sup>2</sup> Es ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
-
-A 1990, 829
