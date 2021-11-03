@@ -5,32 +5,33 @@ title: Vollzugsverordnung über das Perimeterverfahren
 short: "Perimeterverordnung, PeriV"
 language: de
 version: 2016-06-01
+corrected: 2021-11-04
 version_adopted: 2016-04-19
 adopted: 2016-04-19
 in_force: 2016-06-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/622.14"
-pdf: "https://gesetze.nw.ch/api/de/versions/816/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/229/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung über das Perimeterverfahren
+# Vollzugsverordnung über das Perimeterverfahren (Perimeterverordnung, PeriV)
 
-(Perimeterverordnung, PeriV)
-
-vom 19.04.2016 (Stand 01.06.2016)
+vom 19. April 2016[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 20 und 27 des Gesetzes vom 19. Dezember 2012 über die Flurgenossenschaften (Flurgenossenschaftsgesetz, FlurG)[^ingress-1], Art. 30, 76, 85, 91 ff. und 173 des Gesetzes vom 21. Mai 2014 über die Raumplanung und das öffentliche Baurecht (Planungs- und Baugesetz, PBG)[^ingress-2], Art. 22e, 43 f., 51 ff. und 75 ff. des Gesetzes vom 24. April 1966 über den Bau und Unterhalt der Strassen (Strassengesetz, StrG)[^ingress-3],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 20 und 27 des Gesetzes vom 19. Dezember 2012 über die Flurgenossenschaften (Flurgenossenschaftsgesetz, FlurG)[^t-2], Art. 30, 76, 85, 91 ff. und 173 des Gesetzes vom 21. Mai 2014 über die Raumplanung und das öffentliche Baurecht (Planungs- und Baugesetz, PBG)[^t-3], Art. 22e, 43 f., 51 ff. und 75 ff. des Gesetzes vom 24. April 1966 über den Bau und Unterhalt der Strassen (Strassengesetz, StrG)[^t-4],
 
 beschliesst:
 
-[^ingress-1]: NG 211.4
-[^ingress-2]: NG 611.1
-[^ingress-3]: NG 622.1
+[^t-1]: A 2016, 726
+[^t-2]: NG 211.4
+[^t-3]: NG 611.1
+[^t-4]: NG 622.1
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### § 1
 
@@ -40,38 +41,41 @@ beschliesst:
 
 <sup>2</sup> Diese Verordnung kommt nur insoweit zur Anwendung, als die Spezialgesetzgebung keine abweichenden Bestimmungen enthält.
 
-## 2 Beitragspflicht und Beitragsbemessung
+### II. BEITRAGSPFLICHT UND BEITRAGSBEMESSUNG
 
 #### § 2
 
 **Beitragspflicht**
 
-<sup>1</sup> Die Beitragspflicht richtet sich nach der Spezialgesetzgebung.
+Die Beitragspflicht richtet sich nach der Spezialgesetzgebung.
 
 #### § 3
 
 **Beitragsarten**
 
-<sup>1</sup> Beitragspflichtige Personen haben zu bezahlen:
+Beitragspflichtige Personen haben zu bezahlen:
 
 - 1\. einmalige oder wiederkehrende Beiträge an die Erstellungs- und Ausbaukosten;
+
 - 2\. wiederkehrende Beiträge an die Betriebs- und Unterhaltskosten.
 
 #### § 4
 
-**Anrechenbare Kosten 1. Erstellungs- und Ausbaukosten**
+**Anrechenbare Kosten**
 
-<sup>1</sup> Als anrechenbare Erstellungs- und Ausbaukosten gelten die gesamten Baukosten nach Abzug Beiträge Dritter, einschliesslich die Aufwendungen für Landerwerb, Entschädigungen, Projektierung, Bauleitung, Bauzinsen, Gebühren und dergleichen.
+- 1\. Erstellungs- und Ausbaukosten Als anrechenbare Erstellungs- und Ausbaukosten gelten die gesamten Baukosten nach Abzug Beiträge Dritter, einschliesslich die Aufwendungen für Landerwerb, Entschädigungen, Projektierung, Bauleitung, Bauzinsen, Gebühren und dergleichen.
 
 #### § 5
 
 **2. Betriebs- und Unterhaltskosten**
 
-<sup>1</sup> Als anrechenbare Betriebs- und Unterhaltskosten gelten die gesamten Aufwendungen nach Abzug der Beiträge Dritter für die Gewährleistung der ordnungsgemässen Benützung des Perimeterunternehmens sowie die durch den Betrieb und Unterhalt bedingten Verwaltungskosten, Schuldzinsen, Rückstellungen für werterhaltende Massnahmen und dergleichen.
+Als anrechenbare Betriebs- und Unterhaltskosten gelten die gesamten Aufwendungen nach Abzug der Beiträge Dritter für die Gewährleistung der ordnungsgemässen Benützung des Perimeterunternehmens sowie die durch den Betrieb und Unterhalt bedingten Verwaltungskosten, Schuldzinsen, Rückstellungen für werterhaltende Massnahmen und dergleichen.
 
 #### § 6
 
-**Beitragshöhe 1. Grundsatz**
+**Beitragshöhe**
+
+### 1. Grundsatz
 
 <sup>1</sup> Die Beiträge sind nach Massgabe der Vorteile und unter Berücksichtigung allfälliger Nachteile festzulegen, die den Grundstücken, Dienstbarkeiten sowie Bauten und Anlagen der Beitragspflichtigen erwachsen.
 
@@ -79,18 +83,21 @@ beschliesst:
 
 #### § 7
 
-**2. Berechnung a) Grundlage**
+**2. Berechnung**
+
+- a) Grundlage
 
 <sup>1</sup> Grundlage für die Berechnung der Höhe des einzelnen Beitrages bilden:
 
 - 1\. ein geeignetes Grundmass wie Fläche, Gebäudeversicherungswert oder Anstosslänge; und
+
 - 2\. der Perimeterfaktor.
 
 <sup>2</sup> Allen Grundstücken, Dienstbarkeiten sowie Bauten und Anlagen sind ein Grundmass und ein Perimeterfaktor zuzuweisen.
 
-#### § 8
+#### § 8 b
 
-**b) Grundmass**
+**) Grundmass**
 
 <sup>1</sup> Die zuständige Instanz legt dasjenige Grundmass als Berechnungsgrundlage fest, welches eine sachgerechte Verteilung der Beitragspflicht ermöglicht.
 
@@ -100,24 +107,29 @@ beschliesst:
 
 <sup>4</sup> Werden unterschiedliche Grundmasse verwendet, sind diese in ein Verhältnis zu setzen, das die Gleichbehandlung gewährleistet.
 
-#### § 9
+#### § 9 c
 
-**c) Perimeterfaktor**
+**) Perimeterfaktor**
 
 <sup>1</sup> Für alle Grundstücke, Dienstbarkeiten sowie Bauten und Anlagen ist je nach Umfang der Vorteile, die ihnen aus dem Perimeterunternehmen erwachsen, ein Perimeterfaktor festzulegen. Dieser kann sich aus mehreren Teilfaktoren zusammensetzen.
 
 <sup>2</sup> Bei der Festlegung des Perimeterfaktors können, soweit im Einzelfall von Bedeutung und nicht bereits in den Grundmassen enthalten, insbesondere berücksichtigt werden:
 
 - 1\. Lage zum Perimeterunternehmen (anstossend oder hinterliegend, Entfernung);
+
 - 2\. Länge des Anstosses zum Perimeterunternehmen;
+
 - 3\. Verbesserung der Erschliessung;
+
 - 4\. Art und Mass der möglichen Nutzung;
+
 - 5\. Katasterwert, Fläche des Grundstücks oder Gebäudeversicherungswert;
+
 - 6\. Beseitigung drohender Gefahren.
 
-#### § 10
+#### § 10 d
 
-**d) Perimeterbeitrag**
+**) Perimeterbeitrag**
 
 <sup>1</sup> Der Zahlenwert des Grundmasses der beitragspflichtigen Grundstücke, Dienstbarkeiten beziehungsweise Bauten und Anlagen multipliziert mit dem Perimeterfaktor ergibt die Anzahl Teilereinheiten.
 
@@ -127,7 +139,7 @@ beschliesst:
 
 <sup>4</sup> Können die anrechenbaren Kosten betragsmässig noch nicht endgültig festgestellt werden, ist ein prozentualer Perimeterbeitrag festzulegen.
 
-## 3 Verfahren
+### III. VERFAHREN
 
 #### § 11
 
@@ -141,11 +153,14 @@ beschliesst:
 
 **Kostenverteiler**
 
-<sup>1</sup> Die zuständige Instanz erlässt den Kostenverteiler, der insbesondere folgende Punkte zu umfassen hat:
+Die zuständige Instanz erlässt den Kostenverteiler, der insbesondere folgende Punkte zu umfassen hat:
 
 - 1\. Grundlagen für die Erhebung von Perimeterbeiträgen, einschliesslich Begründung der Wahl des Grundmasses gemäss § 8 und Angabe der wesentlichen Kriterien für den Perimeterfaktor sowie deren Gewichtung gemäss § 9;
+
 - 2\. vollständige Beitragstabelle mit folgenden Kolonnen: Teilnehmer-Nummer, beitragspflichtige Grundstücke, Dienstbarkeiten sowie Bauten und Anlagen, Zahlenwert des Grundmasses, Perimeterfaktor, Anzahl Teilereinheiten, prozentuale Beitragspflicht, Bemerkungen;
+
 - 3\. Perimeterplan mit Grenzen und Bezeichnungen der beitragspflichtigen Grundstücke, Dienstbarkeiten sowie Bauten und Anlagen;
+
 - 4\. Hinweis auf das Einspracherecht gemäss § 13.
 
 #### § 13
@@ -168,13 +183,13 @@ beschliesst:
 
 <sup>2</sup> Die Beitragspflicht ist nach Rechtskraft des Kostenverteilers auf Anmeldung der Trägerschaft des Perimeterunternehmens im Grundbuch anzumerken, sofern die Teilnahme an einem Perimeterunternehmen nicht bereits aus dem Grundbuch hervorgeht.
 
-## 4 Beitragsbezug
+### IV. BEITRAGSBEZUG
 
 #### § 15
 
 **Anwendbarkeit**
 
-<sup>1</sup> Die Bestimmungen gemäss §§ 16–19 kommen beim Bezug von Perimeterbeiträgen, die gestützt auf die Strassengesetzgebung[^15-1] oder gestützt auf die Planungs- und Baugesetzgebung[^15-2] erlassen werden, zur Anwendung; beim Beitragsbezug bei Sondernutzungsplänen gelangen die Bestimmungen nicht zur Anwendung.
+<sup>1</sup> Die Bestimmungen gemäss §§ 16 - 19 kommen beim Bezug von Perimeterbeiträgen, die gestützt auf die Strassengesetzgebung[^15-1] oder gestützt auf die Planungs- und Baugesetzgebung[^15-2] erlassen werden, zur Anwendung; beim Beitragsbezug bei Sondernutzungsplänen gelangen die Bestimmungen nicht zur Anwendung.
 
 <sup>2</sup> Kommen die Bestimmungen nicht zur Anwendung, erfolgt der Bezug der Perimeterbeiträge gestützt auf das Privatrecht beziehungsweise gestützt auf die anwendbaren spezialrechtlichen Bestimmungen.
 
@@ -183,7 +198,9 @@ beschliesst:
 
 #### § 16
 
-**Beitragsverfügung 1. Grundsatz**
+**Beitragsverfügung**
+
+### 1. Grundsatz
 
 <sup>1</sup> Die zuständige Instanz hat die Beiträge aller Beitragspflichtigen gestützt auf den rechtskräftigen Kostenverteiler in einer einzigen Verfügung festzulegen.
 
@@ -201,7 +218,7 @@ beschliesst:
 
 **3. Betriebs- und Unterhaltskosten**
 
-<sup>1</sup> Die Beiträge an die Betriebs- und Unterhaltskosten sind gemäss der im Kostenverteiler festgelegten Zahlungsperiode zu verfügen.
+Die Beiträge an die Betriebs- und Unterhaltskosten sind gemäss der im Kostenverteiler festgelegten Zahlungsperiode zu verfügen.
 
 #### § 19
 
@@ -211,7 +228,7 @@ beschliesst:
 
 <sup>2</sup> Vom Zeitpunkt der Fälligkeit an ist ein Verzugszins von 5 Prozent geschuldet.
 
-## 5 Änderung der Verhältnisse
+### V. ÄNDERUNG DER VERHÄLTNISSE
 
 #### § 20
 
@@ -220,6 +237,7 @@ beschliesst:
 <sup>1</sup> Der Kostenverteiler ist von Amtes wegen oder auf begründetes Gesuch hin anzupassen, wenn:
 
 - 1\. sich wesentliche Änderungen der Verhältnisse ergeben; oder
+
 - 2\. er an einem wesentlichen Mangel leidet.
 
 <sup>2</sup> Eine Neufestsetzung der einmaligen Beiträge erfolgt nur, wenn die Hälfte der Nutzungsdauer des Perimeterunternehmens noch nicht abgelaufen ist; die Nutzungsdauer richtet sich nach § 4 der Finanzhaushaltverordnung (kFHV)[^20-1].
@@ -232,7 +250,7 @@ beschliesst:
 
 **Bemessung der einmaligen Beiträge**
 
-<sup>1</sup> Bei der Neufestsetzung der einmaligen Beiträge ist die Altersentwertung des Perimeterunternehmens angemessen zu berücksichtigen.
+Bei der Neufestsetzung der einmaligen Beiträge ist die Altersentwertung des Perimeterunternehmens angemessen zu berücksichtigen.
 
 #### § 22
 
@@ -244,10 +262,11 @@ beschliesst:
 
 <sup>3</sup> Die nachträglich zufliessenden einmaligen Beiträge sind:
 
-- 1\. den anderen beitragspflichtigen Personen nach Massgabe des ursprünglichen Kostenverteilers auszuzahlen, wenn die zusätzlichen Beiträge mindestens 10'000 Franken betragen; oder
-- 2\. für Amortisation, Sanierung, Erweiterung, Betrieb oder Unterhalt des Perimeterunternehmens zu verwenden, wenn die zusätzlichen Beiträge weniger als 10'000 Franken betragen.
+- 1\. den anderen beitragspflichtigen Personen nach Massgabe des ursprünglichen Kostenverteilers auszuzahlen, wenn die zusätzlichen Beiträge mindestens 10‘000 Franken betragen; oder
 
-## 6 Übergangs- und Schlussbestimmungen
+- 2\. für Amortisation, Sanierung, Erweiterung, Betrieb oder Unterhalt des Perimeterunternehmens zu verwenden, wenn die zusätzlichen Beiträge weniger als 10‘000 Franken betragen.
+
+### VI. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### § 23
 
@@ -261,6 +280,4 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Juni 2016 in Kraft.
-
-A 2016, 726
+Diese Verordnung tritt am 1. Juni 2016 in Kraft.
