@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über die Gebühren zum Ausländer- und 
 short: GebV-AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: de
-version: 2021-01-01
+version: 2021-11-05
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-763-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20211105/de/xml/fedlex-data-admin-ch-eli-cc-2007-763-20211105-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20211105/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20210101/de"
 
 (Gebührenverordnung AIG, GebV-AIG)
 
-vom 24. Oktober 2007 (Stand am 1. Januar 2021)
+vom 24. Oktober 2007 (Stand am 5. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -215,7 +215,7 @@ Das SEM oder das EDA, im Rahmen seiner Zuständigkeit im Bereich Visa, kann in E
 - a. dies der Förderung kultureller oder sportlicher Interessen oder aussenpolitischer, entwicklungspolitischer und sonstiger erheblicher öffentlicher Interessen der Schweiz dient; oder
 - b. humanitäre Gründe oder internationale Verpflichtungen bestehen.[^12-4]
 
-<sup>3</sup> ...[^12-5]
+<sup>3</sup> …[^12-5]
 
 <sup>4</sup> Vorbehalten bleiben Visumgebühren, die in internationalen Abkommen festgelegt sind.
 
@@ -256,6 +256,8 @@ Folgenden Ausländerinnen und Ausländern wird das Visum gebührenfrei erteilt:
   - 2\. den Verwandten in aufsteigender Linie und den Verwandten des Ehegatten in aufsteigender Linie, denen Unterhalt gewährt wird,
   - 3\. bei Studentinnen/Studenten dem Ehegatten und den Kindern, denen Unterhalt gewährt wird.[^13-4]
 
+<sup>1bis</sup> In Abweichung von Absatz 1 Buchstabe c wird Inhaberinnen und Inhabern eines gültigen offiziellen Passes der Republik Gambia das Visum nicht gebührenfrei erteilt. Vorbehalten bleiben internationale Verpflichtungen der Schweiz als Gaststaat von Konferenzen und internationalen Organisationen.[^13-5]
+
 <sup>2</sup>
 
 Das SEM kann im Einvernehmen mit dem EDA Inhaberinnen und Inhaber eines offiziellen Reisepasses für gebührenpflichtig erklären, wenn:
@@ -263,13 +265,14 @@ Das SEM kann im Einvernehmen mit dem EDA Inhaberinnen und Inhaber eines offiziel
 - a. der Reisepass von einem Staat ausgestellt worden ist, der nicht Gegenrecht hält;
 - b. der Reisepass zu Zwecken abgegeben wird, die nach schweizerischer Auffassung oder nach Völkerrecht seine Ausstellung nicht rechtfertigen.
 
-<sup>3</sup> Vorbehalten bleiben Befreiungen von Visumgebühren, die in internationalen Abkommen festgelegt sind.[^13-5]
+<sup>3</sup> Vorbehalten bleiben Befreiungen von Visumgebühren, die in internationalen Abkommen festgelegt sind.[^13-6]
 
 [^13-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^13-2]: Empfehlung des Europäischen Parlaments und des Rates vom 28. Sept. 2005 zur Erleichterung der Ausstellung einheitlicher Visa durch die Mitgliedstaaten für den kurzfristigen Aufenthalt an Forscher aus Drittstaaten, die sich zu Forschungszwecken innerhalb der Gemeinschaft bewegen (ABl. L 289 vom 3.11.2005, S. 23).
 [^13-3]: Eingefügt durch Ziff. II der V vom 12. März 2010, in Kraft seit 5. April 2010 ([AS 2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)).
 [^13-4]: Fassung gemäss Ziff. I 2 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^13-5]: Eingefügt durch Ziff. I 2 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^13-5]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 5. Nov. 2021 ([AS 2021 637](https://fedlex.data.admin.ch/eli/oc/2021/637)).
+[^13-6]: Eingefügt durch Ziff. I 2 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
@@ -279,7 +282,7 @@ Das SEM kann im Einvernehmen mit dem EDA Inhaberinnen und Inhaber eines offiziel
 
 Die Verordnung vom 20. Mai 1987[^14-1] über die Gebühren zum Bundesgesetz über Aufenthalt und Niederlassung der Ausländer wird aufgehoben.
 
-[^14-1]: [[AS 1987 784](https://fedlex.data.admin.ch/eli/oc/1987/784_784_784), [1995 5266](https://fedlex.data.admin.ch/eli/oc/1995/5266_5266_5266), [1998 194](https://fedlex.data.admin.ch/eli/oc/1998/194_194_194)Art. 30 [847](https://fedlex.data.admin.ch/eli/oc/1998/847_847_847), [2002 3985](https://fedlex.data.admin.ch/eli/oc/2002/638), [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)Art. 18 Ziff. 2 [4331](https://fedlex.data.admin.ch/eli/oc/2003/647), [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)Ziff. II 4, [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang Ziff. 3 [3363](https://fedlex.data.admin.ch/eli/oc/2006/531)[4869](https://fedlex.data.admin.ch/eli/oc/2006/755)]
+[^14-1]: [[AS 1987 784](https://fedlex.data.admin.ch/eli/oc/1987/784_784_784); [1995 5266](https://fedlex.data.admin.ch/eli/oc/1995/5266_5266_5266); [1998 194](https://fedlex.data.admin.ch/eli/oc/1998/194_194_194)Art. 30, [847](https://fedlex.data.admin.ch/eli/oc/1998/847_847_847); [2002 3985](https://fedlex.data.admin.ch/eli/oc/2002/638); [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)Art. 18 Ziff. 2, [4331](https://fedlex.data.admin.ch/eli/oc/2003/647); [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)Ziff. II 4; [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang Ziff. 3, [3363](https://fedlex.data.admin.ch/eli/oc/2006/531), [4869](https://fedlex.data.admin.ch/eli/oc/2006/755)]
 
 #### Art. 15
 
@@ -287,7 +290,7 @@ Die Verordnung vom 20. Mai 1987[^14-1] über die Gebühren zum Bundesgesetz übe
 
 Diese Verordnung tritt am 1. Januar 2008 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1 Abs. 2)
 

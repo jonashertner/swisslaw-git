@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 sur les émoluments perçus en application
 short: Oem-LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: fr
-version: 2021-01-01
+version: 2021-11-05
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-763-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20211105/fr/xml/fedlex-data-admin-ch-eli-cc-2007-763-20211105-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20211105/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20210101/fr"
 
 (Tarif des émoluments LEI, Oem-LEI)
 
-du 24 octobre 2007 (Etat le 1<sup>er</sup> janvier 2021)
+du 24 octobre 2007 (Etat le 5 novembre 2021)
 
 Le Conseil fédéral,
 
@@ -255,6 +255,8 @@ Les visas sont délivrés gratuitement aux étrangers suivants:
   - 2\. ses ascendants et ceux de son conjoint qui sont à charge,
   - 3\. dans le cas d’un étudiant, son conjoint et leurs enfants à charge.[^13-4]
 
+<sup>1bis</sup> En dérogation à l’al. 1, let. c, les visas ne sont pas délivrés gratuitement aux titulaires d’un passeport officiel valable de la République de Gambie. Les engagements internationaux de la Suisse en tant qu’État hôte de conférences et d’organisations internationales sont réservés.[^13-5]
+
 <sup>2</sup>
 
 Après entente avec le DFAE, le SEM peut assujettir à l’émolument les titulaires de passeports officiels lorsque ces derniers ont été:
@@ -262,13 +264,14 @@ Après entente avec le DFAE, le SEM peut assujettir à l’émolument les titula
 - a. établis par un État n’accordant pas la réciprocité, ou
 - b. délivrés à des fins qui, selon la pratique constante de la Suisse et le droit des gens, ne correspondent pas à ce type de passeports.
 
-<sup>3</sup> La libération des émoluments qui est prévue dans des accords internationaux est réservée.[^13-5]
+<sup>3</sup> La libération des émoluments qui est prévue dans des accords internationaux est réservée.[^13-6]
 
 [^13-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^13-2]: Recommandation du Parlement européen et du Conseil du 28 sept. 2005 visant à faciliter la délivrance par les États membres de visas uniformes de court séjour pour les chercheurs ressortissants de pays tiers se déplaçant aux fins de recherche scientifique dans la Communauté (JO L 289 du 3.11.2005, p. 23).
 [^13-3]: Introduite par le ch. II de l’O du 12 mars 2010, en vigueur depuis le 5 avr. 2010 ([RO 2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)).
 [^13-4]: Nouvelle teneur selon le ch. I 2 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^13-5]: Introduit par le ch. I 2 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^13-5]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 5 nov. 2021 ([RO 2021 637](https://fedlex.data.admin.ch/eli/oc/2021/637)).
+[^13-6]: Introduit par le ch. I 2 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 ## Section 5 Dispositions finales
 
@@ -286,7 +289,7 @@ L’ordonnance du 20 mai 1987 sur les émoluments perçus en application de la l
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2008.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1, al. 2)
 

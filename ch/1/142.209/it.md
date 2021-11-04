@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sugli emolumenti della legge federale sugl
 short: OEmol-LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/763"
 language: it
-version: 2021-01-01
+version: 2021-11-05
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-763-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/763/20211105/it/xml/fedlex-data-admin-ch-eli-cc-2007-763-20211105-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20211105/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/763/20210101/it"
 
 (Ordinanza sugli emolumenti LStrI, OEmol-LStrI)
 
-del 24 ottobre 2007 (Stato 1° gennaio 2021)
+del 24 ottobre 2007 (Stato 5 novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -256,6 +256,8 @@ I visti sono esenti da emolumento per i seguenti stranieri :
   - 2\. i parenti e gli affini in linea ascendente, se a carico,
   - 3\. nel caso di studenti, il coniuge e i figli a carico.[^13-4]
 
+<sup>1bis</sup> In deroga al capoverso 1 lettera c, i visti non sono rilasciati gratuitamente ai titolari di passaporti ufficiali validi della Repubblica del Gambia. Sono fatti salvi gli obblighi internazionali della Svizzera in quanto Stato ospite di conferenze e di organizzazioni internazionali.[^13-5]
+
 <sup>2</sup>
 
 D’intesa con il DFAE, la SEM può assoggettare all’emolumento i titolari di passaporti ufficiali rilasciati:
@@ -263,13 +265,14 @@ D’intesa con il DFAE, la SEM può assoggettare all’emolumento i titolari di 
 - a. da uno Stato che non accorda la reciprocità;
 - b. per scopi che, secondo la prassi costante della Svizzera o il diritto internazionale pubblico, non giustificano questo rilascio.
 
-<sup>3</sup> È fatta salva l’esenzione dagli emolumenti prevista in trattati internazionali.[^13-5]
+<sup>3</sup> È fatta salva l’esenzione dagli emolumenti prevista in trattati internazionali.[^13-6]
 
 [^13-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^13-2]: Raccomandazione del Parlamento europeo e del Consiglio, del 28 set. 2005, diretta a facilitare il rilascio, da parte degli Stati membri, di visti uniformi di soggiorno di breve durata per i ricercatori di paesi terzi che si spostano nella Comunità a fini di ricerca scientifica (GU L 289 del 3.11.2005, pag. 23).
 [^13-3]: Introdotta dal n. II dell’O del 12 mar. 2010, in vigore dal 5 apr. 2010 ([RU 2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)).
 [^13-4]: Nuovo testo giusta il n. I 2 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^13-5]: Introdotto dal n. I 2 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^13-5]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 5 nov. 2021 ([RU 2021 637](https://fedlex.data.admin.ch/eli/oc/2021/637)).
+[^13-6]: Introdotto dal n. I 2 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -287,7 +290,7 @@ L’ordinanza del 20 maggio 1987[^14-1] sulle tasse da riscuotere in applicazion
 
 La presente ordinanza entra in vigore il 1° gennaio 2008.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1 cpv. 2)
 
