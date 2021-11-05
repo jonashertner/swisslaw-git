@@ -4,11 +4,11 @@ number: "811.11"
 title: Verordnung über die universitären Medizinalberufe (MedBV)
 short: MedBV
 language: de
-version: "2021-02-17"
-nachtrag: "112"
-valid_until: 2021-11-05
+version: "2021-11-05"
+nachtrag: "115"
+valid_until: 2023-02-01
 adopted: 2008-05-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-811_11-2008_05_28-2008_07_01-112.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-811_11-2008_05_28-2008_07_01-115.html"
 text: pdf
 ---
 
@@ -67,7 +67,7 @@ Die Bewilligung wird jeweils für die Dauer von zehn Jahren erteilt, jedoch län
 
 **1**
 
-- 1\. 4. 21 - 112
+- 1\. 1. 22 - 115
 
 ### B. Vertretung
 
@@ -157,7 +157,7 @@ Die Bewilligung wird jeweils für die Dauer von zehn Jahren erteilt, jedoch län
 
 **3**
 
-- 1\. 4. 21 - 112
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Praktikantinnen und Praktikanten im Sinne von § 7 dürfen nur unter ständiger Aufsicht einer universitären Medizinalperson Tätigkeiten im Sinne von § 3 GesG[^9-1] vornehmen.
 
@@ -253,7 +253,7 @@ Die selbstständig tätige Person meldet der zuständigen Stelle schriftlich:
 
 **5**
 
-- 1\. 4. 21 - 112
+- 1\. 1. 22 - 115
 
 - e. die Meldung von Neueröffnung, Verlegung und Schliessung von Standorten,
 
@@ -347,7 +347,7 @@ Für die Beschäftigung von Chiropraktorinnen und Chiropraktoren in Spitälern, 
 
 **7**
 
-- 1\. 4. 21 - 112
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Sie sind im Rahmen ihrer Berufsausübung zur Anwendung von verschreibungspflichtigen und nicht verschreibungspflichtigen Arzneimitteln berechtigt. Mit Bewilligung der Gesundheitsdirektion sind sie befugt, ohne ärztliche Verschreibung an Personen ab 16 Jahren folgende Impfungen vorzunehmen:
 
@@ -369,14 +369,15 @@ Für die Beschäftigung von Chiropraktorinnen und Chiropraktoren in Spitälern, 
 
 <sup>5</sup> Die Bewilligung nach Abs. 3 Satz 2 wird Apothekerinnen und Apothekern erteilt, die über eine genügende fachliche Aus- oder Weiterbildung verfügen.
 
-[^h4AbschnittApothe-1]: Fassung gemäss RRB vom 29. April 2020 (OS 75, 310; ABl 2020-05-08). In Kraft seit 1. Juli 2020.
-[^h4AbschnittApothe-2]: Eingefügt durch RRB vom 3. Februar 2021 (OS 76, 30; ABl 2021-02-12). In Kraft seit 17. Februar 2021.
-
-#### § 25
+<sup>6</sup> Apothekerinnen und Apotheker können Pharma-Assistentinnen und Pharma-Assistenten sowie Fachfrauen und Fachmänner Apotheke für das Aufziehen und die Injektion des Impfstoffs beiziehen, wenn die beigezogenen Personen über eine entsprechende Aus- oder Weiterbildung verfügen. Die beigezogenen Personen handeln unter Aufsicht und in Verantwortung der Apothekerin oder des Apothekers.[^h4AbschnittApothe-3]
 
 **Tätigkeit in Institutionen des Gesundheitswesens**
 
-Für die Beschäftigung von Apothekerinnen und Apothekern in Spitälern, Altersheimen, Alters- und Pflegeheimen, Pflegeheimen und Polikliniken gilt § 19 sinngemäss.
+§ 25. Für die Beschäftigung von Apothekerinnen und Apothekern in Spitälern, Altersheimen, Alters- und Pflegeheimen, Pflegeheimen und Polikliniken gilt § 19 sinngemäss.
+
+[^h4AbschnittApothe-1]: Fassung gemäss RRB vom 29. April 2020 (OS 75, 310; ABl 2020-05-08). In Kraft seit 1. Juli 2020.
+[^h4AbschnittApothe-2]: Eingefügt durch RRB vom 3. Februar 2021 (OS 76, 30; ABl 2021-02-12). In Kraft seit 17. Februar 2021.
+[^h4AbschnittApothe-3]: Eingefügt durch RRB vom 27. Oktober 2021 (OS 76, 439; ABl 2021-10-29). In Kraft seit 5. November 2021.
 
 ### 5. Abschnitt: Tierärztinnen und Tierärzte
 
@@ -446,6 +447,10 @@ Vorbehältlich abweichender Zuständigkeitsregelungen sind folgende Stellen für
 
 - a. sich durch eine zur Assistenz bewilligte universitäre Medizinalperson vertreten lässt, ohne dass diese über die erforderliche praktische Weiterbildung verfügt,
 
+**9**
+
+- 1\. 1. 22 - 115
+
 - b. gegen Einschränkungen und Auflagen nach § 5 Abs. 5 verstösst,
 
 - c. Praktikantinnen und Praktikanten beschäftigt, ohne dass diese die Voraussetzungen nach § 7 erfüllen.
@@ -456,11 +461,11 @@ Vorbehältlich abweichender Zuständigkeitsregelungen sind folgende Stellen für
 
 <sup>4</sup> In besonders leichten Fällen kann auf Bestrafung verzichtet werden.
 
-**9**
-
-- 1\. 4. 21 - 112 § 31. <sup>1</sup> Für Personen, die bei Inkrafttreten dieser Verordnung bereits unselbstständig tätig sind und deren Tätigkeit neu bewilligungspflichtig wird, ist innert eines Jahres nach Inkrafttreten dieser Verordnung eine Bewilligung bei der zuständigen Stelle einzuholen.
+#### § 31
 
 **Übergangsbestimmungen**
+
+<sup>1</sup> Für Personen, die bei Inkrafttreten dieser Verordnung bereits unselbstständig tätig sind und deren Tätigkeit neu bewilligungspflichtig wird, ist innert eines Jahres nach Inkrafttreten dieser Verordnung eine Bewilligung bei der zuständigen Stelle einzuholen.
 
 <sup>2</sup> Bis zur vollständigen Ablösung der altrechtlichen Studiengänge dürfen weiterhin auch Studierende in universitären Medizinalberufen mit eidgenössischem oder eidgenössisch anerkanntem Abschluss nach Absolvieren des zweiten klinischen Studienjahrs nach altem Curriculum für ein Praktikum nach § 7 beschäftigt werden.
 
