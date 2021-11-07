@@ -4,13 +4,13 @@ number: "842.111.1"
 title: "Ordonnance cantonale sur l'assurance-maladie"
 short: OCAMal
 language: fr
-version: 2020-11-01
-valid_until: 2021-11-07
-version_adopted: 2020-09-02
+version: 2021-11-08
+valid_until: 2022-12-31
+version_adopted: 2021-11-03
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/842.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1997/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2398/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1997/pdf_file"
 
 (OCAMal)
 
-du 25.10.2000 (état au 01.11.2020)
+du 25.10.2000 (état au 08.11.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -77,9 +77,9 @@ arrête:
 
 <sup>1</sup> Les jeunes adultes sont réputés membres de la famille de leurs parents s’ils sont célibataires, ne constituent pas eux-mêmes une famille avec leurs propres enfants et qu’ils
 
-- a n’ont pas de revenu propre;
-- b perçoivent un revenu au sens de l’article 6, alinéa 4 inférieur à 14'000 francs par année ou
-- c perçoivent un revenu au sens de l’article 6, alinéa 4 supérieur à 14'000 francs par année, mais pas durablement.
+- a n’ont pas de revenu propre ou
+- b perçoivent un revenu au sens de l’article 6, alinéa 4 inférieur à 14'000 francs par année.
+- c …
 
 <sup>2</sup> Sont également réputées membres de la famille les personnes qui n’habitent pas dans le canton.
 
@@ -131,7 +131,7 @@ arrête:
 
 **b Calcul du revenu et de la fortune**
 
-<sup>1</sup> Pour la période allant du 1<sup>er</sup> janvier au 31 décembre, le revenu net et la fortune nette sont déterminés sur la base de la taxation fiscale définitive de l’avant-dernière année fiscale. Tant que celle-ci n’est pas disponible, il convient de se fonder provisoirement sur la taxation définitive de l’antépénultième année fiscale. Si le calcul fondé sur la taxation définitive de l’avant-dernière année fiscale révèle l’existence d’une différence entre le droit provisoire et le droit définitif à la réduction des primes, il convient de procéder à une correction rétroactive.
+<sup>1</sup> Pour la période allant du 1<sup>er</sup> janvier au 31 décembre, le revenu net et la fortune nette sont déterminés sur la base de la taxation fiscale définitive de l’avant-dernière année fiscale.
 
 <sup>2</sup> …
 
@@ -165,7 +165,8 @@ arrête:
 
 <sup>2</sup> La situation économique est évaluée sur la base du revenu déterminant. Celui-ci se calcule en additionnant le revenu net corrigé (art. 6, al. 4) ou le revenu au sens de l’article 6a, alinéa 1 et cinq pour cent de la fortune brute réduite au sens de l’alinéa 1. Le résultat est diminué des déductions personnelles ou familiales suivantes:
 
-- a pour les personnes mariées (par couple): CHF 13'000
+- a pour les personnes mariées et les couples vivant en partenariat enregistré (par couple): CHF 13'000
+- a1 pour les couples non mariés au sens de l'article 19, alinéa 2, lettres a2 et a3 LiLAMAM (par couple): CHF 13'000
 - b pour les personnes seules qui forment une famille monoparentale avec des personnes au sens de l'article 5: CHF 6500
 - c pour les personnes seules qui ne sont pas réputées membres d'une famille au sens de l'article 5: CHF 2200
 - d pour le premier des enfants ou des jeunes adultes réputés membres de la famille au sens de l'article 5: CHF 15'000
@@ -312,13 +313,15 @@ arrête:
 
 #### Art. 11
 
-**Bénéficiaires de prestations sociales ou d’aides matérielles dans le cadre de la juridiction pénale des mineurs**
+**Bénéficiaires de prestations sociales ou d’aides matérielles dans le cadre de la juridiction pénale des mineurs et personnes relevant du domaine de l'asile et des réfugiés**
 
 <sup>1</sup> Les personnes qui, dans le canton de Berne, bénéficient de prestations sociales ou d’aides matérielles dans le cadre de la juridiction pénale des mineurs ont droit à la réduction ordinaire maximale des primes d’assurance obligatoire des soins accordée pour leur âge (art. 4) dans la région de leur commune de domicile actuelle.
 
 <sup>2</sup> Les jeunes adultes qui, dans le canton de Berne, bénéficient de prestations sociales ou d’aides matérielles dans le cadre de la juridiction pénale des mineurs ont droit à une réduction des primes de 50 pour cent. La prime déterminante est calculée sur la base de la prime moyenne exigée des jeunes adultes l’année précédente par les 20 assureurs les moins chers de la région en fonction de leur commune de domicile actuelle.
 
 <sup>3</sup> …
+
+<sup>4</sup> Les alinéas 1 et 2 s’appliquent par analogie aux personnes relevant du domaine de l’asile et des réfugiés qui ont droit à une réduction des primes selon l’article 65 LAMal.
 
 #### Art. 12
 
@@ -345,16 +348,18 @@ arrête:
 <sup>2</sup> Les personnes suivantes doivent déposer une demande de réduction des primes:
 
 - a les personnes imposées à la source et celles qui l’ont été partiellement l’année précédente;
-- b les jeunes adultes qui, pendant l’année considérée, perçoivent un revenu au sens de l’article 6, alinéa 4 inférieur à 14'000 francs, ne sont pas réputés membres de la famille de leurs parents et ne constituent pas eux-mêmes une famille au sens de l’article 5;
+- b …
 - c les personnes qui n’ont indiqué aucun revenu dans la dernière déclaration d’impôt ou qui ont été taxées par appréciation;
 - d les personnes qui, en vertu de l’accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses Etats membres, d’autre part, sur la libre circulation des personnes[^13-1], sont assurées obligatoirement dans l’assurance-maladie suisse et ne résident pas en Suisse;
-- e les jeunes adultes en formation qui ne sont pas réputés membres d’une famille en vertu de l’article 5, dans la mesure où ils entendent se prévaloir d’un droit à une réduction des primes de 50 pour cent.
+- e les jeunes adultes en formation qui ne sont pas réputés membres d’une famille en vertu de l’article 5, dans la mesure où ils entendent se prévaloir d’un droit à une réduction des primes de 50 pour cent;
 - f les personnes venant de l’étranger qui sont arrivées dans le canton de Berne en cours d’année et sont soumises à l’obligation de s’assurer en Suisse;
 - g les personnes dont le domicile au sens du code civil se trouvait dans le canton de Berne au 1<sup>er</sup> janvier, mais dont le domicile fiscal est situé dans un autre canton;
-- h les personnes qui ont transféré au 1<sup>er</sup> janvier leur domicile dans le canton de Berne.
+- h les personnes qui ont transféré au 1<sup>er</sup> janvier leur domicile dans le canton de Berne;
 - i les adultes qui, pendant l’année considérée, perçoivent un revenu au sens de l’article 6, alinéa 4 inférieur à 14'000 francs et ne constituent pas une famille au sens de l’article 5;
 - k les personnes qui bénéficiaient de l’aide sociale ou de prestations complémentaires au moment où elles ont quitté le canton de Berne;
-- l les personnes dont la fortune brute dépasse 750'000 francs.
+- l les personnes dont la fortune brute dépasse 750'000 francs;
+- m les jeunes adultes qui, pendant l’année considérée, perçoivent un revenu au sens de l’article 6, alinéa 4 inférieur à 14'000 francs, si leurs parents ont un domicile fiscal dans un autre canton ou à l’étranger ou si le parent seul auprès duquel ils ont été domiciliés en dernier lieu a son domicile fiscal dans un autre canton ou à l’étranger;
+- n les personnes dont l’époux, l’épouse, le partenaire enregistré ou la partenaire enregistrée a son domicile fiscal dans un autre canton ou à l’étranger.
 
 <sup>3</sup> …
 
@@ -403,9 +408,10 @@ arrête:
 
 <sup>1</sup> La réduction des primes de l’assurance obligatoire des soins doit être provisoirement suspendue ou diminuée
 
-- a lorsqu’il s’avère, sur la base de la taxation provisoire de la période fiscale déterminante pour établir le droit définitif ou provisoire à la réduction des primes (art. 7), que le droit à la réduction des primes va probablement prendre fin ou que son montant va diminuer;
+- a lorsqu’il s’avère, sur la base de la taxation provisoire de l'année fiscale déterminante pour établir le droit à la réduction des primes (art. 7), que le droit à la réduction des primes va probablement prendre fin ou que son montant va diminuer;
 - b …
-- c lorsque la personne tenue de s’assurer n’a pas prouvé, malgré la sommation de l’OAS, qu’elle a conclu une assurance-maladie obligatoire.
+- c lorsque la personne tenue de s’assurer n’a pas prouvé, malgré la sommation de l’OAS, qu’elle a conclu une assurance-maladie obligatoire;
+- d lorsque, le 1<sup>er</sup> novembre, ni la taxation provisoire, ni la taxation définitive de la dernière période fiscale n'est disponible.
 
 #### Art. 17a
 
@@ -413,7 +419,11 @@ arrête:
 
 <sup>1</sup> Le montant de la réduction des primes est versé à l'assureur-maladie.
 
-<sup>2</sup> Il est versé au service communal compétent en faveur des bénéficiaires de prestations sociales et à l'agence régionale du Ministère public des mineurs compétente en faveur des bénéficiaires d’aides matérielles dans le cadre de la juridiction pénale des mineurs, qui le transfèrent à l'assureur-maladie.
+<sup>2</sup> Il est versé au service communal compétent en faveur des bénéficiaires de prestations sociales, à l’organisme compétent selon l’article 10, alinéa 1 de la loi du 3 décembre 2019 sur l’aide sociale dans le domaine de l’asile et des réfugiés (LAAR)[^17a-1] en faveur des personnes du domaine de l’asile et des réfugiés pouvant prétendre à la réduction des primes selon l’article 65 LAMal, et à l’agence régionale du Ministère public des mineurs compétente en faveur des bénéficiaires d’aides matérielles dans le cadre de la juridiction pénale des mineurs.
+
+<sup>3</sup> Le service communal compétent, l’organisme compétent selon l’article 10, alinéa 1 LAAR et l’agence régionale du Ministère public des mineurs compétente transfèrent directement le montant de la réduction des primes à l’assureur-maladie.
+
+[^17a-1]: RSB [861.1](https://www.belex.sites.be.ch/data/861.1/fr)
 
 #### Art. 17b
 
@@ -466,6 +476,14 @@ arrête:
 
 <sup>1</sup> L’OAS peut, pour ce qui concerne la mise en oeuvre de l’obligation de s’assurer et la réduction des primes d’assurance obligatoire des soins, édicter des instructions à l’intention des services compétents des communes. Celles-ci peuvent contenir en particulier des dispositions relatives à la procédure de communication au sens de l’article 19 ainsi qu’aux tâches évoquées à l’article 19a, alinéa 2.
 
+#### Art. 19c
+
+**Organismes compétents selon l'article 10, alinéa LAAR**
+
+<sup>1</sup> Les organismes compétents selon l’article 10, alinéa 1 LAAR mettent gratuitement à la disposition de l’OAS toutes les données nécessaires à la mise en œuvre de la réduction des primes concernant les personnes relevant du domaine de l’asile ou des réfugiés qui ont droit à la réduction des primes selon l’article 65 LAMal.
+
+<sup>2</sup> Les articles 19, alinéas 2 et 3, 19a et 19b s’appliquent par analogie.
+
 #### Art. 20
 
 **Intendance cantonale des impôts**
@@ -475,6 +493,12 @@ arrête:
 Nom, prénom, adresse, date de naissance, numéro d'identification cantonal, numéro AVS, état civil, dates de l'arrivée dans le canton ou de départ du canton, structure du ménage, ainsi que données concernant les enfants qui habitent en dehors du canton.
 
 <sup>2</sup> L'Intendance cantonale des impôts met, par le biais d'une procédure d'appel, à la disposition de l'OAS des informations supplémentaires sur le revenu et la fortune de toutes les personnes physiques imposables dans le canton, qui sont nécessaires à la mise en œuvre de la réduction des primes.
+
+#### Art. 20a
+
+**Office de la population**
+
+<sup>1</sup> L’Office de la population met à la disposition de l’OAS, pour la mise en œuvre de l’obligation de s’assurer, notamment le numéro AVS et le numéro personnel des frontaliers et des frontalières qu’il extrait du système d’information central sur la migration (SYMIC).
 
 #### Art. 21
 
@@ -588,6 +612,12 @@ Nom, prénom, adresse, état civil, numéro AVS, naissance et fin du droit aux p
 <sup>2</sup> Les actes de défaut de biens cédés à l'OAS par les assureurs pour les primes et les participations aux coûts échues au 31 décembre 2011 qu'ils n'ont pas pu recouvrer sont compensés avec les avoirs découlant de la réduction des primes.
 
 <sup>3</sup> Les assureurs peuvent demander à l'OAS la compensation des primes et des participations aux coûts échues au 31 décembre 2011 qu'ils n'ont pas pu recouvrer pour autant que les assurés aient été domiciliés dans le canton de Berne au moment où ils ont contracté leur dette.
+
+### T2 Disposition transitoire de la modification du 3 novembre 2021
+
+#### Art. T2-1
+
+<sup>1</sup> Les articles 5, alinéa 1, lettres a à c, 7, alinéa 1, 9, alinéa 2, lettre a1 et 13, alinéa 2, lettre b sont applicables à partir du 1<sup>er</sup> janvier 2022.
 
 Berne, le 25 octobre 2000
 

@@ -4,13 +4,13 @@ number: "842.111.1"
 title: Kantonale Krankenversicherungsverordnung
 short: KKVV
 language: de
-version: 2020-11-01
-valid_until: 2021-11-07
-version_adopted: 2020-09-02
+version: 2021-11-08
+valid_until: 2022-12-31
+version_adopted: 2021-11-03
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/842.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1997/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2398/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1997/pdf_file"
 
 (KKVV)
 
-vom 25.10.2000 (Stand 01.11.2020)
+vom 25.10.2000 (Stand 08.11.2021)
 
 Der Regierungsrat des Kantons Bern
 
@@ -77,9 +77,9 @@ beschliesst:
 
 <sup>1</sup> Junge Erwachsene zählen zur Familie ihrer Eltern, wenn sie ledig sind, nicht mit eigenen Kindern eine Familie bilden und
 
-- a kein eigenes Einkommen erzielen,
-- b ein Einkommen nach Artikel 6 Absatz 4 unter 14'000 Franken im Jahr erzielen oder
-- c ein Einkommen nach Artikel 6 Absatz 4 von mehr als 14'000 Franken im Jahr noch nicht dauerhaft erzielen.
+- a kein eigenes Einkommen erzielen oder
+- b ein Einkommen nach Artikel 6 Absatz 4 unter 14'000 Franken im Jahr erzielen.
+- c …
 
 <sup>2</sup> Zur Familie zählen auch Personen, die nicht im Kanton wohnen.
 
@@ -131,7 +131,7 @@ beschliesst:
 
 **b Ermittlung des Einkommens und des Vermögens**
 
-<sup>1</sup> Für den Zeitraum vom 1. Januar bis zum 31. Dezember bestimmen sich das Reineinkommen und das Reinvermögen aufgrund der definitiven Veranlagung des vorletzten Steuerjahres. Solange keine solche vorliegt, wird vorläufig auf die definitive Veranlagung des vorvorletzten Steuerjahres abgestellt. Entsteht aufgrund der definitiven Veranlagung des vorletzten Steuerjahres eine Differenz zwischen dem vorläufigen und dem definitiven Prämienverbilligungsanspruch, erfolgt eine rückwirkende Korrektur.
+<sup>1</sup> Für den Zeitraum vom 1. Januar bis zum 31. Dezember bestimmen sich das Reineinkommen und das Reinvermögen aufgrund der definitiven Veranlagung des vorletzten Steuerjahres.
 
 <sup>2</sup> …
 
@@ -165,12 +165,13 @@ beschliesst:
 
 <sup>2</sup> Die wirtschaftlichen Verhältnisse ergeben sich aus dem massgebenden Einkommen. Dieses wird ermittelt, indem das korrigierte Reineinkommen (Art. 6 Abs. 4) bzw. das Einkommen nach Artikel 6a Absatz 1 und fünf Prozent des nach Absatz 1 reduzierten Reinvermögens zusammengerechnet werden und das Ergebnis um folgende persönliche oder familiäre Abzüge reduziert wird:
 
-- a verheiratete Personen (pro Ehepaar): CHF 13'000
+- a verheiratete Personen und Paare, die in eingetragener Partnerschaft leben (pro Paar): CHF 13'000
+- a1 unverheiratete Paare nach Artikel 19 Absatz 2 Buchstabe a2 und a3 EG KUMV (pro Paar): CHF 13'000
 - b alleinstehender Elternteil, der gemeinsam mit Personen nach Artikel 5 eine Familie bildet: CHF 6'500
 - c alleinstehende Person, die nach Artikel 5 nicht zur Familie zählt: CHF 2'200
 - d das erste nach Artikel 5 zur Familie zählende Kind bzw. die oder der erste nach Artikel 5 zur Familie zählende junge Erwachsene: CHF 15'000
 - e
-- f jedes weitere nach Artikel 5 zur Familie zählende Kind und jede und jeder weitere nach Artikel 5 zur Familie zählende junge Erwachsene: CHF 10'000
+- f jedes weitere nach Artikel 5 zur Familie zählende Kind und jede oder jeder weitere nach Artikel 5 zur Familie zählende junge Erwachsene: CHF 10'000
 
 #### Art. 10
 
@@ -312,13 +313,15 @@ beschliesst:
 
 #### Art. 11
 
-**Personen, die Sozialhilfeleistungen oder Unterstützungen im Rahmen der Jugendstrafrechtspflege beziehen**
+**Personen, die Sozialhilfeleistungen oder Unterstützungen im Rahmen der Jugendstrafrechtspflege beziehen und Personen des Asyl- und Flüchtlingsbereichs**
 
 <sup>1</sup> Personen, die im Kanton Bern Sozialhilfeleistungen oder Unterstützungen im Rahmen der Jugendstrafrechtspflege beziehen, erhalten die höchste Stufe der ordentlichen Prämienverbilligung ihrer Alterskategorie (Art. 4) und der Region entsprechend ihrer aktuellen Wohnsitzgemeinde.
 
 <sup>2</sup> Junge Erwachsene, die im Kanton Bern Sozialhilfeleistungen oder Unterstützungen im Rahmen der Jugendstrafrechtspflege beziehen, erhalten 50 Prozent der Prämie verbilligt. Massgebende Prämie ist die durchschnittliche Vorjahresprämie für junge Erwachsene der 20 günstigsten Krankenversicherer der Region entsprechend ihrer aktuellen Wohnsitzgemeinde.
 
 <sup>3</sup> …
+
+<sup>4</sup> Für Personen des Asyl- und Flüchtlingsbereichs, die einen Anspruch auf Prämienverbilligung nach Artikel 65 KVG haben, gelten die Absätze 1 und 2 sinngemäss.
 
 #### Art. 12
 
@@ -345,7 +348,7 @@ beschliesst:
 <sup>2</sup> Folgende Personen müssen die Verbilligung der Prämien beantragen:
 
 - a an der Quelle besteuerte Personen und Personen, die im Vorjahr teilweise an der Quelle besteuert wurden;
-- b junge Erwachsene, die im Jahr ein Einkommen nach Artikel 6 Absatz 4 von weniger als 14 000 Franken erzielen und nach Artikel 5 weder zur Familie ihrer Eltern zählen noch eine eigene Familie bilden,
+- b …
 - c Personen, die in der letzten Steuererklärung kein Einkommen ausgewiesen haben oder die nach Ermessen taxiert wurden;
 - d Personen, die gemäss dem Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit[^13-1] in der Schweiz versicherungspflichtig sind und im Ausland wohnen;
 - e junge Erwachsene, die sich in Ausbildung befinden und nicht nach Artikel 5 zur Familie zählen, wenn sie eine Prämienverbilligung von 50 Prozent geltend machen wollen,
@@ -354,7 +357,9 @@ beschliesst:
 - h Personen, die ihren Wohnsitz am 1. Januar in den Kanton Bern verlegt haben;
 - i Erwachsene, die im Jahr ein Einkommen nach Artikel 6 Absatz 4 von weniger als 14'000 Franken erzielen und nach Artikel 5 nicht eine Familie bilden;
 - k Personen, die zum Zeitpunkt ihres Wegzugs aus dem Kanton Bern Leistungen der Sozialhilfe oder Ergänzungsleistungen bezogen haben;
-- l Personen mit einem Bruttovermögen von mehr als 750'000 Franken.
+- l Personen mit einem Bruttovermögen von mehr als 750'000 Franken;
+- m junge Erwachsene, die im Jahr ein Einkommen nach Artikel 6 Absatz 4 von weniger als 14'000 Franken erzielen, wenn die Eltern ihren steuerrechtlichen Wohnsitz in einem andern Kanton oder im Ausland haben bzw. der alleinstehende Elternteil, bei dem sie zuletzt wohnhaft waren, seinen steuerrechtlichen Wohnsitz in einem andern Kanton oder im Ausland hat;
+- n Personen, deren Ehegatte oder eingetragene Partnerin oder eingetragener Partner den steuerrechtlichen Wohnsitz in einem andern Kanton oder im Ausland hat.
 
 <sup>3</sup> …
 
@@ -403,9 +408,10 @@ beschliesst:
 
 <sup>1</sup> Die Verbilligung der Prämien in der obligatorischen Krankenpflegeversicherung ist einstweilen einzustellen oder herabzusetzen, wenn
 
-- a sich aufgrund der provisorischen Veranlagung der Steuerperiode, die für den definitiven oder vorläufigen Prämienverbilligungsanspruch massgebend ist (Art. 7), ergibt, dass der Anspruch auf Verbilligung voraussichtlich dahinfallen oder sich reduzieren wird,
+- a sich aufgrund der provisorischen Veranlagung des Steuerjahres, das für den Prämienverbilligungsanspruch massgebend ist (Art. 7), ergibt, dass der Anspruch auf Verbilligung voraussichtlich dahinfallen oder sich reduzieren wird,
 - b …
-- c die versicherungspflichtige Person trotz Aufforderung des ASV nicht nachweist, dass sie eine obligatorische Krankenpflegeversicherung abgeschlossen hat.
+- c die versicherungspflichtige Person trotz Aufforderung des ASV nicht nachweist, dass sie eine obligatorische Krankenpflegeversicherung abgeschlossen hat,
+- d am 1. November weder die provisorische noch die definitive Veranlagung der letzten Steuerperiode vorliegt.
 
 #### Art. 17a
 
@@ -413,7 +419,11 @@ beschliesst:
 
 <sup>1</sup> Die Prämienverbilligung wird dem Krankenversicherer ausgerichtet.
 
-<sup>2</sup> Bei Personen, die Sozialhilfeleistungen beziehen, wird sie an die zuständige Stelle der Gemeinde überwiesen. Bei Personen, die Unterstützungen im Rahmen der Jugendstrafrechtspflege beziehen, wird sie an die zuständige Dienststelle der Jugendanwaltschaft überwiesen. Die zuständige Stelle der Gemeinde und die zuständige Dienststelle der Jugendanwaltschaft richten die Prämienverbilligung direkt dem Krankenversicherer aus.
+<sup>2</sup> Bei Personen, die Sozialhilfeleistungen beziehen, wird sie an die zuständige Stelle der Gemeinde überwiesen. Bei Personen des Asyl- und Flüchtlingsbereichs, die einen Anspruch auf Prämienverbilligung nach Artikel 65 KVG haben, wird sie an die zuständige Trägerschaft nach Artikel 10 Absatz 1 des Gesetzes vom 3. Dezember 2019 über die Sozialhilfe im Asyl- und Flüchtlingsbereich (SAFG)[^17a-1] überwiesen. Bei Personen, die Unterstützungen im Rahmen der Jugendstrafrechtspflege beziehen, wird sie an die zuständige Dienststelle der Jugendanwaltschaft überwiesen.
+
+<sup>3</sup> Die zuständige Stelle der Gemeinde, die zuständige Trägerschaft nach Artikel 10 Absatz 1 SAFG und die zuständige Dienststelle der Jugendanwaltschaft richten die Prämienverbilligung direkt dem Krankenversicherer aus.
+
+[^17a-1]: BSG [861.1](https://www.belex.sites.be.ch/data/861.1/de)
 
 #### Art. 17b
 
@@ -466,6 +476,14 @@ beschliesst:
 
 <sup>1</sup> Das ASV kann den zuständigen Stellen der Gemeinden bezüglich der Durchführung der Versicherungspflicht und der Verbilligung von Prämien in der obligatorischen Krankenpflegeversicherung Weisungen erteilen. Diese können insbesondere Bestimmungen über das Meldeverfahren nach Artikel 19 und über die Aufgaben nach Artikel 19a Absatz 2 enthalten.
 
+#### Art. 19c
+
+**Trägerschaften nach Artikel 10 Absatz 1 SAFG**
+
+<sup>1</sup> Die zuständigen Trägerschaften nach Artikel 10 Absatz 1 SAFG stellen dem ASV kostenlos alle zur Durchführung der Prämienverbilligung notwendigen Daten über die Personen des Asyl- und Flüchtlingsbereichs, die einen Anspruch auf Prämienverbilligung nach Artikel 65 KVG haben, zur Verfügung.
+
+<sup>2</sup> Artikel 19 Absatz 2 und 3 sowie Artikel 19a und 19b gelten sinngemäss.
+
 #### Art. 20
 
 **Kantonale Steuerverwaltung**
@@ -475,6 +493,12 @@ beschliesst:
 Name, Vorname, Adresse, Geburtsdatum, kantonale Identifikationsnummer, AHV-Nummer, Zivilstand, Datum des Zuzugs in bzw. des Wegzugs aus dem Kanton, Haushaltsstruktur sowie Angaben über Kinder, die ausserhalb des Kantons wohnen.
 
 <sup>2</sup> Die kantonale Steuerverwaltung stellt dem ASV für den Vollzug der Prämienverbilligung zusätzlich Informationen über die Einkommens- und Vermögensverhältnisse aller im Kanton steuerpflichtigen natürlichen Personen in einem Abrufverfahren zur Verfügung, soweit dies für den Vollzug nötig ist.
+
+#### Art. 20a
+
+**Amt für Bevölkerungsdienste**
+
+<sup>1</sup> Das Amt für Bevölkerungsdienste stellt dem ASV für den Vollzug der Versicherungspflicht namentlich die AHV-Nummer und die Personennummer von Grenzgängerinnen und Grenzgängern aus dem Zentralen Migrationsinformationssystem (ZEMIS) zur Verfügung.
 
 #### Art. 21
 
@@ -586,6 +610,12 @@ Name, Vorname, Adresse, Geburtsdatum, kantonale Identifikationsnummer, AHV-Numme
 <sup>2</sup> Von den Versicherern dem ASV abgetretene Verlustscheine für uneinbringliche, bis am 31. Dezember 2011 fällig gewesene Prämien und Kostenbeteiligungen werden mit Prämienverbilligungsguthaben verrechnet.
 
 <sup>3</sup> Die Krankenversicherer können beim ASV Ersatz für bis am 31. Dezember 2011 fällige, uneinbringliche Prämien und Kostenbeteiligungen verlangen, wenn die Versicherten zur Zeit der Entstehung der Schuld im Kanton Bern wohnhaft waren.
+
+### T2 Übergangsbestimmung der Änderung vom 3. November 2021
+
+#### Art. T2-1
+
+<sup>1</sup> Artikel 5 Absatz 1 Buchstabe a bis c, Artikel 7 Absatz 1, Artikel 9 Absatz 2 Buchstabe a1 und Artikel 13 Absatz 2 Buchstabe b sind ab dem 1. Januar 2022 anwendbar.
 
 Bern, 25. Oktober 2000
 
