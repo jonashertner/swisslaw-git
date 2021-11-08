@@ -5,30 +5,32 @@ title: Regierungsratsbeschluss über den Normalarbeitsvertrag für hauswirtschaf
 short: NAV Hauswirtschaft
 language: de
 version: 1985-07-01
-valid_until: 2023-03-31
+corrected: 2021-11-09
 version_adopted: 1985-07-01
 adopted: 2023-03-07
 in_force: 2023-04-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/223.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/843/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/80/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Regierungsratsbeschluss über den Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer
 
-vom 01.07.1985 (Stand 01.07.1985)
+vom 1. Juli 1985[^t-1]
 
 Der Regierungsrat,
 
-gestützt auf § 15 der Einführungsverordnung vom 3. Juli 1976 zum Obligationenrecht[^ingress-1], in Ausführung der Art. 359, 359 a und 360 des Schweizerischen Obligationenrechts vom 30. März 1911[^ingress-2],
+gestützt auf § 15 der Einführungsverordnung vom 3. Juli 1976 zum Obligationenrecht[^t-2], in Ausführung der Art. 359, 359 a und 360 des Schweizerischen Obligationenrechts vom 30. März 1911[^t-3],
 
 beschliesst:
 
-[^ingress-1]: NG 221.1
-[^ingress-2]: SR 220
+[^t-1]: A 1985, 810
+[^t-2]: NG 221.1
+[^t-3]: SR 220
 
-## 1 Geltungsbereich und Wirkung
+### I. GELTUNGSBEREICH UND WIRKUNG
 
 #### § 1
 
@@ -46,19 +48,19 @@ beschliesst:
 
 <sup>2</sup> Die zwingenden ergänzenden Vorschriften des Schweizerischen Obligationenrechts bleiben vorbehalten.
 
-## 2 Dauer des Arbeitsverhältnisses
+### II. DAUER DES ARBEITSVERHÄLTNISSES
 
 #### § 3
 
 **Vorstellung**
 
-<sup>1</sup> Veranlasst der Arbeitgeber vor Vertragsabschluss, dass der Arbeitnehmer sich persönlich vorstellt, hat dieser Anrecht auf eine Vergütung der Fahrkosten, wenn diese Leistung nicht schriftlich wegbedungen ist.
+Veranlasst der Arbeitgeber vor Vertragsabschluss, dass der Arbeitnehmer sich persönlich vorstellt, hat dieser Anrecht auf eine Vergütung der Fahrkosten, wenn diese Leistung nicht schriftlich wegbedungen ist.
 
 #### § 4
 
 **Probezeit**
 
-<sup>1</sup> Die ersten vier Wochen des Arbeitsverhältnisses gelten als Probezeit.
+Die ersten vier Wochen des Arbeitsverhältnisses gelten als Probezeit.
 
 #### § 5
 
@@ -67,7 +69,9 @@ beschliesst:
 <sup>1</sup> Das Arbeitsverhältnis kann von Arbeitgeber und Arbeitnehmer wie folgt gekündigt werden:
 
 - 1\. während der Probezeit auf das Ende des der Kündigung folgenden dritten Tages;
+
 - 2\. nach Ablauf der Probezeit bis zum Ende des ersten Dienstjahres mit einer Kündigungsfrist von 14 Tagen auf den 15. Tag des Monats oder das Monatsende;
+
 - 3\. ab dem zweiten Dienstjahr mit einer Kündigungsfrist von einem Monat, auf das Ende eines Monats.
 
 <sup>2</sup> Wird dem Arbeitnehmer vom Arbeitgeber eine Wohnung überlassen, erlischt mit der Auflösung des Arbeitsverhältnisses auch das Recht zur Benützung der Wohnung.
@@ -75,25 +79,26 @@ beschliesst:
 <sup>3</sup> Für regelmässig teilzeitlich beschäftigte Arbeitnehmer kann das Arbeitsverhältnis von Arbeitgeber und Arbeitnehmer wie folgt gekündigt werden:
 
 - 1\. bis zum Ende des ersten Dienstjahres auf das Ende der auf die Kündigung folgenden Woche;
+
 - 2\. ab dem zweiten Dienstjahr auf das Ende des auf die Kündigung folgenden Monats.
 
-<sup>4</sup> Vorbehalten bleiben die Kündigungsbeschränkungen gemäss Art. 336d–g des Schweizerischen Obligationenrechts.
+<sup>4</sup> Vorbehalten bleiben die Kündigungsbeschränkungen gemäss Art. 336d-g des Schweizerischen Obligationenrechts.
 
-## 3 Einsatz und Weiterbildung des Arbeitnehmers
+### III. EINSATZ UND WEITERBILDUNG DES ARBEITNEHMERS
 
 #### § 6
 
 **Einsatz des Arbeitnehmers**
 
-<sup>1</sup> Der Arbeitnehmer ist seiner Ausbildung und seinen Fähigkeiten entsprechend einzusetzen.
+Der Arbeitnehmer ist seiner Ausbildung und seinen Fähigkeiten entsprechend einzusetzen.
 
 #### § 7
 
 **Weiterbildung**
 
-<sup>1</sup> Der Besuch von Kursen und Vorträgen zur Aus- und Weiterbildung soll im Rahmen des Möglichen grosszügig gestattet und gefördert werden.
+Der Besuch von Kursen und Vorträgen zur Aus- und Weiterbildung soll im Rahmen des Möglichen grosszügig gestattet und gefördert werden.
 
-## 4 Arbeitszeit, Freizeit, Ferien, Urlaub
+### IV. ARBEITSZEIT, FREIZEIT, FERIEN, URLAUB
 
 #### § 8
 
@@ -141,21 +146,31 @@ beschliesst:
 
 **Urlaub**
 
-<sup>1</sup> Der Arbeitnehmer hat Anrecht auf einen bezahlten Urlaub, ohne dass dieser an die Ferien oder Freizeit angerechnet wird:
+Der Arbeitnehmer hat Anrecht auf einen bezahlten Urlaub, ohne dass dieser an die Ferien oder Freizeit angerechnet wird:
 
 - 1\. für die Vermählung zwei Tage;
+
 - 2\. bei Vermählung von Kindern, Geschwistern oder eines Elternteils ein Tag;
+
 - 3\. bei Geburt eines eigenen Kindes (Taufe eingeschlossen) zwei Tage;
+
 - 4\. bei Todesfall:
-  - a) des Ehegatten oder eines Kindes vier Tage;
-  - b) von Eltern oder Geschwistern zwei Tage;
-  - c) von Grosseltern, Schwiegereltern, Onkeln, Tanten, Enkeln oder Schwägern ein Tag;
+
+- a) des Ehegatten oder eines Kindes vier Tage;
+
+- b) von Eltern oder Geschwistern zwei Tage;
+
+- c) von Grosseltern, Schwiegereltern, Onkeln, Tanten, Enkeln oder Schwägern ein Tag;
+
 - 5\. bei Wohnungswechsel ein Tag;
+
 - 6\. für die militärische Rekrutierung ein Tag;
+
 - 7\. für die militärische Inspektion der persönlichen Ausrüstung ein halber Tag;
+
 - 8\. für die Entlassung aus der Wehrpflicht ein Tag.
 
-## 5 Lohn
+### V. LOHN
 
 #### § 12
 
@@ -185,7 +200,7 @@ beschliesst:
 
 <sup>3</sup> Wird der Arbeitnehmer, der in Hausgemeinschaft mit dem Arbeitgeber lebt, ohne sein Verschulden durch Krankheit oder Unfall an der Arbeitsleistung verhindert, hat der Arbeitgeber ausserdem Pflege und ärztliche Behandlung für eine beschränkte Zeit zu gewähren, im ersten Dienstjahr für drei Wochen und in jedem folgenden Dienstjahr für eine weitere Woche bis zur Höchstdauer von drei Monaten. Bei Schwangerschaft und Niederkunft der Arbeitnehmerin hat der Arbeitgeber die gleichen Leistungen zu erbringen.
 
-## 6 Versicherungen
+### VI. VERSICHERUNGEN
 
 #### § 15
 
@@ -206,6 +221,7 @@ beschliesst:
 <sup>2</sup> Es sind folgende Leistungen zu versichern:
 
 - 1\. Krankenpflege (Arzt-, Arznei- und Spitalkosten in der allgemeinen Abteilung);
+
 - 2\. Krankentaggeld von 80% des Bar- und Naturallohnes ab dem 31. Krankheitstag.
 
 <sup>3</sup> Die Prämien der Krankenversicherung gehen je zur Hälfte zulasten des Arbeitgebers und Arbeitnehmers.
@@ -222,11 +238,13 @@ beschliesst:
 
 #### § 18
 
-**Personalfürsorge 1. berufliche Vorsorge**
+**Personalfürsorge**
 
-<sup>1</sup> Der Arbeitgeber versichert die der obligatorischen beruflichen Vorsorge unterstellten Arbeitnehmer nach den Bestimmungen des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^18-1] bei einer registrierten Vorsorgeeinrichtung.
+### 1. berufliche Vorsorge
 
-[^18-1]: SR 831.40
+Der Arbeitgeber versichert die der obligatorischen beruflichen Vorsorge unterstellten Arbeitnehmer nach den Bestimmungen des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^h1beruflicheVorsor-1] bei einer registrierten Vorsorgeeinrichtung.
+
+[^h1beruflicheVorsor-1]: SR 831.40
 
 #### § 19
 
@@ -234,23 +252,27 @@ beschliesst:
 
 <sup>1</sup> Für nicht der obligatorischen beruflichen Vorsorge unterstehende Arbeitnehmer oder wenn die zusätzliche Alters-, Hinterlassenen- und Invalidenversicherung keine mindestens gleichwertige Leistungen erbringt, hat der Arbeitgeber bei Auflösung des Dienstverhältnisses eines mindestens 50jährigen Angestellten mit 20 oder mehr Dienstjahren auf dem gleichen Betrieb folgende Abgangsentschädigung auszurichten:
 
-- 1\. bei 20–25 Dienstjahren: — zwei Monatslöhne
-- 2\. bei 26–30 Dienstjahren: — drei Monatslöhne
-- 3\. bei 31–35 Dienstjahren: — vier Monatslöhne
-- 4\. bei 36–40 Dienstjahren: — fünf Monatslöhne
-- 5\. bei über 40 Dienstjahren: — sechs Monatslöhne
+- 1\. bei 20 - 25 Dienstjahren zwei Monatslöhne
+
+- 2\. bei 26 - 30 Dienstjahren drei Monatslöhne
+
+- 3\. bei 31 - 35 Dienstjahren vier Monatslöhne
+
+- 4\. bei 36 - 40 Dienstjahren fünf Monatslöhne
+
+- 5\. bei über 40 Dienstjahren sechs Monatslöhne
 
 <sup>2</sup> Die auszuzahlenden Monatslöhne richten sich in der Höhe nach dem zuletzt bezogenen Bar- und Naturallohn.
 
 <sup>3</sup> Erhält der Arbeitnehmer Leistungen von einer Personalfürsorgeeinrichtung, können sie von der Abgangsentschädigung abgezogen werden, soweit diese Leistungen vom Arbeitgeber oder aufgrund seiner Zuwendungen von der Personalfürsorgeeinrichtung finanziert worden sind.
 
-## 7 Schlussbestimmungen
+### VII. SCHLUSSBESTIMMUNGEN
 
 #### § 20
 
 **Streitigkeiten**
 
-<sup>1</sup> Bei Streitigkeiten über das Arbeitsverhältnis finden die Bestimmungen der Einführungsverordnung zum Obligationenrecht[^20-1] Anwendung.
+Bei Streitigkeiten über das Arbeitsverhältnis finden die Bestimmungen der Einführungsverordnung zum Obligationenrecht[^20-1] Anwendung.
 
 [^20-1]: NG 221.1
 
@@ -258,7 +280,7 @@ beschliesst:
 
 **Aushändigung**
 
-<sup>1</sup> Bei Abschluss des Arbeitsvertrages hat der Arbeitgeber dem Arbeitnehmer ein Exemplar dieses Normalarbeitsvertrages auszuhändigen.
+Bei Abschluss des Arbeitsvertrages hat der Arbeitgeber dem Arbeitnehmer ein Exemplar dieses Normalarbeitsvertrages auszuhändigen.
 
 #### § 22
 
@@ -267,5 +289,3 @@ beschliesst:
 <sup>1</sup> Dieser Normalarbeitsvertrag tritt auf den 1. Juli 1985 in Kraft.
 
 <sup>2</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere der Regierungsratsbeschluss vom 7. Mai 1973 über den Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer.
-
-A 1985, 810
