@@ -5,37 +5,37 @@ title: Gesetz über die kantonale Pensionskasse
 short: "Pensionskassengesetz, PKG"
 language: de
 version: 2019-01-01
-valid_until: 2024-12-31
+corrected: 2021-11-09
 version_adopted: 2018-01-31
 adopted: 2013-09-25
 in_force: 2014-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/829/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/41/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die kantonale Pensionskasse
+# Gesetz über die kantonale Pensionskasse (Pensionskassengesetz, PKG)
 
-(Pensionskassengesetz, PKG)
-
-vom 25.09.2013 (Stand 01.01.2019)
+vom 25. September 2013[^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^ingress-1],
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: SR 831.40
+[^t-1]: A 2013, 1582; A 2014, 9
+[^t-2]: SR 831.40
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Name, Sitz**
 
-<sup>1</sup> Die Pensionskasse des Kantons Nidwalden (Pensionskasse) ist eine selbständige Anstalt des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit und Sitz in Stans.
+Die Pensionskasse des Kantons Nidwalden (Pensionskasse) ist eine selbständige Anstalt des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit und Sitz in Stans.
 
 #### Art. 2
 
@@ -49,7 +49,9 @@ beschliesst:
 
 #### Art. 3
 
-**Geltungsbereich 1. Kanton und selbständige Anstalten**
+**Geltungsbereich**
+
+- 1\. Kanton und selbständige Anstalten
 
 <sup>1</sup> Diesem Gesetz unterstehen der Kanton und seine selbständigen Anstalten als Arbeitgeberinnen beziehungsweise Arbeitgeber.
 
@@ -61,18 +63,21 @@ beschliesst:
 
 **2. weitere Arbeitgeberinnen und Arbeitgeber**
 
-<sup>1</sup> Die Pensionskasse kann durch Vertrag den Anschluss folgender Körperschaften, Institutionen und Unternehmen regeln:
+Die Pensionskasse kann durch Vertrag den Anschluss folgender Körperschaften, Institutionen und Unternehmen regeln:
 
 - 1\. Politische Gemeinden, Schulgemeinden und Kirchgemeinden;
+
 - 2\. andere öffentlich-rechtliche Körperschaften;
+
 - 3\. gemeinnützige Institutionen, die einen Bezug zum Kanton haben;
+
 - 4\. privatrechtliche Unternehmen, an denen der Kanton oder die Gemeinden stimm- oder kapitalmässig beteiligt sind und die einen Bezug zum Kanton haben.
 
 #### Art. 5
 
 **Versicherte Personen**
 
-<sup>1</sup> Die Pensionskasse regelt die Mitgliedschaft bei der Pensionskasse in einem Reglement; sie kann insbesondere einen bestimmten Jahreslohn als Eintrittsschwelle festlegen.
+Die Pensionskasse regelt die Mitgliedschaft bei der Pensionskasse in einem Reglement; sie kann insbesondere einen bestimmten Jahreslohn als Eintrittsschwelle festlegen.
 
 #### Art. 6
 
@@ -81,30 +86,34 @@ beschliesst:
 <sup>1</sup> Der versicherte Lohn entspricht dem um den Koordinationsbetrag verminderten Jahreslohn und ist begrenzt:
 
 - 1\. für die Leistungen im Alter auf den zulässigen versicherbaren Maximallohn gemäss BVG[^6-1];
+
 - 2\. für die Leistungen bei Invalidität und im Todesfall auf die zehnfache maximale AHV-Altersrente.
 
 <sup>2</sup> Die Pensionskasse regelt die Einzelheiten zu den anrechenbaren Lohnbestandteilen in einem Reglement.
 
-<sup>3</sup> Der Koordinationsbetrag entspricht 30% des massgebenden Jahreslohnes, höchstens aber dem Koordinationsbetrag gemäss BVG[^6-2].
+<sup>3</sup> Der Koordinationsbetrag entspricht 30 % des massgebenden Jahreslohnes, höchstens aber dem Koordinationsbetrag gemäss BVG[^6-1].
 
 [^6-1]: SR 831.40
-[^6-2]: SR 831.40
 
-## 2 Organisation der Pensionskasse
+### II. ORGANISATION DER PENSIONSKASSE
 
 #### Art. 7
 
 **Organe**
 
-<sup>1</sup> Organe der Pensionskasse sind:
+Organe der Pensionskasse sind:
 
 - 1\. der Verwaltungsrat;
+
 - 2\. die Geschäftsleitung;
+
 - 3\. die Revisionsstelle.
 
 #### Art. 8
 
-**Verwaltungsrat 1. Zusammensetzung**
+**Verwaltungsrat**
+
+### 1. Zusammensetzung
 
 <sup>1</sup> Der Verwaltungsrat der Pensionskasse besteht aus acht Mitgliedern, die je zur Hälfte die Arbeitgeberinnen beziehungsweise Arbeitgeber und die Arbeitnehmerinnen beziehungsweise Arbeitnehmer vertreten.
 
@@ -117,13 +126,17 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat wählt die Arbeitgebervertretung. Er wählt:
 
 - 1\. ein Mitglied für den Kanton;
+
 - 2\. ein Mitglied für die selbständigen Anstalten des Kantons; und
+
 - 3\. zwei Mitglieder für die durch Vertrag angeschlossenen Arbeitgeberinnen oder Arbeitgeber.
 
 <sup>2</sup> Die Arbeitnehmerinnen und Arbeitnehmer wählen die Arbeitnehmervertretung unmittelbar. Der Verwaltungsrat regelt das Wahlverfahren; er hat sicherzustellen, dass die Arbeitnehmerinnen und Arbeitnehmer im Verwaltungsrat vertreten sind durch:
 
 - 1\. ein Mitglied für den Kanton;
+
 - 2\. ein Mitglied für die selbständigen Anstalten des Kantons; und
+
 - 3\. zwei Mitglieder für die durch Vertrag angeschlossenen Arbeitgeberinnen oder Arbeitgeber.
 
 <sup>3</sup> Die Wahl der Verwaltungsratsmitglieder erfolgt auf die verfassungsmässige Amtsdauer.
@@ -147,8 +160,11 @@ beschliesst:
 <sup>2</sup> Er erlässt die erforderlichen Reglemente, insbesondere über:
 
 - 1\. die Organisation;
+
 - 2\. die Leistungen;
+
 - 3\. die Anlage des Vermögens; und
+
 - 4\. die Teilliquidation.
 
 <sup>3</sup> Der Verwaltungsrat wählt die Geschäftsleitung, die Revisionsstelle und den Experten für berufliche Vorsorge.
@@ -165,7 +181,7 @@ beschliesst:
 
 **Revisionsstelle**
 
-<sup>1</sup> Die Zulassung und die Aufgaben der Revisionsstelle richten sich nach dem BVG[^13-1].
+Die Zulassung und die Aufgaben der Revisionsstelle richten sich nach dem BVG[^13-1].
 
 [^13-1]: SR 831.40
 
@@ -173,48 +189,42 @@ beschliesst:
 
 **Landrat**
 
-<sup>1</sup> Der Landrat nimmt vom jährlichen Geschäftsbericht der Pensionskasse Kenntnis.
+Der Landrat nimmt vom jährlichen Geschäftsbericht der Pensionskasse Kenntnis.
 
-## 3 Finanzierung
+### III. FINANZIERUNG
 
 #### Art. 15
 
 **Vollkapitalisierung**
 
-<sup>1</sup> Die Finanzierung erfolgt nach dem System der Vollkapitalisierung.
+Die Finanzierung erfolgt nach dem System der Vollkapitalisierung.
 
 #### Art. 16
 
-**Wiederkehrende Beiträge 1. Grundsätze**
+**Wiederkehrende Beiträge**
+
+### 1. Grundsätze
 
 <sup>1</sup> Die wiederkehrenden Sparbeiträge der aktiven versicherten Personen sowie der Arbeitgeberinnen und Arbeitgeber betragen in Prozenten des versicherten Lohnes gemäss Art. 6 Abs. 1 Ziff. 1:
 
-<table>
-<tr><th>BVG-Alter</th><th>Arbeitnehmerin / Arbeitnehmer Sparbeiträge</th><th>Arbeitgeberin / Arbeitgeber Sparbeiträge</th></tr>
-<tr><td>17–24</td><td>0.0%</td><td>0.0%</td></tr>
-<tr><td>25–29</td><td>5.5%</td><td>6.0%</td></tr>
-<tr><td>30–34</td><td>6.5%</td><td>7.0%</td></tr>
-<tr><td>35–39</td><td>7.5%</td><td>8.0%</td></tr>
-<tr><td>40–44</td><td>8.5%</td><td>9.0%</td></tr>
-<tr><td>45–49</td><td>10.0%</td><td>10.5%</td></tr>
-<tr><td>50–54</td><td>11.5%</td><td>12.0%</td></tr>
-<tr><td>55–59</td><td>12.5%</td><td>13.0%</td></tr>
-<tr><td>60–65</td><td>12.5%</td><td>13.0%</td></tr>
-</table>
+Arbeitnehmerin / Arbeitnehmer Arbeitgeberin / Arbeitgeber BVG-Alter Sparbeiträge 17-24 0.0 % 25-29 5.5 % 30-34 6.5 % 35-39 7.5 % 40-44 8.5 % 45-49 10.0 % 50-54 11.5 % 55-59 12.5 % 60-65 12.5 %
 
-<sup>2</sup> Bei der Fortsetzung der Erwerbstätigkeit nach dem ordentlichen Rücktrittsalter gemäss Art. 72a PersG[^16-1] betragen die Sparbeiträge der aktiven versicherten Personen 8.5% sowie für Arbeitgeberinnen und Arbeitgeber 9%.
+**Sparbeiträge 0.0 % 6.0 % 7.0 % 8.0 % 9.0 % 10.5 % 12.0 % 13.0 % 13.0 %**
 
-<sup>3</sup> Die wiederkehrenden Risikobeiträge der aktiven versicherten Personen sowie der Arbeitgeberinnen und Arbeitgeber betragen je 1% des versicherten Lohnes gemäss Art. 6 Abs. 1 Ziff. 2.
+<sup>2</sup> Bei der Fortsetzung der Erwerbstätigkeit nach dem ordentlichen Rücktrittsalter gemäss Art. 72a PersG[^h1Grundsätze-1] betragen die Sparbeiträge der aktiven versicherten Personen 8.5 % sowie für Arbeitgeberinnen und Arbeitgeber 9 %.[^h1Grundsätze-2]
+
+<sup>3</sup> Die wiederkehrenden Risikobeiträge der aktiven versicherten Personen sowie der Arbeitgeberinnen und Arbeitgeber betragen je 1 % des versicherten Lohnes gemäss Art. 6 Abs. 1 Ziff. 2.
 
 <sup>4</sup> Das BVG-Alter entspricht der Differenz zwischen dem laufenden Kalenderjahr und dem Geburtsjahr der versicherten Person.
 
-[^16-1]: NG 165.1
+[^h1Grundsätze-1]: NG 165.1
+[^h1Grundsätze-2]: Fassung gemäss Landratsbeschluss vom 31. Januar 2018, A 2018, 231, 822; in Kraft seit 1. Januar 2019
 
 #### Art. 17
 
 **2. besondere Sparpläne**
 
-<sup>1</sup> Jede Arbeitgeberin und jeder Arbeitgeber kann unter Vorbehalt von Abs. 3 in besonderen Sparplänen zusätzlich Sparbeiträge von jährlich insgesamt höchstens 5% des versicherten Lohnes gemäss Art. 6 Abs. 1 Ziff. 1 vorsehen.
+<sup>1</sup> Jede Arbeitgeberin und jeder Arbeitgeber kann unter Vorbehalt von Abs. 3 in besonderen Sparplänen zusätzlich Sparbeiträge von jährlich insgesamt höchstens 5 % des versicherten Lohnes gemäss Art. 6 Abs. 1 Ziff. 1 vorsehen.
 
 <sup>2</sup> Diese Sparpläne können auch nur für einzelne Arbeitnehmerkategorien bestimmt sein.
 
@@ -229,7 +239,9 @@ beschliesst:
 <sup>2</sup> Die Risikobeiträge werden verwendet für die Finanzierung:
 
 - 1\. des Sterbe-, Invaliditäts- und Langleberisikos;
+
 - 2\. der Beiträge an den Sicherheitsfonds;
+
 - 3\. der Verwaltungs- und übrigen Kosten.
 
 <sup>3</sup> Bei Austritt aus der Pensionskasse besteht kein Anspruch auf die Risikobeiträge.
@@ -238,11 +250,12 @@ beschliesst:
 
 **4. Anpassung**
 
-<sup>1</sup> Die Pensionskasse ist ermächtigt, die Prozentsätze der Sparbeiträge gemäss Art. 16 Abs. 1 jeder Alterskategorie um höchstens je 10% des ursprünglichen Prozentsatzes zu erhöhen, wenn die Beiträge mittelfristig nicht ausreichen, zusammen mit der Alters-, Hinterlassenen- und Invalidenversicherung die Fortsetzung der gewohnten Lebenshaltung in angemessener Weise beim Eintreten des Vorsorgefalles zu gewährleisten.
+<sup>1</sup> Die Pensionskasse ist ermächtigt, die Prozentsätze der Sparbeiträge gemäss Art. 16 Abs. 1 jeder Alterskategorie um höchstens je 10 % des ursprünglichen Prozentsatzes zu erhöhen, wenn die Beiträge mittelfristig nicht ausreichen, zusammen mit der Alters-, Hinterlassenen- und Invalidenversicherung die Fortsetzung der gewohnten Lebenshaltung in angemessener Weise beim Eintreten des Vorsorgefalles zu gewährleisten.
 
-<sup>2</sup> Die Pensionskasse ist ermächtigt, den Prozentsatz für wiederkehrende Risikobeiträge gemäss Art. 16 Abs. 3 um höchstens:
+<sup>2</sup> Die Pensionskasse ist ermächtigt, den Prozentsatz für wieder-kehrende Risikobeiträge gemäss Art. 16 Abs. 3 um höchstens:
 
 - 1\. je 1 Prozentpunkt zu erhöhen, wenn die Beiträge mittelfristig nicht ausreichen, um das Sterbe-, Invaliditäts- und Langleberisiko zu tragen;
+
 - 2\. je im selben Umfang zu senken.
 
 <sup>3</sup> Die Anpassung der Beiträge hat für die betroffenen aktiven versicherten Personen sowie die Arbeitgeberinnen und Arbeitgeber je im gleichen Umfang zu erfolgen. Sie ist auf Beginn des Kalenderjahres vorzunehmen.
@@ -255,23 +268,27 @@ beschliesst:
 
 <sup>2</sup> Der Sanierungsplan ist befristet und enthält insbesondere folgende Massnahmen:
 
-- 1\. Minderverzinsung der Sparguthaben der aktiven und invaliden versicherten Personen mit einem Zinssatz unterhalb des BVG-Mindestzinssatzes. Der Zinssatz zur Verzinsung der Sparguthaben beträgt wenigstens 0%; und
+- 1\. Minderverzinsung der Sparguthaben der aktiven und invaliden versicherten Personen mit einem Zinssatz unterhalb des BVG-Mindestzinssatzes. Der Zinssatz zur Verzinsung der Sparguthaben beträgt wenigstens 0 %; und
+
 - 2\. Sanierungsbeiträge der beitragspflichtigen aktiven versicherten Personen mit BVG-Alter über 24 Jahren sowie der Arbeitgeberinnen und Arbeitgeber.
 
 <sup>3</sup> Die Minderverzinsung und die Sanierungsbeiträge sind innerhalb folgender Rahmenbedingungen zu beschliessen:
 
-<table>
-<tr><th>Deckungsgrad zu Beginn der Sanierung in %</th><th>Arbeitnehmerin / Arbeitnehmer: Minderverzinsung in %</th><th>Arbeitnehmerin / Arbeitnehmer: Sanierungsbeiträge in % des versicherten Lohnes gemäss Art. 6 Abs. 1 Ziff. 1</th><th>Arbeitgeberin / Arbeitgeber: Sanierungsbeiträge in % des versicherten Lohnes gemäss Art. 6 Abs. 1 Ziff. 1</th></tr>
-<tr><td>unter 80</td><td>1.00</td><td>2.5–5.0</td><td>5.5–7.5</td></tr>
-<tr><td>80–85</td><td>0.75–1.00</td><td>2.0–4.0</td><td>4.0–6.0</td></tr>
-<tr><td>85–90</td><td>0.50–0.75</td><td>1.5–3.0</td><td>3.0–4.5</td></tr>
-<tr><td>90–95</td><td>0.25–0.50</td><td>1.0–2.5</td><td>2.0–3.0</td></tr>
-<tr><td>95–100</td><td>0.00–0.25</td><td>0.0–1.5</td><td>0.0–2.0</td></tr>
-</table>
+**Arbeitgeberin / Arbeitgeber**
 
-<sup>4</sup> Die Arbeitgeberinnen und Arbeitgeber haben zusammen an die Massnahmen zur Sanierung insgesamt 50% beizutragen.
+Arbeitnehmerin /
 
-## 4 Versicherungsleistungen
+Arbeitnehmer
+
+Deckungsgrad Minderverzin- Sanierungsbei- Sanierungsbeizu Beginn der sung träge in % des ver- träge in % des ver-Sanierung in % in % sicherten Lohnes gemäss Lohnes gemäss Art. 6 Abs. 1 Ziff. 1 Art. 6 Abs. 1 Ziff. 1 unter 80 1.00 2.5 – 5.0 80 – 85 0.75 – 1.00 2.0 – 4.0 85 – 90 0.50 – 0.75 1.5 – 3.0 90 – 95 0.25 – 0.50 1.0 – 2.5 95 – 100 0.00 – 0.25 0.0 – 1.5
+
+**sicherten**
+
+**5.5 – 7.5 4.0 – 6.0 3.0 – 4.5 2.0 – 3.0 0.0 – 2.0**
+
+<sup>4</sup> Die Arbeitgeberinnen und Arbeitgeber haben zusammen an die Massnahmen zur Sanierung insgesamt 50 % beizutragen.
+
+### IV. VERSICHERUNGSLEISTUNGEN
 
 #### Art. 21
 
@@ -291,7 +308,7 @@ beschliesst:
 
 <sup>2</sup> Eine vorzeitige Pensionierung oder eine aufgeschobene Pensionierung ist möglich.
 
-## 5 Auflösung von Anschlussverträgen
+### V. AUFLÖSUNG VON ANSCHLUSSVERTRÄGEN
 
 #### Art. 23
 
@@ -307,27 +324,33 @@ beschliesst:
 
 <sup>1</sup> Die Arbeitgeberin oder der Arbeitgeber hat das im Zeitpunkt der Auflösung fehlende Vorsorgekapital der zurückgelassenen Rentenbezügerinnen und inklusive technischer Rückstellungen auszufinanzieren. Das vorhandene Vorsorgekapital inklusive technischer Rückstellungen wird gestützt auf einen Zinssatz berechnet, der:
 
-- 1\. dem um 0.5 Prozentpunkte reduzierten Satz der zehnjährigen Bundesobligation entspricht. Der Zinssatz beträgt wenigstens 0%; oder
+- 1\. dem um 0.5 Prozentpunkte reduzierten Satz der zehnjährigen Bundesobligation entspricht. Der Zinssatz beträgt wenigstens 0 %; oder
+
 - 2\. dem um 0.5 Prozentpunkte reduzierten, technischen Zinssatz entspricht, wenn der technische Zinssatz den Satz der zehnjährigen Bundesobligation unterschreitet.
 
 <sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber hat:
 
 - 1\. noch nicht beglichene Verpflichtungen zu erfüllen; und
-- 2\. im Falle einer Unterdeckung im Zeitpunkt der Auflösung, die fehlenden Sparguthaben ohne technische Rückstellungen auszufinanzieren.
 
-## 6 Übergangs- und Schlussbestimmungen
+- 2\. im Falle einer Unterdeckung im Zeitpunkt der Auflösung, die fehlenden Sparguthaben ohne technische Rückstellungen auszu-finanzieren.
+
+### VI. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 25
 
-**Übergangsbestimmungen 1. Grundsatz**
+**Übergangsbestimmungen**
 
-<sup>1</sup> Die neuen Bestimmungen gelten auch für die bei Inkrafttreten dieses Gesetzes versicherten Personen sowie die Rentenbezügerinnen und ‑bezüger.
+### 1. Grundsatz
+
+<sup>1</sup> Die neuen Bestimmungen gelten auch für die bei Inkrafttreten dieses Gesetzes versicherten Personen sowie die Rentenbezügerinnen und -bezüger.
 
 <sup>2</sup> In denjenigen Bereichen, in denen die Pensionskasse gemäss diesem Gesetz zuständig ist, erlässt sie die Übergangsbestimmungen in einem Reglement.
 
 #### Art. 26
 
-**2. Forderung der Pensionskasse a) Grundsatz**
+**2. Forderung der Pensionskasse**
+
+- a) Grundsatz
 
 <sup>1</sup> Die Pensionskasse hat am 1. Januar 2014 gegenüber dem Kanton eine Forderung in der Höhe des Fehlbetrags am 31. Dezember 2013.
 
@@ -335,9 +358,9 @@ beschliesst:
 
 <sup>3</sup> Der Kanton bilanziert die gesamte Schuld erfolgsneutral; die selbständigen Anstalten sowie die durch Vertrag angeschlossenen Arbeitgeberinnen und Arbeitgeber haben die Schuld nicht zu bilanzieren.
 
-#### Art. 27
+#### Art. 27 b
 
-**b) Annuität, Restschuld**
+**) Annuität, Restschuld**
 
 <sup>1</sup> Der Kanton tilgt und verzinst die Schuld mittels einer gleichbleibenden Annuität. Diese ist so hoch zu bemessen, damit die anerkannte Schuld binnen 40 Jahren getilgt und verzinst werden kann.
 
@@ -347,36 +370,41 @@ beschliesst:
 
 <sup>4</sup> Die Annuität wird alle fünf Jahre angepasst, sofern der Zinssatz gemäss Art. 28 ändert.
 
-#### Art. 28
+#### Art. 28 c
 
-**c) Zinssatz**
+**) Zinssatz**
 
 <sup>1</sup> Der Zinssatz entspricht:
 
 - 1\. in den ersten fünf Jahren nach Inkrafttreten des Gesetzes dem durchschnittlichen Jahreszinssatz der langfristigen Schulden des Kantons Nidwalden am 31. Dezember 2013;
+
 - 2\. für die folgenden Perioden von jeweils fünf Jahren dem durchschnittlichen Jahreszinssatz der langfristigen Schulden des Kantons Nidwalden des der Periode vorangehenden Jahres.
 
 <sup>2</sup> Bei der Berechnung des durchschnittlichen Jahreszinssatzes der langfristigen Schulden des Kantons Nidwalden sind die Schulden, die der Finanzierung von Finanzanlagen dienen, nicht zu berücksichtigen.
 
-#### Art. 29
+#### Art. 29 d
 
-**d) Beteiligung an der Annuität**
+**) Beteiligung an der Annuität**
 
 <sup>1</sup> Die selbständigen Anstalten sowie die durch Vertrag angeschlossenen Arbeitgeberinnen und Arbeitgeber erstatten dem Kanton jährlich jeweils per 31. Dezember einen Anteil an die Annuität.
 
-<sup>2</sup> Dieser Anteil entspricht dem verhältnismässigen Anteil an der Unterdeckung per 31. Dezember 2013. Er errechnet sich gestützt auf die den Arbeitgeberinnen und Arbeitgebern per 31. Dezember 2013 zuweisbaren Sparguthaben der aktiven versicherten Personen sowie Vorsorgekapitalien der Rentenbezügerinnen und ‑bezüger; es gelten die Berechnungsgrundlagen gemäss Art. 26 Abs. 2.
+<sup>2</sup> Dieser Anteil entspricht dem verhältnismässigen Anteil an der Unterdeckung per 31. Dezember 2013. Er errechnet sich gestützt auf die den Arbeitgeberinnen und Arbeitgebern per 31. Dezember 2013 zuweisbaren Sparguthaben der aktiven versicherten Personen sowie Vorsorgekapitalien der Rentenbezügerinnen und -bezüger; es gelten die Berechnungsgrundlagen gemäss Art. 26 Abs. 2.
 
 <sup>3</sup> Die selbständigen Anstalten sowie die durch Vertrag angeschlossenen Arbeitgeberinnen und Arbeitgeber können anstelle von jährlichen Zahlungen ihren per 31. Dezember 2013 ausgewiesenen Anteil an der Unterdeckung beziehungsweise an der verbliebenen Restschuld des Kantons direkt der Pensionskasse erstatten. Diese Zahlung kann erfolgen in Form:
 
 - 1\. einer Einmalzahlung bis spätestens am 31. Dezember 2014 zuzüglich des aufgelaufenen Zinses gemäss Art. 28;
+
 - 2\. von höchstens zehn aufeinanderfolgenden Jahresraten, wobei zusätzlich zur Amortisation der laufende Zins gemäss Art. 28 jährlich zu bezahlen ist. Die erste Rate ist bis spätestens am 31. Dezember 2014 zu leisten; oder
+
 - 3\. einer Einmalzahlung bis spätestens am 31. Dezember eines Kalenderjahres unter Einhaltung einer Kündigungsfrist von sechs Monaten zuzüglich des in diesem Jahr aufgelaufenen Zinses gemäss Art. 28.
 
 <sup>4</sup> Erfolgt eine Direktzahlung gemäss Abs. 3, verringert sich die Restschuld des Kantons im Umfang des Tilgungsanteils der entsprechenden Zahlungen.
 
-#### Art. 30
+#### Art. 30 e
 
-**e) Beteiligung an der Restschuld bei Auflösung des Anschlussvertrages**
+**) Beteiligung an der Restschuld bei Auflösung des**
+
+### Anschlussvertrages
 
 <sup>1</sup> Löst die Arbeitgeberin oder der Arbeitgeber den Anschlussvertrag nach Inkrafttreten dieses Gesetzes auf, hat sie oder er dem Kanton dessen per 31. Dezember des jeweiligen Kalenderjahres bestehende Restschuld gegenüber der Pensionskasse anteilsmässig zu erstatten.
 
@@ -406,41 +434,43 @@ beschliesst:
 
 **5. Teuerungsbeiträge**
 
-<sup>1</sup> Bei Austritt aus der Pensionskasse besteht kein Anspruch auf die Teuerungsbeiträge, die vor Inkrafttreten dieses Gesetzes geleistet wurden.
+Bei Austritt aus der Pensionskasse besteht kein Anspruch auf die Teuerungsbeiträge, die vor Inkrafttreten dieses Gesetzes geleistet wurden.
+
+[^33-1]: Fassung gemäss Landratsbeschluss vom 30. August 2017, A 2017, 1526, 2075, in Kraft seit 1. Januar 2018
 
 #### Art. 34
 
-**6. Verwendung der Mittel im Teuerungsfonds**
+**6. Verwendung der Mittel im Teuerungsfonds[^33-1]**
 
 <sup>1</sup> Die Mittel, die nach Inkrafttreten dieses Gesetzes als technische Rückstellungen im Teuerungsfonds gemäss Art. 25 des Gesetzes vom 25. Juni 2008 über die kantonale Pensionskasse (Pensionskassengesetz, PKG)[^34-1] verblieben sind, dienen zur Abfederung von Leistungseinbussen bei neuen Rentnerinnen und Rentnern, welche aufgrund von Leistungsanpassungen durch die Pensionskasse entstehen.
 
 <sup>2</sup> Der Verwaltungsrat entscheidet über die Verwendung der Mittel im Teuerungsfonds.
 
-[^34-1]: A 2008, 1369, 1651, 1845
+[^34-1]: SR 831.40
+[^34-2]: NG 161.3
 
 #### Art. 35
 
-**Änderung des Entschädigungsgesetzes[^35-1]**
+**Änderung des Entschädigungsgesetzes[^34-2]**
 
-<sup>1</sup> Das Gesetz vom 17. Dezember 2008 über die Entschädigung der Behörden (Entschädigungsgesetz)[^35-2] wird wie folgt geändert: …
+Das Gesetz vom 17. Dezember 2008 über die Entschädigung der Behörden (Entschädigungsgesetz)[^35-1] wird wie folgt geändert: …
 
 [^35-1]: NG 161.3
-[^35-2]: NG 161.3
+[^35-2]: NG 165.1
 
 #### Art. 36
 
-**Änderung des Personalgesetzes[^36-1]**
+**Änderung des Personalgesetzes[^35-2]**
 
-<sup>1</sup> Das Gesetz vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz, PersG)[^36-2] wird wie folgt geändert: …
+Das Gesetz vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz, PersG)[^36-1] wird wie folgt geändert: …
 
 [^36-1]: NG 165.1
-[^36-2]: NG 165.1
 
 #### Art. 37
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Gesetz vom 25. Juni 2008 über die kantonale Pensionskasse (Pensionskassengesetz, PKG)[^37-1] wird aufgehoben.
+Das Gesetz vom 25. Juni 2008 über die kantonale Pensionskasse (Pensionskassengesetz, PKG)[^37-1] wird aufgehoben.
 
 [^37-1]: A 2008, 1369, 1651, 1845
 
@@ -452,4 +482,6 @@ beschliesst:
 
 <sup>2</sup> Es tritt am 1. Januar 2014 in Kraft.
 
-A 2013, 1582; A 2014, 9
+## Weitere Fussnoten
+
+- [4] NG 165.2 (einschliesslich der Reglemente der Pensionskasse)
