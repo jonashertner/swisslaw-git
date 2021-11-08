@@ -5,20 +5,20 @@ title: Gesetz über die Enteignung
 short: "Kantonales Enteignungsgesetz, kEntG"
 language: de
 version: 2015-01-01
+corrected: 2021-11-09
 version_adopted: 2014-05-21
 adopted: 1975-04-27
 in_force: 1976-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/266.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/856/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/105/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Enteignung
+# Gesetz über die Enteignung (Kantonales Enteignungsgesetz, kEntG
 
-(Kantonales Enteignungsgesetz, kEntG)
-
-vom 27.04.1975 (Stand 01.01.2015)
+vom 27. April 1975[^t-2][^t-1]
 
 Die Landsgemeinde,
 
@@ -26,30 +26,35 @@ gestützt auf Art. 1 Abs. 2 Ziff. 7 und Art. 52 Abs. 2 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Geltungsbereich
+[^t-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+[^t-2]: A 1975, 620
+
+### I. GELTUNGSBEREICH
 
 #### Art. 1
 
 **Grundsatz**
 
-<sup>1</sup> Dieses Gesetz gilt unter Vorbehalt des Bundesrechts für alle Enteignungen und die Folgen enteignungsähnlicher Eigentumsbeschränkungen.
+Dieses Gesetz gilt unter Vorbehalt des Bundesrechts für alle Enteignungen und die Folgen enteignungsähnlicher Eigentumsbeschränkungen.
 
 #### Art. 2
 
 **Wahl des anwendbaren Rechts**
 
-<sup>1</sup> Ist eine Enteignung nach eidgenössischem und nach kantonalem Recht möglich, entscheidet der Enteigner darüber, nach welchem Recht die Enteignung durchzuführen ist; die Bewilligung des eidgenössischen Enteignungsrechtes schliesst die Anrufung des kantonalen Rechtes aus.
+Ist eine Enteignung nach eidgenössischem und nach kantonalem Recht möglich, entscheidet der Enteigner darüber, nach welchem Recht die Enteignung durchzuführen ist; die Bewilligung des eidgenössischen Enteignungsrechtes schliesst die Anrufung des kantonalen Rechtes aus.
 
-## 2 Das Enteignungsrecht
+### II. DAS ENTEIGNUNGSRECHT
 
 #### Art. 3
 
 **Gegenstand der Enteignung**
 
-<sup>1</sup> Gegenstand der Enteignung können sein:
+Gegenstand der Enteignung können sein:
 
 - 1\. dingliche Rechte an Grundstücken;
+
 - 2\. aus dem Grundeigentum hervorgehende Nachbarrechte;
+
 - 3\. persönliche Rechte von Mietern und Pächtern des von der Enteignung betroffenen Grundstückes.
 
 #### Art. 4
@@ -126,13 +131,13 @@ beschliesst:
 
 <sup>3</sup> Der Anspruch des Grundeigentümers verjährt nach zehn Jahren seit dem Erlass der Eigentumsbeschränkung.
 
-## 3 Die Entschädigung
+### III. DIE ENTSCHÄDIGUNG
 
 #### Art. 12
 
 **Grundsatz**
 
-<sup>1</sup> Die Enteignung erfolgt gegen volle Entschädigung.
+Die Enteignung erfolgt gegen volle Entschädigung.
 
 #### Art. 13
 
@@ -151,20 +156,24 @@ beschliesst:
 <sup>1</sup> Der Enteigner entschädigt:
 
 - 1\. den Verkehrswert des enteigneten Grundstücks oder Rechtes;
+
 - 2\. bei Teilenteignung die Differenz der Verkehrswerte des Besitzstandes vor und nach der Enteignung;
+
 - 3\. die weiteren Nachteile, die sich als Folge der Enteignung voraussehen lassen.
 
 <sup>2</sup> Für selbstverschuldete Nachteile gibt es keinen Ersatz.
 
 #### Art. 15
 
-**Berechnung des Verkehrswertes 1. Zeitpunkt**
+**Berechnung des Verkehrswertes**
 
-<sup>1</sup> Massgebend ist der Verkehrswert im Zeitpunkt der Einigungsverhandlung.
+- 1\. Zeitpunkt Massgebend ist der Verkehrswert im Zeitpunkt der Einigungsverhandlung.
 
 #### Art. 16
 
-**2. Enteignungsbedingte Wertänderungen, Berücksichtigung besonderer Vorteile bei Teilenteignung**
+**2. enteignungsbedingte Wertänderungen,**
+
+### Berücksichtigung besonderer Vorteile bei Teilenteignung
 
 <sup>1</sup> Wertänderungen, die wegen der bevorstehenden Enteignung eingetreten sind, fallen ausser Betracht.
 
@@ -174,11 +183,15 @@ beschliesst:
 
 **3. Minderwert wegen Belastungen**
 
-<sup>1</sup> Ein Minderwert des Grundstücks wegen Dienstbarkeiten, ausgenommen die Nutzniessung, sowie wegen Miet- und Pachtrechten ist zu berücksichtigen.
+Ein Minderwert des Grundstücks wegen Dienstbarkeiten, ausgenommen die Nutzniessung, sowie wegen Miet- und Pachtrechten ist zu berück-sichtigen.
 
 #### Art. 18
 
-**Entschädigung von Berechtigten aus beschränkten dinglichen oder persönlichen Rechten 1. Dienstbarkeiten und persönliche Rechte**
+**Entschädigung von Berechtigten aus beschränkten**
+
+dinglichen oder persönlichen Rechten
+
+### 1. Dienstbarkeiten und persönliche Rechte
 
 <sup>1</sup> Dienstbarkeitsberechtigte, Mieter und Pächter sind für den Verlust oder die vorzeitige Aufhebung ihrer Rechte voll zu entschädigen.
 
@@ -196,7 +209,9 @@ beschliesst:
 
 #### Art. 20
 
-**3. Gefährdung von Grundpfand- und Grundlastrechten durch anderweitige Überlastung des Grundstücks**
+**3. Gefährdung von Grundpfand- und Grundlastrechten**
+
+durch anderweitige Überlastung des Grundstücks
 
 <sup>1</sup> Sind Dienstbarkeiten und persönliche Rechte ohne Zustimmung der Gläubiger vorgehender Grundpfandrechte und Grundlasten begründet worden und deckt die Entschädigung des Eigentümers die Ansprüche nicht, können die Vorranggläubiger verlangen, dass die nachgehenden Rechte nicht berücksichtigt werden.
 
@@ -204,30 +219,39 @@ beschliesst:
 
 <sup>3</sup> Den betreffenden Dienstbarkeitsberechtigten und persönlich Berechtigten kann gleichwohl eine Entschädigung nach billigem Ermessen zugesprochen werden, sofern ihre Rechte ohne die Enteignung in absehbarer Zeit nicht gefährdet gewesen wären.
 
-## 4 Das Planauflageverfahren
+### IV. DAS PLANAUFLAGEVERFAHREN
 
 #### Art. 21
 
 **Vorbereitende Handlungen**
 
-<sup>1</sup> Der Zutritt zu fremdem Besitz für Begehungen, Vermessungen, Aussteckungen, Bohrungen und dergleichen bedarf der Ermächtigung durch die zuständige Direktion, wenn der Eigentümer nicht zustimmt; der Zutritt kann schon vor Beginn des Enteignungsverfahrens gewährt werden.
+<sup>1</sup> Der Zutritt zu fremdem Besitz für Begehungen, Vermessungen, Aussteckungen, Bohrungen und dergleichen bedarf der Ermächtigung durch die zuständige Direktion[^21-1], wenn der Eigentümer nicht zustimmt; der Zutritt kann schon vor Beginn des Enteignungsverfahrens gewährt werden.
 
-<sup>2</sup> Die zuständige Direktion benachrichtigt den Eigentümer rechtzeitig; es teilt ihm zugleich mit, dass seine Schadenersatzansprüche verjähren, wenn er sie nicht binnen einem Jahr, seitdem er den Schaden kennt, spätestens jedoch fünf Jahre nach der Schädigung bei der zuständigen Direktion geltend macht.
+<sup>2</sup> Die zuständige Direktion[^21-1] benachrichtigt den Eigentümer rechtzeitig; es teilt ihm zugleich mit, dass seine Schadenersatzansprüche verjähren, wenn er sie nicht binnen einem Jahr, seitdem er den Schaden kennt, spätestens jedoch fünf Jahre nach der Schädigung bei der zuständigen Direktion[^21-1] geltend macht.
 
 <sup>3</sup> Über streitige Schadenersatzansprüche urteilt der Präsident der Enteignungskommission; sein Entscheid ist beim Verwaltungsgericht anfechtbar.
 
+[^21-1]: Fassung gemäss Landsgemeindebeschluss vom 24. April 1994, A 1994, 682
+
 #### Art. 22
 
-**Einleitung des Verfahrens 1. Gesuch um Erlass des Enteignungsbeschlusses**
+**Einleitung des Verfahrens**
 
-<sup>1</sup> Das Gesuch um Erlass des Enteignungsbeschlusses ist vom Enteigner bei der zuständigen Direktion zuhanden des Regierungsrates einzureichen; vertritt die zuständige Direktion den Enteigner, stellt es selber das Begehren beim Regierungsrat.
+### 1. Gesuch um Erlass des Enteignungsbeschlusses
+
+<sup>1</sup> Das Gesuch um Erlass des Enteignungsbeschlusses ist vom Enteigner bei der zuständigen Direktion[^h1GesuchumErlass-1] zuhanden des Regierungsrates einzureichen; vertritt die zuständige Direktion[^h1GesuchumErlass-1] den Enteigner, stellt es selber das Begehren beim Regierungsrat.
 
 <sup>2</sup> Dem Gesuch sind beizulegen:
 
 - 1\. der Enteignungsplan;
+
 - 2\. die Enteignungstabelle;
+
 - 3\. ein Auszug aus dem Enteignungsplan und der Enteignungstabelle für jeden bekannten Abtretungspflichtigen (Eigentümer, Mieter, Pächter, Dienstbarkeitsberechtigte, vorgemerkte persönlich Berechtigte);
+
 - 4\. ein Plan, aus dem Auswirkungen des Vorhabens auf die beanspruchten und auf die umliegenden Grundstücke ersichtlich sind.
+
+[^h1GesuchumErlass-1]: Fassung gemäss Landsgemeindebeschluss vom 24. April 1994, A 1994, 682
 
 #### Art. 23
 
@@ -235,35 +259,46 @@ beschliesst:
 
 <sup>1</sup> Der Enteigner hat bis spätestens zum Beginn der Planauflage das Werk so darzustellen, dass für die Betroffenen ersichtlich wird, ob und wie sie beeinträchtigt werden.
 
-<sup>2</sup> Die zuständige Direktion entscheidet über die nötigen Vorkehren (Aussteckungen, Modelle, Profile usw.).
+<sup>2</sup> Die zuständige Direktion[^23-1] entscheidet über die nötigen Vorkehren (Aussteckungen, Modelle, Profile usw.).
+
+[^23-1]: Fassung gemäss Landsgemeindebeschluss vom 24. April 1994, A 1994, 682
 
 #### Art. 24
 
-**Planauflage 1. Auflage und Publikation**
+**Planauflage**
 
-<sup>1</sup> Die zuständige Direktion legt das Gesuch und die Beilagen, sobald sie vollständig und in Ordnung sind, während mindestens 30 Tagen öffentlich auf und unterrichtet die Abtretungspflichtigen hierüber mit öffentlicher und mit persönlicher Anzeige.
+### 1. Auflage und Publikation
+
+<sup>1</sup> Die zuständige Direktion[^h1AuflageundPubli-1] legt das Gesuch und die Beilagen, sobald sie vollständig und in Ordnung sind, während mindestens 30 Tagen öffentlich auf und unterrichtet die Abtretungspflichtigen hierüber mit öffentlicher und mit persönlicher Anzeige.
 
 <sup>2</sup> Die in der Enteignungstabelle aufgeführten Personen erhalten zudem die gemäss Art. 22 Abs. 2 Ziff. 3 erstellten Auszüge.
 
-<sup>3</sup> Die zuständige Direktion macht die Abtretungspflichtigen auf ihre Obliegenheiten und Rechte im Planauflageverfahren sowie auf den Enteignungsbann aufmerksam.
+<sup>3</sup> Die zuständige Direktion[^h1AuflageundPubli-1] macht die Abtretungspflichtigen auf ihre Obliegenheiten und Rechte im Planauflageverfahren sowie auf den Enteignungsbann aufmerksam.
+
+[^h1AuflageundPubli-1]: Fassung gemäss Landsgemeindebeschluss vom 24. April 1994, A 1994, 682
 
 #### Art. 25
 
 **2. Obliegenheiten der Abtretungspflichtigen**
 
-<sup>1</sup> Die Abtretungspflichtigen haben binnen der Auflagefrist bei der zuständigen Direktion zuhanden des Regierungsrates einzureichen:
+<sup>1</sup> Die Abtretungspflichtigen haben binnen der Auflagefrist bei der zuständigen Direktion[^25-1] zuhanden des Regierungsrates einzureichen: 1.[^25-2] Einwendung gegen die Enteignung und ihren Umfang;
 
-- 1\. Einwendung gegen die Enteignung und ihren Umfang;
 - 2\. Begehren um Änderung und Vervollständigung der Pläne;
+
 - 3\. Begehren aus Rechten, die in der Enteignungstabelle fehlen;
+
 - 4\. Begehren um Ersatz öffentlicher Einrichtungen (Art. 6 Abs. 2).
 
-<sup>2</sup> Binnen der gleichen Frist sind bei der zuständigen Direktion zuhanden der Enteignungskommission einzureichen:
+<sup>2</sup> Binnen der gleichen Frist sind bei der zuständigen Direktion[^25-1] zuhanden der Enteignungskommission einzureichen:
 
 - 1\. die Entschädigungsbegehren;
+
 - 2\. Begehren um Ausdehnung der Enteignung.
 
 <sup>3</sup> Die Grundeigentümer haben die Mieter und Pächter, deren Rechte im Grundbuch nicht vorgemerkt sind, unverzüglich von der Planauflage und der Eingabefrist zu unterrichten; sie sind auf diese Pflicht und auf die zivilrechtlichen Unterlassungsfolgen hinzuweisen.
+
+[^25-1]: Fassung gemäss Landsgemeindebeschluss vom 24. April 1994, A 1994, 682
+[^25-2]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 26
 
@@ -271,13 +306,15 @@ beschliesst:
 
 <sup>1</sup> Wird die Anmeldung von Entschädigungs- und Ausdehnungsbegehren versäumt, kann der Präsident der Enteignungskommission dem Abtretungspflichtigen eine Nachfrist setzen.
 
-<sup>2</sup> Einwendungen und Begehren gemäss Art. 25 Abs. 1 Ziff. 1 und 2 können nachträglich nur dann eingereicht werden, wenn die Säumnis auf entschuldbaren Gründen oder mangelhafter Rechtsbelehrung gemäss Art. 24 Abs. 3 beruht und die Bauarbeiten noch nicht begonnen haben; sie müssen binnen 30 Tagen seit dem Wegfall des entschuldbaren Grundes angemeldet werden.
+<sup>2</sup> Einwendungen und Begehren gemäss Art. 25 Abs. 1 Ziff. 1 und 2 können nachträglich nur dann eingereicht werden, wenn die Säumnis auf entschuldbaren Gründen oder mangelhafter Rechtsbelehrung gemäss Art. 24 Abs. 3 beruht und die Bauarbeiten noch nicht begonnen haben; sie müssen binnen 30 Tagen seit dem Wegfall des entschuldbaren Grundes angemeldet werden.[^26-1]
+
+[^26-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 27
 
 **4. abgekürztes Verfahren**
 
-<sup>1</sup> Öffentliche Auflage der Pläne und öffentliche Anzeige der Planauflage können unterbleiben, wenn nur wenige Abtretungspflichtige betroffen und wenn sie dem Enteigner alle bekannt sind; der Enteigner holt hiezu die Bewilligung des Präsidenten der Enteignungskommission ein.
+Öffentliche Auflage der Pläne und öffentliche Anzeige der Planauflage können unterbleiben, wenn nur wenige Abtretungspflichtige betroffen und wenn sie dem Enteigner alle bekannt sind; der Enteigner holt hiezu die Bewilligung des Präsidenten der Enteignungskommission ein.
 
 #### Art. 28
 
@@ -295,37 +332,51 @@ beschliesst:
 
 **Vernehmlassungen, Überweisung der Akten**
 
-<sup>1</sup> Die Direktion lässt den Enteigner zu den gemäss Art. 25 Abs. 1 eingegangenen Einwendungen und Begehren Stellung nehmen oder nimmt selber dazu Stellung.
+<sup>1</sup> Die Direktion lässt den Enteigner zu den gemäss Art. 25 Abs. 1 eingegangenen Einwendungen und Begehren Stellung nehmen oder nimmt selber dazu Stellung.[^29-1]
 
 <sup>2</sup> Dagegen sind Entschädigungs- und Ausdehnungsbegehren gemäss Art. 25 Abs. 2, soweit sie nicht schon gütlich erledigt wurden, an den Präsidenten der Enteignungskommission zur Durchführung des Schätzungsverfahrens weiterzuleiten.
 
+[^29-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+
 #### Art. 30
 
-**Einwendungsentscheid und Enteignungsbeschluss, Rekurs**
+**Einwendungsentscheid und Enteignungsbeschluss,**
 
-<sup>1</sup> Über die unerledigten Einwendungen und Begehren gemäss Art. 25 Abs. 1 entscheidet auf Antrag der Direktion der Regierungsrat; dieser fasst zugleich den Enteignungsbeschluss.
+[^30-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+
+### Rekurs
+
+[^30-1]
+
+<sup>1</sup> Über die unerledigten Einwendungen und Begehren gemäss Art. 25 Abs. 1 entscheidet auf Antrag der Direktion der Regierungsrat; dieser fasst zugleich den Enteignungsbeschluss.[^hRekurs301-1]
 
 <sup>2</sup> Wer mit seinem Begehren vom Regierungsrat abgewiesen wird, kann nach den Vorschriften über die Verwaltungsrechtspflege an das Verwaltungsgericht rekurrieren.
+
+[^hRekurs301-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
 
 #### Art. 31
 
 **Nachträgliche Enteignung**
 
-<sup>1</sup> Wer von einem öffentlichen Werk in seinen Nachbarrechten verletzt wird, kann, sofern der Verursacher eine zivilrechtliche Unterlassungs- oder Beseitigungspflicht bestreitet, die Einleitung des Enteignungsverfahrens verlangen; das Begehren ist bei der zuständigen Direktion zuhanden des Regierungsrates zu stellen.
+<sup>1</sup> Wer von einem öffentlichen Werk in seinen Nachbarrechten verletzt wird, kann, sofern der Verursacher eine zivilrechtliche Unterlassungs- oder Beseitigungspflicht bestreitet, die Einleitung des Enteignungsverfahrens verlangen; das Begehren ist bei der zuständigen Direktion[^31-1] zuhanden des Regierungsrates zu stellen.
 
-<sup>2</sup> Die zuständige Direktion untersucht Ursache und Umfang der Schädigung und hört die Parteien an.
+<sup>2</sup> Die zuständige Direktion[^31-1] untersucht Ursache und Umfang der Schädigung und hört die Parteien an.
 
 <sup>3</sup> Der Regierungsrat entscheidet alsdann, ob und wie der störende Betrieb verändert werden muss; zugleich fasst er Beschlüsse darüber, welche Rechte des Gesuchstellers zu enteignen sind.
 
 <sup>4</sup> Können sich die Parteien über die abzutretenden Rechte einigen, oder ist aus andern Gründen nur über die Entschädigung zu entscheiden, wendet sich der Beeinträchtigte unmittelbar an die Enteignungskommission.
 
+[^31-1]: Fassung gemäss Landsgemeindebeschluss vom 24. April 1994, A 1994, 682
+
 #### Art. 32
 
 **Enteignung durch Gemeinden**
 
-<sup>1</sup> Bei der Enteignung durch eine Gemeinde oder einen Gemeindeverband obliegen dem administrativen Rat beziehungsweise dem Vorstand jene Aufgaben, die bei der Enteignung durch den Kanton der zuständigen Direktion zukommen.
+Bei der Enteignung durch eine Gemeinde oder einen Gemeindeverband obliegen dem administrativen Rat beziehungsweise dem Vorstand jene Aufgaben, die bei der Enteignung durch den Kanton der zuständigen Direktion[^32-1] zukommen.
 
-## 5 Das Schätzungsverfahren
+[^32-1]: Fassung gemäss Landsgemeindebeschluss vom 24. April 1994, A 1994, 682
+
+### V. DAS SCHÄTZUNGSVERFAHREN
 
 #### Art. 33
 
@@ -347,9 +398,10 @@ beschliesst:
 
 <sup>4</sup> Die Entscheide und die im Schätzungsverfahren abgeschlossenen oder genehmigten Vergleiche haben die Wirkung von Gerichtsurteilen.
 
-<sup>5</sup> Im übrigen gelten die Bestimmungen der Schweizerischen Zivilprozessordnung (ZPO[^34-1]).
+<sup>5</sup> Im übrigen gelten die Bestimmungen der Schweizerischen Zivilprozessordnung (ZPO[^34-1].[^34-2]
 
 [^34-1]: SR 272
+[^34-2]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575, in Kraft seit 1. Januar 2011
 
 #### Art. 35
 
@@ -421,7 +473,7 @@ beschliesst:
 
 <sup>2</sup> Über das Gesuch entscheidet der Präsident der Enteignungskommission frühestens in der Einigungsverhandlung; sein Entscheid kann an das Verwaltungsgericht weitergezogen werden, das im beschleunigten Verfahren entscheidet.
 
-## 6 Vollzug der Enteignung
+### VI. VOLLZUG DER ENTEIGNUNG
 
 #### Art. 42
 
@@ -485,7 +537,7 @@ beschliesst:
 
 <sup>2</sup> Solange ein Pfandtitel aussteht, wird der darauf entfallende Betrag bei der Kasse des Grundbuchamtes hinterlegt; der Grundbuchverwalter veranlasst die Änderungen im Grundbuch gleichwohl und macht den Inhaber in angemessener Weise darauf aufmerksam, dass die Veräusserung oder Verpfändung des Titels ohne Berücksichtigung des Ausfalls strafbar ist.
 
-## 7 Rückforderung
+### VII. RÜCKFORDERUNG
 
 #### Art. 49
 
@@ -494,7 +546,9 @@ beschliesst:
 <sup>1</sup> Enteignete Rechte können durch Mitteilung an den Enteigner zurückgefordert werden:
 
 - 1\. wenn sie nach fünf Jahren nicht zu einem die Enteignung rechtfertigenden Zweck verwendet worden sind; beruht die Verzögerung auf Gründen, die der Enteigner nicht zu vertreten hat, kann die Enteignungskommission die Frist erstrecken; der Enteignete ist anzuhören;
+
 - 2\. wenn sie für die künftige Erweiterung eines bestehenden Werkes enteignet und binnen 25 Jahren hiezu nicht verwendet wurden;
+
 - 3\. bei Zweckentfremdung binnen 25 Jahren seit der Enteignung, das heisst, wenn sie veräussert oder einem andern als jenem Zweck zugeführt werden sollen, zu dem sie enteignet wurden.
 
 <sup>2</sup> Das Rückforderungsrecht ist im Grundbuch anzumerken, wenn der Abtretungspflichtige auf die Rückforderung nicht ausdrücklich verzichtet hat.
@@ -503,7 +557,7 @@ beschliesst:
 
 **Berechtigte**
 
-<sup>1</sup> Rückforderungsberechtigt sind der ehemals Abtretungspflichtige und seine Erben, bei Teilenteignung oder Enteignung einer Dienstbarkeit jedoch nur, wenn sie noch Eigentümer des ihnen damals verbliebenen oder des damals berechtigten Grundstücks sind.
+Rückforderungsberechtigt sind der ehemals Abtretungspflichtige und seine Erben, bei Teilenteignung oder Enteignung einer Dienstbarkeit jedoch nur, wenn sie noch Eigentümer des ihnen damals verbliebenen oder des damals berechtigten Grundstücks sind.
 
 #### Art. 51
 
@@ -517,7 +571,7 @@ beschliesst:
 
 **Verjährung**
 
-<sup>1</sup> Das Rückforderungsrecht ist ein Jahr, nachdem es geltend gemacht werden konnte oder nachdem der Berechtigte von der Zweckentfremdung Kenntnis erhielt, spätestens jedoch fünf Jahre nach der Zweckentfremdung, verwirkt.
+Das Rückforderungsrecht ist ein Jahr, nachdem es geltend gemacht werden konnte oder nachdem der Berechtigte von der Zweckentfremdung Kenntnis erhielt, spätestens jedoch fünf Jahre nach der Zweckentfremdung, verwirkt.
 
 #### Art. 53
 
@@ -537,13 +591,13 @@ beschliesst:
 
 <sup>2</sup> Der Rückfordernde hat binnen drei Monaten seit der Vereinbarung oder rechtskräftigen Festsetzung der gegenseitigen Leistungen seine Pflichten zu erfüllen; andernfalls erlischt das Rückforderungsrecht.
 
-## 8 Kosten
+### VIII. KOSTEN
 
 #### Art. 55
 
 **Gebühren, Parteientschädigungen**
 
-<sup>1</sup> Der Landrat setzt die Gebühren für die Verrichtungen der beanspruchten Verwaltungsinstanzen sowie der Enteignungskommission in einer Verordnung fest und erlässt Vorschriften über die Parteientschädigungen.
+Der Landrat setzt die Gebühren für die Verrichtungen der beanspruchten Verwaltungsinstanzen sowie der Enteignungskommission in einer Verordnung fest und erlässt Vorschriften über die Parteientschädigungen.
 
 #### Art. 56
 
@@ -561,21 +615,21 @@ beschliesst:
 
 **Rekurs**
 
-<sup>1</sup> Gegen den Kostenentscheid unterer Instanzen steht der Rekurs an das Verwaltungsgericht offen.
+Gegen den Kostenentscheid unterer Instanzen steht der Rekurs an das Verwaltungsgericht offen.
 
-## 9 Übergangs- und Schlussbestimmungen
+### IX. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 58
 
 **Hängige Verfahren**
 
-<sup>1</sup> Enteignungsverfahren, die vor dem 1. Januar 1976 hängig gewesen sind, müssen nach den bisherigen Vorschriften behandelt und abgeschlossen werden.
+Enteignungsverfahren, die vor dem 1. Januar 1976 hängig gewesen sind, müssen nach den bisherigen Vorschriften behandelt und abgeschlossen werden.
 
 #### Art. 59
 
 **Vollzug**
 
-<sup>1</sup> Der Landrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Vorschriften.
+Der Landrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Vorschriften.
 
 #### Art. 60
 
@@ -584,5 +638,3 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz tritt auf den 1. Januar 1976 in Kraft.
 
 <sup>2</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere § 135 bis § 145 des Gesetzes vom 30. April 1911 betreffend die Einführung des Schweizerischen Zivilgesetzbuches.
-
-A 1975, 620
