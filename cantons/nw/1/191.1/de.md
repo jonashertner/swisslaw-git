@@ -4,18 +4,20 @@ number: "191.1"
 title: Verfassung der Römisch-Katholischen Landeskirche des Kantons Nidwalden
 language: de
 version: 2001-03-14
+corrected: 2021-11-09
 version_adopted: 2000-09-24
 adopted: 1975-10-26
 in_force: 1976-07-02
 url: "https://gesetze.nw.ch/app/de/texts_of_law/191.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1153/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/57/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Verfassung der Römisch-Katholischen Landeskirche des Kantons Nidwalden
 
-vom 26.10.1975 (Stand 14.03.2001)
+vom 26. Oktober 1975[^t-1]
 
 Im Namen Gottes des Allmächtigen
 
@@ -25,7 +27,9 @@ in der Absicht, der römisch-katholischen Kirche im Kanton Nidwalden eine erspri
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: A 1976, 996; vom Landrat genehmigt am 2. Juli 1976, A 1976, 886
+
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -47,13 +51,19 @@ beschliesst:
 
 <sup>3</sup> Wenn in dieser Verfassung und in der auf ihr beruhenden Gesetzgebung von Kirchgemeinden die Rede ist, sind darunter auch die Kapellgemeinden zu verstehen.
 
+**1**
+
+1.9.2001 - 32
+
 [^2-1]: Gemäss Art. 6 Gemeindegesetz bestehen folgende Kirch- und Kapellgemeinden: Stans, Ennetmoos, Dallenwil, Stansstad, Obbürgen, Kehrsiten, Büren, Buochs, Ennetbürgen, Wolfenschiessen, Oberrickenbach, Beckenried, Hergiswil, Emmetten
 
 #### Art. 3
 
-**Verhältnis zu Staat und Kirche 1. allgemein**
+**Verhältnis zu Staat und Kirche**
 
-<sup>1</sup> Die Landeskirche ordnet durch diese Verfassung im Rahmen der Kantonsverfassung und der übrigen staatlichen Gesetzgebung ihre Angelegenheiten selbständig.
+### 1. allgemein
+
+Die Landeskirche ordnet durch diese Verfassung im Rahmen der Kantonsverfassung und der übrigen staatlichen Gesetzgebung ihre Angelegenheiten selbständig.
 
 #### Art. 4
 
@@ -79,7 +89,9 @@ beschliesst:
 
 #### Art. 6
 
-**Aufgaben 1. allgemein**
+**Aufgaben**
+
+### 1. allgemein
 
 <sup>1</sup> Landeskirche und Kirchgemeinden besorgen die der kirchlichen Tätigkeit dienende öffentliche Verwaltung.
 
@@ -89,13 +101,18 @@ beschliesst:
 
 **2. Landeskirche**
 
-<sup>1</sup> Die Landeskirche erfüllt selbständig im Rahmen der Gesetzgebung folgende Aufgaben:
+Die Landeskirche erfüllt selbständig im Rahmen der Gesetzgebung folgende Aufgaben:
 
 - 1\. Werke der Seelsorge, der Hilfstätigkeit sowie der religiösen Bildung und Kultur, welche den Bereich der Kirchgemeinde überschreiten;
+
 - 2\. Vertretung des Kirchenvolkes gegenüber den staatlichen und kirchlichen Behörden;
+
 - 3\. Zusammenarbeit mit landeskirchlichen Organisationen anderer Kantone;
+
 - 4\. Förderung der Zusammenarbeit mit andern Religionsgemeinschaften;
+
 - 5\. Ausgleich der von den Kirchgemeinden zu tragenden Aufgaben und Lasten;
+
 - 6\. weitere ihr durch die Gesetzgebung übertragene Aufgaben.
 
 #### Art. 8
@@ -132,51 +149,65 @@ beschliesst:
 
 <sup>1</sup> Die Wählbarkeit zu einem geistlichen Amte richtet sich nach der kirchlichen Rechtsordnung.
 
+**3**
+
+1.9.2001 - 32
+
 <sup>2</sup> Für die geistlichen Ämter besteht keine bestimmte Amtsdauer; die Abberufung von einem geistlichen Amte richtet sich nach der kirchlichen Rechtsordnung.
 
-<sup>3</sup> Im übrigen sind insbesondere betreffend die Beendigung des öffentlichrechtlichen Arbeitsverhältnisses die Bestimmungen der Personalgesetzgebung[^11-1] sinngemäss anzuwenden, soweit nicht die Gemeindeordnung oder der Anstellungsvertrag etwas anderes vorsieht.
+<sup>3</sup> Im übrigen sind insbesondere betreffend die Beendigung des öffentlichrechtlichen Arbeitsverhältnisses die Bestimmungen der Personalgesetzgebung[^11-1] sinngemäss anzuwenden, soweit nicht die Gemeindeordnung oder der Anstellungsvertrag etwas anderes vorsieht.[^11-2]
 
 [^11-1]: NG 165
+[^11-2]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 12
 
 **Anwendbares Recht**
 
-<sup>1</sup> Soweit die vorliegende Verfassung und die auf ihr beruhende Gesetzgebung nichts anderes vorschreiben, findet die kantonale Gesetzgebung auf die Landeskirche und die Kirchgemeinden sinngemäss Anwendung.
+Soweit die vorliegende Verfassung und die auf ihr beruhende Gesetzgebung nichts anderes vorschreiben, findet die kantonale Gesetzgebung auf die Landeskirche und die Kirchgemeinden sinngemäss Anwendung.
 
-## 2 Die landeskirchlichen Gewalten
+### II. DIE LANDESKIRCHLICHEN GEWALTEN
 
 #### Art. 13
 
 **Allgemein**
 
-<sup>1</sup> Die Gewalten der Landeskirche sind:
+Die Gewalten der Landeskirche sind:
 
 - 1\. das Kirchenvolk;
+
 - 2\. der Grosse Kirchenrat;
+
 - 3\. der Kleine Kirchenrat.
 
-### 2.1 Das Kirchenvolk
+### 1. Das Kirchenvolk
 
 #### Art. 14
 
-**Abstimmung 1. obligatorisch**
+**Abstimmung**
+
+### 1. obligatorisch
 
 <sup>1</sup> Das Kirchenvolk ist zuständig für den Erlass und die Änderung der Kirchenverfassung, für den Beschluss über die Gesamtrevision der Kirchenverfassung sowie für die Auflösung der Landeskirche.
 
 <sup>2</sup> In die Zuständigkeit des Kirchenvolkes fallen weiter:
 
 - 1\. die Beschlussfassung über Anträge gemäss Art. 17, denen der Grosse Kirchenrat nicht zustimmt;
+
 - 2\. die Beschlussfassung über vom Grossen Kirchenrat erlassene oder abgeänderte Gesetze, denen die Stimmberechtigten der Landeskirche einen Gegenvorschlag gemäss Art. 19 Abs. 1 gegenüberstellen;
-- 3\. die Beschlussfassung über Ausgaben, welche die Finanzkompetenzen des Grossen Kirchenrates übersteigen.
+
+- 3\. die Beschlussfassung über Ausgaben, welche die Finanzkompetenzen des Grossen Kirchenrates übersteigen.[^h1obligatorisch-1]
+
+[^h1obligatorisch-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 15
 
-**2. fakultativ**
+**2. fakultativ[^h1obligatorisch-1]**
 
-<sup>1</sup> Der Abstimmung unterliegen, wenn es binnen zweier Monate seit Veröffentlichung des Gesetzes oder Beschlusses von 250 Stimmberechtigten oder den Kirchenräten von mindestens drei Kirchgemeinden verlangt oder vom Grossen Kirchenrat beschlossen wird:
+Der Abstimmung unterliegen, wenn es binnen zweier Monate seit Veröffentlichung des Gesetzes oder Beschlusses von 250 Stimmberechtigten oder den Kirchenräten von mindestens drei Kirchgemeinden verlangt oder vom Grossen Kirchenrat beschlossen wird:
 
 - 1\. die vom Grossen Kirchenrat erlassenen Gesetze;
+
 - 2\. die Beschlüsse des Grossen Kirchenrates betreffend Ausgaben, welche die Hälfte des Betrages seiner Finanzkompetenzen übersteigen.
 
 #### Art. 16
@@ -189,35 +220,51 @@ beschliesst:
 
 <sup>3</sup> Die Bindung erstreckt sich nicht auf spätere Erlasse und Beschlüsse, in denen die gleiche Frage aufgegriffen wird.
 
+[^16-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
+
 #### Art. 17
 
-**Antragsrecht 1. Form**
+**Antragsrecht[^16-1]**
+
+### 1. Form
 
 <sup>1</sup> Anträge können als allgemeine Anregung oder, wenn sie nicht die Gesamtrevision der Verfassung verlangen, als ausgearbeitete Vorlage eingereicht werden.
 
 <sup>2</sup> Die Anträge dürfen sich nur auf einen einzigen Gegenstand beziehen und müssen eine Begründung enthalten.
 
+[^h1Form-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
+
 #### Art. 18
 
-**2. Inhalt**
+**2. Inhalt[^h1Form-1]**
 
-<sup>1</sup> Die Anträge dürfen nichts enthalten, was dem übergeordneten Recht oder, sofern sie nicht die Revision der Kirchenverfassung verlangen, der Kirchenverfassung widerspricht.
+Die Anträge dürfen nichts enthalten, was dem übergeordneten Recht oder, sofern sie nicht die Revision der Kirchenverfassung verlangen, der Kirchenverfassung widerspricht.
+
+**5**
+
+1.9.2001 - 32
+
+[^18-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 19
 
-**3. Berechtigung**
+**3. Berechtigung[^18-1]**
 
 <sup>1</sup> Anträge können stellen:
 
 - 1\. 1000 Stimmberechtigte oder der Grosse Kirchenrat, wenn die Gesamtrevision der Kirchenverfassung verlangt wird;
+
 - 2\. 500 Stimmberechtigte, die Kirchenräte von mindestens drei Kirchgemeinden oder der Grosse Kirchenrat, wenn die Teilrevision der Kirchenverfassung verlangt wird;
+
 - 3\. 250 Stimmberechtigte oder die Kirchenräte von mindestens drei Kirchgemeinden, wenn der Erlass, die Aufhebung oder die Abänderung eines Gesetzes oder eines Finanzbeschlusses verlangt wird.
 
 <sup>2</sup> Bei Anträgen der Stimmberechtigten sind die Unterschriften binnen zweier Monate seit der Hinterlegung des Antrages beim Präsidium des Grossen Kirchenrates einzureichen.
 
+[^19-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
+
 #### Art. 20
 
-**Gegenvorschlag**
+**Gegenvorschlag[^19-1]**
 
 <sup>1</sup> Der Grosse Kirchenrat kann einem Antrag einen Gegenvorschlag gegenüberstellen.
 
@@ -227,9 +274,13 @@ beschliesst:
 
 <sup>4</sup> Bei Gegenvorschlägen gemäss Abs. 2 und 3 sind die Unterschriften binnen zweier Monate seit der Hinterlegung des Gegenvorschlages beim Präsidium des Grossen Kirchenrates einzureichen; die Hinterlegung hat binnen zweier Monate seit der Veröffentlichung der Vorlage des Grossen Kirchenrates zu erfolgen.
 
+[^20-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
+
 #### Art. 21
 
-**Verfahren 1. allgemein**
+**Verfahren[^20-1]**
+
+### 1. allgemein
 
 <sup>1</sup> Anträge, die der Abstimmung unterliegen, und Gegenvorschläge der Stimmberechtigten sind binnen eines Jahres seit der Einreichung zur Abstimmung zu bringen.
 
@@ -237,9 +288,11 @@ beschliesst:
 
 <sup>3</sup> Anträge und Gegenvorschläge können von den bevollmächtigten Antragstellenden bis zur Veröffentlichung des Abstimmungstages zurückgezogen werden.
 
+[^h1allgemein_3-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
+
 #### Art. 22
 
-**2. Abstimmung**
+**2. Abstimmung[^h1allgemein_3-1]**
 
 <sup>1</sup> Der Gegenvorschlag ist gleichzeitig mit dem Antrag, beziehungsweise der Vorlage des Grossen Kirchenrates, zur Abstimmung zu bringen; bei Rückzug des Antrages ist nur der Gegenvorschlag zur Abstimmung zu bringen.
 
@@ -248,18 +301,21 @@ beschliesst:
 <sup>3</sup> Das Verfahren bei mehreren Gegenvorschlägen richtet sich sinngemäss nach dem Wahl- und Abstimmungsgesetz[^22-1].
 
 [^22-1]: NG 132.2
+[^22-2]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 23
 
-**Ergänzendes Recht**
+**Ergänzendes Recht[^22-2]**
 
-<sup>1</sup> Die Bestimmungen des Wahl- und Abstimmungsgesetzes über die Form von Anträgen und Gegenvorschlägen, die Unterschriftensammlung, die Urnenabstimmung und die Rechtspflege sind sinngemäss anwendbar.
+Die Bestimmungen des Wahl- und Abstimmungsgesetzes über die Form von Anträgen und Gegenvorschlägen, die Unterschriftensammlung, die Urnenabstimmung und die Rechtspflege sind sinngemäss anwendbar.
 
-#### Art. 24–26
+[^23-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
-**…**
+#### Art. 24
 
-### 2.2 Der Grosse Kirchenrat
+**-26 ...[^23-1]**
+
+- 2\. Der Grosse Kirchenrat
 
 #### Art. 27
 
@@ -267,15 +323,21 @@ beschliesst:
 
 <sup>1</sup> Der Grosse Kirchenrat setzt sich aus 40 Mitgliedern zusammen.
 
-<sup>2</sup> Fünf Mitglieder werden von den Mitgliedern des Dekanates Nidwalden aus ihrer Mitte gewählt.
+<sup>2</sup> Fünf Mitglieder werden von den Mitgliedern des Dekanates Nidwalden aus ihrer Mitte gewählt.[^27-1]
 
-<sup>3</sup> 35 Mitglieder werden von den Kirchgemeinden gewählt, wobei Mitglieder des Dekanates Nidwalden nicht wählbar sind.
+<sup>3</sup> 35 Mitglieder werden von den Kirchgemeinden gewählt, wobei Mitglieder des Dekanates Nidwalden nicht wählbar sind.[^27-1]
 
 <sup>4</sup> Jede Kirchgemeinde wählt die Mitglieder, die ihr aufgrund der Zahl der Kirchenglieder zukommen; dabei hat jede Kirchgemeinde Anspruch auf mindestens ein Mitglied.
 
+**7**
+
+1.9.2001 - 32
+
+[^27-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
+
 #### Art. 28
 
-**Sitzverteilung**
+**Sitzverteilung[^27-1]**
 
 <sup>1</sup> Für die Verteilung der Sitze auf die Kirchgemeinden ist die kantonale Einwohnerstatistik vom 31. Dezember des zweiten der Wahl vorausgehenden Kalenderjahres massgebend.
 
@@ -285,11 +347,15 @@ beschliesst:
 
 #### Art. 29
 
-**Wahl 1. Zeitpunkt**
+**Wahl**
 
-<sup>1</sup> Die Wahlen in den Grossen Kirchenrat sind bis Ende Juni jenes Jahres durchzuführen, in welchem die Amtsdauer des Landrates zu Ende geht.
+### 1. Zeitpunkt
+
+<sup>1</sup> Die Wahlen in den Grossen Kirchenrat sind bis Ende Juni jenes Jahres durchzuführen, in welchem die Amtsdauer des Landrates zu Ende geht.[^h1Zeitpunkt-1]
 
 <sup>2</sup> Ersatzwahlen können jederzeit für den Rest der Amtsdauer vorgenommen werden.
+
+[^h1Zeitpunkt-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 30
 
@@ -297,9 +363,10 @@ beschliesst:
 
 <sup>1</sup> Die Wahl in den Kirchgemeinden wird gemäss der Gemeindegesetzgebung[^30-1] durch die Gemeindeversammlung oder durch die Urnenabstimmung durchgeführt; die Wahl ist als Mehrheitswahl durchzuführen, soweit nicht durch landeskirchliches Gesetz die Verhältniswahl eingeführt wird.
 
-<sup>2</sup> Das Dekanat bestimmt das Verfahren für die Wahl der eigenen Abordnung selbst.
+<sup>2</sup> Das Dekanat bestimmt das Verfahren für die Wahl der eigenen Abordnung selbst.[^30-2]
 
 [^30-1]: NG 171.1
+[^30-2]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 31
 
@@ -310,10 +377,11 @@ beschliesst:
 <sup>2</sup> Im übrigen gelten die einschlägigen Bestimmungen der Behördengesetzgebung[^31-1].
 
 [^31-1]: NG 161.1
+[^31-2]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 32
 
-**Konstituierung**
+**Konstituierung[^31-2]**
 
 <sup>1</sup> Nach jeder Gesamterneuerung ist der Grosse Kirchenrat durch das bisherige Präsidium, auch wenn dieses dem Grossen Kirchenrat nicht mehr angehört, spätestens auf Ende September zur konstituierenden Sitzung einzuberufen.
 
@@ -323,18 +391,24 @@ beschliesst:
 
 <sup>4</sup> Anschliessend an die Feststellung der Zusammensetzung nimmt das bisherige Präsidium den neugewählten Mitgliedern den Amtseid oder das Handgelübde ab, worauf die Wahl des Kleinen Kirchenrates erfolgt.
 
+[^32-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
+
 #### Art. 33
 
-**Aufgaben und Befugnisse 1. Gesetzgebung**
+**Aufgaben und Befugnisse[^32-1]**
+
+### 1. Gesetzgebung
 
 <sup>1</sup> Der Grosse Kirchenrat erlässt in der Form des Gesetzes:
 
 - 1\. alle allgemeinverbindlichen Vorschriften, welche Rechte und Pflichten der Mitglieder der Römisch-Katholischen Landeskirche und der Kirchgemeinden bestimmen;
+
 - 2\. alle grundlegenden Bestimmungen über die Zuständigkeit, Organisation und Verfahren der landeskirchlichen Gewalten und der Kirchgemeinden.
 
 <sup>2</sup> Er erlässt in eigener Kompetenz:
 
 - 1\. Verordnungen, zu denen er durch diese Verfassung zuständig erklärt wird;
+
 - 2\. Verordnungen zur Vollziehung der landeskirchlichen Gesetze.
 
 <sup>3</sup> Der Grosse Kirchenrat kann unter Vorbehalt von Art. 5 Abs. 2 in der Form eines Gesetzes Konkordate genehmigen.
@@ -345,32 +419,51 @@ beschliesst:
 
 **2. Wahlen**
 
-<sup>1</sup> Der Grosse Kirchenrat hat zu wählen:
+Der Grosse Kirchenrat hat zu wählen:
 
 - 1\. aus seiner Mitte die Mitglieder des Kleinen Kirchenrates;
+
 - 2\. aus der Mitte des Kleinen Kirchenrates den Präsidenten und den Vizepräsidenten, die zugleich Präsident und Vizepräsident des Grossen Kirchenrates sind, auf die Dauer von zwei Jahren;
+
 - 3\. aus seiner Mitte zwei Stimmenzähler und einen Stellvertreter;
+
 - 4\. aus seiner Mitte die Mitglieder und den Präsidenten der Geschäftsprüfungskommission und allfälliger weiterer Kommissionen;
-- 5\. den Sekretär, der zugleich Sekretär des Kleinen Kirchenrates ist;
+
+**9**
+
+1.9.2001 - 32 5. den Sekretär, der zugleich Sekretär des Kleinen Kirchenrates ist;
+
 - 6\. die von der Landeskirche im Einverständnis mit dem Diözesanbischof angestellten Geistlichen, die Beamten und Angestellten, sofern nicht durch die Gesetzgebung oder den Beschluss des Grossen Kirchenrates dafür der Kleine Kirchenrat zuständig erklärt wird.
 
 #### Art. 35
 
 **3. Sachgeschäfte**
 
-<sup>1</sup> In die Zuständigkeit des Grossen Kirchenrates fallen weiter:
+In die Zuständigkeit des Grossen Kirchenrates fallen weiter:
 
-- 1\. der Entscheid über die verfassungsmässige Zulässigkeit der Anträge an das Kirchenvolk gemäss Art. 17–20;
+1.[^35-1] der Entscheid über die verfassungsmässige Zulässigkeit der Anträge an das Kirchenvolk gemäss Art. 17-20;
+
 - 2\. die Feststellung über das Ergebnis der Wahl des Grossen Kirchenrates und der Abstimmungen der Landeskirche;
+
 - 3\. die Beschlussfassung über frei bestimmbare einmalige und jährlich wiederkehrende Ausgaben im Rahmen der Finanzkompetenzen;
+
 - 4\. die Beschlussfassung über Ausgaben, für welche durch die Gesetzgebung oder im Einzelfall durch Beschluss des Kirchenvolkes dem Grossen Kirchenrat weitergehende Vollmachten übertragen sind;
+
 - 5\. die Festsetzung der jährlichen Voranschläge;
-- 6\. die Genehmigung der Rechnungen der Landeskirche und des Rechenschaftsberichtes des Kleinen Kirchenrates;
-- 7\. …
-- 8\. die Beschlussfassung über das Arbeitsverhältnis und die Entlöhnung der Geistlichen und Angestellten der Landeskirche und über die Schaffung neuer Stellen bei der Landeskirche, soweit der Grosse Kirchenrat diese Kompetenzen nicht dem Kleinen Kirchenrat überträgt;
+
+6.[^35-1] die Genehmigung der Rechnungen der Landeskirche und des Rechenschaftsberichtes des Kleinen Kirchenrates;
+
+7.[^35-1] ...
+
+8.[^35-1] die Beschlussfassung über das Arbeitsverhältnis und die Entlöhnung der Geistlichen und Angestellten der Landeskirche und über die Schaffung neuer Stellen bei der Landeskirche, soweit der Grosse Kirchenrat diese Kompetenzen nicht dem Kleinen Kirchenrat überträgt;
+
 - 9\. die Genehmigung von Vereinbarungen im Rahmen der Finanzkompetenzen;
+
 - 10\. die Aufsicht über die Verwaltung der Landeskirche;
+
 - 11\. alle übrigen durch die Gesetzgebung dem Grossen Kirchenrat übertragenen Aufgaben.
+
+[^35-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 36
 
@@ -381,6 +474,7 @@ beschliesst:
 <sup>2</sup> Er wird einberufen:
 
 - 1\. wenn es der Präsident oder der Kleine Kirchenrat anordnet;
+
 - 2\. wenn mindestens ein Viertel der Ratsmitglieder die Einberufung unter Nennung der zu behandelnden Gegenstände schriftlich verlangt.
 
 <sup>3</sup> Der Sitzungstag wird in allen Fällen durch den Präsidenten festgesetzt.
@@ -389,13 +483,15 @@ beschliesst:
 
 **Antragsrecht**
 
-<sup>1</sup> Das Recht, dem Grossen Kirchenrat Anträge zu stellen, haben der Kleine Kirchenrat sowie jedes Mitglied und jede Kommission des Grossen Kirchenrates.
+Das Recht, dem Grossen Kirchenrat Anträge zu stellen, haben der Kleine Kirchenrat sowie jedes Mitglied und jede Kommission des Grossen Kirchenrates.
 
 #### Art. 38
 
-**Verhandlungen 1. Teilnahme**
+**Verhandlungen**
 
-<sup>1</sup> Die Mitglieder sind verpflichtet, an den Sitzungen des Grossen Kirchenrates teilzunehmen.
+### 1. Teilnahme
+
+Die Mitglieder sind verpflichtet, an den Sitzungen des Grossen Kirchenrates teilzunehmen.
 
 #### Art. 39
 
@@ -405,9 +501,11 @@ beschliesst:
 
 <sup>2</sup> Der Grosse Kirchenrat kann die Durchführung der geheimen Verhandlung beschliessen, wenn dies im Interesse der öffentlichen Ordnung oder aus anderen wichtigen Gründen als geboten erscheint; über den Antrag auf Durchführung der geheimen Verhandlung wird unter Ausschluss der Öffentlichkeit beraten und abgestimmt.
 
-<sup>3</sup> …
+<sup>3</sup> ...[^39-1]
 
-<sup>4</sup> Die Beschlüsse des Grossen Kirchenrates sind zu veröffentlichen.
+<sup>4</sup> Die Beschlüsse des Grossen Kirchenrates sind zu veröffentlichen.[^39-1]
+
+[^39-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 40
 
@@ -418,6 +516,10 @@ beschliesst:
 <sup>2</sup> Der Sekretär führt das Protokoll, welches dem Grossen Kirchenrat zur Genehmigung vorzulegen ist.
 
 <sup>3</sup> Der Grosse Kirchenrat kann im Rahmen der Gesetzgebung durch Verordnung die Organisation und das Verfahren des Grossen Kirchenrates weiter ordnen.
+
+**11**
+
+1.9.2001 - 32
 
 #### Art. 41
 
@@ -437,17 +539,19 @@ beschliesst:
 
 <sup>3</sup> Die Geschäftsprüfungskommission erstattet dem Grossen Kirchenrat Bericht; sie stellt Antrag auf Genehmigung oder Rückweisung des Voranschlages und der Rechnung und nimmt zu allen weiteren die Finanzen der Landeskirche berührenden Geschäften Stellung.
 
-### 2.3 Der Kleine Kirchenrat
+### 3. Der Kleine Kirchenrat
 
 #### Art. 43
 
 **Wahl**
 
-<sup>1</sup> Der Kleine Kirchenrat besteht aus sieben Mitgliedern, wovon eine Person dem Dekanat Nidwalden angehören muss.
+<sup>1</sup> Der Kleine Kirchenrat besteht aus sieben Mitgliedern, wovon eine Person dem Dekanat Nidwalden angehören muss.[^43-1]
 
 <sup>2</sup> Die Wahl ist in der konstituierenden Sitzung des Grossen Kirchenrates durchzuführen; eine Ersatzwahl kann jederzeit für den Rest der Amtsdauer vorgenommen werden.
 
 <sup>3</sup> Die Amtsdauer beginnt mit der Wahl und beträgt vier Jahre.
+
+[^43-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 44
 
@@ -458,16 +562,27 @@ beschliesst:
 <sup>2</sup> Der Kleine Kirchenrat ist für alle landeskirchlichen Angelegenheiten, soweit diese nicht ausdrücklich einem andern Organ zugewiesen werden, zuständig, insbesondere für:
 
 - 1\. den Erlass von Reglementen;
+
 - 2\. den Vollzug der Gesetze, Verordnungen und Reglemente sowie der Beschlüsse und Entscheidungen der zuständigen landeskirchlichen und kantonalen Gewalten, soweit diese Befugnis nicht besonderen Organen vorbehalten ist;
+
 - 3\. die Wahl von Kommissionen sowie von Beamten und Angestellten, sofern er durch die Gesetzgebung oder den Beschluss des Grossen Kirchenrates dafür zuständig erklärt wird;
+
 - 4\. die Vorberatung aller Geschäfte, die vom Grossen Kirchenrat zu behandeln sind;
+
 - 5\. die Erstattung von Vernehmlassungen, zu denen die Landeskirche aufgefordert wird;
+
 - 6\. die Beschlussfassung über frei bestimmbare einmalige und jährlich wiederkehrende Ausgaben im Rahmen der Finanzkompetenzen;
+
 - 7\. die Beschlussfassung über Ausgaben, welche der Landeskirche durch die Gesetzgebung verbindlich vorgeschrieben sind, ohne Rücksicht auf Ziff. 6, oder für welche durch die Gesetzgebung, den Voranschlag oder im Einzelfall durch Beschluss des Grossen Kirchenrates dem Kleinen Kirchenrat weitergehende Vollmachten übertragen sind;
+
 - 8\. die Verwaltung des Vermögens der Landeskirche;
+
 - 9\. der Erlass von Pflichtenheften für Geistliche im Einverständnis mit dem Diözesanbischof sowie für Beamte und Angestellte;
+
 - 10\. die Erstattung des Rechenschaftsberichtes über das abgelaufene Kalenderjahr;
+
 - 11\. die Planung der Aufgaben und der Tätigkeiten der Landeskirche;
+
 - 12\. die Erfüllung aller weiteren Aufgaben, die ihm durch die Gesetzgebung oder durch Beschluss des Grossen Kirchenrates übertragen werden.
 
 #### Art. 45
@@ -477,6 +592,10 @@ beschliesst:
 <sup>1</sup> Die Sitzungen des Kleinen Kirchenrates sind nicht öffentlich.
 
 <sup>2</sup> Die Mitglieder des Kleinen Kirchenrates sind bei den Beschlussfassungen zur Stimmabgabe verpflichtet; der Präsident stimmt nicht mit, gibt aber den Stichentscheid.
+
+**13**
+
+1.9.2001 - 32
 
 #### Art. 46
 
@@ -496,13 +615,13 @@ beschliesst:
 
 [^47-1]: NG 161.1
 
-## 3 Finanzhaushalt der Landeskirche
+### III. FINANZHAUSHALT DER LANDESKIRCHE
 
 #### Art. 48
 
 **Grundsatz**
 
-<sup>1</sup> Der Finanzhaushalt ist nach den Grundsätzen der Gesetzmässigkeit, der Dringlichkeit, der Wirtschaftlichkeit und der Sparsamkeit zu führen.
+Der Finanzhaushalt ist nach den Grundsätzen der Gesetzmässigkeit, der Dringlichkeit, der Wirtschaftlichkeit und der Sparsamkeit zu führen.
 
 #### Art. 49
 
@@ -529,7 +648,9 @@ beschliesst:
 <sup>2</sup> Ausgaben, die nicht mit dem Voranschlag beschlossen werden, sind den zuständigen Organen in besonderen Vorlagen zur Beschlussfassung zu unterbreiten, insbesondere:
 
 - 1\. grössere Ausgaben mit Investitionscharakter;
+
 - 2\. ausserordentliche einmalige Ausgaben;
+
 - 3\. weitere Aufwendungen, die im laufenden Rechnungsjahr nicht vollständig abbezahlt beziehungsweise abgeschrieben werden können.
 
 #### Art. 52
@@ -544,11 +665,13 @@ beschliesst:
 
 **Voranschlag**
 
-<sup>1</sup> Der Grosse Kirchenrat setzt jeweils bis spätestens Mitte Dezember nach einem Entwurf des Kleinen Kirchenrates den Voranschlag für das folgende Rechnungsjahr fest.
+Der Grosse Kirchenrat setzt jeweils bis spätestens Mitte Dezember nach einem Entwurf des Kleinen Kirchenrates den Voranschlag für das folgende Rechnungsjahr fest.
+
+[^53-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 54
 
-**…**
+**..[^53-1]**
 
 #### Art. 55
 
@@ -560,21 +683,29 @@ beschliesst:
 
 <sup>3</sup> Die Vermögensbilanz hat den Stand und die Zusammensetzung des landeskirchlichen Vermögens am Jahresende auszuweisen.
 
-<sup>4–5</sup> …
+<sup>4</sup> ...[^55-1]
+
+<sup>5</sup> ...[^55-1]
+
+[^55-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 56
 
 **Weitere Gesetzgebung**
 
-<sup>1</sup> Die Landeskirche hat durch landeskirchliches Gesetz die weiteren notwendigen Bestimmungen über den Finanzhaushalt zu erlassen, insbesondere über die Finanzkompetenzen des Grossen Kirchenrates und des Kleinen Kirchenrates, über den Finanzausgleich, über den Beitrag an das Bistum, über die Finanzierung der landeskirchlichen Seelsorge.
+Die Landeskirche hat durch landeskirchliches Gesetz die weiteren notwendigen Bestimmungen über den Finanzhaushalt zu erlassen, insbe-
 
-## 4 Die Kirchgemeinden
+**15**
+
+1.9.2001 - 32 sondere über die Finanzkompetenzen des Grossen Kirchenrates und des Kleinen Kirchenrates, über den Finanzausgleich, über den Beitrag an das Bistum, über die Finanzierung der landeskirchlichen Seelsorge.
+
+### IV. DIE KIRCHGEMEINDEN
 
 #### Art. 57
 
 **Anwendbares Recht**
 
-<sup>1</sup> Für die Kirchgemeinden gelten die Bestimmungen der Gemeindegesetzgebung[^57-1], soweit durch die Kirchenverfassung nicht etwas anderes bestimmt wird.
+Für die Kirchgemeinden gelten die Bestimmungen der Gemeindegesetzgebung[^57-1], soweit durch die Kirchenverfasssung nicht etwas anderes bestimmt wird.
 
 [^57-1]: NG 171.1
 
@@ -592,7 +723,9 @@ beschliesst:
 
 <sup>1</sup> Die Mittel der Kirchgemeinde sind in Beachtung ihrer Zweckbestimmung für die Erfüllung der Gemeindeaufgaben zu verwenden.
 
-<sup>2</sup> Die Kirchgemeinde ist befugt, Werke der Seelsorge, der Hilfstätigkeit sowie der religiösen Bildung und Kultur, welche den Bereich der Kirchgemeinde überschreiten, mit Beiträgen aus öffentlichen Mitteln zu unterstützen.
+<sup>2</sup> Die Kirchgemeinde ist befugt, Werke der Seelsorge, der Hilfstätigkeit sowie der religiösen Bildung und Kultur, welche den Bereich der Kirchgemeinde überschreiten, mit Beiträgen aus öffentlichen Mitteln zu unterstützen.[^59-1]
+
+[^59-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 60
 
@@ -604,9 +737,11 @@ beschliesst:
 
 <sup>3</sup> Für Stiftungen, die durch die Kirchgemeinde oder zuhanden der Kirchgemeinde errichtet wurden, gilt, sofern der Stiftungsakt oder das Gewohnheitsrecht nichts anderes bestimmt, der Kirchenrat als Stiftungsrat; dieser hat der Kirchgemeinde über Bestand des Stiftungsvermögens und Verwendung des Stifungsertrages jährlich Rechenschaft abzulegen.
 
+[^60-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
+
 #### Art. 61
 
-**Entlöhnungsvereinbarung**
+**Entlöhnungsvereinbarung[^60-1]**
 
 <sup>1</sup> Die Entlöhnung der Priester, Diakone, Pastoralassistentinnen, Pastoralassistenten, Katechetinnen und Katecheten sowie von weiteren im öffentlichrechtlichen Arbeitsverhältnis beschäftigten Personen wird im Rahmen einer unter den Kirchgemeinden abzuschliessenden und vom Grossen Kirchenrat zu genehmigenden Vereinbarung festgelegt.
 
@@ -627,25 +762,32 @@ beschliesst:
 
 #### Art. 63
 
-**Kirchenrat 1. allgemein**
+**Kirchenrat**
 
-<sup>1</sup> Die Aufgaben und Befugnisse des Kirchenrates richten sich nach den Bestimmungen der Gemeindegesetzgebung[^63-1].
+### 1. allgemein
 
-[^63-1]: NG 171.1
+Die Aufgaben und Befugnisse des Kirchenrates richten sich nach den Bestimmungen der Gemeindegesetzgebung[^h1allgemein_4-1].
+
+[^h1allgemein_4-1]: NG 171.1
+[^h1allgemein_4-2]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 64
 
-**2. Seelsorgerinnen und Seelsorger**
+**2. Seelsorgerinnen und Seelsorger[^h1allgemein_4-2]**
 
 <sup>1</sup> Der Kirchenrat hat im Einvernehmen mit den Seelsorgerinnen und Seelsorgern die pastoralen Belange zu fördern und zu unterstützen.
 
 <sup>2</sup> Die Anordnung und Gestaltung der Gottesdienste und sonstigen Kulthandlungen sowie die Führung und Aufbewahrung der Pfarrbücher sind Sache des zuständigen Pfarrers oder Pfarrprovisors; in Fragen der Gottesdienstordnung ist der Kirchenrat anzuhören.
 
+**17**
+
+1.9.2001 - 32
+
 #### Art. 65
 
 **3. Religionsunterricht**
 
-<sup>1</sup> Der Kirchenrat sorgt dafür, dass an den öffentlichen und privaten Schulen der durch Art. 39 der Kantonsverfassung gewährleistete Religionsunterricht erteilt wird.
+Der Kirchenrat sorgt dafür, dass an den öffentlichen und privaten Schulen der durch Art. 39 der Kantonsverfassung gewährleistete Religionsunterricht erteilt wird.
 
 #### Art. 66
 
@@ -653,11 +795,13 @@ beschliesst:
 
 <sup>1</sup> Kirchenopfer und Sammlungen für Zwecke, für welche sonst die Kirchgemeinde aus allgemeinen Mitteln aufzukommen hätte, können im Einverständnis zwischen Pfarramt und Kirchenrat aufgenommen werden; der Kirchenrat hat den Ertrag zu verwalten und darüber den Stimmberechtigten Rechnung abzulegen.
 
-<sup>2</sup> …
+<sup>2</sup> ...[^66-1]
+
+[^66-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 67
 
-**5 . Kunstobjekte**
+**5. Kunstobjekte**
 
 <sup>1</sup> Sollen Bauten, Bauteile oder sonstige Objekte von künstlerischem oder historischem Werte verändert werden, sind vorher Kunstsachverständige zur Begutachtung beizuziehen.
 
@@ -671,12 +815,11 @@ beschliesst:
 
 <sup>1</sup> Die Kirchgemeinden können nach den Vorschriften der Gemeindegesetzgebung[^68-1] Gemeindeverbände bilden.
 
-<sup>2</sup> Die Gemeindeverbände der Kirchgemeinden bedürfen für ihre Entstehung zusätzlich zu den Voraussetzungen der Gemeindegesetzgebung[^68-2] der Genehmigung durch den Kleinen Kirchenrat; dieser hat die Genehmigung zu erteilen, wenn die Statuten des Gemeindeverbandes dem Bundesrecht, dem kantonalen Recht sowie dieser Verfassung nicht widersprechen und wenn sie keine weiteren erheblichen Mängel sachlicher oder formeller Art aufweisen.
+<sup>2</sup> Die Gemeindeverbände der Kirchgemeinden bedürfen für ihre Entstehung zusätzlich zu den Voraussetzungen der Gemeindegesetzgebung[^68-1] der Genehmigung durch den Kleinen Kirchenrat; dieser hat die Genehmigung zu erteilen, wenn die Statuten des Gemeindeverbandes dem Bundesrecht, dem kantonalen Recht sowie dieser Verfassung nicht widersprechen und wenn sie keine weiteren erheblichen Mängel sachlicher oder formeller Art aufweisen.
 
 [^68-1]: NG 171.1
-[^68-2]: NG 171.1
 
-## 5 Revision der Kirchenverfassung und Auflösung der Landeskirche
+### V. REVISION DER KIRCHENVERFASSUNG UND AUFLÖSUNG DER LANDESKIRCHE
 
 #### Art. 69
 
@@ -696,7 +839,9 @@ beschliesst:
 
 <sup>3</sup> Der Verfassungsrat zählt gleich viele Mitglieder wie der Grosse Kirchenrat und ist binnen sechs Wochen nach den für die Wahl des Grossen Kirchenrates geltenden Vorschriften zu wählen.
 
-<sup>4</sup> Die revidierte Verfassung ist dem Kirchenvolk vorzulegen, wobei Gegenvorschläge ausgeschlossen sind; wird sie verworfen, so gilt die Revision als abgelehnt.
+<sup>4</sup> Die revidierte Verfassung ist dem Kirchenvolk vorzulegen, wobei Gegenvorschläge ausgeschlossen sind; wird sie verworfen, so gilt die Revision als abgelehnt.[^70-1]
+
+[^70-1]: Fassung gemäss Urnenabstimmung vom 24. September 2000, A 2000, 1005, 1399; vom Landrat genehmigt am 14. März 2001, A 2001, 388
 
 #### Art. 71
 
@@ -714,11 +859,15 @@ beschliesst:
 
 <sup>2</sup> Der Beschluss des Grossen Kirchenrates bedarf der Zustimmung von zwei Dritteln sämtlicher Mitglieder; das Volksbegehren erfordert die Unterschriften von einem Fünftel der Aktivbürger der Landeskirche.
 
+**19**
+
+1.9.2001 - 32
+
 <sup>3</sup> Über die Auflösung der Landeskirche ist binnen sechs Monaten seit dem Beschluss des Grossen Kirchenrates beziehungsweise seit der Einreichung des Volksbegehrens die Urnenabstimmung durchzuführen.
 
 <sup>4</sup> Wird in der Urnenabstimmung die Auflösung der Landeskirche beschlossen, so führt der Grosse Kirchenrat die Liquidation durch.
 
-## 6 Einführungsvorschriften
+### VI. EINFÜHRUNGSVORSCHRIFTEN
 
 #### Art. 73
 
@@ -744,14 +893,19 @@ beschliesst:
 
 **Finanzhaushalt**
 
-<sup>1</sup> Bis die landeskirchliche Gesetzgebung über den Finanzhaushalt erlassen ist, gilt folgendes:
+Bis die landeskirchliche Gesetzgebung über den Finanzhaushalt erlassen ist, gilt folgendes:
 
-- 1\. Der Grosse Kirchenrat kann Ausgaben von einmalig 50'000.– Franken und jährlich wiederkehrend 10'000.– Franken unter Vorbehalt von Art. 15 Ziff. 2 frei beschliessen;
-- 2\. Der Kleine Kirchenrat kann Ausgaben von einmalig 10'000.– Franken und jährlich wiederkehrend 2000.– Franken frei beschliessen;
+- 1\. Der Grosse Kirchenrat kann Ausgaben von einmalig 50 000.- Franken und jährlich wiederkehrend 10 000.- Franken unter Vorbehalt von Art. 15 Ziff. 2 frei beschliessen;
+
+- 2\. Der Kleine Kirchenrat kann Ausgaben von einmalig 10 000.- Franken und jährlich wiederkehrend 2000.- Franken frei beschliessen;
+
 - 3\. Der Anteil der Landeskirche an dem von den juristischen Personen erhobenen Steuerzuschlag für die Kirchensteuer ist zu verwenden, wie folgt:
-  - a) 10 Prozent stehen der Landeskirche zur Verfügung;
-  - b) 20 Prozent sind einem Fonds zuzuweisen, aus welchem der Grosse Kirchenrat finanziell bedrängten Kirchgemeinden Beiträge ausrichten kann;
-  - c) der Rest ist den einzelnen Kirchgemeinden im Verhältnis der Zahl ihrer Kirchenglieder zuzuweisen.
+
+10 Prozent stehen der Landeskirche zur Verfügung;
+
+20 Prozent sind einem Fonds zuzuweisen, aus welchem der Grosse Kirchenrat finanziell bedrängten Kirchgemeinden Beiträge ausrichten kann;
+
+der Rest ist den einzelnen Kirchgemeinden im Verhältnis der Zahl ihrer Kirchenglieder zuzuweisen.
 
 #### Art. 76
 
@@ -761,6 +915,8 @@ beschliesst:
 
 <sup>2</sup> Nachdem das Kirchenvolk von Nidwalden der vorliegenden Verfassung in der Urnenabstimmung vom 26. Oktober 1975 zugestimmt hat, wird diese als angenommen erklärt. Die vorliegende Verfassung wird durch den Landrat von Nidwalden genehmigt und tritt dadurch sofort in Kraft.[^76-1]
 
-[^76-1]: In Kraft seit 2. Juli 1976 gemäss Landratsbeschluss vom 2. Juli 1976, A 1976, 886
+**21**
 
-A 1976, 996
+1.9.2001 - 32
+
+[^76-1]: In Kraft seit 2. Juli 1976, gemäss Landratsbeschluss vom 2. Juli 1976, A 1976, 886
