@@ -5,36 +5,34 @@ title: Gesetz über den Datenschutz
 short: "Kantonales Datenschutzgesetz, kDSG"
 language: de
 version: 2010-03-01
+corrected: 2021-11-09
 version_adopted: 2009-09-16
 adopted: 2008-02-20
 in_force: 2008-06-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/232.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/845/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/82/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über den Datenschutz
+# Gesetz über den Datenschutz (Kantonales Datenschutzgesetz, kDSG)
 
-(Kantonales Datenschutzgesetz, kDSG)
-
-vom 20.02.2008 (Stand 01.03.2010)
+vom 20. Februar 2008<sup>1</sup>
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 37 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz (DSG)[^ingress-1],
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 37 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz (DSG)<sup>2</sup>,
 
 beschliesst:
 
-[^ingress-1]: SR 235.1
-
-## 1 Zweck, Geltungsbereich, Begriffe
+### I. ZWECK, GELTUNGSBEREICH, BEGRIFFE
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz bezweckt den Schutz der Persönlichkeit und der Grundrechte von Personen, über die Daten bearbeitet werden.
+Dieses Gesetz bezweckt den Schutz der Persönlichkeit und der Grundrechte von Personen, über die Daten bearbeitet werden.
 
 #### Art. 2
 
@@ -45,43 +43,68 @@ beschliesst:
 <sup>2</sup> Es ist nicht anwendbar auf:
 
 - 1\. das nicht hoheitliche Handeln von Organen bei der Teilnahme am wirtschaftlichen Wettbewerb;
+
 - 2\. Geschäfte, über welche die Stimmberechtigten oder der Landrat beschliessen;
+
 - 3\. hängige Zivilprozesse, Strafverfahren sowie staats- und verwaltungsrechtliche Verfahren mit Ausnahme erstinstanzlicher Verwaltungsverfahren;
+
 - 4\. die öffentlichen Register des Privatrechtsverkehrs;
+
 - 5\. verwaltungsinterne Akten wie Notizbücher und Agenden, die als persönliche Arbeitsmittel dienen.
 
-<sup>3</sup> Für private Personen und Bundesorgane gelten die Vorschriften des DSG[^2-1].
-
-[^2-1]: SR 235.1
+<sup>3</sup> Für private Personen und Bundesorgane gelten die Vorschriften des DSG<sup>2</sup>.
 
 #### Art. 3
 
 **Begriffe**
 
-<sup>1</sup> Die folgenden Begriffe bedeuten:
+Die folgenden Begriffe bedeuten:
 
 - 1\. Personendaten (Daten): alle Angaben, die sich auf eine bestimmte oder bestimmbare Person beziehen;
+
 - 2\. betroffene Personen: natürliche oder juristische Personen, über die Daten bearbeitet werden;
+
 - 3\. besonders schützenswerte Daten: Daten über:
-  - a) religiöse, weltanschauliche, politische oder gewerkschaftliche Ansichten oder Tätigkeiten;
-  - b) Gesundheit, Intimsphäre oder Rassenzugehörigkeit;
-  - c) Massnahmen der sozialen Hilfe;
-  - d) administrative oder strafrechtliche Verfolgungen und Sanktionen;
+
+- a) religiöse, weltanschauliche, politische oder gewerkschaftliche Ansichten oder Tätigkeiten;
+
+- b) Gesundheit, Intimsphäre oder Rassenzugehörigkeit;
+
+- c) Massnahmen der sozialen Hilfe;
+
+- d) administrative oder strafrechtliche Verfolgungen und Sanktionen;
+
 - 4\. Persönlichkeitsprofil: eine Zusammenstellung von Daten, die eine Beurteilung wesentlicher Aspekte der Persönlichkeit einer natürlichen Person erlaubt;
+
 - 5\. Bearbeiten: jeder Umgang mit Daten, unabhängig von den angewandten Mitteln und Verfahren, insbesondere das Beschaffen, Aufbewahren, Verwenden, Umarbeiten, Bekanntgeben, Archivieren oder Vernichten von Daten;
+
 - 6\. Bekanntgeben: das Zugänglichmachen von Daten wie das Einsichtgewähren, Weitergeben oder Veröffentlichen;
+
 - 7\. Datensammlung: jeder Bestand von Daten, der so aufgebaut ist, dass die Daten nach betroffenen Personen erschliessbar sind;
+
 - 8\. Organe:
-  - a) Behörden oder Verwaltungsstellen des Kantons, der Gemeinden und Gemeindeverbände sowie der kantonalen und kommunalen selbständigen öffentlichrechtlichen Körperschaften und Anstalten;
-  - b) Personen, soweit sie mit öffentlichen Aufgaben von Behörden oder Verwaltungsstellen im Sinne von lit. a betraut sind;
+
+- a) Behörden oder Verwaltungsstellen:
+
+- des Kantons;
+
+- der Gemeinden und Gemeindeverbände;
+
+- der kantonalen und kommunalen selbständigen öffentlichrechtlichen Körperschaften und Anstalten;
+
+- b) Personen, soweit sie mit öffentlichen Aufgaben von Behörden
+
+oder Verwaltungsstellen im Sinne von lit. a betraut sind;
+
 - 9\. Inhaberin oder Inhaber der Datensammlung: Organe, die über den Zweck und den Inhalt der Datensammlung entscheiden;
+
 - 10\. Gesetz im formellen Sinn:
-  - a) Erlasse und Beschlüsse im Sinne von Art. 3 lit. j DSG[^3-1];
-  - b) kantonale Gesetze, kommunale Reglemente sowie alle übrigen referendumspflichtigen kantonalen und kommunalen Erlasse.
 
-[^3-1]: SR 235.1
+- a) Erlasse und Beschlüsse im Sinne von Art. 3 lit. j DSG<sup>2</sup>;
 
-## 2 Datenschutzbestimmungen
+- b) kantonale Gesetze, kommunale Reglemente sowie alle übrigen referendumspflichtigen kantonalen und kommunalen Erlasse.
+
+### II. DATENSCHUTZBESTIMMUNGEN
 
 #### Art. 4
 
@@ -94,7 +117,9 @@ beschliesst:
 <sup>3</sup> Daten dürfen nur zu dem Zweck bearbeitet werden, der:
 
 - 1\. bei der Beschaffung angegeben wurde;
+
 - 2\. aus den Umständen ersichtlich ist; oder
+
 - 3\. gesetzlich vorgesehen ist.
 
 <sup>4</sup> Die Beschaffung von Daten und insbesondere der Zweck ihrer Bearbeitung müssen für die betroffene Person erkennbar sein.
@@ -118,9 +143,13 @@ beschliesst:
 <sup>2</sup> Fehlt eine Gesetzgebung, die einen angemessenen Schutz gewährleistet, können Daten ins Ausland nur bekanntgegeben werden, wenn:
 
 - 1\. hinreichende Garantien, insbesondere durch Vertrag, einen angemessenen Schutz im Ausland gewährleisten;
+
 - 2\. die betroffene Person im Einzelfall zugestimmt hat;
+
 - 3\. die Bekanntgabe im Einzelfall entweder für die Wahrung eines überwiegenden öffentlichen Interesses oder für die Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht unerlässlich ist;
+
 - 4\. die Bekanntgabe im Einzelfall erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen;
+
 - 5\. die betroffene Person die Daten allgemein zugänglich gemacht und eine Bearbeitung nicht ausdrücklich untersagt hat.
 
 <sup>3</sup> Die Aufsichtsstelle muss über die Garantien nach Abs. 2 Ziff. 1 informiert werden.
@@ -135,14 +164,18 @@ beschliesst:
 
 #### Art. 8
 
-**Informationspflicht bei der Beschaffung von besonders schützenswerten Daten und Persönlichkeitsprofilen**
+**Informationspflicht bei der Beschaffung von besonders**
+
+schützenswerten Daten und Persönlichkeitsprofilen
 
 <sup>1</sup> Die Inhaberin oder der Inhaber einer Datensammlung ist verpflichtet, die betroffene Person über die Beschaffung von besonders schützenswerten Daten oder Persönlichkeitsprofilen zu informieren. Diese Informationspflicht gilt auch dann, wenn die Daten bei Dritten beschafft werden.
 
 <sup>2</sup> Der betroffenen Person sind mindestens mitzuteilen:
 
 - 1\. die Inhaberin oder der Inhaber der Datensammlung;
+
 - 2\. der Zweck der Datenbearbeitung;
+
 - 3\. die Kategorien der Datenempfängerinnen und Datenempfänger, wenn eine Datenbekanntgabe vorgesehen ist.
 
 <sup>3</sup> Wenn Daten nicht bei der betroffenen Person beschafft werden, hat deren Information spätestens bei Beginn der Speicherung der Daten oder, wenn auf die Speicherung verzichtet wird, mit der ersten Bekanntgabe an Dritte zu erfolgen.
@@ -150,6 +183,7 @@ beschliesst:
 <sup>4</sup> Die Informationspflicht der Inhaberin oder des Inhabers der Datensammlung entfällt, wenn die betroffene Person bereits informiert wurde oder, in Fällen nach Abs. 3, wenn:
 
 - 1\. die Speicherung oder die Bekanntgabe der Daten ausdrücklich durch ein Gesetz im formellen Sinn vorgesehen ist;
+
 - 2\. die Information nicht oder nur mit unverhältnismässigem Aufwand möglich ist.
 
 #### Art. 9
@@ -159,6 +193,7 @@ beschliesst:
 <sup>1</sup> Die Datenbearbeitung kann durch Vereinbarung oder Gesetz Dritten übertragen werden, wenn:
 
 - 1\. die Daten nur so bearbeitet werden, wie die Auftraggeberin oder der Auftraggeber selbst es tun dürfte;
+
 - 2\. keine gesetzliche oder vertragliche Geheimhaltungspflicht es verbietet.
 
 <sup>2</sup> Die Auftraggeberin oder der Auftraggeber muss sich insbesondere vergewissern, dass der Dritte die Datensicherheit gewährleistet.
@@ -182,24 +217,31 @@ beschliesst:
 <sup>2</sup> Besonders schützenswerte Daten und Persönlichkeitsprofile dürfen sie nur bearbeiten, wenn ein Gesetz im formellen Sinn es ausdrücklich vorsieht oder wenn ausnahmsweise:
 
 - 1\. es für eine in einem Gesetz im formellen Sinn klar umschriebene Aufgabe unentbehrlich ist;
+
 - 2\. der Regierungsrat es im Einzelfall bewilligt, weil die Rechte der betroffenen Person nicht gefährdet sind;
+
 - 3\. die betroffene Person im Einzelfall eingewilligt oder ihre Daten allgemein zugänglich gemacht und eine Bearbeitung nicht ausdrücklich untersagt hat.
 
 #### Art. 12
 
 **Datenbeschaffung**
 
-<sup>1</sup> Bei systematischen Erhebungen, namentlich mit Fragebogen, geben die Organe den Zweck und die Rechtsgrundlage der Bearbeitung, die Kategorien der an der Datensammlung Beteiligten sowie der Datenempfängerinnen und Datenempfänger bekannt.
+Bei systematischen Erhebungen, namentlich mit Fragebogen, geben die Organe den Zweck und die Rechtsgrundlage der Bearbeitung, die Kategorien der an der Datensammlung Beteiligten sowie der Datenempfängerinnen und Datenempfänger bekannt.
 
 #### Art. 13
 
-**Datenbekanntgabe 1. im Allgemeinen**
+**Datenbekanntgabe**
+
+### 1. im Allgemeinen
 
 <sup>1</sup> Organe dürfen Daten bekannt geben, wenn dafür Rechtsgrundlagen im Sinne von Art. 11 bestehen oder wenn:
 
 - 1\. die Daten für die Empfängerin oder den Empfänger im Einzelfall zur Erfüllung ihrer beziehungsweise seiner gesetzlichen Aufgabe unentbehrlich sind;
+
 - 2\. die betroffene Person im Einzelfall eingewilligt hat;
+
 - 3\. die betroffene Person ihre Daten allgemein zugänglich gemacht und eine Bekanntgabe nicht ausdrücklich untersagt hat; oder
+
 - 4\. die Empfängerin oder der Empfänger glaubhaft macht, dass die betroffene Person die Einwilligung verweigert oder die Bekanntgabe sperrt, um die Durchsetzung von Rechtsansprüchen oder die Wahrnehmung anderer schutzwürdiger Interessen zu verwehren; der betroffenen Person ist vorher wenn möglich Gelegenheit zur Stellungnahme zu geben.
 
 <sup>2</sup> Besteht eine gesetzliche Ermächtigung oder Verpflichtung hierzu oder tut das datenempfangende Organ dar, es sei unter Vorbehalt von Geheimhaltungsvorschriften zur Bearbeitung der verlangten Daten berechtigt, dürfen Daten öffentlichen Organen auch durch ein Abrufverfahren zugänglich gemacht werden. Besonders schützenswerte Daten und Persönlichkeitsprofile dürfen durch ein Abrufverfahren nur zugänglich gemacht werden, wenn ein Gesetz im formellen Sinn es ausdrücklich vorsieht.
@@ -207,6 +249,7 @@ beschliesst:
 <sup>3</sup> Organe lehnen die Bekanntgabe ab, schränken sie ein oder verbinden sie mit Auflagen, wenn es verlangt wird durch:
 
 - 1\. wesentliche öffentliche Interessen oder offensichtlich schutzwürdige Interessen der betroffenen Person; oder
+
 - 2\. gesetzliche Geheimhaltungspflichten oder besondere Datenschutzvorschriften.
 
 #### Art. 14
@@ -215,16 +258,21 @@ beschliesst:
 
 <sup>1</sup> Die Einwohnerkontrolle kann auf Gesuch hin Dritten bekannt geben:
 
-- 1\. Einzelauskünfte über Name, Vorname, Geschlecht und aktuelle Adresse (bei Wegzug Wegzugsdatum und ‑ort) voraussetzungslos; Gesuch und Auskunft können schriftlich oder mündlich erfolgen;
+- 1\. Einzelauskünfte über Name, Vorname, Geschlecht und aktuelle Adresse (bei Wegzug Wegzugsdatum und –ort) voraussetzungslos; Gesuch und Auskunft können schriftlich oder mündlich erfolgen;
+
 - 2\. Einzelauskünfte über Geburtsdatum, Zivilstand, Heimatort, Staatsangehörigkeit und Zuzugsort, soweit ein schutzwürdiges Interesse glaubhaft gemacht wird; Gesuch und Auskunft erfolgen schriftlich;
+
 - 3\. Sammelauskünfte über Name, Vorname, Geschlecht, Geburtsdatum, aktuelle Adresse und die in einem bestimmten Zeitraum zugezogenen Personen, soweit:
-  - a) ein Interesse glaubhaft gemacht wird;
-  - b) die Daten für einen ideellen Zweck verwendet werden;
-  - c) die nachfragende natürliche oder juristische Person Wohnsitz beziehungsweise Sitz im Kanton hat.
+
+- a) ein Interesse glaubhaft gemacht wird;
+
+- b) die Daten für einen ideellen Zweck verwendet werden;
+
+- c) die nachfragende natürliche oder juristische Person Wohnsitz beziehungsweise Sitz im Kanton hat.
 
 <sup>2</sup> Die Sammelauskünfte können nach einem oder mehreren der vorgenannten Merkmale sortiert bekanntgegeben werden. Gesuch und Auskunft erfolgen schriftlich. Die Gesuchstellerinnen und Gesuchsteller haben sich unterschriftlich zu verpflichten, die Daten ausschliesslich zum angegebenen Zweck zu verwenden und sie nicht weiterzugeben.
 
-<sup>3</sup> …
+<sup>3</sup> ...<sup>9</sup>
 
 #### Art. 15
 
@@ -235,6 +283,7 @@ beschliesst:
 <sup>2</sup> Das Organ verweigert die Sperrung oder hebt sie auf, wenn:
 
 - 1\. eine Rechtspflicht zur Bekanntgabe besteht;
+
 - 2\. die Erfüllung seiner Aufgabe sonst gefährdet wäre.
 
 #### Art. 16
@@ -244,13 +293,17 @@ beschliesst:
 <sup>1</sup> Organe dürfen Daten für nicht personenbezogene Zwecke, insbesondere für Forschung, Planung und Statistik bearbeiten, wenn:
 
 - 1\. die Daten anonymisiert werden, sobald es der Zweck der Bearbeitung erlaubt;
+
 - 2\. die Empfängerin oder der Empfänger die Daten nur mit Zustimmung des Organs weitergibt;
+
 - 3\. die Ergebnisse so veröffentlicht werden, dass die betroffenen Personen nicht bestimmbar sind.
 
 <sup>2</sup> Die Anforderungen der folgenden Bestimmungen müssen nicht erfüllt sein:
 
 - 1\. Art. 4 Abs. 3 über den Zweck der Bearbeitung;
+
 - 2\. Art. 11 Abs. 2 über die Rechtsgrundlagen für die Bearbeitung von besonders schützenswerten Daten und Persönlichkeitsprofilen;
+
 - 3\. Art. 13 Abs. 1 über die Bekanntgabe von Daten.
 
 #### Art. 17
@@ -260,7 +313,9 @@ beschliesst:
 <sup>1</sup> Öffentlich zugängliche Orte dürfen zum Schutz von Personen und Sachen mit technischen Geräten wie insbesondere Bildaufzeichnungsgeräten überwacht werden, wenn:
 
 - 1\. die Überwachung in geeigneter Weise erkennbar gemacht wird;
+
 - 2\. die gespeicherten Daten nach spätestens 30 Tagen gelöscht oder innerhalb dieser Frist mit einem Strafantrag beziehungsweise einer Strafanzeige der Polizei übergeben werden;
+
 - 3\. die Aufsichtsstelle vorgängig über die Einführung der Überwachung informiert wurde.
 
 <sup>2</sup> Der Einsatz technischer Geräte kann von jener Instanz angeordnet werden, der das Benützungsrecht oder die Hoheit über den zu überwachenden Ort zusteht.
@@ -269,11 +324,9 @@ beschliesst:
 
 **Datenarchivierung, Datenvernichtung**
 
-<sup>1</sup> Werden Daten zur Erfüllung gesetzlicher Aufgaben oder zu Beweis- oder Sicherungszwecken nicht mehr benötigt, sind sie zu vernichten, sofern sie nicht gemäss den Bestimmungen der Archivgesetzgebung[^18-1] zu archivieren sind.
+Werden Daten zur Erfüllung gesetzlicher Aufgaben oder zu Beweis- oder Sicherungszwecken nicht mehr benötigt, sind sie zu vernichten, sofern sie nicht gemäss den Bestimmungen der Archivgesetzgebung<sup>3</sup> zu archivieren sind.
 
-[^18-1]: NG 323.1
-
-## 3 Register der Datensammlungen
+### III. REGISTER DER DATENSAMMLUNGEN
 
 #### Art. 19
 
@@ -284,6 +337,7 @@ beschliesst:
 <sup>2</sup> Die Aufsichtsstelle führt:
 
 - 1\. das Register des Kantons;
+
 - 2\. ein zentrales Register der übrigen registrierten Datensammlungen.
 
 <sup>3</sup> Sie kann den anderen Registerführungspflichtigen Weisungen erteilen. Änderungen im Register sind der Aufsichtsstelle zu melden.
@@ -295,26 +349,34 @@ beschliesst:
 <sup>1</sup> Das Register enthält für jede Datensammlung Angaben über:
 
 - 1\. die Inhaberin oder den Inhaber der Datensammlung;
+
 - 2\. die Rechtsgrundlage;
+
 - 3\. den Zweck, die Mittel und das Verfahren der Datenbearbeitung;
+
 - 4\. die Art und die Herkunft der Daten;
+
 - 5\. die regelmässigen Empfängerinnen und Empfänger der Daten;
+
 - 6\. andere an der Datensammlung beteiligte Organe;
+
 - 7\. den Aufenthaltsort von Kopien.
 
 <sup>2</sup> Nicht in das Register aufzunehmen sind Datensammlungen, die:
 
 - 1\. nur kurzfristig geführt werden;
+
 - 2\. rechtmässig veröffentlicht sind;
+
 - 3\. Hilfsdatensammlungen darstellen.
 
 #### Art. 21
 
 **Einsichtsrecht**
 
-<sup>1</sup> Jede Person kann die Register einsehen.
+Jede Person kann die Register einsehen.
 
-## 4 Kontrollrechte
+### IV. KONTROLLRECHTE
 
 #### Art. 22
 
@@ -325,6 +387,7 @@ beschliesst:
 <sup>2</sup> Die Inhaberin oder der Inhaber der Datensammlung muss der betroffenen Person mitteilen:
 
 - 1\. alle über sie in der Datensammlung vorhandenen Daten einschliesslich der verfügbaren Angaben über die Herkunft der Daten;
+
 - 2\. den Zweck und gegebenenfalls die Rechtsgrundlagen der Bearbeitung sowie die Kategorien der bearbeiteten Daten, der an der Sammlung Beteiligten sowie der Datenempfängerinnen und Datenempfänger.
 
 <sup>3</sup> Daten über die Gesundheit kann die Inhaberin oder der Inhaber der Datensammlung der betroffenen Person durch eine von ihr bezeichnete Ärztin oder einen von ihr bezeichneten Arzt mitteilen lassen.
@@ -339,10 +402,12 @@ beschliesst:
 
 **Einschränkungen des Auskunftsrechts**
 
-<sup>1</sup> Die Inhaberin oder der Inhaber der Datensammlung kann die Information nach Art. 8 oder die Auskunft nach Art. 22 verweigern, einschränken oder aufschieben, soweit:
+Die Inhaberin oder der Inhaber der Datensammlung kann die Information nach Art. 8 oder die Auskunft nach Art. 22 verweigern, einschränken oder aufschieben, soweit:
 
 - 1\. ein Gesetz im formellen Sinn dies vorsieht;
+
 - 2\. es wegen überwiegender öffentlicher oder privater Interessen erforderlich ist;
+
 - 3\. die Information oder die Auskunft den Zweck einer Strafuntersuchung oder eines andern Untersuchungsverfahrens in Frage stellt.
 
 #### Art. 24
@@ -352,7 +417,9 @@ beschliesst:
 <sup>1</sup> Wer ein schutzwürdiges Interesse hat, kann von der Inhaberin oder vom Inhaber der Datensammlung verlangen, dass sie beziehungsweise er:
 
 - 1\. die widerrechtliche Datenbearbeitung unterlässt;
+
 - 2\. die Folgen einer widerrechtlichen Bearbeitung beseitigt;
+
 - 3\. die Widerrechtlichkeit der Bearbeitung feststellt.
 
 <sup>2</sup> Kann weder die Richtigkeit noch die Unrichtigkeit von Daten bewiesen werden, so hat das Organ einen entsprechenden Vermerk anzubringen.
@@ -360,6 +427,7 @@ beschliesst:
 <sup>3</sup> Die betroffene Person kann insbesondere verlangen, dass das Organ:
 
 - 1\. Daten berichtigt, vernichtet oder die Bekanntgabe an Dritte sperrt;
+
 - 2\. seinen Entscheid, namentlich die Berichtigung, Vernichtung, Sperre oder den Vermerk über die Bestreitung Dritten mitteilt.
 
 #### Art. 25
@@ -370,7 +438,7 @@ beschliesst:
 
 <sup>2</sup> Diese ist zusätzlich der Aufsichtsstelle mitzuteilen.
 
-## 5 Aufsicht
+### V. AUFSICHT
 
 #### Art. 26
 
@@ -386,19 +454,25 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Die Aufsichtsstelle ist das Kontrollorgan im Sinne von Art. 37 Abs. 2 DSG[^27-1] und:
+Die Aufsichtsstelle ist das Kontrollorgan im Sinne von Art. 37 Abs. 2 DSG<sup>2</sup> und:
 
 - 1\. überwacht die Einhaltung der Vorschriften über den Datenschutz durch die Organe, indem sie von Amtes wegen oder auf Anzeige hin Kontrollen durchführt;
-- 2\. berät die Organe in Fragen des Datenschutzes;
-- 3\. erteilt betroffenen Personen Auskunft über ihre Rechte;
-- 4\. vermittelt zwischen den Organen und betroffenen Personen in allen Anständen über den Datenschutz;
-- 5\. nimmt frühzeitig Stellung zu Erlassen und Projekten, die Aspekte des Datenschutzes berühren können, insbesondere im Sinne einer Vorabkontrolle bei der beabsichtigten Datenbearbeitung mit besonderen Risiken für die Rechte und Freiheiten der Personen;
-- 6\. orientiert die Organe über wesentliche Anliegen des Datenschutzes;
-- 7\. veröffentlicht Stellungnahmen;
-- 8\. arbeitet mit Kontrollorganen anderer Kantone, des Bundes und des Auslandes zusammen;
-- 9\. erstattet dem Regierungsrat jährlich Bericht, der öffentlich zugänglich gemacht wird.
 
-[^27-1]: SR 235.1
+- 2\. berät die Organe in Fragen des Datenschutzes;
+
+- 3\. erteilt betroffenen Personen Auskunft über ihre Rechte;
+
+- 4\. vermittelt zwischen den Organen und betroffenen Personen in allen Anständen über den Datenschutz;
+
+- 5\. nimmt frühzeitig Stellung zu Erlassen und Projekten, die Aspekte des Datenschutzes berühren können, insbesondere im Sinne einer Vorabkontrolle bei der beabsichtigten Datenbearbeitung mit besonderen Risiken für die Rechte und Freiheiten der Personen;
+
+- 6\. orientiert die Organe über wesentliche Anliegen des Datenschutzes;
+
+- 7\. veröffentlicht Stellungnahmen;
+
+- 8\. arbeitet mit Kontrollorganen anderer Kantone, des Bundes und des Auslandes zusammen;
+
+- 9\. erstattet dem Regierungsrat jährlich Bericht, der öffentlich zugänglich gemacht wird.
 
 #### Art. 28
 
@@ -412,17 +486,24 @@ beschliesst:
 
 #### Art. 29
 
-**Massnahmen 1. Empfehlung**
+**Massnahmen**
+
+### 1. Empfehlung
 
 <sup>1</sup> Ergeben die Abklärungen der Aufsichtstelle, dass Datenschutzvorschriften verletzt werden, empfiehlt sie der Inhaberin oder dem Inhaber der Datensammlung, die Bearbeitung zu ändern oder zu unterlassen.
 
 <sup>2</sup> Sie orientiert über ihre Empfehlungen:
 
 - 1\. bei Behörden oder Verwaltungsstellen:
-  - a) des Kantons die zuständige Direktion oder die Staatskanzlei;
-  - b) der Gemeinden den administrativen Rat;
-  - c) der Gemeindeverbände den Vorstand;
-  - d) der kantonalen und kommunalen selbständigen öffentlichrechtlichen Körperschaften und Anstalten die Geschäftsleitung;
+
+- a) des Kantons die zuständige Direktion oder die Staatskanzlei;
+
+- b) der Gemeinden den administrativen Rat;
+
+- c) der Gemeindeverbände den Vorstand;
+
+- d) der kantonalen und kommunalen selbständigen öffentlichrechtlichen Körperschaften und Anstalten die Geschäftsleitung;
+
 - 2\. bei Personen, soweit sie mit öffentlichen Aufgaben betraut sind, die zu orientierende Instanz gemäss Ziff. 1.
 
 #### Art. 30
@@ -433,13 +514,13 @@ beschliesst:
 
 <sup>2</sup> Der Entscheid wird der betroffenen Person und der Aufsichtsstelle in Form einer Verfügung mitgeteilt.
 
-## 6 Rechtsschutz, Gebühren
+### VI. RECHTSSCHUTZ, GEBÜHREN
 
 #### Art. 31
 
 **Beschwerde**
 
-<sup>1</sup> Verfügungen gestützt auf Art. 25 und Art. 30 in Verbindung mit Art. 29 Abs. 2 Ziff. 1 lit. a–c können binnen 20 Tagen nach erfolgter Zustellung mit Beschwerde beim Regierungsrat angefochten werden.
+<sup>1</sup> Verfügungen gestützt auf Art. 25 und Art. 30 in Verbindung mit Art. 29 Abs. 2 Ziff. 1 lit. a – c können binnen 20 Tagen nach erfolgter Zustellung mit Beschwerde beim Regierungsrat angefochten werden.
 
 <sup>2</sup> Die übrigen Verfügungen sowie die Beschwerdeentscheide des Regierungsrates können binnen 20 Tagen nach erfolgter Zustellung mit Beschwerde beim Verwaltungsgericht angefochten werden.
 
@@ -447,7 +528,7 @@ beschliesst:
 
 **Beschwerdebefugnis**
 
-<sup>1</sup> Die Aufsichtsstelle kann die Rechtsmittel des kantonalen Rechts ergreifen.
+Die Aufsichtsstelle kann die Rechtsmittel des kantonalen Rechts ergreifen.
 
 #### Art. 33
 
@@ -455,24 +536,26 @@ beschliesst:
 
 <sup>1</sup> Die Organe und die Aufsichtsstelle erheben für Gesuche von Personen, die von den ihnen nach diesem Gesetz zustehenden Kontrollrechten Gebrauch machen, keine Gebühren.
 
-<sup>2</sup> Von gesuchstellenden Personen kann eine Gebühr von höchstens Fr. 1'000.– verlangt werden bei:
+<sup>2</sup> Von gesuchstellenden Personen kann eine Gebühr von höchstens Fr. 1'000.- verlangt werden bei:
 
 - 1\. Gesuchen, die einen grossen Aufwand erfordern;
+
 - 2\. wiederholt oder rechtsmissbräuchlich erhobenen Gesuchen.
 
 <sup>3</sup> Die Gebührenpflicht nach der Gebührengesetzgebung[^33-1] für die Bekanntgabe von Daten an Dritte bleibt vorbehalten, sofern sie nicht ausschliesslich ideellen Zwecken dient.
 
 [^33-1]: NG 265.5
 
-## 7 Straf-, Übergangs- und Schlussbestimmungen
+### VII. STRAF-, ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 34
 
 **Strafbestimmung**
 
-<sup>1</sup> Mit Busse bis Fr. 100'000.– wird bestraft:
+Mit Busse bis Fr. 100'000.- wird bestraft:
 
 - 1\. wer Sammelauskünfte im Sinne von Art. 14 Abs. 1 Ziff. 3 nicht für ideelle Zwecke verwendet oder sie an Dritte weitergibt;
+
 - 2\. wer für nicht personenbezogene Zwecke überlassene Daten nach Art. 16 zweckwidrig verwendet oder sie an Dritte weitergibt.
 
 #### Art. 35
@@ -485,17 +568,19 @@ beschliesst:
 
 #### Art. 36
 
-**Änderung bisherigen Rechts 1. Niederlassungsgesetz**
+**Änderung bisherigen Rechts**
 
-<sup>1</sup> Das Gesetz vom 27. April 1980 über die Niederlassung der Schweizer[^36-1] wird wie folgt geändert: …
+### 1. Niederlassungsgesetz
 
-[^36-1]: NG 122.1
+Das Gesetz vom 27. April 1980 über die Niederlassung der Schweizer[^h1Niederlassungsges-1] wird wie folgt geändert: ...
+
+[^h1Niederlassungsges-1]: NG 122.1
 
 #### Art. 37
 
 **2. Personalgesetz**
 
-<sup>1</sup> Das Gesetz vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz)[^37-1] wird wie folgt geändert: …
+Das Gesetz vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz)[^37-1] wird wie folgt geändert: ...
 
 [^37-1]: NG 165.1
 
@@ -503,7 +588,7 @@ beschliesst:
 
 **3. Verordnung über das Staatsarchiv**
 
-<sup>1</sup> Die Verordnung vom 12. Juni 1975 über das Staatsarchiv[^38-1] wird wie folgt geändert: …
+Die Verordnung vom 12. Juni 1975 über das Staatsarchiv[^38-1] wird wie folgt geändert: ...
 
 [^38-1]: NG 323.1
 
@@ -511,7 +596,7 @@ beschliesst:
 
 **4. Polizeigesetz**
 
-<sup>1</sup> Das Gesetz vom 26. April 1987 über das Polizeiwesen (Polizeigesetz)[^39-1] wird wie folgt geändert: …
+Das Gesetz vom 26. April 1987 über das Polizeiwesen (Polizeigesetz)[^39-1] wird wie folgt geändert: ...
 
 [^39-1]: NG 911.1
 
@@ -519,7 +604,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
 
 #### Art. 41
 
@@ -529,6 +614,11 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^41-1] fest.
 
-[^41-1]: Datum des Inkrafttretens: 1. Juni 2008
+[^41-1]: A 2008, 347, 978; Datum des Inkrafttretens: 1. Juni 2008
 
-A 2008, 347, 978
+## Weitere Fussnoten
+
+- [2] SR 235.1
+- [7] NG 323.1
+- [9] Fassung gemäss Landratsbeschluss vom 16. September 2009, A 2009, 1669, A 2010,
+- [71] ; in Kraft seit 1. März 2010
