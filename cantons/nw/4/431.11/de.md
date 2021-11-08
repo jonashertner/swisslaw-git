@@ -5,51 +5,56 @@ title: Vollzugsverordnung zum Kantonalen Landesversorgungsgesetz
 short: Landesversorgungsverordnung
 language: de
 version: 2020-07-01
-valid_until: 2024-12-31
+corrected: 2021-11-09
 version_adopted: 2020-06-02
 adopted: 2024-10-29
 in_force: 2025-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/431.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/873/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/188/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Kantonalen Landesversorgungsgesetz
+# Vollzugsverordnung zum Kantonalen Landesversorgungsgesetz (Landesversorgungsverordnung)
 
-(Landesversorgungsverordnung)
-
-vom 22.06.2004 (Stand 01.07.2020)
+vom 22. Juni 2004[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 10 des Einführungsgesetzes vom 17. März 2004 zur Bundesgesetzgebung über die wirtschaftliche Landesversorgung (Kantonales Landesversorgungsgesetz)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 10 des Einführungsgesetzes vom 17. März 2004 zur Bundesgesetzgebung über die wirtschaftliche Landesversorgung (Kantonales Landesversorgungsgesetz)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 431.1
+[^t-1]: A 2004, 1107
+[^t-2]: NG 431.1
 
-## 1 Organisation
+### I. ORGANISATION
 
 #### § 1
 
 **Zuständige Direktion**
 
-<sup>1</sup> Die Justiz- und Sicherheitsdirektion ist zuständig für alle Aufgaben der wirtschaftlichen Landesversorgung, soweit sie nicht anderen Organen übertragen sind.
+<sup>1</sup> Die Justiz- und Sicherheitsdirektion ist zuständig für alle Aufgaben der wirtschaftlichen Landesversorgung, soweit sie nicht anderen Organen übertragen sind.[^1-1]
 
 <sup>2</sup> Sie erlässt das Organigramm sowie die Pflichtenhefte für die Kantonale Fachstelle für wirtschaftliche Landesversorgung (KFWL) und genehmigt die Pflichtenhefte der Gemeindestellen für wirtschaftliche Landesversorgung (GWL).
 
+[^1-1]: Fassung gemäss Regierungsratsbeschluss vom 2. Juni 2020, A 2020, 1279, in Kraft seit 1. Juli 20200
+
 #### § 2
 
-**Kantonale Fachstelle für wirtschaftliche Landesversorgung**
+**Kantonale Fachstelle für wirtschaftliche**
+
+### Landesversorgung
 
 <sup>1</sup> Der Regierungsrat ernennt die Fachleiterin oder den Fachleiter der KFWL und deren Stellvertretung.
 
-<sup>2</sup> Die Justiz- und Sicherheitsdirektion bezeichnet im Einvernehmen mit den übrigen Direktionen die Mitarbeiterinnen und Mitarbeiter der KFWL.
+<sup>2</sup> Die Justiz- und Sicherheitsdirektion bezeichnet im Einvernehmen mit den übrigen Direktionen die Mitarbeiterinnen und Mitarbeiter der KFWL.[^hLandesversorgung-1]
 
-<sup>3</sup> Für die Anstellung des weiteren Personals ist die Personalgesetzgebung[^2-1] massgebend.
+<sup>3</sup> Für die Anstellung des weiteren Personals ist die Personalgesetzgebung[^hLandesversorgung-2] massgebend.
 
-[^2-1]: NG 165
+[^hLandesversorgung-1]: Fassung gemäss Regierungsratsbeschluss vom 2. Juni 2020, A 2020, 1279, in Kraft seit 1. Juli 20200
+[^hLandesversorgung-2]: NG 165
 
 #### § 3
 
@@ -71,9 +76,9 @@ beschliesst:
 
 **Aufsicht des Kantons**
 
-<sup>1</sup> Für den Vollzug der ihnen übertragenen Aufgaben auf dem Gebiet der wirtschaftlichen Landesversorgung unterstehen die Gemeinden der Aufsicht des Kantons.
+Für den Vollzug der ihnen übertragenen Aufgaben auf dem Gebiet der wirtschaftlichen Landesversorgung unterstehen die Gemeinden der Aufsicht des Kantons.
 
-## 2 Einsatz
+### II. EINSATZ
 
 #### § 6
 
@@ -82,7 +87,9 @@ beschliesst:
 <sup>1</sup> Als Einsatz gelten:
 
 - 1\. alle Arbeiten im Zusammenhang mit Vorbereitungsmassnahmen;
+
 - 2\. die Teilnahme an Ausbildungsveranstaltungen im Rahmen der wirtschaftlichen Landesversorgung und der übrigen Gesamtverteidigung;
+
 - 3\. die Dienstleistungen in ausserordentlichen Lagen, in wirtschaftlichen Mangellagen und bei kriegerischen Ereignissen.
 
 <sup>2</sup> Eine für gewisse Einsätze erforderliche Freistellung vom Militärdienst oder von der Schutzdienstpflicht im Zivilschutz darf nur im Einverständnis mit den Betroffenen beantragt werden.
@@ -101,10 +108,12 @@ beschliesst:
 
 **Befugnis zur Anordnung von Einsätzen**
 
-<sup>1</sup> Einsätze können innerhalb ihres Zuständigkeitsbereichs angeordnet werden durch:
+Einsätze können innerhalb ihres Zuständigkeitsbereichs angeordnet werden durch:
 
 - 1\. den Regierungsrat;
+
 - 2\. die KFWL;
+
 - 3\. den Gemeinderat oder die zuständige Gemeindebehörde.
 
 #### § 9
@@ -135,7 +144,7 @@ beschliesst:
 
 <sup>3</sup> Bei gesundheitlichen Gründen ist eine ärztliche Bescheinigung über die Unfähigkeit zur Dienstleistung beizulegen; die aufbietende Stelle kann vor dem Dispensationsentscheid eine Vertrauensärztin oder einen Vertrauensarzt beiziehen.
 
-## 3 Entschädigungen
+### III. ENTSCHÄDIGUNGEN
 
 #### § 12
 
@@ -153,22 +162,24 @@ beschliesst:
 
 **Personal und Beauftragte der Gemeinde**
 
-<sup>1</sup> Die Entschädigung für den Einsatz des Personals und der Beauftragten der Gemeinde bestimmt sich nach deren Vorschriften.
+Die Entschädigung für den Einsatz des Personals und der Beauftragten der Gemeinde bestimmt sich nach deren Vorschriften.
 
 #### § 14
 
 **Unfallversicherung**
 
-<sup>1</sup> Kanton und Gemeinden haben ihre Beauftragten gegen Unfälle gemäss dem Bundesgesetz über die Unfallversicherung (UVG)[^14-1] zu versichern.
+Kanton und Gemeinden haben ihre Beauftragten gegen Unfälle gemäss dem Bundesgesetz über die Unfallversicherung (UVG)[^14-1] zu versichern.
 
-[^14-1]: SR 832.20
+[^14-1]: NG 165
 
-## 4 Schlussbestimmung
+### IV. SCHLUSSBESTIMMUNG
 
 #### § 15
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Juli 2004 in Kraft.
+Diese Verordnung tritt am 1. Juli 2004 in Kraft.
 
-A 2004, 1107
+## Weitere Fussnoten
+
+- [4] SR 832.20
