@@ -5,21 +5,20 @@ title: Gesetz über den direkten Finanzausgleich
 short: "Finanzausgleichsgesetz, FAG"
 language: de
 version: 2020-01-01
-valid_until: 2025-12-31
+corrected: 2021-11-09
 version_adopted: 2019-05-29
 adopted: 2019-05-29
 in_force: 2020-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/512.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/877/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/192/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über den direkten Finanzausgleich
+# Gesetz über den direkten Finanzausgleich (Finanzausgleichsgesetz, FAG)
 
-(Finanzausgleichsgesetz, FAG)
-
-vom 29.05.2019 (Stand 01.01.2020)
+vom 29. Mai 2019[^t-1]
 
 Der Landrat von Nidwalden,
 
@@ -27,34 +26,42 @@ gestützt auf Art. 33 und 60 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: A 2019, 916, 1395; in Kraft seit 1. Januar 2020
+
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Ziele**
 
-<sup>1</sup> Der direkte Finanzausgleich hat folgende Ziele:
+Der direkte Finanzausgleich hat folgende Ziele:
 
 - 1\. gegenseitige Annäherung der Finanzkraft der Gemeinden;
+
 - 2\. Verminderung der Steuerfussunterschiede zwischen den Gemeinden;
+
 - 3\. Belastungsausgleich zu Gunsten überdurchschnittlich belasteter Gemeinden;
+
 - 4\. Stärkung der Gemeindeautonomie.
 
 #### Art. 2
 
 **Gemeinde**
 
-<sup>1</sup> Wird in diesem Gesetz der Begriff «Gemeinde» verwendet, umfasst dies unter Vorbehalt abweichender Regelungen die Politische Gemeinde und die Schulgemeinde gemeinsam.
+Wird in diesem Gesetz der Begriff «Gemeinde» verwendet, umfasst dies unter Vorbehalt abweichender Regelungen die Politische Gemeinde und die Schulgemeinde gemeinsam.
 
 #### Art. 3
 
 **Instrumente**
 
-<sup>1</sup> Der direkte Finanzausgleich wird mit folgenden vier Instrumenten umgesetzt:
+Der direkte Finanzausgleich wird mit folgenden vier Instrumenten umgesetzt:
 
 - 1\. Normausgleich Volksschule gemäss Art. 17 ff.;
+
 - 2\. Normausgleich Wohnbevölkerung gemäss Art. 20 ff.;
+
 - 3\. Lastenausgleich für den Schutz vor Naturereignissen gemäss Art. 22 ff.;
+
 - 4\. Finanzkraftausgleich gemäss Art. 25 ff.
 
 #### Art. 4
@@ -69,30 +76,36 @@ beschliesst:
 
 #### Art. 5
 
-**Begriffe 1. Nettosteuererträge je Einheit a) allgemein**
+**Begriffe**
+
+### 1. Nettosteuererträge je Einheit
+
+- a) allgemein
 
 <sup>1</sup> Die Nettosteuererträge je Einheit ergeben sich aus der Summe der Nettosteuererträge der natürlichen Personen je Einheit und der gewichteten Nettosteuererträge der juristischen Personen je Einheit.
 
 <sup>2</sup> Bei der Berechnung werden nur die in Art. 6 und 7 aufgeführten Erträge berücksichtigt.
 
-#### Art. 6
+#### Art. 6 b
 
-**b) natürliche Personen**
+**) natürliche Personen**
 
 <sup>1</sup> Die Nettosteuererträge der natürlichen Personen ergeben sich aus den Erträgen des Kantons je Gemeinde aus:
 
 - 1\. der Einkommenssteuer, der Vermögenssteuer, der Quellensteuer und der Nach- und Strafsteuer der natürlichen Personen abzüglich Wertberichtigungen; und
+
 - 2\. dem Anteil der natürlichen Personen an Verzugszinsen und Bussen abzüglich Ertragsminderungen und Verwaltungskosten.
 
 <sup>2</sup> Die Nettosteuererträge der natürlichen Personen je Einheit ergeben sich aus den Nettosteuererträgen gemäss Abs. 1 geteilt durch den jeweils massgebenden Kantonssteuerfuss.
 
-#### Art. 7
+#### Art. 7 c
 
-**c) juristische Personen**
+**) juristische Personen**
 
 <sup>1</sup> Die Nettosteuererträge der juristischen Personen ergeben sich aus dem Anteil des Kantons an den Erträgen je Gemeinde aus:
 
 - 1\. der Gewinnsteuer, der Kapitalsteuer sowie der Nach- und Strafsteuer der juristischen Personen abzüglich Wertberichtigungen; und
+
 - 2\. dem Anteil der juristischen Personen an Verzugszinsen und Bussen abzüglich Ertragsminderungen und Verwaltungskosten.
 
 <sup>2</sup> Diese Nettosteuererträge werden gestützt auf den jeweils massgebenden Kantonsanteil am Ertrag der Gewinn- und Kapitalsteuer auf 100 Prozent hochgerechnet. Dieser Betrag wird durch 2.4 geteilt; dieser Teiler gilt bei einem ordentlichen Gewinnsteuersatz von 6 Prozent; er wird bei abweichenden Gewinnsteuersätzen verhältnismässig angepasst.
@@ -111,15 +124,15 @@ beschliesst:
 
 **3. Finanzkraftindex**
 
-<sup>1</sup> Der Finanzkraftindex ergibt sich aus der Teilung des Finanzkraftfaktors der Gemeinde durch das gewogene kantonale Mittel.
+Der Finanzkraftindex ergibt sich aus der Teilung des Finanzkraftfaktors der Gemeinde durch das gewogene kantonale Mittel.
 
 #### Art. 10
 
 **4. gewichteter Steuerfuss**
 
-<sup>1</sup> Der gewichtete Steuerfuss entspricht der Summe der Nettosteuererträge aller Gemeinden geteilt durch die Nettosteuererträge je Einheit aller Gemeinden.
+Der gewichtete Steuerfuss entspricht der Summe der Nettosteuererträge aller Gemeinden geteilt durch die Nettosteuererträge je Einheit aller Gemeinden.
 
-## 2 Finanzierung des direkten Finanzausgleichs
+### II. FINANZIERUNG DES DIREKTEN FINANZAUSGLEICHS
 
 #### Art. 11
 
@@ -131,42 +144,39 @@ beschliesst:
 
 #### Art. 12
 
-**Leistungen der Gemeinden 1. Leistungspflicht**
+**Leistungen der Gemeinden**
+
+### 1. Leistungspflicht
 
 <sup>1</sup> Die Politischen Gemeinden, deren Finanzkraftindex 90 Prozent des gewogenen kantonalen Mittels übersteigt, haben für den direkten Finanzausgleich Leistungen zu erbringen.
 
 <sup>2</sup> Die Leistungen der finanzstarken Politischen Gemeinden entsprechen dem Produkt von:
 
 - 1\. Einwohnerzahl gemäss Art. 4 Abs. 2;
+
 - 2\. Finanzkraftfaktor gemäss Art. 8 Abs. 1;
+
 - 3\. Abgabesatz gemäss Art. 13.
 
 #### Art. 13
 
 **2. Abgabesatz**
 
-<sup>1</sup> Der Abgabesatz richtet sich nach dem Finanzkraftindex gemäss der nachstehenden Tabelle:
+Der Abgabesatz richtet sich nach dem Finanzkraftindex gemäss der nachstehenden Tabelle:
 
-<table>
-<tr><th>Finanzkraftindex</th><th>Abgabesatz in Prozenten</th></tr>
-<tr><td>90 Indexpunkte</td><td>4.400</td></tr>
-<tr><td>für die nächsten 5 Indexpunkte, je zusätzlich</td><td>0.352</td></tr>
-<tr><td>für die nächsten 5 Indexpunkte, je zusätzlich</td><td>0.396</td></tr>
-<tr><td>für die nächsten 10 Indexpunkte, je zusätzlich</td><td>0.440</td></tr>
-<tr><td>für die nächsten 10 Indexpunkte, je zusätzlich</td><td>0.484</td></tr>
-<tr><td>für die nächsten 10 Indexpunkte, je zusätzlich</td><td>0.528</td></tr>
-<tr><td>für die nächsten 10 Indexpunkte, je zusätzlich</td><td>0.572</td></tr>
-<tr><td>für die nächsten 10 Indexpunkte, je zusätzlich</td><td>0.616</td></tr>
-<tr><td>für die nächsten 10 Indexpunkte, je zusätzlich</td><td>0.660</td></tr>
-<tr><td>für die nächsten 20 Indexpunkte, je zusätzlich</td><td>0.704</td></tr>
-<tr><td>ab 181 Indexpunkten</td><td>55.220</td></tr>
-</table>
+### Finanzkraftindex Abgabesatz in Prozenten
+
+**4.400 0.352 0.396 0.440 0.484 0.528 0.572 0.616 0.660 0.704 55.220**
+
+90 Indexpunkte für die nächsten 5 Indexpunkte, je zusätzlich für die nächsten 5 Indexpunkte, je zusätzlich für die nächsten 10 Indexpunkte, je zusätzlich für die nächsten 10 Indexpunkte, je zusätzlich für die nächsten 10 Indexpunkte, je zusätzlich für die nächsten 10 Indexpunkte, je zusätzlich für die nächsten 10 Indexpunkte, je zusätzlich für die nächsten 10 Indexpunkte, je zusätzlich für die nächsten 20 Indexpunkte, je zusätzlich ab 181 Indexpunkten
 
 #### Art. 14
 
-**Leistungen des Kantons 1. Grundsatz**
+**Leistungen des Kantons**
 
-<sup>1</sup> Der Kanton stellt für den direkten Finanzausgleich jährlich 15 Prozent der Nettosteuererträge je Einheit gemäss Art. 5 Abs. 1 zur Verfügung.
+### 1. Grundsatz
+
+Der Kanton stellt für den direkten Finanzausgleich jährlich 15 Prozent der Nettosteuererträge je Einheit gemäss Art. 5 Abs. 1 zur Verfügung.
 
 #### Art. 15
 
@@ -178,22 +188,25 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat wird ermächtigt, die Obergrenze bei der Festsetzung des direkten Finanzausgleichs um höchstens 0.5 Mio. Franken zu erhöhen. Er ist dabei nicht an die verfassungsmässigen Finanzkompetenzen gebunden.
 
-## 3 Verteilung der Finanzausgleichsmittel
+### III. VERTEILUNG DER FINANZAUSGLEICHSMITTEL
 
-### 3.1 Verhältnis der Ausgleichsmittel
+### A. Verhältnis der Ausgleichsmittel
 
 #### Art. 16
 
 **Grundsatz**
 
-<sup>1</sup> Für den direkten Finanzausgleich stehen zur Verfügung:
+Für den direkten Finanzausgleich stehen zur Verfügung:
 
 - 1\. für den Normausgleich Volksschule 5.4 Mio. Franken, vorbehalten bleibt eine Kürzung gemäss Art. 19;
+
 - 2\. für den Normausgleich Wohnbevölkerung 1.3 Mio. Franken;
+
 - 3\. für den Lastenausgleich für den Schutz vor Naturereignissen höchstens 10 Prozent der gesamten Finanzausgleichsmittel;
+
 - 4\. für den Finanzkraftausgleich die verbleibenden Finanzausgleichsmittel.
 
-### 3.2 Normausgleich Volksschule
+### B. Normausgleich Volksschule
 
 #### Art. 17
 
@@ -202,6 +215,7 @@ beschliesst:
 <sup>1</sup> Die Finanzausgleichsmittel für den Normausgleich Volksschule werden ausgerichtet an:
 
 - 1\. Schulgemeinden;
+
 - 2\. Politische Gemeinden, sofern die Schulgemeinde aufgehoben wurde.
 
 <sup>2</sup> Anspruch haben diejenigen Gemeinden, deren Schülerzahl geteilt durch die Einwohnerzahl (Schülerquote) über der durchschnittlichen Schülerquote aller Gemeinden liegt.
@@ -226,7 +240,7 @@ beschliesst:
 
 [^19-1]: Harmonisiertes Rechnungsmodell vom 25. Januar 2008 der kantonalen Finanzdirektorinnen und Finanzdirektoren
 
-### 3.3 Normausgleich Wohnbevölkerung
+### C. Normausgleich Wohnbevölkerung
 
 #### Art. 20
 
@@ -246,7 +260,7 @@ beschliesst:
 
 <sup>3</sup> Zur Berechnung dieses Beitrags je Einwohnerin oder Einwohner werden die Finanzausgleichsmittel, die nach Abzug gemäss Abs. 1 für den Normausgleich Wohnbevölkerung zur Verfügung stehen, durch die Summe der Einwohnerinnen und Einwohner gemäss Abs. 2 geteilt.
 
-### 3.4 Lastenausgleich für den Schutz vor Naturereignissen
+### D. Lastenausgleich für den Schutz vor Naturereignissen
 
 #### Art. 22
 
@@ -263,7 +277,9 @@ beschliesst:
 <sup>1</sup> Der massgebende Aufwand der Politischen Gemeinden für bauliche und technische Massnahmen wird wie folgt berechnet:
 
 - 1\. Abschreibungen für bauliche Massnahmen gemäss Art. 40 des Gesetzes über die Gewässer (Gewässergesetz, GewG)[^23-1];
+
 - 2\. Abschreibungen für technische Massnahmen gemäss Art. 22 des Einführungsgesetzes zum Bundesgesetz über den Wald (Kantonales Waldgesetz, kWaG)[^23-2];
+
 - 3\. Aufwand für die Verzinsung der Buchwerte gemäss Ziff. 1 und 2.
 
 <sup>2</sup> Die Abschreibungen werden gemäss der Gemeindefinanzhaushaltgesetzgebung[^23-3] vorgenommen.
@@ -282,7 +298,7 @@ beschliesst:
 
 <sup>2</sup> Reichen die für den Lastenausgleich für den Schutz vor Naturereignissen zur Verfügung stehenden Mittel nicht aus, erfolgt eine anteilsmässige Kürzung.
 
-### 3.5 Finanzkraftausgleich
+### E. Finanzkraftausgleich
 
 #### Art. 25
 
@@ -304,9 +320,9 @@ beschliesst:
 
 **Zuteilung innerhalb der Gemeinde**
 
-<sup>1</sup> Die Finanzkraftausgleichsbeiträge werden je Gemeinde zu 40 Prozent an die Politische Gemeinde und zu 60 Prozent an die Schulgemeinde zugeteilt.
+Die Finanzkraftausgleichsbeiträge werden je Gemeinde zu 40 Prozent an die Politische Gemeinde und zu 60 Prozent an die Schulgemeinde zugeteilt.
 
-## 4 Verfahren
+### IV. VERFAHREN
 
 #### Art. 28
 
@@ -331,10 +347,15 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat hat Finanzausgleichsbeiträge zu kürzen oder zu verweigern, wenn die Gemeinden:
 
 - 1\. die Einsichtnahme in die Berechnungsunterlagen behindern oder verwehren;
+
 - 2\. gegen Vorschriften der Gemeindefinanzhaushaltgesetzgebung[^30-1] verstossen;
+
 - 3\. die durch die Finanzlage und die Steuerbelastung gebotene Beschränkung der Ausgaben nicht einhalten;
+
 - 4\. durch Steuern Ausgaben decken, die auf anderem Wege bestritten werden können;
+
 - 5\. wiederholt mehr Steuern beziehen, als notwendig sind;
+
 - 6\. wiederholt weniger Steuern beziehen, als zur Deckung des Finanzbedarfes nach Abzug der direkten Finanzausgleichsbeiträge noch nötig wären.
 
 <sup>2</sup> Unter den gleichen Voraussetzungen kann der Regierungsrat bereits ausbezahlte Finanzausgleichsbeiträge zurückfordern.
@@ -351,11 +372,13 @@ beschliesst:
 
 [^31-1]: NG 265.1
 
-## 5 Aufsicht und Wirksamkeitsprüfung
+### V. AUFSICHT UND WIRKSAMKEITSPRÜFUNG
 
 #### Art. 32
 
-**Ausgabenbeschlüsse 1. Vorprüfungspflicht**
+**Ausgabenbeschlüsse**
+
+### 1. Vorprüfungspflicht
 
 <sup>1</sup> Gemeinden, die im laufenden Jahr oder im Vorjahr Beiträge aus dem Normausgleich Volksschule, Normausgleich Wohnbevölkerung oder dem Finanzkraftausgleich erhalten haben, müssen Investitionsvorhaben und wiederkehrende Aufwendungen, deren jährliche Folgekosten mehr als 15 Prozent der Nettosteuererträge je Einheit gemäss Art. 5 betragen, der Direktion zur Vorprüfung einreichen.
 
@@ -375,25 +398,28 @@ beschliesst:
 
 **Wirksamkeitsprüfung**
 
-<sup>1</sup> Der Regierungsrat überprüft alle vier Jahre die Auswirkungen dieses Gesetzes und unterbreitet dem Landrat einen Bericht und allfällige Anträge.
+Der Regierungsrat überprüft alle vier Jahre die Auswirkungen dieses Gesetzes und unterbreitet dem Landrat einen Bericht und allfällige Anträge.
 
-## 6 Vollzugs , Übergangs- und Schlussbestimmungen
+### VI. VOLLZUGS-, ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 35
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
 
 #### Art. 36
 
-**Übergangsbestimmungen 1. mildernde Übergangsbeiträge**
+**Übergangsbestimmungen**
+
+### 1. mildernde Übergangsbeiträge
 
 <sup>1</sup> Der Kanton richtet zur finanziellen Abfederung zusätzliche Beiträge an diejenigen Gemeinden aus, die im ersten Jahr nach Inkrafttreten dieses Gesetzes weniger Mittel aus dem Finanzausgleich erhalten als bei der letzten Festsetzung vor der Umstellung.
 
 <sup>2</sup> Als mildernde Übergangsbeiträge stehen zur Verfügung:
 
 - 1\. 1 Mio. Franken im ersten Jahr nach dem Inkrafttreten dieses Gesetzes;
+
 - 2\. 0.5 Mio. Franken im zweiten Jahr nach Inkrafttreten dieses Gesetzes.
 
 <sup>3</sup> Die Verteilung an die Gemeinden erfolgt im Verhältnis der erstmaligen Reduktion der Finanzausgleichsbeiträge.
@@ -412,13 +438,13 @@ beschliesst:
 
 **3. Wirksamkeitsprüfung**
 
-<sup>1</sup> Die erste Wirksamkeitsprüfung nach Inkrafttreten dieses Gesetzes erfolgt im Jahr 2023.
+Die erste Wirksamkeitsprüfung nach Inkrafttreten dieses Gesetzes erfolgt im Jahr 2023.
 
 #### Art. 39
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Gesetz vom 17. April 2002 über den direkten Finanzausgleich (Finanzausgleichsgesetz, FAG)[^39-1] wird aufgehoben.
+Das Gesetz vom 17. April 2002 über den direkten Finanzausgleich (Finanzausgleichsgesetz, FAG)[^39-1] wird aufgehoben.
 
 [^39-1]: A 2001, 569, 1178
 
@@ -428,8 +454,4 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest[^40-1].
-
-[^40-1]: In Kraft seit 1. Januar 2020
-
-A 2019, 916, 1395
+<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.
