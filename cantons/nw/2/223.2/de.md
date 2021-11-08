@@ -5,38 +5,38 @@ title: Regierungsratsbeschluss über den Normalarbeitsvertrag für Arbeitnehmeri
 short: NAV Landwirtschaft
 language: de
 version: 1997-07-01
-valid_until: 2023-03-31
+corrected: 2021-11-09
 version_adopted: 1997-04-14
 adopted: 2023-03-07
 in_force: 2023-04-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/223.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/844/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/81/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Regierungsratsbeschluss über den Normalarbeitsvertrag für Arbeitnehmerinnen und Arbeitnehmer in der Landwirtschaft
+# Regierungsratsbeschluss über den Normalarbeitsvertrag für Arbeitnehmerinnen und Arbeitnehmer in der Landwirtschaft (NAV Landwirtschaft)
 
-(NAV Landwirtschaft)
-
-vom 14.04.1997 (Stand 01.07.1997)
+vom 14. April 1997[^t-1]
 
 Der Regierungsrat
 
-gestützt auf § 15 der Einführungsverordnung vom 3. Juli 1976 zum Obligationenrecht[^ingress-1], in Ausführung der Art. 359, 359a und 360 des Schweizerischen Obligationenrechts vom 30. März 1911[^ingress-2],
+gestützt auf § 15 der Einführungsverordnung vom 3. Juli 1976 zum Obligationenrecht[^t-2], in Ausführung der Art. 359, 359a und 360 des Schweizerischen Obligationenrechts vom 30. März 1911[^t-3],
 
 beschliesst:
 
-[^ingress-1]: NG 221.1
-[^ingress-2]: SR 220
+[^t-1]: A 1997, 627
+[^t-2]: NG 221.1
+[^t-3]: SR 220
 
-## 1 Geltungsbereich
+### I. GELTUNGSBEREICH
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Bestimmungen dieses Normalarbeitsvertrages gelten unmittelbar für alle Arbeitsverhältnisse zwischen Personen, die ausschliesslich oder überwiegend in einem landwirtschaftlichen Betrieb oder landwirtschaftlichen Haushalt im Kanton Nidwalden beschäftigt sind (nachstehend Personal genannt) und ihren Arbeitgeberinnen und Arbeitgebern (nachstehend Arbeitgeberschaft genannt).
+<sup>1</sup> Die Bestimmungen dieses Normalarbeitsvertrages gelten unmittelbar für alle Arbeitsverhältnisse zwischen Personen, die ausschliesslich oder überwiegend in einem landwirtschaftlichen Betrieb oder landwirtschaftlichen Haushalt im Kanton Nidwalden beschäftigt sind (nachstehend Personal genannt) und ihren Arbeitgeberinnen und Arbeitgebern (nachste-hend Arbeitgeberschaft genannt).
 
 <sup>2</sup> Abreden, die von den Bestimmungen dieses Normalarbeitsvertrages abweichen, bedürfen zu ihrer Gültigkeit der schriftlichen Form.
 
@@ -44,13 +44,13 @@ beschliesst:
 
 <sup>4</sup> Die zwingenden Vorschriften des Schweizerischen Obligationenrechtes bleiben vorbehalten.
 
-## 2 Probezeit und Beendigung des Arbeitsverhältnisses
+### II. PROBEZEIT UND BEENDIGUNG DES ARBEITSVERHÄLTNIS-SES
 
 #### § 2
 
 **Probezeit**
 
-<sup>1</sup> Die ersten zwei Wochen des Arbeitsverhältnisses gelten als Probezeit.
+Die ersten zwei Wochen des Arbeitsverhältnisses gelten als Probezeit.
 
 #### § 3
 
@@ -59,26 +59,28 @@ beschliesst:
 <sup>1</sup> Das Arbeitsverhältnis kann von den Vertragsparteien wie folgt gekündigt werden:
 
 - 1\. während der Probezeit auf das Ende des der Kündigung folgenden dritten Tages;
+
 - 2\. nach Ablauf der Probezeit bis und mit dem fünften Dienstjahr mit einer Kündigungsfrist von zwei Monaten auf das Ende eines Monats;
+
 - 3\. ab dem sechsten Dienstjahr mit einer Kündigungsfrist von drei Monaten auf das Ende eines Monats.
 
 <sup>2</sup> Wird dem Personal von der Arbeitgeberschaft eine Unterkunft überlassen, erlischt mit der Auflösung des Arbeitsverhältnisses auch das Recht auf die Benützung der Wohngelegenheit.
 
-## 3 Einsatz und Weiterbildung des Personals
+### III. EINSATZ UND WEITERBILDUNG DES PERSONALS
 
 #### § 4
 
 **Einsatz**
 
-<sup>1</sup> Das Personal ist seiner Ausbildung und seinen Fähigkeiten entsprechend einzusetzen.
+Das Personal ist seiner Ausbildung und seinen Fähigkeiten entsprechend einzusetzen.
 
 #### § 5
 
 **Weiterbildung**
 
-<sup>1</sup> Die Arbeitgeberschaft fördert die berufliche Weiterbildung des Personals. Berufsbezogene Weiterbildung, die auf Veranlassung der Arbeitgeberschaft erfolgt, gilt als Arbeitszeit.
+Die Arbeitgeberschaft fördert die berufliche Weiterbildung des Personals. Berufsbezogene Weiterbildung, die auf Veranlassung der Arbeitgeberschaft erfolgt, gilt als Arbeitszeit.
 
-## 4 Arbeitszeit, Freizeit, Ferien und Urlaub
+### IV. ARBEITSZEIT, FREIZEIT, FERIEN UND URLAUB
 
 #### § 6
 
@@ -100,7 +102,7 @@ beschliesst:
 
 **Freizeit**
 
-<sup>1</sup> Das Personal hat Anspruch auf fünf arbeitsfreie Tage je Monat. In der Regel sollen wenigstens zwei davon auf einen Sonntag fallen.
+Das Personal hat Anspruch auf fünf arbeitsfreie Tage je Monat. In der Regel sollen wenigstens zwei davon auf einen Sonntag fallen.
 
 #### § 9
 
@@ -109,7 +111,9 @@ beschliesst:
 <sup>1</sup> Das Personal hat folgende Ferienansprüche je Dienstjahr:
 
 - 1\. bis zum vollendeten 20. Altersjahr fünf Wochen;
+
 - 2\. nach vollendetem 50. Altersjahr fünf Wochen, sofern mindestens fünf Dienstjahre im gleichen Betrieb geleistet wurden;
+
 - 3\. alle Übrigen vier Wochen.
 
 <sup>2</sup> Wird das Arbeitsverhältnis während eines Kalenderjahres begründet oder aufgelöst, sind die Ferien anteilsmässig zu gewähren.
@@ -122,18 +126,33 @@ beschliesst:
 
 **Urlaub**
 
-<sup>1</sup> Das Personal hat nach erfolgter Meldung an die Arbeitgeberschaft Anrecht auf folgende bezahlte Urlaubstage, ohne dass diese an die Ferien oder Freizeit angerechnet werden:
+Das Personal hat nach erfolgter Meldung an die Arbeitgeberschaft Anrecht auf folgende bezahlte Urlaubstage, ohne dass diese an die Ferien oder Freizeit angerechnet werden:
 
-- 1\. für die Vermählung: — 2 Tage
-- 2\. bei Vermählung von Kindern, Geschwistern oder eines Elternteils: — 1 Tag
-- 3\. Geburt eines eigenen Kindes (Taufe eingeschlossen): — 2 Tage
+**2 Tage**
+
+- 1\. für die Vermählung
+
+- 2\. bei Vermählung von Kindern, Geschwistern oder eines Elternteils
+
+**1 Tag**
+
+- 3\. Geburt eines eigenen Kindes (Taufe eingeschlossen) 2 Tage
+
 - 4\. bei Todesfall:
-  - a) des Ehegatten oder eines Kindes: — 4 Tage
-  - b) von Eltern oder Geschwistern: — 2 Tage
-- 5\. Wohnungswechsel: — 1 Tag
-- 6\. militärische Rekrutierung sowie Entlassung aus der Wehrpflicht: — 1 Tag
 
-## 5 Lohn
+**4 Tage 2 Tage 1 Tag**
+
+- a) des Ehegatten oder eines Kindes
+
+- b) von Eltern oder Geschwistern
+
+- 5\. Wohnungswechsel
+
+**1 Tag**
+
+- 6\. militärische Rekrutierung sowie Entlassung aus der Wehrpflicht
+
+### V. LOHN
 
 #### § 11
 
@@ -157,7 +176,7 @@ beschliesst:
 
 **Auszahlung**
 
-<sup>1</sup> Dem Personal ist auf Ende jedes Monats eine detaillierte schriftliche Lohnabrechnung mit Bruttolohn, Zuschlägen, Abzügen sowie nicht beanspruchten Naturalleistungen auszuhändigen.
+Dem Personal ist auf Ende jedes Monats eine detaillierte schriftliche Lohnabrechnung mit Bruttolohn, Zuschlägen, Abzügen sowie nicht beanspruchten Naturalleistungen auszuhändigen.
 
 #### § 14
 
@@ -171,20 +190,25 @@ beschliesst:
 
 #### § 15
 
-**Lohn bei unverschuldeter Verhinderung an der Arbeitsleistung**
+**Lohn bei unverschuldeter Verhinderung an der Ar-**
+
+beitsleistung
 
 <sup>1</sup> Wird das Personal aus persönlichen Gründen, wie Krankheit, Unfall, Erfüllung gesetzlicher Pflichten oder Ausübung eines öffentlichen Amtes, ohne sein Verschulden an der Arbeitsleistung verhindert, so besteht in folgendem Umfang Anspruch auf Unterhalt und Lohn, sofern das Arbeitsverhältnis mehr als drei Monate gedauert hat oder für mehr als drei Monate eingegangen worden ist (Art. 324a OR):
 
-- 1\. im 1. und 2. Dienstjahr: — 1 Monat
-- 2\. im 3. bis 5. Dienstjahr: — 2 Monate
-- 3\. im 6. bis 10. Dienstjahr: — 3 Monate
-- 4\. ab dem 11. Dienstjahr: — 4 Monate
+- 1\. im 1. und 2. Dienstjahr 1 Monat
+
+- 2\. im 3. bis 5. Dienstjahr 2 Monate
+
+- 3\. im 6. bis 10. Dienstjahr 3 Monate
+
+- 4\. ab dem 11. Dienstjahr 4 Monate
 
 <sup>2</sup> Bei Schwangerschaft, Niederkunft und Mutterschaft der Arbeitnehmerin hat die Arbeitgeberschaft den Lohn im gleichen Umfang zu entrichten.
 
 <sup>3</sup> Die Arbeitgeberschaft kann ein ärztliches Zeugnis vom Personal verlangen, wenn dieses aus gesundheitlichen Gründen (im Sinne von Abs. 1 und 2) während mehr als drei Tagen an der Arbeitsleistung verhindert ist. In Zweifelsfällen kann die Arbeitgeberschaft vom ersten Tag an ein Zeugnis verlangen.
 
-## 6 Versicherungen
+### VI. VERSICHERUNGEN
 
 #### § 16
 
@@ -239,29 +263,33 @@ beschliesst:
 
 <sup>1</sup> Die Höhe der Abgangsentschädigung nach Art. 339b und Art. 339c des Schweizerischen Obligationenrechtes beträgt:
 
-- 1\. bei 20–25 Dienstjahren: — zwei Monatslöhne
-- 2\. bei 26–30 Dienstjahren: — drei Monatslöhne
-- 3\. bei 31–35 Dienstjahren: — vier Monatslöhne
-- 4\. bei 36–40 Dienstjahren: — fünf Monatslöhne
-- 5\. bei über 40 Dienstjahren: — sechs Monatslöhne
+- 1\. bei 20-25 Dienstjahren zwei Monatslöhne
+
+- 2\. bei 26-30 Dienstjahren drei Monatslöhne
+
+- 3\. bei 31-35 Dienstjahren vier Monatslöhne
+
+- 4\. bei 36-40 Dienstjahren fünf Monatslöhne
+
+- 5\. bei über 40 Dienstjahren sechs Monatslöhne
 
 <sup>2</sup> Die auszuzahlenden Monatslöhne richten sich in der Höhe nach dem zuletzt bezogenen Bruttolohn (Bar- und Naturallohn).
 
 <sup>3</sup> Ersatzleistungen einer Personalfürsorgeeinrichtung können von der Abgangsentschädigung abgezogen werden, soweit sie von der Arbeitgeberschaft oder aufgrund derer Zuwendungen von der Personalfürsorgeeinrichtung finanziert worden sind.
 
-## 7 Schlussbestimmungen
+### VII. SCHLUSSBESTIMMUNGEN
 
 #### § 21
 
 **Streitigkeiten**
 
-<sup>1</sup> Bei Streitigkeiten über das Arbeitsverhältnis finden insbesondere die Bestimmungen der Einführungsverordnung zum Obligationenrecht Anwendung.
+Bei Streitigkeiten über das Arbeitsverhältnis finden insbesondere die Bestimmungen der Einführungsverordnung zum Obligationenrecht Anwendung.
 
 #### § 22
 
 **Aushändigung**
 
-<sup>1</sup> Bei Abschluss des Arbeitsvertrages hat die Arbeitgeberschaft dem Personal ein Exemplar dieses Normalarbeitsvertrages auszuhändigen.
+Bei Abschluss des Arbeitsvertrages hat die Arbeitgeberschaft dem Personal ein Exemplar dieses Normalarbeitsvertrages auszuhändigen.
 
 #### § 23
 
@@ -274,5 +302,3 @@ beschliesst:
 <sup>3</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere der Regierungsratsbeschluss vom 1. Juli 1985 über den Normalarbeitsvertrag für Arbeitnehmer in der Landwirtschaft.[^23-1]
 
 [^23-1]: A 1985, 818
-
-A 1997, 627
