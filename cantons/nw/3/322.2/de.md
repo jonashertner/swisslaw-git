@@ -5,38 +5,39 @@ title: Gesetz über den Schutz der Kulturdenkmäler
 short: "Denkmalschutzgesetz, DSchG"
 language: de
 version: 2021-01-01
-valid_until: 2024-05-31
+corrected: 2021-11-09
 version_adopted: 2020-05-27
 adopted: 2004-02-04
 in_force: 2004-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/322.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/863/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/169/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über den Schutz der Kulturdenkmäler
+# Gesetz über den Schutz der Kulturdenkmäler (Denkmalschutzgesetz, DSchG)
 
-(Denkmalschutzgesetz, DSchG)
-
-vom 04.02.2004 (Stand 01.01.2021)
+vom 4. Februar 2004[^t-2][^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 22 und 60 der Kantonsverfassung, in Ausführung von Art. 6, 702, 723 und 724 des Schweizerischen Zivilgesetzbuches (ZGB)[^ingress-1] sowie der Bundesgesetzgebung über den Natur- und Heimatschutz[^ingress-2],
+gestützt auf Art. 22 und 60 der Kantonsverfassung, in Ausführung von Art. 6, 702, 723 und 724 des Schweizerischen Zivilgesetzbuches (ZGB)[^t-3] sowie der Bundesgesetzgebung über den Natur- und Heimatschutz[^t-4],
 
 beschliesst:
 
-[^ingress-1]: SR 210
-[^ingress-2]: SR 451
+[^t-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
+[^t-2]: A 2004, 213, 1111; vom Bund genehmigt am 5. März 2004; Datum des Inkrafttretens: 1. Juli 2004
+[^t-3]: SR 210
+[^t-4]: SR 451
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz bezweckt Ortsbilder, geschichtliche Stätten sowie Kulturdenkmäler zu schonen, zu schützen sowie ihre Erhaltung und Pflege zu fördern.
+Dieses Gesetz bezweckt Ortsbilder, geschichtliche Stätten sowie Kulturdenkmäler zu schonen, zu schützen sowie ihre Erhaltung und Pflege zu fördern.
 
 #### Art. 2
 
@@ -47,7 +48,9 @@ beschliesst:
 <sup>2</sup> Sie erfüllen diese Pflicht, indem sie:
 
 - 1\. eigene Bauten und Anlagen entsprechend gestalten und unterhalten oder gänzlich auf ihre Errichtung verzichten;
+
 - 2\. Konzessionen und Bewilligungen nur unter Bedingungen oder Auflagen erteilen oder aber verweigern;
+
 - 3\. Beiträge nur bedingt gewähren oder ablehnen.
 
 #### Art. 3
@@ -58,49 +61,61 @@ beschliesst:
 
 <sup>2</sup> Sie arbeiten bei der Information sowie bei der Vorbereitung und beim Vollzug von Schutzmassnahmen untereinander und mit Dritten zusammen.
 
-## 2 Schutzobjekte
+### II. SCHUTZOBJEKTE
 
 #### Art. 4
 
 **Schutzobjekte**
 
-<sup>1</sup> Schutzobjekte sind:
+Schutzobjekte sind:
 
 - 1\. Ortsbilder, Siedlungen, Gebäudegruppen, Einzelgebäude und Gebäudeteile sowie Zugehör von solchen, die als wichtige Zeugen einer baukulturellen, politischen, wirtschaftlichen oder sozialen Epoche oder Einzelereignisse erhaltenswürdig sind oder die ein Landschaftsbild wesentlich mitprägen, unter Einbezug der für ihre Wirkung wesentlichen Umgebung;
+
 - 2\. vorgeschichtliche oder geschichtliche Stätten und ortsgebundene Gegenstände sowie Gebiete von archäologischer Bedeutung;
+
 - 3\. Werke menschlicher Tätigkeit, die wegen ihrer wissenschaftlichen, künstlerischen, kulturellen, historischen oder heimatkundlichen Bedeutung zu erhalten sind.
 
 #### Art. 5
 
-**Inventare 1. Aufnahme der Objekte**
+**Inventare**
 
-<sup>1</sup> Zur Bestandesaufnahme erarbeiten der Kanton und die Gemeinden gemeinsam Inventare der schutzwürdigen und der unter Schutz gestellten Objekte. Inventare der schutzwürdigen Objekte entfalten keine Rechtswirkung gegenüber Eigentümerinnen und Eigentümern.
+### 1. Aufnahme der Objekte
+
+<sup>1</sup> Zur Bestandesaufnahme erarbeiten der Kanton und die Gemeinden gemeinsam Inventare der schutzwürdigen und der unter Schutz gestellten Objekte. Inventare der schutzwürdigen Objekte entfalten keine Rechtswirkung gegenüber Eigentümerinnen und Eigentümern.[^h1AufnahmederObje-1]
 
 <sup>2</sup> Die Inventare werden je separat für den Ortsbildschutz, den Denkmalschutz und die Bodenaltertümer erstellt.
 
-<sup>3</sup> Sie sind regelmässig nachzuführen.
+<sup>3</sup> Sie sind regelmässig nachzuführen.[^h1AufnahmederObje-1]
+
+[^h1AufnahmederObje-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 6
 
-**2. Inhalt, Einsichtnahme**
+**2. Inhalt, Einsichtnahme[^h1AufnahmederObje-1]**
 
 <sup>1</sup> Die Inventare enthalten:
 
 - 1\. die Umschreibung der Objekte;
+
 - 2\. die Einstufung der Objekte und die dazu massgebenden Kriterien;
+
 - 3\. die getroffenen Schutzmassnahmen bei geschützten Objekten.
 
 <sup>2</sup> Die Inventare der Ortsbilder enthalten zusätzlich Angaben über die für das Ortsbild wichtigen:
 
 - 1\. Einzelobjekte und Gebäudegruppen;
+
 - 2\. Gebäudefluchten und Firstrichtungen;
+
 - 3\. Freiräume und Bäume.
 
 <sup>3</sup> Die Inventare können bei der zuständigen Direktion sowie bei der örtlichen Gemeindekanzlei eingesehen werden.
 
+[^6-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
+
 #### Art. 7
 
-**3. Einstufung der geschützten Objekte**
+**3. Einstufung der geschützten Objekte[^6-1]**
 
 <sup>1</sup> Die geschützten Objekte werden in solche von nationaler, regionaler oder lokaler Bedeutung unterteilt.
 
@@ -108,26 +123,29 @@ beschliesst:
 
 <sup>3</sup> Geschützte Objekte von nationaler Bedeutung werden vom Bund bezeichnet.
 
-## 3 Schutz der Ortsbilder
+### III. SCHUTZ DER ORTSBILDER
 
 #### Art. 8
 
 **Ortsbildschutz**
 
-<sup>1</sup> Der Ortsbildschutz richtet sich nach den Bestimmungen der Planungs- und Baugesetzgebung[^8-1].
+<sup>1</sup> Der Ortsbildschutz richtet sich nach den Bestimmungen der Planungs- und Baugesetzgebung[^8-1].[^8-2]
 
 <sup>2</sup> Der Ortsbildschutz wird sichergestellt durch:
 
 - 1\. den kantonalen Richtplan;
+
 - 2\. Schutzzonen in den Zonenplänen und Vorschriften in den Bau- und Zonenreglementen der Gemeinden.
 
-<sup>3</sup> Die Baubewilligungsbehörde darf im Bereich von geschützten Ortsbildern Neubauten und wesentliche Umbauten nur gestützt auf eine Stellungnahme der Kommission für Denkmalpflege bewilligen.
+<sup>3</sup> Die Baubewilligungsbehörde darf im Bereich von geschützten Ortsbildern Neubauten und wesentliche Umbauten nur gestützt auf eine Stellungnahme der Kommission für Denkmalpflege bewilligen.[^8-3]
 
-<sup>4</sup> Für Bauten und Anlagen in geschützten Ortsbildern ist vor dem Entscheid über die Bewilligung eines Abbruchs die Genehmigung der Kommission für Denkmalpflege einzuholen.
+<sup>4</sup> Für Bauten und Anlagen in geschützten Ortsbildern ist vor dem Entscheid über die Bewilligung eines Abbruchs die Genehmigung der Kommission für Denkmalpflege einzuholen.[^8-2]
 
-<sup>5</sup> Die Abbruchbewilligung ist zu verweigern, wenn berechtigte Interessen der Denkmalpflege entgegenstehen.
+<sup>5</sup> Die Abbruchbewilligung ist zu verweigern, wenn berechtigte Interessen der Denkmalpflege entgegenstehen.[^8-2]
 
 [^8-1]: NG 611.1
+[^8-2]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 874, 2227, 2228; in Kraft seit 1. Januar 2015
+[^8-3]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 9
 
@@ -137,9 +155,9 @@ beschliesst:
 
 <sup>2</sup> Die Gewährung von Beiträgen ist mit Bedingungen und Auflagen zu verbinden, welche die bestimmungsgemässe Verwendung der Beiträge sicherstellen.
 
-## 4 Schutz der Kulturdenkmäler
+### IV. SCHUTZ DER KULTURDENKMÄLER
 
-### 4.1 Unterschutzstellung
+### A. Unterschutzstellung
 
 #### Art. 10
 
@@ -147,16 +165,19 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat ist zuständig, Kulturdenkmäler durch Verfügung unter Schutz zu stellen.
 
-<sup>2</sup> Der Entscheid über die Unterschutzstellung erfolgt von Amtes wegen oder auf Antrag; antragsberechtigt sind:
+<sup>2</sup> Der Entscheid über die Unterschutzstellung erfolgt von Amtes wegen oder auf Antrag; antragsberechtigt sind:[^10-1] 1. die Eigentümerinnen und Eigentümer;
 
-- 1\. die Eigentümerinnen und Eigentümer;
 - 2\. die Kommission für Denkmalpflege;
+
 - 3\. die Gemeinden;
+
 - 4\. die beschwerdeberechtigten Organisationen gemäss Art. 46 Abs. 2.
 
-<sup>3</sup> Eigentümerinnen und Eigentümer, die ein aktuelles Interesse glaubhaft machen, können beantragen, dass ein Kulturdenkmal nicht unter Schutz gestellt wird; binnen Jahresfrist ist der negative Feststellungsentscheid zu treffen oder das Unterschutzstellungsverfahren einzuleiten.
+<sup>3</sup> Eigentümerinnen und Eigentümer, die ein aktuelles Interesse glaubhaft machen, können beantragen, dass ein Kulturdenkmal nicht unter Schutz gestellt wird; binnen Jahresfrist ist der negative Feststellungsentscheid zu treffen oder das Unterschutzstellungsverfahren einzuleiten.[^10-1]
 
-<sup>4</sup> Der Regierungsrat kann von der Unterschutzstellung absehen, wenn diese im Hinblick auf die Bedeutung des zu schützenden Objektes unverhältnismässig hohe Aufwendungen erfordern würde.
+<sup>4</sup> Der Regierungsrat kann von der Unterschutzstellung absehen, wenn diese im Hinblick auf die Bedeutung des zu schützenden Objektes unverhältnismässig hohe Aufwendungen erfordern würde.[^10-1]
+
+[^10-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 11
 
@@ -167,12 +188,16 @@ beschliesst:
 <sup>2</sup> Die Verfügung enthält:
 
 - 1\. die genaue Bezeichnung des Schutzobjektes;
+
 - 2\. den Schutzzweck und die Beschreibung des Schutzwertes;
+
 - 3\. den Schutzumfang sowie allfällige Unterhalts- oder Wiederherstellungsmassnahmen.
+
+[^11-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 12
 
-**Verfahren**
+**Verfahren[^11-1]**
 
 <sup>1</sup> Vor der Unterschutzstellung ist den betroffenen und den weiteren Eigentümerinnen und Eigentümern von im näheren Sichtbereich gelegenen Grundstücken, der Gemeinde sowie den beschwerdeberechtigten Organisationen gemäss Art. 46 Abs. 2 Gelegenheit zu geben, sich zu der beabsichtigten Massnahme schriftlich zu äussern.
 
@@ -190,9 +215,11 @@ beschliesst:
 
 <sup>2</sup> Vorsorgliche Schutzmassnahmen fallen nach einem Jahr dahin. Die Frist steht während des ordentlichen Unterschutzstellungsverfahrens still.
 
+[^13-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
+
 #### Art. 14
 
-**…**
+**…[^13-1]**
 
 #### Art. 15
 
@@ -209,6 +236,7 @@ beschliesst:
 <sup>1</sup> Zu archivieren sind vom Kanton Akten, Pläne, Fotos und alle andern Unterlagen, die im Zusammenhang:
 
 - 1\. mit der Unterschutzstellung von Kulturobjekten stehen;
+
 - 2\. mit Restaurierungsarbeiten dem Kanton im Rahmen des Verfahrens zur Gewährung von Beiträgen einzureichen sind.
 
 <sup>2</sup> Die Bewilligung für Reproduktion und Veröffentlichung von Archivgut ist Sache der Eigentümerin oder des Eigentümers.
@@ -221,7 +249,7 @@ beschliesst:
 
 <sup>2</sup> Er veranlasst die Streichung im Inventar, die Löschung der Anmerkung im Grundbuch und die Veröffentlichung des Aufhebungsbeschlusses im Amtsblatt.
 
-### 4.2 Wirkungen der Unterschutzstellung
+### B. Wirkungen der Unterschutzstellung
 
 #### Art. 18
 
@@ -231,15 +259,17 @@ beschliesst:
 
 <sup>2</sup> Geschützte Kulturdenkmäler dürfen durch bauliche Veränderungen in der Umgebung in ihrer Wirkung nicht beeinträchtigt werden. Als Umgebung gilt der nähere Sichtbereich des Objektes beziehungsweise die in der Nutzungsplanung festgesetzte Schutzzone.
 
-<sup>3</sup> Veränderungen am Schutzobjekt oder in dessen näherem Sichtbereich setzen die Zustimmung der Kommission für Denkmalpflege oder eines Fachausschusses dieser Kommission voraus. Die Kommission kann für bestimmte Aufgaben diese Kompetenz der Fachstelle für Denkmalpflege übertragen.
+<sup>3</sup> Veränderungen am Schutzobjekt oder in dessen näherem Sichtbereich setzen die Zustimmung der Kommission für Denkmalpflege oder eines Fachausschusses dieser Kommission voraus. Die Kommission kann für bestimmte Aufgaben diese Kompetenz der Fachstelle für Denkmalpflege übertragen.[^18-1]
 
 <sup>4</sup> Bei Mobilien kann die Aufbewahrung des Gegenstandes an einem geeigneten, wenn möglich allgemein zugänglichen Ort angeordnet werden.
+
+[^18-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 19
 
 **Duldungspflicht**
 
-<sup>1</sup> Übersteigen Anordnungen in unzumutbarer Weise die allgemeine Pflicht der Eigentümerin oder des Eigentümers, das Schutzobjekt zu unterhalten, ist die Betreuung durch den Kanton im Einvernehmen mit der Eigentümerin oder dem Eigentümer zu übernehmen und von diesen zu dulden; vorbehalten bleiben abweichende Vereinbarungen sowie der Übernahmeanspruch.
+Übersteigen Anordnungen in unzumutbarer Weise die allgemeine Pflicht der Eigentümerin oder des Eigentümers, das Schutzobjekt zu unterhalten, ist die Betreuung durch den Kanton im Einvernehmen mit der Eigentümerin oder dem Eigentümer zu übernehmen und von diesen zu dulden; vorbehalten bleiben abweichende Vereinbarungen sowie der Übernahmeanspruch.
 
 #### Art. 20
 
@@ -273,27 +303,28 @@ beschliesst:
 
 <sup>2</sup> Der Kanton hat ein Vorkaufsrecht in der Höhe des Verkehrswertes. Kommt über den Verkehrswert keine Einigung zustande, wird dieser im Schätzungsverfahren nach dem Enteignungsgesetz[^22-1] festgesetzt.
 
-<sup>3</sup> Bei einer Veräusserung an die Ehegattin oder den Ehegatten beziehungsweise an die Partnerin oder den Partner einer eingetragenen Partnerschaft oder an verwandte oder verschwägerte Personen, sofern diese im Kanton Wohnsitz haben, besteht kein Vorkaufsrecht.
+<sup>3</sup> Bei einer Veräusserung an die Ehegattin oder den Ehegatten beziehungsweise an die Partnerin oder den Partner einer eingetragenen Partnerschaft oder an verwandte oder verschwägerte Personen, sofern diese im Kanton Wohnsitz haben, besteht kein Vorkaufsrecht.[^22-2]
 
 <sup>4</sup> Macht der Kanton nicht binnen eines Monats seit Kenntnis der Veräusserung das Vorkaufsrecht geltend, fällt dieses dahin.
 
 <sup>5</sup> Der Kanton hat der Standortgemeinde Meldung zu erstatten; diese kann binnen Jahresfrist gegenüber dem Kanton ein Vorkaufsrecht geltend machen.
 
 [^22-1]: NG 266.1
+[^22-2]: Fassung gemäss Landratsbeschluss vom 23. Januar 2008, A 2008, 179, 694; in Kraft seit 1. Mai 2008
 
 #### Art. 23
 
 **Ausfuhr geschützter Mobilien aus dem Kanton**
 
-<sup>1</sup> Die beabsichtigte Ausfuhr eines geschützten beweglichen Kulturobjektes aus dem Kantonsgebiet ist in jedem Fall der zuständigen Direktion schriftlich anzuzeigen. Art. 22 findet sinngemäss Anwendung.
+Die beabsichtigte Ausfuhr eines geschützten beweglichen Kulturobjektes aus dem Kantonsgebiet ist in jedem Fall der zuständigen Direktion schriftlich anzuzeigen. Art. 22 findet sinngemäss Anwendung.
 
 #### Art. 24
 
 **Übertragung**
 
-<sup>1</sup> Kraft öffentlichen Rechts erworbene Schutzobjekte können vom Gemeinwesen an Personen des öffentlichen oder des privaten Rechts übertragen werden, wenn dabei Gewähr für die Aufrechterhaltung des Schutzes besteht.
+Kraft öffentlichen Rechts erworbene Schutzobjekte können vom Gemeinwesen an Personen des öffentlichen oder des privaten Rechts übertragen werden, wenn dabei Gewähr für die Aufrechterhaltung des Schutzes besteht.
 
-### 4.3 Entschädigung und Beiträge
+### C. Entschädigung und Beiträge
 
 #### Art. 25
 
@@ -307,22 +338,29 @@ beschliesst:
 
 #### Art. 26
 
-**Beiträge an die Pflege von geschützten Kulturobjekten 1. Voraussetzungen**
+**Beiträge an die Pflege von geschützten Kulturobjekten**
 
-<sup>1</sup> An die Kosten der Erhaltung und der Restaurierung von geschützten Kulturobjekten leistet der Kanton Beiträge im Rahmen der verfügbaren Mittel, soweit über die ordentlichen Unterhaltskosten hinaus Mehraufwendungen entstehen.
+### 1. Voraussetzungen
+
+<sup>1</sup> An die Kosten der Erhaltung und der Restaurierung von geschützten Kulturobjekten leistet der Kanton Beiträge im Rahmen der verfügbaren Mittel, soweit über die ordentlichen Unterhaltskosten hinaus Mehraufwendungen entstehen.[^h1Voraussetzungen-1]
 
 <sup>2</sup> Beiträge werden nur für fachgerecht ausgeführte denkmalpflegerische Aufwendungen gewährt.
 
+[^h1Voraussetzungen-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
+[^h1Voraussetzungen-2]: Fassung gemäss Landratsbeschluss vom 24. Oktober 2007, A 2007, 1734, A 2008, 92; in Kraft seit 1. Januar 2008
+
 #### Art. 27
 
-**2. Bemessung**
+**2. Bemessung[^h1Voraussetzungen-2]**
 
 <sup>1</sup> Die Beitragsbemessung richtet sich nach der Bedeutung der zu schützenden Objekte und der Wirksamkeit der Massnahmen.
 
 <sup>2</sup> Der Kanton leistet Beiträge an die beitragsberechtigten Kosten der vom Bund im Rahmen der Programmvereinbarung unterstützten Massnahmen. Die Leistung des Kantons beträgt höchstens:
 
 - 1\. 65 Prozent für Objekte von nationaler Bedeutung;
+
 - 2\. 50 Prozent für Objekte von regionaler Bedeutung;
+
 - 3\. 35 Prozent für Objekte von lokaler Bedeutung.
 
 <sup>3</sup> Steht das geschützte Kulturobjekt im Eigentum des Kantons oder einer Gemeinde, wird der Beitragssatz um 5 Prozent-Punkte herabgesetzt.
@@ -331,13 +369,15 @@ beschliesst:
 
 <sup>5</sup> Verfügt der Bund im Einzelfall Finanzhilfen und macht er diese von einer bestimmten Leistung des Kantons abhängig, geht diese Leistung zu Lasten des Kantons.
 
-<sup>6</sup> …
+<sup>6</sup> ...[^27-1]
+
+[^27-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 28
 
 **3. Bedingungen und Auflagen**
 
-<sup>1</sup> Der Kanton kann die Zusicherung der Beiträge von Bedingungen und Auflagen abhängig machen, welche die bestimmungsgemässe Verwendung der Beiträge sowie den dauernden Erhalt des Kulturobjektes sicherstellen.
+Der Kanton kann die Zusicherung der Beiträge von Bedingungen und Auflagen abhängig machen, welche die bestimmungsgemässe Verwendung der Beiträge sowie den dauernden Erhalt des Kulturobjektes sicherstellen.
 
 #### Art. 29
 
@@ -353,9 +393,9 @@ beschliesst:
 
 **5. weitere Bestimmungen**
 
-<sup>1</sup> Der Regierungsrat regelt durch Verordnung das Verfahren für die Ausrichtung von Beiträgen, bezeichnet die beitragsberechtigten Kosten, bestimmt die mindestens zu verfügenden Bedingungen und Auflagen und die Voraussetzungen für eine Beitragserhöhung.
+Der Regierungsrat regelt durch Verordnung das Verfahren für die Ausrichtung von Beiträgen, bezeichnet die beitragsberechtigten Kosten, bestimmt die mindestens zu verfügenden Bedingungen und Auflagen und die Voraussetzungen für eine Beitragserhöhung.
 
-## 5 Bodenaltertümer
+### V. BODENALTERTÜMER
 
 #### Art. 31
 
@@ -365,7 +405,9 @@ beschliesst:
 
 <sup>2</sup> Behörden und Amtsstellen haben ihre Wahrnehmungen von planerischen und tatsächlichen Vorgängen, die Bodenaltertümer gefährden können, sofort der Fachstelle zu melden.
 
-<sup>3</sup> Die Fachstelle trifft die notwendigen Vorkehrungen und teilt diese den Behörden, Amtsstellen und betroffenen Eigentümerinnen und Eigentümern mit.
+<sup>3</sup> Die Fachstelle trifft die notwendigen Vorkehrungen und teilt diese den Behörden, Amtsstellen und betroffenen Eigentümerinnen und Eigentümern mit.[^31-1]
+
+[^31-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 32
 
@@ -385,11 +427,13 @@ beschliesst:
 
 <sup>2</sup> Die Arbeiten an der Fundstelle sind sofort einzustellen. Der Fund ist bis zum Eintreffen einer von der Fachstelle autorisierten Fachkraft unverändert in seiner ursprünglichen Lage zu belassen. Diese Verpflichtung erlischt nach Ablauf von drei Arbeitstagen seit der Anzeige, sofern die Fachstelle die Fundstelle nicht schon vorher freigegeben hat.
 
-<sup>3</sup> Binnen dieser Frist trifft die Fachstelle die zur Bergung, Verwahrung und Dokumentation des Fundes notwendigen Vorkehrungen und es können vorsorgliche Schutzmassnahmen gemäss Art. 33a verfügt werden.
+<sup>3</sup> Binnen dieser Frist trifft die Fachstelle die zur Bergung, Verwahrung und Dokumentation des Fundes notwendigen Vorkehrungen und es können vorsorgliche Schutzmassnahmen gemäss Art. 33a verfügt werden.[^33-1]
+
+[^33-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 33a
 
-**Vorsorgliche Schutzmassnahmen**
+**Vorsorgliche Schutzmassnahmen[^33-1]**
 
 <sup>1</sup> In begründeten Fällen kann die zuständige Direktion für gefährdete Bodenaltertümer vorsorgliche Schutzmassnahmen, wie Veränderungsverbote, verfügen.
 
@@ -399,11 +443,13 @@ beschliesst:
 
 **Grabungsschutzgebiete**
 
-<sup>1</sup> Gebiete, in denen Bodenaltertümer vorhanden sind oder vermutet werden, können vom Regierungsrat zu Grabungsschutzgebieten erklärt werden; diese sind als Information in den Zonenplänen der Gemeinden abzubilden.
+<sup>1</sup> Gebiete, in denen Bodenaltertümer vorhanden sind oder vermutet werden, können vom Regierungsrat zu Grabungsschutzgebieten erklärt werden; diese sind als Information in den Zonenplänen der Gemeinden abzubilden.[^34-1]
 
 <sup>2</sup> Grabungsschutzgebiete dürfen nicht verändert, insbesondere weder aufgefüllt oder abgetragen werden, bevor sie von der Fachstelle freigegeben sind.
 
-<sup>3</sup> Die Bestimmungen betreffend Entschädigung und Beiträge sowie über die Anmerkung im Grundbuch beim Schutz der Kulturdenkmäler finden sinngemäss Anwendung.
+<sup>3</sup> Die Bestimmungen betreffend Entschädigung und Beiträge sowie über die Anmerkung im Grundbuch beim Schutz der Kulturdenkmäler finden sinngemäss Anwendung.[^34-1]
+
+[^34-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 35
 
@@ -419,15 +465,15 @@ beschliesst:
 
 **Aufbewahrung der Bodenfunde**
 
-<sup>1</sup> Der Regierungsrat regelt die Dokumentation der Bodenfunde und der Ausgrabungen sowie die dauerhafte Aufbewahrung der Bodenfunde.
+Der Regierungsrat regelt die Dokumentation der Bodenfunde und der Ausgrabungen sowie die dauerhafte Aufbewahrung der Bodenfunde.
 
-## 6 Organisation
+### VI. ORGANISATION
 
 #### Art. 37
 
 **Zuständigkeiten**
 
-<sup>1</sup> Der Regierungsrat bezeichnet durch Verordnung die Vollzugsorgane und legt deren Zuständigkeiten fest.
+Der Regierungsrat bezeichnet durch Verordnung die Vollzugsorgane und legt deren Zuständigkeiten fest.
 
 #### Art. 38
 
@@ -437,11 +483,14 @@ beschliesst:
 
 <sup>2</sup> Die kantonale Fachstelle für Archäologie ist zuständig für den Vollzug der Bestimmungen betreffend die Bodenaltertümer.
 
-[^38-1]: SR 451
+[^38-1]: SR 210
+[^38-2]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 39
 
-**Kommission für Denkmalpflege 1. Wahl**
+**Kommission für Denkmalpflege[^38-2]**
+
+### 1. Wahl
 
 <sup>1</sup> Der Regierungsrat wählt eine Kommission für Denkmalpflege mit sieben bis neun Mitgliedern und bezeichnet das Präsidium.
 
@@ -456,9 +505,13 @@ beschliesst:
 <sup>2</sup> Sie stellt Antrag zu:
 
 - 1\. Unterschutzstellungen;
+
 - 2\. Grabungsschutzgebieten;
+
 - 3\. der Entrichtung von Beiträgen an freiwillige Leistungen gemäss Art. 9 und Art. 42;
+
 - 4\. Beitragsgesuchen an die Pflege geschützter Kulturobjekte; und
+
 - 5\. Beitragsgesuchen an archäologische Aufwendungen.
 
 <sup>3</sup> Sie nimmt Stellung zu den Inventaren und zur Einstufung der inventarisierten Objekte.
@@ -471,69 +524,82 @@ beschliesst:
 
 **Aufgabenerfüllung durch Dritte**
 
-<sup>1</sup> Der Regierungsrat kann die zuständigen Fachstellen ermächtigen, Dritte mit der Erfüllung von Aufgaben zu beauftragen.
+Der Regierungsrat kann die zuständigen Fachstellen ermächtigen, Dritte mit der Erfüllung von Aufgaben zu beauftragen.
 
-## 7 Finanzielle Bestimmungen
+### VII. FINANZIELLE BESTIMMUNGEN
 
 #### Art. 41
 
 **Denkmalpflegefonds**
 
-<sup>1</sup> Der Kanton führt einen Denkmalpflegefonds; die Fondsmittel werden eingesetzt für:
+<sup>1</sup> Der Kanton führt einen Denkmalpflegefonds; die Fondsmittel werden eingesetzt für:[^41-1] 1. die Pflege geschützter Kulturobjekte;
 
-- 1\. die Pflege geschützter Kulturobjekte;
 - 2\. freiwillige Leistungen gemäss Art. 9 und Art. 42;
+
 - 3\. ausserordentliche archäologische Aufwendungen für Grabungen und Baubegleitungen.
 
-<sup>2</sup> Dem Fonds werden zugewiesen:
+<sup>2</sup> Dem Fonds werden zugewiesen:[^41-2] 1.[^41-3] 25 Prozent der dem Kanton zufliessenden Reingewinne aus Grossspielen;
 
-- 1\. 25 Prozent der dem Kanton zufliessenden Reingewinne aus Grossspielen;
 - 2\. die Finanzhilfen des Bundes;
+
 - 3\. die vom Landrat mit dem Budget oder durch besonderen Beschluss bereitgestellten Mittel;
+
 - 4\. die vom Regierungsrat aus dem Lotteriefonds bereitgestellten Mittel;
+
 - 5\. Schenkungen, Vermächtnisse und andere Zuwendungen Dritter zu Gunsten des Zwecks dieses Gesetzes;
+
 - 6\. die Zinsen des Fondsvermögens.
 
-<sup>3</sup> Im Rahmen der verfügbaren Mittel sind zuständig:
+<sup>3</sup> Im Rahmen der verfügbaren Mittel sind zuständig:[^41-2] 1. die für die Denkmalpflege zuständige Direktion für Beitragszusicherungen gemäss Abs. 1 Ziff. 1 und 2 bis Fr. 100‘000.-;
 
-- 1\. die für die Denkmalpflege zuständige Direktion für Beitragszusicherungen gemäss Abs. 1 Ziff. 1 und 2 bis Fr. 100'000.–;
-- 2\. der Regierungsrat für Beitragszusicherungen gemäss Abs. 1 Ziff. 1 und 2 über Fr. 100'000.– sowie für Beitragszusicherungen gemäss Abs. 1 Ziff. 3.
+- 2\. der Regierungsrat für Beitragszusicherungen gemäss Abs. 1 Ziff. 1 und 2 über Fr. 100‘000.- sowie für Beitragszusicherungen gemäss Abs. 1 Ziff. 3.
+
+[^41-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
+[^41-2]: Fassung gemäss Landratsbeschluss vom 28. September 2016, A 2016, 1649, 2078; in Kraft seit 1. Januar 2017
+[^41-3]: Fassung gemäss Landratsbeschluss vom 27. Mai 2020, A 2020, 1119, 1846; in Kraft seit 1. Januar 2021
 
 #### Art. 42
 
-**Beiträge an freiwillige Leistungen**
+**Beiträge an freiwillige Leistungen[^41-1]**
 
-<sup>1</sup> Der Kanton kann zu Lasten des Denkmalpflegefonds einmalige oder wiederkehrende Beiträge gewähren:
+Der Kanton kann zu Lasten des Denkmalpflegefonds einmalige oder wiederkehrende Beiträge gewähren:
 
 - 1\. zur Förderung freiwilliger Leistungen im Sinne dieses Gesetzes;
+
 - 2\. an Organisationen der Denkmalpflege, sofern diese aufgrund ihrer Statuten kantonal oder regional tätig sind.
 
 #### Art. 43
 
 **Einstellung, Rückerstattung**
 
-<sup>1</sup> Beiträge können ganz oder teilweise eingestellt oder zurückgefordert werden, wenn sie nicht dem Zweck entsprechend verwendet, Auflagen und Bedingungen nicht eingehalten werden oder die Schutzwürdigkeit des Objektes dahingefallen ist.
+Beiträge können ganz oder teilweise eingestellt oder zurückgefordert werden, wenn sie nicht dem Zweck entsprechend verwendet, Auflagen und Bedingungen nicht eingehalten werden oder die Schutzwürdigkeit des Objektes dahingefallen ist.
+
+[^43-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 44
 
-**Verwaltungskosten**
+**Verwaltungskosten[^43-1]**
 
 <sup>1</sup> Der Kanton trägt die ihm aus der Durchführung dieses Gesetzes erwachsenden Verwaltungskosten; insbesondere ist die Beratung Privater durch die Kommission, die kantonalen Fachstellen oder andere von der zuständigen Direktion beigezogene Fachpersonen unentgeltlich.
 
 <sup>2</sup> Er kann von Gemeinwesen Kosten erheben.
 
-## 8 Rechtsschutz, Vollstreckung, Strafbestimmung
+### VIII. RECHTSSCHUTZ, VOLLSTRECKUNG, STRAFBESTIMMUNG
+
+[^hVIIIRECHTSSCHUTZ-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 45
 
-**Aufschiebende Wirkung von Beschwerden**
+**Aufschiebende Wirkung von Beschwerden[^hVIIIRECHTSSCHUTZ-1]**
 
 <sup>1</sup> Beschwerden haben aufschiebende Wirkung.
 
 <sup>2</sup> Keine aufschiebende Wirkung haben Beschwerden gegen:
 
 - 1\. Schutzmassnahmen;
+
 - 2\. vorsorgliche Massnahmen; oder
+
 - 3\. Einstellungsverfügungen gemäss Art. 47.
 
 #### Art. 46
@@ -544,54 +610,62 @@ beschliesst:
 
 <sup>2</sup> Die Rechtsmittel gegen kommunale und kantonale Verfügungen, Entscheide und Erlasse, welche die Interessen der Denkmalpflege berühren, stehen kantonalen Organisationen und den Sektionen schweizerischer Vereinigungen offen, die seit mindestens zehn Jahren im Kanton tätig sind und nach deren Statuten die Denkmalpflege zu den dauernden Hauptaufgaben zählt.
 
+[^46-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+
 #### Art. 47
 
-**Einstellungsverfügungen**
+**Einstellungsverfügungen[^46-1]**
 
-<sup>1</sup> Dem Schutzzweck zuwiderlaufende Handlungen in Schutzgebieten oder an Schutzobjekten, die ohne oder entgegen einer kantonalen Bewilligung ausgeführt werden, sind auf Verfügung der Direktion unverzüglich einzustellen.
+Dem Schutzzweck zuwiderlaufende Handlungen in Schutzgebieten oder an Schutzobjekten, die ohne oder entgegen einer kantonalen Bewilligung ausgeführt werden, sind auf Verfügung der Direktion unverzüglich einzustellen.
 
 #### Art. 48
 
 **Beseitigung eines rechtswidrigen Zustandes**
 
-<sup>1</sup> Die Beseitigung eines rechtswidrigen Zustandes im Sinne dieser Gesetzgebung ist durch die zuständige Direktion nach den Vorschriften der Gesetzgebung über die Verwaltungsrechtspflege[^48-1] anzuordnen.
+Die Beseitigung eines rechtswidrigen Zustandes im Sinne dieser Gesetzgebung ist durch die zuständige Direktion nach den Vorschriften der Gesetzgebung über die Verwaltungsrechtspflege[^48-1] anzuordnen.
 
 [^48-1]: NG 265.1
+[^48-2]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
 
 #### Art. 49
 
-**Strafbestimmung**
+**Strafbestimmung[^48-2]**
 
-<sup>1</sup> Vorsätzliche oder fahrlässige Widerhandlungen gegen Bestimmungen dieses Gesetzes und gestützt darauf erlassene Ausführungsbestimmungen oder Verfügungen werden mit Busse bis Fr. 100'000.– bestraft.
+<sup>1</sup> Vorsätzliche oder fahrlässige Widerhandlungen gegen Bestimmungen dieses Gesetzes und gestützt darauf erlassene Ausführungsbestimmungen oder Verfügungen werden mit Busse bis Fr. 100‘000.- bestraft.
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
 <sup>3</sup> Strafbar macht sich insbesondere, wer:
 
 - 1\. gegen Eigentumsbeschränkungen geschützter Kulturobjekte verstösst;
+
 - 2\. vorsorglichen Schutzmassnahmen zuwiderhandelt;
+
 - 3\. gegen Meldepflichten verstösst;
+
 - 4\. gegen Einstellungsverfügungen verstösst.
 
 <sup>4</sup> Anstelle einer juristischen Person, Kollektiv- oder Kommanditgesellschaft sind die natürlichen Personen strafbar, die für sie gehandelt haben oder hätten handeln sollen. Können diese nicht festgestellt werden, wird die juristische Person oder die Gesellschaft zur Bezahlung der Busse verurteilt.
 
 <sup>5</sup> Die Strafverfolgung verjährt mit Ablauf von drei Jahren nach Kenntnis der Tat, spätestens aber nach 10 Jahren seit der letzten strafbaren Handlung.
 
+[^49-1]: Fassung gemäss Landratsbeschluss vom 21. Mai 2014, A 2014, 964, 1489; in Kraft seit 1. September 2014
+
 #### Art. 49a
 
-**Strafantrag**
+**Strafantrag[^49-1]**
 
-<sup>1</sup> Das Antragsrecht im Sinne von Art. 217 StGB[^49a-1] steht den zuständigen Direktionen und den Fachstellen gemäss Art. 38 zu.
+Das Antragsrecht im Sinne von Art. 217 StGB[^49a-1] steht den zuständigen Direktionen und den Fachstellen gemäss Art. 38 zu.
 
 [^49a-1]: SR 311.0
 
-## 9 Übergangs- und Schlussbestimmungen
+### IX. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 50
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
 
 #### Art. 51
 
@@ -609,7 +683,9 @@ beschliesst:
 
 **Änderung des Baugesetzes**
 
-<sup>1</sup> Das Gesetz vom 24. April 1988 über die Raumplanung und das öffentliche Baurecht (Baugesetz)[^52-1] wird wie folgt geändert: …
+Das Gesetz vom 24. April 1988 über die Raumplanung und das öffentliche Baurecht (Baugesetz)[^52-1] wird wie folgt geändert:
+
+Art. 214 ...
 
 [^52-1]: NG 611.1
 
@@ -621,6 +697,8 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat bestimmt unter Vorbehalt der Genehmigung des Bundes den Zeitpunkt des Inkrafttretens[^53-1].
 
-[^53-1]: Vom Bund genehmigt am 5. März 2004; Datum des Inkrafttretens: 1. Juli 2004
+[^53-1]: A 2004, 213, 1111; vom Bund genehmigt am 5. März 2004; Datum des Inkrafttretens: 1. Juli 2004
 
-A 2004, 213, 1111
+## Weitere Fussnoten
+
+- [8] Fassung gemäss Landratsbeschluss vom 25. Oktober 2006, A 2006, 1705, A 2007, 5; in Kraft seit 1. Januar 2007
