@@ -3,7 +3,7 @@ canton: VD
 number: "818.00.300621.1"
 title: "ARRÊTÉ du 30.06.2021 d'application de l'ordonnance fédérale sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière"
 language: fr
-version: 2021-10-13
+version: 2021-11-09
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/818.00.300621.1?id=4b3d512e-7299-4947-aef8-f39291ae7fc4"
 ---
 
@@ -90,6 +90,16 @@ arrête
 **Vaccination**
 
 <sup>1</sup> Les communes mettent gratuitement à disposition des services de l'Etat les locaux nécessaires à la campagne de vaccination itinérante, sans frais pour le canton.
+
+#### Art. 7a
+
+**Dépistage ciblé et répétitif [^7-1]**
+
+<sup>1</sup> Le dépistage ciblé et répétitif est mis en œuvre en application de la stratégie cantonale de dépistage fixée par l'Office du Médecin cantonal, conformément à l'Ordonnance 3 sur les mesures destinées à lutter contre le coronavirus (COVID-19).
+
+<sup>2</sup> Un résultat négatif obtenu dans le cadre d'un dépistage ciblé et répétitif ne donne pas droit à la délivrance d'un certificat COVID-19, mais à une attestation, dont la validité est limitée au contexte dans lequel elle est émise. Les dispositions spécifiques précisant les modalités de remise de cette attestation selon leur lieu de délivrance sont applicables au surplus.
+
+[^7-1]: Modif. 2 du 03.11.2021: Introduction Art. 7a; entrée en vigueur au 09.11.2021
 
 #### Art. 8
 
