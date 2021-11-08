@@ -5,51 +5,61 @@ title: Vollzugsverordnung zum Gesetz über den Natur- und Landschaftsschutz
 short: "Naturschutzverordnung, NSchV"
 language: de
 version: 2010-05-01
+corrected: 2021-11-09
 version_adopted: 2010-04-20
 adopted: 2005-11-29
 in_force: 2006-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/331.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/867/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/175/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Gesetz über den Natur- und Landschaftsschutz
+# Vollzugsverordnung zum Gesetz über den Natur- und Landschaftsschutz (Naturschutzverordnung, NSchV
 
-(Naturschutzverordnung, NSchV)
-
-vom 29.11.2005 (Stand 01.05.2010)
+vom 29. November 2005[^t-2][^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 34, 36 und 47 des Gesetzes vom 4. Februar 2004 über den Natur- und Landschaftsschutz (Naturschutzgesetz)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 34, 36 und 47 des Gesetzes vom 4. Februar 2004 über den Natur- und Landschaftsschutz (Naturschutzgesetz)[^t-3],
 
 beschliesst:
 
-[^ingress-1]: NG 331.1
+[^t-1]: Fassung gemäss Regierungsratsbeschluss vom 20. April 2010, A 2010, 740; in Kraft seit 1. Mai 2010
+[^t-2]: A 2005, 1856
+[^t-3]: NG 331.1
 
-## 1 Organisation
+### I. ORGANISATION
 
 #### § 1
 
 **Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat ist zuständig:
+Der Regierungsrat ist zuständig:
 
 - 1\. über die Schutzwürdigkeit eines Grundstückes oder Objektes von nationaler oder regionaler Bedeutung zu entscheiden (Art. 18 Naturschutzgesetz);
+
 - 2\. die weiteren ihm durch die Gesetzgebung übertragenen Aufgaben zu erfüllen.
 
 #### § 2
 
 **Direktion**
 
-<sup>1</sup> Die Direktion ist zuständig:
+Die Direktion ist zuständig:
 
 - 1\. Verträge über die Einzelheiten von Schutz und Unterhalt bei kantonal geschützten Objekten abzuschliessen (Art. 11 Abs. 2 Naturschutzgesetz);
+
 - 2\. Vereinbarungen zum Schutz und Unterhalt von Objekten von nationaler oder regionaler Bedeutung abzuschliessen (Art. 12 Naturschutzgesetz);
+
 - 3\. Ausnahmen von der Einhaltung der Schutzvorschriften bei kantonal geschützten Objekten zu bewilligen und den Ersatz beziehungsweise die Abgeltung festzulegen (Art. 25 und 26 Naturschutzgesetz);
-- 4\. den Unterhalt der kantonal geschützten Objekte anzuordnen (Art. 40 Naturschutzgesetz);
+
+- 4\. den Unterhalt der kantonal geschützten Objekte anzuordnen (Art.
+
+40 Naturschutzgesetz);
+
 - 5\. Beschwerde für den Kanton gemäss Art. 12b des Bundesgesetzes über den Natur- und Heimatschutz (NHG)[^2-1] zu erheben;
+
 - 6\. die weiteren ihr durch die Gesetzgebung übertragenen Aufgaben zu erfüllen.
 
 [^2-1]: SR 451
@@ -63,15 +73,20 @@ beschliesst:
 <sup>2</sup> Die Fachstelle ist insbesondere zuständig für:
 
 - 1\. die fachliche Beratung kantonaler und kommunaler Behörden sowie Privater;
+
 - 2\. die fachlichen Stellungnahmen gegenüber den Bundesbehörden bei der Erfüllung einer Bundesaufgabe gemäss Art. 2 Abs. 2 der eidgenössischen Verordnung über den Natur- und Heimatschutz (NHV)[^3-1];
+
 - 3\. die Betreuung kantonal geschützter Objekte, soweit diese nicht anderen Organen übertragen ist;
+
 - 4\. die Gewährung von Beiträgen im Rahmen des Voranschlages an freiwillige Leistungen (Art. 30 Naturschutzgesetz).
 
 [^3-1]: SR 451.1
 
 #### § 4
 
-**Kommission für Natur- und Landschaftsschutz 1. Zusammensetzung**
+**Kommission für Natur- und Landschaftsschutz**
+
+### 1. Zusammensetzung
 
 <sup>1</sup> Die kantonalen Organisationen und die Sektionen schweizerischer Vereinigungen, die gemäss Art. 45 des Naturschutzgesetzes beschwerdeberechtigt sind, haben zusammen Anspruch auf mindestens eine Vertretung in der Kommission.
 
@@ -81,29 +96,41 @@ beschliesst:
 
 **2. Aufgaben**
 
-<sup>1</sup> Die Kommission für Natur- und Landschaftsschutz erfüllt in Ergänzung zu Art. 36 des Naturschutzgesetzes folgende Aufgaben:
+Die Kommission für Natur- und Landschaftsschutz erfüllt in Ergänzung zu Art. 36 des Naturschutzgesetzes folgende Aufgaben:
 
 - 1\. Stellungnahme zu Ausnahmebewilligungen gemäss Art. 25 und 26 des Naturschutzgesetzes;
+
 - 2\. auf Anfrage hin Begutachtung privater Projekte im Hinblick auf den Natur- und Landschaftsschutz.
 
 #### § 6
 
 **Kommunales Organ**
 
-<sup>1</sup> Das kommunale Organ gemäss Art. 37 des Naturschutzgesetzes ist zuständig:
+Das kommunale Organ gemäss Art. 37 des Naturschutzgesetzes ist zuständig:
 
 - 1\. Verträge über die Einzelheiten von Schutz und Unterhalt bei kommunal geschützten Objekten abzuschliessen (Art. 11 Abs. 2 Naturschutzgesetz);
+
 - 2\. Vereinbarungen zum Schutz und Unterhalt von Objekten von lokaler Bedeutung abzuschliessen (Art. 12 Naturschutzgesetz);
+
 - 3\. über die Schutzwürdigkeit eines Grundstückes oder Objektes von lokaler Bedeutung zu entscheiden (Art. 18 Naturschutzgesetz);
+
 - 4\. Ausnahmen von der Einhaltung der Schutzvorschriften bei kommunal geschützten Objekten zu bewilligen und den Ersatz beziehungsweise die Abgeltung festzulegen (Art. 25 und 26 Naturschutzgesetz);
-- 5\. den Unterhalt der kommunal geschützten Objekte anzuordnen (Art. 40 Naturschutzgesetz);
+
+- 5\. den Unterhalt der kommunal geschützten Objekte anzuordnen (Art.
+
+40 Naturschutzgesetz);
+
 - 6\. die Erfüllung der weiteren ihm durch die Gesetzgebung übertragenen Aufgaben.
 
-## 2 Verfahren
+### II. VERFAHREN
 
 #### § 7
 
-**Naturschutz bei der Erfüllung der Aufgaben durch Kanton und Gemeinden 1. Mitwirkung der Fachstelle und der Kommission**
+**Naturschutz bei der Erfüllung der Aufgaben durch Kan-**
+
+ton und Gemeinden
+
+### 1. Mitwirkung der Fachstelle und der Kommission
 
 <sup>1</sup> Bei allen Vorhaben, die Auswirkungen auf schutzwürdige Werte des Natur- und Landschaftsschutzes haben, holen die zuständigen Behörden von Kanton und Gemeinden rechtzeitig eine Stellungnahme der Fachstelle sowie im Rahmen ihrer Zuständigkeit der Kommission für Natur- und Landschaftsschutz ein.
 
@@ -115,7 +142,7 @@ beschliesst:
 
 **2. Mitwirkung der Gesuchstellenden**
 
-<sup>1</sup> Zur Erteilung von Konzessionen und Bewilligungen oder zur Gewährung von Beiträgen können die kantonalen und kommunalen Instanzen von den Gesuchstellerinnen und Gesuchstellern einen Bericht darüber verlangen, wie sie den Anforderungen des Natur- und Landschaftsschutzes Rechnung zu tragen gedenken.
+Zur Erteilung von Konzessionen und Bewilligungen oder zur Gewährung von Beiträgen können die kantonalen und kommunalen Instanzen von den Gesuchstellerinnen und Gesuchstellern einen Bericht darüber verlangen, wie sie den Anforderungen des Natur- und Landschaftsschutzes Rechnung zu tragen gedenken.
 
 #### § 9
 
@@ -161,7 +188,9 @@ beschliesst:
 
 #### § 13
 
-**Massnahmen- und Flächenpool 1. Begriff**
+**Massnahmen- und Flächenpool**
+
+### 1. Begriff
 
 <sup>1</sup> Für die Verwirklichung von Ersatzmassnahmen gemäss Art. 26 des Naturschutzgesetzes oder von Massnahmen gemäss Art. 29 Ziffer 3 des Naturschutzgesetzes können kantonale Massnahmen- oder Flächenpools errichtet und der Beitritt zu regionalen Pools beschlossen werden.
 
@@ -181,7 +210,11 @@ beschliesst:
 
 <sup>5</sup> Über die Verwendung der zweckgebundenen Mittel gemäss Art. 26 Abs. 2 des Naturschutzgesetzes im Rahmen kantonaler oder regionaler Pools entscheidet die zuständige Direktion.
 
-## 3 Pärke von nationaler Bedeutung
+[^14-1]: Fassung gemäss Regierungsratsbeschluss vom 20. April 2010, A 2010, 740; in Kraft seit 1. Mai 2010
+
+### III. PÄRKE VON NATIONALER BEDEUTUNG
+
+[^14-1]
 
 #### § 14a
 
@@ -192,14 +225,18 @@ beschliesst:
 <sup>2</sup> Der Managementplan hat insbesondere zu umfassen:
 
 - 1\. definitiver Vorschlag für einen Parkperimeter;
+
 - 2\. Nachweis, dass der Park die Anforderungen des Bundes erfüllt;
+
 - 3\. detaillierte Planung für die Errichtung des Parks.
 
 [^14a-1]: NG 331.1
 
 #### § 14b
 
-**Errichtung 1. Parkträgerschaft**
+**Errichtung**
+
+### 1. Parkträgerschaft
 
 <sup>1</sup> Es ist eine Parkträgerschaft zu gründen.
 
@@ -209,7 +246,7 @@ beschliesst:
 
 **2. kantonale Richtplanung**
 
-<sup>1</sup> Nach Abschluss der Programm- und Leistungsvereinbarung muss ein Park, der ein Parklabel anstrebt, mit Perimeter, Schutzzielen und weiterer raumwirksamen Elementen im kantonalen Richtplan bezeichnet werden.
+Nach Abschluss der Programm- und Leistungsvereinbarung muss ein Park, der ein Parklabel anstrebt, mit Perimeter, Schutzzielen und weiterer raumwirksamen Elementen im kantonalen Richtplan bezeichnet werden.
 
 #### § 14d
 
@@ -239,7 +276,7 @@ beschliesst:
 
 **5. Anpassung der Nutzungsplanung**
 
-<sup>1</sup> Die Gemeinden passen die kommunale Nutzungsplanung bei Bedarf an.
+Die Gemeinden passen die kommunale Nutzungsplanung bei Bedarf an.
 
 #### § 14g
 
@@ -255,7 +292,9 @@ beschliesst:
 
 #### § 14h
 
-**Finanzierung 1. Gesuch der Parkträgerschaft**
+**Finanzierung**
+
+### 1. Gesuch der Parkträgerschaft
 
 <sup>1</sup> Die Parkträgerschaft reicht die Unterlagen für das Gesuch um globale Finanzhilfen des Bundes für die Errichtung, den Betrieb und die Qualitätssicherung des Parks von nationaler Bedeutung bei der Direktion ein.
 
@@ -283,6 +322,7 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat gewährt im Rahmen der vom Landrat bewilligten Kredite:
 
 - 1\. Beiträge an die ausgewiesenen Bruttokosten, die infolge Abklärung der Machbarkeit und Projektierung eines Parks anfallen;
+
 - 2\. Beiträge bis zur Hälfte der nach Abzug der Bundesbeiträge verbleibenden Restkosten eines Parks, die bei Errichtung, Betrieb und Qualitätssicherung anfallen.
 
 <sup>2</sup> Das Gesuch ist bei der Direktion einzureichen. Die weiteren betroffenen Direktionen, Amts- und Fachstellen sind im Rahmen der Prüfung miteinzubeziehen.
@@ -306,14 +346,17 @@ beschliesst:
 <sup>2</sup> Die Direktion erstattet jährlich Bericht:
 
 - 1\. dem Regierungsrat über die Verwendung der kantonalen Beiträge beziehungsweise der globalen Finanzhilfen;
+
 - 2\. der Bundesbehörde über die Verwendung der globalen Finanzhilfen.
 
-## 4 Schlussbestimmung
+[^14l-1]: Fassung gemäss Regierungsratsbeschluss vom 20. April 2010, A 2010, 740; in Kraft seit 1. Mai 2010
+
+### IV. SCHLUSSBESTIMMUNG
+
+[^14l-1]
 
 #### § 15
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt auf den 1. Januar 2006 in Kraft.
-
-A 2005, 1856
+Diese Verordnung tritt auf den 1. Januar 2006 in Kraft.
