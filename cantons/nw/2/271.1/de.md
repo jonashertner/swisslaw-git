@@ -5,36 +5,33 @@ title: Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 short: EG SchKG
 language: de
 version: 2013-01-01
+corrected: 2021-11-09
 version_adopted: 2012-09-26
 adopted: 2012-09-26
 in_force: 2013-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/271.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/861/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/114/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
+# Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs (EG SchKG)
 
-(EG SchKG)
+vom 26. September 2012[^t-1]
 
-vom 26.09.2012 (Stand 01.01.2013)
+Der Landrat von Nidwalden, gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)[^t-2], beschliesst:
 
-Der Landrat von Nidwalden,
+[^t-1]: A 2012, 1460, 1915; in Kraft sei 1. Januar 2013
+[^t-2]: SR 281.1
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)[^ingress-1],
-
-beschliesst:
-
-[^ingress-1]: SR 281.1
-
-## 1 Organisation
+### I. ORGANISATION
 
 #### Art. 1
 
 **Betreibungs- und Konkurskreis**
 
-<sup>1</sup> Der Kanton bildet für die Durchführung der Schuldbetreibungen und der Konkurse einen Kreis.
+Der Kanton bildet für die Durchführung der Schuldbetreibungen und der Konkurse einen Kreis.
 
 #### Art. 2
 
@@ -46,7 +43,9 @@ beschliesst:
 
 #### Art. 3
 
-**Aufsicht 1. untere Aufsichtsbehörde**
+**Aufsicht**
+
+### 1. untere Aufsichtsbehörde
 
 <sup>1</sup> Das Kantonsgericht als Einzelgericht ist die untere Aufsichtsbehörde über das Betreibungs- und Konkurswesen.
 
@@ -56,19 +55,19 @@ beschliesst:
 
 **2. obere Aufsichtsbehörde**
 
-<sup>1</sup> Das Obergericht ist die obere Aufsichtsbehörde.
+Das Obergericht ist die obere Aufsichtsbehörde.
 
 #### Art. 5
 
 **3. Berichterstattung**
 
-<sup>1</sup> Die Aufsichtsbehörden berichten dem Landrat im Rahmen des Rechenschaftsberichtes der Gerichte über die Ergebnisse der Prüfung der Geschäftsführung.
+Die Aufsichtsbehörden berichten dem Landrat im Rahmen des Rechenschaftsberichtes der Gerichte über die Ergebnisse der Prüfung der Geschäftsführung.
 
 #### Art. 6
 
 **4. Disziplinarmassnahmen**
 
-<sup>1</sup> Disziplinarmassnahmen gemäss Art. 14 SchKG[^6-1] werden auf Antrag der Aufsichtsbehörden durch die zuständige Instanz gemäss den Bestimmungen des Personalgesetzes[^6-2] verfügt.
+Disziplinarmassnahmen gemäss Art. 14 SchKG[^6-1] werden auf Antrag der Aufsichtsbehörden durch die zuständige Instanz gemäss den Bestimmungen des Personalgesetzes[^6-2] verfügt.
 
 [^6-1]: SR 281.1
 [^6-2]: NG 165.1
@@ -77,18 +76,20 @@ beschliesst:
 
 **Richterliche Behörden**
 
-<sup>1</sup> Die Zuständigkeit der richterlichen Behörden in den Verfahren gemäss dem SchKG[^7-1] richtet sich nach dem Gerichtsgesetz[^7-2].
+Die Zuständigkeit der richterlichen Behörden in den Verfahren gemäss dem SchKG[^7-1] richtet sich nach dem Gerichtsgesetz[^7-2].
 
 [^7-1]: SR 281.1
 [^7-2]: NG 261.1
 
-## 2 Besondere Zuständigkeiten
+### II. BESONDERE ZUSTÄNDIGKEITEN
 
 #### Art. 8
 
-**Betreibungen gegen Gemeinwesen und Körperschaften des öffentlichen Rechts**
+**Betreibungen gegen Gemeinwesen und**
 
-<sup>1</sup> Für Betreibungen gegen den Kanton, Gemeinden und andere Körperschaften des kantonalen öffentlichen Rechts ist das Betreibungs- und Konkursamt zuständig.
+### Körperschaften des öffentlichen Rechts
+
+Für Betreibungen gegen den Kanton, Gemeinden und andere Körperschaften des kantonalen öffentlichen Rechts ist das Betreibungs- und Konkursamt zuständig.
 
 #### Art. 9
 
@@ -111,7 +112,7 @@ beschliesst:
 [^10-1]: SR 281.1
 [^10-2]: SR 281.35
 
-## 3 Verfahren
+### III. VERFAHREN
 
 #### Art. 11
 
@@ -132,19 +133,18 @@ beschliesst:
 
 <sup>2</sup> Die Beschwerdeinstanz holt die Vernehmlassung des Betreibungs- und Konkursamtes sowie einer allfälligen Gegenpartei ein, wenn die Beschwerde nicht offensichtlich unbegründet ist.
 
-<sup>3</sup> Das Verfahren ist schriftlich. Die Vorschriften der Schweizerischen Zivilprozessordnung[^12-2] über das summarische Verfahren (Art. 248 ff.) sind sinngemäss anwendbar. Vorbehalten bleiben die Verfahrensvorschriften des SchKG[^12-3].
+<sup>3</sup> Das Verfahren ist schriftlich. Die Vorschriften der Schweizerischen Zivilprozessordnung[^12-2] über das summarische Verfahren (Art. 248 ff.) sind sinngemäss anwendbar. Vorbehalten bleiben die Verfahrensvorschriften des SchKG[^12-1].
 
 [^12-1]: SR 281.1
 [^12-2]: SR 272
-[^12-3]: SR 281.1
 
-## 4 Schlussbestimmungen
+### IV. SCHLUSSBESTIMMUNGEN
 
 #### Art. 13
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Einführungsverordnung vom 20. Mai 1978 zum Bundesgesetz über Schuldbetreibung und Konkurs[^13-1] wird aufgehoben.
+Die Einführungsverordnung vom 20. Mai 1978 zum Bundesgesetz über Schuldbetreibung und Konkurs[^13-1] wird aufgehoben.
 
 [^13-1]: A 1978, 937
 
@@ -154,8 +154,4 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest[^14-1].
-
-[^14-1]: In Kraft sei 1. Januar 2013
-
-A 2012, 1460, 1915
+<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.
