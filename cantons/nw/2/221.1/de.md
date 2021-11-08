@@ -5,32 +5,33 @@ title: Einführungsgesetz zum Schweizerischen Obligationenrecht
 short: "Einführungsgesetz zum Obligationenrecht, EG OR"
 language: de
 version: 2018-07-01
+corrected: 2021-11-09
 version_adopted: 2018-02-28
 adopted: 2018-02-28
 in_force: 2018-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/221.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/842/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/79/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zum Schweizerischen Obligationenrecht
+# Einführungsgesetz zum Schweizerischen Obligationenrecht (Einführungsgesetz zum Obligationenrecht, EG OR)
 
-(Einführungsgesetz zum Obligationenrecht, EG OR)
-
-vom 28.02.2018 (Stand 01.07.2018)
+vom 28. Februar 2018[^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht, OR)[^ingress-1], des Bundesgesetzes vom 28. September 1956 über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen (AVEG)[^ingress-2] und des Bundesgesetzes vom 18. Juni 1914 betreffend die Arbeit in Fabriken[^ingress-3],
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht, OR)[^t-2], des Bundesgesetzes vom 28. September 1956 über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen (AVEG)[^t-3] und des Bundesgesetzes vom 18. Juni 1914 betreffend die Arbeit in Fabriken[^t-4],
 
 beschliesst:
 
-[^ingress-1]: SR 220
-[^ingress-2]: SR 221.215.311
-[^ingress-3]: SR 821.41
+[^t-1]: A 2018, 418, 981; vom Bund genehmigt am 6. Juni 2018; in Kraft seit 1. Juli 2018
+[^t-2]: SR 220
+[^t-3]: SR 221.215.311
+[^t-4]: SR 821.41
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -42,7 +43,7 @@ beschliesst:
 
 [^1-1]: NG 261.1
 
-## 2 Allgemeine Bestimmungen des OR
+### II. ALLGEMEINE BESTIMMUNGEN DES OR
 
 #### Art. 2
 
@@ -56,45 +57,49 @@ beschliesst:
 
 **Abtretung von Forderungen und Schuldübernahme**
 
-<sup>1</sup> Das Kantonsgericht als Einzelgericht entscheidet über die Sicherheitsleistung im Falle der Schuldübernahme (Art. 175 Abs. 3 OR).
+Das Kantonsgericht als Einzelgericht entscheidet über die Sicherheitsleistung im Falle der Schuldübernahme (Art. 175 Abs. 3 OR).
 
-## 3 Die einzelnen Vertragsverhältnisse
+### III. DIE EINZELNEN VERTRAGSVERHÄLTNISSE
 
-### 3.1 Kauf und Tausch
+### A. Kauf und Tausch
 
 #### Art. 4
 
-**Gewährleistung wegen Mängeln der Kaufsache 1. beim Viehhandel**
+**Gewährleistung wegen Mängeln der Kaufsache**
 
-<sup>1</sup> Das Kantonsgericht als Einzelgericht leitet das Vorverfahren bei Viehwährschaftsstreitigkeiten und ist zur Anordnung der Untersuchung des Tieres im Falle einer Mängelrüge zuständig (Art. 202 OR).
+### 1. beim Viehhandel
+
+Das Kantonsgericht als Einzelgericht leitet das Vorverfahren bei Viehwährschaftsstreitigkeiten und ist zur Anordnung der Untersuchung des Tieres im Falle einer Mängelrüge zuständig (Art. 202 OR).
 
 #### Art. 5
 
 **2. Verfahren bei Übersendung von einem anderen Ort**
 
-<sup>1</sup> Das Kantonsgericht als Einzelgericht ist zuständig:
+Das Kantonsgericht als Einzelgericht ist zuständig:
 
 - 1\. zur Feststellung des Tatbestandes bei Beanstandung der von einem anderen Ort übersandten Sache (Art. 204 Abs. 2 OR);
+
 - 2\. zur Bezeichnung des Amtes, das beim Verkauf infolge Gefahr schnellen Verderbens der Sache mitzuwirken hat (Art. 204 Abs. 3 OR).
 
-### 3.2 Schenkung
+### B. Schenkung
 
 #### Art. 6
 
-**Klage auf Vollzug von Schenkungsauflagen im öffentlichen Interesse**
+**Klage auf Vollzug von Schenkungsauflagen im**
 
-<sup>1</sup> Zur Anhebung der Klage auf Vollziehung einer Schenkungsauflage im öffentlichen Interesse nach dem Tode der schenkenden Person (Art. 246 Abs. 2 OR) ist zuständig:
+öffentlichen Interesse Zur Anhebung der Klage auf Vollziehung einer Schenkungsauflage im öffentlichen Interesse nach dem Tode der schenkenden Person (Art. 246 Abs. 2 OR) ist zuständig:
 
 - 1\. der Regierungsrat, wenn es sich um ein Interesse des Kantons handelt;
+
 - 2\. der administrative Rat, wenn es sich um ein Interesse der Gemeinde handelt.
 
-### 3.3 Miete und Pacht
+### C. Miete und Pacht
 
 #### Art. 7
 
 **Hinterlegungsstelle**
 
-<sup>1</sup> Die Schlichtungsbehörde ist zuständig für die Entgegennahme von Miet- beziehungsweise Pachtzinszahlungen als kantonale Hinterlegungsstelle (Art. 259g und 288 OR).
+Die Schlichtungsbehörde ist zuständig für die Entgegennahme von Miet- beziehungsweise Pachtzinszahlungen als kantonale Hinterlegungsstelle (Art. 259g und 288 OR).
 
 #### Art. 8
 
@@ -103,11 +108,12 @@ beschliesst:
 <sup>1</sup> Die Schlichtungsbehörde ist zuständig für die Genehmigung:
 
 - 1\. des Formulars für die Kündigung (Art. 266l und 298 OR);
+
 - 2\. des Formulars für die Mitteilung von Mietzinserhöhungen und andern einseitigen Vertragsänderungen (Art. 269d OR).
 
 <sup>2</sup> Die Schlichtungsbehörde stellt kantonale Formulare zur Verfügung.
 
-<sup>3</sup> Bei indexierten oder gestaffelten Mietzinsen kann für die Mitteilung der Erhöhung des Mietzinses eine Kopie der Mietzinsvereinbarung als Formular verwendet werden (Art. 19 Abs. 2 der eidgenössischen Verordnung über die Miete und Pacht von Wohn- und Geschäftsräumen [VMWG][^8-1]).
+<sup>3</sup> Bei indexierten oder gestaffelten Mietzinsen kann für die Mitteilung der Erhöhung des Mietzinses eine Kopie der Mietzinsvereinbarung als Formular verwendet werden (Art. 19 Abs. 2 der eidgenössischen Verordnung über die Miete und Pacht von Wohn- und Geschäftsräumen [VMWG][^8-1].
 
 [^8-1]: SR 221.213.11
 
@@ -115,19 +121,19 @@ beschliesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Die Berichterstattung gemäss Art. 23 VMWG[^9-1] erfolgt durch die Schlichtungsbehörde beziehungsweise die zuständigen Gerichte.
+Die Berichterstattung gemäss Art. 23 VMWG[^9-1] erfolgt durch die Schlichtungsbehörde beziehungsweise die zuständigen Gerichte.
 
 [^9-1]: SR 221.213.11
 
-### 3.4 Arbeitsvertrag
+### D. Arbeitsvertrag
 
 #### Art. 10
 
 **Gesamtarbeitsverträge**
 
-<sup>1</sup> Der Regierungsrat ist zuständig für die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen sowie zu deren Aufhebung gemäss Art. 7 Abs. 2 und Art. 16–18 AVEG[^10-1].
+<sup>1</sup> Der Regierungsrat ist zuständig für die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen sowie zu deren Aufhebung gemäss Art. 7 Abs. 2 und Art. 16-18 AVEG[^10-1].
 
-<sup>2</sup> Die Direktion führt das Verfahren gemäss Art. 8–11 und 14–18 AVEG durch und ordnet die Massnahmen gemäss Art. 5 Abs. 2 und Art. 6 AVEG an.
+<sup>2</sup> Die Direktion führt das Verfahren gemäss Art. 8-11 und 14-18 AVEG durch und ordnet die Massnahmen gemäss Art. 5 Abs. 2 und Art. 6 AVEG an.
 
 [^10-1]: SR 221.215.311
 
@@ -135,19 +141,19 @@ beschliesst:
 
 **Normalarbeitsverträge**
 
-<sup>1</sup> Der Regierungsrat ist zuständig für den Erlass von Normalarbeitsverträgen für einzelne Arten von Arbeitsverhältnissen (Art. 359 und 359a OR).
+Der Regierungsrat ist zuständig für den Erlass von Normalarbeitsverträgen für einzelne Arten von Arbeitsverhältnissen (Art. 359 und 359a OR).
 
 #### Art. 12
 
-**Kollektive Arbeitsstreitigkeiten 1. Begriff**
+**Kollektive Arbeitsstreitigkeiten**
 
-<sup>1</sup> Als kollektive Arbeitsstreitigkeit im Sinne dieser Vorschriften gilt jede Streitigkeit über das Arbeitsverhältnis zwischen einer beziehungsweise einem oder mehreren Arbeitgebenden auf der einen und einem erheblichen Teil von Arbeitnehmenden eines Betriebes oder einer Berufsgruppe auf der anderen Seite.
+- 1\. Begriff Als kollektive Arbeitsstreitigkeit im Sinne dieser Vorschriften gilt jede Streitigkeit über das Arbeitsverhältnis zwischen einer beziehungsweise einem oder mehreren Arbeitgebenden auf der einen und einem erheblichen Teil von Arbeitnehmenden eines Betriebes oder einer Berufsgruppe auf der anderen Seite.
 
 #### Art. 13
 
 **2. amtliche Einigungsstelle**
 
-<sup>1</sup> Die Schlichtungsbehörde gemäss Art. 40–42 GerG[^13-1] ist die amtliche Einigungsstelle im Sinne von Art. 30 des Bundesgesetzes betreffend die Arbeit in den Fabriken[^13-2].
+<sup>1</sup> Die Schlichtungsbehörde gemäss Art. 40-42 GerG[^13-1] ist die amtliche Einigungsstelle im Sinne von Art. 30 des Bundesgesetzes betreffend die Arbeit in den Fabriken[^13-2].
 
 <sup>2</sup> Als amtliche Einigungsstelle wird die Schlichtungsbehörde ergänzt mit je einer Vertreterin oder einem Vertreter der Arbeitgeber- und der Arbeitnehmerseite.
 
@@ -180,7 +186,7 @@ beschliesst:
 
 **5. Kosten**
 
-<sup>1</sup> Das Verfahren vor der amtlichen Einigungsstelle ist kostenlos.
+Das Verfahren vor der amtlichen Einigungsstelle ist kostenlos.
 
 #### Art. 17
 
@@ -200,7 +206,7 @@ beschliesst:
 
 [^18-1]: SR 272
 
-### 3.5 Auftrag zur Ehe- oder Partnerschaftsvermittlung
+### E. Auftrag zur Ehe- oder Partnerschaftsvermittlung
 
 #### Art. 19
 
@@ -212,7 +218,7 @@ beschliesst:
 
 [^19-1]: SR 221.218.2
 
-### 3.6 Kommission
+### F. Kommission
 
 #### Art. 20
 
@@ -230,11 +236,13 @@ beschliesst:
 
 <sup>2</sup> Es bezeichnet das Amt, das beim Verkauf mitzuwirken hat.
 
-### 3.7 Frachtvertrag
+### G. Frachtvertrag
 
 #### Art. 22
 
-**Verkauf des Frachtgutes bei Ablieferungshindernissen, Gefahr des Verderbens oder Minderwert**
+**Verkauf des Frachtgutes bei Ablieferungshindernissen,**
+
+### Gefahr des Verderbens oder Minderwert
 
 <sup>1</sup> Das Kantonsgericht als Einzelgericht ist zuständig für die Feststellung des Tatbestandes bei Gefahr des Verderbens oder wegen Minderwertes sowie zur Anordnung des Verkaufes des Frachtgutes (Art. 444 Abs. 2 und Art. 445 OR).
 
@@ -242,9 +250,9 @@ beschliesst:
 
 #### Art. 23
 
-**Hinterlegung des Betrages der auf dem Frachtgut haftenden Forderung**
+**Hinterlegung des Betrages der auf dem Frachtgut**
 
-<sup>1</sup> Zur Sicherung des Retentionsrechtes kann in Streitfällen der Betrag der auf dem Frachtgut haftenden Forderung beim Kantonsgericht als Einzelgericht hinterlegen werden (Art. 451 OR).
+haftenden Forderung Zur Sicherung des Retentionsrechtes kann in Streitfällen der Betrag der auf dem Frachtgut haftenden Forderung beim Kantonsgericht als Einzelgericht hinterlegen werden (Art. 451 OR).
 
 #### Art. 24
 
@@ -254,7 +262,7 @@ beschliesst:
 
 <sup>2</sup> Zur Verhinderung des Verkaufes kann der Betrag der auf dem Frachtgut haftenden Forderung beim Kantonsgericht als Einzelgericht hinterlegt werden (Art. 453 Abs. 2 OR).
 
-### 3.8 Hinterlegungsvertrag
+### H. Hinterlegungsvertrag
 
 #### Art. 25
 
@@ -262,20 +270,21 @@ beschliesst:
 
 <sup>1</sup> Die Direktion ist zuständig für die Bewilligung der Herausgabe von Warenpapieren durch die Lagerhalterin oder den Lagerhalter (Art. 482 OR).
 
-<sup>2</sup> Lagerhalterinnen und Lagerhalter, die ohne Bewilligung Warenpapiere herausgeben, werden von der Direktion mit einer Ordnungsbusse bis Fr. 1'000.– bestraft (Art. 1155 Abs. 2 OR).
+<sup>2</sup> Lagerhalterinnen und Lagerhalter, die ohne Bewilligung Warenpapiere herausgeben, werden von der Direktion mit einer Ordnungsbusse bis Fr. 1000.- bestraft (Art. 1155 Abs. 2 OR).
 
-### 3.9 Leibrentenvertrag und Verpfründung
+### I. Leibrentenvertrag und Verpfründung
 
 #### Art. 26
 
 **Staatlich anerkannte Pfrundanstalten**
 
-<sup>1</sup> Die Direktion ist zuständig für:
+Die Direktion ist zuständig für:
 
 - 1\. die Anerkennung einer Pfrundanstalt und die Genehmigung der für den Verpfründungsvertrag aufgestellten Bedingungen (Art. 522 Abs. 2 OR);
+
 - 2\. für die Genehmigung der Hausordnung der Pfrundanstalt (Art. 524 Abs. 3 OR).
 
-## 4 Handelsregister
+### IV. HANDELSREGISTER
 
 #### Art. 27
 
@@ -289,44 +298,46 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Verfügungen des Handelsregisteramtes können binnen 30 Tagen nach erfolgter Zustellung mit Beschwerde beim Verwaltungsgericht angefochten werden.
+Verfügungen des Handelsregisteramtes können binnen 30 Tagen nach erfolgter Zustellung mit Beschwerde beim Verwaltungsgericht angefochten werden.
 
-## 5 Wertpapiere
+### V. WERTPAPIERE
 
 #### Art. 29
 
 **Hinterlegung der Wechselsumme**
 
-<sup>1</sup> Das Kantonsgericht als Einzelgericht ist zuständig zur Entgegennahme der Hinterlegung der Wechselsumme durch die Schuldnerin oder den Schuldner (Art. 1032 und 1098 OR).
+Das Kantonsgericht als Einzelgericht ist zuständig zur Entgegennahme der Hinterlegung der Wechselsumme durch die Schuldnerin oder den Schuldner (Art. 1032 und 1098 OR).
 
 #### Art. 30
 
 **Wechselprotest**
 
-<sup>1</sup> Die Urkundspersonen sind für den Wechselprotest zuständig (Art. 1035, 1098 und 1143 Ziff. 9 OR).
+Die Urkundspersonen sind für den Wechselprotest zuständig (Art. 1035, 1098 und 1143 Ziff. 9 OR).
 
 #### Art. 31
 
 **Widerruf der Vollmacht der Anleihensvertretung**
 
-<sup>1</sup> Das Kantonsgericht als Einzelgericht ist zuständig zum Widerruf der Vollmacht der Anleihensvertretung (Art. 1162 Abs. 3 OR).
+Das Kantonsgericht als Einzelgericht ist zuständig zum Widerruf der Vollmacht der Anleihensvertretung (Art. 1162 Abs. 3 OR).
 
-## 6 Schlussbestimmungen
+### VI. SCHLUSSBESTIMMUNGEN
 
 #### Art. 32
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
 
 #### Art. 33
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Erlasse werden aufgehoben:
+Folgende Erlasse werden aufgehoben:
 
 - 1\. Einführungsverordnung vom 3. Juli 1976 zum Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht, Einführungsverordnung zum Obligationenrecht)[^33-1];
+
 - 2\. Einführungsverordnung vom 4. Juli 1990 zu den bundesrechtlichen Bestimmungen über die Miete und die nichtlandwirtschaftliche Pacht von Wohn- und Geschäftsräumen (Einführungsverordnung Miet- und Pachtrecht)[^33-2];
+
 - 3\. Einführungsgesetz vom 22. Oktober 1997 zum Bundesgesetz über die Gleichstellung von Frau und Mann (Gleichstellungsgesetz)[^33-3].
 
 [^33-1]: A 1976, 897, 1191
@@ -337,11 +348,6 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum; es unterliegt der Genehmigung des Bundes[^34-1].
+<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum; es unterliegt der Genehmigung des Bundes.
 
-<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest[^34-2].
-
-[^34-1]: Vom Bund genehmigt am 6. Juni 2018
-[^34-2]: In Kraft seit 1. Juli 2018
-
-A 2018, 418, 981
+<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.
