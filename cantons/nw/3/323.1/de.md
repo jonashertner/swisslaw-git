@@ -5,21 +5,20 @@ title: Gesetz über die Aktenführung und die Archivierung
 short: "Archivierungsgesetz, ArchG"
 language: de
 version: 2021-01-01
-valid_until: 2024-12-31
+corrected: 2021-11-09
 version_adopted: 2020-06-24
 adopted: 2008-12-17
 in_force: 2009-05-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/323.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/865/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/172/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Aktenführung und die Archivierung
+# Gesetz über die Aktenführung und die Archivierung (Archivierungsgesetz, ArchG)
 
-(Archivierungsgesetz, ArchG)
-
-vom 17.12.2008 (Stand 01.01.2021)
+vom 17. Dezember 2008[^t-2][^t-1]
 
 Der Landrat von Nidwalden,
 
@@ -27,7 +26,10 @@ gestützt auf Art. 23, 24 und 60 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+[^t-2]: A 2008, 2545, A 2009, 355; Datum des Inkrafttretens: 1. Mai 2009
+
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -52,7 +54,9 @@ beschliesst:
 <sup>1</sup> Organe sind Behörden oder Verwaltungsstellen:
 
 - 1\. des Kantons;
+
 - 2\. der Gemeinden und Gemeindeverbände;
+
 - 3\. der kantonalen und kommunalen selbständigen öffentlich-rechtlichen Körperschaften und Anstalten.
 
 <sup>2</sup> Organe sind auch natürliche und juristische Personen, soweit sie von Organen gemäss Abs. 1 öffentliche Aufgaben zur Erfüllung übertragen bekommen haben.
@@ -65,7 +69,7 @@ beschliesst:
 
 <sup>6</sup> Archivwürdig sind Unterlagen, die administrativ, rechtlich, politisch, wirtschaftlich, sozial, historisch oder kulturell für Nidwalden von Bedeutung sind oder der Nachvollziehbarkeit staatlichen Handelns oder der Rechtssicherheit dienen.
 
-<sup>7</sup> Für die Begriffe «Personendaten», «besonders schützenswerte Personendaten», «Persönlichkeitsprofil» und «betroffene Person» gelten die Definitionen des Gesetzes über den Datenschutz (Kantonales Datenschutzgesetz)[^3-1].
+<sup>7</sup> Für die Begriffe „Personendaten“, „besonders schützenswerte Personendaten“, „Persönlichkeitsprofil“ und „betroffene Person“ gelten die Definitionen des Gesetzes über den Datenschutz (Kantonales Datenschutzgesetz)[^3-1].
 
 [^3-1]: NG 232.1
 
@@ -77,7 +81,7 @@ beschliesst:
 
 <sup>2</sup> Dritte können Akten und Archivgut auch durch Ersitzung nicht erwerben.
 
-## 2 Aktenführung
+### II. AKTENFÜHRUNG
 
 #### Art. 5
 
@@ -117,7 +121,7 @@ beschliesst:
 
 **Aufbewahrung**
 
-<sup>1</sup> Die Organe bewahren ihre Akten bis zur Ablieferung an das Archiv auf.
+Die Organe bewahren ihre Akten bis zur Ablieferung an das Archiv auf.
 
 #### Art. 10
 
@@ -135,7 +139,7 @@ beschliesst:
 
 <sup>2</sup> Sie vernichten die Akten, die auch das Staatsarchiv als nicht archivwürdig bezeichnet hat und nicht übernimmt. Jede solche Vernichtung ist zu dokumentieren.
 
-## 3 Archivierung
+### III. ARCHIVIERUNG
 
 #### Art. 12
 
@@ -155,7 +159,7 @@ beschliesst:
 
 <sup>2</sup> Die anderen Archivleitungen haben gegenüber ihren Organen die gleichen Aufgaben und Befugnisse wie das Staatsarchiv.
 
-<sup>3</sup> Die Verfügungskompetenz der anderen Archive obliegt dem administrativen Rat, dem Vorstand von Gemeindeverbänden sowie der Geschäftsleitung der kantonalen und kommunalen selbständigen öffentlich-rechtlichen Körperschaften und Anstalten.
+<sup>3</sup> Die Verfügungskompetenz der anderen Archive obliegt dem administrativen Rat, dem Vorstand von Gemeindeverbänden sowie der Geschäftsleitung der kantonalen und kommunalen selbständigen öffentlichrechtlichen Körperschaften und Anstalten.
 
 #### Art. 14
 
@@ -181,7 +185,7 @@ beschliesst:
 
 **Anbieterecht**
 
-<sup>1</sup> Die Archivierungspflichtigen sind berechtigt, ihr Archivgut auf ihre Kosten dem Staatsarchiv zur Erschliessung oder dauernden Aufbewahrung zu übergeben.
+Die Archivierungspflichtigen sind berechtigt, ihr Archivgut auf ihre Kosten dem Staatsarchiv zur Erschliessung oder dauernden Aufbewahrung zu übergeben.
 
 #### Art. 17
 
@@ -213,7 +217,7 @@ beschliesst:
 
 <sup>5</sup> Jede Vernichtung ist zu dokumentieren.
 
-## 4 Öffentlichkeit und Nutzung des Archivguts
+### IV. ÖFFENTLICHKEIT UND NUTZUNG DES ARCHIVGUTS
 
 #### Art. 20
 
@@ -233,13 +237,15 @@ beschliesst:
 
 #### Art. 22
 
-**Schutzfristen 1. Grundsatz**
+**Schutzfristen**
 
-<sup>1</sup> Archivgut, das nicht bereits bei der Entstehung öffentlich zugänglich war, unterliegt einer Schutzfrist von 30 Jahren seit der Entstehung der Akten.
+- 1\. Grundsatz Archivgut, das nicht bereits bei der Entstehung öffentlich zugänglich war, unterliegt einer Schutzfrist von 30 Jahren seit der Entstehung der Akten.
 
 #### Art. 23
 
-**2. bei besonders schützenswerten Personendaten oder Persönlichkeitsprofilen**
+**2. bei besonders schützenswerten Personendaten oder**
+
+### Persönlichkeitsprofilen
 
 <sup>1</sup> Archivgut, das besonders schützenswerte Personendaten oder Persönlichkeitsprofile enthält, unterliegt einer Schutzfrist von 100 Jahren seit der Entstehung der Akten.
 
@@ -249,15 +255,16 @@ beschliesst:
 
 **3. bei Archivdeposita**
 
-<sup>1</sup> Eine Deponentin oder ein Deponent kann mit dem Archiv für das Archivdepot besondere Schutzfristen vereinbaren. Andernfalls gelten die ordentlichen Schutzfristen.
+Eine Deponentin oder ein Deponent kann mit dem Archiv für das Archivdepot besondere Schutzfristen vereinbaren. Andernfalls gelten die ordentlichen Schutzfristen.
 
 #### Art. 25
 
 **Einsichtnahme vor Ablauf der Schutzfrist**
 
-<sup>1</sup> Die Archive können auf begründetes Gesuch hin die Einsichtnahme in das Archivgut vor Ablauf der Schutzfrist bewilligen, wenn:
+Die Archive können auf begründetes Gesuch hin die Einsichtnahme in das Archivgut vor Ablauf der Schutzfrist bewilligen, wenn:
 
 - 1\. überwiegende öffentliche oder private Interessen es gebieten;
+
 - 2\. Archivgut für nicht personenbezogene Forschung, Planung oder Statistik benötigt wird.
 
 #### Art. 26
@@ -279,6 +286,7 @@ beschliesst:
 <sup>2</sup> Sofern eine sachgerechte Behandlung und die Sicherheit gewährleistet sind, können die Archive das Archivgut ausleihen:
 
 - 1\. an Organe, wenn es für die Erfüllung ihrer Aufgaben nötig ist;
+
 - 2\. an Fachinstitutionen für wissenschaftliche Forschungen sowie zu Ausstellungszwecken.
 
 <sup>3</sup> Ausgeliehenes Archivgut darf nicht verändert werden.
@@ -291,7 +299,7 @@ beschliesst:
 
 <sup>2</sup> Für aufwendige Leistungen und bei Inanspruchnahme der Archive für gewerbliche Zwecke wird eine Gebühr erhoben.
 
-## 5 Staatsarchiv
+### V. STAATSARCHIV
 
 #### Art. 29
 
@@ -304,33 +312,50 @@ beschliesst:
 <sup>3</sup> Das Staatsarchiv:
 
 - 1\. berät die Organe bei der Aktenführung;
+
 - 2\. übt die Aufsicht über die anderen Archive aus und erstellt Richtlinien über die Ermittlung der Archivwürdigkeit;
+
 - 3\. entscheidet über die Archivwürdigkeit;
+
 - 4\. sorgt für die fachgerechte Erschliessung, dauerhafte Aufbewahrung, Sicherung und Vermittlung des Archivguts;
+
 - 5\. gewährleistet die fachgerechte Benützung des Archivguts;
+
 - 6\. fördert und betreibt Forschung zur Kultur und zur Geschichte Nidwaldens;
+
 - 7\. führt eine Präsenzbibliothek zu Forschungszwecken;
+
 - 8\. sorgt für den fachlichen Austausch mit anderen Archiven und fachverwandten Institutionen;
-- 9\. unterstützt im Bereich des Archivguts die für den Kulturgüterschutz zuständige Instanz;
+
+9.[^29-1] unterstützt im Bereich des Archivguts die für den Kulturgüterschutz zuständige Instanz;
+
 - 10\. übernimmt weitere ihm zugewiesene Aufgaben.
+
+[^29-1]: Fassung gemäss Landratsbeschluss vom 24. Juni 2020, A 2020, 1384, 1846; in Kraft seit 1. Januar 2021
 
 #### Art. 30
 
 **Befugnisse**
 
-<sup>1</sup> Das Staatsarchiv:
+Das Staatsarchiv:
 
 - 1\. kann unter Vorbehalt der Genehmigung durch den Regierungsrat mit den anderen Archiven Verträge über die Übernahme von Archivgut abschliessen;
+
 - 2\. hat Zugang zu den anderen Archiven und kann ihnen gegenüber Weisungen über die Archivierung erteilen;
-- 3\. hat Zugang zu den Zwischenablagen der Organe und kann ihnen Weisungen über die Aktenführung und ‑ablieferung erteilen;
+
+- 3\. hat Zugang zu den Zwischenablagen der Organe und kann ihnen Weisungen über die Aktenführung und -ablieferung erteilen;
+
 - 4\. hat ein Mitspracherecht bei Projekten zur elektronischen Aktenführung in kantonalen Behörden und in der kantonalen Verwaltung;
+
 - 5\. entscheidet über die Benutzung seiner Bestände unter Berücksichtigung konservatorischer Gesichtspunkte und des Datenschutzes.
 
-## 6 Rechtsschutz , Übergangs , Vollzugs- und Schlussbestimmun-gen
+### VI. RECHTSSCHUTZ-, ÜBERGANGS-, VOLLZUGS- UND SCHLUSSBESTIMMUNGEN
+
+[^hVIRECHTSSCHUTZÜ-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 31
 
-**…**
+**…[^hVIRECHTSSCHUTZÜ-1]**
 
 #### Art. 32
 
@@ -344,17 +369,19 @@ beschliesst:
 
 #### Art. 33
 
-**Änderung bisherigen Rechts 1. Personalgesetz**
+**Änderung bisherigen Rechts**
 
-<sup>1</sup> Das Gesetz vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz)[^33-1] wird wie folgt geändert: …
+### 1. Personalgesetz
 
-[^33-1]: NG 165.1
+Das Gesetz vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz)[^h1Personalgesetz-1] wird wie folgt geändert: ...
+
+[^h1Personalgesetz-1]: NG 165.1
 
 #### Art. 34
 
 **2. Gemeindegesetz**
 
-<sup>1</sup> Das Gesetz vom 28. April 1974 über Organisation und Verwaltung der Gemeinden (Gemeindegesetz)[^34-1] wird wie folgt geändert: …
+Das Gesetz vom 28. April 1974 über Organisation und Verwaltung der Gemeinden (Gemeindegesetz)[^34-1] wird wie folgt geändert: ...
 
 [^34-1]: NG 171.1
 
@@ -362,7 +389,7 @@ beschliesst:
 
 **3. Steuergesetz**
 
-<sup>1</sup> Das Gesetz vom 22. März 2000 über die Steuern des Kantons und der Gemeinden (Steuergesetz)[^35-1] wird wie folgt geändert: …
+Das Gesetz vom 22. März 2000 über die Steuern des Kantons und der Gemeinden (Steuergesetz)[^35-1] wird wie folgt geändert: ...
 
 [^35-1]: NG 521.1
 
@@ -370,7 +397,7 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung vom 12. Juni 1975 über das Staatsarchiv[^36-1] wird aufgehoben.
+Die Verordnung vom 12. Juni 1975 über das Staatsarchiv[^36-1] wird aufgehoben.
 
 [^36-1]: A 1975, 975, 1243
 
@@ -378,15 +405,22 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen, insbesondere über:
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen, insbesondere über:
 
 - 1\. die Aktenführung;
+
 - 2\. die Anlage von Zwischenablagen;
+
 - 3\. die Archivierung;
+
 - 4\. die Benutzung des Archivguts;
+
 - 5\. die Dokumentation der Vernichtung von Akten und Archivgut;
+
 - 6\. die Benutzungsordnung für das Staatsarchiv;
+
 - 7\. den Datenschutz;
+
 - 8\. die Höhe der Gebühren.
 
 #### Art. 38
@@ -397,6 +431,4 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^38-1] fest.
 
-[^38-1]: Datum des Inkrafttretens: 1. Mai 2009
-
-A 2008, 2545, A 2009, 355
+[^38-1]: A 2008, 2545, A 2009, 355; Datum des Inkrafttretens: 1. Mai 2009
