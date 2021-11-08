@@ -5,34 +5,31 @@ title: Einführungsverordnung zur Bundesgesetzgebung über die Verwendung von DN
 short: "Kantonale DNA-Profil-Verordnung, kDNAPV"
 language: de
 version: 2015-07-01
+corrected: 2021-11-09
 version_adopted: 2015-06-09
 adopted: 2015-06-09
 in_force: 2015-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/263.13"
-pdf: "https://gesetze.nw.ch/api/de/versions/851/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/97/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsverordnung zur Bundesgesetzgebung über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen
+# Einführungsverordnung zur Bundesgesetzgebung über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (Kantonale DNA-Profil-Verordnung, kDNAPV)
 
-(Kantonale DNA-Profil-Verordnung, kDNAPV)
+vom 9. Juni 2015[^t-1]
 
-vom 09.06.2015 (Stand 01.07.2015)
+Der Regierungsrat von Nidwalden, gestützt auf Art. 64 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 20. Juni 2003 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz)[^t-2], beschliesst:
 
-Der Regierungsrat von Nidwalden,
-
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 20. Juni 2003 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz)[^ingress-1],
-
-beschliesst:
-
-[^ingress-1]: SR 363
+[^t-1]: A 2015, 1008
+[^t-2]: SR 363
 
 #### § 1
 
 **Richterliche Behörde**
 
-<sup>1</sup> Das Kantonsgericht als Einzelgericht oder die beziehungsweise der Vorsitzende des Gerichts, bei dem das Verfahren hängig ist, ist die richterliche Behörde im Sinne von Art. 7 Abs. 3 DNA-Profil-Gesetz[^1-1].
+Das Kantonsgericht als Einzelgericht oder die beziehungsweise der Vorsitzende des Gerichts, bei dem das Verfahren hängig ist, ist die richterliche Behörde im Sinne von Art. 7 Abs. 3 DNA-Profil-Gesetz[^1-1].
 
 [^1-1]: SR 363
 
@@ -40,7 +37,7 @@ beschliesst:
 
 **Meldestelle**
 
-<sup>1</sup> Die Polizei ist die zentrale Meldestelle im Sinne von Art. 12 Abs. 1 DNA-Profil-Verordnung[^2-1].
+Die Polizei ist die zentrale Meldestelle im Sinne von Art. 12 Abs. 1 DNA-Profil-Verordnung[^2-1].
 
 [^2-1]: SR 363.1
 
@@ -48,7 +45,7 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Einführungsverordnung vom 8. März 2005 zur Bundesgesetzgebung über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen[^3-1] wird aufgehoben.
+Die Einführungsverordnung vom 8. März 2005 zur Bundesgesetzgebung über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen[^3-1] wird aufgehoben.
 
 [^3-1]: A 2005, 422
 
@@ -56,6 +53,8 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Juli 2015 in Kraft.
+Diese Verordnung tritt am 1. Juli 2015 in Kraft.
 
-A 2015, 1008
+**1**
+
+Stand: 1. Juli 2015
