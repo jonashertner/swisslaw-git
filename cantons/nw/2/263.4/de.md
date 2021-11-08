@@ -5,36 +5,33 @@ title: Einführungsgesetz zum Bundesgesetz über die Hilfe an Opfer von Straftat
 short: "Kantonales Opferhilfegesetz, kOHG"
 language: de
 version: 2019-01-01
+corrected: 2021-11-09
 version_adopted: 2018-06-13
 adopted: 2018-06-13
 in_force: 2019-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/263.4"
-pdf: "https://gesetze.nw.ch/api/de/versions/852/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/95/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zum Bundesgesetz über die Hilfe an Opfer von Straftaten
+# Einführungsgesetz zum Bundesgesetz über die Hilfe an Opfer von Straftaten (Kantonales Opferhilfegesetz, kOHG)
 
-(Kantonales Opferhilfegesetz, kOHG)
+vom 13. Juni 2018[^t-1]
 
-vom 13.06.2018 (Stand 01.01.2019)
+Der Landrat von Nidwalden, gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 9, 15 und 29 des Bundesgesetzes vom 23. März 2007 über die Hilfe an Opfer von Straftaten (Opferhilfegesetz, OHG)[^t-2], beschliesst:
 
-Der Landrat von Nidwalden,
+[^t-1]: A 2018, 1131, 2182; in Kraft seit 1. Januar 2019
+[^t-2]: SR 312.5
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 9, 15 und 29 des Bundesgesetzes vom 23. März 2007 über die Hilfe an Opfer von Straftaten (Opferhilfegesetz, OHG)[^ingress-1],
-
-beschliesst:
-
-[^ingress-1]: SR 312.5
-
-## 1 Beratungsstelle
+### I. BERATUNGSSTELLE
 
 #### Art. 1
 
 **Bezeichnung**
 
-<sup>1</sup> Der Regierungsrat bezeichnet in einer Verordnung eine fachlich selbständige Beratungsstelle gemäss Art. 9 OHG[^1-1].
+Der Regierungsrat bezeichnet in einer Verordnung eine fachlich selbständige Beratungsstelle gemäss Art. 9 OHG[^1-1].
 
 [^1-1]: SR 312.5
 
@@ -52,7 +49,7 @@ beschliesst:
 
 **Längerfristige Hilfe Dritter**
 
-<sup>1</sup> Die Direktion entscheidet auf Antrag der Beratungsstelle über die Übernahme von Kosten für längerfristige Hilfe Dritter.
+Die Direktion entscheidet auf Antrag der Beratungsstelle über die Übernahme von Kosten für längerfristige Hilfe Dritter.
 
 #### Art. 4
 
@@ -72,15 +69,16 @@ beschliesst:
 
 <sup>2</sup> Sie erteilt der Direktion die für eine sachgerechte Aufsicht erforderlichen Auskünfte.
 
-## 2 Entschädigung und Genugtuung
+### II. ENTSCHÄDIGUNG UND GENUGTUUNG
 
 #### Art. 6
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Direktion entscheidet über:
+Die Direktion entscheidet über:
 
 - 1\. Gesuche um Entschädigungen und Genugtuungsleistungen;
+
 - 2\. Entschädigungsvorschüsse und deren Rückerstattungen.
 
 #### Art. 7
@@ -91,13 +89,13 @@ beschliesst:
 
 <sup>2</sup> Der Anspruch auf Rückerstattung des Vorschusses erlischt, wenn er nicht innerhalb eines Jahres seit Kenntnis vom Eintritt der Rechtskraft eines abweisenden Entscheids über ein Entschädigungsgesuch geltend gemacht wird, jedoch spätestens zehn Jahre nach der Gewährung des Vorschusses.
 
-## 3 Finanzielle Bestimmungen
+### III. FINANZIELLE BESTIMMUNGEN
 
 #### Art. 8
 
 **Kostentragung**
 
-<sup>1</sup> Unter Vorbehalt der Kostenpflicht Dritter trägt der Kanton die Kosten der Opferhilfe.
+Unter Vorbehalt der Kostenpflicht Dritter trägt der Kanton die Kosten der Opferhilfe.
 
 #### Art. 9
 
@@ -109,7 +107,7 @@ beschliesst:
 
 [^9-1]: SR 312.5
 
-## 4 Vollzug und Rechtsschutz
+### IV. VOLLZUG UND RECHTSSCHUTZ
 
 #### Art. 10
 
@@ -131,13 +129,13 @@ beschliesst:
 
 [^11-1]: NG 265.1
 
-## 5 Schlussbestimmungen
+### V. SCHLUSSBESTIMMUNGEN
 
 #### Art. 12
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Einführungsverordnung vom 1. Dezember 1993 zum Bundesgesetz über die Hilfe an Opfer von Straftaten (Kantonale Opferhilfeverordnung, kOHV)[^12-1] wird aufgehoben.
+Die Einführungsverordnung vom 1. Dezember 1993 zum Bundesgesetz über die Hilfe an Opfer von Straftaten (Kantonale Opferhilfeverordnung, kOHV)[^12-1] wird aufgehoben.
 
 [^12-1]: A 1993, 1983; 1994, 450
 
@@ -147,8 +145,4 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest[^13-1].
-
-[^13-1]: In Kraft seit 1. Januar 2019
-
-A 2018, 1131, 2182
+<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.
