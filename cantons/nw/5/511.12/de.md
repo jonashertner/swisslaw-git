@@ -5,30 +5,31 @@ title: Verordnung über das Interne Kontrollsystem
 short: "IKS-Verordnung, IKSV"
 language: de
 version: 2021-01-01
+corrected: 2021-11-09
 version_adopted: 2020-08-25
 adopted: 2020-08-25
 in_force: 2021-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/511.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/876/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/191/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über das Interne Kontrollsystem
+# Verordnung über das Interne Kontrollsystem (IKS-Verordnung, IKSV)
 
-(IKS-Verordnung, IKSV)
-
-vom 25.08.2020 (Stand 01.01.2021)
+vom 25. August 2020[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 71 und Art. 72 des Gesetzes vom 21. Oktober 2009 über den Finanzhaushalt des Kantons (Finanzhaushaltgesetz, kFHG)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 71 und Art. 72 des Gesetzes vom 21. Oktober 2009 über den Finanzhaushalt des Kantons (Finanzhaushaltgesetz, kFHG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 511.1
+[^t-1]: A 2020, 1808
+[^t-2]: NG 511.1
 
-## 1 Grundlagen und Begriffe
+### I. GRUNDLAGEN UND BEGRIFFE
 
 #### § 1
 
@@ -47,9 +48,13 @@ beschliesst:
 <sup>2</sup> Ziel des IKS ist, bestehende Risiken zu erfassen und zu steuern, um mit ausreichender Gewähr sicherstellen zu können, dass die betreffende kantonale Verwaltungseinheit im Rahmen der Erfüllung ihrer Aufgabenstellung die folgenden allgemeinen Ziele erreicht:
 
 - 1\. das Vermögen des Kantons zu schützen sowie die zweckmässige Verwendung der Mittel sicherzustellen (Vermögensschutz);
+
 - 2\. finanziell relevante Prozesse ordnungsgemäss abzuwickeln und zu optimieren (operative Geschäftstätigkeit);
+
 - 3\. die Zuverlässigkeit der Finanz- und Führungsinformationen sicherzustellen (Rechnungslegung, Reporting);
-- 4\. Gesetze, Verordnungen und Reglemente in Bezug auf Ziff. 1–3 einzuhalten (Compliance);
+
+- 4\. Gesetze, Verordnungen und Reglemente in Bezug auf Ziff. 1-3 einzuhalten (Compliance);
+
 - 5\. ein internes Umfeld zur Verminderung von unbeabsichtigten Fehlern und betrügerischem Verhalten zu schaffen.
 
 #### § 3
@@ -58,7 +63,7 @@ beschliesst:
 
 <sup>1</sup> Das IKS und das Risikomanagement werden als zwei gesonderte Instrumente betrachtet.
 
-<sup>2</sup> Das IKS fokussiert sich auf die Steuerungs- und Kontrollaktivitäten der finanziell relevanten Geschäftsprozesse und ‑risiken.
+<sup>2</sup> Das IKS fokussiert sich auf die Steuerungs- und Kontrollaktivitäten der finanziell relevanten Geschäftsprozesse und -risiken.
 
 #### § 4
 
@@ -76,7 +81,7 @@ beschliesst:
 
 <sup>2</sup> Das IKS-Handbuch enthält Erläuterungen und Empfehlungen zur Ausgestaltung und Umsetzung der IKS-Regeln.
 
-## 2 Organisation
+### II. ORGANISATION
 
 #### § 6
 
@@ -101,9 +106,13 @@ beschliesst:
 <sup>2</sup> Sie stellen sicher, dass die nachfolgenden, allgemeinen Voraussetzungen für die Existenz eines IKS erfüllt sind:
 
 - 1\. Das IKS ist vorhanden und überprüfbar (dokumentiert).
+
 - 2\. Das IKS ist den Risiken und Tätigkeiten der Verwaltungseinheiten angepasst.
+
 - 3\. Das IKS ist den Mitarbeitenden bekannt.
+
 - 4\. Das definierte IKS wird angewendet.
+
 - 5\. Das Kontrollbewusstsein ist in der Verwaltungseinheit vorhanden und überprüfbar.
 
 <sup>3</sup> Sie bezeichnen je eine IKS-Koordinationsstelle, welche die Schnittstelle zwischen IKS-Fachstelle und den kantonalen Verwaltungseinheiten bildet.
@@ -116,15 +125,15 @@ beschliesst:
 
 <sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter sind an der IKS-Umsetzung beteiligt. Sie führen die Prozesskontrollen durch und dokumentieren die Kontrollergebnisse. Sie melden aufgedeckte Kontrollschwächen an die vorgesetzte Stelle.
 
-## 3 Grundsätze
+### III. GRUNDSÄTZE
 
 #### § 9
 
 **Risikoorientierung**
 
-<sup>1</sup> Jede kantonale Verwaltungseinheit gestaltet das IKS so aus, dass ihre wesentlichen und von ihr beeinflussbaren finanziellen Risiken abgedeckt sind. Bei Schnittstellen zu andern kantonalen Verwaltungseinheiten werden die Zuständigkeiten für die Prozessrisiken und ‑kontrollen definiert.
+<sup>1</sup> Jede kantonale Verwaltungseinheit gestaltet das IKS so aus, dass ihre wesentlichen und von ihr beeinflussbaren finanziellen Risiken abgedeckt sind. Bei Schnittstellen zu andern kantonalen Verwaltungseinheiten werden die Zuständigkeiten für die Prozessrisiken und -kontrollen definiert.
 
-<sup>2</sup> Angestrebt wird keine absolute Sicherheit, sondern eine angemessene Sicherheit unter Berücksichtigung der Kosten- / Nutzenabwägung.
+<sup>2</sup> Angestrebt wird keine absolute Sicherheit, sondern eine angemessene Sicherheit unter Berücksichtigung der Kosten-/Nutzenabwägung.
 
 #### § 10
 
@@ -140,7 +149,7 @@ beschliesst:
 
 **Anforderungen an das IKS**
 
-<sup>1</sup> Die kantonalen Verwaltungseinheiten unterhalten ein nach den Vorgaben des IKS-Handbuchs angepasstes und systematisches IKS.
+Die kantonalen Verwaltungseinheiten unterhalten ein nach den Vorgaben des IKS-Handbuchs angepasstes und systematisches IKS.
 
 #### § 12
 
@@ -150,7 +159,7 @@ beschliesst:
 
 <sup>2</sup> Das Reporting der obersten Führungsinstanzen und der kantonalen Verwaltungseinheiten richtet sich nach dem IKS-Handbuch.
 
-## 4 Übergangs- und Schlussbestimmungen
+### IV. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### § 13
 
@@ -164,7 +173,7 @@ beschliesst:
 
 **Änderung der Regierungsratsverordnung**
 
-<sup>1</sup> Der Anhang der Vollzugsverordnung vom 7. Juli 1998 zum Gesetz über die Organisation des Regierungsrates und der Verwaltung (Regierungsratsverordnung, RRV)[^14-1] wird wie folgt geändert: …
+Der Anhang der Vollzugsverordnung vom 7. Juli 1998 zum Gesetz über die Organisation des Regierungsrates und der Verwaltung (Regierungsratsverordnung, RRV)[^14-1] wird wie folgt geändert: …
 
 [^14-1]: NG 152.11
 
@@ -172,6 +181,4 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2021 in Kraft.
-
-A 2020, 1808
+Diese Verordnung tritt am 1. Januar 2021 in Kraft.
