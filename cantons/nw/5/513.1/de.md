@@ -5,21 +5,20 @@ title: Gesetz über die Finanzkontrolle
 short: "Kantonales Finanzkontrollgesetz, kFKG"
 language: de
 version: 2013-03-01
-valid_until: 2026-07-31
+corrected: 2021-11-09
 version_adopted: 2012-11-21
 adopted: 2009-10-21
 in_force: 2010-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/513.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/878/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/193/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Finanzkontrolle
+# Gesetz über die Finanzkontrolle (Kantonales Finanzkontrollgesetz, kFKG)
 
-(Kantonales Finanzkontrollgesetz, kFKG)
-
-vom 21.10.2009 (Stand 01.03.2013)
+vom 21. Oktober 2009<sup>1</sup>
 
 Der Landrat von Nidwalden,
 
@@ -27,7 +26,7 @@ gestützt auf Art. 60 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Stellung und Organisation
+### I. STELLUNG UND ORGANISATION
 
 #### Art. 1
 
@@ -40,6 +39,7 @@ beschliesst:
 <sup>3</sup> Die Finanzkontrolle unterstützt:
 
 - 1\. den Landrat bei der Ausübung der Oberaufsicht über die Verwaltung und die Rechtspflege;
+
 - 2\. den Regierungsrat, die Direktionen und die Gerichte bei der Ausübung der Aufsicht über die Verwaltung.
 
 <sup>4</sup> Die Finanzkontrolle ist administrativ der Finanzdirektion zugeordnet.
@@ -50,7 +50,7 @@ beschliesst:
 
 <sup>1</sup> Die Finanzkontrolle wird von einer in Finanzaufsichtsfragen der öffentlichen Verwaltung ausgewiesenen Fachperson geleitet.
 
-<sup>2</sup> Der Landrat wählt die Leitung der Finanzkontrolle auf Antrag des Landratsbüros.
+<sup>2</sup> Der Landrat wählt die Leitung der Finanzkontrolle auf Antrag des Landratsbüros.<sup>5</sup>
 
 #### Art. 3
 
@@ -72,7 +72,7 @@ beschliesst:
 
 **Externe Überprüfungen**
 
-<sup>1</sup> Die Aufsichtskommission beauftragt periodisch eine externe Fachstelle mit der Qualitäts- und Leistungsbeurteilung der Finanzkontrolle. Die Berichte sind zusätzlich der Finanzkommission und dem Regierungsrat zuzustellen.
+Die Aufsichtskommission beauftragt periodisch eine externe Fachstelle mit der Qualitäts- und Leistungsbeurteilung der Finanzkontrolle. Die Berichte sind zusätzlich der Finanzkommission und dem Regierungsrat zuzustellen.
 
 #### Art. 6
 
@@ -84,7 +84,7 @@ beschliesst:
 
 <sup>3</sup> Die Finanzkontrolle verkehrt direkt mit dem Regierungsrat. Ihre Leitung nimmt auf Einladung des Landammanns an den Sitzungen teil.
 
-## 2 Aufsichtsbereich und Tätigkeit
+### II. AUFSICHTSBEREICH UND TÄTIGKEIT
 
 #### Art. 7
 
@@ -93,6 +93,7 @@ beschliesst:
 <sup>1</sup> Der Finanzaufsicht durch die Finanzkontrolle unterliegen vorbehältlich abweichender Regelungen in Spezialgesetzen:
 
 - 1\. die kantonale Verwaltung;
+
 - 2\. die Verwaltung der Rechtspflege.
 
 <sup>2</sup> Der Regierungsrat kann Körperschaften, Organisationen, Unternehmungen und Personen, denen der Kanton eine öffentliche Aufgabe überträgt, Finanzhilfe (Beiträge, Darlehen, Vorschüsse, Zinsübernahmen, usw.) gewährt, an denen er sich finanziell beteiligt oder über welche er Aufsichtsfunktionen wahrzunehmen hat, unter die Finanzaufsicht der Finanzkontrolle stellen.
@@ -101,9 +102,7 @@ beschliesst:
 
 <sup>4</sup> Die Finanzaufsicht über die selbständigen öffentlich-rechtlichen Anstalten wird durch die parlamentarischen Aufsichtskommissionen wahrgenommen.
 
-<sup>5</sup> Die Finanzaufsicht über die Gemeinden richtet sich nach dem Gemeindegesetz[^7-1].
-
-[^7-1]: NG 171.1
+<sup>5</sup> Die Finanzaufsicht über die Gemeinden richtet sich nach dem Gemeindegesetz<sup>2</sup>.
 
 #### Art. 8
 
@@ -112,8 +111,11 @@ beschliesst:
 <sup>1</sup> Die Finanzkontrolle ist zuständig für die Prüfung des gesamten Finanzhaushaltes, insbesondere:
 
 - 1\. die Prüfung der Staatsrechnung, der separaten Rechnungen der Verwaltungseinheiten sowie der Gerichte;
+
 - 2\. die Prüfung der internen Kontrollsysteme;
+
 - 3\. die Vornahme von Systemprüfungen, Projektprüfungen und Prüfungen der Wirkungsrechnungen;
+
 - 4\. Prüfungen im Auftrag des Bundes.
 
 <sup>2</sup> Prüfungen als Finanzaufsicht gemäss Art. 7 Abs. 2 können nur soweit vorgenommen werden, als ein öffentliches Interesse besteht.
@@ -132,23 +134,21 @@ beschliesst:
 
 **Inhalt der Finanzaufsicht**
 
-<sup>1</sup> Die Finanzaufsicht der Finanzkontrolle umfasst die Prüfung der Grundsätze der Haushaltsführung gemäss dem Finanzhaushaltgesetz[^9-1] und die Prüfung der Ordnungsmässigkeit.
-
-[^9-1]: NG 511.1
+Die Finanzaufsicht der Finanzkontrolle umfasst die Prüfung der Grundsätze der Haushaltsführung gemäss dem Finanzhaushaltgesetz<sup>3</sup> und die Prüfung der Ordnungsmässigkeit.
 
 #### Art. 10
 
 **Prüfungsgrundsätze**
 
-<sup>1</sup> Die Finanzkontrolle übt ihre Tätigkeit nach den Bestimmungen dieses Gesetzes sowie nach den anerkannten Revisionsgrundsätzen aus.
+Die Finanzkontrolle übt ihre Tätigkeit nach den Bestimmungen dieses Gesetzes sowie nach den anerkannten Revisionsgrundsätzen aus.
 
 #### Art. 11
 
 **Rechnungsstellung**
 
-<sup>1</sup> Die Finanzkontrolle stellt ihre Aufwendungen nur bei Prüfungen nach Art. 7 Abs. 2 und Art. 8 Abs. 1 Ziff. 4 zu Vollkosten in Rechnung.
+Die Finanzkontrolle stellt ihre Aufwendungen nur bei Prüfungen nach Art. 7 Abs. 2 und Art. 8 Abs. 1 Ziff. 4 zu Vollkosten in Rechnung.
 
-## 3 Verfahren
+### III. VERFAHREN
 
 #### Art. 12
 
@@ -176,9 +176,10 @@ beschliesst:
 
 **Unerledigte Beanstandungen**
 
-<sup>1</sup> Wird der festgestellte Mangel durch die geprüfte Stelle nicht behoben, werden keine Massnahmen zu seiner Behebung eingeleitet oder erstattet sie bei wesentlichen Mängeln binnen der festgelegten Frist keinen Bericht, hat die Finanzkontrolle folgende Kompetenzen:
+Wird der festgestellte Mangel durch die geprüfte Stelle nicht behoben, werden keine Massnahmen zu seiner Behebung eingeleitet oder erstattet sie bei wesentlichen Mängeln binnen der festgelegten Frist keinen Bericht, hat die Finanzkontrolle folgende Kompetenzen:
 
 - 1\. bei Beanstandungen, welche das Haushaltgleichgewicht, die Sparsamkeit, die Dringlichkeit, die Wirtschaftlichkeit, das Verursacherprinzip, die Vorteilsabgeltung, das Verbot der Zweckbindung von Hauptsteuern und die Wirkungsorientierung berühren, stellt sie dem Regierungsrat beziehungsweise den Gerichten Antrag über die notwendigen Massnahmen;
+
 - 2\. bei Beanstandungen, welche die Gesetzmässigkeit berühren, kann sie diese formell feststellen. Sie kann eine Weisung erlassen.
 
 #### Art. 15
@@ -201,7 +202,7 @@ beschliesst:
 
 **Tätigkeitsbericht**
 
-<sup>1</sup> Die Finanzkontrolle erstattet dem Landrat und dem Regierungsrat jährlich einen Tätigkeitsbericht, in dem sie über den Umfang und die Schwerpunkte ihrer Prüftätigkeit, sowie über wichtige Feststellungen und Beurteilungen informiert. Der Bericht wird veröffentlicht.
+Die Finanzkontrolle erstattet dem Landrat und dem Regierungsrat jährlich einen Tätigkeitsbericht, in dem sie über den Umfang und die Schwerpunkte ihrer Prüftätigkeit, sowie über wichtige Feststellungen und Beurteilungen informiert. Der Bericht wird veröffentlicht.
 
 #### Art. 17
 
@@ -215,7 +216,7 @@ beschliesst:
 
 **Laufende Verfahren**
 
-<sup>1</sup> Bis zur endgültigen Erledigung einer Beanstandung und solange eine Untersuchung der Finanzkontrolle nicht abgeschlossen ist, dürfen ohne Zustimmung der Finanzdirektion weder neue Verpflichtungen eingegangen noch Zahlungen geleistet werden, die Gegenstand des Verfahrens bilden.
+Bis zur endgültigen Erledigung einer Beanstandung und solange eine Untersuchung der Finanzkontrolle nicht abgeschlossen ist, dürfen ohne Zustimmung der Finanzdirektion weder neue Verpflichtungen eingegangen noch Zahlungen geleistet werden, die Gegenstand des Verfahrens bilden.
 
 #### Art. 19
 
@@ -229,21 +230,21 @@ beschliesst:
 
 **Mitwirkungspflicht**
 
-<sup>1</sup> Wer der Aufsicht durch die Finanzkontrolle untersteht, unterstützt sie bei der Durchführung ihrer Aufgaben. Insbesondere legt die zu prüfende Stelle, ungeachtet von Geheimhaltungspflichten, auf Verlangen die notwendigen Unterlagen vor und erteilt die erforderlichen Auskünfte.
+Wer der Aufsicht durch die Finanzkontrolle untersteht, unterstützt sie bei der Durchführung ihrer Aufgaben. Insbesondere legt die zu prüfende Stelle, ungeachtet von Geheimhaltungspflichten, auf Verlangen die notwendigen Unterlagen vor und erteilt die erforderlichen Auskünfte.
 
 #### Art. 21
 
 **Anzeigepflicht**
 
-<sup>1</sup> Mängel von grundsätzlicher und wesentlicher finanzieller Bedeutung, sind auf dem Dienstweg unverzüglich der Finanzkontrolle zu melden.
+Mängel von grundsätzlicher und wesentlicher finanzieller Bedeutung, sind auf dem Dienstweg unverzüglich der Finanzkontrolle zu melden.
 
-## 4 Schlussbestimmungen
+### IV. SCHLUSSBESTIMMUNGEN
 
 #### Art. 22
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung vom 9. Dezember 1992 über die Finanzkontrolle[^22-1] wird aufgehoben.
+Die Verordnung vom 9. Dezember 1992 über die Finanzkontrolle[^22-1] wird aufgehoben.
 
 [^22-1]: A 1992, 2001; A 1993, 322
 
@@ -253,8 +254,12 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest[^23-1].
+<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.
 
-[^23-1]: Datum des Inkrafttretens: 1. Januar 2010
+## Weitere Fussnoten
 
-A 2009, 1815; A 2010, 71
+- [1] A 2009, 1815; A 2010, 71; Datum des Inkrafttretens: 1. Januar 2010
+- [2] NG 171.1
+- [3] NG 511.1
+- [5] Fassung gemäss Landratsbeschluss vom 21. November 2012, A 2012, 1789; A 2013,
+- [322] ; in Kraft seit 1. März 2013
