@@ -5,42 +5,43 @@ title: Vollzugsverordnung zum Gesetz über die Flurgenossenschaften
 short: "Flurgenossenschaftsverordnung, FlurV"
 language: de
 version: 2013-11-01
+corrected: 2021-11-09
 version_adopted: 2013-10-15
 adopted: 2013-10-15
 in_force: 2013-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/211.41"
-pdf: "https://gesetze.nw.ch/api/de/versions/838/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/70/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Gesetz über die Flurgenossenschaften
+# Vollzugsverordnung zum Gesetz über die Flurgenossenschaften (Flurgenossenschaftsverordnung, FlurV)
 
-(Flurgenossenschaftsverordnung, FlurV)
-
-vom 15.10.2013 (Stand 01.11.2013)
+vom 15. Oktober 2013[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 21 und 27 des Gesetzes vom 19. Dezember 2012 über die Flurgenossenschaften (Flurgenossenschaftsgesetz, FlurG)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 21 und 27 des Gesetzes vom 19. Dezember 2012 über die Flurgenossenschaften (Flurgenossenschaftsgesetz, FlurG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 211.4
+[^t-1]: A 2013, 1720
+[^t-2]: NG 211.4
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### § 1
 
 **Vertretung an Versammlungen**
 
-<sup>1</sup> Lässt sich eine Grundeigentümerin oder ein Grundeigentümer an der Gründungsversammlung oder einer anderen Versammlung vertreten, ist die schriftliche Vertretungsvollmacht spätestens vor der Behandlung des Geschäfts der Versammlungsleitung abzugeben.
+Lässt sich eine Grundeigentümerin oder ein Grundeigentümer an der Gründungsversammlung oder einer anderen Versammlung vertreten, ist die schriftliche Vertretungsvollmacht spätestens vor der Behandlung des Geschäfts der Versammlungsleitung abzugeben.
 
 #### § 2
 
 **Gründungsbeschluss**
 
-<sup>1</sup> Die Stimmabgabe jeder Grundeigentümerin und jedes Grundeigentümers ist schriftlich mit Angabe des Namens und der vertretenen Grundstücke zu protokollieren.
+Die Stimmabgabe jeder Grundeigentümerin und jedes Grundeigentümers ist schriftlich mit Angabe des Namens und der vertretenen Grundstücke zu protokollieren.
 
 #### § 3
 
@@ -51,23 +52,24 @@ beschliesst:
 <sup>2</sup> Der Vorstand ist spätestens zu informieren:
 
 - 1\. bei der Errichtung von Bauten vor der Einreichung des Baugesuchs;
+
 - 2\. bei Handänderungen und bei der Errichtung von Dienstbarkeiten vor Vertragsabschluss.
 
 [^3-1]: NG 211.4
 
-## 2 Bewilligung und Ausführung des Unternehmens
+### II. BEWILLIGUNG UND AUSFÜHRUNG DES UNTERNEHMENS
 
 #### § 4
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Baudirektion ist für das Projektbewilligungsverfahren und die Bewilligung von Projektänderungen zuständig.
+Die Baudirektion ist für das Projektbewilligungsverfahren und die Bewilligung von Projektänderungen zuständig.
 
 #### § 5
 
 **Landabzug für allgemeine Anlagen**
 
-<sup>1</sup> Bei der Ermittlung des eingeworfenen Bodenwerts gemäss Art. 19 FlurG[^5-1] ist auf den Bonitierungswert abzustellen.
+Bei der Ermittlung des eingeworfenen Bodenwerts gemäss Art. 19 FlurG[^5-1] ist auf den Bonitierungswert abzustellen.
 
 [^5-1]: NG 211.4
 
@@ -102,13 +104,13 @@ beschliesst:
 
 <sup>3</sup> Der Anmeldung beim Grundbuchamt sind insbesondere das Ausführungsprojekt, der Mutationsplan, der Genehmigungsentscheid und die Ausweise über die Bezahlung der Entschädigungen beizulegen.
 
-## 3 Schlussbestimmungen
+### III. SCHLUSSBESTIMMUNGEN
 
 #### § 9
 
 **Änderung der Regierungsratsverordnung**
 
-<sup>1</sup> Der Anhang der Vollzugsverordnung vom 7. Juli 1998 zum Gesetz über die Organisation des Regierungsrates und der Verwaltung (Regierungsratsverordnung)[^9-1] wird wie folgt geändert: …
+Der Anhang der Vollzugsverordnung vom 7. Juli 1998 zum Gesetz über die Organisation des Regierungsrates und der Verwaltung (Regierungsratsverordnung)[^9-1] wird wie folgt geändert: …
 
 [^9-1]: NG 152.11
 
@@ -116,6 +118,4 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. November 2013 in Kraft.
-
-A 2013, 1720
+Diese Verordnung tritt am 1. November 2013 in Kraft.
