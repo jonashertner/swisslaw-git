@@ -5,36 +5,40 @@ title: Interkantonale Vereinbarung für soziale Einrichtungen
 short: IVSE
 language: de
 version: 2020-06-01
+corrected: 2021-11-10
 version_adopted: 2019-08-28
 adopted: 2002-12-13
 in_force: 2006-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/761.3"
-pdf: "https://gesetze.nw.ch/api/de/versions/887/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/335/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung für soziale Einrichtungen
+# Interkantonale Vereinbarung für soziale Einrichtungen (IVSE)
 
-(IVSE)
+vom 13. Dezember 2002 (Fassung vom 1. Januar 2008)[^t-1]
 
-vom 13.12.2002 (Stand 01.06.2020)
-
-Präambel
+PRÄAMBEL
 
 In Anbetracht dessen,
 
-– dass soziale Einrichtungen Kindern, Jugendlichen und Erwachsenen mit Wohnsitz in einem anderen Kanton offen stehen sollen,
+- dass soziale Einrichtungen Kindern, Jugendlichen und Erwachsenen mit Wohnsitz in einem anderen Kanton offen stehen sollen,
 
-– dass die hierfür nötige Angebotsoffenheit nur spielen kann, wenn die Kostenübernahme zwischen den Kantonen auf der Grundlage einheitlicher Berechnungsmethoden gesichert ist,
+- dass die hierfür nötige Angebotsoffenheit nur spielen kann, wenn die Kostenübernahme zwischen den Kantonen auf der Grundlage einheitlicher Berechnungsmethoden gesichert ist,
 
-– dass eine enge interkantonale Zusammenarbeit im Bereiche der sozialen Einrichtungen anzustreben ist,
+- dass eine enge interkantonale Zusammenarbeit im Bereiche der sozialen Einrichtungen anzustreben ist,
 
-beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonalen Sozialdirektoren (SODK), im Einvernehmen mit der Konferenz der kantonalen Justiz- und Polizeidirektorinnen und ‑direktoren (KKJPD) und der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und ‑direktoren (GDK) folgende Vereinbarung:
+beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonalen Sozialdirektoren (SODK), im Einvernehmen mit der Konferenz der kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD) und der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK) folgende Vereinbarung:
 
-## 1 Grundlagen
+**1**
 
-### 1.1 Zweck
+Stand: 1. Juni 2020 I GRUNDLAGEN
+
+I.I Zweck
+
+[^t-1]: A 2014, 2109; vom Landrat genehmigt am 26. November 2014; A 2014, 2107; A 2015, 307
 
 #### Art. 1
 
@@ -42,31 +46,40 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>2</sup> Die Vereinbarungskantone arbeiten in allen Belangen der IVSE zusammen. Sie tauschen insbesondere Informationen über Massnahmen, Erfahrungen sowie Ergebnisse aus, stimmen ihre Angebote an Einrichtungen aufeinander ab und fördern die Qualität derselben.
 
-### 1.2 Geltungsbereich
+### I.II Geltungsbereich
 
 #### Art. 2
 
 **Bereiche**
 
-<sup>1</sup> Die IVSE bezieht sich auf Einrichtungen der folgenden Bereiche:
+<sup>1</sup> Die IVSE bezieht sich auf Einrichtungen der folgenden Bereiche: A[^2-1] Stationäre Einrichtungen, die gestützt auf eidgenössisches oder kantonales Recht Personen bis zum vollendeten 20. Altersjahr, längstens jedoch bis nach Abschluss der Erstausbildung beherbergen, sofern sie vor Erreichen der Volljährigkeit in eine Einrichtung eingetreten oder dort untergebracht worden sind.
 
-- A Stationäre Einrichtungen, die gestützt auf eidgenössisches oder kantonales Recht Personen bis zum vollendeten 20. Altersjahr, längstens jedoch bis nach Abschluss der Erstausbildung beherbergen, sofern sie vor Erreichen der Volljährigkeit in eine Einrichtung eingetreten oder dort untergebracht worden sind. Im Fall von Massnahmen gemäss dem Bundesgesetz über das Jugendstrafrecht[^2-1] liegt die Altersgrenze unabhängig vom Eintrittsalter beim vollendeten 25. Altersjahr.
-- B Einrichtungen für erwachsene, invalide Personen oder Einheiten solcher Einrichtungen gemäss dem Bundesgesetz über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG):
-  - a) Werkstätten, die dauernd intern oder an dezentral ausgelagerten Arbeitsplätzen invalide Personen beschäftigen, die unter üblichen Bedingungen keine Erwerbstätigkeit ausüben können;
-  - b) Wohnheime und andere betreute kollektive Wohnformen für invalide Personen;
-  - c) Tagesstätten, in denen invalide Personen Gemeinschaft pflegen und an Freizeit- und Beschäftigungsprogrammen teilnehmen können.
-  - d) Einheiten von Einrichtungen, welche die gleichen Leistungen wie die Einrichtungen gemäss Buchstaben a) bis c) erfüllen, sind gleichgestellt.
-- C Stationäre Therapie- und Rehabilitationsangebote im Suchtbereich
-- D Einrichtungen der externen Sonderschulung:
-  - a) Sonderschulen für Unterricht, Beratung und Unterstützung inklusive integrativer Sonderschulung sowie für die Tagesbetreuung, sofern diese Leistung von der Einrichtung erbracht wird;
-  - b) Früherziehungsdienste für Kinder mit Behinderungen und von Behinderung bedrohte Kinder;
-  - c) Pädagogisch-therapeutische Dienste für Logopädie oder Psychomotoriktherapie, sofern diese Leistungen nicht innerhalb des Regelschulangebotes erbracht werden.
+Im Fall von Massnahmen gemäss dem Bundesgesetz über das Jugendstrafrecht[^2-2] liegt die Altersgrenze unabhängig vom Eintrittsalter beim vollendeten 25. Altersjahr.
+
+B Einrichtungen für erwachsene, invalide Personen oder Einheiten solcher Einrichtungen gemäss dem Bundesgesetz über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG):
+
+- a) Werkstätten, die dauernd intern oder an dezentral ausgelagerten Arbeitsplätzen invalide Personen beschäftigen, die unter üblichen Bedingungen keine Erwerbstätigkeit ausüben können;
+
+- b) Wohnheime und andere betreute kollektive Wohnformen für invalide Personen;
+
+- c) Tagesstätten, in denen invalide Personen Gemeinschaft pflegen und an Freizeit- und Beschäftigungsprogrammen teilnehmen können.
+
+Einheiten von Einrichtungen, welche die gleichen Leistungen wie die Einrichtungen gemäss Buchstaben a) bis c) erfüllen, sind gleichgestellt.
+
+C Stationäre Therapie- und Rehabilitationsangebote im Suchtbereich D Einrichtungen der externen Sonderschulung:
+
+- a) Sonderschulen für Unterricht, Beratung und Unterstützung inklusive integrativer Sonderschulung sowie für die Tagesbetreuung, sofern diese Leistung von der Einrichtung erbracht wird;
+
+- b) Früherziehungsdienste für Kinder mit Behinderungen und von Behinderung bedrohte Kinder;
+
+- c) Pädagogisch-therapeutische Dienste für Logopädie oder Psychomotoriktherapie, sofern diese Leistungen nicht innerhalb des Regelschulangebotes erbracht werden.
 
 <sup>2</sup> Die Vereinbarungskonferenz (VK) kann die Vereinbarung unter Vorbehalt der Artikel 6 und 8 der IVSE auf weitere Bereiche sozialer Einrichtungen ausdehnen.
 
 <sup>3</sup> Die Kantone können einzelnen, mehreren oder allen Bereichen beitreten.
 
-[^2-1]: SR 311.1
+[^2-1]: A 2019, 1447; vom Landrat genehmigt am 28. August 2019; A 2019, 1445, 2025; in Kraft seit 1. Juni 2020
+[^2-2]: SR 311.1 Stand: 1. Juni 2020 17
 
 #### Art. 3
 
@@ -76,25 +89,33 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>2</sup> Einrichtungen für Betagte, sowie medizinisch geleitete Einrichtungen fallen nicht unter diese Vereinbarung.
 
-<sup>3</sup> Einheiten von Einrichtungen gemäss Absatz 2 mit eigener Rechnung und Leitung können der IVSE ebenfalls unterstellt werden, wenn sie deren Voraussetzungen erfüllen.
+<sup>3</sup> Einheiten von Einrichtungen gemäss Absatz 2 mit eigener Rechnung und Leitung können der IVSE ebenfalls unterstellt werden, wenn sie deren Voraussetzungen erfüllen<sup>.</sup>
 
 <sup>4</sup> Einrichtungen fallen nicht unter diese Vereinbarung für Leistungen, die sie zur beruflichen Eingliederung im Sinne der Bestimmungen des Bundesgesetzes über die Invalidenversicherung erbringen.
 
-### 1.3 Begriffe
+### I.III Begriffe
 
 #### Art. 4
 
-<sup>1</sup> Die folgenden Begriffe werden im Rahmen der IVSE auf Grund der nachstehenden Definitionen verwendet:
+Die folgenden Begriffe werden im Rahmen der IVSE auf Grund der nachstehenden Definitionen verwendet:
 
-- a) Vereinbarungskonferenz (VK): Die Versammlung all jener Mitglieder der SODK, deren Kanton der IVSE beigetreten ist, bildet die Vereinbarungskonferenz.
-- b) Vorstand der VK: Der Vorstand VK entspricht den Vorstandsmitgliedern SODK, soweit deren Kanton der IVSE beigetreten ist.
-- c) Vereinbarungskanton: Der Vereinbarungskanton ist derjenige Kanton, der mindestens einem Bereich der IVSE beigetreten ist.
-- d) Wohnkanton: Der Wohnkanton ist derjenige Kanton, in dem die Person, welche die Leistungen beansprucht, ihren zivilrechtlichen Wohnsitz hat.
-- e) Standortkanton: Standortkanton ist der Kanton, in dem die Einrichtung ihren Standort hat. Wird die unternehmerische und finanzielle Herrschaft über die Einrichtung in einem anderen Kanton ausgeübt, so kann dieser als Standortkanton vereinbart werden.
-- f) Einrichtung: Die Einrichtung ist eine Struktur, die als juristische oder natürliche Person Leistungen in einem Bereich nach Art. 2 Abs. 1 erbringt.
-- g) Richtlinie: Die Richtlinie stellt eine verbindliche Sekundärnorm der IVSE dar. Sie wird durch den Vorstand VK erlassen.
+**3**
 
-### 1.4 Nachträgliche Wohnsitznahme und Aufenthalt
+Stand: 1. Juni 2020 a) Vereinbarungskonferenz (VK) Die Versammlung all jener Mitglieder der SODK, deren Kanton der IVSE beigetreten ist, bildet die Vereinbarungskonferenz.
+
+- b) Vorstand der VK Der Vorstand VK entspricht den Vorstandsmitgliedern SODK, soweit deren Kanton der IVSE beigetreten ist.
+
+- c) Vereinbarungskanton Der Vereinbarungskanton ist derjenige Kanton, der mindestens einem Bereich der IVSE beigetreten ist.
+
+- d) Wohnkanton Der Wohnkanton ist derjenige Kanton, in dem die Person, welche die Leistungen beansprucht, ihren zivilrechtlichen Wohnsitz hat.
+
+- e) Standortkanton Standortkanton ist der Kanton, in dem die Einrichtung ihren Standort hat. Wird die unternehmerische und finanzielle Herrschaft über die Einrichtung in einem anderen Kanton ausgeübt, so kann dieser als Standortkanton vereinbart werden.
+
+- f) Einrichtung Die Einrichtung ist eine Struktur, die als juristische oder natürliche Person Leistungen in einem Bereich nach Art. 2 Abs. 1 erbringt.
+
+- g) Richtlinie Die Richtlinie stellt eine verbindliche Sekundärnorm der IVSE dar. Sie wird durch den Vorstand VK erlassen.
+
+### I.IV Nachträgliche Wohnsitznahme und Aufenthalt
 
 #### Art. 5
 
@@ -102,13 +123,15 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>1</sup> Der Aufenthalt in einer Einrichtung gemäss Art. 2 Absatz 1 Bereich B lit. b bewirkt keine Änderung der bisherigen Zuständigkeit für das Leisten der Kostenübernahmegarantie.
 
-<sup>1<sup>bis</sup></sup> Begründet eine Person mit Aufenthalt oder während des Aufenthalts in einer Einrichtung gemäss Artikel 2 Absatz 1 Bereich A ihren zivilrechtlichen Wohnsitz am Standort der Einrichtung, ist der Kanton des letzten von den Eltern oder eines Elternteils abgeleiteten Wohnsitzes für das Leisten der Kostenübernahmegarantie zuständig.
+<sup>1bis</sup> Begründet eine Person mit Aufenthalt oder während des Aufenthalts in einer Einrichtung gemäss Artikel 2 Absatz 1 Bereich A ihren zivilrechtlichen Wohnsitz am Standort der Einrichtung, ist der Kanton des letzten von den Eltern oder eines Elternteils abgeleiteten Wohnsitzes für das Leisten der Kostenübernahmegarantie zuständig.[^5-1]
 
 <sup>2</sup> Für Vergütungen von Leistungen der externen Sonderschulung hat derjenige Kanton die Kostenübernahmegarantie zu leisten, in dem sich der Schüler oder die Schülerin aufhält.
 
-## 2 Organisation
+[^5-1]: A 2019, 1447; vom Landrat genehmigt am 28. August 2019; A 2019, 1445, 2025; in Kraft seit 1. Juni 2020
 
-### 2.1 Konstituierung der IVSE, Vollzug, Organe
+### II ORGANISATION
+
+### II.I Konstituierung der IVSE, Vollzug, Organe
 
 #### Art. 6
 
@@ -120,9 +143,7 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>3</sup> Sie arbeitet dabei mit den weiteren im Bereich der sozialen Einrichtungen zuständigen Fachdirektorenkonferenzen und der Schweizerischen Konferenz der kantonalen Finanzdirektoren zusammen. Zu den weiteren zuständigen Fachdirektorenkonferenzen gehören:
 
-- a) die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK)
-- b) die Konferenz der kantonalen Justiz- und Polizeidirektorinnen und ‑direktoren (KKJPD)
-- c) die Schweizerische Konferenz der kantonalen Gesundheitsdirektorinnen und ‑direktoren (GDK)
+ die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK)  die Konferenz der kantonalen Justiz- und Polizeidirektorinnen und - direktoren (KKJPD)  die Schweizerische Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK)
 
 <sup>4</sup> Die VK konsultiert die EDK, die KKJPD und die GDK in Bezug auf die von ihr gestützt auf die Artikel 8 Buchstabe a) und 9 Buchstaben, g) und h) der IVSE zu fällenden Entscheide.
 
@@ -133,16 +154,26 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 <sup>1</sup> Organe der IVSE sind:
 
 - a) Die VK
+
 - b) Der Vorstand VK
+
 - c) Die Schweizerische Konferenz der Verbindungsstellen IVSE
+
 - d) Die Regionalkonferenzen
+
 - e) Die Rechnungsprüfungskommission
 
 <sup>2</sup> Wahlen und Abstimmungen:
 
 - a) Rechtsgültige Beschlüsse und Wahlen bedürfen der Anwesenheit der Hälfte der in der IVSE für die Besetzung der Organe vorgesehenen stimmberechtigten Mitglieder unter Vorbehalt von Art. 8 Buchstabe a).
+
 - b) Bei Abstimmungen entscheidet das Mehr der abgegebenen gültigen Stimmen. Bei Stimmengleichheit entscheidet die Präsidentin oder der Präsident mit Stichentscheid.
+
 - c) Bei Wahlen gilt das absolute Mehr der abgegebenen gültigen Stimmen. Bei Stimmengleichheit entscheidet das Los.
+
+**5**
+
+Stand: 1. Juni 2020
 
 <sup>3</sup> Die VK erlässt ein Reglement zu Konstituierung und Tätigkeit der Organe.
 
@@ -150,9 +181,10 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 **VK**
 
-<sup>1</sup> Die VK ist zuständig für:
+Die VK ist zuständig für:
 
 - a) Die Ausdehnung der IVSE auf weitere Bereiche sozialer Einrichtungen gemäss Artikel 2 Absatz 2. Entscheide bedürfen für ihre Gültigkeit der Zweidrittelmehrheit.
+
 - b) Den Erlass eines Reglements zur Konstituierung und Tätigkeit der Organe gemäss Artikel 7 Absatz 3.
 
 #### Art. 9
@@ -162,29 +194,30 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 <sup>1</sup> Der Vorstand VK ist zuständig für:
 
 - a) Die Durchführung des Beitrittsverfahrens nach Art. 37
+
 - b) Die Festlegung des Zeitpunktes des Inkrafttretens der IVSE im Anschluss an das Erreichen des Quorums sowie die entsprechende Mitteilung an die Vereinbarungskantone gemäss Art. 39
+
 - c) Die Mitteilung an die SODK bei Unterschreiten des Quorums gemäss Art. 40
+
 - d) Die Genehmigung des Voranschlages und der Rechnung der IVSE
+
 - e) Die Festlegung der Regionen gemäss Art. 12 Absatz 3
+
 - f) Die Verweigerung der Aufnahme oder Streichung einer Einrichtung von der Liste bei Nichterfüllen der Anforderungen der IVSE auf Antrag der Schweizerischen Konferenz der Verbindungsstellen IVSE
+
 - g) Den Erlass folgender Richtlinien:
-  - 1\. Zur Leistungsabgeltung gemäss den Art. 20 und 21
-  - 2\. Zum Verfahren im Bereich C gemäss Art. 30
-  - 3\. Rahmenrichtlinien zur Qualität gemäss Art. 33 Absatz 2
-  - 4\. Zur Kostenrechnung gemäss Art. 34 Absatz 2
-- h) Die Verabschiedung von Empfehlungen
-- i) Die Abstimmung der Angebote zwischen den Regionen und deren periodische Erörterung mit ihnen
-- k) Alle Entscheide, die nicht in die Kompetenz eines anderen Organs fallen.
+
+ Zur Leistungsabgeltung gemäss den Art. 20 und 21  Zum Verfahren im Bereich C gemäss Art. 30  Rahmenrichtlinien zur Qualität gemäss Art. 33 Absatz 2  Zur Kostenrechnung gemäss Art. 34 Absatz 2 h) Die Verabschiedung von Empfehlungen i) Die Abstimmung der Angebote zwischen den Regionen und deren periodische Erörterung mit ihnen k) Alle Entscheide, die nicht in die Kompetenz eines anderen Organs fallen.
 
 <sup>2</sup> An den Sitzungen des Vorstandes VK nimmt der Präsident oder die Präsidentin der Schweizerischen Konferenz der Verbindungsstellen IVSE zu den Geschäften der IVSE mit beratender Stimme teil.
 
-### 2.2 Verbindungsstellen
+### II.II Verbindungsstellen
 
 #### Art. 10
 
 **Bezeichnung**
 
-<sup>1</sup> Jeder Vereinbarungskanton bezeichnet eine Verbindungsstelle.
+Jeder Vereinbarungskanton bezeichnet eine Verbindungsstelle.
 
 #### Art. 11
 
@@ -193,20 +226,24 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 <sup>1</sup> Die Verbindungsstellen sind zuständig für:
 
 - a) Das Einholen der Kostenübernahmegarantie;
+
 - b) Die Entgegennahme und Bearbeitung von Gesuchen um Kostenübernahmegarantie und den Entscheid über dieselben;
+
 - c) Die Koordination der Information und der Geschäftsbearbeitung mit Verwaltungen sowie Einrichtungen und deren Vertretungen innerhalb des Kantons;
+
 - d) Den Informationsaustausch und die Geschäftsbearbeitung mit Verbindungsstellen anderer Vereinbarungskantone;
+
 - e) Die Führung eines Registers über die erteilten Kostenübernahmegarantien.
 
 <sup>2</sup> Die Verbindungsstellen nehmen an den Sitzungen der Regionalkonferenzen teil.
 
-### 2.3 Regionalkonferenzen
+### II.III Regionalkonferenzen
 
 #### Art. 12
 
 **Zusammenschluss**
 
-<sup>1</sup> Die Verbindungsstellen schliessen sich zu den vier Regionalkonferenzen Westschweiz / Tessin, Nordwestschweiz, Zentralschweiz und Ostschweiz zusammen.
+<sup>1</sup> Die Verbindungsstellen schliessen sich zu den vier Regionalkonferenzen Westschweiz/Tessin, Nordwestschweiz, Zentralschweiz und Ostschweiz zusammen.
 
 <sup>2</sup> Jede Verbindungsstelle gehört einer Regionalkonferenz an. Sie kann weiteren Regionalkonferenzen mit beratender Stimme angehören.
 
@@ -216,38 +253,45 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Regionalkonferenzen sind zuständig für:
+Die Regionalkonferenzen sind zuständig für:
 
 - a) Die Wahl von zwei Vertretern beziehungsweise Vertreterinnen als Mitglieder der Schweizerischen Konferenz der Verbindungsstellen IVSE.
+
 - b) Die Abstimmung der Angebote an Einrichtungen zwischen den Kantonen im Rahmen der Region.
-- c) Den Austausch von Informationen im Sinne von Art. 1 Absatz 2 und die Weiterleitung derselben an die Schweizerische Konferenz der Verbindungsstellen IVSE.
+
+**7**
+
+Stand: 1. Juni 2020 c) Den Austausch von Informationen im Sinne von Art. 1 Absatz 2 und die Weiterleitung derselben an die Schweizerische Konferenz der Verbindungsstellen IV- SE.
+
 - d) Anträge an die Schweizerische Konferenz der Verbindungsstellen IVSE, insbesondere in Bezug auf die Aufnahme oder Streichung einer Einrichtung von der Liste der Einrichtungen.
 
-### 2.4 Schweizerische Konferenz der Verbindungsstellen IVSE
+### II.IV Schweizerische Konferenz der Verbindungsstellen IVSE
 
 #### Art. 14
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Schweizerische Konferenz der Verbindungsstellen IVSE besteht aus je zwei Vertretern oder Vertreterinnen der Regionalkonferenzen. Der Konferenzsekretär oder die Konferenzsekretärin der SODK nimmt an den Verhandlungen mit beratender Stimme teil.
+Die Schweizerische Konferenz der Verbindungsstellen IVSE besteht aus je zwei Vertretern oder Vertreterinnen der Regionalkonferenzen. Der Konferenzsekretär oder die Konferenzsekretärin der SODK nimmt an den Verhandlungen mit beratender Stimme teil.
 
 #### Art. 15
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Schweizerische Konferenz der Verbindungsstellen IVSE ist zuständig für:
+Die Schweizerische Konferenz der Verbindungsstellen IVSE ist zuständig für:
 
-- a) Die Ausarbeitung von Bericht und Antrag zu den Geschäften des Vorstandes VK gemäss Art. 9 lit. e)–h). Anträge gemäss Artikel 9 lit. f) dürfen nur auf Antrag einer Regionalkonferenz erfolgen.
+- a) Die Ausarbeitung von Bericht und Antrag zu den Geschäften des Vorstandes VK gemäss Art. 9 lit. e) – h). Anträge gemäss Artikel 9 lit. f) dürfen nur auf Antrag einer Regionalkonferenz erfolgen.
+
 - b) Den Austausch von Informationen im Sinne von Art. 1 Absatz 2.
+
 - c) Die Instruktion der Verbindungsstellen.
 
-### 2.5 Rechnungsprüfungskommission
+### II.V Rechnungsprüfungskommission
 
 #### Art. 16
 
-<sup>1</sup> Die Rechnungsprüfungskommission der SODK revidiert die Jahresrechnung der IVSE und erstattet der VK Bericht und Antrag.
+Die Rechnungsprüfungskommission der SODK revidiert die Jahresrechnung der IVSE und erstattet der VK Bericht und Antrag.
 
-### 2.6 Geschäftsführung
+### II.VI Geschäftsführung
 
 #### Art. 17
 
@@ -257,7 +301,7 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>2</sup> Es besorgt auch die Sekretariate der Schweizerischen Konferenz der Verbindungsstellen sowie in der Regel von Ad-hoc-Fachgruppen.
 
-<sup>3</sup> …
+<sup>3</sup> gestrichen
 
 #### Art. 18
 
@@ -267,9 +311,9 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>2</sup> Das Zentralsekretariat der Schweizerischen Konferenz der kantonalen Sozialdirektoren stellt den Vereinbarungskantonen hierfür Rechnung und sorgt für das Inkasso.
 
-## 3 Leistungsabgeltung und Kostenübernahmegarantie
+### III LEISTUNGSABGELTUNG UND KOSTENÜBERNAHMEGARANTIE
 
-### 3.1 Grundsatz
+### III.I Grundsatz
 
 #### Art. 19
 
@@ -277,7 +321,7 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>2</sup> Die zahlungspflichtigen Stellen und Personen des Wohnkantons schulden der Einrichtung des Standortkantons die Leistungsabgeltung für die Leistungsdauer.
 
-### 3.2 Leistungsabgeltung
+### III.II Leistungsabgeltung
 
 #### Art. 20
 
@@ -286,6 +330,10 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 <sup>1</sup> Die Leistungsabgeltung berechnet sich aus dem anrechenbaren Nettoaufwand abzüglich der Bau- und Betriebsbeiträge des Bundes. Der verbleibende Betrag wird auf die Person pro Verrechnungseinheit umgerechnet.
 
 <sup>2</sup> Der anrechenbare Nettoaufwand ergibt sich aus dem anrechenbaren Aufwand abzüglich des anrechenbaren Ertrages.
+
+**9**
+
+Stand: 1. Juni 2020
 
 #### Art. 21
 
@@ -321,13 +369,13 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>1</sup> Als Verrechnungseinheit gilt der Kalendertag.
 
-<sup>1<sup>bis</sup></sup> Für Leistungen von Werkstätten gemäss Art. 2 Absatz 1 Bereich B lit. a gelten die vereinbarten Arbeitsstunden als Verrechnungseinheit.
+¹<sup>bis</sup> Für Leistungen von Werkstätten gemäss Art. 2 Absatz 1 Bereich B lit. a gelten die vereinbarten Arbeitsstunden als Verrechnungseinheit.
 
-<sup>1<sup>ter</sup></sup> Für Leistungen von Tagesstätten gemäss Art. 2 Absatz 1 Bereich B gilt der Aufenthaltstag als Verrechnungseinheit. Der Vorstand VK erlässt eine Richtlinie zur Definition des Aufenthaltstages.
+<sup>1ter</sup> Für Leistungen von Tagesstätten gemäss Art. 2 Absatz 1 Bereich B gilt der Aufenthaltstag als Verrechnungseinheit. Der Vorstand VK erlässt eine Richtlinie zur Definition des Aufenthaltstages.
 
-<sup>1<sup>quater</sup></sup> Für Leistungen, die von Sonderschulen ausserhalb der Einrichtung erbracht werden sowie für Leistungen von Sonderschuleinrichtungen gemäss Art. 2 Absatz 1 Bereich D lit. b und c gilt die Unterrichts‑, Therapie- oder Beratungsstunde als Verrechnungseinheit.
+¹<sup>quater</sup> Für Leistungen, die von Sonderschulen ausserhalb der Einrichtung erbracht werden sowie für Leistungen von Sonderschuleinrichtungen gemäss Art. 2 Absatz 1 Bereich D lit. b und c gilt die Unterrichts- , Therapie- oder Beratungsstunde als Verrechnungseinheit.
 
-<sup>2</sup> Bei der Methode P kann von den Verrechnungseinheiten gemäss Absätzen 1, 1<sup>bis</sup>, 1<sup>ter</sup> und 1<sup>quater</sup> abgewichen werden.
+<sup>2</sup> Bei der Methode P kann von den Verrechnungseinheiten gemäss Absätzen 1, 1bis, 1ter und 1quater abgewichen werden.
 
 #### Art. 25
 
@@ -339,7 +387,7 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>3</sup> Bei Inkassoproblemen leistet der Wohnkanton Hilfe.
 
-### 3.3 Kostenübernahmegarantie
+### III.III Kostenübernahmegarantie
 
 #### Art. 26
 
@@ -359,7 +407,11 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>3</sup> Gesuche um eine Kostenübernahmegarantie zu Gunsten von erwachsenen Personen erfordern deren Einwilligung.
 
-### 3.4 Regeln für erwachsene Personen mit Behinderungen gemäss Bereich B
+**11**
+
+Stand: 1. Juni 2020
+
+### III.IV Regeln für erwachsene Personen mit Behinderungen gemäss Bereich B
 
 #### Art. 28
 
@@ -379,15 +431,15 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>2</sup> Verbleibt nach Abzug der Kostenbeteiligung von der Leistungsabgeltung ein ungedeckter Betrag, so gilt der Wohnkanton diesen der Einrichtung ab.
 
-### 3.5 Regeln für den Bereich C
+### III.V Regeln für den Bereich C
 
 #### Art. 30
 
-<sup>1</sup> Für das Verfahren im Bereich C kann der Vorstand VK eine spezielle Richtlinie erlassen.
+Für das Verfahren im Bereich C kann der Vorstand VK eine spezielle Richtlinie erlassen.
 
-## 4 Einrichtungen
+### IV EINRICHTUNGEN
 
-### 4.1 Liste der Einrichtungen
+### IV.I Liste der Einrichtungen
 
 #### Art. 31
 
@@ -405,7 +457,7 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>2</sup> Die Verbindungsstellen melden alle Mutationen umgehend dem Zentralsekretariat der SODK, welches diese Liste laufend nachführt.
 
-### 4.2 Qualität und Wirtschaftlichkeit
+### IV.II Qualität und Wirtschaftlichkeit
 
 #### Art. 33
 
@@ -413,7 +465,7 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>2</sup> Der Vorstand VK erlässt Rahmenrichtlinien zu den Qualitätsanforderungen.
 
-### 4.3 Kostenrechnung
+### IV.III Kostenrechnung
 
 #### Art. 34
 
@@ -421,39 +473,41 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>2</sup> Der Vorstand VK erlässt Richtlinien zur Kostenrechnung.
 
-## 5 Rechtsschutz und Streitbeilegung
+**13**
+
+Stand: 1. Juni 2020
+
+### V RECHTSSCHUTZ UND STREITBEILEGUNG
 
 #### Art. 35
 
 **Streitbeilegung**
 
-<sup>1</sup> Kantone und Organe bemühen sich, Streitigkeiten aus der IVSE durch Verhandlungen oder Vermittlung beizulegen. Sie befolgen hierbei die Vorschriften der Streitbeilegung gemäss Art. 31 ff der Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (Rahmenvereinbarung, IRV) vom 24. Juni 2005.
+Kantone und Organe bemühen sich, Streitigkeiten aus der IVSE durch Verhandlungen oder Vermittlung beizulegen. Sie befolgen hierbei die Vorschriften der Streitbeilegung gemäss Art. 31 ff der Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (Rahmenvereinbarung, IRV) vom 24. Juni 2005.
 
-#### Art. 35bis
+#### Art. 35 bis
 
 **Sitz**
 
-<sup>1</sup> Der Sitz der IVSE ist am Standort des Zentralsekretariates der SODK.
+Der Sitz der IVSE ist am Standort des Zentralsekretariates der SODK.
 
-#### Art. 35ter
+#### Art. 35 ter
 
 **Anwendbares Recht**
 
-<sup>1</sup> Es gilt das Recht des Sitzkantons.
+Es gilt das Recht des Sitzkantons.
 
-## 6 Schluss- und Übergangsbestimmungen
+### VI SCHLUSS- UND ÜBERGANGSBESTIMMUNGEN
 
-### 6.1 Beitritt zur IVSE
+### VI.I Beitritt zur IVSE
 
 #### Art. 36
 
 **Beitritt**
 
-<sup>1</sup> Der Vorstand SODK gibt die vorliegende Vereinbarung zum Beitritt frei und führt das Beitrittsverfahren durch[^36-1].
+<sup>1</sup> Der Vorstand SODK gibt die vorliegende Vereinbarung zum Beitritt frei und führt das Beitrittsverfahren durch.
 
 <sup>2</sup> Beitreten können die Kantone der Schweiz sowie das Fürstentum Liechtenstein.
-
-[^36-1]: Vom Landrat genehmigt am 26. November 2014
 
 #### Art. 37
 
@@ -467,7 +521,7 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>4</sup> Die Beitrittserklärung ist nur gültig, wenn gleichzeitig die Mitgliedschaft bei der IHV, soweit diese in den Bereichen A und B besteht, gekündigt wird.
 
-### 6.2 Kündigung der IVSE
+### VI.II Kündigung der IVSE
 
 #### Art. 38
 
@@ -479,7 +533,7 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>4</sup> Vor der Kündigung erteilte Kostenübernahmegarantien behalten ihre Gültigkeit.
 
-### 6.3 Inkrafttreten der IVSE
+### VI.III Inkrafttreten der IVSE
 
 #### Art. 39
 
@@ -487,9 +541,11 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>2</sup> Das Inkraftsetzen hat spätestens zwölf Monate nach Erreichen des Quorums zu erfolgen.
 
-#### Art. 39bis
+[^39-1]: A 2019, 1447; vom Landrat genehmigt am 28. August 2019; A 2019, 1445, 2025; in Kraft seit 1. Juni 2020
 
-**Inkrafttreten der Teilrevision vom 23. November 2018**
+#### Art. 39 bis
+
+**Inkrafttreten der Teilrevision vom 23. November 2018[^39-1]**
 
 <sup>1</sup> Die Teilrevision vom 23. November 2018 ist ab ihrem Inkrafttreten auf alle bestehenden und neuen Platzierungen anwendbar.
 
@@ -497,7 +553,11 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>3</sup> Der Vorstand VK legt das Datum des Inkrafttretens fest.
 
-### 6.4 Aufhebung der IVSE
+**15**
+
+Stand: 1. Juni 2020
+
+### VI.IV Aufhebung der IVSE
 
 #### Art. 40
 
@@ -513,17 +573,17 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 **Kostenübernahmegarantien**
 
-<sup>1</sup> Vor der Aufhebung der IVSE erteilte Kostenübernahmegarantien behalten ihre Gültigkeit.
+Vor der Aufhebung der IVSE erteilte Kostenübernahmegarantien behalten ihre Gültigkeit.
 
-### 6.5 Übergangsregelung IHV / IVSE
+### VI.V ÜbergangsregelungIHV/IVSE
 
 #### Art. 42
 
-**Kostengutsprachen / Kostenübernahmegarantien**
+**Kostengutsprachen/Kostenübernahmegarantien**
 
 <sup>1</sup> Bestehende Kostengutsprachen der IHV behalten für Vereinbarungskantone die Gültigkeit als Kostenübernahmegarantie. Artikel 27 Absatz 2 gilt analog.
 
-<sup>2</sup> Für bestehende Kostenübernahmegarantien, bei denen sich die Leistungsabgeltung infolge des Wegfalls der Beiträge der IV verändert, müssen dem Wohnkanton bis zum 31.03.2008 neue Gesuche unterbreitet werden. Dies gilt auch betreffend Leistungen, für welche bis zum 31.12.2007 noch keine Kostenübernahmegarantien geleistet wurden, sofern sich die Berechnung der Leistungsabgeltung verändert.
+<sup>2</sup> Für bestehende Kostenübernahmegarantien, bei denen sich die Leistungsabgeltung infolge des Wegfalls der Beiträge der IV verändert, müssen dem Wohnkanton bis zum 31.3.2008 neue Gesuche unterbreitet werden. Dies gilt auch betreffend Leistungen, für welche bis zum 31.12.2007 noch keine Kostenübernahmegarantien geleistet wurden, sofern sich die Berechnung der Leistungsabgeltung verändert.
 
 #### Art. 43
 
@@ -533,143 +593,112 @@ beschliessen die Kantone, gestützt auf den Vorschlag der Konferenz der kantonal
 
 <sup>2</sup> Die Vereinbarungskantone reichen innerhalb von sechs Monaten nach dem Beitritt ihre gemäss Artikel 2 und 23 angepasste und bereinigte Liste der Einrichtungen dem Sekretariat der SODK ein.
 
-## A1 Anhang 1: Inkrafttreten der IVSE
+Der vorliegende Text wurde von der Vereinbarungskonferenz am 14. September 2007 in Lausanne genehmigt und dem Bund, der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK), der Konferenz der kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD), der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren (EDK) sowie Konferenz der Kantonsregierungen (KdK) zur Kenntnis gebracht.
 
-#### Art. A1-1
+Anhang 1: Inkrafttreten der IVSE Anhang 2: Abkürzungen Anhang 3: Liste der Vereinbarungskantone mit den Berei-
 
-**Bestätigung, dass die Voraussetzungen für das Inkrafttreten der IVSE, erfüllt sind**
+chen für die der Beitritt gilt (in der Reihenfolge
 
-<sup>1</sup> Der Vorstand der SODK hat an seiner Sitzung vom 28.01.2005 davon Kenntnis genommen, dass das Quorum per 01.01.2006 erreicht ist und die IVSE auf den 01.01.2006 in Kraft gesetzt werden kann. Er genehmigt das weitere Vorgehen gemäss speziellem Plan des Zentralsekretariates SODK.
+der Beschlüsse) Anhang 4: Ratifizierung der Anpassung der IVSE an die
 
-<sup>2</sup> Wir bestätigen, dass die Voraussetzungen für das Inkrafttreten der IVSE gem. Art. 39 erfüllt sind und die Organe bestellt werden können.
+NFA mit Inkrafttreten per 1. Januar 2008
 
-<sup>3</sup> Sobald die Organe gebildet sind, wird der Vorstand der Vereinbarungskonferenz (VK) den Zeitpunkt für das Inkrafttreten der IVSE festlegen und die Kantone und das Fürstentum Liechtenstein orientieren.
+### INKRAFTTRETEN DER IVSE:
 
-#### Art. A1-2
+### A) Bestätigung, dass die Voraussetzungen für das Inkrafttreten
 
-**Genehmigung des Inkrafttretens der IVSE durch den Vorstand der VK**
+der IVSE, erfüllt sind:
 
-<sup>1</sup> Der Vorstand der VK hat an seiner Sitzung vom 22.09.2005 das Inkrafttreten der IVSE per 01.01.2006 festgelegt.
+### Der Vorstand der SODK hat an seiner Sitzung vom 28.1.2005 davon Kenntnis genommen, dass das Quorum per 1.1.2006 erreicht ist und die IVSE auf den 1.1.2006 in Kraft gesetzt werden kann. Er genehmigt das
 
-<sup>2</sup> Damit tritt die IVSE in Kraft per: 1. Januar 2006
+weitere Vorgehen gemäss speziellem Plan des Zentralsekretariates SODK.
 
-#### Art. A1-3
+### Wir bestätigen, dass die Voraussetzungen für das Inkrafttreten der IVSE
 
-**Inkrafttreten der am 14. September 2007 beschlossenen Anpassungen**
+gem. Art. 39 erfüllt sind und die Organe bestellt werden können.
 
-<sup>1</sup> Die Vereinbarungskonferenz hat am 14. September 2007 in Lausanne den Anpassungen der IVSE an die NFA mit Inkrafttreten per 1. Januar 2008 zugestimmt.
+### Sobald die Organe gebildet sind, wird der Vorstand der Vereinbarungs-
 
-## A2 Anhang 2: Abkürzungen
+konferenz (VK) den Zeitpunkt für das Inkrafttreten der IVSE festlegen und die Kantone und das Fürstentum Liechtenstein orientieren.
 
-#### Art. A2-1
+### Bern, 28. Januar 2005
 
-<sup>1</sup> Abkürzungen:
+### Die Präsidentin SODK Der Zentralsekretär SODK Dr. Ruth Lüthi Ernst Zürcher Staatsrätin
 
-<table>
-<tr><th>Abkürzung</th><th>Erklärung</th></tr>
-<tr><td>AE</td><td>Anrechenbarer Ertrag</td></tr>
-<tr><td>ANA</td><td>Anrechenbarer Nettoaufwand</td></tr>
-<tr><td>BU</td><td>Beiträge der Unterhaltspflichtigen</td></tr>
-<tr><td>EDK</td><td>Schweizerische Konferenz der kantonalen Erziehungsdirektoren</td></tr>
-<tr><td>FDK</td><td>Schweizerische Konferenz der kantonalen Finanzdirektoren</td></tr>
-<tr><td>GDK</td><td>Schweizerische Konferenz der kantonalen Gesundheitsdirektorinnen und ‑direktoren (früher Sanitätsdirektoren genannt)</td></tr>
-<tr><td>KKJPD</td><td>Schweizerische Konferenz der kantonalen Justiz- und Polizeidirektoren</td></tr>
-<tr><td>IHV</td><td>Interkantonale Heimvereinbarung</td></tr>
-<tr><td>IV</td><td>Invalidenversicherung</td></tr>
-<tr><td>IVG</td><td>Bundesgesetz über die Invalidenversicherung</td></tr>
-<tr><td>IVSE</td><td>Interkantonale Vereinbarung für soziale Einrichtungen</td></tr>
-<tr><td>KüG</td><td>Kostenübernahmegarantie</td></tr>
-<tr><td>LA</td><td>Leistungsabgeltung</td></tr>
-<tr><td>LSMG</td><td>Bundesgesetz vom 5. Okt. 1984 über die Leistungen des Bundes für den Straf- und Massnahmenvollzug</td></tr>
-<tr><td>RK</td><td>Regionalkonferenz</td></tr>
-<tr><td>SKV IVSE</td><td>Schweizerische Konferenz der Verbindungsstellen IVSE</td></tr>
-<tr><td>SODK</td><td>Schweizerische Konferenz der kantonalen Sozialdirektoren</td></tr>
-<tr><td>StGB</td><td>Schweizerisches Strafgesetzbuch</td></tr>
-<tr><td>VK</td><td>Vereinbarungskonferenz</td></tr>
-<tr><td>ZUG</td><td>Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger</td></tr>
-</table>
+**19**
 
-## A3 Anhang 3: Liste der Vereinbarungskantone mit den Bereichen für die der Beitritt gilt (in der Reihenfolge der Beschlüsse)
+Stand: 1. April 2015
 
-#### Art. A3-1
+### B) Genehmigung des Inkrafttretens der IVSE durch den Vor-
 
-<sup>1</sup> Vereinbarungskantone:
+stand der VK:
 
-<table>
-<tr><th>Kanton</th><th>Beschluss vom:</th><th>Beitritt per:</th><th>Bereiche:</th></tr>
-<tr><td>BS</td><td>20.05.2003</td><td>01.01.2006</td><td>A, B, D</td></tr>
-<tr><td>AG</td><td>04.11.2003</td><td>01.01.2006</td><td>A, D</td></tr>
-<tr><td>BE</td><td>10.12.2003</td><td>01.01.2006</td><td>A, B, C, D</td></tr>
-<tr><td>UR</td><td>16.12.2003</td><td>01.01.2006</td><td>A, B</td></tr>
-<tr><td>GL</td><td>14.01.2004</td><td>01.01.2006</td><td>A, B, D</td></tr>
-<tr><td>FR</td><td>10.02.2004</td><td>01.01.2006</td><td>A, B, C, D</td></tr>
-<tr><td>BL</td><td>23.03.2004</td><td>01.01.2006</td><td>A, B, D</td></tr>
-<tr><td>SO</td><td>24.08.2004</td><td>01.01.2006</td><td>A, B, C, D</td></tr>
-<tr><td>LU</td><td>07.09.2004</td><td>01.01.2006</td><td>A, B, C, D</td></tr>
-<tr><td>OW</td><td>19.10.2004</td><td>01.01.2006</td><td>A, B, D</td></tr>
-<tr><td>SZ</td><td>07.12.2004</td><td>01.01.2006</td><td>A, B, D</td></tr>
-<tr><td>NE</td><td>22.12.2004</td><td>01.01.2006</td><td>A, B, C, D</td></tr>
-<tr><td>VD</td><td>19.01.2005</td><td>01.01.2006</td><td>A, B, C, D</td></tr>
-<tr><td>TI</td><td>05.04.2005</td><td>01.01.2006</td><td>A, B, C, D</td></tr>
-<tr><td>UR</td><td>31.05.2005</td><td>01.01.2006</td><td>D</td></tr>
-<tr><td>VS</td><td>22.06.2005</td><td>01.01.2006</td><td>A, B, C, D</td></tr>
-<tr><td>SG</td><td>16.08.2005</td><td>01.01.2006</td><td>A, B</td></tr>
-<tr><td>NW</td><td>18.10.2005</td><td>01.01.2006</td><td>A, B, D</td></tr>
-<tr><td>JU</td><td>26.10.2005</td><td>01.01.2006</td><td>A, B, C, D</td></tr>
-<tr><td>FL</td><td>02.12.2005</td><td>01.01.2006</td><td>B</td></tr>
-<tr><td>SZ</td><td>20.09.2006</td><td>01.01.2007</td><td>C</td></tr>
-<tr><td>AI</td><td>26.09.2006</td><td>01.01.2007</td><td>A, B</td></tr>
-<tr><td>ZG</td><td>24.10.2006</td><td>01.01.2007</td><td>A, B, C, D</td></tr>
-<tr><td>AG</td><td>08.11.2006</td><td>01.01.2007</td><td>B</td></tr>
-<tr><td>SG</td><td>13.02.2007</td><td>01.01.2008</td><td>D</td></tr>
-<tr><td>TG</td><td>20.08.2007</td><td>01.01.2008</td><td>A, B, D</td></tr>
-<tr><td>SH</td><td>17.09.2007</td><td>01.01.2008</td><td>B, C</td></tr>
-<tr><td>AR</td><td>29.10.2007</td><td>01.01.2008</td><td>A, B, C, D</td></tr>
-<tr><td>ZH</td><td>14.11.2007</td><td>01.01.2008</td><td>A, B, C, D</td></tr>
-<tr><td>GE</td><td>20.11.2007</td><td>01.01.2008</td><td>A, B, C, D</td></tr>
-<tr><td>GR</td><td>22.10.2007</td><td>01.04.2009</td><td>A, B, C, D</td></tr>
-<tr><td>SH</td><td>27.10.2008</td><td>01.01.2009</td><td>A, D</td></tr>
-<tr><td>BS</td><td>10.03.2009</td><td>01.07.2007</td><td>C</td></tr>
-<tr><td>FL</td><td>10.11.2009</td><td>01.01.2010</td><td>A, D</td></tr>
-<tr><td>SG</td><td>08.10.2013</td><td>01.01.2015</td><td>C</td></tr>
-<tr><td>NW</td><td>26.11.2014</td><td>01.01.2015</td><td>C</td></tr>
-</table>
+### Der Vorstand der VK hat an seiner Sitzung vom 22.9.2005 das Inkraft-
 
-## A4 Anhang 4: Ratifizierung der Anpassungen der IVSE an die NFA mit Inkrafttreten per 1. Januar 2008
+treten der IVSE per 1.1.2006 festgelegt.
 
-#### Art. A4-1
+### Damit tritt die IVSE in Kraft per: 1. Januar 2006
 
-<sup>1</sup> Alle Kantone sowie das Fürstentum Liechtenstein haben die an die NFA angepasste IVSE mit Inkrafttreten per 1. Januar 2008 ratifiziert (in der chronologischen Reihenfolge der Beschlüsse):
+### Bern, 22. September 2005 Vorstand der Vereinbarungskonferenz IVSE Die Präsidentin Kathrin Hilber Regierungsrätin
 
-<table>
-<tr><th>Kanton</th><th>Beschluss vom:</th></tr>
-<tr><td>BL</td><td>06.11.2007</td></tr>
-<tr><td>AG</td><td>07.11.2007</td></tr>
-<tr><td>ZH</td><td>14.11.2007</td></tr>
-<tr><td>AR</td><td>11.12.2007</td></tr>
-<tr><td>AI</td><td>01.01.2008</td></tr>
-<tr><td>SO</td><td>01.01.2008</td></tr>
-<tr><td>FL</td><td>01.01.2008</td></tr>
-<tr><td>TI</td><td>01.01.2008</td></tr>
-<tr><td>SH</td><td>08.01.2008</td></tr>
-<tr><td>OW</td><td>15.01.2008</td></tr>
-<tr><td>UR</td><td>22.01.2008</td></tr>
-<tr><td>GL</td><td>23.01.2008</td></tr>
-<tr><td>NE</td><td>06.02.2008</td></tr>
-<tr><td>VD</td><td>20.02.2008</td></tr>
-<tr><td>NW</td><td>26.02.2008</td></tr>
-<tr><td>TG</td><td>15.04.2008</td></tr>
-<tr><td>LU</td><td>06.05.2008</td></tr>
-<tr><td>VS</td><td>07.05.2008</td></tr>
-<tr><td>SZ</td><td>01.07.2008</td></tr>
-<tr><td>GR</td><td>22.10.2008</td></tr>
-<tr><td>ZG</td><td>16.12.2008</td></tr>
-<tr><td>BS</td><td>10.03.2009</td></tr>
-<tr><td>BE</td><td>25.03.2009</td></tr>
-<tr><td>SG</td><td>26.01.2010</td></tr>
-<tr><td>GE</td><td>15.05.2010</td></tr>
-<tr><td>FR</td><td>10.12.2010</td></tr>
-<tr><td>JU</td><td>23.03.2011</td></tr>
-</table>
+### C) Inkrafttreten der am 14. September 2007 beschlossenen An-
 
-A 2014, 2107, 2109; A 2015, 307
+passungen:
+
+### Die Vereinbarungskonferenz hat am 14. September 2007 in Lausanne
+
+den Anpassungen der IVSE an die NFA mit Inkrafttreten per 1. Januar 2008 zugestimmt.
+
+### Damit tritt die angepasste IVSE in Kraft per: 1. Januar 2008
+
+### Bern, 14. September 2007
+
+### Die Präsidentin der Die Generalsekretärin SODK Vereinbarungskonferenz IVSE
+
+### Kathrin Hilber Regierungsrätin Margrith Hanselmann
+
+### ABKÜRZUNGEN
+
+### AE Anrechenbarer Ertrag ANA Anrechenbarer Nettoaufwand BU Beiträge der Unterhaltspflichtigen EDK Schweizerische Konferenz der kantonalen Erziehungs-
+
+direktoren
+
+### FDK Schweizerische Konferenz der kantonalen Finanz-
+
+direktoren
+
+### GDK Schweizerische Konferenz der kantonalen Gesundheitsdi-
+
+rektorinnen und -direktoren (früher Sanitätsdirektoren genannt)
+
+### KKJPD Schweizerische Konferenz der kantonalen Justiz- und Poli-
+
+zeidirektoren
+
+### IHV Interkantonale Heimvereinbarung IV Invalidenversicherung IVG Bundesgesetz über die Invalidenversicherung IVSE Interkantonale Vereinbarung für soziale Einrichtungen KüG Kostenübernahmegarantie LA Leistungsabgeltung LSMG Bundesgesetz vom 5. Okt. 1984 über die Leistungen des Bundes für den Straf- und Massnahmenvollzug RK Regionalkonferenz SKV IVSE Schweizerische Konferenz der Verbindungsstellen IVSE SODK Schweizerische Konferenz der kantonalen Sozialdirektoren StGB Schweizerisches Strafgesetzbuch VK Vereinbarungskonferenz ZUG Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger
+
+**21**
+
+Stand: 1. April 2015
+
+### LISTE DER VEREINBARUNGSKANTONE MIT DEN BEREICHEN FÜR DIE DER BEITRITT GILT (IN DER REIHENFOLGE DER BESCHLÜSSE)
+
+**Bereiche: A, B, D A, D A, B, C, D A, B A, B, D A, B, C, D A, B, D A, B, C, D A, B, C, D A, B, D A, B, D A, B, C, D A, B, C, D A, B, C, D D A, B, C, D A, B A, B, D A, B, C, D B C A, B A, B, C, D B D A, B, D B, C A, B, C, D A, B, C, D A, B, C, D A, B, C, D A, D C A, D**
+
+### Kanton: Beschluss vom: Beitritt per: BS 20.05.2003 01.01.2006 AG 04.11.2003 01.01.2006 BE 10.12.2003 01.01.2006 UR 16.12.2003 01.01.2006 GL 14.01.2004 01.01.2006 FR 10.02.2004 01.01.2006 BL 23.03.2004 01.01.2006 SO 24.08.2004 01.01.2006 LU 07.09.2004 01.01.2006 OW 19.10.2004 01.01.2006 SZ 07.12.2004 01.01.2006 NE 22.12.2004 01.01.2006 VD 19.01.2005 01.01.2006 TI 05.04.2005 01.01.2006 UR 31.05.2005 01.01.2006 VS 22.06.2005 01.01.2006 SG 16.08.2005 01.01.2006 NW 18.10.2005 01.01.2006 JU 26.10.2005 01.01.2006 FL 02.12.2005 01.01.2006 SZ 20.09.2006 01.01.2007 AI 26.09.2006 01.01.2007 ZG 24.10.2006 01.01.2007 AG 08.11.2006 01.01.2007 SG 13.02.2007 01.01.2008 TG 20.08.2007 01.01.2008 SH 17.09.2007 01.01.2008 AR 29.10.2007 01.01.2008 ZH 14.11.2007 01.01.2008 GE 20.11.2007 01.01.2008 GR 22.10.2007 01.04.2009 SH 27.10.2008 01.01.2009 BS 10.03.2009 01.07.2007 FL 10.11.2009 01.01.2010
+
+**23**
+
+Stand: 1. April 2015
+
+### RATIFIZIERUNG DER ANPASSUNGEN DER IVSE AN DIE NFA MIT INKRAFTTRETEN PER 1. JANUAR 2008 Alle Kantone sowie das Fürstentum Liechtenstein haben die an die NFA
+
+angepasste IVSE mit Inkrafttreten per 1. Januar 2008 ratifiziert (in der chronologischen Reihenfolge der Beschlüsse):
+
+**vom:**
+
+### Kanton: Beschluss BL 06.11.2007 AG 07.11.2007 ZH 14.11.2007 AR 11.12.2007 AI 01.01.2008 SO 01.01.2008 FL 01.01.2008 TI 01.01.2008 SH 08.01.2008 OW 15.01.2008 UR 22.01.2008 GL 23.01.2008 NE 06.02.2008 VD 20.02.2008 NW 26.02.2008 TG 15.04.2008 LU 06.05.2008 VS 07.05.2008 SZ 01.07.2008 GR 22.10.2008 ZG 16.12.2008 BS 10.03.2009 BE 25.03.2009 SG 26.01.2010 GE 15.05.2010 FR 10.12.2010 JU 23.03.2011
+
+**25**
+
+Stand: 1. April 2015
