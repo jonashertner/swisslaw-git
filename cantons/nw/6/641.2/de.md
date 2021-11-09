@@ -5,30 +5,27 @@ title: Einführungsgesetz zum Bundesgesetz über die Stromversorgung
 short: "Kantonales Stromversorgungsgesetz, kStromVG"
 language: de
 version: 2014-01-01
+corrected: 2021-11-10
 version_adopted: 2013-03-27
 adopted: 2013-03-27
 in_force: 2014-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/641.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/894/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/235/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zum Bundesgesetz über die Stromversorgung
+# Einführungsgesetz zum Bundesgesetz über die Stromversorgung (Kantonales Stromversorgungsgesetz, kStromVG)
 
-(Kantonales Stromversorgungsgesetz, kStromVG)
+vom 27. März 2013[^t-1]
 
-vom 27.03.2013 (Stand 01.01.2014)
+Der Landrat von Nidwalden, gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 30 Abs. 1 des Bundesgesetzes vom 23. März 2007 über die Stromversorgung (Stromversorgungsgesetz, StromVG)[^t-2], beschliesst:
 
-Der Landrat von Nidwalden,
+[^t-1]: A 2013, 511, 1060; in Kraft seit 1. Januar 2014
+[^t-2]: SR 734.7
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 30 Abs. 1 des Bundesgesetzes vom 23. März 2007 über die Stromversorgung (Stromversorgungsgesetz, StromVG)[^ingress-1],
-
-beschliesst:
-
-[^ingress-1]: SR 734.7
-
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -44,7 +41,7 @@ beschliesst:
 
 **Interkantonale Zusammenarbeit**
 
-<sup>1</sup> Der Kanton arbeitet im Bereich der Stromversorgung mit anderen Kantonen zusammen, wenn dies angezeigt ist.
+Der Kanton arbeitet im Bereich der Stromversorgung mit anderen Kantonen zusammen, wenn dies angezeigt ist.
 
 #### Art. 3
 
@@ -58,7 +55,7 @@ beschliesst:
 
 [^3-1]: NG 266.1
 
-## 2 Netzgebiete und Netzbetrieb
+### II. NETZGEBIETE UND NETZBETRIEB
 
 #### Art. 4
 
@@ -71,7 +68,9 @@ beschliesst:
 <sup>3</sup> Die Bezeichnung der Netzgebiete erfolgt anhand folgender Kriterien:
 
 - 1\. Eigentumsverhältnisse am Elektrizitätsnetz;
+
 - 2\. vertragliche Verhältnisse betreffend den Bau, Betrieb und Unterhalt des Elektrizitätsnetzes;
+
 - 3\. Gewährleistung einer sicheren, effizienten und kostengünstigen Stromversorgung.
 
 <sup>4</sup> Bestehende Eigentumsverhältnisse bleiben unberührt.
@@ -82,7 +81,7 @@ beschliesst:
 
 **Bezeichnung der Netzgebiete**
 
-<sup>1</sup> Der Regierungsrat bezeichnet die Netzgebiete nach Anhörung der Netzeigentümerinnen und ‑eigentümer sowie der Netzbetreiber.
+<sup>1</sup> Der Regierungsrat bezeichnet die Netzgebiete nach Anhörung der Netzeigentümerinnen und -eigentümer sowie der Netzbetreiber.
 
 <sup>2</sup> Die Netzgebietsbezeichnung hat flächendeckend über das gesamte Kantonsgebiet zu erfolgen.
 
@@ -95,17 +94,18 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat kann den Netzbetreibern Leistungsaufträge erteilen, insbesondere um:
 
 - 1\. die technische Versorgungssicherheit sicherzustellen;
+
 - 2\. die Versorgungssicherheit im Netzbetrieb sicherzustellen.
 
 <sup>2</sup> In den Leistungsaufträgen können insbesondere Massnahmen zur Bewältigung von ausserordentlichen Lagen vorgeschrieben werden.
 
-## 3 Anschlusspflichten
+### III. ANSCHLUSSPFLICHTEN
 
 #### Art. 7
 
 **Innerhalb des Netzgebietes**
 
-<sup>1</sup> Innerhalb eines Netzgebietes ist der bezeichnete Netzbetreiber zur Gewährleistung des Netzanschlusses gemäss den Bestimmungen der Bundesgesetzgebung[^7-1] verpflichtet.
+Innerhalb eines Netzgebietes ist der bezeichnete Netzbetreiber zur Gewährleistung des Netzanschlusses gemäss den Bestimmungen der Bundesgesetzgebung[^7-1] verpflichtet.
 
 [^7-1]: SR 734.7; SR 734.71
 
@@ -131,15 +131,17 @@ beschliesst:
 
 **Anschlussgarantie**
 
-<sup>1</sup> Die Direktion ist zuständig für den Vollzug der Bestimmungen über die Anschlussgarantie.
+Die Direktion ist zuständig für den Vollzug der Bestimmungen über die Anschlussgarantie.
 
-## 4 Tarife
+### IV. TARIFE
 
 #### Art. 11
 
 **Veröffentlichung**
 
-<sup>1</sup> Der Netzbetreiber veröffentlicht die Elektrizitätstarife gemäss Art. 7 Abs. 2 StromVG[^11-1] im Amtsblatt.
+Der Netzbetreiber veröffentlicht die Elektrizitätstarife gemäss Art. 7 Abs.
+
+2 StromVG[^11-1] im Amtsblatt.
 
 [^11-1]: SR 734.7
 
@@ -153,19 +155,19 @@ beschliesst:
 
 [^12-1]: SR 734.7
 
-## 5 Strafbestimmung
+### V. STRAFBESTIMMUNG
 
 #### Art. 13
 
 **Busse**
 
-<sup>1</sup> Wer vorsätzlich gegen dieses Gesetz oder sich darauf stützende Erlasse oder Verfügungen verstösst, wird mit Busse bis zu Fr. 100'000.– bestraft. Strafbar ist insbesondere, wer verfügte Anschlusspflichten oder Leistungsaufträge verletzt.
+<sup>1</sup> Wer vorsätzlich gegen dieses Gesetz oder sich darauf stützende Erlasse oder Verfügungen verstösst, wird mit Busse bis zu Fr. 100‘000.– bestraft. Strafbar ist insbesondere, wer verfügte Anschlusspflichten oder Leistungsaufträge verletzt.
 
-<sup>2</sup> Wird die Tat fahrlässig begangen, beträgt die Busse bis zu Fr. 20'000.–.
+<sup>2</sup> Wird die Tat fahrlässig begangen, beträgt die Busse bis zu Fr. 20‘000.–.
 
 <sup>3</sup> Versuch und Gehilfenschaft sind strafbar.
 
-## 6 Übergangs- und Schlussbestimmungen
+### VI. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 14
 
@@ -191,11 +193,13 @@ beschliesst:
 
 #### Art. 16
 
-**Aufhebung der kantonalen Stromversorgungsverordnung**
+**Aufhebung der kantonalen**
 
-<sup>1</sup> Die Einführungsverordnung vom 16. Dezember 2008 zur Bundesgesetzgebung über die Stromversorgung (Kantonale Stromversorgungsverordnung)[^16-1] wird aufgehoben.
+### Stromversorgungsverordnung
 
-[^16-1]: A 2008, 2593
+Die Einführungsverordnung vom 16. Dezember 2008 zur Bundesgesetzgebung über die Stromversorgung (Kantonale Stromversorgungsverordnung)[^hStromversorgungsvero-1] wird aufgehoben.
+
+[^hStromversorgungsvero-1]: A 2008, 2593
 
 #### Art. 17
 
@@ -205,9 +209,6 @@ beschliesst:
 
 <sup>2</sup> Es tritt unter dem Vorbehalt des Inkrafttretens des Gesetzes vom 27. März 2013 über das Kantonale Elektrizitätswerk Nidwalden (Kantonales Elektrizitätswerkgesetz, EWNG)[^17-1] in Kraft.
 
-<sup>3</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^17-2].
+<sup>3</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
 
 [^17-1]: NG 642.1
-[^17-2]: In Kraft seit 1. Januar 2014
-
-A 2013, 511, 1060
