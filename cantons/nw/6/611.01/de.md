@@ -5,87 +5,92 @@ title: Gesetz über die Raumplanung und das öffentliche Baurecht
 short: "Baugesetz, BauG"
 language: de
 version: 2018-10-01
-valid_until: 2025-12-31
+corrected: 2021-11-10
 version_adopted: 2018-06-13
 adopted: 1988-04-24
 in_force: 1989-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.01"
-pdf: "https://gesetze.nw.ch/api/de/versions/890/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/205/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Raumplanung und das öffentliche Baurecht
+# Gesetz über die Raumplanung und das öffentliche Baurecht (Baugesetz, BauG)<sup>30</sup>
 
-(Baugesetz, BauG)
-
-vom 24.04.1988 (Stand 01.10.2018)
+vom 24. April 1988<sup>1</sup>
 
 Die Landsgemeinde,
 
-gestützt auf Art. 21, 22, 30, 31 und 52 der Kantonsverfassung, in Ausführung der Bundesgesetzgebung über die Raumplanung[^ingress-1],
+gestützt auf Art. 21, 22, 30, 31 und 52 der Kantonsverfassung, in Ausführung der Bundesgesetzgebung über die Raumplanung<sup>2</sup>,
 
 beschliesst:
 
-[^ingress-1]: SR 700
+### I. ALLGEMEINE BESTIMMUNGEN
 
-## 1 Allgemeine Bestimmungen
+#### Art. 1
 
-#### Art. 1–4
+**-4 …<sup>32</sup>**
 
-**…**
+### II. PLANUNGSVORSCHRIFTEN
 
-## 2 Planungsvorschriften
+### A. Allgemeine Bestimmungen
 
-### 2.1 Allgemeine Bestimmungen
+#### Art. 5
 
-#### Art. 5–13
+**-7 …<sup>32</sup>**
 
-**…**
+#### Art. 8
 
-### 2.2 Kantonaler Richtplan
+**...17**
 
-#### Art. 14–20
+#### Art. 9
 
-**…**
+**-13 …<sup>32</sup>**
 
-### 2.3 Regionaler Richtplan
+### B. Kantonaler Richtplan
 
-#### Art. 21–23
+#### Art. 14
 
-**…**
+**-20 …<sup>32</sup>**
 
-### 2.4 Gemeindeplanung
+### C. Regionaler Richtplan
 
-### 2.4.1 Allgemeine Bestimmungen
+#### Art. 21
 
-#### Art. 24–28
+**-23 ...<sup>17</sup>**
 
-**…**
+### D. Gemeindeplanung
 
-### 2.4.2 Kommunaler Richtplan
+- 1\. Allgemeine Bestimmungen
 
-#### Art. 29–31
+#### Art. 24
 
-**…**
+**-28 …<sup>32</sup>**
 
-### 2.4.3 Kommunale Nutzungsplanung
+- 2\. Kommunaler Richtplan
 
-### 2.4.3.1 Allgemeine Bestimmungen
+#### Art. 29
+
+**-31 …<sup>32</sup>**
+
+- 3\. Kommunale Nutzungsplanung
+
+- a) Gemeinsame Bestimmungen
 
 #### Art. 32
 
-**…**
+**..<sup>17</sup>**
 
 #### Art. 33
 
-**Überprüfung**
+**Überprüfung<sup>17</sup>**
 
-<sup>1</sup> Nutzungspläne und Vorschriften sind in der Regel alle zehn Jahre gesamthaft zu überprüfen.
+Nutzungspläne und Vorschriften sind in der Regel alle zehn Jahre gesamthaft zu überprüfen.
 
 #### Art. 34
 
-**Änderung oder Aufhebung**
+**Änderung oder Aufhebung<sup>17</sup>**
 
 <sup>1</sup> Zwischen zwei Gesamtüberprüfungen der Zonenpläne und der Vorschriften kann der Gemeinderat Änderungsanträge zurückstellen. Änderungsanträge sind jedoch spätestens binnen drei Jahren seit der Einreichung der Gemeindeversammlung vorzulegen.
 
@@ -93,7 +98,9 @@ beschliesst:
 
 #### Art. 35
 
-**Bauziffern 1. Zweck und Anwendungsbereich**
+**Bauziffern**
+
+### 1. Zweck und Anwendungsbereich
 
 <sup>1</sup> Zur Bestimmung der zulässigen maximalen oder minimalen Nutzung in den Bauzonen können im Bau- und Zonenreglement Bauziffern festgelegt werden.
 
@@ -105,19 +112,19 @@ beschliesst:
 
 <sup>1</sup> Die Ausnützungsziffer ist die Verhältniszahl zwischen der Gesamtheit der anrechenbaren Geschossflächen der Bauten und der anrechenbaren Grundstückfläche; Dachgeschosse fallen bei der Berechnung der Ausnützungsziffer nicht in Betracht, ebenso Untergeschosse, die im Sinne von Art. 162 nicht als Vollgeschosse gelten.
 
-<sup>2</sup> Der Ausbau des am 30. Juni 1990 bestehenden umbauten Raumes ist zulässig, auch wenn dadurch die festgelegte Ausnützungsziffer überschritten wird. Die übrigen Bauvorschriften sind einzuhalten und für die Mieter müssen genügend Nebenräume (Abstellräume, Keller, usw.) bestehen bleiben. Das äussere Volumen der Bauten darf nur durch Lukarnen, Gauben und dergleichen eine Vergrösserung erfahren.
+<sup>2</sup> Der Ausbau des am 30. Juni 1990 bestehenden umbauten Raumes ist zulässig, auch wenn dadurch die festgelegte Ausnützungsziffer überschritten wird. Die übrigen Bauvorschriften sind einzuhalten und für die Mieter müssen genügend Nebenräume (Abstellräume, Keller, usw.) bestehen bleiben. Das äussere Volumen der Bauten darf nur durch Lukarnen, Gauben und dergleichen eine Vergrösserung erfahren.<sup>17</sup>
 
 #### Art. 37
 
 **3. Überbauungsziffer**
 
-<sup>1</sup> Die Überbauungsziffer ist die Verhältniszahl zwischen der überbauten Grundfläche und der anrechenbaren Grundstückfläche.
+Die Überbauungsziffer ist die Verhältniszahl zwischen der überbauten Grundfläche und der anrechenbaren Grundstückfläche.
 
 #### Art. 38
 
 **4. Baumassenziffer**
 
-<sup>1</sup> Die Baumassenziffer ist die Verhältniszahl zwischen dem oberirdisch umbauten Raum und der anrechenbaren Grundstückfläche.
+Die Baumassenziffer ist die Verhältniszahl zwischen dem oberirdisch umbauten Raum und der anrechenbaren Grundstückfläche.
 
 #### Art. 39
 
@@ -131,31 +138,37 @@ beschliesst:
 
 **6. Berechnungsweise**
 
-<sup>1</sup> Die Berechnungsweise der Bauziffern wird in der Vollziehungsverordnung geregelt.
+Die Berechnungsweise der Bauziffern wird in der Vollziehungsverordnung geregelt.
 
 #### Art. 41
 
-**Baulinien 1. Arten**
+**Baulinien**
+
+### 1. Arten
 
 <sup>1</sup> Es werden folgende Baulinien unterschieden:
 
 - 1\. Baulinien entlang von Verkehrsanlagen und Leitungen;
+
 - 2\. Baulinien entlang von Gewässern;
+
 - 3\. Baulinien entlang von Wäldern;
+
 - 4\. Baulinien bei Natur- und Kulturobjekten, Aussichtspunkten und Hecken;
+
 - 5\. Baubegrenzungslinien.
 
-<sup>2</sup> Für Bauten unter dem Erdboden, für Bauten über dem Erdboden und für einzelne Stockwerke können unterschiedliche Baulinien festgelegt werden.
+<sup>2</sup> Für Bauten unter dem Erdboden, für Bauten über dem Erdboden und für einzelne Stockwerke können unterschiedliche Baulinien festgelegt werden.<sup>17</sup>
 
-<sup>3</sup> Bei der Planung von neuen öffentlichen Strassen und von Privatstrassen sind Baulinien festzulegen; das Verfahren richtet sich nach Art. 28 des Strassengesetzes[^41-1].
+<sup>3</sup> Bei der Planung von neuen öffentlichen Strassen und von Privatstrassen sind Baulinien festzulegen; das Verfahren richtet sich nach Art. 28 des Strassengesetzes<sup>6</sup>.<sup>17</sup>
 
-<sup>4</sup> In Ortsbildern von nationaler oder kantonaler Bedeutung und im Bereich geschützter und schützenswerter Bauten sind Baulinienpläne zu erstellen, sofern nicht ein Bebauungsplan erstellt wird.
-
-[^41-1]: NG 622.1
+<sup>4</sup> In Ortsbildern von nationaler oder kantonaler Bedeutung und im Bereich geschützter und schützenswerter Bauten sind Baulinienpläne zu erstellen, sofern nicht ein Bebauungsplan erstellt wird.<sup>17</sup>
 
 #### Art. 42
 
-**2. Wirkungen a) allgemein**
+**2. Wirkungen<sup>17</sup>**
+
+- a) allgemein
 
 <sup>1</sup> Die Baulinien bezeichnen den Mindestabstand der Bauten. Es kann vorgeschrieben werden, dass an die Baulinie zu bauen ist.
 
@@ -163,23 +176,21 @@ beschliesst:
 
 <sup>3</sup> Baulinien gehen allen andern öffentlichrechtlichen Abstandsvorschriften vor.
 
-<sup>4</sup> Für Baulinien entlang von Strassen bleiben die Vorschriften der Strassengesetzgebung[^42-1] vorbehalten.
+<sup>4</sup> Für Baulinien entlang von Strassen bleiben die Vorschriften der Strassengesetzgebung<sup>6</sup> vorbehalten.
 
-[^42-1]: NG 622.1
+#### Art. 43 b
 
-#### Art. 43
+**) Ausnahmen für bestehende Bauten<sup>17</sup>**
 
-**b) Ausnahmen für bestehende Bauten**
+An bestehenden Bauten und Anlagen, die über die Baulinien und die Baubegrenzungslinien hinausragen, sind im Rahmen der Zonenvorschriften An-, Um- oder Aufbauten zu gestatten, wenn die öffentlichen Interessen nicht wesentlich berührt werden; Überschreitungen der Baulinien sind auch erlaubt, wenn bestehende Bauten gegen Wärmeverluste isoliert werden.
 
-<sup>1</sup> An bestehenden Bauten und Anlagen, die über die Baulinien und die Baubegrenzungslinien hinausragen, sind im Rahmen der Zonenvorschriften An-, Um- oder Aufbauten zu gestatten, wenn die öffentlichen Interessen nicht wesentlich berührt werden; Überschreitungen der Baulinien sind auch erlaubt, wenn bestehende Bauten gegen Wärmeverluste isoliert werden.
+#### Art. 44
 
-#### Art. 44–45
-
-**…**
+**-45 ...<sup>17</sup>**
 
 #### Art. 46
 
-**3. Ausnahmen für öffentliche Einrichtungen**
+**3. Ausnahmen für öffentliche Einrichtungen<sup>17</sup>**
 
 <sup>1</sup> Vor der Baulinie dürfen öffentliche Einrichtungen, wie Brunnen, Polizeimelder, Telefonkabinen, Schutzdächer, Verteilerkästen, Kompakttrafostationen, Toilettenanlagen usw. aufgestellt werden, soweit das öffentliche Interesse es erfordert.
 
@@ -187,9 +198,9 @@ beschliesst:
 
 #### Art. 47
 
-**…**
+**..<sup>17</sup>**
 
-### 2.4.3.2 Zonenplan, Bau- und Zonenreglement
+- b) Zonenplan, Bau- und Zonenreglement
 
 #### Art. 48
 
@@ -197,7 +208,7 @@ beschliesst:
 
 <sup>1</sup> Die politischen Gemeinden sind verpflichtet, Zonenpläne sowie die zugehörigen Bau- und Zonenreglemente zu erlassen.
 
-<sup>2</sup> …
+<sup>2</sup> ...<sup>17</sup>
 
 #### Art. 49
 
@@ -213,39 +224,51 @@ beschliesst:
 
 **Bau- und Zonenreglement**
 
-<sup>1</sup> In den Bau- und Zonenreglementen erlassen die Gemeinden Bau- und Nutzungsvorschriften.
+<sup>1</sup> In den Bau- und Zonenreglementen erlassen die Gemeinden Bau- und Nutzungsvorschriften.<sup>17</sup>
 
 <sup>2</sup> Soweit notwendig, sind im Rahmen dieses Gesetzes insbesondere Vorschriften zu erlassen über:
 
 - 1\. Art und Mass der baulichen Nutzung des Baugrundes (Bauziffern);
-- 2\. Gebäude- und Firsthöhe, Gebäudelänge, Gebäudetiefe, Geschosszahl, Geschosshöhe, Gestaltung der Bauten;
-- 3\. Bauweise (offen, geschlossen, verdichtet usw.);
-- 4\. zusätzliche Nutzungsbeschränkungen (z.B. Verbot von Einkaufszentren in bestimmten Zonen, Differenzierung der Nutzung nach Gebäuden oder Geschossen, Verbot von Hochhäusern in bestimmten Zonen usw.);
-- 5\. Schutz der Gesundheit (Luft, Licht- und Raumverhältnisse, Dämmung, Schallschutz, Baumaterialien usw.);
-- 6\. behindertengerechtes Bauen;
-- 7\. Erstellung und Sicherung geeigneter Spielplätze oder anderer Freizeitanlagen bei Neubauten, Beteiligung an gemeinsamen Spielplätzen und Freizeitanlagen sowie Entrichtung von Ersatzabgaben;
-- 8\. Erschliessung der Bauzonen, Verkehrsanlagen, Einfahrten, Einfriedungen;
-- 9\. Umgebungsgestaltung, insbesondere Begrünung und Bepflanzung;
-- 10\. Gewässerräume gemäss der Bundesgesetzgebung über den Gewässerschutz[^50-1] und über den Wasserbau[^50-2];
-- 11\. Pflicht und Verbot, Abstellflächen für Fahrzeuge auf privatem Grund zu erstellen sowie Entrichtung von Ersatzabgaben im Rahmen der geltenden Gesetzgebung;
-- 12\. Schutz des Ortsbildes, Erhaltung und Schutz von Kulturobjekten, Erhaltung und Pflege der Bausubstanz ortsbildgerechter Gebäude;
-- 13\. Schutz des Landschaftsbildes, Erhaltung und Schutz von Naturobjekten, Bäumen und Hecken, Erhaltung und Schaffung von Aussichtspunkten, Schutz von Lebensräumen für Tiere und Pflanzen;
-- 14\. …
-- 15\. Abfallbeseitigung, Abstellplätze für Kehrichtbehälter, Kompostier- und Hundeversäuberungsanlagen sowie andere Entsorgungsanlagen;
-- 16\. Lager- und Ablagerungsplätze, Terrainveränderungen, Mauern;
-- 17\. planungsrechtliche Voraussetzungen für die Überbauung bestimmter Gebiete (Erlass von Bebauungs- und Gestaltungsplänen usw.);
-- 18\. Lärmschutzeinrichtungen;
-- 19\. Dachgestaltung;
-- 20\. Baukontrollen und Bezugsbereitschaft neuer Wohnungen;
-- 21\. Beschränkungen für die Erstellung von Zweitwohnungen;
-- 22\. Zuordnung zu Lärmempfindlichkeitsstufen gemäss Umweltschutzgesetzgebung.
 
-[^50-1]: SR 814.20
-[^50-2]: SR 921.0, SR 721.100
+- 2\. Gebäude- und Firsthöhe, Gebäudelänge, Gebäudetiefe, Geschosszahl, Geschosshöhe, Gestaltung der Bauten;
+
+- 3\. Bauweise (offen, geschlossen, verdichtet usw.);
+
+- 4\. zusätzliche Nutzungsbeschränkungen (z.B. Verbot von Einkaufszentren in bestimmten Zonen, Differenzierung der Nutzung nach Gebäuden oder Geschossen, Verbot von Hochhäusern in bestimmten Zonen usw.);
+
+5.<sup>17</sup> Schutz der Gesundheit (Luft, Licht- und Raumverhältnisse, Dämmung, Schallschutz, Baumaterialien usw.);
+
+- 6\. behindertengerechtes Bauen;
+
+- 7\. Erstellung und Sicherung geeigneter Spielplätze oder anderer Freizeitanlagen bei Neubauten, Beteiligung an gemeinsamen Spielplätzen und Freizeitanlagen sowie Entrichtung von Ersatzabgaben;
+
+- 8\. Erschliessung der Bauzonen, Verkehrsanlagen, Einfahrten, Einfriedungen;
+
+- 9\. Umgebungsgestaltung, insbesondere Begrünung und Bepflanzung; 10.<sup>22</sup>Gewässerräume gemäss der Bundesgesetzgebung über den Gewässerschutz<sup>23</sup> und über den Wasserbau<sup>3</sup>;
+
+- 11\. Pflicht und Verbot, Abstellflächen für Fahrzeuge auf privatem Grund zu erstellen sowie Entrichtung von Ersatzabgaben im Rahmen der geltenden Gesetzgebung;
+
+- 12\. Schutz des Ortsbildes, Erhaltung und Schutz von Kulturobjekten, Erhaltung und Pflege der Bausubstanz ortsbildgerechter Gebäude;
+
+- 13\. Schutz des Landschaftsbildes, Erhaltung und Schutz von Naturobjekten, Bäumen und Hecken, Erhaltung und Schaffung von Aussichtspunkten, Schutz von Lebensräumen für Tiere und Pflanzen; 14.<sup>17</sup>...
+
+- 15\. Abfallbeseitigung, Abstellplätze für Kehrichtbehälter, Kompostier- und Hundeversäuberungsanlagen sowie andere Entsorgungsanlagen;
+
+- 16\. Lager- und Ablagerungsplätze, Terrainveränderungen, Mauern; 17.<sup>17</sup>planungsrechtliche Voraussetzungen für die Überbauung bestimmter Gebiete (Erlass von Bebauungs- und Gestaltungsplänen usw.);
+
+- 18\. Lärmschutzeinrichtungen;
+
+- 19\. Dachgestaltung;
+
+- 20\. Baukontrollen und Bezugsbereitschaft neuer Wohnungen;
+
+- 21\. Beschränkungen für die Erstellung von Zweitwohnungen;
+
+22.<sup>17</sup>Zuordnung zu Lärmempfindlichkeitsstufen gemäss Umweltschutzgesetzgebung.
 
 #### Art. 51
 
-**…**
+**…<sup>32</sup>**
 
 #### Art. 52
 
@@ -256,87 +279,110 @@ beschliesst:
 <sup>2</sup> Die Nutzungszonen können insbesondere durch folgende Zonen überlagert werden:
 
 - 1\. Kurzone;
-- 2\. …
+
+2.<sup>17</sup> ...
+
 - 3\. Zone für Sport- und Freizeitanlagen;
+
 - 4\. Sondernutzungszone;
+
 - 5\. Grünzone;
+
 - 6\. Gefahrenzone;
+
 - 7\. Schutzzone.
 
 <sup>3</sup> In den die Landwirtschaftszone überlagernden Zonen sind nur solche Einrichtungen gestattet, welche die landwirtschaftliche Nutzung nicht erheblich schmälern oder wesentlich beeinträchtigen und ökologisch verträglich sind.
 
 #### Art. 53
 
-**Zonenvorschriften 1. Bauzonen a) Begriffe, Unterteilung**
+**Zonenvorschriften**
 
-<sup>1</sup> Die Bauzonen umfassen Boden, der sich für die Überbauung eignet und weitgehend überbaut ist oder voraussichtlich binnen 15 Jahren benötigt und erschlossen wird.
+### 1. Bauzonen
+
+- a) Begriffe, Unterteilung
+
+<sup>1</sup> Die Bauzonen umfassen Boden, der sich für die Überbauung eignet und weitgehend überbaut ist oder voraussichtlich binnen 15 Jahren benötigt und erschlossen wird.<sup>17</sup>
 
 <sup>2</sup> Die Bauzonen können in folgende Zonen unterteilt werden:
 
 - 1\. Wohnzone;
+
 - 2\. Kern-, Zentrums- und Dorfzone;
-- 3\.–4. …
+
+3.<sup>17</sup> ...
+
+4.<sup>17</sup> ...
+
 - 5\. Industriezone;
+
 - 6\. Gewerbezone;
-- 6a) Wohn- und Gewerbezone;
+
+6a)<sup>17</sup> Wohn- und Gewerbezone;
+
 - 7\. Kurzone;
+
 - 8\. Ferienhauszone;
-- 9\. …
+
+9.<sup>17</sup> ...
+
 - 10\. Zone für öffentliche Zwecke;
+
 - 11\. Zone für Sport- und Freizeitanlagen;
-- 12\. …
+
+12.<sup>17</sup> ...
 
 <sup>3</sup> Zulässig sind auch gemischte Zonen, soweit der Zonencharakter es zulässt.
 
 <sup>4</sup> Soweit die Zonen in den folgenden Bestimmungen nicht definiert sind, können sie von den Gemeinden im Bau- und Zonenreglement näher geregelt werden.
 
-#### Art. 54
+#### Art. 54 b
 
-**b) Erschliessung der Bauzonen**
+**) Erschliessung der Bauzonen**
 
-<sup>1</sup> Die Gemeinden sind verpflichtet, die Bauzonen zeitgerecht zu erschliessen oder auf Antrag erschliessungswilliger Grundeigentümer erschliessen zu lassen. Dabei ist auch auf die Erschliessung durch ein öffentliches Verkehrsmittel zu achten.
+<sup>1</sup> Die Gemeinden sind verpflichtet, die Bauzonen zeitgerecht zu erschliessen oder auf Antrag erschliessungswilliger Grundeigentümer erschliessen zu lassen. Dabei ist auch auf die Erschliessung durch ein öffentliches Verkehrsmittel zu achten.<sup>17</sup>
 
-<sup>2</sup> Der Gemeinderat erstellt ein Erschliessungsprogramm, insbesondere unter Berücksichtigung der finanziellen Möglichkeiten der Gemeinde. Die Beschlussfassung über die Kredite für die Erstellung und Erneuerung der Erschliessungsanlagen bleibt vorbehalten.
+<sup>2</sup> Der Gemeinderat erstellt ein Erschliessungsprogramm, insbesondere unter Berücksichtigung der finanziellen Möglichkeiten der Gemeinde. Die Beschlussfassung über die Kredite für die Erstellung und Erneuerung der Erschliessungsanlagen bleibt vorbehalten.<sup>17</sup>
 
 <sup>3</sup> Die Gemeinde baut die Erschliessungsanlagen, sofern nicht besondere Erschliessungsträger bestehen oder die Erstellung privaten Grundeigentümern überbunden ist.
 
-<sup>4</sup> Der Gemeinderat kann die Erstellung von Erschliessungsanlagen den interessierten Grundeigentümern überbinden.
+<sup>4</sup> Der Gemeinderat kann die Erstellung von Erschliessungsanlagen den interessierten Grundeigentümern überbinden.<sup>17</sup>
 
-<sup>5</sup> Für die Groberschliessung (einschliesslich Privatstrassen und öffentliche Strassen privater Eigentümer) steht den Gemeinden das Enteignungsgrecht zu. Das Verfahren richtet sich nach der Strassengesetzgebung[^54-1].
+<sup>5</sup> Für die Groberschliessung (einschliesslich Privatstrassen und öffentliche Strassen privater Eigentümer) steht den Gemeinden das Enteignungsgrecht zu. Das Verfahren richtet sich nach der Strassengesetzgebung<sup>6</sup>.<sup>17</sup>
 
-[^54-1]: NG 622.1
+#### Art. 55 c
 
-#### Art. 55
-
-**c) Bauzonen für verdichtete Bauweise**
+**) Bauzonen für verdichtete Bauweise**
 
 <sup>1</sup> Wo die Verhältnisse es rechtfertigen, können im Zonenplan Bauzonen für verdichtete Bauweise bestimmt werden. Für diese Zonen ist im Bau- und Zonenreglement eine gegenüber der zonengemässen Nutzung höhere Bauziffer festzulegen.
 
 <sup>2</sup> Die verdichtete Bauweise bezweckt insbesondere:
 
 - 1\. eine haushälterische Nutzung des Bodens;
+
 - 2\. einen minimalen Erschliessungsaufwand und einen sparsamen Energieverbrauch.
 
 <sup>3</sup> Bei verdichteter Bauweise muss gewährleistet sein, dass:
 
 - 1\. sich die Überbauung in die landschaftliche und bauliche Umgebung einfügt und von guter architektonischer und gestalterischer Qualität ist;
+
 - 2\. eine gute Wohn- und Siedlungsqualität entsteht.
 
-<sup>4</sup> Diese Anforderungen sind durch Bebauungs- oder Gestaltungspläne sicherzustellen. Die Minimalfläche für einen Gestaltungsplan mit verdichteter Bauweise beträgt 2000 m².
+<sup>4</sup> Diese Anforderungen sind durch Bebauungs- oder Gestaltungspläne sicherzustellen. Die Minimalfläche für einen Gestaltungsplan mit verdichteter Bauweise beträgt 2000 m<sup>2</sup>.
 
-#### Art. 56–57
+#### Art. 56
 
-**…**
+**-57 ...<sup>17</sup>**
 
 #### Art. 58
 
-**2. Bauzonenarten a) Wohnzone**
+**2. Bauzonenarten**
 
-<sup>1</sup> Die Wohnzone ist für Wohnzwecke bestimmt; nicht störende Geschäfts‑, Gewerbe- und Dienstleistungsbetriebe sind gestattet, sofern sie sich baulich in den Zonencharakter einfügen.
+- a) Wohnzone Die Wohnzone ist für Wohnzwecke bestimmt; nicht störende Geschäfts-, Gewerbe- und Dienstleistungsbetriebe sind gestattet, sofern sie sich baulich in den Zonencharakter einfügen.
 
-#### Art. 59
+#### Art. 59 b
 
-**b) Kern-, Zentrums- und Dorfzonen**
+**) Kern-, Zentrums- und Dorfzonen**
 
 <sup>1</sup> Kernzonen, Zentrumszonen und Dorfzonen umfassen Ortsteile, die zentrumsbildende Funktionen aufweisen oder dem Ort das Gepräge geben.
 
@@ -344,13 +390,13 @@ beschliesst:
 
 <sup>3</sup> Sind erhaltenswerte Kernzonen, Zentrumszonen und Dorfzonen nicht bereits durch überlagerte Ortsbildschutzzonen geschützt, sind im Rahmen eines Bebauungsplans Schutzvorschriften zu erlassen.
 
-#### Art. 60–61
+#### Art. 60
 
-**…**
+**-61 ...<sup>17</sup>**
 
-#### Art. 62
+#### Art. 62 e
 
-**e) Industriezone**
+**) Industriezone**
 
 <sup>1</sup> Die Industriezone ist für industrielle Anlagen und gewerbliche Betriebe bestimmt, die in andern Zonen nicht zulässig sind. Bürobauten sind gestattet, doch kann deren Anteil im Zonenreglement und in den Bebauungs- und Gestaltungsplänen beschränkt werden.
 
@@ -360,9 +406,9 @@ beschliesst:
 
 <sup>4</sup> Wenn sich die interessierten Grundeigentümer über den Bau eines Anschlussgeleises nicht verständigen können und ein begründetes Begehren eines oder mehrerer Interessierten vorliegt, erstellt die Gemeinde das Anschlussgeleise. Der Gemeinderat entscheidet über das Gesuch und verteilt die Kosten nach dem Perimeterverfahren.
 
-#### Art. 63
+#### Art. 63 f
 
-**f) Gewerbezone**
+**) Gewerbezone**
 
 <sup>1</sup> Die Gewerbezone ist für Gewerbebetriebe bestimmt, die nur mässig stören. Bürobauten sind gestattet, doch kann deren Anteil im Zonenreglement und in Bebauungs- und Gestaltungsplänen beschränkt werden.
 
@@ -370,59 +416,65 @@ beschliesst:
 
 #### Art. 63a
 
-**g) Wohn- und Gewerbezone**
+**g) Wohn- und Gewerbezone<sup>17</sup>**
 
-<sup>1</sup> Die Wohn- und Gewerbezone ist bestimmt für Wohnzwecke und für mässig störende Gewerbebetriebe.
+Die Wohn- und Gewerbezone ist bestimmt für Wohnzwecke und für mässig störende Gewerbebetriebe.
 
-#### Art. 64
+#### Art. 64 h
 
-**h) Kurzone**
+**) Kurzone<sup>17</sup>**
 
 <sup>1</sup> Die Kurzone dient insbesondere Kur- und Erholungszwecken.
 
 <sup>2</sup> Im Bau- und Zonenreglement kann bestimmt werden, dass in einer Kurzone nur Bauten und Anlagen erstellt werden dürfen, die ausschliesslich Kur- und Erholungszwecken dienen.
 
-#### Art. 65
+#### Art. 65 i
 
-**i) Ferienhauszone**
+**) Ferienhauszone**
 
-<sup>1</sup> Die Ferienhauszone ist für den Bau von Ferien- und Wochenendhäusern bestimmt. Sie kann nur in Gemeinden geschaffen werden, die sich für eine touristische Entwicklung eignen und die über eine entsprechende Planung verfügen. Ferienhauszonen dürfen nur ausgeschieden werden, wenn sie im kantonalen Richtplan vorgesehen sind.
+<sup>1</sup> Die Ferienhauszone ist für den Bau von Ferien- und Wochenendhäusern bestimmt. Sie kann nur in Gemeinden geschaffen werden, die sich für eine touristische Entwicklung eignen und die über eine entsprechende Planung verfügen. Ferienhauszonen dürfen nur ausgeschieden werden, wenn sie im kantonalen Richtplan vorgesehen sind.<sup>17</sup>
 
 <sup>2</sup> Für neue Ferienhauszonen ist ein Bebauungs- oder Gestaltungsplan zu erlassen.
 
-<sup>3</sup> Die Aufwendungen für die Erschliessung, Versorgung und Entsorgung können den Grundeigentümern überbunden werden.
+<sup>3</sup> Die Aufwendungen für die Erschliessung, Versorgung und Entsorgung können den Grundeigentümern überbunden werden.<sup>17</sup>
 
 #### Art. 66
 
-**…**
+**..<sup>17</sup>**
 
-#### Art. 67
+#### Art. 67 k
 
-**k) Zone für öffentliche Zwecke**
+**) Zone für öffentliche Zwecke**
 
-<sup>1</sup> Die Zone für öffentliche Zwecke ist für dem öffentlichen Interesse dienende Bauten und Anlagen bestimmt, für die ein voraussehbares Bedürfnis besteht.
+<sup>1</sup> Die Zone für öffentliche Zwecke ist für dem öffentlichen Interesse dienende Bauten und Anlagen bestimmt, für die ein voraussehbares Bedürfnis besteht.<sup>17</sup>
 
-<sup>2</sup> Andere Bauten und Anlagen dürfen belassen und unterhalten werden, bis der Boden für öffentliche Zwecke beansprucht wird.
+<sup>2</sup> Andere Bauten und Anlagen dürfen belassen und unterhalten werden, bis der Boden für öffentliche Zwecke beansprucht wird.<sup>17</sup>
 
 <sup>3</sup> Als öffentliche oder im öffentlichen Interesse liegende Bauten und Anlagen gelten namentlich:
 
 - 1\. Verwaltungsbauten, Bauten für öffentlichrechtliche Anstalten und für öffentliche Dienstleistungen, Schulen, Spitäler, Heime, Kirchen, Friedhöfe, Abwasserreinigungsanlagen und dergleichen;
+
 - 2\. Sammelanlagen des Zivilschutzes;
+
 - 3\. Bauten und Anlagen im öffentlichen Interesse tätiger kultureller und gemeinnütziger Institutionen sowie für die Gestaltung von Orts- und Quartierzentren;
+
 - 4\. Parks, Gärten, Kurortseinrichtungen;
+
 - 5\. Parkplätze und Parkhäuser für Fahrzeuge;
+
 - 6\. Spiel- und Sportanlagen, einschliesslich der zugehörigen Abstellplätze für Fahrzeuge;
-- 7\. Bootshafenanlagen einschliesslich der zugehörigen Infrastruktur.
+
+7.<sup>17</sup> Bootshafenanlagen einschliesslich der zugehörigen Infrastruktur.
 
 <sup>4</sup> Die Nutzung einer solchen Zone ist konkret zu umschreiben.
 
 <sup>5</sup> Die Nutzung der Zonen für öffentliche Zwecke bleibt öffentlichrechtlichen Körperschaften und Anstalten sowie privatrechtlichen Institutionen, die vom öffentlichen Recht des Kantons anerkannt sind, vorbehalten.
 
-<sup>6</sup> Der Gemeinderat kann Abweichungen von Abs. 5 bewilligen.
+<sup>6</sup> Der Gemeinderat kann Abweichungen von Abs. 5 bewilligen.<sup>17</sup>
 
-#### Art. 68
+#### Art. 68 l
 
-**l) Zone für Sport- und Freizeitanlagen**
+**) Zone für Sport- und Freizeitanlagen**
 
 <sup>1</sup> Die Zone für Sport- und Freizeitanlagen ist bestimmt für Sport- und Spielanlagen, Skipisten, Camping- und Rastplätze, Familiengärten, Bauten und Anlagen von Jugend- und Freizeitorganisationen und dergleichen (einschliesslich die zugehörige Infrastruktur).
 
@@ -432,40 +484,43 @@ beschliesst:
 
 #### Art. 69
 
-**…**
+**..<sup>17</sup>**
 
 #### Art. 70
 
-**3. Nichtbauzonen a) Landwirtschaftszone**
+**3. Nichtbauzonen**
+
+- a) Landwirtschaftszone
 
 <sup>1</sup> Die Landwirtschaftszone umfasst Land, das sich für die landwirtschaftliche Nutzung oder den bodenabhängigen gewerblichen Gartenbau eignet oder im Gesamtinteresse landwirtschaftlich genutzt werden soll. Soweit möglich sind grössere zusammenhängende Flächen auszuscheiden.
 
 <sup>2</sup> In den Landwirtschaftszonen sind nur Bauten und Anlagen gestattet, die:
 
 - 1\. der landwirtschaftlichen Bewirtschaftung, dem Obstbau, dem bodenabhängigen Gartenbau oder der bodenabhängigen Nutztierhaltung dienen; der Umfang der Bodenabhängigkeit, die innere Aufstockung im landesüblichen Mass sowie damit zusammenhängende Anmerkungen im Grundbuch werden in der Vollziehungsverordnung geregelt;
+
 - 2\. den betrieblich oder für den Generationenwechsel ausgewiesenen Wohnbedürfnissen der bäuerlichen Bevölkerung dienen.
 
-<sup>3</sup> …
+<sup>3</sup> ...<sup>17</sup>
 
 <sup>4</sup> Gärtnereien und Baumschulen sind zulässig, wenn sie überwiegend Pflanzen aufziehen und dafür Freiland verwenden; ergänzende eingeschossige Gewächshäuser sind zulässig.
 
 <sup>5</sup> Bei der Wahl des Standortes von Bauten und Anlagen in der Landwirtschaftszone ist auf die Bedürfnisse einer rationellen Bewirtschaftung des Bodens sowie auf das Orts- und Landschaftsbild besonders Rücksicht zu nehmen.
 
-<sup>6</sup> …
+<sup>6</sup> ...<sup>17</sup>
 
 #### Art. 71
 
-**…**
+**..<sup>17</sup>**
 
-#### Art. 72
+#### Art. 72 c
 
-**c) Übriges Gebiet**
+**) Übriges Gebiet**
 
 <sup>1</sup> Das übrige Gebiet umfasst Land:
 
 - 1\. das keiner Nutzung zugewiesen werden kann (Ödland, Geröllhalden usw.);
-- 2\. dessen Nutzung noch nicht bestimmt ist, oder
-- 3\. für das kantonale oder kommunale Schutzmassnahmen nach dem Recht über den Natur- und Heimatschutz vorgesehen sind.
+
+- 2\. dessen Nutzung noch nicht bestimmt ist, oder 3.<sup>17</sup> für das kantonale oder kommunale Schutzmassnahmen nach dem Recht über den Natur- und Heimatschutz vorgesehen sind.
 
 <sup>2</sup> In dieser Zone gelten die Bestimmungen für die Landwirtschaftszone, soweit keine einschränkenden Nutzungsvorschriften festgelegt sind.
 
@@ -473,52 +528,60 @@ beschliesst:
 
 #### Art. 73
 
-**…**
+**..<sup>17</sup>**
 
-#### Art. 74
+#### Art. 74 e
 
-**e) Freihaltezone**
+**) Freihaltezone**
 
-<sup>1</sup> Die Freihaltezone dient dazu, Bach-, Fluss- und Seeufer, Waldränder und Aussichtslagen sowie Grundwasser- und Quellwassernutzungsgebiete von Bauten und Anlagen freizuhalten.
+Die Freihaltezone dient dazu, Bach-, Fluss- und Seeufer, Waldränder und Aussichtslagen sowie Grundwasser- und Quellwassernutzungsgebiete von Bauten und Anlagen freizuhalten.
 
 #### Art. 74a
 
-**…**
+**...<sup>35</sup>**
 
 #### Art. 75
 
-**4. Schutzzonen a) Begriff**
+**4. Schutzzonen**
 
-<sup>1</sup> Schutzzonen umfassen Gebiete und Einzelobjekte, die aus Gründen des öffentlichen Interesses eines besonderen Schutzes bedürfen und für die keine kantonalen oder kommunalen Schutzmassnahmen nach dem Recht über den Natur- und Heimatschutz oder über den Denkmalschutz erlassen wurden oder vorgesehen sind.
+- a) Begriff Schutzzonen umfassen Gebiete und Einzelobjekte, die aus Gründen des öffentlichen Interesses eines besonderen Schutzes bedürfen und für die keine kantonalen oder kommunalen Schutzmassnahmen nach dem Recht über den Natur- und Heimatschutz oder über den Denkmalschutz erlassen wurden oder vorgesehen sind.
 
-#### Art. 76
+#### Art. 76 b
 
-**b) Inhalt**
+**) Inhalt**
 
 <sup>1</sup> Als Schutzzonen können bestimmt werden:
 
 - 1\. Bäche, Flüsse, Seen und ihre Ufer;
+
 - 2\. besonders schöne sowie naturkundlich oder kulturgeschichtlich wertvolle Landschaften;
+
 - 3\. Baumbestände, Hecken, Aussichtslagen;
+
 - 4\. bedeutende Orts- und Strassenbilder, geschichtliche Stätten sowie einzelne schützenswerte Objekte mit ihrer Umgebung;
+
 - 5\. Lebensräume für schutzwürdige Tiere und Pflanzen.
 
 <sup>2</sup> Die dem Schutzzweck dienenden Bau- und Nutzungsbeschränkungen sind zu umschreiben.
 
-#### Art. 77–78
+#### Art. 77
 
-**…**
+**-78 ...<sup>17</sup>**
 
 #### Art. 79
 
-**5. weitere Zonen a) Grünzonen**
+**5. weitere Zonen<sup>17</sup>**
+
+- a) Grünzonen
 
 <sup>1</sup> Die Grünzone umfasst in der Regel unüberbaute Gebiete, die von allen nicht dem Zweck der Nutzung entsprechenden Bauten und Anlagen freizuhalten sind.
 
 <sup>2</sup> Sie dient zur:
 
 - 1\. Erhaltung und Schaffung von Freiflächen im Baugebiet;
+
 - 2\. Gliederung grösserer, zusammenhängender Baugebiete, insbesondere zur Trennung von Wohn- und Industriegebieten sowie Quartieren und Gemeinden;
+
 - 3\. Sicherung von Grundwasser- und Quellwasser-Nutzungsgebieten.
 
 <sup>3</sup> Die Nutzung einer solchen Zone ist konkret zu umschreiben.
@@ -527,35 +590,35 @@ beschliesst:
 
 #### Art. 79a
 
-**…**
+**...<sup>35</sup>**
 
 #### Art. 79b
 
-**c) Sondernutzungszone**
+**c) Sondernutzungszone<sup>17</sup>**
 
-<sup>1</sup> Die Bau- und Nutzungsbestimmungen der Sondernutzungszone sind im Bau- und Zonenreglement zu umschreiben.
+Die Bau- und Nutzungsbestimmungen der Sondernutzungszone sind im Bau- und Zonenreglement zu umschreiben.
 
-#### Art. 80–83
+#### Art. 80
 
-**…**
+**-83 …<sup>32</sup>**
 
-### 2.4.3.3 Bebauungsplan
+- c) Bebauungsplan
 
-#### Art. 84–93
+#### Art. 84
 
-**…**
+**-93 …<sup>32</sup>**
 
-### 2.4.3.4 Gestaltungsplan
+- d) Gestaltungsplan
 
 #### Art. 94
 
 **Zweck**
 
-<sup>1</sup> Der Gestaltungsplan bezweckt eine siedlungsgerechte, architektonisch und erschliessungsmässig gute, der baulichen und landschaftlichen Umgebung angepasste Überbauung beziehungsweise Nutzung eines zusammenhängenden Gebietes. Bei Wohnüberbauungen ist den Erfordernissen der Wohnhygiene und der Wohnqualität in besonderem Masse Rechnung zu tragen.
+<sup>1</sup> Der Gestaltungsplan bezweckt eine siedlungsgerechte, architektonisch und erschliessungsmässig gute, der baulichen und landschaftlichen Umgebung angepasste Überbauung beziehungsweise Nutzung eines zusammenhängenden Gebietes. Bei Wohnüberbauungen ist den Erfordernissen der Wohnhygiene und der Wohnqualität in besonderem Masse Rechnung zu tragen.<sup>17</sup>
 
-<sup>2</sup> Die Mindestfläche für einen Gestaltungsplan, bei dem vom Zonenplan und Bau- und Zonenreglement sowie vom Bebauungsplan abgewichen werden kann, beträgt 3000 m²; Art. 55 Abs. 4 bleibt vorbehalten.
+<sup>2</sup> Die Mindestfläche für einen Gestaltungsplan, bei dem vom Zonenplan und Bau- und Zonenreglement sowie vom Bebauungsplan abgewichen werden kann, beträgt 3000 m<sup>2</sup>; Art. 55 Abs. 4 bleibt vorbehalten.
 
-<sup>3</sup> Das Instrument des Gestaltungsplanes kann auch für Sport- und Freizeitanlagen sowie für Abbau- und Deponievorhaben und dergleichen verwendet werden.
+<sup>3</sup> Das Instrument des Gestaltungsplanes kann auch für Sport- und Freizeitanlagen sowie für Abbau- und Deponievorhaben und dergleichen verwendet werden.<sup>17</sup>
 
 #### Art. 95
 
@@ -566,23 +629,40 @@ beschliesst:
 <sup>2</sup> Er enthält nach Bedarf Bestimmungen namentlich über:
 
 - 1\. Lage, Grösse, Gestaltung und Zweckbestimmung der Bauten, sowie deren Einordnung in die bauliche und landschaftliche Umgebung;
-- 2\. Grenz- und Gebäudeabstände;
-- 3\. Firstrichtungen sowie Dach- und Fassadengestaltungen;
-- 4\. behindertengerechtes Bauen;
-- 5\. Baumaterialien und Farbgebung der Bauten;
-- 6\. …
-- 7\. Erschliessung;
-- 8\. bauliche Massnahmen für öffentliche Verkehrsmittel;
-- 9\. Lage, Grösse und Gestaltung der Verkehrsanlagen, der Abstellflächen für Fahrzeuge und der Flächen für die Entsorgung;
-- 10\. Baulinien und Baubegrenzungslinien;
-- 11\. Grünflächen, Bepflanzung, Spielplätze und andere Freizeitanlagen, Ruheplätze;
-- 12\. …
-- 13\. Kompostierungs- und weitere Gemeinschaftsanlagen;
-- 14\. Terraingestaltung und Einfriedungen;
-- 15\. Parzellierung und Etappierung;
-- 16\. Rekultivierung und Nachnutzung (insbesondere bei temporären Nutzungen wie Abbau, Deponien usw.).
 
-<sup>3–4</sup> …
+- 2\. Grenz- und Gebäudeabstände;
+
+- 3\. Firstrichtungen sowie Dach- und Fassadengestaltungen;
+
+- 4\. behindertengerechtes Bauen;
+
+- 5\. Baumaterialien und Farbgebung der Bauten;
+
+6.<sup>17</sup> ...
+
+- 7\. Erschliessung;
+
+- 8\. bauliche Massnahmen für öffentliche Verkehrsmittel;
+
+- 9\. Lage, Grösse und Gestaltung der Verkehrsanlagen, der Abstellflächen für Fahrzeuge und der Flächen für die Entsorgung;
+
+10.<sup>17</sup> Baulinien und Baubegrenzungslinien;
+
+- 11\. Grünflächen, Bepflanzung, Spielplätze und andere Freizeitanlagen, Ruheplätze;
+
+12.<sup>17</sup> ...
+
+- 13\. Kompostierungs- und weitere Gemeinschaftsanlagen;
+
+- 14\. Terraingestaltung und Einfriedungen;
+
+- 15\. Parzellierung und Etappierung;
+
+16.<sup>17</sup> Rekultivierung und Nachnutzung (insbesondere bei temporären Nutzungen wie Abbau, Deponien usw.).
+
+<sup>3</sup> ...<sup>17</sup>
+
+<sup>4</sup> ...<sup>17</sup>
 
 #### Art. 96
 
@@ -592,11 +672,13 @@ beschliesst:
 
 <sup>2</sup> Soweit die öffentlichen Interessen es erfordern, kann der Gemeinderat vor Erteilung einer Baubewilligung von den Grundeigentümern ohne Rücksicht auf die Grösse des Baugrundstückes einen Gestaltungsplan verlangen.
 
-<sup>3</sup> Baubewilligungen für Gebiete mit einer Gesamtfläche von über 5000 m² dürfen in der Regel nur aufgrund eines Gestaltungsplanes erteilt werden, sofern kein Bebauungsplan vorliegt. Dies gilt insbesondere für ortsbildlich und landschaftlich schützenswerte Gebiete.
+<sup>3</sup> Baubewilligungen für Gebiete mit einer Gesamtfläche von über 5000 m<sup>2</sup> dürfen in der Regel nur aufgrund eines Gestaltungsplanes erteilt werden, sofern kein Bebauungsplan vorliegt. Dies gilt insbesondere für ortsbildlich und landschaftlich schützenswerte Gebiete.<sup>17</sup>
 
 #### Art. 97
 
-**Verhältnis zu Nutzungsplänen sowie Bau- und Zonenreglement**
+**Verhältnis zu Nutzungsplänen sowie Bau- und Zonen-**
+
+reglement
 
 <sup>1</sup> Der Gestaltungsplan kann vom Zonenplan, Bau- und Zonenreglement oder Bebauungsplan abweichen, sofern wegen der besonderen Verhältnisse eine eigene Regelung sinnvoll erscheint und der Zonencharakter gewahrt bleibt.
 
@@ -605,55 +687,58 @@ beschliesst:
 <sup>3</sup> Der Gemeinderat kann diese Abweichungen gewähren, wenn:
 
 - 1\. die geplante Überbauung gegenüber der Normalbauweise wesentliche Vorteile aufweist;
-- 2\. es sich um eine siedlungsgerechte, architektonisch und wohnhygienisch qualitätsvolle Überbauung handelt;
-- 3\. grössere zusammenhängende Grünflächen und viele Bäume vorgesehen sind und verkehrsabseits gelegene Spielplätze oder andere Freizeitanlagen von mindestens 15 Prozent der Bruttogeschossflächen der Wohnbauten erstellt werden;
+
+2.<sup>17</sup> es sich um eine siedlungsgerechte, architektonisch und wohnhygienisch qualitätsvolle Überbauung handelt;
+
+3.<sup>17</sup> grössere zusammenhängende Grünflächen und viele Bäume vorgesehen sind und verkehrsabseits gelegene Spielplätze oder andere Freizeitanlagen von mindestens 15 Prozent der Bruttogeschossflächen der Wohnbauten erstellt werden;
+
 - 4\. die Flächen für den Fussgänger und Fahrverkehr sowie die vorgeschriebenen Abstellflächen für Fahrzeuge (einschliesslich Garage) zweckmässig angelegt werden.
 
 <sup>4</sup> Im Rahmen eines Gestaltungsplans kann die Ausnützung verschiedener Zonen umgelagert werden, soweit die örtlichen Verhältnisse es zulassen.
 
-#### Art. 97a–102
+#### Art. 97a
 
-**…**
+**-102 …<sup>32</sup>**
 
-### 2.4.3.5 Plansicherung
+- e) Plansicherung<sup>17</sup>
 
-#### Art. 103–107
+#### Art. 103
 
-**…**
+**-107 …<sup>32</sup>**
 
-## 3 Landumlegung und Grenzregulierung
+### III. LANDUMLEGUNG UND GRENZREGULIERUNG
 
-#### Art. 108–121
+#### Art. 108
 
-**…**
+**-121 ...<sup>17</sup>**
 
-## 4 Übernahmepflicht, Entschädigungen und Beiträge
+### IV. ÜBERNAHMEPFLICHT, ENTSCHÄDIGUNGEN UND BEITRÄGE
 
-### 4.1 Übernahmepflicht
+### A. Übernahmepflicht
 
 #### Art. 122
 
-**…**
+**…<sup>32</sup>**
 
-### 4.2 Entschädigungen
+### B. Entschädigungen
 
-#### Art. 123–125
+#### Art. 123
 
-**…**
+**-125 …<sup>32</sup>**
 
-### 4.3 Beiträge
+### C. Beiträge
 
-#### Art. 126–129
+#### Art. 126
 
-**…**
+**-129 …<sup>32</sup>**
 
-## 5 Bauvorschriften
+### V. BAUVORSCHRIFTEN
 
-### 5.1 Allgemeine Bestimmungen
+### 1. Allgemeine Bestimmungen
 
 #### Art. 130
 
-**Benützung öffentlichen Grundes**
+**Benützung öffentlichen Grundes<sup>17</sup>**
 
 <sup>1</sup> Die vorübergehende oder dauernde Benützung von öffentlichem Grund ist bewilligungspflichtig.
 
@@ -662,15 +747,16 @@ beschliesst:
 <sup>3</sup> Die Höhe der Gebühr und der Entschädigung sowie das Verfahren sind zu regeln:
 
 - 1\. für kantonales Eigentum durch eine Verordnung des Landrates;
+
 - 2\. für kommunales Eigentum in einem vom Gemeinderat unter Vorbehalt des fakultativen Referendums erlassenen Reglement.
 
-<sup>4</sup> Die Vorschriften des Strassengesetzes[^130-1] bleiben vorbehalten.
-
-[^130-1]: NG 622.1
+<sup>4</sup> Die Vorschriften des Strassengesetzes<sup>6</sup> bleiben vorbehalten.
 
 #### Art. 131
 
-**Zeichen und Einrichtungen auf privatem Grund, vorbereitende Handlungen**
+**Zeichen und Einrichtungen auf privatem Grund,**
+
+vorbereitende Handlungen<sup>17</sup>
 
 <sup>1</sup> Der Kanton, die Gemeinden und die Unternehmen der Wasser- und Energieversorgung sind berechtigt, auf Grundstücken und an Bauten unentgeltlich Zeichen und Einrichtungen anzubringen, soweit es das öffentliche Interesse erfordert. Dabei haben sie die Wünsche der Grundeigentümer soweit als möglich zu berücksichtigen.
 
@@ -680,17 +766,13 @@ beschliesst:
 
 #### Art. 132
 
-**Benennung von Strassen, Häusernummerierungen**
+**Benennung von Strassen, Häusernummerierungen<sup>26</sup>**
 
-<sup>1</sup> Die Benennung von Strassen nach Art. 3 lit. f GeoNV[^132-1] und die Häusernummerierung ist Sache des Gemeinderates.
+<sup>1</sup> Die Benennung von Strassen nach Art. 3 lit. f GeoNV<sup>27</sup> und die Häusernummerierung ist Sache des Gemeinderates.
 
 <sup>2</sup> Er berücksichtigt nach Möglichkeit begründete Wünsche; wo möglich sind geografische Namen der amtlichen Vermessung zu übernehmen.
 
-<sup>3</sup> Sofern für die Schreibweise der Strassennamen Elemente geografischer Namen der amtlichen Vermessung übernommen werden, entscheidet die Direktion nach den Vorschriften der Geoinformationsgesetzgebung[^132-2],[^132-3].
-
-[^132-1]: SR 510.625
-[^132-2]: SR 510.62
-[^132-3]: SR 510.620
+<sup>3</sup> Sofern für die Schreibweise der Strassennamen Elemente geografischer Namen der amtlichen Vermessung übernommen werden, entscheidet die Direktion nach den Vorschriften der Geoinformationsgesetzgebung<sup>28,29</sup>.
 
 #### Art. 133
 
@@ -704,7 +786,7 @@ beschliesst:
 
 <sup>4</sup> Für die Bewilligung kann eine angemessene Gebühr erhoben werden, bei deren Bemessung insbesondere der Standort und die Grösse sowie die Dauer der Aufstellung der Reklame zu berücksichtigen sind. Der Gebührentarif ist in der Reklameverordnung festzusetzen.
 
-### 5.2 Erschliessung
+- 2\. Erschliessung
 
 #### Art. 134
 
@@ -715,25 +797,26 @@ beschliesst:
 <sup>2</sup> Ein Grundstück ist erschlossen, wenn:
 
 - 1\. für die betreffende Nutzung eine hinreichende, rechtlich gesicherte Zufahrt besteht;
+
 - 2\. die erforderlichen Wasser-, Energie- sowie Abwasserleitungen so nahe heranführen, dass ein Anschluss ohne erheblichen Aufwand möglich ist.
 
 #### Art. 135
 
-**Zufahrt, Sicherstellung für Hinterlieger**
+**Zufahrt, Sicherstellung für Hinterlieger<sup>17</sup>**
 
 <sup>1</sup> Der Gemeinderat ist berechtigt, im Einzelfall den Verhältnissen angepasste Vorschriften über Breite und Art der Ausführung der Zufahrt zum Baugrundstück zu erlassen.
 
 <sup>2</sup> Vorbehalten bleiben die Bestimmungen der Strassengesetzgebung.
 
-<sup>3</sup> Der Gemeinderat kann die Sicherstellung der Zufahrt für Hinterlieger verlangen; Art. 54 ist sinngemäss anwendbar.
+<sup>3</sup> Der Gemeinderat kann die Sicherstellung der Zufahrt für Hinterlieger verlangen; Art. 54 ist sinngemäss anwendbar.<sup>17</sup>
 
 #### Art. 136
 
-**Ausfahrten, Ausgänge und Garagenvorplätze**
+**Ausfahrten, Ausgänge und Garagenvorplätze<sup>17</sup>**
 
-<sup>1</sup> Ausfahrten, Ausgänge und Garagenvorplätze sind so zu gestalten, dass die Verkehrsteilnehmer nicht behindert oder gefährdet werden.
+Ausfahrten, Ausgänge und Garagenvorplätze sind so zu gestalten, dass die Verkehrsteilnehmer nicht behindert oder gefährdet werden.
 
-### 5.3 Abstellplätze für Fahrzeuge
+- 3\. Abstellplätze für Fahrzeuge
 
 #### Art. 137
 
@@ -742,7 +825,9 @@ beschliesst:
 <sup>1</sup> Abstellplätze für Fahrzeuge sind auf privatem Grund zu schaffen:
 
 - 1\. bei der Neuerstellung oder Erweiterung von Bauten und Anlagen, die Verkehr auslösen;
+
 - 2\. bei Umbauten oder Erweiterungen von bestehenden Bauten und Anlagen, die eine wesentlich stärkere Nutzung als bisher ermöglichen;
+
 - 3\. bei Nutzungsänderungen, die voraussichtlich einen wesentlich stärkeren Verkehr nach sich ziehen.
 
 <sup>2</sup> Bei bestehenden Bauten und Anlagen kann ohne Zusammenhang mit Änderungen die Aufhebung von Abstellplätzen für Fahrzeuge verlangt werden, wenn der bisherige Zustand regelmässig Verkehrsstörungen bewirkt und die Verpflichtung nach den Umständen technisch und wirtschaftlich zumutbar ist.
@@ -751,7 +836,9 @@ beschliesst:
 
 #### Art. 138
 
-**Anforderungen 1. Zahl**
+**Anforderungen**
+
+### 1. Zahl
 
 <sup>1</sup> Die Zahl der Abstellplätze richtet sich nach den örtlichen Verhältnissen sowie nach der Ausnützung und Nutzungsweise des Grundstücks. Sie soll so festgelegt werden, dass die Fahrzeuge der Benützer einer Baute oder Anlage im Normalfall ausserhalb des öffentlichen Grundes abgestellt werden können; eine angemessene Anzahl Plätze ist für Besucher vorzusehen.
 
@@ -769,28 +856,33 @@ beschliesst:
 
 #### Art. 140
 
-**Gestaltung**
+**Gestaltung<sup>17</sup>**
 
-<sup>1</sup> Ist die Erstellung von mehr als zehn, nicht für Besucher bestimmte Abstellplätze vorgesehen, sind diese in der Regel unterirdisch anzulegen oder zu überdecken, wenn:
+Ist die Erstellung von mehr als zehn, nicht für Besucher bestimmte Abstellplätze vorgesehen, sind diese in der Regel unterirdisch anzulegen oder zu überdecken, wenn:
 
 - 1\. dadurch die Einwirkungen auf die Nachbarschaft wesentlich vermindert werden können,
+
 - 2\. die Verhältnisse es gestatten, und
+
 - 3\. die Kosten zumutbar sind.
 
 #### Art. 141
 
-**Gemeinschaftsanlagen; Erstellungspflicht**
+**Gemeinschaftsanlagen; Erstellungspflicht<sup>17</sup>**
 
 <sup>1</sup> Die Schaffung öffentlicher oder privater Gemeinschaftsanlagen und die Beteiligung an solchen können vom Gemeinderat gebietsweise im Baubewilligungsverfahren verfügt werden:
 
 - 1\. wenn ein öffentliches Interesse, insbesondere des Verkehrs oder des Schutzes von Wohngebieten, Luft und Gewässern, geschützten Objekten usw. der Schaffung von Abstellplätzen auf den einzelnen Grundstücken entgegensteht;
+
 - 2\. wenn dem Baupflichtigen die Verwirklichung wegen der örtlichen Verhältnisse nicht möglich oder nicht zumutbar ist.
 
 <sup>2</sup> Solche Verfügungen schliessen das Verbot ein, auf den betreffenden Grundstücken Abstellplätze zu schaffen, die nicht nur dem Güterumschlag, einem näher zu bestimmenden besonderen Eigenbedarf oder der Parkierung zweiräderiger Fahrzeuge dienen.
 
 #### Art. 142
 
-**Ersatzabgabe 1. Voraussetzung und Höhe**
+**Ersatzabgabe**
+
+### 1. Voraussetzung und Höhe<sup>17</sup>
 
 <sup>1</sup> Ist die Beteiligung an einer Gemeinschaftsanlage binnen nützlicher Frist nicht möglich, hat der Grundeigentümer, der gestützt auf eine gemeinderätliche Feststellung keine oder nur eine herabgesetzte Zahl eigener Abstellplätze schaffen kann, muss oder darf, der Gemeinde eine angemessene Abgabe zu leisten.
 
@@ -810,9 +902,9 @@ beschliesst:
 
 <sup>3</sup> Die Gemeinden mit einem Fonds sind verpflichtet, eine Parkraumplanung durchzuführen und periodisch den Verhältnissen anzupassen; die Planung darf nicht zulasten des Fonds erfolgen.
 
-### 5.4 Abstände
+### 4. Abstände
 
-### 5.4.1 Grenzabstand
+- a) Grenzabstand
 
 #### Art. 144
 
@@ -820,56 +912,59 @@ beschliesst:
 
 <sup>1</sup> Der Grenzabstand ist die kürzeste horizontale Entfernung zwischen der Grundstückgrenze und der Fassade.
 
-<sup>2</sup> …
+<sup>2</sup> ...<sup>17</sup>
 
-<sup>3</sup> Über die Fassade vorspringende Gebäudeteile wie Dachvorsprünge, Balkone, Erker, Treppen usw. werden nur soweit mitberechnet, als ihre Ausladung 1.3 m übersteigt; vorbehalten bleiben die Art. 146 und 147.
+<sup>3</sup> Über die Fassade vorspringende Gebäudeteile wie Dachvorsprünge, Balkone, Erker, Treppen usw. werden nur soweit mitberechnet, als ihre Ausladung 1,3 m übersteigt; vorbehalten bleiben die Art. 146 und 147.
 
 #### Art. 145
 
-**Grenzabstand 1. ordentlicher**
+**Grenzabstand**
 
-<sup>1</sup> Der Grenzabstand beträgt 40 Prozent der Fassadenhöhe, mindestens jedoch 3 m. Die Gemeinden können für einzelne Bauzonen den Mindestabstand bis auf 4 m erhöhen.
+### 1. ordentlicher
 
-<sup>2</sup> Die Höhe der Fassade ist in ihrer Mitte ab gewachsenem oder tiefer gelegtem Terrain bis zur Oberkante der Fusspfette zu messen, wobei grössere Unebenheiten im Terrain auszumitteln sind; bei Giebelfassaden ist die Höhe des Giebeldreiecks nicht mitzuberücksichtigen. Bei Flachdachbauten ist die Fassadenhöhe bis Oberkante Brüstung beziehungsweise Geländer zu messen. Unterschiedliche Fassadenhöhen einer Baute sind auszumitteln.
+<sup>1</sup> Der Grenzabstand beträgt 40 Prozent der Fassadenhöhe, mindestens jedoch 3 m. Die Gemeinden können für einzelne Bauzonen den Mindestabstand bis auf 4 m erhöhen.<sup>17</sup>
 
-<sup>3</sup> Bei Fassaden von mehr als 40 m Länge erhöht sich der Abstand zur gegenüberliegenden Grenze um einen Zehntel der Mehrlänge bis auf höchstens 7 m. Bei Bauten mit drei und mehr Vollgeschossen werden eingeschossige Anbauten von nicht mehr als 3.50 m Fassadenhöhe, 4.50 m Firsthöhe und 10 m Länge für die Berechnung der Fassadenlänge nicht berücksichtigt; dies gilt bei Bauten mit weniger als drei Vollgeschossen nur für angebaute Untergeschosse. Bei schräg zur Grenze verlaufenden Fassaden sind die im 10-m-Abstandsbereich liegenden Fassadenabschnitte massgebend.
+<sup>2</sup> Die Höhe der Fassade ist in ihrer Mitte ab gewachsenem oder tiefer gelegtem Terrain bis zur Oberkante der Fusspfette zu messen, wobei grössere Unebenheiten im Terrain auszumitteln sind; bei Giebelfassaden ist die Höhe des Giebeldreiecks nicht mitzuberücksichtigen. Bei Flachdachbauten ist die Fassadenhöhe bis Oberkante Brüstung beziehungsweise Geländer zu messen. Unterschiedliche Fassadenhöhen einer Baute sind auszumitteln.<sup>17</sup>
 
-<sup>4</sup> …
+<sup>3</sup> Bei Fassaden von mehr als 40 m Länge erhöht sich der Abstand zur gegenüberliegenden Grenze um einen Zehntel der Mehrlänge bis auf höchstens 7 m. Bei Bauten mit drei und mehr Vollgeschossen werden eingeschossige Anbauten von nicht mehr als 3,50 m Fassadenhöhe, 4,50 m Firsthöhe und 10 m Länge für die Berechnung der Fassadenlänge nicht berücksichtigt; dies gilt bei Bauten mit weniger als drei Vollgeschossen nur für angebaute Untergeschosse. Bei schräg zur Grenze verlaufenden Fassaden sind die im 10-m-Abstandsbereich liegenden Fassadenabschnitte massgebend.
+
+<sup>4</sup> ...<sup>17</sup>
 
 #### Art. 146
 
-**2. bei Kleinbauten**
+**2. bei Kleinbauten<sup>17</sup>**
 
-<sup>1</sup> Bei Anbauten oder freistehenden Bauten, die nicht dem dauernden Aufenthalt von Menschen dienen, beträgt der Grenzabstand:
+Bei Anbauten oder freistehenden Bauten, die nicht dem dauernden Aufenthalt von Menschen dienen, beträgt der Grenzabstand:
 
-- 1\. 3 m, sofern sie nicht mehr als 3.50 m Fassadenhöhe, 4.50 m Firsthöhe und 10 m Fassadenlänge aufweisen;
-- 2\. 2 m, sofern sie nicht mehr als 3 m Firsthöhe, 4 m Fassadenlänge und 9 m² Grundfläche aufweisen.
+- 1\. 3 m, sofern sie nicht mehr als 3,50 m Fassadenhöhe, 4,50 m Firsthöhe und 10 m Fassadenlänge aufweisen;
+
+- 2\. 2 m, sofern sie nicht mehr als 3 m Firsthöhe, 4 m Fassadenlänge und 9 m<sup>2</sup> Grundfläche aufweisen.
 
 #### Art. 147
 
-**3. bei Bauten unter Niveau**
+**3. bei Bauten unter Niveau<sup>17</sup>**
 
-<sup>1</sup> Bei massiven Bauten oder Bauteilen, die nicht oder nicht mehr als 1 m über das gewachsene Terrain hinausragen, beträgt der Grenzabstand ab dem äussersten Gebäudeteil 1 m.
+Bei massiven Bauten oder Bauteilen, die nicht oder nicht mehr als 1 m über das gewachsene Terrain hinausragen, beträgt der Grenzabstand ab dem äussersten Gebäudeteil 1 m.
 
 #### Art. 148
 
-**4. bei Mauern, Einfriedungen, Lärmschutzwänden, Sicherheitsvorrichtungen und Böschungen**
+**4. bei Mauern, Einfriedungen, Lärmschutzwänden,**
 
-<sup>1</sup> Freistehende Mauern und andere Einfriedungen (Holzwände, Grünhäge usw.), die nicht mehr als 1.50 m über das gewachsene Terrain hinausragen, dürfen an der Grenze erstellt werden. Übersteigen sie dieses Höhenmass, sind sie um ihre Mehrhöhe von der Grenze zurückzusetzen, doch darf die Höhe von 3.00 m in keinem Fall überschritten werden. Für Lärmschutzwände entlang von Kantons- oder Gemeindestrassen sowie für Sicherheitsvorrichtungen kann der Gemeinderat bezüglich Höhe und Grenzabstand von vorstehenden Bestimmungen abweichende Ausnahmen gestatten.
+### Sicherheitsvorrichtungen und Böschungen
 
-<sup>2</sup> Terrainverschiebungen, wie Abgrabungen und Aufschüttungen aller Art, müssen einen Grenzabstand von mindestens 60 cm einhalten. Abgrabungen dürfen senkrecht erfolgen. Bei Aufschüttungen darf im Bereich des Grenzabstandes gemäss Art. 145–149 kein Teil des Böschungsabschlusses über eine ideelle Böschungslinie mit einem Winkel von 45° ab dem Abstand von 60 cm hinausragen.
+<sup>1</sup> Freistehende Mauern und andere Einfriedungen (Holzwände, Grünhäge usw.), die nicht mehr als 1,50 m über das gewachsene Terrain hinausragen, dürfen an der Grenze erstellt werden. Übersteigen sie dieses Höhenmass, sind sie um ihre Mehrhöhe von der Grenze zurückzusetzen, doch darf die Höhe von 3,00 m in keinem Fall überschritten werden. Für Lärmschutzwände entlang von Kantons- oder Gemeindestrassen sowie für Sicherheitsvorrichtungen kann der Gemeinderat bezüglich Höhe und Grenzabstand von vorstehenden Bestimmungen abweichende Ausnahmen gestatten.
 
-Für Grünhecken gelten die Vorschriften des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^148-1].
+<sup>2</sup> Terrainverschiebungen, wie Abgrabungen und Aufschüttungen aller Art, müssen einen Grenzabstand von mindestens 60 cm einhalten. Abgrabungen dürfen senkrecht erfolgen. Bei Aufschüttungen darf im Bereich des Grenzabstandes gemäss Art. 145-149 kein Teil des Böschungsabschlusses über eine ideelle Böschungslinie mit einem Winkel von 45° ab dem Abstand von 60 cm hinausragen.<sup>17</sup>
 
-Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beurkundete Vereinbarung abgeändert werden; die Abänderung ist im Grundbuch als Grunddienstbarkeit einzutragen.
+<sup>3</sup> Für Grünhecken gelten die Vorschriften des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch<sup>5</sup>.
 
-[^148-1]: NG 211.1
+<sup>4</sup> Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beurkundete Vereinbarung abgeändert werden; die Abänderung ist im Grundbuch als Grunddienstbarkeit einzutragen.
 
 #### Art. 149
 
-**5. bei Bauten und Anlagen am Bauzonenrand**
+**5. bei Bauten und Anlagen am Bauzonenrand<sup>15</sup>**
 
-<sup>1</sup> Bei Bauten und Anlagen am Bauzonenrand sind von der Grenze zwischen den Bauzonen und den Nichtbauzonen die in den Artikeln 145–147 vorgeschriebenen Grenzabstände einzuhalten.
+Bei Bauten und Anlagen am Bauzonenrand sind von der Grenze zwischen den Bauzonen und den Nichtbauzonen die in den Artikeln 145-147 vorgeschriebenen Grenzabstände einzuhalten.
 
 #### Art. 150
 
@@ -885,9 +980,9 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 #### Art. 151
 
-**…**
+**..<sup>17</sup>**
 
-### 5.4.2 Gebäudeabstand
+- b) Gebäudeabstand
 
 #### Art. 152
 
@@ -895,11 +990,13 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 <sup>1</sup> Der Gebäudeabstand ist die kürzeste horizontale Entfernung zwischen zwei Gebäuden.
 
-<sup>2</sup> …
+<sup>2</sup> ...<sup>17</sup>
 
 #### Art. 153
 
-**Gebäudeabstand 1. ordentlicher**
+**Gebäudeabstand**
+
+### 1. ordentlicher
 
 <sup>1</sup> Der Gebäudeabstand entspricht der Summe der gesetzlichen Grenzabstände.
 
@@ -909,11 +1006,11 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 **2. bei Kleinbauten**
 
-<sup>1</sup> Freistehende Kleinbauten von nicht mehr als 3.50 m Fassadenhöhe, 4.50 m Firsthöhe und 45 m² Grundfläche haben bei Fassaden von nicht mehr als 10 m Längen einen Gebäudeabstand von 3 m, gemessen ab äusserstem Gebäudeteil, einzuhalten, sofern damit keine Gefahrenerhöhung verbunden ist.
+<sup>1</sup> Freistehende Kleinbauten von nicht mehr als 3,50 m Fassadenhöhe, 4,50 m Firsthöhe und 45 m<sup>2</sup> Grundfläche haben bei Fassaden von nicht mehr als 10 m Längen einen Gebäudeabstand von 3 m, gemessen ab äusserstem Gebäudeteil, einzuhalten, sofern damit keine Gefahrenerhöhung verbunden ist.
 
 <sup>2</sup> Gegenüber Nachbargrundstücken Dritter ist der ordentliche Grenzabstand einzuhalten.
 
-### 5.4.3 Ausnahmen bei Grenz- und Gebäudeabständen
+- c) Ausnahmen bei Grenz- und Gebäudeabständen
 
 #### Art. 155
 
@@ -922,30 +1019,37 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 <sup>1</sup> Von den Grenz- und Gebäudeabstandvorschriften dieses Gesetzes können Ausnahmen gestattet werden:
 
 - 1\. in bestehenden Ortskernen;
+
 - 2\. bei Industrie- und Gewerbebauten innerhalb ihrer Anlage;
+
 - 3\. bei schwierigem Baugelände;
+
 - 4\. zur Erhaltung architektonisch oder historisch wertvoller Ortsteile;
+
 - 5\. bei bestehenden Gebäuden für Isolationen gegen Wärmeverluste;
+
 - 6\. in Bebauungs- und Gestaltungsplänen, wobei gegenüber den Nachbargrundstücken die ordentlichen Abstände zu wahren sind;
+
 - 7\. für Lärmschutzeinrichtungen;
+
 - 8\. für zeitlich befristete Bauten, wobei gegenüber den Nachbargrundstücken die ordentlichen Abstände einzuhalten sind;
+
 - 9\. in andern in diesem Gesetz vorgesehenen oder in ausserordentlichen Fällen.
 
 <sup>2</sup> Eine Ausnahmebewilligung darf nur dann erteilt werden, wenn die öffentlichen Interessen und schutzwürdige private Interessen nicht wesentlich beeinträchtigt werden.
 
 <sup>3</sup> Steht auf einem Nachbargrundstück bereits eine Baute in einem geringeren Abstand von der gemeinsamen Grenze, als dieses Gesetz vorschreibt, kann der Gemeinderat ausnahmsweise einen kleineren Gebäudeabstand bewilligen, sofern der neue Bau mindestens den gesetzlichen Grenzabstand einhält und die Unterdistanz zum Nachbargebäude unter den Gesichtspunkten der Gesundheit, des Feuerschutzes sowie des Schutzes des Orts- und Landschaftsbildes tragbar erscheint.
 
-<sup>4</sup> Vorbehalten bleiben die Grenzabstandvorschriften des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^155-1].
-
-[^155-1]: NG 211.1
+<sup>4</sup> Vorbehalten bleiben die Grenzabstandvorschriften des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch<sup>5</sup>.
 
 #### Art. 155a
 
-**Vereinbarungen der Grundeigentümer**
+**Vereinbarungen der Grundeigentümer<sup>17</sup>**
 
 <sup>1</sup> Gestützt auf öffentlich beurkundete Vereinbarungen der Grundeigentümer können:
 
-- 1\. die Grenzabstände gemäss Art. 145–148 reduziert oder aufgehoben werden;
+- 1\. die Grenzabstände gemäss Art. 145-148 reduziert oder aufgehoben werden;
+
 - 2\. der Grenzabstand gemäss Art. 149 auf 2 m reduziert werden.
 
 <sup>2</sup> Die Vereinbarungen sind im Grundbuch als Grunddienstbarkeit einzutragen.
@@ -954,9 +1058,9 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 #### Art. 156
 
-**…**
+**..<sup>17</sup>**
 
-### 5.4.4 Andere Abstände
+- d) Andere Abstände
 
 #### Art. 157
 
@@ -967,28 +1071,31 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 <sup>2</sup> Der Strassenabstand beträgt unter Vorbehalt von Art. 135:
 
 - 1\. für Nationalstrassen die durch die Bundesvorschriften festgesetzte Distanz;
+
 - 2\. für Kantonsstrassen 6 m;
-- 3\. für Gemeindestrassen 4.50 m;
+
+- 3\. für Gemeindestrassen 4,50 m;
+
 - 4\. für öffentliche Strassen privater Eigentümer und Privatstrassen 4 m.
 
-<sup>3</sup> Der Gemeinderat kann im Sinne von Art. 28 Abs. 3 des Strassengesetzes[^157-1] diese Mindestabstände herabsetzen oder aufheben.
+<sup>3</sup> Der Gemeinderat kann im Sinne von Art. 28 Abs. 3 des Strassengesetzes<sup>6</sup> diese Mindestabstände herabsetzen oder aufheben.
 
-<sup>4</sup> Der Gemeinderat kann die Bewilligung erteilen, abgebrochene oder durch höhere Gewalt zerstörte Gebäude sowie Neubauten oder Anbauten neben bestehenden Gebäuden an die bisherige Häuserflucht zu stellen, sofern die Sicherheit des Verkehrs nicht beeinträchtigt wird; wird ein solches Bauvorhaben an einer Kantonsstrasse geplant, ist die Zustimmung der zuständigen Direktion erforderlich.
+<sup>4</sup> Der Gemeinderat kann die Bewilligung erteilen, abgebrochene oder durch höhere Gewalt zerstörte Gebäude sowie Neubauten oder Anbauten neben bestehenden Gebäuden an die bisherige Häuserflucht zu stellen, sofern die Sicherheit des Verkehrs nicht beeinträchtigt wird; wird ein solches Bauvorhaben an einer Kantonsstrasse geplant, ist die Zustimmung der zuständigen Direktion<sup>15</sup> erforderlich.
 
-<sup>5</sup> Für Bauten und Anlagen, die mit keinem Teil über das gewachsene Terrain hinausragen und für freistehende Kleinbauten mit einer Grundfläche bis zu 9 m² kann der Gemeinderat den Strassenabstand reduzieren, sofern die Verkehrssicherheit nicht beeinträchtigt wird. Für Bauvorhaben entlang einer Kantonsstrasse ist die Bewilligung der zuständigen Direktion erforderlich.
-
-[^157-1]: NG 622.1
+<sup>5</sup> Für Bauten und Anlagen, die mit keinem Teil über das gewachsene Terrain hinausragen und für freistehende Kleinbauten mit einer Grundfläche bis zu 9 m<sup>2</sup> kann der Gemeinderat den Strassenabstand reduzieren, sofern die Verkehrssicherheit nicht beeinträchtigt wird. Für Bauvorhaben entlang einer Kantonsstrasse ist die Bewilligung der zuständigen Direktion erforderlich.<sup>17</sup>
 
 #### Art. 158
 
-**Waldabstand**
+**Waldabstand<sup>19</sup>**
 
 <sup>1</sup> Der Waldabstand ist die kürzeste horizontale Entfernung zwischen der Waldgrenze und der Fassade.
 
 <sup>2</sup> Der Waldabstand, gemessen ab der Stockgrenze, beträgt:
 
 - 1\. für Hochbauten allgemein: 15 m;
+
 - 2\. für Kleinbauten gemäss Art. 146 Ziff. 2: 6 m;
+
 - 3\. für Bauten, die mit keinem Teil aus dem gewachsenen Terrain hinausragen: 7 m.
 
 <sup>3</sup> In Ausnahmefällen kann der Gemeinderat beim Vorliegen besonderer Verhältnisse mit Zustimmung des Oberforstamtes in Abweichung von Absatz 2 Ziffer 1 einen geringeren Abstand bewilligen.
@@ -996,11 +1103,12 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 <sup>4</sup> Diese Zustimmung darf nur erteilt werden, wenn:
 
 - 1\. die Erhaltung des Waldes und seiner Funktionen nicht gefährdet sind;
+
 - 2\. die oder der Bauwillige mit der Waldeigentümerin oder dem Waldeigentümer eine dauernde Regelung für die Waldrandpflege und die Mehrkosten für die Holzerei getroffen hat.
 
-#### Art. 159–159d
+#### Art. 159
 
-**…**
+**-159d ...<sup>35</sup>**
 
 #### Art. 160
 
@@ -1018,7 +1126,7 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 <sup>2</sup> Der Bauabstand von Hochspannungsleitungen beträgt mindestens 5 m.
 
-### 5.5 Vollgeschoss, Gebäude- und Firsthöhe
+- 5\. Vollgeschoss, Gebäude- und Firsthöhe
 
 #### Art. 162
 
@@ -1026,10 +1134,11 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 <sup>1</sup> Als Vollgeschoss gilt:
 
-- 1\. jedes Geschoss, das mit mehr als zwei Dritteln seiner Aussenflächenabwicklung um mehr als 1.5 m aus dem ausgemittelten gewachsenen oder tiefer gelegten Terrain hinausragt;
-- 2\. jedes Dachgeschoss, wenn seine gesamte nutzbare Fläche mehr als 70% der Grundfläche des darunterliegenden Vollgeschosses beträgt; als nutzbare Fläche gilt jede Fläche ab 1.50 m lichter Raumhöhe.
+- 1\. jedes Geschoss, das mit mehr als zwei Dritteln seiner Aussenflächenabwicklung um mehr als 1,5 m aus dem ausgemittelten gewachsenen oder tiefer gelegten Terrain hinausragt;
 
-<sup>2</sup> Es darf nicht mehr als ein Untergeschoss sichtbar sein, ausgenommen für Hauseingänge und Garageneinfahrten mit höchstens einem Drittel der Fassadenlänge.
+- 2\. jedes Dachgeschoss, wenn seine gesamte nutzbare Fläche mehr als 70% der Grundfläche des darunterliegenden Vollgeschosses beträgt; als nutzbare Fläche gilt jede Fläche ab 1,50 m lichter Raumhöhe.<sup>17</sup>
+
+<sup>2</sup> Es darf nicht mehr als ein Untergeschoss sichtbar sein, ausgenommen für Hauseingänge und Garageneinfahrten mit höchstens einem Drittel der Fassadenlänge.<sup>17</sup>
 
 <sup>3</sup> Bei gestaffelten Baukörpern wird die Geschosszahl für jeden der versetzten Gebäudeteile separat berechnet.
 
@@ -1037,15 +1146,15 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 **Gebäudehöhe; Begriff und Berechnung**
 
-<sup>1</sup> Die Gebäudehöhe ergibt sich aus der Zahl der zulässigen Vollgeschosse.
+<sup>1</sup> Die Gebäudehöhe ergibt sich aus der Zahl der zulässigen Vollgeschosse.<sup>17</sup>
 
-<sup>2</sup> Für die Höhe eines Vollgeschosses darf im Durchschnitt höchstens 3 m eingesetzt werden. Bei Bauten mit Geschäfts- und Gewerbebetrieben darf diese Höhe je Vollgeschoss aus betrieblichen Gründen so weit überschritten werden, als die Gebäudehöhe dadurch nicht um mehr als 3 m grösser wird.
+<sup>2</sup> Für die Höhe eines Vollgeschosses darf im Durchschnitt höchstens 3 m eingesetzt werden. Bei Bauten mit Geschäfts- und Gewerbebetrieben darf diese Höhe je Vollgeschoss aus betrieblichen Gründen so weit überschritten werden, als die Gebäudehöhe dadurch nicht um mehr als 3 m grösser wird.<sup>17</sup>
 
-<sup>3</sup> Ein Dach- oder Attikageschoss darf, gemessen ab der Oberkante des Geschossbodens bis zur Oberkante der Firstpfette, höchstens 7 m hoch sein.
+<sup>3</sup> Ein Dach- oder Attikageschoss darf, gemessen ab der Oberkante des Geschossbodens bis zur Oberkante der Firstpfette, höchstens 7 m hoch sein.<sup>17</sup>
 
 <sup>4</sup> Die Gebäudehöhe kann auch in Metermassen umschrieben werden. Sie ist die ausgemittelte Höhe der Fassaden gemäss Art. 145 Abs. 2.
 
-<sup>5</sup> Im Bau- und Zonenreglement oder in einem Bebauungs- oder Gestaltungsplan können die Absätze 3 und 4 durch andere Regelungen ersetzt werden.
+<sup>5</sup> Im Bau- und Zonenreglement oder in einem Bebauungs- oder Gestaltungsplan können die Absätze 3 und 4 durch andere Regelungen ersetzt werden.<sup>17</sup>
 
 <sup>6</sup> Bei gestaffelten Baukörpern wird die zulässige Gebäudehöhe für jeden der versetzten Gebäudeteile separat berechnet.
 
@@ -1053,11 +1162,11 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 #### Art. 163a
 
-**Firsthöhe**
+**Firsthöhe<sup>17</sup>**
 
-<sup>1</sup> Die Firsthöhe ergibt sich aus der Summe der tatsächlichen Höhen der Vollgeschosse und des Dach- oder Attikageschosses.
+Die Firsthöhe ergibt sich aus der Summe der tatsächlichen Höhen der Vollgeschosse und des Dach- oder Attikageschosses.
 
-### 5.6 Schutz des Orts- und Landschaftsbildes
+- 6\. Schutz des Orts- und Landschaftsbildes
 
 #### Art. 164
 
@@ -1077,7 +1186,9 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 #### Art. 166
 
-**Schutz von bedeutenden Gebäuden und historischen Ortskernen**
+**Schutz von bedeutenden Gebäuden und historischen**
+
+### Ortskernen
 
 <sup>1</sup> Bei Veränderungen an Gebäuden oder Gebäudeteilen von geschichtlicher, kunstgeschichtlicher oder besonderer architektonischer Bedeutung ist der Bausubstanz, dem Charakter, der Gestalt und der optischen Wirkung dieser Bauten Rechnung zu tragen. Dies gilt auch für Neubauten und Änderungen an bestehenden anderen Bauten in der Umgebung solcher Bauten.
 
@@ -1089,41 +1200,44 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 <sup>1</sup> In der geschlossenen Ortschaft und in den Schutzzonen sind die Stark- und Schwachstromanlagen im Zusammenhang mit Neubauten zu verkabeln. Der Gemeinderat kann aus wichtigen Gründen Ausnahmen gestatten.
 
-<sup>2</sup> Aussenantennen sind in das Orts- und Landschaftsbild einzupassen.
+<sup>2</sup> Aussenantennen sind in das Orts- und Landschaftsbild einzupassen.<sup>17</sup>
 
-<sup>3</sup> …
+<sup>3</sup> ...<sup>17</sup>
 
 <sup>4</sup> Aussenantennen für Funkzwecke, die von der PTT konzessioniert sind, dürfen nur aufgrund der Artikel 164 und 166 untersagt werden. Vorbehalten bleiben strengere Vorschriften des Natur- und Heimatschutzes sowie der Bau- und Zonenreglemente und der Nutzungspläne.
 
-### 5.7 Sicherheit
+- 7\. Sicherheit
 
 #### Art. 168
 
-**Allgemeine Anforderungen**
+**Allgemeine Anforderungen<sup>17</sup>**
 
-<sup>1</sup> Alle Bauten und Anlagen müssen hinsichtlich Fundation, Konstruktion und Material die für ihren Zweck notwendige Festigkeit aufweisen und den Vorschriften des Feuerschutzes entsprechen. Sie sind so zu erstellen und zu unterhalten, dass weder Menschen, Tiere noch Sachen gefährdet werden. Der Landrat erlässt die erforderlichen Vorschriften.
+Alle Bauten und Anlagen müssen hinsichtlich Fundation, Konstruktion und Material die für ihren Zweck notwendige Festigkeit aufweisen und den Vorschriften des Feuerschutzes entsprechen. Sie sind so zu erstellen und zu unterhalten, dass weder Menschen, Tiere noch Sachen gefährdet werden. Der Landrat erlässt die erforderlichen Vorschriften.
 
 #### Art. 168a
 
-**Sorgfaltspflichten bei Bau- und Abbrucharbeiten**
+**Sorgfaltspflichten bei Bau- und Abbrucharbeiten<sup>17</sup>**
 
-<sup>1</sup> Bei Bau-, Unterhalts- und Abbrucharbeiten hat der Grundeigentümer alle Massnahmen zu treffen, die zum Schutze von Menschen, Tieren und Sachen erforderlich sind.
+Bei Bau-, Unterhalts- und Abbrucharbeiten hat der Grundeigentümer alle Massnahmen zu treffen, die zum Schutze von Menschen, Tieren und Sachen erforderlich sind.
 
 #### Art. 169
 
-**…**
+**..<sup>17</sup>**
 
 #### Art. 170
 
 **Brandmauern**
 
-<sup>1</sup> Die Pflicht zur Erstellung von Brandmauern richtet sich nach der Brandschutz- und Feuerwehrgesetzgebung[^170-1].
+<sup>1</sup> Die Pflicht zur Erstellung von Brandmauern richtet sich nach der Brandschutz- und Feuerwehrgesetzgebung<sup>7,</sup> <sup>34</sup>.
 
 <sup>2</sup> Ist die geschlossene Bauweise zwingend vorgeschrieben und können sich zwei Nachbarn über die Ausführung einer gemeinsamen Brandmauer nicht verständigen, gilt folgende Regelung:
 
 - 1\. der zuerst Bauende ist berechtigt, eine Brandmauer mit ihrer Mitte auf die Grenze zu stellen, und zwar ohne Entschädigung für die Inanspruchnahme des fremden Bodens;
+
 - 2\. Baut später der Nachbar an, hat er dem zuerst Bauenden den halben Wert der Mauer zu ersetzen, soweit er sie benützt. In diesem Falle trägt er auch die Hälfte der Unterhaltskosten;
+
 - 3\. wer an eine Brandmauer anbaut und dabei Boden des Nachbargrundstückes beansprucht, hat dafür eine Entschädigung zu leisten;
+
 - 4\. bevor die Beiträge bezahlt sind, braucht der Ersteller der Brandmauer den Anbau einer Neubaute oder die Erweiterung einer bestehenden Baute an der Mauer nicht zu dulden.
 
 <sup>3</sup> Eine gemeinsam benützte Brandmauer darf von den Beteiligten unterfahren, erhöht oder verlängert werden.
@@ -1132,21 +1246,19 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 <sup>5</sup> Über Streitigkeiten betreffend die zivilrechtlichen Vorschriften der Absätze 2 und 3 entscheidet der Zivilrichter.
 
-[^170-1]: NG 613.1
-
 #### Art. 171
 
-**…**
+**..<sup>17</sup>**
 
-### 5.8 Schutz der Gesundheit; Umweltschutz
+### 8. Schutz der Gesundheit; Umweltschutz<sup>17</sup>
 
-### 5.8.1 Allgemeine Bestimmungen
+- a) Allgemeine Bestimmungen
 
 #### Art. 172
 
 **Benützung der Bauten und Anlagen**
 
-<sup>1</sup> Der Gemeinderat kann jederzeit die Benützung von Räumen verbieten, wenn sie gesundheitsschädlich oder mit Gefahr verbunden ist.
+Der Gemeinderat kann jederzeit die Benützung von Räumen verbieten, wenn sie gesundheitsschädlich oder mit Gefahr verbunden ist.
 
 #### Art. 173
 
@@ -1166,19 +1278,22 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 <sup>1</sup> Die zum dauernden Aufenthalt von Menschen bestimmten Räume müssen ihrer Zweckbestimmung entsprechend genügend gross sein.
 
-<sup>2</sup> Bei Mehrfamilienhäusern haben diese Räume eine Bodenfläche von mindestens 8 m² und eine lichte Höhe von mindestens 2.20 m aufzuweisen. Im Dach- und Untergeschoss sowie bei Einfamilienhäusern genügt eine Höhe von 2.10 m; in abgeschrägten Räumen muss diese Höhe mindestens bei der Hälfte des Zimmers eingehalten werden.
+<sup>2</sup> Bei Mehrfamilienhäusern haben diese Räume eine Bodenfläche von mindestens 8 m<sup>2</sup> und eine lichte Höhe von mindestens 2,20 m aufzuweisen. Im Dach- und Untergeschoss sowie bei Einfamilienhäusern genügt eine Höhe von 2,10 m; in abgeschrägten Räumen muss diese Höhe mindestens bei der Hälfte des Zimmers eingehalten werden.
 
-<sup>3</sup> …
+<sup>3</sup> ...<sup>17</sup>
 
 #### Art. 175
 
 **Ausnahmen**
 
-<sup>1</sup> Der Gemeinderat hat aus wichtigen Gründen Ausnahmen von den Bestimmungen der Artikel 173 und 174 zu gestatten:
+Der Gemeinderat hat aus wichtigen Gründen Ausnahmen von den Bestimmungen der Artikel 173 und 174 zu gestatten:
 
 - 1\. bei bestehenden Bauten, die aus- oder umgebaut werden sollen, sofern sie gestützt auf eine rechtskräftige Baubewilligung erstellt worden sind;
+
 - 2\. bei Neubauten, sofern der Schutz des Orts- und Landschaftsbildes dies erfordert;
+
 - 3\. wenn diese aus denkmalpflegerischen Gründen nötig ist;
+
 - 4\. für Treppen innerhalb einer Wohnung.
 
 #### Art. 176
@@ -1193,9 +1308,9 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 **Behindertengerechtes Bauen**
 
-<sup>1</sup> Neue öffentliche Bauten und Anlagen sind so zu gestalten, dass sie für Behinderte zugänglich und benützbar sind.
+<sup>1</sup> Neue öffentliche Bauten und Anlagen sind so zu gestalten, dass sie für Behinderte zugänglich und benützbar sind.<sup>17</sup>
 
-<sup>2</sup> Bestehende öffentliche Bauten und Anlagen sind bei Erweiterungen und neubauähnlichen Umbauten den Bedürfnissen der Behinderten anzupassen.
+<sup>2</sup> Bestehende öffentliche Bauten und Anlagen sind bei Erweiterungen und neubauähnlichen Umbauten den Bedürfnissen der Behinderten anzupassen.<sup>17</sup>
 
 <sup>3</sup> Bei der Errichtung von Wohnüberbauungen und grösseren industriellen und gewerblichen Bauten und Anlagen sowie bei deren Erweiterung und neubauähnlichem Umbau sind die Bedürfnisse der Behinderten angemessen zu berücksichtigen; der Gemeinderat kann für behindertengerechtes Bauen bezüglich der Bauziffern einen Bonus gewähren.
 
@@ -1203,11 +1318,11 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 <sup>5</sup> Der Landrat erlässt in der Vollziehungsverordnung Detailvorschriften über die baulichen Massnahmen für Behinderte.
 
-### 5.8.2 Spielplätze und Freizeitanlagen
+- b) Spielplätze und Freizeitanlagen
 
 #### Art. 178
 
-**Erstellungspflicht; Sicherung**
+**Erstellungspflicht; Sicherung<sup>17</sup>**
 
 <sup>1</sup> Bei Gebäuden und Überbauungen mit vier und mehr Wohnungen sind auf privatem Grund besonnte und nach Möglichkeit abseits vom Verkehr liegende Spielplätze oder andere Freizeitanlagen im Ausmasse von mindestens 10 Prozent der gesamten Bruttogeschossfläche zu erstellen und zu unterhalten.
 
@@ -1227,17 +1342,17 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 <sup>4</sup> Der Erlös der Ersatzabgaben darf nur für die Erstellung von öffentlichen Spielplätzen und Freizeitanlagen verwendet werden.
 
-### 5.8.3 Umweltschutz
+- c) Umweltschutz<sup>17</sup>
 
 #### Art. 180
 
-**Zuständigkeit**
+**Zuständigkeit<sup>17</sup>**
 
-<sup>1</sup> Die Anwendung der Vorschriften über den Umweltschutz im Rahmen des Vollzuges dieses Gesetzes und der dazugehörenden Vollziehungsvorschriften obliegt, soweit die Spezialgesetzgebung keine andere Regelung vorsieht, dem Gemeinderat.
+Die Anwendung der Vorschriften über den Umweltschutz im Rahmen des Vollzuges dieses Gesetzes und der dazugehörenden Vollziehungsvorschriften obliegt, soweit die Spezialgesetzgebung keine andere Regelung vorsieht, dem Gemeinderat.
 
 #### Art. 181
 
-**Umweltschutz bei Bau- und Abbrucharbeiten**
+**Umweltschutz bei Bau- und Abbrucharbeiten<sup>17</sup>**
 
 <sup>1</sup> Bei Bau- und Abbrucharbeiten sind alle zumutbaren, dem Stand der Technik entsprechenden Massnahmen zu treffen, um übermässige Einwirkungen auf die Nachbarschaft zu vermeiden.
 
@@ -1247,33 +1362,33 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 <sup>4</sup> Er kann die Ausführungen lärmiger Bauarbeiten auf bestimmte Zeiten beschränken, soweit hierüber nicht bereits zwingende Vorschriften bestehen, und die Transportwege und Anlieferungszeiten bestimmen.
 
-### 5.8.4 Bezug von Neubauten
+- d) Bezug von Neubauten
 
 #### Art. 182
 
 **Voraussetzungen**
 
-<sup>1</sup> Räume, die zum dauernden Aufenthalt von Menschen bestimmt sind, dürfen erst bezogen werden, wenn sie fertiggestellt und genügend ausgetrocknet sind, der Anschluss an die Trinkwasserversorgung und die Kanalisation vollzogen ist, keine Gefahr für Gesundheit und Sicherheit der Bewohner besteht und die Bedingungen und Auflagen der Baubewilligung soweit als möglich erfüllt sind.
+Räume, die zum dauernden Aufenthalt von Menschen bestimmt sind, dürfen erst bezogen werden, wenn sie fertiggestellt und genügend ausgetrocknet sind, der Anschluss an die Trinkwasserversorgung und die Kanalisation vollzogen ist, keine Gefahr für Gesundheit und Sicherheit der Bewohner besteht und die Bedingungen und Auflagen der Baubewilligung soweit als möglich erfüllt sind.
 
-### 5.9 Energie
+- 9\. Energie
 
 #### Art. 183
 
-**Energiesparmassnahmen**
+**Energiesparmassnahmen<sup>24</sup>**
 
-<sup>1</sup> Für die Energiesparmassnahmen gelten die Vorschriften der Energiegesetzgebung[^183-1].
-
-[^183-1]: SR 730; NG 641.1; NG 641.11
+Für die Energiesparmassnahmen gelten die Vorschriften der Energiegesetzgebung<sup>25</sup>.
 
 #### Art. 184
 
-**Erhöhter Qualitätsstandard 1. Festlegung**
+**Erhöhter Qualitätsstandard<sup>24</sup>**
 
-<sup>1</sup> Der Regierungsrat legt einen erhöhten und zertifizierten Qualitätsstandard fest, der den fortschrittlichen Stand der Technik berücksichtigt.
+### 1. Festlegung
+
+Der Regierungsrat legt einen erhöhten und zertifizierten Qualitätsstandard fest, der den fortschrittlichen Stand der Technik berücksichtigt.
 
 #### Art. 185
 
-**2. Nutzungsbonus**
+**2. Nutzungsbonus<sup>24</sup>**
 
 <sup>1</sup> Wird eine Baute nach dem erhöhten und zertifizierten Qualitätsstandard erstellt oder entsprechend saniert, erhöhen sich die nach dem Bau- und Zonenreglement zulässigen Bauziffern um 10 Prozent und die zulässige, durchschnittliche Geschosshöhe auf 3.30 m.
 
@@ -1283,33 +1398,35 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 <sup>4</sup> Der Nutzungsbonus kann nicht zusätzlich zum Bonus gemäss Art. 97 gewährt werden.
 
-#### Art. 186–192
+#### Art. 186
 
-**…**
+**-192 ...<sup>18</sup>**
 
-### 5.10 Hochhäuser
+### 10. Hochhäuser
 
-#### Art. 193–195
+#### Art. 193
 
-**…**
+**-195 ...<sup>17</sup>**
 
-### 5.11 Einkaufszentren
+- 11\. Einkaufszentren
 
-#### Art. 196–200
+#### Art. 196
 
-**…**
+**-200 …<sup>32</sup>**
 
-### 5.12 Camping
+- 12\. Camping
 
 #### Art. 201
 
 **Begriff der Campingplätze**
 
-<sup>1</sup> Als Campingplätze gelten Grundstücke, die regelmässig für Wohnwagen, Wohnmobile oder Zelte zur Verfügung gestellt werden.
+Als Campingplätze gelten Grundstücke, die regelmässig für Wohnwagen, Wohnmobile oder Zelte zur Verfügung gestellt werden.
 
 #### Art. 202
 
-**Voraussetzungen für die Bewilligung von Campingplätzen**
+**Voraussetzungen für die Bewilligung von Campingplät-**
+
+zen
 
 <sup>1</sup> Campingplätze sind nur in einer Zone für Sport- und Freizeitanlagen, in einer Kurzone oder in einer andern eigens hiefür ausgeschiedenen Zone zulässig.
 
@@ -1318,66 +1435,80 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 <sup>3</sup> Die Bewilligung darf nur erteilt werden, wenn:
 
 - 1\. die für Campingplätze allgemein geltenden öffentlichrechtlichen Vorschriften eingehalten sind, und
+
 - 2\. die für Bauten, Mauern, Einfriedungen usw. in der Gesetzgebung enthaltenen öffentlichrechtlichen Vorschriften eingehalten sind.
 
 #### Art. 203
 
-**…**
+**..<sup>17</sup>**
 
 #### Art. 204
 
-**Wohnwagen, Wohnmobile und Zelte**
+**Wohnwagen, Wohnmobile und Zelte<sup>17</sup>**
 
-<sup>1</sup> Ausserhalb einer Bauzone dürfen:
+Ausserhalb einer Bauzone dürfen:
 
 - 1\. je Grundstück höchstens zwei Wohnwagen oder Wohnmobile dauernd im Freien aufgestellt werden; sie dürfen dort längstens während eines Monats je Kalenderjahr bewohnt beziehungsweise benutzt werden;
+
 - 2\. Zelte höchstens für die Dauer eines Monats aufgestellt und bewohnt beziehungsweise benutzt werden.
 
-### 5.13 Besitzstandsgarantie
+### 13. Besitzstandsgarantie<sup>17</sup>
 
 #### Art. 205
 
-**1. Innerhalb der Bauzonen a) zonenwidrige Bauten und Anlagen**
+**1. Innerhalb der Bauzonen**
 
-<sup>1</sup> Den innerhalb der Bauzonen bestehenden Bauten und Anlagen, die dem Zweck der Nutzungszone widersprechen, werden Bestand und angemessene Erweiterung gewährleistet, wenn ihre unvermeidlichen Einwirkungen auf die Nachbarschaft nach den örtlichen Verhältnissen nicht übermässig sind.
+- a) zonenwidrige Bauten und Anlagen<sup>17</sup> Den innerhalb der Bauzonen bestehenden Bauten und Anlagen, die dem Zweck der Nutzungszone widersprechen, werden Bestand und angemessene Erweiterung gewährleistet, wenn ihre unvermeidlichen Einwirkungen auf die Nachbarschaft nach den örtlichen Verhältnissen nicht übermässig sind.
 
-#### Art. 206
+#### Art. 206 b
 
-**b) baupolizeiwidrige Bauten und Anlagen**
+**) baupolizeiwidrige Bauten und Anlagen<sup>17</sup>**
 
-<sup>1</sup> Die innerhalb der Bauzonen bestehenden Bauten- und Anlagen, die den baupolizeilichen Bestimmungen widersprechen, dürfen erhalten und zeitgemäss erneuert werden. Neubauähnliche Umbauten und Erweiterungen können ausnahmsweise gestattet werden, wenn keine wesentlichen öffentlichen und privaten Interessen entgegenstehen.
+Die innerhalb der Bauzonen bestehenden Bauten- und Anlagen, die den baupolizeilichen Bestimmungen widersprechen, dürfen erhalten und zeitgemäss erneuert werden. Neubauähnliche Umbauten und Erweiterungen können ausnahmsweise gestattet werden, wenn keine wesentlichen öffentlichen und privaten Interessen entgegenstehen.
 
 #### Art. 207
 
-**2. ausserhalb der Bauzone**
+**2. ausserhalb der Bauzone<sup>17</sup>**
 
 <sup>1</sup> Die bestehenden, dem Zweck der Nutzungszone widersprechenden Bauten und Anlagen ausserhalb der Bauzonen können im Rahmen von Art. 24 Abs. 2 des Bundesgesetzes über die Raumplanung erneuert, teilweise geändert oder wieder aufgebaut werden.
 
 <sup>2</sup> Das Bewilligungsverfahren richtet sich sinngemäss nach Art. 209.
 
-### 5.14 Neue Bauten und Anlagen ausserhalb der Bauzonen
+- 14\. Neue Bauten und Anlagen ausserhalb der Bauzonen
 
-#### Art. 208–211
+#### Art. 208
 
-**…**
+**-211 …<sup>33</sup>**
 
-## 6 Baubewilligung und Baukontrolle
+### VI. BAUBEWILLIGUNG UND BAUKONTROLLE
 
 #### Art. 212
 
-**…**
+**-217 …<sup>32</sup>**
 
-#### Art. 213–236
+#### Art. 218
 
-**…**
+**..<sup>17</sup>**
 
-## 7 Rechtsschutz
+#### Art. 219
 
-#### Art. 237–238
+**-223 …<sup>32</sup>**
 
-**…**
+#### Art. 224
 
-## 8 Vollzug, Aufsicht, Strafen
+**-225 ...<sup>17</sup>**
+
+#### Art. 226
+
+**-236 …<sup>32</sup>**
+
+### VII. RECHTSSCHUTZ
+
+#### Art. 237
+
+**-238 …<sup>32</sup>**
+
+### VIII. VOLLZUG, AUFSICHT, STRAFEN
 
 #### Art. 239
 
@@ -1385,53 +1516,47 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 <sup>1</sup> Der Landrat erlässt auf dem Verordnungsweg die zum Vollzug dieses Gesetzes erforderlichen Vorschriften.
 
-<sup>2–3</sup> …
+<sup>2</sup> …<sup>32</sup>
 
-#### Art. 240–245
+<sup>3</sup> …<sup>32</sup>
 
-**…**
+#### Art. 240
 
-## 9 Übergangs- und Schlussbestimmungen
+**-245 …<sup>32</sup>**
+
+### IX. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 246
 
-**Änderung bisherigen Rechts 1. Einführungsgesetz zum Schweizerischen Zivilgesetzbuch**
+**Änderung bisherigen Rechts**
 
-<sup>1</sup> Das Einführungsgesetz vom 30. April 1911 zum Schweizerischen Zivilgesetzbuch[^246-1] wird wie folgt geändert: …
+### 1. Einführungsgesetz zum Schweizerischen Zivilge-
 
-[^246-1]: Heute Art. 102 des Einführungsgesetze vom 24. April 1988 zum Zivilgesetzbuch; NG 211.1
+setzbuch Das Einführungsgesetz vom 30. April 1911 zum Schweizerischen Zivilgesetzbuch<sup>14</sup> wird wie folgt geändert: ...
 
 #### Art. 247
 
 **2. Gemeindegesetz**
 
-<sup>1</sup> Das Gemeindegesetz vom 28. April 1974[^247-1] wird wie folgt ergänzt: …
-
-[^247-1]: NG 171.0
+Das Gemeindegesetz vom 28. April 1974<sup>11</sup> wird wie folgt ergänzt: ...
 
 #### Art. 248
 
 **3. Strassengesetz**
 
-<sup>1</sup> Das Strassengesetz vom 24. April 1966[^248-1] wird wie folgt geändert: …
-
-[^248-1]: NG 622.1
+Das Strassengesetz vom 24. April 1966<sup>6</sup> wird wie folgt geändert: ...
 
 #### Art. 249
 
-**4. Einführungsgesetz zur Bundesgesetzgebung über den Strassenverkehr**
+**4. Einführungsgesetz zur Bundesgesetzgebung**
 
-<sup>1</sup> Das Einführungsgesetz vom 30. April 1967 zur Bundesgesetzgebung über den Strassenverkehr[^249-1] wird wie folgt ergänzt: …
-
-[^249-1]: NG 651.1.
+über den Strassenverkehr Das Einführungsgesetz vom 30. April 1967 zur Bundesgesetzgebung über den Strassenverkehr<sup>12</sup> wird wie folgt ergänzt: ...
 
 #### Art. 250
 
 **5. Forstgesetz**
 
-<sup>1</sup> Das Forstgesetz vom 27. April 1975[^250-1] wird wie folgt geändert: …
-
-[^250-1]: NG 831.1
+Das Forstgesetz vom 27. April 1975<sup>13</sup> wird wie folgt geändert: ...
 
 #### Art. 251
 
@@ -1453,12 +1578,82 @@ Die Bestimmungen können im Sinne von Art. 680 Abs. 2 ZGB durch öffentlich beur
 
 **Rechtskraft**
 
-<sup>1</sup> Die Gesetzesabschnitte 1 Allgemeine Bestimmungen, 3 Landumlegung und Grenzregulierung, 6 Baubewilligung und Baukontrolle, 7 Rechtsschutz, 8 Vollzug, Aufsicht, Strafen und 9 Übergangs- Und Schlussbestimmungen treten am 1. Januar 1989 in Kraft.
+<sup>1</sup> Die Gesetzesabschnitte I. ALLGEMEINE BESTIMMUNGEN, III. LANDUMLEGUNG UND GRENZREGULIERUNG, VI. BAUBEWILLI-GUNG UND BAUKONTROLLE, VII. RECHTSSCHUTZ, VIII. VOLLZUG, AUFSICHT, STRAFEN und IX. ÜBERGANGS- UND SCHLUSSBE-STIMMUNGEN treten am 1. Januar 1989 in Kraft.
 
-<sup>2</sup> Die Gesetzesabschnitte 2 Planungsvorschriften, 4 Übernahmepflicht, Entschädigungen und Beiträge und 5 Bauvorschriften treten mit den zugehörigen Vollziehungsbestimmungen in Kraft.
+<sup>2</sup> Die Gesetzesabschnitte II. PLANUNGSVORSCHRIFTEN, IV. ÜBER-NAHMEPFLICHT, ENTSCHÄDIGUNGEN UND BEITRÄGE und V. BAUVORSCHRIFTEN treten mit den zugehörigen Vollziehungsbestimmungen in Kraft.
 
 <sup>3</sup> Das Gesetz ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
 
 <sup>4</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind auf den Zeitpunkt des Inkrafttretens der neuen Bestimmungen aufgehoben, insbesondere die Bestimmungen des Baugesetzes vom 30. April 1961.
 
-A 1988, 909
+<sup>1</sup> A 1988, 909
+
+<sup>2</sup> SR 700
+
+<sup>3</sup> SR 921.0, SR 721.100
+
+<sup>4</sup> NG 266.1
+
+<sup>5</sup> NG 211.1
+
+<sup>6</sup> NG 622.1
+
+<sup>7</sup> NG 613.1
+
+<sup>8</sup> NG 265.1
+
+<sup>9</sup> NG 161.2
+
+<sup>10</sup> SR 311.0
+
+<sup>11</sup> NG 171.0
+
+<sup>12</sup> NG 651.1.
+
+<sup>13</sup> NG 831.1
+
+<sup>14</sup> Heute Art. 102 des Einführungsgesetzes vom 24. April 1988 zum Zivilgesetzbuch; NG 211.1
+
+<sup>15</sup> Fassung gemäss Landsgemeindebeschluss vom 28. April 1994, A 1994, 682
+
+<sup>16</sup> Vom Eidgenössisches Justiz- und Polizeidepartement genehmigt am 16. Mai 1994
+
+<sup>17</sup> Fassung gemäss Landsgemeindebeschluss vom 28. April 1996, A 1996, 569; in Kraft seit 1. Oktober 1996
+
+<sup>18</sup> Fassung gemäss Landsgemeindebeschluss vom 28. April 1996, A 1996, 536; in Kraft seit 1. Januar 1997
+
+<sup>19</sup> Fassung gemäss Landratsbeschluss vom 11. März 1998, A 1998, 425, 1048; in Kraft seit 1. Januar 1999; vom Bund genehmigt am 27. Mai 1998
+
+<sup>20</sup> Fassung gemäss Landratsbeschluss vom 4. Februar 2004, A 2004, 213, 1111; in Kraft seit 1. Juli 2004
+
+<sup>21</sup> Fassung gemäss Landratsbeschluss vom 25. Oktober 2006, A 2006, 1705, A 2007, 5; in Kraft seit 1. Januar 2007
+
+<sup>22</sup> Fassung gemäss Landratsbeschluss vom 1. April 2009, A 2009, 517, 1288; in Kraft seit 1. August 2009
+
+<sup>23</sup> SR 814.20
+
+<sup>24</sup> Fassung gemäss Landratsbeschluss vom 16. Dezember 2009, A 2009, 2237, A 2010, 739; in Kraft seit 1. Mai 2010
+
+<sup>25</sup> SR 730; NG 641.1; NG 641.11
+
+<sup>26</sup> Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1727, A 2012, 558; in Kraft seit 1. Mai 2012
+
+<sup>27</sup> SR 510.625
+
+<sup>28</sup> SR 510.62
+
+<sup>29</sup> SR 510.620
+
+<sup>30</sup> Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1769; A 2012, 558, in Kraft seit 1. Januar 2012; vom Bund genehmigt am 25. Mai 2012
+
+<sup>31</sup> NG 214.1
+
+<sup>32</sup> Fassung gemäss Regierungsratsbeschluss vom 25. November 2014, A 2014, 2228; in Kraft seit 1. Januar 2015; das Baugesetz tritt gemäss Art. 207 PBG gemeindeweise ausser Kraft (vgl. NG 611.111)
+
+<sup>33</sup> Fassung gemäss Regierungsratsbeschluss vom 6. März 2018, A 2018, 489; in Kraft seit 1. April 2018; das Baugesetz tritt gemäss Art. 207 PBG gemeindeweise ausser Kraft (vgl. NG 611.111)
+
+<sup>34</sup> Fassung gemäss Landratsbeschluss vom 13. Dezember 2017, A 2017, 2188; A 2018, 584; in Kraft seit 1. Juli 2018
+
+## Weitere Fussnoten
+
+- [35] Fassung gemäss Landratsbeschluss vom 13. Juni 2018, A 2018, 1109, 1623; in Kraft seit 1. Oktober 2018
