@@ -4,13 +4,13 @@ number: "835.203"
 title: Verordnung zur Umsetzung von Massnahmen im Kulturbereich gemäss Covid-19-Gesetz des Bundes
 short: Verordnung Kulturbereich gemäss Covid-19-Gesetz
 language: de
-version: 2021-04-28
-valid_until: 2021-11-09
-version_adopted: 2021-04-27
+version: 2021-11-10
+valid_until: 2022-02-22
+version_adopted: 2021-11-09
 adopted: 2020-11-10
 in_force: 2020-09-26
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/835.203"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5259/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5366/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19 Unterstützung Kultur: Verordnung
 
 (Verordnung Kulturbereich gemäss Covid-19-Gesetz)
 
-Vom 10. November 2020 (Stand 28. April 2021)
+Vom 10. November 2020 (Stand 10. November 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -69,9 +69,9 @@ beschliesst:
 
 **Höchstbetrag**
 
-<sup>1</sup> Ausfallentschädigungen gemäss Art. 3 Abs. 1 lit. a sowie Art. 4 ff. Covid-19-Kulturverordnung für Kulturunternehmen werden nur bis zu einem Höchstbetrag von Fr. 1'000'000 je Gesuchstellerin oder Gesuchsteller zugesprochen.
+<sup>1</sup> Ausfallentschädigungen gemäss Art. 3 Abs. 1 lit. a sowie Art. 4 ff. Covid-19-Kulturverordnung für Kulturunternehmen werden nur bis zu einem Höchstbetrag von Fr. 2'000'000 je Gesuchstellerin oder Gesuchsteller zugesprochen.
 
-<sup>2</sup> Ausfallentschädigungen gemäss Art. 3 Abs. 1 lit. a sowie Art. 4 ff. Covid-19-Kulturverordnung für Kulturschaffende werden nur bis zu einem Höchstbetrag von Fr. 100'000 je Gesuchstellerin oder Gesuchsteller zugesprochen.
+<sup>2</sup> Ausfallentschädigungen gemäss Art. 3 Abs. 1 lit. a sowie Art. 4 ff. Covid-19-Kulturverordnung für Kulturschaffende werden nur bis zu einem Höchstbetrag von Fr. 200'000 je Gesuchstellerin oder Gesuchsteller zugesprochen.
 
 #### § 6
 
@@ -92,6 +92,12 @@ beschliesst:
 - a) Darstellende Künste und Musik: Erfasst ist auch das Verlegen von bespielten Tonträgern und Musikalien (Musiklabels);
 - b) Visuelle Kunst: Erfasst sind auch Vermittlungsprojekte und -veranstaltungen von Kunstgalerien;
 - c) Literatur: Erfasst sind auch Buchprojekte von Verlagen, wenn diese Buchprojekte den Kulturbereich betreffen, sowie Vermittlungsprojekte und -veranstaltungen von Buchhandlungen und Bibliotheken.
+
+#### § 8
+
+**Übergangsbestimmung zur Revision von § 5**
+
+<sup>1</sup> Auf Gesuche, welche im Zeitpunkt des Inkrafttretens des neuen Rechts noch nicht abschliessend beurteilt worden sind, wird das für sie günstigere Recht angewendet.
 
 *Schlussbestimmung*
 
