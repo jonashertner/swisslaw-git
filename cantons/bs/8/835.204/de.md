@@ -4,13 +4,13 @@ number: "835.204"
 title: Verordnung betreffend Ausrichtung von Taggeldern zur Existenzsicherung von Kulturschaffenden
 short: Covid-19-Verordnung Kulturschaffende
 language: de
-version: 2021-04-28
-valid_until: 2021-11-09
-version_adopted: 2021-04-27
+version: 2021-11-10
+valid_until: 2022-02-22
+version_adopted: 2021-11-09
 adopted: 2021-02-09
 in_force: 2020-11-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/835.204"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5353/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5365/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Existenzsicherung von Kulturschaffenden: Covid-19-Verordnung | Arbeitslosenversi
 
 (Covid-19-Verordnung Kulturschaffende)
 
-Vom 9. Februar 2021 (Stand 28. April 2021)
+Vom 9. Februar 2021 (Stand 10. November 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -79,7 +79,7 @@ beschliesst:
 
 <sup>2</sup> Die Kulturschaffenden reichen das Gesuch mit den notwendigen Unterlagen ein. Mit dem Gesuchsformular ermächtigen sie das Präsidialdepartement, sämtliche im Gesuch enthaltenen Daten mit anderen Behörden auszutauschen. Zu diesem Zweck entbinden sie diese von ihrem Amts-, Bank- oder Steuergeheimnis im Zusammenhang mit der Bearbeitung dieser Daten.
 
-<sup>3</sup> Gesuche für den Zeitraum November 2020 bis April 2021 sind bis am 31. Mai 2021 einzureichen. Gesuche für den Zeitraum Mai 2021 bis August 2021 sind bis am 30. September 2021 einzureichen.
+<sup>3</sup> Gesuche für den Zeitraum November 2020 bis April 2021 sind bis am 31. Mai 2021 einzureichen. Gesuche für den Zeitraum Mai 2021 bis August 2021 sind bis am 30. September 2021 einzureichen. Gesuche für den Zeitraum September 2021 bis Dezember 2021 sind bis am 31. Januar 2022 einzureichen.
 
 #### § 6
 
@@ -105,4 +105,4 @@ Diese Verordnung ist zu publizieren; sie tritt rückwirkend am 1. November 2020 
 
 KB 13.02.2021
 
-[^footer-1]: Die Befristung der Verordnung wird neu bis 31. Januar 2022 festgelegt (RRB vom 20. 4. 2021, KB 15. 5. 2021).
+[^footer-1]: Die Befristung der Verordnung wird neu bis 31. Mai 2022 festgelegt (RRB vom 9. 11. 2021, KB 10. 11. 2021).
