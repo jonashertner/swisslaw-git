@@ -4,11 +4,11 @@ title: Loi fédérale du 6 octobre 2000 sur la partie générale du droit des as
 short: LPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/510"
 language: fr
-version: 2021-06-18
+version: 2021-11-10
 adopted: 2000-10-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20210618/fr/xml/fedlex-data-admin-ch-eli-cc-2002-510-20210618-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210618/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20211110/fr/xml/fedlex-data-admin-ch-eli-cc-2002-510-20211110-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20211110/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210618/fr"
 
 (LPGA)
 
-du 6 octobre 2000 (Etat le 18 juin 2021)
+du 6 octobre 2000 (Etat le 10 novembre 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -365,17 +365,18 @@ Tous les organes de mise en œuvre des assurances sociales ont l’obligation d�
 
 Les autorités administratives et judiciaires de la Confédération, des cantons, des districts, des circonscriptions et des communes fournissent gratuitement aux organes des assurances sociales, dans des cas particuliers et sur demande écrite et motivée, les données qui leur sont nécessaires pour:
 
-- a. fixer ou modifier des prestations, ou encore en réclamer la restitution;
+- a.[^32-1] fixer ou modifier des prestations, ou encore en réclamer la restitution;
 - b. prévenir des versements indus;
 - c. fixer et percevoir les cotisations;
 - d. faire valoir une prétention récursoire contre le tiers responsable.
 
 <sup>2</sup> Les organes des assurances sociales se prêtent mutuellement assistance aux mêmes conditions.
 
-<sup>3</sup> Les organismes visés à l’art. 75*a* se communiquent les données nécessaires pour accomplir les tâches qui leur sont assignées en vertu de l’annexe II de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^32-1] (accord sur la libre circulation des personnes) et d’autres traités internationaux en matière de sécurité sociale.[^32-2]
+<sup>3</sup> Les organismes visés à l’art. 75*a* se communiquent les données nécessaires pour accomplir les tâches qui leur sont assignées en vertu de l’annexe II de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^32-2] (accord sur la libre circulation des personnes) et d’autres traités internationaux en matière de sécurité sociale.[^32-3]
 
-[^32-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^32-2]: Introduit par le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^32-1]: Erratum de la CdR de l’Ass. féd. du 3 nov. 2021, publié le 10 nov. 2021, ne concerne que le texte italien ([RO 2021 658](https://fedlex.data.admin.ch/eli/oc/2021/658)).
+[^32-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^32-3]: Introduit par le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 33
 
@@ -1075,7 +1076,7 @@ Le Conseil fédéral est chargé de l’exécution de la présente loi. Il édic
 
 Les recours pendants devant le tribunal de première instance à l’entrée en vigueur de la modification du 21 juin 2019 sont régis par l’ancien droit.
 
-[^82a-1]: Introduit par le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)). Erratum de la CdR de l’Ass.féd. du 19 mai 2021, publiée le 18 juin 2021 ([RO 2021 358](https://fedlex.data.admin.ch/eli/oc/2021/358)).
+[^82a-1]: Introduit par le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)). Erratum de la CdR de l’Ass.féd. du 19 mai 2021, publié le 18 juin 2021 ([RO 2021 358](https://fedlex.data.admin.ch/eli/oc/2021/358)).
 
 #### Art. 83
 

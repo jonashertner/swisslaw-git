@@ -4,11 +4,11 @@ title: Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialver
 short: ATSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/510"
 language: de
-version: 2021-06-18
+version: 2021-11-10
 adopted: 2000-10-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20210618/de/xml/fedlex-data-admin-ch-eli-cc-2002-510-20210618-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210618/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20211110/de/xml/fedlex-data-admin-ch-eli-cc-2002-510-20211110-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20211110/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210618/de"
 
 (ATSG)
 
-vom 6. Oktober 2000 (Stand am 18. Juni 2021)
+vom 6. Oktober 2000 (Stand am 10. November 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -360,17 +360,18 @@ Alle Stellen, die mit der Durchführung der Sozialversicherung betraut sind, hab
 
 Die Verwaltungs- und Rechtspflegebehörden des Bundes, der Kantone, Bezirke, Kreise und Gemeinden geben den Organen der einzelnen Sozialversicherungen auf schriftliche und begründete Anfrage im Einzelfall kostenlos diejenigen Daten bekannt, die erforderlich sind für:
 
-- a. die Festsetzung, Änderung oder Rückforderung von Leistungen;
+- a.[^32-1] die Festsetzung, Änderung oder Rückforderung von Leistungen;
 - b. die Verhinderung ungerechtfertigter Bezüge;
 - c. die Festsetzung und den Bezug der Beiträge;
 - d. den Rückgriff auf haftpflichtige Dritte.
 
 <sup>2</sup> Unter den gleichen Bedingungen leisten die Organe der einzelnen Sozialversicherungen einander Verwaltungshilfe.
 
-<sup>3</sup> Die Stellen nach Artikel 75*a* geben sich gegenseitig diejenigen Daten bekannt, die zur Erfüllung ihrer Aufgaben nach Anhang II des Abkommens vom 21. Juni 1999[^32-1] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie anderer internationaler Abkommen über die soziale Sicherheit notwendig sind.[^32-2]
+<sup>3</sup> Die Stellen nach Artikel 75*a* geben sich gegenseitig diejenigen Daten bekannt, die zur Erfüllung ihrer Aufgaben nach Anhang II des Abkommens vom 21. Juni 1999[^32-2] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie anderer internationaler Abkommen über die soziale Sicherheit notwendig sind.[^32-3]
 
-[^32-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^32-2]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^32-1]: Die Berichtigung der RedK der BVers vom 3. Nov. 2021, publiziert am 10. Nov. 2021 betrifft nur den italienischen Text ([AS 2021 658](https://fedlex.data.admin.ch/eli/oc/2021/658)).
+[^32-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^32-3]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 33
 

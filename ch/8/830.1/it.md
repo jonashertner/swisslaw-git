@@ -4,11 +4,11 @@ title: Legge federale del 6 ottobre 2000 sulla parte generale del diritto delle 
 short: LPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/510"
 language: it
-version: 2021-06-18
+version: 2021-11-10
 adopted: 2000-10-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20210618/it/xml/fedlex-data-admin-ch-eli-cc-2002-510-20210618-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210618/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20211110/it/xml/fedlex-data-admin-ch-eli-cc-2002-510-20211110-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20211110/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210618/it"
 
 (LPGA)
 
-del 6 ottobre 2000 (Stato 18 giugno 2021)
+del 6 ottobre 2000 (Stato 10 novembre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -363,17 +363,18 @@ Tutti gli organi esecutivi delle assicurazioni sociali hanno l’obbligo di acce
 
 Le autorità amministrative e giudiziarie della Confederazione, dei Cantoni, distretti, circoli e Comuni comunicano gratuitamente agli organi delle singole assicurazioni sociali, su richiesta scritta e motivata nei singoli casi, i dati necessari per:
 
-- a. determinare, modificare o restituire prestazioni;
+- a.[^32-1] determinare o modificare prestazioni o chiederne la restituzione;
 - b. prevenire versamenti indebiti;
 - c. fissare e riscuotere i contributi;
 - d. intraprendere azioni di regresso contro terzi responsabili.
 
 <sup>2</sup> Alle stesse condizioni gli organi delle singole assicurazioni sociali si prestano reciprocamente assistenza.
 
-<sup>3</sup> Gli organi di cui all’articolo 75*a* si comunicano reciprocamente i dati necessari per l’adempimento dei loro compiti secondo l’allegato II dell’Accordo del 21 giugno 1999[^32-1] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e secondo altre convenzioni internazionali in materia di sicurezza sociale.[^32-2]
+<sup>3</sup> Gli organi di cui all’articolo 75*a* si comunicano reciprocamente i dati necessari per l’adempimento dei loro compiti secondo l’allegato II dell’Accordo del 21 giugno 1999[^32-2] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e secondo altre convenzioni internazionali in materia di sicurezza sociale.[^32-3]
 
-[^32-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^32-2]: Introdotto dal n. I della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^32-1]: Correzione della Commissione di redazione dell’AF del 3 nov. 2021, pubblicata il 10 nov. 2021 ([RU 2021 658](https://fedlex.data.admin.ch/eli/oc/2021/658)).
+[^32-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^32-3]: Introdotto dal n. I della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 #### Art. 33
 
