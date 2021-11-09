@@ -4,28 +4,31 @@ number: "642.12"
 title: Reglement über die allgemeinen Bedingungen für die Netznutzung und die Lieferung elektrischer Energie
 language: de
 version: 2015-01-01
+corrected: 2021-11-10
 version_adopted: 2014-12-05
 adopted: 2014-12-05
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/642.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/896/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/240/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Reglement über die allgemeinen Bedingungen für die Netznutzung und die Lieferung elektrischer Energie
 
-vom 05.12.2014 (Stand 01.01.2015)
+vom 05. Dezember 2014[^t-1]
 
 Der Verwaltungsrat,
 
-gestützt auf Art. 2 Abs. 1 Ziff. 3 und Abs. 2, Art. 3 Abs. 1 Ziff. 3 sowie Abs. 2 und 3 des EWN-Gesetzes[^ingress-1],
+gestützt auf Art. 2 Abs. 1 Ziff. 3 und Abs. 2, Art. 3 Abs. 1 Ziff. 3 sowie Abs. 2 und 3 des EWN-Gesetzes[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 642.1
+[^t-1]: A 2014, 2320; Datum des Inkrafttretens: 1. Januar 2015
+[^t-2]: NG 642.1
 
-## 1 Allgemeine Bestimmungen
+### I ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -51,15 +54,17 @@ beschliesst:
 
 **Begriffsbestimmungen**
 
-<sup>1</sup> Als Kunden gelten: Bei Netznutzung und / oder Energielieferungen: Der Eigentümer, bei Miet- oder Pachtverhältnissen der Mieter bzw. der Pächter von Grundstücken, Häusern, gewerblichen Räumen und Wohnungen, deren Energieverbrauch über Messeinrichtungen erfasst oder in besonderen Fällen pauschal festgelegt wird. Für Untermieter und Kurzzeitmieter werden in der Regel keine eigenen Zählerabonnemente geführt. In Liegenschaften mit häufigem Benutzerwechsel kann das EWN das Zählerabonnement auf den Liegenschaftseigentümer ausstellen. In Liegenschaften mit mehreren Benützern lautet das Zählerabonnement für den Allgemeinverbrauch (z.B. Treppenhausbeleuchtung, Lift usw.) auf den Liegenschaftseigentümer.
+Als Kunden gelten:
+
+Bei Netznutzung und/oder Energielieferungen: Der Eigentümer, bei Miet- oder Pachtverhältnissen der Mieter bzw. der Pächter von Grundstücken, Häusern, gewerblichen Räumen und Wohnungen, deren Energieverbrauch über Messeinrichtungen erfasst oder in besonderen Fällen pauschal festgelegt wird. Für Untermieter und Kurzzeitmieter werden in der Regel keine eigenen Zählerabonnemente geführt. In Liegenschaften mit häufigem Benutzerwechsel kann das EWN das Zählerabonnement auf den Liegenschaftseigentümer ausstellen. In Liegenschaften mit mehreren Benützern lautet das Zählerabonnement für den Allgemeinverbrauch (z.B. Treppenhausbeleuchtung, Lift usw.) auf den Liegenschaftseigentümer.
 
 #### Art. 3
 
 **Entstehung des Rechtsverhältnisses**
 
-<sup>1</sup> Das Rechtsverhältnis mit dem Kunden für die Netznutzung und / oder den Energiebezug entsteht in der Regel durch Nutzung des Verteilnetzes, mit dem Energiebezug oder durch Abschluss eines Energieliefervertrags und dauert bis zur ordentlichen Abmeldung.
+<sup>1</sup> Das Rechtsverhältnis mit dem Kunden für die Netznutzung und/oder den Energiebezug entsteht in der Regel durch Nutzung des Verteilnetzes, mit dem Energiebezug oder durch Abschluss eines Energieliefervertrags und dauert bis zur ordentlichen Abmeldung.
 
-<sup>2</sup> Bezieht der frei am Markt berechtigte Kunde nach Art. 6 StromVG / Art. 11 StromVV (mindestens / grösser 100 MWh Jahresverbrauch pro Verbrauchsstätte) Energie teilweise oder vollständig bei Dritten, so ist vorgängig mit dem EWN ein Netzanschluss- und Netznutzungsvertrag abzuschliessen. Im Weiteren hat der Kunde dem EWN bei einem Lieferantenwechsel folgende Angaben mitzuteilen: Neuer Lieferant, Bezugsprofil, Modalitäten des Energiedatenmanagements und der Abrechnung. Das EWN kann im Einverständnis des Kunden mit dem Drittlieferanten einen Rahmenvertrag zur Abwicklung der Netznutzung und der Abrechnungsmodalitäten abschliessen.
+<sup>2</sup> Bezieht der frei am Markt berechtigte Kunde nach Art. 6 StromVG/Art. 11 StromVV (mindestens/grösser 100 MWh Jahresverbrauch pro Verbrauchsstätte) Energie teilweise oder vollständig bei Dritten, so ist vorgängig mit dem EWN ein Netzanschluss- und Netznutzungsvertrag abzuschliessen. Im Weiteren hat der Kunde dem EWN bei einem Lieferantenwechsel folgende Angaben mitzuteilen: Neuer Lieferant, Bezugsprofil, Modalitäten des Energiedatenmanagements und der Abrechnung. Das EWN kann im Einverständnis des Kunden mit dem Drittlieferanten einen Rahmenvertrag zur Abwicklung der Netznutzung und der Abrechnungsmodalitäten abschliessen.
 
 <sup>3</sup> Die Energielieferung wird aufgenommen, sobald die allenfalls notwendigen Netzanschluss-, Netznutzungs- bzw. Energielieferverträge abgeschlossen sowie die Vorleistungen des Hauseigentümers und des Kunden erfüllt sind, wie Bezahlung der Anschlussbeiträge, Baukostenbeiträge und dergleichen.
 
@@ -75,7 +80,9 @@ beschliesst:
 
 <sup>2</sup> Die am freien Markt nicht berechtigten Kunden nach Art. 6 StromVG (kleiner 100 MWh Jahresverbrauch pro Verbrauchsstätte) können den Energiebezug jederzeit mit einer Frist von 5 Arbeitstagen durch schriftliche, elektronische oder mündliche, vom EWN bestätigte Abmeldung beenden (wie bei Wegzug, Liegenschaftsverkauf etc.).
 
-<sup>3</sup> Die am Markt berechtigten freien Kunden nach Art. 6 StromVG / Art. 11 StromVV können ohne besondere vertragliche Vereinbarung jeweils auf Ende eines Kalenderjahres mit einer Kündigungsfrist von 2 Monaten ihren Energiebezug beenden.
+<sup>3</sup> Die am Markt berechtigten freien Kunden nach Art. 6 StromVG/Art.
+
+11 StromVV können ohne besondere vertragliche Vereinbarung jeweils auf Ende eines Kalenderjahres mit einer Kündigungsfrist von 2 Monaten ihren Energiebezug beenden.
 
 <sup>4</sup> Der Kunde hat die Netznutzung und den Energieverbrauch sowie allfällig weitere Kosten, die bis zur Ablesung am Ende des Rechtsverhältnisses entstehen, zu bezahlen.
 
@@ -84,8 +91,11 @@ beschliesst:
 <sup>6</sup> Dem EWN ist unter Angabe des genauen Zeitpunkts Meldung zu erstatten.
 
 - a) Vom Verkäufer bei Eigentumswechsel einer Liegenschaft oder einer Wohnung, mit Adressangabe des Käufers.
+
 - b) Vom wegziehenden Mieter bei Wegzug aus gemieteten Räumen, mit Angabe der neuen Wohnadresse.
+
 - c) Vom Vermieter bei Mieterwechsel einer Wohnung oder Liegenschaft.
+
 - d) Vom Eigentümer der verwalteten Liegenschaft bei Wechsel in der Person oder Firma, welche die Liegenschaftsverwaltung besorgt, mit Angabe deren Adresse.
 
 <sup>7</sup> Netznutzung, Energieverbrauch und allfällig weitere Kosten und Umtriebe, die nach Beendigung des Rechtsverhältnisses oder in leer stehenden Mieträumen und unbenutzten Anlagen entstehen, gehen zulasten des Eigentümers der entsprechenden Liegenschaft.
@@ -94,9 +104,9 @@ beschliesst:
 
 <sup>9</sup> Bei Ausserbetriebnahme von Messeinrichtungen behält sich das EWN vor, auf Kosten des Kunden geeignete Massnahmen zu treffen, um eine unbefugte oder unkontrollierte Wiederinbetriebnahme zu verhindern.
 
-<sup>10</sup> Das EWN kann bei der Abmeldung eines Energiebezugs Einsicht in benötigte Unterlagen verlangen.
+<sup>1</sup> 0 Das EWN kann bei der Abmeldung eines Energiebezugs Einsicht in benötigte Unterlagen verlangen.
 
-## 2 Netznutzung
+### II. NETZNUTZUNG
 
 #### Art. 5
 
@@ -112,19 +122,23 @@ beschliesst:
 
 <sup>5</sup> Das Netz ist grundsätzlich für die Übertragung von Daten und Signalen des EWN reserviert. Ausnahmen bedürfen der Bewilligung durch das EWN und sind entschädigungspflichtig.
 
-<sup>6</sup> Installationen und elektrische Verbraucher werden nur bewilligt und angeschlossen, wenn sie
+<sup>6</sup> Installationen und elektrische Verbraucher werden nur bewilligt und angeschlossen, wenn sie a) den eidgenössischen und kantonalen Vorschriften und Ausführungsbestimmungen, den anerkannten Regeln der Technik und den Werkvorschriften des EWN entsprechen;
 
-- a) den eidgenössischen und kantonalen Vorschriften und Ausführungsbestimmungen, den anerkannten Regeln der Technik und den Werkvorschriften des EWN entsprechen;
 - b) im normalen Betrieb elektrische Einrichtungen benachbarter Kunden, Fernmelde- und Rundsteueranlagen nicht störend beeinflussen;
+
 - c) von Firmen oder Personen ausgeführt werden, welche im Besitz einer Installationsbewilligung des Eidgenössischen Starkstrominspektorats (ESTI) gemäss Niederspannungsinstallationsverordnung (NIV)[^5-1] sind, soweit eine solche Bewilligung notwendig ist.
 
 <sup>7</sup> Das EWN kann auf Kosten des Verursachers besondere Bedingungen und Massnahmen festlegen, namentlich in folgenden Fällen:
 
 - a) Für die Dimensionierung und Steuerung von elektrischen Raum- und Aussenheizungen und anderen speziellen Wärmeanwendungen.
+
 - b) Wenn der vorgeschriebene Leistungsfaktor cos phi nicht eingehalten wird.
+
 - c) Für elektrische Verbraucher, die Netzrückwirkungen verursachen und damit den Betrieb der Anlagen des EWN oder dessen Kunden stören; insbesondere auch bei störenden Oberwellen- und Resonanzerscheinungen sowie Spannungsabsenkungen.
+
 - d) Zur rationellen Energienutzung.
-- e) Für die Rückspeisung bei Energieerzeugungsanlagen (EEA).
+
+- e) Für die Rückspeisung bei Energieerzeugungsanlagen (EEA). Diese Bedingungen und Massnahmen können auch für bereits vorhandene Kunden und Anlagen angeordnet werden.
 
 [^5-1]: SR 734.27
 
@@ -138,7 +152,7 @@ beschliesst:
 
 <sup>3</sup> Die Installationen und die an das Netz angeschlossenen Geräte sind dauernd in gutem und gefahrlosem Zustand zu halten. Festgestellte Mängel sind unverzüglich zu beheben. Den Kunden wird empfohlen, bei allfällig ungewöhnlichen Erscheinungen in ihren Installationen wie häufiges Durchschmelzen von Sicherungen, Knistern, Rauchentwicklung und dergleichen den betroffenen Anlageteil auszuschalten und unverzüglich einen berechtigten Installateur mit der Behebung der Störung zu beauftragen.
 
-<sup>4</sup> Das EWN fordert die Eigentümer von Niederspannungsinstallationen periodisch auf, den Nachweis zu erbringen, dass ihre Installationen den gültigen technischen und sicherheitstechnischen Anforderungen und Normen genügen. Der Sicherheitsnachweis ist von einem unabhängigen Kontrollorgan auszustellen, das an der Installation der betreffenden technischen Anlagen nicht beteiligt gewesen ist. Das EWN führt aufgrund des eingereichten Sicherheitsnachweises Stichprobenkontrollen nach NIV durch und fordert den Installationsinhaber auf, allfällige Mängel auf eigene Kosten umgehend durch einen berechtigten Installateur beheben zu lassen.
+<sup>4</sup> Das EWN fordert die Eigentümer von Niederspannungsinstallationen periodisch auf, den Nachweis zu erbringen, dass ihre Installationen den gültigen technischen und sicherheitstechnischen Anforderungen und Normen genügen. Der Sicherheitsnach-weis ist von einem unabhängigen Kontrollorgan auszustellen, das an der Installation der betreffenden technischen Anlagen nicht beteiligt gewesen ist. Das EWN führt aufgrund des eingereichten Sicherheitsnachweises Stichprobenkontrollen nach NIV durch und fordert den Installationsinhaber auf, allfällige Mängel auf eigene Kosten umgehend durch einen berechtigten Installateur beheben zu lassen.
 
 <sup>5</sup> Der Kunde ermöglicht den Mitarbeitern des EWN oder beauftragten Dritten zu angemessener Zeit und im Fall von Störungen jederzeit den Zugang zu sämtlichen Grenz- und Messstellen sowie zur Installation.
 
@@ -148,7 +162,7 @@ beschliesst:
 
 **Messeinrichtungen**
 
-<sup>1</sup> Die für die Messung der Energie notwendigen Zähler und anderen Einrichtungen werden vom EWN geliefert und montiert. Die Zähler und Messeinrichtungen bleiben im Eigentum des EWN und werden auf dessen Kosten instand gehalten. Der Hauseigentümer bzw. Kunde erstellt auf eigene Kosten die für den Anschluss der Messeinrichtungen notwendigen Installationen nach Anleitung des EWN. Überdies stellt er dem EWN den für den Einbau der Messeinrichtungen und der Zählapparate erforderlichen Platz kostenlos zur Verfügung. Allfällige Verschalungen, Nischen, Aussenkästen usw., die zum Schutz der Apparate notwendig sind, werden vom Kunden bzw. Hauseigentümer auf seine Kosten erstellt.
+<sup>1</sup> Die für die Messung der Energie notwendigen Zähler und anderen Einrichtungen werden vom EWN geliefert und montiert. Die Zähler und Messeinrichtungen bleiben im Eigentum des EWN und werden auf dessen Kosten instand gehalten. Der Hauseigentümer bzw. Kunde erstellt auf eigene Kosten die für den Anschluss der Messeinrichtungen notwendigen Installationen nach Anleitung des EWN. Überdies stellt er dem EWN den für den Einbau der Messeinrichtungen und der Zählapparate erforderlichen Platz kostenlos zur Verfügung. Allfällige Verschalungen, Nischen, Aus-senkästen usw., die zum Schutz der Apparate notwendig sind, werden vom Kunden bzw. Hauseigentümer auf seine Kosten erstellt.
 
 <sup>2</sup> Die Kosten der Montage und Demontage der im Grundangebot vorgesehenen Zähler und Messeinrichtungen gehen zulasten des EWN. Ist gemäss den Anforderungen des Kunden oder aufgrund gesetzlicher Vorgaben die Montage zusätzlicher oder besonderer Messeinrichtungen (wie Lastgangmessung) bzw. entsprechende Kommunikationsanschlüsse notwendig, so gehen die entsprechenden Mehrkosten für Installation und Betrieb zu dessen Lasten.
 
@@ -156,7 +170,7 @@ beschliesst:
 
 <sup>4</sup> Messeinrichtungen wie Unterzähler, welche sich im Eigentum des Kunden befinden und für die Weiterverrechnung an Dritte dienen, sind von diesem auf eigene Kosten nach den Bestimmungen des Bundesgesetzes über das Messwesen[^7-1] sowie den entsprechenden Ausführungsvorschriften und Verordnungen zu unterhalten und periodisch amtlich prüfen zu lassen.
 
-<sup>5</sup> Der Kunde kann jederzeit auf eigene Kosten eine Prüfung der Messeinrichtungen durch ein amtlich ermächtigtes Prüforgan verlangen. In Streitfällen ist der Befund des Bundesamts für Metrologie und Akkreditierung massgebend. Werden bei den Prüfungen Fehler an den Messeinrichtungen festgestellt, so trägt das EWN die Kosten der Prüfungen einschliesslich der Auswechslung der Messeinrichtungen. Messapparate, deren Abweichungen die gesetzlichen Toleranzen nicht überschreiten, gelten als korrekt messend. Dies gilt ebenfalls für Umschaltuhren, Sperrschalter, Rundsteuerempfänger usw. mit Differenzen bis +/– 30 Minuten auf die Uhrzeit.
+<sup>5</sup> Der Kunde kann jederzeit auf eigene Kosten eine Prüfung der Messeinrichtungen durch ein amtlich ermächtigtes Prüforgan verlangen. In Streitfällen ist der Befund des Bundesamts für Metrologie und Akkreditierung massgebend. Werden bei den Prüfungen Fehler an den Messeinrichtungen festgestellt, so trägt das EWN die Kosten der Prüfungen einschliesslich der Auswechslung der Messeinrichtungen. Messapparate, deren Abweichungen die gesetzlichen Toleranzen nicht überschreiten, gelten als korrekt messend. Dies gilt ebenfalls für Umschaltuhren, Sperrschalter, Rundsteuerempfänger usw. mit Differenzen bis +/- 30 Minuten auf die Uhrzeit.
 
 <sup>6</sup> Die Kunden sind verpflichtet, festgestellte Unregelmässigkeiten in der Funktion der Mess- und Schaltapparate dem EWN unverzüglich anzuzeigen.
 
@@ -174,7 +188,7 @@ beschliesst:
 
 <sup>4</sup> Treten in einer Installation Verluste durch Erdschluss, Kurzschluss oder andere Ursachen auf, so hat der Kunde keinen Anspruch auf eine Reduktion des registrierten Energieverbrauchs.
 
-## 3 Energielieferung
+### III. ENERGIELIEFERUNG
 
 #### Art. 9
 
@@ -184,60 +198,71 @@ beschliesst:
 
 <sup>2</sup> Die Verantwortung für die Einhaltung gesetzlicher Vorschriften über die Energieverwendung obliegt dem Kunden.
 
-<sup>3</sup> Das EWN setzt für die Energielieferung die Energieart, Spannung, Frequenz und den Leistungsfaktor cos phi sowie die Art der Schutzmassnahmen fest. Das Niederspannungsnetz wird mit Wechselstrom in der Nennspannung 400/230 Volt und mit der Nennfrequenz von 50 Hz betrieben. Das EWN ist berechtigt, besondere Bedingungen festzulegen, sofern der vorgeschriebene Leistungsfaktor nicht eingehalten und vom Kunden keine Abhilfe getroffen wird.
+<sup>3</sup> Das EWN setzt für die Energielieferung die Energieart, Spannung, Frequenz und den Leistungsfaktor cos phi sowie die Art der Schutzmassnahmen fest. Das Nieder-spannungsnetz wird mit Wechselstrom in der Nennspannung 400/230 Volt und mit der Nennfrequenz von 50 Hz betrieben. Das EWN ist berechtigt, besondere Bedingungen festzulegen, sofern der vorgeschriebene Leistungsfaktor nicht eingehalten und vom Kunden keine Abhilfe getroffen wird.
 
 <sup>4</sup> Der Kunde ist nur berechtigt, die Energie zu den in den Preisstrukturen oder dem Energieliefervertrag bestimmten Zwecken zu verwenden. Der Anschluss von elektrischen Geräten an Stromkreise, die für andere Zwecke bestimmt sind, ist nicht erlaubt.
 
 #### Art. 10
 
-**Regelmässigkeit der Energielieferung / Einschränkungen**
+**Regelmässigkeit der Energielieferung /**
 
-<sup>1</sup> Das EWN liefert die Energie in der Regel ununterbrochen innerhalb der üblichen Toleranzen für Spannung und Frequenz gemäss der Schweizer Norm EN 50160 «Merkmale der Spannung in öffentlichen Elektrizitätsversorgungsnetzen»; vorbehalten bleiben besondere Preis- sowie die nachstehenden Ausnahmebestimmungen.
+### Einschränkungen
 
-<sup>2</sup> Das EWN hat das Recht, die Energielieferung einzuschränken oder ganz einzustellen
+<sup>1</sup> Das EWN liefert die Energie in der Regel ununterbrochen innerhalb der üblichen Toleranzen für Spannung und Frequenz gemäss der Schweizer Norm EN 50160 „Merkmale der Spannung in öffentlichen Elektrizitätsversorgungsnetzen“; vorbehalten bleiben besondere Preis- sowie die nachstehenden Ausnahmebestimmungen.
 
-- a) bei höherer Gewalt wie Krieg oder kriegsähnlichen Zuständen, inneren Unruhen, Streiks, Sabotage;
+<sup>2</sup> Das EWN hat das Recht, die Energielieferung einzuschränken oder ganz einzustellen a) bei höherer Gewalt wie Krieg oder kriegsähnlichen Zuständen, inneren Unruhen, Streiks, Sabotage;
+
 - b) bei ausserordentlichen Vorkommnissen und Naturereignissen wie Einwirkungen durch Feuer, Explosion, Wasser, Eisgang, Blitz, Windfall und Schneedruck, Erdbeben, Beschädigung durch Dritte usw., Störungen und Überlastungen im Netz sowie Produktionseinbussen infolge Ressourcenmangel;
+
 - c) bei betriebsbedingten Unterbrechungen wie Reparaturen, Unterhalts- und Erweiterungsarbeiten, Unterbrechung der Zufuhr vom Vorlieferanten oder bei Lieferengpässen;
+
 - d) bei Unfällen bzw. bei Gefahr für Mensch, Tier, Umwelt oder Sachen;
+
 - e) wenn die Versorgungssicherheit nicht gewährleistet werden kann;
+
 - f) bei Energieknappheit im Interesse der Aufrechterhaltung der Elektrizitätsversorgung des Landes;
+
 - g) aufgrund behördlich angeordneter Massnahmen.
+
+Das EWN wird dabei in der Regel auf die Bedürfnisse der Kunden Rücksicht nehmen. Voraussehbare längere Unterbrechungen und Einschränkungen werden den Kunden nach Möglichkeit im Voraus und in geeigneter Form (Amtsblatt, Zeitung, direkte Benachrichtigung usw.) angezeigt.
 
 <sup>3</sup> Das EWN ist zur optimalen Lastbewirtschaftung berechtigt, für bestimmte Gerätekategorien die Freigabezeiten einzuschränken oder zu verändern. Die dafür notwendigen technischen Einrichtungen gehen zulasten des Kunden.
 
 <sup>4</sup> Die Kunden haben von sich aus alle nötigen Vorkehrungen zu treffen, um in ihren Anlagen Schäden oder Unfälle zu verhüten, die durch Energieunterbruch, Wiedereinschaltung sowie aus Spannungs- oder Frequenzschwankungen und Oberschwingungen im Netz entstehen können. In besonderem Mass gilt diese Verpflichtung für auf solche Ereignisse anfälligen Betriebe wie Krankenhäuser, Altersheime, EDV-Anlagen, Kühlanlagen, Intensivmastbetriebe und dergleichen. Kunden, die eigene Erzeugungsanlagen besitzen oder Energie von dritter Seite beziehen, haben die besonderen Bedingungen über den Parallelbetrieb mit dem Netz des EWN einzuhalten. Insbesondere ist darauf zu achten, dass im Fall von Stromunterbrüchen im EWN-Netz solche Anlagen automatisch von diesem abgetrennt und nicht wieder zugeschaltet werden können, solange das EWN-Netz spannungslos ist.
 
-<sup>5</sup> Die Kunden haben unter Vorbehalt zwingender gesetzlicher Bestimmungen keinen Anspruch auf Entschädigung für mittelbaren oder unmittelbaren Schaden, der ihnen entsteht aus
+<sup>5</sup> Die Kunden haben unter Vorbehalt zwingender gesetzlicher Bestimmungen keinen Anspruch auf Entschädigung für mittelbaren oder unmittelbaren Schaden, der ihnen entsteht aus a) Spannungs- und Frequenzschwankungen irgendwelcher Art und Grösse oder störenden Oberschwingungen im Netz;
 
-- a) Spannungs- und Frequenzschwankungen irgendwelcher Art und Grösse oder störenden Oberschwingungen im Netz;
 - b) Unterbrechungen oder Einschränkungen der Energieabgabe sowie aus der Einstellung der Energielieferung oder aus dem Betrieb von Rundsteueranlagen, sofern die Unterbrechungen aus Gründen erfolgen, die in diesem Reglement vorgesehen sind.
 
 #### Art. 11
 
-**Einstellung der Netznutzung und / oder Energielieferung infolge Kundenverhalten**
+**Einstellung der Netznutzung und/oder Energielieferung**
 
-<sup>1</sup> Das EWN ist berechtigt, nach vorheriger Mahnung und entsprechend schriftlicher Anzeige die Netznutzung und / oder Energielieferung einzustellen, wenn der Kunde
+infolge Kundenverhalten
 
-- a) elektrische Einrichtungen oder Geräte benutzt, die den anwendbaren Vorschriften nicht entsprechen oder aus anderen Gründen Personen oder Sachen gefährden;
+<sup>1</sup> Das EWN ist berechtigt, nach vorheriger Mahnung und entsprechend schriftlicher Anzeige die Netznutzung und/oder Energielieferung einzustellen, wenn der Kunde a) elektrische Einrichtungen oder Geräte benutzt, die den anwendbaren Vorschriften nicht entsprechen oder aus anderen Gründen Personen oder Sachen gefährden;
+
 - b) rechtswidrig Energie bezieht;
+
 - c) den Beauftragten des EWN den Zutritt zu seiner Anlage oder Messeinrichtung nicht ermöglicht;
-- d) seinen Zahlungsverpflichtungen für die Netznutzung und / oder den Energiebezug nicht nachgekommen ist oder keine Gewähr besteht, dass zukünftige Netznutzungs- oder Energierechnungen bezahlt werden;
+
+- d) seinen Zahlungsverpflichtungen für die Netznutzung und/oder den Energiebezug nicht nachgekommen ist oder keine Gewähr besteht, dass zukünftige Netznutzungs- oder Energierechnungen bezahlt werden;
+
 - e) in schwerwiegender Weise gegen wesentliche Bestimmungen dieses Reglements verstösst.
 
 <sup>2</sup> Mangelhafte elektrische Einrichtungen oder Geräte, von denen eine beträchtliche Personen- oder Brandgefahr ausgeht, können durch Beauftragte des EWN oder durch das Eidgenössische Starkstrominspektorat ESTI ohne vorherige Mahnung vom Verteilnetz abgetrennt oder plombiert werden.
 
 <sup>3</sup> Bei vorsätzlicher Umgehung der Preisbestimmungen durch den Kunden oder dessen Beauftragten sowie bei widerrechtlichem Energiebezug hat der Kunde die zu wenig verrechneten Beträge in vollem Umfang samt Zinsen und einer Entschädigung für die verursachten Umtriebe zu bezahlen. Das EWN behält sich vor, in solchen Fällen Strafanzeige zu erstatten.
 
-<sup>4</sup> Die Einstellung der Netznutzung und / oder Energielieferung durch das EWN befreit den Kunden nicht von der Zahlungspflicht für ausgestellte Rechnungen oder von der Erfüllung anderer Verbindlichkeiten gegenüber dem EWN. Aus der rechtmässigen Einstellung der Netznutzung und / oder Energielieferung durch das EWN entsteht dem Kunden kein Anspruch auf Entschädigung irgendwelcher Art.
+<sup>4</sup> Die Einstellung der Netznutzung und/oder Energielieferung durch das EWN befreit den Kunden nicht von der Zahlungspflicht für ausgestellte Rechnungen oder von der Erfüllung anderer Verbindlichkeiten gegenüber dem EWN. Aus der rechtmässigen Einstellung der Netznutzung und/oder Energielieferung durch das EWN entsteht dem Kunden kein Anspruch auf Entschädigung irgendwelcher Art.
 
-## 4 Preise und Rechnungsstellung
+### IV. PREISE UND RECHNUNGSSTELLUNG
 
 #### Art. 12
 
 **Preise**
 
-<sup>1</sup> Die anwendbaren Preise, die technischen Anforderungen sowie die Kostenbeiträge werden periodisch den aktuellen Marktverhältnissen angepasst.
+Die anwendbaren Preise, die technischen Anforderungen sowie die Kostenbeiträge werden periodisch den aktuellen Marktverhältnissen angepasst.
 
 #### Art. 13
 
@@ -249,13 +274,13 @@ beschliesst:
 
 <sup>3</sup> Die Rechnungen sind vom Kunden innert 30 Tagen nach Zustellung ohne jeglichen Abzug mit dem zugestellten Einzahlungsschein oder mit Bank- oder Postauftrag zu begleichen. Die Bezahlung der Rechnungen in Raten ist nur mit ausdrücklicher Zustimmung des EWN zulässig. Auf Wunsch des Kunden können die Zahlungen auch mittels elektronischer Rechnungen (E-Rechnung) oder Lastschriftverfahren (LSV) erfolgen.
 
-<sup>4</sup> Bei Zahlungsverzug erfolgt nach unbenutztem Ablauf der Zahlungsfrist eine erste Mahnung an den Kunden mit einer weiteren Zahlungsfrist von 10 Tagen und dem Hinweis auf die Verrechnung von Mahngebühren im Falle einer weiteren Mahnung. Wird der ersten Mahnung nicht Folge geleistet, so erfolgt eine zweite Mahnung mit einer letzten Zahlungsfrist von 5 Tagen und dem Hinweis der Unterbrechung der Netznutzung und / oder Energielieferung bei erneutem Ausbleiben der Zahlung.
+<sup>4</sup> Bei Zahlungsverzug erfolgt nach unbenutztem Ablauf der Zahlungsfrist eine erste Mahnung an den Kunden mit einer weiteren Zahlungsfrist von 10 Tagen und dem Hinweis auf die Verrechnung von Mahngebühren im Falle einer weiteren Mahnung. Wird der ersten Mahnung nicht Folge geleistet, so erfolgt eine zweite Mahnung mit einer letzten Zahlungsfrist von 5 Tagen und dem Hinweis der Unterbrechung der Netznutzung und/oder Energielieferung bei erneutem Ausbleiben der Zahlung.
 
 <sup>5</sup> Mahnungen des EWN können bei Bedarf als Verfügung mit Rechtsmittelbelehrung erlassen werden. Rechtsmittelinstanzen und Fristen richten sich nach Art. 14 dieses Reglements. Anstelle von Mahnungen mit Rechtsmittelbelehrung kann das EWN bei Bedarf bereits die Rechnung als Verfügung erlassen.
 
 <sup>6</sup> Nach Ablauf der Zahlungsfrist werden dem Kunden die durch den Zahlungsverzug verursachten zusätzlichen Aufwendungen (Mahngebühren, Porto, Inkasso, Ein- und Ausschaltungen usw.) in Rechnung gestellt.
 
-<sup>7</sup> Die Mahngebühren werden wie folgt festgelegt: Bei der ersten Zahlungserinnerung oder Mahnung werden keine Gebühren erhoben. Für jede allfällige weitere Mahnung beträgt die Mahngebühr Fr. 40.– plus MwSt., hinzu kommen allfällige Inkasso- und Betreibungskosten.
+<sup>7</sup> Die Mahngebühren werden wie folgt festgelegt: Bei der ersten Zahlungserinnerung oder Mahnung werden keine Gebühren erhoben. Für jede allfällige weitere Mahnung beträgt die Mahngebühr Fr. 40.-- plus MwSt., hinzu kommen allfällige Inkasso- und Betreibungskosten.
 
 <sup>8</sup> Bei allen Rechnungen und Zahlungen können Fehler und Irrtümer nachträglich während 5 Jahren ab Fälligkeit berichtigt werden.
 
@@ -275,14 +300,12 @@ beschliesst:
 
 [^14-1]: SR 281.1
 
-## 5 Schlussbestimmungen
+### V. SCHLUSSBESTIMMUNGEN
 
 #### Art. 15
 
 **Inkrafttreten**
 
-<sup>1</sup> Das vorliegende Reglement wurde vom EWN-Verwaltungsrat am 5. Dezember 2014 genehmigt und tritt per 1. Januar 2015 in Kraft. Es ersetzt die allgemeinen Bedingungen für den Netzanschluss, die Netznutzung und die Lieferung elektrischer Energie vom 21. August 2008[^15-1] samt Nachträgen und Änderungen. Das vorliegende Reglement ist im Amtsblatt zu veröffentlichen und in die kantonale Gesetzessammlung aufzunehmen.
+Das vorliegende Reglement wurde vom EWN-Verwaltungsrat am 5. Dezember 2014 genehmigt und tritt per 1. Januar 2015 in Kraft. Es ersetzt die allgemeinen Bedingungen für den Netzanschluss, die Netznutzung und die Lieferung elektrischer Energie vom 21. August 2008[^15-1] samt Nachträgen und Änderungen. Das vorliegende Reglement ist im Amtsblatt zu veröffentlichen und in die kantonale Gesetzessammlung aufzunehmen.
 
 [^15-1]: A 2008, 2595
-
-A 2014, 2320
