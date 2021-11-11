@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Disposizione transitoria della legge federale concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Übergangsbestimmung zum Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben
 document: Vernehmlassungsvorlage
 language: de

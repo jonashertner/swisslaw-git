@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Complément à la loi fédérale sur l’utilisation des moyens électroniques pour l’exécution des tâches des autorités
 document: Projet mis en consultation
 language: fr
