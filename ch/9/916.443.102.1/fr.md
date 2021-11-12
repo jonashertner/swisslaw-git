@@ -3,18 +3,18 @@ sr: "916.443.102.1"
 title: Ordonnance de l’OSAV du 15 octobre 2021 instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne et en Irlande du Nord
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: fr
-version: 2021-11-06
+version: 2021-11-13
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20211106/fr/xml/fedlex-data-admin-ch-eli-cc-2021-615-20211106-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20211106/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20211113/fr/xml/fedlex-data-admin-ch-eli-cc-2021-615-20211113-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20211113/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne
 
-du 15 octobre 2021 (Etat le 6 novembre 2021)
+du 15 octobre 2021 (Etat le 13 novembre 2021)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -85,11 +85,11 @@ La présente ordonnance entre en vigueur le 19 octobre 2021.
 
 Annexe*[^t-1]*
 
-(art. 1, 2, al. 1, et art. 3 à 6)
+(art. 1 et 2, al. 1, et art. 3 à 6)
 
 ## États membres et zones réglementées
 
-[^t-1]: Nouvelle teneur selon l’O de l’OSAV du 4 nov. 2021, en vigueur depuis le 6 nov. 2021 ([RO 2021 651](https://fedlex.data.admin.ch/eli/oc/2021/651)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 11 nov. 2021, en vigueur depuis le 13 nov. 2021 ([RO 2021 664](https://fedlex.data.admin.ch/eli/oc/2021/664)).
 
 ### 1 Zones réglementées dans les États membres de l’UE concernés
 
@@ -97,13 +97,17 @@ Les États membres de l’UE concernés ainsi que les zones réglementées sont 
 
 <table>
 <tr><th>Acte législatif de l’UE</th><th>Titre et date de publication du texte législatif et dates de publication des actes modificateurs</th></tr>
-<tr><td>Décision d’exécution (UE) 2021/641</td><td>Décision d’exécution (UE) 2021/641 de la Commission du 16 avril 2021 concernant des mesures d’urgence motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 134 du 20.4.2021, p. 166 ; modifiée en dernier lieu par la décision d’exécution (UE) 2021/1872, JO L 379 du 26.10.2021, p. 53</td></tr>
+<tr><td>Décision d’exécution (UE) 2021/641</td><td>Décision d’exécution (UE) 2021/641 de la Commission du 16 avril 2021 concernant des mesures d’urgence motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 134 du 20.4.2021, p. 166; modifiée en dernier lieu par la décision d’exécution (UE) 2021/1908, JO L 390 du 4.11.2021, p. 39</td></tr>
 </table>
 
 ### 2 États membres de l’UE concernés
 
 Des zones réglementées ont été délimitées dans les États membres de l’UE suivants:
 
+Allemagne
+
+Estonie
+
 Italie
 
-Tchéquie
+Pays-Bas
