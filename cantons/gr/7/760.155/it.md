@@ -5,12 +5,12 @@ title: "Ordinanza relativa all'esercizio della pesca"
 short: "Prescrizioni per l'esercizio della pesca, PEP"
 language: it
 version: 2021-01-01
-corrected: 2021-06-28
+corrected: 2021-11-15
 version_adopted: 2020-11-24
 adopted: 2019-12-10
 in_force: 2020-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/760.155"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3098/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3178/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -91,7 +91,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 5, l'ar
 - i) il Sägebach dalle sorgenti fino al Sägeweiher presso il castello di Ortenstein compreso, Comune di Domleschg (296);
 - j) Ober- e Untersee inclusi il Mittelbach (3002 e 3003) e il Rothornweiher nei pressi della struttura "Rothornblick", Comune di Arosa;
 - k) Renggliweiher (impianto per la ghiaia Untervaz), Comune di Untervaz (3012);
-- l) Laghetti "Im Bad" e "Cholplatz", Comune di Klosters-Serneus (393);
+- l) Laghetti "Im Bad" e "Cholplatz", Comune di Klosters (393);
 - m) Lej Nair e Lej Pitschen, Comune di Pontresina (4020 e 4021);
 - n) Lai Nair e Lai da Tarasp, Comune di Scuol (4036 e 4037);
 - o) Lai da Rims, Comune di Val Müstair (5001).
