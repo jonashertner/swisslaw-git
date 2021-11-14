@@ -4,7 +4,7 @@ number: "730.01.1"
 title: "RÈGLEMENT du 04.10.2006 d'application de la loi du 16 mai 2006 sur l'énergie (RLVLEne)"
 short: RLVLEne
 language: fr
-version: 2020-03-31
+version: 2021-11-15
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01.1?id=cdf012a7-8491-4e62-aeee-72bd1bf5a011"
 ---
 
@@ -77,7 +77,7 @@ arrête
 - d. au remplacement ou à la modification des installations du bâtiment ;
 - e. aux installations de production, de transformation et de transport de l'énergie ;
 - f. aux dispositifs et installations utilisant de l'énergie ;
-- g. à la planification énergétique territoriale ;
+- g. à la planification énergétique ;
 - h. aux transports.
 
 <sup>2</sup> Les exigences du présent règlement sont applicables, même si les travaux entrepris ne sont pas soumis à autorisation en vertu des dispositions de la législation en matière de police des constructions.
@@ -88,13 +88,13 @@ arrête
 - b. constructions annexes ;
 - c. transformations conséquentes pouvant s'apparenter à une nouvelle construction, notamment lorsque les murs intérieurs et les dalles sont évacués.
 
-[^2-4]: Modif. 1 du 02.07.2014: Modification Al. 1; entrée en vigueur au 01.08.2014; Introduction Al. 2-3; entrée en vigueur au 01.08.2014 · Modif. 3 du 10.11.2021: Modification Al. 1, g; entrée en vigueur au 15.11.2021; Introduction Art. 4, Al. 2, l-n; entrée en vigueur au 15.11.2021; Introduction Art. 46a, Al. 1, d-f; entrée en vigueur au 15.11.2021; Introduction Art. 46b; entrée en vigueur au 15.11.2021; Introduction Art. 57a; entrée en vigueur au 15.11.2021 · Modif. 5 du 14.06.2023: Modification Al. 2; entrée en vigueur au 01.08.2023
+[^2-4]: Modif. 1 du 02.07.2014: Modification Al. 1; entrée en vigueur au 01.08.2014; Introduction Al. 2-3; entrée en vigueur au 01.08.2014 · Modif. 3 du 10.11.2021: Modification Al. 1, g; entrée en vigueur au 15.11.2021 · Modif. 5 du 14.06.2023: Modification Al. 2; entrée en vigueur au 01.08.2023
 
 #### Art. 4
 
 **Définitions [^3-1]**
 
-<sup>1</sup> Les définitions formulées à l'article 1 de l'ordonnance fédérale sur l'énergie (ci-après : OEne)[^4-1] , ainsi que dans la norme SIA 380/1, édition 2009, font foi.
+<sup>1</sup> Les définitions formulées dans la norme SIA 380/1, édition 2009, font foi.
 
 <sup>2</sup> Sont en outre admises les définitions suivantes :
 
@@ -110,16 +110,18 @@ arrête
 - g. Touché par le changement d'affectation : Du point de vue énergétique, un élément de construction ou une partie de bâtiment sont considérés comme touchés par un changement d'affectation dès lors que leur température intérieure, définie pour des conditions normales d'utilisation, est modifiée.
 - h. Construction provisoire : Construction abritant des activités nécessitant un chauffage des locaux, destinée à être déplacée périodiquement ou à un usage limité dans le temps, comme des pavillons destinés à un usage scolaire ou administratif. Ne sont pas considérées comme des constructions provisoires les tentes mobiles destinées à des manifestations de très courte durée.
 - i. Rénovation lourde : Rénovation dont le montant total des travaux selon le code des frais de construction (CFC 2) représente plus de 50% de la valeur ECA du bâtiment au moment de l'établissement des documents nécessaires à l'obtention du permis de construire.
-- j. Professionnel qualifié (article 35 LVLEne[^4-2]) : Toute personne au bénéfice d'une formation professionnelle et d'une expérience reconnues dans le domaine pour lequel elle est amenée à réaliser des tâches et des prestations.
+- j. Professionnel qualifié (article 35 LVLEne[^4-1]) : Toute personne au bénéfice d'une formation professionnelle et d'une expérience reconnues dans le domaine pour lequel elle est amenée à réaliser des tâches et des prestations.
 - k. Site de consommation : Lieu d'activité d'un consommateur final d'électricité, de gaz ou de tout autre vecteur énergétique qui constitue une unité économique et géographique et qui présente sa propre consommation annuelle effective, indépendamment du nombre de ses points d'injection ou de soutirage.
+- l. Projets pilotes et de démonstration : installations et projets au sens de l'article 54 de l'ordonnance fédérale du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne) ;
+- m. Couplage chaleur-force : production simultanée d'électricité et de chaleur issues du processus de transformation du combustible dans les turbines à gaz, les turbines à vapeur, les moteurs à combustion, les autres installations thermiques et les piles à combustibles ;
+- n. Technologies intelligentes : systèmes de mesure, de commande et de réglage intelligents au sens des articles 17a et 17b de la loi fédérale du 23 mars 2007 sur l'approvisionnement en électricité (LApEI).
 
-[^3-1]: Modif. 1 du 02.07.2014: Modification Al. 1,2; entrée en vigueur au 01.08.2014 · Modif. 3 du 10.11.2021: Modification Al. 1; entrée en vigueur au 15.11.2021; Introduction Al. 2, l-n; entrée en vigueur au 15.11.2021; Introduction Art. 46a, Al. 1, d-f; entrée en vigueur au 15.11.2021; Introduction Art. 46b; entrée en vigueur au 15.11.2021; Introduction Art. 57a; entrée en vigueur au 15.11.2021
-[^4-1]: Ordonnance fédérale du 07.12.1998 sur l'énergie (RS 730.01)
-[^4-2]: Loi du 16.05.2006 sur l'énergie ([BLV 730.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01?id=e7f13ccb-9bc3-4442-876e-c316278b9975))
+[^3-1]: Modif. 1 du 02.07.2014: Modification Al. 1,2; entrée en vigueur au 01.08.2014 · Modif. 3 du 10.11.2021: Modification Al. 1; entrée en vigueur au 15.11.2021; Introduction Al. 2, l-n; entrée en vigueur au 15.11.2021
+[^4-1]: Loi du 16.05.2006 sur l'énergie ([BLV 730.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01?id=e7f13ccb-9bc3-4442-876e-c316278b9975))
 
 #### Art. 5
 
-**Etat de la technique [^4-3]**
+**Etat de la technique [^4-2]**
 
 <sup>1</sup> Les mesures prescrites par le présent règlement sont appliquées et exécutées conformément à l'état de la technique.
 
@@ -127,7 +129,7 @@ arrête
 
 <sup>3</sup> En cas de révision ou d'adaptation, par les associations professionnelles, des normes et recommandations en vigueur, le service peut fixer une période transitoire jusqu'à l'application des nouvelles dispositions.
 
-[^4-3]: Modif. 1 du 02.07.2014: Modification Al. 2; entrée en vigueur au 01.08.2014; Introduction Al. 3; entrée en vigueur au 01.08.2014
+[^4-2]: Modif. 1 du 02.07.2014: Modification Al. 2; entrée en vigueur au 01.08.2014; Introduction Al. 3; entrée en vigueur au 01.08.2014
 
 #### Art. 6
 
@@ -250,13 +252,13 @@ arrête
 
 #### Art. 15
 
-**Production centralisée et réseaux thermiques (art. 3 et 16a LVLEne) [^14-1]**
+**... [^14-1]**
 
-<sup>1</sup> Lors de l'élaboration de plans directeur et d'affectation, une étude sur les possibilités de productions centralisées d'énergie et de création de réseaux de distribution est réalisée.
+<sup>1</sup> ...
 
-<sup>2</sup> L'étude prend notamment en compte les émissions de CO<sub>2</sub> et de polluants atmosphériques et la valorisation des énergies renouvelables locales.
+<sup>2</sup> ...
 
-[^14-1]: Modif. 1 du 02.07.2014: Modification Al. t,1; entrée en vigueur au 01.02.2015; Introduction Al. 2; entrée en vigueur au 01.02.2015 · Modif. 3 du 10.11.2021: Introduction Art. 4, Al. 2, l-n; entrée en vigueur au 15.11.2021; Abrogation tArt; entrée en vigueur au 15.11.2021; Abrogation Al. 1-2; entrée en vigueur au 15.11.2021; Introduction Art. 46a, Al. 1, d-f; entrée en vigueur au 15.11.2021; Introduction Art. 46b; entrée en vigueur au 15.11.2021; Introduction Art. 57a; entrée en vigueur au 15.11.2021
+[^14-1]: Modif. 1 du 02.07.2014: Modification Al. t,1; entrée en vigueur au 01.02.2015; Introduction Al. 2; entrée en vigueur au 01.02.2015 · Modif. 3 du 10.11.2021: Abrogation tArt; entrée en vigueur au 15.11.2021; Abrogation Al. 1-2; entrée en vigueur au 15.11.2021
 
 #### Art. 16
 
@@ -863,33 +865,47 @@ arrête
 
 #### Art. 46a
 
-**Planification énergétique territoriale (art. 16a LVLEne) [^46-1]**
+**Contenu des études de planification énergétique (art. 16c LVLEne) [^46-1]**
 
-<sup>1</sup> Dans le cadre des démarches d'aménagement du territoire, les périmètres suivants, tels que définis dans le plan directeur cantonal, font l'objet d'une réflexion particulièrement approfondie de planification énergétique territoriale :
+<sup>1</sup> L'étude de planification énergétique contient au minimum :
 
-- a. les agglomérations et les régions ;
-- b. les territoires intégrés totalement ou partiellement à des centres cantonaux, régionaux ou locaux ;
-- c. les territoires intégrés à un pôle de développement économique.
+- a. un état des lieux de la consommation d'énergie sur le territoire ;
+- b. l'évolution prévisible de la consommation d'énergie pour la période de planification ;
+- c. un état des lieux des infrastructures de production et de distribution d'énergie existantes et planifiées ;
+- d. l'évaluation du potentiel d'énergies renouvelables locales exploitables ;
+- e. des objectifs en matière de développement des énergies renouvelables, de maîtrise de la consommation d'énergie et des émissions de CO<sub>2</sub> ;
+- f. des mesures pour atteindre les objectifs prévus sous lettre e.
 
-<sup>2</sup> En présence d'enjeux énergétiques et environnementaux importants en dehors des zones définies ci-dessus, le département peut également exiger la réalisation d'une réflexion approfondie pour d'autres territoires.
+<sup>2</sup> ...
 
-<sup>3</sup> On entend par réflexion particulièrement approfondie de planification énergétique territoriale la réalisation d'une étude prenant en compte de manière détaillée les enjeux énergétiques tels que définis à l'article 3 alinéa 4 de la loi[^46a-1]. La mobilité durable au sens de l'article 16b de la loi et l'accès aux transports publics sont pris en compte et favorisés.
+<sup>3</sup> ...
 
-<sup>4</sup> Le service publie des recommandations destinées à faciliter la prise en considération des enjeux énergétiques dans les plans d'aménagement du territoire.
+<sup>4</sup> Le service publie un guide pour l'élaboration de l'étude de planification énergétique et sa transcription dans les plans d'aménagement du territoire.
 
-[^46-1]: Modif. 1 du 02.07.2014: Introduction Art. 46a; entrée en vigueur au 01.02.2015 · Modif. 3 du 10.11.2021: Introduction Art. 4, Al. 2, l-n; entrée en vigueur au 15.11.2021; Modification tArt; entrée en vigueur au 15.11.2021; Modification Al. 1; entrée en vigueur au 15.11.2021; Modification Al. 1, a-c; entrée en vigueur au 15.11.2021; Introduction Al. 1, d-f; entrée en vigueur au 15.11.2021; Abrogation Al. 2-3; entrée en vigueur au 15.11.2021; Modification Al. 4; entrée en vigueur au 15.11.2021; Introduction Art. 46b; entrée en vigueur au 15.11.2021; Introduction Art. 57a; entrée en vigueur au 15.11.2021
-[^46a-1]: Loi du 16.05.2006 sur l'énergie ([BLV 730.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01?id=e7f13ccb-9bc3-4442-876e-c316278b9975))
+[^46-1]: Modif. 1 du 02.07.2014: Introduction Art. 46a; entrée en vigueur au 01.02.2015 · Modif. 3 du 10.11.2021: Modification tArt; entrée en vigueur au 15.11.2021; Modification Al. 1; entrée en vigueur au 15.11.2021; Modification Al. 1, a-c; entrée en vigueur au 15.11.2021; Introduction Al. 1, d-f; entrée en vigueur au 15.11.2021; Abrogation Al. 2-3; entrée en vigueur au 15.11.2021; Modification Al. 4; entrée en vigueur au 15.11.2021
+
+#### Art. 46b
+
+**Contenu du plan directeur intercommunal (art. 16e LVLEne) [^46a-1]**
+
+<sup>1</sup> Le plan directeur intercommunal visé par l'article 16e, alinéa 1 LVLEne contient au minimum :
+
+- a. une synthèse des éléments de l'étude de planification énergétique prévus par l'article 46a, alinéa 1, lettres a à d ;
+- b. les objectifs au sens de l'article 46a, alinéa 1, lettre e, retenus ;
+- c. les mesures au sens de l'article 46a, alinéa 1, lettre f, retenues.
+
+[^46a-1]: Modif. 3 du 10.11.2021: Introduction Art. 46b; entrée en vigueur au 15.11.2021
 
 #### Art. 47
 
-**Encouragement pour les installations collectives [^46a-2]**
+**Encouragement pour les installations collectives [^46b-1]**
 
-<sup>1</sup> Pour encourager les installations de chauffage alimentant plusieurs bâtiments par leur propre réseau, en particulier lors de l'établissement et de la réalisation de plans partiels d'affectation ou de quartier, les communes peuvent notamment :
+<sup>1</sup> Pour encourager les installations collectives de chauffage majoritairement alimentées par des énergies renouvelables ou de récupération, les communes peuvent notamment :
 
 - a. accorder l'utilisation gratuite du domaine public pour les conduites ;
 - b. subventionner les coûts supplémentaires d'infrastructures conçues en fonction de leur raccordement ultérieur à un réseau de chauffage à distance.
 
-[^46a-2]: Modif. 3 du 10.11.2021: Introduction Art. 4, Al. 2, l-n; entrée en vigueur au 15.11.2021; Introduction Art. 46a, Al. 1, d-f; entrée en vigueur au 15.11.2021; Introduction Art. 46b; entrée en vigueur au 15.11.2021; Modification Al. 1; entrée en vigueur au 15.11.2021; Introduction Art. 57a; entrée en vigueur au 15.11.2021
+[^46b-1]: Modif. 3 du 10.11.2021: Modification Al. 1; entrée en vigueur au 15.11.2021
 
 #### Art. 48
 
@@ -1111,6 +1127,29 @@ arrête
 
 <sup>1</sup> Les installations de chauffage et de ventilation des piscines intérieures répondent aux exigences d'une utilisation rationnelle et économique de l'énergie, notamment par voie de récupération des rejets de chaleur provenant de l'eau et de l'air.
 
+[^57-1]: Modif. 3 du 10.11.2021: Introduction ; entrée en vigueur au 15.11.2021
+
+## Titre V Exécution des travaux, permis d'habiter ou d'utiliser
+
+[^57-1]
+
+#### Art. 57a
+
+**Rapport attestant la conformité des travaux (art. 15 al. 2 LVLEne) [^titleTitreV-1]**
+
+<sup>1</sup> La municipalité requiert du maître de l'ouvrage un rapport attestant la conformité des travaux exécutés au sens de l'article 15, alinéa 2 LVLEne avant de délivrer le permis d'habiter ou d'utiliser.
+
+<sup>2</sup> Le service publie des recommandations sur le contenu du rapport prévu par l'article 15, alinéa 2 LVLEne.
+
+<sup>3</sup> L'article 4, alinéa 4 LATC demeure réservé et l'obligation de fournir un rapport prévu par l'article 15, alinéa 2 LVLEne ne modifie pas les devoirs de vérification de la municipalité.
+
+[^titleTitreV-1]: Modif. 3 du 10.11.2021: Introduction tArt; entrée en vigueur au 15.11.2021; Introduction Al. 1-3; entrée en vigueur au 15.11.2021; Introduction Art. 57a; entrée en vigueur au 15.11.2021
+[^57a-1]: Modif. 3 du 10.11.2021: Introduction ; entrée en vigueur au 15.11.2021
+
+## Titre VI Disposition finale
+
+[^57a-1]
+
 #### Art. 58
 
 **Exécution**
@@ -1121,27 +1160,27 @@ Annexes [^58-2]
 
 1
 
-[ANNEXE 1](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/1?dmev=31.03.2020)
+[ANNEXE 1](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/1?dmev=15.11.2021)
 
 2
 
-[ANNEXE 2](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/2?dmev=31.03.2020)
+[ANNEXE 2](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/2?dmev=15.11.2021)
 
 3
 
-[ANNEXE 3](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/3?dmev=31.03.2020)
+[ANNEXE 3](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/3?dmev=15.11.2021)
 
 4
 
-[ANNEXE 4](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/4?dmev=31.03.2020)
+[ANNEXE 4](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/4?dmev=15.11.2021)
 
 5
 
-[ANNEXE 5](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/5?dmev=31.03.2020)
+[ANNEXE 5](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/5?dmev=15.11.2021)
 
 6
 
-[ANNEXE 6](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/6?dmev=31.03.2020)
+[ANNEXE 6](https://prestations.vd.ch/pub/blv-publication/api/actes/cdf012a7-8491-4e62-aeee-72bd1bf5a011/annexes/6?dmev=15.11.2021)
 
 [^58-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 [^58-2]: Modif. 1 du 02.07.2014: Modification Annexes, Ann. 1; entrée en vigueur au 01.08.2014
