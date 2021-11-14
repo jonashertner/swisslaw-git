@@ -4,7 +4,7 @@ number: "921.01.1"
 title: "RÈGLEMENT du 18.12.2013 d'application de la loi forestière du 8 mai 2012 (RLVLFo)"
 short: RLVLFo
 language: fr
-version: 2014-01-01
+version: 2021-11-15
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/921.01.1?id=e3406bfd-93a7-494b-85db-60ef57778f72"
 ---
 
@@ -729,6 +729,16 @@ arrête
 **Directives d'application**
 
 <sup>1</sup> Le service édicte les directives techniques nécessaires à l'application des mesures d'encouragement.
+
+#### Art. 63a
+
+**Promotion de l'économie forestière et du bois (art. 77 LVLFo) [^63-1]**
+
+<sup>1</sup> Les projets de construction visés à l'article 77, alinéa 2 LVLFo doivent comporter une variante bois, présentée dans le cadre d'une étude de faisabilité comparative. Cette disposition ne s'applique ni aux travaux de rénovation et d'isolation thermique du bâtiment, ni lorsque les subventions concernent seulement les installations techniques du bâtiment.
+
+<sup>2</sup> Lorsque le projet fait l'objet d'un concours d'architecture, le jury doit comporter, au minimum, un spécialiste reconnu de la construction en bois.
+
+[^63-1]: Modif. 1 du 13.10.2021: Introduction tArt; entrée en vigueur au 15.11.2021; Introduction Al. 1-2; entrée en vigueur au 15.11.2021; Introduction Art. 63a; entrée en vigueur au 15.11.2021
 
 #### Art. 64
 
