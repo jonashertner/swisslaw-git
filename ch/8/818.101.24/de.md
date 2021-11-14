@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-10-28
+version: 2021-11-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211028/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211028-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211028/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211115/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211115-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211028/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 28. Oktober 2021)
+vom 19. Juni 2020 (Stand am 15. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -759,13 +759,14 @@ Anhang 1*[^t-1]*
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 20. Okt. 2021, in Kraft seit 25. Okt.. 2021 ([AS 2021 621](https://fedlex.data.admin.ch/eli/oc/2021/621)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 11. Nov. 2021, in Kraft seit 15. Nov. 2021 ([AS 2021 663](https://fedlex.data.admin.ch/eli/oc/2021/663)).
 
 ### 1. Risikoländer und -regionen (Art. 3 Abs. 2 Bst. a)
 
 Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 
 - – Andorra
+- – Argentinien
 - – Australien
 - – Bahrain
 - – Bulgarien
@@ -776,12 +777,15 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Jordanien
 - – Kanada
 - – Katar
+- – Kolumbien
 - – Korea (Süd-)
 - – Kroatien
 - – Kuwait
 - – Macau
 - – Monaco
+- – Namibia
 - – Neuseeland
+- – Peru
 - – Ruanda
 - – Rumänien
 - – San Marino

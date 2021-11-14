@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-10-28
+version: 2021-11-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211028/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211028-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211028/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211115/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211115-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211028/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 28 ottobre 2021)
+del 19 giugno 2020 (Stato 15 novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -759,7 +759,7 @@ Allegato 1*[^t-1]*
 
 ## Elenco dei Paesi e delle regioni a rischio
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 20 ott. 2021, in vigore dal 25 ott. 2021 ([RU 2021 621](https://fedlex.data.admin.ch/eli/oc/2021/621)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP dell’11. nov. 2021, in vigore dal 15 nov. 2021 ([RU 2021 663](https://fedlex.data.admin.ch/eli/oc/2021/663)).
 
 ### 1. Paesi e regioni a rischio (art. 3 cpv. 2 lett. a)
 
@@ -767,12 +767,14 @@ Tutti gli Stati e regioni al di fuori dello spazio Schengen, tranne:
 
 - – Andorra
 - – Arabia Saudita
+- – Argentina
 - – Australia
 - – Bahrein
 - – Bulgaria
 - – Canada
 - – Cile
 - – Cipro
+- – Colombia
 - – Corea (Sud)
 - – Croazia
 - – Emirati Arabi Uniti
@@ -782,7 +784,9 @@ Tutti gli Stati e regioni al di fuori dello spazio Schengen, tranne:
 - – Kuwait
 - – Macao
 - – Monaco
+- – Namibia
 - – Nuova Zelanda
+- – Perù
 - – Qatar
 - – Romania
 - – Ruanda
@@ -837,7 +841,7 @@ Il traffico delle persone dai seguenti Stati in Svizzera è vietato:
 
 ...
 
-Allegato 4[^t-5]
+Allegato 4*[^t-5]*
 
 (art. 11 cpv. 1, 19 cpv. 1 e 21 cpv. 2)
 

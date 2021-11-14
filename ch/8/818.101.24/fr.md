@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-10-28
+version: 2021-11-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211028/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211028-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211028/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211115/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211115-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211028/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 28 octobre 2021)
+du 19 juin 2020 (Etat le 15 novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -757,22 +757,24 @@ Annexe 1*[^t-1]*
 
 (art. 3, al. 3, 4, al. 2<sup>ter</sup>, et 5)
 
-## Liste des pays et régions à risque
+**Liste des pays et régions à risque**
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 20 oct. 2021, en vigueur depuis le 25 oct. 2021 ([RO 2021 621](https://fedlex.data.admin.ch/eli/oc/2021/621)).
+## 1. Liste des pays et régions à risque (art. 3, al. 2, let. a)
 
-### 1. Liste des pays et régions à risque (art. 3, al. 2, let. a)
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 11 nov. 2021, en vigueur depuis le 15 nov. 2021 ([RO 2021 663](https://fedlex.data.admin.ch/eli/oc/2021/663)).
 
 Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 
 - – Andorre
 - – Arabie saoudite
+- – Argentine
 - – Australie
 - – Bahreïn
 - – Bulgarie
 - – Canada
 - – Chili
 - – Chypre
+- – Colombie
 - – Corée (Sud)
 - – Croatie
 - – Émirats arabes unis
@@ -782,7 +784,9 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 - – Koweït
 - – Macao
 - – Monaco
+- – Namibie
 - – Nouvelle-Zélande
+- – Pérou
 - – Qatar
 - – Roumanie
 - – Rwanda
@@ -793,7 +797,7 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 - – Uruguay
 - – Ukraine
 
-### 2. Pays et régions à risque avec un variant du virus SARS-CoV-2 dont le risque d’infection ou d’évolution grave de la maladie est plus élevé que pour le variant du virus qui prévaut dans l’espace Schengen (art. 3, al. 2, let. b)
+## 2. Pays et régions à risque avec un variant du virus SARS-CoV-2 dont le risque d’infection ou d’évolution grave de la maladie est plus élevé que pour le variant du virus qui prévaut dans l’espace Schengen (art. 3, al. 2, let. b)
 
 Annexe 1a*[^t-2]*
 

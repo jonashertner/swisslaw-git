@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-10-28
+version: 2021-11-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211028/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211028-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211028/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211115/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211115-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211115/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 28 October 2021)
+of 19 June 2020 (Status as of 15 November 2021)
 
 The Swiss Federal Council,
 
@@ -761,18 +761,20 @@ Annex 1*[^t-1]*
 
 ## List of high-risk countries and regions
 
-[^t-1]: Amended by No I of the FDJP O of 20 Oct. 2021, in force since 25 Oct. 2021 ([AS 2021 621](https://fedlex.data.admin.ch/eli/oc/2021/621)).
+[^t-1]: Amended by No I of the FDJP O of 11 Nov. 2021, in force since 15 Nov. 2021 ([AS 2021 663](https://fedlex.data.admin.ch/eli/oc/2021/663)).
 
 ### 1. High-risk countries and regions (Art. 3 para. 2 let. a)
 
 All countries and regions outside the Schengen area, with the exception of:
 
 - – Andorra
+- – Argentina
 - – Australia
 - – Bahrain
 - – Bulgaria
 - – Canada
 - – Chile
+- – Colombia
 - – Croatia
 - – Cyprus
 - – Holy See
@@ -782,14 +784,16 @@ All countries and regions outside the Schengen area, with the exception of:
 - – Kuwait
 - – Macau
 - – Monaco
+- – Namibia
 - – New Zealand
 - – Qatar
+- – Peru
 - – Romania
 - – Rwanda
 - – San Marino
 - – Saudi Arabia
-- – South Korea
 - – Singapore
+- – South Korea
 - – Taiwan
 - – Ukraine
 - – United Arab Emirates
