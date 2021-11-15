@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre la pandémie de COVID-19 dans le domaine du transport international de voyageurs (Ordonnance COVID-19 transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: fr
-version: 2021-10-04
+version: 2021-11-16
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211004/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211004-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211004/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211116/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211116-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211116/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211004/fr"
 
 (Ordonnance COVID-19 transport international de voyageurs)**[^t-1]**
 
-du 23 juin 2021 (Etat le 4 octobre 2021)
+du 23 juin 2021 (Etat le 16 novembre 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -397,7 +397,7 @@ Annexe 2*[^t-4]*
 
 ## Personnes vaccinées et personnes guéries
 
-[^t-4]: Mise à jour par le ch. II al. 1 de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-4]: Mise à jour par le ch. II al. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) et l’annexe ch. 3 de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Personnes vaccinées
 
@@ -410,7 +410,7 @@ Annexe 2*[^t-4]*
   - c. autorisé selon la liste des situations d’urgences de l’OMS et complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée, ou
   - d. dont il peut être prouvé qu’il a la même composition qu’un vaccin autorisé au sens des let. a, b ou c, mais qui est mis en circulation par un preneur de licence sous un autre nom et qui a été complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée.
 
-- 1\.2 La durée de validité d’une vaccination est de 12 mois à compter de la vaccination complète; pour le vaccin Janssen, la durée est de 12 mois à compter du 22e jour qui suit la vaccination complète.
+- 1\.2 La durée de validité d’une vaccination est de 365 jours à compter de la vaccination complète; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen, la durée est de 365 jours à compter du 22<sup>e</sup> jour suivant la vaccination.
 - 1\.3 La vaccination peut être prouvée au moyen du certificat COVID-19 au sens de l’art. 1, let. a, ch. 1, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex2-lvlu1-lvl1-1] ou d’un certificat étranger reconnu au sens de la section 7 de l’ordonnance COVID-19 certificats.
 - 1\.4
 
@@ -423,7 +423,13 @@ Annexe 2*[^t-4]*
 
 ### 2 Personnes guéries
 
-- 2\.1 La durée de validité d’une guérison commence le 11<sup>e</sup> jour qui suit la confirmation de l’infection et est de 6 mois à compter de la confirmation de l’infection.
+- 2\.1
+
+  Une guérison est valable pendant la durée suivante:
+
+  - a. dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2: du 11<sup>e</sup> au 365<sup>e</sup> jour à compter de la confirmation de l’infection;
+  - b. dans le cas d’une analyse des anticorps contre le SARS-CoV-2 au sens de l’art. 16, al. 3, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex2-lvlu1-lvl2-1]: pendant la durée de validité du certificat correspondant.
+
 - 2\.2 La guérison peut être prouvée au moyen du certificat COVID-19 au sens de l’art. 1, let. a, ch. 2, de l’ordonnance COVID-19 du 4 juin 2021 certificats ou d’un certificat étranger reconnu au sens de 7 de l’ordonnance COVID-19 certificats.
 - 2\.3
 
@@ -431,6 +437,8 @@ Annexe 2*[^t-4]*
 
   - a. l’attestation de l’infection comprenant le nom et l’adresse du service ayant produit l’attestation (lieu de test, médecin, pharmacie, hôpital);
   - b. l’attestation de la levée de l’isolement ou l’attestation médicale de la guérison.
+
+[^annex2-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Annexe 2a*[^t-5]*
 

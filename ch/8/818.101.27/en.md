@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 23 June 2021 on Measures to Combat the COVID-19 epidemic in International Travel (COVID-19 Ordinance on International Travel)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: en
-version: 2021-10-04
+version: 2021-11-16
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211004/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211004-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211004/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211116/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211116-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211116/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211004/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(COVID-19 Ordinance on International Passenger Transport) **[^t-1]**
+(COVID-19 Ordinance on International Passenger Transport)**[^t-1]**
 
-of 23 June 2021 (Status as of 4 October 2021)
+of 23 June 2021 (Status as of 16 November 2021)
 
-[^t-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-1]: RU **2021** 380 Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 (AS **2021** 563).
 
 The Swiss Federal Council,
 
@@ -399,7 +399,7 @@ Annex 2*[^t-4]*
 
 ## Persons who have been vaccinated and who have recovered
 
-[^t-4]: Revised by No II para. 1 of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-4]: Revised by No II para. 1 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) and Annex No 3 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Persons who have been vaccinated
 
@@ -412,7 +412,7 @@ Annex 2*[^t-4]*
   - c. is authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered; or
   - d. has been shown to have the same composition as a vaccine licensed under letter a or b but marketed by a licence holder under a different name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
-- 1\.2 The vaccination is regarded as being effective for 12 months from the date on which it was administered in full; the Janssen vaccine is regarded as being effective for 12 months from the 22nd day after it was administered in full.
+- 1\.2 The vaccination is regarded as being effective for 365 days from the date on which it was administered in full; the Janssen Ad26.COV2.S / Covid-19 vaccine is regarded as being effective for 365 days from the 22nd day after it was administered in full.
 - 1\.3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Certificates Ordinance of 4 June 2021[^annex2-lvlu1-lvl1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Certificates Ordinance.
 - 1\.4
 
@@ -425,7 +425,13 @@ Annex 2*[^t-4]*
 
 ### 2 Persons who have recovered
 
-- 2\.1 Proof of recovery is valid from the 11th day following confirmation of the infection and lasts six months following confirmation of the infection.
+- 2\.1
+
+  Recovery is valid for the following duration:
+
+  - 1\. when based on a molecular-biological analysis for Sars-CoV-2: from the eleventh to the 365th day after confirmation of infection,
+  - 2\. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex2-lvlu1-lvl2-1]: for the term of validity of the certificate concerned.
+
 - 2\.2 Proof of recovery may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 2 of the COVID-19 Certificates Ordinance of 4 June 2021 or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Certificates Ordinance.
 - 2\.3
 
@@ -433,6 +439,8 @@ Annex 2*[^t-4]*
 
   - a. confirmation of the infection including the name and address of the confirming body (test centre, doctor, pharmacy, hospital);
   - b. confirmation that isolation has been terminated or confirmation from a doctor of recovery.
+
+[^annex2-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Annex 2a*[^t-5]*
 
@@ -462,7 +470,7 @@ Annex 3
 
 (Art. 13 para. 2)
 
-## Amendment of another act
+## Amendment of another enactment
 
 ...[^annex3-lvlu1-1]
 

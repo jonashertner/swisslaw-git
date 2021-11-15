@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 23. Juni 2021 über Massnahmen zur Bekämpfung der Covid-19-Epidemie im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung internationaler Personenverkehr)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: de
-version: 2021-10-04
+version: 2021-11-16
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211004/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211004-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211004/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211116/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211116-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211004/de"
 
 (Covid-19-Verordnung internationaler Personenverkehr)**[^t-1]**
 
-vom 23. Juni 2021 (Stand am 4. Oktober 2021)
+vom 23. Juni 2021 (Stand am 16. November 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -397,7 +397,7 @@ Anhang 2*[^t-4]*
 
 ## Geimpfte und genesene Personen
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Anhang Ziff. 3 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Geimpfte Personen
 
@@ -410,7 +410,7 @@ Anhang 2*[^t-4]*
   - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde; oder
   - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
-- 1\.2 Die Dauer der Gültigkeit einer Impfung beträgt 12 Monate ab der vollständig erfolgten Impfung; beim Impfstoff von Janssen beträgt die Dauer 12 Monate ab dem 22. Tag nach erfolgter Impfung.
+- 1\.2 Die Dauer der Gültigkeit einer Impfung beträgt 365 Tage ab der vollständig erfolgten Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 365 Tage ab dem 22. Tag nach erfolgter Impfung.
 - 1\.3 Der Nachweis für Geimpfte kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 1 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl1-1] oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
 - 1\.4
 
@@ -423,7 +423,13 @@ Anhang 2*[^t-4]*
 
 ### 2 Genesene Personen
 
-- 2\.1 Die Dauer der Gültigkeit einer Genesung beginnt am 11. Tag nach der Bestätigung der Ansteckung und dauert sechs Monate ab Bestätigung der Ansteckung.
+- 2\.1
+
+  Eine Genesung ist für die folgende Zeitdauer gültig:
+
+  - a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2: vom 11. bis zum 365. Tag nach der Bestätigung der Ansteckung;
+  - b. im Falle einer Analyse auf Sars-CoV-2 Antikörper nach Artikel 16 Absatz 3 Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]: während der Dauer der Gültigkeit des entsprechenden Zertifikats.
+
 - 2\.2 Der Nachweis für Genesung kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 2 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021 oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
 - 2\.3
 
@@ -431,6 +437,8 @@ Anhang 2*[^t-4]*
 
   - a. Bestätigung der Ansteckung einschliesslich Name und Adresse der bestätigenden Stelle (Teststelle, Ärztin oder Arzt, Apotheke, Spital);
   - b. Bestätigung der Aufhebung der Absonderung oder ärztliche Bestätigung der Genesung.
+
+[^annex2-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Anhang 2a*[^t-5]*
 

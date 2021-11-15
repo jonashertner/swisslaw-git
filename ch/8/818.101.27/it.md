@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: "Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l'epidemia di COVID-19 nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 traffico internazionale viaggiatori)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: it
-version: 2021-10-04
+version: 2021-11-16
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211004/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211004-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211004/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211116/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211116-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211116/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211004/it"
 
 (Ordinanza COVID-19 traffico internazionale viaggiatori)**[^t-1]**
 
-del 23 giugno 2021 (Stato 4 ottobre 2021)
+del 23 giugno 2021 (Stato 16 novembre 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -397,7 +397,7 @@ Allegato 2*[^t-4]*
 
 ## Persone vaccinate e guarite
 
-[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 17 set. 2021 (RU **2021** 563) e dall’all. n. 3 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 (RU **2021** 653).
 
 ### 1 Persone vaccinate
 
@@ -410,7 +410,7 @@ Allegato 2*[^t-4]*
   - c. è stato approvato secondo la Lista per l’uso di emergenza dell’OMS ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
   - d. presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo le lettere a, b o c, ma è immesso in commercio da un licenziatario con un altro nome, a condizione che la vaccinazione sia avvenuta in modo completo conformemente ai requisiti o alle raccomandazioni dello Stato in cui è stata effettuata.
 
-- 1\.2 La durata di validità della vaccinazione è di dodici mesi a partire dalla vaccinazione completa; per il vaccino Janssen, la durata è di dodici mesi a partire dal ventiduesimo giorno dalla vaccinazione completa.
+- 1\.2 La durata di validità della vaccinazione è di 365 giorni a partire dalla vaccinazione completa; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen, la durata è di 365 giorni a partire dal 22° giorno dalla vaccinazione.
 - 1\.3 La vaccinazione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 1 dell’ordinanza del 4 giugno 2021[^annex2-lvlu1-lvl1-1] sui certificati COVID-19o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
 - 1\.4
 
@@ -423,7 +423,13 @@ Allegato 2*[^t-4]*
 
 ### 2 Persone guarite
 
-- 2\.1 La durata della validità di una guarigione inizia l’undicesimo giorno dopo la conferma del contagio e dura di sei mesi a partire dalla conferma del contagio.
+- 2\.1
+
+  Una guarigione è valida durante il seguente lasso di tempo:
+
+  - a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: dall’11° al 365° giorno dalla conferma del contagio;
+  - b. in caso di analisi per gli anticorpi contro il SARS-CoV-2 di cui all’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 2021[^annex2-lvlu1-lvl2-1] sui certificati COVID-19: per la durata di validità del relativo certificato.
+
 - 2\.2 La guarigione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 2 dell’ordinanza sui certificati COVID-19 o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
 - 2\.3
 
@@ -431,6 +437,8 @@ Allegato 2*[^t-4]*
 
   - a. la conferma del contagio, compresi il nome e l’indirizzo del servizio che ha rilasciato la conferma (centro di test, medico, farmacia, ospedale);
   - b. la conferma della revoca dell’isolamento o la conferma della guarigione da parte di un medico.
+
+[^annex2-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Allegato 2a*[^t-5]*
 
