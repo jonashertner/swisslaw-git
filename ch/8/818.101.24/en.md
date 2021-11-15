@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-11-15
+version: 2021-11-16
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211115/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211115-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211115/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211116/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211116-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211116/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 15 November 2021)
+of 19 June 2020 (Status as of 16 November 2021)
 
 The Swiss Federal Council,
 
@@ -529,21 +529,22 @@ For this purpose, they may require hospitals and clinics:
 
 **Payment of costs for analyses for Sars-CoV-2**[^26-1]
 
-<sup>1</sup> The Confederation shall pay the costs of analyses for Sars-CoV-2 subject to the requirements and maximum amounts set out in Annex 6*.*
+<sup>1</sup> The Confederation shall pay the effective costs of analyses for Sars-CoV-2 subject to the requirements and maximum amounts set out in Annex 6*.*[^26-2]
 
 <sup>2</sup> Every week, the FOPH shall publish on its website the number of molecular-biological analyses for Sars-CoV-2 in accordance with Annex 6 number 1 that were conducted in the previous calendar week in Switzerland and in Liechtenstein. The FDHA may adjust the maximum amounts paid in line with the effective costs.
 
 <sup>3</sup> For analyses for Sars-CoV-2 under Annex 6, the order to the laboratory must include the information required for electronic invoicing, in particular the tested person’s health insurance number or client number.
 
-<sup>4</sup> Persons tested as specified in Annex 6 shall not be required to pay a share of the costs in accordance with Article 64 of the Federal Act of 18 March 1994[^26-2] on Health Insurance (HIA).
+<sup>4</sup> Persons tested as specified in Annex 6 shall not be required to pay a share of the costs in accordance with Article 64 of the Federal Act of 18 March 1994[^26-3] on Health Insurance (HIA).
 
 <sup>5</sup> Service providers shall not charge persons tested as specified in Annex 6 any additional costs. They must pass on any sums that directly or indirectly cover any part of the cost shares in accordance with Annex 6 to the reimbursement debtor.
 
-<sup>6</sup> If the service provider offers services in accordance with Annex 6 that must be paid for by the person tested, it must inform the person concerned before carrying out the test that the costs may be covered under Article 26*b*.[^26-3]
+<sup>6</sup> If the service provider offers services in accordance with Annex 6 that must be paid for by the person tested, it must inform the person concerned before carrying out the test that the costs may be covered under Article 26*b*.[^26-4]
 
 [^26-1]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^26-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26-3]: Inserted by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^26-2]: Amended by Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^26-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-4]: Inserted by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 26a
 
@@ -679,22 +680,28 @@ The following persons are regarded as being at high risk:
 
 The following persons are not regarded as being at high risk:
 
-- a. pregnant women who have been vaccinated against COVID-19, for 12 months from the date on which the vaccination is administered in full;
-- b. persons specified in paragraph 10 who have been infected with Sars-CoV-2 and have recovered, for 6 months from the 11th day after confirmation of the infection.[^27a-3]
+- a. pregnant women who have been vaccinated against COVID-19, for 365 days from the date on which the vaccination is administered in full;
+- b.
 
-<sup>11</sup> The diseases and genetic anomalies referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved and may lead to persons being classed as being at high risk under paragraph 10<sup>bis</sup>.[^27a-4]
+  persons specified in paragraph 10 who have been infected with Sars-CoV-2 and have recovered:
 
-<sup>12</sup> The FDHA shall continually update Annex 7 based on the state of science.[^27a-5]
+  - 1\. when based on a molecular-biological analysis for Sars-CoV-2: for 365 days from the eleventh day after confirmation of infection,
+  - 2\. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-3]: for the term of validity of the certificate concerned.[^27a-4]
 
-<sup>13</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-6] applies.[^27a-7]
+<sup>11</sup> The diseases and genetic anomalies referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved and may lead to persons being classed as being at high risk under paragraph 10<sup>bis</sup>.[^27a-5]
+
+<sup>12</sup> The FDHA shall continually update Annex 7 based on the state of science.[^27a-6]
+
+<sup>13</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-7] applies.[^27a-8]
 
 [^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
 [^27a-2]: Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
-[^27a-3]: Inserted by No I of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
-[^27a-4]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-4]: Inserted by No I of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Amended by Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^27a-5]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-6]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^27a-7]: The reference was modified on 26 June 2021 pursuant to Art. 12 para. 2 of the the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^27a-6]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-7]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-8]: The reference was modified on 26 June 2021 pursuant to Art. 12 para. 2 of the the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 ## Chapter 5 Final Provisions
 
@@ -807,7 +814,7 @@ Annex 1a*[^t-2]*
 
 ## Persons who have been vaccinated
 
-[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Revised in accordance with Annex No. 3 I of the O of 17 Sept. 2021, in force since 20 September 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Revised in accordance with Annex No. 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 - 1
 
@@ -818,7 +825,7 @@ Annex 1a*[^t-2]*
   - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered; or
   - d. has been shown to have the same composition as a vaccine licensed under letters a, b or c, but marketed by the licence holder under another name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
-- 2 The period during which persons who have been vaccinated are exempt from the ban on entry under Article 4 paragraph 1 amounts to 12 months from the date of vaccination in full; the Janssen vaccine is regarded as being effective for 12 months from the 22nd day after it was administered in full.
+- 2 The period during which persons who have been vaccinated are exempt from the ban on entry under Article 4 paragraph 1 amounts to 365 days from the date of vaccination in full; the Janssen Ad26.COV2.S / Covid-19 Vaccinevaccine is regarded as being effective for 365 days from the 22nd day after it was administered in full.
 - 3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex1a-lvlu1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates.
 - 4
 
@@ -1027,7 +1034,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No. 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)) and No II of the O of 1 Oct 2021, in force since 11 Oct. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No. 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021.
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1269,7 +1276,7 @@ Annex 6*[^t-8]*
   - k. children under the age of 16;
   - l. persons who can prove that they cannot be vaccinated on medical grounds; as proof, a medical certificate is required from a doctor who who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^annex6-lvlu1-lvl1-lvl14-2];
   - m. vistors to hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, rehabilitation or for socio-professional rehabilitation or employment;
-  - n.[^annex6-lvlu1-lvl1-lvl14-3] persons who do not fall under letters a–m, provided they have already received one dose of the vaccine, but have not been vaccinated in accordance with Annex 1*a* number 1.
+  - n. persons who do not fall under letters a–m, provided they have already received one dose of the vaccine, but have not been vaccinated in accordance with Annex 1*a* number 1, for six weeks from administration of the vaccine dose, or in the case of the Janssen Ad26.COV2.S / COVID-19 vaccine, for 22 days.
 
 - 1\.4.2 ...
 - 1\.4.3
@@ -1297,7 +1304,7 @@ Annex 6*[^t-8]*
 
 - 1\.4.4
 
-  It shall pay a maximum of 88.50 francs for immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use. This amount includes the following services and cost components:
+  It shall pay a maximum of 77.50 francs for immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use. This amount includes the following services and cost components:
 
   - a. for collecting a sample:
 
@@ -1312,17 +1319,16 @@ Annex 6*[^t-8]*
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>If carried out without being requested by another authorised service provider, comprising:</td><td>22 Fr.</td></tr>
-<tr><td>– analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>17 Fr.</td></tr>
+<tr><td>If carried out without being requested by another authorised service provider, comprising:</td><td>11 Fr.</td></tr>
+<tr><td>– analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>6 Fr.</td></tr>
 <tr><td>– ordering processing</td><td>5 Fr.</td></tr>
-<tr><td>If carried out on behalf of another authorised service provider, comprising:</td><td>41 Fr.</td></tr>
-<tr><td>– analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>17 Fr.</td></tr>
+<tr><td>If carried out on behalf of another authorised service provider, comprising:</td><td>30 Fr.</td></tr>
+<tr><td>– analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>6 Fr.</td></tr>
 <tr><td>– order processing, overheads and sampling materials</td><td>24 Fr.</td></tr>
 </table>
 
 [^annex6-lvlu1-lvl1-lvl14-1]: In force until 10 Oct. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [582](https://fedlex.data.admin.ch/eli/oc/2021/582)).
 [^annex6-lvlu1-lvl1-lvl14-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^annex6-lvlu1-lvl1-lvl14-3]: In force until 30 Nov. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 1.5 Molecular-biological detection of one or more Sars-CoV-2 variants of concern
 
@@ -1379,7 +1385,7 @@ Annex 6*[^t-8]*
 
   - a. persons in accordance with Number 1.4.1 letter k;
   - b. persons in accordance with Number 1.4.1 letter l;
-  - c.[^annex6-lvlu1-lvl1-lvl17-1] persons in accordance with Number 1.4.1 letter n.
+  - c. persons in accordance with Number 1.4.1 letter n.
 
 - 1\.7.2
 
@@ -1432,8 +1438,6 @@ Annex 6*[^t-8]*
 <tr><th>Service</th><th>Maximum amount</th></tr>
 <tr><td>For organising the pool, per person</td><td>2.50 Fr.</td></tr>
 </table>
-
-[^annex6-lvlu1-lvl1-lvl17-1]: In force until 30 Nov. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 2 Reduced tariff for targeted and repetitive testing
 
@@ -1587,11 +1591,11 @@ Annex 6*[^t-8]*
   - 3\. socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment;
   - 4\. assistants as defined in the InvIA.
 
-- 3\.1.4 It shall pay a maximum of 9 francs for a Sars-CoV-2 rapid test for specialist use under section 3.1.1. This amount covers the following services and cost components:
+- 3\.1.4 It shall pay a maximum of 8.50 francs for a Sars-CoV-2 rapid test for specialist use under section 3.1.1. This amount covers the following services and cost components:
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>Conducting the Sars-CoV-2 rapid test for specialist use, test materials only</td><td>6.50 Fr.</td></tr>
+<tr><td>Conducting the Sars-CoV-2 rapid test for specialist use, test materials only</td><td>6.00 Fr.</td></tr>
 <tr><td>For issuing the COVID-19 test certificate</td><td>2.50 Fr.</td></tr>
 <tr><td>s</td><td></td></tr>
 </table>

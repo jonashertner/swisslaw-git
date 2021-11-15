@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-11-15
+version: 2021-11-16
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211115/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211115-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211116/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211116-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211115/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 15. November 2021)
+vom 19. Juni 2020 (Stand am 16. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -527,21 +527,22 @@ Sie können zu diesem Zweck die Spitäler und Kliniken verpflichten:
 
 **Übernahme der Kosten für Analysen auf Sars-CoV-2**[^26-1]
 
-<sup>1</sup> Der Bund übernimmt die Kosten von Analysen auf Sars-CoV-2 unter den Voraussetzungen nach Anhang 6 und bis zu den Höchstbeträgen, die in Anhang 6 festgelegt sind*.*
+<sup>1</sup> Der Bund übernimmt die effektiven Kosten von Analysen auf Sars-CoV-2 unter den Voraussetzungen nach Anhang 6 und bis zu den Höchstbeträgen, die in Anhang 6 festgelegt sind.[^26-2]
 
 <sup>2</sup> Das BAG veröffentlicht wöchentlich auf seiner Webseite die Anzahl molekularbiologischer Analysen auf Sars-CoV-2 nach Anhang 6 Ziffer 1, die während einer Kalenderwoche in der Schweiz und in Liechtenstein durchgeführt worden sind. Das EDI kann die Höchstbeträge der Entwicklung der effektiven Kosten anpassen.
 
 <sup>3</sup> Für Analysen auf Sars-CoV-2 nach Anhang 6 müssen auf dem Auftrag an das Laboratorium die notwendigen Angaben für die elektronische Abrechnung, insbesondere die Versicherten- oder Kundennummer des Versicherers der getesteten Person vermerkt werden.
 
-<sup>4</sup> Für die Leistungen nach Anhang 6 wird keine Kostenbeteiligung nach Artikel 64 des Bundesgesetzes vom 18. März 1994[^26-2] über die Krankenversicherung (KVG) erhoben.
+<sup>4</sup> Für die Leistungen nach Anhang 6 wird keine Kostenbeteiligung nach Artikel 64 des Bundesgesetzes vom 18. März 1994[^26-3] über die Krankenversicherung (KVG) erhoben.
 
 <sup>5</sup> Die Leistungserbringer dürfen den getesteten Personen im Rahmen der Leistungen nach Anhang 6 keine weiteren Kosten verrechnen. Sie müssen dem Schuldner der Vergütung zudem direkte oder indirekte Vergünstigungen auf den Kostenanteilen nach Anhang 6 weitergeben.
 
-<sup>6</sup> Bietet der Leistungserbringer Leistungen nach Anhang 6 an, die von der getesteten Person selber zu bezahlen sind, so muss er diese vor der Durchführung des Tests darüber informieren, dass eine Kostenübernahme nach Artikel 26*b* möglich wäre.[^26-3]
+<sup>6</sup> Bietet der Leistungserbringer Leistungen nach Anhang 6 an, die von der getesteten Person selber zu bezahlen sind, so muss er diese vor der Durchführung des Tests darüber informieren, dass eine Kostenübernahme nach Artikel 26*b* möglich wäre.[^26-4]
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^26-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26-3]: Eingefügt durch Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^26-2]: Fassung gemäss Anhang Ziff. 1 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^26-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-4]: Eingefügt durch Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 26a
 
@@ -677,22 +678,28 @@ Als besonders gefährdet gelten:
 
 Nicht als besonders gefährdet gelten:
 
-- a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 12 Monaten ab vollständig erfolgter Impfung;
-- b. Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten, während 6 Monaten ab dem 11. Tag nach der Bestätigung der Ansteckung.[^27a-3]
+- a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 365 Tagen ab vollständig erfolgter Impfung;
+- b.
 
-<sup>11</sup> Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 10<sup>bis</sup> als besonders gefährdet eingestuft werden.[^27a-4]
+  Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten:
 
-<sup>12</sup> Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.[^27a-5]
+  - 1\. aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 365 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
+  - 2\. aufgrund einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^27a-3]: während der Gültigkeit des entsprechenden Zertifikats.[^27a-4]
 
-<sup>13</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom vom 23. Juni 2021[^27a-6] [^27a-7].
+<sup>11</sup> Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 10<sup>bis</sup> als besonders gefährdet eingestuft werden.[^27a-5]
+
+<sup>12</sup> Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.[^27a-6]
+
+<sup>13</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom vom 23. Juni 2021[^27a-7] [^27a-8].
 
 [^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
 [^27a-2]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
-[^27a-3]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
-[^27a-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-4]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Fassung gemäss Anhang Ziff. 1 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^27a-5]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-6]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^27a-7]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 26. Juni 2021 angepasst.
+[^27a-6]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-7]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-8]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 26. Juni 2021 angepasst.
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -805,7 +812,7 @@ Anhang 1a*[^t-2]*
 
 ## Geimpfte Personen
 
-[^t-2]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Bereinigt gemäss Anhang Ziff. 3 I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-2]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Bereinigt gemäss Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Anhang Ziff. 1 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 - 1
 
@@ -816,7 +823,7 @@ Anhang 1a*[^t-2]*
   - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde; oder
   - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
-- 2 Die Dauer, während der geimpfte Personen vom Einreiseverbot nach Artikel 4 Absatz 1 ausgenommen sind, beträgt 12 Monate ab der vollständig erfolgten Impfung; beim Impfstoff von Janssen beträgt die Dauer 12 Monate ab dem 22. Tag nach erfolgter Impfung.
+- 2 Die Dauer, während der geimpfte Personen vom Einreiseverbot nach Artikel 4 Absatz 1 ausgenommen sind, beträgt 365 Tage ab der vollständig erfolgten Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 365 Tage ab dem 22. Tag nach erfolgter Impfung.
 - 3 Der Nachweis für Geimpfte kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 1 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex1a-lvlu1-1] oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
 - 4
 
@@ -962,7 +969,7 @@ Anhang 6*[^t-8]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II Abs. 2 der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)) und Ziff. II der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II Abs. 2 der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), Ziff. II der V vom 1. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)) und Anhang Ziff. 1 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -1201,7 +1208,7 @@ Anhang 6*[^t-8]*
   - k. bei Kindern vor ihrem 16. Geburtstag;
   - l. bei Personen, die nachweisen können, dass sie sich aus medizinischen Gründen nicht impfen lassen können; für den Nachweis ist ein Attest einer Ärztin oder eines Arztes erforderlich, die oder der über eine Bewilligung nach dem Medizinalberufegesetz vom 23. Juni 2006[^annex6-lvlu1-lvl1-lvl14-2] zur Berufsausübung in eigener fachlicher Verantwortung verfügt;
   - m. bei Besucherinnen und Besuchern von Spitälern, Alters- und Pflegeheimen sowie anderen sozialmedizinischen Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen;
-  - n.[^annex6-lvlu1-lvl1-lvl14-3] bei Personen, die nicht unter die Buchstaben a–m fallen, sofern ihnen bereits eine Impfdosis verabreicht wurde, sie aber noch nicht gemäss Anhang 1*a* Ziffer 1 geimpft sind.
+  - n. bei Personen, die nicht unter die Buchstaben a–m fallen, sofern ihnen bereits eine Impfdosis verabreicht wurde, sie aber noch nicht gemäss Anhang 1*a* Ziffer 1 geimpft sind, während sechs Wochen ab Erhalt der Impfdosis, im Falle des Impfstoffes Ad26.COV2.S / Covid-19 Vaccine Janssen während 22 Tagen.
 
 - 1\.4.2 ...
 - 1\.4.3
@@ -1244,18 +1251,16 @@ Anhang 6*[^t-8]*
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers davon:</td><td>22 Fr.</td></tr>
-<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>17 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers davon:</td><td>11 Fr.</td></tr>
+<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>6 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung</td><td>5 Fr.</td></tr>
-<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>41 Fr.</td></tr>
-<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>17 Fr.</td></tr>
-<tr><td>[tab]</td><td></td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>30 Fr.</td></tr>
+<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>6 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
 </table>
 
 [^annex6-lvlu1-lvl1-lvl14-1]: In Kraft bis zum 10. Okt. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [582](https://fedlex.data.admin.ch/eli/oc/2021/582)).
 [^annex6-lvlu1-lvl1-lvl14-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^annex6-lvlu1-lvl1-lvl14-3]: In Kraft bis zum 30. Nov. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 1.5 Molekularbiologischer Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten
 
@@ -1312,7 +1317,7 @@ Anhang 6*[^t-8]*
 
   - a. Personen nach Ziffer 1.4.1 Buchstabe k;
   - b. Personen nach Ziffer 1.4.1 Buchstabe l;
-  - c.[^annex6-lvlu1-lvl1-lvl17-1] Personen nach Ziffer 1.4.1 Buchstabe n.
+  - c. Personen nach Ziffer 1.4.1 Buchstabe n.
 
 - 1\.7.2
 
@@ -1369,8 +1374,6 @@ Anhang 6*[^t-8]*
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
 <tr><td>Für das Zusammenstellen des Pools pro Person</td><td>2.50 Fr.</td></tr>
 </table>
-
-[^annex6-lvlu1-lvl1-lvl17-1]: In Kraft bis zum 30. Nov. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 2 Reduzierter Tarif für gezielte und repetitive Testungen
 
@@ -1525,11 +1528,11 @@ Anhang 6*[^t-8]*
   - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
   - 4\. Assistenzpersonen nach dem IVG.
 
-- 3\.1.4 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung nach Ziffer 3.1.1 übernimmt er höchstens 9 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 3\.1.4 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung nach Ziffer 3.1.1 übernimmt er höchstens 8.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Für den Sars-CoV-2-Schnelltest zur Fachanwendung, nur das Testmaterial</td><td>6.50 Fr.</td></tr>
+<tr><td>Für den Sars-CoV-2-Schnelltest zur Fachanwendung, nur das Testmaterial</td><td>6.00 Fr.</td></tr>
 <tr><td>Für die Ausstellung des Covid-19-Testzertifikats</td><td>2.50 Fr.</td></tr>
 </table>
 

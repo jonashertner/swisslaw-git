@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-11-15
+version: 2021-11-16
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211115/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211116/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211116-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211116/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211115/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 15 novembre 2021)
+del 19 giugno 2020 (Stato 16 novembre 2021) (Stato 16 novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -527,21 +527,22 @@ Possono a tal fine obbligare gli ospedali e le cliniche a:
 
 **Assunzione delle spese per le analisi per il SARS-CoV-2**[^26-1]
 
-<sup>1</sup> La Confederazione assume le spese per le analisi per il SARS-CoV-2 alle condizioni di cui all’allegato 6 e fino agli importi massimi fissati nell’allegato 6.
+<sup>1</sup> La Confederazione assume le spese effettive per le analisi per il SARS-CoV-2 alle condizioni di cui all’allegato 6 e fino agli importi massimi fissati nell’allegato 6.[^26-2]
 
 <sup>2</sup> Settimanalmente l’UFSP pubblica sul suo sito Internet il numero di analisi di biologia molecolare per il SARS-CoV-2 secondo l’allegato 6 numero 1 eseguite in Svizzera e in Liechtenstein durante una settimana civile. Il DFI può adeguare gli importi massimi all’evoluzione dei costi effettivi.
 
 <sup>3</sup> Per le analisi per il SARS-CoV-2 secondo l’allegato 6, sul mandato indirizzato al laboratorio devono figurare i dati necessari per la fatturazione elettronica, in particolare il numero di assicurato o di cliente dell’assicuratore della persona testata.
 
-<sup>4</sup> Per le prestazioni secondo l’allegato 6 non è dovuta nessuna partecipazione ai costi secondo l’articolo 64 della legge federale del 18 marzo 1994[^26-2] sull’assicurazione malattie (LAMal).
+<sup>4</sup> Per le prestazioni secondo l’allegato 6 non è dovuta nessuna partecipazione ai costi secondo l’articolo 64 della legge federale del 18 marzo 1994[^26-3] sull’assicurazione malattie (LAMal).
 
 <sup>5</sup> Nel quadro delle prestazioni secondo l’allegato 6, i fornitori di prestazioni non possono fatturare ulteriori spese alle persone sottoposte al test. Devono inoltre far usufruire al debitore della rimunerazione gli sconti diretti o indiretti sugli importi secondo l’allegato 6.
 
-<sup>6</sup> Se il fornitore di prestazioni offre prestazioni di cui all’allegato 6 che sono a carico della persona sottoposta a test, prima del test deve informare quest’ultima sulla possibilità dell’assunzione delle spese secondo l’articolo 26*b*.[^26-3]
+<sup>6</sup> Se il fornitore di prestazioni offre prestazioni di cui all’allegato 6 che sono a carico della persona sottoposta a test, prima del test deve informare quest’ultima sulla possibilità dell’assunzione delle spese secondo l’articolo 26*b*.[^26-4]
 
 [^26-1]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^26-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26-3]: Introdotto dal n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^26-2]: Nuovo testo giusta l’all. n. 1 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^26-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-4]: Introdotto dal n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 26a
 
@@ -677,22 +678,28 @@ Sono considerate particolarmente a rischio:
 
 Non sono considerate particolarmente a rischio:
 
-- a. le donne incinte vaccinate contro il COVID-19, durante dodici mesi a partire dalla vaccinazione completa;
-- b. le persone di cui al capoverso 10 che sono state contagiate dal SARS-CoV-2 e sono considerate guarite, durante sei mesi a partire dall’undicesimo giorno dopo la conferma del contagio.[^27a-3]
+- a. le donne incinte vaccinate contro la COVID-19, durante 365 giorni a partire dalla vaccinazione completa;
+- b.
 
-<sup>11</sup> Le patologie e anomalie genetiche di cui al capoverso 10 lettera b sono precisate nell’allegato 7 in base a criteri medici. L’elenco di questi criteri non è esaustivo. È fatta salva una valutazione clinica del rischio nel singolo caso, che può portare a classificare anche persone di cui al capoverso 10<sup>bis</sup> tra quelle particolarmente a rischio.[^27a-4]
+  le persone di cui al capoverso 10 che sono state contagiate dal SARS-CoV-2 e sono considerate guarite:
 
-<sup>12</sup> L’EDI aggiorna costantemente l’allegato 7 in base allo stato delle conoscenze scientifiche.[^27a-5]
+  - 1\. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: per 365 giorni a partire dall’11° giorno dopo la conferma del contagio,
+  - 2\. in caso di analisi per gli anticorpi contro il SARS-CoV-2 di cui all’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 2021[^27a-3] sui certificati COVID-19: per la durata di validità del relativo certificato.[^27a-4]
 
-<sup>13</sup> Alla protezione generale dei lavoratori si applica l’articolo 25 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^27a-6] [^27a-7].
+<sup>11</sup> Le patologie e anomalie genetiche di cui al capoverso 10 lettera b sono precisate nell’allegato 7 in base a criteri medici. L’elenco di questi criteri non è esaustivo. È fatta salva una valutazione clinica del rischio nel singolo caso, che può portare a classificare anche persone di cui al capoverso 10<sup>bis</sup> tra quelle particolarmente a rischio.[^27a-5]
+
+<sup>12</sup> L’EDI aggiorna costantemente l’allegato 7 in base allo stato delle conoscenze scientifiche.[^27a-6]
+
+<sup>13</sup> Alla protezione generale dei lavoratori si applica l’articolo 25 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^27a-7] [^27a-8].
 
 [^27a-1]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
 [^27a-2]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
-[^27a-3]: Introdotto dal n. I dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
-[^27a-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-3]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-4]: Introdotto dal n. I dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nuovo testo giusta l’all. n. 1 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^27a-5]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-6]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^27a-7]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 26 giu. 2021.
+[^27a-6]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-7]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-8]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 26 giu. 2021.
 
 ## Capitolo 5: Disposizioni finali
 
@@ -805,7 +812,7 @@ Allegato 1a*[^t-2]*
 
 ## Persone vaccinate
 
-[^t-2]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Aggiornato dall’all. n. 3 I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-2]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Aggiornato dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dall’all. n. 1 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 - 1
 
@@ -816,7 +823,7 @@ Allegato 1a*[^t-2]*
   - c. è stato approvato secondo la Lista per l’uso di emergenza dell’OMS ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
   - d. presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo le lettere a, b o c, ma è immesso in commercio da un licenziatario con un altro nome, a condizione che la vaccinazione sia avvenuta in modo completo conformemente ai requisiti o alle raccomandazioni dello Stato in cui è stata effettuata.
 
-- 2 Il periodo durante il quale le persone vaccinate sono escluse dal divieto d’entrata di cui all’articolo 4 capoverso 1 è di dodici mesi a partire dalla vaccinazione completa; per il vaccino Janssen, la durata è di dodici mesi a partire dal ventiduesimo giorno dalla vaccinazione completa.
+- 2 Il periodo durante il quale le persone vaccinate sono escluse dal divieto d’entrata di cui all’articolo 4 capoverso 1 è di 365 giorni a partire dalla vaccinazione completa; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen, la durata è di 365 giorni a partire dal 22° giorno dalla vaccinazione completa.
 - 3 La vaccinazione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 1 dell’ordinanza del 4 giugno 2021[^annex1a-lvlu1-1] sui certificati COVID-19 o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
 - 4
 
@@ -827,11 +834,11 @@ Allegato 1a*[^t-2]*
 
 [^annex1a-lvlu1-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
-Allegato 2[^t-3]
+Allegato 2*[^t-3]*
 
 [^t-3]: Privo di oggetto a seguito dell’abrogazione dell’art. 8 (art. 6 n. 1 dell’O del 2 giu. 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
-Allegato 3[^t-4]
+Allegato 3*[^t-4]*
 
 ## Restrizioni del traffico transfrontaliero delle persone
 
@@ -961,7 +968,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)) e dal n. II dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), dal n. II dell’O del 1° ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)) e dall’all. n. 1 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -1202,7 +1209,7 @@ Allegato 6*[^t-8]*
   - k. bambini al di sotto dei 16 anni;
   - l. persone che possono attestare di non potersi far vaccinare per motivi medici; quale attestato è ammesso il certificato di un medico autorizzato a esercitare la professione sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006[^annex6-lvlu1-lvl1-lvl14-2] sulle professioni mediche;
   - m. visitatori di ospedali, case di cura e per anziani nonché altri istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale;
-  - n.[^annex6-lvlu1-lvl1-lvl14-3] per le persone che non rientrano nelle lettere a–m, se è già stata somministrata loro una dose di vaccino, ma non sono ancora vaccinate secondo l’allegato 1*a* numero 1.
+  - n. per le persone che non rientrano nelle lettere a–m, se è già stata somministrata loro una dose di vaccino, ma non sono ancora vaccinate secondo l’allegato 1*a* numero 1, per sei settimane dalla somministrazione della dose di vaccino; nel caso del vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen per 22 giorni.
 
 - 1\.4.2 ...
 - 1\.4.3
@@ -1230,7 +1237,7 @@ Allegato 6*[^t-8]*
 
 - 1\.4.4
 
-  Per le analisi immunologiche degli antigeni SARS-CoV-2 e i test rapidi SARS-CoV-2 per uso professionale assume al massimo 88.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+  Per le analisi immunologiche degli antigeni SARS-CoV-2 e i test rapidi SARS-CoV-2 per uso professionale assume al massimo 77.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
 
@@ -1245,17 +1252,16 @@ Allegato 6*[^t-8]*
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>22 fr.</td></tr>
-<tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>17 fr.</td></tr>
+<tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>11 fr.</td></tr>
+<tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>6 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico</td><td>5 fr.</td></tr>
-<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>41 fr.</td></tr>
-<tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>17 fr.</td></tr>
+<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>30 fr.</td></tr>
+<tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>6 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
 </table>
 
 [^annex6-lvlu1-lvl1-lvl14-1]: In vigore fino al 10 ott. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [582](https://fedlex.data.admin.ch/eli/oc/2021/582)).
 [^annex6-lvlu1-lvl1-lvl14-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^annex6-lvlu1-lvl1-lvl14-3]: In vigore fino al 30 nov. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 1.5 Rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti
 
@@ -1312,7 +1318,7 @@ Allegato 6*[^t-8]*
 
   - a. le persone di cui al numero 1.4.1 lettera k;
   - b. le persone di cui al numero 1.4.1 lettera l;
-  - c. [^annex6-lvlu1-lvl1-lvl17-1] le persone di cui al numero 1.4.1 lettera n.
+  - c. le persone di cui al numero 1.4.1 lettera n.
 
 - 1\.7.2
 
@@ -1369,8 +1375,6 @@ Allegato 6*[^t-8]*
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
 <tr><td>Per l’aggregazione del campione, per persona</td><td>2.50 fr.</td></tr>
 </table>
-
-[^annex6-lvlu1-lvl1-lvl17-1]: In vigore fino al 30 nov. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 ### 2 Tariffe ridotte per i test mirati e ripetuti
 
@@ -1525,11 +1529,11 @@ Allegato 6*[^t-8]*
   - 3\. da istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale,
   - 4\. da assistenti secondo la LAI.
 
-- 3\.1.4 Per i test rapidi SARS-CoV-2 per uso professionale secondo il numero 3.1.1 assume al massimo 9 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 3\.1.4 Per i test rapidi SARS-CoV-2 per uso professionale secondo il numero 3.1.1 assume al massimo 8.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
-<tr><th colspan="2">Prestazione</th><th>Importo massimo</th></tr>
-<tr><td colspan="2">Per il test rapido SARS-CoV-2 per uso professionale, solo il materiale necessario per il test</td><td>6.50 fr.</td></tr>
+<tr><th>Prestazione</th><th>Importo massimo</th></tr>
+<tr><td>Per il test rapido SARS-CoV-2 per uso professionale, solo il materiale necessario per il test</td><td>6.00 fr.</td></tr>
 <tr><td>Per l’emissione del certificato di test COVID-19</td><td>2.50 fr.</td></tr>
 </table>
 
@@ -1561,7 +1565,7 @@ Allegato 6*[^t-8]*
 <tr><td>Per l’emissione del certificato di test COVID-19</td><td>2.50 fr.</td></tr>
 </table>
 
-### 3.3 ...
+### 3.3**** ...
 
 [^annex6-lvlu1-lvl3-lvl33-1]
 
@@ -1574,7 +1578,7 @@ Allegato 6*[^t-8]*
 - 4\.3 Se su una persona sono eseguite dallo stesso fornitore di prestazioni un’analisi di biologia molecolare per il SARS-CoV-2 secondo il numero 1.1 e un rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti secondo il numero 1.5 o un sequenziamento del SARS-CoV-2 secondo il numero 1.6, la Confederazione assume *una tantum* l’importo per il disbrigo dell’incarico e i costi generali secondo i numeri 1.1.3 lettera b, 1.5.3 o 1.6.3.
 - 4\.4 Per le analisi per il SARS-CoV-2 nelle quali il campione è prelevato dalla persona testata stessa, il prelievo del campione non può essere fatturato.
 
-Allegato 7[^t-9]
+Allegato 7*[^t-9]*
 
 (art. 27*a* cpv. 10 e 11)
 
