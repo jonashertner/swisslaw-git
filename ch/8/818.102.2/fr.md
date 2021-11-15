@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-11-02
+version: 2021-11-16
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211102/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211102-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211102/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211116/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211116-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211116/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211102/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 2 novembre 2021)
+du 4 juin 2021 (Etat le 16 novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -127,7 +127,7 @@ Les cantons et le médecin en chef de l’armée communiquent à l’OFIT quels 
 
 <sup>1</sup>
 
-Les cantons et le médecin en chef de l’armée veillent à ce que les demandes d’établissement de certificats de vaccination COVID-19 ou de certificats de guérison COVID-19 déposées dans les cas suivants soient traitées même lorsqu’il n’existe pas de dossier médical ni de documentation primaire auprès d’un émetteur visé à l’art. 6:
+Les cantons et le médecin en chef de l’armée veillent à ce que les demandes d’établissement de certificats de vaccination COVID-19 ou de certificats de guérison COVID-19 au sens de l’art. 16, al. 1, déposées dans les cas suivants soient traitées même lorsqu’il n’existe pas de dossier médical ni de documentation primaire auprès d’un émetteur visé à l’art. 6:[^7-1]
 
 - a. pour une vaccination administrée ou une guérison en Suisse;
 - b.
@@ -135,11 +135,11 @@ Les cantons et le médecin en chef de l’armée veillent à ce que les demandes
   pour une vaccination administrée ou une guérison à l’étranger:
 
   - 1\. de ressortissants suisses,
-  - 2\. d’étrangers autorisés à entrer en Suisse en vertu de l’art. 4 de l’ordonnance 3 COVID-19 du 19 juin 2020[^7-1] et qui démontrent de manière vraisemblable qu’ils prévoient d’entrer en Suisse ou qu’ils s’y trouvent déjà.[^7-2]
+  - 2\. d’étrangers autorisés à entrer en Suisse en vertu de l’art. 4 de l’ordonnance 3 COVID-19 du 19 juin 2020[^7-2] et qui démontrent de manière vraisemblable qu’ils prévoient d’entrer en Suisse ou qu’ils s’y trouvent déjà.[^7-3]
 
 <sup>2</sup> Ils désignent au moins un émetteur assurant le traitement de ces cas.
 
-<sup>3</sup> La demande d’établissement d’un certificat de vaccination COVID-19 ou d’un certificat de guérison COVID-19 visée à l’al. 1 doit être déposée avec les documents mentionnés aux art. 13, al. 2, let. c, et 16 dans une langue officielle du canton, en anglais ou dans une traduction certifiée conforme dans une des langues mentionnées.[^7-3]
+<sup>3</sup> La demande d’établissement d’un certificat de vaccination COVID-19 ou d’un certificat de guérison COVID-19 visée à l’al. 1 doit être déposée avec les documents mentionnés aux art. 13, al. 2, let. c, et 16 dans une langue officielle du canton, en anglais ou dans une traduction certifiée conforme dans une des langues mentionnées.[^7-4]
 
 <sup>4</sup>
 
@@ -153,16 +153,17 @@ En cas de doute sur l’authenticité des documents fournis, l’émetteur peut:
   - 2\. soumette une certification officielle des documents fournis,
   - 3\. fournisse les informations ou documents supplémentaires nécessaires à l’évaluation de la demande;
 
-- b. demander des informations complémentaires à des services étrangers compétents, dans le respect des dispositions de l’art. 62 de la loi du 28 septembre 2012 sur les épidémies[^7-4].[^7-5]
+- b. demander des informations complémentaires à des services étrangers compétents, dans le respect des dispositions de l’art. 62 de la loi du 28 septembre 2012 sur les épidémies[^7-5].[^7-6]
 
-<sup>5</sup> Si le doute sur l’authenticité des documents subsiste malgré ces mesures, l’émetteur peut rejeter la demande de certificat. Dans ce cas, le demandeur n’a pas droit au remboursement d’un éventuel émolument qu’il aurait payé.[^7-6]
+<sup>5</sup> Si le doute sur l’authenticité des documents subsiste malgré ces mesures, l’émetteur peut rejeter la demande de certificat. Dans ce cas, le demandeur n’a pas droit au remboursement d’un éventuel émolument qu’il aurait payé.[^7-7]
 
-[^7-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^7-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-3]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-4]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^7-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^7-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-4]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-5]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^7-6]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-7]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 8
 
@@ -247,11 +248,23 @@ Les cantons peuvent prévoir la possibilité pour les émetteurs de demander une
 
 #### Art. 12
 
+<sup>1</sup>
+
 Tous les certificats COVID-19 contiennent les indications suivantes, conformément à l’annexe 1:
 
 - a. des indications sur l’identité du titulaire;
 - b. des indications sur l’éditeur;
-- c. si le certificat a été établi sous une forme lisible par l’homme: une remarque générale sur la signification du certificat.
+- c.[^12-1] …
+
+<sup>2</sup>
+
+Dans leur forme lisible par l’homme, les certificats COVID-19 contiennent, en plus, les indications suivantes:
+
+- a. une remarque générale sur la signification du certificat visé à l’annexe 1, ch. 3;
+- b. lorsqu’il s’agit d’un certificat de vaccination COVID-19 au sens de l’art. 15, al. 3, d’un certificat de guérison COVID-19 au sens de l’art. 16, al. 3, ou d’un certificat de dérogation COVID-19 au sens de l’art. 21*a*: une remarque sur la validité temporelle et locale limitée du certificat au sens de l’annexe 4*a*, ch. 3.[^12-2]
+
+[^12-1]: Abrogée par le ch. I de l’O du 3 nov. 2021, avec effet au 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-2]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Section 4 Certificats de vaccination COVID-19
 
@@ -283,37 +296,32 @@ Un certificat de vaccination COVID-19 est établi pour chaque dose:
   - 3\. carnet de vaccination mentionnant le vaccin administré et muni de la signature ou du cachet du service responsable en Suisse,
   - 4\. autres justificatifs suisses ou étrangers équivalents aux justificatifs cités aux ch. 1 à 3.
 
-<sup>2bis</sup> Pour les vaccins qui ne sont pas autorisés en Suisse, mais qui ont obtenu une autorisation pour l’UE et pour leurs produits sous licence, un certificat n’est établi que s’ils ont été entièrement administrés conformément aux prescriptions ou aux recommandations de l’État dans lequel ils ont été administrés.[^13-4]
+<sup>2bis</sup> …[^13-4]
 
 <sup>2ter</sup>
 
-Pour les vaccins qui ne sont autorisés ni en Suisse ni pour l’UE, mais qui ont obtenu une autorisation sur la base de la liste des situations d’urgence de l’OMS et pour leurs produits sous licence, un certificat n’est établi qu’aux conditions suivantes:
+Pour les vaccins qui ne sont autorisés ni en Suisse ni pour l’UE, mais qui ont obtenu une autorisation sur la base de la liste des situations d’urgence de l’OMS et pour leurs produits sous licence, un certificat n’est établi pour les membres des catégories de personnes suivantes que si la personne se présente elle-même dans les locaux de l’émetteur:
 
-- a. les vaccins ont été entièrement administrés, conformément aux prescriptions ou aux recommandations de l’État dans lequel ils ont été administrés;
-- b. le demandeur se présente en personne auprès de l’émetteur;
-- c.
+- a. ressortissants suisses;
+- b. étrangers titulaires d’une autorisation de courte durée, d’une autorisation de séjour, d’une autorisation d’établissement ou d’une autorisation frontalière au sens des art. 32 à 35 de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^13-5];
+- c. étrangers admis à titre provisoire conformément à l’art. 83, al. 1, LEI;
+- d. personnes à protéger au sens de l’art. 66 de la loi du 26 juin 1998 sur l’asile[^13-6];
+- e. requérants d’asile titulaires d’un titre ou d’une attestation visés à l’art. 30 de l’ordonnance 1 du 11 août 1999 sur l’asile[^13-7];
+- f. titulaires d’une carte de légitimation au sens de l’art. 17 de l’ordonnance du 7 décembre 2007 sur l’État hôte (OLEH)[^13-8];
+- g. titulaires d’un « permis Ci » au sens de l’art. 22, al. 3, OLEH.[^13-9]
 
-  le demandeur appartient à une des catégories de personnes suivantes:
-
-  - 1\. ressortissants suisses,
-  - 2\. étrangers titulaires d’une autorisation de courte durée, d’une autorisation de séjour, d’une autorisation d’établissement ou d’une autorisation frontalière au sens des art. 32 à 35 de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^13-5],
-  - 3\. étrangers admis à titre provisoire conformément à l’art. 83, al. 1, LEI,
-  - 4\. personnes à protéger au sens de l’art. 66 de la loi du 26 juin 1998 sur l’asile[^13-6],
-  - 5\. requérants d’asile titulaires d’un titre ou d’une attestation visés l’art. 30 de l’ordonnance 1 du 11 août 1999 sur l’asile[^13-7],
-  - 6\. titulaires d’une carte de légitimation au sens de l’art. 17 de l’ordonnance du 7 décembre 2007 sur l’État hôte (OLEH)[^13-8],
-  - 7\. titulaires d’un « permis Ci » au sens de l’art. 22, al. 3, OLEH.[^13-9]
-
-<sup>3</sup> Les certificats de vaccination COVID-19 visés à l’al. 2, let. c, ne peuvent être émis que par les émetteurs visés à l’art. 7.
+<sup>3</sup> Les certificats de vaccination COVID-19 visés à l’al. 2, let. c, ne peuvent être émis que par les émetteurs visés à l’art. 7, en cas de vaccination complète au sens de l’annexe 2, ch. 3.[^13-10]
 
 [^13-1]: Règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil du 31 mars 2004 établissant des procédures communautaires pour l’autorisation et la surveillance en ce qui concerne les médicaments à usage humain et à usage vétérinaire, et instituant une Agence européenne des médicaments, JO L 136 du 30.4.2004, p. 1; modifié en dernier lieu par le règlement (UE) 2019/5, JO L 4 du 7.1.2018, p. 24
 [^13-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 [^13-3]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
-[^13-4]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^13-4]: Introduit par le ch. I de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)). Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^13-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^13-6]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^13-7]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 [^13-8]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
-[^13-9]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^13-9]: Introduit par le ch. I de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)). Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^13-10]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 14
 
@@ -353,15 +361,31 @@ Une demande de certificat COVID-19 qui ne peut pas être traitée selon la proc�
   - 2\. date et heure du prélèvement de l’échantillon,
   - 3\. nom et adresse du centre de test ou de l’institution où le test a été effectué;
 
-- [tab] b. une confirmation de la levée de l’isolement ou une attestation médicale de la guérison établie par un service compétent exerçant des tâches relevant de la puissance publique, indiquant le nom et l’adresse de ce service.[^16-1]
+- b. une confirmation de la levée de l’isolement ou une attestation médicale de la guérison établie par un service compétent exerçant des tâches relevant de la puissance publique, indiquant le nom et l’adresse de ce service.[^16-1]
+
+<sup>3</sup>
+
+Un certificat de guérison COVID-19 est établi pour un test positif aux anticorps contre le SARS-CoV-2 si:
+
+- a. le prélèvement de l’échantillon a été réalisé en Suisse par un établissement visé à l’annexe 6, ch. 1.3.2, let. a, de l’ordonnance 3 COVID-19 du 19 juin 2020[^16-2];
+- b. l’analyse a été réalisée en Suisse par un établissement visé à l’annexe 6, ch. 1.3.2, let. b, de l’ordonnance 3 COVID-19;
+- c. le prélèvement de l’échantillon a été effectué après le 15 novembre 2021;
+- d. une sérologie indubitablement positive a été détectée dans l’analyse au moyen d’un test immunologique certifié CE sous la forme d’un résultat quantifiable.[^16-3]
+
+<sup>4</sup> Les certificats de guérison COVID-19 visés à l’al. 3 peuvent être établis uniquement par un établissement visé à l’annexe 6, ch. 1.3.2, let. a, de l’ordonnance 3 COVID-19 ou par un établissement visé à l’annexe 6, ch. 1.3.2, let. b, de l’ordonnance 3 COVID-19 mandaté par lui pour réaliser l’analyse.[^16-4]
 
 [^16-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^16-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^16-3]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-4]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 17
 
-**Contenu**
+**Contenu**[^17-1]
 
-Les certificats de guérison COVID-19 contiennent, en plus du contenu général de tous les certificats COVID-19, les indications concernant la maladie dont la personne a guéri et la date de la guérison selon l’annexe 3.
+Les certificats de guérison COVID-19 contiennent, en plus du contenu général de tous les certificats COVID-19, l’indication que la personne a contracté le COVID-19 ou a été testée positive aux anticorps contre le COVID-19, ainsi que les données de l’échantillonnage et des analyses correspondantes au sens de l’annexe 3, ch. 2.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 18
 
@@ -369,7 +393,19 @@ Les certificats de guérison COVID-19 contiennent, en plus du contenu général 
 
 <sup>1</sup> Le début et la durée de validité des certificats de guérison COVID-19 se fondent sur l’annexe 3.
 
-<sup>2</sup> La période de validité commence au plus tôt le 11<sup>e</sup> jour après que l’infection a été prouvée par le résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2.
+<sup>2</sup> La période de validité d’un certificat de guérison COVID visé à l’art. 16, al. 1, commence au plus tôt le 11<sup>e</sup> jour après que l’infection a été prouvée par le résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2.[^18-1]
+
+<sup>3</sup> La période de validité d’un certificat de guérison COVID visé à l’art. 16, al. 3, commence au plus tôt le jour du prélèvement de l’échantillon.[^18-2]
+
+<sup>4</sup> Les certificats de guérison COVID-19 visés à l’art. 16, al. 3, sont uniquement valables en Suisse.[^18-3]
+
+<sup>5</sup> Les certificats de guérison COVID-19 visés à l’art. 16, al. 1, contiennent une date d’expiration compatible avec les exigences du règlement (UE) 2021/953[^18-4]. En vertu de l’annexe 3, ch. 1.2, let. a, ils peuvent être valables au-delà de la date enregistrée.[^18-5]
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-2]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-3]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-4]: Règlement (UE) 2021/953 du Parlement européen et du Conseil du 14 juin 2021 relatif à un cadre pour la délivrance, la vérification et l’acceptation de certificats COVID-19 interopérables de vaccination, de test et de rétablissement (certificat COVID numérique de l’UE) afin de faciliter la libre circulation pendant la pandémie de COVID-19, JO L 211 du 15.6.2021, p. 1
+[^18-5]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Section 6 Certificats de test COVID-19
 
@@ -382,7 +418,7 @@ Les certificats de guérison COVID-19 contiennent, en plus du contenu général 
 Un certificat de test COVID-19 est établi lors du résultat négatif:
 
 - a. d’une analyse de biologie moléculaire pour le SARS-CoV-2;
-- b.[^19-1] d’un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^19-2].
+- b.[^19-1] d’un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^19-2], à moins qu’il se base sur un prélèvement d’échantillon provenant uniquement de la cavité nasale ou d’un test salivaire.
 
 <sup>1bis</sup> L’OFSP tient à jour une liste des tests rapides SARS-CoV-2 visés à l’al. 1, let. b, et la publie sur son site Internet[^19-3].[^19-4]
 
@@ -390,7 +426,7 @@ Un certificat de test COVID-19 est établi lors du résultat négatif:
 
 <sup>2</sup> Les demandes d’établissement de certificats de test peuvent être présentées au plus tard lors du prélèvement de l’échantillon.
 
-[^19-1]: Nouvelle teneur selon le ch. IV de l’O du 25 août 2021, en vigueur depuis le 30 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^19-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Informations techniques sur les tests COVID-19
 [^19-4]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
@@ -460,10 +496,22 @@ Les certificats étrangers reconnus sont considérés comme équivalents aux cer
 
 **Système de gestion des certificats de signature**
 
+<sup>1</sup>
+
 L’OFIT exploite un système d’information qui sert à gérer les certificats de signature permettant de vérifier l’authenticité, l’intégrité et la validité des signatures électroniques des certificats COVID-19, en l’occurrence:
 
 - a. d’échanger ces certificats avec les systèmes étrangers correspondants, notamment dans le cadre du projet de «certificat COVID numérique de l’UE»;
 - b. de les mettre à disposition au moyen d’applications qui servent à vérifier et à stocker les certificats.
+
+<sup>2</sup>
+
+Les certificats de signature ne sont pas livrés aux systèmes étrangers pour les certificats COVID-19 suivants:
+
+- a. les certificats de vaccination COVID visés à l’art. 15, al. 3;
+- b. les certificats de guérison COVID-19 visés à l’art. 16, al. 3;
+- c. les certificats de dérogation visés à l’art. 21*a*, al. 1.[^25-1]
+
+[^25-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 26
 
@@ -561,9 +609,10 @@ Les logiciels sont régis par les principes suivants:
 - d. ils peuvent vérifier l’authenticité, l’intégrité et la validité des certificats COVID-19 même en l’absence d’une connexion Internet au moment de la vérification; une liste actualisée du système de recherche des certificats révoqués est cependant nécessaire pour vérifier la validité, ce qui requiert une connexion Internet;
 - e. l’OFIT publie le code source et les spécifications techniques du logiciel qu’il fournit.
 
-<sup>3</sup> Quiconque reçoit un certificat pour vérification ne peut conserver ce certificat et les informations qu’il contient ou les utiliser à une fin autre que la vérification.
+<sup>3</sup> Quiconque reçoit un certificat pour vérification ne peut conserver ce certificat et les informations qu’il contient ou les utiliser à une fin autre que la vérification. Fait exception l’enregistrement de la durée de validité du certificat dans les établissements auxquels seules ont accès des personnes jouissant de droits personnalisés à des accès répétés. Le titulaire du certificat doit préalablement être informé de manière adéquate du type et de l’ampleur du traitement des données et les accepter expressément.[^29-2]
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 12 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^29-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 30
 
@@ -624,7 +673,7 @@ Annexe 1*[^t-1]*
 
 ## Contenu général des certificats COVID-19
 
-[^t-1]: Mise à jour par le ch. II des O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) et du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^t-1]: Mise à jour par le ch. II des O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) et le ch. II al. 1 de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Indications concernant le titulaire
 
@@ -646,13 +695,17 @@ Les preuves scientifiques relatives à la vaccination, aux tests et à la guéri
 
 Avant de voyager, veuillez vérifier les mesures de santé publique et les restrictions connexes en vigueur sur le lieu de destination».
 
+### 4 Remarque à faire figurer sur les certificats dont la validité est limitée à la Suisse
+
+«Le présent certificat n’est valable qu’en Suisse.»
+
 Annexe 2*[^t-2]*
 
 (art. 14, 15, et 33)
 
 ## Dispositions particulières applicables aux certificats de vaccination COVID-19
 
-[^t-2]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière, ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et le ch. II des O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) et du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^t-2]: Mise à jour par le ch. II des O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), le ch. II al. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) et le ch. I de l’O du DFI du 15 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)).
 
 ### 1 Début de la validité et durée de validité maximale
 
@@ -660,18 +713,18 @@ Annexe 2*[^t-2]*
 
   Début de la validité:
 
-  - a. pour la vaccination avec deux doses (Comirnaty, Spikevax, Vaxzevria, Sinopharm BIBP, Sinovac, Covishield): le jour de l’administration de la seconde dose;
-  - b. pour la vaccination avec une seule dose (COVID-19 Vaccine Janssen): le 22<sup>e</sup> jour après l’administration de la dose;
-  - c.
-
-    pour les personnes ayant contracté le SARS-CoV-2 de manière attestée:
-
-    - 1\. le jour de l’administration de la dose unique d’un vaccin visé à la let. a;
-    - 2\. le 22<sup>e</sup> jour après l’administration de la dose unique de vaccin conformément à la let. b;
-
+  - a. pour la vaccination avec deux doses conformément auxch. 3.2, 3.4 et 3.5: le jour de l’administration de la seconde dose;
+  - b. pour la vaccination avec une seule dose conformément aux ch. 3.1 et 3.5: le 22e jour suivant l’administration de la dose;
+  - c. pour la vaccination selon le schéma prévu au ch. 3.3: le jour de l’administration d’une dose conformément aux ch. 3.1 et 3.2;
   - d. en cas de doses supplémentaires: le jour de l’administration de la dose supplémentaire.
 
-- 1\.2 Durée de validité: 365 jours à partir de l’administration de la dernière dose.
+- 1\.2
+
+  Durée de validité:
+
+  - a. pour la vaccination selon le ch. 1.1, let. a: 365 jours à partir de l’administration de la seconde dose;
+  - b. pour la vaccination selon le ch. 1.1, let. b: 365 jours à partir du 22e jour suivant l’administration de la dose;
+  - c. pour la vaccination selon le ch. 1.1, let. d: 365 jours.
 
 ### 2 Indications concernant le vaccin administré
 
@@ -682,40 +735,107 @@ Annexe 2*[^t-2]*
 - e. Nombre dans une série de vaccins et nombre total de doses administrées
 - f. Date de l’administration de la dernière dose
 
-### 3 Combinaison de différents vaccins avec deux doses
+### 3 Caractère complet du programme de vaccination
 
-En cas de combinaison de différents vaccins avec deux doses, la vaccination est considérée comme étant complète dans les cas suivants:
+- 3\.1 La vaccination est réputée complète après l’administration d’au moins une dose du vaccin Ad26.COV2.S/Covid-19 Vaccine Janssen.
+- 3\.2
 
-- a. première dose: Comirnaty / deuxième dose: Spikevax;
-- b. première dose: Spikevax / deuxième dose: Comirnaty;
-- c. première dose: Vaxzevria (ou produit sous licence de ce vaccin) / deuxième dose: Spikevax;
-- d. première dose: Vaxzevria (ou produit sous licence de ce vaccin) / deuxième dose: Comirnaty.
+  La vaccination est réputée complète après l’administration d’au moins deux doses des vaccins suivants:
 
-Annexe 3
+  - a. BNT162b2 / Comirnaty / Tozinameran;
+  - b. mRNA-1273 / Spikevax / Covid-19 Vaccine Moderna;
+  - c. AZD1222/Vaxzevria / Covid-19 Vaccine AstraZeneca;
+  - d. Sars-CoV-2 Vaccine de Sinopharm Beijing Institute of Biological Products (BIBP) Co., Ltd.;
+  - e. Coronavac (vaccination de Sinovac Life Sciences Co., Ltd);
+  - f. Bharat Biotech COVID-19 Vaccine / Covaxin.
+
+- 3\.3
+
+  La vaccination est réputée complète après l’administration d’une dose d’un vaccin visé au ch. 3.2, pour autant que la personne ait contracté le SARS-CoV-2 auparavant. Pour attester qu’une personne a contracté le SARS-CoV-2, les conditions suivantes s’appliquent:
+
+  - a.
+
+    l’infection d’une personne doit être attestée par l’un des résultats suivants:
+
+    - 1\. résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2,
+    - 2\. résultat positif d’un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24a, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^annex2-lvlu1-lvl3-1],
+    - 3\. résultat positif d’une analyse des anticorps contre le SARS-CoV-2 conformément à l’art. 16, al. 3;
+
+  - b. l’écart entre le prélèvement de l’échantillon et la vaccination est d’au moins 28 jours.
+
+- 3\.4
+
+  La vaccination est réputée complète après l’administration des combinaisons suivantes de vaccins:
+
+  - a. BNT162b2 / Comirnaty / Tozinameran et mRNA-1273 / Spikevax / Covid-19 Vaccine Moderna;
+  - b. AZD1222 / Vaxzevria / Covid-19 Vaccine AstraZeneca et BNT162b2 / Comirnaty / Tozinameran;
+  - c. AZD1222 / Vaxzevria / Covid-19 Vaccine AstraZeneca et mRNA-1273 / Spikevax / Covid-19 Vaccine Moderna.
+
+- 3\.5
+
+  Sont considérés comme équivalents aux vaccins visés aux ch. 3.1 à 3.4 les vaccins dont il peut être prouvé qu’ils ont la même composition mais qui sont mis en circulation par un preneur de licence sous un autre nom. La preuve est réputée apportée pour les vaccins produits sous licence suivants:
+
+  - a.
+
+    produits sous licence de AZD1222 / Vaxzevria / Covid-19 Vaccine AstraZeneca:
+
+    - – Covishield / ChAdOx1\_nCoV-19
+    - – Covid-19 vaccine recombinant (vaccin de la Fundação Instituto Oswaldo Cruz [FIOCRUZ])
+    - – R-Covi (vaccin de R-Pharma)
+
+[^annex2-lvlu1-lvl3-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+
+Annexe 3*[^t-3]*
 
 (art. 17, 18, al. 1, et 33)
 
 ## Dispositions particulières applicables aux certificats de guérison COVID-19
 
+[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+
 ### 1 Début de la validité et durée de validité maximale
 
-- 1\.1 Début de la validité: le 11<sup>e</sup> jour suivant le premier résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2
-- 1\.2 Durée de validité: 180 jours à partir de la date du résultat du test visé au ch. 1.1
+- 1\.1
+
+  Début de la validité:
+
+  - a. pour les certificats de guérison COVID-19 visés à l’art. 16, al. 1: le 11<sup>e</sup> jour suivant le premier résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2;
+  - b. pour les certificats de guérison COVID-19 visés à l’art. 16, al. 3: le jour du prélèvement de l’échantillon pour l’analyse des anticorps contre le SARS-CoV-2.
+
+- 1\.2
+
+  Durée de validité:
+
+  - a. pour les certificats de guérison COVID-19 visés à l’art. 16, al. 1: 365 jours à compter de la date du résultat du test visé au ch. 1.1, let. a;
+  - b. pour les certificats de guérison COVID-19 visés à l’art. 16, al. 3: 90 jours à compter de la date de l’analyse visée au ch. 1.1, let. b.
 
 ### 2 Indications concernant la maladie dont la personne a guéri et la date de la guérison
 
-- a. Maladie dont la personne a guéri («COVID-19»)
-- b. Date du premier résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2
-- c. Début de la validité
-- d. Fin de la validité
+- 2\.1
 
-Annexe 4*[^t-3]*
+  Pour les certificats de guérison COVID-19 visés à l’art. 16, al. 1:
+
+  - a. maladie dont la personne a guéri («COVID-19»);
+  - b. date du premier résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2;
+  - c. début de la validité;
+  - d. fin de la validité.
+
+- 2\.2
+
+  Pour les certificats de guérison COVID-19 visés à l’art. 16, al. 3:
+
+  - a. maladie pour laquelle la présence d’anticorps a été testée («COVID-19»);
+  - b. date du prélèvement de l’échantillon pour une analyse des anticorps contre le SARS-CoV-2;
+  - c. preuve («constatée»);
+  - d. établissement ou institution responsable de l’analyse des anticorps contre le SARS-CoV-2.
+
+Annexe 4*[^t-4]*
 
 (art. 20, 21, al. 2, 28*a*, al. 4, et 33)
 
 ## Dispositions particulières applicables aux certificats de test COVID-19
 
-[^t-3]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et le ch. II de l’O du 30 juin 2021, en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-4]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et le ch. II de l’O du 30 juin 2021, en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ### 1 ...
 
@@ -736,13 +856,13 @@ La durée de validité, calculée à partir du prélèvement de l’échantillon
 - f. Résultat du test («négatif»)
 - g. Centre de test ou institution où le test a été effectué
 
-Annexe 5*[^t-4]*
+Annexe 5*[^t-5]*
 
 (art. 22 et 23, al. 1 et 2)
 
 ## Liste des certificats étrangers reconnus
 
-[^t-4]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), le ch. I des O du DFI du 24 sept. 2021 ([RO 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)) et du 1<sup>er</sup> nov. 2021, en vigueur depuis le 2 nov. 2021 ([RO 2021 640](https://fedlex.data.admin.ch/eli/oc/2021/640)).
+[^t-5]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), le ch. I des O du DFI du 24 sept. 2021 ([RO 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)) et du 1<sup>er</sup> nov. 2021, en vigueur depuis le 2 nov. 2021 ([RO 2021 640](https://fedlex.data.admin.ch/eli/oc/2021/640)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 

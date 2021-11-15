@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-11-02
+version: 2021-11-16
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211102/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211102-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211102/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211116/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211116-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211102/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 2. November 2021)
+vom 4. Juni 2021 (Stand am 16. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -127,7 +127,7 @@ Die Kantone und der Oberfeldarzt melden die bezeichneten Ausstellerinnen und Aus
 
 <sup>1</sup>
 
-Die Kantone und der Oberfeldarzt sorgen dafür, dass in den nachstehenden Fällen Anträge auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats behandelt werden, auch wenn dafür keine Krankengeschichte oder Primärdokumentation bei einer Ausstellerin oder einem Aussteller nach Artikel 6 vorliegt:
+Die Kantone und der Oberfeldarzt sorgen dafür, dass in den nachstehenden Fällen Anträge auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Artikel 16 Absatz 1 behandelt werden, auch wenn dafür keine Krankengeschichte oder Primärdokumentation bei einer Ausstellerin oder einem Aussteller nach Artikel 6 vorliegt:[^7-1]
 
 - a. für eine in der Schweiz erhaltene Impfung oder durchgemachte Erkrankung;
 - b.
@@ -135,11 +135,11 @@ Die Kantone und der Oberfeldarzt sorgen dafür, dass in den nachstehenden Fälle
   für eine im Ausland erhaltene Impfung oder durchgemachte Erkrankung:
 
   - 1\. von Schweizerinnen und Schweizern,
-  - 2\. von Ausländerinnen und Ausländern, die nach Artikel 4 der Covid-19-Verordnung 3 vom 19. Juni 2020[^7-1] zur Einreise berechtigt sind und glaubhaft machen, dass sie eine Einreise in die Schweiz planen oder sich bereits in der Schweiz befinden.[^7-2]
+  - 2\. von Ausländerinnen und Ausländern, die nach Artikel 4 der Covid-19-Verordnung 3 vom 19. Juni 2020[^7-2] zur Einreise berechtigt sind und glaubhaft machen, dass sie eine Einreise in die Schweiz planen oder sich bereits in der Schweiz befinden.[^7-3]
 
 <sup>2</sup> Sie bezeichnen für die Behandlung solcher Anträge mindestens eine Ausstellerin oder einen Aussteller.
 
-<sup>3</sup> Der Antrag auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Absatz 1 muss zusammen mit den Unterlagen nach den Artikeln 13 Absatz 2 Buchstabe c und 16 in einer Amtssprache des Kantons, in Englisch oder in einer amtlich beglaubigten Übersetzung in einer dieser Sprachen eingereicht werden.[^7-3]
+<sup>3</sup> Der Antrag auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Absatz 1 muss zusammen mit den Unterlagen nach den Artikeln 13 Absatz 2 Buchstabe c und 16 in einer Amtssprache des Kantons, in Englisch oder in einer amtlich beglaubigten Übersetzung in einer dieser Sprachen eingereicht werden.[^7-4]
 
 <sup>4</sup>
 
@@ -153,16 +153,17 @@ Bestehen Zweifel an der Echtheit der eingereichten Unterlagen, so kann die Ausst
   - 2\. amtliche Beglaubigungen der Unterlagen einreicht,
   - 3\. weitere Informationen oder Unterlagen, die zur Beurteilung des Antrags notwendig sind, einreicht;
 
-- b. unter Einhaltung von Artikel 62 des Epidemiengesetzes vom 28. September 2012[^7-4] weitere Informationen von zuständigen ausländischen Stellen einholen. [^7-5]
+- b. unter Einhaltung von Artikel 62 des Epidemiengesetzes vom 28. September 2012[^7-5] weitere Informationen von zuständigen ausländischen Stellen einholen.[^7-6]
 
-<sup>5</sup> Bestehen trotz Massnahmen weiterhin Zweifel an der Echtheit der Unterlagen, so kann die Ausstellerin oder der Aussteller den Antrag ablehnen. Die antragstellende Person hat diesfalls keinen Anspruch auf Rückerstattung einer allfällig bezahlten Gebühr. [^7-6]
+<sup>5</sup> Bestehen trotz Massnahmen weiterhin Zweifel an der Echtheit der Unterlagen, so kann die Ausstellerin oder der Aussteller den Antrag ablehnen. Die antragstellende Person hat diesfalls keinen Anspruch auf Rückerstattung einer allfällig bezahlten Gebühr.[^7-7]
 
-[^7-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^7-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-3]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-4]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^7-5]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^7-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-4]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-5]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^7-6]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-7]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 #### Art. 8
 
@@ -247,11 +248,23 @@ Die Kantone können vorsehen, dass die Ausstellerinnen und Aussteller in den fol
 
 #### Art. 12
 
+<sup>1</sup>
+
 Alle Covid-19-Zertifikate enthalten die folgenden Angaben nach Anhang 1:
 
 - a. Angaben zur Identität der Inhaberin oder des Inhabers;
 - b. Angaben zum Herausgeber;
-- c. wenn es sich um ein Zertifikat in menschenlesbarer Form handelt: einen allgemeinen Hinweis zur Bedeutung des Zertifikats.
+- c.[^12-1] ...
+
+<sup>2</sup>
+
+In menschenlesbarer Form enthalten Covid-19-Zertifikate zusätzlich die folgenden Angaben:
+
+- a. einen allgemeinen Hinweis zur Bedeutung des Zertifikats nach Anhang 1 Ziffer 3;
+- b. wenn es sich um ein Covid-19-Impfzertifikat nach Artikel 15 Absatz 3, ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 3 oder um ein Covid-19-Ausnahmezertifikat nach Artikel 21*a* handelt: einen Hinweis auf die beschränkte zeitliche und örtliche Gültigkeit des Zertifikats nach Anhang 4*a* Ziffer 3.[^12-2]
+
+[^12-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## 4. Abschnitt: Covid-19-Impfzertifikate
 
@@ -283,37 +296,32 @@ Ein Covid-19-Impfzertifikat wird für jede Dosis ausgestellt:
   - 3\. Impfausweis mit Angabe des verabreichten Impfstoffs und mit der Unterschrift oder dem Stempel der verantwortlichen Stelle in der Schweiz,
   - 4\. sonstiger in- oder ausländischer Nachweis, der einem der in den Ziffern 1–3 genannten Belege gleichwertig ist.
 
-<sup>2bis</sup> Für Impfstoffe, die nicht in der Schweiz, aber für die EU zugelassen sind, sowie deren Lizenzprodukte wird ein Zertifikat nur ausgestellt, wenn sie gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurden.[^13-4]
+<sup>2bis</sup> ...[^13-4]
 
 <sup>2ter</sup>
 
-Für Impfstoffe, die weder in der Schweiz noch für die EU, aber gemäss dem «WHO Emergency Use Listing» zugelassen sind, sowie deren Lizenzprodukte wird ein Zertifikat nur unter folgenden Voraussetzungen ausgestellt:
+Für Impfstoffe, die weder in der Schweiz noch für die EU, aber gemäss dem «WHO Emergency Use Listing» zugelassen sind, sowie deren Lizenzprodukte wird ein Zertifikat für Angehörige folgender Personenkategorien nur dann ausgestellt, wenn die Person persönlich bei der Ausstellerin oder beim Aussteller erscheint:
 
-- a. Die Impfstoffe wurden gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft.
-- b. Die Antragstellerin oder der Antragsteller erscheint persönlich bei der Ausstellerin oder beim Aussteller.
-- c.
+- a. Schweizerinnen oder Schweizer;
+- b. Ausländerinnen oder Ausländer mit einer Kurzaufenthalts-, Aufenthalts-, Niederlassungs- oder Grenzgängerbewilligung nach den Artikeln 32–35 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^13-5] (AIG);
+- c. vorläufig Aufgenommene nach Artikel 83 Absatz 1 AIG;
+- d. Schutzbedürftige nach Artikel 66 des Asylgesetzes vom 26. Juni 1998[^13-6];
+- e. asylsuchende Personen mit einem Ausweis oder einer Bestätigung nach Artikel 30 der Asylverordnung 1 vom 11. August 1999[^13-7];
+- f. Personen mit einer Legitimationskarte nach Artikel 17 der Gaststaatverordnung vom 7. Dezember 2007[^13-8];
+- g. Personen mit einem Ci-Ausweis nach Artikel 22 Absatz 3 der Gaststaatverordnung.[^13-9]
 
-  Die Antragstellerin oder der Antragsteller gehört einer der folgenden Personenkategorien an:
-
-  - 1\. Schweizerinnen oder Schweizer,
-  - 2\. Ausländerinnen oder Ausländer mit einer Kurzaufenthalts-, Aufent- halts-, Niederlassungs- oder Grenzgängerbewilligung nach den Artikeln 32–35 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^13-5],
-  - 3\. vorläufig Aufgenommene nach Artikel 83 Absatz 1 des Ausländer- und Integrationsgesetzes,
-  - 4\. Schutzbedürftige nach Artikel 66 des Asylgesetzes vom 26. Juni 1998[^13-6];
-  - 5\. asylsuchende Personen mit einem Ausweis oder einer Bestätigung nach Artikel 30 der Asylverordnung 1 vom 11. August 1999[^13-7],
-  - 6\. Personen mit einer Legitimationskarte nach Artikel 17 der Gaststaatverordnung vom 7. Dezember 2007[^13-8],
-  - 7\. Personen mit einem Ci-Ausweis nach Artikel 22 Absatz 3 der Gaststaatverordnung.[^13-9]
-
-<sup>3</sup> Covid-19-Impfzertifikate nach Absatz 2 Buchstabe c können nur von Ausstellerinnen und Ausstellern nach Artikel 7 ausgestellt werden.
+<sup>3</sup> Covid-19-Zertifikate nach Absatz 2 Buchstabe c können nur von Ausstellerinnen und Ausstellern nach Artikel 7 bei einer vollständigen Impfung nach Anhang 2 Ziffer 3 ausgestellt werden.[^13-10]
 
 [^13-1]: Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur, ABl. L 136 vom 30.04.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 2019/5, ABl. L 4 vom 7.1.2018, S. 24.
 [^13-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 [^13-3]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
-[^13-4]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^13-4]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)). Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^13-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^13-6]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^13-7]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 [^13-8]: [SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
-[^13-9]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^13-9]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)). Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^13-10]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 14
 
@@ -355,13 +363,29 @@ Ein Antrag auf Ausstellung eines Covid-19-Zertifikats, der nicht im automatisier
 
 - b. Bestätigung der Aufhebung der Absonderung oder ärztliche Bestätigung der Genesung von einer zuständigen Stelle mit behördlichen Aufgaben einschliesslich Name und Adresse dieser Stelle. [^16-1]
 
+<sup>3</sup>
+
+Ein Covid-19-Genesungszertifikat wird für einen positiven Test auf Sars-CoV-2-Antikörper ausgestellt, sofern:
+
+- a. die Probeentnahme von einer Einrichtung nach Anhang 6 Ziffer 1.3.2 Buchstabe a der Covid-19-Verordnung 3 vom 19. Juni 2020[^16-2] in der Schweiz durchgeführt wurde;
+- b. die Analyse von einer Einrichtung nach Anhang 6 Ziffer 1.3.2 Buchstabe b Covid-19-Verordnung 3 in der Schweiz durchgeführt wurde;
+- c. die Probeentnahme nach dem 15. November 2021 durchgeführt wurde;
+- d. bei der Analyse mithilfe eines mit CE-Kennzeichnung zertifizierten Immunessays in Form eines quantifizierbaren Ergebnisses eine eindeutig positive Serologie festgestellt wurde.[^16-3]
+
+<sup>4</sup> Covid-19-Genesungszertifikate nach Absatz 3 dürfen nur von einer Einrichtung nach Anhang 6 Ziffer 1.3.2 Buchstabe a der Covid-19-Verordnung 3 oder einer von einer solchen Einrichtung mit der Durchführung der Analyse beauftragten Einrichtung nach Anhang 6 Ziffer 1.3.2 Buchstabe b der Covid-19-Verordnung 3 ausgestellt werden.[^16-4]
+
 [^16-1]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^16-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^16-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-4]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 17
 
-**Inhalt**
+**Inhalt**[^17-1]
 
-Covid-19-Genesungszertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Zertifikate die Angabe, welche Krankheit durchgemacht wurde, und die Angaben zum Zeitpunkt der Genesung nach Anhang 3.
+Covid-19-Genesungszertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Zertifikate die Angabe, dass die Person an Covid-19 erkrankt war oder positiv auf Covid-19-Antikörper getestet wurde, sowie die Daten der entsprechenden Probeentnahmen und Analysen nach Anhang 3 Ziffer 2.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 18
 
@@ -369,7 +393,19 @@ Covid-19-Genesungszertifikate enthalten neben dem allgemeinen Inhalt aller Covid
 
 <sup>1</sup> Beginn und Dauer der Gültigkeit von Covid-19-Genesungszertifikaten richten sich nach Anhang 3.
 
-<sup>2</sup> Die Gültigkeit beginnt frühestens am elften Tag, nachdem die Ansteckung mit einem positiven Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2 nachgewiesen wurde.
+<sup>2</sup> Die Gültigkeit eines Covid-Genesungszertifikats nach Artikel 16 Absatz 1 beginnt frühestens am elften Tag, nachdem die Ansteckung mit einem positiven Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2 nachgewiesen wurde.[^18-1]
+
+<sup>3</sup> Die Gültigkeit eines Covid-Genesungszertifikats nach Artikel 16 Absatz 3 beginnt frühestens am Tag der Probeentnahme.[^18-2]
+
+<sup>4</sup> Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3 sind nur in der Schweiz gültig.[^18-3]
+
+<sup>5</sup> Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1 enthalten ein Ablaufdatum, das mit den Anforderungen der Verordnung (EU) 2021/953[^18-4] kompatibel ist. Sie können gemäss Anhang 3 Ziffer 1.2 Buchstabe a über das eingetragene Datum hinaus gültig sein.[^18-5]
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-4]: Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie, Fassung gemäss ABl. L 211 vom 15.6.2021, S. 1.
+[^18-5]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## 6. Abschnitt: Covid-19-Testzertifikate
 
@@ -382,7 +418,7 @@ Covid-19-Genesungszertifikate enthalten neben dem allgemeinen Inhalt aller Covid
 Ein Covid-19-Testzertifikat wird ausgestellt bei einem negativen Ergebnis:
 
 - a. einer molekularbiologischen Analyse auf Sars-CoV-2;
-- b.[^19-1] eines Sars-CoV-2-Schnelltests zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^19-2].
+- b.[^19-1] eines Sars-CoV-2-Schnelltests zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^19-2], ausser er basiert auf einer Probeentnahme nur aus dem Nasenraum oder auf einer Speichelprobe.
 
 <sup>1bis</sup> Das BAG führt eine aktualisierte Liste der Sars-CoV-2-Schnelltests nach Absatz 1 Buchstabe b und veröffentlicht sie auf seiner Website[^19-3].[^19-4]
 
@@ -390,7 +426,7 @@ Ein Covid-19-Testzertifikat wird ausgestellt bei einem negativen Ergebnis:
 
 <sup>2</sup> Anträge auf Ausstellung von Testzertifikaten können spätestens anlässlich der Probeentnahme gestellt werden.
 
-[^19-1]: Fassung gemäss Ziff. IV der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^19-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^19-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Fachinformationen über die Covid-19-Testung.
 [^19-4]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
@@ -459,10 +495,22 @@ Anerkannte ausländische Zertifikate sind den nach dieser Verordnung ausgestellt
 
 **System zur Verwaltung von Signaturzertifikaten**
 
+<sup>1</sup>
+
 Das BIT betreibt ein Informationssystem, das dazu dient, Signaturzertifikate zur Überprüfung von elektronischen Signaturen von Covid-19-Zertifikaten auf ihre Authentizität, Integrität und Gültigkeit:
 
 - a. mit entsprechenden ausländischen Systemen auszutauschen, insbesondere im Rahmen des «EU Digital Covid Certificate» der EU;
 - b. den Apps, die der Überprüfung und der Aufbewahrung von Zertifikaten dienen, zur Verfügung zu stellen.
+
+<sup>2</sup>
+
+Für folgende Covid-19-Zertifikate werden Signaturzertifikate nicht an ausländische Systeme geliefert:
+
+- a. Covid-19-Impfzertifikate nach Artikel 15 Absatz 3;
+- b. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3;
+- c. Covid-19-Ausnahmezertifikate nach Artikel 21*a* Absatz 1.[^25-1]
+
+[^25-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 26
 
@@ -560,9 +608,10 @@ Für die Softwares gelten die folgenden Grundsätze:
 - d. Sie können die Authentizität, Integrität und Gültigkeit der Zertifikate ohne eine im Moment der Prüfung bestehende Internetverbindung überprüfen; eine Überprüfung der Gültigkeit setzt jedoch eine aktualisierte Liste aus dem System zur Abfrage von widerrufenen Zertifikaten voraus, wozu eine Internetverbindung bestehen muss.
 - e. Das BIT veröffentlicht den Quellcode und die technischen Spezifikationen der von ihm zur Verfügung gestellten Softwares.
 
-<sup>3</sup> Wer ein Zertifikat zur Überprüfung erhält, darf dieses und die daraus ausgelesenen Informationen nicht aufbewahren oder zu einem anderen Zweck als der Überprüfung verwenden.
+<sup>3</sup> Wer ein Zertifikat zur Überprüfung erhält, darf dieses und die daraus ausgelesenen Informationen nicht aufbewahren oder zu einem anderen Zweck als der Überprüfung verwenden. Ausgenommen ist die Hinterlegung der Gültigkeitsdauer des Zertifikats bei Einrichtungen, zu denen nur Personen Zugang haben, die über eine persönliche Berechtigung für einen wiederholten Zugang verfügen. Die betroffene Person muss vorgängig über die Art und den Umfang der Datenbearbeitung angemessen informiert werden und in diese ausdrücklich einwilligen.[^29-2]
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 12. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^29-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 30
 
@@ -623,7 +672,7 @@ Anhang 1*[^t-1]*
 
 ## Allgemeiner Inhalt der Covid-19-Zertifikate
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) und gemäss Ziff. II Abs. 1 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Angaben zur Inhaberin oder zum Inhaber
 
@@ -645,13 +694,17 @@ Die wissenschaftlichen Erkenntnisse über Covid-19-Impfungen und -Tests sowie ü
 
 Bitte informieren Sie sich vor der Reise über die am Zielort geltenden Gesundheitsmassnahmen und die damit verbundenen Beschränkungen.»
 
+### 4 Hinweis bei Zertifikaten, deren Gültigkeit auf die Schweiz beschränkt ist
+
+«Dieses Zertifikat ist nur in der Schweiz gültig.»
+
 Anhang 2*[^t-2]*
 
-(Art. 14, 15 und 33)
+(Art. 13, 14, 15 und 33)
 
 ## Besondere Bestimmungen über Covid-19-Impfzertifikate
 
-[^t-2]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) und Ziff. I der V des EDI vom 15. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -659,18 +712,18 @@ Anhang 2*[^t-2]*
 
   Beginn der Gültigkeit:
 
-  - a. für eine Impfung mit zwei Dosen (Comirnaty, Spikevax, Vaxzevria, Sinopharm BIBP, Sinovac, Covishield): am Tag der Verabreichung der zweiten Dosis;
-  - b. für eine Impfung mit einer Dosis (COVID-19 Vaccine Janssen): am 22. Tag nach Verabreichung der Dosis;
-  - c.
-
-    für Personen mit einer zurückliegenden bestätigten Sars-CoV-2-Infektion:
-
-    - 1\. am Tag der Verabreichung der einzigen Dosis einer Impfung nach Buchstabe a,
-    - 2\. am 22. Tag nach der Verabreichung der einzigen Dosis einer Impfung nach Buchstabe b;
-
+  - a*.* für eine Impfung mit zwei Dosen nach den Ziffern 3.2, 3.4 und 3.5: am Tag der Verabreichung der zweiten Dosis;
+  - b. für eine Impfung mit einer Dosis nach den Ziffern 3.1 und 3.5: am 22. Tag nach Verabreichung der Dosis;
+  - c. für eine Impfung nach dem Schema nach Ziffer 3.3: am Tag der Verabreichung einer Dosis nach den Ziffern 3.1 und 3.2;
   - d. im Falle von zusätzlichen Dosen: am Tag der Verabreichung der zusätzlichen Dosis.
 
-- 1\.2 Gültigkeitsdauer: 365 Tage ab Verabreichung der letzten Dosis.
+- 1\.2
+
+  Gültigkeitsdauer:
+
+  - a. für eine Impfung nach Ziffer 1.1 Buchstabe a: 365 Tage ab Verabreichung der letzten Dosis;
+  - b. für eine Impfung nach Ziffer 1.1 Buchstabe b: 365 Tage ab dem 22. Tag ab Verabreichung der letzten Dosis;
+  - c. für eine Impfung nach Ziffer 1.1 Buchstabe d: 365 Tage.
 
 ### 2 Angaben zum verabreichten Impfstoff
 
@@ -681,40 +734,102 @@ Anhang 2*[^t-2]*
 - e. Anzahl der verabreichten Impfdosen in einer Serie und die Gesamtzahl der Impfdosen
 - f. Datum, an dem die letzte Dosis verabreicht wurde
 
-### 3 Kombination von unterschiedlichen Impfstoffen bei Impfungen mit zwei Dosen
+### 3 Vollständigkeit eines Impfprogramms
 
-Eine Impfung gilt bei der Kombination von zwei Dosen unterschiedlicher Impfstoffe in den folgenden Konstellationen als vollständig:
+- 3\.1 Als vollständige Impfung gilt der Erhalt mindestens einer Dosis des Impfstoffs Ad26.COV2.S/Covid-19 Vaccine Janssen.
+- 3\.2
 
-- a. Erstimpfung: Comirnaty / Zweitimpfung: Spikevax;
-- b. Erstimpfung: Spikevax / Zweitimpfung: Comirnaty;
-- c. Erstimpfung: Vaxzevria oder ein Lizenzprodukt dieses Impfstoffs / Zweitimpfung: Spikevax;
-- d. Erstimpfung: Vaxzevria oder ein Lizenzprodukt dieses Impfstoffs / Zweitimpfung: Comirnaty.
+  Als vollständige Impfung gilt der Erhalt von mindestens zwei Dosen der folgenden Impfstoffe:
 
-Anhang 3
+  - a. BNT162b2 / Comirnaty / Tozinameran;
+  - b. mRNA-1273 / Spikevax / Covid-19 Vaccine Moderna;
+  - c. AZD1222 / Vaxzevria / Covid-19 Vaccine AstraZeneca;
+  - d. Sars-CoV-2 Vaccine von Sinopharm Beijing Institute of Biological Products (BIBP) Co., Ltd.;
+  - e. Coronavac (Impfung von Sinovac Life Sciences Co., Ltd);
+  - f. Bharat Biotech Covid-19 Vaccine / Covaxin.
+
+- 3\.3
+
+  Als vollständige Impfung gilt der Erhalt einer Dosis eines Impfstoffes nach Ziffer 3.2, sofern die Person sich zuvor mit Sars-CoV-2 angesteckt hat. Für den Befund, dass die Person sich mit Sars-CoV-2 angesteckt hat, gelten folgende Voraussetzungen:
+
+  - a.
+
+    Der Befund, dass die Person sich angesteckt hat, muss sich auf eine der folgenden Untersuchungen stützen:
+
+    - 1\. positives Ergebnis einer molekularbiologischen Analyse auf Sars-CoV‑2;
+    - 2\. positives Ergebnis eines Sars-CoV-2-Schnelltests zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^annex2-lvlu1-lvl3-1];
+    - 3\. positive Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3.
+
+  - b. Zwischen der Probeentnahme und Impfung müssen mindestens 28 Tage vergangen sein.
+
+- 3\.4 Als vollständige Impfung gilt der Erhalt der folgenden Kombinationen von Impfstoffen
+  - a. BNT162b2 / Comirnaty / Tozinameran und mRNA-1273 / Spikevax / Covid-19 Vaccine Moderna;
+  - b. AZD1222 / Vaxzevria / Covid-19 Vaccine AstraZeneca und BNT162b2 / Comirnaty / Tozinameran;
+  - c. AZD1222 / Vaxzevria / Covid-19 Vaccine AstraZeneca und mRNA-1273 / Spikevax / Covid-19 Vaccine Moderna.
+
+- 3\.5
+
+  Den in Ziffer 3.1–3.4 genannten Impfstoffen sind diejenigen Impfstoffe gleichgestellt, die nachweislich dieselbe Zusammensetzung aufweisen, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wurden. Für folgende Lizenzprodukte von Impfstoffen gilt der Nachweis als erbracht:
+
+  - a.
+
+    Lizenzprodukte von AZD1222 / Vaxzevria / Covid-19 Vaccine AstraZeneca:
+
+    - – Covishield / ChAdOx1\_nCoV-19
+    - – Covid-19 vaccine recombinant (Impfung des Fundação Instituto Oswaldo Cruz [FIOCRUZ])
+    - – R-Covi (Impfung von R-Pharma)
+
+[^annex2-lvlu1-lvl3-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+
+Anhang 3*[^t-3]*
 
 (Art. 17, 18 Abs. 1 und 33)
 
 ## Besondere Bestimmungen über Covid-19-Genesungszertifikate
 
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
-- 1\.1 Beginn der Gültigkeit: am elften Tag nach dem ersten positiven Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2.
-- 1\.2 Gültigkeitsdauer: 180 Tage, berechnet ab dem Tag des Testergebnisses nach Ziffer 1.1.
+- 1\.1 Beginn der Gültigkeit
+  - a. bei Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1: am elften Tag nach dem ersten positiven Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2;
+  - b. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3: am Tag der Probenentnahme für die Analyse auf Sars-CoV-2-Antikörper.
+
+- 1\.2
+
+  Gültigkeitsdauer:
+
+  - a. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1: 365 Tage, berechnet ab dem Tag des Testergebnisses nach Ziffer 1.1 Buchstabe a;
+  - b. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3: 90 Tage, berechnet ab dem Tag der Analyse nach Ziffer 1.1 Buchstabe b.
 
 ### 2 Angaben zur durchgemachten Krankheit und zum Zeitpunkt der Genesung
 
-- a. durchgemachte Krankheit («Covid-19»)
-- b. Datum des ersten positiven Ergebnisses einer molekularbiologischen Analyse auf Sars-CoV-2
-- c. Beginn der Gültigkeit
-- d. Ende der Gültigkeit
+- 2\.1
 
-Anhang 4*[^t-3]*
+  Für Genesungszertifikate nach Artikel 16 Absatz 1:
+
+  - a. durchgemachte Krankheit («Covid-19»);
+  - b. Datum des ersten positiven Ergebnisses einer molekularbiologischen Analyse auf Sars-CoV-2;
+  - c. Beginn der Gültigkeit;
+  - d. Ende der Gültigkeit.
+
+- 2\.2
+
+  Für Genesungszertifikate nach Artikel 16 Absatz 3:
+
+  - a. Krankheit, betreffend welcher auf das Vorliegen von Antikörpern geprüft untersucht wurde («Covid-19»);
+  - b. Datum der Probeentnahme für eine Analyse auf Sars-CoV-2-Antikörper;
+  - c. Befund («festgestellt»);
+  - d. Einrichtung oder Institution, die für die Durchführung der Analyse auf Antikörper verantwortlich ist.
+  - [tab]
+
+Anhang 4*[^t-4]*
 
 (Art. 20, 21 Abs. 2, 28*a* Abs. 4 und 33)
 
 ## Besondere Bestimmungen über Covid-19-Testzertifikate
 
-[^t-3]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) und Ziff. II der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-4]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. II der V vom 30. Juni 2021, in Kraft seit 12. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ### 1 ...
 
@@ -737,13 +852,13 @@ Anhang 4*[^t-3]*
 - f. Testergebnis («negativ»)
 - g. Testzentrum oder Institution, wo der Test durchgeführt wurde
 
-Anhang 5*[^t-4]*
+Anhang 5*[^t-5]*
 
 (Art. 22 sowie 23 Abs. 1 und 2)
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-4]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. I der V des EDI vom 24. Sept. 2021 ([AS 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)) und vom 1. Nov. 2021, in Kraft seit 2. Nov. 2021 ([AS 2021 640](https://fedlex.data.admin.ch/eli/oc/2021/640)).
+[^t-5]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. I der V des EDI vom 24. Sept. 2021 ([AS 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)) und vom 1. Nov. 2021, in Kraft seit 2. Nov. 2021 ([AS 2021 640](https://fedlex.data.admin.ch/eli/oc/2021/640)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
