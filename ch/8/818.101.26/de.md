@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2021-10-25
+version: 2021-11-16
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211025/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211025-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211025/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211116/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211116-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211025/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 25. Oktober 2021)
+vom 23. Juni 2021 (Stand am 16. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -57,15 +57,14 @@ Als Personen mit einem Zertifikat im Sinne dieser Verordnung gelten Personen, di
 
 <sup>2</sup> ...[^3-2]
 
-<sup>2bis</sup> Einem Zertifikat nach Absatz 1 gleichgestellt sind Nachweise, die belegen, dass eine Person aus medizinischen Gründen weder geimpft noch getestet werden kann. Für den Nachweis ist ein Attest einer Ärztin oder eines Arztes erforderlich, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006[^3-3] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist.[^3-4]
+<sup>2bis</sup> ...[^3-3]
 
-<sup>3</sup> ...[^3-5]
+<sup>3</sup> ...[^3-4]
 
 [^3-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^3-2]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 24. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
-[^3-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^3-4]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021 (Nachweise für Personen, die aus medizinischen Gründen weder geimpft noch getestet werden können), in Kraft seit 4. Okt. 2021 ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
-[^3-5]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 24. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^3-3]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021 (Nachweise für Personen, die aus medizinischen Gründen weder geimpft noch getestet werden können) ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)). Aufgehoben durch Anhang Ziff. 2 der V vom 3. Nov. 2021, mit Wirkung seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^3-4]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 24. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 
 ## 2. Abschnitt: Massnahmen gegenüber Personen
 
@@ -594,19 +593,28 @@ Bewilligungen für Pilotprojekte, die gestützt auf Artikel 6*b*<sup>quater</sup
 
 [^32-1]: [AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)
 
+#### Art. 32a
+
+**Übergangsbestimmung zur Änderung vom 3. November 2021**[^32a-1]
+
+Bis zum 31. Dezember 2021 sind Nachweise, die belegen, dass eine Person aus medizinischen Gründen weder geimpft noch getestet werden kann, einem Zertifikat nach Artikel 3 Absatz 1 gleichgestellt. Für den Nachweis ist ein Attest einer Ärztin oder eines Arztes erforderlich, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006[^32a-2] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist.
+
+[^32a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^32a-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+
 #### Art. 33
 
 **Inkrafttreten und Geltungsdauer**
 
 Diese Verordnung tritt am 26. Juni 2021 um 00.00 Uhr in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 10 Abs. 4, 11 Abs. 1 sowie 29)
 
 ## Vorgaben für Schutzkonzepte
 
-[^t-1]: Bereinigt gemäss Ziff. II den V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) und vom 1. Okt. 2021 (Nachweise für Personen, die aus medizinischen Gründen weder geimpft noch getestet werden können), in Kraft seit 4. Okt. 2021 ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^t-1]: Bereinigt gemäss Ziff. II den V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), vom 1. Okt. 2021 (Nachweise für Personen, die aus medizinischen Gründen weder geimpft noch getestet werden können) ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)) und Anhang Ziff. 2 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Schutzkonzepte für öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen, die bei Personen über 16 Jahren den Zugang nicht auf Personen mit einem Zertifikat einschränken
 
@@ -663,7 +671,7 @@ Anhang 1[^t-1]
 
 Das Schutzkonzept enthält Massnahmen in Bezug auf:
 
-- a. die geordnete und lückenlose Durchführung der Zugangskontrolle, einschliesslich der Schulung des Personals;
+- a. die geordnete und lückenlose Durchführung der Zugangskontrolle, einschliesslich der Schulung des Personals sowie der elektronischen Überprüfung von Zertifikaten mit der Überprüfungs-App nach Artikel 29 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex1-lvlu1-lvl2-1] oder einer anderen App, die datenminimierte Zertifikate nach Artikel 28 der Covid-19-Verordnung Zertifikate validieren kann und den in Artikel 29 Absatz 2 Buchstabe a und b der Covid-19-Verordnung Zertifikate genannten Grundsätzen entspricht;
 - a<sup>bis</sup>. die Überprüfung der Identität der Personen im Rahmen der Zugangskontrolle nach Buchstabe a; diese muss anhand eines geeigneten Identitätsnachweises mit Foto erfolgen;
 - a<sup>ter</sup>.
 
@@ -678,13 +686,15 @@ Das Schutzkonzept enthält Massnahmen in Bezug auf:
 - d. eine allfällige Pflicht zum Tragen einer Gesichtsmaske für Arbeitnehmerinnen und Arbeitnehmer und weitere an der Veranstaltung tätige Personen, die vor Ort Kontakt haben zu Besucherinnen und Besuchern;
 - e. die Anwesenheit von Personen mit einem Attest nach Artikel 3 Absatz 2<sup>bis</sup>, etwa die Pflicht dieser Personen zum Tragen einer Gesichtsmaske oder, bei gleichzeitigem Vorliegen eines Attests zur Befreiung von der Pflicht zum Tragen einer Gesichtsmaske nach Artikel 5 Absatz 1 Buchstabe b, Vorgaben zur Einhaltung des erforderlichen Abstands.
 
-Anhang 2[^t-2]
+[^annex1-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+Anhang 2*[^t-2]*
 
 (Art. 6 Abs. 5 und 6, 7 Abs. 2 und 3 sowie 29)
 
 ## Vorgaben für die Ausnahmen von der Maskenpflicht und von der Kontaktquarantäne für geimpfte und genesene Personen
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) und Anhang Ziff. 4 der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-2]: Bereinigt gemäss Anhang Ziff. 4 der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Anhang Ziff. 2 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Geimpfte Personen
 
@@ -697,11 +707,16 @@ Anhang 2[^t-2]
   - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde;
   - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
-- 1\.2 Die Dauer, während der geimpfte Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. a) und geimpfte Personen nach der Impfung von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. a) ausgenommen sind, beträgt 12 Monate ab vollständig erfolgter Impfung; beim Impfstoff von Janssen beträgt die Dauer 12 Monate ab dem 22. Tag nach erfolgter Impfung.
+- 1\.2 Die Dauer, während der geimpfte Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. a) und geimpfte Personen nach der Impfung von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. a) ausgenommen sind, beträgt 365 Tage ab vollständig erfolgter Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 365 Tage ab dem 22. Tag nach erfolgter Impfung.
 
 ### 2 Genesene Personen
 
-Die Zeit, während der genesene Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. b) und genesene Personen von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. b) ausgenommen sind, beginnt am 11. Tag nach der Bestätigung der Ansteckung und dauert 6 Monate ab Bestätigung der Ansteckung.
+Während der folgenden Zeitdauern sind genesene Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. b) und genesene Personen von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. b) ausgenommen:
+
+- a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2: vom 11. bis zum 365. Tag ab Bestätigung der Ansteckung;
+- b. im Falle einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]: während der Dauer der Gültigkeit des entsprechenden Zertifikats.
+
+[^annex2-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Anhang 3
 

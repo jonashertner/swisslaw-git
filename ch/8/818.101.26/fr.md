@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: fr
-version: 2021-10-25
+version: 2021-11-16
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211025/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211025-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211025/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211116/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211116-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211116/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211025/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 23 juin 2021 (Etat le 25 octobre 2021)
+du 23 juin 2021 (Etat le 16 novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -57,15 +57,14 @@ Sont considérées comme personnes disposant d’un certificat au sens de la pr�
 
 <sup>2</sup> ...[^3-2]
 
-<sup>2bis</sup> Sont assimilées à un certificat au sens de l’al. 1 les attestations certifiant que, pour des raisons médicales, une personne ne peut ni se faire vacciner ni se faire tester. Pour justifier de raisons médicales, la personne doit présenter une attestation délivrée par un médecin habilité à exercer sous sa propre responsabilité professionnelle en vertu de la loi du 23 juin 2006 sur les professions médicales[^3-3].[^3-4]
+<sup>2bis</sup> …[^3-3]
 
-<sup>3</sup> ...[^3-5]
+<sup>3</sup> ...[^3-4]
 
 [^3-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^3-2]: Introduit par le ch. III de l’O du 17 sept. 2021, en vigueur du 20 sept. au 24 oct. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
-[^3-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^3-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021 (Attestations des personnes qui, pour des raisons médicales, ne peuvent ni se faire vacciner ni se faire tester), en vigueur depuis le 4 oct. 2021 ([RO 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
-[^3-5]: Introduit par le ch. III de l’O du 17 sept. 2021, en vigueur du 20 sept. au 24 oct. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^3-3]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021 (Attestations des personnes qui, pour des raisons médicales, ne peuvent ni se faire vacciner ni se faire tester) ([RO 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)). Abrogé par l’annexe ch. 2 de l’O du 3 nov. 2021, avec effet au 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^3-4]: Introduit par le ch. III de l’O du 17 sept. 2021, en vigueur du 20 sept. au 24 oct. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 
 ## Section 2 Mesures visant des personnes
 
@@ -594,6 +593,15 @@ Les autorisations octroyées pour des projets pilotes en vertu de l’art. 6*b*<
 
 [^32-1]: [RO 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)
 
+#### Art. 32a
+
+**Disposition transitoire relative à la modification du 3 novembre 2021**[^32a-1]
+
+Jusqu’au 31 décembre 2021, les attestations certifiant que, pour des raisons médicales, une personne ne peut ni se faire vacciner ni se faire tester sont assimilées à un certificat au sens de l’art. 3, al. 1. Pour justifier de raisons médicales, la personne doit présenter une attestation délivrée par un médecin habilité à exercer sous sa propre responsabilité professionnelle en vertu de la loi du 23 juin 2006 sur les professions médicales[^32a-2].
+
+[^32a-1]: Introduit par l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^32a-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+
 #### Art. 33
 
 **Entrée en vigueur et durée de validité**
@@ -606,7 +614,7 @@ Annexe 1*[^t-1]*
 
 ## Prescriptions pour les plans de protection
 
-[^t-1]: Mise à jour par le ch. II des O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur jusqu’au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) et du 1<sup>er</sup> oct. 2021 (Attestations des personnes qui, pour des raisons médicales, ne peuvent ni se faire vacciner ni se faire tester), en vigueur depuis le 4 oct. 2021 ([RO 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^t-1]: Mise à jour par le ch. II des O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur jusqu’au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), du 1<sup>er</sup> oct. 2021 (Attestations des personnes qui, pour des raisons médicales, ne peuvent ni se faire vacciner ni se faire tester) ([RO 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)) et l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Plan de protection pour les installations et les établissements accessibles au public ainsi que pour les manifestations ne limitant pas l’accès, pour les personnes de 16 ans et plus, aux seules personnes disposant d’un certificat
 
@@ -662,7 +670,7 @@ Annexe 1*[^t-1]*
 
 Le plan de protection comprend des mesures concernant les points suivants:
 
-- a. l’organisation ordonnée et complète du contrôle d’accès, formation du personnel comprise;
+- a. l’organisation ordonnée et complète du contrôle d’accès, formation du personnel comprise, et la vérification électronique des certificats au moyen de l’application de vérification visée à l’art. 29 de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex1-lvlu1-lvl2-1] ou d’une autre application apte à valider les certificats ne contenant que les données strictement nécessaires visés à l’art. 28 de l’ordonnance COVID-19 certificats et correspondant aux principes énoncés à l’art. 29, al. 2, let. a et b, de l’ordonnance COVID-19 certificats;
 - a<sup>bis</sup>. la vérification de l’identité des personnes lors du contrôle d’accès visé à la let. a; la vérification se fait à l’aide d’un document d’identité adapté avec photo;
 - a<sup>ter</sup>.
 
@@ -677,13 +685,15 @@ Le plan de protection comprend des mesures concernant les points suivants:
 - d. l’obligation éventuelle de porter un masque facial pour les employés et les autres personnes actives lors de la manifestation ayant sur place un contact avec les visiteurs;
 - e. la présence de titulaires d’une attestation au sens de l’art. 3, al. 2<sup>bis</sup>, telle que l’obligation pour ces personnes de porter un masque facial ou, si elles disposent également d’une attestation les exemptant de l’obligation de porter un masque en vertu de l’art. 5, al. 1, let. b, des consignes concernant le respect de la distance requise.
 
+[^annex1-lvlu1-lvl2-1]: RS **808.102.2**
+
 Annexe 2*[^t-2]*
 
 (art. 6, al. 5 et 6, 7, al. 2 et 3, et 29)
 
 ## Prescriptions concernant les exemptions de l’obligation de porter un masque et de la quarantaine-contact pour les personnes vaccinées et guéries
 
-[^t-2]: Mise à jour par le ch. II de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur jusqu’au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) et l’annexe ch. 4 de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-2]: Mise à jour par l’annexe ch. 4 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) et l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Personnes vaccinées
 
@@ -696,11 +706,16 @@ Annexe 2*[^t-2]*
   - c. autorisé selon la liste des situations d’urgences de l’OMS et complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée;
   - d. dont il peut être prouvé qu’il a la même composition qu’un vaccin autorisé au sens des let. a, b ou c, mais qui est mis en circulation par un preneur de licence sous un autre nom et qui a été complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée.
 
-- 1\.2 La durée pendant laquelle les résidents vaccinés des institutions médico-sociales sont exemptés de l’obligation de porter un masque (art. 6, al. 5, let. a) et les personnes vaccinées sont exemptées de la quarantaine-contact après la vaccination (art. 7, al. 2, let. a) est de 12 mois à compter de la vaccination complète; pour le vaccin Janssen, la durée est de 12 mois à compter du 22<sup>e</sup> jour suivant la vaccination.
+- 1\.2 La durée pendant laquelle les résidents vaccinés des institutions médico-sociales sont exemptés de l’obligation de porter un masque (art. 6, al. 5, let. a) et les personnes vaccinées sont exemptées de la quarantaine-contact après la vaccination (art. 7, al. 2, let. a) est de 365 jours à compter de la vaccination complète; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen, la durée est de 365 jours à compter du 22<sup>e</sup> jour suivant la vaccination.
 
 ### 2 Personnes guéries
 
-La période pendant laquelle les résidents guéris des institutions médico-sociales sont exemptés de l’obligation de porter un masque (art. 6, al. 5, let. b) et les personnes guéries sont exemptées de la quarantaine-contact (art. 7, al. 2, let. b) commence le 11<sup>e</sup> jour qui suit la confirmation de leur infection et dure 6 mois à compter de la confirmation de leur infection.
+Les résidents guéris des institutions médico-sociales sont exemptés de l’obligation de porter un masque (art. 6, al. 5, let. b) et les personnes guéries sont exemptées de la quarantaine-contact (art. 7, al. 2, let. b) pendant la durée suivantes:
+
+- a. dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2: du 11<sup>e</sup> au 365<sup>e</sup> jour à compter de la confirmation de leur infection;
+- b. dans le cas d’une analyse des anticorps contre le SARS-CoV-2 au sens de l’art. 16, al. 3, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex2-lvlu1-lvl2-1]: pendant la durée de validité du certificat.
+
+[^annex2-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Annexe 3
 

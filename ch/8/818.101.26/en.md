@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2021-10-25
+version: 2021-11-16
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211025/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211025-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211025/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211116/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211116-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211116/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 25 October 2021)
+of 23 June 2021 (Status as of 16 November 2021)
 
 The Swiss Federal Council,
 
@@ -60,15 +60,14 @@ Persons with a certificate in terms of this Ordinance are persons who hold one o
 
 <sup>2</sup> ...[^3-2]
 
-<sup>2bis</sup> Documentary proof that a person can neither be vaccinated nor tested on medical grounds is equivalent to a certificate under paragraph 1. As proof, a medical certificate from a doctor who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^3-3] is required.[^3-4]
+<sup>2bis</sup> ...[^3-3]
 
-<sup>3</sup> ...[^3-5]
+<sup>3</sup> ...[^3-4]
 
 [^3-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^3-2]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 24 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
-[^3-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^3-4]: Inserted by No I of the O of 1 Oct. 2021 (Proof for persons who can neither be vaccinated nor tested on medical grounds), in force since 4 Oct. 2021 ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
-[^3-5]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 24 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^3-3]: Inserted by No I of the O of 1 Oct. 2021 (Proof for persons who can neither be vaccinated nor tested on medical grounds) ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)). Repealed by Annex No 2 of the O of 3 Nov. 2021, with effect from 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^3-4]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 24 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 
 ## Section 2 Measures involving Persons
 
@@ -596,6 +595,15 @@ Authorisations for pilot projects that have been granted on the basis of Article
 
 [^32-1]: [AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)
 
+#### Art. 32a
+
+**Transitional provision to the Amendment of 3 November 2021**[^32a-1]
+
+Until 31 December 2021, documentary proof that a person can neither be vaccinated nor tested on medical grounds is deemed equivalent to a certificate under paragraph 1. As proof, a medical certificate from a doctor who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^32a-2] is required
+
+[^32a-1]: Inserted by Annex No 2 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^32a-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+
 #### Art. 33
 
 **Commencement and duration**
@@ -608,7 +616,7 @@ Annex 1*[^t-1]*
 
 ## Requirements for precautionary measures plans
 
-[^t-1]: Revised by No II of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force until 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) and of 1 Oct. 2021 (Proof for persons who can neither be vaccinated nor tested on medical grounds), in force since 4 Oct. 2021 ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^t-1]: Revised by No II of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force until 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), of 1 Oct. 2021 (Proof for persons who can neither be vaccinated nor tested on medical grounds) ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)) and Annex No 2 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Precautionary measures plans for publicly accessible establishments and businesses and for events to which entry for persons aged 16 and over is not restricted to those with a certificate
 
@@ -665,7 +673,7 @@ Annex 1*[^t-1]*
 
 The precautionary measures plan shall include measures related to:
 
-- a. the orderly and uninterrupted conduct of entry checks, including the training of staff;
+- a. the orderly and uninterrupted conduct of entry checks, including the training of staff and the electronic verification of certificates with the verification app pursuant to Article 29 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex1-lvlu1-lvl2-1] or a different app that can verify certificates with data minimisation pursuant to Article 28 of the COVID-19 Ordinance on Certificates and that complies with the principles set out in Article 29 paragraph 2 letters a and b of the COVID-19 Ordinance on Certificates;
 - a<sup>bis</sup>. checking the identity of persons during entry checks pursuant to letter a; suitable photo ID must be shown;
 - a<sup>ter</sup>.
 
@@ -680,13 +688,15 @@ The precautionary measures plan shall include measures related to:
 - d. a requirement to wear a face mask for staff and other persons working at the event who come into contact with visitors on the premises.
 - e. the presence of persons with a medical certificate pursuant to Article 3 paragraph 2<sup>bis</sup>, such as the requirement for these persons to wear a face mask or, if they also have a medical certificate exempting them from wearing a face mask pursuant to Article 5 paragraph 1 letter b, rules on maintaining the required distance.
 
+[^annex1-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
 Annex 2*[^t-2]*
 
 (Art. 6 para. 5 and 6, 7 para. 2 and 3 and 29)
 
 ## Requirements for an exemption from the requirement to wear a mask and from contact quarantine for persons who have been vaccinated or who have recovered
 
-[^t-2]: Revised by No II of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force until 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) and Annex No 4 of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-2]: Revised by Annex No 4 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) and Annex No 2 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Persons who have been vaccinated
 
@@ -699,11 +709,16 @@ Annex 2*[^t-2]*
   - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered;
   - d. has been shown to have the same composition as a vaccine licensed under letters a, b or c, but marketed by the licence holder under another name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
-- 1\.2 The period during which vaccinated residents of socio-medical institutions are exempt from the requirement to wear a mask (Art. 6 para. 5) and persons who have been vaccinated are exempt from contact quarantine (Art. 7 para. 2 let. a) shall amount to 12 months from the date of vaccination in full; the Janssen vaccine is regarded as being effective for 12 months from the 22nd day after it was administered in full.
+- 1\.2 The period during which vaccinated residents of socio-medical institutions are exempt from the requirement to wear a mask (Art. 6 para. 5) and persons who have been vaccinated are exempt from contact quarantine (Art. 7 para. 2 let. a) shall amount to 365 days from the date of vaccination in full; the Janssen Ad26.COV2.S / COVID-19 vaccine is regarded as being effective for 365 days from the 22nd day after it was administered in full.
 
 ### 2 Persons who have recovered
 
-The period during which residents of socio-medical institutions who have recovered are exempt from the requirement to wear a mask (Art. 6 para. 5 let. b) and persons who have recovered are exempt from contact quarantine (Art. 7 para. 2 let. b), begins on the 11th day following confirmation of the infection and continues for 6 months from the date the infection was confirmed.
+Residents of socio-medical institutions who have recovered are exempt from the requirement to wear a mask (Art. 6 para. 5 let. b) and persons who have recovered are exempt from contact quarantine (Art. 7 para. 2 let. b) for the following periods:
+
+- a. when based on a molecular-biological analysis for Sars-CoV-2: for 365 days from the eleventh day after confirmation of infection;
+- b. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex2-lvlu1-lvl2-1]: for the term of validity of the certificate concerned.
+
+[^annex2-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Annex 3
 

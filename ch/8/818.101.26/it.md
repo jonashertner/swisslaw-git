@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: it
-version: 2021-10-25
+version: 2021-11-16
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211025/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211025-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211025/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211116/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211116-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211116/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211025/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 23 giugno 2021 (Stato 25 ottobre 2021)
+del 23 giugno 2021 (Stato 16 novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -57,13 +57,13 @@ Sono considerate persone con un certificato ai sensi della presente ordinanza le
 
 <sup>2</sup> ...[^3-2]
 
-<sup>2bis</sup> Sono equiparati a un certificato secondo il capoverso 1 le attestazioni comprovanti che una persona non può essere vaccinata né testata per motivi medici. Per l’attestazione è necessario un attestato rilasciato da un medico abilitato all’esercizio della professione sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006<sup>2</sup> sulle professioni mediche.[^3-3]
+<sup>2bis</sup> ...[^3-3]
 
 <sup>3</sup> ...[^3-4]
 
 [^3-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^3-2]: Introdotto dal n. III dell’O del 17 set. 2021, in vigore dal 20 set. 2021 al 24 ott. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
-[^3-3]: Introdotto dal n. I dell’O del 1° ott. 2021 (Attestazioni per le persone che non possono essere vaccinate né testate per motivi medici), in vigore dal 4 ott. 2021 ([RU 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^3-3]: Introdotto dal n. I dell’O del 1° ott. 2021 (Attestazioni per le persone che non possono essere vaccinate né testate per motivi medici) ([RU 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)). Abrogato dall’all. n. 2 dell’O del 3 nov. 2021, con effetto dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^3-4]: Introdotto dal n. III dell’O del 17 set. 2021, in vigore dal 20 set. 2021 al 24 ott. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 
 ## Sezione 2: Provvedimenti nei confronti delle persone
@@ -591,6 +591,15 @@ Le autorizzazioni per progetti pilota rilasciate in virtù dell’articolo 6*b*<
 
 [^32-1]: [RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)
 
+#### Art. 32a
+
+**Disposizione transitoria della modifica del 3 novembre 2021**[^32a-1]
+
+Fino al 31 dicembre 2021, i documenti attestanti che una persona, per motivi medici, non può farsi vaccinare né testare sono equiparate ai certificati di cui all’articolo 3 capoverso 1. Per l’attestazione è richiesto un certificato rilasciato da un medico domiciliato in Svizzera autorizzato a esercitare sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006[^32a-2] sulle professioni mediche.
+
+[^32a-1]: Introdotto dall’all. n. 2 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^32a-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+
 #### Art. 33
 
 **Entrata in vigore**
@@ -603,7 +612,7 @@ Allegato 1*[^t-1]*
 
 ## Prescrizioni relative ai piani di protezione
 
-[^t-1]: Aggiornato dal n. II dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore fino al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) e dal n. II dell’O del 1° ott. 2021 (Attestazioni per le persone che non possono essere vaccinate né testate per motivi medici), in vigore dal 4 ott. 2021 ([RU 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^t-1]: Aggiornato dal n. II dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore fino al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), dal n. II dell’O del 1° ott. 2021 (Attestazioni per le persone che non possono essere vaccinate né testate per motivi medici) ([RU 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)) e dall’all. n. 2 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Piani di protezione per strutture accessibili al pubblico e manifestazioni per le quali l’accesso delle persone a partire dai 16 anni non è limitato alle persone con un certificato
 
@@ -658,8 +667,9 @@ Allegato 1*[^t-1]*
 
 ### 2 Piani di protezione per strutture accessibili al pubblico e manifestazioni per le quali l’accesso delle persone a partire dai 16 anni è limitato alle persone con un certificato
 
-- [tab] Il piano di protezione prevede misure per quanto riguarda:
-- a. l’esecuzione ordinata e capillare dei controlli all’ingresso, inclusa l’istruzione del personale;
+Il piano di protezione prevede misure per quanto riguarda:
+
+- a. l’esecuzione ordinata e capillare dei controlli all’ingresso, inclusa l’istruzione del personale e la verifica elettronica dei certificati con l’applicazione per la verifica di cui all’articolo 29 dell’ordinanza del 4 giugno 2021[^annex1-lvlu1-lvl2-1] sui certificati COVID-19 o un’altra applicazione che possa validare i certificati contenenti soltanto i dati strettamente necessari di cui all’articolo 28 dell’ordinanza sui certificati COVID-19 e corrisponda ai principi di cui all’articolo 29 capoverso 2 lettere a e b dell’ordinanza sui certificati COVID-19;
 - a<sup>bis</sup>. la verifica dell’identità di persone nel quadro dei controlli all’ingresso secondo la lettera a; questa deve avvenire mediante un documento d’identità appropriato con foto;
 - a<sup>ter</sup>.
 
@@ -672,7 +682,9 @@ Allegato 1*[^t-1]*
 - b. l’informazione di visitatori e partecipanti sulla necessità di presentare un certificato e sulle misure di igiene e di comportamento in vigore;
 - c. l’igiene, in particolare la messa a disposizione di disinfettanti, le pulizie periodiche, l’aerazione;
 - d. un eventuale obbligo per i lavoratori e per le altre persone che lavorano per la manifestazione che hanno contatti sul posto con i visitatori di portare una mascherina facciale;
-- e. la presenza di persone con un attestato secondo l’articolo 3 capoverso 2<sup>bis</sup>, ad esempio l’obbligo per queste persone di portare una mascherina facciale o, in caso di compresenza di un attestato per l’esonero dall’obbligo di portare una mascherina facciale secondo l’articolo 5 capoverso 1 lettera b, prescrizioni per il rispetto della distanza obbligatoria.
+- e. la presenza di persone con un attestato secondo l’articolo 3 capoverso 2bis, ad esempio l’obbligo per queste persone di portare una mascherina facciale o, in caso di compresenza di un attestato per l’esonero dall’obbligo di portare una mascherina facciale secondo l’articolo 5 capoverso 1 lettera b, prescrizioni per il rispetto della distanza obbligatoria.
+
+[^annex1-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Allegato 2*[^t-2]*
 
@@ -680,7 +692,7 @@ Allegato 2*[^t-2]*
 
 ## Prescrizioni relative all’esenzione delle persone vaccinate o guarite dall’obbligo della mascherina e della quarantena dei contatti
 
-[^t-2]: Aggiornato dal n. II dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore fino al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) e dall’all. n. 4 dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-2]: Aggiornato dall’all. n. 4 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dall’all. n. 2 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Persone vaccinate
 
@@ -694,11 +706,16 @@ Allegato 2*[^t-2]*
   - d. che presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo le lettere a, b o c, ma è immesso in commercio da un licenziatario con un altro nome, a condizione che la vaccinazione sia avvenuta in modo completo conformemente ai requisiti o alle raccomandazioni dello Stato in cui è stata effettuata;
   - e. la presenza di persone con un attestato secondo l’articolo 3 capoverso 2<sup>bis</sup>, ad esempio l’obbligo per queste persone di portare una mascherina facciale o, in caso di compresenza di un attestato per l’esonero dall’obbligo di portare una mascherina facciale secondo l’articolo 5 capoverso 1 lettera b, prescrizioni per il rispetto della distanza obbligatoria.
 
-- 1\.2 Il lasso di tempo durante il quale gli ospiti vaccinati di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. a) e le persone vaccinate sono esentate dall’obbligo della quarantena dei contatti dopo la vaccinazione (art. 7 cpv. 2 lett. a) è di dodici mesi a partire dal completamento della vaccinazione; per il vaccino di Janssen la durata è di dodici mesi a partire dal ventiduesimo giorno dopo la vaccinazione.
+- 1\.2 Il lasso di tempo durante il quale gli ospiti vaccinati di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. a) e le persone vaccinate sono esentate dall’obbligo della quarantena dei contatti dopo la vaccinazione (art. 7 cpv. 2 lett. a) è di 365 giorni a partire dal completamento della vaccinazione; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen la durata è di 365 giorni a partire dal 22° giorno dopo la vaccinazione.
 
 ### 2 Persone guarite
 
-Il lasso di tempo durante il quale gli ospiti guariti di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. b) e le persone guarite sono esentate dall’obbligo della quarantena dei contatti (art. 7 cpv. 2 lett. b) inizia l’undicesimo giorno dopo la conferma del contagio e dura sei mesi dalla conferma del contagio.
+Durante il seguente lasso di tempo gli ospiti guariti di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. b) e le persone guarite sono esentate dall’obbligo della quarantena dei contatti (art. 7 cpv. 2 lett. b):
+
+- a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: dall’11° al 365° giorno dalla conferma del contagio;
+- b. in caso di analisi per gli anticorpi contro il SARS-CoV-2 di cui all’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 2021[^annex2-lvlu1-lvl2-1] sui certificati COVID-19: per la durata di validità del relativo certificato.
+
+[^annex2-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Allegato 3
 
