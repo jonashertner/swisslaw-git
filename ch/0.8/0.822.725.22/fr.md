@@ -4,11 +4,11 @@ title: "Accord européen du 1<sup>er</sup> juillet 1970 relatif au travail des �
 short: AETR
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/268"
 language: fr
-version: 2020-01-08
+version: 2021-11-16
 adopted: 1970-07-01
 in_force: 2000-10-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/fedlex-data-admin-ch-eli-cc-2003-268-20200108-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/268/20200108/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/fedlex-data-admin-ch-eli-cc-2003-268-20211116-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/268/20211116/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument de ratification déposé par la Suisse le 7 avril 2000
 
 Entré en vigueur pour la Suisse le 4 octobre 2000
 
-(Etat le 8 janvier 2020)
+(Etat le 16 novembre 2021)
 
 [^t-1]: [RO 2003 1764](https://fedlex.data.admin.ch/eli/oc/2003/267)
 
@@ -52,7 +52,7 @@ Au sens du présent Accord, on entend:
 - c) par «remorque», tout véhicule destiné à être attelé à une automobile; ce terme englobe les semi-remorques;
 - d) par «semi-remorque», toute remorque destinée à être accouplée à une automobile de telle manière qu’elle repose en partie sur celle-ci et qu’une partie appréciable de son poids et du poids de son chargement soit supportée par ladite automobile;
 - e) par «ensemble de véhicules», des véhicules couplés qui participent à la circulation routière comme une unité;
-- f)[^1-1] par «masse maximale autorisée», la masse maximale du véhicule chargé, déclarée admissible par l’autorité compétente de l’Etat dans lequel le véhicule est immatriculé;
+- f)[^1-1] par «masse maximale autorisée», la masse maximale du véhicule chargé, déclarée admissible par l’autorité compétente de l’État dans lequel le véhicule est immatriculé;
 - g)[^1-2] par «transport par route», tout déplacement effectué, en totalité ou en partie et à vide ou en charge sur le réseau routier ouvert au public, par un véhicule utilisé pour le transport de voyageurs ou de marchandises;
 - h) par «transport international par route», tout transport par route qui comporte la traversée d’au moins une frontière;
 - i) par «services réguliers», les services qui assurent le transport de personnes effectué selon une fréquence et sur des itinéraires déterminés, ces services pouvant prendre et déposer des personnes à des arrêts préalablement fixés. Un règlement d’exploitation ou des documents en tenant lieu, approuvés par les pouvoirs publics compétents des Parties contractantes et publiés par le transporteur avant mise en application, définissent les conditions de transport, notamment la fréquence, les horaires, les tarifs et l’obligation de transporter, dans la mesure où ces conditions ne se trouvent pas précisées par un texte légal ou réglementaire. Quel que soit l’organisateur des transports, sont également considérés comme services réguliers ceux qui assurent le transport de catégories déterminées de personnes à l’exclusion d’autres voyageurs, dans la mesure où ces services sont effectués aux conditions indiquées à l’al. 1 de la présente définition. Les services de cette catégorie, notamment ceux qui assurent le transport des travailleurs au lieu de travail et de celui-ci vers leur domicile ou le transport des écoliers aux établissements d’enseignement et de ceux-ci vers leur domicile, sont dénommés ci-après «services réguliers spéciaux»;
@@ -130,12 +130,12 @@ Toutefois, sauf convention contraire intervenue entre les Parties contractantes 
 
 #### Art. 3
 
-**Application de certaines dispositions de l’Accord aux transports par route effectués par des véhicules en provenance d’Etats non Parties contractantes**
+**Application de certaines dispositions de l’Accord aux transports par route effectués par des véhicules en provenance d’États non Parties contractantes**
 
-<sup>1.</sup> Chaque Partie contractante appliquera sur son territoire aux transports internationaux par route effectués par tout véhicule immatriculé sur le territoire d’un Etat non Partie contractante au présent Accord des dispositions au moins aussi exigeantes que celles qui sont prévues par les art. 5 à 10 du présent Accord.
+<sup>1.</sup> Chaque Partie contractante appliquera sur son territoire aux transports internationaux par route effectués par tout véhicule immatriculé sur le territoire d’un État non Partie contractante au présent Accord des dispositions au moins aussi exigeantes que celles qui sont prévues par les art. 5 à 10 du présent Accord.
 
 - 2\. a) Toutefois, toute Partie contractante pourra, dans le cas d’un véhicule immatriculé dans un État non Partie contractante au présent Accord, n’exiger, au lieu de l’appareil de contrôle conforme aux spécifications de l’annexe au présent Accord, que des feuilles d’enregistrement quotidien remplies à la main par chaque membre d’équipage pour la période de temps écoulée à partir de son entrée sur le territoire de la première Partie contractante.
-- b) A cette fin, chaque membre d’équipage inscrira, sur sa feuille d’enregistrement, les indications se rapportant à ses périodes d’activités professionnelles et de repos, en utilisant les symboles graphiques appropriés tels que définis à l’art. 12 de l’Annexe au présent Accord.[^3-1]
+- b) À cette fin, chaque membre d’équipage inscrira, sur sa feuille d’enregistrement, les indications se rapportant à ses périodes d’activités professionnelles et de repos, en utilisant les symboles graphiques appropriés tels que définis à l’art. 12 de l’Annexe au présent Accord.[^3-1]
 
 [^3-1]: Nouvelle teneur selon la mod. du 20 sept. 2010 , en vigueur pour la Suisse depuis le 20 sept. 2010 ([RO 2010 5727](https://fedlex.data.admin.ch/eli/oc/2010/810)).
 
@@ -143,11 +143,11 @@ Toutefois, sauf convention contraire intervenue entre les Parties contractantes 
 
 **Principes généraux**
 
-Chaque Partie contractante peut appliquer des minima plus élevés ou des maxima plus faibles que ceux prévus aux art. 5 à 8 compris. Les dispositions du présent Accord restent cependant applicables aux conducteurs effectuant des opérations de transport internationales sur des véhicules immatriculés dans un autre Etat contractant ou non contractant.
+Chaque Partie contractante peut appliquer des minima plus élevés ou des maxima plus faibles que ceux prévus aux art. 5 à 8 compris. Les dispositions du présent Accord restent cependant applicables aux conducteurs effectuant des opérations de transport internationales sur des véhicules immatriculés dans un autre État contractant ou non contractant.
 
 #### Art. 5
 
-**Equipages**
+**Équipages**
 
 <sup>1.</sup>
 
@@ -274,7 +274,7 @@ Par dérogation à l’art. 8, lorsqu’un conducteur accompagne un véhicule qu
 
 **Dérogations**
 
-A condition de ne pas compromettre la sécurité routière et afin de lui permettre d’atteindre un point d’arrêt approprié, le conducteur peut déroger au présent Accord dans la mesure nécessaire pour assurer la sécurité des personnes, du véhicule ou de son chargement. Le conducteur doit mentionner le genre et le motif de la dérogation sur la feuille d’enregistrement ou sur une sortie imprimée de l’appareil de contrôle ou dans le registre de service, au plus tard à son arrivée au point d’arrêt approprié.[^9-1]
+À condition de ne pas compromettre la sécurité routière et afin de lui permettre d’atteindre un point d’arrêt approprié, le conducteur peut déroger au présent Accord dans la mesure nécessaire pour assurer la sécurité des personnes, du véhicule ou de son chargement. Le conducteur doit mentionner le genre et le motif de la dérogation sur la feuille d’enregistrement ou sur une sortie imprimée de l’appareil de contrôle ou dans le registre de service, au plus tard à son arrivée au point d’arrêt approprié.[^9-1]
 
 [^9-1]: Nouvelle teneur de la dernière phrase selon la mod. du 20 sept. 2010 , en vigueur pour la Suisse depuis le 20 sept. 2010 ([RO 2010 5727](https://fedlex.data.admin.ch/eli/oc/2010/810)).
 
@@ -322,7 +322,7 @@ Sans préjudice du droit des Parties contractantes de tenir les entreprises de t
   Les administrations compétentes des Parties contractantes doivent organiser les contrôles de manière à ce que:
 
   - i) au cours d’une année civile, 1 % au moins des jours de travail effectués par les conducteurs de véhicules auxquels s’applique le présent Accord soit contrôlé; à partir du 1<sup>er</sup> janvier 2010, ce pourcentage sera d’au moins 2 % et à partir du 1<sup>er</sup> janvier 2012 d’au moins 3 %;
-  - ii) au moins 15 % du nombre total des jours ouvrés contrôlés le sont sur la route et au moins 25 % dans les locaux des entreprises. A partir du 1<sup>er</sup> janvier 2010 au moins 30 % du nombre total des jours ouvrés contrôlés le seront sur la route et au moins 50 % dans les locaux des entreprises.[^12-2]
+  - ii) au moins 15 % du nombre total des jours ouvrés contrôlés le sont sur la route et au moins 25 % dans les locaux des entreprises. À partir du 1<sup>er</sup> janvier 2010 au moins 30 % du nombre total des jours ouvrés contrôlés le seront sur la route et au moins 50 % dans les locaux des entreprises.[^12-2]
 
 - b)
 
@@ -353,9 +353,9 @@ Dans le cadre d’une assistance mutuelle, les autorités compétentes des Parti
 
 <sup>4.</sup> Les Parties contractantes coopèrent à l’organisation de contrôles concertés sur les routes.
 
-<sup>5.</sup> Tous les deux ans, la Commission Economique pour l’Europe des Nations Unies publie un rapport sur l’application, par les Parties contractantes, du par. 1 du présent article.
+<sup>5.</sup> Tous les deux ans, la Commission Économique pour l’Europe des Nations Unies publie un rapport sur l’application, par les Parties contractantes, du par. 1 du présent article.
 
-A titre d’exception, lorsqu’il est constaté une infraction qui a été commise par une entreprise sise dans une autre Partie contractante ou dans un pays non Partie contractante, la sanction sera infligée conformément à la procédure prévue dans l’accord bilatéral de transport routier conclu entre les Parties en cause.
+À titre d’exception, lorsqu’il est constaté une infraction qui a été commise par une entreprise sise dans une autre Partie contractante ou dans un pays non Partie contractante, la sanction sera infligée conformément à la procédure prévue dans l’accord bilatéral de transport routier conclu entre les Parties en cause.
 
 Les Parties contractantes examineront, à compter de 2011, l’éventualité de supprimer l’exception prévue au par. 6 b), à condition qu’elles le souhaitent toutes.
 
@@ -382,7 +382,7 @@ Les Parties contractantes examineront, à compter de 2011, l’éventualité de 
 
 <sup>2.</sup> Les formulaires figurant dans l’Appendice 3 n’ont aucun caractère obligatoire. Toutefois, s’ils sont utilisés, ils devront respecter le contenu tel que défini, notamment en ce qui concerne la numérotation, l’ordre et l’intitulé des rubriques.
 
-<sup>3.</sup> Les Parties contractantes peuvent compléter ces données par d’autres informations afin de répondre à des exigences nationales ou régionales. Ces informations additionnelles ne pourront en aucun cas être exigées pour les transports provenant d’une autre Partie contractante ou d’un pays tiers. A cette fin, elles devront figurer sur le formulaire de manière totalement séparée des données définies pour la circulation internationale.
+<sup>3.</sup> Les Parties contractantes peuvent compléter ces données par d’autres informations afin de répondre à des exigences nationales ou régionales. Ces informations additionnelles ne pourront en aucun cas être exigées pour les transports provenant d’une autre Partie contractante ou d’un pays tiers. À cette fin, elles devront figurer sur le formulaire de manière totalement séparée des données définies pour la circulation internationale.
 
 <sup>4.</sup> Ces formulaires devront être acceptés en cas de présentation lors d’un contrôle routier effectué sur le territoire des Parties contractantes au présent Accord.
 
@@ -397,11 +397,11 @@ Les Parties contractantes examineront, à compter de 2011, l’éventualité de 
 - 2\. a) Les Parties contractantes prennent les mesures nécessaires pour pouvoir délivrer les cartes de conducteur visées dans l’annexe au présent Accord, telle qu’amendée, au plus tard trois mois avant la date d’expiration du délai de quatre ans, visé au par. 1. Ce délai minimum de trois mois doit aussi être observé en cas de mise en œuvre par une Partie contractante des dispositions relatives à l’appareil de contrôle numérique conformément à l’appendice 1B de la présente annexe, avant l’expiration du délai de quatre ans. Ladite Partie contractante doit informer le secrétariat du Groupe de travail des transports routiers de la Commission économique pour l’Europe de la progression de la mise en œuvre de l’appareil de contrôle numérique conformément à l’appendice 1B de la présente annexe sur son territoire;
 - b) Dans l’attente de la délivrance par les Parties contractantes des cartes visées à l’al. a), les dispositions de l’art. 14 de l’annexe au présent Accord sont applicables aux conducteurs qui pourraient être amenés à conduire des véhicules équipés d’un appareil de contrôle numérique conforme à l’appendice 1B de la présente annexe.
 
-<sup>3.</sup> Tout instrument de ratification ou d’adhésion déposé par un Etat après la date d’entrée en vigueur du présent amendement, sera réputé s’appliquer à l’Accord tel qu’amendé, y compris le délai d’application défini au par. 1.
+<sup>3.</sup> Tout instrument de ratification ou d’adhésion déposé par un État après la date d’entrée en vigueur du présent amendement, sera réputé s’appliquer à l’Accord tel qu’amendé, y compris le délai d’application défini au par. 1.
 
-Si cette adhésion intervient moins de deux ans avant l’expiration du délai visé au par. 1, l’Etat, lors du dépôt de son instrument de ratification ou d’adhésion, informera le dépositaire de la date à laquelle l’appareil de contrôle numérique sera effectif sur son territoire. Cet Etat peut se prévaloir d’une période transitoire ne pouvant excéder deux ans à partir de la date d’entrée en vigueur de l’Accord à l’égard de cet Etat. Le dépositaire en informera alors toutes les Parties contractantes.
+Si cette adhésion intervient moins de deux ans avant l’expiration du délai visé au par. 1, l’État, lors du dépôt de son instrument de ratification ou d’adhésion, informera le dépositaire de la date à laquelle l’appareil de contrôle numérique sera effectif sur son territoire. Cet État peut se prévaloir d’une période transitoire ne pouvant excéder deux ans à partir de la date d’entrée en vigueur de l’Accord à l’égard de cet État. Le dépositaire en informera alors toutes les Parties contractantes.
 
-Les dispositions de l’alinéa précédent s’appliquent également en cas d’adhésion d’un Etat après l’expiration du délai d’application de quatre ans visé au par. 1.
+Les dispositions de l’alinéa précédent s’appliquent également en cas d’adhésion d’un État après l’expiration du délai d’application de quatre ans visé au par. 1.
 
 [^13-1]: Nouvelle teneur selon les mod. des 27 fév. 2004/16 juin 2006, en vigueur depuis le 16 juin 2006 ([RO 2007 2209](https://fedlex.data.admin.ch/eli/oc/2007/310)).
 
@@ -425,7 +425,7 @@ Les dispositions contenues à la fin des par. 7 a) et 7 b) de l’art. 12 de l�
 
 <sup>4.</sup> Le présent Accord entrera en vigueur le cent quatre-vingtième jour après le dépôt du huitième instrument de ratification ou d’adhésion.
 
-<sup>5.</sup> Pour chaque Etat qui ratifiera le présent Accord ou y adhérera après le dépôt du huitième instrument de ratification ou d’adhésion visé au par. 4 du présent article, le présent Accord entrera en vigueur 180 jours après la date du dépôt, par cet Etat, de son instrument de ratification ou d’adhésion.
+<sup>5.</sup> Pour chaque État qui ratifiera le présent Accord ou y adhérera après le dépôt du huitième instrument de ratification ou d’adhésion visé au par. 4 du présent article, le présent Accord entrera en vigueur 180 jours après la date du dépôt, par cet État, de son instrument de ratification ou d’adhésion.
 
 [^14-1]: Nouvelle teneur selon la mod. du 18 oct. 2017, en vigueur pour la Suisse depuis le 8 janv. 2020 ([RO 2020 349](https://fedlex.data.admin.ch/eli/oc/2020/56)).
 
@@ -441,9 +441,9 @@ Le présent Accord cessera de produire ses effets si, après son entrée en vigu
 
 #### Art. 17
 
-<sup>1.</sup> Tout Etat pourra, lorsqu’il signera le présent Accord ou lors du dépôt de son instrument de ratification ou d’adhésion ou à tout moment ultérieur, déclarer, par notification adressée au Secrétaire général de l’Organisation des Nations Unies, que la validité du présent Accord sera étendue à tout ou partie des territoires qu’il représente sur le plan international. Le présent Accord s’appliquera au territoire ou aux territoires mentionnés dans la notification à dater du cent quatre-vingtième jour après réception de cette notification par le Secrétaire général ou, si à ce jour le présent Accord n’est pas encore entré en vigueur, à dater de son entrée en vigueur.
+<sup>1.</sup> Tout État pourra, lorsqu’il signera le présent Accord ou lors du dépôt de son instrument de ratification ou d’adhésion ou à tout moment ultérieur, déclarer, par notification adressée au Secrétaire général de l’Organisation des Nations Unies, que la validité du présent Accord sera étendue à tout ou partie des territoires qu’il représente sur le plan international. Le présent Accord s’appliquera au territoire ou aux territoires mentionnés dans la notification à dater du cent quatre-vingtième jour après réception de cette notification par le Secrétaire général ou, si à ce jour le présent Accord n’est pas encore entré en vigueur, à dater de son entrée en vigueur.
 
-<sup>2.</sup> Tout Etat qui aura fait, conformément au paragraphe précédent, une déclaration ayant pour effet de rendre le présent Accord applicable à un territoire qu’il représente sur le plan international pourra, conformément à l’art. 15 du présent Accord, dénoncer le présent Accord en ce qui concerne ledit territoire.
+<sup>2.</sup> Tout État qui aura fait, conformément au paragraphe précédent, une déclaration ayant pour effet de rendre le présent Accord applicable à un territoire qu’il représente sur le plan international pourra, conformément à l’art. 15 du présent Accord, dénoncer le présent Accord en ce qui concerne ledit territoire.
 
 #### Art. 18
 
@@ -455,9 +455,9 @@ Le présent Accord cessera de produire ses effets si, après son entrée en vigu
 
 #### Art. 19
 
-<sup>1.</sup> Tout Etat pourra, au moment où il signera ou ratifiera le présent Accord ou y adhérera, déclarer qu’il ne se considère pas lié par les par. 2 et 3 de l’art. 18 du présent Accord. Les autres Parties contractantes ne seront pas liées par ces paragraphes envers toute Partie contractante qui aura formulé une telle réserve.
+<sup>1.</sup> Tout État pourra, au moment où il signera ou ratifiera le présent Accord ou y adhérera, déclarer qu’il ne se considère pas lié par les par. 2 et 3 de l’art. 18 du présent Accord. Les autres Parties contractantes ne seront pas liées par ces paragraphes envers toute Partie contractante qui aura formulé une telle réserve.
 
-<sup>2.</sup> Si, lors du dépôt de son instrument de ratification ou d’adhésion, un Etat formule une réserve autre que celle prévue au par. 1 du présent article, le Secrétaire général de l’Organisation des Nations Unies communiquera cette réserve aux Etats qui ont déjà déposé leur instrument de ratification ou d’adhésion et n’ont pas ultérieurement dénoncé le présent Accord. La réserve sera réputée acceptée si, dans le délai de six mois à dater de cette communication, aucun de ces Etats ne s’est opposé à son admission. Dans le cas contraire, la réserve ne sera pas admise et, si l’Etat qui l’a formulée ne la retire pas, le dépôt de l’instrument de ratification ou d’adhésion de cet Etat sera sans effet. Pour l’application du présent paragraphe il ne sera pas tenu compte de l’opposition des Etats dont l’adhésion ou la ratification serait sans effet, en vertu du présent paragraphe, du fait des réserves qu’ils auraient formulées.
+<sup>2.</sup> Si, lors du dépôt de son instrument de ratification ou d’adhésion, un État formule une réserve autre que celle prévue au par. 1 du présent article, le Secrétaire général de l’Organisation des Nations Unies communiquera cette réserve aux États qui ont déjà déposé leur instrument de ratification ou d’adhésion et n’ont pas ultérieurement dénoncé le présent Accord. La réserve sera réputée acceptée si, dans le délai de six mois à dater de cette communication, aucun de ces États ne s’est opposé à son admission. Dans le cas contraire, la réserve ne sera pas admise et, si l’État qui l’a formulée ne la retire pas, le dépôt de l’instrument de ratification ou d’adhésion de cet État sera sans effet. Pour l’application du présent paragraphe il ne sera pas tenu compte de l’opposition des États dont l’adhésion ou la ratification serait sans effet, en vertu du présent paragraphe, du fait des réserves qu’ils auraient formulées.
 
 <sup>3.</sup> Toute Partie contractante dont la réserve aura été adoptée dans le Protocole de signature du présent Accord ou qui aura formulé une réserve conformément au par. 1 du présent article ou fait une réserve qui aura été acceptée conformément au par. 2 du présent article pourra, à tout moment, lever cette réserve par une notification adressée au Secrétaire général.
 
@@ -467,18 +467,18 @@ Le présent Accord cessera de produire ses effets si, après son entrée en vigu
 
 <sup>2.</sup> Si une conférence est convoquée conformément au paragraphe précédent, le Secrétaire général en avisera toutes les Parties contractantes et les invitera à présenter, dans un délai de trois mois, les propositions qu’elles souhaiteraient voir examiner par la conférence. Le Secrétaire général communiquera à toutes les Parties contractantes l’ordre du jour provisoire de la conférence, ainsi que le texte de ces propositions, trois mois au moins avant la date d’ouverture de la conférence.
 
-<sup>3.</sup> Le Secrétaire général invitera à toute conférence convoquée conformément au présent article tous les Etats visés au par. 1 de l’art. 14 du présent Accord.
+<sup>3.</sup> Le Secrétaire général invitera à toute conférence convoquée conformément au présent article tous les États visés au par. 1 de l’art. 14 du présent Accord.
 
 #### Art. 21
 
-<sup>1.</sup> Toute Partie contractante pourra proposer un ou plusieurs amendements au présent Accord. Le texte de tout projet d’amendement sera communiqué au Secrétaire général de l’Organisation des Nations Unies qui le communiquera à toutes les Parties contractantes et le portera à la connaissance des autres Etats visés au par. 1 de l’art. 14 du présent Accord.
+<sup>1.</sup> Toute Partie contractante pourra proposer un ou plusieurs amendements au présent Accord. Le texte de tout projet d’amendement sera communiqué au Secrétaire général de l’Organisation des Nations Unies qui le communiquera à toutes les Parties contractantes et le portera à la connaissance des autres États visés au par. 1 de l’art. 14 du présent Accord.
 
 <sup>2.</sup>
 
 Dans un délai de six mois à compter de la date de la communication par le Secrétaire général du projet d’amendement, toute Partie contractante peut faire connaître au Secrétaire général:
 
 - a) Soit qu’elle a une objection à l’amendement proposé;
-- b) Soit que, bien qu’elle ait l’intention d’accepter le projet, les conditions nécessaires à cette acceptation ne se trouvent pas encore remplies dans son Etat.
+- b) Soit que, bien qu’elle ait l’intention d’accepter le projet, les conditions nécessaires à cette acceptation ne se trouvent pas encore remplies dans son État.
 
 <sup>3.</sup> Tant qu’une Partie contractante qui a adressé la communication prévue au par. 2*b*) du présent article n’aura pas notifié au Secrétaire général son acceptation, elle pourra, pendant un délai de neuf mois à partir de l’expiration du délai de six mois prévu pour la communication, présenter une objection à l’amendement proposé.
 
@@ -486,7 +486,7 @@ Dans un délai de six mois à compter de la date de la communication par le Secr
 
 <sup>5.</sup> 5<sup>bis</sup>. Au cas où un pays serait devenu Partie contractante à cet accord entre le moment de la notification d’un projet d’amendement et le moment où il aura été réputé accepté, le secrétariat du Groupe de travail des transports routiers de la Commission économique pour l’Europe notifiera le plus tôt possible l’amendement
 
-proposé au nouvel Etat partie. Ce dernier peut faire part de son objection éventuelle au Secrétaire général avant l’expiration du délai de six mois à compter de la date de circulation de la communication d’amendement originale à toutes les Parties contractantes.[^21-1]
+proposé au nouvel État partie. Ce dernier peut faire part de son objection éventuelle au Secrétaire général avant l’expiration du délai de six mois à compter de la date de circulation de la communication d’amendement originale à toutes les Parties contractantes.[^21-1]
 
 Si aucune objection n’a été formulée au projet d’amendement dans les conditions prévues aux par. 2 et 3 du présent article, l’amendement sera réputé accepté à la date suivante:
 
@@ -510,13 +510,13 @@ Si aucune objection n’a été formulée au projet d’amendement dans les cond
 
 <sup>1.</sup> Les appendices 1 et 2 à l’annexe du présent Accord pourront être amendés suivant la procédure définie dans le présent article.
 
-<sup>2.</sup> A la demande d’une Partie contractante, tout amendement des appendices 1 et 2 à l’annexe du présent Accord proposé par cette Partie sera examiné par le Groupe de travail principal des transports routiers de la Commission économique pour l’Europe.
+<sup>2.</sup> À la demande d’une Partie contractante, tout amendement des appendices 1 et 2 à l’annexe du présent Accord proposé par cette Partie sera examiné par le Groupe de travail principal des transports routiers de la Commission économique pour l’Europe.
 
 <sup>3.</sup> S’il est adopté à la majorité des membres présents et votants, et si cette majorité comprend la majorité des Parties contractantes présentes et votantes, l’amendement sera communiqué pour acceptation aux administrations compétentes de toutes les Parties contractantes par le Secrétaire général.
 
 <sup>4.</sup> L’amendement sera accepté si, dans le délai de six mois suivant la date de cette communication, moins du tiers des administrations compétentes des Parties contractantes notifie au Secrétaire général leur objection à l’amendement.
 
-4<sup>bis</sup>. Au cas où un pays serait devenu Partie à cet accord entre le moment de la notification d’un projet d’amendement et le moment où il aura été réputé accepté, le secrétariat du Groupe de travail des transports routiers de la Commission économique pour l’Europenotifiera le plus tôt possible l’amendement proposé au nouvel Etat partie. Ce dernier peut faire part de son objection éventuelle au Secrétaire général avant l’expiration du délai de six mois à compter de la date de circulation de la communication d’amendement originale à toutes les Parties contractantes.[^22-1]
+4<sup>bis</sup>. Au cas où un pays serait devenu Partie à cet accord entre le moment de la notification d’un projet d’amendement et le moment où il aura été réputé accepté, le secrétariat du Groupe de travail des transports routiers de la Commission économique pour l’Europenotifiera le plus tôt possible l’amendement proposé au nouvel État partie. Ce dernier peut faire part de son objection éventuelle au Secrétaire général avant l’expiration du délai de six mois à compter de la date de circulation de la communication d’amendement originale à toutes les Parties contractantes.[^22-1]
 
 <sup>5.</sup> Tout amendement accepté sera communiqué par le Secrétaire général à toutes les Parties contractantes et entrera en vigueur trois mois après la date de cette notification.
 
@@ -558,7 +558,7 @@ Le secrétariat de la Commission économique pour l’Europe des Nations Unies i
 
 #### Art. 23
 
-Outre les notifications prévues aux art. 20 et 21 du présent Accord, le Secrétaire général de l’Organisation des Nations Unies notifiera aux Etats visés au par. 1 de l’art. 14 du présent Accord:
+Outre les notifications prévues aux art. 20 et 21 du présent Accord, le Secrétaire général de l’Organisation des Nations Unies notifiera aux États visés au par. 1 de l’art. 14 du présent Accord:
 
 - a) les ratifications et adhésions en vertu de l’art. 14 du présent Accord;
 - b) les dates auxquelles le présent Accord entrera en vigueur conformément à l’art. 14 du présent Accord;
@@ -574,7 +574,7 @@ Le Protocole de signature du présent Accord aura les mêmes force, valeur et du
 
 #### Art. 25
 
-Après le 31 mars 1971 l’original du présent Accord sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à chacun des Etats visés au par. 1 de l’art. 14 du présent Accord.
+Après le 31 mars 1971 l’original du présent Accord sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à chacun des États visés au par. 1 de l’art. 14 du présent Accord.
 
 *En foi de quoi*, les soussignés, à ce dûment autorisés, ont signé le présent Accord. Fait à Genève, le 1<sup>er</sup> juillet 1970, en un seul exemplaire, en langues anglaise et française, les deux textes faisant également foi. (Suivent les signatures)
 
@@ -735,19 +735,19 @@ Les conducteurs:
 - – Veillent à la concordance entre le marquage horaire sur la feuille et l’heure légale du pays d’immatriculation du véhicule;
 - – Actionnent les dispositifs de commutation permettant d’enregistrer séparément et distinctement les périodes de temps suivantes:
 
-(a) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image1.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image2.png)</sub><sup><sup>\*</sup></sup>: le temps de conduite; (b) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image3.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image4.png)</sub><sup><sup>\*</sup></sup>: tous les autres temps de travail; (c) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image5.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image6.png)</sub><sup><sup>\*</sup></sup>: les temps de disponibilité, à savoir:
+(a) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image1.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image2.png)</sub><sup><sup>\*</sup></sup>: le temps de conduite; (b) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image3.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image4.png)</sub><sup><sup>\*</sup></sup>: tous les autres temps de travail; (c) Sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image5.png)</sub> ou <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image6.png)</sub><sup><sup>\*</sup></sup>: les temps de disponibilité, à savoir:
 
 - – Le temps d’attente, c’est-à-dire la période pendant laquelle les conducteurs ne sont pas tenus de rester à leur poste de travail, sauf pour répondre à des appels éventuels afin de reprendre la conduite ou de faire d’autres travaux;
 - – Le temps passé à côté d’un conducteur pendant la marche du véhicule;
 - – Le temps passé sur une couchette pendant la marche du véhicule;
 
 <table>
-<tr><td>(d) Sous le signe</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image7.png)</sub></td><td>ou</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image8.png)</sub><sup><sup>\*</sup></sup>:</td><td>les interruptions de conduite et les périodes de repos journalier.</td></tr>
+<tr><td>(d) Sous le signe</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image7.png)</sub></td><td>ou</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image8.png)</sub><sup><sup>\*</sup></sup>:</td><td>les interruptions de conduite et les périodes de repos journalier.</td></tr>
 </table>
 
 - \* Symboles utilisés pour le tachygraphe numérique.
 
-<sup>4.</sup> Chaque Partie contractante peut permettre, pour les feuilles d’enregistrement utilisées sur les véhicules immatriculés sur son territoire, que les périodes de temps visées au par. 3 second tiret, points b) et c) du présent article soient toutes enregistrées sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image9.png)</sub>.
+<sup>4.</sup> Chaque Partie contractante peut permettre, pour les feuilles d’enregistrement utilisées sur les véhicules immatriculés sur son territoire, que les périodes de temps visées au par. 3 second tiret, points b) et c) du présent article soient toutes enregistrées sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image9.png)</sub>.
 
 <sup>5.</sup> 5<sup>bis</sup>. Le conducteur introduit dans l’appareil de contrôle conforme à l’appendice 1B le symbole du pays où il commence et celui du pays où il finit sa période de travail journalière.
 
@@ -777,10 +777,10 @@ Les appareils doivent en outre être conçus de manière à permettre de vérifi
   Lorsque le conducteur conduit un véhicule équipé d’un appareil de contrôle conforme à l’appendice 1, il doit être en mesure de présenter, à toute demande des agents de contrôle:
 
   - i) les feuilles d’enregistrement de la semaine en cours et celles utilisées par le conducteur au cours des 15 jours calendaires précédents;
-  - ii) la carte de conducteur s’il est titulaire d’une telle carte; et
+  - ii) la carte de conducteur s’il est titulaire d’une telle carte, et
   - iii) toute information recueillie manuellement et toute sortie imprimée pendant la semaine en cours et pendant les 15 jours calendaires précédents, telles que prévues par le présent Accord.
 
-- A partir de la date d’application définie à l’art. 13<sup>bis</sup> du présent Accord, les durées visées aux points i) et iii) couvriront la journée en cours et les 28 jours calendaires précédents.
+- À partir de la date d’application définie à l’art. 13<sup>bis</sup> du présent Accord, les durées visées aux points i) et iii) couvriront la journée en cours et les 28 jours calendaires précédents.
 - b)
 
   Lorsque le conducteur conduit un véhicule équipé d’un appareil de contrôle conforme à l’Appendice 1B, il doit être en mesure de présenter, à toute demande d’un agent de contrôle:
@@ -789,7 +789,7 @@ Les appareils doivent en outre être conçus de manière à permettre de vérifi
   - ii) toute information recueillie manuellement et toute sortie imprimée pour la semaine en cours et pour les 15 jours calendaires précédents, telles que prévues par le présent Accord;
   - iii) les feuilles d’enregistrement correspondant à la même période que celle visée au point précédent pendant laquelle il a conduit un véhicule équipé d’un appareil d’enregistrement conforme à l’appendice 1.
 
-- A partir de la date d’application définie à l’art. 13<sup>bis</sup> du présent Accord, les durées visées au point ii) couvriront la journée en cours et les 28 jours précédents.
+- À partir de la date d’application définie à l’art. 13<sup>bis</sup> du présent Accord, les durées visées au point ii) couvriront la journée en cours et les 28 jours précédents.
 - c) Un agent habilité peut contrôler le respect du présent Accord par l’analyse des feuilles d’enregistrement, des données affichées ou imprimées qui ont été enregistrées par l’appareil de contrôle ou par la carte de conducteur et, à défaut, par l’analyse de tout autre document probant permettant de justifier le non-respect d’une disposition telle que celles prévues à l’art. 13, par. 2 et 3.
 
 <sup>8.</sup> Il est interdit de falsifier, d’effacer ou de détruire les enregistrements faits sur la feuille d’enregistrement, les données stockées dans l’appareil de contrôle ou la carte de conducteur, ainsi que les documents d’impression issus de l’appareil de contrôle défini à l’appendice 1B. Il est également interdit de manipuler l’appareil de contrôle, la feuille d’enregistrement ou la carte de conducteur et/ou les documents d’impression, en vue de falsifier les enregistrements, de les rendre inaccessibles ou de les détruire. Aucun dispositif permettant d’effectuer les manipulations mentionnées ci-dessus ne doit se trouver à bord du véhicule.
@@ -930,7 +930,7 @@ L’enregistrement éventuel des manœuvres de marche arrière ne doit absolumen
 - a) La commande du dispositif de remise à l’heure doit se trouver à l’intérieur d’un boîtier contenant la feuille d’enregistrement, dont chaque ouverture est marquée automatiquement sur la feuille d’enregistrement.
 - b) Si le mécanisme d’avancement de la feuille d’enregistrement est commandé par l’horloge, la durée de fonctionnement correct de celle-ci, après remontage complet, devra être supérieure d’au moins 10 % à la durée d’enregistrement correspondant au chargement maximal de l’appareil en feuille (s).
 
-\7. Eclairage et protection
+\7. Éclairage et protection
 
 - a) Les dispositifs indicateurs de l’appareil doivent être pourvus d’un éclairage adéquat non éblouissant.
 - b) Pour les conditions normales d’utilisation, toutes les parties internes de l’appareil doivent être protégées contre l’humidité et la poussière. Elles doivent en outre être protégées contre l’accessibilité par des enveloppes susceptibles d’être scellées.
@@ -945,7 +945,7 @@ L’enregistrement éventuel des manœuvres de marche arrière ne doit absolumen
 
 \2. Indicateur de la vitesse (tachymètre)
 
-- a) A l’intérieur de l’étendue de mesure, l’échelle de la vitesse doit être graduée uniformément par 1, 2, 5 ou 10 km/h. La valeur en vitesse de l’échelon (intervalle compris entre deux repères successifs) ne doit pas excéder 10 % de la vitesse maximale figurant en fin d’échelle.
+- a) À l’intérieur de l’étendue de mesure, l’échelle de la vitesse doit être graduée uniformément par 1, 2, 5 ou 10 km/h. La valeur en vitesse de l’échelon (intervalle compris entre deux repères successifs) ne doit pas excéder 10 % de la vitesse maximale figurant en fin d’échelle.
 - b) L’étendue d’indication au-delà de l’étendue de mesure ne doit pas être chiffrée.
 - c) La longueur de l’intervalle de la graduation correspondant à une différence de vitesse de 10 km/h ne doit pas être inférieure à 10 mm.
 - d) Sur un indicateur à aiguille, la distance entre l’aiguille et le cadran ne doit pas dépasser 3 mm.
@@ -985,15 +985,15 @@ L’indicateur de temps doit être visible de l’extérieur de l’appareil et 
 
 - a) L’appareil doit enregistrer le temps de conduite de façon entièrement automatique. Il doit également enregistrer, après manœuvre éventuelle d’une commande appropriée, les autres groupes de temps comme suit:
 
-i) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image10.png) : le temps de conduite; ii) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image11.png) : tous les autres temps de travail; iii) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image12.png) : le temps de disponibilité à savoir:
+i) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image10.png) : le temps de conduite; ii) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image11.png) : tous les autres temps de travail; iii) sous le signe ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image12.png) : le temps de disponibilité à savoir:
 
 - – le temps d’attente, c’est-à-dire la période pendant laquelle les conducteurs ne sont pas tenus de rester à leur poste de travail, sauf pour répondre à des appels éventuels afin d’entreprendre ou de reprendre la conduite ou de faire d’autres travaux;
 - – le temps passé à côté d’un conducteur pendant la marche du véhicule;
 - – le temps passé sur une couchette pendant la marche du véhicule;
 
 <table>
-<tr><td>iv) sous le signe</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image7.png)</td><td>: les interruptions de conduite et les périodes de repos journalier.</td></tr>
-<tr><td colspan="3">[tab] Chaque Partie contractante peut permettre pour les feuilles d’enregistrement utilisées sur les véhicules immatriculés sur son territoire, que les périodes de temps visées aux points ii) et iii) ci-dessus soient toutes enregistrées sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image12.png)</sub>.</td></tr>
+<tr><td>iv) sous le signe</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image7.png)</td><td>: les interruptions de conduite et les périodes de repos journalier.</td></tr>
+<tr><td colspan="3">[tab] Chaque Partie contractante peut permettre pour les feuilles d’enregistrement utilisées sur les véhicules immatriculés sur son territoire, que les périodes de temps visées aux points ii) et iii) ci-dessus soient toutes enregistrées sous le signe <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image12.png)</sub>.</td></tr>
 </table>
 
 - b) Les caractéristique des tracés, leurs positions relatives et, éventuellement, les signes prévus au par. 4*a*), doivent permettre de reconnaître clairement la nature des différents temps. La nature des différents groupes de temps est représentée, dans le diagramme, par des différences d’épaisseur de traits s’y rapportant ou par tout autre système d’une efficacité au moins égale du point de vue de la lisibilité et de l’interprétation du diagramme.
@@ -1024,7 +1024,7 @@ Toutefois, ces prescriptions ne sont pas applicables aux appareils de contrôle 
 - – éventuellement, l’étendue de mesure de la vitesse sous la forme indiquée au par. 1;
 - – si la sensibilité de l’instrument à l’angle d’inclinaison est susceptible d’influer sur les indications données par l’appareil au-delà des tolérances admises, l’orientation angulaire admissible sous la forme:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image13.png)
 
 - dans laquelle a représente l’angle mesuré à partir de la position horizontale de la face avant (orientée vers le haut) de l’appareil pour lequel l’instrument est réglé, β et γ représentant respectivement les écarts limites admissibles vers le haut et vers le bas par rapport à l’angle α.
 
@@ -1036,7 +1036,7 @@ Toutefois, ces prescriptions ne sont pas applicables aux appareils de contrôle 
 - b) vitesse: ±3 km/h en plus ou en moins par rapport à la vitesse réelle;
 - c) temps: ±2 mn par jour avec maximum de 10 mn par 7 jours dans le cas ou la durée de marche de l’horloge après remontage n’est pas inférieure à cette période.
 
-\2. A l’installation:
+\2. À l’installation:
 
 - a) distance parcourue: ±2 % en plus ou en moins de la distance réelle, celle-ci étant au moins égale à 1 km;
 - b) vitesse: ±4 km/h en plus ou en moins par rapport à la vitesse réelle;
@@ -1200,7 +1200,7 @@ Appendice 1B*[^t-3]*
 
 **Préambule**
 
-<sup>1.</sup> Etant donné que le présent appendice est une adaptation de l’annexe 1B du Règlement (CEE) n<sup>o</sup> 3821/85 du Conseil, en date du 20 décembre 1985, concernant l’appareil de contrôle dans le domaine des transports par route[^annexu1-lvlu1-1-1], le contenu de cette annexe n’est pas reproduit dans l’AETR en raison de son volume et de son caractère très technique. Pour obtenir le texte officiel complet ainsi que ses amendements ultérieurs, les Parties contractantes devront se reporter au Journal officiel de l’Union européenne.
+<sup>1.</sup> Étant donné que le présent appendice est une adaptation de l’annexe 1B du Règlement (CEE) n<sup>o</sup> 3821/85 du Conseil, en date du 20 décembre 1985, concernant l’appareil de contrôle dans le domaine des transports par route[^annexu1-lvlu1-1-1], le contenu de cette annexe n’est pas reproduit dans l’AETR en raison de son volume et de son caractère très technique. Pour obtenir le texte officiel complet ainsi que ses amendements ultérieurs, les Parties contractantes devront se reporter au Journal officiel de l’Union européenne.
 
 Le contenu du présent appendice 1B se limite donc à une introduction donnant la référence des textes pertinents de l’Union européenne et de celle des Journaux officiels dans lesquels ils ont été publiés et signalant, aux moyens de références croisées, les points particuliers sur lesquels cette annexe doit être adaptée au contexte de l’AETR.
 
@@ -1218,7 +1218,7 @@ Le contenu du présent appendice 1B se limite donc à une introduction donnant l
 
 <table>
 <tr><td>Termes utilisés dans l’annexe 1B</td><td></td><td>Termes à utiliser dans l’AETR</td></tr>
-<tr><td>Etats membres</td><td>Remplacé par</td><td>Parties contractantes</td></tr>
+<tr><td>États membres</td><td>Remplacé par</td><td>Parties contractantes</td></tr>
 <tr><td>EM</td><td></td><td>PC</td></tr>
 <tr><td>Annexe (1B)</td><td></td><td>Appendice (1B)</td></tr>
 <tr><td>Appendice</td><td></td><td>Sous-appendice</td></tr>
@@ -1245,7 +1245,7 @@ Le contenu du présent appendice 1B se limite donc à une introduction donnant l
 - 2\.4.1 Le texte de la disposition 172 est supprimé et remplacé par la mention «Réservé».
 - 2\.4.2 La disposition 174 est modifiée comme suit:
 - «le signe distinctif de la Partie contractante ayant délivré la carte. Les signes distinctifs des Parties contractantes non membres de l’Union européenne sont ceux définis dans la Convention de Vienne sur la circulation routière de 1968[^annexu1-lvlu1-2-1] et dans la Convention de Genève sur la circulation routière de 1949.»
-- 2\.4.3 Le renvoi au drapeau de l’Union européenne, suivi des lettres «EM» («Etat membre») dans la disposition 178 est remplacé par les lettres «PC» («Parties contractantes»), l’indication du drapeau des Parties contractantes non membres de l’Union européenne étant facultative.
+- 2\.4.3 Le renvoi au drapeau de l’Union européenne, suivi des lettres «EM» («État membre») dans la disposition 178 est remplacé par les lettres «PC» («Parties contractantes»), l’indication du drapeau des Parties contractantes non membres de l’Union européenne étant facultative.
 - 2\.4.4 La disposition 181 est modifiée comme suit:
 - «En consultation avec le secrétariat de la CEE-ONU, les Parties contractantes peuvent ajouter des couleurs ou des marques, par exemple des marques de sécurité, sans préjudice des autres dispositions du présent appendice.»
 - 2\.4.5 La disposition 278 est modifiée comme suit:
@@ -1300,7 +1300,7 @@ Mode d’attribution des chiffres suivants:
 
 \3. Les dimensions de la marque d’homologation dessinées ci-après sont exprimées en mm, ces dimensions constituant des minima. Les rapports entre ces dimensions doivent être respectés.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/fr/xml/image/image14.png)
 
 (1) Ces chiffres sont donnés à titre indicatif uniquement.
 
@@ -1383,7 +1383,7 @@ Conformément à l’art. 12<sup>bis</sup> du présent Accord, les transporteurs
 
 \1. Le FORMULAIRE D’ATTESTATION D’ACTIVITÉS est un formulaire à utiliser lorsqu’un conducteur a été en congé de maladie ou en congé annuel ou lorsqu’il a conduit un autre véhicule exclu du champ d’application de l’AETR au sens de l’art. 2 du présent Accord.
 
-*Instructions concernant son utilisation.* (A rappeler autant que possible au verso du formulaire)
+*Instructions concernant son utilisation.* (À rappeler autant que possible au verso du formulaire)
 
 - a) Tous les champs de ce formulaire doivent être remplis, *avant le voyage*, par l’entreprise de transport et le conducteur concerné.
 - b) Le texte du formulaire ne peut pas être modifié.
@@ -1398,9 +1398,9 @@ Conformément à l’art. 12<sup>bis</sup> du présent Accord, les transporteurs
 
 **Formulaire d’attestation d’activités**\****/attestation of activities\**** (règlement [CE] n<sup>o</sup> 561/2006 ou l’AETR\*\*)/*(Regulation [EC] 561/2006 or the AETR\*\**)
 
-A remplir en dactylographie en caractères latins et à signer avant tout voyage/ *To be filled in by* *typing in Latin characters* *and* *signed before a journey*.
+À remplir en dactylographie en caractères latins et à signer avant tout voyage/ *To be filled in by* *typing in Latin characters* *and* *signed before a journey*.
 
-A joindre aux enregistrements de l’appareil de contrôles qui doivent être conservés/ *To be kept with the original control device records wherever they are required to be kept*.
+À joindre aux enregistrements de l’appareil de contrôles qui doivent être conservés/ *To be kept with the original control device records wherever they are required to be kept*.
 
 Les fausses attestations constituent une infraction/ *False attestations constitute an infringement.*
 
@@ -1409,18 +1409,18 @@ Les fausses attestations constituent une infraction/ *False attestations constit
 <tr><td>1</td><td colspan="5">Nom de l’entreprise/*Name of the undertaking:*</td></tr>
 <tr><td>2</td><td colspan="5">Rue, code postal, ville/*Street address, postal code, city:* , ,</td></tr>
 <tr><td></td><td colspan="2">Pays/*Country:*</td><td colspan="2"></td><td></td></tr>
-<tr><td>3</td><td colspan="5">Numéro de téléphone (y compris le préfixe international)/*Telephone number (including in**ternational prefix):*</td></tr>
+<tr><td>3</td><td colspan="5">Numéro de téléphone (y compris le préfixe international)/*Telephone number (including intern**ational prefix):*</td></tr>
 <tr><td>4</td><td colspan="5">Numéro du télécopieur (y compris le préfixe international)/*Fax number (including international pr**e**fix):*</td></tr>
 <tr><td>5</td><td colspan="5">Adresse courrier électronique/*E-mail address:*</td></tr>
-<tr><td colspan="6">**Le soussigné** ***(I, t******he undersigned):***</td></tr>
+<tr><td colspan="6">**Le soussigné** ***(I, the u******ndersigned):***</td></tr>
 <tr><td>6</td><td colspan="5">Nom et prénom/*Name and first name:*</td></tr>
 <tr><td>7</td><td colspan="5">Fonction dans l’entreprise/*Position in the undertaking:*</td></tr>
 <tr><td colspan="6">**déclare que le conducteur/*****declare that the driver:***</td></tr>
 <tr><td>8</td><td colspan="5">Nom et prénom/*Name and first name:*</td></tr>
 <tr><td>9</td><td colspan="5">Date de naissance (jour/mois/année)/*Date of birth (day/month/year):* / /</td></tr>
-<tr><td>10</td><td colspan="5">Numéro du permis de conduire ou de la carte d’identité ou du passeport/ *Driving licence or identity card or p**assport number:*</td></tr>
+<tr><td>10</td><td colspan="5">Numéro du permis de conduire ou de la carte d’identité ou du passeport/ *Driving licence or identity card or passp**ort number:*</td></tr>
 <tr><td>11</td><td colspan="5">qui a commencé travailler dans l’entreprise le (jour/mois/année)*/* *who has started to work at the underta**k**ing on (day/month/year):* / /</td></tr>
-<tr><td colspan="6">Au cours de la période/*for the period:*</td></tr>
+<tr><td colspan="6">Au cours de la période/*fo**r the period:*</td></tr>
 <tr><td>12</td><td colspan="5">du (heure/jour/mois/année)/*from (hour/day/month/year):* / / /</td></tr>
 <tr><td>13</td><td colspan="5">au (heure/jour/mois/année)/*to (hour/day/month/year):* / / /</td></tr>
 <tr><td>14</td><td></td><td colspan="4">était en congé de maladie\*\*\*/*was on sick leave*</td></tr>
@@ -1439,10 +1439,10 @@ Les fausses attestations constituent une infraction/ *False attestations constit
 <tr><td>\*\*\*</td><td colspan="5">Ne cocher qu’une des cases/*Choose only one box*.</td></tr>
 </table>
 
-Champ d’application le 7 octobre 2014**[^t-6]**
+Champ d’application le 16 novembre 2021**[^t-6]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>20 juillet</td><td>2006 A</td><td>16 janvier</td><td>2007</td></tr>
 <tr><td>Allemagne\*</td><td>9 juillet</td><td>1975</td><td>5 janvier</td><td>1976</td></tr>
 <tr><td>Andorre</td><td>13 février</td><td>1997 A</td><td>12 août</td><td>1997</td></tr>
@@ -1466,11 +1466,12 @@ Champ d’application le 7 octobre 2014**[^t-6]**
 <tr><td>Irlande\*</td><td>28 août</td><td>1979 A</td><td>1<sup>er</sup> mars</td><td>1980</td></tr>
 <tr><td>Italie</td><td>28 décembre</td><td>1978</td><td>26 juin</td><td>1979</td></tr>
 <tr><td>Kazakhstan</td><td>17 juillet</td><td>1995 A</td><td>13 janvier</td><td>1996</td></tr>
+<tr><td>Kirghizistan</td><td>24 août</td><td>2021 A</td><td>20 février</td><td>2022</td></tr>
 <tr><td>Lettonie</td><td>14 janvier</td><td>1994 A</td><td>13 juillet</td><td>1994</td></tr>
 <tr><td>Liechtenstein</td><td>6 novembre</td><td>1996 A</td><td>5 mai</td><td>1997</td></tr>
 <tr><td>Lituanie</td><td>3 juin</td><td>1998 A</td><td>30 novembre</td><td>1998</td></tr>
 <tr><td>Luxembourg\*</td><td>30 décembre</td><td>1977</td><td>16 août</td><td>1978</td></tr>
-<tr><td>Macédoine</td><td>10 novembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>10 novembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Malte\*</td><td>24 septembre</td><td>2004 A</td><td>23 mars</td><td>2005</td></tr>
 <tr><td>Moldova</td><td>26 mai</td><td>1993 A</td><td>22 novembre</td><td>1993</td></tr>
 <tr><td>Monaco\*</td><td>16 juin</td><td>2008 A</td><td>14 décembre</td><td>2008</td></tr>
@@ -1483,6 +1484,7 @@ Champ d’application le 7 octobre 2014**[^t-6]**
 <tr><td>République tchèque\*</td><td>2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>8 décembre</td><td>1994 A</td><td>6 juin</td><td>1995</td></tr>
 <tr><td>Royaume-Uni\*</td><td>4 janvier</td><td>1978</td><td>18 août</td><td>1978</td></tr>
+<tr><td>Gibraltar</td><td>3 septembre</td><td>2019</td><td>4 mars</td><td>2020</td></tr>
 <tr><td>Russie\*</td><td>31 juillet</td><td>1978 A</td><td>27 janvier</td><td>1979</td></tr>
 <tr><td>Saint-Marin</td><td>25 avril</td><td>2007 A</td><td>21 octobre</td><td>2007</td></tr>
 <tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
@@ -1494,7 +1496,7 @@ Champ d’application le 7 octobre 2014**[^t-6]**
 <tr><td>Turkménistan</td><td>18 septembre</td><td>1996 A</td><td>17 mars</td><td>1997</td></tr>
 <tr><td>Turquie</td><td>16 janvier</td><td>2001 A</td><td>16 juillet</td><td>2001</td></tr>
 <tr><td>Ukraine</td><td>3 février</td><td>2006</td><td>2 août</td><td>2006</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-6]: RO **2003** 1798, [2007 2059](https://fedlex.data.admin.ch/eli/oc/2007/290), [2011 1611](https://fedlex.data.admin.ch/eli/oc/2011/242), [2014 3287](https://fedlex.data.admin.ch/eli/oc/2014/570). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-6]: [RO 2003 1765](https://fedlex.data.admin.ch/eli/oc/2003/268); [2007 2059](https://fedlex.data.admin.ch/eli/oc/2007/290); [2011 1611](https://fedlex.data.admin.ch/eli/oc/2011/242); [2014 3287](https://fedlex.data.admin.ch/eli/oc/2014/570); [2021 729](https://fedlex.data.admin.ch/eli/oc/2021/729). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty

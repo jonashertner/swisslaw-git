@@ -4,11 +4,11 @@ title: Accordo europeo del 1° luglio 1970 modificato relativo alle prestazioni 
 short: AETR
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/268"
 language: it
-version: 2020-01-08
+version: 2021-11-16
 adopted: 1970-07-01
 in_force: 2000-10-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/fedlex-data-admin-ch-eli-cc-2003-268-20200108-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/268/20200108/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/fedlex-data-admin-ch-eli-cc-2003-268-20211116-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/268/20211116/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -29,7 +29,7 @@ Ratificato con strumenti depositati dalla Svizzera il 7 aprile 2000
 
 Entrato in vigore per la Svizzera il 4 ottobre 2000
 
-(Stato 8 gennaio 2020)
+(Stato 16 novembre 2021)
 
 [^t-1]: [RU 2003 1764](https://fedlex.data.admin.ch/eli/oc/2003/267)
 
@@ -731,17 +731,17 @@ I conducenti:
 - – provvedono alla concordanza tra la registrazione dell’ora sul foglio e l’ora legale nel paese di immatricolazione del veicolo;
 - – azionano i dispositivi di commutazione che consentono di registrare separatamente e distintamente i seguenti periodi di tempo:
 
-a) sotto il simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image1.png)</sub> o <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image2.png)</sub><sup><sub>\*</sub></sup>: il tempo di guida; b) sotto il simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image3.png)</sub> o <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image4.png)</sub> <sup><sub>\*</sub></sup>: tutti gli altri tempi di lavoro; c) sotto il simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image5.png)</sub> o <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image6.png)</sub> <sup><sub>\*</sub></sup>: il tempo di disponibilità, ovvero:
+a) sotto il simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image1.png)</sub> o <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image2.png)</sub><sup><sub>\*</sub></sup>: il tempo di guida; b) sotto il simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image3.png)</sub> o <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image4.png)</sub> <sup><sub>\*</sub></sup>: tutti gli altri tempi di lavoro; c) sotto il simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image5.png)</sub> o <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image6.png)</sub> <sup><sub>\*</sub></sup>: il tempo di disponibilità, ovvero:
 
 - – il tempo d’attesa, ossia il periodo durante il quale ai conducenti è richiesta la permanenza sul posto di lavoro soltanto per rispondere a eventuali chiamate al fine di riprendere la guida o di eseguire altri lavori;
 - – il tempo trascorso al fianco di un conducente durante la marcia del veicolo;
 - – il tempo trascorso in cuccetta durante la marcia del veicolo;
 
 <table>
-<tr><td>d) sotto il simbolo</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image7.png)</sub></td><td>o</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image8.png)</sub> <sup><sub>\*</sub></sup>:</td><td>le interruzioni di guida e i periodi di riposo giornaliero.</td></tr>
+<tr><td>d) sotto il simbolo</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image7.png)</sub></td><td>o</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image8.png)</sub> <sup><sub>\*</sub></sup>:</td><td>le interruzioni di guida e i periodi di riposo giornaliero.</td></tr>
 </table>
 
-<sup>4.</sup> Ogni parte contraente può permettere, per i fogli di registrazione utilizzati sui veicoli immatricolati nel suo territorio, che i periodi di tempo di cui al paragrafo 3 secondo trattino, punti b) e c) del presente articolo siano tutti registrati sotto il simbolo <sub><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image9.png)</sub></sub><sub>.</sub>
+<sup>4.</sup> Ogni parte contraente può permettere, per i fogli di registrazione utilizzati sui veicoli immatricolati nel suo territorio, che i periodi di tempo di cui al paragrafo 3 secondo trattino, punti b) e c) del presente articolo siano tutti registrati sotto il simbolo <sub><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image9.png)</sub></sub><sub>.</sub>
 
 <sup>5.</sup> 5<sup>bis</sup>. Il conducente introduce nell’apparecchio di controllo conforme all’appendice 1B il simbolo del Paese in cui inizia e quello del Paese in cui termina il suo periodo di lavoro giornaliero.
 
@@ -976,15 +976,15 @@ L’indicatore di tempo deve essere visibile dall’esterno dell’apparecchio e
 
 - a) L’apparecchio deve registrare il tempo di guida in modo totalmente automatico. Deve inoltre registrare, eventualmente mediante la manovra di un comando adeguato, gli altri gruppi di tempi come segue:
 
-i) sotto il simbolo ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image10.png) : il tempo di guida; ii) sotto il simbolo ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image11.png) : tutti gli altri tempi di lavoro; iii) sotto il simbolo ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image9.png) : il tempo di disponibilità, ovvero:
+i) sotto il simbolo ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image10.png) : il tempo di guida; ii) sotto il simbolo ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image11.png) : tutti gli altri tempi di lavoro; iii) sotto il simbolo ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image9.png) : il tempo di disponibilità, ovvero:
 
 - – il tempo d’attesa, ossia il periodo durante il quale ai conducenti è richiesta la permanenza sul posto di lavoro soltanto per rispondere ad eventuali chiamate al fine di iniziare o riprendere la guida o di eseguire altri lavori;
 - – il tempo trascorso a fianco di un conducente durante la marcia del veicolo;
 - – il tempo trascorso in cuccetta durante la marcia del veicolo;
 
 <table>
-<tr><td>iv) sotto il simbolo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image7.png)</td><td>: le interruzioni di guida e i periodi di riposo giornaliero.</td></tr>
-<tr><td colspan="3">[tab] Ciascuna parte contraente può permettere, per i fogli di registrazione utilizzati sui veicoli immatricolati nel suo territorio, che i periodi di tempo di cui alle lettere ii) e iii) siano tutti registrati sotto il simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image9.png)</sub>.</td></tr>
+<tr><td>iv) sotto il simbolo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image7.png)</td><td>: le interruzioni di guida e i periodi di riposo giornaliero.</td></tr>
+<tr><td colspan="3">[tab] Ciascuna parte contraente può permettere, per i fogli di registrazione utilizzati sui veicoli immatricolati nel suo territorio, che i periodi di tempo di cui alle lettere ii) e iii) siano tutti registrati sotto il simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image9.png)</sub>.</td></tr>
 </table>
 
 - b) Le caratteristiche dei tracciati, le loro posizioni relative ed eventualmente i segni previsti nel punto 4*a*) devono consentire di riconoscere chiaramente la natura dei differenti tempi. La natura dei vari gruppi di tempi è rappresentata nel diagramma mediante differenze di spessore dei tratti relativi o mediante qualsiasi altro sistema almeno altrettanto efficace per quanto concerne la leggibilità e l’interpretazione del diagramma.
@@ -1015,7 +1015,7 @@ Queste prescrizioni non si applicano tuttavia agli apparecchi di controllo omolo
 - – eventualmente campo di misurazione della velocità sotto la forma indicata nel punto 1,
 - – se la sensibilità dello strumento all’angolo d’inclinazione può influenzare le indicazioni fornite dall’apparecchio oltre le tolleranze ammesse, l’orientamento angolare ammissibile sotto la forma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image12.png)
 
 - dove α rappresenta un angolo misurato a partire dalla posizione orizzontale della faccia anteriore (orientata verso l’alto) dell’apparecchio per il quale è regolato lo strumento, e β e γ rappresentano rispettivamente gli scarti limite ammissibili verso l’alto e verso il basso rispetto all’angolo α.
 
@@ -1291,7 +1291,7 @@ Sistema di attribuzione dei numeri:
 
 \3. Le dimensioni del marchio di omologazione disegnate qui di seguito sono espresse in millimetri; queste dimensioni rappresentano dei minimi. Si devono rispettare i rapporti fra queste dimensioni.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/it/xml/image/image13.png)
 
 (1) Queste cifre sono state scelte unicamente a titolo di esempio.
 
@@ -1432,7 +1432,7 @@ Le dichiarazioni false costituiscono reato/ *False attestations constitute an in
 <tr><td>\*\*\*</td><td colspan="4">Contrassegnare una sola casella/*Choose only one box*.</td></tr>
 </table>
 
-Campo d’applicazione il 7 ottobre 2014**[^t-6]**
+Campo d’applicazione il 16 novembre 2021**[^t-6]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1458,6 +1458,7 @@ Campo d’applicazione il 7 ottobre 2014**[^t-6]**
 <tr><td>Irlanda<sup>\*</sup></td><td>28 agosto</td><td>1979 A</td><td>1° marzo</td><td>1980</td></tr>
 <tr><td>Italia</td><td>28 dicembre</td><td>1978</td><td>26 giugno</td><td>1979</td></tr>
 <tr><td>Kazakstan</td><td>17 luglio</td><td>1995 A</td><td>13 gennaio</td><td>1996</td></tr>
+<tr><td>Kirghizistan</td><td>24 agosto</td><td>2021 A</td><td>20 febbraio</td><td>2022</td></tr>
 <tr><td>Lettonia</td><td>14 gennaio</td><td>1994 A</td><td>13 luglio</td><td>1994</td></tr>
 <tr><td>Liechtenstein</td><td>6 novembre</td><td>1996 A</td><td>5 maggio</td><td>1997</td></tr>
 <tr><td>Lituania</td><td>3 giugno</td><td>1998 A</td><td>30 novembre</td><td>1998</td></tr>
@@ -1472,6 +1473,7 @@ Campo d’applicazione il 7 ottobre 2014**[^t-6]**
 <tr><td>Polonia</td><td>14 luglio</td><td>1992</td><td>10 gennaio</td><td>1993</td></tr>
 <tr><td>Portogallo</td><td>20 settembre</td><td>1973</td><td>5 gennaio</td><td>1976</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>4 gennaio</td><td>1978</td><td>18 agosto</td><td>1978</td></tr>
+<tr><td>Gibilterra</td><td>3 settembre</td><td>2019</td><td>4 marzo</td><td>2020</td></tr>
 <tr><td>Romania</td><td>8 dicembre</td><td>1994 A</td><td>6 giugno</td><td>1995</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td>31 luglio</td><td>1978 A</td><td>27 gennaio</td><td>1979</td></tr>
 <tr><td>San Marino</td><td>25 aprile</td><td>2007 A</td><td>21 ottobre</td><td>2007</td></tr>
@@ -1487,7 +1489,7 @@ Campo d’applicazione il 7 ottobre 2014**[^t-6]**
 <tr><td>Ucraina</td><td>3 febbraio</td><td>2006</td><td>2 agosto</td><td>2006</td></tr>
 <tr><td>Ungheria</td><td>22 ottobre</td><td>1999 A</td><td>19 aprile</td><td>2000</td></tr>
 <tr><td>Uzbekistan</td><td>22 ottobre</td><td>1998 A</td><td>19 aprile</td><td>1999</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell'Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione Internazionale del Lavoro: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-6]: [RU 2003 1765](https://fedlex.data.admin.ch/eli/oc/2003/268), [2007 2059](https://fedlex.data.admin.ch/eli/oc/2007/290), [2011 1611](https://fedlex.data.admin.ch/eli/oc/2011/242)e [2014 3287](https://fedlex.data.admin.ch/eli/oc/2014/570). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-6]: [RU 2003 1765](https://fedlex.data.admin.ch/eli/oc/2003/268); [2007 2059](https://fedlex.data.admin.ch/eli/oc/2007/290); [2011 1611](https://fedlex.data.admin.ch/eli/oc/2011/242); [2014 3287](https://fedlex.data.admin.ch/eli/oc/2014/570); [2021 729](https://fedlex.data.admin.ch/eli/oc/2021/729). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

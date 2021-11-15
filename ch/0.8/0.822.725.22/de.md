@@ -4,11 +4,11 @@ title: Europäisches Übereinkommen vom 1. Juli 1970 über die Arbeit des im int
 short: AETR
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/268"
 language: de
-version: 2020-01-08
+version: 2021-11-16
 adopted: 1970-07-01
 in_force: 2000-10-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/fedlex-data-admin-ch-eli-cc-2003-268-20200108-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/268/20200108/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/fedlex-data-admin-ch-eli-cc-2003-268-20211116-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/268/20211116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -29,7 +29,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 7. April 2000
 
 In Kraft getreten für die Schweiz am 4. Oktober 2000
 
-(Stand am 8. Januar 2020)
+(Stand am 16. November 2021)
 
 [^t-1]: [AS 2003 1764](https://fedlex.data.admin.ch/eli/oc/2003/267)
 
@@ -728,17 +728,17 @@ Der Fahrer:
 - – achtet darauf, dass die Zeitmarkierung auf dem Einlageblatt mit der gesetzlichen Zeit des Landes übereinstimmt, in dem das Fahrzeug zugelassen ist;
 - – betätigt die Schaltvorrichtung des Kontrollgeräts so, dass folgende Zeiten getrennt und unterscheidbar aufgezeichnet werden:
 
-(a) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image1.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image2.png)</sub><sup><sup>\*</sup></sup>: die Lenkzeiten, (b) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image3.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image4.png)</sub><sup><sup>\*</sup></sup>: alle sonstigen Arbeitszeiten, (c) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image5.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image6.png)</sub><sup><sup>\*</sup></sup>: die Bereitschaftszeit, also:
+(a) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image1.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image2.png)</sub><sup><sup>\*</sup></sup>: die Lenkzeiten, (b) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image3.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image4.png)</sub><sup><sup>\*</sup></sup>: alle sonstigen Arbeitszeiten, (c) unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image5.png)</sub> oder <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image6.png)</sub><sup><sup>\*</sup></sup>: die Bereitschaftszeit, also:
 
 - – Wartezeit, d. h. die Zeit, in der die Fahrer nur an ihrem Arbeitsplatz verbleiben müssen, um der etwaigen Aufforderung nachzukommen, die Fahrtätigkeit aufzunehmen bzw. wieder aufzunehmen oder andere Arbeiten zu verrichten,
 - – die während der Fahrt neben dem Fahrer verbrachte Zeit,
 - – die während der Fahrt in einer Schlafkabine verbrachte Zeit,
 
 <table>
-<tr><td>(d) unter dem Zeichen</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image7.png)</sub></td><td>oder</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image8.png)</sub><sup><sup>\*</sup></sup>:</td><td>die Arbeitsunterbrechungen und die Tagesruhezeiten.</td></tr>
+<tr><td>(d) unter dem Zeichen</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image7.png)</sub></td><td>oder</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image8.png)</sub><sup><sup>\*</sup></sup>:</td><td>die Arbeitsunterbrechungen und die Tagesruhezeiten.</td></tr>
 </table>
 
-<sup>4.</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image9.png)Jeder Vertragsstaat kann gestatten, dass die in Absatz 3 zweiter Gedankenstrich Buchstaben (b) und (c) genannten Zeiträume in die Einlageblätter, die für die in seinem Hoheitsgebiet zugelassenen Fahrzeuge verwendet werden, sämtlich unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image5.png)</sub> eingetragen werden.
+<sup>4.</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image9.png)Jeder Vertragsstaat kann gestatten, dass die in Absatz 3 zweiter Gedankenstrich Buchstaben (b) und (c) genannten Zeiträume in die Einlageblätter, die für die in seinem Hoheitsgebiet zugelassenen Fahrzeuge verwendet werden, sämtlich unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image5.png)</sub> eingetragen werden.
 
 <sup>5.</sup> 5<sup>bis</sup>. Der Fahrer gibt in das Kontrollgerät gemäss Anlage 1B das Symbol des Landes, in dem er seinen Arbeitstag beginnt, und das Symbol des Landes ein, in dem er seinen Arbeitstag beendet.
 
@@ -841,15 +841,15 @@ Für die dauerhafte Aufzeichnung von Angaben geeignetes Blatt, das in das Kontro
 
 c) Konstante des Kontrollgerätes:
 
-Kenngrösse, die den Wert des Eingangssignals angibt, der für das Anzeigen und Aufzeichnen einer zurückgelegten Wegstrecke von 1 km erforderlich ist; diese Konstante wird ausgedrückt in Umdrehungen je Kilometer (k = … U/km) oder in Impulsen je Kilometer (k = … Imp/km).
+Kenngrösse, die den Wert des Eingangssignals angibt, der für das Anzeigen und Aufzeichnen einer zurückgelegten Wegstrecke von 1 km erforderlich ist; diese Konstante wird ausgedrückt in Umdrehungen je Kilometer (k = ... U/km) oder in Impulsen je Kilometer (k = ... Imp/km).
 
 d) Wegdrehzahl des Motorfahrzeugs:
 
-Kenngrösse, die den Zahlenwert des Ausgangssignals angibt, das am Anschlussstutzen für das Kontrollgerät am Motorfahrzeug entsteht (in einigen Fällen Getriebestutzen und in anderen Fällen Radachse) bei einer unter den normalen Prüfbedingungen zurückgelegten Wegstrecke von einem Kilometer (vgl. Kapitel VI Nummer 4 dieser Anlage). Die Wegdrehzahl wird in Umdrehungen je Kilometer (w = … U/km) oder in Impulsen je Kilometer (w = … Imp/km) ausgedrückt.
+Kenngrösse, die den Zahlenwert des Ausgangssignals angibt, das am Anschlussstutzen für das Kontrollgerät am Motorfahrzeug entsteht (in einigen Fällen Getriebestutzen und in anderen Fällen Radachse) bei einer unter den normalen Prüfbedingungen zurückgelegten Wegstrecke von einem Kilometer (vgl. Kapitel VI Nummer 4 dieser Anlage). Die Wegdrehzahl wird in Umdrehungen je Kilometer (w = ... U/km) oder in Impulsen je Kilometer (w = ... Imp/km) ausgedrückt.
 
 e) Wirksamer Umfang der Fahrzeugräder:
 
-Mittelwert der von jedem Antriebsrad bei einer vollen Umdrehung zurückgelegten Wegstrecke. Die Messung dieser Wegstrecken muss unter den normalen Prüfbedingungen erfolgen (vgl. Kapitel VI Nummer 4 dieser Anlage) und wird in folgender Form ausgedrückt: 1 = … mm.
+Mittelwert der von jedem Antriebsrad bei einer vollen Umdrehung zurückgelegten Wegstrecke. Die Messung dieser Wegstrecken muss unter den normalen Prüfbedingungen erfolgen (vgl. Kapitel VI Nummer 4 dieser Anlage) und wird in folgender Form ausgedrückt: 1 = ... mm.
 
 ### II. Allgemeine Funktionsmerkmale des Kontrollgerätes
 
@@ -974,9 +974,9 @@ Die Zeitanzeige muss auf dem Gerät von aussen sichtbar sein und sich zuverläss
 - a) Kontrollgeräte müssen so gebaut sein, dass die Lenkzeit immer automatisch aufgezeichnet wird und die übrigen Zeitgruppen durch die Betätigung einer Schaltvorrichtung unterscheidbar aufgezeichnet werden können:
 
 <table>
-<tr><td></td><td>i)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image10.png)</td><td>:</td><td>die Lenkzeiten;</td></tr>
-<tr><td></td><td>ii)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image11.png)</td><td>:</td><td>alle sonstigen Arbeitszeiten;</td></tr>
-<tr><td></td><td>iii)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image12.png)</td><td>:</td><td>die Bereitschaftszeit,</td></tr>
+<tr><td></td><td>i)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image10.png)</td><td>:</td><td>die Lenkzeiten;</td></tr>
+<tr><td></td><td>ii)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image11.png)</td><td>:</td><td>alle sonstigen Arbeitszeiten;</td></tr>
+<tr><td></td><td>iii)</td><td>unter dem Zeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image12.png)</td><td>:</td><td>die Bereitschaftszeit,</td></tr>
 </table>
 
 - also
@@ -985,8 +985,8 @@ Die Zeitanzeige muss auf dem Gerät von aussen sichtbar sein und sich zuverläss
   - – die während der Fahrt in einer Schlafkabine verbrachte Zeit;
 
 <table>
-<tr><td></td><td>iv)</td><td>unter dem Zeichen.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image7.png)</td><td>:</td><td>die Arbeitsunterbrechungen und die Tagesruhezeiten.</td></tr>
-<tr><td colspan="6">Jede Vertragspartei kann gestatten, dass die vorstehend unter Buchstabe ii) und iii) genannten Zeiträume in die Einlageblätter, die für die in ihrem Hoheitsgebiet zugelassenen Fahrzeuge verwendet werden, sämtlich unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image12.png)</sub> eingetragen werden.</td></tr>
+<tr><td></td><td>iv)</td><td>unter dem Zeichen.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image7.png)</td><td>:</td><td>die Arbeitsunterbrechungen und die Tagesruhezeiten.</td></tr>
+<tr><td colspan="6">Jede Vertragspartei kann gestatten, dass die vorstehend unter Buchstabe ii) und iii) genannten Zeiträume in die Einlageblätter, die für die in ihrem Hoheitsgebiet zugelassenen Fahrzeuge verwendet werden, sämtlich unter dem Zeichen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image12.png)</sub> eingetragen werden.</td></tr>
 </table>
 
 - b) Aus der Beschaffenheit der Schreibspuren, ihrer Anordnung und gegebenenfalls den in Nr. 4 Buchstabe a) vorgesehenen Zeichen muss einwandfrei erkennbar sein, um welche Zeitgruppe es sich handelt. Die einzelnen Zeitgruppen werden auf dem Einlageblatt durch unterschiedliche Breiten der Schreibspuren oder in jeder anderen Form dargestellt, die eine mindestens gleiche Ablesbarkeit und Auswertbarkeit des Einlageblatts sicherstellt.
@@ -1004,7 +1004,7 @@ Die Zeitanzeige muss auf dem Gerät von aussen sichtbar sein und sich zuverläss
 
 - – in unmittelbarer Nähe der Anzeige des Wegstreckenzählers die Masseinheit der zurückgelegten Wegstrecken mit der Abkürzung «km»;
 - – in der Nähe der Geschwindigkeit die Abkürzung «km/h»;
-- – der Messbereich des Geschwindigkeitsmessgeräts in der Form «Vmin. … km/h, Vmax. … km/h». Diese Bezeichnung kann fehlen, wenn sie auf dem Typenschild des Gerätes erscheint.
+- – der Messbereich des Geschwindigkeitsmessgeräts in der Form «Vmin. ... km/h, Vmax. ... km/h». Diese Bezeichnung kann fehlen, wenn sie auf dem Typenschild des Gerätes erscheint.
 - [tab] Diese Vorschriften gelten jedoch nicht für Kontrollgeräte, für die die Bauartgenehmigung vor dem 10. August 1970 erteilt wurde.
 
 \2. Das mit dem Gerät verbundene Typenschild muss folgende Angaben enthalten, die auf dem eingebauten Gerät leicht ablesbar sein müssen:
@@ -1012,11 +1012,11 @@ Die Zeitanzeige muss auf dem Gerät von aussen sichtbar sein und sich zuverläss
 - – Name und Adresse des Herstellers;
 - – Fabriknummer und Baujahr;
 - – Prüfzeichen des Gerätetyps;
-- – die Gerätekonstante in der Form «k = … U/km» oder «k = … Imp/km»;
+- – die Gerätekonstante in der Form «k = ... U/km» oder «k = ... Imp/km»;
 - – gegebenenfalls Geschwindigkeitsmessbereich in der unter Nummer 1 angegebenen Form;
 - – falls das Gerät so neigungsempfindlich ist, dass hierdurch die zulässigen Fehlergrenzen bei den Angaben des Geräts überschritten werden: die zulässige Neigung in der Form
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image13.png)
 
 - wobei α der von der waagerechten Stellung der (nach oben geneigten) Vorderseite des betreffenden Gerätes aus gemessene Winkel ist; β und γ sind die höchstzulässigen Neigungsausschläge nach oben und unten gegenüber dem Winkel.
 
@@ -1123,8 +1123,8 @@ Motorfahrzeuge mit mehreren Hinterachsuntersetzungen müssen mit einer Umschalte
 Das Einbauschild muss mindestens die nachstehenden Angaben enthalten:
 
 - – Name, Adresse oder Firmenzeichen des zugelassenen Installateurs oder der zugelassenen Werkstatt;
-- – Wegdrehzahl des Kraftfahrzeugs in der Form «w = … U/km» oder «w = … Imp/km»;
-- – wirksamer Reifenumfang in der Form «I = … mm»;
+- – Wegdrehzahl des Kraftfahrzeugs in der Form «w = ... U/km» oder «w = ... Imp/km»;
+- – wirksamer Reifenumfang in der Form «I = ... mm»;
 - – Datum der Messung der Wegdrehzahl des Fahrzeugs und des wirksamen Reifenumfangs.
 
 ### B. Plombierung
@@ -1291,7 +1291,7 @@ Nachfolgende Nummern werden zugeteilt:
 
 \3. Die nachstehend angegebenen Abmessungen des Prüfzeichens sind in Millimetern ausgedrückt und stellen die Mindestabmessungen dar. Die Relationen zwischen diesen Abmessungen müssen eingehalten werden.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20200108/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/268/20211116/de/xml/image/image14.png)
 
 (1) Diese Zahlen sind lediglich als Beispiel angeführt
 
@@ -1436,7 +1436,7 @@ Falsche Bescheinigungen stellen einen Verstoss gegen geltendes Recht dar/ *False
 <tr><td>\*\*\*</td><td colspan="6">Nur ein Kästchen ankreuzen/*Choose only one box*.</td></tr>
 </table>
 
-Geltungsbereich am 7. Oktober 2014**[^t-6]**
+Geltungsbereich am 16. November 2021**[^t-6]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1458,6 +1458,7 @@ Geltungsbereich am 7. Oktober 2014**[^t-6]**
 <tr><td>Irland\*</td><td>28. August</td><td>1979 B</td><td>1. März</td><td>1980</td></tr>
 <tr><td>Italien</td><td>28. Dezember</td><td>1978</td><td>26. Juni</td><td>1979</td></tr>
 <tr><td>Kasachstan</td><td>17. Juli</td><td>1995 B</td><td>13. Januar</td><td>1996</td></tr>
+<tr><td>Kirgisistan</td><td>24. August</td><td>2021 B</td><td>20. Februar</td><td>2022</td></tr>
 <tr><td>Kroatien</td><td>3. August</td><td>1992 N</td><td>8. Oktober</td><td>1991</td></tr>
 <tr><td>Lettland</td><td>14. Januar</td><td>1994 B</td><td>13. Juli</td><td>1994</td></tr>
 <tr><td>Liechtenstein</td><td>6. November</td><td>1996 B</td><td>5. Mai</td><td>1997</td></tr>
@@ -1490,8 +1491,9 @@ Geltungsbereich am 7. Oktober 2014**[^t-6]**
 <tr><td>Ungarn</td><td>22. Oktober</td><td>1999 B</td><td>19. April</td><td>2000</td></tr>
 <tr><td>Usbekistan</td><td>22. Oktober</td><td>1998 B</td><td>19. April</td><td>1999</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>4. Januar</td><td>1978</td><td>18. August</td><td>1978</td></tr>
+<tr><td>Gibraltar</td><td>3. September</td><td>2019</td><td>4. März</td><td>2020</td></tr>
 <tr><td>Zypern</td><td>5. September</td><td>2003 B</td><td>3. März</td><td>2004</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-6]: [AS 2003 1765](https://fedlex.data.admin.ch/eli/oc/2003/268), [2007 2059](https://fedlex.data.admin.ch/eli/oc/2007/290), [2011 1611](https://fedlex.data.admin.ch/eli/oc/2011/242)und [2014 3287](https://fedlex.data.admin.ch/eli/oc/2014/570). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-6]: [AS 2003 1765](https://fedlex.data.admin.ch/eli/oc/2003/268); [2007 2059](https://fedlex.data.admin.ch/eli/oc/2007/290); [2011 1611](https://fedlex.data.admin.ch/eli/oc/2011/242); [2014 3287](https://fedlex.data.admin.ch/eli/oc/2014/570); [2021 729](https://fedlex.data.admin.ch/eli/oc/2021/729). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
