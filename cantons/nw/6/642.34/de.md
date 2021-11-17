@@ -5,42 +5,46 @@ title: "Vertrag zwischen den Centralschweizerischen Kraftwerken Luzern (CKW), un
 short: Energielieferungsvertrag KKG
 language: de
 version: 1985-01-01
+corrected: 2021-11-18
 version_adopted: 1984-10-25
 adopted: 1984-10-25
 in_force: 1985-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/642.34"
-pdf: "https://gesetze.nw.ch/api/de/versions/904/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/245/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vertrag zwischen den Centralschweizerischen Kraftwerken Luzern (CKW), und dem Kantonalen Elektrizitätswerk Nidwalden, Stans (EWN), über die Lieferung von elektrischer Energie aus dem Kernkraftwerk Gösgen-Däniken zu Beteiligungsbedingungen
 
-(Energielieferungsvertrag KKG[^ingress-1])
+## Energielieferungsvertrag KKG
 
-vom 25.10.1984 (Stand 01.01.1985)
+(= Kernkraftwerk Gösgen-Däniken AG)
 
-Einleitung:
+vom 25. Oktober 1984[^hEnergielieferungsver-1]
+
+Einleitung
 
 Die CKW und das EWN stimmen in ihren Absichten überein, die bestehende Zusammenarbeit auf dem Gebiet der Versorgung mit elektrischer Energie zu erweitern. Sie beschliessen daher, das bestehende Energieaustausch-Verhältnis durch spezielle Verträge betreffend Energielieferungen aus den Kernkraftwerken Leibstadt und Gösgen-Däniken zu ergänzen. Der Abschluss des vorliegenden Vertrages basiert auf folgenden Voraussetzungen:
 
-– Die CKW sind mit 12.5% als Partner und Aktionär an der KKG beteiligt. In diesem Umfang haben sie Anspruch auf Leistungen, insbesondere auf 12.5% der zur Abgabe an die Gesellschafter zur Verfügung stehenden Leistung und Energieproduktion der KKG. Andererseits sind sie verpflichtet, 12.5% des Grundkapitals zu erbringen und den ihrer Beteiligung entsprechenden Anteil der Jahreskosten zu bezahlen.
+- Die CKW sind mit 12.5% als Partner und Aktionär an der KKG beteiligt. In diesem Umfang haben sie Anspruch auf Leistungen, insbesondere auf 12.5% der zur Abgabe an die Gesellschafter zur Verfügung stehenden Leistung und Energieproduktion der KKG. Andererseits sind sie verpflichtet, 12.5% des Grundkapitals zu erbringen und den ihrer Beteiligung entsprechenden Anteil der Jahreskosten zu bezahlen.
 
-– Das EWN hat die Aufgabe, die Beschaffung von Elektrizität für das Verteilgebiet des Kantons Nidwalden sicherzustellen.
+- Das EWN hat die Aufgabe, die Beschaffung von Elektrizität für das Verteilgebiet des Kantons Nidwalden sicherzustellen.
 
-– Der jeweils zwischen CKW und EWN geltende Vertrag betreffend Energieaustausch gilt für das Rechtsverhältnis zwischen dem EWN und den CKW, sofern und soweit in diesem Energielieferungsvertrag KKG nichts Abweichendes geregelt ist.
+- Der jeweils zwischen CKW und EWN geltende Vertrag betreffend Energieaustausch gilt für das Rechtsverhältnis zwischen dem EWN und den CKW, sofern und soweit in diesem Energielieferungsvertrag KKG nichts Abweichendes geregelt ist.
 
-– Der vorliegende Vertrag erhält nur Gültigkeit, wenn gleichzeitig der Vertrag über die Lieferung von elektrischer Energie aus dem Kernkraftwerk Leibstadt (Energielieferungsvertrag KKL) unterzeichnet wird.
+- Der vorliegende Vertrag erhält nur Gültigkeit, wenn gleichzeitig der Vertrag über die Lieferung von elektrischer Energie aus dem Kernkraftwerk Leibstadt (Energielieferungsvertrag KKL) unterzeichnet wird.
 
-[^ingress-1]: = Kernkraftwerk Leibstadt AG
+I. GEGENSTAND DES VERTRAGES
 
-## 1 Gegenstand des Vertrages
+[^hEnergielieferungsver-1]: A 1984, 763; vom Landrat genehmigt am 20. Juni 1984, A 1984, 756, 1013
 
 #### Art. 1
 
 **Gegenstand und Zweck des Vertrages**
 
-<sup>1</sup> Mit diesem Vertrag wollen das EWN und die CKW gemeinsam einen Beitrag leisten zur langfristigen Sicherung der Stromversorgung des Kantons Nidwalden.
+Mit diesem Vertrag wollen das EWN und die CKW gemeinsam einen Beitrag leisten zur langfristigen Sicherung der Stromversorgung des Kantons Nidwalden.
 
 #### Art. 2
 
@@ -76,13 +80,15 @@ Die CKW und das EWN stimmen in ihren Absichten überein, die bestehende Zusammen
 
 **Energietransport**
 
-<sup>1</sup> Die CKW besorgen auf Kosten des EWN den Transport der dem EWN aus diesem Vertrag zustehenden Energie gemäss separater Transitvereinbarung.
+Die CKW besorgen auf Kosten des EWN den Transport der dem EWN aus diesem Vertrag zustehenden Energie gemäss separater Transitvereinbarung.
 
-## 2 Finanzielle Verpflichtungen und Ansprüche des EWN
+### II. FINANZIELLE VERPFLICHTUNGEN UND ANSPRÜCHE DES EWN
 
 #### Art. 6
 
-**Anteilmässige Leistungen des EWN für Kapitalzahlungen der CKW**
+**Anteilmässige Leistungen des EWN für Kapitalzahlun-**
+
+gen der CKW
 
 <sup>1</sup> Das EWN hat den CKW ¼% des jeweils insgesamt liberierten und noch zu liberierenden Grundkapitals der KKG zu entrichten.
 
@@ -92,7 +98,7 @@ Die CKW und das EWN stimmen in ihren Absichten überein, die bestehende Zusammen
 
 **Jahreskosten**
 
-<sup>1</sup> Das EWN ist verpflichtet, ¼% der Jahreskosten der KKG zuzüglich 10% vom Zeitpunkt des Energiebezuges an zu bezahlen. Der Zuschlag von 10% wird nur erhoben, wenn die Vollast-Stundenzahl des KKG 6'000 Stunden erreicht oder überschreitet.
+<sup>1</sup> Das EWN ist verpflichtet, ¼% der Jahreskosten der KKG zuzüglich 10% vom Zeitpunkt des Energiebezuges an zu bezahlen. Der Zuschlag von 10% wird nur erhoben, wenn die Vollast-Stundenzahl des KKG 6000 Stunden erreicht oder überschreitet.
 
 <sup>2</sup> Die Jahreskosten setzen sich zusammen aus den festen Kosten und aus den produktionsabhängigen Kosten.
 
@@ -128,27 +134,27 @@ Die CKW und das EWN stimmen in ihren Absichten überein, die bestehende Zusammen
 
 <sup>3</sup> Werden Vorschüsse, an denen sich das EWN gemäss Art. 8 Abs. 2 dieses Vertrages beteiligt hat, zurückbezahlt, so hat das EWN darauf ebenfalls anteilmässig Anspruch.
 
-## 3 Mitgliedschaftsrechte bei der KKG, Informationspflicht der CKW
+### III. MITGLIEDSCHAFTSRECHTE BEI DER KKG, INFORMATIONSPFLICHT DER CKW
 
 #### Art. 11
 
 **Mitgliedschaftsrechte bei der KKG**
 
-<sup>1</sup> Mitgliedschaftsrechte (insbesondere Stimmrecht, Anspruch auf Besetzung von Verwaltungs- und Verwaltungsratsausschuss-Mandaten) stehen allein den CKW zu. Die CKW berücksichtigen bei Ausübung ihrer Mitgliedschaftsrechte soweit als möglich auch die Interessen des EWN.
+Mitgliedschaftsrechte (insbesondere Stimmrecht, Anspruch auf Besetzung von Verwaltungs- und Verwaltungsratsausschuss-Mandaten) stehen allein den CKW zu. Die CKW berücksichtigen bei Ausübung ihrer Mitgliedschaftsrechte soweit als möglich auch die Interessen des EWN.
 
 #### Art. 12
 
 **Informationspflicht der CKW**
 
-<sup>1</sup> Die CKW sorgen dafür, dass die Direktion des EWN rechtzeitig über alle Informationen verfügt, die notwendig sind
+<sup>1</sup> Die CKW sorgen dafür, dass die Direktion des EWN rechtzeitig über alle Informationen verfügt, die notwendig sind - für die betrieblichen Dispositionen des EWN;
 
-- 1\. für die betrieblichen Dispositionen des EWN;
-- 2\. für die Beurteilung der finanziellen Verpflichtungen und Ansprüche des EWN gegenüber den CKW;
-- 3\. für die Überprüfung der von den CKW dem EWN gemäss Art. 6 ff. dieses Vertrages in Rechnung gestellten Aufwendungen und der gemäss Art. 10 dieses Vertrages entstandenen finanziellen Ansprüche des EWN.
+- für die Beurteilung der finanziellen Verpflichtungen und Ansprüche des EWN gegenüber den CKW;
+
+- für die Überprüfung der von den CKW dem EWN gemäss Art. 6 ff. dieses Vertrages in Rechnung gestellten Aufwendungen und der gemäss Art. 10 dieses Vertrages entstandenen finanziellen Ansprüche des EWN.
 
 <sup>2</sup> Die Organe der CKW sind bereit, in wesentlichen Fragen, welche die Interessen des EWN berühren, dessen Organe zu konsultieren, falls dies im Einzelfall vom EWN ausdrücklich gewünscht wird.
 
-## 4 Streitigkeiten, Vertragsdauer
+### IV. STREITIGKEITEN, VERTRAGSDAUER
 
 #### Art. 13
 
@@ -174,6 +180,12 @@ Die CKW und das EWN stimmen in ihren Absichten überein, die bestehende Zusammen
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieser Vertrag tritt am 1. Januar 1985 in Kraft.
+Dieser Vertrag tritt am 1. Januar 1985 in Kraft.
 
-A 1984, 756, 763, 1013
+Also vereinbart, doppelt ausgefertigt und von beiden Parteien unterzeichnet.
+
+**VERWALTUNGSRAT DES KANTONALEN ELEKTRIZITÄTSWERKES NIDWALDEN, STANS Hugo Waser Paul Niederberger**
+
+**CENTRALSCHWEIZERISCHE KRAFTWERKE, LUZERN Jörg Bucher, Direktor Jules Peter, Direktor**
+
+Luzern/Stans, 25. Oktober 1984
