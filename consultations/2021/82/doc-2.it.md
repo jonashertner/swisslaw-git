@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Approvazione dello scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2021/1148 che istituisce, nell’ambito del Fondo per la gestione integrata delle frontiere, uno strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti (sviluppi dell’acquis di Schengen)"
 document: Progetto posto in consultazione
 language: it
