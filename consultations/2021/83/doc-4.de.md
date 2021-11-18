@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung und Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1133 und (EU) 2021/1134 zur Reform des Visa-Informationssystems und der damit verbundenen Bedingungen für den Zugang zu anderen EU-Informationssystemen für VIS-Zwecke (Weiterentwicklungen des Schengen-Besitzstands) sowie zur Änderung des Ausländer- und Integrationsgesetzes
 document: Vernehmlassungsvorlage
 language: de

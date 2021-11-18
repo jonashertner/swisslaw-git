@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1133 et (UE) 2021/1134 réformant le système d’information sur les visas et établissant les conditions d’accès aux autres systèmes d’information de l’UE aux fins du VIS (développements de l’acquis de Schengen) et à la modification de la loi fédérale sur les étrangers et l’intégration (LEI)
 document: Projet mis en consultation-3
 language: fr

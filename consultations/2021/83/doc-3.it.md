@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approvazione e trasposizione nel diritto svizzero degli scambi di note tra la Svizzera e l’UE concernente il recepimento dei regolamenti (UE) 2021/1133 e (UE) 2021/1134 ai fini della riforma del sistema di informazione visti e della definizione delle condizioni di accesso agli altri sistemi di informazione dell’UE ai fini del VIS (sviluppi dell’acquis di Schengen) e sulla modifica della legge sugli stranieri e la loro integrazione
 document: Progetto posto in consultazione-5
 language: it
