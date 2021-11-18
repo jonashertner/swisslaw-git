@@ -3,27 +3,28 @@ sr: "0.814.021.1"
 title: "Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen, vom 29. Juni 1990"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078"
 language: de
-version: 2016-06-07
+version: 2021-11-19
 adopted: 1990-06-29
 in_force: 1992-12-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078/20160607/de/xml/fedlex-data-admin-ch-eli-cc-1993-1078_1078_1078-20160607-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/20160607/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078/20211119/de/xml/fedlex-data-admin-ch-eli-cc-1993-1078_1078_1078-20211119-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/20211119/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen
 
+Fussnotentext
+
 AS **1993** 1078; BBl **1991** IV 229
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Angenommen in London am 29. Juni 1990 an der zweiten Tagung der Vertragsparteien Von der Bundesversammlung genehmigt am 3. Juni 1992[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 16. September 1992 In Kraft getreten für die Schweiz am 15. Dezember 1992
+Angenommen in London am 29. Juni 1990 an der zweiten Tagung der Vertragsparteien Von der Bundesversammlung genehmigt am 3. Juni 1992[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. September 1992 In Kraft getreten für die Schweiz am 15. Dezember 1992
 
-(Stand am 7. Juni 2016)
+(Stand am 19. November 2021)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: [AS 1992 2227](https://fedlex.data.admin.ch/eli/oc/1992/2227_2227_2227)
+[^t-1]: [AS 1992 2227](https://fedlex.data.admin.ch/eli/oc/1992/2227_2227_2227)
 
 #### Art. 1
 
@@ -38,7 +39,7 @@ Angenommen in London am 29. Juni 1990 an der zweiten Tagung der Vertragsparteien
 - 3\. Der 9. Präambelabsatz des Protokolls wird durch folgenden Wortlaut ersetzt:
 - angesichts der Bedeutung der Förderung der internationalen Zusammenarbeit bei der Erforschung, Entwicklung und Weitergabe alternativer Technologien im Zusammenhang mit der Regelung und Verminderung der Emissionen von Stoffen, die zu einem Abbau der Ozonschicht führen, wobei die Bedürfnisse der Entwicklungsländer besonders zu berücksichtigen sind;
 
-[^1-subdivu1-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^1-subdivu1-1]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### B. Artikel 1 Begriffsbestimmungen
 
@@ -346,7 +347,7 @@ Anlage C
 
 <sup>3.</sup> Nach Inkrafttreten dieser Änderung gemäss Absatz 1 tritt sie für jede andere Vertragspartei des Protokolls am neunzigsten Tag nach dem Zeitpunkt der Hinterlegung ihrer Ratifikations-, Annahme- oder Genehmigungsurkunde in Kraft.
 
-Geltungsbereich am 7. Juni 2016**[^t-3]**
+Geltungsbereich am 19. November 2021[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -397,6 +398,7 @@ Geltungsbereich am 7. Juni 2016**[^t-3]**
 <tr><td>El Salvador</td><td>8. Dezember</td><td>2000 B</td><td>8. März</td><td>2001</td></tr>
 <tr><td>Eritrea</td><td>5. Juli</td><td>2005 B</td><td>3. Oktober</td><td>2005</td></tr>
 <tr><td>Estland</td><td>12. April</td><td>1999</td><td>11. Juli</td><td>1999</td></tr>
+<tr><td>Eswatini</td><td>16. Dezember</td><td>2005 B</td><td>16. März</td><td>2006</td></tr>
 <tr><td>[tab] Europäische Union</td><td>20. Dezember</td><td>1991</td><td>10. August</td><td>1992</td></tr>
 <tr><td>Fidschi</td><td>9. Dezember</td><td>1994 B</td><td>9. März</td><td>1995</td></tr>
 <tr><td>Finnland</td><td>20. Dezember</td><td>1991</td><td>10. August</td><td>1992</td></tr>
@@ -463,7 +465,6 @@ Geltungsbereich am 7. Juni 2016**[^t-3]**
 <tr><td>Marshallinseln</td><td>11. März</td><td>1993 B</td><td>9. Juni</td><td>1993</td></tr>
 <tr><td>Mauretanien</td><td>22. Juli</td><td>2005</td><td>20. Oktober</td><td>2005</td></tr>
 <tr><td>Mauritius</td><td>20. Oktober</td><td>1992 B</td><td>18. Januar</td><td>1993</td></tr>
-<tr><td>Mazedonien</td><td>9. November</td><td>1998</td><td>9. Februar</td><td>1999</td></tr>
 <tr><td>Mexiko</td><td>11. Oktober</td><td>1991</td><td>10. August</td><td>1992</td></tr>
 <tr><td>Mikronesien</td><td>27. November</td><td>2001 B</td><td>25. Februar</td><td>2002</td></tr>
 <tr><td>Moldau</td><td>25. Juni</td><td>2001 B</td><td>23. September</td><td>2001</td></tr>
@@ -482,6 +483,7 @@ Geltungsbereich am 7. Juni 2016**[^t-3]**
 <tr><td>Niger</td><td>11. Januar</td><td>1996 B</td><td>10. April</td><td>1996</td></tr>
 <tr><td>Nigeria</td><td>27. September</td><td>2001</td><td>26. Dezember</td><td>2001</td></tr>
 <tr><td>Niue</td><td>22. Dezember</td><td>2003 B</td><td>21. März</td><td>2004</td></tr>
+<tr><td>Nordmazedonien</td><td>9. November</td><td>1998</td><td>9. Februar</td><td>1999</td></tr>
 <tr><td>Norwegen</td><td>18. November</td><td>1991</td><td>10. August</td><td>1992</td></tr>
 <tr><td>Oman</td><td>5. August</td><td>1999 B</td><td>3. November</td><td>1999</td></tr>
 <tr><td>Österreich</td><td>11. Dezember</td><td>1992</td><td>11. März</td><td>1993</td></tr>
@@ -523,7 +525,6 @@ Geltungsbereich am 7. Juni 2016**[^t-3]**
 <tr><td>Sudan</td><td>2. Januar</td><td>2002 B</td><td>2. April</td><td>2002</td></tr>
 <tr><td>Südsudan</td><td>16. Oktober</td><td>2012 B</td><td>14. Januar</td><td>2013</td></tr>
 <tr><td>Suriname</td><td>29. März</td><td>2006 B</td><td>27. Juni</td><td>2006</td></tr>
-<tr><td>Swasiland</td><td>16. Dezember</td><td>2005 B</td><td>16. März</td><td>2006</td></tr>
 <tr><td>Syrien</td><td>30. November</td><td>1999 B</td><td>28. Februar</td><td>2000</td></tr>
 <tr><td>Tadschikistan</td><td>7. Januar</td><td>1998 B</td><td>7. April</td><td>1998</td></tr>
 <tr><td>Tansania</td><td>16. April</td><td>1993 B</td><td>15. Juli</td><td>1993</td></tr>
@@ -552,15 +553,16 @@ Geltungsbereich am 7. Juni 2016**[^t-3]**
 <tr><td>Britisches Antarktis-Territorium</td><td>8. September</td><td>1993</td><td>8. September</td><td>1993</td></tr>
 <tr><td>Gibraltar</td><td>20. Dezember</td><td>1991</td><td>10. August</td><td>1992</td></tr>
 <tr><td>Guernsey</td><td>8. September</td><td>1993</td><td>8. September</td><td>1993</td></tr>
+<tr><td>Insel Man</td><td>25. Februar</td><td>2021</td><td>25. Februar</td><td>2021</td></tr>
 <tr><td>Jersey</td><td>4. Januar</td><td>1995</td><td>4. Januar</td><td>1995</td></tr>
 <tr><td>Vietnam</td><td>26. Januar</td><td>1994 B</td><td>26. April</td><td>1994</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>29. Mai</td><td>2008</td><td>27. August</td><td>2008</td></tr>
 <tr><td>Zypern</td><td>11. Oktober</td><td>1994</td><td>9. Januar</td><td>1995</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5">a Vom 8. September 1993 bis zum 30. Juni 1997 war die Änderung des Montrealer Protokolls auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist die Änderung seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 <tr><td colspan="5">b Vom 15. Februar 1994 bis zum 19. Dezember 1999 war die Änderung des Montrealer Protokolls auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 19. Oktober 1999 ist die Änderung seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar.</td></tr>
 <tr><td colspan="5">c Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 1993 1078](https://fedlex.data.admin.ch/eli/oc/1993/1078_1078_1078)3018, [2002 2657](https://fedlex.data.admin.ch/eli/oc/2002/366), [2004 4005](https://fedlex.data.admin.ch/eli/oc/2004/581), [2005 2339](https://fedlex.data.admin.ch/eli/oc/2005/400), [2007 5081](https://fedlex.data.admin.ch/eli/oc/2007/712), [2009 2557](https://fedlex.data.admin.ch/eli/oc/2009/330), [2012 5263](https://fedlex.data.admin.ch/eli/oc/2012/601)und [2016 2257](https://fedlex.data.admin.ch/eli/oc/2016/357). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1993 1078](https://fedlex.data.admin.ch/eli/oc/1993/1078_1078_1078), 3018; [2002 2657](https://fedlex.data.admin.ch/eli/oc/2002/366); [2004 4005](https://fedlex.data.admin.ch/eli/oc/2004/581); [2005 2339](https://fedlex.data.admin.ch/eli/oc/2005/400); [2007 5081](https://fedlex.data.admin.ch/eli/oc/2007/712); [2009 2557](https://fedlex.data.admin.ch/eli/oc/2009/330); [2012 5263](https://fedlex.data.admin.ch/eli/oc/2012/601); [2016 2257](https://fedlex.data.admin.ch/eli/oc/2016/357); [2021 756](https://fedlex.data.admin.ch/eli/oc/2021/756). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).

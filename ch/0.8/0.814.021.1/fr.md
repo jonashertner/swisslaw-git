@@ -3,11 +3,11 @@ sr: "0.814.021.1"
 title: "Amendement du Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, du 29 juin 1990"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078"
 language: fr
-version: 2016-06-07
+version: 2021-11-19
 adopted: 1990-06-29
 in_force: 1992-12-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078/20160607/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1078_1078_1078-20160607-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/20160607/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078/20211119/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1078_1078_1078-20211119-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/20211119/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 16 septembre 1992
 
 Entré en vigueur pour la Suisse le 15 décembre 1992
 
-(Etat le 7 juin 2016)
+(État le 19 novembre 2021)
 
 [^t-1]: [RO 1992 2227](https://fedlex.data.admin.ch/eli/oc/1992/2227_2227_2227)
 
@@ -43,7 +43,7 @@ Entré en vigueur pour la Suisse le 15 décembre 1992
 - 3\. Remplacer le neuvième alinéa du préambule du Protocole par le texte suivant:
 - Considérant qu’il importe de promouvoir une coopération internationale en matière de recherche, de développement et de transfert de techniques de substitution pour la réglementation et la réduction des émissions de substances qui appauvrissent la couche d’ozone, en tenant compte notamment des besoins des pays en développement;
 
-[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### B. Art. 1 Définitions
 
@@ -139,39 +139,39 @@ Les paragraphes ci-après seront ajoutés au Protocole en tant qu’art. 2E:
 
 <sup>1.</sup>
 
-A l’art. 3 du Protocole, après «des art. 2 et», ajouter:
+À l’art. 3 du Protocole, après «des art. 2 et», ajouter:
 
 - «2A à 2E».
 
-<sup>2.</sup> A l’art. 3 du Protocole, ajouter le membre de phrase «ou à l’annexe B» après «à l’annexe A» chaque fois que ce membre de phrase apparaît dans le texte de l’article.
+<sup>2.</sup> À l’art. 3 du Protocole, ajouter le membre de phrase «ou à l’annexe B» après «à l’annexe A» chaque fois que ce membre de phrase apparaît dans le texte de l’article.
 
-### O. Art. 4 Réglementation des échanges commerciaux avec les Etats non Parties au Protocole
+### O. Art. 4 Réglementation des échanges commerciaux avec les États non Parties au Protocole
 
 <sup>1.</sup>
 
 Remplacer les par. 1 à 5 de l’art. 4 par les paragraphes suivants:
 
-- 1. A compter du 1<sup>er</sup> janvier 1990, chaque Partie interdit l’importation des substances réglementées de l’annexe A en provenance de tout Etat non Partie au présent Protocole.
-- 1.<sup>bis</sup> Dans un délai d’un an à compter de la date d’entrée en vigueur du présent paragraphe, chaque Partie interdit l’importation des substances réglementées de l’annexe B en provenance de tout Etat non Partie au présent Protocole.
-- 2. A compter du 1<sup>er</sup> janvier 1993, chaque Partie interdit l’exportation de l’une quelconque des substances réglementées de l’annexe A vers un Etat non Partie au présent Protocole.
-- 2.<sup>bis</sup> A partir d’une année après l’entrée en vigueur du présent paragraphe, chaque Partie interdit l’exportation de l’une quelconque des substances réglementées de l’annexe B vers un Etat non Partie au présent Protocole.
-- 3. Au 1<sup>er</sup> janvier 1992, les Parties auront établi sous forme d’annexe une liste des produits contenant des substances réglementées de l’annexe A, conformément aux procédures spécifiées à l’art. 10 de la Convention. Les Parties qui ne s’y sont pas opposées, conformément à ces procédures, interdisent, dans un délai d’un an à compter de la date d’entrée en vigueur de l’annexe, l’importation de ces produits en provenance de tout Etat non Partie au présent Protocole.
-- 3.<sup>bis</sup> Dans un délai de trois ans à compter de la date d’entrée en vigueur du présent paragraphe, les Parties établissent, sous forme d’annexe, une liste des produits contenant des substances réglementées de l’annexe B, conformément aux procédures spécifiées à l’art. 10 de la Convention. Les Parties qui ne s’y sont pas opposées, conformément à ces procédures, interdisent, dans un délai d’un an à compter de la date d’entrée en vigueur de l’annexe, l’importation de ces produits en provenance de tout Etat non Partie au présent protocole.
-- 4. Au 1<sup>er</sup> janvier 1994, les Parties auront décidé de la possibilité d’interdire ou de limiter les importations, à partir de tout Etat non Partie au présent Protocole, de produits fabriqués à l’aide des substances réglementées de l’annexe A mais qui ne les contiennent pas. Si cette possibilité est reconnue, les Parties établissent, sous forme d’annexe, une liste desdits produits conformément aux procédures spécifiées à l’art. 10 de la Convention. Les Parties qui ne s’y sont pas opposées, conformément à ces procédures, interdisent ou limitent, dans un délai d’un an à compter de la date d’entrée en vigueur de l’annexe, l’importation de ces produits en provenance de tout Etat non Partie au présent Protocole.
-- 4.<sup>bis</sup> Dans un délai de cinq ans à compter de la date d’entrée en vigueur du présent paragraphe, les Parties décident de la possibilité d’interdire ou de limiter les importations, à partir de tout Etat non Partie au présent Protocole, de produits fabriqués à l’aide de substances réglementées de l’annexe B mais qui ne les contiennent pas. Si cette possibilité est reconnue, les Parties établissent, sous forme d’annexe, une liste desdits produits conformément aux procédures spécifiées à l’art. 10 de la Convention. Les Parties qui ne se sont pas opposées à l’annexe, conformément à ces procédures, interdisent ou limitent, dans un délai d’un an à compter de la date d’entrée en vigueur de l’annexe, l’importation de ces produits en provenance de tout Etat non Partie au présent Protocole.
-- 5. Chacune des Parties entreprend, dans toute la mesure du possible, de décourager les exportations des techniques de production ou d’utilisation des substances réglementées vers tout Etat non Partie au Protocole.
+- 1. À compter du 1<sup>er</sup> janvier 1990, chaque Partie interdit l’importation des substances réglementées de l’annexe A en provenance de tout État non Partie au présent Protocole.
+- 1.<sup>bis</sup> Dans un délai d’un an à compter de la date d’entrée en vigueur du présent paragraphe, chaque Partie interdit l’importation des substances réglementées de l’annexe B en provenance de tout État non Partie au présent Protocole.
+- 2. À compter du 1<sup>er</sup> janvier 1993, chaque Partie interdit l’exportation de l’une quelconque des substances réglementées de l’annexe A vers un État non Partie au présent Protocole.
+- 2.<sup>bis</sup> À partir d’une année après l’entrée en vigueur du présent paragraphe, chaque Partie interdit l’exportation de l’une quelconque des substances réglementées de l’annexe B vers un État non Partie au présent Protocole.
+- 3. Au 1<sup>er</sup> janvier 1992, les Parties auront établi sous forme d’annexe une liste des produits contenant des substances réglementées de l’annexe A, conformément aux procédures spécifiées à l’art. 10 de la Convention. Les Parties qui ne s’y sont pas opposées, conformément à ces procédures, interdisent, dans un délai d’un an à compter de la date d’entrée en vigueur de l’annexe, l’importation de ces produits en provenance de tout État non Partie au présent Protocole.
+- 3.<sup>bis</sup> Dans un délai de trois ans à compter de la date d’entrée en vigueur du présent paragraphe, les Parties établissent, sous forme d’annexe, une liste des produits contenant des substances réglementées de l’annexe B, conformément aux procédures spécifiées à l’art. 10 de la Convention. Les Parties qui ne s’y sont pas opposées, conformément à ces procédures, interdisent, dans un délai d’un an à compter de la date d’entrée en vigueur de l’annexe, l’importation de ces produits en provenance de tout État non Partie au présent protocole.
+- 4. Au 1<sup>er</sup> janvier 1994, les Parties auront décidé de la possibilité d’interdire ou de limiter les importations, à partir de tout État non Partie au présent Protocole, de produits fabriqués à l’aide des substances réglementées de l’annexe A mais qui ne les contiennent pas. Si cette possibilité est reconnue, les Parties établissent, sous forme d’annexe, une liste desdits produits conformément aux procédures spécifiées à l’art. 10 de la Convention. Les Parties qui ne s’y sont pas opposées, conformément à ces procédures, interdisent ou limitent, dans un délai d’un an à compter de la date d’entrée en vigueur de l’annexe, l’importation de ces produits en provenance de tout État non Partie au présent Protocole.
+- 4.<sup>bis</sup> Dans un délai de cinq ans à compter de la date d’entrée en vigueur du présent paragraphe, les Parties décident de la possibilité d’interdire ou de limiter les importations, à partir de tout État non Partie au présent Protocole, de produits fabriqués à l’aide de substances réglementées de l’annexe B mais qui ne les contiennent pas. Si cette possibilité est reconnue, les Parties établissent, sous forme d’annexe, une liste desdits produits conformément aux procédures spécifiées à l’art. 10 de la Convention. Les Parties qui ne se sont pas opposées à l’annexe, conformément à ces procédures, interdisent ou limitent, dans un délai d’un an à compter de la date d’entrée en vigueur de l’annexe, l’importation de ces produits en provenance de tout État non Partie au présent Protocole.
+- 5. Chacune des Parties entreprend, dans toute la mesure du possible, de décourager les exportations des techniques de production ou d’utilisation des substances réglementées vers tout État non Partie au Protocole.
 
 <sup>2.</sup>
 
 Le par. 8 de l’art. 4 du Protocole est remplacé par le paragraphe suivant:
 
-- 8. Nonobstant les dispositions du présent article, les importations mentionnées aux par. 1, 1<sup>bis</sup>, 3, 3<sup>bis</sup>, 4 et 4<sup>bis</sup>, ainsi que les exportations mentionnées aux par. 2 et 2<sup>bis</sup> peuvent être autorisées à partir ou à destination d’un Etat non Partie au présent Protocole, à condition qu’une réunion des Parties ait conclu que ledit Etat observe scrupuleusement les dispositions des art. 2, 2A à 2E et du présent article et qu’il a communiqué des données à cet effet comme cela est précisé à l’art. 7.
+- 8. Nonobstant les dispositions du présent article, les importations mentionnées aux par. 1, 1<sup>bis</sup>, 3, 3<sup>bis</sup>, 4 et 4<sup>bis</sup>, ainsi que les exportations mentionnées aux par. 2 et 2<sup>bis</sup> peuvent être autorisées à partir ou à destination d’un État non Partie au présent Protocole, à condition qu’une réunion des Parties ait conclu que ledit État observe scrupuleusement les dispositions des art. 2, 2A à 2E et du présent article et qu’il a communiqué des données à cet effet comme cela est précisé à l’art. 7.
 
 <sup>3.</sup>
 
 Le paragraphe ci-après sera ajouté à l’art. 4 du Protocole en tant que par. 9:
 
-- 9. Aux fins du présent article, l’expression «Etat non Partie au présent Protocole» désigne, en ce qui concerne toute substance réglementée, un Etat ou une organisation régionale d’intégration économique qui n’a pas accepté d’être lié par les mesures de réglementation en vigueur pour cette substance.
+- 9. Aux fins du présent article, l’expression «État non Partie au présent Protocole» désigne, en ce qui concerne toute substance réglementée, un État ou une organisation régionale d’intégration économique qui n’a pas accepté d’être lié par les mesures de réglementation en vigueur pour cette substance.
 
 ### P. Art. 5 Situation particulière des pays en développement
 
@@ -193,7 +193,7 @@ L’art. 5 du Protocole est remplacé par ce qui suit:
 - 8. Une réunion des Parties examinera, au plus tard en 1995, la situation des Parties visées au paragraphe 1 du présent article, notamment en ce qui concerne la mise en œuvre effective de la coopération financière et le transfert des techniques prévus à leur intention et adopte les modifications qu’il pourrait être nécessaire d’apporter aux mesures de réglementation qui s’appliquent à ces Parties.
 - 9. Les décisions des Parties visées aux par. 4, 6 et 7 du présent article sont prises selon la même procédure que celle qui est prévue à l’art. 10.
 
-### Q. Art. 6 Evaluation et examen des mesures de réglementation
+### Q. Art. 6 Évaluation et examen des mesures de réglementation
 
 Ajouter à l’art. 6, après les mots «art. 2», le membre de phrase suivant: «et aux art. 2A à 2E ainsi que la situation touchant la production, les importations et les exportations des substances de transition du Groupe I de l’annexe C».
 
@@ -209,7 +209,7 @@ Le texte de l’art. 7 du Protocole est remplacé par ce qui suit:
   - – les importations et les exportations à destination respectivement des Parties et non Parties,
 
 - de chacune des substances réglementées des annexes A et B ainsi que des substances de transition du Groupe I de l’annexe C, pour l’année au cours de laquelle les dispositions concernant les substances de l’annexe B sont entrées en vigueur à l’égard de la Partie considérée et pour chacune des années suivantes. Ces données sont communiquées dans un délai maximal de neuf mois après la fin de l’année à laquelle elles se rapportent.
-- 4. Les Parties régies par les dispositions du par. 8 a) de l’art. 2 auront satisfait aux obligations prévues aux par. 1, 2 et 3 du présent article relatives à la communication de données statistiques sur les importations et les exportations si l’organisation régionale d’intégration économique compétente fournit des données sur les importations et exportations entre l’organisation et les Etats qui n’en sont pas membres.
+- 4. Les Parties régies par les dispositions du par. 8 a) de l’art. 2 auront satisfait aux obligations prévues aux par. 1, 2 et 3 du présent article relatives à la communication de données statistiques sur les importations et les exportations si l’organisation régionale d’intégration économique compétente fournit des données sur les importations et exportations entre l’organisation et les États qui n’en sont pas membres.
 
 ### S. Art. 9 Recherche, développement, sensibilisation du public et échange de renseignements
 
@@ -273,7 +273,7 @@ L’article ci-après sera ajouté au Protocole en tant qu’art. 10A:
 
 Le par. 4, al. g), de l’art. 11 du Protocole est remplacé par ce qui suit:
 
-- g) Evaluer, en application de l’art. 6, les mesures de réglementation et la situation en ce qui concerne les substances de transition;
+- g) Évaluer, en application de l’art. 6, les mesures de réglementation et la situation en ce qui concerne les substances de transition;
 
 ### W. Art. 17 Parties adhérant après l’entrée en vigueur
 
@@ -343,16 +343,16 @@ Annexe C
 
 **Entrée en vigueur**
 
-<sup>1.</sup> Le présent amendement entre en vigueur le 1<sup>er</sup> janvier 1992, sous réserve du dépôt à cette date d’au moins vingt instruments de ratification, d’acceptation ou d’approbation dudit amendement par des Etats ou des organisations régionales d’intégration économique qui sont Parties au Protocole de Montréal relatif à des substances qui appauvrissent la couche d’ozone. Si, à cette date, cette condition n’a pas été remplie, l’amendement entre en vigueur le quatre-vingt-dixième jour suivant la date à laquelle elle a été remplie.
+<sup>1.</sup> Le présent amendement entre en vigueur le 1<sup>er</sup> janvier 1992, sous réserve du dépôt à cette date d’au moins vingt instruments de ratification, d’acceptation ou d’approbation dudit amendement par des États ou des organisations régionales d’intégration économique qui sont Parties au Protocole de Montréal relatif à des substances qui appauvrissent la couche d’ozone. Si, à cette date, cette condition n’a pas été remplie, l’amendement entre en vigueur le quatre-vingt-dixième jour suivant la date à laquelle elle a été remplie.
 
-<sup>2.</sup> Aux fins du par. 1, aucun des instruments déposés par une organisation régionale d’intégration économique ne doit être considéré comme un instrument venant s’ajouter aux instruments déjà déposés par les Etats Membres de ladite organisation.
+<sup>2.</sup> Aux fins du par. 1, aucun des instruments déposés par une organisation régionale d’intégration économique ne doit être considéré comme un instrument venant s’ajouter aux instruments déjà déposés par les États Membres de ladite organisation.
 
 <sup>3.</sup> Postérieurement à l’entrée en vigueur du présent amendement conformément au par. 1, cet amendement entre en vigueur pour toute autre Partie au Protocole le quatre-vingt-dixième jour suivant la date du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-Champ d’application le 7 juin 2016**[^t-2]**
+Champ d’application le 19 novembre 2021[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>17 juin</td><td>2004 A</td><td>15 septembre</td><td>2004</td></tr>
 <tr><td>Afrique du Sud</td><td>12 mai</td><td>1992</td><td>10 août</td><td>1992</td></tr>
 <tr><td>Albanie</td><td>25 mai</td><td>2006 A</td><td>23 août</td><td>2006</td></tr>
@@ -400,22 +400,23 @@ Champ d’application le 7 juin 2016**[^t-2]**
 <tr><td>Corée (Nord)</td><td>17 juin</td><td>1999 A</td><td>15 septembre</td><td>1999</td></tr>
 <tr><td>Corée (Sud)</td><td>10 décembre</td><td>1992 A</td><td>10 mars</td><td>1993</td></tr>
 <tr><td>Costa Rica</td><td>11 novembre</td><td>1998</td><td>9 février</td><td>1999</td></tr>
-<tr><td>Côte d'Ivoire</td><td>18 mai</td><td>1994</td><td>16 août</td><td>1994</td></tr>
+<tr><td>Côte d’Ivoire</td><td>18 mai</td><td>1994</td><td>16 août</td><td>1994</td></tr>
 <tr><td>Croatie</td><td>15 octobre</td><td>1993</td><td>13 janvier</td><td>1994</td></tr>
 <tr><td>Cuba</td><td>19 octobre</td><td>1998</td><td>17 janvier</td><td>1999</td></tr>
 <tr><td>Danemark\*</td><td>20 décembre</td><td>1991</td><td>10 août</td><td>1992</td></tr>
-<tr><td>[tab] Iles Féroé</td><td>24 octobre</td><td>2007</td><td>24 octobre</td><td>2007</td></tr>
+<tr><td>[tab] Îles Féroé</td><td>24 octobre</td><td>2007</td><td>24 octobre</td><td>2007</td></tr>
 <tr><td>Djibouti</td><td>30 juillet</td><td>1999 A</td><td>28 octobre</td><td>1999</td></tr>
 <tr><td>Dominique</td><td>31 mars</td><td>1993 A</td><td>29 juin</td><td>1993</td></tr>
-<tr><td>Egypte</td><td>13 janvier</td><td>1993</td><td>13 avril</td><td>1993</td></tr>
+<tr><td>Égypte</td><td>13 janvier</td><td>1993</td><td>13 avril</td><td>1993</td></tr>
 <tr><td>El Salvador</td><td>8 décembre</td><td>2000 A</td><td>8 mars</td><td>2001</td></tr>
-<tr><td>Emirats arabes unis</td><td>16 février</td><td>2005 A</td><td>17 mai</td><td>2005</td></tr>
-<tr><td>Equateur</td><td>23 février</td><td>1993</td><td>24 mai</td><td>1993</td></tr>
-<tr><td>Erythrée</td><td>5 juillet</td><td>2005 A</td><td>3 octobre</td><td>2005</td></tr>
+<tr><td>Émirats arabes unis</td><td>16 février</td><td>2005 A</td><td>17 mai</td><td>2005</td></tr>
+<tr><td>Équateur</td><td>23 février</td><td>1993</td><td>24 mai</td><td>1993</td></tr>
+<tr><td>Érythrée</td><td>5 juillet</td><td>2005 A</td><td>3 octobre</td><td>2005</td></tr>
 <tr><td>Espagne\*</td><td>19 mai</td><td>1992</td><td>17 août</td><td>1992</td></tr>
 <tr><td>Estonie</td><td>12 avril</td><td>1999</td><td>11 juillet</td><td>1999</td></tr>
-<tr><td>Etats-Unis</td><td>18 décembre</td><td>1991</td><td>10 août</td><td>1992</td></tr>
-<tr><td>Ethiopie</td><td>25 novembre</td><td>2009</td><td>23 février</td><td>2010</td></tr>
+<tr><td>Eswatini</td><td>16 décembre</td><td>2005 A</td><td>16 mars</td><td>2006</td></tr>
+<tr><td>États-Unis</td><td>18 décembre</td><td>1991</td><td>10 août</td><td>1992</td></tr>
+<tr><td>Éthiopie</td><td>25 novembre</td><td>2009</td><td>23 février</td><td>2010</td></tr>
 <tr><td>Fidji</td><td>9 décembre</td><td>1994 A</td><td>9 mars</td><td>1995</td></tr>
 <tr><td>Finlande</td><td>20 décembre</td><td>1991</td><td>10 août</td><td>1992</td></tr>
 <tr><td>France</td><td>12 février</td><td>1992</td><td>10 août</td><td>1992</td></tr>
@@ -433,8 +434,9 @@ Champ d’application le 7 juin 2016**[^t-2]**
 <tr><td>Haïti</td><td>29 mars</td><td>2000 A</td><td>27 juin</td><td>2000</td></tr>
 <tr><td>Honduras</td><td>24 janvier</td><td>2002</td><td>24 avril</td><td>2002</td></tr>
 <tr><td>Hongrie</td><td>9 novembre</td><td>1993</td><td>7 février</td><td>1994</td></tr>
-<tr><td>Iles Cook</td><td>22 décembre</td><td>2003 A</td><td>21 mars</td><td>2004</td></tr>
-<tr><td>Iles Marshall</td><td>11 mars</td><td>1993 A</td><td>9 juin</td><td>1993</td></tr>
+<tr><td>Îles Cook</td><td>22 décembre</td><td>2003 A</td><td>21 mars</td><td>2004</td></tr>
+<tr><td>Îles Marshall</td><td>11 mars</td><td>1993 A</td><td>9 juin</td><td>1993</td></tr>
+<tr><td>Îles Salomon</td><td>17 août</td><td>1999 A</td><td>15 novembre</td><td>1999</td></tr>
 <tr><td>Inde</td><td>19 juin</td><td>1992 A</td><td>17 septembre</td><td>1992</td></tr>
 <tr><td>Indonésie</td><td>26 juin</td><td>1992</td><td>24 septembre</td><td>1992</td></tr>
 <tr><td>Iran</td><td>4 août</td><td>1997</td><td>2 novembre</td><td>1997</td></tr>
@@ -460,7 +462,7 @@ Champ d’application le 7 juin 2016**[^t-2]**
 <tr><td>Liechtenstein</td><td>24 mars</td><td>1994</td><td>22 juin</td><td>1994</td></tr>
 <tr><td>Lituanie</td><td>3 février</td><td>1998</td><td>4 mai</td><td>1998</td></tr>
 <tr><td>Luxembourg</td><td>20 mai</td><td>1992</td><td>18 août</td><td>1992</td></tr>
-<tr><td>Macédoine</td><td>9 novembre</td><td>1998</td><td>9 février</td><td>1999</td></tr>
+<tr><td>Macédoine du Nord</td><td>9 novembre</td><td>1998</td><td>9 février</td><td>1999</td></tr>
 <tr><td>Madagascar</td><td>16 janvier</td><td>2002 A</td><td>16 avril</td><td>2002</td></tr>
 <tr><td>Malaisie</td><td>16 juin</td><td>1993 A</td><td>14 septembre</td><td>1993</td></tr>
 <tr><td>Malawi</td><td>8 février</td><td>1994</td><td>9 mai</td><td>1994</td></tr>
@@ -509,7 +511,8 @@ Champ d’application le 7 juin 2016**[^t-2]**
 <tr><td>Royaume-Uni</td><td>20 décembre</td><td>1991</td><td>10 août</td><td>1992</td></tr>
 <tr><td>[tab] Gibraltar</td><td>20 décembre</td><td>1991</td><td>10 août</td><td>1992</td></tr>
 <tr><td>[tab] Guernesey</td><td>8 septembre</td><td>1993</td><td>8 septembre</td><td>1993</td></tr>
-<tr><td>[tab] Iles Vierges britanniques</td><td>30 octobre</td><td>1995</td><td>30 octobre</td><td>1995</td></tr>
+<tr><td>[tab] Île de Man</td><td>25 février</td><td>2021</td><td>25 février</td><td>2021</td></tr>
+<tr><td>[tab] Îles Vierges britanniques</td><td>30 octobre</td><td>1995</td><td>30 octobre</td><td>1995</td></tr>
 <tr><td>[tab] Jersey</td><td>4 janvier</td><td>1995</td><td>4 janvier</td><td>1995</td></tr>
 <tr><td>[tab] Territoire antarctique britannique</td><td>8 septembre</td><td>1993</td><td>8 septembre</td><td>1993</td></tr>
 <tr><td>Russie</td><td>13 janvier</td><td>1992</td><td>10 août</td><td>1992</td></tr>
@@ -519,7 +522,6 @@ Champ d’application le 7 juin 2016**[^t-2]**
 <tr><td>Saint-Marin</td><td>23 avril</td><td>2009 A</td><td>22 juillet</td><td>2009</td></tr>
 <tr><td>Saint-Siège\*</td><td>5 mai</td><td>2008 A</td><td>3 août</td><td>2008</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>2 décembre</td><td>1996 A</td><td>2 mars</td><td>1997</td></tr>
-<tr><td>Salomon, Iles</td><td>17 août</td><td>1999 A</td><td>15 novembre</td><td>1999</td></tr>
 <tr><td>Samoa</td><td>4 octobre</td><td>2001</td><td>2 janvier</td><td>2002</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>19 novembre</td><td>2001 A</td><td>17 février</td><td>2002</td></tr>
 <tr><td>Sénégal</td><td>6 mai</td><td>1993</td><td>4 août</td><td>1993</td></tr>
@@ -536,7 +538,6 @@ Champ d’application le 7 juin 2016**[^t-2]**
 <tr><td>Suède</td><td>2 août</td><td>1991</td><td>10 août</td><td>1992</td></tr>
 <tr><td>Suisse</td><td>16 septembre</td><td>1992</td><td>15 décembre</td><td>1992</td></tr>
 <tr><td>Suriname</td><td>29 mars</td><td>2006 A</td><td>27 juin</td><td>2006</td></tr>
-<tr><td>Swaziland</td><td>16 décembre</td><td>2005 A</td><td>16 mars</td><td>2006</td></tr>
 <tr><td>Syrie</td><td>30 novembre</td><td>1999 A</td><td>28 février</td><td>2000</td></tr>
 <tr><td>Tadjikistan</td><td>7 janvier</td><td>1998 A</td><td>7 avril</td><td>1998</td></tr>
 <tr><td>Tanzanie</td><td>16 avril</td><td>1993 A</td><td>15 juillet</td><td>1993</td></tr>
@@ -559,10 +560,10 @@ Champ d’application le 7 juin 2016**[^t-2]**
 <tr><td>Yémen</td><td>23 avril</td><td>2001 A</td><td>22 juillet</td><td>2001</td></tr>
 <tr><td>Zambie</td><td>15 avril</td><td>1994</td><td>14 juillet</td><td>1994</td></tr>
 <tr><td>Zimbabwe</td><td>3 juin</td><td>1994</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet des Nations Unies: http:/treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Du 8 sept. 1993 au 30 juin 1997, l’Amendement au Protocole de Montréal était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, l’Amendement est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Du 15 fév. 1994 au 19 déc. 1999, l’Amendement au Protocole de Montréal était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 19 oct. 1999, l’Amendement est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Du 8 sept. 1993 au 30 juin 1997, l’Amendement au Protocole de Montréal était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, l’Amendement est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Du 15 fév. 1994 au 19 déc. 1999, l’Amendement au Protocole de Montréal était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 19 oct. 1999, l’Amendement est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: RO **1993** 1078 3018, **2002** 2657, **2004** 4005, **2005** 2339, **2007** 5081, **2009** 2557, **2012** 5263, **2016** 2257. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: RO **1993** 1078, 3018; **2002** 2657; **2004** 4005; **2005** 2339; **2007** 5081; **2009** 2557; **2012** 5263; **2016** 2257; **2021** 756. Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral « Fedlex » à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty) .

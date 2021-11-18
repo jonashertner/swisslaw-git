@@ -3,11 +3,11 @@ sr: "0.814.021.1"
 title: "Emendamento al Protocollo di Montreal sulle sostanze che impoveriscono lo strato di ozono, del 29 giugno 1990"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078"
 language: it
-version: 2016-06-07
+version: 2021-11-19
 adopted: 1990-06-29
 in_force: 1992-12-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078/20160607/it/xml/fedlex-data-admin-ch-eli-cc-1993-1078_1078_1078-20160607-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/20160607/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078/20211119/it/xml/fedlex-data-admin-ch-eli-cc-1993-1078_1078_1078-20211119-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/20211119/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/20160607/it"
 
 RU **1993** 1078; FF **1991** IV 205
 
-Traduzione*[^t-1]*
+Traduzione
 
-Adottato dalla Seconda riunione delle Parti a Londra il 29 giugno 1990 Approvato dall’Assemblea federale il 3 giugno 1992[^t-2] Ratificato con strumento depositato dalla Svizzera il 16 settembre 1992 Entrato in vigore per la Svizzera il 15 dicembre 1992
+Adottato dalla Seconda riunione delle Parti a Londra il 29 giugno 1990
 
-(Stato 7 giugno 2016)
+Approvato dall’Assemblea federale il 3 giugno 1992[^t-1]
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 1992 2227](https://fedlex.data.admin.ch/eli/oc/1992/2227_2227_2227)
+Ratificato con strumento depositato dalla Svizzera il 16 settembre 1992
+
+Entrato in vigore per la Svizzera il 15 dicembre 1992
+
+(Stato 19 novembre 2021)
+
+[^t-1]: [RU 1992 2227](https://fedlex.data.admin.ch/eli/oc/1992/2227_2227_2227)
 
 #### Art. 1
 
@@ -38,7 +43,7 @@ Adottato dalla Seconda riunione delle Parti a Londra il 29 giugno 1990 Approvato
 - 3\. Sostituire al nono paragrafo del preambolo del protocollo il testo seguente:
 - considerando che è importante promuovere la cooperazione internazionale nei settori della ricerca, dello sviluppo e del trasferimento di tecnologie alternative per il controllo e la riduzione delle emissioni di sostanze che riducono lo strato di ozono, tenendo conto in particolare delle necessità dei Paesi in via di sviluppo,
 
-[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### B. Articolo 1 Definizioni
 
@@ -344,7 +349,7 @@ Allegato C
 
 <sup>3.</sup> Dopo l’entrata in vigore del presente emendamento, come indicato al paragrafo 1, il suddetto emendamento entra in vigore per tutte le altre Parti contraenti al protocollo il novantesimo giorno successivo alla data del deposito del loro strumento di ratifica, accettazione o approvazione.
 
-Campo d’applicazione il 7 giugno 2016**[^t-3]**
+Campo d’applicazione il 19 novembre 2021[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -396,7 +401,7 @@ Campo d’applicazione il 7 giugno 2016**[^t-3]**
 <tr><td>Corea (Nord)</td><td>17 giugno</td><td>1999 A</td><td>15 settembre</td><td>1999</td></tr>
 <tr><td>Corea (Sud)</td><td>10 dicembre</td><td>1992 A</td><td>10 marzo</td><td>1993</td></tr>
 <tr><td>Costa Rica</td><td>11 novembre</td><td>1998</td><td>9 febbraio</td><td>1999</td></tr>
-<tr><td>Côte d'Ivoire</td><td>18 maggio</td><td>1994</td><td>16 agosto</td><td>1994</td></tr>
+<tr><td>Côte d’Ivoire</td><td>18 maggio</td><td>1994</td><td>16 agosto</td><td>1994</td></tr>
 <tr><td>Croazia</td><td>15 ottobre</td><td>1993</td><td>13 gennaio</td><td>1994</td></tr>
 <tr><td>Cuba</td><td>19 ottobre</td><td>1998</td><td>17 gennaio</td><td>1999</td></tr>
 <tr><td>Danimarca<sup>\*</sup></td><td>20 dicembre</td><td>1991</td><td>10 agosto</td><td>1992</td></tr>
@@ -409,6 +414,7 @@ Campo d’applicazione il 7 giugno 2016**[^t-3]**
 <tr><td>Emirati Arabi Uniti</td><td>16 febbraio</td><td>2005 A</td><td>17 maggio</td><td>2005</td></tr>
 <tr><td>Eritrea</td><td>5 luglio</td><td>2005 A</td><td>3 ottobre</td><td>2005</td></tr>
 <tr><td>Estonia</td><td>12 aprile</td><td>1999</td><td>11 luglio</td><td>1999</td></tr>
+<tr><td>Eswatini</td><td>16 dicembre</td><td>2005 A</td><td>16 marzo</td><td>2006</td></tr>
 <tr><td>Etiopia</td><td>25 novembre</td><td>2009</td><td>23 febbraio</td><td>2010</td></tr>
 <tr><td>Figi</td><td>9 dicembre</td><td>1994 A</td><td>9 marzo</td><td>1995</td></tr>
 <tr><td>Filippine</td><td>9 agosto</td><td>1993</td><td>7 novembre</td><td>1993</td></tr>
@@ -456,7 +462,7 @@ Campo d’applicazione il 7 giugno 2016**[^t-3]**
 <tr><td>Liechtenstein</td><td>24 marzo</td><td>1994</td><td>22 giugno</td><td>1994</td></tr>
 <tr><td>Lituania</td><td>3 febbraio</td><td>1998</td><td>4 maggio</td><td>1998</td></tr>
 <tr><td>Lussemburgo</td><td>20 maggio</td><td>1992</td><td>18 agosto</td><td>1992</td></tr>
-<tr><td>Macedonia</td><td>9 novembre</td><td>1998</td><td>9 febbraio</td><td>1999</td></tr>
+<tr><td>Macedonia del Nord</td><td>9 novembre</td><td>1998</td><td>9 febbraio</td><td>1999</td></tr>
 <tr><td>Madagascar</td><td>16 gennaio</td><td>2002 A</td><td>16 aprile</td><td>2002</td></tr>
 <tr><td>Malawi</td><td>8 febbraio</td><td>1994</td><td>9 maggio</td><td>1994</td></tr>
 <tr><td>Malaysia</td><td>16 giugno</td><td>1993 A</td><td>14 settembre</td><td>1993</td></tr>
@@ -498,6 +504,7 @@ Campo d’applicazione il 7 giugno 2016**[^t-3]**
 <tr><td>Regno Unito</td><td>20 dicembre</td><td>1991</td><td>10 agosto</td><td>1992</td></tr>
 <tr><td>Gibilterra</td><td>20 dicembre</td><td>1991</td><td>10 agosto</td><td>1992</td></tr>
 <tr><td>Guernesey</td><td>8 settembre</td><td>1993</td><td>8 settembre</td><td>1993</td></tr>
+<tr><td>Isola di Man</td><td>25 febbraio</td><td>2021</td><td>25 febbraio</td><td>2021</td></tr>
 <tr><td>Isole Vergini britanniche</td><td>30 ottobre</td><td>1995</td><td>30 ottobre</td><td>1995</td></tr>
 <tr><td>Jersey</td><td>4 gennaio</td><td>1995</td><td>4 gennaio</td><td>1995</td></tr>
 <tr><td>Terra antartica britannica</td><td>8 settembre</td><td>1993</td><td>8 settembre</td><td>1993</td></tr>
@@ -530,7 +537,6 @@ Campo d’applicazione il 7 giugno 2016**[^t-3]**
 <tr><td>Suriname</td><td>29 marzo</td><td>2006 A</td><td>27 giugno</td><td>2006</td></tr>
 <tr><td>Svezia</td><td>2 agosto</td><td>1991</td><td>10 agosto</td><td>1992</td></tr>
 <tr><td>Svizzera</td><td>16 settembre</td><td>1992</td><td>15 dicembre</td><td>1992</td></tr>
-<tr><td>Swaziland</td><td>16 dicembre</td><td>2005 A</td><td>16 marzo</td><td>2006</td></tr>
 <tr><td>Tagikistan</td><td>7 gennaio</td><td>1998 A</td><td>7 aprile</td><td>1998</td></tr>
 <tr><td>Tanzania</td><td>16 aprile</td><td>1993 A</td><td>15 luglio</td><td>1993</td></tr>
 <tr><td>Thailandia</td><td>25 giugno</td><td>1992</td><td>23 settembre</td><td>1992</td></tr>
@@ -554,11 +560,11 @@ Campo d’applicazione il 7 giugno 2016**[^t-3]**
 <tr><td>Yemen</td><td>23 aprile</td><td>2001 A</td><td>22 luglio</td><td>2001</td></tr>
 <tr><td>Zambia</td><td>15 aprile</td><td>1994</td><td>14 luglio</td><td>1994</td></tr>
 <tr><td>Zimbabwe</td><td>3 giugno</td><td>1994</td><td>1° settembre</td><td>1994</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dall’8 set. 1993 al 30 giu. 1997, l’emendamento al Prot. di Montreal era applicabile ad Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, l’emendamento è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Dal 15 feb. 1994 al 19 dic. 1999, l’emendamento al Prot. di Montreal era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 19 ott. 1999, l’emendamento è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Al Regno in Europa.</td></tr>
 <tr><td colspan="5"><sup>d</sup> Questo Stato ha formulato una dichiarazione.</td></tr>
 </table>
 
-[^t-3]: [RU 1993 1078](https://fedlex.data.admin.ch/eli/oc/1993/1078_1078_1078)3018, [2002 2657](https://fedlex.data.admin.ch/eli/oc/2002/366), [2004 4005](https://fedlex.data.admin.ch/eli/oc/2004/581), [2005 2339](https://fedlex.data.admin.ch/eli/oc/2005/400), [2007 5081](https://fedlex.data.admin.ch/eli/oc/2007/712), [2009 2557](https://fedlex.data.admin.ch/eli/oc/2009/330), [2012 5263](https://fedlex.data.admin.ch/eli/oc/2012/601)e [2016 2257](https://fedlex.data.admin.ch/eli/oc/2016/357). Una versione del campo d’applicazione aggiornata è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1993 1078](https://fedlex.data.admin.ch/eli/oc/1993/1078_1078_1078), 3018; [2002 2657](https://fedlex.data.admin.ch/eli/oc/2002/366); [2004 4005](https://fedlex.data.admin.ch/eli/oc/2004/581); [2005 2339](https://fedlex.data.admin.ch/eli/oc/2005/400); [2007 5081](https://fedlex.data.admin.ch/eli/oc/2007/712); [2009 2557](https://fedlex.data.admin.ch/eli/oc/2009/330); [2012 5263](https://fedlex.data.admin.ch/eli/oc/2012/601); [2016 2257](https://fedlex.data.admin.ch/eli/oc/2016/357); [2021 756](https://fedlex.data.admin.ch/eli/oc/2021/756). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty)
