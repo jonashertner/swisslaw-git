@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Übertragung von öffentlichen Aufgaben des Fachbereichs Energie der wirtschaftlichen Landesversorgung
 document: Vernehmlassungsvorlage
 language: de

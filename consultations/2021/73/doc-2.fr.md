@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Transfert de tâches publiques du domaine Énergie de l’Approvisionnement économique du pays (AEP)
 document: Projet mis en consultation-2
 language: fr

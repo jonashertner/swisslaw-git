@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Trasferimento a terzi di compiti pubblici del settore Energia dell’approvvigionamento economico del Paese
 document: Progetto posto in consultazione
 language: it
