@@ -3,11 +3,11 @@ sr: "0.814.021.2"
 title: "Emendamento al Protocollo di Montreal sulle sostanze che impoveriscono lo strato di ozono, del 25 novembre 1992"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/412"
 language: it
-version: 2018-10-04
+version: 2021-11-19
 adopted: 1992-11-25
 in_force: 1996-12-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/412/20181004/it/xml/fedlex-data-admin-ch-eli-cc-2002-412-20181004-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/412/20181004/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/412/20211119/it/xml/fedlex-data-admin-ch-eli-cc-2002-412-20211119-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/412/20211119/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificato con strumento depositato dalla Svizzera il 16 settembre 1996
 
 Entrato in vigore per la Svizzera il 15 dicembre 1996
 
-(Stato 4 ottobre 2018)
+(Stato 19 novembre 2021)
 
 [^t-1]: [RU 2002 2793](https://fedlex.data.admin.ch/eli/oc/2002/412)
 
@@ -38,7 +38,7 @@ Entrato in vigore per la Svizzera il 15 dicembre 1996
 
 Nel paragrafo 4 dell’articolo 1 del protocollo[^1-subdivu1-1] sostituire alle parole «nell’allegato B» il testo seguente: «nell’allegato B, allegato C o allegato E».
 
-[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### B. Articolo 1 paragrafo 9
 
@@ -131,7 +131,7 @@ Inserire il seguente paragrafo dopo il paragrafo 3<sup>bis</sup> dell’articolo
 
 «3<sup>ter</sup>. Entro tre anni dalla data di entrata in vigore del presente paragrafo e secondo le procedure di cui all’articolo 10 della convenzione[^1-subdivu16-1], le Parti contraenti redigono in un allegato un elenco di prodotti che contengono sostanze controllate del gruppo II dell’allegato C. Le Parti contraenti che non si sono opposte all’allegato in base alle suddette procedure vietano, entro un anno dall’entrata in vigore dell’allegato, l’importazione di questi prodotti in provenienza da qualsiasi Stato che non sia Parte contraente del presente Protocollo.»
 
-[^1-subdivu16-1]: [RS 0.814.02](https://fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752)
+[^1-subdivu16-1]: [RS 0.814.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3484)
 
 ### N. Articolo 4 paragrafo 4<sup>ter</sup>
 
@@ -362,9 +362,9 @@ Nessuno Stato o organizzazione regionale di integrazione economica può deposita
 
 <sup>3.</sup> Dopo l’entrata in vigore del presente emendamento, come indicato al paragrafo 1, esso entra in vigore per tutte le altre Parti contraenti del protocollo il novantesimo giorno successivo alla data di deposito del loro strumento di ratifica, accettazione o approvazione.
 
-[^3-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^3-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
-Campo d’applicazione il 4 ottobre 2018**[^t-2]**
+Campo d’applicazione il 19 novembre 2021[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -429,6 +429,7 @@ Campo d’applicazione il 4 ottobre 2018**[^t-2]**
 <tr><td>Emirati Arabi Uniti</td><td>16 febbraio</td><td>2005 A</td><td>17 maggio</td><td>2005</td></tr>
 <tr><td>Eritrea</td><td>5 luglio</td><td>2005 A</td><td>3 ottobre</td><td>2005</td></tr>
 <tr><td>Estonia</td><td>12 aprile</td><td>1999</td><td>11 luglio</td><td>1999</td></tr>
+<tr><td>Eswatini</td><td>16 dicembre</td><td>2005 A</td><td>16 marzo</td><td>2006</td></tr>
 <tr><td>Etiopia</td><td>25 novembre</td><td>2009</td><td>23 febbraio</td><td>2010</td></tr>
 <tr><td>Figi</td><td>17 maggio</td><td>2000 A</td><td>15 agosto</td><td>2000</td></tr>
 <tr><td>Filippine</td><td>15 giugno</td><td>2001</td><td>13 settembre</td><td>2001</td></tr>
@@ -447,8 +448,8 @@ Campo d’applicazione il 4 ottobre 2018**[^t-2]**
 <tr><td>Grenada</td><td>20 maggio</td><td>1999 A</td><td>18 agosto</td><td>1999</td></tr>
 <tr><td>Guatemala</td><td>21 gennaio</td><td>2002 A</td><td>21 aprile</td><td>2002</td></tr>
 <tr><td>Guinea</td><td>28 febbraio</td><td>2012 A</td><td>28 maggio</td><td>2012</td></tr>
-<tr><td>Guinea equatoriale</td><td>11 luglio</td><td>2007 A</td><td>9 ottobre</td><td>2007</td></tr>
 <tr><td>Guinea-Bissau</td><td>12 novembre</td><td>2002 A</td><td>10 febbraio</td><td>2003</td></tr>
+<tr><td>Guinea equatoriale</td><td>11 luglio</td><td>2007 A</td><td>9 ottobre</td><td>2007</td></tr>
 <tr><td>Guyana</td><td>23 luglio</td><td>1999</td><td>21 ottobre</td><td>1999</td></tr>
 <tr><td>Haiti</td><td>29 marzo</td><td>2000 A</td><td>27 giugno</td><td>2000</td></tr>
 <tr><td>Honduras</td><td>24 gennaio</td><td>2002</td><td>24 aprile</td><td>2002</td></tr>
@@ -476,7 +477,7 @@ Campo d’applicazione il 4 ottobre 2018**[^t-2]**
 <tr><td>Liechtenstein</td><td>22 novembre</td><td>1996 A</td><td>20 febbraio</td><td>1997</td></tr>
 <tr><td>Lituania</td><td>3 febbraio</td><td>1998</td><td>4 maggio</td><td>1998</td></tr>
 <tr><td>Lussemburgo</td><td>9 maggio</td><td>1994</td><td>7 agosto</td><td>1994</td></tr>
-<tr><td>Macedonia</td><td>9 novembre</td><td>1998</td><td>7 febbraio</td><td>1999</td></tr>
+<tr><td>Macedonia del Nord</td><td>9 novembre</td><td>1998</td><td>7 febbraio</td><td>1999</td></tr>
 <tr><td>Madagascar</td><td>16 gennaio</td><td>2002 A</td><td>16 aprile</td><td>2002</td></tr>
 <tr><td>Malawi</td><td>28 febbraio</td><td>1994</td><td>14 giugno</td><td>1994</td></tr>
 <tr><td>Malaysia</td><td>5 agosto</td><td>1993 A</td><td>14 giugno</td><td>1994</td></tr>
@@ -488,7 +489,7 @@ Campo d’applicazione il 4 ottobre 2018**[^t-2]**
 <tr><td>Maurizio</td><td>30 novembre</td><td>1993</td><td>14 giugno</td><td>1994</td></tr>
 <tr><td>Messico</td><td>16 settembre</td><td>1994</td><td>15 dicembre</td><td>1994</td></tr>
 <tr><td>Micronesia</td><td>27 novembre</td><td>2001 A</td><td>25 febbraio</td><td>2002</td></tr>
-<tr><td>Moldavia</td><td>25 giugno</td><td>2001 A</td><td>23 settembre</td><td>2001</td></tr>
+<tr><td>Moldova</td><td>25 giugno</td><td>2001 A</td><td>23 settembre</td><td>2001</td></tr>
 <tr><td>Monaco</td><td>15 giugno</td><td>1999</td><td>13 settembre</td><td>1999</td></tr>
 <tr><td>Mongolia</td><td>7 marzo</td><td>1996 A</td><td>5 giugno</td><td>1996</td></tr>
 <tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
@@ -518,6 +519,7 @@ Campo d’applicazione il 4 ottobre 2018**[^t-2]**
 <tr><td>Regno Unito<sup>\*</sup></td><td>4 gennaio</td><td>1995</td><td>4 aprile</td><td>1995</td></tr>
 <tr><td>Gibilterra</td><td>5 agosto</td><td>2014</td><td>5 agosto</td><td>2014</td></tr>
 <tr><td>Guernesey</td><td>4 gennaio</td><td>1995</td><td>4 aprile</td><td>1995</td></tr>
+<tr><td>Isola di Man</td><td>25 febbraio</td><td>2021</td><td>25 febbraio</td><td>2021</td></tr>
 <tr><td>Isole Vergini britanniche</td><td>30 ottobre</td><td>1995</td><td>30 ottobre</td><td>1995</td></tr>
 <tr><td>Jersey</td><td>4 gennaio</td><td>1995</td><td>4 aprile</td><td>1995</td></tr>
 <tr><td>Romania</td><td>28 novembre</td><td>2000</td><td>26 febbraio</td><td>2001</td></tr>
@@ -549,7 +551,6 @@ Campo d’applicazione il 4 ottobre 2018**[^t-2]**
 <tr><td>Suriname</td><td>29 marzo</td><td>2006 A</td><td>27 giugno</td><td>2006</td></tr>
 <tr><td>Svezia</td><td>9 agosto</td><td>1993</td><td>14 giugno</td><td>1994</td></tr>
 <tr><td>Svizzera</td><td>16 settembre</td><td>1996</td><td>15 dicembre</td><td>1996</td></tr>
-<tr><td>Swaziland</td><td>16 dicembre</td><td>2005 A</td><td>16 marzo</td><td>2006</td></tr>
 <tr><td>Tagikistan</td><td>7 maggio</td><td>2009 A</td><td>5 agosto</td><td>2009</td></tr>
 <tr><td>Tanzania</td><td>6 dicembre</td><td>2002</td><td>6 marzo</td><td>2003</td></tr>
 <tr><td>Thailandia</td><td>1° dicembre</td><td>1995</td><td>29 febbraio</td><td>1996</td></tr>
@@ -573,9 +574,9 @@ Campo d’applicazione il 4 ottobre 2018**[^t-2]**
 <tr><td>Yemen</td><td>23 aprile</td><td>2001 A</td><td>22 luglio</td><td>2001</td></tr>
 <tr><td>Zambia</td><td>11 ottobre</td><td>2007 A</td><td>9 gennaio</td><td>2008</td></tr>
 <tr><td>Zimbabwe</td><td>3 giugno</td><td>1994</td><td>1° settembre</td><td>1994</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 4 apr. 1995 al 30 giu. 1997, l’emendamento era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, l’emendamento è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 <tr><td colspan="5"><sup>b</sup> L’emendamento s’applica al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2002 2793](https://fedlex.data.admin.ch/eli/oc/2002/412), [2004 3921](https://fedlex.data.admin.ch/eli/oc/2004/553), [2005 2341](https://fedlex.data.admin.ch/eli/oc/2005/401),[2006 3031](https://fedlex.data.admin.ch/eli/oc/2006/467), [2007 5083](https://fedlex.data.admin.ch/eli/oc/2007/713),[2009 2559](https://fedlex.data.admin.ch/eli/oc/2009/331), [2011 3779](https://fedlex.data.admin.ch/eli/oc/2011/531), [2012 1565](https://fedlex.data.admin.ch/eli/oc/2012/221), [2015 991](https://fedlex.data.admin.ch/eli/oc/2015/185)e [2018 3897](https://fedlex.data.admin.ch/eli/oc/2018/619). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2002 2793](https://fedlex.data.admin.ch/eli/oc/2002/412); [2004 3921](https://fedlex.data.admin.ch/eli/oc/2004/553); [2005 2341](https://fedlex.data.admin.ch/eli/oc/2005/401); [2006 3031](https://fedlex.data.admin.ch/eli/oc/2006/467); [2007 5083](https://fedlex.data.admin.ch/eli/oc/2007/713); [2009 2559](https://fedlex.data.admin.ch/eli/oc/2009/331); [2011 3779](https://fedlex.data.admin.ch/eli/oc/2011/531); [2012 1565](https://fedlex.data.admin.ch/eli/oc/2012/221); [2015 991](https://fedlex.data.admin.ch/eli/oc/2015/185); [2018 3897](https://fedlex.data.admin.ch/eli/oc/2018/619); [2021 757](https://fedlex.data.admin.ch/eli/oc/2021/757). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty)

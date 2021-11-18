@@ -3,11 +3,11 @@ sr: "0.814.021.2"
 title: "Amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, du 25 novembre 1992"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/412"
 language: fr
-version: 2018-10-04
+version: 2021-11-19
 adopted: 1992-11-25
 in_force: 1996-12-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/412/20181004/fr/xml/fedlex-data-admin-ch-eli-cc-2002-412-20181004-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/412/20181004/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/412/20211119/fr/xml/fedlex-data-admin-ch-eli-cc-2002-412-20211119-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/412/20211119/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Adopté à la quatrième réunion des Parties à Copenhague, le 25 novembre 1992 Approuvée par l’Assemblée fédérale le 11 juin 1996[^t-1] Instrument de ratification déposé par la Suisse le 16 septembre 1996 Entré en vigueur pour la Suisse le 15 décembre 1996
 
-(Etat le 4 octobre 2018)
+(État le 19 novembre 2021)
 
 [^t-1]: [RO 2002 2792](https://fedlex.data.admin.ch/eli/oc/2002/411)
 
@@ -32,7 +32,7 @@ Adopté à la quatrième réunion des Parties à Copenhague, le 25 novembre 1992
 
 Au par. 4 de l’art. 1 du Protocole[^1-subdivu1-1], remplacer les mots: «ou à l’annexe B» par les mots: «, à l’annexe B, à l’annexe C ou à l’annexe E».
 
-[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### B. Art. 1, par. 9
 
@@ -125,7 +125,7 @@ Insérer le paragraphe ci-après à la suite du par. 3<sup>bis</sup> de l’art.
 
 3<sup>ter</sup>. Dans un délai de trois ans à compter de la date d’entrée en vigueur du présent paragraphe, les Parties établissent, sous forme d’annexé, une liste des produits contenant des substances réglementées du Groupe II de l’annexe C, conformément aux procédures spécifiées à l’art. 10 de la Convention[^1-subdivu16-1]. Les Parties qui ne s’y sont pas opposées conformément à ces procédures interdisent, dans un délai d’un an à compter de la date d’entrée en vigueur de l’annexe, l’importation de ces produits en provenance de tout État non Partie au présent Protocole.
 
-[^1-subdivu16-1]: [RS 0.814.02](https://fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752)
+[^1-subdivu16-1]: [RS 0.814.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3484)
 
 ### N. Art. 4, par. 4<sup>ter</sup>
 
@@ -355,9 +355,9 @@ Aucun État ni organisation régionale d’intégration économique ne peut dép
 
 <sup>3.</sup> Après l’entrée en vigueur du présent Amendement, comme il est prévu au par. 1 du présent article, ledit Amendement entre en vigueur pour toute autre Partie au Protocole le quatre-vingt-dixième jour à compter de la date du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-[^3-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^3-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
-Champ d’application le 4 octobre 2018**[^t-2]**
+Champ d’application le 19 novembre 2021[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -408,7 +408,7 @@ Champ d’application le 4 octobre 2018**[^t-2]**
 <tr><td>Corée (Nord)</td><td>17 juin</td><td>1999 A</td><td>15 septembre</td><td>1999</td></tr>
 <tr><td>Corée (Sud)</td><td>2 décembre</td><td>1994</td><td>2 mars</td><td>1995</td></tr>
 <tr><td>Costa Rica</td><td>11 novembre</td><td>1998</td><td>9 février</td><td>1999</td></tr>
-<tr><td>Côte d'Ivoire</td><td>8 octobre</td><td>2003</td><td>6 janvier</td><td>2004</td></tr>
+<tr><td>Côte d’Ivoire</td><td>8 octobre</td><td>2003</td><td>6 janvier</td><td>2004</td></tr>
 <tr><td>Croatie</td><td>11 février</td><td>1997</td><td>12 avril</td><td>1997</td></tr>
 <tr><td>Cuba</td><td>19 octobre</td><td>1998</td><td>17 janvier</td><td>1999</td></tr>
 <tr><td>Danemark\*</td><td>21 décembre</td><td>1993</td><td>14 juin</td><td>1994</td></tr>
@@ -422,6 +422,7 @@ Champ d’application le 4 octobre 2018**[^t-2]**
 <tr><td>Érythrée</td><td>5 juillet</td><td>2005 A</td><td>3 octobre</td><td>2005</td></tr>
 <tr><td>Espagne\*</td><td>5 juin</td><td>1995</td><td>3 septembre</td><td>1995</td></tr>
 <tr><td>Estonie</td><td>12 avril</td><td>1999</td><td>11 juillet</td><td>1999</td></tr>
+<tr><td>Eswatini</td><td>16 décembre</td><td>2005 A</td><td>16 mars</td><td>2006</td></tr>
 <tr><td>États-Unis</td><td>2 mars</td><td>1994</td><td>14 juin</td><td>1994</td></tr>
 <tr><td>Éthiopie</td><td>25 novembre</td><td>2009</td><td>23 février</td><td>2010</td></tr>
 <tr><td>Fidji</td><td>17 mai</td><td>2000 A</td><td>15 août</td><td>2000</td></tr>
@@ -469,7 +470,7 @@ Champ d’application le 4 octobre 2018**[^t-2]**
 <tr><td>Liechtenstein</td><td>22 novembre</td><td>1996 A</td><td>20 février</td><td>1997</td></tr>
 <tr><td>Lituanie</td><td>3 février</td><td>1998</td><td>4 mai</td><td>1998</td></tr>
 <tr><td>Luxembourg</td><td>9 mai</td><td>1994</td><td>7 août</td><td>1994</td></tr>
-<tr><td>Macédoine</td><td>9 novembre</td><td>1998</td><td>7 février</td><td>1999</td></tr>
+<tr><td>Macédoine du Nord</td><td>9 novembre</td><td>1998</td><td>7 février</td><td>1999</td></tr>
 <tr><td>Madagascar</td><td>16 janvier</td><td>2002 A</td><td>16 avril</td><td>2002</td></tr>
 <tr><td>Malaisie</td><td>5 août</td><td>1993 A</td><td>14 juin</td><td>1994</td></tr>
 <tr><td>Malawi</td><td>28 février</td><td>1994</td><td>14 juin</td><td>1994</td></tr>
@@ -518,6 +519,7 @@ Champ d’application le 4 octobre 2018**[^t-2]**
 <tr><td>Royaume-Uni\*</td><td>4 janvier</td><td>1995</td><td>4 avril</td><td>1995</td></tr>
 <tr><td>Gibraltar</td><td>5 août</td><td>2014</td><td>5 août</td><td>2014</td></tr>
 <tr><td>Guernesey</td><td>4 janvier</td><td>1995</td><td>4 avril</td><td>1995</td></tr>
+<tr><td>Île de Man</td><td>25 février</td><td>2021</td><td>25 février</td><td>2021</td></tr>
 <tr><td>Îles Vierges britanniques</td><td>30 octobre</td><td>1995</td><td>30 octobre</td><td>1995</td></tr>
 <tr><td>Jersey</td><td>4 janvier</td><td>1995</td><td>4 avril</td><td>1995</td></tr>
 <tr><td>Russie</td><td>14 décembre</td><td>2005</td><td>14 mars</td><td>2006</td></tr>
@@ -543,7 +545,6 @@ Champ d’application le 4 octobre 2018**[^t-2]**
 <tr><td>Suède</td><td>9 août</td><td>1993</td><td>14 juin</td><td>1994</td></tr>
 <tr><td>Suisse</td><td>16 septembre</td><td>1996</td><td>15 décembre</td><td>1996</td></tr>
 <tr><td>Suriname</td><td>29 mars</td><td>2006 A</td><td>27 juin</td><td>2006</td></tr>
-<tr><td>Swaziland</td><td>16 décembre</td><td>2005 A</td><td>16 mars</td><td>2006</td></tr>
 <tr><td>Syrie</td><td>30 novembre</td><td>1999 A</td><td>28 février</td><td>2000</td></tr>
 <tr><td>Tadjikistan</td><td>7 mai</td><td>2009 A</td><td>5 août</td><td>2009</td></tr>
 <tr><td>Tanzanie</td><td>6 décembre</td><td>2002</td><td>6 mars</td><td>2003</td></tr>
@@ -566,7 +567,7 @@ Champ d’application le 4 octobre 2018**[^t-2]**
 <tr><td>Yémen</td><td>23 avril</td><td>2001 A</td><td>22 juillet</td><td>2001</td></tr>
 <tr><td>Zambie</td><td>11 octobre</td><td>2007 A</td><td>9 janvier</td><td>2008</td></tr>
 <tr><td>Zimbabwe</td><td>3 juin</td><td>1994</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 4 avril 1995 au 30 juin 1997, l’amendement était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, l’amendement est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997 <sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 4 avril 1995 au 30 juin 1997, l’amendement était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, l’amendement est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997 <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2002 2793](https://fedlex.data.admin.ch/eli/oc/2002/412), [2004 3921](https://fedlex.data.admin.ch/eli/oc/2004/553), [2005 2341](https://fedlex.data.admin.ch/eli/oc/2005/401), [2006 3031](https://fedlex.data.admin.ch/eli/oc/2006/467), [2007 5083](https://fedlex.data.admin.ch/eli/oc/2007/713), [2009 2559](https://fedlex.data.admin.ch/eli/oc/2009/331), [2011 3779](https://fedlex.data.admin.ch/eli/oc/2011/531), [2012 1565](https://fedlex.data.admin.ch/eli/oc/2012/221), [2015 991](https://fedlex.data.admin.ch/eli/oc/2015/185), [2018 3897](https://fedlex.data.admin.ch/eli/oc/2018/619). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2002 2793](https://fedlex.data.admin.ch/eli/oc/2002/412); [2004 3921](https://fedlex.data.admin.ch/eli/oc/2004/553); [2005 2341](https://fedlex.data.admin.ch/eli/oc/2005/401); [2006 3031](https://fedlex.data.admin.ch/eli/oc/2006/467); [2007 5083](https://fedlex.data.admin.ch/eli/oc/2007/713); [2009 2559](https://fedlex.data.admin.ch/eli/oc/2009/331); [2011 3779](https://fedlex.data.admin.ch/eli/oc/2011/531); [2012 1565](https://fedlex.data.admin.ch/eli/oc/2012/221); [2015 991](https://fedlex.data.admin.ch/eli/oc/2015/185); [2018 3897](https://fedlex.data.admin.ch/eli/oc/2018/619); [2021 757](https://fedlex.data.admin.ch/eli/oc/2021/757). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral « Fedlex » à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)
