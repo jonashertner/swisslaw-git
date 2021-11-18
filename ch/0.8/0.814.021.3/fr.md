@@ -3,11 +3,11 @@ sr: "0.814.021.3"
 title: "Amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, du 17 septembre 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/455"
 language: fr
-version: 2016-08-31
+version: 2021-11-19
 adopted: 1997-09-17
 in_force: 2002-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/455/20160831/fr/xml/fedlex-data-admin-ch-eli-cc-2003-455-20160831-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/455/20160831/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/455/20211119/fr/xml/fedlex-data-admin-ch-eli-cc-2003-455-20211119-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/455/20211119/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 28 août 2002
 
 Entré en vigueur pour la Suisse le 26 novembre 2002
 
-(Etat le 31 août 2016)
+(Etat le 19 novembre 2021)
 
 [^t-1]: [RO 2003 3287](https://fedlex.data.admin.ch/eli/oc/2003/454)
 
@@ -38,7 +38,7 @@ Entré en vigueur pour la Suisse le 26 novembre 2002
 
 Après le par. 1<sup>ter</sup> de l’art. 4 du Protocole[^1-subdivu1-1], insérer le paragraphe suivant:
 
-1<sup>quater</sup>. Dans un délai de un an à compter de la date d’entrée en vigueur du présent paragraphe, chacune des Parties interdit l’importation de la substance réglementée de l’annexe E en provenance de tout Etat non Partie au présent Protocole.
+1<sup>quater</sup>. Dans un délai de un an à compter de la date d’entrée en vigueur du présent paragraphe, chacune des Parties interdit l’importation de la substance réglementée de l’annexe E en provenance de tout État non Partie au présent Protocole.
 
 [^1-subdivu1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
 
@@ -46,7 +46,7 @@ Après le par. 1<sup>ter</sup> de l’art. 4 du Protocole[^1-subdivu1-1], insér
 
 Après le par. 2<sup>ter</sup> de l’art. 4 du Protocole insérer le paragraphe suivant:
 
-2<sup>quater</sup>. Un an après la date d’entrée en vigueur du présent paragraphe, chacune des Parties interdit l’exportation de la substance réglementée de l’annexe E vers un Etat non Partie au présent Protocole.
+2<sup>quater</sup>. Un an après la date d’entrée en vigueur du présent paragraphe, chacune des Parties interdit l’exportation de la substance réglementée de l’annexe E vers un État non Partie au présent Protocole.
 
 ### C. Art. 4, par. 5 à 7
 
@@ -56,11 +56,15 @@ Aux par. 5 à 7 de l’art. 4 du Protocole, remplacer: du Groupe II de l’annex
 
 Au par. 8 de l’art. 4 du Protocole, remplacer: de l’art. 2G par: des art. 2G et 2H
 
+### E. Art. 4A Réglementation des échanges commerciaux avec les Parties
+
 L’article ci-après est ajouté au Protocole en tant qu’art. 4A:
 
 \1. Lorsque, après la date d’élimination qui lui est applicable pour une substance réglementée donnée, une Partie n’est pas en mesure, bien qu’ayant pris toutes les mesures pratiques pour s’acquitter de ses obligations en vertu du Protocole, de mettre un terme à la production de ladite substance destinée à la consommation intérieure, aux fins d’utilisations autres que celles que les Parties ont décidé de considérer comme essentielles, ladite Partie interdit l’exportation de quantités utilisées, recyclées et régénérées de ladite substance lorsque ces quantités sont destinées à d’autres fins que la destruction.
 
 \2. Le par. 1 du présent article s’applique sous réserve de l’application de l’art. 11 de la Convention et de la procédure de non respect élaborée au titre de l’art. 8 du Protocole.
+
+### F. Art. 4B Autorisation
 
 L’article ci-après est ajouté au Protocole en tant qu’art. B:
 
@@ -72,36 +76,28 @@ L’article ci-après est ajouté au Protocole en tant qu’art. B:
 
 \4. Le Secrétariat établit et diffuse périodiquement à toutes les Parties la liste des Parties ayant fait rapport sur leur système d’autorisation et communique cette information au Comité d’application aux fins d’examen de recommandations appropriées aux Parties.
 
-<table>
-<tr><td>E. Art. 4A</td><td>Réglementation des échanges commerciaux avec les Parties</td></tr>
-</table>
-
-<table>
-<tr><td>F. Art. 4B</td><td>Autorisation</td></tr>
-</table>
-
 #### Art. 2
 
 **Rapport avec l’amendement de 1992**
 
-Aucun Etat ni aucune organisation régionale d’intégration économique ne peut déposer un instrument de ratification, d’acceptation et d’approbation du présent amendement ou d’adhésion audit amendement s’il n’a, au préalable ou simultanément, déposé un instrument de ratification, d’acceptation et d’approbation de l’Amendement adopté par la quatrième Réunion des Parties à Copenhague, le 25 novembre 1992, ou d’adhésion audit Amendement.
+Aucun État ni aucune organisation régionale d’intégration économique ne peut déposer un instrument de ratification, d’acceptation et d’approbation du présent amendement ou d’adhésion audit amendement s’il n’a, au préalable ou simultanément, déposé un instrument de ratification, d’acceptation et d’approbation de l’Amendement adopté par la quatrième Réunion des Parties à Copenhague, le 25 novembre 1992, ou d’adhésion audit Amendement.
 
 #### Art. 3
 
 **Entrée en vigueur**
 
-\1. Le présent Amendement entre en vigueur le 1<sup>er</sup> janvier 1999, sous réserve du dépôt à cette date d’au moins 20 instruments de ratification, d’acceptation ou d’approbation de l’Amendement ou d’adhésion à l’Amendement par des Etats ou des organisations régionales d’intégration économique Parties au Protocole de Montréal relatif à des substances qui appauvrissent la couche d’ozone. Si à cette date ces conditions n’ont pas été remplies, le présent Amendement entre en vigueur le quatre-vingt-dixième jour suivant la date à laquelle ces conditions ont été remplies.
+\1. Le présent Amendement entre en vigueur le 1<sup>er</sup> janvier 1999, sous réserve du dépôt à cette date d’au moins 20 instruments de ratification, d’acceptation ou d’approbation de l’Amendement ou d’adhésion à l’Amendement par des États ou des organisations régionales d’intégration économique Parties au Protocole de Montréal relatif à des substances qui appauvrissent la couche d’ozone. Si à cette date ces conditions n’ont pas été remplies, le présent Amendement entre en vigueur le quatre-vingt-dixième jour suivant la date à laquelle ces conditions ont été remplies.
 
-\2. Aux fins du par. 1, aucun desdits instruments déposés par une organisation régionale d’intégration économique ne doit être considéré comme un instrument venant s’ajouter aux instruments déjà déposés par les Etats membres de ladite organisation.
+\2. Aux fins du par. 1, aucun desdits instruments déposés par une organisation régionale d’intégration économique ne doit être considéré comme un instrument venant s’ajouter aux instruments déjà déposés par les États membres de ladite organisation.
 
 \3. Postérieurement à l’entrée en vigueur du présent Amendement, comme cela est prévu au par. 1, l’Amendement entre en vigueur pour toute autre Partie au Protocole le quatre-vingt-dixième jour à compter de la date du dépôt de son instrument de ratification, d’acceptation ou d’approbation.
 
 (Suivent les signatures)
 
-Champ d’application le 31 août 2016**[^t-2]**
+Champ d’application le 19 novembre 2021**[^t-2]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>17 juin</td><td>2004 A</td><td>15 septembre</td><td>2004</td></tr>
 <tr><td>Afrique du Sud</td><td>11 novembre</td><td>2004 A</td><td>9 février</td><td>2005</td></tr>
 <tr><td>Albanie</td><td>25 mai</td><td>2006 A</td><td>23 août</td><td>2006</td></tr>
@@ -155,15 +151,16 @@ Champ d’application le 31 août 2016**[^t-2]**
 <tr><td>Danemark</td><td>24 septembre</td><td>2003</td><td>23 décembre</td><td>2003</td></tr>
 <tr><td>Djibouti</td><td>30 juillet</td><td>1999 A</td><td>10 novembre</td><td>1999</td></tr>
 <tr><td>Dominique</td><td>7 mars</td><td>2006 A</td><td>5 juin</td><td>2006</td></tr>
-<tr><td>Egypte</td><td>20 juillet</td><td>2000</td><td>18 octobre</td><td>2000</td></tr>
+<tr><td>Égypte</td><td>20 juillet</td><td>2000</td><td>18 octobre</td><td>2000</td></tr>
 <tr><td>El Salvador</td><td>8 décembre</td><td>2000 A</td><td>8 mars</td><td>2001</td></tr>
-<tr><td>Emirats arabes unis</td><td>16 février</td><td>2005 A</td><td>17 mai</td><td>2005</td></tr>
-<tr><td>Equateur</td><td>16 février</td><td>2007 A</td><td>17 mai</td><td>2007</td></tr>
-<tr><td>Erythrée</td><td>5 juillet</td><td>2005 A</td><td>3 octobre</td><td>2005</td></tr>
+<tr><td>Émirats arabes unis</td><td>16 février</td><td>2005 A</td><td>17 mai</td><td>2005</td></tr>
+<tr><td>Équateur</td><td>16 février</td><td>2007 A</td><td>17 mai</td><td>2007</td></tr>
+<tr><td>Érythrée</td><td>5 juillet</td><td>2005 A</td><td>3 octobre</td><td>2005</td></tr>
 <tr><td>Espagne\*</td><td>11 mai</td><td>1999</td><td>10 novembre</td><td>1999</td></tr>
 <tr><td>Estonie</td><td>11 avril</td><td>2003 A</td><td>10 juillet</td><td>2003</td></tr>
-<tr><td>Etats-Unis</td><td>1<sup>er</sup> octobre</td><td>2003</td><td>30 décembre</td><td>2003</td></tr>
-<tr><td>Ethiopie</td><td>25 novembre</td><td>2009</td><td>23 février</td><td>2010</td></tr>
+<tr><td>Eswatini</td><td>16 décembre</td><td>2005 A</td><td>16 mars</td><td>2006</td></tr>
+<tr><td>États-Unis</td><td>1<sup>er</sup> octobre</td><td>2003</td><td>30 décembre</td><td>2003</td></tr>
+<tr><td>Éthiopie</td><td>25 novembre</td><td>2009</td><td>23 février</td><td>2010</td></tr>
 <tr><td>Fidji</td><td>19 février</td><td>2007 A</td><td>20 mai</td><td>2007</td></tr>
 <tr><td>Finlande</td><td>18 juin</td><td>2001</td><td>16 septembre</td><td>2001</td></tr>
 <tr><td>France</td><td>25 juillet</td><td>2003</td><td>23 octobre</td><td>2003</td></tr>
@@ -181,9 +178,9 @@ Champ d’application le 31 août 2016**[^t-2]**
 <tr><td>Haïti</td><td>29 mars</td><td>2000 A</td><td>27 juin</td><td>2000</td></tr>
 <tr><td>Honduras</td><td>14 septembre</td><td>2007 A</td><td>13 décembre</td><td>2007</td></tr>
 <tr><td>Hongrie</td><td>26 juillet</td><td>1999</td><td>10 novembre</td><td>1999</td></tr>
-<tr><td>Iles Cook</td><td>22 décembre</td><td>2003 A</td><td>23 mars</td><td>2004</td></tr>
-<tr><td>Iles Marshall</td><td>27 janvier</td><td>2003 A</td><td>27 avril</td><td>2003</td></tr>
-<tr><td>Iles Salomon</td><td>17 août</td><td>1999 A</td><td>15 novembre</td><td>1999</td></tr>
+<tr><td>Îles Cook</td><td>22 décembre</td><td>2003 A</td><td>23 mars</td><td>2004</td></tr>
+<tr><td>Îles Marshall</td><td>27 janvier</td><td>2003 A</td><td>27 avril</td><td>2003</td></tr>
+<tr><td>Îles Salomon</td><td>17 août</td><td>1999 A</td><td>15 novembre</td><td>1999</td></tr>
 <tr><td>Inde</td><td>3 mars</td><td>2003 A</td><td>1<sup>er</sup> juin</td><td>2003</td></tr>
 <tr><td>Indonésie</td><td>26 janvier</td><td>2006</td><td>26 avril</td><td>2006</td></tr>
 <tr><td>Iran</td><td>17 octobre</td><td>2001</td><td>15 janvier</td><td>2002</td></tr>
@@ -209,7 +206,7 @@ Champ d’application le 31 août 2016**[^t-2]**
 <tr><td>Liechtenstein</td><td>23 décembre</td><td>2003</td><td>22 mars</td><td>2004</td></tr>
 <tr><td>Lituanie</td><td>17 mars</td><td>2004</td><td>15 juin</td><td>2004</td></tr>
 <tr><td>Luxembourg</td><td>8 février</td><td>1999</td><td>10 novembre</td><td>1999</td></tr>
-<tr><td>Macédoine</td><td>31 août</td><td>1999 A</td><td>29 novembre</td><td>1999</td></tr>
+<tr><td>Macédoine du Nord</td><td>31 août</td><td>1999 A</td><td>29 novembre</td><td>1999</td></tr>
 <tr><td>Madagascar</td><td>16 janvier</td><td>2002 A</td><td>16 avril</td><td>2002</td></tr>
 <tr><td>Malaisie</td><td>26 octobre</td><td>2001</td><td>24 janvier</td><td>2002</td></tr>
 <tr><td>Malawi</td><td>27 février</td><td>2009</td><td>28 mai</td><td>2009</td></tr>
@@ -257,6 +254,8 @@ Champ d’application le 31 août 2016**[^t-2]**
 <tr><td>Roumanie</td><td>21 mai</td><td>2001</td><td>19 août</td><td>2001</td></tr>
 <tr><td>Royaume-Uni</td><td>12 octobre</td><td>2001</td><td>10 janvier</td><td>2002</td></tr>
 <tr><td>Gibraltar</td><td>5 août</td><td>2014</td><td>5 août</td><td>2014</td></tr>
+<tr><td>Jersey</td><td>4 août</td><td>2020</td><td>4 août</td><td>2020</td></tr>
+<tr><td>Île de Man</td><td>25 février</td><td>2021</td><td>25 février</td><td>2021</td></tr>
 <tr><td>Russie</td><td>14 décembre</td><td>2005</td><td>14 mars</td><td>2006</td></tr>
 <tr><td>Rwanda</td><td>7 janvier</td><td>2004 A</td><td>6 avril</td><td>2004</td></tr>
 <tr><td>Sainte-Lucie</td><td>24 août</td><td>1999 A</td><td>22 novembre</td><td>1999</td></tr>
@@ -280,7 +279,6 @@ Champ d’application le 31 août 2016**[^t-2]**
 <tr><td>Suède</td><td>12 juillet</td><td>1999</td><td>10 novembre</td><td>1999</td></tr>
 <tr><td>Suisse</td><td>28 août</td><td>2002</td><td>26 novembre</td><td>2002</td></tr>
 <tr><td>Suriname</td><td>29 mars</td><td>2006 A</td><td>27 juin</td><td>2006</td></tr>
-<tr><td>Swaziland</td><td>16 décembre</td><td>2005 A</td><td>16 mars</td><td>2006</td></tr>
 <tr><td>Syrie</td><td>30 novembre</td><td>1999 A</td><td>28 février</td><td>2000</td></tr>
 <tr><td>Tadjikistan</td><td>7 mai</td><td>2009 A</td><td>5 août</td><td>2009</td></tr>
 <tr><td>Tanzanie</td><td>6 décembre</td><td>2002</td><td>6 mars</td><td>2003</td></tr>
@@ -303,7 +301,7 @@ Champ d’application le 31 août 2016**[^t-2]**
 <tr><td>Yémen</td><td>23 avril</td><td>2001 A</td><td>22 juillet</td><td>2001</td></tr>
 <tr><td>Zambie</td><td>11 octobre</td><td>2007 A</td><td>9 janvier</td><td>2008</td></tr>
 <tr><td>Zimbabwe</td><td>1<sup>er</sup> mars</td><td>2012 A</td><td>30 mai</td><td>2012</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: RO **2003** 3291, **2004** 3923, **2005** 2343, **2006** 845 3359, **2007** 5085, **2009** 3721, **2010** 1463, **2011** 697, **2012** 1567, **2013** 403, **2016** 3157. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2003 3288](https://fedlex.data.admin.ch/eli/oc/2003/455); [2004 3923](https://fedlex.data.admin.ch/eli/oc/2004/554); [2005 2343](https://fedlex.data.admin.ch/eli/oc/2005/402); [2006 845](https://fedlex.data.admin.ch/eli/oc/2006/144), [3359](https://fedlex.data.admin.ch/eli/oc/2006/529); [2007 5085](https://fedlex.data.admin.ch/eli/oc/2007/714); [2009 3721](https://fedlex.data.admin.ch/eli/oc/2009/471); [2010 1463](https://fedlex.data.admin.ch/eli/oc/2010/200); [2011 697](https://fedlex.data.admin.ch/eli/oc/2011/111); [2012 1567](https://fedlex.data.admin.ch/eli/oc/2012/222); [2013 403](https://fedlex.data.admin.ch/eli/oc/2013/72); [2016 3157](https://fedlex.data.admin.ch/eli/oc/2016/528); [2021 728](https://fedlex.data.admin.ch/eli/oc/2021/728). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.

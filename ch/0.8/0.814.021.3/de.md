@@ -3,11 +3,11 @@ sr: "0.814.021.3"
 title: "Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen, vom 17. September 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/455"
 language: de
-version: 2016-08-31
+version: 2021-11-19
 adopted: 1997-09-17
 in_force: 2002-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/455/20160831/de/xml/fedlex-data-admin-ch-eli-cc-2003-455-20160831-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/455/20160831/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/455/20211119/de/xml/fedlex-data-admin-ch-eli-cc-2003-455-20211119-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/455/20211119/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/455/20160831/de"
 
 AS **2003** 3288; BBl **2002** 947
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Montreal am 17. September 1997
 
-Von der Bundesversammlung genehmigt am 6. Juni 2002[^t-2]
+Von der Bundesversammlung genehmigt am 6. Juni 2002[^t-1]
 
 Ratifikationsurkunde von der Schweiz hinterlegt am 28. August 2002
 
 In Kraft getreten für die Schweiz am 26. November 2002
 
-(Stand am 31. August 2016)
+(Stand am 19. November 2021)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: [AS 2003 3287](https://fedlex.data.admin.ch/eli/oc/2003/454)
+[^t-1]: [AS 2003 3287](https://fedlex.data.admin.ch/eli/oc/2003/454)
 
 #### Art. 1
 
@@ -57,21 +56,17 @@ In Artikel 4 Absätze 5 bis 7 des Protokolls werden die Worte und Gruppe II der 
 
 In Artikel 4 Absatz 8 des Protokolls werden die Worte Artikel 2G durch folgende Worte ersetzt: Artikel 2G und 2H
 
-Folgender Artikel wird als Artikel 4A in das Protokoll eingefügt:
+### E. Artikel 4A – Regelung des Handels mit den Vertragsparteien
 
-<table>
-<tr><td>E. Artikel 4A</td><td>Regelung des Handels mit den Vertragsparteien</td></tr>
-</table>
+Folgender Artikel wird als Artikel 4A in das Protokoll eingefügt:
 
 <sup>1.</sup> Ist eine Vertragspartei, obwohl sie alle durchführbaren Schritte zur Erfüllung ihrer Verpflichtung aus dem Protokoll unternommen hat, nach Ablauf der für sie geltenden Auslauffrist für einen geregelten Stoff nicht in der Lage, die Produktion dieses Stoffes für den nationalen Verbrauch ausser für die Erfüllung von Zwecken, die von den Vertragsparteien einvernehmlich als wesentlich erachtet worden sind, einzustellen, so verbietet sie die Ausfuhr gebrauchter, wiederverwerteter und zurückgewonnener Mengen dieses Stoffes, sofern die Ausfuhr nicht zum Zweck der Vernichtung geschieht.
 
 <sup>2.</sup> Absatz 1 dieses Artikels gilt unbeschadet der Wirkungsweise des Artikels 11 des Übereinkommens und des nach Artikel 8 des Protokolls entwickelten Nichteinhaltungsverfahrens.
 
-Folgender Artikel wird als Artikel 4B in das Protokoll eingefügt:
+### F. Artikel 4B – Lizenzerteilung
 
-<table>
-<tr><td>F. Artikel 4B</td><td>Lizenzerteilung</td></tr>
-</table>
+Folgender Artikel wird als Artikel 4B in das Protokoll eingefügt:
 
 <sup>1.</sup> Jede Vertragspartei richtet bis zum 1. Januar 2000 oder innerhalb von drei Monaten ab dem Zeitpunkt, zu dem dieser Artikel für sie in Kraft tritt, je nachdem welcher Zeitpunkt der spätere ist, ein System zur Lizenzerteilung für die Einfuhr und Ausfuhr von neuen, gebrauchten, wiederverwerteten und zurückgewonnenen geregelten Stoffen der Anlagen A–E ein und setzt es um.
 
@@ -99,7 +94,7 @@ Kein Staat oder keine Organisation der regionalen Wirtschaftsintegration kann ei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 31. August 2016**[^t-3]**
+Geltungsbereich am 19. November 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -149,6 +144,7 @@ Geltungsbereich am 31. August 2016**[^t-3]**
 <tr><td>El Salvador</td><td>8. Dezember</td><td>2000 B</td><td>8. März</td><td>2001</td></tr>
 <tr><td>Eritrea</td><td>5. Juli</td><td>2005 B</td><td>3. Oktober</td><td>2005</td></tr>
 <tr><td>Estland</td><td>11. April</td><td>2003 B</td><td>10. Juli</td><td>2003</td></tr>
+<tr><td>Eswatini</td><td>16. Dezember</td><td>2005 B</td><td>16. März</td><td>2006</td></tr>
 <tr><td>Europäische Union</td><td>17. November</td><td>2000</td><td>15. Februar</td><td>2001</td></tr>
 <tr><td>Fidschi</td><td>19. Februar</td><td>2007 B</td><td>20. Mai</td><td>2007</td></tr>
 <tr><td>Finnland</td><td>18. Juni</td><td>2001</td><td>16. September</td><td>2001</td></tr>
@@ -215,7 +211,6 @@ Geltungsbereich am 31. August 2016**[^t-3]**
 <tr><td>Marshallinseln</td><td>27. Januar</td><td>2003 B</td><td>27. April</td><td>2003</td></tr>
 <tr><td>Mauretanien</td><td>22. Juli</td><td>2005</td><td>20. Oktober</td><td>2005</td></tr>
 <tr><td>Mauritius</td><td>24. März</td><td>2003</td><td>22. Juni</td><td>2003</td></tr>
-<tr><td>Mazedonien</td><td>31. August</td><td>1999 B</td><td>29. November</td><td>1999</td></tr>
 <tr><td>Mexiko</td><td>28. Juli</td><td>2006</td><td>26. Oktober</td><td>2006</td></tr>
 <tr><td>Mikronesien</td><td>27. November</td><td>2001 B</td><td>25. Februar</td><td>2002</td></tr>
 <tr><td>Moldau</td><td>24. Mai</td><td>2005 B</td><td>22. August</td><td>2005</td></tr>
@@ -234,6 +229,7 @@ Geltungsbereich am 31. August 2016**[^t-3]**
 <tr><td>Niger</td><td>8. Oktober</td><td>1999</td><td>6. Januar</td><td>2000</td></tr>
 <tr><td>Nigeria</td><td>27. September</td><td>2001</td><td>26. Dezember</td><td>2001</td></tr>
 <tr><td>Niue</td><td>22. Dezember</td><td>2003 B</td><td>21. März</td><td>2004</td></tr>
+<tr><td>Nordmazedonien</td><td>31. August</td><td>1999 B</td><td>29. November</td><td>1999</td></tr>
 <tr><td>Norwegen</td><td>30. Dezember</td><td>1998</td><td>10. November</td><td>1999</td></tr>
 <tr><td>Oman</td><td>19. Januar</td><td>2005</td><td>19. April</td><td>2005</td></tr>
 <tr><td>Österreich</td><td>7. August</td><td>2000</td><td>5. November</td><td>2000</td></tr>
@@ -275,7 +271,6 @@ Geltungsbereich am 31. August 2016**[^t-3]**
 <tr><td>Sudan</td><td>18. Mai</td><td>2004 B</td><td>16. August</td><td>2004</td></tr>
 <tr><td>Südsudan</td><td>16. Oktober</td><td>2012 B</td><td>14. Januar</td><td>2013</td></tr>
 <tr><td>Suriname</td><td>29. März</td><td>2006 B</td><td>27. Juni</td><td>2006</td></tr>
-<tr><td>Swasiland</td><td>16. Dezember</td><td>2005 B</td><td>16. März</td><td>2006</td></tr>
 <tr><td>Syrien</td><td>30. November</td><td>1999 B</td><td>28. Februar</td><td>2000</td></tr>
 <tr><td>Tadschikistan</td><td>7. Mai</td><td>2009 B</td><td>5. August</td><td>2009</td></tr>
 <tr><td>Tansania</td><td>6. Dezember</td><td>2002</td><td>6. März</td><td>2003</td></tr>
@@ -301,10 +296,12 @@ Geltungsbereich am 31. August 2016**[^t-3]**
 <tr><td>Vereinigte Staaten</td><td>1. Oktober</td><td>2003</td><td>30. Dezember</td><td>2003</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>12. Oktober</td><td>2001</td><td>10. Januar</td><td>2002</td></tr>
 <tr><td>Gibraltar</td><td>5. August</td><td>2014</td><td>5. August</td><td>2014</td></tr>
+<tr><td>Insel Man</td><td>25. Februar</td><td>2021</td><td>25. Februar</td><td>2021</td></tr>
+<tr><td>Jersey</td><td>4. August</td><td>2020</td><td>4. August</td><td>2020</td></tr>
 <tr><td>Vietnam</td><td>3. Dezember</td><td>2004</td><td>3. März</td><td>2005</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>29. Mai</td><td>2008</td><td>27. August</td><td>2008</td></tr>
 <tr><td>Zypern</td><td>2. Juni</td><td>2003</td><td>31. August</td><td>2003</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 2003 3288](https://fedlex.data.admin.ch/eli/oc/2003/455), [2004 3923](https://fedlex.data.admin.ch/eli/oc/2004/554), [2005 2343](https://fedlex.data.admin.ch/eli/oc/2005/402), [2006 845](https://fedlex.data.admin.ch/eli/oc/2006/144)[3359](https://fedlex.data.admin.ch/eli/oc/2006/529), [2007 5085](https://fedlex.data.admin.ch/eli/oc/2007/714), [2009 3721](https://fedlex.data.admin.ch/eli/oc/2009/471), [2010 1463](https://fedlex.data.admin.ch/eli/oc/2010/200), [2011 697](https://fedlex.data.admin.ch/eli/oc/2011/111), [2012 1567](https://fedlex.data.admin.ch/eli/oc/2012/222), [2013 403](https://fedlex.data.admin.ch/eli/oc/2013/72)und [2016 3157](https://fedlex.data.admin.ch/eli/oc/2016/528). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2003 3288](https://fedlex.data.admin.ch/eli/oc/2003/455); [2004 3923](https://fedlex.data.admin.ch/eli/oc/2004/554); [2005 2343](https://fedlex.data.admin.ch/eli/oc/2005/402); [2006 845](https://fedlex.data.admin.ch/eli/oc/2006/144), [3359](https://fedlex.data.admin.ch/eli/oc/2006/529); [2007 5085](https://fedlex.data.admin.ch/eli/oc/2007/714); [2009 3721](https://fedlex.data.admin.ch/eli/oc/2009/471); [2010 1463](https://fedlex.data.admin.ch/eli/oc/2010/200); [2011 697](https://fedlex.data.admin.ch/eli/oc/2011/111); [2012 1567](https://fedlex.data.admin.ch/eli/oc/2012/222); [2013 403](https://fedlex.data.admin.ch/eli/oc/2013/72); [2016 3157](https://fedlex.data.admin.ch/eli/oc/2016/528); [2021 728](https://fedlex.data.admin.ch/eli/oc/2021/728). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
