@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione della legge sul traffico pesante e dell’ordinanza sul traffico pesante
 document: Progetto posto in consultazione-2
 language: it

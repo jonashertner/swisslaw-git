@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de la loi relative à une redevance sur le trafic des poids lourds et de l’Ordonnance relative à une redevance sur le trafic des poids lourds
 document: Projet mis en consultation
 language: fr

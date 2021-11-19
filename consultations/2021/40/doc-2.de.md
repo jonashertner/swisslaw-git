@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Schwerverkehrsabgabegesetzes und der Schwerverkehrsabgabeverordnung
 document: Vernehmlassungsvorlage
 language: de
