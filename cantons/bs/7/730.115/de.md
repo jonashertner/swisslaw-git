@@ -4,13 +4,13 @@ number: "730.115"
 title: Ausführungsbestimmungen zur Bau- und Planungsverordnung
 short: ABPV
 language: de
-version: 2021-01-11
-valid_until: 2021-11-21
-version_adopted: 2021-01-04
+version: 2021-11-22
+valid_until: 2024-07-17
+version_adopted: 2021-11-11
 adopted: 2018-03-29
 in_force: 2018-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.115"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5152/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5370/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bau- und Planungsverordnung: Ausführungsbestimmungen | Hochbauten[^t-1]
 
 (ABPV)
 
-Vom 29. März 2018 (Stand 11. Januar 2021)
+Vom 29. März 2018 (Stand 22. November 2021)
 
 Das Bau- und Gastgewerbeinspektorat des Kantons Basel-Stadt,
 
@@ -199,7 +199,7 @@ beschliesst:
 - b) Veränderungen des Baukubus durch vereinzelte Vordächer und kleine technische Dachaufbauten;
 - c) Veränderung oder Erstellung von Fenstern und Türen in der Fassade in den mit Ziffern bezeichneten Zonen und in der Zone für Nutzungen im öffentlichen Interesse;
 - d) Aussenwärmedämmungen von Fassaden;
-- e) freistehende Reklame bis zu 1 m² und aussen an Gebäuden angebrachte Reklame bis zu 12 m²;
+- e) freistehende Reklame bis zu 1 m², aussen an Gebäuden angebrachte Reklame und aussen an Schaufenstern angebrachte Reklamefolierungen bis zu 12 m²;
 - f) offene, nicht gewerbliche Schwimmbecken;
 - g) Einfriedungen gemäss § 7 BPV über 1,20 m Höhe;
 - h) Velounterstände und Kleinbauten in Vorgärten und innerhalb des Baugebiets oder innerhalb bewilligter Familiengartenareale, soweit sie nicht gemäss § 14 dieser Bestimmungen bewilligungsfrei erstellt werden können;
@@ -241,7 +241,8 @@ beschliesst:
 - p) gemäss den Vorschriften von § 55 BPG in Vorgärten erstellte Velounterstände mit einer maximalen Grundfläche von 10 m² und einer maximalen Höhe von 2 m, soweit sie nicht mehr als ein Drittel der Fläche des Vorgartens bedecken und die betroffene Liegenschaft sich weder in der Stadt- oder Dorfbild-Schutzzone befindet noch im Denkmalverzeichnis aufgeführt ist;
 - q) Velounterstände mit einer maximalen Grundfläche von 10 m² und einer maximalen Höhe von 2 m innerhalb des Baugebiets oder innerhalb bewilligter Familiengartenareale, soweit die betroffene Liegenschaft sich weder in der Stadt- oder Dorfbild-Schutzzone befindet noch im Denkmalverzeichnis aufgeführt ist;
 - r) Bagatelländerungen und Lageänderungen von Sendeantennen innerhalb des Toleranzbereiches gemäss der Vollzugshilfe des Bau- und Gastgewerbeinspektorates;
-- s) innen aufgestellte Wärmepumpen.
+- s) innen aufgestellte Wärmepumpen;
+- t) innen an Schaufenstern angebrachte Reklamefolierungen.
 
 ### 3. Kapitel: Allgemeine Vorschriften
 
