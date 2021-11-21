@@ -4,12 +4,12 @@ number: "340.100"
 title: "Verordnung über die Rechte und Pflichten von inhaftierten Personen *"
 language: de
 version: 2018-01-01
-corrected: 2020-09-23
+corrected: 2021-11-22
 version_adopted: 2013-12-18
 adopted: 2013-12-18
 in_force: 2014-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/340.100"
-pdf: "https://lex.vs.ch/api/de/versions/2378/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2712/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -517,7 +517,7 @@ verordnet:[^ingress-1]
 - a) er informiert den Hungerstreikenden objektiv und wiederholt über die Risiken der lang anhaltenden Nahrungsverweigerung;
 - b) er meldet der Dienststelle, sobald der Hungerstreikende Gefahr läuft, schwere und bleibende Schäden davonzutragen.
 
-<sup>3</sup> Der GMD respektive der behandelnde Arzt des Spitals, in dem der inhaftierte Person hospitalisiert ist, nimmt die Zwangsernährung des inhaftierte Person vor, sofern die Gefahr besteht, dass der Hungerstreikende schwere und bleibende Schäden davonträgt. Die Massnahme muss die Menschenwürde respektieren und für die Beteiligten zumutbar sein und darf nicht mit erheblicher Gefahr für das Leben oder die Gesundheit des inhaftierte Person verbunden sein. Sie darf nur bei inhaftierte Personen angewendet werden, die laut Bestätigung eines externen Arztes bei voller Urteilsfähigkeit sind, und darf nicht entgegen der Patientenverfügung des inhaftierte Person durchgeführt werden, auch wenn damit der Tod des inhaftierte Person in Kauf genommen wird.
+<sup>3</sup> Der GMD respektive der behandelnde Arzt des Spitals, in dem der inhaftierte Person hospitalisiert ist, nimmt die Zwangsernährung des inhaftierte Person vor, sofern die Gefahr besteht, dass der Hungerstreikende schwere und bleibende Schäden davonträgt. Die Massnahme muss die Menschenwürde respektieren und für die Beteiligten zumutbar sein und darf nicht mit erheblicher Gefahr für das Leben oder die Gesundheit des inhaftierte Person verbunden sein. Sie darf nur bei inhaftierte Personen angewendet werden, die laut Bestätigung eines externen Arztes bei voller Urteilsunfähigkeit sind, und darf nicht entgegen der Patientenverfügung des inhaftierte Person durchgeführt werden, auch wenn damit der Tod des inhaftierte Person in Kauf genommen wird.
 
 #### Art. 50
 

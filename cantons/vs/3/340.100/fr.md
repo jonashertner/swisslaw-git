@@ -4,12 +4,12 @@ number: "340.100"
 title: Ordonnance sur les droits et les devoirs de la personne détenue
 language: fr
 version: 2018-01-01
-corrected: 2020-09-23
+corrected: 2021-11-22
 version_adopted: 2013-12-18
 adopted: 2013-12-18
 in_force: 2014-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/340.100"
-pdf: "https://lex.vs.ch/api/fr/versions/2378/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2712/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
