@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-11-16
+version: 2021-11-23
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211116/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211116-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211116/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211123/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211123-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211116/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 16. November 2021)
+vom 4. Juni 2021 (Stand am 23. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -787,7 +787,7 @@ Anhang 3*[^t-3]*
 
 ## Besondere Bestimmungen über Covid-19-Genesungszertifikate
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) und Ziff. I der V des EDI vom 22. Nov. 2021, in Kraft seit 23. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -800,7 +800,7 @@ Anhang 3*[^t-3]*
   Gültigkeitsdauer:
 
   - a. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1: 365 Tage, berechnet ab dem Tag des Testergebnisses nach Ziffer 1.1 Buchstabe a;
-  - b. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3: 90 Tage, berechnet ab dem Tag der Analyse nach Ziffer 1.1 Buchstabe b.
+  - b. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3: 90 Tage, berechnet ab dem Tag der Probeentnahme nach Ziffer 1.1 Buchstabe b.
 
 ### 2 Angaben zur durchgemachten Krankheit und zum Zeitpunkt der Genesung
 
@@ -858,7 +858,7 @@ Anhang 5*[^t-5]*
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-5]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. I der V des EDI vom 24. Sept. 2021 ([AS 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)) und vom 1. Nov. 2021, in Kraft seit 2. Nov. 2021 ([AS 2021 640](https://fedlex.data.admin.ch/eli/oc/2021/640)).
+[^t-5]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) und Ziff. I der V des EDI vom 22. Nov. 2021, in Kraft seit 23. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -883,15 +883,24 @@ Anhang 5*[^t-5]*
   - – Andorra
   - – Armenien
   - – Färöer-Inseln
+  - – Georgien
   - – Heiliger Stuhl
   - – Israel
   - – Marokko
+  - – Moldova
   - – Monaco
   - – Nordmazedonien
   - – Panama
   - – San Marino
+  - – Serbien
   - – Türkei
   - – Ukraine
   - – Vereinigtes Königreich
 
-- 2\.2 Impfzertifikate sind nur anerkannt, wenn sie für Impfungen mit einem Impfstoff ausgestellt wurden, der die Anforderungen nach Ziffer 1.2 erfüllt.
+- 2\.2
+
+  Anerkannt sind die Impf- und Testzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von einem der folgenden Länder ausgestellt wurden:
+
+  - – Neuseeland
+
+- 2\.3 Impfzertifikate sind nur anerkannt, wenn sie für Impfungen mit einem Impfstoff ausgestellt wurden, der die Anforderungen nach Ziffer 1.2 erfüllt.

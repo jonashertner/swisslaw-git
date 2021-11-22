@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-11-16
+version: 2021-11-23
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211116/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211116-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211116/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211123/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211123-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211123/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 16 November 2021)
+of 4 June 2021 (Status as of 23 November 2021)
 
 The Swiss Federal Council,
 
@@ -791,7 +791,7 @@ Annex 3*[^t-3]*
 
 ## Special provisions concerning COVID-19 recovery certificates
 
-[^t-3]: Revised by No II para. 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-3]: Revised by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) and by No I of the O of the FDHA of 22 Nov. 2021, in force since 23 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)).
 
 ### 1 Start of validity and maximum duration
 
@@ -804,7 +804,7 @@ Annex 3*[^t-3]*
   Period of validity:
 
   - a. for COVID-19 recovery certificates pursuant to Article 16 paragraph 1: 365 days from the date of the test result referred to in number 1.1 letter a;
-  - b. for COVID-19 recovery certificates pursuant to Article 16 paragraph 3: 90 days from the date of the analysis referred to in number 1.1 letter b.
+  - b. for COVID-19 recovery certificates pursuant to Article 16 paragraph 3: 90 days from the date on which the sample was taken in accordance with number 1.1 letter b.
 
 ### 2 Details of the disease contracted and the date of recovery
 
@@ -861,7 +861,7 @@ Annex 5*[^t-5]*
 
 ## List of recognised foreign certificates
 
-[^t-5]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), No I of the FDHA O of 24 Sept. 2021 ([AS 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)) und of 1 Nov. 2021, in force since 2 Nov. 2021 ([AS 2021 640](https://fedlex.data.admin.ch/eli/oc/2021/640)).
+[^t-5]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), No I of the FDHA O of 24 Sept. 2021 ([AS 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)), No I of the O of 1 Nov. 2021 ([AS 2021 640](https://fedlex.data.admin.ch/eli/oc/2021/640)) and of 22 Nov. 2021, in force since 23 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -878,23 +878,30 @@ Annex 5*[^t-5]*
 
 [^annex5-lvlu1-lvl1-1]: Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic, as amended by OJ L 211, 15.6.2021, p. 1.
 
-- 2\.1
+- 2\.1 Vaccination, recovery and test certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following countries are recognised:
 
-  Vaccination, recovery and test certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following countries are recognised:
+- – Albania
+- – Andorra
+- – Armenia
+- – Faroe Islands
+- – Georgia
+- – Holy See
+- – Israel
+- – Morocco
+- – Moldova
+- – Monaco
+- – North Macedonia
+- – Panama
+- – San Marino
+- – Serbia
+- – Turkey
+- – Ukraine
+- – United Kingdom
 
-  - – Albania
-  - – Andorra
-  - – Armenia
-  - – Faroe Islands
-  - – Holy See
-  - – Israel
-  - – Morocco
-  - – Monaco
-  - – North Macedonia
-  - – Panama
-  - – San Marino
-  - – Turkey
-  - – Ukraine
-  - – United Kingdom
+- 2\.2
 
-- 2\.2 Vaccination certificates are only recognised if they have been issued for vaccinations with a vaccine that meets the requirements of number 1.2.
+  Vaccination and test certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following countries are recognised:
+
+  - – New Zealand
+
+- 2\.3 Vaccination certificates are only recognised if they have been issued for vaccinations with a vaccine that meets the requirements of number 1.2.
