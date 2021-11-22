@@ -3,18 +3,18 @@ sr: "412.101.221.25"
 title: Verordnung des SBFI vom 10. Februar 2015 über die berufliche Grundbildung Uhrenarbeiterin/Uhrenarbeiter mit eidgenössischem Berufsattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/160"
 language: de
-version: 2021-02-01
+version: 2021-11-23
 adopted: 2015-02-10
 in_force: 2015-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/160/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2015-160-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/160/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/160/20211123/de/xml/fedlex-data-admin-ch-eli-cc-2015-160-20211123-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/160/20211123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Uhrenarbeiterin/Uhrenarbeiter mit eidgenössischem Berufsattest (EBA)
 
-vom 10. Februar 2015 (Stand am 1. Februar 2021)
+vom 10. Februar 2015 (Stand am 23. November 2021)
 
 <table>
 <tr><td>49208</td><td>Uhrenarbeiterin EBA/Uhrenarbeiter EBA Opératrice en horlogerie AFP/opérateur en horlogerie AFP Operatrice in orologeria CFP/operatore in orologeria CFP</td></tr>
@@ -24,7 +24,7 @@ Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
 gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-4]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -131,7 +131,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
   - 2\. Massnahmen zur Arbeitssicherheit anwenden,
   - 3\. Massnahmen zum Umweltschutz anwenden.
 
-<sup>2</sup> In den Handlungskompetenzbereichen Abs. 1 Bst. a, b Ziff. 1–2, c und d ist der Aufbau der Handlungskompetenzen für alle Lernenden verbindlich.
+<sup>2</sup> In den Handlungskompetenzbereichen Abs. 1 Bst. a, b Ziff. 1–2, c und d ist der Aufbau der Handlungskompetenzen für alle Lernenden verbindlich.[^5-3]
 
 <sup>3</sup>
 
@@ -139,11 +139,12 @@ Je nach gewähltem Schwerpunkt müssen zudem folgende Handlungskompetenzen erlan
 
 - a. Schwerpunkt Zusammensetzen: Handlungskompetenzen Abs. 1 Bst. b Ziff. 3–4;
 - b. Schwerpunkt Regulieren: Handlungskompetenzen Abs. 1 Bst. b Ziff. 5–6;
-- c.[^5-3] Schwerpunkt Ausstattung (Habillage): Handlungskompetenzen nach Absatz 1 Buchstabe b Ziffern 4 und 7.
+- c.[^5-4] Schwerpunkt Ausstattung (Habillage): Handlungskompetenzen nach Absatz 1 Buchstabe b Ziffern 4 und 7.
 
 [^5-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
 [^5-2]: Eingefügt durch Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
-[^5-3]: Eingefügt durch Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
+[^5-3]: Die Berichtigung vom 23. Nov. 2021 betrifft nur den französischen und italienischen Text ([AS 2021 731](https://fedlex.data.admin.ch/eli/oc/2021/731)).
+[^5-4]: Eingefügt durch Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
 
 ## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz und Umweltschutz
 
@@ -188,7 +189,7 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 <tr><td>Total</td><td>200</td><td>200</td><td>400</td></tr>
 <tr><td>b. Allgemeinbildung</td><td>[tab] 120</td><td>[tab] 120</td><td>[tab] 240</td></tr>
 <tr><td>c. Sport</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 80</td></tr>
-<tr><td>Total Lektionen</td><td>360</td><td>360</td><td>720.**[^8-1]**</td></tr>
+<tr><td>Total Lektionen</td><td>360</td><td>360</td><td>720.[^8-1]</td></tr>
 </table>
 
 <sup>2</sup> Geringfügige Abweichungen von der vorgegebenen Anzahl der Lektionen pro Lehrjahr innerhalb eines Handlungskompetenzbereichs sind in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich.

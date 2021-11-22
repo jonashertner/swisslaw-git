@@ -3,18 +3,18 @@ sr: "412.101.221.25"
 title: "Ordonnance du SEFRI du 10 février 2015 sur la formation professionnelle initiale d'opératrice en horlogerie/opérateur en horlogerie avec attestation fédérale de formation professionnelle (AFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/160"
 language: fr
-version: 2021-02-01
+version: 2021-11-23
 adopted: 2015-02-10
 in_force: 2015-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/160/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-160-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/160/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/160/20211123/fr/xml/fedlex-data-admin-ch-eli-cc-2015-160-20211123-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/160/20211123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale d’opératrice en horlogerie / opérateur en horlogerie avec attestation fédérale de formation professionnelle (AFP)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale d’opératrice en horlogerie / opérateur en horlogerie avec attestation fédérale de formation professionnelle (AFP)\*
 
-du 10 février 2015 (Etat le 1<sup>er</sup> février 2021)[^t-1]
+du 10 février 2015 (État le 23 novembre 2021)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -26,7 +26,7 @@ Le Secrétariat d’État à la formation, à la recherche et à l’innovation 
 
 vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -133,7 +133,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
   - 2\. appliquer les mesures de sécurité au travail,
   - 3\. appliquer les mesures de protection de l’environnement.
 
-<sup>2</sup> Les personnes en formation doivent obligatoirement acquérir les compétences opérationnelles dans les domaines de compétences opérationnelles visées à l’al. 1, let. a, b, ch. 1 et 2, et d.[^5-4]
+<sup>2</sup> Les personnes en formation doivent obligatoirement acquérir les compétences opérationnelles dans les domaines de compétences opérationnelles visées à l’al. 1, let. a, b, ch. 1 et 2, c et d.[^5-4]
 
 <sup>3</sup>
 
@@ -146,7 +146,7 @@ Selon le domaine spécifique choisi, les compétences opérationnelles suivantes
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
 [^5-2]: Introduit par le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
 [^5-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
-[^5-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)). Erratum du 23 nov. 2021 ([RO 2021 731](https://fedlex.data.admin.ch/eli/oc/2021/731)).
 [^5-5]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
 
 ## Section 3 Sécurité au travail, protection de la santé et protection de l’environnement
@@ -192,7 +192,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <tr><td>Total</td><td>200</td><td>200</td><td>400</td></tr>
 <tr><td>b. Culture générale</td><td>[tab] 120</td><td>[tab] 120</td><td>[tab] 240</td></tr>
 <tr><td>c. Sport</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 80</td></tr>
-<tr><td>Total des périodes d’enseignement</td><td>360</td><td>360</td><td>720**[^8-1]**</td></tr>
+<tr><td>Total des périodes d’enseignement</td><td>360</td><td>360</td><td>720[^8-1]</td></tr>
 </table>
 
 <sup>2</sup> De légères divergences par rapport au nombre prescrit de périodes d’enseignement par année d’apprentissage au sein d’un domaine de compétences opérationnelles sont possibles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes.

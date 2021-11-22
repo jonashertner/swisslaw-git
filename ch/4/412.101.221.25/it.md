@@ -3,18 +3,18 @@ sr: "412.101.221.25"
 title: Ordinanza della SEFRI del 10 febbraio 2015 sulla formazione professionale di base Operatrice/Operatore in orologeria con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/160"
 language: it
-version: 2021-02-01
+version: 2021-11-23
 adopted: 2015-02-10
 in_force: 2015-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/160/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2015-160-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/160/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/160/20211123/it/xml/fedlex-data-admin-ch-eli-cc-2015-160-20211123-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/160/20211123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Operatrice/Operatore in orologeria con certificato federale di formazione pratica (CFP)
 
-del 10 febbraio 2015 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
+del 10 febbraio 2015 (Stato 23 novembre 2021)
 
 <table>
 <tr><td>49208</td><td>Operatrice/Operatore in orologeria CFP Uhrenarbeiterin EBA/Uhrenarbeiter EBA Opératrice en horlogerie AFP/opérateur en horlogerie AFP</td></tr>
@@ -110,7 +110,7 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
   - 1\. assemblare componenti di movimenti semplici meccanici, automatici e a calendario,
   - 2\. eseguire misurazioni e controlli funzionali ed estetici,
-  - 3\.[^5-2] assemblare componenti di movimenti,,
+  - 3\.[^5-2] assemblare componenti di movimenti,
   - 4\. realizzare operazioni di posa e incassatura,
   - 5\. eseguire la regolazione tradizionale,
   - 6\. eseguire la regolazione e la rifinitura industriale,
@@ -132,7 +132,7 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
   - 2\. applicare le misure della sicurezza sul lavoro,
   - 3\. applicare le misure per il rispetto dell’ambiente.
 
-<sup>2</sup> Le persone in formazione devono imperativamente acquisire le competenze operative di cui al capoverso 1 lettere a, b numeri 1–2 nonché d.[^5-4]
+<sup>2</sup> Le persone in formazione devono imperativamente acquisire le competenze operative di cui al capoverso 1 lettere a, b numeri 1–2 nonché c, d.[^5-4]
 
 <sup>3</sup>
 
@@ -145,7 +145,7 @@ In base all’orientamento scelto, le persone in formazione devono acquisire le 
 [^5-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
 [^5-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
 [^5-3]: Introdotto dal n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
-[^5-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
+[^5-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)). Correzione del 23 nov. 2021 ([RU 2021 731](https://fedlex.data.admin.ch/eli/oc/2021/731)).
 [^5-5]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 34](https://fedlex.data.admin.ch/eli/oc/2021/34)).
 
 ## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
@@ -186,12 +186,12 @@ La formazione professionale pratica in azienda comprende in media 4 giorni alla 
 <tr><td>– Realizzazione di strumenti e attrezzi per lavori di orologeria</td><td>[tab] 60</td><td>[tab] 60</td><td>[tab] 120</td></tr>
 <tr><td>– Assemblaggio di componenti</td><td>[tab] 120</td><td>[tab] 100</td><td>[tab] 220</td></tr>
 <tr><td>*–* *compreso l’insegnamento specifico per l’orientamento*</td><td>[tab] *(20)*</td><td>[tab] *(20)*</td><td>[tab]</td></tr>
-<tr><td>*–* compresa l’applicazione delle norme relative alla sicurezza sul lavoro e alla protezione della salute *e dell’ambiente*</td><td>[tab] *(20)*</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>*–* *compresa l’applicazione delle norme relative alla* *sicurezza sul lavoro e alla protezione della salute* *e dell’ambiente*</td><td>[tab] *(20)*</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>– Rispetto degli standard di produzione</td><td>[tab] 20</td><td>[tab] 40</td><td>[tab] 60</td></tr>
 <tr><td>Totale conoscenze professionali</td><td>200</td><td>200</td><td>400</td></tr>
 <tr><td>b. Cultura generale</td><td>[tab] 120</td><td>[tab] 120</td><td>[tab] 240</td></tr>
 <tr><td>c. Educazione fisica</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 80</td></tr>
-<tr><td>Totale delle lezioni</td><td>360</td><td>360</td><td>720. **[^8-1]**</td></tr>
+<tr><td>Totale delle lezioni</td><td>360</td><td>360</td><td>720. [^8-1]</td></tr>
 </table>
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammesse deroghe minime al numero di lezioni prescritte per anno di formazione in un campo di competenze operative.
