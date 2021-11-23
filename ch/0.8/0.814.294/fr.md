@@ -3,11 +3,11 @@ sr: "0.814.294"
 title: Convention internationale de 2001 du 23 mars 2001 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/888"
 language: fr
-version: 2020-09-23
+version: 2021-11-24
 adopted: 2001-03-23
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20200923/fr/xml/fedlex-data-admin-ch-eli-cc-2013-888-20200923-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20200923/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20211124/fr/xml/fedlex-data-admin-ch-eli-cc-2013-888-20211124-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20211124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 24 septembre 2013
 
 Entrée en vigueur pour la Suisse le 24 décembre 2013
 
-(Etat le 23 septembre 2020)
+(Etat le 24 novembre 2021)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 22 mars 2013 ([RO 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886))
 
@@ -400,7 +400,7 @@ Notes explicatives:
 
 \5. Dans la rubrique «Adresse de l’assureur (ou des assureurs) et/ou du garant (ou des garants)», il convient d’indiquer l’adresse de l’établissement principal de l’assureur (ou des assureurs) et/ou du garant (ou des garants). Si nécessaire, il convient d’indiquer le lieu de l’établissement auprès duquel l’assurance ou la garantie a été souscrite.
 
-Champ d’application le 23 septembre 2020**[^t-2]**
+Champ d’application le 24 novembre 2021**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -432,6 +432,7 @@ Champ d’application le 23 septembre 2020**[^t-2]**
 <tr><td>Îles Féroé</td><td>9 janvier</td><td>2019</td><td>9 janvier</td><td>2019</td></tr>
 <tr><td>Djibouti</td><td>12 octobre</td><td>2015 A</td><td>12 janvier</td><td>2016</td></tr>
 <tr><td>Égypte<sup>\*</sup></td><td>15 février</td><td>2010 A</td><td>15 mai</td><td>2010</td></tr>
+<tr><td>Émirats arabes unis</td><td>23 mars</td><td>2021</td><td>23 juin</td><td>2021</td></tr>
 <tr><td>Espagne<sup>\*</sup></td><td>10 décembre</td><td>2003</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Estonie<sup>\*</sup></td><td>5 octobre</td><td>2006 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Éthiopie</td><td>17 février</td><td>2009 A</td><td>17 mai</td><td>2009</td></tr>
@@ -446,11 +447,13 @@ Champ d’application le 23 septembre 2020**[^t-2]**
 <tr><td>Hongrie</td><td>30 janvier</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Îles Cook</td><td>21 août</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Îles Marshall</td><td>9 mai</td><td>2008 A</td><td>21 novembre</td><td>2008</td></tr>
+<tr><td>Îles Salomon</td><td>15 octobre</td><td>2020 A</td><td>15 janvier</td><td>2021</td></tr>
 <tr><td>Indonésie</td><td>11 septembre</td><td>2014 A</td><td>11 décembre</td><td>2014</td></tr>
 <tr><td>Iran</td><td>21 novembre</td><td>2011 A</td><td>21 février</td><td>2012</td></tr>
 <tr><td>Irlande<sup>\*</sup></td><td>23 décembre</td><td>2008 A</td><td>23 mars</td><td>2009</td></tr>
 <tr><td>Italie</td><td>18 novembre</td><td>2010</td><td>18 février</td><td>2011</td></tr>
 <tr><td>Jamaïque</td><td>2 mai</td><td>2003 A</td><td>21 novembre</td><td>2008</td></tr>
+<tr><td>Japon</td><td>1<sup>er</sup> juillet</td><td>2020 A</td><td>1<sup>er</sup> octobre</td><td>2020</td></tr>
 <tr><td>Jordanie</td><td>24 mars</td><td>2010 A</td><td>24 juin</td><td>2010</td></tr>
 <tr><td>Kenya</td><td>7 juillet</td><td>2015 A</td><td>7 octobre</td><td>2015</td></tr>
 <tr><td>Kiribati</td><td>29 juillet</td><td>2009 A</td><td>29 octobre</td><td>2009</td></tr>
@@ -478,6 +481,7 @@ Champ d’application le 23 septembre 2020**[^t-2]**
 <tr><td>Palaos</td><td>28 septembre</td><td>2011 A</td><td>28 décembre</td><td>2011</td></tr>
 <tr><td>Panama</td><td>17 février</td><td>2009 A</td><td>17 mai</td><td>2009</td></tr>
 <tr><td>Pays-Bas</td><td>23 décembre</td><td>2010 A</td><td>23 mars</td><td>2011</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>1<sup>er</sup> octobre</td><td>2021</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
 <tr><td>Pologne<sup>\*</sup></td><td>15 décembre</td><td>2006 A</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Portugal</td><td>21 juillet</td><td>2015 A</td><td>21 octobre</td><td>2015</td></tr>
 <tr><td>République tchèque</td><td>20 décembre</td><td>2012 A</td><td>20 mars</td><td>2013</td></tr>
@@ -490,6 +494,7 @@ Champ d’application le 23 septembre 2020**[^t-2]**
 <tr><td>Îles Vierges britanniques</td><td>9 septembre</td><td>2013</td><td>9 septembre</td><td>2013</td></tr>
 <tr><td>Russie</td><td>24 février</td><td>2009 A</td><td>24 mai</td><td>2009</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>21 octobre</td><td>2009 A</td><td>21 janvier</td><td>2010</td></tr>
+<tr><td>Saint-Marin</td><td>19 avril</td><td>2021 A</td><td>19 juillet</td><td>2021</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>26 novembre</td><td>2008 A</td><td>26 février</td><td>2009</td></tr>
 <tr><td>Sainte-Lucie</td><td>26 mai</td><td>2016 A</td><td>26 août</td><td>2016</td></tr>
 <tr><td>Samoa</td><td>18 mai</td><td>2004 A</td><td>21 novembre</td><td>2008</td></tr>
@@ -512,4 +517,4 @@ Champ d’application le 23 septembre 2020**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888), [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387), [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346), [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644), [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888); [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387); [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346); [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644); [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721); [2021 773](https://fedlex.data.admin.ch/eli/oc/2021/773). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/Treaty.

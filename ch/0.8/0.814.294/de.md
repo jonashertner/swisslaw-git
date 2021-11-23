@@ -3,11 +3,11 @@ sr: "0.814.294"
 title: Internationales Übereinkommen von 2001 vom 23. März 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/888"
 language: de
-version: 2020-09-23
+version: 2021-11-24
 adopted: 2001-03-23
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20200923/de/xml/fedlex-data-admin-ch-eli-cc-2013-888-20200923-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20200923/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/888/20211124/de/xml/fedlex-data-admin-ch-eli-cc-2013-888-20211124-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/888/20211124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2013** 5527; BBl **2012** 8639
 
 Abgeschlossen in London am 23. März 2001 Von der Bundesversammlung genehmigt am 22. März 2013[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 24. September 2013 Für die Schweiz in Kraft getreten am 24. Dezember 2013
 
-(Stand am 23. September 2020)
+(Stand am 24. November 2021)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 22. März 2013 ([AS 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)).
 
@@ -394,7 +394,7 @@ Erläuterungen
 
 \5. Die Eintragung «Anschrift» des (der) Versicherers (Versicherer) und/oder Sicherheitsgebers (Sicherheitsgeber) hat die Anschrift des Hauptgeschäftssitzes des (der) Versicherers (Versicherer) und/oder Sicherheitsgebers (Sicherheitsgeber) zu enthalten. Gegebenenfalls ist der Geschäftssitz anzugeben, an dem die Versicherung oder sonstige Sicherheit abgeschlossen wurde.
 
-Geltungsbereich am 23. September 2020**[^t-2]**
+Geltungsbereich am 24. November 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -433,6 +433,7 @@ Geltungsbereich am 23. September 2020**[^t-2]**
 <tr><td>Irland<sup>\*</sup></td><td>23. Dezember</td><td>2008 B</td><td>23. März</td><td>2009</td></tr>
 <tr><td>Italien</td><td>18. November</td><td>2010</td><td>18. Februar</td><td>2011</td></tr>
 <tr><td>Jamaika</td><td>2. Mai</td><td>2003 B</td><td>21. November</td><td>2008</td></tr>
+<tr><td>Japan</td><td>01. Juli</td><td>2020 B</td><td>01. Oktober</td><td>2020</td></tr>
 <tr><td>Jordanien</td><td>24. März</td><td>2010 B</td><td>24. Juni</td><td>2010</td></tr>
 <tr><td>Kanada</td><td>2. Oktober</td><td>2009 B</td><td>2. Januar</td><td>2010</td></tr>
 <tr><td>Kenia</td><td>7. Juli</td><td>2015 B</td><td>7. Oktober</td><td>2015</td></tr>
@@ -461,6 +462,7 @@ Geltungsbereich am 23. September 2020**[^t-2]**
 <tr><td>Neuseeland <sup>a</sup></td><td>4. April</td><td>2014 B</td><td>4. Juli</td><td>2014</td></tr>
 <tr><td>Nicaragua</td><td>4. April</td><td>2014 B</td><td>4. Juli</td><td>2014</td></tr>
 <tr><td>Niederlande</td><td>23. Dezember</td><td>2010 B</td><td>23. März</td><td>2011</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>01. Oktober</td><td>2021</td><td>01. Oktober</td><td>2021</td></tr>
 <tr><td>Nigeria</td><td>1. Oktober</td><td>2010 B</td><td>1. Januar</td><td>2011</td></tr>
 <tr><td>Niue</td><td>18. Mai</td><td>2012 B</td><td>18. August</td><td>2012</td></tr>
 <tr><td>Norwegen<sup>\*</sup></td><td>25. März</td><td>2008</td><td>21. November</td><td>2008</td></tr>
@@ -472,7 +474,9 @@ Geltungsbereich am 23. September 2020**[^t-2]**
 <tr><td>Portugal</td><td>21. Juli</td><td>2015 B</td><td>21. Oktober</td><td>2015</td></tr>
 <tr><td>Rumänien<sup>\*</sup></td><td>15. Juni</td><td>2009 B</td><td>15. September</td><td>2009</td></tr>
 <tr><td>Russland</td><td>24. Februar</td><td>2009 B</td><td>24. Mai</td><td>2009</td></tr>
+<tr><td>Salomoninseln</td><td>15. Oktober</td><td>2020 B</td><td>15. Januar</td><td>2021</td></tr>
 <tr><td>Samoa</td><td>18. Mai</td><td>2004 B</td><td>21. November</td><td>2008</td></tr>
+<tr><td>San Marino</td><td>19. April</td><td>2021 B</td><td>19. Juli</td><td>2021</td></tr>
 <tr><td>Saudi-Arabien</td><td>29. Oktober</td><td>2018 B</td><td>29. Januar</td><td>2019</td></tr>
 <tr><td>Schweden<sup>\*</sup></td><td>3. Juni</td><td>2013</td><td>3. September</td><td>2013</td></tr>
 <tr><td>Schweiz</td><td>24. September</td><td>2013 B</td><td>24. Dezember</td><td>2013</td></tr>
@@ -495,6 +499,7 @@ Geltungsbereich am 23. September 2020**[^t-2]**
 <tr><td>Türkei</td><td>12. September</td><td>2013 B</td><td>12. Dezember</td><td>2013</td></tr>
 <tr><td>Ungarn</td><td>30. Januar</td><td>2008 B</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Vanuatu</td><td>20. August</td><td>2008 B</td><td>21. November</td><td>2008</td></tr>
+<tr><td>Vereinigte Arabische Emirate</td><td>23. März</td><td>2021</td><td>23. Juni</td><td>2021</td></tr>
 <tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>29. Juni</td><td>2006</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Bermudas</td><td>16. Januar</td><td>2009</td><td>16. Januar</td><td>2009</td></tr>
 <tr><td>Britische Jungferninseln</td><td>9. September</td><td>2013</td><td>9. September</td><td>2013</td></tr>
@@ -508,4 +513,4 @@ Geltungsbereich am 23. September 2020**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888), [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387), [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346), [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644)und [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2013 5527](https://fedlex.data.admin.ch/eli/oc/2013/888); [2016 2387](https://fedlex.data.admin.ch/eli/oc/2016/387); [2018 2415](https://fedlex.data.admin.ch/eli/oc/2018/346); [2019 3519](https://fedlex.data.admin.ch/eli/oc/2019/644); [2020 3879](https://fedlex.data.admin.ch/eli/oc/2020/721); [2021 773](https://fedlex.data.admin.ch/eli/oc/2021/773). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/Treaty.
