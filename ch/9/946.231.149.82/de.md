@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: Verordnung vom 30. März 2011 über Massnahmen gegenüber Libyen
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: de
-version: 2021-08-13
+version: 2021-11-24
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20210813/de/xml/fedlex-data-admin-ch-eli-cc-2011-203-20210813-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20210813/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20211124/de/xml/fedlex-data-admin-ch-eli-cc-2011-203-20211124-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20211124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Libyen
 
-vom 30. März 2011 (Stand am 13. August 2021)
+vom 30. März 2011 (Stand am 24. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -307,7 +307,7 @@ Anhang 3*[^t-2]*
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I 16 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 20. März 2013 ([AS 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), vom 14. Juni 2013 ([AS 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), vom 19. Febr. 2014 ([AS 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), vom 24. März 2015 ([AS 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), vom 27. Aug. 2015 ([AS 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), vom 5. Febr. 2016 ([AS 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), vom 8. Mai 2017 ([AS 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), vom 15. Aug. 2018 ([AS 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), vom 21. Aug. 2019 ([AS 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), vom 12. Aug. 2020 ([AS 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), vom 5. Okt. 2020 ([AS 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), vom 14. Okt. 2020 ([AS 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), vom 27. Okt. 2020 ([AS 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), vom 19. April 2021 ([AS 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), vom 5. Mai 2021 ([AS 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)) und vom 12. Aug. 2021, in Kraft seit 13. Aug. 2021 ([AS 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)).
+[^t-2]: Bereinigt gemäss Ziff. I 16 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 20. März 2013 ([AS 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), vom 14. Juni 2013 ([AS 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), vom 19. Febr. 2014 ([AS 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), vom 24. März 2015 ([AS 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), vom 27. Aug. 2015 ([AS 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), vom 5. Febr. 2016 ([AS 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), vom 8. Mai 2017 ([AS 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), vom 15. Aug. 2018 ([AS 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), vom 21. Aug. 2019 ([AS 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), vom 12. Aug. 2020 ([AS 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), vom 5. Okt. 2020 ([AS 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), vom 14. Okt. 2020 ([AS 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), vom 27. Okt. 2020 ([AS 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), vom 19. April 2021 ([AS 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), vom 5. Mai 2021 ([AS 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), vom 12. Aug. 2021 ([AS 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)) und vom 23. Nov. 2021, in Kraft seit 24. Nov. 2021 ([AS 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)).
 [^annex3-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 4*[^t-3]*
@@ -335,5 +335,5 @@ Anhang 5*[^t-4]*
 
 [^annex5-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I 16 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 14. Juni 2013 ([AS 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), vom 24. März 2015 ([AS 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), vom 27. Aug. 2015 ([AS 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), vom 5. Febr. 2016 ([AS 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), vom 8. Mai 2017 ([AS 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), vom 15. Aug. 2018 ([AS 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), vom 21. Aug. 2019 ([AS 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), vom 12. Aug. 2020 ([AS 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), vom 5. Okt. 2020 ([AS 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), vom 14. Okt. 2020 ([AS 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), vom 27. Okt. 2020 ([AS 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), vom 19. April 2021 ([AS 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), vom 5. Mai 2021 ([AS 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)) und vom 12. Aug. 2021, in Kraft seit 13. Aug. 2021 ([AS 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)).
+[^t-4]: Bereinigt gemäss Ziff. I 16 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 14. Juni 2013 ([AS 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), vom 24. März 2015 ([AS 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), vom 27. Aug. 2015 ([AS 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), vom 5. Febr. 2016 ([AS 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), vom 8. Mai 2017 ([AS 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), vom 15. Aug. 2018 ([AS 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), vom 21. Aug. 2019 ([AS 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), vom 12. Aug. 2020 ([AS 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), vom 5. Okt. 2020 ([AS 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), vom 14. Okt. 2020 ([AS 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), vom 27. Okt. 2020 ([AS 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), vom 19. April 2021 ([AS 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), vom 5. Mai 2021 ([AS 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), vom 12. Aug. 2021 ([AS 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)) und vom 23. Nov. 2021, in Kraft seit 24. Nov. 2021 ([AS 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)).
 [^annex5-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.

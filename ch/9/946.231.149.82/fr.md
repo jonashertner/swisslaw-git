@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: "Ordonnance du 30 mars 2011 instituant des mesures à l'encontre de la Libye"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: fr
-version: 2021-08-13
+version: 2021-11-24
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20210813/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20210813-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20210813/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20211124/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20211124-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20211124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Libye
 
-du 30 mars 2011 (Etat le 13 août 2021)
+du 30 mars 2011 (Etat le 24 novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -313,7 +313,7 @@ Annexe 3*[^t-2]*
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I 16 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)) et le ch. I des O du DEFR du 20 mars 2013 ([RO 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), du 14 juin 2013 ([RO 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), du 19 fév. 2014 ([RO 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), du 24 mars 2015 ([RO 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), du 27 août 2015 ([RO 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), du 5 fév. 2016 ([RO 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), du 8 mai 2017 ([RO 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), du 15 août 2018 ([RO 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), du 21 août 2019 ([RO 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), du 12 août 2020 ([RO 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), du 5 oct. 2020 ([RO 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), du 14 oct. 2020 ([RO 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), du 27 oct. 2020 ([RO 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), du 19 avr. 2021 ([RO 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), du 5 mai 2021 ([RO 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)) et du 12 août 2021, en vigueur depuis le 13 août 2021 ([RO 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)).
+[^t-2]: Mise à jour par le ch. I 16 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)) et le ch. I des O du DEFR du 20 mars 2013 ([RO 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), du 14 juin 2013 ([RO 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), du 19 fév. 2014 ([RO 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), du 24 mars 2015 ([RO 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), du 27 août 2015 ([RO 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), du 5 fév. 2016 ([RO 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), du 8 mai 2017 ([RO 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), du 15 août 2018 ([RO 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), du 21 août 2019 ([RO 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), du 12 août 2020 ([RO 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), du 5 oct. 2020 ([RO 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), du 14 oct. 2020 ([RO 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), du 27 oct. 2020 ([RO 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), du 19 avr. 2021 ([RO 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), du 5 mai 2021 ([RO 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), du 12 août 2021 ([RO 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)) et du 23 nov. 2021, en vigueur depuis le 24 nov. 2021 ([RO 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)).
 [^annex3-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Thèmes &gt; Politique économique extérieure &gt; Sanctions / Embargos.
 
 Annexe 4*[^t-3]*
@@ -341,5 +341,5 @@ Annexe 5*[^t-4]*
 
 [^annex5-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. I 16 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)) et le ch. I des O du DEFR du 14 juin 2013 ([RO 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), du 24 mars 2015 ([RO 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), du 27 août 2015 ([RO 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), du 5 fév. 2016 ([RO 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), du 8 mai 2017 ([RO 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), du 15 août 2018 ([RO 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), du 21 août 2019 ([RO 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), du 12 août 2020 ([RO 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), du 5 oct. 2020 ([RO 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), du 14 oct. 2020 ([RO 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), du 27 oct. 2020 ([RO 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), du 19 avr. 2021 ([RO 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), du 5 mai 2021 ([RO 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)) et du 12 août 2021, en vigueur depuis le 13 août 2021 ([RO 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)).
+[^t-4]: Mise à jour par le ch. I 16 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)) et le ch. I des O du DEFR du 14 juin 2013 ([RO 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), du 24 mars 2015 ([RO 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), du 27 août 2015 ([RO 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), du 5 fév. 2016 ([RO 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), du 8 mai 2017 ([RO 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), du 15 août 2018 ([RO 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), du 21 août 2019 ([RO 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), du 12 août 2020 ([RO 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), du 5 oct. 2020 ([RO 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), du 14 oct. 2020 ([RO 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), du 27 oct. 2020 ([RO 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), du 19 avr. 2021 ([RO 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), du 5 mai 2021 ([RO 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)) du 12 août 2021 ([RO 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)) et du 23 nov. 2021, en vigueur depuis le 24 nov. 2021 à 18 heures ([RO 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)).
 [^annex5-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Thèmes &gt; Politique économique extérieure &gt; Sanctions / Embargos.
