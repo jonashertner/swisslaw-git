@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Convention internationale de 2004 du 13 février 2004 pour le contrôle et la gestion des eaux de ballast et sédiments des navires (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: fr
-version: 2020-10-06
+version: 2021-11-24
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20201006/fr/xml/fedlex-data-admin-ch-eli-cc-2017-459-20201006-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20201006/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20211124/fr/xml/fedlex-data-admin-ch-eli-cc-2017-459-20211124-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20211124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 24 septembre 2013
 
 Entrée en vigueur pour la Suisse le 8 septembre 2017
 
-(Etat le 6 octobre 2020)
+(Etat le 24 novembre 2021)
 
 [^t-1]: [RO 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 
@@ -1060,7 +1060,7 @@ Numéro ou lettres distinctifs:
 <tr><td></td><td>Signature du capitaine:</td></tr>
 </table>
 
-Champ d’application le 6 octobre 2020**[^t-2]**
+Champ d’application le 24 novembre 2021**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1081,12 +1081,14 @@ Champ d’application le 6 octobre 2020**[^t-2]**
 <tr><td>Canada</td><td>8 avril</td><td>2010 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Chine</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Hong Kong</td><td>13 mai</td><td>2020</td><td>13 août</td><td>2020</td></tr>
+<tr><td>Macao</td><td>22 janvier</td><td>2019</td><td>22 janvier</td><td>2019</td></tr>
 <tr><td>Chypre</td><td>8 août</td><td>2018 A</td><td>8 novembre</td><td>2018</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>19 mai</td><td>2014 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Corée (Sud)</td><td>10 décembre</td><td>2009 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Croatie\*</td><td>29 juin</td><td>2010 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Danemark\* <sup>a</sup></td><td>11 septembre</td><td>2012</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Îles Féroé</td><td>28 août</td><td>2015</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Groenland</td><td>16 décembre</td><td>2020</td><td>16 décembre</td><td>2020</td></tr>
 <tr><td>Égypte</td><td>11 mai</td><td>2007 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Émirats arabes unis</td><td>6 juin</td><td>2017 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Espagne</td><td>14 septembre</td><td>2005</td><td>8 septembre</td><td>2017</td></tr>
@@ -1104,6 +1106,7 @@ Champ d’application le 6 octobre 2020**[^t-2]**
 <tr><td>Îles Cook</td><td>2 février</td><td>2010</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Îles Marshall</td><td>26 novembre</td><td>2009 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Indonésie</td><td>24 novembre</td><td>2015</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Iraq</td><td>30 septembre</td><td>2021 A</td><td>30 décembre</td><td>2021</td></tr>
 <tr><td>Iran\*</td><td>6 avril</td><td>2011 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Jamaïque</td><td>11 septembre</td><td>2017 A</td><td>11 décembre</td><td>2017</td></tr>
 <tr><td>Japon\*</td><td>10 octobre</td><td>2014 A</td><td>8 septembre</td><td>2017</td></tr>
@@ -1114,9 +1117,9 @@ Champ d’application le 6 octobre 2020**[^t-2]**
 <tr><td>Liban</td><td>15 décembre</td><td>2011 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Libéria</td><td>18 septembre</td><td>2008 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Lituanie</td><td>9 février</td><td>2018 A</td><td>9 mai</td><td>2018</td></tr>
+<tr><td>Madagascar</td><td>27 juillet</td><td>2017 A</td><td>27 octobre</td><td>2017</td></tr>
 <tr><td>Malaisie</td><td>27 septembre</td><td>2010 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Maldives</td><td>22 juin</td><td>2005</td><td>8 septembre</td><td>2017</td></tr>
-<tr><td>Madagascar</td><td>27 juillet</td><td>2017 A</td><td>27 octobre</td><td>2017</td></tr>
 <tr><td>Malte</td><td>7 septembre</td><td>2017 A</td><td>7 décembre</td><td>2017</td></tr>
 <tr><td>Maroc</td><td>23 novembre</td><td>2015</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Mexique</td><td>18 mars</td><td>2008 A</td><td>8 septembre</td><td>2017</td></tr>
@@ -1134,17 +1137,20 @@ Champ d’application le 6 octobre 2020**[^t-2]**
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>20 février</td><td>2014</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Pérou</td><td>10 juin</td><td>2016 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Philippines</td><td>6 juin</td><td>2018 A</td><td>6 septembre</td><td>2018</td></tr>
+<tr><td>Pologne</td><td>26 août</td><td>2020 A</td><td>26 novembre</td><td>2020</td></tr>
 <tr><td>Portugal</td><td>19 octobre</td><td>2017 A</td><td>19 janvier</td><td>2018</td></tr>
 <tr><td>Qatar</td><td>8 février</td><td>2018 A</td><td>8 mai</td><td>2018</td></tr>
+<tr><td>République dominicaine</td><td>12 octobre</td><td>2021 A</td><td>12 janvier</td><td>2022</td></tr>
 <tr><td>Russie</td><td>24 mai</td><td>2012 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>30 août</td><td>2005 A</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Saint-Vincent-et-les Grenadines</td><td>2 juillet</td><td>2020 A</td><td>2 octobre</td><td>2020</td></tr>
 <tr><td>Sainte-Lucie</td><td>26 mai</td><td>2016</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Serbie</td><td>26 juillet</td><td>2018 A</td><td>26 octobre</td><td>2018</td></tr>
 <tr><td>Seychelles</td><td>27 novembre</td><td>2017 A</td><td>27 février</td><td>2018</td></tr>
 <tr><td>Sierra Leone</td><td>21 novembre</td><td>2007 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Singapour</td><td>8 juin</td><td>2017 A</td><td>8 septembre</td><td>2017</td></tr>
-<tr><td>Suisse</td><td>24 septembre</td><td>2013 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Suède\*</td><td>24 novembre</td><td>2009</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Suisse</td><td>24 septembre</td><td>2013 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Syrie</td><td>2 septembre</td><td>2005</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Togo</td><td>17 septembre</td><td>2018 A</td><td>17 décembre</td><td>2018</td></tr>
 <tr><td>Tonga</td><td>16 avril</td><td>2014 A</td><td>8 septembre</td><td>2017</td></tr>
@@ -1154,4 +1160,4 @@ Champ d’application le 6 octobre 2020**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Conv. ne s’applique pas au Groënland.</td></tr>
 </table>
 
-[^t-2]: [RO 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459)[5879](https://fedlex.data.admin.ch/eli/oc/2017/639), [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416)[4079](https://fedlex.data.admin.ch/eli/oc/2018/662)et **2020** 4343. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/Treaty.

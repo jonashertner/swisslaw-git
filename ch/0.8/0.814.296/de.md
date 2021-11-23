@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Internationales Übereinkommen von 2004 vom 13. Februar 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: de
-version: 2020-10-06
+version: 2021-11-24
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20201006/de/xml/fedlex-data-admin-ch-eli-cc-2017-459-20201006-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20201006/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20211124/de/xml/fedlex-data-admin-ch-eli-cc-2017-459-20211124-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20211124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 24. September 2013
 
 In Kraft getreten für die Schweiz am 8. September 2017
 
-(Stand am 6. Oktober 2020)
+(Stand am 24. November 2021)
 
 [^t-1]: [AS 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 
@@ -1062,7 +1062,7 @@ Unterscheidungssignal:
 <tr><td></td><td>Unterschrift des Kapitäns:</td></tr>
 </table>
 
-Geltungsbereich am 6. Oktober 2020**[^t-2]**
+Geltungsbereich am 24. November 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1080,10 +1080,13 @@ Geltungsbereich am 6. Oktober 2020**[^t-2]**
 <tr><td>Bulgarien</td><td>30. April</td><td>2018 B</td><td>30. Juli</td><td>2018</td></tr>
 <tr><td>China</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Hongkong</td><td>13. Mai</td><td>2020</td><td>13. August</td><td>2020</td></tr>
+<tr><td>Macau</td><td>22. Januar</td><td>2019</td><td>22. Januar</td><td>2019</td></tr>
 <tr><td>Cook-Inseln</td><td>2. Februar</td><td>2010</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Deutschland</td><td>20. Juni</td><td>2013</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Dänemark\* <sup>a</sup></td><td>11. September</td><td>2012</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Färöer</td><td>28. August</td><td>2015</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Grönland</td><td>16. Dezember</td><td>2020</td><td>16. Dezember</td><td>2020</td></tr>
+<tr><td>Dominikanische Republik</td><td>12. Oktober</td><td>2021 B</td><td>12. Januar</td><td>2022</td></tr>
 <tr><td>Estland</td><td>17. April</td><td>2018 B</td><td>17. Juli</td><td>2018</td></tr>
 <tr><td>Fidschi</td><td>8. März</td><td>2016 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Finnland\*</td><td>8. September</td><td>2016</td><td>8. September</td><td>2017</td></tr>
@@ -1096,6 +1099,7 @@ Geltungsbereich am 6. Oktober 2020**[^t-2]**
 <tr><td>Guyana</td><td>20. Februar</td><td>2019 B</td><td>20. Mai</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>10. Juli</td><td>2017 B</td><td>10. Oktober</td><td>2017</td></tr>
 <tr><td>Indonesien</td><td>24. November</td><td>2015</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Irak</td><td>30. September</td><td>2021 B</td><td>30. Dezember</td><td>2021</td></tr>
 <tr><td>Iran\*</td><td>6. April</td><td>2011 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Jamaika</td><td>11. September</td><td>2017 B</td><td>11. Dezember</td><td>2017</td></tr>
 <tr><td>Japan\*</td><td>10. Oktober</td><td>2014 B</td><td>8. September</td><td>2017</td></tr>
@@ -1132,6 +1136,7 @@ Geltungsbereich am 6. Oktober 2020**[^t-2]**
 <tr><td>Panama\*</td><td>19. Oktober</td><td>2016 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Peru</td><td>10. Juni</td><td>2016 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Philippinen</td><td>6. Juni</td><td>2018 B</td><td>6. September</td><td>2018</td></tr>
+<tr><td>Polen</td><td>26. August</td><td>2020 B</td><td>26. November</td><td>2020</td></tr>
 <tr><td>Portugal</td><td>19. Oktober</td><td>2017 B</td><td>19. Januar</td><td>2018</td></tr>
 <tr><td>Russland</td><td>24. Mai</td><td>2012 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Saudi-Arabien</td><td>27. April</td><td>2017 B</td><td>8. September</td><td>2017</td></tr>
@@ -1144,6 +1149,7 @@ Geltungsbereich am 6. Oktober 2020**[^t-2]**
 <tr><td>Spanien</td><td>14. September</td><td>2005</td><td>8. September</td><td>2017</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>30. August</td><td>2005 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>St. Lucia</td><td>26. Mai</td><td>2016</td><td>8. September</td><td>2017</td></tr>
+<tr><td>St. Vincent und die Grenadinen</td><td>2. Juli</td><td>2020 B</td><td>02. Oktober</td><td>2020</td></tr>
 <tr><td>Syrien</td><td>2. September</td><td>2005</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Südafrika</td><td>15. April</td><td>2008 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Togo</td><td>17. September</td><td>2018 B</td><td>17. Dezember</td><td>2018</td></tr>
@@ -1156,4 +1162,4 @@ Geltungsbereich am 6. Oktober 2020**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland.</td></tr>
 </table>
 
-[^t-2]: [AS 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459)[5879](https://fedlex.data.admin.ch/eli/oc/2017/639), [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416)[4079](https://fedlex.data.admin.ch/eli/oc/2018/662), [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/Treaty.

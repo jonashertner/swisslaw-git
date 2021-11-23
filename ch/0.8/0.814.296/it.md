@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Convenzione internazionale del 2004 del 13 febbraio 2004 per il controllo e la gestione delle acque di zavorra e dei sedimenti delle navi (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: it
-version: 2020-10-06
+version: 2021-11-24
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20201006/it/xml/fedlex-data-admin-ch-eli-cc-2017-459-20201006-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20201006/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20211124/it/xml/fedlex-data-admin-ch-eli-cc-2017-459-20211124-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20211124/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di adesione depositato dalla Svizzera il 24 settembre 2013
 
 Entrata in vigore per la Svizzera l’8 settembre 2017
 
-(Stato 6 ottobre 2020)
+(Stato 24 novembre 2021)
 
 [^t-1]: [RU 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 
@@ -1056,7 +1056,7 @@ Numeri o lettere di identificazione:
 <tr><td></td><td>Firma del comandante:</td></tr>
 </table>
 
-Campo d’applicazione il 6 ottobre 2020**[^t-2]**
+Campo d’applicazione il 24 novembre 2021**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1075,11 +1075,13 @@ Campo d’applicazione il 6 ottobre 2020**[^t-2]**
 <tr><td>Canada</td><td>8 aprile</td><td>2010 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Hong Kong</td><td>13 maggio</td><td>2020</td><td>13 agosto</td><td>2020</td></tr>
+<tr><td>Macao</td><td>22 gennaio</td><td>2019</td><td>22 gennaio</td><td>2019</td></tr>
 <tr><td>Cipro</td><td>8 agosto</td><td>2018 A</td><td>8 novembre</td><td>2018</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>19 maggio</td><td>2014 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Corea (Sud)</td><td>10 dicembre</td><td>2009 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Croazia\*</td><td>29 giugno</td><td>2010 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Danimarca\* <sup>a</sup></td><td>11 settembre</td><td>2012</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Groenlandia</td><td>16 dicembre</td><td>2020</td><td>16 dicembre</td><td>2020</td></tr>
 <tr><td>Isole Faeröer</td><td>28 agosto</td><td>2015</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Egitto</td><td>11 maggio</td><td>2007 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>6 giugno</td><td>2017 A</td><td>8 settembre</td><td>2017</td></tr>
@@ -1101,6 +1103,7 @@ Campo d’applicazione il 6 ottobre 2020**[^t-2]**
 <tr><td>Honduras</td><td>10 luglio</td><td>2017 A</td><td>10 ottobre</td><td>2017</td></tr>
 <tr><td>Indonesia</td><td>24 novembre</td><td>2015</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Iran\*</td><td>6 aprile</td><td>2011 A</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Iraq</td><td>30 settembre</td><td>2021 A</td><td>30 dicembre</td><td>2021</td></tr>
 <tr><td>Isole Cook</td><td>2 febbraio</td><td>2010</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Isole Marshall</td><td>26 novembre</td><td>2009 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Kenya</td><td>14 gennaio</td><td>2008</td><td>8 settembre</td><td>2017</td></tr>
@@ -1128,11 +1131,14 @@ Campo d’applicazione il 6 ottobre 2020**[^t-2]**
 <tr><td>Palau</td><td>28 settembre</td><td>2011 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Panama\*</td><td>19 ottobre</td><td>2016 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Perù</td><td>10 giugno</td><td>2016 A</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Polonia</td><td>26 agosto</td><td>2020 A</td><td>26 novembre</td><td>2020</td></tr>
 <tr><td>Portogallo</td><td>19 ottobre</td><td>2017 A</td><td>19 gennaio</td><td>2018</td></tr>
 <tr><td>Qatar</td><td>8 febbraio</td><td>2018 A</td><td>8 maggio</td><td>2018</td></tr>
 <tr><td>Russia</td><td>24 maggio</td><td>2012 A</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Repubblica Dominicana</td><td>12 ottobre</td><td>2021 A</td><td>12 gennaio</td><td>2022</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>30 agosto</td><td>2005 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Saint Lucia</td><td>26 maggio</td><td>2016</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Saint Vincent e Grenadine</td><td>2 luglio</td><td>2020 A</td><td>2 ottobre</td><td>2020</td></tr>
 <tr><td>Seicelle</td><td>27 novembre</td><td>2017 A</td><td>27 febbraio</td><td>2018</td></tr>
 <tr><td>Serbia</td><td>26 luglio</td><td>2018 A</td><td>26 ottobre</td><td>2018</td></tr>
 <tr><td>Sierra Leone</td><td>21 novembre</td><td>2007 A</td><td>8 settembre</td><td>2017</td></tr>
@@ -1151,4 +1157,4 @@ Campo d’applicazione il 6 ottobre 2020**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> La Conv. non si applica alla Groenlandia.</td></tr>
 </table>
 
-[^t-2]: Completa quelli in [RU 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459)[5879](https://fedlex.data.admin.ch/eli/oc/2017/639), [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416)[4079](https://fedlex.data.admin.ch/eli/oc/2018/662)e [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775)e [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/Treaty.
