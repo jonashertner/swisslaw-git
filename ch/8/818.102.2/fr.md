@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-11-23
+version: 2021-11-24
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211123/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211123-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211124/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211124-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211123/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 23 novembre 2021)
+du 4 juin 2021 (Etat le 24 novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -261,10 +261,13 @@ Tous les certificats COVID-19 contiennent les indications suivantes, conforméme
 Dans leur forme lisible par l’homme, les certificats COVID-19 contiennent, en plus, les indications suivantes:
 
 - a. une remarque générale sur la signification du certificat visé à l’annexe 1, ch. 3;
-- b. lorsqu’il s’agit d’un certificat de vaccination COVID-19 au sens de l’art. 15, al. 3, d’un certificat de guérison COVID-19 au sens de l’art. 16, al. 3, ou d’un certificat de dérogation COVID-19 au sens de l’art. 21*a*: une remarque sur la validité temporelle et locale limitée du certificat au sens de l’annexe 4*a*, ch. 3.[^12-2]
+- b.[^12-2] lorsqu’il s’agit […][^12-3], d’un certificat de guérison COVID-19 au sens de l’art. 16, al. 3 […][^12-4]: une remarque sur la validité temporelle et locale limitée du certificat au sens de l’annexe 1, ch. 4.[^12-5]
 
 [^12-1]: Abrogée par le ch. I de l’O du 3 nov. 2021, avec effet au 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^12-2]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-2]: Erratum du 24 nov. 2021 ([RO 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-3]: Entre en vigueur le 30 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-4]: Entre en vigueur le 14 déc. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-5]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Section 4 Certificats de vaccination COVID-19
 
@@ -507,11 +510,13 @@ L’OFIT exploite un système d’information qui sert à gérer les certificats
 
 Les certificats de signature ne sont pas livrés aux systèmes étrangers pour les certificats COVID-19 suivants:
 
-- a. les certificats de vaccination COVID visés à l’art. 15, al. 3;
+- a.[^25-1] …
 - b. les certificats de guérison COVID-19 visés à l’art. 16, al. 3;
-- c. les certificats de dérogation visés à l’art. 21*a*, al. 1.[^25-1]
+- c.[^25-2] … .[^25-3]
 
-[^25-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^25-1]: Entre en vigueur le 30 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^25-2]: Entre en vigueur le 14 déc. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^25-3]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 26
 

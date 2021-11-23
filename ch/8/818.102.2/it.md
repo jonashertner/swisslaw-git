@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-11-23
+version: 2021-11-24
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211123/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211123-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211124/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211124-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211124/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211123/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 23 novembre 2021) (Stato 23 novembre 2021)
+del 4 giugno 2021 (Stato 24 novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -263,10 +263,13 @@ Tutti i certificati COVID-19 contengono le seguenti informazioni di cui all’al
 I certificati COVID-19 leggibili senza mezzi ausiliari contengono inoltre le seguenti informazioni:
 
 - a. un’indicazione generale sulla rilevanza del certificato secondo l’allegato 1 numero 3;
-- b. per i certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3, i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3 e i certificati di deroga COVID-19 di cui all’articolo 21*a*: un’indicazione sulla validità temporanea e locale del certificato secondo l’allegato 4*a* numero 3.[^12-2]
+- b.[^12-2] per i ... [^12-3] certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3 ...[^12-4]: un’indicazione sulla validità temporanea e locale del certificato secondo l’allegato 1 numero 4.[^12-5]
 
 [^12-1]: Abrogata dal n. I dell’O del 3 nov. 2021, con effetto dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^12-2]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-2]: Correzione del 24 nov. 2021 ([RU 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-3]: In vigore il 30 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-4]: In vigore il 14 dic. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-5]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Sezione 4: Certificati di vaccinazione COVID-19
 
@@ -510,11 +513,13 @@ L’UFIT gestisce in un sistema d’informazione i certificati di firma utilizza
 
 Per i seguenti certificati COVID-19 i certificati di firma utilizzati per la verifica non sono forniti a sistemi esteri:
 
-- a. certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3;
+- a.[^25-1] ...
 - b. certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3;
-- c. certificati di deroga COVID-19 di cui all’articolo 21*a* capoverso 1.[^25-1]
+- c.[^25-2] ...[^25-3]
 
-[^25-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^25-1]: In vigore dal 30 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750))
+[^25-2]: In vigore dal 14 dic. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750))
+[^25-3]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 26
 

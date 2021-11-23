@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-11-23
+version: 2021-11-24
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211123/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211123-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211124/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211124-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211123/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 23. November 2021)
+vom 4. Juni 2021 (Stand am 24. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -261,10 +261,13 @@ Alle Covid-19-Zertifikate enthalten die folgenden Angaben nach Anhang 1:
 In menschenlesbarer Form enthalten Covid-19-Zertifikate zusätzlich die folgenden Angaben:
 
 - a. einen allgemeinen Hinweis zur Bedeutung des Zertifikats nach Anhang 1 Ziffer 3;
-- b. wenn es sich um ein Covid-19-Impfzertifikat nach Artikel 15 Absatz 3, ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 3 oder um ein Covid-19-Ausnahmezertifikat nach Artikel 21*a* handelt: einen Hinweis auf die beschränkte zeitliche und örtliche Gültigkeit des Zertifikats nach Anhang 4*a* Ziffer 3.[^12-2]
+- b.[^12-2] wenn es sich um ...[^12-3], ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 3 ...[^12-4] handelt: einen Hinweis auf die beschränkte zeitliche und örtliche Gültigkeit des Zertifikats nach Anhang 1 Ziffer 4.[^12-5]
 
 [^12-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^12-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-2]: Berichtigung vom 24. Nov. 2021 ([AS 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-3]: Tritt am 30. Nov. 2021 in Kraft ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-4]: Tritt am 14. Dez. 2021 in Kraft ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-5]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## 4. Abschnitt: Covid-19-Impfzertifikate
 
@@ -361,7 +364,7 @@ Ein Antrag auf Ausstellung eines Covid-19-Zertifikats, der nicht im automatisier
   - 2\. Datum und Uhrzeit der Probenentnahme,
   - 3\. Name und Adresse des Testzentrums oder der Institution, wo der Test durchgeführt wurde;
 
-- b. Bestätigung der Aufhebung der Absonderung oder ärztliche Bestätigung der Genesung von einer zuständigen Stelle mit behördlichen Aufgaben einschliesslich Name und Adresse dieser Stelle. [^16-1]
+- b. Bestätigung der Aufhebung der Absonderung oder ärztliche Bestätigung der Genesung von einer zuständigen Stelle mit behördlichen Aufgaben einschliesslich Name und Adresse dieser Stelle.[^16-1]
 
 <sup>3</sup>
 
@@ -506,11 +509,13 @@ Das BIT betreibt ein Informationssystem, das dazu dient, Signaturzertifikate zur
 
 Für folgende Covid-19-Zertifikate werden Signaturzertifikate nicht an ausländische Systeme geliefert:
 
-- a. Covid-19-Impfzertifikate nach Artikel 15 Absatz 3;
+- a.[^25-1] ...
 - b. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3;
-- c. Covid-19-Ausnahmezertifikate nach Artikel 21*a* Absatz 1.[^25-1]
+- c.[^25-2] ... .[^25-3]
 
-[^25-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^25-1]: Tritt am 30. Nov. 2021 in Kraft ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^25-2]: Tritt am 14. Dez. 2021 in Kraft ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^25-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 26
 
