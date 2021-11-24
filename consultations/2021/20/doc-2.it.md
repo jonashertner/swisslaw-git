@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Diritto di esecuzione (modifica dell’OCStup e dell’OEStup-DFI) concernente la modifica della legge federale sugli stupefacenti (medicamenti a base di canapa)
 document: Progetto posto in consultazione-2
 language: it

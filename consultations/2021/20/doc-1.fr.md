@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Dispositions d’exécution relatives à la modification de la loi sur les stupéfiants (médicaments à base de cannabis)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ausführungsrecht (Änderung BetmKV sowie BetmVV-EDI) betreffend Änderung des Betäubungsmittelgesetzes (Cannabisarzneimittel)
 document: Vernehmlassungsvorlage
 language: de
