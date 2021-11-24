@@ -3,26 +3,26 @@ sr: "0.631.145.272"
 title: Zollabkommen vom 15. Januar 1958 über die zur Ausbesserung von EUROP-Wagen verwendeten Ersatzteile
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/1573_1633_1633"
 language: de
-version: 1984-02-01
+version: 2021-11-25
 adopted: 1958-01-15
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1573_1633_1633/19840201/de/xml/fedlex-data-admin-ch-eli-cc-1960-1573_1633_1633-19840201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/1573_1633_1633/19840201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1573_1633_1633/20211125/de/xml/fedlex-data-admin-ch-eli-cc-1960-1573_1633_1633-20211125-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/1573_1633_1633/20211125/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Zollabkommen über die zur Ausbesserung von EUROP‑Wagen verwendeten Ersatzteile
 
-0.631.145.272Nicht löschen bitte „[^t-1] „ !! (Stand am 5. November 1999)
+AS **1960** 1573; BBl **1960** I 705
 
-Übersetzung*[^t-2]*
+Übersetzung
 
-Abgeschlossen in Genf am 15. Januar 1958 Von der Bundesversammlung genehmigt am 10. März 1960[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 7. Juli 1960 In Kraft getreten für die Schweiz am 1. Januar 1961
+Abgeschlossen in Genf am 15. Januar 1958 Von der Bundesversammlung genehmigt am 10. März 1960[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 7. Juli 1960 In Kraft getreten für die Schweiz am 1. Januar 1961
 
-[^t-1]: [AS 1960 1573](https://fedlex.data.admin.ch/eli/oc/1960/1573_1633_1633); [BBl 1960 I 705](https://fedlex.data.admin.ch/eli/fga/1960/1_705__)
-[^t-2]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-3]: [AS 1960 1037](https://fedlex.data.admin.ch/eli/oc/1960/1037_1085_1081)
+(Stand am 25. November 2021)
+
+[^t-1]: [AS 1960 1037](https://fedlex.data.admin.ch/eli/oc/1960/1037_1085_1081)
 
 Die Vertragsparteien,
 
@@ -34,7 +34,7 @@ sind wie folgt übereingekommen:
 
 #### Art. 1
 
-Im Sinne dieses Abkommens bedeutet der Begriff
+Im Sinne dieses Abkommens bedeutet der Begriff:
 
 - a. «Eingangsabgaben» die Zölle sowie alle aus Anlass der Einfuhr zu erhebenden Abgaben;
 - b. «EUROP‑Wagen» diejenigen Wagen, die nach den zu diesem Zweck von den beteiligten Eisenbahnverwaltungen vereinbarten Bestimmungen gemeinschaftlich benutzt werden;
@@ -43,7 +43,7 @@ Im Sinne dieses Abkommens bedeutet der Begriff
 
 #### Art. 2
 
-Eine benutzende Verwaltung darf Ersatzteile aus ihren Beständen in EUROP‑Wagen einbauen unter der Bedingung, dass
+Eine benutzende Verwaltung darf Ersatzteile aus ihren Beständen in EUROP‑Wagen einbauen unter der Bedingung, dass:
 
 - a. für diese Ersatzteile im Lande dieser Verwaltung die inneren Abgaben und gegebenenfalls die Eingangsabgaben entrichtet worden sind;
 - b. der Einbau weder die Rückerstattung von Abgaben noch die volle oder teilweise Gewährung sonstiger für die Ausfuhr etwa vorgesehener Vergünstigungen zur Folge hat.
@@ -54,7 +54,9 @@ EUROP‑Wagen, die von einer benutzenden Verwaltung unter Verwendung von Ersatzt
 
 #### Art. 4
 
-<sup>1</sup> Verwendet eine benutzende Verwaltung zur Ausbesserung von EUROP‑Wagen Ersatzteile aus den Beständen der Eigentumsverwaltungen, so werden diese Ersatzteile zur vorübergehenden Einfuhr in das Land der benutzenden Verwaltung ohne Erhebung von Eingangsabgaben zugelassen unter der Voraussetzung, dass
+<sup>1</sup>
+
+Verwendet eine benutzende Verwaltung zur Ausbesserung von EUROP‑Wagen Ersatzteile aus den Beständen der Eigentumsverwaltungen, so werden diese Ersatzteile zur vorübergehenden Einfuhr in das Land der benutzenden Verwaltung ohne Erhebung von Eingangsabgaben zugelassen unter der Voraussetzung, dass:
 
 - a. für diese Ersatzteile die inneren Abgaben und gegebenenfalls die Eingangsabgaben im Lande der Eigentumsverwaltung entrichtet worden sind;
 - b. die Versendung dieser Ersatzteile an die benutzende Verwaltung weder die Rückerstattung von Abgaben noch die volle oder teilweise Gewährung sonstiger für die Ausfuhr etwa vorgesehener Vergünstigungen zur Folge gehabt hat.
@@ -65,7 +67,9 @@ EUROP‑Wagen, die von einer benutzenden Verwaltung unter Verwendung von Ersatzt
 
 #### Art. 5
 
-<sup>1</sup> Die Mitgliedsländer der Wirtschaftskommission für Europa sowie die nach Absatz 8 des der Kommission erteilten Auftrages in beratender Eigenschaft zu der Kommission zugelassenen Länder können Vertragsparteien dieses Abkommens werden
+<sup>1</sup>
+
+Die Mitgliedsländer der Wirtschaftskommission für Europa sowie die nach Absatz 8 des der Kommission erteilten Auftrages in beratender Eigenschaft zu der Kommission zugelassenen Länder können Vertragsparteien dieses Abkommens werden:
 
 - a. durch Unterzeichnung;
 - b. durch Ratifikation, nachdem sie das Abkommen unter dem Vorbehalt der Ratifikation unterzeichnet haben;
@@ -126,31 +130,23 @@ Nach dem 20. Februar 1958 wird die Urschrift dieses Abkommens beim Generalsekret
 
 *Zu Urkund dessen* haben die dazu gehörig Bevollmächtigten dieses Abkommen unterzeichnet. Geschehen zu Genf, am fünfzehnten Januar neunzehnhundertachtundfünfzig, in einer einzigen Ausfertigung in französischer Sprache. (Es folgen die Unterschriften)
 
-Geltungsbereich des Abkommens am 1. April 1984
+Geltungsbereich am 25. November 2021[^t-2]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Unterzeichnung ohne Ratifikationsvorbehalt (U)</th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Dänemark</td><td>5. Februar</td><td>1958 U</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td colspan="2">Bundesrepublik Deutschland\*</td><td>21. Oktober</td><td>1960</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td colspan="2">Belgien</td><td>10. September</td><td>1959</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td colspan="2">Frankreich</td><td>19. August</td><td>1959</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td colspan="2">Italien</td><td>8. März</td><td>1960</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>19. Februar</td><td>1960</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td colspan="2">Niederlande\*</td><td>7. Mai</td><td>1959</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td colspan="2">Österreich</td><td>3. März</td><td>1959</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td colspan="2">Schweiz\*</td><td>7. Juli</td><td>1960</td><td>1. Januar</td><td>1961</td></tr>
-<tr><td>\*</td><td colspan="5">Erklärungen siehe hiernach.</td></tr>
+<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation</th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Bundesrepublik Deutschland</td><td>21. Oktober</td><td>1960</td><td>1. Januar</td><td>1961</td></tr>
+<tr><td>Belgien</td><td>10. September</td><td>1959</td><td>1. Januar</td><td>1961</td></tr>
+<tr><td>Frankreich</td><td>19. August</td><td>1959</td><td>1. Januar</td><td>1961</td></tr>
+<tr><td>Italien</td><td>8. März</td><td>1960</td><td>1. Januar</td><td>1961</td></tr>
+<tr><td>Niederlande\* <sup>a</sup></td><td>7. Mai</td><td>1959</td><td>1. Januar</td><td>1961</td></tr>
+<tr><td>Österreich</td><td>3. März</td><td>1959</td><td>1. Januar</td><td>1961</td></tr>
+<tr><td>Schweiz\*</td><td>7. Juli</td><td>1960</td><td>1. Januar</td><td>1961</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme derjenigen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werdenn. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-## Erklärungen
+[^t-2]: [AS 1974 1636](https://fedlex.data.admin.ch/eli/oc/1974/1636_1636_1636); [1984 232](https://fedlex.data.admin.ch/eli/oc/1984/232_232_232); [2021 783](https://fedlex.data.admin.ch/eli/oc/2021/783). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).
 
-Bundesrepublik Deutschland
-
-Das Abkommen gilt auch für Berlin (West).
-
-Niederlande
-
-Die Unterzeichnung gilt für das Königreich in Europa.
+Erklärungen
 
 Schweiz
 

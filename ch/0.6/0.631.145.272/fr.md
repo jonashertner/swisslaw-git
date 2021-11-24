@@ -3,25 +3,26 @@ sr: "0.631.145.272"
 title: Convention douanière du 15 janvier 1958 relative aux pièces de rechange utilisées pour la réparation des wagons EUROP
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/1573_1633_1633"
 language: fr
-version: 1984-02-01
+version: 2021-11-25
 adopted: 1958-01-15
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1573_1633_1633/19840201/fr/xml/fedlex-data-admin-ch-eli-cc-1960-1573_1633_1633-19840201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/1573_1633_1633/19840201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1573_1633_1633/20211125/fr/xml/fedlex-data-admin-ch-eli-cc-1960-1573_1633_1633-20211125-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/1573_1633_1633/20211125/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention douanière relative aux pièces de rechange utilisées pour la réparation des wagons EUROP
 
-0.631.145.272 (Etat le 5 novembre 1999)Nicht löschen bitte "[^t-1] " !!
+RO **1960** 1633; FF **1960** I 725
 
 Texte original
 
-Conclue à Genève le 15 janvier 1958 Approuvée par l’Assemblée fédérale le 10 mars 1960[^t-2] Instrument de ratification déposé par la Suisse le 7 juillet 1960 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1961
+Conclue à Genève le 15 janvier 1958 Approuvée par l’Assemblée fédérale le 10 mars 1960[^t-1] Instrument de ratification déposé par la Suisse le 7 juillet 1960 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1961
 
-[^t-1]: [RO 1960 1633](https://fedlex.data.admin.ch/eli/oc/1960/1573_1633_1633); [FF 1960 I 725](https://fedlex.data.admin.ch/eli/fga/1960/1__725_)
-[^t-2]: [RO 1960 1085](https://fedlex.data.admin.ch/eli/oc/1960/1037_1085_1081)
+(État le 25 novembre 2021)
+
+[^t-1]: [RO 1960 1085](https://fedlex.data.admin.ch/eli/oc/1960/1037_1085_1081)
 
 Les parties contractantes,
 
@@ -42,7 +43,7 @@ Aux fins de la présente Convention, on entend
 
 #### Art. 2
 
-Une administration utilisatrice peut monter sur des wagons EUROP des pièces de rechange provenant de ses stocks, à condition
+Une administration utilisatrice peut monter sur des wagons EUROP des pièces de rechange provenant de ses stocks, à condition:
 
 - a. Que ces pièces aient été soumises dans le pays de cette administration aux droits et taxes intérieurs et, le cas échéant, aux droits et taxes d’entrée;
 - b. Que le montage n’entraîne pas la restitution de droits ou taxes ou l’octroi de tout ou partie d’autres avantages éventuellement prévus en cas d’exportation.
@@ -126,31 +127,23 @@ Après le 20 février 1958, l’original de la présente Convention sera dépos�
 
 *En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé la présente Convention. Fait à Genève, le quinze janvier mil neuf cent cinquante‑huit, en un seul exemplaire en langue française. (Suivent les signatures)
 
-Champ d’application de la convention le 1<sup>er</sup> avril 1984
+Champ d’application de la convention le 25 novembre 2021[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Signature sans rèserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">[tab] République fédérale d’Allemagne\*</td><td>21 octobre</td><td>1960</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td colspan="2">Autriche</td><td>3 mars</td><td>1959</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td colspan="2">Belgique</td><td>10 septembre</td><td>1959</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td colspan="2">Danemark</td><td>5 février</td><td>1958 Si</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td colspan="2">France</td><td>19 août</td><td>1959</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td colspan="2">Italie</td><td>8 mars</td><td>1960</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>19 février</td><td>1960</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td colspan="2">Pays‑Bas\*</td><td>7 mai</td><td>1959</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td colspan="2">Suisse\*</td><td>7 juillet</td><td>1960</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
-<tr><td>\*</td><td colspan="5">Déclarations, voir ci-après.</td></tr>
+<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>[tab] Allemagne</td><td>21 octobre</td><td>1960</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
+<tr><td>Autriche</td><td>3 mars</td><td>1959</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
+<tr><td>Belgique</td><td>10 septembre</td><td>1959</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
+<tr><td>France</td><td>19 août</td><td>1959</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
+<tr><td>Italie</td><td>8 mars</td><td>1960</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
+<tr><td>Pays‑Bas\* <sup>a</sup></td><td>7 mai</td><td>1959</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
+<tr><td>Suisse\*</td><td>7 juillet</td><td>1960</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-## Déclarations
+[^t-2]: [RO 1974 1636](https://fedlex.data.admin.ch/eli/oc/1974/1636_1636_1636); [1984 232](https://fedlex.data.admin.ch/eli/oc/1984/232_232_232); [2021 783](https://fedlex.data.admin.ch/eli/oc/2021/783). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
 
-République fédérale d’Allemagne
-
-La convention s’applique également à Berlin (Ouest).
-
-Pays‑Bas
-
-La signature a été apposée pour le Royaume en Europe.
+Déclarations
 
 Suisse
 

@@ -3,26 +3,26 @@ sr: "0.631.145.272"
 title: Convenzione doganale del 15 gennaio 1958 concernente i pezzi di ricambio per la riparazione dei carri EUROP
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/1573_1633_1633"
 language: it
-version: 1984-02-01
+version: 2021-11-25
 adopted: 1958-01-15
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1573_1633_1633/19840201/it/xml/fedlex-data-admin-ch-eli-cc-1960-1573_1633_1633-19840201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/1573_1633_1633/19840201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1573_1633_1633/20211125/it/xml/fedlex-data-admin-ch-eli-cc-1960-1573_1633_1633-20211125-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/1573_1633_1633/20211125/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione doganale concernente i pezzi di ricambio per la riparazione dei carri EUROP
 
-0.631.145.272 (Stato 5 novembre 1999)Nicht löschen bitte "[^t-1] " !!
+RU **1960** 1633; FF **1960** I 705 ediz. ted. 725 ediz. franc.
 
-Traduzione*[^t-2]*
+Traduzione
 
-Conchiusa a Ginevra il 15 gennaio 1958 Approvata dall’Assemblea federale il 10 marzo 1960[^t-3] Istrumento di ratificazione depositato dalla Svizzera il 7 luglio 1960 Entrata in vigore per la Svizzera il 1° gennaio 1961
+Conchiusa a Ginevra il 15 gennaio 1958 Approvata dall’Assemblea federale il 10 marzo 1960[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 7 luglio 1960 Entrata in vigore per la Svizzera il 1° gennaio 1961
 
-[^t-1]: [RU 1960 1633](https://fedlex.data.admin.ch/eli/oc/1960/1573_1633_1633); FF **1960** I 705 ediz. ted. 725 ediz. franc.
-[^t-2]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-3]: [RU 1960 1081](https://fedlex.data.admin.ch/eli/oc/1960/1037_1085_1081)
+(Stato 25 novembre 2021)
+
+[^t-1]: [RU 1960 1081](https://fedlex.data.admin.ch/eli/oc/1960/1037_1085_1081)
 
 Le parti contraenti,
 
@@ -129,27 +129,23 @@ Dopo il 20 febbraio 1958, il testo originale della presente Convenzione sarà de
 
 *In fede di che,* i sottoscritti*,* a ciò debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Ginevra, il quindici di gennaio millenovecentocinquantotto, in un solo esemplare, in lingua francese. (Seguono le firme)
 
-Campo d’applicazione della convenzione il 1° aprile 1984
+Campo d’applicazione il 25 novembre 2021[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratificazione Firma senza riserva di ratificazione (Fi)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Austria</td><td>3 marzo</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
-<tr><td colspan="2">Belgio</td><td>10 settembre</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
-<tr><td colspan="2">Danimarca</td><td>5 febbraio</td><td>1958 Fi</td><td>1° gennaio</td><td>1961</td></tr>
-<tr><td colspan="2">Francia</td><td>19 agosto</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
-<tr><td colspan="2">Germania</td><td>21 ottobre</td><td>1960</td><td>1° gennaio</td><td>1961</td></tr>
-<tr><td colspan="2">Italia</td><td>8 marzo</td><td>1960</td><td>1° gennaio</td><td>1961</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>19 febbraio</td><td>1960</td><td>1° gennaio</td><td>1961</td></tr>
-<tr><td colspan="2">Paesi Bassi\*</td><td>7 maggio</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
-<tr><td colspan="2">Svizzera</td><td>7 luglio</td><td>1960</td><td>1° gennaio</td><td>1961</td></tr>
-<tr><td>\*</td><td colspan="5">Dichiarazioni, vedi qui di seguito.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratificazione</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Austria</td><td>3 marzo</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td>Belgio</td><td>10 settembre</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td>Francia</td><td>19 agosto</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td>Germania</td><td>21 ottobre</td><td>1960</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td>Italia</td><td>8 marzo</td><td>1960</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td>Paesi Bassi\* <sup>a</sup></td><td>7 maggio</td><td>1959</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td>Svizzera\*</td><td>7 luglio</td><td>1960</td><td>1° gennaio</td><td>1961</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni, non sono pubblicate nella RU, ad ececzione di quelle della Svizzera Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
 ## Dichiarazioni
 
-Paesi Bassi
-
-La firma vale per il Regno in Europa.
+[^t-2]: [RU 1974 1636](https://fedlex.data.admin.ch/eli/oc/1974/1636_1636_1636); [1984 232](https://fedlex.data.admin.ch/eli/oc/1984/232_232_232)e [2021 783](https://fedlex.data.admin.ch/eli/oc/2021/783). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty).
 
 Svizzera
 
