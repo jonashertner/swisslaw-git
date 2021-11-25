@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-11-16
+version: 2021-11-26
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211116/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211116-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211116/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211126/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211126-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211126/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211116/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 16. November 2021)
+vom 19. Juni 2020 (Stand am 26. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -762,24 +762,23 @@ Gestützt auf Artikel 24*a* des bisherigen Rechts zulässige Sars-CoV-2-Schnellt
 
 Anhang 1*[^t-1]*
 
-(Art. 3 Abs. 3, 4 Abs. 2<sup>ter</sup> und 5)
+(Art. 3 Abs. 3, Art. 4 Abs. 2<sup>ter</sup> und Art. 5)
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 11. Nov. 2021, in Kraft seit 15. Nov. 2021 ([AS 2021 663](https://fedlex.data.admin.ch/eli/oc/2021/663)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 26. Nov. 2021, in Kraft seit 26. Nov. 2021 um 20.00 Uhr ([AS 2021 778](https://fedlex.data.admin.ch/eli/oc/2021/778)).
 
 ### 1. Risikoländer und -regionen (Art. 3 Abs. 2 Bst. a)
 
 Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 
-- – Andorra
-- – Argentinien
+- [tab] Andorra
+- [tab] Argentinien
 - – Australien
 - – Bahrain
 - – Bulgarien
 - – Chile
 - – Heiliger Stuhl
-- – Hongkong
 - – Irland
 - – Jordanien
 - – Kanada
@@ -790,21 +789,28 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Kuwait
 - – Macau
 - – Monaco
-- – Namibia
 - – Neuseeland
 - – Peru
 - – Ruanda
 - – Rumänien
 - – San Marino
 - – Saudi-Arabien
-- – Singapur
-- – Taiwan
-- – Ukraine
+- – Taiwan (Chinesisches Taipei)
 - – Uruguay
 - – Vereinigte Arabische Emirate
 - – Zypern
 
 ### 2. Risikoländer und -regionen mit einer Variante des Virus Sars-CoV-2, von der im Vergleich zu der im Schengen-Raum verbreiteten Virusvariante eine höhere Gefahr der Ansteckung oder eines schweren Krankheitsverlaufs ausgeht (Art. 3 Abs. 2 Bst. b)
+
+- – Botsuana
+- – Eswatini
+- – Hongkong
+- – Israel
+- – Lesotho
+- – Mosambik
+- – Namibia
+- – Simbabwe
+- – Südafrika
 
 Anhang 1a*[^t-2]*
 
@@ -844,9 +850,17 @@ Anhang 3*[^t-4]*
 
 ## Einschränkungen des grenzüberschreitenden Personenverkehrs
 
-[^t-4]: Fassung gemäss Ziff. II der V vom 21. Dez. 2020 ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Bereinigt gemäss Anhang 2 Ziff. 2 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021, in Kraft seit 8. Febr. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^t-4]: Fassung gemäss Ziff. I der V des EJPD vom 27. Nov. 2021, in Kraft seit 26. Nov. 2021 um 18.00 Uhr ([AS 2021 780](https://fedlex.data.admin.ch/eli/oc/2021/780)).
 
 Der Personenverkehr aus folgenden Staaten in die Schweiz ist untersagt:
+
+- – Botsuana
+- – Eswatini
+- – Lesotho
+- – Mosambik
+- – Namibia
+- – Simbabwe
+- – Südafrika
 
 Anhang 4*[^t-5]*
 

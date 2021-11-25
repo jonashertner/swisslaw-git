@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-11-16
+version: 2021-11-26
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211116/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211116-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211116/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211126/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211126-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211126/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 16 November 2021)
+of 19 June 2020 (Status as of 26 November 2021)
 
 The Swiss Federal Council,
 
@@ -69,8 +69,8 @@ High-risk countries or regions are countries or regions in which the coronavirus
 
 <sup>3</sup> The lists of high-risk countries and regions is published in Annex 1.[^3-2]
 
-[^3-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^3-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^3-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^3-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
 ### Section 2 Restrictions on Border Crossings and the Admission of Foreign Nationals
 
@@ -106,12 +106,12 @@ The following persons are exempt from this ban on entry:
 [^4-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^4-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^4-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^4-5]: Repealed by Annex 2 No 2 of the COVID-19 Ordinance on International Passenger Transport Measures of 27 Jan. 2021, with effect from 8 Feb. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^4-5]: Repealed by Annex 2 No 2 of the COVID-19 Ordinance on International Travel Measures of 27 Jan. 2021, with effect from 8 Feb. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 [^4-6]: Amended by No I of the O of 21 Dec. 2020, in force since 21 Dec. 2020 at 1pm ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
-[^4-7]: Amended by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-8]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-9]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-10]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-7]: Amended by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-8]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-9]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-10]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
 #### Art. 5
 
@@ -119,7 +119,7 @@ The following persons are exempt from this ban on entry:
 
 The Federal Department of Justice and Police (FDJP) shall update Annexes 1 and 1*a* continuously in consultation with the Federal Department of Home Affairs (FDHA) and the Federal Department of Foreign Affairs (FDFA).
 
-[^5-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^5-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
 #### Art. 6 and 7
 
@@ -131,7 +131,7 @@ The Federal Department of Justice and Police (FDJP) shall update Annexes 1 and 1
 
 [^8-1]
 
-[^8-1]: Repealed by Art. 6 No 1 of the COVID-19 Ordinance on International Passenger Transport Measures of 2 July 2020, with effect from 6 July 2020 ([AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+[^8-1]: Repealed by Art. 6 No 1 of the COVID-19 Ordinance on International Travel Measures of 2 July 2020, with effect from 6 July 2020 ([AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
 #### Art. 9
 
@@ -149,7 +149,7 @@ The Federal Department of Justice and Police (FDJP) shall update Annexes 1 and 1
 
 Foreign nationals who wish to enter Switzerland from a high-risk country or from a high-risk region and who do not fall within the scope of the AFMP[^10-2] or the EFTA Convention[^10-3] shall not be granted a Schengen visa for periods of stay of up to three months that do not require a permit and do not involve gainful employment. Exempted from the foregoing are applications from persons under Article 4 paragraphs 2 and 2<sup>bis</sup>.
 
-[^10-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^10-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 [^10-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^10-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
@@ -768,7 +768,7 @@ Annex 1*[^t-1]*
 
 ## List of high-risk countries and regions
 
-[^t-1]: Amended by No I of the FDJP O of 11 Nov. 2021, in force since 15 Nov. 2021 ([AS 2021 663](https://fedlex.data.admin.ch/eli/oc/2021/663)).
+[^t-1]: Amended by No I of the FDJP O of 26 Nov. 2021, in force since 26 Nov. 2021 at 8pm ([AS 2021 778](https://fedlex.data.admin.ch/eli/oc/2021/778)).
 
 ### 1. High-risk countries and regions (Art. 3 para. 2 let. a)
 
@@ -785,13 +785,11 @@ All countries and regions outside the Schengen area, with the exception of:
 - – Croatia
 - – Cyprus
 - – Holy See
-- – Hong Kong
 - – Ireland
 - – Jordan
 - – Kuwait
 - – Macau
 - – Monaco
-- – Namibia
 - – New Zealand
 - – Qatar
 - – Peru
@@ -799,14 +797,22 @@ All countries and regions outside the Schengen area, with the exception of:
 - – Rwanda
 - – San Marino
 - – Saudi Arabia
-- – Singapore
 - – South Korea
-- – Taiwan
-- – Ukraine
+- – Taiwan (Chinese Taipei)
 - – United Arab Emirates
 - – Uruguay
 
 ### 2. High-risk countries and regions with a variant of the Sars-CoV-2 virus that carries a higher risk of infection or causes a more severe form of the disease in comparison with the variant of the virus prevalent in the Schengen area (Art. 3 para. 2 let. b)
+
+- – Botswana
+- – Eswatini
+- – Hong Kong
+- – Israel
+- – Lesotho
+- – Mozambique
+- – Namibia
+- – Zimbabwe
+- – South Africa
 
 Annex 1a*[^t-2]*
 
@@ -814,7 +820,7 @@ Annex 1a*[^t-2]*
 
 ## Persons who have been vaccinated
 
-[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Revised in accordance with Annex No. 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Revised in accordance with Annex No. 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 - 1
 
@@ -838,7 +844,7 @@ Annex 1a*[^t-2]*
 
 Annex 2*[^t-3]*
 
-[^t-3]: Rendered obsolete by the repeal of Art. 8 (see Art. 6 No 1 of the COVID-19 Ordinance on International Passenger Transport Measures of 2 July 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+[^t-3]: Rendered obsolete by the repeal of Art. 8 (see Art. 6 No 1 of the COVID-19 Ordinance on International Travel Measures of 2 July 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
 Annex 3*[^t-4]*
 
@@ -846,9 +852,17 @@ Annex 3*[^t-4]*
 
 ## Restrictions on cross-border movements of persons
 
-[^t-4]: Amended by No II of the O of 21 Dec. 2020 ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Revised in accordance with Annex 2 No 2 of the COVID-19 Ordinance on International Passenger Transport Measures of 27 Jan. 2021, in force since 8 Feb. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^t-4]: Amended by No I of the FDJP O of 27 Nov. 2021, in force since 26 Nov. 2021 at 6pm ([AS 2021 780](https://fedlex.data.admin.ch/eli/oc/2021/780)).
 
 The movement of persons from the following states into Switzerland is prohibited:
+
+- – Botswana
+- – Eswatini
+- – Lesotho
+- – Mozambique
+- – Namibia
+- – Zimbabwe
+- – South Africa
 
 Annex 4*[^t-5]*
 
