@@ -3,11 +3,11 @@ sr: "0.814.327"
 title: "Protocollo del 30 novembre 1999 alla Convenzione sull'inquinamento atmosferico transfrontaliero a grande distanza, del 1979, relativo alla riduzione dell'acidificazione, dell'eutrofizzazione e dell'ozono troposferico (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/54"
 language: it
-version: 2021-07-15
+version: 2021-11-26
 adopted: 1999-11-30
 in_force: 2005-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20210715/it/xml/fedlex-data-admin-ch-eli-cc-2006-54-20210715-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20210715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20211126/it/xml/fedlex-data-admin-ch-eli-cc-2006-54-20211126-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20211126/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2006** 259; FF **2004** 2633[^t-1]
 
 Traduzione
 
-Concluso a Göteborg il 30 novembre 1999
+Concluso a Göteborg il 30 novembre 19990 Approvato dall’Assemblea federale il 18 marzo 2005[^t-2] Ratificato con strumenti depositati dalla Svizzera il 14 settembre 2005 Entrato in vigore per la Svizzera il 13 dicembre 2005
 
-Approvato dall’Assemblea federale il 18 marzo 2005[^t-2]
-
-Ratificato con strumenti depositati dalla Svizzera il 14 settembre 2005
-
-Entrato in vigore per la Svizzera il 13 dicembre 2005
-
-(Stato 15 luglio 2021)
+(Stato 26 novembre 2021)
 
 [^t-1]: Le mod. del 4 mag. 2012 ([RS 0.814.327.1](https://fedlex.data.admin.ch/eli/cc/2019/512); [RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)) sono inserite nel presente testo. Queste valgono però soltanto nei rapporti tra gli Stati che le hanno ratificate. Vedi dunque lo specifico campo d’applicazione del testo RS citato tra parentesi.
 [^t-2]: [RU 2006 257](https://fedlex.data.admin.ch/eli/oc/2006/53)
@@ -2755,7 +2749,7 @@ Contenuto massimo di COV nei prodotti per carrozzeria
 - c) Architectural coatings – 40 C.F.R., parte 59, sottoparte D; e
 - d) Aerosol coatings – 40 C.F.R., parte 59, sottoparte E.
 
-Campo d’applicazione il 22 dicembre 2017**[^t-14]**
+Campo d’applicazione il 26 novembre 2021**[^t-14]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2766,6 +2760,7 @@ Campo d’applicazione il 22 dicembre 2017**[^t-14]**
 <tr><td>Cipro</td><td>11 aprile</td><td>2007 A</td><td>10 luglio</td><td>2007</td></tr>
 <tr><td>Croazia\*</td><td>7 ottobre</td><td>2008</td><td>5 gennaio</td><td>2009</td></tr>
 <tr><td>Danimarca <sup>a</sup></td><td>11 giugno</td><td>2002</td><td>17 maggio</td><td>2005</td></tr>
+<tr><td>Estonia<sup>\*</sup></td><td>7 ottobre</td><td>2019 A</td><td>5 gennaio</td><td>2020</td></tr>
 <tr><td>Finlandia</td><td>23 dicembre</td><td>2003</td><td>17 maggio</td><td>2005</td></tr>
 <tr><td>Francia</td><td>10 aprile</td><td>2007</td><td>9 luglio</td><td>2007</td></tr>
 <tr><td>Germania</td><td>21 ottobre</td><td>2004</td><td>17 maggio</td><td>2005</td></tr>
@@ -2773,6 +2768,7 @@ Campo d’applicazione il 22 dicembre 2017**[^t-14]**
 <tr><td>Lituania</td><td>2 aprile</td><td>2004 A</td><td>17 maggio</td><td>2005</td></tr>
 <tr><td>Lussemburgo</td><td>7 agosto</td><td>2001</td><td>17 maggio</td><td>2005</td></tr>
 <tr><td>Macedonia del Nord</td><td>1° novembre</td><td>2010 A</td><td>30 gennaio</td><td>2011</td></tr>
+<tr><td>Malta</td><td>9 marzo</td><td>2021 A</td><td>7 giugno</td><td>2021</td></tr>
 <tr><td>Norvegia</td><td>30 gennaio</td><td>2002</td><td>17 maggio</td><td>2005</td></tr>
 <tr><td>Paesi Bassi<sup>\*</sup> <sup>b</sup></td><td>5 febbraio</td><td>2004</td><td>17 maggio</td><td>2005</td></tr>
 <tr><td>Portogallo</td><td>16 febbraio</td><td>2005</td><td>17 maggio</td><td>2005</td></tr>
@@ -2786,7 +2782,7 @@ Campo d’applicazione il 22 dicembre 2017**[^t-14]**
 <tr><td>Svizzera</td><td>14 settembre</td><td>2005</td><td>13 dicembre</td><td>2005</td></tr>
 <tr><td>Ungheria</td><td>13 novembre</td><td>2006</td><td>11 febbraio</td><td>2007</td></tr>
 <tr><td>Unione europea</td><td>23 giugno</td><td>2003 A</td><td>17 maggio</td><td>2005</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. [tab] Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non s’applica né alle Isole Färöer né alla Groenlandia. <sup>b</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. [tab] Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultati sul sito Internet della Commissione economica per l’Europa delle Nazioni Unite: www.unece.org &gt; About UNECE &gt; Legal instruments, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non s’applica né alle Isole Färöer né alla Groenlandia. <sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-14]: [RU 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54)1892, [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36), [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152), [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552)e [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-14]: [RU 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54), [1885](https://fedlex.data.admin.ch/eli/oc/2006/295); [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36); [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152); [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552); [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26); [2021 784](https://fedlex.data.admin.ch/eli/oc/2021/784). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

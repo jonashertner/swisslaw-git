@@ -3,11 +3,11 @@ sr: "0.814.327"
 title: "Protocole du 30 novembre 1999 à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/54"
 language: fr
-version: 2021-07-15
+version: 2021-11-26
 adopted: 1999-11-30
 in_force: 2005-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20210715/fr/xml/fedlex-data-admin-ch-eli-cc-2006-54-20210715-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20210715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20211126/fr/xml/fedlex-data-admin-ch-eli-cc-2006-54-20211126-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20211126/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 14 septembre 2005
 
 Entré en vigueur pour la Suisse le 13 décembre 2005
 
-(Etat le 15 juillet 2021)
+(Etat le 26 novembre 2021)
 
 [^t-1]: L’Am. du 4 mai 2012 ([RS 0.814.327.1](https://fedlex.data.admin.ch/eli/cc/2019/512); [RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)) a été inséré dans le présent texte et ne régit que les rapports entre les États l’ayant ratifié. Par conséquent, se référer au champ d’application du texte RS cité entre parenthèse.
 [^t-2]: [RO 2006 257](https://fedlex.data.admin.ch/eli/oc/2006/53)
@@ -110,7 +110,7 @@ Aux fins du présent Protocole,
 - 11\. sauf indication contraire, on entend par «composés organiques volatils», ou «COV», tous les composés organiques d’origine anthropique, autres que le méthane, qui peuvent produire des oxydants photochimiques par réaction avec les oxydes d’azote en présence de lumière solaire;
 - 11<sup>bis</sup>.[^1-5] les «particules» ou «PM» sont des polluants atmosphériques consistant en un mélange de particules en suspension dans l’air. Ces particules diffèrent dans leurs propriétés physiques (leur taille et leur forme, par exemple) et leur composition chimique. Sauf indication contraire, toutes les références à des «particules» dans le présent Protocole renvoient à des particules dont le diamètre aérodynamique est égal ou inférieur à 10 microns (μmA (PM10), y compris les particules d’un diamètre aérodynamique égal ou inférieur à 2,5 µm (PM2,5);
 - 11<sup>ter</sup>.[^1-6] on entend par «carbone noir» des particules carbonées qui absorbent la lumière;
-- 11<sup>qua</sup><sup>ter</sup>.[^1-7] on entend par «précurseurs de l’ozone» les oxydes d’azote, les composés organiques volatils, y compris le méthane, et le monoxyde de carbone;
+- 11<sup>quater</sup>.[^1-7] on entend par «précurseurs de l’ozone» les oxydes d’azote, les composés organiques volatils, y compris le méthane, et le monoxyde de carbone;
 - 12\. on entend par «charge critique» une estimation quantitative de l’exposition à un ou plusieurs polluants en deçà de laquelle, dans l’état actuel des connaissances, il n’y a pas d’effets nocifs importants sur des éléments sensibles déterminés de l’environnement;
 - 13\.[^1-8] on entend par «niveaux critiques» les concentrations de polluants dans l’atmosphère ou les flux sur les récepteurs au-delà desquelles, dans l’état actuel des connaissances, il peut y avoir des effets nocifs directs sur des récepteurs tels que les êtres humains, les plantes, les écosystèmes ou les matériaux;
 - 14\. on entend par «zone de gestion des émissions de polluants», ou ZGEP, une zone spécifiée à l’annexe III conformément aux conditions énoncées au par. 9 de l’art. 3;
@@ -2765,7 +2765,7 @@ Teneur maximale en COV pour les produits de retouche de véhicules
 - c) Revêtements pour bâtiments – C.F.R., titre 40, partie 59, section D;
 - d) Peintures aérosol – C.F.R., titre 40, partie 59, section E.
 
-Champ d’application le 22 décembre 2017**[^t-14]**
+Champ d’application le 26 novembre 2021**[^t-14]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -2777,6 +2777,7 @@ Champ d’application le 22 décembre 2017**[^t-14]**
 <tr><td>Croatie\*</td><td>7 octobre</td><td>2008</td><td>5 janvier</td><td>2009</td></tr>
 <tr><td>Danemark <sup>a</sup></td><td>11 juin</td><td>2002</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Espagne</td><td>28 janvier</td><td>2005</td><td>17 mai</td><td>2005</td></tr>
+<tr><td>Estonie<sup>\*</sup></td><td>7 octobre</td><td>2019 A</td><td>5 janvier</td><td>2020</td></tr>
 <tr><td>États-Unis\*</td><td>22 novembre</td><td>2004</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Finlande</td><td>23 décembre</td><td>2003</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>France</td><td>10 avril</td><td>2007</td><td>9 juillet</td><td>2007</td></tr>
@@ -2785,6 +2786,7 @@ Champ d’application le 22 décembre 2017**[^t-14]**
 <tr><td>Lituanie</td><td>2 avril</td><td>2004 A</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Luxembourg</td><td>7 août</td><td>2001</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Macédoine du Nord</td><td>5 juin</td><td>2014 A</td><td>3 septembre</td><td>2014</td></tr>
+<tr><td>Malte</td><td>9 mars</td><td>2021 A</td><td>7 juin</td><td>2021</td></tr>
 <tr><td>Norvège</td><td>30 janvier</td><td>2002</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Pays-Bas\* <sup>b</sup></td><td>5 février</td><td>2004</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Portugal</td><td>16 février</td><td>2005</td><td>17 mai</td><td>2005</td></tr>
@@ -2799,4 +2801,4 @@ Champ d’application le 22 décembre 2017**[^t-14]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-14]: [RO 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54)1892, [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36), [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152), [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552), [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante www.fedlex.admin.ch/fr/treaty
+[^t-14]: [RO 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54), [1885](https://fedlex.data.admin.ch/eli/oc/2006/295); [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36); [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152); [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552); [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26); [2021 784](https://fedlex.data.admin.ch/eli/oc/2021/784). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.

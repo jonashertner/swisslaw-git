@@ -3,11 +3,11 @@ sr: "0.814.327"
 title: "Protokoll vom 30. November 1999 zum Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung, betreffend die Verringerung von Versauerung, Eutrophierung und bodennahem Ozon (mit Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/54"
 language: de
-version: 2021-07-15
+version: 2021-11-26
 adopted: 1999-11-30
 in_force: 2005-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20210715/de/xml/fedlex-data-admin-ch-eli-cc-2006-54-20210715-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20210715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20211126/de/xml/fedlex-data-admin-ch-eli-cc-2006-54-20211126-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20211126/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 14. September 2005
 
 In Kraft getreten für die Schweiz am 13. Dezember 2005
 
-(Stand am 15. Juli 2021)
+(Stand am 26. November 2021)
 
 [^t-1]: Die Änd. vom 4. Mai 2012 ([SR 0.814.327.1](https://fedlex.data.admin.ch/eli/cc/2019/512); [AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)) ist im vorliegenden Text eingebaut, gilt aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
 [^t-2]: [AS 2006 257](https://fedlex.data.admin.ch/eli/oc/2006/53)
@@ -2766,7 +2766,7 @@ VOC-Höchstgehalt von Produkten für die Fahrzeugreparaturlackierung
 - (c) Architectural coatings – 40 C.F.R. Part 59, Subpart D; und
 - (d) Aerosol coatings – 40 C.F.R. Part 59, Subpart E.»
 
-Geltungsbereich am 22. Dezember 2017**[^t-14]**
+Geltungsbereich am 26. November 2021**[^t-14]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2774,6 +2774,7 @@ Geltungsbereich am 22. Dezember 2017**[^t-14]**
 <tr><td>Bulgarien\*</td><td>5. Juli</td><td>2005</td><td>3. Oktober</td><td>2005</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>11. Juni</td><td>2002</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Deutschland</td><td>21. Oktober</td><td>2004</td><td>17. Mai</td><td>2005</td></tr>
+<tr><td>Estland<sup>\*</sup></td><td>7. Oktober</td><td>2019 B</td><td>5. Januar</td><td>2020</td></tr>
 <tr><td>Europäische Union</td><td>23. Juni</td><td>2003 B</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Finnland</td><td>23. Dezember</td><td>2003</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Frankreich</td><td>10. April</td><td>2007</td><td>9. Juli</td><td>2007</td></tr>
@@ -2782,6 +2783,7 @@ Geltungsbereich am 22. Dezember 2017**[^t-14]**
 <tr><td>Lettland</td><td>25. Mai</td><td>2004</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Litauen</td><td>2. April</td><td>2004 B</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Luxemburg</td><td>7. August</td><td>2001</td><td>17. Mai</td><td>2005</td></tr>
+<tr><td>Malta</td><td>9. März</td><td>2021 B</td><td>7. Juni</td><td>2021</td></tr>
 <tr><td>Niederlande\* <sup>b</sup></td><td>5. Februar</td><td>2004</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Nordmazedonien</td><td>5. Juni</td><td>2014 B</td><td>3. September</td><td>2014</td></tr>
 <tr><td>Norwegen</td><td>30. Januar</td><td>2002</td><td>17. Mai</td><td>2005</td></tr>
@@ -2797,7 +2799,7 @@ Geltungsbereich am 22. Dezember 2017**[^t-14]**
 <tr><td>Vereinigte Staaten\*</td><td>22. November</td><td>2004</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>8. Dezember</td><td>2005</td><td>8. März</td><td>2005</td></tr>
 <tr><td>Zypern</td><td>11. April</td><td>2007 B</td><td>10. Juli</td><td>2007</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werdenn. <sup>a</sup> Das Prot. gilt nicht für die Färöer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werdenn. <sup>a</sup> Das Prot. gilt nicht für die Färöer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-14]: [AS 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54)1892, [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36), [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152), [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552), [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
+[^t-14]: [AS 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54), [1885](https://fedlex.data.admin.ch/eli/oc/2006/295); [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36); [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152); [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552); [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26); [2021 784](https://fedlex.data.admin.ch/eli/oc/2021/784). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
