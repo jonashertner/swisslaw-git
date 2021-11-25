@@ -5,20 +5,20 @@ title: Gesetz über das Kantonsspital
 short: "Spitalgesetz, SpitG"
 language: de
 version: 2021-01-01
+corrected: 2021-11-26
 version_adopted: 2019-10-23
 adopted: 2019-10-23
 in_force: 2019-12-31
 url: "https://gesetze.nw.ch/app/de/texts_of_law/714.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/912/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/274/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über das Kantonsspital
+# Gesetz über das Kantonsspital (Spitalgesetz, SpitG)
 
-(Spitalgesetz, SpitG)
-
-vom 23.10.2019 (Stand 01.01.2021)
+vom 23. Oktober 2019[^t-1]
 
 Der Landrat von Nidwalden,
 
@@ -26,13 +26,15 @@ gestützt auf Art. 28 und 60 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: A 2019, 1815; 2020, 119, 2456; in Kraft seit 1. Januar 2021 beziehungsweise 31. Dezember 2019 (Art. 25 Abs. 2)
+
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Der Kanton stellt durch die Spital Nidwalden AG und die Spital Nidwalden Immobilien-Gesellschaft sicher, dass in Nidwalden eine wirksame, zweckmässige und wirtschaftliche Spitalversorgung gewährleistet werden kann.
+Der Kanton stellt durch die Spital Nidwalden AG und die Spital Nidwalden Immobilien-Gesellschaft sicher, dass in Nidwalden eine wirksame, zweckmässige und wirtschaftliche Spitalversorgung gewährleistet werden kann.
 
 #### Art. 2
 
@@ -41,19 +43,22 @@ beschliesst:
 <sup>1</sup> Als Akutspital der erweiterten Grundversorgung erfüllt die Spital Nidwalden AG zusammen mit der Spital Nidwalden Immobilien-Gesellschaft folgende Aufgaben, welche mit dem Leistungsauftrag näher festgelegt werden:
 
 - 1\. Sicherstellung der stationären medizinischen Grundversorgung;
+
 - 2\. Behandlung von ambulanten Patientinnen und Patienten;
+
 - 3\. Sicherstellung einer ständigen Notfallversorgung sowie des Ambulanzdienstes mit Strassenfahrzeugen;
+
 - 4\. Aus- und Weiterbildung in pflegerischen, medizinischen und medizinisch-technischen Berufen.
 
 <sup>2</sup> Mit dem Leistungsauftrag können weitere Aufgaben übertragen werden.
 
-## 2 Spital Nidwalden AG
+### II. SPITAL NIDWALDEN AG
 
 #### Art. 3
 
 **Rechtsform**
 
-<sup>1</sup> Unter der Firma «Spital Nidwalden AG» besteht eine Aktiengesellschaft gemäss Art. 620 ff. OR[^3-1] mit Sitz in Stans.
+Unter der Firma «Spital Nidwalden AG» besteht eine Aktiengesellschaft gemäss Art. 620 ff. OR[^3-1] mit Sitz in Stans.
 
 [^3-1]: SR 220
 
@@ -68,8 +73,11 @@ beschliesst:
 <sup>3</sup> Bei der Übertragung der Aktien hat der Regierungsrat folgende Rechte zu sichern:
 
 - 1\. Verbot der freien beziehungsweise Einschränkung der Weiterveräusserung;
+
 - 2\. Ausübung des Rückkaufsrechts;
+
 - 3\. Vertretungsrecht im Verwaltungsrat;
+
 - 4\. Unterstellung des Personals unter die kantonale Pensionskassengesetzgebung[^4-1]; Oberärztinnen und Oberärzte sowie Assistenzärztinnen und Assistenzärzte können davon ausgenommen werden.
 
 [^4-1]: NG 165.2
@@ -91,7 +99,9 @@ beschliesst:
 <sup>2</sup> Die Statuten sehen vor, dass:
 
 - 1\. die Gesellschaft einen gemeinnützigen Zweck verfolgt;
+
 - 2\. für die Verlegung des Standortes des Spitals ein Beschluss der Generalversammlung erforderlich ist, der mindestens zwei Drittel der Aktienwerte benötigt;
+
 - 3\. Statutenbestimmungen, die für die Fassung bestimmter Beschlüsse grössere Mehrheiten festlegen als die durch das Schweizerische Obligationenrecht[^6-1] vorgeschriebenen, nur mit dem erhöhten Mehr eingeführt und aufgehoben werden können.
 
 [^6-1]: SR 220
@@ -100,17 +110,17 @@ beschliesst:
 
 **Geschäftsbericht**
 
-<sup>1</sup> Der Landrat nimmt auf Antrag des Regierungsrates vom Geschäftsbericht Kenntnis.
+Der Landrat nimmt auf Antrag des Regierungsrates vom Geschäftsbericht Kenntnis.
 
-## 3 Spital Nidwalden Immobilien-Gesellschaft
+### III. SPITAL NIDWALDEN IMMOBILIEN-GESELLSCHAFT
 
-### 3.1 Allgemein
+### A. Allgemein
 
 #### Art. 8
 
 **Rechtsform und Sitz**
 
-<sup>1</sup> Die «Spital Nidwalden Immobilien-Gesellschaft» ist eine selbständige Anstalt des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit und Sitz in Stans.
+Die «Spital Nidwalden Immobilien-Gesellschaft» ist eine selbständige Anstalt des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit und Sitz in Stans.
 
 #### Art. 9
 
@@ -152,18 +162,20 @@ beschliesst:
 
 **Ausschluss der Staatshaftung**
 
-<sup>1</sup> Die Spital Nidwalden Immobilien-Gesellschaft haftet für ihre Verbindlichkeiten ausschliesslich mit dem eigenen Vermögen.
+Die Spital Nidwalden Immobilien-Gesellschaft haftet für ihre Verbindlichkeiten ausschliesslich mit dem eigenen Vermögen.
 
-### 3.2 Organisation
+### B. Organisation
 
 #### Art. 14
 
 **Organe**
 
-<sup>1</sup> Die Organe der Spital Nidwalden Immobilien-Gesellschaft sind:
+Die Organe der Spital Nidwalden Immobilien-Gesellschaft sind:
 
 - 1\. der Verwaltungsrat;
+
 - 2\. die Geschäftsleitung;
+
 - 3\. die Revisionsstelle.
 
 #### Art. 15
@@ -177,10 +189,15 @@ beschliesst:
 <sup>3</sup> Dem Verwaltungsrat obliegt die oberste Unternehmensleitung. Er hat insbesondere folgende Aufgaben:
 
 - 1\. Festlegung der Grundsätze der Geschäftspolitik mit den nötigen Weisungen;
+
 - 2\. Wahl der Geschäftsleitung und Aufsicht über ihre Geschäftsführung sowie Bezeichnung der zur Unterschrift berechtigten Personen;
+
 - 3\. Festlegung der Organisation und Führungsstrukturen in einem Geschäftsreglement sowie Erlass weiterer Reglemente;
+
 - 4\. Festlegung der Unternehmensstrategie und die wirtschaftliche Führung des Unternehmens;
+
 - 5\. Ausgestaltung der Rechnungslegung, der Finanzkontrolle und der Finanzplanung;
+
 - 6\. Verabschiedung des Geschäftsberichts und der Jahresrechnung an den Regierungsrat zuhanden des Landrates.
 
 <sup>4</sup> Der Verwaltungsrat kann die Vorbereitung und die Ausführung seiner Beschlüsse und die Überwachung von Geschäften Ausschüssen oder einzelnen Mitgliedern zuweisen. Er sorgt für eine vollständige Berichterstattung an seine Mitglieder.
@@ -209,7 +226,7 @@ beschliesst:
 
 **Personal**
 
-<sup>1</sup> Das Personal steht in einem privatrechtlichen Anstellungsverhältnis.
+Das Personal steht in einem privatrechtlichen Anstellungsverhältnis.
 
 #### Art. 19
 
@@ -219,7 +236,7 @@ beschliesst:
 
 <sup>2</sup> Der Landrat übt die Oberaufsicht aus. Er genehmigt den Geschäftsbericht und die Jahresrechnung.
 
-## 4 Leistungsauftrag
+### IV. LEISTUNGSAUFTRAG
 
 #### Art. 20
 
@@ -237,7 +254,7 @@ beschliesst:
 
 **Leistungsvereinbarung**
 
-<sup>1</sup> Die Gesundheits- und Sozialdirektion schliesst mit dem Verwaltungsrat auf der Grundlage des Leistungsauftrages jährlich eine Leistungsvereinbarung ab. Darin werden die Aufgaben und Bedingungen des Leistungsauftrages konkretisiert.
+Die Gesundheits- und Sozialdirektion schliesst mit dem Verwaltungsrat auf der Grundlage des Leistungsauftrages jährlich eine Leistungsvereinbarung ab. Darin werden die Aufgaben und Bedingungen des Leistungsauftrages konkretisiert.
 
 #### Art. 22
 
@@ -263,43 +280,51 @@ beschliesst:
 
 **Fonds des Kantonsspitals**
 
-<sup>1</sup> Der Regierungsrat regelt in einer Verordnung die Gewährung von Unterstützungen aus dem Patientenfonds des Kantonsspitals[^24-1].
+Der Regierungsrat regelt in einer Verordnung die Gewährung von Unterstützungen aus dem Patientenfonds des Kantonsspitals[^24-1].
 
 [^24-1]: NG 714.13
 
-## 5 Übergangs- und Schlussbestimmungen
+### V. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 25
 
-**Errichtung der Spital Nidwalden Immobilien-Gesellschaft**
+**Errichtung der Spital Nidwalden Immobilien-**
 
-<sup>1</sup> Die Spital Nidwalden Immobilien-Gesellschaft übernimmt die für den Betrieb des Kantonsspitals benötigten Gebäude und technischen Einrichtungen von der öffentlich-rechtlichen Anstalt «Kantonsspital Nidwalden».
+### Gesellschaft
+
+<sup>1</sup> Die Spital Nidwalden Immobilien-Gesellschaft übernimmt die für den Betrieb des Kantonsspitals benötigten Gebäude und technischen Einrichtungen von der öffentlich-rechtlichen Anstalt „Kantonsspital Nidwalden“.
 
 <sup>2</sup> Auf den Zeitpunkt der Errichtung sind folgende Vorkehren zu treffen:
 
 - 1\. der Landrat bestimmt das Dotationskapital der Spital Nidwalden Immobilien-Gesellschaft und setzt das Dotationskapital des Kantonsspitals Nidwalden entsprechend herab;
+
 - 2\. der Regierungsrat legt die Eröffnungsbilanz fest;
+
 - 3\. der Regierungsrat wählt den Verwaltungsrat und bezeichnet dessen Präsidentin oder Präsidenten;
-- 4\. das Kantonsspital Nidwalden veräussert das Baurecht gemäss öffentlicher Urkunde vom 31. August 2011 (GB-Nr. 7741, Grundbuch Stans), einschliesslich der Nutzniessung an den Einstellplätzen KSN 1–110 an GB-Nr. 7646, Grundbuch Stans, an die Spital Nidwalden Immobilien-Gesellschaft; die Genehmigung dieser Veräusserung durch den Landrat gilt als erteilt;
+
+- 4\. das Kantonsspital Nidwalden veräussert das Baurecht gemäss öffentlicher Urkunde vom 31. August 2011 (GB-Nr. 7741, Grundbuch Stans), einschliesslich der Nutzniessung an den Einstellplätzen KSN 1-110 an GB-Nr. 7646, Grundbuch Stans, an die Spital Nidwalden Immobilien-Gesellschaft; die Genehmigung dieser Veräusserung durch den Landrat gilt als erteilt;
+
 - 5\. die Verwaltungsräte der beiden Unternehmen schliessen Mietverträge über die Benutzung und den Unterhalt der zur Verfügung gestellten Gebäude und technischen Einrichtungen ab;
+
 - 6\. der Verwaltungsrat ernennt die Geschäftsleitung und erlässt das Organisationsreglement.
 
 #### Art. 26
 
 **Umwandlung der öffentlich-rechtlichen Anstalt**
 
-<sup>1</sup> Die selbständige, öffentlich-rechtliche Anstalt «Kantonsspital Nidwalden» wird gemäss Art. 99 ff. des Fusionsgesetzes vom 3. Oktober 2003 (FusG)[^26-1] mit Aktiven und Passiven in eine Aktiengesellschaft umgewandelt. Das Dotationskapital wird in voll liberiertes Aktienkapital umgewandelt. Der Regierungsrat trifft die notwendigen Vorkehrungen.
+<sup>1</sup> Die selbständige, öffentlich-rechtliche Anstalt „Kantonsspital Nidwalden“ wird gemäss Art. 99 ff. des Fusionsgesetzes vom 3. Oktober 2003 (FusG)[^26-1] mit Aktiven und Passiven in eine Aktiengesellschaft umgewandelt. Das Dotationskapital wird in voll liberiertes Aktienkapital umgewandelt. Der Regierungsrat trifft die notwendigen Vorkehrungen.
 
 <sup>2</sup> Der Regierungsrat:
 
 - 1\. erstellt den Umwandlungsplan mit den dazugehörigen Belegen;
-- 2\. beschliesst die Umwandlung gemäss Art. 100 Abs. 3 FusG[^26-2];
+
+- 2\. beschliesst die Umwandlung gemäss Art. 100 Abs. 3 FusG[^26-1];
+
 - 3\. wählt die Präsidentin oder den Präsidenten und die übrigen Mitglieder des ersten Verwaltungsrates.
 
 <sup>3</sup> Im Zeitpunkt der Umwandlung werden die Arbeitsverhältnisse in privatrechtliche Arbeitsverhältnisse überführt. Für das im Zeitpunkt der Umwandlung bei der selbständigen, öffentlich-rechtlichen Anstalt «Kantonsspital Nidwalden» angestellte Personal sehen die Statuten folgende Regelung vor: Die bisherigen Bestimmungen betreffend Lohn, Kündigung und Lohnfortzahlung bei Arbeitsverhinderung dürfen während mindestens zweier Jahre nach der Gründung der Aktiengesellschaft nicht zuungunsten der Personen, die am Gründungstag bei der öffentlich-rechtlichen Anstalt angestellt gewesen sind, verändert werden.
 
 [^26-1]: SR 221.301
-[^26-2]: SR 221.301
 
 #### Art. 27
 
@@ -315,16 +340,17 @@ beschliesst:
 
 **Auflösung der Vorfinanzierung für das Kantonsspital**
 
-<sup>1</sup> Die in der Bilanz der Staatsrechnung ausgewiesene Vorfinanzierung für das Kantonsspital wird aufgelöst und wie folgt verwendet:
+Die in der Bilanz der Staatsrechnung ausgewiesene Vorfinanzierung für das Kantonsspital wird aufgelöst und wie folgt verwendet:
 
-- 1\. der Betrag von 8'728'400 Franken wird der Spital Nidwalden Immobilien-Gesellschaft als Gewinnreserve zur Verfügung gestellt;
+- 1\. der Betrag von 8'728’400 Franken wird der Spital Nidwalden Immobilien-Gesellschaft als Gewinnreserve zur Verfügung gestellt;
+
 - 2\. der Betrag von 13'092'600 Franken wird der finanzpolitischen Reserve 2 der Staatsrechnung zugewiesen.
 
 #### Art. 29
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Gesetz vom 24. Mai 2000 über das Kantonsspital (Spitalgesetz, SpitG)[^29-1] wird aufgehoben.
+Das Gesetz vom 24. Mai 2000 über das Kantonsspital (Spitalgesetz, SpitG)[^29-1] wird aufgehoben.
 
 [^29-1]: A 2000, 897, 1250
 
@@ -334,11 +360,8 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^30-1]. Er kann einzelne Bestimmungen vorzeitig in Kraft setzen.
+<sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens. Er kann einzelne Bestimmungen vorzeitig in Kraft setzen.
 
-<sup>3</sup> Art. 25 Abs. 2 tritt gemäss Art. 24 des Wahl- und Abstimmungsgesetzes[^30-2] in Kraft.
+<sup>3</sup> Art. 25 Abs. 2 tritt gemäss Art. 24 des Wahl- und Abstimmungsgesetzes[^30-1] in Kraft.
 
-[^30-1]: In Kraft seit 1. Januar 2021 beziehungsweise 31. Dezember 2019 (Art. 25 Abs. 2)
-[^30-2]: NG 132.2
-
-A 2019, 1815; 2020, 119, 2456
+[^30-1]: NG 132.2
