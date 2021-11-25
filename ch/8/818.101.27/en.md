@@ -3,22 +3,22 @@ sr: "818.101.27"
 title: Ordinance of 23 June 2021 on Measures to Combat the COVID-19 epidemic in International Travel (COVID-19 Ordinance on International Travel)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: en
-version: 2021-11-16
+version: 2021-11-26
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211116/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211116-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211116/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211126/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211126-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211126/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Ordinance on Measures to Combat the COVID-19 epidemic in International Passenger Transport
+# Ordinance on Measures to Combat the COVID-19 epidemic in International Travel
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(COVID-19 Ordinance on International Passenger Transport)**[^t-1]**
+(COVID-19 Ordinance on International Travel)**[^t-1]**
 
-of 23 June 2021 (Status as of 16 November 2021)
+of 23 June 2021 (Status as of 26 November 2021)
 
 [^t-1]: RU **2021** 380 Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 (AS **2021** 563).
 
@@ -80,7 +80,7 @@ Categorisation as a country or region with a variant of the virus of concern req
 
 An exemption to the requirement under paragraph 1 applies to persons who:[^3-3]
 
-- a. carry goods or passengers across the border in terms of their professionalactivities;
+- a. carry goods or passengers across the border in terms of their professional activities;
 - b. travel through Switzerland without a stopover;
 - c.[^3-4] enter the country as a cross-border commuter; or
 - d.[^3-5] enter the country from a region listed in Annex 1*a*.
@@ -89,7 +89,7 @@ An exemption to the requirement under paragraph 1 applies to persons who:[^3-3]
 [^3-2]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^3-3]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^3-4]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^3-5]: Inserted by No I of the O of 17 Sept. 2021, ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Amended by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^3-5]: Inserted by No I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Amended by No I of the O of 1 Oct. 2021, in force since 4 Oct. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 #### Art. 4
 
@@ -102,14 +102,14 @@ The persons specified in Article 3 must record their contact data before entry a
 - a. online by means of the platform for recording contact data for travellers[^4-1] provided by the Federal Office of Public Health (FOPH); or
 - b. on the paper passenger locator forms provided by the FOPH.
 
-<sup>2</sup> Persons who enter Switzerland not as a passenger with a passenger transport operator pursuant to Article 5 and who record their contact details on a passenger locator form must retain the form for 14 days.[^4-2]
+<sup>2</sup> Persons who enter Switzerland but not as a passenger with a travel operator pursuant to Article 5 and who record their contact details on a passenger locator form must retain the form for 14 days.[^4-2]
 
 [^4-1]: The platform for recording contact data for travellers can be accessed at https://swissplf.admin.ch
 [^4-2]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 #### Art. 5
 
-**Obligations for passenger transport operators**
+**Obligations for travel operators**
 
 <sup>1</sup> Rail, coach, ship or airline operators carrying passengers specified in Article 3 internationally shall ensure that passengers provide their contact data in accordance with Article 4 paragraph 1.
 
@@ -119,7 +119,7 @@ The persons specified in Article 3 must record their contact data before entry a
 
 <sup>4</sup> They shall send the FOPH on request within 48 hours lists of all cross-border train, coach or ship journeys or flights that they have scheduled for the following month.
 
-<sup>5</sup> They shall send the contact data under Article 4 paragraph 1 letter b and the lists under paragraph 4 via the platform for passenger transport operators[^5-1] provided by the FOPH.
+<sup>5</sup> They shall send the contact data under Article 4 paragraph 1 letter b and the lists under paragraph 4 via the platform for travel operators[^5-1] provided by the FOPH.
 
 [^5-1]: The platform for passenger transport operators can be accessed at https://swissplf.admin.ch
 
@@ -133,7 +133,7 @@ The persons specified in Article 3 must record their contact data before entry a
 
 As soon as it is notified that a person infected with Sars-CoV-2 has entered Switzerland, the FOPH shall take the following measures:
 
-- a. It shall request the passenger transport operator to provide the contact data recorded on paper relating to the persons who entered Switzerland at the same time as the person infected with Sars-CoV-2.
+- a. It shall request the travel operator to provide the contact data recorded on paper relating to the persons who entered Switzerland at the same time as the person infected with Sars-CoV-2.
 - b. It shall establish the identity of the persons who were in close contact with the person infected with Sars-CoV-2 on the basis of contact data recorded online and the contact data in accordance with letter a.
 - c. It shall forward the processed contact data immediately to the cantons responsible for the persons entering Switzerland.
 
@@ -153,7 +153,7 @@ As soon as it is notified that a person infected with Sars-CoV-2 has entered Swi
 
 <sup>1</sup> Airlines and coach companies offering long-distance journeys must inform their passengers that they must be tested for Sars-CoV-2 before departure and that they will only be permitted to board the aircraft or coach if they can provide a negative test result.
 
-<sup>2</sup> Airlines must verify before departure whether a negative test result is available. The requirements for tests and proof of testing are regulated in Annex 2a.
+<sup>2</sup> Airlines must verify before departure whether a negative test result is available. The requirements for tests and proof of testing are regulated in Annex 2*a*.
 
 <sup>3</sup> Airlines and coach companies must not permit passengers who are unable to provide a negative test result to board the aircraft or coach.
 
@@ -284,7 +284,7 @@ Persons who must take a test under Article 8 paragraph 3 must provide the compet
 
 #### Art. 11
 
-****Border control authories**[^11-1]**
+****Border control authorities**[^11-1]**
 
 <sup>1</sup>
 
@@ -305,7 +305,7 @@ The border control authorities may conduct risk-based checks on persons entering
 
 **Cantons**[^11a-1]
 
-The cantons may check that a negative test result has been provided in accordacne with Article 8 paragraph 3.
+The cantons may check that a negative test result has been provided in accordance with Article 8 paragraph 3.
 
 [^11a-1]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -327,7 +327,7 @@ The cantons may check that a negative test result has been provided in accordacn
 
 **Repeal and amendment of other legislation**
 
-<sup>1</sup> The COVID-19-Ordinance on International Passenger Transport Measures of 27 January 2021[^13-1] is repealed.
+<sup>1</sup> The COVID-19-Ordinance on International Travel Measures of 27 January 2021[^13-1] is repealed.
 
 <sup>2</sup> The amendment of other legislation is regulated in Annex 3.
 
@@ -347,12 +347,21 @@ Annex 1*[^t-2]*
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Amended by No I of the FDHA O of 3 Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Revised by No II para. 1 of the O of 17 Sept. 2, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-2]: Amended by No I of the FDHA O of 3 Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Revised by No II para. 1 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) and No I of the FDHA O of 26 Nov. 2021, in force since 26 Nov. 2021 at 8pm ([AS 2021 779](https://fedlex.data.admin.ch/eli/oc/2021/779)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions with a variant of the virus of concern that is immune evasive is or the immune evasive status of which is unclear (Art. 2 paras. 1 and 2)
 
-There are no entries currently on this list
+- – Belgium
+- – Botswana
+- – Eswatini
+- – Hong Kong
+- – Israel
+- – Lesotho
+- – Mozambique
+- – Namibia
+- – Zimbabwe
+- – South Africa
 
 ### 2. Countries and regions with a variant of the virus of concern that is not immune evasive (Art. 2 paras. 1 and 3)
 
@@ -452,7 +461,7 @@ Annex 2a*[^t-5]*
 
 - 1\.
 
-  The test procedure must be an up-to-date scientfic and technical procedure, whereby:
+  The test procedure must be an up-to-date scientific and technical procedure, whereby:
 
   - a. a molecular-biological analysis for Sars-CoV-2 may not have been taken more than 72 previously;
   - b. a Sars-CoV-2 rapid test for specialist use may not have been taken more than 48 previously.
