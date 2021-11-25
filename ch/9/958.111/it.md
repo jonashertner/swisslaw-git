@@ -4,11 +4,11 @@ title: "Ordinanza del 3 dicembre 2015 dell'Autorità federale di vigilanza sui m
 short: OInFi-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/855"
 language: it
-version: 2021-01-01
+version: 2021-11-26
 adopted: 2015-12-03
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2015-855-20210101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20211126/it/xml/fedlex-data-admin-ch-eli-cc-2015-855-20211126-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20211126/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20210101/it"
 
 (Ordinanza FINMA sull’infrastruttura finanziaria, OInFi-FINMA)
 
-del 3 dicembre 2015 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 3 dicembre 2015 (Stato 26 novembre 2021) (Stato 26 novembre 2021)
 
 L’Autorità federale di vigilanza sui mercati finanziari (FINMA),
 
@@ -503,7 +503,7 @@ Oltre alle indicazioni di cui al capoverso 1, nei casi elencati qui di seguito o
   - 5\. il termine di esercizio,
   - 6\. le modalità di esercizio;
 
-- e. nel caso di investimenti collettivi di capitale secondo l’articolo 18 capoverso 3, l’indicazione che i requisiti di cui all’articolo 18 capoverso 4 sono soddisfatti;
+- e.[^22-2] nel caso di investimenti collettivi di capitale secondo l’articolo 18 capoverso 3, l’indicazione che i requisiti di cui all’articolo 18 capoverso 5 sono soddisfatti;
 - f.
 
   nel caso dei negozi giuridici di cui all’articolo 17:
@@ -515,6 +515,7 @@ Oltre alle indicazioni di cui al capoverso 1, nei casi elencati qui di seguito o
 <sup>3</sup> In caso di acquisto indiretto o alienazione indiretta (art. 11), la dichiarazione deve contenere le indicazioni complete sia sull’acquirente o l’alienante diretto sia sull’avente economicamente diritto.
 
 [^22-1]: Nuovo testo giusta il n. I dell’O della FINMA del 26 gen. 2017, in vigore dal 1° mar. 2017 ([RU 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
+[^22-2]: Correzione del 26 nov. 2021 ([RU 2021 775](https://fedlex.data.admin.ch/eli/oc/2021/775)).
 
 #### Art. 23
 

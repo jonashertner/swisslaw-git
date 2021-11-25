@@ -4,11 +4,11 @@ title: "Ordinance of 3 December 2015 of the Swiss Financial Market Supervisory A
 short: FinMIO-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/855"
 language: en
-version: 2021-01-01
+version: 2021-11-26
 adopted: 2015-12-03
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2015-855-20210101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20211126/en/xml/fedlex-data-admin-ch-eli-cc-2015-855-20211126-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20211126/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (FINMA Financial Market Infrastructure Ordinance, FinMIO-FINMA)
 
-of 3 December 2015 (Status as of 1 January 2021)
+of 3 December 2015 (Status as of 26 November 2021)
 
 The Swiss Financial Market Supervisory Authority (FINMA),
 
@@ -405,11 +405,11 @@ The group of companies must provide the competent disclosure office with the fol
 
 When calculating their acquisition positions (Art. 14 para. 1 let. a) and disposal positions (Art. 14 para. 1 let. b), banks and securities firms under the FinIA may disregard equity securities and equity derivatives which they hold:[^19-1]
 
-- a. in their trading book, provided their share does not reach 5% of voting rights;
-- b. as part of securities loans, collateral transactions or repurchase agreements provided their share does not reach 5% of voting rights;
+- a. in their trading book, provided their share does not reach 5 per cent of voting rights;
+- b. as part of securities loans, collateral transactions or repurchase agreements provided their share does not reach 5 per cent of voting rights;
 - c. only for up to two trading days and exclusively for clearing and settling purposes.
 
-<sup>2</sup> The calculation under paragraph 1 is only permitted if there is no intention to exercise the voting rights or to intervene in the management of the issuer'[^19-2] in any other way, and the voting share does not exceed 10% of the voting rights.
+<sup>2</sup> The calculation under paragraph 1 is only permitted if there is no intention to exercise the voting rights or to intervene in the management of the issuer'[^19-2] in any other way, and the voting share does not exceed 10 per cent of the voting rights.
 
 <sup>3</sup> Equity securities for in-house funds under Article 71 FinSA shall be attributed to the bank's or securities firm's proprietary holdings.[^19-3]
 
@@ -429,7 +429,7 @@ From the publication of the pre-announcement or of the prospectus (offer prospec
 
 - a. the offeror[^20-1];
 - b. persons acting in concert or as an organised group with the offeror;
-- c. persons under Article 134 paragraph 1 FinMIA holding at least 3% of the voting rights directly, indirectly or in concert with third parties, whether exercisable or not, in the target company or, if applicable, in another company whose equity securities are being offered in exchange;
+- c. persons under Article 134 paragraph 1 FinMIA holding at least 3 per cent of the voting rights directly, indirectly or in concert with third parties, whether exercisable or not, in the target company or, if applicable, in another company whose equity securities are being offered in exchange;
 - d. persons designated by the Takeover Board in accordance with Article 134 paragraph 3 FinMIA.
 
 <sup>2</sup> Cases requiring notification which occur during the takeover proceedings must be reported in accordance with the provisions of this Ordinance after expiry of the extension period.
@@ -460,7 +460,7 @@ From the publication of the pre-announcement or of the prospectus (offer prospec
 
 The notification contains the following details:
 
-- a. the proportion of voting rights, type and number of all equity securities or equity derivatives under Article 15 and the associated voting rights held by the persons involved. When falling below the threshold of 3%, the notification to that effect may be given without specifying the actual voting proportion;
+- a. the proportion of voting rights, type and number of all equity securities or equity derivatives under Article 15 and the associated voting rights held by the persons involved. When falling below the threshold of 3 per cent, the notification to that effect may be given without specifying the actual voting proportion;
 - b.
 
   the trigger event, such as:
@@ -504,7 +504,7 @@ In the following instances, the information in paragraph 1 shall be supplemented
   - 5\. the exercise period,
   - 6\. the exercise type;
 
-- e. for collective investment schemes in accordance with Article 18 paragraph 3: confirmation that the requirements under Article 18 paragraph 4 are met;
+- e.[^22-2] for collective investment schemes in accordance with Article 18 paragraph 3: confirmation that the requirements under Article 18 paragraph 5 are met;
 - f.
 
   for transactions under Article 17:
@@ -516,6 +516,7 @@ In the following instances, the information in paragraph 1 shall be supplemented
 <sup>3</sup> In the event of an indirect acquisition or indirect disposal (Art. 11), the notification must contain the full details of the person making the direct acquisition or disposal as well as of the beneficial owner.
 
 [^22-1]: Amended by No I of the FINMA Ordinance of 26 Jan. 2017, in force since 1 March 2017 ([AS 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
+[^22-2]: Correction of 26 Nov. 2021 ([AS 2021 775](https://fedlex.data.admin.ch/eli/oc/2021/775)).
 
 #### Art. 23
 
@@ -681,7 +682,7 @@ Article 12 paragraph 1 applies to persons acting in concert or as an organised g
 
 ### (Art. 135 para. 4, 136 para. 2, 163 FinMIA)
 
-If the person previously entitled to the equity securities was subject to the duty to make an offer for all equity securities on exceeding the threshold of 50% of voting rights pursuant to the transitional regulation of Article 163 FinMIA, this duty passes over to the person acquiring a holding between 33⅓ and 50% of the voting rights, if that person is exempted from the duty to make an offer under Article 136 paragraph 2 FinMIA.
+If the person previously entitled to the equity securities was subject to the duty to make an offer for all equity securities on exceeding the threshold of 50 per cent of voting rights pursuant to the transitional regulation of Article 163 FinMIA, this duty passes over to the person acquiring a holding between 33⅓ and 50 per cent of the voting rights, if that person is exempted from the duty to make an offer under Article 136 paragraph 2 FinMIA.
 
 #### Art. 37
 
@@ -689,7 +690,7 @@ If the person previously entitled to the equity securities was subject to the du
 
 ### (Art. 135 para. 4 FinMIA)
 
-A person who reduces a holding of 50% or more of the voting rights in a company acquired prior to 1 January 1998 to under 50% must make an offer under Article 135 FinMIA, if the said person's holding subsequently exceeds the threshold of 50%.
+A person who reduces a holding of 50 per cent or more of the voting rights in a company acquired prior to 1 January 1998 to under 50 per cent must make an offer under Article 135 FinMIA, if the said person's holding subsequently exceeds the threshold of 50 per cent.
 
 #### Art. 38
 
@@ -756,7 +757,7 @@ Further justified cases under Article 136 paragraph 1 FinMIA are particularly th
 
 <sup>3</sup> When granting exceptions conditions may be attached; in particular the acquiring person may be made subject to certain obligations.
 
-<sup>4</sup> The conditions under paragraph 3 transfer to a legal successor who acquires a shareholding exceeding 33⅓% even if the legal successor is exempt from the duty to make an offer under Article 136 paragraph 2 FinMIA.
+<sup>4</sup> The conditions under paragraph 3 transfer to a legal successor who acquires a shareholding exceeding 33⅓ per cent even if the legal successor is exempt from the duty to make an offer under Article 136 paragraph 2 FinMIA.
 
 ### Section 3 Determining the Offer Price
 
@@ -870,7 +871,7 @@ The duty to report under Article 10 para. 2 FinMIO-FINMA in its version amended 
 
 This Ordinance comes into force on 1 January 2016.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 6 para. 1)
 

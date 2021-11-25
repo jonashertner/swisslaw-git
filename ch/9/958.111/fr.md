@@ -4,11 +4,11 @@ title: "Ordonnance du 3 décembre 2015 de l'Autorité fédérale de surveillance
 short: OIMF-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/855"
 language: fr
-version: 2021-01-01
+version: 2021-11-26
 adopted: 2015-12-03
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-855-20210101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20211126/fr/xml/fedlex-data-admin-ch-eli-cc-2015-855-20211126-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20211126/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20210101/fr"
 
 (Ordonnance de la FINMA sur l’infrastructure des marchés financiers, OIMF-FINMA)
 
-du 3 décembre 2015 (Etat le 1<sup>er</sup> janvier 2021)
+du 3 décembre 2015 (Etat le 26 novembre 2021)
 
 L’Autorité fédérale de surveillance des marchés financiers (FINMA),
 
@@ -498,7 +498,7 @@ Dans les cas énumérés ci-après, les indications prévues à l’al. 1 doiven
   - 5\. la durée d’exercice,
   - 6\. le genre d’exercice;
 
-- e. s’agissant de placements collectifs de capitaux selon l’art. 18, al. 3: l’indication que les conditions de l’art. 18, al. 4, sont remplies;
+- e.[^22-2] s’agissant de placements collectifs de capitaux selon l’art. 18, al. 3: l’indication que les conditions de l’art. 18, al. 5, sont remplies;
 - f.
 
   s’agissant des actes juridiques prévus à l’art. 17:
@@ -510,6 +510,7 @@ Dans les cas énumérés ci-après, les indications prévues à l’al. 1 doiven
 <sup>3</sup> Pour l’acquisition ou l’aliénation indirectes (art. 11), la déclaration contient des indications complètes concernant tant l’acquéreur ou l’aliénateur direct que l’ayant droit économique.
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 26 janv. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
+[^22-2]: Erratum du 26 nov. 2021 ([RO 2021 775](https://fedlex.data.admin.ch/eli/oc/2021/775)).
 
 #### Art. 23
 

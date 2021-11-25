@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Dezember 2015 der Eidgenössischen Finanzmarktaufsicht
 short: FinfraV-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/855"
 language: de
-version: 2021-01-01
+version: 2021-11-26
 adopted: 2015-12-03
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2015-855-20210101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/855/20211126/de/xml/fedlex-data-admin-ch-eli-cc-2015-855-20211126-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20211126/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/855/20210101/de"
 
 (Finanzmarktinfrastrukturverordnung-FINMA, FinfraV-FINMA)
 
-vom 3. Dezember 2015 (Stand am 1. Januar 2021)
+vom 3. Dezember 2015 (Stand am 26. November 2021)
 
 Die Eidgenössische Finanzmarktaufsicht (FINMA),
 
@@ -503,7 +503,7 @@ Die Angaben nach Absatz 1 sind in folgenden Fällen namentlich mit nachstehenden
   - 5\. die Ausübungsfrist,
   - 6\. die Ausübungsart;
 
-- e. bei kollektiven Kapitalanlagen nach Artikel 18 Absatz 3: den Hinweis, dass die Anforderungen nach Artikel 18 Absatz 4 erfüllt sind;
+- e.[^22-2] bei kollektiven Kapitalanlagen nach Artikel 18 Absatz 3: den Hinweis, dass die Anforderungen nach Artikel 18 Absatz 5 erfüllt sind;
 - f.
 
   bei Rechtsgeschäften nach Artikel 17:
@@ -515,6 +515,7 @@ Die Angaben nach Absatz 1 sind in folgenden Fällen namentlich mit nachstehenden
 <sup>3</sup> Bei einem indirekten Erwerb oder einer indirekten Veräusserung (Art. 11) hat die Meldung die vollständigen Angaben sowohl über die direkt erwerbende oder veräussernde Person als auch über die wirtschaftlich berechtigte Person zu enthalten.
 
 [^22-1]: Fassung gemäss Ziff. I der V der FINMA vom 26. Jan. 2017, in Kraft seit 1. März 2017 ([AS 2017 547](https://fedlex.data.admin.ch/eli/oc/2017/96)).
+[^22-2]: Berichtigung vom 26. Nov. 2021 ([AS 2021 775](https://fedlex.data.admin.ch/eli/oc/2021/775)).
 
 #### Art. 23
 
@@ -921,5 +922,5 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 ...[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [[AS 2008 6521](https://fedlex.data.admin.ch/eli/oc/2008/889), [2011 6285](https://fedlex.data.admin.ch/eli/oc/2011/885), [2013 1117](https://fedlex.data.admin.ch/eli/oc/2013/252)]
+[^annex2-lvlu1-1]: [[AS 2008 6521](https://fedlex.data.admin.ch/eli/oc/2008/889); [2011 6285](https://fedlex.data.admin.ch/eli/oc/2011/885); [2013 1117](https://fedlex.data.admin.ch/eli/oc/2013/252)]
 [^annex2-lvlu1-2]: Die Änderungen können unter [AS 2015 5509](https://fedlex.data.admin.ch/eli/oc/2015/855)konsultiert werden.
