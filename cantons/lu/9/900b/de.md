@@ -4,13 +4,13 @@ number: 900b
 title: Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung Covid-19
 language: de
-version: 2021-09-01
-valid_until: 2021-11-26
-version_adopted: 2021-08-31
+version: 2021-11-27
+valid_until: 2022-03-29
+version_adopted: 2021-11-23
 adopted: 2022-03-29
 in_force: 2022-03-30
 url: "https://srl.lu.ch/app/de/texts_of_law/900b"
-pdf: "https://srl.lu.ch/api/de/versions/3818/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3853/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/3818/pdf_file"
 
 (Kantonale Härtefallverordnung Covid-19)
 
-vom 09.12.2020 (Stand 01.09.2021)
+vom 09.12.2020 (Stand 27.11.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf Artikel 12 Absatz 1 des Covid-19-Gesetzes vom 25. September 2020[^ingress-1], Artikel 12 Absatz 1 der Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie vom 25. November 2020[^ingress-2] und § 9 Absatz 1a des Gesetzes über die Wirtschaftsförderung und die Regionalpolitik vom 19. November 2001[^ingress-3],
+gestützt auf Artikel 12 Absätze 1 und 2 des Covid-19-Gesetzes vom 25. September 2020[^ingress-1], Artikel 12 Absatz 1 der Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie vom 25. November 2020[^ingress-2] und § 9 Absatz 1a des Gesetzes über die Wirtschaftsförderung und die Regionalpolitik vom 19. November 2001[^ingress-3],
 
 beschliesst:
 
@@ -85,6 +85,27 @@ beschliesst:
 
 [^3b-1]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
 
+## 1a Zusatzbeiträge des Bundes
+
+#### § 3c
+
+**In Frage kommende Unternehmen**
+
+<sup>1</sup> Zusatzbeiträge im Sinn von Artikel 12 Absatz 2 Covid-19-Gesetz können als nicht rückzahlbare Beiträge insbesondere folgenden Unternehmen gewährt werden:
+
+- a. Unternehmen, die aufgrund des Bezuges anderer Covid-19-Finanzhilfen bislang ganz oder teilweise von den Härtefallbeiträgen ausgeschlossen waren und dadurch in stossender Weise benachteiligt sind,
+- b. Unternehmen, denen mit den bisherigen Härtefallbeiträgen die ungedeckten Fixkosten nicht ausreichend vergütet werden konnten und die dadurch in ihrer Existenz gefährdet sind.
+
+<sup>2</sup> Auf die Zusatzbeiträge besteht kein Anspruch.
+
+#### § 3d
+
+**Bemessung, Begrenzung und Anrechnung**
+
+<sup>1</sup> Für Unternehmen gemäss § 3c Absatz 1a berechnet sich der nicht rückzahlbare Beitrag nach § 3a oder nach Artikel 8b der Covid-19-Härtefallverordnung. Die bereits ausgerichteten Covid-19-Finanzhilfen und Beiträge werden angerechnet. Die Höchstgrenzen der Artikel 8a, 8c und 8d der Covid-19-Härtefallverordnung sind anwendbar.
+
+<sup>2</sup> Bei den Unternehmen nach § 3c Absatz 1b kann von der Beitragsberechnung gemäss § 3a und Artikel 8b der Covid-19-Härtefallverordnung sowie von den Höchstgrenzen gemäss den Artikeln 8a, 8c und 8d der Covid-19-Härtefallverordnung abgewichen werden. Mit den im Einzelfall festgelegten Beiträgen dürfen aber höchstens die ungedeckten Fixkosten vergütet werden. Die bereits ausgerichteten Beiträge werden angerechnet.
+
 ## 2 Anforderungen an die Unternehmen
 
 #### § 4
@@ -109,7 +130,7 @@ beschliesst:
 
 <sup>2</sup> Im Gesuchsformular weist das Unternehmen den Gründungszeitpunkt und die relevanten Umsatzzahlen aus und es weist mittels Handelsregisterauszuges nach, dass es sich nicht in einem Konkurs- oder Liquidationsverfahren befindet.
 
-<sup>3</sup> Mit dem Gesuch sind die Unterlagen gemäss Artikel 8f der Covid-19-Härtefallverordnung sowie eine Kopie der Identitätskarte oder des Passes der im Gesuch angegebenen zeichnungsberechtigten Person einzureichen.
+<sup>3</sup> Mit dem Gesuch sind die Unterlagen gemäss Artikel 8f der Covid-19-Härtefallverordnung sowie eine Kopie der Identitätskarte oder des Passes der im Gesuch angegebenen zeichnungsberechtigten Person einzureichen. Für Zusatzbeiträge des Bundes ist zusätzlich ein Halbjahresabschluss 2021 oder ein vergleichbares Dokument einzureichen. Bei Bedarf sind weitere Prüfdokumente einzureichen.
 
 <sup>3<sup>bis</sup></sup> …
 
@@ -117,7 +138,7 @@ beschliesst:
 
 <sup>4</sup> Ab dem 1. Juli 2021 können Unternehmen, die ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 nicht aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie für insgesamt mindestens 40 Tage schliessen mussten, für den Umsatzrückgang in den Monaten Januar bis Juni 2021 ein weiteres Gesuch einreichen. Bei behördlich geschlossenen Unternehmen werden Schliessungen bis Ende April 2021 ohne erneute Gesuchseinreichung automatisch berücksichtigt.
 
-<sup>5</sup> Die Härtefallgesuche müssen bis spätestens am 1. Dezember 2021 eingereicht werden.
+<sup>5</sup> Die Härtefallgesuche müssen bis spätestens am 1. Dezember 2021 eingereicht werden. Für Zusatzbeiträge des Bundes müssen die Unterlagen nach Absatz 3 bis spätestens am 31. Dezember 2021 vorliegen.
 
 #### § 7
 
@@ -173,7 +194,7 @@ beschliesst:
 
 <sup>5</sup> Die Entscheide der Expertengruppe werden summarisch begründet und durch das Finanzdepartement eröffnet.
 
-<sup>6</sup> Die Garantien und nicht rückzahlbaren Beiträge werden zwischen dem 25. Januar 2021 (behördlich geschlossene Unternehmen) beziehungsweise dem 4. Februar 2021 (übrige Unternehmen) und dem 31. Dezember 2021 definitiv zugesichert oder ausbezahlt.
+<sup>6</sup> Die Garantien und nicht rückzahlbaren Beiträge werden zwischen dem 25. Januar 2021 (behördlich geschlossene Unternehmen) beziehungsweise dem 4. Februar 2021 (übrige Unternehmen) und dem 31. Dezember 2021 definitiv zugesichert oder ausbezahlt. Vorbehalten sind Entscheide, die aufgrund hängiger Verfahren vor Verwaltungs- oder Gerichtsinstanzen erst später gefällt werden können, und Entscheide über Zusatzbeiträge des Bundes.
 
 #### § 10
 
@@ -292,6 +313,10 @@ beschliesst:
 
 **Inkrafttreten und Befristung**
 
-<sup>1</sup> Die Verordnung tritt rückwirkend auf den 1. Dezember 2020 in Kraft und gilt bis zum 31. Dezember 2021. Sie ist zu veröffentlichen.
+<sup>1</sup> Die Verordnung tritt rückwirkend auf den 1. Dezember 2020 in Kraft und gilt unter Vorbehalt der Absätze 2 und 3 bis zum 31. Dezember 2021. Werden die gesetzlichen Grundlagen des Bundes für die Covid-19-Härtefallmassnahmen für Unternehmen über den 31. Dezember 2021 hinaus verlängert, so verlängert sich auch die Geltungsdauer dieser Verordnung entsprechend. Sie ist zu veröffentlichen.
+
+<sup>2</sup> § 3b gilt bis zum 31. Dezember 2025.
+
+<sup>3</sup> Die §§ 9, 10 und 12-18 gelten bis zum 31. Dezember 2031.
 
 G 2020-097
