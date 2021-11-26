@@ -3,20 +3,20 @@ canton: ZG
 number: "417.16"
 title: Verordnung über den Sportfonds
 language: de
-version: 2020-12-05
-valid_until: 2021-11-26
-version_adopted: 2020-12-01
+version: 2021-11-27
+valid_until: 2023-06-30
+version_adopted: 2021-11-23
 adopted: 2005-10-04
 in_force: 2006-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/417.16"
-pdf: "https://bgs.zg.ch/api/de/versions/2173/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2278/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Sportfonds
 
-Vom 4. Oktober 2005 (Stand 5. Dezember 2020)
+Vom 4. Oktober 2005 (Stand 27. November 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -37,12 +37,14 @@ beschliesst:
 
 #### § 2
 
-**Sportfonds-Anteil**
+**Verwendung**
 
-<sup>1</sup> Der jährliche Sportfonds-Anteil wird wie folgt verwendet:
+<sup>1</sup> Der Sportfonds wird verwendet für Beiträge an:
 
-- a) 60 % für Jahresbeiträge an Sportvereine und -verbände;
-- b) 40 % für Beiträge an Sportaktivitäten, Sportmaterial und die Sportinfrastruktur nicht öffentlich-rechtlicher Trägerschaften.
+- a) Sportvereine und -verbände;
+- b) Sportaktivitäten;
+- c) Sportmaterial;
+- d) Sportinfrastruktur.
 
 #### § 3
 
@@ -216,19 +218,19 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Beitragsgesuche sind beim Amt für Sport und Gesundheitsförderung einzureichen. Die Gesundheitsdirektion entscheidet über Gesuche zu Lasten des Sportfonds-Anteils sowie über Gesuche zu Lasten des Sportfonds, sofern der Beitrag im Einzelfall Fr. 20 000.– nicht übersteigt.
+<sup>1</sup> Beitragsgesuche sind über das Online-Gesuchsportal des Kantons einzureichen. Die Gesundheitsdirektion entscheidet über Gesuche zu Lasten des Sportfonds-Anteils sowie über Gesuche zu Lasten des Sportfonds, sofern der Beitrag im Einzelfall Fr. 20 000.– nicht übersteigt.
 
 #### § 16
 
 **Jahresbeiträge**
 
-<sup>1</sup> Gesuche um Jahresbeiträge an Sportverbände und -vereine sind auf dem offiziellen Formular bis Ende März des Erhebungsjahres einzureichen.
+<sup>1</sup> Gesuche um Jahresbeiträge an Sportverbände und -vereine sind bis Ende Mai des Erhebungsjahres einzureichen.
 
 #### § 17
 
 **Sportaktivitäten**
 
-<sup>1</sup> Gesuche um Beiträge für Anlässe, Jugendlager, Jubiläen, Teilnahmen an internationalen Wettkämpfen sowie die Teilnahme an Kursen zur Aus- und Weiterbildung von Kadern sind vor der Durchführung beziehungsweise Teilnahme mit den erforderlichen Beilagen auf dem entsprechenden Formular zu beantragen.
+<sup>1</sup> Gesuche um Beiträge für Anlässe, Jugendlager, Jubiläen, Teilnahmen an internationalen Wettkämpfen sowie die Teilnahme an Kursen zur Aus- und Weiterbildung von Kadern sind vor der Durchführung beziehungsweise Teilnahme mit den erforderlichen Beilagen zu beantragen.
 
 <sup>2</sup> Gesuche für sportartspezifische Ausbildung von Swiss Olympic Card Inhaberinnen und Inhabern sind unter Beilage aller Zahlungsbelege bis Ende Februar des Folgejahres einzureichen.
 
