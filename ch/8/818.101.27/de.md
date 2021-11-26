@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 23. Juni 2021 über Massnahmen zur Bekämpfung der Covid-19-Epidemie im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung internationaler Personenverkehr)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: de
-version: 2021-11-26
+version: 2021-11-27
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211126/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211126-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211126/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211127/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211127-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211127/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211126/de"
 
 (Covid-19-Verordnung internationaler Personenverkehr)**[^t-1]**
 
-vom 23. Juni 2021 (Stand am 26. November 2021)
+vom 23. Juni 2021 (Stand am 27. November 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -345,10 +345,12 @@ Anhang 1*[^t-2]*
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 3. Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. I der V des EDI vom 26. Nov. 2021, in Kraft seit 26. Nov. 2021 um 20.00 Uhr ([AS 2021 779](https://fedlex.data.admin.ch/eli/oc/2021/779)).
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 3. Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. I der V des EDI vom 27. Nov. 2021, in Kraft seit 27. Nov. 2021 um 20.00 Uhr ([AS 2021 781](https://fedlex.data.admin.ch/eli/oc/2021/781)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete mit einer besorgniserregenden Virusvariante, die immunevasiv ist oder von der noch nicht klar ist, ob sie immunevasiv ist (Art. 2 Abs. 1 und 2)
+
+Ägypten
 
 Belgien
 
@@ -362,13 +364,21 @@ Israel
 
 Lesotho
 
+Malawi
+
 Mosambik
 
 Namibia
 
+Niederlande (Königreich der)
+
 Simbabwe
 
 Südafrika
+
+Tschechien
+
+Vereinigtes Königreich
 
 ### 2. Staaten und Gebiete mit einer besorgniserregenden Virusvariante, die nicht immunevasiv ist (Art. 2 Abs. 1 und 3)
 
