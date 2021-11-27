@@ -4,18 +4,18 @@ title: Constitution fédérale de la Confédération suisse du 18 avril 1999
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: fr
-version: 2021-03-07
+version: 2021-11-28
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210307/fr/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210307-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210307/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20211128/fr/xml/fedlex-data-admin-ch-eli-cc-1999-404-20211128-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20211128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution fédérale de la Confédération suisse
 
-du 18 avril 1999 (Etat le 7 mars 2021)
+du 18 avril 1999 (Etat le 28 novembre 2021)
 
 **Préambule**
 
@@ -1649,6 +1649,17 @@ La Confédération légifère:
 
 [^117a-1]: Accepté en [votation populaire du 18 mai 2014](http://www.admin.ch/ch/f/pore/va/20140518/index.html), en vigueur depuis le 18 mai 2014 (AF du 19 sept. 2013, ACF du 18 août 2014; [RO 2014 2769](https://fedlex.data.admin.ch/eli/oc/2014/476); [FF 2010 2679](https://fedlex.data.admin.ch/eli/fga/2010/515), [2011 6953](https://fedlex.data.admin.ch/eli/fga/2011/1253), [2013 6571](https://fedlex.data.admin.ch/eli/fga/2013/1412), [2014 6121](https://fedlex.data.admin.ch/eli/fga/2014/1415)).
 
+#### Art. 117b
+
+**Soins infirmiers[^117b-2]\**[^117b-1]*
+
+<sup>1</sup> La Confédération et les cantons reconnaissent les soins infirmiers comme une composante importante des soins et les encouragent; ils veillent à ce que chacun ait accès à des soins infirmiers suffisants et de qualité.
+
+<sup>2</sup> Ils garantissent qu’il y ait un nombre suffisant d’infirmiers diplômés pour couvrir les besoins croissants et que l’affectation des personnes exerçant dans le domaine des soins infirmiers corresponde à leur formation et à leurs compétences.
+
+[^117b-1]: Accepté en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 28 nov. 2021 (AF du 18 juin 2021, ACF du 11 avr. 2022; [RO 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [FF 2017 7314](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7633](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^117b-2]: <sup>\*</sup> avec disposition transitoire
+
 #### Art. 118
 
 **Protection de la santé**
@@ -2990,9 +3001,32 @@ D’ici à l’entrée en vigueur des dispositions légales, le Conseil fédéra
 
 La législation d’exécution doit être élaborée dans les deux ans qui suivent l’acceptation de l’art. 10*a* par le peuple et les cantons.
 
-Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2000[^197-subdivu11-2]
+### 13.** Disposition transitoire ad art. 117b (Soins infirmiers)
 
-[^197-subdivu11-2]: AF du 28 sept. 1999 ([RO 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
+[^197-subdivu12-1]
+
+[^197-subdivu12-1]: Accepté en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 28 nov. 2021 (AF du 18 juin 2021, ACF du 11 avr. 2022; [RO 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [FF 2017 7314](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7633](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+
+<sup>1</sup>
+
+La Confédération édicte, dans les limites de ses compétences, des dispositions d’exécution:
+
+- a.
+
+  sur la définition des soins infirmiers pris en charge par les assurances sociales:
+
+  - 1\. que les infirmiers fournissent sous leur propre responsabilité,
+  - 2\. que les infirmiers fournissent sur prescription médicale;
+
+- b. sur la rémunération appropriée des soins infirmiers;
+- c. sur des conditions de travail adaptées aux exigences auxquelles doivent répondre les personnes exerçant dans le domaine des soins infirmiers;
+- d. sur les possibilités de développement professionnel des personnes exerçant dans le domaine des soins infirmiers.
+
+<sup>2</sup> L’Assemblée fédérale adopte les dispositions législatives d’exécution dans les 4 ans qui suivent l’acceptation de l’art. 117*b* par le peuple et les cantons. Le Conseil fédéral prend des mesures efficaces dans un délai de 18 mois à compter de l’acceptation de l’art. 117*b* par le peuple et les cantons pour combler le manque d’infirmiers diplômés; celles-ci ont effet jusqu’à l’entrée en vigueur des dispositions législatives d’exécution.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2000[^197-subdivu12-2]
+
+[^197-subdivu12-2]: AF du 28 sept. 1999 ([RO 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
 
 ## Dispositions finales de l’arrêté fédéral du 18 décembre 1998
 
@@ -5266,6 +5300,7 @@ Société
 
 - – à domicile 112*c*, 197 ch. 5
 - – médicaux de base 117*a*
+- – infirmiers 117*b*
 
 **Sol** 75
 

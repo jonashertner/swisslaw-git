@@ -4,18 +4,18 @@ title: Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999
 short: BV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: de
-version: 2021-03-07
+version: 2021-11-28
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210307/de/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210307-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210307/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20211128/de/xml/fedlex-data-admin-ch-eli-cc-1999-404-20211128-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20211128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesverfassung der Schweizerischen Eidgenossenschaft
 
-vom 18. April 1999 (Stand am 7. März 2021)
+vom 18. April 1999 (Stand am 28. November 2021)
 
 **Präambel**
 
@@ -1650,6 +1650,17 @@ Der Bund erlässt Vorschriften über:
 
 [^117a-1]: Angenommen in der [Volksabstimmung vom 18. Mai 2014](http://www.admin.ch/ch/d/pore/va/20140518/index.html), in Kraft seit 18. Mai 2014 (BB vom 19. Sept. 2013, BRB vom 18. Aug. 2014 – [AS 2014 2769](https://fedlex.data.admin.ch/eli/oc/2014/476); [BBl 2010 2939](https://fedlex.data.admin.ch/eli/fga/2010/515), [2011 7553](https://fedlex.data.admin.ch/eli/fga/2011/1253), [2013 7347](https://fedlex.data.admin.ch/eli/fga/2013/1412), [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415)).
 
+#### Art. 117b
+
+**Pflege[^117b-2]\**[^117b-1]*
+
+<sup>1</sup> Bund und Kantone anerkennen und fördern die Pflege als wichtigen Bestandteil der Gesundheitsversorgung und sorgen für eine ausreichende, allen zugängliche Pflege von hoher Qualität.
+
+<sup>2</sup> Sie stellen sicher, dass eine genügende Anzahl diplomierter Pflegefachpersonen für den zunehmenden Bedarf zur Verfügung steht und dass die in der Pflege tätigen Personen entsprechend ihrer Ausbildung und ihren Kompetenzen eingesetzt werden.
+
+[^117b-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 28. Nov. 2021 (BB vom 18. Juni 2021, BRB vom 11. Apr. 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^117b-2]: <sup>\*</sup> Mit Übergangsbestimmung.
+
 #### Art. 118
 
 **Schutz der Gesundheit**
@@ -2991,9 +3002,32 @@ Bis zum Inkrafttreten der gesetzlichen Bestimmungen erlässt der Bundesrat inner
 
 Die Ausführungsgesetzgebung zu Artikel 10*a* ist innert zweier Jahre nach dessen Annahme durch Volk und Stände zu erarbeiten.
 
-Datum des Inkrafttretens: 1. Januar 2000[^197-subdivu11-2]
+### 13.** Übergangsbestimmung zu Art. 117b (Pflege)
 
-[^197-subdivu11-2]: BB vom 28. Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
+[^197-subdivu12-1]
+
+[^197-subdivu12-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 28. Nov. 2021 (BB vom 18. Juni 2021, BRB vom 11. Apr. 2022 – AS [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+
+<sup>1</sup>
+
+Der Bund erlässt im Rahmen seiner Zuständigkeiten Ausführungsbestimmungen über:
+
+- a.
+
+  die Festlegung der Pflegeleistungen, die von Pflegefachpersonen zulasten der Sozialversicherungen erbracht werden:
+
+  - 1\. in eigener Verantwortung,
+  - 2\. auf ärztliche Anordnung;
+
+- b. die angemessene Abgeltung der Pflegeleistungen;
+- c. anforderungsgerechte Arbeitsbedingungen für die in der Pflege tätigen Personen;
+- d. Möglichkeiten der beruflichen Entwicklung von den in der Pflege tätigen Personen.
+
+<sup>2</sup> Die Bundesversammlung verabschiedet die gesetzlichen Ausführungsbestimmungen innert vier Jahren seit Annahme von Artikel 117*b* durch Volk und Stände. Bis zum Inkrafttreten der gesetzlichen Ausführungsbestimmungen trifft der Bundesrat innerhalb von achtzehn Monaten nach Annahme von Artikel 117*b* durch Volk und Stände wirksame Massnahmen zur Behebung des Mangels an diplomierten Pflegefachpersonen.
+
+Datum des Inkrafttretens: 1. Januar 2000[^197-subdivu12-2]
+
+[^197-subdivu12-2]: BB vom 28. Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
 
 ## Schlussbestimmungen des Bundesbeschlusses vom 18. Dezember 1998
 
@@ -4666,7 +4700,7 @@ Parteien
 
 **Pflanzenarten** 120, 197 Ziff. 7
 
-**Pflege** 41
+**Pflege** 41, 117*b*
 
 **Pflichten**, politische 136
 

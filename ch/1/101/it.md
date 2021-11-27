@@ -4,18 +4,18 @@ title: Costituzione federale della Confederazione Svizzera del 18 aprile 1999
 short: Cost.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: it
-version: 2021-03-07
+version: 2021-11-28
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210307/it/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210307-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210307/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20211128/it/xml/fedlex-data-admin-ch-eli-cc-1999-404-20211128-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20211128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione federale della Confederazione Svizzera
 
-del 18 aprile 1999 (Stato 7 marzo 2021)
+del 18 aprile 1999 (Stato 28 novembre 2021)
 
 **Preambolo**
 
@@ -1650,6 +1650,17 @@ La Confederazione emana prescrizioni concernenti:
 
 [^117a-1]: Accettato nella [votazione popolare del 18 mag. 2014](http://www.admin.ch/ch/i/pore/va/20140518/index.html), in vigore il 18 mag. 2014 (DF del 19 set. 2013, DCF del 18 ago. 2014 – [RU 2014 2769](https://fedlex.data.admin.ch/eli/oc/2014/476); [FF 2010 2581](https://fedlex.data.admin.ch/eli/fga/2010/515), [2011 6713](https://fedlex.data.admin.ch/eli/fga/2011/1253), [2013 6299](https://fedlex.data.admin.ch/eli/fga/2013/1412), [2014 5431](https://fedlex.data.admin.ch/eli/fga/2014/1415)).
 
+#### Art. 117b
+
+**Cure infermieristiche[^117b-2]\**[^117b-1]*
+
+<sup>1</sup> La Confederazione e i Cantoni riconoscono e promuovono le cure infermieristiche come componente importante dell’assistenza sanitaria e provvedono affinché tutti abbiano accesso a cure infermieristiche sufficienti e di qualità.
+
+<sup>2</sup> Assicurano che sia disponibile un numero di infermieri diplomati sufficiente per coprire il crescente fabbisogno e che gli operatori del settore delle cure infermieristi-che siano impiegati conformemente alla loro formazione e alle loro competenze.
+
+[^117b-1]: Accettato nella [votazione popolare del 28 nov. 2021](http://www.admin.ch/ch/i/pore/va/20211128/index.html), in vigore dal 28 nov. 2021 (DF del 18 giu. 2021, DCF dell’11 apr. 2022 – [RU 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [FF 2017 6626](https://fedlex.data.admin.ch/eli/fga/2017/2238); [2018 6465](https://fedlex.data.admin.ch/eli/fga/2018/2676); [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^117b-2]: <sup>\*</sup> Con disposizione transitoria.
+
 #### Art. 118
 
 **Protezione della salute**
@@ -2995,9 +3006,32 @@ Entro un anno dall’accettazione dell’articolo 95 capoverso 3 da parte del Po
 
 La legislazione d’esecuzione relativa all’articolo 10*a* è elaborata entro due anni dall’accettazione di detto articolo da parte del Popolo e dei Cantoni.
 
-Data dell’entrata in vigore: 1° gennaio 2000[^197-subdivu11-2]
+### 13.** Disposizione transitoria dell’art. 117b (Cure infermieristiche)
 
-[^197-subdivu11-2]: DF del 28 set. 1999 ([RU 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu12-1]
+
+[^197-subdivu12-1]: Accettato nella [votazione popolare del 28 nov. 2021](http://www.admin.ch/ch/i/pore/va/20211128/index.html), in vigore dal 28 nov. 2021 (DF del 18 giu. 2021, DCF dell’11 apr. 2022 – [RU 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [FF 2017 6626](https://fedlex.data.admin.ch/eli/fga/2017/2238); [2018 6465](https://fedlex.data.admin.ch/eli/fga/2018/2676); [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+
+<sup>1</sup>
+
+Nell’ambito delle sue competenze, la Confederazione emana disposizioni di esecuzione concernenti:
+
+- a.
+
+  la definizione delle cure infermieristiche dispensate da infermieri a carico delle assicurazioni sociali:
+
+  - 1\. sotto la propria responsabilità,
+  - 2\. su prescrizione medica;
+
+- b. l’adeguata remunerazione delle cure infermieristiche;
+- c. condizioni di lavoro adeguate alle esigenze che devono soddisfare gli operatori del settore delle cure infermieristiche;
+- d. le possibilità di sviluppo professionale degli operatori del settore delle cure infermieristiche.
+
+<sup>2</sup> L’Assemblea federale adotta le disposizioni legislative di esecuzione entro quattro anni dall’accettazione dell’articolo 117*b* da parte del Popolo e dei Cantoni. Entro diciotto mesi dall’accettazione dell’articolo 117*b* da parte del Popolo e dei Cantoni, il Consiglio federale prende provvedimenti efficaci per ovviare alla mancanza di infermieri diplomati; tali provvedimenti hanno effetto fino all’entrata in vigore delle disposizioni legislative di esecuzione.
+
+Data dell’entrata in vigore: 1° gennaio 2000[^197-subdivu12-2]
+
+[^197-subdivu12-2]: DF del 28 set. 1999 ([RU 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Disposizioni finali del Decreto federale del 18 dicembre 1998
 
@@ -3666,6 +3700,7 @@ Costituzione federale
 **Cure** 41
 
 - – mediche di base 117*a*
+- – infermieristiche 117*b*
 
 ### D
 

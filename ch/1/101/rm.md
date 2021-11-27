@@ -4,11 +4,11 @@ title: "Constituziun federala da la Confederaziun svizra dals 18 d'avrigl 1999"
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: rm
-version: 2021-03-07
+version: 2021-11-28
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210307/rm/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210307-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210307/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20211128/rm/xml/fedlex-data-admin-ch-eli-cc-1999-404-20211128-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20211128/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210307/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 18 d’avrigl 1999 (versiun dals 7 da mars 2021)
+dals 18 d’avrigl 1999 (versiun dals 28 da november 2021)
 
 **Preambel**
 
@@ -1652,6 +1652,17 @@ La Confederaziun decretescha prescripziuns davart:
 
 [^117a-1]: Acceptà en la votaziun dal pievel dals 18 da matg 2014, en vigur dapi ils 18 da matg 2014 (COF dals 19 da sett. 2013, COCF dals 18 d’avust 2014 – [AS 2014 2769](https://fedlex.data.admin.ch/eli/oc/2014/476); [BBl 2010 2939](https://fedlex.data.admin.ch/eli/fga/2010/515), [2011 4435](https://fedlex.data.admin.ch/eli/fga/2011/670), [2013 7347](https://fedlex.data.admin.ch/eli/fga/2013/1412), [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415)).
 
+#### Art. 117b
+
+**Tgira[^117b-2]\**[^117b-1]*
+
+<sup>1</sup> La Confederaziun ed ils chantuns renconuschan e promovan la tgira sco element impurtant dal provediment da la sanadad e procuran che tuts hajan access ad ina tgira suffizienta e d’auta qualitad.
+
+<sup>2</sup> Ella ed els garanteschan ch’i dettia in dumber suffizient da tgirunzas e tgirunzs diplomads per il basegn pli e pli grond e che las persunas che lavuran en la tgira vegnian incaricadas confurm a lur scolaziun e confurm a lur cumpetenzas.
+
+[^117b-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2021, en vigur dapi ils 28 da nov. 2021 (COF dals 18 da zer. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^117b-2]: <sup>\*</sup> Cun disposiziun transitorica.
+
 #### Art. 118
 
 **Protecziun da la sanadad**
@@ -2990,9 +3001,32 @@ Fin che las disposiziuns legalas entran en vigur, decretescha il Cussegl federal
 
 La legislaziun executiva tar l’artitgel 10*a* sto vegnir elavurada entaifer 2 onns suenter che quel è vegnì acceptà dal pievel e dals chantuns.
 
-Data da l’entrada en vigur: 1. da schaner 2000[^197-subdivu11-2]
+### 13.** Disposiziun transitorica tar l’art. 117b (Tgira)
 
-[^197-subdivu11-2]: COF dals 28 da sett. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu12-1]
+
+[^197-subdivu12-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2021, en vigur dapi ils 28 da nov. 2021 (COF dals 18 da zer. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+
+<sup>1</sup>
+
+En il rom da sias cumpetenzas decretescha la Confederaziun disposiziuns executivas concernent:
+
+- a.
+
+  la fixaziun da las prestaziuns da tgira che vegnan furnidas da tgirunzas e tgirunzs sin donn e cust da las assicuranzas socialas:
+
+  - 1\. en atgna responsabladad,
+  - 2\. sin ordinaziun d’ina media u d’in medi;
+
+- b. l’indemnisaziun adequata da las prestaziuns da tgira;
+- c. las cundiziuns da lavur adattadas a las pretensiuns per las persunas che lavuran en la tgira;
+- d. las pussaivladads dal svilup professiunal da las persunas che lavuran en la tgira.
+
+<sup>2</sup> L’Assamblea federala deliberescha las disposiziuns executivas legalas entaifer 4 onns suenter l’acceptaziun da l’artitgel 117*b* tras il pievel ed ils chantuns. Fin che las disposiziuns executivas legalas entran en vigur prenda il Cussegl federal – entaifer 18 mais suenter l’acceptaziun da l’artitgel 117*b* tras il pievel ed ils chantuns – mesiras efficazias per eliminar la mancanza da tgirunzas e tgirunzs diplomads.
+
+Data da l’entrada en vigur: 1. da schaner 2000[^197-subdivu12-2]
+
+[^197-subdivu12-2]: COF dals 28 da sett. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Disposiziuns finalas dal Conclus federal dals 18 da december 1998 davart ina nova Constituziun federala
 
