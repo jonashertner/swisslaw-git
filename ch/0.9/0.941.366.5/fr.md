@@ -3,11 +3,11 @@ sr: "0.941.366.5"
 title: "Convention du 14 décembre 2011 entre le Conseil fédéral de la Confédération suisse et le Gouvernement de la Fédération de Russie relative à la reconnaissance réciproque des poinçons officiels apposés sur les ouvrages en métaux précieux de l'industrie horlogère"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/499"
 language: fr
-version: 2013-08-02
+version: 2021-11-29
 adopted: 2011-12-14
 in_force: 2013-08-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/499/20130802/fr/xml/fedlex-data-admin-ch-eli-cc-2013-499-20130802-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/499/20130802/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/499/20211129/fr/xml/fedlex-data-admin-ch-eli-cc-2013-499-20211129-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/499/20211129/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,15 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/499/20130802/fr"
 
 RO **2013** 2377
 
-Traduction*[^t-1]*
+Traduction
 
-Conclue le 14 décembre 2011
+Conclue le 14 décembre 2011 Entrée en vigueur par échange de notes le 2 août 2013
 
-Entrée en vigueur par échange de notes le 2 août 2013
-
-(Etat le 2 août 2013)
-
-[^t-1]: Le texte original est publié sous le même chiffre dans l’édition allemande du présent recueil.
+(État le 29 novembre 2021)
 
 Le Conseil fédéral de la Confédération suisse et le Gouvernement de la Fédération de Russie,
 
@@ -34,42 +30,43 @@ Désireux de promouvoir les échanges entre la Confédération suisse et la Féd
 
 #### Art. 1
 
+[^1-1]
+
 Au sens de la présente Convention,
 
 «autorité compétente» désigne:
 
-en Fédération de Russie: l’autorité étatique russe de contrôle relevant du Ministère des finances de la Fédération de Russie;
+en Fédération de Russie: l’autorité fédérale de contrôle;
 
 en Confédération suisse: le Bureau central du contrôle des métaux précieux;
 
-«législation de la Fédération de Russie» désigne la loi fédérale n<sup>o</sup> 41-FZ du 26 mars 1998 sur les métaux précieux et les pierres précieuses, la décision n<sup>o</sup> 643 du Gouvernement de la Fédération de Russie du 18 juin 1999 concernant la procédure de contrôle et de poinçonnement des ouvrages en métaux précieux, le décret n<sup>o</sup> 1n du 11 janvier 2009 du Ministère des finances de la Fédération de Russie mettant en vigueur l’instruction relative à la surveillance du contrôle, ainsi que toute modification apportée à ces dispositions;
+«législation de la Fédération de Russie» désigne la loi fédérale n<sup>o</sup> 41-FZ du 26 mars 1998 sur les métaux précieux et les pierres précieuses, la décision n<sup>o</sup> 394 du Gouvernement de la Fédération de Russie du 6 mai 2016 sur le contrôle, l’analyse et le poinçonnement des bijoux et autres ouvrages en métaux précieux, la décision n<sup>o</sup> 1127 du Gouvernement de la Fédération de Russie du 21 octobre 2015 sur l’approbation des règles concernant l’enregistrement et la production des poinçons du fabricant ainsi que l’apposition et la destruction de leurs empreintes, ainsi que toute modification apportée à ces dispositions;
 
-«législation de la Confédération suisse» désigne la loi du 20 juin 1933 sur le contrôle des métaux précieux[^1-1], qui règle le commerce des métaux précieux et des ouvrages en métaux précieux, l’ordonnance du 8 mai 1934 sur le contrôle des métaux précieux[^1-2], les instructions du 1<sup>er</sup> mai 2010 concernant l’application de la législation sur les métaux précieux, ainsi que toute modification apportée à ces dispositions;
+«législation de la Confédération suisse» désigne la loi du 20 juin 1933 sur le contrôle des métaux précieux et son ordonnance d’exécution du 8 mai 1934, et les instructions concernant l’application de la législation sur les métaux précieux, ainsi que toute modification apportée à ces dispositions;
 
 «ouvrages en métaux précieux de l’industrie horlogère» désigne les montres-bracelets, montres de poche et autres genres de montres portables, y compris les compteurs de temps, avec boîtes en métaux précieux (or, argent, platine, palladium) et leurs alliages. Le terme couvre d’une part aussi bien les montres munies de bracelets en métaux précieux et leurs alliages que celles comportant des composants en métaux précieux, d’autre part les montres sans bracelets;
 
 «poinçon officiel» désigne:
 
-en Fédération de Russie: un poinçon de contrôle prévu dans la décision n<sup>o</sup> 643 du 18 juin 1999 du Gouvernement de la Fédération de Russie concernant la procédure de contrôle et de poinçonnement des ouvrages en métaux précieux;
+en Fédération de Russie: un poinçon de contrôle de la Fédération de Russie prévu dans la décision n<sup>o</sup> 394 du Gouvernement de la Fédération de Russie du 6 mai 2016 sur le contrôle, l’analyse et le poinçonnement des bijoux et autres ouvrages en métaux précieux;
 
 en Confédération suisse: un poinçon officiel prévu à l’art. 15 de la loi du 20 juin 1933 sur le contrôle des métaux précieux;
 
 «poinçon du fabricant» désigne:
 
-en Fédération de Russie: un poinçon de maître prévu dans la décision n<sup>o</sup> 643 du 18 juin 1999 du Gouvernement de la Fédération de Russie concernant la procédure de contrôle et de poinçonnement des ouvrages en métaux précieux;
+en Fédération de Russie: le poinçon du fabricant conformément à la décision n<sup>o</sup> 394 du Gouvernement de la Fédération de Russie du 6 mai 2016 sur le contrôle, l’analyse et le poinçonnement des bijoux et autres ouvrages en métaux précieux et à la décision n<sup>o</sup> 1127 du Gouvernement de la Fédération de Russie du 21 octobre 2015 sur l’approbation des règles concernant l’enregistrement et la production des poinçons du fabricant ainsi que l’apposition et la destruction de leurs empreintes;
 
 en Confédération suisse: un poinçon de maître prévu à l’art. 9 de la loi du 20 juin 1933 sur le contrôle des métaux précieux ou un poinçon de maître collectif prévu à l’art. 60 de l’ordonnance du 8 mai 1934 sur le contrôle des métaux précieux;
 
 «indication de titre légal» désigne:
 
-en Fédération de Russie: l’indication de titre visée dans la décision n<sup>o</sup> 643 du 18 juin 1999 du Gouvernement de la Fédération de Russie concernant la procédure de contrôle et de poinçonnement des ouvrages en métaux précieux;
+en Fédération de Russie: les poinçons prévus dans la décision n<sup>o</sup> 394 du Gouvernement de la Fédération de Russie du 6 mai 2016 sur le contrôle, l’analyse et le poinçonnement des bijoux et autres ouvrages en métaux précieux;
 
 en Confédération suisse: l’indication de titre visée aux art. 7 et 7*a* de la loi du 20 juin 1933 sur le contrôle des métaux précieux;
 
 «mesure SFX» désigne une méthode d’analyse non destructive fondée sur le spectromètre de fluorescence X.
 
-[^1-1]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^1-2]: [RS 941.311](https://fedlex.data.admin.ch/eli/cc/50/363_375_420)
+[^1-1]: Mise à jour par l’art. 1 ch. 1 du Prot. du 19 nov. 2021, appliqué provisoirement depuis le 29 nov. 2021 ([RO 2022 28](https://fedlex.data.admin.ch/eli/oc/2022/28)).
 
 #### Art. 2
 
@@ -87,11 +84,13 @@ Demeurent réservés les contrôles par sondages visés à l’art. 5 de la pré
 
 Lors du dédouanement, les ouvrages en métaux précieux de l’industrie horlogère sont présentés à l’autorité compétente, dont la tâche consiste à vérifier sur les ouvrages la présence de l’empreinte du poinçon officiel de la Fédération de Russie et de l’indication de titre légal conforme à la législation de la Fédération de Russie.
 
-<sup>2.</sup> Les ouvrages en métaux précieux de l’industrie horlogère qui, au moment de l’importation en Fédération de Russie, portent les empreintes du poinçon officiel de la Confédération suisse et du poinçon du fabricant et l’indication de titre légal ne sont pas soumis à un nouveau contrôle, une nouvelle analyse ou un nouveau poinçonnement en Fédération de Russie, pour autant que ces ouvrages correspondent aux dispositions de la législation de la Fédération de Russie et à celles de la présente Convention.
+<sup>2.</sup> Les ouvrages en métaux précieux de l’industrie horlogère qui, au moment de l’importation en Fédération de Russie, portent les empreintes du poinçon officiel de la Confédération suisse et du poinçon du fabricant et l’indication de titre légal ne sont pas soumis à un nouveau contrôle, une nouvelle analyse ou un nouveau poinçonnement en Fédération de Russie ni à un quelconque marquage physique, pour autant que ces ouvrages correspondent aux dispositions de la législation de la Fédération de Russie et à celles de la présente Convention.[^3-1]
 
 Demeurent réservés les contrôles par sondages visés à l’art. 5 de la présente Convention.
 
 Lors du dédouanement, les ouvrages en métaux précieux de l’industrie horlogère sont présentés à l’autorité compétente, dont la tâche consiste à vérifier sur les ouvrages la présence de l’empreinte du poinçon officiel de la Confédération suisse et de l’indication de titre légal conforme à la législation de la Confédération suisse.
+
+[^3-1]: Mise à jour par l’art. 1 ch. 2 du Prot. du 19 nov. 2021, appliqué provisoirement depuis le 29 nov. 2021 ([RO 2022 28](https://fedlex.data.admin.ch/eli/oc/2022/28)).
 
 #### Art. 4
 
@@ -111,10 +110,11 @@ Les dispositions de la présente Convention ne s’opposent pas à ce que l’un
 
 Le contrôle du titre effectif a lieu de la manière suivante:
 
-- – en Fédération de Russie: conformément à la partie 3 de l’instruction relative à la surveillance du contrôle;
-- – en Confédération suisse: conformément aux méthodes décrites dans les décisions techniques concernant l’application de l’Annexe II de la Convention sur le contrôle et le poinçonnement des ouvrages en métaux précieux[^6-1] (Hallmarking Convention de 1972).
+- – en Fédération de Russie: conformément aux règles approuvées par l’institution russe compétente;[^6-1]
+- – en Confédération suisse: conformément aux méthodes décrites dans les décisions techniques concernant l’application de l’Annexe II de la Convention sur le contrôle et le poinçonnement des ouvrages en métaux précieux[^6-2] (Hallmarking Convention de 1972).
 
-[^6-1]: [RS 0.941.31](https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013)
+[^6-1]: Nouvelle teneur selon l’art. 1 ch. 3 du Prot. du 19 nov. 2021, appliqué provisoirement depuis le 29 nov. 2021 ([RO 2022 28](https://fedlex.data.admin.ch/eli/oc/2022/28)).
+[^6-2]: [RS 0.941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4125)
 
 #### Art. 7
 

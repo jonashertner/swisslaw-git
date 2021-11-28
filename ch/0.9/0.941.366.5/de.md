@@ -3,11 +3,11 @@ sr: "0.941.366.5"
 title: Abkommen vom 14. Dezember 2011 zwischen dem Bundesrat der Schweizerischen Eidgenossenschaft und der Regierung der Russischen Föderation über die gegenseitige Anerkennung amtlicher Stempel auf Edelmetallwaren der Uhrenindustrie
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/499"
 language: de
-version: 2013-08-02
+version: 2021-11-29
 adopted: 2011-12-14
 in_force: 2013-08-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/499/20130802/de/xml/fedlex-data-admin-ch-eli-cc-2013-499-20130802-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/499/20130802/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/499/20211129/de/xml/fedlex-data-admin-ch-eli-cc-2013-499-20211129-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/499/20211129/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,11 +18,9 @@ AS **2013** 2377
 
 Originaltext
 
-Abgeschlossen am 14. Dezember 2011
+Abgeschlossen am 14. Dezember 2011 In Kraft getreten durch Notenaustausch am 2. August 2013
 
-In Kraft getreten durch Notenaustausch am 2. August 2013
-
-(Stand am 2. August 2013)
+(Stand am 29. November 2021)
 
 Der Bundesrat der Schweizerischen Eidgenossenschaft und die Regierung der Russischen Föderation
 
@@ -32,42 +30,43 @@ sind, vom Wunsch geleitet, den Handel zwischen der Schweizerischen Eidgenossensc
 
 #### Art. 1
 
+[^1-1]
+
 Im Sinne dieses Abkommens bedeuten:
 
 «zuständige Behörde»:
 
-in der Russischen Föderation: die russische staatliche Prüfbehörde des Finanzministeriums der Russischen Föderation;
+in der Russischen Föderation: die Föderale Prüfbehörde;
 
 in der Schweizerischen Eidgenossenschaft: das Zentralamt für Edelmetallkontrolle;
 
-«Gesetzgebung der Russischen Föderation»: das föderale Gesetz Nr. 41-FZ vom 26. März 1998 ‹Über Edelmetalle und Edelsteine›; die Entscheidung der Regierung der russischen Föderation Nr. 643 vom 18. Juni 1999 ‹Über das Verfahren für die Prüfung und Stempelung von Edelmetallwaren›; das Dekret Nr. 1n vom 11. Januar 2009 des Finanzministeriums der Russischen Föderation ‹Über die Inkraftsetzung der Instruktion für die Kontrolle der Prüfung›; sowie die Änderungen dieser Bestimmungen;
+«Gesetzgebung der Russischen Föderation»: das föderale Gesetz Nr. 41-FZ vom 26. März 1998 ‹über Edelmetalle und Edelsteine›; die Entscheidung der Regierung der Russischen Föderation Nr. 394 vom 6. Mai 2016 ‹über die Prüfung, Analyse und Stempelung von Schmuck und anderen Edelmetallwaren›; die Entscheidung der Regierung der Russischen Föderation Nr. 1127 vom 21. Oktober 2015 ‹über die Verabschiedung der Regeln für die Registrierung und die Produktion von Fabrikantenstempeln sowie die Anbringung und die Vernichtung von deren Abdrücken›; sowie die Änderungen dieser Bestimmungen;
 
-«Gesetzgebung der Schweizerischen Eidgenossenschaft»: das Edelmetallkontrollgesetz vom 20. Juni 1933[^1-1], welches den Handel mit Edelmetall und Arbeiten in Edelmetall regelt, die Edelmetallkontrollverordnung vom 8. Mai 1934[^1-2] sowie die Instruktionen vom 1. Mai 2010 über die Anwendung der Edelmetallgesetzgebung; sowie die Änderungen dieser Bestimmungen;
+«Gesetzgebung der Schweizerischen Eidgenossenschaft»: das Edelmetallkontrollgesetz vom 20. Juni 1933, welches den Handel mit Edelmetall und Arbeiten in Edelmetall regelt, die Edelmetallkontrollverordnung vom 8. Mai 1934 sowie die Instruktionen über die Anwendung der Edelmetallgesetzgebung; sowie die Änderungen dieser Bestimmungen;
 
 «Edelmetallwaren der Uhrenindustrie»: Armbanduhren, Taschenuhren und andere Arten tragbarer Uhren, einschliesslich Stoppuhren, mit Gehäusen aus Edelmetall (Gold, Silber, Platin, Palladium) und deren Legierungen. Der Begriff umfasst auf der einen Seite sowohl Uhren mit Armbändern aus Edelmetall und deren Legierungen als auch solche, die Bestandteile aus Edelmetall enthalten, auf der anderen Seite Uhren ohne Armbänder;
 
 «amtlicher Stempel»:
 
-in der Russischen Föderation: eine in der Entscheidung Nr. 643 vom 18. Juni 1999 der Regierung der Russischen Föderation ‹Über das Verfahren für die Prüfung und Stempelung von Edelmetallwaren› vorgesehene Prüfmarke;
+in der Russischen Föderation: staatliche Prüfmarken der Russischen Föderation gemäss der Entscheidung der Regierung der Russischen Föderation Nr. 394 vom 6. Mai 2016 ‹über die Prüfung, Analyse und Stempelung von Schmuck und anderen Edelmetallwaren›;
 
 in der Schweizerischen Eidgenossenschaft: ein in Artikel 15 des Edelmetallkontrollgesetzes vom 20. Juni 1933 vorgesehener amtlicher Stempel;
 
 «Fabrikantenstempel»:
 
-in der Russischen Föderation: eine in der Entscheidung Nr. 643 vom 18. Juni 1999 der Regierung der Russischen Föderation ‹Über das Verfahren für die Prüfung und Stempelung von Edelmetallwaren› vorgesehene Verantwortlichkeitsmarke;
+in der Russischen Föderation: der Fabrikantenstempel im Einklang mit der Entscheidung der Regierung der Russischen Föderation Nr. 394 vom 6. Mai 2016 ‹über die Prüfung, Analyse und Stempelung von Schmuck und anderen Edelmetallwaren› und der Entscheidung der Regierung der Russischen Föderation Nr. 1127 vom 21. Oktober 2015 ‹über die Verabschiedung der Regeln für die Registrierung und die Produktion von Fabrikantenstempeln sowie die Anbringung und die Vernichtung von deren Abdrücken;
 
 in der Schweizerischen Eidgenossenschaft: eine in Artikel 9 des Edelmetallkontrollgesetzes vom 20. Juni 1933 vorgesehene Verantwortlichkeitsmarke oder eine in Artikel 60 der Edelmetallkontrollverordnung vom 8. Mai 1934 vorgesehene kollektive Verantwortlichkeitsmarke;
 
 «gesetzliche Feingehaltsangabe»:
 
-in der Russischen Föderation: die Feingehaltsangabe gemäss der Entscheidung Nr. 643 vom 18. Juni 1999 der Regierung der Russischen Föderation ‹Über das Verfahren für die Prüfung und Stempelung von Edelmetallwaren›;
+in der Russischen Föderation: Stempel gemäss der Entscheidung der Regierung der Russischen Föderation Nr. 394 vom 6. Mai 2016 ‹über die Prüfung, Analyse und Stempelung von Schmuck und anderen Edelmetallwaren›;
 
 in der Schweizerischen Eidgenossenschaft: die Feingehaltsangabe gemäss den Artikeln 7 und 7*a* des Schweizerischen Edelmetallkontrollgesetzes vom 20. Juni 1933;
 
 «XRF-Messung»: eine zerstörungsfreie Analysemethode mit Röntgenfluoreszenzspektrometer.
 
-[^1-1]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^1-2]: [SR 941.311](https://fedlex.data.admin.ch/eli/cc/50/363_375_420)
+[^1-1]: Bereinigt gemäss Art. 1 Ziff. 1 des Prot. vom 19. Nov. 2021, provisorisch angewendet seit 29. Nov. 2021 ([AS 2022 28](https://fedlex.data.admin.ch/eli/oc/2022/28)).
 
 #### Art. 2
 
@@ -86,11 +85,13 @@ Stichproben gemäss Artikel 5 des vorliegenden Abkommens bleiben vorbehalten.
 
 Bei der Zollabfertigung werden die Edelmetallwaren der Uhrenindustrie der zuständigen Behörde vorgelegt, deren Aufgabe es ist, die Ware auf das Vorhandensein des Abdrucks des amtlichen Stempels der Russischen Föderation und der gesetzlichen Feingehaltsangabe gemäss der Gesetzgebung der Russischen Föderation zu überprüfen.
 
-<sup>2.</sup> Edelmetallwaren der Uhrenindustrie, die zum Zeitpunkt der Einfuhr in die Russische Föderation den Abdruck des amtlichen Stempels der Schweizerischen Eidgenossenschaft, des Fabrikantenstempels und der gesetzlichen Feingehaltsangabe aufweisen, unterstehen nicht einer neuerlichen Prüfung, Analyse oder Stempelung in der Russischen Föderation, vorausgesetzt diese Ware entspreche den Bestimmungen der Gesetzgebung der Russischen Föderation und des vorliegenden Abkommens.
+<sup>2.</sup> Edelmetallwaren der Uhrenindustrie, die zum Zeitpunkt der Einfuhr in die Russische Föderation den Abdruck des amtlichen Stempels der Schweizerischen Eidgenossenschaft, des Fabrikantenstempels und der gesetzlichen Feingehaltsangabe aufweisen, unterstehen nicht einer neuerlichen Prüfung, Analyse oder Stempelung in der Russischen Föderation sowie einer physischen Bezeichnung, vorausgesetzt diese Ware entspreche den Bestimmungen der Gesetzgebung der Russischen Föderation und des vorliegenden Abkommens.[^3-1]
 
 Stichproben gemäss Artikel 5 des vorliegenden Abkommens bleiben vorbehalten.
 
 Bei der Zollabfertigung werden die Edelmetallwaren der Uhrenindustrie der zuständigen Behörde vorgelegt, deren Aufgabe es ist, die Ware auf das Vorhandensein des Abdrucks des amtlichen Stempels der Schweizerischen Eidgenossenschaft und der gesetzlichen Feingehaltsangabe gemäss der Gesetzgebung der Schweizerischen Eidgenossenschaft zu überprüfen.
+
+[^3-1]: Bereinigt gemäss Art. 1 Ziff. 2 des Prot. vom 19. Nov. 2021, provisorisch angewendet seit 29. Nov. 2021 ([AS 2022 28](https://fedlex.data.admin.ch/eli/oc/2022/28)).
 
 #### Art. 4
 
@@ -110,10 +111,11 @@ Die Bestimmungen des vorliegenden Abkommens hindern keine der beiden Parteien da
 
 Die Prüfung des tatsächlichen Feingehalts erfolgt wie folgt:
 
-- – in der Russischen Föderation: in Übereinstimmung mit Teil 3 der Instruktion für die Kontrolle der Prüfung;
-- – in der Schweizerischen Eidgenossenschaft: in Übereinstimmung mit den Methoden, die in den technischen Entscheiden zum Anhang II des Übereinkommens betreffend die Prüfung und Bezeichnung von Edelmetallgegenständen[^6-1] (Hallmarking Convention von 1972) beschrieben sind.
+- – in der Russischen Föderation: in Übereinstimmung mit den von der zuständigen russischen Behörde verabschiedeten Regeln;[^6-1]
+- – in der Schweizerischen Eidgenossenschaft: in Übereinstimmung mit den Methoden, die in den technischen Entscheiden zum Anhang II des Übereinkommens betreffend die Prüfung und Bezeichnung von Edelmetallgegenständen[^6-2] (Hallmarking Convention von 1972) beschrieben sind.
 
-[^6-1]: [SR 0.941.31](https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013)
+[^6-1]: Fassung gemäss Art. 1 Ziff. 3 des Prot. vom 19. Nov. 2021, provisorisch angewendet seit 29. Nov. 2021 ([AS 2022 28](https://fedlex.data.admin.ch/eli/oc/2022/28)).
+[^6-2]: [SR 0.941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4125)
 
 #### Art. 7
 
@@ -161,5 +163,5 @@ Das vorliegende Abkommen kann jederzeit durch die Parteien, unilateral, mit schr
 Unterzeichnet in Moskau am 14. Dezember 2011 in zwei Originalen, jedes, in russischer, deutscher und englischer Sprache, wobei rechtlich alle Texte gleichermassen verbindlich sind. Bei Abweichungen zwischen dem russischen und dem deutschen Text im Hinblick auf die Auslegung des vorliegenden Abkommens wird der englische Text verwendet.
 
 <table>
-<tr><td>Für den Schweizerischen Bundesrat Pierre Helg</td><td>Für die Regierung der Russischen Föderation Sergej Dmitriewich Schatalow</td></tr>
+<tr><td>Für den Schweizerischen Bundesrat: Pierre Helg</td><td>Für die Regierung der Russischen Föderation: Sergej Dmitriewich Schatalow</td></tr>
 </table>

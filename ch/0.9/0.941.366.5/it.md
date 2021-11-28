@@ -3,11 +3,11 @@ sr: "0.941.366.5"
 title: "Convenzione del 14 dicembre 2011 tra il Consiglio federale della Confederazione Svizzera e il Governo della Federazione Russa relativa al riconoscimento reciproco dei marchi ufficiali impressi sui lavori di metalli preziosi dell'industria orologiera"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/499"
 language: it
-version: 2013-08-02
+version: 2021-11-29
 adopted: 2011-12-14
 in_force: 2013-08-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/499/20130802/it/xml/fedlex-data-admin-ch-eli-cc-2013-499-20130802-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/499/20130802/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/499/20211129/it/xml/fedlex-data-admin-ch-eli-cc-2013-499-20211129-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/499/20211129/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/499/20130802/it"
 
 RU **2013** 2377
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa il 14 dicembre 2011
+Conclusa il 14 dicembre 2011 Entrata in vigore mediante scambio di note il 2 agosto 2013
 
-Entrata in vigore mediante scambio di note il 2 agosto 2013
-
-(Stato 2 agosto 2013)
-
-[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+(Stato 29 novembre 2021)
 
 Il Consiglio federale della Confederazione Svizzera e il Governo della Federazione Russa
 
@@ -34,42 +30,43 @@ desiderosi di promuovere gli scambi tra la Confederazione Svizzera e la Federazi
 
 #### Art. 1
 
+[^1-1]
+
 Secondo la presente Convenzione,
 
 l’espressione «autorità competente» designa:
 
-nella Federazione Russa, l’autorità di controllo statale del Ministero delle finanze della Federazione Russa;
+nella Federazione Russa, l’autorità di controllo statale;
 
 nella Confederazione Svizzera, l’Ufficio centrale per il controllo dei metalli preziosi;
 
-l’espressione «legislazione della Federazione Russa» designa la legge federale numero 41-FZ del 26 marzo 1998 concernente i metalli preziosi e le pietre preziose, la decisione numero 643 del 18 giugno 1999 del Governo della Federazione Russa concernente la procedura per la verifica e la punzonatura dei lavori di metalli preziosi, il decreto numero 1n dell’11 gennaio 2009 del Ministero delle finanze della Federazione Russa concernente l’entrata in vigore delle istruzioni per il controllo della verifica nonché le modifiche di tali disposizioni;
+l’espressione «legislazione della Federazione Russa» designa la legge federale numero 41‑FZ del 26 marzo 1998 concernente i metalli preziosi e le pietre preziose, la decisione numero 394 del 6 maggio 2016 del Governo della Federazione Russa concernente la verifica, l’analisi e la punzonatura di gioielli e altri lavori di metalli preziosi, la decisione numero 1127 del 21 ottobre 2015 del Governo della Federazione Russa concernente l’approvazione di regole per la registrazione e la produzione di marchi dei fabbricanti e per l’apposizione e la distruzione delle loro impronte, nonché le modifiche di tali disposizioni;
 
-l’espressione «legislazione della Confederazione Svizzera» designa la legge del 20 giugno 1933[^1-1] sul controllo dei metalli preziosi, che regola il commercio in metalli preziosi e in lavori di metalli preziosi, l’ordinanza dell’8 maggio 1934[^1-2] sul controllo dei metalli preziosi e le Istruzioni del 1° maggio 2010 concernenti l’applicazione della legislazione sul controllo dei metalli preziosi nonché le modifiche di tali disposizioni;
+l’espressione «legislazione della Confederazione Svizzera» designa la legge federale del 20 giugno 1933 sul controllo dei metalli preziosi, che regola il commercio in metalli preziosi e in lavori di metalli preziosi, l’ordinanza dell’8 maggio 1934 sul controllo dei metalli preziosi e le istruzioni concernenti l’applicazione della legislazione sui metalli preziosi, nonché le modifiche di tali disposizioni;
 
 l’espressione «lavori di metalli preziosi dell’industria orologiera» designa orologi da polso, da tasca e altri orologi simili, compresi i cronografi, con casse d’orologio di metalli preziosi (oro, argento, platino e palladio) e le loro leghe. L’espressione comprende, da un lato, sia gli orologi con bracciale di metalli preziosi e le loro leghe sia gli orologi con parti di metalli preziosi e, d’altro lato, gli orologi senza bracciale;
 
 l’espressione «marchio ufficiale» designa:
 
-nella Federazione Russa, un marchio di verifica ai sensi della decisione numero 643 del 18 giugno 1999 del Governo della Federazione Russa concernente la procedura per la verifica e la punzonatura dei lavori di metalli preziosi;
+nella Federazione Russa, un marchio di verifica ufficiale della Federazione Russa ai sensi della decisione numero 394 del 6 maggio 2016 del Governo della Federazione Russa concernente la verifica, l’analisi e la punzonatura di gioielli e altri lavori di metalli preziosi;
 
 nella Confederazione Svizzera, un marchio di garanzia di cui all’articolo 15 della legge del 20 giugno 1933 sul controllo dei metalli preziosi;
 
 l’espressione «marchio del fabbricante» designa:
 
-nella Federazione Russa, un marchio d’artefice ai sensi della decisione numero 643 del 18 giugno 1999 del Governo della Federazione Russa concernente la procedura per la verifica e la punzonatura dei lavori di metalli preziosi;
+nella Federazione Russa, il marchio del fabbricante ai sensi della decisione numero 394 del 6 maggio 2016 del Governo della Federazione Russa concernente la verifica, l’analisi e la punzonatura di gioielli e altri lavori di metalli preziosi e della decisione numero 1127 del 21 ottobre 2015 del Governo della Federazione Russa concernente l’approvazione di regole per la registrazione e la produzione di marchi dei fabbricanti e per l’apposizione e la distruzione delle loro impronte;
 
 nella Confederazione Svizzera, un marchio d’artefice di cui all’articolo 9 della legge del 20 giugno 1933 sul controllo dei metalli preziosi o un marchio collettivo d’artefice di cui all’articolo 60 dell’ordinanza dell’8 maggio 1934 sul controllo dei metalli preziosi;
 
 l’espressione «indicazione del titolo legale» designa:
 
-nella Federazione Russa, l’indicazione del titolo ai sensi della decisione numero 643 del 18 giugno 1999 del Governo della Federazione Russa concernente la procedura per la verifica e la punzonatura dei lavori di metalli preziosi;
+nella Federazione Russa, i marchi ai sensi della decisione numero 394 del 6 maggio 2016 del Governo della Federazione Russa concernente la verifica, l’analisi e la punzonatura di gioielli e altri lavori di metalli preziosi;
 
 nella Confederazione Svizzera, l’indicazione del titolo secondo gli articoli 7 e 7*a* della legge del 20 giugno 1933 sul controllo dei metalli preziosi;
 
 l’espressione «analizzatore XRF» designa una tecnica di analisi non distruttiva effettuata con lo spettrometro a fluorescenza a raggi X.
 
-[^1-1]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^1-2]: [RS 941.311](https://fedlex.data.admin.ch/eli/cc/50/363_375_420)
+[^1-1]: Aggiornato dall’art. 1 n. 1 del Prot. del 19 nov. 2021, applicato provvisoriamente dal 29 nov. 2021 ([RU 2022 28](https://fedlex.data.admin.ch/eli/oc/2022/28)).
 
 #### Art. 2
 
@@ -88,11 +85,13 @@ Sono fatte salve le campionature di cui all’articolo 5 della presente Convenzi
 
 All’atto dell’espletamento delle formalità doganali, i lavori di metalli preziosi dell’industria orologiera sono presentati alle autorità competenti, il cui compito è di verificare la presenza dei marchi ufficiali della Federazione Russa e l’indicazione del titolo legale conformemente alla legislazione della Federazione Russa.
 
-<sup>2.</sup> I lavori di metalli preziosi dell’industria orologiera che al momento della loro importazione nella Federazione Russa recano l’impronta del marchio ufficiale della Confederazione Svizzera e l’impronta del marchio del fabbricante compresa l’indicazione del titolo legale, non sono soggetti a nuova verifica, a nuovo controllo o alla punzonatura nella Federazione Russa, sempre che essi soddisfino le disposizioni della legislazione della Federazione Russa e della presente Convenzione.
+<sup>2.</sup> I lavori di metalli preziosi dell’industria orologiera che al momento della loro importazione nella Federazione Russa recano l’impronta del marchio ufficiale della Confederazione Svizzera e l’impronta del marchio del fabbricante compresa l’indicazione del titolo legale, non sono soggetti a nuova verifica, a nuovo controllo o alla punzonatura nella Federazione Russa, né a una qualsiasi marcatura fisica, sempre che essi soddisfino le disposizioni della legislazione della Federazione Russa e della presente Convenzione.[^3-1]
 
 Sono fatte salve le campionature di cui all’articolo 5 della presente Convenzione.
 
 All’atto dell’espletamento delle formalità doganali, i lavori di metalli preziosi dell’industria orologiera sono presentati alle autorità competenti, il cui compito è di verificare la presenza dell’impronta dei marchi ufficiali della Confederazione Svizzera e l’indicazione del titolo legale conformemente alla legislazione della Confederazione Svizzera.
+
+[^3-1]: Aggiornato dall’art 1 n. 2 del Prot. del 19 nov. 2021, applicato provvisoriamente dal 29 nov. 2021 ([RU 2022 28](https://fedlex.data.admin.ch/eli/oc/2022/28)).
 
 #### Art. 4
 
@@ -112,10 +111,11 @@ Le disposizioni della presente Convenzione non impediscono a nessuna delle Parti
 
 La verifica del titolo effettivo si svolge come segue:
 
-- – nella Federazione Russa conformemente alla parte 3 dell’Istruzione per il controllo e la verifica;
-- – nella Confederazione Svizzera conformemente ai metodi descritti nelle decisioni tecniche presenti nell’allegato II della Convenzione del 1972[^6-1] concernente il controllo e la punzonatura di lavori in metallo prezioso.
+- – nella Federazione Russa conformemente alle regole approvate dall’autorità russa competente;[^6-1]
+- – nella Confederazione Svizzera conformemente ai metodi descritti nelle decisioni tecniche presenti nell’allegato II della Convenzione del 1972[^6-2] concernente il controllo e la punzonatura di lavori in metallo prezioso.
 
-[^6-1]: [RS 0.941.31](https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013)
+[^6-1]: Nuovo testo giusta l’art 1 n. 3 del Prot. del 19 nov. 2021, applicato provvisoriamente dal 29 nov. 2021 ([RU 2022 28](https://fedlex.data.admin.ch/eli/oc/2022/28)).
+[^6-2]: [RS 0.941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4125)
 
 #### Art. 7
 
