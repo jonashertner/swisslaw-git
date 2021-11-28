@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-10-28
-valid_until: 2021-11-28
-version_adopted: 2021-10-27
+version: 2021-11-29
+valid_until: 2021-12-08
+version_adopted: 2021-11-26
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2414/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2426/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2414/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 28.10.2021)
+vom 04.11.2020 (Stand 29.11.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -129,7 +129,31 @@ beschliesst:
 
 <sup>1</sup> Die Betreiberinnen und Betreiber von Restaurations-, Bar- und Clubbetrieben müssen auf die Empfehlung zur Verwendung der SwissCovid-App mittels Aushang, Flyern oder anderen geeigneten Medien hinweisen.
 
-### 2.2 Veranstaltungen
+### 2.2 Veranstaltungen, Märkte sowie Fach- und Publikumsmessen
+
+#### Art. 5a
+
+**Maskentragpflicht**
+
+<sup>1</sup> Jede Person muss während einer Veranstaltung, an Märkten sowie an Fach- und Publikumsmessen eine Gesichtsmaske tragen, unabhängig davon, ob der Zugang auf Personen mit einem Zertifikat beschränkt ist.
+
+<sup>2</sup> Von der Pflicht nach Absatz 1 ausgenommen sind
+
+- a Kinder vor ihrem 12. Geburtstag,
+- b Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können,
+- c auftretende Personen, namentlich Rednerinnen und Redner,
+- d Personen, die sportliche oder kulturelle Aktivitäten gemäss Artikel 20 Covid-19-Verordnung besondere Lage ausüben,
+- e Gäste, während der Konsumation von Speisen oder Getränken,
+- f Mitarbeiterinnen und Mitarbeiter ohne Kontakt zu Gästen oder Besucherinnen und Besuchern,
+- g Personen an privaten Veranstaltungen.
+
+#### Art. 5b
+
+**Zertifikatspflicht bei Konsumation vor Ort**
+
+<sup>1</sup> Werden an Veranstaltungen, Märkten sowie Fach- und Publikumsmessen Speisen oder Getränke zur Konsumation vor Ort angeboten, ist der Zugang von Personen ab 16 Jahren zu den entsprechenden Innen- oder Aussenbereichen auf Personen mit einem Zertifikat im Sinn von Artikel 3 Covid-19-Verordnung besondere Lage zu beschränken.
+
+<sup>2</sup> Die Verantwortlichen müssen die Bereiche gemäss Absatz 1 abtrennen.
 
 #### Art. 6–8
 
@@ -140,6 +164,37 @@ beschliesst:
 #### Art. 8a–8d
 
 **…**
+
+### 2.2b Öffentlich zugängliche Bereiche von Einrichtungen und Betrieben
+
+#### Art. 8e
+
+**Maskentragpflicht**
+
+<sup>1</sup> Jede Person muss in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben eine Gesichtsmaske tragen, unabhängig davon, ob der Zugang auf Personen mit einem Zertifikat beschränkt ist.
+
+<sup>2</sup> Von der Pflicht nach Absatz 1 ausgenommen sind
+
+- a Kinder vor ihrem 12. Geburtstag,
+- b Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können,
+- c Personen, die eine medizinische oder kosmetische Dienstleistung im Gesicht in Anspruch nehmen,
+- d auftretende Personen, namentlich Rednerinnen und Redner,
+- e Personen, die sportliche oder kulturelle Aktivitäten gemäss Artikel 20 Covid-19-Verordnung besondere Lage ausüben,
+- f Gäste, während der Konsumation von Speisen und Getränken,
+- g Mitarbeiterinnen und Mitarbeiter ohne Kontakt zu Gästen oder Besucherinnen und Besuchern.
+
+<sup>3</sup> Die Maskentragpflicht gilt auch in den Aussenbereichen der Warte- und Zugangsbereiche des öffentlichen Verkehrs. Die Ausnahmen gemäss Absatz 3 Buchstabe a und b gelten gleichermassen.
+
+<sup>4</sup> Für Bildungseinrichtungen gilt Artikel 12a.
+
+#### Art. 8f
+
+**Zertifikatspflicht**
+
+<sup>1</sup> Folgende Einrichtungen und Betriebe sind für Besucherinnen und Besucher ab 16 Jahren nur mit einem Zertifikat zugänglich:
+
+- a Spitäler,
+- b Pflege-, Behinderten- sowie Kinder- und Jugendheime.
 
 ### 2.3 Bildungseinrichtungen
 
@@ -153,12 +208,13 @@ beschliesst:
 
 <sup>1</sup> In Ergänzung zu Artikel 6 der Covid-19-Verordnung besondere Lage muss jede Person in allen Innenräumen von Schulen eine Gesichtsmaske tragen.
 
-<sup>2</sup> Diese Pflicht gilt in Schulen gemäss der Mittelschulgesetzgebung und der Gesetzgebung über die Berufsbildung, die Weiterbildung und die Berufsberatung.
+<sup>2</sup> Diese Pflicht gilt in Schulen gemäss der Volksschulgesetzgebung, der Mittelschulgesetzgebung, der Gesetzgebung über die Berufsbildung, die Weiterbildung und die Berufsberatung sowie der Musikschulgesetzgebung.
 
 <sup>3</sup> Diese Pflicht gilt nicht
 
 - a für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind,
-- b für alle Personen in Situationen, in denen das Tragen einer Gesichtsmaske den Unterricht wesentlich erschwert, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind.
+- b für alle Personen in Situationen, in denen das Tragen einer Gesichtsmaske den Unterricht wesentlich erschwert, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind,
+- c für Schülerinnen und Schüler im Kindergarten und im ersten bis vierten Schuljahr der Primarstufe.
 
 #### Art. 12b
 
@@ -249,6 +305,14 @@ beschliesst:
 
 - a …
 - b zu verhindern, dass das Coronavirus von aussen eindringt.
+
+### 2.8 Massnahmen im Arbeitsbereich
+
+#### Art. 16i
+
+**Maskentragpflicht**
+
+<sup>1</sup> In der ambulanten Pflege tätige Personen, namentlich Arbeitnehmerinnen und Arbeitnehmer von Spitex-Organisationen, müssen eine Gesichtsmaske tragen.
 
 ## 3 Zuständigkeiten und Vollzug
 
@@ -448,6 +512,8 @@ beschliesst:
 <sup>2d</sup> …
 
 <sup>2e</sup> Artikel 20c2 gilt bis zum 30. Juni 2021.
+
+<sup>2f</sup> Die Artikel 5a und 5b, 8e und 8f sowie 16i gelten bis zum 23. Dezember 2021.
 
 <sup>3–3a</sup> …
 

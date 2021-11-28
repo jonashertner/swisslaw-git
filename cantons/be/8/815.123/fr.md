@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-10-28
-valid_until: 2021-11-28
-version_adopted: 2021-10-27
+version: 2021-11-29
+valid_until: 2021-12-08
+version_adopted: 2021-11-26
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2414/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2426/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2414/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 28.10.2021)
+du 04.11.2020 (état au 29.11.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -129,7 +129,31 @@ arrête:
 
 <sup>1</sup> Les exploitants et exploitantes d'établissements de restauration, de bars et de boîtes de nuit sont tenus de recommander à leur clientèle l'utilisation de l'application SwissCovid par des affiches, des dépliants ou tout autre moyen approprié.
 
-### 2.2 Manifestations
+### 2.2 Manifestations, marchés, foires spécialisées et foires tout public
+
+#### Art. 5a
+
+**Obligation de porter un masque**
+
+<sup>1</sup> Toute personne doit porter un masque facial lors de manifestations, de marchés, de foires spécialisées et de foires tout public, indépendamment du fait que l’accès soit limité aux personnes présentant un certificat.
+
+<sup>2</sup> Les personnes suivantes sont exemptées de l’obligation prévue à l’alinéa 1:
+
+- a les enfants de moins de 12 ans;
+- b les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales;
+- c les personnes qui se produisent devant un public, notamment les orateurs et les oratrices;
+- d les personnes qui pratiquent des activités sportives ou culturelles au sens de l’article 20 de l’ordonnance COVID-19 situation particulière;
+- e les personnes qui consomment des mets ou des boissons;
+- f les collaborateurs et collaboratrices sans contact avec la clientèle ou les visiteurs et visiteuses;
+- g les personnes participant à une manifestation privée.
+
+#### Art. 5b
+
+**Obligation de présenter un certificat en cas de consommation sur place**
+
+<sup>1</sup> Si, lors de manifestations, de marchés, de foires spécialisées et de foires tout public, des mets et des boissons sont proposés pour la consommation sur place, l’accès pour les personnes dès 16 ans aux secteurs intérieurs ou extérieurs pour la consommation doit être limité aux personnes disposant d’un certificat au sens de l’article 3 de l’ordonnance COVID-19 situation particulière.
+
+<sup>2</sup> Les personnes responsables sont tenues de délimiter les secteurs au sens de l’alinéa 1.
 
 #### Art. 6–8
 
@@ -140,6 +164,37 @@ arrête:
 #### Art. 8a–8d
 
 **…**
+
+### 2.2b Espaces accessibles au public des installations et des établissements
+
+#### Art. 8e
+
+**Obligation de porter un masque**
+
+<sup>1</sup> Toute personne doit porter un masque facial dans les espaces accessibles au public des installations et des établissements, indépendamment du fait que l’accès soit limité aux personnes présentant un certificat.
+
+<sup>2</sup> Les personnes suivantes sont exemptées de l’obligation prévue à l’alinéa 1:
+
+- a les enfants de moins de 12 ans;
+- b les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales;
+- c les personnes faisant l’objet d’une prestation médicale ou cosmétique au visage;
+- d les personnes qui se produisent devant un public, notamment les orateurs et les oratrices;
+- e les personnes qui pratiquent des activités sportives ou culturelles au sens de l’article 20 de l’ordonnance COVID-19 situation particulière;
+- f les personnes qui consomment des mets ou des boissons;
+- g les collaborateurs et collaboratrices sans contact avec la clientèle ou les visiteurs et visiteuses.
+
+<sup>3</sup> L’obligation de porter un masque vaut aussi dans les espaces extérieurs des aires d’attente des transports publics et d’accès à ceux-ci. Les exceptions prévues à l’alinéa 3, lettres a et b s’appliquent de la même manière.
+
+<sup>4</sup> L’article 12a s’applique aux établissements de formation.
+
+#### Art. 8f
+
+**Obligation de présenter un certificat**
+
+<sup>1</sup> Les installations et établissements suivants sont uniquement accessibles aux visiteurs et visiteuses dès 16 ans sur présentation d’un certificat:
+
+- a hôpitaux,
+- b établissements médico-sociaux, foyers pour personnes handicapées, pour enfants et pour adolescents.
 
 ### 2.3 Institutions de formation
 
@@ -153,12 +208,13 @@ arrête:
 
 <sup>1</sup> En complément de l'article 6 de l'ordonnance COVID-19 situation particulière, toute personne est tenue de porter un masque dans tous les espaces clos des écoles.
 
-<sup>2</sup> Cette obligation s’applique aux écoles visées par la législation sur les écoles moyennes et la législation sur la formation professionnelle, la formation continue et l’orientation professionnelle.
+<sup>2</sup> Cette obligation s’applique aux écoles visées par la législation sur l’école obligatoire, la législation sur les écoles moyennes, la législation sur la formation professionnelle, la formation continue et l’orientation professionnelle ainsi que la législation sur les écoles de musique.
 
 <sup>3</sup> Cette obligation ne vaut pas pour
 
 - a les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales, pour autant que d’autres mesures de protection appropriées soient prises;
-- b toutes les personnes se trouvant dans une situation dans laquelle le port d'un masque facial entrave considérablement l’enseignement, pour autant que d’autres mesures de protection appropriées soient prises.
+- b toutes les personnes se trouvant dans une situation dans laquelle le port d'un masque facial entrave considérablement l’enseignement, pour autant que d’autres mesures de protection appropriées soient prises;
+- c les élèves de l’école enfantine et de la 1<sup>re</sup> à la 4<sup>e</sup> années du degré primaire (3H à 6H).
 
 #### Art. 12b
 
@@ -249,6 +305,14 @@ arrête:
 
 - a …
 - b empêcher les contaminations dues à l'extérieur.
+
+### 2.8 Mesures au travail
+
+#### Art. 16i
+
+**Obligation de porter un masque**
+
+<sup>1</sup> Les personnes travaillant dans les soins ambulatoires, notamment les employés et employées d’organisations d’aide et de soins à domicile, doivent porter un masque facial.
 
 ## 3 Compétences et exécution
 
@@ -448,6 +512,8 @@ arrête:
 <sup>2d</sup> …
 
 <sup>2e</sup> L'article 20c2 est valable jusqu'au 30 juin 2021.
+
+<sup>2f</sup> Les articles 5a et 5b, 8e et 8f ainsi que 16i sont valables jusqu’au 23 décembre 2021.
 
 <sup>3–3a</sup> …
 
