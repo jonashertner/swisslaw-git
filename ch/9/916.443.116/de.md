@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 26. November 2021 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/777"
 language: de
-version: 2021-11-27
+version: 2021-11-29
 adopted: 2021-11-26
 in_force: 2021-11-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/777/20211127/de/xml/fedlex-data-admin-ch-eli-cc-2021-777-20211127-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/777/20211127/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/777/20211129/de/xml/fedlex-data-admin-ch-eli-cc-2021-777-20211129-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/777/20211129/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 26. November 2021 (Stand am 27. November 2021)
+vom 26. November 2021 (Stand am 29. November 2021)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -84,13 +84,19 @@ Die Ausfuhr von tierischen Nebenprodukten von Hausgeflügel, einschliesslich Mis
 
 Hausgeflügel zur direkten Schlachtung, Geflügelfleisch, Erzeugnisse aus Verarbeitungseiern und tierische Nebenprodukte aus Schutz- und Überwachungszonen müssen bei der Ausfuhr von einer Gesundheitsbescheinigung begleitet werden, welche die Einhaltung der Bedingungen nach den Artikeln 3 und 4 bestätigt.
 
-## 3. Abschnitt: ...
+## 3. Abschnitt: Kontroll- und Beobachtungsgebiete
 
-#### Art. 6 und 7
+#### Art. 6
 
-**...[^67-1]**
+**Umfang der Kontroll- und Beobachtungsgebiete**
 
-[^67-1]: Treten am 29. Nov. 2021 um 00.00 Uhr in Kraft (s. Art. 8 Abs. 2).
+Als Kontroll- und Beobachtungsgebiete gelten Uferstreifen von 1 km beziehungsweise 3 km Breite um die in Anhang 2 aufgeführten Gewässer.
+
+#### Art. 7
+
+**Überwachung der Geflügelhaltungen in den Kontroll- und Beobachtungsgebieten**
+
+Auf Anordnung des BLV führt die Kantonstierärztin oder der Kantonstierarzt in den Geflügelhaltungen in den Kontroll- und den Beobachtungsgebieten stichprobenweise Untersuchungen auf Influenza-A-Viren durch.
 
 ## 4. Abschnitt: Inkrafttreten und Geltungsdauer
 

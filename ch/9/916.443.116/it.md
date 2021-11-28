@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 26 novembre 2021 che istituisce misure destinate a evitare lʼulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/777"
 language: it
-version: 2021-11-27
+version: 2021-11-29
 adopted: 2021-11-26
 in_force: 2021-11-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/777/20211127/it/xml/fedlex-data-admin-ch-eli-cc-2021-777-20211127-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/777/20211127/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/777/20211129/it/xml/fedlex-data-admin-ch-eli-cc-2021-777-20211129-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/777/20211129/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare lʼulteriore diffusione dell’influenza aviaria
 
-del 26 novembre 2021 (Stato 27 novembre 2021)
+del 26 novembre 2021 (Stato 29 novembre 2021)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -84,13 +84,19 @@ L’esportazione di sottoprodotti di origine animale di pollame da cortile, incl
 
 Il pollame da cortile destinato alla macellazione diretta, la carne di pollame, i prodotti ottenuti da uova di trasformazione e i sottoprodotti di origine animale provenienti dalle zone di protezione e di sorveglianza devono essere accompagnati all’esportazione da un certificato sanitario che attesti il rispetto delle condizioni di cui agli articoli 3 e 4.
 
-## Sezione 3: ...
+## Sezione 3: Zone di controllo e di osservazione
 
-#### Art. 6 e 7
+#### Art. 6
 
-[^67-1]
+**Estensione delle zone di controllo e di osservazione**
 
-[^67-1]: Entrano in vigore il 29 nov. 2021 (vedi art. 8 cpv. 2).
+Sono considerate zone di controllo e di osservazione le aree rivierasche rispettivamente di 1 km e 3 km di larghezza che si estendono intorno alle acque elencate nell’allegato 2.
+
+#### Art. 7
+
+**Sorveglianza delle aziende detentrici di pollame nelle zone di controllo e osservazione**
+
+Su ordine dell’USAV, il veterinario cantonale esegue controlli a campione dei virus influenzali A nelle aziende detentrici di pollame nelle zone di controllo e di osservazione.
 
 ## Sezione 4: Entrata in vigore e durata di validità
 

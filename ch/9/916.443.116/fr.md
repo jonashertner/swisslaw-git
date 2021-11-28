@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 26 novembre 2021 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/777"
 language: fr
-version: 2021-11-27
+version: 2021-11-29
 adopted: 2021-11-26
 in_force: 2021-11-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/777/20211127/fr/xml/fedlex-data-admin-ch-eli-cc-2021-777-20211127-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/777/20211127/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/777/20211129/fr/xml/fedlex-data-admin-ch-eli-cc-2021-777-20211129-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/777/20211129/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 26 novembre 2021 (Etat le 27 novembre 2021)
+du 26 novembre 2021 (Etat le 29 novembre 2021)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -84,13 +84,19 @@ Il est interdit d’exporter depuis les zones de protection et de surveillance d
 
 Les volailles domestiques destinées à l’abattage direct, la viande de volaille, les produits issus des œufs de transformation et les sous-produits animaux provenant des zones de protection et de surveillance doivent, au moment de l’exportation, être accompagnés d’un certificat sanitaire qui atteste que les conditions fixées aux art. 3 et 4 sont respectées.
 
-## Section 3 ...
+## Section 3 Régions de contrôle et d’observation
 
-#### Art. 6 et 7
+#### Art. 6
 
-[^67-1]
+**Étendue des régions de contrôle et d’observation**
 
-[^67-1]: Entrent en vigueur le 29 nov. 2021 (v. art. 8, al. 2).
+Sont réputées régions de contrôle et d’observation les rives d’une largeur de 1 km, respectivement de 3 km, bordant les eaux mentionnées dans l’annexe 2.
+
+#### Art. 7
+
+**Surveillance des unités d’élevage de volaille dans les régions de contrôle et d’observation**
+
+Sur ordre de l’OSAV, le vétérinaire cantonal réalise le dépistage par sondage des virus de l’influenza A dans les unités d’élevage de volaille situées dans les régions de contrôle et d’observation.
 
 ## Section 4 Entrée en vigueur et durée de validité
 
