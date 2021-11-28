@@ -3,20 +3,20 @@ canton: SG
 number: "313.2"
 title: Vollzugsverordnung zu den eidgenössischen Covid-19-Verordnungen besondere Lage und internationaler Personenverkehr
 language: de
-version: 2021-10-01
-valid_until: 2021-11-28
-version_adopted: 2021-09-28
+version: 2021-11-29
+valid_until: 2021-12-01
+version_adopted: 2021-11-27
 adopted: 2021-06-29
 in_force: 2021-06-30
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/313.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3263/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3293/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zu den eidgenössischen Covid-19-Verordnungen besondere Lage und internationaler Personenverkehr
 
-vom 29.06.2021 (Stand 01.10.2021)
+vom 29.06.2021 (Stand 29.11.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -102,7 +102,7 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Betagten- und Pflegeheime, die auf der kantonalen Pflegeheimliste[^5a-1] aufgeführt sind:
 
-- a) erheben die Kontaktdaten von Besuchenden, namentlich Name, Vorname, Geburtsdatum, E-Mail-Adresse und Mobiltelefonnummer. Diese werden während zwei Wochen aufbewahrt und danach gelöscht;
+- a) …
 - b) melden dem Amt für Soziales Infektionen von Mitarbeitenden und Bewohnenden mit Covid-19 sowie entsprechende Todesfälle.
 
 [^5a-1]: Anhang zum Regierungsbeschluss über die Pflegeheimliste vom 20. Dezember 2011, sGS [381.181](https://www.gesetzessammlung.sg.ch/data/381.181/de).
@@ -137,5 +137,32 @@ als Verordnung:[^ingress-3]
 <sup>1</sup> Vorbehältlich von Abs. 2 dieser Bestimmung ist das Kantonsarztamt die zuständige kantonale Behörde für den Vollzug der Covid-19-Verordnung internationaler Personenverkehr.
 
 <sup>2</sup> Das Gesundheitsdepartement bewilligt Erleichterungen und Ausnahmen von der Test- und Quarantänepflicht nach Art. 9a Abs. 4 der Covid-19-Verordnung internationaler Personenverkehr.
+
+## III. Zusätzliche Massnahmen des Kantons
+
+#### Art. 9
+
+**Erweiterung der Zertifikatspflicht**
+
+<sup>1</sup> In Ergänzung zur Zertifikatspflicht nach der Covid-19-Verordnung besondere Lage benötigen Personen über 16 Jahren für den Besuch in einem Spital (Akutspital, psychiatrische Klinik, Reha-Klinik) oder einem Betagten- und Pflegeheim ein Zertifikat.
+
+<sup>2</sup> Als Zertifikat gelten Zertifikate nach Art. 3 Abs. 1 der Covid-19-Verordnung besondere Lage.
+
+#### Art. 10
+
+**Erweiterung der Maskentragpflicht**
+
+<sup>1</sup> In Ergänzung zur Maskentragpflicht nach der Covid-19-Verordnung besondere Lage ist das Tragen einer Gesichtsmaske obligatorisch für:
+
+- a) Mitarbeitende sowie Besucherinnen und Besucher von Betagten- und Pflegeheimen;
+- b) Mitarbeitende von Organisationen zur Hilfe und Pflege zu Hause, während ihres Einsatzes bei der unterstützten Person.
+
+<sup>2</sup> Von der Maskentragpflicht nach Abs. 1 dieser Bestimmung ausgenommen sind:
+
+- a) Kinder vor ihrem 12. Geburtstag;
+- b) Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können. Für den Nachweis medizinischer Gründe gilt Art. 5 Abs. 1 Bst. b der Covid-19-Verordnung besondere Lage;
+- c) Personen, die gestützt auf eine Vorgabe in der Covid-19-Verordnung besondere Lage in den Bereichen Sport und Kultur von der Maskentragpflicht ausgenommen sind.
+
+<sup>3</sup> Die Arbeitgeberin oder der Arbeitgeber der in Abs. 1 genannten Personen kann gestützt auf Art. 25 der Covid-19-Verordnung besondere Lage weitergehende Anordnungen betreffend Maskentragpflicht treffen.
 
 nGS 2021-062
