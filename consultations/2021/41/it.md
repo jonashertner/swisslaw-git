@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sulle finanze della Confederazione (riduzione del debito connesso alla pandemia di coronavirus)
 document: Progetto posto in consultazione
 language: it

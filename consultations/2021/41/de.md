@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Finanzhaushaltgesetzes (Abbau der Corona-bedingten Verschuldung)
 document: Vernehmlassungsvorlage
 language: de
