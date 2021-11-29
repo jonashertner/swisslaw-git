@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 1985 contro l'inquinamento atmosferico (OIAt)"
 short: OIAt
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: it
-version: 2020-04-01
+version: 2021-11-30
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20200401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20211130-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20211130/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20200401/it"
 
 (OIAt)**[^t-1]**
 
-del 16 dicembre 1985 (Stato 1° aprile 2020)
+del 16 dicembre 1985 (Stato 30 novembre 2021)
 
 [^t-1]: [RU 1986 835](https://fedlex.data.admin.ch/eli/oc/1986/835_835_835)
 
@@ -895,7 +895,7 @@ Allegato 1*[^t-2]*
 
 ## Limitazione preventiva generale delle emissioni
 
-[^t-2]: Aggiornato dai n. II delle O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), dal n. II 10 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), dai n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)) e del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^t-2]: Aggiornato dai n. II delle O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), dal n. II 10 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), dai n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)) e del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)) e dalla correzione del 30 nov. 2021 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
 
 ### 1 Campo d’applicazione
 
@@ -1281,7 +1281,7 @@ Sono considerate cancerogene le sostanze designate come tali (K) nell’Elenco d
 <tr><td>Benzo(a)pirene</td><td>C<sub>20</sub>N<sub>12</sub></td><td>1</td></tr>
 <tr><td>Benzolo</td><td>C<sub>6</sub>H<sub>6</sub></td><td>3</td></tr>
 <tr><td>Berillio e i suoi composti in forma respirabile, indicati come Be</td><td>Be</td><td>1</td></tr>
-<tr><td>Bromuro d’etano</td><td>C<sub>2</sub>H<sub>7</sub>Br</td><td>3</td></tr>
+<tr><td>Bromuro d’etano</td><td>C<sub>2</sub>H<sub>5</sub>Br</td><td>3</td></tr>
 <tr><td>1,3-butadiene</td><td>C<sub>4</sub>H<sub>6</sub></td><td>3</td></tr>
 <tr><td>Cadmio e i suoi composti cloruro di cadmio, ossido di cadmio, solfato di cadmio, solfuro di cadmio e altri composti presenti biologicamente (in forma respirabile), indicati come Cd</td><td>Cd</td><td>1</td></tr>
 <tr><td>1-cloro-2,3-epossipropano</td><td>C<sub>3</sub>H<sub>5</sub>ClO</td><td>3</td></tr>
@@ -1819,7 +1819,7 @@ I valori limite d’emissione si riferiscono ad un tenore di ossigeno nei gas di
 
 Le emissioni di ossidi d’azoto, indicati come diossido d’azoto, non devono superare i valori secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image1.png)
 
 ### 474 Misurazioni
 
@@ -2680,7 +2680,7 @@ Per gli impianti a combustione che possono essere alimentati alternativamente co
 
 <sup>2</sup> Il valore limite di miscela per combustibili misti è calcolato mediante la formula seguente:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/it/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image4.png)</sub>
 
 dove:
 
@@ -3016,7 +3016,7 @@ Nei gas secondo la cifra 41 lettere a e b, il tenore in zolfo non deve superare 
 <table>
 <tr><td>Tenore in bioetanolo</td><td>% (*V/V*)</td><td>1,0</td><td>2,0</td><td>3,0</td><td>4,0</td><td>5,0</td><td>6,0</td><td>7,0</td><td>8,0</td><td>9,0</td><td>10,0</td></tr>
 <tr><td>Superamento massimo della tensione di vapore prescritta<sup>a</sup></td><td>kPa</td><td>3,7</td><td>6,0</td><td>7,2</td><td>7,8</td><td>8,0</td><td>8,0</td><td>7,9</td><td>7,9</td><td>7,8</td><td>7,8</td></tr>
-<tr><td colspan="12">Osservazione: <sup>a</sup> I valori intermedi sono calcolati per interpolazione lineare fra il valore immediatamente superiore e quello immediatamente inferiore al tenore in bioetanolo.</td></tr>
+<tr><td colspan="12">*Osservazione:* <sup>a</sup> I valori intermedi sono calcolati per interpolazione lineare fra il valore immediatamente superiore e quello immediatamente inferiore al tenore in bioetanolo.</td></tr>
 </table>
 
 <sup>2</sup> La benzina per aerei può essere importata a scopi commerciali o messa in commercio soltanto se il tenore in piombo non supera il valore di 0,56 g/l e il tenore in benzene l’1 per cento (% *V/V*). La benzina per aerei messa in commercio deve essere colorata di blu.
@@ -3183,13 +3183,13 @@ S (µg/m<sup>3</sup>) = valore S (cfr. cifre 3 e 9)
 
 Diagramma 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image5.png)
 
 ### Determinazione del fattore di correzione g in zone edificate e boschive
 
 Diagramma 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image6.png)
 
 I = altezza del più alto fattore d’ostacolo determinante (cifra 5)
 

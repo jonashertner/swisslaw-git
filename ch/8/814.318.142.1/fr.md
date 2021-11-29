@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 1985 sur la protection de l'air (OPair)"
 short: OPair
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: fr
-version: 2020-04-01
+version: 2021-11-30
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20211130-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20211130/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20200401/fr"
 
 (OPair)
 
-du 16 décembre 1985 (Etat le 1<sup>er</sup> avril 2020)
+du 16 décembre 1985 (Etat le 30 novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -891,7 +891,7 @@ Annexe 1*[^t-1]*
 
 ## Limitation préventive générale des émissions
 
-[^t-1]: Mise à jour selon le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), le ch. II 10 de l’O du 18 mai 2005 sur l’abrogation et la modification du droit en vigueur du fait de la loi sur les produits chimiques ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)) et du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^t-1]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), le ch. II 10 de l’O du 18 mai 2005 sur l’abrogation et la modification du droit en vigueur du fait de la loi sur les produits chimiques ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)) et du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)). Erratum du 30 nov. 2021 ([RO 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
 
 ### 1 Champ d’application
 
@@ -1277,7 +1277,7 @@ Sont réputées cancérigènes les substances répertoriées comme telles (ca) d
 <tr><td>Benzène</td><td>C<sub>6</sub>H<sub>6</sub></td><td>3</td></tr>
 <tr><td>Benzo(a)pyrène</td><td>C<sub>20</sub>H<sub>12</sub></td><td>1</td></tr>
 <tr><td>Béryllium et ses composés (sous forme respirable), exprimés en Be</td><td>Be</td><td>1</td></tr>
-<tr><td>Bromométhane</td><td>C<sub>2</sub>H<sub>7</sub>Br</td><td>3</td></tr>
+<tr><td>Bromoéthane</td><td>C<sub>2</sub>H<sub>5</sub>Br</td><td>3</td></tr>
 <tr><td>1,3-Butadiène</td><td>C<sub>4</sub>H<sub>6</sub></td><td>3</td></tr>
 <tr><td>Cadmium et ses composés chlorure de cadmium, oxyde de cadmium, sulfate de cadmium, sulfure de cadmium et autres composés biodisponibles (sous forme respirable) exprimés en Cd</td><td>Cd</td><td>1</td></tr>
 <tr><td>1-Chloro-2,3-époxypropane</td><td>C<sub>3</sub>H<sub>5</sub>ClO</td><td>3</td></tr>
@@ -1317,7 +1317,7 @@ Annexe 2*[^t-2]*
 
 ## Limitation complémentaire et dérogatoire des émissions pour certaines installations spéciales
 
-[^t-2]: Mise à jour selon le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
+[^t-2]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
 
 ### Table des matières
 
@@ -1815,7 +1815,7 @@ Les valeurs limites d’émission se rapportent à une teneur en oxygène des ef
 
 Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront pas les valeurs qui ressortent du diagramme ci-après.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/fr/xml/image/image1.png)
 
 ### 474 Mesures
 
@@ -2355,7 +2355,7 @@ Annexe 3*[^t-3]*
 
 ## Limitation complémentaire et dérogatoire des émissions pour les installations de combustion
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Mise à jour selon le ch. II des O du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Voir aussi les disp. trans. de la mod. du 11 avr. 2018 ci-devant.
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Mise à jour par le ch. II des O du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Voir aussi les disp. trans. de la mod. du 11 avr. 2018 ci-devant.
 
 ### 1 Champ d’application
 
@@ -2674,7 +2674,7 @@ Si une même installation de combustion est alimentée alternativement avec diff
 
 <sup>2</sup> La valeur limite du mélange se calcule selon la formule suivante:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/fr/xml/image/image4.png)</sub>
 
 Signification:
 
@@ -2694,7 +2694,7 @@ Annexe 4*[^t-4]*
 
 ## Exigences relatives aux installations de combustion, aux machines de chantier et à leurs systèmes de filtres à particules ainsi qu’aux machines et appareils équipés d’un moteur à combustion
 
-[^t-4]: Nouvelle teneur selon le ch. II de l’O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Mise à jour selon le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), les ch. I et II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. III 1 de l’O du 22 juin 2016 ([RO 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Voir aussi les disp. trans. des mod. du 4 juil. 2007 et du 19 sept. 2008, ci-devant.
+[^t-4]: Nouvelle teneur selon le ch. II de l’O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Mise à jour par le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), les ch. I et II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. III 1 de l’O du 22 juin 2016 ([RO 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Voir aussi les disp. trans. des mod. du 4 juil. 2007 et du 19 sept. 2008, ci-devant.
 
 ### 1 Champ d’application
 
@@ -2839,7 +2839,7 @@ Annexe 5*[^t-5]*
 
 ## Exigences relatives aux combustibles et aux carburants
 
-[^t-5]: Mise à jour selon le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), le ch. I de l’O du 25 août 1999 ([RO 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), le ch. II des O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), les ch. I et II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Voir aussi les disp. trans. de la mod. du 19 sept. 2008, ci-devant.
+[^t-5]: Mise à jour par le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), le ch. I de l’O du 25 août 1999 ([RO 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), le ch. II des O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), les ch. I et II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Voir aussi les disp. trans. de la mod. du 19 sept. 2008, ci-devant.
 
 ### 1 Huiles de chauffage et autres combustibles liquides
 
@@ -3004,7 +3004,7 @@ La teneur en soufre des gaz selon le ch. 41, let. a et b, ne dépassera pas 190 
 <table>
 <tr><td>Teneur en bioéthanol</td><td>% (*V/V*)</td><td>1,0</td><td>2,0</td><td>3,0</td><td>4,0</td><td>5,0</td><td>6,0</td><td>7,0</td><td>8,0</td><td>9,0</td><td>10,0</td></tr>
 <tr><td>Dépassement autorisé de la tension de vapeur prescrite<sup>a</sup></td><td>kPa</td><td>3,7</td><td>6,0</td><td>7,2</td><td>7,8</td><td>8,0</td><td>8,0</td><td>7,9</td><td>7,9</td><td>7,8</td><td>7,8</td></tr>
-<tr><td colspan="12">Remarque: <sup>a</sup> Les valeurs intermédiaires sont calculées par interpolation linéaire entre les valeurs immédiatement supérieure et immédiatement inférieure à la teneur en bioéthanol.</td></tr>
+<tr><td colspan="12">*Remarque:* <sup>a</sup> Les valeurs intermédiaires sont calculées par interpolation linéaire entre les valeurs immédiatement supérieure et immédiatement inférieure à la teneur en bioéthanol.</td></tr>
 </table>
 
 <sup>2</sup> L’essence pour avions ne peut être importée à des fins commerciales ou mise dans le commerce qu’à condition que sa teneur en plomb ne dépasse pas 0,56 g/l et que sa teneur en benzène ne dépasse pas 1 % (% *V/V*). L’essence pour avions mise dans le commerce doit être colorée en bleu.
@@ -3032,7 +3032,7 @@ Annexe 6*[^t-6]*
 
 ## Hauteur minimale des cheminées industrielles
 
-[^t-6]: Mise à jour selon le ch. II de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> mars 1998 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
+[^t-6]: Mise à jour par le ch. II de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> mars 1998 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)).
 
 ### 1 Champ d’application
 
@@ -3154,13 +3154,13 @@ Si les circonstances le justifient, l’autorité exigera des cheminées plus é
 
 Diagramme 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/fr/xml/image/image5.png)
 
 ### Détermination du facteur de correction g pour les zones de construction et de végétation
 
 Diagramme 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/fr/xml/image/image6.png)
 
 I = hauteur des obstacles déterminants les plus élevés (ch. 5)
 
@@ -3172,7 +3172,7 @@ Annexe 7*[^t-7]*
 
 ## Valeurs limites d’immission
 
-[^t-7]: Nouvelle teneur selon le ch II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)). Mise à jour selon le ch. II de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^t-7]: Nouvelle teneur selon le ch II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)). Mise à jour par le ch. II de l’O du 11 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 <table>
 <tr><th>Substance</th><th>Valeur limite d’immission</th><th>Définition statistique</th></tr>

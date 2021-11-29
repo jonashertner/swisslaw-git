@@ -4,20 +4,22 @@ title: Ordinance of 16 December 1985 on Air Pollution Control (OAPC)
 short: OAPC
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: en
-version: 2020-04-01
+version: 2021-11-30
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20200401-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20200401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20211130-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20211130/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Ordinance on Air Pollution Control (OAPC)
+# Ordinance on Air Pollution Control
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 16 December 1985 (Status as of 1 April 2020)
+(OAPC)
+
+of 16 December 1985 (Status as of 30 November 2021)
 
 The Swiss Federal Council,
 
@@ -888,7 +890,7 @@ Annex 1*[^t-1]*
 
 ## General preventive emission limits
 
-[^t-1]: Revised by No II of the Ordinances of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)) and of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), No II 10 of the O of 18 May 2005 on the Repeal and Amendment of Ordinances in connection with the Commencement of the Chemicals Act ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), No II of the O of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)) and of 14 Oct. 2015, in force since 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^t-1]: Revised by No II of the Ordinances of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), No II 10 of the O of 18 May 2005 on the Repeal and Amendment of Ordinances in connection with the Commencement of the Chemicals Act ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), No II of the O of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 14 Oct. 2015, in force since 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)) and the correction of 30 Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
 
 ### 1 Scope
 
@@ -1272,7 +1274,7 @@ The emission concentration of any of the substances listed in Number 62 must not
 <tr><td>Benzene</td><td>C<sub>6</sub>H<sub>6</sub></td><td>3</td></tr>
 <tr><td>Benzo[a]pyrene</td><td>C<sub>20</sub>H<sub>12</sub></td><td>1</td></tr>
 <tr><td>Beryllium and its compounds in respirable form, expressed as Be</td><td>Be</td><td>1</td></tr>
-<tr><td>Bromomethane</td><td>C<sub>2</sub>H<sub>7</sub>Br</td><td>3</td></tr>
+<tr><td>Bromomethane</td><td>C<sub>2</sub>H<sub>5</sub>Br</td><td>3</td></tr>
 <tr><td>1,3-Butadiene</td><td>C<sub>4</sub>H<sub>6</sub></td><td>3</td></tr>
 <tr><td>Cadmium and its compounds cadmium chloride, cadmium oxide, cadmium sulphate, cadmium sulphide, and other bioavailable compounds (in respirable form), expressed as Cd</td><td>Cd</td><td>1</td></tr>
 <tr><td>2-Chloro-1,3-butadiene</td><td>C<sub>4</sub>H<sub>5</sub>Cl</td><td>3</td></tr>
@@ -1860,7 +1862,7 @@ Emissions of nitrogen oxides, expressed as nitrogen dioxide, must not exceed the
 
 **Diagram:**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/image/image1.png)
 
 ### 474 Measurements
 
@@ -2731,7 +2733,7 @@ If a single installation operates alternately on different kinds of fuel, the em
 
 <sup>2</sup> The composite limit value is calculated according to the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/image/image2.png)
 
 where:
 
@@ -3222,15 +3224,15 @@ g (–) = Correction factor for buildings and vegetation
 
 Diagram 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/en/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/image/image3.png)
 
 ### Determination of the correction factor for buildings and vegetation
 
 Diagram 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/image/image4.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/en/xml/image/image5.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/image/image5.png)</sub>
 
 - I = Height of the highest significant obstacle area (Number 5)
 - H<sub>1</sub> = Minimum stack height for flat, obstacle-free terrain (Number 4)

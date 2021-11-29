@@ -4,11 +4,11 @@ title: Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)
 short: LRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: de
-version: 2020-04-01
+version: 2021-11-30
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20211130-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20211130/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20200401/de"
 
 (LRV)
 
-vom 16. Dezember 1985 (Stand am 1. April 2020)
+vom 16. Dezember 1985 (Stand am 30. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -888,7 +888,7 @@ Anhang 1*[^t-1]*
 
 ## Allgemeine vorsorgliche Emissionsbegrenzungen
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), Ziff. II 10 der V vom 18. Mai 2005 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit dem Inkrafttreten des Chemikaliengesetzes ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)) und vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), Ziff. II 10 der V vom 18. Mai 2005 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit dem Inkrafttreten des Chemikaliengesetzes ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)) und der Berichtigung vom 30. Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
 
 ### 1 Geltungsbereich
 
@@ -1274,7 +1274,7 @@ Als krebserzeugend gelten Stoffe, die in der Liste der arbeitshygienischen Grenz
 <tr><td>Benzo(a)pyren</td><td>C<sub>20</sub>H<sub>12</sub></td><td>1</td></tr>
 <tr><td>Benzol</td><td>C<sub>6</sub>H<sub>6</sub></td><td>3</td></tr>
 <tr><td>Beryllium und seine Verbindungen in atembarer Form, angegeben als Be</td><td>Be</td><td>l</td></tr>
-<tr><td>Bromethan</td><td>C<sub>2</sub>H<sub>7</sub>Br</td><td>3</td></tr>
+<tr><td>Bromethan</td><td>C<sub>2</sub>H<sub>5</sub>Br</td><td>3</td></tr>
 <tr><td>Buchenholzstaub in atembarer Form</td><td></td><td>3</td></tr>
 <tr><td>1,3-Butadien</td><td>C<sub>4</sub>H<sub>6</sub></td><td>3</td></tr>
 <tr><td>Cadmium und seine Verbindungen Cadmiumchlorid, Cadmiumoxid, Cadmiumsulfat, Cadmiumsulfid, und andere bioverfügbare Verbindungen (in atembarer Form), angegeben als Cd</td><td>Cd</td><td>1</td></tr>
@@ -1865,7 +1865,7 @@ Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen die Wert
 
 Diagramm:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image1.png)
 
 ### 474 Messungen
 
@@ -2723,7 +2723,7 @@ Wird eine Einzelfeuerung abwechselnd mit verschiedenen Brennstoffen betrieben, s
 
 <sup>2</sup> Der Mischgrenzwert wird nach der folgenden Formel berechnet:
 
-G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image3.png)</sub> + .... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image4.png)</sub>
+G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image3.png)</sub> + .... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image4.png)</sub>
 
 Dabei bedeuten:
 
@@ -3055,7 +3055,7 @@ In Gasen nach Ziffer 41 Buchstaben a und b darf der Schwefelgehalt den Wert von 
 <table>
 <tr><td>Bioethanolgehalt</td><td>% (*V/V*)</td><td>1,0</td><td>2,0</td><td>3,0</td><td>4,0</td><td>5,0</td><td>6,0</td><td>7,0</td><td>8,0</td><td>9,0</td><td>10,0</td></tr>
 <tr><td>Maximal zulässige Dampfdruckabweichung<sup>a</sup></td><td>kPa</td><td>3,7</td><td>6,0</td><td>7,2</td><td>7,8</td><td>8,0</td><td>8,0</td><td>7,9</td><td>7,9</td><td>7,8</td><td>7,8</td></tr>
-<tr><td colspan="12">Hinweise: <sup>a</sup> Zwischenwerte werden durch lineare Interpolation zwischen dem unmittelbar über und dem unmittelbar unter dem Bioethanolgehalt liegenden Wert ermittelt.</td></tr>
+<tr><td colspan="12">*Hinweise:* <sup>a</sup> Zwischenwerte werden durch lineare Interpolation zwischen dem unmittelbar über und dem unmittelbar unter dem Bioethanolgehalt liegenden Wert ermittelt.</td></tr>
 </table>
 
 <sup>2</sup> Flugbenzin darf gewerbsmässig nur eingeführt oder in Verkehr gebracht werden, wenn der Bleigehalt höchstens 0,56 g/l und der Benzolgehalt höchstens 1 Prozent (% *V/V*) beträgt. In Verkehr gebrachtes Flugbenzin muss blau eingefärbt sein.
@@ -3223,15 +3223,15 @@ S (µg/m<sup>3</sup>) = S-Wert (vgl. Ziff. 3 und 9)
 
 Diagramm 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image5.png)
 
 ### Bestimmung des Korrekturfaktors g für Bebauung und Bewuchs
 
 Diagramm 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image6.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20200401/de/xml/image/image7.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image7.png)</sub>
 
 I = Höhe des höchsten massgeblichen Hindernisbereiches (Ziff. 5)
 
