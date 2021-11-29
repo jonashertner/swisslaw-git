@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-11-24
+version: 2021-11-30
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211124/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211124-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211130/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211130-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211130/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211124/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 24. November 2021)
+vom 4. Juni 2021 (Stand am 30. November 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -261,13 +261,12 @@ Alle Covid-19-Zertifikate enthalten die folgenden Angaben nach Anhang 1:
 In menschenlesbarer Form enthalten Covid-19-Zertifikate zusätzlich die folgenden Angaben:
 
 - a. einen allgemeinen Hinweis zur Bedeutung des Zertifikats nach Anhang 1 Ziffer 3;
-- b.[^12-2] wenn es sich um ...[^12-3], ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 3 ...[^12-4] handelt: einen Hinweis auf die beschränkte zeitliche und örtliche Gültigkeit des Zertifikats nach Anhang 1 Ziffer 4.[^12-5]
+- b.[^12-2] wenn es sich um ein Covid-19-Impfzertifikat nach Artikel 15 Absatz 3, ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 3 ...[^12-3] handelt: einen Hinweis auf die beschränkte zeitliche und örtliche Gültigkeit des Zertifikats nach Anhang 1 Ziffer 4.[^12-4]
 
 [^12-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^12-2]: Berichtigung vom 24. Nov. 2021 ([AS 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: Tritt am 30. Nov. 2021 in Kraft ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-4]: Tritt am 14. Dez. 2021 in Kraft ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-5]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-3]: Tritt am 14. Dez. 2021 in Kraft.
+[^12-4]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## 4. Abschnitt: Covid-19-Impfzertifikate
 
@@ -342,7 +341,10 @@ Covid-19-Impfzertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Z
 
 <sup>2</sup> Die Gültigkeit beginnt frühestens am Tag der Verabreichung der letzten Dosis, sofern der Impfstoff nach den Anforderungen von Anhang 2 vollständig verimpft wird.[^15-1]
 
+<sup>3</sup> Covid-19-Impfzertifikate für Impfstoffe, die weder in der Schweiz noch für die EU, aber gemäss dem «WHO Emergency Use Listing» zugelassen sind, sowie für deren Lizenzprodukte, sind für Personen, die nicht einer der Personenkategorien nach Artikel 13 Absatz 2<sup>ter</sup> angehören, nur in der Schweiz und für höchstens 30 Tage ab der Ausstellung gültig; die Gültigkeit endet jedoch in jedem Fall gemäss den Bestimmungen von Anhang 2 Ziffer 1.2.[^15-2]
+
 [^15-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^15-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 30. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## 5. Abschnitt: Covid-19-Genesungszertifikate
 
@@ -509,13 +511,11 @@ Das BIT betreibt ein Informationssystem, das dazu dient, Signaturzertifikate zur
 
 Für folgende Covid-19-Zertifikate werden Signaturzertifikate nicht an ausländische Systeme geliefert:
 
-- a.[^25-1] ...
+- a. Covid-19-Impfzertifikate nach Artikel 15 Absatz 3;
 - b. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3;
-- c.[^25-2] ... .[^25-3]
+- c. ... .[^25-1]
 
-[^25-1]: Tritt am 30. Nov. 2021 in Kraft ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^25-2]: Tritt am 14. Dez. 2021 in Kraft ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^25-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^25-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov., Bst. a seit 30. Nov. und Bst. c seit 14. Dez. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
 
 #### Art. 26
 
@@ -677,7 +677,7 @@ Anhang 1*[^t-1]*
 
 ## Allgemeiner Inhalt der Covid-19-Zertifikate
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) und gemäss Ziff. II Abs. 1 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) und Ziff. I der V des EDI vom 29. Nov. 2021, in Kraft seit 30. Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
 
 ### 1 Angaben zur Inhaberin oder zum Inhaber
 
@@ -686,7 +686,7 @@ Anhang 1*[^t-1]*
 
 ### 2 Angaben zum Land, in dem der Impfstoff verabreicht oder der Test durchgeführt wurde, sowie Angaben zum Herausgeber
 
-- a. Land, in dem der Impfstoff verabreicht oder der Test durchgeführt wurde
+- a. Land, in dem der Impfstoff verabreicht oder der Test durchgeführt wurde, oder, falls diese Information nicht vorhanden ist und die Impfung oder der Test von einer internationalen Organisation durchgeführt wurde, ein international anerkannter Code für diese Organisation
 - b. Herausgeber («Bundesamt für Gesundheit»)
 
 ### 3 Hinweis bei menschenlesbaren Covid-19-Zertifikaten
@@ -863,7 +863,7 @@ Anhang 5*[^t-5]*
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-5]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) und Ziff. I der V des EDI vom 22. Nov. 2021, in Kraft seit 23. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)).
+[^t-5]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) und Ziff. I der V des EDI vom 22. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) und vom 29. Nov. 2021, in Kraft seit 30. Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -907,5 +907,7 @@ Anhang 5*[^t-5]*
   Anerkannt sind die Impf- und Testzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von einem der folgenden Länder ausgestellt wurden:
 
   - – Neuseeland
+  - – Singapur
+  - – Togo
 
 - 2\.3 Impfzertifikate sind nur anerkannt, wenn sie für Impfungen mit einem Impfstoff ausgestellt wurden, der die Anforderungen nach Ziffer 1.2 erfüllt.

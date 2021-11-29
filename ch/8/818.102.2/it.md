@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-11-24
+version: 2021-11-30
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211124/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211124-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211130/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211130-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211130/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211124/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 24 novembre 2021)
+del 4 giugno 2021 (Stato 30 novembre 2021) (Stato 30 novembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -263,13 +263,12 @@ Tutti i certificati COVID-19 contengono le seguenti informazioni di cui all’al
 I certificati COVID-19 leggibili senza mezzi ausiliari contengono inoltre le seguenti informazioni:
 
 - a. un’indicazione generale sulla rilevanza del certificato secondo l’allegato 1 numero 3;
-- b.[^12-2] per i ... [^12-3] certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3 ...[^12-4]: un’indicazione sulla validità temporanea e locale del certificato secondo l’allegato 1 numero 4.[^12-5]
+- b.[^12-2] per i certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3, i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3 [...[^12-3]]: un’indicazione sulla validità temporanea e locale del certificato secondo l’allegato 1 numero 4.[^12-4]
 
 [^12-1]: Abrogata dal n. I dell’O del 3 nov. 2021, con effetto dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^12-2]: Correzione del 24 nov. 2021 ([RU 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: In vigore il 30 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-4]: In vigore il 14 dic. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-5]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-3]: In vigore dal 14 dic. 2021.
+[^12-4]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Sezione 4: Certificati di vaccinazione COVID-19
 
@@ -344,7 +343,10 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di va
 
 <sup>2</sup> La validità inizia al più presto il giorno della somministrazione dell’ultima dose a condizione che la vaccinazione sia avvenuta in modo completo secondo i requisiti di cui all’allegato 2.[^15-1]
 
+<sup>3</sup> Per le persone non appartenenti a una delle categorie di cui all’articolo 13 capoverso 2<sup>ter</sup>, i certificati di vaccinazione COVID-19 per i vaccini non omologati in Svizzera, né autorizzati nell’UE, ma autorizzati conformemente all’elenco per l’uso di emergenza dell’OMS, nonché per i loro prodotti su licenza sono validi solo in Svizzera e al massimo 30 giorni dall’emissione; in ogni caso la validità cessa secondo le disposizioni di cui all’allegato 2 numero 1.2.[^15-2]
+
 [^15-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 3 lug. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^15-2]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 30 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Sezione 5: Certificati di guarigione dalla COVID-19
 
@@ -513,13 +515,11 @@ L’UFIT gestisce in un sistema d’informazione i certificati di firma utilizza
 
 Per i seguenti certificati COVID-19 i certificati di firma utilizzati per la verifica non sono forniti a sistemi esteri:
 
-- a.[^25-1] ...
+- a. certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3;
 - b. certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3;
-- c.[^25-2] ...[^25-3]
+- c. ...[^25-1]
 
-[^25-1]: In vigore dal 30 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750))
-[^25-2]: In vigore dal 14 dic. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750))
-[^25-3]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^25-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021, la lett. a il 30 nov. 2021, la lett. c il 14 dic. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
 
 #### Art. 26
 
@@ -681,7 +681,7 @@ Allegato 1*[^t-1]*
 
 ## Contenuto generale dei certificati COVID-19
 
-[^t-1]: Aggiornato dai n. II delle O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) e dal n. II cpv. 1 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-1]: Aggiornato dai n. II delle O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) e dal n. I dell’O del DFI del 29 nov. 2021, in vigore dal 30 nov. 2021 ([RU 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
 
 ### 1 Dati relativi al titolare
 
@@ -690,8 +690,8 @@ Allegato 1*[^t-1]*
 
 ### 2 Informazioni sul Paese in cui è stato somministrato il vaccino o eseguito il test e informazioni sull’editore
 
-- a. Paese in cui è stato somministrato il vaccino o eseguito il test
-- b. Editore («Ufficio federale della sanità pubblica»)
+- a. Paese in cui è stato somministrato il vaccino o eseguito il test oppure, se questa informazione non è disponibile e la vaccinazione o il test è stato eseguito da un’organizzazione internazionale, un codice riconosciuto a livello internazionale per questa organizzazione.
+- b. Editore («Ufficio federale della sanità pubblica»).
 
 ### 3 Nota contenuta nei certificati COVID-19 leggibili senza mezzi ausiliari
 
@@ -870,7 +870,7 @@ Allegato 5*[^t-5]*
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-5]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II dell’O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), dal n. I del O del DFI del 22 nov. 2021, in vigore dal 23 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)).
+[^t-5]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II dell’O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), dal n. I delle O del DFI del 22 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) e del 29 nov. 2021, in vigore dal 30 nov. 2021 ([RU 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
@@ -914,5 +914,7 @@ Allegato 5*[^t-5]*
   Sono riconosciuti i certificati di vaccinazione e di test che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi in uno dei seguenti Paesi:
 
   - – Nuova Zelanda
+  - – Singapore
+  - – Togo
 
 - 2\.3 I certificati di vaccinazione sono riconosciuti soltanto se sono stati emessi per le vaccinazioni con un vaccino che soddisfa i requisiti di cui al numero 1.2.

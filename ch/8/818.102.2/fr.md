@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-11-24
+version: 2021-11-30
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211124/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211124-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211130/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211130-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211130/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211124/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 24 novembre 2021)
+du 4 juin 2021 (Etat le 30 novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -261,13 +261,12 @@ Tous les certificats COVID-19 contiennent les indications suivantes, conforméme
 Dans leur forme lisible par l’homme, les certificats COVID-19 contiennent, en plus, les indications suivantes:
 
 - a. une remarque générale sur la signification du certificat visé à l’annexe 1, ch. 3;
-- b.[^12-2] lorsqu’il s’agit […][^12-3], d’un certificat de guérison COVID-19 au sens de l’art. 16, al. 3 […][^12-4]: une remarque sur la validité temporelle et locale limitée du certificat au sens de l’annexe 1, ch. 4.[^12-5]
+- b.[^12-2] lorsqu’il s’agit d’un certificat de vaccination COVID-19 au sens de l’art. 15, al. 3, d’un certificat de guérison COVID-19 au sens de l’art. 16, al. 3, [...[^12-3]]: une remarque sur la validité temporelle et locale limitée du certificat au sens de l’annexe 1, ch. 4.[^12-4]
 
 [^12-1]: Abrogée par le ch. I de l’O du 3 nov. 2021, avec effet au 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^12-2]: Erratum du 24 nov. 2021 ([RO 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: Entre en vigueur le 30 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-4]: Entre en vigueur le 14 déc. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-5]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-3]: En vigueur le 14 déc. 2021.
+[^12-4]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Section 4 Certificats de vaccination COVID-19
 
@@ -342,7 +341,10 @@ Les certificats de vaccination COVID-19 contiennent, en plus du contenu généra
 
 <sup>2</sup> La période de validité commence au plus tôt le jour où la dernière dose est administrée, pour autant que le vaccin ait été administré entièrement conformément aux exigences visées à l’annexe 2.[^15-1]
 
+<sup>3</sup> Les certificats de vaccination COVID-19 établis pour les vaccins qui ne sont autorisés ni en Suisse ni pour l’UE, mais qui ont obtenu une autorisation sur la base de la liste des situations d’urgence de l’OMS et pour leurs produits sous licence, sont valables uniquement en Suisse pour les personnes n’appartenant pas à l’une des catégories de personnes visées à l’art. 13, al. 2<sup>ter</sup>, et pendant 30 jours au plus à partir de la date d’établissement; leur durée de validité s’éteint toutefois dans tous les cas conformément aux dispositions de l’annexe 2, ch. 1.2.[^15-2]
+
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^15-2]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 30 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Section 5 Certificats de guérison COVID-19
 
@@ -510,13 +512,11 @@ L’OFIT exploite un système d’information qui sert à gérer les certificats
 
 Les certificats de signature ne sont pas livrés aux systèmes étrangers pour les certificats COVID-19 suivants:
 
-- a.[^25-1] …
+- a. les certificats de vaccination COVID visés à l’art. 15, al. 3;
 - b. les certificats de guérison COVID-19 visés à l’art. 16, al. 3;
-- c.[^25-2] … .[^25-3]
+- c. … .[^25-1]
 
-[^25-1]: Entre en vigueur le 30 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^25-2]: Entre en vigueur le 14 déc. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^25-3]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^25-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021, let. a depuis le 30 nov. 2021, let. c depuis le 14 déc. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
 
 #### Art. 26
 
@@ -678,7 +678,7 @@ Annexe 1*[^t-1]*
 
 ## Contenu général des certificats COVID-19
 
-[^t-1]: Mise à jour par le ch. II des O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) et le ch. II al. 1 de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-1]: Mise à jour par le ch. II des O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), le ch. II al. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) et le ch. I de l’O du DFI du 29 nov. 2021, en vigueur depuis le 30 nov. 2021 ([RO 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
 
 ### 1 Indications concernant le titulaire
 
@@ -687,8 +687,8 @@ Annexe 1*[^t-1]*
 
 ### 2 Indications concernant le pays dans lequel le vaccin a été administré ou dans lequel le test a été effectué, et indications sur l’émetteur
 
-- a. Pays dans lequel le vaccin a été administré ou dans lequel le test a été effectué
-- b. Éditeur («Office fédéral de la santé publique»)
+- a. Pays dans lequel le vaccin a été administré ou dans lequel le test a été effectué ou, si cette information n’est pas disponible et que la vaccination ou le test a été effectué par une organisation internationale, le code reconnu à l’échelle internationale de cette organisation.
+- b. Éditeur («Office fédéral de la santé publique»).
 
 ### 3 Remarque à faire figurer sur les certificats COVID-19 lisibles par l’homme
 
@@ -867,7 +867,7 @@ Annexe 5*[^t-5]*
 
 ## Liste des certificats étrangers reconnus
 
-[^t-5]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) et le ch. I de l’O du DFI du 22 nov. 2021, en vigueur depuis le 23 nov. 2021 ([RO 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)).
+[^t-5]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), le ch. I des l’O du DFI du 22 nov. 2021 ([RO 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) et du 29 nov. 2021, en vigueur depuis le 30 nov. 2021 ([RO 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 
@@ -908,8 +908,10 @@ Annexe 5*[^t-5]*
 
 - 2\.2
 
-  Sont reconnus les certificats de vaccination ou de test qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par l’un des États suivants:
+  Sont reconnus les certificats de vaccination ou de test qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par l’un des pays suivants:
 
   - – Nouvelle-Zélande
+  - – Singapour
+  - – Togo
 
 - 2\.3 Les certificats de vaccination ne sont reconnus que s’ils ont été établis pour un vaccin conforme aux exigences du ch. 1.2.

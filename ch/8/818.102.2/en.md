@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-11-24
+version: 2021-11-30
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211124/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211124-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211124/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211130/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211130-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211130/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 24 November 2021)
+of 4 June 2021 (Status as of 30 November 2021)
 
 The Swiss Federal Council,
 
@@ -263,13 +263,12 @@ All COVID-19 certificates shall contain the following information in accordance 
 COVID-19 certificates in human-readable form shall also contain the following information:
 
 - a. a general statement on the meaning of the certificate in accordance with Annex 1 number 3;
-- b.[^12-2] in the case of ...[^12-3] a COVID-19 recovery certificate pursuant to Article 16 paragraph 3 ...[^12-4]: a reference to the certificate being valid for a limited period and only in certain geographical areas.[^12-5]
+- b.[^12-2] in the case of a COVID-19 vaccination certificate pursuant to Article 15 paragraph 3 a COVID-19 recovery certificate pursuant to Article 16 paragraph 3 ...[^12-3]: a reference to the certificate being valid for a limited period and only in certain geographical areas.[^12-4]
 
 [^12-1]: Repealed by No I of the O of 3 Nov. 2021, with effect from 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^12-2]: Correction of 24 Nov. 2021 ([AS 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: Comes into force on 30 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-4]: Comes into force on 14 Dec. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-5]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-3]: Comes into force on 14 Dec. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-4]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Section 4 COVID-19 Vaccination Certificates
 
@@ -343,7 +342,10 @@ In addition to the general content of all COVID-19 certificates, COVID-19 vaccin
 
 <sup>2</sup> The period of validity begins at the earliest on the day on which the final dose is administered, provided the vaccine is administered in full in accordance with the requirements of Annex 2.[^15-1]
 
+<sup>3</sup> In the case of persons that do not belong to any of the categories specified in Article 13 paragraph 2<sup>ter</sup>, COVID-19 vaccination certificates for vaccines and their licensed products that are neither authorised for Switzerland nor for the EU but which are permitted under the WHO Emergency Use Listing are valid only in Switzerland and for a maximum of 30 days from issuance; the validity of such certificates otherwise ends in accordance with the provisions of Annex 2 number 1.2.[^15-2]
+
 [^15-1]: Amended by No I of the O of 30 June 2021, in force since 3 July 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^15-2]: Inserted by No I of the O of 3 Nov. 2021, in force since 30 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Section 5 COVID-19 Recovery Certificates
 
@@ -510,13 +512,11 @@ The FOITT shall operate an information system that is used to do the following w
 
 Signature certificates for the following COVID-19 certificates are not delivered to foreign systems:
 
-- a.[^25-1] ...;
+- a. COVID-19 vaccination certificates pursuant to Article 15 paragraph 3;
 - b. COVID-19 recovery certificates pursuant to Article 16 paragraph 3;
-- c.[^25-2] ... .[^25-3]
+- c. ... .[^25-1]
 
-[^25-1]: Comes into force on 30 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^25-2]: Comes into force on 14 Dec. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^25-3]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^25-1]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov., let. a since 30 Nov. and let. c since 14 Dec. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
 
 #### Art. 26
 
@@ -678,7 +678,7 @@ Annex 1*[^t-1]*
 
 ## General content of COVID-19 certificates
 
-[^t-1]: Revised by No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) and by No II para. 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-1]: Revised by No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) and No I of the FDHA O of 29 Nov. 2021, in force since 30 Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
 
 ### 1 Details of the holder
 
@@ -687,7 +687,7 @@ Annex 1*[^t-1]*
 
 ### 2 Details of the country in which the vaccine was administered or the test was carried out, and details of the electronic seal issuer
 
-- a. Country in which the vaccine was administered or the test was carried out
+- a. Country in which the vaccine was administered or the test was carried out or, if this information is not available and the vaccination was administered or the test carried out by an international organisation, an internationally recognised code for this organisation
 - b. Electronic seal issuer (Federal Office of Public Health)
 
 ### 3 Statement for COVID-19 certificates in a human-readable form
@@ -702,7 +702,7 @@ Before travelling, please check the applicable public health measures and relate
 
 ### 4 Statement for certificates that are only valid in Switzerland
 
-«This certificate is only valid in Switzerland.»
+“This certificate is only valid in Switzerland.”
 
 Annex 2*[^t-2]*
 
@@ -866,7 +866,7 @@ Annex 5*[^t-5]*
 
 ## List of recognised foreign certificates
 
-[^t-5]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), No I of the FDHA O of 24 Sept. 2021 ([AS 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)), No I of the O of 1 Nov. 2021 ([AS 2021 640](https://fedlex.data.admin.ch/eli/oc/2021/640)) and of 22 Nov. 2021, in force since 23 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)).
+[^t-5]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), No I of the FDHA O of 22 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) and of 29 Nov. 2021, in force since 30 Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -908,5 +908,7 @@ Annex 5*[^t-5]*
   Vaccination and test certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following countries are recognised:
 
   - – New Zealand
+  - – Singapore
+  - – Togo
 
 - 2\.3 Vaccination certificates are only recognised if they have been issued for vaccinations with a vaccine that meets the requirements of number 1.2.
