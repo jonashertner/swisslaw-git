@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: fr
-version: 2021-11-16
+version: 2021-11-30
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211116/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211116-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211116/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211130/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211130-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211130/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211116/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 23 juin 2021 (Etat le 16 novembre 2021)
+du 23 juin 2021 (Etat le 30 novembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -693,7 +693,7 @@ Annexe 2*[^t-2]*
 
 ## Prescriptions concernant les exemptions de l’obligation de porter un masque et de la quarantaine-contact pour les personnes vaccinées et guéries
 
-[^t-2]: Mise à jour par l’annexe ch. 4 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) et l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-2]: Mise à jour par l’annexe ch. 4 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), l’annexe ch. 2 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) et le ch. II de l’O du DFI du 30 nov. 2021, en vigueur depuis le 30 nov. 2021 ([RO 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
 
 ### 1 Personnes vaccinées
 
@@ -712,7 +712,7 @@ Annexe 2*[^t-2]*
 
 Les résidents guéris des institutions médico-sociales sont exemptés de l’obligation de porter un masque (art. 6, al. 5, let. b) et les personnes guéries sont exemptées de la quarantaine-contact (art. 7, al. 2, let. b) pendant la durée suivantes:
 
-- a. dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2: du 11<sup>e</sup> au 365<sup>e</sup> jour à compter de la confirmation de leur infection;
+- a. dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2 ou d’un test rapide SARS-CoV-2 selon le «standard diagnostic»: du 11<sup>e</sup> au 365<sup>e</sup> jour à compter de la confirmation de leur infection;
 - b. dans le cas d’une analyse des anticorps contre le SARS-CoV-2 au sens de l’art. 16, al. 3, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex2-lvlu1-lvl2-1]: pendant la durée de validité du certificat.
 
 [^annex2-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)

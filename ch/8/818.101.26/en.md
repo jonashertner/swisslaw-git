@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2021-11-16
+version: 2021-11-30
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211116/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211116-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211116/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211130/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211130-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211130/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 16 November 2021)
+of 23 June 2021 (Status as of 30 November 2021)
 
 The Swiss Federal Council,
 
@@ -696,7 +696,7 @@ Annex 2*[^t-2]*
 
 ## Requirements for an exemption from the requirement to wear a mask and from contact quarantine for persons who have been vaccinated or who have recovered
 
-[^t-2]: Revised by Annex No 4 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) and Annex No 2 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-2]: Revised by Annex No 4 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Annex No 2 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) and No II of the FDHA O of 29 Nov. 2021, in force since 30 Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
 
 ### 1 Persons who have been vaccinated
 
@@ -715,7 +715,7 @@ Annex 2*[^t-2]*
 
 Residents of socio-medical institutions who have recovered are exempt from the requirement to wear a mask (Art. 6 para. 5 let. b) and persons who have recovered are exempt from contact quarantine (Art. 7 para. 2 let. b) for the following periods:
 
-- a. when based on a molecular-biological analysis for Sars-CoV-2: for 365 days from the eleventh day after confirmation of infection;
+- a. when based on a molecular-biological analysis for Sars-CoV-2 or a Sars-CoV-2-rapid test according to the diagnostic standard: from the 11th to the 365th day after confirmation of infection;
 - b. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex2-lvlu1-lvl2-1]: for the term of validity of the certificate concerned.
 
 [^annex2-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
