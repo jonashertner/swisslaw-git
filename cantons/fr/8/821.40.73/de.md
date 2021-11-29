@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Verordnung über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus
 language: de
-version: 2021-09-01
-valid_until: 2021-11-29
-version_adopted: 2021-08-24
+version: 2021-11-30
+valid_until: 2022-02-21
+version_adopted: 2021-11-30
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/de/versions/6901/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6991/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6901/pdf_file"
 
 COVID-19, kantonale Massnahmen – V
 
-vom 10.11.2020 (Fassung in Kraft getreten am 01.09.2021)
+vom 10.11.2020 (Fassung in Kraft getreten am 30.11.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -122,7 +122,7 @@ beschliesst:
 
 <sup>2</sup> Zu den Risikoinstitutionen im Sinn dieser Verordnung gehören Spitäler, Kliniken, das Geburtshaus, Ambulanzdienste, Einrichtungen und Tagesstrukturen für ältere Personen, Hilfs- und Hauspflegedienste sowie Sondereinrichtungen für Menschen mit Behinderung und für Suchtkranke.
 
-<sup>3</sup> Für Besuche in den Risikoinstitutionen wird das Covid-19-Zertifikat empfohlen. Die Risikoinstitute können das Zertifikat verlangen und müssen Ausnahmen vorsehen, namentlich bei Situationen am Lebensende und bei Notfällen.
+<sup>3</sup> Für Besuche in den Risikoinstitutionen ist das Covid-19-Zertifikat obligatorisch. Die Risikoinstitutionen müssen Ausnahmen vorsehen, namentlich bei Situationen am Lebensende und bei Notfällen.
 
 #### Art. 4a
 
@@ -225,5 +225,11 @@ beschliesst:
 <sup>1</sup> Diese Massnahmen gelten bis zu ihrer Aufhebung. Je nach gesundheitlicher Situation können die Massnahmen angepasst werden. Allfällige spätere bundesrechtliche Massnahmen bleiben vorbehalten.
 
 <sup>2</sup> Sie ersetzen die Massnahmen gemäss Beschluss vom 3. November 2020 über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus, der im Amtsblatt vom 6. November 2020 veröffentlicht wurde.
+
+#### Art. 15
+
+**Übergangsbestimmung - Vergütung serologischer Tests**
+
+<sup>1</sup> Bis zum 31. Dezember 2021 werden serologische Tests Personen vergütet, die sich innert eines Monats nach dem serologischen Test impfen lassen.
 
 2020\_145

@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
 language: fr
-version: 2021-09-01
-valid_until: 2021-11-29
-version_adopted: 2021-08-24
+version: 2021-11-30
+valid_until: 2022-02-21
+version_adopted: 2021-11-30
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6901/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6991/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6901/pdf_file"
 
 COVID-19, mesures cantonales – O
 
-du 10.11.2020 (version entrée en vigueur le 01.09.2021)
+du 10.11.2020 (version entrée en vigueur le 30.11.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -122,7 +122,7 @@ Arrête:
 
 <sup>2</sup> Sont considérées comme institutions à risque au sens de la présente ordonnance les hôpitaux, les cliniques, la maison de naissance, les services d'ambulances, les établissements et foyers de jour pour personnes âgées, les services d'aide et de soins à domicile ainsi que les institutions spécialisées pour les personnes en situation de handicap et souffrant d'addiction.
 
-<sup>3</sup> Le certificat COVID-19 est recommandé pour les visites dans les institutions à risque. Celles-ci peuvent en exiger la présentation et doivent prévoir des exceptions, notamment pour les situations de fin de vie et les urgences.
+<sup>3</sup> Le certificat COVID-19 est obligatoire pour les visites dans les institutions à risque. Ces dernières doivent prévoir des exceptions, notamment pour les situations de fin de vie et les urgences.
 
 #### Art. 4a
 
@@ -225,5 +225,11 @@ Arrête:
 <sup>1</sup> Les présentes mesures portent effet jusqu'à leur abrogation. En fonction de la situation sanitaire, elles peuvent être adaptées. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
 
 <sup>2</sup> Elles remplacent les mesures consignées dans l'arrêté du 3 novembre 2020, publié dans la Feuille officielle du 6 novembre 2020, concernant les mesures cantonales pour freiner la propagation du coronavirus.
+
+#### Art. 15
+
+**Disposition transitoire – Remboursement des tests sérologiques**
+
+<sup>1</sup> Les tests sérologiques sont remboursés aux personnes qui se vaccinent dans un délai d'un mois après leur test sérologique, jusqu'au 31 décembre 2021.
 
 2020\_145
