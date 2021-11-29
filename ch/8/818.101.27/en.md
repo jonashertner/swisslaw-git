@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 23 June 2021 on Measures to Combat the COVID-19 epidemic in International Travel (COVID-19 Ordinance on International Travel)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: en
-version: 2021-11-29
+version: 2021-11-30
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211129/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211129-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211129/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211130/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211130-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211130/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Travel)**[^t-1]**
 
-of 23 June 2021 (Status as of 29 November 2021)
+of 23 June 2021 (Status as of 30 November 2021)
 
 [^t-1]: RU **2021** 380 Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 (AS **2021** 563).
 
@@ -347,7 +347,7 @@ Annex 1*[^t-2]*
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Amended by No I of the FDHA O of 3 Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Revised by No II para. 1 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) and No I of the FDHA O of 28 Nov. 2021, in force since 29 Nov. 2021 ([AS 2021 782](https://fedlex.data.admin.ch/eli/oc/2021/782)).
+[^t-2]: Amended by No I of the FDHA O of 3 Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Revised by No II para. 1 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) and No I of the FDHA O of 29 Nov. 2021, in force since 30 Nov. 2021 ([AS 2021 787](https://fedlex.data.admin.ch/eli/oc/2021/787)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions with a variant of the virus of concern that is immune evasive is or the immune evasive status of which is unclear (Art. 2 paras. 1 and 2)
@@ -356,17 +356,21 @@ Annex 1*[^t-2]*
 - – Australia
 - – Belgium
 - – Botswana
+- – Canada
 - – Czech Republic
 - – Denmark
 - – Egypt
 - – Eswatini
 - – Hong Kong
 - – Israel
+- – Japan
 - – Lesotho
 - – Malawi
 - – Mozambique
 - – Namibia
 - – Netherlands (Kingdom of the)
+- – Nigeria
+- – Portugal
 - – South Africa
 - – United Kingdom
 - – Zambia

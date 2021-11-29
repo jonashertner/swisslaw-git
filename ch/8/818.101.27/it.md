@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: "Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l'epidemia di COVID-19 nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 traffico internazionale viaggiatori)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: it
-version: 2021-11-29
+version: 2021-11-30
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211129/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211129-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211129/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211130/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211130-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211130/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211129/it"
 
 (Ordinanza COVID-19 traffico internazionale viaggiatori)**[^t-1]**
 
-del 23 giugno 2021 (Stato 29 novembre 2021)
+del 23 giugno 2021 (Stato 30 novembre 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -345,7 +345,7 @@ Allegato 1*[^t-2]*
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 3 ago. 2021 ([RU 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Aggiornato dal n. II cpv. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dal n. I dell’O del DFI del 28 nov. 2021, in vigore dal 29 nov. 2021 ([RU 2021 782](https://fedlex.data.admin.ch/eli/oc/2021/782)).
+[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 3 ago. 2021 ([RU 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Aggiornato dal n. II cpv. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dal n. I dell’O del DFI del 29 nov. 2021, in vigore dal 30 nov. 2021 ([RU 2021 787](https://fedlex.data.admin.ch/eli/oc/2021/787)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
 ### 1. Stati e regioni con una variante preoccupante del virus immunoevasiva o la cui immunoevasività non è ancora stata chiarita (art. 2 cpv. 1 e 2)
@@ -358,6 +358,8 @@ Belgio
 
 Botswana
 
+Canada
+
 Cechia
 
 Danimarca
@@ -365,6 +367,8 @@ Danimarca
 Egitto
 
 Eswatini
+
+Giappone
 
 Hong Kong
 
@@ -378,7 +382,11 @@ Mozambico
 
 Namibia
 
+Nigeria
+
 Paesi Bassi (Regno dei)
+
+Portogallo
 
 Regno Unito
 
