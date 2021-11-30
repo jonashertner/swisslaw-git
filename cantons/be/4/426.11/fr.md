@@ -1,23 +1,25 @@
 ---
 canton: BE
 number: "426.11"
-title: Loi sur la protection de la nature
+title: "Loi sur la protection de la nature *"
 short: LCPN
 language: fr
-version: 2021-04-01
-valid_until: 2021-11-30
-version_adopted: 2021-02-17
+version: 2021-12-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-15
 adopted: 1992-09-15
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/426.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2165/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2422/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Loi sur la protection de la nature
 
-du 15.09.1992 (état au 01.04.2021)
+(LCPN)
+
+du 15.09.1992 (état au 01.12.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -671,9 +673,23 @@ arrête:
 
 **Compétence et procédure**
 
-<sup>1</sup> Les décisions rendues en application de la législation sur la protection de la nature sont susceptibles de recours devant la Direction de l’économie, de l’énergie et de l’environnement.
+<sup>1</sup> Les décisions d'octroi de contributions en vertu des articles 22 ss ainsi que de dédommagement et d'indemnisation en vertu de l'article 53 qui sont rendues en grand nombre sont susceptibles d'opposition devant le service décisionnaire dans les 30 jours suivant leur notification.
+
+<sup>1a</sup> Les décisions et décisions sur opposition rendues en application de la législation sur la protection de la nature sont susceptibles de recours devant la Direction de l'économie, de l'énergie et de l'environnement dans les 30 jours suivant leur notification.
 
 <sup>2</sup> Au surplus, les dispositions de la loi sur la procédure et la juridiction administratives sont applicables.
+
+#### Art. 60a
+
+**Notification électronique**
+
+<sup>1</sup> Les décisions d'octroi de contributions en vertu des articles 22 ss ainsi que les décisions de dédommagement et d'indemnisation en vertu de l'article 53 qui sont rendues en grand nombre sont notifiées par voie électronique.
+
+<sup>2</sup> Elles sont consultables dans la zone protégée du système d'information agricole. Leur publication est notifiée par un message électronique envoyé à leurs destinataires.
+
+<sup>3</sup> Le délai pour saisir la voie de droit commence à courir dès que la notification de la publication de la décision a été remise par voie électronique.
+
+<sup>4</sup> Le Conseil-exécutif peut, par voie d'ordonnance, prévoir des notifications électroniques pour d'autres procédures en rapport avec les décisions rendues en vertu de l'alinéa 1.
 
 #### Art. 61
 
@@ -722,6 +738,14 @@ arrête:
 <sup>2</sup> L'article 146 de la loi sur les constructions[^66-1] s'applique par analogie à la procédure.
 
 [^66-1]: RSB 721.0
+
+## T1 Disposition transitoire de la modification du 15.06.2021
+
+#### Art. T1-1
+
+<sup>1</sup> Les destinataires de la décision peuvent demander à ce que cette dernière leur soit notifiée sous forme imprimée et non sous forme électronique au sens de l'article 60a pour les années de subventionnement 2021 à 2023.
+
+<sup>2</sup> La demande doit être soumise par écrit, par courrier postal ou électronique, au service compétent de la Direction de l'économie, de l'énergie et de l'environnement d'ici au 15 décembre de l'année de subventionnement.
 
 Berne, le 15 septembre 1992
 

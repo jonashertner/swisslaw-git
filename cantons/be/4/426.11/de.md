@@ -4,20 +4,22 @@ number: "426.11"
 title: Naturschutzgesetz
 short: NSchG
 language: de
-version: 2021-04-01
-valid_until: 2021-11-30
-version_adopted: 2021-02-17
+version: 2021-12-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-15
 adopted: 1992-09-15
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/426.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2165/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Naturschutzgesetz
 
-vom 15.09.1992 (Stand 01.04.2021)
+(NSchG)
+
+vom 15.09.1992 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -671,9 +673,23 @@ beschliesst:
 
 **Zuständigkeit und Verfahren**
 
-<sup>1</sup> Gegen Verfügungen gestützt auf die Naturschutzgesetzgebung kann bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen über die Ausrichtung von Beiträgen nach Artikel 22 ff. sowie von Abgeltungen und Entschädigungen nach Artikel 53, die als Massenverfügungen ergehen, kann innert 30 Tagen seit Eröffnung bei der verfügenden Stelle Einsprache erhoben werden.
+
+<sup>1a</sup> Gegen Verfügungen und Einspracheverfügungen gestützt auf die Naturschutzgesetzgebung kann innert 30 Tagen seit Eröffnung bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde geführt werden.
 
 <sup>2</sup> Im Übrigen gilt das VRPG.
+
+#### Art. 60a
+
+**Elektronische Eröffnung**
+
+<sup>1</sup> Die Verfügungen über die Ausrichtung von Beiträgen nach Artikel 22 ff. sowie von Abgeltungen und Entschädigungen nach Artikel 53, die als Massenverfügungen ergehen, werden auf dem elektronischen Weg eröffnet.
+
+<sup>2</sup> Sie sind im geschützten Bereich des Agrarinformationssystems abrufbar. Ihre Eröffnung erfolgt durch eine elektronische Mitteilung über die Abrufbarkeit an die Verfügungsadressatinnen und -adressaten.
+
+<sup>3</sup> Der Fristenlauf zur Erhebung eines Rechtsmittels beginnt mit dem Zugang der elektronischen Mitteilung über die Abrufbarkeit der Verfügung.
+
+<sup>4</sup> Der Regierungsrat kann die elektronische Eröffnung auch für weitere Verfahren im Zusammenhang mit Verfügungen gemäss Absatz 1 durch Verordnung vorsehen.
 
 #### Art. 61
 
@@ -724,6 +740,14 @@ Gesetz vom 27. August 1981 über Bewirtschaftungsbeiträge[^65-1]
 <sup>2</sup> Für das Verfahren gilt Artikel 146 des Baugesetzes[^66-1] sinngemäss.
 
 [^66-1]: BSG 721.0
+
+## T1 Übergangsbestimmung der Änderung vom 15.06.2021
+
+#### Art. T1-1
+
+<sup>1</sup> Die Verfügungsadressatinnen und -adressaten können für die Beitragsjahre 2021 bis 2023 statt der elektronischen Eröffnung gemäss Artikel 60a eine Eröffnung der Verfügung in Papierform beantragen.
+
+<sup>2</sup> Der Antrag ist bis zum 15. Dezember des Beitragsjahres schriftlich auf dem Postweg oder per E-Mail bei der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion einzureichen.
 
 Bern, 15. September 1992
 
