@@ -1,25 +1,25 @@
 ---
 canton: BE
 number: "102.1"
-title: Gesetz über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel
+title: Gesetz über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne
 short: "Sonderstatutsgesetz, SStG"
 language: de
-version: 2021-01-01
-valid_until: 2021-11-30
-version_adopted: 2020-06-10
+version: 2021-12-01
+valid_until: 2023-12-31
+version_adopted: 2021-03-08
 adopted: 2004-09-13
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/102.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2055/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2644/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel
+# Gesetz über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne
 
 (Sonderstatutsgesetz, SStG)
 
-vom 13.09.2004 (Stand 01.01.2021)
+vom 13.09.2004 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -40,7 +40,7 @@ beschliesst:
 - a innerhalb des Kantons ihre Identität zu bewahren sowie ihre sprachliche und kulturelle Eigenart zu stärken und
 - b aktiv am kantonalen politischen Leben teilzunehmen.
 
-<sup>2</sup> Es bezweckt die Förderung der Zweisprachigkeit im Amtsbezirk Biel und die Stärkung der Situation seiner französischsprachigen Bevölkerung als sprachliche und kulturelle Minderheit.
+<sup>2</sup> Es bezweckt die Förderung der Zweisprachigkeit im Verwaltungskreis Biel/Bienne und die Stärkung der Situation seiner französischsprachigen Bevölkerung als sprachliche und kulturelle Minderheit.
 
 <sup>3</sup> Es bezweckt ausserdem, zur Stärkung des kantonalen Zusammenhalts beizutragen.
 
@@ -51,7 +51,7 @@ beschliesst:
 <sup>1</sup> Mit diesem Gesetz werden errichtet:
 
 - a der Bernjurassische Rat (BJR) [Conseil du Jura bernois, CJB], der die Befugnisse ausübt, die ihm auf Grund des Sonderstatuts für die Bevölkerung des Berner Juras übertragen werden,
-- b der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel (RFB) [Conseil des affaires francophones du district bilingue de Bienne, CAF], der die besonderen Befugnisse ausübt, die der französischsprachigen Minderheit des zweisprachigen Amtsbezirks Biel übertragen sind.
+- b der Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (RFB) [Conseil des affaires francophones de l'arrondissement de Biel/Bienne, CAF], der die besonderen Befugnisse ausübt, die der französischsprachigen Minderheit des Verwaltungskreises Biel/Bienne übertragen sind.
 
 ## 3 Bernjurassischer Rat (BJR)
 
@@ -61,7 +61,7 @@ beschliesst:
 
 **Zusammensetzung, Amtsdauer, Art und Zeitpunkt der Wahl**
 
-<sup>1</sup> Der Bernjurassische Rat zählt 24 Mitglieder, die für eine Dauer von vier Jahren gewählt sind.
+<sup>1</sup> Der BJR zählt 24 Mitglieder, die für eine Dauer von vier Jahren gewählt sind.
 
 <sup>2</sup> Er wird im Verhältniswahlverfahren gewählt.
 
@@ -69,25 +69,26 @@ beschliesst:
 
 #### Art. 4
 
-**Wahlkreise, Mandate, Sitzverteilung**
+**Wahlkreis, Sitzverteilung**
 
-<sup>1</sup> Die Amtsbezirke Courtelary, Moutier und La Neuveville bilden die Wahlkreise.
+<sup>1</sup> Die Verwaltungsregion Berner Jura bildet den Wahlkreis.
 
-<sup>2</sup> Die 24 Mandate werden den Wahlkreisen wie folgt zugeteilt:
-
-- a Vorabzuteilung: Der Wahlkreis La Neuveville erhält drei Mandate.
-- b Hauptverteilung: Die aktuelle Einwohnerzahl der beiden anderen Wahlkreise wird durch 21 geteilt. Jeder dieser Wahlkreise erhält so viele Mandate, wie das Teilungsergebnis in seiner Einwohnerzahl aufgeht.
-- c Restverteilung: Der Wahlkreis mit der grösseren Restzahl erhält das übrig bleibende Mandat. Erreichen beide Wahlkreise die gleiche Restzahl, entscheidet das Los.
+<sup>2</sup> …
 
 <sup>3</sup> Für das Wahlverfahren und die Sitzverteilung kommen die gemäss Gesetzgebung über die politischen Rechte für die Grossratswahlen geltenden Regeln zur Anwendung.
 
 #### Art. 5
 
-**Wahlrecht**
+**Wahlrecht und Wählbarkeit**
 
-<sup>1</sup> Wahlberechtigt sind die in kantonalen Angelegenheiten Stimmberechtigten mit Wohnsitz in einem der drei bernjurassischen Amtsbezirke.
+<sup>1</sup> Wahlberechtigt und wählbar sind
 
-<sup>2</sup> Wählbar sind die in kantonalen Angelegenheiten Stimmberechtigten mit Wohnsitz in einem dieser Amtsbezirke.
+- a die in kantonalen Angelegenheiten Stimmberechtigten mit Wohnsitz in der Verwaltungsregion Berner Jura,
+- b Auslandschweizerinnen und Auslandschweizer, deren Stimmgemeinde im Sinne von Artikel 18 des Bundesgesetzes vom 26. September 2014 über Schweizer Personen und Institutionen im Ausland (Auslandschweizergesetz, ASG)[^5-1] in der Verwaltungsregion Berner Jura liegt.
+
+<sup>2</sup> …
+
+[^5-1]: SR [195.1](https://db.clex.ch/link/Bund/195.1/de)
 
 ### 3.2 Organisation
 
@@ -95,7 +96,7 @@ beschliesst:
 
 **Konstituierung**
 
-<sup>1</sup> Die Staatskanzlei beruft die konstituierende Sitzung des Bernjurassischen Rats ein, nachdem die Wahl erwahrt worden ist.
+<sup>1</sup> Das Generalsekretariat des BJR (Art. 12) beruft die konstituierende Sitzung des BJR ein, nachdem die Wahl erwahrt worden ist.
 
 <sup>2</sup> Die oder der Ratsälteste leitet die konstituierende Sitzung.
 
@@ -103,7 +104,7 @@ beschliesst:
 
 **Mehrheit**
 
-<sup>1</sup> Der Bernjurassische Rat fasst seine Beschlüsse mit der Mehrheit der abgegebenen Stimmen.
+<sup>1</sup> Der BJR fasst seine Beschlüsse mit der Mehrheit der abgegebenen Stimmen.
 
 <sup>2</sup> Bei Stimmengleichheit entscheidet die Präsidentin oder der Präsident.
 
@@ -111,7 +112,7 @@ beschliesst:
 
 **Unvereinbarkeiten**
 
-<sup>1</sup> Dem Bernjurassischen Rat können nicht gleichzeitig angehören
+<sup>1</sup> Dem BJR können nicht gleichzeitig angehören
 
 - a die Mitglieder des Regierungsrates,
 - b die Mitglieder der kantonalen richterlichen Behörden,
@@ -122,55 +123,55 @@ beschliesst:
 
 **Büro**
 
-<sup>1</sup> Der Bernjurassische Rat wählt jährlich aus seiner Mitte eine Präsidentin oder einen Präsidenten, eine Vizepräsidentin oder einen Vizepräsidenten sowie zwei weitere Mitglieder. Sie bilden zusammen das Büro.
+<sup>1</sup> Der BJR wählt jährlich aus seiner Mitte eine Präsidentin oder einen Präsidenten, eine Vizepräsidentin oder einen Vizepräsidenten sowie zwei weitere Mitglieder. Sie bilden zusammen das Büro.
 
 <sup>2</sup> Er sorgt dafür, dass die bestehenden politischen Gruppierungen angemessen im Büro vertreten sind.
 
 #### Art. 10
 
-**Reglement**
+**Organisation und Entschädigung**
 
-<sup>1</sup> Der Bernjurassische Rat legt seine Organisation und die Entschädigung seiner Mitglieder in einem Reglement fest.
+<sup>1</sup> Der BJR legt seine Organisation und die Entschädigung seiner Mitglieder in einem Reglement fest.
 
 #### Art. 11
 
 **Ausstand**
 
-<sup>1</sup> Die Mitglieder des Bernjurassischen Rats treten bei Geschäften, die sie unmittelbar betreffen, in den Ausstand.
+<sup>1</sup> Die Mitglieder des BJR treten bei Geschäften, die sie unmittelbar betreffen, in den Ausstand.
 
 <sup>2</sup> Sie sind insbesondere dann unmittelbar betroffen, wenn sie aus einem Geschäft einen direkten und persönlichen Nutzen ziehen oder einen Nachteil erleiden können.
 
-<sup>3</sup> Sie sind insbesondere dann unmittelbar betroffen, wenn sie aus einem Geschäft einen direkten und persönlichen Nutzen ziehen oder einen Nachteil erleiden können.
+<sup>3</sup> Die Ausstandspflicht gilt für die Vorbereitung, Beratung und Beschlussfassung in den Kommissionen und im Plenum. Der Ausstand wird im Protokoll festgehalten.
 
-<sup>4</sup> In strittigen Fällen entscheidet der Bernjurassische Rat.
+<sup>4</sup> In strittigen Fällen entscheidet der BJR.
 
 #### Art. 12
 
 **Generalsekretariat**
 
-<sup>1</sup> Der Bernjurassische Rat verfügt über ein Generalsekretariat mit Sitz im Berner Jura; er bestimmt den Ort des Sitzes.
+<sup>1</sup> Der BJR verfügt über ein Generalsekretariat mit Sitz im Berner Jura; er bestimmt den Ort des Sitzes.
 
 <sup>2</sup> Er ernennt die Generalsekretärin oder den Generalsekretär. Die Generalsekretärin oder der Generalsekretär ernennt das übrige Personal.
 
-<sup>3</sup> Die Generalsekretärin oder der Generalsekretär und das übrige Personal werden nach den Bestimmungen der kantonalen Personalgesetzgebung angestellt. Sie arbeiten auf Weisung des Bernjurassischen Rats und sind administrativ der Staatskanzlei angegliedert.
+<sup>3</sup> Die Generalsekretärin oder der Generalsekretär und das übrige Personal werden nach den Bestimmungen der kantonalen Personalgesetzgebung angestellt. Sie arbeiten auf Weisung des BJR und sind administrativ der Staatskanzlei angegliedert.
 
-<sup>4</sup> Der Bernjurassische Rat legt die Aufgaben des Generalsekretariats in einem Reglement fest.
+<sup>4</sup> Der BJR legt die Aufgaben des Generalsekretariats in einem Reglement fest.
 
 ### 3.3 Tätigkeitsbericht
 
 #### Art. 13
 
-<sup>1</sup> Der Bernjurassische Rat unterbreitet dem Regierungsrat und der Geschäftsprüfungskommission jährlich einen Tätigkeitsbericht.
+<sup>1</sup> Der BJR unterbreitet dem Regierungsrat, der Geschäftsprüfungskommission und der Kommission für Staatspolitik und Aussenbeziehungen jährlich einen Tätigkeitsbericht.
 
 ### 3.4 Finanzen
 
 #### Art. 14
 
-<sup>1</sup> Der Kanton stellt dem Bernjurassischen Rat und dessen Generalsekretariat die für ihren Betrieb erforderlichen finanziellen Mittel zur Verfügung.
+<sup>1</sup> Der Kanton stellt dem BJR und dessen Generalsekretariat die für ihren Betrieb erforderlichen finanziellen Mittel zur Verfügung.
 
 <sup>2</sup> Diese werden auf Grund der finanziellen Möglichkeiten des Kantons festgelegt und sind im Voranschlag der Staatskanzlei eingestellt.
 
-### 3.5 Befugnisse des Bernjurassischen Rats und Finanzrahmen für den Berner Jura
+### 3.5 Befugnisse des BJR und Finanzrahmen für den Berner Jura
 
 ### 3.5.1 Staatsbeiträge an kulturelle Tätigkeiten
 
@@ -178,21 +179,21 @@ beschliesst:
 
 **Umfang der Befugnisse und Kostenverteilung**
 
-<sup>1</sup> Der Bernjurassische Rat bewilligt an Stelle der Erziehungsdirektion oder einer ihrer untergeordneten Stellen Staatsbeiträge aus dem Kulturförderungsfonds an kulturelle Tätigkeiten im Berner Jura oder mit besonderem Bezug zum Berner Jura, sofern der Beitrag nicht Vorhaben von nationaler, interkantonaler oder gesamtkantonaler Bedeutung dient, mit Ausnahme der interjurassischen Vorhaben.
+<sup>1</sup> Der BJR bewilligt an Stelle der Bildungs- und Kulturdirektion oder einer ihrer untergeordneten Stellen Staatsbeiträge aus dem Kulturförderungsfonds an kulturelle Tätigkeiten im Berner Jura oder mit besonderem Bezug zum Berner Jura, sofern der Beitrag nicht Vorhaben von nationaler, interkantonaler oder gesamtkantonaler Bedeutung dient, mit Ausnahme der interjurassischen Vorhaben.
 
-<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Staatsbeitrags die Befugnis der Erziehungsdirektion, leitet der Bernjurassische Rat das Geschäft mit einem allfälligen Antrag an die zuständige Behörde weiter. Vorbehalten bleibt Absatz 3.
+<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Staatsbeitrags die Befugnis der Bildungs- und Kulturdirektion, leitet der BJR das Geschäft mit einem Antrag zuhanden der zuständigen Behörde an die Direktion weiter. Vorbehalten bleibt Absatz 3.
 
-<sup>3</sup> Der Bernjurassische Rat beschliesst an Stelle des Regierungsrates über Leistungsverträge mit Kulturinstitutionen nach Artikel 22 des Kantonalen Kulturförderungsgesetzes vom 12. Juni 2012 (KKFG[^15-1]), die sich im Berner Jura befinden. Er beschliesst mit den Leistungsverträgen gleichzeitig die damit verbundenen Ausgaben. Er kann von der Kostenverteilung gemäss Artikel 19 KKFG abweichen, wenn die zuständigen Organe der Standortgemeinde und der regionalen Organisationen der Gemeinden zustimmen.
+<sup>3</sup> Der BJR beschliesst an Stelle des Regierungsrates über Leistungsverträge mit Kulturinstitutionen gemäss Artikel 22 des Kantonalen Kulturförderungsgesetzes vom 12. Juni 2012 (KKFG)[^15-1], die sich im Berner Jura befinden. Er beschliesst mit den Leistungsverträgen gleichzeitig die damit verbundenen Ausgaben. Er kann von der Kostenverteilung gemäss Artikel 19 KKFG abweichen, wenn die zuständigen Organe der Standortgemeinde und der regionalen Organisationen der Gemeinden zustimmen.
 
-[^15-1]: BSG 423.11
+[^15-1]: BSG [423.11](https://www.belex.sites.be.ch/data/423.11/de)
 
 #### Art. 16
 
 **Verfahren**
 
-<sup>1</sup> Der Bernjurassische Rat führt das Verwaltungsverfahren in Zusammenarbeit mit der zuständigen Stelle der Erziehungsdirektion durch, die Anträge stellen kann.
+<sup>1</sup> Der BJR führt das Verwaltungsverfahren in Zusammenarbeit mit der zuständigen Stelle der Bildungs- und Kulturdirektion durch, die Anträge stellen kann.
 
-<sup>2</sup> Er hört den Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel an, wenn das Geschäft auch die französischsprachige Bevölkerung des Amtsbezirks Biel betrifft.
+<sup>2</sup> Er hört den RFB an, wenn das Geschäft auch die französischsprachige Bevölkerung des Verwaltungskreises Biel/Bienne betrifft.
 
 #### Art. 17
 
@@ -206,19 +207,21 @@ beschliesst:
 
 **Geschäftsverwaltung**
 
-<sup>1</sup> Die administrative Verwaltung der Geschäfte obliegt der zuständigen Stelle der Erziehungsdirektion.
+<sup>1</sup> Die administrative Verwaltung der Geschäfte obliegt der zuständigen Stelle der Bildungs- und Kulturdirektion.
 
-### 3.5.2 Staatsbeiträge aus dem Lotteriefonds oder aus dem Sportfonds
+### 3.5.2 Beiträge aus dem Lotteriefonds oder aus dem Sportfonds
 
 #### Art. 19
 
 **Umfang der Befugnisse**
 
-<sup>1</sup> Der Bernjurassische Rat verfügt an Stelle der Sicherheitsdirektion bei aus dem Berner Jura stammenden Gesuchen um Staatsbeiträge aus dem Lotteriefonds oder aus dem Sportfonds.
+<sup>1</sup> Der BJR verfügt an Stelle der Sicherheitsdirektion bei aus dem Berner Jura stammenden Gesuchen um Beiträge aus dem Lotteriefonds oder aus dem Sportfonds.
 
 <sup>1a</sup> Vorbehalten bleiben die Bestimmungen gemäss Artikel 50 Absatz 2 und Artikel 66 Absatz 1 des Kantonalen Geldspielgesetzes vom 10. Juni 2020 (KGSG)[^19-1].
 
-<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Beitrags die Ausgabenbefugnis der Direktion, leitet der Bernjurassische Rat das Geschäft mit einem allfälligen Antrag zuhanden der zuständigen Behörde an sie weiter.
+<sup>1b</sup> Der BJR erlässt seine Beitragsbeschlüsse auf der Grundlage eines sportpolitischen Konzepts für den Berner Jura, das er in Zusammenarbeit mit der zuständigen Stelle der Sicherheitsdirektion erstellt.
+
+<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Beitrags die Ausgabenbefugnis der Sicherheitsdirektion, leitet der BJR das Geschäft mit einem Antrag zuhanden der zuständigen Behörde an die Direktion weiter.
 
 [^19-1]: BSG [935.52](https://www.belex.sites.be.ch/data/935.52/de)
 
@@ -226,11 +229,11 @@ beschliesst:
 
 **Finanzrahmen**
 
-<sup>1</sup> Dem Bernjurassischen Rat stehen jährlich ein Teil der Einnahmen des Lotteriefonds sowie ein Teil der Einnahmen des Sportfonds, die jeweils dem Bevölkerungsanteil des Berner Juras an der gesamten Kantonsbevölkerung entsprechen, zur Verfügung.
+<sup>1</sup> Dem BJR stehen jährlich ein Teil der Einnahmen des Lotteriefonds sowie ein Teil der Einnahmen des Sportfonds, die jeweils dem Bevölkerungsanteil des Berner Juras an der gesamten Kantonsbevölkerung entsprechen, zur Verfügung.
 
-<sup>1a</sup> Der Bernjurassische Rat entscheidet jährlich und nach seinem Ermessen über die Höhe der Zuweisungen in den Lotteriefonds und den Sportfonds. Er richtet sich dabei nach Artikel 41 Absatz 1 KGSG und hört vorgängig die Sicherheitsdirektion an.
+<sup>1a</sup> …
 
-<sup>2</sup> Staatsbeiträge im Sinne von Artikel 19 werden den Anteilen entnommen, die dem Bernjurassischen Rat gemäss Absatz 1 zugeteilt sind, ausser wenn sie auf Grund ihrer Höhe in die Ausgabenbefugnis des Grossen Rates fallen.
+<sup>2</sup> Beiträge im Sinne von Artikel 19 werden den Anteilen entnommen, die dem BJR gemäss Absatz 1 zugeteilt sind, ausser wenn sie auf Grund ihrer Höhe in die Ausgabenbefugnis des Grossen Rates fallen.
 
 #### Art. 21
 
@@ -238,11 +241,35 @@ beschliesst:
 
 <sup>1</sup> Artikel 16 und 18 gelten sinngemäss für das Verfahren und die Verwaltung der Geschäfte.
 
+### 3.5.2a Umverteilung der dem Berner Jura zugewiesenen Anteile aus den Lotterieerträgen auf die Lotterie-, Sport- und Kulturförderungsfonds
+
+#### Art. 21a
+
+**Transfers zwischen den Fonds**
+
+<sup>1</sup> Der BJR kann einmal pro Jahr Beträge zwischen dem Lotteriefonds, dem Sportfonds und dem Kulturförderungsfonds transferieren, sofern es sich um Beträge aus den dem Berner Jura zugewiesenen Lotterieerträgen gemäss Artikel 40 Absatz 2 und 3 KGSG handelt.
+
+#### Art. 21b
+
+**Bedingungen**
+
+<sup>1</sup> Der Transfer von Beträgen von einem Fonds zum anderen muss dem Subventionsbedarf der betreffenden Bereiche im Berner Jura entsprechen.
+
+<sup>2</sup> Er darf nicht dazu führen, dass die dem Berner Jura zugewiesene jährliche Speisung eines Fonds gegenüber der vom Regierungsrat gemäss Artikel 41 KGSG festgelegten Speisung um mehr als die Hälfte reduziert wird.
+
+<sup>3</sup> Der BJR unterbreitet dem Regierungsrat seine Transferentscheide zur formellen Genehmigung nach Anhörung der Sicherheitsdirektion und der Bildungs- und Kulturdirektion.
+
+#### Art. 21c
+
+**Bezug zum kantonalen Geldspielgesetz**
+
+<sup>1</sup> Die in Artikel 41 Absatz 1 und 2 KGSG festgelegten maximalen Prozentsätze gelten nicht, wenn Beträge zwischen den Fonds gemäss Artikel 21a transferiert werden.
+
 ### 3.5.3 Konzept für eine allgemeine Kulturpolitik
 
 #### Art. 22
 
-<sup>1</sup> Der Bernjurassische Rat erlässt seine Beitragsverfügungen auf Grund eines Konzepts für eine allgemeine Kulturpolitik.
+<sup>1</sup> Der BJR erlässt seine Beitragsverfügungen auf Grund eines Konzepts für eine allgemeine Kulturpolitik.
 
 <sup>2</sup> Für die Ausarbeitung dieses Konzepts kann er die zuständigen Stellen der kantonalen Verwaltung beiziehen.
 
@@ -252,29 +279,29 @@ beschliesst:
 
 **Umfang der Befugnisse**
 
-<sup>1</sup> Als Organ, das den Berner Jura vertritt, ist der Bernjurassische Rat ermächtigt, bei Geschäften der Schulkoordination mit der französischsprachigen Schweiz und dem Kanton Jura direkt mit den Verwaltungsstellen der Mitgliedkantone der Interkantonalen Erziehungsdirektorenkonferenz der Westschweiz und des Tessins (EDK/ SR+TI) zu verkehren.
+<sup>1</sup> Als Organ, das den Berner Jura vertritt, ist der BJR ermächtigt, bei Geschäften der Schulkoordination mit der französischsprachigen Schweiz und dem Kanton Jura direkt mit den Verwaltungsstellen der Mitgliedkantone der Interkantonalen Erziehungsdirektorenkonferenz der Westschweiz und des Tessins (EDK/ SR+TI) zu verkehren.
 
-<sup>2</sup> Bei Geschäften der Schulkoordination mit der französischsprachigen Schweiz und dem Kanton Jura, die in den Zuständigkeitsbereich der Erziehungsdirektion fallen, beschliessen der Bernjurassische Rat und der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel gemeinsam.
+<sup>2</sup> Bei Geschäften der Schulkoordination mit der französischsprachigen Schweiz und dem Kanton Jura, die in den Zuständigkeitsbereich der Bildungs- und Kulturdirektion fallen, beschliessen der BJR und der RFB gemeinsam.
 
 #### Art. 24
 
-**Behandlung und Geschäftsverwaltung**
+**Behandlung und Verwaltung der Geschäfte**
 
-<sup>1</sup> Der Bernjurassische Rat und der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel behandeln die Geschäfte in Zusammenarbeit mit den zuständigen Stellen der Erziehungsdirektion, die Anträge stellen können.
+<sup>1</sup> Der BJR und der RFB behandeln die Geschäfte in Zusammenarbeit mit den zuständigen Stellen der Bildungs- und Kulturdirektion, die Anträge stellen können.
 
-<sup>2</sup> Die administrative Verwaltung der Geschäfte obliegt den zuständigen Stellen der Erziehungsdirektion.
+<sup>2</sup> Die administrative Verwaltung der Geschäfte obliegt den zuständigen Stellen der Bildungs- und Kulturdirektion.
 
 #### Art. 25
 
-**Beziehungen zwischen den beiden Räten**
+**Beziehung und Zusammenarbeit zwischen den Räten**
 
-<sup>1</sup> Der Bernjurassische Rat und der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel erlassen ein gemeinsames Reglement, das ihre Beziehungen und ihre Zusammenarbeit regelt.
+<sup>1</sup> Der BJR und der RFB erlassen ein gemeinsames Reglement, das ihre Beziehung und Zusammenarbeit regelt.
 
 ### 3.5.5 Ernennung von Vertreterinnen und Vertretern des Berner Juras
 
 #### Art. 26
 
-<sup>1</sup> Der Bernjurassische Rat schlägt die bernjurassischen Vertreterinnen und Vertreter folgender Einrichtungen bindend vor:
+<sup>1</sup> Der BJR schlägt die bernjurassischen Vertreterinnen und Vertreter folgender Einrichtungen bindend vor:
 
 - a Kommissionen, die durch die Gesetzgebung in den Bereichen Mittelschulen, Berufsbildung und Berufsberatung eingesetzt werden,
 - b französischsprachige Kommissionen, die durch die Gesetzgebung über die Kulturförderung eingesetzt werden,
@@ -282,29 +309,31 @@ beschliesst:
 - d Organe der Stiftung «Fondation Mémoires d’Ici»,
 - e gemeinsame interjurassische Einrichtungen,
 - f grenzüberschreitende Einrichtungen,
-- g Projektgruppen des Espace Mittelland.
+- g …
 
 ### 3.5.6 Grenzüberschreitende Beziehungen
 
 #### Art. 27
 
-**Direkte Beziehungen zu benachbarten kantonalen oder regionalen Behörden**
+**Direkte Beziehungen zu benachbarten kantonalen oder regionalen Behörden und Institutionen**
 
-<sup>1</sup> Als Organ, das den Berner Jura vertritt, ist der Bernjurassische Rat ermächtigt, direkt mit den Verwaltungsstellen von benachbarten Kantonen und Regionen zu verkehren, sofern es sich um Geschäfte handelt, welche die Sprache, die Kultur oder die Verwaltung gemeinsamer Institutionen betreffen.
+<sup>1</sup> Als Organ, das den Berner Jura vertritt, ist der BJR ermächtigt, direkt mit den Verwaltungsstellen von benachbarten Kantonen und Regionen, insbesondere des Jurabogens, zu verkehren, sofern es sich um Geschäfte handelt, welche die Sprache, die Kultur oder die Verwaltung gemeinsamer Institutionen betreffen.
+
+<sup>2</sup> Der BJR bzw. dessen Generalsekretärin oder Generalsekretär unterstützt die Staatskanzlei in deren Tätigkeit im Zusammenhang mit den regionalen und interkantonalen französischsprachigen Akteurinnen und Akteuren.
 
 #### Art. 28
 
 **Direkte Beziehungen zur jurassischen Kantonsregierung**
 
-<sup>1</sup> Der Bernjurassische Rat ist bei Geschäften, die gemeinsame Institutionen der Kantone Bern und Jura betreffen, ermächtigt, direkt mit der jurassischen Kantonsregierung zu verkehren.
+<sup>1</sup> Der BJR ist bei Geschäften, die gemeinsame Institutionen der Kantone Bern und Jura betreffen, ermächtigt, direkt mit der jurassischen Kantonsregierung zu verkehren.
 
 #### Art. 29
 
-**Informationspflicht**
+**Informations- und Konsultationspflicht**
 
-<sup>1</sup> Der Bernjurassische Rat informiert den Regierungsrat vorgängig über seine grenzüberschreitenden Beziehungen und hält ihn über sein Vorgehen auf dem Laufenden.
+<sup>1</sup> Der BJR informiert den Regierungsrat und den RFB vorgängig über seine grenzüberschreitenden Beziehungen und hält sie über sein Vorgehen auf dem Laufenden.
 
-<sup>2</sup> Er informiert ausserdem den Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel, wenn auch die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel betroffen ist.
+<sup>2</sup> Er konsultiert vorgängig den RFB, wenn auch die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne betroffen ist oder wenn der RFB darum ersucht.
 
 #### Art. 30
 
@@ -335,47 +364,77 @@ beschliesst:
 
 **Inhalt**
 
-<sup>1</sup> Die politische Mitwirkung umfasst das Recht des Bernjurassischen Rats, zu einer Vorlage im Sinne von Artikel 31 eine Stellungnahme abzugeben und Anträge zu unterbreiten.
+<sup>1</sup> Die politische Mitwirkung umfasst das Recht des BJR, zu einem Gegenstand im Sinne von Artikel 31 eine Stellungnahme abzugeben und Anträge zu unterbreiten.
 
-<sup>2</sup> Der Bernjurassische Rat kann von sich aus zu einem Gegenstand, der für den Berner Jura von allgemeinem Interesse ist, der zuständigen Behörde Anträge unterbreiten.
+<sup>2</sup> Der BJR kann von sich aus zu einem Gegenstand, der für den Berner Jura von allgemeinem Interesse ist, der zuständigen Behörde Anträge unterbreiten.
 
 #### Art. 33
 
 **Ausübung**
 
-<sup>1</sup> Vorlagen, die Gegenstand der politischen Mitwirkung sind, werden dem Bernjurassischen Rat als Entwurf einer Direktion, der Staatskanzlei oder einer parlamentarischen Kommission unterbreitet.
+<sup>1</sup> Vorlagen, die Gegenstand der politischen Mitwirkung sind, werden dem BJR als Entwurf einer Direktion, der Staatskanzlei oder einer parlamentarischen Kommission unterbreitet.
 
-<sup>2</sup> Die Stellungnahme und der Antrag des Bernjurassischen Rats werden der für den Beschluss zuständigen Behörde in einem Abschnitt des Vortrags zur betreffenden Vorlage zur Kenntnis gebracht.
+<sup>2</sup> Die Stellungnahme und der Antrag des BJR werden der für den Beschluss zuständigen Behörde in einem Abschnitt des Vortrags zur betreffenden Vorlage zur Kenntnis gebracht.
 
 <sup>3</sup> Der Regierungsrat regelt die weiteren Einzelheiten der Ausübung der politischen Mitwirkung durch Verordnung.
 
-## 4 Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel (RFB)
+### 3.5.8 Zuweisung von kantonalen Aufgaben an den BJR
+
+#### Art. 33a
+
+**Ersuchen**
+
+<sup>1</sup> Der Regierungsrat kann dem BJR auf dessen Ersuchen hin die Erfüllung einer kantonalen Aufgabe zuweisen, sofern diese
+
+- a einer Direktion oder der Staatskanzlei obliegt,
+- b in einer Verordnung geregelt ist und
+- c das Sonderstatut im Sinne von Artikel 5 der Kantonsverfassung betrifft.
+
+<sup>2</sup> Der BJR konsultiert die entsprechende Direktion oder die Staatskanzlei, bevor er sein Ersuchen dem Regierungsrat vorlegt.
+
+<sup>3</sup> Er konsultiert auch den RFB, wenn die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne davon betroffen ist.
+
+#### Art. 33b
+
+**Beschluss des Regierungsrates**
+
+<sup>1</sup> Entspricht der Regierungsrat dem Ersuchen des BJR, regelt er die Erfüllung der betreffenden Aufgabe durch Verordnung und weist dem BJR die zur Erfüllung dieser Aufgabe notwendigen finanziellen Mittel zu.
+
+<sup>2</sup> Ist die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne von der zugewiesenen Aufgabe betroffen, regelt die Verordnung den Einbezug des RFB bei der Erfüllung dieser Aufgabe.
+
+<sup>3</sup> Ist der Regierungsrat der Auffassung, dass eine Aufgabenzuweisung nicht zweckmässig ist, kann er durch Verordnung vorsehen, dass der BJR von der betreffenden Direktion oder von der Staatskanzlei bei der Erfüllung dieser Aufgabe eingebunden wird.
+
+## 4 Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (RFB)
 
 ### 4.1 Wahl
 
 #### Art. 34
 
-**Zusammensetzung[^34-1]**
+**Zusammensetzung**
 
-<sup>1</sup> Der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel umfasst 15 Mitglieder mit Wohnsitz in Biel oder Leubringen.
+<sup>1</sup> Der RFB umfasst höchstens 18 Mitglieder mit Wohnsitz im Verwaltungskreis Biel/Bienne.
 
-<sup>2</sup> Mindestens zehn Mitglieder sind gemäss Stimmregistereintrag französischsprachig.
+<sup>2</sup> Dreizehn Mitglieder haben ihren Wohnsitz in Biel oder Leubringen. Mindestens neun davon sind gemäss Stimmregistereintrag französischsprachig.
 
-[^34-1]: Die Anwendung dieses Artikels wird gemäss Artikel 2 der Versuchsverordnung vom 21. Juni 2017 über die Erweiterung des Wirkungskreises des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel auf den Verwaltungskreis Biel/Bienne (RFB VV; BSG [102.111.20](https://www.belex.sites.be.ch/data/102.111.20/de)) ([BAG 17-031](https://www.belex.sites.be.ch/frontend/change_documents/1515?locale=de)) ausgesetzt.
+<sup>3</sup> Höchstens fünf Mitglieder haben ihren Wohnsitz in einer der deutschsprachigen Gemeinden des Verwaltungskreises Biel/Bienne. Sie müssen aus mindestens drei verschiedenen Gemeinden stammen.
 
 #### Art. 35
 
 **Wahl**
 
-<sup>1</sup> Die Mitglieder, welche die Einwohnergemeinde Biel vertreten, werden durch die Bieler Stimmberechtigten oder durch den Bieler Stadtrat gewählt. Die Gemeinde legt das Wahlorgan und das Wahlverfahren in einem Reglement fest.
+<sup>1</sup> Die Mitglieder, welche die Einwohnergemeinde Biel/Bienne vertreten, werden durch die Bieler Stimmberechtigten oder durch den Bieler Stadtrat gewählt. Die Gemeinde legt das Wahlorgan und das Wahlverfahren in einem Reglement fest.
 
 <sup>2</sup> Die Mitglieder, welche die Einwohnergemeinde Leubringen vertreten, werden durch die Leubringer Stimmberechtigten gewählt. Die Gemeinde legt das Wahlverfahren in einem Reglement fest.
+
+<sup>3</sup> Die Mitglieder, welche die deutschsprachigen Gemeinden des Verwaltungskreises Biel/Bienne vertreten, werden durch den Verein seeland.biel/bienne gewählt. Der Verein legt das Wahlverfahren in einem Reglement fest.
+
+<sup>4</sup> Die Staatskanzlei richtet dem Verein seeland.biel/bienne alle vier Jahre einen Pauschalbetrag für die Vorbereitung und Durchführung der Wahlen aus.
 
 #### Art. 36
 
 **Amtsdauer**
 
-<sup>1</sup> Die Amtsdauer der Mitglieder des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel entspricht jener der Mitglieder des Bernjurassischen Rats.
+<sup>1</sup> Die Amtsdauer der Mitglieder des RFB entspricht jener der Mitglieder des BJR.
 
 ### 4.2 Organisation
 
@@ -383,17 +442,17 @@ beschliesst:
 
 **Konstituierung**
 
-<sup>1</sup> Die Staatskanzlei beruft die konstituierende Sitzung des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel ein.
+<sup>1</sup> Das Generalsekretariat des RFB beruft die konstituierende Sitzung des RFB ein.
 
 <sup>2</sup> Die oder der Ratsälteste leitet die konstituierende Sitzung.
 
-<sup>3</sup> Der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel wählt aus seiner Mitte eine Präsidentin oder einen Präsidenten sowie eine Vizepräsidentin oder einen Vizepräsidenten.
+<sup>3</sup> Der RFB wählt aus seiner Mitte eine Präsidentin oder einen Präsidenten sowie eine Vizepräsidentin oder einen Vizepräsidenten.
 
 #### Art. 38
 
 **Mehrheit**
 
-<sup>1</sup> Der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel fasst seine Beschlüsse mit der Mehrheit der abgegebenen Stimmen.
+<sup>1</sup> Der RFB fasst seine Beschlüsse mit der Mehrheit der abgegebenen Stimmen.
 
 <sup>2</sup> Bei Stimmengleichheit entscheidet die Präsidentin oder der Präsident.
 
@@ -401,35 +460,33 @@ beschliesst:
 
 **Ausstand**
 
-<sup>1</sup> Für die Mitglieder des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel gelten die Bestimmungen über die Ausstandspflicht gemäss Artikel 11.
+<sup>1</sup> Für die Mitglieder des RFB gelten die Bestimmungen über die Ausstandspflicht gemäss Artikel 11.
 
 #### Art. 40
 
-**Reglement**
+**Organisation und Entschädigung**
 
-<sup>1</sup> Der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel legt seine Organisation und die Entschädigung seiner Mitglieder in einem Reglement fest.
+<sup>1</sup> Der RFB legt seine Organisation und die Entschädigung seiner Mitglieder in einem Reglement fest.
 
 #### Art. 41
 
 **Generalsekretariat**
 
-<sup>1</sup> Der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel verfügt über ein Generalsekretariat mit Sitz in Biel.
+<sup>1</sup> Der RFB verfügt über ein Generalsekretariat mit Sitz in Biel.
 
 <sup>2</sup> Er ernennt die Generalsekretärin oder den Generalsekretär, die bzw. der gemäss den Bestimmungen der kantonalen Personalgesetzgebung angestellt wird.
 
-<sup>3</sup> Die Generalsekretärin oder der Generalsekretär arbeitet auf Weisung des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel und ist administrativ der Staatskanzlei angegliedert.
+<sup>3</sup> Die Generalsekretärin oder der Generalsekretär arbeitet auf Weisung des RFB und ist administrativ der Staatskanzlei angegliedert.
 
-<sup>4</sup> Der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel legt die Aufgaben des Generalsekretariats in einem Reglement fest.
+<sup>4</sup> Der RFB legt die Aufgaben des Generalsekretariats in einem Reglement fest.
 
 ### 4.3 Tätigkeitsbericht
 
 #### Art. 42
 
-<sup>1</sup> Der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel unterbreitet dem Regierungsrat und der Geschäftsprüfungskommission jährlich einen Tätigkeitsbericht.
+<sup>1</sup> Der RFB unterbreitet dem Regierungsrat, der Geschäftsprüfungskommission und der Kommission für Staatspolitik und Aussenbeziehungen jährlich einen Tätigkeitsbericht.
 
-<sup>2</sup> Er unterbreitet ihn ebenfalls den Gemeinderäten von Biel und Leubringen, falls er Aufgaben wahrnimmt, die ihm von diesen beiden Gemeinden übertragen worden sind.[^42-1]
-
-[^42-1]: Die Anwendung dieses Absatzes wird gemäss Artikel 2 RFB VV ([BAG 17-031](https://www.belex.sites.be.ch/frontend/change_documents/1515?locale=de)) ausgesetzt.
+<sup>2</sup> Er unterbreitet ihn ebenfalls den Gemeinderäten jener Gemeinden, die ihn mit der Erfüllung einer Aufgabe betraut haben.
 
 ### 4.4 Finanzen
 
@@ -437,63 +494,65 @@ beschliesst:
 
 **Finanzierung durch den Kanton**
 
-<sup>1</sup> Der Kanton stellt dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel und dessen Generalsekretariat die für ihren Betrieb erforderlichen finanziellen Mittel zur Verfügung.
+<sup>1</sup> Der Kanton stellt dem RFB und dessen Generalsekretariat die für ihren Betrieb erforderlichen finanziellen Mittel zur Verfügung.
 
 <sup>2</sup> Diese werden auf Grund der finanziellen Möglichkeiten des Kantons festgelegt und sind im Voranschlag der Staatskanzlei eingestellt.
 
 #### Art. 44
 
-**Gemeindebeitrag[^44-1]**
+**Gemeindebeitrag**
 
-<sup>1</sup> Die Einwohnergemeinden Biel und Leubringen beteiligen sich an der Finanzierung des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel und dessen Generalsekretariats, sofern sie diese mit Aufgaben betrauen.
+<sup>1</sup> Die einzelnen Gemeinden des Verwaltungskreises Biel/Bienne beteiligen sich an der Finanzierung des RFB und dessen Generalsekretariats, sofern sie diese mit Aufgaben betrauen.
 
-[^44-1]: Die Anwendung dieses Artikels wird gemäss Artikel 2 RFB VV ([BAG 17-031](https://www.belex.sites.be.ch/frontend/change_documents/1515?locale=de)) ausgesetzt.
-
-### 4.5 Finanzen
+### 4.5 Befugnisse
 
 #### Art. 45
 
 **Schulkoordination mit der französischsprachigen Schweiz und dem Kanton Jura**
 
-<sup>1</sup> In Bezug auf Geschäfte der Schulkoordination mit der französischsprachigen Schweiz und dem Kanton Jura verfügt der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel über dieselben Befugnisse wie der Bernjurassische Rat (Art. 23), mit dem er sie gemeinsam ausübt.
+<sup>1</sup> In Bezug auf Geschäfte der Schulkoordination mit der französischsprachigen Schweiz und dem Kanton Jura verfügt der RFB über dieselben Befugnisse wie der BJR (Art. 23), mit dem er sie gemeinsam ausübt.
 
-<sup>2</sup> Beschlüsse im Sinne von Artikel 23 Absatz 2 werden von beiden Räten in gemeinsamer Sitzung gefasst und bedürfen der doppelten Mehrheit in beiden Räten. Können sich die beiden Räte nicht einigen, entscheidet die Erziehungsdirektion.
+<sup>2</sup> Beschlüsse im Sinne von Artikel 23 Absatz 2 werden von beiden Räten in gemeinsamer Sitzung gefasst und bedürfen der doppelten Mehrheit in beiden Räten. Können sich die beiden Räte nicht einigen, entscheidet die Bildungs- und Kulturdirektion.
 
 #### Art. 46
 
 **Politische Mitwirkung auf Kantonsebene**
 
-<sup>1</sup> Die politische Mitwirkung des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel bezieht sich auf[^46-1]
+<sup>1</sup> Die politische Mitwirkung des RFB bezieht sich auf
 
-- a die in Artikel 31 Buchstabe a bis f genannten Gegenstände, sofern sie die französischsprachige Bevölkerung des zweisprachigen Amtsbezirks Biel besonders betreffen,
-- b Geschäfte im Zusammenhang mit der Gewährung von Staatsbeiträgen an kulturelle Tätigkeiten im zweisprachigen Amtsbezirk Biel,
-- c Geschäfte im Zusammenhang mit der Gewährung von Staatsbeiträgen aus dem Lotteriefonds, dem Kulturförderungsfonds und dem Sportfonds, sofern sie den zweisprachigen Amtsbezirk Biel betreffen,
-- d Ernennungsverfügungen gemäss Artikel 31 Buchstabe g, sofern die Hauptaufgabe der zu ernennenden Person darin besteht, auf Kaderstufe Geschäfte zu behandeln, die den zweisprachigen Amtsbezirk Biel betreffen,
-- e Ernennungen von Personen aus dem zweisprachigen Amtsbezirk Biel, die den Kanton in Organen gemäss Artikel 26 Buchstabe a, b, f und g vertreten.
+- a die in Artikel 31 Absatz 1 Buchstabe a bis g genannten Gegenstände, sofern sie die französischsprachige Bevölkerung des Verwaltungskreises Biel/Bienne besonders betreffen,
+- b Geschäfte im Zusammenhang mit der Gewährung von Staatsbeiträgen an kulturelle Tätigkeiten im Verwaltungskreis Biel/Bienne,
+- c Geschäfte im Zusammenhang mit der Gewährung von Beiträgen aus dem Lotteriefonds, dem Sportfonds oder dem Kulturförderungsfonds, sofern sie den Verwaltungskreis Biel/Bienne betreffen,
+- d Ernennungsverfügungen gemäss Artikel 31 Absatz 1 Buchstabe h, sofern die Hauptaufgabe der zu ernennenden Person darin besteht, auf Kaderstufe Geschäfte zu behandeln, die den Verwaltungskreis Biel/Bienne betreffen,
+- e Ernennungen von Personen aus dem Verwaltungskreis Biel/Bienne, die den Kanton in Organen gemäss Artikel 26 Absatz 1 Buchstabe a, b, und f vertreten,
+- f Geschäfte im Zusammenhang mit der Anwendung des Bundesgesetzes vom 5. Oktober 2007 über die Landessprachen und die Verständigung zwischen den Sprachgemeinschaften (Sprachengesetz, SpG)[^46-1].
 
-<sup>2</sup> Der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel kann verlangen, vom Bernjurassischen Rat angehört zu werden.
+<sup>2</sup> Der RFB kann verlangen, vom BJR angehört zu werden.
 
-<sup>3</sup> Artikel 32 und 33 gelten sinngemäss in Bezug auf den Inhalt und die Ausübung der politischen Mitwirkung durch den Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel.
+<sup>3</sup> Artikel 32 und 33 gelten sinngemäss in Bezug auf den Inhalt und die Ausübung der politischen Mitwirkung durch den RFB.
 
-[^46-1]: Die Anwendung dieses Absatzes wird gemäss Artikel 2 RFB VV ([BAG 17-031](https://www.belex.sites.be.ch/frontend/change_documents/1515?locale=de)) ausgesetzt.
+[^46-1]: SR [441.1](https://db.clex.ch/link/Bund/441.1/de)
 
 #### Art. 47
 
-**Politische Mitwirkung auf Gemeindeebene[^47-1]**
+**Politische Mitwirkung auf Gemeindeebene**
 
-<sup>1</sup> Die Einwohnergemeinden Biel und Leubringen können den Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel als ihren Ansprechpartner bezeichnen, der im Rahmen ihrer Konsultationen und Vernehmlassungsverfahren die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel vertritt.
+<sup>1</sup> Die Gemeinden des Verwaltungskreises Biel/Bienne können den RFB als ihren Ansprechpartner bezeichnen, der im Rahmen ihrer Konsultationen und Vernehmlassungsverfahren die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne vertritt.
 
-[^47-1]: Die Anwendung dieses Artikels wird gemäss Artikel 2 RFB VV ([BAG 17-031](https://www.belex.sites.be.ch/frontend/change_documents/1515?locale=de)) ausgesetzt.
-
-## 5 Französischsprachige Organisationseinheiten für die Amtsbezirke des Berner Juras und den zweisprachigen Amtsbezirk Biel
+## 5 Französischsprachige Organisationseinheiten für die Verwaltungskreise Berner Jura und Biel/Bienne
 
 #### Art. 48
 
-<sup>1</sup> Der Kanton unterhält eine dezentrale französischsprachige Organisationseinheit zur Erfüllung der Aufgaben in französischer Sprache im Zusammenhang mit dem Gemeindewesen und der Raumordnung in den drei bernjurassischen Amtsbezirken sowie im zweisprachigen Amtsbezirk Biel.
+<sup>1</sup> Der Kanton unterhält dezentrale Organisationseinheiten mit Personal französischer Sprache zur Erfüllung von Aufgaben zugunsten der französischsprachigen Bevölkerung der Verwaltungskreise Berner Jura und Biel/Bienne insbesondere in den folgenden Bereichen:
 
-<sup>2</sup> Er unterhält im Berner Jura eine französischsprachige Organisationseinheit für die Tätigkeiten im Zusammenhang mit der französischsprachigen Koordination innerhalb der Erziehungsdirektion.
+- a Gemeindewesen und Raumordnung,
+- b französischsprachige Koordination innerhalb der Bildungs- und Kulturdirektion,
+- c Denkmalpflege,
+- d Bevölkerungsschutz, Sport und Militär,
+- e Steuern,
+- f Wirtschaftsförderung.
 
-<sup>3</sup> Er kann auch für andere Tätigkeitsbereiche dezentrale französischsprachige Organisationseinheiten unterhalten.
+<sup>2–3</sup> …
 
 ## 6 Zweisprachigkeit
 
@@ -501,7 +560,7 @@ beschliesst:
 
 **Freie Wahl der Sprache**
 
-<sup>1</sup> Jede Person kann sich in der Amtssprache ihrer Wahl an die für den zweisprachigen Amtsbezirk Biel zuständigen Behörden wenden.
+<sup>1</sup> Jede Person kann sich in der Amtssprache ihrer Wahl an die für den Verwaltungskreis Biel/Bienne zuständigen Behörden wenden.
 
 #### Art. 50
 
@@ -513,7 +572,7 @@ beschliesst:
 
 **Kommunale Zweisprachigkeit**
 
-<sup>1</sup> Die Einwohnergemeinden Biel und Leubringen tragen der Zweisprachigkeit bei der Erfüllung ihrer Aufgaben Rechnung und können Massnahmen treffen, um den Schutz und die Förderung der Zweisprachigkeit sicherzustellen.
+<sup>1</sup> Die Einwohnergemeinden Biel/Bienne und Leubringen tragen der Zweisprachigkeit bei der Erfüllung ihrer Aufgaben Rechnung und können Massnahmen treffen, um den Schutz und die Förderung der Zweisprachigkeit sicherzustellen.
 
 ## 7 Übertragung öffentlicher Aufgaben an die Stiftung «Fondation Mémoires d’Ici»
 
@@ -528,11 +587,11 @@ beschliesst:
 
 <sup>2</sup> Die Einzelheiten bezüglich der Aufgaben und der Finanzierung der Stiftung, der Vertretung des Kantons in den Stiftungsorganen sowie der Aufsicht werden in einem Leistungsvertrag mit dem Regierungsrat geregelt.
 
-## 8 Übertragung von Gemeindeaufgaben an den Bernjurassischen Rat
+## 8 Übertragung von Gemeindeaufgaben an den BJR
 
 #### Art. 53
 
-<sup>1</sup> Die Gemeinden des Berner Juras können die Erfüllung kommunaler Aufgaben an den Bernjurassischen Rat übertragen, um eine effiziente Aufgabenerfüllung zu ermöglichen.
+<sup>1</sup> Die Gemeinden des Berner Juras können die Erfüllung kommunaler Aufgaben an den BJR übertragen, um eine effiziente Aufgabenerfüllung zu ermöglichen.
 
 <sup>2</sup> Das Verfahren und die Form der Aufgabenübertragung bestimmen sich nach der Gemeindegesetzgebung.
 
@@ -582,51 +641,17 @@ beschliesst:
 
 **…**
 
-## 10 Konferenz der Gemeindepräsidentinnen und Gemeindepräsidenten des Berner Juras und des zweisprachigen Amtsbezirks Biel (KGP)
+## 10 Gemeinden des Berner Juras, Biel/Bienne und Leubringen
 
 #### Art. 59
 
-**Konstituierung**
+<sup>1</sup> Die Einwohnergemeinden und gemischten Gemeinden des Berner Juras sowie die Einwohnergemeinden Biel/Bienne und Leubringen können sich zusammenschliessen, um namentlich die Verbindung untereinander sowie die Verbindung zum BJR, zum RFB und zur Deputation der französischsprachigen Grossratsmitglieder sicherzustellen.
 
-<sup>1</sup> Einwohnergemeinden und gemischte Gemeinden des Berner Juras und des zweisprachigen Amtsbezirks Biel können durch öffentlich-rechtlichen Vertrag eine Konferenz der Gemeindepräsidentinnen und Gemeindepräsidenten des Berner Juras und des zweisprachigen Amtsbezirks Biel (Gemeindepräsidentenkonferenz, KGP) gründen.
+<sup>2</sup> Die gemäss Absatz 1 gegründete Organisation legt mit dem BJR und dem RFB die Modalitäten ihrer Zusammenarbeit und die Koordination ihrer Aufgaben gegenüber den kantonalen Behörden fest.
 
-<sup>2</sup> Die Gemeindepräsidentenkonferenz gilt nur dann als rechtsgültig errichtet, wenn sich mindestens 20 Gemeinden aus mindestens zwei verschiedenen Amtsbezirken dem Vertrag anschliessen.
+#### Art. 60–62a
 
-#### Art. 60
-
-**Aufgaben**
-
-<sup>1</sup> Die Gemeindepräsidentenkonferenz stellt die Verbindung zwischen den angeschlossenen Gemeinden einerseits sowie dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel andererseits sicher.
-
-<sup>2</sup> Sie kann weitere Aufgaben übernehmen und namentlich die Zusammenarbeit unter den Gemeinden fördern und den gegenseitigen Informationsaustausch zwischen den Gemeinden organisieren.
-
-<sup>3</sup> Sie kann verlangen, vom Bernjurassischen Rat oder vom Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel angehört zu werden.
-
-#### Art. 61
-
-**Finanzierung und Organisation**
-
-<sup>1</sup> Die Kosten der Gemeindepräsidentenkonferenz gehen zu Lasten der angeschlossenen Gemeinden.
-
-<sup>2</sup> Die Einzelheiten der Finanzierung und der Organisation der Gemeindepräsidentenkonferenz werden im Vertrag festgelegt.
-
-#### Art. 62
-
-**Streitigkeiten**
-
-<sup>1</sup> Für Streitigkeiten in Bezug auf die Anwendung des Vertrags gilt der Gerichtsstand der beklagten Partei.
-
-#### Art. 62a
-
-**Regionalkonferenz**
-
-<sup>1</sup> Wird in den Verwaltungsregionen Berner Jura und Seeland eine Regionalkonferenz Biel/Bienne-Seeland-Jura bernois nach den Bestimmungen des Gemeindegesetzes vom 16. März 1998 (GG[^62a-1]) eingesetzt, kann sich die bisherige Gemeindepräsidentenkonferenz durch Beschluss als Teilkonferenz konstituieren, um die Aufgaben gemäss Artikel 60 wahrzunehmen.
-
-<sup>2</sup> Die Übertragung von weiteren Aufgaben richtet sich nach den Bestimmungen des Gemeindegesetzes.
-
-<sup>3</sup> Im Übrigen gelten für die Teilkonferenz die Artikel 137 ff. GG.
-
-[^62a-1]: BSG 170.11
+**…**
 
 ## 11 Finanzhilfen
 
@@ -636,7 +661,7 @@ beschliesst:
 
 **Begünstigte**
 
-<sup>1</sup> Der Kanton kann einem lokalen oder regionalen Veranstalter von Radioprogrammen im Berner Jura sowie einem französischsprachigen lokalen oder regionalen Veranstalter von Radioprogrammen im zweisprachigen Amtsbezirk Biel Finanzhilfe gewähren.
+<sup>1</sup> Der Kanton kann einem lokalen oder regionalen Veranstalter von Radioprogrammen im Berner Jura sowie einem französischsprachigen lokalen oder regionalen Veranstalter von Radioprogrammen im Verwaltungskreis Biel/Bienne Finanzhilfe gewähren.
 
 #### Art. 64
 
@@ -673,6 +698,30 @@ beschliesst:
 #### Art. 67
 
 <sup>1</sup> Der Kanton kann einer Statistikstelle des Berner Juras eine Finanzhilfe zur Erstellung von Statistiken über den Berner Jura gewähren.
+
+### 11.3 In den Bereichen Entwicklung und Zusammenarbeit tätige Dachorganisationen
+
+#### Art. 67a
+
+**Beitrag**
+
+<sup>1</sup> Der Kanton kann Dachorganisationen im Jurabogen, die in den Bereichen Entwicklung und Zusammenarbeit tätig sind, einen Beitrag in Form einer Abgeltung gewähren.
+
+<sup>2</sup> Der Beitrag wird jährlich als Pauschale gewährt.
+
+<sup>3</sup> Es besteht kein Anspruch auf einen Beitrag.
+
+#### Art. 67b
+
+**Höhe der Beiträge**
+
+<sup>1</sup> Die Höhe des jährlichen Beitrags darf die Ausgabenbefugnis des Regierungsrates nicht übersteigen.
+
+#### Art. 67c
+
+**Verfahren**
+
+<sup>1</sup> Artikel 66 gilt sinngemäss.
 
 ## 12 Vollzug und Rechtspflege
 
