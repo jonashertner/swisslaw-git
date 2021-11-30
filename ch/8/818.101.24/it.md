@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-11-29
+version: 2021-12-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211129/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211129-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211129/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211129/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 29 novembre 2021) (Stato 29 novembre 2021)
+del 19 giugno 2020 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1219,7 +1219,7 @@ Allegato 6*[^t-8]*
     - 2\. secondo i numeri 1.7, 2.2 e 3.2;
 
   - i. nell’ambito dello studio e del controllo di un focolaio su ordine di un medico;
-  - j.[^annex6-lvlu1-lvl1-lvl14-1] per tutte le persone che non rientrano nelle lettere a–i;
+  - j.[^annex6-lvlu1-lvl1-lvl14-1] ...
   - k. bambini al di sotto dei 16 anni;
   - l. persone che possono attestare di non potersi far vaccinare per motivi medici; quale attestato è ammesso il certificato di un medico autorizzato a esercitare la professione sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006[^annex6-lvlu1-lvl1-lvl14-2] sulle professioni mediche;
   - m. visitatori di ospedali, case di cura e per anziani nonché altri istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale;

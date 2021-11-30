@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-11-29
+version: 2021-12-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211129/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211129-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211129/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211129/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 29. November 2021)
+vom 19. Juni 2020 (Stand am 1. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 

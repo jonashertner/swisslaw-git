@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-11-29
+version: 2021-12-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211129/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211129-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211129/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211201/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211201-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 29 November 2021)
+of 19 June 2020 (Status as of 1 December 2021)
 
 The Swiss Federal Council,
 
@@ -861,8 +861,8 @@ The movement of persons from the following states into Switzerland is prohibited
 - – Lesotho
 - – Mozambique
 - – Namibia
-- – Zimbabwe
 - – South Africa
+- – Zimbabwe
 
 Annex 4*[^t-5]*
 
@@ -1048,7 +1048,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No. 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021.
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No. 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1060,7 +1060,7 @@ Annex 6*[^t-8]*
 
   - a. persons who have symptoms;
   - b. contact persons who are in quarantine;
-  - c. persons who wish to leave contact quarantine under Article 3*e* of the COVID-19 Special Situation Ordinance of 19 June 2020[^annex6-lvlu1-lvl1-lvl11-1] [^annex6-lvlu1-lvl1-lvl11-2] within 10 days;
+  - c. persons who wish to leave contact quarantine early in accordance with Article 8 of the COVID-19 Special Situation Ordinance of 19 June 2020[^annex6-lvlu1-lvl1-lvl11-1] [^annex6-lvlu1-lvl1-lvl11-2];
   - d. ...
   - e. persons who have been notified by the SwissCovid app that they have potentially been in close contact with a person infected with Sars-CoV-2; the Confederation shall pay the costs of a single test;
   - f. persons resident abroad who work, study or train in Switzerland, in cases where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering their foreign country of residence and no other authority will cover the costs;
@@ -1115,7 +1115,7 @@ Annex 6*[^t-8]*
 <table>
 <tr><td>Service</td><td>Maximum amount</td></tr>
 <tr><td>Patient consultation and taking sample, including protective materials</td><td>22.50 Fr.</td></tr>
-<tr><td>For supervising the taking of the sample by the person tested and assigning the sample to the person concerned 15 Fr.</td><td>15 Fr.</td></tr>
+<tr><td>For supervising the taking of the sample by the person tested and assigning the sample to the person concerned</td><td>15 Fr.</td></tr>
 <tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA, and requesting the activation code generated by the Proximity Tracing System for the Coronavirus Sars-CoV-2 (PT System) when infection is detected and for issuing the COVID-19 test certificate</td><td>2.50 Fr.</td></tr>
 <tr><td>Detailed doctor-patient consultation on the indications, where such is carried out</td><td>22.50 Fr.</td></tr>
 </table>
@@ -1273,24 +1273,21 @@ Annex 6*[^t-8]*
 
   - a. persons who have symptoms;
   - b. contact persons who are in quarantine;
-  - c. persons who wish to leave contact quarantine under Article 3*e* of the COVID-19 Special Situation Ordinance within 10 days;
+  - c. persons who wish to leave contact quarantine early in accordance with Article 3*e* of the COVID-19 Special Situation Ordinance;
   - d. ...
   - e. persons who have been notified by the SwissCovid app that they have potentially been in close contact with a person infected with Sars-CoV-2; the Confederation shall pay the costs of a single test;
   - f. persons resident abroad who work, study or train in Switzerland, in cases where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering their foreign country of residence and no other authority will cover the costs;
   - g. persons resident in Switzerland who work, study or train abroad where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering the foreign country concerned and no other authority will cover the costs;
   - h. following a positive result from a pooled molecular-biological analysis;
-  - i.
-
-    as part of outbreak investigation and control procedures ordered by a doctor:
-
     - 1\. in accordance with Number 1.2,
     - 2\. in accordance with Numbers 1.7, 2.2 and 3.2;
+    - i. as part of outbreak investigation and control procedures ordered by a doctor:
 
   - j.[^annex6-lvlu1-lvl1-lvl14-1] ...
   - k. children under the age of 16;
   - l. persons who can prove that they cannot be vaccinated on medical grounds; as proof, a medical certificate is required from a doctor who who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^annex6-lvlu1-lvl1-lvl14-2];
   - m. vistors to hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, rehabilitation or for socio-professional rehabilitation or employment;
-  - n. persons who do not fall under letters a–m, provided they have already received one dose of the vaccine, but have not been vaccinated in accordance with Annex 1*a* number 1, for six weeks from administration of the vaccine dose, or in the case of the Janssen Ad26.COV2.S / COVID-19 vaccine, for 22 days.
+  - n. persons who do not fall under letters a–m, provided they have already received one dose of a vaccine but they are not vaccinated in accordance with Annex 1*a* number 1, for six weeks from receiving the single dose of the vaccine, in the case of the Janssen Ad26.COV2.S / Covid-19 vaccine, for 22 days.
 
 - 1\.4.2 ...
 - 1\.4.3
@@ -1318,7 +1315,7 @@ Annex 6*[^t-8]*
 
 - 1\.4.4
 
-  It shall pay a maximum of 77.50 francs for immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use. This amount includes the following services and cost components:
+  It shall pay a maximum of 88.50 francs for immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use. This amount includes the following services and cost components:
 
   - a. for collecting a sample:
 
@@ -1492,9 +1489,9 @@ Annex 6*[^t-8]*
 - 2\.1.3 It shall pay shall pay a maximum of 30.50 francs for a Sars-CoV-2-rapid test for specialist use. The amount covers the following services and cost components:
 
 <table>
-<tr><th colspan="2">Service</th><th>Maximum amount</th></tr>
-<tr><td colspan="2">If the sample is not taken by the tested person him- or herself: taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td>28 Fr.</td></tr>
-<tr><td colspan="2">If the sample is taken by the tested person him- or herself: taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td colspan="2">14 Fr.</td></tr>
+<tr><th>Service</th><th>Maximum amount</th></tr>
+<tr><td>If the sample is not taken by the tested person him- or herself: taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td>28 Fr.</td></tr>
+<tr><td>If the sample is taken by the tested person him- or herself: taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td colspan="2">14 Fr.</td></tr>
 <tr><td>For issuing the COVID-19 test certificate</td><td>2.50 Fr.</td></tr>
 </table>
 
@@ -1506,7 +1503,8 @@ Annex 6*[^t-8]*
 
   - a. in the case of targeted and repetitive testing in schools, universities and training centres in order to prevent and detect outbreaks, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH or provided the testing is coordinated via a platform made available by the Confederation;
   - b. in situations with a significantly higher probability of transmission, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH or provided the testing is coordinated via a platform made available by the Confederation;
-  - c. in relation to testing over a limited period in connection with uncontrolled outbreaks of infection, provided the responsible authority or organisation in the canton makes provision for this or provided the testing is coordinated via a platform made available by the Confederation.
+  - c. in relation to testing over a limited period in connection with uncontrolled outbreaks of infection, provided the responsible authority or organisation in the canton makes provision for this or provided the testing is coordinated via a platform made available by the Confederation;
+  - d. in the case of testing for participants and supervisors before and during camps, provided the responsible authority or organisation in the canton submits a plan to the FOPH or provided the testing is coordinated via a platform made available by the Confederation.
 
 - 2\.2.2
 
