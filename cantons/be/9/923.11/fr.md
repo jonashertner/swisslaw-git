@@ -4,13 +4,12 @@ number: "923.11"
 title: Loi sur la pêche
 short: LPê
 language: fr
-version: 2021-04-01
-valid_until: 2021-11-30
-version_adopted: 2021-02-17
+version: 2021-12-01
+version_adopted: 2021-03-08
 adopted: 1995-06-21
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/923.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2207/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2405/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2207/pdf_file"
 
 (LPê)
 
-du 21.06.1995 (état au 01.04.2021)
+du 21.06.1995 (état au 01.12.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -598,6 +597,8 @@ arrête:
 <sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement nomme une Commission de la pêche dont la durée de fonction est de quatre ans; elle est composée de neuf membres qui conseillent les autorités chargées de la pêche.
 
 <sup>2</sup> La science piscicole et les organisations cantonales de pêche à la ligne et de pêche professionnelle sont équitablement représentées dans la commission.
+
+<sup>2a</sup> La Direction de l’économie, de l'énergie et de l'environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones de l'arrondissement de Biel/Bienne le droit de proposer en priorité un candidat ou une candidate.
 
 <sup>3</sup> Les autorités chargées de l'exécution de la législation sur la pêche participent aux séances de la commission avec voix consultative.
 

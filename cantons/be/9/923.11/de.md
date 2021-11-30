@@ -4,13 +4,12 @@ number: "923.11"
 title: Fischereigesetz
 short: FiG
 language: de
-version: 2021-04-01
-valid_until: 2021-11-30
-version_adopted: 2021-02-17
+version: 2021-12-01
+version_adopted: 2021-03-08
 adopted: 1995-06-21
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/923.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2207/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2405/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2207/pdf_file"
 
 (FiG)
 
-vom 21.06.1995 (Stand 01.04.2021)
+vom 21.06.1995 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -596,6 +595,8 @@ beschliesst:
 <sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion wählt für eine Amtsdauer von jeweils vier Jahren eine aus neun Mitgliedern bestehende Fischereikommission, welche die mit der Fischerei betrauten Behörden berät.
 
 <sup>2</sup> Die Fischereiwissenschaft sowie die kantonalen Angelfischer- und Berufsfischerorganisationen sollen angemessen vertreten sein.
+
+<sup>2a</sup> Die Wirtschafts-, Energie- und Umweltdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne das Recht, vorgängig eine Kandidatin oder einen Kandidaten vorzuschlagen.
 
 <sup>3</sup> Die mit dem Vollzug der Fischereigesetzgebung beauftragten Behörden nehmen an den Sitzungen mit beratender Stimme teil.
 
