@@ -3,13 +3,13 @@ canton: FR
 number: "122.3.1"
 title: Loi sur les préfets
 language: fr
-version: 2018-01-01
-valid_until: 2021-11-30
-version_adopted: 2017-12-13
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-09-07
 adopted: 1975-11-20
 in_force: 1977-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.3.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5013/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6969/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5013/pdf_file"
 
 Préfets – L
 
-du 20.11.1975 (version entrée en vigueur le 01.01.2018)
+du 20.11.1975 (version entrée en vigueur le 01.12.2021)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -58,7 +58,9 @@ Décrète:
 
 **Statut**
 
-<sup>1</sup> Le préfet est assermenté par le Conseil d'Etat.
+<sup>1</sup> Le préfet est assermenté par le Conseil d'Etat dès que le Grand Conseil a validé son élection.
+
+<sup>1a</sup> Il entre en fonction le premier jour du mois suivant son assermentation.
 
 <sup>2</sup> La loi spéciale fixe son traitement et sa pension.
 
