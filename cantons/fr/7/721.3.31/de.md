@@ -1,0 +1,75 @@
+---
+canton: FR
+number: "721.3.31"
+title: Verordnung über das Sonderwaldreservat St. Ursenvorschis in der Gemeinde Plaffeien
+language: de
+version: 2021-12-01
+version_adopted: 2022-01-18
+adopted: 2022-01-18
+in_force: 2021-12-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/721.3.31"
+pdf: "https://bdlf.fr.ch/api/de/versions/7098/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über das Sonderwaldreservat St. Ursenvorschis in der Gemeinde Plaffeien
+
+vom 18.01.2022 (Fassung in Kraft getreten am 01.12.2021)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Bundesgesetz vom 1. Juli 1966 über den Natur- und Heimatschutz (NHG);
+
+gestützt auf das Bundesgesetz vom 4. Oktober 1991 über den Wald (WaG);
+
+gestützt auf das Gesetz vom 2. März 1999 über den Wald und den Schutz vor Naturereignissen (WSG);
+
+gestützt auf die Dienstbarkeitsvereinbarung vom 26. November 2021 über das Sonderwaldreservat St. Ursenvorschis;
+
+in Erwägung:
+
+Der Wald zwischen der Muscherensense, dem Ättenberg und dem Spitzhubel, auf dem Gebiet der Gemeinde Plaffeien, ist aufgrund seiner besonderen Fauna, der alten Bäume und der aussergewöhnlichen Struktur besonders wertvoll und hat örtlich ein hohes Potential für eine ökologische Aufwertung durch waldbauliche Massnahmen. Der Wald ist zudem nur zu Fuss zugänglich und gewährt der Fauna so weitgehend ungestörte Bedingungen.
+
+Das Ziel ist es, längerfristig eine natürliche Entwicklung dieses Waldes mit einem höheren Anteil an Altholz und Totholz zuzulassen und örtlich durch eine ökologische Aufwertung verschiedene Tier- und Pflanzenarten zu fördern.
+
+Es handelt sich um Staatswald, der vom Amt für Wald und Natur bewirtschaftet wird.
+
+Zwischen dem Eigentümer des Waldes und der Direktion der Institutionen und der Land- und Forstwirtschaft wurde eine Dienstbarkeitsvereinbarung über 50 Jahre abgeschlossen.
+
+An seiner Sitzung vom 10. März 2020 hat der Staatsrat eine grundsätzlich positive Stellungnahme zur Bildung dieses Waldreservats abgegeben.
+
+Auf Antrag der Direktion der Institutionen und der Land- und Forstwirtschaft,
+
+beschliesst:
+
+#### Art. 1
+
+<sup>1</sup> Der Wald, der sich im Perimeter des am 26. Juli 2021 vom Amt für Wald und Natur erstellten Plans im Massstab 1:25 000 befindet, wird zum Sonderwaldreservat erklärt (siehe Anhang 1).
+
+<sup>2</sup> Der Plan des Perimeters ist Bestandteil dieser Verordnung und kann beim Amt für Wald und Natur eingesehen werden.
+
+<sup>3</sup> Das Waldreservat bleibt ab dem 1. Dezember 2021 für die Dauer von 50 Jahren bestehen.
+
+<sup>4</sup> Die Dienstbarkeitsvereinbarung vom 26. November 2021 zwischen dem Waldeigentümer und der Direktion der Institutionen und der Land- und Forstwirtschaft wird genehmigt.
+
+#### Art. 2
+
+<sup>1</sup> Innerhalb des Reservats sind nur waldbaulichen Eingriffe erlaubt, die im Technischen Bericht des Bureau Nouvelle Forêt, Freiburg, vom 24. Februar 2020 erwähnt sind und der Förderung der Biodiversität dienen. Die Erstellung von Bauten und Anlagen ist verboten.
+
+<sup>2</sup> Folgende Eingriffe und Tätigkeiten sind auch weiterhin möglich:
+
+- a) das Fällen von Bäumen oder Entfernen von Ästen entlang des Wanderwegs zum Oberen Murenstöck, falls es die Sicherheit er-fordert; das gefällte Holz wird im Waldreservat am Boden belassen; für den Unterhalt und die Sicherung dieses Wanderwegs ist die Gemeinde Plaffeien zuständig;
+- b) der Unterhalt des Wegs, der vom Unter St. Ursenvorschis über den Ober St. Ursenvorschis zum Chli Ättenberg führt; es handelt sich nicht um einen offiziellen Wanderweg; für den Unterhalt des Wegs und die Sicherstellung einer minimalen Sicherheit ist der Staatsforstbetrieb Sense verantwortlich;
+- c) das Entfernen von Bäumen oder Ästen, die auf das benachbarte Land-wirtschaftsgebiet gefallen sind oder bald fallen könnten; dieses Holz wird, sofern mit vertretbarem Aufwand möglich, in das Waldreservat geschafft und dort auf dem Boden belassen;
+- d) Eingriffe im Falle von Borkenkäferkalamitäten im Waldreservat, so-fern dadurch benachbarte Wälder bedroht werden; solche Eingriffe müssen vom Amt für Wald und Natur genehmigt werden; gefälltes Holz wird am Boden im Wald liegengelassen;
+- e) das Sammeln von Pilzen und das Wandern unter Vorbehalt der dies-bezüglichen Gesetzgebung;
+- f) die Jagd unter Vorbehalt der diesbezüglichen Gesetzgebung, ausser im Wildschutzgebiet Weisse Fluh-Hohberg.
+
+## A1 ANHANG 1 – Sonderwaldreservat St. Ursenvorschis Gemeinde Plaffeien
+
+#### Art. A1-1
+
+<sup>1</sup> Perimeterplan:
+
+2022\_004
