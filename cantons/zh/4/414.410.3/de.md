@@ -3,11 +3,10 @@ canton: ZH
 number: "414.410.3"
 title: Weisung zur Benutzung der Bibliotheken der Pädagogischen Hochschule Zürich
 language: de
-version: "2020-12-07"
-nachtrag: "112"
-valid_until: 2021-12-01
+version: "2021-12-01"
+nachtrag: "115"
 adopted: 2012-10-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_410_3-2012_10_24-2013_01_01-112.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_410_3-2012_10_24-2013_01_01-115.html"
 text: pdf
 ---
 
@@ -41,19 +40,17 @@ beschliesst:
 
 <sup>4</sup> Elektronische Bestände, zu denen die Bibliotheken den Zugang bereitstellen, dürfen nur in der von den Bibliotheken bekannt gegebenen Weise genutzt werden. Der Benutzerkreis kann eingeschränkt werden.
 
-<sup>5</sup> Die Benutzung der in die Bibliothek integrierten Einzelarbeitsräume ist Angehörigen der PHZH vorbehalten. Eine Richtlinie regelt die Einzelheiten.
+<sup>5</sup> . . .[^hAAllgemeineBestim-2]
 
-[^hAAllgemeineBestim-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
-
-#### § 2
+<sup>6</sup> Die Arbeitsplätze in der Bibliothek stehen allen Interessierten zur Verfügung. Die Bibliothek behält sich vor, Plätze phasenweise für Angehörige der PHZH zu reservieren.[^hAAllgemeineBestim-3]
 
 **Öffnungszeiten**
 
-Die Öffnungszeiten werden von der Hochschulleitung festgelegt und öffentlich bekannt gegeben.
+§ 2. Die Öffnungszeiten werden von der Hochschulleitung festgelegt und öffentlich bekannt gegeben.
 
 **1**
 
-- 1\. 4. 21 - 112 § 3. <sup>1</sup> Störende Gespräche untereinander oder mit dem Telefon sind zu unterlassen.
+- 1\. 1. 22 - 115 § 3. <sup>1</sup> Störende Gespräche untereinander oder mit dem Telefon sind zu unterlassen.
 
 **Verhalten**
 
@@ -61,11 +58,13 @@ Die Öffnungszeiten werden von der Hochschulleitung festgelegt und öffentlich b
 
 **Sicherung der Medien**
 
-§ 4.[^2-1] <sup>1</sup> Sämtliche Medien vorbehältlich Abs. 2 sind elektronisch gesichert. Nicht vorschriftsgemässe Ausleihen lösen beim Verlassen der Bibliothek Alarm aus.
+§ 4.[^hAAllgemeineBestim-1] <sup>1</sup> Sämtliche Medien vorbehältlich Abs. 2 sind elektronisch gesichert. Nicht vorschriftsgemässe Ausleihen lösen beim Verlassen der Bibliothek Alarm aus.
 
 <sup>2</sup> Die Bestände der Forschungsbibliothek sind magaziniert. Sie werden bestellt und persönlich übergeben.
 
-[^2-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
+[^hAAllgemeineBestim-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
+[^hAAllgemeineBestim-2]: Aufgehoben durch B vom 29. September 2021 (OS 76, 471; ABl 2021-10-08). In Kraft seit 1. Dezember 2021. 1. 1. 22 - 115 5
+[^hAAllgemeineBestim-3]: Eingefügt durch B vom 29. September 2021 (OS 76, 471; ABl 2021-10-08). In Kraft seit 1. Dezember 2021.
 
 ### B. Benutzung und Ausleihe
 
@@ -101,7 +100,7 @@ Die Öffnungszeiten werden von der Hochschulleitung festgelegt und öffentlich b
 
 § 8.[^hBBenutzungundAus-2] <sup>1</sup> Die Ausleihe von Medien erfordert einen gültigen Benutzungsausweis.
 
-<sup>2</sup> Die Benutzung von Medien in den Einzelarbeitsräumen setzt eine Ausleihe voraus.
+<sup>2</sup> . . .[^hBBenutzungundAus-3]
 
 <sup>3</sup> Medien können kostenpflichtig per Post versandt werden. Lieferungen ins Ausland erfolgen nur an Bibliotheken.
 
@@ -125,16 +124,18 @@ Die Öffnungszeiten werden von der Hochschulleitung festgelegt und öffentlich b
 
 <sup>3</sup> Verlorene oder beschädigte Medien werden auf Kosten der Benutzerin oder des Benutzers ersetzt. In Absprache mit den Bibliotheksmitarbeitenden kann durch die Benutzenden direkt Ersatz geleistet werden.
 
-<sup>4</sup> Die Bibliothek übernimmt keine Haftung, weder für den Inhalt angebotener Medien noch für Schäden an Abspielgeräten, die durch ausgeliehene Medien entstanden sind, oder für die Beschädigung oder den Verlust von persönlichen Gegenständen, die in der Bibliothek, insbesondere in den Einzelarbeitsräumen aufbewahrt werden.
+<sup>4</sup> Die Bibliothek übernimmt keine Haftung, weder für den Inhalt angebotener Medien noch für Schäden an Abspielgeräten, die durch ausgeliehene Medien entstanden sind, oder für die Beschädigung oder den Verlust von persönlichen Gegenständen, die in der Bibliothek aufbewahrt werden.[^hBBenutzungundAus-4]
 
 <sup>5</sup> Benutzende sind selbst für die Einhaltung der urheberrechtlichen Bestimmungen verantwortlich. Im Falle etwaiger Urheberrechtsverletzungen lehnt die PHZH jegliche Haftung ab.
 
 **3**
 
-- 1\. 4. 21 - 112
+- 1\. 1. 22 - 115
 
 [^hBBenutzungundAus-1]: Fassung gemäss B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020.
 [^hBBenutzungundAus-2]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
+[^hBBenutzungundAus-3]: Aufgehoben durch B vom 29. September 2021 (OS 76, 471; ABl 2021-10-08). In Kraft seit 1. Dezember 2021. 1. 1. 22 - 115 5
+[^hBBenutzungundAus-4]: Fassung gemäss B vom 29. September 2021 (OS 76, 471; ABl 2021-10-08). In Kraft seit 1. Dezember 2021.
 
 ### C. Sanktionen
 
@@ -142,19 +143,15 @@ Die Öffnungszeiten werden von der Hochschulleitung festgelegt und öffentlich b
 
 § 12.[^hCSanktionen-1] Bei Verstössen gegen die Benutzungsordnung, namentlich ausstehenden Gebühren und zur Rückgabe fälligen Medien, oder Missachtung von Anweisungen der Bibliotheksmitarbeitenden kann die Bibliotheksleitung das Benutzungskonto vorübergehend sperren.
 
-[^hCSanktionen-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
-
-#### § 13
-
-**Räumung von Einzelarbeitsräumen**
-
-Verstösse gegen die Vorgaben zur Benutzung der Einzelarbeitsräume können die Räumung zur Folge haben.
+§ 13.[^hCSanktionen-2]
 
 **Ausschluss**
 
-§ 14.[^13-1] Wer wiederholt gegen die Benutzungsordnung verstösst, kann durch die Verwaltungsdirektorin oder den Verwaltungsdirektor von der Benutzung der Bibliotheken und der Einzelarbeitsräume ausgeschlossen werden.
+§ 14.[^hCSanktionen-3] Wer wiederholt gegen die Benutzungsordnung verstösst, kann durch die Verwaltungsdirektorin oder den Verwaltungsdirektor von der Benutzung der Bibliotheken ausgeschlossen werden.
 
-[^13-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
+[^hCSanktionen-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
+[^hCSanktionen-2]: Aufgehoben durch B vom 29. September 2021 (OS 76, 471; ABl 2021-10-08). In Kraft seit 1. Dezember 2021. 1. 1. 22 - 115 5
+[^hCSanktionen-3]: Fassung gemäss B vom 29. September 2021 (OS 76, 471; ABl 2021-10-08). In Kraft seit 1. Dezember 2021.
 
 ### D. Kosten und Gebühren
 
@@ -182,7 +179,7 @@ Für verlorene oder beschädigte Medien oder andere Materialien sind der PHZH di
 
 <sup>4</sup> Für Mitarbeitende der PHZH ist der Interbibliothekarische Leihverkehr kostenlos. Im Übrigen gelten die Gebühren für den Interbibliothekarischen Leihverkehr sowohl für die Benutzenden, die eine Bestellung an die PHZH richten, als auch für die zu beliefernden Partnerbibliotheken. In der Bearbeitungsgebühr für den Interbibliothekarischen Leihverkehr sind die Ausleihgebühr und die Posttaxen der Partnerbibliothek in der Regel enthalten. Besondere Gebühren der Partnerbibliothek werden an die Benutzenden weiterverrechnet.
 
-[^16-1]: Aufgehoben durch B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020. 1. 4. 21 - 112 5
+[^16-1]: Aufgehoben durch B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020.
 [^16-2]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
 
 #### § 17
@@ -193,11 +190,11 @@ Der Anhang regelt die Höhe der Kosten und Gebühren.
 
 **Zahlung**
 
-§ 18.[^17-1] <sup>1</sup> Kosten und Gebühren sind in der Regel bar zu bezahlen.
+§ 18.[^17-1] <sup>1</sup> Kosten und Gebühren können innerhalb eines Monats vor Ort bezahlt werden. Wird die Gebühr nicht in diesem Zeitraum vor Ort beglichen, erfolgt die Rechnungstellung durch die SLSP.
 
-<sup>2</sup> Als Zahlungsmittel akzeptiert sind von der Bibliothek der PHZH Bargeld und Debitkarten. In der Forschungsbibliothek Pestalozzianum ist nur die Barzahlung möglich.
+<sup>2</sup> Als Zahlungsmittel akzeptiert sind von der Bibliothek der PHZH Debit- oder Kreditkarten. In der Forschungsbibliothek Pestalozzianum ist nur die Barzahlung möglich.
 
-[^17-1]: Fassung gemäss B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020.
+[^17-1]: Fassung gemäss B vom 29. September 2021 (OS 76, 471; ABl 2021-10-08). In Kraft seit 1. Dezember 2021.
 
 ### E. Schlussbestimmung
 
@@ -272,17 +269,16 @@ Schweiz: Papierkopien pro 20 abgebildete Seiten
 
 - b) Ausland: digitale Kopien pro 20 abgebildete Seiten Ausland: Papierkopien pro 20 abgebildete Seiten 10.50 Digitale Kopien oder Papierkopien an ausländische Bibliotheken pro 20 abgebildete Seiten 1 IFLA-Voucher oder 12
 
-**5**
+[^hBearbeitungsgebühren-1]: Aufgehoben durch B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020.
+[^hBearbeitungsgebühren-2]: Aufgehoben durch B vom 29. September 2021 (OS 76, 471; ABl 2021-10-08). In Kraft seit 1. Dezember 2021. 1. 1. 22 - 115 5
 
-**5 (total 10)**
+### 3.
 
-**10 (total 20)**
+[^hBearbeitungsgebühren-2]
 
-- 3\. Rechnungstellung bei nicht bar oder als Vorauskasse mittels Banküberweisung bezahlten Gebühren und Kosten 20 Fr.
+Fr.
 
 **4.**
-
-[^hBearbeitungsgebühren-1]: Aufgehoben durch B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020. 1. 4. 21 - 112 5
 
 ### Postversand (pro Medium)
 
@@ -300,6 +296,12 @@ Schweiz: Papierkopien pro 20 abgebildete Seiten
 
 der fristgerechten Rückgabe a) erste Mahnung (7 Tage nach Ablauf der Leihfrist) b) zweite Mahnung (14 Tage nach Ablauf der Leihfrist) c) dritte Mahnung (21 Tage nach Ablauf der Leihfrist)
 
+**5**
+
+**5 (total 10)**
+
+**10 (total 20)**
+
 **7**
 
-- 1\. 4. 21 - 112
+- 1\. 1. 22 - 115
