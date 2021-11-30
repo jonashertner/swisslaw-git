@@ -4,13 +4,13 @@ number: "211.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2021-06-01
-valid_until: 2021-11-30
-version_adopted: 2020-03-12
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-08
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2276/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2410/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2276/pdf_file"
 
 (EG ZGB)
 
-vom 28.05.1911 (Stand 01.06.2021)
+vom 28.05.1911 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -147,9 +147,9 @@ beschliesst:
 
 #### Art. 14
 
-**2 Besondere Bekanntmachung 2.1 Im Amtsblatt**
+**2 Besondere Bekanntmachung 2.1 Im kantonalen Amtsblatt**
 
-<sup>1</sup> In den Fällen der Artikel 36, 555, 558, 582, 662 ZGB, 43 Schlusstitel ZGB, des Artikels 359a OR und des Artikels 68 EG ZGB hat die Veröffentlichung ausserdem stets in den kantonalen Amtsblättern zu erfolgen.
+<sup>1</sup> In den Fällen der Artikel 36, 555, 558, 582, 662 ZGB, 43 Schlusstitel ZGB, des Artikels 359a OR und des Artikels 68 hat die Veröffentlichung ausserdem stets im kantonalen Amtsblatt zu erfolgen.
 
 #### Art. 15
 
@@ -987,7 +987,7 @@ beschliesst:
 
 <sup>2</sup> Die Anordnung der Bereinigung erfolgt durch Verfügung. In der Verfügung werden der örtliche und der sachliche Umfang der Bereinigung festgelegt.
 
-<sup>3</sup> Die Verfügung wird in den kantonalen Amtsblättern veröffentlicht und den Eigentümerinnen und Eigentümern der Grundstücke im Bereinigungsperimeter schriftlich mitgeteilt.
+<sup>3</sup> Die Verfügung wird im kantonalen Amtsblatt veröffentlicht und den Eigentümerinnen und Eigentümern der Grundstücke im Bereinigungsperimeter schriftlich mitgeteilt.
 
 <sup>4</sup> Gegen die Verfügung der Direktion für Inneres und Justiz kann innert 30 Tagen Beschwerde beim Regierungsrat geführt werden.
 

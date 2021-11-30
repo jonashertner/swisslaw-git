@@ -4,13 +4,13 @@ number: "211.1"
 title: "Loi sur l'introduction du Code civil suisse *"
 short: LiCCS
 language: fr
-version: 2021-06-01
-valid_until: 2021-11-30
-version_adopted: 2020-03-12
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-08
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2276/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2410/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2276/pdf_file"
 
 (LiCCS)
 
-du 28.05.1911 (état au 01.06.2021)
+du 28.05.1911 (état au 01.12.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -149,9 +149,9 @@ décrète:
 
 #### Art. 14
 
-**2 Publication spéciale 2.1 Dans les feuilles officielles**
+**2 Publication spéciale 2.1 Dans la feuille officielle cantonale**
 
-<sup>1</sup> Les publications prévues aux articles 36, 555, 558, 582, 662 CCS, 43 Titre final du CCS, 359a CO et 68 LiCCS doivent en outre toujours être faites dans les feuilles officielles cantonales.
+<sup>1</sup> Les publications prévues aux articles 36, 555, 558, 582, 662 CCS, 43 Titre final du CCS, 359a CO et 68 doivent en outre toujours être faites dans la feuille officielle cantonale.
 
 #### Art. 15
 
@@ -990,7 +990,7 @@ décrète:
 
 <sup>2</sup> L’épuration est ordonnée par voie de décision. Celle-ci fixe le champ d’application géographique et matériel de l’épuration.
 
-<sup>3</sup> La décision est publiée dans les feuilles officielles cantonales et communiquée par écrit aux propriétaires des immeubles situés dans le périmètre concerné par l’épuration.
+<sup>3</sup> La décision est publiée dans la feuille officielle cantonale et communiquée par écrit aux propriétaires des immeubles situés dans le périmètre concerné par l’épuration.
 
 <sup>4</sup> La décision de la Direction de l’intérieur et de la justice peut, dans les 30 jours, faire l’objet d’un recours auprès du Conseil-exécutif.
 
@@ -1170,7 +1170,7 @@ décrète:
 
 **3 Publication de l'inscription d'un représentant d'indivision**
 
-<sup>1</sup> Les inscriptions portant sur les représentants d'indivision (art. 341, 3<sup>e</sup> al. CCS) seront publiées une fois dans la Feuille officielle cantonale.
+<sup>1</sup> Les inscriptions portant sur les représentants d'indivision (art. 341, 3<sup>e</sup> al. CCS) seront publiées une fois dans la feuille officielle cantonale.
 
 ## 3 Dispositions transitoires
 
