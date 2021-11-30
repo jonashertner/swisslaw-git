@@ -4,20 +4,20 @@ number: "400.104"
 title: "Règlement concernant les modalités d'application de l'action sports de neige"
 short: RASN
 language: fr
-version: 2020-12-01
-valid_until: 2021-11-30
-version_adopted: 2020-11-25
+version: 2021-12-01
+valid_until: 2024-07-31
+version_adopted: 2021-12-22
 adopted: 2020-11-25
 in_force: 2020-12-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.104"
-pdf: "https://lex.vs.ch/api/fr/versions/2773/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3001/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement concernant les modalités d'application de l'action sports de neige
 
-du 25.11.2020 (état 01.12.2020)
+du 25.11.2020 (état 01.12.2021)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -45,15 +45,15 @@ ordonne: [^ingress-1]
 
 **But**
 
-<sup>1</sup> Le présent règlement définit les modalités d’application de "l’action sports de neige" (ci-après: l’action) dont le but consiste à promouvoir la pratique des sports de neige dans le cadre scolaire.
+<sup>1</sup> Le présent règlement définit les modalités d’application de "l’action sports de neige" (ci-après: l’action) dont le but consiste à promouvoir la pratique du ski alpin, du ski de fond et du snowboard (ci-après: également sports de neige) dans le cadre scolaire.
 
 #### Art. 2
 
 **Champ d’application**
 
-<sup>1</sup> L’action s’applique aux élèves de la scolarité obligatoire des écoles publiques valaisannes.
+<sup>1</sup> L’action s’applique aux élèves, domiciliés en Valais, de la scolarité obligatoire des écoles publiques valaisannes.
 
-<sup>2</sup> Le présent règlement définit la subvention cantonale et ses modalités.
+<sup>2</sup> Le présent règlement définit les subventions cantonales et leurs modalités.
 
 ## 2 Tâches et responsabilités
 
@@ -61,54 +61,56 @@ ordonne: [^ingress-1]
 
 **Tâches et responsabilités**
 
-<sup>1</sup> La direction d'école, respectivement la commission scolaire, la commune ou les associations de communes, est responsable de l’organisation des sorties de sports de neige.
+<sup>1</sup> Les directions d'école, respectivement les commissions scolaires, les communes ou les associations de communes (ci-après: les organisateurs) sont responsables de l’organisation des sorties de sports de neige.
 
-<sup>2</sup> Les parents dont les enfants ne possèdent pas de matériel technique (ski/snowboard/ski de fond, bâtons, casque et chaussures) peuvent s’en procurer gratuitement dans les magasins de sport partenaires affiliés à la section valaisanne de l’Association Suisse des Magasins d’Articles de Sport (ASMAS). Ces magasins se chargent de transmettre les factures des locations y relatives.
+<sup>2</sup> La fondation Valais SNOWSPORTS (ci-après: la fondation) actualise les listes des magasins de sport, des écoles de ski et des remontées mécaniques qu’elle reconnaît comme partenaires de l’action (ci-après: les magasins de sport, les écoles de ski et les remontées mécaniques partenaires) et les met à disposition des directions d’école.
 
-<sup>3</sup> La Fondation VALAIS SNOWSPORTS (ci-après: la fondation) actualise la liste des magasins de sport partenaires et la met à disposition des directions d’école.
+<sup>3</sup> Les parents dont les enfants ne possèdent pas de matériel technique (skis/snowboard/skis de fond, bâtons, casque et chaussures) peuvent s’en procurer gratuitement dans les magasins de sport partenaires. Ces magasins se chargent de transmettre les factures des locations y relatives aux organisateurs.
 
-<sup>4</sup> La direction d'école, respectivement la commission scolaire, la commune ou les associations de communes, règle les différentes factures (notamment les forfaits, le matériel technique, les écoles suisses de ski [ci-après: les ESS], les frais logistiques) et adresse à la fondation une demande standardisée de subvention cantonale pour les élèves ayant participé à l’action. La demande doit être accompagnée de tous les justificatifs nécessaires (notamment nom et prénom de l’élève, commune de domicile, commune de scolarisation, factures et preuves de paiement).
+<sup>4</sup> Les organisateurs règlent les différentes factures (notamment les forfaits, le matériel technique, l'enseignement par une école de ski et les frais logistiques) et transmettent à la fondation les données des élèves ayant participé à l'action (notamment noms et prénoms, communes de domicile et communes de scolarisation) avec les justificatifs nécessaires (factures et preuves de paiement).
 
-<sup>5</sup> La fondation contrôle et traite de manière conforme à la loi sur l’information du public, la protection des données et l'archivage (LIPDA) les données transmises par la direction d'école, respectivement la commission scolaire, la commune ou les associations de communes. Le service en charge de la scolarité obligatoire les valide.
+<sup>5</sup> La fondation contrôle et traite de manière conforme à la loi sur l’information du public, la protection des données et l'archivage (LIPDA) les données transmises par les organisateurs et calcule sur cette base les montants des subventions cantonales. Le service en charge de la scolarité obligatoire les valide.
 
-<sup>6</sup> Les ESS sont en principe responsables de dispenser l’enseignement des sports de neige aux élèves concernés par l’action.
+<sup>6</sup> Les écoles de ski partenaires sont en principe responsables de dispenser l'enseignement des sports de neige aux élèves concernés par l'action.
 
 <sup>7</sup> Les autres tâches et responsabilités de la fondation sont réglées par un mandat de prestations avec le département en charge de la formation (ci-après: le département).
 
-## 3 Subvention cantonale
+## 3 Subventions cantonales
 
 #### Art. 4
 
 **Conditions**
 
-<sup>1</sup> La subvention cantonale est versée aux communes de domicile des élèves aux conditions cumulatives suivantes:
+<sup>1</sup> Les subventions cantonales sont versées aux communes de domicile des élèves aux conditions cumulatives suivantes:
 
-- a) douze heures d’enseignement de sports de neige (ski alpin, snowboard, et/ou ski de fond) sont organisées en privilégiant l'aménagement des cours lors d’une même semaine et durant les périodes de moindre affluence (basses saisons). La subvention cantonale doit permettre de couvrir les éléments suivants:
-  - 1\. les forfaits pour les remontées mécaniques,
-  - 2\. l’enseignement en principe par les ESS, comprenant la campagne de prévention "Esprit Piste" encourageant les élèves à adopter les bons comportements sur les pistes,
+- a) 12 heures de sports de neige (ski alpin, snowboard, et/ou ski de fond) sont organisées en privilégiant l'aménagement des sorties lors d’une même semaine et durant les périodes de moindre affluence (basses saisons). Les subventions cantonales doivent permettre de couvrir en principe les éléments suivants:
+  - 1\. les forfaits pour les remontées mécaniques valaisannes,
+  - 2\. l’enseignement par les écoles de ski partenaires, comprenant la campagne de prévention "Esprit Piste" encourageant les élèves à adopter les bons comportements sur les pistes,
   - 3\. le matériel technique nécessaire, et
-  - 4\. une partie des frais logistiques inhérents à ces journées;
-- b) les heures d'enseignement de sport de neige (ski alpin, snowboard, et/ou ski de fond) prévues à la lettre a du présent alinéa sont obligatoires pour tous les élèves d’un même degré scolaire, sauf raison médicale dûment attestée;
-- c) la direction d’école privilégie une station de ski de sa région.
+  - 4\. les frais logistiques inhérents à ces journées;
+- b) les heures de sports de neige (ski alpin, snowboard, et/ou ski de fond) prévues à la lettre a du présent alinéa sont obligatoires pour tous les élèves d’un même degré scolaire, sauf raison médicale dûment attestée;
+- c) les organisateurs privilégient une station de ski de leur région.
 
 #### Art. 5
 
-**Montant de la subvention cantonale**
+**Montant des subventions cantonales**
 
-<sup>1</sup> Le département verse aux communes de domicile des élèves la subvention cantonale suivante:
+<sup>1</sup> Le département verse aux communes de domicile des élèves les subventions cantonales suivantes:
 
-- a) un montant forfaitaire d'au maximum 45 francs octroyé pour l’année scolaire concernée pour les frais de remontées mécaniques, de matériel et de logistiques pour chaque élève ayant participé à l’action;
-- b) un montant forfaitaire d'au maximum 45 francs pour chaque élève ayant bénéficié de douze heures de cours dispensé par les ESS.
+- a) un montant forfaitaire de 15 francs par sortie de sports de neige, mais au maximum 45 francs au total, octroyé pour l’année scolaire concernée, pour les frais de remontées mécaniques, de matériel technique et de logistique pour chaque élève ayant participé à l’action;
+- b) un montant forfaitaire d'au maximum 45 francs pour chaque élève ayant bénéficié de 12 heures d'enseignement de sports de neige dispensées par une école de ski partenaire.
 
-<sup>2</sup> La subvention cantonale prévue à l'alinéa 1 du présent article est versée au prorata temporis des heures d'enseignement de sport de neige effectuées.
+<sup>2</sup> La subvention cantonale prévue à l'alinéa 1 lettre b du présent article est versée au prorata temporis des heures d'enseignement de sport de neige effectuées.
 
-<sup>3</sup> En cas d’annulation par l’organisateur, aucun montant forfaitaire n’est versé pour l’équivalent des heures concernées.
+<sup>3</sup> En cas d’annulation, les sorties de sports de neige concernées doivent en principe être remplacées.
 
 <sup>4</sup> Les effets et équipements personnels des élèves ainsi que les frais de repas demeurent à la charge des parents conformément aux dispositions prévues dans le règlement concernant la prise en charge des frais pour les fournitures scolaires et les activités culturelles et sportives relatifs à la scolarité obligatoire.
 
-<sup>5</sup> Les journées annulées doivent être dans la mesure du possible remplacées.
+<sup>5</sup> …
 
-<sup>6</sup> La subvention cantonale est versée au plus tard pour le 30 avril de l’année scolaire en cours.
+<sup>5a</sup> Le non-respect des conditions définies à l'article 4 alinéa 1 lettre b du présent règlement entraîne la suppression des subventions pour l'ensemble du degré scolaire concerné dans l'établissement scolaire en question.
+
+<sup>6</sup> Les subventions cantonales sont versées en principe pour la fin de l'année scolaire en cours, les communes de domicile supportant la différence entre les subventions cantonales et les frais effectifs liés à l'action sports de neige.
 
 <sup>7</sup> Le département est compétent pour traiter les cas particuliers.
 
@@ -116,11 +118,13 @@ ordonne: [^ingress-1]
 
 **Elèves scolarisés dans une autre commune que leur commune de domicile**
 
-<sup>1</sup> Pour les élèves scolarisés dans une autre commune que leur commune de domicile, la commune scolarisant ces élèves refacture à la commune de domicile les montants forfaitaires non perçus au titre de l’article 5. Demeurent réservés d’autres accords entre communes.
+<sup>1</sup> Pour les élèves scolarisés dans une autre commune que leur commune de domicile, la commune scolarisant ces élèves refacture à la commune de domicile les subventions cantonales non perçues au titre de l’article 5. Demeurent réservés d’autres accords entre communes.
 
 <sup>2</sup> L’alinéa 1 du présent article s’applique notamment aux élèves en immersion pour l’apprentissage de la langue 2, scolarisés dans une école partenaire du sport ou dans un centre pédagogique spécialisé.
 
-<sup>3</sup> Le département décide des cas particuliers.
+<sup>2<sup>bis</sup></sup> Les contestations liées au domicile des élèves doivent être réglées entre les communes concernées.
+
+<sup>3</sup> Le département est compétent pour traiter les cas particuliers.
 
 ## 4 Voie de recours
 
