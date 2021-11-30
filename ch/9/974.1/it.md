@@ -3,18 +3,18 @@ sr: "974.1"
 title: "Legge federale del 30 settembre 2016 sulla cooperazione con gli Stati dell'Europa dell'Est"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/323"
 language: it
-version: 2017-06-01
+version: 2021-12-01
 adopted: 2016-09-30
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20170601/it/xml/fedlex-data-admin-ch-eli-cc-2017-323-20170601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20170601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2017-323-20211201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla cooperazione con gli Stati dell’Europa dell’Est
 
-del 30 settembre 2016 (Stato 1° giugno 2017)
+del 30 settembre 2016 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -147,44 +147,9 @@ Il Consiglio federale provvede affinché nell’Amministrazione federale la poli
 
 #### Art. 15
 
-**Amministrazione del personale locale**
+[^15-1]
 
-<sup>1</sup>
-
-Il datore di lavoro tratta, in forma cartacea e nel sistema di informazione BV PLUS dell’Ufficio federale del personale, i dati del personale del Dipartimento federale degli affari esteri (DFAE) non trasferibile e impiegato all’estero sulla base di un contratto di diritto privato e attivo nell’ambito della cooperazione con gli Stati dell’Europa dell’Est (personale locale) del quale necessita per svolgere i suoi compiti quale datore di lavoro, in particolare per:
-
-- a. determinare il fabbisogno di personale;
-- b. reclutare il personale al fine di garantire gli effettivi necessari;
-- c. gestire i salari e le remunerazioni, costituire i dossier del personale e gestire le comunicazioni alle assicurazioni sociali;
-- d. promuovere le misure di sviluppo e fidelizzazione degli impiegati;
-- e. mantenere e migliorare il livello di qualifica degli impiegati;
-- f. assicurare una pianificazione, un monitoraggio e un controllo mediante analisi comparative, analisi di dati, di rapporti e di piani di misure.
-
-<sup>2</sup>
-
-Il datore di lavoro può trattare i seguenti dati relativi al personale necessari per lo svolgimento dei compiti di cui al capoverso 1, compresi i dati sensibili e i profili della personalità:
-
-- a. informazioni relative alla persona;
-- b. informazioni relative allo stato di salute in rapporto alla capacità lavorativa;
-- c. informazioni relative alla salute connesse con i rimborsi dell’assicurazione malattie;
-- d. informazioni relative alle prestazioni, al potenziale e allo sviluppo personale e professionale;
-- e. dati richiesti nell’ambito della collaborazione per l’esecuzione del diritto delle assicurazioni sociali;
-- f. atti procedurali e decisioni delle autorità riguardanti il lavoro.
-
-<sup>3</sup> Il datore di lavoro è responsabile della protezione e della sicurezza dei dati.
-
-<sup>4</sup> Può trasmettere dati a terzi unicamente se una base legale lo prevede o se la persona interessata vi acconsente per scritto.
-
-<sup>5</sup> I dati di cui al capoverso 2 lettere a e c possono essere trasmessi al consulente assicurativo del DFAE solo se sono assolutamente necessari per chiarire un caso specifico.
-
-<sup>6</sup>
-
-Il datore di lavoro emana disposizioni d’esecuzione concernenti:
-
-- a. il trattamento dei dati, in particolare la loro raccolta, conservazione, archiviazione e distruzione;
-- b. le autorizzazioni per il trattamento dei dati;
-- c. le categorie di dati di cui al capoverso 2;
-- d. la protezione e la sicurezza dei dati.
+[^15-1]: Abrogato dall’all. n. II 4 della LF 18 dic. 2020 sul trattamento dei dati personali da parte del DFAE, con effetto dal 1° dic. 2021 ([RU 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [FF 2020 1179](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 #### Art. 16
 

@@ -3,18 +3,18 @@ sr: "974.1"
 title: Bundesgesetz vom 30. September 2016 über die Zusammenarbeit mit den Staaten Osteuropas
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/323"
 language: de
-version: 2017-06-01
+version: 2021-12-01
 adopted: 2016-09-30
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20170601/de/xml/fedlex-data-admin-ch-eli-cc-2017-323-20170601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20170601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2017-323-20211201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Zusammenarbeit mit den Staaten Osteuropas
 
-vom 30. September 2016 (Stand am 1. Juni 2017)
+vom 30. September 2016 (Stand am 1. Dezember 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -147,44 +147,9 @@ Der Bundesrat sorgt für eine verwaltungsinterne Kohärenz und Koordination der 
 
 #### Art. 15
 
-**Administration des Lokalpersonals**
+[^15-1]
 
-<sup>1</sup>
-
-Der Arbeitgeber bearbeitet in Papierform und im Informationssystem BV PLUS des Eidgenössischen Personalamts die Daten des aufgrund eines privatrechtlichen Vertrags im Ausland angestellten, nicht versetzbaren Personals des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) im Bereich der Zusammenarbeit mit den Staaten Osteuropas (Lokalpersonal), die er zur Erfüllung seiner Aufgaben als Arbeitgeber benötigt, insbesondere für:
-
-- a. die Ermittlung des erforderlichen Personalbedarfs;
-- b. die Sicherung des erforderlichen Personalbestands durch die Gewinnung von Mitarbeiterinnen und Mitarbeitern;
-- c. die Lohn- und Gehaltsabrechnung, das Anlegen von Personalakten und die Meldungen an die Sozialversicherungen;
-- d. die Förderung sowie den langfristigen Erhalt von Mitarbeiterinnen und Mitarbeitern;
-- e. die Erhaltung und Verbesserung der Qualifikation der Mitarbeiterinnen und Mitarbeiter;
-- f. die Planung, Steuerung und Kontrolle durch Datenanalysen, Vergleiche, Berichterstattung und Massnahmenplanung.
-
-<sup>2</sup>
-
-Er kann folgende für die Erfüllung seiner Aufgaben nach Absatz 1 notwendige Daten seines Personals, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, bearbeiten:
-
-- a. Angaben zur Person;
-- b. Angaben zur gesundheitlichen Situation in Bezug auf die Arbeitsfähigkeit;
-- c. Angaben zur Gesundheit im Zusammenhang mit den Rückerstattungen der Krankenversicherung;
-- d. Angaben zu Leistungen und Potenzial sowie zur persönlichen und beruflichen Entwicklung;
-- e. erforderliche Daten im Rahmen der Mitwirkung beim Vollzug des Sozialversicherungsrechts;
-- f. Verfahrensakten und Entscheide von Behörden in Verbindung mit der Arbeit.
-
-<sup>3</sup> Er ist verantwortlich für den Schutz und die Sicherheit der Daten.
-
-<sup>4</sup> Er darf Daten nur an Dritte weitergeben, wenn dafür eine gesetzliche Grundlage besteht oder die betroffene Person der Weitergabe schriftlich zugestimmt hat.
-
-<sup>5</sup> Daten nach Absatz 2 Buchstaben a und c können an den Versicherungsberater des EDA weitergegeben werden, wenn dieser sie zur Klärung eines bestimmten Falls unbedingt benötigt.
-
-<sup>6</sup>
-
-Der Arbeitgeber erlässt Ausführungsbestimmungen über:
-
-- a. die Bearbeitung der Daten, insbesondere die Beschaffung, Aufbewahrung, Archivierung und Vernichtung;
-- b. die Berechtigungen zur Datenbearbeitung;
-- c. die Datenkategorien nach Absatz 2;
-- d. den Schutz und die Sicherheit der Daten.
+[^15-1]: Aufgehoben durch Anhang Ziff. II 4 des BG vom 18. Dez. 2020 über die Bearbeitung von Personendaten durch das EDA, mit Wirkung seit 1. Dez. 2021 ([AS 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [BBl 2020 1349](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 #### Art. 16
 
@@ -220,7 +185,7 @@ Die Beratende Kommission für internationale Zusammenarbeit nach Artikel 14 des 
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^19-1]
+...[^19-1]
 
 [^19-1]: Die Änderungen können unter [AS 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323)konsultiert werden.
 

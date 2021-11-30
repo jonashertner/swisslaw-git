@@ -3,11 +3,11 @@ sr: "974.1"
 title: "Lescha federala dals 30 da settember 2016 davart la collavuraziun cun ils stadis da l'Europa da l'Ost"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/323"
 language: rm
-version: 2017-06-01
+version: 2021-12-01
 adopted: 2016-09-30
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20170601/rm/xml/fedlex-data-admin-ch-eli-cc-2017-323-20170601-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20170601/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20211201/rm/xml/fedlex-data-admin-ch-eli-cc-2017-323-20211201-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20211201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20170601/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da settember 2016 (versiun dal 1. da zercladur 2017)
+dals 30 da settember 2016 (versiun dal 1. da december 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -149,44 +149,9 @@ Il Cussegl federal procura per la coerenza e per la coordinaziun da la politica 
 
 #### Art. 15
 
-**Administraziun dal persunal local**
+[^15-1]
 
-<sup>1</sup>
-
-Il patrun elavura – sin palpiri ed en il sistem d’infurmaziun BV PLUS da l’Uffizi federal da persunal – las datas dal persunal dal Departament federal d’affars exteriurs (DFAE) betg transferibel ed emploià a l’exteriur sin basa d’in contract da dretg privat ed activ en il sectur da la collavuraziun cun ils stadis da l’Europa da l’Ost (persunal local), ch’el dovra per ademplir sias incumbensas sco patrun, en spezial per:
-
-- a. eruir il basegn da persunal necessari;
-- b. garantir il dumber da persunal necessari cun recrutar collavuraturs;
-- c. administrar il rendaquint dals salaris, endrizzar actas dal persunal e far las annunzias a las assicuranzas socialas;
-- d. promover e mantegnair a lunga vista ils collavuraturs;
-- e. mantegnair e meglierar la qualificaziun dals collavuraturs;
-- f. garantir la planisaziun, la regulaziun e la controlla cun agid d’analisas da las datas, da cumparegliaziuns, da rapports e da planisaziuns da mesiras.
-
-<sup>2</sup>
-
-Il patrun po elavurar las suandantas datas da ses persunal, inclusiv datas persunalas spezialmain sensiblas e profils da persunalitad, ch’èn necessarias per ademplir sias incumbensas tenor l’alinea 1:
-
-- a. indicaziuns davart la persuna;
-- b. indicaziuns davart la situaziun da la sanadad areguard la capacitad da lavurar;
-- c. indicaziuns davart la sanadad en connex cun las restituziuns da l’assicuranza da malsauns;
-- d. indicaziuns davart la prestaziun e davart il potenzial sco er davart il svilup persunal e professiunal;
-- e. datas necessarias en il rom da la cooperaziun per l’execuziun dal dretg d’assicuranza sociala;
-- f. actas da proceduras e decisiuns d’autoritads en connex cun la lavur.
-
-<sup>3</sup> Il patrun è responsabel per la protecziun e per la segirezza da las datas.
-
-<sup>4</sup> El dastga dar vinavant datas a terzas persunas mo, sch’igl exista ina basa legala correspundenta u sche la persuna pertutgada ha dà ses consentiment en scrit.
-
-<sup>5</sup> Las datas tenor l’alinea 2 literas b e c pon vegnir surdadas al cussegliader d’assicuranza dal DFAE, sch’ellas èn indispensablas per el per sclerir in tschert cas.
-
-<sup>6</sup>
-
-Il patrun decretescha disposiziuns executivas davart:
-
-- a. l’elavuraziun da las datas, en spezial l’acquisiziun, la conservaziun, l’archivaziun e la destrucziun;
-- b. las autorisaziuns d’elavurar las datas;
-- c. las categorias da datas tenor l’alinea 2;
-- d. la protecziun e la segirezza da las datas.
+[^15-1]: Abolì tras la cifra II 4 da l’agiunta da la LF dals 18 da dec. 2020 davart l’elavuraziun da datas persunalas tras il DFAE, cun effect dapi il 1. da dec. 2021 ([AS 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [BBl 2020 1349](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 #### Art. 16
 
@@ -222,7 +187,7 @@ La Cumissiun consultativa per la cooperaziun internaziunala tenor l’artitgel 1
 
 Ils decrets qua sutvart vegnan midads sco suonda:
 
-…[^19-1]
+...[^19-1]
 
 [^19-1]: Las midadas pon vegnir consultadas en la [AS 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323).
 

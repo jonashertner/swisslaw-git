@@ -3,18 +3,18 @@ sr: "974.1"
 title: "Loi fédérale du 30 septembre 2016 sur la coopération avec les Etats d'Europe de l'Est"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/323"
 language: fr
-version: 2017-06-01
+version: 2021-12-01
 adopted: 2016-09-30
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20170601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-323-20170601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20170601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-323-20211201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la coopération avec les Etats d’Europe de l’Est\*
+# Loi fédérale sur la coopération avec les États d’Europe de l’Est\*
 
-du 30 septembre 2016 (Etat le 1<sup>er</sup> juin 2017)[^t-1]
+du 30 septembre 2016 (Etat le 1<sup>er</sup> décembre 2021)[^t-1]
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -33,9 +33,9 @@ arrête:
 
 **Objet**
 
-<sup>1</sup> La Confédération prend des mesures propres à soutenir les Etats d’Europe de l’Est dans leurs efforts pour construire et consolider la démocratie, réaliser la transition vers l’économie de marché et mettre en place leurs structures sociales.
+<sup>1</sup> La Confédération prend des mesures propres à soutenir les États d’Europe de l’Est dans leurs efforts pour construire et consolider la démocratie, réaliser la transition vers l’économie de marché et mettre en place leurs structures sociales.
 
-<sup>2</sup> Les Etats d’Europe de l’Est au sens de la présente loi sont les pays autrefois communistes d’Europe de l’Est et de l’ancienne Union des Républiques socialistes soviétiques (URSS).
+<sup>2</sup> Les États d’Europe de l’Est au sens de la présente loi sont les pays autrefois communistes d’Europe de l’Est et de l’ancienne Union des Républiques socialistes soviétiques (URSS).
 
 <sup>3</sup> Dans le cadre de la contribution de la Suisse à l’atténuation des disparités économiques et sociales dans l’Union européenne élargie, la Confédération peut aussi soutenir Chypre et Malte.
 
@@ -43,18 +43,18 @@ arrête:
 
 **Buts**
 
-La coopération avec les Etats d’Europe de l’Est poursuit les buts suivants:
+La coopération avec les États d’Europe de l’Est poursuit les buts suivants:
 
-- a. promouvoir et renforcer l’Etat de droit et les droits de l’homme dans ces pays et favoriser la construction ou la consolidation de leur système démocratique, en particulier d’institutions politiques stables;
+- a. promouvoir et renforcer l’État de droit et les droits de l’homme dans ces pays et favoriser la construction ou la consolidation de leur système démocratique, en particulier d’institutions politiques stables;
 - b. promouvoir un développement économique et social durable, fondé sur les principes de l’économie de marché et favorisant la stabilité économique, le développement culturel, l’accroissement des revenus et l’amélioration des conditions de vie des populations, tout en contribuant à la protection de l’environnement et à l’utilisation rationnelle des ressources naturelles.
 
 #### Art. 3
 
 **Principes**
 
-<sup>1</sup> La coopération avec les Etats d’Europe de l’Est fait partie intégrante de la politique étrangère et de la politique économique extérieure de la Suisse. Elle repose notamment sur le partenariat solidaire.
+<sup>1</sup> La coopération avec les États d’Europe de l’Est fait partie intégrante de la politique étrangère et de la politique économique extérieure de la Suisse. Elle repose notamment sur le partenariat solidaire.
 
-<sup>2</sup> Les mesures de coopération définies dans la présente loi tiennent compte de la situation des Etats d’Europe de l’Est, en particulier des besoins de leurs populations.
+<sup>2</sup> Les mesures de coopération définies dans la présente loi tiennent compte de la situation des États d’Europe de l’Est, en particulier des besoins de leurs populations.
 
 <sup>3</sup> Elles présupposent que les partenaires prennent de leur côté un nombre suffisant de mesures efficaces.
 
@@ -74,7 +74,7 @@ Les mesures de coopération peuvent être réalisées dans le cadre d’efforts 
 
 **Coordination**
 
-La Confédération coordonne ses propres mesures avec celles des Etats d’Europe de l’Est et avec les prestations fournies par d’autres institutions suisses, étrangères ou internationales.
+La Confédération coordonne ses propres mesures avec celles des États d’Europe de l’Est et avec les prestations fournies par d’autres institutions suisses, étrangères ou internationales.
 
 ## Section 2 Mesures
 
@@ -82,7 +82,7 @@ La Confédération coordonne ses propres mesures avec celles des Etats d’Europ
 
 **Formes de coopération**
 
-La coopération avec les Etats d’Europe de l’Est peut revêtir les formes suivantes:
+La coopération avec les États d’Europe de l’Est peut revêtir les formes suivantes:
 
 - a. coopération technique;
 - b. coopération financière, qui comprend l’aide financière, l’aide budgétaire, la réduction de l’endettement et les garanties;
@@ -125,7 +125,7 @@ Le Conseil fédéral définit les points forts et les domaines prioritaires des 
 
 **Accords**
 
-<sup>1</sup> Le Conseil fédéral peut conclure des accords internationaux qui fixent les principes généraux de la coopération avec un ou plusieurs Etats ou avec une organisation internationale.
+<sup>1</sup> Le Conseil fédéral peut conclure des accords internationaux qui fixent les principes généraux de la coopération avec un ou plusieurs États ou avec une organisation internationale.
 
 <sup>2</sup> Les offices compétents peuvent conclure des accords internationaux, des accords de droit privé ou des accords de droit public qui portent sur des programmes ou des projets spécifiques.
 
@@ -149,44 +149,9 @@ Le Conseil fédéral veille à assurer, au sein de l’administration fédérale
 
 #### Art. 15
 
-**Administration du personnel local**
+[^15-1]
 
-<sup>1</sup>
-
-L’employeur traite, sous forme papier et dans le système d’information BV PLUS de l’Office fédéral du personnel, les données relatives au personnel non transférable du Département fédéral des affaires étrangères (DFAE) employé à l’étranger sur la base d’un contrat de droit privé et actif dans le domaine de la coopération avec les Etats d’Europe de l’Est (personnel local) dont il a besoin pour exécuter les tâches qui lui incombent en sa qualité d’employeur, notamment pour:
-
-- a. déterminer les effectifs nécessaires;
-- b. recruter du personnel afin de garantir les effectifs nécessaires;
-- c. gérer les salaires et les rémunérations, établir les dossiers du personnel et gérer les communications adressées aux assurances sociales;
-- d. promouvoir les mesures de développement et de fidélisation des employés;
-- e. maintenir et augmenter le niveau de qualification des employés;
-- f. assurer une planification, un pilotage et un contrôle au moyen d’analyses de données, de comparaisons, de rapports et de plans de mesures.
-
-<sup>2</sup>
-
-II peut traiter les données ci-après relatives au personnel qui sont nécessaires à l’exécution des tâches mentionnées à l’al. 1, y compris les données sensibles et les profils de la personnalité:
-
-- a. données relatives à la personne;
-- b. données relatives à l’état de santé en rapport avec la capacité de travail;
-- c. données relatives à la santé en lien avec les remboursements de l’assurance maladie;
-- d. données relatives aux prestations, au potentiel et au développement personnel et professionnel;
-- e. données requises dans le cadre de la collaboration à la mise en œuvre du droit des assurances sociales;
-- f. données contenues dans les actes de procédure et les décisions des autorités ayant trait au travail.
-
-<sup>3</sup> II est responsable de la protection et de la sécurité des données.
-
-<sup>4</sup> II ne peut transmettre des données à des tiers que si une base légale le prévoit ou que la personne à laquelle ces données se rapportent a donné son consentement écrit.
-
-<sup>5</sup> Les données visées à l’al. 2, let. a et c, peuvent être transmises à l’assureur conseil du DFAE si elles lui sont, en l’espèce, absolument nécessaires à des fins de clarification.
-
-<sup>6</sup>
-
-L’employeur édicte des dispositions d’exécution concernant:
-
-- a. le traitement des données, notamment leur collecte, leur conservation, leur archivage et leur destruction;
-- b. les autorisations de traitement des données;
-- c. les catégories de données visées à l’al. 2;
-- d. la protection et la sécurité des données.
+[^15-1]: Abrogé par l’annexe ch. II 4 de la LF du 18 déc. 2020 sur le traitement des données personnelles par le DFAE, avec effet au 1<sup>er</sup> déc. 2021 ([RO 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [FF 2020 1279](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 #### Art. 16
 
@@ -198,7 +163,7 @@ La Commission consultative de la coopération internationale visée à l’art. 
 
 #### Art. 17
 
-**Evaluations et rapports**
+**Évaluations et rapports**
 
 <sup>1</sup> Le Conseil fédéral veille à l’utilisation efficace des moyens financiers alloués et ordonne régulièrement des évaluations.
 
