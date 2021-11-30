@@ -4,11 +4,11 @@ title: Ordinanza del 23 dicembre 1992 sulla protezione dei marchi e delle indica
 short: OPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: it
-version: 2017-01-01
+version: 2021-12-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20170101/it/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20211201/it/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20211201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,19 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20170101/it"
 
 (OPM)[^t-1]
 
-del 23 dicembre 1992 (Stato 1° gennaio 2017)
+del 23 dicembre 1992 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 35*c*, 38 capoverso 2, 39 capoverso 3, 50 capoversi 1 e 2 e 51 della legge del 28 agosto 1992[^ingress-1] sulla protezione dei marchi (LPM); visto l’articolo 13 della legge federale del 24 marzo 1995[^ingress-2] sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale,[^ingress-3]
+visti gli articoli 35*c*, 38 capoverso 2, 39 capoverso 3, 50 capoversi 1 e 2, 50*d* capoverso 2, e 50*e* capoverso 7 della legge del 28 agosto 1992[^ingress-1] sulla protezione dei marchi (LPM); visto l’articolo 13 della legge federale del 24 marzo 1995[^ingress-2] sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
 [^ingress-2]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -55,12 +55,12 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 **Lingua**
 
-<sup>1</sup> Le istanze inviate all’IPI devono essere redatte in una lingua ufficiale della Confederazione. È fatto salvo l’articolo 47 capoverso 3.[^3-1]
+<sup>1</sup> Le istanze inviate all’IPI devono essere redatte in una lingua ufficiale della Confederazione. Sono fatti salvi gli articoli 47 capoverso 3 e 52*p* capoverso 3.[^3-1]
 
 <sup>2</sup> L’IPI[^3-2] può chiedere che i documenti probatori che non sono redatti in una lingua ufficiale siano tradotti e che sia attestata l’esattezza della traduzione; è fatto salvo l’articolo 14 capoverso 3. Se, nonostante l’ingiunzione, la traduzione o l’attes-tazione non è presentata, il documento non è preso in considerazione.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^3-2]: Nuova espr. giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^3-2]: Nuova espr. giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -70,7 +70,19 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 
 <sup>2</sup> Fintanto che l’una o l’altra di queste condizioni non sarà stata adempiuta, l’IPI designa una persona quale destinataria delle comunicazioni ai sensi del capoverso 1. Se una delle altre persone si oppone, l’IPI invita tutti gli interessati ad agire conformemente al capoverso 1.
 
+<sup>3</sup> I capoversi 1 e 2 si applicano parimenti alle domande di registrazione internazionale ai sensi degli articoli 50*d* e 50*e* LPM.[^4-2]
+
 [^4-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^4-2]: Introdotto dal n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+
+#### Art. 4a
+
+**Sostituzione di parte**[^4a-1]
+
+Se il titolo di protezione litigioso è trasferito nel corso della procedura, le regole previste nell’articolo 83 del Codice di procedura civile[^4a-2] si applicano per analogia.
+
+[^4a-1]: Introdotto dal n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^4a-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 
 #### Art. 5
 
@@ -132,12 +144,12 @@ Alle tasse esigibili giusta la LPM o la presente ordinanza si applica l’ordina
 
 **Deposito**
 
-<sup>1</sup> Per il deposito deve essere utilizzato il modulo ufficiale, un modulo privato autorizzato dall’IPI oppure un modulo conforme al regolamento d’esecuzione relativo al Trattato di Singapore del 27 marzo 2006[^8-1] sul diritto dei marchi.[^8-2]
+<sup>1</sup> Per il deposito deve essere utilizzato un modulo autorizzato dall’IPI oppure un modulo conforme al regolamento d’esecuzione relativo al Trattato di Singapore del 27 marzo 2006[^8-1] sul diritto dei marchi.[^8-2]
 
 <sup>2</sup> Se un deposito formalmente valido comprende tutte le indicazioni richieste, l’IPI può rinunciare a esigere che sia presentato il modulo.[^8-3]
 
 [^8-1]: [RS 0.232.112.11](https://fedlex.data.admin.ch/eli/cc/2009/150)
-[^8-2]: Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 16 mar. 2009 ([RU 2009 859](https://fedlex.data.admin.ch/eli/oc/2009/144)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 [^8-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 8a
@@ -202,7 +214,7 @@ Se del caso, essa deve essere completata con:
 I prodotti e i servizi per i quali è richiesta la protezione del marchio devono essere designati con precisione e provvisti del numero della classe conformemente all’Accordo di Nizza del 15 giugno 1957[^11-2] sulla classificazione internazionale dei prodotti e dei servizi ai fini della registrazione dei marchi (Accordo di Nizza).
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^11-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)**/.9**
+[^11-2]: [RS 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020),[0.232.112.8](https://fedlex.data.admin.ch/eli/cc/1970/685_683_684),[0.232.112.9](https://fedlex.data.admin.ch/eli/cc/1986/532_532_532)
 
 #### Art. 12
 
@@ -219,7 +231,7 @@ La dichiarazione di priorità in virtù della Convenzione di Parigi del 20 marzo
 
 <sup>3</sup> …[^12-2]
 
-[^12-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^12-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 [^12-2]: Abrogato dal n. I dell’O del 2 set. 2015, con effetto dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 #### Art. 13
@@ -357,9 +369,11 @@ L’opposizione deve essere presentata in due esemplari e contenere:
 
 <sup>2</sup> Il resistente deve inoltrare la propria risposta in due esemplari.
 
-<sup>3</sup> Nella prima risposta, il resistente deve eventualmente far valere il mancato uso del marchio dell’opponente giusta l’articolo 12 capoverso 1 LPM.
+<sup>3</sup> Nella sua prima risposta, purché sia trascorso un periodo ininterrotto di cinque anni dal termine di opposizione, o in caso di opposizione, dalla fine della procedura di opposizione, il resistente deve eventualmente far valere il mancato uso del marchio da parte dell’opponente secondo l’articolo 12 capoverso 1 LPM.[^22-1]
 
 <sup>4</sup> L’IPI può effettuare ulteriori scambi di allegati.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 #### Art. 23
 
@@ -438,9 +452,10 @@ La domanda di cancellazione di una registrazione per mancato uso del marchio dev
 
 <sup>1</sup> Se la domanda di cancellazione non è presentata entro i termini di cui all’articolo 35*a* capoverso 2 LPM e dell’articolo 50*a* della presente ordinanza o la tassa di cancellazione non è pagata tempestivamente, la domanda è considerata non presentata. Non sono riscosse spese e la tassa di cancellazione già pagata è restituita.
 
-<sup>2</sup> Se una causa diviene priva d’oggetto o è risolta per mezzo di una transazione o con il versamento di un’indennità, la metà della tassa della procedura di cancellazione è restituita. Se sono soddisfatte le condizioni di cui all’articolo 33*b* della legge federale del 20 dicembre 1968[^24e-1] sulla procedura amministrativa, la tassa è restituita integralmente.
+<sup>2</sup> Se una causa diviene priva d’oggetto o è risolta per mezzo di una transazione o con il versamento di un’indennità, la metà della tassa della procedura di cancellazione è restituita. Se sono soddisfatte le condizioni di cui all’articolo 33*b* della legge federale del 20 dicembre 1968[^24e-1] sulla procedura amministrativa (PA), la tassa è restituita integralmente.[^24e-2]
 
 [^24e-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^24e-2]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ### Sezione 3: Proroga della registrazione
 
@@ -766,20 +781,21 @@ L’IPI pubblica:
 
 <sup>1</sup> La domanda di registrazione internazionale di un marchio o di una domanda di registrazione deve essere inoltrata all’IPI se la Svizzera è il Paese d’origine ai sensi dell’articolo 1 capoverso 3 dell’Accordo di Madrid del 14 luglio 1967[^47-1] per la registrazione internazionale dei marchi (Accordo di Madrid) o ai sensi dell’articolo 2 capoverso 1 del Protocollo del 27 giugno 1989[^47-2] all’Accordo di Madrid per la registrazione internazionale dei marchi (Protocollo di Madrid).[^47-3]
 
-<sup>2</sup> La domanda deve essere presentata sul formulario officiale o su un formulario autorizzato dall’IPI.
+<sup>2</sup> La domanda deve essere presentata sul modulo dell’Ufficio internazionale dell’Organizzazione Mondiale della Proprietà Intellettuale (OMPI) o su un modulo autorizzato dall’IPI.[^47-4]
 
-<sup>2bis</sup> Se una domanda formalmente valida comprende tutte le indicazioni richieste, l’IPI può rinunciare a esigere che sia presentato il formulario.[^47-4]
+<sup>2bis</sup> Se una domanda formalmente valida comprende tutte le indicazioni richieste, l’IPI può rinunciare a esigere che sia presentato il modulo.[^47-5]
 
-<sup>3</sup> L’IPI stabilisce la lingua in cui si devono indicare i prodotti e i servizi ai quali sono destinati il marchio o la domanda di registrazione.[^47-5]
+<sup>3</sup> L’IPI stabilisce la lingua in cui si devono indicare i prodotti e i servizi ai quali sono destinati il marchio o la domanda di registrazione.[^47-6]
 
-<sup>4</sup> La tassa nazionale (art. 45 cpv. 2 LPM) deve essere pagata dopo l’ingiunzione dell’IPI.[^47-6]
+<sup>4</sup> La tassa nazionale (art. 45 cpv. 2 LPM) deve essere pagata dopo l’ingiunzione dell’IPI.[^47-7]
 
 [^47-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
 [^47-2]: [RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
 [^47-3]: Nuovo testo giusta il n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^47-4]: Introdotto dal n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^47-5]: Nuovo testo giusta il n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^47-4]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^47-5]: Introdotto dal n. I dell’O del 2 dic. 2016 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)). Nuovo testo gista il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 [^47-6]: Nuovo testo giusta il n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^47-7]: Nuovo testo giusta il n. I dell’O del 22 gen. 1997, in vigore dal 1° mag. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 
 #### Art. 48
 
@@ -808,13 +824,14 @@ L’IPI pubblica:
 
 **Procedura d’opposizione**
 
-<sup>1</sup> Nell’ambito di un’opposizione contro una registrazione internazionale, il termine previsto nell’articolo 31 capoverso 2 LPM comincia a decorrere dal primo giorno del mese seguente quello in cui l’ufficio internazionale ha pubblicato il marchio nel proprio organo di pubblicazione.
+<sup>1</sup> Nell’ambito di un’opposizione contro una registrazione internazionale, il termine previsto nell’articolo 31 capoverso 2 LPM comincia a decorrere dal primo giorno del mese seguente quello in cui l’Ufficio internazionale dell’OMPI ha pubblicato il marchio nel proprio organo di pubblicazione.[^50-1]
 
 <sup>2</sup> L’IPI tiene un fascicolo che raccoglie lo svolgimento della procedura di opposizione.
 
-<sup>3</sup> …[^50-1]
+<sup>3</sup> …[^50-2]
 
-[^50-1]: Introdotto dal n. I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^50-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^50-2]: Introdotto dal n. I dell’O del 22 gen. 1997 ([RU 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 50a
 
@@ -1025,6 +1042,55 @@ Si presume sito dell’amministrazione effettiva ai sensi dell’articolo 49 LPM
 - a. sono esercitate le attività rilevanti ai fini del conseguimento dello scopo commerciale; e
 - b. sono prese le decisioni determinanti per la fornitura dei servizi.
 
+## Capitolo 6*b*:**** Registrazione internazionale delle indicazioni geografiche
+
+[^chap6b-1]
+
+[^chap6b-1]: Introdotta dal n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+
+### Sezione 1: Domanda di registrazione internazionale o modificazione della registrazione internazionale di una denominazione d’origine o di un’indicazione geografica svizzera
+
+#### Art. 52p
+
+**Deposito della domanda**
+
+<sup>1</sup> La domanda di registrazione internazionale o di modificazione della registrazione internazionale di una denominazione d’origine o di un’indicazione geografica la cui area geografica d’origine si trova sul territorio svizzero deve essere inoltrata all’IPI.
+
+<sup>2</sup> La domanda deve essere presentata sul modulo dell’Ufficio internazionale dell’OMPI o su un modulo autorizzato dall’IPI.
+
+<sup>3</sup> Essa deve essere presentata in francese.
+
+<sup>4</sup> L’IPI tiene un fascicolo per ogni domanda.
+
+#### Art. 52q
+
+**Esame della domanda**
+
+<sup>1</sup> L’IPI decide in merito alla conformità della domanda di registrazione internazionale o di modificazione della registrazione internazionale alle esigenze previste nella LPM, nella presente ordinanza o nell’Atto di Ginevra e nel suo regolamento d’esecuzione.
+
+<sup>2</sup> Se una domanda non soddisfa le esigenze o se le tasse prescritte non sono state pagate, l’IPI impartisce al richiedente un termine per correggere il difetto.
+
+<sup>3</sup> Se il difetto non è corretto entro il termine impartito, la domanda è respinta. L’IPI può eccezionalmente impartire termini supplementari.
+
+### Sezione 2: Rifiuto degli effetti di una registrazione internazionale in Svizzera e garanzie rispetto ad altri diritti
+
+#### Art. 52r
+
+<sup>1</sup>
+
+Le domande che invocano i motivi di rifiuto di cui all’articolo 50*e* capoverso 1 LPM e le domande di cui all’articolo 50*e* capoverso 4 LPM possono essere presentate da:
+
+- a. una parte ai sensi della PA[^52r-1];
+- b. un Cantone, se si tratta di una denominazione estera completamente o parzialmente omonima di un’entità geografica cantonale o di una denominazione tradizionale utilizzata in Svizzera.
+
+<sup>2</sup> Esse devono essere presentate all’IPI per scritto entro tre mesi dalla pubblicazione della registrazione internazionale da parte dell’Ufficio internazionale dell’OMPI. Il termine comincia a decorrere dal primo giorno del mese seguente quello in cui l’Ufficio internazionale ha pubblicato la registrazione internazionale nel proprio organo di pubblicazione.
+
+<sup>3</sup> Gli articoli 20 – 24 si applicano per analogia.
+
+<sup>4</sup> L’IPI può invitare le autorità federali o cantonali a esprimere il loro parere.
+
+[^52r-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
 ## Capitolo 7: Contrassegno del produttore su orologi e movimenti d’orologi
 
 #### Art. 53
@@ -1156,6 +1222,14 @@ I termini fissati dall’IPI che non sono scaduti il giorno dell’entrata in vi
 I prodotti fabbricati prima dell’entrata in vigore della modifica del 2 settembre 2015 possono essere immessi per la prima volta in commercio solo fino al 31 dicembre 2018 con un’indicazione di provenienza secondo il diritto previgente.
 
 [^60a-1]: Introdotto dal n. I dell’O del 18 ott. 2006 ([RU 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)). Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+
+#### Art. 60b
+
+**Disposizione transitoria della modifica del 18 agosto 2021**[^60b-1]
+
+L’IPI pubblica nel Foglio federale, fintanto che l’organo di pubblicazione dell’OMPI non è operativo, le registrazioni internazionali di denominazioni d’origine o di indicazioni geografiche per cui è richiesta la protezione sul territorio svizzero.
+
+[^60b-1]: Introdotto dal n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ### Sezione 3: Entrata in vigore
 

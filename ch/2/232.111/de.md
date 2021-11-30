@@ -4,11 +4,11 @@ title: Verordnung vom 23. Dezember 1992 über den Schutz von Marken und Herkunft
 short: MSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: de
-version: 2017-01-01
+version: 2021-12-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20170101/de/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20211201/de/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20211201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,19 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20170101/de"
 
 (MSchV)[^t-1]
 
-vom 23. Dezember 1992 (Stand am 1. Januar 2017)
+vom 23. Dezember 1992 (Stand am 1. Dezember 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 35*c*, 38 Absatz 2, 39 Absatz 3, 50 Absätze 1 und 2 sowie 51 des Markenschutzgesetzes vom 28. August 1992[^ingress-1] (MSchG) und auf Artikel 13 des Bundesgesetzes vom 24. März 1995[^ingress-2] über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum,[^ingress-3]
+gestützt auf die Artikel 35*c*, 38 Absatz 2, 39 Absatz 3, 50 Absätze 1 und 2, 50*d* Absatz 2 und 50*e* Absatz 7 des Markenschutzgesetzes vom 28. August 1992[^ingress-1] (MSchG), und auf Artikel 13 des Bundesgesetzes vom 24. März 1995[^ingress-2] über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum,[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
 [^ingress-2]: [SR 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -56,11 +56,11 @@ Berechnet sich eine Frist nach Monaten oder Jahren, so endet sie im letzten Mona
 
 **Sprache**
 
-<sup>1</sup> Eingaben an das IGE müssen in einer Amtssprache des Bundes abgefasst sein. Vorbehalten bleibt Artikel 47 Absatz 3.[^3-1]
+<sup>1</sup> Eingaben an das IGE müssen in einer Amtssprache des Bundes abgefasst sein. Vorbehalten bleiben die Artikel 47 Absatz 3 und 52*p* Absatz 3.[^3-1]
 
 <sup>2</sup> Von Beweisurkunden, die nicht in einer Amtssprache abgefasst sind, kann das IGE eine Übersetzung sowie eine Bescheinigung ihrer Richtigkeit verlangen; vorbehalten bleibt Artikel 14 Absatz 3. Wird die Übersetzung oder die Bescheinigung trotz Aufforderung nicht eingereicht, so bleibt die Urkunde unberücksichtigt.
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 #### Art. 4
 
@@ -70,7 +70,19 @@ Berechnet sich eine Frist nach Monaten oder Jahren, so endet sie im letzten Mona
 
 <sup>2</sup> Solange weder das eine noch das andere geschehen ist, wählt das IGE eine Person als Zustellungsempfänger im Sinne von Absatz 1. Widerspricht eine der anderen Personen, so fordert das IGE alle Beteiligten auf, nach Absatz 1 zu handeln.
 
+<sup>3</sup> Die Absätze 1 und 2 finden auch Anwendung auf Gesuche um internationale Registrierung nach den Artikeln 50*d* und 50*e* MSchG.[^4-2]
+
 [^4-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^4-2]: Eingefügt durch Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+
+#### Art. 4a
+
+**Parteiwechsel**[^4a-1]
+
+Wird der strittige Schutztitel während eines hängigen Verfahrens veräussert, so ist Artikel 83 der Zivilprozessordnung[^4a-2] sinngemäss anwendbar.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^4a-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 
 #### Art. 5
 
@@ -132,12 +144,12 @@ Für die Gebühren, die nach dem MSchG oder nach dieser Verordnung zu bezahlen s
 
 **Hinterlegung**
 
-<sup>1</sup> Für die Hinterlegung muss das amtliche, ein vom IGE zugelassenes privates oder ein der Ausführungsordnung zum Markenrechtsvertrag von Singapur vom 27. März 2006[^8-1] entsprechendes Formular verwendet werden.[^8-2]
+<sup>1</sup> Für die Hinterlegung muss ein vom IGE zugelassenes oder ein der Ausführungsordnung zum Markenrechtsvertrag von Singapur vom 27. März 2006[^8-1] entsprechendes Formular verwendet werden.[^8-2]
 
 <sup>2</sup> Enthält eine im Übrigen formgültige Hinterlegung alle verlangten Angaben, so kann das IGE auf die Einreichung des Formulars verzichten.[^8-3]
 
 [^8-1]: [SR 0.232.112.11](https://fedlex.data.admin.ch/eli/cc/2009/150)
-[^8-2]: Fassung gemäss Ziff. I der V vom 27. Juni 2007, in Kraft seit 16. März 2009 ([AS 2009 859](https://fedlex.data.admin.ch/eli/oc/2009/144)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 [^8-3]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 
 #### Art. 8a
@@ -158,8 +170,8 @@ Das Eintragungsgesuch umfasst:
 
 - a. den Antrag auf Eintragung der Marke;
 - b. den Namen und Vornamen oder die Firma sowie die Adresse des Hinterlegers;
-- c.[^9-1] …
-- d.[^9-2] …
+- c.[^9-1] ...
+- d.[^9-2] ...
 
 <sup>2</sup>
 
@@ -216,7 +228,7 @@ Die Erklärung für die Priorität nach der Pariser Verbandsübereinkunft vom 20
 
 <sup>2</sup> Der Prioritätsbeleg besteht aus einer Bescheinigung der zuständigen Behörde über die Ersthinterlegung, mit der Angabe der Hinterlegungs- oder Eintragungsnummer der Marke.
 
-<sup>3</sup> …[^12-2]
+<sup>3</sup> ...[^12-2]
 
 [^12-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
 [^12-2]: Aufgehoben durch Ziff. I der V vom 2. Sept. 2015, mit Wirkung seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
@@ -355,9 +367,11 @@ Der Widerspruch ist in zwei Exemplaren einzureichen und muss enthalten:
 
 <sup>2</sup> Die Stellungnahme des Widerspruchsgegners ist in zwei Exemplaren einzureichen.
 
-<sup>3</sup> Der Widerspruchsgegner muss in seiner ersten Stellungnahme gegebenenfalls den Nichtgebrauch der Marke des Widersprechenden nach Artikel 12 Absatz 1 MSchG geltend machen.
+<sup>3</sup> Der Widerspruchsgegner muss einen allfälligen Nichtgebrauch der Marke des Widersprechenden nach Artikel 12 Absatz 1 MSchG in seiner ersten Stellungnahme geltend machen; dies ist jedoch nur zulässig, wenn zu diesem Zeitpunkt eine ununterbrochene Frist von fünf Jahren nach unbenütztem Ablauf der Widerspruchsfrist oder nach Abschluss des Widerspruchsverfahrens abgelaufen ist.[^22-1]
 
 <sup>4</sup> Das IGE kann weitere Schriftenwechsel durchführen.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 #### Art. 23
 
@@ -438,9 +452,10 @@ Der Antrag auf Löschung einer Markeneintragung wegen Nichtgebrauchs der Marke i
 
 <sup>1</sup> Wird der Antrag auf Löschung vor Ablauf der Fristen nach Artikel 35*a* Absatz 2 MSchG und Artikel 50*a* dieser Verordnung eingereicht oder wird die Gebühr für die Löschung nicht rechtzeitig bezahlt, so gilt das Gesuch als nicht eingereicht. Es werden keine Kosten erhoben; eine bereits bezahlte Gebühr für die Löschung wird zurückerstattet.
 
-<sup>2</sup> Wird ein Verfahren gegenstandslos oder wird es durch Vergleich oder Abstand erledigt, so wird die Hälfte der Gebühr für die Löschung zurückerstattet. Sind die Voraussetzungen nach Artikel 33*b* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^24e-1] erfüllt, so wird die Gebühr vollständig zurückerstattet.
+<sup>2</sup> Wird ein Verfahren gegenstandslos oder wird es durch Vergleich oder Abstand erledigt, so wird die Hälfte der Gebühr für die Löschung zurückerstattet. Sind die Voraussetzungen nach Artikel 33*b* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^24e-1] (VwVG) erfüllt, so wird die Gebühr vollständig zurückerstattet.[^24e-2]
 
 [^24e-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^24e-2]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ### 3. Abschnitt: Verlängerung der Markeneintragung
 
@@ -494,7 +509,7 @@ Der Antrag auf Eintragung der Übertragung ist vom bisherigen Markeninhaber oder
 - b.[^28-1] den Namen und Vornamen oder die Firma, die Adresse des Erwerbers und gegebenenfalls sein Zustellungsdomizil in der Schweiz;
 - c. bei teilweiser Übertragung die Angabe der Waren und Dienstleistungen, für welche die Marke übertragen worden ist.
 
-<sup>2</sup> …[^28-2]
+<sup>2</sup> ...[^28-2]
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 11. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
 [^28-2]: Aufgehoben durch Ziff. I der V vom 2. Dez. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
@@ -578,7 +593,7 @@ Das IGE führt für jedes Eintragungsgesuch und jede Markeneintragung ein Aktenh
 
 <sup>3</sup> Beweisurkunden, die Fabrikations- oder Geschäftsgeheimnisse offenbaren, werden auf Antrag ausgesondert. Die Aussonderung wird im Aktenheft vermerkt.[^36-3]
 
-<sup>4</sup> …[^36-4]
+<sup>4</sup> ...[^36-4]
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 [^36-2]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
@@ -631,7 +646,7 @@ Die Auskünfte beschränken sich auf:
 
 <sup>2</sup> Es bewahrt die Akten zurückgezogener und zurückgewiesener Eintragungsgesuche sowie vollständig widerrufener Eintragungen (Art. 33 MSchG) im Original oder in Kopie noch während fünf Jahren nach der Zurückziehung, der Zurückweisung oder dem Widerruf auf.[^39-1]
 
-<sup>3</sup> …[^39-2]
+<sup>3</sup> ...[^39-2]
 
 [^39-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 [^39-2]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
@@ -667,7 +682,7 @@ Die Eintragung wird gegebenenfalls ergänzt mit:
 - d. der Angabe, dass es sich um eine Garantie- oder eine Kollektivmarke handelt;
 - d<sup>bis</sup>.[^40-7] der Angabe, dass es sich um eine geografische Marke handelt;
 - e. Angaben über die Inanspruchnahme einer Priorität nach den Artikeln 7 und 8 MSchG;
-- f.[^40-8] …
+- f.[^40-8] ...
 
 <sup>3</sup>
 
@@ -752,7 +767,7 @@ Das IGE veröffentlicht:
 
 [^44-1]: Aufgehoben durch Ziff. I der V vom 8. März 2002, mit Wirkung seit 1. Juli 2002 ([AS 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
 
-## 5. Kapitel: …
+## 5. Kapitel: ...
 
 #### Art. 45–46
 
@@ -774,20 +789,21 @@ Das IGE veröffentlicht:
 
 <sup>1</sup> Das Gesuch um internationale Registrierung einer Marke oder eines Eintragungsgesuchs ist beim IGE einzureichen, wenn die Schweiz Ursprungsland im Sinne von Artikel 1 Absatz 3 des Madrider Abkommens vom 14. Juli 1967[^47-1] über die internationale Registrierung von Marken (Madrider Markenabkommen) oder im Sinne von Artikel 2 Absatz 1 des Protokolls vom 27. Juni 1989[^47-2] zum Madrider Abkommen über die internationale Registrierung von Marken (Madrider Protokoll) ist.[^47-3]
 
-<sup>2</sup> Für die Einreichung des Gesuchs muss das amtliche Formular oder ein vom IGE zugelassenes privates Formular verwendet werden.
+<sup>2</sup> Für die Einreichung des Gesuchs muss das Formular des Internationalen Büros der Weltorganisation für Geistiges Eigentum (WIPO) oder ein vom IGE zugelassenes Formular verwendet werden.[^47-4]
 
-<sup>2bis</sup> Enthält ein im Übrigen formgültiges Gesuch alle verlangten Angaben, so kann das IGE auf die Einreichung des Formulars verzichten.[^47-4]
+<sup>2bis</sup> Enthält ein im Übrigen formgültiges Gesuch alle verlangten Angaben, so kann das IGE auf die Einreichung des Formulars verzichten.[^47-5]
 
-<sup>3</sup> Das IGE legt die Sprache fest, in welcher die Waren und Dienstleistungen, für welche die Marke oder das Eintragungsgesuch beansprucht wird, anzugeben sind.[^47-5]
+<sup>3</sup> Das IGE legt die Sprache fest, in welcher die Waren und Dienstleistungen, für welche die Marke oder das Eintragungsgesuch beansprucht wird, anzugeben sind.[^47-6]
 
-<sup>4</sup> Die nationale Gebühr (Art. 45 Abs. 2 MSchG) ist nach Aufforderung durch das IGE zu bezahlen.[^47-6]
+<sup>4</sup> Die nationale Gebühr (Art. 45 Abs. 2 MSchG) ist nach Aufforderung durch das IGE zu bezahlen.[^47-7]
 
 [^47-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
 [^47-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
 [^47-3]: Fassung gemäss Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
-[^47-4]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
-[^47-5]: Fassung gemäss Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^47-4]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^47-5]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 [^47-6]: Fassung gemäss Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
+[^47-7]: Fassung gemäss Ziff. I der V vom 22. Jan. 1997, in Kraft seit 1. Mai 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)).
 
 #### Art. 48
 
@@ -806,7 +822,7 @@ Das IGE veröffentlicht:
 
 <sup>1</sup> Das IGE führt ein Aktenheft für jede international registrierte Marke, deren Ursprungsland die Schweiz ist.
 
-<sup>2</sup> …[^49-1]
+<sup>2</sup> ...[^49-1]
 
 [^49-1]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
@@ -816,13 +832,14 @@ Das IGE veröffentlicht:
 
 **Widerspruchsverfahren**
 
-<sup>1</sup> Im Falle eines Widerspruchs gegen eine internationale Registrierung beginnt die Widerspruchsfrist nach Artikel 31 Absatz 2 MSchG am ersten Tag des Monats zu laufen, der dem Monat der Veröffentlichung in dem vom Internationalen Büro herausgegebenen Publikationsorgan folgt.
+<sup>1</sup> Im Falle eines Widerspruchs gegen eine internationale Registrierung beginnt die Widerspruchsfrist nach Artikel 31 Absatz 2 MSchG am ersten Tag des Monats zu laufen, der dem Monat der Veröffentlichung in dem vom Internationalen Büro der WIPO herausgegebenen Publikationsorgan folgt.[^50-1]
 
 <sup>2</sup> Das IGE führt ein Aktenheft, aus dem der Verlauf des Widerspruchsverfahrens ersichtlich ist.
 
-<sup>3</sup> …[^50-1]
+<sup>3</sup> ...[^50-2]
 
-[^50-1]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
+[^50-1]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+[^50-2]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
 #### Art. 50a
 
@@ -1033,6 +1050,55 @@ Als ein Ort der tatsächlichen Verwaltung nach Artikel 49 MSchG wird der Ort ver
 - a. für die Erreichung des Geschäftszwecks massgebliche Tätigkeiten ausgeübt werden; und
 - b. für das Erbringen der Dienstleistung massgebliche Entscheide getroffen werden.
 
+## 6*b**.* Kapitel:**** Internationale Registrierung von geografischen Angaben
+
+[^chap6b-1]
+
+[^chap6b-1]: Eingefügt durch Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
+
+### 1. Abschnitt: Gesuch um internationale Registrierung oder um Änderung der internationalen Registrierung einer schweizerischen Ursprungsbezeichnung oder geografischen Angabe
+
+#### Art. 52p
+
+**Einreichung des Gesuchs**
+
+<sup>1</sup> Das Gesuch um internationale Registrierung oder um Änderung der internationalen Registrierung einer Ursprungsbezeichnung oder geografischen Angabe, deren geografisches Ursprungsgebiet auf schweizerischem Staatsgebiet liegt, ist beim IGE einzureichen.
+
+<sup>2</sup> Für die Einreichung des Gesuchs muss das Formular des Internationalen Büros der WIPO oder ein vom IGE zugelassenes Formular verwendet werden.
+
+<sup>3</sup> Das Gesuch ist in französischer Sprache einzureichen.
+
+<sup>4</sup> Das IGE führt für jedes Gesuch ein Aktenheft.
+
+#### Art. 52q
+
+**Prüfung des Gesuchs**
+
+<sup>1</sup> Das IGE entscheidet darüber, ob das Gesuch um internationale Registrierung oder um Änderung einer internationalen Registrierung den Anforderungen nach dem MSchG, der vorliegenden Verordnung und der Genfer Akte und ihrer Ausführungsordnung entspricht.
+
+<sup>2</sup> Entspricht ein Gesuch nicht den Anforderungen oder sind die vorgeschriebenen Gebühren nicht bezahlt worden, so setzt das IGE dem Gesuchsteller eine Frist zur Behebung des Mangels an.
+
+<sup>3</sup> Wird der Mangel nicht fristgerecht behoben, so wird das Gesuch zurückgewiesen. Das IGE kann ausnahmsweise weitere Fristen ansetzen.
+
+### 2. Abschnitt: Verweigerung der Wirksamkeit einer internationalen Registrierung in der Schweiz und Garantien in Bezug auf sonstige Rechte
+
+#### Art. 52r
+
+<sup>1</sup>
+
+Gesuche, mit denen ein Grund nach Artikel 50*e* Absatz 1 MSchG geltend gemacht wird, und Gesuche nach Artikel 50*e* Absatz 4 MSchG können eingereicht werden:
+
+- a. von jeder Partei nach dem VwVG[^52r-1];
+- b. von einem Kanton, wenn es sich um eine ausländische Bezeichnung handelt, die vollständig oder teilweise gleich wie eine kantonale geografische Einheit lautet, oder um eine in der Schweiz verwendete traditionelle Bezeichnung.
+
+<sup>2</sup> Die Gesuche sind innerhalb von drei Monaten nach der Veröffentlichung der internationalen Registrierung durch das Internationale Büro schriftlich beim IGE einzureichen. Die Frist beginnt am ersten Tag des Monats zu laufen, der dem Monat der Veröffentlichung in dem vom Internationalen Büro herausgegebenen Publikationsorgan folgt.
+
+<sup>3</sup> Die Artikel 20–24 sind sinngemäss anwendbar.
+
+<sup>4</sup> Das IGE kann die betroffenen Bundes- und Kantonsbehörden zur Stellungnahme einladen.
+
+[^52r-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
 ## 7. Kapitel: Produzentenkennzeichen auf Uhren und Uhrwerken
 
 #### Art. 53
@@ -1136,8 +1202,8 @@ Es werden aufgehoben:
 - a. die Verordnung vom 24. April 1929[^58-1] über den Schutz der Fabrik- und Handelsmarken (MSchV);
 - b. der Bundesratsbeschluss vom 4. November 1966[^58-2] betreffend die Ausführung des Madrider Abkommens über die internationale Registrierung von Fabrik- und Handelsmarken.
 
-[^58-1]: [BS **2** 856; [AS 1951 905](https://fedlex.data.admin.ch/eli/oc/1951/905_908_933), [1959 2100](https://fedlex.data.admin.ch/eli/oc/1959/2100_2164_2193), [1962 1060](https://fedlex.data.admin.ch/eli/oc/1962/1060_1095_1098), [1968 601](https://fedlex.data.admin.ch/eli/oc/1968/601_625_617), [1972 2444](https://fedlex.data.admin.ch/eli/oc/1972/2444_2498_2274), [1977 1989](https://fedlex.data.admin.ch/eli/oc/1977/1989_1989_1989), [1983 1478](https://fedlex.data.admin.ch/eli/oc/1983/1478_1478_1478)Ziff. III 2, [1986 526](https://fedlex.data.admin.ch/eli/oc/1986/526_526_526)]
-[^58-2]: [[AS 1966 1413](https://fedlex.data.admin.ch/eli/oc/1966/1413_1463_1451), [1973 1839](https://fedlex.data.admin.ch/eli/oc/1973/1839_1839_1839), [1977 1992](https://fedlex.data.admin.ch/eli/oc/1977/1992_1992_1992)]
+[^58-1]: [BS **2** 856; [AS 1951 905](https://fedlex.data.admin.ch/eli/oc/1951/905_908_933); [1959 2100](https://fedlex.data.admin.ch/eli/oc/1959/2100_2164_2193); [1962 1060](https://fedlex.data.admin.ch/eli/oc/1962/1060_1095_1098); [1968 601](https://fedlex.data.admin.ch/eli/oc/1968/601_625_617); [1972 2444](https://fedlex.data.admin.ch/eli/oc/1972/2444_2498_2274); [1977 1989](https://fedlex.data.admin.ch/eli/oc/1977/1989_1989_1989); [1983 1478](https://fedlex.data.admin.ch/eli/oc/1983/1478_1478_1478)Ziff. III 2; [1986 526](https://fedlex.data.admin.ch/eli/oc/1986/526_526_526)]
+[^58-2]: [[AS 1966 1413](https://fedlex.data.admin.ch/eli/oc/1966/1413_1463_1451); [1973 1839](https://fedlex.data.admin.ch/eli/oc/1973/1839_1839_1839); [1977 1992](https://fedlex.data.admin.ch/eli/oc/1977/1992_1992_1992)]
 
 ### 2. Abschnitt: Übergangsbestimmungen
 
@@ -1162,6 +1228,14 @@ Vom IGE angesetzte Fristen, die am Tag des Inkrafttretens dieser Verordnung lauf
 Produkte, die vor Inkrafttreten der Änderung vom 2. September 2015 hergestellt wurden, dürfen erstmals nur noch bis zum 31. Dezember 2018 mit einer Herkunftsangabe, die dem bisherigen Recht entspricht, in Verkehr gebracht werden.
 
 [^60a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2006 ([AS 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)). Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
+
+#### Art. 60b
+
+**Übergangsbestimmung zur Änderung vom 18. August 2021**[^60b-1]
+
+Bis das Publikationsorgan des Internationalen Büros der WIPO betriebsbereit ist, veröffentlicht das IGE die internationalen Registrierungen von Ursprungsbezeichnungen und geografischen Angaben, deren Schutz auf schweizerischem Staatsgebiet verlangt wurde, im Bundesblatt.
+
+[^60b-1]: Eingefügt durch Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 
 ### 3. Abschnitt: Inkrafttreten
 
