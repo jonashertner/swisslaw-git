@@ -3,7 +3,7 @@ canton: VD
 number: "141.11.160620.1.1"
 title: "ARRÊTÉ du 26.05.2021 prolongeant le décret du 2 février 2021 modifiant le décret du 16 juin 2020 instituant une dispense d'assermentation pour les naturalisations"
 language: fr
-version: 2021-06-01
+version: 2021-12-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/141.11.160620.1.1?id=9c5e3912-5cd0-44b4-8aa6-6ae3626a970a"
 ---
 
@@ -29,7 +29,7 @@ arrête
 
 **[^t-1]**
 
-<sup>1</sup> Au vu de la poursuite de la pandémie, le décret du 2 février 2021 modifiant le décret du 16 juin 2020 instituant une dispense d'assermentation pour les naturalisations est prorogé pour une durée de six mois.
+<sup>1</sup> Au vu de la poursuite de la pandémie, le décret du 2 février 2021 modifiant le décret du 16 juin 2020 instituant une dispense d'assermentation pour les naturalisations est prorogé une seconde fois pour une durée de six mois.
 
 [^t-1]: Modif. 1 du 03.11.2021: Modification Al. 1; entrée en vigueur au 01.12.2021
 
@@ -37,8 +37,8 @@ arrête
 
 **Entrée en vigueur [^1-1]**
 
-<sup>1</sup> Le présent arrêté entre en vigueur le 1er juin 2021.
+<sup>1</sup> Le présent arrêté entre en vigueur le 1er décembre 2021.
 
-<sup>2</sup> Sa validité est limitée au 30 novembre 2021.
+<sup>2</sup> Sa validité est limitée au 31 mai 2022.
 
 [^1-1]: Modif. 1 du 03.11.2021: Modification Al. 1-2; entrée en vigueur au 01.12.2021
