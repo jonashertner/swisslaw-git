@@ -4,20 +4,22 @@ title: "Loi fédérale du 27 septembre 2013 sur les prestations de sécurité pr
 short: LPSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/450"
 language: fr
-version: 2015-09-01
+version: 2021-12-01
 adopted: 2013-09-27
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/450/20150901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-450-20150901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/450/20150901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/450/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-450-20211201-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/450/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les prestations de sécurité privées fournies à l’étranger\*
 
-(LPSP)
+(LPSP)[^t-1]
 
-du 27 septembre 2013 (Etat le 1<sup>er</sup> septembre 2015)
+du 27 septembre 2013 (État le 1<sup>er</sup> décembre 2021)
+
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +27,7 @@ vu les art. 54, al. 1, 95, al. 1, et 173, al. 2, de la Constitution[^ingress-1],
 
 arrête:
 
-[^ingress-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes. RS **101**
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2013 1573](https://fedlex.data.admin.ch/eli/fga/2013/299)
 
 ## Section 1 Dispositions générales
@@ -66,7 +68,7 @@ La présente loi s’applique aux personnes morales et aux sociétés de personn
 
 <sup>1</sup>
 
-La présente loi ne s’applique pas aux entreprises qui fournissent depuis la Suisse, sur le territoire qui entre dans le champ d’application de l’accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses Etats membres, d’autre part, sur la libre circulation des personnes[^3-1] ou de la convention du 4 janvier 1960 instituant l’Association européenne de libre-échange[^3-2], un des types de prestations de sécurité privées suivants:
+La présente loi ne s’applique pas aux entreprises qui fournissent depuis la Suisse, sur le territoire qui entre dans le champ d’application de l’accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^3-1] ou de la convention du 4 janvier 1960 instituant l’Association européenne de libre-échange[^3-2], un des types de prestations de sécurité privées suivants:
 
 - a. protection de personnes;
 - b. garde et surveillance de biens et d’immeubles;
@@ -80,8 +82,8 @@ La présente loi ne s’applique pas non plus aux entreprises qui exercent l’u
 - b. fonder, établir, exploiter ou diriger en Suisse une entreprise qui fournit des prestations visées à l’al. 1 ou 2, let. a;
 - c. contrôler depuis la Suisse une entreprise qui fournit des prestations visées à l’al. 1 ou 2, let. a.
 
-[^3-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^3-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^3-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^3-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 4
 
@@ -113,8 +115,8 @@ On entend par:
 - c. *participation directe à des hostilités:*
 - une participation directe à des hostilités à l’étranger qui se déroulent dans le cadre d’un conflit armé au sens des Conventions de Genève[^4-1] et des protocoles additionnels I et II[^4-2].
 
-[^4-1]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^4-2]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362); [0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
+[^4-1]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960); [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^4-2]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968); [0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969)
 
 #### Art. 5
 
@@ -144,7 +146,7 @@ Lorsqu’une entreprise est une société de personnes, celle-ci est réputée c
 
 <sup>2</sup> La responsabilité de l’entreprise pour le dommage causé par le sous-traitant est régie par le code des obligations[^6-1].
 
-[^6-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 7
 
@@ -154,7 +156,7 @@ Lorsqu’une entreprise est une société de personnes, celle-ci est réputée c
 
 <sup>2</sup> Le département auquel l’autorité compétente est subordonnée peut décider qu’une modification du code de conduite est applicable aux faits régis par la présente loi pour autant que cette modification ne lui contrevienne pas.
 
-[^7-1]: Ce document peut être consulté à l’adresse Internet suivante: www.icoc‑psp.org
+[^7-1]: Ce document peut être consulté à l’adresse Internet suivante: [www.icoc-psp.org](https://icoca.ch/).
 
 ## Section 2 Interdictions
 
@@ -204,7 +206,7 @@ Toute entreprise qui envisage d’exercer une des activités visées à l’art.
 
 <sup>3</sup> L’entreprise communique sans délai à l’autorité compétente toute modification notable des circonstances intervenues depuis la déclaration d’une activité. L’autorité compétente fait savoir sans délai à l’entreprise si l’activité concernée peut être poursuivie ou non.
 
-[^10-1]: Ce document peut être consulté à l’adresse Internet suivante: www.icoc‑psp.org
+[^10-1]: Ce document peut être consulté à l’adresse Internet suivante: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 11
 
@@ -232,9 +234,12 @@ L’autorité compétente ouvre une procédure d’examen dans les cas suivants:
 - b. les circonstances relatives à une activité déclarée se sont notablement modifiées depuis sa communication au sens de l’art. 12;
 - c. elle a connaissance d’une activité qui n’a pas été déclarée;
 - d. elle a connaissance d’une violation du droit suisse ou du droit international.
-- [tab] <sup>2</sup> Si l’autorité compétente apprend qu’une activité n’a pas été déclarée, elle informe l’entreprise de l’ouverture d’une procédure d’examen et l’invite à prendre position dans un délai de dix jours. L’art. 11, al. 1, est applicable par analogie.
-- [tab] <sup>3</sup> L’autorité compétente consulte les autorités concernées.
-- [tab] <sup>4</sup> Elle communique à l’entreprise l’issue de la procédure d’examen dans un délai de 30 jours. Ce délai peut être prolongé si nécessaire.
+
+<sup>2</sup> Si l’autorité compétente apprend qu’une activité n’a pas été déclarée, elle informe l’entreprise de l’ouverture d’une procédure d’examen et l’invite à prendre position dans un délai de dix jours. L’art. 11, al. 1, est applicable par analogie.
+
+<sup>3</sup> L’autorité compétente consulte les autorités concernées.
+
+<sup>4</sup> Elle communique à l’entreprise l’issue de la procédure d’examen dans un délai de 30 jours. Ce délai peut être prolongé si nécessaire.
 
 #### Art. 14
 
@@ -261,13 +266,13 @@ L’autorité compétente interdit tout ou partie d’une activité si l’entre
 
 <sup>3</sup> L’autorité compétente interdit à une entreprise de sous-traiter une prestation de sécurité privée ou une prestation en rapport avec une prestation de sécurité lorsque le sous-traitant ne respecte pas les conditions visées à l’art. 6, al. 1.
 
-[^14-1]: Ce document peut être consulté à l’adresse Internet suivante: www.icoc‑psp.org
+[^14-1]: Ce document peut être consulté à l’adresse Internet suivante: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 15
 
 **Autorisation à titre exceptionnel**
 
-<sup>1</sup> Le Conseil fédéral peut exceptionnellement autoriser une activité qui ne tombe pas sous le coup des art. 8 ou 9 mais qui devrait être interdite en vertu de l’art. 14, lorsque l’intérêt supérieur de l’Etat prévaut manifestement.
+<sup>1</sup> Le Conseil fédéral peut exceptionnellement autoriser une activité qui ne tombe pas sous le coup des art. 8 ou 9 mais qui devrait être interdite en vertu de l’art. 14, lorsque l’intérêt supérieur de l’État prévaut manifestement.
 
 <sup>2</sup> L’autorité compétente soumet ces cas au Conseil fédéral.
 
@@ -281,13 +286,13 @@ L’autorité compétente interdit tout ou partie d’une activité si l’entre
 
 <sup>2</sup> L’autorité chargée de la coordination veille à ce que les procédures se déroulent de manière aussi simple que possible et prend les mesures nécessaires afin que tous les résultats soient communiqués à l’entreprise dans les délais légaux.
 
-[^16-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^16-2]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^16-3]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^16-1]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^16-2]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^16-3]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 #### Art. 17
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup>
 
@@ -299,7 +304,7 @@ Le Conseil fédéral règle, conformément au principe de la couverture des coû
 
 <sup>2</sup> L’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^17-1] est applicable pour le surplus.
 
-[^17-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^17-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Section 4 Contrôle
 
@@ -325,9 +330,9 @@ Si l’entreprise cherche à influencer l’autorité compétente ou si elle ne 
 
 #### Art. 20
 
-**Traitement de données personnelles**
+[^20-1]
 
-L’autorité compétente est habilitée à traiter, pour l’accomplissement de ses tâches légales, des données sensibles relatives à des poursuites et à des sanctions pénales ou administratives, ainsi que d’autres données personnelles.
+[^20-1]: Abrogé par l’annexe ch. II 2 de la LF du 18 déc. 2020 sur le traitement des données par le DFAE, avec effet au 1<sup>er</sup> déc. 2021 ([RO 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [FF 2020 1279](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 ## Section 5 Sanctions
 
@@ -341,8 +346,8 @@ L’autorité compétente est habilitée à traiter, pour l’accomplissement de
 
 <sup>3</sup> L’auteur est punissable en vertu du code pénal[^21-1] ou du code pénal militaire du 13 juin 1927[^21-2] s’il commet une infraction plus grave en vertu de ces codes.
 
-[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^21-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^21-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 22
 
@@ -393,7 +398,7 @@ Il est possible de renoncer à poursuivre les personnes punissables et de condam
 - a. l’enquête rendrait nécessaire à l’égard des personnes punissables en vertu de l’art. 6 DPA des mesures d’instruction hors de proportion avec la peine encourue;
 - b. l’amende entrant en ligne de compte pour les contraventions à la présente loi ne dépasse pas 20 000 francs.
 
-[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 26
 
@@ -405,7 +410,7 @@ Il est possible de renoncer à poursuivre les personnes punissables et de condam
 
 <sup>3</sup> L’autorité compétente peut encaisser l’excédent résultant de la liquidation.
 
-[^26-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 27
 
@@ -434,9 +439,9 @@ L’autorité compétente communique aux autorités suivantes les informations e
 - e. autorités fédérales compétentes en matière d’affaires étrangères et de sécurité extérieure;
 - f. autorités cantonales compétentes en matière d’autorisation et de contrôle des prestations de sécurité privées.
 
-[^28-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^28-2]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^28-3]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^28-1]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^28-2]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^28-3]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 #### Art. 29
 
@@ -451,7 +456,7 @@ L’autorité compétente peut requérir des autorités étrangères la communic
 
 <sup>2</sup>
 
-Si l’Etat étranger accorde la réciprocité, l’autorité compétente peut lui communiquer les données mentionnées à l’al. 1 pour autant que l’autorité étrangère donne les garanties suivantes:
+Si l’État étranger accorde la réciprocité, l’autorité compétente peut lui communiquer les données mentionnées à l’al. 1 pour autant que l’autorité étrangère donne les garanties suivantes:
 
 - a. les données ne seront traitées qu’à des fins conformes à la présente loi;
 - b. les données ne seront utilisées dans une procédure pénale que conformément aux dispositions relatives à l’entraide judiciaire internationale.
@@ -500,7 +505,7 @@ L’autorité contractante peut exceptionnellement engager une entreprise qui n�
 - a. la conclusion d’une telle assurance implique des coûts disproportionnés pour l’entreprise;
 - b. le risque pour la Confédération d’engager sa responsabilité et le montant d’éventuels dommages-intérêts à verser sont considérés comme faibles.
 
-[^31-1]: Ce document peut être consulté à l’adresse Internet suivante: www.icoc‑psp.org
+[^31-1]: Ce document peut être consulté à l’adresse Internet suivante: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 32
 
@@ -531,7 +536,7 @@ L’autorité contractante s’assure que le personnel est identifiable dans l�
 
 #### Art. 34
 
-**Equipement du personnel**
+**Équipement du personnel**
 
 <sup>1</sup> Le personnel n’est en principe pas armé.
 
@@ -551,7 +556,7 @@ L’autorité contractante s’assure que le personnel est identifiable dans l�
 
 <sup>3</sup> La législation applicable au lieu d’exécution est réservée.
 
-[^35-1]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^35-1]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 36
 
@@ -578,10 +583,12 @@ Il est interdit de sous-traiter des tâches en matière de protection, sauf acco
 Le Conseil fédéral édicte les dispositions d’exécution; il règle notamment:
 
 - a. les modalités de la procédure de déclaration (art. 10);
-- b. le catalogue des données sensibles et les catégories des données personnelles traitées en vertu des art. 20 et 28 ainsi que leur durée de conservation;
+- b.[^38-1] le catalogue des données sensibles et les catégories des données personnelles traitées en vertu de l’art. 28 ainsi que leur durée de conservation;
 - c. les clauses contractuelles applicables à l’engagement d’une entreprise par une autorité fédérale.
 
 <sup>2</sup> Le Conseil fédéral détermine l’autorité compétente.
+
+[^38-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 18 déc. 2020 sur le traitement des données par le DFAE, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [FF 2020 1279](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 #### Art. 39
 

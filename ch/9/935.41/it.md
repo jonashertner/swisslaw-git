@@ -4,11 +4,11 @@ title: "Legge federale del 27 settembre 2013 sulle prestazioni di sicurezza priv
 short: LPSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/450"
 language: it
-version: 2015-09-01
+version: 2021-12-01
 adopted: 2013-09-27
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/450/20150901/it/xml/fedlex-data-admin-ch-eli-cc-2015-450-20150901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/450/20150901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/450/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2015-450-20211201-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/450/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/450/20150901/it"
 
 (LPSP)
 
-del 27 settembre 2013 (Stato 1° settembre 2015)
+del 27 settembre 2013 (Stato 1° dicembre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 54 capoverso 1, 95 capoverso 1 e 173 capoverso 2 della Costit
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2013 1505](https://fedlex.data.admin.ch/eli/fga/2013/299)
 
 ## Sezione 1: Disposizioni generali
@@ -80,8 +80,8 @@ Non si applica inoltre alle imprese che:
 - b. costituiscono, stabiliscono, gestiscono o dirigono in Svizzera un’impresa che fornisce prestazioni di cui al capoverso 1 o 2 lettera a;
 - c. controllano dalla Svizzera un’impresa che fornisce prestazioni di cui al capoverso 1 o 2 lettera a.
 
-[^3-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^3-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^3-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^3-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 4
 
@@ -113,8 +113,8 @@ Nella presente legge s’intende per:
 - c. *partecipazione diretta a ostilità:*
 - partecipazione diretta a ostilità all’estero nel quadro di un conflitto armato ai sensi delle Convenzioni di Ginevra[^4-1], nonché dei Protocolli aggiuntivi I e II[^4-2].
 
-[^4-1]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^4-2]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362); [0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
+[^4-1]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960); [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^4-2]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968); [0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969)
 
 #### Art. 5
 
@@ -144,7 +144,7 @@ Se è una società di persone, un’impresa è considerata controllata se un’a
 
 <sup>2</sup> La responsabilità dell’impresa per il danno causato dal subappaltatore è retta dal Codice delle obbligazioni[^6-1].
 
-[^6-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 7
 
@@ -154,7 +154,7 @@ Se è una società di persone, un’impresa è considerata controllata se un’a
 
 <sup>2</sup> Il Dipartimento al quale è subordinata l’autorità competente può decidere che una modifica del Codice di condotta è applicabile alle fattispecie rette dalla presente legge, sempre che tale modifica non vi sia contraria.
 
-[^7-1]: Questo documento può essere consultato all’indirizzo Internet seguente: www.icoc-psp.org
+[^7-1]: Questo doc. può essere consultato all’indirizzo Internet seguente: [www.icoc-psp.org](https://icoca.ch/).
 
 ## Sezione 2: Divieti
 
@@ -204,7 +204,7 @@ Le imprese che intendono esercitare una delle attività di cui all’articolo 2 
 
 <sup>3</sup> L’impresa comunica senza indugio all’autorità competente qualsiasi cambiamento considerevole delle circostanze intervenuto dalla notificazione di un’attività. L’autorità competente comunica immediatamente all’impresa se l’esercizio dell’attività interessata può essere continuato o no.
 
-[^10-1]: Questo documento può essere consultato all’indirizzo Internet seguente: www.icoc-psp.org
+[^10-1]: Questo doc. può essere consultato all’indirizzo Internet seguente: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 11
 
@@ -264,7 +264,7 @@ L’autorità competente vieta interamente o parzialmente un’attività se l’
 
 <sup>3</sup> L’autorità competente vieta a un’impresa di subappaltare la fornitura di una prestazione di sicurezza privata o una prestazione connessa con quest’ultima se il subappaltatore non rispetta i limiti di cui all’articolo 6 capoverso 1.
 
-[^14-1]: Questo documento può essere consultato all’indirizzo Internet seguente: www.icoc-psp.org
+[^14-1]: Questo doc. può essere consultato all’indirizzo Internet seguente: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 15
 
@@ -284,9 +284,9 @@ L’autorità competente vieta interamente o parzialmente un’attività se l’
 
 <sup>2</sup> L’autorità incaricata del coordinamento si accerta che le procedure si svolgano nel modo più semplice possibile e garantisce che gli esiti delle stesse siano comunicati all’impresa entro i termini legali.
 
-[^16-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^16-2]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^16-3]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^16-1]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^16-2]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^16-3]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 #### Art. 17
 
@@ -302,7 +302,7 @@ Il Consiglio federale disciplina, conformemente al principio della copertura dei
 
 <sup>2</sup> Per il rimanente si applica l’articolo 46*a* della legge del 21 marzo 1997[^17-1] sull’organizzazione del Governo e dell’Amministrazione.
 
-[^17-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^17-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Sezione 4: Controllo
 
@@ -328,9 +328,9 @@ Se l’impresa tenta di influenzare l’autorità competente o non ottempera all
 
 #### Art. 20
 
-**Trattamento di dati personali**
+[^20-1]
 
-Per l’adempimento dei suoi compiti legali l’autorità competente è autorizzata a trattare dati personali degni di particolare protezione relativi a sanzioni o perseguimenti amministrativi o penali, nonché altri dati personali.
+[^20-1]: Abrogato dall’all. n. II 2 della LF del 18 dic. 2020 sul trattamento dei dati personali da parte del DFAE, con effetto dal 1° dic. 2021 ([RU 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [FF 2020 1179](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 ## Sezione 5: Sanzioni
 
@@ -344,8 +344,8 @@ Per l’adempimento dei suoi compiti legali l’autorità competente è autorizz
 
 <sup>3</sup> L’autore resta punibile in virtù del Codice penale[^21-1] o del Codice penale militare del 13 giugno 1927[^21-2] se commette un reato più grave secondo questi codici.
 
-[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^21-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^21-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 22
 
@@ -396,7 +396,7 @@ Chi viola un divieto pronunciato in virtù dell’articolo 14 è punito con una 
 - a. la determinazione delle persone punibili secondo l’articolo 6 DPA esige provvedimenti d’inchiesta sproporzionati all’entità della pena; e
 - b. la multa prevista per le infrazioni alla presente legge non eccede 20 000 franchi.
 
-[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 26
 
@@ -408,7 +408,7 @@ Chi viola un divieto pronunciato in virtù dell’articolo 14 è punito con una 
 
 <sup>3</sup> L’autorità competente può incassare l’eccedente risultante dalla liquidazione.
 
-[^26-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 27
 
@@ -437,9 +437,9 @@ L’autorità competente comunica le informazioni e i dati personali necessari a
 - e. autorità federali cui competono gli affari esteri e la salvaguardia della sicurezza esterna;
 - f. autorità cantonali cui competono l’autorizzazione e il controllo delle prestazioni di sicurezza private.
 
-[^28-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^28-2]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^28-3]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^28-1]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^28-2]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^28-3]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 #### Art. 29
 
@@ -503,7 +503,7 @@ L’autorità committente può eccezionalmente impiegare un’impresa che non ha
 - a. la conclusione di una simile assicurazione causerebbe spese sproporzionate all’impresa; e
 - b. il rischio per la Confederazione di incorrere in una responsabilità e l’importo di eventuali risarcimenti dei danni sono considerati esigui.
 
-[^31-1]: Questo documento può essere consultato all’indirizzo Internet seguente: www.icoc-psp.org
+[^31-1]: Questo doc. può essere consultato all’indirizzo Internet seguente: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 32
 
@@ -554,7 +554,7 @@ L’autorità committente si assicura che il personale sia identificabile nell�
 
 <sup>3</sup> È fatto salvo il diritto applicabile nel luogo di esecuzione del compito di protezione.
 
-[^35-1]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^35-1]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 36
 
@@ -581,10 +581,12 @@ L’autorità committente si assicura che il personale sia identificabile nell�
 Il Consiglio federale emana le disposizioni di esecuzione; disciplina segnatamente:
 
 - a. le modalità della procedura di notificazione (art. 10);
-- b. il catalogo dei dati personali degni di particolare protezione, nonché le categorie di dati personali trattati secondo gli articoli 20 e 28 e la loro durata di conservazione;
+- b.[^38-1] il catalogo dei dati personali degni di particolare protezione, nonché le categorie di dati personali trattati secondo l’articolo 28 e la loro durata di conservazione;
 - c. le disposizioni contrattuali necessarie per l’impiego di un’impresa da parte di un’autorità federale.
 
 <sup>2</sup> Il Consiglio federale determina l’autorità competente.
+
+[^38-1]: Nuovo testo giusta l’all. n. II 2 della LF del 18 dic. 2020 sul trattamento dei dati personali da parte del DFAE, in vigore dal 1° dic. 2021 ([RU 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [FF 2020 1179](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 #### Art. 39
 
@@ -606,4 +608,4 @@ Il Consiglio federale emana le disposizioni di esecuzione; disciplina segnatamen
 
 Data dell’entrata in vigore: 1° settembre 2015[^40-1]
 
-[^40-1]: DCF 24 giu. 2015.
+[^40-1]: DCF del 24 giu. 2015.

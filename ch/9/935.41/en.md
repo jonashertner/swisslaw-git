@@ -4,11 +4,11 @@ title: Federal Act of 27 September 2013 on Private Security Services provided Ab
 short: PSSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/450"
 language: en
-version: 2015-09-01
+version: 2021-12-01
 adopted: 2013-09-27
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/450/20150901/en/xml/fedlex-data-admin-ch-eli-cc-2015-450-20150901-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/450/20150901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/450/20211201/en/xml/fedlex-data-admin-ch-eli-cc-2015-450-20211201-en-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/450/20211201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,15 +19,15 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PSSA)
 
-of 27 September 2013 (Status as of 1 September 2015)
+of 27 September 2013 (Status as of 1 December 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on Article 54 paragraph 1, Article 95 paragraph 1 and Article 173 paragraph 2 of the Federal Constitution[^ingress-1], and having considered the Federal Council Dispatch dated 23 January 2013[^ingress-2],
+based on Articles 54 paragraph 1, 95 paragraph 1 and 173 paragraph 2 of the Federal Constitution[^ingress-1], and having considered the Federal Council Dispatch dated 23 January 2013[^ingress-2],
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2013 1745](https://fedlex.data.admin.ch/eli/fga/2013/299)
 
 ## Section 1 General Provisions
@@ -68,11 +68,11 @@ This Act applies to legal entities and business associations (companies) that en
 
 <sup>1</sup>
 
-This Act does not apply to companies that provide, from Switzerland, in territories subject to the Agreement of 21 June 1999, between the Swiss Confederation, of the one part, and the European Community and its Member States[^3-1], of the other, on the Free Movement of Persons or subject to the Convention of 4 January 1960 establishing the European Free Trade Association[^3-2], any of the following private security services:
+This Act does not apply to companies that provide, from Switzerland, in territories subject to the Agreement of 21 June 1999[^3-1], between the Swiss Confederation, of the one part, and the European Community and its Member States, of the other, on the Free Movement of Persons or subject to the Convention of 4 January 1960[^3-2] establishing the European Free Trade Association, any of the following private security services:
 
 - a. the protection of persons;
 - b. the guarding or surveillance of goods and properties;
-- c. security services at events,
+- c. security services at events.
 
 <sup>2</sup>
 
@@ -82,8 +82,8 @@ It also does not apply to companies that:
 - b. establish, base, operate, or manage in Switzerland a company that provides services under paragraph 1 or paragraph 2 letter a;
 - c. exercise control, from Switzerland, over a company that provides services under paragraph 1 or paragraph 2 letter a.
 
-[^3-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^3-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^3-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^3-2]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 4
 
@@ -115,8 +115,8 @@ In this Act:
 - c. *direct participation in hostilities* means:
 - direct participation in hostilities abroad in the context of an armed conflict within the meaning of the Geneva Conventions[^4-1] and the Protocols I and II[^4-2].
 
-[^4-1]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180)**;**[0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^4-2]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362); [0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
+[^4-1]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960)**;**[0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^4-2]: [SR 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968); [0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969)
 
 #### Art. 5
 
@@ -146,7 +146,7 @@ Business associations are considered to be controlled if:
 
 <sup>2</sup> The liability of the subcontracting company for harm caused by the other company is determined in accordance with the Code of Obligations[^6-1].
 
-[^6-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 7
 
@@ -156,7 +156,7 @@ Business associations are considered to be controlled if:
 
 <sup>2</sup> The Federal Department to which the competent authority is subordinate may determine that an amendment to the Code of Conduct applies to matters governed by this Act, provided that such amendment is not contrary to the provisions of this Act.
 
-[^7-1]: The International Code of Conduct for Private Security Service Providers may be consulted at the following Internet address: www.icoc psp.org
+[^7-1]: The International Code of Conduct for Private Security Service Providers may be consulted at the following Internet address: [www.icoc-psp.org](https://icoca.ch/).
 
 ## Section 2 Prohibitions
 
@@ -202,17 +202,17 @@ Any company intending to carry out an activity under Article 2 paragraph 1 shall
 - e. proof of accession to the Code of Conduct[^10-1];
 - f. the identity of all persons bearing responsibility for the company.
 
-<sup>2</sup> For companies under Article 2 paragraph 1 letter d, the declaration requirement applies both to the company's own exercise of control and to the activities of the controlled company.
+<sup>2</sup> For companies under Article 2 paragraph 1 letter d, the declaration requirement applies both to the company’s own exercise of control and to the activities of the controlled company.
 
 <sup>3</sup> If any significant change in circumstances occurs subsequent to the declaration, the company shall notify the competent authority without delay. The competent authority shall inform the company forthwith as to whether it may continue to carry out the activity in question.
 
-[^10-1]: The International Code of Conduct for Private Security Service Providers may be consulted at the following Internet address: www.icoc psp.org
+[^10-1]: The International Code of Conduct for Private Security Service Providers may be consulted at the following Internet address: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 11
 
 **Requirement to refrain from activities**
 
-<sup>1</sup> Until such time as the company has received from the competent authority notification or a decision pursuant to Articles 12-14, it shall refrain from carrying out the declared activities.
+<sup>1</sup> Until such time as the company has received from the competent authority notification or a decision pursuant to Articles 12–14, it shall refrain from carrying out the declared activities.
 
 <sup>2</sup> Where the competent authority initiates a review procedure pursuant to Article 13, it may, by way of exception, release the company from its duty to refrain from activities for the duration of the procedure, if there is overriding public or private interest in doing so.
 
@@ -234,9 +234,12 @@ The competent authority shall initiate a review procedure where:
 - b. a significant change in the circumstances relating to a declared activity has occurred subsequent to notification pursuant to article 12;
 - c. it becomes aware of the exercise of an activity that has not been declared;
 - d. it becomes aware of a violation of Swiss law or of international law.
-- [tab] <sup>2</sup> Where the competent authority becomes aware of the exercise of an activity that has not been declared, it shall inform the company of the initiation of a review procedure, and shall allow the company an opportunity to submit within ten days a statement in that regard. Article 11 paragraph 1 applies *mutatis mutandis*.
-- [tab] <sup>3</sup> The competent authority shall consult with the authorities concerned.
-- [tab] <sup>4</sup> It shall inform the company of the outcome of the review procedure within thirty days. This time limit may be extended as circumstances require.
+
+<sup>2</sup> Where the competent authority becomes aware of the exercise of an activity that has not been declared, it shall inform the company of the initiation of a review procedure, and shall allow the company an opportunity to submit within ten days a statement in that regard. Article 11 paragraph 1 applies *mutatis mutandis*.
+
+<sup>3</sup> The competent authority shall consult with the authorities concerned.
+
+<sup>4</sup> It shall inform the company of the outcome of the review procedure within thirty days. This time limit may be extended as circumstances require.
 
 #### Art. 14
 
@@ -251,7 +254,7 @@ The competent authority shall prohibit in full or in part any activity that is c
 - c. operational or logistical support for foreign armed or security forces;
 - d. services in the domain of military expertise in connection with a private security service;
 - e. private security services, or a service in connection therewith, that may be of service to terrorist groups or criminal organisations;
-- f. the establishment, basing, operating, management, or control of a company that provides such services as set out under the foregoing letters a-e.
+- f. the establishment, basing, operating, management, or control of a company that provides such services as set out under the foregoing letters a–e.
 
 <sup>2</sup>
 
@@ -260,9 +263,10 @@ The competent authority shall prohibit in full or in part the exercise of an act
 - a. has in the past committed serious human rights violations and has not taken sufficient precautions to ensure that there is no recurrence thereof;
 - b. deploys personnel who do not possess the required training for the intended activity;
 - c. does not comply with the provisions of the Code of Conduct[^14-1].
-- [tab] <sup>3</sup> The competent authority shall prohibit a company from subcontracting the providing of a private security service, or a service in connection therewith, where the company that is to provide that service fails to comply with the constraints set out in Article 6, paragraph 1.
 
-[^14-1]: The International Code of Conduct for Private Security Service Providers may be consulted at the following Internet address: www.icoc psp.org
+<sup>3</sup> The competent authority shall prohibit a company from subcontracting the providing of a private security service, or a service in connection therewith, where the company that is to provide that service fails to comply with the constraints set out in Article 6, paragraph 1.
+
+[^14-1]: The International Code of Conduct for Private Security Service Providers may be consulted at the following Internet address: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 15
 
@@ -282,9 +286,9 @@ The competent authority shall prohibit in full or in part the exercise of an act
 
 <sup>2</sup> That authority shall ensure that the procedure is conducted in as simple a manner as possible, and shall make certain that the company is informed of all results of the procedure within the statutory time limits.
 
-[^16-1]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^16-2]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^16-3]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^16-1]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^16-2]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^16-3]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 #### Art. 17
 
@@ -298,9 +302,9 @@ The Federal Council shall regulate the charging of cost-covering fees for:
 - b. prohibitions issued under Article 14;
 - c. control measures under Article 19.
 
-<sup>2</sup> For the rest, Article 46a of the Government and Administration Organisation Act of 21 March 1997[^17-1] applies.
+<sup>2</sup> For the rest, Article 46*a* of the Government and Administration Organisation Act of 21 March 1997[^17-1] applies.
 
-[^17-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^17-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Section 4 Oversight
 
@@ -326,9 +330,9 @@ Where a company attempts to influence the competent authority or fails to satisf
 
 #### Art. 20
 
-**Processing of personal data**
+[^20-1]
 
-The competent authority, in the performance of its legally assigned tasks, shall be authorised to process sensitive personal data in connection with administrative or criminal prosecutions and sanctions, and other personal data.
+[^20-1]: Repealed by Annex No II 2 of the FA of 18 Dec. 2020 on the Processing of Personal Data by the FDFA, with effect from 1 Dec. 2021 ([AS 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [BBl 2020 1349](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 ## Section 5 Sanctions
 
@@ -342,8 +346,8 @@ The competent authority, in the performance of its legally assigned tasks, shall
 
 <sup>3</sup> This provision does not preclude the prosecution of the person concerned under the Criminal Code[^21-1] or to the Military Criminal Code of 13 July 1927[^21-2] for a more serious offence under those codes.
 
-[^21-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^21-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^21-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^21-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 22
 
@@ -385,7 +389,7 @@ Any person who:
 
 **Offences within a business undertaking**
 
-<sup>1</sup> Article 6 of the Federal Act of 22 March 1974 on Administrative Criminal Law (ACLA)[^25-1] applies to offences committed within a business undertaking.
+<sup>1</sup> Article 6 of the Federal Act of 22 March 1974[^25-1] on Administrative Criminal Law (ACLA) applies to offences committed within a business undertaking.
 
 <sup>2</sup>
 
@@ -394,19 +398,19 @@ Pursuant to Article 7 of ACLA, an investigation to identify the offenders may be
 - a. the identification of the persons criminally liable under Article 6 of ACLA necessitates investigative measures that would be disproportionate to the penalty incurred; and
 - b. the penalty for the contraventions governed by this Act does not exceed 20,000 francs.
 
-[^25-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 26
 
 **Dissolution and liquidation**
 
-<sup>1</sup> Where the activity of a legal entity, or of a general or limited partnership, contravenes a statutory or official prohibition, the competent authority may order the dissolution and liquidation of the legal entity or partnership concerned in accordance with the Federal Act of 11 April 1889 on Debt Enforcement and Bankruptcy[^26-1].
+<sup>1</sup> Where the activity of a legal entity, or of a general or limited partnership, contravenes a statutory or official prohibition, the competent authority may order the dissolution and liquidation of the legal entity or partnership concerned in accordance with the Federal Act of 11 April 1889[^26-1] on Debt Enforcement and Bankruptcy.
 
 <sup>2</sup> Where the business undertaking is a sole proprietorship, the competent authority may order the liquidation of the business assets and, as the case may be, deletion of the undertaking from the commercial register.
 
 <sup>3</sup> The competent authority may confiscate any surplus resulting from the liquidation.
 
-[^26-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 27
 
@@ -435,9 +439,9 @@ The competent authority shall disclose information and personal data to the foll
 - e. the federal authorities responsible for foreign affairs and for maintaining external security;
 - f. the cantonal authorities responsible for the licensing and oversight of private security services.
 
-[^28-1]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^28-2]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^28-3]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^28-1]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^28-2]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^28-3]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 #### Art. 29
 
@@ -501,7 +505,7 @@ The contracting authority may, by way of exception, contract with a company that
 - a. purchasing such insurance would engender disproportionate costs to the company; and
 - b. the liability risk and the amount of any compensatory damages to be borne by the Confederation may be assessed as low.
 
-[^31-1]: The International Code of Conduct for Private Security Service Providers may be consulted at the following Internet address: www.icoc psp.org
+[^31-1]: The International Code of Conduct for Private Security Service Providers may be consulted at the following Internet address: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 32
 
@@ -552,7 +556,7 @@ The contracting authority shall make certain that personnel are identifiable whe
 
 <sup>3</sup> The law at the place of deployment applies.
 
-[^35-1]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^35-1]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 36
 
@@ -579,10 +583,12 @@ The subcontracting of protection tasks is prohibited without the prior written c
 The Federal Council shall enact provisions for the implementation of this Act. In particular, it shall determine:
 
 - a. the specifics of the declaration procedure (art. 10);
-- b. the list of particularly sensitive personal data and the categories of data to be processed under Articles 20 and 28, as well as their retention periods;
+- b.[^38-1] the list of particularly sensitive personal data and the categories of data to be processed under Article 28, as well as their retention periods;
 - c. the required terms and conditions of contracts by a federal authority for the services of a company.
 
 <sup>2</sup> It shall appoint the competent authority.
+
+[^38-1]: Amended by Annex No II 2 of the FA of 18 Dec. 2020 on the Processing of Personal Data by the FDFA, in force since 1 Dec. 2021 ([AS 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [BBl 2020 1349](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 #### Art. 39
 
@@ -604,4 +610,4 @@ The Federal Council shall enact provisions for the implementation of this Act. I
 
 Commencement Date: 1 September 2015[^40-1]
 
-[^40-1]: Federal Council Decree of 24 June 2015
+[^40-1]: FCD of 24 June 2015.

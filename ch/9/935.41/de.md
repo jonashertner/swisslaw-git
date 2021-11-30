@@ -4,11 +4,11 @@ title: Bundesgesetz vom 27. September 2013 über die im Ausland erbrachten priva
 short: BPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/450"
 language: de
-version: 2015-09-01
+version: 2021-12-01
 adopted: 2013-09-27
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/450/20150901/de/xml/fedlex-data-admin-ch-eli-cc-2015-450-20150901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/450/20150901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/450/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2015-450-20211201-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/450/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/450/20150901/de"
 
 (BPS)
 
-vom 27. September 2013 (Stand am 1. September 2015)
+vom 27. September 2013 (Stand am 1. Dezember 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 54 Absatz 1, 95 Absatz 1 und 173 Absatz 2 der Bundesve
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2013 1745](https://fedlex.data.admin.ch/eli/fga/2013/299)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -80,8 +80,8 @@ Es findet zudem keine Anwendung auf Unternehmen, die:
 - b. in der Schweiz ein Unternehmen gründen, ansiedeln, betreiben oder führen, das Dienstleistungen nach Absatz 1 oder 2 Buchstabe a erbringt;
 - c. von der Schweiz aus ein Unternehmen kontrollieren, das Dienstleistungen nach Absatz 1 oder 2 Buchstabe a erbringt.
 
-[^3-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^3-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^3-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^3-2]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 4
 
@@ -105,7 +105,7 @@ In diesem Gesetz bedeuten:
 
 - b.
 
-  *mit einer privaten Sicherheitsdienstleistung zusammenhängende Dienst**leistung:*
+  *mit einer privaten Sicherheitsdienstleistung zusammenhängende Dienstleistung:*
 
   - 1\. Rekrutierung oder Ausbildung von Personal für private Sicherheitsdienstleistungen im Ausland,
   - 2\. Vermittlung oder Zurverfügungstellung von Personal zugunsten eines Unternehmens, das private Sicherheitsdienstleistungen im Ausland anbietet;
@@ -113,8 +113,8 @@ In diesem Gesetz bedeuten:
 - c. *unmittelbare Teilnahme an Feindseligkeiten*:
 - unmittelbare Teilnahme an Feindseligkeiten im Ausland im Rahmen eines bewaffneten Konflikts im Sinne der Genfer Abkommen[^4-1] sowie der Zusatzprotokolle I und II[^4-2].
 
-[^4-1]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^4-2]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362); [0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
+[^4-1]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960); [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^4-2]: [SR 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968); [0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969)
 
 #### Art. 5
 
@@ -144,7 +144,7 @@ Handelt sich beim Unternehmen um eine Personengesellschaft, so gilt sie als kont
 
 <sup>2</sup> Die Haftung des vergebenden Unternehmens für Schäden, die das andere Unternehmen verursacht, richtet sich nach dem Obligationenrecht[^6-1].
 
-[^6-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^6-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 7
 
@@ -154,7 +154,7 @@ Handelt sich beim Unternehmen um eine Personengesellschaft, so gilt sie als kont
 
 <sup>2</sup> Das Departement, das der zuständigen Behörde übergeordnet ist, kann beschliessen, dass eine Änderung des Verhaltenskodex auf Sachverhalte anwendbar ist, die in diesem Gesetz geregelt sind, sofern die Änderung diesem Gesetz nicht widerspricht.
 
-[^7-1]: Der internationale Verhaltenskodex für private Sicherheitsdienstleister kann unter folgender Internetadresse abgerufen werden: www.icoc‑psp.org
+[^7-1]: Der internationale Verhaltenskodex für private Sicherheitsdienstleister kann unter folgender Internetadresse abgerufen werden: [www.icoc-psp.org](https://icoca.ch/).
 
 ## 2. Abschnitt: Verbote
 
@@ -204,7 +204,7 @@ Beabsichtigt ein Unternehmen, eine Tätigkeit nach Artikel 2 Absatz 1 auszuüben
 
 <sup>3</sup> Wenn sich die Verhältnisse erheblich geändert haben, nachdem die Meldung erfolgt ist, so teilt das Unternehmen dies der zuständigen Behörde unverzüglich mit. Die zuständige Behörde informiert das Unternehmen umgehend darüber, ob die betreffende Tätigkeit weiter ausgeübt werden kann.
 
-[^10-1]: Der internationale Verhaltenskodex für private Sicherheitsdienstleister kann unter folgender Internetadresse abgerufen werden: www.icoc‑psp.org
+[^10-1]: Der internationale Verhaltenskodex für private Sicherheitsdienstleister kann unter folgender Internetadresse abgerufen werden: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 11
 
@@ -264,7 +264,7 @@ Die zuständige Behörde verbietet eine Tätigkeit ganz oder teilweise, sofern e
 
 <sup>3</sup> Die zuständige Behörde verbietet einem Unternehmen die Weitervergabe der Erbringung einer privaten Sicherheitsdienstleistung oder einer damit zusammenhängenden Dienstleistung, wenn das die Dienstleistung erbringende Unternehmen die Schranken nach Artikel 6 Absatz 1 missachtet.
 
-[^14-1]: Der internationale Verhaltenskodex für private Sicherheitsdienstleister kann unter folgender Internetadresse abgerufen werden: www.icoc‑psp.org
+[^14-1]: Der internationale Verhaltenskodex für private Sicherheitsdienstleister kann unter folgender Internetadresse abgerufen werden: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 15
 
@@ -284,9 +284,9 @@ Die zuständige Behörde verbietet eine Tätigkeit ganz oder teilweise, sofern e
 
 <sup>2</sup> Die Behörde, die das Verfahren koordiniert, sorgt für einen möglichst einfachen Verfahrensablauf und stellt sicher, dass dem Unternehmen alle Verfahrensergebnisse innerhalb der gesetzlich vorgesehenen Fristen mitgeteilt werden.
 
-[^16-1]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^16-2]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^16-3]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^16-1]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^16-2]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^16-3]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 #### Art. 17
 
@@ -302,7 +302,7 @@ Der Bundesrat regelt die Erhebung kostendeckender Gebühren für:
 
 <sup>2</sup> Im Übrigen gilt Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^17-1].
 
-[^17-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^17-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## 4. Abschnitt: Kontrolle
 
@@ -328,9 +328,9 @@ Versucht das Unternehmen die zuständige Behörde zu beeinflussen oder kommt es 
 
 #### Art. 20
 
-**Bearbeiten von Personendaten**
+[^20-1]
 
-Die zuständige Behörde ist befugt, zur Wahrnehmung der ihr gesetzlich zugewiesenen Aufgaben besonders schützenswerte Personendaten im Zusammenhang mit administrativen oder strafrechtlichen Verfolgungen und Sanktionen sowie andere Personendaten zu bearbeiten.
+[^20-1]: Aufgehoben durch Anhang Ziff. II 2 des BG vom 18. Dez. 2020 über die Bearbeitung von Personendaten durch das EDA, mit Wirkung seit 1. Dez. 2021 ([AS 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [BBl 2020 1349](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 ## 5. Abschnitt: Sanktionen
 
@@ -344,8 +344,8 @@ Die zuständige Behörde ist befugt, zur Wahrnehmung der ihr gesetzlich zugewies
 
 <sup>3</sup> Die vorliegende Bestimmung schliesst eine Bestrafung der Täterin oder des Täters nach dem Strafgesetzbuch[^21-1] oder dem Militärstrafgesetz vom 13. Juni 1927[^21-2] nicht aus, wenn eine schwerere Straftat im Sinne dieser Gesetze vorliegt.
 
-[^21-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^21-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^21-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^21-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 22
 
@@ -396,7 +396,7 @@ Von der Ermittlung der strafbaren Personen kann nach Artikel 7 VStR Umgang genom
 - a. die Ermittlung der Personen, die nach Artikel 6 VStrR strafbar sind, Untersuchungsmassnahmen bedingt, welche im Hinblick auf die verwirkte Strafe unverhältnismässig wären; und
 - b. für die Widerhandlung gegen Übertretungsbestimmungen dieses Gesetzes eine Busse von höchstens 20 000 Franken in Betracht fällt.
 
-[^25-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 26
 
@@ -408,7 +408,7 @@ Von der Ermittlung der strafbaren Personen kann nach Artikel 7 VStR Umgang genom
 
 <sup>3</sup> Die zuständige Behörde kann einen aus der Liquidation resultierenden Überschuss einziehen.
 
-[^26-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 27
 
@@ -437,9 +437,9 @@ Die zuständige Behörde gibt Informationen und Personendaten folgenden Behörde
 - e. den für die auswärtigen Angelegenheiten und für die Wahrung der äusseren Sicherheit zuständigen Bundesbehörden;
 - f. den für die Bewilligung und die Kontrolle privater Sicherheitsdienstleistungen zuständigen kantonalen Behörden.
 
-[^28-1]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^28-2]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^28-3]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^28-1]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^28-2]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^28-3]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 #### Art. 29
 
@@ -503,7 +503,7 @@ Die einsetzende Behörde kann ausnahmsweise ein Unternehmen einsetzen, das keine
 - a. ein Versicherungsabschluss für das Unternehmen mit unverhältnismässigen Kosten verbunden wäre; und
 - b. das Risiko einer Haftung sowie die Höhe allfälliger Schadenersatzleistungen des Bundes als gering einzustufen sind.
 
-[^31-1]: Der internationale Verhaltenskodex für private Sicherheitsdienstleister kann unter folgender Internetadresse abgerufen werden: www.icoc‑psp.org
+[^31-1]: Der internationale Verhaltenskodex für private Sicherheitsdienstleister kann unter folgender Internetadresse abgerufen werden: [www.icoc-psp.org](https://icoca.ch/).
 
 #### Art. 32
 
@@ -554,7 +554,7 @@ Die einsetzende Behörde stellt sicher, dass das Personal bei der Ausübung sein
 
 <sup>3</sup> Das am Einsatzort geltende Recht bleibt vorbehalten.
 
-[^35-1]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^35-1]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 36
 
@@ -581,10 +581,12 @@ Die vertragliche Weitervergabe von Schutzaufgaben ist verboten, es sei denn, die
 Der Bundesrat erlässt die Ausführungsbestimmungen; insbesondere regelt er:
 
 - a. die Einzelheiten des Meldeverfahrens (Art. 10);
-- b. den Katalog der besonders schützenswerten Personendaten sowie die Kategorien der nach den Artikeln 20 und 28 bearbeiteten Personendaten und ihre Aufbewahrungsdauer;
+- b.[^38-1] den Katalog der besonders schützenswerten Personendaten sowie die Kategorien der nach Artikel 28 bearbeiteten Personendaten und ihre Aufbewahrungsdauer;
 - c. die für den Einsatz eines Unternehmens durch eine Bundesbehörde notwendigen Vertragsbestimmungen.
 
 <sup>2</sup> Der Bundesrat bestimmt die zuständige Behörde.
+
+[^38-1]: Fassung gemäss Anhang Ziff. II 2 des BG vom 18. Dez. 2020 über die Bearbeitung von Personendaten durch das EDA, in Kraft seit 1. Dez. 2021 ([AS 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [BBl 2020 1349](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 #### Art. 39
 
