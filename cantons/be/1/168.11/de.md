@@ -4,13 +4,13 @@ number: "168.11"
 title: Kantonales Anwaltsgesetz
 short: KAG
 language: de
-version: 2013-06-01
-valid_until: 2021-11-30
-version_adopted: 2012-11-20
+version: 2021-12-01
+valid_until: 2023-12-31
+version_adopted: 2021-03-08
 adopted: 2006-03-28
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/168.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1453/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2403/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1453/pdf_file"
 
 (KAG)
 
-vom 28.03.2006 (Stand 01.06.2013)
+vom 28.03.2006 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -295,7 +295,7 @@ beschliesst:
 
 **Veröffentlichung**
 
-<sup>1</sup> Die Eintragung und die Löschung einer Anwältin oder eines Anwalts im Anwaltsregister werden im Amtsblatt des Kantons Bern und im Feuille officielle du Jura bernois veröffentlicht.
+<sup>1</sup> Die Eintragung und die Löschung einer Anwältin oder eines Anwalts im Anwaltsregister werden im kantonalen Amtsblatt veröffentlicht.
 
 <sup>2</sup> Die Namen und Geschäftsadressen der im Anwaltsregister eingetragenen Anwältinnen und Anwälte werden veröffentlicht. Für die Veröffentlichung im Internet trifft die Anwaltsaufsichtsbehörde die technischen und organisatorischen Massnahmen für den sicheren Betrieb.
 

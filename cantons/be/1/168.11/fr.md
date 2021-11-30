@@ -4,13 +4,13 @@ number: "168.11"
 title: Loi sur les avocats et les avocates
 short: LA
 language: fr
-version: 2013-06-01
-valid_until: 2021-11-30
-version_adopted: 2012-11-20
+version: 2021-12-01
+valid_until: 2023-12-31
+version_adopted: 2021-03-08
 adopted: 2006-03-28
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/168.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1453/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2403/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1453/pdf_file"
 
 (LA)
 
-du 28.03.2006 (état au 01.06.2013)
+du 28.03.2006 (état au 01.12.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -301,7 +301,7 @@ arrête:
 
 **Publication**
 
-<sup>1</sup> L’inscription d’une personne au registre des avocats et des avocates et sa radiation sont publiées dans l’Amtsblatt des Kantons Bern et dans la Feuille officielle du Jura bernois.
+<sup>1</sup> L’inscription d’une personne au registre des avocats et des avocates et sa radiation sont publiées dans la feuille officielle cantonale.
 
 <sup>2</sup> Les noms et les adresses commerciales des personnes inscrites au registre des avocats et des avocates sont publiés. L’autorité de surveillance des avocats prend les mesures techniques et organisationnelles nécessaires pour assurer la sécurité de l'exploitation d'une publication sur Internet.
 
