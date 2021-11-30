@@ -4,11 +4,11 @@ title: "Legge federale del 28 agosto 1992 sulla protezione dei marchi e delle in
 short: LPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: it
-version: 2019-04-01
+version: 2021-12-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20190401/it/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20190401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20190401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20211201/it/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20211201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20190401/it"
 
 (Legge sulla protezione dei marchi, LPM)
 
-del 28 agosto 1992 (Stato 1° aprile 2019)
+del 28 agosto 1992 (Stato 1° dicembre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -143,9 +143,9 @@ Chi presenta un prodotto o servizi contraddistinti con un marchio in un’esposi
 
 <sup>4</sup> …[^10-3]
 
-[^10-1]: Nuovo testo giusta il n. 2 dell’appendice alla LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, in vigore dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^10-1]: Nuovo testo giusta l’appendice n. 2 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, in vigore dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^10-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^10-3]: Abrogato dal n. 2 dell’appendice alla LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^10-3]: Abrogato dall’appendice n. 2 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
 #### Art. 11
 
@@ -189,9 +189,9 @@ Il titolare del marchio può vietare a terzi l’uso di un segno escluso dalla p
 
 <sup>3</sup> Il titolare del marchio gode dei diritti secondo il presente articolo anche nei confronti degli utenti autorizzati ai sensi dell’articolo 4.[^13-3]
 
-[^13-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^13-2]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^13-3]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^13-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^13-2]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)). Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^13-3]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 14
 
@@ -336,11 +336,11 @@ Per essere validi, il trasferimento del marchio di garanzia o del marchio collet
 
 In deroga all’articolo 2 lettera a, un marchio geografico può essere registrato per:
 
-- a. una denominazione d’origine registrata o un’indicazione geografica registrata secondo l’articolo 16 della legge del 29 aprile 1998[^27a-1] sull’agricoltura (LAgr) oppure un’indicazione geografica registrata secondo l’articolo 50*a* della presente legge;
+- [tab] a.[^27a-1] una denominazione d’origine registrata o un’indicazione geografica registrata secondo l’articolo 16 della legge del 29 aprile 19986 sull’agricoltura (LAgr) oppure un’indicazione geografica registrata secondo l’articolo 50b della presente legge;
 - b. una denominazione d’origine controllata protetta secondo l’articolo 63 LAgr o una denominazione vinicola estera conforme ai requisiti di cui all’articolo 63 LAgr;
 - c. un’indicazione di provenienza oggetto di un’ordinanza del Consiglio federale emanata in virtù dell’articolo 50 capoverso 2 o un’indicazione di provenienza estera che si fonda su una normativa estera equivalente.
 
-[^27a-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27a-1]: Nuovo testo giusta l’all. del DF del 19 mar. 2021 che approva l’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche e lo traspone nel diritto svizzero, in vigore dal 1° dic. 2021 ([RU 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5215](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
 #### Art. 27b
 
@@ -402,8 +402,8 @@ Per il deposito si deve inviare all’IPI:
 
 <sup>4</sup> …[^28-2]
 
-[^28-1]: Nuovo testo giusta il n. 2 dell’appendice alla LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, in vigore dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
-[^28-2]: Abrogato dal n. 2 dell’appendice alla LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° ott. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^28-1]: Nuovo testo giusta l’appendice n. 2 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, in vigore dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^28-2]: Abrogato dall’appendice n. 2 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° ott. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
 #### Art. 29
 
@@ -531,13 +531,13 @@ Il Consiglio federale disciplina le modalità della procedura.
 
 [^36-1]
 
-[^36-1]: Abrogato dal n. 21 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^36-1]: Abrogato dall’all. n. 21 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Sezione 5: Registro, pubblicazioni e comunicazione elettronica con le autorità****
 
 [^tit1-chap3-sec5-1]
 
-[^tit1-chap3-sec5-1]: Nuovo testo giusta il n. 4 dell’all. alla LF del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
+[^tit1-chap3-sec5-1]: Nuovo testo giusta l’all. n. 4 della LF del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
 #### Art. 37
 
@@ -562,7 +562,7 @@ L’IPI pubblica:
 
 <sup>3</sup> L’IPI designa l’organo di pubblicazione.[^38-1]
 
-[^38-1]: Nuovo testo giusta il n. II 3 dell’all. alla L del 5 ott. 2001 sul design, in vigore dal 1° lug. 2002 ([RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); FF [FF 2000 2432](https://fedlex.data.admin.ch/eli/fga/2000/557)).
+[^38-1]: Nuovo testo giusta l’all. n. II 3 della L del 5 ott. 2001 sul design, in vigore dal 1° lug. 2002 ([RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226); FF [FF 2000 2432](https://fedlex.data.admin.ch/eli/fga/2000/557)).
 
 #### Art. 39
 
@@ -588,7 +588,7 @@ L’IPI pubblica:
 
 <sup>5</sup> Le pubblicazioni dell’IPI possono essere fatte in forma elettronica; la versione elettronica è tuttavia determinante soltanto se i dati sono pubblicati esclusivamente in forma elettronica.
 
-[^40-1]: Nuovo testo giusta il n. 4 dell’all. alla LF del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
+[^40-1]: Nuovo testo giusta l’all. n. 4 della LF del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
 ### Sezione 6: Proseguimento della procedura in caso d’inosservanza dei termini
 
@@ -611,9 +611,9 @@ Il proseguimento della procedura è escluso in caso d’inosservanza:
 - e.[^41-5] dei termini della procedura di cancellazione di cui agli articoli 35*a*–35*c*.
 
 [^41-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^41-2]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^41-3]: Nuovo testo giusta il n. 2 dell’appendice alla LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, in vigore dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
-[^41-4]: Introdotta dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^41-2]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^41-3]: Nuovo testo giusta l’appendice n. 2 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, in vigore dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^41-4]: Introdotta dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^41-5]: Introdotta dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 ### Sezione 7: Rappresentanza
@@ -636,7 +636,7 @@ Il proseguimento della procedura è escluso in caso d’inosservanza:
 
 <sup>2</sup> …[^43-1]
 
-[^43-1]: Abrogato dal n. 2 dell’appendice alla LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
+[^43-1]: Abrogato dall’appendice n. 2 della LF del 24 mar. 1995 sullo statuto e sui compiti dell’Istituto federale della proprietà intellettuale, con effetto dal 1° gen. 1996 ([RU 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [FF 1994 III 873](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
 ### Capitolo 4: Registrazione internazionale dei marchi
 
@@ -697,7 +697,17 @@ Una registrazione internazionale può essere trasformata in una domanda di regis
 
 [^46a-1]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° mag. 1997 ([RU 1997 1028](https://fedlex.data.admin.ch/eli/oc/1997/1028_1028_1028); [FF 1996 II 1273](https://fedlex.data.admin.ch/eli/fga/1996/2_1425_1393_1273)).
 
-## Titolo 2: Indicazioni di provenienza
+## Titolo 2: Indicazioni di provenienza e indicazioni geografiche****
+
+[^tit2-1]
+
+[^tit2-1]: Nuovo testo giusta l’all. del DF del 19 mar. 2021 che approva l’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche e lo traspone nel diritto svizzero, in vigore dal 1° dic. 2021 ([RU 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5215](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+
+### Capitolo 1: Disposizioni generali****
+
+[^tit2-chap1-1]
+
+[^tit2-chap1-1]: Introdotto dall’all. del DF del 19 mar. 2021 che approva l’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche e lo traspone nel diritto svizzero, in vigore dal 1° dic. 2021 ([RU 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5215](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
 #### Art. 47
 
@@ -859,7 +869,21 @@ Nella pubblicità l’indicazione di provenienza è pertinente se tutti i prodot
 
 #### Art. 50a
 
-**Registro delle indicazioni geografiche**[^50a-1]
+**Segno d’identificazione del produttore**[^50a-1]
+
+Se lo esigono gli interessi di un settore economico, il Consiglio federale può prescrivere l’obbligo d’apporre un segno d’identificazione del produttore sui prodotti di tale settore.
+
+[^50a-1]: Originario art. 51.
+
+### Capitolo 2: Registrazione delle indicazioni geografiche****
+
+[^tit2-chap2-1]
+
+[^tit2-chap2-1]: Introdotto dall’all. del DF del 19 mar. 2021 che approva l’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche e lo traspone nel diritto svizzero, in vigore dal 1° dic. 2021 ([RU 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5215](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+
+#### Art. 50b
+
+[^50b-1]
 
 <sup>1</sup> Il Consiglio federale istituisce un registro delle indicazioni geografiche per i prodotti, eccettuati i prodotti agricoli, i prodotti agricoli trasformati, i vini, i prodotti di selvicoltura e i prodotti di selvicoltura trasformati.
 
@@ -894,13 +918,87 @@ Le indicazioni geografiche registrate sono protette in particolare contro:
 - a. qualsiasi uso commerciale per altri prodotti che sfrutti la reputazione delle designazioni protette;
 - b. qualsiasi usurpazione, contraffazione o imitazione.
 
-[^50a-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^50b-1]: Originario art. 50*a* (senza rubrica). Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+
+### Capitolo 3:**** Registrazione internazionale delle indicazioni geografiche
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Introdotto dall’all. del DF del 19 mar. 2021 che approva l’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche e lo traspone nel diritto svizzero, in vigore dal 1° dic. 2021 ([RU 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5215](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+
+#### Art. 50c
+
+**Registro internazionale delle denominazioni d’origine e delle indicazioni geografiche**
+
+<sup>1</sup> La registrazione internazionale delle denominazioni d’origine e delle indicazioni geografiche è disciplinata dall’Atto di Ginevra del 20 maggio 2015[^50c-1] dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche (Atto di Ginevra) e dalle disposizioni del presente capitolo.
+
+<sup>2</sup>
+
+L’IPI è l’autorità incaricata dell’applicazione dell’Atto di Ginevra per la Svizzera per quanto concerne:
+
+- a. la registrazione internazionale delle denominazioni d’origine e delle indicazioni geografiche la cui area geografica d’origine è situata sul territorio svizzero (art. 50*d*);
+- b. gli effetti della registrazione internazionale delle denominazioni d’origine e delle indicazioni geografiche per cui è richiesta la protezione sul territorio svizzero (art. 50*e*).
+
+[^50c-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+
+#### Art. 50d
+
+**Registrazione internazionale di una denominazione d’origine o di un’indicazione geografica la cui area geografica d’origine è situata sul territorio svizzero**
+
+<sup>1</sup>
+
+La registrazione internazionale e la modifica della registrazione internazionale di una denominazione d’origine o di un’indicazione geografica la cui area geografica d’origine è situata sul territorio svizzero possono essere chieste presso l’IPI:
+
+- a. dal gruppo che ha ottenuto la registrazione di una denominazione d’origine o di un’indicazione geografica secondo l’articolo 16 LAgr[^50d-1] o l’articolo 50*b* della presente legge oppure, se tale gruppo non esiste più, da un gruppo rappresentativo che si occupa della protezione di tale denominazione d’origine o indicazione geografica;
+- b. dal Cantone che tutela una denominazione d’origine controllata secondo l’articolo 63 LAgr;
+- c. dall’organizzazione mantello del settore economico, se il Consiglio federale ha emanato un’ordinanza in virtù dell’articolo 50 capoverso 2;
+- d. dal titolare di un marchio che costituisce una denominazione d’origine o un’indicazione geografica ai sensi dell’articolo 2 dell’Atto di Ginevra[^50d-2], a condizione che tale denominazione d’origine o indicazione geografica non sia protetta in virtù dell’articolo 16 o 63 LAgr o dell’articolo 50 capoverso 2 o 50*b* della presente legge.
+
+<sup>2</sup> Il Consiglio federale disciplina le modalità della procedura.
+
+[^50d-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^50d-2]: [RS 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+
+#### Art. 50e
+
+**Effetti della registrazione internazionale di una denominazione d’origine o di un’indicazione geografica per cui è richiesta la protezione sul territorio svizzero**
+
+<sup>1</sup>
+
+Gli effetti della registrazione internazionale di una denominazione d’origine o di un’indicazione geografica per cui è richiesta la protezione sul territorio svizzero possono essere rifiutati segnatamente per i seguenti motivi:
+
+- a. la denominazione d’origine o l’indicazione geografica non è conforme alle definizioni di cui all’articolo 2 dell’Atto di Ginevra[^50e-1];
+- b. la protezione risultante dalla registrazione internazionale è in contrasto con il diritto, l’ordine pubblico o i buoni costumi;
+- c. la protezione risultante dalla registrazione internazionale viola un marchio anteriore registrato in buona fede per un prodotto identico o comparabile.
+
+<sup>2</sup> L’IPI decide d’ufficio in merito alla sussistenza dei motivi di esclusione di cui al capoverso 1 lettere a e b.
+
+<sup>3</sup> I terzi possono invocare dinanzi all’IPI tutti i motivi di cui al capoverso 1.
+
+<sup>4</sup> Possono inoltre chiedere che sia loro accordato un periodo di transizione secondo l’articolo 17 dell’Atto di Ginevra entro il quale porre fine a un uso anteriore e in buona fede di una denominazione d’origine o di un’indicazione geografica oggetto di una registrazione internazionale.
+
+<sup>5</sup> Un marchio depositato o registrato in buona fede prima che la denominazione d’origine o l’indicazione geografica oggetto della registrazione internazionale fosse protetta sul territorio svizzero e il cui uso per un prodotto identico o comparabile risulterebbe in contrasto con l’articolo 11 dell’Atto di Ginevra può continuare a essere utilizzato, sempreché il marchio non sia inficiato dai motivi di nullità o di estinzione previsti dalla presente legge. La sua registrazione può essere prorogata alle stesse condizioni.
+
+<sup>6</sup> L’articolo 50*b* capoversi 6 e 7 si applica per analogia.
+
+<sup>7</sup> Il Consiglio federale disciplina le modalità della procedura.
+
+[^50e-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+
+#### Art. 50f
+
+**Tasse**
+
+In un’ordinanza, l’IPI può prevedere che il richiedente sia tenuto a pagare una tassa per:
+
+- a. il trattamento di una domanda di registrazione internazionale di una denominazione d’origine o di un’indicazione geografica la cui area geografica d’origine è situata sul territorio svizzero o di una domanda di modificazione di tale registrazione (art. 50*d* cpv. 1);
+- b. l’esame materiale della registrazione internazionale di una denominazione d’origine o di un’indicazione geografica per cui è richiesta la protezione sul territorio svizzero (art. 50*e* cpv. 2);
+- c. il trattamento di una domanda di rifiuto degli effetti della registrazione internazionale di una denominazione d’origine o di un’indicazione geografica sul territorio svizzero (art. 50*e* cpv. 3);
+- d. il trattamento di una domanda di concessione di un periodo di transizione (art. 50*e* cpv. 4).
 
 #### Art. 51
 
-**Segno d’identificazione del produttore**
-
-Se lo esigono gli interessi di un settore economico, il Consiglio federale può prescrivere l’obbligo d’apporre un segno d’identificazione del produttore sui prodotti di tale settore.
+Abrogato
 
 ## Titolo 3: Protezione giuridica
 
@@ -932,8 +1030,8 @@ Chi dimostra un interesse giuridico può pretendere che il giudice accerti l’e
 
 <sup>4</sup> Sono fatte salve le pretese di risarcimento dei danni.[^53-2]
 
-[^53-1]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^53-2]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^53-1]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^53-2]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 54
 
@@ -963,10 +1061,10 @@ La persona che subisce o rischia di subire una violazione del diritto al marchio
 
 <sup>4</sup> Chi dispone di una licenza esclusiva è legittimato in proprio all’azione indipendentemente dal fatto che la licenza sia iscritta nel registro, sempre che il contratto di licenza non lo escluda espressamente. Tutti i titolari di una licenza possono intervenire nell’azione per far valere il proprio danno.[^55-4]
 
-[^55-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^55-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^55-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^55-3]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^55-4]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^55-3]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^55-4]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 56
 
@@ -995,13 +1093,13 @@ Le azioni d’accertamento (art. 52) e le azioni d’esecuzione di una prestazio
 
 <sup>2</sup> Il giudice decide se il marchio o l’indicazione di provenienza debbano essere resi irriconoscibili o se gli oggetti debbano essere resi inutilizzabili, distrutti o utilizzati in un determinata maniera.
 
-[^57-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^57-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 58
 
 [^58-1]
 
-[^58-1]: Abrogato dal n. II 9 dell’all. 1 al Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^58-1]: Abrogato dall’all. 1 n. II 9 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 59
 
@@ -1014,7 +1112,7 @@ Chi chiede al giudice di ordinare provvedimenti cautelari può in particolare es
 - c. salvaguardare lo stato di fatto; o
 - d. attuare a titolo provvisorio le pretese di omissione o di cessazione della turbativa.
 
-[^59-1]: Nuovo testo giusta il n. II 9 dell’all. 1 al Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^59-1]: Nuovo testo giusta l’all. 1 n. II 9 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 60
 
@@ -1039,7 +1137,7 @@ A querela della parte lesa è punito con una pena detentiva fino a un anno o con
 
 <sup>3</sup> Se agisce per mestiere, l’autore del reato è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.
 
-[^61-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^61-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^61-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^61-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -1058,8 +1156,8 @@ Su querela della parte lesa è punito con una pena detentiva fino a un anno o co
 
 <sup>3</sup> …[^62-3]
 
-[^62-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^62-2]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^62-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^62-2]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^62-3]: Abrogato dal n. I della LF del 21 giu. 2013, con effetto dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 63
@@ -1074,8 +1172,8 @@ Su querela della parte lesa è punito con una pena detentiva fino a un anno o co
 
 <sup>4</sup> Se agisce per mestiere, l’autore del reato è perseguito d’ufficio. È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria. Con la pena detentiva è cumulata una pena pecuniaria.[^63-2]
 
-[^63-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^63-2]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^63-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^63-2]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 64
 
@@ -1107,7 +1205,7 @@ Su querela della parte lesa è punito con una pena detentiva fino a un anno o co
 
 Gli atti di cui all’articolo 13 capoverso 2<sup>bis</sup> sono esenti da pena.
 
-[^65a-1]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^65a-1]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 66
 
@@ -1133,7 +1231,7 @@ Gli articoli 6 e 7 della legge federale del 22 marzo 1974[^67-1] sul diritto pen
 
 L’articolo 69 del Codice penale[^68-2] è applicabile; il giudice può ordinare che un oggetto munito illecitamente di un marchio o di un’indicazione di provenienza sia confiscato in quanto tale.
 
-[^68-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^68-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^68-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 69
@@ -1152,7 +1250,7 @@ Il perseguimento penale spetta ai Cantoni.
 
 <sup>2</sup> In tali casi, l’Amministrazione delle dogane è autorizzata a trattenere la merce per tre giorni feriali, affinché il titolare del marchio, l’avente diritto a un’indicazione di provenienza oppure un’associazione professionale o economica legittimata ad agire in virtù dell’articolo 56 possa presentare una domanda secondo l’articolo 71
 
-[^70-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^70-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^70-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 71
@@ -1178,7 +1276,7 @@ Il perseguimento penale spetta ai Cantoni.
 
 <sup>3</sup> In casi motivati, l’Amministrazione delle dogane può trattenere la merce per altri dieci giorni feriali al massimo.
 
-[^72-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^72-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 72a
@@ -1191,7 +1289,7 @@ Il perseguimento penale spetta ai Cantoni.
 
 <sup>3</sup> Dopo l’esame, i campioni, sempre che ciò sia opportuno, devono essere restituiti. Se rimangono presso il richiedente, i campioni sottostanno alle disposizioni della legislazione doganale.
 
-[^72a-1]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72a-1]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 72b
 
@@ -1203,7 +1301,7 @@ Il perseguimento penale spetta ai Cantoni.
 
 <sup>3</sup> L’Amministrazione delle dogane può, su richiesta motivata del dichiarante, detentore o proprietario, rifiutare la consegna di campioni.
 
-[^72b-1]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72b-1]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 72c
 
@@ -1215,7 +1313,7 @@ Il perseguimento penale spetta ai Cantoni.
 
 <sup>3</sup> La domanda di distruzione della merce non implica un prolungamento dei termini per chiedere provvedimenti cautelari secondo l’articolo 72 capoversi 2 e 3.
 
-[^72c-1]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72c-1]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 72d
 
@@ -1225,7 +1323,7 @@ Il perseguimento penale spetta ai Cantoni.
 
 <sup>2</sup> Il consenso è considerato dato se il dichiarante, detentore o proprietario non si oppone espressamente alla distruzione della merce entro i termini di cui all’articolo 72 capoversi 2 e 3.
 
-[^72d-1]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72d-1]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 72e
 
@@ -1233,7 +1331,7 @@ Il perseguimento penale spetta ai Cantoni.
 
 Prima della distruzione della merce, l’Amministrazione delle dogane preleva campioni e li conserva come prova per un’eventuale azione per risarcimento dei danni.
 
-[^72e-1]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72e-1]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 72f
 
@@ -1243,7 +1341,7 @@ Prima della distruzione della merce, l’Amministrazione delle dogane preleva ca
 
 <sup>2</sup> Se il dichiarante, detentore o proprietario ha acconsentito per scritto alla distruzione della merce, il richiedente non può essere chiamato a rispondere del danno nemmeno se successivamente la distruzione si rivela ingiustificata.
 
-[^72f-1]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72f-1]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 72g
 
@@ -1253,7 +1351,7 @@ Prima della distruzione della merce, l’Amministrazione delle dogane preleva ca
 
 <sup>2</sup> Sulle spese per il prelievo e la conservazione di campioni ai sensi dell’articolo 72*e* decide il giudice nell’ambito del giudizio relativo alle pretese di risarcimento dei danni secondo l’articolo 72*f* capoverso 1.
 
-[^72g-1]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72g-1]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 72h
 
@@ -1263,7 +1361,7 @@ Prima della distruzione della merce, l’Amministrazione delle dogane preleva ca
 
 <sup>2</sup> Se non vengono ordinati provvedimenti cautelari o se i provvedimenti presi si rivelano infondati, il richiedente deve risarcire il danno causato dalla ritenzione della merce e dal prelievo dei campioni.
 
-[^72h-1]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72h-1]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ## Titolo 4: Disposizioni finali
 
@@ -1334,7 +1432,7 @@ Se le domande di registrazione concernenti marchi esclusi dalla registrazione da
 
 Gli articoli 55 capoverso 4 e 59 capoverso 5 sono applicabili unicamente ai contratti di licenza conclusi o confermati dopo l’entrata in vigore della modifica del 22 giugno 2007 della presente legge.
 
-[^78a-1]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007 sui brevetti, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^78a-1]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007 sui brevetti, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### Capitolo 4: Referendum ed entrata in vigore
 

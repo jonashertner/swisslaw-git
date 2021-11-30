@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. August 1992 über den Schutz von Marken und Herkunf
 short: MSchG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: de
-version: 2019-04-01
+version: 2021-12-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20190401/de/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20190401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20190401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20211201/de/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20211201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20190401/de"
 
 (Markenschutzgesetz, MSchG)
 
-vom 28. August 1992 (Stand am 1. April 2019)
+vom 28. August 1992 (Stand am 1. Dezember 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -141,7 +141,7 @@ Wer eine mit einer Marke gekennzeichnete Ware oder Dienstleistung auf einer offi
 
 <sup>3</sup> Der Verlängerungsantrag muss innerhalb der letzten zwölf Monate vor Ablauf der Gültigkeitsdauer, spätestens jedoch innerhalb von sechs Monaten nach ihrem Ablauf beim IGE eingereicht werden.[^10-2]
 
-<sup>4</sup> …[^10-3]
+<sup>4</sup> ...[^10-3]
 
 [^10-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, in Kraft seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^10-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
@@ -262,7 +262,7 @@ Ist in einem Wörterbuch, in einem anderen Nachschlagewerk oder in einem ähnlic
 
 #### Art. 20
 
-<sup>1</sup> …[^20-1]
+<sup>1</sup> ...[^20-1]
 
 <sup>2</sup> Gewähren für die Schweiz verbindliche völkerrechtliche Verträge weitergehende Rechte als dieses Gesetz, so gelten diese auch für schweizerische Staatsangehörige.
 
@@ -336,11 +336,12 @@ Die Übertragung der Garantie- oder Kollektivmarke sowie die Erteilung von Lizen
 
 In Abweichung von Artikel 2 Buchstabe a kann eine geografische Marke eingetragen werden:
 
-- a. für eine nach Artikel 16 des Landwirtschaftsgesetzes vom 29. April 1998[^27a-1] (LwG) eingetragene Ursprungsbezeichnung oder eingetragene geografische Angabe oder für eine nach Artikel 50*a* des vorliegenden Gesetzes eingetragene geografische Angabe;
+- a.[^27a-1] für eine nach Artikel 16 des Landwirtschaftsgesetzes vom 29. April 1998[^27a-2] (LwG) eingetragene Ursprungsbezeichnung oder eingetragene geografische Angabe oder für eine nach Artikel 50*b* des vorliegenden Gesetzes eingetragene geografische Angabe;
 - b. für eine nach Artikel 63 LwG geschützte kontrollierte Ursprungsbezeichnung oder für eine ausländische Weinbezeichnung, die den Anforderungen im Sinne von Artikel 63 LwG entspricht;
 - c. für eine Herkunftsangabe, die Gegenstand einer Verordnung des Bundesrates nach Artikel 50 Absatz 2 ist, oder für eine ausländische Herkunftsangabe, die sich auf eine gleichwertige ausländische Regelung stützt.
 
-[^27a-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27a-1]: Fassung gemäss Anhang des BB vom 19. März 2021 über die Genehmigung der Genfer Akte des Lissabonner Abk. über Ursprungsbezeichnungen und geografische Angaben und über ihre Umsetzung, in Kraft seit 1. Dez. 2021 ([AS 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [BBl 2020 5827](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+[^27a-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
 #### Art. 27b
 
@@ -400,7 +401,7 @@ Für die Hinterlegung sind beim IGE einzureichen:
 
 <sup>3</sup> Für die Hinterlegung müssen die in der Verordnung dafür vorgesehenen Gebühren bezahlt werden.[^28-1]
 
-<sup>4</sup> …[^28-2]
+<sup>4</sup> ...[^28-2]
 
 [^28-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, in Kraft seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 [^28-2]: Aufgehoben durch Anhang Ziff. 2 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, mit Wirkung seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
@@ -525,7 +526,7 @@ Der Bundesrat regelt die Einzelheiten des Verfahrens.
 
 [^35c-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-### 4. Abschnitt: …
+### 4. Abschnitt: ...
 
 #### Art. 36
 
@@ -634,7 +635,7 @@ Die Weiterbehandlung ist ausgeschlossen bei Versäumnis:
 
 <sup>1</sup> Ausser in den in diesem Gesetz genannten Fällen sind Gebühren zu entrichten für Amtshandlungen, die durch einen besonderen Antrag veranlasst werden.
 
-<sup>2</sup> …[^43-1]
+<sup>2</sup> ...[^43-1]
 
 [^43-1]: Aufgehoben durch Anhang Ziff. 2 des BG vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum, mit Wirkung seit 1. Jan. 1996 ([AS 1995 5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050); [BBl 1994 III 964](https://fedlex.data.admin.ch/eli/fga/1994/3_964_951_873)).
 
@@ -695,7 +696,17 @@ Eine internationale Registrierung kann in ein nationales Eintragungsgesuch umgew
 
 <sup>2</sup> Widersprüche gegen die Eintragung von Marken, die nach Absatz 1 hinterlegt wurden, sind unzulässig.
 
-## 2. Titel: Herkunftsangaben
+## 2. Titel: Herkunftsangaben und geografische Angaben****
+
+[^tit2-1]
+
+[^tit2-1]: Fassung gemäss Anhang des BB vom 19. März 2021 über die Genehmigung der Genfer Akte des Lissabonner Abk. über Ursprungsbezeichnungen und geografische Angaben und über ihre Umsetzung, in Kraft seit 1. Dez. 2021 ([AS 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [BBl 2020 5827](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+
+### 1. Kapitel: Allgemeine Bestimmungen****
+
+[^tit2-chap1-1]
+
+[^tit2-chap1-1]: Eingefügt durch Anhang des BB vom 19. März 2021 über die Genehmigung der Genfer Akte des Lissabonner Abk. über Ursprungsbezeichnungen und geografische Angaben und über ihre Umsetzung, in Kraft seit 1. Dez. 2021 ([AS 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [BBl 2020 5827](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
 #### Art. 47
 
@@ -774,7 +785,7 @@ Von der Berechnung nach Absatz 2 sind ausgeschlossen:
 <sup>5</sup> Die Herkunftsangabe muss ausserdem dem Ort entsprechen, an dem die Verarbeitung stattgefunden hat, die dem Lebensmittel seine wesentlichen Eigenschaften verliehen hat.
 
 [^48b-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^48b-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^48b-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 
 #### Art. 48c
 
@@ -857,7 +868,21 @@ Die Herkunftsangabe in der Werbung ist zutreffend, wenn diese der Herkunft aller
 
 #### Art. 50a
 
-**Register für geografische Angaben**[^50a-1]
+**Produzentenkennzeichen**[^50a-1]
+
+Wenn die Interessen einer Wirtschaftsbranche es erfordern, kann der Bundesrat vorschreiben, dass auf den Waren dieser Wirtschaftsbranche ein Produzentenkennzeichen anzubringen ist.
+
+[^50a-1]: Ursprünglich Art. 51.
+
+### 2. Kapitel: Registrierung von geografischen Angaben****
+
+[^tit2-chap2-1]
+
+[^tit2-chap2-1]: Eingefügt durch Anhang des BB vom 19. März 2021 über die Genehmigung der Genfer Akte des Lissabonner Abk. über Ursprungsbezeichnungen und geografische Angaben und über ihre Umsetzung, in Kraft seit 1. Dez. 2021 ([AS 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [BBl 2020 5827](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+
+#### Art. 50b
+
+**...**[^50b-1]
 
 <sup>1</sup> Der Bundesrat schafft ein Register für geografische Angaben für Waren, mit Ausnahme von landwirtschaftlichen Erzeugnissen, verarbeiteten landwirtschaftlichen Erzeugnissen und Wein sowie waldwirtschaftlichen Erzeugnissen und deren Verarbeitungsprodukten.
 
@@ -892,13 +917,87 @@ Eingetragene geografische Angaben sind insbesondere geschützt gegen:
 - a. jede kommerzielle Verwendung für andere Erzeugnisse, durch die der Ruf geschützter Bezeichnungen ausgenutzt wird;
 - b. jede Anmassung, Nachmachung oder Nachahmung.
 
-[^50a-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^50b-1]: Ursprünglich Art. 50*a* (ohne Sachüberschrift). Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+
+### 3. Kapitel:**** Internationale Registrierung von geografischen Angaben
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Eingefügt durch Anhang des BB vom 19. März 2021 über die Genehmigung der Genfer Akte des Lissabonner Abk. über Ursprungsbezeichnungen und geografische Angaben und über ihre Umsetzung, in Kraft seit 1. Dez. 2021 ([AS 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [BBl 2020 5827](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+
+#### Art. 50c
+
+**Internationales Register für Ursprungsbezeichnungen und geografische Angaben**
+
+<sup>1</sup> Die internationale Registrierung von Ursprungsbezeichnungen und geografischen Angaben richtet sich nach der Genfer Akte vom 20. Mai 2015[^50c-1] des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben (Genfer Akte) sowie nach den Bestimmungen dieses Kapitels.
+
+<sup>2</sup>
+
+Das IGE ist mit der Verwaltung der Genfer Akte für die Schweiz in den folgenden Bereichen beauftragt:
+
+- a. internationale Registrierung von Ursprungsbezeichnungen und geografischen Angaben, deren geografisches Ursprungsgebiet auf schweizerischem Staatsgebiet liegt (Art. 50*d*);
+- b. Wirksamkeit der internationalen Registrierung von Ursprungsbezeichnungen und geografischen Angaben, deren Schutz auf schweizerischem Staatsgebiet verlangt wurde (Art. 50*e*).
+
+[^50c-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+
+#### Art. 50d
+
+**Internationale Registrierung von Ursprungsbezeichnungen und geografischen Angaben, deren geografisches Ursprungsgebiet auf schweizerischem Staatsgebiet liegt**
+
+<sup>1</sup>
+
+Die internationale Registrierung oder die Änderung der internationalen Registrierung einer Ursprungsbezeichnung oder geografischen Angabe, deren geografisches Ursprungsgebiet auf schweizerischem Staatsgebiet liegt, können beim IGE verlangt werden:
+
+- a. von der Gruppierung, die die Ursprungsbezeichnung oder geografische Angabe nach Artikel 16 LwG[^50d-1] oder Artikel 50*b* des vorliegenden Gesetzes hat eintragen lassen, oder, wenn diese Gruppierung nicht mehr besteht, von einer repräsentativen Gruppierung, die sich für den Schutz dieser Ursprungsbezeichnung oder geografischen Angabe einsetzt;
+- b. vom Kanton, der eine kontrollierte Ursprungsbezeichnung nach Artikel 63 LwG schützt;
+- c. von der Dachorganisation einer Branche, für die der Bundesrat gestützt auf Artikel 50 Absatz 2 eine Verordnung erlassen hat;
+- d. vom Inhaber einer Marke, die eine Ursprungsbezeichnung oder geografische Angabe im Sinne von Artikel 2 der Genfer Akte[^50d-2] darstellt, sofern die Ursprungsbezeichnung oder geografische Angabe weder nach Artikel 16 oder 63 LwG noch nach Artikel 50 Absatz 2 oder 50*b* des vorliegenden Gesetzes geschützt ist.
+
+<sup>2</sup> Der Bundesrat regelt die Einzelheiten des Verfahrens.
+
+[^50d-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^50d-2]: [SR 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+
+#### Art. 50e
+
+**Wirksamkeit der internationalen Registrierung von Ursprungsbezeichnungen und geografischen Angaben, deren Schutz auf schweizerischem Staatsgebiet verlangt wurde**
+
+<sup>1</sup>
+
+Die Wirksamkeit der internationalen Registrierung einer Ursprungsbezeichnung oder geografischen Angabe, deren Schutz auf schweizerischem Staatsgebiet verlangt wurde, kann insbesondere aus den folgenden Gründen verweigert werden:
+
+- a. Die Bezeichnung oder Angabe entspricht nicht den Begriffsbestimmungen nach Artikel 2 der Genfer Akte[^50e-1].
+- b. Der Schutz aufgrund der internationalen Registrierung verstösst gegen das Recht, die öffentliche Ordnung oder die guten Sitten.
+- c. Der Schutz aufgrund der internationalen Registrierung verstösst gegen eine ältere Marke, die in gutem Glauben für ein identisches oder vergleichbares Produkt eingetragen wurde.
+
+<sup>2</sup> Das IGE entscheidet von Amtes wegen, ob ein Grund nach Absatz 1 Buchstabe a oder b vorliegt.
+
+<sup>3</sup> Ein Dritter kann beim IGE alle Gründe nach Absatz 1 geltend machen.
+
+<sup>4</sup> Darüber hinaus kann er die Gewährung der Übergangsfrist nach Artikel 17 der Genfer Akte verlangen, um eine ältere, gutgläubige Verwendung einer Bezeichnung oder Angabe, die Gegenstand einer internationalen Registrierung ist, zu beenden.
+
+<sup>5</sup> Eine Marke, die in gutem Glauben hinterlegt oder registriert wurde, bevor die Bezeichnung oder Angabe, die Gegenstand der internationalen Registrierung ist, auf schweizerischem Staatsgebiet geschützt wurde, und deren Verwendung für ein identisches oder vergleichbares Produkt gegen Artikel 11 der Genfer Akte verstossen würde, kann dennoch weiterhin verwendet werden, sofern keine Nichtigkeits- oder Verwirkungsgründe nach diesem Gesetz entgegenstehen. Ihre Registrierung kann unter den gleichen Bedingungen verlängert werden.
+
+<sup>6</sup> Artikel 50*b* Absätze 6 und 7 findet sinngemäss Anwendung.
+
+<sup>7</sup> Der Bundesrat regelt die Einzelheiten des Verfahrens.
+
+[^50e-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+
+#### Art. 50f
+
+**Gebühren**
+
+Das IGE kann mittels Verordnung vorsehen, dass gegenüber dem Gesuchsteller Gebühren erhoben werden für:
+
+- a. die Behandlung eines Gesuchs um die internationale Registrierung von Ursprungsbezeichnungen und geografischen Angaben, deren geografisches Ursprungsgebiet auf schweizerischem Staatsgebiet liegt, oder eines Gesuchs um die Änderung der genannten Registrierung (Art. 50*d* Abs. 1);
+- b. die materielle Prüfung der internationalen Registrierung einer Ursprungsbezeichnung oder geografischen Angabe, deren Schutz auf schweizerischem Staatsgebiet verlangt wird (Art. 50*e* Abs. 2);
+- c. die Behandlung eines Gesuchs um die Verweigerung der Wirksamkeit der internationalen Registrierung einer Ursprungsbezeichnung oder geografischen Angabe auf schweizerischem Staatsgebiet (Art. 50*e* Abs. 3);
+- d. die Behandlung eines Gesuchs um die Gewährung einer Übergangsfrist (Art. 50*e* Abs. 4).
 
 #### Art. 51
 
-**Produzentenkennzeichen**
-
-Wenn die Interessen einer Wirtschaftsbranche es erfordern, kann der Bundesrat vorschreiben, dass auf den Waren dieser Wirtschaftsbranche ein Produzentenkennzeichen anzubringen ist.
+Aufgehoben
 
 ## 3. Titel: Rechtsschutz
 
@@ -1053,7 +1152,7 @@ Auf Antrag des Verletzten wird mit Freiheitsstrafe bis zu einem Jahr oder Geldst
 
 <sup>2</sup> Handelt der Täter gewerbsmässig, so wird er von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe ist eine Geldstrafe zu verbinden.[^62-2]
 
-<sup>3</sup> …[^62-3]
+<sup>3</sup> ...[^62-3]
 
 [^62-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^62-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. Juni 2007, Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
@@ -1283,7 +1382,7 @@ Das Bundesgesetz vom 26. September 1890[^74-1] betreffend den Schutz der Fabrik-
 
 **Änderung bisherigen Rechts**
 
-<sup>1.</sup> und 2. …[^75-1]
+<sup>1.</sup> und 2. ...[^75-1]
 
 <sup>3.</sup> Der Ausdruck «Fabrik- und Handelsmarken» wird in sämtlichen Erlassen durch «Marken» ersetzt; davon ausgenommen sind die Artikel 1 und 2 des Bundesgesetzes vom 5. Juni 1931[^75-2] zum Schutz öffentlicher Wappen und anderer öffentlicher Zeichen. Die betreffenden Erlasse sind bei nächster Gelegenheit entsprechend anzupassen.
 
@@ -1320,7 +1419,7 @@ Sind beim Inkrafttreten dieses Gesetzes Eintragungsgesuche für Marken hängig, 
 
 <sup>1</sup> Wer eine Marke vor dem Inkrafttreten dieses Gesetzes auf Waren oder deren Verpackung oder zur Kennzeichnung von Dienstleistungen zuerst gebraucht hat, ist gegenüber dem ersten Hinterleger besser berechtigt, sofern er die Marke innerhalb von zwei Jahren nach Inkrafttreten dieses Gesetzes hinterlegt und zugleich den Zeitpunkt angibt, in dem die Marke in Gebrauch genommen wurde.
 
-<sup>2</sup> …[^78-1]
+<sup>2</sup> ...[^78-1]
 
 [^78-1]: Aufgehoben durch Ziff. II 11 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 août 1992 sur la protection des marques et des ind
 short: LPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/274_274_274"
 language: fr
-version: 2019-04-01
+version: 2021-12-01
 adopted: 1992-08-28
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20190401/fr/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20190401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20190401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/274_274_274/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-1993-274_274_274-20211201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/20190401/fr"
 
 (Loi sur la protection des marques, LPM)
 
-du 28 août 1992 (Etat le 1<sup>er</sup> avril 2019)
+du 28 août 1992 (Etat le 1<sup>er</sup> décembre 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -336,11 +336,12 @@ Pour être valables, le transfert de la marque de garantie ou de la marque colle
 
 En dérogation à l’art. 2, let. a, une marque géographique peut être enregistrée pour:
 
-- a. une appellation d’origine ou une indication géographique enregistrée conformément à l’art. 16 de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^27a-1] ou une indication géographique enregistrée conformément à l’art. 50*a* de la présente loi;
+- a.[^27a-1] une appellation d’origine ou une indication géographique enregistrée conformément à l’art. 16 de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^27a-2] ou une indication géographique enregistrée conformément à l’art. 50*b* de la présente loi;
 - b. une appellation d’origine contrôlée protégée conformément à l’art. 63 LAgr ou une appellation viticole étrangère conforme aux exigences de l’art. 63 LAgr;
 - c. une indication de provenance faisant l’objet d’une ordonnance du Conseil fédéral édictée en vertu de l’art. 50, al. 2, ou une indication de provenance étrangère fondée sur une réglementation étrangère équivalente.
 
-[^27a-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27a-1]: Nouvelle teneur selon l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+[^27a-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
 #### Art. 27b
 
@@ -699,7 +700,17 @@ L’enregistrement international peut être transformé en demande d’enregistr
 
 [^46a-1]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 1028](https://fedlex.data.admin.ch/eli/oc/1997/1028_1028_1028); [FF 1996 II 1393](https://fedlex.data.admin.ch/eli/fga/1996/2_1425_1393_1273)).
 
-## Titre 2 Indications de provenance
+## Titre 2 Indications de provenance et indications géographiques****
+
+[^tit2-1]
+
+[^tit2-1]: Nouvelle teneur selon l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+
+## Chapitre 1 Dispositions générales****
+
+[^tit3-1]
+
+[^tit3-1]: Introduit par l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
 
 #### Art. 47
 
@@ -861,7 +872,21 @@ Dans le domaine de la publicité, l’indication de provenance est exacte si tou
 
 #### Art. 50a
 
-**Registre des indications géographiques**[^50a-1]
+**Signe d’identification du producteur**[^50a-1]
+
+Lorsque les intérêts d’un secteur économique l’exigent, le Conseil fédéral peut instituer l’obligation d’apposer un signe d’identification du producteur sur les produits de ce secteur.
+
+[^50a-1]: Anciennement art. 51.
+
+### Chapitre 2 Enregistrement des indications géographiques****
+
+[^tit3-chap1-1]
+
+[^tit3-chap1-1]: Introduit par l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+
+#### Art. 50b
+
+[^50b-1]
 
 <sup>1</sup> Le Conseil fédéral établit un registre des indications géographiques pour les produits, à l’exception des produits agricoles, des produits agricoles transformés, des vins, des produits sylvicoles et des produits sylvicoles transformés.
 
@@ -896,13 +921,87 @@ Les indications géographiques enregistrées sont protégées en particulier con
 - a. toute utilisation commerciale pour d’autres produits exploitant le renom de la désignation protégée;
 - b. toute usurpation, contrefaçon ou imitation.
 
-[^50a-1]: Introduit par le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^50b-1]: Anciennement art. 50*a* (sans titre). Introduit par le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+
+### Chapitre 3**** Enregistrement international des indications géographiques
+
+[^tit3-chap2-1]
+
+[^tit3-chap2-1]: Introduit par l’annexe de l’AF du 19 mars 2021 portant approbation et mise en œuvre de l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742); [FF 2020 5655](https://fedlex.data.admin.ch/eli/fga/2020/1366)).
+
+#### Art. 50c
+
+**Registre international des appellations d’origine et des indications géographiques**
+
+<sup>1</sup> L’enregistrement international des appellations d’origine et des indications géographiques est régi par l’Acte de Genève du 20 mai 2015 de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques[^50c-1] (Acte de Genève) et par les dispositions du présent chapitre.
+
+<sup>2</sup>
+
+L’IPI est l’autorité chargée de l’administration de l’Acte de Genève pour la Suisse en ce qui concerne:
+
+- a. l’enregistrement international des appellations d’origine et indications géographiques dont l’aire géographique d’origine est située sur le territoire suisse (art. 50*d*);
+- b. les effets de l’enregistrement international des appellations d’origine et indications géographiques dont la protection est demandée sur le territoire suisse (art. 50*e*).
+
+[^50c-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+
+#### Art. 50d
+
+**Enregistrement international d’une appellation d’origine ou d’une indication géographique dont l’aire géographique d’origine est située sur le territoire suisse**
+
+<sup>1</sup>
+
+L’enregistrement international ou la modification de l’enregistrement international d’une appellation d’origine ou d’une indication géographique dont l’aire géographique d’origine est située sur le territoire suisse peuvent être demandés auprès de l’IPI par:
+
+- a. le groupement ayant obtenu l’enregistrement d’une appellation d’origine ou d’une indication géographique conformément à l’art. 16 LAgr[^50d-1] ou à l’art. 50*b* de la présente loi ou, s’il n’existe plus, un groupement représentatif s’occupant de la protection de l’appellation d’origine ou de l’indication géographique;
+- b. le canton protégeant une appellation d’origine contrôlée conformément à l’art. 63 LAgr;
+- c. l’organisation faîtière du secteur économique, si le Conseil fédéral a édicté une ordonnance en vertu de l’art. 50, al. 2;
+- d. le titulaire d’une marque constituant une appellation d’origine ou une indication géographique au sens de l’art. 2 de l’Acte de Genève[^50d-2], pour autant que cette appellation d’origine ou cette indication géographique ne soit pas protégée en vertu de l’art. 16 ou 63 LAgr ou de l’art. 50, al. 2, ou 50*b* de la présente loi.
+
+<sup>2</sup> Le Conseil fédéral règle les modalités de la procédure.
+
+[^50d-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^50d-2]: [RS 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+
+#### Art. 50e
+
+**Effets de l’enregistrement international d’une appellation d’origine ou d’une indication géographique dont la protection est demandée sur le territoire suisse**
+
+<sup>1</sup>
+
+Les effets de l’enregistrement international d’une appellation d’origine ou d’une indication géographique dont la protection est demandée sur le territoire suisse peuvent être refusés notamment pour les motifs suivants:
+
+- a. la dénomination ou l’indication ne correspond pas aux définitions de l’art. 2 de l’Acte de Genève[^50e-1];
+- b. la protection résultant de l’enregistrement international est contraire au droit, à l’ordre public ou aux bonnes mœurs;
+- c. la protection résultant de l’enregistrement international porte atteinte à une marque antérieure enregistrée de bonne foi pour un produit identique ou comparable.
+
+<sup>2</sup> L’IPI statue d’office sur les motifs de refus visés à l’al. 1, let. a et b.
+
+<sup>3</sup> Un tiers peut invoquer auprès de l’IPI tous les motifs visés à l’al. 1.
+
+<sup>4</sup> Il peut au surplus demander l’octroi de la période de transition prévue à l’art. 17 de l’Acte de Genève pour mettre fin à une utilisation antérieure et de bonne foi d’une dénomination ou d’une indication faisant l’objet d’un enregistrement international.
+
+<sup>5</sup> Une marque qui a été déposée ou enregistrée de bonne foi avant que la dénomination ou l’indication faisant l’objet de l’enregistrement international ait été protégée sur le territoire suisse et dont l’utilisation pour un produit identique ou comparable serait contraire à l’art. 11 de l’Acte de Genève peut continuer à être utilisée, lorsqu’elle n’encourt pas les motifs de nullité ou de déchéance prévus par la présente loi. Son enregistrement peut être prolongé aux mêmes conditions.
+
+<sup>6</sup> L’art. 50*b*, al. 6 et 7, s’applique par analogie.
+
+<sup>7</sup> Le Conseil fédéral règle les modalités de la procédure.
+
+[^50e-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+
+#### Art. 50f
+
+**Taxes**
+
+L’IPI peut prévoir par voie d’ordonnance que le requérant est tenu de payer une taxe pour:
+
+- a. le traitement d’une demande d’enregistrement international d’une appellation d’origine ou d’une indication géographique dont l’aire géographique d’origine est située sur le territoire suisse ou d’une demande de modification dudit enregistrement (art. 50*d*, al. 1);
+- b. l’examen quant au fond de l’enregistrement international d’une appellation d’origine ou d’une indication géographique dont la protection est demandée sur le territoire suisse (art. 50*e*, al. 2);
+- c. le traitement d’une demande de refus des effets de l’enregistrement international d’une appellation d’origine ou d’une indication géographique sur le territoire suisse (art. 50*e*, al. 3);
+- d. le traitement d’une demande d’octroi d’une période de transition (art. 50*e*, al. 4).
 
 #### Art. 51
 
-**Signe d’identification du producteur**
-
-Lorsque les intérêts d’un secteur économique l’exigent, le Conseil fédéral peut instituer l’obligation d’apposer un signe d’identification du producteur sur les produits de ce secteur.
+*Abrogé*
 
 ## Titre 3 Voies de droit
 
