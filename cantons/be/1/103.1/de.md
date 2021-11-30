@@ -4,13 +4,12 @@ number: "103.1"
 title: Publikationsgesetz
 short: PuG
 language: de
-version: 2014-07-01
-valid_until: 2021-11-30
-version_adopted: 2014-07-01
+version: 2021-12-01
+version_adopted: 2021-03-08
 adopted: 1993-01-18
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/103.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/22/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2402/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/22/pdf_file"
 
 (PuG)
 
-vom 18.01.1993 (Stand 01.07.2014)
+vom 18.01.1993 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -150,23 +149,23 @@ beschliesst:
 
 **…**
 
-## 2. Amtsblätter
+## 2. Kantonales Amtsblatt
 
 #### Art. 13
 
 **Herausgabe**
 
-<sup>1</sup> Allgemeine kantonale Publikationsorgane sind für den deutschsprachigen Kantonsteil das «Amtsblatt des Kantons Bern» und für den französischsprachigen Teil das «Feuille officielle du Jura bernois». Die beiden Blätter können zusammengelegt werden.
+<sup>1</sup> Allgemeines kantonales Publikationsorgan ist das «Amtsblatt des Kantons Bern» (kantonales Amtsblatt).
 
-<sup>2</sup> Die Amtsblätter werden von der Staatskanzlei herausgegeben. Sie kann Dritte damit beauftragen.
+<sup>2</sup> Das kantonale Amtsblatt wird von der Staatskanzlei herausgegeben. Sie kann Dritte damit beauftragen.
 
-<sup>3</sup> Die Amtsblätter können in gedruckter, in elektronischer oder in beiden Formen herausgegeben werden.
+<sup>3</sup> Das kantonale Amtsblatt wird in elektronischer Form herausgegeben.
 
-<sup>4</sup> Erfolgt die Veröffentlichung in den beiden Formen, ist die gedruckte Ausgabe massgebend.
+<sup>4</sup> …
 
-<sup>5</sup> Die Staatskanzlei übt die Aufsicht über die Amtsblätter aus.
+<sup>5</sup> Die Staatskanzlei übt die Aufsicht über das kantonale Amtsblatt aus.
 
-<sup>6</sup> Der Regierungsrat regelt das Nähere durch Verordnung. Er erlässt insbesondere Vorschriften über die Erscheinungsweise und den zulässigen Inhalt des nicht amtlichen Teils der Amtsblätter.
+<sup>6</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
 
 #### Art. 14
 
@@ -174,7 +173,7 @@ beschliesst:
 
 <sup>1</sup> Die besondere Gesetzgebung bestimmt, was veröffentlicht werden muss.
 
-<sup>2</sup> Wenn dieses Gesetz und die besondere Gesetzgebung nichts Abweichendes bestimmen, erfolgt die amtliche Veröffentlichung in den Amtsblättern.
+<sup>2</sup> Wenn dieses Gesetz und die besondere Gesetzgebung nichts Abweichendes bestimmen, erfolgt die amtliche Veröffentlichung im kantonalen Amtsblatt.
 
 #### Art. 15
 
@@ -240,7 +239,7 @@ beschliesst:
 
 - a die Bernische Amtliche Gesetzessammlung sowie die Bernische Systematische Gesetzessammlung einsehen;
 - b den Text der ausserordentlich veröffentlichten Erlasse, die in der Bernischen Amtlichen Gesetzessammlung noch nicht veröffentlicht sind, einsehen und beziehen;
-- c die Amtsblätter einsehen.
+- c das kantonale Amtsblatt einsehen.
 
 <sup>2</sup> Die Einsichtnahme ist kostenlos.
 
@@ -302,8 +301,8 @@ beschliesst:
 
 <sup>1</sup> Die Staatskanzlei ist zuständig für
 
-- a die Veröffentlichung der Bernischen Amtlichen Gesetzessammlung und der Bernischen Systematischen Gesetzessammlung;
-- b die Aufsicht über die Amtsblätter,
+- a die Veröffentlichung der Bernischen Amtlichen Gesetzessammlung und der Bernischen Systematischen Gesetzessammlung,
+- b die Aufsicht über das kantonale Amtsblatt,
 - c die ausserordentliche Veröffentlichung und
 - d den Entscheid, ob ein Erlass in der Form eines Verweises veröffentlicht wird.
 

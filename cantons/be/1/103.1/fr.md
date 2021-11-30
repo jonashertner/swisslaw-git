@@ -4,13 +4,12 @@ number: "103.1"
 title: Loi sur les publications officielles
 short: LPO
 language: fr
-version: 2014-07-01
-valid_until: 2021-11-30
-version_adopted: 2014-07-01
+version: 2021-12-01
+version_adopted: 2021-03-08
 adopted: 1993-01-18
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/103.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/22/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2402/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/22/pdf_file"
 
 (LPO)
 
-du 18.01.1993 (état au 01.07.2014)
+du 18.01.1993 (état au 01.12.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -154,23 +153,23 @@ arrête:
 
 **…**
 
-## 2. Feuilles officielles
+## 2. Feuille officielle cantonale
 
 #### Art. 13
 
 **Publication**
 
-<sup>1</sup> Les organes officiels de publication du canton sont, pour la partie francophone, la «Feuille officielle du Jura bernois» et, pour la partie germanophone, l’«Amtsblatt des Kantons Bern». Les deux feuilles peuvent être regroupées en une seule.
+<sup>1</sup> L'organe officiel de publication du canton est la «Feuille officielle du canton de Berne» (ci-après feuille officielle cantonale).
 
-<sup>2</sup> La Chancellerie d’Etat publie les feuilles officielles. Elle peut en charger des tiers.
+<sup>2</sup> La Chancellerie d’Etat publie la feuille officielle cantonale. Elle peut en charger des tiers.
 
-<sup>3</sup> Les feuilles officielles peuvent être publiées sous forme imprimée, sous forme électronique ou sous ces deux formes.
+<sup>3</sup> La feuille officielle cantonale est publiée sous forme électronique.
 
-<sup>4</sup> Si elles sont publiées sous ces deux formes, la version imprimée fait foi.
+<sup>4</sup> …
 
-<sup>5</sup> Les feuilles officielles sont soumises à la surveillance de la Chancellerie d’Etat.
+<sup>5</sup> La feuille officielle est soumise à la surveillance de la Chancellerie d’Etat.
 
-<sup>6</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance. Il édicte des dispositions concernant notamment le mode de parution et le contenu autorisé de la partie non officielle des feuilles officielles.
+<sup>6</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
 
 #### Art. 14
 
@@ -178,7 +177,7 @@ arrête:
 
 <sup>1</sup> La législation spéciale détermine l'objet des publications.
 
-<sup>2</sup> Les publications officielles se font par la voie des feuilles officielles si la présente loi ou la législation spéciale ne prévoient pas de disposition contraire.
+<sup>2</sup> Les publications officielles se font par la voie de la feuille officielle cantonale si la présente loi ou la législation spéciale ne prévoient pas de disposition contraire.
 
 #### Art. 15
 
@@ -244,7 +243,7 @@ arrête:
 
 - a consulter les Recueils officiel et systématique des lois bernoises;
 - b consulter et obtenir le texte des actes législatifs qui ont fait l’objet d’une publication extraordinaire et n’ont pas encore paru dans le Recueil officiel des lois bernoises;
-- c consulter les feuilles officielles.
+- c consulter la feuille officielle cantonale.
 
 <sup>2</sup> La consultation est gratuite.
 
@@ -307,7 +306,7 @@ arrête:
 <sup>1</sup> La Chancellerie d'Etat est compétente pour
 
 - a publier le Recueil officiel des lois bernoises et le Recueil systématique des lois bernoises;
-- b exercer la surveillance des feuilles officielles,
+- b exercer la surveillance de la feuille officielle cantonale;
 - c procéder à la publication extraordinaire et
 - d décider si un acte législatif sera publié sous la forme d'un renvoi.
 
