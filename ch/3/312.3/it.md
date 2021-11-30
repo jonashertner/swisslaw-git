@@ -3,18 +3,18 @@ sr: "312.3"
 title: Ordinanza del 10 novembre 2004 concernente la comunicazione di decisioni penali cantonali
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/729"
 language: it
-version: 2020-01-01
+version: 2021-12-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/729/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2004-729-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/729/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/729/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2004-729-20211201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/729/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la comunicazione di decisioni penali cantonali****
 
-del 10 novembre 2004 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)[^t-1]
+del 10 novembre 2004 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)[^t-1]
 
 [^t-1]: Tit. abbreviato abrogato dal n. II 1 dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5999](https://fedlex.data.admin.ch/eli/oc/2010/862)).
 
@@ -31,22 +31,23 @@ ordina:
 
 **Disposizioni del Codice penale**
 
-Le autorità cantonali comunicano tutte le sentenze, decisioni amministrative di carattere penale e dichiarazioni di non doversi procedere emanate in applicazione delle seguenti disposizioni del Codice penale (CP)[^1-1]:
+Le autorità cantonali comunicano tutte le sentenze, decisioni amministrative di carattere penale e dichiarazioni di non doversi procedere emanate in applicazione delle seguenti disposizioni del Codice penal<sup>e</sup>[^1-1]:[^1-2]
 
 - 1\. articoli 111 e seguenti (reati contro la vita e l’integrità della persona, se attengono ai trasporti pubblici): comunicazione all’Ufficio federale dei trasporti;
 - 2\. articolo 156 (estorsione, se è stata commessa a danno della Confederazione): comunicazione al Ministero pubblico della Confederazione;
-- 3\. articoli 195, 196[^1-2] e 197 (promovimento della prostituzione, tratta di esseri umani e pornografia): comunicazione all’Ufficio federale di polizia;
+- 3\. articoli 195, 196[^1-3] e 197 (promovimento della prostituzione, tratta di esseri umani e pornografia): comunicazione all’Ufficio federale di polizia;
 - 4\. articoli 231 e 234 (propagazione di malattie dell’uomo e inquinamento di acque potabili): comunicazione all’Ufficio federale della sanità pubblica;
 - 5\. articolo 237 (soltanto perturbamento della circolazione aerea pubblica): comunicazione all’Ufficio federale dell’aviazione civile;
 - 6\. articolo 238 (perturbamento del servizio ferroviario): comunicazione all’Ufficio federale dei trasporti e all’Ufficio d’inchiesta conformemente all’articolo 15 della legge federale del 20 dicembre 1957 sulle ferrovie (RS *742.101*);
 - 7\. articolo 239 (perturbamento di pubblici servizi, se attengono al perturbamento di imprese di trasporto): comunicazione all’Ufficio federale dei trasporti e all’Ufficio d’inchiesta conformemente all’articolo 15 della legge federale del 20 dicembre 1957 sulle ferrovie;
 - 8\. articoli 240, 241, 242, 243, 244 e 247 (contraffazione di monete, alterazione di monete, messa in circolazione di monete false, imitazione di biglietti di banca, monete o valori di bollo ufficiali senza fine di falsificazione, importazione, acquisto e deposito di monete false, strumenti per la falsificazione e uso illegittimo di strumenti): comunicazione all’Ufficio federale di polizia;
-- 9\.[^1-3] articoli 259, 260, 261, 261<sup>bis</sup> e 285 (pubblica istigazione a un crimine o alla violenza, sommossa, perturbamento della libertà di credenza e di culto, discriminazione razziale, violenza o minaccia contro le autorità e i funzionari): comunicazione all’Ufficio federale di polizia e al Servizio delle attività informative della Confederazione;
+- 9\.[^1-4] articoli 259, 260, 261, 261<sup>bis</sup> e 285 (pubblica istigazione a un crimine o alla violenza, sommossa, perturbamento della libertà di credenza e di culto, discriminazione razziale, violenza o minaccia contro le autorità e i funzionari): comunicazione all’Ufficio federale di polizia;
 - 10\. articoli 322<sup>ter</sup>–322<sup>septies</sup> (corruzione attiva, corruzione passiva, concessione di vantaggi, accettazione di vantaggi, corruzione di pubblici ufficiali stranieri): comunicazione all’Ufficio federale di polizia.
 
 [^1-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^1-2]: Ora: art. 182
-[^1-3]: Nuovo testo giusta l’all. 4 n. II 12 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^1-2]: Nuovo testo giusta il n. II 2 dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
+[^1-3]: Ora: art. 182
+[^1-4]: Nuovo testo giusta il n. II 2 dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 #### Art. 2
 
@@ -69,51 +70,54 @@ Le autorità cantonali comunicano tutte le sentenze, decisioni amministrative di
 - 4\. legge del 9 ottobre 1992 sulle topografie (RS *231.2*): comunicazione all’Istituto federale della proprietà intellettuale;
 - 5\. legge del 28 agosto 1992 sulla protezione dei marchi (RS *232.11*): comunicazione all’Istituto federale della proprietà intellettuale;
 - 6\. legge del 5 ottobre 2001 sul design (RS *232.12*): comunicazione all’Istituto federale della proprietà intellettuale;
-- 7\. legge federale del 5 giugno 1931 per la protezione degli stemmi pubblici e di altri segni pubblici (RS *232.21*): comunicazione all’Istituto federale della proprietà intellettuale;
-- 8\. legge federale del 19 dicembre 1986 contro la concorrenza sleale (RS *241*): comunicazione alla Segreteria di Stato dell’economia[^3-3];
-- 9\. legge federale del 17 marzo 1972 che promuove la ginnastica e lo sport [RU *1972*1069][^3-4]: comunicazione all’Ufficio federale dello sport;
+- 7\. legge federale del 5 giugno 1931[^3-3] per la protezione degli stemmi pubblici e di altri segni pubblici [CS *2* 919]: comunicazione all’Istituto federale della proprietà intellettuale;
+- 8\. legge federale del 19 dicembre 1986 contro la concorrenza sleale (RS *241*): comunicazione alla Segreteria di Stato dell’economia[^3-4];
+- 9\. legge federale del 17 marzo 1972 che promuove la ginnastica e lo sport [RU *1972*1069][^3-5]: comunicazione all’Ufficio federale dello sport;
 - 10\. legge del 20 giugno 2003 sul trasferimento dei beni culturali (RS *444.1*): comunicazione all’Ufficio federale della cultura;
-- 11\. legge federale del 1° luglio 1966 sulla protezione della natura e del paesaggio (RS *451*): comunicazione all’Ufficio federale dell’ambiente[^3-5];
-- 12\. legge federale del 9 marzo 1978 sulla protezione degli animali [RU *1981* 562][^3-6]: comunicazione all’Ufficio federale della sicurezza alimentare e di veterinaria[^3-7];
+- 11\. legge federale del 1° luglio 1966 sulla protezione della natura e del paesaggio (RS *451*): comunicazione all’Ufficio federale dell’ambiente[^3-6];
+- 12\. legge federale del 9 marzo 1978 sulla protezione degli animali [RU *1981* 562][^3-7]: comunicazione all’Ufficio federale della sicurezza alimentare e di veterinaria[^3-8];
 - 13\. legge del 20 giugno 1997 sulle armi (RS *514.54*): comunicazione all’Ufficio federale di polizia;
 - 14\. legge federale del 21 giugno 1932 sull’alcool (RS *680*), per quanto concernano i divieti di commercio al minuto di cui all’articolo 41: comunicazione alla Regia federale degli alcool;
-- 14*a*.[^3-8] legge federale del 20 dicembre 1957 sulle ferrovie (RS *742.101)*: comunicazione all’Ufficio federale dei trasporti;
-- 14*b*.[^3-9] legge del 23 giugno 2006 sugli impianti a fune (RS *743.01*), per quanto concernano impianti di trasporto a fune che necessitano di una concessione per il trasporto di viaggiatori: comunicazione all’Ufficio federale dei trasporti;
+- 14*a*.[^3-9] legge federale del 20 dicembre 1957 sulle ferrovie (RS *742.101)*: comunicazione all’Ufficio federale dei trasporti;
+- 14*b*.[^3-10] legge del 23 giugno 2006 sugli impianti a fune (RS *743.01*), per quanto concernano impianti di trasporto a fune che necessitano di una concessione per il trasporto di viaggiatori: comunicazione all’Ufficio federale dei trasporti;
 - 15\. legge del 15 dicembre 2000 sugli agenti terapeutici (RS *812.21*): comunicazione all’Istituto svizzero per gli agenti terapeutici;
 - 16\. legge del 7 ottobre 1983 sulla protezione dell’ambiente (RS *814.01*): comunicazione all’Ufficio federale dell’ambiente;
 - 17\. legge federale del 24 gennaio 1991 sulla protezione delle acque (RS *814.20*): comunicazione all’ Ufficio federale dell’ambiente;
 - 18\. legge del 21 marzo 2003 sull’ingegneria genetica (RS *814.91*): comunicazione all’Ufficio federale dell’ambiente;
-- 19\. legge del 9 ottobre 1992 sulle derrate alimentari (RS *817.0*): comunicazione all’Ufficio federale della sicurezza alimentare e di veterinaria;
-- 20\. legge del 18 dicembre 1970 sulle epidemie [RU *1974* 1071][^3-10]: comunicazione all’Ufficio federale della sanità pubblica;
+- 19\. legge del 9 ottobre 1992[^3-11] sulle derrate alimentari [RU *1995* 1469]: comunicazione all’Ufficio federale della sicurezza alimentare e di veterinaria;
+- 20\. legge del 18 dicembre 1970 sulle epidemie [RU *1974* 1071][^3-12]: comunicazione all’Ufficio federale della sanità pubblica;
 - 21\. legge del 13 marzo 1964 sul lavoro (RS *822.11*): comunicazione alla Segreteria di Stato dell’economia;
 - 22\. legge federale del 25 giugno 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (RS *831.40*): comunicazione all’Ufficio federale delle assicurazioni sociali;
 - 23\. legge forestale del 4 ottobre 1991 (RS *921.0*): comunicazione all’Ufficio federale dell’ambiente;
 - 24\. legge del 20 giugno 1986 sulla caccia (RS *922.0*): comunicazione all’Ufficio federale dell’ambiente;
 - 25\. legge federale del 21 giugno 1991 sulla pesca (RS *923.0*): comunicazione all’Ufficio federale dell’ambiente;
-- 25<sup>bis</sup>.[^3-11] legge del 16 dicembre 2005 sui revisori (RS *221.302*): comunicazione all’Autorità federale di sorveglianza dei revisori;
-- 26\. legge federale del 9 giugno 1977 sulla metrologia (RS *941.20*): comunicazione all'Istituto federale di metrologia (METAS)[^3-12];
+- 25<sup>bis</sup>.[^3-13] legge del 16 dicembre 2005 sui revisori (RS *221.302*): comunicazione all’Autorità federale di sorveglianza dei revisori;
+- 26\. legge federale del 9 giugno 1977[^3-14] sulla metrologia [RU *1977* 2394]: comunicazione all'Istituto federale di metrologia (METAS)[^3-15];
 - 27\. legge del 20 giugno 1933 sul controllo dei metalli preziosi (RS *941.31*): comunicazione all’Amministrazione federale delle dogane;
 - 28\. legge del 25 marzo 1977 sugli esplosivi (RS *941.41*): comunicazione all’Ufficio federale di polizia;
-- 28<sup>bis</sup>.[^3-13] legge federale del 6 ottobre 1995 sugli ostacoli tecnici al commercio (RS *946.51*): comunicazione alla Segreteria di Stato dell’economia;
-- 29\.[^3-14] legge del 22 giugno 2007[^3-15] sulla vigilanza dei mercati finanziari (LFINMA): comunicazione all’Autorità federale di vigilanza sui mercati finanziari (FINMA);
-- 30\.[^3-16] leggi sui mercati finanziari secondo l’articolo 1 capoverso 1 LFINMA: comunicazione alla FINMA.
+- 28<sup>bis</sup>.[^3-16] legge federale del 6 ottobre 1995 sugli ostacoli tecnici al commercio (RS *946.51*): comunicazione alla Segreteria di Stato dell’economia;
+- 29\.[^3-17] legge del 22 giugno 2007[^3-18] sulla vigilanza dei mercati finanziari (LFINMA): comunicazione all’Autorità federale di vigilanza sui mercati finanziari (FINMA);
+- 30\.[^3-19] leggi sui mercati finanziari secondo l’articolo 1 capoverso 1 LFINMA: comunicazione alla FINMA.
 
 [^3-1]: Vedi ora la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 [^3-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
-[^3-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni (RS [RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^3-4]: Vedi ora: legge del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
-[^3-5]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^3-6]: Vedi ora la LF del 16 dic. 2005 ([RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)).
-[^3-7]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
-[^3-8]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)).
+[^3-3]: Vedi ora la LF del 21 giu. 2013 sulla protezione dello stemma della Svizzera e di altri segni pubblici ([RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)).
+[^3-4]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni (RS [RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-5]: Vedi ora: legge del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
+[^3-6]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-7]: Vedi ora la LF del 16 dic. 2005 ([RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)).
+[^3-8]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
 [^3-9]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)).
-[^3-10]: Vedi ora: legge del 28 sett. 2012 sulle epidemie ([RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)).
-[^3-11]: Introdotta dall’all. 4 n. II 12 dell’O del 22 ago. 2007 sui revisori, in vigore dal 1° set. 2007 ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
-[^3-12]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni), con effetto dal 1° gen. 2013 ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^3-13]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2010 sull’immissione in commercio di prodotti conformi a prescrizioni tecniche estere, in vigore dal 1° lug. 2010 ([RU 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
-[^3-14]: Nuovo testo giusta l’all. 1 n. II 3 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^3-15]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^3-16]: Nuovo testo giusta l’all. 1 n. II 3 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-10]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)).
+[^3-11]: Vedi ora la LF del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^3-12]: Vedi ora: legge del 28 sett. 2012 sulle epidemie ([RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)).
+[^3-13]: Introdotta dall’all. 4 n. II 12 dell’O del 22 ago. 2007 sui revisori, in vigore dal 1° set. 2007 ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
+[^3-14]: Vedi ora la LF del 17 giu. 2011 ([RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)).
+[^3-15]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni), con effetto dal 1° gen. 2013 ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^3-16]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2010 sull’immissione in commercio di prodotti conformi a prescrizioni tecniche estere, in vigore dal 1° lug. 2010 ([RU 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
+[^3-17]: Nuovo testo giusta l’all. 1 n. II 3 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-18]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^3-19]: Nuovo testo giusta l’all. 1 n. II 3 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 4
 
@@ -131,7 +135,7 @@ Allegato*[^t-2]*
 
 ## Compendio delle norme federali che prevedono esse stesse l’obbligo di comunicazione
 
-[^t-2]: Aggiornato dall’all. 4 n. II 12 dell’O del 22 ago. 2007 sui revisori ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)), dal n. 4 dell’all. all’O del 19 ott. 2011 ([RU 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)), dal n. I dell’O del 2 set. 2015 ([RU 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)), dal n. III 1 dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)) e dall’all. 4 n. II 3 dell’O del del 16 ago. 2017sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^t-2]: Aggiornato dall’all. 4 n. II 12 dell’O del 22 ago. 2007 sui revisori ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)), dal n. 4 dell’all. all’O del 19 ott. 2011 ([RU 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)), dal n. I dell’O del 2 set. 2015 ([RU 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)), dal n. III 1 dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)) e dall’all. 4 n. II 3 dell’O del del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 - 1\. Legge federale del 25 settembre 2015 sulle attività informative, articolo 74 capoverso 7 (RS *121*);
 - 1*a*. Legge federale del 16 dicembre 1983 sull’acquisto di fondi da parte di persone all’estero, articolo 35 (RS *211.412.41*);
@@ -139,24 +143,25 @@ Allegato*[^t-2]*
 - 3\. Legge federale del 25 marzo 1954 concernente la protezione dell’emblema e del nome della Croce Rossa, articolo 10 capoverso 2 (RS *232.22*);
 - 4\. Legge federale del 15 dicembre 1961 concernente la protezione dei nomi e degli emblemi dell’Organizzazione delle Nazioni Unite e d’altre organizzazioni intergovernative, articolo 9 capoverso 2 (RS *232.23*);
 - 5\. Legge federale del 19 dicembre 1986 contro la concorrenza sleale, articolo 27 capoverso 2 (RS *241*);
-- 6\. Legge federale del 15 giugno 1934 sulla procedura penale, articolo 255 (PP; RS *312.0*), per quanto concerne le cause deferite ai Cantoni in virtù degli articoli 18 e 18<sup>bis</sup> PP;
+- 6\. Legge federale del 15 giugno 1934 sulla procedura penale, articolo 255 (PP; CS *3* 286), per quanto concerne le cause deferite ai Cantoni in virtù degli articoli 18 e 18<sup>bis</sup> PP;
 - 7\. Legge federale del 19 marzo 2004 sulla ripartizione dei valori patrimoniali confiscati, articolo 6 capoverso 1 (RS *312.4*);
 - 8\. Legge federale del 22 marzo 1974 sul diritto penale amministrativo, articolo 79 capoverso 2 in combinazione con l’articolo 74 capoverso 1, per quanto concerne le cause deferite ai Cantoni in virtù dell’articolo 73 capoverso 1 (RS *313.0*);
-- 9\. Legge federale del 4 ottobre 2002 sulla protezione della popolazione e sulla protezione civile, articolo 70 capoverso 2[^annexu1-lvlu1-1] (RS *520.1*);
-- 10\. Legge dell’8 ottobre 1982 sull’approvvigionamento del Paese, articolo 50 capoverso 3 (RS *531*);
+- 9\. Legge federale del 4 ottobre 2002 sulla protezione della popolazione e sulla protezione civile, articolo 70 capoverso 2[^annexu1-lvlu1-1] [RU *2003* 4187];
+- 10\. Legge dell’8 ottobre 1982 sull’approvvigionamento del Paese, articolo 50 capoverso 3[^annexu1-lvlu1-2] [RU *1983* 931];
 - 11\. ...
 - 12\. Legge federale del 23 settembre 1953 sulla navigazione marittima sotto bandiera svizzera, articolo 15 capoverso 3 (RS *747.30*);
-- 13\. Legge federale del 3 ottobre 1951 sugli stupefacenti, articolo 28 capoverso 2[^annexu1-lvlu1-2] (RS *812.121*);
+- 13\. Legge federale del 3 ottobre 1951 sugli stupefacenti, articolo 28 capoverso 2[^annexu1-lvlu1-3] (RS *812.121*);
 - [tab] 14. Legge del 6 ottobre 1995 sul servizio civile, articolo 78*a* capoverso 1 (RS *824.0*);
 - [tab] 15 a 18. ...
 - 19\. Legge del 29 aprile 1998 sull’agricoltura, articolo 166 capoverso 4 (RS *910.1*);
 - 20\. Legge del 20 giugno 1986 sulla caccia, articolo 22 capoverso 1 (RS *922.0*);
-- 21\. Legge federale dell’8 giugno 1923 concernente le lotterie e le scommesse professionalmente organizzate, articolo 52 capoverso 1 (RS *935.51*);
+- 21\. Legge federale dell’8 giugno 1923 concernente le lotterie e le scommesse professionalmente organizzate, articolo 52 capoverso 1 [CS *10* 250];
 - [tab] 21<sup>bis</sup>. Legge del 16 dicembre 2005 sui revisori, articolo 24 (RS *221.302*);
-- 22\. Legge federale del 26 settembre 1958 concernente la garanzia dei rischi delle esportazioni, articolo 16 capoverso 5 [RU *1959* 385][^annexu1-lvlu1-3];
-- 23\. Legge del 10 ottobre 1997 sul riciclaggio di denaro, articolo 29 capoverso 2[^annexu1-lvlu1-4] (RS *955.0*).
+- 22\. Legge federale del 26 settembre 1958 concernente la garanzia dei rischi delle esportazioni, articolo 16 capoverso 5 [RU *1959* 385][^annexu1-lvlu1-4];
+- 23\. Legge del 10 ottobre 1997 sul riciclaggio di denaro, articolo 29 capoverso 2[^annexu1-lvlu1-5] (RS *955.0*).
 
 [^annexu1-lvlu1-1]: Questo cpv. è abrogato.
-[^annexu1-lvlu1-2]: Vedi ora l’art. 28 cpv. 3.
-[^annexu1-lvlu1-3]: Vedi ora l’art 36 cpv. 4 della LF del 16 dic. 2005 sull’assicurazione contro i rischi delle esportazioni ([RS 946.10](https://fedlex.data.admin.ch/eli/cc/2006/284)).
-[^annexu1-lvlu1-4]: Vedi ora l’art. 29*a* cpv. 1 e 2.
+[^annexu1-lvlu1-2]: Vedi ora l’art. 56 della L del 17 giu. 2016 sull’approvvigionamento del Paese ([RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
+[^annexu1-lvlu1-3]: Vedi ora l’art. 28 cpv. 3.
+[^annexu1-lvlu1-4]: Vedi ora l’art 36 cpv. 4 della LF del 16 dic. 2005 sull’assicurazione contro i rischi delle esportazioni ([RS 946.10](https://fedlex.data.admin.ch/eli/cc/2006/284)).
+[^annexu1-lvlu1-5]: Vedi ora l’art. 29*a* cpv. 1 e 2.

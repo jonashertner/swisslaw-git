@@ -3,18 +3,18 @@ sr: "312.3"
 title: Verordnung vom 10. November 2004 über die Mitteilung kantonaler Strafentscheide
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/729"
 language: de
-version: 2020-01-01
+version: 2021-12-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/729/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2004-729-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/729/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/729/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2004-729-20211201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/729/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Mitteilung kantonaler Strafentscheide****
 
-vom 10. November 2004 (Stand am 1. Januar 2020)[^t-1]
+vom 10. November 2004 (Stand am 1. Dezember 2021)[^t-1]
 
 [^t-1]: Kurztitel aufgehoben durch Ziff. II 1 der V vom 3. Dez. 2010 über die Anpassung des Verordnungsrechts im Hinblick auf das Inkrafttreten der Strafprozessordnung, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5999](https://fedlex.data.admin.ch/eli/oc/2010/862)).
 
@@ -31,22 +31,23 @@ verordnet:
 
 **Bestimmungen des Strafgesetzbuches**
 
-Die kantonalen Behörden teilen sämtliche Urteile, Strafbescheide der Verwaltungsbehörden und Einstellungsbeschlüsse mit, die nach den folgenden Bestimmungen des Strafgesetzbuches (StGB)[^1-1] ergangen sind:
+Die kantonalen Behörden teilen sämtliche Urteile, Strafbescheide der Verwaltungsbehörden und Einstellungsbeschlüsse mit, die nach den folgenden Bestimmungen des Strafgesetzbuches[^1-1] ergangen sind:[^1-2]
 
 - 1\. Artikel 111 ff. (strafbare Handlungen gegen Leib und Leben, sofern sie mit dem Betrieb öffentlicher Verkehrsmittel im Zusammenhang stehen): Einsendung an das Bundesamt für Verkehr;
 - 2\. Artikel 156 (Erpressung, sofern zum Nachteil des Bundes begangen): Einsendung an die Bundesanwaltschaft;
-- 3\. Artikel 195, 196[^1-2] und 197 (Förderung der Prostitution, Menschenhandel, Pornographie): Einsendung an das Bundesamt für Polizei;
+- 3\. Artikel 195, 196[^1-3] und 197 (Förderung der Prostitution, Menschenhandel, Pornographie): Einsendung an das Bundesamt für Polizei;
 - 4\. Artikel 231 und 234 (Verbreiten menschlicher Krankheiten, Verunreinigung von Trinkwasser): Einsendung an das Bundesamt für Gesundheit;
 - 5\. Artikel 237 (nur Störungen des öffentlichen Luftverkehrs): Einsendung an das Bundesamt für Zivilluftfahrt;
 - 6\. Artikel 238 (Störung des Eisenbahnverkehrs): Einsendung an das Bundesamt für Verkehr und an die Unfalluntersuchungsstelle nach Artikel 15 des Eisenbahngesetzes vom 20. Dezember 1957 (SR *742.101*);
 - 7\. Artikel 239 (Störung von Betrieben, die der Allgemeinheit dienen, sofern die Störung mit Transportbetrieben im Zusammenhang steht): Einsendung an das Bundesamt für Verkehr und an die Unfalluntersuchungsstelle nach Artikel 15 des Eisenbahngesetzes vom 20. Dezember 1957;
 - 8\. Artikel 240, 241, 242, 243, 244 und 247 (Geldfälschung, Geldverfälschung, in Umlaufsetzen falschen Geldes, Nachmachen von Banknoten, Münzen oder amtlichen Wertzeichen ohne Fälschungsabsicht, Einführen, Erwerben, Lagern falschen Geldes, Fälschungsgeräte; unrechtmässiger Gebrauch von Geräten): Einsendung an das Bundesamt für Polizei;
-- 9\.[^1-3] Artikel 259, 260, 261, 261<sup>bis</sup> und 285 (öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit, Landfriedensbruch, Störung der Glaubens- und Kultusfreiheit, Rassendiskriminierung, Gewalt und Drohung gegen Behörden und Beamte): Einsendung an das Bundesamt für Polizei und an den Nachrichtendienst des Bundes;
+- 9\.[^1-4] Artikel 259, 260, 261, 261<sup>bis</sup> und 285 (öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit, Landfriedensbruch, Störung der Glaubens- und Kultusfreiheit, Rassendiskriminierung, Gewalt und Drohung gegen Behörden und Beamte): Einsendung an das Bundesamt für Polizei;
 - 10\. Artikel 322<sup>ter</sup>–322<sup>septies</sup> (Bestechen, sich bestechen lassen, Vorteilsgewährung, Vorteilsannahme, Bestechung fremder Amtsträger): Einsendung an das Bundesamt für Polizei.
 
 [^1-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^1-2]: Heute: Art. 182
-[^1-3]: Fassung gemäss Anhang 4 Ziff. II 12 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^1-2]: Fassung gemäss Ziff. II 2 der V vom 27. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
+[^1-3]: Heute: Art. 182
+[^1-4]: Fassung gemäss Ziff. II 2 der V vom 27. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 #### Art. 2
 
@@ -69,52 +70,54 @@ Die kantonalen Behörden teilen sämtliche Urteile, Strafbescheide der Verwaltun
 - 4\. Topographiengesetz vom 9. Oktober 1992 (SR *231.2*): Einsendung an das Eidgenössische Institut für Geistiges Eigentum;
 - 5\. Markenschutzgesetz vom 28. August 1992 (SR *232.11*): Einsendung an das Eidgenössische Institut für Geistiges Eigentum;
 - 6\. Designgesetz vom 5. Oktober 2001 (SR *232.12*): Einsendung an das Eidgenössische Institut für Geistiges Eigentum;
-- 7\. Bundesgesetz vom 5. Juni 1931 zum Schutz öffentlicher Wappen und anderer öffentlicher Zeichen (SR *232.21*): Einsendung an das Eidgenössische Institut für Geistiges Eigentum;
+- 7\. Bundesgesetz vom 5. Juni 1931 zum Schutz öffentlicher Wappen und anderer öffentlicher Zeichen (BS *2* 935)[^3-3]: Einsendung an das Eidgenössische Institut für Geistiges Eigentum;
 - 8\. Bundesgesetz vom 19. Dezember 1986 gegen den unlauteren Wettbewerb (SR *241*): Einsendung an das Staatssekretariat für Wirtschaft;
-- 9\. Bundesgesetz vom 17. März 1972 über die Förderung von Turnen und Sport [AS *1972*897][^3-3]: Einsendung an das Bundesamt für Sport;
+- 9\. Bundesgesetz vom 17. März 1972 über die Förderung von Turnen und Sport [AS *1972*897][^3-4]: Einsendung an das Bundesamt für Sport;
 - 10\. Kulturgütertransfergesetz vom 20. Juni 2003 (SR *444.1*): Einsendung an das Bundesamt für Kultur;
-- 11\. Bundesgesetz vom 1. Juli 1966 über den Natur- und Heimatschutz (SR *451*): Einsendung an das Bundesamt für Umwelt[^3-4];
-- 12\. Tierschutzgesetz vom 9. März 1978 [AS *1981* 562][^3-5]: Bundesamt für Lebensmittelsicherheit und Veterinärwesen[^3-6];
+- 11\. Bundesgesetz vom 1. Juli 1966 über den Natur- und Heimatschutz (SR *451*): Einsendung an das Bundesamt für Umwelt[^3-5];
+- 12\. Tierschutzgesetz vom 9. März 1978 [AS *1981* 562][^3-6]: Bundesamt für Lebensmittelsicherheit und Veterinärwesen[^3-7];
 - 13\. Waffengesetz vom 20. Juni 1997 (SR *514.54*): Einsendung an das Bundesamt für Polizei;
 - 14\. Alkoholgesetz vom 21. Juni 1932 (SR *680*), soweit es sich um Handelsverbote gemäss Artikel 41 handelt: Einsendung an die Eidgenössische Alkoholverwaltung;
-- 14*a*.[^3-7] Eisenbahngesetz vom 20. Dezember 1957 (SR *742.101)*: Einsendung an das Bundesamt für Verkehr;
-- 14*b*.[^3-8] Seilbahngesetz vom 23. Juni 2006 (SR *743.01*), soweit es sich um Seilbahnen handelt, die eine Personenbeförderungskonzession benötigen: Einsendung an das Bundesamt für Verkehr;
+- 14*a*.[^3-8] Eisenbahngesetz vom 20. Dezember 1957 (SR *742.101)*: Einsendung an das Bundesamt für Verkehr;
+- 14*b*.[^3-9] Seilbahngesetz vom 23. Juni 2006 (SR *743.01*), soweit es sich um Seilbahnen handelt, die eine Personenbeförderungskonzession benötigen: Einsendung an das Bundesamt für Verkehr;
 - 15\. Heilmittelgesetz vom 15. Dezember 2000 (SR *812.21*): Einsendung an das Schweizerische Heilmittelinstitut;
 - 16\. Umweltschutzgesetz vom 7. Oktober 1983 (SR *814.01*): Einsendung an das Bundesamt für Umwelt;
 - 17\. Gewässerschutzgesetz vom 24. Januar 1991 (SR *814.20*): Einsendung an das Bundesamt für Umwelt;
 - 18\. Gentechnikgesetz vom 21. März 2003 (SR *814.91*): Einsendung an das Bundesamt für Umwelt;
-- 19\. Lebensmittelgesetz vom 9. Oktober 1992 (SR *817.0*): Bundesamt für Lebensmittelsicherheit und Veterinärwesen;
-- 20\. Epidemiengesetz vom 18. Dezember 1970 [AS *1974* 1071][^3-9]: Bundesamt für Gesundheit;
+- 19\. Lebensmittelgesetz vom 9. Oktober 1992 (AS *1995* 1469)[^3-10]: Bundesamt für Lebensmittelsicherheit und Veterinärwesen;
+- 20\. Epidemiengesetz vom 18. Dezember 1970 [AS *1974* 1071][^3-11]: Bundesamt für Gesundheit;
 - 21\. Arbeitsgesetz vom 13. März 1964 (SR *822.11*): Einsendung an das Staatssekretariat für Wirtschaft;
-- 22\. Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (SR *831.40*): Einsendung an das Bundesamt für Sozialversicherungen[^3-10];
+- 22\. Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (SR *831.40*): Einsendung an das Bundesamt für Sozialversicherungen[^3-12];
 - 23\. Waldgesetz vom 4. Oktober 1991 (SR *921.0*): Einsendung an das Bundesamt für Umwelt;
 - 24\. Jagdgesetz vom 20. Juni 1986 (SR *922.0*): Einsendung an das Bundesamt für Umwelt;
 - 25\. Bundesgesetz vom 21. Juni 1991 über die Fischerei (SR *923.0*): Einsendung an das Bundesamt für Umwelt;
-- 25<sup>bis</sup>.[^3-11] Revisionsaufsichtsgesetz vom 16. Dezember 2005 (SR *221.302*): Einsendung an die Eidgenössische Revisionsaufsichtsbehörde;
-- 26\. Bundesgesetz vom 9. Juni 1977 über das Messwesen [AS *1977* 2394][^3-12]: Einsendung an das Eidgenössische Institut für Metrologie (METAS)[^3-13];
+- 25<sup>bis</sup>.[^3-13] Revisionsaufsichtsgesetz vom 16. Dezember 2005 (SR *221.302*): Einsendung an die Eidgenössische Revisionsaufsichtsbehörde;
+- 26\. Bundesgesetz vom 9. Juni 1977 über das Messwesen [AS *1977* 2394][^3-14]: Einsendung an das Eidgenössische Institut für Metrologie (METAS)[^3-15];
 - 27\. Edelmetallkontrollgesetz vom 20. Juni 1933 (SR *941.31*): Einsendung an die Eidgenössische Zollverwaltung;
 - 28\. Sprengstoffgesetz vom 25. März 1977 (SR *941.41*): Einsendung an das Bundesamt für Polizei;
-- 28<sup>bis</sup>.[^3-14] Bundesgesetz vom 6. Oktober 1995 über die technischen Handelshemmnisse (SR *946.51*): Einsendung an das Staatssekretariat für Wirtschaft;
-- 29\.[^3-15] Finanzmarktaufsichtsgesetz vom 22. Juni 2007[^3-16] (FINMAG): Einsendung an die Eidgenössische Finanzmarktaufsicht (FINMA);
-- 30\.[^3-17] Finanzmarktgesetze nach Artikel 1 Absatz 1 FINMAG: Einsendung an die FINMA.
+- 28<sup>bis</sup>.[^3-16] Bundesgesetz vom 6. Oktober 1995 über die technischen Handelshemmnisse (SR *946.51*): Einsendung an das Staatssekretariat für Wirtschaft;
+- 29\.[^3-17] Finanzmarktaufsichtsgesetz vom 22. Juni 2007[^3-18] (FINMAG): Einsendung an die Eidgenössische Finanzmarktaufsicht (FINMA);
+- 30\.[^3-19] Finanzmarktgesetze nach Artikel 1 Absatz 1 FINMAG: Einsendung an die FINMA.
 
 [^3-1]: Heute: das Ausländer- und Integrationsgesetz, AIG vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 [^3-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^3-3]: Heute: Sportförderungsgesetz vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
-[^3-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^3-5]: Heute: das BG vom 16. Dez. 2005 ([SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)).
-[^3-6]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^3-7]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)).
+[^3-3]: Heute: das BG vom 21. Juni 2013 über den Schutz des Schweizerwappens und anderer öffentlicher Zeichen ([SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)).
+[^3-4]: Heute: Sportförderungsgesetz vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
+[^3-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^3-6]: Heute: das BG vom 16. Dez. 2005 ([SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)).
+[^3-7]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^3-8]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)).
-[^3-9]: Heute: das Epidemiengesetz vom 28. Sept. 2012 ([SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)).
-[^3-10]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
-[^3-11]: Eingefügt durch Anhang Ziff. II 4 der Revisionsaufsichtsverordnung vom 22. Aug. 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
-[^3-12]: Heute: das BG vom 17. Juni 2011 ([SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)).
-[^3-13]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
-[^3-14]: Eingefügt durch Anhang Ziff. 1 der V vom 19. Mai 2010 über das Inverkehrbringen von Produkten nach ausländischen Vorschriften, in Kraft seit 1. Juli 2010 ([AS 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
-[^3-15]: Fassung gemäss Anhang 1 Ziff. II 3 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^3-16]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^3-9]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)).
+[^3-10]: Heute: das Lebensmittelgesetz vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^3-11]: Heute: das Epidemiengesetz vom 28. Sept. 2012 ([SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)).
+[^3-12]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^3-13]: Eingefügt durch Anhang Ziff. II 4 der Revisionsaufsichtsverordnung vom 22. Aug. 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
+[^3-14]: Heute: das BG vom 17. Juni 2011 ([SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)).
+[^3-15]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
+[^3-16]: Eingefügt durch Anhang Ziff. 1 der V vom 19. Mai 2010 über das Inverkehrbringen von Produkten nach ausländischen Vorschriften, in Kraft seit 1. Juli 2010 ([AS 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
 [^3-17]: Fassung gemäss Anhang 1 Ziff. II 3 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-18]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^3-19]: Fassung gemäss Anhang 1 Ziff. II 3 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 4
 
@@ -140,24 +143,25 @@ Anhang*[^t-2]*
 - 3\. Bundesgesetz vom 25. März 1954 betreffend den Schutz des Zeichens und des Namens des Roten Kreuzes, Artikel 10 Absatz 2 (SR *232.22*);
 - 4\. Bundesgesetz vom 15. Dezember 1961 zum Schutz von Namen und Zeichen der Organisation der Vereinten Nationen und anderer zwischenstaatlicher Organisationen, Artikel 9 Absatz 2 (SR *232.23*);
 - 5\. Bundesgesetz vom 19. Dezember 1986 gegen den unlauteren Wettbewerb, Artikel 27 Absatz 2 (SR *241*);
-- 6\. Bundesgesetz vom 15. Juni 1934 über die Bundesstrafrechtspflege, Artikel 255 (BStP; SR *312.0*), betreffend Strafsachen, die gestützt auf die Artikel 18 und 18<sup>bis</sup> BStP an die Kantone übertragen worden sind;
+- 6\. Bundesgesetz vom 15. Juni 1934 über die Bundesstrafrechtspflege, Artikel 255 [BStP; BS *3* 303], betreffend Strafsachen, die gestützt auf die Artikel 18 und 18<sup>bis</sup> BStP an die Kantone übertragen worden sind;
 - 7\. Bundesgesetz vom 19. März 2004 über die Teilung eingezogener Vermögenswerte, Artikel 6 Absatz 1 (SR *312.4*);
 - 8\. Bundesgesetz vom 22. März 1974 über das Verwaltungsstrafrecht, Artikel 79 Absatz 2 in Verbindung mit Artikel 74 Absatz 1, betreffend Strafsachen, die gestützt auf Artikel 73 Absatz 1 an die Kantone übertragen worden sind (SR *313.0*);
-- 9\. Bevölkerungs- und Zivilschutzgesetz vom 4. Oktober 2002, Artikel 70 Absatz 2[^annexu1-lvlu1-1] (SR *520.1*);
-- 10\. Landesversorgungsgesetz vom 8. Oktober 1982, Artikel 50 Absatz 3 (SR *531*);
-- 11\. …
+- 9\. Bevölkerungs- und Zivilschutzgesetz vom 4. Oktober 2002, Artikel 70 Absatz 2[^annexu1-lvlu1-1] (AS *2003* 4187);
+- 10\. Landesversorgungsgesetz vom 8. Oktober 1982, Artikel 50 Absatz 3 (AS *1983* 931)[^annexu1-lvlu1-2];
+- 11\. ...
 - 12\. Seeschifffahrtsgesetz vom 23. September 1953, Artikel 15 Absatz 3 (SR *747.30*);
-- 13\. Betäubungsmittelgesetz vom 3. Oktober 1951, Artikel 28 Absatz 2 (SR *812.121*)[^annexu1-lvlu1-2];
+- 13\. Betäubungsmittelgesetz vom 3. Oktober 1951, Artikel 28 Absatz 2 (SR *812.121*)[^annexu1-lvlu1-3];
 - 14\. Zivildienstgesetz vom 6. Oktober 1995, Artikel 78*a* Absatz 1 (SR *824.0*);
-- [tab] 15.–18. …
+- [tab] 15.–18. ...
 - 19\. Landwirtschaftsgesetz vom 29. April 1998, Artikel 166 Absatz 4 (SR *910.1*);
 - 20\. Jagdgesetz vom 20. Juni 1986, Artikel 22 Absatz 1 (SR *922.0*);
-- 21\. Bundesgesetz vom 8. Juni 1923 betreffend die Lotterien und die gewerbsmässigen Wetten, Artikel 52 Absatz 1 (SR *935.51*);
-- [tab] 21<sup>bis</sup>. Revisionsaufsichtsgesetz vom 16. Dezember 2005, Artikel 24 (SR *221.302*);
-- 22\. Bundesgesetz vom 26. September 1958 über die Exportrisikogarantie, Artikel 16 Absatz 5 [AS *1959* 391][^annexu1-lvlu1-3];
-- 23\. Geldwäschereigesetz vom 10. Oktober 1997, Artikel 29 Absatz 2[^annexu1-lvlu1-4] (SR *955.0*).
+- 21\. Bundesgesetz vom 8. Juni 1923 betreffend die Lotterien und die gewerbsmässigen Wetten, Artikel 52 Absatz 1 [BS *10* 255];
+- [tab] 21<sup>bis</sup>. Revisionsaufsichtsgesetz vom 16. Dezember 2005, Artikel 24 (BS *10* 255);
+- 22\. Bundesgesetz vom 26. September 1958 über die Exportrisikogarantie, Artikel 16 Absatz 5 [AS *1959* 391][^annexu1-lvlu1-4];
+- 23\. Geldwäschereigesetz vom 10. Oktober 1997, Artikel 29 Absatz 2[^annexu1-lvlu1-5] (SR *955.0*).
 
 [^annexu1-lvlu1-1]: Dieser Abs. ist heute aufgehoben.
-[^annexu1-lvlu1-2]: Heute: Art. 28 Abs. 3.
-[^annexu1-lvlu1-3]: Heute: Art. 36 Abs. 4 des BG vom 16. Dez. 2005 über die Schweizerische Exportrisikoversicherung ([SR 946.10](https://fedlex.data.admin.ch/eli/cc/2006/284)).
-[^annexu1-lvlu1-4]: Heute: Art. 29*a* Abs. 1 und 2.
+[^annexu1-lvlu1-2]: Heute: Art. 56 des BG vom 17. Juni 2016 ([SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
+[^annexu1-lvlu1-3]: Heute: Art. 28 Abs. 3.
+[^annexu1-lvlu1-4]: Heute: Art. 36 Abs. 4 des BG vom 16. Dez. 2005 über die Schweizerische Exportrisikoversicherung ([SR 946.10](https://fedlex.data.admin.ch/eli/cc/2006/284)).
+[^annexu1-lvlu1-5]: Heute: Art. 29*a* Abs. 1 und 2.
