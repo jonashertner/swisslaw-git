@@ -5,36 +5,37 @@ title: Gesetz über das Gastgewerbe und den Handel mit alkoholischen Getränken
 short: "Gastgewerbegesetz, GGG"
 language: de
 version: 2020-01-01
+corrected: 2021-12-01
 version_adopted: 2018-11-21
 adopted: 2018-11-21
 in_force: 2020-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/854.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/938/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/391/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über das Gastgewerbe und den Handel mit alkoholischen Getränken
+# Gesetz über das Gastgewerbe und den Handel mit alkoholischen Getränken (Gastgewerbegesetz, GGG)
 
-(Gastgewerbegesetz, GGG)
-
-vom 21.11.2018 (Stand 01.01.2020)
+vom 21. November 2018[^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 41a des Bundesgesetzes vom 21. Juni 1932 über die gebrannten Wasser (Alkoholgesetz, AlkG)[^ingress-1],
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 41a des Bundesgesetzes vom 21. Juni 1932 über die gebrannten Wasser (Alkoholgesetz, AlkG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: SR 680
+[^t-1]: A 2018, 2015; A 2019, 2215; in Kraft seit 1. Januar 2020
+[^t-2]: SR 680
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz regelt das Gastgewerbe und den Handel mit alkoholischen Getränken zum Schutz der Jugend und der Gesundheit sowie zur Aufrechterhaltung der öffentlichen Ruhe, Ordnung und Sicherheit.
+Dieses Gesetz regelt das Gastgewerbe und den Handel mit alkoholischen Getränken zum Schutz der Jugend und der Gesundheit sowie zur Aufrechterhaltung der öffentlichen Ruhe, Ordnung und Sicherheit.
 
 #### Art. 2
 
@@ -43,18 +44,22 @@ beschliesst:
 <sup>1</sup> Als Gastgewerbe gemäss diesem Gesetz gilt:
 
 - 1\. die gewerbsmässige Abgabe von Speisen und Getränken zum Konsum an Ort und Stelle;
+
 - 2\. die Abgabe von Getränken und Speisen, wenn damit die Pflicht einer Mitgliedschaft oder die Entrichtung eines Eintrittsgeldes verbunden ist;
+
 - 3\. die gewerbsmässige Beherbergung von Gästen.
 
 <sup>2</sup> Als Handel mit alkoholischen Getränken gemäss diesem Gesetz gilt der Kleinhandel mit nichtgebrannten alkoholischen Getränken sowie mit gebrannten Wassern.
 
-## 2 Gastgewerbe
+### II. GASTGEWERBE
 
-### 2.1 Bewilligungspflicht
+### A. Bewilligungspflicht
 
 #### Art. 3
 
-**Bewilligung 1. Grundsatz**
+**Bewilligung**
+
+- 1\. Grundsatz
 
 <sup>1</sup> Tätigkeiten gemäss Art. 2 Abs. 1 Ziff. 1 und 2 sind bewilligungspflichtig.
 
@@ -68,7 +73,7 @@ beschliesst:
 
 **2. persönliche Geltung**
 
-<sup>1</sup> Die Bewilligung lautet auf die für die Betriebsführung verantwortliche Person und ist nicht übertragbar.
+Die Bewilligung lautet auf die für die Betriebsführung verantwortliche Person und ist nicht übertragbar.
 
 #### Art. 5
 
@@ -85,26 +90,34 @@ beschliesst:
 <sup>1</sup> Von der Bewilligungspflicht sind ausgenommen:
 
 - 1\. Spitäler und Heime mit sozialem Charakter, soweit Speisen und Getränke nur an einzelne Besucher und nicht an Dritte abgegeben werden;
+
 - 2\. Kindertagesstätten, Kinderheime, Erziehungsinstitute und Internate;
+
 - 3\. Kantinen, soweit Speisen und Getränke nur an einzelne Besucher und nicht an Dritte abgegeben werden;
+
 - 4\. Beherbergungsbetriebe, die ihren Gästen ausschliesslich das Frühstück und alkoholfreie Getränke anbieten;
+
 - 5\. Abgabe von Speisen und alkoholfreien Getränken über die Gasse und im Zustelldienst;
+
 - 6\. Automaten für Speisen und alkoholfreie Getränke;
+
 - 7\. gemeinnützige alkoholfreie Gelegenheitswirtschaften.
 
 <sup>2</sup> Auf Gesuch hin können von der Bewilligungspflicht befreit werden:
 
 - 1\. Lokale von Vereinen, die sich keinem wirtschaftlichen Zweck widmen, soweit Speisen und Getränke nur an Mitglieder abgegeben werden;
+
 - 2\. Begegnungsstätten, insbesondere Gemeinschaftszentren und Jugendtreffpunkte, die sich keinem wirtschaftlichen Zweck widmen;
+
 - 3\. Berghütten.
 
-### 2.2 Bewilligungsarten
+### B. Bewilligungsarten
 
 #### Art. 7
 
 **Ordentliche Gastwirtschaft**
 
-<sup>1</sup> Die Bewilligung für eine ordentliche Gastwirtschaft berechtigt, Gäste zu bewirten.
+Die Bewilligung für eine ordentliche Gastwirtschaft berechtigt, Gäste zu bewirten.
 
 #### Art. 8
 
@@ -122,16 +135,20 @@ beschliesst:
 
 <sup>2</sup> Die Bewilligung für eine ordentliche Gastwirtschaft mit Alkoholausschank beinhaltet das Recht, den Kleinhandel mit alkoholhaltigen Getränken zu betreiben.
 
-### 2.3 Bewilligungsvoraussetzungen
+### C. Bewilligungsvoraussetzungen
 
 #### Art. 10
 
-**Persönliche Voraussetzungen 1. Grundsatz**
+**Persönliche Voraussetzungen**
 
-<sup>1</sup> Bewilligungen werden nur an Personen erteilt, die:
+### 1. Grundsatz
+
+Bewilligungen werden nur an Personen erteilt, die:
 
 - 1\. handlungsfähig sind;
+
 - 2\. über hinreichende Fachkenntnisse verfügen; und
+
 - 3\. Gewähr für eine einwandfreie Führung des Betriebes bieten.
 
 #### Art. 11
@@ -141,7 +158,9 @@ beschliesst:
 <sup>1</sup> Die gesuchstellende Person hat hinreichende Fachkenntnisse nachzuweisen durch:
 
 - 1\. ein Diplom einer anerkannten gastgewerblichen Fachschule;
+
 - 2\. einen anerkannten Fähigkeitsausweis als Wirtin oder Wirt; oder
+
 - 3\. einen eidgenössischen Fähigkeitsausweis über eine vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) anerkannte Berufslehre im Bereich Gastwirtschaft, Hauswirtschaft oder Nahrung und Getränke.
 
 <sup>2</sup> Die Direktion bezeichnet die Fähigkeitsausweise und Diplome, die zur Leitung eines Gastgewerbebetriebes berechtigen.
@@ -149,27 +168,41 @@ beschliesst:
 <sup>3</sup> Für die folgenden der Bewilligungspflicht unterstehenden Gastwirtschaftsbetriebe entfällt der Nachweis der hinreichenden Fachkenntnisse:
 
 - 1\. Spital- und Heimrestaurants, die gegen aussen nicht als Gastwirtschaftsbetrieb in Erscheinung treten und keine Werbung betreiben;
+
 - 2\. Kantinen, die gegen aussen nicht als Gastwirtschaftsbetrieb in Erscheinung treten und keine Werbung betreiben;
+
 - 3\. Kioskwirtschaften und Take-Aways mit bis zu sechs Sitz- oder Stehplätzen;
+
 - 4\. Jugendherbergen für deren Gastwirtschaftsbetrieb, sofern dieser nur den beherbergten Gästen zur Verfügung steht;
+
 - 5\. Alpwirtschaften;
+
 - 6\. ordentliche Gastwirtschaften, die nur bei besonderen Anlässen oder Veranstaltungen geöffnet sind, insbesondere Sportplatzwirtschaften, Theater- und Kinowirtschaften, Schützenstuben, Gastwirtschaften in gemeindeeigenen Räumlichkeiten, Bewirtung in Verkehrsmitteln;
+
 - 7\. Gelegenheitswirtschaften.
 
 #### Art. 12
 
 **3. einwandfreie Führung**
 
-<sup>1</sup> Die Bewilligung ist zu verweigern, wenn die gesuchstellende Person keine Gewähr für die einwandfreie Führung bietet, insbesondere wenn die gesuchstellende Person:
+Die Bewilligung ist zu verweigern, wenn die gesuchstellende Person keine Gewähr für die einwandfreie Führung bietet, insbesondere wenn die gesuchstellende Person:
 
 - 1\. in den letzten zwei Jahren nicht geringfügig gegen eine der folgenden Gesetzgebungen verstossen hat:
+
 - a. Gastgewerbegesetzgebung[^12-1];
+
 - b. Lebensmittelgesetzgebung und Hygiene[^12-2];
+
 - c. Suchtprävention (einschliesslich Alkoholgesetzgebung, Betäubungsmittelgesetzgebung sowie Glücksspiel und Automaten);
+
 - d. Arbeits- und Ausländerrecht[^12-3];
+
 - e. Lärmschutzbestimmungen[^12-4];
+
 - f. Sozialversicherungsrecht[^12-5];
+
 - g. Feuerschutz[^12-6];
+
 - 2\. nicht über einen unbescholtenen Leumund verfügt.
 
 [^12-1]: NG 854
@@ -181,7 +214,9 @@ beschliesst:
 
 #### Art. 13
 
-**Betriebliche Voraussetzungen 1. Grundsatz**
+**Betriebliche Voraussetzungen**
+
+### 1. Grundsatz
 
 <sup>1</sup> Räume, Plätze und Einrichtungen von Gastwirtschaftsbetrieben müssen hygienisch einwandfrei, betriebssicher, kontrollierbar und so beschaffen sein, dass Personen gegen Lärm und andere übermässige Einwirkungen geschützt sind. Sie müssen insbesondere den bau-, feuer- und lebensmittelpolizeilichen sowie den arbeitsrechtlichen Vorschriften entsprechen.
 
@@ -197,7 +232,7 @@ beschliesst:
 
 <sup>2</sup> Das Amt überprüft die Pläne auf Übereinstimmung mit den Vorschriften der Gastgewerbegesetzgebung.
 
-### 2.4 Entzug und Erlöschen der Bewilligung
+### D. Entzug und Erlöschen der Bewilligung
 
 #### Art. 15
 
@@ -206,6 +241,7 @@ beschliesst:
 <sup>1</sup> Die Bewilligung ist zu entziehen, wenn:
 
 - 1\. die Bewilligungsinhaberin oder der Bewilligungsinhaber die persönlichen Voraussetzungen nicht mehr erfüllt; oder
+
 - 2\. die betrieblichen Voraussetzungen nicht mehr gegeben sind und die notwendigen Verbesserungen des Betriebes oder seiner Einrichtungen trotz schriftlicher Mahnung nicht binnen der angesetzten Frist durchgeführt werden.
 
 <sup>2</sup> In geringfügigen Fällen kann eine Verwarnung ausgesprochen werden.
@@ -214,13 +250,15 @@ beschliesst:
 
 **Erlöschen**
 
-<sup>1</sup> Die Bewilligung erlischt, wenn:
+Die Bewilligung erlischt, wenn:
 
 - 1\. die Bewilligungsinhaberin oder der Bewilligungsinhaber darauf verzichtet;
+
 - 2\. die Bewilligungsinhaberin oder der Bewilligungsinhaber stirbt; in diesem Fall kann die Weiterführung des Betriebs unter einer verantwortlichen Leiterin oder einem verantwortlichen Leiter für längstens ein Jahr provisorisch bewilligt werden; oder
+
 - 3\. die Bewilligungsabgaben trotz Mahnung nicht fristgerecht bezahlt werden.
 
-### 2.5 Betriebszeiten
+### E. Betriebszeiten
 
 #### Art. 17
 
@@ -234,9 +272,11 @@ beschliesst:
 
 #### Art. 18
 
-**Ausnahmen 1. dauernde**
+**Ausnahmen**
 
-<sup>1</sup> Dauernde Ausnahmen von der Schliessungszeit werden bewilligt, wenn es die Lage und Art des Betriebs zulassen und die Nachtruhe, die öffentliche Ordnung und Sicherheit nicht beeinträchtigt werden sowie der Jugendschutz gewährleistet ist.
+### 1. dauernde
+
+Dauernde Ausnahmen von der Schliessungszeit werden bewilligt, wenn es die Lage und Art des Betriebs zulassen und die Nachtruhe, die öffentliche Ordnung und Sicherheit nicht beeinträchtigt werden sowie der Jugendschutz gewährleistet ist.
 
 #### Art. 19
 
@@ -255,18 +295,24 @@ beschliesst:
 <sup>1</sup> Die Schliessungszeit ist für das Kantonsgebiet aufgehoben am:
 
 - 1\. 1. August;
+
 - 2\. Tag der kantonalen und eidgenössischen Wahlen;
-- 3\. Samstag vor dem Schmutzigen Donnerstag, Schmutzigen Donnerstag, Fasnachtssamstag, Fasnachtsmontag und ‑dienstag;
+
+- 3\. Samstag vor dem Schmutzigen Donnerstag, Schmutzigen Donnerstag, Fasnachtssamstag, Fasnachtsmontag und -dienstag;
+
 - 4\. Silvester.
 
 <sup>2</sup> Für das Gemeindegebiet ist die Schliessungszeit aufgehoben:
 
 - 1\. nach den Gemeindeversammlungen;
+
 - 2\. am Tag der Wahl des Gemeinderates und des Schulrates;
+
 - 3\. am Tag des Kirchweih- oder Kapellweihfestes;
+
 - 4\. an Älplerchilbitagen.
 
-### 2.6 Betriebsführung
+### F. Betriebsführung
 
 #### Art. 21
 
@@ -303,7 +349,7 @@ beschliesst:
 
 **Preisanschrift**
 
-<sup>1</sup> Art und Endpreise der Speisen und Getränke und anderer Leistungen sind den Gästen in geeigneter Weise bekanntzugeben.
+Art und Endpreise der Speisen und Getränke und anderer Leistungen sind den Gästen in geeigneter Weise bekanntzugeben.
 
 #### Art. 25
 
@@ -319,7 +365,7 @@ beschliesst:
 
 **Alkoholfreie Getränke**
 
-<sup>1</sup> In gastgewerblichen Betrieben mit Alkoholausschank sind mindestens drei alkoholfreie Getränke günstiger anzubieten, als das billigste alkoholhaltige Getränk in der gleichen Menge.
+In gastgewerblichen Betrieben mit Alkoholausschank sind mindestens drei alkoholfreie Getränke günstiger anzubieten, als das billigste alkoholhaltige Getränk in der gleichen Menge.
 
 #### Art. 27
 
@@ -337,9 +383,9 @@ beschliesst:
 
 **Animierverbot**
 
-<sup>1</sup> Gästen und Angestellten dürfen keine alkoholhaltigen Getränke aufgedrängt werden.
+Gästen und Angestellten dürfen keine alkoholhaltigen Getränke aufgedrängt werden.
 
-### 2.7 Beherbergung von Gästen
+### G. Beherbergung von Gästen
 
 #### Art. 29
 
@@ -351,13 +397,13 @@ beschliesst:
 
 <sup>3</sup> Das Meldeverfahren erfolgt nach Richtlinien der Direktion. Sie kann die Kantonspolizei beiziehen.
 
-## 3 Handel mit alkoholischen Getränken
+### III. HANDEL MIT ALKOHOLISCHEN GETRÄNKEN
 
 #### Art. 30
 
 **Bewilligungspflicht**
 
-<sup>1</sup> Der Kleinhandel mit gebrannten Wassern sowie alkoholischen Getränken ist bewilligungspflichtig.
+Der Kleinhandel mit gebrannten Wassern sowie alkoholischen Getränken ist bewilligungspflichtig.
 
 #### Art. 31
 
@@ -371,14 +417,15 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Bewilligungen können nur an Personen erteilt werden, die handlungsfähig sind und in den letzten zwei Jahren nicht oder nur geringfügig gegen die Vorschriften der Gesundheits-[^32-1], der Lebensmittel-[^32-2], der Gastgewerbe-[^32-3] oder der Betäubungsmittelgesetzgebung[^32-4] verstossen haben.
+<sup>1</sup> Bewilligungen können nur an Personen erteilt werden, die handlungsfähig sind und in den letzten zwei Jahren nicht oder nur geringfügig gegen die Vorschriften der Gesundheits-[^32-1], der Lebensmittel-[^32-2], der Gastgewerbe-
+
+<sup>3</sup> oder der Betäubungsmittelgesetzgebung[^32-3] verstossen haben.
 
 <sup>2</sup> Die gesuchstellenden Personen müssen sich darüber ausweisen, dass sie für Verkauf und Lagerung über Räumlichkeiten verfügen, die den lebensmittelpolizeilichen Anforderungen entsprechen.
 
 [^32-1]: NG 711
 [^32-2]: NG 717.1
-[^32-3]: NG 854
-[^32-4]: NG 716
+[^32-3]: NG 716
 
 #### Art. 33
 
@@ -389,6 +436,7 @@ beschliesst:
 <sup>2</sup> Davon ausgenommen sind:
 
 - 1\. Degustationen nicht gebrannter alkoholhaltiger Getränke;
+
 - 2\. entgeltliche Degustationen gebrannter alkoholhaltiger Getränke.
 
 <sup>3</sup> Degustationsveranstaltungen sind dem Amt zu melden.
@@ -397,9 +445,11 @@ beschliesst:
 
 #### Art. 34
 
-**Verkaufsbeschränkungen 1. Grundsatz**
+**Verkaufsbeschränkungen**
 
-<sup>1</sup> Der Verkauf alkoholhaltiger Getränke an offensichtlich Betrunkene oder offensichtlich unter Drogen stehende Personen ist verboten.
+### 1. Grundsatz
+
+Der Verkauf alkoholhaltiger Getränke an offensichtlich Betrunkene oder offensichtlich unter Drogen stehende Personen ist verboten.
 
 #### Art. 35
 
@@ -413,15 +463,17 @@ beschliesst:
 
 **Entzug und Erlöschen der Bewilligung**
 
-<sup>1</sup> Für den Entzug und das Erlöschen von Bewilligungen sowie für das Verfahren sind die Bestimmungen über das Gastgewerbe sinngemäss anwendbar.
+Für den Entzug und das Erlöschen von Bewilligungen sowie für das Verfahren sind die Bestimmungen über das Gastgewerbe sinngemäss anwendbar.
 
-## 4 Abgaben und Gebühren
+### IV. ABGABEN UND GEBÜHREN
 
 #### Art. 37
 
-**Gastwirtschaften sowie Handelsbetriebe für den Verkauf alkoholischer Getränke 1. Abgabepflicht**
+**Gastwirtschaften sowie Handelsbetriebe für den**
 
-<sup>1</sup> Gastwirtschaften sowie Handelsbetriebe für den Verkauf alkoholischer Getränke müssen bei der Erteilung der Bewilligung für den Ausschank und den Verkauf alkoholischer Getränke eine einmalige Abgabe entrichten.
+### Verkauf alkoholischer Getränke 1. Abgabepflicht
+
+Gastwirtschaften sowie Handelsbetriebe für den Verkauf alkoholischer Getränke müssen bei der Erteilung der Bewilligung für den Ausschank und den Verkauf alkoholischer Getränke eine einmalige Abgabe entrichten.
 
 #### Art. 38
 
@@ -430,13 +482,16 @@ beschliesst:
 <sup>1</sup> Für die Abgabe gelten folgende Rahmentarife:
 
 - 1\. für ordentliche Gastwirtschaften: Fr. 200.– bis Fr. 2'000.–;
+
 - 2\. für ordentliche Gastwirtschaften mit dauernden Ausnahmen von der Schliessungszeit: Fr. 200.– bis Fr. 4'000.–;
+
 - 3\. für den Handel mit nicht gebrannten alkoholischen Getränken: Fr. 200.– bis Fr. 500.–;
-- 4\. für den Handel mit gebrannten und nicht gebrannten alkoholischen Getränken: Fr. 200.– bis Fr. 1'000.–.
+
+- 4\. für den Handel mit gebrannten und nicht gebrannten alkoholischen Getränken: Fr. 200.– bis Fr. 1‘000.–.
 
 <sup>2</sup> Bei der Festsetzung für den einzelnen Betrieb sind insbesondere die Art, die Grösse und die Betriebszeiten zu berücksichtigen. Der Regierungsrat regelt die Einzelheiten der Bemessung in einer Verordnung; die Direktion erlässt Richtlinien zur Berechnung der Anzahl Sitzplätze.
 
-<sup>3</sup> Das Amt kann die für die Einschätzung notwendigen Unterlagen von den Bewilligungsinhaberinnen und ‑inhabern einfordern.
+<sup>3</sup> Das Amt kann die für die Einschätzung notwendigen Unterlagen von den Bewilligungsinhaberinnen und -inhabern einfordern.
 
 <sup>4</sup> Werden diesem Gesetz unterstellte Tätigkeiten ohne die erforderliche Bewilligung ausgeübt, wird die entsprechende Abgabe nachträglich erhoben.
 
@@ -454,7 +509,7 @@ beschliesst:
 
 <sup>1</sup> Gelegenheitswirtschaften mit Alkoholausschank sind abgabepflichtig.
 
-<sup>2</sup> Die Abgabe beträgt Fr. 50.– bis Fr. 400.– und fällt den Gemeinden zu. Sie wird nach Grösse und Dauer der Gelegenheitswirtschaft festgelegt.
+<sup>2</sup> Die Abgabe beträgt Fr. 50.- bis Fr. 400.- und fällt den Gemeinden zu. Sie wird nach Grösse und Dauer der Gelegenheitswirtschaft festgelegt.
 
 <sup>3</sup> Wird die Gelegenheitswirtschaft anlässlich einer Veranstaltung mit gemeinnützigem Charakter betrieben, kann die Abgabe ganz oder teilweise erlassen werden.
 
@@ -462,11 +517,11 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Die Verfahrensgebühren richten sich nach der Gebührengesetzgebung[^41-1].
+Die Verfahrensgebühren richten sich nach der Gebührengesetzgebung[^41-1].
 
 [^41-1]: NG 265.5
 
-## 5 Organisation
+### V. ORGANISATION
 
 #### Art. 42
 
@@ -477,6 +532,7 @@ beschliesst:
 <sup>2</sup> Sie ist zuständig für:
 
 - 1\. die Bezeichnung und Anerkennung von Fähigkeitsausweisen und Abschlusszeugnissen über die gastgewerbliche Berufsausbildung;
+
 - 2\. den Erlass von Richtlinien über die Gästekontrolle und die Berechnung der Anzahl Sitz- und Stehplätze.
 
 #### Art. 43
@@ -488,19 +544,22 @@ beschliesst:
 <sup>2</sup> Es ist insbesondere zuständig für:
 
 - 1\. die Erteilung und den Entzug von Bewilligungen;
+
 - 2\. die Festsetzung und den Bezug der Abgaben;
+
 - 3\. die Anordnung von Massnahmen.
 
 #### Art. 44
 
 **Gemeinden**
 
-<sup>1</sup> Die Gemeinden vollziehen die ihnen übertragenen Aufgaben; sie sind insbesondere zuständig für:
+Die Gemeinden vollziehen die ihnen übertragenen Aufgaben; sie sind insbesondere zuständig für:
 
 - 1\. die Bewilligung von Gelegenheitswirtschaften und die Festlegung der Betriebszeiten;
+
 - 2\. die Festsetzung und den Bezug der Abgaben für Gelegenheitswirtschaften.
 
-## 6 Rechtsschutz und Strafbestimmungen
+### VI. RECHTSSCHUTZ UND STRAFBESTIMMUNGEN
 
 #### Art. 45
 
@@ -521,10 +580,12 @@ beschliesst:
 <sup>2</sup> Strafbar macht sich insbesondere:
 
 - 1\. wer als verantwortliche Person eine gastgewerbliche Tätigkeit oder den Handel mit alkoholischen Getränken ohne Bewilligung ausübt;
+
 - 2\. wer als verantwortliche Person die mit der Bewilligung verbundenen Pflichten oder die gesetzlichen Anforderungen an die Betriebsführung verletzt;
+
 - 3\. wer als Gast den Anordnungen der verantwortlichen Person zur Einhaltung von Ruhe, Ordnung und guter Sitte keine Folge leistet.
 
-<sup>3</sup> Wer als verantwortliche Person die Bestimmungen betreffend die Betriebszeiten verletzt, wird mit einer Busse von Fr. 50.– bis Fr. 500.– bestraft; in geringfügigen Fällen kann auf Strafe verzichtet werden.
+<sup>3</sup> Wer als verantwortliche Person die Bestimmungen betreffend die Betriebszeiten verletzt, wird mit einer Busse von Fr. 50.- bis Fr. 500.- bestraft; in geringfügigen Fällen kann auf Strafe verzichtet werden.
 
 <sup>4</sup> Die Strafverfolgung verjährt nach fünf Jahren seit der letzten strafbaren Handlung.
 
@@ -532,41 +593,43 @@ beschliesst:
 
 **Anzeigepflicht**
 
-<sup>1</sup> Das Amt ist zur Strafanzeige verpflichtet, wenn die Widerhandlung nicht geringfügig ist.
+Das Amt ist zur Strafanzeige verpflichtet, wenn die Widerhandlung nicht geringfügig ist.
 
-## 7 Übergangs- und Schlussbestimmungen
+### VII. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 48
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
 
 #### Art. 49
 
-**Übergangsbestimmungen 1. Anpassung der Bewilligungen**
+**Übergangsbestimmungen**
+
+### 1. Anpassung der Bewilligungen
 
 <sup>1</sup> Bestehende Bewilligungen für Gastwirtschaften und den Handel mit alkoholischen Getränken, die nicht der neuen Gesetzgebung entsprechen, sind binnen zweier Jahre nach Inkrafttreten diesem Gesetz anzupassen.
 
-<sup>2</sup> Bewilligungsinhaberinnen und ‑inhaber, die neu den Nachweis von Fachkenntnissen erbringen müssen, haben binnen zweier Jahre nach Inkrafttreten dieses Gesetzes das Gesuch mit dem Nachweis einzureichen.
+<sup>2</sup> Bewilligungsinhaberinnen und -inhaber, die neu den Nachweis von Fachkenntnissen erbringen müssen, haben binnen zweier Jahre nach Inkrafttreten dieses Gesetzes das Gesuch mit dem Nachweis einzureichen.
 
 #### Art. 50
 
 **2. neue Bewilligungen**
 
-<sup>1</sup> Für Tätigkeiten, die neu bewilligungspflichtig sind, ist binnen zweier Jahre nach Inkrafttreten dieses Gesetzes das Gesuch um Erteilung der Bewilligung einzureichen.
+Für Tätigkeiten, die neu bewilligungspflichtig sind, ist binnen zweier Jahre nach Inkrafttreten dieses Gesetzes das Gesuch um Erteilung der Bewilligung einzureichen.
 
 #### Art. 51
 
 **3. anwendbares Recht**
 
-<sup>1</sup> Bei Inkrafttreten dieses Gesetzes hängige Bewilligungsverfahren sind nach neuem Recht zu behandeln.
+Bei Inkrafttreten dieses Gesetzes hängige Bewilligungsverfahren sind nach neuem Recht zu behandeln.
 
 #### Art. 52
 
 **Änderung des Tourismusförderungsgesetzes**
 
-<sup>1</sup> Das Gesetz vom 16. Dezember 2015 über die Förderung des Tourismus (Tourismusförderungsgesetz, TFG)[^52-1] wird wie folgt geändert: …
+Das Gesetz vom 16. Dezember 2015 über die Förderung des Tourismus (Tourismusförderungsgesetz, TFG)[^52-1] wird wie folgt geändert: …
 
 [^52-1]: NG 865.1
 
@@ -574,9 +637,10 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Erlasse werden aufgehoben:
+Folgende Erlasse werden aufgehoben:
 
 - 1\. das Gesetz vom 28. April 1996 über das Gastgewerbe und den Handel mit alkoholischen Getränken (Gastgewerbegesetz, GGG)[^53-1];
+
 - 2\. die Vollziehungsverordnung vom 3. Juli 1996 zum Gesetz über das Gastgewerbe und den Handel mit alkoholischen Getränken (Gastgewerbeverordnung, GGV)[^53-2].
 
 [^53-1]: A 1996, 615
@@ -588,8 +652,8 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest[^54-1].
+<sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.
 
-[^54-1]: In Kraft seit 1. Januar 2020
+## Weitere Fussnoten
 
-A 2018, 2015; A 2019, 2215
+- [14] NG 854.1
