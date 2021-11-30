@@ -4,13 +4,13 @@ number: "115.1"
 title: "Loi sur l'exercice des droits politiques"
 short: LEDP
 language: fr
-version: 2021-01-01
-valid_until: 2021-11-30
-version_adopted: 2020-12-16
+version: 2021-12-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-07
 adopted: 2001-04-06
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/115.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6750/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6967/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Droits politiques – L
 
 (LEDP)
 
-du 06.04.2001 (version entrée en vigueur le 01.01.2021)
+du 06.04.2001 (version entrée en vigueur le 01.12.2021)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -1322,7 +1322,7 @@ Décrète:
 
 <sup>4</sup> L'autorité de proclamation veille à informer les personnes candidates.
 
-<sup>5</sup> Sitôt assermentées, les personnes élues peuvent entrer en fonction.
+<sup>5</sup> Les personnes élues ne peuvent pas entrer en fonction avant leur assermentation.
 
 ### 3.3.3.2 Nombre réduit de candidatures
 

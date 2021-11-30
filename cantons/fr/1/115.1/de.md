@@ -4,13 +4,13 @@ number: "115.1"
 title: Gesetz über die Ausübung der politischen Rechte
 short: PRG
 language: de
-version: 2021-01-01
-valid_until: 2021-11-30
-version_adopted: 2020-12-16
+version: 2021-12-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-07
 adopted: 2001-04-06
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/115.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6750/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6967/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Politische Rechte – G
 
 (PRG)
 
-vom 06.04.2001 (Fassung in Kraft getreten am 01.01.2021)
+vom 06.04.2001 (Fassung in Kraft getreten am 01.12.2021)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -1322,7 +1322,7 @@ beschliesst:
 
 <sup>4</sup> Die für die Proklamation zuständige Behörde sorgt dafür, dass die Kandidatinnen und Kandidaten informiert werden.
 
-<sup>5</sup> Die gewählten Personen können ihr Amt sogleich nach der Vereidigung antreten.
+<sup>5</sup> Die gewählten Personen können ihr Amt nicht vor der Vereidigung antreten.
 
 ### 3.3.3.2 Beschränkte Kandidatenzahl
 
