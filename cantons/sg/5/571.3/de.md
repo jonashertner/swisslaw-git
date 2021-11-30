@@ -1,22 +1,22 @@
 ---
 canton: SG
 number: "571.3"
-title: Gesetz über die wirtschaftliche Unterstützung von Unternehmen in Zusammenhang mit der Covid-19-Epidemie
+title: Gesetz über die wirtschaftliche Unterstützung von Unternehmen sowie von durch die öffentliche Hand geführten Institutionen der familienergänzenden Kinderbetreuung in Zusammenhang mit der Covid-19-Epidemie
 language: de
-version: 2021-09-23
-valid_until: 2021-11-30
-version_adopted: 2021-09-22
+version: 2021-12-01
+valid_until: 2022-06-15
+version_adopted: 2021-11-16
 adopted: 2021-02-18
 in_force: 2021-02-18
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/571.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3261/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3281/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die wirtschaftliche Unterstützung von Unternehmen in Zusammenhang mit der Covid-19-Epidemie
+# Gesetz über die wirtschaftliche Unterstützung von Unternehmen sowie von durch die öffentliche Hand geführten Institutionen der familienergänzenden Kinderbetreuung in Zusammenhang mit der Covid-19-Epidemie
 
-vom 18.02.2021 (Stand 23.09.2021)
+vom 18.02.2021 (Stand 01.12.2021)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -41,12 +41,14 @@ als Gesetz:[^ingress-2]
 - a<sup>bis</sup>) die Ausgestaltung der Massnahmen des Kantons St.Gallen für Publikumsanlässe von überkantonaler Bedeutung auf Grundlage des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie vom 25. September 2020[^1-3] und der eidgenössischen Verordnung über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung im Zusammenhang mit der Covid-19-Epidemie vom 26. Mai 2021[^1-4];
 - b) die Unterstützung professioneller Sportvereine durch Bereitstellung von Sicherheiten in Zusammenhang mit der Covid-19-Epidemie;
 - c) die Unterstützung von Seilbahnunternehmen durch Darlehen, Solidarbürgschaften und nicht rückzahlbare Beiträge in Zusammenhang mit der Covid-19-Epidemie;
-- d) die Unterstützung von Tourismusorganisationen durch nicht rückzahlbare Beiträge in Zusammenhang mit der Covid-19-Epidemie.
+- d) die Unterstützung von Tourismusorganisationen durch nicht rückzahlbare Beiträge in Zusammenhang mit der Covid-19-Epidemie;
+- e) die Ausgestaltung der Ausfallentschädigungen des Kantons St.Gallen auf Grundlage des Covid-19-Gesetzes und der eidgenössischen Verordnung über Finanzhilfen an die Kantone für Massnahmen zugunsten von durch die öffentliche Hand geführten Institutionen der familienergänzenden Kinderbetreuung im Zusammenhang mit Covid-19 vom 18. Juni 2021[^1-5].
 
 [^1-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
 [^1-2]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de).
 [^1-3]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
 [^1-4]: SR [818.101.28](https://db.clex.ch/link/Bund/818.101.28/de); nachfolgend Covid-19-Verordnung Publikumsanlässe.
+[^1-5]: SR [818.102.3](https://db.clex.ch/link/Bund/818.102.3/de).
 
 ## II. Härtefallmassnahmen
 
@@ -375,5 +377,31 @@ als Gesetz:[^ingress-2]
 <sup>4</sup> Die Finanzierung erfolgt aus dem besonderen Eigenkapital.
 
 [^20-1]: sGS [575.1](https://www.gesetzessammlung.sg.ch/data/575.1/de).
+
+## VI. Unterstützung von durch die öffentliche Hand geführten Institutionen der familienergänzenden Kinderbetreuung
+
+#### Art. 21
+
+**Ausfallentschädigungen**
+
+<sup>1</sup> Das zuständige Departement gewährt Institutionen der familienergänzenden Kinderbetreuung, die durch die öffentliche Hand betrieben werden, auf Gesuch hin nach den Vorgaben des Bundesrechts für den Zeitraum vom 17. März 2020 bis zum 17. Juni 2020 Ausfallentschädigungen für die entgangenen Betreuungsbeiträge der Eltern.
+
+<sup>2</sup> Die Ausfallentschädigung deckt 50 Prozent der entgangenen Betreuungsbeiträge der Eltern nach Art. 2 Abs. 2 der eidgenössischen Verordnung über Finanzhilfen an die Kantone für Massnahmen zugunsten von durch die öffentliche Hand geführten Institutionen der familienergänzenden Kinderbetreuung im Zusammenhang mit Covid-19 vom 18. Juni 2021[^21-1].
+
+<sup>3</sup> Die Finanzierung erfolgt aus dem besonderen Eigenkapital.
+
+[^21-1]: SR [818.102.3](https://db.clex.ch/link/Bund/818.102.3/de).
+
+#### Art. 22
+
+**Ausführungsbestimmungen und Vollzug**
+
+<sup>1</sup> Das zuständige Departement kann Ausführungsbestimmungen, insbesondere zum Gesuchsverfahren, erlassen.
+
+<sup>2</sup> Es vollzieht die Gewährung der Ausfallentschädigungen. Dazu gehören insbesondere:
+
+- a) Entgegennahme und Prüfung der Gesuche;
+- b) Entscheid über die Gesuche und Ausrichtung der Finanzhilfe;
+- c) Geltendmachung der Bundesbeteiligung.
 
 nGS 2021-011
