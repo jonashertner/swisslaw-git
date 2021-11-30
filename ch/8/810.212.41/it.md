@@ -3,11 +3,11 @@ sr: "810.212.41"
 title: "Ordinanza del DFI del 2 maggio 2007 concernente l'attribuzione di organi per il trapianto (Ordinanza del DFI sull'attribuzione di organi)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/282"
 language: it
-version: 2017-11-15
+version: 2021-12-01
 adopted: 2007-05-02
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20171115/it/xml/fedlex-data-admin-ch-eli-cc-2007-282-20171115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20171115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2007-282-20211201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20171115/it"
 
 (Ordinanza del DFI sull’attribuzione di organi)
 
-del 2 maggio 2007 (Stato 15 novembre 2017) (Stato 15 novembre 2017)
+del 2 maggio 2007 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
 
 Il Dipartimento federale dell’interno,
 
@@ -32,11 +32,12 @@ ordina:
 
 Ai sensi della presente ordinanza si intende per:
 
-- a. *organi di qualità adeguata:* organi che, a causa dei loro requisiti medici, possono essere attribuiti soltanto a una cerchia ristretta di riceventi;
-- b.[^1-1] *anticorpi anti-HLA preformati:* sostanze immunitarie endogene circolanti nel sangue rivolte contro cellule umane estranee e che in caso di trapianto possono provocare la distruzione dell’organo trapiantato;
+- a.[^1-1] *...*
+- b.[^1-2] *anticorpi anti-HLA preformati:* sostanze immunitarie endogene circolanti nel sangue rivolte contro cellule umane estranee e che in caso di trapianto possono provocare la distruzione dell’organo trapiantato;
 - c. *locus HLA:* sito del cromosoma in cui risiedono i geni per le caratteristiche antigeniche tissutali.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 mag. 2012, in vigore dal 1° lug. 2012 ([RU 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
+[^1-1]: Abrogata dal n. I dell’O del DFI del 1° ott. 2021, con effetto dal 1° dic. 2021 ([RU 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del DFI del 23 mag. 2012, in vigore dal 1° lug. 2012 ([RU 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
 
 ## Capitolo 2: Criteri di attribuzione e priorità
 
@@ -160,25 +161,20 @@ Se più pazienti presentano lo stesso grado di priorità, il cuore è attribuito
 
 <sup>1</sup>
 
-Se non vi è un’urgenza medica, il polmone di ottima qualità è attribuito:
+Se non vi è un’urgenza medica, il polmone è attribuito:[^8-1]
 
 - a. in primo luogo a pazienti che necessitano di un trapianto combinato del polmone e del cuore;
-- b.[^8-1] in secondo luogo a pazienti affetti da ipertonia polmonare;
-- c.[^8-2] in terzo luogo a pazienti d’età inferiore a 40 anni, se il donatore ha meno di 40 anni;
-- d.[^8-3] in quarto luogo a pazienti affetti da fibrosi polmonare.
+- b.[^8-2] in secondo luogo a pazienti affetti da ipertonia polmonare;
+- c.[^8-3] in terzo luogo a pazienti d’età inferiore a 40 anni, se il donatore ha meno di 40 anni;
+- d.[^8-4] in quarto luogo a pazienti affetti da fibrosi polmonare.
 
-<sup>2</sup>
+<sup>2</sup> ...[^8-5]
 
-Il polmone di qualità adeguata è attribuito:
-
-- a.[^8-4] in primo luogo a pazienti d’età inferiore a 40 anni, se il donatore ha meno di 40 anni;
-- b. in secondo luogo a pazienti affetti da fibrosi polmonare.[^8-5]
-
-[^8-1]: Nuovo testo giusta il n. I dell’O del DFI del 1° lug. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3377](https://fedlex.data.admin.ch/eli/oc/2011/453)).
+[^8-1]: Nuovo testo giusta il n. I dell’O del DFI del 1° ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
 [^8-2]: Nuovo testo giusta il n. I dell’O del DFI del 1° lug. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3377](https://fedlex.data.admin.ch/eli/oc/2011/453)).
-[^8-3]: Introdotta dal n. I dell’O del DFI del 17 set. 2008, in vigore dal 15 ott. 2008 ([RU 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
-[^8-4]: Nuovo testo giusta il n. I dell’O del DFI del 1° lug. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3377](https://fedlex.data.admin.ch/eli/oc/2011/453)).
-[^8-5]: Nuovo testo giusta il n. I dell’O del DFI del 17 set. 2008, in vigore dal 15 ott. 2008 ([RU 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
+[^8-3]: Nuovo testo giusta il n. I dell’O del DFI del 1° lug. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3377](https://fedlex.data.admin.ch/eli/oc/2011/453)).
+[^8-4]: Introdotta dal n. I dell’O del DFI del 17 set. 2008, in vigore dal 15 ott. 2008 ([RU 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
+[^8-5]: Abrogato dal n. I dell’O del DFI del 1° ott. 2021, con effetto dal 1° dic. 2021 ([RU 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
 
 #### Art. 9
 
@@ -205,15 +201,22 @@ Se più pazienti presentano lo stesso grado di priorità, il polmone è attribui
 
 <sup>1</sup>
 
-È considerato in imminente pericolo di morte, in particolare, il paziente che:
+È considerato in imminente pericolo di morte il paziente che:[^10-1]
 
 - a. presenta, nei primi 8 giorni dopo un trapianto, un non funzionamento primario del fegato o un non funzionamento dovuto a una trombosi a un’arteria epatica;
 - b. presenta un’insufficienza epatica fulminante acuta;
-- c. è colpito da degenerazione epatolenticolare (Morbo di Wilson) fulminante scompensata.
+- c. è colpito da degenerazione epatolenticolare (Morbo di Wilson) fulminante scompensata;
+- d.[^10-2] non adempie i criteri di cui alle lettere a-c, ma presenta una prognosi negativa analoga in assenza di trapianto.
+
+<sup>1bis</sup> Il centro di trapianto di fegato competente chiede a tutti gli altri centri di trapianto di fegato in Svizzera se concordano con la classificazione secondo il capoverso 1 lettera d. Qualora i centri non riescano a trovare un’intesa, la decisione spetta al servizio nazionale di attribuzione.[^10-3]
 
 <sup>2</sup> Un’urgenza medica ha una durata massima di 6 giorni. È prorogata ogni volta di ulteriori 2 giorni se è confermata dal centro di trapianto competente.
 
 <sup>3</sup> Un fegato che non è attribuibile secondo i criteri d’identità o compatibilità del gruppo sanguigno, può essere attribuito a un paziente il cui gruppo sanguigno non è compatibile se egli vi acconsente.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del DFI del 1° ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
+[^10-2]: Introdotta dal n. I dell’O del DFI del 1° ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
+[^10-3]: Introdotto dal n. I dell’O del DFI del 1° ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
 
 #### Art. 11
 

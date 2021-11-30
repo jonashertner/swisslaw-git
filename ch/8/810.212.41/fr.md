@@ -3,11 +3,11 @@ sr: "810.212.41"
 title: "Ordonnance du DFI du 2 mai 2007 sur l'attribution d'organes destinés à une transplantation (Ordonnance du DFI sur l'attribution d'organes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/282"
 language: fr
-version: 2017-11-15
+version: 2021-12-01
 adopted: 2007-05-02
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20171115/fr/xml/fedlex-data-admin-ch-eli-cc-2007-282-20171115-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20171115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-282-20211201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20171115/fr"
 
 (Ordonnance du DFI sur l’attribution d’organes)
 
-du 2 mai 2007 (Etat le 15 novembre 2017)
+du 2 mai 2007 (Etat le 1<sup>er</sup> décembre 2021)
 
 Le Département fédéral de l’intérieur,
 
@@ -32,11 +32,12 @@ arrête:
 
 Au sens de la présente ordonnance, on entend par:
 
-- a. *organes de qualité adéquate*: organes qui, en raison de leur état, ne peuvent être attribués qu’à un cercle restreint de receveurs;
-- b.[^1-1] *anticorps anti-HLA préformés*: les anticorps endogènes présents dans le sang qui sont dirigés contre des cellules humaines exogènes et qui peuvent, en cas de transplantation, conduire à la destruction de l’organe transplanté;
+- a.[^1-1] …
+- b.[^1-2] *anticorps anti-HLA préformés*: les anticorps endogènes présents dans le sang qui sont dirigés contre des cellules humaines exogènes et qui peuvent, en cas de transplantation, conduire à la destruction de l’organe transplanté;
 - c. *locus HLA*: l’emplacement génétique des caractéristiques tissulaires.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
+[^1-1]: Abrogée par le ch. I de l’O du DFI du 1<sup>er</sup> oct. 2021, avec effet au 1<sup>er</sup> déc. 2021 ([RO 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 mai 2012, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
 
 ## Chapitre 2 Critères d’attribution et priorités
 
@@ -160,25 +161,20 @@ Lorsque le degré de priorité est le même pour plusieurs patients, le cœur es
 
 <sup>1</sup>
 
-Lorsqu’il n’y a pas urgence médicale, le poumon de qualité optimale est attribué:
+Lorsqu’il n’y a pas urgence médicale, le poumon est attribué:[^8-1]
 
 - a. en premier lieu à un patient pour lequel une transplantation combinée cœur-poumon est nécessaire;
-- b.[^8-1] en deuxième lieu à un patient souffrant d’hypertonie pulmonaire;
-- c.[^8-2] en troisième lieu à un patient de moins de 40 ans, si le donneur est âgé de moins de 40 ans;
-- d.[^8-3] en quatrième lieu à un patient atteint d’une fibrose pulmonaire.
+- b.[^8-2] en deuxième lieu à un patient souffrant d’hypertonie pulmonaire;
+- c.[^8-3] en troisième lieu à un patient de moins de 40 ans, si le donneur est âgé de moins de 40 ans;
+- d.[^8-4] en quatrième lieu à un patient atteint d’une fibrose pulmonaire.
 
-<sup>2</sup>
+<sup>2</sup> …[^8-5]
 
-Le poumon de qualité adéquate est attribué:
-
-- a.[^8-4] en premier lieu à un patient de moins de 40 ans, si le donneur est âgé de moins de 40 ans;
-- b. en deuxième lieu à un patient atteint d’une fibrose pulmonaire.[^8-5]
-
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 sept. 2008, en vigueur depuis le 15 oct. 2008 ([RO 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> juil. 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3377](https://fedlex.data.admin.ch/eli/oc/2011/453)).
-[^8-3]: Introduite par le ch. I de l’O du DFI du 17 sept. 2008, en vigueur depuis le 15 oct. 2008 ([RO 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
-[^8-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> juil. 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3377](https://fedlex.data.admin.ch/eli/oc/2011/453)).
-[^8-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 sept. 2008, en vigueur depuis le 15 oct. 2008 ([RO 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 sept. 2008, en vigueur depuis le 15 oct. 2008 ([RO 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
+[^8-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> juil. 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3377](https://fedlex.data.admin.ch/eli/oc/2011/453)).
+[^8-4]: Introduite par le ch. I de l’O du DFI du 17 sept. 2008, en vigueur depuis le 15 oct. 2008 ([RO 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
+[^8-5]: Abrogé par le ch. I de l’O du DFI du 1<sup>er</sup> oct. 2021, avec effet au 1<sup>er</sup> déc. 2021 ([RO 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
 
 #### Art. 9
 
@@ -205,15 +201,22 @@ Lorsque le degré de priorité est le même pour plusieurs patients, le poumon e
 
 <sup>1</sup>
 
-Est notamment considéré comme exposé à un risque de mort immédiate le patient:
+Est considéré comme exposé à un risque de mort immédiate le patient:[^10-1]
 
 - a. qui présente, dans les huit jours qui suivent une transplantation, un non-fonctionnement de la greffe hépatique, soit primaire, soit dû à une thrombose de l’artère hépatique;
 - b. qui présente une défaillance hépatique fulgurante aiguë;
-- c. qui est atteint d’une dégénérescence hépatolenticulaire (maladie de Wilson) fulgurante décompensée.
+- c. qui est atteint d’une dégénérescence hépatolenticulaire (maladie de Wilson) fulgurante décompensée;
+- d.[^10-2] qui ne remplit pas les critères des let. a à c, mais dont le pronostic est défavorable dans une mesure similaire s’il ne reçoit pas de transplantation.
+
+<sup>1bis</sup> Le centre de transplantation du foie compétent demande à tous les autres centres de transplantation du foie en Suisse s’ils approuvent le classement effectué en application de l’al. 1, let. d. Si les centres ne parviennent pas à s’accorder, la décision est prise par le service national des attributions.[^10-3]
 
 <sup>2</sup> L’urgence médicale dure six jours au maximum. Elle est prolongée tous les deux jours lorsqu’elle est confirmée par le centre de transplantation compétent.
 
 <sup>3</sup> Si un organe ne peut être attribué à un patient dont le groupe sanguin est identique à celui du donneur ou compatible avec le groupe de ce dernier, le foie peut être attribué à un patient dont le groupe sanguin n’est pas compatible, si celui-ci donne son consentement.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
+[^10-2]: Introduite par le ch. I de l’O du DFI du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
+[^10-3]: Introduit par le ch. I de l’O du DFI du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
 
 #### Art. 11
 
@@ -328,7 +331,7 @@ Le rein est attribué en troisième priorité au patient:
 
 Le service national des attributions autorise uniquement les anticorps anti-HLA spécifiques du donneur:
 
-- a. si leur fluorescence moyenne est inférieure à 10 000; ou
+- a. si leur fluorescence moyenne est inférieure à 10 000, ou
 - b. s’ils ne présentent pas un fort risque de provoquer un rejet du greffon.
 
 <sup>3</sup> Le nombre autorisable d’anticorps anti-HLA spécifiques du donneur doit être calculé de manière à ce que chaque patient puisse bénéficier d’une offre d’organes d’au moins 2 % des donneurs potentiels dans son cas. Le calcul est effectué sur la base de l’ensemble des données disponibles concernant les donneurs.

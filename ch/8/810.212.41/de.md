@@ -3,11 +3,11 @@ sr: "810.212.41"
 title: Verordnung des EDI vom 2. Mai 2007 über die Zuteilung von Organen zur Transplantation (Organzuteilungsverordnung EDI)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/282"
 language: de
-version: 2017-11-15
+version: 2021-12-01
 adopted: 2007-05-02
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20171115/de/xml/fedlex-data-admin-ch-eli-cc-2007-282-20171115-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20171115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/282/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2007-282-20211201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/282/20171115/de"
 
 (Organzuteilungsverordnung EDI)
 
-vom 2. Mai 2007 (Stand am 15. November 2017)
+vom 2. Mai 2007 (Stand am 1. Dezember 2021)
 
 Das Eidgenössische Departement des Innern,
 
@@ -32,11 +32,12 @@ verordnet:
 
 Im Sinne dieser Verordnung gelten als:
 
-- a. *Organe von adäquater Qualität:* Organe, die aufgrund ihres Zustands nur einem eingeschränkten Kreis von Empfängerinnen und Empfängern zugeteilt werden können;
-- b.[^1-1] *präformierte Anti-HLA-Antikörper:* im Blut zirkulierende körpereigene Abwehrstoffe, die gegen körperfremde menschliche Zellen gerichtet sind und im Falle einer Transplantation zur Zerstörung des transplantierten Organs führen können;
+- a.[^1-1] ...
+- b.[^1-2] *präformierte Anti-HLA-Antikörper:* im Blut zirkulierende körpereigene Abwehrstoffe, die gegen körperfremde menschliche Zellen gerichtet sind und im Falle einer Transplantation zur Zerstörung des transplantierten Organs führen können;
 - c. *HLA-Locus:* der Genort der Gewebemerkmale.
 
-[^1-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Mai 2012, in Kraft seit 1. Juli 2012 ([AS 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
+[^1-1]: Aufgehoben durch Ziff. I der V des EDI vom 1. Okt. 2021, mit Wirkung seit 1. Dez. 2021 ([AS 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
+[^1-2]: Fassung gemäss Ziff. I der V des EDI vom 23. Mai 2012, in Kraft seit 1. Juli 2012 ([AS 2012 3139](https://fedlex.data.admin.ch/eli/oc/2012/362)).
 
 ## 2. Kapitel: Zuteilungskriterien und -prioritäten
 
@@ -160,24 +161,19 @@ Liegt bei mehreren Patientinnen und Patienten die gleiche Priorität vor, so ist
 
 <sup>1</sup>
 
-Liegt keine medizinische Dringlichkeit vor, so sind Lungen von optimaler Qualität wie folgt zuzuteilen:
+Liegt keine medizinische Dringlichkeit vor, so sind Lungen wie folgt zuzuteilen:[^8-1]
 
 - a. an erster Stelle Patientinnen und Patienten, die eine kombinierte Transplantation der Lunge und des Herzens benötigen;
 - b. an zweiter Stelle Patientinnen und Patienten mit pulmonaler Hypertonie;
-- c.[^8-1] an dritter Stelle Patientinnen und Patienten unter 40 Jahren, wenn die Spenderin oder der Spender weniger als 40 Jahre alt ist;
-- d.[^8-2] an vierter Stelle Patientinnen und Patienten mit pulmonaler Fibrose.
+- c.[^8-2] an dritter Stelle Patientinnen und Patienten unter 40 Jahren, wenn die Spenderin oder der Spender weniger als 40 Jahre alt ist;
+- d.[^8-3] an vierter Stelle Patientinnen und Patienten mit pulmonaler Fibrose.
 
-<sup>2</sup>
+<sup>2</sup> ...[^8-4]
 
-Lungen von adäquater Qualität sind wie folgt zuzuteilen:
-
-- a.[^8-3] an erster Stelle Patientinnen und Patienten unter 40 Jahren, wenn die Spenderin oder der Spender weniger als 40 Jahre alt ist;
-- b. an zweiter Stelle Patientinnen und Patienten mit pulmonaler Fibrose.[^8-4]
-
-[^8-1]: Fassung gemäss Ziff. I der V des EDI vom 1. Juli 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3377](https://fedlex.data.admin.ch/eli/oc/2011/453)).
-[^8-2]: Eingefügt durch Ziff. I der V des EDI vom 17. Sept. 2008, in Kraft seit 15. Okt. 2008 ([AS 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
-[^8-3]: Fassung gemäss Ziff. I der V des EDI vom 1. Juli 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3377](https://fedlex.data.admin.ch/eli/oc/2011/453)).
-[^8-4]: Fassung gemäss Ziff. I der V des EDI vom 17. Sept. 2008, in Kraft seit 15. Okt. 2008 ([AS 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
+[^8-1]: Fassung gemäss Ziff. I der V des EDI vom 1. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
+[^8-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Juli 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3377](https://fedlex.data.admin.ch/eli/oc/2011/453)).
+[^8-3]: Eingefügt durch Ziff. I der V des EDI vom 17. Sept. 2008, in Kraft seit 15. Okt. 2008 ([AS 2008 4469](https://fedlex.data.admin.ch/eli/oc/2008/621)).
+[^8-4]: Aufgehoben durch Ziff. I der V des EDI vom 1. Okt. 2021, mit Wirkung seit 1. Dez. 2021 ([AS 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
 
 #### Art. 9
 
@@ -204,15 +200,22 @@ Liegt bei mehreren Patientinnen und Patienten die gleiche Priorität vor, so ist
 
 <sup>1</sup>
 
-Eine unmittelbare Bedrohung des Lebens liegt namentlich vor bei Patientinnen und Patienten:
+Eine unmittelbare Bedrohung des Lebens liegt vor bei Patientinnen und Patienten:[^10-1]
 
 - a. bei denen innerhalb von acht Tagen nach der Transplantation eine primäre oder durch eine Thrombose der Leberschlagader bedingte Nichtfunktion der Leber auftritt;
 - b. die ein akutes fulminantes Leberversagen haben;
-- c. die einen dekompensierten fulminanten Morbus Wilson haben.
+- c. die einen dekompensierten fulminanten Morbus Wilson haben;
+- d.[^10-2] die die Kriterien nach den Buchstaben a–c nicht erfüllen, ohne Transplantation aber eine ähnlich schlechte Prognose haben.
+
+<sup>1bis</sup> Das zuständige Leber-Transplantationszentrum fragt alle anderen Leber-Transplantationszentren in der Schweiz an, ob sie mit der Einstufung nach Absatz 1 Buchstabe d einverstanden sind. Können sich die Zentren nicht einigen, so entscheidet die Nationale Zuteilungsstelle.[^10-3]
 
 <sup>2</sup> Eine medizinische Dringlichkeit gilt während längstens sechs Tagen. Sie bleibt nach Ablauf von jeweils zwei Tagen bestehen, wenn das zuständige Transplantationszentrum sie bestätigt.
 
 <sup>3</sup> Ist eine Zuteilung nach der Identität oder Kompatibilität der Blutgruppe nicht möglich, so kann eine Leber einer Patientin oder einem Patienten mit nicht kompatibler Blutgruppe zugeteilt werden, wenn sie oder er darin einwilligt.
+
+[^10-1]: Fassung gemäss Ziff. I der V des EDI vom 1. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
+[^10-2]: Eingefügt durch Ziff. I der V des EDI vom 1. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
+[^10-3]: Eingefügt durch Ziff. I der V des EDI vom 1. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 642](https://fedlex.data.admin.ch/eli/oc/2021/642)).
 
 #### Art. 11
 
@@ -439,17 +442,17 @@ Liegt bei mehreren Patientinnen und Patienten keine medizinische Dringlichkeit v
 
 Diese Verordnung tritt am 1. Juli 2007 in Kraft.
 
-## Übergangsbestimmung zur Änderung vom 3. November 2010
+## Übergangsbestimmung zur Änderung vom 3. November 2010****
 
 [^u1-1]
 
-[^u1-1]: [AS 2010 5073](https://fedlex.data.admin.ch/eli/oc/2010/731), [2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)
+[^u1-1]: [AS 2010 5073](https://fedlex.data.admin.ch/eli/oc/2010/731); [2017 5671](https://fedlex.data.admin.ch/eli/oc/2017/611)
 
 <sup>1</sup> Artikel 3 Absatz 2 gilt auch für Patientinnen und Patienten, die beim Inkrafttreten dieser Änderung bereits in die Warteliste aufgenommen worden sind.
 
 <sup>2</sup> Patientinnen und Patienten, die bereits in die Warteliste aufgenommen worden sind oder bei denen die rechtzeitige Aufnahme nach Artikel 3 Absatz 2 unterblieben ist, wird bis zum Inkrafttreten dieser Änderung im Punktesystem nach Anhang 2 pro Monat Wartezeit vor Beginn der Dialyse 1 Punkt zugeordnet.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 11–11*b*)
 
@@ -489,7 +492,7 @@ Anhang 1[^t-1]
 - 8\. Für Patientinnen und Patienten nach Ziffer 7 ist die Punktezahl zusätzlich nach Ziffer 3 oder 5 zu ermitteln. Für die Zuteilung der Leber ist der höchste nach den Ziffern 3 und 5–7 ermittelte Punktewert massgebend.
 - 9\. Geben die nach den Ziffern 3–8 ermittelten Punkte die Dringlichkeit der Transplantation nicht korrekt wieder, so legt die Nationale Zuteilungsstelle nach Konsultation von Expertinnen und Experten die Punktezahl im Einzelfall fest.
 
-Anhang 2[^t-2]
+Anhang 2*[^t-2]*
 
 (Art. 15*a*)
 
@@ -512,7 +515,7 @@ Anhang 2[^t-2]
 
 Punktezahl = 84 × x<sup>2</sup> (x = kalkulierte Panel-reaktive Antikörper)
 
-Anhang 2a[^t-3]
+Anhang 2a*[^t-3]*
 
 (Art. 18)
 
