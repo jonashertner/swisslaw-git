@@ -4,13 +4,13 @@ number: "122.0.1"
 title: "Loi sur l'organisation du Conseil d'Etat et de l'administration"
 short: LOCEA
 language: fr
-version: 2017-01-01
-valid_until: 2021-11-30
-version_adopted: 2016-10-04
+version: 2021-12-01
+valid_until: 2023-12-31
+version_adopted: 2021-09-07
 adopted: 2001-10-16
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/4991/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6968/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Organisation du Conseil d'Etat et de l'administration – L
 
 (LOCEA)
 
-du 16.10.2001 (version entrée en vigueur le 01.01.2017)
+du 16.10.2001 (version entrée en vigueur le 01.12.2021)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -70,7 +70,7 @@ Décrète:
 <sup>1</sup> Le Conseil d'Etat conduit la politique et dirige les affaires publiques du canton, en accomplissant notamment les tâches suivantes:
 
 - a) il prend les initiatives propres à assurer le développement durable du canton et veille à l'épanouissement de sa population;
-- b) il planifie les activités de l'Etat, notamment en adoptant simultanément un programme gouvernemental et un plan financier de législature qu'il transmet au Grand Conseil pour que celui-ci en prenne acte;
+- b) il planifie les activités de l'Etat, notamment en adoptant un programme gouvernemental et un plan financier de législature qu'il transmet au Grand Conseil pour que celui-ci en prenne acte; le plan financier est présenté 10 mois après l'entrée en fonction des membres du Conseil d'Etat;
 - c) il assume la gestion des finances de l'Etat, conformément à la législation en la matière;
 - d) il veille au maintien de l'ordre et de la sécurité publics;
 - e) il veille à la collaboration et à la coordination avec la Confédération, les autres cantons, les régions limitrophes et les communes, ainsi qu'avec l'étranger;
@@ -173,7 +173,7 @@ Décrète:
 
 <sup>1</sup> Les membres du Conseil d'Etat sont élus et assermentés conformément aux dispositions de la Constitution, de la loi sur l'exercice des droits politiques et de la loi sur le Grand Conseil.
 
-<sup>2</sup> Ils entrent en fonction dès leur assermentation.
+<sup>2</sup> Ils entrent en fonction le premier jour du mois suivant leur assermentation.
 
 <sup>3</sup> Les membres sortants restent en charge en principe jusqu'à l'entrée en fonction de leurs successeur-e-s.
 
@@ -513,13 +513,25 @@ Décrète:
 
 #### Art. 47
 
-**Directions – Répartition**
+**Répartition des Directions – Principes**
 
 <sup>1</sup> Le Conseil d'Etat répartit les Directions entre ses membres au début de chaque législature et chaque fois que les circonstances le justifient, notamment en cas de renouvellement partiel.
 
 <sup>2</sup> Il désigne parmi ses membres un suppléant ou une suppléante à chaque chef-fe de Direction.
 
 <sup>3</sup> Lors de la répartition, le Conseil d'Etat tient compte, dans la mesure du possible, des souhaits de ses membres; toutefois, ceux-ci sont tenus d'accepter la Direction et la suppléance qui leur sont attribuées.
+
+#### Art. 47a
+
+**Répartition des Directions – Procédure en cas d'élection**
+
+<sup>1</sup> A la suite d'une élection, les membres du Conseil d'Etat nouvellement constitué se réunissent à bref délai pour organiser la répartition des Directions et des suppléances. Ils disposent à cet effet de l'assistance de la Chancellerie d'Etat.
+
+<sup>2</sup> Lorsque la répartition fait suite à une élection générale, la séance est présidée par le vice-président ou la vice-présidente en fonction, à condition que cette personne ait été réélue. A défaut, la présidence est assurée par le doyen ou la doyenne de fonction; au besoin, l'article 16 sur la préséance est applicable.
+
+<sup>3</sup> Lorsque la répartition fait suite à une élection complémentaire, la présidence de la séance est régie par les règles ordinaires (art. 22 et 24).
+
+<sup>4</sup> La répartition des Directions et des suppléances est arrêtée formellement après la prise de fonction du Conseil d'Etat nouvellement constitué. Elle peut toutefois être communiquée au public dès qu'elle est connue.
 
 #### Art. 48
 

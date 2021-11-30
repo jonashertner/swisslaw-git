@@ -4,13 +4,13 @@ number: "122.0.1"
 title: Gesetz über die Organisation des Staatsrates und der Verwaltung
 short: SVOG
 language: de
-version: 2017-01-01
-valid_until: 2021-11-30
-version_adopted: 2016-10-04
+version: 2021-12-01
+valid_until: 2023-12-31
+version_adopted: 2021-09-07
 adopted: 2001-10-16
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/4991/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6968/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Organisation des Staatsrates und der Verwaltung – G
 
 (SVOG)
 
-vom 16.10.2001 (Fassung in Kraft getreten am 01.01.2017)
+vom 16.10.2001 (Fassung in Kraft getreten am 01.12.2021)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -70,7 +70,7 @@ beschliesst:
 <sup>1</sup> Der Staatsrat führt die Politik und leitet die öffentlichen Angelegenheiten des Kantons, indem er insbesondere:
 
 - a) die für die nachhaltige Entwicklung des Kantons geeigneten Initiativen ergreift und für die Entfaltung seiner Bevölkerung sorgt;
-- b) die staatliche Tätigkeit plant, insbesondere indem er für jede Legislaturperiode gleichzeitig ein Regierungsprogramm und einen Finanzplan verabschiedet, die er dem Grossen Rat zur Kenntnisnahme unterbreitet;
+- b) die staatliche Tätigkeit plant, insbesondere indem er für jede Legislaturperiode ein Regierungsprogramm und einen Finanzplan verabschiedet, die er dem Grossen Rat zur Kenntnisnahme unterbreitet; der Finanzplan wird 10 Monate nach Amtsantritt der Mitglieder des Staatsrates vorgelegt;
 - c) gemäss der einschlägigen Gesetzgebung den Finanzhaushalt des Staates führt;
 - d) für die Aufrechterhaltung der öffentlichen Ordnung und Sicherheit sorgt;
 - e) für die Zusammenarbeit und die Koordination mit dem Bund, den anderen Kantonen, den Nachbarregionen und den Gemeinden sowie mit dem Ausland sorgt;
@@ -173,7 +173,7 @@ beschliesst:
 
 <sup>1</sup> Die Mitglieder des Staatsrates werden nach den Bestimmungen der Verfassung, des Gesetzes über die Ausübung der politischen Rechte und des Grossratsgesetzes gewählt und vereidigt.
 
-<sup>2</sup> Sie treten ihr Amt unmittelbar nach der Vereidigung an.
+<sup>2</sup> Sie treten ihr Amt am ersten Tag des Monats an, der auf ihre Vereidigung folgt.
 
 <sup>3</sup> Die bisherigen Mitglieder bleiben in der Regel bis zum Amtsantritt ihrer Nachfolgerinnen und Nachfolger im Amt.
 
@@ -513,13 +513,25 @@ beschliesst:
 
 #### Art. 47
 
-**Direktionen – Zuteilung**
+**Zuteilung der Direktionen – Grundsätze**
 
 <sup>1</sup> Der Staatsrat verteilt die Direktionen zu Beginn jeder Legislaturperiode und jedesmal, wenn es die Umstände rechtfertigen, auf seine Mitglieder, insbesondere nach Ersatzwahlen.
 
 <sup>2</sup> Er bezeichnet für jede Direktion aus seiner Mitte eine Stellvertreterin oder einen Stellvertreter der Vorsteherin oder des Vorstehers.
 
 <sup>3</sup> Bei der Aufteilung trägt der Staatsrat soweit möglich den Wünschen seiner Mitglieder Rechnung; diese sind jedoch verpflichtet, die Direktion und die Stellvertretung, die ihnen übertragen werden, zu übernehmen.
+
+#### Art. 47a
+
+**Zuteilung der Direktionen – Verfahren bei einer Wahl**
+
+<sup>1</sup> Nach einer Wahl treten die Mitglieder des neu konstituierten Staatsrates unverzüglich zusammen, um die Zuteilung der Direktionen und die Stellvertretungen zu organisieren. Dabei werden sie von der Staatskanzlei unterstützt.
+
+<sup>2</sup> Folgt die Zuteilung auf eine allgemeine Wahl, so wird die Sitzung von der amtierenden Vizepräsidentin oder vom amtierenden Vizepräsidenten geleitet, sofern sie oder er wiedergewählt wurde. Andernfalls hat das amtsälteste Mitglied den Vorsitz; wenn nötig gilt Artikel 16 über die Rangfolge.
+
+<sup>3</sup> Folgt die Zuteilung auf eine Ergänzungswahl, so richtet sich die Leitung der Sitzung nach den ordentlichen Vorschriften (Art. 22 und 24).
+
+<sup>4</sup> Die Zuteilung der Direktionen und der Stellvertretungen wird nach dem Amtsantritt des neu konstituierten Staatsrates formal beschlossen. Sie kann der Öffentlichkeit jedoch mitgeteilt werden, sobald sie bekannt ist.
 
 #### Art. 48
 
