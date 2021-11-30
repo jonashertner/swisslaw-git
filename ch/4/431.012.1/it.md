@@ -3,11 +3,11 @@ sr: "431.012.1"
 title: "Ordinanza del 30 giugno 1993 sull'esecuzione di rilevazioni statistiche federali (Ordinanza sulle rilevazioni statistiche)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100"
 language: it
-version: 2020-02-01
+version: 2021-12-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20200201/it/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20200201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20200201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20211201/it/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20211201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20200201/it"
 
 (Ordinanza sulle rilevazioni statistiche)**[^t-1]**
 
-del 30 giugno 1993 (Stato 1° febbraio 2020)
+del 30 giugno 1993 (Stato 1° dicembre 2021)
 
 [^t-1]: Introdotto dal n. I dell’O del 16 gen. 2008, in vigore dal 10 feb. 2008 ([RU 2008 315](https://fedlex.data.admin.ch/eli/oc/2008/79)).
 
@@ -436,7 +436,7 @@ Allegato*[^t-2]*
 
 ## Elenco delle rilevazioni statistiche
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009 ([RU 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Aggiornato dal n. II dell’O del 18 ago. 2010 ([RU 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), dai n. I delle O del 14 apr. 2010 ([RU 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), del 24 ago. 2011 ([RU 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), del 12 ott. 2011 ([RU 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), dal n. II dell’O del 23 mag. 2012 ([RU 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), dai n. I delle O del 29 ago. 2012 ([RU 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), dal n. II dell’O del 18 dic. 2013 ([RU 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), dai n. I delle O del 29 ott. 2014 ([RU 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), del 28 ott. 2015 ([RU 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), del 16 nov. 2016 ([RU 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), dall’all. 2 n. II 1 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), dall’all. 2 n. 1 dell’O dell’11 apr. 2018 sulla registrazione delle malattie tumorali ([RU 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), dal n. I delle O del 7 dic. nov. 2018 ([RU 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)) e del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)).
+[^t-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009 ([RU 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Aggiornato dal n. II dell’O del 18 ago. 2010 ([RU 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), dai n. I delle O del 14 apr. 2010 ([RU 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), del 24 ago. 2011 ([RU 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), del 12 ott. 2011 ([RU 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), dal n. II dell’O del 23 mag. 2012 ([RU 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), dai n. I delle O del 29 ago. 2012 ([RU 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), dal n. II dell’O del 18 dic. 2013 ([RU 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), dai n. I delle O del 29 ott. 2014 ([RU 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), del 28 ott. 2015 ([RU 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), del 16 nov. 2016 ([RU 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), dall’all. 2 n. II 1 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), dall’all. 2 n. 1 dell’O dell’11 apr. 2018 sulla registrazione delle malattie tumorali ([RU 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), dal n. I delle O del 7 nov. 2018 ([RU 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), del 13 dic. 2019 ([RU 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)) e del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)).
 
 ### 1. *Abrogata*
 
@@ -574,14 +574,14 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Fusione dei dati personali e delle economie domestiche pseudonimizzati provenienti dal censimento della popolazione basato sui registri con gli eventi dello stato civile in base alle rilevazioni del movimento naturale della popolazione</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Elaborazione secondaria; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), statistica degli eventi dello stato civile in base alla statistica del movimento naturale della popolazione</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Fusione dei dati pseudonimizzati delle persone, delle economie domestiche, degli edifici e delle abitazioni provenienti dal censimento della popolazione basato sui registri con i dati anonimizzati delle persone e delle economie domestiche provenienti dai censimenti della popolazione del 1990 e del 2000, i dati pseudonimizzati della statistica della popolazione residente di nazionalità straniera (PETRA) dal 1995 al 2010 nonché con gli eventi dello stato civile in base alle rilevazioni del movimento naturale della popolazione, con l’obiettivo di effettuare analisi di coorti</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Elaborazione secondaria; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), indagine strutturale, statistica degli edifici e delle abitazioni (SEA), statistica degli eventi dello stato civile in base alla statistica del movimento naturale della popolazione, censimenti della popolazione del 1990 e del 2000, statistica della popolazione residente di nazionalità straniera (PETRA) dal 1995 al 2010, registri dell’Ufficio centrale di compensazione (UCC)</td></tr>
 <tr><td>Fonte dei dati:</td><td>–</td></tr>
 <tr><td>Obbligo d’informare:</td><td>–</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
-<tr><td>Periodicità:</td><td>Annuale risp. ogni 10 anni</td></tr>
+<tr><td>Periodicità:</td><td>Annuale</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>–</td></tr>
-<tr><td>Disposizioni speciali:</td><td>I dati possono essere conservati per oltre 30 anni in forma pseudominizzata.</td></tr>
+<tr><td>Disposizioni speciali:</td><td>I dati possono essere conservati per oltre 30 anni in forma pseudonimizzata.</td></tr>
 </table>
 
 ### 13. Elenco ufficiale dei Comuni della Svizzera
@@ -590,7 +590,7 @@ Allegato*[^t-2]*
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Nomi dei Comuni politici (con il numero di Comune), ripartizione per Cantone e Distretto. Nuovi Comuni politici, Comuni politici eliminati</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale</td></tr>
-<tr><td>Fonte dei dati:</td><td>Direzione delle misurazioni catastali</td></tr>
+<tr><td>Fonte dei dati:</td><td>Direzione federale delle misurazioni catastali</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Permanente</td></tr>
@@ -633,12 +633,12 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Statuto sul mercato del lavoro, indicatori sulla situazione lavorativa, ricerca di lavoro, perfezionamento professionale, lavoro non remunerato, migrazione e altre caratteristiche sociodemografiche ed economiche per la determinazione delle condizioni di vita della persona di riferimento e dei membri della sua economia domestica, redditi soggetti a contributi AVS/AI, rendite AVS/AI e altre prestazioni delle assicurazioni sociali; numero di assicurato AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Collegamento di dati provenienti dalle seguenti fonti: rilevazione statistica della forza lavoro in Svizzera (RIFOS), registri delle assicurazioni sociali</td></tr>
-<tr><td>Fonte dei dati:</td><td>Persone viventi in un’economia domestica privata (indagine), Ufficio centrale di compensazione (UCC), Segreteria di Stato dell’economia (rilevazioni dai registri)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Collegamento di dati provenienti dalle seguenti fonti: rilevazione statistica della forza lavoro in Svizzera (RIFOS), registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC] e Segreteria di Stato dell’economia [SECO])</td></tr>
+<tr><td>Fonte dei dati:</td><td>UCC, SECO (rilevazioni dai registri)</td></tr>
 <tr><td>Obbligo d’informare:</td><td>–</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Annuale</td></tr>
-<tr><td>Partecipanti all’esecuzione:</td><td>Istituti di sondaggio, UCC, Segreteria di Stato dell’economia</td></tr>
+<tr><td>Partecipanti all’esecuzione:</td><td>UCC, SECO</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
@@ -745,28 +745,28 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Prezzi alla produzione di beni e servizi per il mercato interno e l’esportazione; prezzi all’importazione, sconti, dati strutturali</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Prezzi alla produzione di beni e servizi per il mercato interno e l’esportazione; prezzi all’importazione, sconti, dati strutturali (quantità, cifre d’affari).</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione parziale, collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Amministrazione federale delle contribuzioni (AFC) e Amministrazione federale delle dogane (AFD)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Imprese e aziende private e pubbliche, organizzazioni economiche, servizi dell’Amministrazione, organizzazioni mantello</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Mensile</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>Organizzazioni economiche, servizi dell’Amministrazione, organizzazioni mantello, mandatari privati</td></tr>
-<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+<tr><td>Disposizioni speciali:</td><td>Gli interpellati che pubblicano i loro dati di vendita in Internet devono consentire all’UST di procurarseli automaticamente dal sito web.</td></tr>
 </table>
 
 ### 26. Indice nazionale dei prezzi al consumo e indice dei prezzi al consumo armonizzato
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Prezzi al consumo, sconti, dati strutturali e caratteristiche significative di beni e servizi importanti per le economie domestiche private</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Prezzi al consumo, sconti, dati strutturali (quantità, cifre d’affari) e caratteristiche significative di beni e servizi importanti per le economie domestiche private</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione parziale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Imprese e aziende private e pubbliche, servizi dell’Amministrazione, organizzazioni settoriali</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Mensile</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>Mandatari privati</td></tr>
-<tr><td>Disposizioni speciali:</td><td>Nel caso in cui i dati siano disponibili elettronicamente, gli interpellati sono tenuti a fornirli nella forma e quantità richieste.</td></tr>
+<tr><td>Disposizioni speciali:</td><td>Nel caso in cui i dati siano disponibili elettronicamente, gli interpellati sono tenuti a fornirli nella forma e quantità richieste. Gli interpellati che pubblicano i loro dati di vendita in Internet devono consentire all’UST di procurarseli automaticamente dal sito web.</td></tr>
 </table>
 
 ### 27. Indice delle pigioni
@@ -822,7 +822,7 @@ Allegato*[^t-2]*
 <tr><td>Oggetto della rilevazione:</td><td>Dati contabili, addetti</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale per le imprese con almeno 50 addetti e rilevazione campionaria rappresentativa per le piccole e medie imprese; collegamento con i dati del Registro delle imprese e degli stabilimenti (RIS)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Imprese/AFC</td></tr>
-<tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
+<tr><td>Obbligo d’informare:</td><td>Informazione facoltativa per le imprese / obbligatoria per l’AFC (imposta preventiva)</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Annuale</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>–</td></tr>
@@ -862,12 +862,12 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Redditi e sostanza delle economie domestiche private e dei loro membri, indicatori sulle condizioni di vita, sulla povertà e sull’esclusione sociale, altre caratteristiche sociodemografiche e socioeconomiche atte a determinare le condizioni di vita delle economie domestiche e dei loro membri, temi speciali; numero di assicurato AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di economie domestiche private, intervista telefonica, intervista personale e intervista complementare per scritto; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS), Statistica degli edifici e delle abitazioni (SEA), registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC]), registri fiscali cantonali e statistica dei beneficiari dell’aiuto sociale</td></tr>
-<tr><td>Fonte dei dati:</td><td>Persone viventi in un’economia domestica (intervista), autorità fiscali cantonali e comunali e UCC (rilevazioni dai registri)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di economie domestiche private, intervista telefonica, intervista personale e intervista complementare per scritto; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS), Statistica degli edifici e delle abitazioni (SEA), statistica delle nuove rendite (NRS), registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC] e Segreteria di Stato dell’economia [SECO]), registri fiscali cantonali e statistica dei beneficiari dell’aiuto sociale</td></tr>
+<tr><td>Fonte dei dati:</td><td>Persone viventi in un’economia domestica (intervista), autorità fiscali cantonali e comunali, UCC e SECO (rilevazioni dai registri)</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa per le persone viventi in un’economia domestica privata (intervista)</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Annuale</td></tr>
-<tr><td>Partecipanti all’esecuzione:</td><td>Istituti di sondaggio, autorità fiscali cantonali e comunali e UCC</td></tr>
+<tr><td>Partecipanti all’esecuzione:</td><td>Istituti di sondaggio, autorità fiscali cantonali e comunali, UCC e SECO</td></tr>
 <tr><td>Disposizioni speciali:</td><td>Per le persone e le economie domestiche private che partecipano all’indagine per più anni è consentito riutilizzare designazioni di persone e risposte fornite in occasione di interviste precedenti.</td></tr>
 </table>
 
@@ -1023,7 +1023,7 @@ Allegato*[^t-2]*
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Veicoli nuovi secondo diverse caratteristiche</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale</td></tr>
-<tr><td>Fonte dei dati:</td><td>Registro federale dei detentori di veicoli dell’Ufficio federale delle strade</td></tr>
+<tr><td>Fonte dei dati:</td><td>Sistema d’informazione sull’ammissione alla circolazione (SIAC) dell’Ufficio federale delle strade</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Mensile e annuale</td></tr>
@@ -1037,7 +1037,7 @@ Allegato*[^t-2]*
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Veicoli stradali immatricolati al 30 settembre secondo diverse caratteristiche</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale</td></tr>
-<tr><td>Fonte dei dati:</td><td>Registro federale dei detentori di veicoli dell’Ufficio federale delle strade</td></tr>
+<tr><td>Fonte dei dati:</td><td>Sistema d’informazione sull’ammissione alla circolazione (SIAC) dell’Ufficio federale delle strade</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Annuale</td></tr>
@@ -1084,7 +1084,7 @@ Allegato*[^t-2]*
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Permanente</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>Cantoni, Comuni, polizia militare, UST</td></tr>
-<tr><td>Disposizioni speciali:</td><td>Conformemente all’ordinanza del 14 aprile 2010 sul registro degli incidenti stradali (ORIStr; RS *741.57*), in particolare articoli 17 e 18</td></tr>
+<tr><td>Disposizioni speciali:</td><td>Conformemente all’ordinanza del 30 novembre 2018 concernente il sistema d’informazione sugli incidenti stradali (OSIStr; RS *741.57*), in particolare articoli 12 e 13</td></tr>
 </table>
 
 ### 51. Conto stradale
@@ -1119,7 +1119,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Consumo energetico, infrastruttura, forze lavoro, finanze, mezzi di trasporto, prestazioni chilometriche, volume di traffico e prestazioni di trasporto. Nel caso specifico del trasporto combinato di merci: infrastruttura, contributi d’investimento e indennità, prestazioni chilometriche, volume di traffico, prestazioni di trasporto.</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Consumo energetico, produzione di energia rinnovabile, infrastruttura, forze lavoro, finanze, mezzi di trasporto, prestazioni chilometriche, volume di traffico e prestazioni di trasporto. Nel caso specifico del trasporto combinato di merci: infrastruttura, contributi d’investimento e indennità, prestazioni chilometriche, volume di traffico, prestazioni di trasporto.</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale; Trasporto combinato di merci: rilevazione parziale, combinazione di dati e statistiche per modo di trasporto</td></tr>
 <tr><td>Fonte dei dati:</td><td>1. Titolari di concessioni e di autorizzazioni federali per il trasporto di persone, titolari di concessioni per l’infrastruttura ferroviaria e titolari di autorizzazioni per l’accesso alla rete per: – il trasporto di viaggiatori, – il trasporto di merci, – la costruzione e l’esercizio dell’infrastruttura ferroviaria. 2. Imprese di trasporto ferroviarie, di trasporto stradale e di navigazione che operano in Svizzera in virtù di un accordo internazionale o attive nel traffico transfrontaliero. 3. Gestore di impianti di trasbordo (solo per la parte di trasporto combinato di merci)</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -1381,10 +1381,10 @@ Allegato*[^t-2]*
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Semestrale per gli studenti, annuale per gli esami</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>Conferenza svizzera dei rettori delle scuole universitarie (swissuniversities), Conferenza svizzera dei direttori cantonali della pubblica educazione (CDPE), Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI)</td></tr>
-<tr><td>Disposizioni speciali:</td><td>Con l’accordo degli interessati, alcune informazioni possono essere utilizzate per determinati scopi amministrativi. In virtù dell’articolo 10 capoverso 3<sup>ter</sup> LStat, i Cantoni e le scuole universitarie possono ottenere dal Registro svizzero degli studenti, per ogni persona immatricolata e per il semestre in questione, le informazioni seguenti: numero di matricola; numero di assicurato AVS; scuola universitaria; semestre di studio; categoria; livello e indirizzo degli studi; data, livello e indirizzo dell’ultimo esame superato; indicazione se si tratta del primo o del secondo studio; numero totale di semestri assolti in Svizzera nell’indirizzo di studi scelto; domicilio al momento dell’ottenimento del titolo di ammissione agli studi universitari; genere, luogo e anno di ottenimento del titolo di ammissione agli studi universitari; data di nascita e sesso dello studente. I risultati sono pubblicati per scuola universitaria. I dati possono essere conservati in forma pseudonimizzata per oltre 30 anni.</td></tr>
+<tr><td>Disposizioni speciali:</td><td>Con l’accordo degli interessati, alcune informazioni possono essere utilizzate per determinati scopi amministrativi. In virtù dell’articolo 10 capoverso 3<sup>ter</sup> LStat, i Cantoni e le scuole universitarie possono ottenere dal Registro svizzero degli studenti, per ogni persona immatricolata e per il semestre in questione, le informazioni seguenti: numero di matricola; numero di assicurato AVS; scuola universitaria; semestre di studio; categoria; livello e indirizzo degli studi; data, livello e indirizzo dell’ultimo esame superato; indicazione se si tratta del primo o del secondo studio; numero totale di semestri assolti in Svizzera nell’indirizzo di studi scelto; domicilio al momento dell’ottenimento del titolo di ammissione agli studi universitari; genere, luogo e anno di ottenimento del titolo di ammissione agli studi universitari; nazionalità, data di nascita e sesso dello studente, equivalenti a tempo pieno degli studenti. I risultati sono pubblicati per scuola universitaria. I dati possono essere conservati in forma pseudonimizzata per oltre 30 anni.</td></tr>
 </table>
 
-### 73. Rilevazione tra i diplomati delle scuole universitarie
+### 73. Rilevazione tra le persone diplomate delle scuole universitarie
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
@@ -1402,7 +1402,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Studi attuali, percorso anteriore, attività professionale, situazione finanziaria, situazione abitativa, mobilità, dati sociodemografici; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Studi attuali, monte ore, attività professionale, situazione finanziaria, situazione abitativa, mobilità, salute, dati sociodemografici; numero di assicurato AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di studenti, collegamento con i dati degli studenti delle scuole universitarie in Svizzera SIUS</td></tr>
 <tr><td>Fonte dei dati:</td><td>Studenti delle scuole universitarie</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
@@ -1701,9 +1701,9 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Caratteristiche di cui all’articolo 6 capoverso 2 lettera a della legge del 22 giugno 2007 sul censimento (RS *431.112*) e del programma di rilevazione di cui all’articolo 9 dell’ordinanza del 19 dicembre 2008 sul censimento (RS *431.112.1*); numero di assicurato AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di 200 000 persone; indagine scritta in forma cartacea o elettronica; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro federale degli edifici e delle abitazioni (REA), Registro delle imprese e degli stabilimenti (RIS), lista dei membri della Chiesa cattolico-cristiana</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di 200 000 persone; indagine scritta in forma cartacea o elettronica; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro federale degli edifici e delle abitazioni (REA), Registro delle imprese e degli stabilimenti (RIS), casse di compensazione AVS, lista dei membri della Chiesa cattolico-cristiana</td></tr>
 <tr><td>Possibilità di ampliamento:</td><td>Conformemente agli articoli 21 e 30 dell’ordinanza sul censimento</td></tr>
-<tr><td>Fonte dei dati:</td><td>Persone di 15 e più anni viventi in un’economia domestica di tipo privato nonché registri federali, cantonali e comunali</td></tr>
+<tr><td>Fonte dei dati:</td><td>Persone di 15 e più anni viventi in un’economia domestica di tipo privato nonché registri federali, cantonali e comunali, casse di compensazione AVS</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>Dicembre–marzo</td></tr>
 <tr><td>Periodicità:</td><td>Annuale con giorno di riferimento 31 dicembre</td></tr>
@@ -1746,11 +1746,11 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, percorsi formativi, formazione più elevata conclusa, attività formative, determinanti della formazione, effetti della formazione e del perfezionamento professionale; numero di assicurato AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di circa 10 000 persone; intervista telefonica assistita da computer, completabile con un’intervista personale assistita da computer e un’intervista scritta; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS), registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC])</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di circa 10 000 persone; modalità mista CAWI (questionario online) e CATI (intervista telefonica); collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS), registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC] e Segreteria di Stato dell’economia [SECO])</td></tr>
 <tr><td>Possibilità di ampliamento:</td><td>A livello cantonale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone dai 15 anni d’età</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
-<tr><td>Data della rilevazione:</td><td>Gennaio–dicembre</td></tr>
+<tr><td>Data della rilevazione:</td><td>Aprile–ottobre</td></tr>
 <tr><td>Periodicità:</td><td>Ogni cinque anni a partire dal 2011</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>Istituti di sondaggio</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
@@ -1761,7 +1761,7 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, genitori, vita lavorativa e familiare, rete familiare e prestazioni delle famiglie; numero di assicurato AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di circa 10 000 persone; intervista telefonica assistita da computer, completabile con un’intervista personale assistita da computer e un’indagine scritta; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di circa 10 000 persone; modalità mista CAWI (questionario online) e CATI (intervista telefonica); collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS) e registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC])</td></tr>
 <tr><td>Possibilità di ampliamento:</td><td>A livello cantonale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone di 15 e più anni viventi in un’economia domestica privata; Comuni, Cantoni e servizi federali</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
@@ -2416,7 +2416,7 @@ Allegato*[^t-2]*
 ### 154. Analisi centralizzata di dati contabili e ambientali delle aziende agricole
 
 <table>
-<tr><td>Organo di rilevazione:</td><td>Ufficio federale dell’agricoltura (Agroscope, Istituto delle scienze della sostenibilità ISS)</td></tr>
+<tr><td>Organo di rilevazione:</td><td>Ufficio federale dell’agricoltura (Agroscope)</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Risultati contabili, dati per il calcolo di indicatori agroecologici e informazioni supplementari di aziende agricole</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione casuale (campione per la situazione reddituale), rilevazione parziale (campioni per la conduzione aziendale e gli indicatori agroecologici ai sensi dell’articolo 9 capoverso 1 dell’ordinanza del 7 dicembre 1998 concernente l’analisi della sostenibilità in agricoltura (RS *919.118*)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Aziende agricole</td></tr>
@@ -2613,17 +2613,17 @@ Allegato*[^t-2]*
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
-### 171. Cifre d’affari del commercio al dettaglio, rilevazione congiunturale
+### 171. Statistica delle cifre d’affari del commercio al dettaglio
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Cifre d’affari nominali e indicatori dell’andamento degli affari del commercio al dettaglio secondo l’attività economica e il gruppo di prodotti</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione su un campione rappresentativo</td></tr>
-<tr><td>Fonte dei dati:</td><td>Imprese e aziende del commercio al dettaglio</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria, rilevazione totale presso le grandi imprese; collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Amministrazione federale delle contribuzioni (IVA), Amministrazione federale delle dogane</td></tr>
+<tr><td>Fonte dei dati:</td><td>Imprese, organizzazioni economiche</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Mensile</td></tr>
-<tr><td>Partecipanti all’esecuzione:</td><td>Centro di ricerca congiunturale (KOF) del PF di Zurigo</td></tr>
+<tr><td>Partecipanti all’esecuzione:</td><td>Organizzazioni economiche, Centro di ricerca congiunturale (KOF) del PF di Zurigo</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
@@ -2697,16 +2697,16 @@ Allegato*[^t-2]*
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
-### 177. Statistica delle cifre d’affari degli «Altri servizi»
+### 177. Statistica delle cifre d’affari dei servizi
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Dati riguardanti le cifre d’affari o variabile alternativa delle seguenti attività: – commercio, manutenzione e riparazione di veicoli a motore – commercio all’ingrosso, escluso quello di veicoli a motore – trasporto e magazzinaggio – servizi di alloggio e ristorazione – servizi d’informazione e comunicazione – attività come libero professionista, scientifiche e tecniche</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Dati riguardanti le cifre d’affari o variabile alternativa delle seguenti attività: – commercio, manutenzione e riparazione di veicoli a motore – commercio all’ingrosso, escluso quello di veicoli a motore – trasporto e magazzinaggio – servizi di alloggio e ristorazione – servizi d’informazione e comunicazione – attività immobiliari – attività come libero professionista, scientifiche e tecniche – attività amministrative e di servizi di supporto</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria, rilevazione totale presso le grandi imprese; collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Amministrazione federale delle contribuzioni (IVA), Amministrazione federale delle dogane</td></tr>
 <tr><td>Fonte dei dati:</td><td>Imprese, organizzazioni economiche</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
-<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
+<tr><td>Periodicità:</td><td>Mensile</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>Organizzazioni economiche</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
@@ -2789,7 +2789,7 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Fusione dei dati personali pseudonimizzati nel campo della formazione con i dati sulle persone e sulle economie domestiche provenienti dal censimento della popolazione basato sui registri nonché dal registro delle assicurazioni sociali, per rilevare i percorsi all’interno del sistema di formazione e tra quest’ultimo e il mercato del lavoro</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Elaborazione secondaria; collegamento di dati provenienti dalle seguenti fonti: persone in formazione, titoli di studio, studenti delle scuole universitarie in Svizzera SIUS, borse di studio e prestiti, personale degli istituti scolastici, personale delle scuole universitarie in Svizzera, statistica della popolazione e delle economie domestiche (STATPOP), statistica del movimento naturale della popolazione,rilevazione strutturale, registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC]) e Segreteria di Stato dell’economia (SECO)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Elaborazione secondaria; collegamento di dati provenienti dalle seguenti fonti: persone in formazione, titoli di studio, studenti delle scuole universitarie in Svizzera SIUS, borse di studio e prestiti, personale degli istituti scolastici, personale delle scuole universitarie in Svizzera, statistica della popolazione e delle economie domestiche (STATPOP), statistica del movimento naturale della popolazione,rilevazione strutturale, registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC] e Segreteria di Stato dell’economia [SECO]), statistica strutturale delle imprese (STATENT)</td></tr>
 <tr><td>Fonte dei dati:</td><td>UCC, SECO</td></tr>
 <tr><td>Obbligo d’informare:</td><td>–</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -2921,11 +2921,11 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Dati aziendali e finanziari dei fornitori di servizi, caratteristiche sociodemografiche e dati sulla formazione e le attività del personale sanitario; caratteristiche sociodemografiche e dati sulla morbilità e le prestazioni di pazienti e clienti dei fornitori di servizi.</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Collegamento di dati individuali provenienti dalle seguenti fonti: statistica ospedaliera, statistica medica degli stabilimenti ospedalieri, rilevazione dei dati dei pazienti di ospedali e case per partorienti, rilevazione dei dati strutturali degli studi medici e dei centri ambulatoriali, statistica degli stabilimenti medico-sociali, statistica dell’aiuto e delle cure a domicilio, statistica dei costi economici per caso diagnosticato, rilevazione dei dati strutturali e dei pazienti dei fornitori di prestazioni ambulatoriali, casi di decesso secondo la statistica del movimento naturale della popolazione</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Collegamento di dati individuali provenienti dalle seguenti fonti: statistica ospedaliera, statistica medica degli stabilimenti ospedalieri, rilevazione dei dati dei pazienti di ospedali e case per partorienti, rilevazione dei dati strutturali degli studi medici e dei centri ambulatoriali, statistica degli stabilimenti medico-sociali, statistica dell’aiuto e delle cure a domicilio, statistica dei costi economici per caso diagnosticato, rilevazione dei dati strutturali e dei pazienti dei fornitori di prestazioni ambulatoriali, casi di decesso secondo la statistica del movimento naturale della popolazione; utilizzo longitudinale dei dati</td></tr>
 <tr><td>Fonte dei dati:</td><td>–</td></tr>
 <tr><td>Obbligo d’informare:</td><td>–</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
-<tr><td>Periodicità:</td><td>Annuale</td></tr>
+<tr><td>Periodicità:</td><td>Permanente</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>–</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
@@ -3005,13 +3005,13 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Formazione, soddisfazione per la formazione, finanziamento della formazione, ricerca di un impiego al termine della formazione, iter professionale considerando in particolare la situazione a uno e a cinque anni dal termine della formazione / dal conseguimento del diploma, formazione continua e andamento della carriera professionale nel corso degli anni, dati sociodemografici, numero di assicurato AVS</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, panel, collegamento con i dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle aziende e degli stabilimenti (RIS) e varie rilevazioni nell’ambito della formazione (persone in formazione, diplomate, file SIUS degli studenti delle scuole universitarie in Svizzera, borse e prestiti)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, panel, collegamento con i dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle aziende e degli stabilimenti (RIS) e varie rilevazioni nell’ambito della formazione (persone in formazione, diplomate, file SIUS degli studenti delle scuole universitarie in Svizzera, borse e prestiti), registro delle assicurazioni sociali (Ufficio centrale di compensazione [UCC])</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone candidate agli esami federali e delle scuole specializzate superiori (SSS) e persone diplomate</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
 <tr><td>Data della rilevazione:</td><td>Prima rilevazione: un anno dopo il termine della formazione Seconda rilevazione: cinque anni dopo il termine della formazione</td></tr>
 <tr><td>Periodicità:</td><td>Biennale</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI), scuole specializzate superiori (SSS), istituti di sondaggio</td></tr>
-<tr><td>Disposizioni speciali:</td><td>I dati di contatto necessari all’indagine (indirizzi e-mail delle persone diplomate dell’anno in esame) possono essere ottenute dalle istituzioni di formazione e dalla Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI).</td></tr>
+<tr><td>Disposizioni speciali:</td><td>I dati di contatto necessari all’indagine (indirizzi e-mail delle persone diplomate dell’anno in esame) possono essere ottenuti dalle istituzioni di formazione e dalla Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI).</td></tr>
 </table>
 
 ### 202. Statistica dei vettori energetici degli edifici abitativi (SETW)
@@ -3148,9 +3148,37 @@ Allegato*[^t-2]*
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo; intervista personale assistita da computer; collegamento con dati dalle fonti seguenti: statistica della popolazione e delle economie domestiche (STATPOP), registro delle imprese e degli stabilimenti (RIS), registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC])</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone residenti di almeno 15 anni</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
-<tr><td>Data della rilevazione:</td><td>Da settembre 2021 a ottobre 2022</td></tr>
-<tr><td>Periodicità:</td><td>2021–2022</td></tr>
+<tr><td>Data della rilevazione:</td><td>Da settembre 2022 a ottobre 2023</td></tr>
+<tr><td>Periodicità:</td><td>2022–2023</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>Istituti di sondaggio</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+### 212. Set di dati per le analisi sul sistema della sicurezza sociale
+
+<table>
+<tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Unificazione dei dati personali pseudonimizzati nell’ambito dei sistemi della sicurezza sociale al fine di misurare i cambiamenti e i percorsi tra i principali sistemi delle assicurazioni sociali, come pure tra i sistemi sociali e il mercato del lavoro</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Analisi secondaria, collegamento di dati provenienti dalle seguenti fonti: statistica dei beneficiari dell’aiuto sociale, registri delle assicurazioni sociali (Ufficio federale delle assicurazioni sociali [UFAS], Ufficio centrale di compensazione [UCC]), registro dell’assicurazione contro la disoccupazione (Segreteria di Stato dell’economia [SECO]), statistica della popolazione e delle economie domestiche (STATPOP), statistica degli esami finali e rilevazione strutturale</td></tr>
+<tr><td>Fonte dei dati:</td><td>UCC, SECO, UFAS (rilevazioni dai registri)</td></tr>
+<tr><td>Obbligo d’informare:</td><td>–</td></tr>
+<tr><td>Data della rilevazione:</td><td>–</td></tr>
+<tr><td>Periodicità:</td><td>Annuale</td></tr>
+<tr><td>Partecipanti all’esecuzione:</td><td>UCC, SECO, UFAS</td></tr>
+<tr><td>Disposizioni speciali:</td><td>I dati possono essere conservati per oltre 30 anni in forma pseudonimizzata.</td></tr>
+</table>
+
+### 213. Statistica svizzera delle superfici per l’avvicendamento delle colture
+
+<table>
+<tr><td>Organo di rilevazione:</td><td>Ufficio federale dello sviluppo territoriale</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Set di geodati di base ID 68 «Superfici per l’avvicendamento delle colture», contenuti conformi al modello di geodati minimi</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, download dal geoportale della Confederazione</td></tr>
+<tr><td>Fonte dei dati:</td><td>Servizi cantonali per la pianificazione del territorio / Servizi cantonali per la geoinformazione</td></tr>
+<tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
+<tr><td>Data della rilevazione:</td><td>La prima volta nel 2023</td></tr>
+<tr><td>Periodicità:</td><td>Ogni quattro anni</td></tr>
+<tr><td>Partecipanti all’esecuzione:</td><td>–</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
@@ -3290,7 +3318,7 @@ Entrata in vigore
 - 70\. Esami finali
 - 71\. Personale degli istituti scolastici
 - 72\. Schedario degli studenti del SIUS (Sistema d’informazione universitaria svizzera)
-- 73\. Rilevazione tra i diplomati delle scuole universitarie
+- 73\. Rilevazione tra le persone diplomate delle scuole universitarie
 - 74\. Indagine sulla situazione socio-economica degli studenti
 - 75\. Borse e prestiti di studio
 - 76\. Personale delle scuole universitarie in Svizzera
@@ -3388,13 +3416,13 @@ Entrata in vigore
 - 168\. *Abrogata*
 - 169\. *Abrogata*
 - 170\. Indagini sulla congiuntura, sugli investimenti e sull’innovazione
-- 171\. Cifre d’affari del commercio al dettaglio, rilevazione congiunturale
+- 171\. Statistica delle cifre d’affari del commercio al dettaglio
 - 172\. Indagine sulle interrelazioni tra uomo, spazio, paesaggio e natura
 - 173\. Statistiche sul finanziamento della cultura
 - 174\. Elezioni comunali
 - 175\. Statistica della produzione, delle ordinazioni e delle cifre d’affari nel settore delle costruzioni
 - 176\. Statistica della produzione, delle ordinazioni e delle cifre d’affari dell’industria
-- 177\. Statistica delle cifre d’affari degli «Altri servizi»
+- 177\. Statistica delle cifre d’affari dei servizi
 - 178\. Censimento svizzero automatico del traffico stradale (CSATS)
 - 179\. *Abrogata*
 - 180\. Trasporto merci con autofurgoni
@@ -3427,5 +3455,7 @@ Entrata in vigore
 - 207\. Statistica degli assegni familiari
 - 208\. Statistica dei redditi AVS
 - 209\. Statistiche delle professioni mediche
-- [tab] 210. Statistica svizzera dei monumenti
-- [tab] 211. Rilevazione «Valutazione delle competenze di base degli adulti (Programme for the International Assessment of Adult Competencies, PIAAC)»
+- 210\. Statistica svizzera dei monumenti
+- 211\. Rilevazione «Valutazione delle competenze di base degli adulti (Programme for the International Assessment of Adult Competencies, PIAAC)»
+- 212\. Set di dati per le analisi sul sistema della sicurezza sociale
+- 213\. Statistica svizzera delle superfici per l’avvicendamento delle colture

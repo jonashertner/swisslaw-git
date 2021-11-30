@@ -3,11 +3,11 @@ sr: "431.012.1"
 title: "Ordonnance du 30 juin 1993 concernant l'exécution des relevés statistiques fédéraux (Ordonnance sur les relevés statistiques)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100"
 language: fr
-version: 2020-02-01
+version: 2021-12-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20200201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20211201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20200201/fr"
 
 (Ordonnance sur les relevés statistiques)**[^t-1]**
 
-du 30 juin 1993 (Etat le 1<sup>er</sup> février 2020)
+du 30 juin 1993 (Etat le 1<sup>er</sup> décembre 2021)
 
 [^t-1]: Introduit par le ch. I de l’O du 16 janv. 2008, en vigueur depuis le 10 fév. 2008 ([RO 2008 315](https://fedlex.data.admin.ch/eli/oc/2008/79)).
 
@@ -434,7 +434,7 @@ Annexe*[^t-2]*
 
 ## Liste des statistiques
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009 ([RO 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Mise à jour selon le ch. II de l’O du 18 août 2010 ([RO 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), le ch. I des O du 14 avr. 2010, ([RO 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), du 24 août 2011 ([RO 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), du 12 oct. 2011 ([RO 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), le ch. I de l’O du 29 août 2012 ([RO 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), le ch. II de l’O du 18 déc. 2013 ([RO 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), le ch. I des O du 29 oct. 2014 ([RO 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), du 28 oct. 2015 ([RO 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), du 16 nov. 2016 ([RO 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), l’annexe 2 ch. II 1 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), l’annexe 2 ch. 1 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), le ch. I de l’O du 7 nov. 2018 ([RO 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)) et le ch. I de l’O du 13 déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009 ([RO 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Mise à jour selon le ch. II de l’O du 18 août 2010 ([RO 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), le ch. I des O du 14 avr. 2010, ([RO 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), du 24 août 2011 ([RO 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), du 12 oct. 2011 ([RO 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), le ch. I de l’O du 29 août 2012 ([RO 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), le ch. II de l’O du 18 déc. 2013 ([RO 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), le ch. I des O du 29 oct. 2014 ([RO 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), du 28 oct. 2015 ([RO 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), du 16 nov. 2016 ([RO 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), l’annexe 2 ch. II 1 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), l’annexe 2 ch. 1 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), le ch. I des O du 7 nov. 2018 ([RO 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), du 13 déc. 2019 ([RO 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)) et du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)).
 
 ### 1. *Abrogée*
 
@@ -571,12 +571,12 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>synthèse entre les données pseudonymisées sur les personnes et les ménages tirées du recensement de la population fondé sur les registres et les événements d’état civil selon la statistique du mouvement naturel de la population</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>exploitation secondaire; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), statistique des événements d’état civil selon la statistique du mouvement naturel de la population</td></tr>
+<tr><td>Objet de l’enquête:</td><td>synthèse entre les données pseudonymisées sur les personnes, les ménages, les bâtiments et les logements tirées du recensement de la population fondé sur les registres, les données anonymisées sur les personnes et les ménages tirées des recensements de la population 1990 et 2000, les données pseudonymisées de la statistique de la population résidante de nationalité étrangère de 1995 à 2010 (PETRA) et les événements d’état civil selon la statistique du mouvement naturel de la population avec l’objectif de pouvoir faire des analyses de cohortes</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>exploitation secondaire; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), enquête structurelle, statistique des bâtiments et des logements (StatBL), statistique des événements d’état civil selon la statistique du mouvement naturel de la population, recensements de la population 1990 et 2000, statistique de la population résidante de nationalité étrangère de 1995 à 2010 (PETRA), registres de la Centrale de compensation (CdC)</td></tr>
 <tr><td>Milieux interrogés:</td><td>–</td></tr>
 <tr><td>Renseignement:</td><td>–</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
-<tr><td>Périodicité:</td><td>annuelle et tous les dix ans</td></tr>
+<tr><td>Périodicité:</td><td>annuelle</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>–</td></tr>
 <tr><td>Dispositions particulières:</td><td>Les données peuvent être conservées pendant plus de 30 ans sous une forme pseudonymisée.</td></tr>
 </table>
@@ -587,7 +587,7 @@ Annexe*[^t-2]*
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>noms des communes politiques (avec le numéro de la commune), appartenance par canton et district. Nouvelles communes politiques, communes politiques ayant disparu</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
-<tr><td>Milieux interrogés:</td><td>Direction des mensurations cadastrales</td></tr>
+<tr><td>Milieux interrogés:</td><td>Direction fédérale des mensurations cadastrales</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>permanente</td></tr>
@@ -630,12 +630,12 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>statut sur le marché du travail, indicateurs de la population active, recherche d’emploi, formation continue, travail non rémunéré, migrations et autres caractères socio-démographiques et économiques permettant de définir les conditions de vie d’une personne donnée et des membres de son ménage, revenus soumis à l’AVS/AI, rentes AVS/AI et autres prestations des assurances sociales; numéro d’assuré AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>appariement de données provenant des sources suivantes: enquête suisse sur la population active (ESPA), registres des assurances sociales</td></tr>
-<tr><td>Milieux interrogés:</td><td>personnes dans les ménages privés (enquête), Centrale de compensation (CdC), Secrétariat d’État à l’économie (relevés fondés sur les registres)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>appariement de données provenant des sources suivantes: enquête suisse sur la population active (ESPA), registres des assurances sociales (Centrale de compensation [CdC] et Secrétariat d’État à l’économie [SECO]),</td></tr>
+<tr><td>Milieux interrogés:</td><td>CdC, SECO (relevés fondés sur les registres)</td></tr>
 <tr><td>Renseignement:</td><td>–</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>annuelle</td></tr>
-<tr><td>Milieux participant à l’enquête:</td><td>instituts de sondage, CdC, Secrétariat d’État à l’économie</td></tr>
+<tr><td>Milieux participant à l’enquête:</td><td>CdC, SECO</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
@@ -742,28 +742,28 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>prix à la production des biens et services pour le marché intérieur et l’exportation; prix à l’importation, rabais, données structurelles</td></tr>
+<tr><td>Objet de l’enquête:</td><td>prix à la production des biens et services pour le marché intérieur et l’exportation; prix à l’importation, rabais, données structurelles (quantités, chiffres d’affaires)</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête partielle; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Administration fédérale des contributions (AFC) et Administration fédérale des douanes (AFD)</td></tr>
 <tr><td>Milieux interrogés:</td><td>entreprises et établissements privés et publics, organisations économiques, services administratifs, organisations faîtières</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>mensuelle</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>organisations économiques, services administratifs, organisations faîtières, mandataires privés</td></tr>
-<tr><td>Dispositions particulières:</td><td>–</td></tr>
+<tr><td>Dispositions particulières:</td><td>Les milieux interrogés qui publient leurs données de vente sur Internet doivent permettre à l’OFS de les extraire automatiquement de leur site Web.</td></tr>
 </table>
 
 ### 26. Indice suisse des prix à la consommation et indice des prix à la consommation harmonisé
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>prix à la consommation, rabais, données structurelles et caractéristiques significatives des biens et services qui sont importants pour les ménages privés</td></tr>
+<tr><td>Objet de l’enquête:</td><td>prix à la consommation, rabais, données structurelles (quantités, chiffres d’affaires) et caractéristiques significatives des biens et services qui sont importants pour les ménages privés</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête partielle</td></tr>
-<tr><td>Milieux interrogés</td><td>entreprises et établissements privés et publics, services administratifs, organisations faîtières</td></tr>
-<tr><td>Renseignement</td><td>obligatoire</td></tr>
-<tr><td>Date de l’enquête</td><td>–</td></tr>
-<tr><td>Périodicité</td><td>mensuelle</td></tr>
+<tr><td>Milieux interrogés:</td><td>entreprises et établissements privés et publics, services administratifs, organisations faîtières</td></tr>
+<tr><td>Renseignement:</td><td>obligatoire</td></tr>
+<tr><td>Date de l’enquête:</td><td>–</td></tr>
+<tr><td>Périodicité:</td><td>mensuelle</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>mandataires privés</td></tr>
-<tr><td>Dispositions particulières:</td><td>si les prix de vente sont disponibles sous forme électronique, les milieux interrogés sont tenus de les fournir sous la forme et dans la quantité requises</td></tr>
+<tr><td>Dispositions particulières:</td><td>si les prix de vente sont disponibles sous forme électronique, les milieux interrogés sont tenus de les fournir sous la forme et dans la quantité requises. Les milieux interrogés qui publient leurs données de vente sur Internet doivent permettre à l’OFS de les extraire automatiquement de leur site Web.</td></tr>
 </table>
 
 ### 27. Indice des loyers
@@ -819,7 +819,7 @@ Annexe*[^t-2]*
 <tr><td>Objet de l’enquête:</td><td>données comptables, personnes occupées</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive à partir de 50 emplois et sondage représentatif pour les PME; appariement avec des données du Registre des entreprises et des établissements (REE)</td></tr>
 <tr><td>Milieux interrogés:</td><td>entreprises/AFC</td></tr>
-<tr><td>Renseignement:</td><td>facultatif</td></tr>
+<tr><td>Renseignement:</td><td>facultatif pour les entreprises / obligatoire pour l’AFC (impôt anticipé)</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>annuelle</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>–</td></tr>
@@ -859,12 +859,12 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>revenus et fortune des ménages privés et de leurs membres, indicateurs des conditions de vie, de la pauvreté et de l’exclusion sociale, autres caractères socio-démographiques et socio-économiques permettant d’évaluer la situation des ménages et de leurs membres, thèmes spéciaux; numéro d’assuré AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif de ménages privés, enquête téléphonique, enquête en face à face et enquête complémentaire écrite; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE), Statistique des bâtiments et des logements (StatBL), registres des assurances sociales (Centrale de compensation, CdC), registres fiscaux cantonaux et statistique des bénéficiaires de l’aide sociale</td></tr>
-<tr><td>Milieux interrogés:</td><td>personnes vivant dans un ménage privé (enquête), autorités fiscales cantonales et communales et CdC (relevés fondés sur les registres)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif de ménages privés, enquête téléphonique, enquête en face à face et enquête complémentaire écrite; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE), Statistique des bâtiments et des logements (StatBL), Statistique des nouvelles rentes (NRS), registres des assurances sociales (Centrale de compensation, [CdC] et Secrétariat d’État à l’économie [SECO]), registres fiscaux cantonaux et statistique des bénéficiaires de l’aide sociale</td></tr>
+<tr><td>Milieux interrogés:</td><td>personnes vivant dans un ménage privé (enquête), autorités fiscales cantonales et communales, CdC et SECO (relevés fondés sur les registres)</td></tr>
 <tr><td>Renseignement:</td><td>facultatif pour les personnes vivant dans un ménage privé (enquête)</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>annuelle</td></tr>
-<tr><td>Milieux participant à l’enquête:</td><td>instituts de sondage, autorités fiscales cantonales et communales et CdC</td></tr>
+<tr><td>Milieux participant à l’enquête:</td><td>instituts de sondage, autorités fiscales cantonales et communales, CdC et SECO</td></tr>
 <tr><td>Dispositions particulières:</td><td>pour les personnes et les ménages qui participent à l’enquête plusieurs années de suite, la réutilisation des éléments d’identification et des réponses fournies lors d’une interview précédente est autorisée.</td></tr>
 </table>
 
@@ -1020,7 +1020,7 @@ Annexe*[^t-2]*
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>véhicules neufs selon différentes caractéristiques</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
-<tr><td>Milieux interrogés:</td><td>registre automatisé des véhicules et des détenteurs de véhicules de l’Office fédéral des routes</td></tr>
+<tr><td>Milieux interrogés:</td><td>Système d’information relatif à l’admission à la circulation (SIAC) de l’Office fédéral des routes</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>mensuelle et annuelle</td></tr>
@@ -1034,7 +1034,7 @@ Annexe*[^t-2]*
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>véhicules routiers immatriculés au 30 septembre selon différentes caractéristiques</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
-<tr><td>Milieux interrogés:</td><td>registre automatisé des véhicules et des détenteurs de véhicules de l’Office fédéral des routes</td></tr>
+<tr><td>Milieux interrogés:</td><td>Système d’information relatif à l’admission à la circulation (SIAC) de l’Office fédéral des routes</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>annuelle</td></tr>
@@ -1047,7 +1047,7 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>véhicules de transport de choses lourds immatriculés en Suisse, prestations (kilomètres), quantité transportée (tonnes) et nature des marchandises, type de fret, genre de trafic, lieux de chargement et de déchargement, courses à vide</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête par échantillonnage (questionnaire papier ou électronique); appariement avec des données provenant des sources suivantes: système d’information relatif à l’admission à la circulation (registre SIAC) de l’Office fédéral des routes, données de la RPLP de l’Administration fédérale des douanes</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête par échantillonnage (questionnaire papier ou électronique); appariement avec des données provenant des sources suivantes: système d’information relatif à l’admission à la circulation (SIAC) de l’Office fédéral des routes, données de la RPLP de l’Administration fédérale des douanes</td></tr>
 <tr><td>Milieux interrogés:</td><td>détenteurs de véhicules de transport de choses lourds immatriculés en Suisse</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>périodes de référence réparties sur l’année</td></tr>
@@ -1081,7 +1081,7 @@ Annexe*[^t-2]*
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>permanente</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>cantons, communes, police militaire, OFS</td></tr>
-<tr><td>Dispositions particulières:</td><td>en vertu de l’ordonnance du 14 avril 2010 sur le registre des accidents de la route (ORAR; RS *741.57*), notamment les art. 17 et 18</td></tr>
+<tr><td>Dispositions particulières:</td><td>en vertu de l’ordonnance du 30 novembre 2018 sur le système d’information relatif aux accidents de la route (OSAR; RS *741.57)*, notamment les art. 12 et 13</td></tr>
 </table>
 
 ### 51. Compte routier
@@ -1116,7 +1116,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>consommation d’énergie, infrastructures, employés, finances, moyens de transport, prestations kilométriques, volume du trafic et prestations de transport; spécifiquement pour le transport de marchandises combiné: infrastructures, contributions pour investissements et indemnités, prestations kilométriques, volume du trafic, prestations de transport</td></tr>
+<tr><td>Objet de l’enquête:</td><td>consommation d’énergie, production d’énergie renouvelable, infrastructures, employés, finances, moyens de transport, prestations kilométriques, volume du trafic et prestations de transport; spécifiquement pour le transport de marchandises combiné: infrastructures, contributions pour investissements et indemnités, prestations kilométriques, volume du trafic, prestations de transport</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive; transport de marchandises combiné: enquête partielle, combinaison de données et statistiques par mode de transport</td></tr>
 <tr><td>Milieux interrogés:</td><td>1. détenteurs de concessions et d’autorisations fédérales pour le transport de personnes, de concessions pour les infrastructures ferroviaires et d’autorisations d’accès au réseau pour: – le transport de personnes – le transport de marchandises – la construction et l’exploitation d’infrastructures ferroviaires 2. entreprises de transport ferroviaire, entreprises de transport routier et entreprises de navigation opérant en Suisse sur la base d’une convention internationale ou actives dans le transport frontalier 3. exploitants d’installations de transbordement (transport de marchandises combiné uniquement)</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -1378,8 +1378,8 @@ Annexe*[^t-2]*
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>semestrielle pour les étudiants, annuelle pour les examens</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>Conférence des recteurs des hautes écoles suisses (swissuniversities), Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP), Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI)</td></tr>
-<tr><td>Dispositions particulières:</td><td>avec l’accord des intéressés, il est possible d’utiliser certaines informations dans certains buts administratifs. En vertu de l’art. 10, al. 3<sup>ter</sup>, LSF, les cantons et les hautes écoles peuvent obtenir à partir du Fichier suisse des étudiants, pour chaque personne immatriculée, pour le semestre concerné, les informations suivantes:</td></tr>
-<tr><td></td><td>numéro matricule suisse; numéro d’assuré AVS; haute école; semestre d’études; catégorie, niveau et filière d’études; date, niveau et filière du dernier examen réussi; indication de la voie d’études (première ou deuxième); nombre total de semestres d’études en Suisse dans la filière d’études choisie; domicile au moment de l’obtention du titre donnant accès aux études universitaires; type, lieu et date d’obtention du titre donnant accès aux études universitaires; date de naissance et sexe de l’étudiant les résultats sont publiés par haute école les données peuvent être conservées pendant plus de 30 ans sous une forme pseudonymisée</td></tr>
+<tr><td>Dispositions particulières:</td><td>Avec l’accord des intéressés, il est possible d’utiliser certaines informations dans certains buts administratifs. En vertu de l’art. 10, al. 3<sup>ter</sup>, LSF, les cantons et les hautes écoles peuvent obtenir à partir du Fichier suisse des étudiants, pour chaque personne immatriculée, pour le semestre concerné, les informations suivantes:</td></tr>
+<tr><td></td><td>numéro matricule suisse; numéro d’assuré AVS; haute école; semestre d’études; catégorie, niveau et filière d’études; date, niveau et filière du dernier examen réussi; indication de la voie d’études (première ou deuxième); nombre total de semestres d’études en Suisse dans la filière d’études choisie; domicile au moment de l’obtention du titre donnant accès aux études universitaires; type, lieu et date d’obtention du titre donnant accès aux études universitaires; nationalité, date de naissance et sexe de l’étudiant, équivalents plein-temps des étudiants Les résultats sont publiés par haute école. Les données peuvent être conservées pendant plus de 30 ans sous une forme pseudonymisée.</td></tr>
 </table>
 
 ### 73. Enquête auprès des diplômés des hautes écoles
@@ -1400,7 +1400,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>études actuelles, parcours antérieur, activités rémunérées, situation financière, logement, mobilité, caractères socio-démographiques; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>études actuelles, budget-temps, activités rémunérées, situation financière, logement, mobilité, santé, caractères socio-démographiques; numéro d’assuré AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’étudiants, appariement avec des données du fichier suisse des étudiants du SIUS</td></tr>
 <tr><td>Milieux interrogés:</td><td>étudiants des hautes écoles</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
@@ -1697,9 +1697,9 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>caractères visés à l’art. 6, al. 2, let. a, de la loi du 22 juin 2007 sur le recensement (RS *431.112*) et dans le programme de relevés au sens de l’art. 9 de l’ordonnance du 19 décembre 2008 sur le recensement (RS *431.112.1*); numéro d’assuré AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif de 200 000 personnes: enquête écrite réalisée à l’aide d’un questionnaire imprimé ou électronique; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre fédéral des bâtiments et des logements (RegBL), Registre des entreprises et des établissements (REE), liste des membres de l’Église catholique-chrétienne</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif de 200 000 personnes: enquête écrite réalisée à l’aide d’un questionnaire imprimé ou électronique; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre fédéral des bâtiments et des logements (RegBL), Registre des entreprises et des établissements (REE), caisses de compensation AVS, liste des membres de l’Église catholique-chrétienne</td></tr>
 <tr><td>Possibilité de densification:</td><td>conformément aux art. 21 et 30 de l’ordonnance sur le recensement</td></tr>
-<tr><td>Milieux interrogés:</td><td>personnes de 15 ans au moins vivant dans un ménage privé; registres fédéraux, cantonaux et communaux</td></tr>
+<tr><td>Milieux interrogés:</td><td>personnes de 15 ans au moins vivant dans un ménage privé; registres fédéraux, cantonaux et communaux, caisses de compensation AVS</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>de décembre à mars</td></tr>
 <tr><td>Périodicité:</td><td>annuelle; jour de référence: 31 décembre</td></tr>
@@ -1742,11 +1742,11 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, parcours de formation, formation complète la plus élevée, activités de formation, déterminants de la formation, efficacité des formations de base et des formations continues; numéro d’assuré AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’env. 10 000 personnes; enquête téléphonique assistée par ordinateur, éventuellement complétée par une enquête en face à face assistée par ordinateur et par une enquête écrite; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE), registres des assurances sociales (CdC)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’env. 10 000 personnes; mixed-mode CAWI (questionnaire en ligne) et CATI (enquête téléphonique); appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE), registres des assurances sociales (Centrale de compensation [CdC] et Secrétariat d’État à l’économie [SECO])</td></tr>
 <tr><td>Possibilité de densification:</td><td>autorisée au niveau cantonal</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes à partir de 15 ans</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
-<tr><td>Date de l’enquête:</td><td>de janvier à décembre</td></tr>
+<tr><td>Date de l’enquête:</td><td>de avril à octobre</td></tr>
 <tr><td>Périodicité:</td><td>tous les cinq ans à partir de 2011</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>instituts de sondage</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
@@ -1757,7 +1757,7 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, parentalité, vie professionnelle et familiale, réseau familial et prestations des familles; numéro d’assuré AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’env. 10 000 personnes; enquête téléphonique assistée par ordinateur, éventuellement complétée par une enquête en face à face assistée par ordinateur et par une enquête écrite; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’env. 10 000 personnes; mixed-mode CAWI (questionnaire en ligne) et CATI (enquête téléphonique); appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et registres des assurances sociales (Centrale de compensation [CdC])</td></tr>
 <tr><td>Possibilité de densification:</td><td>autorisée au niveau cantonal</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes à partir de 15 ans vivant dans un ménage privé; communes, cantons et services fédéraux</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
@@ -1787,7 +1787,7 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, disponibilité et utilisation de véhicules et d’abonnements des transports publics, distances parcourues et temps de déplacement, motifs des déplacements, moyens de transport utilisés; numéro d’assuré AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’environ 40 000 personnes; enquête téléphonique assistée par ordinateur, éventuellement complétée par une enquête écrite; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), système d’information relatif à l’admission à la circulation (registre SIAC), Registre des entreprises et des établissements (REE), Registre fédéral des bâtiments et des logements (RegBL), données spatiales (p. ex. distances)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’environ 40 000 personnes; enquête téléphonique assistée par ordinateur, éventuellement complétée par une enquête écrite; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), système d’information relatif à l’admission à la circulation (SIAC), Registre des entreprises et des établissements (REE), Registre fédéral des bâtiments et des logements (RegBL), données spatiales (p. ex. distances)</td></tr>
 <tr><td>Possibilité de densification:</td><td>autorisée au niveau cantonal ou régional</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes à partir de 6 ans vivant dans un ménage privé; communes, cantons et services fédéraux</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
@@ -2414,7 +2414,7 @@ Annexe*[^t-2]*
 ### 154. Dépouillement centralisé des données comptables et environnementales des exploitations agricoles
 
 <table>
-<tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de l’agriculture (Agroscope, Institut des sciences en durabilité)</td></tr>
+<tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de l’agriculture (Agroscope)</td></tr>
 <tr><td>Objet de l’enquête:</td><td>résultats comptables, données destinées au calcul d’indicateurs agro-environnementaux et informations supplémentaires d’exploitations agricoles</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon aléatoire (échantillon «situation en matière des revenus»), enquête partielle (échantillons «gestion de l’exploitation» et «indicateurs agro-environnementaux» au sens de l’art. 9, al. 1, de l’ordonnance du 7 décembre 1998 sur l’évaluation de la durabilité de l’agriculture [RS *919.118*])</td></tr>
 <tr><td>Milieux interrogés:</td><td>exploitations agricoles</td></tr>
@@ -2611,17 +2611,17 @@ Annexe*[^t-2]*
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
-### 171. Chiffres d’affaires du commerce de détail, relevé conjoncturel
+### 171. Statistique des chiffres d’affaires du commerce de détail
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>chiffres d’affaires nominaux et indicateurs de l’évolution des affaires dans le commerce de détail selon l’activité économique et le groupe de produits</td></tr>
-<tr><td>Type et méthode de l’enquête:</td><td>sondage représentatif</td></tr>
-<tr><td>Milieux interrogés:</td><td>entreprises et établissements du commerce de détail</td></tr>
+<tr><td>Type et méthode de l’enquête:</td><td>échantillon représentatif, enquête exhaustive auprès des grandes entreprises; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Administration fédérale des contributions (AFC) pour la TVA, Administration fédérale des douanes (AFD)</td></tr>
+<tr><td>Milieux interrogés:</td><td>entreprises, organisations économiques</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>mensuelle</td></tr>
-<tr><td>Milieux participant à l’enquête:</td><td>Centre de recherches conjoncturelles de l’ETH de Zurich (KOF)</td></tr>
+<tr><td>Milieux participant à l’enquête:</td><td>organisations économiques, Centre de recherches conjoncturelles de l’ETH de Zurich (KOF)</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
@@ -2695,7 +2695,7 @@ Annexe*[^t-2]*
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
-### 177. Statistique des chiffres d’affaires des «Autres services»
+### 177. Statistique des chiffres d’affaires des services
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
@@ -2730,7 +2730,7 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>véhicules de transport de choses légers immatriculés en Suisse (y compris tracteurs à sellette légers), prestations (kilomètres), poids (tonnes) et nature des marchandises transportées, genre de trafic, lieux d’origine et de destination, motifs des parcours, branche de l’entreprise</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête par échantillonnage (questionnaire papier ou électronique); appariement de données provenant des sources suivantes: système d’information relatif à l’admission à la circulation (registre SIAC) de l’Office fédéral des routes, données de la RPLP de l’Administration fédérale des douanes (uniquement pour les tracteurs à sellette légers)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête par échantillonnage (questionnaire papier ou électronique); appariement de données provenant des sources suivantes: système d’information relatif à l’admission à la circulation (SIAC) de l’Office fédéral des routes, données de la RPLP de l’Administration fédérale des douanes (uniquement pour les tracteurs à sellette légers)</td></tr>
 <tr><td>Milieux interrogés:</td><td>détenteurs de véhicules de transport de choses légers immatriculés en Suisse</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire pour les véhicules utilisés à titre professionnel</td></tr>
 <tr><td>Date de l’enquête:</td><td>périodes de référence réparties sur l’année</td></tr>
@@ -2786,14 +2786,14 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>combinaison de données personnelles pseudonymisées dans le domaine de la formation, avec des données sur les personnes et les ménages provenant du recensement de la population fondé sur les registres ainsi que sur le registre des assurances sociales afin de mesurer les parcours dans le système éducatif et les transitions entre le système de formation et le marché de l’emploi</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>analyse secondaire; appariement de données provenant des sources suivantes: personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS, bourses et prêts, personnel des écoles, fichier suisse du personnel des hautes écoles, Statistique de la population et des ménages (STATPOP), statistique du mouvement naturel de la population, enquête structurelle, registre des assurances sociales (Caisse de compensation [CdC] et Secrétariat d’État à l’économie [SECO])</td></tr>
+<tr><td>Objet de l’enquête:</td><td>combinaison de données personnelles pseudonymisées dans le domaine de la formation, avec des données sur les personnes et les ménages provenant du recensement de la population fondé sur les registres ainsi que sur les registres des assurances sociales afin de mesurer les parcours dans le système éducatif et les transitions entre le système de formation et le marché du travail</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>analyse secondaire; appariement de données provenant des sources suivantes: personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS, bourses et prêts, personnel des écoles, fichier suisse du personnel des hautes écoles, Statistique de la population et des ménages (STATPOP), statistique du mouvement naturel de la population, enquête structurelle, registres des assurances sociales (Centrale de compensation [CdC] et Secrétariat d’État à l’économie [SECO]), statistique structurelle des entreprises (STATENT)</td></tr>
 <tr><td>Milieux interrogés:</td><td>CdC, SECO</td></tr>
 <tr><td>Renseignement:</td><td>–</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>annuelle</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>–</td></tr>
-<tr><td>Dispositions particulières:</td><td>les données peuvent être conservées pendant plus de 30 ans sous une forme pseudonymisée</td></tr>
+<tr><td>Dispositions particulières:</td><td>Les données peuvent être conservées pendant plus de 30 ans sous une forme pseudonymisée.</td></tr>
 </table>
 
 ### 185. Paramètres d’exploitation agricole pour le calcul des émissions d’ammoniac
@@ -2919,11 +2919,11 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>données d’exploitation et financières des fournisseurs de prestations; caractères socio-démographiques et informations sur la formation et l’activité du personnel des professions de la santé; caractères socio-démographiques, données de morbidité et prestations concernant les patients et les clients des fournisseurs de prestations</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>appariement de données des sources suivantes: statistique des hôpitaux, statistique médicale des hôpitaux, relevé des données des patients ambulatoires des hôpitaux et maisons de naissance, relevé des données structurelles des cabinets médicaux et centres de soins ambulatoires, statistique des institutions médico-sociales, statistique de l’aide et des soins à domicile, statistique des données économiques par cas, relevés des données structurelles et des patients des fournisseurs de prestations ambulatoires, cas de décès selon la statistique du mouvement naturel de la population</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>appariement de données des sources suivantes: statistique des hôpitaux, statistique médicale des hôpitaux, relevé des données des patients ambulatoires des hôpitaux et maisons de naissance, relevé des données structurelles des cabinets médicaux et centres de soins ambulatoires, statistique des institutions médico-sociales, statistique de l’aide et des soins à domicile, statistique des données économiques par cas, relevés des données structurelles et des patients des fournisseurs de prestations ambulatoires, cas de décès selon la statistique du mouvement naturel de la population ; exploitation longitudinale des données</td></tr>
 <tr><td>Milieux interrogés:</td><td>–</td></tr>
 <tr><td>Renseignement:</td><td>–</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
-<tr><td>Périodicité:</td><td>annuelle</td></tr>
+<tr><td>Périodicité:</td><td>permanente</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>–</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
@@ -3003,11 +3003,11 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>formation, satisfaction avec la formation, financement de la formation, recherche d’un emploi à la fin de la formation, parcours professionnel en considérant en particulier la situation un an et cinq ans après la fin de la formation / l’obtention du diplôme, formation continue et évolution de la carrière professionnelle au cours des années, données socio-démographiques, numéro d’assuré AVS</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, panel, appariement avec les données des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS, bourses et prêts)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, panel, appariement avec les données des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS, bourses et prêts), registre des assurances sociales (Centrale de compensation [CdC])</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes candidates et personnes diplômées des examens fédéraux et des écoles supérieures (ES)</td></tr>
-<tr><td>Renseignement:</td><td>Facultatif</td></tr>
-<tr><td>Date de l’enquête:</td><td>Première enquête: une année après la fin de la formation Deuxième enquête: cinq ans après la fin de la formation</td></tr>
-<tr><td>Périodicité:</td><td>Tous les deux ans</td></tr>
+<tr><td>Renseignement:</td><td>facultatif</td></tr>
+<tr><td>Date de l’enquête:</td><td>première enquête: une année après la fin de la formation deuxième enquête: cinq ans après la fin de la formation</td></tr>
+<tr><td>Périodicité:</td><td>tous les deux ans</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI), écoles supérieures (ES), instituts de sondage</td></tr>
 <tr><td>Dispositions particulières:</td><td>Les informations de contact nécessaires au déroulement de l’enquête (adresses électroniques des personnes diplômées de l’année considérée) peuvent être obtenues des institutions de formation et du Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI).</td></tr>
 </table>
@@ -3146,9 +3146,37 @@ Annexe*[^t-2]*
 <tr><td>Type et méthode d’enquête:</td><td>enquête représentative par échantillonnage; enquête individuelle assistée par ordinateur; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), registre des entreprises et des établissements (REE), registre des assurances sociales (Centrale de compensation [CdC])</td></tr>
 <tr><td>Milieux interrogés:</td><td>population résidante de 15 ans et plus</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
-<tr><td>Date de l’enquête:</td><td>de septembre 2021 à octobre 2022</td></tr>
-<tr><td>Périodicité:</td><td>2021/2022</td></tr>
+<tr><td>Date de l’enquête:</td><td>de septembre 2022 à octobre 2023</td></tr>
+<tr><td>Périodicité:</td><td>2022/2023</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>instituts de sondage</td></tr>
+<tr><td>Dispositions particulières:</td><td>–</td></tr>
+</table>
+
+## 212. Jeu de données pour les analyses relatives au système de la sécurité sociale
+
+<table>
+<tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
+<tr><td>Objet de l’enquête:</td><td>combinaison de données personnelles pseudonymisées dans le domaine des systèmes de la sécurité sociale afin de mesurer les changements et les parcours entre les principaux systèmes des assurances sociales ainsi qu’entre les systèmes de la sécurité sociale et le marché du travail.</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>analyse secondaire; appariement de données provenant des sources suivantes: statistique des bénéficiaires de l’aide sociale, registres des assurances sociales (Office fédéral des assurances sociales [OFAS], Centrale de compensation [CdC]), registre de l’assurance chômage (Secrétariat d’État à l’économie [SECO]), statistique de la population et des ménages (STATPOP), statistique des diplômes et relevé structurel</td></tr>
+<tr><td>Milieux interrogés:</td><td>CdC, SECO, OFAS (relevés fondés sur les registres)</td></tr>
+<tr><td>Renseignement:</td><td>–</td></tr>
+<tr><td>Date de l’enquête:</td><td>–</td></tr>
+<tr><td>Périodicité:</td><td>annuelle</td></tr>
+<tr><td>Milieux participant à l’enquête:</td><td>CdC, SECO, OFAS</td></tr>
+<tr><td>Dispositions particulières:</td><td>Les données peuvent être conservées pendant plus de 30 ans sous une forme pseudonymisée.</td></tr>
+</table>
+
+### 213. Statistique suisse des surfaces d’assolement
+
+<table>
+<tr><td>Organe responsable de l’enquête:</td><td>Office fédéral du développement territorial</td></tr>
+<tr><td>Objet de l’enquête:</td><td>jeu de géodonnées de base ID 68 «Surfaces d’assolement», contenus conformément au modèle de géodonnées minimal</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, téléchargement depuis le géoportail fédéral</td></tr>
+<tr><td>Milieux interrogés:</td><td>services cantonaux de l’aménagement du territoire / services cantonaux de géoinformation</td></tr>
+<tr><td>Renseignement:</td><td>obligatoire</td></tr>
+<tr><td>Date de l’enquête:</td><td>première enquête en 2023</td></tr>
+<tr><td>Périodicité:</td><td>tous les quatre ans</td></tr>
+<tr><td>Milieux participant à l’enquête:</td><td>–</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
@@ -3288,7 +3316,7 @@ Entrée en vigueur Art. 15
 - 70\. Examens finals
 - 71\. Personnel des établissements de formation
 - 72\. Fichier suisse des étudiants du SIUS (Système d’information universitaire suisse)
-- 73\. Enquête auprès des diplômés des hautes écoles
+- 73\. Enquête auprès des personnes diplômées des hautes écoles
 - 74\. Enquête sur la situation sociale et économique des étudiants
 - 75\. Bourses et prêts d’études
 - 76\. Fichier suisse du personnel des hautes écoles suisses
@@ -3317,7 +3345,7 @@ Entrée en vigueur Art. 15
 - 99\. Statistique de base sur les personnes et les ménages (STATPOP)
 - 100\. Statistique des bâtiments et des logements (StatBL)
 - 101\. Enquête thématique sur la formation de base et la formation continue
-- 102\. Enquête sur les familles et les les générations (EFG)
+- 102\. Enquête sur les familles et les générations (EFG)
 - 103\. Enquête sur la langue, la religion et la culture (ELRC)
 - 104\. Enquête thématique sur la mobilité et les transports: microrecensement sur la mobilité et les transports
 - 105\. Enquête Omnibus
@@ -3386,13 +3414,13 @@ Entrée en vigueur Art. 15
 - 168\. *Abrogée*
 - 169\. *Abrogée*
 - 170\. Enquêtes sur les investissements, l’innovation et la conjoncture
-- 171\. Chiffres d’affaires du commerce de détail, relevé conjoncturel
+- 171\. Statistique des chiffres d’affaires du commerce de détail
 - 172\. Enquête sur les relations de l’homme avec l’espace, le paysage et la nature
 - 173\. Statistiques sur le financement de la culture
 - 174\. Élections communales
 - 175\. Statistique de la production, des commandes et des chiffres d’affaires de la construction
 - 176\. Statistique de la production, des commandes et des chiffres d’affaires de l’industrie
-- 177\. Statistique des chiffres d’affaires des «Autres services»
+- 177\. Statistique des chiffres d’affaires des services
 - 178\. Comptage suisse automatique de la circulation routière (CSACR)
 - 179\. *Abrogée*
 - 180\. Trafic de marchandises par véhicule de livraison
@@ -3426,4 +3454,6 @@ Entrée en vigueur Art. 15
 - 208\. Statistique des revenus AVS
 - 209\. Statistique des professions médicales
 - 210\. Statistique des monuments
-- 211\. Enquête «Évaluation des compétences des adultes (Programme for the International Assessment of Adult Competencies, PIAAC)».
+- 211\. Enquête «Évaluation des compétences des adultes (Programme for the International Assessment of Adult Competencies, PIAAC)»
+- 212\. Jeu de données pour les analyses relatives au système de la sécurité sociale
+- 213\. Statistique suisse des surfaces d’assolement
