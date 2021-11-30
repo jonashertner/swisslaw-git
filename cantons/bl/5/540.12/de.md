@@ -3,20 +3,19 @@ canton: BL
 number: "540.12"
 title: Verordnung über den Fähigkeitsausweis und gleichwertige Nachweise zur Führung eines gastwirtschaftlichen Betriebes
 language: de
-version: 2017-12-01
-valid_until: 2021-11-30
-version_adopted: 2017-10-31
+version: 2021-12-01
+version_adopted: 2021-09-28
 adopted: 1998-04-28
 in_force: 1998-05-15
 url: "https://bl.clex.ch/app/de/texts_of_law/540.12"
-pdf: "https://bl.clex.ch/api/de/versions/1961/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3101/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Fähigkeitsausweis und gleichwertige Nachweise zur Führung eines gastwirtschaftlichen Betriebes
 
-Vom 28.04.1998 (Stand 01.12.2017)
+Vom 28.04.1998 (Stand 01.12.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -67,7 +66,7 @@ beschliesst:
 - b. Gastgewerbegesetz und Alkoholgesetz;
 - c. Arbeitsrecht (LGAV und Ausländerrecht);
 - d. Steuerrecht und Buchführungsvorschriften;
-- e. Betriebsführung (Betriebsübernahmen, Mietrecht, Haftung, Mitarbeiterführung usw.);
+- e. …
 - f. Lohnwesen und Sozialversicherungsrecht.
 
 <sup>2</sup> Der Prüfungsstoff bestimmt sich nach den Richtlinien der Berufsverbände (Gastro-Suisse).
