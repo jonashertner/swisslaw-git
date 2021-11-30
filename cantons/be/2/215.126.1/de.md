@@ -4,13 +4,13 @@ number: "215.126.1"
 title: Einführungsgesetz zum Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland
 short: EG BewG
 language: de
-version: 2021-04-01
-valid_until: 2021-11-30
-version_adopted: 2021-02-17
+version: 2021-12-01
+valid_until: 2022-07-31
+version_adopted: 2021-03-08
 adopted: 1988-09-25
 in_force: 1988-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.126.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2163/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2404/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2163/pdf_file"
 
 (EG BewG)
 
-vom 25.09.1988 (Stand 01.04.2021)
+vom 25.09.1988 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -108,7 +108,7 @@ beschliesst:
 
 <sup>1</sup> Die Liste der Fremdenverkehrsgemeinden wird in die Gesetzessammlung aufgenommen.
 
-<sup>2</sup> Sie wird zusätzlich einmal jährlich im Kantonalen Amtsblatt veröffentlicht.
+<sup>2</sup> Sie wird zusätzlich einmal jährlich im kantonalen Amtsblatt veröffentlicht.
 
 <sup>3</sup> Die gesperrten Gemeinden werden besonders gekennzeichnet.
 

@@ -4,13 +4,13 @@ number: "215.126.1"
 title: "Loi portant introduction à la loi fédérale du 16 décembre 1983 sur l'acquisition d'immeubles par des personnes à l'étranger"
 short: Li LFAIE
 language: fr
-version: 2021-04-01
-valid_until: 2021-11-30
-version_adopted: 2021-02-17
+version: 2021-12-01
+valid_until: 2022-07-31
+version_adopted: 2021-03-08
 adopted: 1988-09-25
 in_force: 1988-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.126.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2163/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2404/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2163/pdf_file"
 
 (Li LFAIE)
 
-du 25.09.1988 (état au 01.04.2021)
+du 25.09.1988 (état au 01.12.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -108,7 +108,7 @@ arrête:
 
 <sup>1</sup> La liste des communes à vocation touristique est publiée dans le bulletin des lois.
 
-<sup>2</sup> Elle est en outre publiée une fois par an dans la Feuille officielle cantonale.
+<sup>2</sup> Elle est en outre publiée une fois par an dans la feuille officielle cantonale.
 
 <sup>3</sup> Les communes qui ont introduit le blocage des autorisations seront mentionnées de façon distincte.
 
