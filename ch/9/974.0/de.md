@@ -3,18 +3,18 @@ sr: "974.0"
 title: Bundesgesetz vom 19. März 1976 über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352"
 language: de
-version: 2017-06-01
+version: 2021-12-01
 adopted: 1976-03-19
 in_force: 1977-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352/20170601/de/xml/fedlex-data-admin-ch-eli-cc-1977-1352_1352_1352-20170601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1352_1352_1352/20170601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352/20211201/de/xml/fedlex-data-admin-ch-eli-cc-1977-1352_1352_1352-20211201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1352_1352_1352/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe
 
-vom 19. März 1976 (Stand am 1. Juni 2017)
+vom 19. März 1976 (Stand am 1. Dezember 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -160,25 +160,9 @@ Der Bundesrat sorgt für die verwaltungsinterne Koordination der internationalen
 
 #### Art. 13a
 
-**Datenbearbeitung**[^13a-1]
+[^13a-1]
 
-<sup>1</sup>
-
-Die zuständige Verwaltungseinheit kann von natürlichen oder juristischen Personen, die mit der Durchführung von Massnahmen nach diesem Gesetz betraut oder davon betroffen sind, namentlich folgende Daten bearbeiten:
-
-- a. Name, Vorname und Geburtsdatum;
-- b. Heimatort, Staatsangehörigkeit und Passnummer;
-- c. Religion;
-- d. Zivilstand;
-- e. Versichertennummer der AHV;
-- f. Angaben zur beruflichen und militärischen Laufbahn;
-- g. Persönlichkeitsprofile;
-- h. politische und gewerkschaftliche Tätigkeiten;
-- i. Angaben zur Gesundheit.
-
-<sup>2</sup> Daten über die Gesundheit dürfen dem ärztlichen Dienst des Bundes oder der Schweizerischen Unfallversicherungsanstalt (Suva) übermittelt werden, sofern diese Stellen sie zur Erfüllung ihrer gesetzlichen Aufgabe benötigen.
-
-[^13a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 24. März 2000 über die Bearbeitung von Personendaten im EDA ([AS 2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294); BBl **1995** 9005). Fassung gemäss Art. 19 Ziff. 2 des BG vom 30. Sept. 2016 über die Zusammenarbeit mit den Staaten Osteuropas, in Kraft seit 1. Juni 2017 ([AS 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323); [BBl 2016 2333](https://fedlex.data.admin.ch/eli/fga/2016/516)).
+[^13a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 24. März 2000 über die Bearbeitung von Personendaten im EDA ([AS 2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294); BBl **1995** 9005). Aufgehoben durch Anhang Ziff. II 3 des BG vom 18. Dez. 2020 über die Bearbeitung von Personendaten durch das EDA, mit Wirkung seit 1. Dez. 2021 ([AS 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [BBl 2020 1349](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 #### Art. 14
 

@@ -3,18 +3,18 @@ sr: "974.0"
 title: "Loi fédérale du 19 mars 1976 sur la coopération au développement et l'aide humanitaire internationales"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352"
 language: fr
-version: 2017-06-01
+version: 2021-12-01
 adopted: 1976-03-19
 in_force: 1977-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352/20170601/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1352_1352_1352-20170601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1352_1352_1352/20170601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1352_1352_1352-20211201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1352_1352_1352/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la coopération au développement et l’aide humanitaire internationales
 
-du 19 mars 1976 (Etat le 1<sup>er</sup> juin 2017)
+du 19 mars 1976 (Etat le 1<sup>er</sup> décembre 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -23,7 +23,7 @@ vu les art. 8, 85, ch. 5 et 6 et 102, ch. 8 et 9, de la constitution[^ingress-1]
 arrête:
 
 [^ingress-1]: [RS **1** 3]. Aux disp. correspondent actuellement les art. 54, 166, 173, al. 1, let. a, 184 et 185, al. 1 de la cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 24 mars 2000 sur le traitement de données personnelles au DFAE, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 24 mars 2000 sur le traitement de données personnelles au DFAE, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 [^ingress-3]: [FF 1973 I 835](https://fedlex.data.admin.ch/eli/fga/1973/1_869_835_573)
 [^ingress-4]: [FF 1975 I 490](https://fedlex.data.admin.ch/eli/fga/1975/1__490_)
 
@@ -164,25 +164,9 @@ Le Conseil fédéral veille à la coordination au sein de l’administration fé
 
 #### Art. 13a
 
-**Traitement des données**[^13a-1]
+[^13a-1]
 
-<sup>1</sup>
-
-L’unité administrative compétente peut notamment traiter, s’agissant des personnes physiques ou morales chargées d’appliquer des mesures ou concernées par des mesures prises en vertu de la présente loi, les données suivantes:
-
-- a. nom, prénom et date de naissance;
-- b. lieu d’origine, nationalité, numéro de passeport;
-- c. confession;
-- d. état civil;
-- e. numéro d’assuré AVS;
-- f. informations sur le parcours professionnel et militaire;
-- g. profils de la personnalité;
-- h activités politiques et syndicales;
-- i. indications sur la santé.
-
-<sup>2</sup> Des indications sur la santé peuvent être transmises au service médical de la Confédération ou à la Caisse nationale suisse d’assurance en cas d’accidents (CNA) si elles leur sont nécessaires pour accomplir leurs tâches légales.
-
-[^13a-1]: Introduit par le ch. 1 de l’annexe à la LF du 24 mars 2000 sur le traitement de données personnelles au DFAE ([RO 2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)). Nouvelle teneur selon l’art. 19 ch. 2 de la LF du 30 sept. 2016 sur la coopération avec les Etats d’Europe de l’Est, en vigueur depuis le 1<sup>er</sup> juin 2017 ([RO 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323); [FF 2016 2179](https://fedlex.data.admin.ch/eli/fga/2016/516)).
+[^13a-1]: Introduit par l’annexe ch. 1 de la LF du 24 mars 2000 sur le traitement de données personnelles au DFAE ([RO 2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)). Abrogé par l’annexe ch. II 3 de la LF du 18 déc. 2020 sur le traitement des données personnelles par le DFAE, avec effet au 1<sup>er</sup> déc. 2021 ([RO 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [FF 2020 1279](https://fedlex.data.admin.ch/eli/fga/2020/333)).
 
 #### Art. 14
 
