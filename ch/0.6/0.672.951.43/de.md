@@ -3,11 +3,11 @@ sr: "0.672.951.43"
 title: Abkommen vom 10. Juli 2015 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/763"
 language: de
-version: 2016-12-22
+version: 2021-12-01
 adopted: 2015-07-10
 in_force: 2016-12-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/763/20161222/de/xml/fedlex-data-admin-ch-eli-cc-2016-763-20161222-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/763/20161222/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/763/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2016-763-20211201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/763/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 17. Juni 2016[^t-1]
 
 In Kraft getreten durch Notenaustausch am 22. Dezember 2016
 
-(Stand am 22. Dezember 2016)
+(Stand am 1. Dezember 2021)
 
 [^t-1]: [AS 2016 4763](https://fedlex.data.admin.ch/eli/oc/2016/762)
 
@@ -32,7 +32,13 @@ Die Schweizerische Eidgenossenschaft und das Fürstentum Liechtenstein,
 
 vom Wunsch geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
 
-haben Folgendes vereinbart:
+in der Absicht, in Bezug auf die Steuern vom Einkommen und vom Vermögen eine Doppelbesteuerung zu beseitigen, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten ansässigen Personen) zu schaffen,
+
+vom Wunsch geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
+
+haben Folgendes vereinbart:*[^ingress-1]*
+
+[^ingress-1]: Fassung gemäss Art. I Ziff. 1 des Prot. vom 14. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 1. Dez. 2021 ([AS 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [BBl 2020 9391](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
 
 #### Art. 1
 
@@ -413,7 +419,7 @@ In der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 <sup>1.</sup> Ist eine Person der Auffassung, dass Massnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie ungeachtet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde des Vertragsstaats, in dem sie ansässig ist, oder, sofern ihr Fall von Artikel 24 Absatz 1 erfasst wird, der zuständigen Behörde des Vertragsstaats unterbreiten, dessen Staatsangehörige sie ist. Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Massnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
 
-<sup>2.</sup> Hält die zuständige Behörde die Einwendung für begründet und kann sie nicht selbst eine befriedigende Lösung herbeiführen, so bemüht sie sich, den Fall durch Verständigung mit der zuständigen Behörde des anderen Vertragsstaats so zu regeln, dass eine dem Abkommen nicht entsprechende Besteuerung vermieden wird.
+<sup>2.</sup> Hält die zuständige Behörde die Einwendung für begründet und kann sie nicht selbst eine befriedigende Lösung herbeiführen, so bemüht sie sich, den Fall durch Verständigung mit der zuständigen Behörde des anderen Vertragsstaats so zu regeln, dass eine dem Abkommen nicht entsprechende Besteuerung vermieden wird. Die Verständigungsregelung ist ungeachtet der Fristen des innerstaatlichen Rechts der Vertragsstaaten durchzuführen.[^25-1]
 
 <sup>3.</sup> Die zuständigen Behörden der Vertragsstaaten bemühen sich, Schwierigkeiten oder Zweifel, die bei der Auslegung oder Anwendung des Abkommens entstehen, in gegenseitigem Einvernehmen zu beseitigen. Sie können sich auch darüber beraten, wie eine Doppelbesteuerung in Fällen vermieden werden kann, die im Abkommen nicht behandelt sind.
 
@@ -427,6 +433,8 @@ Wenn:
 - b) die zuständigen Behörden nicht in der Lage sind, innerhalb von drei Jahren ab der Vorlage des Falls an die zuständige Behörde des anderen Vertragsstaats eine einvernehmliche Lösung im Sinne des Absatzes 2 herbeizuführen;
 
 <sup>6.</sup> Die Vertragsstaaten können der nach Absatz 5 gebildeten Schiedsstelle die für die Durchführung des Schiedsverfahrens erforderlichen Informationen zugänglich machen. Die Mitglieder der Schiedsstelle unterliegen hinsichtlich dieser Informationen den Geheimhaltungsvorschriften nach Artikel 26 Absatz 2.
+
+[^25-1]: Fassung gemäss Art. I Ziff. 2 des Prot. vom 14. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 1. Dez. 2021 ([AS 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [BBl 2020 9391](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
 
 #### Art. 26
 
@@ -463,6 +471,14 @@ Ungeachtet des Artikels 4 gilt eine natürliche Person, die Mitglied einer diplo
 
 <sup>3.</sup> Das Abkommen gilt weder für internationale Organisationen, deren Organe oder Beamte noch für Mitglieder einer diplomatischen Mission oder einer konsularischen Vertretung eines Drittstaats, die sich in einem Vertragsstaat aufhalten und in keinem der Vertragsstaaten für die Zwecke der Steuern vom Einkommen oder vom Vermögen als ansässig gelten.
 
+#### Art. 27a
+
+**Anspruch auf Abkommensvorteile**[^27a-1]
+
+Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der relevanten Bestimmungen dieses Abkommens im Einklang steht.
+
+[^27a-1]: Eingefügt durch Art. I Ziff. 3 des Prot. vom 14. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 1. Dez. 2021 ([AS 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [BBl 2020 9391](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
+
 #### Art. 28
 
 **Protokoll**
@@ -498,13 +514,27 @@ Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekün
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Vaduz, am 10. Juli 2015, im Doppel in deutscher Sprache. Für die Schweizerische Eidgenossenschaft: Eveline Widmer-Schlumpf Für das Fürstentum Liechtenstein: Adrian Hasler
 
-Protokoll
+Art. II Ziff. 2 und 3 des Prot. vom 14. Juli 2020**[^t-2]**
+
+\2. Das Protokoll findet Anwendung:
+
+- a) hinsichtlich der an der Quelle erhobenen Steuern auf Einkünfte, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahres gezahlt oder gutgeschrieben werden;
+- b) hinsichtlich der übrigen Steuern auf Steuerjahre, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahres beginnen.
+
+\3. Ungeachtet von Absatz 2 findet Artikel I Absatz 2 des Protokolls vom Tag des Inkrafttretens des Protokolls an Anwendung, ohne Berücksichtigung der Steuerperiode, auf die sich die Sache bezieht.
+
+## Protokoll****
+
+[^annexu1-lvlu2-1]
+
+[^t-2]: [AS 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [BBl 2020 9391](https://fedlex.data.admin.ch/eli/fga/2020/2554)
+[^annexu1-lvlu2-1]: Bereinigt gemäss Art. I Ziff. 4 des Prot. vom 14. Juli 2020, von der BVers genehmigt am 18. Juni 2021 und in Kraft seit 1. Dez. 2021 ([AS 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [BBl 2020 9391](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
 
 Die Schweizerische Eidgenossenschaft und das Fürstentum Liechtenstein
 
 haben anlässlich der Unterzeichnung in Vaduz, am 10. Juli 2015, des Abkommens zwischen den beiden Staaten zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen folgende Bestimmungen vereinbart, die einen Bestandteil dieses Abkommens bilden.
 
-## *1.* *Zu Art. 3 Abs. 1 Bst. i*
+### *1.* *Zu Art. 3 Abs. 1 Bst. i*
 
 Es besteht Einvernehmen darüber, dass der Ausdruck «Vorsorgeeinrichtung» folgende Einrichtungen sowie alle gleichen oder im Wesentlichen vergleichbaren Einrichtungen, die aufgrund von nach der Unterzeichnung des Protokolls erlassenen Gesetzen errichtet werden, umfasst:
 
@@ -521,17 +551,17 @@ Es besteht Einvernehmen darüber, dass der Ausdruck «Vorsorgeeinrichtung» folg
 
   in der Schweiz, sämtliche Pläne und Modelle nach:
 
-  - (i) dem Bundesgesetz vom 20. Dezember 1946[^annexu1-lvl1-1] über die Alters- und Hinterlassenenversicherung,
-  - (ii) dem Bundesgesetz vom 19. Juni 1959[^annexu1-lvl1-2] über die Invalidenversicherung,
-  - (iii) dem Bundesgesetz vom 6. Oktober 2006[^annexu1-lvl1-3] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung,
-  - (iv) dem Bundesgesetz vom 25. Juni 1982[^annexu1-lvl1-4] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, einschliesslich der nicht registrierten Vorsorgeeinrichtungen, die berufliche Vorsorgepläne anbieten, und der mit der beruflichen Vorsorge vergleichbaren anerkannten Formen der gebundenen Selbstvorsorge.
+  - (i) dem Bundesgesetz vom 20. Dezember 1946[^annexu1-lvlu2-lvl1-1] über die Alters- und Hinterlassenenversicherung,
+  - (ii) dem Bundesgesetz vom 19. Juni 1959[^annexu1-lvlu2-lvl1-2] über die Invalidenversicherung,
+  - (iii) dem Bundesgesetz vom 6. Oktober 2006[^annexu1-lvlu2-lvl1-3] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung,
+  - (iv) dem Bundesgesetz vom 25. Juni 1982[^annexu1-lvlu2-lvl1-4] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, einschliesslich der nicht registrierten Vorsorgeeinrichtungen, die berufliche Vorsorgepläne anbieten, und der mit der beruflichen Vorsorge vergleichbaren anerkannten Formen der gebundenen Selbstvorsorge.
 
-[^annexu1-lvl1-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^annexu1-lvl1-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^annexu1-lvl1-3]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^annexu1-lvl1-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexu1-lvlu2-lvl1-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^annexu1-lvlu2-lvl1-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annexu1-lvlu2-lvl1-3]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^annexu1-lvlu2-lvl1-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
-## *2.* *Zu Art. 4*
+### *2.* *Zu Art. 4*
 
 - a)
 
@@ -551,43 +581,37 @@ Es besteht Einvernehmen darüber, dass der Ausdruck «Vorsorgeeinrichtung» folg
   - Diese Regelung gilt analog auch für stiftungsähnlich ausgestaltete liechtensteinische Anstalten und Treuunternehmen (Trust reg.).
 
 - b) Es besteht weiter Einvernehmen, dass Personen oder Strukturen, die (wie z.B. Privatvermögensstrukturen) ausschliesslich der Mindestertragssteuer in Liechtenstein unterliegen, nicht als «eine in einem Vertragsstaat ansässige Person» gelten und für Zwecke der Gewährung von Abkommensvorteilen als steuerlich transparent betrachtet werden.
-- c) Vorbehalten bleibt der Vertrag zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet vom 29. März 1923[^annexu1-lvl2-1].
+- c) Vorbehalten bleibt der Vertrag zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet vom 29. März 1923[^annexu1-lvlu2-lvl2-1].
 
-[^annexu1-lvl2-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^annexu1-lvlu2-lvl2-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
 
-## *3.* *Zu Art. 10 Abs. 3 Bst. a*
+### *3.* *Zu Art. 10 Abs. 3 Bst. a*
 
 Wurde die Mindesthaltedauer nach Artikel 10 Absatz 3 Buchstabe a zum Zeitpunkt der Zahlung der Dividende nicht eingehalten und deshalb die Steuer gemäss Artikel 10 Absatz 2 anlässlich der Zahlung zurückbehalten und wird die Mindesthaltedauer nachträglich erfüllt, so kann die zur Nutzung der Dividende berechtigte Person die Rückerstattung der zurückbehaltenen Steuer verlangen.
 
-## *4.* *Zu den Art. 10, 11, 12 und 21*
-
-- a) Die Bestimmungen der Artikel 10, 11, 12 und 21 gelten nicht für Einkünfte, die aus einem Geschäft, einem Teil eines Geschäfts oder einer Abfolge von Geschäften resultieren oder von einem Rechtsträger vereinnahmt werden, wenn der hauptsächliche Zweck des Abschlusses des Geschäfts, des Teils des Geschäfts, der Abfolge der Geschäfte oder der Errichtung des Rechtsträgers darin besteht, die Vorteile der Artikel 10, 11, 12 oder 21 in Anspruch zu nehmen, und wenn bei Ausklammerung des Geschäfts, des Teils des Geschäfts, der Abfolge von Geschäften oder des Rechtsträgers diese Einkünfte einer Person zugerechnet würden, die in keinem der beiden Vertragsstaaten ansässig ist.
-- b) Die Bestimmungen von Artikel 10 Absatz 3 gelten nicht für Dividenden, die aus einem Geschäft, einem Teil eines Geschäfts oder einer Abfolge von Geschäften resultieren oder von einem Rechtsträger vereinnahmt werden, wenn der hauptsächliche Zweck des Abschlusses des Geschäfts, des Teils des Geschäfts, der Abfolge der Geschäfte oder der Errichtung des Rechtsträgers darin besteht, die Vorteile von Artikel 10 Absatz 3 in Anspruch zu nehmen, und wenn bei Ausklammerung des Geschäfts, des Teils des Geschäfts, der Abfolge von Geschäften oder des Rechtsträgers diese Dividenden einer Person zugerechnet würden, die die Voraussetzungen von Artikel 10 Absatz 3 in Bezug auf diese Dividenden nicht erfüllt.
-- c) Würden die Einkünfte bei Ausklammerung des Geschäfts, des Teils des Geschäfts, der Abfolge von Geschäften oder des Rechtsträgers einer Person zugerechnet, die nach einem Doppelbesteuerungsabkommen zwischen ihrem Ansässigkeitsstaat und dem Staat, aus dem die Einkünfte stammen, oder nach einem anderen Abkommen zu Vorteilen in Bezug auf diese Einkünfte berechtigt wäre, die gleichwertig oder günstiger sind als die einer in einem Vertragsstaat ansässigen Person nach dem vorliegenden Abkommen zustehenden Vorteile, so liegt der hauptsächliche Zweck des Geschäfts, des Teils des Geschäfts, der Abfolge von Geschäften oder des Rechtsträgers nicht in der Inanspruchnahme der Vorteile der Artikel 10, 11, 12 und 21.
-
-## *5.* *Zu Art. 15 Abs. 4*
+### *4.* *Zu Art. 15 Abs. 4*
 
 - a) Der Ausdruck «Arbeitsort» bedeutet der Ort, an dem die Person in den Betrieb ihres Arbeitgebers eingegliedert ist.
 - b) Der Ausdruck «Wohnsitz» bedeutet der Ort, an dem die Person ihr Hauptsteuerdomizil hat.
 - c) Die Grenzgängereigenschaft entfällt, wenn die Person in einem Kalenderjahr an mehr als 45 Arbeitstagen nach Arbeitsende aus beruflichen Gründen nicht an ihren Wohnsitz zurückkehrt.
 
-## *6.* *Zu Art. 18*
+### *5.* *Zu Art. 18*
 
 Für die in einem Vertragsstaat ansässigen und im anderen Vertragsstaat für Zwecke der beruflichen Vorsorge versicherten Personen leistet die Schweiz eine jährliche Ausgleichszahlung von 450 000 Franken an Liechtenstein. Liechtenstein stellt jährlich Rechnung an die Schweiz.
 
-## *7.* *Zu den Art. 18 und 24*
+### *6.* *Zu den Art. 18 und 24*
 
 Hinsichtlich der Artikel 18 und 24 sind Beiträge, die von oder für Rechnung einer natürlichen Person, die in einem Vertragsstaat Dienste leistet, an eine im anderen Vertragsstaat errichtete und dort steuerlich anerkannte Vorsorgeeinrichtung entrichtet werden, für Zwecke der Ermittlung der im erstgenannten Staat von der natürlichen Person zu zahlenden Steuer und der Ermittlung der Unternehmensgewinne, die dort besteuert werden können, in gleicher Weise und unter den gleichen Bedingungen und Einschränkungen zu behandeln wie Beiträge, die an eine im erstgenannten Staat steuerlich anerkannte Vorsorgeeinrichtung gezahlt werden, sofern die natürliche Person unmittelbar vor der Aufnahme ihrer Tätigkeit in diesem Staat dort nicht ansässig war und schon zu diesem Zeitpunkt der Vorsorgeeinrichtung angehört hatte.
 
-## *8.* *Zu den Art. 18, 19 und 21*
+### *7.* *Zu den Art. 18, 19 und 21*
 
 Bezahlt eine Vorsorgeeinrichtung eines Vertragsstaats Vorsorgeleistungen an eine im anderen Vertragsstaat ansässige Person, so bescheinigt sie diese Leistung gegenüber dem Empfänger oder der Empfängerin.
 
-## *9.* *Zu Art. 21*
+### *8.* *Zu Art. 21*
 
 Solange die Schweiz Lotteriegewinne an der Quelle besteuert, findet Artikel 21 keine Anwendung auf Lotteriegewinne unter 75 000 Franken und sind solche Lotteriegewinne ausserhalb des Anwendungsbereichs des Abkommens.
 
-## *10.* *Zu Art. 26*
+### *9.* *Zu Art. 26*
 
 - a) Es besteht Einvernehmen darüber, dass der ersuchende Vertragsstaat ein Begehren um Austausch von Informationen erst dann stellt, wenn er alle in seinem innerstaatlichen Steuerverfahren vorgesehenen üblichen Mittel zur Beschaffung der Informationen ausgeschöpft hat.
 - b)
@@ -604,9 +628,9 @@ Solange die Schweiz Lotteriegewinne an der Quelle besteuert, findet Artikel 21 k
 - d) Es besteht im Weiteren Einvernehmen darüber, dass Artikel 26 die Vertragsstaaten nicht dazu verpflichtet, Informationen auf automatischer oder spontaner Basis auszutauschen.
 - e) Es besteht Einvernehmen darüber, dass im Fall des Austauschs von Informationen die im ersuchten Staat geltenden Bestimmungen des Verwaltungsverfahrensrechts über die Rechte der steuerpflichtigen Person vorbehalten bleiben. Es besteht im Weiteren Einvernehmen darüber, dass diese Bestimmungen dazu dienen, der steuerpflichtigen Person ein ordnungsgemässes Verfahren zu gewähren, und nicht bezwecken, den Informationsaustausch zu verhindern oder übermässig zu verzögern.
 
-## *11.* *Zu Art. 26*
+### *10.* *Zu Art. 26*
 
-Es besteht Einvernehmen, dass im Bereich der Mehrwertsteuer der Austausch von Informationen zwischen den dafür zuständigen Behörden auf der Grundlage des Vertrags vom 28. Oktober 1994[^annexu1-lvl11-1] zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein betreffend die Mehrwertsteuer im Fürstentum Liechtenstein erfolgt.
+Es besteht Einvernehmen, dass im Bereich der Mehrwertsteuer der Austausch von Informationen zwischen den dafür zuständigen Behörden auf der Grundlage des Vertrags vom 28. Oktober 1994[^annexu1-lvlu2-lvl10-1] zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein betreffend die Mehrwertsteuer im Fürstentum Liechtenstein erfolgt.
 
 Geschehen zu Vaduz, am 10. Juli 2015, im Doppel in deutscher Sprache.
 
@@ -614,4 +638,4 @@ Geschehen zu Vaduz, am 10. Juli 2015, im Doppel in deutscher Sprache.
 <tr><td>Für die Schweizerische Eidgenossenschaft: Eveline Widmer-Schlumpf</td><td>Für das Fürstentum Liechtenstein: Adrian Hasler</td></tr>
 </table>
 
-[^annexu1-lvl11-1]: [SR 0.641.295.142](https://fedlex.data.admin.ch/eli/cc/1995/785_785_785)
+[^annexu1-lvlu2-lvl10-1]: [SR 0.641.295.142](https://fedlex.data.admin.ch/eli/cc/1995/785_785_785)

@@ -3,11 +3,11 @@ sr: "0.672.951.43"
 title: "Convention du 10 juillet 2015 entre la Confédération suisse et la Principauté du Liechtenstein en vue d'éviter les doubles impositions en matière d'impôts sur le revenu et sur la fortune"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/763"
 language: fr
-version: 2016-12-22
+version: 2021-12-01
 adopted: 2015-07-10
 in_force: 2016-12-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/763/20161222/fr/xml/fedlex-data-admin-ch-eli-cc-2016-763-20161222-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/763/20161222/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/763/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2016-763-20211201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/763/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,36 +16,39 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/763/20161222/fr"
 
 RO **2016** 4765; FF **2015** 7121
 
-Traduction*[^t-1]*
+Traduction
 
 Conclue le 10 juillet 2015
 
-Approuvée par l’Assemblée fédérale le 17 juin 2016[^t-2]
+Approuvée par l’Assemblée fédérale le 17 juin 2016[^t-1]
 
 Entrée en vigueur par échange de notes le 22 décembre 2016
 
-(Etat le 22 décembre 2016)
+(Etat le 1<sup>er</sup> décembre 2021)
 
-[^t-1]: Texte original allemand.
-[^t-2]: [RO 2016 4763](https://fedlex.data.admin.ch/eli/oc/2016/762)
+[^t-1]: [RO 2016 4763](https://fedlex.data.admin.ch/eli/oc/2016/762)
 
 La Confédération suisse et la Principauté du Liechtenstein,
 
+entendant d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune sans créer de possibilités de non-imposition ou d’imposition réduite par la fraude ou l’évasion fiscales (y compris par des mécanismes de chalandage fiscal destinés à obtenir les allégements prévus dans la présente Convention au bénéfice indirect de résidents d’États tiers),
+
 désireux de conclure une Convention en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune,
 
-sont convenues des dispositions suivantes:
+sont convenus des dispositions suivantes:*[^ingress-1]*
+
+[^ingress-1]: Nouvelle teneur selon l’art. I par. 1 du Prot. du 14 juil. 2020, approuvé par l’Ass. féd. le 18 juin 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [FF 2020 9077](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
 
 #### Art. 1
 
 **Personnes visées**
 
-La présente Convention s’applique aux personnes qui sont des résidents d’un Etat contractant ou des deux Etats contractants.
+La présente Convention s’applique aux personnes qui sont des résidents d’un État contractant ou des deux États contractants.
 
 #### Art. 2
 
 **Impôts visés**
 
-<sup>1.</sup> La présente Convention s’applique aux impôts sur le revenu et sur la fortune perçus pour le compte d’un Etat contractant, de ses subdivisions politiques ou de ses collectivités locales, quel que soit le système de perception.
+<sup>1.</sup> La présente Convention s’applique aux impôts sur le revenu et sur la fortune perçus pour le compte d’un État contractant, de ses subdivisions politiques ou de ses collectivités locales, quel que soit le système de perception.
 
 <sup>2.</sup> Sont considérés comme impôts sur le revenu et sur la fortune les impôts perçus sur le revenu total, sur la fortune totale, ou sur des éléments du revenu ou de la fortune, y compris les impôts sur les gains provenant de l’aliénation de biens mobiliers ou immobiliers, les impôts sur le montant global des salaires payés par les entreprises, ainsi que les impôts sur les plus-values.
 
@@ -73,7 +76,7 @@ Les impôts actuels auxquels s’applique la Convention sont notamment:
   - (ii) sur la fortune (fortune totale, fortune mobilière et immobilière, fortune industrielle et commerciale, capital et réserves et autres éléments de la fortune),
   - [tab] (ci-après désignés par «impôt suisse»).
 
-<sup>4.</sup> La Convention s’applique aussi aux impôts de nature identique ou analogue qui seraient établis après la date de signature de la Convention et qui s’ajouteraient aux impôts actuels ou qui les remplaceraient. Les autorités compétentes des Etats contractants se communiquent les modifications significatives apportées à leurs législations fiscales.
+<sup>4.</sup> La Convention s’applique aussi aux impôts de nature identique ou analogue qui seraient établis après la date de signature de la Convention et qui s’ajouteraient aux impôts actuels ou qui les remplaceraient. Les autorités compétentes des États contractants se communiquent les modifications significatives apportées à leurs législations fiscales.
 
 #### Art. 3
 
@@ -83,14 +86,14 @@ Les impôts actuels auxquels s’applique la Convention sont notamment:
 
 Au sens de la présente Convention, à moins que le contexte n’exige une interprétation différente:
 
-- a) les expressions «un Etat contractant» et «l’autre Etat contractant» désignent selon le contexte la Principauté du Liechtenstein ou la Suisse;
+- a) les expressions «un État contractant» et «l’autre État contractant» désignent selon le contexte la Principauté du Liechtenstein ou la Suisse;
 - b) (i) le terme «Liechtenstein» comprend la Principauté du Liechtenstein et, utilisé dans un sens géographique, le territoire de la Principauté du Liechtenstein conformément au droit international et à son droit interne,
   - (ii) le terme «Suisse» désigne le territoire de la Confédération suisse conformément à son droit interne et au droit international;
 
 - c) le terme «personne» comprend les personnes physiques, les sociétés, les successions non partagées («ruhender Nachlass») et tous autres groupements de personnes;
 - d) le terme «société» désigne toute personne morale ou toute entité qui est considérée comme une personne morale aux fins d’imposition;
-- e) les expressions «entreprise d’un Etat contractant» et «entreprise de l’autre Etat contractant» désignent respectivement une entreprise exploitée par un résident d’un Etat contractant et une entreprise exploitée par un résident de l’autre Etat contractant;
-- f) l’expression «trafic international» désigne tout transport effectué par un navire ou un aéronef exploité par une entreprise dont le siège de direction effective est situé dans un Etat contractant, sauf lorsque le navire ou l’aéronef n’est exploité qu’entre des points situés dans l’autre Etat contractant;
+- e) les expressions «entreprise d’un État contractant» et «entreprise de l’autre État contractant» désignent respectivement une entreprise exploitée par un résident d’un État contractant et une entreprise exploitée par un résident de l’autre État contractant;
+- f) l’expression «trafic international» désigne tout transport effectué par un navire ou un aéronef exploité par une entreprise dont le siège de direction effective est situé dans un État contractant, sauf lorsque le navire ou l’aéronef n’est exploité qu’entre des points situés dans l’autre État contractant;
 - g)
 
   l’expression «autorité compétente» désigne:
@@ -100,40 +103,40 @@ Au sens de la présente Convention, à moins que le contexte n’exige une inter
 
 - h)
 
-  le terme «national», en ce qui concerne un Etat contractant, désigne:
+  le terme «national», en ce qui concerne un État contractant, désigne:
 
-  - (i) toute personne physique qui possède la nationalité de cet Etat contractant, et
-  - (ii) toute personne morale, société de personnes ou association constituée conformément à la législation en vigueur dans cet Etat contractant;
+  - (i) toute personne physique qui possède la nationalité de cet État contractant, et
+  - (ii) toute personne morale, société de personnes ou association constituée conformément à la législation en vigueur dans cet État contractant;
 
 - i)
 
-  l’expression «institution de prévoyance» désigne tout plan, programme, fonds, fondation, trust ou autre arrangement établi dans un Etat contractant, qui:
+  l’expression «institution de prévoyance» désigne tout plan, programme, fonds, fondation, trust ou autre arrangement établi dans un État contractant, qui:
 
-  - (i) est réglementé par cet Etat, et
+  - (i) est réglementé par cet État, et
   - (ii) exerce une activité principalement en vue d’administrer ou de verser des pensions ou pour générer des revenus au profit d’une ou de plusieurs de ces institutions.
 
-<sup>2.</sup> Pour l’application de la Convention à un moment donné par un Etat contractant, tout terme ou expression qui n’y est pas défini a, sauf si le contexte exige une interprétation différente, le sens que lui attribue, à ce moment, le droit de cet Etat concernant les impôts auxquels s’applique la Convention, le sens attribué à ce terme ou expression par le droit fiscal de cet Etat prévalant sur le sens que lui attribuent les autres branches du droit de cet Etat.
+<sup>2.</sup> Pour l’application de la Convention à un moment donné par un État contractant, tout terme ou expression qui n’y est pas défini a, sauf si le contexte exige une interprétation différente, le sens que lui attribue, à ce moment, le droit de cet État concernant les impôts auxquels s’applique la Convention, le sens attribué à ce terme ou expression par le droit fiscal de cet État prévalant sur le sens que lui attribuent les autres branches du droit de cet État.
 
 #### Art. 4
 
 **Résident**
 
-<sup>1.</sup> Au sens de la présente Convention, l’expression «résident d’un Etat contractant» désigne toute personne qui, en vertu de la législation de cet Etat, est assujettie à l’impôt dans cet Etat, en raison de son domicile, de sa résidence, de son siège de direction ou de tout autre critère de nature analogue et s’applique aussi à cet Etat ainsi qu’à toutes ses subdivisions politiques ou à ses collectivités locales. Toutefois, cette expression ne comprend pas les personnes qui ne sont assujetties à l’impôt dans cet Etat que pour les revenus de sources situées dans cet Etat ou pour la fortune qui y est située.
+<sup>1.</sup> Au sens de la présente Convention, l’expression «résident d’un État contractant» désigne toute personne qui, en vertu de la législation de cet État, est assujettie à l’impôt dans cet État, en raison de son domicile, de sa résidence, de son siège de direction ou de tout autre critère de nature analogue et s’applique aussi à cet État ainsi qu’à toutes ses subdivisions politiques ou à ses collectivités locales. Toutefois, cette expression ne comprend pas les personnes qui ne sont assujetties à l’impôt dans cet État que pour les revenus de sources situées dans cet État ou pour la fortune qui y est située.
 
 <sup>2.</sup>
 
-Lorsque, selon les dispositions du par. 1, une personne physique est un résident des deux Etats contractants, sa situation est réglée de la manière suivante:
+Lorsque, selon les dispositions du par. 1, une personne physique est un résident des deux États contractants, sa situation est réglée de la manière suivante:
 
-- a) cette personne est considérée comme un résident seulement de l’Etat où elle dispose d’un foyer d’habitation permanent; si elle dispose d’un foyer d’habitation permanent dans les deux Etats, elle est considérée comme un résident seulement de l’Etat avec lequel ses liens personnels et économiques sont les plus étroits (centre des intérêts vitaux);
-- b) si l’Etat où cette personne a le centre de ses intérêts vitaux ne peut pas être déterminé, ou si elle ne dispose d’un foyer d’habitation permanent dans aucun des Etats, elle est considérée comme un résident seulement de l’Etat où elle séjourne de façon habituelle;
-- c) si cette personne séjourne de façon habituelle dans les deux Etats ou si elle ne séjourne de façon habituelle dans aucun d’eux, elle est considérée comme un résident seulement de l’Etat dont elle possède la nationalité;
-- d) si cette personne possède la nationalité des deux Etats ou si elle ne possède la nationalité d’aucun d’eux, les autorités compétentes des Etats contractants tranchent la question d’un commun accord.
+- a) cette personne est considérée comme un résident seulement de l’État où elle dispose d’un foyer d’habitation permanent; si elle dispose d’un foyer d’habitation permanent dans les deux États, elle est considérée comme un résident seulement de l’État avec lequel ses liens personnels et économiques sont les plus étroits (centre des intérêts vitaux);
+- b) si l’État où cette personne a le centre de ses intérêts vitaux ne peut pas être déterminé, ou si elle ne dispose d’un foyer d’habitation permanent dans aucun des États, elle est considérée comme un résident seulement de l’État où elle séjourne de façon habituelle;
+- c) si cette personne séjourne de façon habituelle dans les deux États ou si elle ne séjourne de façon habituelle dans aucun d’eux, elle est considérée comme un résident seulement de l’État dont elle possède la nationalité;
+- d) si cette personne possède la nationalité des deux États ou si elle ne possède la nationalité d’aucun d’eux, les autorités compétentes des États contractants tranchent la question d’un commun accord.
 
-<sup>3.</sup> Lorsque, selon les dispositions du par. 1, une personne autre qu’une personne physique est un résident des deux Etats contractants, elle est considérée comme un résident seulement de l’Etat où son siège de direction effective est situé.
+<sup>3.</sup> Lorsque, selon les dispositions du par. 1, une personne autre qu’une personne physique est un résident des deux États contractants, elle est considérée comme un résident seulement de l’État où son siège de direction effective est situé.
 
 #### Art. 5
 
-**Etablissement stable**
+**Établissement stable**
 
 <sup>1.</sup> Au sens de la présente Convention, l’expression «établissement stable» désigne une installation fixe d’affaires par l’intermédiaire de laquelle une entreprise exerce tout ou partie de son activité.
 
@@ -161,19 +164,19 @@ Nonobstant les dispositions précédentes du présent article, on considère qu�
 - e) une installation fixe d’affaires est utilisée, pour l’entreprise, aux seules fins de publicité, de fourniture d’informations, de recherches scientifiques ou d’activités analogues qui ont un caractère préparatoire ou auxiliaire;
 - f) une installation fixe d’affaires est utilisée aux seules fins de l’exercice cumulé d’activités mentionnées aux let. a) à e), à condition que l’activité d’ensemble de l’installation fixe d’affaires résultant de ce cumul garde un caractère préparatoire ou auxiliaire.
 
-<sup>5.</sup> Nonobstant les dispositions des par. 1 et 2, lorsqu’une personne – autre qu’un agent jouissant d’un statut indépendant auquel s’applique le par. 6 – agit pour le compte d’une entreprise et dispose dans un Etat contractant de pouvoirs qu’elle y exerce habituellement lui permettant de conclure des contrats au nom de l’entreprise, cette entreprise est considérée comme ayant un établissement stable dans cet Etat pour toutes les activités que cette personne exerce pour l’entreprise, à moins que les activités de cette personne ne soient limitées à celles qui sont mentionnées au par. 4 et qui, si elles étaient exercées par l’intermédiaire d’une installation fixe d’affaires, ne permettraient pas de considérer cette installation comme un établissement stable selon les dispositions de ce paragraphe.
+<sup>5.</sup> Nonobstant les dispositions des par. 1 et 2, lorsqu’une personne – autre qu’un agent jouissant d’un statut indépendant auquel s’applique le par. 6 – agit pour le compte d’une entreprise et dispose dans un État contractant de pouvoirs qu’elle y exerce habituellement lui permettant de conclure des contrats au nom de l’entreprise, cette entreprise est considérée comme ayant un établissement stable dans cet État pour toutes les activités que cette personne exerce pour l’entreprise, à moins que les activités de cette personne ne soient limitées à celles qui sont mentionnées au par. 4 et qui, si elles étaient exercées par l’intermédiaire d’une installation fixe d’affaires, ne permettraient pas de considérer cette installation comme un établissement stable selon les dispositions de ce paragraphe.
 
-<sup>6.</sup> Une entreprise n’est pas considérée comme ayant un établissement stable dans un Etat contractant du seul fait qu’elle y exerce son activité par l’entremise d’un courtier, d’un commissionnaire général ou de tout autre agent jouissant d’un statut indépendant, à condition que ces personnes agissent dans le cadre ordinaire de leur activité.
+<sup>6.</sup> Une entreprise n’est pas considérée comme ayant un établissement stable dans un État contractant du seul fait qu’elle y exerce son activité par l’entremise d’un courtier, d’un commissionnaire général ou de tout autre agent jouissant d’un statut indépendant, à condition que ces personnes agissent dans le cadre ordinaire de leur activité.
 
-<sup>7.</sup> Le fait qu’une société qui est un résident d’un Etat contractant contrôle ou est contrôlée par une société qui est un résident de l’autre Etat contractant ou qui y exerce son activité (que ce soit par l’intermédiaire d’un établissement stable ou non) ne suffit pas, en lui-même, à faire de l’une quelconque de ces sociétés un établissement stable de l’autre.
+<sup>7.</sup> Le fait qu’une société qui est un résident d’un État contractant contrôle ou est contrôlée par une société qui est un résident de l’autre État contractant ou qui y exerce son activité (que ce soit par l’intermédiaire d’un établissement stable ou non) ne suffit pas, en lui-même, à faire de l’une quelconque de ces sociétés un établissement stable de l’autre.
 
 #### Art. 6
 
 **Revenus immobiliers**
 
-<sup>1.</sup> Les revenus qu’un résident d’un Etat contractant tire de biens immobiliers (y compris les revenus des exploitations agricoles ou forestières) situés dans l’autre Etat contractant, sont imposables dans cet autre Etat.
+<sup>1.</sup> Les revenus qu’un résident d’un État contractant tire de biens immobiliers (y compris les revenus des exploitations agricoles ou forestières) situés dans l’autre État contractant, sont imposables dans cet autre État.
 
-<sup>2.</sup> L’expression «biens immobiliers» a le sens que lui attribue le droit de l’Etat contractant où les biens considérés sont situés. L’expression comprend en tous cas les accessoires, le cheptel mort ou vif des exploitations agricoles et forestières, les droits auxquels s’appliquent les dispositions du droit privé concernant la propriété foncière, l’usufruit des biens immobiliers et les droits à des paiements variables ou fixes pour l’exploitation ou la concession de l’exploitation de gisements minéraux, sources et autres ressources naturelles; les navires, bateaux et aéronefs ne sont pas considérés comme des biens immobiliers.
+<sup>2.</sup> L’expression «biens immobiliers» a le sens que lui attribue le droit de l’État contractant où les biens considérés sont situés. L’expression comprend en tous cas les accessoires, le cheptel mort ou vif des exploitations agricoles et forestières, les droits auxquels s’appliquent les dispositions du droit privé concernant la propriété foncière, l’usufruit des biens immobiliers et les droits à des paiements variables ou fixes pour l’exploitation ou la concession de l’exploitation de gisements minéraux, sources et autres ressources naturelles; les navires, bateaux et aéronefs ne sont pas considérés comme des biens immobiliers.
 
 <sup>3.</sup> Les dispositions du par. 1 s’appliquent aux revenus provenant de l’exploitation directe, de la location ou de l’affermage, ainsi que de toute autre forme d’exploitation de biens immobiliers.
 
@@ -183,11 +186,11 @@ Nonobstant les dispositions précédentes du présent article, on considère qu�
 
 **Bénéfices des entreprises**
 
-<sup>1.</sup> Les bénéfices d’une entreprise d’un Etat contractant ne sont imposables que dans cet Etat, à moins que l’entreprise n’exerce son activité dans l’autre Etat contractant par l’intermédiaire d’un établissement stable qui y est situé. Si l’entreprise exerce son activité d’une telle façon, les bénéfices qui sont attribuables à l’établissement stable conformément aux dispositions du par. 2 sont imposables dans l’autre Etat.
+<sup>1.</sup> Les bénéfices d’une entreprise d’un État contractant ne sont imposables que dans cet État, à moins que l’entreprise n’exerce son activité dans l’autre État contractant par l’intermédiaire d’un établissement stable qui y est situé. Si l’entreprise exerce son activité d’une telle façon, les bénéfices qui sont attribuables à l’établissement stable conformément aux dispositions du par. 2 sont imposables dans l’autre État.
 
-<sup>2.</sup> Aux fins de cet article et de l’art. 23, les bénéfices qui sont attribuables dans chaque Etat contractant à l’établissement stable mentionné au par. 1 sont ceux qu’il aurait pu réaliser, en particulier dans ses opérations internes avec d’autres parties de l’entreprise, s’il avait constitué une entreprise distincte et indépendante exerçant des activités identiques ou analogues dans des conditions identiques ou analogues, compte tenu des fonctions exercées, des actifs utilisés et des risques assumés par l’entreprise par l’intermédiaire de l’établissement stable et des autres parties de l’entreprise.
+<sup>2.</sup> Aux fins de cet article et de l’art. 23, les bénéfices qui sont attribuables dans chaque État contractant à l’établissement stable mentionné au par. 1 sont ceux qu’il aurait pu réaliser, en particulier dans ses opérations internes avec d’autres parties de l’entreprise, s’il avait constitué une entreprise distincte et indépendante exerçant des activités identiques ou analogues dans des conditions identiques ou analogues, compte tenu des fonctions exercées, des actifs utilisés et des risques assumés par l’entreprise par l’intermédiaire de l’établissement stable et des autres parties de l’entreprise.
 
-<sup>3.</sup> Lorsque, conformément au par. 2, un Etat contractant ajuste les bénéfices qui sont attribuables à un établissement stable d’une entreprise d’un des Etats contractants et impose en conséquence des bénéfices de l’entreprise qui ont été imposés dans l’autre Etat, cet autre Etat contractant procède, dans la mesure nécessaire pour éliminer la double imposition, à un ajustement approprié s’il est d’accord avec l’ajustement effectué par le premier Etat; si cet autre Etat contractant n’est pas d’accord avec cet ajustement, les Etats contractants éliminent toute double imposition qui en résulte par voie d’accord amiable.
+<sup>3.</sup> Lorsque, conformément au par. 2, un État contractant ajuste les bénéfices qui sont attribuables à un établissement stable d’une entreprise d’un des États contractants et impose en conséquence des bénéfices de l’entreprise qui ont été imposés dans l’autre État, cet autre État contractant procède, dans la mesure nécessaire pour éliminer la double imposition, à un ajustement approprié s’il est d’accord avec l’ajustement effectué par le premier État; si cet autre État contractant n’est pas d’accord avec cet ajustement, les États contractants éliminent toute double imposition qui en résulte par voie d’accord amiable.
 
 <sup>4.</sup> Lorsque les bénéfices comprennent des éléments de revenu traités séparément dans d’autres articles de la présente Convention, les dispositions de ces articles ne sont pas affectées par les dispositions du présent article.
 
@@ -195,9 +198,9 @@ Nonobstant les dispositions précédentes du présent article, on considère qu�
 
 **Navigation maritime, intérieure et aérienne**
 
-<sup>1.</sup> Les bénéfices provenant de l’exploitation, en trafic international, de navires ou d’aéronefs ne sont imposables que dans l’Etat contractant où le siège de direction effective de l’entreprise est situé.
+<sup>1.</sup> Les bénéfices provenant de l’exploitation, en trafic international, de navires ou d’aéronefs ne sont imposables que dans l’État contractant où le siège de direction effective de l’entreprise est situé.
 
-<sup>2.</sup> Si le siège de direction effective d’une entreprise de navigation maritime est à bord d’un navire, ce siège est considéré comme situé dans l’Etat contractant où se trouve le port d’attache de ce navire, ou à défaut de port d’attache, dans l’Etat contractant dont l’exploitant du navire est un résident.
+<sup>2.</sup> Si le siège de direction effective d’une entreprise de navigation maritime est à bord d’un navire, ce siège est considéré comme situé dans l’État contractant où se trouve le port d’attache de ce navire, ou à défaut de port d’attache, dans l’État contractant dont l’exploitant du navire est un résident.
 
 <sup>3.</sup> Les dispositions du par. 1 s’appliquent aussi aux bénéfices provenant de la participation à un pool, une exploitation en commun ou un organisme international d’exploitation.
 
@@ -209,83 +212,83 @@ Nonobstant les dispositions précédentes du présent article, on considère qu�
 
 Lorsque:
 
-- a) une entreprise d’un Etat contractant participe directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise de l’autre Etat contractant, ou que
-- b) les mêmes personnes participent directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise d’un Etat contractant et d’une entreprise de l’autre Etat contractant,
+- a) une entreprise d’un État contractant participe directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise de l’autre État contractant, ou que
+- b) les mêmes personnes participent directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise d’un État contractant et d’une entreprise de l’autre État contractant,
 
-<sup>2.</sup> Lorsqu’un Etat contractant inclut dans les bénéfices d’une entreprise de cet Etat – et impose en conséquence – des bénéfices sur lesquels une entreprise de l’autre Etat contractant a été imposée dans cet autre Etat, et que les bénéfices ainsi inclus sont des bénéfices qui auraient été réalisés par l’entreprise du premier Etat si les conditions convenues entre les deux entreprises avaient été celles qui auraient été convenues entre des entreprises indépendantes, l’autre Etat procède à un ajustement approprié du montant de l’impôt qui y a été perçu sur ces bénéfices. Pour déterminer cet ajustement, il est tenu compte des autres dispositions de la présente Convention et, si c’est nécessaire, les autorités compétentes des Etats contractants se consultent.
+<sup>2.</sup> Lorsqu’un État contractant inclut dans les bénéfices d’une entreprise de cet État – et impose en conséquence – des bénéfices sur lesquels une entreprise de l’autre État contractant a été imposée dans cet autre État, et que les bénéfices ainsi inclus sont des bénéfices qui auraient été réalisés par l’entreprise du premier État si les conditions convenues entre les deux entreprises avaient été celles qui auraient été convenues entre des entreprises indépendantes, l’autre État procède à un ajustement approprié du montant de l’impôt qui y a été perçu sur ces bénéfices. Pour déterminer cet ajustement, il est tenu compte des autres dispositions de la présente Convention et, si c’est nécessaire, les autorités compétentes des États contractants se consultent.
 
 #### Art. 10
 
 **Dividendes**
 
-<sup>1.</sup> Les dividendes payés par une société qui est un résident d’un Etat contractant à un résident de l’autre Etat contractant sont imposables dans cet autre Etat.
+<sup>1.</sup> Les dividendes payés par une société qui est un résident d’un État contractant à un résident de l’autre État contractant sont imposables dans cet autre État.
 
-<sup>2.</sup> Toutefois, ces dividendes sont aussi imposables dans l’Etat contractant dont la société qui paie les dividendes est un résident, et selon la législation de cet Etat, mais si le bénéficiaire effectif des dividendes est un résident de l’autre Etat contractant, l’impôt ainsi établi ne peut excéder 15 % du montant brut des dividendes.
+<sup>2.</sup> Toutefois, ces dividendes sont aussi imposables dans l’État contractant dont la société qui paie les dividendes est un résident, et selon la législation de cet État, mais si le bénéficiaire effectif des dividendes est un résident de l’autre État contractant, l’impôt ainsi établi ne peut excéder 15 % du montant brut des dividendes.
 
 <sup>3.</sup>
 
-Nonobstant les dispositions du par. 2, l’Etat contractant dont la société qui paie les dividendes est un résident exempte de l’impôt les dividendes payés par cette société, si le bénéficiaire effectif des dividendes est:
+Nonobstant les dispositions du par. 2, l’État contractant dont la société qui paie les dividendes est un résident exempte de l’impôt les dividendes payés par cette société, si le bénéficiaire effectif des dividendes est:
 
-- a) une société (autre qu’une société de personnes) qui est un résident de l’autre Etat contractant et qui détient, durant au moins une année avant le paiement des dividendes, directement au moins 10 % du capital de la société qui paie les dividendes, ou
+- a) une société (autre qu’une société de personnes) qui est un résident de l’autre État contractant et qui détient, durant au moins une année avant le paiement des dividendes, directement au moins 10 % du capital de la société qui paie les dividendes, ou
 - b) une institution de prévoyance, ou
-- c) un Etat contractant, une de ses subdivisions politiques, une de ses collectivités locales ou sa banque nationale.
+- c) un État contractant, une de ses subdivisions politiques, une de ses collectivités locales ou sa banque nationale.
 
-<sup>4.</sup> Les autorités compétentes des Etats contractants règlent d’un commun accord les modalités d’application de ces limitations. Les par. 2 et 3 n’affectent pas l’imposition de la société au titre des bénéfices qui servent au paiement des dividendes.
+<sup>4.</sup> Les autorités compétentes des États contractants règlent d’un commun accord les modalités d’application de ces limitations. Les par. 2 et 3 n’affectent pas l’imposition de la société au titre des bénéfices qui servent au paiement des dividendes.
 
-<sup>5.</sup> Le terme «dividendes» employé dans le présent article désigne les revenus provenant d’actions, actions ou bons de jouissance, parts de mine, parts de fondateur ou autres parts bénéficiaires à l’exception des créances, ainsi que les revenus d’autres parts sociales soumis au même régime fiscal que les revenus d’actions par la législation de l’Etat dont la société distributrice est un résident.
+<sup>5.</sup> Le terme «dividendes» employé dans le présent article désigne les revenus provenant d’actions, actions ou bons de jouissance, parts de mine, parts de fondateur ou autres parts bénéficiaires à l’exception des créances, ainsi que les revenus d’autres parts sociales soumis au même régime fiscal que les revenus d’actions par la législation de l’État dont la société distributrice est un résident.
 
-<sup>6.</sup> Les dispositions des par. 1, 2 et 3 ne s’appliquent pas lorsque le bénéficiaire effectif des dividendes, résident d’un Etat contractant, exerce dans l’autre Etat contractant dont la société qui paie les dividendes est un résident, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que la participation génératrice des dividendes s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 14, suivant les cas, sont applicables.
+<sup>6.</sup> Les dispositions des par. 1, 2 et 3 ne s’appliquent pas lorsque le bénéficiaire effectif des dividendes, résident d’un État contractant, exerce dans l’autre État contractant dont la société qui paie les dividendes est un résident, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que la participation génératrice des dividendes s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 14, suivant les cas, sont applicables.
 
-<sup>7.</sup> Lorsqu’une société qui est un résident d’un Etat contractant tire des bénéfices ou des revenus de l’autre Etat contractant, cet autre Etat ne peut percevoir aucun impôt sur les dividendes payés par la société, sauf dans la mesure où ces dividendes sont payés à un résident de cet autre Etat ou dans la mesure où la participation génératrice des dividendes se rattache effectivement à un établissement stable ou à une base fixe situés dans cet autre Etat, ni prélever aucun impôt, au titre de l’imposition des bénéfices non distribués, sur les bénéfices non distribués de la société, même si les dividendes payés ou les bénéfices non distribués consistent en tout ou en partie en bénéfices ou revenus provenant de cet autre Etat.
+<sup>7.</sup> Lorsqu’une société qui est un résident d’un État contractant tire des bénéfices ou des revenus de l’autre État contractant, cet autre État ne peut percevoir aucun impôt sur les dividendes payés par la société, sauf dans la mesure où ces dividendes sont payés à un résident de cet autre État ou dans la mesure où la participation génératrice des dividendes se rattache effectivement à un établissement stable ou à une base fixe situés dans cet autre État, ni prélever aucun impôt, au titre de l’imposition des bénéfices non distribués, sur les bénéfices non distribués de la société, même si les dividendes payés ou les bénéfices non distribués consistent en tout ou en partie en bénéfices ou revenus provenant de cet autre État.
 
 #### Art. 11
 
 **Intérêts**
 
-<sup>1.</sup> Les intérêts provenant d’un Etat contractant et dont le bénéficiaire effectif est un résident de l’autre Etat contractant ne sont imposables que dans cet autre Etat.
+<sup>1.</sup> Les intérêts provenant d’un État contractant et dont le bénéficiaire effectif est un résident de l’autre État contractant ne sont imposables que dans cet autre État.
 
 <sup>2.</sup> Le terme «intérêts» employé dans le présent article désigne les revenus des créances de toute nature, assorties ou non de garanties hypothécaires ou d’une clause de participation aux bénéfices du débiteur, et notamment les revenus des fonds publics et des obligations d’emprunts, y compris les primes et lots attachés à ces titres. Le terme «intérêts» ne s’applique pas aux éléments du revenu qui entrent dans le champ d’application de l’art. 10. Les pénalisations pour paiement tardif ne sont pas considérées comme des intérêts au sens du présent article.
 
-<sup>3.</sup> Les dispositions du par. 1 ne s’appliquent pas lorsque le bénéficiaire effectif des intérêts, résident d’un Etat contractant, exerce dans l’autre Etat contractant d’où proviennent les intérêts, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que la créance génératrice des intérêts s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 14, suivant les cas, sont applicables.
+<sup>3.</sup> Les dispositions du par. 1 ne s’appliquent pas lorsque le bénéficiaire effectif des intérêts, résident d’un État contractant, exerce dans l’autre État contractant d’où proviennent les intérêts, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que la créance génératrice des intérêts s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 14, suivant les cas, sont applicables.
 
-<sup>4.</sup> Lorsque, en raison de relations spéciales existant entre le débiteur et le bénéficiaire effectif ou que l’un et l’autre entretiennent avec de tierces personnes, le montant des intérêts, compte tenu de la créance pour laquelle ils sont payés, excède celui dont seraient convenus le débiteur et le bénéficiaire effectif en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire des paiements reste imposable selon la législation de chaque Etat contractant et compte tenu des autres dispositions de la présente Convention.
+<sup>4.</sup> Lorsque, en raison de relations spéciales existant entre le débiteur et le bénéficiaire effectif ou que l’un et l’autre entretiennent avec de tierces personnes, le montant des intérêts, compte tenu de la créance pour laquelle ils sont payés, excède celui dont seraient convenus le débiteur et le bénéficiaire effectif en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire des paiements reste imposable selon la législation de chaque État contractant et compte tenu des autres dispositions de la présente Convention.
 
 #### Art. 12
 
 **Redevances**
 
-<sup>1.</sup> Les redevances provenant d’un Etat contractant et dont le bénéficiaire effectif est un résident de l’autre Etat contractant ne sont imposables que dans cet autre Etat.
+<sup>1.</sup> Les redevances provenant d’un État contractant et dont le bénéficiaire effectif est un résident de l’autre État contractant ne sont imposables que dans cet autre État.
 
 <sup>2.</sup> Le terme «redevances» employé dans le présent article désigne les rémunérations de toute nature payées pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, artistique ou scientifique, y compris les films cinématographiques, d’un brevet, d’une marque de fabrique ou de commerce, d’un dessin ou d’un modèle, d’un plan, d’une formule ou d’un procédé secrets et pour des informations ayant trait à une expérience acquise dans le domaine industriel, commercial ou scientifique.
 
-<sup>3.</sup> Les dispositions du par. 1 ne s’appliquent pas lorsque le bénéficiaire effectif des redevances, résident d’un Etat contractant, exerce dans l’autre Etat contractant d’où proviennent les redevances, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des redevances s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 14, suivant les cas, sont applicables.
+<sup>3.</sup> Les dispositions du par. 1 ne s’appliquent pas lorsque le bénéficiaire effectif des redevances, résident d’un État contractant, exerce dans l’autre État contractant d’où proviennent les redevances, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des redevances s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 14, suivant les cas, sont applicables.
 
-<sup>4.</sup> Lorsque, en raison de relations spéciales existant entre le débiteur et le bénéficiaire effectif ou que l’un et l’autre entretiennent avec de tierces personnes, le montant des redevances, compte tenu de la prestation pour laquelle elles sont payées, excède celui dont seraient convenus le débiteur et le bénéficiaire effectif en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire des paiements reste imposable selon la législation de chaque Etat contractant et compte tenu des autres dispositions de la présente Convention.
+<sup>4.</sup> Lorsque, en raison de relations spéciales existant entre le débiteur et le bénéficiaire effectif ou que l’un et l’autre entretiennent avec de tierces personnes, le montant des redevances, compte tenu de la prestation pour laquelle elles sont payées, excède celui dont seraient convenus le débiteur et le bénéficiaire effectif en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire des paiements reste imposable selon la législation de chaque État contractant et compte tenu des autres dispositions de la présente Convention.
 
 #### Art. 13
 
 **Gains en capital**
 
-<sup>1.</sup> Les gains qu’un résident d’un Etat contractant tire de l’aliénation de biens immobiliers visés à l’art. 6, et situés dans l’autre Etat contractant, sont imposables dans cet autre Etat.
+<sup>1.</sup> Les gains qu’un résident d’un État contractant tire de l’aliénation de biens immobiliers visés à l’art. 6, et situés dans l’autre État contractant, sont imposables dans cet autre État.
 
-<sup>2.</sup> Les gains provenant de l’aliénation de biens mobiliers qui font partie de l’actif d’un établissement stable qu’une entreprise d’un Etat contractant a dans l’autre Etat contractant, ou de biens mobiliers qui appartiennent à une base fixe dont un résident d’un Etat contractant dispose dans l’autre Etat contractant pour l’exercice d’une profession indépendante, y compris de tels gains provenant de l’aliénation de cet établissement stable (seul ou avec l’ensemble de l’entreprise) ou de cette base fixe, sont imposables dans cet autre Etat.
+<sup>2.</sup> Les gains provenant de l’aliénation de biens mobiliers qui font partie de l’actif d’un établissement stable qu’une entreprise d’un État contractant a dans l’autre État contractant, ou de biens mobiliers qui appartiennent à une base fixe dont un résident d’un État contractant dispose dans l’autre État contractant pour l’exercice d’une profession indépendante, y compris de tels gains provenant de l’aliénation de cet établissement stable (seul ou avec l’ensemble de l’entreprise) ou de cette base fixe, sont imposables dans cet autre État.
 
-<sup>3.</sup> Les gains provenant de l’aliénation de navires ou aéronefs exploités en trafic international ou de biens mobiliers affectés à l’exploitation de ces navires ou aéronefs, ne sont imposables que dans l’Etat contractant où le siège de direction effective de l’entreprise est situé.
+<sup>3.</sup> Les gains provenant de l’aliénation de navires ou aéronefs exploités en trafic international ou de biens mobiliers affectés à l’exploitation de ces navires ou aéronefs, ne sont imposables que dans l’État contractant où le siège de direction effective de l’entreprise est situé.
 
 <sup>4.</sup>
 
-Les gains qu’un résident d’un Etat contractant tire de l’aliénation d’actions qui tirent directement ou indirectement plus de 50 % de leur valeur de biens immobiliers situés dans l’autre Etat contractant sont imposables dans cet autre Etat. Les dispositions de la phrase précédente ne sont pas applicables:
+Les gains qu’un résident d’un État contractant tire de l’aliénation d’actions qui tirent directement ou indirectement plus de 50 % de leur valeur de biens immobiliers situés dans l’autre État contractant sont imposables dans cet autre État. Les dispositions de la phrase précédente ne sont pas applicables:
 
-- a) aux cessions d’actions cotées dans une Bourse établie dans l’un ou l’autre Etat contractant ou dans une bourse convenue par les autorités compétentes des Etats contractants, ou
+- a) aux cessions d’actions cotées dans une Bourse établie dans l’un ou l’autre État contractant ou dans une bourse convenue par les autorités compétentes des États contractants, ou
 - b) aux cessions d’actions d’une société dont les actifs sont constitués pour plus de 50 % de leur valeur de biens immobiliers dans lesquels cette société exerce ses propres activités industrielles ou commerciales.
 
-<sup>5.</sup> Les gains provenant de l’aliénation de tous biens autres que ceux visés aux par. 1, 2, 3 et 4 ne sont imposables que dans l’Etat contractant dont le cédant est un résident.
+<sup>5.</sup> Les gains provenant de l’aliénation de tous biens autres que ceux visés aux par. 1, 2, 3 et 4 ne sont imposables que dans l’État contractant dont le cédant est un résident.
 
 #### Art. 14
 
 **Professions indépendantes**
 
-<sup>1.</sup> Les revenus qu’une personne physique qui est un résident d’un Etat contractant tire d’une profession libérale ou d’autres activités de caractère indépendant ne sont imposables que dans cet Etat, à moins que ce résident ne dispose de façon habituelle dans l’autre Etat contractant d’une base fixe pour l’exercice de ses activités. S’il dispose d’une telle base fixe, les revenus sont imposables dans l’autre Etat mais uniquement dans la mesure où ils sont imputables à cette base fixe.
+<sup>1.</sup> Les revenus qu’une personne physique qui est un résident d’un État contractant tire d’une profession libérale ou d’autres activités de caractère indépendant ne sont imposables que dans cet État, à moins que ce résident ne dispose de façon habituelle dans l’autre État contractant d’une base fixe pour l’exercice de ses activités. S’il dispose d’une telle base fixe, les revenus sont imposables dans l’autre État mais uniquement dans la mesure où ils sont imputables à cette base fixe.
 
 <sup>2.</sup> L’expression «profession libérale» comprend notamment les activités indépendantes d’ordre scientifique, littéraire, artistique, éducatif ou pédagogique, ainsi que les activités indépendantes des médecins, avocats, ingénieurs, architectes, dentistes, comptables et fiduciaires.
 
@@ -293,81 +296,81 @@ Les gains qu’un résident d’un Etat contractant tire de l’aliénation d’
 
 **Professions dépendantes**
 
-<sup>1.</sup> Sous réserve des dispositions du par. 4 et des art. 16, 18 et 19, les salaires, traitements et autres rémunérations similaires qu’un résident d’un Etat contractant reçoit au titre d’un emploi salarié ne sont imposables que dans cet Etat, à moins que l’emploi ne soit exercé dans l’autre Etat contractant. Si l’emploi y est exercé, les rémunérations reçues à ce titre sont imposables dans cet autre Etat.
+<sup>1.</sup> Sous réserve des dispositions du par. 4 et des art. 16, 18 et 19, les salaires, traitements et autres rémunérations similaires qu’un résident d’un État contractant reçoit au titre d’un emploi salarié ne sont imposables que dans cet État, à moins que l’emploi ne soit exercé dans l’autre État contractant. Si l’emploi y est exercé, les rémunérations reçues à ce titre sont imposables dans cet autre État.
 
 <sup>2.</sup>
 
-Nonobstant les dispositions du par. 1, les rémunérations qu’un résident d’un Etat contractant reçoit au titre d’un emploi salarié exercé dans l’autre Etat contractant ne sont imposables que dans le premier Etat si:
+Nonobstant les dispositions du par. 1, les rémunérations qu’un résident d’un État contractant reçoit au titre d’un emploi salarié exercé dans l’autre État contractant ne sont imposables que dans le premier État si:
 
-- a) le bénéficiaire séjourne dans l’autre Etat pendant une période ou des périodes n’excédant pas au total 183 jours au cours de l’année fiscale considérée, et
-- b) les rémunérations sont payées par un employeur ou pour le compte d’un employeur qui n’est pas un résident de l’autre Etat, et
-- c) la charge des rémunérations n’est pas supportée par un établissement stable ou une base fixe que l’employeur a dans l’autre Etat.
+- a) le bénéficiaire séjourne dans l’autre État pendant une période ou des périodes n’excédant pas au total 183 jours au cours de l’année fiscale considérée, et
+- b) les rémunérations sont payées par un employeur ou pour le compte d’un employeur qui n’est pas un résident de l’autre État, et
+- c) la charge des rémunérations n’est pas supportée par un établissement stable ou une base fixe que l’employeur a dans l’autre État.
 
-<sup>3.</sup> Nonobstant les dispositions précédentes du présent article, les rémunérations reçues au titre d’un emploi salarié exercé à bord d’un navire ou d’un aéronef exploité en trafic international sont imposables dans l’Etat contractant où le siège de direction effective de l’entreprise est situé.
+<sup>3.</sup> Nonobstant les dispositions précédentes du présent article, les rémunérations reçues au titre d’un emploi salarié exercé à bord d’un navire ou d’un aéronef exploité en trafic international sont imposables dans l’État contractant où le siège de direction effective de l’entreprise est situé.
 
-<sup>4.</sup> Sous réserve des dispositions du par. 1 de l’art.19, les revenus que réalisent des personnes au titre d’un emploi salarié, qui ont leur domicile dans un Etat contractant et leur lieu de travail dans l’autre Etat contractant et qui, en règle générale, s’y rendent chaque jour ouvré de leur domicile (frontaliers) ne sont imposables que dans l’Etat dont elles sont des résidentes.
+<sup>4.</sup> Sous réserve des dispositions du par. 1 de l’art.19, les revenus que réalisent des personnes au titre d’un emploi salarié, qui ont leur domicile dans un État contractant et leur lieu de travail dans l’autre État contractant et qui, en règle générale, s’y rendent chaque jour ouvré de leur domicile (frontaliers) ne sont imposables que dans l’État dont elles sont des résidentes.
 
 #### Art. 16
 
 **Tantièmes**
 
-Les tantièmes, jetons de présence et autres rétributions similaires qu’un résident d’un Etat contractant reçoit en sa qualité de membre du conseil d’administration ou de surveillance d’une société qui est un résident de l’autre Etat contractant sont imposables dans cet autre Etat.
+Les tantièmes, jetons de présence et autres rétributions similaires qu’un résident d’un État contractant reçoit en sa qualité de membre du conseil d’administration ou de surveillance d’une société qui est un résident de l’autre État contractant sont imposables dans cet autre État.
 
 #### Art. 17
 
 **Artistes et sportifs**
 
-<sup>1.</sup> Nonobstant les dispositions des art. 14 et 15, les revenus qu’un résident d’un Etat contractant tire de ses activités personnelles exercées dans l’autre Etat contractant en tant qu’artiste du spectacle, tel qu’un artiste de théâtre, de cinéma, de la radio ou de la télévision, ou qu’un musicien, ou en tant que sportif, sont imposables dans cet autre Etat.
+<sup>1.</sup> Nonobstant les dispositions des art. 14 et 15, les revenus qu’un résident d’un État contractant tire de ses activités personnelles exercées dans l’autre État contractant en tant qu’artiste du spectacle, tel qu’un artiste de théâtre, de cinéma, de la radio ou de la télévision, ou qu’un musicien, ou en tant que sportif, sont imposables dans cet autre État.
 
-<sup>2.</sup> Lorsque les revenus d’activités qu’un artiste du spectacle ou un sportif exerce personnellement et en cette qualité sont attribués non pas à l’artiste ou au sportif lui-même mais à une autre personne, ces revenus sont imposables, nonobstant les dispositions des art. 7, 14 et 15, dans l’Etat contractant où les activités de l’artiste ou du sportif sont exercées. Les dispositions de la phrase précédente ne s’appliquent pas s’il est établi que ni l’artiste du spectacle ou le sportif, ni des personnes qui lui sont associées, ne participent directement aux bénéfices de cette personne.
+<sup>2.</sup> Lorsque les revenus d’activités qu’un artiste du spectacle ou un sportif exerce personnellement et en cette qualité sont attribués non pas à l’artiste ou au sportif lui-même mais à une autre personne, ces revenus sont imposables, nonobstant les dispositions des art. 7, 14 et 15, dans l’État contractant où les activités de l’artiste ou du sportif sont exercées. Les dispositions de la phrase précédente ne s’appliquent pas s’il est établi que ni l’artiste du spectacle ou le sportif, ni des personnes qui lui sont associées, ne participent directement aux bénéfices de cette personne.
 
-<sup>3.</sup> Les dispositions des par. 1 et 2 ne s’appliquent pas aux revenus d’activités exercées dans un Etat contractant par des artistes du spectacle ou des sportifs, lorsque le séjour dans cet Etat est financé entièrement ou principalement, directement ou indirectement, de fonds publics de l’autre Etat contractant, de ses subdivisions politiques ou de ses collectivités locales. Dans ce cas, ces revenus ne sont imposables que dans l’Etat contractant dont l’artiste du spectacle ou le sportif est un résident.
+<sup>3.</sup> Les dispositions des par. 1 et 2 ne s’appliquent pas aux revenus d’activités exercées dans un État contractant par des artistes du spectacle ou des sportifs, lorsque le séjour dans cet État est financé entièrement ou principalement, directement ou indirectement, de fonds publics de l’autre État contractant, de ses subdivisions politiques ou de ses collectivités locales. Dans ce cas, ces revenus ne sont imposables que dans l’État contractant dont l’artiste du spectacle ou le sportif est un résident.
 
 #### Art. 18
 
 **Pensions**
 
-Sous réserve des dispositions de l’art. 19, les pensions et autres rémunérations similaires (y compris prestations en capital), payées à un résident d’un Etat contractant au titre d’un emploi antérieur ou d’une activité indépendante antérieure, ne sont imposables que dans cet Etat.
+Sous réserve des dispositions de l’art. 19, les pensions et autres rémunérations similaires (y compris prestations en capital), payées à un résident d’un État contractant au titre d’un emploi antérieur ou d’une activité indépendante antérieure, ne sont imposables que dans cet État.
 
 #### Art. 19
 
 **Fonctions publiques**
 
-<sup>1.</sup> Les rémunérations, y compris les pensions, rentes, prestations en capital et autres rémunérations similaires, payées par un Etat contractant, une de ses subdivisions politiques ou collectivités locales, ou par une personne morale de droit public, soit directement soit par prélèvement sur des fonds qu’ils ont constitués, à une personne physique, au titre de services rendus à cet Etat, à cette subdivision, collectivité ou personne morale, ne sont imposables que dans cet Etat.
+<sup>1.</sup> Les rémunérations, y compris les pensions, rentes, prestations en capital et autres rémunérations similaires, payées par un État contractant, une de ses subdivisions politiques ou collectivités locales, ou par une personne morale de droit public, soit directement soit par prélèvement sur des fonds qu’ils ont constitués, à une personne physique, au titre de services rendus à cet État, à cette subdivision, collectivité ou personne morale, ne sont imposables que dans cet État.
 
-<sup>2.</sup> Les dispositions des art. 15 et 18 s’appliquent aux rémunérations, y compris aux pensions, rentes, prestations en capital et autres rémunérations similaires, payées à une personne physique par une institution de droit public ayant son siège dans un des Etats contractants, au titre des services rendus à cette institution, à laquelle participent conjointement les deux Etats contractants, leurs subdivisions politiques ou collectivités locales.
+<sup>2.</sup> Les dispositions des art. 15 et 18 s’appliquent aux rémunérations, y compris aux pensions, rentes, prestations en capital et autres rémunérations similaires, payées à une personne physique par une institution de droit public ayant son siège dans un des États contractants, au titre des services rendus à cette institution, à laquelle participent conjointement les deux États contractants, leurs subdivisions politiques ou collectivités locales.
 
 Les autorités compétentes fixent d’un commun accord les institutions de droit public visées par cette disposition.
 
 #### Art. 20
 
-**Etudiants**
+**Étudiants**
 
-Les sommes qu’un étudiant, stagiaire ou apprenti qui est, ou qui était immédiatement avant de se rendre dans un Etat contractant, un résident de l’autre Etat contractant et qui séjourne dans le premier Etat à seule fin d’y poursuivre ses études ou sa formation, reçoit pour couvrir ses frais d’entretien, d’études ou de formation ne sont pas imposables dans cet Etat, à condition qu’elles proviennent de sources situées en dehors de cet Etat.
+Les sommes qu’un étudiant, stagiaire ou apprenti qui est, ou qui était immédiatement avant de se rendre dans un État contractant, un résident de l’autre État contractant et qui séjourne dans le premier État à seule fin d’y poursuivre ses études ou sa formation, reçoit pour couvrir ses frais d’entretien, d’études ou de formation ne sont pas imposables dans cet État, à condition qu’elles proviennent de sources situées en dehors de cet État.
 
 #### Art. 21
 
 **Autres revenus**
 
-<sup>1.</sup> Les éléments du revenu d’un résident d’un Etat contractant, d’où qu’ils proviennent, qui ne sont pas traités dans les articles précédents de la présente Convention ne sont imposables que dans cet Etat.
+<sup>1.</sup> Les éléments du revenu d’un résident d’un État contractant, d’où qu’ils proviennent, qui ne sont pas traités dans les articles précédents de la présente Convention ne sont imposables que dans cet État.
 
-<sup>2.</sup> Les dispositions du par. 1 ne s’appliquent pas aux revenus autres que les revenus provenant de biens immobiliers tels qu’ils sont définis au par. 2 de l’art. 6, lorsque le bénéficiaire de tels revenus, résident d’un Etat contractant, exerce dans l’autre Etat contractant, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des revenus s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 14, suivant les cas, sont applicables.
+<sup>2.</sup> Les dispositions du par. 1 ne s’appliquent pas aux revenus autres que les revenus provenant de biens immobiliers tels qu’ils sont définis au par. 2 de l’art. 6, lorsque le bénéficiaire de tels revenus, résident d’un État contractant, exerce dans l’autre État contractant, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des revenus s’y rattache effectivement. Dans ce cas, les dispositions de l’art. 7 ou de l’art. 14, suivant les cas, sont applicables.
 
 #### Art. 22
 
 **Fortune**
 
-<sup>1.</sup> La fortune constituée par des biens immobiliers visés à l’art. 6, que possède un résident d’un Etat contractant et qui sont situés dans l’autre Etat contractant, est imposable dans cet autre Etat.
+<sup>1.</sup> La fortune constituée par des biens immobiliers visés à l’art. 6, que possède un résident d’un État contractant et qui sont situés dans l’autre État contractant, est imposable dans cet autre État.
 
-<sup>2.</sup> La fortune constituée par des biens mobiliers qui font partie de l’actif d’un établissement stable qu’une entreprise d’un Etat contractant a dans l’autre Etat contractant, ou par des biens mobiliers qui appartiennent à une base fixe dont un résident d’un Etat contractant dispose dans l’autre Etat contractant pour l’exercice d’une profession indépendante, est imposable dans cet autre Etat.
+<sup>2.</sup> La fortune constituée par des biens mobiliers qui font partie de l’actif d’un établissement stable qu’une entreprise d’un État contractant a dans l’autre État contractant, ou par des biens mobiliers qui appartiennent à une base fixe dont un résident d’un État contractant dispose dans l’autre État contractant pour l’exercice d’une profession indépendante, est imposable dans cet autre État.
 
-<sup>3.</sup> La fortune constituée par des navires et des aéronefs exploités en trafic international, ainsi que par des biens mobiliers affectés à l’exploitation de ces navires ou aéronefs, n’est imposable que dans l’Etat contractant où le siège de direction effective de l’entreprise est situé.
+<sup>3.</sup> La fortune constituée par des navires et des aéronefs exploités en trafic international, ainsi que par des biens mobiliers affectés à l’exploitation de ces navires ou aéronefs, n’est imposable que dans l’État contractant où le siège de direction effective de l’entreprise est situé.
 
-<sup>4.</sup> Tous les autres éléments de la fortune d’un résident d’un Etat contractant ne sont imposables que dans cet Etat.
+<sup>4.</sup> Tous les autres éléments de la fortune d’un résident d’un État contractant ne sont imposables que dans cet État.
 
 #### Art. 23
 
-**Elimination des doubles impositions**
+**Élimination des doubles impositions**
 
 <sup>1.</sup>
 
@@ -391,19 +394,19 @@ En ce qui concerne la Suisse, la double imposition est évitée de la manière s
 
 - La Suisse déterminera le genre de dégrèvement et réglera la procédure selon les prescriptions suisses concernant l’exécution des conventions internationales conclues par la Confédération en vue d’éviter les doubles impositions.
 
-<sup>3.</sup> Une société qui est un résident d’un Etat contractant et reçoit des dividendes d’une société qui est un résident de l’autre Etat contractant bénéficie, pour l’application de l’impôt frappant ces dividendes dans le premier Etat contractant mentionné, des mêmes avantages que ceux dont elle bénéficierait si la société qui paie les dividendes était un résident de ce premier Etat.
+<sup>3.</sup> Une société qui est un résident d’un État contractant et reçoit des dividendes d’une société qui est un résident de l’autre État contractant bénéficie, pour l’application de l’impôt frappant ces dividendes dans le premier État contractant mentionné, des mêmes avantages que ceux dont elle bénéficierait si la société qui paie les dividendes était un résident de ce premier État.
 
 #### Art. 24
 
 **Non-discrimination**
 
-<sup>1.</sup> Les nationaux d’un Etat contractant ne sont soumis dans l’autre Etat contractant à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celles auxquelles sont ou pourront être assujettis les nationaux de cet autre Etat qui se trouvent dans la même situation, notamment au regard de la résidence. La présente disposition s’applique aussi, nonobstant les dispositions de l’art. 1, aux personnes qui ne sont pas des résidents d’un Etat contractant ou des deux Etats contractants.
+<sup>1.</sup> Les nationaux d’un État contractant ne sont soumis dans l’autre État contractant à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celles auxquelles sont ou pourront être assujettis les nationaux de cet autre État qui se trouvent dans la même situation, notamment au regard de la résidence. La présente disposition s’applique aussi, nonobstant les dispositions de l’art. 1, aux personnes qui ne sont pas des résidents d’un État contractant ou des deux États contractants.
 
-<sup>2.</sup> L’imposition d’un établissement stable qu’une entreprise d’un Etat contractant a dans l’autre Etat contractant n’est pas établie dans cet autre Etat d’une façon moins favorable que l’imposition des entreprises de cet autre Etat qui exercent la même activité. La présente disposition ne peut être interprétée comme obligeant un Etat contractant à accorder aux résidents de l’autre Etat contractant les déductions personnelles, abattements et réductions d’impôt en fonction de la situation ou des charges de famille qu’il accorde à ses propres résidents.
+<sup>2.</sup> L’imposition d’un établissement stable qu’une entreprise d’un État contractant a dans l’autre État contractant n’est pas établie dans cet autre État d’une façon moins favorable que l’imposition des entreprises de cet autre État qui exercent la même activité. La présente disposition ne peut être interprétée comme obligeant un État contractant à accorder aux résidents de l’autre État contractant les déductions personnelles, abattements et réductions d’impôt en fonction de la situation ou des charges de famille qu’il accorde à ses propres résidents.
 
-<sup>3.</sup> A moins que les dispositions du par. 1 de l’art. 9, du par. 4 de l’art. 11 ou du par. 4 de l’art. 12 ne soient applicables, les intérêts, redevances et autres dépenses payés par une entreprise d’un Etat contractant à un résident de l’autre Etat contractant sont déductibles, pour la détermination des bénéfices imposables de cette entreprise, dans les mêmes conditions que s’ils avaient été payés à un résident du premier Etat. De même, les dettes d’une entreprise d’un Etat contractant envers un résident de l’autre Etat contractant sont déductibles, pour la détermination de la fortune imposable de cette entreprise, dans les mêmes conditions que si elles avaient été contractées envers un résident du premier Etat.
+<sup>3.</sup> À moins que les dispositions du par. 1 de l’art. 9, du par. 4 de l’art. 11 ou du par. 4 de l’art. 12 ne soient applicables, les intérêts, redevances et autres dépenses payés par une entreprise d’un État contractant à un résident de l’autre État contractant sont déductibles, pour la détermination des bénéfices imposables de cette entreprise, dans les mêmes conditions que s’ils avaient été payés à un résident du premier État. De même, les dettes d’une entreprise d’un État contractant envers un résident de l’autre État contractant sont déductibles, pour la détermination de la fortune imposable de cette entreprise, dans les mêmes conditions que si elles avaient été contractées envers un résident du premier État.
 
-<sup>4.</sup> Les entreprises d’un Etat contractant, dont le capital est en totalité ou en partie, directement ou indirectement, détenu ou contrôlé par un ou plusieurs résidents de l’autre Etat contractant, ne sont soumises dans le premier Etat à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celles auxquelles sont ou pourront être assujetties les autres entreprises similaires du premier Etat.
+<sup>4.</sup> Les entreprises d’un État contractant, dont le capital est en totalité ou en partie, directement ou indirectement, détenu ou contrôlé par un ou plusieurs résidents de l’autre État contractant, ne sont soumises dans le premier État à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celles auxquelles sont ou pourront être assujetties les autres entreprises similaires du premier État.
 
 <sup>5.</sup> Les dispositions du présent article s’appliquent, nonobstant les dispositions de l’art. 2, aux impôts de toute nature ou dénomination.
 
@@ -411,42 +414,44 @@ En ce qui concerne la Suisse, la double imposition est évitée de la manière s
 
 **Procédure amiable**
 
-<sup>1.</sup> Lorsqu’une personne estime que les mesures prises par un Etat contractant ou par les deux Etats contractants entraînent ou entraîneront pour elle une imposition non conforme aux dispositions de la présente Convention, elle peut, indépendamment des recours prévus par le droit interne de ces Etats, soumettre son cas à l’autorité compétente de l’Etat contractant dont elle est un résident ou, si son cas relève du par. 1 de l’art. 24, à celle de l’Etat contractant dont elle possède la nationalité. Le cas doit être soumis dans les trois ans qui suivent la première notification de la mesure qui entraîne une imposition non conforme aux dispositions de la Convention.
+<sup>1.</sup> Lorsqu’une personne estime que les mesures prises par un État contractant ou par les deux États contractants entraînent ou entraîneront pour elle une imposition non conforme aux dispositions de la présente Convention, elle peut, indépendamment des recours prévus par le droit interne de ces États, soumettre son cas à l’autorité compétente de l’État contractant dont elle est un résident ou, si son cas relève du par. 1 de l’art. 24, à celle de l’État contractant dont elle possède la nationalité. Le cas doit être soumis dans les trois ans qui suivent la première notification de la mesure qui entraîne une imposition non conforme aux dispositions de la Convention.
 
-<sup>2.</sup> L’autorité compétente s’efforce, si la réclamation lui paraît fondée et si elle n’est pas elle-même en mesure d’y apporter une solution satisfaisante, de résoudre le cas par voie d’accord amiable avec l’autorité compétente de l’autre Etat contractant, en vue d’éviter une imposition non conforme à la Convention.
+<sup>2.</sup> L’autorité compétente s’efforce, si la réclamation lui paraît fondée et si elle n’est pas elle-même en mesure d’y apporter une solution satisfaisante, de résoudre le cas par voie d’accord amiable avec l’autorité compétente de l’autre État contractant, en vue d’éviter une imposition non conforme à la Convention. L’accord est appliqué quels que soient les délais prévus par le droit interne des États contractants.[^25-1]
 
-<sup>3.</sup> Les autorités compétentes des Etats contractants s’efforcent, par voie d’accord amiable, de résoudre les difficultés ou de dissiper les doutes auxquels peuvent donner lieu l’interprétation ou l’application de la Convention. Elles peuvent aussi se concerter en vue d’éliminer la double imposition dans les cas non prévus par la Convention.
+<sup>3.</sup> Les autorités compétentes des États contractants s’efforcent, par voie d’accord amiable, de résoudre les difficultés ou de dissiper les doutes auxquels peuvent donner lieu l’interprétation ou l’application de la Convention. Elles peuvent aussi se concerter en vue d’éliminer la double imposition dans les cas non prévus par la Convention.
 
-<sup>4.</sup> Les autorités compétentes des Etats contractants peuvent communiquer directement entre elles, y compris au sein d’une commission mixte se réunissant au besoin et composée de ces autorités ou de leurs représentants, en vue de parvenir à un accord comme il est indiqué aux paragraphes précédents.
+<sup>4.</sup> Les autorités compétentes des États contractants peuvent communiquer directement entre elles, y compris au sein d’une commission mixte se réunissant au besoin et composée de ces autorités ou de leurs représentants, en vue de parvenir à un accord comme il est indiqué aux paragraphes précédents.
 
-<sup>5.</sup> les questions non résolues soulevées par ce cas doivent être soumises à arbitrage si la personne en fait la demande. A moins qu’une personne directement concernée par le cas n’accepte pas l’accord amiable par lequel la décision d’arbitrage est appliquée, ou à moins que les autorités compétentes et les personnes directement concernées par le cas ne conviennent d’une solution différente dans une période de six mois après que la décision leur ait été communiquée, cette décision lie les deux Etats contractants et doit être appliquée quels que soient les délais prévus par le droit interne de ces Etats. Les autorités compétentes des Etats contractants règlent par accord amiable les modalités d’application de ce paragraphe.
+<sup>5.</sup> les questions non résolues soulevées par ce cas doivent être soumises à arbitrage si la personne en fait la demande. À moins qu’une personne directement concernée par le cas n’accepte pas l’accord amiable par lequel la décision d’arbitrage est appliquée, ou à moins que les autorités compétentes et les personnes directement concernées par le cas ne conviennent d’une solution différente dans une période de six mois après que la décision leur ait été communiquée, cette décision lie les deux États contractants et doit être appliquée quels que soient les délais prévus par le droit interne de ces États. Les autorités compétentes des États contractants règlent par accord amiable les modalités d’application de ce paragraphe.
 
 Lorsque:
 
-- a) en vertu de par. 1, une personne a soumis un cas à l’autorité compétente d’un Etat contractant en se fondant sur le fait que les mesures prises par un Etat contractant ou par les deux Etats contractants ont entraîné pour cette personne une imposition non conforme aux dispositions de cette Convention, et que
-- b) les autorités compétentes ne parviennent pas à un accord permettant de résoudre ce cas en vertu du par. 2 dans un délai de trois ans à compter de la présentation du cas à l’autorité compétente de l’autre Etat contractant,
+- a) en vertu de par. 1, une personne a soumis un cas à l’autorité compétente d’un État contractant en se fondant sur le fait que les mesures prises par un État contractant ou par les deux États contractants ont entraîné pour cette personne une imposition non conforme aux dispositions de cette Convention, et que
+- b) les autorités compétentes ne parviennent pas à un accord permettant de résoudre ce cas en vertu du par. 2 dans un délai de trois ans à compter de la présentation du cas à l’autorité compétente de l’autre État contractant,
 
-<sup>6.</sup> Les Etats contractants peuvent communiquer à la commission d’arbitrage, établie conformément aux dispositions du par. 5, les informations qui sont nécessaires à l’exécution de la procédure d’arbitrage. S’agissant des informations communiquées, les membres de la commission d’arbitrage sont soumis aux règles de confidentialité décrites au par. 2 de l’art. 26.
+<sup>6.</sup> Les États contractants peuvent communiquer à la commission d’arbitrage, établie conformément aux dispositions du par. 5, les informations qui sont nécessaires à l’exécution de la procédure d’arbitrage. S’agissant des informations communiquées, les membres de la commission d’arbitrage sont soumis aux règles de confidentialité décrites au par. 2 de l’art. 26.
+
+[^25-1]: Nouvelle teneur selon l’art. I par. 2 du Prot. du 14 juil. 2020, approuvé par l’Ass. féd. le 18 juin 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [FF 2020 9077](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
 
 #### Art. 26
 
-**Echange de renseignements**
+**Échange de renseignements**
 
-<sup>1.</sup> Les autorités compétentes des Etats contractants échangent les renseignements vraisemblablement pertinents pour appliquer les dispositions de la présente convention ou pour l’administration ou l’application de la législation interne relative aux impôts de toute nature ou dénomination perçus pour le compte des Etats contractants, de leurs subdivisions politiques ou de leurs collectivités locales, dans la mesure où l’imposition qu’elle prévoit n’est pas contraire à la convention. L’échange de renseignements n’est pas restreint par les art. 1 et 2.
+<sup>1.</sup> Les autorités compétentes des États contractants échangent les renseignements vraisemblablement pertinents pour appliquer les dispositions de la présente convention ou pour l’administration ou l’application de la législation interne relative aux impôts de toute nature ou dénomination perçus pour le compte des États contractants, de leurs subdivisions politiques ou de leurs collectivités locales, dans la mesure où l’imposition qu’elle prévoit n’est pas contraire à la convention. L’échange de renseignements n’est pas restreint par les art. 1 et 2.
 
-<sup>2.</sup> Les renseignements reçus en vertu du par. 1 par un Etat contractant sont tenus secrets de la même manière que les renseignements obtenus en application de la législation interne de cet Etat et ne sont communiqués qu’aux personnes ou autorités (y compris les tribunaux et organes administratifs) concernées par l’établissement ou le recouvrement des impôts mentionnés au par. 1, par les procédures ou poursuites concernant ces impôts ou par les décisions sur les recours relatifs à ces impôts. Ces personnes ou autorités n’utilisent ces renseignements qu’à ces fins. Elles peuvent révéler ces renseignements au cours d’audiences publiques de tribunaux ou dans des jugements. Nonobstant ce qui précède, les renseignements reçus par un Etat contractant peuvent être utilisés à d’autres fins lorsque cette possibilité résulte des lois des deux Etats et lorsque l’autorité compétente de l’Etat qui fournit les renseignements autorise cette utilisation.
+<sup>2.</sup> Les renseignements reçus en vertu du par. 1 par un État contractant sont tenus secrets de la même manière que les renseignements obtenus en application de la législation interne de cet État et ne sont communiqués qu’aux personnes ou autorités (y compris les tribunaux et organes administratifs) concernées par l’établissement ou le recouvrement des impôts mentionnés au par. 1, par les procédures ou poursuites concernant ces impôts ou par les décisions sur les recours relatifs à ces impôts. Ces personnes ou autorités n’utilisent ces renseignements qu’à ces fins. Elles peuvent révéler ces renseignements au cours d’audiences publiques de tribunaux ou dans des jugements. Nonobstant ce qui précède, les renseignements reçus par un État contractant peuvent être utilisés à d’autres fins lorsque cette possibilité résulte des lois des deux États et lorsque l’autorité compétente de l’État qui fournit les renseignements autorise cette utilisation.
 
 <sup>3.</sup>
 
-Les dispositions des par. 1 et 2 ne peuvent en aucun cas être interprétées comme imposant à un Etat contractant l’obligation:
+Les dispositions des par. 1 et 2 ne peuvent en aucun cas être interprétées comme imposant à un État contractant l’obligation:
 
-- a) de prendre des mesures administratives dérogeant à sa législation et à sa pratique administrative ou à celles de l’autre Etat contractant;
-- b) de fournir des renseignements qui ne pourraient être obtenus sur la base de sa législation ou dans le cadre de sa pratique administrative normale ou de celles de l’autre Etat contractant;
+- a) de prendre des mesures administratives dérogeant à sa législation et à sa pratique administrative ou à celles de l’autre État contractant;
+- b) de fournir des renseignements qui ne pourraient être obtenus sur la base de sa législation ou dans le cadre de sa pratique administrative normale ou de celles de l’autre État contractant;
 - c) de fournir des renseignements qui révéleraient un secret commercial, industriel, professionnel ou un procédé commercial ou des renseignements dont la communication serait contraire à l’ordre public.
 
-<sup>4.</sup> Si des renseignements sont demandés par un Etat contractant conformément au présent article, l’autre Etat contractant utilise les pouvoirs dont il dispose pour obtenir les renseignements demandés, même s’il n’en a pas besoin à ses propres fins fiscales. L’obligation qui figure dans la phrase précédente est soumise aux limitations prévues au par. 3 sauf si ces limitations sont susceptibles d’empêcher un Etat contractant de communiquer des renseignements uniquement parce que ceux-ci ne présentent pas d’intérêt pour lui dans le cadre national.
+<sup>4.</sup> Si des renseignements sont demandés par un État contractant conformément au présent article, l’autre État contractant utilise les pouvoirs dont il dispose pour obtenir les renseignements demandés, même s’il n’en a pas besoin à ses propres fins fiscales. L’obligation qui figure dans la phrase précédente est soumise aux limitations prévues au par. 3 sauf si ces limitations sont susceptibles d’empêcher un État contractant de communiquer des renseignements uniquement parce que ceux-ci ne présentent pas d’intérêt pour lui dans le cadre national.
 
-<sup>5.</sup> En aucun cas les dispositions du paragraphe 3 ne peuvent être interprétées comme permettant à un Etat contractant de refuser de communiquer des renseignements uniquement parce que ceux-ci sont détenus par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu’agent ou fiduciaire ou parce que ces renseignements se rattachent aux droits de propriété d’une personne.
+<sup>5.</sup> En aucun cas les dispositions du paragraphe 3 ne peuvent être interprétées comme permettant à un État contractant de refuser de communiquer des renseignements uniquement parce que ceux-ci sont détenus par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu’agent ou fiduciaire ou parce que ces renseignements se rattachent aux droits de propriété d’une personne.
 
 #### Art. 27
 
@@ -456,12 +461,20 @@ Les dispositions des par. 1 et 2 ne peuvent en aucun cas être interprétées co
 
 <sup>2.</sup>
 
-Nonobstant les dispositions de l’art. 4, toute personne physique qui est membre d’une mission diplomatique ou d’un poste consulaire d’un Etat contractant qui est situé dans l’autre Etat contractant ou dans un Etat tiers est considérée, aux fins de la présente Convention, comme un résident de l’Etat accréditant, à condition:
+Nonobstant les dispositions de l’art. 4, toute personne physique qui est membre d’une mission diplomatique ou d’un poste consulaire d’un État contractant qui est situé dans l’autre État contractant ou dans un État tiers est considérée, aux fins de la présente Convention, comme un résident de l’État accréditant, à condition:
 
-- a) que, conformément au droit international, elle ne soit pas assujettie à l’impôt dans l’Etat accréditaire pour les revenus de sources extérieures à cet Etat ou pour la fortune située en dehors de cet Etat, et
-- b) qu’elle soit soumise dans l’Etat accréditant aux mêmes obligations, en matière d’impôts sur l’ensemble de son revenu ou de sa fortune, que les résidents de cet Etat.
+- a) que, conformément au droit international, elle ne soit pas assujettie à l’impôt dans l’État accréditaire pour les revenus de sources extérieures à cet État ou pour la fortune située en dehors de cet État, et
+- b) qu’elle soit soumise dans l’État accréditant aux mêmes obligations, en matière d’impôts sur l’ensemble de son revenu ou de sa fortune, que les résidents de cet État.
 
-<sup>3.</sup> La Convention ne s’applique pas aux organisations internationales, à leurs organes ou à leurs fonctionnaires, ni aux personnes qui sont membres d’une mission diplomatique ou d’un poste consulaire d’un Etat tiers, lorsqu’ils se trouvent sur le territoire d’un Etat contractant et ne sont pas traités comme des résidents dans l’un ou l’autre Etat contractant en matière d’impôts sur le revenu ou sur la fortune.
+<sup>3.</sup> La Convention ne s’applique pas aux organisations internationales, à leurs organes ou à leurs fonctionnaires, ni aux personnes qui sont membres d’une mission diplomatique ou d’un poste consulaire d’un État tiers, lorsqu’ils se trouvent sur le territoire d’un État contractant et ne sont pas traités comme des résidents dans l’un ou l’autre État contractant en matière d’impôts sur le revenu ou sur la fortune.
+
+#### Art. 27a
+
+**Droit aux avantages**[^27a-1]
+
+Nonobstant les autres dispositions de la présente Convention, un avantage au titre de celle-ci ne sera pas accordé au titre d’un élément de revenu ou de fortune s’il est raisonnable de conclure, compte tenu de l’ensemble des faits et circonstances propres à la situation, que l’obtention de cet avantage était un des buts principaux d’un montage ou d’une transaction ayant permis, directement ou indirectement, de l’obtenir, à moins qu’il soit établi que l’octroi de cet avantage dans ces circonstances serait conforme à l’objet et au but des dispositions pertinentes de la présente Convention.
+
+[^27a-1]: Introduit par l’art. I par. 3 du Prot. du 14 juil. 2020, approuvé par l’Ass. féd. le 18 juin 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [FF 2020 9077](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
 
 #### Art. 28
 
@@ -473,7 +486,7 @@ Le protocole joint à la présente Convention fait partie intégrante de celle-c
 
 **Entrée en vigueur**
 
-<sup>1.</sup> Les Etats contractants se notifieront réciproquement par la voie diplomatique l’achèvement des procédures nécessaires selon leur droit interne pour la mise en vigueur de la présente Convention. Cette dernière entrera en vigueur au trentième jour après la date de réception de la dernière de ces notifications.
+<sup>1.</sup> Les États contractants se notifieront réciproquement par la voie diplomatique l’achèvement des procédures nécessaires selon leur droit interne pour la mise en vigueur de la présente Convention. Cette dernière entrera en vigueur au trentième jour après la date de réception de la dernière de ces notifications.
 
 <sup>2.</sup>
 
@@ -491,20 +504,34 @@ Les dispositions de la Convention seront applicables:
 
 **Dénonciation**
 
-La présente Convention demeurera en vigueur tant qu’elle n’aura pas été dénoncée par un Etat contractant. Chaque Etat contractant peut dénoncer la Convention par voie diplomatique avec un préavis minimum de six mois avant la fin de chaque année civile. Dans ce cas, la Convention cessera d’être applicable:
+La présente Convention demeurera en vigueur tant qu’elle n’aura pas été dénoncée par un État contractant. Chaque État contractant peut dénoncer la Convention par voie diplomatique avec un préavis minimum de six mois avant la fin de chaque année civile. Dans ce cas, la Convention cessera d’être applicable:
 
 - a) aux impôts retenus à la source sur les montants mis en paiement ou attribués à partir du 1<sup>er</sup> janvier de l’année civile suivant celle au cours de laquelle le préavis de dénonciation a été donné;
 - b) aux autres impôts pour toute année fiscale commençant le 1<sup>er</sup> janvier de l’année civile suivant celle au cours de laquelle le préavis de dénonciation a été donné, ou après cette date.
 
 *En foi de quoi,* les soussignés, dûment autorisés, ont signé la présente Convention. Fait en deux exemplaires à Vaduz, le 10 juillet 2015, en langue allemande. Pour la Confédération suisse: Eveline Widmer-Schlumpf Pour la Principauté du Liechtenstein: Adrian Hasler
 
-Protocole
+Art. II, par. 2 et 3, du Prot. du 14 juil. 2020**[^t-2]**
+
+\2. Le protocole est applicable:
+
+- a) s’agissant des impôts perçus à la source, aux montants payés ou bonifiés le 1<sup>er</sup> janvier de l’année civile qui suit l’entrée en vigueur du présent protocole ou après cette date;
+- b) s’agissant des autres impôts, aux années fiscales commençant le 1<sup>er</sup> janvier de l’année qui suit l’entrée en vigueur du présent protocole ou commençant après cette date.
+
+\3. Nonobstant le par. 2, le par. 2 de l’art. I du présent protocole est applicable à partir de la date d’entrée en vigueur du présent protocole, quelle que soit la période fiscale concernée.
+
+## Protocole****
+
+[^annexu1-lvlu2-1]
+
+[^t-2]: [RO 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [FF 2020 9077](https://fedlex.data.admin.ch/eli/fga/2020/2554).
+[^annexu1-lvlu2-1]: Mis à jour par l’art. I par. 4 du Prot. du 14 juil. 2020, approuvé par l’Ass. féd. le 18 juin 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [FF 2020 9077](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
 
 La Confédération suisse et la Principauté du Liechtenstein,
 
-sont convenues à la signature à Vaduz, le 10 juillet 2015, de la Convention entre les deux Etats en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune, des dispositions suivantes qui font partie intégrante de cette Convention.
+sont convenues à la signature à Vaduz, le 10 juillet 2015, de la Convention entre les deux États en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune, des dispositions suivantes qui font partie intégrante de cette Convention.
 
-## *1.* *Ad art. 3 par. 3 let. i*
+### *1.* *Ad art. 3 par. 3 let. i*
 
 Il est entendu que l’expression «institution de prévoyance» désigne les institutions suivantes ainsi que toute institution identique ou substantiellement similaire qui sont établies conformément à la législation introduite après la date de signature de la présente Convention:
 
@@ -521,24 +548,24 @@ Il est entendu que l’expression «institution de prévoyance» désigne les in
 
   en Suisse, tous les plans et toutes les institutions au sens:
 
-  - (i) de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^annexu1-lvl1-1],
-  - (ii) de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^annexu1-lvl1-2],
-  - (iii) de la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l’AVS et à l’AI[^annexu1-lvl1-3],
-  - (iv) de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^annexu1-lvl1-4], y compris les institutions de prévoyance non enregistrées proposant des plans de prévoyance professionnelle, ainsi que les formes de prévoyance individuelle reconnues comparables aux plans de prévoyance professionnelle.
+  - (i) de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^annexu1-lvlu2-lvl1-1],
+  - (ii) de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^annexu1-lvlu2-lvl1-2],
+  - (iii) de la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l’AVS et à l’AI[^annexu1-lvlu2-lvl1-3],
+  - (iv) de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^annexu1-lvlu2-lvl1-4], y compris les institutions de prévoyance non enregistrées proposant des plans de prévoyance professionnelle, ainsi que les formes de prévoyance individuelle reconnues comparables aux plans de prévoyance professionnelle.
 
-[^annexu1-lvl1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^annexu1-lvl1-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^annexu1-lvl1-3]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^annexu1-lvl1-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexu1-lvlu2-lvl1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^annexu1-lvlu2-lvl1-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annexu1-lvlu2-lvl1-3]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^annexu1-lvlu2-lvl1-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
-## *2.* *Ad art. 4*
+### *2.* *Ad art. 4*
 
 - a)
 
-  Eu égard au par. 1 de l’art. 4, il est entendu que l’expression «résident d’un Etat contractant» comprend notamment:
+  Eu égard au par. 1 de l’art. 4, il est entendu que l’expression «résident d’un État contractant» comprend notamment:
 
-  - (i) une institution de prévoyance établie dans cet Etat;
-  - (ii) une institution constituée et gérée à des fins exclusivement religieuses, charitables, scientifiques, sportives, culturelles ou éducatives (ou pour plusieurs de ces buts) et qui est un résident d’un Etat contractant conformément à sa législation, nonobstant le fait que la totalité ou une partie des revenus ou gains puissent être exonérés d’impôt selon le droit interne de cet Etat, et
+  - (i) une institution de prévoyance établie dans cet État;
+  - (ii) une institution constituée et gérée à des fins exclusivement religieuses, charitables, scientifiques, sportives, culturelles ou éducatives (ou pour plusieurs de ces buts) et qui est un résident d’un État contractant conformément à sa législation, nonobstant le fait que la totalité ou une partie des revenus ou gains puissent être exonérés d’impôt selon le droit interne de cet État, et
   - (iii)
 
     si le fondateur ou le bénéficiaire réside en Suisse: les fondations liechtensteinoises assujetties à l’impôt sur les bénéfices (et non uniquement à l’impôt minimal sur les bénéfices [«Mindestertragssteuer»], comme les structures patrimoniales privées [«Privatvermögensstrukturen»]) à condition que ni le fondateur ni un bénéficiaire ni une personne proche de ces derniers ne puisse disposer, en fait ou en droit, de la fortune de la fondation ou des bénéfices en découlant. L’évaluation se fondera après prise en compte de l’ensemble des circonstances du cas d’espèce. Une telle fondation est réputée résidente du Liechtenstein notamment lorsque les conditions suivantes sont cumulativement remplies:
@@ -550,63 +577,57 @@ Il est entendu que l’expression «institution de prévoyance» désigne les in
 
   - Ce qui précède s’applique par analogie aux établissements («Anstalt») et aux entreprises fiduciaires («Trust reg.») organisés de manière comparable à une fondation liechtensteinoise.
 
-- b) Il est en outre entendu qu’une personne ou entité qui est uniquement assujettie à l’impôt minimal sur les bénéfices («Mindestertragssteuer») au Liechteinstein (telles les structures patrimoniales privées [«Privatvermögensstruktur»]) n’est pas considérée comme un «résident d’un Etat contractant» et est réputée fiscalement transparente aux fins d’accorder les avantages d’une convention contre la double imposition.
-- c) Demeure réservé le traité du 29 mars 1923 entre la Suisse et la Principauté du Liechtenstein concernant la réunion de la Principauté du Liechtenstein au territoire douanier suisse[^annexu1-lvl2-1].
+- b) Il est en outre entendu qu’une personne ou entité qui est uniquement assujettie à l’impôt minimal sur les bénéfices («Mindestertragssteuer») au Liechteinstein (telles les structures patrimoniales privées [«Privatvermögensstruktur»]) n’est pas considérée comme un «résident d’un État contractant» et est réputée fiscalement transparente aux fins d’accorder les avantages d’une convention contre la double imposition.
+- c) Demeure réservé le traité du 29 mars 1923 entre la Suisse et la Principauté du Liechtenstein concernant la réunion de la Principauté du Liechtenstein au territoire douanier suisse[^annexu1-lvlu2-lvl2-1].
 
-[^annexu1-lvl2-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^annexu1-lvlu2-lvl2-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
 
-## *3.* *Ad art. 10 par. 3 let. a*
+### *3.* *Ad art. 10 par. 3 let. a*
 
 Si la durée de détention minimale prévue par la let. a du par. 3 de l’art. 10 n’a pas été respectée à la date du paiement des dividendes et que l’impôt a été retenu lors du paiement conformément au par. 2 de l’art. 10 et que la durée de détention minimale est respectée ultérieurement, le bénéficiaire effectif des dividendes peut demander le remboursement de l’impôt retenu.
 
-## *4.* *Ad art. 10, 11, 12 et 21*
-
-- a) Les dispositions des art. 10, 11, 12 et 21 ne s’appliquent pas aux revenus qui proviennent d’une opération, d’une part d’une opération ou d’une série d’opérations, ou qui sont perçus par un ayant-droit, si elles ont été conclues ou s’il a été établi dans le but principal de tirer profit des avantages offerts par les art. 10, 11, 12 ou 21 et si, abstraction faite de l’opération, de la part de l’opération ou de la série d’opérations ou de l’ayant-droit, ces revenus seraient attribuables à une personne qui n’est domiciliée dans aucun des deux Etats contractants.
-- b) Les dispositions de l’art. 10 par. 3 ne s’appliquent pas aux dividendes qui proviennent d’une opération, d’une part d’une opération ou d’une série d’opérations ou qui sont perçus par un ayant-droit, si elles ont été conclues ou s’il a été établi dans le but principal de tirer profit des avantages offerts par l’art. 10 par. 3 et si, abstraction faite de l’opération, de la part de l’opération ou de la série d’opérations ou de l’ayant droit, ces dividendes seraient attribuables à une personne qui, en ce qui concerne ces dividendes, ne remplit pas les conditions de l’art. 10 par. 3.
-- c) Lorsque, abstraction faite de l’opération, de la part de l’opération, de la série d’opérations ou de l’ayant-droit, les revenus seraient attribuables à une personne qui, d’après une convention contre les doubles impositions entre son Etat de résidence et l’Etat de la source des revenus, ou d’après une autre convention, aurait droit à des avantages équivalents ou plus avantageux, s’agissant de ces revenus, à ceux ou que ceux qui reviennent à une personne domiciliée dans l’un des Etats contractants selon la présente convention, alors le but principal de l’opération, de la part de l’opération, de la série d’opérations ou de l’ayant droit ne réside pas dans l’obtention des avantages des art. 10, 11, 12 et 21.
-
-## *5.* *Ad art. 15 par. 4*
+### *4.* *Ad art. 15 par. 4*
 
 - a) Le terme «lieu de travail» désigne le lieu où la personne est rattachée à l’entreprise de son employeur.
 - b) Le terme «domicile» désigne le lieu du domicile fiscal principal de la personne.
 - c) La personne perd sa qualité de frontalier si, pour des motifs professionnels, elle ne regagne pas son domicile à la fin de son travail plus que 45 jours ouvrables par année civile.
 
-## *6.* *Ad art. 18*
+### *5.* *Ad art. 18*
 
-Pour les personnes résidentes dans un Etat contractant et assurées dans l’autre Etat contractant aux fins de la prévoyance professionnelle, la Suisse versera au Liechtenstein une compensation annuelle se montant à CHF 450 000. Le Liechtenstein établira chaque année une facture à l’intention de la Suisse.
+Pour les personnes résidentes dans un État contractant et assurées dans l’autre État contractant aux fins de la prévoyance professionnelle, la Suisse versera au Liechtenstein une compensation annuelle se montant à CHF 450 000. Le Liechtenstein établira chaque année une facture à l’intention de la Suisse.
 
-## *7.* *Ad art. 18 et 24*
+### *6.* *Ad art. 18 et 24*
 
-Eu égard aux dispositions des art. 18 et 24, lorsqu’une personne physique exerce des activités dans un Etat contractant, les cotisations qui sont versées par cette personne ou pour son compte à une institution de prévoyance sise dans l’autre Etat contractant sont, aux fins de déterminer l’impôt payable par cette personne dans le premier Etat ainsi que les bénéfices d’une entreprise qui sont imposables dans cet Etat, traitées de la même façon et selon les mêmes conditions de restrictions que les cotisations versées à une institution de prévoyance dans ce premier Etat, à condition que la personne n’ait pas été un résident de cet Etat et ait été affiliée à l’institution de prévoyance immédiatement avant d’exercer des activités dans cet Etat.
+Eu égard aux dispositions des art. 18 et 24, lorsqu’une personne physique exerce des activités dans un État contractant, les cotisations qui sont versées par cette personne ou pour son compte à une institution de prévoyance sise dans l’autre État contractant sont, aux fins de déterminer l’impôt payable par cette personne dans le premier État ainsi que les bénéfices d’une entreprise qui sont imposables dans cet État, traitées de la même façon et selon les mêmes conditions de restrictions que les cotisations versées à une institution de prévoyance dans ce premier État, à condition que la personne n’ait pas été un résident de cet État et ait été affiliée à l’institution de prévoyance immédiatement avant d’exercer des activités dans cet État.
 
-## *8.* *Ad art. 18, 19 et 21*
+### *7.* *Ad art. 18, 19 et 21*
 
-Si une institution de prévoyance d’un Etat contractant verse une prestation de prévoyance à une personne résidente de l’autre Etat contractant, elle établit à l’intention du bénéficiaire un certificat relatif à ladite prestation.
+Si une institution de prévoyance d’un État contractant verse une prestation de prévoyance à une personne résidente de l’autre État contractant, elle établit à l’intention du bénéficiaire un certificat relatif à ladite prestation.
 
-## *9.* *Ad art. 21*
+### *8.* *Ad art. 21*
 
 Tant que la Suisse prélèvera un impôt à la source sur les gains de loterie, l’art. 21 ne s’appliquera pas aux gains de loterie inférieurs à CHF 75 000 et lesdits gains seront exclus du champ d’application de la présente Convention.
 
-## *10.* *Ad art. 26*
+### *9.* *Ad art. 26*
 
-- a) Il est entendu qu’un échange de renseignements ne sera demandé que si l’Etat requérant a épuisé au préalable toutes les sources habituelles de renseignements prévues par sa procédure fiscale interne.
+- a) Il est entendu qu’un échange de renseignements ne sera demandé que si l’État requérant a épuisé au préalable toutes les sources habituelles de renseignements prévues par sa procédure fiscale interne.
 - b)
 
-  Il est entendu que les autorités fiscales de l’Etat requérant fournissent les informations suivantes aux autorités fiscales de l’Etat requis lorsqu’elles présentent une demande de renseignements selon l’art. 26 de la Convention:
+  Il est entendu que les autorités fiscales de l’État requérant fournissent les informations suivantes aux autorités fiscales de l’État requis lorsqu’elles présentent une demande de renseignements selon l’art. 26 de la Convention:
 
   - (i) l’identité de la personne faisant l’objet d’un contrôle ou d’une enquête;
   - (ii) la période visée par la demande;
-  - (iii) une description des renseignements demandés y compris de leur nature et de la forme selon laquelle l’Etat requérant désire recevoir les renseignements de l’Etat requis;
+  - (iii) une description des renseignements demandés y compris de leur nature et de la forme selon laquelle l’État requérant désire recevoir les renseignements de l’État requis;
   - (iv) l’objectif fiscal qui fonde la demande;
   - (v) dans la mesure où ils sont connus, les nom et adresse de toute personne dont il y a lieu de penser qu’elle est en possession des renseignements demandés.
 
-- c) Il est entendu que la référence aux renseignements «vraisemblablement pertinents» a pour but d’assurer un échange de renseignements en matière fiscale qui soit le plus large possible, sans qu’il soit pour autant loisible aux Etats contractants d’aller à la «pêche aux renseignements» ou de demander des renseignements dont il est peu probable qu’ils soient pertinents pour élucider les affaires fiscales d’un contribuable déterminé. Si la let. b) prévoit des critères de procédure importants ayant pour but d’éviter la «pêche aux renseignements», les points (i) à (v) de la let. b) doivent toutefois être interprétés de façon à ne pas empêcher l’échange effectif de renseignements. Il est entendu que le Liechtenstein mettra en œuvre les demandes groupées conformément aux prescriptions du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales.
-- d) Même si l’art. 26 de la Convention ne restreint pas les modalités possibles de l’échange de renseignements, aucune obligation n’incombe à l’un des Etats contractants de procéder à un échange de renseignements spontané ou automatique.
-- e) Il est entendu qu’en cas d’échange de renseignements, les règles de procédure administrative relative aux droits du contribuable prévues dans l’Etat contractant requis demeurent applicables. Il est en outre entendu que cette disposition vise à garantir une procédure équitable au contribuable et non pas à éviter ou retarder sans motif le processus d’échange de renseignements.
+- c) Il est entendu que la référence aux renseignements «vraisemblablement pertinents» a pour but d’assurer un échange de renseignements en matière fiscale qui soit le plus large possible, sans qu’il soit pour autant loisible aux États contractants d’aller à la «pêche aux renseignements» ou de demander des renseignements dont il est peu probable qu’ils soient pertinents pour élucider les affaires fiscales d’un contribuable déterminé. Si la let. b) prévoit des critères de procédure importants ayant pour but d’éviter la «pêche aux renseignements», les points (i) à (v) de la let. b) doivent toutefois être interprétés de façon à ne pas empêcher l’échange effectif de renseignements. Il est entendu que le Liechtenstein mettra en œuvre les demandes groupées conformément aux prescriptions du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales.
+- d) Même si l’art. 26 de la Convention ne restreint pas les modalités possibles de l’échange de renseignements, aucune obligation n’incombe à l’un des États contractants de procéder à un échange de renseignements spontané ou automatique.
+- e) Il est entendu qu’en cas d’échange de renseignements, les règles de procédure administrative relative aux droits du contribuable prévues dans l’État contractant requis demeurent applicables. Il est en outre entendu que cette disposition vise à garantir une procédure équitable au contribuable et non pas à éviter ou retarder sans motif le processus d’échange de renseignements.
 
-## *11.* *Ad art. 26*
+### *10.* *Ad art. 26*
 
-Il est entendu qu’en matière de la taxe sur la valeur ajoutée, l’échange de renseignements entre les autorités compétentes se fondera sur le traité du 28 octobre 1994 entre la Confédération suisse et la Principauté du Liechtenstein relatif à la taxe sur la valeur ajoutée dans la Principauté du Liechtenstein[^annexu1-lvl11-1].
+Il est entendu qu’en matière de la taxe sur la valeur ajoutée, l’échange de renseignements entre les autorités compétentes se fondera sur le traité du 28 octobre 1994 entre la Confédération suisse et la Principauté du Liechtenstein relatif à la taxe sur la valeur ajoutée dans la Principauté du Liechtenstein[^annexu1-lvlu2-lvl10-1].
 
 Fait en deux exemplaires à Vaduz, le 10 juillet 2015, en langue allemande.
 
@@ -614,4 +635,4 @@ Fait en deux exemplaires à Vaduz, le 10 juillet 2015, en langue allemande.
 <tr><td>Pour la Confédération suisse: Eveline Widmer-Schlumpf</td><td>Pour la Principauté du Liechtenstein: Adrian Hasler</td></tr>
 </table>
 
-[^annexu1-lvl11-1]: [RS 0.641.295.142](https://fedlex.data.admin.ch/eli/cc/1995/785_785_785)
+[^annexu1-lvlu2-lvl10-1]: [RS 0.641.295.142](https://fedlex.data.admin.ch/eli/cc/1995/785_785_785)

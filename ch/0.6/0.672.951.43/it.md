@@ -3,11 +3,11 @@ sr: "0.672.951.43"
 title: Convenzione del 10 luglio 2015 tra la Confederazione Svizzera e il Principato del Liechtenstein per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/763"
 language: it
-version: 2016-12-22
+version: 2021-12-01
 adopted: 2015-07-10
 in_force: 2016-12-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/763/20161222/it/xml/fedlex-data-admin-ch-eli-cc-2016-763-20161222-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/763/20161222/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/763/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2016-763-20211201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/763/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,24 +16,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/763/20161222/it"
 
 RU **2016** 4765; FF **2015** 6351
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa il 10 luglio 2015
+Conclusa il 10 luglio 2015 Approvata dall’Assemblea federale il 17 giugno 2016[^t-1] Entrata in vigore il mediante scambio di note il 22 dicembre 2016
 
-Approvata dall’Assemblea federale il 17 giugno 2016[^t-2]
+(Stato 2 dicembre 2021)
 
-Entrata in vigore il mediante scambio di note il 22 dicembre 2016
-
-(Stato 22 dicembre 2016)
-
-[^t-1]: Dal testo originale tedesco.
-[^t-2]: [RU 2016 4763](https://fedlex.data.admin.ch/eli/oc/2016/762)
+[^t-1]: [RU 2016 4763](https://fedlex.data.admin.ch/eli/oc/2016/762)
 
 La Confederazione Svizzera e il Principato del Liechtenstein,
 
-desiderosi di concludere una Convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio,
+nell’intento di eliminare la doppia imposizione in materia di imposte sul reddito, senza creare opportunità di non imposizione o di ridotta imposizione attraverso l’evasione o l’elusione fiscale (incluse le strategie di abuso dei trattati fiscali («treaty-shopping») finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti di Stati terzi);
 
-hanno convenuto quanto segue:
+desiderosi di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio,
+
+hanno convenuto quanto segue:*[^ingress-1]*
+
+[^ingress-1]: Nuovo testo giusta l’art. I par. 1 del Prot. del 14 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 1° dic. 2021 ([RU 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [FF 2020 8221](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
 
 #### Art. 1
 
@@ -414,7 +413,7 @@ In Svizzera, la doppia imposizione sarà evitata nel modo seguente:
 
 <sup>1.</sup> Quando ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportino o comporteranno per lei un’imposizione non conforme alle disposizioni della presente Convenzione, una persona può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di detti Stati, sottoporre il suo caso all’autorità competente dello Stato contraente di cui è residente o, se il suo caso rientra nell’ambito di applicazione dell’articolo 24 paragrafo 1, a quella dello Stato contraente di cui possiede la cittadinanza. Il caso deve essere sottoposto entro i tre anni che seguono la prima notificazione del provvedimento che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
 
-<sup>2.</sup> Se considera il reclamo fondato e non è in grado di giungere a una soluzione soddisfacente, l’autorità competente si adopera per regolare il caso per via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare una tassazione non conforme alla Convenzione.
+<sup>2.</sup> Se considera il reclamo fondato e non è in grado di giungere a una soluzione soddisfacente, l’autorità competente si adopera per regolare il caso per via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare una tassazione non conforme alla Convenzione. L’accordo amichevole è applicato indipendentemente dai termini previsti dalla legislazione nazionale degli Stati contraenti.[^25-1]
 
 <sup>3.</sup> Le autorità competenti degli Stati contraenti si adoperano per risolvere in via di amichevole composizione le difficoltà o i dubbi inerenti all’interpretazione o all’applicazione della Convenzione. Esse possono altresì consultarsi al fine di eliminare la doppia imposizione nei casi non previsti dalla Convenzione.
 
@@ -428,6 +427,8 @@ Se:
 - b) le autorità competenti non giungono a un accordo che possa risolvere questo caso in virtù del paragrafo 2 entro tre anni dalla presentazione del caso all’autorità competente dell’altro Stato contraente,
 
 <sup>6.</sup> Gli Stati contraenti possono mettere a disposizione del tribunale arbitrale costituito secondo il paragrafo 5 le informazioni necessarie per l’esecuzione della procedura d’arbitrato. I membri di questo tribunale sono vincolati alle prescrizioni del segreto d’ufficio menzionate nell’articolo 26 paragrafo 2.
+
+[^25-1]: Nuovo testo giusta l’art. I par. 2 del Prot. del 14 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 1° dic. 2021 ([RU 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [FF 2020 8221](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
 
 #### Art. 26
 
@@ -464,6 +465,14 @@ Nonostante le disposizioni dell’articolo 4, ogni persona fisica che è membro 
 
 <sup>3.</sup> La Convenzione non si applica alle organizzazioni internazionali, ai loro organi o ai loro funzionari, né ai membri di una missione diplomatica o di una rappresentanza consolare di uno Stato terzo, qualora si trovino sul territorio di uno Stato contraente o non siano trattati, in materia di imposte sul reddito, come residenti dell’uno o dell’altro Stato contraente.
 
+#### Art. 27a
+
+**Diritto ai benefici**[^27a-1]
+
+Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito o di patrimonio, se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che sia stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+[^27a-1]: Introdotto dall’art. I par. 3 del Prot. del 14 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 1° dic. 2021 ([RU 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [FF 2020 8221](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
+
 #### Art. 28
 
 **Protocollo**
@@ -499,13 +508,27 @@ La presente Convenzione rimane in vigore sino alla denuncia da parte di uno Stat
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto il 10 luglio 2015 a Vaduz, in due esemplari originali in lingua tedesca. Per la Confederazione Svizzera: Eveline Widmer-Schlumpf Per il Principato del Liechtenstein: Adrian Hasler
 
-Protocollo
+Art. II par. 2 e 3 del Protocollo del 14 luglio 2020**[^t-2]**
+
+\2. Le disposizioni del Protocollo si applicheranno:
+
+- a) con riferimento alle imposte trattenute alla fonte, ai redditi pagati o accreditati il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data;
+- b) con riferimento alle altre imposte, agli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data.
+
+\3. Nonostante le disposizioni del paragrafo 2 le disposizioni del paragrafo 2 dell’articolo I del presente Protocollo saranno applicabili dalla data dell’entrata in vigore del presente Protocollo senza tenere conto del periodo fiscale considerato.
+
+## Protocollo****
+
+[^annexu1-lvlu2-1]
+
+[^t-2]: [RU 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [FF 2020 8221](https://fedlex.data.admin.ch/eli/fga/2020/2554)
+[^annexu1-lvlu2-1]: Aggiornato dall’art. I par. 4 del Prot. del 14 lug. 2020, approvato dall’AF il 18 giu. 2021, in vigore dal 1° dic. 2021 ([RU 2021 812](https://fedlex.data.admin.ch/eli/oc/2021/812), [811](https://fedlex.data.admin.ch/eli/oc/2021/811); [FF 2020 8221](https://fedlex.data.admin.ch/eli/fga/2020/2554)).
 
 La Confederazione Svizzera e il Principato del Liechtenstein,
 
 all’atto della firma a Vaduz, il 10 luglio 2015, della Convenzione tra i due Stati per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio, hanno convenuto le seguenti disposizioni che formano parte integrante della Convenzione.
 
-\1. Ad art. 3. par. 1 lett. i
+### *1.* *Ad art. 3. par. 1 lett. i*
 
 Resta inteso che l’espressione «istituzione di previdenza» designa le seguenti istituzioni nonché tutte le istituzioni identiche o simili, costituite sulla base delle leggi interne emanate dopo la firma del presente Protocollo:
 
@@ -522,12 +545,17 @@ Resta inteso che l’espressione «istituzione di previdenza» designa le seguen
 
   in Svizzera, tutti i piani e le istituzioni che rientrano nel campo di applicazione:
 
-  - (i) della legge federale del 20 dicembre 1946[^t-3] su l’assicurazione per la vecchiaia e per i superstiti,
-  - (ii) della legge federale del 19 giugno 1959[^t-4] su l’assicurazione per l’invalidità,
-  - (iii) della legge federale del 6 ottobre 2006[^t-5] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità,
-  - (iv) della legge federale del 25 giugno 1982[^t-6] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, comprese le istituzioni di previdenza non registrate che offrono piani di previdenza professionali, nonché le forme previdenziali riconosciute della previdenza individuale vincolata.
+  - (i) della legge federale del 20 dicembre 1946[^annexu1-lvlu2-lvl1-1] su l’assicurazione per la vecchiaia e per i superstiti,
+  - (ii) della legge federale del 19 giugno 1959[^annexu1-lvlu2-lvl1-2] su l’assicurazione per l’invalidità,
+  - (iii) della legge federale del 6 ottobre 2006[^annexu1-lvlu2-lvl1-3] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità,
+  - (iv) della legge federale del 25 giugno 1982[^annexu1-lvlu2-lvl1-4] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, comprese le istituzioni di previdenza non registrate che offrono piani di previdenza professionali, nonché le forme previdenziali riconosciute della previdenza individuale vincolata.
 
-\2. Ad art. 4
+[^annexu1-lvlu2-lvl1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^annexu1-lvlu2-lvl1-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annexu1-lvlu2-lvl1-3]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^annexu1-lvlu2-lvl1-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+### *2.* *Ad art. 4*
 
 - a)
 
@@ -547,41 +575,37 @@ Resta inteso che l’espressione «istituzione di previdenza» designa le seguen
   - Questo disciplinamento è applicabile per analogia anche a stabilimenti e imprese fiduciarie costituite nel Liechtenstein e simili a fondazioni («Trust reg.»).
 
 - b) Resta inoltre inteso che persone o strutture che, come ad esempio le strutture relative al patrimonio privato, sottostanno nel Liechtenstein esclusivamente all’imposta minima sugli utili, non sono considerate come «un residente dell’altro Stato contraente» e allo scopo di beneficiare dei vantaggi della convenzione, sono considerati trasparenti sotto il profilo fiscale.
-- c) È fatto salvo il Trattato del 29 marzo 1923[^t-7] di unione doganale conchiuso tra la Confederazione Svizzera e il Liechtenstein.
+- c) È fatto salvo il Trattato del 29 marzo 1923[^annexu1-lvlu2-lvl2-1] di unione doganale conchiuso tra la Confederazione Svizzera e il Liechtenstein.
 
-\3. Ad art. 10 par. 3 lett. a
+[^annexu1-lvlu2-lvl2-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+
+### *3.* *Ad art. 10 par. 3 lett. a*
 
 Se la durata minima di detenzione di cui all’articolo 10 paragrafo 3 lettera a al momento del pagamento dei dividendi non è stata rispettata e pertanto l’imposta di cui all’articolo 10 paragrafo 2 è stata trattenuta in occasione del pagamento e la durata minima di detenzione è stata rispettata successivamente, il beneficiario effettivo dei dividendi è autorizzato a richiedere il rimborso dell’imposta trattenuta.
 
-\4. Ad art. 10, 11, 12 e 21
-
-- a) Le disposizioni degli articoli 10, 11, 12 e 21 non si applicano ai redditi risultanti da un’operazione, da una parte di operazione o da una sequenza di operazioni oppure incassati da un ente, se lo scopo principale della conclusione di queste o dell’istituzione dell’ente consiste nel beneficiare dei vantaggi degli articoli 10, 11, 12 e 21 e se, facendo astrazione dall’operazione, dalla parte di operazione o dalla sequenza di operazioni oppure dall’ente, tali redditi sarebbero imputati a una persona non residente in alcuno dei due Stati contraenti.
-- b) Le disposizioni dell’articolo 10 paragrafo 3 non si applicano ai dividendi risultanti da un’operazione, da una parte di operazione o da una sequenza di operazioni oppure incassati da un ente, se lo scopo principale della conclusione di queste o dell’istituzione dell’ente consiste nel beneficiare dei vantaggi dell’articolo 10 paragrafo 3 e se, facendo astrazione dall’operazione, dalla parte di operazione o dalla sequenza di operazioni oppure dall’ente, tali dividendi sarebbero imputati a una persona che non soddisfa le condizioni dell’articolo 10 paragrafo 3 in merito a tali dividendi.
-- c) Se, facendo astrazione dall’operazione, dalla parte di operazione o dalla sequenza di operazioni oppure dall’ente, i redditi sarebbero imputati a una persona che, in base a una convenzione per evitare le doppie imposizioni tra il suo Stato di residenza e lo Stato da cui provengono i redditi oppure in base a un altro accordo, trarrebbe in relazione a tali redditi vantaggi equivalenti o più favorevoli rispetto ai vantaggi di cui gode un residente di uno Stato contraente della presente Convenzione, allora lo scopo principale dell’operazione, della parte di operazione o della sequenza di operazioni oppure dell’ente non consiste nel beneficiare dei vantaggi degli articoli 10, 11, 12 e 21.
-
-\5. Ad art. 15 par. 4
+### 4. *Ad art. 15 par. 4*
 
 - a) L’espressione «luogo di lavoro» designa il luogo in cui la persona è integrata nell’esercizio del suo datore di lavoro.
 - b) Il termine «domicilio» designa il luogo in cui la persona ha il suo domicilio fiscale principale.
 - c) la qualità di frontaliere decade se la persona, in caso di occupazione durante l’intero anno civile, a causa della sua attività non rientra al proprio domicilio per oltre 45 giorni lavorativi.
 
-\6. Ad art. 18
+### *5.* *Ad art. 18*
 
 Per le persone residenti in uno Stato contraente e assicurate alla previdenza professionale nell’altro Stato contraente, la Svizzera verserà al Liechtenstein una compensazione di 450 000 franchi all’anno. Il Liechtenstein presenta annualmente la fattura alla Svizzera.
 
-\7. Ad art. 18 e 24
+### *6.* *Ad art. 18 e 24*
 
 Con riferimento agli articoli 18 e 24 resta inteso che i contributi pagati da o per conto di una persona che esercita un’attività in uno Stato contraente a un’istituzione di previdenza costituita e riconosciuta ai fini fiscali nell’altro Stato contraente, sono trattati, per la determinazione dell’imposta dovuta da tale persona fisica in questo primo Stato menzionato e per la determinazione degli utili aziendali ivi imponibili, secondo le stesse condizioni e limitazioni dei contributi pagati a un’istituzione di previdenza riconosciuta ai fini fiscali nel primo Stato contraente, se la persona fisica non era residente di questo Stato immediatamente prima di iniziarvi la sua attività e già allora era affiliata a questa istituzione di previdenza.
 
-\8. Ad art. 18, 19 e 21
+### *7.* *Ad art. 18, 19 e 21*
 
 Qualora un’istituzione di previdenza di uno Stato contraente versa prestazioni di previdenza a un residente dell’altro Stato contraente, essa fornisce un attestato di detta prestazione al beneficiario.
 
-\9. Ad art. 21
+### *8.* *Ad art. 21*
 
 Fintantoché la Svizzera assoggetta alla fonte le vincite alle lotterie, l’articolo 21 non è applicabile a vincite alle lotterie inferiori a 75 000 franchi svizzeri e queste vincite non rientrano nel campo di applicazione della Convenzione.
 
-\10. Ad art. 26
+### *9.* *Ad art. 26*
 
 - a) Resta inteso che lo Stato richiedente deve sfruttare tutte le fonti d’informazione abituali previste dalla sua procedura fiscale interna prima di richiedere informazioni.
 - b)
@@ -598,9 +622,9 @@ Fintantoché la Svizzera assoggetta alla fonte le vincite alle lotterie, l’art
 - d) Resta inoltre inteso che, sulla base dell’articolo 26 della Convenzione, gli Stati contraenti non sono tenuti a procedere a uno scambio di informazioni spontaneo o automatico.
 - e) Resta inteso che, prima della trasmissione delle informazioni allo Stato richiedente, nel caso di uno scambio di informazioni si applicano nello Stato richiesto le norme di procedura amministrativa relative ai diritti del contribuente. Resta inoltre inteso che queste disposizioni servono a garantire al contribuente una procedura regolare e non mirano a ostacolare o ritardare indebitamente gli scambi effettivi di informazioni.
 
-\11. Ad art. 26
+### *10.* *Ad art. 26*
 
-Resta inteso che, in ambito di imposta sul valore aggiunto, lo scambio di informazioni tra le autorità competenti in merito avviene sulla base del Trattato del 28 ottobre 1994[^t-8] tra la Confederazione Svizzera e il Principato del Liechtenstein concernente l’IVA nel Principato del Liechtenstein.
+Resta inteso che, in ambito di imposta sul valore aggiunto, lo scambio di informazioni tra le autorità competenti in merito avviene sulla base del Trattato del 28 ottobre 1994[^annexu1-lvlu2-lvl10-1] tra la Confederazione Svizzera e il Principato del Liechtenstein concernente l’IVA nel Principato del Liechtenstein.
 
 Fatto il 10 luglio 2015 a Vaduz, in due esemplari originali in lingua tedesca.
 
@@ -608,9 +632,4 @@ Fatto il 10 luglio 2015 a Vaduz, in due esemplari originali in lingua tedesca.
 <tr><td>Per la Confederazione Svizzera: Eveline Widmer-Schlumpf</td><td>Per il Principato del Liechtenstein: Adrian Hasler</td></tr>
 </table>
 
-[^t-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^t-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^t-5]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^t-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^t-7]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
-[^t-8]: [RS 0.641.295.142](https://fedlex.data.admin.ch/eli/cc/1995/785_785_785)
+[^annexu1-lvlu2-lvl10-1]: [RS 0.641.295.142](https://fedlex.data.admin.ch/eli/cc/1995/785_785_785)
