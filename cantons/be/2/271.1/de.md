@@ -4,13 +4,13 @@ number: "271.1"
 title: "Einführungsgesetz zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung"
 short: EG ZSJ
 language: de
-version: 2020-11-01
-valid_until: 2021-11-30
-version_adopted: 2020-09-02
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-08
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1977/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2412/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1977/pdf_file"
 
 (EG ZSJ)
 
-vom 11.06.2009 (Stand 01.11.2020)
+vom 11.06.2009 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -401,9 +401,9 @@ beschliesst:
 
 **Zustellung durch Veröffentlichung (Art. 88 StPO)**
 
-<sup>1</sup> Die Zustellung durch Veröffentlichung erfolgt in den kantonalen Amtsblättern gemäss Publikationsgesetz vom 18. Januar 1993 (PuG)[^32-1].
+<sup>1</sup> Die Zustellung durch Veröffentlichung erfolgt im kantonalen Amtsblatt gemäss Publikationsgesetz vom 18. Januar 1993 (PuG)[^32-1].
 
-[^32-1]: BSG 103.1
+[^32-1]: BSG [103.1](https://www.belex.sites.be.ch/data/103.1/de)
 
 #### Art. 32a
 

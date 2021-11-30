@@ -4,13 +4,13 @@ number: "271.1"
 title: "Loi portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs"
 short: LiCPM
 language: fr
-version: 2020-11-01
-valid_until: 2021-11-30
-version_adopted: 2020-09-02
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-08
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1977/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2412/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1977/pdf_file"
 
 (LiCPM)
 
-du 11.06.2009 (état au 01.11.2020)
+du 11.06.2009 (état au 01.12.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -398,9 +398,9 @@ arrête:
 
 **Notification par publication (art. 88 CPP)**
 
-<sup>1</sup> La notification par publication a lieu dans les feuilles officielles cantonales conformément à la loi du 18 janvier 1993 sur les publications officielles (LPO)[^32-1].
+<sup>1</sup> La notification par publication a lieu dans la feuille officielle cantonale conformément à la loi du 18 janvier 1993 sur les publications officielles (LPO)[^32-1].
 
-[^32-1]: RSB 103.1
+[^32-1]: RSB [103.1](https://www.belex.sites.be.ch/data/103.1/fr)
 
 #### Art. 32a
 
