@@ -4,11 +4,11 @@ title: "Ordonnance de l'IPI du 14 juin 2016 sur les taxes (OTa-IPI)"
 short: OTa-IPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/777"
 language: fr
-version: 2019-07-01
+version: 2021-12-01
 adopted: 2016-06-14
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20190701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-777-20190701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20190701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2016-777-20211201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20190701/fr"
 
 (OTa-IPI)
 
-du 14 juin 2016 (Etat le 1<sup>er</sup> juillet 2019)
+du 14 juin 2016 (Etat le 1<sup>er</sup> décembre 2021)
 
-Approuvée par le Conseil fédéral le 2 décembre 2016
+Approuvée par le Conseil fédéral le 18 août 2021
 
 L’Institut Fédéral de la Propriété Intellectuelle (IPI),
 
@@ -149,7 +149,7 @@ Annexe*[^t-1]*
 
 ## Tarif des taxes
 
-[^t-1]: Mise à jour selon le ch. I des O de l’IPI du 13 juin 2018, approuvé par le CF le 21 sept. 2018 ([RO 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)) et du 31 oct. 2018, approuvé par le CF le 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)).
+[^t-1]: Mise à jour selon le ch. I des O de l’IPI du 13 juin 2018, approuvé par le CF le 21 sept. 2018 ([RO 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)), du 31 oct. 2018, approuvé par le CF le 17 avr. 2019 ([RO 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)) et du 22 mars 2021, approuvée par le CF le 18 août 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)).
 
 ### 1. Taxes perçues en matière de marques et d’indications géographiques
 
@@ -163,12 +163,14 @@ Annexe*[^t-1]*
 <tr><td>Art. 26, al. 5</td><td>OPM</td><td>[tab] Surtaxe pour paiement après l’échéance de l’enregistrement</td><td>1450</td><td>50.–</td></tr>
 <tr><td>Art. 17*a*</td><td>OPM</td><td>Taxe de poursuite de la procédure</td><td>1500</td><td>100.–</td></tr>
 <tr><td>Art. 45, al. 2 Art. 47, al. 4</td><td>LPM OPM</td><td>Taxe nationale pour une demande d’enregistrement international</td><td>1600</td><td>100.–</td></tr>
+<tr><td>Art. 50*f*, let. c</td><td>LPM</td><td>Taxe pour la demande de refus des effets en Suisse d’un enregistrement international</td><td>1650</td><td>800.–</td></tr>
+<tr><td>Art. 50f, let. d</td><td>LPM</td><td>Taxe pour la demande d’une période de transition</td><td>1660</td><td>800.–</td></tr>
 <tr><td>Art. 45, al. 2 Art. 8, al. 7</td><td>LPM PM[^annexu1-lvlu1-lvl1-3]</td><td>Taxe individuelle pour la désignation de la Suisse</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>– pour trois classes</td><td>1700</td><td>450.–</td></tr>
 <tr><td></td><td></td><td>– pour chaque classe supplémentaire</td><td>1730</td><td>50.–</td></tr>
 <tr><td></td><td></td><td>Taxe individuelle pour le renouvellement</td><td>1760</td><td>500.–</td></tr>
 <tr><td>Art. 35*a*, al. 3</td><td>LPM</td><td>Taxe de radiation</td><td>1800</td><td>800.–</td></tr>
-<tr><td>Art. 50*a*, al. 3 Art. 14</td><td>LPM O sur les AOP/IGP[^annexu1-lvlu1-lvl1-4]</td><td>Taxes liées au registre des indications géographiques:</td><td></td><td></td></tr>
+<tr><td>Art. 50*b*, al. 3 Art. 14</td><td>LPM O sur les AOP/IGP[^annexu1-lvlu1-lvl1-4]</td><td>Taxes liées au registre des indications géographiques:</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>– Taxe d’enregistrement</td><td>1900</td><td>4000.–</td></tr>
 <tr><td></td><td></td><td>– Taxe d’opposition</td><td>1930</td><td>2000.–</td></tr>
 <tr><td></td><td></td><td>– Taxe pour modification du cahier des charges</td><td>1960</td><td>800.–</td></tr>

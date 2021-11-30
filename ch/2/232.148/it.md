@@ -4,11 +4,11 @@ title: "Ordinanza dell'IPI del 14 giugno 2016 sulle tasse (OTa-IPI)"
 short: OTa-IPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/777"
 language: it
-version: 2019-07-01
+version: 2021-12-01
 adopted: 2016-06-14
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20190701/it/xml/fedlex-data-admin-ch-eli-cc-2016-777-20190701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20190701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2016-777-20211201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20190701/it"
 
 (OTa-IPI)
 
-del 14 giugno 2016 (Stato 1° luglio 2019) (Stato 1° luglio 2019)
+del 14 giugno 2016 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
 
 Approvata dal Consiglio federale il 2 dicembre 2016
 
@@ -149,7 +149,7 @@ Allegato*[^t-1]*
 
 ## Tariffe delle tasse
 
-[^t-1]: Aggiornato dai n. I delle O dell’IPI del 13 giu. 2018, approvata dal CF il 21 set. 2018 ([RU 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)) e del 31 ott. 2018, approvata dal CF il 17 apr. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)).
+[^t-1]: Aggiornato dai n. I delle O dell’IPI del 13 giu. 2018, approvata dal CF il 21 set. 2018 ([RU 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)), del 31 ott. 2018, approvata dal CF il 17 apr. 2019 ([RU 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)) e del 22 mar. 2021, approvata dal CF il 18 ago. 2021, in vigore dal 1° dec. 2021 ([RU 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)).
 
 ### 1. Tasse riscosse in materia di marchi e indicazioni geografiche
 
@@ -163,12 +163,14 @@ Allegato*[^t-1]*
 <tr><td>Art. 26 cpv. 5</td><td>OPM</td><td>[tab] Soprattassa in caso di pagamento dopo la scadenza della registrazione</td><td>1450</td><td>50.–</td></tr>
 <tr><td>Art. 17*a*</td><td>OPM</td><td>Tassa per il proseguimento della procedura</td><td>1500</td><td>100.–</td></tr>
 <tr><td>Art. 45 cpv. 2 Art. 47 cpv. 4</td><td>LPM OPM</td><td>Tassa nazionale per la richiesta di una registrazione internazionale</td><td>1600</td><td>100.–</td></tr>
+<tr><td>Art. 50f lett. c</td><td>LPM</td><td>Tassa per la domanda di rifiuto degli effetti di una registrazione internazionale in Svizzera</td><td>1650</td><td>800.–</td></tr>
+<tr><td>Art. 50f lett. d</td><td>LPM</td><td>Tassa per la domanda di concessione di un periodo di transizione</td><td>1660</td><td>800.–</td></tr>
 <tr><td>Art. 45 cpv. 2 Art. 8 cpv. 7</td><td>LPM PM[^annexu1-lvlu1-lvl1-3]</td><td>Tassa individuale per la designazione della Svizzera</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>– per tre classi</td><td>1700</td><td>450.–</td></tr>
 <tr><td></td><td></td><td>– per ogni classe supplementare</td><td>1730</td><td>50.–</td></tr>
 <tr><td></td><td></td><td>Tassa individuale per il rinnovo</td><td>1760</td><td>500.–</td></tr>
 <tr><td>Art. 35*a* cpv. 3</td><td>LPM</td><td>Tassa di cancellazione</td><td>1800</td><td>800.–</td></tr>
-<tr><td>Art. 50*a* cpv. 3 Art. 14</td><td>LPM O-DOP/ IGP[^annexu1-lvlu1-lvl1-4]</td><td>Tasse riscosse in relazione al registro delle indicazioni geografiche:</td><td></td><td></td></tr>
+<tr><td>Art. 50*b* cpv. 3 Art. 14</td><td>LPM O-DOP/ IGP[^annexu1-lvlu1-lvl1-4]</td><td>Tasse riscosse in relazione al registro delle indicazioni geografiche:</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>– Tassa d’iscrizione</td><td>1900</td><td>4000.–</td></tr>
 <tr><td></td><td></td><td>– Tassa di opposizione</td><td>1930</td><td>2000.–</td></tr>
 <tr><td></td><td></td><td>– Tassa per la modifica dell’elenco degli obblighi</td><td>1960</td><td>800.–</td></tr>

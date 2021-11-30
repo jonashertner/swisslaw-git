@@ -4,11 +4,11 @@ title: Verordnung des IGE vom 14. Juni 2016 über Gebühren (GebV-IGE)
 short: GebV-IGE
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/777"
 language: de
-version: 2019-07-01
+version: 2021-12-01
 adopted: 2016-06-14
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20190701/de/xml/fedlex-data-admin-ch-eli-cc-2016-777-20190701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20190701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/777/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2016-777-20211201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/777/20190701/de"
 
 (GebV-IGE)
 
-vom 14. Juni 2016 (Stand am 1. Juli 2019)
+vom 14. Juni 2016 (Stand am 1. Dezember 2021)
 
 Vom Bundesrat genehmigt am 2. Dezember 2016
 
@@ -135,7 +135,7 @@ Die Gebühren sind in Schweizerfranken zu bezahlen:
 
 Die Gebührenordnung vom 28. April 1997[^12-1] des Eidgenössischen Instituts für Geistiges Eigentum wird aufgehoben.
 
-[^12-1]: [[AS 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173), [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414), [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393), [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. VI, [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278), [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310), [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299), [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197)]
+[^12-1]: [[AS 1997 2173](https://fedlex.data.admin.ch/eli/oc/1997/2173_2173_2173); [1999 2632](https://fedlex.data.admin.ch/eli/oc/1999/414); [2005 2323](https://fedlex.data.admin.ch/eli/oc/2005/393); [2006 4487](https://fedlex.data.admin.ch/eli/oc/2006/692); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. VI; [2008 1897](https://fedlex.data.admin.ch/eli/oc/2008/278); [2011 2251](https://fedlex.data.admin.ch/eli/oc/2011/310); [2013 1307](https://fedlex.data.admin.ch/eli/oc/2013/299); [2016 1049](https://fedlex.data.admin.ch/eli/oc/2016/197)]
 
 #### Art. 13
 
@@ -149,7 +149,7 @@ Anhang*[^t-1]*
 
 ## Gebührenansätze
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des IGE vom 13. Juni 2018, vom BR genehmigt am 21. Sept. 2018 ([AS 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)) und vom 31. Okt. 2018, vom BR genehmigt am 17. April 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des IGE vom 13. Juni 2018, vom BR genehmigt am 21. Sept. 2018 ([AS 2018 3569](https://fedlex.data.admin.ch/eli/oc/2018/585)) und vom 31. Okt. 2018, vom BR genehmigt am 17. April 2019 ([AS 2019 1577](https://fedlex.data.admin.ch/eli/oc/2019/298)) und vom 22. März 2021, vom BR genehmigt am 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 511](https://fedlex.data.admin.ch/eli/oc/2021/511)).
 
 ### 1. Gebühren für Marken und geografische Angaben
 
@@ -163,15 +163,15 @@ Anhang*[^t-1]*
 <tr><td>Art. 26 Abs. 5</td><td>MSchV</td><td>Zuschlag bei Zahlung nach Ablauf der Gültigkeitsdauer</td><td>1450</td><td>50.–</td></tr>
 <tr><td>Art. 17*a*</td><td>MSchV</td><td>Weiterbehandlungsgebühr</td><td>1500</td><td>100.–</td></tr>
 <tr><td>Art. 45 Abs. 2 Art. 47 Abs. 4</td><td>MSchG MSchV</td><td>Nationale Gebühr für ein Gesuch um internationale Registrierung</td><td>1600</td><td>100.–</td></tr>
+<tr><td>Art. 50*f* Bst. c</td><td>MSchG</td><td>Gebühr für das Gesuch um Verweigerung der Wirksamkeit einer internationalen Registrierung in der Schweiz</td><td>1650</td><td>800.–</td></tr>
+<tr><td>Art. 50*f* Bst. d</td><td>MSchG</td><td>Gebühr für das Gesuch um Gewährung einer Übergangsfrist</td><td>1660</td><td>800.–</td></tr>
 <tr><td>Art. 45 Abs. 2 Art. 8 Abs. 7</td><td>MSchG MMP[^annexu1-lvlu1-lvl1-3]</td><td>Individuelle Gebühr für die Benennung der Schweiz</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>– für drei Klassen</td><td>1700</td><td>450.–</td></tr>
 <tr><td></td><td></td><td>– für jede weitere Klasse</td><td>1730</td><td>50.–</td></tr>
 <tr><td></td><td></td><td>Individuelle Gebühr für die Erneuerung</td><td>1760</td><td>500.–</td></tr>
 <tr><td>Art. 35*a* Abs. 3</td><td>MSchG</td><td>Gebühr für die Löschung</td><td>1800</td><td>800.–</td></tr>
-<tr><td>Art. 50*a* Abs. 3 Art. 14</td><td>MSchG GUB/ GGA‑VO[^annexu1-lvlu1-lvl1-4]</td><td>Gebühren im Zusammenhang mit dem Register für geografische Angaben:</td><td></td><td></td></tr>
+<tr><td>Art. 50*b* Abs. 3 Art. 14</td><td>MSchG GUB/ GGA‑VO[^annexu1-lvlu1-lvl1-4]</td><td>Gebühren im Zusammenhang mit dem Register für geografische Angaben:</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>– Eintragungsgebühr</td><td>1900</td><td>4000.–</td></tr>
-<tr><td></td><td></td><td>[tab]</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>[tab]</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>– Einsprachegebühr</td><td>1930</td><td>2000.–</td></tr>
 <tr><td></td><td></td><td>– Gebühr für die Änderung des Pflichtenhefts</td><td>1960</td><td>800.–</td></tr>
 </table>
@@ -194,6 +194,8 @@ Anhang*[^t-1]*
 <tr><th>Art. 21 Abs. 3</th><th>DesV</th><th>Schutzverlängerungsgebühr</th><th></th><th></th></tr>
 <tr><th></th><th></th><th>– für die zweite Schutzperiode (6.–10. Jahr), die dritte Schutzperiode (11.–15. Jahr), die vierte Schutzperiode (16.–20. Jahr) und die fünfte Schutzperiode (21.–25. Jahr) je:</th><th></th><th></th></tr>
 <tr><th></th><th></th><th>– für ein einzeln hinterlegtes Design oder das erste Design einer Sammelhinterlegung</th><th>3400</th><th>200.–</th></tr>
+<tr><th></th><th></th><th>[tab]</th><th></th><th></th></tr>
+<tr><th>Artikel</th><th></th><th>Beschreibung der Gebühr</th><th>Code</th><th>Fr.</th></tr>
 <tr><th></th><th></th><th>– für jedes weitere Design einer Sammelhinterlegung</th><th>3500</th><th>100.–</th></tr>
 <tr><th></th><th></th><th>höchstens jedoch</th><th>3600</th><th>700.–</th></tr>
 <tr><th>Art. 21 Abs. 3</th><th>DesV</th><th>Zuschlag bei Zahlung nach Ablauf der Schutzperiode</th><th>3650</th><th>50.–</th></tr>
