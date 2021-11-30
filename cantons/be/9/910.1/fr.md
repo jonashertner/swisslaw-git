@@ -4,13 +4,13 @@ number: "910.1"
 title: "Loi cantonale sur l'agriculture"
 short: LCAB
 language: fr
-version: 2021-04-01
-valid_until: 2021-11-30
-version_adopted: 2021-02-17
+version: 2021-12-01
+valid_until: 2026-08-31
+version_adopted: 2021-06-15
 adopted: 1997-06-16
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/910.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2191/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2421/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2191/pdf_file"
 
 (LCAB)
 
-du 16.06.1997 (état au 01.04.2021)
+du 16.06.1997 (état au 01.12.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -499,6 +499,14 @@ arrête:
 
 <sup>2</sup> Il peut par voie d'ordonnance obliger les autorités du canton et des communes à fournir gratuitement les informations et données nécessaires à l'exécution.
 
+#### Art. 44a
+
+**Données personnelles issues des fichiers centralisés**
+
+<sup>1</sup> Le service compétent de la Direction de l'économie, de l'énergie et de l'environnement peut consulter par procédure d'appel les données des fichiers cantonaux centralisés de données personnelles qui sont nécessaires à l'accomplissement de ses tâches.
+
+<sup>2</sup> Il peut consulter et traiter des données personnelles particulièrement dignes de protection relatives aux mesures de protection de l'enfant et de l'adulte, aux ménages et aux relations des personnes concernées, y compris des données anciennes, pour autant qu'elles soient impérativement nécessaires à l'accomplissement de ses tâches.
+
 #### Art. 45
 
 **Concours de tiers**
@@ -508,6 +516,35 @@ arrête:
 <sup>2</sup> Il peut confier à la Fondation bernoise de crédit agricole (CAB) la mise en œuvre des mesures d'améliorations structurelles et de la mesure d'accompagnement sociale.
 
 <sup>3</sup> La Direction de l’économie, de l’énergie et de l’environnement peut, dans le cadre de l'exécution de la législation sur l'agriculture, déléguer des tâches d'exécution à des tiers au moyen de contrats de prestation.
+
+#### Art. 45a
+
+**Système d'information agricole**
+
+<sup>1</sup> Le service compétent de la Direction de l'économie, de l'énergie et de l'environnement gère un système d'information agricole pour l'exécution de la présente loi, notamment pour l'octroi de subventions.
+
+<sup>2</sup> Le système d'information agricole contient
+
+- a des données sur les personnes concernées par l'exécution de la législation, y compris sur les exploitants et exploitantes de la production primaire,
+- b des données sur les exploitations agricoles et les unités d'élevage.
+
+<sup>3</sup> Le service compétent de la Direction de l'économie, de l'énergie et de l'environnement peut rendre ces données accessibles en ligne aux services, personnes et systèmes suivants ou les leur transférer:
+
+- a autorités d'exécution cantonales et communales ayant besoin de ces données pour accomplir les tâches légales qui leur incombent;
+- b tiers chargés de tâches d'exécution en vertu de l'article 45 pour autant qu'ils aient besoin de ces données pour accomplir les tâches qui leur sont confiées;
+- c tiers disposant d'une habilitation de la personne dont les données sont concernées, dans la mesure où l'habilitation accordée le permet.
+
+#### Art. 45b
+
+**Notification électronique**
+
+<sup>1</sup> Les décisions de subventionnement rendues en grand nombre entrant dans le champ d'application de la présente loi sont notifiées par voie électronique.
+
+<sup>2</sup> Elles sont consultables dans la zone protégée du système d'information agricole. Leur publication est notifiée par un message électronique envoyé à leurs destinataires.
+
+<sup>3</sup> Le délai pour saisir la voie de droit commence à courir dès que la notification de la publication de la décision a été remise par voie électronique.
+
+<sup>4</sup> Le Conseil-exécutif peut, par voie d'ordonnance, prévoir des notifications électroniques pour d'autres procédures en rapport avec les décisions de subventionnement en vertu de l'alinéa 1.
 
 ## 9 Voies de droit
 
@@ -639,6 +676,14 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> Le Conseil-exécutif fixe la date d'entrée en vigueur de la présente loi.
+
+## T1 Disposition transitoire de la modification du 15.06.2021
+
+#### Art. T1-1
+
+<sup>1</sup> Les destinataires de la décision de subventionnement peuvent demander à ce que cette dernière leur soit notifiée sous forme imprimée et non sous forme électronique au sens de l'article 45b pour les années de subventionnement 2021 à 2023.
+
+<sup>2</sup> La demande doit être soumise par écrit, par courrier postal ou électronique, au service compétent de la Direction de l'économie, de l'énergie et de l'environnement d'ici au 15 décembre de l'année de subventionnement.
 
 Berne, le 16 juin 1997
 

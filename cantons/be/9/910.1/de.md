@@ -4,13 +4,13 @@ number: "910.1"
 title: Kantonales Landwirtschaftsgesetz
 short: KLwG
 language: de
-version: 2021-04-01
-valid_until: 2021-11-30
-version_adopted: 2021-02-17
+version: 2021-12-01
+valid_until: 2026-08-31
+version_adopted: 2021-06-15
 adopted: 1997-06-16
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/910.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2191/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2421/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2191/pdf_file"
 
 (KLwG)
 
-vom 16.06.1997 (Stand 01.04.2021)
+vom 16.06.1997 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -499,6 +499,14 @@ beschliesst:
 
 <sup>2</sup> Er kann durch Verordnung die Behörden von Kanton und Gemeinden verpflichten, die für den Vollzug notwendigen Angaben und Daten kostenlos beizubringen.
 
+#### Art. 44a
+
+**Daten aus zentralen Personendatensammlungen**
+
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion erhält im Abrufverfahren die zur Erfüllung ihrer Aufgaben notwendigen Daten aus zentralen Personendatensammlungen des Kantons.
+
+<sup>2</sup> Soweit zur Erfüllung ihrer Aufgaben zwingend notwendig, umfassen der Datenbezug und die Datenbearbeitung besonders schützenswerte Personendaten zu Massnahmen des Kindes- und Erwachsenenschutzes, zum Haushalt und zu Beziehungen, einschliesslich früherer Daten.
+
 #### Art. 45
 
 **Beizug Dritter**
@@ -508,6 +516,35 @@ beschliesst:
 <sup>2</sup> Er kann der Bernischen Stiftung für Agrarkredite (BAK) den Vollzug der Strukturverbesserungsmassnahmen sowie der sozialen Begleitmassnahme übertragen.
 
 <sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann im Rahmen des Vollzugs der Landwirtschaftsgesetzgebung mittels Leistungsvereinbarungen geeignete Dritte beiziehen.
+
+#### Art. 45a
+
+**Agrarinformationssystem**
+
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion betreibt ein Agrarinformationssystem für den Vollzug dieses Gesetzes, namentlich für die Gewährung von Beiträgen.
+
+<sup>2</sup> Das Agrarinformationssystem enthält
+
+- a Daten über die vom Vollzug betroffenen Personen, einschliesslich Daten über die Bewirtschafterinnen und Bewirtschafter in der Primärproduktion,
+- b Daten über die landwirtschaftlichen Betriebe und die Tierhaltungen.
+
+<sup>3</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann diese Daten für folgende Stellen, Personen und Systeme online abrufbar machen oder an sie weitergeben:
+
+- a kantonale und kommunale Vollzugsbehörden, soweit sie die Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen,
+- b Dritte, die gemäss Artikel 45 mit Vollzugsaufgaben betraut sind, soweit sie die Daten zur Erfüllung der ihnen übertragenen Aufgaben benötigen,
+- c Dritte, die über eine Ermächtigung derjenigen Person verfügen, deren Daten betroffen sind, im Umfang der erteilten Ermächtigung.
+
+#### Art. 45b
+
+**Elektronische Eröffnung**
+
+<sup>1</sup> Die Beitragsverfügungen im Geltungsbereich dieses Gesetzes, die als Massenverfügungen ergehen, werden auf dem elektronischen Weg eröffnet.
+
+<sup>2</sup> Sie sind im geschützten Bereich des Agrarinformationssystems abrufbar. Ihre Eröffnung erfolgt durch eine elektronische Mitteilung über die Abrufbarkeit an die Verfügungsadressatinnen und -adressaten.
+
+<sup>3</sup> Der Fristenlauf zur Erhebung eines Rechtsmittels beginnt mit dem Zugang der elektronischen Mitteilung über die Abrufbarkeit der Verfügung.
+
+<sup>4</sup> Der Regierungsrat kann die elektronische Eröffnung auch für weitere Verfahren im Zusammenhang mit Beitragsverfügungen gemäss Absatz 1 durch Verordnung vorsehen.
 
 ## 9 Rechtspflege
 
@@ -639,6 +676,14 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Der Regierungsrat bestimmt das Datum des Inkrafttretens.
+
+## T1 Übergangsbestimmung der Änderung vom 15.06.2021
+
+#### Art. T1-1
+
+<sup>1</sup> Die Verfügungsadressatinnen und -adressaten können für die Beitragsjahre 2021 bis 2023 statt der elektronischen Eröffnung gemäss Artikel 45b eine Eröffnung der Beitragsverfügung in Papierform beantragen.
+
+<sup>2</sup> Der Antrag ist bis zum 15. Dezember des Beitragsjahres schriftlich auf dem Postweg oder per E-Mail bei der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion einzureichen.
 
 Bern, 16. Juni 1997
 
