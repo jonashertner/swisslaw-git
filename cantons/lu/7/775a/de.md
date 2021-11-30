@@ -4,13 +4,13 @@ number: 775a
 title: Verordnung über den öffentlichen Verkehr
 short: öVV
 language: de
-version: 2013-06-01
-valid_until: 2021-11-30
-version_adopted: 2013-04-30
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-10-19
 adopted: 2009-10-20
 in_force: 2010-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/775a"
-pdf: "https://srl.lu.ch/api/de/versions/2501/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3855/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2501/pdf_file"
 
 (öVV)
 
-vom 20.10.2009 (Stand 01.06.2013)
+vom 20.10.2009 (Stand 01.12.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -86,7 +86,8 @@ beschliesst:
 - a. Angebotsstufe 1: Grundversorgung in dünn besiedelten Gebieten mit geringer Nachfrage; Mindestangebot: vier Kurspaare pro Tag,
 - b. Angebotsstufe 2: Ausrichtung des Angebots auf das Verkehrsaufkommen, gute Marktstellung des öffentlichen Verkehrs; Mindestangebot: tagsüber durchgehender Stundentakt mit 18 Kurspaaren pro Tag,
 - c. Angebotsstufe 3: sehr gutes Angebot, starke Marktstellung des öffentlichen Verkehrs; Mindestangebot: tagsüber in der Regel durchgehender Halbstundentakt mit Verdichtungsleistungen zu den Hauptverkehrszeiten,
-- d. Angebotsstufe 4: flächendeckendes Angebot aufgrund starker Nachfrage in grossen und dicht besiedelten Gebieten, Entlastung des motorisierten Individualverkehrs, Sicherstellung der Anschlussbeziehungen zu allen Verkehrsträgern; Mindestangebot: tagsüber in der Regel durchgehender Viertelstundentakt auf den Hauptverkehrslinien.
+- d. Angebotsstufe 4: flächendeckendes Angebot aufgrund starker Nachfrage in grossen und dicht besiedelten Gebieten, Entlastung des motorisierten Individualverkehrs, Sicherstellung der Anschlussbeziehungen zu allen Verkehrsträgern; Mindestangebot: tagsüber in der Regel durchgehender Viertelstundentakt auf den Hauptverkehrslinien,
+- e. Angebotsstufe N (Nachtangebot): nächtliche Grunderschliessung der potenzialstarken Gebiete in der Nacht; Mindestangebot: 1 Kurspaar pro Wochenendnacht.
 
 <sup>2</sup> Massgebend sind die Fahrten nach Fahrplan auf den Linien des öffentlichen Personenverkehrs.
 
@@ -111,10 +112,10 @@ beschliesst:
 <sup>1</sup> Die minimalen Kostendeckungsgrade werden wie folgt festgesetzt:
 
 <table>
-<tr><th>Verkehrsmittel</th><th>Angebotsstufe 1</th><th>Angebotsstufe 2</th><th>Angebotsstufe 3</th><th>Angebotsstufe 4</th></tr>
-<tr><td>Bahn (Eisenbahn, Seilbahn, Zahnradbahn)</td><td>20%</td><td>20%</td><td>25%</td><td>30%</td></tr>
-<tr><td>Bus (Autobus, Trolleybus)</td><td>20%</td><td>25%</td><td>30%</td><td>35%</td></tr>
-<tr><td>Schiff</td><td>50%</td><td>50%</td><td>50%</td><td>50%</td></tr>
+<tr><th>Verkehrsmittel</th><th>Angebotsstufe 1</th><th>Angebotsstufe 2</th><th>Angebotsstufe 3</th><th>Angebotsstufe 4</th><th>Angebotsstufe N</th></tr>
+<tr><td>Bahn (Eisenbahn, Seilbahn, Zahnradbahn)</td><td>20%</td><td>20%</td><td>25%</td><td>30%</td><td>20%</td></tr>
+<tr><td>Bus (Autobus, Trolleybus)</td><td>20%</td><td>25%</td><td>30%</td><td>35%</td><td>20%</td></tr>
+<tr><td>Schiff</td><td>50%</td><td>50%</td><td>50%</td><td>50%</td><td></td></tr>
 </table>
 
 #### § 9
@@ -123,9 +124,9 @@ beschliesst:
 
 <sup>1</sup> Für Linien des öffentlichen Personenverkehrs, die ganzjährig von mehr als 100 Personen bewohnte und ausschliesslich mit dem öffentlichen Verkehr erreichbare Siedlungen erschliessen, gelten die minimalen Kostendeckungsgrade gemäss § 8 nicht.
 
-<sup>2</sup> Die minimalen Kostendeckungsgrade gemäss § 8 dürfen während höchstens vier Jahren unterschritten werden,
+<sup>2</sup> Die minimalen Kostendeckungsgrade gemäss § 8 dürfen unterschritten werden,
 
-- a. wenn auf Linien des öffentlichen Personenverkehrs ein Angebot neu eingeführt oder erheblich verändert wird,
+- a. wenn auf Linien des öffentlichen Personenverkehrs ein Angebot neu eingeführt oder erheblich verändert wird während höchstens vier Jahren,
 - b. wenn der Verbundrat dies für andere Linien des öffentlichen Personenverkehrs so beschliesst.
 
 ## 4 Ausschreibung
@@ -214,6 +215,8 @@ beschliesst:
 <sup>1</sup> Die Gewichtung der Haltestellenabfahrten gemäss § 27 Absatz 2a öVG wird aus einem Verkehrsmittelgewicht und einem Siedlungsgewicht errechnet.
 
 <sup>2</sup> Die Zahl der Haltestellenabfahrten wird jährlich nachgeführt.
+
+<sup>3</sup> Bei Nachtlinien werden als Haltestellenabfahrten auch Halte nur zum Aussteigen berücksichtigt.
 
 #### § 18
 
