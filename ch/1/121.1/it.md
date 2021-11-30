@@ -3,11 +3,11 @@ sr: "121.1"
 title: Ordinanza del 16 agosto 2017 sulle attività informative (OAIn)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/495"
 language: it
-version: 2021-01-01
+version: 2021-12-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2017-495-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2017-495-20211201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,16 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20210101/it"
 
 (OAIn)
 
-del 16 agosto 2017 (Stato 1° gennaio 2021)
+del 16 agosto 2017 (Stato 1° dicembre 2021)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 8 capoverso 3, 11 capoverso 3, 19 capoverso 5, 39 capoverso 4, 43 capoverso 4, 72 capoverso 4, 80 capoverso 2, 82 capoversi 5 e 6, 84 nonché 85 capoverso 5 della legge del 25 settembre 2015[^ingress-1] sulle attività informative (LAIn); visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione,
+visti gli articoli 8 capoverso 3, 11 capoverso 3, 19 capoverso 5, 39 capoverso 4, 43 capoverso 4, 46 capoverso 3, 72 capoverso 4, 80 capoverso 2, 82 capoversi 5 e 6, 84 e 85 capoverso 5 della legge del 25 settembre 2015[^ingress-1] sulle attività informative (LAIn); visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 ## Capitolo 1: Collaborazione
 
@@ -405,47 +406,42 @@ I contatti informativi del COE con servizi specializzati esteri avvengono per il
 
 #### Art. 33
 
-**Comunicazione di dati personali da parte di autorità d’esecuzione cantonali**
+**Comunicazione ordinaria di valutazioni della situazione e di dati da parte di autorità d’esecuzione cantonali**[^33-1]
 
 <sup>1</sup>
 
-Se necessario per la valutazione di misure per la salvaguardia della sicurezza o per sventare una minaccia considerevole, le autorità d’esecuzione cantonali possono comunicare caso per caso alle autorità seguenti valutazioni della situazione e dati personali ricevuti dal SIC nel quadro di una comunicazione secondo l’allegato 3:
+Le autorità d’esecuzione cantonali possono comunicare valutazioni della situazione e dati in particolare ai destinatari seguenti:
 
-- a. autorità d’esecuzione cantonali di altri Cantoni;
-- b. autorità di perseguimento penale cantonali, nel rispetto dell’articolo 60 capoversi 2–4 LAIn;
-- c. autorità cantonali preposte all’esecuzione delle pene e delle misure.
+- a. ad altre autorità cantonali per l’esecuzione della LAIn;
+- b. alle autorità d’esecuzione cantonali di altri Cantoni nell’ambito di accertamenti o di gruppi di lavoro internazionali a cui partecipano;
+- c. ai pubblici ministeri cantonali e alla polizia, nel rispetto dell’articolo 60 capoversi 2–4 LAIn per la prevenzione dei pericoli e il perseguimento penale;
+- d. alle autorità cantonali preposte all’esecuzione delle pene e delle misure per l’espletamento dei rispettivi compiti;
+- e.
 
-<sup>2</sup>
+  garantendo la protezione delle fonti e la classificazione:
 
-Alle condizioni menzionate al capoverso 1, le autorità d’esecuzione cantonali possono comunicare caso per caso alle autorità seguenti dati personali che hanno acquisito in virtù del mandato generale di informazione nel quadro dell’applicazione della LAIn:
+  - 1\. al servizio cui è subordinata l’autorità d’esecuzione cantonale, oppure
+  - 2\. in singoli casi, ad altri servizi per l’adempimento dei loro compiti ufficiali, in particolare per esercitare la loro funzione in materia di valutazione della situazione, dirigenziale o governativa.
 
-- a. autorità d’esecuzione cantonali di altri Cantoni;
-- b. autorità di perseguimento penale cantonali, nel rispetto dell’articolo 60 capoversi 2–4 LAIn;
-- c. autorità cantonali preposte all’esecuzione delle pene e delle misure.
+<sup>2</sup> Se un’autorità d’esecuzione cantonale ha ricevuto dal SIC valutazioni della situazione o dati o li ha consultati nell’INDEX SIC o nella PES, prima di comunicarli richiede il consenso del SIC. Il SIC può accordare il consenso caso per caso o per determinate categorie di dati e destinatari, se la comunicazione è necessaria per la valutazione di misure per la salvaguardia della sicurezza o per sventare una minaccia considerevole.
 
-<sup>3</sup>
+<sup>3</sup> Le autorità d’esecuzione cantonali non possono comunicare valutazioni della situazione o dati, se vi si oppongono interessi preponderanti pubblici o privati.
 
-Previo consenso del SIC e alle condizioni menzionate al capoverso 1, le autorità d’esecuzione cantonali possono comunicare caso per caso alle autorità seguenti dati personali che hanno acquisito sulla base di un mandato concreto del SIC:
+<sup>4</sup> Il SIC può accordare all’autorità di vigilanza cantonale il consenso per la consultazione di valutazioni della situazione o dati trattati dal Cantone su mandato della Confederazione per determinate categorie di dati e destinatari.
 
-- a. autorità d’esecuzione cantonali di altri Cantoni;
-- b. autorità di perseguimento penale cantonali, nel rispetto dell’articolo 60 capoversi 2–4 LAIn;
-- c. autorità cantonali preposte all’esecuzione delle pene e delle misure.
+[^33-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
-<sup>4</sup> Se, nei casi di cui al capoverso 3, l’autorità d’esecuzione cantonale non può, per motivi di urgenza, richiedere il previo consenso del SIC, essa ne informa senza indugio il SIC dopo la comunicazione dei dati personali.
+#### Art. 33a
 
-<sup>5</sup> Per sventare un pericolo per la sicurezza interna della Svizzera grave, incombente e non contrastabile altrimenti, le autorità d’esecuzione cantonali possono, garantendo la protezione delle fonti, comunicare internamente al loro corpo di polizia dati personali che esse trattano in applicazione della LAIn. Esse ne informano senza indugio il SIC.
+**Comunicazione urgente di valutazioni della situazione e di dati da parte di autorità d’esecuzione cantonali**[^33a-1]
 
-<sup>6</sup> Le autorità d’esecuzione cantonali possono comunicare caso per caso all’autorità d’esecuzione di un altro Cantone dati personali di cui quest’ultima abbisogna per l’esecuzione di accertamenti preliminari.
+<sup>1</sup> In caso d’urgenza un’autorità d’esecuzione cantonale può comunicare ad altre autorità o a terzi valutazioni della situazione e dati senza il consenso del SIC, se questi non possono richiederle tempestivamente e la comunicazione è necessaria per sventare una minaccia grave e imminente per la sicurezza interna o esterna oppure per un bene giuridico importante quale la vita e l’integrità fisica o per proprietà di notevole valore.
 
-<sup>7</sup> Esse possono comunicare al rispettivo organo superiore dati personali per l’assunzione di compiti di vigilanza sulla funzione di servizio.
+<sup>2</sup> Garantisce la protezione delle fonti.
 
-<sup>8</sup> Esse possono comunicare caso per caso dati personali a un’altra autorità d’esecuzione cantonale nel quadro di un gruppo di lavoro intercantonale da esse costituito.
+<sup>3</sup> Informa immediatamente il SIC in merito alla comunicazione e al suo motivo.
 
-<sup>9</sup> Nel quadro di particolari organismi di collaborazione della Confederazione e dei Cantoni, il SIC può autorizzare un’autorità d’esecuzione cantonale a comunicare caso per caso a un’altra autorità federale dati personali secondo i capoversi 2 e 3.
-
-<sup>10</sup> Le autorità d’esecuzione cantonali possono comunicare ad altri organi cantonali o federali dati che non consentono di risalire all’identità di determinate persone.
-
-<sup>11</sup> Esse informano il SIC sulla comunicazione di dati personali a servizi terzi.
+[^33a-1]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 #### Art. 34
 
@@ -984,7 +980,7 @@ Il SIC può comunicare dati personali alle autorità e ai servizi svizzeri segue
 - 14\. autorità e servizi della Confederazione, dei Cantoni e dei Comuni: se necessario per la loro sicurezza o per sventare una minaccia incombente.
 
 [^annex3-lvlu1-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^annex3-lvlu1-2]: [RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)
+[^annex3-lvlu1-2]: [[RU 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 n. II 2. [RU 2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)art. 54]. Vedi ora l’O del 27 giu. 2001 sulla protezione di persone ed edifici di competenza federale ([RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)).
 [^annex3-lvlu1-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^annex3-lvlu1-4]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
 [^annex3-lvlu1-5]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
@@ -1011,5 +1007,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 …[^annex4-lvlu1-3]
 
 [^annex4-lvlu1-1]: [[RU 2000 61](https://fedlex.data.admin.ch/eli/oc/2000/11), [2001 1369](https://fedlex.data.admin.ch/eli/oc/2001/189), [2006 5249](https://fedlex.data.admin.ch/eli/oc/2006/795), [2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 5, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 3]
-[^annex4-lvlu1-2]: [[RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848), [2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558), [2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430)[5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 n. 2 [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)all. n. 1, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 2, [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 46, [2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)all. n. II 1, [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133)]
+[^annex4-lvlu1-2]: [[RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848); [2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558); [2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430), [5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 n. 2, [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)all. n. 1; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 2; [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 46; [2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)all. n. II 1; [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133)]
 [^annex4-lvlu1-3]: Le mod. possono essere consultate alla [RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495).

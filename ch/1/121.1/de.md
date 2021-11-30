@@ -4,11 +4,11 @@ title: "Verordnung vom 16. August 2017 über den Nachrichtendienst (Nachrichtend
 short: NDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/495"
 language: de
-version: 2021-01-01
+version: 2021-12-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2017-495-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2017-495-20211201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20210101/de"
 
 (Nachrichtendienstverordnung, NDV)
 
-vom 16. August 2017 (Stand am 1. Januar 2021)
+vom 16. August 2017 (Stand am 1. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 8 Absatz 3, 11 Absatz 3, 19 Absatz 5, 39 Absatz 4, 43 Absatz 4, 72 Absatz 4, 80 Absatz 2, 82 Absätze 5 und 6, 84 sowie 85 Absatz 5 des Nachrichtendienstgesetzes vom 25. September 2015[^ingress-1] (NDG) und auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],
+gestützt auf die Artikel 8 Absatz 3, 11 Absatz 3, 19 Absatz 5, 39 Absatz 4, 43 Absatz 4, 46 Absatz 3, 72 Absatz 4, 80 Absatz 2, 82 Absätze 5 und 6, 84 sowie 85 Absatz 5 des Nachrichtendienstgesetzes vom 25. September 2015[^ingress-1] (NDG) und auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 ## 1. Kapitel: Zusammenarbeit
 
@@ -406,47 +407,42 @@ Nachrichtendienstliche Kontakte des ZEO zu ausländischen Fachstellen erfolgen �
 
 #### Art. 33
 
-**Bekanntgabe von Personendaten durch kantonale Vollzugsbehörden**
+**Ordentliche Bekanntgabe von Lagebeurteilungen und Daten durch kantonale Vollzugsbehörden**[^33-1]
 
 <sup>1</sup>
 
-Die kantonalen Vollzugsbehörden können Lagebeurteilungen und Personendaten, die sie im Rahmen einer Bekanntgabe nach Anhang 3 vom NDB erhalten haben, im Einzelfall den folgenden Behörden bekannt geben, wenn dies für die Beurteilung von Massnahmen zur Wahrung der Sicherheit oder zur Abwendung einer erheblichen Gefährdung notwendig ist:
+Die kantonalen Vollzugsbehörden können Lagebeurteilungen und Daten insbesondere den folgenden Adressaten bekanntgeben:
 
-- a. kantonalen Vollzugsbehörden anderer Kantone;
-- b. kantonalen Strafverfolgungsbehörden, unter Einhaltung von Artikel 60 Absätze 2–4 NDG;
-- c. kantonalen Straf- und Massnahmenvollzugsbehörden.
+- a. anderen kantonalen Behörden zum Vollzug des NDG;
+- b. kantonalen Vollzugsbehörden anderer Kantone im Rahmen von Vorabklärungen oder im Rahmen interkantonaler Arbeitsgruppen, an denen sie sich beteiligen;
+- c. kantonalen Staatsanwaltschaften und der Polizei, unter Einhaltung von Artikel 60 Absätze 2–4 NDG zum Zweck der Gefahrenabwehr und der Strafverfolgung;
+- d. kantonalen Straf-, Justiz- und Massnahmenvollzugsbehörden zum jeweiligen Aufgabenvollzug;
+- e.
 
-<sup>2</sup>
+  unter Wahrung des Quellenschutzes und der Klassifikation:
 
-Sie können Personendaten, die sie gestützt auf den allgemeinen Informationsauftrag zum Vollzug des NDG beschafft haben, unter Berücksichtigung der in Absatz 1 genannten Voraussetzungen im Einzelfall den folgenden Behörden bekannt geben:
+  - 1\. der der kantonalen Vollzugsbehörde vorgesetzten Stelle, oder
+  - 2\. im Einzelfall anderen Stellen zur Wahrnehmung ihrer amtlichen Aufgabe, insbesondere zur Ausübung ihrer Lage-, Führungs- oder Regierungsfunktion.
 
-- a. kantonalen Vollzugsbehörden anderer Kantone,
-- b. kantonalen Strafverfolgungsbehörden, unter Einhaltung von Artikel 60 Absätze 2–4 NDG;
-- c. kantonalen Straf- und Massnahmenvollzugsbehörden.
+<sup>2</sup> Hat eine kantonale Vollzugsbehörde Lagebeurteilungen oder Daten vom NDB erhalten oder im Index NDB oder in der ELD abgerufen, so holt sie vor der Bekanntgabe die Zustimmung des NDB ein. Der NDB kann die Zustimmung im Einzelfall oder für bestimmte Kategorien von Daten und Empfängerinnen und Empfängern erteilen, wenn die Bekanntgabe zur Beurteilung von Massnahmen zur Wahrung der Sicherheit oder für die Abwendung einer erheblichen Gefährdung notwendig ist.
 
-<sup>3</sup>
+<sup>3</sup> Die kantonalen Vollzugsbehörden dürfen keine Lagebeurteilungen oder Daten bekanntgeben, wenn überwiegende öffentliche oder private Interessen entgegenstehen.
 
-Sie können Personendaten, die sie gestützt auf einen konkreten Auftrag des NDB beschafft haben, mit dessen vorgängiger Zustimmung und unter Berücksichtigung der in Absatz 1 genannten Voraussetzungen im Einzelfall den folgenden Behörden bekannt geben:
+<sup>4</sup> Der NDB kann der kantonalen Dienstaufsicht die Zustimmung in die Einsicht in Lagebeurteilungen oder Daten, die der Kanton im Auftrag des Bundes bearbeitet, für bestimmte Kategorien von Daten und Empfängerinnen und Empfängern erteilen.
 
-- a. kantonalen Vollzugsbehörden anderer Kantone;
-- b. kantonalen Strafverfolgungsbehörden, unter Einhaltung von Artikel 60 Absätze 2–4 NDG;
-- c. kantonalen Straf- und Massnahmenvollzugsbehörden.
+[^33-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
-<sup>4</sup> Kann die kantonale Vollzugsbehörde in Fällen nach Absatz 3 aus Gründen der Dringlichkeit keine vorgängige Zustimmung des NDB einholen, so benachrichtigt sie den NDB darüber unverzüglich nach der Bekanntgabe der Personendaten.
+#### Art. 33a
 
-<sup>5</sup> Die kantonalen Vollzugsbehörden können Personendaten, die sie in Anwendung des NDG bearbeiten, unter Wahrung des Quellenschutzes zur Abwehr einer unmittelbar drohenden, nicht anders abwehrbaren schweren Gefahr für die innere Sicherheit der Schweiz innerhalb ihres Polizeikorps bekannt geben. Sie benachrichtigen den NDB unverzüglich.
+**Dringliche Bekanntgabe von Lagebeurteilungen und Daten durch kantonale Vollzugsbehörden**[^33a-1]
 
-<sup>6</sup> Sie können der Vollzugsbehörde eines anderen Kantons im Einzelfall Personendaten bekannt geben, die diese zur Durchführung von Vorabklärungen benötigt.
+<sup>1</sup> Eine kantonale Vollzugsbehörde kann bei Dringlichkeit Lagebeurteilungen und Daten anderen Behörden oder Dritten ohne Zustimmung des NDB bekanntgeben, sofern sie diese nicht rechtzeitig einholen kann und die Bekanntgabe notwendig ist, um eine unmittelbar drohende, schwere Gefahr für die innere oder äussere Sicherheit oder für ein fundamentales Rechtsgut wie Leib und Leben oder Eigentum von erheblichem Sachwert abzuwehren.
 
-<sup>7</sup> Sie können ihrer vorgesetzten Stelle Personendaten zur Wahrnehmung der Dienstaufsicht bekannt geben.
+<sup>2</sup> Sie wahrt dabei den Quellenschutz.
 
-<sup>8</sup> Sie können einer anderen kantonalen Vollzugsbehörde Personendaten im Rahmen einer von ihnen gebildeten kantonsübergreifenden Arbeitsgruppe im Einzelfall bekannt geben.
+<sup>3</sup> Sie orientiert den NDB umgehend über die Bekanntgabe und ihren Grund.
 
-<sup>9</sup> Der NDB kann einer kantonalen Vollzugsbehörde erlauben, Personendaten nach den Absätzen 2 und 3 im Rahmen von besonderen Zusammenarbeitsgremien von Bund und Kantonen einer anderen Bundesbehörde im Einzelfall bekannt zu geben.
-
-<sup>10</sup> Die kantonalen Vollzugsbehörden können Daten, die keine Rückschlüsse auf bestimmte Personen zulassen, anderen kantonalen Stellen oder Bundesstellen bekannt geben.
-
-<sup>11</sup> Sie benachrichtigen den NDB über die Bekanntgabe von Personendaten an Drittstellen.
+[^33a-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 #### Art. 34
 
@@ -985,7 +981,7 @@ Der NDB kann den folgenden inländischen Behörden und Amtsstellen Personendaten
 - 14\. Behörden und Amtsstellen des Bundes, der Kantone und der Gemeinden, wenn es zu deren Sicherheit oder zur Abwehr einer unmittelbar drohenden Gefahr notwendig ist.
 
 [^annex3-lvlu1-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^annex3-lvlu1-2]: [SR 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)
+[^annex3-lvlu1-2]: [[AS 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Anhang Ziff. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)Anhang 4 Ziff. II 2]. Siehe heute: die V vom 24. Juni 2020 ([SR 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)).
 [^annex3-lvlu1-3]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^annex3-lvlu1-4]: [SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
 [^annex3-lvlu1-5]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
@@ -1011,6 +1007,6 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 ...[^annex4-lvlu1-3]
 
-[^annex4-lvlu1-1]: [[AS 2000 61](https://fedlex.data.admin.ch/eli/oc/2000/11), [2001 1369](https://fedlex.data.admin.ch/eli/oc/2001/189), [2006 5249](https://fedlex.data.admin.ch/eli/oc/2006/795), [2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Anhang Ziff. 5, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 3]
-[^annex4-lvlu1-2]: [[AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848),[2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558),[2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430)[5527](https://fedlex.data.admin.ch/eli/oc/2012/638)Art. 15 Ziff. 2 [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)Anhang Ziff. 1, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 2, [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)Art. 46,[2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)Anhang Ziff. II 1, [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133)]
+[^annex4-lvlu1-1]: [[AS 2000 61](https://fedlex.data.admin.ch/eli/oc/2000/11); [2001 1369](https://fedlex.data.admin.ch/eli/oc/2001/189); [2006 5249](https://fedlex.data.admin.ch/eli/oc/2006/795); [2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Anhang Ziff. 5; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 3]
+[^annex4-lvlu1-2]: [[AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848);[2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558);[2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430), [5527](https://fedlex.data.admin.ch/eli/oc/2012/638)Art. 15 Ziff. 2, [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)Anhang Ziff. 1; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 2; [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)Art. 46;[2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)Anhang Ziff. II 1; [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133)]
 [^annex4-lvlu1-3]: Die Änderungen können unter [AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)konsultiert werden.

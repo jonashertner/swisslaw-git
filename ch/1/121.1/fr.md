@@ -4,11 +4,11 @@ title: "Ordonnance du 16 août 2017 sur le service de renseignement (Ordonnance 
 short: ORens
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/495"
 language: fr
-version: 2021-01-01
+version: 2021-12-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-495-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/495/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-495-20211201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/495/20210101/fr"
 
 (Ordonnance sur le renseignement, ORens)
 
-du 16 août 2017 (Etat le 1<sup>er</sup> janvier 2021)
+du 16 août 2017 (Etat le 1<sup>er</sup> décembre 2021)
 
 Le Conseil fédéral suisse,
 
-vu les art. 8, al. 3, 11, al. 3, 19, al. 5, 39, al. 4, 43, al. 4, 72, al. 4, 80, al. 2, 82, al. 5 et 6, 84 et 85, al. 5, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^ingress-1], vu l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],
+vu les art. 8, al. 3, 11, al. 3, 19, al. 5, 39, al. 4, 43, al. 4, 46, al. 3, 72, al. 4, 80, al. 2, 82, al. 5 et 6, 84 et 85, al. 5 de la loi fédérale du 25 septembre 2015 sur le renseignement[^ingress-1] (LRens), vu l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 ## Chapitre 1 Collaboration
 
@@ -406,47 +407,42 @@ Les contacts du COE avec des services étrangers relevant du renseignement inter
 
 #### Art. 33
 
-**Communication de données personnelles par les autorités d’exécution cantonales**
+**Communication ordinaire d’appréciations de la situation et de données par les autorités d’exécution cantonales**[^33-1]
 
 <sup>1</sup>
 
-Les autorités d’exécution cantonales peuvent en l’espèce, si cela s’impose pour évaluer des mesures visant au maintien de la sûreté ou pour écarter une menace importante, communiquer des appréciations de la situation et des données personnelles qu’elles ont obtenues du SRC dans le cadre d’une communication conformément à l’annexe 3, aux autorités suivantes:
+Les autorités d’exécution cantonales peuvent communiquer des appréciations de la situation et des données notamment aux destinataires suivants:
 
-- a. autorités d’exécution cantonales d’autres cantons;
-- b. autorités cantonales de poursuite pénale, dans le respect de l’art. 60, al. 2 à 4, LRens;
-- c. autorités cantonales d’exécution des peines et des mesures.
+- a. autres autorités cantonales en vue de l’exécution de la LRens;
+- b. autorités d’exécution cantonales d’autres cantons dans le cadre d’enquêtes préalables ou de groupes de travail intercantonaux auxquels elles participent;
+- c. ministères publics cantonaux et police dans le respect de l’art. 60, al. 2 à 4, LRens, à des fins de prévention des dangers et de poursuite pénale;
+- d. autorités cantonales d’exécution des peines et des mesures pour l’exécution de leurs tâches;
+- e.
 
-<sup>2</sup>
+  dans le respect de la protection des sources et de la classification:
 
-Elles peuvent, en l’espèce, communiquer des données personnelles qu’elles ont obtenues sur la base du mandat général d’information en vue de l’exécution de la LRens, et aux conditions énoncées à l’al. 1, aux autorités suivantes:
+  - 1\. services auxquels est subordonnée l’autorité d’exécution pénale, ou
+  - 2\. d’autres services dans des cas particuliers, en vue de l’exercice de leur tâche officielle, en particulier pour exercer leur fonction d’appréciation de la situation, de conduite ou de gouvernance.
 
-- a. autorités d’exécution cantonales d’autres cantons;
-- b. autorités cantonales de poursuite pénale, dans le respect de l’art. 60, al. 2 à 4, LRens;
-- c. autorités cantonales d’exécution des peines et des mesures.
+<sup>2</sup> Si une autorité d’exécution cantonale a reçu des appréciations de la situation ou des données du SRC, ou qu’elle les a consultées dans le système INDEX SRC ou dans la PES, elle requiert le consentement du SRC avant toute communication. Le SRC peut donner son accord en l’espèce ou pour certaines catégories de données et de destinataires si la communication sert l’appréciation de mesures visant à préserver la sécurité ou qu’elle est nécessaire pour écarter une menace importante.
 
-<sup>3</sup>
+<sup>3</sup> Les autorités d’exécution cantonales ne peuvent communiquer aucune appréciation de la situation ou donnée lorsque des intérêts publics ou privés prépondérants s’y opposent.
 
-Elles peuvent, en l’espèce, communiquer des données personnelles qu’elles ont obtenues sur la base d’un mandat concret du SRC, avec son consentement préalable et aux conditions énoncées à l’al. 1, aux autorités suivantes:
+<sup>4</sup> Le SRC peut délivrer à l’autorité de surveillance cantonale une autorisation de consulter des appréciations de la situation ou des données traitées par le canton sur mandat de la Confédération, pour certaines catégories de données et de destinataires.
 
-- a. autorités d’exécution cantonales d’autres cantons;
-- b. autorités cantonales de poursuite pénale, dans le respect de l’art. 60, al. 2 à 4, LRens;
-- c. autorités cantonales d’exécution des peines et des mesures.
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
-<sup>4</sup> Si l’autorité d’exécution cantonale ne peut obtenir le consentement préalable du SRC pour des raisons d’urgence dans les cas énumérés à l’al. 3, elle en informe le SRC immédiatement après la communication des données personnelles.
+#### Art. 33a
 
-<sup>5</sup> Les autorités d’exécution cantonales peuvent communiquer au sein de leur corps de police des données personnelles qu’elles traitent dans le cadre de l’application de la LRens et dans le respect de la protection des sources, afin de contrer une menace grave et imminente pour la sûreté intérieure de la Suisse qui ne peut être évitée par d’autres moyens. Elles en informent le SRC immédiatement.
+**Communication urgente d’appréciations de la situation et de données par les autorités d’exécution cantonales**[^33a-1]
 
-<sup>6</sup> Elles peuvent, en l’espèce, communiquer à l’autorité d’exécution d’un autre canton des données personnelles nécessaires à ses enquêtes préalables.
+<sup>1</sup> En cas d’urgence, une autorité d’exécution cantonale peut communiquer des appréciations de la situation et des données à d’autres autorités ou à des tiers sans l’autorisation du SRC, pour autant qu’elle ne puisse pas l’obtenir à temps et que la communication soit nécessaire pour écarter une grave menace imminente pour la sûreté intérieure ou extérieure, ou pour des biens juridiques importants tels que l’intégrité corporelle ou la vie, ou pour des biens d’une valeur considérable.
 
-<sup>7</sup> Elles peuvent communiquer des données personnelles à des services supérieurs à des fins d’exercice de la surveillance.
+<sup>2</sup> Elle veille à la protection des sources.
 
-<sup>8</sup> Elles peuvent, en l’espèce, communiquer des données personnelles à une autre autorité d’exécution cantonale dans le cadre de groupes de travail intercantonaux qu’elles ont mis sur pied.
+<sup>3</sup> Elle informe le SRC sans délai de la communication et son motif.
 
-<sup>9</sup> Dans le cadre de groupes de collaboration particuliers entre la Confédération et les cantons, le SRC peut autoriser une autorité d’exécution cantonale à communiquer des données personnelles, en l’espèce, à une autre autorité fédérale en vertu des al. 2 et 3.
-
-<sup>10</sup> Les autorités d’exécution cantonales peuvent communiquer à d’autres services cantonaux ou fédéraux des données qui ne permettent pas d’identifier des personnes en particulier.
-
-<sup>11</sup> Elles informent le SRC de la communication de données personnelles à des services tiers.
+[^33a-1]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 #### Art. 34
 
@@ -829,7 +825,7 @@ Annexe 2
 
 En cas de litige, le SRC arrête le montant de l’indemnité.
 
-Annexe 3[^t-1]
+Annexe 3*[^t-1]*
 
 (art. 32, al. 1)
 
@@ -982,7 +978,7 @@ Le SRC peut communiquer des données personnelles aux autorités et services sui
 - 14\. Autorités et services de la Confédération, des cantons et des communes, lorsqu’il y a une nécessité pour leur sécurité ou pour contrer une menace imminente.
 
 [^annex3-lvlu1-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^annex3-lvlu1-2]: [RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)
+[^annex3-lvlu1-2]: [[RO 2001 1741](https://fedlex.data.admin.ch/eli/oc/2001/271); [2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)annexe ch. 1; [2008 4295](https://fedlex.data.admin.ch/eli/oc/2008/606); [2014 2291](https://fedlex.data.admin.ch/eli/oc/2014/384); [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)annexe 4 ch. II 2. [RO 2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)art. 54]. Voir actuellement l’O du 24 juin 2020 sur la protection des personnes et des bâtiments relevant de la compétence fédérale ([RS 120.72](https://fedlex.data.admin.ch/eli/cc/2020/546)).
 [^annex3-lvlu1-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^annex3-lvlu1-4]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
 [^annex3-lvlu1-5]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
