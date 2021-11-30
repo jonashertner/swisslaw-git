@@ -4,13 +4,13 @@ number: "331.11"
 title: Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 short: EG-KVG
 language: de
-version: 2021-01-01
-corrected: 2020-12-22
-version_adopted: 2020-11-17
+version: 2021-12-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-16
 adopted: 1995-11-09
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3057/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3282/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3057/pdf_file"
 
 (EG-KVG)
 
-vom 09.11.1995 (Stand 01.01.2021)
+vom 09.11.1995 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -138,65 +138,19 @@ als Gesetz:[^ingress-3]
 
 #### Art. 8c
 
-**Liste der betriebenen versicherten Personen a) Aufnahme und Streichung**
-
-<sup>1</sup> Die Sozialversicherungsanstalt führt eine Liste der versicherten Personen nach Art. 64 a Abs. 7 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^8c-1], die ihrer Prämienpflicht trotz Betreibung nicht nachkommen.
-
-<sup>2</sup> Von der Aufnahme in die Liste sind ausgenommen:
-
-- a) versicherte Personen, die finanzielle Sozialhilfe[^8c-2] beziehen;
-- b) versicherte Personen, die Ergänzungsleistungen beziehen;
-- c) Kinder bis zum vollendeten 18. Altersjahr.
-
-<sup>3</sup> Die Sozialversicherungsanstalt streicht die versicherte Person aus der Liste, nachdem der Versicherer die Aufhebung der Leistungssistierung mitgeteilt hat.
-
-[^8c-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
-[^8c-2]: Art. [9](https://www.gesetzessammlung.sg.ch/data/381.1/de/art9.) bis 27 des Sozialhilfegesetzes vom 27. September 1998, sGS [381.1](https://www.gesetzessammlung.sg.ch/data/381.1/de).
+**…**
 
 #### Art. 8d
 
-**b) Inhalt**
-
-<sup>1</sup> Die Liste enthält:
-
-- a) Angaben über die versicherte Person nach Art. 8a Abs. 2 dieses Erlasses;
-- b) Name und Adresse des Versicherers sowie dessen Aufsichtsnummer beim Bundesamt für Gesundheit;
-- c) das Datum der verfügten Leistungssistierung.
+**…**
 
 #### Art. 8e
 
-**c) Information und Einsichtnahme**
-
-<sup>1</sup> Die Sozialversicherungsanstalt informiert:
-
-- a) den Versicherer über:
-  - 1\. das Vorliegen eines dem Verlustschein gleichzusetzenden Rechtstitels;
-  - 2\. die Aufnahme in die Liste;
-- b) die versicherte Person über die Aufnahme in die und die Streichung aus der Liste.
-
-<sup>2</sup> Die für die Sozialhilfe zuständige Stelle der Gemeinde und die nach dem Bundesgesetz über die Krankenversicherung vom 18. März 1994[^8e-1] zur Tätigkeit zulasten der obligatorischen Krankenversicherung zugelassenen Leistungserbringer sind berechtigt, die Angaben über die betroffene versicherte Person einzusehen.
-
-<sup>3</sup> Die Sozialversicherungsanstalt protokolliert die Einsichtnahme.
-
-<sup>4</sup> Die Einsichtnahme in die Liste ist kostenlos.
-
-[^8e-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+**…**
 
 #### Art. 8f
 
-**d) Leistungssistierung**
-
-<sup>1</sup> Der Versicherer sistiert die Leistungen, nachdem die Information der Sozialversicherungsanstalt über die Aufnahme der versicherten Person in die Liste erfolgt ist und im Betreibungsverfahren ein Fortsetzungsbegehren gestellt wurde.
-
-<sup>2</sup> Die Leistungssistierung beginnt am Tag der Mitteilung an die versicherte Person durch den Versicherer. Sie erfasst jene Leistungen, die während der Dauer der Sistierung erbracht werden.
-
-<sup>3</sup> Die Leistungssistierung endet:
-
-- a) mit dem Eintritt der versicherten Person in die finanzielle Sozialhilfe;
-- b) mit der Ausrichtung von Ergänzungsleistungen an die versicherte Person;
-- c) mit dem zustimmenden oder ablehnenden Entscheid der Sozialversicherungsanstalt über die Übernahme des nach Art. 64a Abs. 4 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^8f-1] auf den Kanton fallenden Anteils der Forderung, die Gegenstand des Fortsetzungsbegehrens war.
-
-[^8f-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+**…**
 
 ### 1ter. Uneinbringliche Prämien und Kostenbeteiligungen
 
@@ -288,7 +242,13 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Regierung bestimmt die Höhe der Prämienverbilligung durch Verordnung.
 
-<sup>2</sup> Für Bezüger von Ergänzungsleistungen entspricht die Verbilligung den anrechenbaren Krankenversicherungsprämien.
+<sup>2</sup> Für Ergänzungsleistungen beziehende Personen entspricht die Verbilligung dem tieferen der folgenden Beträge:
+
+- a) der jährlichen Ergänzungsleistung[^12-1];
+- b) einem jährlichen Pauschalbetrag in der Höhe der kantonalen beziehungsweise regionalen Durchschnittsprämie für die obligatorische Krankenpflegeversicherung (einschliesslich Unfalldeckung), höchstens jedoch der tatsächlichen Prämie[^12-2].
+
+[^12-1]: Art. [9](https://db.clex.ch/link/Bund/831.30/de) Abs. 1 des Bundesgesetzes vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.30](https://db.clex.ch/link/Bund/831.30/de).
+[^12-2]: Art. [10](https://db.clex.ch/link/Bund/831.30/de) Abs. 3 des Bundesgesetzes vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.30](https://db.clex.ch/link/Bund/831.30/de).
 
 #### Art. 13
 
