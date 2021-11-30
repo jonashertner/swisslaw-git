@@ -4,13 +4,13 @@ number: "213.500"
 title: Ordinaziun davart il stadi civil dal chantun Grischun
 short: OSCC
 language: rm
-version: 2018-07-01
-corrected: 2021-08-17
-version_adopted: 2018-02-20
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-11-16
 adopted: 2007-03-20
 in_force: 2007-04-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/213.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2896/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3200/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2896/pdf_file"
 
 (OSCC)
 
-dals 20-03-2007 (versiun dals 01-07-2018)
+dals 20-03-2007 (versiun dals 01-12-2021)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1] e sin l'art. 20 da la lescha introductiva tar il cudesch civil svizzer[^ingress-2]
 
@@ -48,7 +48,7 @@ relaschada da la regenza ils 20 da mars 2007
 - 8\. Partenz/Tavau cun sedia uffiziala a Tavau, cumpigliond la regiun Partenz/Tavau;
 - 9\. Surselva cun sedia uffiziala a Glion, cumpigliond la regiun Surselva;
 - 10\. Bernina cun sedia uffiziala a Puschlav, cumpigliond la regiun Bernina;
-- 11\. Viamala cun sedia uffiziala a Cazas, cumpigliond la regiun Viamala.
+- 11\. Viamala cun sedia uffiziala a Tusaun, cumpigliond la regiun Viamala.
 - 12\. …
 - 13\. …
 

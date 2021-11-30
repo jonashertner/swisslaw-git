@@ -4,13 +4,13 @@ number: "213.500"
 title: Ordinanza sullo stato civile del Cantone dei Grigioni
 short: OSCC
 language: it
-version: 2018-07-01
-corrected: 2021-08-17
-version_adopted: 2018-02-20
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-11-16
 adopted: 2007-03-20
 in_force: 2007-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/213.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2896/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3200/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2896/pdf_file"
 
 (OSCC)
 
-del 20.03.2007 (stato 01.07.2018)
+del 20.03.2007 (stato 01.12.2021)
 
 emanata dal Governo il 20 marzo 2007
 
@@ -48,7 +48,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge
 - 8\. Prättigau/Davos con sede dell'ufficio a Davos, comprendente la Regione Prättigau/Davos;
 - 9\. Surselva con sede dell'ufficio a Ilanz/Glion, comprendente la Regione Surselva;
 - 10\. Bernina con sede dell'ufficio a Poschiavo, comprendente la Regione Bernina;
-- 11\. Viamala con sede dell'ufficio a Cazis, comprendente la Regione Viamala.
+- 11\. Viamala con sede dell'ufficio a Thusis, comprendente la Regione Viamala.
 - 12\. …
 - 13\. …
 
@@ -143,15 +143,15 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge
 - a) l'ufficio dello stato civile competente per il luogo di attinenza per:
   - 1\. decisioni estere,
   - 2\. documenti esteri,
-  - 3\. decisioni amministrative della Confederazione;
+  - 3\. decisioni amministrative della Confederazione,
   - 4\. …
-  - 5\. naturalizzazioni (nel nuovo luogo di attinenza);
-  - 6\. svincoli dall'attinenza (nel precedente luogo di attinenza);
+  - 5\. naturalizzazioni (nel nuovo luogo di attinenza),
+  - 6\. svincoli dall'attinenza (nel precedente luogo di attinenza),
   - 7\. curatele generali e loro annullamento;
 - b) l'ufficio dello stato civile competente nel luogo della decisione per:
-  - 1\. sentenze giudiziarie emanate in Svizzera (nella sede del tribunale di prima istanza);
-  - 2\. cambiamenti di nome;
-  - 3\. riconoscimenti testamentari di bambini;
+  - 1\. sentenze giudiziarie emanate in Svizzera (nella sede del tribunale di prima istanza),
+  - 2\. cambiamenti di nome,
+  - 3\. riconoscimenti testamentari di bambini,
   - 4\. decisioni d'adozione delle autorità di protezione dei minori e degli adulti.
 
 <sup>2</sup> Negli altri casi la competenza spetta all'ufficio dello stato civile del domicilio dell'interessato oppure all'ufficio dello stato civile che dovrà in seguito procedere a un ulteriore atto d'ufficio.

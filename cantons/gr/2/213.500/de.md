@@ -4,13 +4,13 @@ number: "213.500"
 title: Zivilstandsverordnung des Kantons Graubünden
 short: KZStV
 language: de
-version: 2018-07-01
-corrected: 2021-08-17
-version_adopted: 2018-02-20
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-11-16
 adopted: 2007-03-20
 in_force: 2007-04-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/213.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2896/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3200/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2896/pdf_file"
 
 (KZStV)
 
-Vom 20.03.2007 (Stand 01.07.2018)
+Vom 20.03.2007 (Stand 01.12.2021)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1] und Art. 20 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^ingress-2]
 
@@ -48,7 +48,7 @@ von der Regierung erlassen am 20. März 2007
 - 8\. Prättigau/Davos mit Amtssitz in Davos, umfassend die Region Prättigau/Davos;
 - 9\. Surselva mit Amtssitz in Ilanz/Glion, umfassend die Region Surselva;
 - 10\. Bernina mit Amtssitz in Poschiavo, umfassend die Region Bernina;
-- 11\. Viamala mit Amtssitz in Cazis, umfassend die Region Viamala.
+- 11\. Viamala mit Amtssitz in Thusis, umfassend die Region Viamala.
 - 12\. …
 - 13\. …
 
