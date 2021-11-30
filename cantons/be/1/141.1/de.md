@@ -4,13 +4,13 @@ number: "141.1"
 title: Gesetz über die politischen Rechte
 short: PRG
 language: de
-version: 2021-07-01
-valid_until: 2021-11-30
-version_adopted: 2021-04-07
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-08
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2266/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2408/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2266/pdf_file"
 
 (PRG)
 
-vom 05.06.2012 (Stand 01.07.2021)
+vom 05.06.2012 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -347,7 +347,7 @@ beschliesst:
 
 <sup>2</sup> Gewählten Personen wird die Wahl mitgeteilt. Sie sind auf die Bestimmungen über die Ablehnung der Wahl und die Unvereinbarkeit hinzuweisen.
 
-<sup>3</sup> Die Staatskanzlei veröffentlicht die Ergebnisse spätestens drei Wochen nach dem Wahl- oder Abstimmungstag in den kantonalen Amtsblättern.
+<sup>3</sup> Die Staatskanzlei veröffentlicht die Ergebnisse spätestens drei Wochen nach dem Wahl- oder Abstimmungstag im kantonalen Amtsblatt.
 
 #### Art. 33
 
@@ -364,7 +364,7 @@ beschliesst:
 
 <sup>2</sup> Die zuständige Behörde stellt das Ergebnis der Wahl oder Abstimmung amtlich fest, sobald feststeht, dass keine Beschwerden eingegangen sind, oder sobald über diese entschieden worden ist.
 
-<sup>3</sup> Die amtlich festgestellten Ergebnisse werden in den kantonalen Amtsblättern veröffentlicht.
+<sup>3</sup> Die amtlich festgestellten Ergebnisse werden im kantonalen Amtsblatt veröffentlicht.
 
 ## 3 Organisation der Wahlen und Abstimmungen
 
@@ -493,7 +493,7 @@ beschliesst:
 
 **Bekanntgabe**
 
-<sup>1</sup> Die Wahl- und Abstimmungstage werden in den kantonalen Amtsblättern bekannt gegeben und den Regierungsstatthalterämtern sowie den Gemeinden mitgeteilt.
+<sup>1</sup> Die Wahl- und Abstimmungstage werden im kantonalen Amtsblatt bekannt gegeben und den Regierungsstatthalterämtern sowie den Gemeinden mitgeteilt.
 
 #### Art. 44
 
@@ -620,7 +620,7 @@ beschliesst:
 
 <sup>3</sup> Bei Initiativen und Referenden teilen das Initiativkomitee oder die Vertretung des Referendumsbegehrens ihren Standpunkt dem zuständigen Organ des Grossen Rates mit, das diesen in den Abstimmungserläuterungen berücksichtigt. Ehrverletzende, krass wahrheitswidrige oder zu lange Äusserungen können geändert oder zurückgewiesen werden.
 
-<sup>4</sup> Nach Verabschiedung der Abstimmungserläuterungen durch das zuständige Organ des Grossen Rates veröffentlicht dessen Sekretariat den Titel der Abstimmungserläuterungen in den kantonalen Amtsblättern und macht gleichzeitig den vollen Wortlaut der Abstimmungserläuterungen im Internet öffentlich zugänglich.
+<sup>4</sup> Nach Verabschiedung der Abstimmungserläuterungen durch das zuständige Organ des Grossen Rates veröffentlicht dessen Sekretariat den Titel der Abstimmungserläuterungen im kantonalen Amtsblatt und macht gleichzeitig den vollen Wortlaut der Abstimmungserläuterungen im Internet öffentlich zugänglich.
 
 #### Art. 55
 
@@ -644,10 +644,10 @@ beschliesst:
 
 <sup>2</sup> Die Wählbarkeit als Regierungsstatthalterin oder Regierungsstatthalter richtet sich nach Artikel 2 des Gesetzes vom 28. März 2006 über die Regierungsstatthalterinnen und Regierungsstatthalter (RStG)[^56-1].
 
-<sup>3</sup> Die Wählbarkeit in den Bernjurassischen Rat richtet sich nach Artikel 5 Absatz 2 des Gesetzes vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel (Sonderstatutsgesetz, SStG)[^56-2].
+<sup>3</sup> Die Wählbarkeit in den Bernjurassischen Rat richtet sich nach Artikel 5 Absatz 1 des Gesetzes vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne (Sonderstatutsgesetz, SStG)[^56-2].
 
 [^56-1]: BSG 152.321
-[^56-2]: BSG 102.1
+[^56-2]: BSG [102.1](https://www.belex.sites.be.ch/data/102.1/de)
 
 #### Art. 57
 
@@ -691,7 +691,7 @@ beschliesst:
 
 **Termine**
 
-<sup>1</sup> Die Staatskanzlei gibt den Wahltag für die Wahl des Nationalrates wenigstens drei Monate vor der Wahl in den kantonalen Amtsblättern bekannt. Sie nennt dabei die massgebenden Vorschriften für die Einreichung von Wahlvorschlägen.
+<sup>1</sup> Die Staatskanzlei gibt den Wahltag für die Wahl des Nationalrates wenigstens drei Monate vor der Wahl im kantonalen Amtsblatt bekannt. Sie nennt dabei die massgebenden Vorschriften für die Einreichung von Wahlvorschlägen.
 
 <sup>2</sup> Der Regierungsrat legt das Datum für die Einreichung der Wahlvorschläge fest.
 
@@ -745,7 +745,7 @@ beschliesst:
 
 <sup>3</sup> Innerhalb des Wahlkreises Biel-Seeland werden der französischsprachigen Bevölkerung so viele Mandate garantiert, wie es ihrem prozentualen Anteil an der Gesamtbevölkerung des Wahlkreises entspricht. Bruchteile ab fünf Zehnteln werden aufgerundet.
 
-<sup>4</sup> Der Beschluss über die Verteilung der Mandate auf die einzelnen Wahlkreise ist mindestens fünf Monate vor dem Wahltag zu fassen und in den kantonalen Amtsblättern zu veröffentlichen.
+<sup>4</sup> Der Beschluss über die Verteilung der Mandate auf die einzelnen Wahlkreise ist mindestens fünf Monate vor dem Wahltag zu fassen und im kantonalen Amtsblatt zu veröffentlichen.
 
 #### Art. 65
 
@@ -871,9 +871,9 @@ beschliesst:
 
 <sup>1</sup> Die bereinigten Wahlvorschläge heissen Listen. Die Listen werden mit Ordnungsnummern versehen.
 
-<sup>2</sup> Zwei oder mehr Listen können bis spätestens am 69. Tag (zehntletzten Montag) vor dem Wahltag durch übereinstimmende Erklärung ihrer Vertreterinnen oder Vertreter miteinander verbunden werden. Innerhalb einer Listenverbindung sind auch Unterlistenverbindungen zulässig.
+<sup>2</sup> Zwei oder mehr Listen können bis spätestens am 69. Tag (zehntletzten Montag) vor dem Wahltag durch übereinstimmende Erklärung ihrer Vertreterinnen und Vertreter miteinander verbunden werden. Innerhalb einer Listenverbindung sind auch Unterlistenverbindungen zulässig.
 
-<sup>3</sup> Das für den Wahlkreis zuständige Regierungsstatthalteramt veröffentlicht so bald als möglich die Listen des Wahlkreises im Amtsblatt bzw. im Feuille officielle du Jura bernois. Sämtliche Listen- und Unterlistenverbindungen sind bei der Bekanntmachung der Listen zu erwähnen.
+<sup>3</sup> Das für den Wahlkreis zuständige Regierungsstatthalteramt veröffentlicht so bald als möglich die Listen des Wahlkreises im kantonalen Amtsblatt. Sämtliche Listen- und Unterlistenverbindungen sind bei der Bekanntmachung der Listen zu erwähnen.
 
 #### Art. 80
 
@@ -1010,7 +1010,7 @@ beschliesst:
 
 <sup>1</sup> Für die Wahl des Bernjurassischen Rates kommen unter Vorbehalt von Absatz 2 bis 4 sinngemäss die Bestimmungen über die Wahl des Grossen Rates zur Anwendung, mit Ausnahme von Artikel 64, 70, 88 und 89.
 
-<sup>2</sup> Für die Wahl des Bernjurassischen Rates bilden die Amtsbezirke Courtelary, Moutier und La Neuveville je einen Wahlkreis.
+<sup>2</sup> Für die Wahl des Bernjurassischen Rates bildet die Verwaltungsregion Berner Jura den Wahlkreis.
 
 <sup>3</sup> Bei stillen Wahlen nach Artikel 78, Nachrücken nach Artikel 90 oder Ergänzungs- oder Ersatzwahlen nach Artikel 91 werden die Vorgeschlagenen durch die Staatskanzlei für gewählt erklärt.
 
@@ -1084,7 +1084,7 @@ beschliesst:
 
 **4. Fehlende Wahlvorschläge**
 
-<sup>1</sup> Werden weniger Personen fristgerecht zur Wahl vorgeschlagen, als Sitze zu besetzen sind, so wird nach einer entsprechenden Bekanntgabe in den kantonalen Amtsblättern das Verfahren gemäss den Artikeln 96 bis 100 wiederholt. Bleibt die Anzahl der vorgeschlagenen Personen danach weiterhin unter der Anzahl zu besetzende Sitze, so ist jede Person wählbar, welche die Wählbarkeitsanforderungen erfüllt.
+<sup>1</sup> Werden weniger Personen fristgerecht zur Wahl vorgeschlagen, als Sitze zu besetzen sind, so wird nach einer entsprechenden Bekanntgabe im kantonalen Amtsblatt das Verfahren gemäss den Artikeln 96 bis 100 wiederholt. Bleibt die Anzahl der vorgeschlagenen Personen danach weiterhin unter der Anzahl zu besetzende Sitze, so ist jede Person wählbar, welche die Wählbarkeitsanforderungen erfüllt.
 
 <sup>2</sup> Der Regierungsrat setzt einen neuen Wahltag fest (Art. 41).
 
@@ -1092,7 +1092,7 @@ beschliesst:
 
 **5. Veröffentlichung**
 
-<sup>1</sup> Die Staatskanzlei veröffentlicht die Namen der Kandidatinnen und Kandidaten in den kantonalen Amtsblättern.
+<sup>1</sup> Die Staatskanzlei veröffentlicht die Namen der Kandidatinnen und Kandidaten im kantonalen Amtsblatt.
 
 #### Art. 104
 
@@ -1217,7 +1217,7 @@ beschliesst:
 
 **4. Fehlen von Wahlvorschlägen**
 
-<sup>1</sup> Werden in einem Verwaltungskreis keine Kandidatinnen und Kandidaten fristgerecht angemeldet, so wird nach einer entsprechenden Bekanntgabe im Amtsblatt bzw. im Feuille officielle du Jura bernois das Verfahren gemäss Artikel 115 bis 117 wiederholt.
+<sup>1</sup> Werden in einem Verwaltungskreis keine Kandidatinnen und Kandidaten fristgerecht angemeldet, so wird nach einer entsprechenden Bekanntgabe im kantonalen Amtsblatt das Verfahren gemäss Artikel 115 bis 117 wiederholt.
 
 <sup>2</sup> Ein neuer Wahltag wird erst festgesetzt, wenn für die betreffende Stelle mehrere Kandidatinnen und Kandidaten vorgeschlagen worden sind.
 
@@ -1233,7 +1233,7 @@ beschliesst:
 
 <sup>1</sup> Ein öffentlicher Wahlgang findet statt, wenn für eine Stelle mehr als eine Kandidatin oder ein Kandidat gültig vorgeschlagen worden ist.
 
-<sup>2</sup> Die Staatskanzlei veröffentlicht die Namen der kandidierenden Personen in den kantonalen Amtsblättern.
+<sup>2</sup> Die Staatskanzlei veröffentlicht die Namen der kandidierenden Personen im kantonalen Amtsblatt.
 
 #### Art. 121
 
@@ -1267,7 +1267,7 @@ beschliesst:
 
 **Bekanntgabe der Referendumsvorlage**
 
-<sup>1</sup> Nach der Verabschiedung von Gesetzen sowie von anderen dem Referendum unterliegenden Beschlüssen durch den Grossen Rat veröffentlicht die Staatskanzlei deren Titel in den kantonalen Amtsblättern. Die Veröffentlichung erfolgt spätestens drei Wochen nach Sessionsschluss.
+<sup>1</sup> Nach der Verabschiedung von Gesetzen sowie von anderen dem Referendum unterliegenden Beschlüssen durch den Grossen Rat veröffentlicht die Staatskanzlei deren Titel im kantonalen Amtsblatt. Die Veröffentlichung erfolgt spätestens drei Wochen nach Sessionsschluss.
 
 <sup>2</sup> Der volle Wortlaut der Referendumsvorlagen wird der Öffentlichkeit gleichzeitig mit der Veröffentlichung gemäss Absatz 1 im Internet zugänglich gemacht.
 
@@ -1348,7 +1348,7 @@ beschliesst:
 
 <sup>2</sup> In den übrigen Fällen stellt er fest, dass kein Referendumsbegehren eingereicht worden ist.
 
-<sup>3</sup> Beschlüsse des Regierungsrates nach Absatz 1 und 2 sind in den kantonalen Amtsblättern zu veröffentlichen.
+<sup>3</sup> Beschlüsse des Regierungsrates nach Absatz 1 und 2 sind im kantonalen Amtsblatt zu veröffentlichen.
 
 ### 6.2 Volksvorschlag (Gegenvorschlag von Stimmberechtigten)
 
@@ -1382,7 +1382,7 @@ beschliesst:
 
 <sup>1</sup> Ist der Volksvorschlag (Gegenvorschlag von Stimmberechtigten) zustande gekommen, so unterbreitet der Regierungsrat diesen ohne Verzug dem Grossen Rat, der in der nächstmöglichen Session über die Gültigkeit entscheidet. Dabei finden die Vorschriften über die Prüfung der Gültigkeit von Initiativen Anwendung (Art. 59 der Kantonsverfassung).
 
-<sup>2</sup> Der Beschluss des Grossen Rates über die Gültigkeit des Volksvorschlags (Gegenvorschlags von Stimmberechtigten) ist in den kantonalen Amtsblättern zu veröffentlichen.
+<sup>2</sup> Der Beschluss des Grossen Rates über die Gültigkeit des Volksvorschlags (Gegenvorschlags von Stimmberechtigten) ist im kantonalen Amtsblatt zu veröffentlichen.
 
 <sup>3</sup> Der Grosse Rat kann den Stimmberechtigten den Volksvorschlag (Gegenvorschlag von Stimmberechtigten) zur Annahme oder Ablehnung empfehlen.
 
@@ -1560,7 +1560,7 @@ beschliesst:
 
 **Veröffentlichung**
 
-<sup>1</sup> Der Beschluss des Regierungsrates über das Zustandekommen oder Nichtzustandekommen sowie der Beschluss des Grossen Rates über die Gültigkeit der Initiative sind in den kantonalen Amtsblättern zu veröffentlichen.
+<sup>1</sup> Der Beschluss des Regierungsrates über das Zustandekommen oder Nichtzustandekommen sowie der Beschluss des Grossen Rates über die Gültigkeit der Initiative sind im kantonalen Amtsblatt zu veröffentlichen.
 
 #### Art. 156
 
@@ -1572,7 +1572,7 @@ beschliesst:
 
 <sup>3</sup> Der Rückzug ist der Staatskanzlei schriftlich mitzuteilen.
 
-<sup>4</sup> Der Regierungsrat nimmt Kenntnis vom Rückzug der Initiative und informiert den Grossen Rat darüber. Der Beschluss wird in den kantonalen Amtsblättern veröffentlicht.
+<sup>4</sup> Der Regierungsrat nimmt Kenntnis vom Rückzug der Initiative und informiert den Grossen Rat darüber. Der Beschluss wird im kantonalen Amtsblatt veröffentlicht.
 
 #### Art. 157
 

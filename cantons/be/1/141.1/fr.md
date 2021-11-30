@@ -4,13 +4,13 @@ number: "141.1"
 title: Loi sur les droits politiques
 short: LDP
 language: fr
-version: 2021-07-01
-valid_until: 2021-11-30
-version_adopted: 2021-04-07
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-08
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2266/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2408/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2266/pdf_file"
 
 (LDP)
 
-du 05.06.2012 (état au 01.07.2021)
+du 05.06.2012 (état au 01.12.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -347,7 +347,7 @@ arrête:
 
 <sup>2</sup> Les personnes élues reçoivent un avis d’élection qui mentionne les dispositions concernant les incompatibilités et la possibilité de refuser l’élection.
 
-<sup>3</sup> La Chancellerie d’Etat publie les résultats des votations et des élections dans les feuilles officielles cantonales au plus tard trois semaines après le scrutin.
+<sup>3</sup> La Chancellerie d’Etat publie les résultats des votations et des élections dans la feuille officielle cantonale au plus tard trois semaines après le scrutin.
 
 #### Art. 33
 
@@ -364,7 +364,7 @@ arrête:
 
 <sup>2</sup> L’autorité compétente valide les résultats de la votation ou de l’élection dès qu’il est établi qu’aucun recours n’a été déposé ou dès que les décisions rendues sur recours ou les jugements ont été prononcés.
 
-<sup>3</sup> Les résultats validés sont publiés dans les feuilles officielles cantonales.
+<sup>3</sup> Les résultats validés sont publiés dans la feuille officielle cantonale.
 
 ## 3 Organisation des votations et des élections
 
@@ -493,7 +493,7 @@ arrête:
 
 **Communication**
 
-<sup>1</sup> Les dates des scrutins sont publiées dans les feuilles officielles cantonales et sont communiquées aux préfectures et aux communes.
+<sup>1</sup> Les dates des scrutins sont publiées dans la feuille officielle cantonale et sont communiquées aux préfectures et aux communes.
 
 #### Art. 44
 
@@ -620,7 +620,7 @@ arrête:
 
 <sup>3</sup> Le comité d’initiative ou les personnes responsables de la demande de vote populaire font part de leurs arguments à l’organe compétent du Grand Conseil qui en tient compte dans le message. Les commentaires portant atteinte à l’honneur, manifestement contraires à la vérité ou trop longs peuvent être modifiés ou refusés.
 
-<sup>4</sup> Après adoption du message par l’organe compétent du Grand Conseil, le secrétariat de cet organe publie le titre du message dans les feuilles officielles cantonales et simultanément rend accessible au public la version intégrale du message sur Internet.
+<sup>4</sup> Après adoption du message par l’organe compétent du Grand Conseil, le secrétariat de cet organe publie le titre du message dans la feuille officielle cantonale et simultanément rend accessible au public la version intégrale du message sur Internet.
 
 #### Art. 55
 
@@ -644,10 +644,10 @@ arrête:
 
 <sup>2</sup> Les conditions d’éligibilité à la charge de préfet ou de préfète sont régies par l’article 2 de la loi du 28 mars 2006 sur les préfets et les préfètes (LPr)[^56-1].
 
-<sup>3</sup> Les conditions d’éligibilité au Conseil du Jura bernois sont régies par l’article 5, alinéa 2 de la loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone du district bilingue de Bienne (loi sur le statut particulier, LStP)[^56-2].
+<sup>3</sup> Les conditions d’éligibilité au Conseil du Jura bernois sont régies par l’article 5, alinéa 1 de la loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone de l'arrondissement administratif de Biel/Bienne (loi sur le statut particulier, LStP)[^56-2].
 
 [^56-1]: RSB 152.321
-[^56-2]: RSB 102.1
+[^56-2]: RSB [102.1](https://www.belex.sites.be.ch/data/102.1/fr)
 
 #### Art. 57
 
@@ -674,7 +674,7 @@ arrête:
 
 - a au président ou à la présidente du Grand Conseil à l’intention du Conseil-exécutif s’il ou elle est membre du Grand Conseil;
 - b au président ou à la présidente du gouvernement s’il ou elle est membre de celui-ci ou du Conseil des Etats;
-- c à la Direction de l’intérieur et de la justice s’il est préfet ou si elle est préfète;
+- c à la Direction de l'intérieur et de la justice s’il est préfet ou si elle est préfète;
 - d à la Chancellerie d’Etat s’il ou elle est membre du Conseil du Jura bernois.
 
 ### 5.2 Elections selon le mode proportionnel
@@ -691,7 +691,7 @@ arrête:
 
 **Termes**
 
-<sup>1</sup> La Chancellerie d’Etat annonce la date de l’élection du Conseil national au moins trois mois au préalable par publication dans les feuilles officielles cantonales et mentionne à cette occasion les dispositions applicables au dépôt des candidatures.
+<sup>1</sup> La Chancellerie d’Etat annonce la date de l’élection du Conseil national au moins trois mois au préalable par publication dans la feuille officielle cantonale et mentionne à cette occasion les dispositions applicables au dépôt des candidatures.
 
 <sup>2</sup> Le Conseil-exécutif fixe le terme pour le dépôt des candidatures.
 
@@ -745,7 +745,7 @@ arrête:
 
 <sup>3</sup> Des mandats sont garantis à la population de langue française du cercle électoral de Bienne-Seeland proportionnellement à la population totale du cercle électoral. Les décimales sont arrondies au chiffre supérieur à partir de cinq dixièmes.
 
-<sup>4</sup> La répartition des mandats entre les cercles électoraux est arrêtée et publiée dans les feuilles officielles cantonales au moins cinq mois avant le scrutin.
+<sup>4</sup> La répartition des mandats entre les cercles électoraux est arrêtée et publiée dans la feuille officielle cantonale au moins cinq mois avant le scrutin.
 
 #### Art. 65
 
@@ -873,7 +873,7 @@ arrête:
 
 <sup>2</sup> Deux ou plusieurs listes peuvent être apparentées jusqu’au 69<sup>e</sup> jour (10<sup>e</sup> lundi) précédant le scrutin par déclaration concordante de leurs mandataires. Le sous-apparentement est également autorisé entre les listes apparentées.
 
-<sup>3</sup> La préfecture compétente pour le cercle électoral publie dès que possible les listes électorales du cercle électoral dans l’Amtsblatt des Kantons Bern ou dans la Feuille officielle du Jura bernois. La publication mentionne tous les apparentements et sous-apparentements de listes électorales.
+<sup>3</sup> La préfecture compétente pour le cercle électoral publie dès que possible les listes électorales du cercle électoral dans la feuille officielle cantonale. La publication mentionne tous les apparentements et sous-apparentements de listes électorales.
 
 #### Art. 80
 
@@ -1010,7 +1010,7 @@ arrête:
 
 <sup>1</sup> Sous réserve des alinéas 2 à 4, les dispositions sur l’élection du Grand Conseil s’appliquent par analogie à l’élection du Conseil du Jura bernois à l’exception des articles 64, 70, 88 et 89.
 
-<sup>2</sup> Les districts de Courtelary, Moutier et La Neuveville forment les cercles électoraux pour l’élection du Conseil du Jura bernois.
+<sup>2</sup> La région administrative du Jura bernois forme le cercle électoral pour l’élection du Conseil du Jura bernois.
 
 <sup>3</sup> En cas d’élection tacite selon l’article 78, d’élection de viennent-ensuite selon l’article 90 ou d’élection complémentaire selon l’article 91, la proclamation des personnes élues incombe à la Chancellerie d’Etat.
 
@@ -1084,7 +1084,7 @@ arrête:
 
 **4. Manque de candidatures**
 
-<sup>1</sup> Lorsque le nombre des candidats et candidates annoncés dans le délai est inférieur à celui des sièges à pourvoir, une publication dans les feuilles officielles cantonales en fait état et la procédure fixée aux articles 96 à 100 est répétée. Si ensuite le nombre des candidats et candidates annoncés reste inférieur à celui des sièges à pourvoir, toute personne qui remplit les conditions d’éligibilité peut être élue.
+<sup>1</sup> Lorsque le nombre des candidats et candidates annoncés dans le délai est inférieur à celui des sièges à pourvoir, une publication dans la feuille officielle cantonale en fait état et la procédure fixée aux articles 96 à 100 est répétée. Si ensuite le nombre des candidats et candidates annoncés reste inférieur à celui des sièges à pourvoir, toute personne qui remplit les conditions d’éligibilité peut être élue.
 
 <sup>2</sup> Le Conseil-exécutif fixe une nouvelle date pour le scrutin (art. 41).
 
@@ -1092,7 +1092,7 @@ arrête:
 
 **5. Publication**
 
-<sup>1</sup> La Chancellerie d’Etat publie les noms des candidats et des candidates dans les feuilles officielles cantonales.
+<sup>1</sup> La Chancellerie d’Etat publie les noms des candidats et des candidates dans la feuille officielle cantonale.
 
 #### Art. 104
 
@@ -1217,7 +1217,7 @@ arrête:
 
 **4. Manque de candidatures**
 
-<sup>1</sup> Lorsqu’aucune candidature n’est annoncée dans le délai dans un arrondissement administratif, une publication dans l’Amtsblatt des Kantons Bern ou dans la Feuille officielle du Jura bernois en fait état et la procédure fixée aux articles 115 à 117 est répétée.
+<sup>1</sup> Lorsqu’aucune candidature n’est annoncée dans le délai dans un arrondissement administratif, une publication dans la feuille officielle cantonale en fait état et la procédure fixée aux articles 115 à 117 est répétée.
 
 <sup>2</sup> Une nouvelle date de scrutin n’est fixée que si plusieurs actes de candidature ont été déposés.
 
@@ -1233,7 +1233,7 @@ arrête:
 
 <sup>1</sup> Un scrutin est organisé lorsque plusieurs actes de candidature ont été déposés valablement.
 
-<sup>2</sup> La Chancellerie d’Etat publie les noms des candidats ou candidates dans les feuilles officielles cantonales.
+<sup>2</sup> La Chancellerie d’Etat publie les noms des candidats ou candidates dans la feuille officielle cantonale.
 
 #### Art. 121
 
@@ -1267,7 +1267,7 @@ arrête:
 
 **Publication**
 
-<sup>1</sup> La Chancellerie d’Etat publie les titres des lois et des autres objets soumis à la votation facultative dans les feuilles officielles cantonales après leur adoption par le Grand Conseil. La publication officielle intervient au plus tard trois semaines après la clôture de la session.
+<sup>1</sup> La Chancellerie d’Etat publie les titres des lois et des autres objets soumis à la votation facultative dans la feuille officielle cantonale après leur adoption par le Grand Conseil. La publication officielle intervient au plus tard trois semaines après la clôture de la session.
 
 <sup>2</sup> Le texte intégral des objets soumis à la votation facultative doit être disponible sur Internet en même temps que la publication selon l’alinéa 1.
 
@@ -1348,7 +1348,7 @@ arrête:
 
 <sup>2</sup> Dans les autres cas, il constate qu’aucune demande de vote populaire n’a été déposée.
 
-<sup>3</sup> Les arrêtés du Conseil-exécutif selon les alinéas 1 et 2 sont publiés dans les feuilles officielles cantonales.
+<sup>3</sup> Les arrêtés du Conseil-exécutif selon les alinéas 1 et 2 sont publiés dans la feuille officielle cantonale.
 
 ### 6.2 Projet populaire (contre-projet citoyen)
 
@@ -1382,7 +1382,7 @@ arrête:
 
 <sup>1</sup> Si le projet populaire (contre-projet citoyen) a abouti, le Conseil-exécutif le soumet sans retard au Grand Conseil qui statue sur sa validité, dans la mesure du possible, lors de la prochaine session. Les dispositions sur l’examen de la validité des initiatives sont applicables (art. 59 de la Constitution cantonale).
 
-<sup>2</sup> L’arrêté du Grand Conseil statuant sur la validité du projet populaire (contre-projet citoyen) est publié dans les feuilles officielles cantonales.
+<sup>2</sup> L’arrêté du Grand Conseil statuant sur la validité du projet populaire (contre-projet citoyen) est publié dans la feuille officielle cantonale.
 
 <sup>3</sup> Le Grand Conseil peut recommander au corps électoral d’accepter ou de rejeter le projet populaire (contre-projet citoyen).
 
@@ -1560,7 +1560,7 @@ arrête:
 
 **Publication**
 
-<sup>1</sup> L’arrêté du Conseil-exécutif constatant l’aboutissement ou le non-aboutissement ainsi que celui du Grand Conseil statuant sur la validité de l’initiative sont publiés dans les feuilles officielles cantonales.
+<sup>1</sup> L’arrêté du Conseil-exécutif constatant l’aboutissement ou le non-aboutissement ainsi que celui du Grand Conseil statuant sur la validité de l’initiative sont publiés dans la feuille officielle cantonale.
 
 #### Art. 156
 
@@ -1572,7 +1572,7 @@ arrête:
 
 <sup>3</sup> Le retrait doit être communiqué par écrit à la Chancellerie d’Etat.
 
-<sup>4</sup> Le Conseil-exécutif prend acte du retrait de l’initiative et en informe le Grand Conseil. L’arrêté du Conseil-exécutif est publié dans les feuilles officielles cantonales.
+<sup>4</sup> Le Conseil-exécutif prend acte du retrait de l’initiative et en informe le Grand Conseil. L’arrêté du Conseil-exécutif est publié dans la feuille officielle cantonale.
 
 #### Art. 157
 
