@@ -4,13 +4,13 @@ number: "152.05"
 title: Gesetz über die zentralen Personendatensammlungen
 short: "Personendatensammlungsgesetz, PDSG"
 language: de
-version: 2021-03-01
-valid_until: 2021-11-30
-version_adopted: 2020-03-10
+version: 2021-12-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-15
 adopted: 2020-03-10
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.05"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2140/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2423/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2140/pdf_file"
 
 (Personendatensammlungsgesetz, PDSG)
 
-vom 10.03.2020 (Stand 01.03.2021)
+vom 10.03.2020 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -370,7 +370,7 @@ beschliesst:
 <tr><td>34.</td><td>Gesetz betreffend die Einführung der Bundesgesetze über die Kranken-, die Unfall- und die Militärversicherung (EG KUMV; BSG 842.11)</td><td>d, e, f</td></tr>
 <tr><td>35.</td><td>Gesetz über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG; BSG 860.1)</td><td>d, e, f</td></tr>
 <tr><td>36.</td><td>Feuerschutz- und Feuerwehrgesetz (FFG; BSG 871.11)</td><td>d, e, f</td></tr>
-<tr><td>37.</td><td>Kantonales Landwirtschaftsgesetz (KLwG; BSG 910.1)</td><td>d, e, f</td></tr>
+<tr><td>37.</td><td>...</td><td>...</td></tr>
 <tr><td>38.</td><td>Hundegesetz (BSG 916.31)</td><td>d, e</td></tr>
 <tr><td>39.</td><td>Gesetz über Jagd und Wildtierschutz (JWG; BSG 922.11)</td><td>f</td></tr>
 <tr><td>40.</td><td>Gastgewerbegesetz (GGG; BSG 935.11)</td><td>d, e, f</td></tr>
