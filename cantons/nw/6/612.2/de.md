@@ -5,57 +5,58 @@ title: Interkantonale Vereinbarung über das öffentliche Beschaffungswesen
 short: IVöB
 language: de
 version: 2010-07-01
-valid_until: 2024-04-30
+corrected: 2021-12-01
 version_adopted: 2010-05-31
 adopted: 2019-11-15
 in_force: 2024-05-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/612.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/949/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/484/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung über das öffentliche Beschaffungswesen
+# Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (IVöB)
 
-(IVöB)
+vom 25. November 1994 / 15. März 2001<sup>1</sup>
 
-vom 25.11.1994 (Stand 01.07.2010)
-
-## 1 Allgemeine Bestimmungen
+I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Diese Vereinbarung bezweckt die Öffnung des Marktes der öffentlichen Beschaffungen der Kantone, Gemeinden und anderer Träger kantonaler oder kommunaler Aufgaben. Sie bezieht dabei auch Dritte ein, soweit diese durch internationale Verträge verpflichtet werden.
+<sup>1</sup> Diese Vereinbarung bezweckt die Öffnung des Marktes der öffentlichen Beschaffungen der Kantone, Gemeinden und anderer Träger kantonaler oder kommunaler Aufgaben. Sie bezieht dabei auch Dritte ein, soweit diese durch internationale Verträge verpflichtet werden.<sup>2</sup>
 
-<sup>2</sup> Sie will die Vergaberegeln durch gemeinsam bestimmte Grundsätze harmonisieren, sowie die Verpflichtungen insbesondere aus dem Government Procurement Agreement (GPA)[^1-1] und dem Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über bestimmte Aspekte des öffentlichen Beschaffungswesens ins kantonale Recht umsetzen.
+<sup>2</sup> Sie will die Vergaberegeln durch gemeinsam bestimmte Grundsätze harmonisieren, sowie die Verpflichtungen insbesondere aus dem Government Procurement Agreement (GPA)<sup>3</sup> und dem Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über bestimmte Aspekte des öffentlichen Beschaffungswesens ins kantonale Recht umsetzen.<sup>2</sup>
 
-Ihre Ziele sind insbesondere:
+<sup>3</sup> Ihre Ziele sind insbesondere:
 
 - a) Förderung des wirksamen Wettbewerbs unter den Anbieterinnen und Anbietern;
-- b) Gewährleistung der Gleichbehandlung aller Anbieterinnen und Anbieter sowie einer unparteiischen Vergabe;
-- c) Sicherstellung der Transparenz der Vergabeverfahren;
-- d) wirtschaftliche Verwendung öffentlicher Mittel.
 
-[^1-1]: SR 0.632.321.422
+- b) Gewährleistung der Gleichbehandlung aller Anbieterinnen und Anbieter sowie einer unparteiischen Vergabe;
+
+- c) Sicherstellung der Transparenz der Vergabeverfahren;
+
+- d) wirtschaftliche Verwendung öffentlicher Mittel.
 
 #### Art. 2
 
-**Vorbehalt anderer Vereinbarungen**
+**Vorbehalt anderer Vereinbarungen<sup>2</sup>**
 
-<sup>1</sup> Die beteiligten Kantone behalten sich das Recht vor:
+Die beteiligten Kantone behalten sich das Recht vor:
 
 - a) unter sich bilaterale oder multilaterale Vereinbarungen zur Erweiterung des Anwendungsbereiches dieser Vereinbarung zu schliessen oder ihre Zusammenarbeit auf anderem Weg weiterzuentwickeln;
+
 - b) Vereinbarungen mit den Grenzregionen und Nachbarstaaten zu schliessen.
 
 #### Art. 3
 
-**Durchführung**
+**Durchführung<sup>2</sup>**
 
-<sup>1</sup> Die zuständigen Behörden jedes Kantons erlassen Ausführungsbestimmungen, die der Vereinbarung entsprechen müssen.
+Die zuständigen Behörden jedes Kantons erlassen Ausführungsbestimmungen, die der Vereinbarung entsprechen müssen.
 
-## 2
+### II. ...<sup>2</sup>
 
 #### Art. 4
 
@@ -66,28 +67,34 @@ Ihre Ziele sind insbesondere:
 <sup>2</sup> Das Interkantonale Organ ist zuständig für:
 
 - a) Änderung der Vereinbarung unter Vorbehalt der Zustimmung der beteiligten Kantone;
+
 - b) Erlass von Vergaberichtlinien;
-- c) Anpassung der in den Anhängen aufgeführten Schwellenwerte;
-- c<sup>bis</sup>) Entgegennahme und Weiterleitung eines Gesuches um Befreiung von Auftraggeberinnen und Auftraggebern von der Unterstellung unter diese Vereinbarung, sofern andere Unternehmen die Möglichkeit haben, diese Dienstleistungen in demselben geographischen Gebiet unter im Wesentlichen gleichen Bedingungen anzubieten (Ausklinkklausel);
-- d) …
-- e) Kontrolle über die Durchführung der Vereinbarung durch die Kantone und Bezeichnung einer Kontrollstelle;
+
+- c)<sup>2</sup> Anpassung der in den Anhängen aufgeführten Schwellenwerte; c<sup>bis</sup>)<sup>2</sup> Entgegennahme und Weiterleitung eines Gesuches um Befreiung von Auftraggeberinnen und Auftraggebern von der Unterstellung unter diese Vereinbarung, sofern andere Unternehmen die Möglichkeit haben, diese Dienstleistungen in demselben geographischen Gebiet unter im Wesentlichen gleichen Bedingungen anzubieten (Ausklinkklausel);
+
+- d) ...<sup>2</sup>
+
+- e)<sup>2</sup> Kontrolle über die Durchführung der Vereinbarung durch die Kantone und Bezeichnung einer Kontrollstelle;
+
 - f) Regelung der Organisation und des Verfahrens für die Anwendung der Vereinbarung;
-- g) Tätigkeiten als Kontaktstelle im Rahmen der internationalen Vereinbarungen;
-- h) Bezeichnung der kantonalen Delegierten in nationalen und internationalen Gremien sowie Genehmigung der entsprechenden Geschäftsreglemente.
 
-<sup>3</sup> Das Interkantonale Organ trifft seine Entscheide mit Dreiviertelmehrheit der Anwesenden, sofern mindestens die Hälfte der beteiligten Kantone vertreten ist. Jeder beteiligte Kanton hat eine Stimme, die von einem Mitglied der Kantonsregierung wahrgenommen wird.
+- g)<sup>2</sup> Tätigkeiten als Kontaktstelle im Rahmen der internationalen Vereinbarungen;
 
-<sup>4</sup> Das Interkantonale Organ arbeitet mit den Konferenzen der Vorsteherinnen und Vorsteher der betroffenen kantonalen Direktionen und mit dem Bund zusammen.
+- h)<sup>2</sup> Bezeichnung der kantonalen Delegierten in nationalen und internationalen Gremien sowie Genehmigung der entsprechenden Geschäftsreglemente.
+
+<sup>3</sup> Das Interkantonale Organ trifft seine Entscheide mit Dreiviertelmehrheit der Anwesenden, sofern mindestens die Hälfte der beteiligten Kantone vertreten ist. Jeder beteiligte Kanton hat eine Stimme, die von einem Mitglied der Kantonsregierung wahrgenommen wird.<sup>2</sup>
+
+<sup>4</sup> Das Interkantonale Organ arbeitet mit den Konferenzen der Vorsteherinnen und Vorsteher der betroffenen kantonalen Direktionen und mit dem Bund zusammen.<sup>2</sup>
 
 #### Art. 5
 
-**…**
+**..<sup>2</sup>**
 
-## 3 Anwendungsbereich
+### III. ANWENDUNGSBEREICH
 
 #### Art. 5bis
 
-**Abgrenzung**
+**Abgrenzung<sup>2</sup>**
 
 <sup>1</sup> Es wird zwischen einem Staatsvertragsbereich und einem von Staatsverträgen nicht erfassten Bereich unterschieden.
 
@@ -97,42 +104,48 @@ Ihre Ziele sind insbesondere:
 
 #### Art. 6
 
-**Auftragsarten**
+**Auftragsarten<sup>2</sup>**
 
 <sup>1</sup> Im Staatsvertragsbereich findet diese Vereinbarung Anwendung auf die in den Staatsverträgen definierten Aufträge, insbesondere:
 
 - a) Bauaufträge über die Durchführung von Hoch- und Tiefbauarbeiten;
+
 - b) Lieferaufträge über die Beschaffung beweglicher Güter, namentlich durch Kauf, Leasing, Miete, Pacht oder Mietkauf;
+
 - c) Dienstleistungsaufträge.
 
 <sup>2</sup> Im von Staatsverträgen nicht erfassten Bereich findet diese Vereinbarung Anwendung auf alle Arten von öffentlichen Aufträgen.
 
 #### Art. 7
 
-**Schwellenwerte**
+**Schwellenwerte<sup>2</sup>**
 
 <sup>1</sup> Die Schwellenwerte im Staatsvertragsbereich sind im Anhang 1 aufgeführt.
 
-<sup>1<sup>bis</sup></sup> Die Schwellenwerte im von Staatsverträgen nicht erfassten Bereich sind im Anhang 2 aufgeführt.
+<sup>1</sup> bis Die Schwellenwerte im von Staatsverträgen nicht erfassten Bereich sind im Anhang 2 aufgeführt.
 
-<sup>1<sup>ter</sup></sup> Die Mehrwertsteuer wird bei der Schätzung des Auftragswertes nicht berücksichtigt.
+<sup>1</sup> ter Die Mehrwertsteuer wird bei der Schätzung des Auftragswertes nicht berücksichtigt.
 
 <sup>2</sup> Werden für die Realisierung eines Bauwerkes mehrere Bauaufträge vergeben, ist im Staatsvertragsbereich der Gesamtwert der Hoch- und Tiefbauarbeiten massgebend. Bauaufträge im Staatsvertragsbereich, die je einzeln den Wert von zwei Millionen Franken nicht erreichen und zusammengerechnet 20 Prozent des Wertes des gesamten Bauwerkes nicht überschreiten, müssen mindestens nach den Bestimmungen des von Staatsverträgen nicht erfassten Bereiches vergeben werden (Bagatellklausel).
 
 #### Art. 8
 
-**Auftraggeberin und Auftraggeber**
+**Auftraggeberin und Auftraggeber<sup>2</sup>**
 
 <sup>1</sup> Im Staatsvertragsbereich unterstehen dieser Vereinbarung:
 
 - a) Kantone, Gemeinden sowie Einrichtungen des öffentlichen Rechts auf kantonaler oder kommunaler Ebene, mit Ausnahme ihrer kommerziellen oder industriellen Tätigkeiten;
-- b) …
+
+- b) ...
+
 - c) Behörden sowie öffentliche und private Unternehmen, die mit ausschliesslichen oder besonderen Rechten ausgestattet sind, jeweils in den Sektoren Wasser-, Energie und Verkehrsversorgung sowie Telekommunikation. Sie unterstehen dieser Vereinbarung nur für Aufträge, die sie zur Durchführung ihrer in der Schweiz ausgeübten Tätigkeit in diesen Bereichen vergeben;
+
 - d) weitere Auftraggeberinnen und Auftraggeber gemäss den entsprechenden Staatsverträgen.
 
 <sup>2</sup> Im von Staatsverträgen nicht erfassten Bereich unterstehen dieser Vereinbarung überdies:
 
 - a) andere Träger kantonaler oder kommunaler Aufgaben, mit Ausnahme derer kommerziellen oder industriellen Tätigkeiten;
+
 - b) Objekte und Leistungen, die zu mehr als 50% der Gesamtkosten mit öffentlichen Geldern subventioniert werden.
 
 <sup>3</sup> Vergaben, an denen mehrere Auftraggeberinnen und Auftraggeber gemäss Absatz 1 und 2 beteiligt sind, unterstehen dem Recht am Sitz der Hauptauftraggeberin oder des Hauptauftraggebers. Vergaben durch eine gemeinsame Trägerschaft unterstehen dem Recht am Sitz der Trägerschaft. Hat diese keinen Sitz, gilt das Recht am Ort des Schwergewichts der Tätigkeit oder der Arbeitsausführung. Abweichende Vereinbarungen bleiben vorbehalten.
@@ -141,13 +154,15 @@ Ihre Ziele sind insbesondere:
 
 #### Art. 9
 
-**Anbieterin und Anbieter; Gegenrecht**
+**Anbieterin und Anbieter; Gegenrecht<sup>2</sup>**
 
-<sup>1</sup> Diese Vereinbarung ist anwendbar auf Angebote von Anbieterinnen und Anbietern, die ihren Sitz oder Wohnsitz haben:
+Diese Vereinbarung ist anwendbar auf Angebote von Anbieterinnen und Anbietern, die ihren Sitz oder Wohnsitz haben:
 
 - a) in einem beteiligten Kanton;
-- b) in einem Staat, der durch einen Staatsvertrag zum öffentlichen Beschaffungswesen verpflichtet ist.
-- c) …
+
+- b)<sup>2</sup> in einem Staat, der durch einen Staatsvertrag zum öffentlichen Beschaffungswesen verpflichtet ist.
+
+- c)<sup>2</sup> ...
 
 #### Art. 10
 
@@ -156,31 +171,43 @@ Ihre Ziele sind insbesondere:
 <sup>1</sup> Die Vereinbarung findet keine Anwendung auf:
 
 - a) Aufträge an Behinderteninstitutionen, Wohltätigkeitseinrichtungen und Strafanstalten;
+
 - b) Aufträge, die im Rahmen von Agrar- und Ernährungshilfsprogrammen erteilt werden;
-- c) Aufträge, die aufgrund eines Staatsvertrages über ein gemeinsam zu verwirklichendes und zu tragendes Objekt vergeben werden;
+
+- c)<sup>2</sup> Aufträge, die aufgrund eines Staatsvertrages über ein gemeinsam zu verwirklichendes und zu tragendes Objekt vergeben werden;
+
 - d) Aufträge, die aufgrund eines besonderen Verfahrens einer internationalen Organisation vergeben werden;
+
 - e) Aufträge für die Beschaffung von Waffen, Munition oder Kriegsmaterial und für die Erstellung von Bauten der Kampf- und Führungsinfrastruktur von Gesamtverteidigung und Armee.
 
 <sup>2</sup> Die Auftraggeberin und der Auftraggeber brauchen einen Auftrag nicht nach den Bestimmungen dieser Vereinbarung zu vergeben, wenn:
 
 - a) dadurch die öffentliche Ordnung oder die öffentliche Sicherheit gefährdet sind;
+
 - b) der Schutz von Gesundheit und Leben von Mensch, Tier und Pflanzen dies erfordert; oder
+
 - c) dadurch bestehende Schutzrechte des geistigen Eigentums verletzt würden.
 
-## 4 Verfahren
+### IV. VERFAHREN
 
 #### Art. 11
 
 **Allgemeine Grundsätze**
 
-<sup>1</sup> Bei der Vergabe von Aufträgen werden folgende Grundsätze eingehalten:
+Bei der Vergabe von Aufträgen werden folgende Grundsätze eingehalten:
 
 - a) Nichtdiskriminierung und Gleichbehandlung der Anbieterinnen und Anbieter;
+
 - b) wirksamer Wettbewerb;
+
 - c) Verzicht auf Abgebotsrunden;
+
 - d) Beachtung der Ausstandsregeln;
+
 - e) Beachtung der Arbeitsschutzbestimmungen und der Arbeitsbedingungen für Arbeitnehmerinnen und Arbeitnehmer;
+
 - f) Gleichbehandlung von Frau und Mann;
+
 - g) VertrauIichkeit von Informationen.
 
 #### Art. 12
@@ -190,17 +217,22 @@ Ihre Ziele sind insbesondere:
 <sup>1</sup> Es werden folgenden Verfahrensarten unterschieden:
 
 - a) das offene Verfahren, bei dem die Auftraggeberin oder der Auftraggeber den geplanten Auftrag öffentlich ausschreibt und alle Anbieterinnen und Anbieter ein Angebot einreichen können;
-- b) das selektive Verfahren, bei dem die Auftraggeberin oder der Auftraggeber den geplanten Auftrag öffentlich ausschreibt. Alle Anbieterinnen und Anbieter können einen Antrag auf Teilnahme einreichen. Die Auftraggeberin oder der Auftraggeber bestimmt aufgrund von Eignungskriterien die Anbieterinnen und Anbieter, die ein Angebot einreichen dürfen. Die Auftraggeberin oder der Auftraggeber kann in der Ausschreibung die Zahl der zur Angebotsabgabe eingeladenen Anbieterinnen und Anbieter beschränken, wenn sonst die Auftragsvergabe nicht effizient abgewickelt werden kann. Dabei muss ein wirksamer Wettbewerb gewährleistet sein;
-- b<sup>bis</sup>) das Einladungsverfahren, bei dem die Auftraggeberin oder der Auftraggeber bestimmt, welche Anbieterinnen oder Anbieter ohne Ausschreibung direkt zur Angebotsabgabe eingeladen werden. Die Auftraggeberin oder der Auftraggeber muss wenn möglich mindestens drei Angebote einholen;
+
+- b) das selektive Verfahren, bei dem die Auftraggeberin oder der Auftraggeber den geplanten Auftrag öffentlich ausschreibt.
+
+Alle Anbieterinnen und Anbieter können einen Antrag auf Teilnahme einreichen. Die Auftraggeberin oder der Auftraggeber bestimmt aufgrund von Eignungskriterien die Anbieterinnen und Anbieter, die ein Angebot einreichen dürfen. Die Auftraggeberin oder der Auftraggeber kann in der Ausschreibung die Zahl der zur Angebotsabgabe eingeladenen Anbieterinnen und Anbieter beschränken, wenn sonst die Auftragsvergabe nicht effizient abgewickelt werden kann. Dabei muss ein wirksamer Wettbewerb gewährleistet sein;
+
+b<sup>bis</sup>)<sup>2</sup>das Einladungsverfahren, bei dem die Auftraggeberin oder der Auftraggeber bestimmt, welche Anbieterinnen oder Anbieter ohne Ausschreibung direkt zur Angebotsabgabe eingeladen werden. Die Auftraggeberin oder der Auftraggeber muss wenn möglich mindestens drei Angebote einholen;
+
 - c) das freihändige Verfahren, bei dem die Auftraggeberin oder der Auftraggeber einen Auftrag ohne Ausschreibung direkt vergibt.
 
-<sup>2</sup> …
+<sup>2</sup> ...<sup>2</sup>
 
-<sup>3</sup> Wer einen Planungs- oder Gesamtleistungswettbewerb veranstaltet, regelt im Rahmen der Grundsätze dieser Vereinbarung das Verfahren im Einzelfall. Die Auftraggeberin oder der Auftraggeber kann dabei ganz oder teilweise auf einschlägige Bestimmungen von Fachverbänden verweisen, soweit solche Bestimmungen nicht gegen die Grundsätze dieser Vereinbarung verstossen.
+<sup>3</sup> Wer einen Planungs- oder Gesamtleistungswettbewerb veranstaltet, regelt im Rahmen der Grundsätze dieser Vereinbarung das Verfahren im Einzelfall. Die Auftraggeberin oder der Auftraggeber kann dabei ganz oder teilweise auf einschlägige Bestimmungen von Fachverbänden verweisen, soweit solche Bestimmungen nicht gegen die Grundsätze dieser Vereinbarung verstossen.<sup>2</sup>
 
 #### Art. 12bis
 
-**Wahl der Verfahren**
+**Wahl der Verfahren<sup>2</sup>**
 
 <sup>1</sup> Aufträge im Staatsvertragsbereich können wahlweise im offenen oder selektiven Verfahren vergeben werden. In besonderen Fällen gemäss den internationalen Verträgen können sie im freihändigen Verfahren vergeben werden.
 
@@ -212,18 +244,27 @@ Ihre Ziele sind insbesondere:
 
 **Kantonale Ausführungsbestimmungen**
 
-<sup>1</sup> Die Ausführungsbestimmungen gewährleisten:
+Die Ausführungsbestimmungen gewährleisten:
 
-- a) die notwendigen Veröffentlichungen sowie die Publikation der Schwellenwerte;
+- a)<sup>2</sup> die notwendigen Veröffentlichungen sowie die Publikation der Schwellenwerte;
+
 - b) die Bezugnahmen auf nichtdiskriminierende technische Spezifikationen;
+
 - c) die Bestimmung von ausreichenden Fristen für die Einreichung der Angebote;
-- d.) ein Verfahren zur Überprüfung der Eignung der Anbieterinnen und Anbieter nach objektiven und überprüfbaren Kriterien;
+
+d.) ein Verfahren zur Überprüfung der Eignung der Anbieterinnen und Anbieter nach objektiven und überprüfbaren Kriterien;
+
 - e) die gegenseitige Anerkennung der Qualifikation der Anbieterinnen und Anbieter, die in ständigen Listen der beteiligten Kantone eingetragen sind;
+
 - f) die geeigneten Zuschlagskriterien, die den Zuschlag an das wirtschaftlich günstigste Angebot gewährleisten;
+
 - g) den Zuschlag durch Verfügung;
+
 - h) die Mitteilung und kurze Begründung des Zuschlages;
+
 - i) die Beschränkung von Abbruch und Wiederholung des Vergabeverfahrens auf wichtige Gründe;
-- j) die Archivierung.
+
+- j)<sup>2</sup> die Archivierung.
 
 #### Art. 14
 
@@ -233,7 +274,7 @@ Ihre Ziele sind insbesondere:
 
 <sup>2</sup> Ist ein Beschwerdeverfahren ohne aufschiebende Wirkung gegen den Zuschlag hängig, so teilt die Auftraggeberin oder der Auftraggeber den Vertragsschluss umgehend der Beschwerdeinstanz mit.
 
-## 5 Rechtsschutz
+### V. RECHTSSCHUTZ
 
 #### Art. 15
 
@@ -241,17 +282,21 @@ Ihre Ziele sind insbesondere:
 
 <sup>1</sup> Gegen Verfügungen der Auftraggeberin oder des Auftraggebers ist die Beschwerde an eine unabhängige kantonale Instanz zulässig. Diese entscheidet endgültig.
 
-<sup>1<sup>bis</sup></sup> Als durch Beschwerde selbständig anfechtbare Verfügungen gelten:
+<sup>1</sup> bis Als durch Beschwerde selbständig anfechtbare Verfügungen gelten:
 
 - a) die Ausschreibung des Auftrags;
+
 - b) der Entscheid über Aufnahmen einer Anbieterin oder eines Anbieters in eine ständige Liste gemäss Art. 13 lit. e;
+
 - c) der Entscheid über Auswahl der Teilnehmerinnen und Teilnehmer im selektiven Verfahren;
+
 - d) der Ausschluss aus dem Verfahren;
-- e) der Zuschlag, dessen Widerruf oder der Abbruch des Vergabeverfahrens.
+
+- e) der Zuschlag, dessen Widerruf oder der Abbruch des Vergabeverfahrens.<sup>2</sup>
 
 <sup>2</sup> Beschwerden sind schriftlich und begründet innert zehn Tagen seit Eröffnung der Verfügungen einzureichen.
 
-<sup>2<sup>bis</sup></sup> Es gelten keine Gerichtsferien.
+<sup>2</sup> bis Es gelten keine Gerichtsferien.<sup>2</sup>
 
 <sup>3</sup> Fehlen kantonale Ausführungsbestimmungen, ist das Bundesgericht für Beschwerden, welche die Anwendung dieser Vereinbarung betreffen, zuständig.
 
@@ -262,6 +307,7 @@ Ihre Ziele sind insbesondere:
 <sup>1</sup> Mit der Beschwerde können gerügt werden:
 
 - a) Rechtsverletzungen, einschliesslich Überschreitung oder Missbrauch des Ermessens;
+
 - b) unrichtige oder unvollständige Feststellung des rechtserheblichen Sachverhaltes.
 
 <sup>2</sup> Unangemessenheit kann nicht geltend gemacht werden.
@@ -288,7 +334,7 @@ Ihre Ziele sind insbesondere:
 
 <sup>2</sup> Ist der Vertrag bereits abgeschlossen und erweist sich die Beschwerde als begründet, stellt die Beschwerdeinstanz fest, dass die Verfügung rechtswidrig ist.
 
-## 6 Überwachung
+### VI. ÜBERWACHUNG
 
 #### Art. 19
 
@@ -298,17 +344,15 @@ Ihre Ziele sind insbesondere:
 
 <sup>2</sup> Sie sehen Sanktionen für den Fall der Verletzung der Vergabebestimmungen vor.
 
-## 7 Schlussbestimmungen
+### VII. SCHLUSSBESTIMMUNGEN
 
 #### Art. 20
 
 **Beitritt und Austritt**
 
-<sup>1</sup> Jeder Kanton kann der Vereinbarung beitreten, indem er seine Beitrittserklärung dem Interkantonalen Organ übergibt, das sie dem Bund mitteilt[^20-1].
+<sup>1</sup> Jeder Kanton kann der Vereinbarung beitreten, indem er seine Beitrittserklärung dem Interkantonalen Organ übergibt, das sie dem Bund mitteilt.
 
 <sup>2</sup> Der Austritt kann auf das Ende eines Kalenderjahres erfolgen. Er ist sechs Monate im voraus dem Interkantonalen Organ anzuzeigen, das den Austritt dem Bund mitteilt.
-
-[^20-1]: Von den Aktivbürgern genehmigt am 28. April 1996, in Kraft seit 1. Juli 2001
 
 #### Art. 21
 
@@ -318,7 +362,9 @@ Ihre Ziele sind insbesondere:
 
 <sup>2</sup> Gleiches gilt für Ergänzungen und Änderungen der Vereinbarung.
 
-<sup>3</sup> Im Verhältnis zu den Kantonen, welche die vorliegend geänderten Bestimmungen vom 15. März 2001 nicht übernommen haben, gilt weiterhin die unveränderte Vereinbarung vom 25. November 1994.
+<sup>3</sup> Im Verhältnis zu den Kantonen, welche die vorliegend geänderten Bestimmungen vom 15. März 2001 nicht übernommen haben, gilt weiterhin die unveränderte Vereinbarung vom 25. November 1994.[^21-1]
+
+[^21-1]: Fassung gemäss Beschluss des InöB vom 15. März 2001; A 2004, 1271; vom Landrat genehmigt am 5. Mai 2004, A 2004, 809, 1270; in Kraft seit 1. August 2004; SR 172.056.5
 
 #### Art. 22
 
@@ -328,49 +374,87 @@ Ihre Ziele sind insbesondere:
 
 <sup>2</sup> Im Fall eines Austrittes gilt die Vereinbarung für die Vergabe von Aufträgen, die vor dem Ende des Kalenderjahres, auf das der Austritt wirksam wird, ausgeschrieben werden.
 
-## A1 Anhang 1: Schwellenwerte im Staatsvertragsbereich
+[^22-1]: A 2010, 1269; Fassung gemäss Beschluss des Interkantonalen Organs für das öffentliche Beschaffungswesen (InöB) vom 31. Mai 2010; in Kraft seit 1. Juli 2010
 
-#### Art. A1-1
+### ANHANG 1
 
-**Government Procurement Agreement GPA (WTO-Übereinkommen über das öffentliche Beschaffungswesen)**
+[^22-1]
 
-<sup>1</sup> Government Procurement Agreement GPA (WTO-Übereinkommen über das öffentliche Beschaffungswesen):
+### Schwellenwerte im Staatsvertragsbereich
 
-<table>
-<tr><th>Auftraggeberin / Auftraggeber</th><th>Bauarbeiten (Gesamtwert)(Auftragswert Fr.)</th><th>Lieferungen (Auftragswert Fr.)</th><th>Dienstleistungen (Auftragswert Fr.)</th></tr>
-<tr><td>Kantone</td><td>8'700'000</td><td>350'000</td><td>350'000</td></tr>
-<tr><td>Behörden und öffentliche Unternehmen in den Sektoren Wasser, Energie, Verkehr und Telekommunikation</td><td>8'700'000</td><td>700'000</td><td>700'000</td></tr>
-</table>
+- a) Government Procurement Agreement GPA (WTO-
 
-#### Art. A1-2
+### Übereinkommen über das öffentliche Beschaffungswesen)
 
-**Gemäss Bilateralem Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft sind auch folgende Auftraggeberinnen und Auftraggeber dem Staatsvertragsbereich unterstellt**
+### Auftraggeberin Auftragswert Fr.
 
-<sup>1</sup> Gemäss Bilateralem Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft sind auch folgende Auftraggeberinnen und Auftraggeber dem Staatsvertragsbereich unterstellt:
+Auftraggeber (Auftragswert SZR) Bauarbeiten Lieferungen Dienstleistungen
 
-<table>
-<tr><th>Auftraggeberin / Auftraggeber</th><th>Bauarbeiten (Gesamtwert) (Auftragswert Fr.)</th><th>Lieferungen (Auftragswert Fr.)</th><th>Dienstleistungen (Auftragswert Fr.)</th></tr>
-<tr><td>Gemeinden / Bezirke</td><td>8'700'000</td><td>350'000</td><td>350'000</td></tr>
-<tr><td>Private Unternehmen mit ausschliesslichen oder besonderen Rechten in den Sektoren Wasser, Energie und Verkehr</td><td>8'700'000</td><td>700'000</td><td>700'000</td></tr>
-<tr><td>Öffentliche sowie aufgrund eines besonderen oder ausschliesslichen Rechts tätige private Unternehmen im Bereich des Schienenverkehrs und der Gas- und Wärmeversorgung</td><td>8'000'000</td><td>640'000</td><td>640'000</td></tr>
-<tr><td>Öffentliche sowie aufgrund eines besonderen oder ausschliesslichen Rechts tätige private Unternehmen im Bereich der Telekommunikation[^A12-1]</td><td>8'000'000</td><td>960'000</td><td>960'000</td></tr>
-</table>
+(Gesamtwert)
 
-[^A12-1]: Dieser Bereich ist nicht unterstellt (vgl. SR [172.056.111](https://db.clex.ch/link/Bund/172.056.111/de)).
+**350'000 350'000**
 
-## A2 Anhang 2: Schwellenwerte und Verfahren im von Staatsverträgen nicht erfassten Bereich
+**(200'000)**
 
-#### Art. A2-1
+Kantone 8'700'000 (5'0000'000) (200'000) Behörden und öffentliche Unternehmen in den Sek- 8'700'000 toren Wasser, Energie, (5'0000'000) (400'000) Verkehr und Telekommunikation
 
-**Schwellenwerte und Verfahren im von Staatsverträgen nicht erfassten Bereich**
+**700'000 700'000**
 
-<sup>1</sup> Schwellenwerte und Verfahren im von Staatsverträgen nicht erfassten Bereich:
+**(400'000)**
 
-<table>
-<tr><th>Verfahrensart</th><th>Lieferungen (Auftragswert Fr.)</th><th>Dienstleistungen (Auftragswert Fr.)</th><th>Bauarbeiten (Baunebengewerbe) (Auftragswert Fr.)</th><th>Bauarbeiten (Bauhauptgewerbe) (Auftragswert Fr.)</th></tr>
-<tr><td>Freihändige Vergabe</td><td>unter 100'000</td><td>unter 150'000</td><td>unter 150'000</td><td>unter 300'000</td></tr>
-<tr><td>Einladungsverfahren</td><td>unter 250'000</td><td>unter 250'000</td><td>unter 250'000</td><td>unter 500'000</td></tr>
-<tr><td>offenes / selektives Verfahren</td><td>ab 250'000</td><td>ab 250'000</td><td>ab 250'000</td><td>ab 500'000</td></tr>
-</table>
+- b) Gemäss Bilateralem Abkommen zwischen der Europäischen
 
-A 1996, 632, 634; A 2001, 199, 831
+### Gemeinschaft und der Schweizerischen Eidgenossenschaft
+
+sind auch folgende Auftraggeberinnen und Auftraggeber dem
+
+### Staatsvertragsbereich unterstellt:
+
+### Auftraggeberin Auftragswert Fr.
+
+Auftraggeber (Auftragswert Euro) Bauarbeiten Lieferungen Dienstleistungen
+
+(Gesamtwert)
+
+**350'000 350'000**
+
+**(240'000)**
+
+Gemeinden / Bezirke 8'700'000 (6'000'000) (240'000) Private Unternehmen mit ausschliesslichen oder besonderen Rechten in 8'700'000 den Sektoren Wasser, (6'000'000) (480'000) Energie und Verkehr (inkl.
+
+**700'000 700'000**
+
+**(480'000)**
+
+**640'000 (400'000)**
+
+**960'000 (600'000)**
+
+Drahtseilbahnen und Skiliftanlagen) Öffentliche sowie aufgrund eines besonderen oder ausschliesslichen Rechts tätige private Un- 8'000'000 640'000 ternehmen im Bereich des (5'000'000) (400'000) Schienenverkehrs und der Gas- und Wärmeversorgung Öffentliche sowie aufgrund eines besonderen oder ausschliesslichen Rechts 8'000'000 960'000 tätige private Unternehmen (5'000'000) (600'000) im Bereich der Telekommunikation
+
+### ANHANG 2
+
+### Schwellenwerte und Verfahren im von Staatsverträgen nicht er-
+
+fassten Bereich
+
+**Bauarbeiten (Auftragswert CHF)**
+
+Verfahrensarten Lieferungen Dienstleistungen (Auftragswert (Auftragswert CHF) CHF)
+
+**Bauhauptgewerbe**
+
+### Bauneben-
+
+gewerbe Freihändige Vergabe unter 100‘000 unter 150‘000 unter 150‘000 unter 300‘000 Einladungsverfahren unter 250‘000 unter 250‘000 unter 250‘000 unter 500‘000 offenes / selekti- ab 250‘000 ab 250‘000 ab 250‘000 ves Verfahren
+
+**ab 500‘000**
+
+**13**
+
+1.8.2004 - 38
+
+## Weitere Fussnoten
+
+- [1] A 1996, 634; von den Aktivbürgern genehmigt am 28. April 1996, A 1996, 632; in Kraft seit 1. Juli 2001; A 2001, 199, 831; vom Bund genehmigt am 14. März 1996; SR 172.056.4
+- [3] SR 0.632.321.422
