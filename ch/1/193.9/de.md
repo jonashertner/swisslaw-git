@@ -3,18 +3,18 @@ sr: "193.9"
 title: Bundesgesetz vom 19. Dezember 2003 über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/253"
 language: de
-version: 2017-06-01
+version: 2021-12-01
 adopted: 2003-12-19
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20170601/de/xml/fedlex-data-admin-ch-eli-cc-2004-253-20170601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20170601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2004-253-20211201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte
 
-vom 19. Dezember 2003 (Stand am 1. Juni 2017)
+vom 19. Dezember 2003 (Stand am 1. Dezember 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -112,11 +112,12 @@ Der Bundesrat kann völkerrechtliche Verträge abschliessen über:
 
 #### Art. 9
 
-**Datenbearbeitung**
+**Datenbearbeitung**[^9-1]
 
-Für die Bearbeitung von Daten im Zusammenhang mit Massnahmen nach diesem Gesetz gilt Artikel 2 des Bundesgesetzes vom 24. März 2000[^9-1] über die Bearbeitung von Personendaten im Eidgenössischen Departement für auswärtige Angelegenheiten sinngemäss.
+Für die Bearbeitung von Daten im Zusammenhang mit Massnahmen nach diesem Gesetz gelten die Artikel 18–20 des Bundesgesetzes vom 18. Dezember 2020[^9-2] über die Bearbeitung von Personendaten durch das Eidgenössische Departement für auswärtige Angelegenheiten.
 
-[^9-1]: [<sup>SR</sup> <sup>235.2</sup>](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^9-1]: Fassung gemäss Anhang Ziff. II 1 des BG vom 18. Dez. 2020 über die Bearbeitung von Personendaten durch das EDA, in Kraft seit 1. Dez. 2021 ([AS 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [BBl 2020 1349](https://fedlex.data.admin.ch/eli/fga/2020/333)).
+[^9-2]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 
 #### Art. 10
 

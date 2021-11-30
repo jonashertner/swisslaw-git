@@ -3,18 +3,18 @@ sr: "193.9"
 title: "Loi fédérale du 19 décembre 2003 sur des mesures de promotion civile de la paix et de renforcement des droits de l'homme"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/253"
 language: fr
-version: 2017-06-01
+version: 2021-12-01
 adopted: 2003-12-19
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20170601/fr/xml/fedlex-data-admin-ch-eli-cc-2004-253-20170601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20170601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2004-253-20211201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur des mesures de promotion civile de la paix et de renforcement des droits de l’homme
 
-du 19 décembre 2003 (Etat le 1<sup>er</sup> juin 2017)
+du 19 décembre 2003 (Etat le 1<sup>er</sup> décembre 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -36,11 +36,11 @@ arrête:
 Sont réservées les mesures prévues par:
 
 - a. la loi fédérale du 19 mars 1976 sur la coopération au développement et l’aide humanitaire internationales[^1-1];
-- b.[^1-2] la loi fédérale du 30 septembre 2016 sur la coopération avec les Etats d’Europe de l’Est[^1-3];
+- b.[^1-2] la loi fédérale du 30 septembre 2016 sur la coopération avec les États d’Europe de l’Est[^1-3];
 - c. la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^1-4].
 
 [^1-1]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
-[^1-2]: Nouvelle teneur selon l’art. 19 ch. 1 de la LF du 30 sept. 2016 sur la coopération avec les Etats d’Europe de l’Est, en vigueur du 1<sup>er</sup> juin 2017 au 31 déc. 2024 ([RO 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323); [FF 2016 2179](https://fedlex.data.admin.ch/eli/fga/2016/516)).
+[^1-2]: Nouvelle teneur selon l’art. 19 ch. 1 de la LF du 30 sept. 2016 sur la coopération avec les États d’Europe de l’Est, en vigueur du 1<sup>er</sup> juin 2017 au 31 déc. 2024 ([RO 2017 3219](https://fedlex.data.admin.ch/eli/oc/2017/323); [FF 2016 2179](https://fedlex.data.admin.ch/eli/fga/2016/516)).
 [^1-3]: [RS 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
 [^1-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
@@ -80,7 +80,7 @@ Les moyens nécessaires au financement des mesures prévues par la présente loi
 
 #### Art. 5
 
-**Evaluation**
+**Évaluation**
 
 Le Conseil fédéral veille à une utilisation efficace des moyens accordés. Il fait procéder à des évaluations à intervalles réguliers et remet un rapport à l’Assemblée fédérale pour chaque période de crédit.
 
@@ -112,11 +112,12 @@ Le Conseil fédéral peut conclure des traités internationaux portant sur:
 
 #### Art. 9
 
-**Traitement des données**
+**Traitement des données**[^9-1]
 
-L’art. 2 de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères[^9-1] s’applique par analogie au traitement de données en rapport avec les mesures prévues par la présente loi.
+Les art. 18 à 20 de la loi fédérale du 18 décembre 2020 sur le traitement des données personnelles par le Département fédéral des affaires étrangères[^9-2] s’appliquent au traitement de données en rapport avec les mesures prévues par la présente loi.
 
-[^9-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^9-1]: Nouvelle teneur selon l’annexe ch. II 1 de la LF du 18 déc. 2020 sur le traitement des données par le DFAE, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [FF 2020 1279](https://fedlex.data.admin.ch/eli/fga/2020/333)).
+[^9-2]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 
 #### Art. 10
 

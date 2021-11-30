@@ -3,18 +3,18 @@ sr: "193.9"
 title: "Legge federale del 19 dicembre 2003 su misure di promozione civile della pace e di rafforzamento dei diritti dell'uomo"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/253"
 language: it
-version: 2017-06-01
+version: 2021-12-01
 adopted: 2003-12-19
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20170601/it/xml/fedlex-data-admin-ch-eli-cc-2004-253-20170601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20170601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2004-253-20211201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale su misure di promozione civile della pace e di rafforzamento dei diritti dell’uomo
 
-del 19 dicembre 2003 (Stato 1° giugno 2017)
+del 19 dicembre 2003 (Stato 1° dicembre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -112,11 +112,12 @@ Il Consiglio federale può concludere accordi internazionali:
 
 #### Art. 9
 
-**Trattamento di dati**
+**Trattamento di dati**[^9-1]
 
-L’articolo 2 della legge federale del 24 marzo 2000[^9-1] sul trattamento di dati personali in seno al Dipartimento federale degli affari esteri si applica per analogia al trattamento di dati inerenti alle misure adottate in applicazione della presente legge.
+Gli articoli 18–20 della legge federale del 18 dicembre 2020[^9-2] sul trattamento dei dati personali da parte del Dipartimento federale degli affari esteri si applicano al trattamento di dati inerenti alle misure adottate in applicazione della presente legge.
 
-[^9-1]: [<sup>R</sup>S <sup>235.2</sup>](https://fedlex.data.admin.ch/eli/cc/2021/650)
+[^9-1]: Nuovo testo giusta l’all. n. II 1 della LF del 18 dic. 2020 sul trattamento dei dati personali da parte del DFAE, in vigore dal 1° dic. 2021 ([RU 2021 650](https://fedlex.data.admin.ch/eli/oc/2021/650); [FF 2020 1179](https://fedlex.data.admin.ch/eli/fga/2020/333)).
+[^9-2]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
 
 #### Art. 10
 
