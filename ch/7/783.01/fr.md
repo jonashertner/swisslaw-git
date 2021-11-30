@@ -4,11 +4,11 @@ title: Ordonnance du 29 août 2012 sur la poste (OPO)
 short: OPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/586"
 language: fr
-version: 2021-01-01
+version: 2021-12-01
 adopted: 2012-08-29
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-586-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-586-20211201-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20210101/fr"
 
 (OPO)
 
-du 29 août 2012 (Etat le 1<sup>er</sup> janvier 2021)
+du 29 août 2012 (État le 1<sup>er</sup> décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -475,7 +475,7 @@ Elle n’est pas tenue de distribuer les envois postaux à domicile conformémen
 
 Elle n’est pas tenue de respecter les délais de distribution:
 
-- a. si les journaux lui ont été livrés plus tard que convenu avec l’éditeur; le nombre d’exemplaires remis en retard doit être justifié, ou
+- a.[^31a-2] si les journaux lui ont été livrés plus tard que convenu avec l’éditeur, ou
 - b. si des événements pour lesquels ni la Poste, ni les éditeurs ne sont responsables empêchent la distribution.
 
 <sup>3</sup> Elle est tenue de respecter à 95 % le délai de livraison fixé à l’al. 1. Ce pourcentage doit être respecté chaque année à l’échelle de la Suisse.
@@ -485,6 +485,7 @@ Elle n’est pas tenue de respecter les délais de distribution:
 <sup>5</sup> La PostCom approuve la méthode et les instruments de mesure.
 
 [^31a-1]: Introduit par le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^31a-2]: Nouvelle teneur selon le ch. I de l’O du 13 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 32
 
@@ -634,15 +635,17 @@ Afin de maintenir une presse associative et une presse des fondations diversifi�
 
 <sup>2</sup> Si l’OFCOM accepte la demande, le requérant a droit au rabais à compter du premier jour du mois suivant le dépôt de la demande.
 
-<sup>3</sup> L’ayant droit remet chaque année une déclaration à l’OFCOM.
+<sup>3</sup> L’ayant droit remet périodiquement une déclaration à l’OFCOM. Si, en dépit de tout rappel, il omet de remettre sa déclaration ou si celle-ci est lacunaire, l’octroi du rabais peut être suspendu.[^37-1]
 
-<sup>4</sup> L’OFCOM effectue un contrôle par sondage de ces informations. Si, en dépit de tout rappel, l’ayant droit omet de remettre sa déclaration ou si celle-ci est lacunaire, l’octroi du rabais peut être suspendu.
+<sup>4</sup> L’OFCOM peut contrôler le droit au rabais en tout temps par sondage.[^37-2]
 
 <sup>5</sup> L’ayant droit qui ne remplit plus les conditions d’octroi du rabais sur la distribution en avise l’OFCOM par écrit dans les 30 jours. Le droit au rabais prend fin le dernier jour du mois durant lequel les conditions n’ont plus été remplies.
 
-<sup>6</sup> Les dispositions de la loi du 5 octobre 1990 sur les subventions[^37-1] sont applicables au demeurant.
+<sup>6</sup> Les dispositions de la loi du 5 octobre 1990 sur les subventions[^37-3] sont applicables au demeurant.
 
-[^37-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 13 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^37-2]: Nouvelle teneur selon le ch. I de l’O du 13 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^37-3]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ### Section 3 Timbres-poste spéciaux avec ou sans supplément sur le prix de vente
 
@@ -945,10 +948,10 @@ Le 31 mars de chaque année au plus tard, la Poste fournit à la PostCom un rapp
 - c. les envois postaux perdus et les réclamations concernant les services postaux relevant du service universel;
 - d.[^60-1] le nombre total de maisons visées aux art. 31, al. 2 et 2<sup>bis</sup>, et 83*a* qui ne bénéficient pas de la distribution à domicile.
 
-<sup>2</sup> Le 31 mars de chaque année au plus tard, la Poste fournit à la PostCom un rapport sur le respect des prescriptions relatives à la distribution des quotidiens en abonnement formulées à l’art. 31*a*. Lors de l’approbation de la méthode de mesure visée à l’art. 31*a*, al. 5, la PostCom détermine les informations qui doivent figurer dans le rapport. La Poste doit présenter le rapport pour la première fois pour l’année 2021.[^60-2]
+<sup>2</sup> Le 31 mars de chaque année au plus tard, la Poste fournit à la PostCom un rapport sur le respect des prescriptions relatives à la distribution des quotidiens en abonnement formulées à l’art. 31*a*. Lors de l’approbation de la méthode de mesure visée à l’art. 31*a*, al. 5, la PostCom détermine les informations qui doivent figurer dans le rapport. La Poste doit présenter le rapport pour la première fois pour l’année 2022.[^60-2]
 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^60-2]: Introduit par le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^60-2]: Introduit par le ch. I de l’O du 18 sept. 2020 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Nouvelle teneur selon le ch. I de l’O du 13 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 61
 
@@ -1253,6 +1256,14 @@ Les solutions de remplacement visées à l’art. 31, al. 3, qui ont été adopt
 [^83a-1]: Introduit par le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 [^83a-2]: [RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)
 
+#### Art. 83b
+
+**Disposition transitoire relative à la modification du 13 octobre 2021**[^83b-1]
+
+Pour l’année 2020, aucun ayant droit ne doit remettre de déclaration au sens de l’art. 37, al. 3.
+
+[^83b-1]: Introduit par le ch. I de l’O du 13 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+
 #### Art. 84
 
 **Entrée en vigueur**
@@ -1270,12 +1281,12 @@ Les dimensions minimales du compartiment courrier et du compartiment annexe sont
 Valeurs en centimètres
 
 <table>
-<tr><td colspan="2"></td><td colspan="4">Compartiment courrier</td><td></td><td></td><td></td><td colspan="4">Compartiment annexe</td></tr>
-<tr><td colspan="2"></td><td>Hauteur</td><td>Largeur</td><td>Profondeur</td><td colspan="4">Ouverture</td><td>Hauteur</td><td>Largeur</td><td>Profondeur</td><td>Ouverture</td></tr>
-<tr><td colspan="2">Horizontal</td><td>10</td><td>25</td><td>35,5</td><td colspan="4">25 × 2,5</td><td>15</td><td>25</td><td>35,5</td><td>15 × 25</td></tr>
-<tr><td colspan="2">Transversal</td><td>10</td><td>35,5</td><td>25</td><td colspan="4">35,5 × 2,5</td><td>15</td><td>35,5</td><td>25</td><td>15 × 35,5</td></tr>
-<tr><td colspan="2">Vertical</td><td>35,5</td><td>25</td><td>10\*</td><td colspan="4">25 × 2,5</td><td>35,5</td><td>25</td><td>15</td><td>35,5 × 25</td></tr>
-<tr><td>\*</td><td colspan="12">8 cm s’il s’agit de compartiments courrier/compartiments annexes combinés de type vertical</td></tr>
+<tr><th></th><th colspan="4">Compartiment courrier</th><th colspan="4">Compartiment annexe</th></tr>
+<tr><th></th><th>Hauteur</th><th>Largeur</th><th>Profondeur</th><th>Ouverture</th><th>Hauteur</th><th>Largeur</th><th>Profondeur</th><th>Ouverture</th></tr>
+<tr><td>Horizontal</td><td>10</td><td>25</td><td>35,5</td><td>25 × 2,5</td><td>15</td><td>25</td><td>35,5</td><td>15 × 25</td></tr>
+<tr><td>Transversal</td><td>10</td><td>35,5</td><td>25</td><td>35,5 × 2,5</td><td>15</td><td>35,5</td><td>25</td><td>15 × 35,5</td></tr>
+<tr><td>Vertical</td><td>35,5</td><td>25</td><td>10\*</td><td>25 × 2,5</td><td>35,5</td><td>25</td><td>15</td><td>35,5 × 25</td></tr>
+<tr><td colspan="9">\*8 cm s’il s’agit de compartiments courrier / compartiments annexes combinés de type vertical</td></tr>
 </table>
 
 Annexe 2

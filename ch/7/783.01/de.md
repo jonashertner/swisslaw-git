@@ -4,11 +4,11 @@ title: Postverordnung vom 29. August 2012 (VPG)
 short: VPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/586"
 language: de
-version: 2021-01-01
+version: 2021-12-01
 adopted: 2012-08-29
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2012-586-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2012-586-20211201-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20210101/de"
 
 (VPG)
 
-vom 29. August 2012 (Stand am 1. Januar 2021)
+vom 29. August 2012 (Stand am 1. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -475,15 +475,17 @@ Sie ist nicht zur Hauszustellung von Postsendungen nach Absatz 1 verpflichtet, w
 
 Sie ist nicht zur fristgerechten Zustellung verpflichtet, wenn:
 
-- a. ihr die Zeitungen später übergeben werden, als mit der Herausgeberin oder dem Herausgeber vereinbart ist; die Anzahl zu spät übergebener Zeitungsexemplare ist auszuweisen; oder
+- a.[^31a-2] ihr die Zeitungen später übergeben werden, als mit der Herausgeberin oder dem Herausgeber vereinbart ist; oder
 - b. Ereignisse dies verhindern, für welche weder die Post noch die Herausgeberin oder der Herausgeber verantwortlich sind.
-- [tab] <sup>3</sup> Sie hat die Zustellzeit nach Absatz 1 zu 95 Prozent einzuhalten. Dieser Prozentwert ist jährlich schweizweit einzuhalten.
+
+<sup>3</sup> Sie hat die Zustellzeit nach Absatz 1 zu 95 Prozent einzuhalten. Dieser Prozentwert ist jährlich schweizweit einzuhalten.
 
 <sup>4</sup> Die Methode zur Messung der Zustellung von abonnierten Tageszeitungen muss wissenschaftlich anerkannt und von einer unabhängigen Fachstelle zertifiziert sein. Sie berücksichtigt den Stand der Technik.
 
 <sup>5</sup> Die PostCom genehmigt die Methode und die Messinstrumente.
 
 [^31a-1]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^31a-2]: Fassung gemäss Ziff. I der V vom 13. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 32
 
@@ -633,15 +635,17 @@ Zur Erhaltung einer vielfältigen Mitgliedschafts- und Stiftungspresse werden Zu
 
 <sup>2</sup> Heisst das BAKOM das Gesuch gut, so hat die Gesuchstellerin oder der Gesuchsteller ab dem ersten Tag des Monats, nach dem das Gesuch eingereicht wurde, Anspruch auf Zustellermässigung.
 
-<sup>3</sup> Die Anspruchsberechtigten haben dem BAKOM jährlich eine Selbstdeklaration einzureichen.
+<sup>3</sup> Die Anspruchsberechtigten haben dem BAKOM periodisch eine Selbstdeklaration einzureichen. Wird die Selbstdeklaration trotz Mahnung nicht oder unvollständig eingereicht, so kann die Zustellermässigung ausgesetzt werden.[^37-1]
 
-<sup>4</sup> Das BAKOM überprüft die Angaben in Form von Stichproben. Wird die Selbstdeklaration trotz Mahnung nicht oder unvollständig eingereicht, so kann die Zustellermässigung ausgesetzt werden.
+<sup>4</sup> Das BAKOM kann die Anspruchsberechtigung jederzeit in Form von Stichproben überprüfen.[^37-2]
 
 <sup>5</sup> Anspruchsberechtigte, welche die Bedingungen zum Bezug von Zustellermässigungen nicht länger erfüllen, haben dies dem BAKOM innerhalb von 30 Tagen schriftlich zu melden. Die Anspruchsberechtigung endet am letzten Tag des Monats, in dem die Bedingungen nicht mehr erfüllt werden.
 
-<sup>6</sup> Im Übrigen gelten die Bestimmungen des Subventionsgesetzes vom 5. Oktober 1990[^37-1].
+<sup>6</sup> Im Übrigen gelten die Bestimmungen des Subventionsgesetzes vom 5. Oktober 1990[^37-3].
 
-[^37-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-1]: Fassung gemäss Ziff. I der V vom 13. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^37-2]: Fassung gemäss Ziff. I der V vom 13. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^37-3]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ### 3. Abschnitt: Sondermarken mit und ohne Zuschlag auf den Verkaufspreis
 
@@ -715,7 +719,7 @@ Die Grundversorgung umfasst mindestens ein Angebot für folgende inländische Di
 
 **Zugang zu den Dienstleistungen des Zahlungsverkehrs**
 
-<sup>1</sup> Der Zugang zu den Dienstleistungen des Zahlungsverkehrs ist angemessen, wenn für 90 Prozent der ständigen Wohnbevölkerung eines Kantons die Dienstleistungen nach Artikel 43 Absatz 1 Buchstaben c-e zu Fuss oder mit öffentlichen Verkehrsmitteln innerhalb von 20 Minuten zugänglich sind.[^44-1]
+<sup>1</sup> Der Zugang zu den Dienstleistungen des Zahlungsverkehrs ist angemessen, wenn für 90 Prozent der ständigen Wohnbevölkerung eines Kantons die Dienstleistungen nach Artikel 43 Absatz 1 Buchstaben c–e zu Fuss oder mit öffentlichen Verkehrsmitteln innerhalb von 20 Minuten zugänglich sind.[^44-1]
 
 <sup>1bis</sup> In Gebieten, in denen nur eine Postagentur vorhanden ist, bietet die Post die Bareinzahlung an der Wohnadresse der Kundin oder des Kunden oder in anderer geeigneter Weise an.[^44-2]
 
@@ -943,10 +947,11 @@ Die Post reicht der PostCom jährlich bis 31. März einen Bericht über die Einh
 - b. die Entwicklung der Grundversorgung mit Postdiensten zu beschreiben;
 - c. Verluste von Postsendungen und Reklamationen zur Grundversorgung mit Postdiensten anzugeben;
 - d.[^60-1] die Gesamtzahl Häuser nach den Artikeln 31 Absätze 2 und 2<sup>bis</sup> und 83*a* ohne Hauszustellung anzugeben.
-- [tab] <sup>2</sup> Sie reicht der PostCom jährlich bis 31. März einen Bericht über die Einhaltung der Vorgaben zur Zustellung von abonnierten Tageszeitungen nach Artikel 31*a* ein. Die PostCom bestimmt anlässlich der Genehmigung der Messmethode nach Artikel 31*a* Absatz 5 die in der Berichterstattung auszuweisenden Angaben. Die Post hat den Bericht erstmals für das Berichtsjahr 2021 einzureichen.[^60-2]
+
+<sup>2</sup> Sie reicht der PostCom jährlich bis 31. März einen Bericht über die Einhaltung er Vorgaben zur Zustellung von abonnierten Tageszeitungen nach Artikel 31*a* ein. Die PostCom bestimmt anlässlich der Genehmigung der Messmethode nach Artikel 31*a* Absatz 5 die in der Berichterstattung auszuweisenden Angaben. Die Post hat den Bericht erstmals für das Berichtsjahr 2022 einzureichen.[^60-2]
 
 [^60-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^60-2]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^60-2]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Fassung gemäss Ziff. I der V vom 13. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 61
 
@@ -1251,6 +1256,14 @@ Für Ersatzlösungen nach Artikel 31 Absatz 3, die vor Inkrafttreten der Änderu
 [^83a-1]: Eingefügt durch Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 [^83a-2]: [AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)
 
+#### Art. 83b
+
+**Übergangsbestimmung zur Änderung vom 13. Oktober 2021**[^83b-1]
+
+Für das Jahr 2020 ist von den Anspruchsberechtigten keine Selbstdeklaration nach Artikel 37 Absatz 3 einzureichen.
+
+[^83b-1]: Eingefügt durch Ziff. I der V vom 13. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+
 #### Art. 84
 
 **Inkrafttreten**
@@ -1268,12 +1281,12 @@ Für das Brief- und Ablagefach gelten folgende Mindestmasse:
 Angaben in cm
 
 <table>
-<tr><td></td><td colspan="4">Brieffach</td><td></td><td></td><td></td><td colspan="3">Ablagefach</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td></td><td>Höhe</td><td>Breite</td><td>Tiefe</td><td colspan="4">Einwurföffnung</td><td>Höhe</td><td>Breite</td><td colspan="3">Tiefe</td><td colspan="2">Öffnung</td></tr>
-<tr><td>liegend</td><td>10</td><td>25</td><td>35,5</td><td colspan="4">25 × 2,5</td><td>15</td><td>25</td><td colspan="3">35,5</td><td colspan="2">15 × 25</td></tr>
-<tr><td>querliegend</td><td>10</td><td>35,5</td><td>25</td><td colspan="4">35,5 × 2,5</td><td>15</td><td>35,5</td><td colspan="3">25</td><td colspan="2">15 × 35,5</td></tr>
-<tr><td>stehend</td><td>35,5</td><td>25</td><td>10\*</td><td colspan="4">25 × 2,5</td><td>35,5</td><td>25</td><td colspan="3">15</td><td colspan="2">35,5 × 25</td></tr>
-<tr><td colspan="15">\* Bei kombiniertem, stehendem Brief-/Ablagefach 8 cm</td></tr>
+<tr><th></th><th colspan="4">Brieffach</th><th colspan="4">Ablagefach</th></tr>
+<tr><th></th><th>Höhe</th><th>Breite</th><th>Tiefe</th><th>Einwurföffnung</th><th>Höhe</th><th>Breite</th><th>Tiefe</th><th>Öffnung</th></tr>
+<tr><td>liegend</td><td>10</td><td>25</td><td>35,5</td><td>25 × 2,5</td><td>15</td><td>25</td><td>35,5</td><td>15 × 25</td></tr>
+<tr><td>querliegend</td><td>10</td><td>35,5</td><td>25</td><td>35,5 × 2,5</td><td>15</td><td>35,5</td><td>25</td><td>15 × 35,5</td></tr>
+<tr><td>stehend</td><td>35,5</td><td>25</td><td>10\*</td><td>25 × 2,5</td><td>35,5</td><td>25</td><td>15</td><td>35,5 × 25</td></tr>
+<tr><td colspan="9">\*Bei kombiniertem, stehendem Brief-/Ablagefach 8 cm</td></tr>
 </table>
 
 Anhang 2
@@ -1293,8 +1306,8 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex2-lvlu1-3]
+…[^annex2-lvlu1-3]
 
-[^annex2-lvlu1-1]: [[AS 2003 4753](https://fedlex.data.admin.ch/eli/oc/2003/692), [2006 3](https://fedlex.data.admin.ch/eli/oc/2006/2)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 78, [2007 5649](https://fedlex.data.admin.ch/eli/oc/2007/777), [2009 1665](https://fedlex.data.admin.ch/eli/oc/2009/244), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 7.[1](https://fedlex.data.admin.ch/eli/oc/2011/1)]
+[^annex2-lvlu1-1]: [[AS 2003 4753](https://fedlex.data.admin.ch/eli/oc/2003/692); [2006 3](https://fedlex.data.admin.ch/eli/oc/2006/2), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 78; [2007 5649](https://fedlex.data.admin.ch/eli/oc/2007/777); [2009 1665](https://fedlex.data.admin.ch/eli/oc/2009/244); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 7.[1](https://fedlex.data.admin.ch/eli/oc/2011/1)]
 [^annex2-lvlu1-2]: [[AS 1998 1609](https://fedlex.data.admin.ch/eli/oc/1998/1609_1609_1609)]
 [^annex2-lvlu1-3]: Die Änderungen können unter [AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)konsultiert werden.

@@ -4,11 +4,11 @@ title: "Ordinaziun da posta dals 29 d'avust 2012 (OPO)"
 short: OPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/586"
 language: rm
-version: 2021-01-01
+version: 2021-12-01
 adopted: 2012-08-29
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2012-586-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20211201/rm/xml/fedlex-data-admin-ch-eli-cc-2012-586-20211201-rm-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20211201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OPO)
 
-dals 29 d’avust 2012 (versiun dal 1. da schaner 2021)
+dals 29 d’avust 2012 (versiun dal 1. da december 2021)
 
 Il Cussegl federal svizzer,
 
@@ -68,7 +68,7 @@ En questa ordinaziun signifitgan:
 
 **Obligaziun d’annunzia ordinaria**
 
-<sup>1</sup> Purschidras che realiseschan cun servetschs postals en l'agen num in retgav annual da la svieuta d'almain 500 000 francs, ston annunziar a la Cumissiun da la posta (PostCom) il cumenzament da lur activitads entaifer 2 mais ed inoltrar ad ella las indicaziuns e las cumprovas tenor ils artitgels 4 e 5.[^3-1]
+<sup>1</sup> Purschidras che realiseschan cun servetschs postals en l’agen num in retgav annual da la svieuta d’almain 500 000 francs, ston annunziar a la Cumissiun da la posta (PostCom) il cumenzament da lur activitads entaifer 2 mais ed inoltrar ad ella las indicaziuns e las cumprovas tenor ils artitgels 4 e 5.[^3-1]
 
 <sup>2</sup> La PostCom regla ils detagls administrativs.
 
@@ -131,7 +131,7 @@ Purschidras che realiseschan cun servetschs postals en l’agen num in retgav an
 
 - a. num, firma ed adressa;
 - b. descripziun dals servetschs;
-- c. indicaziuns tar il retgav annual da la svieuta cun servetschs postals en l'agen num.[^8-1]
+- c. indicaziuns tar il retgav annual da la svieuta cun servetschs postals en l’agen num.[^8-1]
 
 <sup>2</sup> La PostCom regla ils detagls administrativs.
 
@@ -273,7 +273,7 @@ Sche la PostCom ordinescha da concluder ina cunvegna d’access, sa cumpona l’
 
 **Dretg sin in barat d’unitads da datas**
 
-<sup>1</sup> Las purschidras che garanteschan la distribuziun a chasa han il dretg sin in barat da las datas d'adressas che derivan d'incumbensas da la clientella (unitads da datas).[^22-1]
+<sup>1</sup> Las purschidras che garanteschan la distribuziun a chasa han il dretg sin in barat da las datas d’adressas che derivan d’incumbensas da la clientella (unitads da datas).[^22-1]
 
 <sup>2</sup>
 
@@ -477,15 +477,17 @@ La Posta n’è betg obligada da distribuir a chasa spediziuns postalas tenor l�
 
 Ella n’è betg obligada da consegnar las gasettas quotidianas abunadas entaifer il termin prescrit, sche:
 
-- a. las gasettas la vegnan surdadas pli tard che quai ch’igl è fixà cun l’editur; il dumber d’exemplars surdads memia tard sto vegnir cumprovà; u
+- a.[^31a-2] las gasettas la vegnan surdadas pli tard che quai ch’igl è fixà cun l’editur; u
 - b. eveniments, per ils quals ni la Posta ni l’editur n’è responsabel, impedeschan quai.
-- [tab] <sup>3</sup> Ella sto observar a 95 pertschient las uras da consegna tenor l’alinea 1. Questa procentuala sto vegnir observada mintga onn en l’entira Svizra.
+
+<sup>3</sup> Ella sto observar a 95 pertschient las uras da consegna tenor l’alinea 1. Questa procentuala sto vegnir observada mintga onn en l’entira Svizra.
 
 <sup>4</sup> La metoda per mesirar la consegna da gasettas quotidianas abunadas sto esser renconuschida scientificamain e certifitgada d’in post spezialisà independent. Ella resguarda il stadi da la tecnica.
 
 <sup>5</sup> La PostCom approvescha la metoda ed ils instruments da mesiraziun.
 
 [^31a-1]: Integrà tras la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^31a-2]: Versiun tenor la cifra I da l’O dals 13 d’oct. 2021, en vigur dapi il 1. da dec. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 32
 
@@ -512,19 +514,19 @@ La Posta sto garantir ils temps da distribuziun da las spediziuns postalas tenor
 
 <sup>3</sup> Cun fixar las uras d’avertura s’orientescha la Posta vi dals basegns d’utilisaziun specifics da la populaziun e da l’economia locala.
 
-<sup>4</sup> La rait d'uffizis postals e d'agenturas postalas sto garantir che 90 pertschient da la populaziun permanenta d'in chantun pon cuntanscher in uffizi postal u in'agentura postala a pe u cun ils meds da transport publics entaifer 20 minutas. Sche la Posta porscha in servetsch a domicil, valan per las chasadas pertutgadas 30 minutas.[^33-1]
+<sup>4</sup> La rait d’uffizis postals e d’agenturas postalas sto garantir che 90 pertschient da la populaziun permanenta d’in chantun pon cuntanscher in uffizi postal u in’agentura postala a pe u cun ils meds da transport publics entaifer 20 minutas. Sche la Posta porscha in servetsch a domicil, valan per las chasadas pertutgadas 30 minutas.[^33-1]
 
 <sup>5</sup> Sco servetsch a domicil vala il prender en consegna spediziuns postalas tenor l’artitgel 29 alinea 1 litera a ed alinea 2 litera a tar il speditur.
 
-<sup>5bis</sup> En territoris urbans ed en aglomeraziuns tenor la statistica federala sto esser garantì almain in punct d'access occupà. Sche la limita da mintgamai 15 000 abitants u emploiads vegn surpassada, sto vegnir manà in ulteriur punct d'access occupà.[^33-2]
+<sup>5bis</sup> En territoris urbans ed en aglomeraziuns tenor la statistica federala sto esser garantì almain in punct d’access occupà. Sche la limita da mintgamai 15 000 abitants u emploiads vegn surpassada, sto vegnir manà in ulteriur punct d’access occupà.[^33-2]
 
 <sup>6</sup> La metoda per mesirar la cuntanschibladad sto esser renconuschida scientificamain e certifitgada d’ina post spezialisà independent. Ella resguarda il stadi da la tecnica.
 
 <sup>7</sup> La PostCom approva la metoda ed ils instruments da mesiraziun.
 
-<sup>8</sup> La Posta ed ils chantuns stattan regularmain en in dialog, sch'i sa tracta da planisar e da coordinar la rait d'uffizis postals e d'agenturas postalas en lur intschess. Ils chantuns garanteschan la communicaziun cun lur vischnancas.[^33-3]
+<sup>8</sup> La Posta ed ils chantuns stattan regularmain en in dialog, sch’i sa tracta da planisar e da coordinar la rait d’uffizis postals e d’agenturas postalas en lur intschess. Ils chantuns garanteschan la communicaziun cun lur vischnancas.[^33-3]
 
-<sup>9</sup> La Posta metta a disposiziun en l'internet in sistem interactiv cun funcziun da tschertga e cun ina charta che orientescha, nua ch'ils puncts d'access sa chattan.[^33-4]
+<sup>9</sup> La Posta metta a disposiziun en l’internet in sistem interactiv cun funcziun da tschertga e cun ina charta che orientescha, nua ch’ils puncts d’access sa chattan.[^33-4]
 
 [^33-1]: Versiun tenor la cifra I da l’O dals 30 da nov. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
 [^33-2]: Integrà tras la cifra I da l’O dals 30 da nov. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
@@ -535,7 +537,7 @@ La Posta sto garantir ils temps da distribuziun da las spediziuns postalas tenor
 
 **Procedura en connex cun la serrada u la dischlocaziun d’in uffizi postal u d’ina agentura postala**
 
-<sup>1</sup> Almain 6 mais avant che serrar u dischlocar in uffizi postal u in'agentura postala taidla la Posta las autoritads da las vischnancas pertutgadas. Ella tschertga ina soluziun en enclegientscha.[^34-1]
+<sup>1</sup> Almain 6 mais avant che serrar u dischlocar in uffizi postal u in’agentura postala taidla la Posta las autoritads da las vischnancas pertutgadas. Ella tschertga ina soluziun en enclegientscha.[^34-1]
 
 <sup>2</sup> La Posta infurmescha il post chantunal responsabel davart il cumenzament dals discurs e davart il resultat.
 
@@ -635,15 +637,17 @@ Per mantegnair ina pressa da commembranza e da fundaziuns multifara vegnan conce
 
 <sup>2</sup> Sch’il UFCOM approvescha la dumonda, ha il petent il dretg d’ina reducziun per la distribuziun a patir da l’emprim di dal mais che suonda il mais, en il qual el ha inoltrà la dumonda.
 
-<sup>3</sup> Tgi che ha il dretg da survegnir ina reducziun per la distribuziun, sto inoltrar al UFCOM mintga onn ina decleraziun persunala.
+<sup>3</sup> Tgi che ha il dretg da survegnir ina reducziun per la distribuziun, sto inoltrar periodicamain ina decleraziun persunala al UFCOM. Sche la decleraziun persunala na vegn betg inoltrada u è incumpletta malgrà in’admoniziun, po vegnir suspendida la reducziun per la distribuziun.[^37-1]
 
-<sup>4</sup> Il UFCOM verifitgescha las indicaziuns cun emprovas da controlla. Tgi che n’inoltrescha betg la decleraziun persunala u tgi che l’inoltrescha en moda incumpletta malgrà ch’el è vegnì admonì, po vegnir privà da la reducziun per la distribuziun.
+<sup>4</sup> Cun emprovas da controlla po il UFCOM verifitgar da tut temp, sch’’il dretg sin la reducziun per la distribuziun è avant maun.[^37-2]
 
 <sup>5</sup> Tgi che ha il dretg da survegnir ina reducziun per la distribuziun, ma n’ademplescha betg pli las cundiziuns per avair quest dretg, sto communitgar quai en scrit al UFCOM entaifer 30 dis. Il dretg da survegnir ina reducziun per la distribuziun finescha l’ultim di dal mais, en il qual las cundiziuns na vegnan betg pli ademplidas.
 
-<sup>6</sup> Dal rest valan las disposiziuns da la Lescha da subvenziuns dals 5 d’october 1990[^37-1].
+<sup>6</sup> Dal rest valan las disposiziuns da la Lescha da subvenziuns dals 5 d’october 1990[^37-3].
 
-[^37-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-1]: Versiun tenor la cifra I da l’O dals 13 d’oct. 2021, en vigur dapi il 1. da dec. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^37-2]: Versiun tenor la cifra I da l’O dals 13 d’oct. 2021, en vigur dapi il 1. da dec. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^37-3]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ### 3. part Marcas postalas spezialas cun e senza supplement sin il pretsch da vendita
 
@@ -717,17 +721,17 @@ Il provediment da basa cumpiglia almain ina purschida per ils suandants servetsc
 
 **Access als servetschs da pajament**
 
-<sup>1</sup> L'access als servetschs da pajament è adequat, sch'ils servetschs tenor l'artitgel 43 alinea 1 literas c–e èn accessibels a pe u cun ils meds da transport publics entaifer 20 minutas per 90 pertschient da la populaziun permanenta d'in chantun.[^44-1]
+<sup>1</sup> L’access als servetschs da pajament è adequat, sch’ils servetschs tenor l’artitgel 43 alinea 1 literas c–e èn accessibels a pe u cun ils meds da transport publics entaifer 20 minutas per 90 pertschient da la populaziun permanenta d’in chantun.[^44-1]
 
-<sup>1bis</sup> En intschess, nua ch'igl è avant maun mo in'agentura postala, porscha la Posta il pajament en daner blut a l'adressa da domicil dal client u en in'autra moda adattada.[^44-2]
+<sup>1bis</sup> En intschess, nua ch’igl è avant maun mo in’agentura postala, porscha la Posta il pajament en daner blut a l’adressa da domicil dal client u en in’autra moda adattada.[^44-2]
 
 <sup>2</sup> La metoda per mesirar l’access sto esser renconuschida scientificamain e certifitgada d’ina post spezialisà independent. Ella resguarda il stadi da la tecnica.
 
 <sup>3</sup> Il UFCOM approva la metoda ed ils instruments da mesiraziun.
 
-<sup>4</sup> La Posta ed ils chantuns stattan regularmain en in dialog, sch'i sa tracta da planisar e da coordinar la rait d'uffizis postals e d'agenturas postalas en lur intschess. Ils chantuns garanteschan la communicaziun cun lur vischnancas.[^44-3]
+<sup>4</sup> La Posta ed ils chantuns stattan regularmain en in dialog, sch’i sa tracta da planisar e da coordinar la rait d’uffizis postals e d’agenturas postalas en lur intschess. Ils chantuns garanteschan la communicaziun cun lur vischnancas.[^44-3]
 
-<sup>5</sup> La Posta metta a disposiziun en l'internet in sistem interactiv cun funcziun da tschertga e cun ina charta che orientescha, nua ch'ils puncts d'access sa chattan.[^44-4]
+<sup>5</sup> La Posta metta a disposiziun en l’internet in sistem interactiv cun funcziun da tschertga e cun ina charta che orientescha, nua ch’ils puncts d’access sa chattan.[^44-4]
 
 [^44-1]: Versiun tenor la cifra I da l’O dals 30 da nov. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
 [^44-2]: Integrà tras la cifra I da l’O dals 30 da nov. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4675](https://fedlex.data.admin.ch/eli/oc/2018/736)).
@@ -945,10 +949,11 @@ La Posta inoltrescha a la PostCom mintga onn fin ils 31 da mars in rapport davar
 - b. descriver il svilup dal provediment da basa cun servetschs postals;
 - c. inditgar quantas spediziuns postalas ch’èn idas a perder e las reclamaziuns concernent il provediment da basa cun servetschs postals;
 - d.[^60-1] inditgar il dumber total da chasas tenor ils artitgels 31 alineas 2 e 2<sup>bis</sup> ed 83*a*, tar las qualas i n’exista nagina obligaziun da distribuir las spediziuns postalas a chasa.
-- [tab] <sup>2</sup> Ella inoltrescha a la PostCom mintga onn fin ils 31 da mars in rapport davart l’observaziun da las prescripziuns da consegna da gasettas quotidianas abunadas tenor l’artitgel 31*a*. A chaschun da l’approvaziun da la metoda da mesiraziun tenor l’artitgel 31*a* alinea 5 fixescha la PostCom las indicaziuns che ston figurar en il rapport. La Posta sto inoltrar il rapport per l’emprima giada per l’onn da rapport 2021.[^60-2]
+
+<sup>2</sup> Ella inoltrescha a la PostCom mintga onn fin ils 31 da mars in rapport davart l’observaziun da las prescripziuns da consegna da gasettas quotidianas abunadas tenor l’artitgel 31*a*. A chaschun da l’approvaziun da la metoda da mesiraziun tenor l’artitgel 31*a* alinea 5 fixescha la PostCom las indicaziuns che ston figurar en il rapport. La Posta sto inoltrar il rapport per l’emprima giada per l’onn da rapport 2022.[^60-2]
 
 [^60-1]: Versiun tenor la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^60-2]: Integrà tras la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^60-2]: Integrà tras la cifra I da l’O dals 18 da sett. 2020 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Versiun tenor la cifra I da l’O dals 13 d’oct. 2021, en vigur dapi il 1. da dec. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 61
 
@@ -1253,6 +1258,14 @@ Per soluziuns substitutivas tenor l’artitgel 31 alinea 3 ch’èn vegnidas fix
 [^83a-1]: Integrà tras la cifra I da l’O dals 18 da sett. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 [^83a-2]: [AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)
 
+#### Art. 83b
+
+**Disposiziun transitorica da la midada dals 13 d’october 2021**[^83b-1]
+
+Per l’onn 2020 na ston las gasettas e las revistas che han il dretg da survegnir ina reducziun per la distribuziun, inoltrar nagina decleraziun persunala tenor l’artitgel 37 alinea 3.
+
+[^83b-1]: Integrà tras la cifra I da l’O dals 13 d’oct. 2021, en vigur dapi il 1. da dec. 2021 ([AS 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+
 #### Art. 84
 
 **Entrada en vigur**
@@ -1270,12 +1283,12 @@ Per il caum per las brevs e per il caum da deposit valan las suandantas dimensiu
 Indicaziuns en cm
 
 <table>
-<tr><td></td><td colspan="2">Caum per las brevs</td><td></td><td colspan="2"></td><td></td><td colspan="4">Caum da deposit</td></tr>
-<tr><td></td><td>Autezza</td><td>Ladezza</td><td colspan="2">Profunditad</td><td colspan="2">Sfessa da brevs</td><td>Autezza</td><td>Ladezza</td><td>Profunditad</td><td>Avertura</td></tr>
-<tr><td>Orizontal</td><td>10</td><td>25</td><td colspan="2">35,5</td><td colspan="2">25 × 2,5</td><td>15</td><td>25</td><td>35,5</td><td>15 × 25</td></tr>
-<tr><td>Traversal</td><td>10</td><td>35,5</td><td colspan="2">25</td><td colspan="2">35,5 × 2,5</td><td>15</td><td>35,5</td><td>25</td><td>15 × 35,5</td></tr>
-<tr><td>Vertical</td><td>35,5</td><td>25</td><td colspan="2">10\*</td><td colspan="2">25 × 2,5</td><td>35,5</td><td>25</td><td>15</td><td>35,5 × 25</td></tr>
-<tr><td colspan="11">\* 8 cm sch’i sa tracta d’in caum per las brevs/caum da deposit cumbinà da tip vertical.</td></tr>
+<tr><th></th><th colspan="4">Caum per las brevs</th><th colspan="4">Caum da deposit</th></tr>
+<tr><th></th><th>Autezza</th><th>Ladezza</th><th>Profunditad</th><th>Sfessa da brevs</th><th>Autezza</th><th>Ladezza</th><th>Profunditad</th><th>Avertura</th></tr>
+<tr><td>Orizontal</td><td>10</td><td>25</td><td>35,5</td><td>25 × 2,5</td><td>15</td><td>25</td><td>35,5</td><td>15 × 25</td></tr>
+<tr><td>Traversal</td><td>10</td><td>35,5</td><td>25</td><td>35,5 × 2,5</td><td>15</td><td>35,5</td><td>25</td><td>15 × 35,5</td></tr>
+<tr><td>Vertical</td><td>35,5</td><td>25</td><td>10\*</td><td>25 × 2,5</td><td>35,5</td><td>25</td><td>15</td><td>35,5 × 25</td></tr>
+<tr><td colspan="9">[tab] \*8 cm sch’i sa tracta d’in caum per las brevs/caum da deposit cumbinà da tip vertical.</td></tr>
 </table>
 
 Agiunta 2
@@ -1295,8 +1308,8 @@ II
 
 Las ordinaziuns qua sutvart vegnan midadas sco suonda:
 
-...[^annex2-lvlu1-3]
+…[^annex2-lvlu1-3]
 
-[^annex2-lvlu1-1]: [[AS 2003 4753](https://fedlex.data.admin.ch/eli/oc/2003/692), [2006 3](https://fedlex.data.admin.ch/eli/oc/2006/2)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II 78, [2007 5649](https://fedlex.data.admin.ch/eli/oc/2007/777), [2009 1665](https://fedlex.data.admin.ch/eli/oc/2009/244), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I 7.[1](https://fedlex.data.admin.ch/eli/oc/2011/1)]
+[^annex2-lvlu1-1]: [[AS 2003 4753](https://fedlex.data.admin.ch/eli/oc/2003/692); [2006 3](https://fedlex.data.admin.ch/eli/oc/2006/2), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II 78; [2007 5649](https://fedlex.data.admin.ch/eli/oc/2007/777); [2009 1665](https://fedlex.data.admin.ch/eli/oc/2009/244); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I 7.[1](https://fedlex.data.admin.ch/eli/oc/2011/1)]
 [^annex2-lvlu1-2]: [[AS 1998 1609](https://fedlex.data.admin.ch/eli/oc/1998/1609_1609_1609)]
 [^annex2-lvlu1-3]: Las midadas pon vegnir consultadas en la [AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586).

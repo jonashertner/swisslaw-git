@@ -4,11 +4,11 @@ title: Ordinanza del 29 agosto 2012 sulle poste (OPO)
 short: OPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/586"
 language: it
-version: 2021-01-01
+version: 2021-12-01
 adopted: 2012-08-29
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-586-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/586/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2012-586-20211201-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/586/20210101/it"
 
 (OPO)
 
-del 29 agosto 2012 (Stato 1° gennaio 2021)
+del 29 agosto 2012 (Stato 1° dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -35,13 +35,13 @@ ordina:
 
 Nella presente ordinanza si intende per:
 
-- a. *fornitore*: persona fisica o giuridica che offre ai clienti, a proprio nome e a titolo professionale, tutti i servizi postali di cui all’articolo 2 lettera a LPO, indipendentemente dal fatto che tali servizi siano forniti personalmente o per il tramite di terzi;
-- b. *subappaltatore*: persona fisica o giuridica di cui il fornitore si avvale per fornire servizi postali a proprio nome;
-- c. *Posta*: Posta Svizzera secondo l’articolo 1 della legge del 17 dicembre 2010[^1-1] sull’organizzazione della Posta (LOP);
-- d. *PostFinance*: PostFinance SA secondo l’articolo 14 capoverso 1 LOP;
-- e. *società del gruppo Posta*: PostFinance e le imprese controllate direttamente o indirettamente dalla Posta, in particolare le società di capitali;
-- f. *impianto di caselle postali*: struttura di un fornitore finalizzata alla distribuzione di invii postali, accessibile soltanto al gestore dell’installazione e ai proprietari delle caselle postali;
-- g. *costi incrementali*: costi marginali di una prestazione e costi fissi specifici a una prestazione;
+- a. *fornitore:* persona fisica o giuridica che offre ai clienti, a proprio nome e a titolo professionale, tutti i servizi postali di cui all’articolo 2 lettera a LPO, indipendentemente dal fatto che tali servizi siano forniti personalmente o per il tramite di terzi;
+- b. *subappaltatore:* persona fisica o giuridica di cui il fornitore si avvale per fornire servizi postali a proprio nome;
+- c. *Posta:* Posta Svizzera secondo l’articolo 1 della legge del 17 dicembre 2010[^1-1] sull’organizzazione della Posta (LOP);
+- d. *PostFinance:* PostFinance SA secondo l’articolo 14 capoverso 1 LOP;
+- e. *società del gruppo Posta:* PostFinance e le imprese controllate direttamente o indirettamente dalla Posta, in particolare le società di capitali;
+- f. *impianto di caselle postali:* struttura di un fornitore finalizzata alla distribuzione di invii postali, accessibile soltanto al gestore dell’installazione e ai proprietari delle caselle postali;
+- g. *costi incrementali:* costi marginali di una prestazione e costi fissi specifici a una prestazione;
 - h. *costi unici*: costi che avrebbe una prestazione se fosse l’unica ad essere offerta.
 
 [^1-1]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
@@ -476,7 +476,7 @@ La Posta non è tenuta a distribuire a domicilio gli invii postali conformemente
 
 Non è tenuta a effettuare la distribuzione entro il termine stabilito, se:
 
-- a. i giornali le vengono recapitati più tardi di quanto concordato con l’editore; il numero di esemplari recapitati in ritardo deve essere comprovato; o
+- a.[^31a-2] i giornali le vengono recapitati più tardi di quanto concordato con l’editore; o
 - b. ciò è impedito da situazioni che esulano dalla responsabilità della Posta e dell’editore.
 
 <sup>3</sup> Deve rispettare l’orario di distribuzione di cui al capoverso 1 nel 95 per cento dei casi. Questo valore percentuale deve essere rispettato su base annuale su tutto il territorio svizzero.
@@ -486,6 +486,7 @@ Non è tenuta a effettuare la distribuzione entro il termine stabilito, se:
 <sup>5</sup> La PostCom approva il metodo e gli strumenti di misurazione.
 
 [^31a-1]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^31a-2]: Nuovo testo giusta il n. I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 32
 
@@ -635,15 +636,17 @@ Allo scopo di garantire la varietà della stampa associativa e delle fondazioni 
 
 <sup>2</sup> Se l’UFCOM accoglie la richiesta, il richiedente ha diritto alla riduzione dal primo giorno del mese successivo a quello in cui ha presentato la richiesta.
 
-<sup>3</sup> I beneficiari della riduzione devono presentare ogni anno all’UFCOM un’autodichiarazione.
+<sup>3</sup> I beneficiari della riduzione devono presentare periodicamente all’UFCOM un’autodichiarazione. Se, nonostante sollecito, l’autodichiarazione non è presentata o è incompleta, la riduzione può essere sospesa.[^37-1]
 
-<sup>4</sup> L’UFCOM controlla a campione le indicazioni fornite. Se, nonostante sollecito, l’autodichiarazione non è presentata o è incompleta, la riduzione può essere sospesa.
+<sup>4</sup> L’UFCOM può controllare a campione in qualsiasi momento se i beneficiari hanno diritto alla riduzione.[^37-2]
 
 <sup>5</sup> I beneficiari della riduzione che non soddisfano più i requisiti richiesti devono comunicarlo all’UFCOM per scritto entro 30 giorni. Il diritto alla riduzione si estingue l’ultimo giorno del mese in cui i requisiti non sono più soddisfatti.
 
-<sup>6</sup> Per il resto si applicano le disposizioni della legge del 5 ottobre 1990[^37-1] sulle sovvenzioni.
+<sup>6</sup> Per il resto si applicano le disposizioni della legge del 5 ottobre 1990[^37-3] sulle sovvenzioni.
 
-[^37-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^37-1]: Nuovo testo giusta il n. I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^37-2]: Nuovo testo giusta il n. I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+[^37-3]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ### Sezione 3: Francobolli speciali con e senza supplemento sul prezzo di vendita
 
@@ -944,10 +947,10 @@ Entro il 31 marzo di ogni anno la Posta presenta alla PostCom un rapporto sul ri
 - c. indicare gli invii postali persi e i reclami relativi al servizio universale nel settore dei servizi postali;
 - d.[^60-1] indicare il numero complessivo di case di cui agli articoli 31 capoversi 2 e 2<sup>bis</sup> e 83*a* che non beneficiano della distribuzione a domicilio.
 
-<sup>2</sup> Entro il 31 marzo di ogni anno la Posta presenta alla PostCom un rapporto sul rispetto dei requisiti per la distribuzione dei quotidiani in abbonamento conformemente all’articolo 31*a*. La PostCom definisce nel quadro dell’approvazione del metodo di misurazione di cui all’articolo 31*a* capoverso 5 le informazioni che devono figurare nel rapporto. La Posta è tenuta a presentare il rapporto per la prima volta per l’esercizio 2021.[^60-2]
+<sup>2</sup> Entro il 31 marzo di ogni anno la Posta presenta alla PostCom un rapporto sul rispetto dei requisiti per la distribuzione dei quotidiani in abbonamento conformemente all’articolo 31*a*. La PostCom definisce nel quadro dell’approvazione del metodo di misurazione di cui all’articolo 31*a* capoverso 5 le informazioni che devono figurare nel rapporto. La Posta è tenuta a presentare il rapporto per la prima volta per l’esercizio 2022.[^60-2]
 
 [^60-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
-[^60-2]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
+[^60-2]: Introdotto dal n. I dell’O del 18 set. 2020 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)). Nuovo testo giusta il n. I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
 
 #### Art. 61
 
@@ -1228,7 +1231,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 **Disposizioni transitorie**
 
-<sup>1</sup> Le disposizioni della presente ordinanza si applicano alla Posta Svizzera ai sensi della legge del 30 aprile 1997[^83-1] sull’organizzazione delle poste fino alla trasformazione nella nuova forma giuridica ai sensi dell'articolo 13 capoverso 2 LOP.
+<sup>1</sup> Le disposizioni della presente ordinanza si applicano alla Posta Svizzera ai sensi della legge del 30 aprile 1997[^83-1] sull’organizzazione delle poste fino alla trasformazione nella nuova forma giuridica ai sensi dell’articolo 13 capoverso 2 LOP.
 
 <sup>2</sup> I fornitori di cui agli articoli 3 capoverso 1 e 8 capoverso 1 della presente ordinanza devono notificarsi presso la PostCom entro due mesi dall’entrata in vigore dell’ordinanza. Questa disposizione si applica anche ai fornitori che dispongono di una concessione oppure che sono notificati secondo il diritto anteriore.
 
@@ -1252,6 +1255,14 @@ Per le soluzioni alternative di cui nell’articolo 31 capoverso 3 adottate prim
 [^83a-1]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4125](https://fedlex.data.admin.ch/eli/oc/2020/752)).
 [^83a-2]: [RU 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)
 
+#### Art. 83b
+
+**Disposizione transitoria della modifica del 13 ottobre 2021**[^83b-1]
+
+Per il 2020 i beneficiari della riduzione non devono presentare l’autodichiarazione di cui all’articolo 37 capoverso 3.
+
+[^83b-1]: Introdotto dal n. I dell’O del 13 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 620](https://fedlex.data.admin.ch/eli/oc/2021/620)).
+
 #### Art. 84
 
 **Entrata in vigore**
@@ -1269,8 +1280,8 @@ Lo scomparto per le lettere e quello di deposito devono avere le seguenti dimens
 Dimensioni in cm
 
 <table>
-<tr><td></td><td colspan="4">Scomparto per le lettere</td><td colspan="4">Scomparto di deposito</td></tr>
-<tr><td></td><td>altezza</td><td>larghezza</td><td>profondità</td><td>fessura</td><td>altezza</td><td>larghezza</td><td>profondità</td><td>fessura</td></tr>
+<tr><th></th><th colspan="4">Scomparto per le lettere</th><th colspan="4">Scomparto di deposito</th></tr>
+<tr><th></th><th>altezza</th><th>larghezza</th><th>profondità</th><th>fessura</th><th>altezza</th><th>larghezza</th><th>profondità</th><th>fessura</th></tr>
 <tr><td>orizzontale</td><td>10</td><td>25</td><td>35,5</td><td>25 × 2,5</td><td>15</td><td>25</td><td>35,5</td><td>15 × 25</td></tr>
 <tr><td>trasversale</td><td>10</td><td>35,5</td><td>25</td><td>35,5 × 2,5</td><td>15</td><td>35,5</td><td>25</td><td>15 × 35,5</td></tr>
 <tr><td>verticale</td><td>35,5</td><td>25</td><td>10\*</td><td>25 × 2,5</td><td>35,5</td><td>25</td><td>15</td><td>35,5 × 25</td></tr>
@@ -1294,7 +1305,7 @@ II
 
 Le ordinanze qui appresso sono modificate come segue:
 
-...[^annex2-lvlu1-3]
+…[^annex2-lvlu1-3]
 
 [^annex2-lvlu1-1]: [[RU 2003 4753](https://fedlex.data.admin.ch/eli/oc/2003/692), [2006 3](https://fedlex.data.admin.ch/eli/oc/2006/2)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)II 78, [2007 5649](https://fedlex.data.admin.ch/eli/oc/2007/777), [2009 1665](https://fedlex.data.admin.ch/eli/oc/2009/244), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)I 7.[1](https://fedlex.data.admin.ch/eli/oc/2011/1)]
 [^annex2-lvlu1-2]: [[RU 1998 1609](https://fedlex.data.admin.ch/eli/oc/1998/1609_1609_1609)]
