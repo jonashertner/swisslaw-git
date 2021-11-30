@@ -4,11 +4,11 @@ title: Verordnung vom 16. August 2017 über die Aufsicht über die nachrichtendi
 short: VAND
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/497"
 language: de
-version: 2017-09-01
+version: 2021-12-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20170901/de/xml/fedlex-data-admin-ch-eli-cc-2017-497-20170901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20170901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2017-497-20211201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20170901/de"
 
 (VAND)
 
-vom 16. August 2017 (Stand am 1. September 2017)
+vom 16. August 2017 (Stand am 1. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -66,7 +66,9 @@ Die AB-ND reicht den Entwurf ihres Budgets jährlich via das Eidgenössische Dep
 
 <sup>1</sup> Unterlagen betreffend nachrichtendienstliche Aktivitäten zuhanden der Vorsteherin oder des Vorstehers des VBS, des Sicherheitsausschusses des Bundesrats, des Bundesrats oder der Organe der parlamentarischen Oberaufsicht nach Artikel 81 Absatz 1 NDG werden der AB-ND angeboten; diese entscheidet, welche Unterlagen ihr in welchen Abständen zugestellt werden.
 
-<sup>2</sup> Das Bundesverwaltungsgericht stellt der AB-ND den Tätigkeitsbericht nach Artikel 29 Absatz 8 NDG zu.
+<sup>2</sup> …[^5-1]
+
+[^5-1]: Aufgehoben durch Ziff. II 1 der V vom 27. Okt. 2021, mit Wirkung seit 1. Dez. 2021 ([AS 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 #### Art. 6
 

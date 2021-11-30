@@ -4,11 +4,11 @@ title: Ordinanza del 16 agosto 2017 concernente la vigilanza sulle attività inf
 short: OVAIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/497"
 language: it
-version: 2017-09-01
+version: 2021-12-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20170901/it/xml/fedlex-data-admin-ch-eli-cc-2017-497-20170901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20170901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2017-497-20211201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20170901/it"
 
 (OVAIn)
 
-del 16 agosto 2017 (Stato 1° settembre 2017)
+del 16 agosto 2017 (Stato 1° dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -66,7 +66,9 @@ L’AVI-AIn presenta ogni anno, tramite il Dipartimento federale della difesa, d
 
 <sup>1</sup> I documenti concernenti le attività informative all’attenzione del capo del DDPS, della Delegazione Sicurezza del Consiglio federale, del Consiglio federale o degli organi dell’alta vigilanza parlamentare di cui all’articolo 81 capoverso 1 LAIn sono proposti all’AVI-AIn; essa decide quali documenti e con quale frequenza le vengono trasmessi.
 
-<sup>2</sup> Il Tribunale amministrativo federale trasmette all’AVI-AIn il rapporto d’attività secondo l’articolo 29 capoverso 8 LAIn.
+<sup>2</sup> ...[^5-1]
+
+[^5-1]: Abrogato dal n. II 1 dell’O del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 #### Art. 6
 

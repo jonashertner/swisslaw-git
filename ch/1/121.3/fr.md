@@ -4,11 +4,11 @@ title: Ordonnance du 16 août 2017 sur la surveillance des activités de renseig
 short: OSRens
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/497"
 language: fr
-version: 2017-09-01
+version: 2021-12-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20170901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-497-20170901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20170901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/497/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-497-20211201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/497/20170901/fr"
 
 (OSRens)
 
-du 16 août 2017 (Etat le 1<sup>er</sup> septembre 2017)
+du 16 août 2017 (Etat le 1<sup>er</sup> décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -66,7 +66,9 @@ L’AS-Rens remet chaque année, par l’intermédiaire du Département fédéra
 
 <sup>1</sup> Les documents concernant les activités de renseignement destinés au chef du DDPS, à la Délégation du Conseil fédéral pour la sécurité, au Conseil fédéral ou aux organes de la haute surveillance parlementaire visés à l’art. 81, al. 1, LRens sont proposés à l’AS-Rens; celle-ci décide de la nature des documents qui lui sont remis et fixe le rythme de leur remise.
 
-<sup>2</sup> Le Tribunal administratif fédéral transmet à l’AS-Rens le rapport d’activité visé à l’art. 29, al. 8, LRens.
+<sup>2</sup> …[^5-1]
+
+[^5-1]: Abrogé par le ch. II 1 de l’O du 27 oct. 2021, avec effet au 1<sup>er</sup> déc. 2021 ([RO 2021 670](https://fedlex.data.admin.ch/eli/oc/2021/670)).
 
 #### Art. 6
 
