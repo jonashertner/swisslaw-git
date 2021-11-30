@@ -4,7 +4,7 @@ number: "211.51.1"
 title: "RÈGLEMENT du 17.02.1987 d'exécution de la loi d'application de la loi fédérale sur l'acquisition d'immeubles par des personnes à l'étranger (RLVLFAIE)"
 short: RLVLFAIE
 language: fr
-version: 2017-06-01
+version: 2021-12-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.51.1?id=96567ddc-4274-4c4b-b845-d49ab915a8f6"
 ---
 
@@ -84,6 +84,6 @@ Annexes [^8-1]
 
 1
 
-[211.51.1](https://prestations.vd.ch/pub/blv-publication/api/actes/96567ddc-4274-4c4b-b845-d49ab915a8f6/annexes/1?dmev=01.06.2017)
+[Liste annexe (art. 1)](https://prestations.vd.ch/pub/blv-publication/api/actes/96567ddc-4274-4c4b-b845-d49ab915a8f6/annexes/1?dmev=01.12.2021)
 
 [^8-1]: Modif. 2 du 29.03.1995: Modification Ann; entrée en vigueur au 29.03.1991 · Modif. 3 du 06.09.1995: Modification Ann; entrée en vigueur au 06.09.1995 · Modif. 4 du 12.02.1997: Modification Ann; entrée en vigueur au 12.02.1997 · Modif. 5 du 07.05.1997: Modification Ann; entrée en vigueur au 07.05.1997 · Modif. 6 du 19.11.1997: Modification Ann; entrée en vigueur au 19.11.1997 · Modif. 7 du 25.02.1998: Modification Ann; entrée en vigueur au 25.02.1998 · Modif. 8 du 05.02.2001: Modification Ann; entrée en vigueur au 05.02.2001 · Modif. 9 du 11.10.2002: Modification Ann; entrée en vigueur au 11.10.2002 · Modif. 11 du 30.09.2009: Modification Ann; entrée en vigueur au 01.11.2009 · Modif. 12 du 01.06.2011: Modification Ann; entrée en vigueur au 01.06.2011 · Modif. 13 du 18.02.2015: Introduction Ann; entrée en vigueur au 01.03.2015 · Modif. 15 du 01.03.2017: Modification Ann; entrée en vigueur au 01.06.2017 · Modif. 16 du 08.12.2021: Modification Annexes, Ann. 1; entrée en vigueur au 01.12.2021
