@@ -3,20 +3,19 @@ canton: OW
 number: "141.113"
 title: Ausführungsbestimmungen über die Arbeitszeit bei der kantonalen Verwaltung
 language: de
-version: 2021-03-01
-valid_until: 2021-11-30
-version_adopted: 2021-02-26
+version: 2021-12-01
+version_adopted: 2021-10-19
 adopted: 2008-08-19
 in_force: 2008-10-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/141.113"
-pdf: "http://gdb.ow.ch/api/de/versions/1506/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1536/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Arbeitszeit bei der kantonalen Verwaltung
 
-vom 19.08.2008 (Stand 01.03.2021)
+vom 19.08.2008 (Stand 01.12.2021)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -128,7 +127,7 @@ beschliesst:
 
 <sup>1</sup> Sind Mitarbeitende am Erscheinen zur Arbeit verhindert, so haben sie dies unter Angabe des Grundes, wenn möglich im Voraus, der vorgesetzten Person zu melden.
 
-<sup>2</sup> Absenzen infolge Krankheit oder Unfall, die mehr als drei Arbeitstage dauern, sind durch ein ärztliches Zeugnis zu belegen.
+<sup>2</sup> …
 
 #### Art. 8
 
@@ -274,6 +273,8 @@ Geändert durch:
 
 \- Nachtrag vom 19. Februar 2019, in Kraft seit 1. Juli 2019 (OGS 2019, 20),
 
-\- Nachtrag vom 26. Februar (richtig Januar) 2021, in Kraft seit 1. März 2021 (OGS 2021, 10)
+\- Nachtrag vom 26. Februar (richtig Januar) 2021, in Kraft seit 1. März 2021 (OGS 2021, 10),
+
+\- Nachtrag vom 19. Oktober 2021, in Kraft seit 1. Dezember 2021 (OGS 2021, 33)
 
 OGS 2008, 65 und 69
