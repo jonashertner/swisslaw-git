@@ -4,13 +4,13 @@ number: "152.11"
 title: Verordnung über die Organisation des Regierungsrates
 short: Organisationsverordnung RR; OrV RR
 language: de
-version: 2020-11-01
-valid_until: 2021-11-30
-version_adopted: 2020-09-02
+version: 2021-12-01
+valid_until: 2023-02-28
+version_adopted: 2021-10-20
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2002/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2392/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2002/pdf_file"
 
 (Organisationsverordnung RR; OrV RR)
 
-vom 18.10.1995 (Stand 01.11.2020)
+vom 18.10.1995 (Stand 01.12.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -47,20 +47,41 @@ beschliesst:
 
 <sup>3</sup> Jedes Mitglied des Regierungsrates kann bei der Regierungspräsidentin oder beim Regierungspräsidenten die Einberufung einer Sitzung verlangen.
 
+## 1a Verhandlungen in Form von Telefon- oder Videokonferenzen oder mit anderen Mitteln
+
+#### Art. 2a
+
+<sup>1</sup> Wenn die Umstände es erfordern, finden die Sitzungen des Regierungsrates in Form von Telefon- oder Videokonferenzen oder mit anderen Mitteln wie schriftlich in Form eines Zirkulationsverfahrens (Art. 4 Abs. 4 OrG[^2a-1]) statt.
+
+<sup>2</sup> Die Mitglieder des Regierungsrates, die Staatsschreiberin oder der Staatsschreiber sowie die oder der Kommunikationsbeauftragte des Regierungsrates nutzen nur die Informatik- und Telekommunikationsmittel, die
+
+- a den Kantonsangestellten vom Kanton zur Verfügung gestellt werden, oder
+- b von den zuständigen Fachbehörden gemäss der Verordnung vom 24. Januar 2018 über die Informations- und Telekommunikationstechnik der Kantonsverwaltung (ICTV)[^2a-2] für die dienstliche Nutzung zugelassen sind.
+
+<sup>3</sup> Sie sind dafür verantwortlich, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung der Sitzung ist unzulässig.
+
+[^2a-1]: BSG [152.01](https://www.belex.sites.be.ch/data/152.01/de)
+[^2a-2]: BSG [152.042](https://www.belex.sites.be.ch/data/152.042/de)
+
 ## 2 Regierungspräsidentin oder Regierungspräsident
 
 #### Art. 3
 
 <sup>1</sup> Die Regierungspräsidentin oder der Regierungspräsident sorgt für beförderliche Vorlage und Erledigung der Geschäfte sowie für deren zeitliche und sachliche Koordination.
 
-<sup>2</sup> Die Präsidentin oder der Präsident regelt die folgenden formellen Geschäfte in alleiniger Kompetenz:
+<sup>1a</sup> Sie oder er legt die Verhandlungsart gemäss Artikel 4 Absatz 4 OrG[^3-1] in Absprache mit der Staatsschreiberin oder dem Staatsschreiber fest.
+
+<sup>1b</sup> Bei Präsidialentscheiden gemäss Artikel 15 Absatz 1 OrG[^3-2] hat die antragstellende Direktion beziehungsweise Staatskanzlei zuhanden der Regierungspräsidentin oder des Regierungspräsidenten zu begründen, weshalb die Durchführung einer Verhandlung nicht möglich ist.
+
+<sup>2</sup> Die Regierungspräsidentin oder der Regierungspräsident regelt die folgenden formellen Geschäfte in alleiniger Kompetenz:
 
 - a Feststellung der Nichtergreifung eines Referendums,
 - b Beförderung von Angehörigen des Offizierskorps der Armee,
 - c Annahme der Rücktritte von Kantonsvertretungen aus Kommissionen,
-- d Beschlüsse betreffend Dienstwohnungen (Art. 57 Abs. 2 der Verordnung vom 12. Mai 1993 über das öffentliche Dienstrecht[^3-1]).
+- d Beschlüsse betreffend Dienstwohnungen.
 
-[^3-1]: Aufgehoben durch Personalgesetz vom 16. 9. 2004, BSG 153.01; jetzt Personalverordnung vom 18. 5. 2005; BSG 153.011.1
+[^3-1]: BSG [152.01](https://www.belex.sites.be.ch/data/152.01/de)
+[^3-2]: BSG [152.01](https://www.belex.sites.be.ch/data/152.01/de)
 
 ## 3 Beratungen
 
@@ -98,11 +119,11 @@ beschliesst:
 
 **Mitberichte**
 
-<sup>1</sup> Das Ergebnis des Mitberichtsverfahrens ist dem Regierungsrat in einem Begleitschreiben zur Traktandierung der Vorlage zur Kenntnis zu bringen.
+<sup>1</sup> Das Ergebnis des Mitberichtsverfahrens ist dem Regierungsrat bei der Traktandierung des Geschäfts im Begleitblatt und allenfalls in einem Begleitschreiben, einer Auswertungstabelle oder durch andere geeignete Dokumente zur Kenntnis zu bringen.
 
-<sup>2</sup> Mitberichte, in welchen in wesentlichen Fragen abweichende Auffassungen vertreten werden, sind dem Dossier beizulegen.
+<sup>2</sup> Alle Mitberichte und allfällige Mitberichtsantworten sind dem Geschäft beizulegen.
 
-<sup>3</sup> Die Mitberichte müssen jedem Mitglied des Regierungsrates sowie der Staatsschreiberin oder dem Staatsschreiber zugänglich sein.
+<sup>3</sup> …
 
 #### Art. 9
 
@@ -159,6 +180,10 @@ beschliesst:
 
 <sup>1</sup> Die Abstimmungen erfolgen offen und durch Handzeichen. Stimmenthaltung ist nicht zulässig.
 
+<sup>2</sup> Bei den Verhandlungsarten gemäss Artikel 4 Absatz 4 OrG[^13-1] können die Abstimmungen auf andere geeignete Weise als durch Handzeichen erfolgen.
+
+[^13-1]: BSG [152.01](https://www.belex.sites.be.ch/data/152.01/de)
+
 #### Art. 14
 
 **Unbestrittene Geschäfte**
@@ -182,6 +207,10 @@ beschliesst:
 <sup>1</sup> Die Ernennungen erfolgen offen und durch Handzeichen.
 
 <sup>2</sup> Auf Verlangen eines Mitglieds des Regierungsrates wird die Ernennung geheim mit Wahlzetteln durchgeführt.
+
+<sup>3</sup> Bei den Verhandlungsarten gemäss Artikel 4 Absatz 4 OrG[^16-1] können die Ernennungen auf andere geeignete Weise als durch Handzeichen oder mit Wahlzetteln erfolgen.
+
+[^16-1]: BSG [152.01](https://www.belex.sites.be.ch/data/152.01/de)
 
 #### Art. 17
 

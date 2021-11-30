@@ -4,13 +4,13 @@ number: "152.11"
 title: "Ordonnance sur l'organisation du Conseil-exécutif"
 short: "Ordonnance d'organisation CE; OO CE"
 language: fr
-version: 2020-11-01
-valid_until: 2021-11-30
-version_adopted: 2020-09-02
+version: 2021-12-01
+valid_until: 2023-02-28
+version_adopted: 2021-10-20
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2002/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2392/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2002/pdf_file"
 
 (Ordonnance d'organisation CE; OO CE)
 
-du 18.10.1995 (état au 01.11.2020)
+du 18.10.1995 (état au 01.12.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -47,20 +47,38 @@ arrête:
 
 <sup>3</sup> Chaque membre du Conseil-exécutif peut demander au président ou à la présidente du gouvernement la convocation d'une séance.
 
+## 1a Délibérations par téléphone, visioconférence ou par d'autres moyens
+
+#### Art. 2a
+
+<sup>1</sup> Lorsque les circonstances l'exigent, le Conseil-exécutif peut délibérer des affaires par conférence téléphonique, par visioconférence ou par d'autres moyens tels que par écrit, à savoir par voie de circulation (art. 4, al. 4 LOCA[^2a-1]).
+
+<sup>2</sup> Les membres du Conseil-exécutif, le chancelier ou la chancelière ainsi que le chef ou la cheffe de la communication du Conseil-exécutif utilisent uniquement les outils informatiques et les moyens de communication
+
+- a qui ont été mis à disposition du personnel cantonal par le canton ou
+- b dont l'utilisation à des fins professionnelles est autorisée par les autorités compétentes conformément à l'ordonnance du 24 janvier 2018 sur les technologies de l'information et de la télécommunication de l'administration cantonale (OTIC)[^2a-2].
+
+<sup>3</sup> Ils garantissent que le contenu n'est pas divulgué à des tiers. L'enregistrement des séances est interdit.
+
+[^2a-1]: RSB [152.01](https://www.belex.sites.be.ch/data/152.01/fr)
+[^2a-2]: RSB [152.042](https://www.belex.sites.be.ch/data/152.042/fr)
+
 ## 2 Président ou présidente du gouvernement
 
 #### Art. 3
 
 <sup>1</sup> Le président ou la présidente veille à ce que les affaires soient présentées et traitées d'une manière expéditive et à ce qu'elles soient coordonnées quant aux délais et à leur contenu.
 
+<sup>1a</sup> Il ou elle fixe le mode de délibération au sens de l'article 4, alinéa 4 LOCA d'entente avec le chancelier ou la chancelière.
+
+<sup>1b</sup> Dans le cas de décisions présidentielles au sens de l'article 15, alinéa 1 LOCA, la Direction dont émane la proposition ou la Chancellerie d'Etat doit expliquer au président ou à la présidente pourquoi la délibération ne peut pas avoir lieu.
+
 <sup>2</sup> Le président ou la présidente a la compétence exclusive de régler les affaires suivantes, de caractère formel:
 
 - a constatation de la non-utilisation des délais référendaires,
 - b promotion d'officiers ou d'officières de l'armée,
 - c acceptation de démissions présentées par les représentants ou les représentantes de l'Etat dans des commissions,
-- d décisions concernant les logements de service (art. 57, 2e al. de l'ordonnance du 12 mai 1993 sur le personnel[^3-1]).
-
-[^3-1]: Abrogée par L du 16. 9. 2004 sur le personnel (LPers); RSB 153.01; actuellement O du 18. 5. 2005 sur le personnel (OPers); RSB 153.011.1
+- d décisions concernant les logements de service.
 
 ## 3 Délibérations
 
@@ -98,11 +116,11 @@ arrête:
 
 **Corapports**
 
-<sup>1</sup> Le résultat de la procédure de corapport doit être porté à la connaissance du Conseil-exécutif dans la lettre concernant l’inscription du projet à l’ordre du jour.
+<sup>1</sup> Le résultat de la procédure de corapport doit être porté à la connaissance du Conseil-exécutif dans la fiche signalétique de l'affaire à l’ordre du jour et le cas échéant dans une lettre d'accompagnement, un tableau d'évaluation ou dans d'autres documents idoines.
 
-<sup>2</sup> Les corapports qui expriment une divergence dans des affaires importantes doivent être versés au dossier.
+<sup>2</sup> Tous les corapports et éventuelles réponses aux corapports doivent compléter l'affaire.
 
-<sup>3</sup> Chaque membre du Conseil-exécutif ainsi que le chancelier ou la chancelière doivent avoir accès à tous les corapports.
+<sup>3</sup> …
 
 #### Art. 9
 
@@ -159,6 +177,8 @@ arrête:
 
 <sup>1</sup> Les votations se font à main levée. L'abstention n'est pas admise.
 
+<sup>2</sup> Pour les modes de délibération au sens de l'article 4, alinéa 4 LOCA, les votations peuvent se faire par un autre moyen adapté, autrement qu'à main levée.
+
 #### Art. 14
 
 **Affaires non contestées**
@@ -182,6 +202,8 @@ arrête:
 <sup>1</sup> En règle générale, les nominations se font à main levée.
 
 <sup>2</sup> Elles se font au scrutin secret, si un membre du gouvernement le demande.
+
+<sup>3</sup> Pour les modes de délibération au sens de l'article 4, alinéa 4 LOCA, les nominations peuvent se faire par un autre moyen adapté, autrement qu'à main levée ou avec un bulletin de vote.
 
 #### Art. 17
 
