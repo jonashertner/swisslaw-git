@@ -3,20 +3,20 @@ canton: OW
 number: "651.215"
 title: Ausführungsbestimmungen über die Fischerei im Lungerersee
 language: de
-version: 2017-01-01
-valid_until: 2021-11-30
-version_adopted: 2016-12-13
+version: 2021-12-01
+valid_until: 2025-12-31
+version_adopted: 2021-10-19
 adopted: 2010-06-22
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/651.215"
-pdf: "http://gdb.ow.ch/api/de/versions/1207/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1567/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Fischerei im Lungerersee
 
-vom 22.06.2010 (Stand 01.01.2017)
+vom 22.06.2010 (Stand 01.12.2021)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -48,7 +48,7 @@ beschliesst:
 
 **Sachkunde-Nachweis**
 
-<sup>1</sup> Der Sachkunde-Nachweis nach Art. 5 Abs. 2 der Fischereiverordnung[^3-1] ist erforderlich für den Erwerb von Patenten mit einer Gültigkeitsdauer von über einem Monat.
+<sup>1</sup> Für den Erwerb von Patenten ist ein Sachkunde-Nachweis nach Art. 5 Abs. 2 der Fischereiverordnung[^3-1] erforderlich. Ausnahmen sind möglich für geführte Gruppen und Vereine, sofern die Aufsicht durch eine sachkundige Person gewährleistet ist.
 
 <sup>2</sup> Der Sachkunde-Nachweis wird durch das Schweizer Sportfischerbrevet, den schweizerischen Sachkunde-Nachweis oder einen gleichwertigen Nachweis erbracht. Über die Gleichwertigkeit entscheidet das Amt für Landwirtschaft und Umwelt.
 
@@ -58,7 +58,7 @@ beschliesst:
 
 #### Art. 4
 
-<sup>1</sup> Die Einwohnergemeinde Lungern ist berechtigt, Tages-, Wochen-, Monats- und Jahrespatente abzugeben. Sie legt die Patentarten und die Patentgebühren für die Ausübung der Angelfischerei am Lungerersee fest. Es gilt der Gebührenrahmen gemäss Art. 15 Abs. 2 der Fischereiverordnung[^4-1]. Die Patentgebühren sind durch das Amt für Landwirtschaft und Umwelt genehmigen zu lassen. Pro Person können für die gleiche Patentdauer mehrere Patente der gleichen Art abgegeben werden.
+<sup>1</sup> Die Einwohnergemeinde Lungern ist berechtigt, Tages-, Wochen-, Monats- und Jahrespatente sowie Gästekarten abzugeben. Sie legt die Patentarten und die Gebühren für die Ausübung der Angelfischerei am Lungerersee fest. Es gilt der Gebührenrahmen gemäss Art. 15 Abs. 2 der Fischereiverordnung[^4-1]. Die Gebühren sind durch das Amt für Landwirtschaft und Umwelt genehmigen zu lassen. Pro Person wird für den gleichen Tag nur ein Patent abgegeben.
 
 <sup>2</sup> Kinder und Jugendliche mit gesetzlichem Wohnsitz in Obwalden, welche einen Sachkundenachweis nach Art. 3 Abs. 2 dieser Ausführungsbestimmungen besitzen, können ein kostenloses Jahrespatent beantragen. Dieses Patent berechtigt nur zum Fischen vom Ufer aus mit einer Angelrute. Dabei darf nur ein einfacher Angelhaken ohne Widerhaken mit natürlichem Köder verwendet werden. Köderfische dürfen nicht verwendet werden.
 
@@ -67,6 +67,14 @@ beschliesst:
 <sup>4</sup> Kinder unter 10 Jahren dürfen auch ohne Patent fischen, wenn sie von einer erwachsenen Person begleitet und beaufsichtigt werden, welche ein eigenes Patent für den Lungerersee besitzt. Pro erwachsene Person dürfen maximal drei Kinder ohne Patent fischen, wobei die erwachsene Person und die Kinder nur mit je einer Rute fischen dürfen. Die Fänge sind in der Statistik der erwachsenen Person einzutragen.
 
 [^4-1]: GDB [651.21](http://gdb.ow.ch/data/651.21/de)
+
+#### Art. 4a
+
+<sup>1</sup> Eine erwachsene patentinhabende Person darf bis zwei Gästekarten lösen. Das Mindestalter für Gäste beträgt 10 Jahre.
+
+<sup>2</sup> Gäste sind berechtigt, in Begleitung der patentinhabenden Person zu fischen. Sie unterstehen deren Verantwortung und Kontrolle.
+
+<sup>3</sup> Gäste dürfen nur mit einer Angelrute fischen. Bei der Benutzung eines Bootes müssen die patentinhabende Person und die Gäste vom selben Boot aus fischen. Bei der Uferfischerei müssen sie in der üblichen Wurfweite zueinander fischen.
 
 ## 3. Fangausübung
 
@@ -82,7 +90,7 @@ beschliesst:
 
 <sup>4</sup> Das Angeln mit der Absicht, die Fische wieder frei zu lassen (catch and release), ist verboten.
 
-<sup>5</sup> Die Fische müssen möglichst schonend gefangen werden. Zum Landen der angehakten Fische ist in der Regel ein Feumer (Kescher) zu verwenden.
+<sup>5</sup> Die Fische müssen möglichst schonend gefangen werden. Zum Landen der angehakten Fische ist ein Feumer (Kescher) zu verwenden.
 
 #### Art. 6
 
@@ -146,7 +154,7 @@ beschliesst:
 
 **Zahlenmässige Fangbeschränkung**
 
-<sup>1</sup> Die Einwohnergemeinde Lungern kann für die verschiedenen Patente und Fischarten eine zahlenmässige Fangbeschränkung festlegen. Fangbeschränkungen sind durch das Amt für Landwirtschaft und Umwelt genehmigen zu lassen.
+<sup>1</sup> Die Einwohnergemeinde Lungern kann für die verschiedenen Patente, Gästekarten und Fischarten eine zahlenmässige Fangbeschränkung festlegen. Fangbeschränkungen sind durch das Amt für Landwirtschaft und Umwelt genehmigen zu lassen.
 
 #### Art. 11
 
@@ -185,7 +193,7 @@ beschliesst:
 
 <sup>2</sup> Für die Fangstatistik wird eine Kaution erhoben. Die Kaution wird bei fristgerechter Abgabe der Statistik zurückerstattet. Die Rückerstattung verfällt ein halbes Jahr nach Ablauf der Gültigkeit des entsprechenden Patents.
 
-<sup>3</sup> Die Fänge von Forellen müssen sofort nach dem Fang mit Kugelschreiber oder Filzstift unabänderlich in die Statistik eingetragen werden. Die Fänge von anderen Fischarten sind spätestensunmittelbar nach Beendigung der Tagesfischerei einzutragen.
+<sup>3</sup> Die behändigten Fische müssen sofort nach dem Fang mit Kugelschreiber oder Filzstift unabänderlich in die Statistik eingetragen werden, das heisst, bevor weitergefischt wird und bevor der Fangort verlassen wird.
 
 #### Art. 13a
 
@@ -213,6 +221,8 @@ Geändert durch:
 
 \- Nachtrag zu den AB über die Fischerei vom 4. November 2014, in Kraft seit 1. Januar 2015 (OGS 2014, 49),
 
-\- Nachtrag vom 13. Dezember 2016, vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 26. Januar 2017, in Kraft seit 1. Januar 2017 (OGS 2016, 83, OGS 2017, 6)
+\- Nachtrag vom 13. Dezember 2016, vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 26. Januar 2017, in Kraft seit 1. Januar 2017 (OGS 2016, 83, OGS 2017, 6),
+
+\- Nachtrag vom 19. Oktober 2021, vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 23. November 2021, in Kraft seit 1. Dezember 2021 (OGS 2021, 35, OGS 2021, 56),
 
 OGS 2010, 39
