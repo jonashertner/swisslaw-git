@@ -4,13 +4,13 @@ number: "961.12"
 title: Verordnung über die Massnahmen zur Bekämpfung der Covid-19-Epidemie 2
 short: Covid-19 Vo BL 2
 language: de
-version: 2021-11-29
-valid_until: 2021-11-30
-version_adopted: 2021-11-25
+version: 2021-12-01
+valid_until: 2021-12-07
+version_adopted: 2021-11-30
 adopted: 2021-11-18
 in_force: 2021-11-19
 url: "https://bl.clex.ch/app/de/texts_of_law/961.12"
-pdf: "https://bl.clex.ch/api/de/versions/3143/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3144/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3143/pdf_file"
 
 (Covid-19 Vo BL 2)
 
-Vom 18.11.2021 (Stand 29.11.2021)
+Vom 18.11.2021 (Stand 01.12.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -95,6 +95,28 @@ beschliesst:
 <sup>3</sup> Weitere Ausnahmen können in kantonalen Schutzkonzepten geregelt werden.
 
 <sup>4</sup> Für Schülerinnen und Schüler ab der 1. Primarschulklasse gilt eine Maskenempfehlung.
+
+#### § 3b
+
+**Maskenpflicht an weiteren Anlässen und in weiteren Einrichtungen**
+
+<sup>1</sup> An folgenden Anlässen und in folgenden Einrichtungen sind Personen verpflichtet, eine Gesichtsmaske zu tragen:
+
+- a. in Innenräumen von Veranstaltungen und an Fach- und Publikumsmessen;
+- b. in Innenräumen von Restaurationsbetrieben, einschliesslich von Bar- und Clubbetrieben sowie in Diskotheken und in Tanzlokalen;
+- c. in Innenräumen von Einrichtungen und Betrieben in den Bereichen Kultur, Unterhaltung, Freizeit und Sport.
+
+<sup>2</sup> Von der Maskenpflicht gemäss Abs. 1 ausgenommen sind:
+
+- a. Kinder bis zum Alter von 12 Jahren;
+- b. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können.
+- c. Personen an privaten Veranstaltungen gemäss Art. 14a Abs. 3 der Covid-19-Verordnung besondere Lage[^3b-1];
+- d. Personen während der Ausübung sportlicher oder kultureller Aktivitäten;
+- e. Personen während der Konsumation von Speisen und Getränken;
+- f. Mitarbeiterinnen und Mitarbeiter ohne Kontakt zu Gästen oder Besuchern;
+- g. auftretende Personen, namentlich Rednerinnen und Redner.
+
+[^3b-1]: [SR 818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
 
 #### § 4
 
