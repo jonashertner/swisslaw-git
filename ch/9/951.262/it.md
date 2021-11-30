@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sui provvedimenti per i casi di rigore co
 short: OPCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: it
-version: 2021-10-01
+version: 2021-12-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211001/it"
 
 (Ordinanza COVID-19 casi di rigore)
 
-del 25 novembre 2020 (Stato 1° ottobre 2021) (Stato 1° ottobre 2021)
+del 25 novembre 2020 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -33,7 +33,7 @@ ordina:
 
 <sup>1</sup>
 
-In virtù dell’articolo 12 della legge COVID-19 e nei limiti del credito d’impegno stanziato dall’Assemblea federale, la Confederazione partecipa ai costi e alle perdite che un Cantone subisce a causa dei provvedimenti da esso adottati per i casi di rigore concernenti le imprese se:[^1-1]
+In virtù dell’articolo 12 della legge COVID-19 del 25 settembre 2020 e nei limiti del credito d’impegno stanziato dall’Assemblea federale, la Confederazione partecipa ai costi e alle perdite che un Cantone subisce a causa dei provvedimenti da esso adottati per i casi di rigore concernenti le imprese se:[^1-1]
 
 - a. le imprese sostenute dai Cantoni soddisfano i requisiti di cui alla sezione 2;
 - b. l’impostazione di questi provvedimenti soddisfa i requisiti di cui alla sezione 3;
@@ -71,7 +71,7 @@ Le imprese i cui settori di attività sono chiaramente delimitabili mediante una
 
 **Data della costituzione e cifra d’affari**[^3-1]
 
-<sup>1</sup>
+<sup>1</sup> 3 Le indicazioni sulla cifra d’affari secondo la presente ordinanza si riferiscono alla chiusura singola dell’impresa richiedente.
 
 L’impresa ha provato al Cantone che:
 
@@ -79,9 +79,7 @@ L’impresa ha provato al Cantone che:
 - b. negli anni 2018 e 2019 ha conseguito una cifra d’affari media di almeno 50 000 franchi;
 - c. sostiene i propri costi salariali prevalentemente in Svizzera.
 
-<sup>2</sup>
-
-Si considera come cifra d’affari media annuale di cui al capoverso 1 lettera b:
+2 Si considera come cifra d’affari media annuale di cui al capoverso 1 lettera b:
 
 - a.
 
@@ -91,8 +89,6 @@ Si considera come cifra d’affari media annuale di cui al capoverso 1 lettera b
   - 2\. la cifra d’affari media che è stata conseguita tra la costituzione e il 31 dicembre 2020, calcolata su 12 mesi;
 
 - b. per un’impresa che è stata costituita tra il 1° marzo 2020 e il 30 settembre 2020: la cifra d’affari media che è stata conseguita tra la costituzione e il 31 dicembre 2020, calcolata su 12 mesi.
-
-<sup>3</sup> Le indicazioni sulla cifra d’affari secondo la presente ordinanza si riferiscono alla chiusura singola dell’impresa richiedente.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
@@ -264,7 +260,7 @@ Per le imprese di cui al capoverso 1 i contributi non rimborsabili ammontano al 
 
 **Base determinante per la partecipazione condizionata agli utili per le imprese con una cifra d’affari annuale superiore a 5 milioni di franchi**[^8e-1]
 
-Per il calcolo della partecipazione condizionata agli utili secondo l’articolo 12 capoverso 1<sup>septies</sup> della legge COVID-19 è determinante l’utile imponibile annuale del 2021 prima della compensazione delle perdite ai sensi degli articoli 58–67 della legge federale del 14 dicembre 1990[^8e-2] sull’imposta federale diretta. Dall’utile imponibile annuale può essere dedotta soltanto una perdita subita nell’esercizio 2020 rilevante ai fini fiscali.
+Per il calcolo della partecipazione condizionata agli utili secondo l’articolo 12 capoverso 1<sup>septies</sup> della legge COVID-19 del 25 settembre 2020 è determinante l’utile imponibile annuale del 2021 prima della compensazione delle perdite ai sensi degli articoli 58–67 della legge federale del 14 dicembre 1990[^8e-2] sull’imposta federale diretta. Dall’utile imponibile annuale può essere dedotta soltanto una perdita subita nell’esercizio 2020 rilevante ai fini fiscali.
 
 [^8e-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 [^8e-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
@@ -355,7 +351,7 @@ La Confederazione partecipa ai costi e alle perdite che un Cantone subisce a cau
 
 **Cifra d’affari rilevante ai fini della determinazione della partecipazione finanziaria della Confederazione**[^14-1]
 
-La cifra d’affari rilevante ai fini della determinazione della partecipazione finanziaria della Confederazione secondo l’articolo 12 capoverso 1<sup>quater</sup> della legge COVID-19 è calcolata conformemente all’articolo 3.
+La cifra d’affari rilevante ai fini della determinazione della partecipazione finanziaria della Confederazione secondo l’articolo 12 capoverso 1<sup>quater</sup> della legge COVID-19 del 25 settembre 2020 è calcolata conformemente all’articolo 3.
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
@@ -363,7 +359,7 @@ La cifra d’affari rilevante ai fini della determinazione della partecipazione 
 
 **Contributi supplementari della Confederazione**[^15-1]
 
-<sup>1</sup> Dei contributi supplementari della Confederazione di cui all’articolo 12 capoverso 2 della legge COVID-19 del 25 settembre 2020, al massimo 300 milioni di franchi sono ripartiti fra i Cantoni. Le quote dei Cantoni sono calcolate in ragione del 60 per cento secondo il prodotto interno lordo cantonale del 2017, del 30 per cento secondo la popolazione residente nel 2019 e del 10 per cento secondo la media di pernottamenti negli anni 2017, 2018 e 2019.
+<sup>1</sup> Dei contributi supplementari della Confederazione di cui all’articolo 12 capoverso 2 della legge COVID-19 del 25 settembre 2020, al massimo 500 milioni di franchi sono ripartiti fra i Cantoni. Le quote dei Cantoni sono calcolate in ragione del 60 per cento secondo il prodotto interno lordo cantonale del 2017, del 30 per cento secondo la popolazione residente nel 2019 e del 10 per cento secondo la media di pernottamenti negli anni 2017, 2018 e 2019.[^15-2]
 
 <sup>2</sup> La ripartizione percentuale dei contributi supplementari fra i Cantoni è arrotondata a due cifre decimali. Le quote dei Cantoni sono riportate nell’allegato.
 
@@ -374,6 +370,7 @@ La cifra d’affari rilevante ai fini della determinazione della partecipazione 
 <sup>5</sup> A tal fine possono derogare alle prescrizioni degli articoli 4 capoverso 1 lettera c e 8–8*d* della presente ordinanza; se un’impresa ha già percepito un aiuto finanziario settoriale COVID-19, questo importo deve essere dedotto dal sostegno complementare di cui al presente articolo. Le altre disposizioni dell’ordinanza rimangono applicabili.
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2021, in vigore dal 19 giu. 2021 ([RU 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+[^15-2]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° dic. 2021 ([RU 2021 762](https://fedlex.data.admin.ch/eli/oc/2021/762)).
 
 #### Art. 16
 

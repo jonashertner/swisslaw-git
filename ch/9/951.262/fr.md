@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 concernant les mesures pour les cas de ri
 short: OMCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: fr
-version: 2021-10-01
+version: 2021-12-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211001/fr"
 
 (Ordonnance COVID-19 cas de rigueur)
 
-du 25 novembre 2020 (Etat le 1<sup>er</sup> octobre 2021)
+du 25 novembre 2020 (Etat le 1<sup>er</sup> décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -362,7 +362,7 @@ Le chiffre d’affaires pertinent pour déterminer la participation financière 
 
 **Contributions supplémentaires de la Confédération**[^15-1]
 
-<sup>1</sup> Sur les contributions supplémentaires de la Confédération prévues à l’art. 12, al. 2, de la loi COVID-19 du 25 septembre 2020, un montant maximal de 300 millions de francs est réparti entre les cantons. La part de chaque canton est calculée, à hauteur de 60 %, en fonction du produit intérieur brut du canton en 2017, à hauteur de 30 %, en fonction de la population résidante en 2019 et, à hauteur de 10 %, en fonction du nombre moyen de nuitées enregistrées en 2017, 2018 et 2019.
+<sup>1</sup> Sur les contributions supplémentaires de la Confédération prévues à l’art. 12, al. 2, de la loi COVID-19 du 25 septembre 2020, un montant maximal de 500 millions de francs est réparti entre les cantons. La part de chaque canton est calculée, à hauteur de 60 %, en fonction du produit intérieur brut du canton en 2017, à hauteur de 30 %, en fonction de la population résidante en 2019 et, à hauteur de 10 %, en fonction du nombre moyen de nuitées enregistrées en 2017, 2018 et 2019.[^15-2]
 
 <sup>2</sup> La répartition des contributions supplémentaires entre les cantons est effectuée sur la base de pourcentages arrondis à deux décimales. La part de chaque canton est indiquée dans l’annexe.
 
@@ -373,6 +373,7 @@ Le chiffre d’affaires pertinent pour déterminer la participation financière 
 <sup>5</sup> Ce faisant, ils peuvent déroger aux prescriptions des art. 4, al. 1, let. c, et 8 à 8*d* de la présente ordonnance; si une entreprise a déjà obtenu une aide financière au titre du COVID-19 destinée spécifiquement à son domaine, le montant correspondant doit être déduit du soutien complémentaire visé par le présent article. Les autres dispositions de la présente ordonnance restent applicables.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2021, en vigueur depuis le 19 juin 2021 ([RO 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 762](https://fedlex.data.admin.ch/eli/oc/2021/762)).
 
 #### Art. 16
 

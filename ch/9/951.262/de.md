@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unterne
 short: HFMV 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: de
-version: 2021-10-01
+version: 2021-12-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211001/de"
 
 (Covid-19-Härtefallverordnung)
 
-vom 25. November 2020 (Stand am 1. Oktober 2021)
+vom 25. November 2020 (Stand am 1. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -362,7 +362,7 @@ Der Umsatz, der für die Bestimmung des Finanzierungsanteils des Bundes nach Art
 
 **Zusatzbeiträge des Bundes**[^15-1]
 
-<sup>1</sup> Von den Zusatzbeiträgen des Bundes nach Artikel 12 Absatz 2 des Covid-19-Gesetzes vom 25. September 2020 werden höchstens 300 Millionen Franken auf die Kantone aufgeteilt. Die Anteile der Kantone bemessen sich zu 60 Prozent nach dem kantonalen Bruttoinlandprodukt im Jahr 2017, zu 30 Prozent nach der Wohnbevölkerung im Jahr 2019 und zu 10 Prozent nach der durchschnittlichen Anzahl Logiernächte in den Jahren 2017, 2018 und 2019.
+<sup>1</sup> Von den Zusatzbeiträgen des Bundes nach Artikel 12 Absatz 2 des Covid-19-Gesetzes vom 25. September 2020 werden höchstens 500 Millionen Franken auf die Kantone aufgeteilt. Die Anteile der Kantone bemessen sich zu 60 Prozent nach dem kantonalen Bruttoinlandprodukt im Jahr 2017, zu 30 Prozent nach der Wohnbevölkerung im Jahr 2019 und zu 10 Prozent nach der durchschnittlichen Anzahl Logiernächte in den Jahren 2017, 2018 und 2019.[^15-2]
 
 <sup>2</sup> Die prozentuale Aufteilung der Zusatzbeiträge auf die einzelnen Kantone wird auf zwei Stellen nach dem Komma gerundet. Die Anteile der Kantone sind im Anhang aufgeführt.
 
@@ -373,6 +373,7 @@ Der Umsatz, der für die Bestimmung des Finanzierungsanteils des Bundes nach Art
 <sup>5</sup> Sie können dabei von den Vorgaben nach den Artikeln 4 Absatz 1 Buchstabe c sowie 8–8*d* dieser Verordnung abweichen; hat ein Unternehmen bereits eine branchenspezifische Covid-19-Finanzhilfe erhalten, so ist dieser Betrag von der ergänzenden Unterstützung nach diesem Artikel abzuziehen. Die übrigen Bestimmungen der Verordnung bleiben anwendbar.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 18. Juni 2021, in Kraft seit 19. Juni 2021 ([AS 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+[^15-2]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 762](https://fedlex.data.admin.ch/eli/oc/2021/762)).
 
 #### Art. 16
 
