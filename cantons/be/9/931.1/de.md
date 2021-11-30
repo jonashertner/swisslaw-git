@@ -4,13 +4,12 @@ number: "931.1"
 title: Gesetz über das Bergregal und die Sondernutzung des öffentlichen Untergrunds
 short: BRSG
 language: de
-version: 2020-08-01
-valid_until: 2021-11-30
-version_adopted: 2019-11-26
+version: 2021-12-01
+version_adopted: 2021-03-08
 adopted: 2003-06-18
 in_force: 2004-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/931.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1899/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2406/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1899/pdf_file"
 
 (BRSG)
 
-vom 18.06.2003 (Stand 01.08.2020)
+vom 18.06.2003 (Stand 01.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -159,7 +158,7 @@ beschliesst:
 
 **Verfahren und Voraussetzungen**
 
-<sup>1</sup> Das Gesuch um Erteilung einer Schürfbewilligung ist im Amtsblatt zu veröffentlichen mit dem Hinweis, dass weitere Interessierte für dasselbe Schürfgebiet innerhalb von drei Monaten ebenfalls Gesuche einreichen können.
+<sup>1</sup> Das Gesuch um Erteilung einer Schürfbewilligung ist im kantonalen Amtsblatt zu veröffentlichen mit dem Hinweis, dass weitere Interessierte für dasselbe Schürfgebiet innerhalb von drei Monaten ebenfalls Gesuche einreichen können.
 
 <sup>2</sup> Die Gesuchstellenden haben sich über die erforderlichen Kenntnisse und die Finanzierung auszuweisen.
 

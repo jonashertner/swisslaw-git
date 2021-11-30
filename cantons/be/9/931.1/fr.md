@@ -4,13 +4,12 @@ number: "931.1"
 title: "Loi sur la régale des mines et l'usage privatif du sous-sol public *"
 short: LRMU
 language: fr
-version: 2020-08-01
-valid_until: 2021-11-30
-version_adopted: 2019-11-26
+version: 2021-12-01
+version_adopted: 2021-03-08
 adopted: 2003-06-18
 in_force: 2004-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/931.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1899/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2406/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1899/pdf_file"
 
 (LRMU)
 
-du 18.06.2003 (état au 01.08.2020)
+du 18.06.2003 (état au 01.12.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -159,7 +158,7 @@ arrête:
 
 **Procédure et conditions**
 
-<sup>1</sup> La demande de permis de prospection doit être publiée dans la Feuille officielle du Jura bernois et indiquer la possibilité, pour toute personne intéressée par le même territoire, de soumettre une demande dans un délai de trois mois.
+<sup>1</sup> La demande de permis de prospection doit être publiée dans la feuille officielle cantonale et indiquer la possibilité, pour toute personne intéressée par le même territoire, de soumettre une demande dans un délai de trois mois.
 
 <sup>2</sup> Les requérants doivent justifier des compétences techniques et des ressources financières nécessaires.
 
