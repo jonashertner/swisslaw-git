@@ -3,7 +3,7 @@ canton: VD
 number: "818.00.300621.1"
 title: "ARRÊTÉ du 30.06.2021 d'application de l'ordonnance fédérale sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière"
 language: fr
-version: 2021-11-09
+version: 2021-12-02
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/818.00.300621.1?id=4b3d512e-7299-4947-aef8-f39291ae7fc4"
 ---
 
@@ -23,9 +23,9 @@ arrête
 
 **Objet [^t-1]**
 
-<sup>1</sup> Le présent arrêté contient les dispositions d'application de l'ordonnance fédérale du 23 juin 2021 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière).
+<sup>1</sup> Le présent arrêté contient les dispositions d'application de l'ordonnance fédérale du 23 juin 2021 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière) et les mesures cantonales complémentaires prises en vertu de l'article 23 de ladite ordonnance.
 
-[^t-1]: Modif. 3 du 01.12.2021: Modification Al. 1; entrée en vigueur au 02.12.2021; Introduction Art. 2a; entrée en vigueur au 02.12.2021; Introduction Art. 2a, tArt; entrée en vigueur au 02.12.2021; Introduction Art. 2a, Al. 1; entrée en vigueur au 02.12.2021; Introduction Art. 2a, Al. 1, a-c; entrée en vigueur au 02.12.2021; Introduction Art. 2a, Al. 1, d-e; entrée en vigueur au 04.12.2021; Introduction Art. 2a, Al. 2-3; entrée en vigueur au 04.12.2021; Introduction Art. 2b; entrée en vigueur au 04.12.2021; Introduction Art. 5b; entrée en vigueur au 02.12.2021
+[^t-1]: Modif. 3 du 01.12.2021: Modification Al. 1; entrée en vigueur au 02.12.2021 · Modif. 3 du 01.12.2021: Introduction Art. 2a, Al. 1, d-e; entrée en vigueur au 04.12.2021; Introduction Art. 2a, Al. 2-3; entrée en vigueur au 04.12.2021; Introduction Art. 2b; entrée en vigueur au 04.12.2021
 
 #### Art. 2
 
@@ -40,6 +40,18 @@ arrête
 <sup>4</sup> La protection civile est mise sur pied dans son ensemble. Les membres appartenant au système de santé du canton peuvent être dispensés. Le chef de l'EMCC peut prévoir d'autres catégories de dispenses.
 
 [^2-1]: Loi du 23.11.2004 sur la protection de la population ([BLV 510.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/510.11?id=daef13a5-078d-4ee6-a464-4998d97b530a))
+
+#### Art. 2a
+
+**Port du masque facial [^2-2]**
+
+<sup>1</sup> Doivent porter un masque facial :
+
+- a. les personnes assistant à des manifestations publiques, sportives ou culturelles se déroulant à l'intérieur, quel que soit le nombre des participants; l'obligation s'étend également au personnel dédié à l'organisation;
+- b. les personnes fréquentant les espaces intérieurs des installations et les établissements accessibles au public des domaines de la culture, du divertissement, des loisirs et du sport; l'obligation ne s'étend pas aux personnes pratiquant des activités sportives ou culturelles en ces lieux;
+- c. les personnes assistant à des services religieux, y compris les funérailles et les mariages, qui se déroulent à l'intérieur;
+
+[^2-2]: Modif. 3 du 01.12.2021: Introduction tArt; entrée en vigueur au 02.12.2021; Introduction Al. 1; entrée en vigueur au 02.12.2021; Introduction Art. 2a; entrée en vigueur au 02.12.2021 · Modif. 3 du 01.12.2021: Introduction Al. 1, d-e; entrée en vigueur au 04.12.2021; Introduction Al. 2-3; entrée en vigueur au 04.12.2021; Introduction Art. 2b; entrée en vigueur au 04.12.2021 · Modif. 4 du 06.12.2021: Abrogation Al. 1, a-c; entrée en vigueur au 06.12.2021; Introduction Art. 5c; entrée en vigueur au 06.12.2021
 
 #### Art. 3
 
@@ -76,6 +88,16 @@ arrête
 <sup>2</sup> Leur installation n'est pas soumise à autorisation communale. Elle doit être annoncée à la municipalité au moyen d'un formulaire mis à disposition par le service en charge de l'énergie.
 
 [^5-1]: Modif. 1 du 13.10.2021: Introduction tArt; entrée en vigueur au 13.10.2021; Introduction Al. 1-2; entrée en vigueur au 13.10.2021; Introduction Art. 5a; entrée en vigueur au 13.10.2021
+
+#### Art. 5b
+
+**Mesures liées à l'activité professionnelle [^5a-1]**
+
+<sup>1</sup> Le télétravail est recommandé.
+
+<sup>2</sup> Dans les espaces clos, y compris les véhicules, où se tiennent plus d'une personne, toutes les personnes doivent porter un masque facial, dans la mesure où cela est compatible avec l'exercice de l'activité.
+
+[^5a-1]: Modif. 3 du 01.12.2021: Introduction Art. 5b; entrée en vigueur au 02.12.2021 · Modif. 3 du 01.12.2021: Introduction Art. 2a, Al. 1, d-e; entrée en vigueur au 04.12.2021; Introduction Art. 2a, Al. 2-3; entrée en vigueur au 04.12.2021; Introduction Art. 2b; entrée en vigueur au 04.12.2021 · Modif. 4 du 06.12.2021: Abrogation Al. 1-2; entrée en vigueur au 06.12.2021; Introduction Art. 5c; entrée en vigueur au 06.12.2021
 
 #### Art. 6
 
