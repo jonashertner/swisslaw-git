@@ -4,13 +4,13 @@ number: "120.001"
 title: Standeskommissionsbeschluss betreffend die Massnahmen zur Bekämpfung der Corona-Pandemie
 short: StKB COVID-19
 language: de
-version: 2020-06-19
-corrected: 2020-06-29
-version_adopted: 2020-06-09
+version: 2021-12-03
+valid_until: 2021-12-10
+version_adopted: 2021-11-30
 adopted: 2020-04-14
 in_force: 2020-04-14
 url: "https://ai.clex.ch/app/de/texts_of_law/120.001"
-pdf: "https://ai.clex.ch/api/de/versions/1826/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1971/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1826/pdf_file"
 
 (StKB COVID-19)
 
-vom 14.04.2020 (Stand 19.06.2020)
+vom 14.04.2020 (Stand 03.12.2021)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -37,31 +37,11 @@ beschliesst:
 
 #### Art. 2
 
-**Behörden**
-
-<sup>1</sup> …
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-<sup>4</sup> Führt die Verschiebung der Landsgemeinde und von Gemeindeversammlungen dazu, dass Mandatsträgerinnen und -träger in ihren Ämtern nicht im ordentlichen Turnus wiedergewählt oder für sie nicht im ordentlichen Turnus Nachfolgen gewählt werden können, verlängert sich die Amtszeit der bisherigen Mandatsträgerinnen und -träger bis zur Wieder- oder Nachfolgewahl.
+**…**
 
 #### Art. 3
 
-**Gemeindeversammlungen**
-
-<sup>1</sup> Die Landsgemeinde findet am 23. August 2020 statt.
-
-<sup>2</sup> Die Bezirksgemeinden sind im Zeitraum vom 4. bis 6. September 2020 durchzuführen.
-
-<sup>3</sup> Kirch- und Schulgemeinden sowie die Dunke sind durchzuführen, sobald die Massnahmen des Bundes zur Bekämpfung der Corona-Pandemie dies zulassen. Fällt dieser Zeitpunkt in die Schulsommerferien, kann die Versammlung nach diesen durchgeführt werden.
-
-<sup>4</sup> Die Frist für die Genehmigung der Jahresrechnungen und für die Steuerfussfestlegung für das Jahr 2020 wird bis Ende September 2020 erstreckt.
-
-<sup>5</sup> Das Verschieben von Gemeindeversammlungen führt nicht zu einem Neuaufleben von reglementarischen Fristen für das Stellen schriftlicher Anträge und von Rücktrittsfristen nach Art. 6 Verordnung über die Landsgemeinde und die Gemeindeversammlungen vom 1. Dezember 2014 (VLGV).
-
-<sup>6</sup> Die für die Gemeindeversammlungen verantwortlichen Behörden können für die verschobene Gemeindeversammlung eine neue Geschäftsordnung erstellen.
+**…**
 
 #### Art. 4
 
@@ -76,6 +56,36 @@ beschliesst:
 <sup>2</sup> …
 
 <sup>3</sup> Gesetzlich oder reglementarisch vorgesehene Auflagen können elektronisch vorgenommen werden. Ist eine unmittelbare Einsicht aus sachlichen Gründen notwendig, ist diese unter Einhaltung der Hygiene- und Abstandsvorschriften des Bundes zu gewähren.
+
+#### Art. 5a
+
+**Behörden**
+
+<sup>1</sup> Beschlüsse der Standeskommission, der Bezirks-, Schul- und Kirchenräte, der Baukommission Inneres Land AI und der Feuerschaukommission können nicht nur an Sitzungen, sondern auch mittels Telefon- und Videokonferenzen sowie mit Mailaustausch gefasst werden.
+
+<sup>2</sup> Die für Beschlüsse dieser Behörden bestehenden gesetzlichen oder reglementarischen Mindestbeteiligungsanforderungen gelten bei dringlichen und unaufschiebbaren Geschäften nicht.
+
+<sup>3</sup> Ist in einem solchen Geschäft ein Behördenentscheid nicht rechtzeitig möglich, entscheidet die Vorsitzende oder der Vorsitzende der Behörde und im Verhinderungsfall deren Stellvertretungen.
+
+#### Art. 5b
+
+**Schutzkonzepte und Bewilligungen gemäss COVID-19-Verordnung besondere Lage**
+
+<sup>1</sup> Für die Prüfung von Schutzkonzepten im Wirkungsbereich des Arbeitsinspektorats ist das Arbeitsinspektorat zuständig, ansonsten das Gesundheits- und Sozialdepartement.
+
+<sup>2</sup> Für die Kontrolle von Schutzkonzepten ist das Arbeitsinspektorat zuständig.
+
+<sup>3</sup> …
+
+<sup>4</sup> Über Erleichterungen von Bundesmassnahmen entscheidet die Standeskommission.
+
+#### Art. 5c
+
+**Pflichten bei positivem Testergebnis**
+
+<sup>1</sup> Wer positiv auf eine Infektion mi dem Coronavirus getestet wird, benachrichtigt unverzüglich alle Personen, mit welchen in den letzten 48 Stunden vor dem Test oder vor dem Auftreten der ersten Symptome ein enger Kontakt im Sinne der COVID-19-Verordnung besondere Lage bestand, und begibt sich umgehend in Isolation.
+
+<sup>2</sup> Die benachrichtigte Person begibt sich unverzüglich in Quarantäne und lässt sich testen, wenn Symptome auftreten.
 
 #### Art. 6
 
@@ -103,11 +113,89 @@ beschliesst:
 
 <sup>1</sup> Zur Abfederung der durch die Bekämpfung der Corona-Pandemie im Kulturbereich entstehenden wirtschaftlichen Auswirkungen steht ein Betrag von Fr. 189'000.-- aus dem Swisslos-Fonds zur Verfügung.
 
-<sup>2</sup> Die Leistung von Unterstützungsbeiträgen richtet sich nach der im Rahmen der COVID-Verordnung Kultur vom 20. März 2020 abgeschlossenen Leistungsvereinbarung mit dem Bund.
+<sup>1a</sup> Für die Zeit vom 1. November 2020 bis zum 31. Dezember 2021 steht ein weiterer Betrag aus dem Swisslos-Fonds von Fr. 174'500.-- zur Verfügung.
+
+<sup>2</sup> Die Leistung von Unterstützungsbeiträgen richtet sich nach den mit dem Bund abgeschlossenen Leistungsvereinbarungen.
+
+#### Art. 9a
+
+**…**
+
+#### Art. 9b
+
+**…**
+
+#### Art. 9c
+
+**…**
+
+#### Art. 9d
+
+**…**
+
+#### Art. 9e
+
+**…**
 
 #### Art. 10
 
 **…**
+
+#### Art. 10a
+
+**Maskenpflicht an Veranstaltungen**
+
+<sup>1</sup> Jede Person trägt während einer Veranstaltung, an Märkten sowie an Fach- und Publikumsmessen eine Gesichtsmaske; diese Pflicht gilt unabhängig davon, ob eine Zertifikatspflicht besteht.
+
+<sup>2</sup> Die Begriffe Veranstaltung, Märkte, Fach- und Publikumsmessen entsprechen jenen gemäss der COVID-19-Verordnung besondere Lage.
+
+<sup>3</sup> Von der Pflicht nach Abs. 1 sind ausgenommen:
+
+- a) Kinder vor ihrem 12. Geburtstag;
+- b) Personen mit einem Nachweis, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können;
+- c) Auftretende Personen, namentlich Rednerinnen und Redner;
+- d) Personen, die sportliche oder kulturelle Aktivitäten gemäss Art. 20 COVID-19-Verordnung besondere Lage ausüben;
+- e) Gäste für die Zeit, während welcher sie Speisen und Getränke konsumieren;
+- f) Mitarbeitende ohne Kontakt zu Gästen oder Besucherinnen und Besuchern;
+- g) Personen an privaten Veranstaltungen.
+
+#### Art. 10b
+
+**Maskenpflicht im öffentlicher Verkehr und in Fussgängerbereichen**
+
+<sup>1</sup> In den Warte- und Zugangsbereichen des öffentlichen Verkehrs sowie in belebten Fussgängerbereichen von Dorfkernen gilt eine Maskenpflicht.
+
+<sup>2</sup> Von der Pflicht nach Abs. 1 sind ausgenommen:
+
+- a) Kinder vor ihrem 12. Geburtstag;
+- b) Personen mit einem Nachweis, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können.
+
+#### Art. 10c
+
+**Besuche von Gesundheits- und Sozialinstitutionen**
+
+<sup>1</sup> Personen ab 16 Jahren benötigen für Besuche in folgenden Institutionen ein gültiges Zertifikat gemäss Art. 3 der COVID-19-Verordnung besondere Lage:
+
+- a) Kantonales Gesundheitszentrum Appenzell;
+- b) Klinik im Hof, Weissbad;
+- c) Alters- und Pflegeheime;
+- d) Wohnheime für Menschen mit Beeinträchtigung.
+
+<sup>2</sup> Die Institutionen sorgen für eine wirksame Kontrolle der Zertifikate.
+
+<sup>3</sup> Die Institutionen können in Ausnahmefällen vom Erfordernis eines Zertifikats absehen oder Ersatzmassnahmen anordnen, namentlich in Krisensituationen oder wenn anders die notwendige Begleitung oder Betreuung eines Kindes oder einer besonders schutzbedürftigen Person nicht möglich ist.
+
+<sup>4</sup> Für Besucherinnen und Besucher der Institutionen gilt im Innen- und Aussenbereich eine Maskenpflicht, ausser während einer Konsumation von Speisen und Getränken; befreit von dieser Pflicht sind Kinder bis zum 12. Geburtstag und Personen mit einem Nachweis, dass sie aus besonderen Gründen keine Gesichtsmaske tragen können.
+
+#### Art. 10d
+
+**Mitarbeitende von Gesundheits- und Sozialinstitutionen**
+
+<sup>1</sup> Mitarbeitende von Institutionen nach Art. 10c Abs. 1 sowie von Spitex-Organisationen müssen zur Ausübung ihrer beruflichen Tätigkeit den Nachweis erbringen, dass sie geimpft, genesen oder negativ getestet sind.
+
+<sup>2</sup> Der Testnachweis kann mittels gepoolter Speichel-PCR-Tests im Betrieb erbracht werden.
+
+<sup>3</sup> Bei beruflichen Tätigkeiten mit direktem Kontakt zu anderen Personen tragen die Mitarbeitenden eine Maske.
 
 #### Art. 11
 
