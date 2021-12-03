@@ -3,7 +3,7 @@ canton: VD
 number: "818.00.300621.1"
 title: "ARRÊTÉ du 30.06.2021 d'application de l'ordonnance fédérale sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière"
 language: fr
-version: 2021-12-02
+version: 2021-12-04
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/818.00.300621.1?id=4b3d512e-7299-4947-aef8-f39291ae7fc4"
 ---
 
@@ -15,17 +15,20 @@ du 30 juin 2021
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
-vu l'ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière
+vu l'ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière [^ingress-1]
 
 arrête
+
+[^ingress-1]: [Ordonnance du 23.06.2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière, RS, 818.101.26](https://www.fedlex.admin.ch/eli/cc/2021/379/fr)
 
 #### Art. 1
 
 **Objet [^t-1]**
 
-<sup>1</sup> Le présent arrêté contient les dispositions d'application de l'ordonnance fédérale du 23 juin 2021 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière) et les mesures cantonales complémentaires prises en vertu de l'article 23 de ladite ordonnance.
+<sup>1</sup> Le présent arrêté contient les dispositions d'application de l'ordonnance fédérale du 23 juin 2021 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière)[^1-1] et les mesures cantonales complémentaires prises en vertu de l'article 23 de ladite ordonnance.
 
-[^t-1]: Modif. 3 du 01.12.2021: Modification Al. 1; entrée en vigueur au 02.12.2021 · Modif. 3 du 01.12.2021: Introduction Art. 2a, Al. 1, d-e; entrée en vigueur au 04.12.2021; Introduction Art. 2a, Al. 2-3; entrée en vigueur au 04.12.2021; Introduction Art. 2b; entrée en vigueur au 04.12.2021
+[^t-1]: Modif. 3 du 01.12.2021: Modification Al. 1; entrée en vigueur au 02.12.2021
+[^1-1]: [Ordonnance du 23.06.2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière, RS, 818.101.26](https://www.fedlex.admin.ch/eli/cc/2021/379/fr)
 
 #### Art. 2
 
@@ -50,26 +53,48 @@ arrête
 - a. les personnes assistant à des manifestations publiques, sportives ou culturelles se déroulant à l'intérieur, quel que soit le nombre des participants; l'obligation s'étend également au personnel dédié à l'organisation;
 - b. les personnes fréquentant les espaces intérieurs des installations et les établissements accessibles au public des domaines de la culture, du divertissement, des loisirs et du sport; l'obligation ne s'étend pas aux personnes pratiquant des activités sportives ou culturelles en ces lieux;
 - c. les personnes assistant à des services religieux, y compris les funérailles et les mariages, qui se déroulent à l'intérieur;
+- d. les personnes fréquentant des foires et marchés, y compris lorsqu'elles ne font que les traverser; font exception les lieux extérieurs dédiés à la consommation qui ne sont accessibles qu'aux titulaires de certificats;
+- e. les personnes traversant des zones à forte affluence dans lesquelles l'obligation de port du masque est instituée et signalée par les autorités communales.
 
-[^2-2]: Modif. 3 du 01.12.2021: Introduction tArt; entrée en vigueur au 02.12.2021; Introduction Al. 1; entrée en vigueur au 02.12.2021; Introduction Art. 2a; entrée en vigueur au 02.12.2021 · Modif. 3 du 01.12.2021: Introduction Al. 1, d-e; entrée en vigueur au 04.12.2021; Introduction Al. 2-3; entrée en vigueur au 04.12.2021; Introduction Art. 2b; entrée en vigueur au 04.12.2021 · Modif. 4 du 06.12.2021: Abrogation Al. 1, a-c; entrée en vigueur au 06.12.2021; Introduction Art. 5c; entrée en vigueur au 06.12.2021
+<sup>2</sup> L'obligation prévue à l'alinéa 1er prévaut y compris pour les manifestations réservées aux personnes disposant d'un certificat.
+
+<sup>3</sup> L'article 6, alinéa 2, lettres a à f de l'ordonnance COVID-19 Situation particulière est applicable à l'exemption du port du masque.
+
+[^2-2]: Modif. 3 du 01.12.2021: Introduction tArt; entrée en vigueur au 02.12.2021; Introduction Al. 1; entrée en vigueur au 02.12.2021; Introduction Al. 1, a-c; entrée en vigueur au 02.12.2021; Introduction Al. 1, d-e; entrée en vigueur au 04.12.2021; Introduction Al. 2-3; entrée en vigueur au 04.12.2021; Introduction Art. 2a; entrée en vigueur au 02.12.2021 · Modif. 4 du 06.12.2021: Abrogation Al. 1, a-c; entrée en vigueur au 06.12.2021; Introduction Art. 5c; entrée en vigueur au 06.12.2021
+
+#### Art. 2b
+
+**Règles d'hygiène [^2a-1]**
+
+<sup>1</sup> Les gérants des établissements accessibles au public et des commerces mettent des solutions hydro-alcooliques à disposition de leur clientèle.
+
+<sup>2</sup> Les gérants des grandes surfaces commerciales contrôlent l'application des règles d'hygiène par leur clientèle.
+
+<sup>3</sup> Lorsque, dans un service religieux, de la nourriture ou des boissons sont partagées, chaque personne doit disposer d'un contenant qui lui est propre.
+
+[^2a-1]: Modif. 3 du 01.12.2021: Introduction Art. 2b; entrée en vigueur au 04.12.2021
 
 #### Art. 3
 
 **Exemption du port du masque dans les institutions médico-sociales**
 
-<sup>1</sup> Les institutions médico-sociales qui envisagent une exemption à l'obligation de porter le masque au sens de l'article 6, alinéa 5 de l'ordonnance COVID-19 situation particulière doivent consulter préalablement l'office du Médecin cantonal.
+<sup>1</sup> Les institutions médico-sociales qui envisagent une exemption à l'obligation de porter le masque au sens de l'article 6, alinéa 5 de l'ordonnance COVID-19 situation particulière[^3-1] doivent consulter préalablement l'office du Médecin cantonal.
+
+[^3-1]: [Ordonnance du 23.06.2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière, RS, 818.101.26](https://www.fedlex.admin.ch/eli/cc/2021/379/fr)
 
 #### Art. 4
 
 **Quarantaine-contact**
 
-<sup>1</sup> L'office du Médecin cantonal est l'autorité cantonale compétente en matière de quarantaine-contact et d'isolement au sens des articles 7 à 9 de l'ordonnance COVID-19 situation particulière.
+<sup>1</sup> L'office du Médecin cantonal est l'autorité cantonale compétente en matière de quarantaine-contact et d'isolement au sens des articles 7 à 9 de l'ordonnance COVID-19 situation particulière[^4-1].
+
+[^4-1]: [Ordonnance du 23.06.2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière, RS, 818.101.26](https://www.fedlex.admin.ch/eli/cc/2021/379/fr)
 
 #### Art. 5
 
 **Grandes manifestations**
 
-<sup>1</sup> Le Chef de l'EMCC est l'autorité compétente pour autoriser les grandes manifestations au sens de l'ordonnance COVID-19 situation particulière. Il peut déléguer cette compétence à une commune.
+<sup>1</sup> Le Chef de l'EMCC est l'autorité compétente pour autoriser les grandes manifestations au sens de l'ordonnance COVID-19 situation particulière[^5-1]. Il peut déléguer cette compétence à une commune.
 
 <sup>2</sup> Lorsque l'autorité compétente entend refuser une autorisation ou la révoquer, elle consulte préalablement la cheffe du Département de la santé et de l'action sociale et le chef de département concerné.
 
@@ -77,17 +102,20 @@ arrête
 
 <sup>4</sup> Dans sa décision, le Chef de l'EMCC peut déléguer aux communes et aux autres entités cantonales le recouvrement des émoluments fixés par cette dernière.
 
-<sup>5</sup> La présente disposition est également applicable aux foires spécialisées au sens de l'article 18 de l'ordonnance COVID-19 situation particulière.
+<sup>5</sup> La présente disposition est également applicable aux foires spécialisées au sens de l'article 18 de l'ordonnance COVID-19 situation particulière[^5-2].
+
+[^5-1]: [Ordonnance du 23.06.2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière, RS, 818.101.26](https://www.fedlex.admin.ch/eli/cc/2021/379/fr)
+[^5-2]: [Ordonnance du 23.06.2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière, RS, 818.101.26](https://www.fedlex.admin.ch/eli/cc/2021/379/fr)
 
 #### Art. 5a
 
-**Restaurants, bars, cafés et buvettes [^5-1]**
+**Restaurants, bars, cafés et buvettes [^5-3]**
 
 <sup>1</sup> En dérogation à l'article 51 du règlement d'application de la loi du 16 mai 2006 sur l'énergie, les chauffages électriques en plein air sont admis à titre exceptionnel sur les terrasses des restaurants, bars, cafés et buvettes jusqu'au 30 avril 2022.
 
 <sup>2</sup> Leur installation n'est pas soumise à autorisation communale. Elle doit être annoncée à la municipalité au moyen d'un formulaire mis à disposition par le service en charge de l'énergie.
 
-[^5-1]: Modif. 1 du 13.10.2021: Introduction tArt; entrée en vigueur au 13.10.2021; Introduction Al. 1-2; entrée en vigueur au 13.10.2021; Introduction Art. 5a; entrée en vigueur au 13.10.2021
+[^5-3]: Modif. 1 du 13.10.2021: Introduction tArt; entrée en vigueur au 13.10.2021; Introduction Al. 1-2; entrée en vigueur au 13.10.2021; Introduction Art. 5a; entrée en vigueur au 13.10.2021
 
 #### Art. 5b
 
@@ -97,7 +125,7 @@ arrête
 
 <sup>2</sup> Dans les espaces clos, y compris les véhicules, où se tiennent plus d'une personne, toutes les personnes doivent porter un masque facial, dans la mesure où cela est compatible avec l'exercice de l'activité.
 
-[^5a-1]: Modif. 3 du 01.12.2021: Introduction Art. 5b; entrée en vigueur au 02.12.2021 · Modif. 3 du 01.12.2021: Introduction Art. 2a, Al. 1, d-e; entrée en vigueur au 04.12.2021; Introduction Art. 2a, Al. 2-3; entrée en vigueur au 04.12.2021; Introduction Art. 2b; entrée en vigueur au 04.12.2021 · Modif. 4 du 06.12.2021: Abrogation Al. 1-2; entrée en vigueur au 06.12.2021; Introduction Art. 5c; entrée en vigueur au 06.12.2021
+[^5a-1]: Modif. 3 du 01.12.2021: Introduction Art. 5b; entrée en vigueur au 02.12.2021 · Modif. 4 du 06.12.2021: Abrogation Al. 1-2; entrée en vigueur au 06.12.2021; Introduction Art. 5c; entrée en vigueur au 06.12.2021
 
 #### Art. 6
 
@@ -105,7 +133,9 @@ arrête
 
 <sup>1</sup> Le Département de la santé et l'action sociale est l'autorité compétente pour octroyer les allégements et pour ordonner des mesures supplémentaires au sens des articles 22 et 23 de l'Ordonnance COVID-19 situation particulière.
 
-<sup>2</sup> En matière de formation, ces compétences, ainsi que celles laissées aux cantons par l'article 2, alinéa 2 de l'ordonnance COVID-19 situation particulière, sont exercées conjointement avec le Département de la formation, de la jeunesse et de la culture.
+<sup>2</sup> En matière de formation, ces compétences, ainsi que celles laissées aux cantons par l'article 2, alinéa 2 de l'ordonnance COVID-19 situation particulière[^6-1], sont exercées conjointement avec le Département de la formation, de la jeunesse et de la culture.
+
+[^6-1]: [Ordonnance du 23.06.2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière, RS, 818.101.26](https://www.fedlex.admin.ch/eli/cc/2021/379/fr)
 
 #### Art. 7
 
@@ -127,17 +157,21 @@ arrête
 
 **Surveillance et sanctions**
 
-<sup>1</sup> Sous la supervision de l'EMCC, les services de l'Etat et les communes, ainsi que les polices cantonale et communales effectuent les contrôles requis pour assurer la bonne exécution de l'ordonnance COVID-19 situation particulière et du présent arrêté.
+<sup>1</sup> Sous la supervision de l'EMCC, les services de l'Etat et les communes, ainsi que les polices cantonale et communales effectuent les contrôles requis pour assurer la bonne exécution de l'ordonnance COVID-19 situation particulière[^8-1] et du présent arrêté.
 
 <sup>2</sup> Les communes et associations de communes sont tenues de fournir à cet effet tout le personnel nécessaire à l'EMCC et à la Police cantonale du commerce, sur réquisition de ces derniers.
 
 <sup>3</sup> Si l'EMCC constate qu'il n'existe pas de plan de protection suffisant ou que ce plan n'est pas mis en oeuvre, ou que le présent arrêté ou ses dispositions d'application sont violés, il prend des mesures appropriées. Il peut fermer des installations et des établissements et interdire ou faire cesser des manifestations.
 
+[^8-1]: [Ordonnance du 23.06.2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière, RS, 818.101.26](https://www.fedlex.admin.ch/eli/cc/2021/379/fr)
+
 #### Art. 9
 
 **Autorités pénales**
 
-<sup>1</sup> Les préfets et le Ministère public sont compétents pour prononcer les amendes au sens de l'article 28 de l'ordonnance COVID-19 situation particulière.
+<sup>1</sup> Les préfets et le Ministère public sont compétents pour prononcer les amendes au sens de l'article 28 de l'ordonnance COVID-19 situation particulière[^9-1].
+
+[^9-1]: [Ordonnance du 23.06.2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière, RS, 818.101.26](https://www.fedlex.admin.ch/eli/cc/2021/379/fr)
 
 #### Art. 10
 
