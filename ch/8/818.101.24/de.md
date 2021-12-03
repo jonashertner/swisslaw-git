@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-12-01
+version: 2021-12-04
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211204/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211204-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211201/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 1. Dezember 2021)
+vom 19. Juni 2020 (Stand am 4. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -81,7 +81,7 @@ Als Risikoländer oder ‑regionen gelten Länder oder Regionen, in denen das Co
 Die Einreise für einen bewilligungsfreien Aufenthalt ohne Erwerbstätigkeit bis zu drei Monaten wird verweigert (Art. 10 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^4-2], AIG):
 
 - a. Ausländerinnen und Ausländern, die aus einem Risikoland oder aus einer Risikoregion kommend in die Schweiz einreisen wollen und nicht vom Geltungsbereich des Abkommens vom 21. Juni 1999[^4-3] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (FZA) oder des Übereinkommens vom 4. Januar 1960[^4-4] zur Errichtung der Europäischen Freihandelsassoziation (EFTA-Übereinkommen) erfasst werden;
-- b. und c.[^4-5] ... .[^4-6]
+- b. und c.[^4-5] … .[^4-6]
 
 <sup>2</sup>
 
@@ -591,7 +591,7 @@ Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1.1 Buchstaben i und j, 
 
 <sup>6</sup> Wurde die Leistung vom Leistungserbringer zu Unrecht in Rechnung gestellt, so kann der Versicherer bereits geleistete Vergütungen zurückfordern. Mit der Bezahlung der Leistung durch den Bund nach Absatz 5 geht ein allfälliger Rückforderungsanspruch auf den Bund über. Die Versicherer geben dem Bund die Daten bekannt, die für die Wahrnehmung des Rückforderungsanspruchs erforderlich sind. Die Daten dürfen keine besonders schützenswerten Personendaten enthalten.
 
-<sup>6bis</sup> und <sup>6ter</sup> ...[^26b-4]
+<sup>6bis</sup> und <sup>6ter</sup> …[^26b-4]
 
 <sup>7</sup> Die gemeinsame Einrichtung stellt dem BAG quartalsweise ihre Verwaltungskosten für ihre Tätigkeit als Versicherer nach Artikel 26*a* Absätze 1 Buchstabe c und 3 Buchstabe a nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet.
 
@@ -747,7 +747,7 @@ Gestützt auf Artikel 24*a* des bisherigen Rechts zulässige Sars-CoV-2-Schnellt
 
 <sup>2</sup> Sie gilt bis zum 13. September 2020.[^29-1]
 
-<sup>3</sup> ...[^29-2]
+<sup>3</sup> …[^29-2]
 
 <sup>4</sup> Die Geltungsdauer dieser Verordnung wird unter Vorbehalt von Absatz 5 bis zum 31. Dezember 2021 verlängert.[^29-3]
 
@@ -766,19 +766,21 @@ Anhang 1*[^t-1]*
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 26. Nov. 2021, in Kraft seit 26. Nov. 2021 um 20.00 Uhr ([AS 2021 778](https://fedlex.data.admin.ch/eli/oc/2021/778)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 26. Nov. 2021 ([AS 2021 778](https://fedlex.data.admin.ch/eli/oc/2021/778)). Bereinigt gemäss Ziff. III der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 ### 1. Risikoländer und -regionen (Art. 3 Abs. 2 Bst. a)
 
 Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 
-- [tab] Andorra
-- [tab] Argentinien
+- – Andorra
+- – Argentinien
 - – Australien
 - – Bahrain
 - – Bulgarien
 - – Chile
 - – Heiliger Stuhl
+- – Hongkong
+- – Indonesien
 - – Irland
 - – Jordanien
 - – Kanada
@@ -804,8 +806,6 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 
 - – Botsuana
 - – Eswatini
-- – Hongkong
-- – Israel
 - – Lesotho
 - – Mosambik
 - – Namibia
@@ -850,17 +850,9 @@ Anhang 3*[^t-4]*
 
 ## Einschränkungen des grenzüberschreitenden Personenverkehrs
 
-[^t-4]: Fassung gemäss Ziff. I der V des EJPD vom 27. Nov. 2021, in Kraft seit 26. Nov. 2021 um 18.00 Uhr ([AS 2021 780](https://fedlex.data.admin.ch/eli/oc/2021/780)).
+[^t-4]: Fassung gemäss Ziff. I der V des EJPD vom 27. Nov. 2021 ([AS 2021 780](https://fedlex.data.admin.ch/eli/oc/2021/780)). Bereinigt gemäss Ziff. III der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
-Der Personenverkehr aus folgenden Staaten in die Schweiz ist untersagt:
-
-- – Botsuana
-- – Eswatini
-- – Lesotho
-- – Mosambik
-- – Namibia
-- – Simbabwe
-- – Südafrika
+Dieser Anhang enthält zurzeit keine Einträge.
 
 Anhang 4*[^t-5]*
 
@@ -996,7 +988,7 @@ Anhang 6*[^t-8]*
   - a. bei Personen, die symptomatisch sind;
   - b. bei Kontaktpersonen, die sich in Quarantäne befinden;
   - c. bei Personen, die die Kontaktquarantäne nach Artikel 8 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^annex6-lvlu1-lvl1-lvl11-1] [^annex6-lvlu1-lvl1-lvl11-2] vorzeitig beenden möchten;
-  - d. ...
+  - d. …
   - e. bei Personen, die von der SwissCovid-App benachrichtigt werden, dass sie potenziell mit einer mit Sars-CoV-2 infizierten Person engeren Kontakt hatten; der Bund übernimmt die Kosten für einen einzigen Test;
   - f. bei Personen mit Wohnsitz im Ausland, die in der Schweiz arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Wohnsitzstaat eine Pflicht zum Vorlegen eines negativen molekularbiologischen Testergebnisses auf Sars-CoV-2 angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
   - g. bei Personen mit Wohnsitz in der Schweiz, die im Ausland arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Staat eine Pflicht zum Vorlegen eines negativen molekularbiologischen Testergebnisses auf Sars-CoV-2 angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
@@ -1209,7 +1201,7 @@ Anhang 6*[^t-8]*
   - a. bei Personen, die symptomatisch sind;
   - b. bei Kontaktpersonen, die sich in Quarantäne befinden;
   - c. bei Personen, die die Kontaktquarantäne nach Artikel 3*e* der Covid-19-Verordnung besondere Lage vorzeitig beenden möchten;
-  - d. ...
+  - d. …
   - e. bei Personen, die von der SwissCovid-App benachrichtigt werden, dass sie potenziell mit einer mit Sars-CoV-2 infizierten Person engeren Kontakt hatten; der Bund übernimmt die Kosten für einen einzigen Test;
   - f. bei Personen mit Wohnsitz im Ausland, die in der Schweiz arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Wohnsitzstaat eine Pflicht zum Vorlegen eines negativen Ergebnisses einer immunologischen Analyse auf Sars-CoV-2-Antigene oder eines Sars-CoV-2-Schnelltests zur Fachanwendung angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
   - g. bei Personen mit Wohnsitz in der Schweiz, die im Ausland arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Staat eine Pflicht zum Vorlegen eines negativen Ergebnisses einer immunologischen Analyse auf Sars-CoV-2-Antigene oder eines Sars-CoV-2-Schnelltests zur Fachanwendung angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
@@ -1218,13 +1210,13 @@ Anhang 6*[^t-8]*
     - 2\. nach den Ziffern 1.7, 2.2 und 3.2;
 
   - i. bei einer ärztlich angeordneten Ausbruchsuntersuchung und -kontrolle;
-  - j.[^annex6-lvlu1-lvl1-lvl14-1] ...
+  - j.[^annex6-lvlu1-lvl1-lvl14-1] …
   - k. bei Kindern vor ihrem 16. Geburtstag;
   - l. bei Personen, die nachweisen können, dass sie sich aus medizinischen Gründen nicht impfen lassen können; für den Nachweis ist ein Attest einer Ärztin oder eines Arztes erforderlich, die oder der über eine Bewilligung nach dem Medizinalberufegesetz vom 23. Juni 2006[^annex6-lvlu1-lvl1-lvl14-2] zur Berufsausübung in eigener fachlicher Verantwortung verfügt;
   - m. bei Besucherinnen und Besuchern von Spitälern, Alters- und Pflegeheimen sowie anderen sozialmedizinischen Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen;
   - n. bei Personen, die nicht unter die Buchstaben a–m fallen, sofern ihnen bereits eine Impfdosis verabreicht wurde, sie aber noch nicht gemäss Anhang 1*a* Ziffer 1 geimpft sind, während sechs Wochen ab Erhalt der Impfdosis, im Falle des Impfstoffes Ad26.COV2.S / Covid-19 Vaccine Janssen während 22 Tagen.
 
-- 1\.4.2 ...
+- 1\.4.2 …
 - 1\.4.3
 
   Er übernimmt die Kosten nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
@@ -1520,9 +1512,9 @@ Anhang 6*[^t-8]*
   - a. bei gezielten und repetitiven Testungen in Spitälern, Alters- und Pflegeheimen sowie anderen sozialmedizinischen Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen;
   - b. bei gezielten und repetitiven Testungen in Betrieben und Vereinen, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt;
   - c. bei einer Kontaktperson, die sich in Quarantäne befindet, wenn im Betrieb, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung mit mindestens einem Test pro Woche durchgeführt wird;
-  - d. ...
+  - d. …
 
-- 3\.1.2 ...
+- 3\.1.2 …
 - 3\.1.3
 
   Er übernimmt die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung nach Ziffer 3.1.1 nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
@@ -1578,7 +1570,7 @@ Anhang 6*[^t-8]*
 <tr><td>Für die Ausstellung des Covid-19-Testzertifikats</td><td>2.50 Fr.</td></tr>
 </table>
 
-### 3.3**** ...
+### 3.3**** …
 
 [^annex6-lvlu1-lvl3-lvl33-1]
 
@@ -1587,7 +1579,7 @@ Anhang 6*[^t-8]*
 ### 4 Limitationen
 
 - 4\.1 Werden bei einer Person am gleichen Tag sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch eine Analyse auf Sars-CoV-2-Antikörper nach Ziffer 1.3 durchgeführt, so übernimmt der Bund den Kostenanteil für die Probenentnahme nach den Ziffern 1.1.3 Buchstabe a und 1.3.3 Buchstabe a sowie denjenigen für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial nach den Ziffern 1.1.3 Buchstabe b und 1.3.3 Buchstabe b nur einmal.
-- 4\.2 ...
+- 4\.2 …
 - 4\.3 Werden bei einer Person sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch ein molekularbiologischer Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten nach Ziffer 1.5 oder eine Sequenzierung auf Sars-CoV-2 nach Ziffer 1.6 vom selben Leistungserbringer durchgeführt, so übernimmt der Bund den Kostenanteil für die Auftragsabwicklung und die Overheadkosten nach den Ziffern 1.1.3 Buchstabe b und 1.5.3 beziehungsweise 1.6.3 nur einmal.
 - 4\.4 Bei Analysen auf Sars-CoV-2, bei denen die Probenentnahme durch die getestete Person selbst durchgeführt werden kann, darf die Probenentnahme nicht verrechnet werden.
 

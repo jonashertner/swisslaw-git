@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-12-01
+version: 2021-12-04
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211201/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211204/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211204-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211204/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 1 December 2021)
+of 19 June 2020 (Status as of 4 December 2021)
 
 The Swiss Federal Council,
 
@@ -764,11 +764,11 @@ Sars-CoV-2 rapid tests for specialist use that are permitted based on Article 24
 
 Annex 1*[^t-1]*
 
-(Art. 3 para. 3, 4 para. 2<sup>ter</sup> and 5)
+(Art. 3 para. 3, 4 para. 2<sup>ter</sup> and art. 5)
 
 ## List of high-risk countries and regions
 
-[^t-1]: Amended by No I of the FDJP O of 26 Nov. 2021, in force since 26 Nov. 2021 at 8pm ([AS 2021 778](https://fedlex.data.admin.ch/eli/oc/2021/778)).
+[^t-1]: Amended by No I of the FDJP O of 26 Nov. 2021 ([AS 2021 778](https://fedlex.data.admin.ch/eli/oc/2021/778)). Revised by No III of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 ### 1. High-risk countries and regions (Art. 3 para. 2 let. a)
 
@@ -785,6 +785,8 @@ All countries and regions outside the Schengen area, with the exception of:
 - – Croatia
 - – Cyprus
 - – Holy See
+- – Hong Kong
+- – Indonesia
 - – Ireland
 - – Jordan
 - – Kuwait
@@ -806,13 +808,11 @@ All countries and regions outside the Schengen area, with the exception of:
 
 - – Botswana
 - – Eswatini
-- – Hong Kong
-- – Israel
 - – Lesotho
 - – Mozambique
 - – Namibia
-- – Zimbabwe
 - – South Africa
+- – Zimbabwe
 
 Annex 1a*[^t-2]*
 
@@ -820,7 +820,7 @@ Annex 1a*[^t-2]*
 
 ## Persons who have been vaccinated
 
-[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Revised in accordance with Annex No. 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Revised in accordance with Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 - 1
 
@@ -852,17 +852,9 @@ Annex 3*[^t-4]*
 
 ## Restrictions on cross-border movements of persons
 
-[^t-4]: Amended by No I of the FDJP O of 27 Nov. 2021, in force since 26 Nov. 2021 at 6pm ([AS 2021 780](https://fedlex.data.admin.ch/eli/oc/2021/780)).
+[^t-4]: Amended by No I of the FDJP O of 27 Nov. 2021 ([AS 2021 780](https://fedlex.data.admin.ch/eli/oc/2021/780)). Revised by No III of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
-The movement of persons from the following states into Switzerland is prohibited:
-
-- – Botswana
-- – Eswatini
-- – Lesotho
-- – Mozambique
-- – Namibia
-- – South Africa
-- – Zimbabwe
+There are no entries currently on this list.
 
 Annex 4*[^t-5]*
 
@@ -1002,9 +994,9 @@ Annex 4*[^t-5]*
 
 ### 3.1 Personal protective equipment within the meaning of the PPE Ordinance of 25 October 2017****
 
-[^annex4-lvlu1-lvl1-lvl31-1]
+[^annex4-lvlu1-lvl3-lvl31-1]
 
-[^annex4-lvlu1-lvl1-lvl31-1]: [SR 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635)
+[^annex4-lvlu1-lvl3-lvl31-1]: [SR 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635)
 
 \1. Respirators (FFP2 and FFP3)
 
@@ -1048,7 +1040,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No. 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1281,8 +1273,8 @@ Annex 6*[^t-8]*
   - h. following a positive result from a pooled molecular-biological analysis;
     - 1\. in accordance with Number 1.2,
     - 2\. in accordance with Numbers 1.7, 2.2 and 3.2;
-    - i. as part of outbreak investigation and control procedures ordered by a doctor:
 
+  - i. as part of outbreak investigation and control procedures ordered by a doctor:
   - j.[^annex6-lvlu1-lvl1-lvl14-1] ...
   - k. children under the age of 16;
   - l. persons who can prove that they cannot be vaccinated on medical grounds; as proof, a medical certificate is required from a doctor who who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^annex6-lvlu1-lvl1-lvl14-2];
@@ -1368,9 +1360,9 @@ Annex 6*[^t-8]*
 
   The Confederation shall pay the costs of diagnostic sequencing for Sars-CoV-2 2 by means of whole genome sequencing only if ordered by the competent cantonal authority and only in the following cases:
 
-  - [tab] a. in cases where there is reasonable suspicion of the presence of a Sars-CoV-2 variant, in particular in the case of infection following vaccination, reinfection following previous disease or return from a country or region where a Sars-CoV-2 variant of concern is prevalent;
-  - [tab] b. targeted sequencing in the case of conspicuous outbreaks;
-  - [tab] c. targeted and random sequencing in the event of major outbreaks.
+  - a. in cases where there is reasonable suspicion of the presence of a Sars-CoV-2 variant, in particular in the case of infection following vaccination, reinfection following previous disease or return from a country or region where a Sars-CoV-2 variant of concern is prevalent;
+  - b. targeted sequencing in the case of conspicuous outbreaks;
+  - c. targeted and random sequencing in the event of major outbreaks.
 
 - 1\.6.2
 
@@ -1527,9 +1519,9 @@ Annex 6*[^t-8]*
 
     - 2\. test centres operated by or on behalf of a canton,
     - 3\. socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment,
-    - 4\. assistants as defined in the InvIA.
+    - 4\. assistants as defined in the InvIA;
 
-  - b. It shall pay the costs only if the services are provided by laboratories under Article 54 paragraph 3 HIO and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA.
+  - b. it shall pay the costs only if the services are provided by laboratories under Article 54 paragraph 3 HIO and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA.
 
 - 2\.2.3
 

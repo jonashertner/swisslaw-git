@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-12-01
+version: 2021-12-04
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211204/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211204-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211201/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
+del 19 giugno 2020 (Stato 4 dicembre 2021) (Stato 4 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -766,7 +766,7 @@ Allegato 1*[^t-1]*
 
 ## Elenco dei Paesi e delle regioni a rischio
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 26. nov. 2021, in vigore dal 26 nov. 2021 alle ore 20.00 ([RU 2021 778](https://fedlex.data.admin.ch/eli/oc/2021/778)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 26. nov. 2021 ([RU 2021 778](https://fedlex.data.admin.ch/eli/oc/2021/778)). Aggiornato dal n. III dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 ### 1. Paesi e regioni a rischio (art. 3 cpv. 2 lett. a)
 
@@ -786,6 +786,8 @@ Tutti gli Stati e regioni al di fuori dello spazio Schengen, tranne:
 - – Croazia
 - – Emirati Arabi Uniti
 - – Giordania
+- – Hong Kong
+- – Indonesia
 - – Irlanda
 - – Kuwait
 - – Macao
@@ -804,8 +806,6 @@ Tutti gli Stati e regioni al di fuori dello spazio Schengen, tranne:
 
 - – Botswana
 - – Eswatini
-- – Hong Kong
-- – Israele
 - – Lesotho
 - – Mozambico
 - – Namibia
@@ -850,17 +850,9 @@ Allegato 3*[^t-4]*
 
 ## Restrizioni del traffico transfrontaliero delle persone
 
-[^t-4]: Nuovo testo giusta il n. I dell’O del DFGP del 27 nov. 2021, in vigore dal 26 nov. 2021 alle ore 18.00 ([RU 2021 780](https://fedlex.data.admin.ch/eli/oc/2021/780)).
+[^t-4]: Nuovo testo giusta il n. I dell’O del DFGP del 27 nov. ([RU 2021 780](https://fedlex.data.admin.ch/eli/oc/2021/780)). Aggiornato dal n. III dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
-Il traffico delle persone dai seguenti Stati in Svizzera è vietato:
-
-- – Botswana
-- – Eswatini
-- – Lesotho
-- – Mozambico
-- – Namibia
-- – Sudafrica
-- – Zimbabwe
+*Questo allegato attualmente non contiene voci.*
 
 Allegato 4*[^t-5]*
 
