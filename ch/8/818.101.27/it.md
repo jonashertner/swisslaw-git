@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: "Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l'epidemia di COVID-19 nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 traffico internazionale viaggiatori)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: it
-version: 2021-11-30
+version: 2021-12-04
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211130/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211130-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211130/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211204/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211204-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,17 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211130/it"
 
 (Ordinanza COVID-19 traffico internazionale viaggiatori)**[^t-1]**
 
-del 23 giugno 2021 (Stato 30 novembre 2021)
+del 23 giugno 2021 (Stato 4 dicembre 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 41 capoversi 1 e 3 della legge del 28 settembre 2012[^ingress-1] sulle epidemie (LEp),
+visti gli articoli 41 capoversi 1 e 3 nonché 79 capoverso 1 della legge del 28 settembre 2012[^ingress-1] sulle epidemie (LEp),[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^ingress-1]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 ## Sezione 1: Scopo e oggetto
 
@@ -55,16 +56,17 @@ Disciplina per le persone che entrano in Svizzera:
 
 Per la classificazione come Stato o regione con una variante preoccupante del virus sono determinanti l’attestazione o il sospetto che in tale Stato o regione sia diffusa una variante del virus che:
 
-- a. presenta un rischio di contagio più elevato o un decorso grave della malattia rispetto alla variante del virus predominante in Svizzera; oppure
-- b. sfugge al riconoscimento e alla difesa offerti dall’immunità già acquisita contro le varianti del virus predominanti in Svizzera (immunoevasiva).
+- a. presenta un rischio di contagio più elevato o un decorso grave della malattia rispetto alle varianti del virus presenti in Svizzera; oppure
+- b. sfugge al riconoscimento e alla difesa offerti dall’immunità già acquisita contro le varianti del virus presenti in Svizzera (immunoevasiva).[^2-1]
 
 <sup>2</sup> L’elenco degli Stati e delle regioni con una variante preoccupante del virus immunoevasiva o la cui immunoevasività non è ancora stata chiarita è riportato nell’allegato 1 numero 1.
 
 <sup>3</sup> Gli Stati e le regioni con una variante preoccupante del virus non immunoevasiva sono elencati nell’allegato 1 numero 2.
 
-<sup>4</sup> Le regioni confinanti con la Svizzera con le quali esiste uno stretto scambio economico, sociale e culturale possono essere escluse dagli elenchi di cui ai capoversi 2 e 3 anche se soddisfanno una delle condizioni di cui al capoverso 1. Le regioni considerate confinanti sono elencate nell’allegato 1*a*.[^2-1]
+<sup>4</sup> Le regioni confinanti con la Svizzera con le quali esiste uno stretto scambio economico, sociale e culturale possono essere escluse dagli elenchi di cui ai capoversi 2 e 3 anche se soddisfanno una delle condizioni di cui al capoverso 1. Le regioni considerate confinanti sono elencate nell’allegato 1*a*.[^2-2]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 
 ## Sezione 3: Registrazione dei dati di contatto
 
@@ -98,12 +100,13 @@ Sono esentate da quest’obbligo le persone che: [^3-3]
 Le persone di cui all’articolo 3 devono registrare i loro dati di contatto prima dell’entrata come segue:
 
 - a. elettronicamente mediante la piattaforma per la registrazione dei dati di contatto delle persone in entrata[^4-1], messa a disposizione dall’Ufficio federale della sanità pubblica (UFSP); oppure
-- b. su carta mediante le schede di contatto messe a disposizione dall’UFSP.
+- b.[^4-2] su carta mediante le schede di contatto messe a disposizione dall’UFSP, in duplice copia.
 
-<sup>2</sup> Le persone che entrano in Svizzera senza utilizzare un’impresa che trasporta persone secondo l’articolo 5 e che registrano i loro dati di contatto mediante schede di contatto devono conservare queste ultime per 14 giorni.[^4-2]
+<sup>2</sup> Le persone che entrano in Svizzera senza utilizzare un’impresa che trasporta persone secondo l’articolo 5 e che registrano i loro dati di contatto mediante schede di contatto devono conservare queste ultime per 14 giorni.[^4-3]
 
 [^4-1]: La piattaforma per la registrazione dei dati di contatto delle persone in entrata è accessibile all’indirizzo https://swissplf.admin.ch
-[^4-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^4-3]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 #### Art. 5
 
@@ -125,7 +128,7 @@ Le persone di cui all’articolo 3 devono registrare i loro dati di contatto pri
 
 **Compiti dell’UFSP e dei Cantoni**
 
-<sup>1</sup> L’UFSP provvede a elaborare i dati di contatto per l’esecuzione della quarantena secondo l’articolo 9 e a trasmetterli immediatamente ai Cantoni competenti per le persone in entrata.
+<sup>1</sup> L’UFSP provvede a elaborare i dati di contatto per l’esecuzione delle disposizioni sull’obbligo di test secondo l’articolo 8 e sulla quarantena secondo l’articolo 9 e a trasmetterli immediatamente ai Cantoni competenti per le persone in entrata.[^6-1]
 
 <sup>2</sup>
 
@@ -141,6 +144,8 @@ Non appena viene a conoscenza dell’entrata di una persona contagiata dal SARS-
 
 <sup>5</sup> I Cantoni distruggono i dati un mese dopo averli ricevuti dall’UFSP o da terzi.
 
+[^6-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+
 ## Sezione 4:**** Obbligo del test prima della partenza
 
 [^sec4-1]
@@ -149,9 +154,9 @@ Non appena viene a conoscenza dell’entrata di una persona contagiata dal SARS-
 
 #### Art. 7
 
-<sup>1</sup> Le imprese di trasporto aereo e le imprese di autobus che offrono viaggi a lunga percorrenza devono informare i passeggeri che, prima della partenza, devono sottoporsi a un test per il SARS-CoV-2 e che sono ammessi sul velivolo o sull’autobus soltanto se possono presentare un risultato negativo del test.
+<sup>1</sup> Le imprese di trasporto aereo e le imprese di autobus che offrono viaggi a lunga percorrenza devono informare i passeggeri che, prima della partenza per la Svizzera, devono sottoporsi a un test per il SARS-CoV-2 e che sono ammessi sul velivolo o sull’autobus soltanto se possono presentare un risultato negativo del test.[^7-1]
 
-<sup>2</sup> Prima della partenza, devono verificare l’esistenza di un risultato negativo del test. I requisiti relativi ai test e gli attestati dei test sono disciplinati nell’allegato 2*a*.
+<sup>2</sup> Prima della partenza, devono verificare l’esistenza di un risultato negativo del test basato su un’analisi di biologia molecolare per il SARS-CoV-2. I requisiti relativi al test e all’attestato del test sono disciplinati nell’allegato 2*a*.[^7-2]
 
 <sup>3</sup> Le imprese di trasporto aereo e le imprese di autobus per viaggi a lunga percorrenza devono negare l’accesso al velivolo o all’autobus ai passeggeri che non possono presentare un risultato negativo del test.
 
@@ -161,16 +166,19 @@ Possono trasportare i seguenti passeggeri in assenza di un risultato negativo de
 
 - a. le persone sotto i 16 anni;
 - b. le persone che possono attestare mediante un certificato medico che, per motivi medici, devono essere urgentemente trasportate in Svizzera;
-- c.[^7-1] le persone in transito in un aeroporto svizzero che non escono dall’aeroporto prima di proseguire il viaggio;
-- [tab] c<sup>bis</sup>.[^7-2]le persone che transitano attraverso la Svizzera con una compagnia di autobus e non scendono dall’autobus;
-- d. le persone che possono provare che sono state vaccinate contro il SARS-CoV-2; le persone considerate vaccinate, la durata di validità della vaccinazione e i tipi di attestazione ammessi sono disciplinati nell’allegato 2;
-- e. le persone che possono provare che sono state contagiate dal SARS-CoV-2 e sono considerate guarite; la durata della deroga all’obbligo di test e i tipi di attestazione ammessi sono disciplinati nell’allegato 2;
+- c.[^7-3] le persone che provengono da Stati o regioni che non figurano nell’allegato 1 numero 1 e sono in transito in un aeroporto svizzero e non escono dall’aeroporto prima di proseguire il viaggio;
+- [tab] c<sup>bis</sup>.[^7-4]le persone che transitano attraverso la Svizzera con una compagnia di autobus e non scendono dall’autobus;
+- [tab] d. ed e.[^7-5] ...
 - f. le persone che possono attestare mediante un certificato medico che, per motivi medici, non posso sottoporsi al test per il SARS-CoV-2.
 
-<sup>5</sup> Le deroghe all’obbligo di test prima della partenza di cui al capoverso 4 lettere d ed e non si applicano in caso di entrata in Svizzera da Stati o regioni di cui all’allegato 1 numero 1.
+<sup>5</sup> In caso di entrata in Svizzera da uno Stato o una regione di cui all’allegato 1 numero 1, le persone a partire dai 6 anni devono poter presentare un risultato negativo del test secondo il capoverso 2.[^7-6]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^7-2]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^7-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^7-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^7-4]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^7-5]: Abrogata dal n. I dell’O del 3 dic. 2021, con effetto dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^7-6]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 ## Sezione 5: Obbligo di test, quarantena e notifica per le persone in entrata
 
@@ -178,36 +186,49 @@ Possono trasportare i seguenti passeggeri in assenza di un risultato negativo de
 
 **Obbligo di test**[^8-1]
 
-<sup>1</sup> Le persone che entrano in Svizzera devono poter presentare un risultato negativo del test. I requisiti relativi ai test e gli attestati dei test sono disciplinati nell’allegato 2*a*.
+<sup>1</sup> Le persone che entrano in Svizzera devono presentare un risultato negativo di un test basato su un’analisi di biologia molecolare per il SARS-CoV-2.[^8-2]
 
 <sup>2</sup>
 
 Le persone che all’entrata in Svizzera non possono presentare un test con risultato negativo devono, immediatamente dopo l’entrata in Svizzera, sottoporsi:
 
 - a. a un’analisi di biologia molecolare per il SARS-CoV-2; oppure
-- b. a un test rapido per il SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^8-2].
+- b.[^8-3] a un test rapido per il SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^8-4], sempreché il test non sia basato solo sul prelievo di un campione dalla cavità nasale o su un campione salivare.
 
-<sup>3</sup> Le persone con obbligo di test all’entrata in Svizzera secondo i capoversi 1 e 2 devono sottoporsi nuovamente a un test secondo il capoverso 2 tra il quarto e il settimo giorno dopo l’entrata in Svizzera. Chi risulta negativo al test deve presentare al Cantone un certificato di test COVID-19 secondo l’ordinanza sui certificati COVID-19 del 4 giugno 2021[^8-3]. Chi risulta positivo al test deve dichiarare al Cantone il risultato del test.[^8-4]
+<sup>2bis</sup> Le persone di cui ai capoversi 1 e 2 devono inoltre sottoporsi a un test tra il quarto e il settimo giorno dopo l’entrata in Svizzera. I requisiti relativi ai test e gli attestati dei test sono disciplinati nell’allegato 2*a*.[^8-5]
+
+<sup>3</sup> Chi risulta negativo al test tra il quarto e il settimo giorno dopo l’entrata in Svizzera deve presentare al Cantone un certificato di test COVID-19 secondo l’ordinanza sui certificati COVID-19 del 4 giugno 2021[^8-6]. Chi risulta positivo al test deve dichiarare al Cantone il risultato del test.[^8-7]
+
+<sup>4</sup> In caso di entrata in Svizzera da uno Stato o una regione di cui all’allegato 1 numero 1, il capoverso 1 vige anche per le persone a partire dai 6 anni.[^8-8]
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^8-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^8-3]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^8-4]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^8-5]: Introdotto dal n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-6]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^8-7]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-8]: Introdotto dal n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 9
 
 **Obbligo di quarantena**[^9-1]
 
-<sup>1</sup> Le persone che entrano in Svizzera da uno Stato o una regione di cui all’allegato 1 devono recarsi direttamente presso il proprio domicilio o un altro alloggio adeguato immediatamente dopo l’entrata e soggiornarvi ininterrottamente per dieci giorni a decorrere dalla loro entrata (quarantena per le persone in entrata).
+<sup>1</sup> Le persone che negli ultimi dieci giorni hanno soggiornato in uno Stato o una regione di cui all’allegato 1 devono recarsi direttamente presso il proprio domicilio o un altro alloggio adeguato immediatamente dopo l’entrata in Svizzera e soggiornarvi ininterrottamente per dieci giorni a decorrere dalla loro entrata (quarantena per le persone in entrata).[^9-2]
 
 <sup>2</sup> Se la persona è entrata in Svizzera passando da uno Stato o una regione senza varianti preoccupanti del virus, l’autorità cantonale competente può considerare la durata del soggiorno in questo Stato o in questa regione nel calcolo della durata della quarantena per le persone in entrata.
 
-<sup>3</sup> Le persone sottoposte alla quarantena per le persone in entrata possono concluderla anticipatamente se si sottopongono a un’analisi di biologia molecolare o a un test rapido per il SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^9-2] e se il risultato del test è negativo. Il test può essere effettuato non prima del settimo giorno di quarantena. In casi motivati l’autorità cantonale competente può escludere la conclusione anticipata della quarantena per le persone in entrata.
+<sup>3</sup> Le persone sottoposte alla quarantena per le persone in entrata che sono entrate in Svizzera da uno Stato o una regione che non figurano nell’allegato 1 numero 1 possono concluderla anticipatamente se si sottopongono a un’analisi di biologia molecolare o a un test rapido per il SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^9-3] e se il risultato del test è negativo. Il test può essere effettuato non prima del settimo giorno di quarantena. In casi motivati l’autorità cantonale competente può escludere la conclusione anticipata della quarantena per le persone in entrata.[^9-4]
+
+<sup>3bis</sup> Le persone di cui al capoverso 3 possono lasciare la quarantena per sottoporsi al test. Nel fare ciò, devono portare una mascherina facciale e tenersi a una distanza di almeno 1,5 metri da altre persone.[^9-5]
 
 <sup>4</sup> Le persone che concludono anticipatamente la quarantena per le persone in entrata devono portare una mascherina facciale fino alla scadenza della quarantena prevista e tenersi a una distanza di almeno 1,5 metri da altre persone al di fuori del proprio domicilio o del proprio alloggio sino al giorno in cui sarebbe dovuta durare la quarantena.
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^9-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^9-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9-3]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^9-4]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9-5]: Introdotto dal n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 9a
 
@@ -219,10 +240,9 @@ Sono esentate dall’obbligo di test di cui allʼarticolo 8 e dallʼobbligo di q
 
 - a.[^9a-2] ...
 - b. effettuano il trasporto transfrontaliero di persone o merci nell’ambito della loro attività professionale;
-- c. hanno soggiornato in uno Stato o in una regione di cui all’allegato 1 per meno di 24 ore come passeggeri in transito;
+- c.[^9a-3] ...
 - d. transitano attraverso la Svizzera senza alcuna sosta intermedia;
-- e. non provengono da Stati o regioni di cui all’allegato 1 numero 1 e possono attestare che sono state vaccinate contro il SARS-CoV-2; le persone considerate vaccinate, la durata di validità della vaccinazione e i tipi di attestazione ammessi sono disciplinati nell’allegato 2;
-- f. non provengono da Stati o regioni di cui all’allegato 1 numero 1 e possono attestare che sono state contagiate dal SARS-CoV-2 e sono considerate guarite; la durata della deroga e i tipi di attestazione ammessi sono disciplinati nell’allegato 2;
+- [tab] e. e f.[^9a-4] ...
 - g. entrano in Svizzera per motivi medici importanti e improrogabili;
 - h. entrano in Svizzera in qualità di frontalieri.
 
@@ -230,32 +250,46 @@ Sono esentate dall’obbligo di test di cui allʼarticolo 8 e dallʼobbligo di q
 
 Sono inoltre esentate dall’obbligo di test di cui all’articolo 8:
 
-- a. le persone sotto i 16 anni;
+- a.[^9a-5] le persone di età inferiore ai 16 anni, a meno che non entrino da uno Stato o da una zona elencata nell’allegato 1 numero 1;
 - b. le persone che possono attestare mediante un certificato medico che, per motivi medici, non possono sottoporsi al test per il SARS-CoV-2.;
-- c.[^9a-3] le persone che entrano in Svizzera da regioni di cui all’allegato 1*a*, sempreché il corrispondente Stato o la corrispondente regione non figuri nell’allegato 1 numero 1;
-- d.[^9a-4] le persone che svolgono un’attività assolutamente necessaria in Svizzera per mantenere il funzionamento dei beneficiari istituzionali ai sensi dell’articolo 2 capoverso 1 della legge del 22 giugno 2007[^9a-5] sullo Stato ospite e che possono attestarlo con un certificato del Dipartimento federale degli affari esteri (DFAE);
-- e.[^9a-6] le persone che svolgono un’attività assolutamente necessaria in Svizzera per mantenere le relazioni diplomatiche e consolari della Svizzera e che possono attestarlo con un certificato del DFAE.
+- c.[^9a-6] le persone che entrano in Svizzera da regioni di cui all’allegato 1*a*, sempreché il corrispondente Stato o la corrispondente regione non figuri nell’allegato 1 numero 1;
+- d.[^9a-7] le persone che svolgono un’attività assolutamente necessaria in Svizzera per mantenere il funzionamento dei beneficiari istituzionali ai sensi dell’articolo 2 capoverso 1 della legge del 22 giugno 2007[^9a-8] sullo Stato ospite e che possono attestarlo con un certificato del Dipartimento federale degli affari esteri (DFAE);
+- e.[^9a-9] le persone che svolgono un’attività assolutamente necessaria in Svizzera per mantenere le relazioni diplomatiche e consolari della Svizzera e che possono attestarlo con un certificato del DFAE.
 
 <sup>2bis</sup>
 
-Sono esentate dallʼobbligo di quarantena di cui allʼarticolo 9 le persone che svolgono un’attività assolutamente necessaria in Svizzera per mantenere:
+Sono esentate dallʼobbligo di quarantena di cui allʼarticolo 9 le persone che:
 
-- a. il funzionamento del settore sanitario;
-- b. la sicurezza e l’ordine pubblici;
-- c. il funzionamento dei beneficiari istituzionali ai sensi dell’articolo 2 capoverso 1 della legge sullo Stato ospite;
-- d. le relazioni diplomatiche e consolari della Svizzera.[^9a-7]
+- a.
 
-<sup>3</sup> Il capoverso 1 non si applica alle persone che presentano sintomi di COVID-19, a meno che non possano attestare mediante un certificato medico che i sintomi sono riconducibili ad altra causa.
+  svolgono un’attività assolutamente necessaria in Svizzera per mantenere:
+
+  - 1\. il funzionamento del settore sanitario,
+  - 2\. la sicurezza e l’ordine pubblici,
+  - 3\. il funzionamento dei beneficiari istituzionali ai sensi dell’articolo 2 capoverso 1 della legge sullo Stato ospite,
+  - 4\. le relazioni diplomatiche e consolari della Svizzera;
+
+- b. hanno soggiornato in uno Stato o in una regione di cui all’allegato 1 per meno di 24 ore come passeggeri in transito;
+- c. rientrano in Svizzera dopo aver partecipato a una manifestazione in uno Stato o in una regione di cui all’allegato 1 numero 1, se viene fornita la prova che la partecipazione e il soggiorno sono avvenuti nel rispetto di un piano di protezione specifico; per partecipazione a una manifestazione s’intende segnatamente la partecipazione, di norma professionale, a una gara sportiva, un evento culturale o un congresso specialistico per professionisti;
+- d. entrano in Svizzera da uno Stato o una regione di cui all’allegato 1 numero 1 per partecipare a una manifestazione. Per partecipazione a una manifestazione s’intende segnatamente la partecipazione, di norma professionale, a una gara sportiva, un evento culturale o un congresso specialistico per professionisti;
+- e. entrano in Svizzera da Stati o regioni che non figurano nell’allegato 1 numero 1 e possono attestare che sono state vaccinate contro il SARS-CoV-2; le persone considerate vaccinate, la durata di validità della vaccinazione e i tipi di attestazione ammessi sono disciplinati nell’allegato 2;
+- f. entrano in Svizzera da Stati o regioni che non figurano nell’allegato 1 numero 1, possono attestare di essersi contagiate con il SARS-CoV-2 e sono considerate guarite; la durata della deroga e i tipi di attestazione ammessi sono disciplinati nell’allegato 2.[^9a-10]
+
+<sup>3</sup> Le deroghe di cui ai capoversi 1–2<sup>bis</sup> non si applicano alle persone che presentano sintomi di COVID-19, a meno che la persona interessata non possa attestare mediante un certificato medico che i sintomi sono riconducibili ad altra causa.[^9a-11]
 
 <sup>4</sup> In casi motivati l’autorità cantonale competente può autorizzare altre deroghe all’obbligo di test e di quarantena oppure concedere agevolazioni.
 
 [^9a-1]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^9a-2]: Abrogata dal n. I dell’O del 1° ott. 2021, con effetto dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^9a-3]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^9a-4]: Introdotta dal n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^9a-5]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^9a-6]: Introdotta dal n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^9a-7]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-3]: Abrogata dal n. I dell’O del 3 dic. 2021, con effetto dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9a-4]: Abrogata dal n. I dell’O del 3 dic. 2021, con effetto dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9a-5]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9a-6]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-7]: Introdotta dal n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-8]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^9a-9]: Introdotta dal n. I dell’O del 1° ott. 2021, in vigore dal 4 ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-10]: Introdotto dal n. I dell’O del 1° ott. 2021 ([RU 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)). Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9a-11]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 10
 
@@ -307,6 +341,16 @@ I Cantoni possono verificare l’esistenza di un risultato del test secondo l’
 
 [^11a-1]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
+#### Art. 11b
+
+**Obbligo di controllo per i privati**[^11b-1]
+
+<sup>1</sup> Chi fornisce alloggio a livello professionale a persone che soggiornano in Svizzera per turismo o per affari deve verificare l’esistenza dei risultati negativi dei test di cui all’articolo 8 capoversi 1, 2<sup>bis</sup> e 4.
+
+<sup>2</sup> Le persone che non sono in grado di presentare un risultato negativo del test devono essere notificate all’autorità cantonale competente.
+
+[^11b-1]: Introdotto dal n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+
 ## Sezione 7: Aggiornamento degli allegati
 
 #### Art. 12
@@ -339,62 +383,18 @@ La presente ordinanza entra in vigore il 26 giugno 2021 alle ore 00.00.
 
 Allegato 1*[^t-2]*
 
-(art. 2 cpv. 2 e 3, 3 cpv. 1 lett. a, 7 cpv. 5, 9 cpv. 1, 9*a* cpv. 1 lett. c, e ed f e 2 lett. c nonché 12 cpv. 1)
+(art. 2 cpv. 2 e 3, 3 cpv. 1 lett. a, 7 cpv. 4 lett. c e 5, 8 cpv. 4, 9 cpv. 1 e 3, 9*a* cpv. 2 lett. a e c e 2<sup>bis</sup> lett. b–f, nonché 12 cpv. 1)
 
 ## Elenco degli Stati e delle regioni con una variante preoccupante del virus****
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 3 ago. 2021 ([RU 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Aggiornato dal n. II cpv. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dal n. I dell’O del DFI del 29 nov. 2021, in vigore dal 30 nov. 2021 ([RU 2021 787](https://fedlex.data.admin.ch/eli/oc/2021/787)).
+[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 3 ago. 2021 ([RU 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Aggiornato dal n. II dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
 ### 1. Stati e regioni con una variante preoccupante del virus immunoevasiva o la cui immunoevasività non è ancora stata chiarita (art. 2 cpv. 1 e 2)
 
-Angola
-
-Australia
-
-Belgio
-
-Botswana
-
-Canada
-
-Cechia
-
-Danimarca
-
-Egitto
-
-Eswatini
-
-Giappone
-
-Hong Kong
-
-Israele
-
-Lesotho
-
-Malawi
-
-Mozambico
-
-Namibia
-
-Nigeria
-
-Paesi Bassi (Regno dei)
-
-Portogallo
-
-Regno Unito
-
-Sudafrica
-
-Zambia
-
-Zimbabwe
+*Questo elenco attualmente non contiene voci.*
 
 ### 2. Stati e regioni con una variante preoccupante del virus non immunoevasiva (art. 2 cpv. 1 e 3)
 
@@ -441,7 +441,7 @@ Allegato 2*[^t-4]*
 
 ## Persone vaccinate e guarite
 
-[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 17 set. 2021 (RU **2021** 563) e dall’all. n. 3 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 (RU **2021** 653).
+[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dall’all. n. 3 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ### 1 Persone vaccinate
 
@@ -486,18 +486,18 @@ Allegato 2*[^t-4]*
 
 Allegato 2a*[^t-5]*
 
-(art. 7 cpv. 2, 8 cpv. 1 e 12 cpv. 3)
+(art. 7 cpv. 2, 8 cpv. 1 e 2<sup>bis</sup>, nonché 12 cpv. 3)
 
 ## Requisiti relativi ai test e attestati dei test
 
-[^t-5]: Introdotto dal n. II cpv. 2 dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^t-5]: Introdotto dal n. II cpv. 2 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Aggiornato dal n. II dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 - 1\.
 
   Il risultato del test deve basarsi su una procedura che corrisponde allo stato della scienza e della tecnica. Vige il principio che il prelievo dei campioni per:
 
   - a. un’analisi di biologia molecolare per il SARS-CoV-2 possa essere effettuato non più di 72 ore prima;
-  - b. un test rapido per il SARS-CoV-2 per uso professionale possa essere effettuato non più di 48 ore prima.
+  - b. un test rapido per il SARS-CoV-2 per uso professionale deve essere stato effettuato non più di 24 ore prima.
 
 - 2\.
 
