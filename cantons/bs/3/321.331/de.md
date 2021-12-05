@@ -4,13 +4,13 @@ number: "321.331"
 title: Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-Verordnung zusätzliche Massnahmen
 language: de
-version: 2021-12-01
-valid_until: 2021-12-05
-version_adopted: 2021-11-30
+version: 2021-12-06
+valid_until: 2021-12-21
+version_adopted: 2021-12-02
 adopted: 2021-11-22
 in_force: 2021-11-24
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/321.331"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5373/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5376/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Covid-19 zusätzliche Massnahmen: Verordnung | Übertragbare Krankheiten
 
 (Covid-19-Verordnung zusätzliche Massnahmen)
 
-Vom 22. November 2021 (Stand 1. Dezember 2021)
+Vom 22. November 2021 (Stand 6. Dezember 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -51,13 +51,13 @@ beschliesst:
 <sup>2</sup> Keine Maskenpflicht gilt:
 
 - a) für Schülerinnen und Schüler der Primarstufe bis und mit 4. Primarschulklasse, ausser sie besuchen eine Mehrjahrgangsklasse mit Schülerinnen und Schülern der 5. bzw. 6. Primarschulklasse;
-- b) für Personen, die nachweisen, dass sie über ein gültiges Covid-19-Zertifikat für Geimpfte oder Genesene verfügen;
+- b) …
 - c) für Personen, die nachweisen, dass sie aus besonderen Gründen, insbesondere aus medizinischen, keine Gesichtsmaske tragen können, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind;
 - d) in Unterrichts-, Betreuungs- und Therapiesituationen, in denen das Tragen einer Gesichtsmaske den Unterricht, die Betreuung oder die Therapie wesentlich erschwert, wenn
   - 1\. der Mindestabstand gegenüber den Schülerinnen und Schülern oder anderen Erwachsenen eingehalten wird oder
   - 2\. der Schutz durch andere Schutzmassnahmen gewährleistet wird.
 
-<sup>3</sup> Der Nachweis nach Abs. 2 lit. b und c wird gegenüber der Schulleitung oder einer von dieser bezeichneten Stelle erbracht.
+<sup>3</sup> Der Nachweis nach Abs. 2 lit. c wird gegenüber der Schulleitung oder einer von dieser bezeichneten Stelle erbracht.
 
 #### § 2a
 
