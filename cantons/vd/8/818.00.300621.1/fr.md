@@ -3,7 +3,7 @@ canton: VD
 number: "818.00.300621.1"
 title: "ARRÊTÉ du 30.06.2021 d'application de l'ordonnance fédérale sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière"
 language: fr
-version: 2021-12-04
+version: 2021-12-06
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/818.00.300621.1?id=4b3d512e-7299-4947-aef8-f39291ae7fc4"
 ---
 
@@ -50,9 +50,9 @@ arrête
 
 <sup>1</sup> Doivent porter un masque facial :
 
-- a. les personnes assistant à des manifestations publiques, sportives ou culturelles se déroulant à l'intérieur, quel que soit le nombre des participants; l'obligation s'étend également au personnel dédié à l'organisation;
-- b. les personnes fréquentant les espaces intérieurs des installations et les établissements accessibles au public des domaines de la culture, du divertissement, des loisirs et du sport; l'obligation ne s'étend pas aux personnes pratiquant des activités sportives ou culturelles en ces lieux;
-- c. les personnes assistant à des services religieux, y compris les funérailles et les mariages, qui se déroulent à l'intérieur;
+- a. ...
+- b. ...
+- c. ...
 - d. les personnes fréquentant des foires et marchés, y compris lorsqu'elles ne font que les traverser; font exception les lieux extérieurs dédiés à la consommation qui ne sont accessibles qu'aux titulaires de certificats;
 - e. les personnes traversant des zones à forte affluence dans lesquelles l'obligation de port du masque est instituée et signalée par les autorités communales.
 
@@ -60,7 +60,7 @@ arrête
 
 <sup>3</sup> L'article 6, alinéa 2, lettres a à f de l'ordonnance COVID-19 Situation particulière est applicable à l'exemption du port du masque.
 
-[^2-2]: Modif. 3 du 01.12.2021: Introduction tArt; entrée en vigueur au 02.12.2021; Introduction Al. 1; entrée en vigueur au 02.12.2021; Introduction Al. 1, a-c; entrée en vigueur au 02.12.2021; Introduction Al. 1, d-e; entrée en vigueur au 04.12.2021; Introduction Al. 2-3; entrée en vigueur au 04.12.2021; Introduction Art. 2a; entrée en vigueur au 02.12.2021 · Modif. 4 du 06.12.2021: Abrogation Al. 1, a-c; entrée en vigueur au 06.12.2021; Introduction Art. 5c; entrée en vigueur au 06.12.2021
+[^2-2]: Modif. 3 du 01.12.2021: Introduction tArt; entrée en vigueur au 02.12.2021; Introduction Al. 1; entrée en vigueur au 02.12.2021; Introduction Al. 1, a-c; entrée en vigueur au 02.12.2021; Introduction Al. 1, d-e; entrée en vigueur au 04.12.2021; Introduction Al. 2-3; entrée en vigueur au 04.12.2021; Introduction Art. 2a; entrée en vigueur au 02.12.2021 · Modif. 4 du 06.12.2021: Abrogation Al. 1, a-c; entrée en vigueur au 06.12.2021
 
 #### Art. 2b
 
@@ -121,11 +121,17 @@ arrête
 
 **Mesures liées à l'activité professionnelle [^5a-1]**
 
-<sup>1</sup> Le télétravail est recommandé.
+...
 
-<sup>2</sup> Dans les espaces clos, y compris les véhicules, où se tiennent plus d'une personne, toutes les personnes doivent porter un masque facial, dans la mesure où cela est compatible avec l'exercice de l'activité.
+[^5a-1]: Modif. 3 du 01.12.2021: Introduction Art. 5b; entrée en vigueur au 02.12.2021 · Modif. 4 du 06.12.2021: Abrogation Al. 1-2; entrée en vigueur au 06.12.2021
 
-[^5a-1]: Modif. 3 du 01.12.2021: Introduction Art. 5b; entrée en vigueur au 02.12.2021 · Modif. 4 du 06.12.2021: Abrogation Al. 1-2; entrée en vigueur au 06.12.2021; Introduction Art. 5c; entrée en vigueur au 06.12.2021
+#### Art. 5c
+
+**Visites dans les établissements pénitentiaires [^5b-1]**
+
+<sup>1</sup> Les visites aux personnes détenues en établissements pénitentiaires sont limitées, pour les personnes de 16 ans et plus, aux personnes disposant d'un certificat.
+
+[^5b-1]: Modif. 4 du 06.12.2021: Introduction Art. 5c; entrée en vigueur au 06.12.2021
 
 #### Art. 6
 
