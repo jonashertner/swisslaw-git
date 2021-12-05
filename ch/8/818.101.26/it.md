@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: it
-version: 2021-11-30
+version: 2021-12-06
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211130/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211130-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211130/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211206/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211206-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211206/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211130/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 23 giugno 2021 (Stato 30 novembre 2021)
+del 23 giugno 2021 (Stato 6 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -65,6 +65,21 @@ Sono considerate persone con un certificato ai sensi della presente ordinanza le
 [^3-2]: Introdotto dal n. III dell’O del 17 set. 2021, in vigore dal 20 set. 2021 al 24 ott. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 [^3-3]: Introdotto dal n. I dell’O del 1° ott. 2021 (Attestazioni per le persone che non possono essere vaccinate né testate per motivi medici) ([RU 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)). Abrogato dall’all. n. 2 dell’O del 3 nov. 2021, con effetto dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^3-4]: Introdotto dal n. III dell’O del 17 set. 2021, in vigore dal 20 set. 2021 al 24 ott. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+
+#### Art. 3a
+
+**Persone con un certificato di vaccinazione o guarigione**[^3a-1]
+
+Sono considerate persone con un certificato di vaccinazione o guarigione ai sensi della presente ordinanza le persone che dispongono di uno dei seguenti certificati:
+
+- a. certificato di vaccinazione COVID-19 secondo l’articolo 1 lettera a numero 1 dell’ordinanza del 4 giugno 2021[^3a-2] sui certificati COVID-19;
+- b. certificato di guarigione dalla COVID-19 secondo l’articolo 1 lettera a numero 2 dell’ordinanza sui certificati COVID-19;
+- c.[^3a-3] ...
+- d. certificato estero riconosciuto attestante l’avvenuta vaccinazione o guarigione secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
+
+[^3a-1]: Introdotto dal n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^3a-2]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^3a-3]: In vigore dal 10 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 ## Sezione 2: Provvedimenti nei confronti delle persone
 
@@ -115,9 +130,11 @@ Sono esentati dall’obbligo di cui al capoverso 1:
 - d. le persone che seguono un trattamento medico o cosmetico al viso;
 - e. le persone che si esibiscono, segnatamente gli oratori;
 - f.[^6-1] le persone che, in virtù di una prescrizione della presente ordinanza, sono esentate dall’obbligo della mascherina nei settori dello sport e della cultura;
-- g.[^6-2] le persone che frequentano strutture accessibili al pubblico o partecipano a manifestazioni il cui accesso è limitato alle persone con un certificato.
+- g.[^6-2] persone in strutture della ristorazione, bar e club mentre sono sedute al tavolo;
+- h.[^6-3] persone nel settore destinato al pubblico di una manifestazione: durante la consumazione mentre sono sedute al proprio posto;
+- i.[^6-4] le persone che frequentano strutture accessibili al pubblico o partecipano a manifestazioni il cui accesso è limitato alle persone con un certificato di vaccinazione o di guarigione.
 
-<sup>3</sup> e <sup>4</sup> ...[^6-3]
+<sup>3</sup> e <sup>4</sup> ...[^6-5]
 
 <sup>5</sup>
 
@@ -129,8 +146,10 @@ Sentita l’autorità cantonale competente, gli istituti medico-sociali possono 
 <sup>6</sup> L’allegato 2 disciplina quali persone sono considerate vaccinate ai sensi del capoverso 5 lettera a.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^6-2]: Introdotta dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^6-3]: Abrogati dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), con effetto dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^6-2]: Introdotta dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19) ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^6-3]: Introdotta dal n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^6-4]: Introdotta dal n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^6-5]: Abrogati dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), con effetto dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 ## Sezione 3: Provvedimenti concernenti la quarantena dei contatti e l’isolamento
 
@@ -229,22 +248,28 @@ L’autorità cantonale competente revoca l’isolamento al più presto dopo die
 
 <sup>2</sup>
 
-Se l’accesso delle persone a partire dai 16 anni non è limitato alle persone con un certificato, al piano di protezione si applicano le seguenti prescrizioni:
+Il piano di protezione deve prevedere i seguenti provvedimenti:
 
-- a. il piano deve prevedere provvedimenti concernenti l’igiene e il distanziamento per la struttura o la manifestazione;
-- b. deve prevedere provvedimenti che garantiscano il rispetto dell’obbligo della mascherina di cui all’articolo 6;
-- c.
+- a. provvedimenti concernenti l’igiene e l’aerazione;
+- b. provvedimenti concernenti il rispetto dell’obbligo di portare una mascherina facciale secondo l’articolo 6;
+- c. il rilevamento dei dati di contatto delle persone presenti secondo l’articolo 11, ove la presente ordinanza lo prescriva;
+- d. rovvedimenti concernenti le persone che secondo l’articolo 6 capoverso 2 non devono portare una mascherina facciale;
+- e. provvedimenti concernenti il rispetto della distanza, a meno che per le persone a partire dai 16 anni l’accesso non sia limitato alle persone con un certificato.[^10-1]
 
-  deve prevedere la registrazione dei dati di contatto delle persone presenti secondo l’articolo 11 se nei luoghi chiusi:
+<sup>3</sup>
 
-  - 1\. conformemente alle prescrizioni della presente ordinanza non deve essere né portata una mascherina facciale né rispettata la distanza obbligatoria, e
-  - 2\. non sono adottate misure di protezione idonee, quale l’installazione di barriere efficaci.
+Se per le persone a partire dai 16 anni l’accesso è limitato alle persone con un certificato, il piano di protezione deve contenere in aggiunta i seguenti provvedimenti:
 
-<sup>3</sup> Se l’accesso delle persone a partire dai 16 anni è limitato alle persone con un certificato, il piano di protezione deve prevedere misure per l’igiene e per l’attuazione della limitazione dell’accesso.
+- a. provvedimenti per l’attuazione della limitazione dell’accesso;
+- b.[^10-2] ... [^10-3]
 
 <sup>4</sup> Le prescrizioni secondo i capoversi 2 e 3 sono precisate nell’allegato 1.
 
 <sup>5</sup> Nel piano di protezione deve essere designata una persona responsabile dell’attuazione del piano e dei contatti con le autorità competenti.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-2]: In vigore dal 10 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 11
 
@@ -262,20 +287,22 @@ Se l’accesso delle persone a partire dai 16 anni non è limitato alle persone 
 
 <sup>1</sup>
 
-Alle strutture della ristorazione, ai bar e ai club in cui la consumazione avviene sul posto si applica quanto segue:
+Per strutture della ristorazione, bar e club nei quali la consumazione avviene sul posto si applica quanto segue:
 
-- a. nei luoghi chiusi, le strutture devono limitare l’accesso delle persone a partire dai 16 anni alle persone con un certificato;
-- b. nelle aree esterne, possono limitare l’accesso delle persone a partire dai 16 anni alle persone con un certificato; è fatto salvo l’articolo 15 capoverso 1<sup>bis</sup>. Se una struttura non prevede la limitazione dell’accesso nelle aree esterne, tra i gruppi di ospiti deve essere rispettata la distanza obbligatoria o devono essere installate barriere efficaci.[^12-1]
+- a. i gestori devono limitare l’accesso ai luoghi chiusi a persone con un certificato per persone a partire dai 16 anni. I gestori devono provvedere a un’aerazione efficace dei locali. Per gli ospiti vige l’obbligo di stare seduti, salvo che l’accesso sia limitato a persone a partire dai 16 anni con un certificato di vaccinazione o guarigione;
+- b. i gestori possono limitare l’accesso alle aree esterne a persone con un certificato per persone a partire dal 16 anni. Se un gestore non prevede una limitazione dell’accesso alle aree esterne, tra gruppi di ospiti deve essere rispettata la distanza necessaria o devono essere installate barriere efficaci;
+- c. alle manifestazioni all’aperto alle quali l’accesso è limitato a persone con un certificato per persone a partire dai 16 anni, tale limitazione si applica anche alle aree esterne di strutture della ristorazione, bar e club appartenenti alla manifestazione.[^12-1]
 
 <sup>2</sup> *...*[^12-2]
 
 <sup>3</sup> Le mense aziendali, le strutture della ristorazione nella zona di transito degli aeroporti nonché in strutture sociali, in particolare nei centri di consulenza, possono rinunciare a limitare l’accesso delle persone a partire dai 16 anni alle persone con un certificato. In questo caso devono prevedere misure di protezione adeguate, segnatamente il rispetto della distanza obbligatoria tra gli ospiti o gruppi di ospiti e l’obbligo di stare seduti durante la consumazione.[^12-3]
 
-<sup>4</sup> Alle discoteche e alle sale da ballo si applica unicamente l’articolo 13.
+<sup>4</sup> ...[^12-4]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^12-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^12-2]: Abrogato dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), con effetto dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 [^12-3]: Nuovo testo giusta il n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^12-4]: Abrogato dal n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), con effetto dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 13
 
@@ -283,61 +310,56 @@ Alle strutture della ristorazione, ai bar e ai club in cui la consumazione avvie
 
 <sup>1</sup> Le discoteche e le sale da ballo devono limitare l’accesso delle persone a partire dai 16 anni alle persone con un certificato e registrare i dati di contatto degli ospiti.
 
-<sup>2</sup> Le strutture culturali, ricreative, per il tempo libero e sportive accessibili al pubblico che aprono ai visitatori non soltanto le aree esterne devono limitare l’accesso delle persone a partire dai 16 anni alle persone con un certificato. È fatto salvo l’articolo 20.
+<sup>2</sup> Nelle strutture culturali, ricreative, per il tempo libero e sportive accessibili al pubblico nelle quali non sono rese accessibili ai visitatori esclusivamente le aree esterne, per le persone a partire dai 16 anni l’accesso deve essere limitato a persone con un certificato.[^13-2]
+
+<sup>3</sup> Le discoteche, le sale da ballo come anche le strutture secondo il capoverso 2, per le persone a partire dai 16 anni, possono limitare l’accesso a chi è provvisto di un certificato di vaccinazione o guarigione.[^13-3]
 
 [^13-1]: Nuovo testo giusta il n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542), [547](https://fedlex.data.admin.ch/eli/oc/2021/547)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^13-3]: Introdotto dal n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 14
 
-**Manifestazioni all’aperto per le quali l’accesso non è limitato alle persone con un certificato**[^14-1]
+**Manifestazioni all’aperto**[^14-1]
 
-<sup>1</sup> 2 Alle manifestazioni nella cerchia familiare e di amici (manifestazioni private) a cui partecipano al massimo 50 persone e che si svolgono all’aperto e non in strutture accessibili al pubblico si applica unicamente l’articolo 4; non vige l’obbligo di elaborare e attuare un piano di protezione.
+<sup>1</sup> Alle manifestazioni all’aperto per le persone a partire dai 16 anni l’accesso deve essere limitato alle persone con un certificato. Per le persone a partire dai 16 anni gli organizzatori possono limitare l’accesso a chi è provvisto di un certificato di vaccinazione o guarigione.
 
-Alle manifestazioni all’aperto si può rinunciare a limitare l’accesso delle persone a partire dai 16 anni alle persone con un certificato se sono soddisfatte le seguenti condizioni:
+<sup>2</sup>
 
-- a.
+È possibile rinunciare alla limitazione dell’accesso se sono soddisfatte le seguenti condizioni:
 
-  il numero di persone, siano esse visitatori o partecipanti, è limitato a 1000; in tal caso si applica quanto segue:
+- a. il numero massimo di persone, siano esse visitatori o partecipanti, è limitato a 300;
+- b. i visitatori non ballano.
 
-  - 1\. se per i visitatori vige l’obbligo di stare seduti, non possono essere ammessi più di 1000 visitatori;
-  - 2\. se ai visitatori sono messi a disposizione posti in piedi o se i visitatori possono muoversi liberamente, non possono essere ammessi più di 500 visitatori;
+<sup>3</sup> Alle manifestazioni nella cerchia familiare e degli amici (manifestazioni private) a cui partecipano fino a 50 persone e che si svolgono all’aperto ma non in strutture accessibili al pubblico è possibile rinunciare alla limitazione dell’accesso e all’elaborazione e attuazione di un piano di protezione; si applica solamente l’articolo 4.
 
-- b. sono utilizzati al massimo due terzi della capienza della struttura;
-- c. i visitatori non ballano.
-
-[^14-1]: Nuovo testo giusta il n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 14a
 
-**Manifestazioni in luoghi chiusi per le quali l’accesso non è limitato alle persone con un certificato**[^14a-1]
+[^14a-1]
 
-<sup>1</sup>
-
-Alle manifestazioni in luoghi chiusi si può rinunciare a limitare l’accesso delle persone a partire dai 16 anni alle persone con un certificato se sono soddisfatte le seguenti condizioni:
-
-- a. il numero di persone, visitatori o partecipanti, è limitato a 30;
-- b. si tratta di una manifestazione di un’associazione o di un altro gruppo fisso, i cui membri sono conosciuti dall’organizzatore;
-- c. sono utilizzati al massimo due terzi della capienza della struttura;
-- d. è osservato l’obbligo di portare una mascherina facciale secondo l’articolo 6; inoltre, è rispettata nel limite del possibile la distanza obbligatoria;
-- e. non si consumano cibi e bevande.
-
-<sup>2</sup> Alle manifestazioni religiose, ai funerali, alle manifestazioni svolte nel quadro delle ordinarie attività e prestazioni delle autorità, alle manifestazioni per la formazione dell’opinione politica nonché agli incontri di gruppi di autoaiuto attivi nei settori della lotta alle dipendenze e della salute psichica si applicano le prescrizioni di cui al capoverso 1 lettere c–e; devono inoltre essere registrati i dati di contatto delle persone presenti. Il numero massimo di persone, siano esse visitatori o partecipanti, è limitato a 50.
-
-<sup>3</sup> Alle manifestazioni private a cui partecipano al massimo 30 persone e che si svolgono in luoghi chiusi di strutture non accessibili al pubblico si applica unicamente l’articolo 4; non vige l’obbligo di elaborare e attuare un piano di protezione.
-
-[^14a-1]: Introdotto dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^14a-1]: Introdotto dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19) ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Abrogato dal n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), con effetto dal 6 dic. 2021 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 15
 
-**Manifestazioni per le quali l’accesso è limitato alle persone con un certificato**
+**Manifestazioni in luoghi chiusi**[^15-1]
 
-<sup>1</sup> Fatti salvi il capoverso 2 e l’obbligo di elaborare e attuare un piano di protezione secondo l’articolo 10 capoverso 3, alle manifestazioni per le quali l’accesso delle persone a partire dai 16 anni è limitato alle persone con un certificato non si applicano altre limitazioni secondo la presente ordinanza.
+<sup>1</sup> Alle manifestazioni in luoghi chiusi l’accesso deve essere limitato a persone con un certificato per persone a partire dai 16 anni. Per le persone a partire dai 16 anni gli organizzatori possono limitare l’accesso a chi è provvisto di un certificato di vaccinazione o guarigione.
 
-<sup>1bis</sup> Alle manifestazioni all’aperto per le quali l’accesso delle persone a partire dai 16 anni è limitato alle persone con un certificato, questa limitazione si applica anche alle aree esterne delle strutture della ristorazione, dei bar e dei club utilizzate per la manifestazione.[^15-1]
+<sup>2</sup>
 
-<sup>2</sup> Alle manifestazioni con più di 1000 persone si applicano gli articoli 16 e 17.
+A manifestazioni religiose, funerali, manifestazioni svolte nel quadro delle ordinarie attività e prestazioni delle autorità, manifestazioni per la formazione dell’opinione politica nonché incontri di gruppi di autoaiuto attivi nei settori della lotta alle dipendenze e della salute psichica svolti in luoghi chiusi è possibile rinunciare a una limitazione dell’accesso se sono soddisfatte le seguenti condizioni:
 
-[^15-1]: Introdotto dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+- a. il numero massimo di persone, siano esse visitatori o partecipanti, è limitato a 50;
+- b. è osservato l’obbligo di portare una mascherina facciale secondo l’articolo 6; inoltre ove possibile è rispettata la necessaria distanza;
+- c. è vietato consumare cibi e bevande;
+- d. l’organizzatore elabora un piano di protezione secondo l’articolo 10 e lo attua;
+- e. l’organizzatore rileva i dati di contatto delle persone presenti;
+
+<sup>3</sup> Alle manifestazioni private con 30 persone al massimo che si svolgono in luoghi chiusi di strutture non accessibili al pubblico è possibile rinunciare a una limitazione dell’accesso e all’elaborazione di un piano di protezione; si applica solamente l’articolo 4. Si raccomanda tuttavia di limitare l’accesso alle persone con un certificato se sono presenti più di 10 persone.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 16
 
@@ -347,7 +369,7 @@ Alle manifestazioni in luoghi chiusi si può rinunciare a limitare l’accesso d
 
 <sup>2</sup>
 
-L’autorizzazione è rilasciata se:
+L’autorizzazione è concessa se:[^16-1]
 
 - a. si può presumere che la situazione epidemiologica nel Cantone o nella regione interessata permetterà lo svolgimento;
 - b.
@@ -357,7 +379,7 @@ L’autorizzazione è rilasciata se:
   - 1\. identificare e informare le persone sospette contagiate secondo l’articolo 33 LEp,
   - 2\. garantire un’assistenza sanitaria senza restrizioni sia ai pazienti COVID-19 sia agli altri pazienti; questo significa che possono essere eseguiti anche interventi non urgenti dal punto di vista medico;
 
-- c. l’organizzatore presenta un piano di protezione secondo l’articolo 10 capoverso 3.
+- c.[^16-2] l’organizzatore presenta un piano di protezione secondo l’articolo 10.
 
 <sup>3</sup> Se una grande manifestazione si svolge in due o più Cantoni, è richiesta l’autorizzazione di ciascun Cantone. I Cantoni coordinano tra di loro le procedure.
 
@@ -370,13 +392,18 @@ Il Cantone revoca un’autorizzazione o emana ulteriori restrizioni se:
 - a. la situazione epidemiologica peggiora a tal punto che lo svolgimento della manifestazione non è più possibile, segnatamente perché le capacità necessarie secondo il capoverso 2 lettera b non possono più essere garantite; o
 - b. l’organizzatore non ha rispettato le misure previste nel piano di protezione in una manifestazione già svolta e non può garantirne il rispetto in futuro.
 
+[^16-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^16-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+
 #### Art. 17
 
 **Disposizioni particolari per grandi manifestazioni: misure di protezione**
 
-<sup>1</sup> Alle persone a partire dai 16 anni l’accesso a una grande manifestazione può essere accordato soltanto se presentano un certificato.
+<sup>1</sup> L’accesso a una grande manifestazione è consentito alle persone a partire dai 16 anni se presentano un certificato. Per le persone a partire dai 16 anni gli organizzatori possono limitare l’accesso a chi è provvisto di un certificato di vaccinazione o guarigione.[^17-1]
 
 <sup>2</sup> I Cantoni possono accordare deroghe alla limitazione dell’accesso di cui al capoverso 1 per manifestazioni sportive all’aperto che si svolgono su percorsi più lunghi o su percorsi in terreno aperto e per le quali, a causa delle peculiarità locali, non sono possibili né controlli all’ingresso né sbarramenti.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 18
 
@@ -412,35 +439,30 @@ Le seguenti manifestazioni non sono soggette ad alcuna limitazione del numero di
 
 **Disposizioni particolari destinate a istituzioni di formazione del settore universitario**[^19a-1]
 
-<sup>1</sup> Se il Cantone o un’istituzione del settore universitario limita lʼaccesso ad attività di insegnamento e ricerca degli studi di bachelor e master nonché del dottorato alle persone con un certificato, non si applicano altre limitazioni secondo la presente ordinanza tranne lʼobbligo di elaborare e attuare un piano di protezione secondo lʼarticolo 10 capoverso 3.
+Se il Cantone o una istituzione del settore universitario limita lʼaccesso ad attività di insegnamento e ricerca degli studi di bachelor e master nonché di dottorato alle persone con un certificato, ciò non esonera dall’obbligo di prevedere provvedimenti di protezione adeguati, in particolare l’obbligo di portare una mascherina facciale secondo l’articolo 6.
 
-<sup>2</sup>
-
-Se l’accesso alle attività di insegnamento e ricerca di cui al capoverso 1 non è limitato, si applica quanto segue:
-
-- a. possono essere utilizzati al massimo due terzi della capienza del locale;
-- b. l’obbligo di portare una mascherina facciale è retto dall’articolo 6; deve inoltre essere rispettata nel limite del possibile la distanza obbligatoria.
-
-[^19a-1]: Introdotto dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^19a-1]: Introdotto dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19) ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 20
 
 **Disposizioni particolari per le persone che svolgono attività sportive o culturali**
 
-Alle persone che svolgono attività sportive o culturali si applica quanto segue:
+Per persone che svolgono attività sportive o culturali si applica quanto segue:[^20-1]
 
 - a. non vige l’obbligo né di portare una mascherina facciale né di rispettare la distanza obbligatoria;
-- b.[^20-1] se le attività sono svolte nel quadro di manifestazioni, si applicano gli articoli 14–15 per quanto riguarda le limitazioni dell’accesso, del numero di persone e della capienza;
+- [tab] b.[^20-2] se le attività sono svolte nel quadro di manifestazioni, si applicano gli articoli 14 e 15 per quanto riguarda le limitazioni dell’accesso e del numero di persone;
 - c. deve essere elaborato e attuato un piano di protezione soltanto se le attività in gruppo sono svolte da più di cinque persone; alle persone che svolgono le attività in un rapporto d’impiego si applicano le prescrizioni di cui all’articolo 25;
-- d.[^20-2]
+- d.[^20-3]
 
-  se le attività sono svolte in luoghi chiusi:
+  se le attività sono svolte in luoghi chiusi si applica inoltre quanto segue:
 
-  - 1\. si deve limitare l’accesso delle persone a partire dai 16 anni alle persone con un certificato; sono esentate da quest’obbligo le regolari attività collettive che si svolgono in locali separati in un’associazione o in un altro gruppo fisso di al massimo 30 persone conosciute dall’organizzatore, in particolare allenamenti o prove,
-  - 2\. deve essere garantita un’aerazione efficace.
+  - 1\. per persone a partire dai 16 anni l’accesso deve essere limitato a persone con un certificato;
+  - 2\. deve essere presente un’aerazione efficace;
+  - 3\. se durante l’attività non si porta la mascherina facciale, il gestore della struttura o l’organizzatore dell’attività deve rilevare i dati di contatto.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^20-2]: Nuovo testo giusta il n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^20-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^20-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^20-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 21
 
@@ -496,17 +518,25 @@ I gestori e gli organizzatori devono:
 
 <sup>1</sup> I datori di lavoro devono prevedere e attuare i provvedimenti necessari per garantire che i lavoratori possano rispettare le raccomandazioni dell’UFSP concernenti l’igiene e il distanziamento.
 
+<sup>1bis</sup>
+
+Nei luoghi chiusi, compresi i veicoli, in cui si trova più di una persona, ogni persona deve portare una mascherina facciale. Il presente obbligo non si applica per:
+
+- a. le attività durante le quali, per motivi di sicurezza o a causa della natura dell’attività, non può essere portata una mascherina;
+- b. persone che non devono portare una mascherina facciale secondo l’articolo 6 capoverso 2.[^25-1]
+
 <sup>2</sup> I datori di lavoro prendono ulteriori provvedimenti secondo il principio STOP (sostituzione, misure tecniche, misure organizzative, misure di protezione individuale), segnatamente la possibilità del telelavoro, la separazione fisica, squadre separate, la regolare aerazione o l’uso di mascherine.
 
-<sup>2bis</sup> Sono autorizzati a verificare se i loro lavoratori possiedono un certificato di cui all’articolo 3, se questo serve a stabilire misure di protezione opportune o all’attuazione del piano di test di cui all’articolo 7 capoverso 4. Il risultato della verifica non può essere utilizzato per altri scopi.[^25-1]
+<sup>2bis</sup> Sono autorizzati a verificare se i loro lavoratori possiedono un certificato di cui all’articolo 3, se questo serve a stabilire misure di protezione opportune o all’attuazione del piano di test di cui all’articolo 7 capoverso 4. Il risultato della verifica non può essere utilizzato per altri scopi.[^25-2]
 
-<sup>2ter</sup> Se il datore di lavoro prevede la verifica del possesso di un certificato secondo il capoverso 2<sup>bis</sup>, questa deve essere documentata per scritto così come le misure da essa scaturite. I lavoratori o i loro rappresentanti devono essere preventivamente sentiti.[^25-2]
+<sup>2ter</sup> Se il datore di lavoro prevede la verifica del possesso di un certificato secondo il capoverso 2<sup>bis</sup>, questa deve essere documentata per scritto così come le misure da essa scaturite. I lavoratori o i loro rappresentanti devono essere preventivamente sentiti.[^25-3]
 
-<sup>3</sup> Alla protezione dei lavoratori particolarmente a rischio si applica inoltre l’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^25-3].
+<sup>3</sup> Alla protezione dei lavoratori particolarmente a rischio si applica inoltre l’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^25-4].
 
-[^25-1]: Introdotto dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^25-1]: Introdotto dal n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^25-2]: Introdotto dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^25-3]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^25-3]: Introdotto dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^25-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -542,22 +572,22 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 
 È punito con la multa chi:
 
-- a.[^28-1] in qualità di gestore o organizzatore intenzionalmente o per negligenza non ri-spetta una delle seguenti disposizioni: articoli 10 capoversi 1–3, 12, 13, 14 capoverso 1, 14*a* capoversi 1 e 2, 15 capoversi 1 e 1<sup>bis</sup>, 17 capoverso 1, 18 lettere a e b e 20;
+- a.[^28-1] in qualità di gestore o organizzatore intenzionalmente o per negligenza non rispetta una delle seguenti disposizioni: articolo 10 capoversi 1–3, 12, 13, 14 capoversi 1 e 2, 15 capoversi 1 e 2, 17 capoverso 1, 18 lettere a e b nonché 20;
 - b. in qualità di gestore o organizzatore intenzionalmente o per negligenza tratta i dati di contatto rilevati secondo l’articolo 11 per altri scopi o li conserva per più di 14 giorni dopo la partecipazione a una manifestazione o la visita di una struttura in violazione dell’articolo 11 capoverso 3;
-- c.[^28-2] intenzionalmente svolge una manifestazione con un numero di persone superiore a quello ammesso secondo gli articoli 14 capoversi 1 lettera a e 2 nonché 14*a* capoversi 1 lettera a, 2 e 3;
+- c.[^28-2] intenzionalmente svolge una manifestazione con un numero di persone superiore a quello ammesso secondo gli articoli 14 capoversi 2 e 3 nonché 15 capoversi 2 e 3 lettera a;
 - d.[^28-3] intenzionalmente svolge una grande manifestazione di cui all’articolo 16 capoverso 1 oppure svolge una grande fiera specialistica o una grande fiera aperta al pubblico di cui all’articolo 18 lettera c senza essere in possesso dell’autorizzazione necessaria o in deroga al piano di protezione autorizzato;
-- e.[^28-4] in violazione degli articoli 5 capoverso 1, 6 capoverso 1 o 14*a* capoverso 1 lettera d, in settori chiusi di veicoli del trasporto pubblico, in luoghi chiusi accessibili al pubblico di strutture o a manifestazioni intenzionalmente o per negligenza non porta una mascherina facciale, a meno che non sia applicabile la deroga di cui all’articolo 5 capoverso 1 o 6 capoverso 2;
+- e.[^28-4] in violazione degli articoli 5 capoverso 1, 6 capoverso 1 o 15 capoverso 2 lettera b, in settori chiusi di veicoli del trasporto pubblico, in luoghi chiusi accessibili al pubblico di strutture o a manifestazioni intenzionalmente o per negligenza non porta una mascherina facciale, a meno che non sia applicabile una deroga secondo l’articolo 5 capoverso 1 o 6 capoverso 2;
 - f.[^28-5] *...*
-- g.[^28-6] intenzionalmente viola, in qualità di visitatore di una manifestazione all’aperto senza limitazione dell’accesso, l’obbligo di stare seduti secondo l’articolo 14 capoverso 1 lettera a numero 1;
-- h.[^28-7] intenzionalmente accede come persona con più di 16 anni senza un certificato valido ai sensi dell’articolo 3 a una struttura o a una manifestazione per le quali l’accesso è limitato alle persone con un simile certificato.
+- g.[^28-6] intenzionalmente viola, in qualità di ospite di una struttura della ristorazione, l’obbligo di stare seduti secondo l’articolo 12 capoverso 1 lettera a;
+- h.[^28-7] intenzionalmente accede come persona con più di 16 anni senza un certificato valido ai sensi dell’articolo 3 a una struttura o a una manifestazione per le quali l’accesso è limitato alle persone con un simile certificato, a meno che non si tratti di una manifestazione privata secondo l’articolo 15 capoverso 3 lettera a.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-2]: Nuovo testo giusta il n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^28-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^28-3]: Nuovo testo giusta il n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-4]: Nuovo testo giusta il n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-4]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^28-5]: Abrogata dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), con effetto dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-6]: Introdotta dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-7]: Introdotta dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-6]: Introdotta dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19) [RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^28-7]: Introdotta dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19) [RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 ## Sezione 8: Aggiornamento degli allegati
 
@@ -593,11 +623,13 @@ Le autorizzazioni per progetti pilota rilasciate in virtù dell’articolo 6*b*<
 
 #### Art. 32a
 
-**Disposizione transitoria della modifica del 3 novembre 2021**[^32a-1]
+**Disposizione transitoria alla modifica del 3 dicembre 2021**[^32a-1]
 
-Fino al 31 dicembre 2021, i documenti attestanti che una persona, per motivi medici, non può farsi vaccinare né testare sono equiparate ai certificati di cui all’articolo 3 capoverso 1. Per l’attestazione è richiesto un certificato rilasciato da un medico domiciliato in Svizzera autorizzato a esercitare sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006[^32a-2] sulle professioni mediche.
+<sup>1</sup> Fino al 24 gennaio 2022, i documenti attestanti che una persona, per motivi medici, non può farsi vaccinare né testare sono equiparati ai certificati di cui all’articolo 3 capoverso 1 nonché all’articolo 3*a*. Per l’attestazione è richiesto un certificato rilasciato da un medico domiciliato in Svizzera autorizzato a esercitare sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006[^32a-2] sulle professioni mediche.
 
-[^32a-1]: Introdotto dall’all. n. 2 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+<sup>2</sup> Nelle manifestazioni e strutture in cui l’accesso delle persone al di sopra dei 16 anni è ulteriormente limitato a chi è provvisto di un certificato di vaccinazione o guarigione, fino al 12 dicembre 2021, in deroga all’allegato 1 numero 2 lettera a, è possibile verificare anche con altri mezzi che si tratti di un certificato secondo l’articolo 3*a* lettera c.
+
+[^32a-1]: Introdotto dall’all. n. 2 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^32a-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 33
@@ -612,7 +644,7 @@ Allegato 1*[^t-1]*
 
 ## Prescrizioni relative ai piani di protezione
 
-[^t-1]: Aggiornato dal n. II dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore fino al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), dal n. II dell’O del 1° ott. 2021 (Attestazioni per le persone che non possono essere vaccinate né testate per motivi medici) ([RU 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)) e dall’all. n. 2 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-1]: Aggiornato dal n. II dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore fino al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), dal n. II dell’O del 1° ott. 2021 (Attestazioni per le persone che non possono essere vaccinate né testate per motivi medici) ([RU 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)), dall’all. n. 2 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) e dal n. II dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 ### 1 Piani di protezione per strutture accessibili al pubblico e manifestazioni per le quali l’accesso delle persone a partire dai 16 anni non è limitato alle persone con un certificato
 
@@ -638,17 +670,17 @@ Allegato 1*[^t-1]*
 ### 1.3 Distanziamento
 
 - 1\.3.1 Tra le persone deve essere rispettata una distanza di almeno 1,5 metri (distanza obbligatoria).
-- 1\.3.2 In deroga al numero 1.3.1, nei settori dei posti a sedere i posti devono essere disposti o occupati in modo da lasciare, nel limite del possibile nel quadro delle vigenti limitazioni della capienza, almeno un posto libero o rispettare una distanza equivalente tra due posti a sedere.
-- 1\.3.3 Nelle strutture della ristorazione, nei bar e nei club, i gruppi di ospiti devono essere disposti ai singoli tavoli in modo da rispettare la distanza obbligatoria tra i singoli gruppi.
+- 1\.3.2 In deroga al numero 1.3.1, nei settori dei posti a sedere i posti devono essere disposti o occupati in modo da lasciare, nel limite del possibile, almeno un posto libero o rispettare una distanza equivalente tra due posti a sedere.
+- 1\.3.3 ...
 - 1\.3.4 Il flusso di persone va incanalato in modo da consentire il rispetto della distanza obbligatoria tra tutte le persone.
 - 1\.3.5 Sono eccettuati dalle prescrizioni sul distanziamento i gruppi di persone per i quali non ha senso il rispetto della distanza, segnatamente i bambini in età scolastica, le famiglie o le persone che vivono nella stessa economia domestica.
 
 ### 1.4 Registrazione dei dati di contatto
 
-- 1\.4.1 I dati di contatto delle persone presenti devono essere registrati se le distanze scendono al di sotto della distanza obbligatoria per oltre 15 minuti senza misure di protezione.
+- 1\.4.1 ...
 - 1\.4.2
 
-  Il gestore o l’organizzatore deve informare le persone presenti in merito ai seguenti punti:
+  Se sono rilevati i dati di contatto, il gestore o l’organizzatore deve informare le persone presenti in merito ai seguenti punti:
 
   - a. il previsto mancato rispetto della distanza obbligatoria e il conseguente maggior rischio di contagio;
   - b. la possibilità di essere contattati dal servizio cantonale competente e la competenza di quest’ultimo di ordinare una quarantena in caso di contatti con persone malate di COVID-19.
@@ -658,14 +690,15 @@ Allegato 1*[^t-1]*
 
   Devono essere registrati i seguenti dati:
 
-  - a. cognome, nome, domicilio e numero di telefono;
-  - b. per le strutture, segnatamente quelle della ristorazione e i cinema, e per le manifestazioni con posti a sedere: il numero di posto o di tavolo.
+  - a. cognome e nome;
+  - b. domicilio;
+  - c. numero di telefono.
 
 - 1\.4.5 Il gestore o l’organizzatore deve garantire con misure adeguate la correttezza dei dati di contatto rilevati.
 - 1\.4.6 Per le famiglie o altri gruppi di persone che si conoscono tra di loro è sufficiente registrare i dati di contatto di un solo membro della famiglia o del gruppo.
 - 1\.4.7 Il gestore o l’organizzatore deve garantire la riservatezza dei dati di contatto registrati e la sicurezza dei dati, segnatamente nell’ambito della loro conservazione.
 
-### 2 Piani di protezione per strutture accessibili al pubblico e manifestazioni per le quali l’accesso delle persone a partire dai 16 anni è limitato alle persone con un certificato
+### 2 Piani di protezione per strutture accessibili al pubblico e manifestazioni per le quali l’accesso delle persone a partire dai 16 anni è limitato alle persone con un certificato o ulteriormente limitato alle persone con un certificato di vaccinazione o guarigione
 
 Il piano di protezione prevede misure per quanto riguarda:
 

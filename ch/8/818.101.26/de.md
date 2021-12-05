@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2021-11-30
+version: 2021-12-06
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211130/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211130-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211130/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211206/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211206-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211206/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211130/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 30. November 2021)
+vom 23. Juni 2021 (Stand am 6. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -55,16 +55,31 @@ Als Personen mit einem Zertifikat im Sinne dieser Verordnung gelten Personen, di
 - a. ein Covid-19-Zertifikat nach Artikel 1 Buchstabe a der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^3-1];
 - b. ein anerkanntes ausländisches Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate.
 
-<sup>2</sup> ...[^3-2]
+<sup>2</sup> …[^3-2]
 
-<sup>2bis</sup> ...[^3-3]
+<sup>2bis</sup> …[^3-3]
 
-<sup>3</sup> ...[^3-4]
+<sup>3</sup> …[^3-4]
 
 [^3-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^3-2]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 24. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
 [^3-3]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021 (Nachweise für Personen, die aus medizinischen Gründen weder geimpft noch getestet werden können) ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)). Aufgehoben durch Anhang Ziff. 2 der V vom 3. Nov. 2021, mit Wirkung seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^3-4]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 24. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+
+#### Art. 3a
+
+**Personen mit einem Impf- oder Genesungszertifikat**[^3a-1]
+
+Als Personen mit einem Impf- oder Genesungszertifikat im Sinne dieser Verordnung gelten Personen, die über eines der folgenden Zertifikate verfügen:
+
+- a. ein Covid-19-Impfzertifikat nach Artikel 1 Buchstabe a Ziffer 1 Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^3a-2];
+- b. ein Covid-19-Genesungszertifikat nach Artikel 1 Buchstabe a Ziffer 2 Covid-19-Verordnung Zertifikate;
+- c.[^3a-3] …
+- d. ein anerkanntes ausländisches Zertifikat zur Bescheinigung von Impfungen oder Genesungen nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate.
+
+[^3a-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^3a-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^3a-3]: Tritt am 10. Jan. 2022 in Kraft ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 ## 2. Abschnitt: Massnahmen gegenüber Personen
 
@@ -115,9 +130,11 @@ Von der Pflicht nach Absatz 1 ausgenommen sind folgende Personen:
 - d. Personen, die eine medizinische oder kosmetische Dienstleistung im Gesicht in Anspruch nehmen;
 - e. auftretende Personen, namentlich Rednerinnen und Redner;
 - f.[^6-1] Personen, die gestützt auf eine Vorgabe in dieser Verordnung in den Bereichen Sport und Kultur von der Maskenpflicht ausgenommen sind;
-- g.[^6-2] Personen in öffentlich zugänglichen Einrichtungen und Betrieben oder an Veranstaltungen, zu denen der Zugang auf Personen mit einem Zertifikat beschränkt ist.
+- g.[^6-2] Personen in Restaurations-, Bar- und Clubbetrieben: wenn sie am Tisch sitzen;
+- h.[^6-3] Personen im Publikumsbereich von Veranstaltungen: bei der Konsumation am Sitzplatz;
+- i.[^6-4] Personen in öffentlich zugänglichen Einrichtungen und Betrieben oder an Veranstaltungen, zu denen der Zugang auf Personen mit einem Impf- oder Genesungszertifikat beschränkt ist.
 
-<sup>3</sup> und <sup>4</sup> ...[^6-3]
+<sup>3</sup> und <sup>4</sup> …[^6-5]
 
 <sup>5</sup>
 
@@ -129,8 +146,10 @@ Sozialmedizinische Institutionen können nach Rücksprache mit der zuständigen 
 <sup>6</sup> Welche Personen im Sinne von Absatz 5 Buchstabe a als geimpft gelten, wird in Anhang 2 geregelt.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^6-2]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^6-3]: Aufgehoben durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), mit Wirkung vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^6-2]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^6-3]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^6-4]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^6-5]: Aufgehoben durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), mit Wirkung vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 ## 3. Abschnitt: Massnahmen betreffend die Kontaktquarantäne und die Absonderung
 
@@ -229,22 +248,28 @@ Die zuständige kantonale Behörde hebt die Absonderung frühestens nach 10 Tage
 
 <sup>2</sup>
 
-Wird bei Personen über 16 Jahren der Zugang nicht auf Personen mit einem Zertifikat eingeschränkt, so gelten für das Schutzkonzept folgende Vorgaben:
+Das Schutzkonzept muss Folgendes vorsehen:
 
-- a. Es muss für die Einrichtung, den Betrieb oder die Veranstaltung Massnahmen betreffend Hygiene und Abstand vorsehen.
-- b. Es muss Massnahmen vorsehen, welche die Einhaltung der Maskentragpflicht nach Artikel 6 gewährleisten.
-- c.
+- a. Massnahmen betreffend Hygiene und Lüftung;
+- b. Massnahmen betreffend die Einhaltung der Maskentragpflicht nach Artikel 6;
+- c. die Erhebung der Kontaktdaten der anwesenden Personen nach Artikel 11, wo diese Verordnung dies vorschreibt.
+- d. Massnahmen betreffend Personen, die gemäss Artikel 6 Absatz 2 keine Maske tragen müssen;
+- e. Massnahmen betreffend die Einhaltung des Abstands, es sei denn, bei Personen über 16 Jahren wird der Zugang auf Personen mit einem Zertifikat eingeschränkt.[^10-1]
 
-  Es muss die Erhebung der Kontaktdaten der anwesenden Personen nach Artikel 11 vorgesehen werden, wenn in Innenräumen:
+<sup>3</sup>
 
-  - 1\. gemäss den Vorgaben dieser Verordnung weder eine Gesichtsmaske getragen noch der erforderliche Abstand eingehalten werden muss; und
-  - 2\. keine wirksamen Schutzmassnahmen wie das Anbringen geeigneter Abschrankungen ergriffen werden.
+Wird bei Personen über 16 Jahren der Zugang auf Personen mit einem Zertifikat eingeschränkt, so muss das Schutzkonzept zudem folgende Massnahmen enthalten:
 
-<sup>3</sup> Wird bei Personen über 16 Jahren der Zugang auf Personen mit einem Zertifikat eingeschränkt, so muss das Schutzkonzept Massnahmen zur Hygiene und zur Umsetzung der Zugangsbeschränkung enthalten.
+- a. Massnahmen zur Umsetzung der Zugangsbeschränkung;
+- b.[^10-2] … .[^10-3]
 
 <sup>4</sup> Die Vorgaben nach den Absätzen 2 und 3 werden in Anhang 1 näher ausgeführt.
 
 <sup>5</sup> Im Schutzkonzept muss eine für die Umsetzung des Konzepts und für den Kontakt mit den zuständigen Behörden verantwortliche Person bezeichnet werden.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-2]: Tritt am 10. Jan. 2022 in Kraft ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 11
 
@@ -264,18 +289,20 @@ Wird bei Personen über 16 Jahren der Zugang nicht auf Personen mit einem Zertif
 
 Für Restaurations-, Bar- und Clubbetriebe, in denen die Konsumation vor Ort erfolgt, gilt Folgendes:
 
-- a. Die Betriebe müssen bei Personen ab 16 Jahren den Zugang zu Innenbereichen auf Personen mit einem Zertifikat beschränken.
-- b. Den Zugang zu Aussenbereichen können die Betriebe für Personen ab 16 Jahren auf Personen mit einem Zertifikat beschränken; vorbehalten bleibt Artikel 15 Absatz 1<sup>bis</sup>. Sieht ein Betrieb im Aussenbereich keine Beschränkung des Zugangs vor, so muss zwischen den Gästegruppen entweder der erforderliche Abstand eingehalten oder müssen wirksame Abschrankungen angebracht werden.[^12-1]
+- a. Den Zugang zu Innenbereichen müssen die Betreiber für Personen ab 16 Jahren auf Personen mit einem Zertifikat beschränken. Die Betreiber müssen für eine wirksame Lüftung der Räumlichkeiten sorgen. Für die Gäste gilt eine Sitzpflicht, ausser wenn der Zugang für Personen ab 16 Jahren auf Personen mit einem Impf- oder Genesungszertifikat beschränkt wird.
+- b. Den Zugang zu Aussenbereichen können die Betreiber für Personen ab 16 Jahren auf Personen mit einem Zertifikat beschränken. Sieht ein Betreiber im Aussenbereich keine Beschränkung des Zugangs vor, so muss zwischen den Gästegruppen entweder der erforderliche Abstand eingehalten oder müssen wirksame Abschrankungen angebracht werden.
+- c. Bei Veranstaltungen im Freien, zu denen der Zugang für Personen ab 16 Jahren auf Personen mit einem Zertifikat beschränkt wird, gilt diese Beschränkung auch für die Aussenbereiche von zur Veranstaltung gehörigen Restaurations-, Bar- und Clubbetrieben.[^12-1]
 
-<sup>2</sup> ...[^12-2]
+<sup>2</sup> …[^12-2]
 
 <sup>3</sup> Betriebskantinen, Restaurationsbetriebe im Transitbereich von Flughäfen sowie in sozialen Einrichtungen, namentlich Anlaufstellen, können auf die Beschränkung des Zugangs für Personen ab 16 Jahren auf Personen mit einem Zertifikat verzichten. Sie müssen diesfalls geeignete Schutzmassnahmen vorsehen, namentlich die Einhaltung des erforderlichen Abstands zwischen den Gästen oder Gästegruppen und die Sitzpflicht während der Konsumation.[^12-3]
 
-<sup>4</sup> Für Diskotheken und Tanzlokale gilt einzig Artikel 13.
+<sup>4</sup> …[^12-4]
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^12-2]: Aufgehoben durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), mit Wirkung vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 [^12-3]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^12-4]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), mit Wirkung vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 13
 
@@ -283,63 +310,56 @@ Für Restaurations-, Bar- und Clubbetriebe, in denen die Konsumation vor Ort erf
 
 <sup>1</sup> Diskotheken und Tanzlokale müssen bei Personen ab 16 Jahren den Zugang auf Personen mit einem Zertifikat beschränken und die Kontaktdaten der Gäste erheben.
 
-<sup>2</sup> Öffentlich zugängliche Einrichtungen und Betriebe in den Bereichen Kultur, Unterhaltung, Freizeit und Sport, in denen den Besucherinnen und Besuchern nicht ausschliesslich Aussenbereiche offenstehen, müssen bei Personen ab 16 Jahren den Zugang auf Personen mit einem Zertifikat beschränken. Artikel 20 bleibt vorbehalten.
+<sup>2</sup> Öffentlich zugängliche Einrichtungen und Betriebe in den Bereichen Kultur, Unterhaltung, Freizeit und Sport, in denen den Besucherinnen und Besuchern nicht ausschliesslich Aussenbereiche offenstehen, müssen bei Personen ab 16 Jahren den Zugang auf Personen mit einem Zertifikat beschränken.[^13-2]
+
+<sup>3</sup> Sowohl Diskotheken und Tanzlokale als auch Einrichtungen und Betriebe nach Absatz 2 können den Zugang für Personen ab 16 Jahren auf Personen mit einem Impf- oder Genesungszertifikat beschränken.[^13-3]
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)[547](https://fedlex.data.admin.ch/eli/oc/2021/547)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^13-3]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 14
 
-**Veranstaltungen im Freien ohne Zugangsbeschränkung auf Personen mit einem Zertifikat**[^14-1]
+**Veranstaltungen im Freien**[^14-1]
 
-<sup>1</sup>
+<sup>1</sup> Bei Veranstaltungen im Freien muss der Zugang für Personen ab 16 Jahren auf Personen mit einem Zertifikat beschränkt werden. Die Organisatoren können den Zugang für Personen ab 16 Jahren auf Personen mit einem Impf- oder Genesungszertifikat beschränken.
 
-Für Veranstaltungen im Freien kann darauf verzichtet werden, den Zugang für Personen ab 16 Jahren auf Personen mit einem Zertifikat zu beschränken, wenn folgende Voraussetzungen erfüllt sind:
+<sup>2</sup>
 
-- a.
+Auf eine Zugangsbeschränkung kann verzichtet werden, wenn folgende Voraussetzungen erfüllt sind:
 
-  Die maximale Anzahl Personen, seien es Besucherinnen und Besucher oder Teilnehmende, beträgt 1000; dabei gilt:
+- a. Die maximale Anzahl Personen, seien es Besucherinnen und Besucher oder Teilnehmende, beträgt 300.
+- b. Die Besucherinnen und Besucher tanzen nicht.
 
-  - 1\. Besteht für die Besucherinnen und Besucher eine Sitzpflicht, so dürfen höchstens 1000 Besucherinnen und Besucher eingelassen werden.
-  - 2\. Stehen den Besucherinnen und Besuchern Stehplätze zur Verfügung oder können sie sich frei bewegen, so dürfen höchstens 500 Besucherinnen und Besucher eingelassen werden.
+<sup>3</sup> Bei Veranstaltungen im Familien- und Freundeskreis (private Veranstaltungen) mit höchstens 50 Personen, die im Freien, aber nicht in öffentlich zugänglichen Einrichtungen und Betrieben stattfinden, kann auf eine Zugangsbeschränkung und auf die Erarbeitung und Umsetzung eines Schutzkonzepts verzichtet werden; es gilt einzig Artikel 4.
 
-- b. Die Einrichtung ist höchstens zu zwei Dritteln ihrer Kapazität besetzt.
-- c. Die Besucherinnen und Besucher tanzen nicht.
-
-<sup>2</sup> Für Veranstaltungen im Familien- und Freundeskreis (private Veranstaltungen) mit höchstens 50 Personen, die im Freien, aber nicht in öffentlich zugänglichen Einrichtungen und Betrieben stattfinden, gilt einzig Artikel 4; die Pflicht zur Erarbeitung und Umsetzung eines Schutzkonzepts gilt nicht.
-
-[^14-1]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 14a
 
-**Veranstaltungen in Innenräumen ohne Zugangsbeschränkung auf Personen mit einem Zertifikat**[^14a-1]
+[^14a-1]
 
-<sup>1</sup>
-
-Für Veranstaltungen in Innenräumen kann darauf verzichtet werden, den Zugang für Personen ab 16 Jahren auf Personen mit einem Zertifikat zu beschränken, wenn folgende Voraussetzungen erfüllt sind:
-
-- a. Die maximale Anzahl Personen, seien es Besucherinnen und Besucher oder Teilnehmende, beträgt 30.
-- b. Es handelt sich um eine Veranstaltung eines Vereins oder einer anderen beständigen Gruppe, deren Mitglieder dem Organisator bekannt sind.
-- c. Die Einrichtung ist höchstens zu zwei Dritteln ihrer Kapazität besetzt.
-- d. Die Pflicht zum Tragen einer Gesichtsmaske nach Artikel 6 wird befolgt; zudem wird der erforderliche Abstand nach Möglichkeit eingehalten.
-- e. Es werden keine Speisen und Getränke konsumiert.
-
-<sup>2</sup> Für religiöse Veranstaltungen, Bestattungsfeiern, Veranstaltungen im Rahmen der üblichen Tätigkeit und der Dienstleistungen von Behörden, Veranstaltungen zur politischen Meinungsbildung sowie Treffen etablierter Selbsthilfegruppen in den Bereichen der Suchtbekämpfung und der psychischen Gesundheit gelten die Vorgaben nach Absatz 1 Buchstaben c–e; zudem müssen die Kontaktdaten der anwesenden Personen erhoben werden. Die maximale Anzahl Personen, seien es Besucherinnen und Besucher oder Teilnehmende, beträgt 50.
-
-<sup>3</sup> Für private Veranstaltungen mit höchstens 30 Personen, die in Innenräumen von nicht öffentlich zugänglichen Einrichtungen und Betrieben stattfinden, gilt einzig Artikel 4; die Pflicht zur Erarbeitung und Umsetzung eines Schutzkonzepts gilt nicht.
-
-[^14a-1]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^14a-1]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), mit Wirkung vom 6. Dez. 2021 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 15
 
-**Veranstaltungen mit einer Zugangsbeschränkung auf Personen mit einem Zertifikat**
+**Veranstaltungen in Innenräumen**[^15-1]
 
-<sup>1</sup> Für Veranstaltungen, zu denen bei Personen ab 16 Jahren der Zugang auf Personen mit einem Zertifikat beschränkt wird, gelten unter Vorbehalt von Absatz 2 ausser der Pflicht zur Erarbeitung und Umsetzung eines Schutzkonzepts nach Artikel 10 Absatz 3 keine Einschränkungen nach dieser Verordnung.
+<sup>1</sup> Bei Veranstaltungen in Innenräumen muss der Zugang für Personen ab 16 Jahren auf Personen mit einem Zertifikat beschränkt werden. Die Organisatoren können den Zugang für Personen ab 16 Jahren auf Personen mit einem Impf- oder Genesungszertifikat beschränken.
 
-<sup>1bis</sup> Für Veranstaltungen im Freien, zu denen der Zugang für Personen ab 16 Jahren auf Personen mit einem Zertifikat beschränkt wird, gilt diese Beschränkung auch für die Aussenbereiche von zur Veranstaltung gehörigen Restaurations-, Bar- und Clubbetrieben.[^15-1]
+<sup>2</sup>
 
-<sup>2</sup> Für Veranstaltungen mit mehr als 1000 Personen gelten die Artikel 16 und 17.
+Bei in Innenräumen durchgeführten religiösen Veranstaltungen, Bestattungsfeiern, Veranstaltungen im Rahmen der üblichen Tätigkeit und der Dienstleistungen von Behörden, Veranstaltungen zur politischen Meinungsbildung sowie Treffen etablierter Selbsthilfegruppen in den Bereichen der Suchtbekämpfung und der psychischen Gesundheit kann auf eine Zugangsbeschränkung verzichtet werden, wenn folgende Voraussetzungen erfüllt sind:
 
-[^15-1]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+- a. Die maximale Anzahl Personen, seien es Besucherinnen und Besucher oder Teilnehmende, beträgt 50.
+- b. Die Pflicht zum Tragen einer Gesichtsmaske nach Artikel 6 wird befolgt; zudem wird der erforderliche Abstand nach Möglichkeit eingehalten.
+- c. Es dürfen keine Speisen und Getränke konsumiert werden.
+- d. Der Organisator erarbeitet ein Schutzkonzept nach Artikel 10 und setzt dieses um.
+- e. Der Organisator erhebt die Kontaktdaten der anwesenden Personen.
+
+<sup>3</sup> Bei privaten Veranstaltungen mit höchstens 30 Personen, die in Innenräumen von nicht öffentlich zugänglichen Einrichtungen und Betrieben stattfinden, kann auf eine Zugangsbeschränkung und die Erarbeitung eines Schutzkonzepts verzichtet werden; es gilt einzig Artikel 4. Es wird jedoch empfohlen, den Zugang auf Personen mit einem Zertifikat zu beschränken, wenn mehr als 10 Personen anwesend sind.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 16
 
@@ -359,7 +379,7 @@ Die Bewilligung wird erteilt, wenn:
   - 1\. Kapazitäten für die erforderliche Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen nach Artikel 33 EpG,
   - 2\. Kapazitäten in der Gesundheitsversorgung, um sowohl Covid-19-Patientinnen und -Patienten als auch andere Patientinnen und Patienten uneingeschränkt versorgen zu können; dies schliesst namentlich ein, dass auch medizinisch nicht dringende Eingriffe durchgeführt werden können;
 
-- c. der Organisator ein Schutzkonzept nach Artikel 10 Absatz 3 vorlegt.
+- c.[^16-1] der Organisator ein Schutzkonzept nach Artikel 10 vorlegt.
 
 <sup>3</sup> Findet eine Grossveranstaltung in zwei oder mehr Kantonen statt, so ist von jedem Kanton eine Bewilligung erforderlich. Die Kantone koordinieren die Verfahren untereinander.
 
@@ -372,13 +392,17 @@ Der Kanton widerruft eine Bewilligung oder erlässt zusätzliche Einschränkunge
 - a. sich die epidemiologische Lage so verschlechtert, dass die Durchführung der Veranstaltung nicht mehr möglich ist, namentlich weil die notwendigen Kapazitäten nach Absatz 2 Buchstabe b nicht mehr sichergestellt werden können; oder
 - b. der Organisator die im Schutzkonzept vorgesehenen Massnahmen an einer bereits durchgeführten Veranstaltung nicht eingehalten hat und nicht gewährleisten kann, dass die Massnahmen zukünftig eingehalten werden.
 
+[^16-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+
 #### Art. 17
 
 **Besondere Bestimmungen für Grossveranstaltungen: Schutzmassnahmen**
 
-<sup>1</sup> Der Zugang zu einer Grossveranstaltung darf Personen ab 16 Jahren nur gewährt werden, wenn sie ein Zertifikat vorweisen.
+<sup>1</sup> Der Zugang zu einer Grossveranstaltung darf Personen ab 16 Jahren nur gewährt werden, wenn sie ein Zertifikat vorweisen. Die Organisatoren können den Zugang für Personen ab 16 Jahren auf Personen mit einem Impf- oder Genesungszertifikat beschränken.[^17-1]
 
 <sup>2</sup> Die Kantone können bei Freiluftveranstaltungen im Sportbereich, die auf längeren Wegstrecken oder auf Strecken im freien Gelände stattfinden und bei denen aufgrund örtlicher Gegebenheiten weder Zugangskontrollen noch Absperrungen möglich sind, Ausnahmen von der Zugangsbeschränkung nach Absatz 1 erlauben.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 18
 
@@ -414,16 +438,9 @@ Folgende Veranstaltungen unterliegen keinen Beschränkungen der Personenzahl:
 
 **Besondere Bestimmungen für Bildungseinrichtungen im Hochschulbereich**[^19a-1]
 
-<sup>1</sup> Beschränkt der Kanton oder eine Institution des Hochschulbereichs den Zugang zu Lehr- und Forschungsaktivitäten des Bachelor- und des Masterstudiums sowie des Doktorats auf Personen mit einem Zertifikat, so gelten ausser der Pflicht zur Erarbeitung und Umsetzung eines Schutzkonzepts nach Artikel 10 Absatz 3 keine Einschränkungen nach dieser Verordnung.
+Beschränkt der Kanton oder eine Institution des Hochschulbereichs den Zugang zu Lehr- und Forschungsaktivitäten des Bachelor- und des Masterstudiums sowie des Doktorats auf Personen mit einem Zertifikat, so befreit dies nicht von der Pflicht, angemessene Schutzmassnahmen vorzusehen, insbesondere eine Maskenpflicht nach Artikel 6.
 
-<sup>2</sup>
-
-Wird der Zugang zu Lehr- und Forschungsaktivitäten nach Absatz 1 nicht beschränkt, so gilt Folgendes:
-
-- a. Die Räumlichkeit darf höchstens zu zwei Dritteln ihrer Kapazität besetzt werden.
-- b. Die Pflicht zum Tragen einer Gesichtsmaske richtet sich nach Artikel 6; zudem muss der erforderliche Abstand nach Möglichkeit eingehalten werden.
-
-[^19a-1]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^19a-1]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 20
 
@@ -432,17 +449,18 @@ Wird der Zugang zu Lehr- und Forschungsaktivitäten nach Absatz 1 nicht beschrä
 Für Personen, die sportliche oder kulturelle Aktivitäten ausüben, gilt Folgendes:
 
 - a. Es gilt weder eine Pflicht zum Tragen einer Gesichtsmaske noch zur Einhaltung des erforderlichen Abstands.
-- b.[^20-1] Werden die Aktivitäten im Rahmen von Veranstaltungen ausgeübt, so gelten betreffend die Zugangs-, die Personenzahl- und die Kapazitätsbeschränkungen die Artikel 14–15.
+- b.[^20-1] Werden die Aktivitäten im Rahmen von Veranstaltungen ausgeübt, so gelten betreffend die Personenzahl- und Zugangsbeschränkungen die Artikel 14 und 15.
 - c. Ein Schutzkonzept muss nur erarbeitet und umgesetzt werden, wenn die Aktivitäten in Gruppen von mehr als 5 Personen ausgeübt werden; bei Personen, die die Aktivitäten in einem Anstellungsverhältnis ausüben, gelten die Vorgaben nach Artikel 25.
 - d.[^20-2]
 
-  Bei Aktivitäten in Innenräumen muss zudem:
+  Bei Aktivitäten in Innenräumen gilt zudem Folgendes:
 
-  - 1\. bei Personen ab 16 Jahren der Zugang auf Personen mit einem Zertifikat beschränkt werden; davon ausgenommen sind Aktivitäten, die in abgetrennten Räumlichkeiten in einem Verein oder in einer anderen beständigen Gruppe von höchstens 30 Personen, die dem Organisator bekannt sind, regelmässig gemeinsam ausgeübt werden, namentlich Trainings oder Proben;
-  - 2\. eine wirksame Lüftung vorhanden sein.
+  - 1\. Bei Personen ab 16 Jahren muss der Zugang auf Personen mit einem Zertifikat beschränkt werden.
+  - 2\. Es muss eine wirksame Lüftung vorhanden sein.
+  - 3\. Wenn bei der Aktivität keine Maske getragen wird, muss entweder der Betreiber der Einrichtung oder der Organisator der Aktivität die Kontaktdaten erheben.
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^20-2]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^20-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 21
 
@@ -498,17 +516,25 @@ Die Betreiber und Organisatoren müssen:
 
 <sup>1</sup> Die Arbeitgeber müssen gewährleisten, dass die Arbeitnehmerinnen und Arbeitnehmer die Empfehlungen des BAG betreffend Hygiene und Abstand einhalten können. Hierzu sind entsprechende Massnahmen vorzusehen und umzusetzen.
 
+<sup>1bis</sup>
+
+In Innenräumen, einschliesslich Fahrzeugen, in denen sich mehr als eine Person aufhält, muss jede Person eine Gesichtsmaske tragen. Diese Pflicht gilt nicht für:
+
+- a. Tätigkeiten, bei denen aus Sicherheitsgründen oder aufgrund der Art der Tätigkeit keine Maske getragen werden kann;
+- b. Personen, die nach Artikel 6 Absatz 2 keine Gesichtsmaske tragen müssen.[^25-1]
+
 <sup>2</sup> Die Arbeitgeber treffen weitere Massnahmen gemäss dem STOP-Prinzip (Substitution, technische Massnahmen, organisatorische Massnahmen, persönliche Schutzausrüstung), namentlich die Möglichkeit von Homeoffice, die physische Trennung, getrennte Teams, regelmässiges Lüften oder das Tragen von Gesichtsmasken.
 
-<sup>2bis</sup> Sie sind berechtigt, das Vorliegen eines Zertifikats nach Artikel 3 bei ihren Arbeitnehmerinnen und Arbeitnehmern zu überprüfen, wenn dies der Festlegung angemessener Schutzmassnahmen oder der Umsetzung des Testkonzepts nach Artikel 7 Absatz 4 dient. Das Ergebnis der Überprüfung darf nicht für andere Zwecke verwendet werden.[^25-1]
+<sup>2bis</sup> Sie sind berechtigt, das Vorliegen eines Zertifikats nach Artikel 3 bei ihren Arbeitnehmerinnen und Arbeitnehmern zu überprüfen, wenn dies der Festlegung angemessener Schutzmassnahmen oder der Umsetzung des Testkonzepts nach Artikel 7 Absatz 4 dient. Das Ergebnis der Überprüfung darf nicht für andere Zwecke verwendet werden.[^25-2]
 
-<sup>2ter</sup> Sieht der Arbeitgeber die Überprüfung des Vorliegens eines Zertifikats nach Absatz 2<sup>bis</sup> vor, so hat er dies und die daraus abgeleiteten Massnahmen schriftlich festzuhalten. Die Arbeitnehmerinnen und Arbeitnehmer oder deren Vertretung sind vorgängig anzuhören.[^25-2]
+<sup>2ter</sup> Sieht der Arbeitgeber die Überprüfung des Vorliegens eines Zertifikats nach Absatz 2<sup>bis</sup> vor, so hat er dies und die daraus abgeleiteten Massnahmen schriftlich festzuhalten. Die Arbeitnehmerinnen und Arbeitnehmer oder deren Vertretung sind vorgängig anzuhören.[^25-3]
 
-<sup>3</sup> Für den Schutz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer gilt zudem Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^25-3].
+<sup>3</sup> Für den Schutz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer gilt zudem Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^25-4].
 
-[^25-1]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^25-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^25-2]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^25-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^25-3]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^25-4]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -544,22 +570,22 @@ Die Kantone sind verpflichtet, dem Koordinierten Sanitätsdienst regelmässig Fo
 
 Mit Busse wird bestraft, wer:
 
-- a.[^28-1] als Betreiber oder Organisator vorsätzlich oder fahrlässig seine Verpflichtungen nach einer der folgenden Bestimmungen nicht einhält: Artikel 10 Absätze 1–3, 12, 13, 14 Absatz 1, 14*a* Absätze 1 und 2, 15 Absätze 1 und 1<sup>bis</sup>, 17 Absatz 1, 18 Buchstaben a und b sowie 20;
+- a.[^28-1] als Betreiber oder Organisator vorsätzlich oder fahrlässig seine Verpflichtungen nach einer der folgenden Bestimmungen nicht einhält: Artikel 10 Absätze 1–3, 12, 13, 14 Absätze 1 und 2, 15 Absätze 1 und 2, 17 Absatz 1, 18 Buchstaben a und b sowie 20;
 - b. als Betreiber oder Organisator vorsätzlich oder fahrlässig die nach Artikel 11 erhobenen Kontaktdaten entgegen Artikel 11 Absatz 3 zu anderen Zwecken bearbeitet oder länger als 14 Tage nach der Teilnahme an der Veranstaltung oder dem Besuch der Einrichtung oder des Betriebs aufbewahrt;
-- c.[^28-2] vorsätzlich eine Veranstaltung mit mehr Personen durchführt, als nach den Artikeln 14 Absätze 1 Buchstabe a und 2 sowie 14*a* Absätze 1 Buchstabe a, 2 und 3 zulässig sind;
+- c.[^28-2] vorsätzlich eine Veranstaltung mit mehr Personen durchführt, als nach den Artikeln 14 Absätze 2 und 3 sowie 15 Absätze 2 und 3 Buchstabe a zulässig sind;
 - d.[^28-3] vorsätzlich eine Grossveranstaltung nach Artikel 16 Absatz 1 oder eine Fach- oder Publikumsmesse nach Artikel 18 Buchstabe c ohne die dafür erforderliche Bewilligung oder abweichend vom bewilligten Schutzkonzept durchführt;
-- e.[^28-4] entgegen Artikel 5 Absatz 1, 6 Absatz 1 oder 14*a* Absatz 1 Buchstabe d in geschlossenen Bereichen von Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben oder an Veranstaltungen vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 5 Absatz 1 oder 6 Absatz 2 gegeben ist;
-- f.[^28-5] ...
-- g.[^28-6] als Besucherin oder Besucher einer Veranstaltung im Freien ohne Zugangsbeschränkung vorsätzlich gegen die Sitzpflicht nach Artikel 14 Absatz 1 Buchstabe a Ziffer 1 verstösst;
-- h.[^28-7] sich als Person über 16 Jahren ohne gültiges Zertifikat im Sinne von Artikel 3 vorsätzlich zu einer Einrichtung, einem Betrieb oder einer Veranstaltung Zutritt verschafft, für den ein solches Zertifikat verlangt wird.
+- e.[^28-4] entgegen den Artikeln 5 Absatz 1, 6 Absatz 1 oder 15 Absatz 2 Buchstabe b in geschlossenen Bereichen von Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben oder an Veranstaltungen vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 5 Absatz 1 oder 6 Absatz 2 gegeben ist;
+- f.[^28-5] …
+- g.[^28-6] als Gast in einem Restaurationsbetrieb vorsätzlich gegen die Sitzpflicht nach Artikel 12 Absatz 1 Buchstabe a verstösst;
+- h.[^28-7] sich als Person über 16 Jahren ohne gültiges Zertifikat im Sinne von Artikel 3 vorsätzlich zu einer Einrichtung, einem Betrieb oder einer Veranstaltung Zutritt verschafft, für den ein solches Zertifikat verlangt wird, es sei denn, es handelt sich um eine private Veranstaltung nach Artikel 15 Absatz 3 Buchstabe a.
 
-[^28-1]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-2]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^28-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^28-3]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-4]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-4]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^28-5]: Aufgehoben durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), mit Wirkung vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-6]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-7]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-6]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^28-7]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 ## 8. Abschnitt: Nachführung der Anhänge
 
@@ -595,11 +621,13 @@ Bewilligungen für Pilotprojekte, die gestützt auf Artikel 6*b*<sup>quater</sup
 
 #### Art. 32a
 
-**Übergangsbestimmung zur Änderung vom 3. November 2021**[^32a-1]
+**Übergangsbestimmung zur Änderung vom 3. Dezember 2021**[^32a-1]
 
-Bis zum 31. Dezember 2021 sind Nachweise, die belegen, dass eine Person aus medizinischen Gründen weder geimpft noch getestet werden kann, einem Zertifikat nach Artikel 3 Absatz 1 gleichgestellt. Für den Nachweis ist ein Attest einer Ärztin oder eines Arztes erforderlich, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006[^32a-2] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist.
+<sup>1</sup> Bis zum 24. Januar 2022 sind Nachweise, die belegen, dass eine Person aus medizinischen Gründen weder geimpft noch getestet werden kann, einem Zertifikat nach den Artikeln 3 Absatz 1 sowie 3*a* gleichgestellt. Für den Nachweis ist ein Attest einer Ärztin oder eines Arztes erforderlich, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006[^32a-2] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist.
 
-[^32a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+<sup>2</sup> Bei Veranstaltungen, Betrieben und Einrichtungen, die den Zugang für Personen ab 16 Jahren auf Personen mit einem Impf- oder Genesungszertifikat beschränken, kann bis am 12. Dezember 2021 in Abweichung von Anhang 1 Ziffer 2 Buchstabe a auch auf einem anderen Weg überprüft werden, ob es sich um ein Zertifikat nach Artikel 3*a* Buchstabe c handelt.
+
+[^32a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^32a-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 33
@@ -614,7 +642,7 @@ Anhang 1*[^t-1]*
 
 ## Vorgaben für Schutzkonzepte
 
-[^t-1]: Bereinigt gemäss Ziff. II den V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), vom 1. Okt. 2021 (Nachweise für Personen, die aus medizinischen Gründen weder geimpft noch getestet werden können) ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)) und Anhang Ziff. 2 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-1]: Bereinigt gemäss Ziff. II den V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), vom 1. Okt. 2021 (Nachweise für Personen, die aus medizinischen Gründen weder geimpft noch getestet werden können) ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)), Anhang Ziff. 2 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) und Ziff. II der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 ### 1 Schutzkonzepte für öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen, die bei Personen über 16 Jahren den Zugang nicht auf Personen mit einem Zertifikat einschränken
 
@@ -640,17 +668,17 @@ Anhang 1*[^t-1]*
 ### 1.3 Abstand
 
 - 1\.3.1 Der Abstand, der zwischen den Personen mindestens einzuhalten ist, beträgt 1,5 Meter (erforderlicher Abstand).
-- 1\.3.2 Im Sitzplatzbereich sind in Abweichung von Ziffer 1.3.1 die Plätze so anzuordnen oder zu belegen, dass im Rahmen bestehender Kapazitätsbeschränkungen nach Möglichkeit ein Platz freigehalten oder zwischen den Sitzplätzen ein gleichwertiger Abstand eingehalten wird.
-- 1\.3.3 In Restaurations-, Bar- und Clubbetrieben sind die Gästegruppen an den einzelnen Tischen so zu platzieren, dass der erforderliche Abstand zwischen den einzelnen Gruppen eingehalten wird.
+- 1\.3.2 Im Sitzplatzbereich sind in Abweichung von Ziffer 1.3.1 die Plätze so anzuordnen oder zu belegen, dass nach Möglichkeit ein Platz freigehalten oder zwischen den Sitzplätzen ein gleichwertiger Abstand eingehalten wird.
+- 1\.3.3 …
 - 1\.3.4 Der Personenfluss ist so zu lenken, dass der erforderliche Abstand zwischen allen Personen eingehalten werden kann.
 - 1\.3.5 Von den Vorgaben zum Abstand ausgenommen sind Gruppen von Personen, bei denen die Einhaltung des Abstands unzweckmässig ist, namentlich bei Schulkindern, Familien oder Personen, die im selben Haushalt leben.
 
 ### 1.4 Erhebung von Kontaktdaten
 
-- 1\.4.1 Die Kontaktdaten der anwesenden Personen müssen erhoben werden, wenn es während mehr als 15 Minuten zu einer Unterschreitung des erforderlichen Abstands ohne Schutzmassnahmen kommt.
+- 1\.4.1 …
 - 1\.4.2
 
-  Der Betreiber oder Organisator hat die anwesenden Personen über folgende Punkte zu informieren:
+  Werden die Kontaktdaten erhoben, so muss der Betreiber oder Organisator die anwesenden Personen über folgende Punkte informieren:
 
   - a. die voraussichtliche Unterschreitung des erforderlichen Abstands und das damit einhergehende erhöhte Infektionsrisiko;
   - b. die Möglichkeit einer Kontaktaufnahme durch die zuständige kantonale Stelle und deren Kompetenz, eine Quarantäne anzuordnen, wenn es Kontakte mit an Covid-19 erkrankten Personen gab.
@@ -660,14 +688,15 @@ Anhang 1*[^t-1]*
 
   Es sind folgende Daten zu erheben:
 
-  - a. Name, Vorname, Wohnort und Telefonnummer;
-  - b. bei Betrieben, namentlich Restaurationsbetrieben und Kinos, und bei Veranstaltungen mit Sitzplätzen: die entsprechende Sitzplatz- oder Tischnummer.
+  - a. Name und Vorname;
+  - b. Wohnort;
+  - c. Telefonnummer.
 
 - 1\.4.5 Der Betreiber oder Organisator hat durch geeignete Vorkehren sicherzustellen, dass die Korrektheit der erhobenen Kontaktdaten gewährleistet ist.
 - 1\.4.6 Bei Familien oder anderen Gruppen mit untereinander bekannten Personen genügt die Erfassung der Kontaktdaten nur einer Person der betreffenden Familie oder Gruppe.
 - 1\.4.7 Der Betreiber oder Organisator muss die Vertraulichkeit der Kontaktdaten bei der Erhebung und die Datensicherheit namentlich bei der Aufbewahrung der Daten gewährleisten.
 
-### 2 Schutzkonzepte für öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen, die bei Personen über 16 Jahren den Zugang auf Personen mit einem Zertifikat einschränken
+### 2 Schutzkonzepte für öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen, die bei Personen über 16 Jahren den Zugang auf Personen mit einem Zertifikat oder auf Personen mit einem Impf- oder Genesungszertifikat einschränken
 
 Das Schutzkonzept enthält Massnahmen in Bezug auf:
 
@@ -726,6 +755,6 @@ Anhang 3
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Die Änderungen können unter [AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)konsultiert werden.
