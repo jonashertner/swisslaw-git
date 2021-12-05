@@ -1,46 +1,31 @@
 ---
 canton: AI
 number: "656.010"
-title: Grossratsbeschluss betreffend Festsetzung der Steuerparameter für das Jahr 2018
+title: Grossratsbeschluss zur Festsetzung der Steuerparameter für das Jahr 2022
 language: de
-version: 2017-12-04
-corrected: 2018-09-04
-version_adopted: 2017-12-04
+version: 2021-12-06
+valid_until: 2022-12-31
+version_adopted: 2021-12-06
 adopted: 2025-12-01
 in_force: 2026-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/656.010"
-pdf: "https://ai.clex.ch/api/de/versions/614/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/1977/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Grossratsbeschluss zur Festsetzung der Steuerparameter für das Jahr 2018
+# Grossratsbeschluss zur Festsetzung der Steuerparameter für das Jahr 2022
 
-Gesetzessammlung Appenzell I. Rh. – Dezember 2017
-
-vom 4. Dezember 2017
-
-Der Grosse Rat des Kantons Appenzell I. Rh.,
-
-gestützt auf Art. 3 Abs. 2 lit. a, Art. 38 Abs. 4, Art. 67 und Art. 75 Abs. 1 des Steuergesetzes vom 25. April 1999,
-
-beschliesst:
-
-I.
+vom 06.12.2021 (Stand 06.12.2021)
 
 #### Art. 1
 
-- 1\. Der Steuerfuss für die Staatssteuer der natürlichen Personen für das Jahr 2018 beträgt 96%.
+<sup>1</sup> Der Steuerfuss für die Staatssteuer der natürlichen Personen für das Jahr 2022 beträgt 96%.
 
-- 2\. Der Gewinnsteuersatz für die Staats-, Bezirks- und Gemeindesteuern der juristischen Personen für das Jahr 2018 beträgt 8%.
+<sup>2</sup> Der Gewinnsteuersatz für die Staats-, Bezirks- und Gemeindesteuern der juristischen Personen für das Jahr 2022 beträgt 6%.
 
-- 3\. Der Kapitalsteuersatz für die Staats-, Bezirks- und Gemeindesteuern der Holding- und Verwaltungsgesellschaften für das Jahr 2018 beträgt 0.05 Promille.
+<sup>3</sup> Der Kapitalsteuersatz für die Staats-, Bezirks- und Gemeindesteuern der juristischen Personen für das Jahr 2022 beträgt 0.5 Promille.
 
-- 4\. Der Kapitalsteuersatz für die Staats-, Bezirks- und Gemeindesteuern der übrigen juristischen Personen für das Jahr 2018 beträgt 0.5 Promille.
+<sup>4</sup> Die Reduktion des Gewinnsteuersatzes bei juristischen Personen für Gewinnanteile, welche im folgenden Geschäftsjahr in Form einer Dividende ausgeschüttet werden, beträgt für das Jahr 2022 25%.
 
-- 5\. Der reduzierte Satz für die Besteuerung von Dividenden aus Kapitalgesellschaften bei qualifizierten Beteiligungen für das Jahr 2018 beträgt 40%.
-
-### II.
-
-Dieser Beschluss tritt nach Annahme durch den Grossen Rat in Kraft.
+cGS 2021-44
