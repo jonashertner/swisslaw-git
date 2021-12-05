@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-11-30
+version: 2021-12-06
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211130/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211130-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211130/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211206/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211206-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211206/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 30 November 2021)
+of 4 June 2021 (Status as of 6 December 2021)
 
 The Swiss Federal Council,
 
@@ -263,11 +263,11 @@ All COVID-19 certificates shall contain the following information in accordance 
 COVID-19 certificates in human-readable form shall also contain the following information:
 
 - a. a general statement on the meaning of the certificate in accordance with Annex 1 number 3;
-- b.[^12-2] in the case of a COVID-19 vaccination certificate pursuant to Article 15 paragraph 3 a COVID-19 recovery certificate pursuant to Article 16 paragraph 3 ...[^12-3]: a reference to the certificate being valid for a limited period and only in certain geographical areas.[^12-4]
+- b.[^12-2] in the case of a COVID-19 vaccination certificate pursuant to Article 15 paragraph 3, a COVID-19 recovery certificate pursuant to Article 16 paragraph 3 ...[^12-3]: a reference to the certificate being valid for a limited period and only in certain geographical areas in accordance with Annex 1 number 4.[^12-4]
 
 [^12-1]: Repealed by No I of the O of 3 Nov. 2021, with effect from 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^12-2]: Correction of 24 Nov. 2021 ([AS 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: Comes into force on 14 Dec. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-3]: Comes into force on 10 Jan 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^12-4]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Section 4 COVID-19 Vaccination Certificates
@@ -516,7 +516,7 @@ Signature certificates for the following COVID-19 certificates are not delivered
 - b. COVID-19 recovery certificates pursuant to Article 16 paragraph 3;
 - c. ... .[^25-1]
 
-[^25-1]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov., let. a since 30 Nov. and let. c since 14 Dec. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^25-1]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021, let. a since 30 Nov. and let. c from 10 Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 26
 
@@ -837,7 +837,7 @@ Annex 4*[^t-4]*
 
 ## Special provisions concerning COVID-19 test certificates
 
-[^t-4]: Revised by Annex 3 No 3 of the COVID-19 Special Situation Ordinance of 23 June 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) and No II of the O of 30 June 2021, in force since 3 July 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-4]: Revised by Annex 3 No 3 of the COVID-19 Special Situation Ordinance of 23 June 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) and No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) and No IV of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 ### 1 ...
 
@@ -848,7 +848,7 @@ Annex 4*[^t-4]*
   The duration is calculated from the time the sample is taken and is as follows:
 
   - a. for PCR tests: 72 hours;
-  - b. for Sars-CoV-2 rapid tests for specialist use: 48 hours.
+  - b. for Sars-CoV-2 rapid tests for specialist use: 24 hours.
 
 ### 3 Details of the test carried out
 

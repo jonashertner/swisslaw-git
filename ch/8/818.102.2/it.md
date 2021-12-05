@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-11-30
+version: 2021-12-06
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211130/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211130-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211130/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211206/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211206-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211206/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211130/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 30 novembre 2021) (Stato 30 novembre 2021)
+del 4 giugno 2021 (Stato 6 dicembre 2021) (Stato 6 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -267,7 +267,7 @@ I certificati COVID-19 leggibili senza mezzi ausiliari contengono inoltre le seg
 
 [^12-1]: Abrogata dal n. I dell’O del 3 nov. 2021, con effetto dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^12-2]: Correzione del 24 nov. 2021 ([RU 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: In vigore dal 14 dic. 2021.
+[^12-3]: In vigore dal 10 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^12-4]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Sezione 4: Certificati di vaccinazione COVID-19
@@ -519,7 +519,7 @@ Per i seguenti certificati COVID-19 i certificati di firma utilizzati per la ver
 - b. certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3;
 - c. ...[^25-1]
 
-[^25-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021, la lett. a il 30 nov. 2021, la lett. c il 14 dic. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^25-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021, la lett. a il 30 nov. 2021, la lett. c il 10 gen. 2022 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 26
 
@@ -843,7 +843,7 @@ Allegato 4*[^t-4]*
 
 ## Disposizioni particolari sui certificati di test COVID-19
 
-[^t-4]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) e dal n. II dell’O del 30 giu. 2021, in vigore dal 3 lug. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-4]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), dal n. II dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) e dal n. IV dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 ### 1 ...
 
@@ -852,7 +852,7 @@ Allegato 4*[^t-4]*
 La durata è calcolata a partire dal prelievo del campione ed è di:
 
 - a. 72 ore per il test PCR;
-- b. 48 ore per il test rapido SARS-CoV-2 per uso professionale.
+- b. 24 ore per il test rapido SARS-CoV-2 per uso professionale.
 
 ### 3 Informazioni sul test eseguito
 

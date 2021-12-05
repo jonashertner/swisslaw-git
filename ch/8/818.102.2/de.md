@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-11-30
+version: 2021-12-06
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211130/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211130-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211130/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211206/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211206-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211206/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211130/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 30. November 2021)
+vom 4. Juni 2021 (Stand am 6. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -254,18 +254,18 @@ Alle Covid-19-Zertifikate enthalten die folgenden Angaben nach Anhang 1:
 
 - a. Angaben zur Identität der Inhaberin oder des Inhabers;
 - b. Angaben zum Herausgeber;
-- c.[^12-1] ...
+- c.[^12-1] …
 
 <sup>2</sup>
 
 In menschenlesbarer Form enthalten Covid-19-Zertifikate zusätzlich die folgenden Angaben:
 
 - a. einen allgemeinen Hinweis zur Bedeutung des Zertifikats nach Anhang 1 Ziffer 3;
-- b.[^12-2] wenn es sich um ein Covid-19-Impfzertifikat nach Artikel 15 Absatz 3, ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 3 ...[^12-3] handelt: einen Hinweis auf die beschränkte zeitliche und örtliche Gültigkeit des Zertifikats nach Anhang 1 Ziffer 4.[^12-4]
+- b.[^12-2] wenn es sich um ein Covid-19-Impfzertifikat nach Artikel 15 Absatz 3, ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 3 …[^12-3] handelt: einen Hinweis auf die beschränkte zeitliche und örtliche Gültigkeit des Zertifikats nach Anhang 1 Ziffer 4.[^12-4]
 
 [^12-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^12-2]: Berichtigung vom 24. Nov. 2021 ([AS 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: Tritt am 14. Dez. 2021 in Kraft.
+[^12-3]: Tritt am 10. Jan. 2022 in Kraft ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^12-4]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## 4. Abschnitt: Covid-19-Impfzertifikate
@@ -298,7 +298,7 @@ Ein Covid-19-Impfzertifikat wird für jede Dosis ausgestellt:
   - 3\. Impfausweis mit Angabe des verabreichten Impfstoffs und mit der Unterschrift oder dem Stempel der verantwortlichen Stelle in der Schweiz,
   - 4\. sonstiger in- oder ausländischer Nachweis, der einem der in den Ziffern 1–3 genannten Belege gleichwertig ist.
 
-<sup>2bis</sup> ...[^13-4]
+<sup>2bis</sup> …[^13-4]
 
 <sup>2ter</sup>
 
@@ -513,9 +513,9 @@ Für folgende Covid-19-Zertifikate werden Signaturzertifikate nicht an ausländi
 
 - a. Covid-19-Impfzertifikate nach Artikel 15 Absatz 3;
 - b. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3;
-- c. ... .[^25-1]
+- c. … .[^25-1]
 
-[^25-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov., Bst. a seit 30. Nov. und Bst. c seit 14. Dez. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^25-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021, Bst. a seit 30. Nov. und Bst. c seit 10. Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 26
 
@@ -834,9 +834,9 @@ Anhang 4*[^t-4]*
 
 ## Besondere Bestimmungen über Covid-19-Testzertifikate
 
-[^t-4]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. II der V vom 30. Juni 2021, in Kraft seit 12. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-4]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und Ziff. IV der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
-### 1 ...
+### 1 …
 
 ### 2 Dauer der Gültigkeit
 
@@ -845,7 +845,7 @@ Anhang 4*[^t-4]*
   Die Dauer wird ab der Probeentnahme berechnet und beträgt:
 
   - a. für PCR-Tests: 72 Stunden;
-  - b. für Sars-CoV-2-Schnelltests zur Fachanwendung: 48 Stunden.
+  - b. für Sars-CoV-2-Schnelltests zur Fachanwendung: 24 Stunden.
 
 ### 3 Angaben zum durchgeführten Test
 
