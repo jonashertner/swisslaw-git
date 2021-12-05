@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 30. Mai 2011 über die Verzeichnisse der Betäubu
 short: BetmVV-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/363"
 language: de
-version: 2020-12-15
+version: 2021-12-06
 adopted: 2011-05-30
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20201215/de/xml/fedlex-data-admin-ch-eli-cc-2011-363-20201215-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20201215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/de/xml/fedlex-data-admin-ch-eli-cc-2011-363-20211206-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20211206/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20201215/de"
 
 (Betäubungsmittelverzeichnisverordnung, BetmVV-EDI)
 
-vom 30. Mai 2011 (Stand am 15. Dezember 2020)
+vom 30. Mai 2011 (Stand am 6. Dezember 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -81,7 +81,7 @@ Mohnstroh (Mohnkapseln, Mohnköpfe, Mohnstängel), das nicht zur Herstellung von
 
 Cannabissamen nach Anhang 4 der Sortenkatalog-Verordnung vom 7. Dezember 1998[^4-1] und dem gemeinsamen Sortenkatalog der Europäischen Union[^4-2] sind von den Bestimmungen für kontrollierte Substanzen ausgenommen.
 
-[^4-1]: [[AS 1999 429](https://fedlex.data.admin.ch/eli/oc/1999/52), [2000 626](https://fedlex.data.admin.ch/eli/oc/2000/109), [2004 2711](https://fedlex.data.admin.ch/eli/oc/2004/327), [2012 2835](https://fedlex.data.admin.ch/eli/oc/2012/332). [AS 2013 1947](https://fedlex.data.admin.ch/eli/oc/2013/417)Art. 2]. Siehe heute: die Sortenverordnung vom 12. Juni 2013 ([SR 916.151.6](https://fedlex.data.admin.ch/eli/cc/2013/417)).
+[^4-1]: [[AS 1999 429](https://fedlex.data.admin.ch/eli/oc/1999/52); [2000 626](https://fedlex.data.admin.ch/eli/oc/2000/109); [2004 2711](https://fedlex.data.admin.ch/eli/oc/2004/327); [2012 2835](https://fedlex.data.admin.ch/eli/oc/2012/332). [AS 2013 1947](https://fedlex.data.admin.ch/eli/oc/2013/417)Art. 2]. Siehe heute: die Sortenverordnung vom 12. Juni 2013 ([SR 916.151.6](https://fedlex.data.admin.ch/eli/cc/2013/417)).
 [^4-2]: Gemeinsamer Sortenkatalog für landwirtschaftliche Pflanzenarten, 29. Gesamtausgabe, in der Fassung gemäss ABl. C 337 A vom 14.12.2010, S. 1.
 
 #### Art. 5
@@ -1136,7 +1136,7 @@ Anhang 6*[^t-5]*
 
 ## Verzeichnis e: Rohmaterialien und Erzeugnisse mit vermuteter betäubungsmittelähnlicher Wirkung
 
-[^t-5]: Fassung gemäss Ziff. I der V des EDI vom 21. Nov. 2011 ([AS 2011 5649](https://fedlex.data.admin.ch/eli/oc/2011/797)). Bereinigt gemäss Ziff. I der V des EDI vom 20. Nov. 2012 ([AS 2012 6803](https://fedlex.data.admin.ch/eli/oc/2012/823)), vom 8. Nov. 2013 ([AS 2013 4515](https://fedlex.data.admin.ch/eli/oc/2013/797)), vom 3. Nov. 2014 ([AS 2014 4381](https://fedlex.data.admin.ch/eli/oc/2014/721)), vom 2. Nov. 2015 ([AS 2015 5093](https://fedlex.data.admin.ch/eli/oc/2015/834)), vom 1. Nov. 2016 ([AS 2016 4197](https://fedlex.data.admin.ch/eli/oc/2016/705)), Ziff. I Abs. 1 der V des EDI vom 18. Aug. 2017 ([AS 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), Ziff. I der V des EDI vom 2. Febr. 2018 ([AS 2018 949](https://fedlex.data.admin.ch/eli/oc/2018/132)), vom 2. Nov. 2018 ([AS 2018 4287](https://fedlex.data.admin.ch/eli/oc/2018/687)), vom 18. März 2019 ([AS 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), vom 24. Okt. 2019 ([AS 2019 4089](https://fedlex.data.admin.ch/eli/oc/2019/713)), vom 29. Mai 2020 ([AS 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)) und vom 13. Nov. 2020, in Kraft seit 15. Dez. 2021 ([AS 2020 5775](https://fedlex.data.admin.ch/eli/oc/2020/972)).
+[^t-5]: Fassung gemäss Ziff. I der V des EDI vom 21. Nov. 2011 ([AS 2011 5649](https://fedlex.data.admin.ch/eli/oc/2011/797)). Bereinigt gemäss Ziff. I der V des EDI vom 20. Nov. 2012 ([AS 2012 6803](https://fedlex.data.admin.ch/eli/oc/2012/823)), vom 8. Nov. 2013 ([AS 2013 4515](https://fedlex.data.admin.ch/eli/oc/2013/797)), vom 3. Nov. 2014 ([AS 2014 4381](https://fedlex.data.admin.ch/eli/oc/2014/721)), vom 2. Nov. 2015 ([AS 2015 5093](https://fedlex.data.admin.ch/eli/oc/2015/834)), vom 1. Nov. 2016 ([AS 2016 4197](https://fedlex.data.admin.ch/eli/oc/2016/705)), Ziff. I Abs. 1 der V des EDI vom 18. Aug. 2017 ([AS 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), Ziff. I der V des EDI vom 2. Febr. 2018 ([AS 2018 949](https://fedlex.data.admin.ch/eli/oc/2018/132)), vom 2. Nov. 2018 ([AS 2018 4287](https://fedlex.data.admin.ch/eli/oc/2018/687)), vom 18. März 2019 ([AS 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), vom 24. Okt. 2019 ([AS 2019 4089](https://fedlex.data.admin.ch/eli/oc/2019/713)), vom 29. Mai 2020 ([AS 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)), vom 13. Nov. 2020 ([AS 2020 5775](https://fedlex.data.admin.ch/eli/oc/2020/972)) und vom 8. Nov. 2021, in Kraft seit 6. Dez. 2021 um 10 Uhr ([AS 2021 815](https://fedlex.data.admin.ch/eli/oc/2021/815)).
 
 <table>
 <tr><th>Nummer</th><th>Bezeichnung</th></tr>
@@ -1148,22 +1148,20 @@ Anhang 6*[^t-5]*
 <tr><td></td><td>Cathinone sind von der Kontrolle nach den Kapiteln 5 und 6 der Verordnung über die Betäubungsmittelkontrolle vom 25. Mai 2011[^annex6-lvlu1-1] ausgenommen, wenn sie von Unternehmen mit einer Betriebsbewilligung für den Umgang mit kontrollierten Substanzen des Verzeichnisses e industriell eingesetzt werden. Für Substanzmengen bis zu 100 g benötigen diese Unternehmen keine Ein- oder Ausfuhrbewilligung.</td></tr>
 <tr><td>2</td><td>Naphthylpyrovalerone</td></tr>
 <tr><td></td><td>Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d, f und g), deren Struktur abgeleitet wird von 2-Aminopropan-1-on durch Substitution an der Position 1 mit irgendeinem monozyklischen oder kondensierten polyzyklischen Ringsystem (ausgenommen einem Phenylring oder einem Alkylendioxyphenyl-Ringsystem), unabhängig davon, ob die Verbindung durch eine der folgenden Arten modifiziert wird:</td></tr>
+<tr><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>[tab]</td><td>– durch Substitution im Ringsystem mit Alkyl-, Alkoxy-, Halogenalkyl- oder Halogenid-Substituenten in irgendeinem Ausmass, unabhängig davon, ob diese im Ringsystem durch einen oder mehrere andere univalente Substituenten weiter substituiert werden;</td></tr>
 <tr><td>[tab]</td><td>– durch Substitution an der Position 3 mit einem Alkyl-Substituenten;</td></tr>
 <tr><td>[tab]</td><td>– durch Substitution am 2-Amino-Stickstoffatom mit Alkyl- oder Dialkylgruppen oder durch Einschluss des 2-Amino-Stickstoffatoms in eine zyklische Struktur.</td></tr>
 <tr><td></td><td>Naphthylpyrovalerone sind von der Kontrolle nach den Kapiteln 5 und 6 der Verordnung über die Betäubungsmittelkontrolle vom 25. Mai 2011 ausgenommen, wenn sie von Unternehmen mit einer Betriebsbewilligung für den Umgang mit kontrollierten Substanzen des Verzeichnisses e industriell eingesetzt werden. Für Substanzmengen bis zu 100 g benötigen diese Unternehmen keine Ein- oder Ausfuhrbewilligung.</td></tr>
-<tr><td>3</td><td>Naphthoylindole und Naphthylmethylindole</td></tr>
-<tr><td></td><td>Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d, f und g), deren Struktur abgeleitet wird von 3-(1-Naphthoyl)indol oder 1H-Indol-3-yl-(1-naphthyl)methan durch Substitution am Stickstoffatom des Indolrings mit Alkyl-, Alkenyl-, Cycloalkylmethyl-, Cycloalkylethyl- oder 2-(4-Morpholinyl)ethyl-Substituenten in irgendeinem Ausmass, unabhängig von weiteren Substitutionen am Indolring in irgendeinem Ausmass oder von weiteren Substitutionen am Naphthylring in irgendeinem Ausmass.</td></tr>
-<tr><td></td><td>Naphthoylindole und Naphthylmethylindole sind von der Kontrolle nach den Kapiteln 5 und 6 der Verordnung über die Betäubungsmittelkontrolle vom 25. Mai 2011 ausgenommen, wenn sie von Unternehmen mit einer Betriebsbewilligung für den Umgang mit kontrollierten Substanzen des Verzeichnisses e industriell eingesetzt werden. Für Substanzmengen bis zu 100 g benötigen diese Unternehmen keine Ein- oder Ausfuhrbewilligung.</td></tr>
+<tr><td>3</td><td>…</td></tr>
 <tr><td>4</td><td>Naphthoylpyrrole</td></tr>
 <tr><td></td><td>Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d, f und g), deren Struktur abgeleitet wird von 3-(1-Naphthoyl)pyrrol durch Substitution am Stickstoffatom des Pyrrolrings mit Alkyl-, Alkenyl-, Cycloalkylmethyl-, Cycloalkylethyl- oder 2-(4-Morpholinyl)ethyl-Substituenten, unabhängig von weiteren Substitutionen am Pyrrolring in irgendeinem Ausmass oder von weiteren Substitutionen am Naphthylring in irgendeinem Ausmass.</td></tr>
 <tr><td></td><td>Naphthoylpyrrole sind von der Kontrolle nach den Kapiteln 5 und 6 der Verordnung über die Betäubungsmittelkontrolle vom 25. Mai 2011 ausgenommen, wenn sie von Unternehmen mit einer Betriebsbewilligung für den Umgang mit kontrollierten Substanzen des Verzeichnisses e industriell eingesetzt werden. Für Substanzmengen bis zu 100 g benötigen diese Unternehmen keine Ein- oder Ausfuhrbewilligung.</td></tr>
 <tr><td>5</td><td>Naphthylmethylindene</td></tr>
 <tr><td></td><td>Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d, f und g), deren Struktur abgeleitet wird von 1-(1-Naphthylmethyl)inden durch Substitution an der Position 3 des Indenrings mit Alkyl-, Alkenyl-, Cycloalkylmethyl-, Cycloalkylethyl- oder 2-(4-Morpholinyl)ethyl-Substituenten, unabhängig von weiteren Substitutionen am Indenring in irgendeinem Ausmass oder von weiteren Substitutionen am Naphthylring in irgendeinem Ausmass.</td></tr>
 <tr><td></td><td>Naphthylmethylindene sind von der Kontrolle nach den Kapiteln 5 und 6 der Verordnung über die Betäubungsmittelkontrolle vom 25. Mai 2011 ausgenommen, wenn sie von Unternehmen mit einer Betriebsbewilligung für den Umgang mit kontrollierten Substanzen des Verzeichnisses e industriell eingesetzt werden. Für Substanzmengen bis zu 100 g benötigen diese Unternehmen keine Ein- oder Ausfuhrbewilligung.</td></tr>
-<tr><td>6</td><td>Phenylacetylindole</td></tr>
-<tr><td></td><td>Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d, f und g), deren Struktur abgeleitet wird von 3-Phenylacetylindol durch Substitution am Stickstoffatom des Indolrings mit Alkyl-, Alkenyl-, Cycloalkylmethyl-, Cycloalkylethyl- oder 2-(4-Morpholinyl)ethyl-Substituenten, unabhängig von weiteren Substitutionen am Indolring in irgendeinem Ausmass oder von weiteren Substitutionen am Phenylring in irgendeinem Ausmass.</td></tr>
-<tr><td></td><td>Phenyacetylindole sind von der Kontrolle nach den Kapiteln 5 und 6 der Verordnung über die Betäubungsmittelkontrolle vom 25. Mai 2011 ausgenommen, wenn sie von Unternehmen mit einer Betriebsbewilligung für den Umgang mit kontrollierten Substanzen des Verzeichnisses e industriell eingesetzt werden. Für Substanzmengen bis zu 100 g benötigen diese Unternehmen keine Ein- oder Ausfuhrbewilligung.</td></tr>
+<tr><td>6</td><td>…</td></tr>
 <tr><td>7</td><td>Cyclohexylphenole</td></tr>
 <tr><td></td><td>Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d, f und g), deren Struktur abgeleitet wird von 2-(3-Hydroxycyclohexyl) phenol durch Substitution an der Position 5 des Phenolrings mit Alkyl-, Alkenyl-, Cycloalkylmethyl-, Cycloalkylethyl- oder 2-(4-Morpholinyl)ethyl-Substituenten, unabhängig von weiteren Substitutionen am Cyclohexylring in irgendeinem Ausmass.</td></tr>
 <tr><td></td><td>Cyclohexylphenole sind von der Kontrolle nach den Kapiteln 5 und 6 der Verordnung über die Betäubungsmittelkontrolle vom 25. Mai 2011 ausgenommen, wenn sie von Unternehmen mit einer Betriebsbewilligung für den Umgang mit kontrollierten Substanzen des Verzeichnisses e industriell eingesetzt werden. Für Substanzmengen bis zu 100 g benötigen diese Unternehmen keine Ein- oder Ausfuhrbewilligung.</td></tr>
@@ -1178,17 +1176,17 @@ Anhang 6*[^t-5]*
 <tr><td>16</td><td>4-FMA 4-Fluormethamphetamin 1-(4-Fluorphenyl)-N-methylpropan-2-amin</td></tr>
 <tr><td>17</td><td>Ethcathinon 2-Ethylamino-1-phenyl-propan-1-on</td></tr>
 <tr><td>18</td><td>Buphedron 2-(Methylamino)-1-phenylbutan-1-on</td></tr>
-<tr><td>19</td><td>...</td></tr>
+<tr><td>19</td><td>…</td></tr>
 <tr><td>20</td><td>3,4-DMMC 3,4-Dimethylmethcathinon 1-(3,4-Dimethylphenyl)-2-(methylamino)propan-1-on</td></tr>
 <tr><td>21</td><td>2-FMC 2-Fluormethcathinon 1-(2-Fluorphenyl)-2-(methylamino)propan-1-on</td></tr>
 <tr><td>22</td><td>3-FMC 3-Fluormethcathinon 1-(3-Fluorphenyl)-2-(methylamino)propan-1-on</td></tr>
 <tr><td>23</td><td>4-FMC 4-Fluormethcathinon (Flephedron) 1-(4-Fluorphenyl)-2-(methylamino)propan-1-on</td></tr>
-<tr><td>24</td><td>...</td></tr>
+<tr><td>24</td><td>…</td></tr>
 <tr><td>25</td><td>Pentylon bk-MBDP 1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one</td></tr>
 <tr><td>26</td><td>4-Methylbuphedron 4-MeMABP 2-(Methylamino)-1-(4-methylphenyl)butan-1-on</td></tr>
 <tr><td>27</td><td>Pyrrolidinopropiophenon alpha-PPP 1-Phenyl-2-(1-pyrrolidinyl)-1-propanon</td></tr>
 <tr><td>28</td><td>Pyrrolidinobutiophenon alpha-PBP 1-Phenyl-2-(1-pyrrolidinyl)-1-butanon</td></tr>
-<tr><td>29</td><td>...</td></tr>
+<tr><td>29</td><td>…</td></tr>
 <tr><td>30</td><td>Methylendioxypyrrolidinobutiophenon MDPBP 1-(3,4-Methylenedioxyphenyl)-2-(1-pyrrolidinyl)-1-butanon</td></tr>
 <tr><td>31</td><td>Naphyron O-2482 1-Naphthalen-2-yl-2-pyrrolidin-1-ylpentan-1-on</td></tr>
 <tr><td>32</td><td>N-Benzyl-3,4-methylendioxycathinon</td></tr>
@@ -1205,7 +1203,7 @@ Anhang 6*[^t-5]*
 <tr><td>43</td><td>JWH-307 (5-(2-Fluorphenyl)-1-pentylpyrrol-3-yl)-naphthalen-1-ylmethanon</td></tr>
 <tr><td>44</td><td>RCS-4 1-pentyl-3-(4-methoxybenzoyl)indol 2-(4-Methoxyphenyl)-1-(1-pentyl-indol-3-yl)methanon</td></tr>
 <tr><td>45</td><td>AM-694 1-[(5-Fluorpentyl)-indol-3-yl]-(2-iodophenyl)methanon</td></tr>
-<tr><td>46</td><td>...</td></tr>
+<tr><td>46</td><td>…</td></tr>
 <tr><td>47</td><td>RCS-8 1-(2-Cyclohexylethyl)-3-(2-methoxyphenylacetyl)indol</td></tr>
 <tr><td>48</td><td>Methylendioxyaminoindan MDAI 5,6-methylenedioxy-2-aminoindan</td></tr>
 <tr><td>49</td><td>5-Iodaminoindan 5-IAI 5-iodo-2-aminoindan</td></tr>
@@ -1223,8 +1221,8 @@ Anhang 6*[^t-5]*
 <tr><td>55</td><td>o-FPP</td></tr>
 <tr><td></td><td>Orthofluorphenylpiperazin</td></tr>
 <tr><td></td><td>1-(2-Fluorphenyl)piperazin</td></tr>
-<tr><td>56</td><td>...</td></tr>
-<tr><td>57</td><td>...</td></tr>
+<tr><td>56</td><td>…</td></tr>
+<tr><td>57</td><td>…</td></tr>
 <tr><td>58</td><td>Diphenylprolinol</td></tr>
 <tr><td></td><td>D2PM</td></tr>
 <tr><td></td><td>Diphenyl(pyrrolidin-2-yl)methanol</td></tr>
@@ -1234,8 +1232,8 @@ Anhang 6*[^t-5]*
 <tr><td>60</td><td>2C-C</td></tr>
 <tr><td></td><td>4-Chlor-2,5-dimethoxyphenethylamin</td></tr>
 <tr><td></td><td>1-(4-Chlor-2,5-dimethoxyphenyl)-2-aminoethan</td></tr>
-<tr><td>61</td><td>...</td></tr>
-<tr><td>62</td><td>...</td></tr>
+<tr><td>61</td><td>…</td></tr>
+<tr><td>62</td><td>…</td></tr>
 <tr><td>63</td><td>AM-1220</td></tr>
 <tr><td></td><td>[1-[(1-Methylpiperidin-2-yl)methyl]-1H-indol-3-yl]-(naphthalen-1-yl) methanon</td></tr>
 <tr><td></td><td>(1-[(1-Methyl-2-piperidinyl)methyl]-1H-indol-3-yl)-1-naphthylmethanon</td></tr>
@@ -1256,10 +1254,10 @@ Anhang 6*[^t-5]*
 <tr><td></td><td>N-(Adamant-1-yl)-1-pentyl-1H-indazol-3-carboxamid</td></tr>
 <tr><td>72</td><td>CB-13</td></tr>
 <tr><td></td><td>1-Naphthyl[4-(pentyloxy)-1-naphthalenyl]methanon</td></tr>
-<tr><td>73</td><td>...</td></tr>
+<tr><td>73</td><td>…</td></tr>
 <tr><td>74</td><td>STS-135</td></tr>
 <tr><td></td><td>1-(5-Fluorpentyl)-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indol-3-carboxamid</td></tr>
-<tr><td>75</td><td>...</td></tr>
+<tr><td>75</td><td>…</td></tr>
 <tr><td>76</td><td>URB-597</td></tr>
 <tr><td></td><td>[3-(3-Carbamoylphenyl)phenyl] N-cyclohexylcarbamat</td></tr>
 <tr><td>77</td><td>URB-754</td></tr>
@@ -1298,7 +1296,7 @@ Anhang 6*[^t-5]*
 <tr><td></td><td>5-Methoxy-N,N-di-2-propen-1-yl-1H-indol-3-ethanamin</td></tr>
 <tr><td>89</td><td>Camfetamin</td></tr>
 <tr><td></td><td>N-Methyl-3-phenyl-3-norbornan-2-amin</td></tr>
-<tr><td>90</td><td>...</td></tr>
+<tr><td>90</td><td>…</td></tr>
 <tr><td>91</td><td>4-Fluortropacocain</td></tr>
 <tr><td></td><td>pFBT</td></tr>
 <tr><td></td><td>(8-Methyl-8-azabicyclo[3.2.1]octan-3-yl)-4-fluorbenzoat</td></tr>
@@ -1348,9 +1346,9 @@ Anhang 6*[^t-5]*
 <tr><td>107</td><td>BB22</td></tr>
 <tr><td></td><td>Chinolin-8-yl-[1-(cyclohexylmethyl)-1H-indol-3-yl]-carboxylat</td></tr>
 <tr><td></td><td>Chinolin-8-yl-[1-(cyclohexylmethyl)-1H-indol]-3-carboxylat</td></tr>
-<tr><td>108</td><td>...</td></tr>
-<tr><td>109</td><td>...</td></tr>
-<tr><td>110</td><td>...</td></tr>
+<tr><td>108</td><td>…</td></tr>
+<tr><td>109</td><td>…</td></tr>
+<tr><td>110</td><td>…</td></tr>
 <tr><td>111</td><td>25D-NBOMe</td></tr>
 <tr><td></td><td>2-(4-Methyl-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethylamin</td></tr>
 <tr><td></td><td>4-Methyl-2,5-dimethoxy)-N-(2-methoxybenzyl)phenethylamin</td></tr>
@@ -1369,9 +1367,9 @@ Anhang 6*[^t-5]*
 <tr><td></td><td>1,1-Dimethylheptyl-11-hydroxytetrahydrocannabinol</td></tr>
 <tr><td>117</td><td>WIN-55,212-2</td></tr>
 <tr><td></td><td>[2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolyl[1,2,3-de]-1,4-benzoxazin-6-yl]-1-napthalinylmethanon</td></tr>
-<tr><td>118</td><td>...</td></tr>
-<tr><td>119</td><td>...</td></tr>
-<tr><td>120</td><td>...</td></tr>
+<tr><td>118</td><td>…</td></tr>
+<tr><td>119</td><td>…</td></tr>
+<tr><td>120</td><td>…</td></tr>
 <tr><td>121</td><td>5-MAPB</td></tr>
 <tr><td></td><td>5-(N-Methyl-2-aminopropyl)benzofuran</td></tr>
 <tr><td></td><td>1-(Benzofuran-5-yl)-N-methylpropan-2-amin</td></tr>
@@ -1436,28 +1434,28 @@ Anhang 6*[^t-5]*
 <tr><td>167</td><td>AL-LAD N-Allyl-nor-lysergsäurediethylamid 9,10-Didehydro-N,N,diethyl-6-(2-propenyl)-ergolin-8-carboxamid</td></tr>
 <tr><td>168</td><td>LSZ Lysergsäure-2,4-dimethylazetidid 1[(9,10-Didehydro-6-methylergolin-8-yl)-carbonyl]-2,4-dimethylazetidin</td></tr>
 <tr><td>169</td><td>2-MAPB 2-(N-Methyl-2-aminopropyl)benzofuran N,a-Dimethyl-2-benzofuranethanamin</td></tr>
-<tr><td>170</td><td>...</td></tr>
-<tr><td>171</td><td>...</td></tr>
+<tr><td>170</td><td>…</td></tr>
+<tr><td>171</td><td>…</td></tr>
 <tr><td>172</td><td>MDMB-CHMINACA Methyl-2-(1-(cyclohexylmethyl)-1H-indazol-3-carboxamido)-3,3-dimethylbutanoat</td></tr>
-<tr><td>173</td><td>...</td></tr>
+<tr><td>173</td><td>…</td></tr>
 <tr><td>174</td><td>EG-018 3-(1-Naphthoyl)-1-pentylcarbazol</td></tr>
 <tr><td>175</td><td>Deschloretizolam 2-Ethyl-9-methyl-4-phenyl-6H-thien[3,2-f][1,2,4]triazol[4,3-a][1,4]diazepin Von der Kontrolle ausgenommen ist die industrielle Verwendung in Forschung und Entwicklung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
 <tr><td>176</td><td>Flubromazolam 8-Brom-6-(2-fluorphenyl)-1-methyl-4H-[1,2,4]triazol[4,3-a][1,4]benzodiazepin Von der Kontrolle ausgenommen ist die industrielle Verwendung in Forschung und Entwicklung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
 <tr><td>177</td><td>Fladrafinil 2-{[Bis(4-fluorphenyl)methyl]sulfinyl}-N-hydroxyacetamid Von der Kontrolle ausgenommen ist die industrielle Verwendung in Forschung und Entwicklung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
 <tr><td>178</td><td>HDMP-28 Methylnaphthidat Methyl-2-naphthyl-2-piperidinylacetat</td></tr>
-<tr><td>179</td><td>...</td></tr>
-<tr><td>180</td><td>...</td></tr>
+<tr><td>179</td><td>…</td></tr>
+<tr><td>180</td><td>…</td></tr>
 <tr><td>181</td><td>3-Fluorphenmetrazin 3-FPM 2-(3-Fluorphenyl)-3-methylmorpholin</td></tr>
-<tr><td>182</td><td>...</td></tr>
+<tr><td>182</td><td>…</td></tr>
 <tr><td>183</td><td>5F-MN-18 1-(5-Fluorpentyl)-N-1-naphthalenyl-1H-indazol-3-carboxamid</td></tr>
-<tr><td>184</td><td>...</td></tr>
+<tr><td>184</td><td>…</td></tr>
 <tr><td>185</td><td>MAM-2201 (N-Chlorpentyl-Analog) (1-(5-Chlorpentyl)-1H-indol-3-yl)(4-methylnaphthalen-1-yl)methanon JWH-122 (N-Chlorpentyl-Analog)</td></tr>
 <tr><td>186</td><td>NM-2201 (1-(5-Fluorpentyl)-1H-indol-3-yl)(naphthalen-1-yl)methanon CBL-2201</td></tr>
 <tr><td>187</td><td>5F-CUMYL-PINACA N-Cumyl-1-(5-fluorpentyl)-1H-indazol-3-carboxamid CUMYL-5F-PINACA</td></tr>
 <tr><td>188</td><td>MMB-CHMICA Methyl-2-[1-(cyclohexylmethyl)-1H-indol-3-carboxamid]-3-methylbutanoat</td></tr>
 <tr><td>189</td><td>5F-AB-PINACA N-[1-(Aminocarbonyl)-2-methylpropyl]-1-(5-fluorpentyl)-1H-indazole-3-carboxamid</td></tr>
 <tr><td>190</td><td>FUB-AKB48 N-(adamantan-1-yl)-1-[(4-fluorphenyl)methyl]-1H-indazol-3-carboxamid FUB-APINACA</td></tr>
-<tr><td>191</td><td>...</td></tr>
+<tr><td>191</td><td>…</td></tr>
 <tr><td>192</td><td>MO-CHMINACA 1-Methoxy-3,3-dimethyl-1-oxobutan-2-yl 1-(cyclohexylmethyl)-1H-indazol-3-carboxylat MDMB-CHMINAC MO-AMB</td></tr>
 <tr><td>193</td><td>MDMB-PCZCA Methyl-9-pentyl-9H-carbazol-3-ylcarbonylamino)-3,3-dimethylbutanoat</td></tr>
 <tr><td>194</td><td>MDMB-CHMCZCA Methyl-2-(9-(cyclohexylmethyl)-9H-carbazol-3-ylcarbonylamino)-3,3-dimethylbutanoat</td></tr>
@@ -1468,9 +1466,9 @@ Anhang 6*[^t-5]*
 <tr><td>199</td><td>4-Methylmethylphenidat Methyl-2-(4-methylphenyl)-2-(piperidin-2-yl)acetate 4-MeTMP 4-MMPH</td></tr>
 <tr><td>200</td><td>3-MeO-PCMO 4-[1-(3-Methoxyphenyl)cyclohexyl]morpholin</td></tr>
 <tr><td>201</td><td>Clonazolam 6-(2-Chlorphenyl)-1-methyl-8-nitro-4H-s-triazol- (4,3-a)-(1,4)-benzodiazepin Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
-<tr><td>202</td><td>...</td></tr>
+<tr><td>202</td><td>…</td></tr>
 <tr><td>203</td><td>Nifoxipam 5-(2-Fluorphenyl)-3-hydroxy-7-nitro-1,3-dihydro-2H-1,4-benzodiazepin-2‑on Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
-<tr><td>204</td><td>...</td></tr>
+<tr><td>204</td><td>…</td></tr>
 <tr><td>205</td><td>Ephenidin N-Ethyl-1,2-diphenylethylamin</td></tr>
 <tr><td>206</td><td>Mephenmetrazin 3-Methyl-2-(4-methylphenyl)morpholin 4-MPM 4-Methylphenmetrazin</td></tr>
 <tr><td>207</td><td>Mexedron 3-Methoxy-2-(methylamino)-1-(4-methylphenyl)propan-1-on</td></tr>
@@ -1478,31 +1476,31 @@ Anhang 6*[^t-5]*
 <tr><td>209</td><td>Methamnetamin N-Methyl-1-(2-naphthyl)propan-2-amin MNA</td></tr>
 <tr><td>210</td><td>Deschlorketamin 2-Phenyl-(2-Methylamino)-cyclohexanon DXE</td></tr>
 <tr><td>211</td><td>Phenetrazin 3‐Ethyl‐2‐phenylmorpholin</td></tr>
-<tr><td>212</td><td>...</td></tr>
+<tr><td>212</td><td>…</td></tr>
 <tr><td>213</td><td>1P-ETH-LAD N-Ethyl-nor-1-propionyllysergsäurediethylamid 1P-ETH-LSD</td></tr>
 <tr><td>214</td><td>5-MeO-DiBF [2-(5-Methoxy-1-benzofuran-3-yl)ethyl]bis(propan-2-yl)amin</td></tr>
 <tr><td>215</td><td>N-Benzylmephedron 1-(4-Methylphenyl)-2-(benzylmethylamino)propan-1-on</td></tr>
-<tr><td>216</td><td>...</td></tr>
+<tr><td>216</td><td>…</td></tr>
 <tr><td>217</td><td>5B-APINACA 5B-AKB48 N-(1-Adamantyl)-[1-(5-brompentyl)-1H-indazol-3-yl]-carboxamid</td></tr>
 <tr><td>218</td><td>5C-APINACA 5C-AKB48 N-(1-Adamantyl)-[1-(5-chlorpentyl)-1H-indazol-3-yl]-carboxamid</td></tr>
-<tr><td>219</td><td>...</td></tr>
+<tr><td>219</td><td>…</td></tr>
 <tr><td>220</td><td>THJ-018 1-Naphthyl-(1-pentyl-1H-indazol-3-yl)methanon</td></tr>
 <tr><td>221</td><td>5F-APP-PICA PX-1 N-(1-Amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluorpentyl)-1H-indol-3-carboxamid</td></tr>
 <tr><td>222</td><td>ADB-PINACA N-[1-(Aminocarbonyl)-2,2-dimethylpropyl]-1-pentyl-1H-indazol-3-carboxamid</td></tr>
 <tr><td>223</td><td>N-Cumyl-4CN-B7AICA N-Cumyl-(4-cyanobutyl)-7-azaindol-3-carboxamid</td></tr>
 <tr><td>224</td><td>Cumyl-Pegaclon 5-Pentyl-2-(2-phenylpropan-2-yl)-2,5-dihydro-1H-pyrido[4,3-b]indol-1-on</td></tr>
-<tr><td>225</td><td>...</td></tr>
+<tr><td>225</td><td>…</td></tr>
 <tr><td>226</td><td>Benzylfentanyl N-(1-Benzylpiperidin-4-yl)-N-phenylpropanamid</td></tr>
-<tr><td>227</td><td>...</td></tr>
+<tr><td>227</td><td>…</td></tr>
 <tr><td>228</td><td>4-AcO-MET 4-Acetoxy-N-ethyl-N-methyltryptamin</td></tr>
 <tr><td>229</td><td>Benzedron 1-(4-Methylphenyl)-2-(benzylamino)propan-1-on</td></tr>
 <tr><td>230</td><td>4-Fluorethylphenidat 4F-EPH Ethyl-2-(4-fluorphenyl)-2-(piperidin-2-yl)acetat</td></tr>
 <tr><td>231</td><td>Meclonazepam 5-(2-Chlorphenyl)-1,3-dihydro-3-methyl-7-nitro-2H-1,4-benzodiazepin-2-on Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
 <tr><td>232</td><td>3-MeO-PCE 3-Methoxyeticyclidin N-Ethyl-1-(3-methoxyphenyl)cyclohexan-1-amin</td></tr>
 <tr><td>233</td><td>ALD-52 1-Acetyllysergsäurediethylamid 4-Acetyl-N,N-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-carboxamid</td></tr>
-<tr><td>234</td><td>...</td></tr>
-<tr><td>235</td><td>...</td></tr>
-<tr><td>236</td><td>Fentanyle Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d und f), deren Struktur abgeleitet wird von 4-Aminopiperidin, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20201215/de/xml/image/image1.png) sofern sie: – am Stickstoff des Piperidinrings mit Arylalkyl- oder Heteroarylalkylgruppen substituiert ist, wobei diese Gruppen sowie das C-Gerüst des Piperidinrings durch Alkoxy-, Alkoxycarbonyl, Alkyl-, Aryl-, Halogen- und Hydroxygruppen in beliebigem Ausmass und beliebiger Position weiter substituiert sein können; und zusätzlich – an der Aminogruppe des 4-Aminopiperidins mit einer Aryl- oder Heteroarylgruppe substituiert ist, wobei diese Gruppe durch Alkoxy-, Alkyl-, Halogen- und Hydroxygruppen in beliebigem Ausmass und beliebiger Position weiter substituiert sein kann; sowie zusätzlich – an der Aminogruppe des 4-Aminopiperidins mit einer beliebigen Acylgruppe substituiert ist. Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
+<tr><td>234</td><td>…</td></tr>
+<tr><td>235</td><td>…</td></tr>
+<tr><td>236</td><td>Fentanyle Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d und f), deren Struktur abgeleitet wird von 4-Aminopiperidin, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/de/xml/image/image1.png) sofern sie: – am Stickstoff des Piperidinrings mit Arylalkyl- oder Heteroarylalkylgruppen substituiert ist, wobei diese Gruppen sowie das C-Gerüst des Piperidinrings durch Alkoxy-, Alkoxycarbonyl, Alkyl-, Aryl-, Halogen- und Hydroxygruppen in beliebigem Ausmass und beliebiger Position weiter substituiert sein können; und zusätzlich – an der Aminogruppe des 4-Aminopiperidins mit einer Aryl- oder Heteroarylgruppe substituiert ist, wobei diese Gruppe durch Alkoxy-, Alkyl-, Halogen- und Hydroxygruppen in beliebigem Ausmass und beliebiger Position weiter substituiert sein kann; sowie zusätzlich – an der Aminogruppe des 4-Aminopiperidins mit einer beliebigen Acylgruppe substituiert ist. Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
 <tr><td>237</td><td>Flunitrazolam 1-Methyl-8-nitro-6-(2-fluorphenyl)-4H-[1,2,4]triazol[4,3-a][1,4]benzodiazepin Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
 <tr><td>238</td><td>Adinazolam 1-(8-Chlor-6-phenyl-4H-[1,2,4]triazol[4,3-a][1,4]benzodiazepin-1-yl)-N,N-dimethylmethanamin Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
 <tr><td>239</td><td>Dichloropan Methyl-3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo[3.2.1]octan-2-carboxylat</td></tr>
@@ -1510,14 +1508,14 @@ Anhang 6*[^t-5]*
 <tr><td>241</td><td>3-HO-PCE 3-(1-Ethylaminocyclohexyl)phenol 3-Hydroxyeticyclidin</td></tr>
 <tr><td>242</td><td>Fluclotizolam 2-Chlor-4-(2-fluorphenyl)-9-methyl-6H-thien[3,2-f][1,2,4]triazol[4,3-a] [1,4]diazepin Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
 <tr><td>243</td><td>Troparil Methyl-8-methyl-3-phenyl-8-azabicyclo[3.2.1]octane-2-carboxylat Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
-<tr><td>244</td><td>...</td></tr>
+<tr><td>244</td><td>…</td></tr>
 <tr><td>245</td><td>EMB-FUBINACA Ethyl-2-[[1-[(4-fluorphenyl)methyl]indazol-3-carbonyl]amino]-3-methyl-butanoat Ethyl-(1-(4-fluorobenzyl)-1H-indazol-3-carbonyl)valinat</td></tr>
 <tr><td>246</td><td>Metizolam 4-(2-Chlorphenyl)-2-ethyl-6H-thien[3,2-f][1,2,4]triazol[4,3-a][1,4]diazepin Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
-<tr><td>247</td><td>...</td></tr>
+<tr><td>247</td><td>…</td></tr>
 <tr><td>248</td><td>5F-Cumyl-P7AICA 1-(5-Fluorpentyl)-N-(2-phenylpropan-2-yl)-7-azaindole-3-carboxamide 1-(5-Fluorpentyl)-N-(2-phenylpropan-2-yl)pyrrol[2,3-b]pyridin-3-carboxamid</td></tr>
-<tr><td>249</td><td>...</td></tr>
+<tr><td>249</td><td>…</td></tr>
 <tr><td>250</td><td>1,4-Butandiol Von der Kontrolle ausgenommen ist die industrielle Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
-<tr><td>251</td><td>...</td></tr>
+<tr><td>251</td><td>…</td></tr>
 <tr><td>252</td><td>N,N-Dimethylamphetamin N,N,α-Trimethylphenethylamin Metrotonin</td></tr>
 <tr><td>253</td><td>DPT N,N-Dipropyltryptamin</td></tr>
 <tr><td>254</td><td>5F-EMB-PINACA Ethyl-2-[[1-(5-fluorpentyl)indazol-3-carbonyl]amino]-3-methylbutanoat 5F-AEB</td></tr>
@@ -1525,14 +1523,14 @@ Anhang 6*[^t-5]*
 <tr><td>256</td><td>5F-MDMB-P7AICA Methyl-2-[(1-(5-fluorpentyl)-1H-pyrrol[2,3-b]pyridin-3-carboxamido)]-3,3-dimethylbutanoat</td></tr>
 <tr><td>257</td><td>3-HO-PCP 3-[1-(1-Piperidinyl)cyclohexyl]phenol 3-Hydroxyphencyclidin</td></tr>
 <tr><td>258</td><td>Bromazolam 8-Brom-1-methyl-6-phenyl-4H-[1,2,4]triazol[4,3-a]benzodiazepine Von der Kontrolle ausgenommen ist die industrielle und die wissenschaft-liche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausge-nommen.</td></tr>
-<tr><td>259</td><td>...</td></tr>
+<tr><td>259</td><td>…</td></tr>
 <tr><td>260</td><td>4'-Fluor-4-methylaminorex 5-(4-Fluorphenyl)-4,5-dihydro-4-methyl-2-oxazolamin 4F-MAR</td></tr>
 <tr><td>261</td><td>Thiothinon 2-(Methylamino)-1-(2-thiophenyl)-1-propanon **β**k-MPA</td></tr>
 <tr><td>262</td><td>MMB-CHMINACA Methyl-2-[[1-(cyclohexylmethyl)-1H-indazol-3-carbonyl]amino]-3-methylbutanoat AMB-CHMINACA</td></tr>
-<tr><td>263</td><td>Lysergsäurederivate Jede Substanz (ausgenommen Methylergometrin, Methysergid, Amesergid oder kontrollierte Substanzen der Verzeichnisse a, b, d und f), deren Struktur abgeleitet wird von Lysergsäureamid (Ergin), ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20201215/de/xml/image/image2.png) sofern sie: – am Stickstoff des Fünferrings (R1) unsubstituiert oder mit einer beliebigen Alkyl- oder Carbonylgruppe substituiert ist; und zusätzlich – am Stickstoff der Amidgruppe (R2 und R3) unsubstituiert oder in beliebigem Ausmass mit Alkyl-, Alkenyl- Alkoxyalkyl- oder Hydroxyalkylgruppen substituiert ist; sowie zusätzlich – am Stickstoff (R6) mit einer beliebigen Alkyl-, oder Alkenylgruppe substituiert ist. Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
-<tr><td>264</td><td>Nitazenderivate Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d und f), deren Struktur abgeleitet wird von Nitazen, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20201215/de/xml/image/image3.png) sofern sie: – am Phenylring (R1) in beliebiger Weise und beliebigem Ausmass substituiert ist; sowie zusätzlich – am Stickstoff der Amingruppe (R2 und R3) in beliebigem Ausmass mit Alkylgruppen substituiert ist. Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
-<tr><td>265</td><td>Synthetische Cannabinoide Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d und f), deren Struktur abgeleitet wird von Indol, unabhängig von der Substitution eines weiteren Kohlenstoffatoms der Indolstruktur durch ein Stickstoffatom, durch Substitution: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20201215/de/xml/image/image4.png) – am Stickstoffatom (Position 1) mit Alkyl-, Alkenyl-, Aryl- oder heterocyclischen Strukturen mit mindestens 3 Kohlenstoffatomen; und zusätzlich – an der Position 3 des Indols durch eine Carbonyl-, Carbonsäureester- oder Carbonsäureamidstruktur, die zusätzlich in beliebiger Art und beliebigem Ausmass weiter substituiert ist und an die Indolstruktur anelliert sein kann. [tab] Diese Strukturen können an den Positionen 2, 4, 5, 6 und 7 der Indolstruktur in beliebiger Art und beliebigem Ausmass substituiert sein. Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
-<tr><td>266</td><td>Tryptamine Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d und f), deren Struktur abgeleitet wird von Tryptamin, durch Substitution: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20201215/de/xml/image/image5.png) – am Stickstoffatom der Seitenkette mit Alkyl- oder Alkenylgruppen in beliebigem Ausmass oder durch Einbindung dieses Stickstoffatoms in eine cyclische Struktur. Diese Strukturen können auf eine oder mehrere der folgenden Arten substituiert sein: – an der α-Position der Seitenkette mit Alkyl- oder Alkenylgruppen; – in der Indolringstruktur des Tryptamins in beliebigem Ausmass mit Alkyl-, Alkoxy-, Halogen- oder Hydroxygruppen. Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
+<tr><td>263</td><td>Lysergsäurederivate Jede Substanz (ausgenommen Methylergometrin, Methysergid, Amesergid oder kontrollierte Substanzen der Verzeichnisse a, b, d und f), deren Struktur abgeleitet wird von Lysergsäureamid (Ergin), ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/de/xml/image/image2.png) sofern sie: – am Stickstoff des Fünferrings (R1) unsubstituiert oder mit einer beliebigen Alkyl- oder Carbonylgruppe substituiert ist; und zusätzlich – am Stickstoff der Amidgruppe (R2 und R3) unsubstituiert oder in beliebigem Ausmass mit Alkyl-, Alkenyl- Alkoxyalkyl- oder Hydroxyalkylgruppen substituiert ist; sowie zusätzlich – am Stickstoff (R6) mit einer beliebigen Alkyl-, oder Alkenylgruppe substituiert ist. Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
+<tr><td>264</td><td>Nitazenderivate Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d und f), deren Struktur abgeleitet wird von Nitazen, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/de/xml/image/image3.png) sofern sie: – am Phenylring (R1) in beliebiger Weise und beliebigem Ausmass substituiert ist; sowie zusätzlich – am Stickstoff der Amingruppe (R2 und R3) in beliebigem Ausmass mit Alkylgruppen substituiert ist. Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
+<tr><td>265</td><td>Synthetische Cannabinoide Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d und f), deren Struktur abgeleitet wird von Indol, unabhängig von der Substitution eines weiteren Kohlenstoffatoms der Indolstruktur durch ein Stickstoffatom, durch Substitution: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/de/xml/image/image4.png) – am Stickstoffatom (Position 1) mit Alkyl-, Alkenyl-, Aryl- oder heterocyclischen Strukturen mit mindestens 3 Kohlenstoffatomen; und zusätzlich – an der Position 3 des Indols durch eine Carbonyl-, Carbonsäureester- oder Carbonsäureamidstruktur, die zusätzlich in beliebiger Art und beliebigem Ausmass weiter substituiert ist und an die Indolstruktur anelliert sein kann. [tab] Diese Strukturen können an den Positionen 2, 4, 5, 6 und 7 der Indolstruktur in beliebiger Art und beliebigem Ausmass substituiert sein. Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
+<tr><td>266</td><td>Tryptamine Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d und f), deren Struktur abgeleitet wird von Tryptamin, durch Substitution: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/de/xml/image/image5.png) – am Stickstoffatom der Seitenkette mit Alkyl- oder Alkenylgruppen in beliebigem Ausmass oder durch Einbindung dieses Stickstoffatoms in eine cyclische Struktur. Diese Strukturen können auf eine oder mehrere der folgenden Arten substituiert sein: – an der α-Position der Seitenkette mit Alkyl- oder Alkenylgruppen; – in der Indolringstruktur des Tryptamins in beliebigem Ausmass mit Alkyl-, Alkoxy-, Halogen- oder Hydroxygruppen. Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
 <tr><td>267</td><td>Pagoclon 2-(7-Chlor-1,8-naphthyridin-2-yl)-2,3-dihydro-3-(5-methyl-2-oxohexyl)-1H-isoindol-1-on Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
 <tr><td>268</td><td>FDU-PB-22 1-Naphthalenyl-1-[(4-fluorphenyl)methyl]-1H-indol-3-carboxylat</td></tr>
 <tr><td>269</td><td>5-MeO-N,N-DBT 5-Methoxy-N,N-dibutyltryptamin</td></tr>
@@ -1545,6 +1543,19 @@ Anhang 6*[^t-5]*
 <tr><td>276</td><td>MMB-022 MMB-4en-PICA Methyl-2-[1-(pent-4-en-1-yl)-1H-indol-3-carboxamido]-3-methylbutanoat</td></tr>
 <tr><td>277</td><td>Methoxpropamin MXPr 2-(3-Methoxyphenyl)-2-(propylamino)cyclohexan-1-on</td></tr>
 <tr><td>278</td><td>BOH-2C-B beta-Hydroxy-2C-B α-​(Aminomethyl)​-​4-​brom-​2,​5-​dimethoxyphenylmethanol</td></tr>
+<tr><td>279</td><td>4F-MDMB-BICA Methyl-2-(1-(4-fluorbutyl)-1H-indol-3-carboxamido)-3,3-dimethylbutanoat</td></tr>
+<tr><td>280</td><td>5F-EDMB-PICA Ethyl-2-(1-(5-fluorpentyl)-1H-indol-3-carboxamido)-3,3-dimethylbutanoat</td></tr>
+<tr><td>281</td><td>5F-EMB-PICA Ethyl-2-(1-(5-fluorpentyl)-1H-indol-3-carboxamido)-3-methylbutanoat</td></tr>
+<tr><td>282</td><td>MMB-FUBICA Methyl-2‐(1‐(4‐fluorbenzyl)‐1H‐indol‐3‐carboxamido)‐3‐methylbutanoat AMB-FUBICA</td></tr>
+<tr><td>283</td><td>ADB-BINACA N-[1-(Aminocarbonyl)-2,2-dimethylpropyl]-1-butyl-1H-indazol-3-carboxamid</td></tr>
+<tr><td>284</td><td>ADB-4en-PINACA N-[1-(Aminocarbonyl)-2,2-dimethylpropyl]-1-pent-4en-1-yl-1H-indazol-3-carboxamid</td></tr>
+<tr><td>285</td><td>EDMB-PINACA Ethyl-2-(1-pentyl)-1H-indazol-3-carboxamido)-3,3-dimethylbutanoat</td></tr>
+<tr><td>286</td><td>Desalkylflurazepam 7-Chlor-5-(2-fluorphenyl)-1,3-dihydro-1,4-benzodiazepin-2-on Norflurazepam, Norfludiazepam Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
+<tr><td>287</td><td>Deoxymethoxetamin 2-Ethylamino-2-(3-methylphenyl)cyclohexan-1-on DMXE</td></tr>
+<tr><td>288</td><td>3-Me-PCP 3-Methylphencyclidin 1-[1-(3-Methylphenyl)cyclohexyl]piperidin</td></tr>
+<tr><td>289</td><td>Mephedren N-Methyl-1-(5-methylthiophen-2-yl)propan-2-amin 5-Methylmethiopropamin 5-MMPA</td></tr>
+<tr><td>290</td><td>Methoxisopropamin 2-Isopropylamino-2-(3-methoxyphenyl)cyclohexan-1-on MXiPr</td></tr>
+<tr><td>291</td><td>Arylcyclohexylamine Jede Substanz (ausgenommen kontrollierte Substanzen der Verzeichnisse a, b, d und f), deren Struktur abgeleitet wird von Phenylcyclohexylamin, durch Substitution auf eine oder mehrere der folgenden Arten: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/de/xml/image/image6.png) – am Stickstoffatom der Amingruppe mit Alkyl-, Alkenyl- in beliebigem Ausmass oder cyclischen bzw. heterocyclischen Strukturen unter Einschluss des Stickstoffatoms; – am Cyclohexylring durch Alkyl-, Aryl-, Arylalkyl-, Hydroxy-, Alkoxy-oder Oxogruppen in beliebigem Ausmass; – am Aromat mit Halogen-, Alkoxy-, Alkyl- oder Hydroxygruppen in beliebigem Ausmass, wobei das aromatische System beliebig sein kann. Von der Kontrolle ausgenommen ist die industrielle und die wissenschaftliche Verwendung. Der private Gebrauch ist nicht von der Kontrolle ausgenommen.</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: [SR 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
@@ -1589,7 +1600,7 @@ Anhang 7*[^t-6]*
 <tr><td>101</td><td>Ephedrinhaltige Präparate Von der Kontrolle ausgenommen sind Präparate, wenn sie einen oder mehrere andere Bestandteile (Wirk- oder Hilfsstoff) und als Base berechnet je Einnahme-Einheit nicht mehr als 15mg Ephedrin oder in nicht abgeteilter Form höchstens 10mg/ml Ephedrin enthalten.</td></tr>
 <tr><td>102</td><td>Chlorephedrin Von der Kontrolle ausgenommen sind Unternehmen mit einer Betriebsbewilligung zum Umgang mit kontrollierten Substanzen des Verzeichnisses f.</td></tr>
 <tr><td>103</td><td>Chlorpseudoephedrin Von der Kontrolle ausgenommen sind Unternehmen mit einer Betriebsbewilligung zum Umgang mit kontrollierten Substanzen des Verzeichnisses f.</td></tr>
-<tr><td>104</td><td>...</td></tr>
+<tr><td>104</td><td>…</td></tr>
 <tr><td>105</td><td>Phenyl-2-hydroxypropansulfonsäure Von der Kontrolle ausgenommen sind Unternehmen mit einer Betriebsbewilligung zum Umgang mit kontrollierten Substanzen des Verzeichnisses f.</td></tr>
 <tr><td>106</td><td>Ester der Phenylessigsäure ab 100g Von der Kontrolle ausgenommen sind Unternehmen mit einer Betriebsbewilligung zum Umgang mit kontrollierten Substanzen des Verzeichnisses f.</td></tr>
 <tr><td>107</td><td>2-Methyl-3-phenyloxirancarbonsäure und deren Ester ab 100g Von der Kontrolle ausgenommen sind Unternehmen mit einer Betriebsbewilligung zum Umgang mit kontrollierten Substanzen des Verzeichnisses f.</td></tr>
