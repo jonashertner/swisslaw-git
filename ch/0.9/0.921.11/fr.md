@@ -3,11 +3,11 @@ sr: "0.921.11"
 title: "Accord international de 2006 sur les bois tropicaux, du 27 janvier 2006 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/85"
 language: fr
-version: 2018-01-25
+version: 2021-12-07
 adopted: 2006-01-27
 in_force: 2011-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20180125/fr/xml/fedlex-data-admin-ch-eli-cc-2012-85-20180125-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20180125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20211207/fr/xml/fedlex-data-admin-ch-eli-cc-2012-85-20211207-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20211207/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 27 avril 2007
 
 Entré en vigueur pour la Suisse le 7 décembre 2011
 
-(Etat le 25 janvier 2018)
+(Etat le 7 décembre 2021)
 
 [^t-1]: [RO 2012 549](https://fedlex.data.admin.ch/eli/oc/2012/84)
 
@@ -37,7 +37,7 @@ Les Parties au présent Accord,
 - a) *rappelant* la Déclaration et le Programme d’action concernant l’instauration d’un nouvel ordre économique international, le Programme intégré pour les produits de base, le texte intitulé «Un nouveau partenariat pour le développement» ainsi que l’Esprit de São Paulo et le Consensus de São Paulo, que la Conférence des Nations Unies sur le commerce et le développement (CNUCED) a adoptés à sa onzième session;
 - b) *rappelant* *aussi* l’Accord international de 1983 sur les bois tropicaux[^ingress-1], et l’Accord international de 1994 sur les bois tropicaux[^ingress-2], et reconnaissant le travail de l’Organisation internationale des bois tropicaux ainsi que les résultats qu’elle a obtenus depuis sa création, dont une stratégie ayant pour but le commerce international des bois tropicaux provenant de sources gérées de façon durable;
 - c) *rappelant en outre* la Déclaration de Johannesburg et le Plan de mise en œuvre adoptés par le Sommet mondial pour le développement durable en septembre 2002, le Forum des Nations Unies sur les forêts établi en octobre 2000 et la création connexe du Partenariat pour la collaboration sur les forêts, dont l’Organisation internationale des bois tropicaux est membre, ainsi que la Déclaration de Rio sur l’environnement et le développement, la Déclaration de principes, non juridiquement contraignante mais faisant autorité, pour un consensus mondial sur la gestion, la conservation et l’exploitation écologiquement viable de tous les types de forêts, et les chapitres pertinents du programme Action 21 adopté par la Conférence des Nations Unies sur l’environnement et le développement tenue en juin 1992, la Convention‑cadre des Nations Unies sur les changements climatiques[^ingress-3], la Convention des Nations Unies sur la diversité biologique[^ingress-4] et la Convention des Nations Unies sur la lutte contre la désertification[^ingress-5];
-- d) *reconnaissant* qu’en vertu de la Charte des Nations Unies[^ingress-6] et des principes du droit international, les Etats ont le droit souverain d’exploiter leurs propres ressources selon leur politique environnementale et ont le devoir de garantir que les activités exercées dans les limites de leur juridiction ou sous leur contrôle ne causent pas de dommage à l’environnement d’autres Etats ou dans des régions ne relevant d’aucune juridiction nationale, conformément à ce qui est énoncé au principe 1 a) de la Déclaration de principes, non juridiquement contraignante mais faisant autorité, pour un consensus mondial sur la gestion, la conservation et l’exploitation écologiquement viable de tous les types de forêts;
+- d) *reconnaissant* qu’en vertu de la Charte des Nations Unies[^ingress-6] et des principes du droit international, les États ont le droit souverain d’exploiter leurs propres ressources selon leur politique environnementale et ont le devoir de garantir que les activités exercées dans les limites de leur juridiction ou sous leur contrôle ne causent pas de dommage à l’environnement d’autres États ou dans des régions ne relevant d’aucune juridiction nationale, conformément à ce qui est énoncé au principe 1 a) de la Déclaration de principes, non juridiquement contraignante mais faisant autorité, pour un consensus mondial sur la gestion, la conservation et l’exploitation écologiquement viable de tous les types de forêts;
 - e) *reconnaissant* l’importance du bois d’œuvre et de son commerce pour l’économie des pays producteurs;
 - f) *reconnaissant aussi* l’importance des multiples bienfaits économiques, environnementaux et sociaux que procurent les forêts, y compris le bois d’œuvre et les produits forestiers autres que le bois et les services environnementaux, dans le contexte de la gestion durable des forêts, aux niveaux local, national et mondial, et la contribution de la gestion durable des forêts au développement durable, à l’atténuation de la pauvreté et à la réalisation des objectifs internationaux de développement, y compris ceux qui sont énoncés dans la Déclaration du Millénaire;
 - g) *reconnaissant en outre* le besoin de promouvoir et d’appliquer descritères et indicateurs comparables pour la gestion durable des forêts en tant qu’outils importants permettant aux membres d’évaluer, de suivre et de promouvoir les progrès accomplis en vue d’une gestion durable de leurs forêts;
@@ -110,7 +110,7 @@ Aux fins du présent Accord:
 - 8\. Par «vote spécial» il faut entendre un vote requérant les deux tiers au moins des suffrages exprimés par les membres producteurs présents etvotants et60 % au moins des suffrages exprimés par lesmembres consommateurs présents et votants, comptés séparément, à condition que ces suffrages soient exprimés par au moins la moitié des membres producteurs présents et votants et au moins la moitié des membres consommateurs présents et votants.
 - 9\. Par «vote à la majorité simple répartie» il faut entendre un vote requérant plus de lamoitié des suffrages exprimés par les membres producteurs présents et votants et plus de la moitié des suffrages exprimés par les membres consommateurs présents et votants, comptés séparément.
 - 10\. Par «exercice biennal» il faut entendre la période allant du 1<sup>er</sup> janvier d’une année au 31 décembre inclus de l’année suivante.
-- 11\. Par «monnaies librement convertibles» il faut entendre le dollar desEtats‑Unis, l’euro, le franc suisse, la livre sterling, le yen ettoute autre monnaie éventuellement désignée par une organisation monétaire internationale compétente comme étant en fait couramment utilisée pour effectuer des paiements au titre de transactions internationales et couramment négociée sur les principaux marchés deschanges.
+- 11\. Par «monnaies librement convertibles» il faut entendre le dollar desÉtats‑Unis, l’euro, le franc suisse, la livre sterling, le yen ettoute autre monnaie éventuellement désignée par une organisation monétaire internationale compétente comme étant en fait couramment utilisée pour effectuer des paiements au titre de transactions internationales et couramment négociée sur les principaux marchés deschanges.
 - 12\. Aux fins du calcul de la répartition des voix conformément aupar. 2 b) de l’art. 10, il faut entendre par «ressources forestières tropicales» les forêts naturelles denses et les plantations forestières situées entre le tropique du Cancer et le tropique du Capricorne.
 
 ## Chapitre III Organisation et administration
@@ -144,7 +144,7 @@ Il est institué deux catégories de membres de l’Organisation, à savoir:
 
 <sup>1.</sup> Toute référence faite dans le présent Accord à des «gouvernements» est réputée valoir aussi pour la Communauté européenne et pour toute organisation intergouvernementale ayant des responsabilités comparables dans la négociation, la conclusion et l’application d’accords internationaux, en particulier d’accords sur des produits de base. En conséquence, toute mention, dans le présent Accord, de la signature, de la ratification, de l’acceptation ou de l’approbation, ou de la notification d’application à titre provisoire, ou de l’adhésion, est, dans le cas des dites organisations, réputée valoir aussi pour la signature, la ratification, l’acceptation ou l’approbation, ou pour la notification d’application à titre provisoire, ou pour l’adhésion, par ces organisations.
 
-<sup>2.</sup> En cas de vote sur des questions relevant de leur compétence, la Communauté européenne et les organisations intergouvernementales mentionnées au par. 1 disposent d’un nombre de voix égal au nombre total de voix attribuables à leurs Etats membres, qui sont parties au présent Accord conformément à l’art. 10. En pareil cas, les Etats membres des dites organisations ne sont pas autorisés à exercer leurs droits de vote individuels.
+<sup>2.</sup> En cas de vote sur des questions relevant de leur compétence, la Communauté européenne et les organisations intergouvernementales mentionnées au par. 1 disposent d’un nombre de voix égal au nombre total de voix attribuables à leurs États membres, qui sont parties au présent Accord conformément à l’art. 10. En pareil cas, les États membres des dites organisations ne sont pas autorisés à exercer leurs droits de vote individuels.
 
 ## Chapitre IV Conseil international des bois tropicaux
 
@@ -190,10 +190,10 @@ Le Conseil exerce tous les pouvoirs et s’acquitte, ou veille à l’accompliss
 
 Le Conseil se réunit en session extraordinaire s’il en décide ainsi ou s’il en est requis par un membre ou par le Directeur exécutif en accord avec le Président et le Vice‑Président du Conseil et:
 
-- a) par une majorité des membres producteurs ou une majorité des membres consommateurs; ou
+- a) par une majorité des membres producteurs ou une majorité des membres consommateurs, ou
 - b) par une majorité des membres.
 
-<sup>3.</sup> Les sessions du Conseil ont lieu au siège de l’Organisation à moins que le Conseil, par un vote spécial conformément à l’art. 12, n’en décide autrement. A cet égard, le Conseil s’efforce de tenir une session sur deux en dehors du siège de l’Organisation, de préférence dans un pays producteur.
+<sup>3.</sup> Les sessions du Conseil ont lieu au siège de l’Organisation à moins que le Conseil, par un vote spécial conformément à l’art. 12, n’en décide autrement. À cet égard, le Conseil s’efforce de tenir une session sur deux en dehors du siège de l’Organisation, de préférence dans un pays producteur.
 
 <sup>4.</sup> En examinant la périodicité de ses sessions et le lieu de leur tenue, le Conseil veille à ce que des fonds suffisants soient disponibles.
 
@@ -243,7 +243,7 @@ Les voix des membres producteurs sont réparties comme suit:
 
 <sup>1.</sup> Le Conseil s’efforce de prendre toutes ses décisions et de faire toutes ses recommandations par consensus.
 
-<sup>2.</sup> A défaut de consensus, toutes les décisions et toutes les recommandations du Conseil sont adoptées par un vote à la majorité simple répartie, à moins que le présent Accord ne prévoie un vote spécial.
+<sup>2.</sup> À défaut de consensus, toutes les décisions et toutes les recommandations du Conseil sont adoptées par un vote à la majorité simple répartie, à moins que le présent Accord ne prévoie un vote spécial.
 
 <sup>3.</sup> Quand un membre invoque les dispositions du par. 2 de l’art. 11 et que ses voix sont utilisées à une séance du Conseil, ce membre est considéré, aux fins du par. 1 du présent article, comme présent et votant.
 
@@ -287,7 +287,7 @@ Les voix des membres producteurs sont réparties comme suit:
 
 **Admission d’observateurs**
 
-Le Conseil peut inviter tout Etat Membre ou observateur de l’Organisation des Nations Unies qui n’est pas partie au présent Accord ou toute organisation mentionnée à l’art. 15 intéressés par les activités de l’Organisation à assister en qualité d’observateur aux sessions du Conseil.
+Le Conseil peut inviter tout État Membre ou observateur de l’Organisation des Nations Unies qui n’est pas partie au présent Accord ou toute organisation mentionnée à l’art. 15 intéressés par les activités de l’Organisation à assister en qualité d’observateur aux sessions du Conseil.
 
 ## Chapitre V Privilèges et immunités
 
@@ -308,7 +308,7 @@ Le Conseil peut inviter tout Etat Membre ou observateur de l’Organisation des 
 L’Accord de siège est indépendant du présent Accord. Toutefois, il prend fin:
 
 - a) par accord entre le gouvernement hôte et l’Organisation;
-- b) si le siège de l’Organisation est transféré hors du territoire du gouvernement hôte; ou
+- b) si le siège de l’Organisation est transféré hors du territoire du gouvernement hôte, ou
 - c) si l’Organisation cesse d’exister.
 
 ## Chapitre VI Dispositions financières
@@ -396,7 +396,7 @@ Les sources possibles de financement du compte spécial sont les suivantes:
 
 <sup>7.</sup> Le compte subsidiaire des projets a pour objet de faciliter le versement de contributions affectées pour le financement d’avant‑projets, de projets et d’activités approuvés, conformément aux art. 24 et 25.
 
-<sup>8.</sup> Les contributions au compte subsidiaire des projets affectées à un avant‑projet, à un projet ou à une activité ne sont utilisées que pour l’exécution de l’avant‑projet, du projet ou de l’activité auxquels elles ont été affectées, à moins qu’il n’en soit décidé autrement par le donateur en consultation avec le Directeur exécutif. A l’achèvement ou à l’expiration d’un avant‑projet, d’un projet ou d’une activité, le donateur décide de l’utilisation des éventuels fonds restants.
+<sup>8.</sup> Les contributions au compte subsidiaire des projets affectées à un avant‑projet, à un projet ou à une activité ne sont utilisées que pour l’exécution de l’avant‑projet, du projet ou de l’activité auxquels elles ont été affectées, à moins qu’il n’en soit décidé autrement par le donateur en consultation avec le Directeur exécutif. À l’achèvement ou à l’expiration d’un avant‑projet, d’un projet ou d’une activité, le donateur décide de l’utilisation des éventuels fonds restants.
 
 <sup>9.</sup> Pour assurer un financement prévisible du compte spécial, étant donné le caractère volontaire des contributions, les membres s’efforcent d’en reconstituer les ressources à un niveau suffisant afin que les avant‑projets, projets et activités approuvés par le Conseil puissent être pleinement exécutés.
 
@@ -610,10 +610,10 @@ Le Secrétaire général de l’Organisation des Nations Unies est désigné com
 
 Tout gouvernement visé au par. 1 du présent article peut:
 
-- a) au moment de signer le présent Accord, déclarer que par cette signature il exprime son consentement à être lié par le présent Accord (signature définitive); ou
+- a) au moment de signer le présent Accord, déclarer que par cette signature il exprime son consentement à être lié par le présent Accord (signature définitive), ou
 - b) après avoir signé le présent Accord, le ratifier, l’accepter ou l’approuver par le dépôt d’un instrument à cet effet auprès du dépositaire.
 
-<sup>3.</sup> Lors de la signature et de la ratification, de l’acceptation ou l’approbation, de l’adhésion ou de l’application à titre provisoire, la Communauté européenne ou toute organisation intergouvernementale mentionnée au par. 1 de l’art. 5 dépose une déclaration émanant de l’autorité appropriée de ladite organisation dans laquelle sont précisées la nature et l’étendue de ses compétences sur les questions régies par le présent Accord, et elle informe le dépositaire de toute modification ultérieure substantielle de ses compétences. Lorsque l’organisation considérée déclare que toutes les questions régies par le présent Accord relèvent de sa compétence exclusive, les Etats qui en sont membres n’ont pas à agir selon les dispositions du par. 2 de l’art. 36, de l’art. 37 et de l’art. 38, ou prennent les dispositions prévues à l’art. 41 ou retirent la notification d’application à titre provisoire prévue à l’art. 38.
+<sup>3.</sup> Lors de la signature et de la ratification, de l’acceptation ou l’approbation, de l’adhésion ou de l’application à titre provisoire, la Communauté européenne ou toute organisation intergouvernementale mentionnée au par. 1 de l’art. 5 dépose une déclaration émanant de l’autorité appropriée de ladite organisation dans laquelle sont précisées la nature et l’étendue de ses compétences sur les questions régies par le présent Accord, et elle informe le dépositaire de toute modification ultérieure substantielle de ses compétences. Lorsque l’organisation considérée déclare que toutes les questions régies par le présent Accord relèvent de sa compétence exclusive, les États qui en sont membres n’ont pas à agir selon les dispositions du par. 2 de l’art. 36, de l’art. 37 et de l’art. 38, ou prennent les dispositions prévues à l’art. 41 ou retirent la notification d’application à titre provisoire prévue à l’art. 38.
 
 #### Art. 37
 
@@ -684,7 +684,7 @@ Si le Conseil conclut qu’un membre a manqué aux obligations que le présent A
 Le Conseil procède à la liquidation des comptes d’un membre qui cesse d’être partie au présent Accord en raison:
 
 - a) de la non‑acceptation d’un amendement à l’Accord en application de l’art. 40;
-- b) du retrait de l’Accord en application de l’art. 41; ou
+- b) du retrait de l’Accord en application de l’art. 41, ou
 - c) de l’exclusion de l’Accord en application de l’art. 42.
 
 <sup>2.</sup> Le Conseil garde toute quote‑part ou contribution versée par un membre qui cesse d’être partie au présent Accord aux comptes financiers créés en vertu de l’art. 18.
@@ -695,7 +695,7 @@ Le Conseil procède à la liquidation des comptes d’un membre qui cesse d’ê
 
 **Durée, prorogation et fin de l’Accord**
 
-<sup>1.</sup> Le présent Accord restera en vigueur pendant une période de 10 ans à compter de la date de son entrée en vigueur à moins que le Conseil ne décide, en procédant à un vote spécial conformément à l’art. 12, de le proroger, de le renégocier ou d’y mettre fin conformément aux dispositions du présent article.
+<sup>1.</sup> Le présent Accord restera en vigueur pendant une période de 10 ans à compter de la date de son entrée en vigueur à moins que le Conseil ne décide, en procédant à un vote spécial conformément à l’art. 12, de le proroger, de le renégocier ou d’y mettre fin conformément aux dispositions du présent article.[^44-1]
 
 <sup>2.</sup> Le Conseil peut, en procédant à un vote spécial conformément à l’art. 12, décider de proroger leprésent Accord pour deux périodes, une période initiale de cinq ans, puis une période additionnelle de trois ans.
 
@@ -708,6 +708,8 @@ Le Conseil procède à la liquidation des comptes d’un membre qui cesse d’ê
 <sup>6.</sup> Nonobstant la fin du présent Accord, le Conseil continue d’exister pendant une période ne dépassant pas 18 mois pour procéder à la liquidation de l’Organisation, y compris la liquidation des comptes et, sous réserve des décisions pertinentes à prendre par vote spécial conformément à l’art. 12, ilapendant ladite période les pouvoirs et fonctions qui peuvent lui être nécessaires à ces fins.
 
 <sup>7.</sup> Le Conseil notifie au dépositaire toute décision prise enapplication duprésent article.
+
+[^44-1]: Par Décision 4 (LVII), adoptée lors de sa cinquante-septième session le 3 déc. 2021, le Conseil international des bois tropicaux a décidé, conformément au deuxième paragraphe de l’art. 44, de proroger l’Accord jusqu’au 6 déc. 2026 ([RO 2022 31](https://fedlex.data.admin.ch/eli/oc/2022/31)).
 
 #### Art. 45
 
@@ -765,7 +767,7 @@ Annexe A
 <tr><td>Brésil\*</td><td>157</td></tr>
 <tr><td>Colombie\*</td><td>19</td></tr>
 <tr><td>Costa Rica</td><td>7</td></tr>
-<tr><td>Equateur\*</td><td>11</td></tr>
+<tr><td>Équateur\*</td><td>11</td></tr>
 <tr><td>Guatemala\*</td><td>8</td></tr>
 <tr><td>Guyana\*</td><td>12</td></tr>
 <tr><td>Haïti</td><td>7</td></tr>
@@ -819,9 +821,9 @@ Communauté européenne\*
 - Slovaquie
 - Suède\*
 
-Egypte\*
+Égypte\*
 
-Etats-Unis d’Amérique\*
+États-Unis d’Amérique\*
 
 Iran (République islamique d’)
 
@@ -850,7 +852,7 @@ Suisse\*
 Champ d’application le 25 janvier 2018**[^t-2]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>26 octobre</td><td>2011 Si</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Allemagne</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Australie</td><td>24 septembre</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
@@ -871,10 +873,10 @@ Champ d’application le 25 janvier 2018**[^t-2]**
 <tr><td>Côte d’Ivoire</td><td>31 octobre</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Croatie</td><td>28 avril</td><td>2015 A</td><td>28 avril</td><td>2015</td></tr>
 <tr><td>Danemark<sup>b</sup></td><td>18 novembre</td><td>2009 Si</td><td>7 décembre</td><td>2011</td></tr>
-<tr><td>Equateur</td><td>5 novembre</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
+<tr><td>Équateur</td><td>5 novembre</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Espagne</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Estonie</td><td>9 août</td><td>2011</td><td>7 décembre</td><td>2011</td></tr>
-<tr><td>Etats-Unis</td><td>27 avril</td><td>2007 Si</td><td>7 décembre</td><td>2011</td></tr>
+<tr><td>États-Unis</td><td>27 avril</td><td>2007 Si</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Fidji</td><td>23 avril</td><td>2010</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Finlande</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>France</td><td>7 avril</td><td>2010</td><td>7 décembre</td><td>2011</td></tr>
@@ -923,11 +925,11 @@ Champ d’application le 25 janvier 2018**[^t-2]**
 <tr><td>Trinité-et-Tobago</td><td>5 novembre</td><td>2012 A</td><td>5 janvier</td><td>2012</td></tr>
 <tr><td>Union européenne\*</td><td>28 mars</td><td>2012</td><td>28 mars</td><td>2012</td></tr>
 <tr><td>Vietnam</td><td>10 avril</td><td>2014 A</td><td>10 avril</td><td>2014</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="5"><sup>a</sup> L’accord ne s’applique pas à Hong Kong.</td></tr>
 <tr><td colspan="5"><sup>b</sup> L’accord ne s’applique pas aux îles Féroé et à Groënland.</td></tr>
 <tr><td colspan="5"><sup>c</sup> L’accord ne s’applique pas aux Tokélaou.</td></tr>
 <tr><td colspan="5"><sup>d</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85), [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296), [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734), [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85); [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296); [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734); [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty

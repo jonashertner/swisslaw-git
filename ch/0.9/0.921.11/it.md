@@ -3,11 +3,11 @@ sr: "0.921.11"
 title: Accordo internazionale del 2006 sui legni tropicali del 27 gennaio 2006 (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/85"
 language: it
-version: 2018-01-25
+version: 2021-12-07
 adopted: 2006-01-27
 in_force: 2011-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20180125/it/xml/fedlex-data-admin-ch-eli-cc-2012-85-20180125-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20180125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20211207/it/xml/fedlex-data-admin-ch-eli-cc-2012-85-20211207-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20211207/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2012** 551; FF **2007** 853
 
 Traduzione
 
-Concluso a Ginevra il 27 gennaio 2006
+Concluso a Ginevra il 27 gennaio 2006 Approvato dall’Assemblea federale il 12 marzo 2007[^t-1] Ratificato dalla Svizzera con strumento depositato il 27 aprile 2007 Entrato in vigore per la Svizzera il 7 dicembre 2011
 
-Approvato dall’Assemblea federale il 12 marzo 2007[^t-1]
-
-Ratificato dalla Svizzera con strumento depositato il 27 aprile 2007
-
-Entrato in vigore per la Svizzera il 7 dicembre 2011
-
-(Stato 25 gennaio 2018)
+(Stato 7 dicembre 2021)
 
 [^t-1]: [RU 2012 549](https://fedlex.data.admin.ch/eli/oc/2012/84)
 
@@ -695,9 +689,9 @@ Il Consiglio provvede alla liquidazione dei conti di un membro che cessi di far 
 
 **Durata, proroga e risoluzione**
 
-<sup>1.</sup> Il presente accordo resta in vigore per un periodo di dieci anni a decorrere dalla data dell’entrata in vigore, a meno che il Consiglio non decida, con voto speciale in conformità dell’articolo 12, di prorogarlo, di rinegoziarlo o di risolverlo in conformità delle disposizioni del presente articolo.
+<sup>1.</sup> Il presente accordo resta in vigore per un periodo di dieci anni a decorrere dalla data dell’entrata in vigore[^44-1], a meno che il Consiglio non decida, con voto speciale in conformità dell’articolo 12, di prorogarlo, di rinegoziarlo o di risolverlo in conformità delle disposizioni del presente articolo.
 
-<sup>2.</sup> Il Consiglio può decidere, con voto speciale in conformità dell’articolo 12, di prorogare il presente accordo per due periodi, di cui un periodo iniziale di cinque anni e un periodo aggiuntivo di tre anni.
+<sup>2.</sup> Il Consiglio può decidere, con voto speciale in conformità dell’articolo 12, di prorogare il presente accordo per due periodi, di cui un periodo iniziale di cinque anni e un periodo aggiuntivo di tre anni
 
 <sup>3.</sup> Se, prima della scadenza del periodo di dieci anni di cui al paragrafo 1 o prima della scadenza del periodo di proroga di cui al paragrafo 2, a seconda dei casi, un nuovo accordo, inteso a sostituire il presente accordo, è stato negoziato ma non è ancora entrato in vigore a titolo provvisorio o definitivo, il Consiglio può, con voto speciale in conformità dell’articolo 12, prorogare il presente accordo fino all’entrata in vigore a titolo provvisorio o definitivo del nuovo accordo.
 
@@ -708,6 +702,8 @@ Il Consiglio provvede alla liquidazione dei conti di un membro che cessi di far 
 <sup>6.</sup> Nonostante la risoluzione del presente accordo, il Consiglio continua ad esistere per un periodo non superiore a 18 mesi al fine di procedere alla liquidazione dell’Organizzazione, compresa la liquidazione dei conti e, fatte salve le decisioni pertinenti da prendere con voto speciale in conformità dell’articolo 12, il Consiglio conserva, durante detto periodo, i poteri e le funzioni necessari allo scopo.
 
 <sup>7.</sup> Il Consiglio notifica al depositario qualsiasi decisione presa a norma del presente articolo.
+
+[^44-1]: Con Dec. 4 (LVII), adottata il 3 dic. 2021 in occasione della sua cinquantasettesima sessione, il Consiglio internazionale dei legni tropicali ha deciso, in applicazione del para. 2, di prorogare l’Acc. fino al 6 dic. 2026 ([RU 2022 31](https://fedlex.data.admin.ch/eli/oc/2022/31)).
 
 #### Art. 45
 
