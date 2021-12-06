@@ -3,20 +3,20 @@ canton: AR
 number: "113.6"
 title: Covid-19-Verordnung über kantonale Schutzmassnahmen
 language: de
-version: 2021-12-03
-valid_until: 2021-12-06
-version_adopted: 2021-11-30
+version: 2021-12-07
+valid_until: 2021-12-20
+version_adopted: 2021-12-07
 adopted: 2021-11-30
 in_force: 2021-12-03
 url: "https://ar.clex.ch/app/de/texts_of_law/113.6"
-pdf: "https://ar.clex.ch/api/de/versions/1375/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1376/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Covid-19-Verordnung über kantonale Schutzmassnahmen
 
-vom 30.11.2021 (Stand 03.12.2021)
+vom 30.11.2021 (Stand 07.12.2021)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -40,19 +40,21 @@ verordnet:
 
 **Maskenpflicht an Veranstaltungen**
 
-<sup>1</sup> Jede Person muss während einer Veranstaltung, an Märkten sowie an Fach- und Publikumsmessen eine Gesichtsmaske tragen, unabhängig davon, ob der Zugang auf Personen mit einem Zertifikat beschränkt ist.
+<sup>1</sup> Jede Person muss an Veranstaltungen, an Märkten sowie an Fach- und Publikumsmessen eine Gesichtsmaske tragen, unabhängig davon, ob der Zugang auf Personen mit einem Zertifikat[^2-1] (3G) beschränkt ist. Wird der Zugang auf Personen mit einem Impf- oder Genesungszertifikat[^2-2] (2G) beschränkt, kann auf die Maskenpflicht verzichtet werden.
 
 <sup>2</sup> Von der Pflicht nach Abs. 1 sind ausgenommen:
 
 - a) Kinder vor ihrem 12. Geburtstag;
 - b) Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können;
 - c) auftretende Personen, namentlich Rednerinnen und Redner;
-- d) Personen, die sportliche oder kulturelle Aktivitäten gemäss Art. 20 Covid-19-Verordnung besondere Lage[^2-1] ausüben;
+- d) Personen, die sportliche oder kulturelle Aktivitäten gemäss Art. 20 Covid-19-Verordnung besondere Lage[^2-3] ausüben;
 - e) Gäste, während der Konsumation von Speisen und Getränken;
 - f) Mitarbeitende ohne Kontakt zu Gästen oder Besucherinnen und Besuchern;
 - g) Personen an privaten Veranstaltungen.
 
-[^2-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
+[^2-1]: Art. 3 Covid-19-Verordnung besondere Lage ([818.101.26](https://db.clex.ch/link/Bund/818.101.26/de))
+[^2-2]: Art. 3a Covid-19-Verordnung besondere Lage ([818.101.26](https://db.clex.ch/link/Bund/818.101.26/de))
+[^2-3]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
 
 #### Art. 3
 
