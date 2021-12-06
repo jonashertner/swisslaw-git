@@ -3,20 +3,19 @@ canton: FR
 number: "821.0.51"
 title: "Ordonnance concernant la mise en service d'équipements techniques lourds et d'autres équipements de médecine de pointe"
 language: fr
-version: 2018-01-01
-valid_until: 2021-12-06
-version_adopted: 2017-12-11
+version: 2021-12-07
+version_adopted: 2021-12-07
 adopted: 2016-03-14
 in_force: 2016-03-14
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.0.51"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5476/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7009/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la mise en service d'équipements techniques lourds et d'autres équipements de médecine de pointe
 
-du 14.03.2016 (version entrée en vigueur le 01.01.2018)
+du 14.03.2016 (version entrée en vigueur le 07.12.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -61,14 +60,12 @@ Arrête:
 
 <sup>2</sup> Demeure réservé le remplacement d'un équipement autorisé par un appareil du même genre.
 
-<sup>3</sup> Demeure en outre réservée l'autorisation d'un équipement dont la mise en service est indispensable à la prise en charge en urgence de la population.
+<sup>3</sup> Demeure en outre réservée l'autorisation d'un équipement dont la mise en service répond à un intérêt public prépondérant, notamment pour la recherche ou la prise en charge en urgence de la population.
 
 #### Art. 5
 
-**Entrée en vigueur et durée de validité**
+**Durée de validité**
 
-<sup>1</sup> La présente ordonnance entre en vigueur immédiatement et porte effet jusqu'au 31 décembre 2017.[^5-1]
-
-[^5-1]: Prorogé jusqu'au 31.12.2021 par ordonnance du 11.12.2017 (ROF 2017\_112).
+<sup>1</sup> La présente ordonnance porte effet jusqu'au 31 décembre 2026.
 
 2016\_040

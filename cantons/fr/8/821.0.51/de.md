@@ -3,20 +3,19 @@ canton: FR
 number: "821.0.51"
 title: Verordnung über die Inbetriebnahme schwerer technischer und anderer spitzenmedizinischer Ausrüstungen
 language: de
-version: 2018-01-01
-valid_until: 2021-12-06
-version_adopted: 2017-12-11
+version: 2021-12-07
+version_adopted: 2021-12-07
 adopted: 2016-03-14
 in_force: 2016-03-14
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.0.51"
-pdf: "https://bdlf.fr.ch/api/de/versions/5476/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7009/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Inbetriebnahme schwerer technischer und anderer spitzenmedizinischer Ausrüstungen
 
-vom 14.03.2016 (Fassung in Kraft getreten am 01.01.2018)
+vom 14.03.2016 (Fassung in Kraft getreten am 07.12.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -61,14 +60,12 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleibt der Ersatz einer bewilligten Ausrüstung durch eine gleichartige Anlage.
 
-<sup>3</sup> Vorbehalten bleibt des Weiteren die Bewilligung von Ausrüstungen, die für die Notfallversorgung der Bevölkerung unerlässlich sind.
+<sup>3</sup> Vorbehalten bleibt des Weiteren die Bewilligung von Ausrüstungen im überwiegenden öffentlichen Interesse, namentlich für die Forschung und für die Notfallversorgung der Bevölkerung.
 
 #### Art. 5
 
-**Inkrafttreten und Geltungsdauer**
+**Geltungsdauer**
 
-<sup>1</sup> Diese Verordnung tritt sofort in Kraft und gilt bis 31. Dezember 2017.[^5-1]
-
-[^5-1]: Verlängert bis 31.12.2021 durch Verordnung vom 11.12.2017 (ASF 2017\_112).
+<sup>1</sup> Diese Verordnung gilt bis 31. Dezember 2026.
 
 2016\_040
