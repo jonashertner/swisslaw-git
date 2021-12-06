@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "CO (droit du bail): mise en œuvre des initiatives parlementaires relatives au droit du bail"
 document: Projet mis en consultation 1
 language: fr

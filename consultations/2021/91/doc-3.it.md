@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "CO (diritto di locazione): attuazione delle iniziative parlamentari sul diritto di locazione"
 document: Progetto posto in consultazione 1
 language: it

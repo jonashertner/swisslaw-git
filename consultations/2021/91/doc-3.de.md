@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "OR (Mietrecht): Umsetzung von vier parlamentarischen Initiativen zum Mietrecht"
 document: Vernehmlassungsvorlage 1
 language: de
