@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-12-06
+version: 2021-12-08
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211206/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211206-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211206/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211208/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211208-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211206/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 6. Dezember 2021)
+vom 4. Juni 2021 (Stand am 8. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -863,7 +863,7 @@ Anhang 5*[^t-5]*
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-5]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) und Ziff. I der V des EDI vom 22. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) und vom 29. Nov. 2021, in Kraft seit 30. Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
+[^t-5]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. I der V des EDI vom 22. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), vom 29. Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)) und vom 7. Dez. 2021, in Kraft seit 8. Dez. 2021 ([AS 2021 816](https://fedlex.data.admin.ch/eli/oc/2021/816)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -887,6 +887,7 @@ Anhang 5*[^t-5]*
   - – Albanien
   - – Andorra
   - – Armenien
+  - – El Salvador
   - – Färöer-Inseln
   - – Georgien
   - – Heiliger Stuhl

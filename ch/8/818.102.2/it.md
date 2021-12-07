@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-12-06
+version: 2021-12-08
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211206/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211206-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211206/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211208/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211208-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211208/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211206/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 6 dicembre 2021) (Stato 6 dicembre 2021)
+del 4 giugno 2021 (Stato 8 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -870,7 +870,7 @@ Allegato 5*[^t-5]*
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-5]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II dell’O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), dal n. I delle O del DFI del 22 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) e del 29 nov. 2021, in vigore dal 30 nov. 2021 ([RU 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
+[^t-5]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II dell’O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), dai n. I delle O del DFI del 22 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), del 29 nov. 2021 ([RU 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)) e del 7 dic. 2021, in vigore dall’8 dic. 2021 ([RU 2021 816](https://fedlex.data.admin.ch/eli/oc/2021/816)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
@@ -894,6 +894,7 @@ Allegato 5*[^t-5]*
   - – Albania
   - – Andorra
   - – Armenia
+  - – El Salvador
   - – Georgia
   - – Isole Färöer
   - – Israele
