@@ -3,20 +3,20 @@ canton: SG
 number: "313.2"
 title: Vollzugsverordnung zu den eidgenössischen Covid-19-Verordnungen besondere Lage und internationaler Personenverkehr
 language: de
-version: 2021-12-02
-valid_until: 2021-12-07
-version_adopted: 2021-11-30
+version: 2021-12-08
+valid_until: 2022-02-16
+version_adopted: 2021-12-07
 adopted: 2021-06-29
 in_force: 2021-06-30
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/313.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3294/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3297/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zu den eidgenössischen Covid-19-Verordnungen besondere Lage und internationaler Personenverkehr
 
-vom 29.06.2021 (Stand 02.12.2021)
+vom 29.06.2021 (Stand 08.12.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -146,10 +146,10 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> In Ergänzung zur Zertifikatspflicht nach der Covid-19-Verordnung besondere Lage benötigen Personen über 16 Jahren ein Zertifikat:
 
-- a) für den Besuch in einem Spital (Akutspital, psychiatrische Klinik, Reha-Klinik) oder einem Betagten- und Pflegeheim;
-- b) für den Zugang zum Aussenbereich eines Restaurations-, Bar- und Clubbetriebs nach Art. 12 Abs. 1 der Covid-19-Verordnung besondere Lage, wenn der Aussenbereich im Rahmen einer Veranstaltung, eines Markts oder einer Fach- und Publikumsmesse betrieben wird. Ausgenommen sind Takeaway-Betriebe, bei denen die Konsumation nicht vor Ort erfolgt.
+- a) für den Besuch in einem Spital (Akutspital, psychiatrische Klinik, Reha-Klinik), einem Betagten- und Pflegeheim oder einer Einrichtung für Menschen mit Behinderung;
+- b) für den Zugang zum Aussenbereich eines Restaurations-, Bar- und Clubbetriebs, wenn der Aussenbereich im Rahmen eines Markts oder einer Fach- und Publikumsmesse betrieben wird. Ausgenommen sind Takeaway-Betriebe, bei denen die Konsumation nicht vor Ort erfolgt.
 
-<sup>2</sup> Als Zertifikat gelten Zertifikate nach Art. 3 Abs. 1 der Covid-19-Verordnung besondere Lage.
+<sup>2</sup> Als Zertifikat gelten Zertifikate nach Art. 3 Abs. 1 der Covid-19-Verordnung besondere Lage. Der Betrieb oder die Einrichtung nach Abs. 1 dieser Bestimmung kann von Besucherinnen und Besuchern sowie Gästen ein Impf- oder Genesungszertifikat nach Art. 3a der Covid-19-Verordnung besondere Lage verlangen.
 
 #### Art. 10
 
@@ -159,18 +159,21 @@ als Verordnung:[^ingress-3]
 
 - a) für Mitarbeitende sowie Besucherinnen und Besucher von Betagten- und Pflegeheimen sowie von Einrichtungen für Menschen mit Behinderung;
 - b) für Mitarbeitende von Organisationen zur Hilfe und Pflege zu Hause, während ihres Einsatzes bei der unterstützten Person;
-- c) in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben, wenn der Zugang auf Personen mit einem Zertifikat beschränkt ist. Ausgenommen sind Bildungseinrichtungen nach Art. 2 Abs. 2 und Art. 19a der Covid-19-Verordnung besondere Lage;
+- c) …
 - d) in Warte- und Zugangsbereichen des öffentlichen Verkehrs, soweit die Maskentragpflicht nicht schon aus Art. 5 Abs. 1 oder Art. 6 Abs. 1 der Covid-19-Verordnung besondere Lage folgt;
-- e) an Veranstaltungen, Märkten sowie an Fach- und Publikumsmessen, soweit die Maskentragpflicht nicht schon aus Art. 6 der Covid-19-Verordnung besondere Lage folgt.
+- e) an Veranstaltungen, Märkten sowie an Fach- und Publikumsmessen, soweit die Maskentragpflicht nicht schon aus Art. 6 der Covid-19-Verordnung besondere Lage folgt;
+- f) für Gäste in Aussenbereichen von Restaurations-, Bar- und Clubbetrieben, wenn sie nicht am Tisch sitzen.
 
 <sup>2</sup> …
 
 <sup>2<sup>bis</sup></sup> Von der Maskentragpflicht nach Abs. 1 dieser Bestimmung ausgenommen sind:
 
-- a) Personen nach Art. 6 Abs. 2 bis 6 der Covid-19-Verordnung besondere Lage mit Ausnahme der Personen nach Art. 6 Abs. 2 Bst. g Covid-19-Verordnung besondere Lage;
-- b) Gäste von Restaurations-, Bar- und Clubbetrieben, wenn sie an ihrem Tisch sitzen;
-- c) Mitarbeitende ohne Kontakt zu Gästen oder Besucherinnen und Besuchern, in den Fällen nach Abs. 1 Bst. c bis e dieser Bestimmung;
-- d) Personen an privaten Veranstaltungen mit höchstens 30 Personen, die in Innenräumen von nicht öffentlich zugänglichen Einrichtungen und Betrieben stattfinden.
+- a) Personen nach Art. 6 Abs. 2 bis 6 der Covid-19-Verordnung besondere Lage;
+- b) …
+- c) …
+- d) Personen an privaten Veranstaltungen:
+  - 1\. mit höchstens 30 Personen, die in Innenräumen von nicht öffentlich zugänglichen Einrichtungen und Betrieben stattfinden;
+  - 2\. mit höchstens 50 Personen, die im Freien, aber nicht in öffentlich zugänglichen Einrichtungen und Betrieben stattfinden.
 
 <sup>3</sup> …
 
