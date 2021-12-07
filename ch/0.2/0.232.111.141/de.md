@@ -3,11 +3,11 @@ sr: "0.232.111.141"
 title: Gemeinsame Ausführungsordnung vom 2. Oktober 2018 zum Lissabonner Abkommen über den Schutz der Ursprungsbezeichnungen und ihre internationale Registrierung und zur Genfer Akte des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/744"
 language: de
-version: 2021-12-01
+version: 2021-12-08
 adopted: 2018-10-02
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2021-744-20211201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20211208/de/xml/fedlex-data-admin-ch-eli-cc-2021-744-20211208-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20211208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,15 +20,17 @@ AS **2021** 744
 
 Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kraft getreten für die Schweiz am 1. Dezember 2021
 
-(Stand am 1. Dezember 2021)
+(Stand am 8. Dezember 2021)
 
 ## Kapitel I: Einleitende und allgemeine Bestimmungen
 
-### **Regel** **1**Begriffsbestimmungen
+#### Regel 1
+
+**Begriffsbestimmungen**
 
 \1. Im Sinne dieser Akte gelten, sofern nicht ausdrücklich anders festgelegt, folgende Begriffsbestimmungen:
 
-- i) «Genfer Akte» bedeutet die Genfer Akte des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben vom 20. Mai 2015[^chapI-lvlu1-1];
+- i) «Genfer Akte» bedeutet die Genfer Akte des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben vom 20. Mai 2015[^1-1];
 - ii) Die in dieser Ausführungsordnung verwendeten und in Artikel 1 sowie Artikel 2 Absatz 1 der Genfer Akte definierten Abkürzungen haben dieselbe Bedeutung wie in dieser Akte.
 - iii) Ist anstelle der Akte von 1967 das Lissabonner Abkommen über den Schutz und die internationale Registrierung von Ursprungsbezeichnungen vom 31. Oktober 1958 anwendbar, so ist jede Erwähnung der Akte von 1967 als Verweis auf das Lissabonner Abkommen vom 31. Oktober 1958 zu verstehen.
 - iv) Der Begriff «Regel» bezeichnet eine Regel dieser Ausführungsordnung.
@@ -45,17 +47,31 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 - ii) beinhaltet der Ausdruck «Ursprungsvertragspartei» gegebenenfalls den in der Akte von 1967 verwendeten Ausdruck «Ursprungsland»;
 - iii) beinhaltet der Ausdruck «Veröffentlichung» in Regel 19 gegebenenfalls eine Veröffentlichung in der regelmässig erscheinenden Sammlung gemäss Artikel 5 Absatz 2 der Akte von 1967, ungeachtet des für die Veröffentlichung benutzten Mediums.
 
-[^chapI-lvlu1-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+[^1-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
 
-### **Regel 2**Berechnung der Fristen
+#### Regel 2
 
-\1. Jede nach Jahren bemessene Frist endet im folgenden Jahr am selben Tag desselben Monats wie das Ereignis, an dem die Frist begann; hat sich das Ereignis jedoch am 29. Februar zugetragen, so endet die Frist am 28. Februar des folgenden Jahres.
+**Berechnung der Fristen**
 
-\2. Jede nach Monaten bemessene Frist endet im folgenden Monat am selben Tag wie der Tag des Ereignisses, an dem die Frist begann; hat der massgebliche folgende Monat jedoch keinen Tag mit der entsprechenden Zahl, so endet die Frist am letzten Tag des betreffenden Monats.
+<sup>1.</sup> Jede nach Jahren bemessene Frist endet im folgenden Jahr am selben Tag desselben Monats wie das Ereignis, an dem die Frist begann; hat sich das Ereignis jedoch am 29. Februar zugetragen, so endet die Frist am 28. Februar des folgenden Jahres.
+
+<sup>2.</sup> Jede nach Monaten bemessene Frist endet im folgenden Monat am selben Tag wie der Tag des Ereignisses, an dem die Frist begann; hat der massgebliche folgende Monat jedoch keinen Tag mit der entsprechenden Zahl, so endet die Frist am letzten Tag des betreffenden Monats.
 
 \3. Endet eine für das Internationale Büro oder eine zuständige Behörde gültige Frist an einem Tag, der für das Internationale Büro oder eine zuständige Behörde kein Arbeitstag ist, so endet diese Frist ungeachtet der Absätze 1 und 2 für das Internationale Büro oder die zuständige Behörde je nach Fall am ersten folgenden Arbeitstag.
 
-### **Regel 3**Arbeitssprachen
+#### Regel 2<sup>bis</sup>
+
+**Entschuldigung von Fristüberschreitungen**[^2bis-1]
+
+<sup>1.</sup> Versäumt eine zuständige Behörde oder – im Falle von Artikel 5 Absatz 3 der Genfer Akte – die Begünstigten bzw. eine natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte die in dieser Ausführungsordnung vorgesehene Frist für die Vornahme einer Handlung, die an das Internationale Büro gerichtet ist, so wird dies entschuldigt, wenn die zuständige Behörde oder – im Falle von Artikel 5 Absatz 3 der Genfer Akte – die Begünstigten bzw. die natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte dem Internationalen Büro überzeugend nachweist, dass die Fristversäumnis durch einen Krieg, eine Revolution, eine Störung der öffentlichen Ordnung, einen Streik, eine Naturkatastrophe, eine Störung der Postdienste, des Postversands oder der elektronischen Kommunikation infolge von Umständen, auf die die zuständige Behörde oder – im Falle von Artikel 5 Absatz 3 der Genfer Akte – die Begünstigten bzw. eine natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte keinen Einfluss hat, oder aus einem anderen Grund höherer Gewalt.
+
+<sup>2.</sup> Ein Fristversäumnis wird aufgrund dieser Regel nur entschuldigt, wenn der Nachweis nach Absatz 1) so bald als vernunftgemäss möglich und spätestens sechs Monate nach Ablauf der anwendbaren Frist beim Internationalen Büro eingeht beziehungsweise die entsprechende Handlung vorgenommen wird.
+
+[^2bis-1]: Eingefügt durch Beschluss der Versammlung des Lissabonner Verbands vom 8. Dez. 2021, in Kraft seit 8. Dez. 2021 ([AS 2026 328](https://fedlex.data.admin.ch/eli/oc/2026/328)).
+
+#### Regel 3
+
+**Arbeitssprachen**
 
 \1. Das Gesuch ist in englischer, französischer oder spanischer Sprache abzufassen.
 
@@ -67,7 +83,9 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 
 \5. Enthält ein durch die Akte von 1967 geregeltes Gesuch eine oder mehrere Übersetzungen der Ursprungsbezeichnung gemäss Regel 5 Absatz 6 Ziffer v, so überprüft das Internationale Büro nicht deren Richtigkeit.
 
-### **Regel 4**Zuständige Behörde
+#### Regel 4
+
+**Zuständige Behörde**
 
 \1. Jede Vertragspartei teilt dem Internationalen Büro den Namen und die Kontaktdaten ihrer zuständigen Behörde, d.h. der von ihr für die Einreichung der Gesuche und der übrigen Mitteilungen beim Internationalen Büro sowie den Empfang der Mitteilungen des Internationalen Büros bezeichneten Behörde, mit.
 
@@ -79,9 +97,13 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 
 ## Kapitel II: Gesuch und internationale Registrierung
 
-### **Regel 5**Erfordernisse bezüglich des Gesuchs
+#### Regel 5
 
-\1. Das internationale Gesuch ist beim Internationalen Büro auf dem entsprechenden amtlichen Formblatt einzureichen und von der einreichenden zuständigen Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte zu unterzeichnen.
+**Erfordernisse bezüglich des Gesuchs**
+
+<sup>1.</sup> Das internationale Gesuch ist beim Internationalen Büro auf dem entsprechenden amtlichen Formblatt einzureichen und von der einreichenden zuständigen Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte zu unterzeichnen.
+
+\5. In dem durch die Genfer Akte geregelten Gesuch ist anzugeben, ob nach Kenntnis des Anmeldenden der gesetzliche oder ordnungspolitische Erlass oder der gerichtliche oder verwaltungsrechtliche Entscheid, gemäss dem der Schutz für die Ursprungsbezeichnung oder die geografische Angabe in der Ursprungsvertragspartei gewährt wird, klarstellt, dass für bestimmte Bestandteile der Ursprungsbezeichnung oder der geografischen Angabe kein Schutz gewährt wird. Diese Bestandteile sind im Gesuch in einer Arbeitssprache und in der oder den Amtssprachen der Ursprungsvertragspartei gemäss Absatz 2 Buchstabe a Ziffer iv mit einer Transliteration gemäss Absatz 2 Buchstabe b anzugeben.
 
 - 2\. a)
 
@@ -90,7 +112,7 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
   - i) die Ursprungsvertragspartei;
   - ii) die zuständige Behörde, die das Gesuch einreicht, oder im Fall von Artikel 5 Absatz 3 der Genfer Akte die Kontaktdaten der Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte;
   - iii) die gemeinsam oder, wenn eine gemeinsame Bezeichnung nicht möglich ist, namentlich bezeichneten Begünstigten oder im Fall eines durch die Genfer Akte geregelten Gesuchs die natürliche oder juristische Person, die nach dem Recht der Ursprungsvertragspartei befugt ist, die Rechte der Begünstigten oder sonstige Rechte im Zusammenhang mit der Ursprungsbezeichnung oder der geografischen Angabe geltend zu machen;
-  - iv) die Ursprungsbezeichnung oder die geografische Angabe, für die die Registrierung erwirkt werden soll, in der Amtssprache der Ursprungsvertragspartei oder, wenn die Ursprungsvertragspartei mehrere Amtssprachen hat, in der oder den Amtssprachen, in denen die Ursprungsbezeichnung oder die geografische Angabe in der Registrierung, der Urkunde oder dem Entscheid, gemäss dem der Schutz in der Ursprungsvertragspartei gewährt wird, angegeben ist[^chapII-lvlu1-1];
+  - iv) die Ursprungsbezeichnung oder die geografische Angabe, für die die Registrierung erwirkt werden soll, in der Amtssprache der Ursprungsvertragspartei oder, wenn die Ursprungsvertragspartei mehrere Amtssprachen hat, in der oder den Amtssprachen, in denen die Ursprungsbezeichnung oder die geografische Angabe in der Registrierung, der Urkunde oder dem Entscheid, gemäss dem der Schutz in der Ursprungsvertragspartei gewährt wird, angegeben ist[^5-1];
   - v) die Ware oder die Waren, auf die sich die Ursprungsbezeichnung oder die geografische Angabe bezieht, so genau wie möglich;
   - vi) das geografische Produktionsgebiet oder das geografische Ursprungsgebiet der Ware oder der Waren;
   - vii) die Angaben zur Identifizierung der Registrierung einschliesslich ihres Datums und gegebenenfalls ihrer Nummer, des gesetzlichen oder ordnungspolitischen Erlasses oder des gerichtlichen oder verwaltungsrechtlichen Entscheids, gemäss dem der Schutz für die Ursprungsbezeichnung oder die geografische Angabe in der Ursprungsvertragspartei gewährt wird.
@@ -103,8 +125,6 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 - 4\. a) Sofern eine Vertragspartei der Genfer Akte für den Schutz einer eingetragenen Ursprungsbezeichnung oder einer eingetragenen geografischen Angabe verlangt, dass das durch die Genfer Akte geregelte Gesuch von einer Person unterzeichnet sein muss, die befugt ist, die durch diesen Schutz gewähren Rechte geltend zu machen, hat sie diese Anforderung dem Generaldirektor mitzuteilen.
 - b) Sofern eine Vertragspartei für den Schutz einer eingetragenen Ursprungsbezeichnung oder einer eingetragenen geografischen Angabe verlangt, dass das durch die Genfer Akte geregelte Gesuch zusammen mit einer Erklärung über die beabsichtigte Benutzung der in ihrem Gebiet eingetragenen Ursprungsbezeichnung oder geografischen Angabe oder zusammen mit einer Erklärung über die beabsichtigte Ausübung einer Kontrolle über die Benutzung der in ihrem Gebiet eingetragenen Ursprungsbezeichnung oder geografischen Angabe durch andere eingereicht wird, hat sie diese Anforderung dem Generaldirektor mitzuteilen
 - c) Die Nichtunterzeichnung von durch die Genfer Akte geregelten Gesuchen gemäss Buchstabe a oder die Nichteinreichung einer Erklärung gemäss Buchstabe b führt vorbehaltlich der Regel 6 zur Verweigerung des Schutzes in Bezug auf die Vertragspartei, die diese Unterzeichnung oder Erklärung verlangt und dies gemäss Buchstabe a oder b mitgeteilt hat.
-
-\5. In dem durch die Genfer Akte geregelten Gesuch ist anzugeben, ob nach Kenntnis des Anmeldenden der gesetzliche oder ordnungspolitische Erlass oder der gerichtliche oder verwaltungsrechtliche Entscheid, gemäss dem der Schutz für die Ursprungsbezeichnung oder die geografische Angabe in der Ursprungsvertragspartei gewährt wird, klarstellt, dass für bestimmte Bestandteile der Ursprungsbezeichnung oder der geografischen Angabe kein Schutz gewährt wird. Diese Bestandteile sind im Gesuch in einer Arbeitssprache und in der oder den Amtssprachen der Ursprungsvertragspartei gemäss Absatz 2 Buchstabe a Ziffer iv mit einer Transliteration gemäss Absatz 2 Buchstabe b anzugeben.
 
 - 6\. a)
 
@@ -119,9 +139,13 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 
 - b) Ungeachtet von Regel 3 Absatz 3 werden die in Buchstabe a Ziffern i und vi genannten Angaben vom Internationalen Büro nicht übersetzt.
 
-[^chapII-lvlu1-1]: Die Anwendung von Regel 5 Absatz 2 Buchstabe a Ziffer iv und von Regel 5 Absatz 2 Buchstabe b untersteht den Bestimmungen von Regel 3 Absatz 3 und 4.
+[^5-1]: Die Anwendung von Regel 5 Absatz 2 Buchstabe a Ziffer iv und von Regel 5 Absatz 2 Buchstabe b untersteht den Bestimmungen von Regel 3 Absatz 3 und 4.
 
-### **Regel 6**Nicht vorschriftsmässige Gesuche
+#### Regel 6
+
+**Nicht vorschriftsmässige Gesuche**
+
+\2. Wird das Gesuch nicht von der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte eingereicht, so wird es vom Internationalen Büro nicht als solches betrachtet und an den Absender zurückgesandt.
 
 - 1\. a) Stellt das Internationale Büro vorbehaltlich Absatz 2 fest, dass das Gesuch die Erfordernisse von Regel 3 Absatz 1 oder Regel 5 nicht erfüllt, so setzt es die Registrierung aus und fordert die zuständige Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte die Begünstigten bzw. die natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte auf, den festgestellten Mangel innerhalb von drei Monaten ab dem Datum, an dem diese Aufforderung übersandt wurde, zu beheben.
 - b) Wird der festgestellte Mangel nicht innerhalb von zwei Monaten ab dem Datum der in Buchstabe a genannten Aufforderung behoben, so übersendet das Internationale Büro eine Mitteilung, in der an seine Aufforderung erinnert wird. Die in Buchstabe a genannte Frist von drei Monaten bleibt von der Übersendung einer solchen Mitteilung unberührt.
@@ -129,9 +153,9 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 - d) Im Fall eines Mangels in Bezug auf ein Erfordernis, das auf der Grundlage einer gemäss Regel 5 Absatz 3 oder 4 erfolgten Mitteilung oder einer gemäss Artikel 7 Absatz 4 der Genfer Akte abgegebenen Erklärung basiert, wird davon ausgegangen, dass in der Vertragspartei, die die Mitteilung eingereicht oder die Erklärung abgegeben hat, auf den Schutz aus der internationalen Registrierung verzichtet wird, falls die Behebung des Mangels nicht innerhalb der in Buchstabe a genannten Frist von drei Monaten beim Internationalen Büro eingeht.
 - e) Wird das Gesuch gemäss Buchstabe c zurückgewiesen, erstattet das Internationale Büro die für dieses Gesuch entrichteten Gebühren nach Abzug eines Betrags in Höhe der halben in Regel 8 genannten Registrierungsgebühr zurück.
 
-\2. Wird das Gesuch nicht von der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte eingereicht, so wird es vom Internationalen Büro nicht als solches betrachtet und an den Absender zurückgesandt.
+#### Regel 7
 
-### **Regel 7**Eintragung in das internationale Register
+**Eintragung in das internationale Register**
 
 - 1\. a) Stellt das Internationale Büro fest, dass das Gesuch die Erfordernisse von Regel 3 Absatz 1 und Regel 5 erfüllt, trägt es die Ursprungsbezeichnung oder die geografische Angabe in das internationale Register ein.
 - b) Das Internationale Büro gibt für jede Vertragspartei an, ob die internationale Registrierung durch die Genfer Akte oder das Lissabonner Abkommen vom 31. Oktober 1958 oder die Akte von 1967 geregelt ist.
@@ -143,7 +167,9 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 - iii) die Nummer der internationalen Registrierung;
 - iv) das Datum der internationalen Registrierung.
 
-\3. Das Internationale Büro:
+<sup>3.</sup>
+
+Das Internationale Büro:
 
 - i) übersendet der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii, die die Registrierung beantragt haben, eine Bescheinigung über die internationale Registrierung; und
 - ii) teilt die internationale Registrierung der zuständigen Behörde jeder Vertragspartei mit.
@@ -152,7 +178,13 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 - c) Ist Buchstabe b nicht anwendbar, so hat jede Vertragspartei der Genfer Akte und der Akte von 1967 beim Eingang der Mitteilung gemäss Buchstabe a die betreffende Ursprungsbezeichnung ausser im Fall einer gegenteiligen Angabe der Vertragspartei innerhalb der in Artikel 5 Absatz 3 der Akte von 1967 und der in Artikel 15 Absatz 1 der Genfer Akte genannten Frist auch gemäss der Genfer Akte für die restliche Dauer ihrer Gültigkeit weiter zu schützen. Jede gemäss Artikel 5 Absatz 6 der Akte von 1967 gewährte, zum Zeitpunkt des Eingangs der Mitteilung gemäss Buchstabe a noch gültige Frist wird für die restliche Dauer ihrer Gültigkeit durch die Bestimmungen von Artikel 17 der Genfer Akte geregelt.
 - d) Die zuständige Behörde einer Partei, die Vertragspartei der Genfer Akte, jedoch nicht der Akte von 1967 ist und bei der eine Mitteilung gemäss Buchstabe a eingegangen ist, kann gemäss Artikel 15 der Genfer Akte dem Internationalen Büro die Verweigerung der Wirksamkeit irgendeiner dieser internationalen Registrierungen in ihrem Gebiet mitteilen. Die Verweigerung ist über diese zuständige Behörde innerhalb der in Regel 9 Absatz 1 Buchstabe b und c genannten Frist dem Internationalen Büro zu übersenden. Regel 6 Absatz 1 Buchstabe d und die Regeln 9–12 sind sinngemäss anzuwenden.
 
-### **Regel 7**<sup>bis</sup>Datum der internationalen Registrierung gemäss der Akte von 1967 und Datum ihrer Wirksamkeit
+#### Regel 7<sup>bis</sup>
+
+**Datum der internationalen Registrierung gemäss der Akte von 1967 und Datum ihrer Wirksamkeit**
+
+ist das Datum der internationalen Registrierung das Datum, an dem die letzte der fehlenden Angaben beim Internationalen Büro eingeht.
+
+\3. Nach der Ratifikation der Genfer Akte oder dem Beitritt zur Genfer Akte durch eine Ursprungsvertragspartei, die Partei der Akte von 1967 ist, ist eine Ursprungsbezeichnung, die Gegenstand einer gemäss der Akte von 1967 vorgenommenen internationalen Registrierung ist, in jeder Vertragspartei, die Partei der Genfer Akte, jedoch nicht der Akte von 1967 ist und die den Schutz nicht gemäss Artikel 15 der Genfer Akte verweigert hat oder die dem Internationalen Büro eine Erklärung über die Schutzgewährung gemäss Regel 18 übersandt hat, und ohne Vorliegen von Mängeln gemäss Regel 6 Absatz 1 Buchstabe d vorbehaltlich von Artikel 6 Absatz 5 Buchstabe b der Genfer Akte ab dem Datum geschützt, an dem die Ratifikation der Genfer Akte oder der Beitritt zur Genfer Akte durch die Ursprungsvertragspartei wirksam wird.
 
 - 1\. a) Vorbehaltlich Buchstabe b ist das Datum der internationalen Registrierung für ein gemäss der Akte von 1967 eingereichtes Gesuch das Datum, an dem dieses Gesuch beim Internationalen Büro eingegangen ist.
 - b)
@@ -165,18 +197,26 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
   - iv) die Ursprungsbezeichnung, für die die internationale Registrierung erwirkt werden soll;
   - v) die Angabe der Ware oder der Waren, auf die sich die Ursprungsbezeichnung bezieht;
 
-ist das Datum der internationalen Registrierung das Datum, an dem die letzte der fehlenden Angaben beim Internationalen Büro eingeht.
-
 - 2\. a) Vorbehaltlich Buchstabe b und Absatz 3 ist eine Ursprungsbezeichnung, die Gegenstand einer gemäss der Akte von 1967 vorgenommenen internationalen Registrierung ist, in jeder Vertragspartei der Akte von 1967, die den Schutz der Ursprungsbezeichnung nicht gemäss Artikel 5 Absatz 3 der Akte von 1967 verweigert hat oder die dem Internationalen Büro gemäss Regel 12 eine Erklärung über die Schutzgewährung übersandt hat, ab dem Datum der internationalen Registrierung geschützt.
 - b) Eine Vertragspartei der Akte von 1967 kann dem Generaldirektor in einer Erklärung mitteilen, dass eine eingetragene Ursprungsbezeichnung gemäss Absatz a im Einklang mit ihren Rechtsvorschriften ab einem in der Erklärung genannten Datum geschützt ist, wobei dieses Datum nicht nach dem Ablauf der Frist von einem Jahr gemäss Artikel 5 Absatz 3 der Akte von 1967 liegen darf.
 
-\3. Nach der Ratifikation der Genfer Akte oder dem Beitritt zur Genfer Akte durch eine Ursprungsvertragspartei, die Partei der Akte von 1967 ist, ist eine Ursprungsbezeichnung, die Gegenstand einer gemäss der Akte von 1967 vorgenommenen internationalen Registrierung ist, in jeder Vertragspartei, die Partei der Genfer Akte, jedoch nicht der Akte von 1967 ist und die den Schutz nicht gemäss Artikel 15 der Genfer Akte verweigert hat oder die dem Internationalen Büro eine Erklärung über die Schutzgewährung gemäss Regel 18 übersandt hat, und ohne Vorliegen von Mängeln gemäss Regel 6 Absatz 1 Buchstabe d vorbehaltlich von Artikel 6 Absatz 5 Buchstabe b der Genfer Akte ab dem Datum geschützt, an dem die Ratifikation der Genfer Akte oder der Beitritt zur Genfer Akte durch die Ursprungsvertragspartei wirksam wird.
+#### Regel 8
 
-### **Regel 8**Gebühren
+**Gebühren**
+
+\3. Jede in Bezug auf eine Vertragspartei der Genfer Akte an das Internationale Büro entrichtete individuelle Gebühr wird dem Konto dieser Vertragspartei beim Internationalen Büro in dem Monat gutgeschrieben, der auf den Monat folgt, in dessen Verlauf die Eintragung der internationalen Registrierung erfolgt ist, für die diese Gebühr entrichtet wurde.
+
+\4. Alle Zahlungen, die nach dieser Ausführungsordnung an das Internationale Büro geleistet werden, sind in Schweizer Währung zu entrichten, unabhängig davon, ob die Gebühren im Falle einer Zahlung durch die zuständige Behörde von dieser zuständigen Behörde in einer anderen Währung entgegengenommen worden sind.
+
+\6. Die Gebühren sind nach Massgabe der Verwaltungsvorschriften an das Internationale Büro zu entrichten.
+
+\7. Bei jeder Gebührenzahlung an das Internationale Büro ist die Ursprungsbezeichnung oder die geografische Angabe sowie der Zweck der Zahlung anzugeben.
+
+\9. Ändert sich der Betrag einer Gebühr, so findet der am Datum des Eingangs der Gebühr beim Internationalen Büro geltende Betrag Anwendung.
 
 \1. Das Internationale Büro erhebt die folgenden, in Schweizer Franken zahlbaren Gebühren:
 
-- i) Gebühr für die internationale Registrierung[^chapII-lvlu5-1]∗: 1000
+- i) Gebühr für die internationale Registrierung[^8-1]∗: 1000
 - ii) Gebühr für jede Änderung einer internationalen Registrierung: 500
 - iii) Gebühr für die Lieferung eines Auszugs aus dem internationalen Register: 150
 - iv) Gebühr für die Lieferung einer Bescheinigung oder sonstiger schriftlicher Auskünfte über den Inhalt des internationalen Registers: 100
@@ -186,30 +226,24 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
 - c) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die Währung, in der eine Vertragspartei den Betrag einer individuellen Gebühr angegeben hat, länger als drei Monate in Folge mindestens 5 Prozent unter oder über dem letzten Wechselkurs, der bei der Festsetzung des Gebührenbetrages in Schweizer Währung zugrunde gelegt wurde, so kann die zuständige Behörde dieser Vertragspartei den Generaldirektor auffordern, einen neuen Betrag dieser Gebühr in Schweizer Währung auf der Grundlage des am Vortag der Einreichung des Antrags geltenden amtlichen Wechselkurses der Vereinten Nationen festzusetzen. Der Generaldirektor handelt entsprechend. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, welches jedoch zwischen einem und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrages auf der Internetseite der Organisation liegen muss.
 - d) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die Währung, in der eine Vertragspartei den Betrag einer individuellen Gebühr angegeben hat, länger als drei Monate in Folge mindestens 10 Prozent unter dem letzten Wechselkurs, der bei der Festsetzung des Gebührenbetrages in Schweizer Währung zugrunde gelegt wurde, so setzt der Generaldirektor einen neuen Betrag der Gebühr in Schweizer Währung entsprechend dem aktuellen amtlichen Wechselkurs der Vereinten Nationen fest. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, welches jedoch zwischen einem und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrages auf der Internetseite der Organisation liegen muss.
 
-\3. Jede in Bezug auf eine Vertragspartei der Genfer Akte an das Internationale Büro entrichtete individuelle Gebühr wird dem Konto dieser Vertragspartei beim Internationalen Büro in dem Monat gutgeschrieben, der auf den Monat folgt, in dessen Verlauf die Eintragung der internationalen Registrierung erfolgt ist, für die diese Gebühr entrichtet wurde.
-
-\4. Alle Zahlungen, die nach dieser Ausführungsordnung an das Internationale Büro geleistet werden, sind in Schweizer Währung zu entrichten, unabhängig davon, ob die Gebühren im Falle einer Zahlung durch die zuständige Behörde von dieser zuständigen Behörde in einer anderen Währung entgegengenommen worden sind.
-
 - 5\. a) Vorbehaltlich Buchstabe b sind die Gebühren unmittelbar an das Internationale Büro zu entrichten.
 - b) Die im Zusammenhang mit einem Gesuch zu entrichtenden Gebühren können durch die zuständige Behörde gezahlt werden, wenn diese die Entgegennahme und die Weiterleitung dieser Gebühren übernimmt und die Begünstigten dies wünschen. Zuständige Behörden, die die Entgegennahme und die Weiterleitung dieser Gebühren übernehmen, setzen den Generaldirektor hiervon in Kenntnis.
-
-\6. Die Gebühren sind nach Massgabe der Verwaltungsvorschriften an das Internationale Büro zu entrichten.
-
-\7. Bei jeder Gebührenzahlung an das Internationale Büro ist die Ursprungsbezeichnung oder die geografische Angabe sowie der Zweck der Zahlung anzugeben.
 
 - 8\. a) Vorbehaltlich Buchstabe b gilt jede Gebühr als an dem Tag an das Internationale Büro gezahlt, an dem der erforderliche Betrag beim Internationalen Büro eingeht.
 - b) Ist der erforderliche Betrag auf einem beim Internationalen Büro bestehenden Konto verfügbar und hat das Internationale Büro vom Kontoinhaber den Auftrag zur Abbuchung des Betrages von diesem Konto erhalten, so gilt die Gebühr als an dem Tag an das Internationale Büro gezahlt, an dem ein Gesuch oder ein Antrag auf Eintragung einer Änderung beim Internationalen Büro eingeht.
 
-\9. Ändert sich der Betrag einer Gebühr, so findet der am Datum des Eingangs der Gebühr beim Internationalen Büro geltende Betrag Anwendung.
-
 - 10\. a) Ungeachtet von Absatz 1 Ziffer v ist eine von einer Vertragspartei der Genfer Akte und der Akte von 1967 gemäss Artikel 7 Absatz 4 der Genfer Akte abgegebene Erklärung ohne Wirkung auf die Beziehungen zu einer anderen Vertragspartei, die Partei der Genfer Akte und der Akte von 1967 ist.
 - b) Die Versammlung kann mit einer Dreiviertelmehrheit den Buchstaben a aufheben oder den Geltungsbereich des Buchstabens a einschränken. Nur die Vertragsparteien der Genfer Akte und der Akte von 1967 sind stimmberechtigt.
 
-[^chapII-lvlu5-1]: ∗ Bei internationalen Registrierungen mit Bezeichnung eines geografischen Gebiets in einem Land der Kategorie der am wenigsten entwickelten Länder nach den von den Vereinten Nationen aufgestellten Listen ermässigt sich die Gebühr auf 50% des vorgeschriebenen Betrags (gerundet auf die nächste ganze Zahl). In diesem Fall beträgt die Gebühr 500 Schweizer Franken für eine internationale Registrierung mit Bezeichnung eines geografischen Ursprungsgebiets in einem Land der Kategorie der am wenigsten entwickelten Länder und 250 Schweizer Franken für jede Änderung einer internationalen Registrierung mit Bezeichnung eines geografischen Ursprungsgebiets in einem Land der Kategorie der am wenigsten entwickelten Länder. Diese Gebührenermässigungen gelten während einer Dauer von drei Jahren ab dem Inkrafttreten der Genfer Akte des Lissabonner Abkommens.
+[^8-1]: ∗ Bei internationalen Registrierungen mit Bezeichnung eines geografischen Gebiets in einem Land der Kategorie der am wenigsten entwickelten Länder nach den von den Vereinten Nationen aufgestellten Listen ermässigt sich die Gebühr auf 50% des vorgeschriebenen Betrags (gerundet auf die nächste ganze Zahl). In diesem Fall beträgt die Gebühr 500 Schweizer Franken für eine internationale Registrierung mit Bezeichnung eines geografischen Ursprungsgebiets in einem Land der Kategorie der am wenigsten entwickelten Länder und 250 Schweizer Franken für jede Änderung einer internationalen Registrierung mit Bezeichnung eines geografischen Ursprungsgebiets in einem Land der Kategorie der am wenigsten entwickelten Länder. Diese Gebührenermässigungen gelten während einer Dauer von drei Jahren ab dem Inkrafttreten der Genfer Akte des Lissabonner Abkommens.
 
 ## Kapitel III: Schutzverweigerung und sonstige Massnahmen in Bezug auf internationale Registrierungen
 
-### **Regel 9**Schutzverweigerung
+#### Regel 9
+
+**Schutzverweigerung**
+
+\3. Vorbehaltlich Regel 10 Absatz 1 trägt das Internationale Büro die Schutzverweigerung mit Angabe des Datums, an dem die Schutzverweigerung an das Internationale Büro gerichtet wurde, in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie der Mitteilung der Schutzverweigerung.
 
 - 1\. a) Jede Schutzverweigerung ist dem Internationalen Büro über die zuständige Behörde der betroffenen Vertragspartei mitzuteilen und von dieser zuständigen Behörde zu unterzeichnen.
 - b) Die Schutzverweigerung ist innerhalb eines Jahres ab dem Eingang der Mitteilung der internationalen Registrierung gemäss Artikel 5 Absatz 2 der Akte von 1967 oder gemäss Artikel 6 Absatz 4 der Genfer Akte mitzuteilen. Im Fall von Artikel 29 Absatz 4 der Genfer Akte kann diese Frist um ein Jahr verlängert werden.
@@ -224,9 +258,11 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
 - v) betrifft die Schutzverweigerung nur bestimmte Bestandteile der Ursprungsbezeichnung oder der geografischen Angabe, eine Angabe der betreffenden Bestandteile;
 - vi) die für die Anfechtung der Schutzverweigerung verfügbaren gerichtlichen und administrativen Rechtsmittel sowie die anwendbaren Rechtsmittelfristen.
 
-\3. Vorbehaltlich Regel 10 Absatz 1 trägt das Internationale Büro die Schutzverweigerung mit Angabe des Datums, an dem die Schutzverweigerung an das Internationale Büro gerichtet wurde, in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie der Mitteilung der Schutzverweigerung.
+#### Regel 10
 
-### **Regel 10**Nicht vorschriftsmässige Mitteilung der Schutzverweigerung
+**Nicht vorschriftsmässige Mitteilung der Schutzverweigerung**
+
+\2. Enthält die Mitteilung der Schutzverweigerung einen anderen Mangel als die in Absatz 1 genannten Mängel, so trägt das Internationale Büro die Schutzverweigerung trotzdem in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie der Mitteilung der Schutzverweigerung. Auf Verlangen dieser zuständigen Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte der Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte fordert das Internationale Büro die zuständige Behörde, die die Mitteilung der Schutzverweigerung unterbreitet hat, auf, die Mitteilung unverzüglich zu berichtigen.
 
 - 1\. a)
 
@@ -239,11 +275,13 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
 
 - b) Findet Buchstabe a Anwendung, so benachrichtigt das Internationale Büro die zuständige Behörde, die die Mitteilung der Schutzverweigerung unterbreitet hat, dass die Schutzverweigerung vom Internationalen Büro nicht als solche betrachtet wird und nicht in das internationale Register eingetragen worden ist, gibt die Gründe hierfür an und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie der Mitteilung der Schutzverweigerung, es sei denn, es kann die betreffende internationale Registrierung nicht identifizieren.
 
-\2. Enthält die Mitteilung der Schutzverweigerung einen anderen Mangel als die in Absatz 1 genannten Mängel, so trägt das Internationale Büro die Schutzverweigerung trotzdem in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie der Mitteilung der Schutzverweigerung. Auf Verlangen dieser zuständigen Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte der Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte fordert das Internationale Büro die zuständige Behörde, die die Mitteilung der Schutzverweigerung unterbreitet hat, auf, die Mitteilung unverzüglich zu berichtigen.
+#### Regel 11
 
-### **Regel 11**Rücknahme der Schutzverweigerung
+**Rücknahme der Schutzverweigerung**
 
 \1. Jede Schutzverweigerung kann jederzeit von der zuständigen Behörde, die sie mitgeteilt hat, ganz oder teilweise zurückgenommen werden. Die Rücknahme einer Schutzverweigerung ist dem Internationalen Büro durch die betroffene zuständige Behörde mitzuteilen und von dieser Behörde zu unterzeichnen.
+
+\3. Das Internationale Büro trägt alle Rücknahmen gemäss Absatz 1 in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie der Mitteilung der Rücknahme.
 
 \2. Die Mitteilung der Rücknahme einer Schutzverweigerung hat Folgendes anzugeben:
 
@@ -251,9 +289,11 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
 - ii) den Grund der Rücknahme und, im Fall einer teilweisen Rücknahme, die in Regel 9 Absatz 2 Ziffer v genannten Angaben;
 - iii) das Datum der Rücknahme der Schutzverweigerung.
 
-\3. Das Internationale Büro trägt alle Rücknahmen gemäss Absatz 1 in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie der Mitteilung der Rücknahme.
+#### Regel 12
 
-### **Regel 12**Schutzgewährung
+**Schutzgewährung**
+
+\3. Das Internationale Büro trägt alle Erklärungen über die Schutzgewährung gemäss Absatz 1 oder 2 in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie dieser Erklärung.
 
 - 1\. a) Die zuständige Behörde einer Vertragspartei, die die Wirksamkeit einer internationalen Registrierung nicht verweigert, kann in der Frist gemäss Regel 9 Absatz 1 dem Internationalen Büro eine Erklärung übersenden, die bestätigt, dass der Ursprungsbezeichnung oder der geografischen Angabe, die Gegenstand der internationalen Registrierung ist, der Schutz gewährt wird.
 - b)
@@ -274,9 +314,11 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
   - iii) den Grund der Rücknahme und, im Fall einer Schutzgewährung, die einer teilweisen Rücknahme entspricht, die in Regel 9 Absatz 2 Ziffer v genannten Angaben; und
   - iv) das Datum der Schutzgewährung.
 
-\3. Das Internationale Büro trägt alle Erklärungen über die Schutzgewährung gemäss Absatz 1 oder 2 in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie dieser Erklärung.
+#### Regel 13
 
-### **Regel 13**Ungültigerklärung der Wirksamkeit einer internationalen Registrierung in einer Vertragspartei
+**Ungültigerklärung der Wirksamkeit einer internationalen Registrierung in einer Vertragspartei**
+
+\2. Das Internationale Büro trägt die Ungültigerklärung mit den Angaben gemäss Absatz 1 Ziffer i–v in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie dieser Mitteilung.
 
 \1. Wird die Wirksamkeit einer internationalen Registrierung in einer Vertragspartei ganz oder teilweise für ungültig erklärt und ist die Ungültigerklärung nicht mehr Gegenstand von Rechtsmitteln, so übermittelt die zuständige Behörde der betroffenen Vertragspartei dem Internationalen Büro eine Mitteilung der Ungültigerklärung. Die Mitteilung hat Folgendes anzugeben oder zu enthalten:
 
@@ -287,9 +329,13 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
 - v) die Gründe, aus denen die Ungültigerklärung ausgesprochen wurde;
 - vi) eine Kopie der Entscheidung, die die Wirksamkeit der internationalen Registrierung für ungültig erklärt hat.
 
-\2. Das Internationale Büro trägt die Ungültigerklärung mit den Angaben gemäss Absatz 1 Ziffer i–v in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie dieser Mitteilung.
+#### Regel 14
 
-### **Regel 14**Übergangsfrist zugunsten Dritter
+**Übergangsfrist zugunsten Dritter**
+
+\2. Die Dauer der einem Dritten gemäss Artikel 17 der Genfer Akte gewährten Frist darf nicht länger als 15 Jahre sein, wobei die Frist von jedem Einzelfall abhängen kann und eine Frist von mehr als zehn Jahren ausserordentlich wäre.
+
+\3. Sofern die in Absatz 1 genannte Mitteilung dem Internationalen Büro von der zuständigen Behörde vor dem in Absatz 1 Ziffer iv angegebenen Datum zugesandt wird, trägt das Internationale Büro diese Mitteilung mit den darin enthaltenen Angaben in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie dieser Mitteilung
 
 \1. Ist einem Dritten gemäss Artikel 5 Absatz 6 der Akte von 1967 oder gemäss Artikel 17 Absatz 1 der Genfer Akte eine in einer Vertragspartei festgelegte Frist für die Einstellung der Verwendung einer eingetragenen Ursprungsbezeichnung oder einer eingetragenen geografischen Angabe gewährt worden, so teilt die zuständige Behörde dieser Vertragspartei dies dem Internationalen Büro mit. Die Mitteilung ist von der genannten Behörde zu unterzeichnen und hat Folgendes anzugeben:
 
@@ -298,11 +344,13 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
 - iii) die dem Dritten gewährte Frist, vorzugsweise zusammen mit Angaben zum Umfang der Verwendung während der Übergangsfrist;
 - iv) das Datum, an dem die festgelegte Frist zu laufen beginnt, wobei dieses Datum nicht mehr als ein Jahr und drei Monate nach dem Eingang der Mitteilung der internationalen Registrierung gemäss Artikel 5 Absatz 2 der Akte von 1967 oder gemäss Artikel 6 Absatz 4 der Genfer Akte und zwei Jahre und drei Monate nach dem Eingang dieser Mitteilung gemäss Artikel 29 Absatz 4 der Genfer Akte liegen darf.
 
-\2. Die Dauer der einem Dritten gemäss Artikel 17 der Genfer Akte gewährten Frist darf nicht länger als 15 Jahre sein, wobei die Frist von jedem Einzelfall abhängen kann und eine Frist von mehr als zehn Jahren ausserordentlich wäre.
+#### Regel 15
 
-\3. Sofern die in Absatz 1 genannte Mitteilung dem Internationalen Büro von der zuständigen Behörde vor dem in Absatz 1 Ziffer iv angegebenen Datum zugesandt wird, trägt das Internationale Büro diese Mitteilung mit den darin enthaltenen Angaben in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie dieser Mitteilung
+**Änderungen**
 
-### **Regel 15**Änderungen
+\3. Das Internationale Büro trägt die gemäss Absatz 1 und 2 beantragten Änderungen mit Angabe des Datums, an dem der Antrag beim Internationalen Büro eingegangen ist, in das internationale Register ein, bestätigt die Eintragung der zuständigen Behörde, die die Änderung beantragt hat, und teilt diese Änderung den zuständigen Behörden der anderen Vertragsparteien mit.
+
+\4. Im Fall von Artikel 5 Absatz 3 der Genfer Akte sind die Absätze 1–3 sinngemäss anzuwenden, wobei ein von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii der Genfer Akte eingereichtes Gesuch angeben muss, dass die Änderung aufgrund einer entsprechenden Änderung bezüglich der Registrierung, des gesetzlichen oder ordnungspolitischen Erlasses oder des gerichtlichen oder verwaltungsrechtlichen Entscheids beantragt wird, wonach der Ursprungsbezeichnung oder der geografischen Angabe in der Ursprungsvertragspartei, die eine Erklärung gemäss Artikel 5 Absatz 3 der Genfer Akte abgegeben hat, der Schutz gewährt worden war, und die Eintragung dieser Änderung in das internationale Register den betroffenen Begünstigten bzw. der betroffenen natürlichen oder juristischen Person durch das Internationale Büro zu bestätigen ist, das auch die zuständige Behörde der Ursprungsvertragspartei, die eine Erklärung gemäss Artikel 5 Absatz 3 der Genfer Akte abgegeben hat, unterrichtet.
 
 \1. Die folgenden Änderungen können in das internationale Register eingetragen werden:
 
@@ -315,13 +363,15 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
 - 2\. a) Alle Anträge auf Eintragung einer Änderung gemäss Absatz 1 sind zusammen mit der in Regel 8 vorgeschriebenen Gebühr beim Internationalen Büro einzureichen und von der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte zu unterzeichnen.
 - b) Alle Anträge auf Eintragung einer Änderung gemäss Absatz 1 sind, sofern sie ein neu festgelegtes geografisches Produktionsgebiet oder grenzübergreifendes geografisches Ursprungsgebiet gemäss Artikel 1 Ziffer xiii der Genfer Akte betreffen, beim Internationalen Büro einzureichen und von der gemäss Artikel 5 Absatz 4 der Genfer Akte gemeinsam benannten zuständigen Behörde zu unterzeichnen
 
-\3. Das Internationale Büro trägt die gemäss Absatz 1 und 2 beantragten Änderungen mit Angabe des Datums, an dem der Antrag beim Internationalen Büro eingegangen ist, in das internationale Register ein, bestätigt die Eintragung der zuständigen Behörde, die die Änderung beantragt hat, und teilt diese Änderung den zuständigen Behörden der anderen Vertragsparteien mit.
+#### Regel 16
 
-\4. Im Fall von Artikel 5 Absatz 3 der Genfer Akte sind die Absätze 1–3 sinngemäss anzuwenden, wobei ein von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii der Genfer Akte eingereichtes Gesuch angeben muss, dass die Änderung aufgrund einer entsprechenden Änderung bezüglich der Registrierung, des gesetzlichen oder ordnungspolitischen Erlasses oder des gerichtlichen oder verwaltungsrechtlichen Entscheids beantragt wird, wonach der Ursprungsbezeichnung oder der geografischen Angabe in der Ursprungsvertragspartei, die eine Erklärung gemäss Artikel 5 Absatz 3 der Genfer Akte abgegeben hat, der Schutz gewährt worden war, und die Eintragung dieser Änderung in das internationale Register den betroffenen Begünstigten bzw. der betroffenen natürlichen oder juristischen Person durch das Internationale Büro zu bestätigen ist, das auch die zuständige Behörde der Ursprungsvertragspartei, die eine Erklärung gemäss Artikel 5 Absatz 3 der Genfer Akte abgegeben hat, unterrichtet.
-
-### **Regel 16**Schutzverzicht
+**Schutzverzicht**
 
 \1. Die zuständige Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte die Begünstigten bzw. die natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte oder die zuständige Behörde der Ursprungsvertragspartei können dem Internationalen Büro jederzeit mitteilen, dass in einer oder mehreren, jedoch nicht in allen Vertragsparteien ganz oder teilweise auf den Schutz der Ursprungsbezeichnung oder der geografischen Angabe verzichtet wird. Die Mitteilung eines Schutzverzichts hat die Nummer der betreffenden internationalen Registrierung, vorzugsweise versehen mit einer anderen Angabe, die die Identifizierung der internationalen Registrierung erlaubt, wie zum Beispiel die Bezeichnung, die die Ursprungsbezeichnung darstellt, oder die Angabe, die die geografische Angabe darstellt, anzugeben und ist von der zuständigen Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte zu unterzeichnen.
+
+\3. Das Internationale Büro trägt jeden Schutzverzicht gemäss Absatz 1 oder jede Rücknahme eines Verzichts gemäss Absatz 2 in das internationale Register ein, bestätigt der zuständigen Behörde der Ursprungsvertragspartei und im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person die Eintragung, unterrichtet auch die zuständige Behörde der Ursprungsvertragspartei und übermittelt die Eintragung dieser Änderung in das internationale Register der zuständigen Behörde jeder Vertragspartei, auf die sich der Verzicht oder die Rücknahme des Verzichts bezieht.
+
+\4. Die zuständige Behörde einer Vertragspartei, bei der eine Mitteilung der Rücknahme eines Verzichts eingegangen ist, kann dem Internationalen Büro die Verweigerung der Wirksamkeit der internationalen Registrierung in ihrem Gebiet mitteilen. Diese Erklärung ist dem Internationalen Büro durch die zuständige Behörde innerhalb einer Frist von einem Jahr ab dem Datum des Eingangs der Mitteilung des Internationalen Büros bezüglich der Rücknahme des Verzichts zuzusenden. Die Regeln 9–12 sind sinngemäss anzuwenden.
 
 - 2\. a) Jeder Verzicht einschliesslich eines Verzichts gemäss Regel 6 Absatz 1 Buchstabe d kann von der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte oder von der zuständigen Behörde der Ursprungsvertragspartei vorbehaltlich der Entrichtung der Änderungsgebühr und im Fall eines Verzichts gemäss Regel 6 Absatz 1 Buchstabe d der Behebung des Mangels jederzeit ganz oder teilweise zurückgenommen werden.
 - b)
@@ -331,33 +381,37 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
   - i) im Fall eines Verzichts gemäss Absatz 1 die Rücknahme des Verzichts beim Internationalen Büro eingeht; und
   - ii) im Fall eines Verzichts gemäss Regel 6 Absatz 1 Buchstabe d die Behebung des Mangels beim Internationalen Büro eingeht.
 
-\3. Das Internationale Büro trägt jeden Schutzverzicht gemäss Absatz 1 oder jede Rücknahme eines Verzichts gemäss Absatz 2 in das internationale Register ein, bestätigt der zuständigen Behörde der Ursprungsvertragspartei und im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person die Eintragung, unterrichtet auch die zuständige Behörde der Ursprungsvertragspartei und übermittelt die Eintragung dieser Änderung in das internationale Register der zuständigen Behörde jeder Vertragspartei, auf die sich der Verzicht oder die Rücknahme des Verzichts bezieht.
+#### Regel 17
 
-\4. Die zuständige Behörde einer Vertragspartei, bei der eine Mitteilung der Rücknahme eines Verzichts eingegangen ist, kann dem Internationalen Büro die Verweigerung der Wirksamkeit der internationalen Registrierung in ihrem Gebiet mitteilen. Diese Erklärung ist dem Internationalen Büro durch die zuständige Behörde innerhalb einer Frist von einem Jahr ab dem Datum des Eingangs der Mitteilung des Internationalen Büros bezüglich der Rücknahme des Verzichts zuzusenden. Die Regeln 9–12 sind sinngemäss anzuwenden.
-
-### **Regel 17**Löschung der internationalen Registrierung
+**Löschung der internationalen Registrierung**
 
 \1. Die zuständige Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte die Begünstigten bzw. die natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte oder die zuständige Behörde der Ursprungsvertragspartei können beim Internationalen Büro jederzeit die Löschung ihrer internationalen Registrierung beantragen. Der Antrag auf Löschung hat die Nummer der betreffenden internationalen Registrierung, vorzugsweise versehen mit einer anderen Angabe, die die Identifizierung der internationalen Registrierung erlaubt, wie zum Beispiel die Bezeichnung, die die Ursprungsbezeichnung darstellt, oder die Angabe, die die geografische Angabe darstellt, anzugeben und ist von der zuständigen Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte zu unterzeichnen.
 
 \2. Das Internationale Büro trägt die Löschung zusammen mit den im Antrag enthaltenen Angaben in das internationale Register ein, bestätigt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte die Eintragung, unterrichtet auch die zuständige Behörde der Ursprungsvertragspartei und übermittelt die Löschung den zuständigen Behörden der anderen Vertragsparteien.
 
-### **Regel 18**Berichtigungen im internationalen Register
+#### Regel 18
+
+**Berichtigungen im internationalen Register**
 
 \1. Ist das Internationale Büro, das von Amts wegen oder auf Antrag der zuständigen Behörde der Ursprungsvertragspartei tätig wird, der Auffassung, dass hinsichtlich einer internationalen Registrierung ein Fehler im internationalen Register vorliegt, so berichtigt es das Register entsprechend
 
-\2. Im Fall von Artikel 5 Absatz 3 der Genfer Akte kann der in Absatz 1 genannte Antrag auch von den Begünstigten bzw. von der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte eingereicht werden. Das Internationale Büro teilt diesen Begünstigten bzw. dieser natürlichen oder juristischen Person jede Berichtigung bezüglich der internationalen Registrierung mit.
+<sup>2.</sup> Im Fall von Artikel 5 Absatz 3 der Genfer Akte kann der in Absatz 1 genannte Antrag auch von den Begünstigten bzw. von der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte eingereicht werden. Das Internationale Büro teilt diesen Begünstigten bzw. dieser natürlichen oder juristischen Person jede Berichtigung bezüglich der internationalen Registrierung mit.
 
-\3. Das Internationale Büro teilt der zuständigen Behörde jeder Vertragspartei sowie im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte die Berichtigung im internationalen Register mit.
+<sup>3.</sup> Das Internationale Büro teilt der zuständigen Behörde jeder Vertragspartei sowie im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte die Berichtigung im internationalen Register mit.
 
 \4. Betrifft die Berichtigung eines Fehlers die Ursprungsbezeichnung oder die geografische Angabe oder die Ware oder Waren, auf die sich die Ursprungsbezeichnung oder die geografische Angabe bezieht, hat die zuständige Behörde einer Vertragspartei das Recht, zu erklären, dass sie den Schutz der Ursprungsbezeichnung oder der geografischen Angabe nach der Berichtigung nicht gewährleisten kann. Diese Erklärung ist dem Internationalen Büro durch die zuständige Behörde innerhalb einer Frist von einem Jahr ab dem Datum des Eingangs der Mitteilung des Internationalen Büros bezüglich der Berichtigung zuzusenden. Die Regeln 9–12 sind sinngemäss anzuwenden.
 
 ## Kapitel IV: Verschiedenes
 
-### **Regel 19**Veröffentlichung
+#### Regel 19
+
+**Veröffentlichung**
 
 Das Internationale Büro veröffentlicht alle Eintragungen in das internationale Register.
 
-### **Regel 20**Auszüge aus dem internationalen Register und sonstige Auskünfte des Internationalen Büros
+#### Regel 20
+
+**Auszüge aus dem internationalen Register und sonstige Auskünfte des Internationalen Büros**
 
 \1. Auszüge aus dem internationalen Register oder sonstige Auskünfte über den Inhalt dieses Registers werden vom Internationalen Büro gegen Entrichtung der in Regel 8 vorgeschriebenen Gebühr jeder Person auf Antrag zur Verfügung gestellt.
 
@@ -365,37 +419,49 @@ Das Internationale Büro veröffentlicht alle Eintragungen in das internationale
 - b) Sofern diese Unterlagen bereits an das Internationale Büro übermittelt wurden, übersendet dieses unverzüglich eine Kopie an die Person, die den Antrag gestellt hat.
 - c) Sind diese Unterlagen nie an das Internationale Büro übermittelt worden, so verlangt dieses von der zuständigen Behörde der Ursprungsvertragspartei eine Kopie und übersendet sie nach Eingang an die Person, die den Antrag gestellt hat.
 
-### **Regel 21**Unterschrift
+#### Regel 21
+
+**Unterschrift**
 
 Ist gemäss dieser Ausführungsordnung die Unterschrift einer zuständigen Behörde erforderlich, so kann diese Unterschrift aufgedruckt oder durch ein Faksimile oder ein amtliches Siegel ersetzt werden.
 
-### **Regel 22**Datum des Versands verschiedener Mitteilungen
+#### Regel 22
+
+**Datum des Versands verschiedener Mitteilungen**
 
 Werden die Mitteilungen gemäss den Regeln 9 Absatz 1, 14 Absatz 1, 16 Absatz 4 und 18 Absatz 4 durch einen Postdienst übersandt, so wird das Versanddatum durch den Poststempel bestimmt. Ist der Poststempel unleserlich oder nicht vorhanden, so behandelt das Internationale Büro die Mitteilung so, als wäre sie 20 Tage vor dem Datum des Eingangs beim Internationalen Büro versandt worden. Werden die genannten Mitteilungen über einen Zustelldienst übersandt, bestimmen dessen Angaben anhand des Versandprotokolls das Versanddatum. Diese Mitteilungen können gemäss den Verwaltungsvorschriften auch per Telefax oder elektronisch übermittelt werden.
 
-### **Regel 23**Arten der Benachrichtigung durch das Internationale Büro
+#### Regel 23
+
+**Arten der Benachrichtigung durch das Internationale Büro**
 
 Die Mitteilungen des Internationalen Büros gemäss dieser Ausführungsordnung sind mit allen Mitteln, die es dem Internationalen Büro erlauben, festzustellen, dass sie eingegangen sind, an die zuständigen Behörden oder im Fall von Artikel 5 Absatz 3 der Genfer Akte an die Begünstigten bzw. die natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte zu richten.
 
-### **Regel 24**Verwaltungsvorschriften
+#### Regel 24
+
+**Verwaltungsvorschriften**
+
+\2. Die Versammlung kann den Generaldirektor auffordern, Bestimmungen der Verwaltungsvorschriften zu ändern, und der Generaldirektor kommt dieser Aufforderung nach.
+
+\4. Im Falle eines Widerspruchs zwischen einer Bestimmung der Verwaltungsvorschriften einerseits und einer Bestimmung der Akte oder dieser Ausführungsordnung andererseits hat Letztere Vorrang.
 
 - 1\. a) Die Verwaltungsvorschriften werden vom Generaldirektor erlassen und können von ihm geändert werden. Vor Erlass oder Änderung der Verwaltungsvorschriften konsultiert der Generaldirektor die zuständigen Behörden der Vertragsparteien, die von den vorgeschlagenen Verwaltungsvorschriften oder ihrer vorgeschlagenen Änderung unmittelbar betroffen sind.
 - b) Die Verwaltungsvorschriften regeln Angelegenheiten, hinsichtlich derer diese Ausführungsordnung ausdrücklich auf diese Vorschriften Bezug nimmt, sowie Einzelheiten der Anwendung dieser Ausführungsordnung.
 
-\2. Die Versammlung kann den Generaldirektor auffordern, Bestimmungen der Verwaltungsvorschriften zu ändern, und der Generaldirektor kommt dieser Aufforderung nach.
-
 - 3\. a) Die Verwaltungsvorschriften sowie alle Änderungen dieser Vorschriften werden veröffentlicht.
 - b) Bei jeder Veröffentlichung wird der Zeitpunkt angegeben, an dem die veröffentlichten Vorschriften in Kraft treten. Der Zeitpunkt muss nicht für alle Bestimmungen derselbe sein, jedoch kann keine Bestimmung vor dem Datum ihrer Veröffentlichung in Kraft treten.
 
-\4. Im Falle eines Widerspruchs zwischen einer Bestimmung der Verwaltungsvorschriften einerseits und einer Bestimmung der Akte oder dieser Ausführungsordnung andererseits hat Letztere Vorrang.
+#### Regel 25
 
-### **Regel 25**Inkrafttreten; Übergangsbestimmungen
+**Inkrafttreten; Übergangsbestimmungen**
 
-\1. Diese Ausführungsordnung tritt am [*das Datum des Inkrafttretens wird mit dem Inkrafttreten der Genfer Akte des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben*[^chapIV-lvlu7-1] *zusammenfallen*] in Kraft und ersetzt von diesem Zeitpunkt an die am 1. Januar 2016 geltende Ausführungsordnung zur Akte von 1967 über den Schutz und die internationale Registrierung von Ursprungsbezeichnungen (nachfolgend als «Ausführungsordnung zum Abkommen» bezeichnet).
+<sup>1.</sup> Diese Ausführungsordnung tritt am [*das Datum des Inkrafttretens wird mit dem Inkrafttreten der Genfer Akte des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben*[^25-1] *zusammenfallen*] in Kraft und ersetzt von diesem Zeitpunkt an die am 1. Januar 2016 geltende Ausführungsordnung zur Akte von 1967 über den Schutz und die internationale Registrierung von Ursprungsbezeichnungen (nachfolgend als «Ausführungsordnung zum Abkommen» bezeichnet).
 
-\2. Ungeachtet von Absatz 1:
+<sup>2.</sup>
+
+Ungeachtet von Absatz 1:
 
 - i) gilt ein beim Internationalen Büro vor dem in Absatz 1 genannten Datum eingegangenes, durch die Akte von 1967 geregeltes Gesuch, sofern es die Erfordernisse der Ausführungsordnung zur Akte von 1967 erfüllt, als mit den für die Zwecke von Regel 7 anwendbaren Erfordernissen übereinstimmend;
 - ii) gilt eine beim Internationalen Büro vor dem in Absatz 1 genannten Datum eingegangene Mitteilung über eine Schutzverweigerung oder die Rücknahme einer Schutzverweigerung, Erklärung über die Schutzgewährung, Mitteilung der Ungültigerklärung der Wirksamkeit einer internationalen Registrierung in einer Vertragspartei, einer Übergangsfrist zugunsten Dritter, einer Änderung, eines Schutzverzichts oder einer Löschung einer gemäss der Akte von 1967 vorgenommenen internationalen Registrierung, sofern sie die Anforderungen der Ausführungsordnung zur Akte von 1967 erfüllt, als mit den für die Zwecke von Regel 9 Absatz 3, Regel 11 Absatz 3, Regel 12 Absatz 3, Regel 13 Absatz 2, Regel 14 Absatz 3, Regel 15 Absatz 3, Regel 16 Absatz 3 und Regel 17 Absatz 2 anwendbaren Erfordernissen übereinstimmend.
 
-[^chapIV-lvlu7-1]: Siehe Beschluss der Versammlung des Lissabonner Verbands im Dokument LI/A/34/4.
+[^25-1]: Siehe Beschluss der Versammlung des Lissabonner Verbands im Dokument LI/A/34/4.

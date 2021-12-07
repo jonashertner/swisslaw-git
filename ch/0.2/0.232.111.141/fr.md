@@ -3,11 +3,11 @@ sr: "0.232.111.141"
 title: Règlement d’exécution commun du 2 octobre 2018 à l’Arrangement de Lisbonne concernant la protection des appellations d’origine et leur enregistrement international et à l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/744"
 language: fr
-version: 2021-12-01
+version: 2021-12-08
 adopted: 2018-10-02
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-744-20211201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20211208/fr/xml/fedlex-data-admin-ch-eli-cc-2021-744-20211208-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20211208/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Adopté par l’Assemblée de l’Union de Lisbonne le 2 octobre 2018 Entré en vigueur pour la Suisse le 1<sup>er</sup> décembre 2021
 
-(Etat le 1<sup>er</sup> décembre 2021)
+(État le 8 décembre 2021)
 
 ## Chapitre I Dispositions générales et liminaires
 
@@ -47,7 +47,7 @@ Adopté par l’Assemblée de l’Union de Lisbonne le 2 octobre 2018 Entré en 
 - ii) le terme «Partie contractante d’origine» est réputé inclure, le cas échéant, le terme «pays d’origine» utilisé dans l’Acte de 1967;
 - iii) le terme «publication» figurant à la règle 19 est réputé inclure, le cas échéant, une publication dans le recueil périodique visé à l’art. 5.2) de l’Acte de 1967, quel que soit le support utilisé pour sa publication.
 
-[^1-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/eli/cc/2021/743)
+[^1-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
 
 #### Règle 2
 
@@ -58,6 +58,16 @@ Adopté par l’Assemblée de l’Union de Lisbonne le 2 octobre 2018 Entré en 
 <sup>2.</sup> Tout délai exprimé en mois expire dans le mois subséquent le même jour que le jour de l’événement qui fait courir le délai; toutefois, si le mois subséquent à prendre en considération n’a pas de jour ayant le même quantième, le délai expire le dernier jour de ce mois.
 
 \3. Si un délai applicable au Bureau international ou à une administration compétente expire un jour non ouvrable pour le Bureau international ou pour une administration compétente, ce délai, nonobstant les al. 1) et 2), expire pour le Bureau international ou l’administration compétente, selon le cas, le premier jour ouvrable subséquent.
+
+#### Règle 2<sup>bis</sup>
+
+**Excuse de retard dans l’observation de délais**[^2bis-1]
+
+<sup>1.</sup> L’inobservation, par une administration compétente ou, dans le cas de l’art. 5.3) de l’Acte de Genève, par les bénéficiaires ou une personne physique ou morale visée à l’art. 5.2)ii) de cet Acte, du délai prescrit dans le règlement d’exécution pour l’accomplissement d’un acte devant le Bureau international est excusée si l’administration compétente ou, dans le cas de l’art. 5.3) de l’Acte de Genève, les bénéficiaires ou la personne physique ou morale visée à l’art. 5.2)ii) de cet Acte, apportent la preuve, d’une façon satisfaisante pour le Bureau international, que ce délai n’a pas été respecté pour raison de guerre, de révolution, de désordre civil, de grève, de calamité naturelle, de perturbations dans les services postaux, d’une entreprise d’acheminement du courrier ou de communication électronique dues à des circonstances indépendantes de la volonté de l’administration compétente ou, dans le cas de l’art. 5.3) de l’Acte de Genève, des bénéficiaires ou d’une personne physique ou morale visée à l’art. 5.2)ii) de cet acte ou pour une autre cause de force majeure.
+
+<sup>2.</sup> L’inobservation d’un délai n’est excusée en vertu de la présente règle que si la preuve et l’acte visés à l’alinéa 1) sont reçus par le Bureau international, et accomplis devant celui-ci, dès qu’il est raisonnablement possible de le faire et au plus tard six mois après l’expiration du délai applicable.
+
+[^2bis-1]: Introduite par la mod. adoptée par l’Assemblée de l’Union de Lisbonne le 8 déc. 2021, en vigueur depuis le 8 déc. 2021 ([RO 2026 328](https://fedlex.data.admin.ch/eli/oc/2026/328)).
 
 #### Règle 3
 
