@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-11-29
-valid_until: 2021-12-08
-version_adopted: 2021-11-26
+version: 2021-12-09
+valid_until: 2021-12-15
+version_adopted: 2021-12-08
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2426/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2427/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2426/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 29.11.2021)
+du 04.11.2020 (état au 09.12.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -61,15 +61,14 @@ arrête:
 
 - a nom et prénom,
 - b adresse complète,
-- c numéro de téléphone,
-- d …
-- e numéro de table ou de place.
+- c numéro de téléphone.
+- d–e …
 
 <sup>3</sup> En dérogation à l'article 11, alinéa 2 de l'ordonnance COVID-19 situation particulière, les coordonnées doivent être transmises spontanément à la base de données centrale au sens de l'article 3a.
 
 <sup>4</sup> La transmission au sens de l'alinéa 3 doit être automatique ou intervenir au moins une fois dans les 24 heures. Par ailleurs, la Direction de la santé, des affaires sociales et de l’intégration détermine la forme de la transmission.
 
-<sup>5</sup> L'obligation au titre de l'alinéa 3 ne s'applique pas à la collecte des coordonnées au sens de l'article 14a, alinéa 2 de l'ordonnance COVID-19 situation particulière.
+<sup>5</sup> L'obligation au titre de l'alinéa 3 ne s'applique pas à la collecte des coordonnées au sens de l'article 15, alinéa 2, lettre e et de l'article 20, lettre d, chiffre 3 de l'ordonnance COVID-19 situation particulière.
 
 #### Art. 3a
 
@@ -131,31 +130,7 @@ arrête:
 
 ### 2.2 Manifestations, marchés, foires spécialisées et foires tout public
 
-#### Art. 5a
-
-**Obligation de porter un masque**
-
-<sup>1</sup> Toute personne doit porter un masque facial lors de manifestations, de marchés, de foires spécialisées et de foires tout public, indépendamment du fait que l’accès soit limité aux personnes présentant un certificat.
-
-<sup>2</sup> Les personnes suivantes sont exemptées de l’obligation prévue à l’alinéa 1:
-
-- a les enfants de moins de 12 ans;
-- b les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales;
-- c les personnes qui se produisent devant un public, notamment les orateurs et les oratrices;
-- d les personnes qui pratiquent des activités sportives ou culturelles au sens de l’article 20 de l’ordonnance COVID-19 situation particulière;
-- e les personnes qui consomment des mets ou des boissons;
-- f les collaborateurs et collaboratrices sans contact avec la clientèle ou les visiteurs et visiteuses;
-- g les personnes participant à une manifestation privée.
-
-#### Art. 5b
-
-**Obligation de présenter un certificat en cas de consommation sur place**
-
-<sup>1</sup> Si, lors de manifestations, de marchés, de foires spécialisées et de foires tout public, des mets et des boissons sont proposés pour la consommation sur place, l’accès pour les personnes dès 16 ans aux secteurs intérieurs ou extérieurs pour la consommation doit être limité aux personnes disposant d’un certificat au sens de l’article 3 de l’ordonnance COVID-19 situation particulière.
-
-<sup>2</sup> Les personnes responsables sont tenues de délimiter les secteurs au sens de l’alinéa 1.
-
-#### Art. 6–8
+#### Art. 5a–8
 
 **…**
 
@@ -169,29 +144,13 @@ arrête:
 
 #### Art. 8e
 
-**Obligation de porter un masque**
-
-<sup>1</sup> Toute personne doit porter un masque facial dans les espaces accessibles au public des installations et des établissements, indépendamment du fait que l’accès soit limité aux personnes présentant un certificat.
-
-<sup>2</sup> Les personnes suivantes sont exemptées de l’obligation prévue à l’alinéa 1:
-
-- a les enfants de moins de 12 ans;
-- b les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales;
-- c les personnes faisant l’objet d’une prestation médicale ou cosmétique au visage;
-- d les personnes qui se produisent devant un public, notamment les orateurs et les oratrices;
-- e les personnes qui pratiquent des activités sportives ou culturelles au sens de l’article 20 de l’ordonnance COVID-19 situation particulière;
-- f les personnes qui consomment des mets ou des boissons;
-- g les collaborateurs et collaboratrices sans contact avec la clientèle ou les visiteurs et visiteuses.
-
-<sup>3</sup> L’obligation de porter un masque vaut aussi dans les espaces extérieurs des aires d’attente des transports publics et d’accès à ceux-ci. Les exceptions prévues à l’alinéa 3, lettres a et b s’appliquent de la même manière.
-
-<sup>4</sup> L’article 12a s’applique aux établissements de formation.
+**…**
 
 #### Art. 8f
 
 **Obligation de présenter un certificat**
 
-<sup>1</sup> Les installations et établissements suivants sont uniquement accessibles aux visiteurs et visiteuses dès 16 ans sur présentation d’un certificat:
+<sup>1</sup> Les installations et établissements suivants sont uniquement accessibles aux visiteurs et visiteuses dès 16 ans sur présentation d’un certificat au sens de l'article 3 de l'ordonnance COVID-19 situation particulière:
 
 - a hôpitaux,
 - b établissements médico-sociaux, foyers pour personnes handicapées, pour enfants et pour adolescents.
@@ -244,7 +203,23 @@ arrête:
 
 ### 2.7 Exécution judiciaire
 
-#### Art. 16b–16c
+#### Art. 16b
+
+**…**
+
+#### Art. 16b1
+
+**Obligation de porter un masque**
+
+<sup>1</sup> L'obligation de porter un masque s'applique dans tous les espaces clos des établissements d'exécution au sens des articles 6 à 10 et 13 de l'ordonnance du 22 août 2018 sur l'exécution judiciaire (ordonnance sur l'exécution judiciaire, OEJ)[^16b1-1], dès que plus d’une personne est présente dans un espace.
+
+<sup>2</sup> L'obligation de porter un masque ne s'applique pas aux personnes détenues qui restent dans leur propre cellule.
+
+<sup>3</sup> Les établissements d'exécution peuvent ordonner l'obligation de porter un masque dans les espaces extérieurs.
+
+[^16b1-1]: RSB [341.11](https://www.belex.sites.be.ch/data/341.11/fr)
+
+#### Art. 16c
 
 **…**
 
@@ -252,18 +227,15 @@ arrête:
 
 **Visites**
 
-<sup>1</sup> Les visites au sein des établissements d'exécution au sens des articles 6 à 10 et 13 de l'ordonnance du 22 août 2018 sur l'exécution judiciaire (ordonnance sur l'exécution judiciaire, OEJ)[^16d-1] sont admises sur présentation d'un certificat COVID valable au sens de l'ordonnance fédérale du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (ordonnance COVID-19 certificats)[^16d-2] ou dans le respect de mesures de protection, notamment vitres de séparation, masques d'hygiène et règles de distance.
+<sup>1</sup> Les visites au sein des établissements d'exécution ne sont admises que sur présentation d'un certificat, à l'exception des visites officielles.
 
-<sup>1a</sup> …
+<sup>1a–1b</sup> …
 
-<sup>1b</sup> Les visiteurs et les visiteuses qui disposent d'un certificat COVID peuvent renoncer aux mesures de protection.
+<sup>1c</sup> Les établissements d'exécution peuvent prévoir des mesures de protection supplémentaires telles que des vitres de séparation ou des règles de distance.
 
 <sup>2</sup> L'établissement d'exécution peut diminuer le contingent de visites découlant de l'article 68, alinéa 1 OEJ pour des raisons d'organisation.
 
 <sup>3</sup> Afin de compenser une diminution du contingent de visites, l'Office de l'exécution judiciaire prévoit des mesures de remplacement comme la visioconférence qui peuvent être comptabilisées dans le contingent de visites.
-
-[^16d-1]: RSB [341.11](https://www.belex.sites.be.ch/data/341.11/fr)
-[^16d-2]: RS [818.102.2](https://db.clex.ch/link/Bund/818.102.2/fr)
 
 #### Art. 16e
 
@@ -281,7 +253,7 @@ arrête:
 
 **Procédure à suivre après une sortie ou un congé**
 
-<sup>1</sup> Après leur retour au sein de l'établissement d'exécution, les personnes détenues sont soumises à un test de dépistage du coronavirus. Les personnes détenues qui disposent d'un certificat COVID au sens de l'ordonnance COVID-19 certificats sont dispensées de test de dépistage.
+<sup>1</sup> Après leur retour au sein de l'établissement d'exécution, les personnes détenues sont soumises à un test de dépistage du coronavirus.
 
 <sup>2</sup> Immédiatement après leur retour, elles peuvent être interrogées par le personnel au sujet des contacts qu'elles ont eu en dehors de l'établissement d'exécution.
 
@@ -310,9 +282,7 @@ arrête:
 
 #### Art. 16i
 
-**Obligation de porter un masque**
-
-<sup>1</sup> Les personnes travaillant dans les soins ambulatoires, notamment les employés et employées d’organisations d’aide et de soins à domicile, doivent porter un masque facial.
+**…**
 
 ## 3 Compétences et exécution
 
@@ -422,7 +392,9 @@ arrête:
 
 **Certificats COVID-19**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration est l'autorité cantonale compétente pour l'exécution de l'ordonnance COVID-19 certificats.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration est l'autorité cantonale compétente pour l'exécution de l'ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (ordonnance COVID-19 certificats)[^20d1-1]
+
+[^20d1-1]: RS [818.102.2](https://db.clex.ch/link/Bund/818.102.2/fr)
 
 ### 3.2 Communes
 
@@ -507,15 +479,13 @@ arrête:
 
 <sup>2b</sup> L'article 6a est valable jusqu'au 31 mai 2021.
 
-<sup>2c</sup> Les articles 3 à 5, 12a, 12b et 16d à 16h sont valables jusqu'au 24 janvier 2022.
+<sup>2c</sup> Les articles 3 à 5, 8f, 12a et 12b ainsi que 16b1 à 16h sont valables jusqu'au 24 janvier 2022.
 
 <sup>2d</sup> …
 
 <sup>2e</sup> L'article 20c2 est valable jusqu'au 30 juin 2021.
 
-<sup>2f</sup> Les articles 5a et 5b, 8e et 8f ainsi que 16i sont valables jusqu’au 23 décembre 2021.
-
-<sup>3–3a</sup> …
+<sup>2f–3a</sup> …
 
 #### Art. 29
 
