@@ -3,24 +3,24 @@ canton: OW
 number: "810.512"
 title: Ausführungsbestimmungen über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 language: de
-version: 2021-11-29
-valid_until: 2021-12-09
-version_adopted: 2021-11-23
+version: 2021-12-10
+valid_until: 2022-02-06
+version_adopted: 2021-12-07
 adopted: 2021-11-23
 in_force: 2021-11-29
 url: "http://gdb.ow.ch/app/de/texts_of_law/810.512"
-pdf: "http://gdb.ow.ch/api/de/versions/1540/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1570/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 
-vom 23.11.2021 (Stand 29.11.2021)
+vom 23.11.2021 (Stand 10.12.2021)
 
 Der Regierungsrat des Kantons Obwalden,
 
-in Ausführung von Artikel 40 des Epidemiengesetzes (EpG) vom 28. September 2021[^ingress-1] und Artikel 23 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^ingress-2],
+in Ausführung von Artikel 40 des Epidemiengesetzes (EpG) vom 28. September 2021[^ingress-1] und Artikel 2 und Artikel 23 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^ingress-2],
 
 gestützt auf Artikel 15 Buchstabe e des Gesundheitsgesetzes (GG) vom 3. Dezember 2015[^ingress-3] und Artikel 4 der Organisationsverordnung (OV) vom 7. September 1989[^ingress-4],
 
@@ -62,14 +62,34 @@ beschliesst:
 
 <sup>1</sup> Die Regelungen gemäss Art. 1 und 2 dieser Ausführungsbestimmungen gelten auch für Behinderteneinrichtungen. Das kantonale Sozialamt bzw. das Amt für Volks- und Mittelschulen kann die Regelungen mit Blick auf die Besonderheiten der Behinderteneinrichtungen im Einvernehmen mit dem Gesundheitsamt konkretisieren oder anpassen.
 
+#### Art. 3a
+
+**Bildungseinrichtungen a. Testen**
+
+<sup>1</sup> Bildungseinrichtungen sind verpflichtet für Lernende ab der 1. Primarschule (ausgenommen Basisstufe und Berufsfachschule) und für Lehrpersonen einmal pro Woche eine Teilnahme an den repetitiven Tests anzubieten.
+
+<sup>2</sup> Die Teilnahme an den Tests ist für die Lernenden und die Lehrpersonen freiwillig und kostenlos.
+
 #### Art. 4
 
-**Maskenpflicht an Bildungseinrichtungen**
+**b. Maskenpflicht**
 
-<sup>1</sup> Lernende und Lehrpersonen ab der Sekundarstufe I müssen in Innenräumen von Bildungseinrichtungen eine Gesichtsmaske tragen. Auf die Maskenpflicht kann mit Zustimmung des Gesundheitsamts verzichtet werden, sofern mindestens 80 Prozent aller Lernenden und Lehrpersonen der entsprechenden Stufe am Schulstandort am repetitiven Testen teilnehmen.
+<sup>1</sup> Lernende ab der 5. Klasse der Primarschule müssen in Innenräumen von Bildungseinrichtungen eine Gesichtsmaske tragen. Auf die Maskenpflicht kann mit Zustimmung des Gesundheitsamts verzichtet werden, sofern mindestens 80 Prozent aller Lernenden und Lehrpersonen der entsprechenden Stufe am Schulstandort am repetitiven Testen teilnehmen.
 
 <sup>2</sup> Ausgenommen sind Situationen, in denen das Tragen einer Maske den Unterricht wesentlich erschwert. Dies gilt insbesondere für Aktivitäten in den Bereichen Sport und Kultur. Die Bildungseinrichtung hat andere Massnahmen zu ergreifen, welche das Risiko zur Übertragung von Covid-19 reduzieren. Insbesondere sind im Musik- und Instrumentalunterricht genügende Abstände einzuhalten. Im Sportunterricht sind Kontaktsportarten verboten.
 
-<sup>3</sup> Von der Pflicht nach Absatz 1 ausgenommen sind Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können; für den Nachweis medizinischer Gründe gilt Art. 5 Abs. 1 Bst. b der Covid-19-Verordnung besondere Lage.
+<sup>2a</sup> Sämtliche Erwachsenen sind verpflichtet in Innenräumen von Bildungseinrichtungen eine Gesichtsmaske zu tragen.
+
+<sup>3</sup> Von der Pflicht nach Absatz 1 und 2a ausgenommen sind Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können; für den Nachweis medizinischer Gründe gilt Art. 5 Abs. 1 Bst. b der Covid-19-Verordnung besondere Lage.
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2021, 40
+
+Ursprüngliches Inkrafttreten: 29. November 2021
+
+geändert durch:
+
+\- Nachtrag vom 7. Dezember 2021, in Kraft seit 10. Dezember 2021 (OGS 2021, 51)
 
 OGS 2021, 40
