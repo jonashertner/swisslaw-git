@@ -4,13 +4,13 @@ number: "821.20"
 title: Verordnung über Massnahmen zur Bekämpfung der COVID-19-Epidemie
 short: COVID-19-Verordnung
 language: de
-version: 2021-12-02
-valid_until: 2021-12-09
-version_adopted: 2021-11-30
+version: 2021-12-10
+valid_until: 2021-12-23
+version_adopted: 2021-12-07
 adopted: 2021-06-01
 in_force: 2021-06-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/821.20"
-pdf: "https://bgs.zg.ch/api/de/versions/2280/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2291/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2280/pdf_file"
 
 (COVID-19-Verordnung)
 
-Vom 1. Juni 2021 (Stand 2. Dezember 2021)
+Vom 1. Juni 2021 (Stand 10. Dezember 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -61,17 +61,7 @@ beschliesst:
 
 #### § 3
 
-**Massnahmen in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben**
-
-<sup>1</sup> Jede Person muss in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben eine Gesichtsmaske tragen.
-
-<sup>2</sup> Diese Regelung gilt auch für Veranstaltungen, deren Zugang auf Personen mit einem Zertifikat beschränkt ist.
-
-<sup>3</sup> Von der Pflicht nach Abs. 1 ausgenommen sind folgende Personen:
-
-- a) Kinder vor ihrem 12. Geburtstag;
-- b) Personen, die sich in einem Restaurationsbetrieb zum Zweck der Konsumation an einem Tisch niedergelassen haben;
-- c) Personen, die aufgrund der Bestimmungen des Bundesrechts von der Maskentragepflicht ausgenommen sind. Abs. 2 ist vorbehalten.
+**…**
 
 #### § 4
 
