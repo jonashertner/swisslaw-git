@@ -3,18 +3,18 @@ sr: "916.443.102.1"
 title: Verordnung des BLV vom 15. Oktober 2021 über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union sowie Nordirland
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: de
-version: 2021-11-19
+version: 2021-12-10
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20211119/de/xml/fedlex-data-admin-ch-eli-cc-2021-615-20211119-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20211119/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20211210/de/xml/fedlex-data-admin-ch-eli-cc-2021-615-20211210-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20211210/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union
 
-vom 15. Oktober 2021 (Stand am 19. November 2021)
+vom 15. Oktober 2021 (Stand am 10. Dezember 2021)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -89,7 +89,7 @@ Anhang*[^t-1]*
 
 ## Betroffene Mitgliedstaaten und Sperrzonen
 
-[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 17. Nov. 2021, in Kraft seit 19. Nov. 2021 ([AS 2021 702](https://fedlex.data.admin.ch/eli/oc/2021/702)).
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 8. Dez. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 834](https://fedlex.data.admin.ch/eli/oc/2021/834)).
 
 ### 1 Sperrzonen in den betroffenen Mitgliedstaaten der EU
 
@@ -97,21 +97,31 @@ Die betroffenen Mitgliedstaaten der EU sowie die dort festgelegten Sperrzonen we
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsbeschluss (EU) 2021/641</td><td>Durchführungsbeschluss (EU) 2021/641 der Kommission vom 16. April 2021 betreffend Sofortmassnahmen im Zusammenhang mit Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 134 vom 20.4.2021, S. 166; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/1982, ABl. L 403 vom 15.11.2021, S. 1.</td></tr>
+<tr><td>Durchführungsbeschluss (EU) 2021/641</td><td>Durchführungsbeschluss (EU) 2021/641 der Kommission vom 16. April 2021 betreffend Sofortmassnahmen im Zusammenhang mit Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 134 vom 20.4.2021, S. 166; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/2100, ABl. L 428 vom 30.11.2021, S. 3.</td></tr>
 </table>
 
 ### 2 Betroffene Mitgliedstaaten der EU
 
 In folgenden Mitgliedstaaten der EU bestehen Sperrzonen:
 
+Bulgarien
+
 Dänemark
 
 Deutschland
 
-Estland
+Irland
 
 Italien
 
 Niederlande
 
+Österreich
+
 Polen
+
+Slowakei
+
+Tschechien
+
+Ungarn
