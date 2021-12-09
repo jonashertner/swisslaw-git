@@ -3,11 +3,11 @@ sr: "0.741.619.665"
 title: Accordo del 20 ottobre 2014 tra il Consiglio federale svizzero e il Governo della Federazione Russa relativo ai trasporti internazionali su strada
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/74"
 language: it
-version: 2015-02-21
+version: 2021-12-10
 adopted: 2014-10-20
 in_force: 2015-02-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/74/20150221/it/xml/fedlex-data-admin-ch-eli-cc-2015-74-20150221-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/74/20150221/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/74/20211210/it/xml/fedlex-data-admin-ch-eli-cc-2015-74-20211210-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/74/20211210/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/74/20150221/it"
 
 RU **2015** 523
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso il 20 ottobre 2014
+Concluso il 20 ottobre 2014 Entrato in vigore mediante scambio di note il 21 febbraio 2015
 
-Entrato in vigore mediante scambio di note il 21 febbraio 2015
-
-(Stato 21 febbraio 2015)
-
-[^t-1]: Dal testo originale francese.
+(Stato 10 dicembre 2021)
 
 Il Consiglio federale svizzero e il Governo della Federazione Russa,
 
@@ -48,19 +44,19 @@ Ai sensi del presente Accordo si intende:
 
   per «autorità competenti»:
 
-  - – in Svizzera, il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni, Ufficio federale dei trasporti e, per quanto riguarda il capoverso 1 dell’articolo 8 del presente Accordo, l’Ufficio federale delle strade,
-  - – nella Federazione Russa, il Ministero dei trasporti della Federazione Russa e, per quanto riguarda il controllo del rispetto delle norme della circolazione stradale previsto all’articolo 11 del presente Accordo, il Ministero dell’Interno della Federazione Russa.
+  - a) in Svizzera, il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni, Ufficio federale dei trasporti e, per quanto riguarda il paragrafo 1 dell’articolo 8 del presente Accordo, l’Ufficio federale delle strade,
+  - b) nella Federazione Russa, il Ministero dei trasporti della Federazione Russa e, per quanto riguarda il controllo del rispetto delle norme della circolazione stradale previsto all’articolo 11 del presente Accordo, il Ministero dell’Interno della Federazione Russa.
 
-- In caso di cambiamento di una delle autorità competenti, la Parte contraente oggetto del cambiamento lo notifica all’altra Parte contraente per via diplomatica;
+- In caso di cambiamento di una delle autorità competenti, la Parte contraente oggetto del cambiamento lo notifica all’altra Parte contraente per via diplomatica;[^2-1]
 - 2) per «trasportatore»: qualsiasi persona fisica o giuridica che, in Svizzera o nella Federazione Russa, è autorizzata a effettuare trasporti internazionali di persone o merci su strada conformemente alle disposizioni legali in vigore in Svizzera o nella Federazione Russa;
 - 3)
 
   per «veicolo»:
 
-  - – per i trasporti di merci, un autocarro, un autocarro con rimorchio, un veicolo trattore o un trattore con semirimorchio,
-  - – per i trasporti di persone, un autobus destinato al trasporto di persone con oltre nove posti a sedere, compreso quello del conducente, nonché se del caso un rimorchio per i bagagli.
+  - a) per i trasporti di merci, un autocarro, un autocarro con rimorchio, un veicolo trattore o un trattore con semirimorchio,
+  - b) per i trasporti di persone, un autobus destinato al trasporto di persone con oltre nove posti a sedere, compreso quello del conducente, nonché se del caso un rimorchio per i bagagli.
 
-- Il veicolo deve appartenere al trasportatore o quest’ultimo deve poterne disporre in virtù di un contratto di locazione o di leasin;
+- Il veicolo deve appartenere al trasportatore o quest’ultimo deve poterne disporre in virtù di un contratto di locazione o di leasing; [^2-2]
 - 4) per «trasporto regolare di persone»: il trasporto di persone con autobus effettuato con una certa frequenza, su un itinerario prestabilito e secondo un orario, tariffe e fermate per consentire la salita e la discesa dei passeggeri previamente definiti tra le autorità competenti delle Parti contraenti;
 - 5) per «trasporto occasionale di persone»: il trasporto di persone con autobus che non corrisponde alla definizione di «trasporto regolare di persone»;
 - 6) per «controllo sanitario»: il controllo sanitario, veterinario e fitosanitario;
@@ -69,8 +65,12 @@ Ai sensi del presente Accordo si intende:
 
   per «autorizzazione speciale»:
 
-  - – un’autorizzazione singola supplementare che permette ai veicoli del trasportatore domiciliato in una Parte contraente di effettuare corse di trasporto sul territorio dell’altra Parte contraente nei casi contemplati all’articolo 8 del presente Accordo,
-  - – un’autorizzazione singola che permette al trasportatore domiciliato in una Parte contraente di effettuare un trasporto di merci dal territorio dell’altra Parte contraente verso un Paese terzo o da un Paese terzo verso il territorio dell’altra Parte contraente.
+  - a) un documento che permette a un veicolo di un trasportatore domiciliato in una Parte contraente, che supera per dimensioni o peso i valori stabiliti dalla legislazione dell’altra Parte contraente o che trasporta merci pericolose, di effettuare corse di trasporto sul territorio dell’altra Parte contraente,
+  - b) un documento che permette al trasportatore domiciliato in una Parte contraente di effettuare un trasporto di merci dal territorio dell’altra Parte contraente verso un Paese terzo o da un Paese terzo verso il territorio dell’altra Parte contraente.[^2-3]
+
+[^2-1]: Nuovo testo giusta l’art. 1 par. 1 del Prot. del 15 ott. 2021, in vigore dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+[^2-2]: Nuovo testo giusta l’art. 1 par. 2 del Prot. del 15 ott. 2021, in vigore dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+[^2-3]: Nuovo testo giusta l’art. 1 par. 3 del Prot. del 15 ott. 2021, in vigore dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 ## II. Trasporto di persone
 
@@ -86,11 +86,19 @@ Per il tragitto situato sul territorio della Federazione Russa, i trasporti rego
 
 #### Art. 4
 
-<sup>1.</sup> I trasporti occasionali di persone sono effettuati sulla base di un’autorizzazione preliminare rilasciata dalle autorità competenti delle Parti contraenti per il tragitto situato sul rispettivo territorio nazionale.
+[^4-1]
 
-<sup>2.</sup> Per ciascun trasporto occasionale di persone viene rilasciata un’autorizzazione singola che autorizza ad effettuare un tragitto di andata e ritorno, a meno che l’autorizzazione non specifichi un numero di tragitti diverso.
+<sup>1.</sup> I trasporti occasionali di persone sono effettuati sulla base di autorizzazioni rilasciate dalle autorità competenti delle Parti contraenti per il tragitto situato sul rispettivo territorio nazionale.
 
-<sup>3.</sup> L’autorizzazione di cui al paragrafo 1 del presente articolo non è necessaria in caso di sostituzione di un autobus in avaria o danneggiato a seguito di un incidente con un altro autobus.
+<sup>2.</sup> Per ciascun trasporto occasionale di persone è rilasciata un’autorizzazione che permette di effettuare un solo tragitto di andata e ritorno, a meno che l’autorizzazione non specifichi un numero di tragitti diverso.
+
+<sup>3.</sup> Ogni anno le autorità competenti delle Parti contraenti si scambiano gratuitamente un numero concordato di autorizzazioni non compilate per il trasporto occasionale di persone. Le autorizzazioni devono essere provviste della firma della persona responsabile e del timbro dell’autorità competente. Le autorizzazioni rilasciate nel corso dell’anno civile sono valide fino al 31 gennaio dell’anno successivo.
+
+<sup>4.</sup> Le autorità competenti delle Parti contraenti coordinano la procedura per lo scambio delle autorizzazioni non compilate.
+
+<sup>5.</sup> L’autorizzazione di cui al paragrafo 1 del presente articolo non è necessaria in caso di sostituzione con un altro autobus di un autobus in avaria o danneggiato a seguito di un incidente.
+
+[^4-1]: Nuovo testo giusta l’art. 2 del Prot. del 15 ott. 2021, in vigore dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 5
 
@@ -104,49 +112,77 @@ Nei seguenti casi l’autorizzazione non è richiesta per i trasporti occasional
 
 <sup>2.</sup> Nell’ambito dei trasporti occasionali di cui al paragrafo 1 del presente articolo, il conducente dell’autobus dev’essere in possesso di un documento con l’elenco dei passeggeri, la cui forma è approvata dalla Commissione mista costituita conformemente all’articolo 17 del presente Accordo.
 
+#### Art. 5<sup>bis</sup>
+
+[^5bis-1]
+
+<sup>1.</sup> Al fine di garantire la sicurezza del trasporto, le informazioni sui passeggeri e sul personale (l’equipaggio) dei veicoli utilizzati dal trasportatore di una Parte contraente che effettuano trasporti regolari od occasionali di persone sul territorio dell’altra Parte contraente in virtù del presente Accordo sono trasmesse al sistema d’informazione appositamente concepito, se previsto dalla legislazione dell’altra Parte contraente.
+
+<sup>2.</sup>
+
+Le informazioni di cui al paragrafo 1 del presente articolo sono dati personali e contengono segnatamente:
+
+- 1) cognome, nome, patronimico;
+- 2) data di nascita;
+- 3) tipo e numero di documento d’identità della persona utilizzato per l’acquisto del biglietto;
+- 4) luogo di partenza, luogo di destinazione, tipo d’itinerario (diretto, in transito);
+- 5) data del viaggio;
+- 6) sesso;
+- 7) nazionalità;
+- 8) funzione in seno all’equipaggio (solo per i membri dell’equipaggio).
+
+<sup>3.</sup> Le informazioni riguardanti i dati personali devono essere trattate secondo il principio della buona fede e in modo conforme alla legge.
+
+<sup>4.</sup> I dati personali sui passeggeri e sull’equipaggio dei veicoli devono essere conservati in modo da consentire l’identificazione dell’interessato per il tempo necessario a conseguire le finalità per le quali sono stati rilevati o successivamente trattati, e non oltre.
+
+<sup>5.</sup> Possono essere trattati esclusivamente i dati personali che adempiono le finalità per le quali sono stati trattati. Il contenuto e il volume dei dati personali trattati devono essere conformi alle finalità di trattamento comunicate. I dati personali devono essere proporzionati rispetto alle finalità per le quali sono trattati. In fase di trattamento i dati personali devono essere corretti, pertinenti e, se del caso, adeguati rispetto alle finalità per le quali sono trattati. Conviene adottare le misure necessarie a garantire qualsiasi rettifica di dati incompleti o inesatti e di precisarne il senso.
+
+<sup>6.</sup> I dati personali possono essere comunicati solo alle autorità competenti abilitate a tale scopo conformemente alla legislazione nazionale delle Parti contraenti.
+
+<sup>7.</sup> Chiunque tratti dati personali conformemente al presente articolo deve adottare o garantire l’adozione delle misure giuridiche, organizzative e tecniche necessarie a proteggerli da accessi illegali o accidentali, distruzione, modifica, blocco, duplicazione, trasmissione, divulgazione nonché da qualsiasi azione illegale in materia di dati personali.
+
+<sup>8.</sup> Le persone che forniscono dati personali sono informate del fatto che i dati forniti saranno trasmessi, secondo il presente articolo, esclusivamente alle autorità competenti abilitate a tale scopo conformemente alla legislazione nazionale delle Parti contraenti, e sono altresì informate delle finalità di tale trasmissione dei dati.
+
+[^5bis-1]: Introdotto dall’art. 3 del Prot. del 15 ott. 2021, in vigore dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+
 ## III. Trasporto di merci
 
 #### Art. 6
 
-<sup>1.</sup> I trasporti di merci tra le Parti contraenti o in transito nei loro territori, esclusi quelli di cui all’articolo 7 del presente Accordo, sono effettuati sulla base delle autorizzazioni rilasciate dalle autorità competenti delle Parti contraenti.
+[^6-1]
 
-Per ogni trasporto di merci è rilasciata un’autorizzazione singola che autorizza a effettuare un trasporto di andata e ritorno, a meno che l’autorizzazione non disponga altrimenti. L’autorizzazione è necessaria anche per i veicoli che entrano vuoti nel territorio dell’altra Parte contraente.
+<sup>1.</sup> I trasporti di merci tra le Parti contraenti o in transito nei loro territori sono effettuati senza autorizzazioni.
 
-<sup>2.</sup> Un trasportatore domiciliato in una delle Parti contraenti può effettuare il trasporto di merci dal territorio dell’altra Parte contraente verso il territorio di un Paese terzo nonché dal territorio del Paese terzo verso il territorio dell’altra Parte contraente a condizione di essere in possesso di un’autorizzazione speciale di cui al secondo trattino del paragrafo 8 dell’articolo 2 del presente Accordo, rilasciata dall’autorità competente dell’altra Parte contraente.
+<sup>2.</sup> Un trasportatore domiciliato in una delle Parti contraenti può effettuare il trasporto di merci dal territorio dell’altra Parte contraente verso il territorio di un Paese terzo nonché dal territorio del Paese terzo verso il territorio dell’altra Parte contraente a condizione di essere in possesso di un’autorizzazione speciale di cui all’articolo 2 paragrafo 8 lettera b del presente Accordo, rilasciata dall’autorità competente dell’altra Parte contraente.
 
-<sup>3.</sup> Ogni anno le autorità competenti delle Parti contraenti si scambiano gratuitamente un numero concordato di autorizzazioni non compilate per il trasporto di merci. Le autorizzazioni devono essere provviste della firma della persona responsabile e del timbro dell’autorità competente. Le autorizzazioni rilasciate nel corso dell’anno civile sono valide fino al 31 gennaio dell’anno successivo.
+<sup>3.</sup> L’autorizzazione speciale di cui all’articolo 2 paragrafo 8 lettera b del presente Accordo permette di effettuare un solo tragitto di andata e ritorno.
 
-<sup>4.</sup> Le autorità competenti delle Parti contraenti coordinano la procedura per lo scambio delle autorizzazioni non compilate.
+<sup>4.</sup> Ogni anno le autorità competenti delle Parti contraenti si scambiano gratuitamente un numero concordato di autorizzazioni speciali non compilate di cui all’articolo 2 paragrafo 8 lettera b del presente Accordo. Le autorizzazioni speciali devono essere provviste della firma della persona responsabile e del timbro dell’autorità competente. Le autorizzazioni speciali rilasciate nel corso dell’anno civile sono valide fino al 31 gennaio dell’anno successivo.
+
+<sup>5.</sup> Le autorità competenti delle Parti contraenti coordinano la procedura per lo scambio delle autorizzazioni speciali non compilate di cui all’articolo 2 paragrafo 8 lettera b del presente Accordo.
+
+[^6-1]: Nuovo testo giusta l’art. 4 del Prot. del 15 ott. 2021, in vigore dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 7
 
-<sup>1.</sup>
+[^7-1]
 
-Non sono soggetti all’autorizzazione di cui all’articolo 6 del presente Accordo:
-
-- 1) i trasporti di merci con veicoli il cui peso totale massimo autorizzato, compreso il rimorchio, non supera 3,5 tonnellate;
-- 2) i trasporti di medicinali, strumenti e attrezzature mediche nonché di altri materiali necessari in caso di catastrofi naturali e di trasporto di aiuti umanitari;
-- 3) i trasporti di animali, di mezzi di trasporto, di materiali e di attrezzature destinati a manifestazioni sportive;
-- 4) i trasporti di oggetti, equipaggiamento e materiale destinati a fiere e a esposizioni;
-- 5) i trasporti di scenografie e di accessori di teatro, strumenti musicali, attrezzature e accessori per riprese cinematografiche e per la realizzazione di programmi radiofonici o televisivi;
-- 6) i trasporti funebri;
-- 7) i trasporti postali effettuati nell’ambito di un regime di servizio pubblico;
-- 8) i trasporti per i traslochi;
-- 9) i trasporti di veicoli guasti o danneggiati a seguito di un incidente.
-
-<sup>2.</sup> Non è richiesta l’autorizzazione di cui all'articolo 6 del presente Accordo per l’entrata di veicoli di assistenza tecnica impiegati per rimorchiare o riparare veicoli guasti o danneggiati in seguito a un incidente.
-
-<sup>3.</sup> Le eccezioni previste ai numeri 3, 4, 5 del paragrafo 1 del presente articolo sono applicate soltanto se le merci devono essere restituite nel territorio della Parte contraente in cui è immatricolato il veicolo o se le merci saranno trasportate nel territorio di un Paese terzo.
+[^7-1]: Abrogato dall’art. 5 del Prot. del 15 ott. 2021, con effetto dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 8
 
-<sup>1.</sup> Se le dimensioni e il peso di un veicolo (carico o no) che appartiene a un trasportatore proveniente da una Parte contraente superano i limiti stabiliti dalla legislazione dell’altra Parte contraente, il trasportatore deve ottenere previamente un’autorizzazione speciale rilasciata dall’autorità competente dell’altra Parte contraente sulla base della legislazione nazionale di quest’ultima.
+[^8-1]
 
-<sup>2.</sup> I trasporti di merci pericolose sul territorio delle Parti contraenti sono effettuati in conformità dell’Accordo europeo del 30 settembre 1957[^8-1] relativo al trasporto internazionale su strada delle merci pericolose e della legislazione nazionale che disciplina questi trasporti.
+<sup>1.</sup> Se le dimensioni e il peso di un veicolo (carico o no) che appartiene a un trasportatore proveniente da una Parte contraente superano i limiti stabiliti dalla legislazione dell’altra Parte contraente, il trasportatore deve ottenere previamente un’autorizzazione speciale di cui all’articolo 2 paragrafo 8 del presente Accordo[^8-2] sulla base della legislazione nazionale di quest’ultima.
+
+<sup>2.</sup> I trasporti di merci pericolose sul territorio delle Parti contraenti sono effettuati in conformità dell’Accordo europeo del 30 settembre 1957[^8-3] relativo al trasporto internazionale su strada delle merci pericolose e della legislazione nazionale che disciplina questi trasporti; quest’ultima può stabilire l’obbligo di ottenere un’autorizzazione speciale di cui all’articolo 2 paragrafo 8 del presente Accordo[^8-4].
 
 <sup>3.</sup> Per i trasporti di cui al paragrafo 1 del presente articolo le autorità competenti delle Parti contraenti possono prescrivere al veicolo un itinerario obbligatorio.
 
-[^8-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^8-1]: Nuovo testo giusta l’art. 6 del Prot. del 15 ott. 2021, in vigore dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+[^8-2]: Nuova espr. giusta l’art. 6 para. 1 del Prot. del 15 ott. 2021, in vigore dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+[^8-3]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^8-4]: Parte del periodo introdotto dall’art. 6 para. 2 del Prot. del 15 ott. 2021, in vigore dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 ## IV. Disposizioni generali
 
@@ -172,7 +208,9 @@ Un trasportatore domiciliato in una Parte contraente non è autorizzato a effett
 
 <sup>1.</sup> I trasportatori domiciliati nelle Parti contraenti che effettuano trasporti di persone o di merci in virtù del presente Accordo sono esentati su base reciproca da tasse, emolumenti e pagamenti correlati al possesso e all’uso del veicolo.
 
-<sup>2.</sup> I pedaggi e i diritti d’uso prescritti dalla legislazione nazionale delle Parti contraenti per l’utilizzo delle infrastrutture stradali quali strade, autostrade, ponti e gallerie situati sul territorio delle Parti contraenti possono essere riscossi su base non discriminatoria presso i trasportatori delle Parti contraenti.
+<sup>2.</sup> Conformemente alle pertinenti legislazioni nazionali delle Parti contraenti le tasse per l’utilizzo delle infrastrutture stradali quali strade, autostrade, ponti e gallerie situati sul territorio delle Parti contraenti, compresi i pagamenti previsti a titolo di risarcimento dei danni cagionati da veicoli all’infrastruttura stradale, possono essere riscossi su base non discriminatoria presso i trasportatori delle Parti contraenti.[^12-1]
+
+[^12-1]: Nuovo testo giusta l’art. 7 del Prot. del 15 ott. 2021, in vigore dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 13
 
@@ -204,13 +242,15 @@ Il trasporto di persone e di merci ai sensi del presente Accordo dev’essere pr
 
 In caso di violazione delle disposizioni del presente Accordo da parte del trasportatore, le autorità competenti della Parte contraente sul cui territorio è immatricolato il veicolo possono adottare, su richiesta delle autorità competenti dell’altra Parte contraente sul cui territorio è stata commessa la violazione, uno dei provvedimenti seguenti:
 
-- 1) avvertimento scritto al trasportatore con menzione che, in caso di recidiva, l’autorizzazione rilasciata sarà sospesa a titolo temporaneo o revocata definitivamente;
-- 2) sospensione temporanea o revoca definitiva dell’autorizzazione rilasciata;
-- 3) blocco del rilascio al trasportatore di nuove autorizzazioni per effettuare trasporti sul territorio dell’altra Parte contraente.
+- 1) avvertimento scritto al trasportatore;
+- 2) sospensione o revoca dell’autorizzazione o dell’autorizzazione speciale precedentemente rilasciata al trasportatore;
+- 3) blocco del rilascio al trasportatore di nuove autorizzazioni o di nuove autorizzazioni speciali per effettuare trasporti sul territorio dell’altra Parte contraente.[^16-1]
 
 <sup>3.</sup> I provvedimenti adottati devono essere notificati alle autorità competenti dell’altra Parte contraente.
 
 <sup>4.</sup> Le disposizioni del presente articolo non escludono l’applicazione, nei confronti del trasportatore o del conducente del veicolo immatricolato nell’altra Parte contraente, di sanzioni previste dalla legislazione della Parte contraente sul cui territorio è stata commessa l’infrazione.
+
+[^16-1]: Nuovo testo dei numeri 1) a 3) giusta l’art. 8 del Prot. del 15 ott. 2021, in vigore dal 10 dic. 2021 ([RU 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 ## V. Disposizioni finali
 
@@ -251,8 +291,7 @@ Conformemente al desiderio del Governo del Principato del Liechtenstein, le disp
 Fatto a Mosca il 20 ottobre 2014 in due esemplari, ciascuno in lingua francese e russa, i due testi facenti parimenti fede.
 
 <table>
-<tr><td>Per il Consiglio federale svizzero:</td><td>Per il Governo della Federazione Russa:</td></tr>
-<tr><td>Pierre Helg</td><td>Nikolay Asaul</td></tr>
+<tr><td>Per il Consiglio federale svizzero: Pierre Helg</td><td>Per il Governo della Federazione Russa: Nikolay Asaul</td></tr>
 </table>
 
 [^22-1]: [[RU 2001 487](https://fedlex.data.admin.ch/eli/oc/2001/96)]

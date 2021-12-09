@@ -3,11 +3,11 @@ sr: "0.741.619.665"
 title: Accord du 20 octobre 2014 entre le Conseil fédéral suisse et le Gouvernement de la Fédération de Russie relatif aux transports internationaux par route
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/74"
 language: fr
-version: 2015-02-21
+version: 2021-12-10
 adopted: 2014-10-20
 in_force: 2015-02-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/74/20150221/fr/xml/fedlex-data-admin-ch-eli-cc-2015-74-20150221-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/74/20150221/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/74/20211210/fr/xml/fedlex-data-admin-ch-eli-cc-2015-74-20211210-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/74/20211210/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,13 +22,13 @@ Conclu le 20 octobre 2014
 
 Entré en vigueur par échange de notes le 21 février 2015
 
-(Etat le 21 février 2015)
+(Etat le 10 décembre 2021)
 
 Le Conseil fédéral suisse et le Gouvernement de la Fédération de Russie,
 
 ci-après dénommés les Parties contractantes,
 
-désireux de développer et de faciliter, sur une base de réciprocité, les transports routiers de personnes et de marchandises entre les Etats des Parties contractantes ainsi qu’en transit par leur territoire,
+désireux de développer et de faciliter, sur une base de réciprocité, les transports routiers de personnes et de marchandises entre les États des Parties contractantes ainsi qu’en transit par leur territoire,
 
 sont convenus de ce qui suit:
 
@@ -36,7 +36,7 @@ sont convenus de ce qui suit:
 
 #### Art. 1
 
-Les dispositions du présent accord s’appliquent aux transports routiers internationaux de personnes et de marchandises effectués entre les Etats des Parties contractantes, en transit par leur territoire de même que vers ou au départ de pays tiers au moyen de véhicules immatriculés en Suisse ou dans la Fédération de Russie.
+Les dispositions du présent accord s’appliquent aux transports routiers internationaux de personnes et de marchandises effectués entre les États des Parties contractantes, en transit par leur territoire de même que vers ou au départ de pays tiers au moyen de véhicules immatriculés en Suisse ou dans la Fédération de Russie.
 
 #### Art. 2
 
@@ -46,49 +46,61 @@ Au sens du présent accord, on entend par:
 
   «autorités compétentes»:
 
-  - – en Suisse – le Département fédéral de l’environnement, des transports, de l’énergie et de la communication, Office fédéral des transports, et en ce qui concerne le par. 1 de l’art. 8 du présent accord – l’Office fédéral des routes;
-  - – dans la Fédération de Russie – le Ministère des Transports de la Fédération de Russie, et en ce qui concerne le contrôle du respect des règles de la circulation routière prévu par l’art. 11 du présent accord – le Ministère des Affaires intérieures de la Fédération de Russie.
+  - a) en Suisse – le Département fédéral de l’environnement, des transports, de l’énergie et de la communication, Office fédéral des transports, et en ce qui concerne le par. 1 de l’art. 8 du présent Accord – l’Office fédéral des routes;
+  - b) dans la Fédération de Russie – le Ministère des Transports de la Fédération de Russie, et en ce qui concerne le contrôle du respect des règles de la circulation routière prévu par l’art. 11 du présent Accord – le Ministère des Affaires intérieures de la Fédération de Russie.
 
-- En cas de changement de l’une des autorités compétentes, la Partie contractante qui a fait l’objet du changement le notifie à l’autre Partie contractante par voie diplomatique;
+- En cas de changement de l’une des autorités compétentes, la Partie contractante qui a fait l’objet du changement le notifie à l’autre Partie contractante par voie diplomatique;[^2-1]
 - 2) «transporteur»: toute personne physique ou morale qui, soit en Suisse soit dans la Fédération de Russie, est autorisée à effectuer des transports internationaux par route de personnes et de marchandises conformément aux dispositions légales en vigueur en Suisse ou dans la Fédération de Russie;
 - 3)
 
   «véhicule»:
 
-  - – pour le transport de marchandises – un camion, un camion avec remorque, un véhicule tracteur ou un véhicule tracteur avec une semi-remorque;
-  - – pour le transport de personnes – un autobus destiné au transport de personnes, comprenant plus de neuf places assises, celle du conducteur comprise, ainsi que, le cas échéant une remorque pour le transport des bagages.
+  - a) pour le transport de marchandises – un camion, un camion avec remorque, un véhicule tracteur ou un véhicule tracteur avec une semi-remorque;
+  - b) pour le transport de personnes – un autobus destiné au transport de personnes, comprenant plus de neuf places assises, celle du conducteur comprise, ainsi que, le cas échéant une remorque pour le transport des bagages.
 
-- Le véhicule doit être la propriété du transporteur ou celui-ci doit pouvoir en disposer en vertu d’un contrat de location ou de leasing;
-- 4) «transport régulier de personnes» – le transport de personnes par autobus effectué selon une certaine fréquence et sur la base d’un itinéraire, d’un horaire, de tarifs et d’arrêts pour l’embarquement et le débarquement des personnes concerté à l’avance entre les autorités compétentes des Etats des Parties contractantes;
+- Le véhicule doit être la propriété du transporteur ou celui-ci doit pouvoir en disposer en vertu d’un contrat de location ou de leasing;[^2-2]
+- 4) «transport régulier de personnes» – le transport de personnes par autobus effectué selon une certaine fréquence et sur la base d’un itinéraire, d’un horaire, de tarifs et d’arrêts pour l’embarquement et le débarquement des personnes concerté à l’avance entre les autorités compétentes des États des Parties contractantes;
 - 5) «transport occasionnel de personnes» – le transport de personnes par autobus dont la définition ne correspond pas à celle de «transport régulier de personnes»;
 - 6) «contrôle sanitaire» – un contrôle sanitaire, vétérinaire et phytosanitaire;
-- 7) «autorisation» – un document donnant aux véhicules immatriculés dans l’Etat de l’une des Parties contractantes le droit d’effectuer des courses de transport sur le territoire de l’Etat de l’autre Partie contractante;
+- 7) «autorisation» – un document donnant aux véhicules immatriculés dans l’État de l’une des Parties contractantes le droit d’effectuer des courses de transport sur le territoire de l’État de l’autre Partie contractante;
 - 8)
 
   «autorisation spéciale»:
 
-  - – une autorisation unique supplémentaire qui permet aux véhicules appartenant au transporteur domicilié dans l’Etat d’une Partie contractante d’effectuer des courses de transport sur le territoire de l’Etat de l’autre Partie contractante dans les cas prévus à l’art. 8 du présent accord;
-  - – une autorisation unique qui permet au transporteur domicilié dans l’Etat d’une Partie contractante d’effectuer un transport de marchandises au départ du territoire de l’Etat de l’autre Partie contractante vers un pays tiers ou en provenance d’un pays tiers vers le territoire de l’Etat de l’autre Partie contractante.
+  - a) un document qui permet à un véhicule appartenant à un transporteur domicilié dans l’État d’une Partie contractante et dont les dimensions ou le poids du véhicule dépassent les normes établies par la législation de l’ État de l’autre Partie contractante ou qui transporte des marchandises dangereuses d’effectuer des courses de transport sur le territoire de l’État de l’autre Partie contractante;
+  - b) un document qui permet au transporteur domicilié dans l’État d’une Partie contractante d’effectuer un transport de marchandises au départ du territoire de l’État de l’autre Partie contractante vers un pays tiers ou en provenance d’un pays tiers vers le territoire de l’État de l’autre Partie contractante.[^2-3]
+
+[^2-1]: Nouvelle teneur selon l’art. 1 par. 1 du Prot. du 15 oct. 2021, en vigueur depuis le 10 déc. 2021 ([RO 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+[^2-2]: Nouvelle teneur selon l’art. 1 par. 2 du Prot. du 15 oct. 2021, en vigueur depuis le 10 déc. 2021 ([RO 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+[^2-3]: Nouvelle teneur selon l’art. 1 par. 3 du Prot. du 15 oct. 2021, en vigueur depuis le 10 déc. 2021 ([RO 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 ## II. Transport de personnes
 
 #### Art. 3
 
-<sup>1.</sup> Les autorités compétentes des Etats des Parties contractantes s’accordent, sur la base du principe de réciprocité, sur l’exécution des transports réguliers de personnes effectués sur le tronçon de route situé sur leur territoire respectif.
+<sup>1.</sup> Les autorités compétentes des États des Parties contractantes s’accordent, sur la base du principe de réciprocité, sur l’exécution des transports réguliers de personnes effectués sur le tronçon de route situé sur leur territoire respectif.
 
-<sup>2.</sup> Pour le tronçon situé sur territoire suisse, les transports réguliers de personnes sont effectués par les transporteurs des Etats des Parties contractantes sur la base d’une autorisation délivrée par l’autorité compétente suisse.
+<sup>2.</sup> Pour le tronçon situé sur territoire suisse, les transports réguliers de personnes sont effectués par les transporteurs des États des Parties contractantes sur la base d’une autorisation délivrée par l’autorité compétente suisse.
 
-Pour le tronçon situé sur le territoire de la Fédération de Russie, les transports réguliers de personnes sont effectués par les transporteurs des Etats des Parties contractantes sur la base d’un consentement écrit de l’autorité compétente de la Fédération de Russie.
+Pour le tronçon situé sur le territoire de la Fédération de Russie, les transports réguliers de personnes sont effectués par les transporteurs des États des Parties contractantes sur la base d’un consentement écrit de l’autorité compétente de la Fédération de Russie.
 
-<sup>3.</sup> Les requêtes relatives à l’organisation et à l’exécution des transports réguliers de personnes doivent être transmises par les autorités compétentes des Etats des Parties contractantes et contenir des informations sur le nom du transporteur, l’itinéraire, l’horaire, les tarifs et les arrêts où le transporteur effectuera l’embarquement et le débarquement des personnes, ainsi que des informations sur la période d’exploitation et la fréquence du transport.
+<sup>3.</sup> Les requêtes relatives à l’organisation et à l’exécution des transports réguliers de personnes doivent être transmises par les autorités compétentes des États des Parties contractantes et contenir des informations sur le nom du transporteur, l’itinéraire, l’horaire, les tarifs et les arrêts où le transporteur effectuera l’embarquement et le débarquement des personnes, ainsi que des informations sur la période d’exploitation et la fréquence du transport.
 
 #### Art. 4
 
-<sup>1.</sup> Les transports occasionnels de personnes s’effectuent sur la base d’une autorisation préalable délivrée par les autorités compétentes des Etats des Parties contractantes pour le tronçon du trajet situé sur le territoire de leurs pays.
+[^4-1]
 
-<sup>2.</sup> Pour chaque transport occasionnel de personnes, il est délivré une autorisation unique donnant le droit d’effectuer un trajet aller et retour, à moins qu’un autre nombre de trajets soit spécifié dans l’autorisation même.
+<sup>1.</sup> Les transports occasionnels de personnes s’effectuent sur la base des autorisations délivrées par les autorités compétentes des États des Parties contractantes pour le tronçon du trajet situé sur le territoire de leurs pays.
 
-<sup>3.</sup> L’autorisation mentionnée au par. 1 du présent article n’est pas nécessaire pour remplacer un autobus accidenté ou tombé en panne par un autre autobus.
+<sup>2.</sup> Pour chaque transport occasionnel de personnes, il est délivré une autorisation donnant le droit d’effectuer un seul trajet aller et retour, à moins qu’un autre nombre de trajets soit spécifié dans l’autorisation même.
+
+<sup>3.</sup> Les autorités compétentes des États des Parties contractantes se remettent chaque année gratuitement le nombre convenu d’autorisations en blanc délivrées pour le transport occasionnel de personnes. Les autorisations doivent être revêtues de la signature de la personne responsable et du sceau de l’autorité compétente. Les autorisations délivrées au cours de l’année civile sont valables jusqu’au 31 janvier de l’année suivante.
+
+<sup>4.</sup> Les autorités compétentes des États des Parties contractantes coordonnent entre elles la procédure d’échange d’autorisations en blanc.
+
+<sup>5.</sup> L’autorisation mentionnée au par. 1 du présent article n’est pas nécessaire pour remplacer un autobus accidenté ou tombé en panne par un autre autobus.
+
+[^4-1]: Nouvelle teneur selon l’art. 2 du Prot. du 15 oct. 2021, en vigueur depuis le 10 déc. 2021 ([RO 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 5
 
@@ -96,79 +108,108 @@ Pour le tronçon situé sur le territoire de la Fédération de Russie, les tran
 
 Les autorisations ne sont pas exigées pour les transports occasionnels de personnes par autobus, si le même groupe de passagers est transporté dans le même autobus, dans les cas suivants:
 
-- 1) lors d’un circuit à portes fermées, dont le point de départ et de retour est situé sur le territoire de l’Etat de la Partie contractante où l’autobus est immatriculé;
-- 2) lors d’un voyage commençant sur le territoire de l’Etat de la Partie contractante où l’autobus est immatriculé et se terminant sur le territoire de l’Etat de l’autre Partie contractante, l’autobus quittant à vide ce territoire;
-- 3) l’autobus entre sur le territoire de l’Etat de l’autre Partie contractante à vide afin de récupérer le groupe de passagers amené antérieurement par ce transporteur.
+- 1) lors d’un circuit à portes fermées, dont le point de départ et de retour est situé sur le territoire de l’État de la Partie contractante où l’autobus est immatriculé;
+- 2) lors d’un voyage commençant sur le territoire de l’État de la Partie contractante où l’autobus est immatriculé et se terminant sur le territoire de l’État de l’autre Partie contractante, l’autobus quittant à vide ce territoire;
+- 3) l’autobus entre sur le territoire de l’État de l’autre Partie contractante à vide afin de récupérer le groupe de passagers amené antérieurement par ce transporteur.
 
 <sup>2.</sup> Dans le cas de l’exécution des transports occasionnels prévus au par. 1 du présent article, le conducteur doit être en possession d’un document comprenant la liste des passagers dont la forme est agréée par la Commission mixte établie conformément à l’art. 17 du présent accord.
+
+#### Art. 5<sup>bis</sup>
+
+[^5bis-1]
+
+<sup>1.</sup> Dans le but de garantir la sécurité du transport, les informations sur les passagers et sur le personnel (l’équipage) des véhicules utilisés par le transporteur de l’État d’une Partie contractante effectuant des transports réguliers ou occasionnels de personnes sur le territoire de l’État de l’autre Partie contractante en vertu du présent Accord sont transmises au système d’information mis en place en la matière, si cela est prévu par la législation de l’État de l’autre Partie contractante.
+
+<sup>2.</sup>
+
+Les données visées au paragraphe 1 du présent article sont de nature personnelle et contiennent les informations suivantes:
+
+- 1) nom, prénom, patronyme;
+- 2) date de naissance;
+- 3) type et numéro du document d’identité de la personne utilisé pour l’achat du billet;
+- 4) point de départ, point de destination, type d’itinéraire (direct, transit);
+- 5) date du voyage;
+- 6) sexe;
+- 7) nationalité;
+- 8) fonction dans l’équipage du véhicule (seulement pour les membres d’équipage).
+
+<sup>3.</sup> Les informations concernant les données à caractère personnel doivent être traitée loyalement et licitement.
+
+<sup>4.</sup> Les données à caractère personnel sur les passagers et sur le personnel (l’équipage) des véhicules doivent être conservées sous une forme permettant l’identification du sujet des données à caractère personnel pendant une durée n’excédant pas celle nécessaire à la réalisation des finalités pour lesquelles elles ont été collectées ou pour lesquelles elles sont traitées ultérieurement.
+
+<sup>5.</sup> Ne peuvent être traitées que les données à caractère personnel qui satisfont aux finalités pour lesquelles elles sont traitées. Le contenu et le volume des données personnelles traitées doivent être conformes aux objectifs de traitement énoncés. Les données à caractère personnel ne doivent pas être excessives au regard des finalités pour lesquelles elles sont traitées. Durant leur traitement, les données à caractère personnel doivent être exactes, pertinentes et le cas échéant, adéquates au regard des finalités pour lesquelles elles sont traitées. Il convient de prendre les mesures nécessaires afin d’assurer toute rectification des données incomplètes ou inexactes et d’en préciser le sens.
+
+<sup>6.</sup> Les données personnelles ne peuvent être transmises qu’aux autorités compétentes dûment habilitées conformément aux lois des États des Parties contractantes.
+
+<sup>7.</sup> Les personnes qui traitent des données personnelles conformément à cet article doivent prendre les mesures juridiques, organisationnelles et techniques nécessaires ou assurer leur adoption pour protéger les données personnelles contre tout accès illégal ou accidentel à celles-ci, la destruction, la modification, le blocage, la copie, la fourniture, la distribution de données personnelles, ainsi que toute autre action illégale concernant les données personnelles.
+
+<sup>8.</sup> Les personnes qui transmettent des données personnelles sont informées que les données spécifiées ne seront transférées conformément au présent article qu’aux autorités compétentes dûment habilitées conformément aux lois des États des Parties contractantes, et sont également informées des finalités de ce transfert de données.
+
+[^5bis-1]: Introduit par l’art. 3 du Prot. du 15 oct. 2021, en vigueur depuis le 10 déc. 2021 ([RO 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 ## III. Transport de marchandises
 
 #### Art. 6
 
-<sup>1.</sup> Le transport de marchandises entre les Etats des Parties contractantes ou en transit par leurs territoires, est effectué sur la base des autorisations délivrées par les autorités compétentes des Etats des Parties contractantes, à l’exception des transports mentionnés à l’art. 7 du présent accord.
+[^6-1]
 
-Une autorisation unique est délivrée pour chaque transport de marchandises, donnant droit à effectuer un transport aller et retour à moins que l’autorisation n’en dispose autrement. L’autorisation est également nécessaire pour le véhicule entrant à vide dans le territoire de l’Etat de l’autre Partie contractante.
+<sup>1.</sup> Le transport de marchandises entre les États des Parties contractantes ou en transit par leurs territoires est effectué sans autorisations.
 
-<sup>2.</sup> Un transporteur domicilié dans l’Etat d’une des Parties contractantes peut effectuer le transport de marchandises du territoire de l’Etat de l’autre Partie contractante vers le territoire d’un Etat tiers ainsi que du territoire de l’Etat tiers vers le territoire de l’Etat de l’autre Partie contractante à condition de posséder une autorisation spéciale conformément au deuxième tiret du par. 8 de l’art. 2 du présent accord délivrée par les autorités compétentes de l’Etat de l’autre Partie contractante.
+<sup>2.</sup> Un transporteur domicilié dans l’État d’une des Parties contractantes peut effectuer le transport de marchandises du territoire de l’État de l’autre Partie contractante vers le territoire d’un État tiers ainsi que du territoire de l’État tiers vers le territoire de l’État de l’autre Partie contractante à condition de posséder une autorisation spéciale conformément à la lettre b du ch. 8 de l’art. 2 du présent Accord délivrée par les autorités compétentes de l’État de l’autre Partie contractante.
 
-<sup>3.</sup> Les autorités compétentes des Etats des Parties contractantes se remettent chaque année gratuitement le nombre convenu d’autorisations en blanc délivrées pour le transport de marchandises. Les autorisations doivent être revêtues de la signature de la personne responsable et du sceau de l’autorité compétente. Les autorisations délivrées au cours de l’année civile sont valables jusqu’au 31 janvier de l’année suivante.
+<sup>3.</sup> L’autorisation spéciale conformément à la lettre b du ch. 8 de l’art. 2 du présent Accord donne le droit d’effectuer un seul trajet aller et retour.
 
-<sup>4.</sup> Les autorités compétentes des Etats des Parties contractantes coordonnent entre elles la procédure d’échange d’autorisations en blanc.
+<sup>4.</sup> Les autorités compétentes des États des Parties contractantes se remettent chaque année gratuitement le nombre convenu d’autorisations spéciales en blanc conformément à la lettre b du ch. 8 de l’art. 2 du présent Accord. Les autorisations spéciales doivent être revêtues de la signature de la personne responsable et du sceau de l’autorité compétente. Les autorisations spéciales délivrées au cours de l’année civile sont valables jusqu’au 31 janvier de l’année suivante.
+
+<sup>5.</sup> Les autorités compétentes des États des Parties contractantes coordonnent entre elles la procédure d’échange d’autorisations spéciales en blanc conformément à la lettre b du ch. 8 de l’art. 2 du présent Accord.
+
+[^6-1]: Nouvelle teneur selon l’art. 4 du Prot. du 15 oct. 2021, en vigueur depuis le 10 déc. 2021 ([RO 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 7
 
-<sup>1.</sup> Sont exempts de l’autorisation mentionnée à l’art. 6 du présent accord:
+[^7-1]
 
-- 1) les transports de marchandises par des véhicules dont le poids total autorisé en charge, y compris la remorque, ne dépasse pas 3,5 tonnes;
-- 2) les transports de médicaments, d’instruments et d’équipements médicaux, ainsi que d’autres marchandises nécessaires en cas de catastrophes naturelles et de transport d’aide humanitaire;
-- 3) les transports d’animaux, de moyens de transport, de matériel et d’équipement destinés à des manifestations sportives;
-- 4) les transports d’objets d’exposition, d’équipement et de matériel destinés à des foires et des expositions;
-- 5) les transports de décors et d’accessoires de théâtre, d’instruments de musique, d’équipements et d’accessoires pour le tournage de films, des émissions de radio et de télévision;
-- 6) les transports funéraires;
-- 7) les transports postaux qui sont effectués dans le cadre d’un régime de service public;
-- 8) les transports de déménagement;
-- 9) les transports de véhicules défectueux ou accidentés.
-
-<sup>2.</sup> Les autorisations mentionnées à l’art. 6 du présent accord ne sont pas non plus requises pour les entrées de véhicules d’assistance technique destinés au remorquage ou au dépannage de véhicules en panne ou accidentés.
-
-<sup>3.</sup> Les exceptions prévues aux ch. 3, 4, 5 du par. 1 du présent article sont appliquées uniquement si les marchandises doivent être retournées dans le territoire de l’Etat de la Partie contractante où le véhicule est immatriculé, ou si les marchandises seront transportées dans le territoire d’un pays tiers.
+[^7-1]: Abrogé par l’art. 5 du Prot. du 15 oct. 2021, avec effet au 10 déc. 2021 ([RO 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 8
 
-<sup>1.</sup> Si les dimensions et le poids du véhicule (chargé ou non) appartenant au transporteur provenant de l’Etat d’une Partie contractante dépassent les normes établies par la législation de l’Etat de l’autre Partie contractante, le transporteur doit se procurer préalablement une autorisation spéciale délivrée par l’autorité compétente de l’Etat de l’autre Partie contractante sur la base des conditions prévues par la législation de celui-ci.
+<sup>1.</sup> Si les dimensions et le poids du véhicule (chargé ou non) appartenant au transporteur provenant de l’État d’une Partie contractante dépassent les normes établies par la législation de l’État de l’autre Partie contractante, le transporteur doit se procurer préalablement une autorisation spéciale mentionnée à la lettre a du ch. 8 de l’art. 2 du présent Accord[^8-1] sur la base des conditions prévues par la législation de celui-ci.
 
-<sup>2.</sup> Les transports de marchandises dangereuses sur le territoire des Etats des Parties contractantes sont effectués conformément à l’accord européen du 30 septembre 1957 relatif au transport international de marchandises dangereuses par route[^8-1] ainsi qu’à la législation des Etats des Parties contractantes gouvernant de tels transports.
+<sup>2.</sup> Les transports de marchandises dangereuses sur le territoire des États des Parties contractantes sont effectués conformément à l’accord européen du 30 septembre 1957 relatif au transport international de marchandises dangereuses par route[^8-2] ainsi qu’à la législation des États des Parties contractantes gouvernant de tels transports, laquelle peut stipuler l’obligation d’obtenir une autorisation spéciale mentionnée à la lettre a du ch. 8 de l’art. 2 du présent Accord[^8-3].
 
-<sup>3.</sup> Pour les transports mentionnés au par. 1 du présent article, les autorités compétentes des Etats des Parties contractantes peuvent prescrire au véhicule un itinéraire obligatoire.
+<sup>3.</sup> Pour les transports mentionnés au par. 1 du présent article, les autorités compétentes des États des Parties contractantes peuvent prescrire au véhicule un itinéraire obligatoire.
 
-[^8-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^8-1]: Nouveaux mots selon l’art. 6 par. 1 du Prot. du 15 oct. 2021, en vigueur depuis le 10 déc. 2021 ([RO 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+[^8-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^8-3]: Nouveaux mots introduits par l’art. 6 par. 2 du Prot. du 15 oct. 2021, en vigueur depuis le 10 déc. 2021 ([RO 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 ## IV. Dispositions générales
 
 #### Art. 9
 
-<sup>1.</sup> Le véhicule qui est immatriculé dans un des Etats des Parties contractantes et effectue un transport international en vertu du présent accord doit être doté des plaques d’immatriculation et des signes distinctifs de son propre Etat.
+<sup>1.</sup> Le véhicule qui est immatriculé dans un des États des Parties contractantes et effectue un transport international en vertu du présent accord doit être doté des plaques d’immatriculation et des signes distinctifs de son propre État.
 
-<sup>2.</sup> Les remorques et semi-remorques peuvent porter des plaques d’immatriculation et des signes distinctifs d’autres Etats à condition que les camions, les véhicules tracteurs et les autobus portent des plaques d’immatriculation et des signes distinctifs des Etats des Parties contractantes.
+<sup>2.</sup> Les remorques et semi-remorques peuvent porter des plaques d’immatriculation et des signes distinctifs d’autres États à condition que les camions, les véhicules tracteurs et les autobus portent des plaques d’immatriculation et des signes distinctifs des États des Parties contractantes.
 
 #### Art. 10
 
-Le transporteur domicilié dans l’Etat d’une Partie contractante n’est pas autorisé à effectuer des transports de personnes ou de marchandises entre deux points situés sur le territoire de l’Etat de l’autre Partie contractante.
+Le transporteur domicilié dans l’État d’une Partie contractante n’est pas autorisé à effectuer des transports de personnes ou de marchandises entre deux points situés sur le territoire de l’État de l’autre Partie contractante.
 
 #### Art. 11
 
 <sup>1.</sup> Le conducteur du véhicule doit être titulaire d’un permis de conduire national ou international (à condition qu’il soit accompagné par le permis de conduire national approprié) et être en possession des papiers d’immatriculation du véhicule, conformes aux exigences de la Convention du 8 novembre 1968 sur la circulation routière[^11-1].
 
-<sup>2.</sup> L’autorisation de transport et les autres documents requis en vertu des dispositions du présent accord doivent se trouver à bord du véhicule concerné et être présentés à la demande des autorités compétentes des Etats des Parties contractantes habilitées à effectuer le contrôle du transport routier.
+<sup>2.</sup> L’autorisation de transport et les autres documents requis en vertu des dispositions du présent accord doivent se trouver à bord du véhicule concerné et être présentés à la demande des autorités compétentes des États des Parties contractantes habilitées à effectuer le contrôle du transport routier.
 
 [^11-1]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
 
 #### Art. 12
 
-<sup>1.</sup> Les transporteurs domiciliés dans les Etats des Parties contractantes effectuant des transports de personnes ou de marchandises dans le cadre du présent accord sont exemptés, sur une base de réciprocité, de taxes, émoluments et paiements liés à la possession et à l’usage du véhicule.
+<sup>1.</sup> Les transporteurs domiciliés dans les États des Parties contractantes effectuant des transports de personnes ou de marchandises dans le cadre du présent accord sont exemptés, sur une base de réciprocité, de taxes, émoluments et paiements liés à la possession et à l’usage du véhicule.
 
-<sup>2.</sup> Les péages et droits d’usage prescrits par la législation nationale des Etats des Parties contractantes pour l’utilisation de l’infrastructure routière tels que les routes, autoroutes, ponts et tunnels situés sur le territoire des Etats des Parties contractantes, peuvent être prélevés sur une base non-discriminatoire auprès des transporteurs des Etats des Parties contractantes.
+<sup>2.</sup> En accord avec la législation nationale des États des Parties contractantes, les redevances d’usage pour l’utilisation de l’infrastructure routière tels que les routes, autoroutes, ponts et tunnels situés sur le territoire des États des Parties contractantes, y compris les paiements prévus à titre de réparation des dommages causés à l’infrastructure routière par des véhicules, peuvent être prélevées sur une base non-discriminatoire auprès des transporteurs des États des Parties contractantes.[^12-1]
+
+[^12-1]: Nouvelle teneur selon l’art. 7 du Prot. du 15 oct. 2021, en vigueur depuis le 10 déc. 2021 ([RO 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 13
 
@@ -180,11 +221,11 @@ Le transporteur est exempté, sur une base de réciprocité, de droits et de tax
 - 2) les lubrifiants en quantité nécessaire à l’exploitation du véhicule durant le transport;
 - 3) les pièces de rechange et outils destinés à la réparation du véhicule en cas de panne ou d’accident survenant pendant le transport international.
 
-<sup>2.</sup> Les outils et pièces de rechange visés au ch. 3 du par. 1 du présent article qui ne sont pas utilisés sont soumis à la réexportation. Les pièces de rechange qui ont été remplacées seront réexportées ou soumises à la procédure de destruction ou à toute autre procédure prévue par la législation douanière de l’Etat de la Partie contractante sur le territoire duquel la réparation a eu lieu.
+<sup>2.</sup> Les outils et pièces de rechange visés au ch. 3 du par. 1 du présent article qui ne sont pas utilisés sont soumis à la réexportation. Les pièces de rechange qui ont été remplacées seront réexportées ou soumises à la procédure de destruction ou à toute autre procédure prévue par la législation douanière de l’État de la Partie contractante sur le territoire duquel la réparation a eu lieu.
 
 #### Art. 14
 
-<sup>1.</sup> Les contrôles frontalier, douanier, de transport et sanitaire doivent être effectués conformément aux accords internationaux auxquels la Suisse et la Fédération de Russie ont adhéré. Les questions non prévues par ces accords sont réglées par la législation de l’Etat sur le territoire duquel ledit contrôle est effectué.
+<sup>1.</sup> Les contrôles frontalier, douanier, de transport et sanitaire doivent être effectués conformément aux accords internationaux auxquels la Suisse et la Fédération de Russie ont adhéré. Les questions non prévues par ces accords sont réglées par la législation de l’État sur le territoire duquel ledit contrôle est effectué.
 
 <sup>2.</sup> Les contrôles frontalier, douanier, de transport et sanitaire sont effectués en priorité en ce qui concerne le transport des personnes nécessitant une assistance médicale urgente, le transport régulier de personnes et le transport d’animaux, de denrées périssables et de marchandises dangereuses.
 
@@ -194,19 +235,21 @@ Le transport de personnes et de marchandises prévu par le présent accord doit 
 
 #### Art. 16
 
-<sup>1.</sup> Les transporteurs et les conducteurs de véhicules immatriculés dans les Etats des Parties contractantes sont tenus de respecter les règles de la circulation routière et la législation de l’Etat sur le territoire duquel se trouve le véhicule.
+<sup>1.</sup> Les transporteurs et les conducteurs de véhicules immatriculés dans les États des Parties contractantes sont tenus de respecter les règles de la circulation routière et la législation de l’État sur le territoire duquel se trouve le véhicule.
 
 <sup>2.</sup>
 
-En cas de violation des dispositions du présent accord par le transporteur, les autorités compétentes de l’Etat d’une Partie contractante sur le territoire duquel le véhicule est immatriculé, peuvent prendre, à la demande des autorités compétentes de l’Etat de l’autre Partie contractante sur le territoire duquel la violation a été commise, l’une des mesures suivantes:
+En cas de violation des dispositions du présent accord par le transporteur, les autorités compétentes de l’État d’une Partie contractante sur le territoire duquel le véhicule est immatriculé, peuvent prendre, à la demande des autorités compétentes de l’État de l’autre Partie contractante sur le territoire duquel la violation a été commise, l’une des mesures suivantes:
 
-- 1) donner au transporteur un avertissement écrit selon lequel, en cas d’infraction répétée, l’autorisation qui lui a été délivrée antérieurement sera temporairement suspendue ou définitivement annulée;
-- 2) suspendre temporairement ou annuler définitivement l’autorisation délivrée antérieurement;
-- 3) cesser de délivrer au transporteur de nouvelles autorisations permettant d’effectuer des courses de transport sur le territoire de l’Etat de l’autre Partie contractante.
+- 1) donner au transporteur un avertissement écrit;
+- 2) suspendre ou annuler l’autorisation ou l’autorisation spéciale délivrée antérieurement au transporteur;
+- 3) cesser de délivrer au transporteur de nouvelles autorisations ou autorisations spéciales permettant d’effectuer des courses de transport sur le territoire de l’État de l’autre Partie contractante.[^16-1]
 
-<sup>3.</sup> Les mesures prises doivent être notifiées aux autorités compétentes de l’Etat de l’autre Partie contractante.
+<sup>3.</sup> Les mesures prises doivent être notifiées aux autorités compétentes de l’État de l’autre Partie contractante.
 
-<sup>4.</sup> Les dispositions du présent article n’excluent pas l’application au transporteur et aux conducteurs du véhicule de l’Etat de l’autre Partie contractante des sanctions stipulées par la législation de l’Etat sur le territoire duquel l’infraction a été commise.
+<sup>4.</sup> Les dispositions du présent article n’excluent pas l’application au transporteur et aux conducteurs du véhicule de l’État de l’autre Partie contractante des sanctions stipulées par la législation de l’État sur le territoire duquel l’infraction a été commise.
+
+[^16-1]: Nouvelle teneur des ch. 1 à3 selon l’art. 8 du Prot. du 15 oct. 2021, en vigueur depuis le 10 déc. 2021 ([RO 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 ## V. Dispositions finales
 
@@ -214,9 +257,9 @@ En cas de violation des dispositions du présent accord par le transporteur, les
 
 <sup>1.</sup> Les Parties contractantes régleront les questions litigieuses pouvant surgir dans l’interprétation et l’application du présent accord par la voie de négociations ou par voie diplomatique.
 
-<sup>2.</sup> Les autorités compétentes des Etats des Parties contractantes instituent une Commission mixte qui traitera des questions d’interprétation ou d’application du présent accord.
+<sup>2.</sup> Les autorités compétentes des États des Parties contractantes instituent une Commission mixte qui traitera des questions d’interprétation ou d’application du présent accord.
 
-<sup>3.</sup> La Commission mixte se réunit à la demande de l’autorité compétente de l’Etat d’une des Parties contractantes alternativement sur le territoire de l’Etat de chacune des Parties contractantes.
+<sup>3.</sup> La Commission mixte se réunit à la demande de l’autorité compétente de l’État d’une des Parties contractantes alternativement sur le territoire de l’État de chacune des Parties contractantes.
 
 #### Art. 18
 
@@ -224,7 +267,7 @@ Les Parties contractantes peuvent, d’un commun accord, apporter des modificati
 
 #### Art. 19
 
-Les questions qui ne sont régies ni par le présent accord, ni par les accords internationaux auxquels les Parties contractantes ont adhéré seront réglées en vertu de la législation de l’Etat de chaque Partie contractante.
+Les questions qui ne sont régies ni par le présent accord, ni par les accords internationaux auxquels les Parties contractantes ont adhéré seront réglées en vertu de la législation de l’État de chaque Partie contractante.
 
 #### Art. 20
 
@@ -247,8 +290,7 @@ Conformément au désir du Gouvernement de la Principauté du Liechtenstein, les
 Fait à Moscou le 20 octobre 2014 en deux exemplaires, chacun en langues française et russe, les deux textes faisant également foi.
 
 <table>
-<tr><td>Pour le Conseil fédéral suisse:</td><td>Pour le Gouvernement de la Fédération de Russie:</td></tr>
-<tr><td>Pierre Helg</td><td>Nikolay Asaul</td></tr>
+<tr><td>Pour le Conseil fédéral suisse: Pierre Helg</td><td>Pour le Gouvernement de la Fédération de Russie: Nikolay Asaul</td></tr>
 </table>
 
 [^22-1]: [[RO 2001 487](https://fedlex.data.admin.ch/eli/oc/2001/96)]

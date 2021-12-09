@@ -3,11 +3,11 @@ sr: "0.741.619.665"
 title: Abkommen vom 20. Oktober 2014 zwischen dem Schweizerischen Bundesrat und der Regierung der Russischen Föderation über den grenzüberschreitenden Verkehr auf der Strasse
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/74"
 language: de
-version: 2015-02-21
+version: 2021-12-10
 adopted: 2014-10-20
 in_force: 2015-02-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/74/20150221/de/xml/fedlex-data-admin-ch-eli-cc-2015-74-20150221-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/74/20150221/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/74/20211210/de/xml/fedlex-data-admin-ch-eli-cc-2015-74-20211210-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/74/20211210/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,15 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/74/20150221/de"
 
 AS **2015** 523
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen am 20. Oktober 2014
 
 In Kraft getreten durch Notenaustausch am 21. Februar 2015
 
-(Stand am 21. Februar 2015)
-
-[^t-1]: Übersetzung des französischen Originaltextes.
+(Stand am 10. Dezember 2021)
 
 Der Schweizerische Bundesrat und die Regierung der Russischen Föderation,
 
@@ -48,19 +46,19 @@ Im Sinne dieses Abkommens bezeichnen die Begriffe:
 
   «zuständige Behörden»:
 
-  - – in der Schweiz das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK), Bundesamt für Verkehr, und Artikel 8 Absatz 1 dieses Abkommens betreffend das Bundesamt für Strassen,
-  - – in der Russischen Föderation das Verkehrsministerium der Russischen Föderation und die Einhaltung der Strassenverkehrsvorschriften nach Artikel 11 dieses Abkommens betreffend das Innenministerium der Russischen Föderation,
+  - a) in der Schweiz das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK), Bundesamt für Verkehr, und Artikel 8 Absatz 1 dieses Abkommens betreffend das Bundesamt für Strassen,
+  - b) in der Russischen Föderation das Verkehrsministerium der Russischen Föderation und die Einhaltung der Strassenverkehrsvorschriften nach Artikel 11 dieses Abkommens betreffend das Innenministerium der Russischen Föderation,
 
-- ändert sich eine der zuständigen Behörden, so teilt die Vertragspartei, bei der die Änderung stattgefunden hat, dies der anderen Vertragspartei auf diplomatischem Weg mit;
+- im Falle eines Wechsels der zuständigen Behörden teilt diejenige Vertragspartei, bei der der Wechsel stattgefunden hat, dies der anderen Vertragspartei auf diplomatischem Weg mit;[^2-1]
 - 2) «Transportunternehmer»: jede natürliche oder juristische in der Schweiz oder in der Russischen Föderation niedergelassene Person, die nach den in einer Vertragspartei geltenden Vorschriften berechtigt ist, im internationalen Verkehr Personen oder Güter auf der Strasse zu befördern;
 - 3)
 
   «Fahrzeug»:
 
-  - – für die Güterbeförderung einen Lastwagen, einen Lastwagen mit Anhänger, ein Zugfahrzeug oder ein Zugfahrzeug mit Sattelanhänger,
-  - – für die Personenbeförderung einen Autobus mit mehr als neun Sitzplätzen, Fahrersitz eingeschlossen, und gegebenenfalls mit einem Anhänger für das Gepäck,
+  - a) für die Güterbeförderung einen Lastwagen, einen Lastwagen mit Anhänger, ein Zugfahrzeug oder ein Zugfahrzeug mit Sattelanhänger,
+  - b) für die Personenbeförderung einen Autobus mit mehr als neun Sitzplätzen, Fahrersitz eingeschlossen, und gegebenenfalls mit einem Anhänger für das Gepäck,
 
-- das Fahrzeug ist Eigentum des Transportunternehmers oder steht ihm über einen Leasing- oder Mietvertrag zur Verfügung;
+- das Fahrzeug ist Eigentum des Transportunternehmers oder steht ihm über einen Leasing- oder Mietvertrag zur Verfügung;[^2-2]
 - 4) «regelmässige Personenbeförderung»: jede Beförderung von Personen in einem Autobus, die sich nach im Voraus zwischen den zuständigen Behörden der Vertragsparteien abgestimmten Strecken, Fahrplänen, Tarifen und Haltestellen, an denen die Fahrgäste aufgenommen und abgesetzt werden, richtet;
 - 5) «gelegentliche Personenbeförderung»: jede Beförderung von Personen in einem Autobus, die nicht der Begriffsbestimmung der regelmässigen Personenbeförderung entspricht;
 - 6) «Sanitärkontrolle»: eine Sanitätskontrolle, eine grenztierärztliche Untersuchung sowie die Pflanzenschutzkontrolle;
@@ -69,8 +67,12 @@ Im Sinne dieses Abkommens bezeichnen die Begriffe:
 
   «Sondergenehmigung»:
 
-  - – eine einmalige Zusatzgenehmigung, die Fahrzeuge eines in einer Vertragspartei niedergelassenen Transportunternehmers dazu berechtigt, in den Fällen nach Artikel 8 dieses Abkommens Beförderungen im Gebiet der anderen Vertragspartei durchzuführen,
-  - – eine einmalige Genehmigung, die den in einer Vertragspartei niedergelassenen Transportunternehmer dazu berechtigt, Güter vom Gebiet der anderen Vertragspartei in einen Drittstaat oder von einem Drittstaat in das Gebiet der anderen Vertragspartei zu befördern.
+  - a) ein Dokument, das ein Fahrzeug eines in einer Vertragspartei niedergelassenen Transportunternehmers, dessen Grösse oder Gewicht die im Gebiet der anderen Vertragspartei geltenden Normen überschreitet oder welches gefährliche Güter befördert, dazu berechtigt, Transportfahrten im Gebiet der anderen Vertragspartei durchzuführen,
+  - b) ein Dokument, das den in einer Vertragspartei niedergelassenen Transportunternehmer dazu berechtigt, Güter vom Gebiet der anderen Vertragspartei in einen Drittstaat oder von einem Drittstaat in das Gebiet der anderen Vertragspartei zu befördern.[^2-3]
+
+[^2-1]: Fassung gemäss Art. 1 Ziff. 1 des Prot. vom 15. Okt. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+[^2-2]: Fassung gemäss Art. 1 Ziff. 2 des Prot. vom 15. Okt. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+[^2-3]: Fassung gemäss Art. 1 Ziff. 3 des Prot. vom 15. Okt. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 ## II. Personenbeförderung
 
@@ -86,15 +88,25 @@ Auf dem in der Russischen Föderation liegenden Streckenabschnitt erfolgen regel
 
 #### Art. 4
 
-<sup>1.</sup> Gelegentliche Personenbeförderungen erfolgen aufgrund einer Genehmigung, die vor Fahrantritt von den zuständigen Behörden der Vertragsparteien für den Streckenabschnitt in ihrem jeweiligen Gebiet erteilt wird.
+[^4-1]
+
+<sup>1.</sup> Gelegentliche Personenbeförderungen erfolgen aufgrund einer Genehmigung, die von den zuständigen Behörden der Vertragsparteien für den Streckenabschnitt in ihrem jeweiligen Gebiet erteilt wird.
 
 <sup>2.</sup> Für jede gelegentliche Personenbeförderung wird eine Genehmigung erteilt, die zu einer einmaligen Hin- und Rückfahrt berechtigt, ausser wenn in der Genehmigung eine andere Anzahl Fahrten ausdrücklich erwähnt ist.
 
-<sup>3.</sup> Die in Absatz 1 dieses Artikels erwähnte Genehmigung ist nicht erforderlich für Fahrten mit einem Autobus, der einen infolge eines Unfalls oder einer Panne nicht mehr fahrtauglichen Autobus ersetzt.
+<sup>3.</sup> Jedes Jahr stellen sich die zuständigen Behörden der Vertragsparteien gegenseitig und unentgeltlich die vereinbarte Anzahl von Blanko-Genehmigungen für gelegentliche Personenbeförderungen zur Verfügung. Die Genehmigungen sind mit der Unterschrift der verantwortlichen Person und dem Stempel der zuständigen Behörde zu versehen. Im laufenden Kalenderjahr erteilte Genehmigungen gelten bis zum 31. Januar des darauffolgenden Jahres.
+
+<sup>4.</sup> Die zuständigen Behörden der Vertragsparteien koordinieren den Austausch der Blanko-Genehmigungen untereinander.
+
+<sup>5.</sup> Die in Absatz 1 dieses Artikels erwähnte Genehmigung ist nicht erforderlich für Fahrten mit einem Autobus, der einen infolge eines Unfalls oder einer Panne nicht mehr fahrtauglichen Autobus ersetzt.
+
+[^4-1]: Fassung gemäss Art. 2 des Prot. vom 15. Okt. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 5
 
-<sup>1.</sup> Wird eine ganze Fahrgastgruppe mit demselben Autobus befördert, ist diese gelegentliche Personenbeförderung mit einem Autobus von der Genehmigungspflicht ausgenommen, wenn
+<sup>1.</sup>
+
+Wird eine ganze Fahrgastgruppe mit demselben Autobus befördert, ist diese gelegentliche Personenbeförderung mit einem Autobus von der Genehmigungspflicht ausgenommen, wenn:
 
 - 1) der Ausgangs- und Endpunkt einer Rundfahrt mit geschlossenen Türen in dem Staat gelegen sind, in dem das Fahrzeug zum Verkehr zugelassen ist;
 - 2) die Beförderung im Gebiet der Vertragspartei, in der das Fahrzeug zum Verkehr zugelassen ist, beginnt und in dem Gebiet der andern Vertragspartei endet und das Fahrzeug dieses Gebiet leer verlässt;
@@ -102,49 +114,74 @@ Auf dem in der Russischen Föderation liegenden Streckenabschnitt erfolgen regel
 
 <sup>2.</sup> Bei der Durchführung von gelegentlichen Beförderungen nach Absatz 1 dieses Artikels ist vom Fahrer ein Dokument samt einer Fahrgastliste mitzuführen, dessen Form von der Gemischten Kommission nach Artikel 17 dieses Abkommens zugelassen wurde.
 
+#### Art. 5<sup>bis</sup>
+
+[^5bis-1]
+
+<sup>1.</sup> Zur Gewährleistung der Verkehrssicherheit werden Angaben zu den Fahrgästen und zum Fahrpersonal, die von einem in einer Vertragspartei niedergelassenen Verkehrsunternehmen benutzt werden, das im Rahmen dieses Abkommens regelmässige oder gelegentliche Personenbeförderungen im Gebiet der anderen Vertragspartei durchführt, an das diesbezüglich eingerichtete Informationssystem übermittelt, sofern dies in den Rechtsvorschriften der anderen Vertragspartei vorgesehen ist.
+
+<sup>2.</sup>
+
+Die Daten nach Absatz 1 sind persönliche Angaben, die folgende Informationen enthalten:
+
+- 1) den Namen, Vornamen, Familiennamen;
+- 2) das Geburtsdatum;
+- 3) die Art und die Nummer des Identitätsausweises, die die Person für den Kauf des Fahrausweises benutzt hat;
+- 4) den Abfahrts- und Zielort sowie die Transportart (Direktfahrt, Transit);
+- 5) das Reisedatum;
+- 6) das Geschlecht;
+- 7) die Staatsangehörigkeit;
+- 8) die Funktion innerhalb des Fahrpersonals (nur für Mitglieder des Fahrpersonals).
+
+<sup>3.</sup> Die Angaben zu den personenbezogenen Daten müssen rechtmässig und nach Treu und Glauben verarbeitet werden.
+
+<sup>4.</sup> Personenbezogene Daten zu den Fahrgästen und zum Fahrpersonal müssen in einer Form gespeichert werden, die die Identifizierung der betroffenen Person nur so lange ermöglicht, wie es für die Zwecke, für die sie erhoben und weiterverarbeitet werden, erforderlich ist.
+
+<sup>5.</sup> Es dürfen nur personenbezogene Daten verarbeitet werden, die für die Zwecke, zu denen sie verarbeitet werden, erheblich sind. Inhalt und Umfang der verarbeiteten personenbezogenen Daten müssen mit den festgelegten Zwecken ihrer Verarbeitung vereinbar sein. Die personenbezogenen Daten sollten das für die Zwecke ihrer Verarbeitung notwendige Mass nicht überschreiten. Während ihrer Verarbeitung sollten die personenbezogenen Daten genau, erheblich und gegebenenfalls angemessen sein hinsichtlich der Zwecke, für die sie verarbeitet werden. Es sollten die notwendigen Massnahmen getroffen werden, um die Berichtigung unvollständiger und ungenauer Daten zu gewährleisten und ihre Bedeutung zu erläutern.
+
+<sup>6.</sup> Personendaten dürfen ausschliesslich an diejenigen zuständigen Behörden übermittelt werden, die nach den jeweiligen nationalen Gesetzen der Vertragsparteien dazu befugt sind.
+
+<sup>7.</sup> Personen, die Personendaten nach diesem Artikel verarbeiten, müssen alle notwendigen rechtlichen, organisatorischen und technischen Massnahmen treffen oder ihre Anwendung sicherstellen, um die Personendaten vor unrechtmässigem oder zufälligem Zugriff, Vernichtung, Veränderung, Sperrung, Anfertigung von Kopien, der Bekanntgabe und der Verbreitung sowie vor allen anderen die Personendaten betreffenden widerrechtlichen Handlungen zu schützen.
+
+<sup>8.</sup> Personen, die Personendaten darüber informiert, dass die angegebenen Daten ausschliesslich an diejenigen zuständigen Behörden übermittelt werden, die nach den jeweiligen nationalen Gesetzen der Vertragsparteien dazu befugt sind; sie werden auch auch über den Zweck dieser Datenübermittlung unterrichtet.
+
+[^5bis-1]: Eingefügt durch Art. 3 des Prot. vom 15. Okt. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+
 ## III. Güterbeförderung
 
 #### Art. 6
 
-<sup>1.</sup> Für Güterbeförderungen zwischen den Gebieten der Vertragsparteien oder im Transit durch ihre Gebiete ist mit Ausnahme der unter Artikel 7 dieses Abkommens vorgesehenen Transporte eine Genehmigung erforderlich, die von den zuständigen Behörden der Vertragsparteien erteilt wird.
+[^6-1]
 
-Für jede Güterbeförderung wird eine Genehmigung erteilt, die, sofern sie nichts anderes bestimmt, für eine einmalige Hin- und Rückfahrt gilt. Die Genehmigung ist auch dann erforderlich, wenn die Hinfahrt in das Gebiet der anderen Vertragspartei als Leerfahrt erfolgt.
+<sup>1.</sup> Güterbeförderungen zwischen den Gebieten der Vertragsparteien oder im Transit durch ihre Gebiete erfordern keine Genehmigung.
 
-<sup>2.</sup> Jeder in einer Vertragspartei niedergelassene Transportunternehmer kann Güter vom Gebiet der anderen Vertragspartei in einen Drittstaat oder von einem Drittstaat in das Gebiet der anderen Vertragspartei befördern, sofern er im Besitz einer Sondergenehmigung nach Artikel 2 Absatz 8 zweiter Strich dieses Abkommens ist, die von den zuständigen Behörden der anderen Vertragspartei ausgestellt wurde.
+<sup>2.</sup> Jeder in einer Vertragspartei niedergelassene Transportunternehmer kann Güter vom Gebiet der anderen Vertragspartei in einen Drittstaat oder von einem Drittstaat in das Gebiet der anderen Vertragspartei befördern, sofern er im Besitz einer Sondergenehmigung nach Artikel 2 Ziffer 8 Buchstabe b dieses Abkommens ist, die von den zuständigen Behörden der anderen Vertragspartei ausgestellt wurde.
 
-<sup>3.</sup> Jedes Jahr stellen sich die zuständigen Behörden der Vertragsparteien gegenseitig und unentgeltlich eine vereinbarte Anzahl von Blanko-Genehmigungen für Güterbeförderungen zur Verfügung. Die Genehmigungen sind mit der Unterschrift der verantwortlichen Person und dem Stempel der zuständigen Behörde zu versehen. Im laufenden Kalenderjahr erteilte Genehmigungen gelten bis zum 31. Januar des darauffolgenden Jahres.
+<sup>3.</sup> Die Sondergenehmigung nach Artikel 2 Ziffer 8 Buchstabe b dieses Abkommens berechtigt zur einmaligen Hin- und Rückfahrt.
 
-<sup>4.</sup> Die zuständigen Behörden der Vertragsparteien koordinieren den Austausch der Blanko-Genehmigungen.
+<sup>4.</sup> Jedes Jahr stellen sich die zuständigen Behörden der Vertragsparteien gegenseitig und unentgeltlich die vereinbarte Anzahl von Blanko-Sondergenehmigungen nach Artikel 2 Ziffer 8 Buchstabe b dieses Abkommens zur Verfügung. Die Genehmigungen sind mit der Unterschrift der verantwortlichen Person und dem Stempel der zuständigen Behörde zu versehen. Im laufenden Kalenderjahr erteilte Genehmigungen gelten bis zum 31. Januar des darauffolgenden Jahres.
+
+<sup>5.</sup> Die zuständigen Behörden der Vertragsparteien koordinieren den Austausch der Blanko-Sondergenehmigungen nach Artikel 2 Ziffer 8 Buchstabe b dieses Abkommens untereinander.
+
+[^6-1]: Fassung gemäss Art. 4 des Prot. vom 15. Okt. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 7
 
-<sup>1.</sup>
+[^7-1]
 
-Ausgenommen von der in Artikel 6 dieses Abkommens vorgesehenen Genehmigungspflicht sind:
-
-- 1) Güterbeförderungen mit Fahrzeugen, deren höchstzulässiges Gesamtgewicht einschliesslich Anhänger 3,5 t nicht übersteigt;
-- 2) Beförderungen von Arzneimitteln, von medizinischen Geräten und Ausrüstungen sowie von anderen zur Hilfeleistung bei Naturkatastrophen oder für die humanitäre Hilfe bestimmten Gütern;
-- 3) Beförderungen von Tieren, von Transportmitteln, von Material und Ausrüstung für Sportanlässe;
-- 4) Beförderungen von Ausstellungsobjekten, Ausstattungen und Material, welche für Messen und Ausstellungen bestimmt sind;
-- 5) Beförderungen von Bühnenbildern und Theaterrequisiten, von Musikinstrumenten, von Ausrüstungen und Zubehör, welche zum Drehen von Filmen oder für Radio- oder Fernsehsendungen bestimmt sind;
-- 6) Überführungen von Leichen;
-- 7) Beförderungen von Postsendungen, die im Rahmen öffentlicher Versorgungsdienste durchgeführt werden;
-- 8) Umzugstransporte;
-- 9) Beförderungen von beschädigten oder verunfallten Fahrzeugen.
-
-<sup>2.</sup> Genehmigungen nach Artikel 6 dieses Abkommens werden ausserdem keine verlangt für die Einreise von Schlepp- oder Pannenfahrzeugen zum Abschleppen oder zur Hilfeleistung von in Panne geratenen oder verunfallten Fahrzeugen.
-
-<sup>3.</sup> Die in Absatz 1 dieses Artikels unter den Ziffern 3, 4 und 5 vorgesehenen Ausnahmen werden nur angewendet, wenn die Waren in das Gebiet derjenigen Vertragspartei, in der das Fahrzeug zum Verkehr zugelassen ist, zurückbefördert werden müssen oder in einen Drittstaat weiterbefördert werden.
+[^7-1]: Aufgehoben durch Art. 5 des Prot. vom 15. Okt. 2021, mit Wirkung seit 10. Dez. 2021 ([AS 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 8
 
-<sup>1.</sup> Wenn die Grösse und das Gewicht eines Fahrzeugs, leer oder beladen, das einem im Gebiet einer der beiden Vertragsparteien niedergelassenen Transportunternehmer gehört, die im Gebiet der anderen Vertragspartei geltenden Normen überschreiten, muss sich der Transportunternehmer vor der Einreise eine spezielle, gemäss der geltenden nationalen Gesetzgebung dieser Vertragspartei ausgestellte Genehmigung beschaffen.
+<sup>1.</sup> Wenn die Grösse und das Gewicht eines Fahrzeugs, leer oder beladen, das einem im Gebiet einer der beiden Vertragsparteien niedergelassenen Transportunternehmer gehört, die im Gebiet der anderen Vertragspartei geltenden Normen überschreiten, muss sich der Transportunternehmer vor der Einreise eine gemäss der geltenden nationalen Gesetzgebung dieser Vertragspartei ausgestellte Sondergenehmigung nach Artikel 2 Ziffer 8 Buchstabe a dieses Abkommens[^8-1] beschaffen.
 
-<sup>2.</sup> Beförderungen gefährlicher Güter in den Gebieten der Vertragsparteien unterstehen dem Europäischen Übereinkommen vom 30. September 1957[^8-1] über die internationale Beförderung gefährlicher Güter auf der Strasse sowie der jeweiligen nationalen Gesetzgebung über Gefahrentransporte in den beiden Vertragsparteien.
+<sup>2.</sup> Beförderungen gefährlicher Güter in den Gebieten der Vertragsparteien unterstehen dem Europäischen Übereinkommen vom 30. September 1957[^8-2] über die internationale Beförderung gefährlicher Güter auf der Strasse sowie der jeweiligen nationalen Gesetzgebung über Gefahrentransporte in den beiden Vertragsparteien,welche die Beschaffung einer Sondergenehmigung nach Artikel 2 Ziffer 8 Buchstabe a dieses Abkommens vorschreiben kann[^8-3].
 
 <sup>3.</sup> Für die in Absatz 1 dieses Artikels genannten Beförderungen können die zuständigen Behörden der Vertragsparteien dem Fahrzeug eine obligatorische Reiseroute vorschreiben.
 
-[^8-1]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^8-1]: Worte gemäss Art. 6 Ziff. 1 des Prot. vom 15. Okt. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
+[^8-2]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^8-3]: Worte hinzugefügt gemäss Art. 6 Ziff. 2 des Prot. vom 15. Okt. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 ## IV. Allgemeine Bestimmungen
 
@@ -170,7 +207,9 @@ Ein im Gebiet einer der beiden Vertragsparteien niedergelassener Transportuntern
 
 <sup>1.</sup> Die im Gebiet einer der beiden Vertragsparteien niedergelassenen Transportunternehmer, welche im Rahmen dieses Abkommens Personen oder Güter befördern, sind auf der Grundlage der Gegenseitigkeit von Abgaben, Gebühren und Zahlungen in Zusammenhang mit dem Besitz und der Nutzung der Fahrzeuge befreit.
 
-<sup>2.</sup> Von der nationalen Gesetzgebung der Vertragsparteien vorgeschriebene Maut- oder Benutzungsgebühren für die Strasseninfrastruktur wie Strassen, Autobahnen, Brücken und Tunnel im Gebiet der Vertragsparteien werden bei den in einer der beiden Vertragsparteien niedergelassenen Transportunternehmern in nichtdiskriminierender Weise erhoben.
+<sup>2.</sup> Von der nationalen Gesetzgebung der Vertragsparteien vorgeschriebene Maut- oder Benutzungsgebühren für die Strasseninfrastruktur wie Strassen, Autobahnen, Brücken und Tunnel im Gebiet der Vertragsparteien, einschliesslich vorgesehener Zahlungen als Ersatz für Schäden, die durch die Fahrzeuge an der Strasseninfrastruktur verursacht werden, können bei den in einer der beiden Vertragsparteien niedergelassenen Transportunternehmern in nichtdiskriminierender Weise erhoben werden.[^12-1]
+
+[^12-1]: Fassung gemäss Art. 7 des Prot. vom 15. Okt. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 #### Art. 13
 
@@ -200,13 +239,15 @@ Für die Beförderung von Personen und Gütern im Sinne dieses Abkommens muss vo
 
 Gegen Transportunternehmer, die gegen die Bestimmungen dieses Abkommens verstossen haben, können die zuständigen Behörden der Vertragspartei, in der das Fahrzeug zum Verkehr zugelassen ist, auf Verlangen der zuständigen Behörden der anderen Vertragspartei, in deren Gebiet der Verstoss stattgefunden hat, eine der folgenden Massnahmen ergreifen:
 
-- 1) schriftliche Verwarnung samt Hinweis, dass im Wiederholungsfall ein befristeter oder vollständiger Entzug der erteilten Genehmigung ausgesprochen wird;
-- 2) befristeter oder vollständiger Entzug der erteilten Genehmigung;
-- 3) keine Erteilung von neuen Genehmigungen für die Durchführung von Beförderungen auf dem Gebiet der anderen Vertragspartei.
+- 1) schriftliche Verwarnung;
+- 2) Aufhebung oder Widerruf der erteilten Genehmigung;
+- 3) Einstellung der Erteilung von neuen Genehmigungen oder von Sondergenehmigungen für die Durchführung von Beförderungen im Gebiet der anderen Vertragspartei.[^16-1]
 
 <sup>3.</sup> Die zuständigen Behörden der anderen Vertragspartei sind über die getroffenen Massnahmen zu unterrichten.
 
 <sup>4.</sup> Die Bestimmungen dieses Artikels schliessen Sanktionen gegenüber Transportunternehmern und Fahrzeugführern nicht aus, die gestützt auf das innerstaatliche Recht der Vertragspartei ergriffen werden, in deren Gebiet der Verstoss stattgefunden hat.
+
+[^16-1]: Fassung der Ziff. 1–3 gemäss Art. 8 des Prot. vom 15. Okt. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 868](https://fedlex.data.admin.ch/eli/oc/2021/868)).
 
 ## V. Schlussbestimmungen
 
@@ -247,8 +288,7 @@ Dem Wunsch der Regierung des Fürstentums Liechtenstein entsprechend, erstreckt 
 Geschehen zu Moskau am 20. Oktober 2014 in zwei Exemplaren, jedes in französischer und russischer Sprache, wobei beide Texte in gleicher Weise massgebend sind.
 
 <table>
-<tr><td>Für den Schweizerischen Bundesrat:</td><td>Für die Regierung der Russischen Föderation:</td></tr>
-<tr><td>Pierre Helg</td><td>Nikolay Asaul</td></tr>
+<tr><td>Für den Schweizerischen Bundesrat: Pierre Helg</td><td>Für die Regierung der Russischen Föderation: Nikolay Asaul</td></tr>
 </table>
 
 [^22-1]: [[AS 2001 487](https://fedlex.data.admin.ch/eli/oc/2001/96)]
