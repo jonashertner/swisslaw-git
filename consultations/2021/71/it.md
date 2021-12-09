@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione parziale dell’ordinanza sulla radiotelevisione, allegato 1 e allegato 2"
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Teilrevision der Radio- und Fernsehverordnung, Anhang 1 und Anhang 2"
 document: Vernehmlassungsvorlage
 language: de

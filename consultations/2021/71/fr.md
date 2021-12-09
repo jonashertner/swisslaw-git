@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision partielle de l’ordonnance sur la radio et la télévision, annexe 1 et annexe 2"
 document: Projet mis en consultation
 language: fr
