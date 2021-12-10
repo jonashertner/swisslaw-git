@@ -4,13 +4,13 @@ number: "320.114"
 title: Verordnung über zusätzliche Massnahmen des Kantons Aargau zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-V AG
 language: de
-version: 2021-12-04
-valid_until: 2021-12-10
-version_adopted: 2021-12-03
+version: 2021-12-11
+valid_until: 2021-12-13
+version_adopted: 2021-12-08
 adopted: 2021-12-01
 in_force: 2021-12-04
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/320.114"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3094/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3095/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3094/pdf_file"
 
 (Covid-19-V AG)
 
-Vom 01.12.2021 (Stand 04.12.2021)
+Vom 01.12.2021 (Stand 11.12.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -47,7 +47,7 @@ beschliesst:
 <sup>1</sup> Jede Person muss in den Innenräumen von Schulen der Primar- und Sekundarstufe I und II sowie von Angeboten der familien- und schulergänzenden Kinderbetreuung eine Gesichtsmaske tragen. Die Maskentragpflicht gilt nicht:
 
 - a) für noch nicht schulpflichtige Kinder;
-- b) für Schülerinnen und Schüler der Primarstufe bis und mit 4. Primarschulklasse, ausser sie besuchen eine Mehrjahrgangsklasse mit Schülerinnen und Schülern der 5. beziehungsweise 6. Primarschulklasse und/oder eine Gruppe der familien- und schulergänzenden Kinderbetreuung, zu der auch Schülerinnen und Schüler der 5. beziehungsweise 6. Primarschulklasse gehören;
+- b) für Schülerinnen und Schüler des Kindergartens und der Primarstufe bis und mit 4. Primarschulklasse, ausser sie besuchen eine Mehrjahrgangsklasse mit Schülerinnen und Schülern der 5. beziehungsweise 6. Primarschulklasse und/oder eine Gruppe der familien- und schulergänzenden Kinderbetreuung, zu der auch Schülerinnen und Schüler der 5. beziehungsweise 6. Primarschulklasse gehören;
 - c) in Unterrichts-, Betreuungs- und Therapiesituationen, in denen das Tragen einer Gesichtsmaske den Unterricht, die Betreuung oder die Therapie wesentlich erschwert, sofern der Mindestabstand eingehalten wird oder der Schutz durch andere Schutzmassnahmen gewährleistet wird; dazu gehören namentlich folgende Situationen:
   - 1\. in den Unterrichtsräumen in Situationen, in denen das Tragen einer Maske den Unterricht wesentlich erschwert;
   - 2\. für eine einzelne Schülerin beziehungsweise einen einzelnen Schüler im Unterricht (bei Vorträgen, Referaten oder Präsentationen), wenn die übrigen Personen eine Maske tragen;
@@ -81,36 +81,27 @@ beschliesst:
 
 <sup>1</sup> Mitarbeitende von Spitälern und Kliniken, stationären Pflegeeinrichtungen, Leistungserbringern der Hilfe und Pflege zu Hause sowie Betreuungseinrichtungen mit direktem Kontakt zu Patientinnen und Patienten oder Bewohnerinnen und Bewohnern müssen ein Covid-19-Zertifikat gemäss Art. 3 Covid-19-Verordnung besondere Lage vorweisen oder sich ein Mal pro Woche im Rahmen des repetitiven Testens auf eine Covid-19-Infektion testen lassen. Die genannten Betriebe und Einrichtungen ermöglichen den Mitarbeitenden die kostenlose Teilnahme am repetitiven Testen.
 
-<sup>2</sup> Mitarbeitende müssen in den Innenräumen von Spitälern und Kliniken, stationären Pflegeeinrichtungen und Betreuungseinrichtungen sowie in den Innenräumen von Patientinnen und Patienten der ambulanten Leistungserbringer (Hilfe und Pflege zu Hause) eine Gesichtsmaske tragen. Die Maskentragpflicht gilt nicht für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können; für den Nachweis medizinischer Gründe gilt § 3 Abs. 3 lit. b.
+<sup>2</sup> …
 
 #### § 5
 
 **Restaurations-, Bar- und Clubbetriebe sowie Diskotheken und Tanzlokale**
 
-<sup>1</sup> Jede Person muss in öffentlich zugänglichen Innenräumen von Restaurations-, Bar- und Clubbetrieben sowie Diskotheken und Tanzlokalen eine Gesichtsmaske tragen. Die Maskentragpflicht gilt nicht:
-
-- a) für Kinder vor ihrem 12. Geburtstag;
-- b) während der Konsumation von Speisen und Getränken;
-- c) für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können; für den Nachweis medizinischer Gründe gilt § 3 Abs. 3 lit. b;
-- d) für auftretende Personen, namentlich Rednerinnen und Redner;
+<sup>1</sup> …
 
 <sup>2</sup> Speisen und Getränke dürfen sowohl in Innenräumen als auch in Aussenbereichen von Restaurations-, Bar- und Clubbetrieben sowie Diskotheken und Tanzlokalen nur sitzend konsumiert werden.
 
-<sup>3</sup> Restaurations-, Bar- und Clubbetriebe sowie Diskotheken und Tanzlokale können den Zugang für Personen ab 16 Jahren auf Inhaberinnen und Inhaber eines Impf- oder Genesungszertifikats beschränken. In diesem Fall gilt weder die Maskentragpflicht gemäss Absatz 1 noch die Sitzpflicht während der Konsumation gemäss Absatz 2.
+<sup>3</sup> Restaurations-, Bar- und Clubbetriebe sowie Diskotheken und Tanzlokale können den Zugang für Personen ab 16 Jahren auf Inhaberinnen und Inhaber eines Impf- oder Genesungszertifikats gemäss Art. 3a Covid-19-Verordnung besondere Lage beschränken. In diesem Fall gilt weder die Maskentragpflicht (Art. 6 Abs. 2 lit. i Covid-19-Verordnung besondere Lage) noch die Sitzpflicht während der Konsumation gemäss Absatz 2.
 
 #### § 6
 
 **Einrichtungen und Betriebe in den Bereichen Kultur, Unterhaltung, Freizeit und Sport**
 
-<sup>1</sup> Jede Person muss in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben in den Bereichen Kultur, Unterhaltung, Freizeit und Sport eine Gesichtsmaske tragen. Die Maskentragpflicht gilt nicht:
+<sup>1</sup> …
 
-- a) für Kinder vor ihrem 12. Geburtstag;
-- b) für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können; für den Nachweis medizinischer Gründe gilt § 3 Abs. 3 lit. b;
-- c) für Personen, die sportliche oder kulturelle Aktivitäten ausüben;
-- d) für auftretende Personen, namentlich Rednerinnen und Redner;
-- e) während der Konsumation von Speisen und Getränken.
+<sup>2</sup> Speisen und Getränke dürfen sowohl in Innenräumen als auch in Aussenbereichen von Einrichtungen und Betrieben in den Bereichen Kultur, Unterhaltung, Freizeit und Sport nur sitzend konsumiert werden.
 
-<sup>2</sup> Speisen und Getränke dürfen sowohl in Innenräumen als auch in Aussenbereichen von Einrichtungen und Betrieben gemäss Absatz 1 nur sitzend konsumiert werden.
+<sup>3</sup> Einrichtungen und Betriebe ​in den Bereichen Kultur, Unterhaltung, Freizeit und Sport können den Zugang für Personen ab 16 Jahren auf Inhaberinnen und Inhaber eines Impf- oder Genesungszertifikats gemäss Art. 3a Covid-19-Verordnung besondere Lage beschränken. In diesem Fall gilt weder die Maskentragpflicht (Art. 6 Abs. 2 lit. i Covid-19-Verordnung besondere Lage) noch die Sitzpflicht während der Konsumation gemäss Absatz 2.
 
 #### § 7
 
@@ -118,9 +109,9 @@ beschliesst:
 
 <sup>1</sup> Jede Person muss eine Gesichtsmaske tragen:
 
-- a) an Veranstaltungen in Innenräumen;
-- b) an Grossveranstaltungen im Sinn von Art. 16 Abs. 1 Covid-19-Verordnung besondere Lage sowohl in Innenräumen als auch im Aussenbereich beziehungsweise im Freien;
-- c) auf Fach- und Publikumsmessen in Innenräumen und, wenn pro Tag mehr als 1000 Personen (seien es Besucherinnen und Besucher oder Teilnehmende) anwesend sind, auch im Aussenbereich beziehungsweise im Freien.
+- a) …
+- b) an Grossveranstaltungen im Sinn von Art. 16 Abs. 1 Covid-19-Verordnung besondere Lage im Aussenbereich beziehungsweise im Freien;
+- c) auf Fach- und Publikumsmessen im Aussenbereich beziehungsweise im Freien, wenn pro Tag mehr als 1000 Personen (seien es Besucherinnen und Besucher oder Teilnehmende) anwesend sind.
 
 <sup>2</sup> Die Maskentragpflicht gilt nicht:
 
@@ -132,7 +123,9 @@ beschliesst:
 - f) während der Konsumation von Speisen und Getränken;
 - g) für Veranstaltungen im Familien- und Freundeskreis mit höchstens 30 Personen, die in Innenräumen von nicht öffentlich zugänglichen Einrichtungen und Betrieben stattfinden.
 
-<sup>3</sup> Speisen und Getränke dürfen an Veranstaltungen und Grossveranstaltungen sowie auf Fach- und Publikumsmessen nur sitzend konsumiert werden.
+<sup>3</sup> ​Speisen und Getränke dürfen an Veranstaltungen und Grossveranstaltungen sowie auf Fach- und Publikumsmessen sowohl in Innenräumen als auch im Aussenbereich beziehungsweise im Freien nur sitzend konsumiert werden. Dies gilt auch für Speisen und Getränke, die an Veranstaltungen und Grossveranstaltungen sowie auf Fach- und Publikumsmessen zur Konsumation in restaurantähnlichen Konstellationen wie namentlich an Apéros angeboten werden.
+
+<sup>3<sup>bis</sup></sup> Organisatoren von Veranstaltungen, Grossveranstaltungen sowie Fach- und Publikumsmessen können den Zugang für Personen ab 16 Jahren auf Inhaberinnen und Inhaber eines Impf- oder Genesungszertifikats gemäss Art. 3a Covid-19-Verordnung besondere Lage beschränken. In diesem Fall gilt weder die Maskentragpflicht gemäss Absatz 1 noch die Sitzpflicht während der Konsumation gemäss Absatz 3.
 
 <sup>4</sup> Wer eine Veranstaltung, eine Fach- oder Publikumsmesse mit mehr als 300 Personen, seien es Besucherinnen und Besucher oder Teilnehmende, durchführen will, muss diese vor Durchführung der zuständigen kantonalen Behörde melden.
 
@@ -140,7 +133,7 @@ beschliesst:
 
 **Massnahmen zum Schutz von Arbeitnehmerinnen und Arbeitnehmern**
 
-<sup>1</sup> Den Arbeitgeberinnen und Arbeitgebern wird empfohlen, ihren Arbeitnehmerinnen und Arbeitnehmern Homeoffice zu ermöglichen sowie in Mehrpersonenbüros und vor Ort stattfindenden Sitzungen eine Maskentragpflicht vorzusehen.
+<sup>1</sup> Den Arbeitgeberinnen und Arbeitgebern wird empfohlen, ihren Arbeitnehmerinnen und Arbeitnehmern Homeoffice zu ermöglichen.
 
 #### § 9
 
@@ -161,6 +154,8 @@ beschliesst:
 <sup>1</sup> Diese Verordnung tritt am 4. Dezember 2021, 06.00 Uhr, in Kraft.
 
 <sup>1<sup>bis</sup></sup> § 5 Abs. 3 tritt am 4. Dezember 2021, 06.00 Uhr, in Kraft.
+
+<sup>1<sup>ter</sup></sup> Die Änderungen der §§ 2, 4, 5, 6, 7 und 8 treten am 11. Dezember 2021, 06.00 Uhr, in Kraft.
 
 <sup>2</sup> Der Regierungsrat hebt die Verordnung ganz oder teilweise auf, sobald die Massnahmen nicht mehr notwendig sind.
 
