@@ -3,20 +3,20 @@ canton: ZG
 number: "612.141"
 title: Reglement zur Beurteilung von Gesuchen zu Unterstützungsmassnahmen im Bereich Sport gemäss Verordnung zur Äufnung des Lotteriefonds und des Sportfonds in Folge des Coronavirus (COVID-19-Lotterie- und Sportfondsverordnung)
 language: de
-version: 2021-04-10
-valid_until: 2021-12-10
-version_adopted: 2021-04-01
+version: 2021-12-11
+valid_until: 2022-03-11
+version_adopted: 2021-11-24
 adopted: 2020-05-18
 in_force: 2020-05-19
 url: "https://bgs.zg.ch/app/de/texts_of_law/612.141"
-pdf: "https://bgs.zg.ch/api/de/versions/2224/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2285/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zur Beurteilung von Gesuchen zu Unterstützungsmassnahmen im Bereich Sport gemäss Verordnung zur Äufnung des Lotteriefonds und des Sportfonds in Folge des Coronavirus (COVID-19-Lotterie- und Sportfondsverordnung)
 
-Vom 18. Mai 2020 (Stand 10. April 2021)
+Vom 18. Mai 2020 (Stand 11. Dezember 2021)
 
 Die Gesundheitsdirektion des Kantons Zug,
 
@@ -69,7 +69,7 @@ beschliesst:
 
 <sup>1</sup> Zuständig für die Bearbeitung der Gesuche ist das Amt für Sport und Gesundheitsförderung (Anlaufstelle). Die Gesuche werden in einem ersten Schritt formal auf die Anspruchsberechtigung geprüft. Im Anschluss werden formal zugelassene Gesuche inhaltlich geprüft. Geprüft wird insbesondere, ob die beantragte Summe plausibel und nachvollziehbar ist.
 
-<sup>2</sup> Es kann eine maximale Finanzhilfe von 100 000 Franken pro Antragsteller bzw. Antragstellerin ausgerichtet werden.
+<sup>2</sup> Es kann eine maximale Finanzhilfe von 150 000 Franken pro Antragsteller bzw. Antragstellerin ausgerichtet werden.
 
 <sup>3</sup> Erfüllt der Gesuchsteller die formalen und inhaltlichen Kriterien, beantragt das Amt für Sport und Gesundheitsförderung 80 Prozent der anrechenbaren Schadenssumme via Sportfonds (GD3300.0001 «Massnahmen Coronavirus (COVID-19)» als Soforthilfe bei der zuständigen Instanz.
 
