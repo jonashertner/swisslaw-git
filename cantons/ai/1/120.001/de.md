@@ -4,13 +4,13 @@ number: "120.001"
 title: Standeskommissionsbeschluss betreffend die Massnahmen zur Bekämpfung der Corona-Pandemie
 short: StKB COVID-19
 language: de
-version: 2021-12-03
-valid_until: 2021-12-10
-version_adopted: 2021-11-30
+version: 2021-12-11
+valid_until: 2022-01-31
+version_adopted: 2021-12-09
 adopted: 2020-04-14
 in_force: 2020-04-14
 url: "https://ai.clex.ch/app/de/texts_of_law/120.001"
-pdf: "https://ai.clex.ch/api/de/versions/1971/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1972/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1971/pdf_file"
 
 (StKB COVID-19)
 
-vom 14.04.2020 (Stand 03.12.2021)
+vom 14.04.2020 (Stand 11.12.2021)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -145,7 +145,7 @@ beschliesst:
 
 **Maskenpflicht an Veranstaltungen**
 
-<sup>1</sup> Jede Person trägt während einer Veranstaltung, an Märkten sowie an Fach- und Publikumsmessen eine Gesichtsmaske; diese Pflicht gilt unabhängig davon, ob eine Zertifikatspflicht besteht.
+<sup>1</sup> Jede Person trägt während einer Veranstaltung, an Märkten sowie an Fach- und Publikumsmessen eine Gesichtsmaske. Diese Pflicht gilt auch dann, wenn eine Zertifikatspflicht (3G) besteht; ist der Zugang auf Personen mit einem Impf- oder Genesungszertifikat (2G) beschränkt, kann auf eine Maske verzichtet werden.
 
 <sup>2</sup> Die Begriffe Veranstaltung, Märkte, Fach- und Publikumsmessen entsprechen jenen gemäss der COVID-19-Verordnung besondere Lage.
 
