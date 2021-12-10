@@ -4,13 +4,13 @@ number: "911.610"
 title: Verordnung zum Waldgesetz Basel-Stadt
 short: WaV BS
 language: de
-version: 2020-10-21
-valid_until: 2021-12-10
-version_adopted: 2020-10-13
+version: 2021-12-11
+valid_until: 2024-12-31
+version_adopted: 2021-12-07
 adopted: 2001-12-18
 in_force: 2002-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/911.610"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5223/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5539/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Waldverordnung | Landwirtschaft / Forstwesen / Freizeitgärten[^t-1]
 
 (WaV BS)
 
-Vom 18. Dezember 2001 (Stand 21. Oktober 2020)
+Vom 18. Dezember 2001 (Stand 11. Dezember 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -29,7 +29,7 @@ gestützt auf das Bundesgesetz über den Wald (Waldgesetz, WaG) vom 4. Oktober 1
 
 beschliesst:
 
-[^t-1]: §§ 13 und 23–28 vom Eidg. Departement für Umwelt, Verkehr, Energie und Kommunikation genehmigt am 21. 6. 2002.
+[^t-1]: §§ 13 und 23 - 28 vom Eidg. Departement für Umwelt, Verkehr, Energie und Kommunikation genehmigt am 21. 6. 2002.
 [^ingress-1]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de).
 [^ingress-2]: SG [911.600](https://www.gesetzessammlung.bs.ch/data/911.600/de).
 [^ingress-3]: SR [921.01](https://db.clex.ch/link/Bund/921.01/de).
@@ -47,7 +47,7 @@ beschliesst:
 - b) die mit der vorliegenden Verordnung den Einwohnergemeinden übertragenen Obliegenheiten, soweit sie das Stadtgebiet betreffen;
 - c) die Aufsicht über das Forstamt.
 
-## B. Rodung und Waldfeststellung (Art. 4–10 WaG)
+## B. Rodung und Waldfeststellung (Art. 4 - 10 WaG)
 
 #### § 2
 
@@ -205,10 +205,8 @@ beschliesst:
 
 <sup>1</sup> Keine Bewilligungspflicht besteht für:
 
-- a) fasnächtliche Marschübungen auf den Waldstrassen in den Langen Erlen während der vier Wochen vor dem Beginn der Basler Fasnacht;[^16-1]
+- a) fasnächtliche Marschübungen auf den Waldstrassen in den Langen Erlen während der vier Wochen vor dem Beginn der Basler Fasnacht;
 - b) private und nichtkommerzielle, örtlich begrenzte Veranstaltungen ohne technische Hilfsmittel an den dafür bezeichneten Orten bzw. Plätzen.
-
-[^16-1]: Die temporäre Anpassung der Dauer der Marschübungen auf sieben Wochen tritt am 21. Oktober 2020 in Kraft und gilt vom 4. Januar 2021 bis zum 21. Februar 2021; RRB vom 13. 10. 2020 (KB 17. 10. 2020).
 
 #### § 17
 
@@ -293,7 +291,7 @@ beschliesst:
 
 #### § 24
 
-**Waldentwicklungsplan (§ 21 WaG BS**
+**Waldentwicklungsplan (§ 21 WaG BS)**
 
 <sup>1</sup> Der Waldentwicklungsplan umfasst das gesamte Kantonsgebiet.
 
@@ -391,7 +389,7 @@ beschliesst:
 
 <sup>1</sup> Die Vergütungen des Kantons an das Forstrevier Riehen-Bettingen für die Ausübung der Forstaufsicht im Forstrevier sowie für die Erteilung der Holzschlagbewilligungen für die nicht-betriebsplanpflichtigen Waldeigentümerinnen und Waldeigentümer und deren Beratung werden vom Forstamt jährlich festgelegt.
 
-<sup>2</sup> Die entsprechenden Ansätze betragen CHF 10.– pro ha Waldfläche, CHF 2.– pro Silve Hiebsatz und CHF 1.– pro Einwohnerin oder Einwohner.
+<sup>2</sup> Die entsprechenden Ansätze betragen CHF 10.- pro ha Waldfläche, CHF 2.- pro Silve Hiebsatz und CHF 1.- pro Einwohnerin oder Einwohner.
 
 <sup>3</sup> Durch die Vergütungen sind abgegolten:
 
@@ -408,11 +406,11 @@ beschliesst:
 
 <sup>1</sup> Nach Massgabe des kantonalen Gesetzes über die Verwaltungsgebühren werden Gebühren erhoben für:
 
-- a) Rodungsbewilligungen (§ 2); CHF 500.– bis CHF 1000.–
-- b) Waldfeststellungsverfügungen (§ 7); CHF 500.– bis CHF 1000.–
-- c) Einzäunungsbewilligungen (§ 14); CHF 100.– bis CHF 500.–
-- d) Bewilligungen zum Befahren von Waldstrassen (§ 17); bis CHF 500.–
-- e) Bewilligungen zur Veräusserung oder Teilung von Wald (§ 20); CHF 100.–
+- a) Rodungsbewilligungen (§ 2); CHF 500.- bis CHF 1000.-
+- b) Waldfeststellungsverfügungen (§ 7); CHF 500.- bis CHF 1000.-
+- c) Einzäunungsbewilligungen (§ 14); CHF 100.- bis CHF 500.-
+- d) Bewilligungen zum Befahren von Waldstrassen (§ 17); bis CHF 500.-
+- e) Bewilligungen zur Veräusserung oder Teilung von Wald (§ 20); CHF 100.-
 
 <sup>2</sup> Die Gebühren für Rekursentscheide des Departements gemäss § 36 WaG BS richten sich nach dem Gesetz und der Verordnung über die Verwaltungsgebühren.
 
