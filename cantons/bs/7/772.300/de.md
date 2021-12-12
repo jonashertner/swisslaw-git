@@ -4,13 +4,13 @@ number: "772.300"
 title: Gesetz über die Industriellen Werke Basel
 short: IWB-Gesetz
 language: de
-version: 2020-07-01
-valid_until: 2021-12-12
-version_adopted: 2019-02-13
+version: 2021-12-13
+valid_until: 2023-03-15
+version_adopted: 2021-10-20
 adopted: 2009-02-11
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4923/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5379/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ IWB-Gesetz | Energie- und Wasserversorgung
 
 (IWB-Gesetz)
 
-Vom 11. Februar 2009 (Stand 1. Juli 2020)
+Vom 11. Februar 2009 (Stand 13. Dezember 2021)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -35,7 +35,9 @@ beschliesst:
 
 <sup>1</sup> Die sichere, umweltgerechte und wirtschaftliche Versorgung des Kantons Basel-Stadt mit leitungsgebundener Energie und mit leitungsgebundenem Trinkwasser ist für die Entwicklung des Kantons von zentraler Bedeutung und entspricht einer öffentlichen Aufgabe. In Erfüllung dieser Aufgabe orientiert sich der Kanton ebenso an den Erfordernissen einer sicheren und umweltgerechten Versorgung wie auch an der marktwirtschaftlichen Wirtschaftsverfassung.
 
-<sup>2</sup> Mit der leitungsgebundenen Versorgung mit Elektrizität, Erdgas und Trinkwasser auf dem Gebiet des Kantons Basel-Stadt sowie mit Fernwärme auf dem Gebiet der Stadt Basel werden gemäss den Bestimmungen dieses Gesetzes die Industriellen Werke Basel («IWB») betraut.
+<sup>2</sup> Mit der leitungsgebundenen Versorgung mit Elektrizität, Erdgas und Trinkwasser auf dem Gebiet des Kantons Basel-Stadt werden gemäss den Bestimmungen dieses Gesetzes die Industriellen Werke Basel («IWB») betraut.
+
+<sup>2<sup>bis</sup></sup> Mit der Versorgung mit Fernwärme auf dem Gebiet der Stadt Basel werden gemäss den Bestimmungen dieses Gesetzes die IWB betraut. Fernwärme im Sinne dieses Gesetzes ist die Versorgung mit leitungsgebundener Wärme in den vom Regierungsrat gestützt auf den Energierichtplan den IWB zugewiesenen Gebieten.
 
 <sup>3</sup> Dieses Gesetz regelt die Rechtsstellung, die Organisation und die Aufgaben der Industriellen Werke Basel.
 
@@ -60,6 +62,8 @@ beschliesst:
 **a) Sicherstellung der Versorgung**
 
 <sup>1</sup> Die IWB erfüllen öffentliche Aufgaben in den Bereichen Elektrizität, Erdgas, Fernwärme, Trinkwasser und thermische Kehrichtverwertung. Sie gewährleisten im Rahmen der Verfügbarkeit die Versorgung des Kantons Basel-Stadt mit leitungsgebundener Energie und mit leitungsgebundenem Trinkwasser nach Massgabe dieses Gesetzes und des Bundesrechts.
+
+<sup>1<sup>bis</sup></sup> Die IWB sind berechtigt, Leitungsabschnitte des Gasnetzes im Einklang mit den Festlegungen im Energierichtplan oder bei fehlender Wirtschaftlichkeit einer notwendigen Erneuerung für die IWB stillzulegen. Betroffene Gasbezügerinnen und -bezüger sind mindestens zwei Jahre im Voraus über die geplante Stilllegung zu informieren. Allfällige Entschädigungen richten sich nach dem Energiegesetz (EnG) vom 16. November 2016.
 
 <sup>2</sup> Die Versorgung umfasst Bau, Betrieb und Unterhalt von betriebseigenen Anlagen für Produktion, Speicherung, Transport und Verteilung, die Beteiligung an solchen Anlagen sowie die Beschaffung von Energie und Trinkwasser. Der Begriff des leitungsgebundenen Trinkwassers umfasst in diesem Gesetz auch das Brauch- und Löschwasser.
 
@@ -384,7 +388,7 @@ beschliesst:
 
 #### § 30
 
-<sup>1</sup> Die IWB erhalten die ausschliessliche Konzession, die Allmend (öffentlicher Grund und Boden) für den Bau, Betrieb und Unterhalt von Leitungen und Bauten der Energie- und Trinkwasserversorgung im ganzen Kanton zu nutzen. Für die Nahwärmeversorgung kann der Regierungsrat zusätzliche Konzessionen erteilen. Dabei ist die Nachhaltigkeit zu berücksichtigen.
+<sup>1</sup> Die IWB erhalten die ausschliessliche Konzession, die Allmend (öffentlicher Grund und Boden) für den Bau, Betrieb und Unterhalt von Leitungen und Bauten der Energie- und Trinkwasserversorgung im ganzen Kanton zu nutzen. Im Bereich der Versorgung mit leitungsgebundener Wärme beschränkt sich die Konzession auf das den IWB gemäss § 1 Abs. 2<sup>bis</sup> zugewiesene Versorgungsgebiet. Die IWB haben überdies Einschränkungen der Konzession für geringfügige Beanspruchungen der Allmend durch lokale Wärmeverteilnetze zu dulden.
 
 <sup>2</sup> Die Gemeinden Riehen und Bettingen sind von den IWB anzuhören, wenn ihre Allmend von den IWB in Anspruch genommen werden soll. Die Gemeinden Riehen und Bettingen können zudem ihre Allmend für die Brunn- und Notwasserversorgung und die Versorgung mit Fernwärme nutzen und entsprechende Konzessionen erteilen.
 
