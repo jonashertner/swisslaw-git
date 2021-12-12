@@ -4,13 +4,13 @@ number: "772.100"
 title: Energiegesetz
 short: EnG
 language: de
-version: 2020-07-01
-valid_until: 2021-12-12
-version_adopted: 2019-02-13
+version: 2021-12-13
+valid_until: 2024-06-30
+version_adopted: 2021-10-20
 adopted: 2016-11-16
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4922/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5380/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Energiegesetz | Energie- und Wasserversorgung[^t-1]
 
 (EnG)
 
-Vom 16. November 2016 (Stand 1. Juli 2020)
+Vom 16. November 2016 (Stand 13. Dezember 2021)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -426,6 +426,60 @@ Die Verordnung kann Abweichungen zulassen, wenn überwiegende öffentliche Inter
 <sup>1</sup> Wer einen Anspruch auf Auszahlung des Strompreis-Bonus geltend macht, hat der zuständigen Behörde die für die Berechnung der Höhe des Strompreis-Bonus notwendigen Angaben bekanntzugeben.
 
 <sup>2</sup> Der vollziehenden Behörde sind die notwendigen Daten durch die Steuerverwaltung bekanntzugeben.
+
+## VIII<sup>bis</sup>. Entschädigung bei Einstellung der Gasversorgung
+
+#### § 37a
+
+**Grundsatz**
+
+<sup>1</sup> Bei Einstellung der Gasversorgung haben betroffene Gasbezügerinnen und Gasbezüger Anspruch auf eine Entschädigung gemäss den nachfolgenden Bestimmungen.
+
+#### § 37b
+
+**Gaszentralheizungen**
+
+<sup>1</sup> Eigentümerinnen und Eigentümer von Gaszentralheizungen, deren Anlagen aufgrund der Einstellung der Gasversorgung nicht mehr genutzt werden können, haben Anspruch auf eine Entschädigung, sofern die durchschnittliche Lebensdauer der Anlage noch nicht erreicht ist.
+
+<sup>2</sup> Die Entschädigung wird pauschal ausgerichtet. Die Pauschale orientiert sich an den durchschnittlichen Kosten für die Neuerstellung von Heizungsanlagen vergleichbarer Leistung, an der durchschnittlichen Lebensdauer sowie an der bisherigen Nutzungsdauer.
+
+<sup>3</sup> Kann eine Gaszentralheizung aus technischen Gründen nicht mehr weiter betrieben werden und ist der Anschluss der betroffenen Liegenschaft an ein Fern- oder Nahwärmenetz noch nicht möglich, kann ein Beitrag an die Installationskosten eines Mietheizkessels gewährt werden. Entscheidet sich die Anlageneigentümerin oder der Anlageneigentümer stattdessen für den Ersatz der bestehenden Heizungsanlage, reduziert sich bei einer späteren Einstellung der Gasversorgung die Entschädigung gemäss Abs. 1 auf maximal denjenigen Betrag, der für die Kesselmiete angefallen wäre.
+
+#### § 37c
+
+**Gasherde und Gasbacköfen in Privathaushalten**
+
+<sup>1</sup> Können Gasherde und Gasbacköfen in Privathaushalten aufgrund der Einstellung der Gasversorgung nicht mehr genutzt werden, besteht Anspruch auf eine Entschädigung, sofern die durchschnittliche Lebensdauer des Geräts noch nicht erreicht ist.
+
+<sup>2</sup> Die Entschädigung wird pauschal ausgerichtet. Die Pauschale orientiert sich an den durchschnittlichen Kosten für die Neuanschaffung eines vergleichbaren Geräts, an der durchschnittlichen Lebensdauer sowie an der bisherigen Nutzungsdauer.
+
+<sup>3</sup> Erfordert der Ersatz eines Gasherds oder eines Gasbackofens durch einen Elektroherd oder Elektrobackofen eine Anpassung der in der Liegenschaft vorhandenen Elektroinstallationen, insbesondere einen Wechsel von einem einphasigen auf einen dreiphasigen Anschluss, werden die dadurch entstehenden Kosten abgegolten. Der Regierungsrat legt in der Verordnung einen Maximalbetrag fest, der sich an den durchschnittlichen Installationskosten orientiert. In begründeten Ausnahmefällen kann eine höhere Entschädigung ausgerichtet werden. Der Betrag kann reduziert werden, wenn die vorhandenen Elektroinstallationen nicht mehr den aktuell geltenden Vorschriften entsprechen.
+
+<sup>4</sup> Für Gasherde und Gasbacköfen, die nach Inkrafttreten dieser Bestimmung installiert werden, kann die Entschädigung reduziert oder verweigert werden.
+
+#### § 37d
+
+**Industrielle und gewerbliche Anlagen**
+
+<sup>1</sup> Können gasbetriebene Anlagen für industrielle und gewerbliche Anwendungen aufgrund der Einstellung der Gasversorgung nicht mehr genutzt werden, besteht Anspruch auf eine Entschädigung, sofern ein Betrieb der Anlage mit Flaschengas nicht möglich oder nicht zumutbar ist.
+
+<sup>2</sup> Die Entschädigung wird pauschal ausgerichtet. Die Pauschale orientiert sich an den durchschnittlichen Investitionskosten einer Anlage der gleichen Leistungskategorie, der durchschnittlichen Lebensdauer einer vergleichbaren Anlage sowie an der bisherigen Nutzungsdauer.
+
+<sup>3</sup> Erfordert die Einstellung der Gasversorgung einen Umstieg auf elektrisch betriebene Anlagen und erfordert dies einen Wechsel von einem einphasigen auf einen dreiphasigen Hausanschluss, werden die dadurch entstehenden Kosten abgegolten. Der Regierungsrat legt in der Verordnung einen Maximalbetrag fest, der sich an den durchschnittlichen Installationskosten orientiert. In begründeten Ausnahmefällen kann eine höhere Entschädigung ausgerichtet werden.
+
+<sup>4</sup> Für Anlagen, die nach Inkrafttreten dieser Bestimmung neu erstellt werden, kann die Entschädigung reduziert oder verweigert werden.
+
+#### § 37e
+
+**Andere gasbetriebene Geräte und Anlagen**
+
+<sup>1</sup> Können andere gasbetriebene Geräte und Anlagen aufgrund der Einstellung der Gasversorgung nicht mehr genutzt werden, kann zur Verminderung von Härtefällen eine angemessene Entschädigung gewährt werden.
+
+#### § 37f
+
+**Vollzug**
+
+<sup>1</sup> Der Regierungsrat regelt die Einzelheiten betreffend die Entschädigungen aufgrund der Einstellung der Gasversorgung in einer Verordnung.
 
 ## IX. Vollzug, Kontrolle, Statistik
 
