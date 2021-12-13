@@ -3,13 +3,12 @@ canton: AR
 number: "812.112"
 title: Rahmenvertrag zwischen dem Kanton Appenzell Ausserrhoden und dem Spitalverbund Appenzell Ausserrhoden (SVAR)
 language: de
-version: 2018-01-01
-valid_until: 2021-12-13
-version_adopted: 2018-07-03
+version: 2021-12-14
+version_adopted: 2021-12-14
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/812.112"
-pdf: "https://ar.clex.ch/api/de/versions/1312/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1378/pdf_file"
 text: pdf
 ---
 
@@ -161,6 +160,46 @@ vom 3. Juli 2018 (Stand 1. Januar 2018)
 
 [^15-1]
 
+## Nachtrag zum Rahmenvertrag vom 3. Juli 2018 zwischen dem Kanton Appenzell Ausserrhoden und dem Spitalverbund Appenzell Ausserrhoden (SVAR)
+
+vom 14. Dezember 2021 (Stand 14. Dezember 2021)
+
+Der Rahmenvertrag vom 3. Juli 2018 wird wie folgt ergänzt und geändert:
+
+#### Art. 1
+
+**Aufgabe des Betriebsstandortes Heiden**
+
+<sup>1</sup> Der SVAR stellt den Betrieb im Spital Heiden bis spätestens 31. Dezember 2021 ein.
+
+#### Art. 2
+
+**Rückübertragung des Baurechts**
+
+<sup>1</sup> Mit der Betriebsaufgabe wird das für die betriebsnotwendigen Bauten des
+
+### Spitals Heiden eingeräumte Baurecht auf den Kanton Appenzell Ausserrho-
+
+den zurückübertragen.
+
+<sup>2</sup> Die Übertragung erfolgt mit Kaufvertrag gemäss Anhang I zum Übertragungswert von Fr. 12'908'766.
+
+#### Art. 3
+
+**Übernahme Mobilien**
+
+<sup>1</sup> Der Kanton Appenzell Ausserrhoden übernimmt Mobilien, für die der SVAR infolge der Schliessung des Betriebsstandortes Heiden keine Verwendung mehr hat und die nicht an Dritte veräussert werden können.
+
+<sup>2</sup> Die Einzelheiten der Übernahme werden mit einem separaten Vertrag geregelt.
+
+#### Art. 4
+
+**Ausleihe von Kunstwerken**
+
+<sup>1</sup> Die dem SVAR zum unentgeltlichen Gebrauch zur Verfügung gestellten Kunstwerke werden gemäss Anhang 2 bereinigt.
+
+### Anhänge<sup></sup>
+
 ## Weitere Fussnoten
 
 - [*] vgl. Änderungstabelle am Schluss des Erlasses
@@ -169,3 +208,5 @@ vom 3. Juli 2018 (Stand 1. Januar 2018)
 - [3] Geplante und beschlossene Bau- und Unterhaltsarbeiten PZA
 - [4] Mobilien, Anlagen und Einrichtungen
 - [5] Fonds und Separatvermögen
+- [1] Kaufvertrag Baurecht
+- [2] bereinigte Kunstsammlung SVAR  Gemäss Beschluss vom 14. Dezember 2021 werden die Anhänge nicht publiziert (RRB-2021-551).
