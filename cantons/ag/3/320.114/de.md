@@ -4,13 +4,13 @@ number: "320.114"
 title: Verordnung über zusätzliche Massnahmen des Kantons Aargau zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-V AG
 language: de
-version: 2021-12-11
-valid_until: 2021-12-13
-version_adopted: 2021-12-08
+version: 2021-12-14
+valid_until: 2021-12-23
+version_adopted: 2021-12-10
 adopted: 2021-12-01
 in_force: 2021-12-04
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/320.114"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3095/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3096/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3095/pdf_file"
 
 (Covid-19-V AG)
 
-Vom 01.12.2021 (Stand 11.12.2021)
+Vom 01.12.2021 (Stand 14.12.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -47,7 +47,7 @@ beschliesst:
 <sup>1</sup> Jede Person muss in den Innenräumen von Schulen der Primar- und Sekundarstufe I und II sowie von Angeboten der familien- und schulergänzenden Kinderbetreuung eine Gesichtsmaske tragen. Die Maskentragpflicht gilt nicht:
 
 - a) für noch nicht schulpflichtige Kinder;
-- b) für Schülerinnen und Schüler des Kindergartens und der Primarstufe bis und mit 4. Primarschulklasse, ausser sie besuchen eine Mehrjahrgangsklasse mit Schülerinnen und Schülern der 5. beziehungsweise 6. Primarschulklasse und/oder eine Gruppe der familien- und schulergänzenden Kinderbetreuung, zu der auch Schülerinnen und Schüler der 5. beziehungsweise 6. Primarschulklasse gehören;
+- b) für Schülerinnen und Schüler des Kindergartens;
 - c) in Unterrichts-, Betreuungs- und Therapiesituationen, in denen das Tragen einer Gesichtsmaske den Unterricht, die Betreuung oder die Therapie wesentlich erschwert, sofern der Mindestabstand eingehalten wird oder der Schutz durch andere Schutzmassnahmen gewährleistet wird; dazu gehören namentlich folgende Situationen:
   - 1\. in den Unterrichtsräumen in Situationen, in denen das Tragen einer Maske den Unterricht wesentlich erschwert;
   - 2\. für eine einzelne Schülerin beziehungsweise einen einzelnen Schüler im Unterricht (bei Vorträgen, Referaten oder Präsentationen), wenn die übrigen Personen eine Maske tragen;
@@ -58,6 +58,12 @@ beschliesst:
   - 7\. in Sonderschulen, wenn die Schulleitung eine Schülerin oder einen Schüler von der Maskentragpflicht befreit.
 
 <sup>2</sup> Sämtliche Teilnehmende von Lagern haben unmittelbar vor der Abreise ein gültiges Covid-19-Zertifikat oder ein aktuelles negatives Testergebnis (PCR-Test) vorzuweisen.
+
+#### § 2a
+
+**Entfallen des Schulunterrichts in der Volksschule**
+
+<sup>1</sup> Für Schülerinnen und Schüler der Volksschule entfällt der Schulunterricht vom 20. bis zum 23. Dezember 2021. Die Schulen stellen in dieser Zeit in den Schulen ein bedarfsgerechtes Betreuungsangebot sicher. Dieses umfasst für das einzelne Kind die Zeiten seines Stundenplans.
 
 #### § 3
 
@@ -156,6 +162,10 @@ beschliesst:
 <sup>1<sup>bis</sup></sup> § 5 Abs. 3 tritt am 4. Dezember 2021, 06.00 Uhr, in Kraft.
 
 <sup>1<sup>ter</sup></sup> Die Änderungen der §§ 2, 4, 5, 6, 7 und 8 treten am 11. Dezember 2021, 06.00 Uhr, in Kraft.
+
+<sup>1<sup>quater</sup></sup> Die Änderung von § 2 tritt am 10. Januar 2022, 06.00 Uhr, in Kraft.
+
+<sup>1<sup>quinquies</sup></sup> § 2a tritt am 14. Dezember 2021, 06.00 Uhr, in Kraft.
 
 <sup>2</sup> Der Regierungsrat hebt die Verordnung ganz oder teilweise auf, sobald die Massnahmen nicht mehr notwendig sind.
 
