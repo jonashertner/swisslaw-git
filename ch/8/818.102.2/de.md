@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-12-08
+version: 2021-12-14
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211208/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211208-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211208/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211214/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211214-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211214/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211208/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 8. Dezember 2021)
+vom 4. Juni 2021 (Stand am 14. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -265,7 +265,7 @@ In menschenlesbarer Form enthalten Covid-19-Zertifikate zusätzlich die folgende
 
 [^12-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^12-2]: Berichtigung vom 24. Nov. 2021 ([AS 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: Tritt am 10. Jan. 2022 in Kraft ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^12-3]: Tritt am 10. Jan. 2022 in Kraft ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^12-4]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## 4. Abschnitt: Covid-19-Impfzertifikate

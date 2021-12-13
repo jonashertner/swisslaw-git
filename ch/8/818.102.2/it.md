@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-12-08
+version: 2021-12-14
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211208/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211208-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211208/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211214/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211214-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211214/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211208/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 8 dicembre 2021)
+del 4 giugno 2021 (Stato 14 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -517,7 +517,7 @@ Per i seguenti certificati COVID-19 i certificati di firma utilizzati per la ver
 
 - a. certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3;
 - b. certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3;
-- c. ...[^25-1]
+- c. ... .[^25-1]
 
 [^25-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021, la lett. a il 30 nov. 2021, la lett. c il 10 gen. 2022 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 

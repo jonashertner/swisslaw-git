@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-12-08
+version: 2021-12-14
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211208/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211208-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211208/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211214/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211214-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211214/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 8 December 2021)
+of 4 June 2021 (Status as of 14 December 2021)
 
 The Swiss Federal Council,
 
@@ -267,7 +267,7 @@ COVID-19 certificates in human-readable form shall also contain the following in
 
 [^12-1]: Repealed by No I of the O of 3 Nov. 2021, with effect from 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^12-2]: Correction of 24 Nov. 2021 ([AS 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: Comes into force on 10 Jan 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^12-3]: Comes into force on 10 Jan 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^12-4]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Section 4 COVID-19 Vaccination Certificates
