@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: fr
-version: 2021-12-06
+version: 2021-12-14
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211206/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211206-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211206/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211214/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211214-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211214/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211206/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 23 juin 2021 (Etat le 6 décembre 2021)
+du 23 juin 2021 (Etat le 14 décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -131,7 +131,7 @@ Les personnes suivantes sont exemptées de l’obligation prévue à l’al. 1:
 - e. les personnes qui se produisent devant un public, notamment les orateurs;
 - f.[^6-1] les personnes qui, sur la base d’une prescription de la présente ordonnance, sont exemptées de l’obligation de porter un masque facial dans les domaines du sport et de la culture;
 - g.[^6-2] les personnes dans les établissements de restauration, les bars et les boîtes de nuit lorsqu’elles sont attablées;
-- h.[^6-3] les personnes dans la zone réservée au public des manifestations lorsqu’elles consomment assisent à leur place;
+- h.[^6-3] les personnes dans la zone réservée au public des manifestations lorsqu’elles consomment assises à leur place;
 - i.[^6-4] les personnes dans les installations et les établissements accessibles au public ou les manifestations auxquels l’accès est limité aux personnes disposant d’un certificat de vaccination ou de guérison.
 
 <sup>3</sup> et <sup>4</sup> ...[^6-5]
@@ -642,7 +642,7 @@ Annexe 1*[^t-1]*
 
 ## Prescriptions pour les plans de protection
 
-[^t-1]: Mise à jour par le ch. II des O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur jusqu’au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), du 1<sup>er</sup> oct. 2021 (Attestations des personnes qui, pour des raisons médicales, ne peuvent ni se faire vacciner ni se faire tester) ([RO 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)), l’annexe ch. 2 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) et le ch. II de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^t-1]: Mise à jour par le ch. II des O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19) ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), du 1<sup>er</sup> oct. 2021 (Attestations des personnes qui, pour des raisons médicales, ne peuvent ni se faire vacciner ni se faire tester) ([RO 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)), l’annexe ch. 2 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) et le ch. II de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 ### 1 Plan de protection pour les installations et les établissements accessibles au public ainsi que pour les manifestations ne limitant pas l’accès, pour les personnes de 16 ans et plus, aux seules personnes disposant d’un certificat
 
@@ -712,9 +712,10 @@ Le plan de protection comprend des mesures concernant les points suivants:
 - b. l’information des visiteurs et des participants sur la nécessité d’un certificat et sur les mesures d’hygiène et de conduite en vigueur;
 - c. l’hygiène, notamment la mise à disposition de désinfectant, les nettoyages périodiques et l’aération;
 - d. l’obligation éventuelle de porter un masque facial pour les employés et les autres personnes actives lors de la manifestation ayant sur place un contact avec les visiteurs;
-- e. la présence de titulaires d’une attestation au sens de l’art. 3, al. 2<sup>bis</sup>, telle que l’obligation pour ces personnes de porter un masque facial ou, si elles disposent également d’une attestation les exemptant de l’obligation de porter un masque en vertu de l’art. 5, al. 1, let. b, des consignes concernant le respect de la distance requise.
+- e.[^annex1-lvlu1-lvl2-2] ...
 
 [^annex1-lvlu1-lvl2-1]: RS **808.102.2**
+[^annex1-lvlu1-lvl2-2]: Entre en vigueur le 10 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)ch. V).
 
 Annexe 2*[^t-2]*
 

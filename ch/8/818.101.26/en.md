@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2021-12-06
+version: 2021-12-14
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211206/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211206-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211206/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211214/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211214-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211214/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 6 December 2021)
+of 23 June 2021 (Status as of 14 December 2021)
 
 The Swiss Federal Council,
 
@@ -714,10 +714,11 @@ The precautionary measures plan shall include measures related to:
 
 - b. the provision of information to visitors and participants on the requirement to have a certificate and on the applicable hygiene and social distancing measures;
 - c. hygiene, in particular the provision of disinfectant, regular cleaning, and ventilation;
-- d. a requirement to wear a face mask for staff and other persons working at the event who come into contact with visitors on the premises.
-- e. the presence of persons with a medical certificate pursuant to Article 3 paragraph 2<sup>bis</sup>, such as the requirement for these persons to wear a face mask or, if they also have a medical certificate exempting them from wearing a face mask pursuant to Article 5 paragraph 1 letter b, rules on maintaining the required distance.
+- d. a requirement to wear a face mask for staff and other persons working at the event who come into contact with visitors on the premises;
+- e. ...[^annex1-lvlu1-lvl2-2]
 
 [^annex1-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^annex1-lvlu1-lvl2-2]: Comes into force 10 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)No V).
 
 Annex 2*[^t-2]*
 

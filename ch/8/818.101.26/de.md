@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2021-12-06
+version: 2021-12-14
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211206/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211206-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211206/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211214/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211214-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211214/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211206/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 6. Dezember 2021)
+vom 23. Juni 2021 (Stand am 14. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -713,9 +713,11 @@ Das Schutzkonzept enthält Massnahmen in Bezug auf:
 - b. die Information der Besucherinnen und Besucher sowie der Teilnehmenden über das Erfordernis eines Zertifikats sowie über geltende Hygiene- und Verhaltensmassnahmen;
 - c. die Hygiene, insbesondere die Bereitstellung von Desinfektionsmitteln, periodische Reinigungen, Lüftung;
 - d. eine allfällige Pflicht zum Tragen einer Gesichtsmaske für Arbeitnehmerinnen und Arbeitnehmer und weitere an der Veranstaltung tätige Personen, die vor Ort Kontakt haben zu Besucherinnen und Besuchern;
-- e. die Anwesenheit von Personen mit einem Attest nach Artikel 3 Absatz 2<sup>bis</sup>, etwa die Pflicht dieser Personen zum Tragen einer Gesichtsmaske oder, bei gleichzeitigem Vorliegen eines Attests zur Befreiung von der Pflicht zum Tragen einer Gesichtsmaske nach Artikel 5 Absatz 1 Buchstabe b, Vorgaben zur Einhaltung des erforderlichen Abstands.
+- e.[^annex1-lvlu1-lvl2-2] …
+- [tab]
 
 [^annex1-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^annex1-lvlu1-lvl2-2]: Tritt am 10. Jan. 2022 in Kraft (AS 2021 **813** Ziff. V).
 
 Anhang 2*[^t-2]*
 

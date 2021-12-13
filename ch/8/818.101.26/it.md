@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: it
-version: 2021-12-06
+version: 2021-12-14
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211206/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211206-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211206/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211214/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211214-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211214/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211206/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 23 giugno 2021 (Stato 6 dicembre 2021)
+del 23 giugno 2021 (Stato 14 dicembre 2021) (Stato 14 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -268,7 +268,7 @@ Se per le persone a partire dai 16 anni l’accesso è limitato alle persone con
 <sup>5</sup> Nel piano di protezione deve essere designata una persona responsabile dell’attuazione del piano e dei contatti con le autorità competenti.
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^10-2]: In vigore dal 10 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-2]: In vigore dal 10 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^10-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 11
@@ -644,7 +644,7 @@ Allegato 1*[^t-1]*
 
 ## Prescrizioni relative ai piani di protezione
 
-[^t-1]: Aggiornato dal n. II dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore fino al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), dal n. II dell’O del 1° ott. 2021 (Attestazioni per le persone che non possono essere vaccinate né testate per motivi medici) ([RU 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)), dall’all. n. 2 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) e dal n. II dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^t-1]: Aggiornato dal n. II dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19) ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), dal n. II dell’O del 1° ott. 2021 (Attestazioni per le persone che non possono essere vaccinate né testate per motivi medici) ([RU 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)), dall’all. n. 2 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) e dal n. II dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 ### 1 Piani di protezione per strutture accessibili al pubblico e manifestazioni per le quali l’accesso delle persone a partire dai 16 anni non è limitato alle persone con un certificato
 
@@ -715,9 +715,10 @@ Il piano di protezione prevede misure per quanto riguarda:
 - b. l’informazione di visitatori e partecipanti sulla necessità di presentare un certificato e sulle misure di igiene e di comportamento in vigore;
 - c. l’igiene, in particolare la messa a disposizione di disinfettanti, le pulizie periodiche, l’aerazione;
 - d. un eventuale obbligo per i lavoratori e per le altre persone che lavorano per la manifestazione che hanno contatti sul posto con i visitatori di portare una mascherina facciale;
-- e. la presenza di persone con un attestato secondo l’articolo 3 capoverso 2bis, ad esempio l’obbligo per queste persone di portare una mascherina facciale o, in caso di compresenza di un attestato per l’esonero dall’obbligo di portare una mascherina facciale secondo l’articolo 5 capoverso 1 lettera b, prescrizioni per il rispetto della distanza obbligatoria.
+- e.[^annex1-lvlu1-lvl2-2] ...
 
 [^annex1-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^annex1-lvlu1-lvl2-2]: In vigore dal 10 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)n. V).
 
 Allegato 2*[^t-2]*
 
