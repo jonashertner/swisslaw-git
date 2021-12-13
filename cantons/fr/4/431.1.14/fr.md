@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.14"
-title: "Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2021/22"
+title: "Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2022/23"
 language: fr
-version: 2021-01-26
-valid_until: 2021-12-13
-version_adopted: 2021-01-26
+version: 2021-12-14
+valid_until: 2022-12-11
+version_adopted: 2021-12-14
 adopted: 2026-01-27
 in_force: 2026-06-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.1.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6754/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7070/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2021/22
+# Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2022/23
 
 Université, admission des étrangers aux études de médecine – O
 
-du 26.01.2021 (version entrée en vigueur le 26.01.2021)
+du 14.12.2021 (version entrée en vigueur le 14.12.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -34,7 +34,7 @@ En sa séance du 12 octobre 2006, la CUS a recommandé aux cantons universitaire
 
 Demeurent réservées les conditions d'admission générales de l'Université de Fribourg.
 
-La présente ordonnance a été préavisée favorablement par le Rectorat de l'Université de Fribourg, en sa séance du 23 novembre 2020.
+La présente ordonnance a été préavisée favorablement par le Rectorat de l'Université de Fribourg, en sa séance du 8 novembre 2021.
 
 Sur la proposition de la Direction de l'instruction publique, de la culture et du sport,
 
@@ -44,7 +44,7 @@ Arrête:
 
 **Champ d'application et but**
 
-<sup>1</sup> La présente ordonnance s'applique aux études de médecine humaine à l'Université de Fribourg pour l'année académique 2021/22.
+<sup>1</sup> La présente ordonnance s'applique aux études de médecine humaine à l'Université de Fribourg pour l'année académique 2022/23.
 
 <sup>2</sup> Elle règle la limitation de l'accès des candidats et candidates étrangers aux études de médecine humaine.
 
@@ -78,4 +78,4 @@ Arrête:
 
 <sup>3</sup> Demeurent réservées les conditions d'admission générales de l'Université de Fribourg ainsi qu'une éventuelle limitation fondée sur un test d'aptitudes.
 
-2021\_008
+2021\_181
