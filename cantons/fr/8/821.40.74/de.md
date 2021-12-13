@@ -4,13 +4,13 @@ number: "821.40.74"
 title: Verordnung über die Massnahmen für die Wahrung der Kapazitäten im Gesundheitsbereich im Rahmen der Bekämpfung des Coronavirus
 short: VMWKG
 language: de
-version: 2021-04-19
-valid_until: 2021-05-31
-version_adopted: 2021-04-15
+version: 2021-12-14
+valid_until: 2022-06-30
+version_adopted: 2021-12-14
 adopted: 2021-12-14
 in_force: 2021-12-14
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.74"
-pdf: "https://bdlf.fr.ch/api/de/versions/6820/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7069/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Wahrung der Kapazitäten im Gesundheitsbereich – V
 
 (VMWKG)
 
-vom 28.10.2020 (Fassung in Kraft getreten am 19.04.2021)
+vom 14.12.2021 (Fassung in Kraft getreten am 14.12.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -33,7 +33,7 @@ gestützt auf das Gesundheitsgesetz vom 16. November 1999 (GesG);
 
 in Erwägung:
 
-Die Entwicklung der gesundheitlichen Lage ist aktuell besorgniserregend und die Zahl der Hospitalisierungen aufgrund des Coronavirus hat eine kritische Höhe erreicht, die das Ergreifen von Massnahmen für die Wahrung der Kapazitäten des Gesundheitswesens im Kanton erfordert.
+Die Entwicklung der gesundheitlichen Lage ist derzeit besorgniserregend und die Zahl der Hospitalisierungen aufgrund des Coronavirus hat eine kritische Höhe erreicht, die das Ergreifen von Massnahmen für die Wahrung der Kapazitäten des Gesundheitswesens im Kanton erfordert.
 
 Auf Antrag der Direktion für Gesundheit und Soziales,
 
@@ -55,17 +55,17 @@ beschliesst:
 
 #### Art. 3
 
-**Spitalkoordinierungsstelle – Auftrag**
+**Spitalkoordinationsstelle – Auftrag**
 
-<sup>1</sup> Der Auftrag der Spitalkoordinationsstelle besteht in der Koordination der Operationsplanung mit den verschiedenen Einrichtungen im Kanton Freiburg.
+<sup>1</sup> Der Auftrag der Spitalkoordinationsstelle besteht darin, die Operationsplanung zwischen den verschiedenen Einrichtungen im Kanton Freiburg zu koordinieren.
 
-<sup>2</sup> Sie stellt sicher, dass der Kanton so weit wie möglich über ausreichende Kapazitäten für die Betreuung der mit Coronavirus infizierten Patientinnen und Patienten verfügt, sowie für andere dringende Untersuchungen und Behandlungen.
+<sup>2</sup> Sie stellt sicher, dass der Kanton so weit wie möglich über ausreichende Kapazitäten für die Betreuung der mit Coronavirus infizierten Patientinnen und Patienten sowie für andere dringende Untersuchungen und Behandlungen verfügt.
 
 #### Art. 4
 
-**Kapazität des Gesundheitswesens – Suspendierung der nichtdringlichen Eingriffe**
+**Kapazität des Gesundheitswesens – Sistierung der nichtdringlichen Eingriffe**
 
-<sup>1</sup> Grundsätzlich werden die nicht dringenden Eingriffe oder die Eingriffe, deren Verschiebung zu keinen langfristig schädlichen Auswirkungen auf die Gesundheit der Patientinnen und Patienten führt, suspendiert.
+<sup>1</sup> Grundsätzlich werden nicht dringende Eingriffe und Eingriffe, deren Verschiebung zu keinen langfristig schädlichen Auswirkungen auf die Gesundheit der Patientinnen und Patienten führt, sistiert.
 
 <sup>2</sup> Eine Ausnahme von Absatz 1 ist möglich, wenn die Erreichung des in Artikel 3 Abs. 2 festgelegten Ziels sichergestellt werden kann und die von der Spitalkoordinationsstelle erstellte Operationsplanung angewandt wird.
 
@@ -73,20 +73,16 @@ beschliesst:
 
 #### Art. 5
 
-**Kapazität des Gesundheitswesens – Teilbeschlagnahme von privaten Kliniken**
+**Kapazität des Gesundheitswesens – Teilrequisition von privaten Kliniken**
 
-<sup>1</sup> Mit dem Ziel der Einhaltung der in Artikel 3 beschriebenen Planung kann der Staatsrat abhängig vom Bedarf die infrastrukturellen, personellen und materiellen Kapazitäten des Spitals Daler und der Clinique Générale – Sainte-Anne beschlagnahmen.
-
-<sup>2</sup> Die Beschlagnahmekompetenz betrifft auch juristisch selbstständige Unternehmen, die mit Leistungen wie z. B. Anästhesie zum Betrieb der Spitäler beitragen.
-
-<sup>3</sup> In einer Notsituation kann die Direktion für Gesundheit und Soziales solche Massnahmen für eine Dauer von höchstens einem Monat treffen. Die Kompetenz zur Verlängerung einer Beschlagnahmung liegt beim Staatsrat.
+<sup>1</sup> Mit dem Ziel, die Planung nach Artikel 3 umzusetzen, kann der Staatsrat nach Bedarf infrastrukturelle, personelle und materielle Kapazitäten des Spitals Daler und der Clinique Générale – Sainte-Anne requirieren.
 
 #### Art. 6
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Verordnung bleibt bis 31. Mai 2021 um Mitternacht in Kraft; Artikel 117 der Verfassung des Kantons Freiburg vom 16. Mai 2004 bleibt vorbehalten.
+<sup>1</sup> Diese Verordnung bleibt bis 30. Juni 2022 in Kraft; Artikel 117 der Verfassung des Kantons Freiburg vom 16. Mai 2004 bleibt vorbehalten.
 
-<sup>2</sup> Sollte die gesundheitliche Lage dies erfordern, kann die Geltungsdauer verlängert werden.
+<sup>2</sup> Sollte es aufgrund der gesundheitlichen Lage nötig sein, so kann die Geltungsdauer verlängert werden.
 
-2020\_136
+2021\_177

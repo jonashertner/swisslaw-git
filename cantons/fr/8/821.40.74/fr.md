@@ -4,13 +4,13 @@ number: "821.40.74"
 title: Ordonnance relative aux mesures de préservation de la capacité sanitaire dans le cadre de la lutte contre le coronavirus
 short: OMPCS
 language: fr
-version: 2021-04-19
-valid_until: 2021-05-31
-version_adopted: 2021-04-15
+version: 2021-12-14
+valid_until: 2022-06-30
+version_adopted: 2021-12-14
 adopted: 2021-12-14
 in_force: 2021-12-14
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.74"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6820/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7069/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, préservation de la capacité sanitaire – O
 
 (OMPCS)
 
-du 28.10.2020 (version entrée en vigueur le 19.04.2021)
+du 14.12.2021 (version entrée en vigueur le 14.12.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -77,16 +77,12 @@ Arrête:
 
 <sup>1</sup> Dans le but de réaliser la planification décrite à l'article 3, le Conseil d'Etat peut faire réquisitionner, selon les besoins, les capacités en infrastructure, en personnel et en matériel de l'Hôpital Daler et de la Clinique Générale – Sainte-Anne.
 
-<sup>2</sup> La compétence de réquisitionner porte également sur les sociétés juridiquement indépendantes qui contribuent au fonctionnement des hôpitaux avec des prestations telles que notamment l'anesthésie.
-
-<sup>3</sup> En situation d'urgence, la Direction de la santé et des affaires sociales peut prendre de telles mesures pour une durée de un mois au maximum. La compétence de prolonger une telle réquisition appartient au Conseil d'Etat.
-
 #### Art. 6
 
 **Durée de validité**
 
-<sup>1</sup> Sous réserve de l'article 117 de la Constitution du canton de Fribourg du 16 mai 2004, la présente ordonnance reste en vigueur jusqu'au 31 mai 2021, à minuit.
+<sup>1</sup> Sous réserve de l'article 117 de la Constitution du canton de Fribourg du 16 mai 2004, la présente ordonnance reste en vigueur jusqu'au 30 juin 2022.
 
 <sup>2</sup> Si la situation sanitaire l'exige, sa durée de validité peut être prolongée.
 
-2020\_136
+2021\_177
