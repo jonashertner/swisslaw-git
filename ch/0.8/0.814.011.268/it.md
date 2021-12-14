@@ -3,30 +3,28 @@ sr: "0.814.011.268"
 title: "Accordo del 23 novembre 2017 tra la Confederazione Svizzera e l'Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: it
-version: 2020-11-05
+version: 2021-12-15
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20201105/it/xml/fedlex-data-admin-ch-eli-cc-2018-124-20201105-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20201105/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20211215/it/xml/fedlex-data-admin-ch-eli-cc-2018-124-20211215-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20211215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo tra la Confederazione Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra
 
-RU **20****18** 895
+RU **2018** 895; FF **2019** 2299
 
 *Testo originale*
 
-Concluso a Berna il 23 novembre 2017
+Concluso a Berna il 23 novembre 2017 Applicazione provvisoria degli articoli 11–13 dal 23 novembre 2017 Approvato dall’Assemblea federale il 22 marzo 2019[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 6 dicembre 2019 In vigore dal 1° gennaio 2020[^t-2] [^t-3]
 
-Applicazione provvisoria degli articoli 11–13 dal 23 novembre 2017
+(Stato 15 dicembre 2021)
 
-In vigore dal 1° gennaio 2020[^t-1]
-
-(Stato 5 novembre 2020)
-
-[^t-1]: [RU 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
+[^t-1]: [RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
+[^t-2]: [RU 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
+[^t-3]: Correzione del 15 dic. 2021 ([RU 2021 863](https://fedlex.data.admin.ch/eli/oc/2021/863)).
 
 La Confederazione Svizzera, (in seguito denominata «Svizzera»), da una parte, e l’Unione europea, (in seguito denominata «Unione»), dall’altra,
 
@@ -67,7 +65,7 @@ hanno convenuto quanto segue:
 [^ingress-1]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
 [^ingress-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^ingress-3]: [RS 0.748.131.934.92](https://fedlex.data.admin.ch/eli/cc/1950/1299_1334_1312)
-[^ingress-4]: [RS 0.814.012](https://fedlex.data.admin.ch/eli/cc/2017/619)
+[^ingress-4]: RS **0****.**[814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
 
 ## Capitolo I: Disposizioni generali
 
@@ -353,11 +351,11 @@ Fatto a Berna il 23 novembre 2017.
 <tr><td>Per la Confederazione Svizzera: Marc Chardonnens</td><td>Per l’Unione europea: Rein Oidekivi Michael Matthiessen</td></tr>
 </table>
 
-Allegato I*[^t-2]*
+Allegato I*[^t-4]*
 
 ## CRITERI FONDAMENTALI
 
-[^t-2]: Nuovo testo giusta l’art. 1 della Dec. n. 2/2019 del comitato misto del 5 dic. 2019 ([RU 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Aggiornato dall’art. 1 della Dec. n. 2/2020 del comitato misto del 5 nov. 2020, in vigore dal 5 nov. 2020 ([RU 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
+[^t-4]: Nuovo testo giusta l’art. 1 della Dec. n. 2/2019 del comitato misto del 5 dic. 2019 ([RU 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Aggiornato dall’art. 1 della Dec. n. 2/2020 del comitato misto del 5 nov. 2020, in vigore dal 5 nov. 2020 ([RU 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
 
 ### A. Criteri fondamentali per gli impianti fissi
 
@@ -386,7 +384,7 @@ La presente sezione è sottoposta a revisione conformemente all’articolo 13 pa
 <tr><td>13 La verifica e l’accreditamento nell’ambito del SSQE sono rigorosi almeno quanto quelli di cui a:</td><td>– Articolo 15 e allegato V della direttiva 2003/87/CE – Regolamento (UE) n. 600/2012 della Commissione, del 21 giugno 2012, sulla verifica delle comunicazioni delle emissioni dei gas a effetto serra e delle tonnellate-chilometro e sull’accreditamento dei verificatori a norma della direttiva 2003/87/CE del Parlamento europeo e del Consiglio – Regolamento di esecuzione (UE) 2018/2067 della Commissione, del 19 dicembre 2018, concernente la verifica dei dati e l’accreditamento dei verificatori a norma della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, in vigore alla data di entrata in vigore del presente Accordo.</td><td>– gli articoli 51–54 dell’ordinanza sul CO<sub>2</sub>, in vigore alla data di entrata in vigore del presente Accordo.</td></tr>
 </table>
 
-[^annexI-lvlu1-lvlA-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^annexI-lvlu1-lvlA-1]: RS **956****.****1**
 [^annexI-lvlu1-lvlA-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 [^annexI-lvlu1-lvlA-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 [^annexI-lvlu1-lvlA-4]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
@@ -405,8 +403,6 @@ La presente sezione è sottoposta a revisione conformemente all’articolo 13 pa
 <tr><td>6 Riserva speciale per determinati operatori aerei</td><td>– Articolo 3*septies* della direttiva 2003/87/CE, in vigore alla data di entrata in vigore del presente Accordo.</td><td>Delle quote sono accantonate in una riserva speciale per i nuovi entranti e gli operatori in rapida crescita; tuttavia, fino al 2020 la Svizzera non avrà una riserva speciale, in quanto l’anno di riferimento per l’acquisizione dei dati sulle attività svizzere di trasporto aereo è il 2018. La riserva speciale è stabilita da: – l’articolo 18 capoverso 3 della legge sul CO<sub>2</sub>, – l’articolo 46*e* e l’allegato 15 dell’ordinanza sul CO<sub>2</sub>, in vigore alla data di entrata in vigore del presente Accordo.</td></tr>
 <tr><td>7 Parametro di riferimento per l’assegnazione a titolo gratuito di quote agli operatori aerei</td><td>– Articolo 3*sexies* della direttiva 2003/87/CE, in vigore alla data di entrata in vigore del presente Accordo. Il parametro di riferimento annuale è pari a 0,000642186914222035 quote per tonnellata-chilometro.</td><td>Il parametro di riferimento non può essere superiore a quello del SSQE dell’UE. Fino al 2020, il parametro di riferimento annuale è pari a 0,000642186914222035 quote per tonnellata-chilometro. Il parametro di riferimento è stabilito da: – l’articolo 46*f* capoversi 1 e 2 e l’allegato 15 dell’ordinanza sul CO<sub>2</sub>, in vigore alla data di entrata in vigore del presente Accordo.</td></tr>
 <tr><td>8 Assegnazione a titolo gratuito di quote di emissione agli operatori aerei</td><td>– Articolo 3*sexies* della direttiva 2003/87/CE, ´ in vigore alla data di entrata in vigore del presente Accordo. A norma dell’articolo 25*bis* della direttiva 2003/87/CE sono effettuati adeguamenti della quantità di quote rilasciate, in proporzione agli obblighi di comunicazione e restituzione derivanti dalla copertura effettiva, nell’ambito del SSQE dell’UE, dei voli tra i paesi dello SEE e la Svizzera.</td><td>Il numero di quote di emissione assegnate a titolo gratuito agli operatori aerei è calcolato moltiplicando i dati relativi alle tonnellate-chilometro comunicati nell’anno di riferimento per il parametro applicabile. L’assegnazione gratuita è stabilita da: – l’articolo 19*a* capoversi 3 e 4 della legge sul CO<sub>2</sub>, – l’articolo 46*f* capoversi 1 e 2 e l’allegato 15 dell’ordinanza sul CO<sub>2</sub>, in vigore alla data di entrata in vigore del presente Accordo.</td></tr>
-<tr><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>9 I limiti qualitativi per i crediti internazionali sono rigorosi almeno quanto quelli previsti da:</td><td>– Articoli 11*bis* e 11*ter* della direttiva 2003/87/CE, – regolamento (UE) n. 389/2013 della Commissione, del 2 maggio 2013, che istituisce un registro dell’Unione conformemente alla direttiva 2003/87/CE del Parlamento europeo e del Consiglio, alle decisioni n. 280/2004/CE e n. 406/2009/CE del Parlamento europeo e del Consiglio e che abroga i regolamenti (UE) n. 920/2010 e n. 1193/2011 della Commissione, in vigore alla data di entrata in vigore del presente Accordo.</td><td>– gli articoli 5 e 6 della legge sul CO<sub>2</sub>, – l’articolo 4, l’articolo 4*a* capoverso 1 e l’allegato 2 dell’ordinanza sul CO<sub>2</sub>, in vigore alla data di entrata in vigore del presente Accordo.</td></tr>
 <tr><td>10 Limiti quantitativi per l’uso dei crediti internazionali</td><td>– Articolo 11*bis* della direttiva 2003/87/CE – Regolamento (UE) n. 389/2013 della Commissione, del 2 maggio 2013, che istituisce un registro dell’Unione conformemente alla direttiva 2003/87/CE del Parlamento europeo e del Consiglio, alle decisioni n. 280/2004/CE e n. 406/2009/CE del Parlamento europeo e del Consiglio e che abroga i regolamenti (UE) n. 920/2010 e n. 1193/2011 della Commissione – Regolamento (UE) n. 1123/2013 della Commissione, dell’8 novembre 2013, relativo alla determinazione dei diritti di utilizzo di crediti internazionali a norma della direttiva 2003/87/CE del Parlamento europeo e del Consiglio in vigore alla data di entrata in vigore del presente Accordo.</td><td>L’utilizzo dei crediti internazionali è fissato all’1,5 % delle emissioni verificate fino al 2020. Quanto precede è stabilito da: – l’articolo 55*d* dell’ordinanza sul CO<sub>2</sub>, in vigore alla data di entrata in vigore del presente Accordo.</td></tr>
 <tr><td>11 Acquisizione dei dati relativi alle tonnellate-chilometro per l’anno di riferimento</td><td>– Articolo 3*sexies* della direttiva 2003/87/CE, in vigore alla data di entrata in vigore del presente Accordo.</td><td>Fatto salvo quanto disposto di seguito, l’acquisizione dei dati relativi alle tonnellate-chilometro si effettua contemporaneamente e secondo lo stesso approccio utilizzato per l’acquisizione dei dati relativi alle tonnellate-chilometro del SSQE dell’UE. Fino al 2020, e in conformità dell’ordinanza sul rilevamento di dati concernenti le tonnellate-chilometro e sull’elaborazione dei piani di monitoraggio per le rotte aeree vigenti alla data di entrata in vigore del presente Accordo, l’anno di riferimento per il rilevamento dei dati sulle attività di trasporto aereo della Svizzera è il 2018. Quanto precede è stabilito da: – l’articolo 19*a* capoversi 3 e 4 della legge sul CO<sub>2</sub>, – l’ordinanza sul rilevamento di dati concernenti le tonnellate-chilometro e sull’elaborazione dei piani di monitoraggio per le rotte aeree, in vigore alla data di entrata in vigore del presente Accordo.</td></tr>
@@ -517,11 +513,11 @@ Il criterio fondamentale 3 si applica unitamente alla seguente disposizione: l�
 
 La Svizzera può incaricare enti ubicati nello SEE di condurre le aste.
 
-Allegato II*[^t-3]*
+Allegato II*[^t-5]*
 
 ## Norme tecniche di collegamento
 
-[^t-3]: Nuovo testo giusta l’art. 1 della Dec. n. 2/2019 del comitato misto del 5 dic. 2020 ([RU 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Aggiornato dall’art. 2 della Dec. n. 2/2020 del comitato misto del 5 nov. 2020, in vigore dal 5 nov. 2020 ([RU 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
+[^t-5]: Nuovo testo giusta l’art. 1 della Dec. n. 2/2019 del comitato misto del 5 dic. 2020 ([RU 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Aggiornato dall’art. 2 della Dec. n. 2/2020 del comitato misto del 5 nov. 2020, in vigore dal 5 nov. 2020 ([RU 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
 
 Per rendere operativo il collegamento tra il SSQE dell’UE e il SSQE della Svizzera, una soluzione provvisoria sarà predisposta entro il maggio 2020 o il prima possibile dopo tale data. Le parti cooperano per sostituire al più presto la soluzione provvisoria con un registro permanente.
 
@@ -677,3 +673,5 @@ Sulla base dei livelli di riservatezza e d’integrità ai sensi della precedent
 <tr><td>**Alto**</td><td>SSQE riservatissimo</td><td>SSQE riservatissimo</td><td>SSQE riservatissimo</td></tr>
 <tr><td colspan="4">\* Variazione possibile da valutare caso per caso.</td></tr>
 </table>
+
+- [tab]

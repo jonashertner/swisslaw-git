@@ -3,30 +3,28 @@ sr: "0.814.011.268"
 title: "Accord du 23 novembre 2017 entre la Confédération suisse et l'Union européenne sur le couplage de leurs systèmes d'échange de quotas d'émission de gaz à effet de serre (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: fr
-version: 2020-11-05
+version: 2021-12-15
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20201105/fr/xml/fedlex-data-admin-ch-eli-cc-2018-124-20201105-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20201105/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20211215/fr/xml/fedlex-data-admin-ch-eli-cc-2018-124-20211215-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20211215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Accord entre la Confédération suisse et l’Union européenne sur le couplage de leurs systèmes d’échange de quotas d’émission de gaz à effet de serre
 
-RO **2018** 895
+RO **2018** 895; FF **2018** 399
 
 *Texte original*
 
-Conclu à Berne le 23 novembre 2017
+Conclu à Berne le 23 novembre 2017 Application provisoire des art. 11 à 13 dès le 23 novembre 2017 Approuvé par l’Assemblée fédérale le 22 mars 2019[^t-1] Instrument de ratification suisse déposé le 6 décembre 2019 Entré en vigueur le 1<sup>er</sup> janvier 2020[^t-2] [^t-3]
 
-Application provisoire des art. 11 à 13 dès le 23 novembre 2017
+(Etat le 15 décembre 2021)
 
-Entré en vigueur le 1<sup>er</sup> janvier 2020[^t-1]
-
-(Etat le 5 novembre 2020)
-
-[^t-1]: [RO 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
+[^t-1]: [RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
+[^t-2]: [RO 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
+[^t-3]: Erratum du 15 déc. 2021 ([RO 2021 863](https://fedlex.data.admin.ch/eli/oc/2021/863)).
 
 La Confédération suisse, (ci-après dénommée la «Suisse»), d’une part, et l’Union européenne, (ci-après dénommée «l’Union»), d’autre part,
 
@@ -66,7 +64,7 @@ sont convenues des dispositions qui suivent:
 
 [^ingress-1]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
 [^ingress-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^ingress-3]: RS **0.74****8.131.934.92**
+[^ingress-3]: [RS 0.748.131.934.92](https://fedlex.data.admin.ch/eli/cc/1950/1299_1334_1312)
 [^ingress-4]: [RS 0.814.012](https://fedlex.data.admin.ch/eli/cc/2017/619)
 
 ## Chapitre I Dispositions générales
@@ -353,11 +351,11 @@ Fait à Berne, le 23 novembre 2017.
 <tr><td>Pour la Confédération suisse: Marc Chardonnens</td><td>Pour l’Union européenne: Rein Oidekivi Michael Matthiessen</td></tr>
 </table>
 
-Annexe I*[^t-2]*
+Annexe I*[^t-4]*
 
 ## Critères essentiels
 
-[^t-2]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2019 du comité mixte du 5 déc. 2019 ([RO 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Mise à jour par l’art. 1 de la D n<sup>o</sup> 2/2020 du comité mixte du 5 nov. 2020, en vigueur depuis le 5 nov. 2020 (RO **202****0** 6365).
+[^t-4]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2019 du comité mixte du 5 déc. 2019 ([RO 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Mise à jour par l’art. 1 de la D n<sup>o</sup> 2/2020 du comité mixte du 5 nov. 2020, en vigueur depuis le 5 nov. 2020 ([RO 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
 
 ### A. Critères essentiels pour les installations fixes
 
@@ -513,11 +511,11 @@ Le critère essentiel 3 s’applique, avec la disposition suivante: l’admissio
 
 La Suisse peut mandater des entités de vente aux enchères qui sont situées dans l’EEE.
 
-Annexe II*[^t-3]*
+Annexe II*[^t-5]*
 
 ## Normes techniques de couplage
 
-[^t-3]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2019 du comité mixte du 5 déc. 2019 ([RO 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Mise à jour par l’art. 2 de la D n<sup>o</sup> 2/2020 du comité mixte du 5 nov. 2020, en vigueur depuis le 5 nov. 2020 ([RO 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
+[^t-5]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2019 du comité mixte du 5 déc. 2019 ([RO 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Mise à jour par l’art. 2 de la D n<sup>o</sup> 2/2020 du comité mixte du 5 nov. 2020, en vigueur depuis le 5 nov. 2020 ([RO 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
 
 Afin de rendre effectif le couplage entre le SEQE-UE et le SEQE suisse, une solution provisoire sera mise en place d’ici à mai 2020 ou dès que possible après cette date. Les parties coopèrent pour remplacer dès que possible cette solution provisoire par un registre permanent.
 

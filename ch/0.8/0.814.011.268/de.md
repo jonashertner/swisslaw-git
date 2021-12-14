@@ -3,30 +3,28 @@ sr: "0.814.011.268"
 title: Abkommen vom 23. November 2017 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: de
-version: 2020-11-05
+version: 2021-12-15
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20201105/de/xml/fedlex-data-admin-ch-eli-cc-2018-124-20201105-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20201105/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20211215/de/xml/fedlex-data-admin-ch-eli-cc-2018-124-20211215-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20211215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen
 
-AS **2018** 895
+AS **2****018** 895; BBl **2018** 411
 
 *Originaltext*
 
-Abgeschlossen in Bern am 23. November 2017
+Abgeschlossen in Bern am 23. November 2017 Provisorische Anwendung der Artikel 11–13 ab 23. November 2017 Von der Bundesversammlung genehmigt am 22. März 2019[^t-1] Ratifikationsurkunde hinterlegt am 6. Dezember 2019 In Kraft getreten am 1. Januar 2020[^t-2] [^t-3]
 
-Provisorische Anwendung der Artikel 11–13 ab 23. November 2017
+(Stand am 15. Dezember 2021)
 
-Inkrafttreten am 1. Januar 2020[^t-1]
-
-(Stand am 5. November 2020)
-
-[^t-1]: [AS 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
+[^t-1]: [AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
+[^t-2]: [AS 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
+[^t-3]: Berichtigung vom 15. Dez. 2021 ([AS 2021 863](https://fedlex.data.admin.ch/eli/oc/2021/863)).
 
 Die Schweizerische Eidgenossenschaft, (im Folgenden «Schweiz»), einerseits, und die Europäische Union, (im Folgenden «Union»), andererseits,
 
@@ -351,11 +349,11 @@ Geschehen zu Bern am 23. November 2017.
 <tr><td>Für die Schweizerische Eidgenossenschaft: Marc Chardonnens</td><td>Für die Europäische Union: Rein Oidekivi Michael Matthiessen</td></tr>
 </table>
 
-Anhang I*[^t-2]*
+Anhang I*[^t-4]*
 
 ## Wesentliche Kriterien
 
-[^t-2]: Fassung gemäss Art. 1 des Beschlusses Nr. 2/2019 des Gemeinsamen Ausschusses vom 5. Dez. 2019 ([AS 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Bereinigt gemäss Art. 1 des Beschlusses Nr. 2/2020 des Gemeinsamen Ausschusses vom 5. Nov. 2020, in Kraft seit 5. Nov. 2020 ([AS 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
+[^t-4]: Fassung gemäss Art. 1 des Beschlusses Nr. 2/2019 des Gemeinsamen Ausschusses vom 5. Dez. 2019 ([AS 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Bereinigt gemäss Art. 1 des Beschlusses Nr. 2/2020 des Gemeinsamen Ausschusses vom 5. Nov. 2020, in Kraft seit 5. Nov. 2020 ([AS 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
 
 ### A. Wesentliche Kriterien für ortsfeste Anlagen
 
@@ -512,11 +510,11 @@ Das wesentliche Kriterium 3 gilt in Verbindung mit der folgenden Bestimmung: Zur
 
 Die Schweiz kann Einrichtungen, die im EWR ansässig sind, mit der Durchführung der Versteigerungen beauftragen.
 
-Anhang II*[^t-3]*
+Anhang II*[^t-5]*
 
 ## Technische Verknüpfungsstandards
 
-[^t-3]: Fassung gemäss Art. 1 des Beschlusses Nr. 2/2019 des Gemeinsamen Ausschusses vom 5. Dez. 2019 ([AS 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Bereinigt gemäss Art. 2 des Beschlusses Nr. 2/2020 des Gemeinsamen Ausschusses vom 5. Nov. 2020, in Kraft seit 5. Nov. 2020 ([AS 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
+[^t-5]: Fassung gemäss Art. 1 des Beschlusses Nr. 2/2019 des Gemeinsamen Ausschusses vom 5. Dez. 2019 ([AS 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Bereinigt gemäss Art. 2 des Beschlusses Nr. 2/2020 des Gemeinsamen Ausschusses vom 5. Nov. 2020, in Kraft seit 5. Nov. 2020 ([AS 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
 
 Für die Operationalisierung der Verknüpfung zwischen dem EU‑EHS und dem EHS der Schweiz muss bis Mai 2020 oder so bald wie möglich danach eine vorläufige Lösung eingeführt werden. Die Vertragsparteien arbeiten zusammen, um so bald wie möglich die vorläufige Lösung durch eine dauerhafte Registerverbindung zu ersetzen.
 
