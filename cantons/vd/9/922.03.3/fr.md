@@ -4,7 +4,7 @@ number: "922.03.3"
 title: RÈGLEMENT du 29.06.2005 sur les réserves de chasse et de protection de la faune du Canton de Vaud (Règlement sur les réserves de faune) (RRCh)
 short: RRCh
 language: fr
-version: 2005-08-01
+version: 2021-12-15
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03.3?id=d5217c2b-a0cb-4af9-b095-af96d7be2dc6"
 ---
 
@@ -67,7 +67,7 @@ arrête
 
 **Modalités de distribution [^3-1]**
 
-<sup>1</sup> La carte des réserves de faune du Canton de Vaud fait partie intégrante du présent règlement. Elle n'est pas publiée dans le recueil officiel des lois vaudoises, mais paraît sous forme de tiré à part disponible auprès du district de domicile du demandeur. Sa distribution s'accompagne d'un émolument.
+<sup>1</sup> La carte des réserves de faune du Canton de Vaud fait partie intégrante du présent règlement. Elle n'est pas publiée dans le recueil officiel des lois vaudoises, mais paraît sous forme de tiré à part disponible auprès de la préfecture du district de domicile du demandeur. Sa distribution s'accompagne d'un émolument. Elle apparaît également sous forme électronique sur le guichet cartographique cantonal.
 
 [^3-1]: Modif. 1 du 01.12.2021: Modification Al. 1; entrée en vigueur au 15.12.2021
 
@@ -143,6 +143,6 @@ Annexes [^11-1]
 
 1
 
-[pdf-922.03.3.annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/d5217c2b-a0cb-4af9-b095-af96d7be2dc6/annexes/1?dmev=01.08.2005)
+[Annexe-922.03.3](https://prestations.vd.ch/pub/blv-publication/api/actes/d5217c2b-a0cb-4af9-b095-af96d7be2dc6/annexes/1?dmev=15.12.2021)
 
 [^11-1]: Modif. 1 du 01.12.2021: Modification Annexes, Ann. 1; entrée en vigueur au 15.12.2021
