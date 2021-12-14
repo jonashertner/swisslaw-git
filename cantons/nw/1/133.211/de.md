@@ -1,61 +1,85 @@
 ---
 canton: NW
 number: "133.211"
-title: Regierungsratsbeschluss über die Festlegung der Quorumszahlen für das Jahr 2021
+title: Regierungsratsbeschluss über die Festlegung der Quorumszahlen für das Jahr 2022
 language: de
-version: 2020-12-15
-corrected: 2021-10-12
-version_adopted: 2020-12-15
+version: 2021-12-15
+valid_until: 2022-12-13
+version_adopted: 2021-12-14
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/133.211"
-pdf: "https://gesetze.nw.ch/api/de/versions/20/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/967/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsratsbeschluss über die Festlegung der Quorumszahlen für das Jahr 2021
+# Regierungsratsbeschluss über die Festlegung der Quorumszahlen für das Jahr 2022
 
-vom 15. Dezember 2020[^t-1]
+vom 14.12.2021 (Stand 15.12.2021)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 75 Abs. 2 und Art. 77 Abs. 1 der Kantonsverfassung, in Ausführung von Art. 21 des Gesetzes vom 28. April 1974 über Organisation und Verwaltung der Gemeinden (Gemeindegesetz, GemG)[^t-2],
+gestützt auf Art. 75 Abs. 2 und Art. 77 Abs. 1 der Kantonsverfassung, in Ausführung von Art. 21 des Gesetzes vom 28. April 1974 über Organisation und Verwaltung der Gemeinden (Gemeindegesetz, GemG)[^ingress-1],
 
 stellt fest:
 
-1.
+[^ingress-1]: NG 171.1
 
-In den Gemeinden sind im Jahre 2021 für das Begehren um Einberufung einer ausserordentlichen Gemeindeversammlung, für das Begehren um Anordnung einer Urnenabstimmung sowie für das Referendum die nachstehende Anzahl Unterschriften von in Gemeindeangelegenheiten Stimmberechtigten erforderlich:
+#### Ziff. 1
 
-Politische Gemeinden und Schulgemeinden
+<sup>1</sup> In den Gemeinden sind im Jahre 2022 für das Begehren um Einberufung einer ausserordentlichen Gemeindeversammlung, für das Begehren um Anordnung einer Urnenabstimmung sowie für das Referendum die nachstehende Anzahl Unterschriften von in Gemeindeangelegenheiten Stimmberechtigten erforderlich:
 
-**296 82 70 165 116 189 173 76 134 199 53**
+<sup>2</sup> Politische Gemeinden und Schulgemeinden:
 
-Stimmberechtigte Quorum 1/20 Stans 5'902 Ennetmoos 1'638 Dallenwil 1'393 Stansstad 3'293 Oberdorf 2'316 Buochs 3'761 Ennetbürgen 3'454 Wolfenschiessen 1'511 Beckenried 2'666 Hergiswil 3'967 Emmetten 1'059
+<table>
+<tr><th>Politische Gemeinden und Schulgemeinden</th><th>Stimmberechtigte</th><th>Quorum 1/20</th></tr>
+<tr><td>Stans</td><td>5'870</td><td>294</td></tr>
+<tr><td>Ennetmoos</td><td>1'662</td><td>84</td></tr>
+<tr><td>Dallenwil</td><td>1'399</td><td>70</td></tr>
+<tr><td>Stansstad</td><td>3'340</td><td>167</td></tr>
+<tr><td>Oberdorf</td><td>2'293</td><td>115</td></tr>
+<tr><td>Buochs</td><td>3'811</td><td>191</td></tr>
+<tr><td>Ennetbürgen</td><td>3'571</td><td>179</td></tr>
+<tr><td>Wolfenschiessen</td><td>1'505</td><td>76</td></tr>
+<tr><td>Beckenried</td><td>2'652</td><td>133</td></tr>
+<tr><td>Hergiswil</td><td>3'908</td><td>196</td></tr>
+<tr><td>Emmetten</td><td>1'121</td><td>57</td></tr>
+</table>
 
-**1**
+<sup>3</sup> Römisch-katholische Kirch- und Kapellgemeinden:
 
-Stand: 1. Januar 2021 Kirchgemeinden
+<table>
+<tr><th>Römisch-katholische Kirch- und Kapellgemeinden</th><th>Stimmberechtigte</th><th>Quorum 1/20</th></tr>
+<tr><td>Stans-Oberdorf</td><td>5'199</td><td>260</td></tr>
+<tr><td>Dallenwil</td><td>1'052</td><td>53</td></tr>
+<tr><td>Buochs</td><td>2'558</td><td>128</td></tr>
+<tr><td>Ennetbürgen</td><td>2'275</td><td>114</td></tr>
+<tr><td>Wolfenschiessen</td><td>1'093</td><td>55</td></tr>
+<tr><td>Beckenried</td><td>1'866</td><td>94</td></tr>
+<tr><td>Hergiswil</td><td>2'260</td><td>113</td></tr>
+<tr><td>Emmetten</td><td>664</td><td>34</td></tr>
+<tr><td>Stansstad</td><td>1'526</td><td>77</td></tr>
+<tr><td>Obbürgen</td><td>316</td><td>16</td></tr>
+<tr><td>Ennetmoos</td><td>1'133</td><td>57</td></tr>
+<tr><td>Kehrsiten</td><td>101</td><td>6</td></tr>
+<tr><td>Büren / Niederrickenbach</td><td>617</td><td>31</td></tr>
+<tr><td>Oberrickenbach</td><td>125</td><td>7</td></tr>
+</table>
 
-- a) römisch-katholische Kirch- und Kapellgemeinden
+<sup>4</sup> Evangelisch-reformierte Kirchgemeinden:
 
-**5’333 267 1’070 54 2’578 129 2’248 113 1’115 56 1’901 96 2’332 117 655 33 1’541 78 324 17 1’159 58 103 6 630 32 128 7**
+<table>
+<tr><th>Evangelisch-reformierte Kirchgemeinden</th><th>Stimmberechtigte</th><th>Quorum 1/20</th></tr>
+<tr><td>Evangelisch-reformierte Kirchgemeinden</td><td>3'210</td><td>161</td></tr>
+</table>
 
-Stans-Oberdorf Dallenwil Buochs Ennetbürgen Wolfenschiessen Beckenried Hergiswil Emmetten Stansstad Obbürgen Ennetmoos Kehrsiten Büren / Niederrickenbach Oberrickenbach
+#### Ziff. 2
 
-**161**
+<sup>1</sup> Massgebend ist das zum Zeitpunkt der Einreichung des Begehrens geltende Quorum.
 
-- b) evangelisch-reformierte Kirchgemeinden 3’218
+#### Ziff. 3
 
-2.
+<sup>1</sup> Dieser Beschluss tritt sofort in Kraft.
 
-Massgebend ist das zum Zeitpunkt der Einreichung des Begehrens geltende Quorum.
-
-3.
-
-Dieser Beschluss tritt sofort in Kraft.
-
-[^t-1]: A 2020, 2513
-[^t-2]: NG 171.1
+A 2021, 2309
