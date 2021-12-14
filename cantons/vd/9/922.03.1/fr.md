@@ -4,7 +4,7 @@ number: "922.03.1"
 title: "RÈGLEMENT du 07.07.2004 d'exécution de la loi du 28 février 1989 sur la faune (RLFaune)"
 short: RLFaune
 language: fr
-version: 2020-05-27
+version: 2021-12-15
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03.1?id=21dd947f-7594-4427-8826-31b464078f96"
 ---
 
@@ -151,11 +151,11 @@ arrête
 - a. pour toute modification, réduction importante ou suppression d'un des milieux mentionnés à l'article 21 de la loi ainsi que pour toute atteinte à des prés maigres ou humides;
 - b. en cas de réfection ou de démolition de constructions utilisées comme refuge ou lieu de nidification par la faune.
 
-<sup>2</sup> Les travaux d'entretien des haies et bosquets protégés au sens de la loi sur la protection de la nature, des monuments et des sites ne peuvent être effectués que du 1<sup>er</sup> septembre au 31 janvier, afin d'assurer la protection de la faune pendant la période de reproduction.
+<sup>2</sup> Les travaux d'entretien des haies et bosquets protégés au sens de la loi sur la protection de la nature, des monuments et des sites ne peuvent être effectués que du 1er septembre au 1er mars, afin d'assurer la protection de la faune pendant la période de reproduction
 
 <sup>3</sup> Les dispositions de la législation sur la protection de la nature sont applicables.
 
-[^titleTitreIII-1]: Modif. 3 du 03.07.2019: Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021; Introduction Art. 21a, Al. 1, c; entrée en vigueur au 15.12.2021; Introduction Art. 22, Al. 1bis; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Modification Al. 1, a-b; entrée en vigueur au 01.06.2024; Introduction Al. 1, c; entrée en vigueur au 01.06.2024; Modification Al. 2-3; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^titleTitreIII-1]: Modif. 3 du 03.07.2019: Modification Al. 2; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Modification Al. 1, a-b; entrée en vigueur au 01.06.2024; Introduction Al. 1, c; entrée en vigueur au 01.06.2024; Modification Al. 2-3; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
 [^8-1]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
 
 #### Art. 9
@@ -311,9 +311,9 @@ arrête
 
 <sup>1</sup> Seuls les titulaires d'un permis de chasse A peuvent obtenir les permis B, E et F.
 
-<sup>2</sup> Les titulaires d'un permis de chasse C qui ne prennent pas de permis A ne sont pas autorisés à participer à des chasses spéciales.
+<sup>2</sup> Les titulaires d'un permis de chasse C qui ne prennent pas de permis A ne sont pas autorisés à participer au tir du bouquetin.
 
-<sup>3</sup> Seules les personnes domiciliées dans le canton peuvent obtenir un permis C ou F. Toutefois, toutes les personnes ayant déjà obtenu dix permis vaudois de chasse générale consécutifs ou ayant déjà obtenu un permis permettant la chasse du chamois durant l'une des trois dernières années sont autorisées à acquérir un permis C.
+<sup>3</sup> ...
 
 <sup>4</sup> Celui qui a commis une infraction aux dispositions de la législation sur la faune[^21-1], sur la protection des animaux, sur les épizooties et sur les denrées alimentaires n'est pas admis aux chasses du chamois et au tir bouquetin.
 
@@ -324,7 +324,7 @@ arrête
 
 <sup>6</sup> Dans les cas de peu de gravité, le service prononcera des avertissements.
 
-[^20-1]: Modif. 2 du 21.06.2017: Modification Al. 1; entrée en vigueur au 01.07.2017 · Modif. 3 du 03.07.2019: Modification Al. 4-6; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021; Abrogation Al. 3; entrée en vigueur au 15.12.2021; Introduction Art. 21a, Al. 1, c; entrée en vigueur au 15.12.2021; Introduction Art. 22, Al. 1bis; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Modification Al. 4-5; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^20-1]: Modif. 2 du 21.06.2017: Modification Al. 1; entrée en vigueur au 01.07.2017 · Modif. 3 du 03.07.2019: Modification Al. 4-6; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021; Abrogation Al. 3; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Modification Al. 4-5; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
 [^21-1]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
 
 #### Art. 21a
@@ -335,8 +335,9 @@ arrête
 
 - a. être au bénéfice d'un permis de chasse valable d'un autre canton et d'une assurance responsabilité civile pour tout dommage résultant de l'exercice de la chasse ;
 - b. attester que les conditions posées par l'article 31 alinéa 1 lettres a), b) et e) de la loi sur la faune[^21a-1] sont réunies.
+- c. avoir subi avec succès les tirs périodiques.
 
-<sup>2</sup> Le permis temporaire de chasser est valable pour une journée. Le chasseur invité peut obtenir deux permis temporaires au maximum au cours d'une saison de chasse.
+<sup>2</sup> Le permis temporaire de chasser est valable pour une journée. Le chasseur invité peut obtenir trois permis temporaires au maximum au cours d'une saison de chasse.
 
 <sup>3</sup> Le permis temporaire peut être délivré pour toutes les chasses à l'exception du chamois, du cerf, du bouquetin et du tétras-lyre.
 
@@ -348,14 +349,16 @@ arrête
 
 <sup>7</sup> Le gibier tiré par le titulaire d'un permis temporaire est porté sur le compte du chasseur qui l'accompagne.
 
-[^21-2]: Modif. 1 du 09.08.2006: Introduction Art. 21a; entrée en vigueur au 15.08.2006 · Modif. 3 du 03.07.2019: Modification Al. 1, a-b; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Introduction Al. 1, c; entrée en vigueur au 15.12.2021; Modification Al. 2; entrée en vigueur au 15.12.2021; Introduction Art. 22, Al. 1bis; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Modification Al. 6-7; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^21-2]: Modif. 1 du 09.08.2006: Introduction Art. 21a; entrée en vigueur au 15.08.2006 · Modif. 3 du 03.07.2019: Modification Al. 1, a-b; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Introduction Al. 1, c; entrée en vigueur au 15.12.2021; Modification Al. 2; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Modification Al. 6-7; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
 [^21a-1]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
 
 #### Art. 22
 
 **Modalités de délivrance des permis (loi, art. 30) [^21a-2]**
 
-<sup>1</sup> Le permis est délivré par la préfecture du district de domicile du requérant, excepté le permis provisoire qui est délivré par le service.
+<sup>1</sup> Les permis sont délivrés par la préfecture du district de domicile du requérant.
+
+<sup>1bis</sup> Font exception à l'alinéa premier, le permis temporaire qui peut être délivré par toutes les préfectures et le permis provisoire qui est délivré par le service.
 
 <sup>2</sup> Les personnes qui ne sont pas domiciliées dans le canton s'adressent :
 
@@ -369,7 +372,7 @@ arrête
 
 <sup>4</sup> Le département peut requérir l'inscription préalable à toute demande de permis ou fixer une date limite pour l'acquisition des permis.
 
-[^21a-2]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Modification Al. 2, Tiret 2-3; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Introduction Art. 21a, Al. 1, c; entrée en vigueur au 15.12.2021; Modification Al. 1; entrée en vigueur au 15.12.2021; Introduction Al. 1bis; entrée en vigueur au 15.12.2021
+[^21a-2]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Modification Al. 2, Tiret 2-3; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 1; entrée en vigueur au 15.12.2021; Introduction Al. 1bis; entrée en vigueur au 15.12.2021
 
 #### Art. 23
 
@@ -378,7 +381,7 @@ arrête
 <sup>1</sup> En demandant son permis, le requérant produit :
 
 - a. le permis ou l'attestation de réussite de l'examen de chasse;
-- b. l'attestation prouvant qu'il a subi avec succès la dernière épreuve périodique de tir, sauf pour les personnes désirant acquérir un permis sans port d'arme;
+- b. la confirmation dans son permis de chasse qu'il a subi avec succès la dernière épreuve périodique de tir, sauf pour les personnes désirant acquérir un permis sans port d'arme;
 - c. la preuve qu'il est assuré en responsabilité civile pour tout dommage résultant de l'exercice de la chasse;
 - d. une pièce de légitimation (passeport, permis de conduire, etc.);
 - e. une photographie format passeport;
@@ -387,7 +390,7 @@ arrête
 
 <sup>2</sup> En signant son carnet de chasse ou, le cas échéant, son permis, le requérant confirme qu'il remplit toutes les conditions de l'article 31 de la loi sur la faune.
 
-[^22-1]: Modif. 5 du 01.12.2021: Introduction Art. 21a, Al. 1, c; entrée en vigueur au 15.12.2021; Introduction Art. 22, Al. 1bis; entrée en vigueur au 15.12.2021; Modification Al. 1, b; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Modification Al. 1, g; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^22-1]: Modif. 5 du 01.12.2021: Modification Al. 1, b; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Modification Al. 1, g; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
 [^23-1]: Loi du 28.02.1989 sur la faune ([BLV 922.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03?id=66977325-2744-458f-ae38-0dc01792207b))
 
 #### Art. 24
@@ -809,9 +812,9 @@ arrête
 
 <sup>1</sup> La chasse du gibier d'eau depuis les bords et sur les lacs et étangs est interdite, dès que plus de la moitié de leur surface est gelée.
 
-<sup>2</sup> Lorsque les eaux situées devant les roselières du Vieux Port d'Yvonand (coord : 547 100/183 800) gèlent sur une largeur minimum de 50 m, la chasse du gibier d'eau est fermée en aval de la voie CFF, en rive nord du lac, entre les embouchures de l'Arnon (coord : 542 300/186 200) et du ruisseau de la Dia (coord : 546 600/189 700), jusqu'à une distance de 400 m au large de la rive. L'interdiction est levée lorsque ces conditions de gel des eaux ne sont plus remplies.
+<sup>2</sup> Lorsque les eaux situées devant les roselières du Vieux Port d'Yvonand (coord : 2.547 100/1.183 800) gèlent sur une largeur minimum de 50 m, la chasse du gibier d'eau est fermée en aval de la voie CFF, en rive nord du lac, entre les embouchures de l'Arnon (coord : 2.542 300/1.186 200) et du ruisseau de la Dia (coord : 2.546 600/1.189 700), jusqu'à une distance de 400 m au large de la rive. L'interdiction est levée lorsque ces conditions de gel des eaux ne sont plus remplies.
 
-[^59-1]: Modif. 5 du 01.12.2021: Introduction Art. 21a, Al. 1, c; entrée en vigueur au 15.12.2021; Introduction Art. 22, Al. 1bis; entrée en vigueur au 15.12.2021; Modification Al. 2; entrée en vigueur au 15.12.2021
+[^59-1]: Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021
 
 #### Art. 61
 
@@ -845,7 +848,7 @@ arrête
 
 <sup>1</sup> Seuls les chiens d'arrêt, les teckels, les terriers, les chiens courants qui donnent de la voix, les chiens rapporteurs, les chiens leveurs de gibier, les chiens de recherche au sang, les chiens nordiques de chasse et les croisements de ces races peuvent être utilisés pour la chasse.
 
-<sup>1bis</sup> Après avoir entendu le service en charge des affaires vétérinaires, le service réglemente l'éducation des chiens de chasse et leur utilisation, en particulier pour la recherche, l'arrêt et le rapport, la chasse au terrier et la chasse au sanglier.
+<sup>1bis</sup> Après avoir entendu le service en charge des affaires vétérinaires, le service réglemente l'éducation des chiens de chasse et leur utilisation, en particulier pour la recherche, l'arrêt et le rapport et la chasse au sanglier.
 
 <sup>2</sup> Il est notamment interdit d'utiliser les chiens potentiellement dangereux et les croisements de ces races, ainsi que les chiens dangereux, au sens de la loi sur la police des chiens[^62-1].
 
@@ -853,9 +856,9 @@ arrête
 
 <sup>4</sup> Suivant les nécessités du plan de tir, le département peut autoriser l'utilisation de chiens spécialement éduqués pour la pratique de chasses particulières.
 
-<sup>5</sup> Chaque chien de chasse doit porter un collier sur lequel est indiqué lisiblement le numéro de téléphone du propriétaire de l'animal, à l'exception des chiens de rapport à l'eau ou utilisés lors de la chasse au terrier.
+<sup>5</sup> Chaque chien de chasse doit porter un collier sur lequel est indiqué lisiblement le numéro de téléphone du propriétaire de l'animal, à l'exception des chiens de rapport à l'eau.
 
-[^chapterChapitreIV-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Introduction Al. 1bis; entrée en vigueur au 01.07.2019; Modification Al. 2-4; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Introduction Art. 21a, Al. 1, c; entrée en vigueur au 15.12.2021; Introduction Art. 22, Al. 1bis; entrée en vigueur au 15.12.2021; Modification Al. 1bis,5; entrée en vigueur au 15.12.2021
+[^chapterChapitreIV-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Introduction Al. 1bis; entrée en vigueur au 01.07.2019; Modification Al. 2-4; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 1bis,5; entrée en vigueur au 15.12.2021
 [^62-1]: Loi du 31.10.2006 sur la police des chiens ( [BLV 133.75](https://prestations.vd.ch/pub/blv-publication/actes/consolide/133.75?id=855b570a-1487-458c-bc6a-84702e56b1ef))
 
 #### Art. 63
@@ -1038,15 +1041,15 @@ arrête
 
 #### Art. 79
 
-**e) chasse au terrier [^78-2]**
+**... [^78-2]**
 
-<sup>1</sup> Les chasseurs pratiquant la chasse du renard et du blaireau au terrier dans le cadre du permis D sont autorisés à circuler sur les routes et chemins de classe 1 à 5, à condition :
+<sup>1</sup> ...
 
-- a. d'être accompagnés de chiens de terrier et uniquement de tels chiens;
-- b. de ne pas transporter dans le véhicule d'autres armes qu'un fusil à grenaille à un ou deux coups, un fusil à grenaille semi-automatique à trois coups ou une arme de poing;
-- c. de ne transporter aucun autre gibier que du renard ou du blaireau.
+- a. ...
+- b. ...
+- c. ...
 
-[^78-2]: Modif. 5 du 01.12.2021: Introduction Art. 21a, Al. 1, c; entrée en vigueur au 15.12.2021; Introduction Art. 22, Al. 1bis; entrée en vigueur au 15.12.2021; Abrogation tArt; entrée en vigueur au 15.12.2021; Abrogation Al. 1; entrée en vigueur au 15.12.2021
+[^78-2]: Modif. 5 du 01.12.2021: Abrogation tArt; entrée en vigueur au 15.12.2021; Abrogation Al. 1; entrée en vigueur au 15.12.2021
 
 #### Art. 80
 
@@ -1074,15 +1077,15 @@ arrête
 
 #### Art. 82
 
-**Arme pour chasse du chamois, du cerf et du gibier de montagne (loi, art.47) [^81-1]**
+**Arme pour chasse du bouquetin, du chamois et du cerf (loi, art.47) [^81-1]**
 
 <sup>1</sup> Pour la chasse du chamois et du bouquetin, seules les carabines à balle à un coup ou à répétition manuelle sont autorisées..
 
-<sup>1bis</sup> Pour la chasse du cerf, seules les carabines à balle à un coup, à répétition manuelle et double express sont autorisées.
+<sup>1bis</sup> Pour la chasse du cerf, seules les carabines à balle et le double express sont autorisés.
 
 <sup>2</sup> ...
 
-[^81-1]: Modif. 1 du 09.08.2006: Introduction Al. 1bis; entrée en vigueur au 15.08.2006 · Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Abrogation Al. 2; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Introduction Art. 21a, Al. 1, c; entrée en vigueur au 15.12.2021; Introduction Art. 22, Al. 1bis; entrée en vigueur au 15.12.2021; Modification tArt; entrée en vigueur au 15.12.2021; Modification Al. 1bis; entrée en vigueur au 15.12.2021
+[^81-1]: Modif. 1 du 09.08.2006: Introduction Al. 1bis; entrée en vigueur au 15.08.2006 · Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Abrogation Al. 2; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification tArt; entrée en vigueur au 15.12.2021; Modification Al. 1bis; entrée en vigueur au 15.12.2021
 
 #### Art. 83
 
@@ -1186,13 +1189,13 @@ arrête
 - 3\. les projectiles dont la chemise métallique est d'un calibre inférieur à 7 mm;
 - 4\. la chevrotine.
 
-<sup>2</sup> Est considéré comme chevrotine tout plomb d'un diamètre supérieur à 5 mm.
+<sup>2</sup> Est considéré comme chevrotine tout plomb d'un diamètre supérieur à 4.5 mm.
 
 <sup>3</sup> Le port de ces munitions sur le terrain de chasse et leur transport dans un véhicule utilisé pour se rendre sur le terrain de chasse ou en revenir sont également interdits.
 
 <sup>4</sup> L'utilisation de grenaille en plomb non nickelé est interdite pour la chasse dans les zones peu profondes telles que marais, étangs, zones humides, rivières ainsi que sur le lac Léman.
 
-[^sectionSectionIII-2]: Modif. 5 du 01.12.2021: Introduction Art. 21a, Al. 1, c; entrée en vigueur au 15.12.2021; Introduction Art. 22, Al. 1bis; entrée en vigueur au 15.12.2021; Modification Al. 2; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 2,4; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^sectionSectionIII-2]: Modif. 5 du 01.12.2021: Modification Al. 2; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 2,4; entrée en vigueur au 01.06.2024; Introduction Art. 108, Al. 3bis,5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
 
 #### Art. 92
 
@@ -1371,17 +1374,17 @@ arrête
 
 **Protection des cultures et des biens (loi, art. 58) [^titleTitreVIII-1]**
 
-<sup>1</sup> Les préfets peuvent donner l'autorisation de capturer ou de tirer dans les habitations, leurs dépendances directes et les cultures les animaux des espèces suivantes :
+<sup>1</sup> Les préfets peuvent autoriser des mesures individuelles de lutte contre les animaux protégés ou pouvant être chassés appartenant aux espèce suivantes, lorsqu'ils causent des dégâts dans les cultures, les habitations et leurs dépendances directes ou dans certains ouvrages techniques :
 
-- - blaireau, renard, fouine, pigeon domestique, pigeon ramier, tourterelle turque, corbeau freux, corneille noire, pie, geai, étourneau et moineau domestique.
+- - blaireau, renard, fouine, pigeon domestique, pigeon ramier, tourterelle turque, corbeau freux, corneille noire et étourneau.
 
-<sup>2</sup> Les tirs ne peuvent être exécutés qu'avec une arme admise dans l'exercice de la chasse et la capture qu'au moyen d'une chatière.
+<sup>2</sup> ...
 
 <sup>3</sup> Les préfets fixent les conditions de tir ou de capture conformément aux directives du département et les mentionnent sur l'autorisation.
 
-<sup>4</sup> Avant de délivrer une autorisation, ils consultent le surveillant permanent de la faune. Ils peuvent lui déléguer leurs compétences en la matière.
+<sup>4</sup> Avant de délivrer une autorisation, ils consultent le surveillant permanent de la faune.
 
-[^titleTitreVIII-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Modification Al. 1, Tiret 1; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Introduction Art. 21a, Al. 1, c; entrée en vigueur au 15.12.2021; Introduction Art. 22, Al. 1bis; entrée en vigueur au 15.12.2021; Modification Al. 1; entrée en vigueur au 15.12.2021; Modification Al. 1, Tiret 1; entrée en vigueur au 15.12.2021; Abrogation Al. 2; entrée en vigueur au 15.12.2021; Modification Al. 4; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Modification Al. 1, Tiret 1; entrée en vigueur au 01.06.2024; Modification Al. 3; entrée en vigueur au 01.06.2024; Introduction Al. 3bis; entrée en vigueur au 01.06.2024; Modification Al. 4; entrée en vigueur au 01.06.2024; Introduction Al. 5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
+[^titleTitreVIII-1]: Modif. 3 du 03.07.2019: Modification Al. 1; entrée en vigueur au 01.07.2019; Modification Al. 1, Tiret 1; entrée en vigueur au 01.07.2019 · Modif. 5 du 01.12.2021: Modification Al. 1; entrée en vigueur au 15.12.2021; Modification Al. 1, Tiret 1; entrée en vigueur au 15.12.2021; Abrogation Al. 2; entrée en vigueur au 15.12.2021; Modification Al. 4; entrée en vigueur au 15.12.2021 · Modif. 6 du 22.05.2024: Introduction Art. 2b; entrée en vigueur au 01.06.2024; Introduction Art. 2c; entrée en vigueur au 01.06.2024; Introduction Art. 2d; entrée en vigueur au 01.06.2024; Introduction Art. 2e; entrée en vigueur au 01.06.2024; Introduction Art. 5a; entrée en vigueur au 01.06.2024; Introduction Art. 5b; entrée en vigueur au 01.06.2024; Introduction Art. 5c; entrée en vigueur au 01.06.2024; Introduction Art. 7b; entrée en vigueur au 01.06.2024; Introduction Art. 8, Al. 1, c; entrée en vigueur au 01.06.2024; Introduction Art. 14a; entrée en vigueur au 01.06.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1bis; entrée en vigueur au 01.06.2024; Introduction Art. 29, Al. 1, 1-3; entrée en vigueur au 01.06.2024; Introduction Art. 33, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 34, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 46, Al. 2; entrée en vigueur au 01.06.2024; Introduction Art. 52, Al. 2; entrée en vigueur au 01.06.2024; Modification Al. 1; entrée en vigueur au 01.06.2024; Modification Al. 1, Tiret 1; entrée en vigueur au 01.06.2024; Modification Al. 3; entrée en vigueur au 01.06.2024; Introduction Al. 3bis; entrée en vigueur au 01.06.2024; Modification Al. 4; entrée en vigueur au 01.06.2024; Introduction Al. 5; entrée en vigueur au 01.06.2024; Introduction Art. 113, Al. 3; entrée en vigueur au 01.06.2024; Introduction Art. 116a; entrée en vigueur au 01.06.2024; Introduction Art. 116b; entrée en vigueur au 01.06.2024; Introduction Art. 116c; entrée en vigueur au 01.06.2024; Introduction Art. 119, Al. 2; entrée en vigueur au 01.06.2024
 
 #### Art. 109
 
@@ -1482,13 +1485,13 @@ arrête
 
 <sup>1</sup> La compétence pour décider du financement d'une opération appartient :
 
-- a. au service jusqu'à CHF 50'000.- ;
-- b. au département si le montant est compris entre CHF 50'001.- et CHF 250'000.- ;
-- c. au Conseil d'Etat si le montant dépasse CHF 250'000.-.
+- a. au service jusqu'à CHF 200'000.- ;
+- b. au département si le montant dépasse CHF 200'000.- ;
+- c. ...
 
 <sup>2</sup> Le service est compétent pour prélever les montants nécessaires à l'exécution des décisions prises.
 
-[^112-3]: Modif. 2 du 21.06.2017: Introduction Art. 112a; entrée en vigueur au 01.07.2017 · Modif. 5 du 01.12.2021: Introduction Art. 21a, Al. 1, c; entrée en vigueur au 15.12.2021; Introduction Art. 22, Al. 1bis; entrée en vigueur au 15.12.2021; Modification Al. 1, a-b; entrée en vigueur au 15.12.2021; Abrogation Al. 1, c; entrée en vigueur au 15.12.2021
+[^112-3]: Modif. 2 du 21.06.2017: Introduction Art. 112a; entrée en vigueur au 01.07.2017 · Modif. 5 du 01.12.2021: Modification Al. 1, a-b; entrée en vigueur au 15.12.2021; Abrogation Al. 1, c; entrée en vigueur au 15.12.2021
 
 ## Titre IX Gardiennage
 
@@ -1578,4 +1581,4 @@ Annexes
 
 1
 
-[pdf-922.03.1.annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/1?dmev=27.05.2020)
+[pdf-922.03.1.annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/1?dmev=15.12.2021)
