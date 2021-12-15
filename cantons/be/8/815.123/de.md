@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-12-09
-valid_until: 2021-12-15
-version_adopted: 2021-12-08
+version: 2021-12-16
+valid_until: 2021-12-22
+version_adopted: 2021-12-15
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2427/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2502/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2427/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 09.12.2021)
+vom 04.11.2020 (Stand 16.12.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -284,6 +284,20 @@ beschliesst:
 
 **…**
 
+#### Art. 16k
+
+**Zertifikatspflicht**
+
+<sup>1</sup> Die Angestellten von Spitälern, Alters- und Pflegeheimen sowie Spitex-Organisationen müssen über ein gültiges Zertifikat verfügen oder sich regelmässig auf eine Covid-19-Infektion testen lassen.
+
+<sup>2</sup> Die Institutionen gemäss Absatz 1
+
+- a ermöglichen Mitarbeiterinnen und Mitarbeitern ohne gültiges Zertifikat ein kostenloses repetitives Testen,
+- b überprüfen, dass die Mitarbeiterinnen und Mitarbeiter über ein gültiges Zertifikat oder ein negatives Testergebnis verfügen,
+- c können Name, Vorname, Geburtsdatum und Ablaufdatum des Zertifikats beziehungsweise des Testergebnisses registrieren, um wiederholte Überprüfungen zu vermeiden. Nach Ablauf der Gültigkeitsdauer des Zertifikats beziehungsweise des Testergebnisses sind die Daten unverzüglich zu löschen.
+
+<sup>3</sup> Das repetitive Testen erfolgt durch molekularbiologische Analyse (PCR-Test) oder durch immunologische Analyse auf SARS-CoV-2-Antigene im Nasenrachenbereich (Antigen-Schnelltest).
+
 ## 3 Zuständigkeiten und Vollzug
 
 ### 3.1 Allgemeines
@@ -479,7 +493,7 @@ beschliesst:
 
 <sup>2b</sup> Artikel 6a gilt bis zum 31. Mai 2021.
 
-<sup>2c</sup> Die Artikel 3 bis 5, 8f, 12a und 12b sowie 16b1 bis 16h gelten bis zum 24. Januar 2022.
+<sup>2c</sup> Die Artikel 3 bis 5, 8f, 12a und 12b, 16b1 bis 16h sowie 16k gelten bis zum 24. Januar 2022.
 
 <sup>2d</sup> …
 

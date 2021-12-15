@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-12-09
-valid_until: 2021-12-15
-version_adopted: 2021-12-08
+version: 2021-12-16
+valid_until: 2021-12-22
+version_adopted: 2021-12-15
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2427/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2502/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2427/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 09.12.2021)
+du 04.11.2020 (état au 16.12.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -284,6 +284,20 @@ arrête:
 
 **…**
 
+#### Art. 16k
+
+**Obligation de présenter un certificat**
+
+<sup>1</sup> Les employés et les employées des hôpitaux, des foyers pour personnes âgées et des établissements médico-sociaux, ainsi que des organisations d'aide et de soins à domicile doivent disposer d'un certificat COVID-19 valable ou se faire tester régulièrement.
+
+<sup>2</sup> Les institutions au sens de l'alinéa 1
+
+- a offrent aux collaborateurs et aux collaboratrices sans certificat valable la possibilité de se soumettre gratuitement à des tests répétés;
+- b vérifient que les collaborateurs et collaboratrices disposent d'un certificat valable ou d'un résultat de test négatif;
+- c peuvent enregistrer les nom, prénom, date de naissance ainsi que la date d'expiration du certificat et, le cas échéant, le résultat du test afin d'éviter les vérifications répétées. Ces données doivent être supprimées immédiatement au terme de la durée du certificat ou du résultat du test.
+
+<sup>3</sup> Les tests répétés se font au moyen d'une analyse de biologie moléculaire (test PCR) ou d'une analyse des antigènes du SARS-CoV-2 par immunologie dans la zone nasopharyngée (test rapide antigénique).
+
 ## 3 Compétences et exécution
 
 ### 3.1 Généralités
@@ -479,7 +493,7 @@ arrête:
 
 <sup>2b</sup> L'article 6a est valable jusqu'au 31 mai 2021.
 
-<sup>2c</sup> Les articles 3 à 5, 8f, 12a et 12b ainsi que 16b1 à 16h sont valables jusqu'au 24 janvier 2022.
+<sup>2c</sup> Les articles 3 à 5, 8f, 12a et 12b, 16b1 à 16h, ainsi que 16k sont valables jusqu'au 24 janvier 2022.
 
 <sup>2d</sup> …
 
