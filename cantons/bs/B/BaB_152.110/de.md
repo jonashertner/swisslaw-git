@@ -3,13 +3,13 @@ canton: BS
 number: BaB 152.110
 title: Ausführungsbestimmungen zur Geschäftsordnung des Bürgergemeinderates der Stadt Basel
 language: de
-version: 2021-10-01
-valid_until: 2021-12-15
-version_adopted: 2021-06-22
+version: 2021-12-16
+valid_until: 2024-09-30
+version_adopted: 2021-12-07
 adopted: 1986-09-09
 in_force: 1986-11-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20152.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5327/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5438/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5327/pdf_file"
 
 Bürgergemeinderat: Ausführungsbest. zur Geschäftsordnung | Basel: Bürgergemeinde
 
-Vom 9. September 1986 (Stand 1. Oktober 2021)
+Vom 9. September 1986 (Stand 16. Dezember 2021)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -32,7 +32,9 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 **Sitzordnung**
 
-<sup>1</sup> Die Mitglieder des Bürgergemeinderates nehmen ihre Sitze in der Regel nach der Reihenfolge der Parteilisten und ihren persönlich erhaltenen Stimmen ein. Der Präsident/die Präsidentin, der Statthalter/die Statthalterin, die Mitglieder des Bürgerrates und der Protokollführer haben besondere Sitzplätze.
+<sup>1</sup> Die Mitglieder des Bürgergemeinderates nehmen ihre Sitze in der Regel nach der Reihenfolge der Parteilisten und ihren persönlich erhaltenen Stimmen ein. Die Präsidentin oder der Präsident[^1-1], die Statthalterin oder der Statthalter, die Mitglieder des Bürgerrates und der Protokollführer haben besondere Sitzplätze.
+
+[^1-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 2
 
@@ -44,11 +46,13 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 **Einladung; Tagesordnung**
 
-<sup>1</sup> Die Einladung zur Sitzung erlässt der Präsident/die Präsidentin im Einvernehmen mit dem Bürgerrat durch Versand einer schriftlichen Mitteilung und durch Publikation im Kantonsblatt.
+<sup>1</sup> Die Einladung zur Sitzung erlässt die Präsidentin oder der Präsident[^3-1] im Einvernehmen mit dem Bürgerrat durch Versand einer Mitteilung und durch Publikation im Kantonsblatt.
 
-<sup>2</sup> Die Einladung ist zusammen mit der vorgeschlagenen Tagesordnung spätestens zehn Tage vor der Sitzung zum Versand aufzugeben.
+<sup>2</sup> Die Einladung ist zusammen mit der vorgeschlagenen Tagesordnung spätestens zehn Tage vor der Sitzung zu versenden.
 
 <sup>3</sup> Das Sitzungsdatum muss den Mitgliedern möglichst frühzeitig, in der Regel vier Wochen vor der Sitzung, mitgeteilt werden.
+
+[^3-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 4
 
@@ -82,7 +86,9 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 **Amtssprache**
 
-<sup>1</sup> Die Amtssprache ist Deutsch (Dialekt oder Schriftsprache); die Anrede lautet: Herr Präsident/Frau Präsidentin, meine Damen und Herren.
+<sup>1</sup> Die Amtssprache ist Deutsch (Dialekt oder Schriftsprache); die Anrede lautet: Frau Präsidentin oder Herr Präsident[^6-1], meine Damen und Herren.
+
+[^6-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 7
 
@@ -143,17 +149,21 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 **Wortbegehren**
 
-<sup>1</sup> Wortbegehren sind an den Präsidenten/die Präsidentin zu richten. Das Wort wird in der Reihenfolge der Anmeldung erteilt. Der Präsident/die Präsidentin kann zuerst den Fraktionssprechern das Wort geben.
+<sup>1</sup> Wortbegehren sind an die Präsidentin oder den Präsidenten zu richten. Das Wort wird in der Reihenfolge der Anmeldung erteilt. Die Präsidentin oder der Präsident[^14-1] kann zuerst den Fraktionssprechern das Wort geben.
 
 <sup>2</sup> Ausser der Reihe kann das Wort nur zur Geschäftsordnung erteilt werden, wobei die Redezeit auf fünf Minuten beschränkt ist.
 
 <sup>3</sup> Jedes Ratsmitglied darf zum gleichen Gegenstand nur zweimal sprechen; ausgenommen sind persönliche Erklärungen gemäss § 9 der Geschäftsordnung.
 
+[^14-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
+
 #### § 15
 
 **Anträge**
 
-<sup>1</sup> Die Anträge zu einem in Beratung stehenden Geschäft sind dem Präsidenten/der Präsidentin schriftlich und unterzeichnet einzureichen. Wird ein Antrag vom Antragsteller zurückgezogen, so kann er von einem andern Ratsmitglied wieder aufgenommen werden.
+<sup>1</sup> Die Anträge zu einem in Beratung stehenden Geschäft sind der Präsidentin oder dem Präsidenten[^15-1] schriftlich und unterzeichnet einzureichen. Wird ein Antrag vom Antragsteller zurückgezogen, so kann er von einem andern Ratsmitglied wieder aufgenommen werden.
+
+[^15-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 16
 
@@ -177,21 +187,27 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 **Stimmabgabe**
 
-<sup>1</sup> Die Stimmabgabe erfolgt durch Erheben der Hand. Der Präsident/die Präsidentin stellt fest, ob das Mehr unzweifelhaft ist oder ob eine Auszählung stattzufinden hat. Diese ist auch durchzuführen, wenn ein Ratsmitglied dies verlangt. Stimmenzähler ist der Protokollführer.
+<sup>1</sup> Die Stimmabgabe erfolgt durch Erheben der Hand. Die Präsidentin oder der Präsident[^19-1] stellt fest, ob das Mehr unzweifelhaft ist oder ob eine Auszählung stattzufinden hat. Diese ist auch durchzuführen, wenn ein Ratsmitglied dies verlangt. Stimmenzähler ist der Protokollführer.
 
-<sup>2</sup> Liegt zu einem Gegenstand nur ein einziger Antrag vor, stellt der Präsident/die Präsidentin dessen stillschweigende Annahme fest.
+<sup>2</sup> Liegt zu einem Gegenstand nur ein einziger Antrag vor, stellt die Präsidentin oder der Präsident[^19-2] dessen stillschweigende Annahme fest.
 
 <sup>3</sup> Schlussabstimmungen über Vorlagen sowie Abstimmungen über Bürgeraufnahmen sind immer durch Abmehrung durchzuführen.
+
+[^19-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
+[^19-2]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 20
 
 **Wahlen**
 
-<sup>1</sup> Bei Wahlen bezeichnet der Präsident/die Präsidentin die Stimmenzähler aus der Mitte der Ratsmitglieder.
+<sup>1</sup> Bei Wahlen bezeichnet die Präsidentin oder der Präsident[^20-1] die Stimmenzähler aus der Mitte der Ratsmitglieder.
 
 <sup>2</sup> Die Mandatsverteilung bei der Bestellung von Kommissionen nach Fraktionsstärken richtet sich nach dem prozentualen Sitzanteil der Fraktionen aufgrund ihrer Sitzzahl im Bürgergemeinderat. Nach Zuweisung der Vollmandate (= ganze Verteilungszahlen) werden der Reihe nach die grösseren Restwerte hinter dem Komma berücksichtigt.
 
-<sup>3</sup> Das Wahlergebnis wird von den Stimmenzählern unter Aufsicht des Statthalters/der Statthalterin oder eines andern Mitglieds des Büros ermittelt und dem Bürgergemeinderat vom Präsidenten/von der Präsidentin mitgeteilt.
+<sup>3</sup> Das Wahlergebnis wird von den Stimmenzählern unter Aufsicht der Statthalterin oder des Statthalters oder eines andern Mitglieds des Büros ermittelt und dem Bürgergemeinderat von der Präsidentin oder vom Präsidenten[^20-2] mitgeteilt.
+
+[^20-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
+[^20-2]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 21
 
@@ -211,11 +227,13 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 **Interpellation**
 
-<sup>1</sup> Eine Interpellation ist spätestens am Vormittag des dritten der Sitzung vorangehenden Arbeitstages (also in der Regel am Donnerstag) beim Bürgerratsschreiber/bei der Bürgerratsschreiberin zuhanden des Präsidenten/der Präsidentin des Bürgergemeinderates schriftlich einzureichen. Die Redezeit zur Begründung ist auf zehn Minuten beschränkt.
+<sup>1</sup> Eine Interpellation ist spätestens am Vormittag des dritten der Sitzung vorangehenden Arbeitstages (also in der Regel am Donnerstag) bei der Bürgerratsschreiberin oder beim Bürgerratsschreiber zuhanden der Präsidentin oder des Präsidenten[^23-1] des Bürgergemeinderates schriftlich einzureichen. Die Redezeit zur Begründung ist auf zehn Minuten beschränkt.
 
 <sup>2</sup> Nach der Beantwortung der Interpellation erklärt der Interpellant, ob er von der Antwort befriedigt ist. Hiezu ist die Redezeit auf zehn Minuten zu beschränken. Der Vertreter des Bürgerrates hat danach das Recht auf eine kurze Erklärung.
 
 <sup>3</sup> Der Rat kann Diskussion beschliessen.
+
+[^23-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 24
 
@@ -225,13 +243,15 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 <sup>2</sup> Wird der Auftrag mindestens 20 Tage vor einer Sitzung eingereicht, so wird er in dieser Sitzung behandelt. Er ist gemäss § 3 auf die vorgeschlagene Tagesordnung zu setzen und sein Wortlaut binnen der Frist von § 11 den Mitgliedern des Bürgergemeinderates zur Kenntnis zu bringen.
 
-<sup>3</sup> Wird der Auftrag später oder während einer Sitzung eingereicht, so gibt der Präsident/die Präsidentin dem Plenum unverzüglich Kenntnis vom Wortlaut des Auftrags. Die Behandlung erfolgt in der folgenden Sitzung, doch kann der Bürgergemeinderat mit zwei Dritteln der Stimmen Behandlung in der gleichen Sitzung beschliessen.
+<sup>3</sup> Wird der Auftrag später oder während einer Sitzung eingereicht, so gibt die Präsidentin oder der Präsident[^24-1] dem Plenum unverzüglich Kenntnis vom Wortlaut des Auftrags. Die Behandlung erfolgt in der folgenden Sitzung, doch kann der Bürgergemeinderat mit zwei Dritteln der Stimmen Behandlung in der gleichen Sitzung beschliessen.
 
 <sup>4</sup> Nach der Einreichung darf ein Auftrag materiell nicht mehr abgeändert werden. Zieht ihn der Erstunterzeichner vor oder während der Beratung zurück, so kann er von einem andern Ratsmitglied aufgenommen werden.
 
 <sup>5</sup> Eine Diskussion findet nur statt, wenn der Auftrag bestritten ist. Nach einer Diskussion hat der Erstunterzeichner bzw. das vom Büro oder einer Kommission zur Vertretung des Auftrags bestimmte Mitglied das Schlusswort.
 
 <sup>6</sup> Der Auftrag ist erledigt, wenn er vom Bürgergemeinderat abgeschrieben worden ist.
+
+[^24-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 25
 
@@ -251,7 +271,9 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 **Antrag**
 
-<sup>1</sup> Ein Antrag ist dem Präsidenten/der Präsidentin spätestens bei der Behandlung des betreffenden Teiles des Leistungsauftrags und des Globalkredits schriftlich einzureichen. Er wird dort in Beratung gezogen.
+<sup>1</sup> Ein Antrag ist der Präsidentin oder dem Präsidenten[^26-1] spätestens bei der Behandlung des betreffenden Teiles des Leistungsauftrags und des Globalkredits schriftlich einzureichen. Er wird dort in Beratung gezogen.
+
+[^26-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 27
 
@@ -269,7 +291,9 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 **Petition**
 
-<sup>1</sup> Eine Petition ist zuhanden des Bürgergemeinderates an den Präsidenten/die Präsidentin mittels schriftlicher Eingabe zu richten. Dieser/Diese bringt die Petition dem Bürgergemeinderat zur Kenntnis.
+<sup>1</sup> Eine Petition ist zuhanden des Bürgergemeinderates an die Präsidentin oder den Präsidenten[^29-1] mittels schriftlicher Eingabe zu richten. Dieser/Diese bringt die Petition dem Bürgergemeinderat zur Kenntnis.
+
+[^29-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 ## IV. Kommissionen
 
@@ -277,9 +301,11 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 **Einberufung**
 
-<sup>1</sup> Die Kommissionen werden rechtzeitig durch ihre Präsidenten/ Präsidentinnen unter Angabe der Traktanden eingeladen. Ein Viertel der Kommissionsmitglieder, mindestens zwei, können die Einberufung einer Sitzung verlangen.
+<sup>1</sup> Die Kommissionen werden rechtzeitig durch ihre Präsidentinnen oder Präsidenten[^30-1] unter Angabe der Traktanden eingeladen. Ein Viertel der Kommissionsmitglieder, mindestens zwei, können die Einberufung einer Sitzung verlangen.
 
 <sup>2</sup> Die Kommissionen können zur Vorbereitung einzelner Geschäfte Subkommissionen bilden.
+
+[^30-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 31
 
@@ -287,9 +313,11 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 <sup>1</sup> Die Kommissionen sind beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist.
 
-<sup>2</sup> Der Präsident/die Präsidentin stimmt mit und hat bei Stimmengleichheit den Stichentscheid.
+<sup>2</sup> Die Präsidentin oder der Präsident[^31-1] stimmt mit und hat bei Stimmengleichheit den Stichentscheid.
 
 <sup>3</sup> Beschlüsse können mit einfachem Mehr in Wiedererwägung gezogen werden.
+
+[^31-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 32
 
@@ -307,9 +335,11 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 <sup>1</sup> Die Kommissionen haben die Wünsche und Anregungen der Mitglieder des Bürgergemeinderates entgegenzunehmen.
 
-<sup>2</sup> Die Kommissionen können unter Anzeige an den zuständigen Bürgerrat Gutachten von Sachverständigen einholen und ausserhalb der bürgerlichen Verwaltung stehende Persönlichkeiten zur Auskunfterteilung zu ihren Beratungen zuziehen. Bei entgeltlichen Aufträgen ist vor der Auftragerteilung dem Präsidenten/der Präsidentin des Bürgergemeinderates ein Kostenvoranschlag zu unterbreiten.
+<sup>2</sup> Die Kommissionen können unter Anzeige an den zuständigen Bürgerrat Gutachten von Sachverständigen einholen und ausserhalb der bürgerlichen Verwaltung stehende Persönlichkeiten zur Auskunfterteilung zu ihren Beratungen zuziehen. Bei entgeltlichen Aufträgen ist vor der Auftragerteilung der Präsidentin oder dem Präsidenten[^33-1] des Bürgergemeinderates ein Kostenvoranschlag zu unterbreiten.
 
 <sup>3</sup> Die Kommissionen können auch Delegierte einer kantonalen oder eidgenössischen Behörde mit beratender Stimme zu ihren Sitzungen einladen.
+
+[^33-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 34
 
@@ -331,17 +361,23 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 **Zwischenberichte**
 
-<sup>1</sup> Auf Ende ihrer Amtsdauer haben ständige und Spezialkommissionen, bei welchen unerledigte Geschäfte liegen, einen Rechenschaftsbericht über ihre Tätigkeit und die bereits gefassten Beschlüsse dem Präsidenten/der Präsidentin des Bürgergemeinderates abzuliefern. Über weitere Zwischenberichte entscheiden die Kommissionen selbst.
+<sup>1</sup> Auf Ende ihrer Amtsdauer haben ständige und Spezialkommissionen, bei welchen unerledigte Geschäfte liegen, einen Rechenschaftsbericht über ihre Tätigkeit und die bereits gefassten Beschlüsse der Präsidentin oder dem Präsidenten[^36-1] des Bürgergemeinderates abzuliefern. Über weitere Zwischenberichte entscheiden die Kommissionen selbst.
+
+[^36-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 37
 
 **Anträge an den Bürgergemeinderat; Berichterstattung**
 
-<sup>1</sup> Die Berichte von ständigen und Spezialkommissionen, welche die Anträge der Kommissionen und eventuelle Minderheitsanträge samt Abstimmungsergebnissen zu enthalten haben, sind dem Präsidenten/der Präsidentin des Bürgergemeinderates schriftlich einzureichen.
+<sup>1</sup> Die Berichte von ständigen und Spezialkommissionen, welche die Anträge der Kommissionen und eventuelle Minderheitsanträge samt Abstimmungsergebnissen zu enthalten haben, sind der Präsidentin oder dem Präsidenten[^37-1] des Bürgergemeinderates schriftlich einzureichen.
 
-<sup>2</sup> Wenn die Kommission keinen andern Referenten bestimmt, erstattet der Präsident/die Präsidentin dem Bürgergemeinderat Bericht. Eine Minderheit von mindestens zwei Kommissionsmitgliedern kann einen eigenen Bericht vorlegen und durch einen von ihr bestimmten Referenten vertreten lassen.
+<sup>2</sup> Wenn die Kommission keinen andern Referenten bestimmt, erstattet die Präsidentin oder der Präsident[^37-2] dem Bürgergemeinderat Bericht. Eine Minderheit von mindestens zwei Kommissionsmitgliedern kann einen eigenen Bericht vorlegen und durch einen von ihr bestimmten Referenten vertreten lassen.
 
-<sup>3</sup> Nur mündliche Berichterstattung ist in dringenden Fällen, sonst mit Zustimmung des Präsidenten/der Präsidentin des Bürgergemeinderates, zulässig.
+<sup>3</sup> Nur mündliche Berichterstattung ist in dringenden Fällen, sonst mit Zustimmung der Präsidentin oder des Präsidenten[^37-3] des Bürgergemeinderates, zulässig.
+
+[^37-1]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
+[^37-2]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
+[^37-3]: Die Paarform wurde auf Anweisung der Bürgergemeinde der Stadt Basel redaktionell ergänzt.
 
 #### § 38
 
