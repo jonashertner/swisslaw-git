@@ -3,13 +3,13 @@ canton: BS
 number: BeE 132.100
 title: Ordnung über Wahlen und Abstimmungen der Einwohnergemeinde Bettingen
 language: de
-version: 2017-05-01
-valid_until: 2021-12-15
-version_adopted: 2016-12-13
+version: 2021-12-16
+valid_until: 2026-05-10
+version_adopted: 2021-12-07
 adopted: 1996-12-03
 in_force: 1997-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20132.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4380/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5386/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4380/pdf_file"
 
 Wahl- und Abstimmungsordnung | Bettingen: Einwohnergemeinde
 
-Vom 3. Dezember 1996 (Stand 1. Mai 2017)
+Vom 3. Dezember 1996 (Stand 16. Dezember 2021)
 
 Die Gemeindeversammlung der Einwohnergemeinde Bettingen,
 
@@ -288,7 +288,7 @@ gestützt auf § 9 des Gemeindegesetzes vom 17. Oktober 1984[^ingress-1], auf An
 
 <sup>1</sup> Die Gesamterneuerungswahlen finden alle vier Jahre statt. Sie sind zeitlich so anzuordnen, dass der Gemeinderat seine Tätigkeit im Mai beginnen kann.
 
-<sup>2</sup> Ersatzwahlen sind beförderlich anzuordnen. Die Ersatzwahl kann bis zum nächsten eidgenössischen oder kantonalen Wahl- und Abstimmungstag hinausgeschoben werden, sofern die Vakanz deswegen nicht länger als drei Monate andauert.
+<sup>2</sup> Ersatzwahlen sind beförderlich anzuordnen. Die Ersatzwahl kann bis zum nächsten eidgenössischen oder kantonalen Wahl- und Abstimmungstag hinausgeschoben werden.
 
 <sup>3</sup> Eine Ersatzwahl des Gemeindepräsidenten oder der Gemeindepräsidentin oder einzelner Mitglieder des Gemeinderates erfolgt für den Rest der laufenden Amtsdauer.
 
