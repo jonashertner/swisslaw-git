@@ -3,11 +3,11 @@ sr: "0.732.321.1"
 title: Übereinkommen vom 26. September 1986 über die frühzeitige Benachrichtigung bei nuklearen Unfällen
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1360_1360_1360"
 language: de
-version: 2020-05-26
+version: 2021-12-17
 adopted: 1986-09-26
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1360_1360_1360/20200526/de/xml/fedlex-data-admin-ch-eli-cc-1988-1360_1360_1360-20200526-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1360_1360_1360/20200526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1360_1360_1360/20211217/de/xml/fedlex-data-admin-ch-eli-cc-1988-1360_1360_1360-20211217-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1360_1360_1360/20211217/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1988** 1360; BBl **1987** III 105
 
 Abgeschlossen in Wien am 26. September 1986 Von der Bundesversammlung genehmigt am 3. März 1988[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 31. Mai 1988 In Kraft getreten für die Schweiz am 1. Juli 1988
 
-(Stand am 26. Mai 2020)
+(Stand am 17. Dezember 2021)
 
 [^t-1]: [AS 1988 1359](https://fedlex.data.admin.ch/eli/oc/1988/1359_1359_1359)
 
@@ -212,7 +212,7 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die gehörig befugten Unterzeichneten dieses Übereinkommen, das nach Artikel 12 Absatz 1 zur Unterzeichnung aufliegt, unterschrieben. Angenommen von der Generalkonferenz der Internationalen Atomenergie‑Organisation auf einer Sondertagung in Wien am 26. September 1986. (Es folgen die Unterschriften)
 
-Geltungsbereich am 26. Mai 2020**[^t-2]**
+Geltungsbereich am 17. Dezember 2021[^t-2]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -237,6 +237,7 @@ Geltungsbereich am 26. Mai 2020**[^t-2]**
 <tr><td colspan="2">Chile</td><td>15. November</td><td>2005</td><td>15. Dezember</td><td>2005</td></tr>
 <tr><td colspan="2">China\*</td><td>10. September</td><td>1987</td><td>11. Oktober</td><td>1987</td></tr>
 <tr><td colspan="2">Costa Rica</td><td>16. September</td><td>1991</td><td>17. Oktober</td><td>1991</td></tr>
+<tr><td colspan="2">Côte d’Ivoire</td><td>21. September</td><td>2020</td><td>21. Oktober</td><td>2020</td></tr>
 <tr><td colspan="2">Dänemark</td><td>26. September</td><td>1986 U</td><td>27. Oktober</td><td>1986</td></tr>
 <tr><td colspan="2">Deutschland\*</td><td>14. September</td><td>1989</td><td>15. Oktober</td><td>1989</td></tr>
 <tr><td colspan="2">Dominikanische Republik</td><td>29. April</td><td>2010 B</td><td>29. Mai</td><td>2010</td></tr>
@@ -265,10 +266,11 @@ Geltungsbereich am 26. Mai 2020**[^t-2]**
 <tr><td colspan="2">Jordanien</td><td>11. Dezember</td><td>1987</td><td>11. Januar</td><td>1988</td></tr>
 <tr><td colspan="2">Kambodscha</td><td>5. April</td><td>2012 B</td><td>5. Mai</td><td>2012</td></tr>
 <tr><td colspan="2">Kamerun</td><td>17. Januar</td><td>2006</td><td>16. Februar</td><td>2006</td></tr>
-<tr><td colspan="2">Kanada\*</td><td>18. Januar</td><td>1990</td><td>18. Februar</td><td>1990</td></tr>
+<tr><td colspan="2">Kanada</td><td>18. Januar</td><td>1990</td><td>18. Februar</td><td>1990</td></tr>
 <tr><td colspan="2">Kasachstan</td><td>10. März</td><td>2010 B</td><td>9. April</td><td>2010</td></tr>
 <tr><td colspan="2">Katar</td><td>4. November</td><td>2005 B</td><td>4. Dezember</td><td>2005</td></tr>
 <tr><td colspan="2">Kolumbien</td><td>28. März</td><td>2003 B</td><td>28. April</td><td>2003</td></tr>
+<tr><td colspan="2">Kongo (Brazzaville)</td><td>3. September</td><td>2021 B</td><td>3. Oktober</td><td>2021</td></tr>
 <tr><td colspan="2">Korea (Süd-)</td><td>8. Juni</td><td>1990 B</td><td>9. Juli</td><td>1990</td></tr>
 <tr><td colspan="2">Kroatien</td><td>29. September</td><td>1992 N</td><td>8. Oktober</td><td>1991</td></tr>
 <tr><td colspan="2">Kuba\*</td><td>8. Januar</td><td>1991</td><td>8. Februar</td><td>1991</td></tr>
@@ -294,6 +296,7 @@ Geltungsbereich am 26. Mai 2020**[^t-2]**
 <tr><td colspan="2">Montenegro</td><td>21. März</td><td>2007 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Mosambik</td><td colspan="2">30. Oktober</td><td>2009 B</td><td>29. November</td><td>2009</td></tr>
 <tr><td colspan="2">Myanmar\*</td><td>18. Dezember</td><td>1997 B</td><td>18. Januar</td><td>1998</td></tr>
+<tr><td colspan="2">Namibia\*</td><td>27. Juli</td><td>2020 B</td><td>26. August</td><td>2020</td></tr>
 <tr><td colspan="2">Neuseeland</td><td>11. März</td><td>1987 B</td><td>11. April</td><td>1987</td></tr>
 <tr><td colspan="2">Nicaragua\*</td><td>11. November</td><td>1993 B</td><td>12. Dezember</td><td>1993</td></tr>
 <tr><td colspan="2">Niederlande</td><td>23. September</td><td>1991</td><td>24. Oktober</td><td>1991</td></tr>
@@ -301,6 +304,7 @@ Geltungsbereich am 26. Mai 2020**[^t-2]**
 <tr><td colspan="2">Curaçao</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
 <tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
 <tr><td colspan="2">Sint Maarten</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
+<tr><td colspan="2">Niger</td><td>19. November</td><td>2021</td><td>19. Dezember</td><td>2021</td></tr>
 <tr><td colspan="2">Nigeria</td><td>10. August</td><td>1990</td><td>10. September</td><td>1990</td></tr>
 <tr><td colspan="2">Nordmazedonien</td><td>20. September</td><td>1996 N</td><td>17. September</td><td>1991</td></tr>
 <tr><td colspan="2">Norwegen</td><td>26. September</td><td>1986 U</td><td>27. Oktober</td><td>1986</td></tr>
@@ -313,6 +317,7 @@ Geltungsbereich am 26. Mai 2020**[^t-2]**
 <tr><td colspan="2">Philippinen</td><td>5. Mai</td><td>1997 B</td><td>5. Juni</td><td>1997</td></tr>
 <tr><td colspan="2">Polen</td><td>24. März</td><td>1988</td><td>24. April</td><td>1988</td></tr>
 <tr><td colspan="2">Portugal</td><td>30. April</td><td>1993</td><td>31. Mai</td><td>1993</td></tr>
+<tr><td colspan="2">Ruanda</td><td>23. September</td><td>2021 B</td><td>23. Oktober</td><td>2021</td></tr>
 <tr><td colspan="2">Rumänien\*</td><td>12. Juni</td><td>1990 B</td><td>13. Juli</td><td>1990</td></tr>
 <tr><td colspan="2">Russland\*</td><td>23. Dezember</td><td>1968</td><td>24. Januar</td><td>1987</td></tr>
 <tr><td colspan="2">Saudi-Arabien\*</td><td>3. November</td><td>1989 B</td><td>4. Dezember</td><td>1989</td></tr>
@@ -320,6 +325,7 @@ Geltungsbereich am 26. Mai 2020**[^t-2]**
 <tr><td colspan="2">Schweiz</td><td>31. Mai</td><td>1988</td><td>1. Juli</td><td>1988</td></tr>
 <tr><td>Senegal</td><td colspan="2">24. Dezember</td><td>2008</td><td>23. Januar</td><td>2009</td></tr>
 <tr><td colspan="2">Serbien</td><td>5. Februar</td><td>2002 N</td><td>27. April</td><td>1992</td></tr>
+<tr><td colspan="2">Simbabwe</td><td>20. September</td><td>2021</td><td>20. Oktober</td><td>2021</td></tr>
 <tr><td colspan="2">Singapur</td><td>15. Dezember</td><td>1997 B</td><td>15. Januar</td><td>1998</td></tr>
 <tr><td colspan="2">Slowakei\*</td><td>10. Februar</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td colspan="2">Slowenien</td><td>7. Juli</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
@@ -327,7 +333,7 @@ Geltungsbereich am 26. Mai 2020**[^t-2]**
 <tr><td colspan="2">Sri Lanka\*</td><td>11. Januar</td><td>1991 B</td><td>11. Februar</td><td>1991</td></tr>
 <tr><td colspan="2">St. Vincent und die Grenadinen</td><td>18. September</td><td>2001 B</td><td>19. Oktober</td><td>2001</td></tr>
 <tr><td colspan="2">Südafrika\*</td><td>10. August</td><td>1987</td><td>10. September</td><td>1987</td></tr>
-<tr><td colspan="2">Syrien<sup>\*</sup></td><td>17. September</td><td>2018</td><td>17. Oktober</td><td>2018</td></tr>
+<tr><td colspan="2">Syrien\*</td><td>17. September</td><td>2018</td><td>17. Oktober</td><td>2018</td></tr>
 <tr><td colspan="2">Tadschikistan</td><td>1. September</td><td>2011 B</td><td>1. Oktober</td><td>2011</td></tr>
 <tr><td colspan="2">Tansania</td><td>27. Januar</td><td>2005 B</td><td>26. Februar</td><td>2005</td></tr>
 <tr><td colspan="2">Thailand\*</td><td>21. März</td><td>1989</td><td>21. April</td><td>1989</td></tr>
@@ -345,7 +351,7 @@ Geltungsbereich am 26. Mai 2020**[^t-2]**
 <tr><td colspan="2">[tab] Weltgesundheitsorganisation (WHO)\*</td><td>10. August</td><td>1988 B</td><td>10. September</td><td>1988</td></tr>
 <tr><td colspan="2">[tab] Weltorganisation für Meteorologie (WMO)\*</td><td>17. April</td><td>1990 B</td><td>18. Mai</td><td>1990</td></tr>
 <tr><td colspan="2">Zypern</td><td>4. Januar</td><td>1989 B</td><td>4. Februar</td><td>1989</td></tr>
-<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA) www.iaea.org &gt; Ressources &gt; Traités &gt; Les traités liés aux activités de l’AIEA eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA) [www.iaea.org](https://www.iaea.org/)/&gt; Ressources &gt; Traités &gt; Les traités liés aux activités de l’AIEA eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1988 1360](https://fedlex.data.admin.ch/eli/oc/1988/1360_1360_1360), [1989 398](https://fedlex.data.admin.ch/eli/oc/1989/398_398_398), [1990 1622](https://fedlex.data.admin.ch/eli/oc/1990/1622_1622_1622), [1991 2218](https://fedlex.data.admin.ch/eli/oc/1991/2218_2218_2218), [2005 1849](https://fedlex.data.admin.ch/eli/oc/2005/308), [2007 3595](https://fedlex.data.admin.ch/eli/oc/2007/442), [2010 1629](https://fedlex.data.admin.ch/eli/oc/2010/238), [2012 383](https://fedlex.data.admin.ch/eli/oc/2012/32), [2014 127](https://fedlex.data.admin.ch/eli/oc/2014/15), [2016 505](https://fedlex.data.admin.ch/eli/oc/2016/89), [2019 1599](https://fedlex.data.admin.ch/eli/oc/2019/305), [2020 2175](https://fedlex.data.admin.ch/eli/oc/2020/430). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1988 1360](https://fedlex.data.admin.ch/eli/oc/1988/1360_1360_1360); [1989 398](https://fedlex.data.admin.ch/eli/oc/1989/398_398_398); [1990 1622](https://fedlex.data.admin.ch/eli/oc/1990/1622_1622_1622); [1991 2218](https://fedlex.data.admin.ch/eli/oc/1991/2218_2218_2218); [2005 1849](https://fedlex.data.admin.ch/eli/oc/2005/308); [2007 3595](https://fedlex.data.admin.ch/eli/oc/2007/442); [2010 1629](https://fedlex.data.admin.ch/eli/oc/2010/238); [2012 383](https://fedlex.data.admin.ch/eli/oc/2012/32); [2014 127](https://fedlex.data.admin.ch/eli/oc/2014/15); [2016 505](https://fedlex.data.admin.ch/eli/oc/2016/89); [2019 1599](https://fedlex.data.admin.ch/eli/oc/2019/305); [2020 2175](https://fedlex.data.admin.ch/eli/oc/2020/430); [2021 909](https://fedlex.data.admin.ch/eli/oc/2021/909). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

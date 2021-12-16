@@ -3,11 +3,11 @@ sr: "0.732.321.1"
 title: Convenzione del 26 settembre 1986 sulla tempestiva notifica di un incidente nucleare
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1360_1360_1360"
 language: it
-version: 2020-05-26
+version: 2021-12-17
 adopted: 1986-09-26
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1360_1360_1360/20200526/it/xml/fedlex-data-admin-ch-eli-cc-1988-1360_1360_1360-20200526-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1360_1360_1360/20200526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1360_1360_1360/20211217/it/xml/fedlex-data-admin-ch-eli-cc-1988-1360_1360_1360-20211217-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1360_1360_1360/20211217/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1988** 1360; FF **1987** III 81
 
 Traduzione
 
-Conclusa a Vienna il 26 settembre 1986
+Conclusa a Vienna il 26 settembre 1986 Approvata dall’Assemblea federale il 3 marzo 1988[^t-1] Istrumenti di ratificazione depositati dalla Svizzera il 31 maggio 1988 Entrata in vigore per la Svizzera il 1° luglio 1988
 
-Approvata dall’Assemblea federale il 3 marzo 1988[^t-1]
-
-Istrumenti di ratificazione depositati dalla Svizzera il 31 maggio 1988
-
-Entrata in vigore per la Svizzera il 1° luglio 1988
-
-(Stato 26 maggio 2020)
+(Stato 17 dicembre 2021)
 
 [^t-1]: [RU 1988 1359](https://fedlex.data.admin.ch/eli/oc/1988/1359_1359_1359)
 
@@ -222,7 +216,7 @@ L’originale della presente Convenzione, le cui versioni araba, cinese, frances
 
 (Seguono le firme)
 
-Campo d’applicazione il 26 maggio 2020**[^t-2]**
+Campo d’applicazione il 17 dicembre 2021[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -247,14 +241,16 @@ Campo d’applicazione il 26 maggio 2020**[^t-2]**
 <tr><td>Burkina Faso</td><td>7 agosto</td><td>2014 A</td><td>6 settembre</td><td>2014</td></tr>
 <tr><td>Cambogia</td><td>5 aprile</td><td>2012 A</td><td>5 maggio</td><td>2012</td></tr>
 <tr><td>Camerun</td><td>17 gennaio</td><td>2006</td><td>16 febbraio</td><td>2006</td></tr>
-<tr><td>Canada<sup>\*</sup></td><td>18 gennaio</td><td>1990</td><td>18 febbraio</td><td>1990</td></tr>
+<tr><td>Canada</td><td>18 gennaio</td><td>1990</td><td>18 febbraio</td><td>1990</td></tr>
 <tr><td>Ceca, Repubblica</td><td>24 marzo</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Cile</td><td>15 novembre</td><td>2005</td><td>15 dicembre</td><td>2005</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td>10 settembre</td><td>1987</td><td>11 ottobre</td><td>1987</td></tr>
 <tr><td>Cipro</td><td>4 gennaio</td><td>1989 A</td><td>4 febbraio</td><td>1989</td></tr>
 <tr><td>Colombia</td><td>28 marzo</td><td>2003 A</td><td>28 aprile</td><td>2003</td></tr>
 <tr><td>Comunità Europea dell’Energia Atomica (CEEA/EURATOM)<sup>\*</sup></td><td>14 novembre</td><td>2006 A</td><td>14 dicembre</td><td>2006</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>3 settembre</td><td>2021 A</td><td>3 ottobre</td><td>2021</td></tr>
 <tr><td>Corea (Sud)</td><td>8 giugno</td><td>1990 A</td><td>9 luglio</td><td>1990</td></tr>
+<tr><td>Costa d’Avorio</td><td>21 settembre</td><td>2020</td><td>21 ottobre</td><td>2020</td></tr>
 <tr><td>Costa Rica</td><td>16 settembre</td><td>1991</td><td>17 ottobre</td><td>1991</td></tr>
 <tr><td>Croazia</td><td>29 settembre</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Cuba<sup>\*</sup></td><td>8 gennaio</td><td>1991</td><td>8 febbraio</td><td>1991</td></tr>
@@ -309,7 +305,9 @@ Campo d’applicazione il 26 maggio 2020**[^t-2]**
 <tr><td>Montenegro</td><td>21 marzo</td><td>2007 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Mozambico</td><td>30 ottobre</td><td>2009 A</td><td>29 novembre</td><td>2009</td></tr>
 <tr><td>Myanmar<sup>\*</sup></td><td>18 dicembre</td><td>1997 A</td><td>18 gennaio</td><td>1998</td></tr>
+<tr><td>Namibia<sup>\*</sup></td><td>27 luglio</td><td>2020 A</td><td>26 agosto</td><td>2020</td></tr>
 <tr><td>Nicaragua<sup>\*</sup></td><td>11 novembre</td><td>1993 A</td><td>12 dicembre</td><td>1993</td></tr>
+<tr><td>Niger</td><td>19 novembre</td><td>2021</td><td>19 dicembre</td><td>2021</td></tr>
 <tr><td>Nigeria</td><td>10 agosto</td><td>1990</td><td>10 settembre</td><td>1990</td></tr>
 <tr><td>Norvegia</td><td>26 settembre</td><td>1986 F</td><td>27 ottobre</td><td>1986</td></tr>
 <tr><td>Nuova Zelanda</td><td>11 marzo</td><td>1987 A</td><td>11 aprile</td><td>1987</td></tr>
@@ -331,6 +329,7 @@ Campo d’applicazione il 26 maggio 2020**[^t-2]**
 <tr><td>Qatar</td><td>4 novembre</td><td>2005 A</td><td>4 dicembre</td><td>2005</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>9 febbraio</td><td>1990</td><td>12 marzo</td><td>1990</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>12 giugno</td><td>1990 A</td><td>13 luglio</td><td>1990</td></tr>
+<tr><td>Ruanda</td><td>23 settembre</td><td>2021 A</td><td>23 ottobre</td><td>2021</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td>23 dicembre</td><td>1986</td><td>24 gennaio</td><td>1987</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>18 settembre</td><td>2001 A</td><td>19 ottobre</td><td>2001</td></tr>
 <tr><td>Senegal</td><td>24 dicembre</td><td>2008</td><td>23 gennaio</td><td>2009</td></tr>
@@ -355,9 +354,8 @@ Campo d’applicazione il 26 maggio 2020**[^t-2]**
 <tr><td>Uruguay</td><td>21 dicembre</td><td>1989 A</td><td>21 gennaio</td><td>1990</td></tr>
 <tr><td>Venezuela<sup>\*</sup></td><td>22 settembre</td><td>2014 A</td><td>22 ottobre</td><td>2014</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td>29 settembre</td><td>1987 A</td><td>30 ottobre</td><td>1987</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultati sul sito Internet dell’Agenzia internazionale per l’energia atomica (AIEA): www.iaea.org/ &gt; Français &gt; Ressources &gt; Traités &gt; Traités adoptés sous les auspices de l’AIEA, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td>Zimbabwe</td><td>20 settembre</td><td>2021</td><td>20 ottobre</td><td>2021</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito internet dell’Agenzia internazionale per l’energia atomica (AIEA): [www.iaea.org](https://www.iaea.org/)/ &gt; Resources &gt; Treaties, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-- [tab]
-
-[^t-2]: [RU 1988 1360](https://fedlex.data.admin.ch/eli/oc/1988/1360_1360_1360), [1989 398](https://fedlex.data.admin.ch/eli/oc/1989/398_398_398), [1990 1622](https://fedlex.data.admin.ch/eli/oc/1990/1622_1622_1622), [1991 2218](https://fedlex.data.admin.ch/eli/oc/1991/2218_2218_2218), [2005 1849](https://fedlex.data.admin.ch/eli/oc/2005/308), [2007 3595](https://fedlex.data.admin.ch/eli/oc/2007/442), [2010 1629](https://fedlex.data.admin.ch/eli/oc/2010/238), [2012 383](https://fedlex.data.admin.ch/eli/oc/2012/32), [2014 127](https://fedlex.data.admin.ch/eli/oc/2014/15), [2016 505](https://fedlex.data.admin.ch/eli/oc/2016/89), [2019 1599](https://fedlex.data.admin.ch/eli/oc/2019/305)e [2020 2175](https://fedlex.data.admin.ch/eli/oc/2020/430). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1988 1360](https://fedlex.data.admin.ch/eli/oc/1988/1360_1360_1360); [1989 398](https://fedlex.data.admin.ch/eli/oc/1989/398_398_398); [1990 1622](https://fedlex.data.admin.ch/eli/oc/1990/1622_1622_1622); [1991 2218](https://fedlex.data.admin.ch/eli/oc/1991/2218_2218_2218); [2005 1849](https://fedlex.data.admin.ch/eli/oc/2005/308); [2007 3595](https://fedlex.data.admin.ch/eli/oc/2007/442); [2010 1629](https://fedlex.data.admin.ch/eli/oc/2010/238); [2012 383](https://fedlex.data.admin.ch/eli/oc/2012/32); [2014 127](https://fedlex.data.admin.ch/eli/oc/2014/15); [2016 505](https://fedlex.data.admin.ch/eli/oc/2016/89); [2019 1599](https://fedlex.data.admin.ch/eli/oc/2019/305); [2020 2175](https://fedlex.data.admin.ch/eli/oc/2020/430); [2021 909](https://fedlex.data.admin.ch/eli/oc/2021/909). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente www.fedlex.admin.ch/it/treaty
