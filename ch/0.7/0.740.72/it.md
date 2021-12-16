@@ -3,11 +3,11 @@ sr: "0.740.72"
 title: Accordo del 21 giugno 1999 fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia (con allegati e atto finale)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/257"
 language: it
-version: 2021-06-30
+version: 2021-12-17
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20210630/it/xml/fedlex-data-admin-ch-eli-cc-2002-257-20210630-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20210630/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20211217/it/xml/fedlex-data-admin-ch-eli-cc-2002-257-20211217-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20211217/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2002** 1649; FF **1999** 5092[^t-1]
 
 Testo originale
 
-Concluso il 21 giugno 1999
+Concluso il 21 giugno 1999 Approvato dall’Assemblea federale l’8 ottobre 1999[^t-2] Ratificato con strumenti depositati il 16 ottobre 2000 Entrato in vigore il 1° giugno 2002
 
-Approvato dall’Assemblea federale l’8 ottobre 1999[^t-2]
-
-Ratificato con strumenti depositati il 16 ottobre 2000
-
-Entrato in vigore il 1° giugno 2002
-
-(Stato 30 giugno 2021)
+(Stato 17 dicembre 2021)
 
 [^t-1]: Attualmente: Unione europea.
 [^t-2]: Art. 1 cpv. 1 lett. f del DC dell’8 ott. 1999 ([RU 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242)).
@@ -99,7 +93,7 @@ Ai fini del presente Accordo si intende per:
 
 - – *impresa ferroviaria*: qualsiasi impresa, privata o pubblica, la cui attività principale sia la prestazione di servizi di trasporto di merci e/o passeggeri per ferrovia e che garantisca obbligatoriamente la trazione. Per la trazione si può usare materiale non di proprietà dell’impresa ferroviaria interessata, e si può far ricorso a personale ad essa non appartenente;
 - – *raggruppamento internazionale*: qualsiasi associazione comprendente almeno due imprese ferroviarie stabilite in Stati membri diversi della Comunità, o di cui una abbia sede in Svizzera, che abbia lo scopo di fornire servizi di trasporto internazionale fra la Comunità e la Svizzera;
-- – *gestore dell’infrastruttura*: qualsiasi ente pubblico o impresa incaricati in particolare della creazione e della manutenzione dell’infrastruttura ferroviaria e della gestione dei sistemi di controllo e di sicurezza;
+- – *gestore dell’in**frastruttura*: qualsiasi ente pubblico o impresa incaricati in particolare della creazione e della manutenzione dell’infrastruttura ferroviaria e della gestione dei sistemi di controllo e di sicurezza;
 - – *licenza*: un’autorizzazione rilasciata dall’autorità competente di una parte contraente ad un’impresa cui è riconosciuta la qualità di impresa ferroviaria. Tale qualità può essere limitata alla prestazione di determinati tipi di servizi di trasporto;
 - – *autorità responsabile della licenza*: gli organismi incaricati da ciascuna parte contraente di rilasciare le licenze;
 - – *tracciato*: capacità d’infrastruttura necessaria per far viaggiare un convoglio ferroviario tra due località in un determinato momento;
@@ -108,7 +102,7 @@ Ai fini del presente Accordo si intende per:
 - – *servizi urbani ed extraurbani*: i servizi di trasporto che soddisfano le esigenze di un centro urbano o di un agglomerato, nonché le esigenze in materia di trasporto fra detto centro o agglomerato e le sue zone periferiche;
 - – *servizi regionali*: i servizi di trasporto destinati a soddisfare le esigenze di trasporto di una regione;
 - – *trasporto combinato*: il trasporto di merci effettuato da veicoli stradali o da unità di carico viaggianti per ferrovia per una parte del tragitto e su strada per i percorsi iniziali e/o terminali.
-- – *prezzi ferroviari competitivi*: i prezzi ferroviari sono considerati competitivi quando i prezzi ferroviari medi in Svizzera non sono più elevati dei costi stradali, quali definiti all’allegato 9, per un analogo tragitto.
+- – *prezzi ferro**viari competitivi*: i prezzi ferroviari sono considerati competitivi quando i prezzi ferroviari medi in Svizzera non sono più elevati dei costi stradali, quali definiti all’allegato 9, per un analogo tragitto.
 
 #### Art. 4
 
@@ -825,7 +819,7 @@ Elenco dei diritti esistenti, derivanti dagli accordi bilaterali in vigore
 
 Esenzioni dal limite di peso e dal divieto di circolare la notte e la domenica
 
-*Allegato 7* articoli 17, 18 e 21:
+*Al**legato 7* articoli 17, 18 e 21:
 
 Servizi di trasporto internazionale di viaggiatori e procedure relative alle autorizzazioni
 
@@ -845,7 +839,7 @@ Allegato 1*[^t-3]*
 
 ## Disposizioni applicabili
 
-[^t-3]: Nuovo testo giusta l’art. 1 della Dec. n. 1/2021 del Comitato dei trasporti terrestri Comunità/Svizzera del 30 giu. 2021, in vigore per la Svizzera dal 30 giu. 2021 ([RU 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)).
+[^t-3]: Nuovo testo giusta l’art. 1 della Dec. n. 1/2021 del Comitato dei trasporti terrestri Comunità/Svizzera del 30 giu. 2021 ([RU 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Aggiornato dall’art. 1 della Dec. n. 2/2021 del Comitato dei trasporti terrestri Comunità/Svizzera del 17 dic. 2021, in vigore per la Svizzera dal 17 dic. 2021 ([RU 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)).
 
 Conformemente all’articolo 52 paragrafo 6 del presente Accordo la Svizzera applica disposizioni legali equivalenti alle disposizioni menzionate di seguito:
 
@@ -881,7 +875,7 @@ Regolamento (UE) 2016/403 della Commissione, del 18 marzo 2016, che integra il r
 
 Direttiva 2002/15/CE del Parlamento europeo e del Consiglio, dell’11 marzo 2002, concernente l’organizzazione dell’orario di lavoro delle persone che effettuano operazioni mobili di autotrasporto (GU L 80 del 23.3.2002, pag. 35).
 
-Direttiva 2003/59/CE del Parlamento europeo e del Consiglio, del 15 luglio 2003, sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri, che modifica il regolamento (CEE) n. 3820/85 del Consiglio e la direttiva 91/439/CEE del Consiglio e che abroga la direttiva 76/914/CEE del Consiglio (GU L 226 del 10.9.2003, pag. 4).
+Direttiva 2003/59/CE del Parlamento europeo e del Consiglio, del 15 luglio 2003, sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri, che modifica il regolamento (CEE) n. 3820/85 del Consiglio e la direttiva 91/439/CEE del Consiglio e che abroga la direttiva 76/914/CEE del Consiglio (GU L 226 del 10.9.2003, pag. 4).[^annex1-lvlu1-sec2-1]
 
 Regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio, del 15 marzo 2006, relativo all’armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada e che modifica i regolamenti del Consiglio (CEE) n. 3821/85 e (CE) n. 2135/98 e abroga il regolamento (CEE) n. 3820/85 del Consiglio (GU L 102 dell’11.4.2006, pag. 1), modificato da ultimo dal regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio del 4 febbraio 2014 (GU L 60 del 28.2.2014, pag. 1).
 
@@ -898,6 +892,8 @@ Regolamento di esecuzione (UE) 2016/799 della Commissione, del 18 marzo 2016, ch
 Regolamento di esecuzione (UE) 2017/548 della Commissione, del 23 marzo 2017, che stabilisce un modulo standard per la giustificazione scritta relativa alla rimozione o alla rottura del sigillo del tachigrafo (GU L 79 del 24.3.2017, pag. 1).
 
 Decisione di esecuzione (UE) 2017/1013 della Commissione, del 30 marzo 2017, che stabilisce il formulario tipo per le relazioni di cui all’articolo 17 del regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio (GU L 153 del 16.6.2017, pag. 28).
+
+[^annex1-lvlu1-sec2-1]: Questa direttiva è stata sostituita dal 12 gennaio 2023 da: Direttiva (UE) 2022/2561 del Parlamento europeo e del Consiglio del 14 dicembre 2022 sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri, GU L 330 del 23.12.2022, pag. 46.
 
 ### Sezione 3: Norme tecniche
 
@@ -1150,7 +1146,7 @@ In Svizzera si applicano i seguenti casi specifici di cui all’articolo 6 della
     - – distanza dalla barra di distribuzione a tensione controllata (stazione di conversione di frequenza),
     - – impedenza del sistema della catenaria;
 
-  - – una stima approssimativa di U<sub>utile media</sub> per i casi semplici, che generi un aumento della capacità aggiuntiva per la futura crescita del traffico.
+  - – una stima approssimativa di U<sub>utile me</sub><sub>dia</sub> per i casi semplici, che generi un aumento della capacità aggiuntiva per la futura crescita del traffico.
 
 Regolamento (UE) n. 1302/2014 della Commissione, del 18 novembre 2014, relativo a una specifica tecnica di interoperabilità per il sottosistema «materiale rotabile – Locomotive e materiale rotabile per il trasporto di passeggeri» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 228), modificato da ultimo dal regolamento di esecuzione (UE) 2019/776 della Commissione del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 108).
 
@@ -1194,23 +1190,23 @@ In Svizzera si applicano le seguenti disposizioni nazionali di cui all’articol
 - – CH-TSI LOC&PAS-003 (versione 2.0, giugno 2021): Raggi di curvatura stretti r &lt; 250 m;
 - – CH-TSI LOC&PAS-006 (versione 2.0, giugno 2021): Approvazione di veicoli con tecnica d’inclinazione secondo la categoria N;
 - – CH-TSI LOC&PAS-007 (versione 2.0, giugno 2021): Ungibordini;
-- – CH-TSI LOC&PAS-009 (versione 1.0, giugno 2015): Emissioni dei gas di scarico dei veicoli termici (norma potenzialmente incompatibile con il regolamento (UE) 2016/1628, da verificare entro il 31 dicembre 2021);
+- – CH-TSI LOC&PAS-009 (versione 1.0, giugno 2015): Emissioni dei gas di scarico dei veicoli termici (norma potenzialmente incompatibile con il regolamento (UE) 2016/1628, da verificare entro il 31 dicembre 2022);
 - – CH-TSI LOC&PAS-011 (versione 2.0, giugno 2021): Limitazione della potenza di trazione;
 - – CH-TSI LOC&PAS-012 (versione 1.0, luglio 2016): Ammettenza;
 - – CH-TSI LOC&PAS 013 (versione 1.0, luglio 2016): Interazione pantografo/linea di contatto;
 - – CH-TSI LOC&PAS-014*a* (versione 2.0, giugno 2021): Caratteristiche del materiale rotabile per la compatibilità con il sistema di rilevamento del treno basato su circuiti;
 - – CH-TSI LOC&PAS-014*b* (versione 2.0, giugno 2021): Caratteristiche del materiale rotabile per la compatibilità con il sistema di rilevamento del treno basato su conta-assi;
-- – CH-TSI LOC&PAS-019 (versione 2.0, giugno 2019): Il «non leading input signal» (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2021);
-- – CH-TSI LOC&PAS-020 (versione 2.0, giugno 2019): Segnale «sleeping» in comando multiplo (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2021);
+- – CH-TSI LOC&PAS-019 (versione 2.0, giugno 2019): Il «non leading input signal» (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2022);
+- – CH-TSI LOC&PAS-020 (versione 2.0, giugno 2019): Segnale «sleeping» in comando multiplo (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2022);
 - – CH-TSI LOC&PAS-022 (versione 2.1, giugno 2021): Richiamo della frenatura imposta;
-- – CH-TSI LOC&PAS-025 (versione 2.0, giugno 2019): Azionamento impedito per la separazione dell’equipaggiamento ETCS di bordo (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2021);
+- – CH-TSI LOC&PAS-025 (versione 2.0, giugno 2019): Azionamento impedito per la separazione dell’equipaggiamento ETCS di bordo (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2022);
 - – CH-TSI LOC&PAS-026 (versione 2.0, giugno 2019): Divieto di SIGNUM/ZUB su veicoli con ERTMS/ETCS Baseline 3;
-- – CH-TSI LOC&PAS-027 (versione 2.0, giugno 2019): Radiotelecomando manuale nel servizio di manovra (regime d’esercizio «Shunting») (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2021);
+- – CH-TSI LOC&PAS-027 (versione 2.0, giugno 2019): Radiotelecomando manuale nel servizio di manovra (regime d’esercizio «Shunting») (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2022);
 - – CH-TSI LOC&PAS-030 (versione 2.0, giugno 2021): Impiego di sistemi di frenatura che non generano forze di aderenza;
-- – CH-TSI LOC&PAS-031 (versione 2.1, novembre 2020): Disinserimento sicuro della trazione (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2021);
-- – CH-TSI LOC&PAS-035 (versione 2.1, novembre 2020): Sufficienti prestazioni di frenatura in caso di frenatura imposta (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2021);
-- – CH-TSI LOC&PAS-036 (versione 2.0, giugno 2019): Veicoli con banco di guida per entrambe le direzioni di marcia (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2021);
-- – CH-TSI LOC&PAS-037 (versione 1.0, giugno 2019): ETCS Service Brake (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2021).
+- – CH-TSI LOC&PAS-031 (versione 2.1, novembre 2020): Disinserimento sicuro della trazione (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2022);
+- – CH-TSI LOC&PAS-035 (versione 2.1, novembre 2020): Sufficienti prestazioni di frenatura in caso di frenatura imposta (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2022);
+- – CH-TSI LOC&PAS-036 (versione 2.0, giugno 2019): Veicoli con banco di guida per entrambe le direzioni di marcia (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2022);
+- – CH-TSI LOC&PAS-037 (versione 1.0, giugno 2019): ETCS Service Brake (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2022).
 
 Regolamento (UE) n. 1303/2014 della Commissione, del 18 novembre 2014, relativo alla specifica tecnica di interoperabilità concernente la «sicurezza nelle gallerie ferroviarie» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 394), modificato da ultimo dal regolamento di esecuzione (UE) 2019/776 della Commissione del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 108).
 
@@ -1231,25 +1227,25 @@ Regolamento (UE) 2016/919 della Commissione, del 27 maggio 2016, relativo alla s
 In Svizzera si applicano le seguenti norme nazionali di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
 
 - – CH-TSI CCS-003 (versione 2.0, giugno 2019): Attivazione / disattivazione della trasmissione del pacchetto 44 al sistema SIGNUM/ZUB;
-- – CH-TSI CCS-006 (versione 2.1, novembre 2020): Perdita «non leading permitted» nel regime d’esercizio «Non Leading» (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2021);
+- – CH-TSI CCS-006 (versione 2.1, novembre 2020): Perdita «non leading permitted» nel regime d’esercizio «Non Leading» (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2022);
 - – CH-TSI CCS-007 (versione 3.0, novembre 2020): Norme concernenti le curve di frenatura per ERTMS/ETCS Baseline 2;
 - – CH-TSI CCS-008 (versione 3.0, giugno 2021): Implementazione minima di «Change Request»;
 - – CH-TSI CCS-011 (versione 2.0, giugno 2019): Funzionalità degli Euroloop;
 - – CH-TSI CCS-015 (versione 2.0, giugno 2019): Controllo contemporaneo di due canali dati GSM-R;
 - – CH-TSI CCS-016 (versione 3.0, giugno 2021): Impiego di una progettazione specifica del paese;
 - – CH-TSI CCS-018 (versione 2.0, giugno 2019): Divieto del Level STM/NTC per SIGNUM/ZUB;
-- – CH-TSI CCS-019 (versione 3.0, novembre 2020): Ripresa e visualizzazione automatica di dati treno (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2021);
+- – CH-TSI CCS-019 (versione 3.0, novembre 2020): Ripresa e visualizzazione automatica di dati treno (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2022);
 - – CH-TSI CCS-022 (versione 2.0, giugno 2019): Circolazione a ritroso nel regime d’esercizio «Unfitted»;
 - – CH-TSI CCS-023 (versione 2.0, giugno 2019): Visualizzazione di messaggi di testo;
 - – CH-TSI CCS-024 (versione 3.0, giugno 2021): Immissione flessibile dei dati;
-- – CH-TSI CCS-026 (versione 2.1, novembre 2020): Online Monitoring dell’equipaggiamento della tratta sul veicolo (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2021);
-- – CH-TSI CCS-032 (versione 2.1, novembre 2020): Immissione unica del numero di treno per l’equipaggiamento ETCS di bordo e la GSM-RCabRadio (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2021);
-- – CH-TSI CCS-033 (versione 1.1, novembre 2020): Funzionalità GSM-R Voice (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2021);
+- – CH-TSI CCS-026 (versione 2.1, novembre 2020): Online Monitoring dell’equipaggiamento della tratta sul veicolo (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2022);
+- – CH-TSI CCS-032 (versione 2.1, novembre 2020): Immissione unica del numero di treno per l’equipaggiamento ETCS di bordo e la GSM-RCabRadio (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2022);
+- – CH-TSI CCS-033 (versione 1.1, novembre 2020): Funzionalità GSM-R Voice (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2022);
 - – CH-TSI CCS-034 (versione 1.0, giugno 2019): Regime d’esercizio «Non Leading»;
-- – CH-TSI CCS-035 (versione 1.0, giugno 2019): Testi da visualizzare sulla DMI (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2021);
-- – CH-TSI CCS-038 (versione 1.1, novembre 2020): Rivelazione in caso di notevole ampliamento dell’intervallo di confidenza dell’odometria (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2021);
-- – CH-CSM-RA-001 (versione 1.0, giugno 2019): Programma di attestazione della sicurezza per l’ottenimento di un’omologazione ETCS in Svizzera (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2021);
-- – CH-CSM-RA-002 (versione 1.0, giugno 2019): Requisiti in caso di velocità superiori a 200 km/h (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2021).
+- – CH-TSI CCS-035 (versione 1.0, giugno 2019): Testi da visualizzare sulla DMI (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2022);
+- – CH-TSI CCS-038 (versione 1.1, novembre 2020): Rivelazione in caso di notevole ampliamento dell’intervallo di confidenza dell’odometria (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2022);
+- – CH-CSM-RA-001 (versione 1.0, giugno 2019): Programma di attestazione della sicurezza per l’ottenimento di un’omologazione ETCS in Svizzera (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2022);
+- – CH-CSM-RA-002 (versione 1.0, giugno 2019): Requisiti in caso di velocità superiori a 200 km/h (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2022).
 
 Regolamento di esecuzione (UE) 2018/545 della Commissione, del 4 aprile 2018, che stabilisce modalità pratiche per la procedura di autorizzazione dei veicoli ferroviari e la procedura di autorizzazione dei tipi di veicoli ferroviari a norma della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio (GU L 90 del 6.4.2018, pag. 66).
 
@@ -1745,7 +1741,7 @@ Allegato 8
 [^annex8-lvlu1-8]: [RS 0.741.619.372](https://fedlex.data.admin.ch/eli/cc/1971/1628_1628_1628)
 [^annex8-lvlu1-9]: [RS 0.741.619.518](https://fedlex.data.admin.ch/eli/cc/1972/2369_2424_2199)
 [^annex8-lvlu1-10]: [RS 0.741.619.636](https://fedlex.data.admin.ch/eli/cc/1952/583_603_607)
-[^annex8-lvlu1-11]: [RS 0.741.619.654](https://fedlex.data.admin.ch/eli/cc/1974/238_237_237)
+[^annex8-lvlu1-11]: RS **0.741****.****619.654**
 [^annex8-lvlu1-12]: [RS 0.741.619.367](https://fedlex.data.admin.ch/eli/cc/2020/1064)
 [^annex8-lvlu1-13]: [RS 0.741.619.714](https://fedlex.data.admin.ch/eli/cc/1974/1014_1014_1014)
 
