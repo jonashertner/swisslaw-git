@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: "Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l'epidemia di COVID-19 nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 traffico internazionale viaggiatori)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: it
-version: 2021-12-04
+version: 2021-12-18
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211204/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211204-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211204/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211218-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211204/it"
 
 (Ordinanza COVID-19 traffico internazionale viaggiatori)**[^t-1]**
 
-del 23 giugno 2021 (Stato 4 dicembre 2021)
+del 23 giugno 2021 (Stato 18 dicembre 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -190,25 +190,29 @@ Possono trasportare i seguenti passeggeri in assenza di un risultato negativo de
 
 <sup>2</sup>
 
-Le persone che all’entrata in Svizzera non possono presentare un test con risultato negativo devono, immediatamente dopo l’entrata in Svizzera, sottoporsi:
+Le persone che all’entrata in Svizzera non possono presentare un test con risultato negativo secondo il capoverso 1 devono, immediatamente dopo l’entrata in Svizzera, sottoporsi:[^8-3]
 
-- a. a un’analisi di biologia molecolare per il SARS-CoV-2; oppure
-- b.[^8-3] a un test rapido per il SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^8-4], sempreché il test non sia basato solo sul prelievo di un campione dalla cavità nasale o su un campione salivare.
+- a. a un’analisi di biologia molecolare per il SARS-CoV-2;
+- b.[^8-4] a un test rapido per il SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^8-5], sempreché il test non sia basato solo sul prelievo di un campione dalla cavità nasale o su un campione salivare; oppure
+- c.[^8-6] a un’analisi immunologica di laboratorio degli antigeni SARS-CoV-2 secondo l’articolo 19 capoverso 1 lettera c dell’ordinanza del 4 giugno 2021[^8-7] sui certificati COVID-19.
 
-<sup>2bis</sup> Le persone di cui ai capoversi 1 e 2 devono inoltre sottoporsi a un test tra il quarto e il settimo giorno dopo l’entrata in Svizzera. I requisiti relativi ai test e gli attestati dei test sono disciplinati nell’allegato 2*a*.[^8-5]
+<sup>2bis</sup> Le persone di cui ai capoversi 1 e 2 devono inoltre sottoporsi a un test tra il quarto e il settimo giorno dopo l’entrata in Svizzera. I requisiti relativi ai test e gli attestati dei test sono disciplinati nell’allegato 2*a*.[^8-8]
 
-<sup>3</sup> Chi risulta negativo al test tra il quarto e il settimo giorno dopo l’entrata in Svizzera deve presentare al Cantone un certificato di test COVID-19 secondo l’ordinanza sui certificati COVID-19 del 4 giugno 2021[^8-6]. Chi risulta positivo al test deve dichiarare al Cantone il risultato del test.[^8-7]
+<sup>3</sup> Chi risulta negativo al test tra il quarto e il settimo giorno dopo l’entrata in Svizzera deve presentare al Cantone un certificato di test COVID-19 secondo l’ordinanza sui certificati COVID-19 del 4 giugno 2021[^8-9]. Chi risulta positivo al test deve dichiarare al Cantone il risultato del test.[^8-10]
 
-<sup>4</sup> In caso di entrata in Svizzera da uno Stato o una regione di cui all’allegato 1 numero 1, il capoverso 1 vige anche per le persone a partire dai 6 anni.[^8-8]
+<sup>4</sup> In caso di entrata in Svizzera da uno Stato o una regione di cui all’allegato 1 numero 1, il capoverso 1 vige anche per le persone a partire dai 6 anni.[^8-11]
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^8-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^8-3]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^8-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^8-5]: Introdotto dal n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^8-6]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^8-7]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-3]: Nuovo testo giusta l’all. n. 2 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^8-4]: Nuovo testo giusta l’all. n. 2 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^8-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^8-6]: Introdotta dall’all. n. 2 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^8-7]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^8-8]: Introdotto dal n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-9]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^8-10]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-11]: Introdotto dal n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 9
 
@@ -218,17 +222,18 @@ Le persone che all’entrata in Svizzera non possono presentare un test con risu
 
 <sup>2</sup> Se la persona è entrata in Svizzera passando da uno Stato o una regione senza varianti preoccupanti del virus, l’autorità cantonale competente può considerare la durata del soggiorno in questo Stato o in questa regione nel calcolo della durata della quarantena per le persone in entrata.
 
-<sup>3</sup> Le persone sottoposte alla quarantena per le persone in entrata che sono entrate in Svizzera da uno Stato o una regione che non figurano nell’allegato 1 numero 1 possono concluderla anticipatamente se si sottopongono a un’analisi di biologia molecolare o a un test rapido per il SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^9-3] e se il risultato del test è negativo. Il test può essere effettuato non prima del settimo giorno di quarantena. In casi motivati l’autorità cantonale competente può escludere la conclusione anticipata della quarantena per le persone in entrata.[^9-4]
+<sup>3</sup> Le persone sottoposte alla quarantena per le persone in entrata che sono entrate in Svizzera da uno Stato o una regione che non figurano nell’allegato 1 numero 1 possono concluderla anticipatamente se si sottopongono a un’analisi di biologia molecolare, a un test rapido per il SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^9-3] o a un’analisi immunologica di laboratorio degli antigeni SARS-CoV-2 secondo l’articolo 19 capoverso 1 lettera c dell’ordinanza del 4 giugno 2021[^9-4] sui certificati COVID-19 e se il risultato del test è negativo. Il test può essere effettuato non prima del settimo giorno di quarantena. In casi motivati l’autorità cantonale competente può escludere la conclusione anticipata della quarantena per le persone in entrata.[^9-5]
 
-<sup>3bis</sup> Le persone di cui al capoverso 3 possono lasciare la quarantena per sottoporsi al test. Nel fare ciò, devono portare una mascherina facciale e tenersi a una distanza di almeno 1,5 metri da altre persone.[^9-5]
+<sup>3bis</sup> Le persone di cui al capoverso 3 possono lasciare la quarantena per sottoporsi al test. Nel fare ciò, devono portare una mascherina facciale e tenersi a una distanza di almeno 1,5 metri da altre persone.[^9-6]
 
 <sup>4</sup> Le persone che concludono anticipatamente la quarantena per le persone in entrata devono portare una mascherina facciale fino alla scadenza della quarantena prevista e tenersi a una distanza di almeno 1,5 metri da altre persone al di fuori del proprio domicilio o del proprio alloggio sino al giorno in cui sarebbe dovuta durare la quarantena.
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^9-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^9-3]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^9-4]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^9-5]: Introdotto dal n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9-4]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^9-5]: Nuovo testo giusta l’all. n. 2 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^9-6]: Introdotto dal n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 9a
 
@@ -490,14 +495,14 @@ Allegato 2a*[^t-5]*
 
 ## Requisiti relativi ai test e attestati dei test
 
-[^t-5]: Introdotto dal n. II cpv. 2 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Aggiornato dal n. II dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^t-5]: Introdotto dal n. II cpv. 2 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Aggiornato dal n. II dell’O del 3 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)) e dall’all. n. 2 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 - 1\.
 
   Il risultato del test deve basarsi su una procedura che corrisponde allo stato della scienza e della tecnica. Vige il principio che il prelievo dei campioni per:
 
   - a. un’analisi di biologia molecolare per il SARS-CoV-2 possa essere effettuato non più di 72 ore prima;
-  - b. un test rapido per il SARS-CoV-2 per uso professionale deve essere stato effettuato non più di 24 ore prima.
+  - b. un test rapido per il SARS-CoV-2 per uso professionale o un’analisi immunologica di laboratorio degli antigeni SARS-CoV-2 deve essere stato effettuato non più di 24 ore prima.
 
 - 2\.
 

@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre la pandémie de COVID-19 dans le domaine du transport international de voyageurs (Ordonnance COVID-19 transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: fr
-version: 2021-12-04
+version: 2021-12-18
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211204/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211204-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211204/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211218-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211204/fr"
 
 (Ordonnance COVID-19 transport international de voyageurs)**[^t-1]**
 
-du 23 juin 2021 (Etat le 4 décembre 2021)
+du 23 juin 2021 (Etat le 18 décembre 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -193,23 +193,26 @@ Elles peuvent transporter les passagers suivants en l’absence d’un résultat
 Les personnes qui ne peuvent pas présenter de résultat de test négatif au sens de l’al. 1 lorsqu’elles entrent en Suisse doivent se faire tester immédiatement après leur arrivée:[^8-3]
 
 - a. par une analyse de biologie moléculaire pour le SARS-CoV-2, ou
-- b.[^8-4] par un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^8-5], à moins qu’il se base sur un prélèvement d’échantillon provenant uniquement de la cavité nasale ou d’un test salivaire.
+- b.[^8-4] par un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^8-5], à moins qu’il se base sur un prélèvement d’échantillon provenant uniquement de la cavité nasale ou d’un test salivaire, ou
+- c.[^8-6] par une analyse immunologique en laboratoire des antigènes du SARS-CoV-2 visée à l’art. 19, al. 1, let. c, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^8-7].
 
-<sup>2bis</sup> Les personnes visées aux al. 1 et 2 doivent également se soumettre à un test entre le 4<sup>e</sup> et le 7<sup>e</sup> jour qui suit leur arrivée. L’annexe 2*a* détermine les exigences applicables aux tests et aux résultats de test.[^8-6]
+<sup>2bis</sup> Les personnes visées aux al. 1 et 2 doivent également se soumettre à un test entre le 4<sup>e</sup> et le 7<sup>e</sup> jour qui suit leur arrivée. L’annexe 2*a* détermine les exigences applicables aux tests et aux résultats de test.[^8-8]
 
-<sup>3</sup> Les personnes testées négatives lors du dépistage effectué entre le 4<sup>e</sup> et le 7<sup>e</sup> jour qui suit leur arrivée doivent présenter au canton le certificat de test COVID-19 prévu par l’ordonnance COVID-19 du 4 juin 2021 certificats[^8-7]. Les personnes testées positives doivent déclarer le résultat du test au canton.[^8-8]
+<sup>3</sup> Les personnes testées négatives lors du dépistage effectué entre le 4<sup>e</sup> et le 7<sup>e</sup> jour qui suit leur arrivée doivent présenter au canton le certificat de test COVID-19 prévu par l’ordonnance COVID-19 du 4 juin 2021 certificats[^8-9]. Les personnes testées positives doivent déclarer le résultat du test au canton.[^8-10]
 
-<sup>4</sup> Lors de l’entrée depuis un État ou une zone au sens de l’annexe 1, ch. 1, l’al. 1 s’applique également aux personnes dès 6 ans.[^8-9]
+<sup>4</sup> Lors de l’entrée depuis un État ou une zone au sens de l’annexe 1, ch. 1, l’al. 1 s’applique également aux personnes dès 6 ans.[^8-11]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^8-3]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^8-4]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 [^8-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^8-6]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-6]: Introduite par l’annexe ch. 2 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 [^8-7]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^8-8]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^8-9]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-8]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-9]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^8-10]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-11]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 9
 
@@ -219,17 +222,18 @@ Les personnes qui ne peuvent pas présenter de résultat de test négatif au sen
 
 <sup>2</sup> Si la personne est entrée en Suisse en passant par un État ou une zone sans variant préoccupant du virus, l’autorité cantonale compétente peut réduire la durée de la quarantaine-voyage de la durée du séjour dans cet État ou cette zone.
 
-<sup>3</sup> Les personnes en quarantaine-voyage qui arrivent d’un État ou d’une zone qui ne figure pas dans l’annexe 1, ch. 1, peuvent y mettre fin de manière anticipée si elles font faire une analyse de biologie moléculaire pour le SARS-CoV-2 ou un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^9-3] et que le résultat de test est négatif. Le test peut être effectué au plus tôt le 7<sup>e</sup> jour de la quarantaine. L’autorité cantonale compétente peut, dans des cas justifiés, suspendre la levée anticipée de la quarantaine-voyage.[^9-4]
+<sup>3</sup> Les personnes en quarantaine-voyage qui arrivent d’un État ou d’une zone qui ne figure pas dans l’annexe 1, ch. 1, peuvent y mettre fin de manière anticipée si elles font faire une analyse de biologie moléculaire pour le SARS-CoV-2, un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^9-3] ou par une analyse immunologique en laboratoire des antigènes du SARS-CoV-2 visée à l’art. 19, al. 1, let. c, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^9-4] et que le résultat de test est négatif. Le test peut être effectué au plus tôt le 7<sup>e</sup> jour de la quarantaine. L’autorité cantonale compétente peut, dans des cas justifiés, suspendre la levée anticipée de la quarantaine-voyage.[^9-5]
 
-<sup>3bis</sup> Les personnes visées à l’al. 3 peuvent interrompre la quarantaine pour se soumettre à un test. Elles doivent alors porter un masque facial et garder une distance d’au moins 1,5 mètre par rapport aux autres personnes.[^9-5]
+<sup>3bis</sup> Les personnes visées à l’al. 3 peuvent interrompre la quarantaine pour se soumettre à un test. Elles doivent alors porter un masque facial et garder une distance d’au moins 1,5 mètre par rapport aux autres personnes.[^9-6]
 
 <sup>4</sup> Les personnes qui mettent fin à la quarantaine-voyage de manière anticipée doivent, jusqu’au moment où celle-ci aurait dû normalement se terminer, porter un masque facial à l’extérieur de leur logement ou de leur lieu d’hébergement et garder une distance d’au moins 1,5 mètre par rapport aux autres personnes.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^9-3]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^9-4]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^9-5]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9-4]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^9-5]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^9-6]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 9a
 
@@ -491,14 +495,14 @@ Annexe 2a*[^t-5]*
 
 ## Exigences applicables aux tests et aux résultats de test
 
-[^t-5]: Introduite par le ch. II al. 2 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Mise à jour par le ch. II de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^t-5]: Introduite par le ch. II al. 2 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Mise à jour par le ch. II de l’O du 3 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)) et l’annexe ch. 2 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 - 1\.
 
   Le résultat de test doit être basé sur une analyse répondant à l’état de la science et de la technique. Le prélèvement ne doit pas avoir été réalisé depuis:
 
   - a. plus de 72 heures dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2;
-  - b. plus de 24 heures dans le cas d’un test rapide SARS-CoV-2 avec application par un professionnel.
+  - b. plus de 24 heures dans le cas d’un test rapide SARS-CoV-2 avec application par un professionnel ou d’une analyse immunologique en laboratoire des antigènes du SARS-CoV-2.
 
 - 2\.
 

@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 23. Juni 2021 über Massnahmen zur Bekämpfung der Covid-19-Epidemie im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung internationaler Personenverkehr)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: de
-version: 2021-12-04
+version: 2021-12-18
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211204/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211204-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211204/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211218-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211204/de"
 
 (Covid-19-Verordnung internationaler Personenverkehr)**[^t-1]**
 
-vom 23. Juni 2021 (Stand am 4. Dezember 2021)
+vom 23. Juni 2021 (Stand am 18. Dezember 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -193,23 +193,26 @@ Sie dürfen folgende Passagiere ohne das Vorhandensein eines negativen Testergeb
 Wer bei der Einreise in die Schweiz kein negatives Testergebnis nach Absatz 1 vorweisen kann, muss sich unverzüglich nach der Einreise testen lassen:[^8-3]
 
 - a. mit einer molekularbiologischen Analyse auf Sars-CoV-2; oder
-- b.[^8-4] mit einem Sars-CoV-2-Schnelltest zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^8-5], ausser er basiert auf einer Probeentnahme nur aus dem Nasenraum oder auf einer Speichelprobe.
+- b.[^8-4] mit einem Sars-CoV-2-Schnelltest zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^8-5], ausser er basiert auf einer Probeentnahme nur aus dem Nasenraum oder auf einer Speichelprobe; oder
+- c.[^8-6] mit einer laborbasierten immunologischen Analyse auf Sars-CoV-2-Antigene nach Artikel 19 Absatz 1 Buchstabe c Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^8-7].
 
-<sup>2bis</sup> Die Personen nach den Absätzen 1 und 2 müssen sich zudem zwischen dem vierten und siebten Tag nach der Einreise testen lassen. Die Anforderungen an die Tests sowie die Testnachweise werden in Anhang 2*a* geregelt.[^8-6]
+<sup>2bis</sup> Die Personen nach den Absätzen 1 und 2 müssen sich zudem zwischen dem vierten und siebten Tag nach der Einreise testen lassen. Die Anforderungen an die Tests sowie die Testnachweise werden in Anhang 2*a* geregelt.[^8-8]
 
-<sup>3</sup> Wer beim Test zwischen dem vierten und siebten Tag nach der Einreise negativ getestet wird, muss dem Kanton das Covid-19-Testzertifikat nach der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^8-7] vorlegen. Wer positiv getestet wird, muss dem Kanton das Testergebnis melden.[^8-8]
+<sup>3</sup> Wer beim Test zwischen dem vierten und siebten Tag nach der Einreise negativ getestet wird, muss dem Kanton das Covid-19-Testzertifikat nach der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^8-9] vorlegen. Wer positiv getestet wird, muss dem Kanton das Testergebnis melden.[^8-10]
 
-<sup>4</sup> Bei der Einreise aus einem Staat oder Gebiet nach Anhang 1 Ziffer 1 gilt Absatz 1 bereits für Personen ab sechs Jahren.[^8-9]
+<sup>4</sup> Bei der Einreise aus einem Staat oder Gebiet nach Anhang 1 Ziffer 1 gilt Absatz 1 bereits für Personen ab sechs Jahren.[^8-11]
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^8-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^8-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^8-4]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-4]: Fassung gemäss Anhang Ziff. 2 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 [^8-5]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^8-6]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-6]: Eingefügt durch Anhang Ziff. 2 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 [^8-7]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^8-8]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^8-9]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-8]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-9]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^8-10]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-11]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 9
 
@@ -219,17 +222,18 @@ Wer bei der Einreise in die Schweiz kein negatives Testergebnis nach Absatz 1 vo
 
 <sup>2</sup> Ist die Person über einen Staat oder ein Gebiet ohne besorgniserregende Virusvariante eingereist, so kann die zuständige kantonale Behörde die Dauer des Aufenthalts in diesem Staat oder Gebiet an die Dauer der Einreisequarantäne anrechnen.
 
-<sup>3</sup> Personen in Einreisequarantäne, die aus einem Staat oder Gebiet eingereist sind, der oder das nicht in Anhang 1 Ziffer 1 aufgeführt ist, können die Einreisequarantäne vorzeitig beenden, wenn sie sich mit einer molekularbiologischen Analyse auf Sars-CoV-2 oder mit einem Sars-CoV-2-Schnelltest zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^9-3] testen lassen und das Testergebnis negativ ausfällt. Der Test darf frühestens am siebten Tag der Quarantäne erfolgen. Die zuständige kantonale Behörde kann in begründeten Fällen die vorzeitige Beendigung der Einreisequarantäne aussetzen.[^9-4]
+<sup>3</sup> Personen in Einreisequarantäne, die aus einem Staat oder Gebiet eingereist sind, der oder das nicht in Anhang 1 Ziffer 1 aufgeführt ist, können die Einreisequarantäne vorzeitig beenden, wenn sie sich mit einer molekularbiologischen Analyse auf Sars-CoV-2, mit einem Sars-CoV-2-Schnelltest zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^9-3] oder mit einer laborbasierten immunologischen Analyse auf Sars-CoV-2-Antigene nach Artikel 19 Absatz 1 Buchstabe c Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^9-4] testen lassen und das Testergebnis negativ ausfällt. Der Test darf frühestens am siebten Tag der Quarantäne erfolgen. Die zuständige kantonale Behörde kann in begründeten Fällen die vorzeitige Beendigung der Einreisequarantäne aussetzen.[^9-5]
 
-<sup>3bis</sup> Personen nach Absatz 3 dürfen die Quarantäne verlassen, um sich testen zu lassen. Sie müssen dabei eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.[^9-5]
+<sup>3bis</sup> Personen nach Absatz 3 dürfen die Quarantäne verlassen, um sich testen zu lassen. Sie müssen dabei eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.[^9-6]
 
 <sup>4</sup> Personen, die die Einreisequarantäne vorzeitig beenden, müssen bis zum Zeitpunkt, in dem diese geendet hätte, ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^9-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^9-4]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^9-5]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9-4]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^9-5]: Fassung gemäss Anhang Ziff. 2 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^9-6]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 9a
 
@@ -491,14 +495,14 @@ Anhang 2a*[^t-5]*
 
 ## Anforderungen an Tests und Testnachweise
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Bereinigt gemäss Ziff. II der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Bereinigt gemäss Ziff. II der V vom 3. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)) und Anhang Ziff. 2 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 - 1\.
 
   Das Testergebnis muss auf einem Verfahren beruhen, das dem Stand von Wissenschaft und Technik entspricht. Dabei gilt, dass die Probenentnahme für:
 
   - a. eine molekularbiologische Analyse auf Sars-CoV-2 nicht vor mehr als 72 Stunden durchgeführt worden sein darf;
-  - b. einen Sars-CoV-2-Schnelltest zur Fachanwendung nicht vor mehr als 24 Stunden durchgeführt worden sein darf.
+  - b. einen Sars-CoV-2-Schnelltest zur Fachanwendung oder eine laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene nicht vor mehr als 24 Stunden durchgeführt worden sein darf.
 
 - 2\.
 

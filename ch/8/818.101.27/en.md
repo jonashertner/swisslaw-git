@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 23 June 2021 on Measures to Combat the COVID-19 epidemic in International Travel (COVID-19 Ordinance on International Travel)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: en
-version: 2021-12-04
+version: 2021-12-18
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211204/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211204-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211204/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211218/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211218-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211218/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Travel)**[^t-1]**
 
-of 23 June 2021 (Status as of 4 December 2021)
+of 23 June 2021 (Status as of 18 December 2021)
 
 [^t-1]: RU **2021** 380 Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 (AS **2021** 563).
 
@@ -195,23 +195,26 @@ They may carry the following passengers without these passengers being required 
 Persons who are unable to provide proof of a negative test under paragraph 1 on entering Switzerland must immediately undergo one of the following tests on entry:[^8-3]
 
 - a. a molecular-biological analysis for Sars-CoV-2; or
-- b.[^8-4] a Sars-CoV-2 rapid test for specialist use in accordance with Article 24*a* paragraph 1 of COVID-19 Ordinance 3 of 19 June 2020[^8-5] unless it is based on a sample taken solely from the nasal cavity or on a saliva sample.
+- b.[^8-4] a Sars-CoV-2 rapid test for specialist use in accordance with Article 24*a* paragraph 1 of COVID-19 Ordinance 3 of 19 June 2020[^8-5] unless it is based on a sample taken solely from the nasal cavity or on a saliva sample;
+- c.[^8-6] a laboratory immunological analysis for Sars-CoV-2 antigens in accordance with Article 19 paragraph 1 letter c of the COVID-19 Certificates Ordinance of 4 June 2021[^8-7].
 
-<sup>2bis</sup> The persons specified in paragraphs 1 and 2 must also take a test between the fourth and seventh day after entering Switzerland. The test and the proof of testing requirements are regulated in Annex 2*a*.[^8-6]
+<sup>2bis</sup> The persons specified in paragraphs 1 and 2 must also take a test between the fourth and seventh day after entering Switzerland. The test and the proof of testing requirements are regulated in Annex 2*a*.[^8-8]
 
-<sup>3</sup> Persons who test negative between the fourth and seventh day after entering Switzerland must provide the canton with a COVID-19 test certificate in accordance with the COVID-19 Certificates Ordinance of 4 June 2021[^8-7]. Persons who test positive must notify the canton of the test result.[^8-8]
+<sup>3</sup> Persons who test negative between the fourth and seventh day after entering Switzerland must provide the canton with a COVID-19 test certificate in accordance with the COVID-19 Certificates Ordinance of 4 June 2021[^8-9]. Persons who test positive must notify the canton of the test result.[^8-10]
 
-<sup>4</sup> On entry into Switzerland from a country or region specified in Annex 1 number 1, paragraph 1 applies to all persons aged six or over.[^8-9]
+<sup>4</sup> On entry into Switzerland from a country or region specified in Annex 1 number 1, paragraph 1 applies to all persons aged six or over.[^8-11]
 
 [^8-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^8-2]: Amended by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^8-3]: Amended by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^8-4]: Amended by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-4]: Amended by Annex No 2 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 [^8-5]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^8-6]: Inserted by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-6]: Inserted by Annex No 2 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 [^8-7]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^8-8]: Amended by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^8-9]: Inserted by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-8]: Inserted by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-9]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^8-10]: Amended by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-11]: Inserted by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 9
 
@@ -221,17 +224,18 @@ Persons who are unable to provide proof of a negative test under paragraph 1 on 
 
 <sup>2</sup> Where a person has entered Switzerland from a country or region that does not have a variant of the virus of concern, the competent cantonal authority may take account of the duration of the person’s stay in that country or region when calculating the time to be spent in quarantine.
 
-<sup>3</sup> Persons required to quarantine on entry who have entered Switzerland from a country that is not specified in Annex 1 number 1 may leave quarantine within 10 days provided they undergo either a molecular-biological analysis for Sars-CoV-2 or a Sars-CoV-2-rapid test for specialist use in accordance with Article 24*a* paragraph 1 of COVID-19 Ordinance 3 of 19 June 2020[^9-3] and the result is negative. The test may be carried out at the earliest on the seventh day of quarantine. The competent cantonal authority may, in justified cases, suspend the early termination of quarantine.[^9-4]
+<sup>3</sup> Persons required to quarantine on entry who have entered Switzerland from a country that is not specified in Annex 1 number 1 may leave quarantine within 10 days provided they undergo either a molecular-biological analysis for Sars-CoV-2, a Sars-CoV-2-rapid test for specialist use in accordance with Article 24*a* paragraph 1 of COVID-19 Ordinance 3 of 19 June 2020[^9-3] or a laboratory immunological analysis for Sars-CoV-2 antigens in accordance with Article 19 paragraph 1 letter c of the COVID-19 Certificates Ordinance of 4 June 2021[^9-4] and the result is negative. The test may be carried out at the earliest on the seventh day of quarantine. The competent cantonal authority may, in justified cases, suspend the early termination of quarantine.[^9-5]
 
-<sup>3bis</sup> The persons mentioned in paragraph 3 may leave quarantine in order to be tested. When doing so, they must wear a face mask and maintain a distance of at least 1.5 metres from other persons.[^9-5]
+<sup>3bis</sup> The persons mentioned in paragraph 3 may leave quarantine in order to be tested. When doing so, they must wear a face mask and maintain a distance of at least 1.5 metres from other persons.[^9-6]
 
 <sup>4</sup> Persons who leave quarantine early pursuant to paragraph 5 must wear a face mask and maintain a distance of at least 1.5 metres from other persons when outside their home or accommodation until the point in time at which quarantine under paragraph 2 would have ended.
 
 [^9-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^9-2]: Amended by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^9-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^9-4]: Amended by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^9-5]: Inserted by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9-4]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^9-5]: Amended by Annex No 2 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^9-6]: Inserted by No I of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 9a
 
@@ -372,7 +376,7 @@ The cantons may check that a negative test result has been provided in accordanc
 
 **Repeal and amendment of other legislation**
 
-<sup>1</sup> The COVID-19-Ordinance on International Travel Measures of 27 January 2021[^13-1] is repealed.
+<sup>1</sup> The COVID-19-Ordinance on International Passenger Transport of 27 January 2021[^13-1] is repealed.
 
 <sup>2</sup> The amendment of other legislation is regulated in Annex 3.
 
@@ -493,14 +497,14 @@ Annex 2a*[^t-5]*
 
 ## Test and proof of testing requirements
 
-[^t-5]: Inserted by No II para. 1 of the O of 17 Sept. 2021([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Revised by No II of the O of 3 Dec. 2021, in force since 4 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^t-5]: Inserted by No II para. 1 of the O of 17 Sept. 2021([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Revised by No II of the O of 3 Dec. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)) and Annex No 2 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 - 1\.
 
   The test procedure must be an up-to-date scientific and technical procedure, whereby:
 
   - a. a molecular-biological analysis for Sars-CoV-2 may not have been taken more than 72 hours previously;
-  - b. a Sars-CoV-2 rapid test for specialist use may not have been taken more than 24 hours previously.
+  - b. a Sars-CoV-2 rapid test for specialist use or a laboratory immunological analysis for Sars-CoV-2 antigens may not have been taken more than 24 hours previously.
 
 - 2\.
 
