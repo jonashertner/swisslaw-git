@@ -4,13 +4,13 @@ number: "512.4"
 title: Verordnung über die Dienstgrade und die Beförderung der Angehörigen der Polizei mit hoheitlicher polizeilicher Gewalt
 short: VDBAP
 language: de
-version: 2019-01-01
-valid_until: 2021-12-17
-version_adopted: 2018-11-13
+version: 2021-12-18
+valid_until: 2023-12-31
+version_adopted: 2021-12-07
 adopted: 2018-11-13
 in_force: 2019-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/512.4"
-pdf: "https://bgs.zg.ch/api/de/versions/1858/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2289/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1858/pdf_file"
 
 (VDBAP)
 
-Vom 13. November 2018 (Stand 1. Januar 2019)
+Vom 13. November 2018 (Stand 18. Dezember 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -42,13 +42,15 @@ beschliesst:
 
 **Bezeichnung der Dienstgrade**
 
-<sup>1</sup> Für die Dienstgrade wird die weibliche und männliche Form verwendet, mit Ausnahme des Dienstgrads Hauptmann, welcher nur in der männlichen Form vorkommt. Hier wird der Zusatz «Frau» vorangestellt.
+<sup>1</sup> Für die Dienstgrade wird die weibliche und männliche Form verwendet, mit Ausnahme der Dienstgrade Hauptmann und Oberst, welche nur in der männlichen Form vorkommen. Hier wird der Zusatz «Frau» vorangestellt.
 
 #### § 3
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Sicherheitsdirektion entscheidet über Beförderungen auf Antrag der Polizeikommandantin oder des Polizeikommandanten sowie nach Rücksprache mit dem Personalamt.
+<sup>1</sup> Die Sicherheitsdirektion entscheidet im Rahmen des jährlichen Beförderungsprozesses auf Antrag der Polizeikommandantin oder des Polizeikommandanten über Beförderungen.
+
+<sup>2</sup> Die Polizeikommandantin oder der Polizeikommandant entscheidet während des Jahres nach Rücksprache mit dem Personalamt über Beförderungen aufgrund von Funktionswechseln.
 
 #### § 4
 
@@ -75,6 +77,8 @@ beschliesst:
 <sup>3</sup> Die Funktionsdienstgrade unterscheiden zwischen Spezialisten- und Vorgesetztendienstgraden. Sie werden nur verliehen, wenn die fachlichen Anforderungen erfüllt und die betreffenden Funktionen ausgeübt werden.
 
 <sup>4</sup> Bei einem Funktionswechsel wird der im Funktionsstellenplan entsprechende Mannschafts- oder Funktionsdienstgrad für die neue Funktion übernommen und es erfolgt eine Einreihung im Rahmen der vorgesehenen Gehaltsklassen.
+
+<sup>4a</sup> Wenn bei einem Funktionswechsel für den Erhalt des Minimaldienstgrades der neuen Funktion zwei oder mehr Mannschafts- oder Funktionsdienstgrade übersprungen werden müssten, erfolgt bei Übernahme der neuen Funktion die Einreihung in den nächsthöheren Dienstgrad der oder des Polizeiangehörigen. Nach Absolvierung der festgelegten Ausbildung und bei guter Leistung sowie insgesamt mindestens fünf Dienstjahren kann eine Beförderung in den für die Funktion vorgesehenen Dienstgrad erfolgen.
 
 <sup>5</sup> Bei der Übernahme eines Mannschaftsdienstgrades werden ausgewiesene Dienstjahre berücksichtigt, sofern der Funktionsstellenplan für die betreffende Funktion einen entsprechenden Dienstgrad vorsieht.
 
@@ -135,6 +139,8 @@ beschliesst:
 **Ausnahmen**
 
 <sup>1</sup> Nehmen Polizeiangehörige Funktionen ein, bei denen sie keine hoheitliche polizeiliche Gewalt mehr innehaben, können sie in begründeten Ausnahmefällen um eine Gehaltsklasse höher eingereiht werden, als dies der Funktionsstellenplan vorsieht. Der Mannschaftsdienstgrad kann beibehalten werden.
+
+<sup>2</sup> Bei einer mit einer Besoldungsreduktion verbundenen Funktionsänderung kann die Polizeikommandantin oder der Polizeikommandant von einer vollständigen Rückstufung in den für die Funktion vorgesehenen Dienstgrad absehen. Der belassene Dienstgrad darf höchstens Polizeifeldweibelin/Polizeifeldweibel (Fw) betragen. Die Einreihung erfolgt im Rahmen der für die neue Funktion vorgesehenen Gehaltsklassen.
 
 ## 3. Mannschaftsdienstgrade
 
@@ -223,14 +229,15 @@ beschliesst:
 
 - 1\. Leutnantin/Leutnant (Lt), Gehaltsklassen 18–19
 - 2\. Oberleutnantin/Oberleutnant (Oblt), Gehaltsklassen 20–21
-- 3\. Hauptmann (Hptm), Gehaltsklassen 22–24
+- 3\. Hauptmann (Hptm), Gehaltsklassen 21–23
+- 4\. Majorin/Major (Maj), Gehaltsklassen 23–24
 
-<sup>3</sup> Wird Abteilungsleiterinnen oder -leitern die Stellvertretung der Polizeikommandantin oder des Polizeikommandanten übertragen, nehmen sie den Dienstgrad Majorin/Major (Maj) mit den Gehaltsklassen 23–24 ein.
+<sup>3</sup> Wird Abteilungsleiterinnen oder -leitern die Stellvertretung der Polizeikommandantin oder des Polizeikommandanten übertragen, nehmen sie den Dienstgrad Oberstleutnantin/Oberstleutnant (Oberstlt) mit den Gehaltsklassen 23–24 ein.
 
 <sup>4</sup> Der Amtsleiterin oder dem Amtsleiter bzw. der Polizeikommandantin oder dem Polizeikommandanten kann einer der folgenden Dienstgrade verliehen werden:
 
-- 1\. Majorin/Major (Maj), Gehaltsklassen 23–24
-- 2\. Oberstleutnantin/Oberstleutnant (Oberstlt), Gehaltsklassen 25–26
+- 1\. Oberstleutnantin/Oberstleutnant (Oberstlt), Gehaltsklassen 23–24
+- 2\. Oberst, Gehaltsklassen 25–26
 
 <sup>5</sup> Beförderungen in einen nächsthöheren Vorgesetztendienstgrad können frühestens nach vier Dienstjahren erfolgen.
 
