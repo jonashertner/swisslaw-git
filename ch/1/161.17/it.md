@@ -3,11 +3,11 @@ sr: "161.17"
 title: Ordinanza del 12 maggio 2021 concernente l’attestazione del diritto di voto per referendum e iniziative popolari a livello federale durante il periodo dell’epidemia di COVID-19 (Ordinanza COVID-19 attestazione del diritto di voto)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/273"
 language: it
-version: 2021-05-13
+version: 2021-12-18
 adopted: 2021-05-12
 in_force: 2021-05-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/273/20210513/it/xml/fedlex-data-admin-ch-eli-cc-2021-273-20210513-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/273/20210513/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/273/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2021-273-20211218-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/273/20211218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/273/20210513/it"
 
 (Ordinanza COVID-19 attestazione del diritto di voto)
 
-del 12 maggio 2021 (Stato 13 maggio 2021)
+del 12 maggio 2021 (Stato 18 dicembre 2021) (Stato 18 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -42,16 +42,20 @@ La presente ordinanza disciplina, per il periodo dell’epidemia di COVID-19, l�
 
 Essa si applica:
 
-- a. alle domande di referendum contro atti legislativi pubblicati nel Foglio federale fra il 30 marzo 2021 e il 31 luglio 2021;
-- b. alle iniziative popolari depositate presso la Cancelleria federale fra il 13 maggio 2021 e il 30 novembre 2021.
+- a. alle domande di referendum contro atti legislativi pubblicati nel Foglio federale fra il 30 marzo 2021 e il 31 marzo 2022;
+- b. alle iniziative popolari depositate presso la Cancelleria federale fra il 13 maggio 2021 e il 30 giugno 2022.[^1-1]
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
 
 #### Art. 2
 
-**Deposito presso la Cancelleria federale**
+**Deposito presso la Cancelleria federale**[^2-1]
 
-<sup>1</sup> Le liste di firme relative a una domanda di referendum o a un’iniziativa popolare devono essere depositate presso la Cancelleria federale entro la scadenza del termine per la raccolta delle firme con il necessario numero di firme separate per Cantone e, per le iniziative popolari, in blocco.
+<sup>1</sup> Le liste di firme relative a una domanda di referendum o a un’iniziativa popolare devono essere depositate presso la Cancelleria federale entro la scadenza del termine per la raccolta delle firme con il necessario numero di firme separate per Cantone e Comune e, per le iniziative popolari, in blocco.
 
-<sup>2</sup> In deroga all’articolo 59*a* LDP, le liste di firme possono essere depositate con o senza l’attestazione del diritto di voto.
+<sup>2</sup> Le liste di firme che non è stato possibile inviare tempestivamente, secondo l’articolo 62 LDP, prima della scadenza del termine per la raccolta delle firme al servizio competente per l’attestazione del diritto di voto possono essere depositate anche senza l’attestazione del diritto di voto.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
 
 #### Art. 3
 
@@ -98,4 +102,8 @@ L’ordinanza COVID-19 attestazione del diritto di voto del 7 ottobre 2020[^6-1]
 
 **Entrata in vigore e durata di validità**
 
-La presente ordinanza entra in vigore il 13 maggio 2021 alle ore 00.00 e ha effetto sino al 31 dicembre 2021.
+<sup>1</sup> La presente ordinanza entra in vigore il 13 maggio 2021 alle ore 00.00 e ha effetto sino al 31 dicembre 2021.
+
+<sup>2</sup> La durata di validità della presente ordinanza è prorogata sino al 31 agosto 2022.[^7-1]
+
+[^7-1]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)).

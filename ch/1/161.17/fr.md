@@ -3,11 +3,11 @@ sr: "161.17"
 title: Ordonnance du 12 mai 2021 concernant l’attestation de la qualité d’électeur pour les référendums et les initiatives populaires au niveau fédéral pendant la période de l’épidémie de COVID-19 (Ordonnance COVID-19 attestation de la qualité d’électeur)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/273"
 language: fr
-version: 2021-05-13
+version: 2021-12-18
 adopted: 2021-05-12
 in_force: 2021-05-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/273/20210513/fr/xml/fedlex-data-admin-ch-eli-cc-2021-273-20210513-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/273/20210513/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/273/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2021-273-20211218-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/273/20211218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/273/20210513/fr"
 
 (Ordonnance COVID-19 attestation de la qualité d’électeur)
 
-du 12 mai 2021 (Etat le 13 mai 2021)
+du 12 mai 2021 (Etat le 18 décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -42,16 +42,20 @@ La présente ordonnance règle, pour la période de l’épidémie de COVID-19, 
 
 Elle s’applique:
 
-- a. aux demandes de référendum contre les actes publiés dans la Feuille fédérale entre le 30 mars 2021 et le 31 juillet 2021;
-- b. aux initiatives populaires déposées à la Chancellerie fédérale entre le 13 mai 2021 et le 30 novembre 2021.
+- a. aux demandes de référendum contre les actes publiés dans la Feuille fédérale entre le 30 mars 2021 et le 31 mars 2022;
+- b. aux initiatives populaires déposées à la Chancellerie fédérale entre le 13 mai 2021 et le 30 juin 2022.[^1-1]
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 879](https://fedlex.data.admin.ch/eli/oc/2021/879)).
 
 #### Art. 2
 
-**Dépôt à la Chancellerie fédérale**
+**Dépôt à la Chancellerie fédérale**[^2-1]
 
-<sup>1</sup> Les listes de signatures à l’appui d’une demande de référendum ou d’une initiative populaire doivent être déposées à la Chancellerie fédérale dans le délai imparti pour la récolte de signatures, munies du nombre de signatures requis classées par canton et, pour les initiatives populaires, en une fois.
+<sup>1</sup> Les listes de signatures à l’appui d’une demande de référendum ou d’une initiative populaire doivent être déposées à la Chancellerie fédérale dans le délai imparti pour la récolte de signatures, munies du nombre de signatures requis classées par canton et par commune et, pour les initiatives populaires, en une fois.
 
-<sup>2</sup> En dérogation à l’art. 59*a* LDP, les listes de signatures peuvent être déposées avec ou sans attestations de la qualité d’électeur.
+<sup>2</sup> Les listes de signatures qui n’ont pas pu être remises suffisamment tôt avant l’expiration du délai de récolte au service compétent pour attester la qualité d’électeur des signataires conformément à l’art. 62 LDP peuvent également être déposées sans attestation de la qualité d’électeur.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 879](https://fedlex.data.admin.ch/eli/oc/2021/879)).
 
 #### Art. 3
 
@@ -98,4 +102,8 @@ L’ordonnance COVID-19 du 7 octobre 2020 attestation de la qualité d’électe
 
 **Entrée en vigueur et durée de validité**
 
-La présente ordonnance entre en vigueur le 13 mai 2021 à 0 h 00 et a effet jusqu’au 31 décembre 2021.
+<sup>1</sup> La présente ordonnance entre en vigueur le 13 mai 2021 à 0 h 00 et a effet jusqu’au 31 décembre 2021.
+
+<sup>2</sup> Elle est prorogée jusqu’au 31 août 2022.[^7-1]
+
+[^7-1]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 879](https://fedlex.data.admin.ch/eli/oc/2021/879)).
