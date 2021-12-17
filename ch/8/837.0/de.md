@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die obligatorische Arbeitslosenvers
 short: AVIG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: de
-version: 2021-07-01
+version: 2021-12-18
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20210701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20211218/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20211218-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20211218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210701/de"
 
 (Arbeitslosenversicherungsgesetz, AVIG)
 
-vom 25. Juni 1982 (Stand am 1. Juli 2021)
+vom 25. Juni 1982 (Stand am 18. Dezember 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -88,7 +88,7 @@ Für die Arbeitslosenversicherung (Versicherung) ist beitragspflichtig:
 
 Von der Beitragspflicht ausgenommen sind:
 
-- a. ...[^2-5]
+- a. …[^2-5]
 - b.[^2-6] mitarbeitende Familienglieder nach Artikel 1*a* Absatz 2 Buchstaben a und b des Bundesgesetzes vom 20. Juni 1952[^2-7] über die Familienzulagen in der Landwirtschaft, die den selbstständigen Landwirten gleichgestellt sind;
 - c.[^2-8] Arbeitnehmer ab Ende des Monats, in dem sie das Rentenalter nach Artikel 21 AHVG erreichen;
 - d.[^2-9] Arbeitgeber für Lohnzahlungen an Personen nach den Buchstaben b und c;
@@ -182,7 +182,7 @@ Zur Verhütung und Bekämpfung der Arbeitslosigkeit leistet die Versicherung fin
 Die Versicherung richtet folgende Leistungen aus:
 
 - a. Arbeitslosenentschädigung;
-- b. ...[^7-3]
+- b. …[^7-3]
 - c. Kurzarbeitsentschädigung;
 - d. Schlechtwetterentschädigung;
 - e. Entschädigung bei Zahlungsunfähigkeit des Arbeitgebers (Insolvenzentschädigung).
@@ -298,7 +298,7 @@ Als teilweise arbeitslos gilt, wer:
 
 <sup>1</sup> Der Arbeitsausfall ist anrechenbar, wenn er einen Verdienstausfall zur Folge hat und mindestens zwei aufeinander folgende volle Arbeitstage dauert.
 
-<sup>2</sup> ...[^11-1]
+<sup>2</sup> …[^11-1]
 
 <sup>3</sup> Nicht anrechenbar ist ein Arbeitsausfall, für den dem Arbeitslosen Lohnansprüche oder wegen vorzeitiger Auflösung des Arbeitsverhältnisses Entschädigungsansprüche zustehen.
 
@@ -345,7 +345,7 @@ Angerechnet werden auch:
 - c.[^13-3] Zeiten, in denen der Versicherte zwar in einem Arbeitsverhältnis steht, aber wegen Krankheit (Art. 3 ATSG[^13-4]) oder Unfalls (Art. 4 ATSG) keinen Lohn erhält und daher keine Beiträge bezahlt;
 - d.[^13-5] Arbeitsunterbrüche wegen Mutterschaft (Art. 5 ATSG), soweit sie durch Arbeitnehmerschutzbestimmungen vorgeschrieben oder gesamtarbeitsvertraglich vereinbart sind.
 
-<sup>2</sup> <sup>bis</sup><sup>–2</sup><sup>ter</sup> ...[^13-6]
+<sup>2</sup> <sup>bis</sup><sup>–2</sup><sup>ter</sup> …[^13-6]
 
 <sup>3</sup> Um den ungerechtfertigten gleichzeitigen Bezug von Altersleistungen der beruflichen Vorsorge und von Arbeitslosenentschädigung zu verhindern, kann der Bundesrat die Anrechnung von Beitragszeiten für diejenigen Personen abweichend regeln, die vor Erreichen des Rentenalters nach Artikel 21 Absatz 1 AHVG[^13-7] pensioniert wurden, jedoch weiterhin als Arbeitnehmer tätig sein wollen.[^13-8]
 
@@ -380,9 +380,9 @@ Von der Erfüllung der Beitragszeit befreit sind Personen, die innerhalb der Rah
 
 <sup>3</sup> Schweizer, die nach einem Auslandaufenthalt von über einem Jahr in einem Staat, der sowohl ausserhalb der Europäischen Gemeinschaft als auch der Europäischen Freihandelsassoziation (EFTA) liegt, in die Schweiz zurückkehren, sind während eines Jahres von der Erfüllung der Beitragszeit befreit, sofern sie sich über eine entsprechende Beschäftigung als Arbeitnehmer im Ausland ausweisen können und während mindestens sechs Monaten in der Schweiz eine beitragspflichtige Beschäftigung ausgeübt haben.[^14-6] Unter den gleichen Voraussetzungen sind Angehörige von Staaten der Europäischen Gemeinschaft und der EFTA, deren Niederlassungsbewilligung nicht erloschen ist, von der Erfüllung der Beitragszeit befreit. Der Bundesrat bestimmt zudem, unter welchen Voraussetzungen Ausländer, die nicht Angehörige eines Staates der Europäischen Gemeinschaft oder der EFTA sind, und deren Niederlassungsbewilligung nicht erloschen ist, nach einem Auslandaufenthalt von über einem Jahr von der Erfüllung der Beitragszeit befreit sind.[^14-7]
 
-<sup>4</sup> ...[^14-8]
+<sup>4</sup> …[^14-8]
 
-<sup>5</sup> <sup>–</sup><sup>5</sup><sup>bis</sup> ...[^14-9]
+<sup>5</sup> <sup>–</sup><sup>5</sup><sup>bis</sup> …[^14-9]
 
 [^14-1]: Fassung gemäss Anhang Ziff. 40 des BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017 ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^14-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -485,9 +485,9 @@ Der Anspruch beginnt nach einer Wartezeit von fünf Tagen kontrollierter Arbeits
 
 <sup>3</sup> Wird der Versicherte arbeitslos im Anschluss an eine Saisontätigkeit oder an eine Tätigkeit in einem Beruf, in dem häufig wechselnde oder befristete Anstellungen üblich sind, so wird der Arbeitsausfall während einer vom Bundesrat bestimmten Wartezeit nicht angerechnet.[^18-5]
 
-<sup>4</sup> ...[^18-6]
+<sup>4</sup> …[^18-6]
 
-<sup>5</sup> ...[^18-7]
+<sup>5</sup> …[^18-7]
 
 [^18-1]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^18-2]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
@@ -539,7 +539,7 @@ Der Bundesrat regelt, wie der Entschädigungsanspruch für Personen bestimmt wir
 
 <sup>3</sup> Der Anspruch erlischt, wenn er nicht innert dreier Monate nach dem Ende der Kontrollperiode, auf die er sich bezieht, geltend gemacht wird. Unzustellbare Entschädigungen verfallen drei Jahre nach dem Ende der Kontrollperiode.
 
-<sup>4</sup> ...[^20-1]
+<sup>4</sup> …[^20-1]
 
 [^20-1]: Aufgehoben durch Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
@@ -570,7 +570,7 @@ Ein Taggeld in der Höhe von 70 Prozent des versicherten Verdienstes erhalten Ve
 
 <sup>3</sup> Der Bundesrat passt den Mindestansatz nach Absatz 2 Buchstabe b in der Regel alle zwei Jahre auf Beginn des Kalenderjahres nach den Grundsätzen der AHV an.[^22-6]
 
-<sup>4</sup> und <sup>5</sup> ...[^22-7]
+<sup>4</sup> und <sup>5</sup> …[^22-7]
 
 [^22-1]: Fassung gemäss Anhang Ziff. 3 des Familienzulagengesetzes vom 24. März 2006, in Kraft seit 1. Jan. 2009 ([AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); BBl **1999** 3220, [2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^22-2]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
@@ -613,9 +613,9 @@ Ein Taggeld in der Höhe von 70 Prozent des versicherten Verdienstes erhalten Ve
 
 <sup>3bis</sup> Nicht versichert ist auch ein Verdienst, den eine Person durch Teilnahme an einer von der öffentlichen Hand finanzierten arbeitsmarktlichen Massnahme erzielt. Ausgenommen sind Massnahmen nach den Artikeln 65 und 66*a*.[^23-6]
 
-<sup>4</sup> ...[^23-7]
+<sup>4</sup> …[^23-7]
 
-<sup>5</sup> ...[^23-8]
+<sup>5</sup> …[^23-8]
 
 [^23-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^23-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
@@ -632,7 +632,7 @@ Ein Taggeld in der Höhe von 70 Prozent des versicherten Verdienstes erhalten Ve
 
 <sup>1</sup> Als Zwischenverdienst gilt jedes Einkommen aus unselbstständiger oder selbstständiger Erwerbstätigkeit, das der Arbeitslose innerhalb einer Kontrollperiode erzielt. Der Versicherte hat Anspruch auf Ersatz des Verdienstausfalls. Der anzuwendende Entschädigungssatz bestimmt sich nach Artikel 22. Der Bundesrat regelt, wie das Einkommen aus selbstständiger Erwerbstätigkeit ermittelt wird.[^24-2]
 
-<sup>2</sup> ...[^24-3]
+<sup>2</sup> …[^24-3]
 
 <sup>3</sup> Als Verdienstausfall gilt die Differenz zwischen dem in der Kontrollperiode erzielten Zwischenverdienst, mindestens aber dem berufs- und ortsüblichen Ansatz für die betreffende Arbeit, und dem versicherten Verdienst. Ein Nebenverdienst (Art. 23 Abs. 3) bleibt unberücksichtigt.
 
@@ -686,7 +686,7 @@ Die versicherte Person hat Anspruch auf:
 
 <sup>4</sup> Anspruch auf höchstens 90 Taggelder haben Personen, die von der Erfüllung der Beitragszeit befreit sind.[^27-4]
 
-<sup>5</sup> ...[^27-5]
+<sup>5</sup> …[^27-5]
 
 <sup>5bis</sup> Anspruch auf höchstens 200 Taggelder haben Personen bis zum zurückgelegten 25. Altersjahr ohne Unterhaltspflichten gegenüber Kindern.[^27-6]
 
@@ -703,7 +703,7 @@ Die versicherte Person hat Anspruch auf:
 
 <sup>1</sup> Versicherte, die wegen Krankheit (Art. 3 ATSG[^28-1]), Unfall (Art. 4 ATSG) oder Schwangerschaft vorübergehend nicht oder nur vermindert arbeits- und vermittlungsfähig sind und deshalb die Kontrollvorschriften nicht erfüllen können, haben, sofern sie die übrigen Anspruchsvoraussetzungen erfüllen, Anspruch auf das volle Taggeld. Dieser dauert längstens bis zum 30. Tag nach Beginn der ganzen oder teilweisen Arbeitsunfähigkeit und ist innerhalb der Rahmenfrist auf 44 Taggelder beschränkt.[^28-2]
 
-<sup>1bis</sup> ...[^28-3]
+<sup>1bis</sup> …[^28-3]
 
 <sup>2</sup> Taggelder der Kranken- oder Unfallversicherung, die Erwerbsersatz darstellen, werden von der Arbeitslosenentschädigung abgezogen.[^28-4]
 
@@ -972,13 +972,13 @@ Der Arbeitgeber reicht der Kasse ein:
 
 **Zwischenbeschäftigung**
 
-<sup>1</sup> und <sup>2</sup> ...[^41-1]
+<sup>1</sup> und <sup>2</sup> …[^41-1]
 
 <sup>3</sup> Der Arbeitnehmer muss das während der Kurzarbeit durch Zwischenbeschäftigung oder selbständige Tätigkeit erzielte Einkommen dem Arbeitgeber mitteilen. Dieser benachrichtigt die Kasse.
 
 <sup>4</sup> Der Bundesrat bestimmt, auf welche Weise und in welchem Umfange das durch Zwischenbeschäftigung erzielte Einkommen bei der Festlegung des anrechenbaren Verdienstausfalles berücksichtigt wird.
 
-<sup>5</sup> ...[^41-2]
+<sup>5</sup> …[^41-2]
 
 [^41-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^41-2]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
@@ -1020,7 +1020,7 @@ Der Arbeitsausfall ist anrechenbar, wenn:
 
 <sup>4</sup> Als Abrechnungsperiode gilt ein Zeitraum von einem Monat oder von vier zusammenhängenden Wochen.
 
-<sup>5</sup> ...[^43-4]
+<sup>5</sup> …[^43-4]
 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^43-2]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1990, in Kraft seit 1. Jan. 1992 ([AS 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [BBl 1989 III 377](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
@@ -1065,7 +1065,7 @@ Die Bemessung der Entschädigung richtet sich nach Artikel 34.
 
 <sup>1</sup> Der Bundesrat regelt das Meldeverfahren.[^45-1]
 
-<sup>2–3</sup> ...[^45-2]
+<sup>2–3</sup> …[^45-2]
 
 <sup>4</sup> Hat die kantonale Amtsstelle Zweifel an der Anrechenbarkeit des Arbeitsausfalles, so nimmt sie die geeigneten Abklärungen vor. Erachtet sie den Arbeitsausfall als nicht anrechenbar oder ist er zu spät gemeldet worden, so erhebt sie durch Verfügung Einspruch gegen die Auszahlung der Schlechtwetterentschädigung. Sie benachrichtigt in jedem Fall den Arbeitgeber und die von ihm bezeichnete Kasse.
 
@@ -1351,7 +1351,7 @@ Die Versicherung gewährt zudem:
 
 #### Art. 60
 
-**...[^60-2]**[^60-1]
+**…[^60-2]**[^60-1]
 
 <sup>1</sup> Als Bildungsmassnahmen gelten namentlich individuelle oder kollektive Kurse zur Umschulung, Weiterbildung oder Eingliederung sowie Übungsfirmen und Ausbildungspraktika.
 
@@ -1419,7 +1419,7 @@ Als Beschäftigungsmassnahmen gelten namentlich vorübergehende Beschäftigungen
 
 **Umfang der Leistungen**
 
-<sup>1</sup> ...[^64b-1]
+<sup>1</sup> …[^64b-1]
 
 <sup>2</sup> Der Bundesrat kann für die vorübergehende Beschäftigung im Rahmen von Berufspraktika Minimalvorschriften über die finanzielle Beteiligung der Arbeitgeber erlassen.
 
@@ -1437,7 +1437,7 @@ Als Beschäftigungsmassnahmen gelten namentlich vorübergehende Beschäftigungen
 
 Versicherten, deren Vermittlung erschwert ist, können für die Einarbeitung in einem Betrieb bei vermindertem Lohn Einarbeitungszuschüsse gewährt werden, wenn:[^65-2]
 
-- a. ...[^65-3]
+- a. …[^65-3]
 - b. der verminderte Lohn mindestens der während der Einarbeitungszeit erbrachten Arbeitsleistung entspricht und
 - c. der Versicherte nach der Einarbeitung mit einer Anstellung zu orts- und branchenüblichen Bedingungen, allenfalls unter Berücksichtigung einer dauernd verminderten Leistungsfähigkeit, rechnen kann.
 
@@ -1480,7 +1480,7 @@ Versicherten, deren Vermittlung erschwert ist, können für die Einarbeitung in 
 
 Die Versicherung kann Zuschüsse an eine höchstens dreijährige Ausbildung von Versicherten gewähren, welche:
 
-- a. ...[^66a-3]
+- a. …[^66a-3]
 - b. mindestens 30 Jahre alt sind; und
 - c.[^66a-4] über keine abgeschlossene oder in der Schweiz anerkannte berufliche Ausbildung verfügen oder in ihrem erlernten Beruf erhebliche Schwierigkeiten haben, eine Stelle zu finden.
 
@@ -1592,7 +1592,7 @@ Der Beitrag an Wochenaufenthalter deckt Kosten, die dem Versicherten dadurch ent
 Versicherte können die Unterstützung nach Artikel 71*a* Absatz 1 beanspruchen, wenn sie:
 
 - a.[^71b-2] ohne eigenes Verschulden arbeitslos sind;
-- b. ...[^71b-3]
+- b. …[^71b-3]
 - c. mindestens 20 Jahre alt sind; und
 - d. ein Grobprojekt zur Aufnahme einer wirtschaftlich tragfähigen und dauerhaften selbständigen Erwerbstätigkeit vorweisen.
 
@@ -1736,7 +1736,7 @@ Mit der Durchführung der Versicherung sind beauftragt:
 
 <sup>2</sup> Träger der Kasse ist der Kanton.
 
-<sup>3</sup> ...[^77-1]
+<sup>3</sup> …[^77-1]
 
 <sup>4</sup> Mehrere Kantone können mit Zustimmung des Staatssekretariats für Wirtschaft (SECO)[^77-2] für ihre Gebiete eine gemeinsame öffentliche Kasse führen.
 
@@ -1862,13 +1862,13 @@ Die Ausgleichsstelle:
 - f.[^83-4] entscheidet über Ersatzansprüche des Bundes gegenüber dem Träger, dem Kanton, dem Arbeitgeber und der AHV-Ausgleichskasse (Art. 82, 85*d*, 88 und 89*a*);
 - g. weist den Kassen nach den Vorschriften dieses Gesetzes und der Verordnung die nötigen Mittel aus dem Ausgleichsfonds zu;
 - h.[^83-5] trifft Vorkehren zur Verhinderung ungerechtfertigter Bezüge und setzt dazu bei andauernder und erheblicher Arbeitslosigkeit ausserordentliche Inspektoren ein;
-- i.[^83-6] ...
+- i.[^83-6] …
 - k.[^83-7] trifft die Entscheide nach Artikel 59*c* Absatz 3 und richtet die Beiträge nach den Artikeln 62 und 64*b* aus;
 - l. überwacht die Entscheide der kantonalen Amtsstellen;
 - [tab] m.[^83-8] entscheidet über die Anrechenbarkeit von Verwaltungskosten der Kassen, der kantonalen Amtsstelle, der Regionalen Arbeitsvermittlungszentren und der Logistikstellen für arbeitsmarktliche Massnahmen;
 - n. sorgt für die Koordination mit den übrigen Sozialversicherungen;
 - [tab] n<sup>bis</sup>.[^83-9] sorgt zusammen mit den Kantonen für die Zusammenarbeit im Rahmen des EURES-Netzes (European Employment Services) nach Artikel 11 des Anhangs I zum Abkommen vom 21. Juni 1999[^83-10] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen);
-- o.[^83-11] ...
+- o.[^83-11] …
 - p.[^83-12] koordiniert die Durchführung von arbeitsmarktlichen Massnahmen und kann solche konzeptionell vorbereiten;
 - q.[^83-13] trifft Vorkehren zur Anwendung von Artikel 59*a*;
 - r.[^83-14] entscheidet in Abweichung von Artikel 35 ATSG[^83-15] Streitigkeiten über die örtliche Zuständigkeit der kantonalen Amtsstellen;
@@ -1968,7 +1968,7 @@ Die kantonalen Amtsstellen:
 - j.[^85-5] erstatten der Ausgleichsstelle zuhanden der Aufsichtskommission periodisch Bericht über ihre Entscheide im Bereich der arbeitsmarktlichen Massnahmen;
 - k.[^85-6] legen nach den Weisungen der Ausgleichsstelle zuhanden der Aufsichtskommission periodisch Rechnung ab über die Verwaltungskosten der kantonalen Amtsstelle, der Regionalen Arbeitsvermittlungszentren und der Logistikstellen für arbeitsmarktliche Massnahmen.
 
-<sup>2</sup> ...[^85-7]
+<sup>2</sup> …[^85-7]
 
 [^85-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^85-2]: Fassung gemäss Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
@@ -2147,7 +2147,7 @@ Die Arbeitgeber:
 
 <sup>3</sup> Der Schadenersatzanspruch verjährt nach den Bestimmungen des Obligationenrechts[^88-7] über die unerlaubten Handlungen.[^88-8]
 
-<sup>4</sup> ...[^88-9]
+<sup>4</sup> …[^88-9]
 
 <sup>5</sup> Die Haftung nach Artikel 78 ATSG ist ausgeschlossen.[^88-10]
 
@@ -2220,13 +2220,13 @@ Die Versicherung wird finanziert durch:
 
 <sup>2</sup> Zur Förderung der Wiedereingliederung inländischer Arbeitskräfte wird die Beteiligung des Bundes für den Zeitraum von 2020 bis 2022 um 69,5 Millionen Franken pro Jahr erhöht.[^90a-2]
 
-<sup>3</sup> Der Bund leistet in den Jahren 2020 und 2021 jeweils einen ausserordentlichen Beitrag an den Ausgleichsfonds. Die Gesamtsummen der ausserordentlichen Beiträge für die Jahre 2020 und 2021 bemessen sich nach den Aufwendungen für die Kurzarbeitsentschädigung für die Abrechnungsperioden des jeweiligen Jahres.[^90a-3]
+<sup>3</sup> Der Bund leistet in den Jahren 2020, 2021 und 2022 jeweils einen ausserordentlichen Beitrag an den Ausgleichsfonds. Die Gesamtsummen der ausserordentlichen Beiträge für die Jahre 2020, 2021 und 2022 bemessen sich nach den Aufwendungen für die Kurzarbeitsentschädigung für die Abrechnungsperioden des jeweiligen Jahres.[^90a-3]
 
 <sup>4</sup> Ist vorauszusehen, dass der Schuldenstand des Ausgleichsfonds Ende des Jahres 2021 2,5 Prozent der von der Beitragspflicht erfassten Lohnsumme überschreiten wird, und ist diese Überschreitung auf die Covid-19-Epidemie zurückzuführen, so kann der Bund einen ausserordentlichen Beitrag an den Ausgleichsfonds leisten.[^90a-4]
 
 [^90a-1]: Eingefügt durch Ziff. I des BG vom 22. März 2002 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)). Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^90a-2]: Eingefügt durch Ziff. I 3 des BG vom 30. Sept. 2011 über Massnahmen zur Abfederung der Frankenstärke und zur Verbesserung der Wettbewerbsfähigkeit ([AS 2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624); [BBl 2011 6749](https://fedlex.data.admin.ch/eli/fga/2011/1078)). Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
-[^90a-3]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Zusatzfinanzierung Arbeitslosenversicherung) ([AS 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [BBl 2020 6685](https://fedlex.data.admin.ch/eli/fga/2020/1729)). Fassung gemäss Ziff. I des BG vom 19. März 2021 (Ausserordentlicher Beitrag 2021 an den Ausgleichsfonds), in Kraft vom 20. März 2021 bis zum 31. Dez. 2021 ([AS 2021 154](https://fedlex.data.admin.ch/eli/oc/2021/154); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^90a-3]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Zusatzfinanzierung Arbeitslosenversicherung) ([AS 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [BBl 2020 6685](https://fedlex.data.admin.ch/eli/fga/2020/1729)). Fassung gemäss Ziff. III 4 des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^90a-4]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Zusatzfinanzierung Arbeitslosenversicherung), in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2022 ([AS 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [BBl 2020 6685](https://fedlex.data.admin.ch/eli/fga/2020/1729)).
 
 #### Art. 90b
@@ -2401,11 +2401,11 @@ Folgende Personen können sich auf der Zugangsplattform für elektronische Diens
 - b. arbeitssuchende Personen für die Anmeldung und die Beratung durch das RAV;
 - c. Arbeitgeber für die Geltendmachung von Leistungen nach den Artikeln 31 und 42 sowie für die Erfüllung ihrer Pflichten nach Artikel 88 Absatz 1.[^96c-7]
 
-<sup>2</sup> ...[^96c-8]
+<sup>2</sup> …[^96c-8]
 
 <sup>2bis</sup> Soweit es für den Vollzug dieses Gesetzes und des AVG notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zwischen den Informationssystemen der Arbeitslosenversicherung (Art. 83 Abs. 1<sup>bis</sup>) und den Informationssystemen der öffentlichen Arbeitsvermittlung (Art. 35 AVG) ausgetauscht werden.[^96c-9]
 
-<sup>2ter</sup> ...[^96c-10]
+<sup>2ter</sup> …[^96c-10]
 
 <sup>3</sup> Der Bundesrat regelt die Verantwortung für den Datenschutz, die zu erfassenden Daten und deren Aufbewahrungsfristen, den Zugriff auf die Daten, die Organisation und den Betrieb der Informationssysteme, die Zusammenarbeit zwischen den in Absatz 1 aufgeführten Behörden und die Datensicherheit.
 
@@ -2463,7 +2463,7 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mi
   - 5\. Steuerbehörden, wenn die Daten für die Anwendung der Steuergesetze erforderlich sind,
   - 6\.[^97a-15] den Kindes- und Erwachsenenschutzbehörden nach Artikel 448 Absatz 4 ZGB[^97a-16];
   - 7\.[^97a-17] den Ausländerbehörden, wenn die Daten für den Vollzug des AIG sowie zum Vollzug des Abkommens vom 21. Juni 1999[^97a-18] zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit samt Anhängen und Protokollen sowie der dazugehörigen schweizerischen Ausführungsgesetzgebung notwendig sind,
-  - 8\.[^97a-19] ...[^97a-20]
+  - 8\.[^97a-19] …[^97a-20]
 
 <sup>2</sup> Die zur Bekämpfung der Schwarzarbeit erforderlichen Daten dürfen von den betroffenen Behörden des Bundes, der Kantone und der Gemeinden nach den Artikeln 11 und 12 des Bundesgesetzes vom 17. Juni 2005[^97a-21] gegen die Schwarzarbeit bekannt gegeben werden.[^97a-22]
 
@@ -2690,7 +2690,7 @@ Die Kantone:
 - f.[^113-6] sorgen für eine wirksame Zusammenarbeit der für die Versicherung und für die Arbeitsvermittlung zuständigen Stellen;
 - g.[^113-7] bezeichnen fünf Feiertage, für die nach Artikel 19[^113-8] Anspruch auf Arbeitslosenentschädigung besteht.
 
-<sup>3</sup> ...[^113-9]
+<sup>3</sup> …[^113-9]
 
 [^113-1]: Ausdruck gemäss Ziff. III des BG vom 15. Dez. 1989 über die Genehmigung kantonaler Erlasse durch den Bund, in Kraft seit 1. Febr. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 [^113-2]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
@@ -2716,7 +2716,7 @@ Die Kantone:
 
 **Versicherungsvertragsgesetz**
 
-...[^115-1]
+…[^115-1]
 
 [^115-1]: Die Änderung kann unter [AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)konsultiert werden.
 
@@ -2730,7 +2730,7 @@ Die Kantone:
 
 **Obligationenrecht**
 
-...[^117-1]
+…[^117-1]
 
 [^117-1]: Die Änderung kann unter [AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)konsultiert werden.
 
@@ -2738,7 +2738,7 @@ Die Kantone:
 
 **Bundesgesetz über die berufliche Alters‑, Hinterlassenen- und Invalidenvorsorge**[^117a-1]
 
-...[^117a-2]
+…[^117a-2]
 
 [^117a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Juli 1997 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273), [1997 60](https://fedlex.data.admin.ch/eli/oc/1997/60_60_60)Ziff. II 1 [806](https://fedlex.data.admin.ch/eli/oc/1997/806_806_806); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^117a-2]: Die Änderung kann unter [AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273)konsultiert werden.
@@ -2764,7 +2764,7 @@ Es werden aufgehoben:
 [^118-4]: Eingefügt durch Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^118-5]: [[AS 1993 1066](https://fedlex.data.admin.ch/eli/oc/1993/1066_1066_1066)]
 
-### 3. Abschnitt: ...
+### 3. Abschnitt: …
 
 #### Art. 119
 
