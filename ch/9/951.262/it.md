@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sui provvedimenti per i casi di rigore co
 short: OPCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: it
-version: 2021-12-01
+version: 2021-12-18
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211218-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211201/it"
 
 (Ordinanza COVID-19 casi di rigore)
 
-del 25 novembre 2020 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
+del 25 novembre 2020 (Stato 18 dicembre 2021) (Stato 18 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 9 lettere a e c, nonché 12 della legge COVID-19 del 25 settembre 2020[^ingress-1],
+visti gli articoli 9 lettere a e c, 12 nonché 19 capoverso 2 della legge COVID-19 del 25 settembre 2020[^ingress-1],[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2031 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 ## Sezione 1: Principio
 
@@ -287,11 +288,13 @@ Il contratto che il Cantone conclude con un’impresa relativo alla concessione 
 
 #### Art. 10
 
-**Quadro temporale**
+**Quadro temporale**[^10-1]
 
-<sup>1</sup> I mutui, le fideiussioni o le garanzie per i quali il Cantone può chiedere la partecipazione della Confederazione alle eventuali perdite sono garantiti o versati tra il 26 settembre 2020 e il 31 dicembre 2021.
+<sup>1</sup> Per i mutui, le fideiussioni o le garanzie per i quali il Cantone può chiedere la partecipazione della Confederazione alle eventuali perdite, le richieste sono presentate ai Cantoni al più tardi entro il 31 marzo 2022.
 
-<sup>2</sup> I contributi non rimborsabili, per i quali il Cantone può chiedere la partecipazione della Confederazione ai costi sono versati tra il 26 settembre 2020 e il 31 dicembre 2021.
+<sup>2</sup> Per i contributi non rimborsabili per i quali il Cantone può chiedere la partecipazione della Confederazione ai costi, le richieste sono presentate ai Cantoni al più tardi entro il 31 marzo 2022.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 mar. 2022 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 11
 
@@ -397,7 +400,7 @@ Il contratto stabilisce segnatamente:
 
 **Momento del pagamento, recupero dell’importo e rimborsi**
 
-<sup>1</sup> I Cantoni versano alle imprese l’importo totale garantito e successivamente emettono una fattura alla Confederazione.[^17-1]
+<sup>1</sup> I Cantoni versano alle imprese l’importo totale garantito e successivamente emettono una fattura alla Confederazione. Possono essere presi in considerazione i cali della cifra d’affari registrati al massimo sino al 31 dicembre 2021.[^17-1]
 
 <sup>2</sup>
 
@@ -405,15 +408,19 @@ I contributi della Confederazione sono pagati al Cantone:
 
 - a. nel caso dei mutui rimborsabili: se non sono rimborsati o non sono rimborsati interamente dopo la scadenza del periodo di validità;
 - b. nel caso delle fideiussioni: se sono escusse o nel caso delle garanzie se sono richieste;
-- c. nel caso dei contributi non rimborsabili: nel 2021 e nel caso dei pagamenti residui nel 2022.
+- c.[^17-2] nel caso dei contributi non rimborsabili: al più tardi entro la fine di dicembre del 2022 oppure, se il Cantone non può emettere la fattura in tempo utile a causa di un procedimento pendente dinanzi ad autorità amministrative o giudiziarie, entro 15 mesi dalla conclusione del procedimento.
 
-<sup>3</sup> I ricavi derivanti dal recupero di mutui e fideiussioni, da cui sono dedotti i costi sostenuti per il recupero, sono ripartiti tra Confederazione e Cantoni in funzione dell’effettiva partecipazione ai costi.[^17-2]
+<sup>2bis</sup> Per i contributi non rimborsabili, il Cantone emette una fattura alla Confederazione al più tardi entro il 31 agosto 2022 oppure, se è pendente un procedimento dinanzi ad autorità amministrative o giudiziarie, entro nove mesi dalla conclusione del procedimento.[^17-3]
 
-<sup>4</sup> I rimborsi effettuati da imprese in seguito a indicazioni false e i rimborsi volontari di contributi non rimborsabili sono ripartiti tra Confederazione e Cantoni in funzione dell’effettiva partecipazione ai costi.[^17-3]
+<sup>3</sup> I ricavi derivanti dal recupero di mutui e fideiussioni, da cui sono dedotti i costi sostenuti per il recupero, sono ripartiti tra Confederazione e Cantoni in funzione dell’effettiva partecipazione ai costi.[^17-4]
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
-[^17-3]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+<sup>4</sup> I rimborsi effettuati da imprese in seguito a indicazioni false e i rimborsi volontari di contributi non rimborsabili nonché altri rimborsi sono ripartiti tra Confederazione e Cantoni in proporzione alla loro effettiva partecipazione ai costi.[^17-5]
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2031 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-2]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2031 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-3]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2031 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-4]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^17-5]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2031 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 18
 
@@ -431,7 +438,7 @@ I rapporti dei Cantoni concernenti i provvedimenti di sostegno concessi o garant
 
 <sup>1bis</sup> Per ciascun sostegno concesso, su richiesta il Cantone mette a disposizione della SECO tutti i giustificativi. Perlomeno i giustificativi sulla data di costituzione dell’impresa e sulla cifra d’affari nonché i giustificativi per la conferma che l’impresa non è oggetto di una procedura di fallimento o di una procedura di liquidazione non possono basarsi su una mera autodichiarazione.[^18-2]
 
-<sup>2</sup> I rapporti sono presentati mediante una soluzione informatica fornita dalla SECO. Nel 2021 i rapporti sono presentati mensilmente, dal 2022 semestralmente. Sino al 30 giugno 2021 i rapporti mensili sono integrati dai rapporti settimanali sugli aiuti stanziati.[^18-3]
+<sup>2</sup> I rapporti sono presentati mediante una soluzione informatica fornita dalla SECO. Sino al 31 dicembre 2021 i rapporti sono presentati mensilmente, dal 1° gennaio 2022 trimestralmente e dal 1° luglio 2022 semestralmente.[^18-3]
 
 <sup>3</sup> I Cantoni inoltrano alla SECO le fatture di cui all’articolo 17 capoverso 1 per un periodo complessivo di un anno. Per i contributi non rimborsabili il Cantone può inoltrare le fatture alla Confederazione semestralmente.
 
@@ -439,7 +446,7 @@ I rapporti dei Cantoni concernenti i provvedimenti di sostegno concessi o garant
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 [^18-2]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 18 giu. 2021, in vigore dal 19 giu. 2021 ([RU 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+[^18-3]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2031 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 19
 
@@ -506,11 +513,16 @@ Per quanto concerne la Confederazione l’esecuzione della presente ordinanza è
 
 <sup>1</sup> La presente ordinanza entra in vigore il 1° dicembre 2020.
 
-<sup>2</sup> Fatto salvo il capoverso 3, la presente ordinanza ha effetto sino al 31 dicembre 2021.
+<sup>2</sup> Fatti salvi i capoversi 3 e 5, la presente ordinanza ha effetto sino al 31 dicembre 2021.[^23-1]
 
 <sup>3</sup> Fatto salvo il capoverso 4, l’articolo 21 ha effetto sino al 31 dicembre 2031.
 
 <sup>4</sup> Il capoverso 3 entra in vigore se entra in vigore la modifica della legge COVID-19 del 25 settembre 2020 che proroga la durata di validità del suo articolo 9 lettera c sino al 31 dicembre 2031.
+
+<sup>5</sup> Gli articoli 9, 11, 13, 17 capoversi 2 lettere a e b e 3 nonché gli articoli 18 capoverso 1 e 19 hanno effetto sino al 31 dicembre 2031.[^23-2]
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2031 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^23-2]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2031 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 Allegato*[^t-1]*
 

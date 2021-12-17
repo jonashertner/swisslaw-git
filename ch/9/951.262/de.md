@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unterne
 short: HFMV 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: de
-version: 2021-12-01
+version: 2021-12-18
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211218-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211201/de"
 
 (Covid-19-Härtefallverordnung)
 
-vom 25. November 2020 (Stand am 1. Dezember 2021)
+vom 25. November 2020 (Stand am 18. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 9 Buchstaben a und c sowie 12 des Covid-19-Gesetzes vom 25. September 2020[^ingress-1],
+gestützt auf die Artikel 9 Buchstaben a und c, 12 sowie 19 Absatz 2 des Covid-19-Gesetzes vom 25. September 2020[^ingress-1],[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 ## 1. Abschnitt: Grundsatz
 
@@ -125,7 +126,7 @@ Als profitabel oder überlebensfähig gilt ein Unternehmen, das:
 
 <sup>1bis</sup> Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz einer späteren Periode von 12 Monaten verwenden.[^5-1]
 
-<sup>2</sup> ...[^5-2]
+<sup>2</sup> …[^5-2]
 
 [^5-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 ([AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)). Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 [^5-2]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
@@ -290,11 +291,13 @@ Der Vertrag über Beiträge, Darlehen, Bürgschaften oder Garantien, den der Kan
 
 #### Art. 10
 
-**Zeitlicher Rahmen**
+**Zeitlicher Rahmen**[^10-1]
 
-<sup>1</sup> Die Darlehen, Bürgschaften oder Garantien, für die der Kanton im Verlustfall die Beteiligung des Bundes beanspruchen kann, werden zwischen dem 26. September 2020 und dem 31. Dezember 2021 zugesichert oder ausbezahlt.
+<sup>1</sup> Für Darlehen, Bürgschaften oder Garantien, für die der Kanton im Verlustfall die Beteiligung des Bundes beanspruchen kann, werden die Gesuche bis spätestens am 31. März 2022 bei den Kantonen eingereicht.
 
-<sup>2</sup> Die nicht rückzahlbaren Beiträge, für deren Kosten der Kanton die Beteiligung des Bundes beanspruchen kann, werden zwischen dem 26. September 2020 und dem 31. Dezember 2021 ausbezahlt.
+<sup>2</sup> Für nicht rückzahlbare Beiträge, für deren Kosten der Kanton die Beteiligung des Bundes beanspruchen kann, werden die Gesuche bis spätestens am 31. März 2022 bei den Kantonen eingereicht.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. März 2022 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 11
 
@@ -388,7 +391,7 @@ Der Vertrag hält insbesondere fest:
 - a. die rechtlichen Grundlagen auf Bundes- und Kantonsebene;
 - b. die Härtefallmassnahmen des Kantons;
 - c. die Pflichten des Kantons;
-- d.[^16-2] ...
+- d.[^16-2] …
 
 <sup>3</sup> Beansprucht ein Kanton Zusatzbeiträge nach Artikel 15, so schliesst er mit dem SECO bis spätestens am 30. April 2022 einen Vertragszusatz über deren Verwendung ab.[^16-3]
 
@@ -400,7 +403,7 @@ Der Vertrag hält insbesondere fest:
 
 **Zahlungszeitpunkt, Wiedereinbringung und Rückerstattungen**
 
-<sup>1</sup> Die Kantone finanzieren den Unternehmen den gesamten zugesicherten Betrag und stellen dem Bund nachträglich Rechnung.
+<sup>1</sup> Die Kantone finanzieren den Unternehmen den gesamten zugesicherten Betrag und stellen dem Bund nachträglich Rechnung. Berücksichtigt werden können längstens bis zum 31. Dezember 2021 eingetretene Umsatzrückgänge.[^17-1]
 
 <sup>2</sup>
 
@@ -408,14 +411,19 @@ Beiträge des Bundes werden dem Kanton ausbezahlt:
 
 - a. bei rückzahlbaren Darlehen: wenn die Rückzahlung nach Ablauf der Laufzeit nicht oder nicht vollständig erfolgt;
 - b. bei Bürgschaften, wenn sie gezogen, oder bei Garantien, wenn sie eingefordert werden;
-- c. bei nicht rückzahlbaren Beiträgen: im Jahr 2021 und für Restzahlungen im Jahr 2022.
+- c.[^17-2] bei nicht rückzahlbaren Beiträgen: spätestens Ende Dezember 2022 oder, sofern der Kanton wegen eines hängigen Verfahrens vor Verwaltungs- oder Gerichtsinstanzen nicht fristgerecht abrechnen kann, innert 15 Monaten nach Abschluss des Verfahrens.
 
-<sup>3</sup> Wiedereinbringungserträge aus Darlehen und Bürgschaften abzüglich der Kosten für die Wiedereinbringung fallen im Umfang der tatsächlich erfolgten Kostenbeteiligung zugunsten von Bund und Kantonen an.[^17-1]
+<sup>2bis</sup> Für nicht rückzahlbare Beiträge stellt der Kanton dem Bund bis spätestens am 31. August 2022 oder, sofern ein Verfahren vor Verwaltungs- oder Gerichtsinstanzen hängig ist, innert neun Monaten nach Abschluss des Verfahrens Rechnung.[^17-3]
 
-<sup>4</sup> Rückerstattungen von Unternehmen infolge missbräuchlicher Angaben und freiwillige Rückzahlungen von nicht rückzahlbaren Beiträgen fallen im Umfang der tatsächlich erfolgten Kostenbeteiligung zugunsten von Bund und Kantonen an.[^17-2]
+<sup>3</sup> Wiedereinbringungserträge aus Darlehen und Bürgschaften abzüglich der Kosten für die Wiedereinbringung fallen im Umfang der tatsächlich erfolgten Kostenbeteiligung zugunsten von Bund und Kantonen an.[^17-4]
 
-[^17-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
-[^17-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+<sup>4</sup> Rückerstattungen von Unternehmen infolge missbräuchlicher Angaben, freiwillige Rückzahlungen von nicht rückzahlbaren Beiträgen sowie weitere Rückflüsse fallen dem Bund und den Kantonen im Verhältnis ihrer tatsächlichen Kostenbeteiligung an.[^17-5]
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-3]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-4]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^17-5]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 18
 
@@ -433,7 +441,7 @@ Die Berichterstattung der Kantone über die geleisteten und die zugesicherten Un
 
 <sup>1bis</sup> Der Kanton stellt dem SECO auf Anfrage für jede geleistete Unterstützung alle Belege zur Verfügung. Mindestens die Belege zum Gründungszeitpunkt und zum Umsatz des Unternehmens und zur Bestätigung, dass sich das Unternehmen nicht in einem Konkurs- oder Liquidationsverfahren befindet, dürfen nicht auf blosser Selbstdeklaration beruhen.[^18-2]
 
-<sup>2</sup> Die Berichterstattung erfolgt über eine durch das SECO zur Verfügung gestellte Informatiklösung. Sie erfolgt im Jahr 2021 monatlich, ab 2022 halbjährlich. Bis zum 30. Juni 2021 wird sie ergänzt durch wöchentliche Reportings zu den erfolgten Zusicherungen.[^18-3]
+<sup>2</sup> Die Berichterstattung erfolgt über eine durch das SECO zur Verfügung gestellte Informatiklösung. Sie erfolgt bis am 31. Dezember 2021 monatlich, ab dem 1. Januar 2022 quartalsweise und ab dem 1. Juli 2022 halbjährlich.[^18-3]
 
 <sup>3</sup> Die Kantone stellen die Rechnungen nach Artikel 17 Absatz 1 dem SECO für ein Jahr gesamthaft zu. Für nicht rückzahlbare Beiträge kann der Kanton dem Bund halbjährlich Rechnung stellen.
 
@@ -441,7 +449,7 @@ Die Berichterstattung der Kantone über die geleisteten und die zugesicherten Un
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 [^18-2]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
-[^18-3]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^18-3]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 19
 
@@ -508,11 +516,16 @@ Für den Vollzug dieser Verordnung auf Seite des Bundes ist das SECO zuständig.
 
 <sup>1</sup> Diese Verordnung tritt am 1. Dezember 2020 in Kraft.
 
-<sup>2</sup> Sie gilt unter Vorbehalt von Absatz 3 bis zum 31. Dezember 2021.
+<sup>2</sup> Sie gilt unter Vorbehalt der Absätze 3 und 5 bis zum 31. Dezember 2021.[^23-1]
 
 <sup>3</sup> Artikel 21 gilt unter Vorbehalt von Absatz 4 bis zum 31. Dezember 2031.
 
 <sup>4</sup> Absatz 3 tritt in Kraft, wenn die Änderung des Covid-19-Gesetzes vom 25. September 2020 in Kraft tritt, die die Geltungsdauer von Artikel 9 Buchstabe c dieses Gesetzes bis zum 31. Dezember 2031 verlängert.
+
+<sup>5</sup> Die Artikel 9, 11, 13, 17 Absätze 2 Buchstaben a und b, 3 sowie 18 Absatz 1 und 19 gelten bis zum 31. Dezember 2031.[^23-2]
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^23-2]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 Anhang*[^t-1]*
 

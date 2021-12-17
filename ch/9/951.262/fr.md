@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 concernant les mesures pour les cas de ri
 short: OMCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: fr
-version: 2021-12-01
+version: 2021-12-18
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20211218-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20211201/fr"
 
 (Ordonnance COVID-19 cas de rigueur)
 
-du 25 novembre 2020 (Etat le 1<sup>er</sup> décembre 2021)
+du 25 novembre 2020 (Etat le 18 décembre 2021)
 
 Le Conseil fédéral suisse,
 
-vu les art. 9, let. a et c, et 12 de la loi COVID-19 du 25 septembre 2020[^ingress-1],
+vu les art. 9, let. a et c, 12 et 19, al. 2, de la loi COVID-19 du 25 septembre 2020[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 ## Section 1 Principe
 
@@ -290,11 +291,13 @@ Le contrat que le canton conclut avec une entreprise concernant l’octroi de co
 
 #### Art. 10
 
-**Calendrier**
+**Calendrier**[^10-1]
 
-<sup>1</sup> Les prêts, cautionnements ou garanties pour lesquels le canton peut solliciter la participation de la Confédération aux éventuelles pertes sont alloués ou versés entre le 26 septembre 2020 et le 31 décembre 2021.
+<sup>1</sup> Pour les prêts, cautionnements ou garanties pour lesquels le canton peut solliciter la participation de la Confédération aux éventuelles pertes, les demandes sont adressées aux cantons au plus tard le 31 mars 2022.
 
-<sup>2</sup> Les contributions non remboursables pour lesquelles le canton peut solliciter la participation de la Confédération aux coûts sont versées entre le 26 septembre 2020 et le 31 décembre 2021.
+<sup>2</sup> Pour les contributions non remboursables pour lesquelles le canton peut solliciter la participation de la Confédération aux coûts, les demandes sont adressées aux cantons au plus tard le 31 mars 2022.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 mars 2022 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 11
 
@@ -400,7 +403,7 @@ Le contrat précise notamment:
 
 **Moment du versement, recouvrement et remboursements**
 
-<sup>1</sup> Les cantons versent aux entreprises la totalité du montant alloué et adressent ultérieurement une facture à la Confédération.[^17-1]
+<sup>1</sup> Les cantons versent aux entreprises la totalité du montant alloué et adressent ultérieurement une facture à la Confédération. Peuvent être pris en compte les reculs du chiffre d’affaires survenus au plus tard le 31 décembre 2021.[^17-1]
 
 <sup>2</sup>
 
@@ -408,15 +411,19 @@ Les contributions de la Confédération sont versées au canton aux moments suiv
 
 - a. pour les prêts remboursables: dès lors qu’ils ne sont pas remboursés ou ne sont pas remboursés entièrement à l’échéance;
 - b. pour les cautionnements ou les garanties: dès lors qu’ils sont sollicités ou exigés;
-- c. pour les contributions non remboursables: en 2021, et pour le versement du solde: en 2022.
+- c.[^17-2] pour les contributions non remboursables: au plus tard à la fin de décembre 2022 ou, si le canton ne peut pas faire son décompte dans les délais en raison d’une procédure en cours devant une instance administrative ou judiciaire, dans les 15 mois suivant la clôture de la procédure.
 
-<sup>3</sup> Les revenus de recouvrement provenant des prêts et des cautionnements, déduction faite des coûts de recouvrement, sont répartis entre la Confédération et les cantons en fonction de la participation effective aux coûts.[^17-2]
+<sup>2bis</sup> Pour les contributions non remboursables, le canton adresse sa facture à la Confédération au plus tard le 31 août 2022 ou, si une procédure est en cours devant une instance administrative ou judiciaire, dans les 9 mois suivant la clôture de la procédure.[^17-3]
 
-<sup>4</sup> Le montant des remboursements effectués par des entreprises à la suite de fausses déclarations et celui des restitutions volontaires de contributions non remboursables sont répartis entre la Confédération et les cantons en fonction de la participation effective aux coûts.[^17-3]
+<sup>3</sup> Les revenus de recouvrement provenant des prêts et des cautionnements, déduction faite des coûts de recouvrement, sont répartis entre la Confédération et les cantons en fonction de la participation effective aux coûts.[^17-4]
 
-[^17-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
-[^17-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
-[^17-3]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+<sup>4</sup> Le montant des remboursements effectués par des entreprises à la suite de fausses déclarations et celui des restitutions volontaires de contributions non remboursables ainsi que des autres sommes rendues sont répartis entre la Confédération et les cantons en fonction de leur participation effective aux coûts.[^17-5]
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-3]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-4]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^17-5]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 18
 
@@ -434,7 +441,7 @@ Les comptes rendus des cantons sur les mesures de soutien versées ou allouées 
 
 <sup>1bis</sup> Le canton met à la disposition du SECO, à la demande de celui-ci, tous les justificatifs nécessaires pour chaque aide accordée. Les justificatifs concernant la date de création et le chiffre d’affaires de l’entreprise et la confirmation que celle-ci ne fait pas l’objet d’une procédure de faillite ou de liquidation ne doivent pas reposer sur une simple autodéclaration.[^18-2]
 
-<sup>2</sup> Le compte rendu est établi au moyen d’une solution informatique mise à disposition par le SECO. Il est établi une fois par mois en 2021 et une fois par semestre à partir de 2022. Jusqu’au 30 juin 2021, il est complété par des rapports hebdomadaires sur les mesures de soutien allouées.[^18-3]
+<sup>2</sup> Le compte rendu est établi au moyen d’une solution informatique mise à disposition par le SECO. Il est établi une fois par mois jusqu’au 31 décembre 2021, une fois par trimestre à partir du 1<sup>er</sup> janvier 2022 et une fois par semestre à partir du 1<sup>er</sup> juillet 2022.[^18-3]
 
 <sup>3</sup> Les cantons remettent en une fois au SECO les factures visées à l’art. 17, al. 1, pour une année. Ils peuvent remettre à la Confédération les factures relatives aux contributions non remboursables une fois par semestre.
 
@@ -442,7 +449,7 @@ Les comptes rendus des cantons sur les mesures de soutien versées ou allouées 
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 [^18-2]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
-[^18-3]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2021, en vigueur depuis le 19 juin 2021 ([RO 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 #### Art. 19
 
@@ -509,11 +516,16 @@ Le SECO est compétent pour l’exécution de la présente ordonnance pour ce qu
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> décembre 2020.
 
-<sup>2</sup> Elle a effet jusqu’au 31 décembre 2021, sous réserve de l’al. 3.
+<sup>2</sup> Elle a effet jusqu’au 31 décembre 2021, sous réserve des al. 3 et 5.[^23-1]
 
 <sup>3</sup> L’art. 21 a effet jusqu’au 31 décembre 2031, sous réserve de l’al. 4.
 
 <sup>4</sup> L’al. 3 entre en vigueur sous réserve de l’entrée en vigueur de la modification de la loi COVID-19 du 25 septembre 2020, qui prolonge la durée de validité de son art. 9, let. c, jusqu’au 31 décembre 2031.
+
+<sup>5</sup> Les art. 9, 11, 13, 17, al. 2, let. a et b, et 3, 18, al. 1, et 19 ont effet jusqu’au 31 décembre 2031.[^23-2]
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^23-2]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
 Annexe*[^t-1]*
 
