@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-12-04
+version: 2021-12-18
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211204/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211204-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211204/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211218/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211218-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211218/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 4 December 2021)
+of 19 June 2020 (Status as of 18 December 2021)
 
 The Swiss Federal Council,
 
@@ -583,9 +583,9 @@ Where the analysis for Sars-CoV-2 is conducted in accordance with Annex 6 Sectio
 
 <sup>1</sup> Where an insurer is liable to pay for the service under Article 26*a* paragraphs 1 and 3 letter a, the service providers under Article 26 paragraph 2 shall send an invoice for services under Annex 6 for each person tested to the insurer concerned on a case-by-case basis or collectively every quarter at the latest nine months after providing the services. The invoice may only cover services under Annex 6. The invoice shall preferably be sent electronically.
 
-<sup>2</sup> Service providers shall not charge for services under Annex 6 as Position 3186.00 of Annex 3 to the Health Insurance Benefits Ordinance of 29 September 1995[^26b-2] (HIBO).
+<sup>2</sup> Service providers shall not charge for services under Annex 6 as Positions 3186.00, 3188.00 and 3189.00 of Annex 3 to the Health Insurance Benefits Ordinance of 29 September 1995[^26b-2] (HIBO).[^26b-3]
 
-<sup>3</sup> The insurers shall check the invoices and ascertain whether the service provider has charged correctly for the services under Annex 6. They shall comply with Articles 84–84*b* HIA[^26b-3] in processing the data.
+<sup>3</sup> The insurers shall check the invoices and ascertain whether the service provider has charged correctly for the services under Annex 6. They shall comply with Articles 84–84*b* HIA[^26b-4] in processing the data.
 
 <sup>4</sup> At the start of January, April, July and October, they shall notify the FOPH of the number of analyses for which they have paid the service providers, and of the amount paid in each case. The external auditors for the insurers shall each year review the figures and confirm that suitable checks in accordance with paragraph 3 are being made and submit a report to the FOPH. The FOPH may request additional information from the insurers on the amounts paid to each service provider.
 
@@ -593,7 +593,7 @@ Where the analysis for Sars-CoV-2 is conducted in accordance with Annex 6 Sectio
 
 <sup>6</sup> If the invoice for the service sent by the service provider is incorrect, the insurer may claim back any payments already made. Once the Confederation has paid for the service in accordance with paragraph 5, the right to reimbursement passes to the Confederation. The insurers shall provide the Confederation with the data required to exercise its right to reimbursement. The data may not include any sensitive personal data.
 
-<sup>6bis</sup> and <sup>6ter</sup> ...[^26b-4]
+<sup>6bis</sup> and <sup>6ter</sup> ...[^26b-5]
 
 <sup>7</sup> The joint institution shall invoice the FOPH every quarter on a time and material basis for the administrative costs of its activities as an insurer under Article 26*a* paragraphs 1 letter c and 3 letter a. The hourly rate shall be 95 francs and includes salary costs, social insurance payments and infrastructure costs. The actual costs of any expenditure on audits, system modifications and negative interest not included in the administrative costs shall be reimbursed.
 
@@ -601,8 +601,9 @@ Where the analysis for Sars-CoV-2 is conducted in accordance with Annex 6 Sectio
 
 [^26b-1]: Inserted by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26b-2]: [SR 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
-[^26b-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26b-4]: Inserted by No I of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Repealed by No I of the O of 25 Aug. 2021, with effect from 1 Oct. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^26b-3]: Amended by No I of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^26b-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26b-5]: Inserted by No I of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Repealed by No I of the O of 25 Aug. 2021, with effect from 1 Oct. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 26c
 
@@ -820,7 +821,7 @@ Annex 1a*[^t-2]*
 
 ## Persons who have been vaccinated
 
-[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Revised in accordance with Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Revised in accordance with Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) and Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 - 1
 
@@ -1040,7 +1041,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)) und Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Annex No 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) and No II para. 1 of the O of 17 Dec. 2021 in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1051,8 +1052,8 @@ Annex 6*[^t-8]*
   The Confederation shall pay the costs of molecular-biological analyses for Sars-CoV-2 in following cases only:
 
   - a. persons who have symptoms;
-  - b. contact persons who are in quarantine;
-  - c. persons who wish to leave contact quarantine early in accordance with Article 8 of the COVID-19 Special Situation Ordinance of 19 June 2020[^annex6-lvlu1-lvl1-lvl11-1] [^annex6-lvlu1-lvl1-lvl11-2];
+  - b. persons who have been in close contact with an infected person as defined in Article 7 paragraph 1 of the COVID-19 Special Situation Ordinance of 23 June 2021[^annex6-lvlu1-lvl1-lvl11-1];
+  - c. persons who wish to leave contact quarantine early in accordance with Article 8 of the COVID-19 Special Situation Ordinance;
   - d. ...
   - e. persons who have been notified by the SwissCovid app that they have potentially been in close contact with a person infected with Sars-CoV-2; the Confederation shall pay the costs of a single test;
   - f. persons resident abroad who work, study or train in Switzerland, in cases where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering their foreign country of residence and no other authority will cover the costs;
@@ -1083,18 +1084,18 @@ Annex 6*[^t-8]*
 
     - 1\.
 
-      the following service providers under the HIA[^annex6-lvlu1-lvl1-lvl11-3]:
+      the following service providers under the HIA[^annex6-lvlu1-lvl1-lvl11-2]:
 
       - – doctors
       - – pharmacists
       - – hospitals
-      - – laboratories under Article 54 paragraph 3 of the Ordinance of 27 June 1995[^annex6-lvlu1-lvl1-lvl11-4] on Health Insurance (HIO) and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA
+      - – laboratories under Article 54 paragraph 3 of the Ordinance of 27 June 1995[^annex6-lvlu1-lvl1-lvl11-3] on Health Insurance (HIO) and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA
       - – care homes
       - – organisations that provide nursing services and other assistance at home,
 
     - 2\. test centres operated by or on behalf of a canton,
     - 3\. socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment,
-    - 4\. assistants as defined in the InvIA[^annex6-lvlu1-lvl1-lvl11-5];
+    - 4\. assistants as defined in the InvIA[^annex6-lvlu1-lvl1-lvl11-4];
 
   - b. when an analysis is conducted, by laboratories under Article 54 paragraph 3 HIO and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA.
 
@@ -1131,10 +1132,9 @@ Annex 6*[^t-8]*
 </table>
 
 [^annex6-lvlu1-lvl1-lvl11-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex6-lvlu1-lvl1-lvl11-2]: The reference was amended on 26 June 2021 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^annex6-lvlu1-lvl1-lvl11-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^annex6-lvlu1-lvl1-lvl11-4]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^annex6-lvlu1-lvl1-lvl11-5]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annex6-lvlu1-lvl1-lvl11-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex6-lvlu1-lvl1-lvl11-3]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 ### 1. 2Pooled molecular-biological analyses for Sars-CoV-2
 
@@ -1204,7 +1204,7 @@ Annex 6*[^t-8]*
   The Confederation shall pay the costs of analyses for Sars-CoV-2 antibodies:
 
   - a. if instructed to do so by the responsible cantonal body;
-  - b. if instructed to do so by a doctor four weeks after the second vaccination in the case of persons with severe immosuppression;
+  - b. if instructed to do so by a doctor four weeks after full vaccination in accordance with FOPH recommendations in the case of persons with severe immodeficiency;
   - c. if instructed to do so by a doctor with a view to deciding whether a specific person should undergo therapy with monoclonal antibodies.
 
 - 1\.3.2
@@ -1264,8 +1264,8 @@ Annex 6*[^t-8]*
   The Confederation shall pay the costs of immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard in the following cases only:
 
   - a. persons who have symptoms;
-  - b. contact persons who are in quarantine;
-  - c. persons who wish to leave contact quarantine early in accordance with Article 3*e* of the COVID-19 Special Situation Ordinance;
+  - b. persons who have been in close contact with an infected person as defined in Article 7 paragraph 1 of the COVID-19 Special Situation Ordinance;
+  - c. persons who wish to leave contact quarantine early in accordance with Article 8 of the COVID-19 Special Situation Ordinance;
   - d. ...
   - e. persons who have been notified by the SwissCovid app that they have potentially been in close contact with a person infected with Sars-CoV-2; the Confederation shall pay the costs of a single test;
   - f. persons resident abroad who work, study or train in Switzerland, in cases where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering their foreign country of residence and no other authority will cover the costs;
@@ -1278,8 +1278,9 @@ Annex 6*[^t-8]*
   - j.[^annex6-lvlu1-lvl1-lvl14-1] ...
   - k. children under the age of 16;
   - l. persons who can prove that they cannot be vaccinated on medical grounds; as proof, a medical certificate is required from a doctor who who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^annex6-lvlu1-lvl1-lvl14-2];
-  - m. vistors to hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, rehabilitation or for socio-professional rehabilitation or employment;
+  - m. visitors to hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, rehabilitation or for socio-professional rehabilitation or employment;
   - n. persons who do not fall under letters a–m, provided they have already received one dose of a vaccine but they are not vaccinated in accordance with Annex 1*a* number 1, for six weeks from receiving the single dose of the vaccine, in the case of the Janssen Ad26.COV2.S / Covid-19 vaccine, for 22 days.
+  - o. any persons who do not fall under letters a–n.
 
 - 1\.4.2 ...
 - 1\.4.3
@@ -1360,8 +1361,8 @@ Annex 6*[^t-8]*
 
   The Confederation shall pay the costs of diagnostic sequencing for Sars-CoV-2 2 by means of whole genome sequencing only if ordered by the competent cantonal authority and only in the following cases:
 
-  - a. in cases where there is reasonable suspicion of the presence of a Sars-CoV-2 variant, in particular in the case of infection following vaccination, reinfection following previous disease or return from a country or region where a Sars-CoV-2 variant of concern is prevalent;
-  - b. targeted sequencing in the case of conspicuous outbreaks;
+  - a. in cases where there is reasonable suspicion of the presence of a Sars-CoV-2 variant, in particular in the case of specific severe cases in hospitals and in selected cases in persons suffering from severe immunosuppression;
+  - b. the targeted sequencing of samples in the case of outbreaks in hospitals, homes for the elderly and care homes;
   - c. targeted and random sequencing in the event of major outbreaks.
 
 - 1\.6.2
@@ -1388,7 +1389,8 @@ Annex 6*[^t-8]*
 
   - a. persons in accordance with Number 1.4.1 letter k;
   - b. persons in accordance with Number 1.4.1 letter l;
-  - c. persons in accordance with Number 1.4.1 letter n.
+  - c. persons in accordance with Number 1.4.1 letter n;
+  - d. all persons who do not fall under letters a–c.
 
 - 1\.7.2
 
@@ -1568,7 +1570,7 @@ Annex 6*[^t-8]*
 
 - 3\.1.1
 
-  The Confederation shall pay the costs of Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard only in following cases:
+  The Confederation shall pay the costs of Sars-CoV-2 rapid tests for specialist use only in following cases:
 
   - a. where targeted and repetitive testing is carried out in hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment;
   - b. where targeted and repetitive testing is carried out in businesses and clubs, provided the responsible authority or organisation in the canton submits a plan to the FOPH;

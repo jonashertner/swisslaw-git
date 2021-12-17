@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-12-04
+version: 2021-12-18
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211204/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211204-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211204/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211218-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211204/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 4 décembre 2021)
+du 19 juin 2020 (Etat le 18 décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -581,9 +581,9 @@ Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, 
 
 <sup>1</sup> Si un assureur est le débiteur de la rémunération de la prestation au sens de l’art. 26*a,* al. 1 et 3, let. a, les fournisseurs de prestations envoient à l’assureur compétent la facture relative aux prestations visées à l’annexe 6 par personne testée, au cas par cas ou de manière groupée sur une base trimestrielle, au plus tard 9 mois après la fourniture des prestations. La facture ne peut contenir que les prestations visées à l’annexe 6. Dans l’idéal, la transmission se fait par voie électronique.
 
-<sup>2</sup> Les fournisseurs de prestations ne peuvent pas facturer les prestations visées à l’annexe 6 selon la position 3186.00 de l’annexe 3 de l’ordonnance du 29 septembre 1995 sur les prestations de l’assurance des soins (OPAS)[^26b-2].
+<sup>2</sup> Les fournisseurs de prestations ne peuvent pas facturer les prestations visées à l’annexe 6 selon les positions 3186.00, 3188.00 et 3189.00 de l’annexe 3 de l’ordonnance du 29 septembre 1995 sur les prestations de l’assurance des soins (OPAS)[^26b-2].[^26b-3]
 
-<sup>3</sup> Les assureurs contrôlent les factures et vérifient si le fournisseur de prestations a facturé correctement les prestations au sens de l’annexe 6. Ils traitent les données conformément aux art. 84 à 84*b* LAMal[^26b-3].
+<sup>3</sup> Les assureurs contrôlent les factures et vérifient si le fournisseur de prestations a facturé correctement les prestations au sens de l’annexe 6. Ils traitent les données conformément aux art. 84 à 84*b* LAMal[^26b-4].
 
 <sup>4</sup> Ils communiquent à l’OFSP le nombre d’analyses qu’ils ont remboursées aux fournisseurs de prestations, ainsi que le montant remboursé au début des mois de janvier, d’avril, de juillet et d’octobre. Les services de révision externes des assureurs procèdent à un contrôle annuel des communications et de l’existence de contrôles appropriés au sens de l’al. 3 et font rapport à l’OFSP. L’OFSP peut demander aux assureurs des informations supplémentaires relatives aux montants remboursés par fournisseur de prestations.
 
@@ -591,7 +591,7 @@ Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, 
 
 <sup>6</sup> Si la prestation a été indûment facturée par le fournisseur de prestations, l’assureur peut exiger de lui la restitution du montant déjà remboursé. Avec le paiement de la prestation par la Confédération au sens de l’al. 5, un éventuel droit au remboursement échoit à la Confédération. Les assureurs communiquent à la Confédération les données nécessaires pour faire valoir le droit au remboursement. Les données ne doivent pas contenir de données sensibles.
 
-<sup>6bis</sup> et <sup>6ter</sup> …[^26b-4]
+<sup>6bis</sup> et <sup>6ter</sup> …[^26b-5]
 
 <sup>7</sup> Tous les trois mois, l’institution commune facture à l’OFSP ses frais administratifs liés à son activité en tant qu’assureur au sens de l’art. 26*a*, al. 1, let. c, et 3, let. a, sur la base de ses coûts effectifs. Le tarif horaire est de 95 francs et comprend les coûts liés aux salaires, aux prestations sociales et aux infrastructures. S’agissant des dépenses qui ne sont pas incluses dans les frais administratifs concernant d’éventuels révisions, modifications du système et intérêts négatifs, les coûts effectifs sont remboursés.
 
@@ -599,8 +599,9 @@ Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, 
 
 [^26b-1]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26b-2]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
-[^26b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26b-4]: Introduits par le ch. I de l’O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Abrogés par le ch. I de l’O du 25 août 2021, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^26b-3]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^26b-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26b-5]: Introduits par le ch. I de l’O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Abrogés par le ch. I de l’O du 25 août 2021, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 26c
 
@@ -1030,7 +1031,7 @@ Annexe 6*[^t-8]*
 
 ## Prestations et montants maximaux pris en charge pour les analyses pour le SARS-CoV-2
 
-[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II des O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et du 23 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), l’erratum du 23 juin 2021 ([RO 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), l’annexe ch. 3 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II al. 2 de l’O du 25 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), le ch. II de l’O du 1<sup>er</sup> oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)) et l’annexe ch. 1 de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II des O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et du 23 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), l’erratum du 23 juin 2021 ([RO 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), l’annexe ch. 3 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II al. 2 de l’O du 25 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), le ch. II de l’O du 1<sup>er</sup> oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), l’annexe ch. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) et le ch. II al. 1 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 Tarif régulier pour les dépistages axés sur les symptômes et le nombre de cas
 
@@ -1041,10 +1042,10 @@ Annexe 6*[^t-8]*
   La Confédération ne prend en charge les coûts des analyses de biologie moléculaire pour le SARS-CoV-2 que dans les cas suivants:
 
   - a. pour les personnes symptomatiques;
-  - b. pour les personnes-contacts qui sont en quarantaine;
-  - c. pour les personnes souhaitant mettre fin de manière anticipée à une quarantaine-contact en vertu de l’art. 8 de l’ordonnance COVID-19 du 19 juin 2020 situation particulière[^annex6-lvlu1-lvl1-lvl11-1] [^annex6-lvlu1-lvl1-lvl11-2];
+  - b. pour les personnes qui ont eu un contact étroit au sens de l’art. 7, al. 1, de l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^annex6-lvlu1-lvl1-lvl11-1];
+  - c. pour les personnes souhaitant mettre fin de manière anticipée à une quarantaine-contact en vertu de l’art. 8 de l’ordonnance COVID-19 situation particulière;
   - d. ...
-  - e. pour les personnes qui reçoivent une notification de l’application SwissCovid selon laquelle elles ont potentiellement eu un contact étroit avec une personne infectée au SARS-CoV-2; la Confédération prend en charge les coûts pour un test unique, qui peut être effectué au plus tôt le 5<sup>e</sup> jour après la notification de l’application SwissCovid;
+  - e. pour les personnes qui reçoivent une notification de l’application SwissCovid selon laquelle elles ont potentiellement été en contact étroit avec une personne infectée au SARS-CoV-2;
   - f. pour les personnes domiciliées à l’étranger qui travaillent ou suivent une formation en Suisse, à condition qu’elles aient l’obligation, à l’entrée dans leur pays de domicile, de présenter un résultat négatif à un test de biologie moléculaire pour le SARS-CoV-2 et que les coûts ne soient pas pris en charge autrement;
   - g. pour les personnes domiciliées en Suisse qui travaillent ou suivent une formation à l’étranger, à condition qu’elles aient l’obligation, à l’entrée dans le pays étranger, de présenter un résultat négatif à un test de biologie moléculaire pour le SARS-CoV-2 et que les coûts ne soient pas pris en charge autrement;
   - h.
@@ -1070,20 +1071,20 @@ Annexe 6*[^t-8]*
 
     - 1\.
 
-      les fournisseurs de prestations suivants visés par la LAMal[^annex6-lvlu1-lvl1-lvl11-3]:
+      les fournisseurs de prestations suivants visés par la LAMal[^annex6-lvlu1-lvl1-lvl11-2]:
 
       - – médecins
       - – pharmaciens
       - – hôpitaux
-      - – laboratoires visés à l’art. 54, al. 3, de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^annex6-lvlu1-lvl1-lvl11-4] et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
+      - – laboratoires visés à l’art. 54, al. 3, de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^annex6-lvlu1-lvl1-lvl11-3] et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
       - – établissements médico-sociaux
       - – organisations de soins et d’aide à domicile,
 
     - 2\. les centres de tests exploités par le canton ou sur son mandat,
     - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
-    - 4\. les assistants au sens de la LAI[^annex6-lvlu1-lvl1-lvl11-5];
+    - 4\. les assistants au sens de la LAI[^annex6-lvlu1-lvl1-lvl11-4];
 
-- b. pour l’analyse par les laboratoires visés à l’art. 54, al. 3, OAMal[^annex6-lvlu1-lvl1-lvl11-6] et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
+- b. pour l’analyse par les laboratoires visés à l’art. 54, al. 3, OAMal[^annex6-lvlu1-lvl1-lvl11-5] et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
 - 1\.1.3
 
   Elle prend en charge au maximum 153,50 francs pour les analyses de biologie moléculaire pour le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
@@ -1118,11 +1119,10 @@ Annexe 6*[^t-8]*
 </table>
 
 [^annex6-lvlu1-lvl1-lvl11-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex6-lvlu1-lvl1-lvl11-2]: Le renvoi a été adapté au 26 juin 2021 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^annex6-lvlu1-lvl1-lvl11-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^annex6-lvlu1-lvl1-lvl11-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^annex6-lvlu1-lvl1-lvl11-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^annex6-lvlu1-lvl1-lvl11-6]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex6-lvlu1-lvl1-lvl11-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annex6-lvlu1-lvl1-lvl11-5]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 ### 1.2 Analyses poolées de biologie moléculaire pour le SARS-CoV-2
 
@@ -1192,7 +1192,7 @@ Annexe 6*[^t-8]*
   La Confédération prend en charge les coûts pour les analyses des anticorps contre le SARS-CoV-2:
 
   - a. si elles ont été ordonnées par le service cantonal compétent;
-  - b. sur ordonnance médicale quatre semaines après la deuxième vaccination chez les personnes fortement immunosupprimées;
+  - b. sur ordonnance médicale quatre semaines après la vaccination complète selon les recommandations de l’OFSP chez les personnes fortement immunodéficientes;
   - c. sur ordonnance médicale en vue de décider si chez certaines personnes une thérapie par anticorps monoclonaux doit être effectuée.
 
 - 1\.3.2
@@ -1249,11 +1249,11 @@ Annexe 6*[^t-8]*
 
 - 1\.4.1
 
-  La Confédération prend en charge les coûts pour les analyses des antigènes du SARS-CoV-2 par immunologie et pour les tests rapides SARS-CoV-2 avec application par un professionnel uniquement dans les cas suivants:
+  La Confédération prend en charge les coûts pour les analyses des antigènes du SARS-CoV-2 par immunologie et pour les tests rapides SARS-CoV-2 avec application par un professionnel dans les cas suivants:
 
   - a. pour les personnes symptomatiques;
-  - b. pour les personnes-contacts qui sont en quarantaine,
-  - c. pour les personnes souhaitant mettre fin de manière anticipée à une quarantaine-contact en vertu de l’art. 3*e* de l’ordonnance COVID-19 situation particulière;
+  - b. pour les personnes qui ont eu un contact étroit au sens de l’art. 7, al. 1, de l’ordonnance COVID-19 situation particulière;
+  - c. pour les personnes souhaitant mettre fin de manière anticipée à une quarantaine-contact en vertu de l’art. 8 de l’ordonnance COVID-19 situation particulière;
   - d. ...
   - e. pour les personnes qui reçoivent une notification de l’application SwissCovid selon laquelle elles ont potentiellement eu un contact étroit avec une personne infectée au SARS-CoV-2; la Confédération prend en charge les coûts pour un test unique;
   - f. pour les personnes domiciliées à l’étranger qui travaillent ou suivent une formation en Suisse, à condition qu’elles aient l’obligation, à l’entrée dans leur pays de domicile, de présenter un résultat négatif à une analyse des antigènes du SARS-CoV-2 par immunologie ou à un test rapide SARS-CoV-2 avec application par un professionnel et que les coûts ne soient pas pris en charge autrement;
@@ -1267,7 +1267,8 @@ Annexe 6*[^t-8]*
   - k. pour les enfants de moins de 16 ans;
   - l. pour les personnes pouvant attester qu’elles ne peuvent pas se faire vacciner pour des motifs médicaux; l’invocation de raisons médicales doit pouvoir être attestée par un certificat délivré par un médecin titulaire d’une autorisation d’exercer sa profession sous sa propre responsabilité professionnelle au sens de la loi du 23 juin 2006 sur les professions médicales[^annex6-lvlu1-lvl1-lvl14-2];
   - m. pour les visiteurs des hôpitaux, des établissements médico-sociaux et des autres institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation;
-  - n. pour les personnes qui ne remplissent pas les critères des let. a à m, si elles ont reçu une dose de vaccin mais qu’elles ne sont pas encore vaccinées conformément à l’annexe 1*a*, ch. 1, pendant 6 semaines à compter de l’administration du vaccin; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen pendant 22 jours.
+  - n. pour les personnes qui ne remplissent pas les critères des let. a à m, si elles ont reçu une dose de vaccin mais qu’elles ne sont pas encore vaccinées conformément à l’annexe 1*a*, ch. 1, pendant 6 semaines à compter de l’administration du vaccin; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen pendant 22 jours;
+  - o. pour toutes les personnes qui ne sont pas visées par les let. a à n.
 
 - 1\.4.2 ...
 - 1\.4.3
@@ -1341,8 +1342,8 @@ Annexe 6*[^t-8]*
 ### 1.6 Séquençage diagnostique du SARS-CoV-2
 
 - 1\.6.1 La Confédération prend en charge les coûts pour le séquençage diagnostique du SARS-CoV-2 à l’aide d’un séquençage complet du génome uniquement sur ordre du service cantonal compétent et uniquement dans les cas suivants:
-- a. en cas de soupçon fondé concernant la présence d’un variant préoccupant du SARS-CoV-2, notamment en cas d’infection après une vaccination, de réinfection après avoir guéri de la maladie ou de retour depuis un pays ou une région où un variant préoccupant du SARS-CoV-2 est répandu;
-- b. séquençages ciblés en cas de flambées frappantes;
+- a. en cas de soupçon fondé concernant la présence d’un variant préoccupant du SARS-CoV-2, notamment en cas de formes individuelles graves dans les hôpitaux et, dans certains cas, chez des personnes fortement immunosupprimées;
+- b. séquençages ciblés de prélèvements en cas de flambées dans les hôpitaux et les établissements médicaux-sociaux;
 - c. séquençages ciblés et par échantillonnage lors d’importantes flambées.
 - 1\.6.2
 
@@ -1368,7 +1369,8 @@ Annexe 6*[^t-8]*
 
   - a. personnes visées au ch. 1.4.1, let. k;
   - b. personnes visées au ch. 1.4.1, let l;
-  - c. personnes visées au ch. 1.4.1, let. n.
+  - c. personnes visées au ch. 1.4.1, let. n;
+  - d. toutes les personnes qui ne sont pas visées par les let. a à c.
 
 - 1\.7.2
 
@@ -1606,12 +1608,12 @@ Annexe 6*[^t-8]*
 <tr><td colspan="2">– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
 <tr><td colspan="2">– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
 <tr><td colspan="2">– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
-<tr><td colspan="2">– pour la réalisation d’un pooling centralisé dans les cas visés au ch. 3.2.1, let. b et c, par création de pool</td><td>18,50 francs</td></tr>
+<tr><td colspan="2">– pour la réalisation d’un pooling centralisé dans les cas visés au ch. 3.2.1, par création de pool</td><td>18,50 francs</td></tr>
 <tr><td colspan="2">Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>255 francs</td></tr>
 <tr><td colspan="2">– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
 <tr><td colspan="2">– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
 <tr><td colspan="2">– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
-<tr><td colspan="2">– Pour la réalisation d’un pooling centralisé dans les cas visés au ch. 3.2.1, let. b et c, par création de pool</td><td>18,50 francs</td></tr>
+<tr><td colspan="2">– pour la réalisation d’un pooling centralisé dans les cas visés au ch. 3.2.1, par création de pool</td><td>18,50 francs</td></tr>
 <tr><td>Pour l’établissement du certificat de test COVID-19</td><td>2,50 francs</td></tr>
 </table>
 

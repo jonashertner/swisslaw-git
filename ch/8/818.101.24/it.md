@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-12-04
+version: 2021-12-18
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211204/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211204-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211204/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211218-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211204/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 4 dicembre 2021) (Stato 4 dicembre 2021)
+del 19 giugno 2020 (Stato 18 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -581,9 +581,9 @@ Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1
 
 <sup>1</sup> Se secondo l’articolo 26*a* capoversi 1 e 3 lettera a il debitore della rimunerazione delle prestazioni è l’assicuratore, i fornitori di prestazioni inviano all’assicuratore competente la fattura per le prestazioni secondo l’allegato 6 per persona testata di volta in volta o cumulando le prestazioni trimestralmente, al più tardi nove mesi dopo la fornitura delle prestazioni. La fattura può comprendere soltanto le prestazioni di cui all’allegato 6. L’invio avviene preferibilmente per via elettronica.
 
-<sup>2</sup> I fornitori di prestazioni non possono fatturare le prestazioni secondo l’allegato 6 applicando la posizione 3186.00 dell’allegato 3 dell’ordinanza del 29 settembre 1995[^26b-2] sulle prestazioni (OPre).
+<sup>2</sup> I fornitori di prestazioni non possono fatturare le prestazioni secondo l’allegato 6 applicando le posizioni 3186.00, 3188.00 e 3189.00 dell’allegato 3 dell’ordinanza del 29 settembre 1995[^26b-2] sulle prestazioni (OPre).[^26b-3]
 
-<sup>3</sup> Gli assicuratori controllano le fatture e verificano se il fornitore di prestazioni ha fatturato correttamente le prestazioni secondo l’allegato 6. Nell’elaborazione dei dati osservano gli articoli 84–84*b* LAMal[^26b-3].
+<sup>3</sup> Gli assicuratori controllano le fatture e verificano se il fornitore di prestazioni ha fatturato correttamente le prestazioni secondo l’allegato 6. Nell’elaborazione dei dati osservano gli articoli 84–84*b* LAMal[^26b-4].
 
 <sup>4</sup> All’inizio di gennaio, aprile, luglio e ottobre comunicano all’UFSP il numero di analisi che hanno rimunerato ai fornitori di prestazioni e l’importo rimunerato. Annualmente, gli uffici esterni di revisione degli assicuratori esaminano le dichiarazioni e l’esistenza di opportuni controlli ai sensi del capoverso 3 e fanno rapporto all’UFSP. L’UFSP può esigere dagli assicuratori informazioni supplementari sugli importi rimunerati per fornitore di prestazioni.
 
@@ -591,7 +591,7 @@ Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1
 
 <sup>6</sup> Se la prestazione è stata fatturata indebitamente dal fornitore di prestazioni, l’assicuratore può esigere la restituzione delle rimunerazioni già versate. Con il pagamento della prestazione da parte della Confederazione secondo il capoverso 5, un eventuale diritto alla restituzione passa alla Confederazione. Gli assicuratori comunicano alla Confederazione i dati necessari per esercitare il diritto alla restituzione. I dati non possono contenere dati personali degni di particolare protezione.
 
-<sup>6bis</sup> e <sup>6ter</sup> ...[^26b-4]
+<sup>6bis</sup> e <sup>6ter</sup> ...[^26b-5]
 
 <sup>7</sup> L’istituzione comune fattura trimestralmente all’UFSP le spese amministrative per la sua attività di assicuratore secondo l’articolo 26*a* capoversi 1 lettera c e 3 lettera a secondo l’onere. La tariffa oraria ammonta a 95 franchi e comprende le spese salariali, i contributi sociali e le spese infrastrutturali. Per le spese non incluse nelle spese amministrative per eventuali revisioni, adattamenti dei sistemi e interessi negativi sono rimunerati i costi effettivi.
 
@@ -599,8 +599,9 @@ Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1
 
 [^26b-1]: Introdotto dal n. I dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26b-2]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
-[^26b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26b-4]: Introdotti dal n. I dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Abrogati dal n. I dell’O del 25 ago. 2021, con effetto dal 1° ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^26b-3]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^26b-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26b-5]: Introdotti dal n. I dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Abrogati dal n. I dell’O del 25 ago. 2021, con effetto dal 1° ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 26c
 
@@ -974,7 +975,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), dal n. II dell’O del 1° ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)) e dall’all. n. 1 dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), dal n. II dell’O del 1° ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), dall’all. n. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) e dal n. II cpv. 1 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -985,8 +986,8 @@ Allegato 6*[^t-8]*
   La Confederazione assume le spese per le analisi di biologia molecolare per il SARS-CoV-2 soltanto nei seguenti casi:
 
   - a. per le persone sintomatiche;
-  - b. per i contatti in quarantena;
-  - c. per le persone che desiderano concludere anticipatamente la quarantena dei contatti secondo l’articolo 8 dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^annex6-lvlu1-lvl1-lvl11-1] [^annex6-lvlu1-lvl1-lvl11-2];
+  - b. per le persone che hanno avuto un contatto stretto ai sensi dell’articolo 7 capoverso 1 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^annex6-lvlu1-lvl1-lvl11-1];
+  - c. per le persone che desiderano concludere anticipatamente la quarantena dei contatti secondo l’articolo 8 dell’ordinanza COVID-19 situazione particolare;
   - d. ...
   - e. per le persone informate dall’app SwissCovid di essere potenzialmente entrate in contatto stretto con una persona infettata dal SARS-CoV-2; la Confederazione assume le spese per un singolo test;
   - f. per le persone domiciliate all’estero che lavorano o seguono una formazione in Svizzera, se per entrare nello Stato estero di residenza è richiesto il risultato negativo di un’analisi di biologia molecolare per il SARS-CoV-2 e i costi non sono assunti in altro modo;
@@ -1017,18 +1018,18 @@ Allegato 6*[^t-8]*
 
     - 1\.
 
-      dai seguenti fornitori di prestazioni secondo la LAMal[^annex6-lvlu1-lvl1-lvl11-3]:
+      dai seguenti fornitori di prestazioni secondo la LAMal[^annex6-lvlu1-lvl1-lvl11-2]:
 
       - – medici
       - – farmacisti
       - – ospedali
-      - – laboratori di cui all’articolo 54 capoverso 3 dell’ordinanza del 27 giugno 1995[^annex6-lvlu1-lvl1-lvl11-4] sull’assicurazione malattie (OAMal) e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp
+      - – laboratori di cui all’articolo 54 capoverso 3 dell’ordinanza del 27 giugno 1995[^annex6-lvlu1-lvl1-lvl11-3] sull’assicurazione malattie (OAMal) e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp
       - – case di cura
       - – organizzazioni di cure e d’aiuto a domicilio,
 
     - 2\. da centri di test gestiti dal Cantone o su suo incarico,
     - 3\. da istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale,
-    - 4\. da assistenti secondo la LAI[^annex6-lvlu1-lvl1-lvl11-5];
+    - 4\. da assistenti secondo la LAI[^annex6-lvlu1-lvl1-lvl11-4];
 
   - b. per l’analisi, da laboratori di cui all’articolo 54 capoverso 3 OAMal e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp.
 
@@ -1067,10 +1068,9 @@ Allegato 6*[^t-8]*
 </table>
 
 [^annex6-lvlu1-lvl1-lvl11-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex6-lvlu1-lvl1-lvl11-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 26 giu. 2021.
-[^annex6-lvlu1-lvl1-lvl11-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^annex6-lvlu1-lvl1-lvl11-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^annex6-lvlu1-lvl1-lvl11-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annex6-lvlu1-lvl1-lvl11-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex6-lvlu1-lvl1-lvl11-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 ### 1.2 Analisi di biologia molecolare aggregate per il SARS-CoV-2
 
@@ -1140,7 +1140,7 @@ Allegato 6*[^t-8]*
   La Confederazione assume le spese per le analisi per gli anticorpi contro il SARS-CoV-2:
 
   - a. su ordine del servizio cantonale competente;
-  - b. su prescrizione medica, quattro settimane dopo la seconda vaccinazione in persone con immunosoppressione grave;
+  - b. su prescrizione medica, quattro settimane dopo la vaccinazione completa secondo le raccomandazioni dell’UFSP in persone con grave immunodeficienza;
   - c. su prescrizione medica per decidere se determinate persone debbano sottoporsi a una terapia con anticorpi monoclonali.
 
 - 1\.3.2
@@ -1197,11 +1197,11 @@ Allegato 6*[^t-8]*
 
 - 1\.4.1
 
-  La Confederazione assume le spese per le analisi immunologiche degli antigeni SARS-CoV-2 e per i test rapidi SARS-CoV-2 per uso professionale soltanto nei seguenti casi:
+  La Confederazione assume le spese per le analisi immunologiche degli antigeni SARS-CoV-2 e per i test rapidi SARS-CoV-2 per uso professionale nei seguenti casi:
 
   - a. per le persone sintomatiche;
-  - b. per i contatti in quarantena;
-  - c. per le persone che desiderano concludere anticipatamente la quarantena dei contatti secondo l’articolo 3*e* dell’ordinanza COVID-19 situazione particolare;
+  - b. per le persone che hanno avuto un contatto stretto ai sensi dell’articolo 7 capoverso 1 dell’ordinanza COVID-19 situazione particolare;
+  - c. per le persone che desiderano concludere anticipatamente la quarantena dei contatti secondo l’articolo 8 dell’ordinanza COVID-19 situazione particolare;
   - d. ...
   - e. per le persone informate dall’app SwissCovid di essere potenzialmente entrate in contatto stretto con una persona infettata dal SARS-CoV-2; la Confederazione assume le spese per un singolo test;
   - f. per le persone domiciliate all’estero che lavorano o seguono una formazione in Svizzera, se per entrare nello Stato estero di residenza è richiesto il risultato negativo di un’analisi immunologica degli antigeni SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale e i costi non sono assunti in altro modo;
@@ -1215,7 +1215,8 @@ Allegato 6*[^t-8]*
   - k. bambini al di sotto dei 16 anni;
   - l. persone che possono attestare di non potersi far vaccinare per motivi medici; quale attestato è ammesso il certificato di un medico autorizzato a esercitare la professione sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006[^annex6-lvlu1-lvl1-lvl14-2] sulle professioni mediche;
   - m. visitatori di ospedali, case di cura e per anziani nonché altri istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale;
-  - n. per le persone che non rientrano nelle lettere a–m, se è già stata somministrata loro una dose di vaccino, ma non sono ancora vaccinate secondo l’allegato 1*a* numero 1, per sei settimane dalla somministrazione della dose di vaccino; nel caso del vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen per 22 giorni.
+  - n. per le persone che non rientrano nelle lettere a–m, se è già stata somministrata loro una dose di vaccino, ma non sono ancora vaccinate secondo l’allegato 1*a* numero 1, per sei settimane dalla somministrazione della dose di vaccino; nel caso del vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen per 22 giorni;
+  - o. per tutte le persone che non rientrano nelle lettere a–n.
 
 - 1\.4.2 ...
 - 1\.4.3
@@ -1296,8 +1297,8 @@ Allegato 6*[^t-8]*
 
   La Confederazione assume le spese per il sequenziamento diagnostico del SARS-CoV-2 mediante sequenziamento completo del genoma solo su ordine del servizio cantonale competente e solo nei seguenti casi:
 
-  - a. in caso di sospetto fondato della presenza di una variante di SARS-CoV-2 preoccupante, in particolare in caso di infezione dopo una vaccinazione, reinfezione dopo una precedente malattia o ritorno da uno Stato o una regione in cui è diffusa una variante di SARS-CoV-2 preoccupante;
-  - b. sequenziamenti mirati in caso di focolai insoliti;
+  - a. in caso di sospetto fondato della presenza di una variante di SARS-CoV‑2 preoccupante, in particolare in caso di decorsi individuali gravi in ospedale e casi selezionati di persone con immunosoppressione grave;
+  - b. sequenziamenti mirati di campioni in caso di focolai in ospedali o case per anziani e di cura;
   - c. sequenziamenti mirati eseguiti a campione in caso di focolai consistenti.
 
 - 1\.6.2.
@@ -1324,7 +1325,8 @@ Allegato 6*[^t-8]*
 
   - a. le persone di cui al numero 1.4.1 lettera k;
   - b. le persone di cui al numero 1.4.1 lettera l;
-  - c. le persone di cui al numero 1.4.1 lettera n.
+  - c. le persone di cui al numero 1.4.1 lettera n;
+  - d. per tutte le persone che non rientrano nelle lettere a–c.
 
 - 1\.7.2
 
@@ -1561,13 +1563,13 @@ Allegato 6*[^t-8]*
 <tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>274 fr.</td></tr>
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
-<tr><td>– supplemento per ogni altro campione prelevato fino a una dimensione massima del campione di 25 campioni singoli</td><td>8 fr.</td></tr>
-<tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1 lettere b e c, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
+<tr><td>– supplemento per ogni altro campione prelevato fino a una dimensione massima del campione aggregato di 25 campioni singoli</td><td>8 fr.</td></tr>
+<tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
 <tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>255 fr.</td></tr>
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>5 fr.</td></tr>
 <tr><td>– supplemento per ogni altro campione prelevato fino a una dimensione massima del campione aggregato di 25 campioni singoli</td><td>8 fr.</td></tr>
-<tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1 lettere b e c, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
+<tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
 <tr><td>Per l’emissione del certificato di test COVID-19</td><td>2.50 fr.</td></tr>
 </table>
 
