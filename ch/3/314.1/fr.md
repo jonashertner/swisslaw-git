@@ -4,11 +4,11 @@ title: "Loi du 18 mars 2016 sur les amendes d'ordre (LAO)"
 short: LAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: fr
-version: 2020-12-19
+version: 2021-12-18
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20201219/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20201219-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20201219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20211218-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20211218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20201219/fr"
 
 (LAO)[^t-1]
 
-du 18 mars 2016 (Etat le 19 décembre 2020)
+du 18 mars 2016 (Etat le 18 décembre 2021)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -83,7 +83,7 @@ Est sanctionné par une amende d’ordre dans une procédure simplifiée (procé
 [^1-10]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^1-11]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^1-12]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^1-13]: Introduit par le ch. II 1 de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^1-13]: Introduit par le ch. II 1 de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2022 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 2; [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^1-14]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^1-15]: [RS 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
 [^1-16]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)

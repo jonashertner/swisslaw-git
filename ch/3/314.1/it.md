@@ -4,11 +4,11 @@ title: Legge del 18 marzo 2016 sulle multe disciplinari (LMD)
 short: LMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: it
-version: 2020-12-19
+version: 2021-12-18
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20201219/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20201219-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20201219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20211218-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20211218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20201219/it"
 
 (LMD)
 
-del 18 marzo 2016 (Stato 19 dicembre 2020)
+del 18 marzo 2016 (Stato 18 dicembre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -81,7 +81,7 @@ decreta:
 [^1-10]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^1-11]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^1-12]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^1-13]: Introdotto dal n. II 1 della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^1-13]: Introdotto dal n. II 1 della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2022 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 2; [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^1-14]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^1-15]: [RS 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
 [^1-16]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)

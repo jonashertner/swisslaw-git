@@ -4,11 +4,11 @@ title: Ordnungsbussengesetz vom 18. März 2016 (OBG)
 short: OBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: de
-version: 2020-12-19
+version: 2021-12-18
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20201219/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20201219-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20201219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20211218-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20211218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20201219/de"
 
 (OBG)
 
-vom 18. März 2016 (Stand am 19. Dezember 2020)
+vom 18. März 2016 (Stand am 18. Dezember 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -82,7 +82,7 @@ Mit Ordnungsbusse wird in einem vereinfachten Verfahren (Ordnungsbussenverfahren
 [^1-11]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^1-12]: Fassung gemäss Art. 17.
 [^1-13]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^1-14]: Eingefügt durch Ziff. II 1 des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^1-14]: Eingefügt durch Ziff. II 1 des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^1-15]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^1-16]: [SR 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
 [^1-17]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
@@ -275,7 +275,7 @@ Mit Inkrafttreten des Lebensmittelgesetzes vom 20. Juni 2014[^17-1] lautet die n
 
 Art. 1 Abs. 1 Bst. a Ziff. 12
 
-...[^17-2]
+…[^17-2]
 
 [^17-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62); [BBl 2014 5079](https://fedlex.data.admin.ch/eli/fga/2014/1085)
 [^17-2]: Text eingefügt hiervor.
@@ -306,7 +306,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666), [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)Ziff. II, [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821)]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)konsultiert werden.
