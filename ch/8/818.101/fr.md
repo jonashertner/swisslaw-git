@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 septembre 2012 sur la lutte contre les maladies tra
 short: LEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: fr
-version: 2020-06-25
+version: 2021-12-18
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20200625/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20200625-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20200625/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20211218-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20211218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20200625/fr"
 
 (Loi sur les épidémies, LEp)
 
-du 28 septembre 2012 (Etat le 25 juin 2020)
+du 28 septembre 2012 (Etat le 18 décembre 2021)
 
 *L’Assemblée fédérale de la Confédération suisse,*
 
@@ -387,7 +387,7 @@ Le Conseil fédéral peut édicter les dispositions suivantes:
 - c.[^29-1] fixer les conditions auxquelles doivent répondre l’équipement du milieu confiné ainsi que la formation et la formation continue des personnes qui utilisent des agents pathogènes;
 - d. prescrire que les contenants renfermant des agents pathogènes doivent porter une marque distinctive.
 
-[^29-1]: Nouvelle teneur selon le ch. 34 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^29-1]: Nouvelle teneur selon l’annexe ch. 34 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ## Chapitre 5 Mesures de lutte
 
@@ -809,7 +809,7 @@ Le système TP est conçu selon les principes suivants:
 
 <sup>8</sup> Le Conseil fédéral prévoit l’arrêt du système TP, en particulier la désactivation ou la désinstallation de tous les composants installés sur les téléphones portables, dès que le système TP n’est plus requis ou qu’il ne se révèle pas suffisamment efficace pour lutter contre l’épidémie causée par le coronavirus.
 
-[^60a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437)[2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024)).
+[^60a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 61
 
@@ -852,7 +852,7 @@ Le système TP visé à l’art. 60*a* peut être relié à des système étrang
 - a. la législation, ou
 - b. des garanties suffisantes, notamment contractuelles.
 
-[^62a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437)[2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024)).
+[^62a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 ## Chapitre 8 Indemnisation
 
@@ -1052,7 +1052,7 @@ Le Conseil fédéral peut conclure des accords internationaux concernant:
 
 <sup>3</sup> L’OFSP assume les tâches du «point focal national» conformément au Règlement sanitaire international (2005) du 23 mai 2005[^80-2]. Il signale en particulier à l’OMS les événements susceptibles de présenter une urgence de santé publique de portée internationale.
 
-[^80-1]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437)[2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024)).
+[^80-1]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^80-2]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
 
 #### Art. 81
@@ -1103,7 +1103,7 @@ Est puni d’une amende quiconque, intentionnellement:
 
 <sup>2</sup> Quiconque agit par négligence est puni d’une amende de 5000 francs au plus pour les contraventions visées à l’al. 1.
 
-[^83-1]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437)[2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024)).
+[^83-1]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 84
 
