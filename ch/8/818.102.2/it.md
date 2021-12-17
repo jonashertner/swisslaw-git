@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-12-14
+version: 2021-12-18
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211214/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211214-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211214/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211218-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211214/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 14 dicembre 2021)
+del 4 giugno 2021 (Stato 18 dicembre 2021) (Stato 18 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -425,19 +425,28 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di gu
 Un certificato di test COVID-19 è emesso in caso di risultato negativo di:
 
 - a. un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2;
-- b.[^19-1] un test rapido SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^19-2], a condizione che non si basi su un prelievo del campione solo dalla cavità nasale o su un campione di saliva.
+- b.[^19-1] un test rapido SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^19-2], a condizione che non si basi su un prelievo del campione solo dalla cavità nasale o su un campione di saliva;
+- c.[^19-3]
 
-<sup>1bis</sup> L’UFSP tiene un elenco aggiornato dei test rapidi SARS-CoV-2 secondo il capoverso 1 lettera b e lo pubblica sul proprio sito Internet[^19-3].[^19-4]
+  un’analisi immunologica di laboratorio degli antigeni SARS-CoV-2 a condizione che:
 
-<sup>1ter</sup> In deroga al capoverso 1, non può essere emesso il certificato per le analisi SARS-CoV-2 di cui la Confederazione assume le spese secondo l’allegato 6 numeri 1.1.1 lettere a–e, h, i numero 1 e j, 1.2.1, 1.4.1 lettere a–e, h numero 1, i e m, 2.1.1 lettera c, 2.2.1 lettera c, 3.1.1 lettera c nonché 3.2.1 lettera c dell’ordinanza 3 COVID-19.[^19-5]
+  - 1\. l’analisi sia stata eseguita da un laboratorio autorizzato secondo l’articolo 16 della legge del 28 settembre 2012[^19-4] sulle epidemie,
+  - 2\. il test sia ammesso nell’UE per l’emissione di un certificato COVID digitale dell’UE,
+  - 3\. il campione sia stato prelevato da una struttura secondo l’allegato 6 numero 1.4.3 lettera a dell’ordinanza 3 COVID-19, e
+  - 4\. il test non si basi né su un campione prelevato soltanto dalla cavità nasale né su un campione di saliva.
+
+<sup>1bis</sup> L’UFSP tiene un elenco aggiornato dei test rapidi SARS-CoV-2 secondo il capoverso 1 lettera b e delle analisi immunologiche di laboratorio degli antigeni SARS-CoV-2 secondo il capoverso 1 lettera c e lo pubblica sul proprio sito Internet.[^19-5]
+
+<sup>1ter</sup> In deroga al capoverso 1, non può essere emesso il certificato per le analisi SARS-CoV-2 di cui la Confederazione assume le spese secondo l’allegato 6 numeri 1.1.1 lettere a–e, h, i numero 1 e j, 1.2.1, 1.4.1 lettere a–e, h numero 1, i e m, 2.1.1 lettera c, 2.2.1 lettera c, 3.1.1 lettera c nonché 3.2.1 lettera c dell’ordinanza 3 COVID-19.[^19-6]
 
 <sup>2</sup> Le richieste per l’emissione di certificati di test possono essere presentate al più tardi al momento del prelievo del campione.
 
 [^19-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^19-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^19-3]: www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: insorgenze, epidemie, pandemie &gt; Insorgenze e epidemie attuali &gt; Coronavirus &gt; Informazioni per i professionisti della salute &gt; Informazioni specialistiche sui test COVID-19.
-[^19-4]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 3 lug. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
-[^19-5]: Introdotto dal n. IV dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Nuovo testo giusta il n. III dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^19-3]: Introdotta dall’all. n. 3 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^19-4]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^19-5]: Introdotto dal n. I dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)). Nuovo testo giusta l’all. n. 3 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^19-6]: Introdotto dal n. IV dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Nuovo testo giusta il n. III dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 #### Art. 20
 
@@ -713,7 +722,7 @@ Allegato 2*[^t-2]*
 
 ## Disposizioni particolari sui certificati di vaccinazione COVID-19
 
-[^t-2]: Aggiornato dal n. II dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) e dal n. I dell’O del DFI del 15 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)).
+[^t-2]: Aggiornato dal n. II dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. I dell’O del DFI del 15 nov. 2021 ([RU 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)) e dall’all. n. 3 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 Inizio e durata massima della validità
 
@@ -767,7 +776,8 @@ Allegato 2*[^t-2]*
 
     - 1\. risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2,
     - 2\. risultato positivo di un test rapido SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^annex2-lvlu1-lvl3-1],
-    - 3\. risultato positivo di un'analisi per gli anticorpi contro il SARS-CoV-2 secondo l’articolo 16 capoverso 3;
+    - 3\. risultato positivo di un'analisi per gli anticorpi contro il SARS-CoV-2 secondo l’articolo 16 capoverso 3,
+    - 4\. risultato positivo di un’analisi immunologica di laboratorio degli antigeni SARS-CoV-2;
 
   - b. tra il prelievo del campione e la vaccinazione devono essere trascorsi almeno 28 giorni.
 
@@ -839,27 +849,29 @@ Allegato 3*[^t-3]*
 
 Allegato 4*[^t-4]*
 
-(art. 20, 21 cpv. 2, 28a cpv. 4 e 33)
+(art. 20, 21 cpv. 2, 28*a* cpv. 4 e 33)
 
 ## Disposizioni particolari sui certificati di test COVID-19
 
-[^t-4]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), dal n. II dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) e dal n. IV dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^t-4]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), dal n. II dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), dal n. IV dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)) e dall’all. n. 3 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 ...
 
 ### 2 Durata di validità
 
-La durata è calcolata a partire dal prelievo del campione ed è di:
+-
 
-- a. 72 ore per il test PCR;
-- b. 24 ore per il test rapido SARS-CoV-2 per uso professionale.
+  La durata è calcolata a partire dal prelievo del campione ed è di:
+
+  - a. 72 ore per il test PCR;
+  - c. 24 ore per l’analisi immunologica di laboratorio degli antigeni SARS-CoV-2.
 
 ### 3 Informazioni sul test eseguito
 
 - a. Malattia per il cui rilevamento è stato eseguito il test («COVID-19»)
-- b. Tipo di test («PCR» o «test rapido SARS-CoV-2»)
-- c. Nome del test (in caso di test rapido SARS-CoV-2)
-- d. Fabbricante del test (in caso di test rapido SARS-CoV-2)
+- b. Tipo di test («PCR», «test rapido SARS-CoV-2» o «analisi immunologica di laboratorio degli antigeni SARS-CoV-2»)
+- c. Nome del test (in caso di test rapido SARS-CoV-2 o di analisi immunologica di laboratorio degli antigeni SARS-CoV-2)
+- d. Fabbricante del test (in caso di test rapido SARS-CoV-2 o di analisi immunologica di laboratorio degli antigeni SARS-CoV-2)
 - e. Data e ora del prelievo del campione
 - f. Risultato del test («negativo»)
 - g. Centro di test o istituzione presso cui è stato eseguito il test

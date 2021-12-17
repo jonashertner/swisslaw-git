@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-12-14
+version: 2021-12-18
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211214/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211214-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211214/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211218-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211214/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 14 décembre 2021)
+du 4 juin 2021 (Etat le 18 décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -423,19 +423,28 @@ Les certificats de guérison COVID-19 contiennent, en plus du contenu général 
 Un certificat de test COVID-19 est établi lors du résultat négatif:
 
 - a. d’une analyse de biologie moléculaire pour le SARS-CoV-2;
-- b.[^19-1] d’un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^19-2], à moins qu’il se base sur un prélèvement d’échantillon provenant uniquement de la cavité nasale ou d’un test salivaire.
+- b.[^19-1] d’un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^19-2], à moins qu’il se base sur un prélèvement d’échantillon provenant uniquement de la cavité nasale ou d’un test salivaire;
+- c.[^19-3]
 
-<sup>1bis</sup> L’OFSP tient à jour une liste des tests rapides SARS-CoV-2 visés à l’al. 1, let. b, et la publie sur son site Internet[^19-3].[^19-4]
+  d’une analyse immunologique en laboratoire des antigènes du SARS-CoV-2, si:
 
-<sup>1ter</sup> En dérogation à l’al. 1, aucun certificat ne peut être établi pour des analyses au SARS-CoV-2 dont la Confédération prend en charge les coûts en vertu de l’annexe 6, ch. 1.1.1., let. a à e, h, i, ch. 1, et j, 1.2.1, 1.4.1, let. a à e, h, ch. 1, i et m, 2.1.1, let. c, 2.2.1, let. c, 3.1.1, let. c, et 3.2.1, let. c, de l’ordonnance 3 COVID-19.[^19-5]
+  - 1\. l’analyse a été réalisée par un laboratoire autorisé au sens de l’art. 16 de la loi du 28 septembre 2012 sur les épidémies[^19-4],
+  - 2\. le test est autorisé dans l’UE pour l’établissement d’un certificat COVID numérique de l’UE,
+  - 3\. l’échantillonnage a été réalisé par un établissement visé à l’annexe 6, ch. 1.4.3, let. a, de l’ordonnance 3 COVID-19, ou que
+  - 4\. le test ne se base ni sur un prélèvement d’échantillon provenant uniquement de la cavité nasale ni sur un test salivaire.
+
+<sup>1bis</sup> L’OFSP tient à jour une liste des tests rapides SARS-CoV-2 visés à l’al. 1, let. b, et des analyses immunologiques en laboratoire des antigènes du SARS-CoV-2 visés à l’al. 1, let. c, et la publie sur son site Internet.[^19-5]
+
+<sup>1ter</sup> En dérogation à l’al. 1, aucun certificat ne peut être établi pour des analyses au SARS-CoV-2 dont la Confédération prend en charge les coûts en vertu de l’annexe 6, ch. 1.1.1., let. a à e, h, i, ch. 1, et j, 1.2.1, 1.4.1, let. a à e, h, ch. 1, i et m, 2.1.1, let. c, 2.2.1, let. c, 3.1.1, let. c, et 3.2.1, let. c, de l’ordonnance 3 COVID-19.[^19-6]
 
 <sup>2</sup> Les demandes d’établissement de certificats de test peuvent être présentées au plus tard lors du prélèvement de l’échantillon.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^19-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^19-3]: www.bag.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Informations techniques sur les tests COVID-19
-[^19-4]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
-[^19-5]: Introduit par le ch. IV de l’O du 25 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Nouvelle teneur selon le ch. III de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^19-3]: Introduite par l’annexe ch. 3 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^19-4]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^19-5]: Introduit par le ch. I de l’O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)). Nouvelle teneur selon l’annexe ch. 3 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^19-6]: Introduit par le ch. IV de l’O du 25 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Nouvelle teneur selon le ch. III de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 #### Art. 20
 
@@ -710,7 +719,7 @@ Annexe 2*[^t-2]*
 
 ## Dispositions particulières applicables aux certificats de vaccination COVID-19
 
-[^t-2]: Mise à jour par le ch. II des O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), le ch. II al. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) et le ch. I de l’O du DFI du 15 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)).
+[^t-2]: Mise à jour par le ch. II des O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), le ch. II al. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), le ch. I de l’O du DFI du 15 nov. 2021 ([RO 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)) et l’annexe ch. 3 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 Début de la validité et durée de validité maximale
 
@@ -764,7 +773,8 @@ Annexe 2*[^t-2]*
 
     - 1\. résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2,
     - 2\. résultat positif d’un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24a, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^annex2-lvlu1-lvl3-1],
-    - 3\. résultat positif d’une analyse des anticorps contre le SARS-CoV-2 conformément à l’art. 16, al. 3;
+    - 3\. résultat positif d’une analyse des anticorps contre le SARS-CoV-2 conformément à l’art. 16, al. 3,
+    - 4\. résultat positif d’une analyse immunologique en laboratoire des antigènes au SARS-CoV-2;
 
   - b. l’écart entre le prélèvement de l’échantillon et la vaccination est d’au moins 28 jours.
 
@@ -840,7 +850,7 @@ Annexe 4*[^t-4]*
 
 ## Dispositions particulières applicables aux certificats de test COVID-19
 
-[^t-4]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), le ch. II de l’O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) et le ch. IV de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^t-4]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), le ch. II de l’O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), le ch. IV de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur jusqu’au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)) et l’annexe ch. 3 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 ...
 
@@ -849,14 +859,15 @@ Annexe 4*[^t-4]*
 La durée de validité, calculée à partir du prélèvement de l’échantillon, est de:
 
 - a. 72 heures pour le test PCR;
-- b. 24 heures pour le test rapide SARS-CoV-2 avec application par un professionnel.
+- b. 24 heures pour le test rapide SARS-CoV-2 avec application par un professionnel;
+- c. 24 heures pour les analyses immunologiques en laboratoires des antigènes au SARS-CoV-2.
 
 ### 3 Indications concernant le test effectué
 
 - a. Maladie ciblée par le test («COVID-19»)
-- b. Type de test («PCR» ou «test rapide SARS-CoV-2»)
-- c. Nom du test (pour le test rapide SARS-CoV-2)
-- d. Fabricant du test (pour le test rapide SARS-CoV-2)
+- b. Type de test («PCR», «test rapide SARS-CoV-2» ou «analyse immunologique en laboratoire des antigènes du SARS-CoV-2»)
+- c. Nom du test (pour le test rapide SARS-CoV-2 ou l’analyse immunologique en laboratoire des antigènes du SARS-CoV-2)
+- d. Fabricant du test (pour le test rapide SARS-CoV-2 ou l’analyse immunologique en laboratoire des antigènes du SARS-CoV-2)
 - e. Date et heure du prélèvement de l’échantillon
 - f. Résultat du test («négatif»)
 - g. Centre de test ou institution où le test a été effectué

@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-12-14
+version: 2021-12-18
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211214/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211214-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211214/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211218/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211218-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211218/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 14 December 2021)
+of 4 June 2021 (Status as of 18 December 2021)
 
 The Swiss Federal Council,
 
@@ -425,18 +425,27 @@ A COVID-19 test certificate shall be issued in the event of a negative result of
 
 - a. a molecular-biological analysis for Sars-CoV-2;
 - b.[^19-1] a Sars-CoV-2 rapid test for specialist use in accordance with Article 24*a* of the COVID-19 Ordinance 3 of 19 June 2020[^19-2], unless it is based on a sample taken only from the nasal cavity or on a saliva sample.
+- c.[^19-3]
 
-<sup>1bis</sup> The FOPH shall maintain an updated list of Sars-CoV-2 rapid tests in accordance with paragraph 1 letter b, and publish it on its website[^19-3].[^19-4]
+  a laboratory immunological analysis for Sars-CoV-2 antigens, provided:
 
-<sup>1ter</sup> In derogation from paragraph 1, no certificates shall be issued for analyses for Sars-Cov-2 in respect of which the Confederation pays the costs in accordance with Annex 6 numbers 1.1.1 letters a–e h, i number 1 and j, 1.2.1, 1.4.1 letters a–e, h number 1, i and m, 2.1.1 letter c, 2.2.1 letter c, 3.1.1 letter c and 3.2.1 letter c of the COVID-19 Ordinance 3.[^19-5]
+  - 1\. the analysis was carried out by a laboratory licensed under Article 16 of the Epidemics Act of 28 September 2012[^19-4],
+  - 2\. the test is authorised in EU for issuing an EU digital COVID certificate,
+  - 3\. the sample was taken by a facility specified in Annex 6 number 1.4.3 letter a of the COVID-19 Ordinance 3, and
+  - 4\. the test is not based on a sample taken solely from the nasal cavity or on a saliva sample.
+
+<sup>1bis</sup> The FOPH shall maintain an updated list of Sars-CoV-2 rapid tests in accordance with paragraph 1 letter b und of laboratory immunological analyses for Sars-CoV-2 antigens in accordance with paragraph 1 letter c und, and publish it on its website.[^19-5]
+
+<sup>1ter</sup> In derogation from paragraph 1, no certificates shall be issued for analyses for Sars-Cov-2 in respect of which the Confederation pays the costs in accordance with Annex 6 numbers 1.1.1 letters a–e h, i number 1 and j, 1.2.1, 1.4.1 letters a–e, h number 1, i and m, 2.1.1 letter c, 2.2.1 letter c, 3.1.1 letter c and 3.2.1 letter c of the COVID-19 Ordinance 3.[^19-6]
 
 <sup>2</sup> Requests for test certificates may be submitted at the latest when the sample is taken.
 
 [^19-1]: Amended by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^19-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^19-3]: www.bag.admin.ch &gt; Diseases &gt; Infectious diseases: Outbreaks, Epidemics, Pandemics &gt; Current outbreaks and epidemics &gt; Coronavirus &gt; Information for healthcare professionals &gt; Specialist information on COVID-19 testing
-[^19-4]: Inserted by No I of the O of 30 June 2021, in force since 3 July 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
-[^19-5]: Inserted by No IV of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Amended by No III of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^19-3]: Inserted by Annex No 3 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^19-4]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^19-5]: Inserted by No I of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)). Amended by Annex No 3 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^19-6]: Inserted by No IV of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Amended by No III of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 #### Art. 20
 
@@ -710,7 +719,7 @@ Annex 2*[^t-2]*
 
 ## Special provisions concerning COVID-19 vaccination certificates
 
-[^t-2]: Revised by No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) and by No I of the O of FDI of 15 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)).
+[^t-2]: Revised by No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No I of the FDHA O of 15 Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)) and Annex No 3 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 Start of validity and maximum duration
 
@@ -752,7 +761,7 @@ Annex 2*[^t-2]*
   - c. AZD1222 / Vaxzevria / AstraZeneca COVID-19 vaccine;
   - d. Sars-CoV-2 vaccine from the Sinopharm Beijing Institute of Biological Products (BIBP) Co., Ltd.;
   - e. Coronavac (vaccine from Sinovac Life Sciences Co., Ltd);
-  - f. Bharat Biotech Covid-19 vaccine / Covaxin.
+  - f. Bharat Biotech COVID-19 vaccine / Covaxin.
 
 - 3\.3
 
@@ -765,6 +774,7 @@ Annex 2*[^t-2]*
     - 1\. the positive result of a molecular-biological analysis for Sars-CoV‑2;
     - 2\. the positive result of a Sars-CoV-2 rapid test for specialist use pursuant to Article 24*a* paragraph 1 of the COVID-19 Ordinance 3 of 19 June 2020[^annex2-lvlu1-lvl3-1];
     - 3\. a positive analysis for Sars-CoV-2 antibodies pursuant to Article 16 paragraph 3.
+    - 4\. the positive result of a laboratory immunological analysis for Sars-CoV-2 antigens.
 
   - b. At least 28 days must have elapsed between taking the sample and administering the vaccine.
 
@@ -837,7 +847,7 @@ Annex 4*[^t-4]*
 
 ## Special provisions concerning COVID-19 test certificates
 
-[^t-4]: Revised by Annex 3 No 3 of the COVID-19 Special Situation Ordinance of 23 June 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) and No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) and No IV of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^t-4]: Revised by Annex 3 No 3 of the COVID-19 Special Situation Ordinance of 23 June 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) and No IV of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)) and Annex No 3 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 ...
 
@@ -849,13 +859,14 @@ Annex 4*[^t-4]*
 
   - a. for PCR tests: 72 hours;
   - b. for Sars-CoV-2 rapid tests for specialist use: 24 hours.
+  - c. for laboratory immunological analyses for Sars-CoV-2 antigens: 24 hours.
 
 ### 3 Details of the test carried out
 
 - a. Disease tested for (COVID-19)
-- b. Type of test (PCR or Sars-CoV-2 rapid test)
-- c. Name of the test (if Sars-CoV-2 rapid test)
-- d. Manufacturer of the test (if Sars-CoV-2 rapid test)
+- b. Type of test (PCR or Sars-CoV-2 rapid test or laboratory immunological analysis for Sars-CoV-2 antigens)
+- c. Name of the test (if Sars-CoV-2 rapid test or laboratory immunological analysis for Sars-CoV-2 antigens)
+- d. Manufacturer of the test (if Sars-CoV-2 rapid test or laboratory immunological analysis for Sars-CoV-2 antigens)
 - e. Date and time of the test sample collection
 - f. Test result (negative)
 - g. Test centre or institution where the test was carried out

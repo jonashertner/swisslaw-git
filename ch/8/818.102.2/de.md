@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-12-14
+version: 2021-12-18
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211214/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211214-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211214/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211218-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211214/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 14. Dezember 2021)
+vom 4. Juni 2021 (Stand am 18. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -423,19 +423,28 @@ Covid-19-Genesungszertifikate enthalten neben dem allgemeinen Inhalt aller Covid
 Ein Covid-19-Testzertifikat wird ausgestellt bei einem negativen Ergebnis:
 
 - a. einer molekularbiologischen Analyse auf Sars-CoV-2;
-- b.[^19-1] eines Sars-CoV-2-Schnelltests zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^19-2], ausser er basiert auf einer Probeentnahme nur aus dem Nasenraum oder auf einer Speichelprobe.
+- b.[^19-1] eines Sars-CoV-2-Schnelltests zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^19-2], ausser er basiert auf einer Probeentnahme nur aus dem Nasenraum oder auf einer Speichelprobe;
+- c.[^19-3]
 
-<sup>1bis</sup> Das BAG führt eine aktualisierte Liste der Sars-CoV-2-Schnelltests nach Absatz 1 Buchstabe b und veröffentlicht sie auf seiner Website[^19-3].[^19-4]
+  einer laborbasierten immunologischen Analyse auf Sars-CoV-2-Antigene, sofern:
 
-<sup>1ter</sup> In Abweichung von Absatz 1 dürfen für Analysen auf Sars-CoV-2, bei denen der Bund nach Anhang 6 Ziffern 1.1.1 Buchstaben a–e, h, i Ziffer 1 und j, 1.2.1, 1.4.1 Buchstaben a–e, h Ziffer 1, i und m, 2.1.1 Buchstabe c, 2.2.1 Buchstabe c, 3.1.1 Buchstabe c sowie 3.2.1 Buchstabe c der Covid-19-Verordnung 3 die Kosten übernimmt, keine Zertifikate ausgestellt werden.[^19-5]
+  - 1\. die Analyse durch ein nach Artikel 16 des Epidemiengesetzes vom 28. September 2012[^19-4] bewilligtes Laboratorium durchgeführt wurde,
+  - 2\. der Test in der EU für die Ausstellung eines digitalen COVID-Zertifikats der EU zugelassen ist,
+  - 3\. die Probe von einer Einrichtung nach Anhang 6 Ziffer 1.4.3 Buchstabe a der Covid-19-Verordnung 3 entnommen wurde, und
+  - 4\. der Test weder auf einer Probenentnahme nur aus dem Nasenraum noch auf einer Speichelprobe basiert.
+
+<sup>1bis</sup> Das BAG führt eine aktualisierte Liste der Sars-CoV-2-Schnelltests nach Absatz 1 Buchstabe b und der laborbasierten immunologischen Analysen auf Sars-CoV-2-Antigene nach Absatz 1 Buchstabe c und veröffentlicht sie auf seiner Website.[^19-5]
+
+<sup>1ter</sup> In Abweichung von Absatz 1 dürfen für Analysen auf Sars-CoV-2, bei denen der Bund nach Anhang 6 Ziffern 1.1.1 Buchstaben a–e, h, i Ziffer 1 und j, 1.2.1, 1.4.1 Buchstaben a–e, h Ziffer 1, i und m, 2.1.1 Buchstabe c, 2.2.1 Buchstabe c, 3.1.1 Buchstabe c sowie 3.2.1 Buchstabe c der Covid-19-Verordnung 3 die Kosten übernimmt, keine Zertifikate ausgestellt werden.[^19-6]
 
 <sup>2</sup> Anträge auf Ausstellung von Testzertifikaten können spätestens anlässlich der Probeentnahme gestellt werden.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^19-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^19-3]: www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Fachinformationen über die Covid-19-Testung.
-[^19-4]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
-[^19-5]: Eingefügt durch Ziff. IV der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Fassung gemäss Ziff. III der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
+[^19-3]: Eingefügt durch Anhang Ziff. 3 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^19-4]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^19-5]: Eingefügt durch Ziff. I der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)). Fassung gemäss Anhang Ziff. 3 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^19-6]: Eingefügt durch Ziff. IV der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Fassung gemäss Ziff. III der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
 
 #### Art. 20
 
@@ -709,7 +718,7 @@ Anhang 2*[^t-2]*
 
 ## Besondere Bestimmungen über Covid-19-Impfzertifikate
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) und Ziff. I der V des EDI vom 15. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)).
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. I der V des EDI vom 15. Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)) und Anhang Ziff. 3 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -763,7 +772,8 @@ Anhang 2*[^t-2]*
 
     - 1\. positives Ergebnis einer molekularbiologischen Analyse auf Sars-CoV‑2;
     - 2\. positives Ergebnis eines Sars-CoV-2-Schnelltests zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^annex2-lvlu1-lvl3-1];
-    - 3\. positive Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3.
+    - 3\. positive Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3;
+    - 4\. positives Ergebnis einer laborbasierten immunologischen Analyse auf Sars-CoV-2-Antigene.
 
   - b. Zwischen der Probeentnahme und Impfung müssen mindestens 28 Tage vergangen sein.
 
@@ -834,7 +844,7 @@ Anhang 4*[^t-4]*
 
 ## Besondere Bestimmungen über Covid-19-Testzertifikate
 
-[^t-4]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und Ziff. IV der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^t-4]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und Ziff. IV der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)) und Anhang Ziff. 3 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 …
 
@@ -845,14 +855,15 @@ Anhang 4*[^t-4]*
   Die Dauer wird ab der Probeentnahme berechnet und beträgt:
 
   - a. für PCR-Tests: 72 Stunden;
-  - b. für Sars-CoV-2-Schnelltests zur Fachanwendung: 24 Stunden.
+  - b. für Sars-CoV-2-Schnelltests zur Fachanwendung: 24 Stunden;
+  - c. für laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene: 24 Stunden.
 
 ### 3 Angaben zum durchgeführten Test
 
 - a. Krankheit, auf die hin getestet wurde («Covid-19»)
-- b. Art des Tests («PCR» oder «Sars-CoV-2-Schnelltest»)
-- c. Name des Tests (sofern Sars-CoV-2-Schnelltest)
-- d. Hersteller des Tests (sofern Sars-CoV-2-Schnelltest)
+- b. Art des Tests («PCR», «Sars-CoV-2-Schnelltest» oder «laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene»)
+- c. Name des Tests (sofern Sars-CoV-2-Schnelltest oder laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene)
+- d. Hersteller des Tests (sofern Sars-CoV-2-Schnelltest oder laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene)
 - e. Datum und Uhrzeit der Entnahme der Testprobe
 - f. Testergebnis («negativ»)
 - g. Testzentrum oder Institution, wo der Test durchgeführt wurde
