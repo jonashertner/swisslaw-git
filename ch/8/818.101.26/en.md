@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2021-12-14
+version: 2021-12-18
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211214/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211214-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211214/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211218/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211218-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211218/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 14 December 2021)
+of 23 June 2021 (Status as of 18 December 2021)
 
 The Swiss Federal Council,
 
@@ -212,11 +212,15 @@ Persons in contact quarantine may leave quarantine early if the following requir
   the person provides the responsible cantonal authority with proof of a negative result for one of the following tests on or after the seventh day of quarantine:
 
   - 1\. a molecular-biological test for Sars-CoV-2,
-  - 2\. a Sars-CoV-2-rapid test according to the diagnostic standard;
+  - [tab] 2.[^8-1] a Sars-CoV-2-rapid test for specialist use,
+  - 3\.[^8-2] a laboratory immunological analysis for Sars-CoV-2 antigens;
 
 - b. the responsible cantonal authority agrees to the early termination of quarantine.
 
 <sup>3</sup> Persons over the age of 12 who leave quarantine early pursuant to paragraph 4 must wear a face mask and maintain a distance of at least 1.5 metres from other persons when outside their home or accommodation until the point in time at which quarantine would have ended.
+
+[^8-1]: Amended by Annex No 1 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^8-2]: Inserted by Annex No 1 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 #### Art. 9
 
@@ -714,11 +718,12 @@ The precautionary measures plan shall include measures related to:
 
 - b. the provision of information to visitors and participants on the requirement to have a certificate and on the applicable hygiene and social distancing measures;
 - c. hygiene, in particular the provision of disinfectant, regular cleaning, and ventilation;
-- d. a requirement to wear a face mask for staff and other persons working at the event who come into contact with visitors on the premises;
-- e. ...[^annex1-lvlu1-lvl2-2]
+- d. a requirement to wear a face mask for staff and other persons working at the event who come into contact with visitors on the premises.
+- e.[^annex1-lvlu1-lvl2-2] …
+- [tab]
 
 [^annex1-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^annex1-lvlu1-lvl2-2]: Comes into force 10 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)No V).
+[^annex1-lvlu1-lvl2-2]: Comes into force on 10 Jan. 2022 (AS 2021 **813** Ziff. V).
 
 Annex 2*[^t-2]*
 
@@ -726,7 +731,7 @@ Annex 2*[^t-2]*
 
 ## Requirements for an exemption from the requirement to wear a mask and from contact quarantine for persons who have been vaccinated or who have recovered
 
-[^t-2]: Revised by Annex No 4 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Annex No 2 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) and No II of the FDHA O of 29 Nov. 2021, in force since 30 Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
+[^t-2]: Revised by Annex No 4 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Annex No 2 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No II of the FDHA O of 29 Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)) and Annex No 1 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 Persons who have been vaccinated
 
@@ -745,7 +750,7 @@ Annex 2*[^t-2]*
 
 Residents of socio-medical institutions who have recovered are exempt from the requirement to wear a mask (Art. 6 para. 5 let. b) and persons who have recovered are exempt from contact quarantine (Art. 7 para. 2 let. b) for the following periods:
 
-- a. when based on a molecular-biological analysis for Sars-CoV-2 or a Sars-CoV-2-rapid test according to the diagnostic standard: from the 11th to the 365th day after confirmation of infection;
+- a. when based on a molecular-biological analysis for Sars-CoV-2 or a Sars-CoV-2-rapid test for specialist use or a laboratory immunological analysis for Sars-CoV-2 antigens: from the 11th to the 365th day after confirmation of infection;
 - b. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex2-lvlu1-lvl2-1]: for the term of validity of the certificate concerned.
 
 [^annex2-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)

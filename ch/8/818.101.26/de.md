@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2021-12-14
+version: 2021-12-18
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211214/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211214-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211214/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211218-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211214/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 14. Dezember 2021)
+vom 23. Juni 2021 (Stand am 18. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -210,11 +210,15 @@ Personen in Kontaktquarantäne können die Quarantäne vorzeitig beenden, wenn d
   Die Person legt der zuständigen kantonalen Behörde das negative Resultat einer der folgenden Analysen vor, wobei die Analyse frühestens am siebten Tag der Quarantäne durchgeführt worden sein darf:
 
   - 1\. molekularbiologische Analyse auf Sars-CoV-2;
-  - 2\. Sars-CoV-2-Schnelltest gemäss diagnostischem Standard.
+  - 2\.[^8-1] Sars-CoV-2-Schnelltest zur Fachanwendung;
+  - 3\.[^8-2] laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene.
 
 - b. Die zuständige kantonale Behörde stimmt der vorzeitigen Beendigung der Quarantäne zu.
 
 <sup>3</sup> Personen ab 12 Jahren, die nach Absatz 2 die Kontaktquarantäne vorzeitig beenden, müssen bis zu dem Zeitpunkt, bis zu dem die Quarantäne gedauert hätte, ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.
+
+[^8-1]: Fassung gemäss Anhang Ziff. 1 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^8-2]: Eingefügt durch Anhang Ziff. 1 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 #### Art. 9
 
@@ -725,7 +729,7 @@ Anhang 2*[^t-2]*
 
 ## Vorgaben für die Ausnahmen von der Maskenpflicht und von der Kontaktquarantäne für geimpfte und genesene Personen
 
-[^t-2]: Bereinigt gemäss Anhang Ziff. 4 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Anhang Ziff. 2 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) und Ziff. II der V des EDI vom 29. Nov. 2021, in Kraft seit 30. Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
+[^t-2]: Bereinigt gemäss Anhang Ziff. 4 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Anhang Ziff. 2 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. II der V des EDI vom 29. Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)) und Anhang Ziff. 1 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 Geimpfte Personen
 
@@ -744,7 +748,7 @@ Anhang 2*[^t-2]*
 
 Während der folgenden Zeitdauern sind genesene Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. b) und genesene Personen von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. b) ausgenommen:
 
-- a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2 oder eines Sars-CoV-2-Schnelltests gemäss diagnostischem Standard: vom 11. bis zum 365. Tag ab Bestätigung der Ansteckung;
+- a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2, eines Sars-CoV-2-Schnelltests zur Fachanwendung oder einer laborbasierten immunologischen Analyse auf Sars-CoV-2-Antigene: vom 11. bis zum 365. Tag ab Bestätigung der Ansteckung;
 - b. im Falle einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]: während der Dauer der Gültigkeit des entsprechenden Zertifikats.
 
 [^annex2-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)

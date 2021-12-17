@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: it
-version: 2021-12-14
+version: 2021-12-18
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211214/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211214-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211214/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211218-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211214/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 23 giugno 2021 (Stato 14 dicembre 2021) (Stato 14 dicembre 2021)
+del 23 giugno 2021 (Stato 18 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -209,12 +209,16 @@ Le persone sottoposte alla quarantena dei contatti possono concluderla anticipat
 
   la persona presenta all’autorità cantonale competente il risultato negativo di una delle seguenti analisi, purché l’analisi sia stata eseguita al più presto il settimo giorno di quarantena:
 
-  - [tab] 1. analisi di biologia molecolare per il SARS-CoV-2,
-  - [tab] 2. test rapido SARS-CoV-2 secondo lo standard diagnostico;
+  - 1\. analisi di biologia molecolare per il SARS-CoV-2,
+  - 2\.[^8-1] test rapido SARS-CoV-2 per uso professionale,
+  - 3\.[^8-2] analisi immunologica di laboratorio degli antigeni SARS-CoV-2;
 
 - b. l’autorità cantonale competente acconsente alla conclusione anticipata della quarantena.
 
 <sup>3</sup> Le persone a partire dai 12 anni che concludono anticipatamente la quarantena dei contatti secondo il capoverso 2 devono portare una mascherina facciale e tenersi a una distanza di almeno 1,5 metri da altre persone al di fuori del proprio domicilio o del proprio alloggio sino al giorno in cui sarebbe dovuta durare la quarantena.
+
+[^8-1]: Nuovo testo giusta l’all. n. 1 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^8-2]: Introdotto dall’all. n. 1 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 #### Art. 9
 
@@ -726,7 +730,7 @@ Allegato 2*[^t-2]*
 
 ## Prescrizioni relative all’esenzione delle persone vaccinate o guarite dall’obbligo della mascherina e della quarantena dei contatti
 
-[^t-2]: Aggiornato dall’all. n. 4 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dall’all. n. 2 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) e dal n. II dell’O del DFI del 29 nov. 2021, in vigore dal 30 nov. 2021 ([RU 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)).
+[^t-2]: Aggiornato dall’all. n. 4 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dall’all. n. 2 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. II dell’O del DFI del 29 nov. 2021 ([RU 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)) e dall’all. n. 1 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 Persone vaccinate
 
@@ -746,7 +750,7 @@ Allegato 2*[^t-2]*
 
 Durante il seguente lasso di tempo gli ospiti guariti di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. b) e le persone guarite sono esentate dall’obbligo della quarantena dei contatti (art. 7 cpv. 2 lett. b):
 
-- a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2 o di test rapido SARS-CoV-2 secondo lo standard diagnostico: dall’11° al 365° giorno dalla conferma del contagio;
+- a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2, di test rapido SARS-CoV-2 per uso professionale o di analisi immunologica di laboratorio degli antigeni SARS-CoV-2: dall’11° al 365° giorno dalla conferma del contagio;
 - b. in caso di analisi per gli anticorpi contro il SARS-CoV-2 di cui all’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 2021[^annex2-lvlu1-lvl2-1] sui certificati COVID-19: per la durata di validità del relativo certificato.
 
 [^annex2-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
