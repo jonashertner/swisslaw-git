@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2021-11-01
+version: 2021-12-18
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211218-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211101/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 1. November 2021)
+vom 13. Dezember 2002 (Stand am 18. Dezember 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -171,11 +171,23 @@ Die Ratsmitglieder erhalten für ihre parlamentarische Tätigkeit vom Bund ein E
 
 Die Ratsmitglieder sind verpflichtet, an den Sitzungen der Räte und Kommissionen teilzunehmen.
 
-#### Art. 10a und 10b
+#### Art. 10a
 
-[^10a10b-1]
+**Teilnahme an Abstimmungen im Nationalrat in Abwesenheit wegen Covid-19**[^10a-1]
 
-[^10a10b-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session), in Kraft vom 11. Dez. 2020 bis längstens zum 1. Okt. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+<sup>1</sup> Mitglieder des Nationalrates können ihre Stimme in Abwesenheit abgeben, falls sie sich aufgrund behördlicher Weisungen wegen Covid-19 in Isolation oder Quarantäne begeben müssen.
+
+<sup>2</sup> Ein Mitglied des Nationalrates, das aufgrund von Absatz 1 seine Stimme in Abwesenheit abgeben möchte, informiert am Vortag der Sitzung das Ratssekretariat.
+
+<sup>3</sup> Die von den Mitgliedern des Nationalrates gemäss Absatz 1 abgegebenen Stimmen werden im elektronischen Abstimmungssystem gleichzeitig mit der im Rat laufenden Abstimmung erfasst. Die Abstimmung wird nicht wiederholt, wenn ein Ratsmitglied seine Stimme aus technischen Gründen nicht abgeben konnte.
+
+[^10a-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Fassung gemäss Ziff. III 1 des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+
+#### Art. 10b
+
+[^10b-1]
+
+[^10b-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session), in Kraft vom 11. Dez. 2020 bis längstens zum 1. Okt. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 11
 
@@ -593,7 +605,7 @@ Die Koordinationskonferenz hat folgende Aufgaben:
 
 <sup>4</sup> Die Beschlüsse der Koordinationskonferenz bedürfen der Zustimmung der Büros des Nationalrates und des Ständerates. Die Wahl nach Absatz 2 Buchstabe d erfolgt mit der absoluten Mehrheit der stimmenden Mitglieder.
 
-<sup>5</sup> ...[^37-2]
+<sup>5</sup> …[^37-2]
 
 [^37-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^37-2]: Aufgehoben durch Ziff. I des BG vom 15. Juni 2018, mit Wirkung seit 26. Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
@@ -782,7 +794,7 @@ Die Kommissionen informieren die Öffentlichkeit über die Ergebnisse ihrer Bera
 
 <sup>4</sup> Bei sachübergreifenden Geschäften können andere Kommissionen Berichte an die vorberatenden Kommissionen richten.
 
-<sup>5</sup> ...[^49-1]
+<sup>5</sup> …[^49-1]
 
 [^49-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
@@ -864,7 +876,7 @@ Die Kommissionen informieren die Öffentlichkeit über die Ergebnisse ihrer Bera
 
 #### Art. 55
 
-**...[^55-1]**
+**…[^55-1]**
 
 Die Finanz- und die Geschäftsprüfungskommissionen berichten ihrem Rat einmal jährlich über die Hauptergebnisse ihrer Arbeit.
 
@@ -1376,7 +1388,7 @@ Wenn sich die abweichenden Beschlüsse der beiden Räte auf einen Beratungsgegen
 - f. die Dringlichkeitsklausel;
 - g.[^95-1] den Entscheid, ob einer Standesinitiative Folge gegeben werden soll;
 - h. die Genehmigung von Verordnungen des Bundesrates;
-- i.[^95-2] ...
+- i.[^95-2] …
 - j. die Aufrechterhaltung eines zur Abschreibung beantragten Beratungsgegenstandes.
 
 [^95-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
@@ -1497,7 +1509,7 @@ Unterbreitet die Bundesversammlung Volk und Ständen neben der Volksinitiative e
 
 <sup>1</sup> Fasst ein Rat über einen Gegenentwurf oder über einen mit der Volksinitiative eng zusammenhängenden Erlassentwurf Beschluss, so kann die Bundesversammlung die Behandlungsfrist um ein Jahr verlängern.
 
-<sup>1bis</sup> ...[^105-1]
+<sup>1bis</sup> …[^105-1]
 
 <sup>2</sup> Stimmen die Beschlüsse der Räte betreffend Fristverlängerung nicht überein, so ist die Verlängerung nicht zu Stande gekommen.
 
@@ -1699,7 +1711,7 @@ Parlamentarische Vorstösse sind:
 
 <sup>3</sup> Der Wortlaut eines Vorstosses kann nach der Einreichung nicht geändert werden; vorbehalten bleibt Artikel 121 Absatz 3 Buchstabe b.[^119-1]
 
-<sup>4</sup> ...[^119-2]
+<sup>4</sup> …[^119-2]
 
 <sup>5</sup>
 
@@ -1708,7 +1720,7 @@ Ein Vorstoss eines Ratsmitglieds oder einer Fraktion wird ohne Ratsbeschluss abg
 - a. der Rat den Vorstoss nicht innert zwei Jahren nach seiner Einreichung abschliessend behandelt hat; oder
 - b. die Urheberin oder der Urheber aus dem Rat ausscheidet und nicht ein anderes Ratsmitglied während der ersten Woche der folgenden Session den Vorstoss aufnimmt.[^119-3]
 
-<sup>6</sup> ...[^119-4]
+<sup>6</sup> …[^119-4]
 
 [^119-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^119-2]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
@@ -2666,7 +2678,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-4]
+…[^annexu1-lvlu1-4]
 
 [^annexu1-lvlu1-1]: [BS **1** 152; [AS 1962 773](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)Art. 60 Abs. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. I 414; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 3]
 [^annexu1-lvlu1-2]: [BS **1** 461]

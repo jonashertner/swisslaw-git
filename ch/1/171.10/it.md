@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2021-11-01
+version: 2021-12-18
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211218-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211101/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 1° novembre 2021)
+del 13 dicembre 2002 (Stato 18 dicembre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -175,11 +175,23 @@ I parlamentari sono retribuiti dalla Confederazione per la loro attività uffici
 
 I parlamentari sono tenuti a partecipare alle sedute delle Camere e delle Commissioni.
 
-#### Art. 10a e 10b
+#### Art. 10a
 
-[^10a10b-1]
+**Voto a distanza nel Consiglio nazionale in caso di assenza dovuta alla COVID-19**[^10a-1]
 
-[^10a10b-1]: Introdotti dal n. I della LF del 10 dic. 2020 (COVID-19: partecipazione a votazioni nel Consiglio nazionale; interruzione o differimento della sessione), in vigore dall’11 dic. 2020 al 1° ott. 2021 al più tardi ([RU 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8113](https://fedlex.data.admin.ch/eli/fga/2020/2503)[8125](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+<sup>1</sup> I membri del Consiglio nazionale che hanno dovuto mettersi in isolamento o in quarantena a causa della COVID-19 a seguito di istruzioni emanate da un’autorità possono votare a distanza.
+
+<sup>2</sup> I membri del Consiglio nazionale che desiderano votare a distanza secondo il capoverso 1 ne informano la segreteria del Consiglio nazionale il giorno prima della seduta.
+
+<sup>3</sup> I voti trasmessi dai membri del Consiglio nazionale secondo il capoverso 1 sono registrati nel sistema elettronico di voto simultaneamente alla votazione in corso nel Consiglio nazionale. Se un membro del Consiglio nazionale non ha potuto trasmettere il proprio voto per motivi tecnici, la votazione non viene ripetuta.
+
+[^10a-1]: Introdotto dal n. I della LF del 10 dic. 2020 (COVID-19: partecipazione a votazioni nel Consiglio nazionale; interruzione o differimento della sessione) ([RU 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8113](https://fedlex.data.admin.ch/eli/fga/2020/2503)[8125](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Nuovo testo giusta il n. III 1 della LF del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2022 ([RU 2021 787](https://fedlex.data.admin.ch/eli/oc/2021/787); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+
+#### Art. 10b
+
+[^10b-1]
+
+[^10b-1]: Introdotto dal n. I della LF del 10 dic. 2020 (COVID-19: partecipazione a votazioni nel Consiglio nazionale; interruzione o differimento della sessione), in vigore dall’11 dic. 2020 al 1° ott. 2021 al più tardi ([RU 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8113](https://fedlex.data.admin.ch/eli/fga/2020/2503)[8125](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 11
 
@@ -260,7 +272,7 @@ Non possono far parte dell’Assemblea federale:
 - e. i membri degli organi direttivi di organizzazioni o persone di diritto pubblico o privato esterne all’Amministrazione federale alle quali sono affidati compiti amministrativi, sempre che la Confederazione vi abbia una posizione dominante;
 - f. le persone che rappresentano la Confederazione in organizzazioni o persone di diritto pubblico o privato esterne all’Amministrazione federale alle quali sono affidati compiti amministrativi, sempre che la Confederazione vi abbia una posizione dominante.
 
-[^14-1]: Nuovo testo giusta il n. II 2 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^14-1]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 15
 
@@ -454,9 +466,9 @@ L’Assemblea federale esercita l’alta vigilanza attenendosi ai seguenti crite
 
 <sup>4</sup> L’alta vigilanza non include la competenza di abrogare o modificare decisioni. È escluso il controllo di merito delle decisioni giudiziarie e delle decisioni del Ministero pubblico della Confederazione.[^26-3]
 
-[^26-1]: Nuovo testo giusta il n. II 2 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^26-1]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^26-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
-[^26-3]: Nuovo testo del per. giusta il n. II 2 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^26-3]: Nuovo testo del per. giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 27
 
@@ -662,10 +674,10 @@ La Commissione giudiziaria è competente per la preparazione dell’elezione e d
 <sup>6</sup> Le Commissioni della gestione e la Delegazione delle finanze comunicano alla Commissione giudiziaria i loro accertamenti che mettono seriamente in dubbio l’idoneità professionale o personale dei giudici, del procuratore generale della Confederazione e dei sostituti procuratori generali della Confederazione.[^40a-5]
 
 [^40a-1]: Introdotto dal n. II della LF del 13 dic. 2002, in vigore dal 1° ago. 2003 ([RU 2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731), [2002 1073](https://fedlex.data.admin.ch/eli/fga/2002/147)).
-[^40a-2]: Nuovo testo giusta il n. II 2 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^40a-3]: Nuovo testo giusta il n. II 2 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^40a-4]: Nuovo testo giusta il n. II 2 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^40a-5]: Nuovo testo giusta il n. II 2 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-2]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-3]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-4]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^40a-5]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 41
 
@@ -804,7 +816,7 @@ Le commissioni informano l’opinione pubblica sui risultati delle loro delibera
 <sup>3</sup> Le Commissioni delle finanze sono invitate a presentare un corapporto in merito ai disegni di crediti d’impegno e limiti di spesa che non sono loro attribuiti per esame preliminare. Per difendere le loro proposte nelle Camere hanno gli stessi diritti delle commissioni incaricate dell’esame preliminare.[^50-2]
 
 [^50-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^50-2]: Introdotto dal n. 1 dell’all. alla LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° lug. 2015 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^50-2]: Introdotto dall’all. n. 1 della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° lug. 2015 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 51
 
@@ -1110,7 +1122,7 @@ L’Assemblea federale delibera segnatamente su:
 
 <sup>6</sup> Un disegno di atto legislativo su cui si è decisa l’entrata in materia può essere tolto dal ruolo, su proposta della commissione incaricata dell’esame preliminare o del Consiglio federale, se è divenuto privo di oggetto.[^74-2]
 
-[^74-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^74-1]: Nuovo testo giusta l’all. n. 1 della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 [^74-2]: Introdotto dal n. I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 75
@@ -1365,8 +1377,8 @@ Se per il decreto federale sul preventivo della Confederazione o su un’aggiunt
 <sup>3</sup> Se una proposta è respinta, la relativa disposizione è stralciata*.*
 
 [^94a-1]: Introdotto dal n. I della LF del 22 giu. 2007 (Programma di legislatura), in vigore dal 1° dic. 2007 ([RU 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1715](https://fedlex.data.admin.ch/eli/fga/2006/164)[1735](https://fedlex.data.admin.ch/eli/fga/2006/167)).
-[^94a-2]: Nuovo testo giusta il n. 1 dell’all. alla LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^94a-3]: Nuovo testo giusta il n. 1 dell’all. alla LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^94a-2]: Nuovo testo giusta l’all. n. 1 della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^94a-3]: Nuovo testo giusta l’all. n. 1 della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 95
 
@@ -1886,7 +1898,7 @@ La commissione propone alla Camera di non dare seguito alla petizione se:
 
 [^128-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### Sezione 2: Domande concernenti la gestione
+### Sezione 2: Domande concernenti la gestione****
 
 [^tit5-chap7-sec2-1]
 
@@ -1896,7 +1908,7 @@ La commissione propone alla Camera di non dare seguito alla petizione se:
 
 Le domande concernenti la gestione generale o finanziaria del Consiglio federale, dell’Amministrazione federale, dei Tribunali federali e di altri enti incaricati di compiti federali sono trasmesse per risposta diretta alle Commissioni della gestione o delle finanze.
 
-### Capitolo 8: Procedura in caso di reclamo contro trattati intercantonali o contro trattati conclusi dai Cantoni con l’estero
+### Capitolo 8:**** Procedura in caso di reclamo contro trattati intercantonali o contro trattati conclusi dai Cantoni con l’estero
 
 [^tit5-chap8-1]
 
@@ -1908,13 +1920,13 @@ Le domande concernenti la gestione generale o finanziaria del Consiglio federale
 
 <sup>2</sup> Se un Cantone solleva reclamo, la commissione competente della Camera prioritaria presenta al plenum della Camera il progetto di decreto federale semplice concernente l’approvazione.
 
-## Titolo sesto: Elezioni, conferma di elezioni e accertamento dell’incapacità
+## Titolo sesto: Elezioni, conferma di elezioni e accertamento dell’incapacità****
 
 [^tit6-1]
 
 [^tit6-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
-### Capitolo 1: Disposizioni generali relative alle elezioni
+### Capitolo 1: Disposizioni generali relative alle elezioni****
 
 [^tit6-chap1-1]
 
@@ -2042,7 +2054,7 @@ L’Assemblea federale procede alle altre elezioni previste dalla Costituzione o
 
 <sup>3</sup> L’Assemblea federale plenaria decide a scrutinio segreto, a maggioranza dei membri votanti, circa la conferma o non conferma dell’elezione. In caso di mancata conferma, l’organo eleggente deve procedere a una nuova elezione.
 
-### Capitolo 6: Accertamento dell’incapacità di un membro del Consiglio federale o del cancelliere della Confederazione di esercitare la carica
+### Capitolo 6:**** Accertamento dell’incapacità di un membro del Consiglio federale o del cancelliere della Confederazione di esercitare la carica
 
 [^tit6-chap6-1]
 
@@ -2125,8 +2137,8 @@ Il Consiglio federale sottopone all’Assemblea federale:
 <sup>4</sup> Il Consiglio federale fa allestire entro il 30 giugno e il 30 settembre di ogni anno un calcolo approssimativo del risultato prevedibile dell’esercizio. Ne riferisce alle commissioni delle finanze.[^142-4]
 
 [^142-1]: Nuovo testo giusta l’art. 65 n. 1 della LF del 7 ott. 2005 sulle finanze della Confederazione, in vigore dal 1° mag. 2006 ([RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
-[^142-2]: Nuovo testo giusta il n. II 2 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^142-3]: Nuovo testo giusta il n. II 2 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^142-2]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^142-3]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^142-4]: Introdotto dall’art. 65 n. 1 della LF del 7 ott. 2005 sulle finanze della Confederazione, in vigore dal 1° mag. 2006 ([RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
 
 #### Art. 143
@@ -2143,7 +2155,7 @@ Il Consiglio federale sottopone all’Assemblea federale:
 
 <sup>5</sup> Di norma, il Consiglio federale adempie tali mandati con il disegno di preventivo per il secondo anno successivo.
 
-[^143-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^143-1]: Nuovo testo giusta l’all. n.1 della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 144
 
@@ -2287,7 +2299,7 @@ Il Consiglio federale consulta le commissioni competenti prima di:
 
 <sup>5</sup> Le commissioni competenti per la politica estera o altre commissioni interessate possono esigere che il Consiglio federale le informi o consulti.
 
-[^152-1]: Nuovo testo giusta il n. III 1 dell’all. alla L del 26 set. 2014 sugli Svizzeri all’estero, in vigore dal 1° nov. 2015 ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^152-1]: Nuovo testo giusta l’all. n. III 1 della L del 26 set. 2014 sugli Svizzeri all’estero, in vigore dal 1° nov. 2015 ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)).
 [^152-2]: Introdotto dal n. I 2 della LF dell’8 ott. 2004 sull’applicazione provvisoria di trattati internazionali ([RU 2005 1245](https://fedlex.data.admin.ch/eli/oc/2005/184); [FF 2004 665](https://fedlex.data.admin.ch/eli/fga/2004/149)[883](https://fedlex.data.admin.ch/eli/fga/2004/187)). Nuovo testo giusta il n. I 1 della LF del 21 giu. 2019 sulle competenze di concludere, modificare e denunciare trattati internazionali, in vigore dal 2 dic. 2019 ([RU 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 2929](https://fedlex.data.admin.ch/eli/fga/2018/1344)[4491](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 [^152-3]: Introdotto dal n. I 1 della LF del 21 giu. 2019 sulle competenze di concludere, modificare e denunciare trattati internazionali, in vigore dal 2 dic. 2019 ([RU 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 2929](https://fedlex.data.admin.ch/eli/fga/2018/1344)[4491](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
@@ -2434,7 +2446,7 @@ Il cancelliere della Confederazione difende gli affari della Cancelleria federal
 
 [^tit8-1]
 
-[^tit8-1]: Nuovo testo giusta il n. II 2 dell’all. alla L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^tit8-1]: Nuovo testo giusta l’all. n. II 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 162
 
@@ -2639,7 +2651,7 @@ Data dell’entrata in vigore: 1° dicembre 2003[^174-3]
 [^174-2]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
 [^174-3]: Dec. della Conferenza di coordinazione dell’AF del 16 set. 2002.
 
-## Disposizione transitoria della modifica del 5 ottobre 2007
+## Disposizione transitoria della modifica del 5 ottobre 2007****
 
 [^u1-1]
 
@@ -2647,7 +2659,7 @@ Data dell’entrata in vigore: 1° dicembre 2003[^174-3]
 
 Il nuovo articolo 122 si applica alle mozioni che, all’entrata in vigore della modifica del 5 ottobre 2007, non sono state ancora accolte dalle due Camere.
 
-## Disposizione transitoria della modifica del 17 giugno 2011
+## Disposizione transitoria della modifica del 17 giugno 2011****
 
 [^u2-1]
 
@@ -2655,7 +2667,7 @@ Il nuovo articolo 122 si applica alle mozioni che, all’entrata in vigore della
 
 Alla trattazione delle richieste di soppressione dell’immunità e richieste analoghe pendenti al momento dell’entrata in vigore della modifica del 17 giugno 2011 della presente legge si applica il diritto anteriore.
 
-## Disposizione transitoria degli art. 109 cpv. 2 e 3<sup>bis</sup> e 116 cpv. 3<sup>bis</sup> secondo la modifica del 21 giugno 2013
+## Disposizione transitoria degli art. 109 cpv. 2 e 3<sup>bis</sup> e 116 cpv. 3<sup>bis</sup> secondo la modifica del 21 giugno 2013****
 
 [^u3-1]
 

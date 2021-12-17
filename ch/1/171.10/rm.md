@@ -4,22 +4,22 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2021-11-01
+version: 2021-12-18
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211101/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211218/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211218-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Lescha federala davart l’Assamblea federala
+# Lescha federala F davart l’Assamblea federala
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dal 1. da november 2021)
+dals 13 da december 2002 (versiun dals 18 da december 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -175,11 +175,23 @@ Per lur activitad parlamentara survegnan ils parlamentaris da la Confederaziun i
 
 Ils parlamentaris èn obligads da sa participar a las sesidas da las chombras e da las cumissiuns.
 
-#### Art. 10a e 10b
+#### Art. 10a
 
-[^10a10b-1]
+**Participaziun a las votaziuns en il Cussegl naziunal en cas d’absenza pervia da COVID-19**[^10a-1]
 
-[^10a10b-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun), en vigur dals 11 da dec. 2020 fin maximalmain il 1. d’oct. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+<sup>1</sup> Ils commembers dal Cussegl naziunal pon votar sin distanza, sch’els ston ir en isolaziun u en quarantina pervia da COVID-19 sin fundament da directivas d’ina autoritad.
+
+<sup>2</sup> Commembers dal Cussegl naziunal che vulan votar sin distanza tenor l’alinea 1 infurmeschan il secretariat da la chombra il di avant la sesida.
+
+<sup>3</sup> Las vuschs consegnadas dals commembers dal Cussegl naziunal tenor l’alinea 1 vegnan registradas en il sistem da votaziun electronic il medem mument sco la votaziun currenta en la chombra. La votaziun na vegn betg repetida, sch’in commember dal Cussegl naziunal n’ha betg pudì votar per motivs tecnics.
+
+[^10a-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Versiun tenor la cifra III 1 da la LF dals 17 da dec. 2021, en vigur dals 18 da dec. 2021 fin ils 31 da dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+
+#### Art. 10b
+
+[^10b-1]
+
+[^10b-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun), en vigur dals 11 da dec. 2020 fin maximalmain il 1. d’oct. 2021 ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 11
 

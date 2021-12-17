@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2021-11-01
+version: 2021-12-18
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211101/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20211218/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20211218-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20211218/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Status as of 1 November 2021)
+of 13 December 2002 (Status as of 18 December 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -175,9 +175,21 @@ Assembly members are obliged to attend the meetings of the councils and committe
 
 #### Art. 10a
 
-**und **10***b*[^10a-1]**
+**Voting in absentia in the National Council because of COVID-19**[^10a-1]
 
-[^10a-1]: Inserted by No I of the FA of 10 Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session), in force from 11 Dec. 2020 until 1 Oct. 2021 at the latest ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
+<sup>1</sup> Members of the National Council may vote in absentia if they are officially ordered to go into isolation or quarantine because of COVID-19.
+
+<sup>2</sup> A member of the National Council who wishes to vote in absentia pursuant to paragraph 1 shall notify the Council Secretariat on the day before the sitting.
+
+<sup>3</sup> The votes cast by members of the National Council pursuant to paragraph 1 shall be recorded in the electronic voting system at the same time as votes are cast in the Council. The vote shall not be held again if a Council member is unable to cast his or her vote on technical grounds.
+
+[^10a-1]: Inserted by No I of the FA of 10 Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Amended by No III 1 of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+
+#### Art. 10b
+
+[^10b-1]
+
+[^10b-1]: Inserted by No I of the FA of 10. Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session), in force from 11. Dec. 2020 until 1 Oct. 2021 at the latest ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)).
 
 #### Art. 11
 
