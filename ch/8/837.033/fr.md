@@ -3,11 +3,11 @@ sr: "837.033"
 title: "Ordonnance du 20 mars 2020 sur les mesures dans le domaine de l'assurance-chômage en lien avec le coronavirus (COVID-19) (Ordonnance COVID-19 assurance-chômage)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: fr
-version: 2021-10-01
+version: 2021-12-20
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-169-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20211220/fr/xml/fedlex-data-admin-ch-eli-cc-2020-169-20211220-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20211220/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20211001/fr"
 
 (Ordonnance COVID-19 assurance-chômage)
 
-du 20 mars 2020 (Etat le 1<sup>er</sup> octobre 2021)
+du 20 mars 2020 (Etat le 20 décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -43,7 +43,21 @@ arrête:
 
 [^4-1]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)). Voir art. 9 al. 7 et 7<sup>bis</sup>.
+<sup>1</sup> En dérogation à l’art. 33, al. 1, let. e, LACI[^4-2], une perte de travail est prise en considération lorsqu’elle touche des personnes qui ont un emploi d’une durée déterminée ou qui sont en apprentissage.
+
+<sup>2</sup> Les personnes qui ont un emploi d’une durée déterminée ont droit à l’indemnité en cas de réduction de l’horaire de travail si l’entreprise, conformément à l’ordonnance COVID-19 du 23 juin 2021situation particulière[^4-3], doit limiter l’accès aux seules personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test.
+
+<sup>3</sup>
+
+Les personnes qui sont en apprentissage ont droit à l’indemnité en cas de réduction de l’horaire de travail si:
+
+- a. la formation des apprentis continue à être assurée;
+- b. l’entreprise, conformément à l’ordonnance COVID-19 situation particulière, doit limiter l’accès aux seules personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test, et que
+- c. l’entreprise ne reçoit aucun autre soutien financier pour couvrir le coût des salaires des apprentis.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), en vigueur depuis le 20 déc. 2021 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+[^4-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^4-3]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 #### Art. 5
 
@@ -100,7 +114,21 @@ En dérogation à l’art. 38, al. 3, let. b et c, LACI[^7-1], l’employeur ne 
 
 [^8f-1]
 
-[^8f-1]: Introduit par le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)). Voir art. 9 al. 5 et 5<sup>bis</sup>.
+<sup>1</sup>
+
+En dérogation aux art. 31, al. 3, let. a, et 33, al. 1, let. b, LACI[^8f-2], le travailleur sur appel dont le taux d’occupation est soumis à de fortes fluctuations (plus de 20 %) a aussi droit à la réduction de l’horaire de travail pour autant:
+
+- a. qu’il soit employé depuis au moins 6 mois pour une durée indéterminée dans l’entreprise demandant la réduction de l’horaire de travail, et
+- b. que l’entreprise, conformément à l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^8f-3], doive limiter l’accès aux seules personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test.
+
+<sup>2</sup> La perte de travail est déterminée sur la base des 6 ou 12 mois qui précèdent le début de la réduction de l’horaire de travail du travailleur sur appel concerné; la perte de travail la plus favorable au travailleur est prise en compte.
+
+<sup>3</sup> L’art. 57 de l’ordonnance du 31 août 1983 sur l’assurance-chômage[^8f-4] n’est pas applicable aux travailleurs sur appel dont le taux d’occupation est soumis à de fortes fluctuations.
+
+[^8f-1]: Introduit par le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022 (Prolongation de la procédure de décompte sommaire et reconduction d’autres mesures), en vigueur depuis le 20 déc. 2021 ([RO 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+[^8f-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^8f-3]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^8f-4]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
 
 #### Art. 8g
 

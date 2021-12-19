@@ -3,11 +3,11 @@ sr: "837.033"
 title: "Ordinanza del 20 marzo 2020 sulle misure nel settore dell'assicurazione contro la disoccupazione riguardo al coronavirus (COVID-19) (Ordinanza COVID-19 assicurazione contro la disoccupazione)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: it
-version: 2021-10-01
+version: 2021-12-20
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20211220/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20211220-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20211220/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20211001/it"
 
 (Ordinanza COVID-19 assicurazione contro la disoccupazione)
 
-del 20 marzo 2020 (Stato 1° ottobre 2021) (Stato 1° ottobre 2021)
+del 20 marzo 2020 (Stato 20 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -43,7 +43,21 @@ ordina:
 
 [^4-1]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)). Vedi art. 9 cpv. 7 et 7<sup>bis</sup>.
+<sup>1</sup> In deroga all’articolo 33 capoverso 1 lettera e LADI[^4-2], una perdita di lavoro è computabile se concerne persone vincolate da un rapporto di lavoro di durata determinata o da un rapporto di tirocinio.
+
+<sup>2</sup> Le persone vincolate da un rapporto di lavoro di durata determinata hanno diritto all’indennità per lavoro ridotto se l’azienda, conformemente all’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^4-3], deve limitare l’accesso alle persone provviste sia di un certificato di vaccinazione o guarigione sia di un certificato di test.
+
+<sup>3</sup>
+
+Le persone vincolate da un rapporto di tirocinio hanno diritto all’indennità per lavoro ridotto se:
+
+- a. la loro formazione continua a essere garantita;
+- b. l’azienda, conformemente all’ordinanza COVID-19 situazione particolare, deve limitare l’accesso alle persone provviste sia di un certificato di vaccinazione o guarigione sia di un certificato di test; e
+- c. l’azienda non riceve nessun altro sostegno finanziario per coprire i loro salari.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), in vigore dal 20 dic. 2021 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+[^4-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^4-3]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 #### Art. 5
 
@@ -100,7 +114,21 @@ In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-1], il datore di l
 
 [^8f-1]
 
-[^8f-1]: Introdotto dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nuovo testo giusta il n. I dell’O del 28 ott. 2020, in vigore dal 1° set. 2020 ([RU 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)). Vedi art. 9 cpv. 5 et 5<sup>bis</sup>.
+<sup>1</sup>
+
+In deroga agli articoli 31 capoverso 3 lettera a e 33 capoverso 1 lettera b LADI[^8f-2], il lavoratore su chiamata il cui grado di occupazione subisce forti oscillazioni (superiori al 20 per cento) ha altresì diritto all’indennità per lavoro ridotto se:
+
+- a. è impiegato a tempo indeterminato da almeno sei mesi nell’azienda che chiede il lavoro ridotto; e
+- b. l’azienda, conformemente all’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^8f-3], deve limitare l’accesso alle persone provviste sia di un certificato di vaccinazione o guarigione sia di un certificato di test.
+
+<sup>2</sup> La perdita di lavoro è determinata in base agli ultimi sei o 12 mesi che precedono l’inizio del lavoro ridotto da parte del lavoratore su chiamata interessato; è presa in considerazione la perdita di lavoro più favorevole per il lavoratore.
+
+<sup>3</sup> L’articolo 57 dell’ordinanza del 31 agosto 1983[^8f-4] sull’assicurazione contro la disoccupazione non si applica ai lavoratori su chiamata il cui grado di occupazione è soggetto a forti oscillazioni.
+
+[^8f-1]: Introdotto dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nuovo testo giusta il n. I dell’O del 26 gen. 2022 (Proroga della procedura di conteggio sommaria e reintroduzione di altre misure), in vigore dal 20 dic. 2021 ([RU 2022 39](https://fedlex.data.admin.ch/eli/oc/2022/39)).
+[^8f-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^8f-3]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^8f-4]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
 
 #### Art. 8g
 
