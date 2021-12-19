@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2021-12-06
+version: 2021-12-20
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20211206/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20211206-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20211206/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20211220/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20211220-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20211220/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20211206/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 6 dicembre 2021)
+del 16 gennaio 2019 (Stato 20 dicembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -228,8 +228,8 @@ Allegato 1*[^t-1]*
 <tr><td>3. Fermata su una linea a zig-zag per caricare o scaricare merci (art. 79*a* cpv. 3 OSStr)</td><td colspan="2">80</td></tr>
 <tr><td>240. 1. Parcheggio di un veicolo non autorizzato su un posto di parcheggio riservato alle persone disabili (art. 65 cpv. 5 e 79 cpv. 4 OSStr) fino a 60 minuti</td><td colspan="2">120</td></tr>
 <tr><td>2. Uso illegittimo del «Contrassegno di parcheggio per persone disabili» (art. 20*a* ONC)</td><td colspan="2">120</td></tr>
-<tr><td>241. 1. Parcheggio su una linea vietante la fermata (art. 79 cpv. 6 OSStr e art. 19 cpv. 2 lett. a ONC) fino a 60 minuti</td><td colspan="2">120</td></tr>
-<tr><td>2. Fermata su una linea vietante la fermata (art. 79 cpv. 6 OSStr)</td><td colspan="2">80</td></tr>
+<tr><td>241.[^annex1-lvlu1-lvlu1-9] 1. Parcheggio su una linea vietante la fermata (art. 79*a* cpv. 2 OSStr e art. 19 cpv. 2 lett. a ONC) fino a 60 minuti</td><td colspan="2">120</td></tr>
+<tr><td>2. Fermata su una linea vietante la fermata (art. 79*a* cpv. 2 OSStr)</td><td colspan="2">80</td></tr>
 <tr><td>242. Parcheggio su una strada principale fuori delle località (art. 19 cpv. 2 lett. b ONC)</td><td colspan="2"></td></tr>
 <tr><td>a. fino a 2 ore</td><td colspan="2">40</td></tr>
 <tr><td>b. più di 2 ore, ma non più di 4 ore</td><td colspan="2">60</td></tr>
@@ -428,10 +428,10 @@ Allegato 1*[^t-1]*
 <tr><td>342. Oltrepassare o passare sopra una superficie vietata al traffico nelle località (art. 27 cpv. 1 LCStr e art. 78 OSStr)</td><td colspan="2">140</td></tr>
 <tr><td>4. Conducenti di veicoli a motore: prescrizioni sulla costruzione e l’equipaggiamento</td><td colspan="2"></td></tr>
 <tr><td>400. Mancanza a bordo</td><td colspan="2"></td></tr>
-<tr><td>1. del triangolo di sicurezza (art. 90 cpv. 2 OETV[^annex1-lvlu1-lvlu1-9])</td><td colspan="2">40</td></tr>
+<tr><td>1. del triangolo di sicurezza (art. 90 cpv. 2 OETV[^annex1-lvlu1-lvlu1-10])</td><td colspan="2">40</td></tr>
 <tr><td>2. del cuneo sugli autoveicoli pesanti (art. 114 cpv. 1 OETV)</td><td colspan="2">40</td></tr>
 <tr><td>3. della farmacia di bordo richiesta sugli autobus (art. 123 cpv. 4 OETV)</td><td colspan="2">40</td></tr>
-<tr><td>4. di un estintore prescritto (art. 114 cpv. 2 e 3 OETV e sezione 8.1.4 ADR[^annex1-lvlu1-lvlu1-10])</td><td colspan="2">40</td></tr>
+<tr><td>4. di un estintore prescritto (art. 114 cpv. 2 e 3 OETV e sezione 8.1.4 ADR[^annex1-lvlu1-lvlu1-11])</td><td colspan="2">40</td></tr>
 <tr><td>5. del cuneo sui rimorchi il cui peso totale supera 0,75 t (art. 195 cpv. 3 OETV)</td><td colspan="2">40</td></tr>
 <tr><td>401. Condurre o parcheggiare un veicolo con targhe non apposte conformemente alle prescrizioni (art. 45 cpv. 2, 96, 124 cpv. 1, 136 cpv. 4, 162 cpv. 1, 167 e 185 OETV)</td><td colspan="2">60</td></tr>
 <tr><td>402. 1. Guida di un veicolo a motore con uno pneumatico difettoso (art. 58 cpv. 4 OETV)</td><td colspan="2">100</td></tr>
@@ -587,9 +587,10 @@ Allegato 1*[^t-1]*
 [^annex1-lvlu1-lvlu1-5]: O del 6 mag. 1981 sulla durata del lavoro e del riposo dei conducenti professionali di veicoli leggeri per il trasporto di persone e di automobili pesanti ([RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)).
 [^annex1-lvlu1-lvlu1-6]: O del 29 nov. 2002 concernente il trasporto di merci pericolose su strada ([RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)).
 [^annex1-lvlu1-lvlu1-7]: O del 27 ott. 1976 sull’ammissione alla circolazione ([RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)).
-[^annex1-lvlu1-lvlu1-8]: I rimandi sono stati adeguati in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2021.
-[^annex1-lvlu1-lvlu1-9]: O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
-[^annex1-lvlu1-lvlu1-10]: Il testo delle prescrizioni «Allgemeine Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände» è consultabile sul sito www.astra.admin.ch &gt; Area tecnico-amministrativa &gt; Veicoli e merci pericolose &gt; Merci pericolose &gt; Diritto internazionale.
+[^annex1-lvlu1-lvlu1-8]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2021.
+[^annex1-lvlu1-lvlu1-9]: I rimandi sono stati adeguati in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2021.
+[^annex1-lvlu1-lvlu1-10]: O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
+[^annex1-lvlu1-lvlu1-11]: Il testo delle prescrizioni «Allgemeine Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände» è consultabile sul sito www.astra.admin.ch &gt; Area tecnico-amministrativa &gt; Veicoli e merci pericolose &gt; Merci pericolose &gt; Diritto internazionale.
 
 Allegato 2*[^t-2]*
 
@@ -597,7 +598,7 @@ Allegato 2*[^t-2]*
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. dell’O del 27 gen. 2021, in vigore fino al 31 dic. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), dall’all. 2 n. 1 dell’O del COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori) ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), dall’all. 3 n. 1 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), dal n. III dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore fino al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), dall’all. n. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dal n. III dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. dell’O del 27 gen. 2021, in vigore fino al 31 dic. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), dall’all. 2 n. 1 dell’O del COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori) ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), dall’all. 3 n. 1 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), dal n. III dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore fino al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), dall’all. n. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. III dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)), dal n. III dell’O del 17 dic. 2021 (Obbligo della mascherina nelle scuole di livello secondario II, limitazioni dell’accesso alle persone con un certificato di vaccinazione o di guarigione, limitazioni per le manifestazioni private, obbligo di telelavoro, prescrizioni per il livello terziario e la formazione continua), in vigore fino al 24 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)) e del 17 dic. 2021, in vigore dal 20 dic. 2021 ([RU 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
@@ -731,11 +732,11 @@ Allegato 2*[^t-2]*
 <tr><td>16002. Omissione di portare una mascherina facciale in settori chiusi di veicoli del trasporto pubblico, in luoghi chiusi accessibili al pubblico di strutture o a manifestazioni (art. 28 lett. e in combinato disposto con l’art. 5 cpv. 1, 6 cpv. 1 o 15 cpv. 2 lett. b dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">[tab] 100</td></tr>
 <tr><td>16003. *...*</td><td colspan="2">[tab]</td></tr>
 <tr><td>16004. ...</td><td colspan="2">[tab]</td></tr>
-<tr><td>16005. Accesso illecito a un luogo o una manifestazione per i quali l’accesso delle persone a partire dai 16 anni è limitato alle persone con un certificato (art. 28 lett. h dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>16005. Accesso illecito senza il certificato obbligatorio a un luogo o una manifestazione per i quali l’accesso delle persone a partire dai 16 anni è limitato alle persone con un determinato certificato (art. 28 lett. h dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">[tab] 100</td></tr>
 <tr><td>16006. Violazione, in qualità di ospite, dell’obbligo di stare seduti in strutture della ristorazione e bar (art. 28 lett. g in combinato disposto con l’art. 12 cpv. 1 lett. a dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">100</td></tr>
-<tr><td>16007. Svolgimento di una manifestazione privata con più persone di quanto ammesso (art. 28 lett. c in combinato disposto con l’art. 14 cpv. 3 e 15 cpv. 3 lett. a dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">200</td></tr>
+<tr><td>16007. Accesso illecito senza il certificato obbligatorio a un luogo o una manifestazione per i quali l’accesso delle persone a partire dai 16 anni è limitato alle persone con un determinato certificato (art. 28 lett. h dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">200</td></tr>
 <tr><td>**XVII.** **Legge del 28 settembre 2012**[^annex2-lvlu1-lvlu1-26] **sulle epidemie (LEp) in combinato disposto con l’ordinanza COVID-19 traffico internazionale viaggiatori del 23 giugno 2021**[^annex2-lvlu1-lvlu1-27]</td><td colspan="2">[tab]</td></tr>
-<tr><td colspan="2">17001. Mancata attestazione di un’analisi di biologia molecolare per il SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale con risultato negativo all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp in combinato disposto con l’art. 8 cpv. 1 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">200</td></tr>
+<tr><td colspan="2">17001. Mancata attestazione di un’analisi di biologia molecolare per il SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale con risultato negativo all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp in combinato disposto con l’art. 8 cpv. 1 e 4 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">200</td></tr>
 <tr><td colspan="2">17002. Dati di contatto errati o mancanti all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp e art. 3 cpv. 1 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">100</td></tr>
 <tr><td colspan="2">17003. Test non effettuato tra il quarto e il settimo giorno dopo lʼentrata in Svizzera (art. 83 cpv. 1 lett. k LEp e art. 8 cpv. 3 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">200</td></tr>
 <tr><td colspan="2">17004. Mancata notifica del risultato di un test effettuato tra il quarto e il settimo giorno dopo l’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp e art. 10 cpv. 1 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">100</td></tr>

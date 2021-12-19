@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2021-12-06
+version: 2021-12-20
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20211206/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20211206-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20211206/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20211220/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20211220-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20211220/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20211206/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 6. Dezember 2021)
+vom 16. Januar 2019 (Stand am 20. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -228,8 +228,8 @@ Anhang 1*[^t-1]*
 <tr><td>3. Halten auf einer Zickzacklinie zum Güterumschlag (Art. 79*a* Abs. 3 SSV)</td><td colspan="3">80</td></tr>
 <tr><td>240. 1. Parkieren eines nichtberechtigten Fahrzeugs auf einem für gehbehinderte Personen reservierten Parkfeld (Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten</td><td colspan="3">120</td></tr>
 <tr><td>2. Unberechtigtes Verwenden der «Parkkarte für behinderte Personen» (Art. 20*a* VRV)</td><td colspan="3">120</td></tr>
-<tr><td>241. 1. Parkieren auf einer Halteverbotslinie (Art. 79 Abs. 6 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten</td><td colspan="3">120</td></tr>
-<tr><td>2. Halten auf einer Halteverbotslinie (Art. 79 Abs. 6 SSV)</td><td colspan="3">80</td></tr>
+<tr><td>241.[^annex1-lvlu1-lvlu1-9] 1. Parkieren auf einer Halteverbotslinie (Art. 79*a* Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten</td><td colspan="3">120</td></tr>
+<tr><td>2. Halten auf einer Halteverbotslinie (Art. 79*a* Abs. 2 SSV)</td><td colspan="3">80</td></tr>
 <tr><td>242. Parkieren auf einer Hauptstrasse ausserorts (Art. 19 Abs. 2 Bst. b VRV)</td><td colspan="3"></td></tr>
 <tr><td>a. bis 2 Stunden</td><td colspan="3">40</td></tr>
 <tr><td>b. während mehr als 2, aber nicht mehr als 4 Stunden</td><td colspan="3">60</td></tr>
@@ -430,10 +430,10 @@ Anhang 1*[^t-1]*
 <tr><td>[tab]</td><td colspan="3"></td></tr>
 <tr><td>4. Motorfahrzeugführerinnen und ‑führer, Bau- und Ausrüstungsvorschriften</td><td colspan="3"></td></tr>
 <tr><td>400. Nichtmitführen</td><td colspan="3"></td></tr>
-<tr><td>1. des Pannendreiecks (Art. 90 Abs. 2 VTS[^annex1-lvlu1-lvlu1-9])</td><td colspan="3">40</td></tr>
+<tr><td>1. des Pannendreiecks (Art. 90 Abs. 2 VTS[^annex1-lvlu1-lvlu1-10])</td><td colspan="3">40</td></tr>
 <tr><td>2. des Unterlegkeils bei schweren Motorwagen (Art. 114 Abs. 1 VTS)</td><td colspan="3">40</td></tr>
 <tr><td>3. der Bordapotheke bei Gesellschaftswagen (Art. 123 Abs. 4 VTS)</td><td colspan="3">40</td></tr>
-<tr><td>4. eines vorgeschriebenen Feuerlöschers (Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR[^annex1-lvlu1-lvlu1-10])</td><td colspan="3">40</td></tr>
+<tr><td>4. eines vorgeschriebenen Feuerlöschers (Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR[^annex1-lvlu1-lvlu1-11])</td><td colspan="3">40</td></tr>
 <tr><td>5. des Unterlegkeils bei Anhängern, deren Gesamtgewicht 0,75 t übersteigt (Art. 195 Abs. 3 VTS)</td><td colspan="3">40</td></tr>
 <tr><td>401. Führen oder Abstellen eines Fahrzeugs mit nicht vorschriftsgemäss angebrachten Kontrollschildern (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)</td><td colspan="3">60</td></tr>
 <tr><td>402. 1. Führen eines Motorfahrzeugs mit einem mangelhaften Reifen (Art. 58 Abs. 4 VTS)</td><td colspan="3">100</td></tr>
@@ -591,8 +591,9 @@ Anhang 1*[^t-1]*
 [^annex1-lvlu1-lvlu1-6]: V vom 29. Nov. 2002 über die Beförderung gefährlicher Güter auf der Strasse ([SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685))
 [^annex1-lvlu1-lvlu1-7]: Verkehrszulassungsverordnung vom 27. Okt. 1976 ([SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423))
 [^annex1-lvlu1-lvlu1-8]: Die Verweise wurden in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2021 angepasst.
-[^annex1-lvlu1-lvlu1-9]: V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)**)**
-[^annex1-lvlu1-lvlu1-10]: Der Text der Allgemeinen Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände ist im Internet abrufbar unter: [www.astra.admin.ch](http://www.astra.admin.ch) &gt; Fachleute und Verwaltung &gt; Fahrzeuge und Gefahrgut &gt; Gefährliche Güter &gt; Recht international.
+[^annex1-lvlu1-lvlu1-9]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2021 angepasst.
+[^annex1-lvlu1-lvlu1-10]: V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)**)**
+[^annex1-lvlu1-lvlu1-11]: Der Text der Allgemeinen Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände ist im Internet abrufbar unter: [www.astra.admin.ch](http://www.astra.admin.ch) &gt; Fachleute und Verwaltung &gt; Fahrzeuge und Gefahrgut &gt; Gefährliche Güter &gt; Recht international.
 
 Anhang 2*[^t-2]*
 
@@ -600,7 +601,7 @@ Anhang 2*[^t-2]*
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), Anhang 3 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. III der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. III der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), Anhang 3 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. III der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. III der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)), Ziff. III der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)) und der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -660,6 +661,9 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">7303. Nichtanbringen des vorgeschriebenen Zeichens (Bst. «A» der Internationalen Flaggenordnung) beim Tauchen oder unwirksames Anleuchten des Zeichens bei Nacht (Art. 40 Abs. 1 BSG, Art. 32 BSV, Art. 3.13 BSO)</td><td colspan="2">50</td></tr>
 <tr><td colspan="2">4. Regeln für die Fahrt</td><td colspan="2"></td></tr>
 <tr><td colspan="2">7401. Nichteinhalten des Sicherheitsabstandes gegenüber Vorrangschiffen und Schiffen von Berufsfischern, welche die vorgeschriebenen Zeichen führen (Art. 40 Abs. 1 BSG, Art. 48 BSV, Art. 6.06 BSO)</td><td colspan="2">50</td></tr>
+<tr><td colspan="2">[tab]</td><td colspan="2"></td></tr>
+<tr><td colspan="2">[tab]</td><td colspan="2"></td></tr>
+<tr><td colspan="2">[tab]</td><td colspan="2"></td></tr>
 <tr><td colspan="2">7402. Fahren in der Uferzone</td><td colspan="2"></td></tr>
 <tr><td colspan="2">1. Verbotene Längsfahrt mit Motorschiff innerhalb der inneren Uferzone oder innerhalb eines Uferabstandes von 150 m (Art. 40 Abs. 1 BSG, Art. 53 Abs. 1 Bst. a BSV, Art. 6.11 Abs. 1 BSO)</td><td colspan="2">100</td></tr>
 <tr><td colspan="2">2. Verbotene Längsfahrt mit einem Schiff mit Maschinenantrieb innerhalb Uferzone, aber ausserhalb eines Uferabstandes von 150 m (Art. 40 Abs. 1 BSG, Art. 6.11 Abs. 1 BSO)</td><td colspan="2">50</td></tr>
@@ -734,13 +738,11 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">16002. Unbefugtes Nichttragen einer Gesichtsmaske in geschlossenen Bereichen von Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben oder an Veranstaltungen (Art. 28 Bst. e i.V.m. Art. 5 Abs. 1, 6 Abs. 1 oder 15 Abs. 2 Bst. b Covid-19-Verordnung besondere Lage)</td><td colspan="2">[tab] 100</td></tr>
 <tr><td colspan="2">16003. …</td><td colspan="2">[tab]</td></tr>
 <tr><td colspan="2">16004. …</td><td colspan="2">[tab] 100</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab]</td></tr>
-<tr><td colspan="2">16005. Unberechtigter Zutritt ohne gültiges Zertifikat zu einer Örtlichkeit oder Veranstaltung, für den für Personen ab 16 Jahren ein solches Zertifikat verlangt wird (Art. 28 Bst. h Covid-19-Verordnung besondere Lage)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td colspan="2">[tab]</td><td colspan="2">[tab]</td></tr>
+<tr><td colspan="2">16005. Unberechtigter Zutritt ohne das erforderliche Zertifikat zu einer Örtlichkeit oder Veranstaltung, für den für Personen ab 16 Jahren ein bestimmtes Zertifikat verlangt wird (Art. 28 Bst. h Covid-19-Verordnung besondere Lage)</td><td colspan="2">100</td></tr>
 <tr><td>16006. Verstoss als Gast gegen die Sitzpflicht in Restaurations- und Barbetrieben (Art. 28 Bst. g i.V.m. Art. 12 Abs. 1 Bst. a Covid-19-Verordnung besondere Lage)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>16007. Durchführung einer privaten Veranstaltung mit mehr Personen als zulässig sind (Art. 28 Bst. c i.V.m. Art. 14 Abs. 3 und 15 Abs. 3 Bst. a Covid-19-Verordnung besondere Lage)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td>16007. Durchführung einer privaten Veranstaltung mit mehr Personen, als zulässig sind (Art. 28 Bst. c i.V.m. Art. 14 Abs. 3 und 15 Abs. 3 Covid-19-Verordnung besondere Lage)</td><td colspan="2">200</td></tr>
 <tr><td colspan="2">**XVII.** **Epidemiengesetz vom 28. September 2012**[^annex2-lvlu1-lvlu1-26] **(EpG) i.V.m.** Covid-19-Verordnung internationaler Personenverkehr vom **23. Juni 2021**[^annex2-lvlu1-lvlu1-27]</td><td colspan="2">[tab]</td></tr>
-<tr><td colspan="2">17001. Fehlender Nachweis einer molekularbiologischen Analyse auf Sars-Cov-2 oder eines Sars-CoV-2-Schnelltests zur Fachanwendung mit negativem Ergebnis bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG i.V.m. Art. 8 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td colspan="2">200</td></tr>
+<tr><td colspan="2">17001. Fehlender Nachweis einer molekularbiologischen Analyse auf Sars-Cov-2 oder eines Sars-CoV-2-Schnelltests zur Fachanwendung mit negativem Ergebnis bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG i.V.m. Art. 8 Abs. 1 und 4 Covid-19-Verordnung internationaler Personenverkehr)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td colspan="2">17002. Fehlende oder falsche Angaben der Kontaktdaten bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG und Art. 3 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td colspan="2">100</td></tr>
 <tr><td colspan="2">17003. Nichtdurchführung eines Tests zwischen dem vierten und siebten Tag nach der Einreise (Art. 83 Abs. 1 Bst. k EpG und Art. 8 Abs. 3 Covid-19-Verordnung internationaler Personenverkehr)</td><td colspan="2">200</td></tr>
 <tr><td colspan="2">17004. Fehlende Meldung eines Testergebnisses des zwischen dem vierten und siebten Tag nach der Einreise durchgeführten Tests (Art. 83 Abs. 1 Bst. k EpG und Art. 10 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td colspan="2">100</td></tr>
