@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2021-12-18
+version: 2021-12-20
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211218/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211218-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211218/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211220/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211220-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211220/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 18 December 2021)
+of 23 June 2021 (Status as of 20 December 2021)
 
 The Swiss Federal Council,
 
@@ -45,44 +45,45 @@ ordains:
 
 <sup>1</sup> Unless this Ordinance provides otherwise, the cantons shall retain their responsibilities in accordance with the EpidA.
 
-<sup>2</sup> The cantons are responsible for measures relating to compulsory and upper secondary schools.
+<sup>2</sup> Face masks must be worn in upper secondary schools in accordance with Article 6. The cantons are responsible for measures relating to compulsory and upper secondary schools.[^2-1]
+
+[^2-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 3
 
-**Persons with a certificate**
+**Certificates**[^3-1]
 
 <sup>1</sup>
 
-Persons with a certificate in terms of this Ordinance are persons who hold one of the following certificates:
+In this Ordinance:
 
-- a. a COVID-19 certificate in accordance with Article 1 letter a of the COVID-19 Ordinance on Certificates of 4 June 2021[^3-1];
-- b. a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates.
+- a. *Vaccination certificate* means a COVID-19 vaccination certificate under Article 1 letter a number 1 of the COVID-19 Certificates Ordinance of 4 June 2021[^3-2] or a recognised foreign certificate certifying vaccination under Section 7 of the COVID-19 Certificates Ordinance;
+- b. *Recovery certificate* means a COVID-19 recovery certificate under Article 1 letter a number 2 of the COVID-19 Certificates Ordinance or a recognised foreign certificate certifying recovery under Section 7 of the COVID-19 Certificates Ordinance;
+- c. *Test certificate* means a test certificate under Article 1 letter a number 3 of the COVID-19 Certificates Ordinance or a recognised foreign certificate certifying recovery under Section 7 of the COVID-19 Certificates Ordinance.
+- d.[^3-3] …
 
-<sup>2</sup> ...[^3-2]
-
-<sup>2bis</sup> ...[^3-3]
-
-<sup>3</sup> ...[^3-4]
-
-[^3-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^3-2]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 24 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
-[^3-3]: Inserted by No I of the O of 1 Oct. 2021 (Proof for persons who can neither be vaccinated nor tested on medical grounds) ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)). Repealed by Annex No 2 of the O of 3 Nov. 2021, with effect from 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^3-4]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 24 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564), [590](https://fedlex.data.admin.ch/eli/oc/2021/590)).
+[^3-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^3-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^3-3]: Enters into force on 10 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 3a
 
-**Persons with a vaccination or recovery certificate**[^3a-1]
+**Access restrictions**[^3a-1]
 
-Persons with a vaccination or recovery certificate in terms of this Ordinance are persons who hold any one of the following certificates:
+<sup>1</sup> Restrictions on access to businesses, establishments and events for people with specific certificates apply only to person aged 16 or above.
 
-- a. a COVID-19 vaccination certificate under Article 1 letter a number 1 of the COVID-19 Certificates Ordinance of 4 June 2021[^3a-2];
-- b. a COVID-19 recovery certificate under Article 1 letter a number 2 of the COVID-19 Certificates Ordinance;
-- [tab] c.[^3a-3] …
-- d. a recognised foreign certificate certifying vaccination or recovery in accordance with Section 7 of the COVID-19 Certificates Ordinance.
+<sup>2</sup> If access is restricted to persons who hold either a vaccination or recovery certificate and a test certificate, a person does not need a test certificate unless their vaccination or recovery certificate has been valid for more than 120 days. This does not apply to persons with a recovery certificate based on antibody tests in accordance with Article 16 paragraph 3 COVID-19 Certificates Ordinance of 4 June 2021[^3a-2].
 
-[^3a-1]: Inserted by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+<sup>3</sup> …[^3a-3]
+
+<sup>4</sup> Persons who have a medical certificate confirming that they cannot be vaccinated for a medical reason in accordance with Annex 4 shall be treated in the same way as persons with a vaccination or recovery certificate with regard to access to businesses, establishments and events, provided they present a test certificate. The exemption from the mask requirement under Article 6 paragraph 2 letter i does not apply to them.
+
+- [tab] <sup>5</sup> The medical certificate must be issued by a doctor registered in Switzerland who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^3a-4] and holds a federal postgraduate qualification in the field of medicine that encompasses the reason provided.
+
+[^3a-1]: Inserted by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^3a-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^3a-3]: Comes into force on 10 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^3a-3]: Enters into force on 10 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^3a-4]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 ## Section 2 Measures involving Persons
 
@@ -135,7 +136,7 @@ The following persons are exempt from the requirement in paragraph 1:
 - f.[^6-1] persons in the sport and culture sectors who are exempted under a provision of this Ordinance from the requirement to wear a mask;
 - g.[^6-2] persons in restaurants, bars and clubs: if they sit at a table;
 - h.[^6-3] persons in the public area at events: when consuming food or drink while seated;
-- i.[^6-4] persons in in publicly accessible businesses and establishments or at events to which access is restricted to persons with a vaccination or recovery certificate.
+- i.[^6-4] persons in in publicly accessible businesses and establishments or at events to which access is restricted to persons who have both a vaccination or recovery certificate and a test certificate.
 
 <sup>3</sup> and <sup>4</sup> ...[^6-5]
 
@@ -151,7 +152,7 @@ Socio-medical institutions may in consultation with the responsible cantonal aut
 [^6-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 [^6-2]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^6-3]: Inserted by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^6-4]: Inserted by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^6-4]: Inserted by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^6-5]: Repealed by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), with effect from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 ## Section 3 Measures relating to Contact Quarantine and Isolation
@@ -260,22 +261,26 @@ The precautionary measures plan must provide for the following:
 - b. measures relating to compliance with the requirement to wear a mask under Article 6;
 - c. the recording of the contact data of persons present in accordance with Article 11 where required by this Ordinance.
 - d. measures relating to persons who are not required to wear a mask in accordance with Article 6 paragraph 2;
-- e. measures relating to maintaining the required distance, unless, in the case of persons aged 16 or over, access is restricted to persons with a certificate.[^10-1]
+- [tab] e.[^10-1] measures relating to maintaining the required distance, unless access is restricted to persons with a vaccination, recovery or test certificate or is more strictly restricted.[^10-2]
 
 <sup>3</sup>
 
-If entry for persons aged 16 and over is restricted to persons with a certificate, the precautionary measures plan must also include the following measures:
+If entry is restricted to persons with a vaccination, recovery or test certificate, the precautionary measures plan must also include the following measures:[^10-3]
 
 - a. measures on implementing the entry restrictions;
-- b.[^10-2] … .[^10-3]
+- b.[^10-4] …
+- c.[^10-5] measures concerning persons with a certificate under Article 3*a* paragraph 4 confirming that they cannot be vaccinated for medical reasons.[^10-6]
 
 <sup>4</sup> The requirements of paragraphs 2 and 3 are specified in more detail in Annex 1.
 
 <sup>5</sup> A person must be designated in the precautionary measures plan as responsible for implementing the plan and as the contact for the competent authorities.
 
-[^10-1]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^10-2]: Comes into force on 10 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^10-3]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^10-2]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-3]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^10-4]: Comes into force on 10 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-5]: Inserted by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^10-6]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 11
 
@@ -295,40 +300,36 @@ If entry for persons aged 16 and over is restricted to persons with a certificat
 
 In restaurants, bars and clubs in which food and drinks are consumed on the premises, the following applies:
 
-- a. Proprietors must restrict access to indoor areas to persons aged 16 and over with a certificate. Proprietors must ensure that the premises are effectively ventilated. Guests must be seated, unless access for persons aged 16 or over is restricted to persons with a vaccination or recovery certificate.
-- b. Proprietors may restrict access to outdoor areas to persons aged 16 or over to persons with a certificate. If access to outdoor areas is not restricted, either the required distance must be maintained between each group of guests or effective partitioning must be in place.
-- c. In the case of outdoor events to which access for persons aged 16 or over is restricted to persons with a certificate, this restriction also applies to the outdoor areas of restaurants, bars and clubs forming part of the event.[^12-1]
+- a. Proprietors must restrict access to indoor areas to persons with a vaccination or recovery certificate. Proprietors must ensure that the premises are effectively ventilated. Guests must be seated, unless access for persons is restricted to persons with either a vaccination or recovery certificate and a test certificate.
+- b. Proprietors may restrict access to outdoor areas to persons with a vaccination, recovery or test certificate. If access to outdoor areas is not restricted, either the required distance must be maintained between each group of guests or effective partitioning must be in place.
+- c. If the outdoor area of a restaurant, bar or club is at an event venue with access restriction, this access restriction also applies to the outdoor area of the restaurant, bar or club.[^12-1]
 
 <sup>2</sup> ...[^12-2]
 
-<sup>3</sup> Workplace canteens, restaurants and food outlets in airport transit zones and social institutions, in particular those open to the public, may choose not to restrict entry to persons aged 16 and over with a certificate. However, in this case, they are required to have appropriate precautionary measures in place, such as requiring guests or groups of guests to maintain the required distance from each other and to remain seated while consuming food and drinks.[^12-3]
+<sup>3</sup> Workplace canteens, restaurants and food outlets in airport transit zones and social institutions, in particular those open to the public, may choose not to restrict entry provided appropriate precautionary measures are in place, such as requiring guests or groups of guests to maintain the required distance from each other and to remain seated while consuming food and drinks.[^12-3]
 
 <sup>4</sup> …[^12-4]
 
-[^12-1]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^12-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^12-2]: Repealed by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), with effect from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^12-3]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^12-3]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^12-4]: Repealed by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), with effect from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 13
 
 **Special provisions for discotheques and dance venues and other businesses and establishments in the culture, entertainment, leisure and sport sectors**[^13-1]
 
-<sup>1</sup> Discotheques and dance venues must restrict entry for persons aged 16 and over to those with a certificate and record guests’ contact details.
+<sup>1</sup> Discotheques and dance venues must restrict entry to persons with a test or recovery certificate and a test certificate. They must also record guests’ contact details.
 
-<sup>2</sup> Publicly accessible businesses and establishments in the culture, entertainment, leisure and sport sectors in which visitors do not only have access to outdoor areas must restrict entry for persons aged 16 and over to those with a certificate.[^13-2]
+<sup>2</sup> Publicly accessible businesses and establishments in the culture, entertainment, leisure and sport sectors in which visitors do not only have access to outdoor areas must restrict entry for persons aged 16 and over to those with a certificate.
 
-<sup>3</sup> Discotheques and dance venues and businesses and establishments under paragraph 2 may the restrict access for persons aged 16 or over to persons with a vaccination or recovery certificate.[^13-3]
-
-[^13-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542), [547](https://fedlex.data.admin.ch/eli/oc/2021/547)).
-[^13-2]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^13-3]: Inserted by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^13-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 14
 
 **Outdoor events**[^14-1]
 
-<sup>1</sup> Access to outdoor events for persons aged 16 or over must be restricted to persons with a certificate. The organisers may restrict access for persons aged 16 or over to persons with a vaccination or recovery certificate.
+<sup>1</sup> Access to outdoor events for persons aged 16 or over must be restricted to persons with a vaccination, recovery or test certificate. The organisers may restrict access to persons with a vaccination or recovery certificate or by other means.[^14-2]
 
 <sup>2</sup>
 
@@ -340,6 +341,7 @@ A restriction on access is not required if the following requirements are met:
 <sup>3</sup> In the case of events involving family and friends (private events) with a maximum of 50 persons that take place outdoors but not in publicly accessible businesses and establishments, a restriction on access is not required and there is no requirement to draw up and implement a precautionary measures plan; only Article 4 applies.
 
 [^14-1]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^14-2]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 14a
 
@@ -351,7 +353,7 @@ A restriction on access is not required if the following requirements are met:
 
 **Indoor events**[^15-1]
 
-<sup>1</sup> Access to indoor events for persons aged 16 or over must be restricted to persons with a certificate. The organisers may restrict access for persons aged 16 or over to persons with a vaccination or recovery certificate.
+<sup>1</sup> Access to indoor events must be restricted to persons with a vaccination or recovery certificate. The organisers may restrict access to persons with both a vaccination or recovery certificate and a test certificate.[^15-2]
 
 <sup>2</sup>
 
@@ -363,13 +365,15 @@ In the case of religious events, funerals, events relating to the usual activiti
 - d. The organiser must draw up a precautionary measures plan in accordance with Article 10 and implement the same.
 - e. The organiser must record the contact data of the persons present.
 
-<sup>3</sup> In the case of private events with a maximum of 30 persons that are not held in indoor areas of publicly accessible establishments or businesses, a restriction on access is not required and the requirement to draw up a precautionary measures plan does not apply; only Article 4 applies. It is however recommended that access be restricted to persons with a certificate if more than 10 persons are present.
+<sup>3</sup> In the case of private events with a maximum of 30 persons that are not held in indoor areas of publicly accessible establishments or businesses, it is not necessary to draw up and implement a precautionary measures plan. If no more than 10 persons are present, nor is it necessary to restrict access; in this case, Article 4 only applies.[^15-3]
 
 [^15-1]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^15-2]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^15-3]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 16
 
-**Special Provisions for large-scale events: Authorisation**
+**Special Provisions for large-scale events[^16-1]**
 
 <sup>1</sup> Any person planning to hold an event involving more than 1000 persons, whether visitors or participants, (large-scale events), shall require authorisation from the competent cantonal authority.
 
@@ -385,11 +389,13 @@ Authorisation shall be granted provided:
   - 1\. capacities to identify and notify persons who may have been infected as required under Article 33 EpidA,
   - 2\. capacities in the healthcare sector to treat both COVID-19-patients and other patients without restriction; this includes in particular the capacity to carry out non-urgent medical procedures;
 
-- c.[^16-1] the organiser submits a precautionary measures plan under Article 10.
+- c.[^16-2] the organiser submits a precautionary measures plan under Article 10.
 
 <sup>3</sup> If a large-scale event is being held in two or more cantons, authorisation is required from each canton. The cantons shall coordinate the procedure together.
 
 <sup>4</sup> Any person who wishes to hold similar events regularly in the same establishment may request authorisation to do so in a single application.
+
+<sup>4bis</sup> The competent cantonal authority may grant exemptions from the obligation to restrict access in the case of outdoor sporting events that take place over long distances or over areas in open terrain and where neither access controls nor barriers are possible due to local conditions.[^16-3]
 
 <sup>5</sup>
 
@@ -398,17 +404,15 @@ The canton shall revoke authorisation or shall issue additional restrictions if:
 - a. the epidemiological situation has deteriorated to the extent that holding the event is no longer possible, in particular because the required capacities under paragraph 2 letter b can no longer be guaranteed; or
 - b. an organiser did not comply with the measures set out in the precautionary measures plan at an event that has already been held and cannot guarantee that the measures will be complied with in future.
 
-[^16-1]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^16-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^16-2]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^16-3]: Inserted by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 17
 
-**Special Provisions for large-scale events: Protection measures**
+[^17-1]
 
-<sup>1</sup> Persons aged 16 and over may only be allowed entry to a large-scale event if they can provide a certificate. The organisers may restrict access for persons aged 16 or over to persons with a vaccination or recovery certificate.[^17-1]
-
-<sup>2</sup> In the case of outdoor sports events that are held over longer routes or on routes in the open air, the cantons may permit exceptions to the requirement in paragraph 1 if no control on access to the event is possible because of local conditions or circumstances.
-
-[^17-1]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^17-1]: Repealed by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 18
 
@@ -416,11 +420,12 @@ The canton shall revoke authorisation or shall issue additional restrictions if:
 
 The following applies to trade and consumer fairs:
 
-- a. If the fair does not take place exclusively outdoors, access must be restricted to persons aged 16 or over with a certificate.
+- a.[^18-2] If the fair does not take place exclusively outdoors, access must be restricted to persons with a vaccination or recovery certificate; the organisers may also restrict access to persons who have either a vaccination or recovery certificate and a test certificate.
 - b. The organiser must draw up and implement a precautionary measures plan in accordance with Article 10.
 - c. If more than 1000 persons are present on any day, whether they are visitors or participants, the fair must be authorised by the competent cantonal authority; the authorisation requirements and the requirements for revoking authorisation in Article 16 paragraphs 2, 4 and 5 apply.
 
-[^18-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^18-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^18-2]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 19
 
@@ -432,41 +437,80 @@ Restrictions on numbers do not apply to the following events:
 
 - a. meetings of the legislatures at federal, cantonal and communal level;
 - b. meetings of public-sector bodies that cannot be postponed;
-- c. meetings required to ensure the proper functioning of institutional beneficiaries under Article 2 paragraph 1 of the Host State Act of 22 June 2007[^19-1].
+- c. meetings required to ensure the proper functioning of institutional beneficiaries under Article 2 paragraph 1 of the Host State Act of 22 June 2007[^19-1];
+- d.[^19-2] hearings before arbitration or judicial authorities.
 
 <sup>2</sup> Articles 10 and 11 do not apply to political and civil society demonstrations and to collecting signatures.
 
 <sup>3</sup> Articles 14–17 do not apply to events in accordance with paragraphs 1 and 2.
 
 [^19-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^19-2]: Inserted by No 1 of the O of 17 Dec. 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 19a
 
-**Special provisions for tertiary-level educational institutions**[^19a-1]
+**Special provisions for tertiary-level education, professional education and training and continued education and training**[^19a-1]
 
-If the canton or tertiary-level educational institution restricts access to teaching and research activities in a Bachelor or Master degree course or a PhD programme to certificate holders, it is not exempt from the requirement to provide for appropriate protective measures, and in particular the requirement to wear a face mask in accordance with Article 6.
+In the case of the following education and training and continued education and training programmes and activities, access must be restricted to persons with a vaccination, recovery or test certificate:
 
-[^19a-1]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+- a. teaching and research activities in a Bachelor or Master degree course or a PhD programme and examinations at tertiary education institutions;
+- b. teaching activities for federally recognised courses and post-graduate studies at professional education institutions and examinations at professional education institutions;
+- c. federal professional examinations and advanced federal professional examinations;
+- d. examinations as part of continuing education and training programmes in accordance with Article 3 letter a of the Federal Act of 20 June 2014[^19a-2] on Continuing Education and Training (CETA);
+- e. officially ordered continuing education and training;
+- f. preparatory courses for federal examinations;
+- g. programmes for acquiring basic skills in accordance with Article 13 CETA;
+- h. programmes for fulfilling integration criteria in accordance with Article 58*a* of the Foreign Nationals and Integration Act of 16 December 2005[^19a-3].
+
+[^19a-1]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Amended by No I of the O of 17 Dec. 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^19a-2]: [SR 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
+[^19a-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
 #### Art. 20
 
-**Special provisions for persons engaging in sports or cultural activities**
+**Special provisions for sports or cultural activities**[^20-1]
 
-The following applies to persons engaging in sports or cultural activities:
+<sup>1</sup>
 
-- a. The requirements to wear a face mask and to maintain the required distance do not apply.
-- b.[^20-1] If the activities are engaged in as part of events, Articles 14 and 15 apply with regard to restrictions on the number of persons and access.
-- c. A precautionary measures plan must be drawn up and implemented only if the activities are carried out in groups of more than five persons; in the case of persons who carry out activities in terms of their employment, the requirements in Article 25 apply.
-- d.[^20-2]
+The following applies to sports and cultural activities outdoors:
 
-  In the case of activities in indoor areas:
+- a. There is no requirement to restrict access.
+- b. There is no requirement to wear a face mask.
+- c. There is no requirement to maintain the required distance.
 
-  - 1\. For persons aged 16 and over, entry must be restricted to those with a certificate.
-  - 2\. Effective ventilation must be available.
-  - 3\. If no mask is worn during the activity, the proprietor of the establishment or the organiser of the activity must record the contact data.
+<sup>2</sup>
 
-[^20-1]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^20-2]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+The following applies to sports and cultural activities involving two or more persons in publicly accessible indoor areas of businesses and establishments:
+
+- a. Access must be restricted to persons with a vaccination or recovery certificate; it may also be restricted to persons that have both a vaccination or recovery certificate and a test certificate.
+- b. The requirement to wear a face mask is governed by Article 6.
+- c. The premises must be adequately ventilated.
+
+<sup>3</sup>
+
+The following persons shall have access with a vaccination, recovery or test certificate to sports or cultural activities in publicly accessible indoor areas of businesses and establishments but are not required to wear a face mask there:
+
+- a.
+
+  in the case of sports activities, including sports events:
+
+  - 1\. elite athletes who hold a national or regional Swiss Olympic Card or members of the national squad of a national sports association,
+  - 2\. athletes in teams competing in a professional or semi-professional league or a national junior league; if play is only professional or semi-professional in the male or female league, the exemption from the mask requirement also applies to the league of the other sex;
+
+- b.
+
+  in the case of cultural activities, including events:
+
+  - 1\. professional artists,
+  - 2\. professional artists in training.
+
+<sup>4</sup> Children and young adults under the age of 16 are not required to wear a face mask for sports or cultural activities in publicly accessible indoor areas of businesses and establishments.
+
+<sup>5</sup> Where a sports or cultural activity is carried out as part of an event at which stricter access restriction apply than for the activity, the access restrictions for the event also apply to the persons carrying out the activity. The foregoing does not apply to the persons specified in paragraph 3.
+
+<sup>6</sup> For sports and cultural activities, a precautionary measures plan must be drawn up and implemented only if the activities are carried out in groups of more than five persons; in the case of persons who carry out activities in terms of their employment, the requirements in Article 25 apply.
+
+[^20-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 21
 
@@ -480,11 +524,13 @@ In the case of the activities of organisations and institutions involved in publ
 
 **Relaxation of requirements by the cantons**
 
-The responsible cantonal authority may authorise a relaxation of the requirements under Article 10 paragraphs 2–4 and Article 20 provided:
+The responsible cantonal authority may authorise a relaxation of the requirements under Article 10 paragraphs 2–4 provided:[^22-1]
 
 - a. overriding public interests so require;
 - b. the epidemiological situation in the canton or the region concerned permits this; and
 - c. the organiser or operator submits a precautionary measures plan under Article 10 that includes specific measures to prevent the spread of the coronavirus and to break transmission chains.
+
+[^22-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 23
 
@@ -518,29 +564,33 @@ The operator and organisers must:
 
 #### Art. 25
 
-**Preventive measures**
+**Preventive measures**[^25-1]
 
-<sup>1</sup> Employers must guarantee that their employees are able to comply with the FOPH recommendations on hygiene and social distancing. To do so, they must plan and implement related measures.
+<sup>1</sup> Employers must guarantee that their employees are able to comply with the FOPH recommendations on hygiene and social distancing. To do so, they must plan and implement the related measures.
 
-<sup>1bis</sup>
+<sup>2</sup>
 
-In indoor areas, including vehicles, in which two or more persons are present, each person must wear a face mask. The requirement does not apply to:
+In indoor areas, including vehicles, in which two or more persons are present, each person must wear a face mask. The requirement does not apply to persons who:
 
-- a. activities during which a mask cannot be worn on safety grounds or because of the nature of the activity;
-- b. persons not required to wear a face mask in accordance with Article 6 paragraph 2.[^25-1]
+- a. engage in activities during which a mask cannot be worn on safety grounds or because of the nature of the activity; or
+- b. are not required to wear a face mask in accordance with Article 6 paragraph 2 letters b, c, e and f.
 
-<sup>2</sup> Employers shall take further measures in accordance with the STOP Principle (Substitution, Technical measures, Organisational measures, Personal protective equipment), in particular the option of working from home, physical separation, separate teams, regular ventilation of rooms or wearing face masks.
+<sup>3</sup> Employers shall arrange for further measures in accordance with the STOP Principle (Substitution, Technical measures, Organisational measures, Personal protective equipment), in particular the option of physical separation, separate teams, regular ventilation of rooms or wearing face masks outdoors.
 
-<sup>2bis</sup> They are entitled to verify that their employees hold a certificate pursuant to Article 3 if this serves the purpose of ensuring appropriate precautionary measures or implementation of a testing plan pursuant to Article 7 paragraph 4. The result of such a verification may not be used for any other purpose.[^25-2]
+<sup>4</sup>
 
-<sup>2ter</sup> If the employer chooses to verify that its employees hold a certificate pursuant to Article 2<sup>bis</sup>, this and any resulting measures must be recorded in writing. The employees or their representative body must be consulted in advance.[^25-3]
+They are entitled under the following conditions to verify that their employees hold a vaccination, recovery or test certificate:
 
-<sup>3</sup> For the protection of particularly vulnerable employees, Article 27*a* of COVID-19 Ordinance 3 of 19 June 2020[^25-4] also applies.
+- a. Verification is to ensure appropriate precautionary measures or implementation of a testing plan pursuant to Article 7 paragraph 4.
+- b. The result of such a verification may not be used for any other purpose.
+- c. Verification and any resulting measures are recorded in writing.
+- d. The employees or their representatives are consulted in advance.
+- [tab] <sup>5</sup> Employers are required to ensure that their employees are able to work from home where the nature of the activity permits and provided this can be reasonably expected. They shall implement the required organisational and technical measures.
 
-[^25-1]: Inserted by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^25-2]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^25-3]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^25-4]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+<sup>6</sup> For the protection of particularly vulnerable employees, Article 27*a* of COVID-19 Ordinance 3 of 19 June 2020[^25-2] also applies.
+
+[^25-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^25-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -576,30 +626,32 @@ The cantons are required to report the following to the Coordinated Medical Serv
 
 Any person who commits any of the following acts shall be liable to a fine:
 
-- a.[^28-1] as an operator or organiser, wilfully or negligently failing to comply with any of the following provisions: Article 10 paragraphs 1–3, Articles 12, 13, 14 paragraphs 1 and 2, 15 paragraphs 1 and 2, 17 paragraph 1, 18 letters a and b and 20;
+- a.[^28-1] as an operator or organiser, wilfully or negligently failing to comply with any of the following provisions: Article 10 paragraphs 1–3, Articles 12, 13, 14 paragraphs 1 and 2, 15, 18 letters a and b, 19*a* and 20 paragraphs 2, 3 and 5;
 - b. as an operator or organiser, wilfully or negligently processing contact data recorded pursuant to Article 11 for other purposes in contravention of Article 11 paragraph 3 or retaining such details for longer than 14 days after the person or persons concerned participated in the event or visited the establishment or business;
-- c.[^28-2] wilfully holding an event involving more persons than are permitted under Articles 14 paragraphs 2 and 3; and 15 paragraphs 2 and 3 letter a;
+- c.[^28-2] wilfully holding an event involving more persons than are permitted under Articles 14 paragraphs 2 and 3; and 15 paragraphs 2 and 3 with the applicable access restrictions;
 - d.[^28-3] wilfully holding a large-scale event under Article 16 paragraph 1 or a trade or consumer fair under Article 18 letter c without the required authorisation or in derogation from the approved precautionary measures plan;
 - [tab] e.[^28-4] wilfully or negligently failing to wear a face mask in contravention of Articles 5 paragraph 1, 6 paragraph 1 or 15 paragraph 2 letter b in enclosed areas of public transport vehicles or in publicly accessible indoor and outdoor areas of businesses and establishments, unless an exception pursuant to Article 5 paragraph 1 or 6 paragraph 2 applies;
-- f. .[^28-5] ...
+- f. [^28-5] ...
 - g.[^28-6] as a guest in a restaurant, wilfully contravening the requirement to be seated in Article 12 paragraph 1 letter a;
-- h.[^28-7] as a person aged 16 or over without a valid certificate pursuant to Article 3, wilfully obtaining access to an establishment, business or event for which such a certificate is required, other than in the case of a private event in accordance with Article 15 paragraph 3 letter a.
+- h.[^28-7] wilfully obtaining access without the required certificate to an establishment, business or event for which such a certificate is required.
 
-[^28-1]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^28-2]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^28-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^28-2]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^28-3]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 [^28-4]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^28-5]: Repealed by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), with effect from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 [^28-6]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^28-7]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^28-7]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 ## Section 8 Updating the Annexes
 
 #### Art. 29
 
-<sup>1</sup> The Federal Department of Home Affairs shall update Annexes 1 and 2 in accordance with the latest scientific knowledge.
+<sup>1</sup> The Federal Department of Home Affairs shall update Annexes 1, 2 and 4 in accordance with the latest scientific knowledge.[^29-1]
 
 <sup>2</sup> It shall update Annex 1 in consultation with the Federal Department of Economic Affairs, Education and Research and Annex 2 in consultation with the Federal Commission for Vaccination.
+
+[^29-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 ## Section 9 Final Provisions
 
@@ -627,13 +679,13 @@ Authorisations for pilot projects that have been granted on the basis of Article
 
 #### Art. 32a
 
-**Transitional provision to the Amendment of 3 November 2021**[^32a-1]
+**Transitional provision to the Amendment of 17 December 202**[^32a-1]
 
-<sup>1</sup> Until 24 January 2021, documentary proof that a person can neither be vaccinated nor tested on medical grounds is deemed equivalent to a certificate under Articles 3 paragraph 1 and 3*a*. As proof, a medical certificate from a doctor who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^32a-2] is required.
+<sup>1</sup> Until 24 January 2022, persons who can provide a certificate confirming that they can neither be vaccinated nor tested on medical grounds may have the same access to businesses, establishments and events as persons who have a vaccination, recovery or test certificate. The exception to the requirement to wear a mask under Article 6 paragraph 2 letter i does not apply to them.
 
-<sup>2</sup> Events, businesses and establishments that restrict access for persons aged 16 or over to persons with a vaccination or recovery certificate, may, in derogation from Annex 1 number 2 letter a, use a different method to verify whether a certificate complies with Article 3*a* letter c until 12 December 2021.
+<sup>2</sup> The certificate must be issued by a doctor registered in Switzerland who is authorised to practise their profession under their own professional responsibility in accordance with the Medical Professions Act of 23 June 2006[^32a-2].
 
-[^32a-1]: Inserted by Annex No 2 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^32a-1]: Inserted by Annex No 2 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^32a-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 33
@@ -648,7 +700,7 @@ Annex 1*[^t-1]*
 
 ## Requirements for precautionary measures plans
 
-[^t-1]: Revised by No II of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), of 1 Oct. 2021 (Proof for persons who can neither be vaccinated nor tested on medical grounds) ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)), Annex No 2 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) and No II of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^t-1]: Revised by No II of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), of 1 Oct. 2021 (Proof for persons who can neither be vaccinated nor tested on medical grounds) ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)), Annex No 2 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No II of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate) until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)) and No II para. 1 of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 ### 1 Precautionary measures plans for publicly accessible businesses and establishments and for events to which entry for persons aged 16 and over is not restricted to those with a certificate
 
@@ -702,7 +754,7 @@ Annex 1*[^t-1]*
 - 1\.4.6 In the case of families or other groups with persons who know each other, it is sufficient to record the contact data of only one person in the family or group concerned.
 - 1\.4.7 The operator or organiser must guarantee the confidentiality of the contact data when recording the same, and data security, in particular in storing the data.
 
-### 2 Precautionary measures plans for publicly accessible businesses and establishments and events to which entry is restricted to persons aged 16 and over with a certificate or to persons with a vaccination or recovery certificate
+### 2 Precautionary measures plans for publicly accessible businesses and establishments and events to which entry is restricted to persons with a vaccination, recovery or test certificate or more strictly
 
 The precautionary measures plan shall include measures related to:
 
@@ -719,11 +771,9 @@ The precautionary measures plan shall include measures related to:
 - b. the provision of information to visitors and participants on the requirement to have a certificate and on the applicable hygiene and social distancing measures;
 - c. hygiene, in particular the provision of disinfectant, regular cleaning, and ventilation;
 - d. a requirement to wear a face mask for staff and other persons working at the event who come into contact with visitors on the premises.
-- e.[^annex1-lvlu1-lvl2-2] …
-- [tab]
+- e. the presence of persons holding documentary proof in accordance with Article 3*a* paragraph 4 or 32*a* paragraph 1, such as the requirement for these persons to wear a face mask or, if they are able to provide a certificate exempting them from this requirement under Article 5 paragraph 1 letter b, specifications on maintaining the required distance.
 
 [^annex1-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^annex1-lvlu1-lvl2-2]: Comes into force on 10 Jan. 2022 (AS 2021 **813** Ziff. V).
 
 Annex 2*[^t-2]*
 
@@ -766,3 +816,28 @@ The legislation below is amended as follows:
 ...[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: The amendments may be consulted under [AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379).
+
+Annex 4*[^t-3]*
+
+(Art. 3*a* para. 4)
+
+## Medical reasons why a person may not be able to receive a vaccine
+
+[^t-3]: Inserted by No II para. 2 of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+
+Medical reasons why a person may not be able to receive a vaccine are as follows:
+
+- a.
+
+  severe allergies to components of vaccines authorised in Switzerland confirmed by a specialist in allergology and immunology, namely the following absolute or relative contraindications of an allergic nature before or after vaccination where there is no option or recommendation to administer a different vaccine of the same or a different technology:
+
+  - 1\. severe anaphylaxis (grade III or IV) with unclear or as yet undetermined cause,
+  - 2\. idiopathic anaphylaxis,
+  - 3\. a general reaction or anaphylaxis to ingredients of the vaccine,
+  - 4\. known or probable immediate-type sensitisation to polyethylene glycol, tromethamine or polysorbate 80,
+  - 5\. anaphylaxis following the first dose of the vaccine;
+
+- b. severe non-allergic vaccination reactions after the first or second dose of an mRNA vaccine, namely myocarditis or pericarditis, with no option or recommendation to perform the second vaccination or booster with a vaccine of the same or a different technology;
+- c. capillary leak syndrome with no option or recommendation to be vaccinated with a vaccine other than the Janssen COVID-19 vaccine;
+- d. pregnancy for the first 12 weeks of pregnancy and the time needed to establish the vaccination schedule;
+- e. severe mental impairment that generally makes vaccination impossible despite psychological or medical support and individual care.
