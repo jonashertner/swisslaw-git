@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-12-18
+version: 2021-12-20
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211218-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211218/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211220/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211220-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211220/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211218/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 18 décembre 2021)
+du 19 juin 2020 (Etat le 20 décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -767,7 +767,7 @@ Annexe 1*[^t-1]*
 
 ## Liste des pays et régions à risque
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 26 nov. 2021 ([RO 2021 778](https://fedlex.data.admin.ch/eli/oc/2021/778)). Mise à jour par le ch. III de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 déc. 2021, en vigueur depuis le 20 déc. 2021 ([RO 2021 880](https://fedlex.data.admin.ch/eli/oc/2021/880)).
 
 ### 1. Liste des pays et régions à risque (art. 3, al. 2, let. a)
 
@@ -789,7 +789,6 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 - – Hong Kong
 - – Indonésie
 - – Irlande
-- – Jordanie
 - – Koweït
 - – Macao
 - – Monaco

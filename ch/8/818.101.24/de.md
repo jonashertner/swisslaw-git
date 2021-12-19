@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-12-18
+version: 2021-12-20
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211218-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211218/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211220/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211220-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211220/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211218/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 18. Dezember 2021)
+vom 19. Juni 2020 (Stand am 20. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -763,11 +763,11 @@ Gestützt auf Artikel 24*a* des bisherigen Rechts zulässige Sars-CoV-2-Schnellt
 
 Anhang 1*[^t-1]*
 
-(Art. 3 Abs. 3, Art. 4 Abs. 2<sup>ter</sup> und Art. 5)
+(Art. 3 Abs. 3, 4 Abs. 2<sup>ter</sup> und Art. 5)
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 26. Nov. 2021 ([AS 2021 778](https://fedlex.data.admin.ch/eli/oc/2021/778)). Bereinigt gemäss Ziff. III der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 15. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 880](https://fedlex.data.admin.ch/eli/oc/2021/880)).
 
 ### 1. Risikoländer und -regionen (Art. 3 Abs. 2 Bst. a)
 
@@ -783,7 +783,6 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Hongkong
 - – Indonesien
 - – Irland
-- – Jordanien
 - – Kanada
 - – Katar
 - – Kolumbien
