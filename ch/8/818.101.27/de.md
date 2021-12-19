@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 23. Juni 2021 über Massnahmen zur Bekämpfung der Covid-19-Epidemie im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung internationaler Personenverkehr)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: de
-version: 2021-12-18
+version: 2021-12-20
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211218-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211218/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211220/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211220-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211220/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211218/de"
 
 (Covid-19-Verordnung internationaler Personenverkehr)**[^t-1]**
 
-vom 23. Juni 2021 (Stand am 18. Dezember 2021)
+vom 23. Juni 2021 (Stand am 20. Dezember 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -85,11 +85,14 @@ Ausgenommen von dieser Pflicht sind Personen, die:[^3-3]
 - c.[^3-4] als Grenzgängerinnen und Grenzgänger in die Schweiz einreisen; oder
 - d. [^3-5] aus Gebieten nach Anhang 1*a* einreisen.
 
+<sup>3</sup> Bei der Einreise mit einem Luftverkehrs- oder einem Busunternehmen, das Fernverkehrsreisen anbietet, sind die Ausnahmen nach Absatz 2 Buchstaben c und d nicht anwendbar.[^3-6]
+
 [^3-1]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^3-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^3-4]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^3-5]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Fassung gemäss Ziff. I der V vom 1. Okt. 2021, in Kraft seit 4. Okt. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^3-6]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 
 #### Art. 4
 
@@ -156,7 +159,7 @@ Sobald es Kenntnis von der Einreise einer mit Sars-CoV-2 infizierten Person erh�
 
 <sup>1</sup> Die Luftverkehrsunternehmen und die Busunternehmen, die Fernverkehrsreisen anbieten, müssen die Passagiere informieren, dass diese sich vor der Abreise in die Schweiz auf Sars-CoV-2 testen lassen müssen und nur dann zum Flugzeug oder Bus zugelassen werden, wenn sie ein negatives Testergebnis vorweisen.[^7-1]
 
-<sup>2</sup> Sie müssen vor der Abreise überprüfen, ob ein negatives Testergebnis vorliegt, das auf einer molekularbiologischen Analyse auf Sars-CoV-2 beruht. Die Anforderungen an den Test und den Testnachweis werden in Anhang 2*a* geregelt.[^7-2]
+<sup>2</sup> Sie müssen vor der Abreise überprüfen, ob ein negatives Testergebnis vorliegt. Die Anforderungen an den Test und den Testnachweis werden in Anhang 2*a* geregelt.[^7-2]
 
 <sup>3</sup> Die Luftverkehrsunternehmen und die Busunternehmen müssen Passagieren, die kein negatives Testergebnis vorweisen, den Zutritt zum Flugzeug oder Bus verweigern.
 
@@ -174,7 +177,7 @@ Sie dürfen folgende Passagiere ohne das Vorhandensein eines negativen Testergeb
 <sup>5</sup> Bei der Einreise aus einem Staat oder Gebiet nach Anhang 1 Ziffer 1 müssen bereits Personen ab sechs Jahren ein negatives Testergebnis nach Absatz 2 vorweisen können.[^7-6]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^7-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 [^7-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^7-4]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 4. Okt. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 [^7-5]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
@@ -186,7 +189,7 @@ Sie dürfen folgende Passagiere ohne das Vorhandensein eines negativen Testergeb
 
 **Testpflicht**[^8-1]
 
-<sup>1</sup> In die Schweiz einreisende Personen müssen ein negatives Testergebnis vorweisen, das auf einer molekularbiologischen Analyse auf Sars-CoV-2 beruht.[^8-2]
+<sup>1</sup> In die Schweiz einreisende Personen müssen ein negatives Testergebnis vorweisen können. Die Anforderungen an die Tests sowie die Testnachweise werden in Anhang 2*a* geregelt.[^8-2]
 
 <sup>2</sup>
 
@@ -203,7 +206,7 @@ Wer bei der Einreise in die Schweiz kein negatives Testergebnis nach Absatz 1 vo
 <sup>4</sup> Bei der Einreise aus einem Staat oder Gebiet nach Anhang 1 Ziffer 1 gilt Absatz 1 bereits für Personen ab sechs Jahren.[^8-11]
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^8-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 [^8-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^8-4]: Fassung gemäss Anhang Ziff. 2 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 [^8-5]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
@@ -263,6 +266,13 @@ Von der Testpflicht nach Artikel 8 ausgenommen sind zudem:
 
 <sup>2bis</sup>
 
+Von der Testpflicht nach Artikel 8 Absatz 2<sup>bis</sup> ausgenommen sind:
+
+- a. Personen, die aus Staaten oder Gebieten einreisen, die nicht in Anhang 1 Ziffer 1 aufgeführt sind, und den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, die Dauer, für welche die Impfung gilt, sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt;
+- b. Personen, die aus Staaten oder Gebieten einreisen, die nicht in Anhang 1 Ziffer 1 aufgeführt sind, und den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt.[^9a-10]
+
+<sup>2ter</sup>
+
 Von der Quarantänepflicht nach Artikel 9 ausgenommen sind Personen:
 
 - a.
@@ -278,9 +288,9 @@ Von der Quarantänepflicht nach Artikel 9 ausgenommen sind Personen:
 - c. die nach der Teilnahme an einer Veranstaltung in einem Staat oder Gebiet nach Anhang 1 wieder in die Schweiz einreisen, sofern der Nachweis erbracht wird, dass die Teilnahme und der Aufenthalt unter Einhaltung eines spezifischen Schutzkonzepts stattgefunden haben; als Teilnahme an einer Veranstaltung gilt namentlich die berufsmässige Teilnahme an einem Sportwettkampf, Kulturanlass oder Fachkongress;
 - d. die aus einem Staat oder Gebiet nach Anhang 1 für die Teilnahme an einer Veranstaltung in die Schweiz einreisen; als Teilnahme an einer Veranstaltung gilt namentlich die berufsmässige Teilnahme an einem Sportwettkampf, Kulturanlass oder Fachkongress;
 - e. die aus Staaten oder Gebieten einreisen, die nicht in Anhang 1 Ziffer 1 aufgeführt sind, und den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, die Dauer, für welche die Impfung gilt, sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt;
-- f. die aus Staaten oder Gebieten einreisen, die nicht in Anhang 1 Ziffer 1 aufgeführt sind, und den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt.[^9a-10]
+- f. die aus Staaten oder Gebieten einreisen, die nicht in Anhang 1 Ziffer 1 aufgeführt sind, und den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt.[^9a-11]
 
-<sup>3</sup> Die Ausnahmen nach den Absätzen 1–2<sup>bis</sup> gelten nicht für Personen, die Symptome einer Erkrankung an Covid-19 aufweisen, es sei denn, die betreffende Person kann mit einem ärztlichen Attest nachweisen, dass die Symptome auf eine andere Ursache zurückzuführen sind.[^9a-11]
+<sup>3</sup> Die Ausnahmen nach den Absätzen 1–2<sup>ter</sup> gelten nicht für Personen, die Symptome einer Erkrankung an Covid-19 aufweisen, es sei denn, die betreffende Person kann mit einem ärztlichen Attest nachweisen, dass die Symptome auf eine andere Ursache zurückzuführen sind.[^9a-12]
 
 <sup>4</sup> Die zuständige kantonale Behörde kann in begründeten Fällen weitere Ausnahmen von der Test- und Quarantänepflicht bewilligen oder Erleichterungen gewähren.
 
@@ -293,8 +303,9 @@ Von der Quarantänepflicht nach Artikel 9 ausgenommen sind Personen:
 [^9a-7]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 4. Okt. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 [^9a-8]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^9a-9]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 4. Okt. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^9a-10]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^9a-11]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9a-10]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^9a-11]: Ursprüntlich: Abs. 2<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 1. Okt. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9a-12]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 
 #### Art. 10
 
@@ -327,7 +338,7 @@ Wer sich nach Artikel 8 Absatz 3 testen lassen muss, muss das Covid-19-Testzerti
 
 Die Grenzkontrollbehörden können Personen bei der Einreise in die Schweiz risikobasiert kontrollieren. Sie prüfen dabei:[^11-2]
 
-- a.[^11-3] das Vorliegen eines negativen Testergebnisses gemäss Artikel 8 Absatz 1;
+- a.[^11-3] das Vorliegen eines negativen Testergebnisses gemäss Artikel 8 Absätze 1 und 4;
 - b. die Erfassung der Kontaktdaten gemäss Artikel 4 Absatz 1.
 
 <sup>2</sup> Kann die kontrollierte Person das negative Testergebnis oder die Erfassung der Kontaktdaten nicht nachweisen, so erstattet die Grenzkontrollbehörde der zuständigen kantonalen Behörde Meldung. Die Meldung umfasst Angaben zur eingereisten Person, zu Zeit und Ort der Kontrolle, zum angegebenen geplanten Aufenthaltsort in der Schweiz sowie das Kontrollergebnis.
@@ -336,7 +347,7 @@ Die Grenzkontrollbehörden können Personen bei der Einreise in die Schweiz risi
 
 [^11-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^11-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^11-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 
 #### Art. 11a
 
@@ -442,11 +453,11 @@ Gebiete in Liechtenstein:
 
 Anhang 2*[^t-4]*
 
-(Art. 7 Abs. 4 Bst. d und e, 9*a* Abs. 1 Bst. e und f sowie 12 Abs. 2)
+(Art. 9*a* Abs. 2<sup>bis</sup> Bst. a, b und 2<sup>ter</sup> Bst. e und f sowie 12 Abs. 2)
 
 ## Geimpfte und genesene Personen
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Anhang Ziff. 3 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Anhang Ziff. 3 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) und Ziff. II der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 
 ### 1 Geimpfte Personen
 
