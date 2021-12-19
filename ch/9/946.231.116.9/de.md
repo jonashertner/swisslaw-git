@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 11. August 2021 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/481"
 language: de
-version: 2021-09-30
+version: 2021-12-20
 adopted: 2018-08-11
 in_force: 2021-08-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20210930/de/xml/fedlex-data-admin-ch-eli-cc-2021-481-20210930-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20210930/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20211220/de/xml/fedlex-data-admin-ch-eli-cc-2021-481-20211220-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20211220/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 11. August 2021 (Stand am 30. September 2021)
+vom 11. August 2021 (Stand am 20. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -463,22 +463,24 @@ Anhang 6*[^t-1]*
 <tr><td>ex 3105.9000</td><td>andere Düngemittel, Kaliumchlorid enthaltend</td></tr>
 </table>
 
-Anhang 7
+Anhang 7*[^t-2]*
 
 (Art. 8 Abs. 1 Bst. a, 12 Abs. 1 und 13 Bst. c)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
 
 [^annex7-lvlu1-1]
 
+[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 um 18.00 Uhr ([AS 2021 888](https://fedlex.data.admin.ch/eli/oc/2021/888)).
 [^annex7-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 8
+Anhang 8*[^t-3]*
 
 (Art. 9 Abs. 1 Bst. b und c)
 
-## Banken und andere Unternehmen und Organisationen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen
+## Banken und andere Unternehmen und Organisationen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen****
 
 [^annex8-lvlu1-1]
 
+[^t-3]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 um 18.00 Uhr ([AS 2021 888](https://fedlex.data.admin.ch/eli/oc/2021/888)).
 [^annex8-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.

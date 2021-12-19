@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 11 août 2021 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/481"
 language: fr
-version: 2021-09-30
+version: 2021-12-20
 adopted: 2018-08-11
 in_force: 2021-08-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20210930/fr/xml/fedlex-data-admin-ch-eli-cc-2021-481-20210930-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20210930/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20211220/fr/xml/fedlex-data-admin-ch-eli-cc-2021-481-20211220-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20211220/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 11 août 2021 (Etat le 30 septembre 2021)
+du 11 août 2021 (Etat le 20 décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -440,7 +440,7 @@ Annexe 6*[^t-1]*
 
 ## Produits à base de chlorure de potassium («potasse»)
 
-[^t-1]: Mise à jour par l’Erratum du 30 sept. 2021 ([RO 2021 585](https://fedlex.data.admin.ch/eli/oc/2021/585)).
+[^t-1]: Mise à jour par l’erratum du 30 sept. 2021 ([RO 2021 585](https://fedlex.data.admin.ch/eli/oc/2021/585)).
 
 <table>
 <tr><td>N<sup>o</sup> du tarif</td><td>Désignation</td></tr>
@@ -450,22 +450,24 @@ Annexe 6*[^t-1]*
 <tr><td>ex 3105.9000</td><td>Autres engrais contenant du chlorure de potassium</td></tr>
 </table>
 
-Annexe 7
+Annexe 7*[^t-2]*
 
 (art. 8, al. 1, let. a, 12, al. 1, et 13, let. c)
 
-## Personnes physiques visées par les restrictions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
+## Personnes physiques visées par les restrictions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
 
 [^annex7-lvlu1-1]
 
+[^t-2]: Mise à jour par le ch. I de l’O du DEFR du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 à 18 heures ([RO 2021 888](https://fedlex.data.admin.ch/eli/oc/2021/888)).
 [^annex7-lvlu1-1]: La présente annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
-Annexe 8
+Annexe 8*[^t-3]*
 
 (art. 9, al. 1, let. b et c)
 
-## Banques et autres entreprises ou entités soumises à des restrictions sur les marchés monétaire et financier
+## Banques et autres entreprises ou entités soumises à des restrictions sur les marchés monétaire et financier****
 
 [^annex8-lvlu1-1]
 
+[^t-3]: Mise à jour par le ch. I de l’O du DEFR du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 à 18 heures ([RO 2021 888](https://fedlex.data.admin.ch/eli/oc/2021/888)).
 [^annex8-lvlu1-1]: La présente annexe n’est pas publiée au RO . Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.

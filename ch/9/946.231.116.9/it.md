@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza dell’11 agosto 2021 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/481"
 language: it
-version: 2021-09-30
+version: 2021-12-20
 adopted: 2018-08-11
 in_force: 2021-08-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20210930/it/xml/fedlex-data-admin-ch-eli-cc-2021-481-20210930-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20210930/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20211220/it/xml/fedlex-data-admin-ch-eli-cc-2021-481-20211220-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20211220/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-dell’11 agosto 2021 (Stato 30 settembre 2021)
+dell’11 agosto 2021 (Stato 20 dicembre 1921) (Stato 20 dicembre 1921)
 
 Il Consiglio federale svizzero,
 
@@ -459,7 +459,7 @@ Allegato 6*[^t-1]*
 <tr><td>ex 3105.9000</td><td>Altri concimi contenenti cloruro di potassio</td></tr>
 </table>
 
-Allegato 7
+Allegato 7*[^t-2]*
 
 (art. 8 cpv. 1 lett. a, 12 cpv. 1 e 13 lett. c)
 
@@ -467,9 +467,10 @@ Allegato 7
 
 [^annex7-lvlu1-1]
 
-[^annex7-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi &gt; Sanzioni della Svizzera.
+[^t-2]: Aggiornato dal n. I dell’O del DEFR del 17 dic. 2021, in vigore dal 20 dic. 2021 alle ore 18.00 ([RU 2021 888](https://fedlex.data.admin.ch/eli/oc/2021/888)).
+[^annex7-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. È possibile ordinarne il contenuto, presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
-Allegato 8
+Allegato 8*[^t-3]*
 
 (art. 9 cpv. 1 lett. b e c)
 
@@ -477,4 +478,5 @@ Allegato 8
 
 [^annex8-lvlu1-1]
 
-[^annex8-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi &gt; Sanzioni della Svizzera.
+[^t-3]: Aggiornato dal n. I dell’O del DEFR del 17 dic. 2021, in vigore dal 20 dic. 2021 alle ore 18.00 ([RU 2021 888](https://fedlex.data.admin.ch/eli/oc/2021/888)).
+[^annex8-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. È possibile ordinarne il contenuto, presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
