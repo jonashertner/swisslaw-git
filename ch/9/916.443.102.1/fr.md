@@ -3,18 +3,20 @@ sr: "916.443.102.1"
 title: Ordonnance de l’OSAV du 15 octobre 2021 instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne et en Irlande du Nord
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: fr
-version: 2021-12-10
+version: 2021-12-21
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20211210/fr/xml/fedlex-data-admin-ch-eli-cc-2021-615-20211210-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20211210/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20211221/fr/xml/fedlex-data-admin-ch-eli-cc-2021-615-20211221-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20211221/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance de l’OSAV instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne
+# Ordonnance de l’OSAV instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne et en Irlande du Nord****
 
-du 15 octobre 2021 (Etat le 10 décembre 2021)
+du 15 octobre 2021 (Etat le 21 décembre 2021)[^t-1]
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 16 déc. 2021, en vigueur depuis le 21 déc. 2021 ([RO 2021 889](https://fedlex.data.admin.ch/eli/oc/2021/889)).
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -83,34 +85,40 @@ L’ordonnance de l’OSAV du 15 décembre 2020 instituant des mesures destinée
 
 La présente ordonnance entre en vigueur le 19 octobre 2021.
 
-Annexe*[^t-1]*
+Annexe*[^t-2]*
 
-(art. 1, 2, al. 1, et 3 à 6)
+(art. 1, 2, al. 1, et 3 à 5)
 
-## États membres et zones réglementées
+## Région et zones réglementées
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 8 déc. 2021, en vigueur depuis le 10 déc. 2021 ([RO 2021 834](https://fedlex.data.admin.ch/eli/oc/2021/834)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 16 déc. 2021, en vigueur depuis le 21 déc. 2021 ([RO 2021 889](https://fedlex.data.admin.ch/eli/oc/2021/889)).
 
-### 1 Zones réglementées dans les États membres de l’UE concernés
+### 1 Zones réglementées dans les États membres de l’UE concernés et en Irlande du Nord
 
-Les États membres de l’UE concernés ainsi que les zones réglementées sont inscrits dans la décision d’exécution suivante:
+Les États membres de l’UE concernés ainsi que leurs zones réglementées et les zones réglementées d’Irlande du Nord sont inscrits dans la décision d’exécution suivante:
 
 <table>
 <tr><th>Acte législatif de l’UE</th><th>Titre et date de publication du texte législatif et dates de publication des actes modificateurs</th></tr>
-<tr><td>Décision d’exécution (UE) 2021/641</td><td>Décision d’exécution (UE) 2021/641 de la Commission du 16 avril 2021 concernant des mesures d’urgence motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 134 du 20.4.2021, p. 166; modifiée en dernier lieu par la décision d’exécution (UE) 2021/2100, JO L 428 du 30.11.2021, p. 3</td></tr>
+<tr><td>Décision d’exécution (UE) 2021/641</td><td>Décision d’exécution (UE) 2021/641 de la Commission du 16 avril 2021 concernant des mesures d’urgence motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 134 du 20.4.2021, p. 166; modifiée en dernier lieu par la décision d’exécution (UE) 2021/2186, JO L 444 du 10.12.2021, p. 110</td></tr>
 </table>
 
-### 2 États membres de l’UE concernés
+### 2 États membres de l’UE et Irlande du Nord
 
-Des zones réglementées ont été délimitées dans les États membres de l’UE suivants:
+Des zones réglementées ont été délimitées en Irlande du Nord et dans les États membres de l’UE suivants:
 
 Allemagne
 
 Autriche
 
+Belgique
+
 Bulgarie
 
+Croatie
+
 Danemark
+
+France
 
 Hongrie
 
@@ -121,6 +129,8 @@ Italie
 Pays-Bas
 
 Pologne
+
+Portugal
 
 Slovaquie
 

@@ -3,18 +3,20 @@ sr: "916.443.102.1"
 title: Verordnung des BLV vom 15. Oktober 2021 über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union sowie Nordirland
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: de
-version: 2021-12-10
+version: 2021-12-21
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20211210/de/xml/fedlex-data-admin-ch-eli-cc-2021-615-20211210-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20211210/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20211221/de/xml/fedlex-data-admin-ch-eli-cc-2021-615-20211221-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20211221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union
+# Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union sowie Nordirland****
 
-vom 15. Oktober 2021 (Stand am 10. Dezember 2021)
+vom 15. Oktober 2021 (Stand am 21. Dezember 2021)[^t-1]
+
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 16. Dez. 2021, in Kraft seit 21. Dez. 2021 ([AS 2021 889](https://fedlex.data.admin.ch/eli/oc/2021/889)).
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -83,26 +85,28 @@ Die Verordnung des BLV vom 15. Dezember 2020[^7-1] über Massnahmen zur Verhinde
 
 Diese Verordnung tritt am 19. Oktober 2021 in Kraft.
 
-Anhang*[^t-1]*
+Anhang*[^t-2]*
 
-(Art. 1, 2 Abs. 1 sowie 3–6)
+(Art. 1, 2 Abs. 1 sowie 3–5)
 
-## Betroffene Mitgliedstaaten und Sperrzonen
+## Betroffene Gebiete und Sperrzonen
 
-[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 8. Dez. 2021, in Kraft seit 10. Dez. 2021 ([AS 2021 834](https://fedlex.data.admin.ch/eli/oc/2021/834)).
+[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 16. Dez. 2021, in Kraft seit 21. Dez. 2021 ([AS 2021 889](https://fedlex.data.admin.ch/eli/oc/2021/889)).
 
-### 1 Sperrzonen in den betroffenen Mitgliedstaaten der EU
+### 1 Sperrzonen in den betroffenen Mitgliedstaaten der EU und in Nordirland
 
-Die betroffenen Mitgliedstaaten der EU sowie die dort festgelegten Sperrzonen werden in folgendem Durchführungsbeschluss festgelegt:
+Die betroffenen Mitgliedstaaten der EU sowie die dort festgelegten Sperrzonen und die Sperrzonen in Nordirland werden in folgendem Durchführungsbeschluss festgelegt:
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsbeschluss (EU) 2021/641</td><td>Durchführungsbeschluss (EU) 2021/641 der Kommission vom 16. April 2021 betreffend Sofortmassnahmen im Zusammenhang mit Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 134 vom 20.4.2021, S. 166; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/2100, ABl. L 428 vom 30.11.2021, S. 3.</td></tr>
+<tr><td>Durchführungsbeschluss (EU) 2021/641</td><td>Durchführungsbeschluss (EU) 2021/641 der Kommission vom 16. April 2021 betreffend Sofortmassnahmen im Zusammenhang mit Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 134 vom 20.4.2021, S. 166; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/2186, ABl. L 444 vom 10.12.2021, S. 110.</td></tr>
 </table>
 
-### 2 Betroffene Mitgliedstaaten der EU
+### 2 Betroffene Mitgliedstaaten der EU und Nordirland
 
-In folgenden Mitgliedstaaten der EU bestehen Sperrzonen:
+In Nordirland und folgenden Mitgliedstaaten der EU bestehen Sperrzonen:
+
+Belgien
 
 Bulgarien
 
@@ -110,15 +114,21 @@ Dänemark
 
 Deutschland
 
+Frankreich
+
 Irland
 
 Italien
+
+Kroatien
 
 Niederlande
 
 Österreich
 
 Polen
+
+Portugal
 
 Slowakei
 
