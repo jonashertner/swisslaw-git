@@ -4,13 +4,12 @@ number: "661.543"
 title: Dekret über die allgemeine Neubewertung der nichtlandwirtschaftlichen Grundstücke und Wasserkräfte
 short: AND
 language: de
-version: 2020-01-01
-valid_until: 2021-12-20
-version_adopted: 2020-03-10
+version: 2021-12-21
+version_adopted: 2021-12-21
 adopted: 2017-03-21
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/661.543"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1831/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2689/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1831/pdf_file"
 
 (AND)
 
-vom 21.03.2017 (Stand 01.01.2020)
+vom 21.03.2017 (Stand 21.12.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -45,9 +44,7 @@ beschliesst:
 
 <sup>2</sup> Die Neubewertung erfolgt aufgrund der Verhältnisse in der Bemessungsperiode vom 1. Januar 2013 bis zum 31. Dezember 2016.
 
-<sup>3</sup> …
-
-<sup>4</sup> Für die Festsetzung der amtlichen Werte ist ein Ziel-Medianwert im Bereich von 70 Prozent der Verkehrswerte anzustreben.
+<sup>3–4</sup> …
 
 #### Art. 3
 

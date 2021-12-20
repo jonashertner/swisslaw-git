@@ -4,13 +4,12 @@ number: "661.543"
 title: Décret sur l’évaluation générale des immeubles non agricoles et des forces hydrauliques
 short: DEG
 language: fr
-version: 2020-01-01
-valid_until: 2021-12-20
-version_adopted: 2020-03-10
+version: 2021-12-21
+version_adopted: 2021-12-21
 adopted: 2017-03-21
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/661.543"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1831/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2689/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1831/pdf_file"
 
 (DEG)
 
-du 21.03.2017 (état au 01.01.2020)
+du 21.03.2017 (état au 21.12.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -45,9 +44,7 @@ arrête:
 
 <sup>2</sup> Elle se base sur les données de la période d’évaluation allant du 1<sup>er</sup> janvier 2013 au 31 décembre 2016.
 
-<sup>3</sup> …
-
-<sup>4</sup> La valeur cible à atteindre pour fixer les valeurs officielles est une médiane proche de 70 pour cent des valeurs vénales.
+<sup>3–4</sup> …
 
 #### Art. 3
 
