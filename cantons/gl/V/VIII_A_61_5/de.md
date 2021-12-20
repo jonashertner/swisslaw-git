@@ -4,13 +4,13 @@ number: VIII A/61/5
 title: Verordnung zum Spezialfonds Härtefallunterstützungen für Unternehmen im Zusammenhang mit der Covid-19-Pandemie
 short: "kantonale Härtefallverordnung, kHFV"
 language: de
-version: 2021-07-01
-valid_until: 2021-12-20
-version_adopted: 2021-06-29
+version: 2021-12-21
+valid_until: 2022-03-31
+version_adopted: 2021-12-21
 adopted: 2022-03-15
 in_force: 2022-04-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.61.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/2243/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2261/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2243/pdf_file"
 
 (kantonale Härtefallverordnung, kHFV)
 
-Vom 22.12.2020 (Stand 01.07.2021)
+Vom 22.12.2020 (Stand 21.12.2021)
 
 Der Regierungsrat,
 
@@ -115,6 +115,8 @@ H = 0.5 (A1 + A2) - B - C - D - E ≤ 0.15 (A1 + A2) ≤ 1 500 000 ≤ 120 000 p
 **Beitragsgesuche**
 
 <sup>1</sup> Beitragsgesuche sind bis spätestens am 30. September 2021 bei der Kontaktstelle für Wirtschaft einzureichen.
+
+<sup>1a</sup> Gesuche um eine ergänzende Unterstützung nach Artikel 3b sind bis spätestens am 31. März 2022 einzureichen.
 
 <sup>2</sup> Die Gesuche sind digital einzureichen. Es werden keine Einzelberatungen angeboten.
 
