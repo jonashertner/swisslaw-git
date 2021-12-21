@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-12-18
+version: 2021-12-22
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211218-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211218/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211222/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211222-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211222/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211218/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 18 décembre 2021)
+du 4 juin 2021 (Etat le 22 décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -878,7 +878,7 @@ Annexe 5*[^t-5]*
 
 ## Liste des certificats étrangers reconnus
 
-[^t-5]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), le ch. I des l’O du DFI du 22 nov. 2021 ([RO 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), du 29 nov. 2021 ([RO 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)) et du 7 déc. 2021, en vigueur depuis le 8 déc. 2021 ([RO 2021 816](https://fedlex.data.admin.ch/eli/oc/2021/816)).
+[^t-5]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) et le ch. I de l’O du DFI du 21 déc. 2021, en vigueur depuis le 22 déc. 2021 ([RO 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 
@@ -902,6 +902,7 @@ Annexe 5*[^t-5]*
   - – Albanie
   - – Andorre
   - – Arménie
+  - – Cabo Verde
   - – El Salvador
   - – Géorgie
   - – Îles Féroé
@@ -922,8 +923,15 @@ Annexe 5*[^t-5]*
 
   Sont reconnus les certificats de vaccination ou de test qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par l’un des pays suivants:
 
+  - – Émirats arabes unis
   - – Nouvelle-Zélande
   - – Singapour
   - – Togo
 
-- 2\.3 Les certificats de vaccination ne sont reconnus que s’ils ont été établis pour un vaccin conforme aux exigences du ch. 1.2.
+- 2\.3
+
+  Sont reconnus les certificats de vaccination qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par l’un des pays suivants:
+
+  - – Liban
+
+- 2\.4 Les certificats de vaccination ne sont reconnus que s’ils ont été établis pour un vaccin conforme aux exigences du ch. 1.2.
