@@ -4,24 +4,24 @@ number: "321.331"
 title: Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-Verordnung zusätzliche Massnahmen
 language: de
-version: 2021-12-06
-valid_until: 2021-12-21
-version_adopted: 2021-12-02
+version: 2021-12-22
+valid_until: 2022-01-02
+version_adopted: 2021-12-21
 adopted: 2021-11-22
 in_force: 2021-11-24
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/321.331"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5376/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5397/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie
 
-Covid-19 zusätzliche Massnahmen: Verordnung | Übertragbare Krankheiten
+Übertragbare Krankheiten
 
 (Covid-19-Verordnung zusätzliche Massnahmen)
 
-Vom 22. November 2021 (Stand 6. Dezember 2021)
+Vom 22. November 2021 (Stand 22. Dezember 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -63,39 +63,23 @@ beschliesst:
 
 **Veranstaltungen sowie Fach- und Publikumsmessen**
 
-<sup>1</sup> In Innenräumen an Veranstaltungen sowie an Fach- und Publikumsmessen müssen alle Personen eine Gesichtsmaske tragen.
+<sup>1</sup> …
 
-<sup>2</sup> Die Konsumation von Speisen und Getränken muss sitzend an Tischen erfolgen.
+<sup>2</sup> …
 
 <sup>3</sup> Für Veranstaltungen ab dem 6. Dezember 2021 sowie für Fach- und Publikumsmessen mit 300 bis 1'000 Teilnehmenden gilt eine Meldepflicht an das zuständige Departement.
 
 #### § 2b
 
-**Restaurationsbetriebe**
-
-<sup>1</sup> In Innenräumen von Restaurationsbetrieben, einschliesslich Bar- und Clubbetrieben sowie Diskotheken und Tanzlokalen, müssen alle Personen eine Gesichtsmaske tragen.
-
-<sup>2</sup> Die Konsumation von Speisen und Getränken muss sitzend an Tischen erfolgen.
+**…**
 
 #### § 2c
 
-**Einrichtungen und Betriebe in den Bereichen Kultur, Unterhaltung, Freizeit und Sport**
-
-<sup>1</sup> In Innenräumen von Einrichtungen und Betrieben in den Bereichen Kultur, Unterhaltung, Freizeit und Sport müssen alle Personen eine Gesichtsmaske tragen.
+**…**
 
 #### § 2d
 
-**Ausnahmen von der Maskenpflicht gemäss §§ 2a bis 2c**
-
-<sup>1</sup> Von der Maskenpflicht an Veranstaltungen und Fach- und Publikumsmessen sowie in Einrichtungen und Betrieben gemäss §§ 2a bis 2c ausgenommen sind:
-
-- a) Kinder bis zum Alter von 12 Jahren;
-- b) Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können;
-- c) Personen an privaten Veranstaltungen gemäss Art. 14a Abs. 3 Covid-19-Verordnung besondere Lage;
-- d) Personen während der Ausübung sportlicher oder kultureller Aktivitäten;
-- e) Personen während der Konsumation von Speisen und Getränken, wenn sie an einem Tisch sitzen;
-- f) Mitarbeiterinnen und Mitarbeiter ohne Kontakt zu Gästen oder Besuchern;
-- g) Rednerinnen und Redner und auftretende Personen.
+**…**
 
 #### § 3
 
