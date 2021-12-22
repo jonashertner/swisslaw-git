@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: Verordnung vom 22. Juni 2005 über Massnahmen gegenüber der Demokratischen Republik Kongo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: de
-version: 2020-12-22
+version: 2021-12-23
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20201222/de/xml/fedlex-data-admin-ch-eli-cc-2005-442-20201222-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20201222/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20211223/de/xml/fedlex-data-admin-ch-eli-cc-2005-442-20211223-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20211223/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Demokratischen Republik Kongo
 
-vom 22. Juni 2005 (Stand am 22. Dezember 2020)
+vom 22. Juni 2005 (Stand am 23. Dezember 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -178,6 +178,9 @@ Anhang 2*[^t-2]*
 
 (Art. 2 Abs. 1 sowie 4 Abs. 1 und 3)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
 
-[^t-2]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)[1655](https://fedlex.data.admin.ch/eli/oc/2018/244), [2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)[4731](https://fedlex.data.admin.ch/eli/oc/2019/769), [2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)). Sein Inhalt kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex2-lvlu1-1]
+
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 21. Febr. 2018 ([AS 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Bereinigt gemäss Ziff. I der V des WBF vom 23. April 2018 ([AS 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), vom 17. Jan. 2019 ([AS 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), vom 19. Dez. 2019 ([AS 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), vom 21. Dez. 2020 ([AS 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)) und vom 22. Dez. 2021, in Kraft seit 23. Dez. 2021 ([AS 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)).
+[^annex2-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Sein Inhalt kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.

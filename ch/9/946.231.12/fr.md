@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: "Ordonnance du 22 juin 2005 instituant des mesures à l'encontre de la République démocratique du Congo"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: fr
-version: 2020-12-22
+version: 2021-12-23
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20201222/fr/xml/fedlex-data-admin-ch-eli-cc-2005-442-20201222-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20201222/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20211223/fr/xml/fedlex-data-admin-ch-eli-cc-2005-442-20211223-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20211223/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République démocratique du Congo
 
-du 22 juin 2005 (Etat le 22 décembre 2020)
+du 22 juin 2005 (Etat le 23 décembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -182,6 +182,9 @@ Annexe 2*[^t-2]*
 
 (art. 2, al. 1, et 4, al. 1 et 3)
 
-## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit et entreprises et entités visées par les sanctions financières
+## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit et entreprises et entités visées par les sanctions financières****
 
-[^t-2]: Non publiée au RO ([RO 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)[1655](https://fedlex.data.admin.ch/eli/oc/2018/244), [2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)[4731](https://fedlex.data.admin.ch/eli/oc/2019/769), [2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)). Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex2-lvlu1-1]
+
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 21 fév. 2018 ([RO 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Mise à jour par le ch. I des O du DEFR du 23 avr. 2018 ([RO 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), du 17 janv. 2019 ([RO 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), du 19 déc. 2019 ([RO 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), du 21 déc. 2020 ([RO 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)) et du 22 déc. 2021, en vigueur depuis le 23 déc. 2021 ([RO 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)).
+[^annex2-lvlu1-1]: Non publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse

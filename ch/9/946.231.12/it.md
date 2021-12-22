@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: Ordinanza del 22 giugno 2005 che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: it
-version: 2020-12-22
+version: 2021-12-23
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20201222/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20201222-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20201222/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20211223/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20211223-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20211223/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 
-del 22 giugno 2005 (Stato 22 dicembre 2020)
+del 22 giugno 2005 (Stato 23 dicembre 2020) (Stato 23 dicembre 2020)
 
 Il Consiglio federale svizzero,
 
@@ -182,6 +182,9 @@ Allegato 2*[^t-2]*
 
 (art. 2 cpv. 1, 4 cpv. 1 e 3)
 
-## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito; imprese e organizzazioni soggette alle sanzioni finanziarie
+## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito; imprese e organizzazioni soggette alle sanzioni finanziarie****
 
-[^t-2]: Non pubblicato nella RU ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)[1655](https://fedlex.data.admin.ch/eli/oc/2018/244), [2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)[4731](https://fedlex.data.admin.ch/eli/oc/2019/769)e [2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)). È possibile ordinare il contenuto dell’allegato presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html)&gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^annex2-lvlu1-1]
+
+[^t-2]: Introdotto dal n. I dell’O del 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Aggiornato dai n. I delle O del DEFR del 23 apr. 2018 ([RU 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), del 17 gen. 2019 ([RU 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), del 19 dic. 2019 ([RU 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), del 21 dic. 2020 ([RU 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)) e del 22 dic. 2021, in vigore dal 23 dic. 2021 ([RU 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)).
+[^annex2-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
