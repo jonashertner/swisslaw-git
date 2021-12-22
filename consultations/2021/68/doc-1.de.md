@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die operative Zusammenarbeit mit den anderen Schengen-Staaten zum Schutz der Aussengrenzen des Schengen-Raums und Verordnung über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen
 document: Vernehmlassungsvorlage
 language: de

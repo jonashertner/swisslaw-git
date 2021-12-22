@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla cooperazione operativa con gli altri Stati Schengen in materia di protezione delle frontiere esterne dello spazio Schengen et Ordinanza concernente l’esecuzione dell’allontanamento e dell’espulsione di stranieri
 document: Progetto posto in consultazione
 language: it

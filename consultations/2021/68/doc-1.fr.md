@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la coopération opérationnelle avec les autres Etats Schengen en vue de la protection des frontières extérieures de l’espace Schengen et Ordonnance sur l’exécution du renvoi et de l’expulsion d’étrangers
 document: Projet mis en consultation
 language: fr
