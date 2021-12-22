@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-12-16
-valid_until: 2021-12-22
-version_adopted: 2021-12-15
+version: 2021-12-23
+valid_until: 2022-01-12
+version_adopted: 2021-12-22
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2502/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2513/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2502/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 16.12.2021)
+du 04.11.2020 (état au 23.12.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -165,7 +165,7 @@ arrête:
 
 **Obligation de porter un masque**
 
-<sup>1</sup> En complément de l'article 6 de l'ordonnance COVID-19 situation particulière, toute personne est tenue de porter un masque dans tous les espaces clos des écoles.
+<sup>1</sup> En complément de l'article 2, alinéa 2 et de l'article 6 de l'ordonnance COVID-19 situation particulière, toute personne est tenue de porter un masque dans tous les espaces clos des écoles.
 
 <sup>2</sup> Cette obligation s’applique aux écoles visées par la législation sur l’école obligatoire, la législation sur les écoles moyennes, la législation sur la formation professionnelle, la formation continue et l’orientation professionnelle ainsi que la législation sur les écoles de musique.
 
@@ -173,15 +173,17 @@ arrête:
 
 - a les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales, pour autant que d’autres mesures de protection appropriées soient prises;
 - b toutes les personnes se trouvant dans une situation dans laquelle le port d'un masque facial entrave considérablement l’enseignement, pour autant que d’autres mesures de protection appropriées soient prises;
-- c les élèves de l’école enfantine et de la 1<sup>re</sup> à la 4<sup>e</sup> années du degré primaire (3H à 6H).
+- c les élèves de l’école enfantine.
+
+<sup>4</sup> L'article 5, alinéa 1, lettre b de l'ordonnance COVID-19 situation particulière s'applique à l'attestation médicale au sens de l'alinéa 3, lettre a.
 
 #### Art. 12b
 
 **Obligation de présenter un certificat**
 
-<sup>1</sup> En vertu de la législation sur l'université, de la législation sur la Haute Ecole spécialisée bernoise et de la législation sur la Haute Ecole pédagogique germanophone, les hautes écoles sont compétentes pour limiter l'accès aux activités d'enseignement et de recherche conformément à l'article 19a de l'ordonnance COVID-19 situation particulière.
+<sup>1</sup> En vertu de la législation sur l'université, de la législation sur la Haute Ecole spécialisée bernoise, de la législation sur la Haute Ecole pédagogique germanophone et de la législation sur la formation professionnelle, la formation continue et l'orientation professionnelle, les hautes écoles et les institutions qui proposent des programmes de formation professionnelle supérieure ou de formation continue sont compétentes pour limiter l'accès aux activités d'enseignement et de recherche conformément à l'article 19a de l'ordonnance COVID-19 situation particulière.
 
-<sup>2</sup> L'Université de Berne, la Haute Ecole spécialisée bernoise et la Haute Ecole pédagogique de Berne sont habilitées à enregistrer les nom, prénom et date de naissance ainsi que la date d'expiration du certificat afin d'éviter des vérifications répétées. Ces données doivent être supprimées immédiatement à l'expiration du certificat.
+<sup>2</sup> L'Université de Berne, la Haute Ecole spécialisée bernoise et la Haute Ecole pédagogique de Berne ainsi que les institutions qui proposent des programmes de formation professionnelle supérieure ou de formation continue sont habilitées à enregistrer les nom, prénom et date de naissance ainsi que la date d'expiration du certificat afin d'éviter des vérifications répétées. Ces données doivent être supprimées immédiatement à l'expiration du certificat.
 
 ### 2.4
 
@@ -380,7 +382,7 @@ arrête:
 
 **Autorisation pour les grandes manifestations, les foires spécialisées et tout public**
 
-<sup>1</sup> Le préfet ou la préfète est compétente pour octroyer l'autorisation prévue à l’article 16, alinéas 1 à 4 et à l'article 18, alinéa 1, lettre a de l'ordonnance COVID-19 situation particulière et pour la révoquer ou pour édicter des restrictions supplémentaires selon l'article 16, alinéa 5 de l’ordonnance COVID-19 situation particulière.
+<sup>1</sup> Le préfet ou la préfète est compétente pour octroyer l'autorisation prévue à l’article 16, alinéas 1 à 4<sup>bis</sup> et à l'article 18, lettre c de l'ordonnance COVID-19 situation particulière et pour la révoquer ou pour édicter des restrictions supplémentaires selon l'article 16, alinéa 5 de l’ordonnance COVID-19 situation particulière.
 
 <sup>2</sup> Il ou elle doit se tenir à l'évaluation, faite par la Direction de la santé, des affaires sociales et de l’intégration, de la situation épidémiologique, des capacités nécessaires à l'identification et à l’information des personnes présumées infectées, ainsi que des capacités nécessaires à la couverture de soins (art. 16, al. 2, lit. a et b de l'ordonnance COVID-19 situation particulière).
 

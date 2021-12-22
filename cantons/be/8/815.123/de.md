@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-12-16
-valid_until: 2021-12-22
-version_adopted: 2021-12-15
+version: 2021-12-23
+valid_until: 2022-01-12
+version_adopted: 2021-12-22
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2502/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2513/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2502/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 16.12.2021)
+vom 04.11.2020 (Stand 23.12.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -165,7 +165,7 @@ beschliesst:
 
 **Maskentragpflicht**
 
-<sup>1</sup> In Ergänzung zu Artikel 6 der Covid-19-Verordnung besondere Lage muss jede Person in allen Innenräumen von Schulen eine Gesichtsmaske tragen.
+<sup>1</sup> In Ergänzung zu Artikel 2 Absatz 2 und Artikel 6 der Covid-19-Verordnung besondere Lage muss jede Person in allen Innenräumen von Schulen eine Gesichtsmaske tragen.
 
 <sup>2</sup> Diese Pflicht gilt in Schulen gemäss der Volksschulgesetzgebung, der Mittelschulgesetzgebung, der Gesetzgebung über die Berufsbildung, die Weiterbildung und die Berufsberatung sowie der Musikschulgesetzgebung.
 
@@ -173,15 +173,17 @@ beschliesst:
 
 - a für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind,
 - b für alle Personen in Situationen, in denen das Tragen einer Gesichtsmaske den Unterricht wesentlich erschwert, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind,
-- c für Schülerinnen und Schüler im Kindergarten und im ersten bis vierten Schuljahr der Primarstufe.
+- c für Schülerinnen und Schüler im Kindergarten.
+
+<sup>4</sup> Für den Nachweis medizinischer Gründe gemäss Absatz 3 Buchstabe a gilt Artikel 5 Absatz 1 Buchstabe b der Covid-19-Verordnung besondere Lage.
 
 #### Art. 12b
 
 **Zertifikatspflicht**
 
-<sup>1</sup> Die Hochschulen sind gemäss der Gesetzgebung über die Universität, der Gesetzgebung über die Berner Fachhochschule und der Gesetzgebung über die deutschsprachige Pädagogische Hochschule zuständig für die Beschränkung des Zugangs zu den Lehr- und Forschungsaktivitäten gemäss Artikel 19a Covid-19-Verordnung besondere Lage.
+<sup>1</sup> Die Hochschulen und die Institutionen, welche höhere Berufsbildungs- oder Weiterbildungsangebote führen, sind gemäss der Gesetzgebung über die Universität, der Gesetzgebung über die Berner Fachhochschule, der Gesetzgebung über die deutschsprachige Pädagogische Hochschule sowie der Gesetzgebung über die Berufsbildung, die Weiterbildung und die Berufsberatung zuständig für die Beschränkung des Zugangs zu den Lehr- und Forschungsaktivitäten gemäss Artikel 19a Covid-19-Verordnung besondere Lage.
 
-<sup>2</sup> Die Universität Bern, die Berner Fachhochschule und die Pädagogische Hochschule Bern sind berechtigt, Name, Vorname, Geburtsdatum und Ablaufdatum des Zertifikats zu registrieren, um wiederholte Überprüfungen zu vermeiden. Nach Ablauf der Gültigkeitsdauer des Zertifikats sind die Daten unverzüglich zu löschen.
+<sup>2</sup> Die Universität Bern, die Berner Fachhochschule und die Pädagogische Hochschule Bern sowie die Institutionen, welche höhere Berufsbildungs- oder Weiterbildungsangebote führen, sind berechtigt, Name, Vorname, Geburtsdatum und Ablaufdatum des Zertifikats zu registrieren, um wiederholte Überprüfungen zu vermeiden. Nach Ablauf der Gültigkeitsdauer des Zertifikats sind die Daten unverzüglich zu löschen.
 
 ### 2.4
 
@@ -380,7 +382,7 @@ beschliesst:
 
 **Bewilligung für Grossveranstaltungen sowie Fach- und Publikumsmessen**
 
-<sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ist zuständig für die Erteilung der Bewilligung gemäss Artikel 16 Absatz 1 bis 4 und Artikel 18 Absatz 1 Buchstabe a der Covid-19-Verordnung besondere Lage sowie für den Widerruf einer erteilten Bewilligung oder den Erlass zusätzlicher Einschränkungen gemäss Artikel 16 Absatz 5 der Covid-19-Verordnung besondere Lage.
+<sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ist zuständig für die Erteilung der Bewilligung gemäss Artikel 16 Absatz 1 bis 4<sup>bis</sup> und Artikel 18 Buchstabe c der Covid-19-Verordnung besondere Lage sowie für den Widerruf einer erteilten Bewilligung oder den Erlass zusätzlicher Einschränkungen gemäss Artikel 16 Absatz 5 der Covid-19-Verordnung besondere Lage.
 
 <sup>2</sup> Sie oder er ist dabei an die Beurteilung der epidemiologischen Lage, der notwendigen Kapazitäten für die erforderliche Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen sowie der notwendigen Kapazitäten in der Gesundheitsversorgung durch die Gesundheits-, Sozial- und Integrationsdirektion gebunden (Art. 16 Abs. 2 Bst. a und b Covid-19-Verordnung besondere Lage).
 
