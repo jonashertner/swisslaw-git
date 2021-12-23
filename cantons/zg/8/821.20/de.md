@@ -4,13 +4,13 @@ number: "821.20"
 title: Verordnung über Massnahmen zur Bekämpfung der COVID-19-Epidemie
 short: COVID-19-Verordnung
 language: de
-version: 2021-12-10
-valid_until: 2021-12-23
-version_adopted: 2021-12-07
+version: 2021-12-24
+valid_until: 2021-12-26
+version_adopted: 2021-12-21
 adopted: 2021-06-01
 in_force: 2021-06-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/821.20"
-pdf: "https://bgs.zg.ch/api/de/versions/2291/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2291/pdf_file"
 
 (COVID-19-Verordnung)
 
-Vom 1. Juni 2021 (Stand 10. Dezember 2021)
+Vom 1. Juni 2021 (Stand 24. Dezember 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -74,5 +74,17 @@ beschliesst:
 - a) für den Unterricht, wenn dieser sitzend am Pult erfolgt;
 - b) für den Turn- und Sportunterricht;
 - c) für den Unterricht mit Blasinstrumenten.
+
+#### § 5
+
+**Massnahmen im Gesundheitsbereich**
+
+<sup>3</sup> Besucherinnen und Besucher sowie das Personal in Spitälern, Alters- und Pflegeheimen müssen in allen Innenbereichen dieser Einrichtungen eine Gesichtsmaske tragen. Kinder vor ihrem 7. Geburtstag sind von der Maskentragepflicht ausgenommen. Für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können sowie in Restaurationsbetrieben gelten die Ausnahmen des Bundesrechts analog.
+
+<sup>4</sup> Spitäler müssen für einen stationären Aufenthalt eintretende Patientinnen und Patienten ohne Zertifikat auf eine Infektion mit dem Coronavirus testen. Bei einem positiven Ergebnis oder wenn der Test verweigert wird, sind angemessene Vorkehrungen zum Schutz der übrigen Patientinnen und Patienten zu treffen.
+
+<sup>5</sup> Die Institutionen kontrollieren die Einhaltung dieser Vorschriften.
+
+<sup>6</sup> Die Direktion des Innern kann durch Direktionsbeschluss alle oder einzelne Angebote sozialer Einrichtungen in ihrem Zuständigkeitsbereich den vorangehenden Vorschriften ganz oder teilweise unterstellen.
 
 GS 2021/029
