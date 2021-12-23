@@ -4,13 +4,13 @@ number: "320.114"
 title: Verordnung über zusätzliche Massnahmen des Kantons Aargau zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-V AG
 language: de
-version: 2021-12-14
-valid_until: 2021-12-23
-version_adopted: 2021-12-10
+version: 2021-12-24
+valid_until: 2022-01-09
+version_adopted: 2021-12-22
 adopted: 2021-12-01
 in_force: 2021-12-04
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/320.114"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3096/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3137/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3096/pdf_file"
 
 (Covid-19-V AG)
 
-Vom 01.12.2021 (Stand 14.12.2021)
+Vom 01.12.2021 (Stand 24.12.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -44,7 +44,7 @@ beschliesst:
 
 **Schulen und Angebote der familien- und schulergänzenden Kinderbetreuung sowie Lager**
 
-<sup>1</sup> Jede Person muss in den Innenräumen von Schulen der Primar- und Sekundarstufe I und II sowie von Angeboten der familien- und schulergänzenden Kinderbetreuung eine Gesichtsmaske tragen. Die Maskentragpflicht gilt nicht:
+<sup>1</sup> Jede Person muss in den Innenräumen von Schulen der Primar- und Sekundarstufe I sowie von Angeboten der familien- und schulergänzenden Kinderbetreuung eine Gesichtsmaske tragen. Die Maskentragpflicht gilt nicht:
 
 - a) für noch nicht schulpflichtige Kinder;
 - b) für Schülerinnen und Schüler des Kindergartens;
@@ -57,7 +57,11 @@ beschliesst:
   - 6\. für Schülerinnen und Schüler, die ein ärztliches Attest vorweisen können, dass sie keine Gesichtsmaske tragen können;
   - 7\. in Sonderschulen, wenn die Schulleitung eine Schülerin oder einen Schüler von der Maskentragpflicht befreit.
 
-<sup>2</sup> Sämtliche Teilnehmende von Lagern haben unmittelbar vor der Abreise ein gültiges Covid-19-Zertifikat oder ein aktuelles negatives Testergebnis (PCR-Test) vorzuweisen.
+<sup>2</sup> Sämtliche Teilnehmende von Lagern haben unmittelbar vor der Abreise ein gültiges Covid-19-Zertifikat oder ein aktuelles negatives Testergebnis (PCR-Test oder Antigen-Schnelltest) vorzuweisen.
+
+<sup>3</sup> An Schulen der Primar- und Sekundarstufe I und II und in Angeboten der familien- oder schulergänzenden Kinderbetreuung tätige Personen mit einem ärztlich bescheinigten Maskentragdispens sind verpflichtet, am wöchentlichen repetitiven Testen in der Schule teilzunehmen, wenn sie keinen Nachweis erbringen, dass sie über ein gültiges Covid-19-Impfzertifikat oder ein gültiges Covid-19-Genesungszertifikat verfügen. Bietet die Schule oder das Betreuungsangebot kein repetitives Testen an, sind sie verpflichtet, sich wöchentlich mittels molekularbiologischer Analyse testen zu lassen (PCR-Test). Die Testkosten gehen dabei zulasten des Schulträgers oder des Trägers des Betreuungsangebots.
+
+<sup>4</sup> Die vorgesetzte Person kontrolliert die Einhaltung der Verpflichtung gemäss Absatz 3. Sie kann das Testdatum oder die Gültigkeitsdauer eines vorgelegten Covid-19-Impfzertifikats beziehungsweise eines Covid-19-Genesungszertifikats erfassen.
 
 #### § 2a
 
@@ -81,6 +85,12 @@ beschliesst:
 [^3-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de) Bundesgesetz über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG)
 [^3-2]: SR [935.81](https://db.clex.ch/link/Bund/935.81/de) Bundesgesetz über die Psychologieberufe (Psychologieberufegesetz, PsyG)
 
+#### § 3a
+
+**Spitäler und Kliniken, Pflegeheime, Betreuungseinrichtungen: Wichtige Dienstleistungen**
+
+<sup>1</sup> Bei wichtigen Einsätzen oder in Fällen zeitlicher Dringlichkeit darf Personen, die für die Institution unabdingbare Dienstleistungen erbringen, der Zugang ohne Covid-19-Zertifikat beziehungsweise ohne vergleichbare Bescheinigungen gewährt werden.
+
 #### § 4
 
 **Spitäler und Kliniken, stationäre Pflegeeinrichtungen, Leistungserbringer der Hilfe und Pflege zu Hause, Betreuungseinrichtungen: Mitarbeitende**
@@ -95,9 +105,9 @@ beschliesst:
 
 <sup>1</sup> …
 
-<sup>2</sup> Speisen und Getränke dürfen sowohl in Innenräumen als auch in Aussenbereichen von Restaurations-, Bar- und Clubbetrieben sowie Diskotheken und Tanzlokalen nur sitzend konsumiert werden.
+<sup>2</sup> Speisen und Getränke dürfen in Aussenbereichen von Restaurations-, Bar- und Clubbetrieben sowie Diskotheken und Tanzlokalen nur sitzend konsumiert werden.
 
-<sup>3</sup> Restaurations-, Bar- und Clubbetriebe sowie Diskotheken und Tanzlokale können den Zugang für Personen ab 16 Jahren auf Inhaberinnen und Inhaber eines Impf- oder Genesungszertifikats gemäss Art. 3a Covid-19-Verordnung besondere Lage beschränken. In diesem Fall gilt weder die Maskentragpflicht (Art. 6 Abs. 2 lit. i Covid-19-Verordnung besondere Lage) noch die Sitzpflicht während der Konsumation gemäss Absatz 2.
+<sup>3</sup> …
 
 #### § 6
 
@@ -107,7 +117,7 @@ beschliesst:
 
 <sup>2</sup> Speisen und Getränke dürfen sowohl in Innenräumen als auch in Aussenbereichen von Einrichtungen und Betrieben in den Bereichen Kultur, Unterhaltung, Freizeit und Sport nur sitzend konsumiert werden.
 
-<sup>3</sup> Einrichtungen und Betriebe ​in den Bereichen Kultur, Unterhaltung, Freizeit und Sport können den Zugang für Personen ab 16 Jahren auf Inhaberinnen und Inhaber eines Impf- oder Genesungszertifikats gemäss Art. 3a Covid-19-Verordnung besondere Lage beschränken. In diesem Fall gilt weder die Maskentragpflicht (Art. 6 Abs. 2 lit. i Covid-19-Verordnung besondere Lage) noch die Sitzpflicht während der Konsumation gemäss Absatz 2.
+<sup>3</sup> …
 
 #### § 7
 
@@ -131,7 +141,7 @@ beschliesst:
 
 <sup>3</sup> ​Speisen und Getränke dürfen an Veranstaltungen und Grossveranstaltungen sowie auf Fach- und Publikumsmessen sowohl in Innenräumen als auch im Aussenbereich beziehungsweise im Freien nur sitzend konsumiert werden. Dies gilt auch für Speisen und Getränke, die an Veranstaltungen und Grossveranstaltungen sowie auf Fach- und Publikumsmessen zur Konsumation in restaurantähnlichen Konstellationen wie namentlich an Apéros angeboten werden.
 
-<sup>3<sup>bis</sup></sup> Organisatoren von Veranstaltungen, Grossveranstaltungen sowie Fach- und Publikumsmessen können den Zugang für Personen ab 16 Jahren auf Inhaberinnen und Inhaber eines Impf- oder Genesungszertifikats gemäss Art. 3a Covid-19-Verordnung besondere Lage beschränken. In diesem Fall gilt weder die Maskentragpflicht gemäss Absatz 1 noch die Sitzpflicht während der Konsumation gemäss Absatz 3.
+<sup>3<sup>bis</sup></sup> …
 
 <sup>4</sup> Wer eine Veranstaltung, eine Fach- oder Publikumsmesse mit mehr als 300 Personen, seien es Besucherinnen und Besucher oder Teilnehmende, durchführen will, muss diese vor Durchführung der zuständigen kantonalen Behörde melden.
 
@@ -139,7 +149,7 @@ beschliesst:
 
 **Massnahmen zum Schutz von Arbeitnehmerinnen und Arbeitnehmern**
 
-<sup>1</sup> Den Arbeitgeberinnen und Arbeitgebern wird empfohlen, ihren Arbeitnehmerinnen und Arbeitnehmern Homeoffice zu ermöglichen.
+<sup>1</sup> …
 
 #### § 9
 
@@ -166,6 +176,8 @@ beschliesst:
 <sup>1<sup>quater</sup></sup> Die Änderung von § 2 tritt am 10. Januar 2022, 06.00 Uhr, in Kraft.
 
 <sup>1<sup>quinquies</sup></sup> § 2a tritt am 14. Dezember 2021, 06.00 Uhr, in Kraft.
+
+<sup>1<sup>sexies</sup></sup> Die Änderungen der §§ 2, 3a, 5, 6, 7 und 8 treten am 24. Dezember 2021, 06.00 Uhr in Kraft.
 
 <sup>2</sup> Der Regierungsrat hebt die Verordnung ganz oder teilweise auf, sobald die Massnahmen nicht mehr notwendig sind.
 
