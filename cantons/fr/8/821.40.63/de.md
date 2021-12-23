@@ -4,13 +4,13 @@ number: "821.40.63"
 title: Verordnung über wirtschaftliche Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge für Härtefälle
 short: WMHV-COVID-19
 language: de
-version: 2021-08-31
-valid_until: 2021-12-23
-version_adopted: 2021-08-31
+version: 2021-12-24
+valid_until: 2022-05-02
+version_adopted: 2021-12-21
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.63"
-pdf: "https://bdlf.fr.ch/api/de/versions/6902/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7080/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Beiträge für Härtefälle – V
 
 (WMHV-COVID-19)
 
-vom 16.11.2020 (Fassung in Kraft getreten am 31.08.2021)
+vom 16.11.2020 (Fassung in Kraft getreten am 24.12.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -610,6 +610,6 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Verordnung gilt bis am 31. Dezember 2021. Je nach Entwicklung der Lage kann ihre Geltungsdauer verlängert werden.
+<sup>1</sup> Diese Verordnung gilt bis 31. August 2022. Je nach Entwicklung der Lage kann ihre Geltungsdauer verlängert werden.
 
 2020\_148

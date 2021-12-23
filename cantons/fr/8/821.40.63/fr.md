@@ -4,13 +4,13 @@ number: "821.40.63"
 title: Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien aux cas de rigueur
 short: OMECR COVID-19
 language: fr
-version: 2021-08-31
-valid_until: 2021-12-23
-version_adopted: 2021-08-31
+version: 2021-12-24
+valid_until: 2022-05-02
+version_adopted: 2021-12-21
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.63"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6902/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7080/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, soutien aux cas de rigueur – O
 
 (OMECR COVID-19)
 
-du 16.11.2020 (version entrée en vigueur le 31.08.2021)
+du 16.11.2020 (version entrée en vigueur le 24.12.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -612,6 +612,6 @@ Arrête:
 
 **Durée de validité**
 
-<sup>1</sup> La présente ordonnance reste en vigueur jusqu'au 31 décembre 2021. Selon l'évolution de la situation, sa durée de validité peut être prolongée.
+<sup>1</sup> La présente ordonnance reste en vigueur jusqu'au 31 août 2022. Selon l'évolution de la situation, sa durée de validité peut être prolongée.
 
 2020\_148
