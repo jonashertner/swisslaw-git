@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 3 dicembre 2021 che istituisce misure destinate a evitare lʼulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/804"
 language: it
-version: 2021-12-04
+version: 2021-12-27
 adopted: 2021-12-03
 in_force: 2021-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20211204/it/xml/fedlex-data-admin-ch-eli-cc-2021-804-20211204-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20211204/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20211227/it/xml/fedlex-data-admin-ch-eli-cc-2021-804-20211227-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20211227/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare lʼulteriore diffusione dell’influenza aviaria
 
-del 3 dicembre 2021 (Stato 4 dicembre 2021)
+del 3 dicembre 2021 (Stato 27 dicembre 2021)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -142,81 +142,15 @@ L’ordinanza dell’USAV del 26 novembre 2021[^9-1] che istituisce misure desti
 
 <sup>2</sup> Ha effetto sino al 31 gennaio 2022.
 
-Allegato 1
+Allegato 1*[^t-1]*
 
 (art. 2)
 
 ## Zone di protezione e di sorveglianza
 
-Nei seguenti Cantoni sono stabilite le seguenti zone di protezione e di sorveglianza:
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 21 dic. 2021, in vigore dal 27 dic. 2021 ([RU 2021 904](https://fedlex.data.admin.ch/eli/oc/2021/904)).
 
-### 1. Cantone di Argovia
-
-Zone di sorveglianza:
-
-Fisibach
-
-Kaiserstuhl
-
-Rümikon
-
-### 2. Cantone di Sciaffusa
-
-Zone di sorveglianza:
-
-Buchberg: intero territorio comunale
-
-Neunkirch: a sud della linea ferroviaria
-
-Rüdlingen: intero territorio comunale
-
-Trasadingen: a sud della linea ferroviaria
-
-Wilchingen: incl. Osterfingen; a sud della linea ferroviaria
-
-### 3. Cantone di Zurigo
-
-Zone di protezione:
-
-Hüntwangen
-
-Wasterkingen
-
-Wil (ZH)
-
-Zone di sorveglianza:
-
-Bachs
-
-Berg am Irchel
-
-Bülach
-
-Eglisau
-
-Flaach
-
-Freienstein-Teufen
-
-Glattfelden
-
-Hochfelden
-
-Höri
-
-Marthalen: solo la parte ovest del Comune (Ellikon am Rhein)
-
-Neerach
-
-Rafz
-
-Rheinau
-
-Rorbas
-
-Stadel
-
-Weiach
+Non sono stabiliti zone di protezione e di sorveglianza nonché Cantoni e Comuni interessati.
 
 Allegato 2
 

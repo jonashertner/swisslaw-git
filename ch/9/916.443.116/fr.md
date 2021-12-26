@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 3 décembre 2021 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/804"
 language: fr
-version: 2021-12-04
+version: 2021-12-27
 adopted: 2021-12-03
 in_force: 2021-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20211204/fr/xml/fedlex-data-admin-ch-eli-cc-2021-804-20211204-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20211204/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20211227/fr/xml/fedlex-data-admin-ch-eli-cc-2021-804-20211227-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20211227/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 3 décembre 2021 (Etat le 4 décembre 2021)
+du 3 décembre 2021 (Etat le 27 décembre 2021)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -142,81 +142,15 @@ L’ordonnance de l’OSAV du 26 novembre 2021 instituant des mesures destinées
 
 <sup>2</sup> Elle a effet jusqu’au 31 janvier 2022.
 
-Annexe 1
+Annexe 1*[^t-1]*
 
 (art. 2)
 
 ## Zones de protection et de surveillance
 
-Des zones de protection et de surveillance ont été délimitées dans les cantons ci-après:
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 21 déc. 2021, en vigueur depuis le 27 déc. 2021 ([RO 2021 904](https://fedlex.data.admin.ch/eli/oc/2021/904)).
 
-### 1. Canton d’Argovie
-
-Zones de surveillance:
-
-Fisibach
-
-Kaiserstuhl
-
-Rümikon
-
-### 2. Canton de Schaffhouse
-
-Zones de surveillance:
-
-Buchberg: tout le territoire communal
-
-Neunkirch: au sud de la ligne ferroviaire
-
-Rüdlingen: tout le territoire communal
-
-Trasadingen: au sud de la ligne ferroviaire
-
-Wilchingen, y c. Osterfingen: au sud de la ligne ferroviaire
-
-### 3. Canton de Zurich
-
-Zones de protection:
-
-Hüntwangen
-
-Wasterkingen
-
-Wil (ZH)
-
-Zones de surveillance:
-
-Bachs
-
-Berg am Irchel
-
-Bülach
-
-Eglisau
-
-Flaach
-
-Freienstein-Teufen
-
-Glattfelden
-
-Hochfelden
-
-Höri
-
-Marthalen: seulement la partie ouest de la commune (Ellikon am Rhein)
-
-Neerach
-
-Rafz
-
-Rheinau
-
-Rorbas
-
-Stadel
-
-Weiach
+Aucune zone de protection ou de surveillance ni aucun canton ou commune ne sont mentionnés.
 
 Annexe 2
 
