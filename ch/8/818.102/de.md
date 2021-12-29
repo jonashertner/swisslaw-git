@@ -3,11 +3,11 @@ sr: "818.102"
 title: Bundesgesetz vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: de
-version: 2021-12-18
+version: 2021-12-30
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211218-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211218/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211230/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211230-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211230/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211218/de"
 
 (Covid-19-Gesetz)
 
-vom 25. September 2020 (Stand am 18. Dezember 2021)
+vom 25. September 2020 (Stand am 30. Dezember 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -706,9 +706,9 @@ Der Bund führt eine regelmässig aktualisierte Statistik über die im Rahmen de
 
 <sup>11</sup> Die Geltungsdauer von Artikel 15 nach Absatz 10 wird bis zum 31. Dezember 2022 verlängert.[^21-6]
 
-[^21-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^21-2]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^21-3]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2031 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Berichtigung der RedK der BVers vom 22. Dez. 2021, publiziert am 30. Dez. 2021 ([AS 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
+[^21-2]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2023 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Berichtigung der RedK der BVers vom 22. Dez. 2021, publiziert am 30. Dez. 2021 ([AS 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
+[^21-3]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2031 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Berichtigung der RedK der BVers vom 22. Dez. 2021, publiziert am 30. Dez. 2021 ([AS 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
 [^21-4]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 [^21-5]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Erwerbsausfallentschädigung, Sport und Kapazitätsbeschränkungen), in Kraft vom 19. Juni 2021 bis zum 31. Dez. 2021 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
 [^21-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).

@@ -3,11 +3,11 @@ sr: "818.102"
 title: Federal Act of 25 September 2020 on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic (COVID-19 Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: en
-version: 2021-12-18
+version: 2021-12-30
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211218/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211218-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211218/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211230/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211230-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211230/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Act)
 
-of 25 September 2020 (Status as of 18 December 2021)
+of 25 September 2020 (Status as of 30 December 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -594,7 +594,7 @@ The Federal Council may issue provisions in derogation from the Unemployment Ins
 [^17-3]: In force until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^17-4]: In force until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^17-5]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 to 31 Dec. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^17-6]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from Sept. 2020 to 31 Dec. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515))
+[^17-6]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from Sept. 2020 to 31 Dec. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^17-7]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^17-8]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^17-9]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
@@ -708,9 +708,9 @@ The Confederation shall keep regularly updated statistics on the financial assis
 
 <sup>11</sup> The term of application of Article 15 in accordance with paragraph 10 is extended until 31 December 2022.[^21-6]
 
-[^21-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force since 19 Dec. 2020 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^21-2]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force since 19 Dec. 2020 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^21-3]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force since 19 Dec. 2020 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 until 31 Dec. 2031 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Correction by the FA Drafting Committee of 22 Dec. 2021, published on 30 Dec. 2021 ([AS 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
+[^21-2]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 until 31 Dec. 2023 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Correction by the FA Drafting Committee of 22 Dec. 2021, published on 30 Dec. 2021 ([AS 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
+[^21-3]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), ), in force from 19 Dec. 2020 until 31 Dec. 2031 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Correction by the FA Drafting Committee of 22 Dec. 2021, published on 30 Dec. 2021 ([AS 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
 [^21-4]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force since 19 Dec. 2020 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 [^21-5]: Inserted by No I of the FA of 18 June 2021 (Loss of Earnings Compensation, Sport and Capacity Restrictions), in force from 19 June 2021 to 31 Dec. 2021 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
 [^21-6]: Inserted by No I of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).

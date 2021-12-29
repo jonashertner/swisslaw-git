@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Legge federale del 25 settembre 2020 sulle basi legali delle ordinanze del Consiglio federale volte a far fronte all'epidemia di COVID-19 (Legge COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: it
-version: 2021-12-18
+version: 2021-12-30
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211218-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211218/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211230/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211230-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211230/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211218/it"
 
 (Legge COVID-19)
 
-del 25 settembre 2020 (Stato 18 dicembre 2021)
+del 25 settembre 2020 (Stato 30 dicembre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -705,9 +705,9 @@ La Confederazione tiene una statistica, aggiornata periodicamente, dei sussidi c
 
 <sup>11</sup> La durata di validità dell’articolo 15 di cui al capoverso 10 è prorogata sino al 31 dicembre 2022.[^21-6]
 
-[^21-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^21-2]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^21-3]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2031 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Correzione della Commissione di redazione dell’AF del 22 dic. 2021, pubblicata il 30 dic. 2021 ([RU 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
+[^21-2]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2023 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Correzione della Commissione di redazione dell’AF del 22 dic. 2021, pubblicata il 30 dic. 2021 ([RU 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
+[^21-3]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2031 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Correzione della Commissione di redazione dell’AF del 22 dic. 2021, pubblicata il 30 dic. 2021 ([RU 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
 [^21-4]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 [^21-5]: Introdotto dal n. I della LF del 18 giu. 2021 (Indennità per perdita di guadagno, sport e limitazioni della capienza), in vigore dal 19 giu. 2021 al 31 dic. 2021 ([RU 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
 [^21-6]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
