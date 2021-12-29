@@ -4,13 +4,13 @@ number: "612.310"
 title: Dekret über die wirkungsorientierte Steuerung von Aufgaben und Finanzen
 short: DAF
 language: de
-version: 2021-01-01
-valid_until: 2021-12-29
-version_adopted: 2020-06-16
+version: 2021-12-30
+valid_until: 2023-12-31
+version_adopted: 2021-11-30
 adopted: 2012-06-05
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.310"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2903/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3136/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2903/pdf_file"
 
 (DAF)
 
-Vom 05.06.2012 (Stand 01.01.2021)
+Vom 05.06.2012 (Stand 30.12.2021)
 
 Der Grosse Rat des Kantons Aargau,
 
