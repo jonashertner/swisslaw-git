@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 24.11.2021 de mise en vigueur
+title: ARRÊTÉ du 22.12.2021 de mise en vigueur
 language: fr
-version: 2021-11-30
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=d68d80ed-5498-4b23-a4ac-6f5e0a0c1ceb"
+version: 2021-12-31
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=9f1946a6-190b-4fc7-aa89-afca55137266"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 24 novembre 2021
+du 22 décembre 2021
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,7 +21,10 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les décrets ci-après du 31 août 2021 publiés dans la "Feuille des avis officiels du Canton de Vaud" du 14 septembre 2021, entrent en vigueur le 1er décembre 2021 :
+<sup>1</sup> Les actes législatifs ci-après des 28 septembre et 5 octobre 2021, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 19 octobre 2021, entrent en vigueur le 1er janvier 2022 :
 
-- a. décret du 31 août 2021 accordant au Conseil d'Etat un crédit d'ouvrage de CHF 4'300'000.- pour financer l'agrandissement d'un bâtiment sur le campus de Dorigny destiné à accueillir provisoirement un centre d'imagerie en cryo-microscopie électronique à transmission (cryoTEM) (BLV 414.10) ;
-- b. décret du 31 août 2021 instaurant temporairement la gratuité des procédures devant le Tribunal des baux pour les litiges impliquant des baux commerciaux (BLV 173.655).
+- a. loi du 28 septembre 2021 modifiant celle du 28 février 1956 sur les communes (BLV 175.11) ;
+- b. loi du 28 septembre 2021 modifiant celle du 11 février 1970 sur l'organisation du Conseil d'Etat (BLV 172.115) ;
+- c. loi du 5 octobre 2021 sur l'exercice des droits politiques (BLV 160.01) ;
+- d. décret du 5 octobre 2021 modifiant celui du 5 juin 2018 sur la prévention de la radicalisation et de l'extrémisme violent (BLV 120.015) ;
+- e. décret du 5 octobre 2021 sur le dépassement de la contribution 2019 de l'Etat à la Fondation pour l'accueil de jour des enfants (BLV 211.20).
