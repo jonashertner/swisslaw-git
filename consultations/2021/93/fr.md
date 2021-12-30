@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de la loi fédérale sur la protection de l’environnement
 document: Projet mis en consultation
 language: fr
