@@ -4,33 +4,34 @@ number: "170.450"
 title: Legge sulla Cassa pensioni dei Grigioni
 short: LCPG
 language: it
-version: 2015-01-01
-corrected: 2014-11-29
-version_adopted: 2013-04-23
+version: 2021-12-31
+valid_until: 2021-12-31
+version_adopted: 2021-08-26
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2285/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3205/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sulla Cassa pensioni dei Grigioni (LCPG)
+# Legge sulla Cassa pensioni dei Grigioni
 
-del 23 aprile 2013
+(LCPG)
 
-Il Gran Consiglio del Cantone dei Grigioni[^t-1],
+del 23.04.2013 (stato 31.12.2021)
 
-visto l'art. 31 della Costituzione cantonale[^t-2], visto il messaggio del Governo del 15 gennaio 2013[^t-3],
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
+
+visto l'art. 31 della Costituzione cantonale[^ingress-2], visto il messaggio del Governo del 15 gennaio 2013[^ingress-3],
 
 decide:
 
-[^t-1]: PGC 2012/2013, 832
-[^t-2]: CSC 110.100
-[^t-3]: pagina 893 1.1.2015 1
+[^ingress-1]: PGC 2012/2013, 832
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: pagina 893
 
-### I. In generale e organizzazione
+## 1. In generale e organizzazione
 
 #### Art. 1
 
@@ -62,9 +63,9 @@ decide:
 
 **Direzione**
 
-La direzione è competente per la gestione operativa della Cassa pensioni. I suoi compiti si conformano alle direttive della Commissione amministrativa.
+<sup>1</sup> La direzione è competente per la gestione operativa della Cassa pensioni. I suoi compiti si conformano alle direttive della Commissione amministrativa.
 
-### II. Principi e finanziamento delle prestazioni
+## 2. Principi e finanziamento delle prestazioni
 
 #### Art. 5
 
@@ -92,45 +93,49 @@ La direzione è competente per la gestione operativa della Cassa pensioni. I suo
 
 <sup>1</sup> Viene assicurato lo stipendio annuo ridotto di una deduzione di coordinamento pari al 25 per cento di questo stipendio annuo. La deduzione di coordinamento ammonta tuttavia almeno al 125 per cento della rendita semplice minima di vecchiaia AVS annua.
 
-<sup>2</sup> Lo stipendio annuo corrisponde al presunto stipendio base annuo compresa la 13<sup>a</sup> mensilità. Le componenti dello stipendio occasionali, le indennità sociali e le indennità variabili o temporanee non vengono assicurate.
+<sup>2</sup> Lo stipendio annuo corrisponde al presunto stipendio base annuo compresa la 13a mensilità. Le componenti dello stipendio occasionali, le indennità sociali e le indennità variabili o temporanee non vengono assicurate.
 
 <sup>3</sup> Lo stipendio massimo assicurabile corrisponde al 75 per cento dello stipendio annuo massimo secondo la scala cantonale degli stipendi.
-
-**2**
-
-1.1.2015
 
 #### Art. 8
 
 **Contributi**
 
-<sup>1</sup>[^8-1]I contributi di risparmio sono graduati secondo l'età e sono espressi in per cento dello stipendio assicurato:
+<sup>1</sup> I contributi di risparmio sono graduati secondo l'età e sono espressi in per cento dello stipendio assicurato:
 
-Età LPP Contributi di risparmio 20–24 7,0 25–29 9,0 30–34 11,0 35–39 13,0 40–44 15,0 45–49 18,0 50–54 20,0 55 e oltre 22,0
+<table>
+<tr><th>Età LPP</th><th>Contributi di risparmio</th></tr>
+<tr><td>20–24</td><td>7,0</td></tr>
+<tr><td>25–29</td><td>9,0</td></tr>
+<tr><td>30–34</td><td>11,0</td></tr>
+<tr><td>35–39</td><td>13,0</td></tr>
+<tr><td>40–44</td><td>15,0</td></tr>
+<tr><td>45–49</td><td>18,0</td></tr>
+<tr><td>50–54</td><td>20,0</td></tr>
+<tr><td>55 e oltre</td><td>22,0</td></tr>
+</table>
 
 <sup>2</sup> La Commissione amministrativa stabilisce i contributi di rischio secondo le basi tecniche riconosciute.
 
 <sup>3</sup> I datori di lavoro devono assumersi almeno la metà dei contributi.
 
-[^8-1]: Testo giusta DGC del 12 giugno 2014, M del 25 febbraio 2014, 1135; PGC 2013/2014, 877; posto in vigore il 1° gennaio 2015 con DG del 20 ottobre 2014 1.1.2015 3
-
 #### Art. 9
 
 **Prestazioni**
 
-Le prestazioni assicurative vengono stabilite dalla Commissione amministrativa.
+<sup>1</sup> Le prestazioni assicurative vengono stabilite dalla Commissione amministrativa.
 
 #### Art. 10
 
 **Garanzia dei diritti acquisiti**
 
-Gli accrediti supplementari a garanzia dei diritti acquisiti introdotti con effetto al 1° gennaio 2001 in occasione della revisione totale dell'ordinanza sulla Cassa cantonale pensioni, vengono mantenuti.
+<sup>1</sup> Gli accrediti supplementari a garanzia dei diritti acquisiti introdotti con effetto al 1° gennaio 2001 in occasione della revisione totale dell'ordinanza sulla Cassa cantonale pensioni, vengono mantenuti.
 
 #### Art. 11
 
 **Ulteriori piani**
 
-La Commissione amministrativa può emanare nuovi piani previdenziali.
+<sup>1</sup> La Commissione amministrativa può emanare nuovi piani previdenziali.
 
 #### Art. 12
 
@@ -142,25 +147,33 @@ La Commissione amministrativa può emanare nuovi piani previdenziali.
 
 <sup>3</sup> I datori di lavoro devono assumersi almeno la metà dei contributi di risanamento. I contributi di risanamento non fanno parte dell'avere a risparmio.
 
+#### Art. 12a
+
+**Garanzia per rendite in corso**
+
+<sup>1</sup> Il Cantone garantisce a tempo indeterminato tutte le rendite in corso al 31 dicembre 2021. L'effettivo di beneficiari di rendite in tale data viene gestito in una cassa di previdenza chiusa. A garanzia del pagamento delle rendite in corso, il Cantone concede alla Cassa pensioni mutui senza interessi e rimborsabili condizionalmente per la cassa di previdenza chiusa. I mutui concessi devono essere rimborsati se il grado di copertura supera il 100 per cento.
+
+<sup>2</sup> Il Governo disciplina i dettagli in un contratto con la Cassa pensioni.
+
 #### Art. 13
 
 **Diritto sugli appalti pubblici**
 
-La Cassa pensioni non è assoggettata al diritto sugli appalti pubblici.
+<sup>1</sup> La Cassa pensioni non è assoggettata al diritto sugli appalti pubblici.
 
 #### Art. 14
 
 **Rimedi giuridici**
 
-Le vie di ricorso si orientano alla legge sulla giustizia amministrativa.
+<sup>1</sup> Le vie di ricorso si orientano alla legge sulla giustizia amministrativa.
 
-### III. Disposizioni finali
+## 3. Disposizioni finali
 
 #### Art. 15
 
 **Abrogazione del diritto previgente**
 
-Con l'entrata in vigore della presente legge viene abrogata la legge sulla Cassa cantonale pensioni dei Grigioni (LCPG) del 16 giugno 2005.
+<sup>1</sup> Con l'entrata in vigore della presente legge viene abrogata la legge sulla Cassa cantonale pensioni dei Grigioni (LCPG) del 16 giugno 2005.
 
 #### Art. 16
 
@@ -171,4 +184,6 @@ Con l'entrata in vigore della presente legge viene abrogata la legge sulla Cassa
 <sup>2</sup> Il Governo stabilisce la data dell'entrata in vigore[^16-2] della presente legge.
 
 [^16-1]: Il termine di referendum è scaduto inutilizzato il 31 luglio 2013
-[^16-2]: Posta in vigore il 1° gennaio 2014 con DG del 15 ottobre 2013 4 1.1.2015
+[^16-2]: Posta in vigore il 1° gennaio 2014 con DG del 15 ottobre 2013
+
+-

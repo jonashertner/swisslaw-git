@@ -1,36 +1,39 @@
 ---
 canton: GR
 number: "170.450"
-title: Gesetz über die Pensionskasse Graubünden (PKG)
+title: Gesetz über die Pensionskasse Graubünden
 short: PKG
 language: de
-version: 2015-01-01
-corrected: 2014-11-29
-version_adopted: 2013-04-23
+version: 2021-12-31
+valid_until: 2021-12-31
+version_adopted: 2021-08-26
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2285/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3205/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Pensionskasse Graubünden (PKG)
+# Gesetz über die Pensionskasse Graubünden
 
-Vom 23. April 2013
+(PKG)
 
-Der Grosse Rat des Kantons Graubünden[^t-1],
+Vom 23.04.2013 (Stand 31.12.2021)
 
-gestützt auf Art. 31 der Kantonsverfassung[^t-2], nach Einsicht in die Botschaft der Regierung vom 15. Januar 2013[^t-3],
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
+
+gestützt auf Art. 31 der Kantonsverfassung[^ingress-2],
+
+nach Einsicht in die Botschaft der Regierung vom 15. Januar 2013[^ingress-3],
 
 beschliesst:
 
-[^t-1]: GRP 2012/2013, 832
-[^t-2]: BR 110.100
-[^t-3]: Seite 893 01.01.2015 1
+[^ingress-1]: GRP 2012/2013, 832
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: Seite 893
 
-### I. Allgemeines und Organisation
+## 1. Allgemeines und Organisation
 
 #### Art. 1
 
@@ -62,9 +65,9 @@ beschliesst:
 
 **Direktion**
 
-Der Direktion obliegt die operative Geschäftsführung der Pensionskasse. Ihre Aufgaben richten sich nach den Vorgaben der Verwaltungskommission.
+<sup>1</sup> Der Direktion obliegt die operative Geschäftsführung der Pensionskasse. Ihre Aufgaben richten sich nach den Vorgaben der Verwaltungskommission.
 
-### II. Grundsätze und Finanzierung der Leistungen
+## 2. Grundsätze und Finanzierung der Leistungen
 
 #### Art. 5
 
@@ -96,41 +99,45 @@ Der Direktion obliegt die operative Geschäftsführung der Pensionskasse. Ihre A
 
 <sup>3</sup> Der höchstversicherbare Lohn entspricht 75 Prozent des maximalen Jahreslohnes gemäss kantonaler Besoldungsskala.
 
-**2**
-
-01.01.2015
-
 #### Art. 8
 
 **Beiträge**
 
-<sup>1</sup>[^8-1]Die Sparbeiträge sind altersabhängig gestaffelt und betragen in Prozenten des versicherten Lohnes:
+<sup>1</sup> Die Sparbeiträge sind altersabhängig gestaffelt und betragen in Prozenten des versicherten Lohnes:
 
-BVG-Alter Sparbeiträge 20–24 7,0 25–29 9,0 30–34 11,0 35–39 13,0 40–44 15,0 45–49 18,0 50–54 20,0 55 und höher 22,0
+<table>
+<tr><th>BVG-Alter</th><th>Sparbeiträge</th></tr>
+<tr><td>20–24</td><td>7,0</td></tr>
+<tr><td>25–29</td><td>9,0</td></tr>
+<tr><td>30–34</td><td>11,0</td></tr>
+<tr><td>35–39</td><td>13,0</td></tr>
+<tr><td>40–44</td><td>15,0</td></tr>
+<tr><td>45–49</td><td>18,0</td></tr>
+<tr><td>50–54</td><td>20,0</td></tr>
+<tr><td>55 und höher</td><td>22,0</td></tr>
+</table>
 
 <sup>2</sup> Die Verwaltungskommission bestimmt die Risikobeiträge gemäss den anerkannten technischen Grundlagen.
 
 <sup>3</sup> Die Arbeitgebenden haben mindestens die Hälfte der Beiträge zu übernehmen.
 
-[^8-1]: Fassung gemäss GRB vom 12. Juni 2014, B vom 25. Februar 2014, 1135; GRP 2013/2014, 877; mit RB vom 20. Oktober 2014 auf den 1. Januar 2015 in Kraft gesetzt. 01.01.2015 3
-
 #### Art. 9
 
 **Leistungen**
 
-Die Versicherungsleistungen werden von der Verwaltungskommission festgelegt.
+<sup>1</sup> Die Versicherungsleistungen werden von der Verwaltungskommission festgelegt.
 
 #### Art. 10
 
 **Besitzstand**
 
-Die anlässlich der Totalrevision der Pensionskassenverordnung per 1. Januar 2001 zur Besitzstandswahrung eingeführten Zusatzgutschriften werden weitergeführt.
+<sup>1</sup> Die anlässlich der Totalrevision der Pensionskassenverordnung per 1. Januar 2001 zur Besitzstandswahrung eingeführten Zusatzgutschriften werden weitergeführt.
 
 #### Art. 11
 
 **Weitere Pläne**
 
-Die Verwaltungskommission kann neue Vorsorgepläne erlassen.
+<sup>1</sup> Die Verwaltungskommission kann neue Vorsorgepläne erlassen.
 
 #### Art. 12
 
@@ -142,25 +149,33 @@ Die Verwaltungskommission kann neue Vorsorgepläne erlassen.
 
 <sup>3</sup> Die Arbeitgebenden haben mindestens die Hälfte der Sanierungsbeiträge zu übernehmen. Die Sanierungsbeiträge zählen nicht zum Sparguthaben.
 
+#### Art. 12a
+
+**Garantie für laufende Renten**
+
+<sup>1</sup> Der Kanton garantiert unbefristet alle am 31. Dezember 2021 laufenden Renten. Der zu diesem Zeitpunkt bestehende Rentnerbestand wird in einem geschlossenen Vorsorgewerk geführt. Zur Sicherung der laufenden Rentenzahlungen gewährt der Kanton der Pensionskasse für das geschlossene Vorsorgewerk zinslose und bedingt rückzahlbare Darlehen. Gewährte Darlehen sind soweit zurückzuzahlen, als der Deckungsgrad 100 Prozent übersteigt.
+
+<sup>2</sup> Die Regierung regelt die Einzelheiten in einem Vertrag mit der Pensionskasse.
+
 #### Art. 13
 
 **Öffentliches Submissionsrecht**
 
-Die Pensionskasse ist dem öffentlichen Submissionsrecht nicht unterstellt.
+<sup>1</sup> Die Pensionskasse ist dem öffentlichen Submissionsrecht nicht unterstellt.
 
 #### Art. 14
 
 **Rechtsmittel**
 
-Der Instanzenzug richtet sich nach dem Gesetz über die Verwaltungsrechtspflege.
+<sup>1</sup> Der Instanzenzug richtet sich nach dem Gesetz über die Verwaltungsrechtspflege.
 
-### III. Schlussbestimmungen
+## 3. Schlussbestimmungen
 
 #### Art. 15
 
 **Aufhebung bisherigen Rechts**
 
-Mit Inkrafttreten dieses Gesetzes wird das Gesetz über die Kantonale Pensionskasse Graubünden (PKG) vom 16. Juni 2005 aufgehoben.
+<sup>1</sup> Mit Inkrafttreten dieses Gesetzes wird das Gesetz über die Kantonale Pensionskasse Graubünden (PKG) vom 16. Juni 2005 aufgehoben.
 
 #### Art. 16
 
@@ -171,4 +186,6 @@ Mit Inkrafttreten dieses Gesetzes wird das Gesetz über die Kantonale Pensionska
 <sup>2</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^16-2] dieses Gesetzes.
 
 [^16-1]: Die Referendumsfrist ist am 31. Juli 2013 unbenutzt abgelaufen.
-[^16-2]: Mit RB vom 15. Oktober 2013 auf den 1. Januar 2014 in Kraft gesetzt. 4 01.01.2015
+[^16-2]: Mit RB vom 15. Oktober 2013 auf den 1. Januar 2014 in Kraft gesetzt.
+
+-

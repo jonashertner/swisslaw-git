@@ -4,33 +4,36 @@ number: "170.450"
 title: Lescha davart la cassa da pensiun dal Grischun
 short: LCPG
 language: rm
-version: 2015-01-01
-corrected: 2014-11-29
-version_adopted: 2013-04-23
+version: 2021-12-31
+valid_until: 2021-12-31
+version_adopted: 2021-08-26
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2285/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3205/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha davart la cassa da pensiun dal Grischun (LCPG)
+# Lescha davart la cassa da pensiun dal Grischun
 
-dals 23 d'avrigl 2013
+(LCPG)
 
-Il cussegl grond dal chantun Grischun[^t-1],
+dals 23-04-2013 (versiun dals 31-12-2021)
 
-sa basond sin l'art. 31 da la constituziun chantunala[^t-2], suenter avair gì invista da la missiva da la regenza dals 15 da schaner 2013[^t-3],
+Il cussegl grond dal chantun Grischun[^ingress-1],
+
+sa basond sin l'art. 31 da la constituziun chantunala[^ingress-2],
+
+suenter avair gì invista da la missiva da la regenza dals 15 da schaner 2013[^ingress-3],
 
 concluda:
 
-I. Chaussas generalas ed organisaziun
+[^ingress-1]: PCG 2012/2013, 832
+[^ingress-2]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-3]: pagina 893
 
-[^t-1]: PCG 2012/2013, 832
-[^t-2]: DG 110.100
-[^t-3]: pagina 893 01-01-2015 1
+## 1. Chaussas generalas ed organisaziun
 
 #### Art. 1
 
@@ -62,9 +65,9 @@ I. Chaussas generalas ed organisaziun
 
 **Direcziun**
 
-La gestiun operativa da la cassa da pensiun è chaussa da la direcziun. Sias incumbensas sa drizzan tenor las prescripziuns da la cumissiun administrativa.
+<sup>1</sup> La gestiun operativa da la cassa da pensiun è chaussa da la direcziun. Sias incumbensas sa drizzan tenor las prescripziuns da la cumissiun administrativa.
 
-### II. Princips e finanziaziun da las prestaziuns
+## 2. Princips e finanziaziun da las prestaziuns
 
 #### Art. 5
 
@@ -94,43 +97,49 @@ La gestiun operativa da la cassa da pensiun è chaussa da la direcziun. Sias inc
 
 <sup>2</sup> Il salari annual correspunda al salari fundamental annual probabel inclusiv il 13. salari mensil. Cumponentas dal salari che resultan occasiunalmain, supplements socials, supplements variabels u temporars na vegnan betg assicurads.
 
-**2**
-
-01-01-2015
-
 <sup>3</sup> Il salari maximal assicurabel correspunda a 75 pertschient dal salari annual maximal tenor la scala chantunala da salarisaziun.
 
 #### Art. 8
 
 **Contribuziuns**
 
-<sup>1</sup>[^8-1]Las contribuziuns da spargn èn graduadas tenor la vegliadetgna ed importan en pertschients dal salari assicurà:
+<sup>1</sup> Las contribuziuns da spargn èn graduadas tenor la vegliadetgna ed importan en pertschients dal salari assicurà:
 
-vegliadetgna tenor la LPP contribuziuns da spargn 20–24 7,0 25–29 9,0 30–34 11,0 35–39 13,0 40–44 15,0 45–49 18,0 50–54 20,0 55 e pli vegl 22,0
+<table>
+<tr><th>vegliadetgna tenor la LPP[^8-1]</th><th>contribuziuns da spargn</th></tr>
+<tr><td>20–24</td><td>7,0</td></tr>
+<tr><td>25–29</td><td>9,0</td></tr>
+<tr><td>30–34</td><td>11,0</td></tr>
+<tr><td>35–39</td><td>13,0</td></tr>
+<tr><td>40–44</td><td>15,0</td></tr>
+<tr><td>45–49</td><td>18,0</td></tr>
+<tr><td>50–54</td><td>20,0</td></tr>
+<tr><td>55 e pli vegl</td><td>22,0</td></tr>
+</table>
 
 <sup>2</sup> La cumissiun administrativa fixescha las contribuziuns da ristga tenor las basas tecnicas renconuschidas.
 
 <sup>3</sup> Las patrunas ed ils patruns ston surpigliar almain la mesadad da las contribuziuns.
 
-[^8-1]: versiun tenor CCG dals 12 da zercladur 2014; M dals 25 da favrer 2014, 1135; PCG 2013/2014, 877; mess en vigur cun CR dals 20 d'october 2014 per il 1. da schaner 2015 01-01-2015 3
+[^8-1]: CS [831.40](https://db.clex.ch/link/Bund/831.40/rm)
 
 #### Art. 9
 
 **Prestaziuns**
 
-Las prestaziuns d'assicuranza vegnan fixadas da la cumissiun administrativa.
+<sup>1</sup> Las prestaziuns d'assicuranza vegnan fixadas da la cumissiun administrativa.
 
 #### Art. 10
 
 **Possess actual**
 
-Cun las bunificaziuns supplementaras, introducidas il 1. da schaner 2001 a chaschun da la revisiun totala da l'ordinaziun davart la cassa da pensiun per mantegnair il possess actual, vegni cuntinuà.
+<sup>1</sup> Cun las bunificaziuns supplementaras, introducidas il 1. da schaner 2001 a chaschun da la revisiun totala da l'ordinaziun davart la cassa da pensiun per mantegnair il possess actual, vegni cuntinuà.
 
 #### Art. 11
 
 **Ulteriurs plans**
 
-La cumissiun administrativa po relaschar novs plans da prevenziun.
+<sup>1</sup> La cumissiun administrativa po relaschar novs plans da prevenziun.
 
 #### Art. 12
 
@@ -138,29 +147,41 @@ La cumissiun administrativa po relaschar novs plans da prevenziun.
 
 <sup>1</sup> La cumissiun administrativa concluda mesiras en cas da sutgaranzia. Las mesiras ston correspunder al grad da la sutgaranzia e far part d'in concept general equilibrà. Ellas ston esser realisablas a temp util ed esser bunas d'eliminar la sutgaranzia entaifer in termin adequat.
 
-<sup>2</sup> En spezial pon vegnir incassadas contribuziuns da sanaziun da las patrunas e dals patruns affiliads sco er da las persunas assicuradas, e per tschainsir ils dabuns da spargn po vegnir sutpassà il tschains minimal tenor la LPP.
+<sup>2</sup> En spezial pon vegnir incassadas contribuziuns da sanaziun da las patrunas e dals patruns affiliads sco er da las persunas assicuradas, e per tschainsir ils dabuns da spargn po vegnir sutpassà il tschains minimal tenor la LPP[^12-1].
 
 <sup>3</sup> Las patrunas ed ils patruns ston surpigliar almain la mesadad da las contribuziuns da sanaziun. Las contribuziuns da sanaziun na quintan betg tar il dabun da spargn.
+
+[^12-1]: CS [831.40](https://db.clex.ch/link/Bund/831.40/rm)
+
+#### Art. 12a
+
+**Garanzia per rentas currentas**
+
+<sup>1</sup> Il chantun garantescha senza limitaziun da temp tut las rentas currentas dals 31 da december 2021. L'effectiv da persunas pensiunadas ch'è avant maun quel mument vegn manà en ina instituziun da provediment serrada. Per segirar ils pajaments da las rentas currentas conceda il chantun a la Cassa da pensiun, per l'instituziun da provediment serrada, emprests senza tschains ch'èn restituibels sut tschertas cundiziuns. Emprests concedids ston vegnir restituids uschenavant ch'il grad da cuvrida surpassa 100 pertschient.
+
+<sup>2</sup> La Regenza regla ils detagls en in contract cun la Cassa da pensiun.
 
 #### Art. 13
 
 **Dretg da submissiun public**
 
-La cassa da pensiun n'è betg suttamessa al dretg da submissiun public.
+<sup>1</sup> La cassa da pensiun n'è betg suttamessa al dretg da submissiun public.
 
 #### Art. 14
 
 **Meds legals**
 
-La via da las instanzas sa drizza tenor la lescha davart la giurisdicziun administrativa.
+<sup>1</sup> La via da las instanzas sa drizza tenor la lescha davart la giurisdicziun administrativa[^14-1].
 
-### III. Disposiziuns finalas
+[^14-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+
+## 3. Disposiziuns finalas
 
 #### Art. 15
 
 **Aboliziun dal dretg vertent**
 
-Cun l'entrada en vigur da questa lescha vegn abolida la lescha davart la cassa da pensiun chantunala dal Grischun (LCPG) dals 16 da zercladur 2005.
+<sup>1</sup> Cun l'entrada en vigur da questa lescha vegn abolida la lescha davart la cassa da pensiun chantunala dal Grischun (LCPG) dals 16 da zercladur 2005.
 
 #### Art. 16
 
@@ -170,5 +191,7 @@ Cun l'entrada en vigur da questa lescha vegn abolida la lescha davart la cassa d
 
 <sup>2</sup> La regenza fixescha il termin da l'entrada en vigur[^16-2] da questa lescha.
 
-[^16-1]: il termin da referendum è scadì ils 31 da fanadur 2013; entaifer quest termin n'èn vegnids inoltrads nagins referendums
-[^16-2]: mess en vigur cun CR dals 15 d'october 2013 per il 1. da schaner 2014 4 01-01-2015
+[^16-1]: Il termin da referendum è scadì ils 31 da fanadur 2013. Entaifer quest termin n'èn vegnids inoltrads nagins referendums.
+[^16-2]: messa en vigur cun CR dals 15 d'october 2013 per il 1. da schaner 2014
+
+-
