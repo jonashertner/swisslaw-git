@@ -4,13 +4,13 @@ number: "432.211.2"
 title: Tagesschulverordnung
 short: TSV
 language: de
-version: 2020-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-03-03
+version: 2022-01-01
+valid_until: 2022-07-31
+version_adopted: 2022-02-23
 adopted: 2008-05-28
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.211.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1850/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2563/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1850/pdf_file"
 
 (TSV)
 
-vom 28.05.2008 (Stand 01.08.2020)
+vom 28.05.2008 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -166,20 +166,28 @@ beschliesst:
 
 <sup>1</sup> Das für die Berechnung der Gebühr massgebende Jahreseinkommen der Eltern, die mit dem Kind in einem gemeinsamen Haushalt wohnen, umfasst
 
-- a den Nettolohn gemäss Lohnausweis,
+- a den Nettolohn,
 - b das steuerpflichtige Ersatzeinkommen,
-- c die erhaltenen Unterhaltsbeiträge,
+- c die erhaltenen Unterhaltsbeiträge, soweit sie nach kantonaler Steuergesetzgebung versteuert werden müssen,
 - d fünf Prozent des Nettovermögens (Bruttovermögen abzüglich Schulden),
 - e den in der Steuererklärung ausgewiesenen Geschäftsgewinn (Durchschnitt der vergangenen drei Jahre),
-- f Familienzulagen, soweit sie nicht bereits im Nettolohn enthalten sind.
+- f Bruttoerträge aus beweglichem und unbeweglichem Vermögen,
+- g weitere steuerbare Einkünfte.
 
 <sup>2</sup> Zur Ermittlung des massgebenden Einkommens sind die Verhältnisse des Vorjahrs zu berücksichtigen.
 
-<sup>3</sup> Wenn das Einkommen des laufenden Jahres voraussichtlich um mehr als 20 Prozent tiefer ist als das Vorjahreseinkommen, ist auf Antrag der Eltern auf das reduzierte Einkommen abzustellen. Die Anpassung erfolgt auf den Folgemonat nach Einreichung aller Belege.
+<sup>3</sup> Auf Antrag der Eltern und nach Einreichung aller Belege wird ab dem Folgemonat auf das laufende Jahr abgestellt, wenn
 
-<sup>4</sup> Vom massgebenden Einkommen abzuziehen sind Unterhaltsbeiträge, an geschiedene, gerichtlich oder tatsächlich getrennt lebende Ehegatten sowie die Unterhaltsbeiträge an einen getrennt lebenden Elternteil für die unter dessen Obhut stehenden Kinder.
+- a das massgebende Einkommen des Vorjahres nach Berücksichtigung der Abzüge gemäss Artikel 14 weniger als 80'000 Franken beträgt und
+- b das massgebende Einkommen des laufenden Jahres voraussichtlich um mehr als 20 Prozent tiefer ist als dasjenige des Vorjahres.
 
-<sup>5</sup> Bei Konkubinatspaaren mit gemeinsamen Kindern werden die beiden Einkommen zusammengerechnet. Bei Konkubinatspaaren ohne gemeinsame Kinder erfolgt die Zusammenrechnung erst nach fünf Jahren faktischen Zusammenlebens.
+<sup>4</sup> Vom massgebenden Einkommen abzuziehen sind
+
+- a Unterhaltsbeiträge an geschiedene oder gerichtlich oder tatsächlich getrennt lebende Ehegatten,
+- b Unterhaltsbeiträge an einen getrennt lebenden Elternteil für die unter dessen Obhut stehenden Kinder,
+- c die steuerlich berücksichtigten Schuldzinsen und Gewinnungskosten.
+
+<sup>5</sup> Bei Konkubinatspaaren mit gemeinsamen Kindern werden die beiden Einkommen zusammengerechnet. Bei Konkubinatspaaren ohne gemeinsame Kinder erfolgt die Zusammenrechnung erst nach zwei Jahren faktischen Zusammenlebens.
 
 #### Art. 13
 
@@ -272,6 +280,12 @@ beschliesst:
 #### Art. T1-1
 
 <sup>1</sup> Die Änderung der Artikel 14 und 15 werden erst ab 1. August 2019 anwendbar.
+
+## T2 Übergangsbestimmung der Änderung vom 24.11.2021
+
+#### Art. T2-1
+
+<sup>1</sup> Die Änderungen von Artikel 12 sind ab dem 1. August 2022 anwendbar.
 
 Bern, 28. Mai 2008
 

@@ -4,13 +4,13 @@ number: "432.211.2"
 title: Ordonnance sur les écoles à journée continue
 short: OEC
 language: fr
-version: 2020-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-03-03
+version: 2022-01-01
+valid_until: 2022-07-31
+version_adopted: 2022-02-23
 adopted: 2008-05-28
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.211.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1850/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2563/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1850/pdf_file"
 
 (OEC)
 
-du 28.05.2008 (état au 01.08.2020)
+du 28.05.2008 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -166,20 +166,28 @@ arrête:
 
 <sup>1</sup> Le revenu annuel des parents vivant sous le même toit que l’enfant pris en compte pour calculer le montant des émoluments comprend
 
-- a le salaire net selon le certificat de salaire;
+- a le salaire net;
 - b le revenu de remplacement imposable;
-- c les contributions d’entretien perçues;
+- c les contributions d’entretien reçues pour autant qu’elles soient imposables conformément à la législation cantonale sur les impôts;
 - d cinq pour cent de la fortune nette (fortune brute moins les dettes);
 - e le bénéfice commercial imposable figurant dans la déclaration d’impôt (moyenne des trois dernières années);
-- f les allocations familiales si elles ne sont pas déjà incluses dans le salaire net.
+- f les revenus bruts de la fortune mobilière et de la fortune immobilière;
+- g les autres revenus imposables.
 
 <sup>2</sup> Le revenu déterminant est calculé en prenant en compte la situation financière de l’année précédente.
 
-<sup>3</sup> S’il est probable que le revenu de l’année en cours soit inférieur de plus de 20 pour cent à celui de l’année précédente, le calcul est effectué sur cette base pour autant que les parents en fassent la demande. L’adaptation est effective le mois suivant la remise de l’ensemble des justificatifs requis.
+<sup>3</sup> Pour autant que les parents en fassent la demande et que l'ensemble des justificatifs requis aient été remis, l'année en cours sert de base pour le calcul à compter du mois suivant
 
-<sup>4</sup> Les contributions d’entretien versées à des conjoints divorcés ou à des conjoints séparés judiciairement ou de fait ainsi que les contributions d’entretien versées à un des membres du couple vivant séparément pour les enfants placés sous sa garde doivent être déduites du revenu déterminant.
+- a si le revenu déterminant de l'année précédente est inférieur à 80'000 francs une fois les déductions visées à l'article 14 prises en compte et
+- b s’il est probable que le revenu déterminant de l’année en cours soit inférieur de plus de 20 pour cent à celui de l’année précédente.
 
-<sup>5</sup> Pour les couples vivant en concubinage et ayant des enfants en commun ainsi que pour les concubins sans enfants en commun vivant sous le même toit depuis cinq ans, le tarif est fixé en prenant en compte les deux revenus.
+<sup>4</sup> Doivent être déduits du revenu déterminant
+
+- a les contributions d’entretien versées à des conjoints divorcés ou à des conjoints séparés judiciairement ou de fait,
+- b les contributions d’entretien versées à un des membres du couple vivant séparément pour les enfants placés sous sa garde,
+- c les intérêts de la dette et les frais d'obtention du revenu pris en compte fiscalement.
+
+<sup>5</sup> Pour les couples vivant en concubinage et ayant des enfants en commun ainsi que pour les concubins sans enfants en commun vivant sous le même toit depuis deux ans, le tarif est fixé en prenant en compte les deux revenus.
 
 #### Art. 13
 
@@ -272,6 +280,12 @@ arrête:
 #### Art. T1-1
 
 <sup>1</sup> La modification des articles 14 et 15 s’applique à partir du 1<sup>er</sup> août 2019.
+
+## T2 Disposition transitoire de la modification du 24.11.2021
+
+#### Art. T2-1
+
+<sup>1</sup> La modification de l'article 12 s'applique à partir du 1<sup>er</sup> août 2022.
 
 Berne, le 28 mai 2008
 
