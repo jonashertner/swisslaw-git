@@ -4,13 +4,12 @@ number: BaB 155.100
 title: Reglement über die Organisation der E. Zünfte der Stadt Basel
 short: Zunftordnung
 language: de
-version: 1991-04-28
-valid_until: 2021-12-31
-version_adopted: 1990-02-20
+version: 2022-01-01
+version_adopted: 2021-08-24
 adopted: 1990-02-20
 in_force: 1990-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20155.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4507/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5339/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Zünfte: Reglement | Basel: Bürgergemeinde
 
 (Zunftordnung)
 
-Vom 20. Februar 1990 (Stand 28. April 1991)
+Vom 20. Februar 1990 (Stand 1. Januar 2022)
 
 Der Bürgerrat der Stadt Basel,
 
@@ -55,11 +54,11 @@ Zunft zum Schlüssel, Zunft zu Hausgenossen, Zunft zu Weinleuten, Zunft zu Safra
 
 **Aufnahme**
 
-<sup>1</sup> In eine Zunft kann jeder männliche und wohlbeleumdete Bürger der Stadt Basel aufgenommen werden, der das 18. Altersjahr zurückgelegt hat, nicht entmündigt ist und nicht bereits einer andern Zunft, ausgenommen die Akademische Zunft, angehört.
+<sup>1</sup> In eine Zunft kann jede wohlbeleumdete Person aufgenommen werden, die das 18. Altersjahr zurückgelegt hat, das Bürgerrecht der Stadt Basel besitzt, nicht wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft steht und nicht bereits einer andern Zunft, ausgenommen die Akademische Zunft, angehört.
 
-<sup>2</sup> Eine Zunft kann durch Beschluss der Zunftversammlung Frauen den Männern gleichstellen. In diesem Fall gelten die in diesem Reglement umschriebenen Rechte und Pflichten von Zunftbrüdern und Vorgesetzten auch für Frauen.
+<sup>2</sup> …
 
-<sup>3</sup> Über die Aufnahme entscheidet der Vorstand auf schriftliches Gesuch des Bewerbers hin, das an den Meister oder den Schreiber zu richten ist.
+<sup>3</sup> Über die Aufnahme entscheidet der Vorstand auf schriftliches Gesuch der bewerbenden Person hin, das an die Meisterin bzw. den Meister oder die Schreiberin bzw. den Schreiber zu richten ist.
 
 <sup>4</sup> Für die Aufnahme ist eine Gebühr von höchstens Fr. 200.- an die Zunftkasse zu entrichten; weitere finanzielle Leistungen dürfen für die Aufnahme nicht verlangt werden.
 
@@ -67,9 +66,9 @@ Zunft zum Schlüssel, Zunft zu Hausgenossen, Zunft zu Weinleuten, Zunft zu Safra
 
 **Wahl der Zunft**
 
-<sup>1</sup> Eine Zunft soll vornehmlich diejenigen Bewerber, die ihr nach Beruf oder Gewerbe am nächsten stehen, sodann die Nachkommen von Zunftbrüdern aufnehmen. Nach ihrem Ermessen und ihren Möglichkeiten berücksichtigt sie auch andere Bewerber.
+<sup>1</sup> Eine Zunft soll vornehmlich diejenigen Bewerbenden, die ihr nach Beruf oder Gewerbe am nächsten stehen, sodann deren Nachkommen aufnehmen. Nach ihrem Ermessen und ihren Möglichkeiten berücksichtigt sie auch andere Bewerbende.
 
-<sup>2</sup> Voraussetzung für die Aufnahme in die Akademische Zunft ist ein akademisches Studium. Einem akademischen Studium gleichgestellt ist die Ernennung zum Ehrendoktor durch eine allgemein anerkannte Universität.
+<sup>2</sup> Voraussetzung für die Aufnahme in die Akademische Zunft ist ein akademisches Studium. Einem akademischen Studium gleichgestellt ist die Ernennung zur Ehrendoktorin oder zum Ehrendoktor durch eine allgemein anerkannte Universität.
 
 <sup>3</sup> Die Zunftversammlung kann beschliessen, dass die Zahl der Angehörigen der Zunft eine bestimmte Grenze nicht überschreiten darf, wenn sonst ein gedeihliches Leben der Zunft beeinträchtigt würde; dieser Beschluss unterliegt der Genehmigung durch den Bürgerrat.
 
@@ -77,7 +76,7 @@ Zunft zum Schlüssel, Zunft zu Hausgenossen, Zunft zu Weinleuten, Zunft zu Safra
 
 **Austritt**
 
-<sup>1</sup> Der Austritt aus der Zunft ist schriftlich an den Meister oder an den Schreiber zu richten.
+<sup>1</sup> Der Austritt aus der Zunft ist schriftlich an die Meisterin bzw. den Meister oder an die Schreiberin bzw. den Schreiber zu richten.
 
 <sup>2</sup> Der Austritt wird auf Ende des dritten Monats nach Eingang des Austrittschreibens wirksam.
 
@@ -85,19 +84,19 @@ Zunft zum Schlüssel, Zunft zu Hausgenossen, Zunft zu Weinleuten, Zunft zu Safra
 
 **Streichung**
 
-<sup>1</sup> Mit dem Wegfall der Voraussetzungen für die Aufnahme nach § 3 erlischt die Mitgliedschaft; der Vorstand kann jedoch einem Entmündigten gestatten, weiter der Zunft anzugehören.
+<sup>1</sup> Mit dem Wegfall der Voraussetzungen für die Aufnahme nach § 3 erlischt die Mitgliedschaft; der Vorstand kann jedoch einer unter umfassender Beistandschaft stehenden Person gestatten, weiter der Zunft anzugehören.
 
-<sup>2</sup> Zunftbrüder, deren Adresse geändert hat und die nicht innert Jahresfrist dem Meister oder dem Schreiber ihrer Zunft die neue Adresse mitteilen, sowie Zunftbrüder, die dauernd in Ausland verzogen sind, können vom Vorstand aus der Liste der Zunftangehörigen gestrichen werden.
+<sup>2</sup> Zunftmitglieder, deren Adresse geändert hat und die nicht innert Jahresfrist der Meisterin bzw. dem Meister oder der Schreiberin bzw. dem Schreiber ihrer Zunft die neue Adresse mitteilen, sowie Zunftmitglieder, die dauernd ins Ausland verzogen sind, können vom Vorstand aus der Liste der Zunftangehörigen gestrichen werden.
 
-## IV. Rechte und Pflichten der Zunftbrüder
+## IV. Rechte und Pflichten der Zunftmitglieder
 
 #### § 7
 
 **Stimm- und Wahlrecht**
 
-<sup>1</sup> Jeder Zunftbruder ist teilnahmeberechtigt an den Zunftversammlungen und hat dort Stimm- und Wahlrecht.
+<sup>1</sup> Jedes Zunftmitglied ist teilnahmeberechtigt an den Zunftversammlungen und hat dort Stimm- und Wahlrecht.
 
-<sup>2</sup> Jeder Zunftbruder ist in den Vorstand wählbar, doch dürfen Verwandte und Verschwägerte in auf- und absteigender Linie und Brüder nicht gleichzeitig Mitglieder des Vorstandes sein.
+<sup>2</sup> Jedes Zunftmitglied ist in den Vorstand wählbar, doch dürfen Verwandte und Verschwägerte in auf- und absteigender Linie und Geschwister nicht gleichzeitig Mitglieder des Vorstandes sein.
 
 <sup>3</sup> Die Mehrheit der Vorgesetzten soll Wohnsitz im Kanton Basel-Stadt haben.
 
@@ -107,21 +106,21 @@ Zunft zum Schlüssel, Zunft zu Hausgenossen, Zunft zu Weinleuten, Zunft zu Safra
 
 **Einberufung der Zunftversammlung**
 
-<sup>1</sup> Zur Behandlung der vorliegenden Geschäfte beruft der Meister oder der Vorstand Versammlungen der Zunftbrüder ein.
+<sup>1</sup> Zur Behandlung der vorliegenden Geschäfte beruft die Meisterin bzw. der Meister oder der Vorstand Versammlungen der Zunftmitglieder ein.
 
-<sup>2</sup> Eine Zunftversammlung ist binnen drei Monaten auch durchzuführen, wenn ein Zehntel der Zunftbrüder, mindestens jedoch zwanzig, dies unter Angabe der Verhandlungsgegenstände unterschriftlich verlangt.
+<sup>2</sup> Eine Zunftversammlung ist binnen drei Monaten auch durchzuführen, wenn ein Zehntel der Zunftmitglieder, mindestens jedoch zwanzig, dies unter Angabe der Verhandlungsgegenstände unterschriftlich verlangt.
 
-<sup>3</sup> Zunftversammlungen sind unter Mitteilung der Verhandlungsgegenstände durch persönliche und schriftliche Einladung an die Zunftbrüder einzuberufen.
+<sup>3</sup> Zunftversammlungen sind unter Mitteilung der Verhandlungsgegenstände durch persönliche und schriftliche Einladung an die Zunftmitglieder einzuberufen.
 
-<sup>4</sup> Sendungen an die letzte dem Meister oder Schreiber der Zunft bekanntgegebene Adresse gelten als richtig zugestellt.
+<sup>4</sup> Sendungen an die letzte der Meisterin bzw. dem Meister oder der Schreiberin bzw. dem Schreiber der Zunft bekanntgegebene Adresse gelten als richtig zugestellt.
 
 #### § 9
 
 **Leitung der Versammlung**
 
-<sup>1</sup> Die Zunftversammlung wird vom Meister oder im Falle seiner Verhinderung vom Statthalter geleitet.
+<sup>1</sup> Die Zunftversammlung wird von der Meisterin bzw. vom Meister oder im Falle ihrer oder seiner Verhinderung von der Statthalterin bzw. vom Statthalter geleitet.
 
-<sup>2</sup> Die Versammlung kann indessen in offener Abstimmung und mit einfachem Mehr für die ganze Versammlung oder für einzelne Geschäfte einen Tagespräsidenten wählen.
+<sup>2</sup> Die Versammlung kann indessen in offener Abstimmung und mit einfachem Mehr für die ganze Versammlung oder für einzelne Geschäfte eine Tagespräsidentin oder einen Tagespräsidenten wählen.
 
 #### § 10
 
@@ -129,7 +128,7 @@ Zunft zum Schlüssel, Zunft zu Hausgenossen, Zunft zu Weinleuten, Zunft zu Safra
 
 <sup>1</sup> Abstimmungen erfolgen offen, wenn nicht die Zunftversammlung mit einfachem Mehr schriftliche Abstimmung beschliesst; in diesem Fall gelten für die Auszählung der Stimmen die Vorschriften von § 11 betreffend Wahlen.
 
-<sup>2</sup> Der Vorsitzende, der als Zunftbruder ebenfalls stimmberechtigt ist, gibt im Falle der Stimmengleichheit den Stichentscheid.
+<sup>2</sup> Die Vorsitzende oder der Vorsitzende, die als Zunftmitglied ebenfalls stimmberechtigt sind, geben im Falle der Stimmengleichheit den Stichentscheid.
 
 #### § 11
 
@@ -137,9 +136,9 @@ Zunft zum Schlüssel, Zunft zu Hausgenossen, Zunft zu Weinleuten, Zunft zu Safra
 
 <sup>1</sup> Die Wahlen werden geheim durchgeführt; vorbehalten bleibt § 12.
 
-<sup>2</sup> Der Vorsitzende schlägt der Versammlung die Stimmenzähler und einen Schreiber vor; werden aus der Mitte der Versammlung dafür andere Zunftbrüder vorgeschlagen, so bestimmt die Versammlung in offener Abstimmung.
+<sup>2</sup> Die Vorsitzende oder der Vorsitzende schlägt der Versammlung die Stimmenzählenden und eine Schreiberin oder einen Schreiber vor; werden aus der Mitte der Versammlung dafür andere Zunftmitglieder vorgeschlagen, so bestimmt die Versammlung in offener Abstimmung.
 
-<sup>3</sup> Die Stimmenzähler teilen die Wahlzettel aus, ziehen sie nach Ausfüllung durch die Zunftbrüder wieder ein und zählen sie.
+<sup>3</sup> Die Stimmenzählenden teilen die Wahlzettel aus, ziehen sie nach Ausfüllung durch die Zunftmitglieder wieder ein und zählen sie.
 
 <sup>4</sup> Gewählt ist, wer das absolute Mehr erreicht, wobei ungültige Stimmen und leere Stimmzettel bei der Berechnung des absoluten Mehr von der Gesamtzahl der eingegangenen Stimmzettel abgezogen werden.
 
@@ -147,17 +146,17 @@ Zunft zum Schlüssel, Zunft zu Hausgenossen, Zunft zu Weinleuten, Zunft zu Safra
 
 <sup>6</sup> Wird auch im zweiten Wahlgang das absolute Mehr nicht erreicht, so findet ein dritter Wahlgang statt, bei dem wählbar ist, wer auch im zweiten Walgang wählbar war, und bei dem das relative Mehr, bei Stimmengleichheit das Los, entscheidet.
 
-<sup>7</sup> Mehrere gleichartige Wahlen, insbesondere die Wahl mehrerer Vorgesetzter, müssen zusammen vorgenommen werden. Das absolute Mehr wird dann ermittelt aus der Zahl der Stimmzettel, die wenigstens den Namen eines Wählbaren enthalten. Enthält ein Wahlzettel mehr Namen als Personen zu wählen sind, so werden die am Schluss überschiessenden nicht gezählt. Der gleiche Name wird nur einmal gezählt. Sollten mehr Personen, als zu wählen sind, das absolute Mehr erreichen, entscheidet unter den Verbleibenden das relative Mehr oder bei Stimmengleichheit das Los.
+<sup>7</sup> Mehrere gleichartige Wahlen, insbesondere die Wahl mehrerer Vorgesetzter, müssen zusammen vorgenommen werden. Das absolute Mehr wird dann ermittelt aus der Zahl der Stimmzettel, die wenigstens den Namen eines wählbaren Mitglieds enthalten. Enthält ein Wahlzettel mehr Namen als Personen zu wählen sind, so werden die am Schluss überschiessenden nicht gezählt. Der gleiche Name wird nur einmal gezählt. Sollten mehr Personen, als zu wählen sind, das absolute Mehr erreichen, entscheidet unter den Verbleibenden das relative Mehr oder bei Stimmengleichheit das Los.
 
-<sup>8</sup> Die ganze Wahlhandlung wird im Zunftprotokoll festgehalten, vom Vorsitzenden und von den Stimmenzählern unterschrieben, und das Ergebnis ist innert zehn Tagen dem Bürgerrat unter Angabe der jeweiligen Amtsdauer der Gewählten zu melden.
+<sup>8</sup> Die ganze Wahlhandlung wird im Zunftprotokoll festgehalten, von der Vorsitzenden oder vom Vorsitzenden und von den Stimmenzählenden unterschrieben, und das Ergebnis ist innert zehn Tagen dem Bürgerrat unter Angabe der jeweiligen Amtsdauer der Gewählten zu melden.
 
 #### § 12
 
 **Offene Wahl**
 
-<sup>1</sup> Wenn nicht mehr Kandidaten vorgeschlagen sind, als gewählt werden können, kann die Zunftversammlung mit zwei Dritteln der Stimmen offene Wahl beschliessen.
+<sup>1</sup> Wenn nicht mehr Personen vorgeschlagen sind, als gewählt werden können, kann die Zunftversammlung mit zwei Dritteln der Stimmen offene Wahl beschliessen.
 
-<sup>2</sup> Bei offener Wahl ist über jeden Kandidaten einzeln abzustimmen; im Übrigen gelten sinngemäss die Vorschriften von § 11.
+<sup>2</sup> Bei offener Wahl ist über jede Person einzeln abzustimmen; im Übrigen gelten sinngemäss die Vorschriften von § 11.
 
 ## V. Vorstand
 
@@ -165,27 +164,27 @@ Zunft zum Schlüssel, Zunft zu Hausgenossen, Zunft zu Weinleuten, Zunft zu Safra
 
 **Wahl und Grösse**
 
-<sup>1</sup> Die Zunftbrüder jeder Zunft wählen aus ihrer Mitte einen Vorstand, bestehend aus sieben bis zehn Vorgesetzten, und daraus den Meister.
+<sup>1</sup> Die Zunftmitglieder jeder Zunft wählen aus ihrer Mitte einen Vorstand, bestehend aus sieben bis zehn Vorgesetzten, und daraus die Meisterin oder den Meister.
 
 #### § 14
 
 **Amtsdauer**
 
-<sup>1</sup> Die Amtsdauer des Meisters und der übrigen Vorstandsmitglieder beträgt sechs Jahre.
+<sup>1</sup> Die Amtsdauer der Meisterin oder des Meisters und der übrigen Vorstandsmitglieder beträgt sechs Jahre.
 
 <sup>2</sup> Alle drei Jahre, jeweils im März, steht die Hälfte des Vorstandes zu Wahl.
 
-<sup>3</sup> Ersatzwahlen finden anlässlich der sonstigen Zunftversammlungen statt, jedenfalls aber, wenn der Meister ausgefallen ist oder wenn der Vorstand nicht mehr drei Viertel der vollen Mitgliederzahl umfasst; bei Ersatzwahlen tritt der Gewählte in die Amtsdauer seines Vorgängers ein. Dabei gilt für den Gewählten mit der geringsten Stimmenzahl die kürzeste Amtsdauer; bei Stimmgleichheit entscheidet das Los.
+<sup>3</sup> Ersatzwahlen finden anlässlich der sonstigen Zunftversammlungen statt, jedenfalls aber, wenn die Meisterin oder der Meister ausgefallen ist oder wenn der Vorstand nicht mehr drei Viertel der vollen Mitgliederzahl umfasst; bei Ersatzwahlen tritt das gewählte Mitglied in die Amtsdauer der Vorgängerin oder des Vorgängers ein. Dabei gilt für das gewählte Mitglied mit der geringsten Stimmenzahl die kürzeste Amtsdauer; bei Stimmgleichheit entscheidet das Los.
 
 #### § 15
 
 **Aufgaben der einzelnen Vorstandsmitglieder**
 
-<sup>1</sup> Der Meister führt den Vorsitz in der Zunftversammlung und im Vorstand und leitet die Geschäfte von Zunft und Vorstand.
+<sup>1</sup> Die Meisterin oder der Meister führt den Vorsitz in der Zunftversammlung und im Vorstand und leitet die Geschäfte von Zunft und Vorstand.
 
-<sup>2</sup> Der Vorstand wählt aus seiner Mitte einen Statthalter, der bei Verhinderung des Meisters oder bei dessen Ausscheiden bis zur Ersatzwahl dessen Aufgaben erfüllt.
+<sup>2</sup> Der Vorstand wählt aus seiner Mitte eine Statthalterin oder einen Statthalter, die oder der bei Verhinderung der Meisterin oder des Meisters oder bei ihrem bzw. seinem Ausscheiden bis zur Ersatzwahl ihre bzw. seine Aufgaben erfüllt.
 
-<sup>3</sup> Weiter wählt der Vorstand aus seiner Mitte einen Seckelmeister, einen Schreiber und nach Bedarf weitere Amtsträger und umschreibt deren Pflichten.
+<sup>3</sup> Weiter wählt der Vorstand aus seiner Mitte eine Seckelmeisterin oder einen Seckelmeister, eine Schreiberin oder einen Schreiber und nach Bedarf weitere Amtsträgerinnen oder Amtsträger und umschreibt ihre Pflichten.
 
 #### § 16
 
@@ -199,19 +198,19 @@ Zunft zum Schlüssel, Zunft zu Hausgenossen, Zunft zu Weinleuten, Zunft zu Safra
 
 **Vorstandssitzungen**
 
-<sup>1</sup> Der Meister beruft Vorstandssitzungen ein, wenn es die Geschäfte erfordern.
+<sup>1</sup> Die Meisterin oder der Meister beruft Vorstandssitzungen ein, wenn es die Geschäfte erfordern.
 
 <sup>2</sup> Zu einer Vorstandssitzung ist auch zu laden, wenn drei Vorgesetzte dies unter Angabe der Verhandlungsgegenstände unterschriftlich verlangen.
 
 <sup>3</sup> Der Vorstand ist beschlussfähig, wenn die Mehrheit der Vorgesetzten anwesend ist.
 
-<sup>4</sup> Die Abstimmungen erfolgen offen und mit einfachem Mehr; der Vorsitzende, der ebenfalls stimmberechtigt ist, gibt bei Stimmengleichheit den Stichentscheid.
+<sup>4</sup> Die Abstimmungen erfolgen offen und mit einfachem Mehr; die Vorsitzende oder der Vorsitzende, die ebenfalls stimmberechtigt sind, gibt bei Stimmengleichheit den Stichentscheid.
 
 #### § 18
 
-**Rücktritt eines Vorgesetzten**
+**Rücktritt von Vorgesetzten**
 
-<sup>1</sup> Will der Meister oder ein anderer Vorgesetzter vor Ablauf seiner Amtsdauer zurücktreten, so hat er dies dem Vorstand nach Möglichkeit wenigstens drei Monate zum Voraus anzuzeigen.
+<sup>1</sup> Will die Meisterin oder der Meister oder ein anderes Vorgesetztenmitglied vor Ablauf der Amtsdauer zurücktreten, so hat sie oder er dies dem Vorstand nach Möglichkeit wenigstens drei Monate zum Voraus anzuzeigen.
 
 ## VI. Aufsicht durch den Bürgerrat
 
@@ -241,7 +240,7 @@ Zunft zum Schlüssel, Zunft zu Hausgenossen, Zunft zu Weinleuten, Zunft zu Safra
 
 **Rekurs an den Bürgerrat**
 
-<sup>1</sup> Gegen Beschlüsse der Zunftversammlung oder des Vorstandes kann jeder Zunftbruder wegen Rechtswidrigkeit oder offensichtlicher Unangemessenheit Rekurs an den Bürgerrat erheben.
+<sup>1</sup> Gegen Beschlüsse der Zunftversammlung oder des Vorstandes kann jedes Zunftmitglied wegen Rechtswidrigkeit oder offensichtlicher Unangemessenheit Rekurs an den Bürgerrat erheben.
 
 <sup>2</sup> Das Verfahren richtet sich nach den Vorschriften des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz)[^21-1].
 
