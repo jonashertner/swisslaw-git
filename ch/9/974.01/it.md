@@ -3,18 +3,18 @@ sr: "974.01"
 title: "Ordinanza del 12 dicembre 1977 su la cooperazione allo sviluppo e l'aiuto umanitario internazionali"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/25_25_25"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1977-12-12
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza su la cooperazione allo sviluppo e l’aiuto umanitario internazionali
 
-del 12 dicembre 1977 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 12 dicembre 1977 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -51,17 +51,18 @@ Gli uffici federali seguenti sono incaricati dell’esecuzione della legge:
 
 Rientrano nella competenza degli uffici federali:
 
-- a. La preparazione degli affari del Consiglio federale e del Parlamento;
-- b. La gestione dei crediti-quadro;
-- c. La preparazione e la discussione di singoli provvedimenti, svolti autonomamente o con i compartecipanti e gli intermediari;
-- d. La cura dei rapporti con compartecipanti o intermediari;
-- e. L’esecuzione e la valutazione di singoli provvedimenti.
+- a. la preparazione degli affari del Consiglio federale e del Parlamento;
+- b.[^2-1] la gestione dei crediti d’impegno;
+- c. la preparazione e la discussione di singoli provvedimenti, svolti autonomamente o con i compartecipanti e gli intermediari;
+- d. la cura dei rapporti con compartecipanti o intermediari;
+- e. l’esecuzione e la valutazione di singoli provvedimenti.
 
-<sup>2</sup> Nel caso in cui un ufficio abbia il diritto di concorrere con il proprio parere, l’ufficio federale competente non è vincolato al parere espresso.[^2-1]
+<sup>2</sup> Nel caso in cui un ufficio abbia il diritto di concorrere con il proprio parere, l’ufficio federale competente non è vincolato al parere espresso.[^2-2]
 
 <sup>3</sup> L’ufficio federale competente, se opera d’intesa con un altro, può prendere decisioni soltanto con l’assenso di questo.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 29 apr. 1987, in vigore dal 1° lug. 1988 ([RU 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+[^2-1]: Nuovo testo giusta l’all. n. 8 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 29 apr. 1987, in vigore dal 1° lug. 1988 ([RU 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
 
 #### Art. 3
 
@@ -71,10 +72,10 @@ Rientrano nella competenza degli uffici federali:
 
 Sono provvedimenti bilaterali segnatamente:
 
-- a. I progetti della Confederazione, eseguiti direttamente o in regìa;
-- b. I progetti eseguiti in favore di Paesi compartecipanti dalla Confederazione, in collaborazione con altri Stati;
-- c. I contributi e altre prestazioni a intermediari, come istituzioni private o pubbliche, Cantoni e Comuni;
-- d. I contributi e le altre prestazioni a organizzazioni internazionali per progetti eseguiti in Paesi o regioni determinate.
+- a. i progetti della Confederazione, eseguiti direttamente o in regìa;
+- b. i progetti eseguiti in favore di Paesi compartecipanti dalla Confederazione, in collaborazione con altri Stati;
+- c. i contributi e altre prestazioni a intermediari, come istituzioni private o pubbliche, Cantoni e Comuni;
+- d. i contributi e le altre prestazioni a organizzazioni internazionali per progetti eseguiti in Paesi o regioni determinate.
 
 <sup>2</sup> Sono provvedimenti multilaterali i contributi e le altre prestazioni a organizzazioni internazionali, in particolare per l’attuazione dei loro programmi generali.
 
@@ -128,9 +129,11 @@ La DSC[^4-1] e la SECO, come anche l’Amministrazione federale delle finanze, e
 
 <sup>2</sup> La DSC e la SECO determinano in comune, per tutti i provvedimenti d’aiuto finanziario multilaterale, le istituzioni beneficiarie, gli importi loro assegnati e le condizioni alle quali è attuato il provvedimento. Essi stabiliscono in comune la posizione del nostro Paese negli organi direttivi delle istituzioni internazionali e regionali di finanziamento dello sviluppo.
 
-<sup>3</sup> La DSC coordina il complesso dell’aiuto finanziario multilaterale, in particolare la preparazione degli affari del Consiglio federale e del Parlamento. Amministra i crediti quadro.
+<sup>3</sup> La DSC coordina il complesso dell’aiuto finanziario multilaterale, in particolare la preparazione degli affari del Consiglio federale e del Parlamento. Amministra i crediti d’impegno.[^8-1]
 
 <sup>4</sup> Il Consiglio federale stabilisce quale dei due uffici federali assicura la coordinazione per ciascuna delle istituzioni internazionali o regionali di finanziamento dello sviluppo e agisce, rispetto ad essa, come ufficio federale competente.
+
+[^8-1]: Nuovo testo giusta l’all. n. 8 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 9
 
@@ -355,7 +358,7 @@ La Commissione consultiva:
 
 [^30-1]: Abrogato dal n. II 111 dell’O dell’8 nov. 2006 (revisione totale dell’organizzazione giudiziaria federale), con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-## Sezione 8*a*:**** Società per il sostegno alla Confederazione nella cooperazione economica nei Paesi in sviluppo e in transizione
+## Sezione 8*a*: Società per il sostegno alla Confederazione nella cooperazione economica nei Paesi in sviluppo e in transizione
 
 [^sec8a-1]
 
@@ -409,7 +412,7 @@ La società si finanzia con le proprie attività.
 
 La presente ordinanza entra in vigore il 1° gennaio 1978.
 
-## Disposizioni transitorie della modifica del 5 marzo 2010****
+## Disposizioni transitorie della modifica del 5 marzo 2010
 
 [^u1-1]
 
@@ -424,7 +427,7 @@ La presente ordinanza entra in vigore il 1° gennaio 1978.
 - c. sottopone al Consiglio federale gli altri affari inerenti alla politica della Confederazione in veste di proprietario (nomina e mandati dei rappresentanti della Confederazione nel consiglio di amministrazione e dell’ufficio di revisione esterno);
 - d. prende eventuali altri provvedimenti necessari all’attuazione delle lettere a e b.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 15)
 
@@ -439,7 +442,7 @@ Allegato 1*[^t-1]*
 <tr><td>fino a 10 milioni di franchi</td><td>DSC</td><td>DSC</td><td>SECO</td><td>DSC, con l’accordo della SECO</td><td>SECO, con l’accordo della DSC</td><td>SECO</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 16)
 
@@ -447,10 +450,9 @@ Allegato 2*[^t-2]*
 
 [^t-2]: Nuovo testo giusta il n. II dell’O del 15 feb. 2012, in vigore dal 1° apr. 2012 ([RU 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155)).
 
-Importo degli impegni Competenza finanziaria per provvedimenti d’aiuto umanitario (compresi i provvedimenti d’aiuto in caso di catastrofe all’estero)
-
-oltre 20 milioni di franchi Consiglio federale
-
-oltre 10 milioni fino a 20 milioni di franchi Dipartimento federale degli affari esteri, con l’accordo del Dipartimento federale delle finanze
-
-fino a 10 milioni di franchi DSC
+<table>
+<tr><td>Importo degli impegni</td><td>Competenza finanziaria per provvedimenti d’aiuto umanitario (compresi i provvedimenti d’aiuto in caso di catastrofe all’estero)</td></tr>
+<tr><td>oltre 20 milioni di franchi</td><td>Consiglio federale</td></tr>
+<tr><td>oltre 10 milioni fino a 20 milioni di franchi</td><td>Dipartimento federale degli affari esteri, con l’accordo del Dipartimento federale delle finanze</td></tr>
+<tr><td>fino a 10 milioni di franchi</td><td>DSC</td></tr>
+</table>

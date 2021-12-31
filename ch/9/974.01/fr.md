@@ -3,18 +3,18 @@ sr: "974.01"
 title: "Ordonnance du 12 décembre 1977 concernant la coopération au développement et l'aide humanitaire internationales"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/25_25_25"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1977-12-12
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la coopération au développement et l’aide humanitaire internationales
 
-du 12 décembre 1977 (Etat le 1<sup>er</sup> janvier 2020)
+du 12 décembre 1977 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -53,16 +53,17 @@ Les offices fédéraux suivants sont chargés de l’exécution de la loi:[^1-1]
 La compétence des offices fédéraux s’étend notamment à:
 
 - a. la préparation des affaires du Conseil fédéral et du Parlement;
-- b. la gestion des crédits de programme;
+- b.[^2-1] la gestion des crédits d’engagement;
 - c. la préparation et la négociation de mesures particulières, réalisées de manière autonome ou avec des partenaires et des intermédiaires;
 - d. les relations avec des partenaires ou intermédiaires;
 - e. l’exécution et l’évaluation des mesures particulières.
 
-<sup>2</sup> Lorsqu’un Office a le droit de se prononcer, l’office fédéral compétent n’est pas lié par l’opinion de cet autre office.[^2-1]
+<sup>2</sup> Lorsqu’un Office a le droit de se prononcer, l’office fédéral compétent n’est pas lié par l’opinion de cet autre office.[^2-2]
 
 <sup>3</sup> Lorsque l’office fédéral compétent agit d’entente avec un autre, il ne peut prendre de décision sans l’accord de celui-ci.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+[^2-1]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
 
 #### Art. 3
 
@@ -129,9 +130,11 @@ La DDC[^4-1] et le SECO, ainsi que l’Administration fédérale des finances é
 
 <sup>2</sup> La DDC et le SECO déterminent en commun, pour toutes les mesures d’aide financière multilatérale, les institutions bénéficiaires, les montants qui leur sont attribués et les conditions d’exécution de ces mesures. Ils fixent en commun la position de la Suisse au sein des organes directeurs des institutions internationales et régionales de financement du développement.
 
-<sup>3</sup> La DDC coordonne l’ensemble de l’aide financière multilatérale, notamment la préparation des affaires du Conseil fédéral et du Parlement. Elle gère les crédits de programme.
+<sup>3</sup> La DDC coordonne l’ensemble de l’aide financière multilatérale, notamment la préparation des affaires du Conseil fédéral et du Parlement. Elle gère les crédits d’engagement.[^8-1]
 
 <sup>4</sup> Le Conseil fédéral détermine lequel des deux offices fédéraux assure la coordination pour chacune des institutions internationales ou régionales de financement du développement et joue envers elle le rôle d’office compétent.
+
+[^8-1]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 9
 
@@ -348,7 +351,7 @@ La Commission consultative:
 
 <sup>2</sup> Le SECO peut confier des mandats de recherche dans le cadre de sa compétence.
 
-## Section 8 ...
+## Section 8 …
 
 #### Art. 30
 
@@ -356,7 +359,7 @@ La Commission consultative:
 
 [^30-1]: Abrogé par le ch. II 111 de l’O du 8 nov. 2006 portant adaptation d’ordonnances du Conseil fédéral à la révision totale de la procédure fédérale, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-## Section 8*a***** Société appuyant la Confédération dans la coopération économique avec les pays en développement et les pays en transition
+## Section 8*a* Société appuyant la Confédération dans la coopération économique avec les pays en développement et les pays en transition
 
 [^sec8a-1]
 
@@ -410,11 +413,13 @@ La présente ordonnance abroge en particulier l’ordonnance du 13 septembre 197
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1978.
 
-### Dispositions transitoires de la modification du 5 mars 2010****
+## Dispositions transitoires de la modification du 5 mars 2010
 
-[^sec9-lvlu3-1]
+[^u1-1]
 
-[^sec9-lvlu3-1]: [RO 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145)
+[^u1-1]: [RO 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145)
+
+<sup>2</sup> L’opération visée à la let. b requiert la consultation de l’Administration fédérale des finances.
 
 <sup>1</sup> Le DEFR:
 
@@ -423,15 +428,13 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1978.
 - c. soumet au Conseil fédéral les autres affaires relevant de la politique de propriétaire (choix et mandats des représentants de la Confédération au sein du conseil d’administration, et de l’organe de révision externe);
 - d. prend toutes les autres dispositions nécessaires à la mise en œuvre des let. a et b.
 
-<sup>2</sup> L’opération visée à la let. b requiert la consultation de l’Administration fédérale des finances.
+Annexe 1[^t-1]
 
-Annexe 1*[^t-1]*
-
-## (art. 15)
-
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 15 fév. 2012, en vigueur depuis le 1<sup>er</sup> avril 2012 ([RO 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155))
+(art. 15)
 
 ## Compétence financière dans le domaine de la coopération au développement
+
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 15 fév. 2012, en vigueur depuis le 1<sup>er</sup> avril 2012 ([RO 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155))
 
 <table>
 <tr><td>Montant des engagements</td><td>Compétence financière pour des mesures de coopération technique (Art. 6)</td><td>Compétence financière pour des mesures d’aide financière bilatérale pour lesquelles la DDC est compétente (Art. 7, al. 1)</td><td>Compétence financière pour des mesures d’aide financière bilatérale pour lesquelles le SECO est compétent (Art. 7, al. 2)</td><td>Compétence financière pour des mesures d’aide financière multilatérale, pour lesquelles la DDC assure la coordination (Art. 8, al. 4)</td><td>Compétence financière pour des mesures d’aide financière multilatérale, pour lesquelles le SECO assure la coordination (Art. 8, al. 4)</td><td>Compétence financière pour des mesures de politique commerciale et des mesures en vue d’encourager l’engagement de ressources du secteur privé (Art. 9 et 10)</td></tr>
@@ -440,7 +443,7 @@ Annexe 1*[^t-1]*
 <tr><td>jusqu’à 10 millions de francs</td><td>DDC</td><td>DDC</td><td>SECO</td><td>DDC, avec l’accord du SECO</td><td>SECO, avec l’accord de la DDC</td><td>SECO</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 16)
 

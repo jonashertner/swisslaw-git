@@ -3,18 +3,18 @@ sr: "974.01"
 title: Verordnung vom 12. Dezember 1977 über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/25_25_25"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1977-12-12
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe
 
-vom 12. Dezember 1977 (Stand am 1. Januar 2020)
+vom 12. Dezember 1977 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -52,16 +52,17 @@ Folgende Bundesämter sind mit dem Vollzug des Gesetzes beauftragt:
 In die Zuständigkeit fallen namentlich:
 
 - a. die Vorbereitung der Bundesrats- und Parlamentsgeschäfte;
-- b. die Verwaltung der Rahmenkredite;
+- b.[^2-1] die Verwaltung der Verpflichtungskredite;
 - c. die Vorbereitung und Verhandlung einzelner Massnahmen, die autonom oder mit Partnern und Vermittlern durchgeführt werden;
 - d. die Pflege der Beziehungen zu Partnern oder Vermittlern;
 - e. die Durchführung und Bewertung der einzelnen Massnahmen.
 
-<sup>2</sup> Im Falle der Mitsprache ist das zuständige Bundesamt durch die Meinung des Mitspracheberechtigten nicht gebunden.[^2-1]
+<sup>2</sup> Im Falle der Mitsprache ist das zuständige Bundesamt durch die Meinung des Mitspracheberechtigten nicht gebunden.[^2-2]
 
 <sup>3</sup> Im Falle der Mitwirkung kann das zuständige Bundesamt Entscheidungen nur mit Zustimmung des mitwirkenden Bundesamtes treffen.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 29. April 1987, in Kraft seit 1. Juli 1988 ([AS 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+[^2-1]: Fassung gemäss Anhang Ziff. 8 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 29. April 1987, in Kraft seit 1. Juli 1988 ([AS 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
 
 #### Art. 3
 
@@ -130,9 +131,11 @@ Die DEZA[^4-1] und das SECO sowie die Eidgenössische Finanzverwaltung erarbeite
 
 <sup>2</sup> Die DEZA und das SECO bestimmen gemeinsam für alle Massnahmen der multilateralen Finanzhilfe die begünstigten Institutionen, die auf sie entfallenden Beträge und die Bedingungen, unter denen die Massnahme durchgeführt wird. Sie legen gemeinsam die schweizerische Haltung in den leitenden Gremien der internationalen und regionalen Institutionen der Entwicklungsfinanzierung fest.
 
-<sup>3</sup> Die DEZA koordiniert den Gesamtbereich der multilateralen Finanzhilfe, namentlich die Vorbereitung der Bundesrats- und Parlamentsgeschäfte. Sie verwaltet die Rahmenkredite.
+<sup>3</sup> Die DEZA koordiniert den Gesamtbereich der multilateralen Finanzhilfe, namentlich die Vorbereitung der Bundesrats- und Parlamentsgeschäfte. Sie verwaltet die Verpflichtungskredite.[^8-1]
 
 <sup>4</sup> Der Bundesrat bestimmt, welches der beiden Bundesämter für jede einzelne internationale oder regionale Institution der Entwicklungsfinanzierung die Koordination wahrnimmt und ihr gegenüber als zuständiges Bundesamt auftritt.
+
+[^8-1]: Fassung gemäss Anhang Ziff. 8 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 #### Art. 9
 
@@ -264,7 +267,7 @@ Die zuständigen Bundesstellen können für die Durchführung von Massnahmen der
 
 Für die Materialbeschaffung gilt die Einkaufsverordnung vom 8. Dezember 1975[^23-1]. Dabei sind die Verhältnisse im Partnerland und der allgemeine Entwicklungseffekt zu berücksichtigen.
 
-[^23-1]: [[AS 1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373), [1988 1206](https://fedlex.data.admin.ch/eli/oc/1988/1206_1206_1206), [1993 2525](https://fedlex.data.admin.ch/eli/oc/1993/2525_2525_2525). [AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)Art. 71 Bst. b]. Siehe heute die V vom 11. Dez. 1995 über das öffentliche Beschaffungswesen ([SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)).
+[^23-1]: [[AS 1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373); [1988 1206](https://fedlex.data.admin.ch/eli/oc/1988/1206_1206_1206); [1993 2525](https://fedlex.data.admin.ch/eli/oc/1993/2525_2525_2525). [AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)Art. 71 Bst. b]. Siehe heute die V vom 11. Dez. 1995 über das öffentliche Beschaffungswesen ([SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)).
 
 ## 6. Abschnitt: Besondere Organe
 
@@ -355,7 +358,7 @@ Dem IKEZ obliegen insbesondere:
 
 [^30-1]: Aufgehoben durch Ziff. II 111 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-## 8*a*. Abschnitt:**** Gesellschaft zur Unterstützung des Bundes bei der wirtschaftlichen Zusammenarbeit in Entwicklungs- und Transitionsländern
+## 8*a*. Abschnitt: Gesellschaft zur Unterstützung des Bundes bei der wirtschaftlichen Zusammenarbeit in Entwicklungs- und Transitionsländern
 
 [^sec8a-1]
 
@@ -407,7 +410,7 @@ Es wird insbesondere die Verordnung vom 13. September 1972[^31-1] über die tech
 
 Diese Verordnung tritt am 1. Januar 1978 in Kraft.
 
-## Übergangsbestimmungen zur Änderung vom 5. März 2010****
+## Übergangsbestimmungen zur Änderung vom 5. März 2010
 
 [^u1-1]
 
@@ -422,7 +425,7 @@ Diese Verordnung tritt am 1. Januar 1978 in Kraft.
 - c. unterbreitet dem Bundesrat die weiteren eignerpolitischen Geschäfte (Wahl und Mandate der Bundesvertreter in Verwaltungsrat und der externen Revisionsstelle);
 - d. trifft alle weiteren für die Umsetzung von Buchstabe a und b notwendigen Vorkehrungen.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 15)
 
@@ -437,7 +440,7 @@ Anhang 1*[^t-1]*
 <tr><td>bis 10 Mio. Fr.</td><td>DEZA</td><td>DEZA</td><td>SECO</td><td>DEZA mit Zustimmung des SECO</td><td>SECO mit Zustimmung der DEZA</td><td>SECO</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 16)
 
@@ -445,10 +448,9 @@ Anhang 2*[^t-2]*
 
 [^t-2]: Fassung gemäss Ziff. II der V vom 15. Febr. 2012, in Kraft seit 1. April 2012 ([AS 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155)).
 
-Verpflichtungsbetrag Finanzkompetenz für Massnahmen der humanitären Hilfe (inkl. Massnahmen der Katastrophenhilfe im Ausland)
-
-über 20 Mio. Fr. Bundesrat
-
-über 10 Mio. Fr. Eidgenössisches Departement für auswärtige Angelegenheiten mit bis 20 Mio. Fr. Zustimmung des Eidgenössischen Finanzdepartementes
-
-bis 10 Mio. Fr. DEZA
+<table>
+<tr><td>Verpflichtungsbetrag</td><td>Finanzkompetenz für Massnahmen der humanitären Hilfe (inkl. Massnahmen der Katastrophenhilfe im Ausland)</td></tr>
+<tr><td>über 20 Mio. Fr.</td><td>Bundesrat</td></tr>
+<tr><td>über 10 Mio. Fr. bis 20 Mio. Fr.</td><td>Eidgenössisches Departement für auswärtige Angelegenheiten mit Zustimmung des Eidgenössischen Finanzdepartementes</td></tr>
+<tr><td>bis 10 Mio. Fr.</td><td>DEZA</td></tr>
+</table>
