@@ -4,11 +4,11 @@ title: Legge federale del 20 dicembre 1957 sulle ferrovie (Lferr)
 short: Lferr
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1957-12-20
 in_force: 1958-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20210101/it"
 
 (Lferr)**[^t-1]**
 
-del 20 dicembre 1957 (Stato 1° gennaio 2021)
+del 20 dicembre 1957 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: Introdotta dal n. I della LF del 20 mar. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [FF 1997 I 809](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
@@ -47,7 +47,7 @@ decreta:
 
 <sup>3</sup> Il Consiglio federale decide dell’assoggettamento alla presente legge di altri impianti e veicoli a guida vincolata.
 
-[^1-1]: Nuovo testo giusta il n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^1-1]: Nuovo testo giusta il n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); FF **201****1** 823).
 [^1-2]: Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 2
@@ -311,7 +311,7 @@ L’UFT ritira l’autorizzazione di accesso alla rete e il certificato di sicur
 [^9a-2]: Nuovo testo giusta il n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° dic. 2012 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^9a-3]: Abrogati dall’all. n. II 3 della L del 25 set. 2015 sul trasporto di merci, con effetto dal 1° gen. 2017 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
 [^9a-4]: Nuovo testo giusta il n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° dic. 2012 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^9a-5]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° dic. 2012 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^9a-5]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° dic. 2012 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); FF **20****11** 823).
 [^9a-6]: Introdotto dal n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° dic. 2012 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 9b
@@ -405,7 +405,7 @@ Il Servizio di assegnazione delle tracce ha i compiti seguenti:
 
 <sup>6</sup> Il Consiglio federale può escludere parti della rete dalla competenza del Servizio di assegnazione delle tracce, in particolare tratte a scartamento ridotto e tratte a scartamento normale non interoperabili.
 
-[^9f-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^9f-1]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. n. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 n. I]. Vedi ora la LF del 21 giu. 2019 sugli appalti pubblici ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 [^9f-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 
 #### Art. 9g
@@ -878,7 +878,7 @@ Il Consiglio federale può:
 - a. delegare a terzi la tenuta del registro;
 - b.[^17a-5] designare categorie di veicoli esentate dall’obbligo di immatricolazione.
 
-[^17a-1]: Introdotto dal n. I 1 della LF del 19 dic. 2008 (modifiche del diritto dei trasporti) ([RU 2009 5973](https://fedlex.data.admin.ch/eli/oc/2009/731); [FF 2007 3997](https://fedlex.data.admin.ch/eli/fga/2007/648)). Nuovo testo giusta il n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
+[^17a-1]: Introdotto dal n. I 1 della LF del 19 dic. 2008 (modifiche del diritto dei trasporti) (RU **200****9** 5973; [FF 2007 3997](https://fedlex.data.admin.ch/eli/fga/2007/648)). Nuovo testo giusta il n. I 4 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^17a-2]: Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^17a-3]: Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^17a-4]: Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
@@ -1003,7 +1003,7 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 [^18f-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^18f-3]: Nuovo testo giusta l’all. n. 13 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^18f-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
-[^18f-5]: Nuovo testo giusta l’all. n. 13 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^18f-5]: Nuovo testo giusta l’all. n. 13 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 (RU **20****20** 4085; [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 #### Art. 18g
 
@@ -1173,7 +1173,7 @@ L’autorità cantonale sente l’UFT prima di autorizzare un impianto accessori
 
 <sup>2</sup> Nell’interno degli allineamenti fissati o previsti possono aver luogo atti preparatori. L’articolo 15 della LEspr[^18r-2] è applicabile per analogia.
 
-[^18r-1]: Originario art. 18*f*. Introdotto dal n. I della LF dell’8 ott. 1982, in vigore dal 1° gen. 1985 ([RU 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [FF 1981 I 313](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)).
+[^18r-1]: Originario art. 18*f*. Introdotto dal n. I della LF dell’8 ott. 1982, in vigore dal 1° gen. 1985 ([RU 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); FF **1****981** I 313).
 [^18r-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 
 #### Art. 18s
@@ -1434,11 +1434,12 @@ A questo scopo gli organi di controllo dell’UFT possono:
 - d. accedere a scopo di ispezione, durante il normale orario di lavoro, ai locali commerciali delle persone tenute a fornire informazioni;
 - e. esigere che i documenti o le informazioni siano redatti in una delle lingue ufficiali.
 
-<sup>3</sup> L’UFT può esigere che per un determinato periodo di tempo l’Amministrazione delle dogane gli notifichi l’importazione di componenti di interoperabilità, designati con precisione.
+<sup>3</sup> L’UFT può esigere che per un determinato periodo di tempo l’Ufficio federale della dogana e della sicurezza dei confini gli notifichi l’importazione di componenti di interoperabilità, designati con precisione.[^23i-1]
 
-<sup>4</sup> Le ulteriori competenze dell’UFT sono rette dall’articolo 10 capoversi 2–6 della legge federale del 12 giugno 2009[^23i-1] sulla sicurezza dei prodotti.
+<sup>4</sup> Le ulteriori competenze dell’UFT sono rette dall’articolo 10 capoversi 2–6 della legge federale del 12 giugno 2009[^23i-2] sulla sicurezza dei prodotti.
 
-[^23i-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^23i-1]: Nuovo testo giusta il n. I 28 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23i-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 
 #### Art. 23j
 
@@ -1679,7 +1680,7 @@ L’UFT e gli incaricati disciplinano in una convenzione scritta contenuti e por
 [^37-1]: Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^37-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 [^37-3]: [RS 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
-[^37-4]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^37-4]: RS **172.05****6.1**
 [^37-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 37a
@@ -1857,7 +1858,7 @@ Sorveglia:
 
 [^40aquinquies-1]: Introdotto dall’all. n. II 3 della L del 25 set. 2015 sul trasporto di merci ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)). Nuovo testo giusta il n. I 3 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^40aquinquies-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^40aquinquies-3]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^40aquinquies-3]: RS **173****.****32**
 [^40aquinquies-4]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
 
 #### Art. 40a<sup>sexies</sup>
@@ -1964,7 +1965,7 @@ Salvo disposizione contraria della presente legge, la responsabilità è retta d
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^chap5-1]: Nuovo testo giusta il n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); FF **20****05** 2183, **2007** 2457).
 
 #### Art. 41
 
@@ -2254,15 +2255,16 @@ Abrogato
 
 <sup>1</sup> I Cantoni versano un contributo di 500 milioni all’anno al Fondo per l’infrastruttura ferroviaria per finanziare i costi dell’infrastruttura.
 
-<sup>1bis</sup> Il contributo si basa sui prezzi del 2016. È adeguato all’evoluzione del prodotto interno lordo reale e segue l’indice di rincaro delle opere ferroviarie. Il Dipartimento federale delle finanze disciplina i dettagli d’intesa con il DATEC.[^57-2]
+<sup>1bis</sup> Il contributo si basa sui prezzi del 2016. È adeguato annualmente all’evoluzione del prodotto interno lordo reale e segue l’indice nazionale dei prezzi al consumo.[^57-2] Il Dipartimento federale delle finanze disciplina i dettagli d’intesa con il DATEC.[^57-3]
 
-<sup>2</sup> La partecipazione di ogni Cantone è determinata dalle prestazioni di traffico regionale ordinate alle imprese ferroviarie (viaggiatori–chilometri e treni–chilometri) secondo la chiave di ripartizione intercantonale[^57-3].
+<sup>2</sup> La partecipazione di ogni Cantone è determinata dalle prestazioni di traffico regionale ordinate alle imprese ferroviarie (viaggiatori–chilometri e treni–chilometri) secondo la chiave di ripartizione intercantonale[^57-4].
 
 <sup>3</sup> Il Consiglio federale disciplina i particolari per via d’ordinanza, dopo aver consultato i Cantoni.
 
 [^57-1]: Nuovo testo giusta il n. II 3 della LF del 21 giu. 2013 concernente il finanziamento e l’ampliamento dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2016 ([RU 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [FF 2012 1283](https://fedlex.data.admin.ch/eli/fga/2012/305)).
-[^57-2]: Introdotto dal n. I 6 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^57-3]: Testo rettificato dalla Commissione di redazione dell’Assemblea federale (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^57-2]: Nuovo testo per. per giusta il n. I 6 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^57-3]: Introdotto dal n. I 6 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^57-4]: Testo rettificato dalla Commissione di redazione dell’Assemblea federale (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 ### Sezione 2: Finanziamento dell’ampliamento dell’infrastruttura****
 
@@ -2342,7 +2344,7 @@ Il Consiglio federale riferisce annualmente all’Assemblea federale in merito a
 
 [^chap7-1]
 
-[^chap7-1]: Originario avanti l’art. 56. Nuovo testo giusta il n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^chap7-1]: Originario avanti l’art. 56. Nuovo testo giusta il n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), **20****07** 2457).
 
 #### Art. 59
 
@@ -2520,6 +2522,16 @@ In caso di contestazione sulla determinazione del prezzo d’acquisto decide l�
 
 [^chap11-1]: Nuovo testo giusta il n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
+#### Art. 80
+
+**Esame di capacità**
+
+Il Consiglio federale può prescrivere che:
+
+- a. le persone che svolgono un’attività rilevante per la sicurezza nel settore ferroviario debbano sostenere un esame di capacità teorico e pratico; può prevedere la consegna di una licenza se l’esame viene superato;
+- b. le persone che intendono seguire una formazione per svolgere un’attività secondo la lettera a necessitano di una tessera d’allievo rilasciata dall’UFT;
+- c. le persone che svolgono un’attività secondo la lettera a o che intendono seguire una formazione a tal fine devono soddisfare determinati requisiti personali e tecnici; il Consiglio federale può prevedere anche esami psicologici e medici volti ad accertare i requisiti personali.
+
 #### Art. 80a
 
 **Accertamento dell’idoneità**[^80a-1]
@@ -2620,7 +2632,7 @@ Il Consiglio federale:
 
 <sup>3</sup> Il Consiglio federale può dichiarare punibili le violazioni delle disposizioni d’applicazione o delle prescrizioni sull’uso.
 
-[^86-1]: Nuovo testo giusta l’all. n. 2 della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6175](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
+[^86-1]: Nuovo testo giusta l’all. n. 2 della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); FF **2****013** 6175).
 
 #### Art. 86a
 
@@ -2768,7 +2780,7 @@ Le autorità di polizia e penali notificano all’autorità competente tutte le 
 
 [^91-1]: Nuovo testo giusta il n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^91-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^91-3]: Introdotto dal n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^91-3]: Introdotto dal n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); FF **200****5** 2183, **2007** 2457).
 [^91-4]: Introdotto dal n. II 13 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
 #### Art. 92
@@ -2844,7 +2856,7 @@ Riservati i diritti e i crediti che ne derivano alla Confederazione, ai Cantoni,
 [^96-5]: [CS **7** 117; [RU 1949 563](https://fedlex.data.admin.ch/eli/oc/1949/555_561_563)art. 55 lett. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)allegato n. 17, **1998** 2835 n. II 1]
 [^96-6]: [CS **7** 923]
 [^96-7]: [CS **3** 499]
-[^96-8]: [CS **3** 422; [RU 1958 347](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)art. 96 cpv. 1 n. 8 cpv. 3, [1986 1974](https://fedlex.data.admin.ch/eli/oc/1986/1974_1974_1974)art. 53 n. 5, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 23. [RU 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565)art. 11 cpv. 1]
+[^96-8]: [CS **3** 422; [RU 1958 347](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)art. 96 cpv. 1 n. 8 cpv. 3, **19****86** 1974 art. 53 n. 5, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 23. [RU 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565)art. 11 cpv. 1]
 [^96-9]: [RS 744.21](https://fedlex.data.admin.ch/eli/cc/1951/665_663_685)
 [^96-10]: [CS **7** 30]
 [^96-11]: [CS **7** 234; [RU 1958 347](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)art. 96 al. 1 n. 11. [RU 2003 210](https://fedlex.data.admin.ch/eli/oc/2003/28)n. I 13]

@@ -4,11 +4,11 @@ title: Loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)
 short: LCdF
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1957-12-20
 in_force: 1958-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20210101/fr"
 
 (LCdF**[^t-1]**)
 
-du 20 décembre 1957 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 décembre 1957 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [FF 1997 I 853](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
@@ -407,7 +407,7 @@ Le service d’attribution des sillons remplit les tâches suivantes:
 
 <sup>6</sup> Le Conseil fédéral peut exclure des parties du réseau de la compétence du service d’attribution des sillons, notamment les tronçons à voie étroite et les tronçons non interopérables à voie normale.
 
-[^9f-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^9f-1]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)annexe 7 ch. I]. Voir actuellement la LF du 21 juin 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 [^9f-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 
 #### Art. 9g
@@ -1434,11 +1434,12 @@ Les organes de contrôle de l’OFT peuvent:
 - d. visiter pendant les heures de travail usuelles les locaux des personnes chargées de donner des renseignements;
 - e. exiger que les documents ou les renseignements soient rédigés dans une langue officielle.
 
-<sup>3</sup> L’OFT peut exiger que l’Administration fédérale des douanes lui fournisse, pour une durée déterminée, des informations sur l’importation de constituants d’interopérabilité désignés avec précision.
+<sup>3</sup> L’OFT peut exiger que l’Office fédéral de la douane et de la sécurité des frontières lui fournisse, pour une durée déterminée, des informations sur l’importation de constituants d’interopérabilité désignés avec précision.[^23i-1]
 
-<sup>4</sup> Pour le surplus, les compétences de l’OFT sont régies par l’art. 10, al. 2 à 6, de la loi fédérale du 12 juin 2009 sur la sécurité des produits[^23i-1].
+<sup>4</sup> Pour le surplus, les compétences de l’OFT sont régies par l’art. 10, al. 2 à 6, de la loi fédérale du 12 juin 2009 sur la sécurité des produits[^23i-2].
 
-[^23i-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^23i-1]: Nouvelle teneur selon le ch. I 28 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23i-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 
 #### Art. 23j
 
@@ -2251,14 +2252,15 @@ Abrogé
 
 <sup>1</sup> Les cantons versent une contribution commune de 500 millions de francs par an au fonds d’infrastructure ferroviaire au titre du financement des coûts d’infrastructure.
 
-<sup>1bis</sup> La contribution se base sur les prix de 2016. Elle est corrigée en fonction de l’évolution du produit intérieur brut réel et suit l’indice de renchérissement de la construction ferroviaire. Le Département fédéral des finances règle les modalités en accord avec le DETEC.[^57-2]
+<sup>1bis</sup> La contribution se base sur les prix de 2016. Elle est corrigée chaque année en fonction de l’évolution du produit intérieur brut réel et suit l’indice suisse des prix à la consommation.[^57-2] Le Département fédéral des finances règle les modalités en accord avec le DETEC.[^57-3]
 
 <sup>2</sup> La participation de chaque canton est déterminée au prorata des prestations de trafic régional commandées aux entreprises ferroviaires (voyageurs-kilomètres et trains-kilomètres), selon la clé de répartition intercantonale.
 
 <sup>3</sup> Le Conseil fédéral règle les modalités par voie d’ordonnance, après avoir entendu les cantons.
 
 [^57-1]: Nouvelle teneur selon le ch. II 3 de la LF du 21 juin 2013 sur le financement et l’aménagement de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [FF 2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305)).
-[^57-2]: Introduit par le ch. I 6 de la LF du 17 mars 2017 sur le programme de stabilisation 2017‑2019, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^57-2]: Nouvelle teneur de la phrase selon le ch. I 6 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^57-3]: Introduit par le ch. I 6 de la LF du 17 mars 2017 sur le programme de stabilisation 2017‑2019, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 
 ### Section 2 Financement de l’aménagement de l’infrastructure****
 

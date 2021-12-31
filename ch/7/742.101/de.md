@@ -4,11 +4,11 @@ title: Eisenbahngesetz vom 20. Dezember 1957 (EBG)
 short: EBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1957-12-20
 in_force: 1958-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20210101/de"
 
 (EBG)**[^t-1]**
 
-vom 20. Dezember 1957 (Stand am 1. Januar 2021)
+vom 20. Dezember 1957 (Stand am 1. Januar 2022)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [BBl 1997 I 909](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
@@ -300,7 +300,7 @@ Das BAV entzieht die Netzzugangsbewilligung und die Sicherheitsbescheinigung jed
 
 <sup>1</sup> Die Infrastrukturbetreiberin gewährt den Eisenbahnverkehrsunternehmen den diskriminierungsfreien Netzzugang.[^9a-2]
 
-<sup>2</sup> und <sup>3</sup> ...[^9a-3]
+<sup>2</sup> und <sup>3</sup> …[^9a-3]
 
 <sup>4</sup> Der Netzzugang auf einem örtlich und zeitlich bestimmten Fahrweg (Trasse) kann von jedem Unternehmen beantragt werden, das an der Durchführung des Eisenbahnverkehrs interessiert ist. Das Unternehmen muss spätestens einen Monat vor Betriebsaufnahme eine Netzzugangsbewilligung vorlegen oder ein Eisenbahnverkehrsunternehmen mit der Durchführung des Eisenbahnverkehrs beauftragen. Das Eisenbahnverkehrsunternehmen, das den Verkehr durchführt, muss die Sicherheitsbescheinigung spätestens bei der Aufnahme des Verkehrs vorlegen.[^9a-4]
 
@@ -375,7 +375,7 @@ Der Bundesrat legt in einem Netznutzungskonzept die Anzahl Trassen fest, die fü
 
 <sup>4</sup> Sie wird nach betriebswirtschaftlichen Grundsätzen geführt.
 
-<sup>5</sup> Sie wird im Handelsregister unter der Bezeichnung «Schweizerische Trassenvergabestelle» eingetragen. Sie hat ihren Sitz in Bern.
+<sup>5</sup> Sie wird im Handelsregister unter der Bezeichnung *«*Schweizerische Trassenvergabestelle» eingetragen. Sie hat ihren Sitz in Bern.
 
 #### Art. 9e
 
@@ -406,7 +406,7 @@ Die Trassenvergabestelle hat folgende Aufgaben:
 
 <sup>6</sup> Der Bundesrat kann Teile des Netzes, insbesondere Schmalspurstrecken sowie nicht interoperable Normalspurstrecken, von der Zuständigkeit der Trassenvergabestelle ausnehmen.
 
-[^9f-1]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^9f-1]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 Ziff. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Anhang Ziff. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 Ziff. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Anhang Ziff. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Anhang 7 Ziff. I]. Siehe heute: das BG vom 21. Juni 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 [^9f-2]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 
 #### Art. 9g
@@ -974,7 +974,7 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen bei der Genehmi
 
 <sup>2</sup> Das Gesuch ist in den amtlichen Publikationsorganen der betroffenen Kantone und Gemeinden zu publizieren und während 30 Tagen öffentlich aufzulegen.
 
-<sup>3</sup> ...[^18d-2]
+<sup>3</sup> …[^18d-2]
 
 [^18d-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 1982 ([AS 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [BBl 1981 I 325](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)). Fassung gemäss Ziff. I 9 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^18d-2]: Aufgehoben durch Anhang Ziff. 13 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
@@ -1023,7 +1023,7 @@ Das Bereinigungsverfahren in der Bundesverwaltung richtet sich nach Artikel 62*b
 
 <sup>4</sup> Die Genehmigungsbehörde kann die Geltungsdauer der Plangenehmigung aus wichtigen Gründen um höchstens drei Jahre verlängern. Die Verlängerung ist ausgeschlossen, wenn sich die massgebenden tatsächlichen oder rechtlichen Verhältnisse seit der rechtskräftigen Erteilung der Plangenehmigung wesentlich verändert haben.
 
-<sup>5</sup> ...[^18h-3]
+<sup>5</sup> …[^18h-3]
 
 [^18h-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 1982 ([AS 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [BBl 1981 I 325](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)). Fassung gemäss Ziff. I 9 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^18h-2]: Fassung gemäss Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
@@ -1055,7 +1055,7 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 <sup>1</sup> Nach Abschluss des Plangenehmigungsverfahrens wird, soweit erforderlich, das Einigungs- und Schätzungsverfahren vor der Eidgenössischen Schätzungskommission (Schätzungskommission) nach den Bestimmungen des EntG[^18k-3] durchgeführt.[^18k-4]
 
-<sup>2</sup> ...[^18k-5]
+<sup>2</sup> …[^18k-5]
 
 <sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Plangenehmigungsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
 
@@ -1181,7 +1181,7 @@ Die kantonale Behörde hört das BAV vor der Bewilligung einer Nebenanlage an:
 
 <sup>2</sup> Verfügungen über die Aufhebung von Baulinien sind unter Angabe der Beschwerdefrist in den betreffenden Gemeinden zu veröffentlichen.
 
-<sup>3</sup> Ist eine Entschädigung geleistet worden, so gelten sinngemäss die Grundsätze über die ungerechtfertigte Bereicherung. Bei Handänderungen wird der neue Eigentümer rückerstattungspflichtig. Bei Streitigkeiten entscheidet die Schätzungskommission. ...[^18s-2]
+<sup>3</sup> Ist eine Entschädigung geleistet worden, so gelten sinngemäss die Grundsätze über die ungerechtfertigte Bereicherung. Bei Handänderungen wird der neue Eigentümer rückerstattungspflichtig. Bei Streitigkeiten entscheidet die Schätzungskommission. …[^18s-2]
 
 [^18s-1]: Ursprünglich Art. 18*g*. Eingefügt durch Ziff. I des BG vom 8. Okt. 1982, in Kraft seit 1. Jan. 1985 ([AS 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [BBl 1981 I 325](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)).
 [^18s-2]: Satz aufgehoben durch Anhang Ziff. 75 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -1202,7 +1202,7 @@ Im Einvernehmen mit dem BAV können neben Baulinien im Sinne dieses Gesetzes auc
 
 #### Art. 18u
 
-**...[^18u-2]**[^18u-1]
+**…[^18u-2]**[^18u-1]
 
 <sup>1</sup> Kommen Eigentumsbeschränkungen nach den Artikeln 18*n*–18*t* einer Enteignung gleich, so sind sie voll zu entschädigen. Artikel 21 bleibt vorbehalten. Für die Bemessung der Entschädigung sind die Verhältnisse beim Inkrafttreten der Eigentumsbeschränkung massgebend.
 
@@ -1227,7 +1227,7 @@ Im Einvernehmen mit dem BAV können neben Baulinien im Sinne dieses Gesetzes auc
 
 #### Art. 18v
 
-**...[^18v-2]**[^18v-1]
+**…[^18v-2]**[^18v-1]
 
 <sup>1</sup> Besteht die Möglichkeit, die für ein Vorhaben erforderlichen dinglichen Rechte durch Landumlegung zu sichern, und erfolgt die Landumlegung nicht freiwillig, so ist sie auf Antrag der Genehmigungsbehörde innerhalb der von ihr bestimmten Frist nach kantonalem Recht anzuordnen. Wird die Frist nicht eingehalten, so wird das ordentliche Verfahren mit Enteignungen durchgeführt.
 
@@ -1431,11 +1431,12 @@ Zu diesem Zweck können seine Kontrollorgane:
 - d. während der üblichen Arbeitszeit die Geschäftsräume auskunftspflichtiger Personen betreten und besichtigen;
 - e. verlangen, dass Unterlagen oder Auskünfte in einer der Amtssprachen abgefasst werden.
 
-<sup>3</sup> Das BAV kann von der Zollverwaltung für eine festgesetzte Dauer Meldungen über die Einfuhr genau bezeichneter Interoperabilitätskomponenten verlangen.
+<sup>3</sup> Das BAV kann vom Bundesamt für Zoll und Grenzsicherheit für eine festgesetzte Dauer Meldungen über die Einfuhr genau bezeichneter Interoperabilitätskomponenten verlangen.[^23i-1]
 
-<sup>4</sup> Die übrigen Befugnisse des BAV richten sich nach Artikel 10 Absätze 2–6 des Bundesgesetzes vom 12. Juni 2009[^23i-1] über die Produktesicherheit.
+<sup>4</sup> Die übrigen Befugnisse des BAV richten sich nach Artikel 10 Absätze 2–6 des Bundesgesetzes vom 12. Juni 2009[^23i-2] über die Produktesicherheit.
 
-[^23i-1]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^23i-1]: Fassung gemäss Ziff. I 28 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23i-2]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
 
 #### Art. 23j
 
@@ -1692,7 +1693,7 @@ Das BAV und die Beauftragten vereinbaren schriftlich Inhalt und Umfang der Syste
 
 #### Art. 38
 
-**...[^38-2]**[^38-1]
+**…[^38-2]**[^38-1]
 
 <sup>1</sup> Das Unternehmen, welches einen Betriebsunterbruch verursacht oder feststellt, ist verpflichtet, alle anderen betroffenen Unternehmen unverzüglich zu orientieren und sich mit ihnen über die zu treffenden Massnahmen zu verständigen. Der regelmässige Personentransport ist durch Umleitungen oder Einsatz anderer Verkehrsmittel aufrecht zu erhalten, soweit dies nicht durch höhere Gewalt verhindert wird.
 
@@ -1733,7 +1734,7 @@ Das BAV und die Beauftragten vereinbaren schriftlich Inhalt und Umfang der Syste
 
 #### Art. 40
 
-**...[^40-2]**[^40-1]
+**…[^40-2]**[^40-1]
 
 <sup>1</sup>
 
@@ -1983,7 +1984,7 @@ Besondere Leistungen der Eisenbahnunternehmen für Bund, Kantone, Gemeinden und 
 
 <sup>1</sup> Die Eisenbahnunternehmen sind entsprechend ihrer Leistungsfähigkeit verpflichtet, die von den zuständigen militärischen Stellen angeordneten Transporte für die Armee und die Militärverwaltung auszuführen. Vorbehalten bleiben die vom Bundesrat verfügten Ausnahmen und Einschränkungen.
 
-<sup>2</sup> ...[^43-1]
+<sup>2</sup> …[^43-1]
 
 <sup>3</sup> Müssen bei Militärtransporten ausserordentliche Sicherheitsmassnahmen getroffen werden, so gehen deren Kosten zu Lasten des Bundes.
 
@@ -2248,14 +2249,15 @@ Aufgehoben
 
 <sup>1</sup> Die Kantone leisten eine Einlage von 500 Mio. Franken pro Jahr an den Bahninfrastrukturfonds zur Finanzierung der Infrastrukturkosten.
 
-<sup>1bis</sup> Die Einlage basiert auf dem Preisstand von 2016. Sie wird an die Entwicklung des realen Bruttoinlandprodukts angepasst und folgt dem Bahnbau-Teuerungsindex. Das Eidgenössische Finanzdepartement regelt im Einvernehmen mit dem UVEK die Einzelheiten.[^57-2]
+<sup>1bis</sup> Die Einlage basiert auf dem Preisstand von 2016. Sie werden jährlich an die Entwicklung des realen Bruttoinlandprodukts angepasst und folgen dem Landesindex der Konsumentenpreise.[^57-2] Das Eidgenössische Finanzdepartement regelt im Einvernehmen mit dem UVEK die Einzelheiten.[^57-3]
 
 <sup>2</sup> Der Beteiligungsschlüssel pro Kanton richtet sich nach den bestellten Personen- und Zugkilometern im Regionalverkehr gemäss dem interkantonalen Verteiler.
 
 <sup>3</sup> Der Bundesrat regelt die Einzelheiten unter Anhörung der Kantone in einer Verordnung.
 
 [^57-1]: Fassung gemäss Ziff. II 3 des BG vom 21. Juni 2013 über die Finanzierung und den Ausbau der Eisenbahninfrastruktur, in Kraft seit 1. Jan. 2016 ([AS 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [BBl 2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305)).
-[^57-2]: Eingefügt durch Ziff. I 6 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^57-2]: Fassung des zweiten Satzes gemäss Ziff. I 6 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^57-3]: Eingefügt durch Ziff. I 6 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 
 ### 2. Abschnitt: Finanzierung des Ausbaus der Infrastruktur****
 
@@ -2636,9 +2638,9 @@ Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer vo
 - a. ein Bauvorhaben ohne die nach Artikel 18 erforderliche Plangenehmigung oder in Missachtung von aus dem Plangenehmigungsverfahren resultierenden Bedingungen, Auflagen oder Vorschriften ausführt oder ausführen lässt;
 - b.[^86a-3] eine Anlage oder ein Fahrzeug ohne die nach Artikel 18*w*, 23*c* oder 23*d* erforderliche Betriebsbewilligung oder unter Missachtung von Bedingungen, Auflagen oder Vorschriften der Betriebsbewilligung in Betrieb nimmt oder in Betrieb nehmen lässt;
 - c. einer gestützt auf dieses Gesetz erteilten Konzession zuwiderhandelt;
-- [tab] d. und e.[^86a-4] ...
+- [tab] d. und e.[^86a-4] …
 - f. Videosignale unter Verletzung von Artikel 16*b* aufzeichnet, aufbewahrt, nutzt oder bekannt gibt;
-- g.[^86a-5] ...
+- g.[^86a-5] …
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Geldstrafe bis zu 180 Tagessätzen bestraft.[^86a-6]
 
@@ -2698,7 +2700,7 @@ Nach dem Strafgesetzbuch[^88-2] strafbare Handlungen werden von Amtes wegen verf
 
 <sup>1</sup> Die Verfolgung und Beurteilung von Verstössen gegen Bestimmungen dieses Kapitels ist Sache der Kantone.
 
-<sup>2</sup> ...[^88a-2]
+<sup>2</sup> …[^88a-2]
 
 [^88a-1]: Eingefügt durch Ziff. II 13 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^88a-2]: Aufgehoben durch Anhang Ziff. 2 des BG vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [BBl 2013 7185](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
@@ -2838,7 +2840,7 @@ Unter Vorbehalt der gestützt darauf begründeten Rechte und Forderungen von Bun
 - 17\. der Bundesbeschluss vom 18. Dezember 1918[^96-17] über Hilfeleistung an Not leidende Transportunternehmungen;
 - 18\. der Bundesbeschluss vom 22. Oktober 1937[^96-18] über Krisenhilfe zur Aufrechterhaltung des Betriebes privater Eisenbahnen und Schiffsunternehmungen.
 
-<sup>3</sup> ...[^96-19]
+<sup>3</sup> …[^96-19]
 
 [^96-1]: [BS **7** 3; [AS 1949 563](https://fedlex.data.admin.ch/eli/oc/1949/563_569_571)Art. 55 Bst. *b*]
 [^96-2]: [BS **8** 586]
