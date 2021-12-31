@@ -3,20 +3,20 @@ canton: ZG
 number: "844.412"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über die Familienzulagen
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-10-31
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-11-16
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/844.412"
-pdf: "https://bgs.zg.ch/api/de/versions/1660/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2275/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zum Bundesgesetz über die Familienzulagen
 
-Vom 25. November 2008 (Stand 1. Januar 2018)
+Vom 25. November 2008 (Stand 1. Januar 2022)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -43,7 +43,7 @@ beschliesst:
 
 **Beitragssatz für Erwerbstätige**
 
-<sup>1</sup> Der Beitragssatz der Familienausgleichskasse Zug für die Finanzierung der Familienzulagen für Erwerbstätige beträgt 1.7 Prozent des AHV-pflichtigen Einkommens (§ 11 Abs. 3 FamZG).
+<sup>1</sup> Der Beitragssatz der Familienausgleichskasse Zug für die Finanzierung der Familienzulagen für Erwerbstätige beträgt 1.6 Prozent des AHV-pflichtigen Einkommens (§ 11 Abs. 3 FamZG).
 
 #### § 3
 
