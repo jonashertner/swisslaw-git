@@ -3,13 +3,13 @@ canton: FR
 number: "631.32"
 title: "Ordonnance relative à la perception de l'impôt à la source"
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-09
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-30
 adopted: 2020-12-09
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.32"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6690/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7002/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6690/pdf_file"
 
 Perception de l'impôt à la source – O
 
-du 09.12.2020 (version entrée en vigueur le 01.01.2021)
+du 09.12.2020 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -135,7 +135,7 @@ Arrête:
 
 **Répartition de l'impôt**
 
-<sup>1</sup> Le Service cantonal des contributions répartit l'impôt à la source, après déduction de l'impôt fédéral direct, à raison de 52,5 % au canton, 41,1 % à la commune, 4,4 % à la paroisse, le solde de 2 % représentant la commission de perception du débiteur ou de la débitrice des prestations imposables. Si la commission de perception est réduite ou supprimée selon l'article 5, la différence reste acquise au canton.
+<sup>1</sup> Le Service cantonal des contributions répartit l'impôt à la source, après déduction de l'impôt fédéral direct, à raison de 52,1 % au canton, 41,7 % à la commune, 4,2 % à la paroisse, le solde de 2 % représentant la commission de perception du débiteur ou de la débitrice des prestations imposables. Si la commission de perception est réduite ou supprimée selon l'article 5, la différence reste acquise au canton.
 
 <sup>2</sup> Le Service cantonal des contributions établit chaque année le décompte (art. 170b LICD) des parts revenant à la Confédération, au canton, aux communes et aux paroisses.
 
@@ -201,7 +201,7 @@ Arrête:
 - a) obtient un permis d'établissement;
 - b) épouse une personne de nationalité suisse ou titulaire d'un permis d'établissement.
 
-<sup>2</sup> L'impôt à la source n'est plus dû à compter du mois suivant l'octroi du permis d'établissement ou du mariage. L'impôt retenu à la source jusqu'alors est imputé sans intérêts à l'impôt ordinaire.
+<sup>2</sup> L'impôt à la source n'est plus dû à compter du mois suivant l'octroi du permis d'établissement ou du mariage. L'impôt retenu à la source jusqu'alors est imputé sans intérêt sur les impôts ordinaires perçus par le Service cantonal des contributions à la date du terme général d'échéance.
 
 ## 3 Personnes physiques et morales sans domicile ni séjour en Suisse au regard du droit fiscal
 

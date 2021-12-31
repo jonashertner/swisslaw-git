@@ -3,13 +3,13 @@ canton: FR
 number: "631.32"
 title: Verordnung über die Quellensteuer
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-09
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-30
 adopted: 2020-12-09
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.32"
-pdf: "https://bdlf.fr.ch/api/de/versions/6690/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7002/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6690/pdf_file"
 
 Quellensteuer – V
 
-vom 09.12.2020 (Fassung in Kraft getreten am 01.01.2021)
+vom 09.12.2020 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -135,7 +135,7 @@ beschliesst:
 
 **Aufteilung der Steuer**
 
-<sup>1</sup> Die Quellensteuer wird von der Kantonalen Steuerverwaltung nach Abzug der direkten Bundessteuer folgendermassen aufgeteilt: 52,5 % für den Kanton, 41,1 % für die Gemeinde, 4,4 % für die Pfarrei oder die Kirchgemeinde. Der Saldo von 2 % bildet die Inkassoprovision der Schuldnerin oder des Schuldners der steuerbaren Leistung. Wird die Bezugsprovision nach Artikel 5 gekürzt oder gestrichen, so fällt die Differenz dem Kanton zu.
+<sup>1</sup> Die Quellensteuer wird von der Kantonalen Steuerverwaltung nach Abzug der direkten Bundessteuer folgendermassen aufgeteilt: 52,1 % für den Kanton, 41,7 % für die Gemeinde, 4,2 % für die Pfarrei oder die Kirchgemeinde. Der Saldo von 2 % bildet die Inkassoprovision der Schuldnerin oder des Schuldners der steuerbaren Leistung. Wird die Bezugsprovision nach Artikel 5 gekürzt oder gestrichen, so fällt die Differenz dem Kanton zu.
 
 <sup>2</sup> Die Kantonale Steuerverwaltung erstellt jedes Jahr die Abrechnung (Art. 170b DStG) der Anteile des Bundes, des Kantons, der Gemeinden, der Pfarreien und Kirchgemeinden.
 
@@ -201,7 +201,7 @@ beschliesst:
 - a) die Niederlassungsbewilligung erhält;
 - b) eine Person mit Schweizer Bürgerrecht oder mit Niederlassungsbewilligung heiratet.
 
-<sup>2</sup> Die Quellensteuer ist ab dem Folgemonat nach der Erteilung der Niederlassungsbewilligung oder der Heirat nicht mehr geschuldet. Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
+<sup>2</sup> Die Quellensteuer ist ab dem Folgemonat nach der Erteilung der Niederlassungsbewilligung oder der Heirat nicht mehr geschuldet. Die an der Quelle abgezogene Steuer wird zinslos an die von der Kantonalen Steuerverwaltung am allgemeinen Fälligkeitstermin erhobenen Steuern angerechnet.
 
 ## 3 Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
 
