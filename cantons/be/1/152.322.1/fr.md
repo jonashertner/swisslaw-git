@@ -4,13 +4,13 @@ number: "152.322.1"
 title: "Ordonnance sur l'organisation et le pilotage de l'administration décentralisée de la Direction de l'intérieur et de la justice *"
 short: OOPAD
 language: fr
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-24
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-24
 adopted: 2009-09-09
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.322.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2270/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2449/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2270/pdf_file"
 
 (OOPAD)
 
-du 09.09.2009 (état au 01.07.2021)
+du 09.09.2009 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -267,7 +267,7 @@ arrête:
 
 <sup>1</sup> Les directoires et le directeur exécutif ou la directrice exécutive du bureau cantonal du registre foncier participent à l’évaluation et à la budgétisation des applications spécialisées requises.
 
-<sup>2</sup> Ils peuvent faire appel pour ces questions aux conseils de l’OSR, ou lui confier certaines tâches dans une convention de prestations.
+<sup>2</sup> Ils peuvent faire appel pour ces questions aux conseils du Secrétariat général (SG DIJ) ou lui confier certaines tâches dans une convention de prestations.
 
 <sup>3</sup> Ils attribuent à chaque domaine les moyens informatiques nécessaires et disponibles. Ils procèdent au controlling et établissent les rapports requis.
 
@@ -327,9 +327,9 @@ arrête:
 
 <sup>1</sup> La Direction de l'intérieur et de la justice fixe les principes de sa stratégie en matière de personnel. Ces derniers doivent être concrétisés dans les conventions de prestations.
 
-<sup>2</sup> L’OSR est compétent pour les questions de personnel devant être réglées d’entente avec la Chancellerie d’Etat ou d’autres Directions, notamment avec la Direction des finances. Cela vaut en particulier pour les engagements effectués en dehors de l’état des postes d’un groupe de produits, pour le reclassement de postes prévus dans l’état des postes, ainsi que pour des dispositions de la convention de prestations en la matière.
+<sup>2</sup> Le SG DIJ est compétent pour les questions de gestion du personnel et doit s’entendre à cet égard avec les autres Directions, notamment avec la Direction des finances et la Chancellerie d’Etat. Cela vaut en particulier pour les engagements effectués en dehors de l’état des postes d’un groupe de produits, pour le reclassement de postes prévus dans l’état des postes, ainsi que pour des dispositions de la convention de prestations en la matière.
 
-<sup>3</sup> L’OSR assure la communication et la mise en œuvre uniforme des consignes dans le domaine du personnel.
+<sup>3</sup> Le SG DIJ assure la communication et la mise en œuvre uniforme des consignes dans le domaine du personnel.
 
 <sup>4</sup> Il est l’interlocuteur des directoires et de leur comité ainsi que du directeur exécutif ou de la directrice exécutive du bureau cantonal du registre foncier. Il les conseille dans le domaine du personnel.
 
@@ -337,7 +337,7 @@ arrête:
 
 **Finances**
 
-<sup>1</sup> L’OSR fixe les principes de base pour toutes les unités administratives décentralisées dans le domaine des finances et de la comptabilité. Il édicte des directives en la matière et est responsable du déroulement correct des affaires dans ce domaine.
+<sup>1</sup> Le SG DIJ fixe les principes de base pour toutes les unités administratives décentralisées dans le domaine des finances et de la comptabilité. Il édicte des directives en la matière et est responsable du déroulement correct des affaires dans ce domaine.
 
 <sup>2</sup> Il coordonne l’établissement du budget, du plan intégré «mission-financement», du plan des investissements, de l’extrapolation, de la clôture des comptes ainsi que du calcul des coûts, des prestations et des rentrées financières. Il édicte des directives techniques et veille à ce qu’une formation spécifique à la Direction soit disponible.
 
@@ -347,7 +347,7 @@ arrête:
 
 <sup>1</sup> La Direction de l'intérieur et de la justice fixe les principes de sa stratégie TIC. Ces derniers doivent être concrétisés dans les conventions de prestations.
 
-<sup>2</sup> L’OSR est l'office spécialisé responsable des applications spécialisées et des applications de groupe de la Direction de l'intérieur et de la justice.
+<sup>2</sup> Le SG DIJ est responsable des applications spécialisées et des applications de groupe de la Direction de l'intérieur et de la justice.
 
 <sup>3</sup> Il effectue les tâches TIC devant être centralisées et veille à leur mise en œuvre, en collaboration avec les directoires et avec le directeur exécutif ou la directrice exécutive du bureau cantonal du registre foncier. Il assure en outre la communication, le conseil et le pilotage dans ce domaine.
 
@@ -355,7 +355,7 @@ arrête:
 
 **Infrastructure et logistique**
 
-<sup>1</sup> L’OSR représente et coordonne les intérêts et les besoins des directoires et de leur comité ainsi que du directeur exécutif ou de la directrice exécutive du bureau cantonal du registre foncier auprès de la Direction des travaux publics et des transports. Dans le cadre de son activité de controlling, il veille au respect des consignes du Conseil-exécutif en matière de locaux et de postes de travail.
+<sup>1</sup> Le SG DIJ représente et coordonne les intérêts et les besoins des directoires et de leur comité ainsi que du directeur exécutif ou de la directrice exécutive du bureau cantonal du registre foncier auprès de la Direction des travaux publics et des transports. Dans le cadre de son activité de controlling, il veille au respect des consignes du Conseil-exécutif en matière de locaux et de postes de travail.
 
 #### Art. 24
 

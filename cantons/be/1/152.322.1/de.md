@@ -4,13 +4,13 @@ number: "152.322.1"
 title: Verordnung über die Organisation und Steuerung der dezentralen Verwaltung der Direktion für Inneres und Justiz
 short: OSDV
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-24
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-24
 adopted: 2009-09-09
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.322.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2270/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2270/pdf_file"
 
 (OSDV)
 
-vom 09.09.2009 (Stand 01.07.2021)
+vom 09.09.2009 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -267,7 +267,7 @@ beschliesst:
 
 <sup>1</sup> Die Geschäftsleitungen sowie die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts wirken mit bei der Evaluation und der Budgetierung der notwendigen Fachapplikationen.
 
-<sup>2</sup> Sie können sich bei diesen Geschäften durch das ADR beraten lassen oder diesem gewisse Aufgaben mit einer Leistungsvereinbarung übertragen.
+<sup>2</sup> Sie können sich bei diesen Geschäften durch das Generalsekretariat (GS DIJ) beraten lassen oder diesem gewisse Aufgaben mit einer Leistungsvereinbarung übertragen.
 
 <sup>3</sup> Sie teilen jedem Bereich die notwendigen und möglichen Informatikmittel zu, führen das Controlling und erstatten die erforderlichen Berichte.
 
@@ -327,9 +327,9 @@ beschliesst:
 
 <sup>1</sup> Die Direktion für Inneres und Justiz legt die Grundsätze ihrer Personalstrategie fest. Diese ist in den Leistungsvereinbarungen zu konkretisieren.
 
-<sup>2</sup> Das ADR ist für die Personalgeschäfte verantwortlich, die mit anderen Direktionen und der Staatskanzlei, insbesondere der Finanzdirektion, abgesprochen werden müssen. Das gilt insbesondere für Anstellungen ausserhalb des Stellenplans einer Produktgruppe, für Neueinreihungen von im Stellenplan enthaltenen Stellen sowie bei entsprechender Abmachung in der Leistungsvereinbarung.
+<sup>2</sup> Das GS DIJ ist für das Personalmanagement verantwortlich und hat sich dabei mit den anderen Direktionen, insbesondere der Finanzdirektion, und der Staatskanzlei abzustimmen. Das gilt insbesondere für Anstellungen ausserhalb des Stellenplans einer Produktgruppe, für Neueinreihungen von im Stellenplan enthaltenen Stellen sowie bei entsprechender Abmachung in der Leistungsvereinbarung.
 
-<sup>3</sup> Das ADR sorgt für die Kommunikation und die einheitliche Umsetzung der Vorgaben im Fachbereich Personal.
+<sup>3</sup> Das GS DIJ sorgt für die Kommunikation und die einheitliche Umsetzung der Vorgaben im Fachbereich Personal.
 
 <sup>4</sup> Es ist Ansprechstelle der Geschäftsleitungen und Ausschüsse sowie der Vorsteherin oder des Vorstehers des kantonalen Grundbuchamts und berät diese in Personalbelangen.
 
@@ -337,7 +337,7 @@ beschliesst:
 
 **Finanzen**
 
-<sup>1</sup> Das ADR bestimmt für alle dezentralen Organisationseinheiten die Grundsätze im Bereich Finanzen und Rechnungswesen. Es erlässt diesbezügliche Weisungen und ist verantwortlich für den korrekten Ablauf des Finanz- und Rechnungswesens.
+<sup>1</sup> Das GS DIJ bestimmt für alle dezentralen Organisationseinheiten die Grundsätze im Bereich Finanzen und Rechnungswesen. Es erlässt diesbezügliche Weisungen und ist verantwortlich für den korrekten Ablauf des Finanz- und Rechnungswesens.
 
 <sup>2</sup> Es koordiniert die Erstellung des Voranschlags, des Aufgaben- und Finanzplans, des Investitionsplans, der Hochrechnung, des Jahresabschlusses sowie die Führung der Kosten-, Leistungs- und Erlösrechnung. Es erlässt fachliche Weisungen und sorgt für die diesbezügliche direktionsspezifische Ausbildung.
 
@@ -347,7 +347,7 @@ beschliesst:
 
 <sup>1</sup> Die Direktion für Inneres und Justiz legt die Grundsätze ihrer ICT-Strategie fest. Diese ist in den Leistungsvereinbarungen zu konkretisieren.
 
-<sup>2</sup> Das ADR ist das für die Fach- und Konzernapplikationen der Direktion für Inneres und Justiz verantwortliche Fachamt.
+<sup>2</sup> Das GS DIJ ist das für die Fach- und Konzernapplikationen der Direktion für Inneres und Justiz verantwortliche Fachamt.
 
 <sup>3</sup> Es betreut die zentral anfallenden ICT-Aufgaben und sorgt zusammen mit den Geschäftsleitungen sowie der Vorsteherin oder dem Vorsteher des kantonalen Grundbuchamts für deren Umsetzung. Es sorgt zudem für die Kommunikation, Beratung und Steuerung in diesem Fachbereich.
 
@@ -355,7 +355,7 @@ beschliesst:
 
 **Infrastruktur und Logistik**
 
-<sup>1</sup> Das ADR vertritt und koordiniert die Interessen und Bedürfnisse der Geschäftsleitungen sowie der Vorsteherin oder des Vorstehers des kantonalen Grundbuchamts und der Ausschüsse bei der Bau- und Verkehrsdirektion. Im Rahmen seiner Controllingtätigkeit sorgt es für die Einhaltung der regierungsrätlichen Vorgaben in den Bereichen Raum und Arbeitsplatz.
+<sup>1</sup> Das GS DIJ vertritt und koordiniert die Interessen und Bedürfnisse der Geschäftsleitungen sowie der Vorsteherin oder des Vorstehers des kantonalen Grundbuchamts und der Ausschüsse bei der Bau- und Verkehrsdirektion. Im Rahmen seiner Controllingtätigkeit sorgt es für die Einhaltung der regierungsrätlichen Vorgaben in den Bereichen Raum und Arbeitsplatz.
 
 #### Art. 24
 
