@@ -3,26 +3,25 @@ canton: VS
 number: "800.102"
 title: Verordnung über die Ombudsstelle für das Gesundheitswesen und die sozialen Institutionen
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-05-12
+version: 2022-01-01
+version_adopted: 2021-12-01
 adopted: 2021-05-12
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/800.102"
-pdf: "https://lex.vs.ch/api/de/versions/2901/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2987/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Ombudsstelle für das Gesundheitswesen und die sozialen Institutionen
 
-vom 12.05.2021 (Stand 01.07.2021)
+vom 12.05.2021 (Stand 01.01.2022)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen den Artikel 15 des Gesundheitsgesetzes vom 12. März 2020 (GG);
 
-eingesehen das Gesetz über die Eingliederung behinderter Menschen vom 31. Januar 1991;
+eingesehen das Gesetz über die Rechte und die Inklusion von Menschen mit Behinderungen vom 31. Januar 1991 (GRIMB);
 
 auf Antrag des für die Gesundheit zuständigen Departements,
 

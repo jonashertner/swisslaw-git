@@ -3,26 +3,25 @@ canton: VS
 number: "800.102"
 title: "Ordonnance relative à l'Office de l'Ombudsman de la santé et des institutions sociales"
 language: fr
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-05-12
+version: 2022-01-01
+version_adopted: 2021-12-01
 adopted: 2021-05-12
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/800.102"
-pdf: "https://lex.vs.ch/api/fr/versions/2901/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2987/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance relative à l'Office de l'Ombudsman de la santé et des institutions sociales
 
-du 12.05.2021 (état 01.07.2021)
+du 12.05.2021 (état 01.01.2022)
 
 Le Conseil d'Etat du canton du Valais
 
 vu l'article 15 de la loi sur la santé du 12 mars 2020 (LS);
 
-vu la loi sur l'intégration des personnes handicapées du 31 janvier 1991;
+vu la loi sur les droits et l'inclusion des personnes en situation de handicap du 31 janvier 1991 (LDIPH);
 
 sur la proposition du département en charge de la santé,
 
