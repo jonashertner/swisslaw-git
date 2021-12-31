@@ -4,13 +4,13 @@ number: "811.1"
 title: Steuergesetz
 short: StG
 language: de
-version: 2021-01-01
-corrected: 2020-12-22
-version_adopted: 2020-01-28
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-06-15
 adopted: 1998-04-09
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/811.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3039/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3299/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3039/pdf_file"
 
 (StG)
 
-vom 09.04.1998 (Stand 01.01.2021)
+vom 09.04.1998 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -821,29 +821,15 @@ als Gesetz:[^ingress-4]
 
 #### Art. 59
 
-**Ergänzende Vermögenssteuer a) Gegenstand**
-
-<sup>1</sup> Wird ein zum Ertragswert bewertetes Grundstück ganz oder teilweise veräussert oder der bisherigen land- oder forstwirtschaftlichen Nutzung entfremdet, wird eine ergänzende Vermögenssteuer erhoben.
-
-<sup>2</sup> Der Anspruch auf die ergänzende Vermögenssteuer entsteht mit dem die Steuer auslösenden Ereignis.
+**…**
 
 #### Art. 60
 
-**b) Steueraufschiebende Veräusserungen**
-
-<sup>1</sup> Die ergänzende Vermögenssteuer wird bei Eigentumswechseln gemäss Art 132 Abs. 1 lit. a bis d dieses Gesetzes aufgeschoben.
-
-<sup>2</sup> Vorbehalten bleibt die Besteuerung bei Ersatzbeschaffung gemäss Art. 132 Abs. 1 lit. d dieses Gesetzes ausserhalb des Kantons.
+**…**
 
 #### Art. 61
 
-**c) Berechnung**
-
-<sup>1</sup> Das steuerbare Vermögen berechnet sich nach der Differenz zwischen dem Mittel der Ertragswerte und dem Mittel der Verkehrswerte des Grundstücks am Anfang und am Ende der massgebenden Dauer.
-
-<sup>2</sup> Wurde das Grundstück aus steueraufschiebender Veräusserung erworben, wird für die Berechnung der ergänzenden Vermögenssteuer auf die letzte Veräusserung abgestellt, die keinen Steueraufschub bewirkt hat.
-
-<sup>3</sup> Die ergänzende Vermögenssteuer wird getrennt vom übrigen Vermögen erhoben. Sie wird für die Dauer berechnet, während der das Grundstück zum Ertragswert bewertet wurde, längstens für 20 Jahre.
+**…**
 
 #### Art. 62
 
@@ -1271,6 +1257,13 @@ als Gesetz:[^ingress-4]
 
 <sup>3</sup> Der Ertrag aus einer Beteiligung wird bei der Berechnung der Ermässigung nicht berücksichtigt, soweit auf der gleichen Beteiligung eine Abschreibung vorgenommen wird, die mit der Gewinnausschüttung im Zusammenhang steht.
 
+<sup>4</sup> Bei Konzernobergesellschaften von systemrelevanten Banken nach [Art. 7](https://db.clex.ch/link/Bund/952.0/de) Abs. 1 des Bundesgesetzes über die Banken und Sparkassen vom 8. November 1934[^90-1] werden für die Berechnung des Nettoertrags der Finanzierungsaufwand und die Forderung in der Bilanz aus konzernintern weitergegebenen Mitteln folgender Anleihen nicht berücksichtigt:
+
+- a) Pflichtwandelanleihen und Anleihen mit Forderungsverzicht nach [Art. 11](https://db.clex.ch/link/Bund/952.0/de) Abs. 4 BankG;
+- b) Schuldinstrumente zur Verlusttragung bei Insolvenzmassnahmen im Sinn der [Art. 28](https://db.clex.ch/link/Bund/952.0/de) bis [32](https://db.clex.ch/link/Bund/952.0/de) BankG.
+
+[^90-1]: SR [952.0](https://db.clex.ch/link/Bund/952.0/de); abgekürzt BankG.
+
 #### Art. 91
 
 **2. Kapitalgewinne auf Beteiligungen**
@@ -1312,6 +1305,12 @@ als Gesetz:[^ingress-4]
 
 <sup>1</sup> Gewinne von juristischen Personen mit ideellen Zwecken werden nicht besteuert, wenn sie höchstens Fr. 20 000.– betragen und ausschliesslich und unwiderruflich diesen Zwecken gewidmet sind.
 
+#### Art. 95ter
+
+**e) Vereine, Stiftungen und übrige juristische Personen**
+
+<sup>1</sup> Gewinne unter Fr. 5000.– von Vereinen, Stiftungen und übrigen juristischen Personen werden nicht besteuert.
+
 ### III. Kapitalsteuer
 
 #### Art. 96
@@ -1343,7 +1342,7 @@ als Gesetz:[^ingress-4]
 
 <sup>2</sup> Die Vermögenswerte werden nach den für die Vermögenssteuer natürlicher Personen geltenden Grundsätzen bewertet.
 
-<sup>3</sup> Bei Veräusserung oder Zweckentfremdung von zum Ertragswert bewerteten land- oder forstwirtschaftlichen Grundstücken wird eine ergänzende Kapitalsteuer von 0,3 Promille einfache Steuer erhoben. Die Bestimmungen über die ergänzende Vermögenssteuer natürlicher Personen werden sachgemäss angewendet.
+<sup>3</sup> …
 
 #### Art. 99
 
@@ -1436,7 +1435,7 @@ als Gesetz:[^ingress-4]
 
 **Steuerabzug auf Erwerbseinkünften a) Grundlage**
 
-<sup>1</sup> Die Regierung bestimmt die Quellensteuertarife entsprechend den für die Einkommenssteuer natürlicher Personen geltenden Steuersätzen. Sie kann für geringfügige Nebenerwerbseinkünfte einen proportionalen Satz vorsehen.
+<sup>1</sup> Die Regierung bestimmt die Quellensteuertarife entsprechend den für die Einkommenssteuer natürlicher Personen geltenden Steuersätzen.
 
 <sup>2</sup> Der Steuerabzug umfasst die Steuern des Staates, der Gemeinden und der als öffentlich-rechtliche Körperschaft anerkannten Religionsgemeinschaften sowie die direkte Bundessteuer.
 
@@ -1804,7 +1803,7 @@ als Gesetz:[^ingress-4]
 - e) Veräusserung eines betriebsnotwendigen Grundstücks, das im Eigentum einer juristischen Person steht, die nach Art. 80 Abs. 1 Bst. e bis h dieses Gesetzes von der Steuerpflicht befreit ist, soweit der Erlös innert angemessener Frist zum Erwerb eines in der Schweiz gelegenen Ersatzobjekts verwendet wird. Bei einer Umstrukturierung wird Art. 88 dieses Gesetzes sachgemäss angewendet;
 - f) Veräusserung einer dauernd und ausschliesslich selbst genutzten Wohnliegenschaft (Einfamilienhaus oder Eigentumswohnung), soweit der Erlös innert angemessener Frist zum Erwerb oder zum Bau einer gleich genutzten Ersatzliegenschaft in der Schweiz verwendet wird.
 
-<sup>2</sup> Bei einer Ersatzbeschaffung nach Abs. 1 Bst. c bis f dieser Bestimmung in einem anderen Kanton wird der aufgeschobene Gewinn nach Art. 199 bis 203 dieses Gesetzes nachbesteuert, wenn das Ersatzobjekt steuerbegründend veräussert wird und dieser Kanton im analogen Fall die Nachbesteuerung beansprucht.
+<sup>2</sup> …
 
 [^132-1]: Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907, SR [210](https://db.clex.ch/link/Bund/210/de).
 
@@ -1881,7 +1880,7 @@ als Gesetz:[^ingress-4]
 
 <sup>2</sup> Bei Veräusserung eines Grundstückes, bei dessen Erwerb oder Verbesserung die Besteuerung im Sinne von Art. 132 Abs. 1 lit. d bis f dieses Gesetzes oder einer entsprechenden Bestimmung eines andern Kantons aufgeschoben wurde, wird der wieder angelegte, aufgeschobene Gewinn von den Anlagekosten abgezogen.
 
-<sup>3</sup> Liegt der massgebende Erwerb mehr als 50 Jahre zurück, kann der Steuerpflichtige anstelle der tatsächlichen Kosten den amtlichen Verkehrswert oder bei land- und forstwirtschaftlichen Grundstücken den amtlichen Ertragswert vor 50 Jahren als Anlagekosten geltend machen.
+<sup>3</sup> Liegt der massgebende Erwerb mehr als 20 Jahre zurück, kann der Steuerpflichtige anstelle der tatsächlichen Kosten den amtlichen Verkehrswert oder bei land- und forstwirtschaftlichen Grundstücken den amtlichen Ertragswert vor 20 Jahren als Anlagekosten geltend machen. In diesem Fall sind die in den letzten 20 Jahren getätigten Aufwendungen nach Art. 137 dieses Erlasses zusätzlich anrechenbar, soweit sie nachgewiesen werden.
 
 #### Art. 140
 
@@ -1918,9 +1917,11 @@ als Gesetz:[^ingress-4]
 <sup>2</sup> War das Grundstück während mehr als 15 Jahren im Eigentum des Veräusserers, wird der Steuerbetrag für jedes weitere volle Jahr ermässigt:
 
 - a) auf einem Gewinnanteil von höchstens Fr. 500 000.– um 1,5 Prozent, höchstens aber um 40,5 Prozent, wenn der Veräusserer das Grundstück wenigstens 15 Jahre selbst bewohnt hat;
-- b) auf Gewinnanteilen über Fr. 500 000.– gemäss lit. a dieses Absatzes sowie in den anderen Fällen um 1,5 Prozent, höchstens aber um 30 Prozent.
+- b) auf Gewinnanteilen über Fr. 500 000.– gemäss lit. a dieses Absatzes sowie in den anderen Fällen um 1 Prozent, höchstens aber um 20 Prozent.
 
 <sup>3</sup> Bei Erwerb des Grundstückes aus steueraufschiebender Veräusserung wird für die Berechnung der Eigentumsdauer und der Selbstnutzung durch den Veräusserer oder dessen Ehegatten auf die letzte steuerbegründende Veräusserung abgestellt.
+
+<sup>4</sup> Werden die Anlagekosten nach Art. 139 Abs. 3 dieses Erlasses berechnet, wird für die Ermässigung nach Abs. 2 dieser Bestimmung auf eine Eigentumsdauer von 20 Jahren abgestellt.
 
 ### Fünfter Abschnitt: Erbschafts- und Schenkungssteuern
 
@@ -2171,6 +2172,10 @@ als Gesetz:[^ingress-4]
 
 <sup>1</sup> Das kantonale Steueramt regelt die Voraussetzungen für den elektronischen Austausch von Daten zwischen dem Steuerpflichtigen und der Steuerbehörde.
 
+<sup>2</sup> Das kantonale Steueramt kann elektronische Eingaben zulassen. In diesem Fall tritt anstelle der persönlichen Unterzeichnung eine elektronische Bestätigung der Angaben durch den Steuerpflichtigen.
+
+<sup>3</sup> Die Steuerbehörde kann dem Steuerpflichtigen mit dessen Einverständnis Dokumente in elektronischer Form zustellen.
+
 #### Art. 163quater
 
 **Elektronische Erfassung und Aufbewahrung von Daten**
@@ -2219,9 +2224,9 @@ als Gesetz:[^ingress-4]
 
 **Verfahrenspflichten des Steuerpflichtigen a) Steuererklärung**
 
-<sup>1</sup> Die Steuerpflichtigen werden durch öffentliche Bekanntgabe oder Zustellung des Formulars aufgefordert, die Steuererklärung einzureichen. Steuerpflichtige, die kein Formular erhalten, müssen es bei der zuständigen Behörde verlangen.
+<sup>1</sup> Die Steuerpflichtigen werden durch öffentliche Bekanntgabe, durch persönliche Mitteilung oder durch Zustellung des Formulars aufgefordert, die Steuererklärung einzureichen. Auch Steuerpflichtige, die weder eine persönliche Mitteilung noch ein Formular erhalten haben, müssen eine Steuererklärung einreichen.
 
-<sup>2</sup> Der Steuerpflichtige muss die Steuererklärung wahrheitsgemäss und vollständig ausfüllen, persönlich unterzeichnen und zusammen mit den vorgeschriebenen Beilagen fristgemäss der zuständigen Behörde einreichen.
+<sup>2</sup> Der Steuerpflichtige muss die Steuererklärung wahrheitsgemäss und vollständig ausfüllen, persönlich unterzeichnen und zusammen mit den vorgeschriebenen Beilagen fristgemäss der zuständigen Behörde einreichen. Die vollständig elektronische Einreichung der Steuererklärung richtet sich nach [Art. 163<sup>ter</sup>](https://www.gesetzessammlung.sg.ch/data/811.1/de/art163ter) Abs. 2 dieses Erlasses.
 
 <sup>3</sup> Der Steuerpflichtige, der die Steuererklärung nicht oder mangelhaft ausgefüllt einreicht, wird aufgefordert, das Versäumte innert angemessener Frist nachzuholen.
 
