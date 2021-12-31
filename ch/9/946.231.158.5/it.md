@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: Ordinanza del 24 giugno 2020 che istituisce provvedimenti nei confronti del Nicaragua
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: it
-version: 2021-08-13
+version: 2022-01-01
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20210813/it/xml/fedlex-data-admin-ch-eli-cc-2020-470-20210813-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20210813/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-470-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Nicaragua
 
-del 24 giugno 2020 (Stato 13 agosto 2021)
+del 24 giugno 2020 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -100,9 +100,11 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 <sup>2</sup> La SEM sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 3.
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^5-1].
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
+
+[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -136,11 +138,11 @@ La pubblicazione delle voci di cui all’allegato non è prevista né nella Racc
 
 La presente ordinanza entra in vigore il 24 giugno 2020 alle ore 18.00.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 2 cpv. 1 lett. a, 3 cpv. 1, 4 lett. a e 8)
 
-## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito e imprese e organizzazioni soggette alle sanzioni finanziarie****
+## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito e imprese e organizzazioni soggette alle sanzioni finanziarie
 
 [^annexu1-lvlu1-1]
 

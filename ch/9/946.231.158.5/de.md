@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: Verordnung vom 24. Juni 2020 über Massnahmen gegenüber Nicaragua
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: de
-version: 2021-08-13
+version: 2022-01-01
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20210813/de/xml/fedlex-data-admin-ch-eli-cc-2020-470-20210813-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20210813/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-470-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Nicaragua
 
-vom 24. Juni 2020 (Stand am 13. August 2021)
+vom 24. Juni 2020 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -100,9 +100,11 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 
 <sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 3.
 
-<sup>3</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^5-1].
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen wie die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
+
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -136,7 +138,7 @@ Die Einträge nach dem Anhang werden weder in der Amtlichen Sammlung des Bundesr
 
 Diese Verordnung tritt am 24. Juni 2020 um 18 Uhr in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 2 Abs. 1 Bst. a, 3 Abs. 1, 4 Bst. a und 8)
 

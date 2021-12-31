@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: "Ordonnance du 24 juin 2020 instituant des mesures à l'encontre du Nicaragua"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: fr
-version: 2021-08-13
+version: 2022-01-01
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20210813/fr/xml/fedlex-data-admin-ch-eli-cc-2020-470-20210813-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20210813/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-470-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Nicaragua
 
-du 24 juin 2020 (Etat le 13 août 2021)
+du 24 juin 2020 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -100,9 +100,11 @@ Il est interdit d’honorer les créances qui se fondent sur un contrat ou une a
 
 <sup>2</sup> Le SEM surveille l’exécution de l’interdiction d’entrée et de transit prévue à l’art. 3.
 
-<sup>3</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^5-1].
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires au gel des ressources économiques, telles que la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
+
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -136,11 +138,11 @@ Les inscriptions figurant en annexe ne sont publiées ni au Recueil officiel du 
 
 La présente ordonnance entre en vigueur le 24 juin 2020 à 18 heures.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 2, al. 1, let. a, 3, al. 1, 4, let. a, et 8)
 
-## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
+## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
 [^annexu1-lvlu1-1]
 
