@@ -3,18 +3,18 @@ sr: "946.203"
 title: "Ordonnance du 2 octobre 2000 instituant des mesures à l'encontre de personnes et entités liées à Oussama ben Laden, au groupe «Al-Qaïda» ou aux Taliban"
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/429"
 language: fr
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2000-10-02
 in_force: 2000-10-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/429/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-2000-429-20200825-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/429/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/429/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-429-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/429/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance instituant des mesures à l’encontre de personnes et entités liées à Oussama ben Laden, au groupe «Al-Qaïda» ou aux Taliban****
+# Ordonnance instituant des mesures à l’encontre de personnes et entités liées à Oussama ben Laden, au groupe «Al-Qaïda» ou aux Taliban
 
-du 2 octobre 2000 (Etat le 25 août 2020)[^t-1]
+du 2 octobre 2000 (État le 1<sup>er</sup> janvier 2022)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2002, en vigueur depuis le 2 mai 2002 ([RO 2002 1646](https://fedlex.data.admin.ch/eli/oc/2002/256)).
 
@@ -133,9 +133,10 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>1</sup> Le SECO procède aux contrôles.
 
-<sup>2</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>2</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^5a-2].
 
 [^5a-1]: Introduit par le ch. I de l’O du 30 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3955](https://fedlex.data.admin.ch/eli/oc/2002/626)).
+[^5a-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -173,11 +174,11 @@ La présente ordonnance entre en vigueur le 3 octobre 2000.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3955](https://fedlex.data.admin.ch/eli/oc/2002/626)).
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 [^t-2]: Abrogée par le ch. III al. 1 de l’O du 1<sup>er</sup> mai 2002, avec effet au 2 mai 2002 ([RO 2002 1646](https://fedlex.data.admin.ch/eli/oc/2002/256)).
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 1, al. 1 et 3, 3, al. 1 et 2, 4*a*, al. 1, et 7)
 
@@ -187,13 +188,13 @@ Annexe 2*[^t-3]*
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques ou morales, groupes et entités désignés par le Conseil de sécurité des Nations Unies ou par son comité compétent*[^annex2-lvlu1-1]*.
+\1. La présente annexe correspond aux listes des personnes physiques ou morales, groupes et entités désignés par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex2-lvlu1-1].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annex2-lvlu1-2]*.
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex2-lvlu1-2].
 
 [^annex2-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions concernant l’EIIL (Daesh) et Al-Qaida &gt; Matériaux relatifs à la liste de sanctions; www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité des sanctions 1988 &gt; Matériaux relatifs à la liste de sanctions.
 [^annex2-lvlu1-2]: La banque de données SESAM est librement accessible sur Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 [^t-4]: Introduite par le ch. II al. 2 de l’O du 11 avr. 2001 ([RO 2001 1353](https://fedlex.data.admin.ch/eli/oc/2001/186)). Abrogée par le ch. III al. 1 de l’O du 1<sup>er</sup> mai 2002, avec effet au 2 mai 2002 ([RO 2002 1646](https://fedlex.data.admin.ch/eli/oc/2002/256)).

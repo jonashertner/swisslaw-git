@@ -3,18 +3,18 @@ sr: "946.203"
 title: "Verordnung vom 2. Oktober 2000 über Massnahmen gegenüber Personen und Organisationen mit Verbindungen zu Usama bin Laden, der Gruppierung «Al-Qaïda» oder den Taliban"
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/429"
 language: de
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2000-10-02
 in_force: 2000-10-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/429/20200825/de/xml/fedlex-data-admin-ch-eli-cc-2000-429-20200825-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/429/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/429/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2000-429-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/429/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über Massnahmen gegenüber Personen und Organisationen mit Verbindungen zu Usama bin Laden, der Gruppierung «Al-Qaïda» oder den Taliban****
+# Verordnung über Massnahmen gegenüber Personen und Organisationen mit Verbindungen zu Usama bin Laden, der Gruppierung «Al-Qaïda» oder den Taliban
 
-vom 2. Oktober 2000 (Stand am 25. August 2020)[^t-1]
+vom 2. Oktober 2000 (Stand am 1. Januar 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2002, in Kraft seit 2. Mai 2002 ([AS 2002 1646](https://fedlex.data.admin.ch/eli/oc/2002/256)).
 
@@ -133,9 +133,10 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup> Das SECO führt die Kontrollen durch.
 
-<sup>2</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>2</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^5a-2].
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3955](https://fedlex.data.admin.ch/eli/oc/2002/626)).
+[^5a-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -173,11 +174,11 @@ Diese Verordnung tritt am 3. Oktober 2000 in Kraft.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 30. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3955](https://fedlex.data.admin.ch/eli/oc/2002/626)).
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. III Abs. 1 der V vom 1. Mai 2002, mit Wirkung seit 2. Mai 2002 ([AS 2002 1646](https://fedlex.data.admin.ch/eli/oc/2002/256)).
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 1 Abs. 1 und 3, Art. 3 Abs. 1 und 2, Art. 4*a* Abs. 1 sowie Art. 7)
 
@@ -187,13 +188,13 @@ Anhang 2*[^t-3]*
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen und juristischen Personen, Gruppen und Organisationen.*[^annex2-lvlu1-1]*
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen und juristischen Personen, Gruppen und Organisationen.[^annex2-lvlu1-1]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.*[^annex2-lvlu1-2]*
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: Die Liste ist im Internet unter folgenden Adressen abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; ISIL (Da'esh) & Al-Qaida Sanctions Committee &gt; Sanctions List Materials, sowie www.un.org/en/sc &gt; Subsidiary Organs &gt; Sanctions &gt; 1988 Sanctions Committee &gt; Sanctions List Materials.
 [^annex2-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 [^t-4]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. April 2001 ([AS 2001 1353](https://fedlex.data.admin.ch/eli/oc/2001/186)). Aufgehoben durch Ziff. III Abs. 1 der V vom 1. Mai 2002, mit Wirkung seit 2. Mai 2002 ([AS 2002 1646](https://fedlex.data.admin.ch/eli/oc/2002/256)).
