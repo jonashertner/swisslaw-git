@@ -4,13 +4,13 @@ number: "921.1"
 title: Gesetz über den Wald und den Schutz vor Naturereignissen
 short: WSG
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-09-12
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-06
 adopted: 1999-03-02
 in_force: 1999-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/921.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6345/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6949/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Wald und Schutz vor Naturereignissen – G
 
 (WSG)
 
-vom 02.03.1999 (Fassung in Kraft getreten am 01.01.2019)
+vom 02.03.1999 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -919,58 +919,44 @@ beschliesst:
 
 **Übertretungen des kantonalen Rechts**
 
-<sup>1</sup> Mit einer Busse bis zu 20'000 Franken und in schweren Fällen bis zu 50'000 Franken wird bestraft, wer vorsätzlich oder fahrlässig gegen:
+<sup>1</sup> Mit einer Busse bis zu 20'000 Franken und in schweren Fällen bis zu 50'000 Franken wird bestraft, wer gegen:
 
-- a) die Bestimmungen der Artikel 26, 27 Abs. 2, 28 Abs. 1 und 58 Abs. 3 dieses Gesetzes verstösst;
+- a) die Bestimmungen der Artikel 26 und 58 Abs. 3 dieses Gesetzes verstösst;
 - b) die Vollzugsbestimmungen verstösst.
 
 <sup>2</sup> Fällt jedoch der fragliche Sachverhalt unter die Strafbestimmungen des Bundesgesetzes, so sind nur diese anwendbar.
 
 <sup>3</sup> Als Strafverschärfungsgrund gilt insbesondere jede Beeinträchtigung eines Waldes mit einer wichtigen Schutzfunktion oder eines wertvollen Lebensraums.
 
-<sup>4</sup> Versuch und Gehilfenschaft sind strafbar.
+<sup>3a</sup> Verstösse gegen Bestimmungen dieses Gesetzes und seiner Ausführungsbestimmungen, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
+
+<sup>4</sup> Versuch und Gehilfenschaft sind strafbar; ausgenommen sind Widerhandlungen, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden.
 
 <sup>5</sup> …
 
-<sup>6</sup> Übertretungen, auf die das Ordnungsbussenverfahren anwendbar ist, bleiben vorbehalten.
+<sup>6</sup> …
 
 #### Art. 77a
 
-**Ordnungsbussen – Grundsatz**
-
-<sup>1</sup> Der Staatsrat bestimmt, in welchen Fällen geringfügige Übertretungen mit Ordnungsbussen geahndet werden können, und setzt den Pauschalbetrag dieser Bussen fest.
-
-<sup>2</sup> Der Höchstbetrag dieser Ordnungsbussen entspricht demjenigen des Ordnungsbussengesetzes des Bundes.
+**…**
 
 #### Art. 77b
 
-**Ordnungsbussen – Zusammentreffen mehrerer Übertretungen**
-
-<sup>1</sup> Werden durch eine oder mehrere Übertretungen mehrere Ordnungsbussentatbestände erfüllt, so werden die Bussen zusammengezählt und es wird eine Gesamtbusse auferlegt.
+**…**
 
 #### Art. 77c
 
-**Ordnungsbussen – Zuständigkeit und Art der Strafe**
-
-<sup>1</sup> Neben den Beamtinnen und Beamten der Kantonspolizei stellt das Aufsichtspersonal des Amts, das in einer speziellen Verordnung bezeichnet wird, die Übertretungen fest.
-
-<sup>2</sup> Gegebenenfalls verhängen diese Personen Ordnungsbussen mit offiziellem Formular.
+**…**
 
 #### Art. 77d
 
-**Ordnungsbussen – Bezahlung oder Anzeige**
-
-<sup>1</sup> Die Person, welche die Übertretung begangen hat, muss die Ordnungsbusse sofort oder innert 30 Tagen bezahlen.
-
-<sup>2</sup> Bei sofortiger Bezahlung wird eine Quittung ausgestellt.
-
-<sup>3</sup> Wird die Busse weder sofort noch während der folgenden 30 Tage bezahlt, so wird die Widerhandlung der Oberamtsperson angezeigt, die gemäss dem Justizgesetz entscheidet.
+**…**
 
 #### Art. 78
 
 **Verfahren**
 
-<sup>1</sup> Widerhandlungen werden nach diesem Gesetz und nach dem Justizgesetz verfolgt und beurteilt.
+<sup>1</sup> Widerhandlungen werden nach dem Justizgesetz verfolgt und beurteilt. Die Ordnungsbussengesetzgebung von Kanton und Bund bleibt vorbehalten.
 
 <sup>2</sup> Auf Verlangen der Strafbehörde nimmt das Amt Stellung.
 

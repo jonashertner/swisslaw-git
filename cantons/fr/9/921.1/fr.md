@@ -4,13 +4,13 @@ number: "921.1"
 title: Loi sur les forêts et la protection contre les catastrophes naturelles
 short: LFCN
 language: fr
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-09-12
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-06
 adopted: 1999-03-02
 in_force: 1999-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/921.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6345/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6949/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Forêts et protection contre les catastrophes naturelles – L
 
 (LFCN)
 
-du 02.03.1999 (version entrée en vigueur le 01.01.2019)
+du 02.03.1999 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -919,58 +919,44 @@ Décrète:
 
 **Contraventions cantonales**
 
-<sup>1</sup> Est passible d'une amende de 20'000 francs au plus et, dans les cas graves, de 50'000 francs au plus la personne qui aura enfreint intentionnellement ou par négligence:
+<sup>1</sup> Est passible d'une amende de 20'000 francs au plus et, dans les cas graves, de 50'000 francs au plus la personne qui aura enfreint:
 
-- a) les dispositions des articles 26, 27 al. 2, 28 al. 1 et 58 al. 3 de la présente loi;
+- a) les dispositions des articles 26 et 58 al. 3 de la présente loi;
 - b) les dispositions énumérées par la réglementation d'exécution.
 
 <sup>2</sup> Toutefois, si les faits reprochés tombent sous le coup des dispositions pénales de la loi fédérale, celles-ci sont seules applicables.
 
 <sup>3</sup> Toute atteinte à l'intégrité d'une forêt qui remplit une fonction de protection importante ou à un biotope précieux est considérée, notamment, comme une circonstance aggravante.
 
-<sup>4</sup> La tentative et la complicité sont punissables.
+<sup>3a</sup> Les infractions aux dispositions de la présente loi et à celles de sa réglementation d'exécution que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
+
+<sup>4</sup> La tentative et la complicité sont punissables, excepté pour les infractions que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre.
 
 <sup>5</sup> …
 
-<sup>6</sup> Les contraventions sujettes à la procédure d'amendes d'ordre demeurent réservées.
+<sup>6</sup> …
 
 #### Art. 77a
 
-**Amendes d'ordre – Principes**
-
-<sup>1</sup> Le Conseil d'Etat fixe les cas dans lesquels des contraventions de peu d'importance peuvent être sanctionnées par des amendes d'ordre et détermine le montant forfaitaire de ces amendes.
-
-<sup>2</sup> La limite supérieure du montant des amendes d'ordre correspond à celle qui est prévue par la loi fédérale sur les amendes d'ordre.
+**…**
 
 #### Art. 77b
 
-**Amendes d'ordre – Concours de plusieurs contraventions**
-
-<sup>1</sup> En cas de contraventions à une ou plusieurs dispositions réprimées par plusieurs amendes d'ordre, celles-ci sont cumulées pour constituer une amende globale.
+**…**
 
 #### Art. 77c
 
-**Amendes d'ordre – Compétence et mode de sanction**
-
-<sup>1</sup> Outre les agents et agentes de la Police cantonale, le personnel de surveillance du Service, désigné dans une ordonnance particulière, constate les contraventions.
-
-<sup>2</sup> Le cas échéant, ces personnes infligent les amendes d'ordre au moyen de formules officielles.
+**…**
 
 #### Art. 77d
 
-**Amendes d'ordre – Paiement ou dénonciation**
-
-<sup>1</sup> Le contrevenant ou la contrevenante peut payer l'amende d'ordre immédiatement ou dans les trente jours.
-
-<sup>2</sup> En cas de paiement immédiat, une quittance est établie.
-
-<sup>3</sup> A défaut de paiement immédiat ou dans les trente jours qui suivent, l'infraction est dénoncée au préfet, qui statue conformément à la loi sur la justice.
+**…**
 
 #### Art. 78
 
 **Procédure**
 
-<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la présente loi et à la loi sur la justice.
+<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice. La législation cantonale et fédérale sur les amendes d'ordre demeure réservée.
 
 <sup>2</sup> Sur demande de l'autorité pénale, le Service donne son préavis.
 
