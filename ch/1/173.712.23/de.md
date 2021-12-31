@@ -3,18 +3,18 @@ sr: "173.712.23"
 title: Verordnung der Bundesversammlung vom 1. Oktober 2010 über das Arbeitsverhältnis und die Besoldung des Bundesanwalts oder der Bundesanwältin sowie der Stellvertretenden Bundesanwälte oder Bundesanwältinnen
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/651"
 language: de
-version: 2015-07-01
+version: 2022-01-01
 adopted: 2010-10-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/651/20150701/de/xml/fedlex-data-admin-ch-eli-cc-2010-651-20150701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/651/20150701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/651/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-651-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/651/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung der Bundesversammlung über das Arbeitsverhältnis und die Besoldung des Bundesanwalts oder der Bundesanwältin sowie der Stellvertretenden Bundesanwälte oder Bundesanwältinnen
 
-vom 1. Oktober 2010 (Stand am 1. Juli 2015)
+vom 1. Oktober 2010 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -56,9 +56,11 @@ Diese Verordnung regelt das Arbeitsverhältnis und die Besoldung des Bundesanwal
 
 <sup>1</sup> Die Amtsdauer richtet sich nach Artikel 20 Absatz 3 StBOG.
 
-<sup>2</sup> Der Bundesanwalt oder die Bundesanwältin sowie die Stellvertretenden Bundesanwälte oder Bundesanwältinnen scheiden am Ende des Jahres aus ihrem Amt, in dem sie das ordentliche Rücktrittsalter nach den Bestimmungen über das Arbeitsverhältnis des Bundespersonals erreichen.
+<sup>2</sup> Der Bundesanwalt oder die Bundesanwältin sowie die Stellvertretenden Bundesanwälte oder Bundesanwältinnen scheiden am Ende des Jahres aus ihrem Amt aus, in dem sie das 68. Altersjahr vollenden.[^4-1]
 
 <sup>3</sup> Frei gewordene Stellen werden für den Rest der Amtsdauer wieder besetzt.
+
+[^4-1]: Fassung gemäss Ziff. I der V der BVers vom 1. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 616](https://fedlex.data.admin.ch/eli/oc/2021/616); [BBl 2021 997](https://fedlex.data.admin.ch/eli/fga/2021/997), [1209](https://fedlex.data.admin.ch/eli/fga/2021/1209)).
 
 #### Art. 5
 
@@ -96,7 +98,12 @@ Der Ortszuschlag, der Teuerungsausgleich, die Familienzulage und die Zulage für
 
 <sup>1</sup> Die Leistungen des Arbeitgebers bei Arbeitsverhinderung wegen Krankheit, Unfall, Invalidität, Militär-, Zivilschutz- und Zivildienst und bei Mutterschaft sowie die Leistungen des Arbeitgebers an die Hinterbliebenen im Todesfall richten sich nach den Bestimmungen des Bundespersonalrechts.
 
-<sup>2</sup> Der Bundesanwalt oder die Bundesanwältin sowie die Stellvertretenden Bundesanwälte oder Bundesanwältinnen sind im Rahmen des Vorsorgewerks Bund bei der Pensionskasse des Bundes PUBLICA gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod versichert.
+<sup>2</sup> Der Bundesanwalt oder die Bundesanwältin sowie die Stellvertretenden Bundesanwälte oder Bundesanwältinnen sind bis zum vollendeten 65. Altersjahr im Rahmen des Vorsorgewerks Bund bei der Pensionskasse des Bundes PUBLICA gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod versichert.[^8-1]
+
+<sup>3</sup> Wird das Arbeitsverhältnis nach dem vollendeten 65. Altersjahr fortgesetzt, so wird auf Verlangen des Bundesanwaltes oder der Bundesanwältin sowie der Stellvertretenden Bundesanwälte oder Bundesanwältinnen die Altersvorsorge bis zur Beendigung des Arbeitsverhältnisses, höchstens aber bis zum Ende des Jahres, in dem sie oder er das 68. Altersjahr vollendet, weitergeführt. Die Bundesanwaltschaft finanziert die Sparbeiträge des Arbeitgebers.[^8-2]
+
+[^8-1]: Fassung gemäss Ziff. I der V der BVers vom 1. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 616](https://fedlex.data.admin.ch/eli/oc/2021/616); [BBl 2021 997](https://fedlex.data.admin.ch/eli/fga/2021/997), [1209](https://fedlex.data.admin.ch/eli/fga/2021/1209)).
+[^8-2]: Eingefügt durch Ziff. I der V der BVers vom 1. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 616](https://fedlex.data.admin.ch/eli/oc/2021/616); [BBl 2021 997](https://fedlex.data.admin.ch/eli/fga/2021/997), [1209](https://fedlex.data.admin.ch/eli/fga/2021/1209)).
 
 ## 5. Abschnitt: Beschäftigungsgrad, Ferien und Urlaub
 
@@ -162,11 +169,11 @@ Der Bundesanwalt oder die Bundesanwältin sowie die Stellvertretenden Bundesanw�
 
 [^14-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-## 7*a*. Abschnitt:**** Entschädigung bei Auflösung des Arbeitsverhältnisses
+## 7*a*. Abschnitt: Entschädigung bei Auflösung des Arbeitsverhältnisses
 
 [^sec7a-1]
 
-[^sec7a-1]: Eingefügt durch Ziff. I 2 der V der BVers vom 19. Juni 2015 über Entschädigungen bei Auflösung des Arbeitsverhältnisses, in Kraft seit 1. Juli 2015 und erstmals gültig für die Wahlen ab 2015 ([AS 2015 2057](https://fedlex.data.admin.ch/eli/oc/2015/384); [BBl 2015 2211](https://fedlex.data.admin.ch/eli/fga/2015/421)[2235](https://fedlex.data.admin.ch/eli/fga/2015/424)).
+[^sec7a-1]: Eingefügt durch Ziff. I 2 der V der BVers vom 19. Juni 2015 über Entschädigungen bei Auflösung des Arbeitsverhältnisses, in Kraft seit 1. Juli 2015 und erstmals gültig für die Wahlen ab 2015 ([AS 2015 2057](https://fedlex.data.admin.ch/eli/oc/2015/384); [BBl 2015 2211](https://fedlex.data.admin.ch/eli/fga/2015/421), [2235](https://fedlex.data.admin.ch/eli/fga/2015/424)).
 
 #### Art. 14a
 

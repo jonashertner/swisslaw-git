@@ -3,22 +3,22 @@ sr: "173.712.23"
 title: "Ordonnance de l'Assemblée fédérale du 1<sup>er</sup> octobre 2010 concernant les rapports de travail et le traitement du procureur général de la Confédération et des procureurs généraux suppléants"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/651"
 language: fr
-version: 2015-07-01
+version: 2022-01-01
 adopted: 2010-10-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/651/20150701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-651-20150701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/651/20150701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/651/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-651-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/651/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’Assemblée fédérale concernant les rapports de travail et le traitement du procureur général de la Confédération et des procureurs généraux suppléants
 
-du 1<sup>er</sup> octobre 2010 (Etat le 1<sup>er</sup> juillet 2015)
+du 1<sup>er</sup> octobre 2010 (État le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu l’art. 22, al. 1, de la loi du 19 mars 2010 sur l’organisation des autorités pénales (LOAP)[^ingress-1], vu le rapport de la Commission des affaires juridiques du Conseil des Etats du 20 mai 2010[^ingress-2], vu l’avis du Conseil fédéral du 4 juin 2010[^ingress-3],
+vu l’art. 22, al. 1, de la loi du 19 mars 2010 sur l’organisation des autorités pénales (LOAP)[^ingress-1], vu le rapport de la Commission des affaires juridiques du Conseil des États du 20 mai 2010[^ingress-2], vu l’avis du Conseil fédéral du 4 juin 2010[^ingress-3],
 
 arrête:
 
@@ -56,9 +56,11 @@ La présente ordonnance régit les rapports de travail et le traitement du procu
 
 <sup>1</sup> La période de fonction est régie par l’art. 20, al. 3, de la LOAP.
 
-<sup>2</sup> Lorsque le procureur général et ses suppléants atteignent l’âge ordinaire de la retraite prévu par les dispositions sur les rapports de travail du personnel de la Confédération, leur période de fonction s’achève à la fin de l’année civile.
+<sup>2</sup> Lorsque le procureur général et ses suppléants atteignent l’âge de 68 ans, leur période de fonction s’achève à la fin de l’année civile.[^4-1]
 
 <sup>3</sup> Les sièges vacants sont repourvus pour le reste de la période.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 616](https://fedlex.data.admin.ch/eli/oc/2021/616); [FF 2021 997](https://fedlex.data.admin.ch/eli/fga/2021/997), [1209](https://fedlex.data.admin.ch/eli/fga/2021/1209)).
 
 #### Art. 5
 
@@ -96,7 +98,12 @@ L’indemnité de résidence, la compensation du renchérissement, les allocatio
 
 <sup>1</sup> Les prestations dues par l’employeur en cas d’incapacité de travailler pour cause de maladie, d’accident, d’invalidité, de service militaire, de protection civile ou de service civil et de maternité ainsi que les prestations de l’employeur à verser aux survivants en cas de décès sont accordées selon les dispositions sur les rapports de travail du personnel de la Confédération.
 
-<sup>2</sup> Le procureur général et ses suppléants sont assurés auprès de la caisse de pensions PUBLICA, à savoir la Caisse de prévoyance de la Confédération, contre les conséquences économiques de la vieillesse, de l’invalidité et du décès.
+<sup>2</sup> Le procureur général et ses suppléants sont assurés auprès de la caisse de pensions PUBLICA, à savoir la caisse de prévoyance de la Confédération, jusqu’à l’âge de 65 ans contre les conséquences économiques de la vieillesse, de l’invalidité et du décès.[^8-1]
+
+<sup>3</sup> Sur demande du procureur général ou de ses suppléants, la prévoyance vieillesse est maintenue au-delà de l’âge de 65 ans jusqu’à la cessation des rapports de travail mais, au plus tard, jusqu’à la fin de l’année au cours de laquelle l’âge de 68 ans est atteint. Dans ce cas, le Ministère public de la Confédération finance les cotisations d’épargne de l’employeur.[^8-2]
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 616](https://fedlex.data.admin.ch/eli/oc/2021/616); [FF 2021 997](https://fedlex.data.admin.ch/eli/fga/2021/997), [1209](https://fedlex.data.admin.ch/eli/fga/2021/1209)).
+[^8-2]: Introduit par le ch. I de l’O de l’Ass. féd. du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 616](https://fedlex.data.admin.ch/eli/oc/2021/616); [FF 2021 997](https://fedlex.data.admin.ch/eli/fga/2021/997), [1209](https://fedlex.data.admin.ch/eli/fga/2021/1209)).
 
 ## Section 5 Taux d’occupation, vacances et congés
 
@@ -162,7 +169,7 @@ Le procureur général et ses suppléants doivent être domiciliés en Suisse.
 
 [^14-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-## Section 7*a***** Indemnité en cas de dissolution des rapports de travail
+## Section 7*a* Indemnité en cas de dissolution des rapports de travail
 
 [^sec7a-1]
 
@@ -179,7 +186,7 @@ Le procureur général et ses suppléants doivent être domiciliés en Suisse.
 L’octroi d’une indemnité est exclu lorsque le procureur ou son suppléant:
 
 - a. quitte ses fonctions parce qu’il a atteint l’âge ordinaire de la retraite;
-- b. est révoqué ou n’est plus réélu pour avoir violé gravement ses devoirs de fonction; ou
+- b. est révoqué ou n’est plus réélu pour avoir violé gravement ses devoirs de fonction, ou
 - c. de sa propre initiative, a résilié les rapports de travail ou ne se porte pas candidat à sa réélection.
 
 <sup>4</sup> L’indemnité est allouée sous forme de prestation en capital.
@@ -188,7 +195,7 @@ L’octroi d’une indemnité est exclu lorsque le procureur ou son suppléant:
 
 Le bénéficiaire doit restituer tout ou partie de l’indemnité:
 
-- a. s’il renoue des rapports de travail dans un délai d’une année après la dissolution des rapports de travail; et
+- a. s’il renoue des rapports de travail dans un délai d’une année après la dissolution des rapports de travail, et
 - b. si l’autorité de surveillance l’exige; celle-ci tient compte du montant de l’indemnité, du nombre de mois sans rapports de travail et du montant du nouveau salaire.
 
 ## Section 8 Entrée en vigueur

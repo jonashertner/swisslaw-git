@@ -3,18 +3,18 @@ sr: "173.712.23"
 title: "Ordinanza dell'Assemblea federale del 1° ottobre 2010 concernente i rapporti di lavoro e la retribuzione del procuratore generale della Confederazione e dei sostituti procuratori generali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/651"
 language: it
-version: 2015-07-01
+version: 2022-01-01
 adopted: 2010-10-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/651/20150701/it/xml/fedlex-data-admin-ch-eli-cc-2010-651-20150701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/651/20150701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/651/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-651-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/651/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’Assemblea federale concernente i rapporti di lavoro e la retribuzione del procuratore generale della Confederazione e dei sostituti procuratori generali
 
-del 1° ottobre 2010 (Stato 1° luglio 2015) (Stato 1° luglio 2015)
+del 1° ottobre 2010 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -56,9 +56,11 @@ La presente ordinanza disciplina i rapporti di lavoro e la retribuzione del proc
 
 <sup>1</sup> La durata della carica è disciplinata dall’articolo 20 capoverso 3 LOAP.
 
-<sup>2</sup> Il procuratore generale e i sostituti procuratori generali che raggiungono l’età ordinaria di pensionamento secondo le disposizioni in materia di rapporti di lavoro del personale federale lasciano la carica alla fine dell’anno civile.
+<sup>2</sup> Il procuratore generale e i sostituti procuratori generali che compiono 68 anni lasciano la carica alla fine dell’anno civile.[^4-1]
 
 <sup>3</sup> I seggi divenuti vacanti sono riassegnati per il resto del periodo.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O dell’AF del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 616](https://fedlex.data.admin.ch/eli/oc/2021/616); [FF 2021 997](https://fedlex.data.admin.ch/eli/fga/2021/997), [1209](https://fedlex.data.admin.ch/eli/fga/2021/1209)).
 
 #### Art. 5
 
@@ -78,7 +80,7 @@ La presente ordinanza disciplina i rapporti di lavoro e la retribuzione del proc
 
 <sup>2</sup> La Commissione giudiziaria determina lo stipendio iniziale. Al riguardo tiene conto dell’età, della formazione e dell’esperienza professionale e di vita del candidato, nonché della situazione sul mercato del lavoro.
 
-<sup>3</sup> Lo stipendio aumenta il 1° gennaio di ogni anno del tre percento dell’importo massimo della classe di stipendio fino raggiungere tale importo massimo.
+<sup>3</sup> Lo stipendio aumenta il 1° gennaio di ogni anno del tre per cento dell’importo massimo della classe di stipendio fino a raggiungere tale importo massimo.
 
 <sup>4</sup> Non sono versati premi di prestazione secondo l’articolo 49 OPers.
 
@@ -96,7 +98,12 @@ L’indennità di residenza, la compensazione del rincaro, l’assegno familiare
 
 <sup>1</sup> Le prestazioni che il datore di lavoro versa in caso d’impedimento al lavoro dovuto a malattia, infortunio, invalidità, servizio militare, servizio di protezione civile, servizio civile e maternità, nonché le prestazioni che il datore di lavoro versa ai superstiti in caso di decesso, sono disciplinate dalle disposizioni concernenti i rapporti di lavoro del personale federale.
 
-<sup>2</sup> Il procuratore generale e i sostituti procuratori generali sono assicurati presso la cassa di previdenza della Confederazione PUBLICA contro le conseguenze economiche di vecchiaia, invalidità e morte.
+<sup>2</sup> Sino al compimento del 65° anno d’età, il procuratore generale e i sostituti procuratori generali sono assicurati presso la cassa di previdenza della Confederazione PUBLICA contro le conseguenze economiche di vecchiaia, invalidità e morte.[^8-1]
+
+<sup>3</sup> Su richiesta dell’interessato, la previdenza per la vecchiaia è mantenuta dopo il compimento del 65° anno d’età e sino alla fine del rapporto di lavoro, ma al massimo sino alla fine dell’anno civile in cui egli compie il 68° anno d’età. In tal caso, il Ministero pubblico della Confederazione finanzia i contributi di risparmio del datore di lavoro.[^8-2]
+
+[^8-1]: Nuovo testo giusta il n. I dell’O dell’AF del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 616](https://fedlex.data.admin.ch/eli/oc/2021/616); [FF 2021 997](https://fedlex.data.admin.ch/eli/fga/2021/997), [1209](https://fedlex.data.admin.ch/eli/fga/2021/1209)).
+[^8-2]: Introdotto dal n. I dell’O dell’AF del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 616](https://fedlex.data.admin.ch/eli/oc/2021/616); [FF 2021 997](https://fedlex.data.admin.ch/eli/fga/2021/997), [1209](https://fedlex.data.admin.ch/eli/fga/2021/1209)).
 
 ## Sezione 5: Grado di occupazione, vacanze e congedi
 
@@ -162,11 +169,11 @@ Il procuratore generale e i sostituti procuratori generali devono avere domicili
 
 [^14-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-## Sezione 7*a*:**** Indennità in caso di risoluzione del rapporto di lavoro
+## Sezione 7*a*: Indennità in caso di risoluzione del rapporto di lavoro
 
 [^sec7a-1]
 
-[^sec7a-1]: Introdotta dal n. I 2 dell’O dell’AF del 19 giu. 2015 concernente l’indennità in caso di risoluzione del rapporto di lavoro, in vigore dal 1° lug. 2015 e applicabile per la prima volta alle elezioni a partire dal 2015 ([RU 2015 2057](https://fedlex.data.admin.ch/eli/oc/2015/384); [FF 2015 1861](https://fedlex.data.admin.ch/eli/fga/2015/421)[1885](https://fedlex.data.admin.ch/eli/fga/2015/424)).
+[^sec7a-1]: Introdotta dal n. I 2 dell’O dell’AF del 19 giu. 2015 concernente l’indennità in caso di risoluzione del rapporto di lavoro, in vigore dal 1° lug. 2015 e applicabile per la prima volta alle elezioni a partire dal 2015 ([RU 2015 2057](https://fedlex.data.admin.ch/eli/oc/2015/384); [FF 2015 1861](https://fedlex.data.admin.ch/eli/fga/2015/421), [1885](https://fedlex.data.admin.ch/eli/fga/2015/424)).
 
 #### Art. 14a
 
