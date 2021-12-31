@@ -4,13 +4,13 @@ number: "184.13"
 title: "Ordonnance sur le guichet de cyberadministration de l'Etat"
 short: OGCyb
 language: fr
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-09
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2022-01-31
 adopted: 2023-11-20
 in_force: 2023-12-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6772/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7110/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Guichet de cyberadministration de l'Etat – O
 
 (OGCyb)
 
-du 15.05.2017 (version entrée en vigueur le 01.03.2021)
+du 15.05.2017 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -51,7 +51,7 @@ Arrête:
 
 **Changement des conditions d'utilisation (art. 14 LCyb)**
 
-<sup>1</sup> Tout changement important des conditions générales d'utilisation est préalablement validé par la Commission de la cyberadministration, sur le préavis de l'Autorité cantonale de la transparence et de la protection des données.
+<sup>1</sup> Tout changement important des conditions générales d'utilisation est préalablement validé par la Commission de la cyberadministration, sur le préavis de l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
 <sup>2</sup> En cas de changement important des conditions générales d'utilisation, chaque personne ayant reçu une autorisation d'accès en est informée par voie électronique et est invitée à accepter les nouvelles conditions. Tant que les nouvelles conditions n'ont pas été acceptées, l'utilisation du guichet peut être restreinte ou bloquée.
 

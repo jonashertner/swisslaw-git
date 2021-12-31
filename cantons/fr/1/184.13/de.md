@@ -4,13 +4,13 @@ number: "184.13"
 title: Verordnung über den E-Government-Schalter des Staates
 short: E-GovSchV
 language: de
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-09
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2022-01-31
 adopted: 2023-11-20
 in_force: 2023-12-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/6772/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7110/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ E-Government-Schalter des Staates – V
 
 (E-GovSchV)
 
-vom 15.05.2017 (Fassung in Kraft getreten am 01.03.2021)
+vom 15.05.2017 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -51,7 +51,7 @@ beschliesst:
 
 **Änderung der Nutzungsbedingungen (Art. 14 E-GovG)**
 
-<sup>1</sup> Jede bedeutende Änderung der allgemeinen Nutzungsbedingungen muss zunächst auf Stellungnahme der Behörde für Öffentlichkeit und Datenschutz von der E-Governmentkommission genehmigt werden.
+<sup>1</sup> Jede bedeutende Änderung der allgemeinen Nutzungsbedingungen muss zunächst auf Stellungnahme der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation von der E-Governmentkommission genehmigt werden.
 
 <sup>2</sup> Bei einer bedeutenden Änderung der allgemeinen Nutzungsbedingungen wird jede Person, die eine Zugangsberechtigung erhalten hat, auf elektronischem Weg informiert und aufgefordert, die neuen Bedingungen anzunehmen. Solange die neuen Bedingungen nicht angenommen wurden, kann die Nutzung des virtuellen Schalters eingeschränkt oder gesperrt werden.
 
