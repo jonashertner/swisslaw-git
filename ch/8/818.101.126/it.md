@@ -3,18 +3,18 @@ sr: "818.101.126"
 title: "Ordinanza del DFI del 1° dicembre 2015 sulla dichiarazione di osservazioni relative alle malattie trasmissibili dell'essere umano (ODMT)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/892"
 language: it
-version: 2020-11-02
+version: 2022-01-01
 adopted: 2015-12-01
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/892/20201102/it/xml/fedlex-data-admin-ch-eli-cc-2015-892-20201102-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20201102/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/892/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-892-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulla dichiarazione di osservazioni relative alle malattie trasmissibili dell’essere umano
 
-del 1° dicembre 2015 (Stato 2 novembre 2020) (Stato 2 novembre 2020)
+del 1° dicembre 2015 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -119,11 +119,9 @@ Se del caso, devono inoltre trasmettere, oltre ai dati di cui al capoverso 1, an
 
 #### Art. 5
 
-**Statistiche dei referti delle analisi di laboratorio**
+[^5-1]
 
-<sup>1</sup> Le statistiche dei referti delle analisi di laboratorio relative ai singoli agenti patogeni che devono essere trasmesse sono menzionate nell’allegato 4.
-
-<sup>2</sup> I laboratori soggetti all’obbligo di dichiarazione devono trasmettere, oltre a quanto stabilito dal capoverso 1, anche i dati di cui all’articolo 4 capoverso 2.
+[^5-1]: Abrogato dal n. I dell’O del DFI del 25 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 #### Art. 5a
 
@@ -236,9 +234,9 @@ Se il medico cantonale deve inoltrare una dichiarazione all’Ufficio federale d
 
 #### Art. 13
 
-**Trasmissione di statistiche delle analisi di laboratorio**
+[^13-1]
 
-Le statistiche delle analisi di laboratorio devono essere trasmesse annualmente all’UFSP entro il 31 gennaio dell’anno successivo.
+[^13-1]: Abrogato dal n. I dell’O del DFI del 25 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 #### Art. 13a
 
@@ -294,7 +292,7 @@ Allegato 1*[^t-1]*
 
 ## Dichiarazioni di referti clinici
 
-[^t-1]: Aggiornato dal n. I dell’O del DFI del 1° mar. 2016 ([RU 2016 667](https://fedlex.data.admin.ch/eli/oc/2016/130)), dal n. II dell’O del DFI del 19 ott. 2016 ([RU 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), dal n. I dell’O del DFI del 10 nov. 2017 ([RU 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), dal n. II cpv. 1 dell’O del DFI del 1° nov. 2019 ([RU 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), dal n. I dell’O del DFI del 29 gen. 2020 ([RU 2020 359](https://fedlex.data.admin.ch/eli/oc/2020/61)) e dal n. I dell’O del 16 lug. 2020, in vigore dal 20 lug. 2020 ([RU 2020 2923](https://fedlex.data.admin.ch/eli/oc/2020/544)).
+[^t-1]: Aggiornato dal n. I dell’O del DFI del 1° mar. 2016 ([RU 2016 667](https://fedlex.data.admin.ch/eli/oc/2016/130)), dal n. II dell’O del DFI del 19 ott. 2016 ([RU 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), dal n. I dell’O del DFI del 10 nov. 2017 ([RU 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), dal n. II cpv. 1 dell’O del DFI del 1° nov. 2019 ([RU 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), dal n. I dell’O del DFI del 29 gen. 2020 ([RU 2020 359](https://fedlex.data.admin.ch/eli/oc/2020/61)) e dal n. II cpv. 1 dell’O del DFI del 25 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 Elenco delle osservazioni che i medici, gli ospedali e le altre istituzioni pubbliche o private del sistema sanitario devono dichiarare ai medici cantonali competenti.
 
@@ -334,7 +332,7 @@ Elenco delle osservazioni che i medici, gli ospedali e le altre istituzioni pubb
 <tr><td>30 Morbillo</td><td>Sospetto clinico provocato dalla triade\*: 1. febbre, 2. esantema maculo-papuloso, 3. tosse, rinite o congiuntivite</td><td>24 ore</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – decorso – esposizione – stato vaccinale – misure</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso, nazionalità</td><td>no</td><td>Su richiesta del medico cantonale, occorre inviare un campione per la genotipizzazione al centro di riferimento indicato dall’UFSP. \* o, in caso di espressione clinica assente o aspecifica oppure di referto casuale, al più tardi in presenza del referto positivo delle analisi di laboratorio.</td></tr>
 <tr><td>31 Malattia invasiva da meningococchi</td><td>Sospetto clinico *e* disposizione di una diagnostica di laboratorio specifica per l’agente patogeno\* \*\*</td><td>24 ore</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – decorso – esposizione – stato vaccinale – comportamenti a rischio o fattori di rischio – misure</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso, nazionalità</td><td>no</td><td>\* solo da materiale normalmente sterile (p. es. sangue, liquor, liquido sinoviale; *non* da urina). \*\* o, in caso di espressione clinica assente o aspecifica oppure di referto casuale, al più tardi in presenza del referto positivo delle analisi di laboratorio.</td></tr>
 <tr><td>32 MERS-Coronavirus</td><td>Sospetto clinico\* *e* disposizione di una diagnostica di laboratorio specifica per l’agente patogeno *e* legame epidemiologico\*\*</td><td>24 ore</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – esposizione – misure</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso, nazionalità – attività professionale</td><td>no</td><td>I campioni vanno inviati al centro di riferimento indicato dall’UFSP. \* o, in caso di espressione clinica assente o aspecifica oppure di referto casuale, al più tardi in presenza del referto positivo delle analisi di laboratorio. \*\* criteri definiti a seconda dell’epidemia.</td></tr>
-<tr><td>32*a* nuovo Coronavirus (COVID-19)</td><td>Criteri clinici soddisfatti\* *e* referto positivo delle analisi di laboratorio\* *oppure* TC compatibile con la COVID-19 *oppure* criteri epidemiologici soddisfatti\*</td><td>24 ore\*\*</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – decorso – esposizione – stato vaccinale, stato immunitario – comportamenti a rischio e fattori di rischio – misure</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso, nazionalità – attività professionale</td><td>si</td><td>\* criteri definiti a seconda dell’epidemia. \*\* L’UFSP designa gli strumenti di dichiarazione.</td></tr>
+<tr><td>32*a* COVID-19</td><td>Referto positivo delle analisi di laboratorio\*</td><td>24 ore\*\*</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – decorso – esposizione – stato vaccinale, stato immunitario – comportamenti a rischio e fattori di rischio – misure</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso, nazionalità – attività professionale</td><td>sì</td><td>Su richiesta del medico cantonale, occorre inviare un campione per il sequenziamento a un servizio indicato dall’UFSP. \* secondo i criteri di sospetto, di prelievo di campioni e di dichiarazione definiti dall’UFSP del 1° gennaio 2022. \*\* L’UFSP designa gli strumenti di dichiarazione.</td></tr>
 <tr><td>33 Peste</td><td>Sospetto clinico *e* consultazione di uno specialista per le malattie infettive *e* disposizione di una diagnostica di laboratorio specifica per l’agente patogeno\*</td><td>2 ore, telefonicamente</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – esposizione – misure</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso, nazionalità – attività professionale</td><td>sì</td><td>I campioni vanno inviati al centro di riferimento indicato dall’UFSP. \* o, in caso di espressione clinica assente o aspecifica oppure di referto casuale, al più tardi in presenza del referto positivo delle analisi di laboratorio.</td></tr>
 <tr><td>34 Malattia invasiva da pneumococchi</td><td>Referto positivo delle analisi di laboratorio\*</td><td>1 settimana</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – decorso – stato vaccinale – comportamenti a rischio o fattori di rischio</td><td>– iniziali di nome e cognome, luogo di domicilio – data di nascita, sesso, nazionalità</td><td>no</td><td>\* solo da materiale normalmente sterile (p. es. sangue, liquor, liquido sinoviale; *non* da urina).</td></tr>
 <tr><td>35 Vaiolo</td><td>Sospetto clinico *e* consultazione di uno specialista per le malattie infettive *e* disposizione di una diagnostica di laboratorio specifica per l’agente patogeno\*</td><td>2 ore, telefonicamente</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – esposizione – stato vaccinale – misure</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso, nazionalità – attività professionale</td><td>sì</td><td>I campioni vanno inviati al centro di riferimento indicato dall’UFSP. \* o, in caso di espressione clinica assente o aspecifica oppure di referto casuale, al più tardi in presenza del referto positivo delle analisi di laboratorio.</td></tr>
@@ -348,7 +346,7 @@ Elenco delle osservazioni che i medici, gli ospedali e le altre istituzioni pubb
 <tr><td>43 Tubercolosi</td><td>inizio di una terapia\* con ≥ 3 antitubercolotici diversi\*\* *oppure* rilevamento di micobatteri del complesso tubercolare nel materiale clinico</td><td>1 settimana</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – decorso – misure – referto delle analisi di laboratorio</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso, nazionalità – Paese di origine</td><td>no</td><td>\* Non dichiarare: diagnosi o terapia dell’infezione latente (reazione positiva alla tubercolina o test del rilascio di interferone gamma positivo). \*\* o, in caso di espressione clinica assente o aspecifica oppure di referto casuale, al più tardi in presenza del referto positivo delle analisi di laboratorio.</td></tr>
 <tr><td>44 Tularemia</td><td>Referto positivo delle analisi di laboratorio</td><td>1 settimana</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – esposizione</td><td>– iniziali di nome e cognome, luogo di domicilio – data di nascita, sesso, nazionalità – attività professionale</td><td>no</td><td></td></tr>
 <tr><td>45 Tifo addominale / paratifo</td><td>Referto positivo delle analisi di laboratorio</td><td>24 ore</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – decorso – esposizione – stato vaccinale – comportamenti a rischio o fattori di rischio</td><td>– nome, cognome, indirizzo e numero di telefono – data di nascita, sesso, nazionalità – attività professionale</td><td>no</td><td></td></tr>
-<tr><td>46 Febbre del Nilo occidentale</td><td>Referto positivo delle analisi di laboratorio</td><td>1 settimana</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – decorso – esposizione</td><td>– iniziali di nome e cognome, luogo di domicilio – data di nascita, sesso, nazionalità</td><td>no</td><td></td></tr>
+<tr><td>46 Febbre del Nilo occidentale</td><td>Referto positivo delle analisi di laboratorio</td><td>24 ore</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – decorso – esposizione</td><td>– iniziali di nome e cognome, luogo di domicilio – data di nascita, sesso, nazionalità</td><td>no</td><td></td></tr>
 <tr><td>47 Febbre da virus Zika</td><td>Referto positivo delle analisi di laboratorio</td><td>24 ore</td><td>– diagnosi e manifestazione – diagnostica di laboratorio disposta – decorso – esposizione – comportamenti a rischio o fattori di rischio – stato vaccinale – misure</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso, nazionalità</td><td>no</td><td>i campioni prelevati da donne incinte vanno inoltrati a un centro di riferimento indicato dall’UFSP.</td></tr>
 </table>
 
@@ -361,7 +359,7 @@ Allegato 2*[^t-2]*
 
 ## Dichiarazioni complementari di referti clinici
 
-[^t-2]: Aggiornato dal n. I dell’O del DFI del 10 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)).
+[^t-2]: Aggiornato dal n. I dell’O del DFI del 10 nov. 2017 ([RU 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)) e dal n. II cpv. 1 dell’O del DFI del 25 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 Elenco delle osservazioni che i medici, gli ospedali e le altre istituzioni pubbliche o private del sistema sanitario devono dichiarare ai medici cantonali competenti a complemento delle relative osservazioni di cui all’allegato 1.
 
@@ -370,16 +368,16 @@ Elenco delle osservazioni che i medici, gli ospedali e le altre istituzioni pubb
 <tr><td>1 Malattia di Creutzfeldt-Jakob</td><td>Decesso di un paziente con sospetto di MCJ *oppure* conferma di un caso di MCJ mediante autopsia</td><td>1 settimana</td><td>– diagnosi e manifestazione – decorso</td><td>– nome, cognome – data di nascita, sesso</td><td></td></tr>
 <tr><td>2 Morbillo</td><td>Dimissione di un paziente ospedalizzato con referto positivo delle analisi di laboratorio *oppure* decesso di un caso (sospetto) di morbillo</td><td>1 settimana</td><td>– diagnosi e manifestazione – decorso – comportamenti a rischio o fattori di rischio</td><td>– nome, cognome – data di nascita, sesso</td><td></td></tr>
 <tr><td>3 Rosolia, congenita</td><td>Infezione da virus della rosolia durante la gravidanza *e* alla fine della gravidanza confermata in laboratorio\* oppure infezione da virus della rosolia su neonato o nato morto confermata in laboratorio oppure Sindrome da rosolia congenita su neonato, nato morto o infante o relativo sospetto\*\*</td><td>1 settimana</td><td>– diagnosi e manifestazione – decorso – misure – diagnostica di laboratorio disposta – referto di laboratorio: tutti i risultati, incluso test di avidità delle IgG per madre *e* bambino</td><td>– cognome, nome di madre e bambino nonché indirizzo e numero di telefono; eventualmente luogo di dimora – sesso del bambino, data di nascita di madre *e* bambino</td><td>\* con parto, aborto spontaneo o aborto procurato \*\* anche senza conferma del laboratorio o indipendentemente da una dichiarazione sul referto clinico</td></tr>
-<tr><td>4 Tubercolosi</td><td>Invito da parte del medico cantonale a dichiarare il risultato della terapia\*</td><td>1 settimana</td><td>– decorso – risultato della terapia – misure</td><td>– nome, cognome – data di nascita, sesso</td><td>\* Le indicazioni sul risultato della terapia vanno dichiarate 12 mesi dopo l’inizio della terapia, nel caso di una tubercolosi multiresistente 24 mesi dopo l’inizio della terapia.</td></tr>
+<tr><td>4 Tubercolosi</td><td>Fine della terapia\* *e/o* cambio di terapia con passaggio da agenti terapeutici di prima scelta (isoniazide, rifampicina, etambutolo, pirazinamide) a medicamenti di riserva (fluorochinoloni, amikacina, kanamicina, bedaquilina, delamanid, linezolid) *e/o* cambio di Cantone *e/o* invito da parte del medico cantonale a dichiarare il risultato della terapia</td><td>1 settimana</td><td>– decorso – risultato della terapia – misure</td><td>– nome, cognome – data di nascita, sesso</td><td>\* Per fine della terapia si intendono: successo, interruzione o fallimento della stessa, trasferimento del paziente o decesso.</td></tr>
 </table>
 
 Allegato 3*[^t-3]*
 
-(art. 4 cpv. 1 e 4*a* cpv. 1)
+(art. 4 cpv. 1)
 
 ## Dichiarazioni di referti delle analisi di laboratorio
 
-[^t-3]: Aggiornato dal n. I dell’O del DFI del 1° mar. 2016 ([RU 2016 667](https://fedlex.data.admin.ch/eli/oc/2016/130)), dal n. II dell’O del DFI del 19 ott. 2016 ([RU 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), dai n. I delle O del DFI del 10 nov. 2017 ([RU 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), del 15 nov. 2018 ([RU 2018 5073](https://fedlex.data.admin.ch/eli/oc/2018/788)), dal n. II cpv. 1 dell’O del DFI del 1° nov. 2019 ([RU 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), dai n. I delle O del DFI del 29 gen. 2020 ([RU 2020 359](https://fedlex.data.admin.ch/eli/oc/2020/61)) e del 16 lug. 2020 ([RU 2020 2923](https://fedlex.data.admin.ch/eli/oc/2020/544)) e dal n. II dell’O del DFI del 28 ott. 2020, in vigore dal 2 nov. 2020 ([RU 2020 4493](https://fedlex.data.admin.ch/eli/oc/2020/791)).
+[^t-3]: Aggiornato dal n. I dell’O del DFI del 1° mar. 2016 ([RU 2016 667](https://fedlex.data.admin.ch/eli/oc/2016/130)), dal n. II dell’O del DFI del 19 ott. 2016 ([RU 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), dai n. I delle O del DFI del 10 nov. 2017 ([RU 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), del 15 nov. 2018 ([RU 2018 5073](https://fedlex.data.admin.ch/eli/oc/2018/788)), dal n. II cpv. 1 dell’O del DFI del 1° nov. 2019 ([RU 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), dai n. I delle O del DFI del 29 gen. 2020 ([RU 2020 359](https://fedlex.data.admin.ch/eli/oc/2020/61)), dal n. II dell’O del DFI del 28 ott. 2020 ([RU 2020 4493](https://fedlex.data.admin.ch/eli/oc/2020/791)) e dal n. II cpv. 1 dell’O del DFI del 25 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 Elenco delle osservazioni che i laboratori devono dichiarare ai medici cantonali competenti e all’UFSP.
 
@@ -436,8 +434,8 @@ Elenco delle osservazioni che i laboratori devono dichiarare ai medici cantonali
 <tr><td>[tab]</td><td>Referto negativo per mezzo di un esame PCR</td><td>24 ore</td><td>– risultato con interpretazione – esame: materiale, metodo</td><td>– nome, cognome e indirizzo; eventualmente luogo di dimora – data di nascita, sesso</td><td></td><td>[tab]</td></tr>
 <tr><td>31 MERS-Coronavirus</td><td>Referto positivo</td><td>2 ore, telefonicamente</td><td>– risultato con interpretazione – esame: materiale, metodo</td><td>– nome cognome e indirizzo; eventualmente luogo di dimora – data di nascita, sesso</td><td>I campioni vanno inoltrati al centro di riferimento indicato dall’UFSP.</td><td>[tab]</td></tr>
 <tr><td>[tab]</td><td>Referto negativo</td><td>2 ore, telefonicamente</td><td>– risultato con interpretazione – esame: materiale, metodo</td><td>– nome cognome e indirizzo; eventualmente luogo di dimora – data di nascita, sesso</td><td>I campioni vanno inoltrati al centro di riferimento indicato dall’UFSP.</td><td>[tab]</td></tr>
-<tr><td>31*a* nuovo Coronavirus (SARS-CoV-2)</td><td>Referto positivo\*</td><td>2 ore\*\*</td><td>– risultato con interpretazione – esame: materiale, metodo</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso</td><td>I campioni vanno inoltrati al centro di riferimento indicato dall’UFSP.</td><td>\* criteri definiti a seconda dell’epidemia. \*\* L’UFSP designa gli strumenti di dichiarazione.</td></tr>
-<tr><td>[tab]</td><td>Referto negativo\*</td><td>24 ore\*\*</td><td>– risultato con interpretazione – esame: materiale, metodo</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso</td><td>I campioni vanno inoltrati al centro di riferimento indicato dall’UFSP.</td><td>\* criteri definiti a seconda dell’epidemia. \*\* L’UFSP designa gli strumenti di dichiarazione.</td></tr>
+<tr><td>31*a* SARS-CoV-2</td><td>Referto positivo\*</td><td>2 ore\*\*</td><td>– risultato con interpretazione: se nota, caratterizzazione della variante del genoma – esame: materiale, metodo</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso</td><td>Una selezione di campioni va inoltrata al servizio indicato dall’UFSP. Su richiesta del medico cantonale, occorre inviare un campione per il sequenziamento a un servizio indicato dall’UFSP.</td><td>\* secondo i criteri di sospetto, di prelievo di campioni e di dichiarazione, definiti dall’UFSP del 1° gennaio 2022. \*\* L’UFSP designa gli strumenti di dichiarazione.</td></tr>
+<tr><td>[tab]</td><td>Referto negativo\*</td><td>24 ore\*\*</td><td>– risultato con interpretazione – esame: materiale, metodo</td><td>– nome, cognome, indirizzo e numero di telefono; eventualmente luogo di dimora – data di nascita, sesso</td><td>[tab]</td><td>\* secondo i criteri di sospetto, di prelievo di campioni e di dichiarazione, definiti dall’UFSP del 1° gennaio 2022. \*\* L’UFSP designa gli strumenti di dichiarazione.</td></tr>
 <tr><td>32 Complesso *Mycobacterium tuberculosis*</td><td>Referto positivo\*</td><td>24 ore</td><td>– risultato con interpretazione: specie, profilo di resistenza\*\* – esame: materiale, metodo</td><td>– nome, cognome e indirizzo; eventualmente luogo di dimora – data di nascita, sesso</td><td>In caso di resistenza alla rifampicina, i campioni vanno inoltrati al centro di riferimento indicato dall’UFSP.</td><td>\* Microscopia *o* rilevamento diretto biologico-molecolare *e/o* coltura \*\* Dichiarare in ogni caso: resistenza a isoniazide, rifampicina, etambutolo, pirazinamide. In caso di resistenza all’isoniazide *e* alla rifampicina, anche i risultati dell’esame di resistenza sono soggetti all’obbligo di dichiarazione.</td></tr>
 <tr><td>33 *Neisseria gonorrhoeae*</td><td>Referto positivo</td><td>1 settimana</td><td>– risultato con interpretazione – esame: materiale, metodo</td><td>– iniziali di nome e cognome, luogo di domicilio – data di nascita, sesso</td><td></td><td>[tab]</td></tr>
 <tr><td>34 *Neisseria meningitidis*</td><td>Referto positivo\*</td><td>24 ore</td><td>– risultato con interpretazione: sierogruppo, se noto – esame: materiale, metodo</td><td>– nome cognome e indirizzo; eventualmente luogo di dimora – data di nascita, sesso</td><td>Gli isolati o i campioni con risultato positivo alla PCR vanno inoltrati al centro di riferimento indicato dall’UFSP.</td><td>\* Solo da materiale normalmente sterile (p. es. sangue, liquor, liquido sinoviale; *non* da urina).</td></tr>
@@ -459,7 +457,7 @@ Elenco delle osservazioni che i laboratori devono dichiarare ai medici cantonali
 <tr><td>45 *Treponema pallidum*</td><td>Referto positivo</td><td>1 settimana</td><td>– risultato</td><td>– iniziali di nome e cognome, luogo di domicilio – data di nascita, sesso</td><td></td><td>[tab]</td></tr>
 <tr><td>46 *Trichinella spiralis*</td><td>Referto positivo</td><td>1 settimana</td><td>– risultato con interpretazione – esame: materiale, metodo</td><td>– iniziali di nome e cognome, luogo di domicilio – data di nascita, sesso</td><td></td><td>[tab]</td></tr>
 <tr><td>47 *Vibrio cholerae*</td><td>Referto positivo</td><td>24 ore</td><td>– risultato con interpretazione: sierotipo e rilevamento della tossina – esame: materiale, metodo</td><td>– cognome, nome, indirizzo e numero di telefono, eventualmente luogo di dimora – sesso, data di nascita</td><td>Gli isolati vanno inoltrati al centro di riferimento indicato dall’UFSP.</td><td>[tab]</td></tr>
-<tr><td>48 Virus del Nilo occidentale</td><td>Referto positivo</td><td>1 settimana</td><td>– risultato con interpretazione: tipo, se conosciuto – esame: materiale, metodo</td><td>– iniziali di nome e cognome, luogo di domicilio – data di nascita, sesso</td><td>I campioni vanno inoltrati al centro di riferimento indicato dall’UFSP.</td><td>[tab]</td></tr>
+<tr><td>48 Virus del Nilo occidentale</td><td>Referto positivo</td><td>24 ore</td><td>– risultato con interpretazione: tipo se noto – esame: materiale, metodo</td><td>– iniziali di nome e cognome, luogo di domicilio – data di nascita, sesso</td><td>I campioni vanno inoltrati al centro di riferimento indicato dall’UFSP.</td><td>[tab]</td></tr>
 <tr><td>49 *Yersinia pestis*</td><td>Referto positivo</td><td>2 ore, telefonicamente</td><td>– risultato con interpretazione – esame: materiale, metodo</td><td>– nome, cognome e indirizzo; eventualmente luogo di dimora – data di nascita, sesso</td><td>I campioni vanno inoltrati al centro di riferimento indicato dall’UFSP.</td><td>[tab]</td></tr>
 <tr><td>[tab]</td><td>Referto negativo</td><td>2 ore, telefonicamente</td><td>– risultato con interpretazione – esame: materiale, metodo</td><td>– nome, cognome e indirizzo; eventualmente luogo di dimora – data di nascita, sesso</td><td>I campioni vanno inoltrati al centro di riferimento indicato dall’UFSP.</td><td>[tab]</td></tr>
 <tr><td>50 Virus dell’encefalite da zecche</td><td>Referto positivo\*</td><td>1 settimana</td><td>– risultato con interpretazione – esame: materiale, metodo</td><td>– iniziali di nome e cognome, luogo di domicilio – data di nascita, sesso</td><td></td><td>\* Non dichiarare: accertamenti sullo stato immunitario.</td></tr>
@@ -469,28 +467,7 @@ Elenco delle osservazioni che i laboratori devono dichiarare ai medici cantonali
 
 Allegato 4*[^t-4]*
 
-(art. 5 cpv. 1)
-
-## Statistiche dei referti delle analisi di laboratorio
-
-[^t-4]: Aggiornato dal n. I dell’O del DFI del 1° mar. 2016 ([RU 2016 667](https://fedlex.data.admin.ch/eli/oc/2016/130)), dal n. II dell’O del DFI del 19 ott. 2016 ([RU 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)) e dal n. I dell’O del DFI del 10 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)).
-
-Elenco delle statistiche soggette all’obbligo di dichiarazione all’UFSP da parte dei laboratori
-
-<table>
-<tr><th>Osservazione</th><th></th></tr>
-<tr><td>*Campylobacter spp.*</td><td>Totale complessivo di tutti i test eseguiti durante un anno civile (per metodo e mese), specificando il numero di referti positivi</td></tr>
-<tr><td>*Enterobacteriaceae* producenti carbapenemasi</td><td>Totale complessivo di tutti i test eseguiti durante un anno civile (per metodo e mese), specificando il numero di referti positivi</td></tr>
-<tr><td>*Chlamydia trachomatis*</td><td>Totale complessivo di tutti i test eseguiti durante un anno civile (per metodo e mese), specificando il numero di referti positivi</td></tr>
-<tr><td>*Francisella tularensis*</td><td>Totale complessivo di tutti i test eseguiti durante un anno civile, specificando il numero di referti positivi e negativi</td></tr>
-<tr><td>*Virus HI*</td><td>Totale complessivo di tutti i test eseguiti durante un anno civile, specificando il numero di test reattivi e il numero di referti positivi confermati. Statistica basata soltanto sui test diagnostici (senza i test eseguiti nel quadro della donazione di sangue).</td></tr>
-<tr><td>*Legionella spp.*</td><td>Totale complessivo di tutti i test eseguiti durante un anno civile (per metodo e mese), specificando il numero di referti positivi</td></tr>
-<tr><td>*Neisseria gonorrhoeae*</td><td>Totale complessivo di tutti i test eseguiti durante un anno civile (per metodo e mese), specificando il numero di referti positivi</td></tr>
-<tr><td>*Salmonella spp.*</td><td>Totale complessivo di tutti i test eseguiti durante un anno civile (per metodo e mese), specificando il numero di referti positivi</td></tr>
-<tr><td>Virus dell’epatite C</td><td>Totale complessivo di tutti i test eseguiti durante un anno civile (per metodo e mese), specificando il numero di referti positivi.</td></tr>
-<tr><td>Virus dell’epatite E</td><td>Totale complessivo di tutti i test eseguiti durante un anno civile (per metodo e mese), specificando il numero di referti positivi.</td></tr>
-<tr><td>*Virus Zika*</td><td>Totale complessivo di tutti i test eseguiti durante un anno civile (per metodo e mese), specificando il numero di referti positivi.</td></tr>
-</table>
+[^t-4]: Abrogato dal n. II cpv. 2 dell’O del DFI del 25 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 Allegato 5*[^t-5]*
 

@@ -3,18 +3,18 @@ sr: "818.101.126"
 title: Verordnung des EDI vom 1. Dezember 2015 über die Meldung von Beobachtungen übertragbarer Krankheiten des Menschen (VMüK)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/892"
 language: de
-version: 2020-11-02
+version: 2022-01-01
 adopted: 2015-12-01
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/892/20201102/de/xml/fedlex-data-admin-ch-eli-cc-2015-892-20201102-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20201102/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/892/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-892-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Meldung von Beobachtungen übertragbarer Krankheiten des Menschen
 
-vom 1. Dezember 2015 (Stand am 2. November 2020)
+vom 1. Dezember 2015 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -119,11 +119,9 @@ Sie müssen zusätzlich zu den Angaben nach Absatz 1 gegebenenfalls Folgendes zu
 
 #### Art. 5
 
-**Statistiken zu laboranalytischen Befunden**
+[^5-1]
 
-<sup>1</sup> Die zu übermittelnden Statistiken zu laboranalytischen Befunden in Bezug auf die einzelnen Krankheitserreger sind in Anhang 4 aufgeführt.
-
-<sup>2</sup> Meldepflichtige Laboratorien müssen zusätzlich zu den Angaben nach Absatz 1 die Angaben nach Artikel 4 Absatz 2 übermitteln.
+[^5-1]: Aufgehoben durch Ziff. I der V des EDI vom 25. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 #### Art. 5a
 
@@ -236,9 +234,9 @@ Muss die Kantonsärztin oder der Kantonsarzt eine Meldung an das Bundesamt für 
 
 #### Art. 13
 
-**Übermittlung laboranalytischer Statistiken**
+[^13-1]
 
-Statistiken zu laboranalytischen Befunden müssen jährlich bis zum 31. Januar des Folgejahres dem BAG übermittelt werden.
+[^13-1]: Aufgehoben durch Ziff. I der V des EDI vom 25. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 #### Art. 13a
 
@@ -280,7 +278,7 @@ Das BAG überprüft in Zusammenarbeit mit den Kantonsärztinnen und Kantonsärzt
 
 Die Verordnung des EDI vom 13. Januar 1999[^17-1] über Arzt- und Labormeldungen wird aufgehoben.
 
-[^17-1]: [[AS 1999 1100](https://fedlex.data.admin.ch/eli/oc/1999/145), [2003 5205](https://fedlex.data.admin.ch/eli/oc/2003/768), [2006 105](https://fedlex.data.admin.ch/eli/oc/2006/30), [2013 3847](https://fedlex.data.admin.ch/eli/oc/2013/707)]
+[^17-1]: [[AS 1999 1100](https://fedlex.data.admin.ch/eli/oc/1999/145); [2003 5205](https://fedlex.data.admin.ch/eli/oc/2003/768); [2006 105](https://fedlex.data.admin.ch/eli/oc/2006/30); [2013 3847](https://fedlex.data.admin.ch/eli/oc/2013/707)]
 
 #### Art. 18
 
@@ -294,7 +292,7 @@ Anhang 1*[^t-1]*
 
 ## Meldungen von klinischen Befunden
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 1. März 2016 ([AS 2016 667](https://fedlex.data.admin.ch/eli/oc/2016/130)), Ziff. II der V des EDI vom 19. Okt. 2016 ([AS 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), Ziff. I der V des EDI vom 10. Nov. 2017 ([AS 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), Ziff. II Abs. 1 der V des EDI vom 1. Nov. 2019 ([AS 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), Ziff. I der V des EDI vom 29. Jan. 2020 ([AS 2020 359](https://fedlex.data.admin.ch/eli/oc/2020/61)) und vom 16. Juli 2020, in Kraft seit 20. Juli 2020 ([AS 2020 2923](https://fedlex.data.admin.ch/eli/oc/2020/544)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 1. März 2016 ([AS 2016 667](https://fedlex.data.admin.ch/eli/oc/2016/130)), Ziff. II der V des EDI vom 19. Okt. 2016 ([AS 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), Ziff. I der V des EDI vom 10. Nov. 2017 ([AS 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), Ziff. II Abs. 1 der V des EDI vom 1. Nov. 2019 ([AS 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), Ziff. I der V des EDI vom 29. Jan. 2020 ([AS 2020 359](https://fedlex.data.admin.ch/eli/oc/2020/61)) und Ziff. II Abs. 1 der V des EDI vom 25. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 Liste der Beobachtungen, die Ärztinnen und Ärzte, Spitäler und andere öffentliche und private Institutionen des Gesundheitswesens den zuständigen Kantonsärztinnen und Kantonsärzten melden müssen.
 
@@ -334,7 +332,7 @@ Liste der Beobachtungen, die Ärztinnen und Ärzte, Spitäler und andere öffent
 <tr><td>30 Masern</td><td>Klinischer Verdacht aufgrund Trias\*: 1. Fieber, 2. makulopapulöses Exanthem, 3. Husten, Rhinitis oder Konjunktivitis</td><td>24 Stunden</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Verlauf – Exposition – Impfstatus – Massnahmen</td><td>– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht, Staatsangehörigkeit</td><td>Nein</td><td>[tab] Auf Anfrage der Kantonsärztin oder des Kantonsarzts muss eine Probe zwecks Genotypisierung an ein vom BAG bezeichnetes Referenzzentrum gesendet werden. \* oder bei fehlender, unspezifischer Klinik bzw. einem Zufallsbefund spätestens bei Vorliegen des positiven laboranalytischen Befundes.</td></tr>
 <tr><td>31 Meningokokken-Erkrankung, invasive</td><td>Klinischer Verdacht *und* Veranlassung einer erregerspezifischen Labordiagnostik\* \*\*</td><td>24 Stunden</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Verlauf – Exposition – Impfstatus – Risikoverhalten oder Risikofaktoren – Massnahmen</td><td>– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht, Staatsangehörigkeit</td><td>Nein</td><td>\* nur von normalerweise sterilem Material wie Blut, Liquor, Gelenkflüssigkeit; *kein* Urin. \*\* oder bei fehlender, unspezifischer Klinik bzw. einem Zufallsbefund spätestens bei Vorliegen des positiven laboranalytischen Befundes.</td></tr>
 <tr><td>32 MERS-Coronavirus</td><td>Klinischer Verdacht\* *und* Veranlassung einer erregerspezifischen Labordiagnostik *und* Epidemiologischer Zusammenhang\*\*</td><td>24 Stunden</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Exposition – Massnahmen</td><td>– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht, Staatsangehörigkeit – berufliche Tätigkeit</td><td>Nein</td><td>Proben sind an das vom BAG bezeichnete Referenzzentrum zu senden. \* oder bei fehlender, unspezifischer Klinik bzw. einem Zufallsbefund: spätestens bei Vorliegen des positiven laboranalytischen Befundes. \*\* Kriterien werden in Abhängigkeit der Epidemie definiert.</td></tr>
-<tr><td>32*a* Neuartiges Coronavirus (Covid-19)</td><td>Erfüllte klinische Kriterien\* *und* positiver laboranalytischer Befund\* *oder* CT-Scan vereinbar mit Covid-19 *oder* erfüllte epidemiologische Kriterien\*</td><td>24 Stunden\*\*</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Verlauf – Exposition – Impfstatus, Immunstatus – Risikoverhalten und Risikofaktoren – Massnahmen</td><td>– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht, Staatsangehörigkeit – berufliche Tätigkeit</td><td>Ja</td><td>\* Kriterien werden in Abhängigkeit der Epidemie definiert. \*\* Das BAG bezeichnet die Meldemittel.</td></tr>
+<tr><td>32*a* Covid-19</td><td>Positiver laboranalytischer Befund\*</td><td>24 Stunden\*\*</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Verlauf – Exposition – Impfstatus, Immunstatus – Risikoverhalten und Risikofaktoren – Massnahmen</td><td>– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht, Staatsangehörigkeit – berufliche Tätigkeit</td><td>Ja</td><td>Auf Anfrage der Kantonsärztin oder des Kantonsarzts muss eine Probe zwecks Sequenzierung an eine vom BAG bezeichnete Stelle gesendet werden. \* gemäss den Vorgaben der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 1. Januar 2022. \*\* Das BAG bezeichnet die Meldemittel.</td></tr>
 <tr><td>33 Pest</td><td>Klinischer Verdacht *und* Rücksprache mit Fachärztin oder Facharzt für Infektiologie *und* Veranlassung einer erregerspezifischen Labordiagnostik\*</td><td>2 Stunden, telefonisch</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Exposition – Massnahmen</td><td>– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht, Staatsangehörigkeit – berufliche Tätigkeit</td><td>Ja</td><td>Proben sind an das vom BAG bezeichnete Referenzzentrum zu senden. \* oder bei fehlender, unspezifischer Klinik bzw. einem Zufallsbefund spätestens bei Vorliegen des positiven laboranalytischen Befundes.</td></tr>
 <tr><td>34 Pneumokokken-Erkrankung, invasive</td><td>Positiver laboranalytischer Befund\*</td><td>1 Woche</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Verlauf – Impfstatus – Risikoverhalten oder Risikofaktoren</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht, Staatsangehörigkeit</td><td>Nein</td><td>\* nur von normalerweise sterilem Material wie Blut, Liquor, Gelenkflüssigkeit; *kein* Urin.</td></tr>
 <tr><td>35 Pocken</td><td>Klinischer Verdacht *und* Rücksprache mit Fachärztin oder Facharzt für Infektiologie *und* Veranlassung einer erregerspezifischen Labordiagnostik\*</td><td>2 Stunden, telefonisch</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Exposition – Impfstatus – Massnahmen</td><td>– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht, Staatsangehörigkeit – berufliche Tätigkeit</td><td>Ja</td><td>Proben sind an das vom BAG bezeichnete Referenzzentrum zu senden. \* oder bei fehlender, unspezifischer Klinik bzw. einem Zufallsbefund spätestens bei Vorliegen des positiven laboranalytischen Befundes.</td></tr>
@@ -348,7 +346,7 @@ Liste der Beobachtungen, die Ärztinnen und Ärzte, Spitäler und andere öffent
 <tr><td>43 Tuberkulose</td><td>Beginn einer Behandlung\* mit ≥ 3 verschiedenen Antituberkulotika\*\* *oder* Nachweis von Mykobakterien des Tuberculosis-Komplex in klinischem Material</td><td>1 Woche</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Verlauf – Massnahmen – laboranalytischer Befund</td><td>– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht, Staatsangehörigkeit – Herkunftsland</td><td>Nein</td><td>\* Nicht melden: Diagnose oder Behandlung der latenten Infektion (positive Tuberkulinreaktion oder positiver Interferon-Gamma-*Release Assay*). \*\* oder bei fehlender, unspezifischer Klinik bzw. einem Zufallsbefund spätestens bei Vorliegen des positiven laboranalytischen Befundes.</td></tr>
 <tr><td>44 Tularämie</td><td>Positiver laboranalytischer Befund</td><td>1 Woche</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Exposition</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht, Staatsangehörigkeit – berufliche Tätigkeit</td><td>Nein</td><td></td></tr>
 <tr><td>45 Typhus abdominalis / Paratyphus</td><td>Positiver laboranalytischer Befund</td><td>24 Stunden</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Verlauf – Exposition – Impfstatus – Risikoverhalten oder Risikofaktor</td><td>– Vorname, Name, Adresse und Telefonnummer – Geburtsdatum, Geschlecht, Staatsangehörigkeit – berufliche Tätigkeit</td><td>Nein</td><td></td></tr>
-<tr><td>46 West-Nil-Fieber</td><td>Positiver laboranalytischer Befund</td><td>1 Woche</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Verlauf – Exposition</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht, Staatsangehörigkeit</td><td>Nein</td><td></td></tr>
+<tr><td>46 West-Nil-Fieber</td><td>Positiver laboranalytischer Befund</td><td>24 Stunden</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Verlauf – Exposition</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht, Staatsangehörigkeit</td><td>Nein</td><td></td></tr>
 <tr><td>47 Zika-Fieber</td><td>Positiver laboranalytischer Befund</td><td>24 Stunden</td><td>– Diagnose und Manifestation – veranlasste Labordiagnostik – Verlauf – Exposition – Risikoverhalten oder Risikofaktoren – Impfstatus – Massnahmen</td><td>– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht, Staatsangehörigkeit</td><td>Nein</td><td>Proben von Schwangeren sind an das vom BAG bezeichnete Referenzzentrum zu senden.</td></tr>
 </table>
 
@@ -361,7 +359,7 @@ Anhang 2*[^t-2]*
 
 ## Ergänzungsmeldungen von klinischen Befunden
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des EDI vom 10. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)).
+[^t-2]: Bereinigt gemäss Ziff. I der V des EDI vom 10. Nov. 2017 ([AS 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)) und Ziff. II Abs. 1 der V des EDI vom 25. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 Liste der Beobachtungen, die Ärztinnen und Ärzte, Spitäler und andere öffentliche und private Institutionen des Gesundheitswesens den zuständigen Kantonsärztinnen und Kantonsärzten ergänzend zu den betreffenden Beobachtungen nach Anhang 1 melden müssen.
 
@@ -370,7 +368,7 @@ Liste der Beobachtungen, die Ärztinnen und Ärzte, Spitäler und andere öffent
 <tr><td>1 Creutzfeldt-Jakob-Krankheit (CJK)</td><td>Tod einer Patientin oder eines Patienten mit Verdacht auf CJK *oder* Bestätigung einer vCJK durch Autopsie</td><td>1 Woche</td><td>– Diagnose und Manifestation – Verlauf</td><td>– Vorname, Name – Geburtsdatum, Geschlecht</td><td></td></tr>
 <tr><td>2 Masern</td><td>Spitalaustritt einer hospitalisierten Patientin oder eines hospitalisierten Patienten mit positivem laboranalytischem Befund für Masern *oder* Tod eines Masern-(Verdachts-)Falls</td><td>1 Woche</td><td>– Diagnose und Manifestation – Verlauf – Risikoverhalten oder Risikofaktoren</td><td>– Vorname, Name – Geburtsdatum, Geschlecht</td><td></td></tr>
 <tr><td>3 Röteln, kongenitale</td><td>Laborbestätigte Infektion mit Rötelnvirus während der Schwangerschaft *und* am Ende der Schwangerschaft\* oder Laborbestätigte Infektion mit Rötelnvirus bei einem Neugeborenen oder einer Totgeburt oder Kongenitales Rötelnsyndrom bei einem Neugeborenen, einer Totgeburt oder einem Kleinkind bzw. entsprechender Verdacht\*\*</td><td>1 Woche</td><td>– Diagnose und Manifestation – Verlauf – Massnahmen – veranlasste Labordiagnostik – Laborbefund: alle Resultate inklusiv IgG-Aviditätstests für Mutter und Kind</td><td>– Name, Vorname von Mutter und Kind sowie Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geschlecht des Kindes, Geburtsdatum von Mutter und Kind</td><td>\* durch Geburt, Spontanabort oder Abtreibung. \*\* auch ohne vorliegende Laborbestätigung bzw. unabhängig von einer Meldung zum klinischen Befund</td></tr>
-<tr><td>4 Tuberkulose</td><td>Aufforderung durch die Kantonsärztin oder den Kantonsarzt, das Behandlungsresultat zu melden.\*</td><td>1 Woche</td><td>– Verlauf – Behandlungsresultat – Massnahmen</td><td>– Vorname, Name – Geburtsdatum, Geschlecht</td><td>\* Die Angaben zum Behandlungsresultat sind 12 Monate nach Behandlungsbeginn, bei einer multiresistenten Tuberkulose 24 Monate nach Behandlungsbeginn fällig.</td></tr>
+<tr><td>4 Tuberkulose</td><td>Abschluss der Behandlung\* *und/**oder* Wechsel der Behandlung mit Heilmitteln der ersten Wahl (Isoniazid, Rifampicin, Ethambutol, Pyrazinamid) zu Reservemedikamenten (insbesondere Fluoroquinolone, Amikacin, Kanamycin, Bedaquiline, Delamanid, Linezolid) *und/**oder* Kantonswechsel *und/**oder* Aufforderung der Kantonsärztin oder des Kantonsarzts, das Behandlungsresultat zu melden</td><td>1 Woche</td><td>– Verlauf – Behandlungsresultat – Massnahmen</td><td>– Vorname, Name – Geburtsdatum, Geschlecht</td><td>\* Als Abschluss der Behandlung gelten: Therapieerfolg, Therapieabbruch, Therapieversagen, Überweisung oder Tod.</td></tr>
 </table>
 
 Anhang 3*[^t-3]*
@@ -379,7 +377,7 @@ Anhang 3*[^t-3]*
 
 ## Meldungen von laboranalytischen Befunden
 
-[^t-3]: Bereinigt gemäss Ziff. I der V des EDI vom 1. März 2016 ([AS 2016 667](https://fedlex.data.admin.ch/eli/oc/2016/130)), Ziff. II der V des EDI vom 19. Okt. 2016 ([AS 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), Ziff. I der V des EDI vom 10. Nov. 2017 ([AS 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), vom 15. Nov. 2018 ([AS 2018 5073](https://fedlex.data.admin.ch/eli/oc/2018/788)), Ziff. II Abs. 1 der V des EDI vom 1. Nov. 2020 ([AS 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), Ziff. I der V des EDI vom 29. Jan. 2020 ([AS 2020 359](https://fedlex.data.admin.ch/eli/oc/2020/61)), vom 16. Juli 2020 ([AS 2020 2923](https://fedlex.data.admin.ch/eli/oc/2020/544)) und Ziff. II der V des EDI vom 28. Okt. 2020, in Kraft seit 2. Nov. 2020 ([AS 2020 4493](https://fedlex.data.admin.ch/eli/oc/2020/791)).
+[^t-3]: Bereinigt gemäss Ziff. I der V des EDI vom 1. März 2016 ([AS 2016 667](https://fedlex.data.admin.ch/eli/oc/2016/130)), Ziff. II der V des EDI vom 19. Okt. 2016 ([AS 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), Ziff. I der V des EDI vom 10. Nov. 2017 ([AS 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), vom 15. Nov. 2018 ([AS 2018 5073](https://fedlex.data.admin.ch/eli/oc/2018/788)), Ziff. II Abs. 1 der V des EDI vom 1. Nov. 2020 ([AS 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), Ziff. I der V des EDI vom 29. Jan. 2020 ([AS 2020 359](https://fedlex.data.admin.ch/eli/oc/2020/61)), Ziff. II der V des EDI vom 28. Okt. 2020 ([AS 2020 4493](https://fedlex.data.admin.ch/eli/oc/2020/791)) und Ziff. II Abs. 1 der V des EDI vom 25. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 Liste der Beobachtungen, die Laboratorien den zuständigen Kantonsärztinnen und Kantonsärzten und dem BAG melden müssen.
 
@@ -435,8 +433,8 @@ Liste der Beobachtungen, die Laboratorien den zuständigen Kantonsärztinnen und
 <tr><td>[tab]</td><td>Negativer Befundbei PCR-Analyse</td><td colspan="2">24 Stunden</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="3"></td><td colspan="2">[tab]</td></tr>
 <tr><td>31 MERS-Coronavirus</td><td>Positiver Befund</td><td colspan="2">2 Stunden, telefonisch</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="3">Proben sind an das vom BAG bezeichnete Referenzzentrum weiterzuleiten.</td><td colspan="2">[tab]</td></tr>
 <tr><td>[tab]</td><td>Negativer Befund</td><td colspan="2">2 Stunden, telefonisch</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="3">Proben sind an das vom BAG bezeichnete Referenzzentrum weiterzuleiten.</td><td colspan="2">[tab]</td></tr>
-<tr><td>31*a* Neuartiges Coronavirus (Sars-CoV-2)</td><td>Positiver Befund\*</td><td colspan="2">2 Stunden\*\*</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td colspan="2">– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="2">Proben sind an das vom BAG bezeichnete Referenzzentrum weiterzuleiten.</td><td colspan="2">\* Kriterien werden in Abhängigkeit der Epidemie definiert. \*\* Das BAG bezeichnet die Meldemittel.</td></tr>
-<tr><td>[tab]</td><td>Negativer Befund\*</td><td colspan="2">24 Stunden\*\*</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td colspan="2">– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="2">Proben sind an das vom BAG bezeichnete Referenzzentrum weiterzuleiten.</td><td colspan="2">\* Kriterien werden in Abhängigkeit der Epidemie definiert. \*\* Das BAG bezeichnet die Meldemittel.</td></tr>
+<tr><td>31*a* Sars-CoV-2</td><td>Positiver Befund\*</td><td colspan="2">2 Stunden \*\*</td><td>– Resultat mit Interpretation: falls bekannt, Charakterisierung der Genomvariante – Untersuchung: Material, Methode</td><td colspan="2">– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="2">Ausgewählte Proben sind an die vom BAG bezeichnete Stelle weiterzuleiten. Auf Anfrage der Kantonsärztin oder des Kantonsarzts muss eine Probe zwecks Sequenzierung an eine vom BAG bezeichnete Stelle gesendet werden.</td><td colspan="2">\* gemäss den Vorgaben der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 1. Januar 2022. \*\* Das BAG bezeichnet die Meldemittel.</td></tr>
+<tr><td>[tab]</td><td>Negativer Befund\*</td><td colspan="2">24 Stunden\*\*</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td colspan="2">– Vorname, Name, Adresse und Telefonnummer; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="2"></td><td colspan="2">\* gemäss den Vorgaben der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 1. Januar 2022. \*\* Das BAG bezeichnet die Meldemittel.</td></tr>
 <tr><td>32 *Mycobacterium tuberculosis*-Komplex</td><td>Positiver Befund\*</td><td colspan="2">24 Stunden</td><td>– Resultat mit Interpretation: Spezies, Resistenzprofil\*\* – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="3">Bei Resistenz gegen Rifampicin sind Proben an das vom BAG bezeichnete Referenzzentrum weiterzuleiten.</td><td colspan="2">\* Mikroskopie *oder* molekularbiologischer Direktnachweis *und/oder* Kultur. \*\* In jedem Fall melden: Resistenzen für Isoniazid, Rifampicin, Ethambutol, Pyrazinamid. Bei Resistenz gegen Isoniazid *und* Rifampicin sind die Resultate der erweiterten Resistenzprüfung ebenfalls zu melden.</td></tr>
 <tr><td>33 *Neisseria gonorrhoeae*</td><td>Positiver Befund</td><td colspan="2">1 Woche</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht</td><td colspan="3"></td><td colspan="2">[tab]</td></tr>
 <tr><td>34 *Neisseria meningitidis*</td><td>Positiver Befund\*</td><td colspan="2">24 Stunden</td><td>– Resultat mit Interpretation: Serogruppe, falls bekannt – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="3">Isolate oder Proben mit PCR-positivem Befund sind an das vom BAG bezeichnete Referenzzentrum weiterzuleiten.</td><td colspan="2">\* Nur von normalerweise sterilem Material wie Blut, Liquor, Gelenkflüssigkeit; *kein* Urin.</td></tr>
@@ -458,7 +456,7 @@ Liste der Beobachtungen, die Laboratorien den zuständigen Kantonsärztinnen und
 <tr><td>45 *Treponema pallidum*</td><td>Positiver Befund</td><td colspan="2">1 Woche</td><td>– Resultat</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht</td><td colspan="3"></td><td colspan="2">[tab]</td></tr>
 <tr><td>46 *Trichinella spiralis*</td><td>Positiver Befund</td><td colspan="2">1 Woche</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht</td><td colspan="3"></td><td colspan="2">[tab]</td></tr>
 <tr><td>47 *Vibrio cholerae*</td><td>Positiver Befund</td><td colspan="2">24 Stunden</td><td>– Resultat mit Interpretation: Serotyp und Toxinnachweis – Untersuchung: Material, Methode</td><td>– Name, Vorname sowie Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="3">Isolate sind an das vom BAG bezeichnete Referenzzentrum weiterzuleiten.</td><td colspan="2">[tab]</td></tr>
-<tr><td>48 West-Nil-Virus</td><td>Positiver Befund</td><td colspan="2">1 Woche</td><td>– Resultat mit Interpretation: Typ falls bekannt – Untersuchung: Material, Methode</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht</td><td colspan="3">Proben sind an das vom BAG bezeichnete Referenzzentrum weiterzuleiten.</td><td colspan="2">[tab]</td></tr>
+<tr><td>48 West-Nil-Virus</td><td>Positiver Befund</td><td colspan="2">24 Stunden</td><td>– Resultat mit Interpretation: Typ falls bekannt – Untersuchung: Material, Methode</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht</td><td colspan="3">Proben sind an das vom BAG bezeichnete Referenzzentrum weiterzuleiten.</td><td colspan="2">[tab]</td></tr>
 <tr><td>49 *Yersinia pestis*</td><td>Positiver Befund</td><td colspan="2">2 Stunden, telefonisch</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="3">Proben sind an das vom BAG bezeichnete Referenzzentrum weiterzuleiten.</td><td colspan="2">[tab]</td></tr>
 <tr><td>[tab]</td><td>Negativer Befund</td><td colspan="2">2 Stunden, telefonisch</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht</td><td colspan="3">Proben sind an das vom BAG bezeichnete Referenzzentrum weiterzuleiten.</td><td colspan="2">[tab]</td></tr>
 <tr><td>50 Zeckenenzephalitisvirus</td><td>Positiver Befund\*</td><td colspan="2">1 Woche</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht</td><td colspan="3"></td><td colspan="2">\* Nicht melden: Abklärungen zum Immunstatus.</td></tr>
@@ -468,28 +466,7 @@ Liste der Beobachtungen, die Laboratorien den zuständigen Kantonsärztinnen und
 
 Anhang 4*[^t-4]*
 
-(Art. 5 Abs. 1)
-
-## Statistiken zu laboranalytischen Befunden
-
-[^t-4]: Bereinigt gemäss Ziff. I der V des EDI vom 1. März 2016 ([AS 2016 667](https://fedlex.data.admin.ch/eli/oc/2016/130)), Ziff. II der V des EDI vom 19. Okt. 2016 ([AS 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)) und Ziff. I der V des EDI vom 10. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)).
-
-Liste der Statistiken, die Laboratorien dem BAG melden müssen.
-
-<table>
-<tr><th>Beobachtung</th><th></th></tr>
-<tr><td>*Campylobacter spp.*</td><td>Gesamttotal aller durchgeführten Tests eines Kalenderjahrs (nach Methode und Monat), davon die Anzahl der positiven Befunde.</td></tr>
-<tr><td>Carbapenemase bildende *Enterobacteriaceae*</td><td>Gesamttotal aller durchgeführten Tests eines Kalenderjahrs (nach Methode und Monat), davon die Anzahl der positiven Befunde.</td></tr>
-<tr><td>*Chlamydia trachomatis*</td><td>Gesamttotal aller durchgeführten Tests eines Kalenderjahrs (nach Methode und Monat), davon die Anzahl der positiven Befunde.</td></tr>
-<tr><td>*Francisella tularensis*</td><td>Gesamttotal aller durchgeführten Tests eines Kalenderjahrs, davon die Anzahl der positiven und negativen Befunde.</td></tr>
-<tr><td>Hepatitis-C-Virus</td><td>Gesamttotal aller durchgeführten Tests eines Kalenderjahrs (nach Methode und Monat), davon die Anzahl der positiven Befunde.</td></tr>
-<tr><td>Hepatitis-E-Virus</td><td>Gesamttotal aller durchgeführten Tests eines Kalenderjahrs (nach Methode und Monat), davon die Anzahl der positiven Befunde.</td></tr>
-<tr><td>*HI-Virus*</td><td>Gesamttotal aller durchgeführten Tests eines Kalenderjahrs, davon die Anzahl reaktiver Tests, davon die Anzahl der bestätigten positiven Befunde. Statistik nur über diagnostische Tests (ohne Blutspende) aufführen.</td></tr>
-<tr><td>*Legionella spp.*</td><td>Gesamttotal aller durchgeführten Tests eines Kalenderjahrs (nach Methode und Monat), davon die Anzahl der positiven Befunde.</td></tr>
-<tr><td>*Neisseria gonorrhoeae*</td><td>Gesamttotal aller durchgeführten Tests eines Kalenderjahrs (nach Methode und Monat), davon die Anzahl der positiven Befunde.</td></tr>
-<tr><td>*Salmonella spp.*</td><td>Gesamttotal aller durchgeführten Tests eines Kalenderjahrs (nach Methode und Monat), davon die Anzahl der positiven Befunde.</td></tr>
-<tr><td>*Zika-Virus*</td><td>Gesamttotal aller durchgeführten Tests eines Kalenderjahrs (nach Methode und Monat), davon die Anzahl der positiven Befunde.</td></tr>
-</table>
+[^t-4]: Aufgehoben durch Ziff. II Abs. 2 der V des EDI vom 25. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)).
 
 Anhang 5*[^t-5]*
 
