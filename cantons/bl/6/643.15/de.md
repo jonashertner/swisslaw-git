@@ -3,20 +3,19 @@ canton: BL
 number: "643.15"
 title: Verordnung über den Besuch von Schulen der Sekundarstufe II im Kanton Basel-Stadt durch Schülerinnen und Schüler der Einwohnergemeinden Allschwil und Schönenbuch
 language: de
-version: 2007-08-01
-valid_until: 2021-12-31
-version_adopted: 2006-08-22
+version: 2022-01-01
+version_adopted: 2021-06-22
 adopted: 2002-11-05
 in_force: 2003-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.15"
-pdf: "https://bl.clex.ch/api/de/versions/183/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3033/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Besuch von Schulen der Sekundarstufe II im Kanton Basel-Stadt durch Schülerinnen und Schüler der Einwohnergemeinden Allschwil und Schönenbuch
 
-Vom 05.11.2002 (Stand 01.08.2007)
+Vom 05.11.2002 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
@@ -27,7 +26,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 <sup>1</sup> Schülerinnen und Schülern mit stipendienrechtlichem Wohnsitz in den Einwohnergemeinden Allschwil und Schönenbuch, welche die Sekundarschule Allschwil besucht haben, steht der Besuch der folgenden Schulen im Kanton Basel-Stadt offen:
 
 - a. Gymnasium (10.-12. Schuljahr),
-- b. Diplommittelschule,
+- b. …
 - c. Wirtschaftsmittelschule.
 
 <sup>2</sup> Der Besuch der Sportklasse am Gymnasium Bäumlihof erfordert die Genehmigung der Bildungs-, Kultur- und Sportdirektion.
