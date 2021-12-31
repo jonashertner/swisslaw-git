@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20210101/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 1. Januar 2021)
+vom 1. November 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -139,11 +139,11 @@ Die Netzbetreiber müssen der Vollzugsstelle vierteljährlich die Menge Elektriz
 
 [^6-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-## 3. Kapitel: Guichet unique, nationales Interesse und baubewilligungsfreie Bauten und Anlagen****
+## 3. Kapitel: Guichet unique, Wasserkraftvorhaben und kantonale Richtplanung, nationales Interesse und baubewilligungsfreie Bauten und Anlagen****
 
 [^chap3-1]
 
-[^chap3-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^chap3-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 ### 1. Abschnitt: Guichet unique
 
@@ -154,6 +154,20 @@ Die Netzbetreiber müssen der Vollzugsstelle vierteljährlich die Menge Elektriz
 <sup>2</sup> Die zuständigen Bundesstellen haben ihre Stellungnahmen und Bewilligungen innert zweier Monate nach Aufforderung durch das BFE bei diesem einzureichen, sofern in anderen Bundeserlassen keine abweichenden Fristen vorgesehen sind. In besonders komplexen Verfahren kann das BFE die Frist von zwei Monaten um maximal zwei Monate verlängern.[^7-1]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+
+### [1*a*. Abschnitt:](https://www.admin.ch/opc/de/classified-compilation/20162945/index.html) [Wasserkraftvorhaben und kantonale Richtplanung](https://www.admin.ch/opc/de/classified-compilation/20162945/index.html)
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+
+#### Art. 7a
+
+<sup>1</sup> Für die Erteilung von Konzessionen oder Bewilligungen für Wasserkraftanlagen ist keine Festlegung der geeigneten Gewässerstrecken nach Artikel 10 EnG erforderlich. Vorhaben mit gewichtigen Auswirkungen auf Raum und Umwelt bedürfen weiterhin einer Grundlage im Richtplan (Art. 8 Abs. 2 des Raumplanungsgesetzes vom 22. Juni 1979[^7a-1]).
+
+<sup>2</sup> Wasserkraftanlagen ohne gewichtige Auswirkungen auf Raum und Umwelt bedürfen keiner Grundlage im Richtplan, auch wenn sie von nationalem Interesse sind.
+
+[^7a-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
 
 ### 2. Abschnitt: Nationales Interesse
 
@@ -170,14 +184,31 @@ Neue Wasserkraftanlagen sind von nationalem Interesse, wenn sie über:
 
 <sup>2</sup>
 
-Bestehende Wasserkraftanlagen sind von nationalem Interesse, wenn sie durch die Erweiterung oder Erneuerung:
+Bestehende Wasserkraftanlagen sind von nationalem Interesse, wenn sie über:
 
-- a. eine mittlere erwartete Produktion von jährlich mindestens 10 GWh erreichen; oder
-- b. eine mittlere erwartete Produktion von jährlich mindestens 5 GWh erreichen und über mindestens 400 Stunden Stauinhalt bei Vollleistung verfügen.
+- a. eine mittlere erwartete Produktion von jährlich mindestens 10 GWh verfügen; oder
+- b. eine mittlere erwartete Produktion von jährlich mindestens 5 GWh und über mindestens 400 Stunden Stauinhalt bei Vollleistung verfügen.[^8-1]
+
+<sup>2bis</sup> Werden bestehende Wasserkraftanlagen erneuert oder erweitert, so sind diese auch dann von nationalem Interesse, wenn die Schwellenwerte nach Absatz 2 nur vor oder nach der Erneuerung oder der Erweiterung erreicht werden.[^8-2]
+
+<sup>2ter</sup>
+
+Bewirkt eine Erweiterung oder eine Erneuerung eine neue schwerwiegende Beeinträchtigung eines Objekts von nationaler Bedeutung in einem Bundesinventar nach Artikel 5 Absatz 1 des Bundesgesetzes vom 1. Juli 1966[^8-3] über den Natur- und Heimatschutz (NHG) oder eine Abweichung von den Schutzzielen eines Biotops von nationaler Bedeutung nach Artikel 18*a* NHG, so ist die Wasserkraftanlage von nationalem Interesse, wenn zusätzlich zu den Schwellenwerten nach Absatz 2:
+
+- a. bei einer Erweiterung die Leistung, die Produktion oder der Stauinhalt um mindestens 20 Prozent oder 10 GWh erhöht wird;
+- b. bei einer Erneuerung der Wegfall von mindestens 20 Prozent der Produktion oder des Stauinhalts oder von mindestens 10 GWh verhindert wird.[^8-4]
+
+<sup>2quater</sup> Bestehende Speicherkraftwerke, deren Wasserspeicher erweitert werden, sind von nationalem Interesse, wenn der zusätzliche Stauinhalt eines Sees mindestens 10 GWh beträgt.[^8-5]
 
 <sup>3</sup> Liegt bei neuen Wasserkraftanlagen die erwartete mittlere Produktion zwischen 10 und 20 GWh pro Jahr und bei bestehenden zwischen 5 und 10 GWh pro Jahr, so reduziert sich die Anforderung an den Stauinhalt linear.
 
 <sup>4</sup> Pumpspeicherkraftwerke sind von nationalem Interesse, wenn sie über eine installierte Leistung von mindestens 100 MW verfügen.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^8-4]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-5]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 9
 
@@ -313,7 +344,9 @@ Die Grundeigentümerin oder der Grundeigentümer stellt den einzelnen Mieterinne
 
 <sup>2</sup> Die anrechenbaren Kapitalkosten dürfen den angemessenen Satz für Verzinsung und Amortisation der Investition nicht überschreiten.
 
-<sup>3</sup> Den Mieterinnen und Mietern darf für die internen Kosten nach Absatz 1 Buchstaben a und c nicht mehr in Rechnung gestellt werden, als die Kosten des externen Standardstromprodukts betragen würden, wenn die Mieterinnen und Mieter nicht Teil des Zusammenschlusses wären. Sind die internen Kosten tiefer als die Kosten dieses externen Standardstromprodukts, so kann die Grundeigentümerin oder der Grundeigentümer den Mieterinnen und Mietern zusätzlich höchstens die Hälfte der erzielten Einsparung in Rechnung stellen.[^16-3]
+<sup>2bis</sup> Übernimmt ein Dritter die Finanzierung der Anlage und nimmt er dazu Fremdkapital auf, so kann die Grundeigentümerin oder der Grundeigentümer wählen, ob sie oder er die nach Absatz 2 berechneten Kapitalkosten oder stattdessen die tatsächlich anfallenden Schuldzinsen in Rechnung stellt.[^16-3]
+
+<sup>3</sup> Den Mieterinnen und Mietern darf für die internen Kosten nach Absatz 1 Buchstaben a und c nicht mehr in Rechnung gestellt werden, als die Kosten des externen Standardstromprodukts betragen würden, wenn die Mieterinnen und Mieter nicht Teil des Zusammenschlusses wären. Sind die internen Kosten tiefer als die Kosten dieses externen Standardstromprodukts, so kann die Grundeigentümerin oder der Grundeigentümer den Mieterinnen und Mietern zusätzlich höchstens die Hälfte der erzielten Einsparung in Rechnung stellen.[^16-4]
 
 <sup>4</sup>
 
@@ -332,12 +365,13 @@ Mieterinnen und Mieter und Pächterinnen und Pächter können ihre Teilnahme am 
 
 <sup>6</sup> Die Beendigung ist der Grundeigentümerin oder dem Grundeigentümer drei Monate im Voraus schriftlich und begründet mitzuteilen.
 
-<sup>7</sup> Grundeigentümerinnen und Grundeigentümer, die für die Versorgung von Mieterinnen und Mietern und Pächterinnen und Pächtern zuständig sind, sind von der Pflicht, die Tarife zu veröffentlichen und eine Kostenträgerrechnung nach Artikel 4 StromVV[^16-4] zu führen, befreit.
+<sup>7</sup> Grundeigentümerinnen und Grundeigentümer, die für die Versorgung von Mieterinnen und Mietern und Pächterinnen und Pächtern zuständig sind, sind von der Pflicht, die Tarife zu veröffentlichen und eine Kostenträgerrechnung nach Artikel 4 StromVV[^16-5] zu führen, befreit.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
 [^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^16-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
-[^16-4]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^16-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^16-4]: Fassung gemäss Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^16-5]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
 #### Art. 17
 
@@ -361,19 +395,20 @@ Mieterinnen und Mieter und Pächterinnen und Pächter können ihre Teilnahme am 
 
 Grundeigentümerinnen und Grundeigentümer haben dem Netzbetreiber je drei Monate im Voraus Folgendes mitzuteilen:
 
-- a. die Bildung eines Zusammenschlusses zum Eigenverbrauch und die allenfalls teilnehmenden Mieterinnen und Mieter oder Pächterinnen und Pächter sowie die Vertreterin oder den Vertreter des Zusammenschlusses;
+- a.[^18-1] die Bildung eines Zusammenschlusses zum Eigenverbrauch, die Vertreterin oder den Vertreter dieses Zusammenschlusses sowie daran teilnehmende Mieterinnen und Mieter oder Pächterinnen und Pächter, die nach der Bildung des Zusammenschlusses nicht mehr als Endverbraucherinnen oder Endverbraucher auftreten;
 - b. die Auflösung eines Zusammenschlusses;
 - c. den Einsatz eines Speichers und dessen Verwendungsart;
-- d.[^18-1] die Unterschreitung des Wertes nach Artikel 15 Absatz 1.
+- d.[^18-2] die Unterschreitung des Wertes nach Artikel 15 Absatz 1.
 
-<sup>2</sup> Grundeigentümerinnen und Grundeigentümer haben eine allfällige Beendigung der Teilnahme einer Mieterin oder eines Mieters oder einer Pächterin oder eines Pächters am Zusammenschluss dem Netzbetreiber unverzüglich mitzuteilen. Der Netzbetreiber hat die betreffenden Mieterinnen und Mieter und Pächterinnen und Pächter innert drei Monaten in die Grundversorgung nach Artikel 6 oder 7 des Stromversorgungsgesetzes vom 23. März 2007[^18-2] (StromVG) aufzunehmen.
+<sup>2</sup> Grundeigentümerinnen und Grundeigentümer haben eine allfällige Beendigung der Teilnahme einer Mieterin oder eines Mieters oder einer Pächterin oder eines Pächters am Zusammenschluss dem Netzbetreiber unverzüglich mitzuteilen. Der Netzbetreiber hat die betreffenden Mieterinnen und Mieter und Pächterinnen und Pächter innert drei Monaten in die Grundversorgung nach Artikel 6 oder 7 des Stromversorgungsgesetzes vom 23. März 2007[^18-3] (StromVG) aufzunehmen.
 
 <sup>3</sup> Ist die Grundeigentümerin oder der Grundeigentümer nicht in der Lage, die Mitglieder und Teilnehmerinnen und Teilnehmer des Zusammenschlusses mit Elektrizität zu versorgen, so hat der Netzbetreiber die Versorgung umgehend sicherzustellen.
 
 <sup>4</sup> Die dem Netzbetreiber aufgrund der Absätze 2 und 3 anfallenden Kosten hat die Grundeigentümerin oder der Grundeigentümer zu tragen.
 
-[^18-1]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^18-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^18-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^18-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^18-3]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
 ## 5. Kapitel: Wettbewerbliche Ausschreibungen für Effizienzmassnahmen, Geothermie-Erkundungsbeiträge und Geothermie-Garantien sowie Entschädigung für Sanierungsmassnahmen bei Wasserkraftwerken
 
@@ -624,11 +659,15 @@ Ob eine Endverbraucherin oder ein Endverbraucher Anspruch auf Rückerstattung ha
 
 <sup>1</sup> Wer die Rückerstattung des Netzzuschlags beantragen will, muss zusammen mit einem nach Artikel 49 Absatz 1 Buchstabe a beauftragten Dritten einen Vorschlag für eine Zielvereinbarung erarbeiten und ihn dem BFE bis spätestens drei Monate vor Abschluss des Geschäftsjahres, für das die Rückerstattung beantragt wird, zur Prüfung einreichen.
 
+<sup>1bis</sup> Die Zielvereinbarung umfasst alle Massnahmen mit einer Amortisationsdauer von bis zu sechs Jahren. Bei Infrastrukturmassnahmen, insbesondere bei Massnahmen an Gebäuden, an langlebigen Anlagen und an Anlagen, die auf mehrere Produkte oder Prozesse ausgerichtet sind, gilt eine Amortisationsdauer von bis zu zwölf Jahren.[^39-1]
+
 <sup>2</sup> Die Zielvereinbarung hat eine Laufzeit von mindestens 10 Jahren mit Beginn am 1. Januar. Sie muss jedes Geschäftsjahr, für das die Rückerstattung beantragt wird, vollständig umfassen.
 
 <sup>3</sup> Die Zielvereinbarung legt für jedes Kalenderjahr ein Energieeffizienzziel fest. Die Erhöhung der Energieeffizienz ist in der Regel linear auszugestalten.
 
 <sup>4</sup> Die Zielvereinbarung ist eingehalten, wenn die Energieeffizienz während der Laufzeit der Zielvereinbarung nicht in mehr als zwei aufeinanderfolgenden Jahren und insgesamt in nicht mehr als der Hälfte der Jahre unter dem für das betreffende Jahr festgelegten Energieeffizienzziel liegt.
+
+[^39-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 40
 
@@ -950,7 +989,7 @@ Für die Förderung der folgenden baulichen Massnahmen ist das Vorliegen eines G
 
 **Berichterstattung**
 
-<sup>1</sup> Die Kantone erstatten dem BFE bis zum 31. März des Folgejahres Bericht über die Durchführung der mit Globalbeiträgen geförderten Programme.
+<sup>1</sup> Die Kantone erstatten dem BFE bis zum 15. März des Folgejahres Bericht über die Durchführung der mit Globalbeiträgen geförderten Programme.[^59-1]
 
 <sup>2</sup>
 
@@ -974,6 +1013,8 @@ Zu kantonalen Programmen zur Förderung der Energie- und Abwärmenutzung (Art. 5
 <sup>5</sup> Dem BFE sind auf Verlangen die zur Beurteilung der Wirksamkeit notwendigen Unterlagen zum Bericht zur Verfügung zu stellen.
 
 <sup>6</sup> Das BFE kann die Daten zu statistischen Zwecken einsetzen und sie der Konferenz Kantonaler Energiedirektoren (EnDK) zur Verfügung stellen.
+
+[^59-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 60
 
@@ -1045,6 +1086,8 @@ Die Gesuche um Globalbeiträge müssen alle Angaben und Unterlagen enthalten, di
 - a. eine Beschreibung des kantonalen Förderprogramms unter Angabe der einschlägigen Rechtsgrundlagen;
 - b. die Höhe des bewilligten oder beantragten kantonalen Kredits.
 
+<sup>1bis</sup> Allfällige durch Dritte beigesteuerte Mittel zum kantonalen Kredit nach Absatz 1 Buchstabe b sind auszuweisen. Diese müssen verbindlich, unwiderruflich und dem ganzen Kantonsgebiet für das kantonale Förderprogramm zur Verfügung stehen.[^63-1]
+
 <sup>2</sup>
 
 Die Gesuche um Finanzhilfen an Einzelprojekte müssen alle Angaben und Unterlagen enthalten, die für die Überprüfung der gesetzlichen, technischen, betrieblichen und wirtschaftlichen Voraussetzungen erforderlich sind, insbesondere:
@@ -1055,6 +1098,8 @@ Die Gesuche um Finanzhilfen an Einzelprojekte müssen alle Angaben und Unterlage
 - d. Kosten unter Angabe der Beiträge Dritter sowie des vom Bund erwarteten Beitrags.
 
 <sup>3</sup> Das BFE kann weitere Angaben und Unterlagen bezeichnen, die mit dem Gesuch einzureichen sind.
+
+[^63-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 64
 
@@ -1678,5 +1723,5 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annex7-lvlu1-2]
 
-[^annex7-lvlu1-1]: [[AS 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28), [2002 181](https://fedlex.data.admin.ch/eli/oc/2002/32)[3005](https://fedlex.data.admin.ch/eli/oc/2002/435)Ziff. II 4747, [2004 3011](https://fedlex.data.admin.ch/eli/oc/2004/385)[4709](https://fedlex.data.admin.ch/eli/oc/2004/722), [2005 4421](https://fedlex.data.admin.ch/eli/oc/2005/568), [2006 2411](https://fedlex.data.admin.ch/eli/oc/2006/374)Ziff. II [4889](https://fedlex.data.admin.ch/eli/oc/2006/762)Anhang 2 Ziff. 2, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 19 [4525](https://fedlex.data.admin.ch/eli/oc/2007/637)Ziff. II 4, [2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)Anhang Ziff. 2, [2009 3473](https://fedlex.data.admin.ch/eli/oc/2009/428)[6837](https://fedlex.data.admin.ch/eli/oc/2009/835), [2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127)[2941](https://fedlex.data.admin.ch/eli/oc/2010/387)[6125](https://fedlex.data.admin.ch/eli/oc/2010/875)Ziff. II, [2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)Anhang Ziff. 2 [3477](https://fedlex.data.admin.ch/eli/oc/2011/471)[4067](https://fedlex.data.admin.ch/eli/oc/2011/575)[4799](https://fedlex.data.admin.ch/eli/oc/2011/686), [2012 607](https://fedlex.data.admin.ch/eli/oc/2012/88)[4555](https://fedlex.data.admin.ch/eli/oc/2012/545), [2013 2319](https://fedlex.data.admin.ch/eli/oc/2013/486)[3631](https://fedlex.data.admin.ch/eli/oc/2013/681)[4479](https://fedlex.data.admin.ch/eli/oc/2013/792)Anhang Ziff. 2 [4593](https://fedlex.data.admin.ch/eli/oc/2013/814)Art. 62 Abs. 2 Ziff. 2, [2014 611](https://fedlex.data.admin.ch/eli/oc/2014/135)[2193](https://fedlex.data.admin.ch/eli/oc/2014/371)Ziff. II [2229](https://fedlex.data.admin.ch/eli/oc/2014/372)[3683](https://fedlex.data.admin.ch/eli/oc/2014/637), [2015 1415](https://fedlex.data.admin.ch/eli/oc/2015/294)Ziff. II [2279](https://fedlex.data.admin.ch/eli/oc/2015/425)[4781](https://fedlex.data.admin.ch/eli/oc/2015/784), [2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)Ziff. II [2729](https://fedlex.data.admin.ch/eli/oc/2016/439)[2871](https://fedlex.data.admin.ch/eli/oc/2016/475)[4617](https://fedlex.data.admin.ch/eli/oc/2016/746)]
+[^annex7-lvlu1-1]: [[AS 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28); [2002 181](https://fedlex.data.admin.ch/eli/oc/2002/32), [3005](https://fedlex.data.admin.ch/eli/oc/2002/435)Ziff. II, 4747; [2004 3011](https://fedlex.data.admin.ch/eli/oc/2004/385), [4709](https://fedlex.data.admin.ch/eli/oc/2004/722); [2005 4421](https://fedlex.data.admin.ch/eli/oc/2005/568); [2006 2411](https://fedlex.data.admin.ch/eli/oc/2006/374)Ziff. II, [4889](https://fedlex.data.admin.ch/eli/oc/2006/762)Anhang 2 Ziff. 2; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 19, [4525](https://fedlex.data.admin.ch/eli/oc/2007/637)Ziff. II 4; [2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)Anhang Ziff. 2; [2009 3473](https://fedlex.data.admin.ch/eli/oc/2009/428), [6837](https://fedlex.data.admin.ch/eli/oc/2009/835); [2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127), [2941](https://fedlex.data.admin.ch/eli/oc/2010/387), [6125](https://fedlex.data.admin.ch/eli/oc/2010/875)Ziff. II; [2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)Anhang Ziff. 2, [3477](https://fedlex.data.admin.ch/eli/oc/2011/471), [4067](https://fedlex.data.admin.ch/eli/oc/2011/575), [4799](https://fedlex.data.admin.ch/eli/oc/2011/686); [2012 607](https://fedlex.data.admin.ch/eli/oc/2012/88), [4555](https://fedlex.data.admin.ch/eli/oc/2012/545); [2013 2319](https://fedlex.data.admin.ch/eli/oc/2013/486), [3631](https://fedlex.data.admin.ch/eli/oc/2013/681), [4479](https://fedlex.data.admin.ch/eli/oc/2013/792)Anhang Ziff. 2, [4593](https://fedlex.data.admin.ch/eli/oc/2013/814)Art. 62 Abs. 2 Ziff. 2; [2014 611](https://fedlex.data.admin.ch/eli/oc/2014/135), [2193](https://fedlex.data.admin.ch/eli/oc/2014/371)Ziff. II, [2229](https://fedlex.data.admin.ch/eli/oc/2014/372), [3683](https://fedlex.data.admin.ch/eli/oc/2014/637); [2015 1415](https://fedlex.data.admin.ch/eli/oc/2015/294)Ziff. II, [2279](https://fedlex.data.admin.ch/eli/oc/2015/425), [4781](https://fedlex.data.admin.ch/eli/oc/2015/784); [2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)Ziff. II, [2729](https://fedlex.data.admin.ch/eli/oc/2016/439), [2871](https://fedlex.data.admin.ch/eli/oc/2016/475), [4617](https://fedlex.data.admin.ch/eli/oc/2016/746)]
 [^annex7-lvlu1-2]: Die Änderungen können unter [AS 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)konsultiert werden.

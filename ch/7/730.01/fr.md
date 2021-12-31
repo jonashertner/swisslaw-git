@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20210101/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> janvier 2021)
+du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -139,11 +139,11 @@ Conformément à l’art. 19, al. 1, LEne, les gestionnaires de réseau doivent 
 
 [^6-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-## Chapitre 3 Guichet unique, intérêt national et exemption de l’autorisation de construire****
+## Chapitre 3 Guichet unique, projets d’utilisation des forces hydrauliques et plans directeur cantonaux, intérêt national et exemption de l’autorisation de construire****
 
 [^chap3-1]
 
-[^chap3-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^chap3-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 ### Section 1 Guichet unique
 
@@ -154,6 +154,20 @@ Conformément à l’art. 19, al. 1, LEne, les gestionnaires de réseau doivent 
 <sup>2</sup> Les offices fédéraux compétents doivent remettre leurs prises de position et autorisations à l’OFEN dans un délai de deux mois après y avoir été invités par ce dernier, pour autant que d’autres dispositions fédérales ne prévoient pas de délais différents. Dans des cas particulièrement complexes, l’OFEN peut prolonger de deux mois au maximum le délai de deux mois.[^7-1]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+
+### Section 1*a***** Projets d’utilisation des forces hydrauliques et plans directeurs cantonaux
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+
+#### Art. 7a
+
+<sup>1</sup> Une concession ou une autorisation relatives à une installation hydroélectrique peuvent être octroyées sans que soient désignés les tronçons de cours d’eau qui se prêtent à l’utilisation de l’énergie hydraulique au sens de l’art. 10 LEne. Il reste cependant obligatoire de prévoir dans le plan directeur les projets qui ont des incidences importantes sur le territoire et l’environnement (art. 8, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^7a-1]).
+
+<sup>2</sup> Les installations hydroélectriques qui n’ont pas d’incidences importantes sur le territoire et l’environnement ne doivent pas nécessairement avoir été prévues dans le plan directeur, même lorsqu’elles revêtent un intérêt national
+
+[^7a-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
 
 ### Section 2 Intérêt national
 
@@ -170,14 +184,31 @@ Les nouvelles installations hydroélectriques revêtent un intérêt national si
 
 <sup>2</sup>
 
-Les installations hydroélectriques existantes revêtent un intérêt national si, suite à leur agrandissement ou leur rénovation, elles atteignent:
+Les installations hydroélectriques existantes revêtent un intérêt national si elles atteignent:
 
 - a. une production moyenne attendue d’au moins 10 GWh par an, ou
-- b. une production moyenne attendue d’au moins 5 GWh par an et au moins 400 heures de capacité de retenue à pleine puissance.
+- b. une production moyenne attendue d’au moins 5 GWh par an et au moins 400 heures de capacité de retenue à pleine puissance.[^8-1]
+
+<sup>2bis</sup> En cas de rénovation ou d’agrandissement d’une installation hydroélectrique existante, cette dernière revêt un intérêt national même si les valeurs seuils visées à l’al. 2 sont atteintes uniquement avant ou après la rénovation ou l’agrandissement.[^8-2]
+
+<sup>2ter</sup>
+
+Si l’agrandissement ou la rénovation provoque une nouvelle altération grave d’un objet d’importance nationale inscrit dans un inventaire fédéral conformément à l’art. 5, al. 1, de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)[^8-3] ou une dérogation des buts visés par la protection d’un biotope d’importance nationale conformément à l’art. 18*a* LPN, l’installation hydroélectrique revêt un intérêt national uniquement si elle atteint les valeurs seuils visées à l’al. 2 et permet en plus:
+
+- a. dans le cas d’un agrandissement, d’augmenter la puissance, la production ou la capacité de retenue d’au moins 20 % ou d’au moins 10 GWh;
+- b. dans le cas d’une rénovation, d’éviter la perte d’au moins 20 % de la production ou de la capacité de retenue ou d’au moins 10 GWh.[^8-4]
+
+<sup>2quater</sup> Les centrales à accumulation existantes dont le réservoir d’eau est agrandi revêtent un intérêt national si la capacité de retenue supplémentaire d’un lac atteint au moins 10 GWh.[^8-5]
 
 <sup>3</sup> Si la production moyenne attendue des nouvelles installations hydroélectriques se situe entre 10 et 20 GWh par an et si la production moyenne attendue des installations hydroélectriques existantes se situe entre 5 et 10 GWh par an, l’exigence concernant la capacité de retenue diminue de façon linéaire.
 
 <sup>4</sup> Les centrales à pompage-turbinage revêtent un intérêt national si elles atteignent une puissance installée d’au moins 100 MW.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-2]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^8-4]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-5]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 9
 
@@ -313,7 +344,9 @@ Le propriétaire foncier met à la charge des différents locataires et preneurs
 
 <sup>2</sup> Les coûts de capital imputables ne doivent pas dépasser le taux approprié pour les intérêts et l’amortissement de l’investissement.
 
-<sup>3</sup> Les coûts internes visés à l’al. 1, let. a et c, qui sont facturés aux locataires ne doivent pas dépasser les coûts du produit électrique standard extérieur qu’ils paieraient s’ils ne participaient pas au regroupement. Si les coûts internes sont inférieurs aux coûts dudit produit électrique standard extérieur, le propriétaire foncier peut facturer en plus, au maximum, la moitié des économies réalisées aux locataires.[^16-3]
+<sup>2bis</sup> Lorsqu’un tiers se charge du financement de l’installation et effectue un emprunt à cet effet, le propriétaire foncier peut choisir de facturer soit les coûts de capital calculés sur la base du taux approprié visé à l’al. 2 soit les intérêts passifs effectivement générés par l’emprunt.[^16-3]
+
+<sup>3</sup> Les coûts internes visés à l’al. 1, let. a et c, qui sont facturés aux locataires ne doivent pas dépasser les coûts du produit électrique standard extérieur qu’ils paieraient s’ils ne participaient pas au regroupement. Si les coûts internes sont inférieurs aux coûts dudit produit électrique standard extérieur, le propriétaire foncier peut facturer en plus, au maximum, la moitié des économies réalisées aux locataires.[^16-4]
 
 <sup>4</sup>
 
@@ -332,12 +365,13 @@ Les locataires et les preneurs à bail peuvent seulement mettre fin à la partic
 
 <sup>6</sup> Le départ du regroupement doit être notifié au propriétaire foncier trois mois à l’avance, par écrit et avec indication des motifs.
 
-<sup>7</sup> Les propriétaires fonciers auxquels incombe l’approvisionnement en électricité de locataires et de preneurs à bail sont libérés de l’obligation de publier les tarifs et de tenir une comptabilité par unité d’imputation au sens de l’art. 4 OApEl[^16-4].
+<sup>7</sup> Les propriétaires fonciers auxquels incombe l’approvisionnement en électricité de locataires et de preneurs à bail sont libérés de l’obligation de publier les tarifs et de tenir une comptabilité par unité d’imputation au sens de l’art. 4 OApEl[^16-5].
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
 [^16-2]: Introduit par le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^16-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
-[^16-4]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^16-3]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^16-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^16-5]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
 #### Art. 17
 
@@ -361,19 +395,20 @@ Les locataires et les preneurs à bail peuvent seulement mettre fin à la partic
 
 Les propriétaires fonciers doivent communiquer trois mois à l’avance au gestionnaire de réseau:
 
-- a. la formation d’un regroupement dans le cadre de la consommation propre, ainsi que l’identité des locataires et des preneurs à bail qui y participent et du représentant du regroupement;
+- a.[^18-1] la formation d’un regroupement dans le cadre de la consommation propre, l’identité du représentant de ce regroupement ainsi que celle des locataires et des preneurs à bail qui y participent, lesquels ne seront plus considérés comme des consommateurs finaux après la formation dudit regroupement;
 - b. la dissolution d’un regroupement;
 - c. l’utilisation d’un accumulateur et la nature de cette utilisation;
-- d.[^18-1] la non-atteinte de la valeur prescrite à l’art. 15, al. 1.
+- d.[^18-2] la non-atteinte de la valeur prescrite à l’art. 15, al. 1.
 
-<sup>2</sup> Les propriétaires fonciers doivent aviser immédiatement le gestionnaire de réseau de la fin de la participation d’un locataire ou d’un preneur à bail au regroupement. Le gestionnaire de réseau doit intégrer le locataire ou le preneur à bail en question dans un délai de trois mois dans l’approvisionnement de base visé aux art. 6 ou 7 de la loi du 23 mars 2007 sur l’approvisionnement en électricité (LApEl)[^18-2].
+<sup>2</sup> Les propriétaires fonciers doivent aviser immédiatement le gestionnaire de réseau de la fin de la participation d’un locataire ou d’un preneur à bail au regroupement. Le gestionnaire de réseau doit intégrer le locataire ou le preneur à bail en question dans un délai de trois mois dans l’approvisionnement de base visé aux art. 6 ou 7 de la loi du 23 mars 2007 sur l’approvisionnement en électricité (LApEl)[^18-3].
 
 <sup>3</sup> Si le propriétaire foncier n’est pas en mesure d’approvisionner en électricité les membres et les participants du regroupement, le gestionnaire de réseau doit immédiatement assurer l’approvisionnement.
 
 <sup>4</sup> Le propriétaire foncier doit supporter les coûts correspondants du gestionnaire de réseau en vertu des al. 2 et 3.
 
-[^18-1]: Introduite par le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^18-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^18-2]: Introduite par le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^18-3]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
 ## Chapitre 5 Appels d’offres publics pour les mesures d’efficacité, les contributions à la recherche de ressources géothermiques et les garanties pour la géothermie ainsi que l’indemnisation de mesures d’assainissement dans le cas d’installations hydroélectriques
 
@@ -624,11 +659,15 @@ L’existence ou non du droit au remboursement, dévolu à un consommateur final
 
 <sup>1</sup> Quiconque souhaite demander le remboursement du supplément doit élaborer une proposition de convention d’objectifs en collaboration avec un tiers mandaté visé à l’art. 49, al. 1, let. a, et la soumettre à l’OFEN pour examen, au plus tard trois mois avant la clôture de l’exercice pour lequel il demande le remboursement.
 
+<sup>1bis</sup> La convention d’objectifs inclut toutes les mesures ayant une durée d’amortissement de six ans au plus. Pour les mesures relatives aux infrastructures, notamment les mesures touchant les bâtiments ou les installations dont la durée de vie est longue ou qui comprennent plusieurs produits ou processus, une durée d’amortissement de douze ans au plus s’applique.[^39-1]
+
 <sup>2</sup> La convention d’objectifs a une durée d’au moins dix ans et débute le 1<sup>er</sup> janvier. Elle doit comprendre chaque exercice dans sa totalité pour lequel un remboursement est demandé.
 
 <sup>3</sup> La convention d’objectifs fixe un objectif d’efficacité énergétique pour chaque année civile considérée. L’efficacité énergétique doit augmenter en règle générale de façon linéaire.
 
 <sup>4</sup> La convention d’objectifs est respectée si l’efficacité énergétique pendant toute la durée de la convention d’objectifs n’est pas inférieure à l’objectif d’efficacité énergétique fixé pour l’année considérée pendant plus de deux années consécutives et dans l’ensemble pendant plus de la moitié des années.
+
+[^39-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 40
 
@@ -950,7 +989,7 @@ Pour l’encouragement des mesures de construction suivantes, un CECB Plus n’e
 
 **Rapport**
 
-<sup>1</sup> Les cantons adressent à l’OFEN, pour le 31 mars de l’année suivante, un rapport relatif à l’exécution de leurs programmes bénéficiant du soutien de contributions globales.
+<sup>1</sup> Les cantons adressent à l’OFEN, pour le 15 mars de l’année suivante, un rapport relatif à l’exécution de leurs programmes bénéficiant du soutien de contributions globales.[^59-1]
 
 <sup>2</sup>
 
@@ -974,6 +1013,8 @@ Dans le cas des programmes cantonaux visant à encourager l’utilisation de l�
 <sup>5</sup> Si l’OFEN le demande, la documentation nécessaire à l’évaluation de l’efficacité doit être jointe au rapport.
 
 <sup>6</sup> L’OFEN peut utiliser les données à des fins statistiques et les mettre à la disposition de la Conférence des directeurs cantonaux de l’énergie.
+
+[^59-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 60
 
@@ -1045,6 +1086,8 @@ Les demandes de contributions globales doivent comporter toutes les données et 
 - a. une description du programme promotionnel cantonal et l’indication des bases légales correspondantes;
 - b. le montant du crédit cantonal accordé ou proposé.
 
+<sup>1bis</sup> Les éventuelles participations de tiers au crédit cantonal visé à l’al. 1, let. b, doivent être indiquées séparément. Elles doivent être mises à disposition du programme promotionnel du canton de manière contraignante et irrévocable et pour l’ensemble de son territoire.[^63-1]
+
 <sup>2</sup>
 
 Les demandes d’aides financières en faveur de projets individuels doivent comporter toutes les indications et les pièces nécessaires à la vérification des conditions légales, techniques et économiques ainsi que des conditions d’exploitation, notamment:
@@ -1055,6 +1098,8 @@ Les demandes d’aides financières en faveur de projets individuels doivent com
 - d. les coûts, avec indication des apports de tiers et des contributions attendues de la Confédération.
 
 <sup>3</sup> L’OFEN peut définir des données et des documents supplémentaires à joindre à la demande.
+
+[^63-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 64
 
@@ -1608,7 +1653,7 @@ Annexe 4
 - 1\.2 Grandes installations de recherche de l’École polytechnique fédérale de Lausanne
 - TCV Tokamak (Tokamak à Configuration Variable)
 
-Annexe 5[^t-1]
+Annexe 5*[^t-1]*
 
 (art. 43, al. 1 et 3)
 

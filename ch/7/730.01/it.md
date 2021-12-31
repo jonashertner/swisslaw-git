@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20210101/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 1° gennaio 2021)
+del 1° novembre 2017 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -139,11 +139,11 @@ I gestori di rete devono notificare ogni trimestre all’organo d’esecuzione l
 
 [^6-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-## Capitolo 3: Guichet unique, interesse nazionale e costruzioni e impianti non soggetti ad autorizzazione edilizia****
+## Capitolo 3: Guichet unique, progetti nel settore idroelettrico e piani direttori cantonali, interesse nazionale e costruzioni e impianti non soggetti ad autorizzazione edilizia****
 
 [^chap3-1]
 
-[^chap3-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
+[^chap3-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 ### Sezione 1: Guichet unique****
 
@@ -158,6 +158,20 @@ I gestori di rete devono notificare ogni trimestre all’organo d’esecuzione l
 <sup>2</sup> I servizi federali competenti devono presentare all’UFE i propri pareri e le proprie autorizzazioni entro due mesi dalla richiesta dell’UFE, sempre che altri atti legislativi federali non prevedano termini diversi. In caso di procedure particolarmente complesse, l’UFE può prorogare il termine di due mesi di al massimo due mesi.[^7-1]
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+
+### [Sezione 1*a*:](https://www.admin.ch/opc/it/classified-compilation/20162945/index.html) [Progetti nel settore idroelettrico e piani direttori cantonali](https://www.admin.ch/opc/it/classified-compilation/20162945/index.html)
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+
+#### Art. 7a
+
+<sup>1</sup> Per il rilascio di concessioni o di autorizzazioni per impianti idroelettrici non è necessaria la definizione delle sezioni di corsi d’acqua adeguate di cui all’articolo 10 LEne. I progetti con ripercussioni considerevoli sul territorio e sull’ambiente continuano a necessitare, come finora, di una base nel piano direttore (art. 8 cpv. 2 della legge del 22 giugno 1979[^7a-1] sulla pianificazione del territorio).
+
+<sup>2</sup> Gli impianti idroelettrici privi di ripercussioni considerevoli sul territorio e sull’ambiente non necessitano di una base nel piano direttore, anche se sono considerati di interesse nazionale.
+
+[^7a-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
 
 ### Sezione 2: Interesse nazionale
 
@@ -174,14 +188,31 @@ I nuovi impianti idroelettrici sono considerati di interesse nazionale se presen
 
 <sup>2</sup>
 
-Gli impianti idroelettrici esistenti sono considerati di interesse nazionale se attraverso l’ampliamento o il rinnovamento:
+Gli impianti idroelettrici esistenti sono considerati di interesse nazionale se:
 
 - a. raggiungono una produzione media prevista di almeno 10 GWh all’anno; oppure
-- b. raggiungono una produzione media prevista di almeno 5 GWh all’anno e presentano una durata di invaso di almeno 400 ore a piena potenza.
+- b. raggiungono una produzione media prevista di almeno 5 GWh all’anno e una durata di invaso di almeno 400 ore a piena potenza.[^8-1]
+
+<sup>2bis</sup> Gli impianti idroelettrici esistenti che vengono rinnovati o ampliati mantengono l’interesse nazionale anche se i valori soglia secondo il capoverso 2 sono raggiunti solo prima o dopo il rinnovamento o l’ampliamento.[^8-2]
+
+<sup>2ter</sup>
+
+Se un ampliamemto o un rinnovamento causa un nuovo grave pregiudizio a un oggetto di importanza nazionale inserito in un inventario federale secondo l’articolo 5 capoverso 1 della legge federale del 1° luglio 1966[^8-3] sulla protezione della natura e del paesaggio (LPN) o una deroga agli scopi di protezione di un biotopo di importanza nazionale secondo l’articolo 18*a* LPN, l’impianto idroelettrico è considerato di interesse nazionale se, oltre ai valori soglia secondo il capoverso 2, sono soddisfatte le seguenti condizioni:
+
+- a. nel caso di un ampliamento viene aumentata la potenza, la produzione o la durata di invaso di almeno il 20 per cento o di 10 GWh;
+- b. nel caso di un rinnovamento viene evitata la perdita di almeno il 20 per cento della produzione o della durata di invaso o di almeno 10 GWh.[^8-4]
+
+<sup>2quater</sup> Le centrali ad accumulazione esistenti i cui bacini di accumulo vengono ampliati sono di interesse nazionale se la capacità di ritenuta aggiuntiva del lago è di almeno 10 GWh.[^8-5]
 
 <sup>3</sup> Se la produzione media prevista è compresa tra 10 e 20 GWh all’anno per i nuovi impianti idroelettrici e tra 5 e 10 GWh all’anno per gli impianti idroelettrici esistenti, il requisito della durata di invaso si riduce in maniera lineare.
 
 <sup>4</sup> Gli impianti di stoccaggio con pompaggio sono considerati di interesse nazionale se presentano una potenza installata di almeno 100 MW.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^8-4]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^8-5]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 9
 
@@ -317,7 +348,9 @@ Il proprietario fondiario addebita ai singoli locatari e affittuari i seguenti c
 
 <sup>2</sup> I costi del capitale computabili non possono superare l’aliquota adeguata per gli interessi e l’ammortamento dell’investimento.
 
-<sup>3</sup> I costi interni di cui al capoverso 1 lettere a e c addebitati ai locatari non possono superare i costi del prodotto elettrico standard esterno che essi pagherebbero se non facessero parte del raggruppamento. Se tali costi interni sono inferiori ai costi di questo prodotto elettrico standard esterno, il proprietario fondiario può addebitare ai locatari a titolo aggiuntivo al massimo la metà del risparmio conseguito.[^16-3]
+<sup>2bis</sup> Se un soggetto terzo si assume il finanziamento dell’impianto e a tale scopo ricorre a capitale di debito, il proprietario fondiario può scegliere se fatturare i costi del capitale calcolati secondo il capoverso 2 oppure gli interessi passivi effettivamente sostenuti.[^16-3]
+
+<sup>3</sup> I costi interni di cui al capoverso 1 lettere a e c addebitati ai locatari non possono superare i costi del prodotto elettrico standard esterno che essi pagherebbero se non facessero parte del raggruppamento. Se tali costi interni sono inferiori ai costi di questo prodotto elettrico standard esterno, il proprietario fondiario può addebitare ai locatari a titolo aggiuntivo al massimo la metà del risparmio conseguito.[^16-4]
 
 <sup>4</sup>
 
@@ -336,12 +369,13 @@ I locatari e gli affittuari possono uscire dal raggruppamento soltanto se:
 
 <sup>6</sup> L’uscita dal raggruppamento deve essere comunicata al proprietario fondiario per scritto con un preavviso di tre mesi e corredata di una motivazione.
 
-<sup>7</sup> I proprietari fondiari a cui spetta l’approvvigionamento elettrico di locatari o affittuari sono esentati dall’obbligo di pubblicazione delle tariffe e dalla tenuta di una contabilità per unità finale di imputazione di cui all’articolo 4 OAEl[^16-4].
+<sup>7</sup> I proprietari fondiari a cui spetta l’approvvigionamento elettrico di locatari o affittuari sono esentati dall’obbligo di pubblicazione delle tariffe e dalla tenuta di una contabilità per unità finale di imputazione di cui all’articolo 4 OAEl[^16-5].
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
 [^16-2]: Introdotto dal n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^16-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
-[^16-4]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^16-3]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^16-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^16-5]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
 #### Art. 17
 
@@ -365,19 +399,20 @@ I locatari e gli affittuari possono uscire dal raggruppamento soltanto se:
 
 I proprietari fondiari sono tenuti a notificare al gestore di rete con un anticipo di tre mesi:
 
-- a. la costituzione di un raggruppamento ai fini del consumo proprio e i nominativi degli eventuali locatari e affittuari che partecipano a tale raggruppamento nonché del rappresentante del raggruppamento;
+- a.[^18-1] la costituzione di un raggruppamento ai fini del consumo proprio, il nominativo del rappresentante di questo raggruppamento e dei locatari e affittuari che partecipano a tale raggruppamento e che dopo la costituzione dello stesso non risultano più come consumatori finali;
 - b. lo scioglimento di un raggruppamento;
 - c. l’impiego di un sistema di accumulazione e le relative modalità;
-- d.[^18-1] il superamento in senso negativo del valore di cui all’articolo 15 capoverso 1.
+- d.[^18-2] il superamento in senso negativo del valore di cui all’articolo 15 capoverso 1.
 
-<sup>2</sup> I proprietari fondiari sono tenuti a notificare senza indugio al gestore di rete l’eventuale uscita dal raggruppamento di un locatario o di un affittuario. Il gestore di rete è tenuto ad accogliere nel servizio universale secondo l’articolo 6 o 7 della legge del 23 marzo 2007[^18-2] sull’approvvigionamento elettrico (LAEl), entro tre mesi, tale locatario o affittuario.
+<sup>2</sup> I proprietari fondiari sono tenuti a notificare senza indugio al gestore di rete l’eventuale uscita dal raggruppamento di un locatario o di un affittuario. Il gestore di rete è tenuto ad accogliere nel servizio universale secondo l’articolo 6 o 7 della legge del 23 marzo 2007[^18-3] sull’approvvigionamento elettrico (LAEl), entro tre mesi, tale locatario o affittuario.
 
 <sup>3</sup> Se il proprietario fondiario non è in grado di approvvigionare di elettricità i membri e i partecipanti del raggruppamento, il gestore di rete deve intervenire immediatamente per garantire tale approvvigionamento.
 
 <sup>4</sup> I costi per il gestore di rete derivanti dai capoversi 2 e 3 sono a carico del proprietario fondiario.
 
-[^18-1]: Introdotta dal n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^18-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^18-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^18-2]: Introdotta dal n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^18-3]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
 ## Capitolo 5: Bandi di gara per misure di efficienza, contributi per l’esplorazione geotermica e garanzie per la geotermia nonché indennizzo per le misure di risanamento concernenti impianti idroelettrici
 
@@ -628,11 +663,15 @@ L’eventuale diritto del consumatore finale al rimborso è valutato in relazion
 
 <sup>1</sup> Chi intende presentare una domanda di rimborso del supplemento rete deve elaborare, in collaborazione con un terzo incaricato ai sensi dell’articolo 49 capoverso 1 lettera a, una proposta di convenzione sugli obiettivi e sottoporla all’esame dell’UFE al più tardi tre mesi prima della fine dell’anno contabile per il quale intende chiedere il rimborso.
 
+<sup>1bis</sup> La convenzione sugli obiettivi ingloba tutte le misure che presentano una durata di ammortamento non superiore a sei anni. Nel caso di misure infrastrutturali, in particolare misure relative a edifici, a impianti a lunga durata di vita o orientati su diversi prodotti o processi, vale una durata di ammortamento non superiore a dodici anni.[^39-1]
+
 <sup>2</sup> La convenzione sugli obiettivi ha una durata minima di dieci anni a decorrere dal 1° gennaio. La convenzione deve comprendere interamente ogni anno contabile per il quale è richiesto il rimborso.
 
 <sup>3</sup> La convenzione sugli obiettivi fissa per ogni anno civile un obiettivo di efficienza energetica. Di regola l’aumento dell’efficienza energetica deve essere strutturato in maniera lineare.
 
 <sup>4</sup> La convenzione sugli obiettivi si considera rispettata se il grado di efficienza energetica durante il periodo di validità della convenzione resta al di sotto dell’obiettivo di efficienza energetica fissato per l’anno in questione per non più di due anni consecutivi e complessivamente per non più della metà degli anni previsti.
+
+[^39-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 40
 
@@ -954,7 +993,7 @@ Per la promozione delle seguenti misure costruttive non è necessaria la present
 
 **Rendiconto**
 
-<sup>1</sup> I Cantoni presentano all’UFE entro il 31 marzo dell’anno successivo un rapporto sullo svolgimento dei programmi promossi attraverso i contributi globali.
+<sup>1</sup> I Cantoni presentano all’UFE entro il 15 marzo dell’anno successivo un rapporto sullo svolgimento dei programmi promossi attraverso i contributi globali.[^59-1]
 
 <sup>2</sup>
 
@@ -978,6 +1017,8 @@ Per quanto riguarda i programmi cantonali per la promozione dell’impiego dell�
 <sup>5</sup> Su sua richiesta, vanno messi a disposizione dell’UFE i documenti relativi al rapporto necessari a valutare l’efficacia.
 
 <sup>6</sup> L’UFE può utilizzare i dati per scopi statistici e metterli a disposizione della Conferenza dei direttori cantonali dell’energia (CdEN).
+
+[^59-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 60
 
@@ -1049,6 +1090,8 @@ Le domande di contributi globali devono contenere tutte le informazioni e tutti 
 - a. una descrizione del programma di promozione cantonale con l’indicazione delle relative basi giuridiche;
 - b. l’importo del credito cantonale stanziato o richiesto.
 
+<sup>1bis</sup> Eventuali mezzi finanziari di terzi confluiti nel credito cantonale di cui al capoverso 1 lettera b devono essere dichiarati. Questi mezzi devono essere vincolanti, irrevocabili e messi a disposizione su tutto il territorio del Cantone per il programma di promozione cantonale.[^63-1]
+
 <sup>2</sup>
 
 Le domande di aiuti finanziari per progetti individuali devono contenere tutte le informazioni e tutti i documenti necessari alla verifica delle condizioni legali, tecniche, economiche e d’esercizio, in particolare:
@@ -1059,6 +1102,8 @@ Le domande di aiuti finanziari per progetti individuali devono contenere tutte l
 - d. i costi, con l’indicazione dei contributi di terzi e di quelli attesi dalla Confederazione.
 
 <sup>3</sup> L’UFE può richiedere ulteriori informazioni e documenti da presentare unitamente alla domanda.
+
+[^63-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 64
 
@@ -1684,5 +1729,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex7-lvlu1-2]
 
-[^annex7-lvlu1-1]: [[RU 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28), [2002 181](https://fedlex.data.admin.ch/eli/oc/2002/32)[3005](https://fedlex.data.admin.ch/eli/oc/2002/435)II, [2004 4709](https://fedlex.data.admin.ch/eli/oc/2004/722), [2006 2411](https://fedlex.data.admin.ch/eli/oc/2006/374)n. II [4889](https://fedlex.data.admin.ch/eli/oc/2006/762)all. 2 n. 2, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 19 [4525](https://fedlex.data.admin.ch/eli/oc/2007/637)n. II 4, [2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)all. n. 2, [2009 3473](https://fedlex.data.admin.ch/eli/oc/2009/428), [2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127)[6125](https://fedlex.data.admin.ch/eli/oc/2010/875)n. II, [2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)all. n. 2 [3477](https://fedlex.data.admin.ch/eli/oc/2011/471)[4067](https://fedlex.data.admin.ch/eli/oc/2011/575)[4799](https://fedlex.data.admin.ch/eli/oc/2011/686), [2012 607](https://fedlex.data.admin.ch/eli/oc/2012/88)[4555](https://fedlex.data.admin.ch/eli/oc/2012/545), [2013 3631](https://fedlex.data.admin.ch/eli/oc/2013/681)[4479](https://fedlex.data.admin.ch/eli/oc/2013/792)all. n. 2 [4593](https://fedlex.data.admin.ch/eli/oc/2013/814)art. 62 cpv. 2 n. 2, [2014 611](https://fedlex.data.admin.ch/eli/oc/2014/135)[2193](https://fedlex.data.admin.ch/eli/oc/2014/371)n. II [2229](https://fedlex.data.admin.ch/eli/oc/2014/372)[3683](https://fedlex.data.admin.ch/eli/oc/2014/637), [2015 1415](https://fedlex.data.admin.ch/eli/oc/2015/294)[4781](https://fedlex.data.admin.ch/eli/oc/2015/784), [2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)n. II [2729](https://fedlex.data.admin.ch/eli/oc/2016/439)[2871](https://fedlex.data.admin.ch/eli/oc/2016/475)[4617](https://fedlex.data.admin.ch/eli/oc/2016/746)]
+[^annex7-lvlu1-1]: [[RU 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28); [2002 181](https://fedlex.data.admin.ch/eli/oc/2002/32), [3005](https://fedlex.data.admin.ch/eli/oc/2002/435)II; [2004 4709](https://fedlex.data.admin.ch/eli/oc/2004/722); [2006 2411](https://fedlex.data.admin.ch/eli/oc/2006/374)n. II, [4889](https://fedlex.data.admin.ch/eli/oc/2006/762)all. 2 n. 2; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 19, [4525](https://fedlex.data.admin.ch/eli/oc/2007/637)n. II 4; [2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)all. n. 2; [2009 3473](https://fedlex.data.admin.ch/eli/oc/2009/428); [2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127), [6125](https://fedlex.data.admin.ch/eli/oc/2010/875)n. II; [2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)all. n. 2, [3477](https://fedlex.data.admin.ch/eli/oc/2011/471), [4067](https://fedlex.data.admin.ch/eli/oc/2011/575), [4799](https://fedlex.data.admin.ch/eli/oc/2011/686); [2012 607](https://fedlex.data.admin.ch/eli/oc/2012/88), [4555](https://fedlex.data.admin.ch/eli/oc/2012/545); [2013 3631](https://fedlex.data.admin.ch/eli/oc/2013/681), [4479](https://fedlex.data.admin.ch/eli/oc/2013/792)all. n. 2, [4593](https://fedlex.data.admin.ch/eli/oc/2013/814)art. 62 cpv. 2 n. 2; [2014 611](https://fedlex.data.admin.ch/eli/oc/2014/135), [2193](https://fedlex.data.admin.ch/eli/oc/2014/371)n. II, [2229](https://fedlex.data.admin.ch/eli/oc/2014/372), [3683](https://fedlex.data.admin.ch/eli/oc/2014/637); [2015 1415](https://fedlex.data.admin.ch/eli/oc/2015/294), [4781](https://fedlex.data.admin.ch/eli/oc/2015/784); [2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)n. II [2729](https://fedlex.data.admin.ch/eli/oc/2016/439), [2871](https://fedlex.data.admin.ch/eli/oc/2016/475), [4617](https://fedlex.data.admin.ch/eli/oc/2016/746)]
 [^annex7-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763).
