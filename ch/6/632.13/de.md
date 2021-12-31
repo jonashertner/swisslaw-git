@@ -3,18 +3,18 @@ sr: "632.13"
 title: Taraverordnung vom 4. November 1987
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/2652_2652_2652"
 language: de
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1987-11-04
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2652_2652_2652/20170101/de/xml/fedlex-data-admin-ch-eli-cc-1987-2652_2652_2652-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/2652_2652_2652/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2652_2652_2652/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1987-2652_2652_2652-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/2652_2652_2652/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Taraverordnung
 
-vom 4. November 1987 (Stand am 1. Januar 2017)
+vom 4. November 1987 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -116,11 +116,11 @@ Verpackungen und Warenträger werden gesondert veranlagt, wenn:[^4-2]
 
 Anhang*[^t-1]*
 
-(Art. 2 Abs. 2, 5 Abs. 2 und Art. 6)
+(Art. 2 Abs. 2, 5 Abs. 2 und 6)
 
 ## Tarasätze
 
-[^t-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 29. Juni 2016 über die Änderung des Zolltarifs im Zusammenhang mit Zollansätzen für gewisse Informationstechnologieprodukte, in Kraft seit 1. Jan. 2017 ([AS 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)).
+[^t-1]: Fassung gemäss Anhang 3 Ziff. 7 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Tarasatz</th></tr>
@@ -169,14 +169,17 @@ Anhang*[^t-1]*
 <tr><td>0304.9100/9700</td><td>15</td></tr>
 <tr><td>0304.9910</td><td>20</td></tr>
 <tr><td>0304.9970</td><td>15</td></tr>
-<tr><td>0305.1000/7900</td><td>5</td></tr>
+<tr><td>0305.2000/7900</td><td>5</td></tr>
 <tr><td>0306.1100/0308.9000</td><td>10</td></tr>
-<tr><td>0401.4000/0403.1020</td><td>5</td></tr>
+<tr><td>0309.1000</td><td>5</td></tr>
+<tr><td>0309.9000</td><td>10</td></tr>
+<tr><td>0401.4000/0402.9920</td><td>5</td></tr>
+<tr><td>0403.2091/2099</td><td>5</td></tr>
 <tr><td>0403.9031/0406.2090</td><td>5</td></tr>
 <tr><td>0406.3010/3090</td><td>10</td></tr>
 <tr><td>0406.4010/4029</td><td>5</td></tr>
 <tr><td>0406.9011/9019</td><td>5</td></tr>
-<tr><td>0407.1110/0410.000</td><td>5</td></tr>
+<tr><td>0407.1110/0410.9000</td><td>5</td></tr>
 <tr><td>0501.0000/0502.9000</td><td>5</td></tr>
 <tr><td>0601.1010/2099</td><td>5</td></tr>
 <tr><td>0603.1110/9010</td><td>5</td></tr>
@@ -243,12 +246,11 @@ Anhang*[^t-1]*
 <tr><td>1301.9010</td><td>10</td></tr>
 <tr><td>1302.1100/1900</td><td>20</td></tr>
 <tr><td>1302.2011/2029</td><td>10</td></tr>
-<tr><td>1302.2090</td><td>5</td></tr>
 <tr><td>1302.3100</td><td>10</td></tr>
 <tr><td>1302.3900</td><td>10</td></tr>
 <tr><td>1501.1011/1520.0000</td><td>10</td></tr>
-<tr><td>1522.0000/1601.0049</td><td>5</td></tr>
-<tr><td>1602.1010/9089</td><td>10</td></tr>
+<tr><td>1522.0000/1601.0048</td><td>5</td></tr>
+<tr><td>1602.1010/9088</td><td>10</td></tr>
 <tr><td>1603.0000/1605.6900</td><td>5</td></tr>
 <tr><td>1701.1200/1400</td><td>1</td></tr>
 <tr><td>1701.9110/9190</td><td>5</td></tr>
@@ -355,6 +357,13 @@ Anhang*[^t-1]*
 <tr><td>2403.9910</td><td>15 [7]</td></tr>
 <tr><td>2403.9920/9930</td><td>3</td></tr>
 <tr><td>2403.9990</td><td>15 [7]</td></tr>
+<tr><td>2404.1100/1210</td><td>15 [7]</td></tr>
+<tr><td>2404.1290</td><td>10</td></tr>
+<tr><td>2404.1910</td><td>15 [7]</td></tr>
+<tr><td>2404.1990</td><td>10</td></tr>
+<tr><td>2404.9110</td><td>15 [7]</td></tr>
+<tr><td>2404.9190</td><td>5</td></tr>
+<tr><td>2404.9200/9900</td><td>10</td></tr>
 <tr><td>2501.0010</td><td>10</td></tr>
 <tr><td>2501.0090</td><td>[9]</td></tr>
 <tr><td>2513.2010/2090</td><td>5</td></tr>
@@ -466,8 +475,8 @@ Anhang*[^t-1]*
 <tr><td>2936.2100/2937.9000</td><td>15</td></tr>
 <tr><td>2938.1010/2942.0090</td><td>10</td></tr>
 <tr><td>3001.1000/9000</td><td>5</td></tr>
-<tr><td>3002.1100/9000</td><td>15</td></tr>
-<tr><td>3003.1000/3006.9200</td><td>10</td></tr>
+<tr><td>3002.1200/9000</td><td>15</td></tr>
+<tr><td>3003.1000/3006.9300</td><td>10</td></tr>
 <tr><td>3102.5000</td><td>10</td></tr>
 <tr><td>3104.9010/9090</td><td>10</td></tr>
 <tr><td>3105.1000</td><td>10</td></tr>
@@ -479,13 +488,13 @@ Anhang*[^t-1]*
 <tr><td>3215.1900</td><td>15</td></tr>
 <tr><td>3215.9010/9090</td><td>5</td></tr>
 <tr><td>3301.1200/3000</td><td>15</td></tr>
-<tr><td>3301.9010/3402.1390</td><td>10</td></tr>
-<tr><td>3402.1900</td><td>5</td></tr>
-<tr><td>3402.2000/3504.0000</td><td>10</td></tr>
+<tr><td>3301.9010/3402.4290</td><td>10</td></tr>
+<tr><td>3402.4900</td><td>5</td></tr>
+<tr><td>3402.5000/3504.0000</td><td>10</td></tr>
 <tr><td>3505.1010/2090</td><td>[15]</td></tr>
 <tr><td>3506.1000/3507.9090</td><td>10</td></tr>
 <tr><td>3601.0000/3602.0000</td><td>20</td></tr>
-<tr><td>3603.0000</td><td>25</td></tr>
+<tr><td>3603.1000/6000</td><td>25</td></tr>
 <tr><td>3604.1000/9000</td><td>20</td></tr>
 <tr><td>3605.0000/3606.9090</td><td>10</td></tr>
 <tr><td>3701.1000/3705.0000</td><td>20</td></tr>
@@ -500,15 +509,17 @@ Anhang*[^t-1]*
 <tr><td>3806.9000/3813.0000</td><td>10</td></tr>
 <tr><td>3814.0010/3815.9000</td><td>15</td></tr>
 <tr><td>3817.0010/3820.0000</td><td>10</td></tr>
-<tr><td>3821.0000/3822.0000</td><td>20</td></tr>
+<tr><td>3821.0000</td><td>20</td></tr>
+<tr><td>3822.1100/9000</td><td>15</td></tr>
 <tr><td>3823.1110/3824.5000</td><td>10</td></tr>
 <tr><td>3824.6000</td><td>15</td></tr>
-<tr><td>3824.7100/8300</td><td>10</td></tr>
-<tr><td>3824.8400/9100</td><td>[13]</td></tr>
+<tr><td>3824.8100/8300</td><td>10</td></tr>
+<tr><td>3824.8400/9200</td><td>[13]</td></tr>
 <tr><td>3824.9911/9919</td><td>20</td></tr>
 <tr><td>3824.9920/9991</td><td>10</td></tr>
 <tr><td>3824.9999</td><td>[13]</td></tr>
 <tr><td>3826.0010/0090</td><td>10</td></tr>
+<tr><td>3827.1100/9000</td><td>10</td></tr>
 <tr><td>3901.1000/3912.1200</td><td>5</td></tr>
 <tr><td>3912.2000</td><td>20</td></tr>
 <tr><td>3912.3110/3915.9000</td><td>5</td></tr>
@@ -547,11 +558,11 @@ Anhang*[^t-1]*
 <tr><td>4206.0090</td><td>10</td></tr>
 <tr><td>4302.1100/2000</td><td>10</td></tr>
 <tr><td>4302.3000/4304.0000</td><td>15</td></tr>
-<tr><td>4414.0000</td><td>20</td></tr>
+<tr><td>4414.1000/9000</td><td>20</td></tr>
 <tr><td>4415.2000</td><td>10</td></tr>
 <tr><td>4417.0000</td><td>10</td></tr>
 <tr><td>4419.1100/9000</td><td>10</td></tr>
-<tr><td>4420.1000</td><td>15</td></tr>
+<tr><td>4420.1100/1900</td><td>15</td></tr>
 <tr><td>4420.9000/4421.9900</td><td>10</td></tr>
 <tr><td>4502.0000</td><td>5</td></tr>
 <tr><td>4503.9000</td><td>10</td></tr>
@@ -652,7 +663,7 @@ Anhang*[^t-1]*
 <tr><td>5701.1000/5702.1000</td><td>5</td></tr>
 <tr><td>5702.3100/5801.2700</td><td>5</td></tr>
 <tr><td>5801.3100/9000</td><td>20</td></tr>
-<tr><td>5802.1100/1900</td><td>5</td></tr>
+<tr><td>5802.1000</td><td>5</td></tr>
 <tr><td>5802.2000</td><td>15</td></tr>
 <tr><td>5802.3000</td><td>10</td></tr>
 <tr><td>5803.0010/0090</td><td>5</td></tr>
@@ -717,8 +728,8 @@ Anhang*[^t-1]*
 <tr><td>7018.1000</td><td>15</td></tr>
 <tr><td>7018.2000</td><td>10</td></tr>
 <tr><td>7018.9000</td><td>15</td></tr>
-<tr><td>7019.4000/5900</td><td>10</td></tr>
-<tr><td>7019.9090</td><td>10</td></tr>
+<tr><td>7019.6100/6900</td><td>10</td></tr>
+<tr><td>7019.8000/9000</td><td>10</td></tr>
 <tr><td>7020.0010/7101.2200</td><td>20</td></tr>
 <tr><td>7102.1000/7105.9000</td><td>10</td></tr>
 <tr><td>7106.9210/7107.0000</td><td>10</td></tr>
@@ -787,8 +798,8 @@ Anhang*[^t-1]*
 <tr><td>7418.1000</td><td>10</td></tr>
 <tr><td>7418.2010</td><td>10</td></tr>
 <tr><td>7418.2020</td><td>15</td></tr>
-<tr><td>7419.1000/9930</td><td>10</td></tr>
-<tr><td>7419.9941/9949</td><td>15</td></tr>
+<tr><td>7419.2000/8010</td><td>10</td></tr>
+<tr><td>7419.8021/8029</td><td>15</td></tr>
 <tr><td>7505.1110</td><td>5</td></tr>
 <tr><td>7505.1192</td><td>10</td></tr>
 <tr><td>7505.1210</td><td>5</td></tr>
@@ -820,13 +831,11 @@ Anhang*[^t-1]*
 <tr><td>8101.9900</td><td>20</td></tr>
 <tr><td>8102.9500/9600</td><td>10</td></tr>
 <tr><td>8102.9900</td><td>20</td></tr>
-<tr><td>8103.9000</td><td>15</td></tr>
+<tr><td>8103.9100/9900</td><td>15</td></tr>
 <tr><td>8104.9000</td><td>5</td></tr>
 <tr><td>8105.9000</td><td>15</td></tr>
-<tr><td>8106.0090</td><td>15</td></tr>
-<tr><td>8107.9000</td><td>15</td></tr>
 <tr><td>8108.9000</td><td>15</td></tr>
-<tr><td>8109.9000</td><td>15</td></tr>
+<tr><td>8109.9100/9900</td><td>15</td></tr>
 <tr><td>8110.9000</td><td>15</td></tr>
 <tr><td>8111.0090</td><td>15</td></tr>
 <tr><td>8112.1200/1900</td><td>10</td></tr>
@@ -856,9 +865,7 @@ Anhang*[^t-1]*
 <tr><td>8423.9093/9094</td><td>20</td></tr>
 <tr><td>8424.1000/8426.9920</td><td>10</td></tr>
 <tr><td>8427.1000/2000</td><td>[25]</td></tr>
-<tr><td>8427.9000/8442.4000</td><td>10</td></tr>
-<tr><td></td><td>20</td></tr>
-<tr><td>8442.5000/8468.9090</td><td>10</td></tr>
+<tr><td>8427.9000/8468.9090</td><td>10</td></tr>
 <tr><td>8470.1000/8471.9000</td><td>20</td></tr>
 <tr><td>8472.1000/9080</td><td>10</td></tr>
 <tr><td>8473.2100/5000</td><td>20</td></tr>
@@ -901,7 +908,7 @@ Anhang*[^t-1]*
 <tr><td>8516.9000/8518.9000</td><td>15</td></tr>
 <tr><td>8519.2000/8521.9000</td><td>25</td></tr>
 <tr><td>8522.1000/9000</td><td>20</td></tr>
-<tr><td>8523.2100/8000</td><td>10</td></tr>
+<tr><td>8523.2100/8524.9900</td><td>10</td></tr>
 <tr><td>8525.5000/8535.2120</td><td>20</td></tr>
 <tr><td>8535.2900</td><td>15</td></tr>
 <tr><td>8535.3010/8536.9080</td><td>20</td></tr>
@@ -921,7 +928,7 @@ Anhang*[^t-1]*
 <tr><td>8545.1130</td><td>10</td></tr>
 <tr><td>8545.1930/2000</td><td>10</td></tr>
 <tr><td>8545.9020/8547.9010</td><td>10</td></tr>
-<tr><td>8548.1000/9030</td><td>20</td></tr>
+<tr><td>8548.0010/8549.1900</td><td>20</td></tr>
 <tr><td>8608.0090</td><td>20</td></tr>
 <tr><td>8707.1000</td><td>10</td></tr>
 <tr><td>8707.9090/8708.9923</td><td>10</td></tr>
@@ -932,8 +939,9 @@ Anhang*[^t-1]*
 <tr><td>8714.9120/9690</td><td>10</td></tr>
 <tr><td>8714.9920/9990</td><td>10</td></tr>
 <tr><td>8716.9091/9099</td><td>10</td></tr>
-<tr><td>8803.1000/8804.0000</td><td>10</td></tr>
-<tr><td>8903.1000/9900</td><td>5</td></tr>
+<tr><td>8804.0000</td><td>10</td></tr>
+<tr><td>8807.1000/9090</td><td>10</td></tr>
+<tr><td>8903.1100/9900</td><td>5</td></tr>
 <tr><td>9001.1000/9002.9000</td><td>20</td></tr>
 <tr><td>9003.1100/9000</td><td>10</td></tr>
 <tr><td>9004.1000/9000</td><td>20</td></tr>
@@ -995,7 +1003,6 @@ Anhang*[^t-1]*
 <tr><td>9113.1000</td><td>30</td></tr>
 <tr><td>9113.2000</td><td>15</td></tr>
 <tr><td>9113.9000/9114.1010</td><td>10</td></tr>
-<tr><td>9114.1020</td><td>15</td></tr>
 <tr><td>9114.3000/9000</td><td>10</td></tr>
 <tr><td>9201.1000/9000</td><td>20</td></tr>
 <tr><td>9202.1000/9000</td><td>30</td></tr>
@@ -1019,22 +1026,15 @@ Anhang*[^t-1]*
 <tr><td>9306.9090</td><td>15</td></tr>
 <tr><td>9307.0000</td><td>20</td></tr>
 <tr><td>9401.1010/2090</td><td>15</td></tr>
-<tr><td>9401.3010</td><td>20</td></tr>
-<tr><td>9401.3091</td><td>10</td></tr>
-<tr><td>9401.3092/4020</td><td>15</td></tr>
-<tr><td>9401.4090</td><td>20</td></tr>
-<tr><td>9401.5200/5900</td><td>10</td></tr>
+<tr><td>9401.3100/5900</td><td>10</td></tr>
 <tr><td>9401.6100</td><td>20</td></tr>
 <tr><td>9401.6900</td><td>10</td></tr>
 <tr><td>9401.7110/7190</td><td>15</td></tr>
 <tr><td>9401.7910</td><td>10</td></tr>
 <tr><td>9401.7990</td><td>15</td></tr>
 <tr><td>9401.8010</td><td>20</td></tr>
-<tr><td>9401.8090/9012</td><td>15</td></tr>
-<tr><td>9401.9019</td><td>20</td></tr>
-<tr><td>9401.9091</td><td>10</td></tr>
-<tr><td>9401.9092</td><td>15</td></tr>
-<tr><td>9401.9099</td><td>10</td></tr>
+<tr><td>9401.8090</td><td>15</td></tr>
+<tr><td>9401.9110/9999</td><td>10</td></tr>
 <tr><td>9402.1010/9090</td><td>15</td></tr>
 <tr><td>9403.1010</td><td>10</td></tr>
 <tr><td>9403.1090</td><td>15</td></tr>
@@ -1042,9 +1042,10 @@ Anhang*[^t-1]*
 <tr><td>9403.2090/7000</td><td>15</td></tr>
 <tr><td>9403.8200/8300</td><td>5</td></tr>
 <tr><td>9403.8900</td><td>15</td></tr>
-<tr><td>9403.9010</td><td>10</td></tr>
-<tr><td>9403.9020/9404.1000</td><td>15</td></tr>
-<tr><td>9404.2100/9405.6000</td><td>10</td></tr>
+<tr><td>9403.9100</td><td>15</td></tr>
+<tr><td>9403.9910</td><td>10</td></tr>
+<tr><td>9403.9920/9404.1000</td><td>15</td></tr>
+<tr><td>9404.2100/9405.6900</td><td>10</td></tr>
 <tr><td>9405.9100</td><td>15</td></tr>
 <tr><td>9405.9200</td><td>20</td></tr>
 <tr><td>9405.9911/9990</td><td>10</td></tr>
@@ -1092,12 +1093,7 @@ Anhang*[^t-1]*
 <tr><td>9618.0010/0090</td><td>20</td></tr>
 <tr><td>9619.0000</td><td>10</td></tr>
 <tr><td>9620.0010/0090</td><td>15</td></tr>
-<tr><td>9701.1000</td><td>30</td></tr>
-<tr><td>9701.9010</td><td>10</td></tr>
-<tr><td>9701.9090</td><td>30</td></tr>
-<tr><td>9702.0000</td><td>20</td></tr>
-<tr><td>9703.0010</td><td>10</td></tr>
-<tr><td>9703.0020/0090</td><td>20</td></tr>
+<tr><td>9701.2100/9703.9000</td><td>20</td></tr>
 </table>
 
 [1] mit Angabe der Eigenmasse = 400 % auf der Eigenmasse
