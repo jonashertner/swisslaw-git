@@ -4,11 +4,11 @@ title: "Loi du 7 octobre 2005 sur les finances de la Confédération (Loi sur le
 short: LFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/227"
 language: fr
-version: 2016-01-01
+version: 2022-01-01
 adopted: 2005-10-07
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-227-20160101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-227-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20160101/fr"
 
 (Loi sur les finances, LFC)
 
-du 7 octobre 2005 (Etat le 1<sup>er</sup> janvier 2016)
+du 7 octobre 2005 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -34,7 +34,7 @@ arrête:
 
 **Objet et buts**
 
-<sup>1</sup> La présente loi règle le compte d’Etat, la gestion des finances de la Confédération, la gestion financière de l’administration et l’établissement des comptes.
+<sup>1</sup> La présente loi règle le compte d’État, la gestion des finances de la Confédération, la gestion financière de l’administration et l’établissement des comptes.
 
 <sup>2</sup>
 
@@ -69,47 +69,47 @@ La présente loi s’applique:
 
 #### Art. 3
 
-**Définitions**
+**Définitions**[^3-1]
 
-<sup>1</sup>
+<sup>1</sup> Le *patrimoine administratif* comprend les actifs affectés directement à l’exécution des tâches publiques, notamment les immobilisations corporelles, les prêts et les participations.
 
-Les *dépenses* sont des paiements à des tiers qui:
+<sup>2</sup> Le *patrimoine financier* comprend tous les autres actifs.
 
-- a. diminuent la fortune (dépenses courantes);
-- b. permettent de créer des actifs affectés directement à des buts administratifs (dépenses d’investissement).
+<sup>3</sup> Sont considérées comme des *charges* la diminution des actifs et l’augmentation des capitaux de tiers entraînant la baisse du capital propre. Les variations d’évaluation en font partie.
 
-<sup>2</sup>
+<sup>4</sup> Sont considérées comme des *revenus* l’augmentation des actifs et la diminution des capitaux de tiers entraînant la hausse du capital propre. Les variations d’évaluation en font partie.
 
-Les *recettes* sont des paiements de tiers qui:
+<sup>5</sup>
 
-- a. augmentent la fortune (recettes courantes);
-- b. sont effectués en contrepartie de la vente d’éléments du patrimoine administratif (recettes d’investissement).
+Sont considérés comme des *dépenses*:
 
-<sup>3</sup> Sont considérées comme des *charges* les diminutions totales de valeur sur une période donnée.
+- a. les charges, à l’exception des variations de l’évaluation du patrimoine administratif de la Confédération et des réévaluations des contributions à des investissements (dépenses courantes);
+- b. les investissements visant la création du patrimoine administratif de la Confédération et les contributions à des investissements (dépenses d’investissement).
 
-<sup>4</sup> Sont considérées comme des *revenus* les augmentations totales de valeur sur une période donnée.
+<sup>6</sup>
 
-<sup>5</sup> Le *patrimoine administratif* comprend les actifs affectés directement à l’exécution des tâches publiques.
+Sont considérés comme des *recettes*:
 
-<sup>6</sup> Le *patrimoine financier* comprend tous les autres actifs.
+- a. les revenus, à l’exception des variations d’évaluation du patrimoine administratif de la Confédération (recettes courantes);
+- b. la contrepartie de la vente d’éléments du patrimoine administratif de la Confédération, les remboursements de contributions à des investissements accordées par la Confédération, les distributions de bénéfices provenant de participations et les contributions à des investissements reçues par la Confédération (recettes d’investissement).
 
-<sup>7</sup> Les prestations d’une unité administrative qui permettent d’atteindre des objectifs de même nature sont rassemblées en *groupes de prestations*.[^3-1]
+<sup>7</sup> Les prestations d’une unité administrative qui permettent d’atteindre des objectifs de même nature sont rassemblées en *groupes de prestations*.
 
-[^3-1]: Introduit par le ch. I de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^3-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
-## Chapitre 2 Compte d’Etat
+## Chapitre 2 Compte d’État
 
 #### Art. 4
 
 **Compétence**
 
-Le Conseil fédéral soumet chaque année le compte d’Etat à l’approbation de l’Assemblée fédérale.
+Le Conseil fédéral soumet chaque année le compte d’État à l’approbation de l’Assemblée fédérale.
 
 #### Art. 5
 
 **Contenu**
 
-Le compte d’Etat de la Confédération comprend:
+Le compte d’État de la Confédération comprend:
 
 - a.
 
@@ -127,35 +127,32 @@ Le compte d’Etat de la Confédération comprend:
 
 Les comptes annuels de la Confédération comprennent:
 
-- a. le compte de financement;
+- a.[^6-2] …
 - b. le compte de résultats;
 - c. le compte des investissements;
 - d. le compte des flux de fonds;
 - e. le bilan;
 - f. l’état du capital propre;
+- f<sup>bis</sup>.[^6-3] l’attestation du respect du frein à l’endettement;
 - g. l’annexe.
 
 [^6-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^6-2]: Abrogée par le ch. I de la LF du 19 mars 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^6-3]: Introduite par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 7
 
-**Compte de financement**[^7-1]
+[^7-1]
 
-<sup>1</sup> Le compte de financement présente le solde de financement sur la base des dépenses et des recettes.
-
-<sup>2</sup> Il indique le solde ordinaire et le solde extraordinaire.
-
-[^7-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^7-1]: Abrogé par le ch. I de la LF du 19 mars 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 8
 
-**Compte de résultats**
+**Compte de résultats**[^8-1]
 
-<sup>1</sup> Le compte de résultats présente les charges et les revenus d’une période comptable; il indique le résultat opérationnel, le résultat financier et le résultat des participations importantes.[^8-1]
+Le compte de résultats présente les charges et les revenus d’une période comptable; il indique notamment le résultat opérationnel et le résultat des participations.
 
-<sup>2</sup> Les charges et les revenus sont classés par catégories.
-
-[^8-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^8-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 8a
 
@@ -163,9 +160,11 @@ Les comptes annuels de la Confédération comprennent:
 
 <sup>1</sup> Le compte des investissements présente les dépenses et les recettes d’investissement.
 
-<sup>2</sup> Il indique le solde ordinaire et le solde extraordinaire.
+<sup>2</sup> Les dépenses d’investissement comprennent notamment les dépenses pour des immobilisations corporelles, des prêts, des participations et des contributions à des investissements.
 
-[^8a-1]: Introduit par le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+<sup>3</sup> Les recettes d’investissement comprennent notamment la contrepartie de la vente d’immobilisations corporelles, les remboursements de prêts accordés par la Confédération et de contributions à des investissements, les distributions de bénéfices provenant de participations et les contributions à des investissements reçues.
+
+[^8a-1]: Introduit par le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération) ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 8b
 
@@ -185,17 +184,29 @@ Les comptes annuels de la Confédération comprennent:
 
 <sup>2</sup> L’actif comprend le patrimoine financier et le patrimoine administratif.
 
-<sup>3</sup> Les engagements comprennent les capitaux de tiers à court et à long terme ainsi que les fonds affectés.
+<sup>3</sup> Les engagements comprennent les capitaux de tiers à court et à long terme.[^9-1]
+
+[^9-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 9a
 
-**Etat du capital propre**[^9a-1]
+**État du capital propre**[^9a-1]
 
 <sup>1</sup> L’état du capital propre présente les conséquences des opérations financières comptabilisées sur les différentes composantes du capital propre.
 
 <sup>2</sup> Les charges et les revenus inscrits directement au crédit ou au débit du capital propre sont présentés séparément.
 
 [^9a-1]: Introduit par le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 9b
+
+**Attestation du respect du frein à l’endettement**[^9b-1]
+
+<sup>1</sup> Par la présentation des recettes, du facteur conjoncturel et des dépenses, l’attestation démontre si les exigences du frein à l’endettement fixées aux art. 13 à 18 sont respectées et quel est le montant des recettes et des dépenses ordinaires et extraordinaires.
+
+<sup>2</sup> Le compte de compensation et le compte d’amortissement sont mis à jour dans le cadre du compte d’État.
+
+[^9b-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 10
 
@@ -317,9 +328,9 @@ Lors de l’adoption du budget ou de ses suppléments, l’Assemblée fédérale
 
 **Compte de compensation**
 
-<sup>1</sup> Après l’adoption du compte d’Etat, le plafond des dépenses totales de l’année précédente est rectifié en fonction des recettes ordinaires effectives.[^16-1]
+<sup>1</sup> Après l’adoption du compte d’État, le plafond des dépenses totales de l’année précédente est rectifié en fonction des recettes ordinaires effectives.[^16-1]
 
-<sup>2</sup> Si les dépenses totales figurant au compte d’Etat sont supérieures ou inférieures au plafond des dépenses rectifié, la différence sera débitée d’un compte de compensation tenu hors du compte d’Etat ou sera créditée au compte en question.
+<sup>2</sup> Si les dépenses totales figurant au compte d’État sont supérieures ou inférieures au plafond des dépenses rectifié, la différence sera débitée d’un compte de compensation tenu hors du compte d’État ou sera créditée au compte en question.
 
 [^16-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5941](https://fedlex.data.admin.ch/eli/oc/2009/725); [FF 2008 7693](https://fedlex.data.admin.ch/eli/fga/2008/1441)).
 
@@ -335,7 +346,7 @@ Lors de l’adoption du budget ou de ses suppléments, l’Assemblée fédérale
 
 **Compte d’amortissement**[^17a-1]
 
-<sup>1</sup> Les recettes et les dépenses extraordinaires figurant au compte d’Etat sont inscrites à titre de bonification ou de charge dans un compte d’amortissement tenu hors du compte d’Etat.
+<sup>1</sup> Les recettes et les dépenses extraordinaires figurant au compte d’État sont inscrites à titre de bonification ou de charge dans un compte d’amortissement tenu hors du compte d’État.
 
 <sup>2</sup>
 
@@ -364,7 +375,7 @@ Ne sont pas inscrites dans le compte d’amortissement:
 
 #### Art. 17c
 
-**Economies à titre préventif**[^17c-1]
+**Économies à titre préventif**[^17c-1]
 
 <sup>1</sup> Pour compenser les découverts prévisibles du compte d’amortissement, l’Assemblée fédérale peut abaisser le plafond à fixer conformément aux art. 13 ou 15 lors de l’adoption du budget.
 
@@ -409,19 +420,20 @@ Le Conseil fédéral établit une planification financière pluriannuelle compre
 
 - a. les besoins financiers pour la période concernée;
 - b. les moyens permettant de couvrir les besoins financiers présumés;
-- c. les charges et les revenus présumés;
-- d.[^19-2] les groupes de prestations ainsi que les objectifs de prestation et d’efficacité qui s’y rapportent.
+- c.[^19-2] les charges et revenus présumés ainsi que les dépenses et recettes d’investissement présumées;
+- d.[^19-3] les groupes de prestations ainsi que les objectifs de prestation et d’efficacité qui s’y rapportent.
 
 <sup>2</sup> Lorsque le Conseil fédéral demande à l’Assemblée fédérale de nouveaux crédits pour financer des objets non prévus dans la planification financière, il indique en même temps comment il compte financer cette nouvelle charge.
 
 <sup>3</sup> Le Conseil fédéral s’emploie à coordonner la planification financière de la Confédération avec celle des cantons.
 
-<sup>4</sup> Le contenu et la structure de la planification financière sont régis par les art. 143, al. 2, et 146, al. 4, de la loi du 13 décembre 2002 sur le Parlement[^19-3].[^19-4]
+<sup>4</sup> Le contenu et la structure de la planification financière sont régis par les art. 143, al. 2, et 146, al. 4, de la loi du 13 décembre 2002 sur le Parlement[^19-4].[^19-5]
 
 [^19-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^19-2]: Introduite par le ch. I de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^19-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^19-4]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^19-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^19-3]: Introduite par le ch. I de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^19-4]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^19-5]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 20
 
@@ -461,7 +473,7 @@ Des crédits d’engagement sont requis notamment pour:
 
 #### Art. 22
 
-**Evaluation**
+**Évaluation**
 
 <sup>1</sup> Les crédits d’engagement sont évalués sur la base de comptes établis avec soin et dans les règles.
 
@@ -495,7 +507,7 @@ L’unité administrative tient pour chaque crédit un contrôle indiquant les e
 
 **Décompte**
 
-<sup>1</sup> Le Conseil fédéral indique l’état des crédits d’engagement lors de la présentation du compte d’Etat.
+<sup>1</sup> Le Conseil fédéral indique l’état des crédits d’engagement lors de la présentation du compte d’État.
 
 <sup>2</sup> Les crédits d’engagement inutilisés sont périmés dès que le projet est réalisé.
 
@@ -550,7 +562,7 @@ Le cadre financier porte sur:
 
 **Contenu**
 
-<sup>1</sup> Le budget est établi selon le contenu et la structure du compte d’Etat mais ne présente pas de compte des flux de fonds, de bilan et d’état du capital propre.[^30-1]
+<sup>1</sup> Le budget est établi selon le contenu et la structure du compte d’État. Il ne présente cependant pas de compte des flux de fonds, de bilan, d’état du capital propre ni d’annexe.[^30-1]
 
 <sup>2</sup>
 
@@ -569,7 +581,7 @@ Les montants mentionnés à l’al. 2, let. a et b, sont ventilés selon:
 
 <sup>4</sup> Dans le message sur le budget, le Conseil fédéral présente un aperçu des diverses positions budgétaires qu’il a introduites, supprimées, séparées ou réunies depuis l’année précédente.
 
-[^30-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^30-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 [^30-2]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 30a
@@ -608,7 +620,7 @@ Une unité administrative peut dépasser le montant des charges et des dépenses
 
 #### Art. 32
 
-**Evaluation des crédits**
+**Évaluation des crédits**
 
 <sup>1</sup> Les crédits sont évalués selon un calcul rigoureux des besoins prévisibles.
 
@@ -632,81 +644,75 @@ Les unités administratives peuvent constituer des réserves:
   - 1\. qu’elles réalisent des revenus supplémentaires nets provenant de prestations supplémentaires non budgétisées, ou
   - 2\. qu’elles enregistrent des charges ou des dépenses d’investissement inférieures à celles prévues au budget en optimisant la fourniture de prestations.
 
-<sup>2</sup> L’Assemblée fédérale se prononce sur la constitution de réserves avec le compte d’Etat.
+<sup>2</sup> L’Assemblée fédérale se prononce sur la constitution de réserves avec le compte d’État.
 
 [^32a-1]: Introduit par le ch. I de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 33
 
-**Suppléments ordinaires**
+**Crédits supplémentaires**[^33-1]
 
-<sup>1</sup> Un crédit supplémentaire est demandé pour une charge ou une dépense d’investissement pour laquelle le crédit budgétaire fait défaut ou ne suffit pas.
+<sup>1</sup> Le Conseil fédéral demande des crédits supplémentaires à l’Assemblée fédérale pour les charges ou les dépenses d’investissement pour lesquelles les crédits budgétaires font défaut ou ne suffisent pas.
 
-<sup>2</sup> Le Conseil fédéral soumet périodiquement les demandes de crédits supplémentaires à l’Assemblée fédérale.
+<sup>2</sup> Il soumet périodiquement les demandes de crédits supplémentaires à l’Assemblée fédérale.
 
-<sup>3</sup>
-
-Ne doivent pas faire l’objet d’une demande de crédit supplémentaire:
-
-- a. les parts de tiers non budgétisées à des recettes;
-- b.[^33-1] les apports à des fonds provenant de recettes affectées;
-- c.[^33-2] les amortissements, les réévaluations et les provisions non budgétisés.
-
-[^33-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
-[^33-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^33-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 34
 
-**Suppléments urgents**[^34-1]
+**Crédits supplémentaires urgents**[^34-1]
 
-<sup>1</sup> Le Conseil fédéral peut arrêter une charge ou une dépense d’investissement avant l’ouverture du crédit supplémentaire par l’Assemblée fédérale lorsque cette charge ou cette dépense ne peut être ajournée et que le crédit fait défaut ou ne suffit pas. Il requiert au préalable l’assentiment de la Délégation des finances.
+<sup>1</sup> Avant l’autorisation de l’Assemblée fédérale, le Conseil fédéral ne peut arrêter des charges ou des dépenses d’investissement au sens de l’art. 33 que s’il lui est impossible de les reporter et qu’il a l’assentiment de la Délégation des finances.
 
-<sup>2</sup> Il soumet à l’approbation ultérieure de l’Assemblée fédérale les charges et dépenses d’investissement urgentes qu’il a décidées, avec l’assentiment de la Délégation des finances, avec le prochain supplément du budget; lorsque cela n’est plus possible, il les lui soumet à titre de dépassement de crédit avec le compte d’Etat.
+<sup>2</sup> Il soumet à l’approbation ultérieure de l’Assemblée fédérale les charges et dépenses d’investissement urgentes qu’il a arrêtées avec l’assentiment de la Délégation des finances en même temps que la demande de crédits supplémentaires suivante.
 
-<sup>3</sup>
+<sup>3</sup> Si la charge ou la dépense d’investissement est supérieure à 500 millions de francs et qu’un quart des membres d’un conseil ou le Conseil fédéral demande, dans un délai d’une semaine après l’assentiment de la Délégation des finances, la convocation de l’Assemblée fédérale en session extraordinaire en vue de son approbation ultérieure, cette session a lieu pendant la troisième semaine qui suit le dépôt de la demande de convocation.
 
-Il peut soumettre à l’approbation ultérieure de l’Assemblée fédérale les charges ou dépenses d’investissement urgentes qui n’ont pas reçu l’assentiment préalable de la Délégation des finances lorsque les conditions suivantes sont réunies:
-
-- a. un dépassement de crédit est nécessaire;
-- b. le montant n’excède pas 5 millions de francs par charge ou dépense d’investissement.
-
-<sup>4</sup> Si la charge ou la dépense d’investissement est supérieure à 500 millions de francs et que, en vue de son approbation ultérieure, la convocation de l’Assemblée fédérale en session extraordinaire est demandée dans un délai d’une semaine après l’assentiment de la Délégation des finances, cette session a lieu pendant la troisième semaine qui suit le dépôt de la demande de convocation.
-
-[^34-1]: Nouvelle teneur selon le ch. I 3 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’Etat de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271)[2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^34-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 35
 
-**Dépassement de crédits**[^35-1]
+**Limitation des crédits supplémentaires**[^35-1]
 
-L’Assemblée fédérale approuve après coup, avec le compte d’Etat:
+Le montant total des crédits supplémentaires au budget ne doit si possible pas dépasser le montant total des parts de crédits qui ne seront probablement pas utilisées.
 
-- a. le dépassement des enveloppes budgétaires selon l’art. 30*a*, al. 4;
-- b.
-
-  les charges suivantes, pour autant qu’elles n’aient pas été budgétisées:
-
-  - 1\. les passifs de régularisation,
-  - 2\. les charges dues à des différences de cours de devises étrangères ou à une réduction de la circulation monétaire,
-  - 3\. les contributions aux assurances sociales si elles sont liées par la loi à l’évolution des recettes de la taxe sur la valeur ajoutée,
-  - 4\. les apports au fonds d’infrastructure ferroviaire qui proviennent du budget général de la Confédération;
-
-- c. les suppléments urgents qui ne peuvent lui être soumis avec le prochain supplément du budget (art. 34, al. 2).
-
-[^35-1]: Nouvelle teneur selon le ch. III de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^35-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 36
 
-**Reports de crédits**
+**Dépassements de crédits**[^36-1]
 
-<sup>1</sup> Lorsque la réalisation de projets d’investissement, de mesures ou de projets a pris du retard, le Conseil fédéral peut reporter à l’année suivante des crédits budgétaires et des crédits supplémentaires ouverts par l’Assemblée fédérale qui n’ont pas été entièrement utilisés.
+<sup>1</sup> Si les délais ne permettent pas au Conseil fédéral de demander des crédits supplémentaires pour des charges ou des dépenses d’investissement, il peut dépasser les crédits autorisés avec l’assentiment préalable de la Délégation des finances. L’assentiment n’est pas nécessaire lorsque le montant de la charge ou de la dépense d’investissement ne dépasse pas 5 millions de francs.
 
-<sup>2</sup> Le Conseil fédéral établit un rapport sur les reports de crédits à l’intention de l’Assemblée fédérale dans les messages sur les crédits supplémentaires ou, lorsque cela n’est pas possible, dans le compte d’Etat.
+<sup>2</sup> Dans le domaine propre de l’administration, les crédits budgétaires visés à l’art. 30*a*, al. 1 à 3 et 5, peuvent être dépassés de 1 %, mais au maximum de 10 millions de francs, sans crédits supplémentaires ni assentiment de la Délégation des finances.
+
+<sup>3</sup>
+
+Les dépassements de crédit sont autorisés sans que le Conseil fédéral doive préalablement demander des crédits supplémentaires à l’Assemblée fédérale ou solliciter l’assentiment de la Délégation des finances pour les charges et dépenses d’investissement suivantes:
+
+- a. les parts de tiers à des recettes déterminées, prévues par la Constitution ou une loi;
+- b. les apports aux fonds visés à l’art. 52, s’ils proviennent de recettes affectées ou sont fixés dans la loi;
+- c. l’utilisation de recettes affectées pour l’accomplissement d’une tâche déterminée et leur attribution aux financements spéciaux au sens de l’art. 53, s’il existe une obligation en prestations;
+- d. les contributions aux assurances sociales si elles sont liées à l’évolution des recettes de la taxe sur la valeur ajoutée ou fixées dans la loi;
+- e. le dépassement des enveloppes budgétaires au sens de l’art. 30*a*, al. 4;
+- f. les amortissements et les réévaluations;
+- g. les charges dues à des différences de cours de devises étrangères ou à une réduction de la circulation monétaire.
+
+<sup>4</sup> Le Conseil fédéral peut dépasser d’autres crédits sans demande de crédit supplémentaire ni assentiment de la Délégation des finances si l’arrêté fédéral concernant le budget ou un crédit supplémentaire le prévoit et si le Conseil fédéral ne dispose que d’un faible pouvoir d’appréciation pour les charges et les dépenses d’investissement.
+
+<sup>5</sup> Il soumet tous les dépassements de crédit à l’Assemblée fédérale pour approbation ultérieure dans le cadre du compte d’État.
+
+[^36-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 37
 
-**Limitation des crédits supplémentaires**
+**Reports de crédits**[^37-1]
 
-Les suppléments au budget ne doivent pas, dans la mesure du possible, dépasser le montant total des parts de crédits qui ne seront probablement pas utilisées.
+<sup>1</sup> Lorsque la réalisation d’investissements, de projets ou de mesures a pris du retard, le Conseil fédéral peut reporter à l’année suivante des crédits budgétaires et des crédits supplémentaires ouverts par l’Assemblée fédérale qui n’ont pas été entièrement utilisés.
+
+<sup>2</sup> Il adresse un rapport sur les reports de crédits à l’Assemblée fédérale dans le cadre du compte d’État.
+
+[^37-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ### Section 6**** Blocage et libération de crédits
 
@@ -735,7 +741,7 @@ Le Conseil fédéral est autorisé à lever totalement ou partiellement, dans le
 - a. une grave récession l’exige;
 - b. des paiements doivent être effectués en raison d’une obligation légale ou d’une promesse formelle.
 
-<sup>2</sup> La libération des crédits pour cause de grave récession est soumise à l’approbation de l’Assemblée fédérale. Le Conseil fédéral établit un rapport sur les autres libérations dans les messages sur les crédits supplémentaires ou dans le compte d’Etat.
+<sup>2</sup> La libération des crédits pour cause de grave récession est soumise à l’approbation de l’Assemblée fédérale. Le Conseil fédéral établit un rapport sur les autres libérations dans les messages sur les crédits supplémentaires ou dans le compte d’État.
 
 ## Chapitre 4 Gestion financière de l’administration****
 
@@ -815,91 +821,51 @@ Une unité administrative bénéficiant d’une autorisation peut fournir des pr
 
 [^4246-1]: Abrogés par le ch. I de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration), avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
-## Chapitre 5 Etablissement des comptes
+## Chapitre 5 Établissement des comptes
 
-### Section 1 Principes et normes
+## Section 1**** Comptes annuels de la Confédération
+
+[^chap6-1]
+
+[^chap6-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 47
 
-**Principes**
+**But et principes**
 
-<sup>1</sup> Les comptes sont établis de manière à présenter un état de la fortune, des finances et des revenus conforme à la réalité.
+<sup>1</sup> Les comptes annuels de la Confédération doivent fournir une présentation conforme à la réalité de l’état de la fortune, des finances et des revenus.
 
-<sup>2</sup> Ils sont établis selon les principes de l’importance, de la clarté, de la permanence des méthodes comptables et du produit brut.
+<sup>2</sup>
+
+Leur établissement repose sur les principes suivants garantissant la régularité de la tenue des comptes:
+
+- a. la pertinence;
+- b. la fiabilité;
+- c. la clarté;
+- d. le respect des délais;
+- e. le produit brut;
+- f. la vérifiabilité;
+- g. la permanence des méthodes comptables.
 
 #### Art. 48
 
 **Normes**
 
-<sup>1</sup> L’établissement des comptes est régi par des normes généralement reconnues.
+<sup>1</sup> L’établissement des comptes annuels de la Confédération est régi par les normes comptables internationales pour le secteur public (IPSAS) édictées par le Conseil des normes comptables internationales du secteur public.
 
-<sup>2</sup> Le Conseil fédéral règle les modalités. Il consulte préalablement les commissions des finances.
+<sup>2</sup> Le Conseil fédéral règle les dérogations substantielles aux IPSAS dans les dispositions d’exécution. Il consulte préalablement les commissions des finances.
 
-<sup>3</sup> Toute dérogation à ces normes est expressément motivée dans l’annexe des comptes annuels.
+<sup>3</sup> Il motive toute dérogation aux IPSAS dans l’annexe des comptes annuels.
 
-<sup>4</sup> Le Conseil fédéral s’emploie à harmoniser les normes de présentation des comptes de la Confédération, des cantons et des communes. Il peut allouer des contributions afin d’encourager cette harmonisation.[^48-1]
+<sup>4</sup> Il s’emploie à harmoniser les normes de présentation des comptes de la Confédération, des cantons et des communes. Il peut allouer des contributions afin d’encourager cette harmonisation.
 
-[^48-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+### Section 2 …
 
-### Section 2 Etablissement du bilan et évaluation
+#### Art. 49 à 51
 
-#### Art. 49
+[^4951-1]
 
-**Principes régissant l’établissement du bilan**
-
-<sup>1</sup>
-
-Les éléments de fortune sont inscrits à l’actif aux conditions suivantes:
-
-- a. ils ont une utilité économique future ou servent directement à l’exécution de tâches publiques;
-- b. leur valeur peut être déterminée de manière fiable.
-
-<sup>2</sup> Les engagements existants sont inscrits au passif lorsque leur réalisation risque d’entraîner une sortie de fonds.
-
-<sup>3</sup> Des provisions sont constituées en vue de couvrir des engagements existants dont la date d’exécution ou le montant des sorties de fonds qu’ils entraîneront sont indéterminés.
-
-<sup>4</sup> Si des normes généralement reconnues l’exigent, les garanties financières et les cautions sont inscrites au passif du bilan.[^49-1]
-
-[^49-1]: Introduit par le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
-
-#### Art. 50
-
-**Principes d’évaluation**[^50-1]
-
-<sup>1</sup> Le patrimoine financier est inscrit au bilan à la valeur vénale ou au coût d’acquisition amorti.
-
-<sup>2</sup>
-
-Le patrimoine administratif est inscrit au bilan:
-
-- a. à la valeur d’acquisition, déduction faite des amortissements et des réévaluations, ou à la valeur vénale;
-- b.
-
-  en cas de participations:
-
-  - 1\. pour les participations importantes: au prorata de la part détenue par la Confédération dans le capital propre de l’entreprise,
-  - 2\. pour les autres participations: à la valeur vénale ou, si celle-ci ne peut pas être déterminée, à la valeur d’acquisition.
-
-<sup>3</sup> Les engagements financiers sont inscrits au bilan à la valeur vénale ou au coût d’acquisition amorti.
-
-<sup>4</sup> L’inscription au bilan est régie par le principe de l’évaluation individuelle.
-
-[^50-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
-
-#### Art. 51
-
-**Amortissements et réévaluations**
-
-<sup>1</sup>
-
-Les immobilisations corporelles figurant au bilan sont amorties:
-
-- a. selon la planification: pour tenir compte des moins-values dues à leur utilisation ordinaire;
-- b. sans planification: pour tenir compte d’autres moins-values.
-
-<sup>2</sup> Le bilan est corrigé en cas de dépréciation des avoirs et des participations. Les réévaluations à la baisse n’ont aucun effet sur les prétentions de la Confédération envers des tiers.
-
-<sup>3</sup> Les amortissements non planifiés et les réévaluations sont effectués dès que la dépréciation est prévisible.
+[^4951-1]: Abrogés par le ch. I de la LF du 19 mars 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ### Section 3 Modes de financement spéciaux
 
@@ -935,25 +901,19 @@ Les immobilisations corporelles figurant au bilan sont amorties:
 
 #### Art. 55
 
-<sup>1</sup>
+[^55-1]
 
-Sont regroupés sur le plan comptable, selon le principe de la consolidation globale, pour l’examen du compte d’Etat:
+<sup>1</sup> Le Conseil fédéral établit chaque année un compte consolidé. Il le soumet à l’Assemblée fédérale en même temps que le compte d’État.
 
-- a. les institutions et les unités administratives qui figurent dans les comptes de la Confédération (art. 5, let. a, ch. 3);
-- b. les unités administratives et les fonds de la Confédération qui soumettent un compte spécial à l’Assemblée fédérale dans le cadre du compte d’Etat (art. 5, let. b);
-- c. les unités de l’administration fédérale décentralisée qui tiennent leur propre comptabilité.
+<sup>2</sup> Le compte consolidé de la Confédération fournit une présentation conforme à la réalité de l’état de la fortune, des finances et des revenus, abstraction faite des transferts internes. Il est régi par les IPSAS.
 
-<sup>2</sup>
+<sup>3</sup> Le périmètre de consolidation est déterminé par le principe de contrôle défini dans les IPSAS. Le Conseil fédéral peut élargir le périmètre de consolidation dans les dispositions d’exécution lorsqu’il existe un rapport étroit avec les finances fédérales.
 
-Le Conseil fédéral peut, par une ordonnance:
+<sup>4</sup> Le Conseil fédéral motive toute dérogation aux IPSAS dans l’annexe du compte consolidé.
 
-- a. exclure de la consolidation globale des unités de l’administration fédérale décentralisée qui tiennent leur propre comptabilité ou leur prescrire des principes pour l’établissement de leurs comptes;
-- b.[^55-1] inclure dans la consolidation globale d’autres organisations en rapport étroit avec les finances fédérales.
+<sup>5</sup> Les principes du compte annuel définis à l’art. 47, al. 2, sont applicables par analogie.
 
-<sup>3</sup> Le compte consolidé donne une vue d’ensemble de l’état de la fortune, des finances et des revenus, abstraction faite des transferts internes. Les participations importantes peuvent être consolidées selon la méthode de la mise en équivalence.[^55-2]
-
-[^55-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
-[^55-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^55-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## Chapitre 6 Tâches et compétences de l’administration fédérale
 
@@ -970,7 +930,7 @@ Ils assument notamment les tâches suivantes:
 - a. ils planifient, dirigent et coordonnent la gestion financière dans leur domaine;
 - b. ils veillent à la clarté des finances des unités administratives qui leur sont subordonnées et à la qualité de la comptabilité dans leur domaine de compétence;
 - c. ils émettent, au besoin, des directives complémentaires en vue de mettre en œuvre les objectifs du Conseil fédéral, du Département fédéral des finances (DFF) et de l’Administration fédérale des finances (AFF);
-- d. ils assistent le DFF lors de l’établissement du budget et de ses suppléments ainsi que du compte d’Etat et du plan financier.
+- d. ils assistent le DFF lors de l’établissement du budget et de ses suppléments ainsi que du compte d’État et du plan financier.
 
 #### Art. 57
 
@@ -990,7 +950,7 @@ Ils assument notamment les tâches suivantes:
 
 <sup>1</sup> Le DFF gère les finances de la Confédération et veille à ce que la vue d’ensemble en soit assurée.
 
-<sup>2</sup> Il prépare à l’intention du Conseil fédéral le budget et ses suppléments, ainsi que le compte d’Etat et le plan financier; il contrôle les demandes de crédits et l’estimation des recettes.
+<sup>2</sup> Il prépare à l’intention du Conseil fédéral le budget et ses suppléments, ainsi que le compte d’État et le plan financier; il contrôle les demandes de crédits et l’estimation des recettes.
 
 <sup>3</sup> Il examine à l’intention du Conseil fédéral tous les projets ayant des incidences financières sous l’angle de leur rentabilité, de leur efficacité et de leur impact financier.
 
@@ -1035,9 +995,13 @@ Faute de pouvoir obtenir un meilleur résultat pour la Confédération, l’AFF 
 
 <sup>2</sup> L’AFF est autorisée à emprunter des fonds sur le marché monétaire et le marché des capitaux pour assurer les paiements.
 
-<sup>3</sup> Le plan financier et le budget présentent chaque année un rapport prévisionnel sur la situation de la trésorerie et de l’emprunt de fonds; le compte d’Etat en donne un compte-rendu.
+<sup>2bis</sup> Elle émet ses emprunts sous la forme de titres intermédiés sur la base de certificats globaux ou de droits-valeurs au sens des art. 973*b* et 973*c* du code des obligations[^60-2]. Elle peut convertir les certificats globaux en droits-valeurs et inversement en tout temps et sans l’assentiment des créanciers. Elle dispose également de ce droit de conversion pour les emprunts qui sont déjà en cours avant l’entrée en vigueur de la présente disposition.[^60-3]
+
+<sup>3</sup> Le plan financier et le budget présentent chaque année un rapport prévisionnel sur la situation de la trésorerie et de l’emprunt de fonds; le compte d’État en donne un compte-rendu.
 
 [^60-1]: Nouvelle teneur selon le ch. II 8 de la loi du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^60-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^60-3]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 60a
 
@@ -1147,7 +1111,7 @@ Il détermine notamment:
 
 #### Art. 63a
 
-**Evaluation du nouveau modèle de gestion de l’administration fédérale**[^63a-1]
+**Évaluation du nouveau modèle de gestion de l’administration fédérale**[^63a-1]
 
 Le Conseil fédéral présente à l’Assemblée fédérale, au plus tard six ans après l’entrée en vigueur de la modification du 26 septembre 2014, un rapport d’évaluation relatif à la mise en œuvre et à l’efficacité du nouveau modèle de gestion de l’administration fédérale.
 
@@ -1173,7 +1137,7 @@ La loi fédérale du 6 octobre 1989 sur les finances de la Confédération[^64-1
 
 **Dispositions transitoires de la modification du 20 mars 2009**[^66-1]
 
-<sup>1</sup> A l’entrée en vigueur de la présente modification, le solde du compte de compensation au sens de l’art. 16, al. 2, diminue de 1 milliard de francs.
+<sup>1</sup> À l’entrée en vigueur de la présente modification, le solde du compte de compensation au sens de l’art. 16, al. 2, diminue de 1 milliard de francs.
 
 <sup>2</sup> L’art. 17*a* s’applique à toutes les recettes et dépenses extraordinaires de l’exercice en cours à l’entrée en vigueur de la présente modification.
 
@@ -1188,7 +1152,7 @@ La loi fédérale du 6 octobre 1989 sur les finances de la Confédération[^64-1
 L’ancien droit reste applicable:
 
 - a. à l’exécution du dernier budget adopté avant l’entrée en vigueur de la présente modification;
-- b. au projet, à la diffusion et à la réception du compte d’Etat correspondant.
+- b. au projet, à la diffusion et à la réception du compte d’État correspondant.
 
 <sup>2</sup>
 
@@ -1209,11 +1173,21 @@ Pour les unités administratives gérées par mandat de prestations et enveloppe
 Le droit en vigueur reste applicable:
 
 - a. à l’exécution du dernier budget adopté avant l’entrée en vigueur de la présente modification;
-- b. à l’établissement, à la diffusion et à la réception du compte d’Etat correspondant.
+- b. à l’établissement, à la diffusion et à la réception du compte d’État correspondant.
 
-<sup>2</sup> A la clôture du compte d’Etat 2016, l’Assemblée fédérale corrige le solde du compte de compensation au sens de l’art. 16, al. 2, en en déduisant la différence cumulée entre 2007 et 2016 par rapport à une comptabilisation par exercice des agios et disagios réalisés sur les emprunts de la Confédération.
+<sup>2</sup> À la clôture du compte d’État 2016, l’Assemblée fédérale corrige le solde du compte de compensation au sens de l’art. 16, al. 2, en en déduisant la différence cumulée entre 2007 et 2016 par rapport à une comptabilisation par exercice des agios et disagios réalisés sur les emprunts de la Confédération.
 
 [^66b-1]: Introduit par le ch. I de la LF du 19 juin 2015 (Optimisation du nouveau modèle comptable de la Confédération), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672);[FF 2014 9127](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 66c
+
+**Dispositions transitoires de la modification du 19 mars 2021**[^66c-1]
+
+<sup>1</sup> L’Assemblée fédérale corrige le solde du compte de compensation au sens de l’art. 16, al. 2, à la clôture du premier compte d’État qui suit l’entrée en vigueur de la modification du 19 mars 2021. L’ampleur de la correction correspond à la différence entre le montant des comptabilisations déjà effectuées et le montant qui aurait été atteint si le nouveau droit avait été appliqué à partir de 2007.
+
+<sup>2</sup> L’Assemblée fédérale corrige le solde du compte d’amortissement au sens de l’art. 17*a*, al. 1, à la clôture du premier compte d’État qui suit l’entrée en vigueur de la présente modification. L’ampleur de la correction correspond à la différence entre le montant des comptabilisations déjà effectuées et le montant qui aurait été atteint si le nouveau droit avait été appliqué à partir de 2010.
+
+[^66c-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 67
 

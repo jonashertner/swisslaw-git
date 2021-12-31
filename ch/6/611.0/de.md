@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 7. Oktober 2005 über den eidgenössischen Finanzhausha
 short: FHG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/227"
 language: de
-version: 2016-01-01
+version: 2022-01-01
 adopted: 2005-10-07
 in_force: 2006-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2006-227-20160101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/227/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-227-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/227/20160101/de"
 
 (Finanzhaushaltgesetz, FHG)
 
-vom 7. Oktober 2005 (Stand am 1. Januar 2016)
+vom 7. Oktober 2005 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -69,33 +69,33 @@ Dieses Gesetz gilt für:
 
 #### Art. 3
 
-**Begriffe**
+**Begriffe**[^3-1]
 
-<sup>1</sup>
+<sup>1</sup> Das *Verwaltungsvermögen* umfasst die Vermögenswerte, die unmittelbar der Erfüllung öffentlicher Aufgaben dienen, namentlich Sachanlagen, Darlehen und Beteiligungen.
 
-*Ausgaben* sind Zahlungen an Dritte, die:
+<sup>2</sup> Das *Finanzvermögen* umfasst alle übrigen Vermögenswerte.
 
-- a. das Vermögen vermindern (laufende Ausgaben);
-- b. Vermögenswerte schaffen, die unmittelbar Verwaltungszwecken dienen (Investitionsausgaben).
+<sup>3</sup> Als *Aufwand* gelten die Abnahme von Vermögenswerten und die Zunahme von Fremdkapital, die zur Senkung des Eigenkapitals führen. Dazu gehören auch Bewertungsänderungen.
 
-<sup>2</sup>
+<sup>4</sup> Als *Ertrag* gelten die Zunahme von Vermögenswerten und die Abnahme von Fremdkapital, die zur Erhöhung des Eigenkapitals führen. Dazu gehören auch Bewertungsänderungen.
 
-*Einnahmen* sind Zahlungen Dritter, die:
+<sup>5</sup>
 
-- a. das Vermögen vermehren (laufende Einnahmen);
-- b. als Entgelt für die Veräusserung von Verwaltungsvermögen geleistet werden (Investitionseinnahmen).
+Als *Ausgaben* gelten:
 
-<sup>3</sup> Als *Aufwand* gilt der gesamte Wertverzehr innerhalb einer bestimmten Periode.
+- a. der Aufwand mit Ausnahme der Bewertungsänderungen des Verwaltungsvermögens des Bundes und der Wertberichtigungen der Investitionsbeiträge (laufende Ausgaben);
+- b. die Investitionen zur Schaffung von Verwaltungsvermögen des Bundes und die Investitionsbeiträge (Investitionsausgaben).
 
-<sup>4</sup> Als *Ertrag* gilt der gesamte Wertzuwachs innerhalb einer bestimmten Periode.
+<sup>6</sup>
 
-<sup>5</sup> Das *Verwaltungsvermögen* umfasst die Vermögenswerte, die unmittelbar der Erfüllung öffentlicher Aufgaben dienen.
+Als *Einnahmen* gelten:
 
-<sup>6</sup> Das *Finanzvermögen* umfasst alle übrigen Vermögenswerte.
+- a. der Ertrag mit Ausnahme der Bewertungsänderungen des Verwaltungsvermögens des Bundes (laufende Einnahmen);
+- b. das Entgelt für die Veräusserung von Verwaltungsvermögen des Bundes, Rückzahlungen der vom Bund gewährten Investitionsbeiträge, Gewinnausschüttungen aus Beteiligungen sowie Investitionsbeiträge, die der Bund erhält (Investitionseinnahmen).
 
-<sup>7</sup> In *Leistungsgruppen* zusammengefasst werden Leistungen einer Verwaltungseinheit, mit denen gleichartige Ziele erreicht werden sollen.[^3-1]
+<sup>7</sup> In *Leistungsgruppen* zusammengefasst werden Leistungen einer Verwaltungseinheit, mit denen gleichartige Ziele erreicht werden sollen.
 
-[^3-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^3-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## 2. Kapitel: Staatsrechnung
 
@@ -127,35 +127,32 @@ Die Staatsrechnung des Bundes umfasst:
 
 Die Jahresrechnung des Bundes umfasst:
 
-- a. die Finanzierungsrechnung;
+- a.[^6-2] ...
 - b. die Erfolgsrechnung;
 - c. die Investitionsrechnung;
 - d. die Geldflussrechnung;
 - e. die Bilanz;
 - f. den Eigenkapitalnachweis;
+- f <sup>bis</sup>.[^6-3] den Nachweis der Einhaltung der Schuldenbremse;
 - g. den Anhang.
 
 [^6-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^6-2]: Aufgehoben durch Ziff. I des BG vom 19. März 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^6-3]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 7
 
-**Finanzierungsrechnung**[^7-1]
+[^7-1]
 
-<sup>1</sup> Die Finanzierungsrechnung weist anhand der Ausgaben und Einnahmen das Finanzierungsergebnis aus.
-
-<sup>2</sup> Sie zeigt das ordentliche Ergebnis und das ausserordentliche Ergebnis.
-
-[^7-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^7-1]: Aufgehoben durch Ziff. I des BG vom 19. März 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 8
 
-**Erfolgsrechnung**
+**Erfolgsrechnung**[^8-1]
 
-<sup>1</sup> Die Erfolgsrechnung weist den Aufwand und den Ertrag einer Rechnungsperiode aus; sie zeigt das operative Ergebnis, das Finanzergebnis und das Ergebnis aus namhaften Beteiligungen.[^8-1]
+Die Erfolgsrechnung weist den Aufwand und den Ertrag einer Rechnungsperiode aus; sie zeigt namentlich das operative Ergebnis und das Ergebnis aus Beteiligungen.
 
-<sup>2</sup> Sie ist nach Aufwand- und Ertragsarten gegliedert.
-
-[^8-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^8-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 8a
 
@@ -163,9 +160,11 @@ Die Jahresrechnung des Bundes umfasst:
 
 <sup>1</sup> Die Investitionsrechnung weist die Investitionsausgaben und die Investitionseinnahmen aus.
 
-<sup>2</sup> Sie zeigt das ordentliche Ergebnis und das ausserordentliche Ergebnis.
+<sup>2</sup> Die Investitionsausgaben umfassen namentlich die Ausgaben für Sachanlagen, Darlehen, Beteiligungen und Investitionsbeiträge.
 
-[^8a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+<sup>3</sup> Die Investitionseinnahmen umfassen namentlich das Entgelt für die Veräusserung von Sachanlagen, Rückzahlung der vom Bund gewährten Darlehen und Investitionsbeiträge, Gewinnausschüttungen aus Beteiligungen sowie erhaltene Investitionsbeiträge.
+
+[^8a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell) ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)). Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 8b
 
@@ -185,7 +184,9 @@ Die Jahresrechnung des Bundes umfasst:
 
 <sup>2</sup> Die Vermögenswerte werden in Finanz- und Verwaltungsvermögen gegliedert.
 
-<sup>3</sup> Die Verpflichtungen werden in kurzfristiges und langfristiges Fremdkapital sowie in zweckgebundene Mittel gegliedert.
+<sup>3</sup> Die Verpflichtungen werden in kurzfristiges und langfristiges Fremdkapital gegliedert.[^9-1]
+
+[^9-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 9a
 
@@ -197,6 +198,16 @@ Die Jahresrechnung des Bundes umfasst:
 
 [^9a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
 
+#### Art. 9b
+
+**Nachweis der Einhaltung der Schuldenbremse**[^9b-1]
+
+<sup>1</sup> Der Nachweis legt anhand der Einnahmen, des Konjunkturfaktors und der Ausgaben dar, ob die Vorgaben der Schuldenbremse nach den Artikeln 13−18 eingehalten werden und wie hoch die ordentlichen und ausserordentlichen Einnahmen und Ausgaben sind.
+
+<sup>2</sup> Im Rahmen der Staatsrechnung werden das Ausgleichskonto und das Amortisationskonto nachgeführt.
+
+[^9b-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+
 #### Art. 10
 
 **Anhang**
@@ -207,9 +218,9 @@ Der Anhang der Jahresrechnung des Bundes:
 - b. fasst die Rechnungslegungsgrundsätze einschliesslich der wesentlichen Grundsätze für die Bilanzierung und Bewertung zusammen;
 - c. legt in geraffter Form wesentliche Einzelheiten zu den anderen Teilen der Jahresrechnung offen;
 - d. enthält zusätzliche Angaben, die für die Beurteilung der Vermögens- und Ertragslage, der Verpflichtungen und der finanziellen Risiken von Bedeutung sind;
-- e.[^10-1] …
+- e.[^10-1] ...
 - f. nennt die Abschreibungsmethoden und -sätze;
-- g.[^10-2] …
+- g.[^10-2] ...
 
 [^10-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
 [^10-2]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
@@ -409,18 +420,19 @@ Der Bundesrat erstellt eine mehrjährige Finanzplanung; diese umfasst die drei d
 
 - a. den in der Planperiode erwarteten Finanzierungsbedarf;
 - b. die Deckung des erwarteten Finanzierungsbedarfs;
-- c. die voraussichtlichen Aufwände und Erträge;
-- d.[^19-1] die Leistungsgruppen und die dazugehörigen Leistungs- und Wirkungsziele.
+- c.[^19-1] die voraussichtlichen Aufwände und Erträge sowie die voraussichtlichen Investitionsausgaben und -einnahmen;
+- d.[^19-2] die Leistungsgruppen und die dazugehörigen Leistungs- und Wirkungsziele.
 
 <sup>2</sup> Beantragt der Bundesrat der Bundesversammlung Kredite für Vorhaben, die in der Finanzplanung nicht vorgesehen sind, so legt er gleichzeitig dar, wie die Zusatzbelastung finanziert werden soll.
 
 <sup>3</sup> Der Bundesrat koordiniert soweit als möglich die Finanzplanung des Bundes mit derjenigen der Kantone.
 
-<sup>4</sup> Inhalt und Gliederung der Finanzplanung richten sich nach den Artikeln 143 Absatz 2 und 146 Absatz 4 des Parlamentsgesetzes vom 13. Dezember 2002[^19-2].[^19-3]
+<sup>4</sup> Inhalt und Gliederung der Finanzplanung richten sich nach den Artikeln 143 Absatz 2 und 146 Absatz 4 des Parlamentsgesetzes vom 13. Dezember 2002[^19-3].[^19-4]
 
-[^19-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^19-2]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
-[^19-3]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^19-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^19-2]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^19-3]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^19-4]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 20
 
@@ -547,7 +559,7 @@ Die finanziellen Planungsgrössen umfassen:
 
 **Inhalt**
 
-<sup>1</sup> Der Voranschlag folgt nach Inhalt und Gliederung der Staatsrechnung des Bundes, umfasst aber keine Geldflussrechnung, keine Bilanz und keinen Eigenkapitalnachweis.[^30-1]
+<sup>1</sup> Der Voranschlag folgt nach Inhalt und Gliederung der Staatsrechnung des Bundes. Er umfasst aber weder Geldflussrechnung, Bilanz, Eigenkapitalnachweis noch Anhang.[^30-1]
 
 <sup>2</sup>
 
@@ -566,7 +578,7 @@ Die Angaben nach Absatz 2 Buchstaben a und b sind gegliedert nach:
 
 <sup>4</sup> In der Botschaft zum Voranschlag gibt der Bundesrat eine Übersicht über die einzelnen Budgetpositionen, die er gegenüber dem Vorjahr neu eingeführt, aufgehoben, getrennt oder zusammengelegt hat.
 
-[^30-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^30-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 [^30-2]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 30a
@@ -635,74 +647,69 @@ Verwaltungseinheiten können Reserven bilden, wenn sie:
 
 #### Art. 33
 
-**Ordentliche Nachträge**
+**Nachtragskredite**[^33-1]
 
-<sup>1</sup> Enthält der Voranschlag für einen Aufwand oder eine Investitionsausgabe keinen oder keinen ausreichenden Kredit, so ist ein Nachtragskredit zu beantragen.
+<sup>1</sup> Enthält der Voranschlag für Aufwände oder Investitionsausgaben keine oder keine ausreichenden Kredite, so beantragt der Bundesrat der Bundesversammlung Nachtragskredite.
 
-<sup>2</sup> Der Bundesrat unterbreitet der Bundesversammlung die Nachtragskreditbegehren periodisch.
+<sup>2</sup> Er unterbreitet der Bundesversammlung die Anträge auf Nachtragskredite periodisch.
 
-<sup>3</sup>
-
-Keine Nachtragskredite sind erforderlich für:
-
-- a. nicht budgetierte Anteile Dritter an bestimmten Einnahmen;
-- b. Fondseinlagen aus zweckgebundenen Einnahmen;
-- c.[^33-1] nicht budgetierte Abschreibungen, Wertberichtigungen und Rückstellungen.
-
-[^33-1]: Fassung gemäss Ziff. I des BG vom 18. Juni 2010, in Kraft seit 1. Jan 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^33-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 34
 
-**Dringliche Nachträge**[^34-1]
+**Dringliche Nachtragskredite**[^34-1]
 
-<sup>1</sup> Ertragen Aufwände oder Investitionsausgaben, für die im Voranschlag kein oder kein ausreichender Kredit bewilligt ist, keinen Aufschub, so kann sie der Bundesrat vor der Bewilligung eines Nachtragskredites durch die Bundesversammlung beschliessen. Er holt vorgängig die Zustimmung der Finanzdelegation ein.
+<sup>1</sup> Vor der Bewilligung durch die Bundesversammlung darf der Bundesrat Aufwände oder Investitionsausgaben nach Artikel 33 nur beschliessen, wenn er sie nicht aufschieben kann und die Finanzdelegation ihnen zugestimmt hat.
 
-<sup>2</sup> Der Bundesrat unterbreitet die mit Zustimmung der Finanzdelegation beschlossenen dringlichen Aufwände und Investitionsausgaben der Bundesversammlung mit dem nächsten Nachtrag zum Voranschlag oder, wenn dies nicht mehr möglich ist, als Kreditüberschreitung mit der Staatsrechnung zur nachträglichen Genehmigung.
+<sup>2</sup> Er unterbreitet der Bundesversammlung die mit Zustimmung der Finanzdelegation beschlossenen dringlichen Aufwände und Investitionsausgaben zusammen mit dem nächsten Antrag auf Nachtragskredite nachträglich zur Genehmigung.
 
-<sup>3</sup>
+<sup>3</sup> Überschreitet der Aufwand oder die Investitionsausgabe 500 Millionen Franken und verlangt ein Viertel der Mitglieder eines Rates oder der Bundesrat innert einer Woche nach der Zustimmung der Finanzdelegation die Einberufung der Bundesversammlung zu einer ausserordentlichen Session zur nachträglichen Genehmigung, so findet diese in der dritten Kalenderwoche nach der Einreichung des Begehrens für die Einberufung der Session statt.
 
-Er kann der Bundesversammlung dringliche Aufwände oder Investitionsausgaben ohne vorgängige Zustimmung der Finanzdelegation zur nachträglichen Genehmigung unterbreiten, wenn:
-
-- a. eine Kreditüberschreitung beansprucht werden muss; und
-- b. der Betrag im Einzelfall 5 Millionen Franken nicht überschreitet.
-
-<sup>4</sup> Überschreitet der Aufwand oder die Investitionsausgabe 500 Millionen Franken und wird für die nachträgliche Genehmigung innert einer Woche nach der Zustimmung der Finanzdelegation die Einberufung der Bundesversammlung zu einer ausserordentlichen Session verlangt, so findet diese in der dritten Kalenderwoche nach der Einreichung des Begehrens für die Einberufung der Session statt.
-
-[^34-1]: Fassung gemäss Ziff. I 3 des BG vom 17. Dez. 2010 über die Wahrung von Demokratie, Rechtsstaat und Handlungsfähigkeit in ausserordentlichen Lagen, in Kraft seit 1. Mai 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271)[2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^34-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 35
 
-**Kreditüberschreitungen**[^35-1]
+**Begrenzung der Nachtragskredite**[^35-1]
 
-Der Bundesversammlung sind nachträglich mit der Staatsrechnung zur Genehmigung zu unterbreiten:
+Der Gesamtbetrag der Nachtragskredite zum Voranschlag soll den Gesamtbetrag der voraussichtlich nicht beanspruchten Teile der Voranschlagskredite nach Möglichkeit nicht überschreiten.
 
-- a. die Überschreitung von Globalbudgets nach Artikel 30*a* Absatz 4;
-- b.
-
-  folgende Aufwände, soweit sie nicht budgetiert worden sind:
-
-  - 1\. passive Rechnungsabgrenzung,
-  - 2\. Belastung durch Fremdwährungsdifferenzen oder verminderten Münzumlauf,
-  - 3\. Beiträge an Sozialversicherungen, wenn sie durch Gesetz an die Entwicklung der Mehrwertsteuereinnahmen gebunden sind,
-  - 4\. Einlagen aus dem allgemeinen Bundeshaushalt in den Fonds zur Finanzierung der Eisenbahninfrastruktur;
-
-- c. dringliche Nachträge, die nicht mit dem nächsten Nachtrag zum Voranschlag unterbreitet werden können (Art. 34 Abs. 2).
-
-[^35-1]: Fassung gemäss Ziff. III des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^35-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 36
 
-**Kreditübertragungen**
+**Kreditüberschreitungen**[^36-1]
 
-<sup>1</sup> Im Falle von zeitlichen Verzögerungen bei der Realisierung von Investitionsvorhaben, Einzelmassnahmen und Projekten kann der Bundesrat nicht vollständig beanspruchte Voranschlags- und Nachtragskredite, die von der Bundesversammlung bereits bewilligt worden sind, auf das Folgejahr übertragen.
+<sup>1</sup> Ist es dem Bundesrat aus zeitlichen Gründen nicht möglich, für Aufwände oder Investitionsausgaben Nachtragskredite einzuholen, so kann er bewilligte Kredite mit vorgängiger Zustimmung der Finanzdelegation überschreiten. Die Zustimmung ist nicht erforderlich, wenn der Betrag im Einzelfall 5 Millionen Franken nicht überschreitet.
 
-<sup>2</sup> Er erstattet der Bundesversammlung in den Botschaften über die Nachtragskreditbegehren oder, wenn dies nicht möglich ist, mit der Staatsrechnung über die Kreditübertragungen Bericht.
+<sup>2</sup> Im verwaltungseigenen Bereich dürfen Voranschlagskredite nach Artikel 30*a* Absätze 1–3 und 5 ohne Nachtragskredite und Zustimmung der Finanzdelegation um 1 Prozent, höchstens aber um 10 Millionen Franken, überschritten werden.
+
+<sup>3</sup>
+
+Kreditüberschreitungen sind zudem für folgende Aufwände und Investitionsausgaben zulässig, ohne dass der Bundesrat vorgängig von der Bundesversammlung Nachtragskredite oder von der Finanzdelegation die Zustimmung einholen muss:
+
+- a. in Verfassung oder Gesetz festgelegte Anteile Dritter an bestimmten Einnahmen;
+- b. Einlagen in Fonds nach Artikel 52, wenn sie aus zweckgebundenen Einnahmen stammen oder im Gesetz festgelegt sind;
+- c. die Verwendung zweckgebundener Einnahmen zur Erfüllung einer bestimmten Aufgabe und die Einlage solcher Einnahmen in die Spezialfinanzierungen nach Artikel 53, sofern eine Leistungsverpflichtung vorliegt;
+- d. Beiträge an Sozialversicherungen, wenn sie an die Entwicklung der Mehrwertsteuereinnahmen gebunden oder im Gesetz festgelegt sind;
+- e. die Überschreitung von Globalbudgets nach Artikel 30*a* Absatz 4;
+- f. Abschreibungen und Wertberichtigungen;
+- g. die Belastung durch Fremdwährungsdifferenzen oder verminderten Münzumlauf.
+
+<sup>4</sup> Der Bundesrat kann weitere Kredite ohne Nachtragskredite und Zustimmung der Finanzdelegation überschreiten, wenn der Bundesbeschluss zum Voranschlag oder zu einem Nachtragskredit dies vorsieht und er nur über ein geringfügiges Ermessen für die Aufwände und Investitionsausgaben verfügt.
+
+<sup>5</sup> Er unterbreitet der Bundesversammlung alle Kreditüberschreitungen im Rahmen der Staatsrechnung nachträglich zur Genehmigung.
+
+[^36-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 37
 
-**Begrenzung der Nachträge**
+**Kreditübertragungen**[^37-1]
 
-Der Gesamtbetrag der Nachträge zum Voranschlag soll den Gesamtbetrag der voraussichtlich nicht beanspruchten Teile von Voranschlagskrediten nach Möglichkeit nicht überschreiten.
+<sup>1</sup> Im Falle von zeitlichen Verzögerungen bei der Realisierung von Investitionsvorhaben, Projekten und Einzelmassnahmen kann der Bundesrat nicht vollständig beanspruchte Voranschlags- und Nachtragskredite, die von der Bundesversammlung bereits bewilligt worden sind, auf das Folgejahr übertragen.
+
+<sup>2</sup> Er erstattet der Bundesversammlung im Rahmen der Staatsrechnung Bericht über die Kreditübertragungen.
+
+[^37-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ### 6. Abschnitt:**** Sperrung und Freigabe von Krediten
 
@@ -813,89 +820,49 @@ Die ermächtigten Verwaltungseinheiten dürfen gewerbliche Leistungen erbringen,
 
 ## 5. Kapitel: Rechnungslegung
 
-### 1. Abschnitt: Grundsätze und Standards
+### 1. Abschnitt:**** Jahresrechnung des Bundes
+
+[^chap5-sec1-1]
+
+[^chap5-sec1-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 47
 
-**Grundsätze**
+**Zweck und Grundsätze**
 
-<sup>1</sup> Mit der Rechnungslegung sollen die Vermögens-, die Finanz- und die Ertragslage den tatsächlichen Verhältnissen entsprechend dargestellt werden.
+<sup>1</sup> Die Jahresrechnung des Bundes soll die Vermögens-, die Finanz- und die Ertragslage den tatsächlichen Verhältnissen entsprechend darstellen.
 
-<sup>2</sup> Die Rechnungslegung folgt den Grundsätzen der Wesentlichkeit, der Verständlichkeit, der Stetigkeit und der Bruttodarstellung.
+<sup>2</sup>
+
+Für ihre Erstellung sind die folgenden Grundsätze ordnungsgemässer Rechnungslegung massgebend:
+
+- a. die Wesentlichkeit;
+- b. die Verlässlichkeit;
+- c. die Verständlichkeit;
+- d. die Rechtzeitigkeit;
+- e. die Bruttodarstellung;
+- f. die Überprüfbarkeit;
+- g. die Stetigkeit.
 
 #### Art. 48
 
 **Standards**
 
-<sup>1</sup> Die Rechnungslegung richtet sich nach allgemein anerkannten Standards.
+<sup>1</sup> Die Erstellung der Jahresrechnung des Bundes richtet sich nach den «International Public Sector Accounting Standards» (IPSAS) des «International Public Sector Accounting Standards Board».
 
-<sup>2</sup> Der Bundesrat regelt die Einzelheiten. Er konsultiert vorgängig die Finanzkommissionen.
+<sup>2</sup> Wesentliche Abweichungen von den IPSAS regelt der Bundesrat in den Ausführungsbestimmungen. Er konsultiert vorgängig die Finanzkommissionen.
 
-<sup>3</sup> Jede Abweichung von diesen Standards ist im Anhang der Jahresrechnung des Bundes zu begründen.
+<sup>3</sup> Der Bundesrat begründet jede Abweichung von den IPSAS im Anhang der Jahresrechnung.
 
-<sup>4</sup> Der Bundesrat setzt sich für harmonisierte Rechnungslegungsstandards von Bund, Kantonen und Gemeinden ein. Er kann diese Bestrebungen mit Beiträgen fördern.[^48-1]
+<sup>4</sup> Er setzt sich für harmonisierte Standards zur Rechnungslegung von Bund, Kantonen und Gemeinden ein. Er kann diese Bestrebungen mit Beiträgen fördern.
 
-[^48-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+### 2. Abschnitt: ...
 
-### 2. Abschnitt: Bilanzierung und Bewertung
+#### Art. 49–51
 
-#### Art. 49
+[^4951-1]
 
-**Bilanzierungsgrundsätze**
-
-<sup>1</sup>
-
-Vermögensteile werden als Aktiven in der Bilanz aufgeführt:
-
-- a. wenn sie einen künftigen wirtschaftlichen Nutzen hervorbringen oder wenn sie unmittelbar der Erfüllung öffentlicher Aufgaben dienen; und
-- b. wenn ihr Wert verlässlich ermittelt werden kann.
-
-<sup>2</sup> Bestehende Verpflichtungen werden als Passiven in der Bilanz aufgeführt, wenn ihre Erfüllung voraussichtlich zu einem Mittelabfluss führen wird.
-
-<sup>3</sup> Rückstellungen werden gebildet für bestehende Verpflichtungen, bei denen der Zeitpunkt der Erfüllung oder die Höhe des künftigen Mittelabflusses mit Unsicherheiten behaftet sind.
-
-<sup>4</sup> Finanzielle Garantien und Bürgschaften werden in der Bilanz als Passiven aufgeführt, wenn dies nach allgemein anerkannten Standards erforderlich ist.[^49-1]
-
-[^49-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
-
-#### Art. 50
-
-**Bewertungsgrundsätze**[^50-1]
-
-<sup>1</sup> Das Finanzvermögen wird zum Verkehrswert oder zu fortgeführten Anschaffungskosten in der Bilanz aufgeführt.
-
-<sup>2</sup>
-
-Das Verwaltungsvermögen wird in der Bilanz aufgeführt:
-
-- a. zum Anschaffungswert abzüglich Abschreibungen und Wertberichtigungen oder zum Verkehrswert;
-- b.
-
-  im Falle von Beteiligungen:
-
-  - 1\. wenn sie namhaft sind: zu dem Anteil, den der Bund am Eigenkapital des betreffenden Unternehmens hält,
-  - 2\. im Übrigen: zum Verkehrswert oder, wenn dieser nicht ermittelt werden kann, zum Anschaffungswert.
-
-<sup>3</sup> Die Finanzverbindlichkeiten werden zum Verkehrswert oder zu fortgeführten Anschaffungskosten in der Bilanz aufgeführt.
-
-<sup>4</sup> Es gilt der Grundsatz der Einzelbewertung.
-
-[^50-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
-
-#### Art. 51
-
-**Abschreibungen und Wertberichtigungen**
-
-<sup>1</sup>
-
-Die Bilanzwerte für Sachanlagen werden abgeschrieben:
-
-- a. planmässig: um Wertverminderungen zu berücksichtigen, die durch die ordentliche Nutzung verursacht werden;
-- b. ausserplanmässig: um anderen Wertverminderungen Rechnung zu tragen.
-
-<sup>2</sup> Vermindert sich der Wert von Guthaben und Beteiligungen, so werden die Bilanzwerte berichtigt. Die Wertberichtigungen beeinflussen die Ansprüche des Bundes gegenüber Dritten nicht.
-
-<sup>3</sup> Ausserplanmässige Abschreibungen und Wertberichtigungen werden vorgenommen, sobald die Wertverminderung absehbar ist.
+[^4951-1]: Aufgehoben durch Ziff. I des BG vom 19. März 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ### 3. Abschnitt: Besondere Finanzierungsarten
 
@@ -931,25 +898,19 @@ Die Bilanzwerte für Sachanlagen werden abgeschrieben:
 
 #### Art. 55
 
-<sup>1</sup>
+[^55-1]
 
-Für die Beratung der Staatsrechnung werden nach dem Grundsatz der Vollkonsolidierung rechnungsmässig zusammengefasst:
+<sup>1</sup> Der Bundesrat erstellt jährlich eine konsolidierte Rechnung. Er unterbreitet sie der Bundesversammlung gleichzeitig mit der Staatsrechnung.
 
-- a. die Institutionen und die Verwaltungseinheiten, die in der Bundesrechnung erfasst sind (Art. 5 Bst. a Ziff. 3);
-- b. die Verwaltungseinheiten und die Fonds des Bundes, die im Rahmen der Staatsrechnung eine Sonderrechnung unterbreiten (Art. 5 Bst. b);
-- c. die Verwaltungseinheiten der dezentralen Bundesverwaltung, die eine eigene Rechnung führen.
+<sup>2</sup> Die konsolidierte Rechnung des Bundes stellt die Vermögens-, die Finanz- und die Ertragslage den tatsächlichen Verhältnissen entsprechend dar, bereinigt um die Innenbeziehungen. Sie richtet sich nach den IPSAS.
 
-<sup>2</sup>
+<sup>3</sup> Der Konsolidierungskreis bestimmt sich anhand des Kontrollprinzips gemäss IPSAS. Der Bundesrat kann in den Ausführungsbestimmungen den Konsolidierungskreis erweitern, wenn eine enge Verflechtung mit dem Bundeshaushalt vorliegt.
 
-Der Bundesrat kann durch Verordnung:
+<sup>4</sup> Der Bundesrat begründet jede Abweichung von den IPSAS im Anhang der konsolidierten Rechnung.
 
-- a. Verwaltungseinheiten der dezentralen Bundesverwaltung, die eine eigene Rechnung führen, von der Vollkonsolidierung ausnehmen oder diesen die Grundsätze der Rechnungslegung vorschreiben;
-- b.[^55-1] weitere Organisationen in die Vollkonsolidierung einbeziehen, wenn sie mit dem Bundeshaushalt eng verflochten sind.
+<sup>5</sup> Die Grundsätze der Jahresrechnung nach Artikel 47 Absatz 2 gelten sinngemäss.
 
-<sup>3</sup> Die konsolidierte Rechnung vermittelt einen Überblick über die Vermögens-, die Finanz- und die Ertragslage, bereinigt um die Innenbeziehungen. Namhafte Beteiligungen können mit ihrem anteiligen Eigenkapital konsolidiert werden.[^55-2]
-
-[^55-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
-[^55-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+[^55-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## 6. Kapitel: Aufgaben und Zuständigkeiten der Bundesverwaltung
 
@@ -1031,9 +992,13 @@ Besteht keine Aussicht auf ein für den Bund günstigeres Ergebnis, so kann die 
 
 <sup>2</sup> Zur Sicherstellung der Zahlungsbereitschaft kann die EFV Gelder am Geld- und Kapitalmarkt aufnehmen.
 
+<sup>2bis</sup> Sie begibt ihre Anleihen in der Form von Bucheffekten auf der Basis von Globalurkunden oder Wertrechten nach den Artikeln 973*b* und 973*c* des Obligationenrechts[^60-2]. Sie kann Globalurkunden und Wertrechte jederzeit und ohne Zustimmung der Gläubiger und Gläubigerinnen in die jeweils andere Form umwandeln. Dieses Wandlungsrecht steht ihr auch für Anleihen zu, welche bereits vor Inkraftsetzung dieser Bestimmung ausstehend sind.[^60-3]
+
 <sup>3</sup> Über die Tresorerie und die Geldaufnahme wird jährlich im Rahmen des Finanzplans und des Voranschlags berichtet sowie in der Staatsrechnung Rechenschaft abgelegt.
 
 [^60-1]: Fassung gemäss Ziff. II 8 des BG vom 20. März 2009 über die Bahnreform 2, in Kraft seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^60-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^60-3]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 60a
 
@@ -1155,7 +1120,7 @@ Der Bundesrat legt der Bundesversammlung spätestens sechs Jahre nach Inkrafttre
 
 Das Finanzhaushaltgesetz vom 6. Oktober 1989[^64-1] wird aufgehoben.
 
-[^64-1]: [[AS 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)Ziff. II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Anhang Ziff. 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)Art. 7 Ziff. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)Art. 31 Ziff. 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327),[2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114), [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 7 [4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246)]
+[^64-1]: [[AS 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)Ziff. II; [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042); [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Anhang Ziff. 2, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 11; [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)Art. 7 Ziff. 3; [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 5; [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 7; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)Art. 31 Ziff. 2; [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327);[2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114), [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 7, [4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 6, [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 3, [2143](https://fedlex.data.admin.ch/eli/oc/2004/246)]
 
 #### Art. 65
 
@@ -1163,7 +1128,7 @@ Das Finanzhaushaltgesetz vom 6. Oktober 1989[^64-1] wird aufgehoben.
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-…[^65-1]
+...[^65-1]
 
 [^65-1]: Die Änderungen können unter [AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)konsultiert werden.
 
@@ -1212,6 +1177,16 @@ Das bisherige Recht bleibt anwendbar auf:
 <sup>2</sup> Die Bundesversammlung korrigiert den Stand des Ausgleichskontos nach Artikel 16 Absatz 2 mit der Staatsrechnung 2016 um die in den Jahren 2007 bis 2016 kumulierte Abweichung gegenüber einer periodengerechten Erfassung der Agios und Disagios aus Bundesanleihen.
 
 [^66b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015 (Optimierung Neues Rechnungsmodell), in Kraft seit 1. Jan. 2016 ([AS 2015 4009](https://fedlex.data.admin.ch/eli/oc/2015/672); [BBl 2014 9329](https://fedlex.data.admin.ch/eli/fga/2014/2041)).
+
+#### Art. 66c
+
+**Übergangsbestimmungen zur Änderung vom 19. März 2021**[^66c-1]
+
+<sup>1</sup> Die Bundesversammlung korrigiert den Stand des Ausgleichskontos nach Artikel 16 Absatz 2 mit der ersten Staatsrechnung nach Inkrafttreten der Änderung vom 19. März 2021. Der Umfang der Korrektur ergibt sich aus der Abweichung zwischen dem Betrag aus den bisherigen Verbuchungen und dem ermittelten Betrag, der sich bei einer Anwendung des neuen Rechts ab 2007 ergeben hätte.
+
+<sup>2</sup> Die Bundesversammlung korrigiert den Stand des Amortisationskontos nach Artikel 17*a* Absatz 1 mit der ersten Staatsrechnung nach Inkrafttreten dieser Änderung. Der Umfang der Korrektur ergibt sich aus der Abweichung zwischen dem Betrag aus den bisherigen Verbuchungen und dem ermittelten Betrag, der sich bei einer Anwendung des neuen Rechts ab 2010 ergeben hätte.
+
+[^66c-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 67
 
