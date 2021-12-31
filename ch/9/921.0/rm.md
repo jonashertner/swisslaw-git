@@ -4,11 +4,11 @@ title: "Lescha federala dals 4 d'october 1991 davart il guaud (Lescha dal guaud,
 short: LG
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: rm
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20170101/rm/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20170101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20170101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20220101-rm-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal guaud, LG)
 
-dals 4 d’october 1991 (versiun dal 1. da schaner 2017)
+dals 4 d’october 1991 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -666,11 +666,12 @@ La Confederaziun po conceder emprests restituibels senza tschains u a tschains b
 
 **Metter a disposiziun las contribuziuns**[^41-1]
 
-<sup>1</sup> Tras in conclus federal simpel permetta l’Assamblea federala mintga 4 onns in credit general d’ina durada limitada per la garanzia da contribuziuns e d’emprests.
+<sup>1</sup> Tras in conclus federal simpel permetta l’Assamblea federala mintga 4 onns in credit d’impegn[^41-2] d’ina durada limitada per la garanzia da contribuziuns e d’emprests.
 
 <sup>2</sup> Contribuziuns per la superaziun d’eveniments da la natira extraordinaris vegnan concedidas per ina durada limitada tenor la durada da las mesiras correspundentas.
 
 [^41-1]: Versiun tenor la cifra II 30 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^41-2]: Expressiun tenor la cifra 9 da l’agiunta da la LF dals 19 da mars 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
 
 ### 3. secziun**** Ulteriuras mesiras
 
@@ -729,7 +730,7 @@ Cun ina multa fin 20 000 francs vegn chastià, tgi che fa intenziunadamain e sen
 
 [^43-1]: Versiun tenor l’art. 333 dal Cudesch penal ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) en la versiun da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^43-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^43-3]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 cifra III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)agiunta cifra 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)cifra I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)cifra III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)agiunta 2 cifra 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)cifra I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)agiunta cifra II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Guardar oz: Lescha da duana dals 18 da mars 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^43-3]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 cifra III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)agiunta cifra 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)cifra I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)cifra III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)agiunta 2 cifra 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)cifra I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)agiunta cifra II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Guardar oz: Lescha da duana dals 18 da mars 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 
 #### Art. 44
 
@@ -763,8 +764,8 @@ La persecuziun penala è chaussa dals chantuns.
 
 <sup>4</sup> Il Cussegl federal po prevair en ils decrets executivs ina procedura da protesta cunter disposiziuns da l’emprima instanza.[^46-6]
 
-[^46-1]: Versiun tenor la cifra 127 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal administrativ federal, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^46-2]: Integrà tras la cifra 9 da la L dals 21 da mars 2003 davart la tecnica genetica ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abolì tras la cifra 127 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal administrativ federal, cun effect dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^46-1]: Versiun tenor la cifra 127 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^46-2]: Integrà tras la cifra 9 da la L dals 21 da mars 2003 davart la tecnica genetica ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abolì tras la cifra 127 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, cun effect dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-3]: Expressiun tenor la cifra I 17 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^46-4]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^46-5]: Versiun tenor la cifra I da la LF dals 18 da mars 2016, en vigur dapi il 1. da schan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).

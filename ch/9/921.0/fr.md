@@ -4,11 +4,11 @@ title: "Loi fédérale du 4 octobre 1991 sur les forêts (Loi sur les forêts, L
 short: LFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: fr
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20170101/fr"
 
 (Loi sur les forêts, LFo)[^t-1]
 
-du 4 octobre 1991 (Etat le 1<sup>er</sup> janvier 2017)
+du 4 octobre 1991 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -30,7 +30,7 @@ vu le message du Conseil fédéral du 29 juin 1988[^ingress-3],
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon le ch. 8 de l’annexe à la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 1988 III 157](https://fedlex.data.admin.ch/eli/fga/1988/3_173_157_137)
 
 ## Chapitre 1 Dispositions générales
@@ -117,9 +117,11 @@ Une autorisation peut être accordée à titre exceptionnel au requérant qui d�
 Les dérogations sont accordées:
 
 - a. soit par les autorités fédérales, lorsque la construction ou la transformation d’un ouvrage exigeant un défrichement relève de leur compétence;
-- b. soit par les autorités cantonales, lorsque la construction ou la transformation d’un ouvrage exigeant un défrichement relève de leur compétence
+- b. soit par les autorités cantonales, lorsque la construction ou la transformation d’un ouvrage exigeant un défrichement relève de leur compétence.
 
-<sup>2</sup> Avant que l’autorité cantonale n’accorde une dérogation, elle consulte l’Office fédéral de l’environnement[^6-2] (office);
+<sup>2</sup>
+
+Avant que l’autorité cantonale n’accorde une dérogation, elle consulte l’Office fédéral de l’environnement[^6-2] (office):
 
 - a. lorsque la surface excède 5000 m<sup>2</sup>; si plusieurs demandes de défrichement sont présentées pour le même ouvrage, le total des surfaces à défricher est déterminant;
 - b. lorsque la surface à défricher est située sur le territoire de plusieurs cantons.
@@ -430,7 +432,7 @@ La Confédération et les cantons prennent les mesures qui permettent à la for�
 [^29-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 [^29-3]: Nouvelle teneur selon le ch. III de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 [^29-4]: Abrogé par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^29-5]: Nouvelle teneur selon le ch. II 6 de l’annexe à la LF du 13 déc. 2002 sur la formation professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)).
+[^29-5]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 13 déc. 2002 sur la formation professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)).
 
 #### Art. 30
 
@@ -551,7 +553,7 @@ La Confédération alloue aux cantons, sur la base de conventions-programmes, de
 
 <sup>2</sup> Le montant des indemnités dépend de l’aire des forêts protectrices à entretenir, du danger à prévenir et de l’efficacité des mesures.
 
-[^37-1]: Nouvelle teneur selon le ch. II 30 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^37-1]: Nouvelle teneur selon le ch. II 30 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 (RO **200****7** 5779; [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^37-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 37a
@@ -643,8 +645,8 @@ Les aides financières sont allouées:
 <sup>3</sup> …[^39-4]
 
 [^39-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^39-2]: Nouvelle teneur selon le ch. II 6 de l’annexe à la LF du 13 déc. 2002 sur la formation professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)).
-[^39-3]: Nouvelle teneur selon le ch. II 6 de l’annexe à la LF du 13 déc. 2002 sur la formation professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)).
+[^39-2]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 13 déc. 2002 sur la formation professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)).
+[^39-3]: Nouvelle teneur selon l’annexe ch. II 6 de la LF du 13 déc. 2002 sur la formation professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)).
 [^39-4]: Abrogé par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 40
@@ -671,17 +673,18 @@ La Confédération peut consentir des prêts remboursables, sans intérêt ou à
 
 **Mise à disposition des subventions**[^41-1]
 
-<sup>1</sup> L’Assemblée fédérale vote tous les quatre ans, par voie d’arrêté fédéral simple, un crédit-cadre pour l’octroi des subventions et des prêts.
+<sup>1</sup> L’Assemblée fédérale vote tous les quatre ans, par voie d’arrêté fédéral simple, un crédit d’engagement[^41-2] pour l’octroi des subventions et des prêts.
 
 <sup>2</sup> Si les subventions relèvent de l’aide en cas d’événements naturels exceptionnels, la durée de validité est calculée à partir du moment où les mesures correspondantes sont prises.
 
 [^41-1]: Nouvelle teneur selon le ch. II 30 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^41-2]: Nouvelle expression selon l’annexe ch. 9 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ### Section 3**** Autres mesures
 
 [^chap5-sec3-1]
 
-[^chap5-sec3-1]: Introduite par le ch. 8 de l’annexe à la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^chap5-sec3-1]: Introduite par l’annexe ch. 8 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 41a
 
@@ -734,7 +737,7 @@ La personne qui intentionnellement et sans autorisation:
 
 [^43-1]: Nouvelle teneur du par. selon l’art. 333 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 [^43-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^43-3]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la LF du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^43-3]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), **19****59** 1397 art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la LF du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 
 #### Art. 44
 
@@ -768,8 +771,8 @@ La poursuite pénale est du ressort des cantons.
 
 <sup>4</sup> Le Conseil fédéral peut prévoir une procédure d’opposition aux décisions de première instance dans ses dispositions d'exécution.[^46-6]
 
-[^46-1]: Nouvelle teneur selon le ch. 127 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^46-2]: Introduits par le ch. 9 de l’annexe à la LF du 21 mars 2003 sur le génie génétique ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogés par le ch. 127 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^46-1]: Nouvelle teneur selon l’annexe ch. 127 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^46-2]: Introduits par l’annexe ch. 9 de la LF du 21 mars 2003 sur le génie génétique ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogés par l’annexe ch. 127 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-3]: Nouvelle expression selon le ch. I 17 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^46-4]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^46-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
@@ -907,6 +910,6 @@ Sont abrogés:
 
 <sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
-Date de l’entrée en vigueur[^57-1]: 1<sup>er</sup> janvier 1993 Art. 40 let. b: 1<sup>er</sup> janvier 1994
+Date de l’entrée en vigueur[^57-1]: 1<sup>er</sup> janvier 1993 Art. 40 let. b: 1<sup>e</sup><sup>r</sup> janvier 1994
 
 [^57-1]: ACF du 30 nov. 1992

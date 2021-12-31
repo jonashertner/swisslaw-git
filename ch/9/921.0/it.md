@@ -4,11 +4,11 @@ title: "Legge federale del 4 ottobre 1991 sulle foreste (Legge forestale, LFo)"
 short: LFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: it
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20170101/it/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20170101/it"
 
 (Legge forestale, LFo)
 
-del 4 ottobre 1991 (Stato 1° gennaio 2017) (Stato 1° gennaio 2017)
+del 4 ottobre 1991 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visti gli articoli 74 capoverso 1, 77 capoversi 2 e 3, 78 capoverso 4 e 95 capov
 decreta:
 
 [^ingress-1]: RU **1992** 2521 RS **101**
-[^ingress-2]: Nuovo testo giusta il n. 8 dell’all. alla LF del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^ingress-2]: Nuovo testo giusta l’all. n. 8 della LF del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 1988 III 137](https://fedlex.data.admin.ch/eli/fga/1988/3_173_157_137)
 
 ## Capitolo 1: Disposizioni generali
@@ -351,7 +351,7 @@ Per garantire la sicurezza sul lavoro, i mandatari che svolgono lavori di raccol
 
 <sup>2</sup> Se l’alienazione o la spartizione sono anche subordinate ad autorizzazioni in virtù della legge federale del 4 ottobre 1991[^25-1] sul diritto fondiario rurale, i Cantoni provvedono a riunire le due procedure e concluderle con decisione unica.
 
-[^25-1]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^25-1]: RS **211.412****.****11**
 
 ### Sezione 2: Prevenzione e riparazione dei danni alla foresta
 
@@ -434,7 +434,7 @@ La Confederazione e i Cantoni adottano provvedimenti che sostengono la foresta n
 [^29-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 [^29-2]: Nuovo testo giusta il n. III della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 [^29-3]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
-[^29-4]: Nuovo testo giusta il n. II 6 dell’all. alla LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+[^29-4]: Nuovo testo giusta l’all. n. II 6 della LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
 #### Art. 30
 
@@ -648,8 +648,8 @@ La Confederazione accorda gli aiuti finanziari per:
 <sup>3</sup> ...[^39-4]
 
 [^39-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^39-2]: Nuovo testo giusta il n. II 6 dell’all. alla LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
-[^39-3]: Nuovo testo giusta il n. II 6 dell’all. alla LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+[^39-2]: Nuovo testo giusta l’all. n. II 6 della LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+[^39-3]: Nuovo testo giusta l’all. n. II 6 della LF del 13 dic. 2002 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 [^39-4]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 40
@@ -676,17 +676,18 @@ La Confederazione può accordare mutui rimborsabili, senza interesse o a interes
 
 **Assegnazione dei contributi**[^41-1]
 
-<sup>1</sup> L’Assemblea federale stanzia di volta in volta mediante decreto federale semplice un credito quadro quadriennale per l’assegnazione dei contributi e dei mutui.
+<sup>1</sup> L’Assemblea federale stanzia di volta in volta mediante decreto federale semplice un credito d’impegno[^41-2] quadriennale per l’assegnazione dei contributi e dei mutui.
 
 <sup>2</sup> I contributi destinati agli interventi intesi a far fronte a catastrofi naturali straordinarie sono limitati alla durata del singolo intervento.
 
 [^41-1]: Nuovo testo giusta il n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^41-2]: Nuova espr. giusta l’all. n. 9 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); FF **2****020** 333).
 
 ### Sezione 3:**** Altre misure
 
 [^chap5-sec3-1]
 
-[^chap5-sec3-1]: Introdotta dal n. 8 dell’all. alla LF del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^chap5-sec3-1]: Introdotta dall’all. n. 8 della LF del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 41a
 
@@ -774,8 +775,8 @@ Il perseguimento penale compete ai Cantoni.
 
 <sup>4</sup> Il Consiglio federale può prevedere nelle disposizioni d’esecuzione una procedura d’opposizione contro le decisioni di prima istanza.[^46-6]
 
-[^46-1]: Nuovo testo giusta il n. 127 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^46-2]: Introdotti dal n. 9 dell’all. alla LF del 21 mar. 2003 sull’ingegneria genetica ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogati dal n. 127 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^46-1]: Nuovo testo giusta l’all. n. 127 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^46-2]: Introdotti dall’all. n. 9 della LF del 21 mar. 2003 sull’ingegneria genetica ([RU 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogati dall’all. n. 127 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-3]: Nuova denominazione giusta il n. 17 I della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 [^46-4]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^46-5]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
@@ -865,7 +866,7 @@ La validità delle disposizioni cantonali d’esecuzione relative agli articoli 
 
 <sup>1</sup> Tutte le disposizioni d’esecuzione cantonali vanno comunicate all’Ufficio federale prima della loro entrata in vigore.
 
-2 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni decide quali decisioni cantonali vanno comunicate all’Ufficio federale.
+<sup>2</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni decide quali decisioni cantonali vanno comunicate all’Ufficio federale.
 
 ## Capitolo 8: Disposizioni finali
 
