@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordinanza del 15 ottobre 2008 sul sistema informatizzato di gestione e indice informatizzato delle persone e dei fascicoli dell'Ufficio federale di polizia (Ordinanza IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20210401/it"
 
 (Ordinanza IPAS)
 
-del 15 ottobre 2008 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 15 ottobre 2008 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -145,24 +145,25 @@ Fedpol può, nell’ambito dell’assistenza amministrativa, trasmettere su rich
 - b. gli uffici centrali nazionali Interpol e la segreteria generale di Interpol;
 - c.[^7-2] i servizi della Segreteria di Stato della migrazione competenti per l’identificazione dei richiedenti l’asilo e delle persone bisognose di protezione e per l’adempimento dei compiti previsti dalla legge federale del 16 dicembre 2005[^7-3] sugli stranieri e dalla legge del 20 giugno 2014[^7-4] sulla cittadinanza;
 - d. Europol;
-- e. i servizi competenti dell’Amministrazione federale delle dogane;
+- e. i servizi competenti dell’Ufficio federale della dogana e della sicurezza dei confini[^7-5];
 - f. le rappresentanze svizzere all’estero competenti per il rilascio dei visti;
-- g.[^7-5] il Servizio delle attività informative della Confederazione, nel quadro delle sue attività secondo la LMSI;
-- h.[^7-6] il servizio dell’Ufficio federale di giustizia competente del casellario giudiziale per l’identificazione di persone registrate nel sistema d’informazione VOSTRA sul casellario giudiziale qualora si sospetti un errore nel collegamento dei dati;
-- i.[^7-7] i servizi centrali di coordinamento dei Cantoni per determinare se sussistono i presupposti legali per cancellare un profilo del DNA ai sensi degli articoli 16–19 della legge del 20 giugno 2003[^7-8] sui profili del DNA, nonché per cancellare i dati segnaletici di natura biometrica ai sensi degli articoli 17–21 dell’ordinanza del 6 dicembre 2013[^7-9] sul trattamento dei dati segnaletici di natura biometrica.
+- g.[^7-6] il Servizio delle attività informative della Confederazione, nel quadro delle sue attività secondo la LMSI;
+- h.[^7-7] il servizio dell’Ufficio federale di giustizia competente del casellario giudiziale per l’identificazione di persone registrate nel sistema d’informazione VOSTRA sul casellario giudiziale qualora si sospetti un errore nel collegamento dei dati;
+- i.[^7-8] i servizi centrali di coordinamento dei Cantoni per determinare se sussistono i presupposti legali per cancellare un profilo del DNA ai sensi degli articoli 16–19 della legge del 20 giugno 2003[^7-9] sui profili del DNA, nonché per cancellare i dati segnaletici di natura biometrica ai sensi degli articoli 17–21 dell’ordinanza del 6 dicembre 2013[^7-10] sul trattamento dei dati segnaletici di natura biometrica.
 
-<sup>2</sup> Sono fatte salve le disposizioni legali che disciplinano il trattamento di dati segnaletici, dati provenienti da Interpol, Europol, N-SIS, nonché dati sulla ricerca di persone scomparse e documenti d’identità.[^7-10]
+<sup>2</sup> Sono fatte salve le disposizioni legali che disciplinano il trattamento di dati segnaletici, dati provenienti da Interpol, Europol, N-SIS, nonché dati sulla ricerca di persone scomparse e documenti d’identità.[^7-11]
 
 [^7-1]: Nuovo testo giusta l’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^7-2]: Nuovo testo giusta l’all. l n. II 5 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 [^7-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^7-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^7-5]: Introdotta dall’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^7-6]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^7-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^7-6]: Introdotta dall’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^7-7]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^7-8]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^7-9]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^7-10]: Introdotto dall’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^7-8]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^7-9]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^7-10]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+[^7-11]: Introdotto dall’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 
 #### Art. 8
 
@@ -280,7 +281,7 @@ Allegato 1
 
 ### IPAS (Categorie «AFIS-DNA», «Interpol», «Europol», «NSIS», «Ricerca di persone scomparse» e «Documenti d’identità»)
 
-Sottocategoria «Dati di base» relativa alle persone fisiche
+### Sottocategoria «Dati di base» relativa alle persone fisiche
 
 - 1\. Numero
 - 2\. Cognome
@@ -302,7 +303,7 @@ Sottocategoria «Dati di base» relativa alle persone fisiche
 - 18\. Identità o non identità con un’altra persona dallo stesso nome registrata nel sistema
 - 19\. Persone che vivono nella stessa economia domestica
 
-Sottocategoria «Dati di base» relativa alle persone giuridiche
+### Sottocategoria «Dati di base» relativa alle persone giuridiche
 
 - 1\. Numero
 - 2\. Nome
@@ -315,7 +316,7 @@ Sottocategoria «Dati di base» relativa alle persone giuridiche
 - 9\. Altri nomi e caratteristiche
 - 10\. Identità o non identità con un’altra persona dallo stesso nome registrata nel sistema
 
-Sottocategoria «Dati di base» relativa agli oggetti
+### Sottocategoria «Dati di base» relativa agli oggetti
 
 - 1\. Numero
 - 2\. Nome dell’oggetto
@@ -326,7 +327,7 @@ Sottocategoria «Dati di base» relativa agli oggetti
 - 7\. Indirizzo
 - 8\. Identità o non identità con un altro oggetto dallo stesso nome registrato nel sistema
 
-Sottocategoria «Fascicoli» relativa alle persone fisiche o giuridiche e agli oggetti
+### Sottocategoria «Fascicoli» relativa alle persone fisiche o giuridiche e agli oggetti
 
 - 1\. Numero
 - 2\. Collaboratore che ha aperto il fascicolo
@@ -337,7 +338,7 @@ Sottocategoria «Fascicoli» relativa alle persone fisiche o giuridiche e agli o
 - 7\. Data dei documenti del fascicolo
 - 8\. Osservazioni
 
-Sottocategoria «Pratiche» relativa alle persone fisiche o giuridiche e agli oggetti
+### Sottocategoria «Pratiche» relativa alle persone fisiche o giuridiche e agli oggetti
 
 - 1\. Numero
 - 2\. Tipo (entrata/uscita, autorità emittente o destinatario)
@@ -357,18 +358,21 @@ Sottocategoria «Pratiche» relativa alle persone fisiche o giuridiche e agli og
 - 16\. Numero del documento
 - 17\. Testo della fase
 
-Sottocategoria «Contenuti» relativa alle persone fisiche o giuridiche e agli oggetti
+### Sottocategoria «Contenuti» relativa alle persone fisiche o giuridiche e agli oggetti
 
 - 1\. Numero del controllo del processo (impronte digitali e/o DNA)
 - 2\. Esistenza di un profilo di DNA in CODIS
 - 3\. Tipo (informazioni sulle fotografie, le impronte digitali e i profili di DNA disponibili)
 - 4\. Osservazioni (domande e risposte inerenti alla pratica)
 - 5\. «Hit» (confronti effettuati, risultato)
-- 6\. Misure[^annex1-lvlu1-lvlu1-1]
-- 7\. Osservazioni (testo libero di 600 caratteri con antecedenti e fattispecie relativi alla persona o all’oggetto)[^annex1-lvlu1-lvlu1-2]
+- 6\. Misure[^annex1-lvlu1-lvlu7-1]
+- 7\. Osservazioni (testo libero di 600 caratteri con antecedenti e fattispecie relativi alla persona o all’oggetto)[^annex1-lvlu1-lvlu7-2]
 - 8\. Ulteriori osservazioni
 
-Sistema di gestione delle pratiche e degli atti di fedpol
+[^annex1-lvlu1-lvlu7-1]: I campi di dati di cui ai n. 1–6 sono utilizzati solo per la categoria «AFIS-DNA».
+[^annex1-lvlu1-lvlu7-2]: Il campo di dati di cui al n. 7 è utilizzato solo per le categorie «Interpol», «Ricerca di persone scomparse» e «Documenti d’identità».
+
+### Sistema di gestione delle pratiche e degli atti di fedpol
 
 - 1\. Operazione (nome, descrizione dell’operazione; data e nome d’utente)
 - 2\. Fascicolo (numero, genere, categoria e descrizione del fascicolo; data d’esecuzione, osservazioni e nome d’utente)
@@ -380,9 +384,6 @@ Sistema di gestione delle pratiche e degli atti di fedpol
 - 8\. Veicoli (tipo, genere, marca, Paese, numero di targa, descrizione del veicolo, indicazioni relative al proprietario)
 - 9\. Oggetti (numero, tipo, osservazioni)
 - [tab]
-
-[^annex1-lvlu1-lvlu1-1]: I campi di dati di cui ai n. 1–6 sono utilizzati solo per la categoria «AFIS-DNA».
-[^annex1-lvlu1-lvlu1-2]: Il campo di dati di cui al n. 7 è utilizzato solo per le categorie «Interpol», «Ricerca di persone scomparse» e «Documenti d’identità».
 
 Allegato 2*[^t-1]*
 

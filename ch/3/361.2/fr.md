@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordonnance du 15 octobre 2008 sur le système informatisé de gestion et d'indexation de dossiers et de personnes de l'Office fédéral de la police (Ordonnance IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20210401/fr"
 
 (Ordonnance IPAS)
 
-du 15 octobre 2008 (Etat le 1<sup>er</sup> avril 2021)
+du 15 octobre 2008 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -145,24 +145,25 @@ Fedpol peut, dans le cadre de l’entraide administrative, communiquer sur deman
 - b. les bureaux centraux nationaux Interpol et le Secrétariat général d’Interpol;
 - c.[^7-2] les services du Secrétariat d’État aux migrations compétents pour l’identification des requérants d’asile et des personnes à protéger, et pour l’accomplissement des tâches prévues par la loi fédérale du 16 décembre 2005 sur le séjour et l’établissement des étrangers[^7-3] et la loi du 20 juin 2014 sur la nationalité suisse[^7-4];
 - d. Europol;
-- e. les services compétents de l’Administration fédérale des douanes;
+- e. les services compétents de l’Office fédéral de la douane et de la sécurité des frontières[^7-5];
 - f. les représentations de la Suisse à l’étranger compétentes pour la délivrance de visas;
-- g.[^7-5] le Service de renseignement de la Confédération dans le cadre de ses activités selon la LMSI;
-- h.[^7-6] le service de l’Office fédéral de la justice en charge du casier judiciaire pour l’identification de personnes enregistrées dans le casier judiciaire informatisé VOSTRA lorsque l’on soupçonne une erreur dans la mise en relation entre des données et des personnes;
-- i.[^7-7] les services centraux des cantons pour la clarification des conditions légales requises pour l’effacement de profils d’ADN selon les art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN[^7-8] et pour l’effacement des données signalétiques biométriques selon les art. 17 à 21 de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques[^7-9].
+- g.[^7-6] le Service de renseignement de la Confédération dans le cadre de ses activités selon la LMSI;
+- h.[^7-7] le service de l’Office fédéral de la justice en charge du casier judiciaire pour l’identification de personnes enregistrées dans le casier judiciaire informatisé VOSTRA lorsque l’on soupçonne une erreur dans la mise en relation entre des données et des personnes;
+- i.[^7-8] les services centraux des cantons pour la clarification des conditions légales requises pour l’effacement de profils d’ADN selon les art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN[^7-9] et pour l’effacement des données signalétiques biométriques selon les art. 17 à 21 de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques[^7-10].
 
-<sup>2</sup> Sont réservées les dispositions légales régissant le traitement des données signalétiques, les données Interpol, Europol, N-SIS et les données relatives à la recherche de personnes disparues et de documents d’identité perdus.[^7-10]
+<sup>2</sup> Sont réservées les dispositions légales régissant le traitement des données signalétiques, les données Interpol, Europol, N-SIS et les données relatives à la recherche de personnes disparues et de documents d’identité perdus.[^7-11]
 
 [^7-1]: Nouvelle teneur selon l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848).
 [^7-2]: Nouvelle teneur selon l’annexe ch. II 5 de l’O du 17 juin 2016 sur la nationalité, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 [^7-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^7-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^7-5]: Introduite par l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^7-6]: Introduite par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^7-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^7-6]: Introduite par l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^7-7]: Introduite par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^7-8]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^7-9]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^7-10]: Introduit par l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^7-8]: Introduite par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^7-9]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^7-10]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+[^7-11]: Introduit par l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 
 #### Art. 8
 
