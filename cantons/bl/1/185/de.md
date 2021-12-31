@@ -4,13 +4,13 @@ number: "185"
 title: Finanzausgleichsgesetz
 short: FAG
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-09-27
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-16
 adopted: 2009-06-25
 in_force: 2010-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/185"
-pdf: "https://bl.clex.ch/api/de/versions/2750/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3092/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2750/pdf_file"
 
 (FAG)
 
-Vom 25.06.2009 (Stand 01.01.2019)
+Vom 25.06.2009 (Stand 01.01.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -222,7 +222,7 @@ beschliesst:[^ingress-2]
 
 **Leistung der Einwohnergemeinden**
 
-<sup>1</sup> Zur Kompensation der Aufgabenverschiebungen «Realschulbautenübernahme» und «Kindes- und Erwachsenenschutzbehörde» leisten die Einwohnergemeinden dem Kanton jährlich CHF 7'550'000.–.
+<sup>1</sup> Zur Kompensation der Aufgabenverschiebungen «Realschulbautenübernahme», «Kindes- und Erwachsenenschutzbehörde» und «Ambulante Kinder- und Jugendhilfe» leisten die Einwohnergemeinden dem Kanton jährlich CHF 8'550'000.–.
 
 - a. …
 - b. …
