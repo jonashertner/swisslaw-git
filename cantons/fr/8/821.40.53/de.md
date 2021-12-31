@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.53"
 title: Verordnung zur Unterstützung der Wiederankurbelung des lokalen Handels
 language: de
-version: 2021-05-01
-valid_until: 2021-12-31
-version_adopted: 2021-04-20
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2020-11-16
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.53"
-pdf: "https://bdlf.fr.ch/api/de/versions/6826/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7041/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6826/pdf_file"
 
 COVID-19, Unterstützung der Wiederankurbelung des lokalen Handels – V
 
-vom 16.11.2020 (Fassung in Kraft getreten am 01.05.2021)
+vom 16.11.2020 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -103,7 +103,7 @@ beschliesst:
 
 <sup>1</sup> Die Verwaltung und der Betrieb der für den Verkauf der Gutscheine genutzten Online-Plattform werden anhand eines Leistungsauftrags einem Dritten übertragen.
 
-<sup>2</sup> Das Amt für Landwirtschaft und die WIF nehmen gemeinsam die Aufsicht wahr.
+<sup>2</sup> Die Direktion der Institutionen und der Land- und Forstwirtschaft und die WIF nehmen gemeinsam die Aufsicht wahr.
 
 #### Art. 7
 
