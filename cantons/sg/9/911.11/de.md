@@ -3,20 +3,19 @@ canton: SG
 number: "911.11"
 title: Einführungsverordnung zum Schweizerischen Zivilgesetzbuch
 language: de
-version: 2019-06-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-16
+version: 2022-01-01
+version_adopted: 2022-01-25
 adopted: 1945-12-14
 in_force: 1945-12-26
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/911.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2750/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3324/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsverordnung zum Schweizerischen Zivilgesetzbuch
 
-vom 14.12.1945 (Stand 01.06.2019)
+vom 14.12.1945 (Stand 01.01.2022)
 
 Landammann und Regierungsrat des Kantons St.Gallen,
 
@@ -124,7 +123,7 @@ verordnen:[^ingress-2]
 
 - a) zentrale Behörde des Kantons St.Gallen nach dem Haager Adoptionsübereinkommen vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption;
 - b) zentrale Behörde des Kantons St.Gallen und Vollstreckungsbehörde nach dem Haager Kindesschutzübereinkommen vom 19. Oktober 1996 und dem Haager Erwachsenenschutzübereinkommen vom 13. Januar 2000;
-- c) Übermittlungs- und Empfangsstelle des Kantons St.Gallen nach dem Übereinkommen vom 20. Juni 1956 über die Geltendmachung von Unterhaltsansprüchen im Ausland.
+- c) Übermittlungs- und Empfangsstelle des Kantons St.Gallen nach den für die Schweiz anwendbaren Abkommen und Gegenseitigkeitserklärungen in Bezug auf die grenzüberschreitende Inkassohilfe.
 
 #### Art. 11
 
