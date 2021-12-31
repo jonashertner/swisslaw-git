@@ -3,13 +3,13 @@ canton: FR
 number: "917.11"
 title: Ausführungsreglement zum Gesetz über die Bodenverbesserungen
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-12-14
 adopted: 1992-08-11
 in_force: 1992-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/917.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6326/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7049/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6326/pdf_file"
 
 Bodenverbesserungen – R
 
-vom 11.08.1992 (Fassung in Kraft getreten am 01.04.2019)
+vom 11.08.1992 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -34,7 +34,7 @@ beschliesst:
 
 **Weisungen (Art. 5 und 7 BVG)**
 
-<sup>1</sup> Das Amt für Landwirtschaft oder das Amt für Wald und Natur (das zuständige Amt) kann Weisungen in bezug auf den technischen und administrativen Bereich, die Honorare, die Buchhaltung usw. erlassen, um die rationelle Ausführung aller Haupt- und Nebenarbeiten zu gewährleisten.
+<sup>1</sup> Grangeneuve oder das Amt für Wald und Natur (das zuständige Amt) kann Weisungen in Bezug auf den technischen und administrativen Bereich, die Honorare, die Buchhaltung usw. erlassen, um die rationelle Ausführung aller Haupt- und Nebenarbeiten zu gewährleisten.
 
 <sup>2</sup> …
 
@@ -274,7 +274,7 @@ beschliesst:
 
 **Holzschläge (Art. 86 BVG)**
 
-<sup>1</sup> Wer Einzelbäume fällen oder Hecken beseitigen will, braucht eine Bewilligung des Amtes für Landwirtschaft; für das Säubern von Waldrändern ist die Bewilligung des Amtes für Wald und Natur erforderlich.
+<sup>1</sup> Wer Einzelbäume fällen oder Hecken beseitigen will, braucht eine Bewilligung von Grangeneuve; für das Säubern von Waldrändern ist die Bewilligung des Amtes für Wald und Natur erforderlich.
 
 <sup>2</sup> Der Eigentümer muss sein schriftliches Gesuch um Bewilligung vor dem 1. Oktober an das zuständige Amt richten.
 
@@ -290,7 +290,7 @@ beschliesst:
 - b) durch zweimalige Veröffentlichung im Amtsblatt, das erste Mal sogleich nach der Auflage des Perimeters der Körperschaft, das zweite Mal einen Monat später, und
 - c) bis zum Ablauf der Frist für die Geltendmachung der Rechte: durch öffentlichen Anschlag in den betroffenen Gemeinden und in den Nachbargemeinden.
 
-<sup>2</sup> Der Artikel 19 Absatz 4 des Ausführungsreglements vom 9. Dezember 1986 zum Gesetz über das Grundbuch ist in bezug auf den Inhalt der Bekanntmachung sinngemäss anwendbar.
+<sup>2</sup> Der Artikel 19 Absatz 4 des Ausführungsreglements vom 9. Dezember 1986 zum Gesetz über das Grundbuch ist in Bezug auf den Inhalt der Bekanntmachung sinngemäss anwendbar.
 
 #### Art. 30
 
@@ -326,7 +326,7 @@ beschliesst:
 
 <sup>2</sup> Überschreitet die Differenz zwischen der Fläche gemäss Güterzusammenlegung und der im Grundbuch eingetragenen Fläche die übliche Toleranzgrenze, so ist die Fläche gemäss Güterzusammenlegung in Form einer Bemerkung in der Liegenschaftsbeschreibung des Grundbuchs einzutragen.
 
-<sup>3</sup> Diese Eintragung untersteht der Genehmigung des Amtes für Vermessung und Geomatik und des Amtes für Landwirtschaft.
+<sup>3</sup> Diese Eintragung untersteht der Genehmigung des Amtes für Vermessung und Geomatik und von Grangeneuve.
 
 #### Art. 34
 
@@ -613,7 +613,7 @@ beschliesst:
 
 **Gewinnbringende Veräusserung (Art. 179 Abs. 2 und Abs. 4 BVG)**
 
-<sup>1</sup> Das Amt für Landwirtschaft fordert die vollständige oder teilweise Rückerstattung der eidgenössischen und kantonalen Beiträge, wenn landwirtschaftliche Hochbauten, für die öffentliche Beiträge gewährt wurden, innert zwanzig Jahren seit der Auszahlung der letzten Beitragsrate gewinnbringend veräussert werden.
+<sup>1</sup> Grangeneuve fordert die vollständige oder teilweise Rückerstattung der eidgenössischen und kantonalen Beiträge, wenn landwirtschaftliche Hochbauten, für die öffentliche Beiträge gewährt wurden, innert zwanzig Jahren seit der Auszahlung der letzten Beitragsrate gewinnbringend veräussert werden.
 
 ## 4 Erhaltung der Bodenverbesserung
 
@@ -756,7 +756,7 @@ beschliesst:
 
 **Entschädigung**
 
-<sup>1</sup> Die Mitglieder und die Sekretärin oder der Sekretär der Rekurskommission erhalten die gleichen Entschädigungen wie die nichtständigen Mitglieder der Gerichtsbehörden. Die Auszahlung der Entschädigung an die Betroffenen wird vom Amt für Landwirtschaft angewiesen.
+<sup>1</sup> Die Mitglieder und die Sekretärin oder der Sekretär der Rekurskommission erhalten die gleichen Entschädigungen wie die nichtständigen Mitglieder der Gerichtsbehörden. Die Auszahlung der Entschädigung an die Betroffenen wird von Grangeneuve angewiesen.
 
 #### Art. 86
 

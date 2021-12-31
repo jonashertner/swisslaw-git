@@ -3,13 +3,13 @@ canton: FR
 number: "917.11"
 title: "Règlement d'exécution de la loi sur les améliorations foncières"
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-12-14
 adopted: 1992-08-11
 in_force: 1992-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/917.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6326/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7049/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6326/pdf_file"
 
 Améliorations foncières – R
 
-du 11.08.1992 (version entrée en vigueur le 01.04.2019)
+du 11.08.1992 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -34,7 +34,7 @@ Arrête:
 
 **Directives (art. 5 et 7 LAF)**
 
-<sup>1</sup> Le Service de l'agriculture et le Service des forêts et de la nature (ci-après: le service compétent) peuvent édicter des directives en matière technique, administrative, d'honoraires, de comptabilité, etc., afin d'assurer une exécution rationnelle de tous les travaux principaux ou annexes.
+<sup>1</sup> Grangeneuve et le Service des forêts et de la nature (ci-après: le service compétent) peuvent édicter des directives en matière technique, administrative, d'honoraires, de comptabilité, etc., afin d'assurer une exécution rationnelle de tous les travaux principaux ou annexes.
 
 <sup>2</sup> …
 
@@ -274,7 +274,7 @@ Arrête:
 
 **Coupes (art. 86 LAF)**
 
-<sup>1</sup> L'abattage d'arbres isolés et la suppression de haies sont soumis à l'autorisation du Service de l'agriculture et le nettoyage de lisières à celle du Service des forêts et de la nature.
+<sup>1</sup> L'abattage d'arbres isolés et la suppression de haies sont soumis à l'autorisation de Grangeneuve et le nettoyage de lisières à celle du Service des forêts et de la nature.
 
 <sup>2</sup> Le propriétaire doit adresser la demande d'autorisation, par écrit, au service compétent, avant le 1<sup>er</sup> octobre.
 
@@ -326,7 +326,7 @@ Arrête:
 
 <sup>2</sup> Lorsque la différence entre la surface du remaniement et celle du registre foncier dépasse les écarts habituels, la surface du remaniement fait l'objet d'une remarque à l'état descriptif du registre foncier.
 
-<sup>3</sup> Elle est soumise au visa du Service du cadastre et de la géomatique et du Service de l'agriculture.
+<sup>3</sup> Elle est soumise au visa du Service du cadastre et de la géomatique et de Grangeneuve.
 
 #### Art. 34
 
@@ -613,7 +613,7 @@ Arrête:
 
 **Aliénation avec profit (art. 179 al. 2 et al. 4 LAF)**
 
-<sup>1</sup> Le Service de l'agriculture exige le remboursement total ou partiel des subventions cantonales et fédérales lorsqu'un bâtiment rural, pour lequel une subvention publique a été versée, est aliéné avec profit, dans les vingt ans à compter du versement du solde de la subvention.
+<sup>1</sup> Grangeneuve exige le remboursement total ou partiel des subventions cantonales et fédérales lorsqu'un bâtiment rural, pour lequel une subvention publique a été versée, est aliéné avec profit, dans les vingt ans à compter du versement du solde de la subvention.
 
 ## 4 Maintien de l'amélioration foncière
 
@@ -756,7 +756,7 @@ Arrête:
 
 **Indemnisation**
 
-<sup>1</sup> Les membres et le secrétaire de la Commission de recours reçoivent les mêmes indemnités que les membres non permanents des autorités judiciaires. Le paiement des indemnités dues est ordonnancé par le Service de l'agriculture.
+<sup>1</sup> Les membres et le secrétaire de la Commission de recours reçoivent les mêmes indemnités que les membres non permanents des autorités judiciaires. Le paiement des indemnités dues est ordonnancé par Grangeneuve.
 
 #### Art. 86
 
