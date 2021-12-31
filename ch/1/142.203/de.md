@@ -4,39 +4,37 @@ title: "Verordnung vom 22. Mai 2002 über den freien Personenverkehr zwischen de
 short: VFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2002-261-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-261-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über den freien Personenverkehr zwischen der Schweiz und der Europäischen Union und deren Mitgliedstaaten, zwischen der Schweiz und dem Vereinigten Königreich sowie unter den Mitgliedstaaten der Europäischen Freihandelsassoziation
 
-(Verordnung über den freien Personenverkehr, VFP)**[^t-1]**
+(Verordnung über den freien Personenverkehr, VFP)[^t-1]
 
-vom 22. Mai 2002 (Stand am 1. Januar 2021)
+vom 22. Mai 2002 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. III 1 der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf das Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^ingress-1] (AIG), in Ausführung des Abkommens vom 21. Juni 1999[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen), des Protokolls vom 26. Oktober 2004[^ingress-3] über die Ausdehnung des Freizügigkeitsabkommens auf die neuen EG-Mitgliedstaaten, des Protokolls vom 27. Mai 2008[^ingress-4] über die Ausdehnung des Freizügigkeitsabkommens auf Bulgarien und Rumänien, des Protokolls vom 4. März 2016[^ingress-5] über die Ausdehnung des Freizügigkeitsabkommens auf Kroatien, des Abkommens vom 21. Juni 2001[^ingress-6] zur Änderung des Übereinkommens vom 4. Januar 1960[^ingress-7] zur Errichtung der Europäischen Freihandelsassoziation (EFTA) (EFTA-Übereinkommen), des Abkommens vom 25. Februar 2019[^ingress-8] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens (Abkommen über die erworbenen Rechte), sowie des Abkommens vom 14. Dezember 2020[^ingress-9] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland zur Mobilität von Dienstleistungserbringerinnen und Dienstleistungserbringern (Abkommen über die Mobilität von Dienstleistungserbringerinnen und Dienstleistungserbringern),[^ingress-10]
+gestützt auf das Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^ingress-1] (AIG), in Ausführung des Abkommens vom 21. Juni 1999[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen), des Protokolls vom 4. März 2016[^ingress-3] über die Ausdehnung des Freizügigkeitsabkommens auf Kroatien, des Abkommens vom 21. Juni 2001[^ingress-4] zur Änderung des Übereinkommens vom 4. Januar 1960[^ingress-5] zur Errichtung der Europäischen Freihandelsassoziation (EFTA) (EFTA-Übereinkommen), des Abkommens vom 25. Februar 2019[^ingress-6] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens (Abkommen über die erworbenen Rechte), sowie des Abkommens vom 14. Dezember 2020[^ingress-7] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland zur Mobilität von Dienstleistungserbringern (Abkommen über die Mobilität von Dienstleistungserbringern),[^ingress-8]
 
 verordnet:
 
 [^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^ingress-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^ingress-3]: [AS 2006 995](https://fedlex.data.admin.ch/eli/oc/2006/179)
-[^ingress-4]: [SR 0.142.112.681.1](https://fedlex.data.admin.ch/eli/cc/2009/297)
-[^ingress-5]: [AS 2016 5251](https://fedlex.data.admin.ch/eli/oc/2016/829)
-[^ingress-6]: [AS 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
-[^ingress-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-8]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [AS 2020 6451](https://fedlex.data.admin.ch/eli/oc/2020/1059)
-[^ingress-9]: [SR 0.946.293.671.2](https://fedlex.data.admin.ch/eli/cc/2020/1073); [AS 2020 6675](https://fedlex.data.admin.ch/eli/oc/2020/1073)
-[^ingress-10]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
+[^ingress-3]: [AS 2016 5251](https://fedlex.data.admin.ch/eli/oc/2016/829)
+[^ingress-4]: [AS 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
+[^ingress-5]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^ingress-6]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^ingress-7]: [SR 0.946.293.671.2](https://fedlex.data.admin.ch/eli/cc/2020/1073)
+[^ingress-8]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## 1. Abschnitt: Gegenstand und Geltungsbereich
 
@@ -46,35 +44,35 @@ verordnet:
 
 ### (Art. 10 Freizügigkeitsabkommen und Art. 10 Anhang K EFTA-Übereinkommen)
 
-<sup>1</sup> Diese Verordnung regelt die schrittweise Einführung des freien Personenverkehrs nach den Bestimmungen des Freizügigkeitsabkommens und des EFTA-Übereinkommens unter Berücksichtigung der jeweiligen Übergangsregelungen.
+<sup>1</sup> Diese Verordnung regelt den freien Personenverkehr nach den Bestimmungen des Freizügigkeitsabkommen und des EFTA-Übereinkommens unter Berücksichtigung der jeweiligen Übergangsregelungen.[^1-1]
 
-<sup>2</sup> Sie regelt zudem den freien Personenverkehr nach den Bestimmungen des Abkommens über die erworbenen Rechte.[^1-1]
+<sup>2</sup> Sie regelt zudem den freien Personenverkehr nach den Bestimmungen des Abkommens über die erworbenen Rechte.[^1-2]
 
-<sup>3</sup> Sie regelt weiter das Anmeldeverfahren von selbstständigen Dienstleistungserbringerinnen und Dienstleistungserbringern, die vom Abkommen über die Mobilität von Dienstleistungserbringerinnen und Dienstleistungserbringern erfasst werden.[^1-2]
+<sup>3</sup> Sie regelt weiter das Anmeldeverfahren von selbstständigen Dienstleistungserbringerinnen und Dienstleistungserbringern, die vom Abkommen über die Mobilität von Dienstleistungserbringerinnen und Dienstleistungserbringern erfasst werden.[^1-3]
 
-[^1-1]: Eingefügt durch Ziff. III 1 der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^1-2]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^1-2]: Eingefügt durch Ziff. III 1 der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^1-3]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
 
 #### Art. 2
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für die Staatsangehörigen der Mitgliedstaaten der Europäischen Union (EU-Angehörige)[^2-1] sowie die Staatsangehörigen von Norwegen, Island und des Fürstentums Liechtenstein als Angehörige der Mitgliedstaaten der Europäischen Freihandelsassoziation (EFTA-Angehörige)[^2-2].[^2-3]
+<sup>1</sup> Diese Verordnung gilt für die Staatsangehörigen der Mitgliedstaaten der Europäischen Union (EU-Angehörige) sowie die Staatsangehörigen von Norwegen, Island und des Fürstentums Liechtenstein als Angehörige der Mitgliedstaaten der Europäischen Freihandelsassoziation (EFTA-Angehörige)[^2-1].[^2-2]
 
 <sup>2</sup> Sie gilt unabhängig von der Staatsangehörigkeit für Familienangehörige, die nach den Bestimmungen des Freizügigkeitsabkommens oder des EFTA-Übereinkommens über den Familiennachzug zum Aufenthalt in der Schweiz berechtigt sind.
 
-<sup>3</sup> Sie gilt unabhängig von der Staatsangehörigkeit für Personen, die von einer Gesellschaft, welche nach dem Recht eines Mitgliedstaates der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) gegründet worden ist und ihren statutarischen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung im Gebiet der EU oder EFTA hat, zur Erbringung einer Dienstleistung in die Schweiz entsandt werden und davor bereits dauerhaft auf dem regulären Arbeitsmarkt in einem Mitgliedstaat der EU oder EFTA zugelassen waren.[^2-4]
+<sup>3</sup> Sie gilt unabhängig von der Staatsangehörigkeit für Personen, die von einer Gesellschaft, welche nach dem Recht eines Mitgliedstaates der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) gegründet worden ist und ihren statutarischen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung im Gebiet der EU oder EFTA hat, zur Erbringung einer Dienstleistung in die Schweiz entsandt werden und davor bereits dauerhaft auf dem regulären Arbeitsmarkt in einem Mitgliedstaat der EU oder EFTA zugelassen waren.[^2-3]
 
-<sup>4</sup> Sie gilt sinngemäss auch für Staatsangehörige des Vereinigten Königreichs und ihre Familienangehörigen, die vom Abkommen über die erworbenen Rechte erfasst werden, mit Ausnahme der Artikel 4 Absatz 3<sup>bis</sup>, 8, 10–12, 14 Absatz 2, 21, 27 und 38.[^2-5]
+<sup>4</sup> Sie gilt sinngemäss auch für Staatsangehörige des Vereinigten Königreichs und ihre Familienangehörigen, die vom Abkommen über die erworbenen Rechte erfasst werden, mit Ausnahme der Artikel 4 Absatz 3<sup>bis</sup>, 8, 10–12, 14 Absatz 2, 21, 27 und 38.[^2-4]
 
-<sup>5</sup> Das Anmeldeverfahren bei einer Dienstleistungserbringung bis zu 90 Arbeitstagen innerhalb eines Kalenderjahres nach Artikel 9 Absatz 1<sup>bis</sup> erster und zweiter Satz sowie die Sanktionen nach Artikel 32*a* Absatz 1 gelten auch für selbstständige Dienstleistungserbringerinnen und Dienstleistungserbringer, die vom Abkommen über die Mobilität von Dienstleistungserbringerinnen und Dienstleistungserbringern erfasst werden.[^2-6]
+<sup>5</sup> Das Anmeldeverfahren bei einer Dienstleistungserbringung bis zu 90 Arbeitstagen innerhalb eines Kalenderjahres nach Artikel 9 Absatz 1<sup>bis</sup> erster und zweiter Satz sowie die Sanktionen nach Artikel 32*a* Absatz 1 gelten auch für selbstständige Dienstleistungserbringerinnen und Dienstleistungserbringer, die vom Abkommen über die Mobilität von Dienstleistungserbringerinnen und Dienstleistungserbringern erfasst werden.[^2-5]
 
-[^2-1]: Alle 28 Mitgliedstaaten im Zeitpunkt der Unterzeichnung des Protokolls vom 4. März 2016 über die Ausdehnung des Freizügigkeitsabkommens auf Kroatien, sofern nicht anders bezeichnet.
-[^2-2]: Im Verhältnis Schweiz-Liechtenstein gilt das Protokoll vom 21. Juni 2001, welches integraler Bestandteil des Abkommens zur Änderung des EFTA-Übereinkommens ist.
-[^2-3]: Fassung gemäss Ziff. I der V vom 21. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
-[^2-4]: Fassung gemäss Ziff. I der V vom 13. März 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
-[^2-5]: Eingefügt durch Ziff. III 1 der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^2-6]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
+[^2-1]: Im Verhältnis Schweiz-Liechtenstein gilt das Protokoll vom 21. Juni 2001, welches integraler Bestandteil des Abkommens zur Änderung des EFTA-Übereinkommens ist.
+[^2-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 13. März 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
+[^2-4]: Eingefügt durch Ziff. III 1 der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^2-5]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
 
 #### Art. 3
 
@@ -82,22 +80,22 @@ verordnet:
 
 <sup>1</sup> Diese Verordnung gilt nicht für EU- und EFTA-Angehörige und ihre Familienangehörigen, die unter die Regelung von Artikel 43 Absätze 1 Buchstaben a–d, 2 und 3 der Verordnung vom 24. Oktober 2007[^3-2] über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE) fallen.
 
-<sup>2</sup> Für Staatsangehörige von Kroatien, für die Artikel 43 Absatz 1 Buchstaben e–h VZAE gilt, gelten die Bestimmungen über die Höchstzahlen, den Vorrang der inländischen Arbeitskräfte und die Kontrolle der Lohn- und Arbeitsbedingungen des Protokolls vom 4. März 2016 über die Ausdehnung des Freizügigkeitsabkommens auf Kroatien nicht.[^3-3]
+<sup>2</sup> …[^3-3]
 
-<sup>3</sup> ...[^3-4]
+<sup>3</sup> …[^3-4]
 
-<sup>4</sup> ...[^3-5]
+<sup>4</sup> …[^3-5]
 
-<sup>5</sup> ...[^3-6]
+<sup>5</sup> …[^3-6]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^3-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^3-3]: Fassung gemäss Ziff. I der V vom 21. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^3-3]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^3-4]: Eingefügt durch Ziff. I der V vom 25. April 2012 ([AS 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Aufgehoben durch Ziff. I der V vom 13. April 2016, mit Wirkung seit 1. Juni 2016 ([AS 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
 [^3-5]: Eingefügt durch Ziff. I der V vom 22. Mai 2013 ([AS 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Aufgehoben durch Ziff. I der V vom 30. April 2014, mit Wirkung seit 1. Juni 2014 ([AS 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
 [^3-6]: Eingefügt durch Ziff. I der V vom 10. Mai 2017 ([AS 2017 3093](https://fedlex.data.admin.ch/eli/oc/2017/307)). Aufgehoben durch Ziff. I der V vom 15. Mai 2019 (Ende der Kontingentsperiode für Aufenthaltsbewilligungen B für Erwerbstätige der EU-2), mit Wirkung seit 1. Juni 2019 ([AS 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
 
-## 2. Abschnitt: Bewilligungsarten und Ausländerausweise****
+## 2. Abschnitt: Bewilligungsarten und Ausländerausweise
 
 [^sec2-1]
 
@@ -107,26 +105,25 @@ verordnet:
 
 **Kurzaufenthaltsbewilligung EU/EFTA, Aufenthaltsbewilligung EU/EFTA und Grenzgängerbewilligung EU/EFTA**
 
-### (Art. 6, 7, 12, 13, 20, 24, 28 und 32 Anhang I Freizügigkeitsabkommen und Art. 6, 7, 11, 12, 19 und 23 Anhang K Anlage 1 EFTA-Übereinkommen)
+### (Art. 6, 7, 12, 13, 20 und 24 Anhang I Freizügigkeitsabkommen und
 
-[^4-1]
+Art. 6, 7, 11, 12, 19 und 23 Anhang K Anlage 1 EFTA-Übereinkommen)[^4-1]
 
 <sup>1</sup> EU- und EFTA-Angehörigen wird nach den Bestimmungen des Freizügigkeitsabkommens oder des EFTA-Übereinkommens eine Kurzaufenthaltsbewilligung EU/ EFTA, eine Aufenthaltsbewilligung EU/EFTA oder eine Grenzgängerbewilligung EU/EFTA erteilt.
 
 <sup>2</sup> Soweit das Bundesrecht nichts anderes bestimmt, gelten die Kurzaufenthalts- und die Aufenthaltsbewilligung EU/EFTA für die ganze Schweiz.[^4-2]
 
-<sup>3</sup> Die Grenzgängerbewilligung EU/EFTA für Staatsangehörige der EU (mit Ausnahme von Kroatien) und der EFTA gilt für die ganze Schweiz.[^4-3]
+<sup>3</sup> Die Grenzgängerbewilligung EU/EFTA für Staatsangehörige der EU und der EFTA gilt für die ganze Schweiz.[^4-3]
 
-<sup>3bis</sup> Die Grenzgängerbewilligung EU/EFTA für Staatsangehörige von Kroatien gilt innerhalb der gesamten Grenzzonen[^4-4] der Schweiz. Ausnahmsweise kann eine vorübergehende Tätigkeit ausserhalb der Grenzzonen bewilligt werden.[^4-5]
+<sup>3bis</sup> …[^4-4]
 
-<sup>4</sup> Staatsangehörige der EU (mit Ausnahme von Kroatien) sowie der EFTA, die innerhalb eines Kalenderjahres insgesamt nicht länger als drei Monate in der Schweiz erwerbstätig sind, benötigen keine Kurzaufenthaltsbewilligung EU/EFTA.[^4-6]
+<sup>4</sup> Staatsangehörige der EU sowie der EFTA, die innerhalb eines Kalenderjahres insgesamt nicht länger als drei Monate in der Schweiz erwerbstätig sind, benötigen keine Kurzaufenthaltsbewilligung EU/EFTA.[^4-5]
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 2. Mai 2007, in Kraft seit 1. Juni 2007 ([AS 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 30. April 2014, in Kraft seit 1. Juni 2014 ([AS 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
-[^4-3]: Fassung gemäss Ziff. I der V vom 21. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
-[^4-4]: Die Grenzzonen bestimmen sich nach den mit den Nachbarstaaten abgeschlossenen Grenzgängerabkommen, vgl. [SR 0.142.113.498](https://fedlex.data.admin.ch/eli/cc/1986/446_446_446), [0.631.256.913.63](https://fedlex.data.admin.ch/eli/cc/1970/1020_1020_1020), [0.631.256.916.33](https://fedlex.data.admin.ch/eli/cc/1974/693_693_693).
-[^4-5]: Eingefügt durch Ziff. I der V vom 2. Mai 2007 ([AS 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Fassung gemäss Ziff. I der V vom 21. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
-[^4-6]: Eingefügt durch Ziff. I der V vom 22. Mai 2013 ([AS 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Fassung gemäss Ziff. I der V vom 21. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-4]: Eingefügt durch Ziff. I der V vom 2. Mai 2007 ([AS 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-5]: Eingefügt durch Ziff. I der V vom 18. Febr. 2004 ([AS 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 5
 
@@ -151,7 +148,11 @@ EU- und EFTA-Angehörige und ihre Familienangehörigen erhalten eine unbefristet
 [^6-1]: Fassung gemäss Anhang Ziff. 1 der V vom 20. Sept. 2019, in Kraft seit 1. Nov. 2019 ([AS 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 [^6-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 
-## 3. Abschnitt: Einreise, Melde- und Bewilligungsverfahren
+## 3. Abschnitt: Einreise, Anmelde- und Bewilligungsverfahren
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 7
 
@@ -166,14 +167,9 @@ Für Familienangehörige von Staatsangehörigen der EU oder der EFTA und Dienstl
 
 #### Art. 8
 
-**Zusicherung der Bewilligung**[^8-1]
+[^8-1]
 
-### (Anhang I Art. 1 Abs. 1 und 27 Abs. 2 I i. V. m. Art. 10 Abs. 2*c* Freizügigkeitsabkommen)
-
-Für die Einreise zur Aufnahme einer Erwerbstätigkeit, zu deren Ausübung eine Aufenthaltsbewilligung EU/EFTA erteilt wird, können Staatsangehörige von Kroatien eine Zusicherung der Bewilligung (Art. 5 VZAE[^8-2]) beantragen.
-
-[^8-1]: Fassung gemäss Ziff. I der V vom 15. Mai 2019 (Ende der Kontingentsperiode für Aufenthaltsbewilligungen B für Erwerbstätige der EU-2), in Kraft seit 1. Juni 2019 ([AS 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-[^8-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^8-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 9
 
@@ -183,13 +179,13 @@ Für die Einreise zur Aufnahme einer Erwerbstätigkeit, zu deren Ausübung eine 
 
 <sup>1</sup> Für die Anmelde- und Bewilligungsverfahren gelten die Artikel 10–15 AIG sowie die Artikel 9, 10, 12, 13, 15 und 16 VZAE[^9-1].[^9-2]
 
-<sup>1bis</sup> Bei einem Stellenantritt in der Schweiz bis zu drei Monaten innerhalb eines Kalenderjahres oder bei einer Dienstleistungserbringung durch eine selbstständige Dienstleistungserbringerin oder einen selbstständigen Dienstleistungserbringer bis zu 90 Arbeitstagen innerhalb eines Kalenderjahres gilt sinngemäss das Anmeldeverfahren (Meldepflicht, Verfahren, Angaben, Fristen) nach Artikel 6 des Bundesgesetzes vom 8. Oktober 1999[^9-3] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer und nach Artikel 6 der Verordnung vom 21. Mai 2003[^9-4] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer. Der Lohn muss nicht gemeldet werden. Bei einem Stellenantritt in der Schweiz bis zu drei Monaten innerhalb eines Kalenderjahres muss die Anmeldung spätestens am Tag vor Beginn der Tätigkeit erfolgen.[^9-5]
+<sup>1bis</sup> Bei einem Stellenantritt in der Schweiz bis zu drei Monaten innerhalb eines Kalenderjahres oder bei einer Dienstleistungserbringung durch eine selbstständige Dienstleistungserbringerin oder einen selbstständigen Dienstleistungserbringer bis zu 90 Arbeitstagen innerhalb eines Kalenderjahres gilt sinngemäss das Anmeldeverfahren (Meldepflicht, Verfahren, Angaben, Fristen) nach Artikel 6 des Bundesgesetzes vom 8. Oktober 1999[^9-3] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer und nach Artikel 6 der Verordnung vom 21. Mai 2003[^9-4] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer. Der Lohn muss nicht gemeldet werden. Bei einem Stellenantritt in der Schweiz bis zu drei Monaten innerhalb eines Kalenderjahres muss die Meldung spätestens am Tag vor Beginn der Tätigkeit erfolgen.[^9-5] [^9-6]
 
-<sup>1ter</sup> Artikel 6 Absatz 4 des Bundesgesetzes vom 8. Oktober 1999 über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer gilt für die Weiterleitung der Meldung an die kantonale tripartite Kommission sowie gegebenenfalls an die durch den allgemein verbindlich erklärten Gesamtarbeitsvertrag eingesetzte paritätische Kommission (Art. 9 Abs. 1<sup>bis</sup> erster Satz VEP) sinngemäss.[^9-6]
+<sup>1ter</sup> Artikel 6 Absatz 4 des Bundesgesetzes vom 8. Oktober 1999 über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer gilt für die Weiterleitung der Meldung an die kantonale tripartite Kommission sowie gegebenenfalls an die durch den allgemein verbindlich erklärten Gesamtarbeitsvertrag eingesetzte paritätische Kommission (Art. 9 Abs. 1<sup>bis</sup> erster Satz VEP) sinngemäss.[^9-7]
 
-<sup>2</sup> Für die Meldungen der Kantone und Gemeinden gilt Artikel 5 der ZEMIS-Verordnung vom 12. April 2006[^9-7].[^9-8]
+<sup>2</sup> Für die Meldungen der Kantone und Gemeinden gilt Artikel 5 der ZEMIS-Verordnung vom 12. April 2006[^9-8].[^9-9]
 
-<sup>3</sup> Grenzgängerinnen und Grenzgänger haben einen Stellenwechsel bei der am Arbeitsort zuständigen Behörde zu melden. Die Meldung muss vor dem Stellenantritt erfolgen.[^9-9]
+<sup>3</sup> Grenzgängerinnen und Grenzgänger haben einen Stellenwechsel bei der am Arbeitsort zuständigen Behörde zu melden. Die Meldung muss vor dem Stellenantritt erfolgen.[^9-10]
 
 <sup>4</sup> Grenzgängerinnen und Grenzgänger, die sich während der Woche in der Schweiz aufhalten, haben sich bei der an ihrem Aufenthaltsort zuständigen Behörde anzumelden. Absatz 1 gilt sinngemäss.
 
@@ -197,65 +193,43 @@ Für die Einreise zur Aufnahme einer Erwerbstätigkeit, zu deren Ausübung eine 
 [^9-2]: Fassung gemäss Ziff. I der V vom 13. März 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
 [^9-3]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
 [^9-4]: [SR 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
-[^9-5]: Eingefügt durch Ziff. I der V vom 13. März 2009 ([AS 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)). Fassung gemäss Anhang Ziff. 1 der V vom vom 16. April 2013, in Kraft seit 15. Mai 2013 ([AS 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
-[^9-6]: Eingefügt durch Ziff. I der V vom 13. März 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
-[^9-7]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^9-8]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 12. April 2006 über das Zentrale Migrationsinformationssystem, in Kraft seit 29. Mai 2006 ([AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
-[^9-9]: Fassung gemäss Anhang Ziff. 1 der V vom 20. Sept. 2019, in Kraft seit 1. Nov. 2019 ([AS 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
+[^9-5]: Fassung des Satzes gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^9-6]: Eingefügt durch Ziff. I der V vom 13. März 2009 ([AS 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)). Fassung gemäss Anhang Ziff. 1 der V vom vom 16. April 2013, in Kraft seit 15. Mai 2013 ([AS 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
+[^9-7]: Eingefügt durch Ziff. I der V vom 13. März 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
+[^9-8]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^9-9]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 12. April 2006 über das Zentrale Migrationsinformationssystem, in Kraft seit 29. Mai 2006 ([AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+[^9-10]: Fassung gemäss Anhang Ziff. 1 der V vom 20. Sept. 2019, in Kraft seit 1. Nov. 2019 ([AS 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
-## 4. Abschnitt: Aufenthalt mit Erwerbstätigkeit****
+## 4. Abschnitt: Aufenthalt mit Erwerbstätigkeit
 
 [^sec4-1]
 
 [^sec4-1]: Fassung gemäss Ziff. I der V vom 24. April 2013 (Aufrechterhaltung Kontingente B-Bewilligungen EU-8), in Kraft seit 1. Mai 2013 ([AS 2013 1247](https://fedlex.data.admin.ch/eli/oc/2013/277)).
 
-#### Art. 10
+#### Art. 10 und 11
 
-**Anrechnung an die Höchstzahlen**[^10-1]
+[^1011-1]
 
-### (Art. 10 Freizügigkeitsabkommen)
-
-Eine Anrechnung der festgelegten Höchstzahlen gemäss Freizügigkeitsabkommen erfolgt nicht für Staatsangehörige von Kroatien, die:[^10-2]
-
-- a. nicht eingereist sind und auf die Stelle verzichtet haben; oder
-- b. innerhalb von 90 Arbeitstagen nach der Aufnahme der Erwerbstätigkeit wieder ausgereist sind.
-
-[^10-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4565](https://fedlex.data.admin.ch/eli/oc/2018/714)).
-[^10-2]: Fassung gemäss Ziff. I der V vom 15. Mai 2019 (Ende der Kontingentsperiode für Aufenthaltsbewilligungen B für Erwerbstätige der EU-2), in Kraft seit 1. Juni 2019 ([AS 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-
-#### Art. 11
-
-**Höchstzahlen**[^11-1]
-
-Das Staatssekretariat für Migration (SEM) teilt die nach Artikel 10 des Freizügigkeitsabkommens festgelegten Höchstzahlen für Staatsangehörige von Kroatien auf.
-
-[^11-1]: Fassung gemäss Ziff. I der V vom 15. Mai 2019 (Ende der Kontingentsperiode für Aufenthaltsbewilligungen B für Erwerbstätige der EU-2), in Kraft seit 1. Juni 2019 ([AS 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
+[^1011-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 12
 
 **Ausnahmen von den Höchstzahlen**
 
-### (Art. 10 Abs. 3*c* und 3*d* sowie Art. 13 Freizügigkeitsabkommen)
+### …
 
 [^12-1]
 
-<sup>1</sup> Bei den Höchstzahlen für Staatsangehörige von Kroatien gelten die im AIG und in der VZAE[^12-2] vorgesehenen Ausnahmen sinngemäss.[^12-3]
+<sup>1–3</sup> …[^12-2]
 
-<sup>2</sup> Aufenthaltsbewilligungen EU/EFTA, die Staatsangehörigen von Kroatien gestützt auf Anhang I Artikel 27 Absatz 3 Buchstabe a des Freizügigkeitsabkommens erteilt werden, sind von den Höchstzahlen ausgenommen.[^12-4]
+<sup>4</sup> Liechtensteinische Landesbürger sind von den Höchstzahlen ausgenommen.[^12-3]
 
-<sup>3</sup> Staatsangehörige von Kroatien, die als Doktorandinnen und Doktoranden oder Postdoktorandinnen und Postdoktoranden an einer schweizerischen Hochschule erwerbstätig sind, bleiben auch beim Stellen- oder Berufswechsel von den Höchstzahlen ausgenommen.[^12-5]
+<sup>5</sup> …[^12-4]
 
-<sup>4</sup> Liechtensteinische Landesbürger sind von den Höchstzahlen ausgenommen.[^12-6]
-
-<sup>5</sup> Staatsangehörige von Kroatien können ohne Anrechnung an die Höchstzahlen für Kurzaufenthaltsbewilligungen bis zu vier Monaten zugelassen werden, wenn sie die Qualifikationsvoraussetzungen von Artikel 23 AIG erfüllen. Wenn sie diese Qualifikationsvoraussetzungen nicht erfüllen, können sie unter Anrechnung an die Höchstzahlen für Kurzaufenthalter zugelassen werden.[^12-7]
-
-[^12-1]: Fassung gemäss Ziff. I der V vom 15. Mai 2019 (Ende der Kontingentsperiode für Aufenthaltsbewilligungen B für Erwerbstätige der EU-2), in Kraft seit 1. Juni 2019 ([AS 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-[^12-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^12-3]: Fassung gemäss Ziff. I der V vom 15. Mai 2019 (Ende der Kontingentsperiode für Aufenthaltsbewilligungen B für Erwerbstätige der EU-2), in Kraft seit 1. Juni 2019 ([AS 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-[^12-4]: Fassung gemäss Ziff. I der V vom 15. Mai 2019 (Ende der Kontingentsperiode für Aufenthaltsbewilligungen B für Erwerbstätige der EU-2), in Kraft seit 1. Juni 2019 ([AS 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-[^12-5]: Fassung gemäss Ziff. I der V vom 15. Mai 2019 (Ende der Kontingentsperiode für Aufenthaltsbewilligungen B für Erwerbstätige der EU-2), in Kraft seit 1. Juni 2019 ([AS 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-[^12-6]: Eingefügt durch Ziff. II der V vom 10. Dez. 2004 ([AS 2004 5397](https://fedlex.data.admin.ch/eli/oc/2004/825)). Fassung gemäss Ziff. I der V vom 2. Mai 2007, in Kraft seit 1. Juni 2007 ([AS 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)).
-[^12-7]: Eingefügt durch Ziff. I der V vom 2. Nov. 2005 ([AS 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)). Fassung gemäss Ziff. I der V vom 21. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^12-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^12-2]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^12-3]: Eingefügt durch Ziff. II der V vom 10. Dez. 2004 ([AS 2004 5397](https://fedlex.data.admin.ch/eli/oc/2004/825)). Fassung gemäss Ziff. I der V vom 2. Mai 2007, in Kraft seit 1. Juni 2007 ([AS 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)).
+[^12-4]: Eingefügt durch Ziff. I der V vom 2. Nov. 2005 ([AS 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## 5. Abschnitt: Erbringung von grenzüberschreitenden Dienstleistungen
 
@@ -276,10 +250,10 @@ Personen, die grenzüberschreitende Dienstleistungen im Rahmen eines Dienstleist
 
 <sup>1</sup> Besteht kein Dienstleistungsabkommen, so benötigen EU- und EFTA-Angehörige und Dienstleistungserbringer nach Artikel 2 Absatz 3 zur Erbringung einer grenzüberschreitenden Dienstleistung keine Kurzaufenthaltsbewilligung EU/EFTA, wenn ihr Aufenthalt 90 Arbeitstage im Kalenderjahr nicht übersteigt.
 
-<sup>2</sup> Staatsangehörige von Kroatien sowie Arbeitnehmerinnen und Arbeitnehmer, die zur Erbringung einer grenzüberschreitenden Dienstleistung von einer Gesellschaft, welche ihren statutarischen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung im Gebiet von Kroatien hat, in die Schweiz entsandt werden, benötigen eine Kurzaufenthaltsbewilligung EU/EFTA, wenn sie gärtnerische Dienstleistungen, Dienstleistungen im Baugewerbe einschliesslich verwandter Wirtschaftszweige, Schutzdienste oder Dienstleistungen der industriellen Reinigung erbringen. Die Bewilligung wird erteilt, wenn der Vorrang der inländischen Arbeitskräfte, die Kontrolle der Lohn- und Arbeitsbedingungen sowie die Qualifikationsvoraussetzungen nach Artikel 23 AIG eingehalten werden.[^14-2]
+<sup>2</sup> …[^14-2]
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2005, in Kraft seit 1. April 2006 ([AS 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)).
-[^14-2]: Fassung gemäss Ziff. I der V vom 21. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^14-2]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 15
 
@@ -348,15 +322,13 @@ Die zuständigen Behörden können bei Aufenthalten ohne Erwerbstätigkeit schon
 
 Sind die Voraussetzungen für eine Zulassung zu einem Aufenthalt ohne Erwerbstätigkeit nach dem Freizügigkeitsabkommen oder dem EFTA-Übereinkommen nicht erfüllt, so können Aufenthaltsbewilligungen EU/EFTA erteilt werden, wenn wichtige Gründe es gebieten.
 
-## 7. Abschnitt:**** Aufnahme einer Erwerbstätigkeit durch Familienangehörige von kroatischen Staatsangehörigen
-
-[^sec7-1]
-
-[^sec7-1]: Fassung gemäss Ziff. I der V vom 21. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+## 7. Abschnitt: …
 
 #### Art. 21
 
-Für Familienangehörige von Staatsangehörigen von Kroatien mit Kurzaufenthaltsbewilligung gelten bei Aufnahme einer Erwerbstätigkeit die Bestimmungen über die Lohn- und Arbeitsbedingungen nach Artikel 10 Absätze 2*c* und 3*d* des Freizügigkeitsabkommens.
+[^21-1]
+
+[^21-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## 8. Abschnitt: Ausgestaltung des Verbleiberechts
 
@@ -411,11 +383,9 @@ Bewilligungen nach dieser Verordnung werden von den zuständigen kantonalen Beh�
 
 #### Art. 27
 
-**Vorentscheid zu Bewilligungen**[^27-1]
+[^27-1]
 
-Bevor die zuständige kantonale Behörde einer oder einem Staatsangehörigen von Kroatien eine Bewilligung für eine unselbstständige Erwerbstätigkeit erteilt, entscheidet die kantonale Arbeitsmarktbehörde mittels Verfügung darüber, ob die arbeitsmarktlichen Voraussetzungen für die Erteilung einer Bewilligung erfüllt sind. Das Verfahren richtet sich nach kantonalem Recht.
-
-[^27-1]: Fassung gemäss Ziff. I der V vom 21. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^27-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 28
 
@@ -429,13 +399,14 @@ Die Kontrolle der Bewilligungen von EU- und EFTA-Angehörigen durch das Staatsse
 
 #### Art. 29
 
-**Zuständigkeit des SEM**
+**Zuständigkeit des SEM**[^29-1]
 
 Das SEM ist zuständig für:
 
-- a. Fälle nach Artikel 12 Absatz 1, die nicht an die Höchstzahlen angerechnet werden;
-- b. die Zustimmung zu erstmaligen Aufenthaltsbewilligungen und Verlängerungen für EU- und EFTA-Angehörige ohne Erwerbstätigkeit nach Artikel 20;
-- c. die Kontrolle der Bewilligungen nach Artikel 28.
+- a. die Zustimmung zu erstmaligen Aufenthaltsbewilligungen und Verlängerungen für EU- und EFTA-Angehörige ohne Erwerbstätigkeit nach Artikel 20;
+- b. die Kontrolle der Bewilligungen nach Artikel 28.
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 30
 
@@ -443,7 +414,7 @@ Das SEM ist zuständig für:
 
 [^30-1]: Aufgehoben durch Ziff. II der V vom 20. Nov. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3985](https://fedlex.data.admin.ch/eli/oc/2002/638)).
 
-## 11. Abschnitt: ...
+## 11. Abschnitt: …
 
 #### Art. 31
 
@@ -451,7 +422,7 @@ Das SEM ist zuständig für:
 
 [^31-1]: Aufgehoben durch Ziff. II 3 der V über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-## 12. Abschnitt: Strafbestimmungen und administrative Sanktionen****
+## 12. Abschnitt: Strafbestimmungen und administrative Sanktionen
 
 [^sec12-1]
 
@@ -496,7 +467,7 @@ Die Verordnung vom 23. Mai 2001[^34-1] über die Einführung des freien Personen
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^35-1]
+…[^35-1]
 
 [^35-1]: Die Änderungen können unter [AS 2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)konsultiert werden.
 
@@ -520,40 +491,9 @@ Für Verfahren, die bei Inkrafttreten dieser Verordnung hängig sind, gilt das n
 
 #### Art. 38
 
-**Übergangsregelung**
-
-### (Art. 10 Freizügigkeitsabkommen und 26–34 Anhang I Freizügigkeitsabkommen)
-
 [^38-1]
 
-<sup>1</sup> Die für Kroatien im Freizügigkeitsabkommen vorgesehenen Übergangsregelungen im Zusammenhang mit dem Vorrang der Arbeitskräfte, der Kontrolle der Qualifikationen und der Lohn- und Arbeitsbedingungen, den aufsteigenden Kontingenten, der Erneuerung und der Umwandlung der Bewilligung, dem Rückkehrrecht sowie den Grenzzonen sind bis maximal sieben Jahre nach Inkrafttreten des Protokolls vom 4. März 2016 über die Ausdehnung des Freizügigkeitsabkommens auf Kroatien anwendbar.[^38-2]
-
-<sup>2</sup> Für Staatsangehörige von Kroatien, die im Hoheitsgebiet der Schweiz als Grenzgängerinnen und Grenzgänger eine selbstständige Erwerbstätigkeit ausüben, sind die im Freizügigkeitsabkommen vorgesehenen Übergangsregelungen im Zusammenhang mit den Grenzzonen bis maximal sieben Jahre nach Inkrafttreten des Protokolls vom 4. März 2016 über die Ausdehnung des Freizügigkeitsabkommens auf Kroatien anwendbar.[^38-3]
-
-<sup>3</sup> ...[^38-4]
-
-<sup>3bis</sup> ...[^38-5]
-
-<sup>4</sup> ...[^38-6]
-
-<sup>5</sup> ...[^38-7]
-
-<sup>6</sup> ...[^38-8]
-
-<sup>7</sup> ...[^38-9]
-
-<sup>8</sup> ...[^38-10]
-
-[^38-1]: Fassung gemäss Ziff. I der V vom 2. Mai 2007, in Kraft seit 1. Juni 2007 ([AS 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)).
-[^38-2]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4565](https://fedlex.data.admin.ch/eli/oc/2018/714)).
-[^38-3]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4565](https://fedlex.data.admin.ch/eli/oc/2018/714)).
-[^38-4]: Eingefügt durch Ziff. I der V vom 2. Nov. 2005 ([AS 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)). Aufgehoben durch Ziff. I der V vom 30. März 2011, mit Wirkung seit 1. Mai 2011 ([AS 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
-[^38-5]: Eingefügt durch Ziff. I der V vom 2. Mai 2007 ([AS 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Aufgehoben durch Ziff. I der V vom 30. März 2011, mit Wirkung seit 1. Mai 2011 ([AS 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
-[^38-6]: Eingefügt durch Ziff. I der V vom 13. März 2009 ([AS 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)). Aufgehoben durch Ziff. I der V vom 13. April 2016, mit Wirkung seit 1. Juni 2016 ([AS 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
-[^38-7]: Eingefügt durch Ziff. I der V vom 30. März 2011 ([AS 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)). Aufgehoben durch Ziff. I der V vom 13. April 2016, mit Wirkung seit 1. Juni 2016 ([AS 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
-[^38-8]: Eingefügt durch Ziff. I der V vom 25. April 2012 ([AS 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Aufgehoben durch Ziff. I der V vom 30. April 2014, mit Wirkung seit 1. Juni 2014 ([AS 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
-[^38-9]: Eingefügt durch Ziff. I der V vom 22. Mai 2013 ([AS 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Aufgehoben durch Ziff. I der V vom 30. April 2014, mit Wirkung seit 1. Juni 2014 ([AS 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
-[^38-10]: Eingefügt durch Ziff. I der V vom 10. Mai 2017 ([AS 2017 3093](https://fedlex.data.admin.ch/eli/oc/2017/307)). Aufgehoben durch Ziff. I der V vom 15. Mai 2019 (Ende der Kontingentsperiode für Aufenthaltsbewilligungen B für Erwerbstätige der EU-2), mit Wirkung seit 1. Juni 2019 ([AS 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
+[^38-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## 17. Abschnitt: Inkrafttreten
 

@@ -4,53 +4,37 @@ title: "Ordonnance du 22 mai 2002 sur la libre circulation des personnes entre l
 short: OLCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/261"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2002-05-22
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-261-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/261/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-261-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/261/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la libre circulation des personnes entre la Suisse et l’Union européenne et ses États membres, entre la Suisse et le Royaume-Uni, ainsi qu’entre les États membres de l’Association européenne de libre-échange
 
-(Ordonnance sur la libre circulation des personnes, OLCP)**[^t-1]**
+(Ordonnance sur la libre circulation des personnes, OLCP)[^t-1]
 
-du 22 mai 2002 (Etat le 1<sup>er</sup> janvier 2021)
+du 22 mai 2002 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. III 1 de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 Le Conseil fédéral suisse,
 
-vu la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^ingress-1],
-
-en exécution de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes (accord sur la libre circulation des personnes)[^ingress-2],
-
-en exécution du Protocole du 26 octobre 2004 relatif à l’extension de l’accord sur la libre circulation des personnes aux nouveaux États membres de la Communauté européenne[^ingress-3],
-
-en exécution du Protocole du 27 mai 2008 relatif à l’extension de l’accord sur la libre circulation des personnes à la Bulgarie et la Roumanie[^ingress-4],
-
-en exécution du Protocole du 4 mars 2016 relatif à l’extension de l’accord sur la libre circulation des personnes à la Croatie[^ingress-5],
-
-en exécution de l’Accord du 21 juin 2001[^ingress-6] amendant la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE) (convention instituant l’AELE)[^ingress-7],
-
-en exécution de l’Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes (accord sur les droits acquis)[^ingress-8],
-
-et en exécution de l’accord du 14 décembre 2020 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif à la mobilité des prestataires de services (accord sur la mobilité des prestataires de services)[^ingress-9],[^ingress-10]
+vu la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^ingress-1], en exécution de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes (accord sur la libre circulation des personnes)[^ingress-2], en exécution du Protocole du 4 mars 2016 relatif à l’extension de l’accord sur la libre circulation des personnes à la Croatie[^ingress-3], en exécution de l’Accord du 21 juin 2001[^ingress-4] amendant la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE) (Convention instituant l’AELE)[^ingress-5], en exécution de l’Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes (accord sur les droits acquis)[^ingress-6], et en exécution de l’Accord du 14 décembre 2020 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif à la mobilité des prestataires de services (accord sur la mobilité des prestataires de services)[^ingress-7],[^ingress-8]
 
 arrête:
 
 [^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^ingress-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^ingress-3]: [RO 2006 995](https://fedlex.data.admin.ch/eli/oc/2006/179)
-[^ingress-4]: [RS 0.142.112.681.1](https://fedlex.data.admin.ch/eli/cc/2009/297)
-[^ingress-5]: [RO 2016 5251](https://fedlex.data.admin.ch/eli/oc/2016/829)
-[^ingress-6]: [RO 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
-[^ingress-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^ingress-8]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [RO 2020 6451](https://fedlex.data.admin.ch/eli/oc/2020/1059)
-[^ingress-9]: [RS 0.946.293.671.2](https://fedlex.data.admin.ch/eli/cc/2020/1073); [RO 2020 6675](https://fedlex.data.admin.ch/eli/oc/2020/1073)
-[^ingress-10]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
+[^ingress-3]: [RO 2016 5251](https://fedlex.data.admin.ch/eli/oc/2016/829)
+[^ingress-4]: [RO 2003 2685](https://fedlex.data.admin.ch/eli/oc/2003/416)
+[^ingress-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^ingress-6]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^ingress-7]: [RS 0.946.293.671.2](https://fedlex.data.admin.ch/eli/cc/2020/1073)
+[^ingress-8]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## Section 1 Objet et champ d’application
 
@@ -60,35 +44,35 @@ arrête:
 
 ### (art. 10 de l’Ac. sur la libre circulation des personnes et art. 10 de l’annexe K de la Conv. instituant l’AELE)
 
-<sup>1</sup> La présente ordonnance réglemente l’introduction progressive de la libre circulation des personnes, selon les dispositions de l’accord sur la libre circulation des personnes et les dispositions de la Convention instituant l’AELE, compte tenu des réglementations transitoires.
+<sup>1</sup> La présente ordonnance réglemente la libre circulation des personnes, selon les dispositions de l’accord sur la libre circulation des personnes et les dispositions de la Convention instituant l’AELE, compte tenu des réglementations transitoires.[^1-1]
 
-<sup>2</sup> Elle règle également la libre circulation des personnes conformément aux dispositions de l’accord sur les droits acquis.[^1-1]
+<sup>2</sup> Elle règle également la libre circulation des personnes conformément aux dispositions de l’accord sur les droits acquis.[^1-2]
 
-<sup>3</sup> Elle règle en outre la procédure de déclaration d’arrivée pour les prestataires de services indépendants qui sont couverts par l’accord relatif à la mobilité des prestataires de services.[^1-2]
+<sup>3</sup> Elle règle en outre la procédure de déclaration d’arrivée pour les prestataires de services indépendants qui sont couverts par l’accord relatif à la mobilité des prestataires de services.[^1-3]
 
-[^1-1]: Introduit par le ch. III 1 de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^1-2]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^1-2]: Introduit par le ch. III 1 de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^1-3]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
 
 #### Art. 2
 
 **Champ d’application**
 
-<sup>1</sup> La présente ordonnance s’applique aux ressortissants des États membres de l’Union européenne (ressortissants de l’UE)[^2-1] et aux ressortissants de la Norvège, de l’Islande et de la Principauté de Liechtenstein en tant que ressortissants des États membres de l’Association européenne de libre-échange (ressortissants de l’AELE)[^2-2].[^2-3]
+<sup>1</sup> La présente ordonnance s’applique aux ressortissants des États membres de l’Union européenne (ressortissants de l’UE) et aux ressortissants de la Norvège, de l’Islande et de la Principauté de Liechtenstein en tant que ressortissants des États membres de l’Association européenne de libre-échange (ressortissants de l’AELE)[^2-1].[^2-2]
 
 <sup>2</sup> Elle s’applique aussi aux membres de leur famille qui, indépendamment de leur nationalité, ont, conformément aux dispositions sur le regroupement familial de l’accord sur la libre circulation des personnes ou de la Convention instituant l’AELE, l’autorisation de séjourner en Suisse.
 
-<sup>3</sup> Elle s’applique aux personnes qui, indépendamment de leur nationalité, sont détachées par des sociétés constituées conformément à la législation de l’un des États membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE) et ayant leur siège statutaire, leur administration centrale ou leur établissement principal sur le territoire de l’UE ou de l’AELE en vue de fournir une prestation de services en Suisse et qui ont été intégrées auparavant dans le marché régulier du travail de l’un des États membres de l’UE ou de l’AELE.[^2-4]
+<sup>3</sup> Elle s’applique aux personnes qui, indépendamment de leur nationalité, sont détachées par des sociétés constituées conformément à la législation de l’un des États membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE) et ayant leur siège statutaire, leur administration centrale ou leur établissement principal sur le territoire de l’UE ou de l’AELE en vue de fournir une prestation de services en Suisse et qui ont été intégrées auparavant dans le marché régulier du travail de l’un des États membres de l’UE ou de l’AELE.[^2-3]
 
-<sup>4</sup> Elle s’applique aussi aux ressortissants du Royaume-Uni et aux membres de leur famille conformément à la réglementation prévue par l’accord sur les droits acquis, à l’exception des art. 4, al. 3<sup>bis</sup>, 8, 10 à 12, 14, al. 2, 21, 27 et 38.[^2-5]
+<sup>4</sup> Elle s’applique aussi aux ressortissants du Royaume-Uni et aux membres de leur famille conformément à la réglementation prévue par l’accord sur les droits acquis, à l’exception des art. 4, al. 3<sup>bis</sup>, 8, 10 à 12, 14, al. 2, 21, 27 et 38.[^2-4]
 
-<sup>5</sup> La procédure de déclaration d’arrivée pour les prestations de services fournies pendant 90 jours ouvrables au plus par année civile visée à l’art. 9, al. 1<sup>bis</sup>, 1<sup>re</sup> et 2<sup>e</sup> phrases, et les sanctions prévues à l’art. 32*a*, al. 1, s’appliquent également aux prestataires de services indépendants qui sont couverts par l’accord sur la mobilité des prestataires de services.[^2-6]
+<sup>5</sup> La procédure de déclaration d’arrivée pour les prestations de services fournies pendant 90 jours ouvrables au plus par année civile visée à l’art. 9, al. 1<sup>bis</sup>, 1<sup>re</sup> et 2<sup>e</sup> phrases, et les sanctions prévues à l’art. 32*a*, al. 1, s’appliquent également aux prestataires de services indépendants qui sont couverts par l’accord sur la mobilité des prestataires de services.[^2-5]
 
-[^2-1]: Les 28 Etats membres au moment de la signature du Prot. du 4 mars 2016 relatif à l’extension de l’accord sur la libre circulation des personnes à la Croatie, sauf indication contraire.
-[^2-2]: Les relations entre la Suisse et le Liechtenstein sont régies par le Prot. du 21 juin 2001 qui fait partie intégrante de l’ac. amendant la conv. instituant l’AELE.
-[^2-3]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
-[^2-4]: Nouvelle teneur selon le ch. I de l’O du 13 mars 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
-[^2-5]: Introduit par le ch. III 1 de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^2-6]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
+[^2-1]: Les relations entre la Suisse et le Liechtenstein sont régies par le Prot. du 21 juin 2001 qui fait partie intégrante de l’ac. amendant la conv. instituant l’AELE.
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 13 mars 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)).
+[^2-4]: Introduit par le ch. III 1 de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
+[^2-5]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6413](https://fedlex.data.admin.ch/eli/oc/2020/1051)).
 
 #### Art. 3
 
@@ -96,22 +80,22 @@ arrête:
 
 <sup>1</sup> La présente ordonnance ne s’applique ni aux ressortissants de l’UE et de l’AELE ni aux membres de leur famille qui entrent dans le champ d’application de l’art. 43, al. 1, let. a à d, 2 et 3 de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative (OASA)[^3-2].
 
-<sup>2</sup> Les dispositions afférentes aux nombres maximums, à la priorité des travailleurs indigènes et au contrôle des conditions de salaire et de travail figurant dans le Protocole du 4 mars 2016 relatif à l’extension de l’accord sur la libre circulation des personnes à la Croatie ne s’appliquent pas aux ressortissants de la Croatie auxquels l’art. 43, al. 1, let. e à h OASA s’applique.[^3-3]
+<sup>2</sup> …[^3-3]
 
-<sup>3</sup> ...[^3-4]
+<sup>3</sup> …[^3-4]
 
-<sup>4</sup> ...[^3-5]
+<sup>4</sup> …[^3-5]
 
-<sup>5</sup> ...[^3-6]
+<sup>5</sup> …[^3-6]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5533](https://fedlex.data.admin.ch/eli/oc/2007/760)).
 [^3-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^3-3]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^3-3]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^3-4]: Introduit par le ch. I de l’O du 25 avr. 2012 ([RO 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Abrogé par le ch. I de l’O du 13 avr. 2016, avec effet au 1<sup>er</sup> juin 2016 ([RO 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
 [^3-5]: Introduit par le ch. I de l’O du 22 mai 2013 ([RO 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Abrogé par le ch. I de l’O du 30 avr. 2014, avec effet au 1<sup>er</sup> juin 2014 ([RO 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
 [^3-6]: Introduit par le ch. I de l’O du 10 mai 2017 ([RO 2017 3093](https://fedlex.data.admin.ch/eli/oc/2017/307)). Abrogé par le ch. I de l’O du 15 mai 2019 (Fin des contingents de permis B pour les travailleurs de l’UE-2), avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
 
-## Section 2 Catégories d’autorisations et de titres pour étrangers ****
+## Section 2 Catégories d’autorisations et de titres pour étrangers
 
 [^sec2-1]
 
@@ -121,7 +105,7 @@ arrête:
 
 **Autorisation de séjour de courte durée, de séjour et frontalière UE/AELE**
 
-### (art. 6, 7, 12, 13, 20, 24, 28 et 32 de l’annexe I de l’Ac. sur la libre circulation des personnes et art. 6, 7, 11, 12, 19 et 23 de l’app. 1 de l’annexe K de la Conv. instituant l’AELE)
+### (art. 6, 7, 12, 13, 20 et 24 de l’annexe I de l’ac. sur la libre circulation des personnes et art. 6, 7, 11, 12, 19 et 23 de l’app. 1 de l’annexe K de la Conv. instituant l’AELE)
 
 [^4-1]
 
@@ -129,18 +113,17 @@ arrête:
 
 <sup>2</sup> Sauf disposition contraire du droit fédéral, les autorisations de séjour de courte durée et de séjour UE/AELE sont valables sur tout le territoire suisse.[^4-2]
 
-<sup>3</sup> L’autorisation frontalière UE/AELE délivrée aux ressortissants de l’UE (à l’exception de la Croatie) et de l’AELE est valable sur tout le territoire suisse.[^4-3]
+<sup>3</sup> L’autorisation frontalière UE/AELE délivrée aux ressortissants de l’UE et de l’AELE est valable sur toute le territoire suisse.[^4-3]
 
-<sup>3bis</sup> L’autorisation frontalière UE/AELE délivrée aux ressortissants de la Croatie est valable dans toutes les zones frontalières suisses[^4-4]. Une activité temporaire hors de la zone frontalière peut être autorisée à titre exceptionnel.[^4-5]
+<sup>3bis</sup> …[^4-4]
 
-<sup>4</sup> Les ressortissants de l’UE (à l’exception de la Croatie) et de l’AELE qui exercent une activité lucrative en Suisse dont la durée ne dépasse pas trois mois au total par année civile n’ont pas besoin d’une autorisation de séjour de courte durée UE/AELE.[^4-6]
+<sup>4</sup> Les ressortissants de l’UE et de l’AELE qui exercent une activité lucrative en Suisse dont la durée ne dépasse pas trois mois au total par année civile n’ont pas besoin d’une autorisation de de séjour de courte durée UE/AELE.[^4-5]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 2 mai 2007, en vigueur depuis le 1<sup>er</sup> juin 2007 ([RO 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 30 avr. 2014, en vigueur depuis le 1<sup>er</sup> juin 2014 ([RO 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
-[^4-4]: Les zones frontalières sont déterminées dans les accords frontaliers conclus avec les pays voisins, cf. [RS 0.142.113.498](https://fedlex.data.admin.ch/eli/cc/1986/446_446_446), [0.631.256.913.63](https://fedlex.data.admin.ch/eli/cc/1970/1020_1020_1020), [0.631.256.916.33](https://fedlex.data.admin.ch/eli/cc/1974/693_693_693).
-[^4-5]: Introduit par le ch. I de l’O du 2 mai 2007 ([RO 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Nouvelle teneur selon le ch. I de l’O du 21 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
-[^4-6]: Introduit par le ch. I de l’O du 18 fév. 2004 ([RO 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)). Nouvelle teneur selon le ch. I de l’O du 21 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-4]: Introduit par le ch. I de l’O du 2 mai 2007 ([RO 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^4-5]: Introduit par le ch. I de l’O du 18 fév. 2004 ([RO 2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 5
 
@@ -180,14 +163,9 @@ Les membres de la famille d’un ressortissant de l’UE ou de l’AELE et les p
 
 #### Art. 8
 
-**Assurance d’autorisation**[^8-1]
+[^8-1]
 
-### (art. 1, par. 1, et 27, par. 2, de l’annexe I en relation avec l’art. 10, par. 2*c*, de l’Ac. sur la libre circulation des personnes)
-
-Pour entrer en Suisse en vue d’y exercer une activité lucrative soumise à autorisation UE/AELE, les ressortissants de la Croatie peuvent demander une assurance d’autorisation (art. 5 OASA[^8-2]).
-
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2019 (Fin des contingents de permis B pour les travailleurs de l’UE-2), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-[^8-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^8-1]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 9
 
@@ -221,59 +199,36 @@ Pour entrer en Suisse en vue d’y exercer une activité lucrative soumise à au
 [^9-10]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 12 avr. 2006 sur le système d’information central sur la migration, en vigueur depuis le 29 mai 2006 ([RO 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 [^9-11]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
-## Section 4 Séjour avec exercice d’une activité lucrative****
+## Section 4 Séjour avec exercice d’une activité lucrative
 
 [^sec4-1]
 
 [^sec4-1]: Nouvelle teneur selon le ch. I de l’O du 24 avr. 2013 (Maintien du contingent de permis B UE-8), en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 1247](https://fedlex.data.admin.ch/eli/oc/2013/277)).
 
-#### Art. 10
+#### Art. 10 et 11
 
-**Imputation sur les nombres maximums**[^10-1]
+[^1011-1]
 
-### (art. 10 de l’Ac. sur la libre circulation des personnes)
-
-Il n’y a pas imputation sur les nombres maximums fixés conformément à l’accord sur la libre circulation des personnes pour les ressortissants de la Croatie:[^10-2]
-
-- a. qui ne sont pas entrés en Suisse et ont renoncé à y travailler, ou
-- b. qui ont quitté la Suisse dans les 90 jours ouvrables qui ont suivi le début de l’activité lucrative.
-
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4565](https://fedlex.data.admin.ch/eli/oc/2018/714)).
-[^10-2]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2019 (Fin des contingents de permis B pour les travailleurs de l’UE-2), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-
-#### Art. 11
-
-**Nombres maximums**[^11-1]
-
-Le Secrétariat d’État aux migrations (SEM) répartit les nombres maximums fixés conformément à l’art. 10 de l’accord sur la libre circulation des personnes pour les ressortissants de la Croatie.
-
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2019 (Fin des contingents de permis B pour les travailleurs de l’UE-2), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
+[^1011-1]: Abrogés par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 12
 
 **Exceptions aux nombres maximums**
 
-### (art. 10, par. 3*c* et 3*d*, et 13 de l’Ac. sur la libre circulation des personnes)
+### …
 
 [^12-1]
 
-<sup>1</sup> Les exceptions prévues dans la LEI et dans l’OASA[^12-2] s’appliquent par analogie aux nombres maximums pour les ressortissants de la Croatie.[^12-3]
+<sup>1</sup> à <sup>3</sup> …[^12-2]
 
-<sup>2</sup> Les autorisations de séjour UE/AELE qui sont délivrées aux ressortissants de la Croatie en vertu de l’art. 27, par. 3, let. a, de l’annexe I de l’accord sur la libre circulation des personnes ne sont pas imputées sur les nombres maximums.[^12-4]
+<sup>4</sup> Les citoyens liechtensteinois ne sont pas imputés sur les nombres maximums.[^12-3]
 
-<sup>3</sup> Les ressortissants de la Croatie qui, en tant que doctorants ou post-doctorants, exercent une activité lucrative dans une université, une haute école ou une haute école spécialisée suisse ne sont pas imputés sur les nombres maximums même s’ils changent d’emploi ou de profession.[^12-5]
+<sup>5</sup> …[^12-4]
 
-<sup>4</sup> Les citoyens liechtensteinois ne sont pas imputés sur les nombres maximums.[^12-6]
-
-<sup>5</sup> Les ressortissants de la Croatie peuvent être admis pour une durée maximale de quatre mois sans imputation sur les nombres maximums d’autorisations de séjour de courte durée dans la mesure où ils remplissent les conditions en matière de qualifications figurant à l’art. 23 LEI. Si tel n’est pas le cas, ils peuvent être admis dans les limites du contingent réservé aux autorisations de séjour de courte durée.[^12-7]
-
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2019 (Fin des contingents de permis B pour les travailleurs de l’UE-2), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-[^12-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^12-3]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2019 (Fin des contingents de permis B pour les travailleurs de l’UE-2), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-[^12-4]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2019 (Fin des contingents de permis B pour les travailleurs de l’UE-2), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-[^12-5]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2019 (Fin des contingents de permis B pour les travailleurs de l’UE-2), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
-[^12-6]: Introduit par le ch. II de l’O du 10 déc. 2004 ([RO 2004 5397](https://fedlex.data.admin.ch/eli/oc/2004/825)). Nouvelle teneur selon le ch. I de l’O du 2 mai 2007, en vigueur depuis le 1<sup>er</sup> juin 2007 ([RO 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)).
-[^12-7]: Introduit par le ch. I de l’O du 2 nov. 2005 ([RO 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)). Nouvelle teneur selon le ch. I de l’O du 21 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^12-1]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^12-2]: Abrogés par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
+[^12-3]: Introduit par le ch. II de l’O du 10 déc. 2004 ([RO 2004 5397](https://fedlex.data.admin.ch/eli/oc/2004/825)). Nouvelle teneur selon le ch. I de l’O du 2 mai 2007, en vigueur depuis le 1<sup>er</sup> juin 2007 ([RO 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)).
+[^12-4]: Introduit par le ch. I de l’O du 2 nov. 2005 ([RO 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)). Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## Section 5 Prestations de services transfrontaliers
 
@@ -294,10 +249,10 @@ Les personnes qui fournissent des services transfrontaliers dans le cadre d’un
 
 <sup>1</sup> En l’absence d’accord sur les services, les ressortissants de l’UE/AELE et les prestataires de services n’ont pas besoin, pour fournir des services transfrontaliers, d’une autorisation de séjour de courte durée UE/AELE, si leur séjour n’excède pas 90 jours ouvrables par année civile.
 
-<sup>2</sup> Les ressortissants de la Croatie ainsi que les travailleurs détachés par une société ayant son siège statutaire, son administration centrale ou son établissement principal sur le territoire de la Croatie, en vue de fournir une prestation de services en Suisse, ont besoin d’une autorisation de séjour de courte durée UE/AELE si ces prestations touchent les secteurs des services dans le domaine de l’horticulture, de la construction et branches connexes, des activités dans le domaine de la sécurité et nettoyage industriel. L’autorisation est octroyée si la priorité des travailleurs indigènes, le contrôle des conditions de salaire et de travail ainsi que les exigences en matière de qualification figurant à l’art. 23 LEI sont respectées.[^14-2]
+<sup>2</sup> …[^14-2]
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2005, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)).
-[^14-2]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^14-2]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 15
 
@@ -366,15 +321,13 @@ En cas de séjour sans activité lucrative, les autorités compétentes peuvent,
 
 Si les conditions d’admission sans activité lucrative ne sont pas remplies au sens de l’accord sur la libre circulation des personnes ou au sens de la Convention instituant l’AELE, une autorisation de séjour UE/AELE peut être délivrée lorsque des motifs importants l’exigent.
 
-## Section 7**** Exercice d’une activité lucrative par un membre de la famille
-
-[^sec7-1]
-
-[^sec7-1]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+## Section 7 …
 
 #### Art. 21
 
-Les dispositions afférentes aux conditions de rémunération et de travail figurant à l’art. 10, par. 2*c* et 3*d*, de l’accord sur la libre circulation des personnes régissent l’accès à une activité lucrative des membres de la famille des ressortissants de la Croatie titulaires d’une autorisation de séjour de courte durée.
+[^21-1]
+
+[^21-1]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## Section 8 Droit de demeurer
 
@@ -429,11 +382,9 @@ Les autorités cantonales compétentes délivrent les autorisations visées par 
 
 #### Art. 27
 
-**Décision préalable à l’octroi de l’autorisation**[^27-1]
+[^27-1]
 
-Avant que les autorités cantonales compétentes n’accordent à un ressortissant de la Croatie une autorisation en vue de l’exercice d’une activité lucrative salariée, l’autorité cantonale du marché du travail rend une décision précisant que les conditions relatives au marché du travail sont remplies. La procédure est régie par le droit cantonal.
-
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^27-1]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 28
 
@@ -447,13 +398,14 @@ Le contrôle par le Secrétariat d’État aux migrations (SEM)[^28-2] des autor
 
 #### Art. 29
 
-**Compétence du SEM**
+**Compétence du SEM**[^29-1]
 
 Le SEM est compétent pour:
 
-- a. décider des exceptions aux mesures de limitation prévues à l’art. 12, al. 1;
-- b. approuver les autorisations de séjour initiales accordées aux ressortissants de l’UE et de l’AELE qui n’exercent pas d’activité lucrative au sens de l’art. 20, ainsi que leur prolongation;
-- c. contrôler les autorisations conformément à l’art. 28.
+- a. approuver les autorisations de séjour initiales accordées aux ressortissants de l’UE et de l’AELE qui n’exercent pas d’activité lucrative au sens de l’art. 20, ainsi que leur prolongation;
+- b. contrôler les autorisations conformément à l’art. 28.
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 #### Art. 30
 
@@ -461,7 +413,7 @@ Le SEM est compétent pour:
 
 [^30-1]: Abrogé par le ch. II de l’O du 20 nov. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3985](https://fedlex.data.admin.ch/eli/oc/2002/638))
 
-## Section 11 ...
+## Section 11 …
 
 #### Art. 31
 
@@ -469,7 +421,7 @@ Le SEM est compétent pour:
 
 [^31-1]: Abrogé par le ch. II 3 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-## Section 12 Dispositions pénales et sanctions administratives****
+## Section 12 Dispositions pénales et sanctions administratives
 
 [^sec12-1]
 
@@ -514,7 +466,7 @@ L’ordonnance du 23 mai 2001 sur l’introduction de la libre circulation des p
 
 Les actes législatifs mentionnés ci-après sont modifiés comme suit:
 
-...[^35-1]
+…[^35-1]
 
 [^35-1]: Les mod. peuvent être consultées au [RO 2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261).
 
@@ -538,40 +490,9 @@ Le nouveau droit s’applique aux procédures pendantes au moment de l’entrée
 
 #### Art. 38
 
-**Réglementation transitoire**
-
-### (art. 10 de l’Ac. sur la libre circulation des personnes et 26 à 34 de l’annexe I de l’Ac. sur la libre circulation des personnes)
-
 [^38-1]
 
-<sup>1</sup> Les dispositions transitoires afférentes à la priorité des travailleurs, aux contrôles de qualification et des conditions de salaire et de travail, aux contingents progressifs, au renouvellement et à la transformation de l’autorisation, au droit de retour et aux zones frontalières figurant dans l’accord sur la libre circulation des personnes à l’égard de la Croatie s’appliquent au plus durant les sept premières années qui suivent l’entrée en vigueur du Protocole du 4 mars 2016 relatif à l’extension de l’accord sur la libre circulation des personnes à la Croatie.[^38-2]
-
-<sup>2</sup> Les dispositions transitoires afférentes aux zones frontalières figurant dans l’accord sur la libre circulation des personnes à l’égard des frontaliers ressortissants de la Croatie qui exercent une activité indépendante sur le territoire suisse s’appliquent au plus durant les sept premières années qui suivent l’entrée en vigueur du Protocole du 4 mars 2016 relatif à l’extension de l’accord sur la libre circulation des personnes à la Croatie.[^38-3]
-
-<sup>3</sup> ...[^38-4]
-
-<sup>3bis</sup> ...[^38-5]
-
-<sup>4</sup> ...[^38-6]
-
-<sup>5</sup> ...[^38-7]
-
-<sup>6</sup> ...[^38-8]
-
-<sup>7</sup> ...[^38-9]
-
-<sup>8</sup> ...[^38-10]
-
-[^38-1]: Nouvelle teneur selon le ch. I de l’O du 2 mai 2007, en vigueur depuis le 1<sup>er</sup> juin 2007 ([RO 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)).
-[^38-2]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4565](https://fedlex.data.admin.ch/eli/oc/2018/714)).
-[^38-3]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4565](https://fedlex.data.admin.ch/eli/oc/2018/714)).
-[^38-4]: Introduit par le ch. I de l’O du 2 nov. 2005 ([RO 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)). Abrogé par le ch. I de l’O du 30 mars 2011, avec effet au 1<sup>er</sup> mai 2011 ([RO 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
-[^38-5]: Introduit par le ch. I de l’O du 2 mai 2007, en vigueur depuis le 1<sup>er</sup> juin 2007 ([RO 2007 2231](https://fedlex.data.admin.ch/eli/oc/2007/311)). Abrogé par le ch. I de l’O du 30 mars 2011, avec effet au 1<sup>er</sup> mai 2011 ([RO 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)).
-[^38-6]: Introduit par le ch. I de l’O du 13 mars 2009 ([RO 2009 1825](https://fedlex.data.admin.ch/eli/oc/2009/271)). Abrogé par le ch. I de l’O du 13 avr. 2016, avec effet au 1<sup>er</sup> juin 2016 ([RO 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
-[^38-7]: Introduit par le ch. I de l’O du 30 mars 2011 ([RO 2011 1371](https://fedlex.data.admin.ch/eli/oc/2011/208)). Abrogé par le ch. I de l’O du 13 avr. 2016, avec effet au 1<sup>er</sup> juin 2016 ([RO 2016 1205](https://fedlex.data.admin.ch/eli/oc/2016/233)).
-[^38-8]: Introduit par le ch. I de l’O du 25 avr. 2012 ([RO 2012 2391](https://fedlex.data.admin.ch/eli/oc/2012/289)). Abrogé par le ch. I de l’O du 30 avr. 2014, avec effet au 1<sup>er</sup> juin 2014 ([RO 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
-[^38-9]: Introduit par le ch. I de l’O du 22 mai 2013 ([RO 2013 1443](https://fedlex.data.admin.ch/eli/oc/2013/332)). Abrogé par le ch. I de l’O du 30 avr. 2014, avec effet au 1<sup>er</sup> juin 2014 ([RO 2014 1099](https://fedlex.data.admin.ch/eli/oc/2014/238)).
-[^38-10]: Introduit par le ch. I de l’O du 10 mai 2017 ([RO 2017 3093](https://fedlex.data.admin.ch/eli/oc/2017/307)). Abrogé par le ch. I de l’O du 15 mai 2019 (Fin des contingents de permis B pour les travailleurs de l’UE-2), avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1575](https://fedlex.data.admin.ch/eli/oc/2019/297)).
+[^38-1]: Abrogé par le ch. I de l’O du 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 827](https://fedlex.data.admin.ch/eli/oc/2021/827)).
 
 ## Section 17 Entrée en vigueur
 
