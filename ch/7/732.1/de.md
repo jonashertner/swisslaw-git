@@ -4,11 +4,11 @@ title: Kernenergiegesetz vom 21. März 2003 (KEG)
 short: KEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2004-723-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-723-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20210101/de"
 
 (KEG)
 
-vom 21. März 2003 (Stand am 1. Januar 2021)
+vom 21. März 2003 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1054,9 +1054,11 @@ Die KNS nimmt zuhanden des ENSI, des Departements und des Bundesrats folgende Be
 
 <sup>4</sup> Wenn nötig, können sie nukleare Güter oder radioaktive Abfälle beschlagnahmen und die Gefahrenquellen auf Kosten des Inhabers beseitigen.
 
-<sup>5</sup> Sie können die Polizei der Kantone und Gemeinden sowie die Untersuchungsorgane der Zollverwaltung beiziehen. Bestehen Hinweise auf Widerhandlungen gegen dieses Gesetz, so können sie die zuständigen Polizeiorgane des Bundes beiziehen. Die Kontrolle an der Grenze obliegt den Zollorganen.
+<sup>5</sup> Sie können die Polizei der Kantone und Gemeinden sowie die Untersuchungsorgane des Bundesamtes für Zoll und Grenzsicherheit beiziehen. Bestehen Hinweise auf Widerhandlungen gegen dieses Gesetz, so können sie die zuständigen Polizeiorgane des Bundes beiziehen. Die Kontrolle an der Grenze obliegt den Zollorganen.[^72-1]
 
 <sup>6</sup> Die Aufsichtsbehörden führen eine Buchhaltung über Kernmaterialien und radioaktive Abfälle in schweizerischen Kernanlagen. Diese Buchhaltung umfasst auch Kernmaterialien und radioaktive Abfälle im Ausland, soweit sie sich im Besitz schweizerischer Bewilligungsinhaber befinden. Sie gibt Auskunft über Ort und Zweck ihrer Verwendung, Bearbeitung und Lagerung.
+
+[^72-1]: Fassung gemäss Ziff. I 26 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 73
 

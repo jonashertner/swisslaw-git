@@ -4,11 +4,11 @@ title: "Loi du 21 mars 2003 sur l'énergie nucléaire (LENu)"
 short: LENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-723-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-723-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20210101/fr"
 
 (LENu)
 
-du 21 mars 2003 (Etat le 1<sup>er</sup> janvier 2021)
+du 21 mars 2003 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -756,6 +756,8 @@ Le département associe le canton d’implantation, ainsi que les cantons et Ét
 
 <sup>1bis</sup> Si une expropriation est nécessaire, la loi fédérale du 20 juin 1930 sur l’expropriation (LEx)[^49-3] s’applique au surplus.[^49-4]
 
+<sup>2</sup> L’autorisation couvre toutes les autorisations requises par le droit fédéral.
+
 <sup>3</sup> Aucune autorisation ni aucun plan relevant du droit cantonal n’est requis. Le droit cantonal est pris en compte dans la mesure où il n’entrave pas le projet de manière disproportionnée.
 
 <sup>4</sup> Avant d’octroyer l’autorisation, le département consulte le canton d’implantation. Si le département délivre l’autorisation malgré l’avis contraire du canton, ce dernier a alors qualité pour recourir.
@@ -1052,9 +1054,11 @@ La CSN conseille l’IFSN, le département et le Conseil fédéral:
 
 <sup>4</sup> Au besoin, elles peuvent séquestrer des articles nucléaires et des déchets radioactifs et éliminer les sources de risques aux frais du détenteur.
 
-<sup>5</sup> Elles peuvent requérir l’appui des polices cantonales et communales et des organes d’enquête de l’administration des douanes. En présence d’indices d’infraction à la présente loi, elles peuvent requérir l’appui des organes de police fédéraux concernés. Le contrôle aux frontières incombe aux organes douaniers.
+<sup>5</sup> Elles peuvent requérir l’appui des polices cantonales et communales et des organes d’enquête de l’Office fédéral de la douane et de la sécurité des frontières. En présence d’indices d’infraction à la présente loi, elles peuvent requérir l’appui des organes de police fédéraux concernés. Le contrôle aux frontières incombe aux organes douaniers.[^72-1]
 
 <sup>6</sup> Les autorités de surveillance tiennent une comptabilité des matières nucléaires et des déchets radioactifs présents dans les installations nucléaires suisses. La comptabilité inclut également les matières nucléaires et les déchets radioactifs qui se trouvent à l’étranger pour autant qu’ils soient en la possession d’un détenteur d’autorisation suisse. Elle renseigne de manière complète sur leur utilisation, leur traitement et leur lieu de stockage.
+
+[^72-1]: Nouvelle teneur selon le ch. I 26 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 73
 
@@ -1246,7 +1250,7 @@ La Confédération peut verser des contributions à des organisations internatio
 
 [^chap9-1]
 
-[^chap9-1]: A partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^chap9-1]: A partir du 1<sup>er janv.</sup> 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 #### Art. 88
 

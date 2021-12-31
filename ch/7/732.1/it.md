@@ -4,11 +4,11 @@ title: "Legge federale del 21 marzo 2003 sull'energia nucleare (LENu)"
 short: LENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2004-723-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-723-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20210101/it"
 
 (LENu)
 
-del 21 marzo 2003 (Stato 1° gennaio 2021)
+del 21 marzo 2003 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -801,7 +801,7 @@ Al richiedente spetta il diritto di espropriazione per:
 
 <sup>2</sup> La domanda deve essere pubblicata negli organi ufficiali dei Cantoni e dei Comuni interessati, nonché nel Foglio federale, ed esposta pubblicamente durante 30 giorni.
 
-<sup>3</sup> ...[^53-1]
+<sup>3</sup> ... [^53-1]
 
 [^53-1]: Abrogato dall’all. n. 11 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -1053,9 +1053,11 @@ La Commissione, organo consultivo dell’Ispettorato federale della sicurezza nu
 
 <sup>4</sup> Se necessario, esse possono confiscare beni nucleari o scorie radioattive ed eliminare le fonti di pericolo a spese del detentore.
 
-<sup>5</sup> Le autorità di vigilanza possono far capo alla polizia dei Cantoni e dei Comuni, nonché agli organi d’inchiesta dell’amministrazione delle dogane. Se vi sono indizi di infrazioni alla presente legge, possono far capo agli organi di polizia competenti della Confederazione. Il controllo alla frontiera incombe agli organi doganali.
+<sup>5</sup> Le autorità di vigilanza possono far capo alla polizia dei Cantoni e dei Comuni, nonché agli organi d’inchiesta dell’Ufficio federale della dogana e della sicurezza dei confini. Se vi sono indizi di infrazioni alla presente legge, possono far capo agli organi di polizia competenti della Confederazione. Il controllo alla frontiera incombe agli organi doganali.[^72-1]
 
 <sup>6</sup> Le autorità di vigilanza tengono una contabilità dei materiali nucleari e delle scorie radioattive negli impianti nucleari in Svizzera. La contabilità comprende anche materiali nucleari e scorie radioattive all’estero, per quanto siano in possesso di titolari di licenza svizzeri. La contabilità informa sul luogo e sullo scopo dell’utilizzazione, della lavorazione e dell’immagazzinamento.
+
+[^72-1]: Nuovo testo giusta il n. I 26 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 73
 
@@ -1093,7 +1095,7 @@ Il Consiglio federale riferisce periodicamente all’Assemblea federale sugli sv
 
 <sup>3</sup> I dati possono essere conservati elettronicamente.
 
-### Sezione 7: ...
+### Sezione 7: …
 
 #### Art. 76
 
@@ -1485,7 +1487,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 <sup>3</sup> La licenza d’esercizio per una centrale nucleare esistente può essere trasferita senza autorizzazione di massima a un nuovo esercente. Si applicano per analogia gli articoli 13 capoverso 2, 31 capoverso 3 e 66 capoverso 2.
 
-<sup>4</sup> ...[^106-2]
+<sup>4</sup> …[^106-2]
 
 [^106-1]: Introdotto dall’all. n. II 7 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^106-2]: Abrogato dall’all. n. II 7 della LF del 30 set. 2016 sull’energia, con effetto dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
@@ -1522,7 +1524,7 @@ II
 
 Le seguenti leggi federali sono modificate come segue:
 
-...[^annexu1-lvlu1-3]
+…[^annexu1-lvlu1-3]
 
 [^annexu1-lvlu1-1]: [[RU 1960 571](https://fedlex.data.admin.ch/eli/oc/1960/541_585_571), [1987 544](https://fedlex.data.admin.ch/eli/oc/1987/544_544_544), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 9, [1994 1933](https://fedlex.data.admin.ch/eli/oc/1994/1933_1933_1933)art. 48 n. 1, [1995 4954](https://fedlex.data.admin.ch/eli/oc/1995/4954_4954_4954), [2002 3673](https://fedlex.data.admin.ch/eli/oc/2002/564)art. 17 n. 3, [2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468)all. n. 4. [RU 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. I 1].
 [^annexu1-lvlu1-2]: [[RU 1979 816](https://fedlex.data.admin.ch/eli/oc/1979/816_816_816), [2001 283](https://fedlex.data.admin.ch/eli/oc/2001/57)]

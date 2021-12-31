@@ -4,11 +4,11 @@ title: Nuclear Energy Act of 21 March 2003 (NEA)
 short: NEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/723"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2003-03-21
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2004-723-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/723/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2004-723-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/723/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NEA)
 
-of 21 March 2003 (Status as of 1 January 2021)
+of 21 March 2003 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation
 
@@ -1056,9 +1056,11 @@ The NSC performs the following advisory tasks on behalf of ENSI, the Department 
 
 <sup>4</sup> If necessary they may seize nuclear goods or radioactive waste and eliminate sources of threat at the cost of the owner.
 
-<sup>5</sup> They may call on the intervention of cantonal and communal police forces, as well as the investigation bodies of the customs administration. If there is evidence that offences against the provisions of this Act may have been committed, the supervisory authorities may call on the intervention of the relevant federal police authority. Border controls are the responsibility of the customs authorities.
+<sup>5</sup> They may call on the intervention of cantonal and communal police forces, as well as the investigation bodies of the Federal Office for Customs and Border Security. If there is evidence that offences against the provisions of this Act may have been committed, the supervisory authorities may call on the intervention of the relevant federal police authority. Border controls are the responsibility of the customs authorities.[^72-1]
 
 <sup>6</sup> The supervisory authorities shall keep detailed records of nuclear materials and radioactive waste in Swiss nuclear installations. These records shall also encompass nuclear materials and radioactive waste abroad, insofar as they are in the possession of Swiss licence holders. They shall provide information about their location, intended use, processing and storage.
+
+[^72-1]: Amended by No I 26 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 73
 
