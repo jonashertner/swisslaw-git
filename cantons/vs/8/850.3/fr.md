@@ -1,167 +1,501 @@
 ---
 canton: VS
 number: "850.3"
-title: "Loi sur le recouvrement des pensions alimentaires et le versement d'avances"
+title: "Loi sur le recouvrement et les avances de contributions d'entretien"
 short: LRACE
 language: fr
-version: 2005-01-01
-corrected: 2017-10-11
-version_adopted: 2004-04-08
+version: 2022-01-01
+version_adopted: 2021-02-11
 adopted: 2021-02-11
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.3"
-pdf: "https://lex.vs.ch/api/fr/versions/157/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2996/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur le recouvrement des pensions alimentaires et le versement d'avances
+# Loi sur le recouvrement et les avances de contributions d'entretien
 
-du 13 novembre 1980
+(LRACE)
+
+du 11.02.2021 (état 01.01.2022)
 
 Le Grand Conseil du canton du Valais
 
-vu l'article 30, chiffre 3, de la Constitution cantonale;
+vu les articles 31, 42 et 57 alinéa 2 de la Constitution cantonale;
 
-vu les articles 290 et 293, du Code civil suisse;
+vu les articles 131 alinéa 1, 131a alinéa 1, 176a, 290 alinéa 1 et 293 alinéa 2 du Code civil suisse du 10 décembre 1907 (CC);
 
-vu l'ordonnance du 15 juin 1978 relative à l'introduction du nouveau droit de filiation;
+vu l'ordonnance fédérale sur l'aide au recouvrement des créances d'entretien du droit de la famille du 6 décembre 2019 (OAiR);
 
 sur proposition du Conseil d'Etat,
 
-décrète:
+ordonne:[^ingress-1]
 
-### Section 1: Organe
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-#### Article premier
+## 1 Dispositions générales
 
-**Office cantonal**
+#### Art. 1
 
-Il est institué un office cantonal (ci-après office) chargé du recouvrement et du versement d'avances de contributions d'entretien.
+**Buts**
 
-### Section 2: Recouvrement
+<sup>1</sup> La présente loi vise à aider le créancier d’aliments (ci-après: créancier) à recevoir ses contributions d'entretien, lorsque le débiteur d’aliments (ci-après: débiteur) néglige son obligation d’entretien.
+
+<sup>2</sup> Elle met en oeuvre l’ordonnance fédérale sur l’aide au recouvrement des créances d’entretien du droit de la famille (OAiR) en matière d’aide au recouvrement des contributions d'entretien et des allocations familiales.
+
+<sup>3</sup> Elle régit également l'octroi d'avances sur les contributions d'entretien.
 
 #### Art. 2
 
-**Principes**
+**Autorité compétente**
 
-<sup>1</sup> Lorsqu'un débiteur néglige son obligation d'entretien, l'office aide, sur demande, de manière adéquate et gratuitement le créancier à obtenir l'exécution des prestations fondées sur un jugement ou sur une promesse juridiquement valable.
+<sup>1</sup> Le service en charge de l'action sociale est chargé de l'application de la présente loi par son Bureau de recouvrement et d'avances des contributions d'entretien (ci-après: BRACE).
 
-<sup>2</sup> Les frais engagés en vue du recouvrement des pensions sont, en principe, avancés par l'Etat.
+<sup>2</sup> Le BRACE est l'office spécialisé au sens de l'article 2 alinéa 2 de l'OAiR.
 
 #### Art. 3
 
-**Démarches**
+**Représentation**
 
-L'office entreprend toutes les démarches utiles en vue de trouver une solution à l'amiable. A cet effet, il peut recourir aux services d'institutions sociales, notamment aux services sociaux cantonaux, régionaux et communaux, aux centres médico-sociaux, aux inspecteurs des chambres pupillaires ainsi qu'à l'Office cantonal des mineurs.
+<sup>1</sup> Le BRACE peut agir au nom de l'Etat et au nom du créancier ou de son représentant légal dans le cadre de l'application de la présente loi. Il peut procéder à toutes les opérations nécessaires au recouvrement des créances.
+
+<sup>2</sup> Il peut notamment agir en justice, requérir l'exécution forcée sous forme de poursuites et porter plainte pénale en particulier pour violation d'une obligation d'entretien.
 
 #### Art. 4
 
-**Représentation**
+**Contributions d'entretien et titre d'entretien**
 
-<sup>1</sup> L'office revêt la qualité de mandataire des bénéficiaires. A ce titre, il a tous les pouvoirs conférés par la loi pour procéder aux opérations nécessitées par le recouvrement des créances d'aliment.
+<sup>1</sup> Les articles 3 alinéa 1 et 4 OAiR définissent les notions de contributions d’entretien et de titre d’entretien visés par la présente loi.
 
-<sup>2</sup> En particulier, il peut requérir l'exécution forcée sous forme de poursuite par voie de saisie ou de faillite et porter plainte pour violation d'obligation d'entretien.
+<sup>2</sup> Ne sont pas visées par la présente loi, d’autres créances du droit de la famille, notamment les créances:
 
-### Section 3: Avances
+- a) découlant de besoins extraordinaires imprévus de l'enfant (art. 286 al. 3 CC);
+- b) de la mère non mariée (art. 295 CC);
+- c) fondées sur l’obligation d’assistance entre parents (art. 328 CC).
 
 #### Art. 5
 
-**Principes**
+**Missions et prestations**
 
-<sup>1</sup> Les créanciers qui ne reçoivent pas ou qui reçoivent irrégulièrement les prestations dues au titre de contributions aux frais d'entretien et d'éducation, bénéficieront, à leur demande et s'ils se trouvent dans une situation économique difficile, d'une contribution financière de l'office. Cette contribution consistera dans le versement d'une avance sur la pension alimentaire.
+<sup>1</sup> Le BRACE apporte un soutien financier aux créanciers d'aliments se trouvant dans des situations économiques difficiles et contribue dans le cadre de son action à favoriser les relations dans le cadre familial ou entre ex-conjoints.
 
-<sup>2</sup> Les montants versés à ce titre ne sont pas à rembourser par la personne bénéficiaire sauf s'ils ont été perçus indûment. Celle-ci est toutefois tenue de céder à l'Etat ses droits contre le débiteur défaillant jusqu'à concurrence du montant de l'aide accordée.
+<sup>2</sup> Le BRACE aide le créancier, sur demande, de manière adéquate et gratuitement, à obtenir à temps et régulièrement le paiement des contributions d'entretien fondées sur un titre d’entretien lorsque le débiteur néglige ses obligations.
+
+<sup>3</sup> Lorsqu’il est saisi d’une demande au sens de l’alinéa 2, le BRACE prête également son aide au recouvrement des allocations familiales.
+
+<sup>4</sup> Le BRACE offre les prestations prévues à l’article 12 OAiR.
+
+<sup>5</sup> Il verse au créancier, sur demande, des avances sur les contributions d'entretien selon les articles 11ss de la présente loi.
 
 #### Art. 6
 
-<sup>2</sup> Droit à des avances
+**Cession**
 
-Peuvent donner droit à des avances:
+<sup>1</sup> L’action du BRACE est en principe subordonnée à la cession à l’Etat, par le créancier, de sa créance. Il s’agit d’une cession fiduciaire aux fins d’encaissement.
 
-- a) les rentes ou pensions allouées à titre de contributions d'entretien en cas de divorce ou de séparation de corps (art. 125, 129, 133 et 134 CCS), de mesures provisoires (art. 137 CCS), de mesures protectrices de l'union conjugale (art. 173 CCS) ou en application de l'article 295 CCS;
-
-- b) les contributions d'entretien dues aux enfants en vertu des articles 276 et suivants du Code civil suisse et qui sont fondées sur une décision de l'autorité compétente ou sur une promesse juridiquement valable.
+<sup>2</sup> Cette cession porte sur la part de la créance qui n’a pas fait l’objet d’une avance.
 
 #### Art. 7
 
-**Délégation de compétences**
+**Subrogation**
 
-<sup>1</sup> Le Conseil d'Etat fixe les conditions, les modalités et les limites des avances.
+<sup>1</sup> L'Etat est subrogé au créancier jusqu'à concurrence des avances accordées.
 
-<sup>2</sup> Le Conseil d'Etat est habilité, si nécessaire, à requérir la collaboration des services communaux et régionaux, notamment des centres sociaux et médico-sociaux, pour le versement d'avances de contribution d'entretien, et à fixer à cet effet les modalités de cette collaboration.
+## 2 Recouvrement des contributions d'entretien
 
 #### Art. 8
 
-<sup>3</sup> Répartition des charges entre le canton et les communes
+**Début du recouvrement**
 
-<sup>1</sup> Les avances versées et non récupérées sont à la charge de l'Etat et des communes conformément aux dispositions de la loi sur l'harmonisation du financement des régimes sociaux et d'insertion socio-professionnelle.
+<sup>1</sup> Le BRACE intervient pour les créances devenant exigibles le mois de la demande et les créances futures.
 
-<sup>2</sup> Lorsqu'il est mis fin aux versements d'avances mais que le créancier d'une contribution d'entretien se trouve toujours dans une situation économique difficile au sens de l'article 5 de la présente loi, l'office continue à verser une contribution financière en principe égale au montant des avances consenties.
+<sup>2</sup> Le BRACE peut également intervenir afin d’encaisser les contributions d'entretien échues dans les 6 mois antérieurs à la demande.
 
-<sup>3</sup> Toutefois, cette contribution sera supportée par le canton et les communes, conformément aux dispositions de la loi cantonale sur l'assistance publique.
+<sup>3</sup> Dans des cas exceptionnels, notamment lors de reconnaissances en paternité, le BRACE peut prendre en charge le recouvrement des arriérés de contributions d'entretien au-delà de 6 mois.
+
+<sup>4</sup> La demande est considérée avoir été déposée le jour où tous les documents requis sont en possession du BRACE.
 
 #### Art. 9
 
-**Domicile**
+**Recours à des sociétés de recouvrement**
 
-Pour bénéficier de l'aide sous forme d'avances, le créancier doit en principe être domicilié dans le canton depuis une année.
+<sup>1</sup> Le BRACE est en charge du recouvrement. Il peut toutefois faire appel à des sociétés de recouvrement.
+
+<sup>2</sup> Le Conseil d'Etat fixe les conditions dans lesquelles le BRACE peut faire appel à des sociétés de recouvrement et les conditions que doivent remplir les sociétés de recouvrement.
 
 #### Art. 10
 
-**Compétences de l'office**
+**Imputation des montants recouvrés**
 
-<sup>1</sup> L'office est en droit d'exiger toute information et tout document utiles concernant la situation financière du créancier et son droit aux prestations d'entretien.
+<sup>1</sup> Les contributions d'entretien arriérées récupérées par le BRACE sont utilisées en priorité pour couvrir les avances octroyées et les frais engagés.
 
-<sup>2</sup> Il se prononce, en première instance, sur toutes les questions relatives en particulier à l'octroi, à la suppression, à la restitution ou au refus d'avances.
+<sup>2</sup> Le Conseil d'Etat règle les exceptions en cas de recours à des sociétés de recouvrement.
+
+## 3 Avances
 
 #### Art. 11
 
-**Recours**
+**Droit aux avances**
 
-Les décisions de l'office peuvent faire l'objet d'un recours auprès du chef du Département de justice et police dans un délai de trente jours dès leur notification. Le recours au Tribunal administratif est réservé.
+<sup>1</sup> Les créanciers qui ont un dossier de recouvrement ouvert et ne reçoivent pas, pas intégralement ou irrégulièrement leurs contributions d'entretien établies par un titre d’entretien, peuvent bénéficier, à leur demande et s'ils se trouvent dans une situation économique difficile, d'une avance sur les contributions d'entretien.
 
-#### Art. 11bis
+<sup>2</sup> Les avances sont accordées aux ex-conjoints pendant 2 ans à compter du mois suivant le dépôt de la demande d'aide au recouvrement ou jusqu'à ce que le dernier enfant commun avec le débiteur ait atteint l'âge de 16 ans révolus.
 
-<sup>1</sup> Réserve de la loi sur les subventions
+<sup>3</sup> Les avances sont accordées aux enfants majeurs au maximum jusqu'à l'âge de 25 ans révolus.
 
-Les dispositions de la loi cantonale sur les subventions du 13 novembre 1995 sont applicables directement et dans leur intégralité aux subventions prévues par le présent texte légal. Les dispositions de ce dernier demeurent applicables dans la mesure où elles ne sont pas contraires à la loi sur les subventions.
+<sup>4</sup> En principe, les avances ne sont pas accordées rétroactivement.
 
-### Section 4: Dispositions finales
+<sup>5</sup> Lorsque le droit à la contribution d'entretien est incertain, le BRACE peut refuser ou suspendre l'octroi des avances.
+
+<sup>6</sup> Le BRACE statue sur le droit aux avances par voie de décision.
 
 #### Art. 12
 
-**Autorité d'exécution**
+**Avances et titre d'entretien**
 
-Le Conseil d'Etat est chargé de l'exécution de la présente loi; il est habilité à édicter par voie de règlement, soumis à l'approbation du Grand Conseil, les dispositions nécessaires à son application.
+<sup>1</sup> Les avances sont versées sur la base d'un titre d'entretien clair et sans conditions qui permet d'obtenir la mainlevée au sens des articles 80 et 82 de la loi fédérale sur la poursuite pour dettes et la faillite (LP).
+
+<sup>2</sup> L’avance peut être refusée ou réduite lorsque le titre d’entretien fixe une contribution manifestement sans rapport avec les facultés actuelles du débiteur et que ce dernier n'entreprend aucune démarche pour la faire modifier, que le BRACE ne peut pas s’assurer que la contribution d'entretien soit encore due ou qu'une convention a été conclue dans le seul but d’obtenir une avance de l'Etat.
 
 #### Art. 13
 
-**Dispositions contraires**
+**Domicile et titre de séjour**
 
-Sont abrogées toutes les dispositions contraires à la présente loi, notamment les dispositions des articles 12 à 16 de l'ordonnance d'exécution du 15 juin 1978 relative à l'introduction du nouveau droit de filiation.
+<sup>1</sup> Les avances sont octroyées pour autant que la personne soit domiciliée en Valais et qu'elle ne séjourne pas durablement à l'étranger. Est réservé le séjour aux fins de formation.
+
+<sup>2</sup> Le créancier de nationalité étrangère doit être au bénéfice d’un titre de séjour l’autorisant à résider dans le canton.
+
+<sup>3</sup> Le Conseil d'Etat prévoit les exceptions pour les cas où le titre de séjour est en cours de renouvellement.
 
 #### Art. 14
 
-**Entrée en vigueur**
+**Obligations du bénéficiaire**
 
-La présente loi sera soumise à la votation populaire. Le Conseil d'Etat fixe la date de son entrée en vigueur.
+<sup>1</sup> La personne qui sollicite des avances est tenue de fournir toutes les pièces utiles, ainsi que des renseignements complets sur sa situation personnelle et financière, mais également d’autoriser le BRACE à prendre des informations à son sujet. Elle doit signaler sans retard tout changement dans sa situation pouvant entraîner la modification des prestations accordées.
 
-Ainsi adopté en seconds débats en séance du Grand Conseil à Sion, le 13 novembre 1980.
+#### Art. 15
 
-Le président du Grand Conseil: H. Dirren Les secrétaires: B. Bumann, A. Burrin
+**Délégation**
 
-**Entrée en**
+<sup>1</sup> Le Conseil d'Etat fixe les conditions, les modalités et les limites des avances.
 
-### Intitulé et modifications Publication
+<sup>2</sup> Le montant maximal des avances pour les enfants est fixé en référence au montant maximal de la rente simple d’orphelin selon la législation fédérale sur l’assurance-vieillesse et survivants.
 
-**11.6.1982**
+#### Art. 16
 
-vigueur L sur le recouvrement des pensions RO/VS 1982, 1 alimentaires et le versement d'avances du 13 novembre 1980
+**Versement des avances**
 
-## Autres notes
+<sup>1</sup> Le BRACE peut verser l'avance à un tiers, notamment à un service social, à la personne chargée d'un mandat de protection de l'adulte ou de l'enfant en faveur du créancier, ou à sa famille d'accueil, sur la base d'une autorisation signée par le créancier ou celui qui le représente.
 
-- [1] L sur les subventions du 13 novembre 1995: RO/VS 1996, 54 1.5.1996 n.: 11bis.
-- [2] modification du 22 septembre 1999: n.t.: art. RO/VS 1999, 46 1.1.2000 6
-- [3] modification du 8 avril 2004: n.t.: art. 8 BO No 19/2004 1.1.2005 a.: abrogé; n.: nouveau; n.t.: nouvelle teneur
+#### Art. 17
+
+**Début des avances**
+
+<sup>1</sup> L’avance sur la contribution d'entretien est accordée dès le mois suivant le dépôt de la demande. Le Conseil d'Etat prévoit les exceptions.
+
+<sup>2</sup> La demande est considérée avoir été déposée le jour où tous les documents requis sont en possession du BRACE.
+
+#### Art. 18
+
+**Durée et fin des avances**
+
+<sup>1</sup> Les avances sont en principe accordées pour une période de 12 mois. Elles sont ensuite renouvelables, sur demande, d'année en année.
+
+<sup>2</sup> Le BRACE peut refuser ou supprimer le versement d'avances si le bénéficiaire ne lui fournit pas les informations demandées.
+
+<sup>3</sup> Le droit aux avances cesse lorsque les conditions d’octroi ne sont plus remplies, notamment:
+
+- a) lorsque le mandat de recouvrement prend fin;
+- b) lorsque le droit à la contribution d'entretien s’éteint;
+- c) lorsque le bénéficiaire dépasse les limites de revenu et de fortune;
+- d) lorsque le bénéficiaire prend domicile hors du canton;
+- e) lorsque le bénéficiaire séjourne durablement à l'étranger. Est réservé le séjour aux fins de formation.
+
+#### Art. 19
+
+**Modification du droit aux avances**
+
+<sup>1</sup> Le BRACE rend une nouvelle décision dans toute situation nécessitant une modification, notamment lorsqu’un fait nouveau ou un fait dont le BRACE a eu connaissance ultérieurement le justifie.
+
+#### Art. 20
+
+**Remboursement**
+
+<sup>1</sup> Les montants versés à titre d'avances ne sont pas à rembourser par le bénéficiaire sauf s'ils ont été perçus indûment.
+
+#### Art. 21
+
+**Remboursement des avances indûment perçues**
+
+<sup>1</sup> Lorsque des avances ont été versées indûment, elles doivent être restituées, notamment en cas de violation de ses obligations par le bénéficiaire.
+
+<sup>2</sup> La restitution peut également être demandée lorsque la prestation a été versée indûment sans faute du bénéficiaire, notamment suite à une erreur du BRACE ou en raison d’une modification rétroactive du titre d’entretien.
+
+<sup>3</sup> Le BRACE réclame par voie de décision le remboursement des avances perçues indûment.
+
+<sup>4</sup> La décision entrée en force est assimilée à un jugement exécutoire au sens de l'article 80 LP.
+
+#### Art. 22
+
+**Remboursement des avances indues en cas de décès du bénéficiaire**
+
+<sup>1</sup> En cas de décès du bénéficiaire, le remboursement des avances indues est réclamé auprès des héritiers jusqu’à concurrence de la valeur des biens qu’ils ont recueillis dans la succession.
+
+#### Art. 23
+
+**Modalités de remboursement**
+
+<sup>1</sup> Le BRACE peut imputer les montants touchés indûment sur les avances futures.
+
+#### Art. 24
+
+**Prescription**
+
+<sup>1</sup> La prétention au remboursement se prescrit par 10 ans à compter du jour où la dernière prestation d'avance a été versée.
+
+<sup>2</sup> En cas d'erreur du BRACE, le délai de prescription de l'article 40 alinéa 2 de la loi sur la procédure et la juridiction administratives (LPJA) s'applique.
+
+<sup>3</sup> A l'égard des héritiers du bénéficiaire, la prétention au remboursement se prescrit 2 ans après la dévolution de la succession.
+
+<sup>4</sup> Si une personne tenue au remboursement a induit en erreur le BRACE sur sa situation personnelle ou financière, le délai de prescription court dès que l'erreur a été découverte. Toutefois la prescription est acquise dans tous les cas 20 ans à compter du jour où la dernière prestation a été versée.
+
+<sup>5</sup> Sont au surplus applicables par analogie les articles 127 à 142 du Code des obligations.
+
+#### Art. 25
+
+**Disposition pénale**
+
+<sup>1</sup> Sera, sur plainte, puni d'une amende pouvant aller jusqu'à 10'000 francs celui qui:
+
+- a) obtient pour lui-même ou pour autrui des avances indues par des déclarations fausses ou incomplètes, en passant des faits sous silence ou de toute autre façon;
+- b) bénéficiant d’avances pour lui-même ou son enfant aura intentionnellement omis d’indiquer au BRACE des informations essentielles sur le débiteur permettant le recouvrement des avances.
+
+#### Art. 26
+
+**Recouvrement des avances en cas de décès du débiteur**
+
+<sup>1</sup> En cas de décès du débiteur, les avances sont recouvrées auprès des héritiers jusqu’à concurrence de la valeur des biens qu’ils ont recueillis dans la succession.
+
+## 4 Aide au recouvrement des allocations familiales
+
+#### Art. 27
+
+**Aide au recouvrement des allocations familiales**
+
+<sup>1</sup> Lorsque le BRACE est en charge d'un dossier de recouvrement des contributions d'entretien, il assiste la personne créancière dans les démarches en vue du versement direct des allocations familiales prévu à l’article 9 de la loi fédérale sur les allocations familiales.
+
+## 5 Protection des données et échange d’informations
+
+#### Art. 28
+
+**Obligation des tiers de renseigner**
+
+<sup>1</sup> Sont tenus de fournir, gratuitement, aux personnes chargées d'exécuter la présente loi les renseignements écrits ou oraux nécessaires à l'exécution de la présente loi:
+
+- a) les autorités administratives;
+- b) les autorités administratives et judiciaires en matière pénale et civile;
+- c) les institutions de prévoyance ou de libre passage;
+- d) les assurances sociales et organismes privés octroyant des prestations financières;
+- e) les personnes vivant dans le ménage d'une personne qui perçoit ou sollicite des avances;
+- f) les employeurs de personnes percevant ou sollicitant des avances;
+- g) les employeurs et autres débiteurs de prestations périodiques de débiteurs de contributions d'entretien;
+- h) les bailleurs louant des logements à des personnes percevant ou sollicitant des avances;
+- i) les établissements bancaires et postaux.
+
+<sup>2</sup> Sont notamment tenus de fournir des renseignements:
+
+- a) le Service cantonal des contributions et les autorités fiscales d'autres cantons s’agissant des données fiscales:
+  - 1\. des personnes percevant, sollicitant ou ayant perçu des avances,
+  - 2\. des personnes prises en compte dans le calcul du droit aux avances de celles-ci,
+  - 3\. des débiteurs de contributions d'entretien pour lesquels un dossier est ouvert;
+- b) les autorités compétentes en matière de poursuites et faillites;
+- c) les autorités compétentes en matière de protection de l'enfant et de l'adulte;
+- d) les autorités du contrôle des habitants et de l'état civil;
+- e) les autorités compétentes en matière de migration;
+- f) les caisses de compensation;
+- g) les caisses d’allocations familiales;
+- h) les services compétents en matière d'assurance sociale;
+- i) les autorités compétentes en matière de protection des travailleurs et de lutte contre le travail au noir;
+- j) les autorités compétentes en matière de circulation routière;
+- k) les autorités compétentes en matière de registres fonciers;
+- l) les services allouant des allocations, bourses et prêts d'étude;
+- m) les organes d'aide sociale.
+
+<sup>3</sup> Les personnes et autorités citées aux alinéas 1 et 2 sont notamment tenues de fournir les renseignements nécessaires pour examiner:
+
+- a) les conditions personnelles et économiques des personnes percevant ou sollicitant des avances;
+- b) le droit ou l'absence de droit de ces personnes à des avances;
+- c) l’existence d’une obligation d’entretien du débiteur;
+- d) la situation personnelle et économique du débiteur;
+- e) le droit du créancier de contributions d'entretien de toucher directement les allocations familiales.
+
+<sup>4</sup> Seules les données nécessaires au but en question doivent être communiquées.
+
+#### Art. 29
+
+**Recherche du domicile du débiteur**
+
+<sup>1</sup> Le BRACE peut requérir l'intervention de la police cantonale et des polices municipales et intercommunales afin de trouver le domicile du débiteur. Cette intervention n'est pas indemnisée.
+
+#### Art. 30
+
+**Droit de renseigner**
+
+<sup>1</sup> Les personnes et organes chargés de l'exécution de la présente loi sont autorisés à transmettre des informations sur des faits dont elles prennent connaissance dans le cadre de leur activité si:
+
+- a) les données fournies ne font pas référence à des personnes, ou
+- b) les personnes concernées donnent leur consentement exprès, ou
+- c) l'exécution des tâches relevant de la présente loi le requiert impérativement, ou
+- d) une base légale expresse l'exige ou l'autorise.
+
+<sup>2</sup> En dérogation au secret de fonction, dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les personnes et organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’application peuvent communiquer des données:
+
+- a) aux offices spécialisés du recouvrement des contributions d'entretien et du versement d'avances d'autres cantons;
+- b) aux autorités compétentes en matière de poursuites et faillites;
+- c) au Service cantonal des contributions;
+- d) au Service de protection des travailleurs et de lutte contre le travail au noir;
+- e) aux assurances sociales;
+- f) aux institutions de prévoyance ou de libre passage;
+- g) aux autorités compétentes en matière de migration;
+- h) aux autorités du contrôle des habitants et de l'état civil;
+- i) aux organes de la statistique fédérale, conformément à la loi sur la statistique fédérale;
+- j) aux organes ou organisations de l'aide sociale;
+- k) aux caisses de compensation;
+- l) aux autorités d'instruction pénale, lorsqu'il s'agit de dénoncer une infraction;
+- m) aux autorités pénales et civiles;
+- n) au service cantonal allouant des bourses et prêts d'études.
+
+<sup>3</sup> Les informations peuvent être transmises uniquement si les autorités et les particuliers qui les ont demandées décrivent précisément l'objet de leur souhait ou de leur exigence et prouvent leur légitimité à les obtenir.
+
+#### Art. 31
+
+**Traitement de données personnelles et sensibles**
+
+<sup>1</sup> Les organes chargés d'appliquer la présente loi sont habilités, dans le respect des normes en matière de protection des données, à traiter et à faire traiter les données personnelles, y compris les données sensibles et les profils de la personnalité, qui leur sont nécessaires pour accomplir les tâches que leur assigne la présente loi, notamment pour:
+
+- a) enregistrer les personnes ayant déposé une demande d’aide au recouvrement des contributions d'entretien, ainsi que les débiteurs qui leur doivent une contribution d'entretien;
+- b) établir le droit à des avances, les calculer et les allouer;
+- c) procéder au recouvrement des contributions d'entretien;
+- d) établir à qui doivent être versés les montants reçus au titre du recouvrement des contributions d'entretien;
+- e) prévenir ou faire cesser le versement de prestations indues;
+- f) examiner l’existence d’une obligation de remboursement;
+- g) faciliter le transfert du dossier lors d’un changement de domicile hors canton et assurer la continuité du suivi;
+- h) contrôler l'application de la présente loi;
+- i) établir des statistiques.
+
+## 6 Enquête
+
+#### Art. 32
+
+**Mandat d'enquête**
+
+<sup>1</sup> Dans le but de prévenir, faire cesser ou démontrer une obtention illicite d’avances ou afin de démontrer que le requérant ou le bénéficiaire d'avances a intentionnellement omis d’indiquer au BRACE des informations essentielles sur le débiteur permettant le recouvrement des avances, le BRACE peut faire appel à des inspecteurs spécialisés pour établir des faits spécifiques s'il existe des indices concrets laissant présumer qu'une personne:
+
+- a) perçoit, a perçu ou tente de percevoir indûment des avances, ou
+- b) a intentionnellement omis d’indiquer au BRACE des informations essentielles sur le débiteur.
+
+<sup>2</sup> Le BRACE informe les requérants, à l'ouverture du dossier, qu'en cas de soupçon d’obtention illicite, ils pourront faire l'objet d'une enquête.
+
+<sup>3</sup> Le BRACE confie à l'organe compétent un mandat d'enquête, qui s'appuie sur une demande écrite dûment motivée.
+
+<sup>4</sup> Le Conseil d’Etat règle la procédure ainsi que les modalités du mandat et désigne l’organe compétent pour procéder aux enquêtes ainsi que les exigences à l'endroit des inspecteurs spécialisés.
+
+#### Art. 33
+
+**Enquête et administration des preuves**
+
+<sup>1</sup> Les inspecteurs spécialisés enquêtent sur la situation du requérant ou du bénéficiaire d’avances, en particulier en ce qui concerne:
+
+- a) son domicile;
+- b) la composition de son ménage et le type de vie commune;
+- c) ses ressources financières et sa fortune;
+- d) ses contacts avec le débiteur.
+
+<sup>2</sup> Les inspecteurs spécialisés procèdent à l’administration des preuves conformément à la LPJA et, subsidiairement, conformément au code de procédure civil suisse (art. 28 al. 1 let. a LPJA).
+
+<sup>3</sup> Le requérant ou le bénéficiaire doit fournir aux inspecteurs, à leur demande, toute information nécessaire à l'établissement des faits. Cette obligation s'applique également aux personnes faisant partie du ménage ainsi qu'aux proches ou familiers, au sens des dispositions de l'article 110 alinéas 1 et 2 du code pénal suisse.
+
+<sup>4</sup> L'obligation des tiers de renseigner permet aux inspecteurs d'obtenir, sur demande motivée, toute information nécessaire à leurs investigations auprès des entités mentionnées à l'article 28.
+
+<sup>5</sup> Au besoin, les inspecteurs spécialisés peuvent recourir aux moyens de preuve suivants:
+
+- a) observation à leur insu du requérant ou du bénéficiaire d'avances et des personnes faisant ménage commun, ainsi que du débiteur;
+- b) visite inopinée au domicile du requérant ou du bénéficiaire d'avances;
+- c) audition des bénéficiaires et de tiers;
+- d) demande d'informations à des tiers.
+
+<sup>6</sup> Afin de respecter le principe de proportionnalité, les inspecteurs ne doivent requérir des informations auprès de tiers ou les auditionner uniquement lorsque cela est absolument nécessaire pour leur enquête.
+
+<sup>7</sup> Au besoin, les inspecteurs spécialisés peuvent solliciter la collaboration des polices municipales et intercommunales. Cette collaboration n'est pas indemnisée.
+
+#### Art. 34
+
+**Observation et visite à domicile**
+
+<sup>1</sup> Le mandat d'inspection autorise les inspecteurs à observer à son insu un bénéficiaire et, à cette fin, à effectuer des enregistrements visuels et sonores. Les articles 67 et 68 de la loi sur l'intégration et l'aide sociale (LIAS) s'appliquent par analogie.
+
+#### Art. 35
+
+**Résultat des enquêtes**
+
+<sup>1</sup> A l'issue de l'enquête, l'organe compétent:
+
+- a) informe le BRACE du résultat de l'enquête et lui fournit un rapport accompagné des preuves exploitables;
+- b) dénonce les infractions poursuivies d'office à l'autorité compétente et lui fournit le rapport accompagné des preuves exploitables;
+- c) informe les autres services concernés en cas de soupçon d'infraction poursuivie sur plainte;
+- d) détruit immédiatement les données recueillies qui ne sont pas utilisables.
+
+<sup>2</sup> Lorsque l'enquête est close, les données recueillies dans le cadre de l'inspection qui ne sont pas détruites sont versées au dossier de la personne concernée, qui peut y accéder sur demande.
+
+<sup>3</sup> En cas de mise en évidence d'infractions, le BRACE informe le requérant ou le bénéficiaire concerné du résultat de l'enquête et prend les mesures nécessaires.
+
+<sup>4</sup> Le résultat des enquêtes, le rapport et les preuves ne sont pas publics.
+
+<sup>5</sup> Le Conseil d'Etat règle la conservation et la destruction du matériel recueilli, en conformité avec les normes en matière de protection des données.
+
+## 7 Répartition des charges entre le canton et les communes
+
+#### Art. 36
+
+**Répartition des charges entre le canton et les communes**
+
+<sup>1</sup> Les avances versées et non récupérées sont à la charge de l’Etat et des communes conformément aux dispositions de la loi sur l’harmonisation du financement des régimes sociaux et d’insertion socio-professionnelle.
+
+## 8 Procédures d'encaissement et de recouvrement
+
+#### Art. 37
+
+**Procédures d'encaissement et de recouvrement**
+
+<sup>1</sup> Le Conseil d'Etat règle les procédures d'encaissement et de recouvrement des créances visées par la présente loi.
+
+## 9 Voie de droit
+
+#### Art. 38
+
+**Recours**
+
+<sup>1</sup> Les décisions du BRACE peuvent faire l’objet d’un recours auprès du Conseil d’Etat dans un délai de 30 jours dès leur notification.
+
+<sup>2</sup> Les dispositions de la LPJA sont applicables.
+
+## 10 Disposition finale
+
+#### Art. 39
+
+**Disposition d'application**
+
+<sup>1</sup> Le Conseil d'Etat édicte les dispositions nécessaires à l'application de la présente loi.
+
+## T1 Dispositions transitoires
+
+#### Art. T1-1
+
+<sup>1</sup> Le délai de prescription de l’article 24 s’applique à toutes les créances qui n’étaient pas prescrites à la date d’entrée en vigueur de la présente loi. Il est tenu compte du temps pendant lequel la prescription a couru avant l’entrée en vigueur du nouveau droit.
+
+<sup>2</sup> Les décisions d'avances rendues en application de l'ancien droit restent en vigueur jusqu'à leur échéance.
+
+<sup>3</sup> Pour les ex-conjoints bénéficiant d’avances à l’entrée en vigueur de la présente loi, les 2 années prévues à l’article 11 alinéa 2 débutent au moment de son entrée en vigueur.
+
+RCV RO/AGS 2021-155, 2021-156
