@@ -3,13 +3,13 @@ canton: FR
 number: "10.22"
 title: Verordnung über die Unterstützung von Initiativen zur Förderung der Zweisprachigkeit
 language: de
-version: 2018-07-01
-valid_until: 2021-12-31
-version_adopted: 2018-06-05
+version: 2022-01-01
+valid_until: 2024-11-30
+version_adopted: 2023-01-31
 adopted: 2018-06-05
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/10.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/5505/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7725/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5505/pdf_file"
 
 Unterstützung von Initiativen zur Förderung der Zweisprachigkeit – V
 
-vom 05.06.2018 (Fassung in Kraft getreten am 01.07.2018)
+vom 05.06.2018 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -73,17 +73,17 @@ beschliesst:
 
 **Finanzierung**
 
-<sup>1</sup> Der jährliche Betrag der Finanzhilfen wird in den Voranschlag der Staatskanzlei aufgenommen.
+<sup>1</sup> Der jährliche Betrag der Finanzhilfen wird in den Voranschlag des Amts für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen (das Amt) aufgenommen.
 
 #### Art. 5
 
 **Verfahren**
 
-<sup>1</sup> Die Staatskanzlei sorgt für die Information der Öffentlichkeit über die in dieser Verordnung vorgesehenen Finanzhilfen zur Förderung der Zweisprachigkeit.
+<sup>1</sup> Das Amt sorgt für die Information der Öffentlichkeit über die in dieser Verordnung vorgesehenen Finanzhilfen zur Förderung der Zweisprachigkeit.
 
-<sup>2</sup> Gesuche sind an die Staatskanzlei zu richten. Diese holt die Stellungnahme der von der Tätigkeit, die subventioniert werden soll, direkt betroffenen Verwaltungseinheiten ein.
+<sup>2</sup> Gesuche sind an das Amt zu richten. Dieses holt die Stellungnahme der von der Tätigkeit, die subventioniert werden soll, direkt betroffenen Verwaltungseinheiten ein.
 
-<sup>3</sup> Die Staatskanzlei entscheidet regelmässig über die eingegangen Gesuche. Wenn der für eine Tätigkeit geplante Betrag ihre Finanzkompetenzen übersteigt, ist der Staatsrat für den Entscheid zuständig.
+<sup>3</sup> Die Verteilung der Finanzhilfen wird von der Direktion der Institutionen und der Land- und Forstwirtschaft auf Antrag des Amts festgelegt. Wenn der für eine Tätigkeit geplante Betrag ihre Finanzkompetenzen übersteigt, ist der Staatsrat für den Entscheid zuständig.
 
 <sup>4</sup> Diese Verordnung gibt keinen Anspruch auf einen staatlichen Beitrag und dessen Erneuerung.
 

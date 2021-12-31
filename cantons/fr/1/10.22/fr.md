@@ -3,13 +3,13 @@ canton: FR
 number: "10.22"
 title: Ordonnance sur le soutien aux initiatives en faveur du bilinguisme
 language: fr
-version: 2018-07-01
-valid_until: 2021-12-31
-version_adopted: 2018-06-05
+version: 2022-01-01
+valid_until: 2024-11-30
+version_adopted: 2023-01-31
 adopted: 2018-06-05
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/10.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5505/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7725/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5505/pdf_file"
 
 Soutien aux initiatives en faveur du bilinguisme – O
 
-du 05.06.2018 (version entrée en vigueur le 01.07.2018)
+du 05.06.2018 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -73,17 +73,17 @@ Arrête:
 
 **Financement**
 
-<sup>1</sup> Le montant annuel des aides financières est prévu au budget de la Chancellerie d'Etat.
+<sup>1</sup> Le montant annuel des aides financières est prévu au budget du Service des affaires institutionnelles, des naturalisations et de l'état civil (ci-après: le Service).
 
 #### Art. 5
 
 **Procédure**
 
-<sup>1</sup> La Chancellerie d'Etat pourvoit à l'information du public sur les aides financières en faveur du bilinguisme prévues par la présente ordonnance.
+<sup>1</sup> Le Service pourvoit à l'information du public sur les aides financières en faveur du bilinguisme prévues par la présente ordonnance.
 
-<sup>2</sup> Les demandes sont adressées à la Chancellerie d'Etat. Celle-ci prend le préavis des unités administratives directement concernées par l'activité à subventionner.
+<sup>2</sup> Les demandes sont adressées au Service. Celui-ci prend le préavis des unités administratives directement concernées par l'activité à subventionner.
 
-<sup>3</sup> La Chancellerie d'Etat statue, périodiquement, sur les demandes reçues. Si le montant envisagé pour une activité dépasse ses compétences financières, la décision relève du Conseil d'Etat.
+<sup>3</sup> La répartition des aides est fixée par la Direction des institutions, de l'agriculture et des forêts, sur proposition du Service. Si le montant envisagé pour une activité dépasse ses compétences financières, la décision relève du Conseil d'Etat.
 
 <sup>4</sup> La présente ordonnance ne confère pas de droit à l'obtention d'une subvention.
 
