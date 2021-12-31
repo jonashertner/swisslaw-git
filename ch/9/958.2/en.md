@@ -3,11 +3,11 @@ sr: "958.2"
 title: Ordinance of 30 November 2018 on the Recognition of Foreign Trading Venues for the Trading of Equity Securities of Companies with Registered Office in Switzerland
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/689"
 language: en
-version: 2018-11-30
+version: 2022-01-01
 adopted: 2018-11-30
 in_force: 2018-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/689/20181130/en/xml/fedlex-data-admin-ch-eli-cc-2018-689-20181130-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/689/20181130/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/689/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2018-689-20220101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/689/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/689/20181130/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 30 November 2018 (Status as of 30 November 2018)
+of 30 November 2018 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -94,4 +94,8 @@ This Ordinance is deemed to be a financial market act pursuant to Article 1 para
 
 **Commencement and period of validity**
 
-This Ordinance comes into force on 30 November 2018 at 20.00 and applies until 31 December 2021.
+<sup>1</sup> This Ordinance comes into force on 30 November 2018 at 20.00 and applies until 31 December 2021.
+
+<sup>2</sup> The period of validity of this Ordinance shall be extended until 31 December 2025.[^6-1]
+
+[^6-1]: Inserted by No I of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 865](https://fedlex.data.admin.ch/eli/oc/2021/865)).

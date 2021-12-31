@@ -3,18 +3,18 @@ sr: "958.2"
 title: Verordnung vom 30. November 2018 über die Anerkennung ausländischer Handelsplätze für den Handel mit Beteiligungspapieren von Gesellschaften mit Sitz in der Schweiz
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/689"
 language: de
-version: 2018-11-30
+version: 2022-01-01
 adopted: 2018-11-30
 in_force: 2018-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/689/20181130/de/xml/fedlex-data-admin-ch-eli-cc-2018-689-20181130-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/689/20181130/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/689/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-689-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/689/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Anerkennung ausländischer Handelsplätze für den Handel mit Beteiligungspapieren von Gesellschaften mit Sitz in der Schweiz
 
-vom 30. November 2018 (Stand am 30. November 2018)
+vom 30. November 2018 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -92,4 +92,8 @@ Diese Verordnung gilt als Finanzmarktgesetz im Sinne von Artikel 1 Absatz 1 des 
 
 **Inkrafttreten und Geltungsdauer**
 
-Diese Verordnung tritt am 30. November 2018 um 20.00 Uhr in Kraft und gilt bis zum 31. Dezember 2021.
+<sup>1</sup> Diese Verordnung tritt am 30. November 2018 um 20.00 Uhr in Kraft und gilt bis zum 31. Dezember 2021.
+
+<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2025 verlängert.[^6-1]
+
+[^6-1]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 865](https://fedlex.data.admin.ch/eli/oc/2021/865)).

@@ -3,18 +3,18 @@ sr: "958.2"
 title: Ordonnance du 30 novembre 2018 concernant la reconnaissance de plates-formes étrangères pour la négociation de titres de participation de sociétés ayant leur siège en Suisse
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/689"
 language: fr
-version: 2018-11-30
+version: 2022-01-01
 adopted: 2018-11-30
 in_force: 2018-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/689/20181130/fr/xml/fedlex-data-admin-ch-eli-cc-2018-689-20181130-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/689/20181130/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/689/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-689-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/689/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la reconnaissance de plates-formes étrangères pour la négociation de titres de participation de sociétés ayant leur siège en Suisse
 
-du 30 novembre 2018 (Etat le 30 novembre 2018)
+du 30 novembre 2018 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -92,6 +92,9 @@ Cette ordonnance est réputée loi sur les marchés financiers au sens de l’ar
 
 **Entrée en vigueur et durée de validité**
 
-La présente ordonnance entre en vigueur le 30 novembre 2018 à 20 heures[^6-1] et a effet jusqu’au 31 décembre 2021.
+<sup>1</sup> La présente ordonnance entre en vigueur le 30 novembre 2018 à 20 heures[^6-1] et a effet jusqu’au 31 décembre 2021.
+
+<sup>2</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2025.[^6-2]
 
 [^6-1]: Publication urgente du 30 novembre 2018 au sens de l’art 7, al. 3, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^6-2]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 865](https://fedlex.data.admin.ch/eli/oc/2021/865)).

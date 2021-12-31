@@ -3,18 +3,18 @@ sr: "958.2"
 title: Ordinanza del 30 novembre 2018 concernente il riconoscimento di sedi di negoziazione estere per il commercio di titoli di partecipazione di società con sede in Svizzera
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/689"
 language: it
-version: 2018-11-30
+version: 2022-01-01
 adopted: 2018-11-30
 in_force: 2018-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/689/20181130/it/xml/fedlex-data-admin-ch-eli-cc-2018-689-20181130-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/689/20181130/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/689/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-689-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/689/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente il riconoscimento di sedi di negoziazione estere per il commercio di titoli di partecipazione di società con sede in Svizzera
 
-del 30 novembre 2018 (Stato 30 novembre 2018) (Stato 30 novembre 2018)
+del 30 novembre 2018 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -92,4 +92,8 @@ La presente ordinanza è considerata alla stregua di una legge sui mercati finan
 
 **Entrata in vigore e durata di validità**
 
-La presente ordinanza entra in vigore il 30 novembre 2018 alle ore 20.00 con effetto sino al 31 dicembre 2021.
+<sup>1</sup> La presente ordinanza entra in vigore il 30 novembre 2018 alle ore 20.00 con effetto sino al 31 dicembre 2021.
+
+<sup>2</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2025.[^6-1]
+
+[^6-1]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 865](https://fedlex.data.admin.ch/eli/oc/2021/865)).
