@@ -4,13 +4,13 @@ number: "170.400"
 title: Gesetz über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden
 short: "Personalgesetz, PG"
 language: de
-version: 2017-01-01
-corrected: 2021-04-13
-version_adopted: 2016-08-31
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-08-26
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2770/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3228/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2770/pdf_file"
 
 (Personalgesetz, PG)
 
-Vom 14.06.2006 (Stand 01.01.2017)
+Vom 14.06.2006 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -167,7 +167,7 @@ beschliesst:
 
 <sup>2</sup> Die Regierung kann eine vorverschobene Pensionierung anordnen, wenn die Neubesetzung einer Stelle im öffentlichen Interesse liegt. Sie legt die Abfindung nach den Bestimmungen von Artikel 17 fest.
 
-<sup>3</sup> Die Mitarbeiterin oder der Mitarbeiter kann sich nach dem Reglement über die vorzeitige Alterspensionierung vorzeitig pensionieren lassen. Ein vorzeitiger Rücktritt darf in der Regel nicht zu Mehrkosten führen.
+<sup>3</sup> Mitarbeitende können sich frühestens auf Ende des Monats, in dem sie 60 Jahre alt werden, ganz oder teilweise vorzeitig pensionieren lassen. Eine vorzeitige Pensionierung ab Alter 62 kann mit einem Beitrag an eine AHV-Überbrückungsrente finanziell unterstützt werden. Die Regierung regelt die Einzelheiten, insbesondere eine allfällige Anspruchsberechtigung und die Höhe des Beitrags. Die Übergangsregelung bestimmt sich nach Artikel 72a dieses Gesetzes.
 
 <sup>4</sup> Eine Weiterbeschäftigung nach Vollendung des 65. Altersjahres ist nur in Ausnahmefällen möglich und sofern eine solche im besonderen Interesse des Kantons liegt.
 
@@ -690,7 +690,7 @@ beschliesst:
 
 <sup>1</sup> Unter Vorbehalt anderer Bestimmungen sind für die Anstellungen und die Kündigungen zuständig
 
-- a) die Regierung für die Dienststellenleitenden, deren Stellvertretende und die Departementssekretärinnen und -sekretäre;
+- a) die Regierung für die Dienststellenleitenden, deren Stellvertretende und die Generalsekretärinnen und -sekretäre;
 - b) die Departemente und die Standeskanzlei für die übrigen Mitarbeitenden ab der Gehaltsklasse 16;
 - c) die Dienststellen für ihre Mitarbeitenden in den Gehaltsklassen 1 bis 15;
 - d) die oder der Vorsitzende der Schulleitung für die Lehrpersonen der kantonalen Schulen.
@@ -814,6 +814,12 @@ beschliesst:
 <sup>2</sup> Die Mittel für den Teuerungsausgleich sowie für die individuellen Lohnentwicklungen und für die Stellenbewirtschaftung werden erstmals mit den Budgets für das Jahr 2018 nach Artikel 19 festgelegt.
 
 <sup>3</sup> Mitarbeitende, die vor dem In-Kraft-Treten dieses Gesetzes in eine Behörde gewählt worden sind, deren Mandat mit der Anstellung beim Kanton gemäss Artikel 58 unvereinbar ist, dürfen das Mandat bis zum Ablauf der Amtsperiode ausüben.
+
+#### Art. 72a
+
+**Übergangsbestimmung zu Artikel 15 Absatz 3**
+
+<sup>1</sup> Mitarbeitende, die am 1. Januar 2022 60 Jahre alt oder älter sind, können eine vorzeitige Pensionierung ab dem 63. Altersjahr nach dem Reglement über die vorzeitige Alterspensionierung vom 19. März 2013 (Stand 1. April 2013) beantragen.
 
 #### Art. 73
 

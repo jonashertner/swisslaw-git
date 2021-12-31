@@ -4,13 +4,13 @@ number: "170.400"
 title: Legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni
 short: "Legge sul personale, LCPers"
 language: it
-version: 2017-01-01
-corrected: 2021-04-13
-version_adopted: 2016-08-31
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-08-26
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2770/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3228/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2770/pdf_file"
 
 (Legge sul personale, LCPers)
 
-del 14.06.2006 (stato 01.01.2017)
+del 14.06.2006 (stato 01.01.2022)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -167,7 +167,7 @@ decide:
 
 <sup>2</sup> Il Governo può disporre il pensionamento anticipato se la rioccupazione del posto è di interesse pubblico. Esso fissa la liquidazione in base alle disposizioni dell'articolo 17.
 
-<sup>3</sup> Il collaboratore può andare in pensione anticipatamente secondo il regolamento sul pensionamento anticipato. Di regola, un pensionamento anticipato non deve provocare spese supplementari.
+<sup>3</sup> I collaboratori possono andare in pensione anticipata integrale o parziale non prima della fine del mese in cui compiono i 60 anni. Un pensionamento anticipato a partire da 62 anni può essere sostenuto finanziariamente con un contributo a favore di una rendita transitoria AVS. Il Governo disciplina i dettagli, in particolare un eventuale diritto al riguardo e l'ammontare del contributo. La regolamentazione transitoria viene determinata secondo l'articolo 72a della presente legge.
 
 <sup>4</sup> Una continuazione del rapporto di lavoro dopo il compimento del 65° anno di età è possibile soltanto in casi eccezionali e nella misura in cui sia di particolare interesse del Cantone
 
@@ -690,7 +690,7 @@ decide:
 
 <sup>1</sup> Fatte salve altre disposizioni sono competenti per le assunzioni e le disdette:
 
-- a) il Governo per i capi servizio, i loro supplenti e i segretari di concetto;
+- a) il Governo per i capi servizio, i loro supplenti e i segretari generali;
 - b) i Dipartimenti e la Cancelleria dello Stato per gli altri collaboratori a partire dalla classe di stipendio 16;
 - c) i servizi per i loro collaboratori nelle classi di stipendio da 1 a 15;
 - d) il presidente della direzione scolastica per gli insegnanti delle scuole cantonali.
@@ -814,6 +814,12 @@ decide:
 <sup>2</sup> I mezzi per la compensazione del rincaro nonché per gli sviluppi degli stipendi individuali e per la gestione degli impieghi vengono determinati per la prima volta tramite i preventivi per il 2018 conformemente all'articolo 19.
 
 <sup>3</sup> I collaboratori che sono stati nominati in un'autorità prima dell'entrata in vigore della presente legge, il cui mandato non è compatibile con l'assunzione presso il Cantone secondo l'articolo 58, possono esercitare il mandato fino allo scadere del periodo di carica.
+
+#### Art. 72a
+
+**Disposizione transitoria dell'articolo 15 capoverso 3**
+
+<sup>1</sup> I collaboratori che il 1° gennaio 2022 hanno già compiuto 60 anni possono chiedere un pensionamento anticipato a partire dal 63° anno d'età secondo il Regolamento sul pensionamento anticipato del 19 marzo 2013 (stato 1° aprile 2013).
 
 #### Art. 73
 

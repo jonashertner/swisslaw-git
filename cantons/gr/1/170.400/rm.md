@@ -4,13 +4,13 @@ number: "170.400"
 title: Lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun
 short: "lescha dal persunal, LP"
 language: rm
-version: 2017-01-01
-corrected: 2021-04-13
-version_adopted: 2016-08-31
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-08-26
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2770/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3228/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2770/pdf_file"
 
 (lescha dal persunal, LP)
 
-dals 14-06-2006 (versiun dals 01-01-2017)
+dals 14-06-2006 (versiun dals 01-01-2022)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -169,7 +169,7 @@ concluda:
 
 <sup>2</sup> La regenza po ordinar in pensiunament anticipà, sch'igl exista in interess public d'occupar ina plazza da nov. Ella fixescha l'indemnisaziun tenor las disposiziuns da l'artitgel 17.
 
-<sup>3</sup> La collavuratura u il collavuratur po sa laschar pensiunar anticipadamain tenor il reglament davart il pensiunament anticipà. In pensiunament anticipà na dastga per regla betg chaschunar custs supplementars.
+<sup>3</sup> Las collavuraturas ed ils collavuraturs pon sa laschar pensiunar cumplainamain u parzialmain il pli baud per la fin dal mais ch'ellas ed els cumpleneschan 60 onns. In pensiunament anticipà a partir da 62 onns po vegnir sustegnì finanzialmain cun ina contribuziun ad ina renta transitorica da la AVS. La Regenza regla ils detagls, en spezial in eventual dretg da prestaziun e l'autezza da la contribuziun. La regulaziun transitorica sa drizza tenor l'artitgel 72a da questa lescha.
 
 <sup>4</sup> Ina cuntinuaziun da l'engaschament suenter la cumplenida dal 65avel onn da vegliadetgna è pussaivla mo en cas excepziunals e sche la cuntinuaziun è en l'interess spezial dal chantun.
 
@@ -464,7 +464,7 @@ concluda:
 
 **Congedis**
 
-<sup>1</sup> Sin proposta dal post da servetsch e suenter avair tadlà l'uffizi da persunal e d'organisaziun pon ils departaments conceder congedis pajads da fin in'emna. Per congedis pajads pli lungs è cumpetenta la regenza.
+<sup>1</sup> Sin proposta dal post da servetsch e suenter avair tadlà l'uffizi da persunal pon ils departaments conceder congedis pajads da fin in'emna. Per congedis pajads pli lungs è cumpetenta la regenza.
 
 <sup>2</sup> Per eveniments sco naschientschas d'agens uffants, adopziuns, festas da famiglia, mortoris, midadas d'abitaziun, occurrenzas da sport e da cultura vegnan concedids congedis curts pajads.
 
@@ -637,9 +637,9 @@ concluda:
 
 **Post spezialisà e post da cussegliaziun**
 
-<sup>1</sup> L'uffizi da persunal e d'organisaziun è il post spezialisà ed il post da cussegliaziun per dumondas da persunal e d'organisaziun. El sustegna la regenza e l'administraziun tar la realisaziun da la politica da persunal ed tar l'applicaziun unitara dal dretg da persunal.
+<sup>1</sup> L'uffizi da persunal è il post spezialisà ed il post da cussegliaziun per dumondas da persunal e d'organisaziun. El sustegna la regenza e l'administraziun tar la realisaziun da la politica da persunal ed tar l'applicaziun unitara dal dretg da persunal.
 
-<sup>2</sup> L'uffizi da persunal e d'organisaziun collavura directamain cun tut las partiziuns administrativas. El prepara contracts, disposiziuns e conclus da natira dal dretg da persunal, uschenavant che la regenza na fixescha nagut auter. El examinescha, sche las decisiuns previsas correspundan als relaschs dal dretg da persunal ed a la pratica e po relaschar directivas specificas en ses champ d'incumbensas.
+<sup>2</sup> L'uffizi da persunal collavura directamain cun tut las partiziuns administrativas. El prepara contracts, disposiziuns e conclus da natira dal dretg da persunal, uschenavant che la regenza na fixescha nagut auter. El examinescha, sche las decisiuns previsas correspundan als relaschs dal dretg da persunal ed a la pratica e po relaschar directivas specificas en ses champ d'incumbensas.
 
 #### Art. 60
 
@@ -696,7 +696,7 @@ concluda:
 
 <sup>1</sup> Cun resalva d'autras disposiziuns èn cumpetents per ils engaschaments e per las desditgas:
 
-- a) la regenza per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts sco er per las secretarias e per ils secretaris dals departaments;
+- a) la regenza per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts sco er per las secretarias generalas e per ils secretaris generals;
 - b) ils departaments e la chanzlia chantunala per las ulteriuras collavuraturas e per ils ulteriurs collavuraturs a partir da la classa da salari 16;
 - c) ils posts da servetsch per lur collavuraturas e per lur collavuraturs en las classas da salari 1 fin 15;
 - d) la parsura u il parsura da la direcziun da la scola per las persunas d'instrucziun da las scolas chantunalas.
@@ -709,7 +709,7 @@ concluda:
 
 <sup>1</sup> Sch'i n'è fixà nagut auter en questa lescha u en ils relaschs executivs respectivs, valan ils departaments, la chanzlia chantunala u la controlla da finanzas sco instanzas cumpetentas per tut las decisiuns concernent il dretg da persunal.
 
-<sup>2</sup> Sch'i na vegn betg chattada ina cunvegna tranter l'instanza cumpetenta e l'uffizi da persunal e d'organisaziun, decida la regenza definitivamain.
+<sup>2</sup> Sch'i na vegn betg chattada ina cunvegna tranter l'instanza cumpetenta e l'uffizi da persunal, decida la regenza definitivamain.
 
 #### Art. 65
 
@@ -820,6 +820,12 @@ concluda:
 <sup>2</sup> Ils meds finanzials per la cumpensaziun da la chareschia sco er per ils svilups individuals dals salaris e per l'administraziun da las plazzas vegnan fixads per l'emprima giada tenor l'artitgel 19 cun ils preventivs da l'onn 2018.
 
 <sup>3</sup> Sche collavuraturas e sche collavuraturs èn vegnids elegids – avant che questa lescha entria en vigur – en in'autoritad, da la quala il mandat n'è betg cumpatibel cun l'engaschament tar il chantun tenor l'artitgel 58, dastgan ellas ed els exequir il mandat fin a la fin da la perioda d'uffizi.
+
+#### Art. 72a
+
+**Disposiziun transitorica tar l'artitgel 15 alinea 3**
+
+<sup>1</sup> Collavuraturas e collavuraturs che han 60 onns u dapli il 1. da schaner 2022 pon dumandar in pensiunament anticipà a partir dal 63. onn da vegliadetgna tenor il Reglament davart il pensiunament anticipà dals 19 da mars 2013 (versiun dal 1. d'avrigl 2013).
 
 #### Art. 73
 
