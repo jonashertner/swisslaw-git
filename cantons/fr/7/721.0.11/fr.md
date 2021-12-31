@@ -4,13 +4,13 @@ number: "721.0.11"
 title: Règlement sur la protection de la nature et du paysage
 short: RPNat
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2014-05-27
 in_force: 2014-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/721.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6029/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7034/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Protection de la nature et du paysage – R
 
 (RPNat)
 
-du 27.05.2014 (version entrée en vigueur le 01.04.2019)
+du 27.05.2014 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -59,7 +59,7 @@ Arrête:
 
 <sup>2</sup> Il est subordonné à la Direction, prépare à son intention les dossiers relevant de son domaine d'activité et assure leur suivi.
 
-<sup>3</sup> Il collabore avec les autres unités de l'administration concernées par son domaine d'activité, en particulier le Service des constructions et de l'aménagement, le Service de l'agriculture et l'Institut agricole de l'Etat de Fribourg, le Service des ponts et chaussées, le Service de l'environnement et le Musée d'histoire naturelle; en cas de conflit de compétence, les articles 18 et suivants du code du 23 mai 1991 de procédure et de juridiction administrative (CPJA) sont applicables.
+<sup>3</sup> Il collabore avec les autres unités de l'administration concernées par son domaine d'activité, en particulier le Service des constructions et de l'aménagement, Grangeneuve, le Service des ponts et chaussées, le Service de l'environnement et le Musée d'histoire naturelle; en cas de conflit de compétence, les articles 18 et suivants du code du 23 mai 1991 de procédure et de juridiction administrative (CPJA) sont applicables.
 
 #### Art. 4
 

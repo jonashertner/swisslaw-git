@@ -4,13 +4,13 @@ number: "721.0.11"
 title: Reglement über den Natur- und Landschaftsschutz
 short: NatR
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2014-05-27
 in_force: 2014-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/721.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6029/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7034/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Natur- und Landschaftsschutz – R
 
 (NatR)
 
-vom 27.05.2014 (Fassung in Kraft getreten am 01.04.2019)
+vom 27.05.2014 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -59,7 +59,7 @@ beschliesst:
 
 <sup>2</sup> Es ist der Direktion unterstellt und erledigt für sie die Vor- und Nachbereitung der Geschäfte, für die letztere zuständig ist.
 
-<sup>3</sup> Es arbeitet eng zusammen mit den anderen in seinem Bereich tätigen Verwaltungseinheiten, insbesondere mit dem Bau- und Raumplanungsamt, dem Amt für Landwirtschaft und dem landwirtschaftlichen Institut, dem Tiefbauamt, dem Amt für Umwelt und dem Naturhistorischen Museum; bei Unklarheiten zu den Kompetenzen gelten die Artikel 18 ff. des Gesetzes vom 23. Mai 1991 über die Verwaltungsrechtspflege (VRG).
+<sup>3</sup> Es arbeitet eng zusammen mit den anderen in seinem Bereich tätigen Verwaltungseinheiten, insbesondere mit dem Bau- und Raumplanungsamt, Grangeneuve, dem Tiefbauamt, dem Amt für Umwelt und dem Naturhistorischen Museum; bei Unklarheiten zu den Kompetenzen gelten die Artikel 18 ff. des Gesetzes vom 23. Mai 1991 über die Verwaltungsrechtspflege (VRG).
 
 #### Art. 4
 
