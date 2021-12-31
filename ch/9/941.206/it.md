@@ -4,11 +4,11 @@ title: Ordinanza del 7 dicembre 2012 sulle competenze in materia di metrologia (
 short: OCMetr
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/876"
 language: it
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2012-12-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/876/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2012-876-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/876/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/876/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-876-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/876/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/876/20130101/it"
 
 (OCMetr)
 
-del 7 dicembre 2012 (Stato 1° gennaio 2013)
+del 7 dicembre 2012 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -233,7 +233,9 @@ In particolare il METAS esercita la vigilanza secondo le modalità seguenti:
 
 **Assistenza amministrativa**
 
-Il METAS può esigere che l’Amministrazione delle dogane gli comunichi, per un periodo determinato, l’importazione di determinati strumenti di misurazione.
+Il METAS può esigere che l’Ufficio federale della dogana e della sicurezza dei confini[^17-1] gli comunichi, per un periodo determinato, l’importazione di determinati strumenti di misurazione.
+
+[^17-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 18
 
@@ -394,7 +396,7 @@ Le seguenti ordinanze sono abrogate:
 - 2\. ordinanza del 15 febbraio 2006[^30-2] sui laboratori di verificazione.
 
 [^30-1]: [[RU 2006 1637](https://fedlex.data.admin.ch/eli/oc/2006/253)]
-[^30-2]: [[RU 2006 1643](https://fedlex.data.admin.ch/eli/oc/2006/254)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 107]
+[^30-2]: [[RU 2006 1643](https://fedlex.data.admin.ch/eli/oc/2006/254), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 107]
 
 #### Art. 31
 
@@ -411,7 +413,7 @@ Le autorizzazioni all’esercizio di un laboratorio di verificazione rilasciate 
 
 <sup>3</sup> L’autorizzazione non è prolungabile ai sensi del capoverso 1 lettera b per quei laboratori di verificazione che sono stati autorizzati dall’Ufficio federale di metrologia con scadenza precedente o uguale al 31 dicembre 2012 nell’ambito dell’articolo 14 capoverso 1 dell’ordinanza del 15 febbraio 2006[^31-1] sui laboratori di verificazione.
 
-[^31-1]: [[RU 2006 1643](https://fedlex.data.admin.ch/eli/oc/2006/254)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 107]
+[^31-1]: [[RU 2006 1643](https://fedlex.data.admin.ch/eli/oc/2006/254), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 107]
 
 #### Art. 32
 

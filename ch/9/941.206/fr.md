@@ -4,11 +4,11 @@ title: Ordonnance du 7 décembre 2012 sur les compétences en matière de métro
 short: OCMétr
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/876"
 language: fr
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2012-12-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/876/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-876-20130101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/876/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/876/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-876-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/876/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/876/20130101/fr"
 
 (OCMétr)
 
-du 7 décembre 2012 (Etat le 1<sup>er</sup> janvier 2013)
+du 7 décembre 2012 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -170,7 +170,9 @@ METAS accomplit les tâches suivantes pour les instruments de mesure qui relève
 - a. il exécute l’examen de type et décide de l’approbation selon le chap. 2, section 4, OIMes[^12-1];
 - b. dans les cas visés à la lettre a, il procède à la vérification initiale et au marquage d’instruments de mesure selon l’art. 17 et l’annexe 6, OIMes, pour autant que les prescriptions spécifiques relatives à l’instrument de mesure ne prévoient pas que ces tâches ressortissent au canton.
 
-<sup>2</sup> Il accomplit les tâches suivantes pour les instruments de mesure qui relèvent de son domaine de compétence.
+<sup>2</sup>
+
+Il accomplit les tâches suivantes pour les instruments de mesure qui relèvent de son domaine de compétence:
 
 - a. il vérifie la stabilité de mesure visée à l’art. 24 OIMes, et procède au marquage selon l’art. 18 OIMes;
 - b. il examine les instruments de mesure contestés conformément à l’art. 29 OIMes.
@@ -231,7 +233,9 @@ Il exerce la surveillance notamment:
 
 **Entraide administrative**
 
-METAS peut exiger de l’Administration fédérale des douanes qu’elle lui annonce pour une durée limitée l’importation d’instruments de mesure déterminés.
+METAS peut exiger de l’Office fédéral de la douane et de la sécurité des frontières[^17-1] qu’il lui annonce pour une durée limitée l’importation d’instruments de mesure déterminés.
+
+[^17-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 18
 

@@ -4,11 +4,11 @@ title: Verordnung vom 7. Dezember 2012 über die Zuständigkeiten im Messwesen (
 short: ZMessV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/876"
 language: de
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2012-12-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/876/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2012-876-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/876/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/876/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-876-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/876/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/876/20130101/de"
 
 (ZMessV)
 
-vom 7. Dezember 2012 (Stand am 1. Januar 2013)
+vom 7. Dezember 2012 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -233,7 +233,9 @@ Es übt die Aufsicht insbesondere aus, indem es:
 
 **Amtshilfe**
 
-Das METAS kann von der Zollverwaltung verlangen, dass diese ihm für eine befristete Zeit die Einfuhr bestimmter Messmittel meldet.
+Das METAS kann vom Bundesamt für Zoll und Grenzsicherheit[^17-1] verlangen, dass dieses ihm für eine befristete Zeit die Einfuhr bestimmter Messmittel meldet.
+
+[^17-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 18
 
@@ -394,7 +396,7 @@ Folgende Verordnungen werden aufgehoben:
 - 2\. Eichstellenverordnung vom 15. Februar 2006[^30-2].
 
 [^30-1]: [[AS 2006 1637](https://fedlex.data.admin.ch/eli/oc/2006/253)]
-[^30-2]: [[AS 2006 1643](https://fedlex.data.admin.ch/eli/oc/2006/254)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 107]
+[^30-2]: [[AS 2006 1643](https://fedlex.data.admin.ch/eli/oc/2006/254), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 107]
 
 #### Art. 31
 
@@ -411,7 +413,7 @@ Nach bisherigem Recht erteilte Ermächtigungen von Eichstellen gelten:
 
 <sup>3</sup> Für Eichstellen, die vom Bundesamt für Metrologie befristet bis zum 31. Dezember 2012 im Rahmen von Artikel 14 Absatz 1 der Eichstellenverordnung vom 15. Februar 2006[^31-1] ermächtigt wurden, verlängert sich die Ermächtigung nicht nach Absatz 1 Buchstabe b.
 
-[^31-1]: [[AS 2006 1643](https://fedlex.data.admin.ch/eli/oc/2006/254)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 107]
+[^31-1]: [[AS 2006 1643](https://fedlex.data.admin.ch/eli/oc/2006/254), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 107]
 
 #### Art. 32
 
