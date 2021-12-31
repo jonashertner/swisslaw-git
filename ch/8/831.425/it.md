@@ -4,11 +4,11 @@ title: "Ordinanza del 3 ottobre 1994 sul libero passaggio nella previdenza profe
 short: OLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: it
-version: 2020-10-01
+version: 2022-01-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/it/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20201001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20201001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20201001/it"
 
 (Ordinanza sul libero passaggio, OLP)
 
-del 3 ottobre 1994 (Stato 1° ottobre 2020) (Stato 1° ottobre 2020)
+del 3 ottobre 1994 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -36,13 +36,14 @@ ordina:
 
 **Obblighi d’informazione**
 
-<sup>1</sup> I datori di lavoro devono comunicare senza indugio all’istituto di previdenza l’indirizzo o, se questo non è noto, il numero AVS degli assicurati il cui rapporto di lavoro è stato sciolto o il cui grado d’occupazione è stato ridotto. Essi sono tenuti ad indicare se lo scioglimento del rapporto di lavoro o la modificazione del grado d’occupazione sono conseguenti a ragioni di salute.
+<sup>1</sup> I datori di lavoro devono comunicare senza indugio all’istituto di previdenza l’indirizzo o, se questo non è noto, il numero AVS[^1-1] il cui rapporto di lavoro è stato sciolto o il cui grado d’occupazione è stato ridotto. Essi sono tenuti ad indicare se lo scioglimento del rapporto di lavoro o la modificazione del grado d’occupazione sono conseguenti a ragioni di salute.
 
 <sup>2</sup> Prima dell’uscita dall’istituto di previdenza, gli assicurati devono indicare a quale nuovo istituto di previdenza o a quale istituto di libero passaggio deve essere trasferita la prestazione d’uscita.
 
-<sup>3</sup> I datori di lavoro devono annunciare all’istituto di previdenza gli assicurati che contraggono matrimonio o un’unione domestica registrata.[^1-1]
+<sup>3</sup> I datori di lavoro devono annunciare all’istituto di previdenza gli assicurati che contraggono matrimonio o un’unione domestica registrata.[^1-2]
 
-[^1-1]: Nuovo testo giusta il n. I 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^1-1]: Nuova espr. giusta l’all. n. II 35 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^1-2]: Nuovo testo giusta il n. I 2 dell’O del 29 set. 2006 concernente l’attuazione della L del 18 giu. 2004 sull’unione domestica registrata nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 2007 ([RU 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 2
 
@@ -87,7 +88,7 @@ Il tasso d’interesse giusta l’articolo 17 capoversi 1 e 4 LFLP equivale al t
 - a. nel caso dei fondi di risparmio: al tasso d’interesse applicato all’avere a risparmio;
 - b. nel caso degli istituti d’assicurazione gestiti secondo il primato dei contributi e degli istituti di previdenza gestiti secondo il primato delle prestazioni: ad un tasso inferiore di 0.5 punti percentuali rispetto al tasso d’interesse minimo stabilito nella LPP.[^6-2]
 
-<sup>3</sup> Le quote delle prestazioni d’entrata apportate, impiegate per finanziamenti di cui all’articolo 17 capoverso 2 lettere a-c LFLP, non devono essere considerate nel calcolo della prestazione minima.
+<sup>3</sup> Le quote delle prestazioni d’entrata apportate, impiegate per finanziamenti di cui all’articolo 17 capoverso 2 lettere a–c LFLP, non devono essere considerate nel calcolo della prestazione minima.
 
 <sup>4</sup> I contributi destinati al finanziamento delle rendite transitorie AVS possono essere dedotti giusta l’articolo 17 capoverso 2 lettera c LFLP, se tali rendite iniziano a decorrere il più presto cinque anni prima del raggiungimento dell’ordinaria età AVS. Se sufficienti motivi lo giustificano, questo termine può essere prolungato al massimo a dieci anni.
 
@@ -314,7 +315,7 @@ I titoli devono essere depositati presso banche o società di intermediazione mo
 [^19a-4]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^19a-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 
-## Sezione 2*a*:**** Ufficio centrale del 2° pilastro
+## Sezione 2*a*: Ufficio centrale del 2° pilastro
 
 [^sec2a-1]
 
@@ -332,7 +333,7 @@ I titoli devono essere depositati presso banche o società di intermediazione mo
 
 Nel registro sono iscritti i seguenti dati:
 
-- a. cognome e nome, data di nascita e numero AVS degli assicurati, nonché
+- a. cognome e nome, data di nascita e numero AVS, nonché
 - b. il nome degli istituti di previdenza o degli istituti che gestiscono conti o polizze di libero passaggio per gli assicurati interessati.
 
 <sup>4</sup> Nel registro è menzionato se l’istituto di previdenza o di libero passaggio sia ancora in grado o meno di stabilire un contatto con la persona annunciata.[^19abis-4]
@@ -394,7 +395,7 @@ Nel suo rapporto annuale il Fondo di garanzia riferisce in merito all’attivit�
 [^19f-1]: [RS 831.432.1](https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662)
 [^19f-2]: Nuovo testo giusta l’all. n. 1 dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
-## Sezione 2*b*:**** Divorzio e scioglimento giudiziale dell’unione domestica registrata
+## Sezione 2*b*: Divorzio e scioglimento giudiziale dell’unione domestica registrata
 
 [^sec2b-1]
 
@@ -509,13 +510,13 @@ L’ordinanza del 12 novembre 1986[^21-1] sul mantenimento della previdenza e de
 
 La presente ordinanza entra in vigore il 1° gennaio 1995.
 
-## Disposizione finale della modifica del 19 settembre 2008****
+## Disposizione finale della modifica del 19 settembre 2008
 
 [^u1-1]
 
 [^u1-1]: [RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650). Abrogata dal n. I dell’O del 17 set. 2010, con effetto dal 1° gen. 2011 ([RU 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
 
-## Disposizione finale della modifica del 17 settembre 2010****
+## Disposizione finale della modifica del 17 settembre 2010
 
 [^u2-1]
 
@@ -525,7 +526,7 @@ L’investimento dei fondi delle fondazioni di libero passaggio dev’essere ade
 
 [^u2-2]: [RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)
 
-## Disposizione transitoria della modifica del 10 giugno 2016****
+## Disposizione transitoria della modifica del 10 giugno 2016
 
 [^u3-1]
 
@@ -533,7 +534,7 @@ L’investimento dei fondi delle fondazioni di libero passaggio dev’essere ade
 
 Nell’anno 2017 gli istituti di previdenza e gli istituti che gestiscono conti o polizze di libero passaggio devono adempiere il loro obbligo d’annuncio di cui all’articolo 24*a* LFLP entro il 31 marzo.
 
-## Disposizione transitoria della modifica del 26 agosto 2020****
+## Disposizione transitoria della modifica del 26 agosto 2020
 
 [^u4-1]
 
@@ -541,7 +542,7 @@ Nell’anno 2017 gli istituti di previdenza e gli istituti che gestiscono conti 
 
 Per la conversione della parte di rendita in una rendita vitalizia secondo l’articolo 19*h*, il tasso d’interesse tecnico applicabile è del 2 per cento fino al 31 dicembre 2020.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 19*h*)
 
@@ -552,18 +553,18 @@ Allegato*[^t-1]*
 \1. La parte di rendita assegnata al coniuge creditore è convertita in una rendita vitalizia applicando la formula seguente:
 
 <table>
-<tr><td>rendita vitalizia = parte di rendita</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/it/xml/image/image1.png)</td></tr>
+<tr><td>rendita vitalizia = parte di rendita</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/image/image1.png)</td></tr>
 </table>
 
 \2. Ove:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/it/xml/image/image2.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge debitore (in funzione del suo sesso e della sua età);
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/image/image2.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge debitore (in funzione del suo sesso e della sua età);
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/it/xml/image/image3.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge creditore (in funzione del suo sesso e della sua età);
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/image/image3.png) designa il valore attuale della rendita vitalizia pagabile in rate mensili al coniuge creditore (in funzione del suo sesso e della sua età);
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/it/xml/image/image4.png) designa l’aspettativa del coniuge debitore (in funzione del suo sesso e della sua età) a una rendita vedovile vitalizia pagabile in rate mensili, calcolata secondo il metodo collettivo;
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/image/image4.png) designa l’aspettativa del coniuge debitore (in funzione del suo sesso e della sua età) a una rendita vedovile vitalizia pagabile in rate mensili, calcolata secondo il metodo collettivo;
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/it/xml/image/image5.png) il rapporto tra l’importo della rendita vedovile stabilita dal regolamento e quello della rendita corrente del coniuge debitore.
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/it/xml/image/image5.png) il rapporto tra l’importo della rendita vedovile stabilita dal regolamento e quello della rendita corrente del coniuge debitore.
 
 \3. I valori attuali e le aspettative sono calcolati utilizzando le basi tecniche LPP pertinenti al momento determinante per il calcolo. Sono impiegate le tavole generazionali non consolidate applicabili nell’anno civile del calcolo e la media ponderata dei tassi d’interesse tecnici medi figuranti nell’ultimo rapporto sulla situazione finanziaria degli istituti di previdenza pubblicato dalla Commissione di alta vigilanza della previdenza professionale[^annexu1-lvlu1-1].
 

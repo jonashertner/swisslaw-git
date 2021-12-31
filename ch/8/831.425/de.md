@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Oktober 1994 über die Freizügigkeit in der beruflich
 short: FZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: de
-version: 2020-10-01
+version: 2022-01-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/de/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20201001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20201001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20201001/de"
 
 (Freizügigkeitsverordnung, FZV)
 
-vom 3. Oktober 1994 (Stand am 1. Oktober 2020)
+vom 3. Oktober 1994 (Stand am 1. Januar 2022) (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -36,13 +36,14 @@ verordnet:
 
 **Informationspflichten**
 
-<sup>1</sup> Die Arbeitgeber müssen die Adresse oder, wenn diese fehlt, die AHV-Versichertennummer der Versicherten, deren Arbeitsverhältnis aufgelöst oder deren Beschäftigungsgrad reduziert wird, unverzüglich der Vorsorgeeinrichtung melden. Gleichzeitig ist mitzuteilen, ob die Auflösung des Arbeitsverhältnisses oder die Änderung des Beschäftigungsgrades aus gesundheitlichen Gründen erfolgt ist.
+<sup>1</sup> Die Arbeitgeber müssen die Adresse oder, wenn diese fehlt, die AHV-Nummer[^1-1] der Versicherten, deren Arbeitsverhältnis aufgelöst oder deren Beschäftigungsgrad reduziert wird, unverzüglich der Vorsorgeeinrichtung melden. Gleichzeitig ist mitzuteilen, ob die Auflösung des Arbeitsverhältnisses oder die Änderung des Beschäftigungsgrades aus gesundheitlichen Gründen erfolgt ist.
 
 <sup>2</sup> Die Versicherten geben der Vorsorgeeinrichtung vor dem Austritt bekannt, an welche neue Vorsorgeeinrichtung oder an welche Freizügigkeitseinrichtung die Austrittsleistung zu überweisen ist.
 
-<sup>3</sup> Die Arbeitgeber müssen Versicherte, die heiraten oder eine eingetragene Partnerschaft eingehen, der Vorsorgeeinrichtung melden.[^1-1]
+<sup>3</sup> Die Arbeitgeber müssen Versicherte, die heiraten oder eine eingetragene Partnerschaft eingehen, der Vorsorgeeinrichtung melden.[^1-2]
 
-[^1-1]: Fassung gemäss Ziff. I 2 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^1-1]: Ausdruck gemäss Anhang Ziff. II 35 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^1-2]: Fassung gemäss Ziff. I 2 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 2
 
@@ -314,7 +315,7 @@ Die Wertschriften sind bei Banken oder Wertpapierhäusern zu deponieren, die der
 [^19a-4]: Fassung gemäss Anhang 1 Ziff. II 6 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^19a-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 
-## 2*a*. Abschnitt:**** Zentralstelle 2. Säule****
+## 2*a*. Abschnitt: Zentralstelle 2. Säule
 
 [^sec2a-1][^sec2a-2]
 
@@ -333,7 +334,7 @@ Die Wertschriften sind bei Banken oder Wertpapierhäusern zu deponieren, die der
 
 In das Register werden folgende Daten aufgenommen:
 
-- a. Name und Vorname, Geburtsdatum und AHV-Versichertennummer der Versicherten; sowie
+- a. Name und Vorname, Geburtsdatum und AHV-Nummer der Versicherten; sowie
 - b. der Name der Vorsorgeeinrichtungen oder der Einrichtungen, die für die betroffenen Versicherten Freizügigkeitskonten oder -policen führen.
 
 <sup>4</sup> Im Register wird vermerkt, ob die Vorsorge- oder Freizügigkeitseinrichtung mit der gemeldeten Person noch einen Kontakt herstellen kann oder nicht.[^19abis-4]
@@ -396,7 +397,7 @@ Der Sicherheitsfonds berichtet in seinem Jahresbericht über die Tätigkeit der 
 [^19f-1]: [SR 831.432.1](https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662)
 [^19f-2]: Fassung gemäss Anhang Ziff. 1 der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
-## 2*b*. Abschnitt:**** Scheidung und gerichtliche Auflösung der eingetragenen Partnerschaft
+## 2*b*. Abschnitt: Scheidung und gerichtliche Auflösung der eingetragenen Partnerschaft
 
 [^sec2b-1]
 
@@ -489,7 +490,7 @@ Die Verordnung vom 12. November 1986[^21-1] über die Erhaltung des Vorsorgeschu
 
 **Änderung bisherigen Rechts**
 
-...[^22-1]
+…[^22-1]
 
 [^22-1]: Die Änderungen können unter [AS 1994 2399](https://fedlex.data.admin.ch/eli/oc/1994/2399_2399_2399)konsultiert werden.
 
@@ -511,13 +512,13 @@ Die Verordnung vom 12. November 1986[^21-1] über die Erhaltung des Vorsorgeschu
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
-## Schlussbestimmung der Änderung vom 19. September 2008****
+## Schlussbestimmung der Änderung vom 19. September 2008
 
 [^u1-1]
 
 [^u1-1]: [AS 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650). Aufgehoben durch Ziff. I der V vom 17. Sept. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
 
-## Schlussbestimmung der Änderung vom 17. September 2010****
+## Schlussbestimmung der Änderung vom 17. September 2010
 
 [^u2-1]
 
@@ -527,7 +528,7 @@ Die Anlage der Gelder der Freizügigkeitsstiftungen ist bis zum 1. Januar 2012 a
 
 [^u2-2]: [AS 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)
 
-## Übergangsbestimmung zur Änderung vom 10. Juni 2016****
+## Übergangsbestimmung zur Änderung vom 10. Juni 2016
 
 [^u3-1]
 
@@ -535,7 +536,7 @@ Die Anlage der Gelder der Freizügigkeitsstiftungen ist bis zum 1. Januar 2012 a
 
 Im Jahr 2017 müssen die Vorsorgeeinrichtungen und die Einrichtungen, welche Freizügigkeitskonten oder -policen führen, ihre Meldepflicht nach Artikel 24*a* FZG bis am 31. März erfüllen.
 
-## Übergangsbestimmung zur Änderung vom 26. August 2020****
+## Übergangsbestimmung zur Änderung vom 26. August 2020
 
 [^u4-1]
 
@@ -543,7 +544,7 @@ Im Jahr 2017 müssen die Vorsorgeeinrichtungen und die Einrichtungen, welche Fre
 
 Für die Umrechnung des Rentenanteils in eine lebenslange Rente nach Artikel 19*h* beträgt der technische Zinssatz bis zum 31. Dezember 2020 2 Prozent.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 19*h*)
 
@@ -553,14 +554,14 @@ Anhang*[^t-1]*
 
 \1. Der dem berechtigten Ehegatten zugesprochene Rentenanteil wird wie folgt in eine lebenslange Rente umgerechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/image/image1.png)
 
 \2. Dabei bezeichnet:
 
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/de/xml/image/image2.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/de/xml/image/image3.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des berechtigten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/de/xml/image/image4.png) die mit der kollektiven Methode berechnete Anwartschaft des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters) auf die lebenslang in monatlichen Raten zahlbare Ehegattenrente;
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/de/xml/image/image5.png) das Verhältnis zwischen der Höhe der reglementarischen Ehegattenrente und der laufenden Rente des verpflichteten Ehegatten.
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/image/image2.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/image/image3.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des berechtigten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/image/image4.png) die mit der kollektiven Methode berechnete Anwartschaft des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters) auf die lebenslang in monatlichen Raten zahlbare Ehegattenrente;
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/de/xml/image/image5.png) das Verhältnis zwischen der Höhe der reglementarischen Ehegattenrente und der laufenden Rente des verpflichteten Ehegatten.
 
 \3. Die Barwerte und Anwartschaften werden auf der Basis der technischen Grundlagen BVG berechnet, die im für die Umrechnung massgebenden Zeitpunkt bestehen. Dabei werden die im Kalenderjahr der Berechnung geltenden unverstärkten Generationentafeln und der gewichtete Durchschnitt der technischen Durchschnittszinssätze gemäss dem zuletzt veröffentlichten Bericht der Oberaufsichtskommission Berufliche Vorsorge[^annexu1-lvlu1-1] zur finanziellen Lage der Vorsorgeeinrichtungen verwendet.
 

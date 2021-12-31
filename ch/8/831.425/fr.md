@@ -4,11 +4,11 @@ title: "Ordonnance du 3 octobre 1994 sur le libre passage dans la prévoyance pr
 short: OLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: fr
-version: 2020-10-01
+version: 2022-01-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20201001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20201001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20201001/fr"
 
 (Ordonnance sur le libre passage, OLP)
 
-du 3 octobre 1994 (Etat le 1<sup>er</sup> octobre 2020)
+du 3 octobre 1994 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -36,13 +36,14 @@ arrête:
 
 **Obligation d’informer**
 
-<sup>1</sup> L’employeur doit communiquer immédiatement à l’institution de prévoyance l’adresse, ou, à défaut de celle-ci, le numéro AVS de l’assuré dont les rapports de travail ont été résiliés ou dont le degré de l’activité lucrative a été modifié. Il lui indiquera également si la résiliation des rapports de travail ou la modification du degré de l’activité lucrative résulte d’une atteinte à la santé.
+<sup>1</sup> L’employeur doit communiquer immédiatement à l’institution de prévoyance l’adresse, ou, à défaut de celle-ci, le numéro AVS[^1-1] de l’assuré dont les rapports de travail ont été résiliés ou dont le degré de l’activité lucrative a été modifié. Il lui indiquera également si la résiliation des rapports de travail ou la modification du degré de l’activité lucrative résulte d’une atteinte à la santé.
 
 <sup>2</sup> Lorsqu’il quitte une institution de prévoyance, l’assuré lui indique à quelle nouvelle institution de prévoyance ou à quelle institution de libre passage elle doit transférer la prestation de sortie.
 
-<sup>3</sup> L’employeur doit communiquer à l’institution de prévoyance le nom des assurés qui se sont mariés ou qui ont conclu un partenariat enregistré.[^1-1]
+<sup>3</sup> L’employeur doit communiquer à l’institution de prévoyance le nom des assurés qui se sont mariés ou qui ont conclu un partenariat enregistré.[^1-2]
 
-[^1-1]: Nouvelle teneur selon le ch. I 2 de l’O du 29 sept. 2006 sur la mise en œuvre de la loi du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
+[^1-1]: La nouvelle expression, selon l’annexe ch. II 35 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022, ne concerne que les textes allemand et italien ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^1-2]: Nouvelle teneur selon le ch. I 2 de l’O du 29 sept. 2006 sur la mise en œuvre de la loi du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 2
 
@@ -195,7 +196,7 @@ Les art. 14 LFLP et 331*c* du code des obligations (CO)[^11-1] sont applicables 
 
 <sup>4</sup> Pour la police de libre passage, le montant du capital de prévoyance correspond à la réserve mathématique. [^13-3]
 
-<sup>5</sup> Pour un compte de libre passage sous forme d’épargne pure, le montant du capital de prévoyance correspond à la prestation de sortie apportée, majorée des intérêts, et, pour un compte de libre passage sous forme d’épargne liée à des placements (épargne-titres), à la valeur actuelle de ces derniers. Les frais administratifs et le coût des assurances complémentaires au sens de l’art. 10, al. 3, 2<sup>e</sup> phrase, peuvent être déduits si cela a été convenu par écrit. [^13-4]
+<sup>5</sup> Pour un compte de libre passage sous forme d’épargne pure, le montant du capital de prévoyance correspond à la prestation de sortie apportée, majorée des intérêts, et, pour un compte de libre passage sous forme d’épargne liée à des placements (épargne-titres), à la valeur actuelle de ces derniers. Les frais administratifs et le coût des assurances complémentaires au sens de l’art. 10, al. 3, 2<sup>e</sup> phrase, peuvent être déduits si cela a été convenu par écrit.[^13-4]
 
 [^13-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^13-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -315,7 +316,7 @@ Les titres doivent être déposés auprès d’une banque ou d’une maison de t
 [^19a-4]: Nouvelle teneur selon l’annexe 1 ch. II 6 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^19a-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 
-## Section 2*a***** Centrale du 2<sup>e</sup> pilier
+## Section 2*a* Centrale du 2<sup>e</sup> pilier
 
 [^sec2a-1]
 
@@ -395,7 +396,7 @@ Le fonds de garantie fait état, dans son rapport annuel, des activités de la C
 [^19f-1]: [RS 831.432.1](https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662)
 [^19f-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
-## Section 2*b***** Divorce et dissolution judiciaire du partenariat enregistré
+## Section 2*b* Divorce et dissolution judiciaire du partenariat enregistré
 
 [^sec2b-1]
 
@@ -407,7 +408,7 @@ Le fonds de garantie fait état, dans son rapport annuel, des activités de la C
 
 ### (art. 22*a*, al. 4, LFLP)
 
-<sup>1</sup> Si le conjoint débiteur atteint l’âge de la retraite pendant la procédure de divorce, l’institution de prévoyance peut réduire la prestation de sortie à partager au sens de l’art. 123 CC ainsi que la rente de vieillesse. La réduction correspond au maximum au montant dont auraient été amputées les prestations jusqu'à l’entrée en force du jugement de divorce si leur calcul s’était basé sur l’avoir diminué de la part transférée de la prestation de sortie. Le montant équivalent à la réduction est partagé par moitié entre les deux conjoints.
+<sup>1</sup> Si le conjoint débiteur atteint l’âge de la retraite pendant la procédure de divorce, l’institution de prévoyance peut réduire la prestation de sortie à partager au sens de l’art. 123 CC ainsi que la rente de vieillesse. La réduction correspond au maximum au montant dont auraient été amputées les prestations jusqu’à l’entrée en force du jugement de divorce si leur calcul s’était basé sur l’avoir diminué de la part transférée de la prestation de sortie. Le montant équivalent à la réduction est partagé par moitié entre les deux conjoints.
 
 <sup>2</sup> Si le conjoint débiteur perçoit une rente d’invalidité et qu’il atteint l’âge réglementaire de la retraite pendant la procédure de divorce, l’institution de prévoyance peut réduire la prestation de sortie au sens de l’art. 124, al. 1, CC ainsi que la rente de vieillesse. La réduction correspond au maximum au montant dont auraient été amputées les prestations entre le moment où l’âge réglementaire de la retraite a été atteint et l’entrée en force du jugement de divorce si leur calcul s’était basé sur l’avoir diminué de la part transférée de la prestation de sortie. Le montant équivalent à la réduction est partagé par moitié entre les deux conjoints.
 
@@ -488,7 +489,7 @@ L’ordonnance du 12 novembre 1986[^21-1] sur le maintien de la prévoyance et l
 
 **Modification du droit en vigueur**
 
-...[^22-1]
+…[^22-1]
 
 [^22-1]: Les mod. peuvent être consultées au [RO 1994 2399](https://fedlex.data.admin.ch/eli/oc/1994/2399_2399_2399).
 
@@ -510,13 +511,13 @@ L’ordonnance du 12 novembre 1986[^21-1] sur le maintien de la prévoyance et l
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1995.
 
-## Dispositions transitoires de la modification du 19 septembre 2008****
+## Dispositions transitoires de la modification du 19 septembre 2008
 
 [^u1-1]
 
 [^u1-1]: [RO 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650). Abrogées par le ch. I de l’O du 17 sept. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 4431](https://fedlex.data.admin.ch/eli/oc/2010/623)).
 
-## Dispositions transitoires de la modification du 17 septembre 2010****
+## Dispositions transitoires de la modification du 17 septembre 2010
 
 [^u2-1]
 
@@ -526,7 +527,7 @@ Le placement des fonds appartenant aux fondations de libre passage doit être ad
 
 [^u2-2]: [RO 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)
 
-## Disposition transitoire de la modification du 10 juin 2016****
+## Disposition transitoire de la modification du 10 juin 2016
 
 [^u3-1]
 
@@ -534,7 +535,7 @@ Le placement des fonds appartenant aux fondations de libre passage doit être ad
 
 En 2017, les institutions de prévoyance et les institutions qui gèrent des comptes ou des polices de libre passage doivent remplir leur obligation d’annoncer visée à l’art. 24*a* LFLP pour le 31 mars.
 
-## Disposition transitoire de la modification du 26 août 2020****
+## Disposition transitoire de la modification du 26 août 2020
 
 [^u4-1]
 
@@ -542,7 +543,7 @@ En 2017, les institutions de prévoyance et les institutions qui gèrent des com
 
 Pour la conversion de la part de rente en une rente viagère selon l’art. 19*h*, le taux d’intérêt technique est de 2 % jusqu’au 31 décembre 2020.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 19*h*)
 
@@ -552,15 +553,15 @@ Annexe*[^t-1]*
 
 \1. La part de rente attribuée au conjoint créancier est convertie en rente viagère selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/image/image1.png)
 
 \2. où:
 
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/fr/xml/image/image2.png) correspond à la valeur actuelle de la rente viagère due mensuellement au conjoint débiteur (en fonction de son sexe et de son âge);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/fr/xml/image/image3.png) correspond à la valeur effective de la rente viagère due mensuellement au conjoint créancier (en fonction de son sexe et de son âge);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/fr/xml/image/image4.png) correspond aux expectatives de rente du conjoint débiteur (en fonction de son sexe et de son âge) calculées selon la méthode collective sur la base de la rente viagère de conjoint due mensuellement;
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20201001/fr/xml/image/image5.png) correspond au rapport entre le montant de la rente de conjoint réglementaire et celui de la rente de vieillesse en cours du conjoint débiteur.
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/image/image2.png) correspond à la valeur actuelle de la rente viagère due mensuellement au conjoint débiteur (en fonction de son sexe et de son âge);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/image/image3.png) correspond à la valeur effective de la rente viagère due mensuellement au conjoint créancier (en fonction de son sexe et de son âge);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/image/image4.png) correspond aux expectatives de rente du conjoint débiteur (en fonction de son sexe et de son âge) calculées selon la méthode collective sur la base de la rente viagère de conjoint due mensuellement;
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20220101/fr/xml/image/image5.png) correspond au rapport entre le montant de la rente de conjoint réglementaire et celui de la rente de vieillesse en cours du conjoint débiteur.
 
 \3. Les valeurs actuelles et expectatives de rentes sont calculées d’après les bases techniques LPP pertinentes au moment déterminant pour le calcul. Les tables de génération sans renforcement pour l’année civile considérée et la moyenne pondérée des taux d’intérêt techniques moyens indiquées dans le dernier rapport sur la situation financière des institutions de prévoyance publié par la Commission de haute surveillance de la prévoyance professionnelle[^annexu1-lvlu1-1] sont appliquées.
 
-[^annexu1-lvlu1-1]: Consultable sous: www.oak-bv.admin.ch &gt; Thèmes &gt; Recensement situation financière
+[^annexu1-lvlu1-1]: Consultable sous: www.oak-bv.admin.ch &gt; Thèmes &gt; Recensement situation financière.
