@@ -3,20 +3,20 @@ canton: SO
 number: "121.1"
 title: Kantonsratsgesetz
 language: de
-version: 2017-10-01
-valid_until: 2021-12-31
-version_adopted: 2017-05-09
+version: 2022-01-01
+valid_until: 2022-08-31
+version_adopted: 2021-12-15
 adopted: 1989-09-24
 in_force: 1990-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/121.1"
-pdf: "https://bgs.so.ch/api/de/versions/4626/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5194/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsgesetz
 
-Vom 24.09.1989 (Stand 01.10.2017)
+Vom 24.09.1989 (Stand 01.01.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -102,13 +102,17 @@ beschliesst:
 
 **1. Präsidium**
 
-<sup>1</sup> Der Kantonsrat wählt einen Präsidenten und zwei Vizepräsidenten auf die Dauer eines Kalenderjahres.
+<sup>1</sup> Der Kantonsrat wählt einen Präsidenten und zwei Vizepräsidenten auf die Dauer eines Kalenderjahres. Der Präsident und die Vizepräsidenten bilden zusammen das Kantonsratspräsidium.
 
 <sup>2</sup> Der Präsident leitet die Verhandlungen, wacht über die Einhaltung der Geschäftsordnung und sorgt für Ruhe und Ordnung im Ratssaal.
 
 <sup>3</sup> Er bestimmt die Sessionsgeschäfte und ihre Reihenfolge.
 
 <sup>4</sup> Er sorgt dafür, dass Geschäfte, die dem Regierungsrat oder einer Kommission überwiesen worden sind, beförderlich behandelt werden.
+
+<sup>5</sup> Das Kantonsratspräsidium ist für die personelle Führung des Ratssekretärs gemäss § 11 und strategische Führung der Parlamentsdienste verantwortlich.
+
+<sup>6</sup> Der Präsident konsultiert seine beiden Vizepräsidenten bei allen wichtigen Präsidialentscheiden. Der 1. Vizepräsident übernimmt den Vorsitz der Sitzungen der Ratsleitung.
 
 #### § 9
 
@@ -140,19 +144,21 @@ beschliesst:
 
 **3. Ratsdienste a) Ratssekretär, Stellung**
 
-<sup>1</sup> Der Kantonsrat wählt einen Ratssekretär. Dieser ist dem Staatsschreiber unterstellt und leitet die Kantonsratsdienste der Staatskanzlei.
+<sup>1</sup> Der Kantonsrat wählt einen Ratssekretär. Dieser ist dem Kantonsratspräsidium unterstellt und leitet die Parlamentsdienste.
 
-<sup>2</sup> Der Ratssekretär erhält seine Aufträge vom Kantonsrat und seinen Organen.
+<sup>2</sup> Der Ratssekretär erhält seine Aufträge vom Kantonsratspräsidium.
 
-<sup>3</sup> Ist der Ratssekretär verhindert, wird er vom Staatsschreiber vertreten.
+<sup>3</sup> Das Kantonsratspräsidium regelt im Pflichtenheft eine parlamentsdienstinterne Stellvertretung des Ratssekretärs.
 
 #### § 12
 
 **Aufgaben**
 
-<sup>1</sup> Der Ratssekretär leitet das Sekretariat des Rates, der Ratsleitung und der Kommissionen.
+<sup>1</sup> Der Ratssekretär leitet die Parlamentsdienste.
 
-<sup>2</sup> Er unterstützt und berät den Ratspräsidenten, die Ratsleitung, die Kommissionen, die einzelnen Ratsmitglieder und die Fraktionen in ihrer parlamentarischen Arbeit.
+<sup>2</sup> Die Parlamentsdienste unterstützen und beraten den Ratspräsidenten, die Ratsleitung, die Kommissionen, die einzelnen Ratsmitglieder und die Fraktionen in ihrer parlamentarischen Arbeit.
+
+<sup>3</sup> Das Kantonsratspräsidium legt Einzelheiten im Pflichtenheft des Ratssekretärs sowie im Leistungsauftrag der Parlamentsdienste fest.
 
 #### § 13
 
