@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sulla protezione degli animali (LPAn)
 short: LPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/414"
 language: it
-version: 2017-05-01
+version: 2022-01-01
 adopted: 2005-12-16
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20170501/it/xml/fedlex-data-admin-ch-eli-cc-2008-414-20170501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20170501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-414-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20170501/it"
 
 (LPAn)
 
-del 16 dicembre 2005 (Stato 1° maggio 2017)
+del 16 dicembre 2005 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -462,7 +462,7 @@ L’autorità competente può vietare, a tempo determinato o indeterminato, la d
 
 **Infrazioni in materia di circolazione di animali e prodotti animali**[^27-1]
 
-<sup>1</sup> ... [^27-2]
+<sup>1</sup> ...[^27-2]
 
 <sup>2</sup> È punito con la multa fino a 20 000 franchi chiunque, intenzionalmente, viola le condizioni, le restrizioni o i divieti in materia di circolazione di animali e di prodotti animali di cui all’articolo 14. Il tentativo, la complicità e l’istigazione sono punibili. Se l’autore ha agito per negligenza, la pena è della multa.
 
@@ -517,21 +517,23 @@ L’articolo 6 della legge federale del 22 marzo 1974[^30-1] sul diritto penale 
 
 <sup>1</sup> Il perseguimento e il giudizio dei reati spettano ai Cantoni.
 
-<sup>2</sup> L’USAV persegue e giudica le infrazioni di cui all’articolo 27 capoverso 2 commesse all’atto dell’importazione, del transito e dell’esportazione di animali e di prodotti animali e accertate presso i posti d’ispezione frontalieri riconosciuti. Se vi è simultaneamente un’infrazione alla legge del 18 marzo 2005[^31-2] sulle dogane o alla legge del 12 giugno 2009[^31-3] sull’IVA, le infrazioni sono perseguite e giudicate dall’Amministrazione federale delle dogane.
+<sup>2</sup> L’USAV persegue e giudica le infrazioni di cui all’articolo 27 capoverso 2 commesse all’atto dell’importazione, del transito e dell’esportazione di animali e di prodotti animali e accertate presso i posti d’ispezione frontalieri riconosciuti. Se vi è simultaneamente un’infrazione alla legge del 18 marzo 2005[^31-2] sulle dogane o alla legge del 12 giugno 2009[^31-3] sull’IVA, le infrazioni sono perseguite e giudicate dall’Ufficio federale della dogana e della sicurezza dei confini (UDSC).[^31-4]
 
-<sup>3</sup> Se in caso di importazione, transito ed esportazione di animali e di prodotti animali al di fuori dei posti d’ispezione frontalieri riconosciuti vi è simultaneamente un’infrazione alla legge del 18 marzo 2005 sulle dogane o alla legge del 12 giugno 2009 sull’IVA, le infrazioni sono perseguite e giudicate dall’Amministrazione federale delle dogane.
+<sup>3</sup> Se in caso di importazione, transito ed esportazione di animali e di prodotti animali al di fuori dei posti d’ispezione frontalieri riconosciuti vi è simultaneamente un’infrazione alla legge del 18 marzo 2005 sulle dogane o alla legge del 12 giugno 2009 sull’IVA, le infrazioni sono perseguite e giudicate dall’UDSC.[^31-5]
 
-<sup>4</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 1, 2 o 3 e un’infrazione alla legge federale del 16 marzo 2012[^31-4] sulla circolazione delle specie di fauna e di flora protette, alla legge del 18 marzo 2005 sulle dogane, alla legge del 12 giugno 2009 sull’IVA, alla legge del 20 giugno 2014[^31-5] sulle derrate alimentari, alla legge del 1° luglio 1966[^31-6] sulle epizoozie, alla legge del 20 giugno 1986[^31-7] sulla caccia o alla legge federale del 21 giugno 1991[^31-8] sulla pesca, perseguibile dalla stessa autorità federale, è applicata la pena comminata per l’infrazione più grave; la pena può essere adeguatamente aumentata.[^31-9]
+<sup>4</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 1, 2 o 3 e un’infrazione alla legge federale del 16 marzo 2012[^31-6] sulla circolazione delle specie di fauna e di flora protette, alla legge del 18 marzo 2005 sulle dogane, alla legge del 12 giugno 2009 sull’IVA, alla legge del 20 giugno 2014[^31-7] sulle derrate alimentari, alla legge del 1° luglio 1966[^31-8] sulle epizoozie, alla legge del 20 giugno 1986[^31-9] sulla caccia o alla legge federale del 21 giugno 1991[^31-10] sulla pesca, perseguibile dalla stessa autorità federale, è applicata la pena comminata per l’infrazione più grave; la pena può essere adeguatamente aumentata.[^31-11]
 
 [^31-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6287](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Vedi art. 45*a* qui appresso.
 [^31-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^31-3]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^31-4]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^31-5]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^31-6]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^31-7]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^31-8]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^31-9]: Nuovo testo giusta il n. II 2 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^31-4]: Nuovo testo giusta il n. I 11 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^31-5]: Nuovo testo giusta il n. I 11 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^31-6]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^31-7]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^31-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^31-9]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^31-10]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^31-11]: Nuovo testo giusta il n. II 2 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Capitolo 6: Disposizioni finali
 
@@ -725,4 +727,4 @@ Indipendentemente dal fatto che entri prima in vigore la legge federale del 16 m
 Data dell’entrata in vigore: 1° settembre 2008[^46-2]
 
 [^46-1]: L’iniziativa popolare è stata ritirata ([FF 2006 341](https://fedlex.data.admin.ch/eli/fga/2006/20)).
-[^46-2]: DCF del 23 apr. 2008
+[^46-2]: DCF del 23 apr. 2008.

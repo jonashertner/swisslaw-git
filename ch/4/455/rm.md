@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart la protecziun dals animal
 short: LPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/414"
 language: rm
-version: 2017-05-01
+version: 2022-01-01
 adopted: 2005-12-16
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20170501/rm/xml/fedlex-data-admin-ch-eli-cc-2008-414-20170501-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20170501/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-414-20220101-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPAn)
 
-dals 16 da december 2005 (versiun dal 1. da matg 2017)
+dals 16 da december 2005 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -42,7 +42,7 @@ L’intent da questa lescha è quel da proteger la dignitad ed il bainesser da l
 
 **Champ d’applicaziun**
 
-<sup>1</sup> La lescha vala per vertebrads. Il Cussegl federal fixescha per tge invertebrads ch’ella è applitgabla en tge dimensiun. Per quest intent s’orientescha el a las experientschas scientificas davart la sensibilitad dals invertebrads.
+<sup>1</sup> La lescha vala per vertebrats. Il Cussegl federal fixescha per tge invertebrats ch’ella è applitgabla en tge dimensiun. Per quest intent s’orientescha el a las experientschas scientificas davart la sensibilitad dals invertebrats.
 
 <sup>2</sup> Resalvadas restan la Lescha da chatscha dals 20 da zercladur 1986[^2-1], la Lescha federala dal 1. da fanadur 1966[^2-2] davart la protecziun da la natira e da la patria, la Lescha federala dals 21 da zercladur 1991[^2-3] davart la pestga, la Lescha federala dals 13 da december 2002[^2-4] davart la furmaziun professiunala sco er la Lescha federala dal 1. da fanadur 1966[^2-5] davart epidemias d’animals.
 
@@ -188,7 +188,7 @@ Il Cussegl federal po determinar en tge secturs ordaifer l’agricultura che l�
 
 <sup>3</sup> Il Cussegl federal regla ils detagls da l’annunzia.
 
-### 3. secziun Circulaziun d’animals e da products d’animals****
+### 3. secziun Circulaziun d’animals e da products d’animals
 
 [^chap2-sec3-1]
 
@@ -208,7 +208,7 @@ Il Cussegl federal po determinar en tge secturs ordaifer l’agricultura che l�
 
 **Cundiziuns, restricziuns e scumonds[^14-1]**
 
-<sup>1</sup> Per motivs da la protecziun dals animals e da la protecziun da las spezias po il Cussegl federal liar a cundiziuns, restrenscher u scumandar l’import, il transit e l’export d’animals u da products d’animals[^14-2]. Resalvà resta l’import da charn koschra e da charn halal, per garantir il provediment suffizient cun tala charn da las communitads gidieua ed islamica. Il dretg d’importar e da retrair tala charn è reservà a las commembras ed als commembers da questas communitads sco er a lur persunas giuridicas ed a lur societads da persunas appartegnentas.
+<sup>1</sup> Per motivs da la protecziun dals animals e da la protecziun da las spezias po il Cussegl federal liar a cundiziuns, restrenscher u scumandar l’import, il transit e l’export d’animals u da products d’animals.[^14-2] Resalvà resta l’import da charn koschra e da charn halal, per garantir il provediment suffizient cun tala charn da las communitads gidieua ed islamica. Il dretg d’importar e da retrair tala charn è reservà a las commembras ed als commembers da questas communitads sco er a lur persunas giuridicas ed a lur societads da persunas appartegnentas.
 
 <sup>2</sup> Scumandads èn l’import, il transit e l’export da fols da giat e da chaun e da products da tals sco er il commerzi cun tals fols e cun tals products.[^14-3]
 
@@ -307,10 +307,10 @@ Suenter la terminaziun d’in experiment cun animals publitgescha l’Uffizi fed
 
 <sup>3</sup> El regla ils detagls, en spezial il grad da precisaziun da las indicaziuns che ston vegnir furnidas da las persunas responsablas per in experiment cun animals. En quest connex resguarda el ils interess publics u privats predominants degns da vegnir protegids.
 
-[^20a-1]: Integrà tras la cifra I da la LF dals 15 zerc. 2012, en vigur dapi il 1. da matg 2014 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742), [2013 3707](https://fedlex.data.admin.ch/eli/oc/2013/696); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^20a-2]: La designaziun da l’unitad administrativa è vegnida adattada per il 1. da schan. 2014 applitgond l’art. 16 al. 3 da l’Ordinaziun dals 17 da nov. 2004 davart las publicaziuns uffizialas (RO **2004** 4937). Questa adattaziun è vegnida fatga en tut il text.
+[^20a-1]: Integrà tras la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da matg 2014 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742), [2013 3707](https://fedlex.data.admin.ch/eli/oc/2013/696); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
+[^20a-2]: La designaziun da l’unitad administrativa è vegnida adattada per il 1. da schan. 2014 applitgond l’art. 16 al. 3 da l’Ordinaziun dals 17 da nov. 2004 davart las publicaziuns uffizialas ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Questa adattaziun è vegnida fatga en tut il text.
 
-### 6*a*. secziun**** Sistem d’infurmaziun en il sectur dals experiments cun animals
+### 6*a*. secziun Sistem d’infurmaziun en il sectur dals experiments cun animals
 
 [^chap2-sec6a-1]
 
@@ -468,7 +468,7 @@ Cun in chasti da detenziun da fin a 3 onns u cun in chasti pecuniar vegn chasti�
 <sup>2</sup> Cun ina multa da fin a 20 000 francs vegn chastià tgi che na resguarda intenziunadamain betg – en la circulaziun d’animals u da products d’animals – las cundiziuns, las restricziuns u ils scumonds tenor l’artitgel 14. L’emprova, la cumplicitad e l’instigaziun èn chastiablas. Sche la delinquenta u il delinquent agescha per negligientscha, vegn ella u el chastià cun ina multa.
 
 [^27-1]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^27-2]: Vesair er sut art. 45*a* qua sutvart.
+[^27-2]: Guardar er sut art. 45*a* qua sutvart.
 
 #### Art. 28
 
@@ -476,7 +476,7 @@ Cun in chasti da detenziun da fin a 3 onns u cun in chasti pecuniar vegn chasti�
 
 <sup>1</sup>
 
-Nun che l’artitgel 26 saja applitgabel, vegn chastià cun ina multa da fin a 20 000 francs tgi che intenziunadamain[^28-1]:
+Nun che l’artitgel 26 saja applitgabel, vegn chastià cun ina multa da fin a 20 000 francs tgi che intenziunadamain:[^28-1]
 
 - a. na resguarda betg las prescripziuns davart la tegnida d’animals;
 - b. tira u producescha animals cuntrari a las prescripziuns;
@@ -518,21 +518,23 @@ L’artitgel 6 da la Lescha federala dals 22 da mars 1974[^30-1] davart il dretg
 
 <sup>1</sup> La persecuziun ed il giudicament d’acts chastiabels èn chaussa dals chantuns.
 
-<sup>2</sup> Tenor l’artitgel 27 alinea 2 persequitescha e giuditgescha el cuntravenziuns che vegnan constatadas dals posts da controlla da cunfin admess a chaschun da l’import, dal transit e da l’export d’animals e da products d’animals. Sch’igl exista a medem temp ina cuntravenziun cunter la Lescha da duana dals 18 da mars 2005[^31-2] u cunter la Lescha dals 12 da zercladur 2009[^31-3] davart la taglia sin la plivalur, persequitescha e giuditgescha l’Administraziun federala da duana las cuntravenziuns.
+<sup>2</sup> Tenor l’artitgel 27 alinea 2 persequitescha e giuditgescha il USAV cuntravenziuns che vegnan constatadas dals posts da controlla da cunfin admess a chaschun da l’import, dal transit e da l’export d’animals e da products d’animals. Sch’igl exista a medem temp ina cuntravenziun cunter la Lescha da duana dals 18 da mars 2005[^31-2] u cunter la Lescha dals 12 da zercladur 2009[^31-3] davart la taglia sin la plivalur, persequitescha e giuditgescha l’Uffizi federal da la duana e da la segirezza dals cunfins (UDSC) las cuntravenziuns.[^31-4]
 
-<sup>3</sup> Sch’igl exista en cas da l’import, dal transit e da l’export d’animals e da products d’animals ordaifer ils posts da controlla da cunfin renconuschids a medem temp ina cuntravenziun cunter la Lescha da duana dals 18 da mars 2005 u cunter la Lescha dals 12 da zercladur 2009 davart la taglia sin la plivalur, persequitescha e giuditgescha l’Administraziun federala da duana las cuntravenziuns.
+<sup>3</sup> Sch’igl exista en cas da l’import, dal transit e da l’export d’animals e da products d’animals ordaifer ils posts da controlla da cunfin renconuschids a medem temp ina cuntravenziun cunter la Lescha da duana dals 18 da mars 2005 u cunter la Lescha dals 12 da zercladur 2009 davart la taglia sin la plivalur, persequitescha e giuditgescha il UDSC las cuntravenziuns.[^31-5]
 
-<sup>4</sup> Sch’ina cuntravenziun represchenta a medem temp ina cuntravenziun tenor ils alineas 1, 2 u 3, ch’è drizzada cunter la Lescha federala dals 16 da mars 2012[^31-4] davart il traffic cun spezias d’animals e da plantas protegidas, cunter la Lescha da duana dals 18 da mars 2005, cunter la Lescha dals 12 da zercladur 2009 davart la taglia sin la plivalur, cunter la Lescha da victualias dals 20 da zercladur 2014[^31-5], cunter la Lescha dal 1. da fanadur 1966[^31-6] davart epidemias d’animals, cunter la Lescha da chatscha dals 20 da zercladur 1986[^31-7] u cunter la Lescha federala dals 21 da zercladur 1991[^31-8] davart la pestga, e che sto vegnir persequitada da la medema autoritad federala, vegn applitgà il chasti smanatschà per la cuntravenziun la pli greva; quest chasti po vegnir augmentà adequatamain.[^31-9]
+<sup>4</sup> Sch’ina cuntravenziun represchenta a medem temp ina cuntravenziun tenor ils alineas 1, 2 u 3, ch’è drizzada cunter la Lescha federala dals 16 da mars 2012[^31-6] davart il traffic cun spezias d’animals e da plantas protegidas, cunter la Lescha da duana dals 18 da mars 2005, cunter la Lescha dals 12 da zercladur 2009 davart la taglia sin la plivalur, cunter la Lescha da victualias dals 20 da zercladur 2014[^31-7], cunter la Lescha dal 1. da fanadur 1966[^31-8] davart epidemias d’animals, cunter la Lescha da chatscha dals 20 da zercladur 1986[^31-9] u cunter la Lescha federala dals 21 da zercladur 1991[^31-10] davart la pestga, e che sto vegnir persequitada da la medema autoritad federala, vegn applitgà il chasti smanatschà per la cuntravenziun la pli greva; quest chasti po vegnir augmentà adequatamain.[^31-11]
 
-[^31-1]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. d’oct. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Vesair er art. 45*a* qua sutvart.
+[^31-1]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. d’oct. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Guardar er art. 45*a* qua sutvart.
 [^31-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^31-3]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^31-4]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^31-5]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^31-6]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^31-7]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^31-8]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^31-9]: Versiun tenor la cifra II 2 da l’agiunta da la Lescha da victualias dals 20 da zer. 2014, en vigur dapi il 1. da matg 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^31-4]: Versiun tenor la cifra I 11 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^31-5]: Versiun tenor la cifra I 11 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^31-6]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^31-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^31-8]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^31-9]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^31-10]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^31-11]: Versiun tenor la cifra II 2 da l’agiunta da la Lescha da victualias dals 20 da zer. 2014, en vigur dapi il 1. da matg 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## 6. chapitel Disposiziuns finalas
 
@@ -557,7 +559,7 @@ L’artitgel 6 da la Lescha federala dals 22 da mars 1974[^30-1] davart il dretg
 [^32-1]: Versiun da la segunda frasa tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^32-2]: Integrà tras la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^32-3]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
-[^32-4]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. d’oct. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Vesair er l'art. 45*a* qua sutvart.
+[^32-4]: Versiun tenor la cifra I da la LF dals 15 da zer. 2012, en vigur dapi il 1. d’oct. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Guardar er art. 45*a* qua sutvart.
 
 #### Art. 32a
 
@@ -685,7 +687,7 @@ Ils chantuns èn autorisads d’incassar taxas per:
 
 La Lescha federala dals 9 da mars 1978[^43-1] davart la protecziun dals animals vegn abolida.
 
-[^43-1]: [[AS 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562), [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 cifra 1, [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618)[4803](https://fedlex.data.admin.ch/eli/oc/2003/705)agiunta cifra 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 45]
+[^43-1]: [[AS 1981 562](https://fedlex.data.admin.ch/eli/oc/1981/562_562_562); [1991 2345](https://fedlex.data.admin.ch/eli/oc/1991/2345_2345_2345); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 cifra 1; [2003 4181](https://fedlex.data.admin.ch/eli/oc/2003/618), [4803](https://fedlex.data.admin.ch/eli/oc/2003/705)agiunta cifra 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 45]
 
 #### Art. 44
 
@@ -725,5 +727,5 @@ Independentamain dal fatg, sche la Lescha federala dals 16 da mars 2012[^45a-2] 
 
 Data da l’entrada en vigur: 1. da settember 2008[^46-2]
 
-[^46-1]: L’iniziativa dal pievel è vegnida retratga (vesair [BBl 2006 355](https://fedlex.data.admin.ch/eli/fga/2006/20)).
-[^46-2]: COCF dals 23 d’avr. 2008.
+[^46-1]: L’iniziativa dal pievel è vegnida retratga (guardar [BBl 2006 355](https://fedlex.data.admin.ch/eli/fga/2006/20)).
+[^46-2]: COCF dals 23 d’avr. 2008..

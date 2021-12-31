@@ -4,11 +4,11 @@ title: Animal Welfare Act of 16 December 2005 (AniWA)
 short: AniWA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/414"
 language: en
-version: 2017-05-01
+version: 2022-01-01
 adopted: 2005-12-16
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20170501/en/xml/fedlex-data-admin-ch-eli-cc-2008-414-20170501-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20170501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2008-414-20220101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (AniWA)
 
-of 16 December 2005 (Status as of 1 May 2017)
+of 16 December 2005 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -520,21 +520,23 @@ Article 6 of the Federal Act of 22 March 1974[^30-1] on Administrative Criminal 
 
 <sup>1</sup> The prosecution and adjudication of offences is a matter for the cantons.
 
-<sup>2</sup> The FSVO shall investigate and judge contraventions as defined in Article 27 paragraph 2 that come to light in the context of the import, transit or export of animals and animal products at the authorised border inspection points. If, at the same time, there has been a contravention of the Customs Act of 18 March 2005[^31-2] or the Value Added Tax Act of 12 June 2009[^31-3], the Federal Customs Administration shall investigate and judge the contraventions.
+<sup>2</sup> The FSVO shall investigate and judge contraventions as defined in Article 27 paragraph 2 that come to light in the context of the import, transit or export of animals and animal products at the authorised border inspection points. If, at the same time, there has been a contravention of the Customs Act of 18 March 2005[^31-2] or the Value Added Tax Act of 12 June 2009[^31-3], the Federal Office for Customs and Border Security (FOCBS) shall investigate and judge the contraventions.[^31-4]
 
-<sup>3</sup> If, in the import, transit or export of animals and animal products outside of the authorised border inspection points, there is at the same time a contravention of the Customs Act of 18 March 2005 or the Value Added Tax Act of 12 June 2009, the Federal Customs Administration shall investigate and judge the contraventions.
+<sup>3</sup> If, in the import, transit or export of animals and animal products outside of the authorised border inspection points, there is at the same time a contravention of the Customs Act of 18 March 2005 or the Value Added Tax Act of 12 June 2009, the FOCBS shall investigate and judge the contraventions.[^31-5]
 
-<sup>4</sup> If any contravention as defined in paragraph 1, 2 or 3 simultaneously constitutes a contravention to be prosecuted by the same federal authority under the Federal Act of 16 March 2012[^31-4] on Trade in Protected Animal and Plant Species, the Customs Act of 18 March 2005, the Value Added Tax Act of 12 June 2009, the Foodstuffs Act of 20 June 2014[^31-5], the Epizootic Diseases Act of 1 July 1966[^31-6], the Hunting Act of 20 June 1986[^31-7] or the Federal Act of 21 June 1991[^31-8] on Fishing, then the penalty for the most serious contravention applies; it may be increased commensurately.[^31-9]
+<sup>4</sup> If any contravention as defined in paragraph 1, 2 or 3 simultaneously constitutes a contravention to be prosecuted by the same federal authority under the Federal Act of 16 March 2012[^31-6] on Trade in Protected Animal and Plant Species, the Customs Act of 18 March 2005, the Value Added Tax Act of 12 June 2009, the Foodstuffs Act of 20 June 2014[^31-7], the Epizootic Diseases Act of 1 July 1966[^31-8], the Hunting Act of 20 June 1986[^31-9] or the Federal Act of 21 June 1991[^31-10] on Fishing, then the penalty for the most serious contravention applies; it may be increased commensurately.[^31-11]
 
 [^31-1]: Amended by No I of the FA of 15 June 2012, in force since 1 Oct. 2013 ([AS 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [BBl 2011 7055](https://fedlex.data.admin.ch/eli/fga/2011/1123)). See also Article 45*a* below.
 [^31-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^31-3]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^31-4]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^31-5]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^31-6]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^31-7]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^31-8]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^31-9]: Amended by Annex No II 2 of the Foodstuffs Act of 20 June 2014, in force since 1 May 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^31-4]: Amended by No I 11 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^31-5]: Amended by No I 11 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^31-6]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^31-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^31-8]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^31-9]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^31-10]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^31-11]: Amended by Annex No II 2 of the Foodstuffs Act of 20 June 2014, in force since 1 May 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Chapter 6 Final Provisions
 
@@ -730,4 +732,4 @@ Irrespective of whether the Federal Act of 16 March 2012[^45a-2] on the Trade in
 Commencement date: 1 September 2008[^46-2]
 
 [^46-1]: The popular initiative was withdrawn (see [BBl 2006 355](https://fedlex.data.admin.ch/eli/fga/2006/20)).
-[^46-2]: BRB 23 April 2008.
+[^46-2]: FCD of 23 April 2008.

@@ -4,11 +4,11 @@ title: Loi fédérale du 16 décembre 2005 sur la protection des animaux (LPA)
 short: LPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/414"
 language: fr
-version: 2017-05-01
+version: 2022-01-01
 adopted: 2005-12-16
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20170501/fr/xml/fedlex-data-admin-ch-eli-cc-2008-414-20170501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20170501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/414/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-414-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/414/20170501/fr"
 
 (LPA)
 
-du 16 décembre 2005 (Etat le 1<sup>er</sup> mai 2017)
+du 16 décembre 2005 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -150,11 +150,11 @@ Les bâtiments et installations destinés aux animaux de rente qui ont été aut
 
 Le Conseil fédéral peut déterminer dans quels secteurs, mis à part l’agriculture, l’emploi de gardiens d’animaux est nécessaire.
 
-### Section 2 Elevage d’animaux et modifications obtenues par génie génétique
+### Section 2 Élevage d’animaux et modifications obtenues par génie génétique
 
 #### Art. 10
 
-**Elevage et production d’animaux**
+**Élevage et production d’animaux**
 
 <sup>1</sup> L’utilisation de méthodes d’élevage et de reproduction naturelles et artificielles ne doit pas causer, chez les parents et chez les descendants, des douleurs, des maux, des dommages ou des troubles du comportement qui seraient liés directement ou indirectement au but de l’élevage; les dispositions relatives à l’expérimentation animale sont réservées.
 
@@ -294,7 +294,7 @@ Les expériences qui peuvent causer aux animaux des douleurs, des maux ou des do
 
 <sup>1</sup>
 
-A l’issue de toute expérience sur des animaux, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^20a-2] publie les informations suivantes:
+À l’issue de toute expérience sur des animaux, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^20a-2] publie les informations suivantes:
 
 - a. le titre de l’expérience et le domaine concerné;
 - b. le but de l’expérience;
@@ -351,7 +351,7 @@ Les personnes suivantes peuvent traiter des données personnelles, y compris des
 
 #### Art. 20d
 
-**Emoluments**
+**Émoluments**
 
 La Confédération perçoit des émoluments auprès des cantons pour l’utilisation du système d’information. Le Conseil fédéral en fixe le montant.
 
@@ -415,7 +415,7 @@ L’autorité compétente peut interdire pour une durée déterminée ou indéte
 
 **Intervention de l’autorité**
 
-<sup>1</sup> L’autorité compétente intervient immédiatement lorsqu’il est constaté que des animaux sont négligés ou que leurs conditions de détention sont totalement inappropriées. Elle peut les séquestrer préventivement et leur fournir un gîte approprié, aux frais du détenteur; si nécessaire, elle fait vendre ou mettre à mort les animaux. A cet effet, elle peut faire appel aux organes de police.
+<sup>1</sup> L’autorité compétente intervient immédiatement lorsqu’il est constaté que des animaux sont négligés ou que leurs conditions de détention sont totalement inappropriées. Elle peut les séquestrer préventivement et leur fournir un gîte approprié, aux frais du détenteur; si nécessaire, elle fait vendre ou mettre à mort les animaux. À cet effet, elle peut faire appel aux organes de police.
 
 <sup>2</sup> Le produit de la vente de l’animal revient à son détenteur, après déduction des frais de procédure.
 
@@ -461,7 +461,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 **Infractions en matière de circulation d’animaux et de produits d’origine animale**[^27-1]
 
-<sup>1</sup> …[^27-2]
+<sup>1</sup> ...[^27-2]
 
 <sup>2</sup> Quiconque, intentionnellement, contrevient à l’art. 14 soumettant à certaines conditions, limitant ou interdisant la circulation d’animaux ou de produits d’origine animale est puni d’une amende de 20 000 francs au plus. La tentative, la complicité et l’instigation sont punissables. Si l’auteur agit par négligence, il est puni de l’amende.
 
@@ -516,21 +516,23 @@ L’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administrati
 
 <sup>1</sup> La poursuite et le jugement des infractions sont du ressort des cantons.
 
-<sup>2</sup> L’OSAV poursuit et juge les infractions visées à l’art. 27, al. 1. Il poursuit et juge les infractions visées à l’art. 27, al. 2, qui sont constatées lors de l’importation, du transit ou de l’exportation d’animaux ou de produits d’origine animale aux postes d’inspection frontaliers agréés. S’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes[^31-2] ou à la loi du 12 juin 2009 sur la TVA[^31-3], l’Administration fédérale des douanes poursuit et juge les infractions.
+<sup>2</sup> L’OSAV poursuit et juge les infractions visées à l’art. 27, al. 2, qui sont constatées lors de l’importation, du transit ou de l’exportation d’animaux ou de produits d’origine animale aux postes d’inspection frontaliers agréés. S’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes[^31-2] ou à la loi du 12 juin 2009 sur la TVA[^31-3], l’Office fédéral de la douane et de la sécurité des frontières (OFDF) poursuit et juge les infractions.[^31-4]
 
-<sup>3</sup> En cas d’importation, de transit ou d’exportation d’animaux ou de produits d’origine animale en dehors des postes d’inspection frontaliers agréés, l’Administration fédérale des douanes poursuit et juge les infractions s’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes ou à la loi du 12 juin 2009 sur la TVA.
+<sup>3</sup> En cas d’importation, de transit ou d’exportation d’animaux ou de produits d’origine animale en dehors des postes d’inspection frontaliers agréés, l’OFDF poursuit et juge les infractions s’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes ou à la loi du 12 juin 2009 sur la TVA.[^31-5]
 
-<sup>4</sup> Si un acte constitue à la fois une infraction visée aux al. 1 à 3 et une infraction à la loi fédérale du 16 mars 2012 sur les espèces protégées[^31-4], à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires[^31-5], à la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^31-6], à la loi du 20 juin 1986 sur la chasse[^31-7] ou à la loi fédérale du 21 juin 1991 sur la pêche[^31-8] et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.[^31-9]
+<sup>4</sup> Si un acte constitue à la fois une infraction visée aux al. 1 à 3 et une infraction à la loi fédérale du 16 mars 2012 sur les espèces protégées[^31-6], à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires[^31-7], à la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^31-8], à la loi du 20 juin 1986 sur la chasse[^31-9] ou à la loi fédérale du 21 juin 1991 sur la pêche[^31-10] et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.[^31-11]
 
 [^31-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6505](https://fedlex.data.admin.ch/eli/fga/2011/1123)). Voir aussi l’art. 45*a*.
 [^31-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^31-3]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^31-4]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^31-5]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^31-6]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^31-7]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^31-8]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^31-9]: Nouvelle teneur selon le ch. I 2 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1er mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^31-4]: Nouvelle teneur selon le ch. I 11 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^31-5]: Nouvelle teneur selon le ch. I 11 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^31-6]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^31-7]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^31-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^31-9]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^31-10]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^31-11]: Nouvelle teneur selon le ch. I 2 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1er mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -654,7 +656,7 @@ Le Département fédéral de l’intérieur[^40-1] exerce la haute surveillance 
 
 #### Art. 41
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup> Sauf disposition contraire de la présente loi, l’exécution de cette dernière est exempte d’émoluments.
 
@@ -706,7 +708,7 @@ Les dispositions générales de la procédure fédérale sont applicables. Par a
 
 Quel que soit l’ordre dans lequel la loi fédérale du 16 mars 2012 sur les espèces protégées[^45a-2] ou la modification du 15 juin 2012 de la LPA entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, les art. 27, al. 1, 31 et 32, al. 5, LPA sont modifiés comme suit:
 
-…[^45a-3]
+...[^45a-3]
 
 [^45a-1]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6279](https://fedlex.data.admin.ch/eli/oc/2012/742); [FF 2011 6505](https://fedlex.data.admin.ch/eli/fga/2011/1123)).
 [^45a-2]: [FF 2012 3227](https://fedlex.data.admin.ch/eli/fga/2012/458)
