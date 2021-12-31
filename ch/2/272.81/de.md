@@ -3,11 +3,11 @@ sr: "272.81"
 title: Verordnung vom 16. April 2020 über Massnahmen in der Justiz und im Verfahrensrecht im Zusammenhang mit dem Coronavirus (Covid-19-Verordnung Justiz und Verfahrensrecht)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/234"
 language: de
-version: 2020-10-13
+version: 2022-01-01
 adopted: 2020-04-16
 in_force: 2020-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/234/20201013/de/xml/fedlex-data-admin-ch-eli-cc-2020-234-20201013-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/234/20201013/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/234/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-234-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/234/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,24 +16,26 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/234/20201013/de"
 
 (Covid-19-Verordnung Justiz und Verfahrensrecht)**[^t-1]**
 
-vom 16. April 2020 (Stand am 13. Oktober 2020)
+vom 16. April 2020 (Stand am 1. Januar 2022)
 
 [^t-1]: Ausdruck gemäss Ziff. I 2 der V vom 7. Okt. 2020 über die Abstützung der Covid-19-Verordnungen auf das Covid-19-Gesetz, in Kraft seit 8. Okt. 2020 ([AS 2020 3971](https://fedlex.data.admin.ch/eli/oc/2020/737)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 7 des Covid-19-Gesetzes vom 25. September 2020[^ingress-1],[^ingress-2]
+gestützt auf Artikel 7 Buchstabe b des Covid-19-Gesetzes vom 25. September 2020[^ingress-1],[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
-[^ingress-2]: Fassung gemäss Ziff. I 2 der V vom 7. Okt. 2020 über die Abstützung der Covid-19-Verordnungen auf das Covid-19-Gesetz, in Kraft seit 8. Okt. 2020 ([AS 2020 3971](https://fedlex.data.admin.ch/eli/oc/2020/737)).
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 898](https://fedlex.data.admin.ch/eli/oc/2021/898)).
 
-## 1. Abschnitt: Präventionsmassnahmen bei Verhandlungen und Einvernahmen
+## 1. Abschnitt: ...
 
 #### Art. 1
 
-Bei der Durchführung von Verfahrenshandlungen mit Teilnahme von Parteien, Zeuginnen und Zeugen oder Dritten, wie Verhandlungen und Einvernahmen, haben Gerichte und Behörden die angesichts der Empfehlungen des Bundesamtes für Gesundheit angezeigten Massnahmen betreffend Hygiene und soziale Distanz einzuhalten.
+[^1-1]
+
+[^1-1]: Aufgehoben durch Ziff. I der V vom 17. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 898](https://fedlex.data.admin.ch/eli/oc/2021/898)).
 
 ## 2. Abschnitt: Zivilverfahren
 
@@ -98,51 +100,18 @@ Beim Einsatz von Video- und Telefonkonferenzen ist sicherzustellen, dass:
 
 **Besondere Massnahmen in Verfahren des Kindes- und Erwachsenenschutzes**
 
-In Abweichung von den Artikeln 314*a* Absatz 1, 447 und 450*e* des Zivilgesetzbuches[^6-1] können persönliche Anhörungen durch ein einzelnes Mitglied oder eine Delegation der Kindes- oder Erwachsenenschutzbehörde oder der gerichtlichen Beschwerdeinstanz erfolgen und mittels Video- oder Telefonkonferenz gemäss Artikel 4 durchgeführt werden. Sofern eine Verhandlung stattfindet, kann diese ebenfalls mittels Video- oder Telefonkonferenz durchgeführt werden.
+In Abweichung von den Artikeln 314*a* Absatz 1, 447 und 450*e* des Zivilgesetzbuches[^6-1] können persönliche Anhörungen mittels Video- oder Telefonkonferenz gemäss Artikel 4 durchgeführt werden.[^6-2] Sofern eine Verhandlung stattfindet, kann diese ebenfalls mittels Video- oder Telefonkonferenz durchgeführt werden.
 
 [^6-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^6-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 898](https://fedlex.data.admin.ch/eli/oc/2021/898)).
 
-## 3. Abschnitt: Betreibungs- und Konkursverfahren****
+## 3. Abschnitt: ...
 
-[^sec3-1]
+#### Art. 7–9
 
-[^sec3-1]: Fassung gemäss Ziff. I der V vom 25. Sept. 2020, in Kraft seit 26. Sept. 2020 ([AS 2020 3821](https://fedlex.data.admin.ch/eli/oc/2020/707)).
+[^79-1]
 
-#### Art. 7
-
-**Zustellung ohne Empfangsbestätigung**
-
-<sup>1</sup>
-
-In Abweichung von den Artikeln 34, 64 Absatz 2 und 72 Absatz 2 des Bundesgesetzes vom 11. April 1889[^7-1] über Schuldbetreibung und Konkurs (SchKG) kann die Zustellung von Mitteilungen, Verfügungen und Entscheiden der Betreibungs- und Konkursbehörden sowie von Betreibungsurkunden gegen Zustellnachweis ohne Empfangsbestätigung erfolgen, wenn:
-
-- a. ein erster ordentlicher Zustellversuch gescheitert ist; und
-- b. die Empfängerin oder der Empfänger spätestens am Vortag der Zustellung durch telefonische, elektronische oder sonstige Mitteilung über die Zustellung verständigt worden ist.[^7-2]
-
-<sup>2</sup> Der Zustellnachweis gemäss Absatz 1 tritt an die Stelle der Bescheinigung gemäss Artikel 72 Absatz 2 SchKG.
-
-[^7-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^7-2]: Fassung gemäss Ziff. I der V vom 25. Sept. 2020, in Kraft seit 26. Sept. 2020 ([AS 2020 3821](https://fedlex.data.admin.ch/eli/oc/2020/707)).
-
-#### Art. 8
-
-**Wiederherstellung**
-
-In Abweichung von Artikel 33 Absatz 4 SchKG[^8-1] obliegt der Entscheid über die Wiederherstellung einer versäumten Frist dem zuständigen Betreibungs- oder Konkursamt, wenn die Frist durch eine Zustellung gemäss Artikel 7 ausgelöst wurde.
-
-[^8-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-
-#### Art. 9
-
-**Versteigerung über Online-Versteigerungsplattform**
-
-<sup>1</sup> In Abweichung von den Artikeln 125–129 und 257–259 SchKG[^9-1] kann die Verwertung von beweglichen Vermögensstücken neben der öffentlichen Versteigerung und dem Freihandverkauf auch durch eine Versteigerung über eine öffentlich zugängliche Online-Plattform erfolgen.
-
-<sup>2</sup> Die Modalitäten der Online-Versteigerung werden vom Betreibungsbeamten so festgelegt, dass die Interessen der Beteiligten bestmögliche Berücksichtigung finden. Der Betreibungsbeamte informiert die Schuldnerin oder den Schuldner, die Gläubigerin oder den Gläubiger sowie die beteiligten Dritten vorgängig über die Online-Versteigerung und ihre Modalitäten.
-
-<sup>3</sup> Die Artikel 127, 128 und 129 Absatz 2 SchKG gelten sinngemäss.
-
-[^9-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^79-1]: Aufgehoben durch Ziff. I der V vom 17. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 898](https://fedlex.data.admin.ch/eli/oc/2021/898)).
 
 ## 4. Abschnitt: Inkrafttreten und Geltungsdauer
 
@@ -154,4 +123,7 @@ In Abweichung von Artikel 33 Absatz 4 SchKG[^8-1] obliegt der Entscheid über di
 
 <sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2021 verlängert.[^10-1]
 
+<sup>4</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2022 verlängert.[^10-2]
+
 [^10-1]: Eingefügt durch Ziff. I der V vom 25. Sept. 2020, in Kraft seit 26. Sept. 2020 ([AS 2020 3821](https://fedlex.data.admin.ch/eli/oc/2020/707)).
+[^10-2]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 898](https://fedlex.data.admin.ch/eli/oc/2021/898)).

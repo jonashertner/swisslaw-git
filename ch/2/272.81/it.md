@@ -3,11 +3,11 @@ sr: "272.81"
 title: Ordinanza del 16 aprile 2020 sulle misure nella giustizia e nel diritto procedurale in relazione al coronavirus (Ordinanza COVID-19 sulla giustizia e sul diritto procedurale)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/234"
 language: it
-version: 2020-10-13
+version: 2022-01-01
 adopted: 2020-04-16
 in_force: 2020-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/234/20201013/it/xml/fedlex-data-admin-ch-eli-cc-2020-234-20201013-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/234/20201013/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/234/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-234-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/234/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,22 +16,24 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/234/20201013/it"
 
 (Ordinanza COVID-19 sulla giustizia e sul diritto procedurale)
 
-del 16 aprile 2020 (Stato 13 ottobre 2020) (Stato 13 ottobre 2020)
+del 16 aprile 2020 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 7 della legge COVID-19 del 25 settembre 2020[^ingress-1],[^ingress-2]
+visto l’articolo 7 lettera b della legge COVID-19 del 25 settembre 2020[^ingress-1],[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
-[^ingress-2]: Nuovo testo giusta il n. I 2 dell’O del 7 ott. 2020 sul rimando delle ordinanze COVID-19 alla legge COVID-19, in vigore dall’8 ott. 2020 ([RU 2020 3971](https://fedlex.data.admin.ch/eli/oc/2020/737)).
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 898](https://fedlex.data.admin.ch/eli/oc/2021/898)).
 
-## Sezione 1: Misure preventive per udienze ed esami testimoniali
+## Sezione 1: ...
 
 #### Art. 1
 
-Nell’ambito degli atti procedurali con partecipazione di parti, testimoni o terzi, quali udienze ed esami testimoniali, i giudici e le autorità adottano le misure concernenti l’igiene e il distanziamento sociale necessarie secondo le raccomandazioni dell’Ufficio federale della sanità pubblica.
+[^1-1]
+
+[^1-1]: Abrogato dal n. I dell’O del 17 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 898](https://fedlex.data.admin.ch/eli/oc/2021/898)).
 
 ## Sezione 2: Procedimento civile
 
@@ -96,51 +98,18 @@ In caso d’impiego di videoconferenze e teleconferenze occorre assicurarsi che:
 
 **Misure speciali nelle procedure di protezione dei minori e degli adulti**
 
-In deroga agli articoli 314*a* capoverso 1, 447 e 450*e* del Codice civile[^6-1], le audizioni possono essere effettuate da un singolo membro o da una delegazione dell’autorità di protezione dei minori o degli adulti o dell’autorità giudiziaria di reclamo e mediante videoconferenza o teleconferenza secondo l’articolo 4. Un eventuale dibattimento può pure essere effettuato mediante videoconferenza o teleconferenza.
+In deroga agli articoli 314*a* capoverso 1, 447 e 450*e* del Codice civile[^6-1], le audizioni possono essere effettuate mediante videoconferenza o teleconferenza secondo l’articolo 4.[^6-2] Un eventuale dibattimento può pure essere effettuato mediante videoconferenza o teleconferenza.
 
 [^6-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^6-2]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 898](https://fedlex.data.admin.ch/eli/oc/2021/898)).
 
-## Sezione 3: Procedura di esecuzione e fallimento****
+## Sezione 3: ...
 
-[^sec3-1]
+#### Art. 7 a 9
 
-[^sec3-1]: Nuovo testo giusta il n. I dell’O del 25 set. 2020, in vigore dal 26 set. 2020 ([RU 2020 3821](https://fedlex.data.admin.ch/eli/oc/2020/707)).
+[^79-1]
 
-#### Art. 7
-
-**Notificazione senza ricevuta**
-
-<sup>1</sup>
-
-In deroga agli articoli 34, 64 capoverso 2 e 72 capoverso 2 della legge federale dell’11 aprile 1889[^7-1] sulla esecuzione e sul fallimento (LEF), gli avvisi e le decisioni delle autorità d’esecuzione e dei fallimenti nonché gli atti esecutivi possono essere notificati con avviso di ricevimento senza ricevuta se:
-
-- a. un primo tentativo di notificazione per via ordinaria è fallito; e
-- b. il destinatario è stato informato in merito alla notificazione mediante una comunicazione telefonica, elettronica o di altro tipo al più tardi il giorno precedente la notificazione.[^7-2]
-
-<sup>2</sup> L’avviso di ricevimento di cui al capoverso 1 sostituisce l’attestazione di cui all’articolo 72 capoverso 2 LEF.
-
-[^7-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^7-2]: Nuovo testo giusta il n. I dell’O del 25 set. 2020, in vigore dal 26 set. 2020 ([RU 2020 3821](https://fedlex.data.admin.ch/eli/oc/2020/707)).
-
-#### Art. 8
-
-**Restituzione**
-
-In deroga all’articolo 33 capoverso 4 LEF[^8-1], la decisione relativa alla restituzione di un termine non osservato spetta all’ufficio d’esecuzione o all’ufficio dei fallimenti competente, se il termine decorre con una notificazione ai sensi dell’articolo 7.
-
-[^8-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-
-#### Art. 9
-
-**Realizzazione tramite piattaforme d’incanto in linea**
-
-<sup>1</sup> In deroga agli articoli 125–129 e 257‑259 LEF[^9-1], i beni mobili possono essere realizzati, oltre che mediante pubblico incanto e la vendita a trattative private, anche mediante incanto tramite una piattaforma in linea accessibile al pubblico.
-
-<sup>2</sup> Le modalità dell’incanto tramite una piattaforma in linea sono determinate dall’ufficiale esecutore con il maggior riguardo possibile agli interessi delle parti. L’ufficiale esecutore informa precedentemente il debitore, il creditore e i terzi interessati in merito all’incanto tramite piattaforma in linea.
-
-<sup>3</sup> Gli articoli 127, 128 e 129 capoverso 2 LEF si applicano per analogia.
-
-[^9-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^79-1]: Abrogati dal n. I dell’O del 17 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 898](https://fedlex.data.admin.ch/eli/oc/2021/898)).
 
 ## Sezione 4: Entrata in vigore e durata di validità
 
@@ -152,4 +121,7 @@ In deroga all’articolo 33 capoverso 4 LEF[^8-1], la decisione relativa alla re
 
 <sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2021.[^10-1]
 
+<sup>4</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2022.[^10-2]
+
 [^10-1]: Introdotto dal n. I dell’O del 25 set. 2020, in vigore dal 26 set. 2020 ([RU 2020 3821](https://fedlex.data.admin.ch/eli/oc/2020/707)).
+[^10-2]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 898](https://fedlex.data.admin.ch/eli/oc/2021/898)).
