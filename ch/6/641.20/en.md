@@ -4,11 +4,11 @@ title: "Federal Act of 12 June 2009 on Value Added Tax (Value Added Tax Act, VAT
 short: VAT Act
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: en
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Act, VAT Act)
 
-of 12 June 2009 (Status as of 1 January 2020)
+of 12 June 2009 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -550,7 +550,7 @@ Exempt from the tax are:
 
 - 1\. the supply of goods, unless provided for use or exploitation, that are transported or dispatched directly abroad;
 - 2\.[^23-1] the provision for use or exploitation, in particular the leasing or chartering of goods, provided the goods are predominantly used abroad by the recipient of the supply itself;
-- 3\.[^23-2] the supply of goods that were demonstrably subject to customs control on Swiss territory in connection with a transit procedure (Art. 49 CustA[^23-3]), a customs warehousing procedure (Art. 50–57 CustA), a temporary admission procedure (Art. 58 CustA), or inward processing procedure (Art. 59 CustA), provided the procedure was concluded in the proper manner or with subsequent approval from the Federal Customs Administration (FCA);
+- 3\.[^23-2] the supply of goods that were demonstrably subject to customs control on Swiss territory in connection with a transit procedure (Art. 49 CustA[^23-3]), a customs warehousing procedure (Art. 50–57 CustA), a temporary admission procedure (Art. 58 CustA), or inward processing procedure (Art. 59 CustA), provided the procedure was concluded in the proper manner or with subsequent approval from the Federal Office for Customs and Border Security (FOCBS);
 - 3<sup>bis</sup>.[^23-4] the supply of goods which because of storage in a bonded warehouse (Art. 62–66 CustA) were demonstrably subject to customs control on Swiss territory and which have not retrospectively lost this customs status;
 - 4\. the movement or arranging for the movement of goods abroad for reasons unrelated to a supply of goods;
 - 5\. the transport or dispatch of goods in connection with the import of goods and all related supplies as far as the destination to which the goods are to be transported at the time the tax debt is incurred under Article 56; if no tax debt is incurred, the decisive time is governed by Article 69 CustA by analogy;
@@ -574,7 +574,7 @@ Exempt from the tax are:
 <sup>5</sup> The Federal Department of Finance (FDF) shall regulate the conditions by which domestic supplies of goods are exempt from the tax if being exported in tourist traffic and shall specify the evidence required.
 
 [^23-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^23-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^23-2]: Amended by No I 18 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^23-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^23-4]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-5]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -1062,14 +1062,15 @@ For the tax on the import of goods, the customs legislation applies, unless the 
 Joint and several liability under Article 70 paragraph 3 CustA does not apply to persons who file customs declarations commercially (Art. 109 CustA) if the importer:
 
 - a. is entitled to make an input tax deduction (Art. 28);
-- b.[^51-2] has the import tax debt charged via the FCA’s centralised settlement procedure (CSP) account; and
+- b.[^51-2] has the import tax debt charged via the FOCBS’s[^51-3] centralised settlement procedure (CSP) account; and
 - c. has commissioned the person who files customs declarations commercially to act as his direct agent.
 
-<sup>3</sup> The FCA may require the person who issues customs declarations commercially to provide evidence of his authority as an agent.[^51-3]
+<sup>3</sup> The FOCBS may require the person who issues customs declarations commercially to provide evidence of his authority as an agent.[^51-4]
 
 [^51-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^51-2]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^51-3]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^51-3]: Expression in accordance with No I 18 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This change has been made throughout the text.
+[^51-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 52
 
@@ -1141,7 +1142,7 @@ The assessment basis must include, if not already included:
 - a. the taxes, customs duties and other charges incurred outside Swiss territory and as a result of the import, with the exception of the Value Added Tax being levied;
 - b. [^54-4] the costs of the transport or dispatch and all related supplies as far as the destination on Swiss territory to which the goods are to be transported at the time import tax debt under Article 56 is incurred; if this location is unknown, the destination is the place where the trans-shipment takes place on Swiss territory after import tax debt is incurred.
 
-<sup>4</sup> If doubt exists as to the correctness of the customs declaration or values are lacking, the FCA may estimate the tax assessment basis at its fair discretion.
+<sup>4</sup> If doubt exists as to the correctness of the customs declaration or values are lacking, the FOCBS may estimate the tax assessment basis at its fair discretion.
 
 <sup>5</sup> Price or value information expressed in foreign currency adduced in determining the assessment basis must be converted into Swiss francs at the exchange rate (offer) prevailing on the stock exchange day immediately prior to the incurrence of the import tax debt under Article 56.
 
@@ -1172,7 +1173,7 @@ The assessment basis must include, if not already included:
 
 <sup>4</sup> The import tax debt prescribes at the same time as the customs debt (Art. 75 CustA). The prescriptive period is suspended for as long as criminal proceedings in respect of tax offences under this Act are in process and the person liable for payment has been informed (Art. 104 para. 4).
 
-<sup>5</sup> If the import tax debt changes as a result of subsequent adjustment of the consideration, in particular as a result of revision of the contract or because of price adjustments between related businesses based on recognised guidelines, the tax that has been assessed too low must be notified to the FCA within 30 days of the adjustment. The notification and the adjustment of the tax assessment may be dispensed with if the additional tax payable could be deducted as input tax under Article 28.
+<sup>5</sup> If the import tax debt changes as a result of subsequent adjustment of the consideration, in particular as a result of revision of the contract or because of price adjustments between related businesses based on recognised guidelines, the tax that has been assessed too low must be notified to the FOCBS within 30 days of the adjustment. The notification and the adjustment of the tax assessment may be dispensed with if the additional tax payable could be deducted as input tax under Article 28.
 
 [^56-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -1223,11 +1224,11 @@ Interest on late payment is not imposed if:
 
 <sup>1</sup> Where excess taxes have been imposed or taxes are not due, there is a right to a refund.
 
-<sup>2</sup> Not refunded are excess taxes imposed, taxes not due and taxes no longer due as a result of a subsequent assessment of the goods under Articles 34 and 51 paragraph 3 CustA[^59-1] or because of their re-export under Articles 49 paragraph 4, 51 paragraph 3, 58 paragraph 3 and 59 paragraph 4 CustA if the importer is registered on Swiss territory as a taxable person and may deduct the tax payable or paid to the FCA as input tax under Article 28.
+<sup>2</sup> Not refunded are excess taxes imposed, taxes not due and taxes no longer due as a result of a subsequent assessment of the goods under Articles 34 and 51 paragraph 3 CustA[^59-1] or because of their re-export under Articles 49 paragraph 4, 51 paragraph 3, 58 paragraph 3 and 59 paragraph 4 CustA if the importer is registered on Swiss territory as a taxable person and may deduct the tax payable or paid to the FOCBS as input tax under Article 28.
 
 <sup>3</sup> The right prescribes five years from the end of the calendar year in which it was constituted.
 
-<sup>4</sup> The prescriptive period is interrupted if the right is enforced against the FCA.
+<sup>4</sup> The prescriptive period is interrupted if the right is enforced against the FOCBS.
 
 <sup>5</sup> It is suspended for as long as appeal proceedings in respect of the enforcement of the right are pending.
 
@@ -1255,7 +1256,7 @@ The tax is refunded only if:
 
 <sup>3</sup> The refund may in a specific case be made dependent on proper declaration in the import state.
 
-<sup>4</sup> Applications for a refund must be submitted on declaration for the export procedure. Subsequent refund applications may be considered if they are submitted in writing to the FCA within 60 days of issue of the export document with which the goods were assessed under the export procedure (Art. 61 CustA[^60-1]).
+<sup>4</sup> Applications for a refund must be submitted on declaration for the export procedure. Subsequent refund applications may be considered if they are submitted in writing to the FOCBS within 60 days of issue of the export document with which the goods were assessed under the export procedure (Art. 61 CustA[^60-1]).
 
 [^60-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -1267,17 +1268,17 @@ The tax is refunded only if:
 
 Refund interest shall be paid in respect of the period that elapses before the refund is paid:
 
-- a. in the case of refunds of excess tax or tax not due under Article 59: from the 61<sup>st</sup> day after receipt of the written claim by the FCA;
-- b. in respect of refunds of the tax as a result of re-export under Article 60: from the 61<sup>st</sup> day after receipt of the application by the FCA;
+- a. in the case of refunds of excess tax or tax not due under Article 59: from the 61<sup>st</sup> day after receipt of the written claim by the FOCBS;
+- b. in respect of refunds of the tax as a result of re-export under Article 60: from the 61<sup>st</sup> day after receipt of the application by the FOCBS;
 - c. in respect of procedures with conditional payment liability (Art. 49, 51, 58 and 59 CustA[^61-1]): from the 61<sup>st</sup> day after due conclusion of the procedure.
 
 <sup>2</sup>
 
 The interest-free period of 60 days does not begin to run until:
 
-- a. all documents necessary to establish the facts and evaluate the request have been received by the FCA;
+- a. all documents necessary to establish the facts and evaluate the request have been received by the FOCBS;
 - b. the objection to the assessment decision satisfies the requirements of Article 52 of the Federal Act of 20 December 1968[^61-2] on Administrative Procedure (APA);
-- c. the bases for calculating the tax on the consideration under Article 54 paragraph 1 letter d are known to the FCA.
+- c. the bases for calculating the tax on the consideration under Article 54 paragraph 1 letter d are known to the FOCBS.
 
 <sup>3</sup> Refund interest is not paid on a tax remission under Article 64.
 
@@ -1288,15 +1289,15 @@ The interest-free period of 60 days does not begin to run until:
 
 **Competence and procedure**
 
-<sup>1</sup> The import tax is levied by the FCA. It issues the necessary orders and rulings.
+<sup>1</sup> The import tax is levied by the FOCBS. It issues the necessary orders and rulings.
 
-<sup>2</sup> The executive bodies of the FCA are authorised to undertake all the investigations that are necessary to examine the facts significant to the assessment of the tax. Articles 68–70, 73–75 and 79 apply by analogy. The FCA may, by agreement with the FTA, transfer investigations relating to persons registered on Swiss territory as taxable persons to the FTA.
+<sup>2</sup> The executive bodies of the FOCBS are authorised to undertake all the investigations that are necessary to examine the facts significant to the assessment of the tax. Articles 68–70, 73–75 and 79 apply by analogy. The FOCBS may, by agreement with the FTA, transfer investigations relating to persons registered on Swiss territory as taxable persons to the FTA.
 
 #### Art. 63
 
 **Transfer of the tax payment**
 
-<sup>1</sup> Taxable importers registered with the FTA as taxable persons that report using the effective method may, instead of paying the tax payable on the import of goods to the FCA, declare it in their periodic tax return to the FTA (transfer procedure), provided they regularly import and export goods and significant input tax surpluses result.
+<sup>1</sup> Taxable importers registered with the FTA as taxable persons that report using the effective method may, instead of paying the tax payable on the import of goods to the FOCBS, declare it in their periodic tax return to the FTA (transfer procedure), provided they regularly import and export goods and significant input tax surpluses result.
 
 <sup>2</sup> If the goods imported under the transfer procedure are further processed or finished on Swiss territory after the import, the FTA may authorise taxable persons to supply the processed or finished goods to other taxable persons without calculating the tax.
 
@@ -1310,7 +1311,7 @@ The interest-free period of 60 days does not begin to run until:
 
 A remission may be granted for all or part of the import tax, if:
 
-- a. goods held in the custody of the FCA or made subject to a transit procedure (Art. 49 CustA[^64-1]), a customs warehousing procedure (Art. 50–57 CustA), a temporary admission procedure (Art. 58 CustA) or a procedure of inward processing (Art. 59 CustA) are destroyed in whole or in part by chance, act of God or with official approval;
+- a. goods held in the custody of the FOCBS or made subject to a transit procedure (Art. 49 CustA[^64-1]), a customs warehousing procedure (Art. 50–57 CustA), a temporary admission procedure (Art. 58 CustA) or a procedure of inward processing (Art. 59 CustA) are destroyed in whole or in part by chance, act of God or with official approval;
 - b. goods released for free circulation by official decree are destroyed in whole or in part or are again exported from Swiss territory;
 - c. a subsequent claim in terms of Article 85 CustA would, in view of special circumstances, constitute an unreasonable burden on the taxable person under Article 51;
 - d. the person responsible for the customs declaration (e.g. the forwarding agent) cannot recover the tax from the importer because of the latter's insolvency, and the importer was at the time of the acceptance of the customs declaration registered as a taxable person on Swiss territory; insolvency of the importer must be assumed if repayment of the debt due to the person responsible for the customs declaration appears to be seriously at risk.
@@ -1332,6 +1333,8 @@ The period for submission of an application is:
 
 #### Art. 65
 
+**Principles[^65-1]**
+
 <sup>1</sup> The FTA is responsible for the imposition and the collection of the domestic and the acquisition tax.
 
 <sup>2</sup> In order to ensure that the tax is imposed and collected in accordance with the law, the FTA shall issue all the necessary instructions, unless the issue of such is expressly reserved to another authority.
@@ -1341,6 +1344,20 @@ The period for submission of an application is:
 <sup>4</sup> All administrative acts must be carried out expeditiously.
 
 <sup>5</sup> The taxable person may be burdened by the tax imposition only to the extent this is absolutely necessary for enforcement of this Act.
+
+[^65-1]: Inserted by No I 2 of the FA of 18 June 2021 on Electronic Procedures in the Field of Taxation, in force since 1 Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
+#### Art. 65a
+
+**Electronic procedures**[^65a-1]
+
+<sup>1</sup> The Federal Council may stipulate the electronic conduct of procedures under this Act. In doing so, it shall regulate the modalities of such conduct.
+
+<sup>2</sup> The FTA shall ensure the authenticity and integrity of the data in electronic procedures.
+
+<sup>3</sup> For the electronic filing of submissions whose signature is required by law, it may accept a different electronic confirmation of the information by the person submitting it from a qualified electronic signature.
+
+[^65a-1]: Inserted by No I 2 of the FA of 18 June 2021 on Electronic Procedures in the Field of Taxation, in force since 1 Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### Chapter 2 Rights and Obligations of the Taxable Person
 
@@ -1556,7 +1573,7 @@ The information system may contain the following personal data, including sensit
 
 <sup>1</sup> In order to fulfil its statutory duties under Article 10 of the Federal Audit Office Act of 28 June 1967[^76b-2], the Swiss Federal Audit Office shall have access to the FTA information system.
 
-<sup>2</sup> The FTA may disclose data under Article 76*a* paragraph 3 or make it accessible online to the persons in the FCA entrusted with the imposition and collection of VAT or with the conduct of criminal and administrative proceedings, provided this is necessary for them to fulfil their duties.
+<sup>2</sup> The FTA may disclose data under Article 76*a* paragraph 3 or make it accessible online to the persons in the FOCBS entrusted with the imposition and collection of VAT or with the conduct of criminal and administrative proceedings, provided this is necessary for them to fulfil their duties.
 
 [^76b-1]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^76b-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
@@ -1974,7 +1991,7 @@ If a fine not exceeding 100,000 francs would be applicable and if the tracing of
 
 <sup>3</sup> The imposition of a penalty under Article 14 ACLA precludes the imposition of an additional penalty for the same criminal act under Articles 96 and 97 of this Act.
 
-<sup>4</sup> If an act meets the criterion of evasion of import tax or of receipt of untaxed goods as well as offence to be pursued by the FCA against other federal tax decrees, the penalty for the most serious violation shall be imposed; it may be increased appropriately.
+<sup>4</sup> If an act meets the criterion of evasion of import tax or of receipt of untaxed goods as well as offence to be pursued by the FOCBS against other federal tax decrees, the penalty for the most serious violation shall be imposed; it may be increased appropriately.
 
 <sup>5</sup> If the perpetrator through one or more acts fulfils the requirements for the imposition of two or more penalties that fall within the area of competence of the FTA, the penalty for the most serious violation shall be imposed; it may be increased appropriately.
 
@@ -2005,9 +2022,9 @@ If the taxable person reports himself for an offence under this Act before it co
 
 <sup>1</sup> With the exception of Articles 63 paragraphs 1 and 2, 69 paragraph 2, 73 paragraph 1 last sentence and 77 paragraph 4, the ACLA[^103-1] governs prosecution.
 
-<sup>2</sup> Prosecution is the responsibility of the FTA for domestic tax and acquisition tax, and of the FCA for import tax.
+<sup>2</sup> Prosecution is the responsibility of the FTA for domestic tax and acquisition tax, and of the FOCBS for import tax.
 
-<sup>3</sup> In closely related criminal cases in which both the FTA and the FCA have jurisdiction, the FTA may by agreement with the FCA decide to join the prosecutions under one of the two authorities.
+<sup>3</sup> In closely related criminal cases in which both the FTA and the FOCBS have jurisdiction, the FTA may by agreement with the FOCBS decide to join the prosecutions under one of the two authorities.
 
 <sup>4</sup> Prosecution may be dispensed with if the level of culpability and the consequences of the crime are negligible (Art. 52 SCC[^103-2]). In these cases a non-intervention or no-proceedings ruling is issued.
 
@@ -2127,7 +2144,7 @@ The FDF:
 
 The VAT Act of 2 September 1999[^110-1] is repealed.
 
-[^110-1]: [[AS 2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)[1134](https://fedlex.data.admin.ch/eli/oc/2000/183),[2001 3086](https://fedlex.data.admin.ch/eli/oc/2001/462),[2002 1480](https://fedlex.data.admin.ch/eli/oc/2002/232),[2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Annex No II 5, [2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591)Annex No 2,[2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 52 [2673](https://fedlex.data.admin.ch/eli/oc/2006/408)[5379](https://fedlex.data.admin.ch/eli/oc/2006/822)Annex No II 5,[2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Annex No 7 [3425](https://fedlex.data.admin.ch/eli/oc/2007/418)Annex No 1 [6637](https://fedlex.data.admin.ch/eli/oc/2007/860)Annex No II 5]
+[^110-1]: [[AS 2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212), [1134](https://fedlex.data.admin.ch/eli/oc/2000/183);[2001 3086](https://fedlex.data.admin.ch/eli/oc/2001/462);[2002 1480](https://fedlex.data.admin.ch/eli/oc/2002/232);[2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Annex No II 5; [2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591)Annex No 2;[2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 52, [2673](https://fedlex.data.admin.ch/eli/oc/2006/408), [5379](https://fedlex.data.admin.ch/eli/oc/2006/822)Annex No II 5;[2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Annex No 7, [3425](https://fedlex.data.admin.ch/eli/oc/2007/418)Annex No 1, [6637](https://fedlex.data.admin.ch/eli/oc/2007/860)Annex No II 5]
 
 #### Art. 111
 

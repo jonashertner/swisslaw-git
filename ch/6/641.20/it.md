@@ -4,11 +4,11 @@ title: "Legge federale del 12 giugno 2009 concernente l'imposta sul valore aggiu
 short: LIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2009-615-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-615-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20200101/it"
 
 (Legge sull’IVA, LIVA)
 
-del 12 giugno 2009 (Stato 1° gennaio 2020)
+del 12 giugno 2009 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -159,7 +159,7 @@ In caso di fornitura di un bene dall’estero in territorio svizzero, il luogo d
 - b. esegua forniture di cui al capoverso 1 lettera b con beni che, ai sensi dell’articolo 53 capoverso 1 lettera a, in ragione dell’ammontare d’imposta irrilevante sono esenti dall’imposta sull’importazione, e realizzi con tali forniture una cifra d’affari di almeno 100 000 franchi all’anno.[^7-2]
 
 [^7-1]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^7-2]: Introdotto dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018, la lett. b entra in 1° gen. 2019 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^7-2]: Introdotto dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018, la lett. b dal 1° gen. 2019 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 8
 
@@ -521,7 +521,7 @@ Sono esclusi dall’imposta:
 [^21-12]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^21-13]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 [^21-14]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
-[^21-15]: Nuovo testo giusta il n. II 4 dell’all. alla LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^21-15]: Nuovo testo giusta l’all. n. II 4 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^21-16]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
 [^21-17]: Abrogato dal n. I della L del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^21-18]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)). La correzione della Commissione di redazione dell’AF del 31 ago. 2017, pubblicata il 12 set. 2017, concerne soltanto il testo francese ([RU 2017 4857](https://fedlex.data.admin.ch/eli/oc/2017/526)).
@@ -559,7 +559,7 @@ Sono esenti dall’imposta:
 
 - 1\. la fornitura di beni trasportati o spediti direttamente all’estero, eccettuata la messa a disposizione degli stessi per l’uso o il godimento;
 - 2\.[^23-1] la messa a disposizione di beni per l’uso o il godimento, segnatamente la loro locazione o il loro noleggio, purché il destinatario stesso della fornitura utilizzi i beni prevalentemente all’estero;
-- 3\.[^23-2] la fornitura di beni per i quali è comprovato che sono rimasti sotto vigilanza doganale sul territorio svizzero nell’ambito del regime di transito (art. 49 LD[^23-3]), del regime di deposito doganale (art. 50–57 LD), del regime di ammissione temporanea (art. 58 LD) o del regime del perfezionamento attivo (art. 59 LD), purché il regime sia concluso regolarmente o con autorizzazione successiva dell’Amministrazione federale delle dogane (AFD);
+- 3\.[^23-2] la fornitura di beni per i quali è comprovato che sono rimasti sotto vigilanza doganale sul territorio svizzero nell’ambito del regime di transito (art. 49 LD[^23-3]), del regime di deposito doganale (art. 50–57 LD), del regime di ammissione temporanea (art. 58 LD) o del regime di perfezionamento attivo (art. 59 LD), purché il regime sia concluso regolarmente o con autorizzazione successiva dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC);
 - 3<sup>bis</sup>.[^23-4] la fornitura di beni per i quali è comprovato che sono rimasti sotto vigilanza doganale sul territorio svizzero a causa del loro immagazzinamento in un deposito franco doganale (art. 62–66 LD) e che non hanno perso questo statuto doganale con effetto retroattivo;
 - 4\.[^23-5] il trasferimento di beni all’estero, da sé o tramite terzi, purché non sia in relazione con una fornitura;
 - 5\. il trasporto o la spedizione di beni in relazione a un’importazione di beni e tutte le prestazioni connesse, fino al luogo di destinazione in cui i beni devono essere trasportati al momento della nascita del debito fiscale secondo l’articolo 56; in assenza di debito fiscale, il momento determinante è stabilito in applicazione analogica dell’articolo 69 LD;
@@ -583,7 +583,7 @@ Sono esenti dall’imposta:
 <sup>5</sup> Il Dipartimento federale delle finanze (DFF) disciplina le condizioni alle quali le forniture sul territorio svizzero in vista dell’esportazione nel traffico turistico sono esenti da imposta e definisce le prove necessarie a tale fine.[^23-9]
 
 [^23-1]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^23-2]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^23-2]: Nuovo testo giusta il n. I 18 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^23-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^23-4]: Introdotto dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-5]: [RU 2010 1469](https://fedlex.data.admin.ch/eli/oc/2010/203)
@@ -670,7 +670,7 @@ L’imposta ammonta al 2,5 per cento (aliquota ridotta):[^25-2]
 
 [^25-1]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2017 sull’aumento temporaneo delle aliquote dell’imposta sul valore aggiunto per finanziare l’ampliamento dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2018 e con effetto al più tardi fino al 31 dic. 2030 ([RU 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
 [^25-2]: Nuovo testo giusta il n. I dell’O dell’8 nov. 2017 sull’aumento temporaneo delle aliquote dell’imposta sul valore aggiunto per finanziare l’ampliamento dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2018 e con effetto al più tardi fino al 31 dic. 2030 ([RU 2017 6305](https://fedlex.data.admin.ch/eli/oc/2017/695)).
-[^25-3]: Nuovo testo giusta il n. II 3 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^25-3]: Nuovo testo giusta l’all. n. II 3 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 [^25-4]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^25-5]: Introdotta dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^25-6]: Nuovo testo giusta il n. IV della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -697,7 +697,7 @@ La fattura deve specificare chiaramente il fornitore, il destinatario e il gener
 
 <sup>3</sup> Sulle fatture emesse da casse automatizzate (scontrini di cassa) non devono figurare indicazioni sul destinatario della prestazione, sempre che la controprestazione esposta sul giustificativo non superi un importo stabilito dal Consiglio federale.
 
-[^26-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 18 giu. 2010 sul numero d’identificazione delle imprese, in vigore dal 1° gen. 2011 ([RU 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 6817](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
+[^26-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 giu. 2010 sul numero d’identificazione delle imprese, in vigore dal 1° gen. 2011 ([RU 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 6817](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
 
 #### Art. 27
 
@@ -1085,14 +1085,15 @@ La legislazione doganale è applicabile all’imposta sull’importazione di ben
 La responsabilità solidale secondo l’articolo 70 capoverso 3 LD delle persone che allestiscono a titolo professionale dichiarazioni doganali (art. 109 LD) decade se:
 
 - a. l’importatore ha diritto alla deduzione dell’imposta precedente (art. 28);
-- b.[^51-2] il debito fiscale è addebitato all’importatore sul conto della procedura accentrata di conteggio dell’AFD (PCD); e
+- b.[^51-2] il debito fiscale è addebitato all’importatore sul conto della procedura accentrata di conteggio dell’UDSC[^51-3] (PCD); e
 - c. l’importatore ha conferito un mandato di rappresentanza diretta alla persona che allestisce a titolo professionale dichiarazioni doganali.
 
-<sup>3</sup> L’AFD può esigere dalla persona che allestisce a titolo professionale dichiarazioni doganali la prova del suo potere di rappresentanza.[^51-3]
+<sup>3</sup> L’UDSC può esigere dalla persona che allestisce a titolo professionale dichiarazioni doganali la prova del suo potere di rappresentanza.[^51-4]
 
 [^51-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^51-2]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^51-3]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^51-3]: Nuova espr. giusta il n. I 18 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^51-4]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 52
 
@@ -1167,7 +1168,7 @@ Nella base di calcolo devono essere integrati, se non sono già compresi:
 - a. le imposte, i dazi e altre tasse dovuti fuori dal territorio svizzero e per l’importazione, tranne l’imposta sul valore aggiunto da riscuotere;
 - b.[^54-6] le spese di trasporto o di spedizione e di tutte le prestazioni connesse sino al luogo di destinazione in territorio svizzero, dove i beni devono essere trasportati al momento della nascita del debito fiscale secondo l’articolo 56; se questo luogo è sconosciuto, vale come luogo di destinazione quello in cui il bene viene scaricato sul territorio svizzero dopo la nascita del debito fiscale.
 
-<sup>4</sup> Se sussistono dubbi circa l’esattezza della dichiarazione doganale o mancano indicazioni del valore, l’AFD può procedere alla stima della base di calcolo dell’imposta entro i limiti del suo potere d’apprezzamento.
+<sup>4</sup> Se sussistono dubbi circa l’esattezza della dichiarazione doganale o mancano indicazioni del valore, l’UDSC può procedere alla stima della base di calcolo dell’imposta entro i limiti del suo potere d’apprezzamento.
 
 <sup>5</sup> Per la determinazione della base di calcolo dell’imposta, i prezzi o i valori in valuta estera devono essere convertiti in franchi svizzeri al corso del cambio (vendita) in borsa la vigilia della nascita del debito fiscale secondo l’articolo 56.
 
@@ -1200,7 +1201,7 @@ Nella base di calcolo devono essere integrati, se non sono già compresi:
 
 <sup>4</sup> Il debito fiscale si prescrive simultaneamente all’obbligazione doganale (art. 75 LD). La prescrizione è sospesa finché è in corso un procedimento penale in materia fiscale secondo la presente legge, purché lo stesso sia stato annunciato al debitore (art. 104 cpv. 4).[^56-2]
 
-<sup>5</sup> Se il debito fiscale è modificato a causa di un adeguamento successivo della controprestazione, segnatamente a causa di modifiche contrattuali o di adeguamenti di prezzo operati tra imprese collegate in base a direttive riconosciute, l’imposta di cui è stato calcolato un importo insufficiente dev’essere annunciata all’AFD entro 30 giorni da tale adeguamento. L’annuncio e la rettifica possono essere omessi se l’imposta da pagare successivamente può essere dedotta a titolo d’imposta precedente conformemente all’articolo 28.
+<sup>5</sup> Se il debito fiscale è modificato a causa di un adeguamento successivo della controprestazione, segnatamente a causa di modifiche contrattuali o di adeguamenti di prezzo operati tra imprese collegate in base a direttive riconosciute, l’imposta di cui è stato calcolato un importo insufficiente dev’essere annunciata all’UDSC entro 30 giorni da tale adeguamento. L’annuncio e la rettifica possono essere omessi se l’imposta da pagare successivamente può essere dedotta a titolo d’imposta precedente conformemente all’articolo 28.
 
 [^56-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^56-2]: [RU 2009 7129](https://fedlex.data.admin.ch/eli/oc/2009/864)
@@ -1252,11 +1253,11 @@ Non viene riscosso un interesse moratorio se:
 
 <sup>1</sup> Per le imposte riscosse in eccedenza o non dovute sussiste il diritto alla restituzione.
 
-<sup>2</sup> Non sono restituite le imposte riscosse in eccedenza, non dovute o non più dovute a causa dell’imposizione dei beni secondo gli articoli 34 e 51 capoverso 3 LD[^59-1] o a causa della loro riesportazione secondo gli articoli 49 capoverso 4, 51 capoverso 3, 58 capoverso 3 e 59 capoverso 4 LD, quando l’importatore è registrato come contribuente sul territorio svizzero e può dedurre l’imposta da versare o versata all’AFD a titolo d’imposta precedente secondo l’articolo 28.
+<sup>2</sup> Non sono restituite le imposte riscosse in eccedenza, non dovute o non più dovute a causa dell’imposizione dei beni secondo gli articoli 34 e 51 capoverso 3 LD[^59-1] o a causa della loro riesportazione secondo gli articoli 49 capoverso 4, 51 capoverso 3, 58 capoverso 3 e 59 capoverso 4 LD, quando l’importatore è registrato come contribuente sul territorio svizzero e può dedurre l’imposta da versare o versata all’UDSC a titolo d’imposta precedente secondo l’articolo 28.
 
 <sup>3</sup> Tale diritto si prescrive in cinque anni dalla fine dell’anno civile in cui è sorto.
 
-<sup>4</sup> La prescrizione è interrotta da qualsiasi esercizio di tale diritto nei confronti dell’AFD.
+<sup>4</sup> La prescrizione è interrotta da qualsiasi esercizio di tale diritto nei confronti dell’UDSC.
 
 <sup>5</sup> La prescrizione è sospesa fintanto che il diritto rivendicato è oggetto di una procedura di ricorso.
 
@@ -1284,7 +1285,7 @@ L’imposta è restituita soltanto se:
 
 <sup>3</sup> In determinati casi la restituzione può essere fatta dipendere da una regolare dichiarazione fatta nel Paese d’importazione.
 
-<sup>4</sup> Le richieste di restituzione devono essere presentate al momento della dichiarazione per il regime d’esportazione. Richieste successive di restituzione possono essere prese in considerazione se sono presentate per scritto all’AFD entro 60 giorni dall’emissione del documento d’esportazione con il quale i beni sono stati sottoposti al regime d’esportazione (art. 61 LD[^60-1]).
+<sup>4</sup> Le richieste di restituzione devono essere presentate al momento della dichiarazione per il regime d’esportazione. Richieste successive di restituzione possono essere prese in considerazione se sono presentate per scritto all’UDSC entro 60 giorni dall’emissione del documento d’esportazione con il quale i beni sono stati sottoposti al regime d’esportazione (art. 61 LD[^60-1]).
 
 [^60-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -1296,17 +1297,17 @@ L’imposta è restituita soltanto se:
 
 Finché non ha luogo il pagamento è versato un interesse rimuneratorio:
 
-- a. in caso di restituzione di un’imposta riscossa in eccedenza o di un’imposta non dovuta secondo l’articolo 59, a partire dal 61° giorno dalla ricezione della richiesta scritta da parte dell’AFD;
-- b. in caso di restituzione dell’imposta a causa di riesportazione secondo l’articolo 60, a partire dal 61° giorno dal ricevimento della richiesta da parte dell’AFD;
+- a. in caso di restituzione di un’imposta riscossa in eccedenza o di un’imposta non dovuta secondo l’articolo 59, a partire dal 61° giorno dalla ricezione della richiesta scritta da parte dell’UDSC;
+- b. in caso di restituzione dell’imposta a causa di riesportazione secondo l’articolo 60, a partire dal 61° giorno dal ricevimento della richiesta da parte dell’UDSC;
 - c. in caso di regime con obbligo di pagamento condizionato (art. 49, 51, 58 e 59 LD[^61-1]), a partire dal 61° giorno dalla conclusione regolamentare della procedura.
 
 <sup>2</sup>
 
 Il termine di 60 giorni senza interessi decorre soltanto quando:
 
-- a. tutti i documenti necessari all’accertamento della fattispecie e alla valutazione della richiesta sono giunti all’AFD;
+- a. tutti i documenti necessari all’accertamento della fattispecie e alla valutazione della richiesta sono giunti all’UDSC;
 - b.[^61-2] il ricorso contro la decisione d’imposizione soddisfa i requisiti di cui all’articolo 52 della legge federale del 20 dicembre 1968[^61-3] sulla procedura amministrativa (PA);
-- c. le basi per il calcolo dell’imposta sulla controprestazione secondo l’articolo 54 capoverso 1 lettera d sono note all’AFD.
+- c. le basi per il calcolo dell’imposta sulla controprestazione secondo l’articolo 54 capoverso 1 lettera d sono note all’UDSC.
 
 <sup>3</sup> Non è versato un interesse rimuneratorio in caso di condono dell’imposta secondo l’articolo 64.
 
@@ -1318,15 +1319,15 @@ Il termine di 60 giorni senza interessi decorre soltanto quando:
 
 **Competenza e procedura**
 
-<sup>1</sup> L’imposta sull’importazione è riscossa dall’AFD. Quest’ultima emana le disposizioni e decisioni necessarie.
+<sup>1</sup> L’imposta sull’importazione è riscossa dall’UDSC. Quest’ultimo emana le disposizioni e decisioni necessarie.
 
-<sup>2</sup> Gli organi dell’AFD hanno la facoltà di procedere a tutti gli accertamenti necessari alla verifica dei fatti determinanti per la tassazione. Gli articoli 68–70, 73–75 e 79 sono applicabili per analogia. Previa intesa, l’AFD può affidare all’AFC gli accertamenti presso i contribuenti registrati sul territorio svizzero.
+<sup>2</sup> Gli organi dell’UDSC hanno la facoltà di procedere a tutti gli accertamenti necessari alla verifica dei fatti determinanti per la tassazione. Gli articoli 68–70, 73–75 e 79 sono applicabili per analogia. Previa intesa, l’UDSC può affidare all’AFC gli accertamenti presso i contribuenti registrati sul territorio svizzero.
 
 #### Art. 63
 
 **Riporto del pagamento dell’imposta**
 
-<sup>1</sup> Gli importatori registrati presso l’AFC che allestiscono il rendiconto secondo il metodo effettivo possono dichiarare l’imposta dovuta sull’importazione di beni nel rendiconto d’imposta periodico che trasmettono all’AFC (procedura di riporto del pagamento), invece di versarla all’AFD, purché importino ed esportino regolarmente beni e da ciò risultino regolarmente importanti eccedenze di imposta precedente.
+<sup>1</sup> Gli importatori registrati presso l’AFC che allestiscono il rendiconto secondo il metodo effettivo possono dichiarare l’imposta dovuta sull’importazione di beni nel rendiconto d’imposta periodico che trasmettono all’AFC (procedura di riporto del pagamento), invece di versarla all’UDSC, purché importino ed esportino regolarmente beni e da ciò risultino regolarmente importanti eccedenze di imposta precedente.
 
 <sup>2</sup> Se i beni importati con la procedura di riporto di pagamento dell’imposta sono ulteriormente lavorati o trasformati in territorio svizzero, l’AFC può autorizzare i contribuenti a fornire detti beni lavorati o trasformati ad altri contribuenti senza calcolare l’imposta.
 
@@ -1340,7 +1341,7 @@ Il termine di 60 giorni senza interessi decorre soltanto quando:
 
 L’imposta sull’importazione può essere condonata in tutto o in parte se:
 
-- a. beni sotto la custodia dell’AFD o in regime di transito (art. 49 LD[^64-1]), di deposito doganale (art. 50–57 LD), di ammissione temporanea (art. 58 LD) o di perfezionamento attivo (art. 59 LD) sono totalmente o parzialmente distrutti per caso fortuito, per forza maggiore o con il consenso delle autorità;
+- a. beni sotto la custodia dell’UDSC o in regime di transito (art. 49 LD[^64-1]), di deposito doganale (art. 50–57 LD), di ammissione temporanea (art. 58 LD) o di perfezionamento attivo (art. 59 LD) sono totalmente o parzialmente distrutti per caso fortuito, per forza maggiore o con il consenso delle autorità;
 - b. beni in libera pratica doganale sono totalmente o parzialmente distrutti oppure riesportati dal territorio svizzero in virtù di una decisione dell’autorità;
 - c. date le circostanze particolari, una riscossione posticipata ai sensi dell’articolo 85 LD graverebbe in modo sproporzionato il debitore secondo l’articolo 51;
 - d. l’incaricato della dichiarazione doganale (p. es. lo spedizioniere) non può trasferire l’imposta a causa dell’insolvibilità dell’importatore e, al momento dell’accettazione della dichiarazione doganale, l’importatore era registrato come contribuente sul territorio svizzero; l’insolvibilità dell’importatore è data quando la riscossione da parte dell’incaricato appare seriamente messa in pericolo.
@@ -1366,6 +1367,8 @@ Il termine per la presentazione di una domanda è:
 
 #### Art. 65
 
+**Principi[^65-1]**
+
 <sup>1</sup> L’AFC è competente per la determinazione e la riscossione dell’imposta sulle prestazioni eseguite sul territorio svizzero e dell’imposta sull’acquisto.
 
 <sup>2</sup> Essa prende le decisioni necessarie per una determinazione e una riscossione dell’imposta conformi alla legge, in quanto la loro emanazione non sia espressamente riservata a un’altra autorità.
@@ -1375,6 +1378,20 @@ Il termine per la presentazione di una domanda è:
 <sup>4</sup> Tutti gli atti amministrativi devono essere eseguiti sollecitamente.
 
 <sup>5</sup> L’onere amministrativo che la riscossione dell’imposta comporta per il contribuente non può eccedere quanto assolutamente necessario per l’applicazione della presente legge.
+
+[^65-1]: Introdotta dal n. I 2 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
+#### Art. 65a
+
+**Procedure elettroniche**[^65a-1]
+
+<sup>1</sup> Il Consiglio federale può prescrivere lo svolgimento per via elettronica delle procedure previste dalla presente legge. Ne disciplina le modalità.
+
+<sup>2</sup> In caso di svolgimento di procedure per via elettronica, l’AFC garantisce l’autenticità e l’integrità dei dati trasmessi.
+
+<sup>3</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, l’AFC può riconoscere, invece della firma elettronica qualificata, un’altra modalità di conferma dei dati per via elettronica da parte del contribuente o del richiedente.
+
+[^65a-1]: Introdotto dal n. I 2 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### Capitolo 2: Diritti e obblighi del contribuente
 
@@ -1389,7 +1406,7 @@ Il termine per la presentazione di una domanda è:
 <sup>3</sup> Chi è assoggettato soltanto all’imposta sull’acquisto (art. 45 cpv. 2) deve annunciarsi per scritto all’AFC entro 60 giorni dalla fine dell’anno civile in cui si sono verificate le condizioni dell’assoggettamento e dichiarare nel contempo le prestazioni acquisite.
 
 [^66-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-[^66-2]: Nuovo testo del per. giusta il n. 2 dell’all. alla LF del 18 giu. 2010 sul numero d’identificazione delle imprese, in vigore dal 1° gen. 2011 ([RU 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 6817](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
+[^66-2]: Nuovo testo del per. giusta l’all. n. 2 della LF del 18 giu. 2010 sul numero d’identificazione delle imprese, in vigore dal 1° gen. 2011 ([RU 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 6817](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
 
 #### Art. 67
 
@@ -1428,7 +1445,7 @@ L’AFC informa entro un congruo termine il contribuente che chiede per scritto 
 <sup>4</sup> Il Consiglio federale stabilisce le condizioni alle quali i giustificativi necessari all’esecuzione dell’imposta secondo la presente legge possono essere trasmessi e conservati in forma non cartacea.
 
 [^70-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^70-2]: Nuovo testo del per. giusta il n. 4 dell’all. alla LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^70-2]: Nuovo testo del per. giusta l’all. n. 4 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
 #### Art. 71
 
@@ -1495,7 +1512,7 @@ L’obbligo del segreto non è dato:
 - c. in casi specifici, nei confronti delle autorità incaricate della procedura d’esecuzione e di fallimento o in caso di denuncia di reati in materia di esecuzione e fallimento a danno dell’AFC;
 - d.[^74-1] per le seguenti informazioni contenute nel registro dei contribuenti: numero con cui la persona è iscritta, indirizzo e attività economica, nonché inizio e fine dell’assoggettamento.
 
-[^74-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 18 giu. 2010 sul numero d’identificazione delle imprese, in vigore dal 1° gen. 2011 ([RU 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 6817](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
+[^74-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 giu. 2010 sul numero d’identificazione delle imprese, in vigore dal 1° gen. 2011 ([RU 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 6817](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
 
 #### Art. 75
 
@@ -1512,7 +1529,7 @@ L’obbligo del segreto non è dato:
 <sup>5</sup> Le organizzazioni alle quali sono affidati compiti di diritto pubblico hanno, nei limiti di questi compiti, lo stesso obbligo di fornire informazioni che incombe alle autorità; il capoverso 4 si applica per analogia.
 
 [^75-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
-[^75-2]: Nuovo testo giusta il n. 3 dell’all. alla LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^75-2]: Nuovo testo giusta l’all. n. 3 della LF del 26 set. 2014, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^75-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 #### Art. 75a
@@ -1523,7 +1540,7 @@ L’obbligo del segreto non è dato:
 
 <sup>2</sup> Essa esegue l’assistenza amministrativa applicando per analogia gli articoli 115*a*–115*i* LD[^75a-2].
 
-[^75a-1]: Introdotto dal n. 3 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^75a-1]: Introdotto dall’all. n. 3 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^75a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 ### Sezione 2: Protezione dei dati****
@@ -1538,10 +1555,10 @@ L’obbligo del segreto non è dato:
 
 <sup>1</sup> Per l’adempimento dei suoi compiti legali, l’AFC è autorizzata a trattare dati personali e profili della personalità degni di particolare protezione, compresi i dati concernenti sanzioni e procedimenti amministrativi e penali.
 
-<sup>2</sup> L’AFC è autorizzata a utilizzare sistematicamente il numero d’assicurato dell’assicurazione vecchiaia e superstiti secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^76-2] sull’assicurazione per la vecchiaia e per i superstiti per accertare l’assoggettamento fiscale.
+<sup>2</sup> ... [^76-2]
 
 [^76-1]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^76-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^76-2]: Abrogato dall’all. n. 18 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 76a
 
@@ -1590,7 +1607,7 @@ Il sistema d’informazione può contenere i seguenti dati personali, compresi q
 
 <sup>1</sup> In virtù dell’articolo 10 della legge del 28 giugno 1967[^76b-2] sul Controllo delle finanze, per l’adempimento dei suoi compiti legali il Controllo federale delle finanze ha accesso al sistema d’informazione dell’AFC.
 
-<sup>2</sup> L’AFC può comunicare o rendere accessibili i dati di cui all’articolo 76*a* capoverso 3 mediante procedura di richiamo al personale dell’AFD incaricato della determinazione e riscossione dell’imposta sul valore aggiunto e dell’esecuzione di procedimenti amministrativi e penali, sempre che questo sia necessario all’esecuzione dei suoi compiti.
+<sup>2</sup> L’AFC può comunicare o rendere accessibili i dati di cui all’articolo 76*a* capoverso 3 mediante procedura di richiamo al personale dell’UDSC incaricato della determinazione e riscossione dell’imposta sul valore aggiunto e dell’esecuzione di procedimenti amministrativi e penali, sempre che questo sia necessario all’esecuzione dei suoi compiti.
 
 [^76b-1]: Introdotto dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^76b-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
@@ -2014,7 +2031,7 @@ Se la multa applicabile non supera i 100 000 franchi e se la determinazione dell
 
 <sup>3</sup> Una condanna secondo l’articolo 14 DPA esclude un’ulteriore condanna per la medesima fattispecie di cui agli articoli 96 e 97 della presente legge.
 
-<sup>4</sup> Se un atto costituisce contemporaneamente una sottrazione dell’imposta sull’importazione o una ricettazione fiscale e un’infrazione contro altri disposti federali in materia di tasse perseguibile da parte dell’AFD, si infligge la pena prevista per l’infrazione più grave; la pena può essere aumentata in misura adeguata.
+<sup>4</sup> Se un atto costituisce contemporaneamente una sottrazione dell’imposta sull’importazione o una ricettazione fiscale e un’infrazione contro altri disposti federali in materia di tasse perseguibile da parte dell’UDSC, si infligge la pena prevista per l’infrazione più grave; la pena può essere aumentata in misura adeguata.
 
 <sup>5</sup> Se per una o più infrazioni risultano adempiute le condizioni per l’inflizione di più pene di competenza dell’AFC, si infligge la pena prevista per l’infrazione più grave; la pena può essere aumentata in misura adeguata.
 
@@ -2046,9 +2063,9 @@ Se il contribuente denuncia spontaneamente un’infrazione alla presente legge p
 
 <sup>1</sup> La DPA[^103-1], eccettuati gli articoli 63 capoversi 1 e 2, 69 capoverso 2, 73 capoverso 1, ultimo periodo, nonché 77 capoverso 4, è applicabile all’azione penale.
 
-<sup>2</sup> L’azione penale per le infrazioni in materia di imposta sulle prestazioni eseguite sul territorio svizzero e di imposta sull’acquisto spetta all’AFC, quella in materia di imposta sull’importazione all’AFD.
+<sup>2</sup> L’azione penale per le infrazioni in materia di imposta sulle prestazioni eseguite sul territorio svizzero e di imposta sull’acquisto spetta all’AFC, quella in materia di imposta sull’importazione all’UDSC.
 
-<sup>3</sup> Nelle cause penali strettamente connesse sotto il profilo materiale che sono di competenza sia dell’AFC sia dell’AFD, l’AFC può, d’intesa con l’AFD, decidere di riunire i procedimenti presso una delle due autorità.
+<sup>3</sup> Nelle cause penali strettamente connesse sotto il profilo materiale che sono di competenza sia dell’AFC sia dell’UDSC, l’AFC può, d’intesa con l’UDSC, decidere di riunire i procedimenti presso una delle due autorità.
 
 <sup>4</sup> Si può prescindere dal procedimento penale se la colpa e le conseguenze del fatto sono di lieve entità (art. 52 CP[^103-2]). In tal caso è emanato un decreto di non luogo a procedere o di abbandono.
 

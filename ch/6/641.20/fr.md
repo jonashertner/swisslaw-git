@@ -4,11 +4,11 @@ title: "Loi fédérale du 12 juin 2009 régissant la taxe sur la valeur ajoutée
 short: LTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20200101/fr"
 
 (Loi sur la TVA, LTVA)[^t-1]
 
-du 12 juin 2009 (Etat le 1<sup>er</sup> janvier 2020)
+du 12 juin 2009 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -552,7 +552,7 @@ Sont exonérés de l’impôt:
 
 - 1\. la livraison de biens transportés ou expédiés directement à l’étranger, excepté la mise de biens à la disposition de tiers à des fins d’usage ou de jouissance;
 - 2\.[^23-1] la mise de biens à la disposition de tiers, à des fins d’usage ou de jouissance (location et affrètement notamment), pour autant que ces biens soient utilisés de manière prépondérante à l’étranger par le destinataire de la livraison lui-même;
-- 3\.[^23-2] la livraison de biens dont il est prouvé qu’ils sont restés sous surveillance douanière sur le territoire suisse dans le cadre du régime de transit (art. 49 LD[^23-3]), du régime de l’entrepôt douanier (art. 50 à 57 LD), du régime de l’admission temporaire (art. 58 LD) ou du régime du perfectionnement actif (art. 59 LD), pour autant que la procédure douanière ait été apurée dans les règles ou par une autorisation délivrée ultérieurement par l’Administration fédérale des douanes (AFD);
+- 3\.[^23-2] la livraison de biens dont il est prouvé qu’ils sont restés sous surveillance douanière sur le territoire suisse dans le cadre du régime de transit (art. 49 LD[^23-3]), du régime de l’entrepôt douanier (art. 50 à 57 LD), du régime de l’admission temporaire (art. 58 LD) ou du régime du perfectionnement actif (art. 59 LD), pour autant que la procédure douanière ait été apurée dans les règles ou par une autorisation délivrée ultérieurement par l’Office fédéral de la douane et de la sécurité des frontières (OFDF);
 - 3<sup>bis</sup>.[^23-4] la livraison de biens dont il est prouvé qu’ils sont restés sous surveillance douanière sur le territoire suisse en raison de leur entreposage dans un dépôt franc sous douane (art. 62 à 66 LD) et qui n’ont pas perdu ce statut avec effet rétroactif;
 - 4\. l’acheminement de biens à l’étranger, par soi-même ou par un tiers, sans relation avec une livraison;
 - 5\. le transport ou l’expédition de biens en relation avec l’importation de biens et toutes les prestations y afférentes jusqu’au lieu auquel les biens doivent être transportés après la naissance de la dette fiscale visée à l’art. 56; en l’absence de dette fiscale, l’art. 69 LD s’applique par analogie à la détermination du moment de référence;
@@ -576,7 +576,7 @@ Sont exonérés de l’impôt:
 <sup>5</sup> Le Département fédéral des finances (DFF) fixe les conditions auxquelles la livraison sur le territoire suisse de biens destinés à l’exportation dans le trafic des voyageurs est exonérée et définit les preuves requises.
 
 [^23-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^23-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^23-2]: Nouvelle teneur selon le ch. I 18 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^23-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^23-4]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^23-5]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
@@ -1067,13 +1067,14 @@ La législation douanière s’applique à l’impôt sur les importations pour 
 La responsabilité solidaire (art. 70, al. 3, LD) des déclarants en douane professionnels (art. 109 LD) est levée lorsque l’importateur remplit les conditions suivantes:
 
 - a. il a droit à la déduction de l’impôt préalable (art. 28);
-- b.[^51-2] l’impôt lui a été facturé par le biais de la procédure centralisée de décompte (PCD) sur son compte PCD ouvert auprès de l’AFD;
+- b.[^51-2] l’impôt lui a été facturé par le biais de la procédure centralisée de décompte (PCD) sur son compte PCD ouvert auprès de l’OFDF[^51-3];
 - c. il a conféré un mandat de représentation directe au déclarant en douane professionnel.
 
-<sup>3</sup> L’AFD peut exiger du déclarant en douane professionnel qu’il justifie de son pouvoir de représentation.
+<sup>3</sup> L’OFDF peut exiger du déclarant en douane professionnel qu’il justifie de son pouvoir de représentation.
 
 [^51-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^51-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^51-3]: Nouvelle expression selon le ch. I 18 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 52
 
@@ -1145,7 +1146,7 @@ Pour autant qu’ils n’y soient pas déjà inclus, les éléments suivants doi
 - a. les impôts, les droits de douane et les autres taxes dus en dehors du territoire suisse et lors de l’importation, à l’exception de la TVA à percevoir;
 - b.[^54-4] les frais de transport ou d’expédition des biens et toutes les prestations afférentes jusqu’au lieu sur le territoire suisse auquel les biens doivent être acheminés au moment de la naissance de la dette fiscale visée à l’art. 56; si ce lieu est inconnu, le lieu de destination est l’endroit sur le territoire suisse où le transbordement est effectué après la naissance de la dette fiscale.
 
-<sup>4</sup> S’il y a doute quant à l’exactitude de la déclaration en douane ou si des indications de valeur font défaut, l’AFD peut procéder, dans les limites de son pouvoir d’appréciation, à une estimation de la base de calcul de l’impôt.
+<sup>4</sup> S’il y a doute quant à l’exactitude de la déclaration en douane ou si des indications de valeur font défaut, l’OFDF peut procéder, dans les limites de son pouvoir d’appréciation, à une estimation de la base de calcul de l’impôt.
 
 <sup>5</sup> Lors de l’établissement de la base de calcul de l’impôt, les prix ou valeurs libellés en devises étrangères doivent être convertis en francs suisses au taux de change (vente) coté en bourse la veille de la naissance de la dette fiscale visée à l’art. 56.
 
@@ -1176,7 +1177,7 @@ Pour autant qu’ils n’y soient pas déjà inclus, les éléments suivants doi
 
 <sup>4</sup> La dette fiscale se prescrit en même temps que la dette douanière (art. 75 LD). La prescription est suspendue tant qu’une procédure pénale fiscale fondée sur la présente loi est en cours et que celle-ci a été annoncée au débiteur (art. 104, al. 4).
 
-<sup>5</sup> Si la dette fiscale est modifiée en raison d’une adaptation ultérieure de la contre-prestation, notamment, en raison d’une modification du contrat ou d’un ajustement des prix convenus entre des entreprises étroitement liées, sur la base de directives reconnues, le montant d’impôt trop bas doit être annoncé à l’AFD dans les 30 jours à compter de cette adaptation. Il peut être renoncé à l’annonce et à l’adaptation de la taxation si l’impôt dû peut être déduit au titre d’impôt préalable conformément à l’art. 28.
+<sup>5</sup> Si la dette fiscale est modifiée en raison d’une adaptation ultérieure de la contre-prestation, notamment, en raison d’une modification du contrat ou d’un ajustement des prix convenus entre des entreprises étroitement liées, sur la base de directives reconnues, le montant d’impôt trop bas doit être annoncé à l’OFDF dans les 30 jours à compter de cette adaptation. Il peut être renoncé à l’annonce et à l’adaptation de la taxation si l’impôt dû peut être déduit au titre d’impôt préalable conformément à l’art. 28.
 
 [^56-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -1227,11 +1228,11 @@ Aucun intérêt moratoire n’est perçu dans les cas suivants:
 
 <sup>1</sup> L’impôt perçu en trop ou par erreur donne droit à remboursement.
 
-<sup>2</sup> L’impôt perçu en trop ou par erreur, ou l’impôt qui n’est plus dû par suite d’une taxation subséquente en vertu des art. 34 et 51, al. 3, LD[^59-1] ou de la réexportation des biens en vertu des art. 49, al. 4, 51, al. 3, 58, al. 3, et 59, al. 4, LD, n’est pas remboursé si l’importateur est inscrit au registre des assujettis sur le territoire suisse et qu’il peut déduire au titre de l’impôt préalable, en vertu de l’art. 28, l’impôt payé ou dû à l’AFD.
+<sup>2</sup> L’impôt perçu en trop ou par erreur, ou l’impôt qui n’est plus dû par suite d’une taxation subséquente en vertu des art. 34 et 51, al. 3, LD[^59-1] ou de la réexportation des biens en vertu des art. 49, al. 4, 51, al. 3, 58, al. 3, et 59, al. 4, LD, n’est pas remboursé si l’importateur est inscrit au registre des assujettis sur le territoire suisse et qu’il peut déduire au titre de l’impôt préalable, en vertu de l’art. 28, l’impôt payé ou dû à l’OFDF.
 
 <sup>3</sup> Le droit au remboursement se prescrit par cinq ans à compter de la fin de l’année civile pendant laquelle il a pris naissance.
 
-<sup>4</sup> La prescription est interrompue par tout exercice de ce droit envers l’AFD.
+<sup>4</sup> La prescription est interrompue par tout exercice de ce droit envers l’OFDF.
 
 <sup>5</sup> La prescription est suspendue tant qu’est pendante une procédure de recours relative au droit que le requérant fait valoir.
 
@@ -1259,7 +1260,7 @@ L’impôt est remboursé uniquement aux conditions suivantes:
 
 <sup>3</sup> Dans certains cas, le remboursement peut dépendre d’une déclaration faite en bonne et due forme dans le pays étranger où le bien a été importé.
 
-<sup>4</sup> Les demandes de remboursement doivent être présentées lorsque les biens sont déclarés pour le régime de l’exportation. Les demandes de remboursement ultérieures peuvent être prises en considération si elles sont remises par écrit à l’AFD dans les 60 jours qui suivent l’établissement du document d’exportation avec lequel les biens ont été taxés selon le régime de l’exportation (art. 61 LD[^60-1]).
+<sup>4</sup> Les demandes de remboursement doivent être présentées lorsque les biens sont déclarés pour le régime de l’exportation. Les demandes de remboursement ultérieures peuvent être prises en considération si elles sont remises par écrit à l’OFDF dans les 60 jours qui suivent l’établissement du document d’exportation avec lequel les biens ont été taxés selon le régime de l’exportation (art. 61 LD[^60-1]).
 
 [^60-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -1271,36 +1272,37 @@ L’impôt est remboursé uniquement aux conditions suivantes:
 
 Un intérêt rémunératoire est versé jusqu’au paiement:
 
-- a. en cas de remboursement de l’impôt perçu en trop ou par erreur selon l’art. 59: à partir du 61<sup>e</sup> jour qui suit la réception de la demande écrite par l’AFD;
-- b. en cas de remboursement de l’impôt pour cause de réexportation selon l’art. 60: à partir du 61<sup>e</sup> jour qui suit la réception de la demande par l’AFD;
+- a. en cas de remboursement de l’impôt perçu en trop ou par erreur selon l’art. 59: à partir du 61<sup>e</sup> jour qui suit la réception de la demande écrite par l’OFDF;
+- b. en cas de remboursement de l’impôt pour cause de réexportation selon l’art. 60: à partir du 61<sup>e</sup> jour qui suit la réception de la demande par l’OFDF;
 - c. en cas de régimes assortis d’une obligation de paiement conditionnelle (art. 49, 51, 58 et 59 LD[^61-1]): à partir du 61<sup>e</sup> jour qui suit l’apurement du régime douanier.
 
 <sup>2</sup>
 
 Le délai de 60 jours sans intérêts commence à courir lorsque:
 
-- a. les documents nécessaires à la constatation des faits et à l’appréciation de la demande sont parvenus à l’AFD;
-- b. le recours contre la décision de taxation satisfait aux exigences prévues à l’art. 52 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^61-2];
-- c. les bases nécessaires au calcul de l’impôt sur la contre-prestation visée à l’art. 54, al. 1, let. d, ont été portées à la connaissance de l’AFD.
+- a. les documents nécessaires à la constatation des faits et à l’appréciation de la demande sont parvenus à l’OFDF;
+- b.[^61-2] le recours contre la décision de taxation satisfait aux exigences prévues à l’art. 52 de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^61-3];
+- c. les bases nécessaires au calcul de l’impôt sur la contre-prestation visée à l’art. 54, al. 1, let. d, ont été portées à la connaissance de l’OFDF.
 
 <sup>3</sup> L’intérêt rémunératoire n’est pas versé en cas de remise de l’impôt selon l’art. 64.
 
 [^61-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^61-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^61-2]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^61-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 62
 
 **Compétence et procédure**
 
-<sup>1</sup> L’impôt sur les importations est perçu par l’AFD. Celle-ci arrête les instructions requises et prend les décisions nécessaires.
+<sup>1</sup> L’impôt sur les importations est perçu par l’OFDF. Celui-ci arrête les instructions requises et prend les décisions nécessaires.
 
-<sup>2</sup> Les organes de l’AFD sont habilités à procéder aux investigations nécessaires à la vérification des éléments pertinents pour la taxation. Les art. 68 à 70, 73 à 75 et 79 sont applicables par analogie. Les investigations qui doivent être menées auprès des assujettis sur le territoire suisse peuvent, en accord avec l’AFC, être confiées à cette dernière.
+<sup>2</sup> Les organes de l’OFDF sont habilités à procéder aux investigations nécessaires à la vérification des éléments pertinents pour la taxation. Les art. 68 à 70, 73 à 75 et 79 sont applicables par analogie. Les investigations qui doivent être menées auprès des assujettis sur le territoire suisse peuvent, en accord avec l’AFC, être confiées à cette dernière.
 
 #### Art. 63
 
 **Report du paiement de l’impôt**
 
-<sup>1</sup> Les importateurs assujettis enregistrés auprès de l’AFC qui établissent leurs décomptes selon la méthode effective peuvent déclarer l’impôt grevant l’importation de biens dans le décompte périodique qu’ils remettent à l’AFC au lieu de le verser à l’AFD (report du paiement de l’impôt), pour autant qu’ils importent et exportent régulièrement des biens et qu’il en résulte régulièrement d’importants excédents d’impôt préalable.
+<sup>1</sup> Les importateurs assujettis enregistrés auprès de l’AFC qui établissent leurs décomptes selon la méthode effective peuvent déclarer l’impôt grevant l’importation de biens dans le décompte périodique qu’ils remettent à l’AFC au lieu de le verser à l’OFDF (report du paiement de l’impôt), pour autant qu’ils importent et exportent régulièrement des biens et qu’il en résulte régulièrement d’importants excédents d’impôt préalable.
 
 <sup>2</sup> Si les biens importés selon la procédure de report sont façonnés ou transformés sur le territoire suisse, l’AFC peut autoriser l’assujetti à livrer ces biens sans impôt à d’autres assujettis.
 
@@ -1314,7 +1316,7 @@ Le délai de 60 jours sans intérêts commence à courir lorsque:
 
 L’impôt grevant l’importation de biens peut être remis en tout ou en partie dans les cas suivants:
 
-- a. des biens sous la garde de l’AFD ou placés sous le régime du transit (art. 49 LD[^64-1]), de l’entrepôt douanier (art. 50 à 57 LD), de l’admission temporaire (art. 58 LD) ou du perfectionnement actif (art. 59 LD) sont totalement ou partiellement détruits, par cas fortuit ou de force majeure ou avec l’assentiment des autorités;
+- a. des biens sous la garde de l’OFDF ou placés sous le régime du transit (art. 49 LD[^64-1]), de l’entrepôt douanier (art. 50 à 57 LD), de l’admission temporaire (art. 58 LD) ou du perfectionnement actif (art. 59 LD) sont totalement ou partiellement détruits, par cas fortuit ou de force majeure ou avec l’assentiment des autorités;
 - b. des biens mis en libre pratique sont totalement ou partiellement détruits ou réexportés en vertu d’une décision des autorités;
 - c. du fait de circonstances particulières, la perception subséquente (art. 85 LD) des montants dus représenterait une charge disproportionnée pour le débiteur visé à l’art. 51;
 - d. le mandataire chargé de la déclaration en douane (p. ex. le transitaire) ne peut transférer l’impôt en raison de l’insolvabilité de l’importateur et ce dernier, au moment de l’acceptation de la déclaration en douane, était inscrit au registre des assujettis sur le territoire suisse; l’insolvabilité de l’importateur est admise si la créance du mandataire semble sérieusement mise en péril.
@@ -1336,6 +1338,8 @@ Le délai de production de la demande est:
 
 #### Art. 65
 
+**Principes[^65-1]**
+
 <sup>1</sup> L’AFC est compétente en matière de détermination et de perception de l’impôt grevant les opérations réalisées sur le territoire suisse et de l’impôt sur les acquisitions.
 
 <sup>2</sup> Elle arrête les décisions nécessaires à une détermination et à une perception de l’impôt conformes à la loi dans la mesure où ces décisions ne sont pas réservées expressément à une autre autorité.
@@ -1345,6 +1349,20 @@ Le délai de production de la demande est:
 <sup>4</sup> Les actes de l’administration doivent être exécutés sans retard.
 
 <sup>5</sup> La charge administrative que la perception de l’impôt entraîne pour l’assujetti ne doit pas aller au-delà de ce qui est nécessaire à l’application de la présente loi.
+
+[^65-1]: Introduit par le ch. I 2 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
+#### Art. 65a
+
+**Procédures électroniques**[^65a-1]
+
+<sup>1</sup> Le Conseil fédéral peut prescrire l’exécution par voie électronique des procédures prévues par la présente loi. Il arrête les modalités de cette exécution.
+
+<sup>2</sup> Lorsqu’une procédure est exécutée par voie électronique, l’AFC assure l’authenticité et l’intégrité des données transmises.
+
+<sup>3</sup> Lorsqu’un écrit dont la signature est prescrite par la loi est déposé par voie électronique, l’AFC peut reconnaître, en lieu et place de la signature électronique qualifiée, une autre forme de confirmation électronique des données par l’assujetti ou le requérant.
+
+[^65a-1]: Introduit par le ch. I 2 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### Chapitre 2 Droits et obligations de l’assujetti
 
@@ -1508,10 +1526,10 @@ L’obligation de garder le secret ne s’applique pas:
 
 <sup>1</sup> L’AFC est habilitée à traiter les données sensibles et les profils de la personnalité nécessaires à l’accomplissement de ses tâches légales, y compris les données relatives à des poursuites et à des sanctions administratives ou pénales.
 
-<sup>2</sup> Pour la détermination de l’assujettissement, elle est en outre habilitée à utiliser systématiquement le numéro AVS visé à l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^76-2].
+<sup>2</sup> …[^76-2]
 
 [^76-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^76-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^76-2]: Abrogé par l’annexe ch. 18 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 76a
 
@@ -1560,7 +1578,7 @@ Le système d’information peut contenir les données personnelles suivantes, d
 
 <sup>1</sup> Le Contrôle fédéral des finances a accès au système d’information de l’AFC pour l’accomplissement des tâches légales qui lui incombent en vertu de l’art. 10 de la loi du 28 juin 1967 sur le Contrôle des finances[^76b-2].
 
-<sup>2</sup> L’AFC peut communiquer les données visées à l’art. 76*a*, al. 3, aux collaborateurs de l’AFD chargés de la perception et de l’encaissement de la TVA ou de l’exécution des procédures administratives ou pénales, ou leur donner accès à ces données en ligne, dans la mesure où l’accomplissement des tâches de ces personnes l’exige.
+<sup>2</sup> L’AFC peut communiquer les données visées à l’art. 76*a*, al. 3, aux collaborateurs de l’OFDF chargés de la perception et de l’encaissement de la TVA ou de l’exécution des procédures administratives ou pénales, ou leur donner accès à ces données en ligne, dans la mesure où l’accomplissement des tâches de ces personnes l’exige.
 
 [^76b-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^76b-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
@@ -1654,13 +1672,14 @@ Si l’établissement exact de faits essentiels pour le calcul de l’impôt ent
 
 **Principes**
 
-<sup>1</sup> La loi fédérale du 20 décembre 1968 sur la procédure administrative[^81-1] est applicable, à l’exclusion de l’art. 2, al. 1.
+<sup>1</sup> La PA[^81-1] est applicable, à l’exclusion de l’art. 2, al. 1.[^81-2]
 
 <sup>2</sup> Les autorités établissent d’office les faits pertinents.
 
 <sup>3</sup> Le principe de la libre appréciation des preuves est applicable. L’acceptation d’une preuve ne doit pas dépendre exclusivement de la présentation de moyens de preuves précis.
 
 [^81-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^81-2]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 82
 
@@ -1703,11 +1722,12 @@ L’AFC rend, d’office ou sur demande de l’assujetti, toutes les décisions 
 
 #### Art. 85
 
-**Révision, interprétation et rectification**
+**Révision, interprétation et rectification**[^85-1]
 
-La révision, l’interprétation et la rectification des notifications d’estimation, des décisions et des décisions sur réclamation rendues par l’AFC sont régies par les art. 66 à 69 de la loi du 20 décembre 1968 sur la procédure administrative[^85-1].
+La révision, l’interprétation et la rectification des notifications d’estimation, des décisions et des décisions sur réclamation rendues par l’AFC sont régies par les art. 66 à 69 PA[^85-2].
 
-[^85-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^85-1]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^85-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ### Chapitre 6 Perception
 
@@ -1978,7 +1998,7 @@ Si l’amende prévisible ne dépasse pas 100 000 francs et qu’il apparaît qu
 
 <sup>3</sup> La condamnation en vertu de l’art. 14 DPA exclut l’application, à raison du même fait, des art. 96 et 97 de la présente loi.
 
-<sup>4</sup> Si l’acte punissable constitue à la fois une soustraction ou un recel de l’impôt sur les importations et une infraction à d’autres dispositions fédérales réprimée par l’AFD, la peine est celle qui sanctionne l’infraction la plus grave; elle peut être augmentée dans une juste proportion.
+<sup>4</sup> Si l’acte punissable constitue à la fois une soustraction ou un recel de l’impôt sur les importations et une infraction à d’autres dispositions fédérales réprimée par l’OFDF, la peine est celle qui sanctionne l’infraction la plus grave; elle peut être augmentée dans une juste proportion.
 
 <sup>5</sup> Si, en raison d’un ou de plusieurs actes, l’auteur réalise les éléments constitutifs de plusieurs infractions qui ressortissent à l’AFC, la peine est celle qui sanctionne l’infraction la plus grave; elle peut être augmentée dans une juste proportion.
 
@@ -2009,9 +2029,9 @@ Lorsque l’assujetti dénonce une infraction à la présente loi avant que l’
 
 <sup>1</sup> La DPA[^103-1] est applicable à la poursuite pénale, à l’exception des art. 63, al. 1 et 2, 69, al. 2, 73, al. 1, dernière phrase et 77, al. 4.
 
-<sup>2</sup> La poursuite pénale des infractions incombe à l’AFC en matière d’impôt grevant les opérations réalisées sur le territoire suisse et d’impôt sur les acquisitions, et à l’AFD en matière d’impôt sur les importations.
+<sup>2</sup> La poursuite pénale des infractions incombe à l’AFC en matière d’impôt grevant les opérations réalisées sur le territoire suisse et d’impôt sur les acquisitions, et à l’OFDF en matière d’impôt sur les importations.
 
-<sup>3</sup> Dans les causes pénales qui portent sur des faits étroitement liés et ressortissent à la fois à l’AFC et à l’AFD, l’AFC peut décider de joindre les procédures par-devant l’une des deux autorités en accord avec l’AFD.
+<sup>3</sup> Dans les causes pénales qui portent sur des faits étroitement liés et ressortissent à la fois à l’AFC et à l’OFDF, l’AFC peut décider de joindre les procédures par-devant l’une des deux autorités en accord avec l’OFDF.
 
 <sup>4</sup> L’autorité peut renoncer à la poursuite pénale si la culpabilité de l’auteur et les conséquences de son acte sont peu importantes (art. 52 CP[^103-2]). Dans ce cas, elle prononce une ordonnance de non-ouverture ou de classement.
 

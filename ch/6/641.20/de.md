@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 12. Juni 2009 über die Mehrwertsteuer (Mehrwertsteuerg
 short: MWSTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20200101/de"
 
 (Mehrwertsteuergesetz, MWSTG)
 
-vom 12. Juni 2009 (Stand am 1. Januar 2020)
+vom 12. Juni 2009 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -474,7 +474,7 @@ Von der Steuer ausgenommen sind:
 - 22\. die Lieferung von im Inland gültigen Postwertzeichen und sonstigen amtlichen Wertzeichen höchstens zum aufgedruckten Wert;
 - 23\.[^21-13] die Umsätze bei Geldspielen, soweit die Bruttospielerträge der Spielbankenabgabe nach Artikel 119 des Geldspielgesetzes vom 29. September 2017[^21-14] unterliegen oder der damit erzielte Reingewinn vollumfänglich für gemeinnützige Zwecke im Sinne von Artikel 125 des genannten Gesetzes verwendet wird;
 - 24\. die Lieferung gebrauchter beweglicher Gegenstände, die ausschliesslich zur Erbringung von nach diesem Artikel von der Steuer ausgenommenen Leistungen verwendet wurden;
-- 25\.[^21-15] …
+- 25\.[^21-15] ...
 - 26\. die Veräusserung von im eigenen Betrieb gewonnenen Erzeugnissen der Landwirtschaft, der Forstwirtschaft sowie der Gärtnerei durch Landwirte und Landwirtinnen, Forstwirte und Forstwirtinnen oder Gärtner und Gärtnerinnen sowie der Verkauf von Vieh durch Viehhändler und Viehhändlerinnen und der Verkauf von Milch durch Milchsammelstellen an milchverarbeitende Betriebe;
 - 27\. Bekanntmachungsleistungen, die gemeinnützige Organisationen zugunsten Dritter oder Dritte zugunsten gemeinnütziger Organisationen erbringen;
 - 28\.[^21-16]
@@ -499,7 +499,7 @@ Von der Steuer ausgenommen sind:
 
 <sup>7</sup> Der Bundesrat legt fest, welche Institutionen als Bildungs- und Forschungsinstitutionen nach Absatz 2 Ziffer 30 gelten.[^21-20]
 
-[^21-1]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)Anhang Ziff. I]. Siehe heute: Art. 18 des Postgesetzes vom 17. Dez. 2010 ([SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
+[^21-1]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 23; [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)Anhang Ziff. I]. Siehe heute: Art. 18 des Postgesetzes vom 17. Dez. 2010 ([SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
 [^21-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^21-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^21-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -548,7 +548,7 @@ Von der Steuer sind befreit:
 
 - 1\. die Lieferung von Gegenständen mit Ausnahme der Überlassung zum Gebrauch oder zur Nutzung, die direkt ins Ausland befördert oder versendet werden;
 - 2\.[^23-1] die Überlassung zum Gebrauch oder zur Nutzung, namentlich die Vermietung und Vercharterung, von Gegenständen, sofern die Gegenstände vom Lieferungsempfänger oder von der Lieferungsempfängerin selbst überwiegend im Ausland genutzt werden;
-- 3\.[^23-2] die Lieferung von Gegenständen, die im Rahmen eines Transitverfahrens (Art. 49 ZG[^23-3]), Zolllagerverfahrens (Art. 50–57 ZG), Zollverfahrens der vorübergehenden Verwendung (Art. 58 ZG) oder der aktiven Veredelung (Art. 59 ZG) nachweislich im Inland unter Zollüberwachung standen, sofern das Verfahren ordnungsgemäss oder mit nachträglicher Bewilligung der Eidgenössischen Zollverwaltung (EZV) abgeschlossen wurde;
+- 3\.[^23-2] die Lieferung von Gegenständen, die im Rahmen eines Transitverfahrens (Art. 49 ZG[^23-3]), Zolllagerverfahrens (Art. 50–57 ZG), Zollverfahrens der vorübergehenden Verwendung (Art. 58 ZG) oder der aktiven Veredelung (Art. 59 ZG) nachweislich im Inland unter Zollüberwachung standen, sofern das Verfahren ordnungsgemäss oder mit nachträglicher Bewilligung des Bundesamtes für Zoll und Grenzsicherheit (BAZG) abgeschlossen wurde;
 - 3<sup>bis</sup>.[^23-4] die Lieferung von Gegenständen, die wegen Einlagerung in einem Zollfreilager (Art. 62–66 ZG) nachweislich im Inland unter Zollüberwachung standen und diesen Zollstatus nicht rückwirkend verloren haben;
 - 4\. das Verbringen oder Verbringenlassen von Gegenständen ins Ausland, das nicht im Zusammenhang mit einer Lieferung steht;
 - 5\. das mit der Einfuhr von Gegenständen im Zusammenhang stehende Befördern oder Versenden von Gegenständen und alle damit zusammenhängenden Leistungen bis zum Bestimmungsort, an den die Gegenstände im Zeitpunkt der Entstehung der Steuerschuld nach Artikel 56 zu befördern sind; entsteht keine Steuerschuld, so gilt für den massgebenden Zeitpunkt Artikel 69 ZG sinngemäss;
@@ -572,7 +572,7 @@ Von der Steuer sind befreit:
 <sup>5</sup> Das Eidgenössische Finanzdepartement (EFD) regelt die Bedingungen, unter denen Inlandlieferungen zwecks Ausfuhr im Reiseverkehr von der Steuer befreit sind, und legt die hierfür erforderlichen Nachweise fest.
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^23-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^23-2]: Fassung gemäss Ziff. I 18 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^23-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^23-4]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^23-5]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -1060,14 +1060,15 @@ Für die Steuer auf der Einfuhr von Gegenständen gilt die Zollgesetzgebung, sow
 Die Solidarhaftung nach Artikel 70 Absatz 3 ZG ist für Personen, die gewerbsmässig Zollanmeldungen ausstellen (Art. 109 ZG), aufgehoben, wenn der Importeur oder die Importeurin:
 
 - a. zum Vorsteuerabzug (Art. 28) berechtigt ist;
-- b.[^51-2] die Einfuhrsteuerschuld über das Konto des zentralisierten Abrechnungsverfahrens der EZV (ZAZ) belastet erhält; und
+- b.[^51-2] die Einfuhrsteuerschuld über das Konto des zentralisierten Abrechnungsverfahrens des BAZG[^51-3] (ZAZ) belastet erhält; und
 - c. der Person, die gewerbsmässig Zollanmeldungen ausstellt, einen Auftrag zur direkten Stellvertretung erteilt hat.
 
-<sup>3</sup> Die EZV kann von der Person, die gewerbsmässig Zollanmeldungen ausstellt, den Nachweis für ihre Vertretungsbefugnis verlangen.[^51-3]
+<sup>3</sup> Das BAZG kann von der Person, die gewerbsmässig Zollanmeldungen ausstellt, den Nachweis für ihre Vertretungsbefugnis verlangen.[^51-4]
 
 [^51-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^51-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^51-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^51-3]: Ausdruck gemäss Ziff. I 18 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^51-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 52
 
@@ -1139,7 +1140,7 @@ In die Bemessungsgrundlage sind einzubeziehen, soweit nicht bereits darin enthal
 - a. die ausserhalb des Inlands sowie aufgrund der Einfuhr geschuldeten Steuern, Zölle und sonstigen Abgaben, mit Ausnahme der zu erhebenden Mehrwertsteuer;
 - b.[^54-4] die Kosten für das Befördern oder Versenden und alle damit zusammenhängenden Leistungen bis zum Bestimmungsort im Inland, an den die Gegenstände zum Zeitpunkt der Entstehung der Einfuhrsteuerschuld nach Artikel 56 zu befördern sind; ist dieser Ort unbekannt, so gilt als Bestimmungsort der Ort, an dem das Umladen nach Entstehung der Einfuhrsteuerschuld im Inland erfolgt.
 
-<sup>4</sup> Bestehen Zweifel an der Richtigkeit der Zollanmeldung oder fehlen Wertangaben, so kann die EZV die Steuerbemessungsgrundlage nach pflichtgemässem Ermessen schätzen.
+<sup>4</sup> Bestehen Zweifel an der Richtigkeit der Zollanmeldung oder fehlen Wertangaben, so kann das BAZG die Steuerbemessungsgrundlage nach pflichtgemässem Ermessen schätzen.
 
 <sup>5</sup> Für die Ermittlung der Bemessungsgrundlage herangezogene Preis- oder Wertangaben in ausländischer Währung sind nach dem am letzten Börsentag vor der Entstehung der Einfuhrsteuerschuld nach Artikel 56 notierten Devisenkurs (Verkauf) in Schweizerfranken umzurechnen.
 
@@ -1170,7 +1171,7 @@ In die Bemessungsgrundlage sind einzubeziehen, soweit nicht bereits darin enthal
 
 <sup>4</sup> Die Einfuhrsteuerschuld verjährt zur gleichen Zeit wie die Zollschuld (Art. 75 ZG). Die Verjährung steht still, solange ein Steuerstrafverfahren nach diesem Gesetz durchgeführt wird und der zahlungspflichtigen Person dies mitgeteilt worden ist (Art. 104 Abs. 4).
 
-<sup>5</sup> Ändert sich die Einfuhrsteuerschuld wegen nachträglicher Anpassung des Entgelts, namentlich aufgrund von Vertragsänderungen oder wegen Preisanpassungen zwischen verbundenen Unternehmen aufgrund anerkannter Richtlinien, so muss die zu niedrig bemessene Steuer innert 30 Tagen nach dieser Anpassung der EZV angezeigt werden. Die Meldung sowie die Anpassung der Steuerveranlagung können unterbleiben, wenn die nachzuentrichtende Steuer als Vorsteuer nach Artikel 28 abgezogen werden könnte.
+<sup>5</sup> Ändert sich die Einfuhrsteuerschuld wegen nachträglicher Anpassung des Entgelts, namentlich aufgrund von Vertragsänderungen oder wegen Preisanpassungen zwischen verbundenen Unternehmen aufgrund anerkannter Richtlinien, so muss die zu niedrig bemessene Steuer innert 30 Tagen nach dieser Anpassung dem BAZG angezeigt werden. Die Meldung sowie die Anpassung der Steuerveranlagung können unterbleiben, wenn die nachzuentrichtende Steuer als Vorsteuer nach Artikel 28 abgezogen werden könnte.
 
 [^56-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -1207,7 +1208,7 @@ Kein Verzugszins wird erhoben, wenn:
   - 2\. in ein anderes Zollverfahren übergeführt werden (Art. 47 ZG);
 
 - c<sup>bis</sup>.[^58-3] bei bedingt veranlagten Gegenständen der Importeur oder die Importeurin im Zeitpunkt der Annahme der Zollanmeldung im Inland als steuerpflichtige Person eingetragen war;
-- d.[^58-4] …
+- d.[^58-4] ...
 - e. die Gegenstände periodisch zum Zollveranlagungsverfahren anzumelden sind (Art. 42 Abs. 1 Bst. c ZG) oder aufgrund eines vereinfachten Zollveranlagungsverfahrens nachträglich veranlagt werden (Art. 42 Abs. 2 ZG) und der Importeur oder die Importeurin im Zeitpunkt der Einfuhr im Inland als steuerpflichtige Person eingetragen war.
 
 [^58-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
@@ -1221,11 +1222,11 @@ Kein Verzugszins wird erhoben, wenn:
 
 <sup>1</sup> Für zu viel erhobene oder nicht geschuldete Steuern besteht ein Anspruch auf Rückerstattung.
 
-<sup>2</sup> Nicht zurückerstattet werden zu viel erhobene, nicht geschuldete sowie wegen nachträglicher Veranlagung der Gegenstände nach den Artikeln 34 und 51 Absatz 3 ZG[^59-1] oder wegen deren Wiederausfuhr nach den Artikeln 49 Absatz 4, 51 Absatz 3, 58 Absatz 3 und 59 Absatz 4 ZG nicht mehr geschuldete Steuern, wenn der Importeur oder die Importeurin im Inland als steuerpflichtige Person eingetragen ist und die der EZV zu entrichtende oder entrichtete Steuer als Vorsteuer nach Artikel 28 abziehen kann.
+<sup>2</sup> Nicht zurückerstattet werden zu viel erhobene, nicht geschuldete sowie wegen nachträglicher Veranlagung der Gegenstände nach den Artikeln 34 und 51 Absatz 3 ZG[^59-1] oder wegen deren Wiederausfuhr nach den Artikeln 49 Absatz 4, 51 Absatz 3, 58 Absatz 3 und 59 Absatz 4 ZG nicht mehr geschuldete Steuern, wenn der Importeur oder die Importeurin im Inland als steuerpflichtige Person eingetragen ist und die dem BAZG zu entrichtende oder entrichtete Steuer als Vorsteuer nach Artikel 28 abziehen kann.
 
 <sup>3</sup> Der Anspruch verjährt fünf Jahre nach Ablauf des Kalenderjahres, in dem er entstanden ist.
 
-<sup>4</sup> Die Verjährung wird unterbrochen durch die Geltendmachung des Anspruchs gegenüber der EZV.
+<sup>4</sup> Die Verjährung wird unterbrochen durch die Geltendmachung des Anspruchs gegenüber dem BAZG.
 
 <sup>5</sup> Sie steht still, solange über den geltend gemachten Anspruch ein Rechtsmittelverfahren hängig ist.
 
@@ -1253,7 +1254,7 @@ Die Steuer wird nur zurückerstattet, wenn:
 
 <sup>3</sup> Die Rückerstattung kann im Einzelfall von der ordnungsgemässen Anmeldung im Einfuhrland abhängig gemacht werden.
 
-<sup>4</sup> Die Anträge auf Rückerstattung sind bei der Anmeldung zum Ausfuhrverfahren zu stellen. Nachträgliche Rückerstattungsanträge können berücksichtigt werden, wenn sie innert 60 Tagen seit Ausstellung des Ausfuhrdokuments, mit dem die Gegenstände nach dem Ausfuhrverfahren (Art. 61 ZG[^60-1]) veranlagt worden sind, schriftlich bei der EZV eingereicht werden.
+<sup>4</sup> Die Anträge auf Rückerstattung sind bei der Anmeldung zum Ausfuhrverfahren zu stellen. Nachträgliche Rückerstattungsanträge können berücksichtigt werden, wenn sie innert 60 Tagen seit Ausstellung des Ausfuhrdokuments, mit dem die Gegenstände nach dem Ausfuhrverfahren (Art. 61 ZG[^60-1]) veranlagt worden sind, schriftlich beim BAZG eingereicht werden.
 
 [^60-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
@@ -1265,17 +1266,17 @@ Die Steuer wird nur zurückerstattet, wenn:
 
 Ein Vergütungszins wird bis zur Auszahlung ausgerichtet:
 
-- a. bei Rückerstattung einer zu viel erhobenen oder nicht geschuldeten Steuer nach Artikel 59: ab dem 61. Tag nach Eintreffen der schriftlichen Geltendmachung des Anspruchs bei der EZV;
-- b. bei Rückerstattung der Steuer wegen Wiederausfuhr nach Artikel 60: ab dem 61. Tag nach Eintreffen des Antrages bei der EZV;
+- a. bei Rückerstattung einer zu viel erhobenen oder nicht geschuldeten Steuer nach Artikel 59: ab dem 61. Tag nach Eintreffen der schriftlichen Geltendmachung des Anspruchs beim BAZG;
+- b. bei Rückerstattung der Steuer wegen Wiederausfuhr nach Artikel 60: ab dem 61. Tag nach Eintreffen des Antrages beim BAZG;
 - c. bei Verfahren mit bedingter Zahlungspflicht (Art. 49, 51, 58 und 59 ZG[^61-1]): ab dem 61. Tag nach ordnungsgemässem Abschluss des Verfahrens.
 
 <sup>2</sup>
 
 Die zinslose Frist von 60 Tagen beginnt erst zu laufen, wenn:
 
-- a. sämtliche für die Feststellung des Sachverhalts und die Beurteilung des Begehrens notwendigen Unterlagen bei der EZV eingetroffen sind;
+- a. sämtliche für die Feststellung des Sachverhalts und die Beurteilung des Begehrens notwendigen Unterlagen beim BAZG eingetroffen sind;
 - b. die Beschwerde gegen die Veranlagungsverfügung den Anforderungen von Artikel 52 des Bundesgesetzes vom 20. Dezember 1968[^61-2] über das Verwaltungsverfahren (VwVG) genügt;
-- c. die Grundlagen für die Berechnung der Steuer auf dem Entgelt nach Artikel 54 Absatz 1 Buchstabe d der EZV bekannt sind.
+- c. die Grundlagen für die Berechnung der Steuer auf dem Entgelt nach Artikel 54 Absatz 1 Buchstabe d dem BAZG bekannt sind.
 
 <sup>3</sup> Kein Vergütungszins wird ausgerichtet beim Steuererlass nach Artikel 64.
 
@@ -1286,15 +1287,15 @@ Die zinslose Frist von 60 Tagen beginnt erst zu laufen, wenn:
 
 **Zuständigkeit und Verfahren**
 
-<sup>1</sup> Die Einfuhrsteuer wird durch die EZV erhoben. Diese trifft die erforderlichen Anordnungen und Verfügungen.
+<sup>1</sup> Die Einfuhrsteuer wird durch das BAZG erhoben. Dieses trifft die erforderlichen Anordnungen und Verfügungen.
 
-<sup>2</sup> Die Organe der EZV sind befugt, zur Prüfung der für die Steuerveranlagung wesentlichen Tatsachen alle erforderlichen Erhebungen vorzunehmen. Die Artikel 68–70, 73–75 und 79 gelten sinngemäss. Die EZV kann Erhebungen bei im Inland als steuerpflichtig eingetragenen Personen im Einvernehmen mit der ESTV dieser übertragen.
+<sup>2</sup> Die Organe des BAZG sind befugt, zur Prüfung der für die Steuerveranlagung wesentlichen Tatsachen alle erforderlichen Erhebungen vorzunehmen. Die Artikel 68–70, 73–75 und 79 gelten sinngemäss. Das BAZG kann Erhebungen bei im Inland als steuerpflichtig eingetragenen Personen im Einvernehmen mit der ESTV dieser übertragen.
 
 #### Art. 63
 
 **Verlagerung der Steuerentrichtung**
 
-<sup>1</sup> Bei der ESTV registrierte und nach der effektiven Methode abrechnende steuerpflichtige Importeure und Importeurinnen können die auf der Einfuhr von Gegenständen geschuldete Steuer, statt sie der EZV zu entrichten, in der periodischen Steuerabrechnung mit der ESTV deklarieren (Verlagerungsverfahren), sofern sie regelmässig Gegenstände ein- und ausführen und sich daraus regelmässig beachtliche Vorsteuerüberschüsse ergeben.
+<sup>1</sup> Bei der ESTV registrierte und nach der effektiven Methode abrechnende steuerpflichtige Importeure und Importeurinnen können die auf der Einfuhr von Gegenständen geschuldete Steuer, statt sie dem BAZG zu entrichten, in der periodischen Steuerabrechnung mit der ESTV deklarieren (Verlagerungsverfahren), sofern sie regelmässig Gegenstände ein- und ausführen und sich daraus regelmässig beachtliche Vorsteuerüberschüsse ergeben.
 
 <sup>2</sup> Werden die im Verlagerungsverfahren eingeführten Gegenstände nach der Einfuhr im Inland noch bearbeitet oder verarbeitet, so kann die ESTV steuerpflichtigen Personen bewilligen, die bearbeiteten oder verarbeiteten Gegenstände ohne Berechnung der Steuer an andere steuerpflichtige Personen zu liefern.
 
@@ -1308,7 +1309,7 @@ Die zinslose Frist von 60 Tagen beginnt erst zu laufen, wenn:
 
 Die Einfuhrsteuer kann ganz oder teilweise erlassen werden, wenn:
 
-- a. im Gewahrsam der EZV stehende oder in ein Transitverfahren (Art. 49 ZG[^64-1]), ein Zolllagerverfahren (Art. 50–57 ZG), ein Verfahren der vorübergehenden Verwendung (Art. 58 ZG) oder ein Verfahren der aktiven Veredelung (Art. 59 ZG) übergeführte Gegenstände durch Zufall, höhere Gewalt oder mit amtlicher Einwilligung ganz oder teilweise vernichtet werden;
+- a. im Gewahrsam des BAZG stehende oder in ein Transitverfahren (Art. 49 ZG[^64-1]), ein Zolllagerverfahren (Art. 50–57 ZG), ein Verfahren der vorübergehenden Verwendung (Art. 58 ZG) oder ein Verfahren der aktiven Veredelung (Art. 59 ZG) übergeführte Gegenstände durch Zufall, höhere Gewalt oder mit amtlicher Einwilligung ganz oder teilweise vernichtet werden;
 - b. in den zollrechtlich freien Verkehr übergeführte Gegenstände auf amtliche Verfügung hin ganz oder teilweise vernichtet oder wieder aus dem Inland ausgeführt werden;
 - c. eine Nachforderung im Sinne von Artikel 85 ZG mit Rücksicht auf besondere Verhältnisse die steuerpflichtige Person nach Artikel 51 unverhältnismässig belasten würde;
 - d. die mit der Zollanmeldung beauftragte Person (z. B. der Spediteur) die Steuer wegen Zahlungsunfähigkeit des Importeurs oder der Importeurin nicht weiterbelasten kann und der Importeur oder die Importeurin im Zeitpunkt der Annahme der Zollanmeldung im Inland als steuerpflichtige Person eingetragen war; von der Zahlungsunfähigkeit des Importeurs oder der Importeurin ist auszugehen, wenn die Forderung der beauftragten Person ernsthaft gefährdet erscheint.
@@ -1330,6 +1331,8 @@ Die Frist für die Einreichung eines Gesuchs beträgt:
 
 #### Art. 65
 
+**Grundsätze[^65-1]**
+
 <sup>1</sup> Die ESTV ist für die Erhebung und den Einzug der Inland- und der Bezugsteuer zuständig.
 
 <sup>2</sup> Für eine gesetzeskonforme Erhebung und den gesetzeskonformen Einzug der Steuer erlässt die ESTV alle erforderlichen Verfügungen, deren Erlass nicht ausdrücklich einer andern Behörde vorbehalten ist.
@@ -1339,6 +1342,20 @@ Die Frist für die Einreichung eines Gesuchs beträgt:
 <sup>4</sup> Sämtliche Verwaltungshandlungen sind beförderlich zu vollziehen.
 
 <sup>5</sup> Die steuerpflichtige Person darf durch die Steuererhebung nur soweit belastet werden, als dies für die Durchsetzung dieses Gesetzes zwingend erforderlich ist.
+
+[^65-1]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
+#### Art. 65a
+
+**Elektronische Verfahren**[^65a-1]
+
+<sup>1</sup> Der Bundesrat kann die elektronische Durchführung von Verfahren nach diesem Gesetz vorschreiben. Dabei regelt er die Modalitäten der Durchführung.
+
+<sup>2</sup> Die ESTV stellt bei der elektronischen Durchführung von Verfahren die Authentizität und Integrität der übermittelten Daten sicher.
+
+<sup>3</sup> Sie kann bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der qualifizierten elektronischen Signatur eine andere elektronische Bestätigung der Angaben durch die steuerpflichtige oder antragstellende Person anerkennen.
+
+[^65a-1]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### 2. Kapitel: Rechte und Pflichten der steuerpflichtigen Person
 
@@ -1502,10 +1519,10 @@ Keine Geheimhaltungspflicht besteht:
 
 <sup>1</sup> Die ESTV darf zur Erfüllung ihrer gesetzlichen Aufgaben besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeiten, einschliesslich Daten über administrative und strafrechtliche Verfolgungen und Sanktionen.
 
-<sup>2</sup> Sie darf die Versichertennummer der Alters- und Hinterlassenenversicherung nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^76-2] über die Alters- und Hinterlassenenversicherung für die Feststellung der Steuerpflicht systematisch verwenden.
+<sup>2</sup> …[^76-2]
 
 [^76-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^76-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^76-2]: Aufgehoben durch Anhang Ziff. 18 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 76a
 
@@ -1554,7 +1571,7 @@ Das Informationssystem kann folgende Personendaten, einschliesslich besonders sc
 
 <sup>1</sup> Die Eidgenössische Finanzkontrolle hat zur Erfüllung ihrer gesetzlichen Aufgaben nach Artikel 10 des Finanzkontrollgesetzes vom 28. Juni 1967[^76b-2] Zugang zum Informationssystem der ESTV.
 
-<sup>2</sup> Die ESTV darf den in der EZV mit der Erhebung und dem Einzug der Mehrwertsteuer sowie mit der Durchführung von Straf- und Administrativverfahren betrauten Personen die Daten nach Artikel 76*a* Absatz 3 bekannt geben oder im Abrufverfahren zugänglich machen, sofern dies für die Erfüllung von deren Aufgaben nötig ist.
+<sup>2</sup> Die ESTV darf den im BAZG mit der Erhebung und dem Einzug der Mehrwertsteuer sowie mit der Durchführung von Straf- und Administrativverfahren betrauten Personen die Daten nach Artikel 76*a* Absatz 3 bekannt geben oder im Abrufverfahren zugänglich machen, sofern dies für die Erfüllung von deren Aufgaben nötig ist.
 
 [^76b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^76b-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
@@ -1768,7 +1785,7 @@ Vorbehalten bleiben:
 
 <sup>3</sup> Wird in der Betreibung Recht vorgeschlagen, so eröffnet die steuerpflichtige Person das Verfahren um Rechtsöffnung. Für die Beseitigung des Rechtsvorschlages ist die ESTV zuständig.
 
-<sup>4</sup> …[^89-2]
+<sup>4</sup> ...[^89-2]
 
 <sup>5</sup> Die ESTV muss die Steuerforderung in die öffentlichen Inventare oder auf Rechnungsrufe eingeben.[^89-3]
 
@@ -1830,7 +1847,7 @@ Die ESTV kann rechtskräftig festgesetzte Steuern ganz oder teilweise erlassen, 
 
 <sup>5</sup> Das Steuererlassverfahren ist kostenfrei. Dem Gesuchsteller oder der Gesuchstellerin können indessen die Kosten ganz oder teilweise auferlegt werden, wenn er oder sie ein offensichtlich unbegründetes Gesuch eingereicht hat.
 
-<sup>6</sup> …[^92-1]
+<sup>6</sup> ...[^92-1]
 
 [^92-1]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
@@ -1968,7 +1985,7 @@ Fällt eine Busse von höchstens 100 000 Franken in Betracht und würde die Ermi
 
 <sup>3</sup> Eine Bestrafung nach Artikel 14 VStrR schliesst eine zusätzliche Bestrafung wegen derselben Tat nach den Artikeln 96 und 97 des vorliegenden Gesetzes aus.
 
-<sup>4</sup> Erfüllt eine Handlung sowohl den Tatbestand einer Hinterziehung der Einfuhrsteuer oder einer Steuerhehlerei als auch einer durch die EZV zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes, so wird die Strafe für die schwerste Widerhandlung verhängt; diese kann angemessen erhöht werden.
+<sup>4</sup> Erfüllt eine Handlung sowohl den Tatbestand einer Hinterziehung der Einfuhrsteuer oder einer Steuerhehlerei als auch einer durch das BAZG zu verfolgenden Widerhandlung gegen andere Abgabenerlasse des Bundes, so wird die Strafe für die schwerste Widerhandlung verhängt; diese kann angemessen erhöht werden.
 
 <sup>5</sup> Hat der Täter oder die Täterin durch eine oder mehrere Handlungen die Voraussetzungen für mehrere Strafen erfüllt, die in den Zuständigkeitsbereich der ESTV fallen, so wird die Strafe für die schwerste Widerhandlung verhängt; diese kann angemessen erhöht werden.
 
@@ -1999,9 +2016,9 @@ Zeigt die steuerpflichtige Person eine Widerhandlung gegen dieses Gesetz an, bev
 
 <sup>1</sup> Auf die Strafverfolgung ist mit Ausnahme der Artikel 63 Absätze 1 und 2, 69 Absatz 2, 73 Absatz 1 letzter Satz sowie 77 Absatz 4 das VStrR[^103-1] anwendbar.
 
-<sup>2</sup> Die Strafverfolgung obliegt bei der Inlandsteuer und bei der Bezugsteuer der ESTV, bei der Einfuhrsteuer der EZV.
+<sup>2</sup> Die Strafverfolgung obliegt bei der Inlandsteuer und bei der Bezugsteuer der ESTV, bei der Einfuhrsteuer dem BAZG.
 
-<sup>3</sup> In Strafsachen mit engem Sachzusammenhang, bei denen sowohl die Zuständigkeit der ESTV als auch die der EZV gegeben ist, kann die ESTV im Einvernehmen mit der EZV die Vereinigung der Strafverfolgung bei einer der beiden Behörden beschliessen.
+<sup>3</sup> In Strafsachen mit engem Sachzusammenhang, bei denen sowohl die Zuständigkeit der ESTV als auch die des BAZG gegeben ist, kann die ESTV im Einvernehmen mit dem BAZG die Vereinigung der Strafverfolgung bei einer der beiden Behörden beschliessen.
 
 <sup>4</sup> Die Strafverfolgung kann unterbleiben, wenn Schuld und Tatfolgen gering sind (Art. 52 StGB[^103-2]). In diesen Fällen wird eine Nichtanhandnahme- oder Einstellungsverfügung erlassen.
 
@@ -2040,7 +2057,7 @@ Das Recht, eine Strafuntersuchung einzuleiten, verjährt:
   - 3\. bei Vergehen nach Artikel 97 Absatz 2 sowie bei Vergehen nach den Artikeln 14–17 VStrR[^105-2]: sieben Jahre nach Ablauf der betreffenden Steuerperiode;
 
 - c.[^105-3] im Bereich der Einfuhrsteuer: für alle Vergehen und Übertretungen nach den Artikeln 96, 97 Absatz 2 und 99 sowie bei Vergehen nach den Artikeln 14–17 VStrR: in sieben Jahren;
-- d. und e.[^105-4] …
+- d. und e.[^105-4] ...
 
 <sup>2</sup> Die Verfolgungsverjährung tritt nicht mehr ein, wenn vor Ablauf der Verjährungsfrist eine Strafverfügung oder ein erstinstanzliches Urteil ergangen ist.
 
@@ -2121,7 +2138,7 @@ Das EFD:
 
 Das Mehrwertsteuergesetz vom 2. September 1999[^110-1] wird aufgehoben.
 
-[^110-1]: [[AS 2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)[1134](https://fedlex.data.admin.ch/eli/oc/2000/183), [2001 3086](https://fedlex.data.admin.ch/eli/oc/2001/462), [2002 1480](https://fedlex.data.admin.ch/eli/oc/2002/232), [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 5, [2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591)Anhang Ziff. 2, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 52 [2673](https://fedlex.data.admin.ch/eli/oc/2006/408)[5379](https://fedlex.data.admin.ch/eli/oc/2006/822)Anhang Ziff. II 5, [2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Anhang Ziff. 7 [3425](https://fedlex.data.admin.ch/eli/oc/2007/418)Anhang Ziff. 1 [6637](https://fedlex.data.admin.ch/eli/oc/2007/860)Anhang Ziff. II 5]
+[^110-1]: [[AS 2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212), [1134](https://fedlex.data.admin.ch/eli/oc/2000/183); [2001 3086](https://fedlex.data.admin.ch/eli/oc/2001/462); [2002 1480](https://fedlex.data.admin.ch/eli/oc/2002/232); [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 5; [2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591)Anhang Ziff. 2; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 52, [2673](https://fedlex.data.admin.ch/eli/oc/2006/408), [5379](https://fedlex.data.admin.ch/eli/oc/2006/822)Anhang Ziff. II 5; [2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Anhang Ziff. 7, [3425](https://fedlex.data.admin.ch/eli/oc/2007/418)Anhang Ziff. 1, [6637](https://fedlex.data.admin.ch/eli/oc/2007/860)Anhang Ziff. II 5]
 
 #### Art. 111
 
@@ -2129,7 +2146,7 @@ Das Mehrwertsteuergesetz vom 2. September 1999[^110-1] wird aufgehoben.
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-…[^111-1]
+...[^111-1]
 
 [^111-1]: Die Änderungen können unter [AS 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615)konsultiert werden.
 
