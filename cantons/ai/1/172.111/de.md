@@ -4,13 +4,13 @@ number: "172.111"
 title: "Standeskommissionsbeschluss über die Departemente, Amtsstellen und Kommissionen"
 short: StKB Dep
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-01
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-28
 adopted: 2001-04-03
 in_force: 2001-04-03
 url: "https://ai.clex.ch/app/de/texts_of_law/172.111"
-pdf: "https://ai.clex.ch/api/de/versions/1915/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2098/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1915/pdf_file"
 
 (StKB Dep)
 
-vom 03.04.2001 (Stand 01.04.2021)
+vom 03.04.2001 (Stand 01.01.2022)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -119,7 +119,7 @@ beschliesst:
 
 - a) Departementssekretariat
 - b) Landesbuchhaltung
-- c) Finanzcontrolling
+- c) Finanzkontrolle
 - d) Amt für Informatik
 - e) Schatzungsamt
 - f) Steuerverwaltung
@@ -131,6 +131,7 @@ beschliesst:
   - 1\. für landwirtschaftliche Grundstücke
   - 2\. für nichtlandwirtschaftliche Grundstücke
 - b) Informatikstrategiekommission
+- c) Schätzungskommission für Marktwert und Bodenmehrwert
 
 <sup>3</sup> Weitere Aufgaben:
 
@@ -149,7 +150,7 @@ beschliesst:
 - a) Departementssekretariat
 - b) Gesundheitsamt
 - c) Interkantonales Labor (extern)
-- d) Kantonsarzt
+- d) ...
 - e) Sozialamt
 - f) Sekretariat Kindes- und Erwachsenenschutz
 
@@ -158,7 +159,7 @@ beschliesst:
 - a) Aufsichtsbehörde der Ausgleichskasse
 - b) Asylkommission
 - c) …
-- d) Heimkommission Torfnest
+- d) ...
 - e) Verwaltungsrat des Gesundheitszentrums Appenzell
 - f) Kommission für Gesundheitsförderung
 
@@ -189,9 +190,9 @@ beschliesst:
 - c) Kantonspolizei
 - d) Verwaltungspolizei
 - e) Amt für Ausländerfragen
-- f) Amt für Militär
+- f) Amt für Militär und Bevölkerungsschutz
 - g) Zivilstandsamt
-- h) Amt für Bevölkerungsschutz
+- h) ...
 - i) …
 - j) Gerichtskanzlei
 - k) …
@@ -287,12 +288,18 @@ beschliesst:
 - d) Kommunikationsstelle
 - e) Landesarchiv
 - f) Kantonsbibliothek
+- g) Beauftragte oder Beauftragter digitale Verwaltung
 
 <sup>2</sup> Kommissionen:
 
 - a) Schlichtungsstelle für Mietverhältnisse
-- b) Stiftungsrat "Landammann Dr. Albert Broger"
-- c) Stiftungsrat "Pro Innerrhoden" mit Museum Appenzell
+- b) ...
+- c) ...
+
+<sup>3</sup> Weitere Aufgaben:
+
+- a) Stiftung Pro Innerrhoden
+- b) Stiftung Landammann Dr. Albert Broger
 
 #### Art. 10
 
