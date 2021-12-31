@@ -3,11 +3,11 @@ sr: "431.112.1"
 title: Ordonnance du 19 décembre 2008 sur le recensement fédéral de la population (Ordonnance sur le recensement)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/42"
 language: fr
-version: 2009-02-01
+version: 2022-01-01
 adopted: 2008-12-19
 in_force: 2009-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20090201/fr/xml/fedlex-data-admin-ch-eli-cc-2009-42-20090201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20090201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-42-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20090201/fr"
 
 (Ordonnance sur le recensement)
 
-du 19 décembre 2008 (Etat le 1<sup>er</sup> février 2009)
+du 19 décembre 2008 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -168,22 +168,23 @@ Le répertoire des univers statistiques et des caractères à relever (programme
 
 #### Art. 10
 
-**Eléments d’intégration**
+**Éléments d’intégration**
 
 <sup>1</sup> Les éléments d’intégration se composent des caractères clés harmonisés et des identificateurs. Ils permettent de mettre en relation les données individuelles et les résultats des statistiques du recensement.
 
 <sup>2</sup> Les caractères clés harmonisés sont les caractères relevés à chaque enquête. Ils servent à définir de manière uniforme des groupes de population et à les identifier.
 
-<sup>3</sup> Le numéro d’assuré AVS est utilisé comme identificateur de personne. Il permet d’identifier une personne de manière univoque dans différentes séries de données.
+<sup>3</sup> Le numéro AVS[^10-1] est utilisé comme identificateur de personne. Il permet d’identifier une personne de manière univoque dans différentes séries de données.
 
 <sup>4</sup>
 
-L’identificateur fédéral de bâtiment et l’identificateur fédéral de logement au sens de l’art. 6, let. c et d, LHR[^10-1] permettent:
+L’identificateur fédéral de bâtiment et l’identificateur fédéral de logement au sens de l’art. 6, let. c et d, LHR[^10-2] permettent:
 
 - a. d’identifier les bâtiments, les logements et les ménages situés sur le territoire suisse;
 - b. d’attribuer les personnes et les ménages aux bâtiments et aux logements qu’ils occupent.
 
-[^10-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^10-1]: Nouvelle expression selon l’annexe ch. II 15 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-2]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
 
 #### Art. 11
 
@@ -237,7 +238,7 @@ L’identificateur fédéral de bâtiment et l’identificateur fédéral de log
 
 <sup>1</sup> L’obligation de renseigner est réglée, pour chaque type d’enquête, dans l’annexe de l’ordonnance du 30 juin 1993 sur les relevés statistiques[^15-1].
 
-<sup>2</sup> Ne sont pas tenues à l’obligation de renseigner les personnes qui bénéficient de privilèges, d’immunités et de facilités en vertu de l’art. 2, al. 2, de la loi du 22 juin 2007 sur l’Etat hôte[^15-2] et qui sont en possession d’une carte de légitimation du Département fédéral des affaires étrangères.
+<sup>2</sup> Ne sont pas tenues à l’obligation de renseigner les personnes qui bénéficient de privilèges, d’immunités et de facilités en vertu de l’art. 2, al. 2, de la loi du 22 juin 2007 sur l’État hôte[^15-2] et qui sont en possession d’une carte de légitimation du Département fédéral des affaires étrangères.
 
 <sup>3</sup> L’obligation de renseigner vaut également pour les enquêtes de contrôle. Si l’enquête de contrôle est combinée avec une autre enquête statistique de l’OFS, l’obligation de renseigner est régie par les dispositions applicables à cette dernière enquête.
 
@@ -298,7 +299,7 @@ L’OFS publie les chiffres suivants de la population résidante:
 
 <sup>1</sup> Chaque canton désigne, pour son territoire, un service qui assure la collaboration avec l’OFS et la coordination des densifications; il annonce ce service à l’OFS.
 
-<sup>2</sup> L’OFS assiste les cantons sur le plan thématique. A cette fin, il réunit au moins une fois par an les services cantonaux compétents.
+<sup>2</sup> L’OFS assiste les cantons sur le plan thématique. À cette fin, il réunit au moins une fois par an les services cantonaux compétents.
 
 #### Art. 21
 

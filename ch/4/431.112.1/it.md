@@ -3,11 +3,11 @@ sr: "431.112.1"
 title: Ordinanza del 19 dicembre 2008 sul censimento federale della popolazione (Ordinanza sul censimento)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/42"
 language: it
-version: 2009-02-01
+version: 2022-01-01
 adopted: 2008-12-19
 in_force: 2009-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20090201/it/xml/fedlex-data-admin-ch-eli-cc-2009-42-20090201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20090201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-42-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20090201/it"
 
 (Ordinanza sul censimento)
 
-del 19 dicembre 2008 (Stato 1° febbraio 2009)
+del 19 dicembre 2008 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -186,16 +186,17 @@ Il quadro degli universi di base e delle caratteristiche da rilevare (programma 
 
 <sup>2</sup> Le caratteristiche chiave armonizzate sono le caratteristiche rilevate in tutte le rilevazioni. Esse servono a delimitare e identificare gruppi di popolazione in modo unitario.
 
-<sup>3</sup> Quale identificatore personale è utilizzato il numero di assicurato AVS. Esso permette di identificare inequivocabilmente le persone in raccolte di dati differenti.
+<sup>3</sup> Quale identificatore personale è utilizzato il numero AVS[^10-1]. Esso permette di identificare inequivocabilmente le persone in raccolte di dati differenti.
 
 <sup>4</sup>
 
-L’identificatore federale dell’edificio e l’identificatore federale dell’abitazione di cui all’articolo 6 lettere c e d LArRa[^10-1] consentono di:
+L’identificatore federale dell’edificio e l’identificatore federale dell’abitazione di cui all’articolo 6 lettere c e d LArRa[^10-2] consentono di:
 
 - a. identificare gli edifici, le abitazioni e le economie domestiche in Svizzera;
 - b. attribuire le persone e le economie domestiche agli edifici e alle abitazioni che esse occupano.
 
-[^10-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^10-1]: Nuova espr. giusta l’all. n. II 15 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-2]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
 
 #### Art. 11
 
@@ -424,7 +425,7 @@ Il diritto vigente è modificato conformemente all’allegato.
 
 <sup>3</sup> Il numero dell’economia domestica va inviato all’UST trimestralmente assieme agli altri dati a partire dal 31 dicembre 2010, fino a quando il registro degli abitanti non ha attribuito l’identificatore federale dell’abitazione a tutte le persone del proprio territorio.
 
-[^31-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619).Il Catalogo ufficiale delle caratteristiche può essere consultato sul sito Internet dell’UST: http://www.bfs.admin.ch/bfs/portal/it/index/news/00/00/publikationen.html, oppure richiesto presso l’Ufficio federale di statistica, Espace de l’Europe 10, 2010 Neuchâtel.
+[^31-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619).Il Catalogo ufficiale delle caratteristiche può essere consultato sul sito Internet dell’UST: www.bfs.admin.ch/bfs/portal/it/index/news/00/00/publikationen.html, oppure richiesto presso l’Ufficio federale di statistica, Espace de l’Europe 10, 2010 Neuchâtel.
 
 #### Art. 32
 

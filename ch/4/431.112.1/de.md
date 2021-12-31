@@ -3,11 +3,11 @@ sr: "431.112.1"
 title: Verordnung vom 19. Dezember 2008 über die eidgenössische Volkszählung (Volkszählungsverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/42"
 language: de
-version: 2009-02-01
+version: 2022-01-01
 adopted: 2008-12-19
 in_force: 2009-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20090201/de/xml/fedlex-data-admin-ch-eli-cc-2009-42-20090201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20090201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/42/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-42-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/42/20090201/de"
 
 (Volkszählungsverordnung)
 
-vom 19. Dezember 2008 (Stand am 1. Februar 2009)
+vom 19. Dezember 2008 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -183,16 +183,17 @@ Die Übersicht über die Grundgesamtheiten und Erhebungsmerkmale (Erhebungsprogr
 
 <sup>2</sup> Die harmonisierten Schlüsselmerkmale sind diejenigen Merkmale, die in allen Erhebungen erhoben werden. Sie dienen der einheitlichen Abgrenzung und Identifikation von Bevölkerungsgruppen.
 
-<sup>3</sup> Als Personenidentifikator wird die AHV-Versichertennummer verwendet. Er ermöglicht die eindeutige Identifikation einer Person in unterschiedlichen Datenbeständen.
+<sup>3</sup> Als Personenidentifikator wird die AHV-Nummer[^10-1] verwendet. Er ermöglicht die eindeutige Identifikation einer Person in unterschiedlichen Datenbeständen.
 
 <sup>4</sup>
 
-Der eidgenössische Gebäudeidentifikator und der eidgenössische Wohnungsidentifikator nach Artikel 6 Buchstaben c und d RHG[^10-1] ermöglichen:
+Der eidgenössische Gebäudeidentifikator und der eidgenössische Wohnungsidentifikator nach Artikel 6 Buchstaben c und d RHG[^10-2] ermöglichen:
 
 - a. die Identifikation der Gebäude, Wohnungen und Haushalte in der Schweiz;
 - b. die Zuordnung der Personen und der Haushalte zu den Gebäuden und Wohnungen.
 
-[^10-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^10-1]: Ausdruck gemäss Anhang Ziff. II 15 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-2]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
 
 #### Art. 11
 
@@ -393,7 +394,7 @@ Das Erhebungsorgan vernichtet die Erhebungsdokumente und Datenträger, sobald Er
 
 Die Verordnung vom 13. Januar 1999[^28-1] über die eidgenössische Volkszählung 2000 wird aufgehoben.
 
-[^28-1]: [[AS 1999 921](https://fedlex.data.admin.ch/eli/oc/1999/138), [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)Anhang Ziff. II 3, [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. 9]
+[^28-1]: [[AS 1999 921](https://fedlex.data.admin.ch/eli/oc/1999/138); [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)Anhang Ziff. II 3; [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. 9]
 
 #### Art. 29
 
@@ -421,7 +422,7 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 <sup>3</sup> Die Haushaltsnummer ist dem BFS ab dem 31. Dezember 2010 quartalsweise mit den übrigen Daten zu liefern, bis das Einwohnerregister den eidgenössischen Wohnungsidentifikator allen Personen seines Gebiets zugewiesen hat.
 
-[^31-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619).Der amtliche Katalog der Merkmale ist publiziert unter www.bfs.admin.ch/bfs/portal/de/index/news/00/00/publikationen.html auf der Internetseite des Bundesamtes für Statistik oder kann beim BFS, Espace de l’Europe 10, 2010 Neuenburg bestellt werden.
+[^31-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619).Der amtliche Katalog der Merkmale ist publiziert unter: www.bfs.admin.ch/bfs/portal/de/index/news/00/00/publikationen.html auf der Internetseite des Bundesamtes für Statistik oder kann beim BFS, Espace de l’Europe 10, 2010 Neuenburg bestellt werden.
 
 #### Art. 32
 
