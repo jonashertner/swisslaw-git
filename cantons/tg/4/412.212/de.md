@@ -4,13 +4,13 @@ number: "412.212"
 title: Verordnung des Regierungsrates über die berufliche Grundbildung
 short: BbG
 language: de
-version: 2020-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-30
+version: 2022-01-01
+valid_until: 2022-07-31
+version_adopted: 2021-12-21
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.212"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1812/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2114/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ BbG
 
 (BbG)
 
-vom 25.11.2014 (Stand 01.08.2020)
+vom 25.11.2014 (Stand 01.01.2022)
 
 ## 1. Unterricht an den Berufsfachschulen
 
@@ -34,7 +34,7 @@ vom 25.11.2014 (Stand 01.08.2020)
 - 1\. aufgrund eines gültigen Lehrvertrages einen Beruf mit anerkanntem Abschluss erlernt;
 - 2\. von einem anderen Kanton einer kantonalen Berufsfachschule zugewiesen wird;
 - 3\. sich auf die Wiederholung eines Abschlusses vorbereitet;
-- 4\. sich mit Bewilligung des Amtes auf einen Abschluss nach Artikel 32 der Verordnung des Bundesrates über die Berufsbildung[^1-1] vorbereitet.
+- 4\. sich mit Bewilligung des Amtes auf einen Abschluss nach Art. 32 der Verordnung des Bundesrates über die Berufsbildung[^1-1] vorbereitet.
 
 <sup>2</sup> Frei- und Stützkurse können an der Stammschule oder an einer anderen kantonalen Berufsfachschule besucht werden.
 
@@ -116,7 +116,7 @@ vom 25.11.2014 (Stand 01.08.2020)
 - 2\. Krankheit und Unfall, welche den Schulbesuch ausschliessen;
 - 3\. Notfallarbeiten im Ausbildungsbetrieb, wenn das übrige Personal ebenfalls dafür eingesetzt wird;
 - 4\. Betriebsferien bis maximal zwei Wochen;
-- 5\. ausserschulische Jugendarbeit im Rahmen von Artikel 329e OR[^9-1].
+- 5\. ausserschulische Jugendarbeit im Rahmen von Art. 329e OR[^9-1].
 
 [^9-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
@@ -130,16 +130,16 @@ vom 25.11.2014 (Stand 01.08.2020)
 - 2\. zusätzliche Aufgaben;
 - 3\. Wegnahme von den Unterricht störenden Gegenständen für die Dauer des Unterrichts;
 - 4\. Ausschluss vom laufenden Unterricht;
-- 5\. Geldbussen bis 50 Franken.
+- 5\. Geldbussen bis Fr. 50.
 
-<sup>1<sup>bis</sup></sup> Nach Anordnung einer Geldbusse gemäss Absatz 1 Ziffer 5 erlässt der Rektor oder die Rektorin auf Verlangen einen anfechtbaren Entscheid.
+<sup>1<sup>bis</sup></sup> Nach Anordnung einer Geldbusse gemäss Abs. 1 Ziff. 5 erlässt der Rektor oder die Rektorin auf Verlangen einen anfechtbaren Entscheid.
 
 <sup>2</sup> Der Rektor oder die Rektorin kann folgende Disziplinarmassnahmen unter gleichzeitiger Mitteilung an die Lehrvertragsparteien verhängen:
 
 - 1\. schriftlicher Verweis;
 - 2\. vorübergehende Wegweisung aus Unterricht, Freifächern, Exkursionen oder Schulanlässen;
 - 3\. …
-- 4\. Geldbussen bis 200 Franken;
+- 4\. Geldbussen bis Fr. 200;
 - 5\. letzte Warnung (Ultimatum);
 - 6\. Antrag beim Amt auf Auflösung des Ausbildungsverhältnisses;
 - 7\. endgültige Wegweisung von der Schule nach erfolgter Auflösung des Ausbildungsverhältnisses.
@@ -410,7 +410,9 @@ vom 25.11.2014 (Stand 01.08.2020)
 
 **Kurse für Berufsbildner und -bildnerinnen**
 
-<sup>1</sup> Das Amt legt den kantonalen Beitrag für obligatorische Kurse von Berufsbildnern und -bildnerinnen fest.
+<sup>1</sup> Das Amt bewilligt die obligatorischen Kurse für Berufsbildnerinnen und Berufsbildner.
+
+<sup>2</sup> Für berufsübergreifende und obligatorische Kurse für Berufsbildnerinnen und Berufsbildner wird ein vom Amt festgelegter Beitrag ausgerichtet.
 
 #### § 37
 
