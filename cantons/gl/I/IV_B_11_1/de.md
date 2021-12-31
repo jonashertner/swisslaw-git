@@ -2,24 +2,24 @@
 canton: GL
 number: IV B/11/1
 title: Verordnung über die Gesundheitspflege und die Zahnpflege während der obligatorischen Schulzeit
-short: Schulgesundheits- und -zahnpflegeverordnung
+short: Schulgesundheits- und -zahnpflegeverordnung; SGZV
 language: de
-version: 2015-08-01
-valid_until: 2021-12-31
-version_adopted: 2015-05-05
+version: 2022-01-01
+valid_until: 2025-07-31
+version_adopted: 2021-12-21
 adopted: 2012-06-26
 in_force: 2012-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.11.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1764/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2267/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gesundheitspflege und die Zahnpflege während der obligatorischen Schulzeit
 
-(Schulgesundheits- und -zahnpflegeverordnung)
+(Schulgesundheits- und -zahnpflegeverordnung; SGZV)
 
-Vom 26.06.2012 (Stand 01.08.2015)
+Vom 26.06.2012 (Stand 01.01.2022)
 
 Der Regierungsrat,
 
@@ -55,7 +55,9 @@ verordnet:
 
 **Schulbehörde**
 
-<sup>1</sup> Die zuständige Schulbehörde ernennt zur selbstständigen Berufsausübung im Kanton zugelassene Haus- oder Kinderärztinnen und -ärzte zu Schulärztinnen oder Schulärzten und zugelassene Zahnärztinnen oder -ärzte zu Schulzahnärztinnen oder Schulzahnärzten.
+<sup>1</sup> Die zuständige Schulbehörde ernennt zur Berufsausübung in eigener fachlicher Verantwortung im Kanton zugelassene Haus- oder Kinderärztinnen und -ärzte zu Schulärztinnen oder Schulärzten und zugelassene Zahnärztinnen oder -ärzte zu Schulzahnärztinnen oder Schulzahnärzten.
+
+<sup>1a</sup> Die zuständige Schulbehörde kann die schulärztlichen Untersuchungen (Art. 8) auch Pflegefachfrauen oder -männern mit einer Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung im Kanton und einer nachgewiesenen praktischen Tätigkeit im Bereich Kinder und Jugendliche von fünf Jahren übertragen.
 
 <sup>2</sup> Sie meldet die Ernannten dem Departement.
 
@@ -75,6 +77,8 @@ verordnet:
 **Schulärztinnen und -ärzte; Schulzahnärztinnen und -ärzte**
 
 <sup>1</sup> Die Schulärztinnen oder -ärzte führen die gesundheitspflegerischen Leistungen durch.
+
+<sup>1a</sup> Pflegefachfrauen oder -männer gemäss Artikel 4 Absatz 1a sind den Schulärztinnen oder -ärzten betreffend die schulärztlichen Untersuchungen (Art. 8) gleichgestellt.
 
 <sup>2–3</sup> …
 
