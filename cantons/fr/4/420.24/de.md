@@ -4,13 +4,13 @@ number: "420.24"
 title: "Reglement für das Lehrpersonal, das der Volkswirtschaftsdirektion untersteht"
 short: LPR VWD
 language: de
-version: 2020-07-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-29
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-11-30
 adopted: 2011-10-11
 in_force: 2011-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/420.24"
-pdf: "https://bdlf.fr.ch/api/de/versions/6555/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6994/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Lehrpersonal der Volkswirtschaftsdirektion – R
 
 (LPR VWD)
 
-vom 11.10.2011 (Fassung in Kraft getreten am 01.07.2020)
+vom 11.10.2011 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -178,12 +178,12 @@ beschliesst:
 - a) einen Monat bei einer Anstellung für weniger als vier Monate;
 - b) zwei Monate bei einer Anstellung für weniger als sechs Monate;
 - c) vier Monate bei einer Anstellung für weniger als zwölf Monate;
-- d) sechs Monate bei einer Anstellung für ein Jahr;
-- e) ein Jahr bei einer Anstellung für mehr als ein Jahr oder für eine unbestimmte Dauer.
+- d) …
+- e) sechs Monate bei einer Anstellung für ein Jahr oder mehr und bei unbefristeter Anstellung.
 
 <sup>2</sup> Während der Probezeit kann das Dienstverhältnis jederzeit von beiden Parteien mit eingeschriebenem Brief gekündigt werden.
 
-<sup>3</sup> In den ersten drei Monaten kann das Dienstverhältnis von beiden Seiten mit einer Kündigungsfrist von einer Woche auf das Ende einer Woche gekündigt werden. Ab dem vierten Monat kann das Dienstverhältnis einen Monat im Voraus auf Ende Monat aufgelöst werden.
+<sup>3</sup> In den ersten zwei Monaten kann das Dienstverhältnis von beiden Seiten mit einer Kündigungsfrist von einer Woche auf das Ende einer Woche gekündigt werden. Ab dem dritten Monat kann das Dienstverhältnis einen Monat im Voraus auf Ende Monat aufgelöst werden.
 
 <sup>4</sup> Die Anstellungsbehörde kann bei der Anstellung teilweise oder ganz auf die Probezeit verzichten, falls die Lehrperson die entsprechende Funktion schon einmal ausgeübt hat. Ebenso kann die Anstellungsbehörde einer Lehrperson eine Probezeit vorschreiben, wenn sich während der Anstellung der Beschäftigungsgrad wesentlich erhöht.
 
