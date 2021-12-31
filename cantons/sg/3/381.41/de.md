@@ -4,13 +4,12 @@ number: "381.41"
 title: Verordnung über die soziale Sicherung und Integration von Menschen mit Behinderung
 short: BehV
 language: de
-version: 2013-01-01
-valid_until: 2021-12-31
-version_adopted: 2012-12-11
+version: 2022-01-01
+version_adopted: 2021-11-02
 adopted: 2012-12-11
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/381.41"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/972/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3279/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/972/pdf_file"
 
 (BehV)
 
-vom 11.12.2012 (Stand 01.01.2013)
+vom 11.12.2012 (Stand 01.01.2022)
 
 Die Regierung des Kantons St.Gallen erlässt
 
@@ -127,7 +126,7 @@ als Verordnung:[^ingress-2]
 - i) Angaben über Gebäude und Ausstattung sowie Verwendung der Räumlichkeiten;
 - j) Nachweis über Massnahmen zur Qualitätssicherung und -entwicklung;
 - k) Angaben über die interne Aufsicht und deren Unabhängigkeit sowie fachliche Eignung;
-- l) Voranschlag und Finanzplan für die nächsten drei Jahre;
+- l) Voranschlag und Finanzplan für die nächsten vier Jahre;
 - m) Angaben zur Revisionsstelle.
 
 <sup>2</sup> Das Amt für Soziales kann weitere Unterlagen verlangen.
@@ -230,13 +229,13 @@ als Verordnung:[^ingress-2]
 
 **Bedarfsermittlung**
 
-<sup>1</sup> Das Departement des Innern ermittelt den bestehenden und den in den folgenden drei Jahren zu erwartenden Bedarf an stationären Wohnangeboten und Tagesstrukturen sowie die langfristige Bedarfsentwicklung.
+<sup>1</sup> Das Departement des Innern ermittelt den bestehenden und den in den folgenden vier Jahren zu erwartenden Bedarf an stationären Wohnangeboten und Tagesstrukturen sowie die langfristige Bedarfsentwicklung.
 
 #### Art. 18
 
 **Planungsbericht**
 
-<sup>1</sup> Das Departement des Innern unterbreitet der Regierung den Planungsbericht alle drei Jahre zur Genehmigung. Die Regierung kann im Einzelfall eine frühere oder spätere Unterbreitung verlangen.
+<sup>1</sup> Das Departement des Innern unterbreitet der Regierung den Planungsbericht alle vier Jahre zur Genehmigung. Die Regierung kann im Einzelfall eine frühere oder spätere Unterbreitung verlangen.
 
 <sup>2</sup> Der Planungsbericht enthält:
 
@@ -294,7 +293,7 @@ als Verordnung:[^ingress-2]
 - a) Bedarfsnachweis in Bezug auf kantonale Angebotsplanung;
 - b) Nachweis über die Steuerbefreiung sowie Angaben zur Entschädigung der Mitglieder des obersten Leitungsorgans;
 - c) Konzept zur Kostenrechnung oder die bereits geführte Kostenrechnung;
-- d) Voranschlag und Finanzplan für die nächsten drei Jahre.
+- d) Voranschlag und Finanzplan für die nächsten vier Jahre.
 
 <sup>2</sup> Das Amt für Soziales kann weitere Unterlagen verlangen.
 
@@ -345,7 +344,9 @@ als Verordnung:[^ingress-2]
 - e) Kostenrechnung;
 - f) Abschreibungstabelle;
 - g) Stellen- oder Pensenplan;
-- h) vierjährige Investitionsplanung für Vorhaben, für die vom Kanton ein Darlehen oder eine Bürgschaft beantragt wird.
+- h) Mehrjahres- und Investitionsplanung für wenigstens vier Jahre mit Angaben:
+  - 1\. zu den Auswirkungen der geplanten Investitionen auf die Kosten der Angebote;
+  - 2\. zur strategischen Ausrichtung in Bezug auf die Angebotsentwicklung und die Angebotsziele.
 
 <sup>2</sup> Das Amt für Soziales setzt den Termin für die Einreichung fest und kann weitere Unterlagen verlangen.
 
@@ -370,6 +371,17 @@ als Verordnung:[^ingress-2]
 
 - a) je für stationäre Wohnangebote und Tagesstrukturen;
 - b) innerhalb der Leistungsangebote aufgeteilt nach Objekt- und Betreuungskosten.
+
+#### Art. 29a
+
+**b<sup>bis</sup>) Wirtschaftlichkeit und Zweckmässigkeit**
+
+<sup>1</sup> Zur Beurteilung der wirtschaftlichen und zweckmässigen Leistungserbringung zieht das Amt für Soziales betriebswirtschaftliche Kennzahlen, basierend auf den nach Art. 27 dieses Erlasses eingereichten Unterlagen, sowie kantonale Durchschnittswerte bei. Das Amt für Soziales kann die kantonale Angebotsplanung, Daten anderer Kantone oder Sachverständige beiziehen, wenn für bestimmte Angebote keine Referenzwerte innerhalb des Kantons bestehen.
+
+<sup>2</sup> Ist ein Mehr- oder Minderaufwand für das Folgejahr absehbar, stellt die anerkannte Einrichtung beim Amt für Soziales bis Ende Juli des laufenden Jahres begründeten Antrag auf Anpassung des anrechenbaren Nettoaufwands. Die Begründung der beantragten Veränderung beschreibt deren wirtschaftlich relevante Einflussfaktoren und nimmt insbesondere Bezug auf:
+
+- a) die nach Art. 27 Abs. 1 Bst. h dieses Erlasses zuletzt eingereichte Mehrjahres- und Investitionsplanung;
+- b) den jeweils aktuellen Planungs- und Wirkungsbericht.
 
 #### Art. 30
 
@@ -449,7 +461,7 @@ als Verordnung:[^ingress-2]
 - a) bei stationären Wohnangeboten und Tagesstrukturen, die keinen Deckungsbeitrag nach Art. 30 dieses Erlasses erwirtschaften, eine Unterdeckung im Umfang von 10 Prozent des anrechenbaren Nettoaufwandes;
 - b) bei Tagesstrukturen, die einen Deckungsbeitrag erwirtschaften, eine Unterdeckung im Umfang des Deckungsbeitrags nach Art. 30 dieses Erlasses, höchstens aber 30 Prozent des anrechenbaren Nettoaufwandes.
 
-<sup>2</sup> st die jeweilige Unterdeckung des Schwankungsfonds erreicht, werden Defizite über Überschüsse aus anderen Leistungsbereichen oder frei erwirtschafteten Mitteln ausgeglichen.
+<sup>2</sup> Ist die jeweilige Unterdeckung des Schwankungsfonds erreicht, werden Defizite über Überschüsse aus anderen Leistungsbereichen oder frei erwirtschafteten Mitteln ausgeglichen.
 
 #### Art. 38
 
