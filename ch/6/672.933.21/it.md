@@ -3,27 +3,28 @@ sr: "672.933.21"
 title: Ordinanza del 6 settembre 2006 concernente la convenzione svizzero-spagnola di doppia imposizione
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/295"
 language: it
-version: 2007-06-01
+version: 2022-01-01
 adopted: 2006-09-06
 in_force: 2007-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/295/20070601/it/xml/fedlex-data-admin-ch-eli-cc-2007-295-20070601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/295/20070601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/295/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-295-20220101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/295/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la convenzione svizzero-spagnola di doppia imposizione
 
-del 6 settembre 2006 (Stato 1° giugno 2007)
+del 6 settembre 2006 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visto il decreto federale del 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione; in esecuzione della Convenzione del 26 aprile 1966[^ingress-2] tra la Confederazione Svizzera e il Regno di Spagna intesa a evitare le doppie imposizioni nel campo delle imposte sul reddito e sulla sostanza (Convenzione),
+visto l’articolo 35 capoverso 1 della legge federale del 18 giugno 2021[^ingress-1] concernente l’esecuzione delle convenzioni internazionali in ambito fiscale; in esecuzione della Convenzione del 26 aprile 1966[^ingress-2] tra la Confederazione Svizzera e la Spagna, intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito e sulla sostanza (Convenzione),[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [RS 0.672.933.21](https://fedlex.data.admin.ch/eli/cc/1967/294_306_300)
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [RS 0.672.933.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2578)
+[^ingress-3]: Nuovo testo giusta il n. II 8 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## Sezione 1: Scambio di informazioni generale
 
@@ -49,7 +50,7 @@ ordina:
 
 <sup>4</sup> L’Amministrazione federale delle contribuzioni chiede contemporaneamente al detentore delle informazioni di trasmetterle le informazioni e d’invitare la persona interessata a designare in Svizzera un mandatario autorizzato a ricevere le notificazioni.
 
-[^2-1]: RS **0.672.933.211**
+[^2-1]: [RS 0.672.933.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2578)
 
 #### Art. 3
 
@@ -91,7 +92,7 @@ ordina:
 
 <sup>2</sup> L’esecuzione della perquisizione è disciplinata nell’articolo 49 della legge federale del 22 marzo 1974[^6-1] sul diritto penale amministrativo.
 
-[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 

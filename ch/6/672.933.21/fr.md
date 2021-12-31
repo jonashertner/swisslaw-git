@@ -3,29 +3,30 @@ sr: "672.933.21"
 title: "Ordonnance du 6 septembre 2006 relative à la convention de double imposition conclue entre la Suisse et l'Espagne"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/295"
 language: fr
-version: 2007-06-01
+version: 2022-01-01
 adopted: 2006-09-06
 in_force: 2007-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/295/20070601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-295-20070601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/295/20070601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/295/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-295-20220101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/295/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance relative à la convention de double imposition conclue entre la Suisse et l’Espagne
 
-du 6 septembre 2006 (Etat le 1<sup>er</sup> juin 2007)
+du 6 septembre 2006 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’arrêté fédéral du 22 juin 1951 concernant l’exécution des conventions internationales conclues par la Confédération en vue d’éviter les doubles impositions[^ingress-1] et en application de la Convention du 26 avril 1966 conclue entre la Confédération suisse et l’Espagne en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune[^ingress-2] (ci-après désigné par «la Convention»),
+vu l’art. 35, al. 1, de la loi fédérale du 18 juin 2021 relative à l’exécution des conventions internationales dans le domaine fiscal[^ingress-1], et en application de la Convention du 26 avril 1966 conclue entre la Confédération suisse et l’Espagne en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (Convention)[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [RS 0.672.933.21](https://fedlex.data.admin.ch/eli/cc/1967/294_306_300)
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [RS 0.672.933.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2578)
+[^ingress-3]: Nouvelle teneur selon le ch. II 8 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
-## Section 1 Echange de renseignements en général
+## Section 1 Échange de renseignements en général
 
 #### Art. 1
 
@@ -35,7 +36,7 @@ arrête:
 
 <sup>3</sup> Le recours contre la décision de l’Administration fédérale des contributions est régi par les dispositions générales de la procédure fédérale.
 
-## Section 2 Echange de renseignements en cas de fraude fiscale ou d’infraction équivalente
+## Section 2 Échange de renseignements en cas de fraude fiscale ou d’infraction équivalente
 
 #### Art. 2
 
@@ -49,7 +50,7 @@ arrête:
 
 <sup>4</sup> L’Administration fédérale des contributions demande simultanément au détenteur de renseignements de lui remettre les renseignements et d’inviter la personne concernée à désigner en Suisse un mandataire habilité à recevoir des notifications.
 
-[^2-1]: RS **0.672.933.211**
+[^2-1]: [RS 0.672.933.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2578)
 
 #### Art. 3
 
@@ -91,7 +92,7 @@ arrête:
 
 <sup>2</sup> La perquisition est régie par l’art. 49 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^6-1].
 
-[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 
