@@ -4,13 +4,13 @@ number: "860.111"
 title: "Ordonnance sur l'aide sociale"
 short: OASoc
 language: fr
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-01
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2328/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2533/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2328/pdf_file"
 
 (OASoc)
 
-du 24.10.2001 (état au 01.08.2021)
+du 24.10.2001 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -315,9 +315,33 @@ arrête:
 
 <sup>2</sup> La part de la prime d’assurance-maladie dépassant le montant de la réduction ordinaire des primes et la somme octroyée conformément à l’alinéa 1, lettre b n’est pas incluse en tant que dépense à prendre en compte dans le calcul de l’aide matérielle.
 
+<sup>2a</sup> Les bénéficiaires de l’aide sociale venant d’un autre canton qui, jusqu’à la fin de l’année civile, ne touchent pas de leur canton de domicile précédent de réduction de leurs primes ou reçoivent à ce titre un montant inférieur à la réduction ordinaire selon l’article 11 OCAMal se voient accorder, en plus de la somme octroyée conformément à l’alinéa 1, la différence par rapport au montant de la réduction ordinaire.
+
 <sup>3</sup> La part de la prime dépassant le montant de la réduction ordinaire est versée directement à l’assureur-maladie par le service social.
 
 [^8h-1]: RSB [842.111.1](https://www.belex.sites.be.ch/data/842.111.1/fr)
+
+#### Art. 8h1
+
+**Soins médicaux d'urgence 1. Cas extraordinaire**
+
+<sup>1</sup> Est réputé cas extraordinaire une urgence médicale nécessitant un traitement immédiat par un fournisseur de prestations visé à l’article 57l, alinéa 1 LASoc dans le cadre d’un séjour hospitalier au sens de l’article 3 de l’ordonnance fédérale du 3 juillet 2002 sur le calcul des coûts et le classement des prestations par les hôpitaux, les maisons de naissance et les établissements médico-sociaux dans l’assurance-maladie (OCP)[^8h1-1].
+
+<sup>2</sup> Un traitement immédiat est requis si, dans une situation où le pronostic vital est engagé, il y a lieu de prodiguer les premiers soins pour que la personne concernée soit apte à être transférée ensuite dans son pays de domicile ou d’origine.
+
+[^8h1-1]: RS [832.104](https://db.clex.ch/link/Bund/832.104/fr)
+
+#### Art. 8h2
+
+**2. Demande de garantie de participation aux frais**
+
+<sup>1</sup> Le fournisseur de prestations doit déposer auprès du service social compétent une demande de garantie de participation aux frais en utilisant les formulaires officiels mis à disposition par l’OIAS.
+
+<sup>2</sup> Sont à joindre à la demande tous les documents nécessaires à son examen, en particulier
+
+- a un rapport médical attestant l’urgence du traitement facturé,
+- b les relevés des paiements partiels effectués,
+- c les preuves de l’irrécouvrabilité des frais, notamment une présentation des démarches de recouvrement infructueuses.
 
 #### Art. 8i
 
@@ -353,21 +377,29 @@ arrête:
 
 #### Art. 8l
 
-**Restrictions**
+**Aide matérielle restreinte**
 
-<sup>1</sup> Le droit à l’aide sociale est restreint pour les personnes
+<sup>1</sup> L’aide matérielle est restreinte pour les personnes
 
 - a domiciliées ou séjournant à l’étranger;
-- b titulaires d’une autorisation de séjour de courte durée;
-- c séjournant en Suisse pour y chercher un travail selon l’article 2, alinéa 1 de l’annexe I de l’Accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses Etats membres d’autre part, sur la libre circulation des personnes1) ainsi que l’article 2, alinéa 1 de l’annexe K, appendice 1 de la Convention du 4 janvier 1960 instituant l’Association européenne de libreéchange (AELE)[^8l-1].
+- b titulaires d’une autorisation de séjour de courte durée, à moins qu’elles bénéficient d’un contrat de travail d’une durée inférieure à une année et qu’elles soient ressortissantes d’un Etat membre de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE);
+- c séjournant en Suisse pour y chercher un travail selon l’article 2, alinéa 1 de l’annexe I de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses Etats membres, d’autre part, sur la libre circulation des personnes[^8l-1] ainsi que l’article 2, alinéa 1 de l’annexe K, appendice 1 de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE)[^8l-2];
+- d sans droit de séjour;
+- e visées à l’article 61a, alinéas 1 et 2 de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^8l-3], à moins qu’elles remplissent les conditions de l’article 61a, alinéa 5 LEI.
 
-<sup>2</sup> L’aide sociale allouée à ces personnes comprend un forfait pour l’entretien réduit dans une proportion équitable, les primes d’assurance- maladie, les frais médicaux de base et les coûts de logement.
+<sup>2</sup> L’aide matérielle restreinte comprend le droit d’obtenir de l’aide dans des situations de détresse au sens de l’article 12 de la Constitution fédérale (Cst.)[^8l-4] et englobe
 
-<sup>3</sup> Les restrictions ne sont pas applicables aux personnes titulaires d’une autorisation de court séjour délivrée pour un contrat de travail de durée inférieure à une année et tombant, pendant la période de validité de l’autorisation, sous le coup de l’Accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses Etats membres d’autre part, sur la libre circulation des personnes ou de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE).
+- a un hébergement approprié, les soins médicaux de base ainsi qu’un forfait pour la nourriture et l’habillement jusqu’au départ volontaire dans les délais prescrits ou jusqu’au départ sous contrainte en accord avec l’autorité de migration,
+- b les frais de rapatriement et de repas pour le jour du voyage.
 
-<sup>4</sup> Pour les personnes visées à l’alinéa 1 dont le retour dans le pays de domicile, de séjour ou d’origine est possible et peut raisonnablement être exigé, l’aide sociale est limitée à un forfait pour l’entretien réduit dans une proportion équitable, aux soins médicaux d’urgence et aux frais de retour.
+<sup>3</sup> Il y a lieu de tenir compte des besoins particuliers de la personne.
 
-[^8l-1]: RS 0.632.31
+<sup>4</sup> …
+
+[^8l-1]: RS 0.142.112.681
+[^8l-2]: RS 0.632.31
+[^8l-3]: RS [142.20](https://db.clex.ch/link/Bund/142.20/fr)
+[^8l-4]: RS [101](https://db.clex.ch/link/Bund/101/fr)
 
 #### Art. 8m
 
@@ -392,6 +424,14 @@ arrête:
 - c enfant mineur — CHF 15'000
 - d montant maximum par unité d'assistance — CHF 55'000
 
+#### Art. 8o
+
+**Taux hypothécaire de référence en cas de location**
+
+<sup>1</sup> Les services sociaux sont tenus de vérifier régulièrement que le loyer des personnes dans le besoin ne se fonde pas sur un taux hypothécaire de référence trop élevé.
+
+<sup>2</sup> Ils aident les personnes dans le besoin à faire valoir un taux hypothécaire de référence inférieur et leur fournissent les conseils requis.
+
 #### Art. 9
 
 **Saisie de revenu**
@@ -408,13 +448,60 @@ arrête:
 
 #### Art. 10a
 
-**Hypothèque légale**
+**Renonciation à la constitution d’un gage immobilier**
 
-<sup>1</sup> Il n’existe pas d’obligation d’’inscrire une hypothèque légale au registre foncier au sens de l’article 34, alinéa 4 LASoc dès lors que
+<sup>1</sup> Il est possible de renoncer à la conclusion d’un contrat prévoyant la constitution d’un gage immobilier
 
-- a la durée d’octroi de prestations sociales est connue au moment où survient le besoin d’aide sociale et ne dépasse pas six mois;
-- b la vente du bien-fonds est déjà fixée ou
-- c la valeur officielle du bien-fonds est inférieure à 50'000 francs.
+- a s’il est clair, lorsque survient le besoin d’aide sociale, que celui-ci n’est que temporaire;
+- b si la vente du bien-fonds est déjà fixée;
+- c si la valeur officielle du bien-fonds est inférieure à 50’000 francs.
+
+#### Art. 10b
+
+**Dette alimentaire en cas de dessaisissement de fortune 1. Principe**
+
+<sup>1</sup> Si une personne dans le besoin a renoncé à des parts de fortune en faveur de parents tenus de fournir des aliments selon l’article 328 du Code civil suisse (CC)[^10b-1], le service social compétent vérifie l’existence d’un devoir d’assistance des bénéficiaires à hauteur du montant reçu.
+
+<sup>2</sup> Un devoir d’assistance est présumé lorsque les parents qui ont bénéficié des libéralités disposent d’un revenu déterminant équivalant au minimum à celui défini à l’article 10d.
+
+<sup>3</sup> Si aucun accord ne peut être négocié avec les parents qui ont bénéficié des libéralités quant à une contribution d’entretien, il convient de faire valoir le devoir d’assistance devant un tribunal.
+
+[^10b-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+
+#### Art. 10c
+
+**2. Calcul du revenu déterminant**
+
+<sup>1</sup> Le revenu déterminant comprend le revenu imposable calculé selon la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (LIFD)[^10c-1] et une part convertible de la fortune.
+
+<sup>2</sup> La part convertible de la fortune se compose de la fortune imposable déduction faite de la franchise selon l’alinéa 3, le solde étant converti en un montant annuel selon le taux fixé à l’alinéa 4.
+
+<sup>3</sup> La franchise à déduire de la fortune imposable s’élève à
+
+- a 125’000 francs pour les personnes seules et 20’000 francs par enfant mineur ou en formation,
+- b 250’000 francs pour les couples mariés ou vivant en partenariat enregistré et 20’000 francs par enfant mineur ou en formation.
+
+<sup>4</sup> Le taux de conversion de la fortune en montant annuel après déduction de la franchise est le suivant:
+
+<table>
+<tr><th>Age de la personne bénéficiaire</th><th>Taux de conversion</th></tr>
+<tr><td>18-30 ans</td><td>1/60</td></tr>
+<tr><td>31-40 ans</td><td>1/50</td></tr>
+<tr><td>41-50 ans</td><td>1/40</td></tr>
+<tr><td>51-60 ans</td><td>1/30</td></tr>
+<tr><td>A partir de 61 ans</td><td>1/20</td></tr>
+</table>
+
+[^10c-1]: RS [642.11](https://db.clex.ch/link/Bund/642.11/fr)
+
+#### Art. 10d
+
+**3. Devoir d’assistance**
+
+<sup>1</sup> Le revenu déterminant au-delà duquel s’applique le devoir d’assistance est le suivant:
+
+- a 60’000 francs pour les personnes seules et 10’000 francs par enfant mineur ou en formation,
+- b 90’000 francs pour les couples mariés ou vivant en partenariat enregistré et 10’000 francs par enfant mineur ou en formation.
 
 #### Art. 11
 
@@ -465,25 +552,36 @@ arrête:
 - c paraît inéquitable au vu de l’ensemble des circonstances ou
 - d paraît disproportionné compte tenu de la situation financière et personnelle.
 
+### 2.1a Sûretés en cas de location
+
+#### Art. 11c1
+
+<sup>1</sup> Lorsqu’une personne dans le besoin doit verser une garantie de loyer, le service social peut lui avancer un montant approprié.
+
+<sup>2</sup> Il convient avec la personne dans le besoin de tranches de remboursement qu’il déduit de l’aide matérielle en tenant compte du principe de la couverture des besoins.
+
+<sup>3</sup> Si la personne qui a bénéficié de l’avance n’est plus dans le besoin avant la fin du remboursement, elle
+
+- a restitue le solde en une fois ou
+- b continue de verser les tranches conformément à la convention jusqu’au remboursement complet de l’avance.
+
 ### 2.2 Compétence
 
 #### Art. 11d
 
-**Domicile**
+**Domicile d’assistance**
 
-<sup>1</sup> La commune dans laquelle la personne dans le besoin a déposé ses papiers est, sauf preuve contraire, réputée commune de domicile.
+<sup>1</sup> Est réputé domicile d’assistance au sens de l’article 46, alinéa 1 LASoc la commune dans laquelle la personne dans le besoin a déposé ses papiers, sauf preuve contraire.
 
 #### Art. 12
 
 **Commune de séjour**
 
-<sup>1</sup> Est considérée comme commune de séjour compétente au sens de l'article 46, alinéa 2 LASoc[^12-1] la commune dans laquelle la personne s'est trouvée en situation de dénuement.
+<sup>1</sup> Est réputée commune de séjour au sens de l’article 46, alinéa 2 LASoc la commune dans laquelle la personne s’est trouvée en situation de dénuement.
 
-<sup>2</sup> La commune de séjour reste compétente jusqu'à ce que la personne ait un domicile ou un nouveau lieu de séjour ou jusqu'à ce que la commune de domicile soit en mesure de prendre le relais. Le placement dans un établissement, un foyer ou un hôpital ne constitue pas un nouveau lieu de séjour.
+<sup>2</sup> La commune de séjour reste compétente jusqu’à ce que la personne ait fondé un domicile d’assistance ou un nouveau lieu de séjour ou jusqu’à ce que la commune du domicile d’assistance soit en mesure de prendre le relais. Le placement dans un établissement, un foyer ou un hôpital ne constitue pas un nouveau lieu de séjour.
 
 <sup>3</sup> La commune où est sis un établissement d'exécution n'est pas considérée comme commune de séjour au sens de l'article 46, alinéa 2 LASoc pour les personnes qui y sont placées.
-
-[^12-1]: RSB 860.1
 
 #### Art. 13
 
@@ -497,13 +595,9 @@ arrête:
 
 **2 Avis d'assistance**
 
-<sup>1</sup> Les communes chargées de l'assistance sont tenues de notifier un avis d'assistance à l'OIAS dans les 30 jours suivant la décision.
+<sup>1</sup> Les avis d’assistance au sens de la LAS doivent être adressés dès que possible à l’OIAS au moyen des formulaires prescrits par ce dernier.
 
-<sup>2</sup> Dans les cas d'urgence au sens de l'article 13 LAS[^14-1], l'avis d'assistance doit être notifié à l'OIAS aussi rapidement que possible.
-
-<sup>3</sup> Les avis d'assistance doivent être notifiés au moyen des formulaires prescrits par l'OIAS.
-
-[^14-1]: RS [851.1](https://db.clex.ch/link/Bund/851.1/fr)
+<sup>2–3</sup> …
 
 #### Art. 15
 
@@ -629,7 +723,7 @@ arrête:
 
 **Rapport**
 
-<sup>1</sup> Les services sociaux rendent compte à la fin de chaque année civile à l’OIAS des inspections sociales effectuées.
+<sup>1</sup> Les organismes responsables des services sociaux rendent compte à la fin de chaque année civile à l’OIAS des inspections sociales effectuées.
 
 <sup>2</sup> Le rapport contient des indications sur le nombre d’enquêtes, leurs conclusions, leur durée et leurs coûts ainsi que sur les sanctions prononcées et précise le cas échéant les noms des tiers mandatés pour les réaliser.
 
@@ -639,9 +733,7 @@ arrête:
 
 #### Art. 24
 
-<sup>1</sup> L'autorisation d'exploiter délivrée aux fournisseurs de prestations et la surveillance dont ils font l'objet au sens des articles 65s. LASoc sont régies par les dispositions de l'ordonnance du 18 septembre 1996 sur les foyers et les ménages privés prenant en charge des personnes tributaires de soins (ordonnance sur les foyers, OFoy)[^24-1].
-
-[^24-1]: RSB 862.51
+**…**
 
 ### 3.2 Rétribution des prestations
 
@@ -656,63 +748,9 @@ arrête:
 [^25-1]: RSB 641.1
 [^25-2]: RSB 641.111
 
-#### Art. 25a
+#### Art. 25a–25d
 
-**Coûts des soins en mode résidentiel 1 Contribution du canton**
-
-<sup>1</sup> L’Office de la santé (ODS) rémunère les fournisseurs de prestations pour les soins résidentiels qui ne sont pas couverts par les assurances sociales ni par les bénéficiaires de prestations et qui sont prodigués à des personnes domiciliées dans le canton de Berne comme suit:
-
-- a degré de soins 1: — CHF 0.00 par jour
-- b degré de soins 2: — CHF 0.00 par jour
-- c degré de soins 3: — CHF 4.10 par jour
-- d degré de soins 4: — CHF 16.85 par jour
-- e degré de soins 5: — CHF 29.60 par jour
-- f degré de soins 6: — CHF 42.40 par jour
-- g degré de soins 7: — CHF 55.15 par jour
-- h degré de soins 8: — CHF 67.90 par jour
-- i degré de soins 9: — CHF 80.65 par jour
-- k degré de soins 10: — CHF 93.45 par jour
-- l degré de soins 11: — CHF 106.20 par jour
-- m degré de soins 12: — CHF 118.95 par jour
-
-<sup>2</sup> Les factures établies par les fournisseurs de prestations doivent comporter les indications suivantes:
-
-- a le total des coûts correspondant au degré de soins,
-- b la part à la charge des assureurs-maladie,
-- c la part à la charge du canton,
-- d la part à la charge des bénéficiaires de prestations mettant en évidence leurs participations dues respectivement pour les soins et pour l’hôtellerie.
-
-<sup>3</sup> En cas de recours à des soins résidentiels dans un autre canton, l’ODS rémunère les coûts conformément à l’article 25a, alinéa 5 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^25a-1].
-
-[^25a-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/fr)
-
-#### Art. 25b
-
-**2 Participation aux coûts des bénéficiaires de prestations**
-
-<sup>1</sup> La participation aux coûts des bénéficiaires de prestations ne doit pas dépasser le pourcentage fixé à l’article 25a, alinéa 5 LAMal.
-
-#### Art. 25c
-
-**Coûts des soins en mode ambulatoire 1 Contribution du canton**
-
-<sup>1</sup> L’ODS rémunère les fournisseurs de prestations pour les soins prodigués en mode ambulatoire qui ne sont pas couverts par les assurances sociales ni par les bénéficiaires de prestations et qui sont prodigués à des personnes domiciliées dans le canton de Berne.
-
-<sup>2</sup> Les coûts pris en charge sont les suivants:
-
-- a évaluation et conseils: — CHF 18.95 par heure
-- b examens et traitements: — CHF 18.95 par heure
-- c soins de base: — CHF 18.95 par heure
-
-<sup>3</sup> En cas de recours à des soins ambulatoires dans un autre canton, l’ODS rémunère les coûts conformément à l’article 25a, alinéa 5 LAMal.
-
-#### Art. 25d
-
-**2 Participation aux coûts des bénéficiaires de prestations**
-
-<sup>1</sup> Les bénéficiaires de prestations ayant atteint l’âge de 65 ans révolus participent aux coûts à hauteur du pourcentage fixé à l’article 25a, alinéa 5 LAMal.
-
-<sup>2–6</sup> …
+**…**
 
 #### Art. 26
 
@@ -774,109 +812,11 @@ arrête:
 
 <sup>1</sup> La DSSI ou, avec son autorisation, les communes peuvent expérimenter des formes particulières de rétribution des prestations dans le cadre d'essais ou de projets-pilotes.
 
-## 3a Formation et perfectionnement
+## 3a
 
-#### Art. 31a
+#### Art. 31a–31i
 
-**Professions de la santé non universitaires**
-
-<sup>1</sup> Les établissements médicosociaux (EMS) et les services d’aide et de soins à domicile participent à la formation et au perfectionnement pratiques des professions de la santé non universitaires selon l’annexe 2.
-
-#### Art. 31b
-
-**Potentiel de formation**
-
-<sup>1</sup> Le potentiel de formation est fixé individuellement pour chaque formation et chaque perfectionnement sous forme de norme selon les alinéas 2 et 3.
-
-<sup>2</sup> La norme des EMS définit le nombre de semaines de formation et de perfectionnement qu’un établissement doit dispenser annuellement par poste à plein temps selon la dotation type en personnel.
-
-<sup>3</sup> La norme des services d’aide et de soins à domicile définit le nombre de semaines de formation et de perfectionnement qu’un service doit dispenser par année pour 1000 heures de prestations selon l’article 7 de l’ordonnance du DFI du 29 septembre 1995 sur les prestations dans l’assurance obligatoire des soins en cas de maladie (ordonnance sur les prestations de l’assurance des soins, OPAS)[^31b-1].
-
-<sup>4</sup> L’annexe 3 définit les normes applicables aux professions en soins et assistance.
-
-[^31b-1]: RS 832.112.31
-
-#### Art. 31c
-
-**Pondération**
-
-<sup>1</sup> La pondération de la formation et du perfectionnement tient compte des besoins en la matière recensés par la planification des soins.
-
-<sup>2</sup> Elle est définie à l’annexe 4.
-
-#### Art. 31d
-
-**Indemnisation**
-
-<sup>1</sup> Les fournisseurs de prestations sont indemnisés sous forme de forfaits pour chaque place de formation et de perfectionnement.
-
-<sup>2</sup> L’indemnisation correspond aux charges occasionnées par la personne en formation ou en perfectionnement.
-
-<sup>3</sup> L’annexe 5 définit les indemnités applicables à chaque formation et perfectionnement.
-
-#### Art. 31e
-
-**Prestation de formation et de perfectionnement 1 Principe**
-
-<sup>1</sup> L'ODS fixe la prestation de formation ou de perfectionnement exigée du fournisseur de prestations sous forme de points de formation et de montants en francs.
-
-#### Art. 31f
-
-**2 Points de formation et de perfectionnement**
-
-<sup>1</sup> La prestation de formation ou de perfectionnement sous forme de points correspond au total des points de formation ou de perfectionnement prévus aux alinéas 2 et 3.
-
-<sup>2</sup> La prestation en points pour chaque formation et chaque perfectionnement dispensés par un EMS s’obtient en multipliant
-
-- a le nombre de postes à plein temps selon la dotation type de l’établissement par
-- b la pondération prévue à l’article 31c, alinéa 2, et par
-- c la norme prévue à l’article 31b, alinéa 2.
-
-<sup>3</sup> La prestation en points pour chaque formation et chaque perfectionnement dispensés par un service d’aide et de soins à domicile s’obtient en multipliant
-
-- a le nombre d’heures de prestations selon l’article 7 OPAS divisé par 1000 par
-- b l’indemnisation prévue à l’article 31c, alinéa 2, et par
-- c la norme prévue à l’article 31b, alinéa 3.
-
-#### Art. 31g
-
-**3 Montant en francs**
-
-<sup>1</sup> La prestation de formation ou de perfectionnement sous forme de montant en francs correspond au total des montants prévus aux alinéas 2 et 3.
-
-<sup>2</sup> La prestation en francs pour chaque formation et chaque perfectionnement dispensés par un EMS s’obtient en multipliant
-
-- a le nombre d’heures de prestations selon l’article 7 OPAS par
-- b l’indemnisation prévue à l’article 31d, alinéa 3 et par
-- c la norme prévue à l’article 31b, alinéa 2.
-
-<sup>3</sup> La prestation en francs pour chaque formation et chaque perfectionnement dispensés par un service d’aide et de soins à domicile s’obtient en multipliant
-
-- a le nombre d’heures de prestations selon l’article 7 OPAS divisé par 1000 par
-- b l’indemnisation prévue à l’article 31d, alinéa 3, et par
-- c la norme prévue à l’article 31b, alinéa 3.
-
-#### Art. 31h
-
-**Indemnisation**
-
-<sup>1</sup> L’ODS verse les indemnités prévues à l’annexe 3 pour la prestation de formation et de perfectionnement fournie par le fournisseur de prestations.
-
-<sup>2</sup> Si les indemnités dues pour la prestation de formation et de perfectionnement effectivement fournie est inférieure à la somme reçue sur la base de l’article 31g, alinéa 1 pendant l’exercice, le fournisseur de prestations verse la différence à l’ODS.
-
-<sup>3</sup> Si les indemnités dues pour la prestation de formation et de perfectionnement effectivement fournie est supérieure à la somme reçue sur la base de l’article 31g, alinéa 1 pendant l’exercice, l’ODS verse la différence au fournisseur de prestations.
-
-#### Art. 31i
-
-**Versement compensatoire**
-
-<sup>1</sup> Le fournisseur de prestations verse une compensation à la DSSI si la prestation de formation et de perfectionnement fournie en points est inférieure de plus de dix pour cent à celle qui est prévue à l’article 31f, alinéa 1.
-
-<sup>2</sup> Le montant de la compensation correspond à trois fois la différence mentionnée à l’article 31h, alinéa 2.
-
-<sup>3</sup> Si l’indemnisation due pour la prestation de formation et de perfectionnement effectivement fournie est supérieure à la somme reçue sur la base de l’article 31g, alinéa 1 pendant l’exercice, la compensation représente le triple du montant obtenu en multipliant la différence en pour cent entre la prestation fixée par décision et la prestation effective par la somme reçue.
-
-<sup>4</sup> L'ODS fixe la compensation par voie de décision.
+**…**
 
 ## 4 Compensation des charges (art. 78 à 83 LASoc)
 
@@ -987,7 +927,7 @@ arrête:
 
 **Forfait d'aide matérielle**
 
-<sup>1</sup> Le forfait par cas d'aide matérielle s'élève à 2349 francs.
+<sup>1</sup> Le forfait par cas d'aide matérielle s'élève à 2358 francs.
 
 <sup>2</sup> Est considérée comme cas d'aide matérielle l'unité d'assistance à laquelle est versée l'aide matérielle au cours de l'année civile.
 
@@ -1000,11 +940,15 @@ arrête:
 
 <sup>4</sup> Les personnes en placement résidentiel sont considérées comme une unité d'assistance propre.
 
+<sup>5</sup> Est aussi considérée comme un cas au sens de l’alinéa 1 la situation dans laquelle des prestations résidentielles ou ambulatoires conformément à l’article 2, alinéa 1 de la loi du 3 décembre 2020 sur les prestations particulières d’encouragement et de protection destinées aux enfants (LPEP)[^34d-1] sont attribuées sans qu’il n’existe encore d’unité d’assistance selon les alinéas 3 ou 4, lorsque la prestation donne lieu à un préfinancement de la part du service compétent de la DIJ et que les coûts ne sont pas intégralement pris en charge par les personnes tenues de participer à ceux-ci conformément aux articles 34 et 35 LPEP.
+
+[^34d-1]: RSB [213.319](https://www.belex.sites.be.ch/data/213.319/fr)
+
 #### Art. 34e
 
 **Forfait de consultation préventive**
 
-<sup>1</sup> Le forfait par cas de consultation préventive s'élève à 1174 francs.
+<sup>1</sup> Le forfait par cas de consultation préventive s'élève à 1179 francs.
 
 <sup>2</sup> Est considérée comme cas de consultation préventive l'assistance à une personne nécessitant de l'aide ou à une unité d'assistance dans un cas au moins, lorsque
 
@@ -1020,7 +964,7 @@ arrête:
 
 **Forfait de recouvrement des contributions d'entretien**
 
-<sup>1</sup> Le forfait par cas de recouvrement s'élève à 380 francs.
+<sup>1</sup> Le forfait par cas de recouvrement s'élève à 382 francs.
 
 <sup>2</sup> Est considérée comme cas de recouvrement l'activité au sens de l'article 1 ou 1a de la loi du 6 février 1980 sur l’aide au recouvrement et les avances de contributions d’entretien[^34f-1] ou de l'article 37 LASoc.
 
@@ -1032,7 +976,7 @@ arrête:
 
 **Forfait d'avance de contributions d'entretien**
 
-<sup>1</sup> Le forfait par cas d'avance de contribution d'entretien s'élève à 494 francs.
+<sup>1</sup> Le forfait par cas d'avance de contribution d'entretien s'élève à 496 francs.
 
 <sup>2</sup> Est considérée comme cas d'avance de contribution d'entretien l'avance faite au sens de l'article 3 de la loi sur l’aide au recouvrement et les avances de contributions d’entretien.
 
@@ -1068,17 +1012,9 @@ arrête:
 
 #### Art. 41
 
-**Avec autorisation**
-
-<sup>1</sup> Les contributions versées par les communes aux fournisseurs de prestations de l'aide sociale institutionnelle sont admises à la compensation des charges pour autant qu'elles soient octroyées conformément aux dispositions sur la rétribution des prestations de la présente ordonnance (art. 25ss) et avec l'autorisation de la DSSI.
-
-<sup>2</sup> Les communes peuvent porter à la compensation des charges les dépenses découlant de la planification des prestations de l'aide sociale institutionnelle pour autant qu'elle soit réalisée sur mandat de la DSSI ou avec son consentement.
-
-<sup>3</sup> Les demandes d'autorisation déposées pour des prestations d'aide sociale institutionnelle doivent être examinées en tenant compte des frais de traitement versés aux personnes accomplissant un stage dans l'institution dans le cadre d'une formation spécialisée.
+**…**
 
 #### Art. 41a
-
-**Sans autorisation**
 
 <sup>1</sup> Sont considérées comme dépenses admises à la compensation des charges découlant de la législation spéciale les dépenses dans le cadre de la législation sur l'aide au recouvrement et les avances de contributions d'entretien.
 

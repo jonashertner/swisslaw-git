@@ -4,13 +4,13 @@ number: "860.111"
 title: Verordnung über die öffentliche Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-01
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2328/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2533/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2328/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-vom 24.10.2001 (Stand 01.08.2021)
+vom 24.10.2001 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -317,9 +317,33 @@ beschliesst:
 
 <sup>2</sup> Bei der Berechnung der wirtschaftlichen Hilfe sind Prämienanteile der obligatorischen Krankenpflegeversicherung, welche die ordentliche Prämienverbilligung und den Betrag gemäss Absatz 1 übersteigen, nicht als anrechenbarer Aufwand mit einzubeziehen.
 
+<sup>2a</sup> Personen, die Leistungen der Sozialhilfe beziehen und wegen des Zuzugs aus einem andern Kanton bis Ende des Kalenderjahres vom früheren Wohnkanton keine oder eine Prämienverbilligung erhalten, die tiefer ist als die ordentliche Prämienverbilligung gemäss Artikel 11 KKVV, wird die Differenz zur ordentlichen Prämienverbilligung zusätzlich zum Prämienanteil gemäss Absatz 1 gewährt.
+
 <sup>3</sup> Der Sozialdienst richtet die Prämienanteile, welche die ordentliche Prämienverbilligung übersteigen, direkt dem Krankenversicherer aus.
 
 [^8h-1]: BSG [842.111.1](https://www.belex.sites.be.ch/data/842.111.1/de)
+
+#### Art. 8h1
+
+**Medizinische Notfallbehandlungen 1. Ausserordentlicher Fall**
+
+<sup>1</sup> Ein ausserordentlicher Fall liegt vor, wenn ein medizinischer Notfall sofort eine Behandlung im Rahmen eines stationären Aufenthalts nach Artikel 3 der eidgenössischen Verordnung vom 3. Juli 2002 über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung (VKL)[^8h1-1] bei einem Leistungserbringer nach Artikel 57l Absatz 1 SHG erfordert.
+
+<sup>2</sup> Eine Behandlung ist sofort erforderlich, wenn mit einer Erstversorgung ein akuter lebensbedrohlicher Zustand zu beseitigen ist, um die betroffene Person danach in den Wohn- oder Heimatstaat zu verlegen.
+
+[^8h1-1]: SR [832.104](https://db.clex.ch/link/Bund/832.104/de)
+
+#### Art. 8h2
+
+**2. Gesuch um Kostengutsprache**
+
+<sup>1</sup> Der Leistungserbringer hat das Gesuch um Kostengutsprache mit den vom AIS zur Verfügung gestellten amtlichen Formularen beim zuständigen Sozialdienst einzureichen.
+
+<sup>2</sup> Einzureichen sind alle zur Beurteilung des Gesuchs erforderlichen Beilagen, insbesondere
+
+- a ärztlicher Bericht, der die in Rechnung gestellte Behandlung als Notfallbehandlung qualifiziert,
+- b Belege über erfolgte Teilzahlungen,
+- c Belege über die Uneinbringlichkeit der Kosten, insbesondere über erfolglose Inkassobemühungen.
 
 #### Art. 8i
 
@@ -355,22 +379,29 @@ beschliesst:
 
 #### Art. 8l
 
-**Einschränkungen**
+**Einschränkungen der wirtschaftlichen Hilfe**
 
 <sup>1</sup> Für folgende Personen ist der Anspruch auf Sozialhilfe eingeschränkt:
 
 - a Personen mit Wohnsitz oder Aufenthalt im Ausland,
-- b Personen mit Kurzaufenthaltsbewilligung,
+- b Personen mit Kurzaufenthaltsbewilligung, ausser sie stehen in einem befristeten unterjährigen Arbeitsverhältnis und sind Staatsangehörige der Mitgliedstaaten der EU oder der EFTA,
 - c Personen, die sich gemäss Artikel 2 Absatz 1 Anhang I zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit[^8l-1] und Artikel 2 Absatz 1 Anhang K Anlage 1 zum Übereinkommen vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA)[^8l-2] zur Arbeitssuche in der Schweiz aufhalten.
+- d Personen ohne Aufenthaltsrecht,
+- e Personen nach Artikel 61a Absätze 1 und 2 des Bundesgesetzes vom 16. Dezember 2005 über die Ausländerinnen und Ausländer und über die Integration (Ausländer- und Integrationsgesetz, AIG)[^8l-3], ausser sie erfüllen die Voraussetzungen nach Artikel 61a Absatz 5 AIG.
 
-<sup>2</sup> Die Sozialhilfe umfasst in diesen Fällen einen angemessen reduzierten Grundbedarf, die Krankenkassenprämie, die medizinische Grundversorgung sowie die Wohnkosten.
+<sup>2</sup> Die eingeschränkte wirtschaftliche Hilfe umfasst das Recht auf Hilfe in Notlagen nach Artikel 12 der Bundesverfassung (BV)[^8l-4] und besteht
 
-<sup>3</sup> Nicht von der Einschränkung betroffen sind Personen mit einer Kurzaufenthaltsbewilligung für ein befristetes, unterjähriges Arbeitsverhältnis, die unter das Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit oder unter das Übereinkommen vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA) fallen, für die Dauer ihrer Aufenthaltsbewilligung.
+- a bis zur pflichtgemässen und selbstständigen Ausreise oder bis zur mit den Migrationsbehörden abgesprochenen zwangsweisen Ausreise aus einer angemessenen Unterbringung, aus der medizinischen Grundversorgung sowie aus einer Pauschale für Nahrung und Kleidung,
+- b für den Reisetag aus den Rückreisekosten und einem Essensgeld.
 
-<sup>4</sup> Für Personen gemäss Absatz 1, für die eine Rückreise in den Wohnsitz- bzw. Aufenthaltsstaat oder in den Heimatstaat möglich und zumutbar ist, beschränkt sich die Sozialhilfe auf einen angemessen reduzierten Grundbedarf, medizinische Notfallbehandlung sowie die Rückreisekosten.
+<sup>3</sup> Auf besondere Bedürfnisse ist Rücksicht zu nehmen.
+
+<sup>4</sup> …
 
 [^8l-1]: SR 0.142.112.681
 [^8l-2]: SR 0.632.31
+[^8l-3]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
+[^8l-4]: SR [101](https://db.clex.ch/link/Bund/101/de)
 
 #### Art. 8m
 
@@ -395,6 +426,14 @@ beschliesst:
 - c pro minderjähriges Kind — CHF 15'000
 - d pro Unterstützungseinheit höchstens — CHF 55'000
 
+#### Art. 8o
+
+**Referenzzinssatz bei Mietverhältnissen**
+
+<sup>1</sup> Die Sozialdienste sind verpflichtet, regelmässig zu prüfen, dass den Mietverhältnissen der bedürftigen Personen kein zu hoher Referenzzinssatz zugrunde liegt.
+
+<sup>2</sup> Sie unterstützen und beraten die bedürftigen Personen bei der Geltendmachung des tieferen Referenzzinssatzes.
+
 #### Art. 9
 
 **Einkommenspfändung**
@@ -411,13 +450,60 @@ beschliesst:
 
 #### Art. 10a
 
-**Gesetzliche Grundpfandrechte**
+**Verzicht auf Errichtung eines Grundpfands**
 
-<sup>1</sup> Keine Verpflichtung gemäss Artikel 34 Absatz 4 SHG zur Eintragung eines gesetzlichen Grundpfandrechts besteht, wenn
+<sup>1</sup> Auf den Abschluss eines Vertrags auf Errichtung eines Grundpfands kann verzichtet werden, wenn
 
-- a zum Zeitpunkt des Eintritts der Bedürftigkeit bereits feststeht, wann sie wegfällt, und sie weniger als sechs Monate dauert,
-- b der Verkauf des Grundstücks bereits feststeht oder
+- a zum Zeitpunkt des Eintritts der Bedürftigkeit bereits feststeht, dass sie in absehbarer Zeit wegfällt,
+- b der Verkauf des Grundstücks bereits feststeht,
 - c der amtliche Wert des Grundstücks weniger als 50'000 Franken beträgt.
+
+#### Art. 10b
+
+**Verwandtenunterstützung bei Vermögensverzicht 1. Grundsatz**
+
+<sup>1</sup> Hat eine bedürftige Person zugunsten von Verwandten, die nach Artikel 328 des Schweizerischen Zivilgesetzbuches (ZGB)[^10b-1] unterstützungspflichtig sind, auf Vermögen verzichtet, prüft der zuständige Sozialdienst, ob die begünstigten Verwandten zur Leistung von Unterstützung im Umfang des Vermögens herangezogen werden können, das sie von der bedürftigen Person erhalten haben.
+
+<sup>2</sup> Von einer Unterstützungspflicht ist auszugehen, wenn die begünstigten Verwandten über ein anrechenbares Einkommen verfügen, das mindestens jenem gemäss Artikel 10d entspricht.
+
+<sup>3</sup> Kann mit den begünstigten Verwandten keine Vereinbarung zur Leistung von Unterstützung getroffen werden, ist die Unterstützungspflicht klageweise geltend zu machen.
+
+[^10b-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
+#### Art. 10c
+
+**2. Berechnung des anrechenbaren Einkommens**
+
+<sup>1</sup> Das anrechenbare Einkommen setzt sich zusammen aus dem steuerbaren Einkommen nach dem Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)[^10c-1] und einem Vermögensverzehr.
+
+<sup>2</sup> Der Vermögensverzehr ergibt sich aus dem steuerbaren Vermögen minus eines Freibetrags nach Absatz 3; der verbleibende Betrag wird gemäss den Umwandlungsquoten nach Absatz 4 in den jährlichen Vermögensverzehr umgerechnet.
+
+<sup>3</sup> Vom steuerbaren Vermögen werden folgende Freibeträge abgezogen:
+
+- a bei alleinstehenden Verwandten 125’000 Franken, zuzüglich 20'000 Franken pro minderjährigem oder in Ausbildung stehendem Kind,
+- b bei verheirateten Verwandten oder Verwandten, die in einer eingetragenen Partnerschaft leben, 250'000 Franken, zuzüglich 20'000 Franken pro minderjährigem oder in Ausbildung stehendem Kind.
+
+<sup>4</sup> Der nach Abzug des Freibetrags verbleibende Vermögensbetrag wird gemäss den folgenden Quoten in den jährlichen Vermögensverzehr umgewandelt:
+
+<table>
+<tr><th>Alter der verwandten Person</th><th>Umwandlungsquoten</th></tr>
+<tr><td>18-30</td><td>1/60</td></tr>
+<tr><td>31-40</td><td>1/50</td></tr>
+<tr><td>41-50</td><td>1/40</td></tr>
+<tr><td>51-60</td><td>1/30</td></tr>
+<tr><td>Ab 60</td><td>1/20</td></tr>
+</table>
+
+[^10c-1]: SR [642.11](https://db.clex.ch/link/Bund/642.11/de)
+
+#### Art. 10d
+
+**3. Unterstützungspflicht**
+
+<sup>1</sup> Das anrechenbare Einkommen, das zur Unterstützungspflicht von Verwandten führt, muss folgende Beträge übersteigen:
+
+- a bei alleinstehenden Verwandten 60’000 Franken, zuzüglich 10'000 Franken pro minderjährigem oder in Ausbildung stehendem Kind,
+- b bei verheirateten Verwandten oder Verwandten, die in einer eingetragener Partnerschaft leben, 90'000 Franken, zuzüglich 10'000 Franken pro minderjährigem oder in Ausbildung stehendem Kind.
 
 #### Art. 11
 
@@ -468,25 +554,36 @@ beschliesst:
 - c aufgrund der gesamten Umstände unbillig erscheint oder
 - d unter Berücksichtigung der finanziellen und persönlichen Situation unverhältnismässig erscheint.
 
+### 2.1a Sicherheitsleistung bei Wohnungsmieten
+
+#### Art. 11c1
+
+<sup>1</sup> Der Sozialdienst kann der bedürftigen Person einen angemessenen Betrag vorschiessen, wenn diese eine Sicherheit für die Wohnungsmiete leisten muss.
+
+<sup>2</sup> Er vereinbart mit der bedürftigen Person Abzahlungsraten und verrechnet diese unter Wahrung des Bedarfsdeckungsprinzips mit der wirtschaftlichen Hilfe.
+
+<sup>3</sup> Besteht vor der vollständigen Abzahlung des Vorschusses keine wirtschaftliche Bedürftigkeit mehr, hat die ehemals bedürftige Person
+
+- a den Restbetrag zurückzuzahlen oder
+- b die noch nicht abbezahlten Raten vereinbarungsgemäss bis zur vollständigen Abzahlung des Vorschusses zu tilgen.
+
 ### 2.2 Zuständigkeit
 
 #### Art. 11d
 
-**Wohnsitz**
+**Unterstützungswohnsitz**
 
-<sup>1</sup> Die Gemeinde, in der die bedürftige Person ihre Ausweisschriften hinterlegt hat, gilt als Wohnsitzgemeinde, wenn nicht nachgewiesen ist, dass der Wohnsitz sich nicht dort befindet.
+<sup>1</sup> Als Unterstützungswohnsitz nach Artikel 46 Absatz 1 SHG gilt die Gemeinde, in der die bedürftige Person ihre Ausweisschriften hinterlegt hat, wenn nicht das Gegenteil nachgewiesen ist.
 
 #### Art. 12
 
 **Aufenthaltsgemeinde**
 
-<sup>1</sup> Als Aufenthaltsgemeinde gemäss Artikel 46 Absatz 2 SHG[^12-1] zuständig ist diejenige Gemeinde, in der die Bedürftigkeit aufgetreten ist.
+<sup>1</sup> Als Aufenthaltsgemeinde nach Artikel 46 Absatz 2 SHG gilt die Gemeinde, in der die Bedürftigkeit aufgetreten ist.
 
-<sup>2</sup> Die Zuständigkeit der Aufenthaltsgemeinde bleibt bestehen, bis ein Wohnsitz oder neuer Aufenthalt begründet wird oder bis die Wohnsitzgemeinde Hilfe zu gewähren imstande ist. Die Unterbringung in einer Anstalt, in einem Heim oder in einem Spital begründet keinen neuen Aufenthalt.
+<sup>2</sup> Die Zuständigkeit der Aufenthaltsgemeinde bleibt bestehen, bis ein Unterstützungswohnsitz oder neuer Aufenthalt begründet wird oder bis der Unterstützungswohnsitz Hilfe zu gewähren imstande ist. Die Unterbringung in einer Anstalt, in einem Heim oder in einem Spital begründet keinen neuen Aufenthalt.
 
 <sup>3</sup> Personen im Justizvollzug begründen in der Standortgemeinde der Vollzugseinrichtung keinen Aufenthalt im Sinne von Artikel 46 Absatz 2 SHG.
-
-[^12-1]: BSG 860.1
 
 #### Art. 13
 
@@ -498,15 +595,11 @@ beschliesst:
 
 #### Art. 14
 
-**2 Unterstützungsanzeigen**
+**2. Unterstützungsanzeigen**
 
-<sup>1</sup> Unterstützungspflichtige Gemeinden haben dem AIS binnen 30 Tagen seit dem Unterstützungsbeschluss Unterstützungsanzeige zu erstatten.
+<sup>1</sup> Die Unterstützungsanzeigen gemäss ZUG sind dem AIS so rasch als möglich mit den vom AIS vorgeschriebenen Formularen einzureichen.
 
-<sup>2</sup> In Notfällen gemäss Artikel 13 ZUG[^14-1] ist die Unterstützungsanzeige dem AIS so rasch als möglich zu erstatten.
-
-<sup>3</sup> Für die Unterstützungsanzeigen sind die vom AIS vorgeschriebenen Formulare zu verwenden.
-
-[^14-1]: SR [851.1](https://db.clex.ch/link/Bund/851.1/de)
+<sup>2–3</sup> …
 
 #### Art. 15
 
@@ -636,7 +729,7 @@ beschliesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Die Sozialdienste erstatten dem AIS Ende jeden Kalenderjahres Bericht über die durchgeführten Sozialinspektionen.
+<sup>1</sup> Die Trägerschaften der Sozialdienste erstatten dem AIS Ende jeden Kalenderjahres Bericht über die durchgeführten Sozialinspektionen.
 
 <sup>2</sup> Der Bericht enthält Angaben über die Anzahl der Sozialinspektionen, die Ergebnisse, die Sanktionen, die Dauer und Kosten der Abklärungen sowie gegebenenfalls die Namen der vom Sozialdienst beauftragten Dritten.
 
@@ -646,10 +739,7 @@ beschliesst:
 
 #### Art. 24
 
-<sup>1</sup> Die Zulassung und Beaufsichtigung der Leistungserbringer gemäss Artikel 65f. SHG[^24-1] richtet sich nach den Bestimmungen der Verordnung vom 18. September 1996 über die Betreuung und Pflege von Personen in Heimen und privaten Haushalten[^24-2] (Heimverordnung, HEV).
-
-[^24-1]: BSG 860.1
-[^24-2]: BSG 862.51
+**…**
 
 ### 3.2 Leistungsabgeltung
 
@@ -664,63 +754,9 @@ beschliesst:
 [^25-1]: BSG 641.1
 [^25-2]: BSG 641.111
 
-#### Art. 25a
+#### Art. 25a–25d
 
-**Pflegekosten im stationären Bereich 1 Beitrag des Kantons**
-
-<sup>1</sup> Das Gesundheitsamt (GA) vergütet den Erbringern von Leistungen der stationären Pflege die nicht von den Sozialversicherungen und den Leistungsempfängerinnen und Leistungsempfängern gedeckten Pflegekosten der Leistungsempfängerinnen und Leistungsempfänger mit Wohnsitz im Kanton Bern:
-
-- a bei Pflegestufe 1: — CHF 0.00
-- b bei Pflegestufe 2: — CHF 0.00
-- c bei Pflegestufe 3: — CHF 4.10
-- d bei Pflegestufe 4: — CHF 16.85
-- e bei Pflegestufe 5: — CHF 29.60
-- f bei Pflegestufe 6: — CHF 42.40
-- g bei Pflegestufe 7: — CHF 55.15
-- h bei Pflegestufe 8: — CHF 67.90
-- i bei Pflegestufe 9: — CHF 80.65
-- k bei Pflegestufe 10: — CHF 93.45
-- l bei Pflegestufe 11: — CHF 106.20
-- m bei Pflegestufe 12: — CHF 118.95
-
-<sup>2</sup> Die Leistungserbringer müssen für ihre Leistungen folgende Angaben separat ausweisen:
-
-- a das Total der Pflegekosten der entsprechenden Pflegestufe,
-- b den Finanzierungsanteil der Krankenversicherer,
-- c den Finanzierungsanteil des Kantons,
-- d den Finanzierungsanteil der Leistungsempfängerin oder des Leistungsempfängers, unterteilt in Anteil Pflege und Anteil Hotellerie.
-
-<sup>3</sup> Werden ausserkantonale Leistungen der stationären Pflege in Anspruch genommen, vergütet das GA die Pflegekosten nach Artikel 25a Absatz 5 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^25a-1].
-
-[^25a-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
-
-#### Art. 25b
-
-**2 Kostenbeteiligung der Leistungsempfängerinnen und Leistungsempfänger**
-
-<sup>1</sup> Die Kostenbeteiligung der Leistungsempfängerinnen und Leistungsempfänger an den Pflegekosten entspricht maximal der nach Artikel 25a Absatz 5 KVG zulässigen Beteiligung.
-
-#### Art. 25c
-
-**Pflegekosten im ambulanten Bereich 1 Beitrag des Kantons**
-
-<sup>1</sup> Das GA vergütet den Erbringern von Leistungen der ambulanten Pflege die nicht von den Sozialversicherungen und den Leistungsempfängerinnen und Leistungsempfängern gedeckten Pflegekosten der Leistungsempfängerinnen und Leistungsempfänger mit Wohnsitz im Kanton Bern.
-
-<sup>2</sup> Diese betragen für
-
-- a Abklärung und Beratung: — CHF 18.95 pro Stunde
-- b Behandlungspflege: — CHF 18.95 pro Stunde
-- c Grundpflege: — CHF 18.95 pro Stunde
-
-<sup>3</sup> Werden ausserkantonale Leistungen der ambulanten Pflege in Anspruch genommen, vergütet das GA die Pflegekosten nach Artikel 25a Absatz 5 KVG.
-
-#### Art. 25d
-
-**2 Kostenbeteiligung der Leistungsempfängerinnen und Leistungsempfänger**
-
-<sup>1</sup> Leistungsempfängerinnen und Leistungsempfänger, die das 65. Altersjahr vollendet haben, beteiligen sich in der nach Artikel 25a Absatz 5 KVG maximal zulässigen Höhe an den Pflegekosten.
-
-<sup>2–6</sup> …
+**…**
 
 #### Art. 26
 
@@ -782,109 +818,11 @@ beschliesst:
 
 <sup>1</sup> Die GSI, oder mit ihrer Ermächtigung die Gemeinden, können im Rahmen von Versuchen und Pilotprojekten besondere Formen der Leistungsabgeltung erproben.
 
-## 3a Aus- und Weiterbildung
+## 3a
 
-#### Art. 31a
+#### Art. 31a–31i
 
-**Nicht universitäre Gesundheitsberufe**
-
-<sup>1</sup> Die Wohn- und Pflegeheime sowie die Spitex-Organisationen beteiligen sich an der Aus- und Weiterbildung in den nicht universitären Gesundheitsberufen gemäss Anhang 2.
-
-#### Art. 31b
-
-**Ausbildungspotenzial**
-
-<sup>1</sup> Das Ausbildungspotenzial wird für jede Aus- oder Weiterbildung einzeln als Standard gemäss Absatz 2 und 3 festgelegt.
-
-<sup>2</sup> Der Standard bei Wohn- und Pflegeheimen legt fest, wie viele Aus- oder Weiterbildungswochen das Wohn- und Pflegeheim pro Vollzeitstelle gemäss Richtstellenplan pro Jahr erbringen muss.
-
-<sup>3</sup> Der Standard bei Spitex-Organisationen legt fest, wie viele Aus- oder Weiterbildungswochen eine Spitex-Organisation pro 1000 Leistungsstunden nach Artikel 7 der Verordnung des EDI vom 29. September 1995 über Leistungen in der obligatorischen Krankenpflegeversicherung (Krankenpflege-Leistungsverordnung, KLV)[^31b-1] pro Jahr erbringen muss.
-
-<sup>4</sup> Anhang 3 enthält die Standards für die Berufsgruppe Pflege und Betreuung.
-
-[^31b-1]: SR 832.112.31
-
-#### Art. 31c
-
-**Gewichtung der Aus- und Weiterbildungen**
-
-<sup>1</sup> Die Gewichtung der Aus- und Weiterbildungen beachtet insbesondere den in der Versorgungsplanung erhobenen Bedarf an Aus- und Weiterbildungen.
-
-<sup>2</sup> Anhang 4 enthält die Gewichtung der Aus- und Weiterbildungen.
-
-#### Art. 31d
-
-**Abgeltung der einzelnen Aus- und Weiterbildungen**
-
-<sup>1</sup> Die Abgeltung an die Leistungserbringer für die einzelnen Aus- und Weiterbildungsplätze erfolgt in Form von Pauschalen.
-
-<sup>2</sup> Sie entspricht dem Aus- und Weiterbildungsaufwand, den die in Aus- oder Weiterbildung stehende Person verursacht.
-
-<sup>3</sup> Anhang 5 enthält die Abgeltungen für die einzelnen Aus- und Weiterbildungen.
-
-#### Art. 31e
-
-**Aus- und Weiterbildungsleistung 1 Grundsatz**
-
-<sup>1</sup> Das GA legt die vom Leistungserbringer geforderte Aus- und Weiterbildungsleistung in Form von Ausbildungspunkten und in Form des Frankenbetrags fest.
-
-#### Art. 31f
-
-**2 In Form von Aus- und Weiterbildungspunkten**
-
-<sup>1</sup> Die Aus- und Weiterbildungsleistung in Form von Aus- und Weiterbildungspunkten ergibt sich aus der Summe der Aus- und Weiterbildungspunkte gemäss Absatz 2 und 3.
-
-<sup>2</sup> Sie ergibt sich für die einzelnen von einem Wohn- und Pflegeheim erbrachten Aus- oder Weiterbildungen aus der Multiplikation von
-
-- a Anzahl Vollzeitstellen gemäss Richtstellenplan des Wohn- und Pflegeheims,
-- b Gewichtung gemäss Artikel 31c Absatz 2,
-- c Standard gemäss Artikel 31b Absatz 2.
-
-<sup>3</sup> Sie ergibt sich für die einzelnen von einer Spitex-Organisation erbrachten Aus- oder Weiterbildungen aus der Multiplikation von
-
-- a Anzahl Stunden, die die Spitex-Organisation für die Erbringung von Leistungen nach Artikel 7 KLV aufwendet, dividiert durch tausend,
-- b Gewichtung gemäss Artikel 31c Absatz 2,
-- c Standard gemäss Artikel 31b Absatz 3.
-
-#### Art. 31g
-
-**3 In Form des Frankenbetrags**
-
-<sup>1</sup> Die Aus- und Weiterbildungsleistung in Form des Frankenbetrags ergibt sich aus der Summe der Frankenbeträge gemäss Absatz 2 und 3.
-
-<sup>2</sup> Sie ergibt sich für die einzelnen von einem Wohn- und Pflegeheim erbrachten Aus- oder Weiterbildungen aus der Multiplikation von
-
-- a Anzahl Vollzeitstellen gemäss Richtstellenplan des Wohn- und Pflegeheims,
-- b Abgeltung gemäss Artikel 31d Absatz 3,
-- c Standard gemäss Artikel 31b Absatz 2.
-
-<sup>3</sup> Sie ergibt sich für die einzelnen von einer Spitex-Organisation erbrachten Aus- oder Weiterbildungen aus der Multiplikation von
-
-- a Anzahl Stunden, die die Spitex-Organisation für die Erbringung von Leistungen nach Artikel 7 KLV aufwendet, dividiert durch tausend,
-- b Abgeltung gemäss Artikel 31d Absatz 3,
-- c Standard gemäss Artikel 31b Absatz 3.
-
-#### Art. 31h
-
-**Abgeltung der Aus- und Weiterbildungsleistung**
-
-<sup>1</sup> Das GA entrichtet für die durch den Leistungserbringer erbrachte Aus- und Weiterbildungsleistung die Abgeltung gemäss Anhang 3.
-
-<sup>2</sup> Liegt die Summe dieser Abgeltungen für die tatsächlich erbrachte Aus- und Weiterbildungsleistung unter der Summe, die der Leistungserbringer nach Artikel 31g Absatz 1 im betreffenden Rechnungsjahr erhalten hat, zahlt der Leistungserbringer die Differenz an das GA.
-
-<sup>3</sup> Liegt die Summe dieser Abgeltungen für die tatsächlich erbrachte Aus- und Weiterbildungsleistung über der Summe, die der Leistungserbringer nach Artikel 31g Absatz 1 im betreffenden Rechnungsjahr erhalten hat, zahlt das GA die Differenz an den Leistungserbringer.
-
-#### Art. 31i
-
-**Ausgleichszahlung**
-
-<sup>1</sup> Der Leistungserbringer hat eine Ausgleichszahlung an die GSI zu leisten, wenn die erbrachte Aus- und Weiterbildungsleistung mehr als zehn Prozent unter der Aus- und Weiterbildungsleistung gemäss Artikel 31f Absatz 1 liegt.
-
-<sup>2</sup> Die Höhe der Ausgleichszahlung entspricht der dreifachen Differenz nach Artikel 31h Absatz 2.
-
-<sup>3</sup> Liegt die Abgeltung für die tatsächlich erbrachte Aus- und Weiterbildungsleistung über der Summe, die der Leistungserbringer nach Artikel 31g Absatz 1 im betreffenden Rechnungsjahr erhalten hat, entspricht die Ausgleichszahlung dem dreifachen Betrag, der sich aus der Multiplikation der prozentualen Abweichung zwischen verfügter und effektiv erbrachter Aus- und Weiterbildungsleistung mit der verfügten Abgeltung ergibt.
-
-<sup>4</sup> Das GA legt die Ausgleichszahlung durch Verfügung fest.
+**…**
 
 ## 4 Lastenausgleich (Art. 78 bis 83 SHG )
 
@@ -972,7 +910,7 @@ beschliesst:
 
 <sup>1</sup> Die Kosten für vertrauensärztliche Untersuchungen einer bedürftigen Person durch Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte sind lastenausgleichsberechtigt, soweit sie nicht von den Sozialversicherungen getragen werden.
 
-### 4.2.4 Besoldungs- und Weiterbildungsaufwendungen
+### 4.2.4 Aufwendungen für die Besoldung und Weiterbildung
 
 #### Art. 34–34b
 
@@ -993,7 +931,7 @@ beschliesst:
 
 **Pauschale für die wirtschaftliche Hilfe**
 
-<sup>1</sup> Die Pauschale pro Fall wirtschaftlicher Hilfe beträgt 2349 Franken.
+<sup>1</sup> Die Pauschale pro Fall wirtschaftlicher Hilfe beträgt 2358 Franken.
 
 <sup>2</sup> Als Fall wirtschaftlicher Hilfe gilt eine Unterstützungseinheit, der im Laufe des Kalenderjahres wirtschaftliche Hilfe ausgerichtet wird.
 
@@ -1006,11 +944,15 @@ beschliesst:
 
 <sup>4</sup> Stationär untergebrachte Personen bilden eine eigene Unterstützungseinheit.
 
+<sup>5</sup> Ein Fall nach Absatz 1 liegt auch dann vor, wenn an Personen stationäre oder ambulante Leistungen gemäss Artikel 2 Absatz 1 des Gesetzes vom 3. Dezember 2020 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG)[^34d-1] vermittelt werden und noch keine Unterstützungseinheit nach Absatz 3 oder 4 besteht sowie die Leistung von der zuständigen Stelle der DIJ vorfinanziert wird und die Kosten nicht vollständig von den gemäss Artikel 34 und 35 KFSG zur Kostenbeteiligung verpflichteten Personen getragen werden.
+
+[^34d-1]: BSG [213.319](https://www.belex.sites.be.ch/data/213.319/de)
+
 #### Art. 34e
 
 **Pauschale für die präventive Beratung**
 
-<sup>1</sup> Die Pauschale pro Fall präventiver Beratung beträgt 1174 Franken.
+<sup>1</sup> Die Pauschale pro Fall präventiver Beratung beträgt 1179 Franken.
 
 <sup>2</sup> Als Fall präventiver Beratung gilt die Unterstützung einer hilfesuchenden Person bzw. einer Unterstützungseinheit bei mindestens einer Problemlage, wenn
 
@@ -1026,7 +968,7 @@ beschliesst:
 
 **Pauschale für das Inkasso von Unterhaltsbeiträgen**
 
-<sup>1</sup> Die Pauschale pro Inkassofall beträgt 380 Franken.
+<sup>1</sup> Die Pauschale pro Inkassofall beträgt 382 Franken.
 
 <sup>2</sup> Als Inkassofall gilt die Tätigkeit gestützt auf Artikel 1 oder 1a des Gesetzes vom 6. Februar 1980 über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen[^34f-1] oder auf Artikel 37 SHG.
 
@@ -1038,7 +980,7 @@ beschliesst:
 
 **Pauschale für die Bevorschussung von Unterhaltsbeiträgen**
 
-<sup>1</sup> Die Pauschale pro Bevorschussungsfall beträgt 494 Franken.
+<sup>1</sup> Die Pauschale pro Bevorschussungsfall beträgt 496 Franken.
 
 <sup>2</sup> Als Bevorschussungsfall gilt die Bevorschussung von Unterhaltsbeiträgen gestützt auf Artikel 3 des Gesetzes über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen.
 
@@ -1074,17 +1016,9 @@ beschliesst:
 
 #### Art. 41
 
-**Mit Ermächtigung**
-
-<sup>1</sup> Die Beiträge der Gemeinden an die Leistungserbringer im Bereich der institutionellen Sozialhilfe sind lastenausgleichsberechtigt, soweit sie im Rahmen der vorstehenden Bestimmungen über die Leistungsabgeltung (Art. 25ff.) und der Ermächtigung der GSI gewährt werden.
-
-<sup>2</sup> Die Aufwendungen der Gemeinden für die Planung der institutionellen Leistungsangebote sind lastenausgleichsberechtigt, sofern die Planung im Auftrag oder mit Zustimmung der GSI erfolgt.
-
-<sup>3</sup> Bei der Erteilung von Ermächtigungen für institutionelle Leistungsangebote sind die Besoldungsaufwendungen für Personen, die in der entsprechenden Institution für die Erlangung einer Fachausbildung Praktika absolvieren, zu berücksichtigen.
+**…**
 
 #### Art. 41a
-
-**Ohne Ermächtigung**
 
 <sup>1</sup> Als lastenausgleichsberechtigte Aufwendungen gemäss besonderer Gesetzgebung gelten die Aufwendungen im Rahmen der Gesetzgebung über das Inkasso und die Bevorschussung von Unterhaltsbeiträgen.
 
