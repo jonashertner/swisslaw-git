@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 septembre 1952 sur les allocations pour perte de ga
 short: LAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20210701/fr"
 
 (LAPG)**[^t-1]**
 
-du 25 septembre 1952 (Etat le 1<sup>er</sup> juillet 2021)
+du 25 septembre 1952 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -743,18 +743,19 @@ Les cantons sont responsables des dommages subis au titre du régime d’allocat
 
 <sup>1</sup> L’application de la présente loi incombe aux organes de l’assurance-vieillesse et survivants, avec la collaboration des états-majors et unités militaires. Pour la protection civile, l’exécution a lieu en collaboration avec les comptables des organismes de protection; pour le service civil, en collaboration avec l’Office fédéral du service civil[^21-1] et les établissements d’affectation.[^21-2]
 
-<sup>2</sup> À moins que la présente loi n’en dispose autrement, les dispositions de la LAVS[^21-3] concernant les employeurs, les caisses de compensation, le règlement des comptes et des paiements, la comptabilité, la révision des caisses et le contrôle des employeurs, la Centrale de compensation et le numéro d’assuré sont applicables par analogie. La responsabilité des organes de l’AVS, au sens de l’art. 49 LAVS, est réglée à l’art. 78 LPGA[^21-4], ainsi qu’aux art. 52, 70 et 71*a* LAVS, qui s’appliquent par analogie.[^21-5]
+<sup>2</sup> À moins que la présente loi n’en dispose autrement, les dispositions de la LAVS[^21-3] concernant les employeurs, les caisses de compensation, le règlement des comptes et des paiements, la comptabilité, la révision des caisses et le contrôle des employeurs, la Centrale de compensation et le numéro AVS[^21-4] sont applicables par analogie. La responsabilité des organes de l’AVS, au sens de l’art. 49 LAVS, est réglée à l’art. 78 LPGA[^21-5], ainsi qu’aux art. 52, 70 et 71*a* LAVS, qui s’appliquent par analogie.[^21-6]
 
-<sup>3</sup> En dérogation à l’art. 78 LPGA, la responsabilité des comptables des états-majors et des unités est soumise à la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^21-6], celle des comptables des organismes de protection civile, à la loi du 17 juin 1994 sur la protection civile[^21-7].[^21-8]
+<sup>3</sup> En dérogation à l’art. 78 LPGA, la responsabilité des comptables des états-majors et des unités est soumise à la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire[^21-7], celle des comptables des organismes de protection civile, à la loi du 17 juin 1994 sur la protection civile[^21-8].[^21-9]
 
 [^21-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 [^21-2]: Phrase introduite par l’art. 93 de la LF du 23 mars 1962 sur la protection civile ([RO 1962 1127](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [FF 1961 II 693](https://fedlex.data.admin.ch/eli/fga/1961/2_693_693_1417)). Nouvelle teneur selon le ch. II 2 de la LF du 3 oct. 2008, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^21-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^21-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^21-5]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^21-6]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^21-7]: [[RO 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 9, [1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 14. [RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)art. 76 ch. 1]. Voir actuellement la LF du 4 oct. 2002 sur la protection de la population et sur la protection civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
-[^21-8]: Introduit par l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^21-4]: Nouvelle expression selon l’annexe ch. 34 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^21-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^21-6]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^21-7]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^21-8]: [[RO 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 9, [1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 14. [RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)art. 76 ch. 1]. Voir actuellement la LF du 4 oct. 2002 sur la protection de la population et sur la protection civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^21-9]: Introduit par l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
 #### Art. 22
 

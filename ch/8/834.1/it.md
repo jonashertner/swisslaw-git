@@ -4,11 +4,11 @@ title: "Legge federale del 25 settembre 1952 sulle indennità di perdita di guad
 short: LIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20210701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20210701/it"
 
 (Legge sulle indennità di perdita di guadagno, LIPG)[^t-1]
 
-del 25 settembre 1952 (Stato 1° luglio 2021)
+del 25 settembre 1952 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -748,18 +748,19 @@ I Cantoni rispondono dei danni subiti dall’ordinamento delle indennità per pe
 
 <sup>1</sup> La presente legge è applicata dagli organi dell’assicurazione vecchiaia e superstiti con la collaborazione dei contabili degli stati maggiori e delle unità militari. Per la protezione civile l’applicazione avviene con la collaborazione dei contabili degli organi di protezione; per il servizio civile con la collaborazione dell’Ufficio federale del servizio civile[^21-1] e degli istituti d’impiego.[^21-2]
 
-<sup>2</sup> Per quanto la presente legge non disponga altrimenti, si applicano per analogia le disposizioni della LAVS[^21-3] concernenti i datori di lavoro, le casse di compensazione, il regolamento dei conti e dei pagamenti, la contabilità, la revisione delle casse e il controllo dei datori di lavoro, l’Ufficio centrale di compensazione e il numero d’assicurato. La responsabilità per danni degli organi dell’AVS di cui all’articolo 49 della LAVS è retta dagli articoli 78 LPGA[^21-4] e, per analogia, 52, 70 e 71*a* della LAVS.[^21-5]
+<sup>2</sup> Per quanto la presente legge non disponga altrimenti, si applicano per analogia le disposizioni della LAVS[^21-3] concernenti i datori di lavoro, le casse di compensazione, il regolamento dei conti e dei pagamenti, la contabilità, la revisione delle casse e il controllo dei datori di lavoro, l’Ufficio centrale di compensazione e il numero AVS[^21-4]. La responsabilità per danni degli organi dell’AVS di cui all’articolo 49 della LAVS è retta dagli articoli 78 LPGA[^21-5] e, per analogia, 52, 70 e 71*a* della LAVS.[^21-6]
 
-<sup>3</sup> In deroga all’articolo 78 LPGA, la responsabilità dei contabili degli stati maggiori e delle unità militari è sottoposta alla legge militare del 3 febbraio 1995[^21-6], quella dei contabili dell’organizzazione di protezione sottostà alla legge del 17 giugno 1994[^21-7] sulla protezione civile.[^21-8]
+<sup>3</sup> In deroga all’articolo 78 LPGA, la responsabilità dei contabili degli stati maggiori e delle unità militari è sottoposta alla legge militare del 3 febbraio 1995[^21-7], quella dei contabili dell’organizzazione di protezione sottostà alla legge del 17 giugno 1994[^21-8] sulla protezione civile.[^21-9]
 
 [^21-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2019.
 [^21-2]: Per. introdotto dall’art. 93 della LF del 23 mar. 1962 sulla protezione civile ([RU 1962 1131](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); FF **1961** 1417). Nuovo testo giusta il n. II 2 della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^21-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^21-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^21-5]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^21-6]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^21-7]: [[RU 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 9, [1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 14. [RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)art. 76 n. 1]. Vedi ora la LF del 4 ott. 2002 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
-[^21-8]: Introdotto dall’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^21-4]: Nuova espr. giusta l’all. n. 34 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^21-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^21-6]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^21-7]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^21-8]: [[RU 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 9, [1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 14. [RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)art. 76 n. 1]. Vedi ora la LF del 4 ott. 2002 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^21-9]: Introdotto dall’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 22
 
