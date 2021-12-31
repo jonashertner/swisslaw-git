@@ -1,105 +1,382 @@
 ---
 canton: TG
 number: "188.23"
-title: Weisung des Katholischen Kirchenrates an die Katholischen Kirchenvorsteherschaften betreffend die Ausübung des Stimm- und Wahlrechtes
+title: Gesetz der Katholischen Synode über die katholischen Kirchgemeinden des Kantons Thurgau
 short: KGG
 language: de
-version: 1997-03-01
-valid_until: 2021-12-31
-version_adopted: 1997-01-23
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2020-11-26
 adopted: 2020-11-26
 in_force: 2022-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.23"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/945/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2437/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Weisung des Katholischen Kirchenrates an die Katholischen Kirchenvorsteherschaften betreffend die Ausübung des Stimm- und Wahlrechtes
+# Gesetz der Katholischen Synode über die katholischen Kirchgemeinden des Kantons Thurgau
 
-Weisung des Kath. Kirchenrates - Ausübung des Stimm- und Wahlrechts
+KGG
 
-vom 23.01.1997 (Stand 01.03.1997)
+(KGG)
+
+vom 26.11.2020 (Stand 01.01.2022)
+
+## 1. Allgemeine Bestimmungen
 
 #### § 1
 
-**Stimmregister**
+**Stimm- und Wahlrecht**
 
-<sup>1</sup> Die Kirchenvorsteherschaften führen ein Stimmregister.
+<sup>1</sup> In Angelegenheiten der Kirchgemeinden sind die ausländischen Mitglieder der Kirchgemeinden stimm- und wahlberechtigt, sobald sie das im Kanton für Schweizer Bürger geltende Stimmrechtsalter erreicht haben und über die Aufenthaltsbewilligung (Ausweis B) oder die Niederlassungsbewilligung (Ausweis C) in der Schweiz verfügen.
 
-<sup>2</sup> Sie sollen dies, soweit möglich, mit den Politischen Gemeinden zusammen tun.
+<sup>2</sup> Ausländischen Mitgliedern mit einem anderen ausländerrechtlichen Status kann der Kirchgemeinderat das Stimm- und Wahlrecht auf Gesuch hin erteilen, wenn sie einen mindestens fünfjährigen Aufenthalt in der Schweiz nachweisen und gut integriert sind.
 
-<sup>3</sup> Für die ausländischen Stimmberechtigten ist ein gesondertes Stimmregister durch die Kirchenvorsteherschaft zu führen.
+<sup>3</sup> Personen, die bei einer Kirchgemeinde mit einem Beschäftigungsgrad von über 15 Prozent angestellt sind, sind in den betreffenden Kirchgemeinderat nicht wählbar.
 
 #### § 2
 
-**Ausländer**
+**Verhältnis der Kirchgemeinde zur Pfarrei**
 
-<sup>1</sup> Nach § 5 KOG[^2-1] gilt, dass mündige ausländische Katholiken (Alter 18 Jahre) mit mindestens fünfjährigem ununterbrochenem Aufenthalt in der Schweiz, sich in das Stimmregister der Kirchgemeinde eintragen lassen können.
+<sup>1</sup> Eine Kirchgemeinde kann gebietsmässig eine oder mehrere Pfarreien umfassen oder zusammen mit weiteren Kirchgemeinden dem Gebiet einer Pfarrei entsprechen.
 
-<sup>2</sup> Der Nachweis erfolgt mittels Ausländerausweis.
-
-<sup>3</sup> Begehren um Eintragung ins Stimmregister sind an die Kirchenvorsteherschaften zu richten, die über die Aufnahme ins Stimmregister zu entscheiden hat. Falls diese den Eintrag ablehnt, hat sie den Bescheid schriftlich und eingeschrieben mitzuteilen unter Angabe des Rechtsmittels gemäss § 48 ff. KOG.
-
-<sup>4</sup> Das Stimm- und Wahlrecht wird innert 30 Tagen nach Eintrag ins Stimmregister wirksam (Beschwerdefrist).
-
-[^2-1]: [188.21](https://www.rechtsbuch.tg.ch/data/188.21/de)
+## 2. Gesamtheit der Stimmberechtigten
 
 #### § 3
 
-**Stimmrecht nach Heirat**
+**Kirchgemeindeversammlung**
 
-<sup>1</sup> Heiratet eine katholische Person eine nichtkatholische, so ist sie weiter als katholisch zu betrachten, es sei denn, sie erkläre ausdrücklich den Austritt aus der Kirche.
+<sup>1</sup> Die Kirchgemeinde trifft ihre Entscheide in der Kirchgemeindeversammlung, soweit nicht die Abstimmung oder die Wahl an der Urne zu erfolgen hat.
+
+<sup>2</sup> Während der Versammlung können neue Geschäfte nur auf die Tagesordnung gesetzt werden, wenn die Mehrheit einem solchen Antrag zustimmt. Mit Zustimmung des Kirchgemeinderats kann die Kirchgemeindeversammlung sofort entscheiden.
+
+<sup>3</sup> Ergibt sich bei offener Abstimmung Stimmengleichheit, so entscheidet die Stimme des Präsidenten oder der Präsidentin der Kirchgemeinde. Ergibt sich bei geheimer Abstimmung Stimmengleichheit, so ist der Antrag abgelehnt.
+
+<sup>4</sup> Das Präsidium und die Mitglieder des Kirchgemeinderates sowie die Leitung der Pfarrei werden geheim gewählt. Die übrigen Wahlen können offen erfolgen.
+
+<sup>5</sup> Abstimmungen sind unter Vorbehalt von Abs. 6 und Abs. 7 offen durchzuführen.
+
+<sup>6</sup> Die Kirchgemeinde kann in der Kirchgemeindeordnung vorgeben, dass bestimmte Wahlgeschäfte oder Abstimmungen geheim durchzuführen sind.
+
+<sup>7</sup> Die Kirchgemeindeversammlung kann die geheime Wahl oder Abstimmung im Einzelfall beschliessen, wenn mindestens ein Viertel der anwesenden Stimmberechtigten einem Antrag auf geheime Wahl oder Abstimmung zustimmt. Über diesen Antrag darf nicht diskutiert werden.
+
+<sup>8</sup> Der Kirchgemeinderat erstellt über die Kirchgemeindeversammlung ein Protokoll. Er prüft es und veröffentlicht es innerhalb von 60 Tagen. Die folgende Kirchgemeindeversammlung entscheidet über die Genehmigung des Protokolls.
 
 #### § 4
 
-**Erleichterte Stimmabgabe**
+**Urnenabstimmung und Urnenwahl**
 
-<sup>1</sup> Nach § 78 Absatz 2 KOG erfolgt die Stimmabgabe nach staatlichem Recht. Dies gilt insbesondere für die erleichterte Stimmabgabe. Dazu zählen die vorzeitige Stimmabgabe, die Stellvertretung, die briefliche Stimmabgabe und die Bevollmächtigung.
+<sup>1</sup> Die Kirchgemeinde kann in ihrer Kirchgemeindeordnung für bestimmte Sachgeschäfte oder Wahlen die Urnenabstimmung oder die Urnenwahl festlegen.
 
-<sup>2</sup> Massgebend für die erleichterte Stimmabgabe sind die §§ 9 und 10 des kantonalen Gesetzes über das Stimm- und Wahlrecht[^4-1] sowie die §§ 28 bis 35 der kantonalen Verordnung[^4-2] dazu.
-
-<sup>3</sup> Diese Bestimmungen haben nur Gültigkeit bei Urnenabstimmungen. Auf landeskirchlicher Ebene fallen darunter die Synodalwahlen sowie konfessionelle Volksabstimmungen. Auf der Ebene der Kirchgemeinde können Abstimmungen über Sachgeschäfte, für welche die Urnenabstimmung angeordnet wird, sowie die Erneuerungswahlen der Kirchenbehörden darunter fallen, sofern das Organisationsreglement oder ein grundsätzlicher Gemeindebeschluss die Stimmurne vorsehen.
-
-[^4-1]: [161.1](https://www.rechtsbuch.tg.ch/data/161.1/de)
-[^4-2]: [161.11](https://www.rechtsbuch.tg.ch/data/161.11/de)
+<sup>2</sup> Die Kirchgemeindeordnung kann den Kirchgemeinderat ermächtigen, Abstimmungen und Wahlen im Einzelfall der Urne zuzuweisen.
 
 #### § 5
 
-**Vorzeitige Stimmabgabe**
+**Kirchgemeindeparlament**
 
-<sup>1</sup> § 10 des Gesetzes über das kantonale Stimm- und Wahlrecht und § 28 der Verordnung dazu regeln die vorzeitige Stimmabgabe. Die Kirchenvorsteherschaften haben die zuständige Amtstelle zu bezeichnen, bei denen das Stimmaterial unter Aufsicht abgegeben werden kann.
+<sup>1</sup> Die Kirchgemeinde kann in ihrer Kirchgemeindeordnung Zuständigkeiten der Kirchgemeindeversammlung auf ein Kirchgemeindeparlament übertragen.
+
+<sup>2</sup> Nicht übertragbar sind die folgenden Zuständigkeiten:
+
+- 1\. Wahl der Leitung der Pfarrei
+- 2\. Wahl des Kirchgemeindepräsidenten oder der Kirchgemeindepräsidentin sowie der weiteren Mitglieder des Kirchgemeinderates
+- 3\. Beschlussfassung über die Mitgliedschaft in einem Kirchgemeindeverband
+- 4\. Vereinbarungen mit anderen Kirchgemeinden über die Änderungen des Bestandes oder des Gebiets von Kirchgemeinden
 
 #### § 6
 
-**Stellvertretung**
+**Wahl der Leitung der Pfarrei**
 
-<sup>1</sup> § 10 Absatz 2 des kantonalen Gesetzes über das Stimm- und Wahlrecht gestattet den Stimmberechtigten, gleichzeitig mit den eigenen Stimmzetteln auch diejenigen des im gleichen Haushalt lebenden Ehegatten abzugeben.
+<sup>1</sup> Die Kirchgemeinde wählt die Leitung der Pfarrei für jeweils eine Amtsdauer.
+
+<sup>2</sup> Bevor die Kirchgemeinde die Leitung der Pfarrei wählt, lässt der Kirchgemeinderat die Wahlfähigkeit der Kandidierenden vom Kirchenrat abklären.
+
+<sup>3</sup> Massgebend für die Wahl und die Wiederwahl ist in allen Wahlgängen das absolute Mehr der gültigen Stimmen. Zur Ermittlung des absoluten Mehrs werden die leeren Wahlzettel nicht ausgeschieden.
+
+<sup>4</sup> Die Wahl der Leitung der Pfarrei begründet ein auf die Amtsdauer befristetes Arbeitsverhältnis mit der Kirchgemeinde. Dieses kann während der Amtsdauer nur beendet werden, wenn der Kirchgemeinderat ein begründetes Rücktrittsgesuch annimmt oder wenn der Kirchenrat ihn oder sie gemäss § 34 Abs. 4 des Gesetzes der Katholischen Synode über die Katholische Landeskirche des Kantons Thurgau (LKG)[^6-1] aus dem Amt entlässt.
+
+<sup>5</sup> Ist die Leitung der Pfarrei zugleich für Pfarreien zuständig, die zu anderen Kirchgemeinden gehören, verbinden sich die betreffenden Kirchgemeinden zu einem Pfarrwahlkreis. Die Leitung gilt in allen Kirchgemeinden als gewählt, wenn sie sowohl das absolute Mehr im Pfarrwahlkreis als auch das Mehr der Kirchgemeinden erreicht; andernfalls gilt sie von keiner der Kirchgemeinden als gewählt.
+
+<sup>6</sup> Vom Volk gewählte Leitungen der Pfarreien unterliegen der Wohnsitzpflicht im Pfarrwahlkreis.
+
+<sup>7</sup> Wahlverfahren in Konstellationen, die in den vorhergehenden Absätzen nicht vorgesehen sind, regelt der Kirchenrat.
+
+[^6-1]: RB [188.22](https://www.rechtsbuch.tg.ch/data/188.22/de)
 
 #### § 7
 
-**Briefliche Stimmabgabe**
+**Erneuerungswahl**
 
-<sup>1</sup> Die briefliche Stimmabgabe ist ohne Einschränkung zulässig. Die Sendung braucht dann nicht per Post dem Wahlbüro zugesandt zu werden, wenn die Gemeindebehörde die Abgabe bei einer Amtsstelle ermöglicht.
+<sup>1</sup> Die Erneuerungswahl der Kirchgemeindebehörden und der Leitung der Pfarrei erfolgt jeweils vor Ablauf einer Amtsdauer. Der Kirchenrat trifft die nötigen Anordnungen.
+
+<sup>2</sup> Die Amtsdauer der neugewählten Kirchgemeindebehörden beginnt mit dem 1. Juni, jene der Leitung der Pfarrei mit dem 1. August.
+
+## 3. Kirchgemeinderat
 
 #### § 8
 
-**Bevollmächtigung**
+**Verhandlungsgrundsätze**
 
-<sup>1</sup> Sind Stimmberechtigte wegen Krankheit, Unfall oder Gebrechen am Schreiben verhindert, können sie eine andere Person ermächtigen, die Stimm- oder Wahlzettel nach ihrem Willen auszufüllen und die zur brieflichen Stimmabgabe nötigen Handlungen vorzunehmen. In solchen Fällen hat die bevollmächtigte Person auf den Vertretungsgrund hinzuweisen und ihre Personalien anzugeben.
+<sup>1</sup> Der Kirchgemeindepräsident oder die Kirchgemeindepräsidentin beruft den Kirchgemeinderat zu Sitzungen ein, so oft es die Geschäfte erfordern.
+
+<sup>2</sup> Die Verhandlungsgegenstände sind mit der Einladung bekanntzugeben. Nicht traktandierte Geschäfte können mit der Mehrheit der Gesamtzahl der Behördenmitglieder traktandiert und beschlossen werden, sofern sie dringend oder nicht wesentlich sind. Bei Vollzähligkeit und Einstimmigkeit der Behördenmitglieder können auch andere Geschäfte traktandiert und beschlossen werden.
+
+<sup>3</sup> Über die Sitzungen ist ein Protokoll zu führen, welches das Wesentliche der Verhandlung und den Inhalt aller Beschlüsse wiedergibt.
 
 #### § 9
 
-**Wahlvorschläge bei Urnenwahlen**
+**Konstituierung**
 
-<sup>1</sup> Bezüglich des Rechts Wahlvorschläge bei Urnenwahlen zu unterbreiten, wird auf § 92 Absatz 2 KOG[^9-1] verwiesen.
-
-[^9-1]: [188.21](https://www.rechtsbuch.tg.ch/data/188.21/de)
+<sup>1</sup> Der Kirchgemeinderat wählt aus seiner Mitte das Vizepräsidium und das Aktuariat.
 
 #### § 10
 
-**Schlussbestimmung**
+**Präsidium**
 
-<sup>1</sup> Mit diesen Weisungen wird die Weisung des Katholischen Kirchenrates betreffend die Einführung und Anwendung des Frauenstimmrechtes vom 19. Januar 1973 aufgehoben.
+<sup>1</sup> Der Kirchgemeindepräsident oder die Kirchgemeindepräsidentin leitet die Sitzungen des Kirchgemeinderates, bereitet diese vor und besorgt die laufenden Geschäfte.
 
-ABl. 8/1997
+<sup>2</sup> Er oder sie kann in dringenden Fällen vorsorgliche Massnahmen treffen. Er oder sie orientiert den Kirchgemeinderat spätestens an der nächsten Sitzung darüber.
+
+<sup>3</sup> Der Kirchgemeindepräsident oder die Kirchgemeindepräsidentin und der Aktuar oder die Aktuarin zeichnen für die Kirchgemeinde und für den Kirchgemeinderat kollektiv zu zweien. Die Kirchgemeindeordnung kann abweichende Regelungen zur Zeichnungsberechtigung treffen.
+
+<sup>4</sup> Ist der Kirchgemeindepräsident oder die Kirchgemeindepräsidentin verhindert, handelt oder zeichnet der Vizepräsident oder die Vizepräsidentin stellvertretend. Ist der Aktuar oder die Aktuarin verhindert, handelt oder zeichnet ein Mitglied des Kirchgemeinderats stellvertretend.
+
+#### § 11
+
+**Stellung der Leitung der Pfarrei**
+
+<sup>1</sup> Die Person, die von der Kirchgemeinde als Leitung der Pfarrei gewählt worden ist, gehört dem Kirchgemeinderat von Amtes wegen an. Sie erhöht die von der Kirchgemeindeordnung festgelegte Mitgliederzahl um einen Sitz. In Angelegenheiten, die sie selbst betreffen, tritt sie in den Ausstand.
+
+<sup>2</sup> Ist die Leitung der Pfarrei nicht von der Kirchgemeinde gewählt, so wird sie zu Sitzungen des Kirchgemeinderats eingeladen. Ihr kommt ein Antrags- und Beratungsrecht zu.
+
+<sup>3</sup> Ist die Leitung der Pfarrei für mehrere Kirchgemeinden zuständig, so kann sie eine Stellvertretung mit Antrags- und Beratungsrecht an die Sitzungen des Kirchgemeinderates delegieren.
+
+#### § 12
+
+**Zusammenarbeit mit der Leitung der Pfarrei**
+
+<sup>1</sup> Die Organe der Kirchgemeinde bemühen sich um eine einvernehmliche Zusammenarbeit mit der Leitung der Pfarrei unter gegenseitiger Berücksichtigung ihrer Zuständigkeiten.
+
+<sup>2</sup> Sie nehmen die pastoralen und personalen Konzepte, die die Leitung der Pfarrei erarbeitet hat, entgegen und beschliessen über deren Finanzierung.
+
+<sup>3</sup> Der Kirchgemeinderat arbeitet mit der Leitung der Pfarrei in der Personalführung zusammen, indem er dieser bei der Auswahl der Mitarbeitenden, der Erarbeitung der Stellenbeschriebe und der Arbeitszeugnisse ein Vorschlagsrecht einräumt und bei den Mitarbeitergesprächen mit ihr zusammenwirkt. In Fragen des Glaubensinhaltes und der Seelsorge liegt das Weisungsrecht bei der Leitung der Pfarrei.
+
+#### § 13
+
+**Amtsübergabe**
+
+<sup>1</sup> Bei einem Amtswechsel im Präsidium oder im Aktuariat nimmt der Kirchgemeinderat gesamthaft oder durch eine Delegation die Amtsübergabe vor. Dabei wird die geordnete Übergabe von Akten, Wertgegenständen, Schlüsseln, Passwörtern und Ähnlichem in einem Protokoll festgehalten und beidseitig schriftlich bescheinigt. Amtswechsel in allen anderen Ressorts regelt die Kirchgemeindeordnung.
+
+<sup>2</sup> Wenn ein Kirchgemeinderat gesamthaft durch einen anderen ersetzt wird, so nimmt eine Delegation des Kirchenrats die Amtsübergabe vor.
+
+<sup>3</sup> Wechselt die Leitung der Pfarrei, so prüft der Kirchgemeinderat den Bestand und den Zustand der kirchgemeindlichen Güter und bescheinigt deren Rücknahme und Übergabe.
+
+## 4. Rechnungsprüfung
+
+#### § 14
+
+**Rechnungsprüfungskommission**
+
+<sup>1</sup> Die Rechnungsprüfungskommission besteht aus mindestens drei Mitgliedern der Kirchgemeinde. Bei der Prüfung müssen mindestens drei Mitglieder anwesend sein. Nicht wählbar sind Mitglieder des Kirchgemeinderats sowie Personen, die von diesem mit Verwaltungsaufgaben im Bereich Finanzen betraut sind.
+
+<sup>2</sup> Sie prüft jährlich die vom Kirchgemeinderat vorgelegte Rechnung nach folgenden Gesichtspunkten:
+
+- 1\. Einhaltung des Budgets
+- 2\. Rechtfertigung von Budgetüberschreitungen
+- 3\. Effizienter und effektiver Umgang mit den Mitteln
+- 4\. Korrektheit der Bilanz und der Erfolgsrechnung
+- 5\. Ordentliche Buchführung mit ausreichenden Belegen
+- 6\. Einhaltung der anwendbaren buchhalterischen Prinzipien
+
+<sup>3</sup> Sie kann jederzeit bei der Verwaltung der Kirchgemeinde Kontrollen vornehmen.
+
+<sup>4</sup> Zieht sie Beanstandungen in Betracht, so lädt sie zuerst die Verwaltung und den Kirchgemeinderat zur Stellungnahme ein. Sie schliesst ihre Arbeit mit einem Bericht und einem Antrag an die Kirchgemeinde ab.
+
+#### § 15
+
+**Externe Revisionsstelle**
+
+<sup>1</sup> Hat die Kirchgemeinde eine externe Revisionsstelle beauftragt, nimmt die Rechnungsprüfungskommission deren Bericht als Grundlage.
+
+<sup>2</sup> Die Funktion der externen Revisionsstelle kann durch eine natürliche oder juristische Person wahrgenommen werden. Die mit der Funktion betraute Person muss zugelassener Revisor oder zugelassene Revisorin nach den Vorschriften des Bundesgesetzes über die Zulassung und Beaufsichtigung der Revisorinnen und Revisoren (RAG)[^15-1] sein.
+
+<sup>3</sup> Die externe Revisionsstelle prüft die Jahresrechnung sinngemäss nach den Vorgaben einer eingeschränkten Revision gemäss Art. 729 ff. des Schweizerischen Obligationenrechts (OR)[^15-2]. Ausserdem übernimmt sie die Prüfungsaufgaben gemäss § 14 Abs. 2 Ziff. 4 bis Ziff. 6.
+
+[^15-1]: SR [221.302](https://db.clex.ch/link/Bund/221.302/de)
+[^15-2]: SR [220](https://db.clex.ch/link/Bund/220/de)
+
+## 5. Wahlbüro
+
+#### § 16
+
+**Zusammensetzung**
+
+<sup>1</sup> Das Wahlbüro besteht aus dem Kirchgemeindepräsidenten oder der Kirchgemeindepräsidentin, dem Aktuar oder der Aktuarin des Kirchgemeinderats und den von der Kirchgemeinde gewählten weiteren Mitgliedern.
+
+<sup>2</sup> Bei Urnengängen leitet der Kirchgemeindepräsident oder die Kirchgemeindepräsidentin das Wahlbüro, während der Kirchgemeindeversammlung der Vizepräsident oder die Vizepräsidentin.
+
+<sup>3</sup> Der Aktuar oder die Aktuarin des Kirchgemeinderates führt das Sekretariat und besorgt das Protokoll.
+
+<sup>4</sup> Die Kirchgemeindeordnung legt die Zahl der weiteren Mitglieder des Wahlbüros fest.
+
+#### § 17
+
+**Aufgabe**
+
+<sup>1</sup> Das Wahlbüro überwacht die Stimmabgabe und ermittelt die Ergebnisse von Abstimmungen und Wahlen an der Kirchgemeindeversammlung und bei Urnengängen.
+
+<sup>2</sup> Die Mitglieder des Wahlbüros wahren das Stimmgeheimnis.
+
+## 6. Verwaltung des Sach- und Finanzvermögens
+
+#### § 18
+
+**Zuständigkeit der Gesamtheit der Stimmberechtigten**
+
+<sup>1</sup> Die Gesamtheit der Stimmberechtigten ist zuständig für:
+
+- 1\. die Beschlussfassung über das Budget und den Steuerfuss sowie über allfällige Nachtragskredite, soweit nicht der Kirchgemeinderat zuständig ist.
+- 2\. die Beschlussfassung über Verpflichtungs- und Zusatzkredite, soweit nicht der Kirchgemeinderat zuständig ist.
+- 3\. die Genehmigung der Jahresrechnungen der Kirchgemeinde und ihrer Stiftungen sowie der Rechnungen über Verpflichtungs- und Zusatzkredite.
+
+#### § 19
+
+**Zuständigkeit des Kirchgemeinderats**
+
+<sup>1</sup> Der Kirchgemeinderat verwaltet das der Kirchgemeinde gehörende oder ihr anvertraute Sach- und Finanzvermögen und besorgt das Rechnungswesen.
+
+<sup>2</sup> Er entscheidet über die Anlage von Vermögenswerten, die Bestellung von Pfandrechten, über Miet- und Pachtverhältnisse und alle Verwaltungshandlungen, soweit Entscheide über den Umgang mit Vermögenswerten nicht in die Kompetenz der Kirchgemeinde fallen oder der Genehmigung durch den Kirchenrat bedürfen.
+
+<sup>3</sup> Er betraut eine natürliche oder juristische Person mit der Finanzverwaltung und der Rechnungsführung. Er kann ihr weitere Verwaltungsaufgaben übertragen.
+
+#### § 20
+
+**Zuständigkeit des Verwalters oder der Verwalterin**
+
+<sup>1</sup> Dem Verwalter oder der Verwalterin obliegen die Verwaltung des Finanzvermögens, die Buchführung der Kirchgemeinde, die Erstellung der Jahresrechnung und die Erfüllung weiterer vom Kirchgemeinderat übertragener Aufgaben.
+
+<sup>2</sup> Der Verwalter oder die Verwalterin sorgt in Zusammenarbeit mit dem Steueramt der politischen Gemeinde für den Steuerbezug.
+
+<sup>3</sup> Der Kirchgemeinderat kann den Verwalter oder die Verwalterin mit beratender Stimme zu seinen Sitzungen einladen.
+
+#### § 21
+
+**Fonds**
+
+<sup>1</sup> Die Kirchgemeinde kann im Rahmen ihrer Rechnung Fonds führen. Sie verwendet diese entsprechend der jeweiligen Zwecksetzung, die für jeden Fonds schriftlich festzuhalten ist.
+
+<sup>2</sup> Sie kann Vermögenswerte der Pfarrei zu treuen Händen verwalten.
+
+#### § 22
+
+**Verwaltung des Vermögens**
+
+<sup>1</sup> Liegenschaften des Verwaltungsvermögens sind angemessen zu unterhalten. Für liturgisch relevante Veränderungen im Innern von Sakralräumen ist die Genehmigung des Bischofs einzuholen.
+
+<sup>2</sup> Das von der Kirchgemeinde zu verwaltende Finanzvermögen ist sicher anzulegen. Die langfristige Spezialfinanzierungsrechnung einer Liegenschaft im Finanzvermögen muss unter Einbezug der Annuität mindestens ausgeglichen sein; vorbehalten bleibt ihre Bezuschussung im Fall, dass ein übergeordnetes Interesse der Veräusserung entgegensteht, wie der Erhalt eines historischen Gebäudeensembles im Umfeld einer Kirche.
+
+<sup>3</sup> Kult- und Kunstgegenstände sind sicher und sachgerecht aufzubewahren und zu pflegen.
+
+#### § 23
+
+**Entwidmung und Veräusserung von Vermögensteilen**
+
+<sup>1</sup> Grundstücke des Verwaltungsvermögens können erst nach deren Entwidmung beziehungsweise Überführung in das Finanzvermögen veräussert werden. Die Entwidmung sowie die Veräusserung bedürfen der Genehmigung des Kirchenrats. Vor der Entwidmung hört der Kirchenrat seinerseits den Bischof an.
+
+<sup>2</sup> Sakralbauten und Inventargegenstände von kunsthistorischem oder künstlerischem Wert dürfen ohne Zustimmung des Bischofs und des Kirchenrats nicht veräussert werden.
+
+#### § 24
+
+**Aufwand für kirchennahe Zwecke**
+
+<sup>1</sup> Für kirchennahe Zwecke, insbesondere für allgemeines soziales Engagement und die Unterstützung von kirchlichen Aufgaben weltweit, kann die Kirchgemeinde Mittel bis zu einer Gesamtsumme von 6 Prozent des vorjährigen Kirchensteuerertrages verwenden.
+
+<sup>2</sup> Beiträge an konfessionelle Gemeinschaftswerke, zu denen die Synode oder der Kirchenrat aufgefordert hat, fallen nicht unter diese Beschränkung.
+
+#### § 25
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Der Kirchenrat kann die Verwaltungstätigkeit der Kirchgemeinden mit einer Verordnung oder mit Empfehlungen näher regeln.
+
+## 7. Kirchgemeindeverband
+
+#### § 26
+
+**Errichtung und Beitritt**
+
+<sup>1</sup> Die Errichtung eines Kirchgemeindeverbandes erfolgt durch die Genehmigung der Statuten durch mindestens zwei Kirchgemeinden, wobei der Entscheid je von der Gesamtheit der Stimmberechtigten zu fällen ist.
+
+<sup>2</sup> Ein Beitritt setzt auf Seiten der beitretenden Kirchgemeinde die Zustimmung der Gesamtheit der Stimmberechtigten voraus.
+
+#### § 27
+
+**Aufgaben**
+
+<sup>1</sup> Die in einem Kirchgemeindeverband organisierten Kirchgemeinden sind frei in der Auswahl der Aufgaben, die sie an den Verband übertragen wollen.
+
+<sup>2</sup> Die übertragenen Aufgaben und deren Finanzierung sind in den Statuten des Kirchgemeindeverbands festzulegen.
+
+#### § 28
+
+**Statutenänderungen**
+
+<sup>1</sup> Statutenänderungen bedürfen der Zustimmung aller Kirchgemeinden, wobei der Entscheid je von der Gesamtheit der Stimmberechtigten zu fällen ist.
+
+#### § 29
+
+**Organe und anwendbares Recht**
+
+<sup>1</sup> Die Stimmberechtigten des Kirchgemeindeverbandes nehmen im Rahmen der übertragenen Aufgaben die Zuständigkeiten und Kompetenzen der Gesamtheit der Stimmberechtigten einer Kirchgemeinde wahr. Sie können ihre Rechte in Entsprechung zu den Kirchgemeinden im Rahmen einer Versammlung (§ 3), einer Urnenabstimmung oder Urnenwahl (§ 4) oder durch Übertragung an ein Parlament (§ 5) wahrnehmen.
+
+<sup>2</sup> Nicht auf ein Parlament übertragbar sind die Wahl der Leitung der Pfarrei sowie die Wahl des Präsidiums und der Mitglieder des Vorstands.
+
+<sup>3</sup> Der Vorstand nimmt im Rahmen der übertragenen Aufgaben die Zuständigkeiten und Kompetenzen eines Kirchgemeinderates wahr. Die Statuten bestimmen die Grösse des Vorstandes, dessen Wahlorgan und die Wahlmodalitäten.
+
+<sup>4</sup> Im Übrigen sind die Regeln über die Zweckverbände (§ 39 bis § 46) des Gesetzes über die Gemeinden (GemG)[^29-1] sinngemäss anwendbar.
+
+[^29-1]: RB [131.1](https://www.rechtsbuch.tg.ch/data/131.1/de)
+
+## 8. Rücktritt und Entlassung
+
+#### § 30
+
+**Rücktritt und Ersatzwahl von Kirchgemeindebehörden**
+
+<sup>1</sup> Ein Mitglied einer Kirchgemeindebehörde, das während der Amtsdauer zurückzutreten wünscht, hat dem Kirchgemeinderat ein begründetes Gesuch einzureichen, über das dieser entscheidet.
+
+<sup>2</sup> Bewilligt der Kirchgemeinderat den Rücktritt, so hat der erste Wahlgang der Ersatzwahl innerhalb von sechs Monaten stattzufinden, ein allfälliger zweiter Wahlgang danach innerhalb von vier Monaten.
+
+<sup>3</sup> Die in Ersatzwahlen gewählten Personen sind für den Rest der laufenden Amtsdauer gewählt.
+
+<sup>4</sup> Würde ein Kirchgemeinderat durch die Annahme eines oder mehrerer Rücktrittsgesuche beschlussunfähig, so sind die Gesuche dem Kirchenrat zum Entscheid zu übermitteln.
+
+#### § 31
+
+**Entlassung aus dem Amt**
+
+<sup>1</sup> Auf Ersuchen des Kirchgemeinderats entscheidet der Kirchenrat über die Entlassung von Personen, die von der Kirchgemeinde in ein Amt gewählt worden sind. Die Entlassung ist zulässig:
+
+- 1\. wenn diese Personen dauerhaft unfähig sind, ihr Amt auszuüben, oder
+- 2\. wenn ein wichtiger Grund vorliegt, der so schwer wiegt, dass der Kirchgemeinde nach Treu und Glauben eine Fortsetzung der Zusammenarbeit bis zum Ende der Amtsdauer nicht mehr zugemutet werden kann.
+
+<sup>2</sup> Der Kirchenrat hört die betroffenen Personen an und untersucht den Sachverhalt. Er kann für die Dauer des Verfahrens vorsorgliche Massnahmen anordnen.
+
+<sup>3</sup> Beschliesst der Kirchenrat die Entlassung, kann der Kirchgemeinderat die Beendigung eines mit dem Amt verknüpften Arbeitsverhältnisses verfügen.
+
+## 9. Übergangsbestimmungen
+
+#### § 32
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Die zu diesem Zeitpunkt gewählten Kirchgemeindebehörden sowie die gewählten Kirchenpflegerinnen und Kirchenpfleger bleiben bis zum Ende der Amtsdauer am 31. Mai 2022 im Amt.
+
+<sup>2</sup> Bei einer Vakanz einer Kirchgemeindebehörde findet die Ersatzwahl gemäss den Bestimmungen dieses Gesetzes statt. Bei einer Vakanz im Amt der Kirchenpflege findet keine Ersatzwahl mehr statt; es ist gemäss den Bestimmungen des Gesetzes vorzugehen.
+
+<sup>3</sup> Die zu diesem Zeitpunkt gewählten Leitungen der Pfarreien bleiben bis zum Ende der Amtsdauer am 31. Juli 2022 im Amt.
+
+<sup>4</sup> Die bereits bestehenden Kirchgemeindeverbände erhalten eine Übergangsfrist von 10 Jahren, um ihre Statuten an das Gesetz anzupassen.
+
+50/2021
