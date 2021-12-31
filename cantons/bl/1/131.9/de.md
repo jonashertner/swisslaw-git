@@ -3,34 +3,40 @@ canton: BL
 number: "131.9"
 title: Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 language: de
-version: 1978-12-07
-valid_until: 2021-12-31
-version_adopted: 1978-12-07
+version: 2022-01-01
+valid_until: 2023-02-24
+version_adopted: 2021-03-05
 adopted: 2022-06-14
 in_force: 2023-02-25
 url: "https://bl.clex.ch/app/de/texts_of_law/131.9"
-pdf: "https://bl.clex.ch/api/de/versions/238/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3110/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 
-Vom 07.12.1978 (Stand 07.12.1978)
+Vom 05.03.2021 (Stand 01.01.2022)
 
-Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft und der Grosse Rat des Kantons Aargau vereinbaren:
+Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft und der Grosse Rat des Kantons Aargau
+
+vereinbaren:
 
 #### § 1
 
 **Zweck**
 
-<sup>1</sup> Die Interparlamentarische Konferenz der Nordwestschweiz (IPK) bezweckt, die gegenseitige Information der nordwestschweizerischen Kantonsparlamente zu fördern, um insbesondere die parlamentarische Beratung von regionalen Fragen und Projekten rechtzeitig vorzubereiten.
+<sup>1</sup> Die Interparlamentarische Konferenz der Nordwestschweiz (IPK) bezweckt, die gegenseitige Information der nordwestschweizerischen Kantonsparlamente zu fördern und regionale Fragen zu begleiten und zu beraten. Hierfür werden thematische Tagungen organisiert.
+
+<sup>2</sup> Sie kann sich öffentlich zu aktuellen Themen äussern und Erklärungen, im Besonderen zuhanden der Nordwestschweizer Kantonsparlamente, der Nordwestschweizer Kantonsregierungen und der Nordwestschweizer Regierungskonferenz (NWRK), abgeben.
 
 #### § 2
 
 **Zusammensetzung**
 
-<sup>1</sup> Die IPK setzt sich aus den Präsidenten, den Vizepräsidenten, den auf Ende des vergangenen Amtsjahres abgetretenen Präsidenten sowie je 3 ständigen Mitgliedern der 5 Kantonsparlamente zusammen.
+<sup>1</sup> Die IPK setzt sich aus den Präsidentinnen oder Präsidenten, den Vizepräsidentinnen oder Vizepräsidenten, den auf Ende des vergangenen Amtsjahres abgetretenen Präsidentinnen oder Präsidenten sowie je 3 ständigen Mitgliedern der 5 Kantonsparlamente zusammen.
+
+<sup>2</sup> Die ständigen Mitglieder werden von den einzelnen Kantonsparlamenten gewählt.
 
 #### § 3
 
@@ -38,7 +44,7 @@ Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Gross
 
 <sup>1</sup> Die ständigen Mitglieder der IPK bilden den Arbeitsausschuss.
 
-<sup>2</sup> Sie werden von den einzelnen Kantonsparlamenten oder deren Büros gewählt.
+<sup>2</sup> Der Arbeitsausschuss bereitet namentlich die Jahrestagung und die Erklärungen vor.
 
 #### § 4
 
@@ -46,36 +52,48 @@ Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Gross
 
 <sup>1</sup> Der Vorsitz der IPK wechselt alle 2 Jahre per 1. Januar in folgendem Turnus: Solothurn, Basel-Landschaft, Aargau, Basel-Stadt, Bern.
 
-<sup>2</sup> Der Vorsitzende der IPK ist gleichzeitig Präsident des Arbeitsausschusses. Er wird von der IPK gewählt.
+<sup>2</sup> Der oder die Vorsitzende der IPK präsidiert gleichzeitig den Arbeitsausschuss. Die Wahl erfolgt durch die IPK.
 
 #### § 5
 
-**Sitzungen**
+**Tagungen**
 
-<sup>1</sup> In der Regel findet jährlich, jeweils am 4. Freitag im Oktober, eine Sitzung der IPK statt.
+<sup>1</sup> Es findet jährlich eine Tagung der IPK statt, in der Regel jeweils am letzten Freitag im Oktober.
+
+<sup>2</sup> Sie steht allen Mitgliedern der angeschlossenen Kantonsparlamente offen.
 
 #### § 6
 
-**Sekretariat**
+**Erklärungen**
 
-<sup>1</sup> Die Landeskanzlei des Kantons Basel-Landschaft, die auch das Sekretariat der Regionalkonferenz der Regierungen der Nordwestschweiz (Regionalkonferenz) betreut, führt das Sekretariat der IPK.
+<sup>1</sup> Der Arbeitsausschuss legt die Erklärungen der IPK zur Beschlussfassung vor.
 
-<sup>2</sup> Das Sekretariat hat zudem für einen reibungslosen Informationsaustausch zwischen der Regionalkonferenz und der IPK zu sorgen.
+<sup>2</sup> Die IPK beschliesst die Erklärungen mit einer 2/3-Mehrheit, wobei aus jedem Kanton mindestens 2 befürwortende Stimmen nötig sind.
 
 #### § 7
 
-**Kosten**
+**Sekretariat**
 
-<sup>1</sup> Zur Deckung der Sekretariatskosten für die IPK und die Regionalkonferenz entrichten die Konferenzkantone jährliche Pauschalbeiträge an den Kanton Basel-Landschaft.
+<sup>1</sup> Die Landeskanzlei des Kantons Basel-Landschaft, die auch das Sekretariat der NWRK betreut, führt das Sekretariat der IPK.
 
-<sup>2</sup> Die Regionalkonferenz legt die Beträge, die für jeden Kanton gleich hoch sind, jährlich fest.
+<sup>2</sup> Das Sekretariat hat für einen reibungslosen Informationsaustausch zwischen der NWRK und der IPK zu sorgen.
 
 #### § 8
 
+**Kosten**
+
+<sup>1</sup> Zur Deckung der Sekretariatskosten für die IPK und die NWRK entrichten die Konferenzkantone jährliche Pauschalbeiträge an den Kanton Basel-Landschaft.
+
+<sup>2</sup> Die NWRK legt die Beträge, die für jeden Kanton gleich hoch sind, jährlich fest.
+
+#### § 9
+
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vereinbarung tritt mit der Unterzeichnung durch alle beteiligten Kantonsparlamente in Kraft.[^8-1]
+<sup>1</sup> Diese Vereinbarung wird nach der Genehmigung durch alle beteiligten Kantonsparlamente wirksam.[^9-1]
 
-[^8-1]: In Kraft seit 7. Dezember 1978
+<sup>2</sup> Sie ersetzt die Vereinbarung vom 7. Dezember 1978.
 
-GS 26.881
+[^9-1]: BE: Genehmigt durch den Grossen Rat am 6. September 2021; SO: genehmigt durch den Kantonsrat am 7. Juli 2021; BS: genehmigt durch den Grossen Rat am 23. Juni 2021; BL: genehmigt durch den Landrat am 24. Juni 2021; AG: genehmigt durch den Grossen Rat am 31. August 2021. Gemäss Schreiben der IPK NWCH vom 21. September 2021 auf den 1. Januar 2022 in Kraft gesetzt.
+
+GS 2021.086
