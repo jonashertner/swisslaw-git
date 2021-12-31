@@ -3,13 +3,12 @@ canton: FR
 number: "841.3.1"
 title: "Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-18
+version: 2022-01-01
+version_adopted: 2021-11-02
 adopted: 1965-11-16
 in_force: 1966-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/841.3.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6719/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7067/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6719/pdf_file"
 
 Ergänzungsleistungen zur AHV/IV – G
 
-vom 16.11.1965 (Fassung in Kraft getreten am 01.01.2021)
+vom 16.11.1965 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -198,7 +197,7 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Bis 31. Dezember 2021 übernimmt der Staat 100 % des Beitrags nach Artikel 14 Abs. 1 Bst. b.
+<sup>1</sup> Bis zum Inkrafttreten des ersten Pakets der Aufgabenentflechtung zwischen Staat und Gemeinden (DETTEC) übernimmt der Staat 100 % des Beitrags nach Artikel 14 Abs. 1 Bst. b.
 
 <sup>2</sup> In dieser Zeit wird der Artikel 15 nicht angewendet.
 

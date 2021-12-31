@@ -3,13 +3,12 @@ canton: FR
 number: "841.3.1"
 title: "Loi sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité"
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-18
+version: 2022-01-01
+version_adopted: 2021-11-02
 adopted: 1965-11-16
 in_force: 1966-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/841.3.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6719/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7067/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6719/pdf_file"
 
 Prestations complémentaires à l'AVS/AI – L
 
-du 16.11.1965 (version entrée en vigueur le 01.01.2021)
+du 16.11.1965 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -198,7 +197,7 @@ Décrète:
 
 **Disposition transitoire**
 
-<sup>1</sup> Jusqu'au 31 décembre 2021, l'Etat prend en charge 100 % de la contribution prévue à l'article 14 al. 1 let. b.
+<sup>1</sup> Jusqu'à l'entrée en vigueur du premier paquet du désenchevêtrement des tâches entre l'Etat et les communes (DETTEC), l'Etat prend en charge 100 % de la contribution prévue à l'article 14 al. 1 let. b.
 
 <sup>2</sup> Durant cette période, l'application des dispositions de l'article 15 est suspendue.
 
