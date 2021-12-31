@@ -4,11 +4,11 @@ title: "Ordinanza del 2 settembre 2015 sulla protezione dello stemma della Svizz
 short: OPSt
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/614"
 language: it
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2015-09-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2015-614-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-614-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20170101/it"
 
 (Ordinanza sulla protezione degli stemmi, OPSt)
 
-del 2 settembre 2015 (Stato 1° gennaio 2017)
+del 2 settembre 2015 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -90,13 +90,15 @@ L’IPI fornisce informazioni sul contenuto dell’elenco.
 
 #### Art. 7
 
-**Intervento dell’Amministrazione federale delle dogane**
+**Intervento dell’Ufficio federale della dogana e della sicurezza dei confini[^7-1]**
 
-L’Amministrazione federale delle dogane (AFD) è abilitata a intervenire in caso di introduzione sul territorio doganale o all’asportazione da esso di merce munita illecitamente di un segno pubblico protetto in Svizzera o all’estero incluso l’immagazzinamento di simili merci in un deposito doganale o in un deposito franco doganale.
+L’ Ufficio federale della dogana e della sicurezza dei confini (UDSC) è abilitato a intervenire in caso di introduzione sul territorio doganale o all’asportazione da esso di merce munita illecitamente di un segno pubblico protetto in Svizzera o all’estero incluso l’immagazzinamento di simili merci in un deposito doganale o in un deposito franco doganale.
+
+[^7-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 8
 
-**Domanda d’intervento all’AFD**
+**Domanda d’intervento all’UDSC**
 
 <sup>1</sup> Può presentare una domanda d’intervento chi è legittimato in virtù degli articoli 20, 21 o 22 LPSt.
 
@@ -108,9 +110,9 @@ L’Amministrazione federale delle dogane (AFD) è abilitata a intervenire in ca
 
 #### Art. 9
 
-**Ulteriori disposizioni applicabili all’intervento dell’AFD**
+**Ulteriori disposizioni applicabili all’intervento dell’UDSC**
 
-All’intervento dell’AFD sono inoltre applicabili gli articoli 56–57 dell’ordinanza del 23 dicembre 1992[^9-1] sulla protezione dei marchi.
+All’intervento dell’UDSC sono inoltre applicabili gli articoli 56–57 dell’ordinanza del 23 dicembre 1992[^9-1] sulla protezione dei marchi.
 
 [^9-1]: [RS 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)
 

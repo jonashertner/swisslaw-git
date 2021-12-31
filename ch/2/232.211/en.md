@@ -4,11 +4,11 @@ title: "Ordinance of 2 September 2015 on the Protection of the Swiss Coat of Arm
 short: CAPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/614"
 language: en
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2015-09-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20170101/en/xml/fedlex-data-admin-ch-eli-cc-2015-614-20170101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20170101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2015-614-20220101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Coat of Arms Protection Ordinance, CAPO)
 
-of 2 September 2015 (Status as of 1 January 2017)
+of 2 September 2015 (Status as of 1 January 2022)
 
 The Federal Council,
 
@@ -47,7 +47,7 @@ The implementation of the administrative tasks as stipulated in the CAPA and thi
 
 **Use of the Swiss coat of arms**
 
-The public bodies, organisations and companies entitled to use the Swiss coat of arms in their logo and carry out public tasks as autonomous entities may also use the logo for the identification of commercial services which they provide within the framework of the relevant legal bases.
+The public bodies, organisations and companies entitled to use the Swiss coat of arms in their logo and carry out public tasks as autonomous entities may also use the logo for the identification of commercial services that they provide within the framework of the relevant legal bases.
 
 #### Art. 4
 
@@ -92,13 +92,15 @@ The IPI provides information on the content of the list.
 
 #### Art. 7
 
-**Assistance provided by the Federal Customs Administration**
+**Assistance provided by the Federal Office for Customs and Border Security[^7-1]**
 
-The assistance provided by the Federal Customs Administration (FCA) extends to the transport of goods which are unlawfully marked with protected public domestic or foreign signs into or out of the customs territory, including the storage of such goods in a customs warehouse or free port.
+The assistance provided by the Federal Office for Customs and Border Security (FOCBS) extends to the transport of goods that are unlawfully marked with protected public domestic or foreign signs into or out of the customs territory, including the storage of such goods in a customs warehouse or free port.
+
+[^7-1]: The name of this administrative unit was changed on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
 
 #### Art. 8
 
-**Request for the assistance of the FCA**
+**Request for the assistance of the FOCBS**
 
 <sup>1</sup> An application for assistance may be submitted by those entitled under Articles 20, 21 or 22 of the CAPA.
 
@@ -110,9 +112,9 @@ The assistance provided by the Federal Customs Administration (FCA) extends to t
 
 #### Art. 9
 
-**Other provisions applicable to assistance provided by the FCA**
+**Other provisions applicable to assistance provided by the FOCBS**
 
-For assistance provided by the FCA, Articles 56–57 of the Trade Mark Protection Ordinance of 23 December 1992[^9-1] also apply.
+For assistance provided by the FOCBS, Articles 56–57 of the Trade Mark Protection Ordinance of 23 December 1992[^9-1] also apply.
 
 [^9-1]: [SR 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)
 

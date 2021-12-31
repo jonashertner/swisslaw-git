@@ -4,11 +4,11 @@ title: "Ordonnance du 2 septembre 2015 sur la protection des armoiries de la Sui
 short: OPAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/614"
 language: fr
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2015-09-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-614-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-614-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20170101/fr"
 
 (Ordonnance sur la protection des armoiries, OPAP)
 
-du 2 septembre 2015 (Etat le 1<sup>er</sup> janvier 2017)
+du 2 septembre 2015 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -90,13 +90,15 @@ L’IPI donne des renseignements sur le contenu de la liste.
 
 #### Art. 7
 
-**Intervention de l’Administration fédérale des douanes**
+**Intervention de l’Office fédéral de la douane et de la sécurité des frontières[^7-1]**
 
-L’Administration fédérale des douanes (AFD) est habilitée à intervenir en cas d’introduction dans le territoire douanier ou de sortie dudit territoire de marchandises munies illicitement d’un signe public protégé suisse ou étranger, de même qu’en cas d’entreposage de telles marchandises dans un entrepôt douanier ou un dépôt franc.
+L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à intervenir en cas d’introduction dans le territoire douanier ou de sortie dudit territoire de marchandises munies illicitement d’un signe public protégé suisse ou étranger, de même qu’en cas d’entreposage de telles marchandises dans un entrepôt douanier ou un dépôt franc.
+
+[^7-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 8
 
-**Demande d’intervention de l’AFD**
+**Demande d’intervention de l’OFDF**
 
 <sup>1</sup> Les ayants droit au sens des art. 20, 21 ou 22 LPAP peuvent présenter une demande d’intervention.
 
@@ -108,9 +110,9 @@ L’Administration fédérale des douanes (AFD) est habilitée à intervenir en 
 
 #### Art. 9
 
-**Autres dispositions applicables à l’intervention de l’AFD**
+**Autres dispositions applicables à l’intervention de l’OFDF**
 
-Au demeurant, l’intervention de l’AFD est régie par les art. 56 à 57 de l’ordonnance du 23 décembre 1992 sur la protection des marques[^9-1].
+Au demeurant, l’intervention de l’OFDF est régie par les art. 56 à 57 de l’ordonnance du 23 décembre 1992 sur la protection des marques[^9-1].
 
 [^9-1]: [RS 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)
 

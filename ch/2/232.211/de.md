@@ -4,11 +4,11 @@ title: "Verordnung vom 2. September 2015 über den Schutz des Schweizerwappens u
 short: WSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/614"
 language: de
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2015-09-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2015-614-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/614/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-614-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/614/20170101/de"
 
 (Wappenschutzverordnung, WSchV)
 
-vom 2. September 2015 (Stand am 1. Januar 2017)
+vom 2. September 2015 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -90,13 +90,15 @@ Das IGE erteilt Auskünfte über den Inhalt des Verzeichnisses.
 
 #### Art. 7
 
-**Hilfeleistung der Eidgenössischen Zollverwaltung**
+**Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit[^7-1]**
 
-Die Hilfeleistung der Eidgenössischen Zollverwaltung (EZV) erstreckt sich auf das Verbringen von Waren, die widerrechtlich mit geschützten öffentlichen Zeichen des In- oder Auslandes gekennzeichnet sind, in das oder aus dem Zollgebiet, einschliesslich der Lagerung solcher Waren in einem Zolllager oder Zollfreilager.
+Die Hilfeleistung des Bundesamts für Zoll und Grenzsicherheit (BAZG) erstreckt sich auf das Verbringen von Waren, die widerrechtlich mit geschützten öffentlichen Zeichen des In- oder Auslandes gekennzeichnet sind, in das oder aus dem Zollgebiet, einschliesslich der Lagerung solcher Waren in einem Zolllager oder Zollfreilager.
+
+[^7-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 8
 
-**Antrag auf Hilfeleistung der EZV**
+**Antrag auf Hilfeleistung des BAZG**
 
 <sup>1</sup> Einen Antrag auf Hilfeleistung können die Berechtigten nach Artikel 20, 21 oder 22 WSchG einreichen.
 
@@ -108,9 +110,9 @@ Die Hilfeleistung der Eidgenössischen Zollverwaltung (EZV) erstreckt sich auf d
 
 #### Art. 9
 
-**Übrige auf die Hilfeleistung der EZV anwendbare Bestimmungen**
+**Übrige auf die Hilfeleistung des BAZG anwendbare Bestimmungen**
 
-Für die Hilfeleistung der EZV sind im Übrigen die Artikel 56–57 der Markenschutzverordnung vom 23. Dezember 1992[^9-1] anwendbar.
+Für die Hilfeleistung des BAZG sind im Übrigen die Artikel 56–57 der Markenschutzverordnung vom 23. Dezember 1992[^9-1] anwendbar.
 
 [^9-1]: [SR 232.111](https://fedlex.data.admin.ch/eli/cc/1993/296_296_296)
 
