@@ -3,11 +3,11 @@ sr: "431.012.1"
 title: "Ordonnance du 30 juin 1993 concernant l'exécution des relevés statistiques fédéraux (Ordonnance sur les relevés statistiques)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100"
 language: fr
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20211201/fr"
 
 (Ordonnance sur les relevés statistiques)**[^t-1]**
 
-du 30 juin 1993 (Etat le 1<sup>er</sup> décembre 2021)
+du 30 juin 1993 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Introduit par le ch. I de l’O du 16 janv. 2008, en vigueur depuis le 10 fév. 2008 ([RO 2008 315](https://fedlex.data.admin.ch/eli/oc/2008/79)).
 
@@ -434,7 +434,7 @@ Annexe*[^t-2]*
 
 ## Liste des statistiques
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009 ([RO 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Mise à jour selon le ch. II de l’O du 18 août 2010 ([RO 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), le ch. I des O du 14 avr. 2010, ([RO 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), du 24 août 2011 ([RO 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), du 12 oct. 2011 ([RO 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), le ch. I de l’O du 29 août 2012 ([RO 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), le ch. II de l’O du 18 déc. 2013 ([RO 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), le ch. I des O du 29 oct. 2014 ([RO 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), du 28 oct. 2015 ([RO 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), du 16 nov. 2016 ([RO 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), l’annexe 2 ch. II 1 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), l’annexe 2 ch. 1 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), le ch. I des O du 7 nov. 2018 ([RO 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), du 13 déc. 2019 ([RO 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)) et du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009 ([RO 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Mise à jour par le ch. II de l’O du 18 août 2010 ([RO 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), le ch. I des O du 14 avr. 2010, ([RO 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), du 24 août 2011 ([RO 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), du 12 oct. 2011 ([RO 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), le ch. II de l’O du 23 mai 2012 ([RO 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), le ch. I de l’O du 29 août 2012 ([RO 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), le ch. II de l’O du 18 déc. 2013 ([RO 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), le ch. I des O du 29 oct. 2014 ([RO 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), du 28 oct. 2015 ([RO 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), du 16 nov. 2016 ([RO 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), l’annexe 2 ch. II 1 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. I de l’O du 31 janv. 2018 ([RO 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), l’annexe 2 ch. 1 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), le ch. I des O du 7 nov. 2018 ([RO 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), du 13 déc. 2019 ([RO 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), du 27 oct. 2021 ([RO 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)) et l’annexe ch. II 13 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1. *Abrogée*
 
@@ -442,7 +442,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
 <tr><td>Milieux interrogés:</td><td>offices de l’état civil, médecins/sages‑femmes</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -471,7 +471,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
 <tr><td>Milieux interrogés:</td><td>offices de l’état civil</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -485,7 +485,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
 <tr><td>Milieux interrogés:</td><td>Office fédéral de l’état civil</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -499,7 +499,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
 <tr><td>Milieux interrogés:</td><td>offices de l’état civil</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -513,7 +513,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
 <tr><td>Milieux interrogés:</td><td>offices de l’état civil</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -527,7 +527,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
 <tr><td>Milieux interrogés:</td><td>offices de l’état civil</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -541,7 +541,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
 <tr><td>Milieux interrogés:</td><td>offices de l’état civil</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -555,7 +555,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>données sous forme électronique via la banque de données centrale «Infostar», conformément au document de l’OFS «Statistique suisse du mouvement naturel de la population (liste des variables des annonces statistiques)»; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive; appariement de données provenant des sources suivantes: statistique de l’état de santé des enfants nés vivants, statistique médicale des hôpitaux</td></tr>
 <tr><td>Milieux interrogés:</td><td>offices de l’état civil, médecins, registres cantonaux des tumeurs, Direction politique du Département fédéral des affaires étrangères</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -613,7 +613,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>statut sur le marché du travail, indicateurs de la population active, recherche d’emploi, formation continue, travail non rémunéré, migrations, prévoyance vieillesse, autres caractères socio-démographiques et économiques permettant de définir les conditions de vie d’une personne donnée et des membres de son ménage; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>statut sur le marché du travail, indicateurs de la population active, recherche d’emploi, formation continue, travail non rémunéré, migrations, prévoyance vieillesse, autres caractères socio-démographiques et économiques permettant de définir les conditions de vie d’une personne donnée et des membres de son ménage; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif de personnes physiques, y compris un échantillon supplémentaire de personnes de nationalité étrangère, CAWI (questionnaire en ligne) ou CATI (enquête téléphonique); appariements de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et registres des assurances sociales (Centrale de compensation [CdC] et Secrétariat d’État à l’économie [SECO]), Statistique structurelle et démographique des entreprises (STATENT)</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes vivant dans un ménage privé, CdC et SECO</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
@@ -629,7 +629,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>statut sur le marché du travail, indicateurs de la population active, recherche d’emploi, formation continue, travail non rémunéré, migrations et autres caractères socio-démographiques et économiques permettant de définir les conditions de vie d’une personne donnée et des membres de son ménage, revenus soumis à l’AVS/AI, rentes AVS/AI et autres prestations des assurances sociales; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>statut sur le marché du travail, indicateurs de la population active, recherche d’emploi, formation continue, travail non rémunéré, migrations et autres caractères socio-démographiques et économiques permettant de définir les conditions de vie d’une personne donnée et des membres de son ménage, revenus soumis à l’AVS/AI, rentes AVS/AI et autres prestations des assurances sociales; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>appariement de données provenant des sources suivantes: enquête suisse sur la population active (ESPA), registres des assurances sociales (Centrale de compensation [CdC] et Secrétariat d’État à l’économie [SECO]),</td></tr>
 <tr><td>Milieux interrogés:</td><td>CdC, SECO (relevés fondés sur les registres)</td></tr>
 <tr><td>Renseignement:</td><td>–</td></tr>
@@ -685,7 +685,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>salaires, durée du travail, différentes caractéristiques se rapportant aux personnes salariées et à leur place de travail; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>salaires, durée du travail, différentes caractéristiques se rapportant aux personnes salariées et à leur place de travail; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>sondage représentatif; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), statistique de la population et des ménages (STATPOP), système d’information central sur la migration (SYMIC) et registres cantonaux des apprentissages</td></tr>
 <tr><td>Possibilité de densification:</td><td>autorisée au niveau cantonal</td></tr>
 <tr><td>Milieux interrogés:</td><td>entreprises, établissements; administrations publiques, entreprises de droit public et autres corporations de droit public</td></tr>
@@ -700,7 +700,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>nombre d’emplois selon le lieu de travail, le taux d’occupation, les équivalents plein temps (EPT), le sexe et la nationalité; nombre d’apprentis; nombre de frontaliers; type d’activité économique; participation financière de/à l’étranger; commerce extérieur; forme juridique, durée de travail; lien d’interdépendance avec d’autres entreprises, chiffre d’affaires, année du début de l’activité, autres caractéristiques permettant de décrire la structure, le statut, la forme de la création de l’entreprise et les événements démographiques liés à l’entreprise ou à l’établissement; sur demande, données individuelles comprenant le numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>nombre d’emplois selon le lieu de travail, le taux d’occupation, les équivalents plein temps (EPT), le sexe et la nationalité; nombre d’apprentis; nombre de frontaliers; type d’activité économique; participation financière de/à l’étranger; commerce extérieur; forme juridique, durée de travail; lien d’interdépendance avec d’autres entreprises, chiffre d’affaires, année du début de l’activité, autres caractéristiques permettant de décrire la structure, le statut, la forme de la création de l’entreprise et les événements démographiques liés à l’entreprise ou à l’établissement; sur demande, données individuelles comprenant le numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête partielle</td></tr>
 <tr><td>Milieux interrogés:</td><td>entreprises et établissements privés ou publics travaillant dans tous les secteurs économiques</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -715,14 +715,16 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>caractères structurels des entreprises et des établissements (emplois, activité économique, localisation, participations financières de/à l’étranger, forme juridique, import/ export), caractères démographiques des entreprises (créations d’entreprises, taux de survie des nouvelles entreprises, population d’entreprises actives, entreprises à forte croissance, cessations d’activité, indicateurs de croissance économique)</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>relevé exhaustif, relevé fondé sur les registres; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Registre fédéral des bâtiments et des logements (RegBL), données administratives (caisses de compensation AVS, Administration fédérale des contributions, Administration fédérale des douanes) enquêtes de mise à jour du REE, relevé des structures agricoles, statistique de l’emploi statistique forestière (relevé exhaustif, SFe)</td></tr>
-<tr><td>Milieux interrogés:</td><td>Registre des entreprises et des établissements, Registre fédéral des bâtiments et des logements, caisses de compensation AVS, Administration fédérale des contributions, Administration fédérale des douanes</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>relevé exhaustif, relevé fondé sur les registres; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Registre fédéral des bâtiments et des logements (RegBL), données administratives (caisses de compensation AVS, Administration fédérale des contributions, Office fédéral de la douane et de la sécurité des frontières[^annexu1-lvlu1-lvl23-1]) enquêtes de mise à jour du REE, relevé des structures agricoles, statistique de l’emploi statistique forestière (relevé exhaustif, SFe)</td></tr>
+<tr><td>Milieux interrogés:</td><td>Registre des entreprises et des établissements, Registre fédéral des bâtiments et des logements, caisses de compensation AVS, Administration fédérale des contributions, Office fédéral de la douane et de la sécurité des frontières</td></tr>
 <tr><td>Renseignement:</td><td>Obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>Annuelle</td></tr>
-<tr><td>Milieux participant à l’enquête:</td><td>caisses de compensation AVS, Centrale de compensation (CdC), Office fédéral des assurances sociales, offices régionaux de statistique, Administration fédérale des contributions, Administration fédérale des douanes, Office fédéral de l’agriculture, Office fédéral de l’environnement, offices cantonaux de l’agriculture</td></tr>
+<tr><td>Milieux participant à l’enquête:</td><td>caisses de compensation AVS, Centrale de compensation (CdC), Office fédéral des assurances sociales, offices régionaux de statistique, Administration fédérale des contributions, Office fédéral de l’agriculture, Office fédéral de la douane et de la sécurité des frontières, Office fédéral de l’environnement, offices cantonaux de l’agriculture</td></tr>
 <tr><td>Dispositions particulières:</td><td>Peuvent être publiées, conformément à l’art. 10, al. 2, de l’ordonnance, les données, ventilées par communes, par régions géographiques, par branches économiques, par classes de grandeur et par formes juridiques, qui concernent les entreprises et les établissements, le nombre total d’emplois et les emplois exprimés en équivalents plein temps.</td></tr>
 </table>
+
+[^annexu1-lvlu1-lvl23-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ### 24. Statistique des poursuites et des faillites
 
@@ -743,7 +745,7 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>prix à la production des biens et services pour le marché intérieur et l’exportation; prix à l’importation, rabais, données structurelles (quantités, chiffres d’affaires)</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête partielle; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Administration fédérale des contributions (AFC) et Administration fédérale des douanes (AFD)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête partielle; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Administration fédérale des contributions (AFC) et Office fédéral de la douane et de la sécurité des frontières (OFDF)</td></tr>
 <tr><td>Milieux interrogés:</td><td>entreprises et établissements privés et publics, organisations économiques, services administratifs, organisations faîtières</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -844,7 +846,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>revenus et dépenses des ménages privés, consommation de biens choisis, données structurelles concernant les ménages et les personnes, consommation et épargne, thèmes spéciaux; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>revenus et dépenses des ménages privés, consommation de biens choisis, données structurelles concernant les ménages et les personnes, consommation et épargne, thèmes spéciaux; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif de ménages privés, enquête écrite et téléphonique; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE), Statistique des bâtiments et des logements (StatBL) et registres des assurances sociales (Centrale de compensation, CdC)</td></tr>
 <tr><td>Milieux interrogés:</td><td>ménages privés et CdC</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
@@ -858,7 +860,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>revenus et fortune des ménages privés et de leurs membres, indicateurs des conditions de vie, de la pauvreté et de l’exclusion sociale, autres caractères socio-démographiques et socio-économiques permettant d’évaluer la situation des ménages et de leurs membres, thèmes spéciaux; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>revenus et fortune des ménages privés et de leurs membres, indicateurs des conditions de vie, de la pauvreté et de l’exclusion sociale, autres caractères socio-démographiques et socio-économiques permettant d’évaluer la situation des ménages et de leurs membres, thèmes spéciaux; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif de ménages privés, enquête téléphonique, enquête en face à face et enquête complémentaire écrite; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE), Statistique des bâtiments et des logements (StatBL), Statistique des nouvelles rentes (NRS), registres des assurances sociales (Centrale de compensation, [CdC] et Secrétariat d’État à l’économie [SECO]), registres fiscaux cantonaux et statistique des bénéficiaires de l’aide sociale</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes vivant dans un ménage privé (enquête), autorités fiscales cantonales et communales, CdC et SECO (relevés fondés sur les registres)</td></tr>
 <tr><td>Renseignement:</td><td>facultatif pour les personnes vivant dans un ménage privé (enquête)</td></tr>
@@ -1047,12 +1049,12 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>véhicules de transport de choses lourds immatriculés en Suisse, prestations (kilomètres), quantité transportée (tonnes) et nature des marchandises, type de fret, genre de trafic, lieux de chargement et de déchargement, courses à vide</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête par échantillonnage (questionnaire papier ou électronique); appariement avec des données provenant des sources suivantes: système d’information relatif à l’admission à la circulation (SIAC) de l’Office fédéral des routes, données de la RPLP de l’Administration fédérale des douanes</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête par échantillonnage (questionnaire papier ou électronique); appariement avec des données provenant des sources suivantes: système d’information relatif à l’admission à la circulation (SIAC) de l’Office fédéral des routes, données de la RPLP de l’Office fédéral de la douane et de la sécurité des frontières</td></tr>
 <tr><td>Milieux interrogés:</td><td>détenteurs de véhicules de transport de choses lourds immatriculés en Suisse</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>périodes de référence réparties sur l’année</td></tr>
 <tr><td>Périodicité:</td><td>permanente</td></tr>
-<tr><td>Milieux participant à l’enquête:</td><td>Administration fédérale des douanes, Office fédéral des routes</td></tr>
+<tr><td>Milieux participant à l’enquête:</td><td>Office fédéral de la douane et de la sécurité des frontières, Office fédéral des routes</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
@@ -1061,12 +1063,12 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>véhicules de transport de choses immatriculés à l’étranger qui franchissent la frontière suisse, prestations (kilomètres), quantité transportée (tonnes) et nature des marchandises, type de fret, genre de trafic, lieux de chargement et de déchargement</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête par échantillonnage sous forme d’interviews; appariement avec des données de la RPLP de l’Administration fédérale des douanes</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête par échantillonnage sous forme d’interviews; appariement avec des données de la RPLP de l’Office fédéral de la douane et de la sécurité des frontières</td></tr>
 <tr><td>Milieux interrogés:</td><td>conducteurs de véhicules étrangers de transport de choses</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
 <tr><td>Date de l’enquête:</td><td>jours de référence répartis sur l’année</td></tr>
 <tr><td>Périodicité:</td><td>tous les cinq ans</td></tr>
-<tr><td>Milieux participant à l’enquête:</td><td>Administration fédérale des douanes, Office fédéral des routes, Office fédéral du développement territorial, Office fédéral des transports, mandataires privés</td></tr>
+<tr><td>Milieux participant à l’enquête:</td><td>Office fédéral de la douane et de la sécurité des frontières, Office fédéral des routes, Office fédéral du développement territorial, Office fédéral des transports, mandataires privés</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
@@ -1108,7 +1110,7 @@ Annexe*[^t-2]*
 <tr><td>Renseignement:</td><td>–</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>tous les 5 ans</td></tr>
-<tr><td>Milieux participant à l’enquête:</td><td>Administration fédérale des douanes</td></tr>
+<tr><td>Milieux participant à l’enquête:</td><td>Office fédéral de la douane et de la sécurité des frontières</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
@@ -1138,7 +1140,7 @@ Annexe*[^t-2]*
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
 <tr><td>Périodicité:</td><td>tous les cinq ans</td></tr>
-<tr><td>Milieux participant à l’enquête:</td><td>Office fédéral du développement territorial, Office fédéral des routes, Office fédéral des transports, Administration fédérale des douanes, entreprises de chemin de fer, mandataires privés</td></tr>
+<tr><td>Milieux participant à l’enquête:</td><td>Office fédéral du développement territorial, Office fédéral des routes, Office fédéral des transports, Office fédéral de la douane et de la sécurité des frontières, entreprises de chemin de fer, mandataires privés</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
 
@@ -1160,7 +1162,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>déclarations concernant les prestations des 2<sup>e</sup> et 3<sup>e</sup> piliers versées sous forme de rentes et de capital, les versements ou remboursements liés à l’encouragement à la propriété du logement, les rentes du 1<sup>er</sup> pilier; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>déclarations concernant les prestations des 2<sup>e</sup> et 3<sup>e</sup> piliers versées sous forme de rentes et de capital, les versements ou remboursements liés à l’encouragement à la propriété du logement, les rentes du 1<sup>er</sup> pilier; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive; appariement de données provenant des sources suivantes: registres des assurances sociales (Centrale de compensation, CdC), annonces des nouvelles prestations du 2<sup>e</sup> ou 3<sup>e</sup> pilier (AFC) et versements ou remboursements liés à l’encouragement à la propriété du logement, Statistique de la population et des ménages (STATPOP); suivi longitudinal du passage à la retraite</td></tr>
 <tr><td>Milieux interrogés:</td><td>Administration fédérale des contributions (AFC) et CdC</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -1244,7 +1246,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, état de santé, habitudes de vie et comportements ayant un impact sur la santé, prévention, handicaps et troubles de la santé, offre et utilisation des services de santé et des services sociaux, situation en matière d’assurances, sécurité sociale; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, état de santé, habitudes de vie et comportements ayant un impact sur la santé, prévention, handicaps et troubles de la santé, offre et utilisation des services de santé et des services sociaux, situation en matière d’assurances, sécurité sociale; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’env. 10 000 personnes; enquête téléphonique assistée par ordinateur, éventuellement complétée par une enquête en face à face assistée par ordinateur et par une enquête écrite; appariement avec des données de la statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE)</td></tr>
 <tr><td>Possibilité de densification:</td><td>autorisée au niveau cantonal</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes à partir de 15 ans vivant dans un ménage privé; communes, cantons et services fédéraux</td></tr>
@@ -1301,7 +1303,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>**Office fédéral de la statistique**</td></tr>
-<tr><td>Objet de l’enquête:</td><td>bénéficiaires de prestations liées aux besoins versées par les cantons ou les communes; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>bénéficiaires de prestations liées aux besoins versées par les cantons ou les communes; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive réalisée pendant une année; appariement de données provenant des sources suivantes: système d’information central sur la migration (SYMIC), Statistique de la population et des ménages (STATPOP), Secrétariat d’État à l’économie (SECO), Registre central des assurés (Unique Person Identification, UPI)</td></tr>
 <tr><td>Milieux interrogés:</td><td>services cantonaux et communaux responsables en la matière, personnes concernées</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -1315,7 +1317,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>bénéficiaires de l’aide sociale dans le domaine des réfugiés et des requérants d’asile; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>bénéficiaires de l’aide sociale dans le domaine des réfugiés et des requérants d’asile; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive et enquête par échantillonnage; appariement de données provenant des sources suivantes: système d’information central sur la migration (SYMIC), Statistique de la population et des ménages (STATPOP), Secrétariat d’État à l’économie (SECO), Registre central des assurés (Unique Person Identification, UPI)</td></tr>
 <tr><td>Milieux interrogés:</td><td>services mandatés par les cantons pour le paiement de l’aide sociale</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -1329,7 +1331,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>élèves, étudiants, classes, contrats d’apprentissage (seulement pour les professions réglementées par la LF du 13 décembre 2002 sur la formation professionnelle, LFPr; RS *412.10*), caractères socio-démographiques, caractéristiques de la formation scolaire; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>élèves, étudiants, classes, contrats d’apprentissage (seulement pour les professions réglementées par la LF du 13 décembre 2002 sur la formation professionnelle, LFPr; RS *412.10*), caractères socio-démographiques, caractéristiques de la formation scolaire; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons et des établissements de formation; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS, bourses et prêts)</td></tr>
 <tr><td>Milieux interrogés:</td><td>cantons, établissements de formation, associations</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -1343,7 +1345,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>examens finals du degré secondaire II (maturités gymnasiales, maturités professionnelles, maturités spécialisées, examens finals dans le domaine de la formation professionnelle initiale, examens finals des écoles supérieures de commerce et des écoles de culture générale) et examens finals dans le domaine de la formation professionnelle supérieure (examens finals des écoles supérieures, examens professionnels et examens professionnels supérieurs ainsi que les examens finals similaires sans reconnaissance fédérale), caractères socio-démographiques des candidats et des diplômés, indications sur les subsides fédéraux accordés pour les cours de préparation aux examens fédéraux; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>examens finals du degré secondaire II (maturités gymnasiales, maturités professionnelles, maturités spécialisées, examens finals dans le domaine de la formation professionnelle initiale, examens finals des écoles supérieures de commerce et des écoles de culture générale) et examens finals dans le domaine de la formation professionnelle supérieure (examens finals des écoles supérieures, examens professionnels et examens professionnels supérieurs ainsi que les examens finals similaires sans reconnaissance fédérale), caractères socio-démographiques des candidats et des diplômés, indications sur les subsides fédéraux accordés pour les cours de préparation aux examens fédéraux; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons, des établissements de formation et de la Confédération; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS)</td></tr>
 <tr><td>Milieux interrogés:</td><td>cantons, établissements de formation, associations, Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI) pour la Commission suisse de maturité (CSM) et la Commission fédérale de maturité professionnelle (CFMP) ainsi que pour les examens fédéraux (examens professionnels et examens professionnels supérieurs) et pour le système d’information sur les subventions versées aux personnes ayant suivi des cours préparatoires ainsi que sur les prestataires de ces derniers</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -1357,7 +1359,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>personnel enseignant, y compris les membres de la direction des établissements et le personnel de la pédagogie spécialisée (caractéristiques démographiques, statut, formation) et prestations d’enseignement (sans les hautes écoles); numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>personnel enseignant, y compris les membres de la direction des établissements et le personnel de la pédagogie spécialisée (caractéristiques démographiques, statut, formation) et prestations d’enseignement (sans les hautes écoles); numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons et des établissements de formation; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnel des écoles, fichier suisse des étudiants du SIUS et fichier suisse du personnel des hautes écoles)</td></tr>
 <tr><td>Milieux interrogés:</td><td>cantons, établissements de formation</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -1371,7 +1373,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>études et examens (environ 20 variables) des personnes immatriculées dans une haute école suisse ou passant un examen sanctionnant les études universitaires devant un organe extra-universitaire; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>études et examens (environ 20 variables) des personnes immatriculées dans une haute école suisse ou passant un examen sanctionnant les études universitaires devant un organe extra-universitaire; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons et des instances chargées des examens; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS)</td></tr>
 <tr><td>Milieux interrogés:</td><td>hautes écoles suisses, organes d’examen universitaires et extra-universitaires, Office fédéral de la santé publique (OFSP)</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -1379,14 +1381,14 @@ Annexe*[^t-2]*
 <tr><td>Périodicité:</td><td>semestrielle pour les étudiants, annuelle pour les examens</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>Conférence des recteurs des hautes écoles suisses (swissuniversities), Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP), Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI)</td></tr>
 <tr><td>Dispositions particulières:</td><td>Avec l’accord des intéressés, il est possible d’utiliser certaines informations dans certains buts administratifs. En vertu de l’art. 10, al. 3<sup>ter</sup>, LSF, les cantons et les hautes écoles peuvent obtenir à partir du Fichier suisse des étudiants, pour chaque personne immatriculée, pour le semestre concerné, les informations suivantes:</td></tr>
-<tr><td></td><td>numéro matricule suisse; numéro d’assuré AVS; haute école; semestre d’études; catégorie, niveau et filière d’études; date, niveau et filière du dernier examen réussi; indication de la voie d’études (première ou deuxième); nombre total de semestres d’études en Suisse dans la filière d’études choisie; domicile au moment de l’obtention du titre donnant accès aux études universitaires; type, lieu et date d’obtention du titre donnant accès aux études universitaires; nationalité, date de naissance et sexe de l’étudiant, équivalents plein-temps des étudiants Les résultats sont publiés par haute école. Les données peuvent être conservées pendant plus de 30 ans sous une forme pseudonymisée.</td></tr>
+<tr><td></td><td>numéro matricule suisse; numéro AVS; haute école; semestre d’études; catégorie, niveau et filière d’études; date, niveau et filière du dernier examen réussi; indication de la voie d’études (première ou deuxième); nombre total de semestres d’études en Suisse dans la filière d’études choisie; domicile au moment de l’obtention du titre donnant accès aux études universitaires; type, lieu et date d’obtention du titre donnant accès aux études universitaires; nationalité, date de naissance et sexe de l’étudiant, équivalents plein-temps des étudiants Les résultats sont publiés par haute école. Les données peuvent être conservées pendant plus de 30 ans sous une forme pseudonymisée.</td></tr>
 </table>
 
 ### 73. Enquête auprès des diplômés des hautes écoles
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>études, recherche d’un emploi à la fin des études, parcours professionnel en considérant en particulier la situation un an et cinq ans après la fin des études, formation continue et évolution de la carrière professionnelle au cours des années; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>études, recherche d’un emploi à la fin des études, parcours professionnel en considérant en particulier la situation un an et cinq ans après la fin des études, formation continue et évolution de la carrière professionnelle au cours des années; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, panel, appariement avec des données du fichier suisse des étudiants du SIUS</td></tr>
 <tr><td>Milieux interrogés:</td><td>diplômés des hautes écoles suisses</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
@@ -1400,7 +1402,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>études actuelles, budget-temps, activités rémunérées, situation financière, logement, mobilité, santé, caractères socio-démographiques; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>études actuelles, budget-temps, activités rémunérées, situation financière, logement, mobilité, santé, caractères socio-démographiques; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’étudiants, appariement avec des données du fichier suisse des étudiants du SIUS</td></tr>
 <tr><td>Milieux interrogés:</td><td>étudiants des hautes écoles</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
@@ -1414,7 +1416,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>bourses et prêts d’études (montant et type des allocations octroyées); bénéficiaires des bourses et des prêts d’études (caractères socio-démographiques, caractéristiques de la formation donnant droit à une bourse ou à un prêt); numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>bourses et prêts d’études (montant et type des allocations octroyées); bénéficiaires des bourses et des prêts d’études (caractères socio-démographiques, caractéristiques de la formation donnant droit à une bourse ou à un prêt); numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des cantons; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), personnes en cours de formation, bourses et prêts</td></tr>
 <tr><td>Milieux interrogés:</td><td>offices cantonaux des bourses d’études</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -1428,7 +1430,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>personnes employées dans les hautes écoles suisses (caractéristiques démographiques, statut, formation) et prestations qu’elles fournissent (enseignement, recherche, etc.); numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>personnes employées dans les hautes écoles suisses (caractéristiques démographiques, statut, formation) et prestations qu’elles fournissent (enseignement, recherche, etc.); numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé de données administratives des hautes écoles; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP) et divers relevés dans le domaine de la formation (personnel des écoles, fichier suisse des étudiants du SIUS et fichier suisse du personnel des hautes écoles)</td></tr>
 <tr><td>Milieux interrogés:</td><td>hautes écoles suisses</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -1696,7 +1698,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>caractères visés à l’art. 6, al. 2, let. a, de la loi du 22 juin 2007 sur le recensement (RS *431.112*) et dans le programme de relevés au sens de l’art. 9 de l’ordonnance du 19 décembre 2008 sur le recensement (RS *431.112.1*); numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>caractères visés à l’art. 6, al. 2, let. a, de la loi du 22 juin 2007 sur le recensement (RS *431.112*) et dans le programme de relevés au sens de l’art. 9 de l’ordonnance du 19 décembre 2008 sur le recensement (RS *431.112.1*); numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif de 200 000 personnes: enquête écrite réalisée à l’aide d’un questionnaire imprimé ou électronique; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre fédéral des bâtiments et des logements (RegBL), Registre des entreprises et des établissements (REE), caisses de compensation AVS, liste des membres de l’Église catholique-chrétienne</td></tr>
 <tr><td>Possibilité de densification:</td><td>conformément aux art. 21 et 30 de l’ordonnance sur le recensement</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes de 15 ans au moins vivant dans un ménage privé; registres fédéraux, cantonaux et communaux, caisses de compensation AVS</td></tr>
@@ -1711,7 +1713,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>caractères visés à l’art. 6 de la loi du 23 juin 2006 sur l’harmonisation des registres (LHR; RS *431.02*) et dans le programme de relevés au sens de l’art. 9 de l’ordonnance du 19 décembre 2008 sur le recensement (RS *431.112.1*); données sélectionnées dans les registres de personnes sur l’état et les mouvements (naissances, décès, changement d’état civil, mouvements migratoires, acquisition de la nationalité suisse, changement de statut de séjour, etc.) de la population résidante permanente suisse et étrangère, de la population résidante non permanente étrangère et de la population résidante au domicile secondaire; coordonnées des bâtiments; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>caractères visés à l’art. 6 de la loi du 23 juin 2006 sur l’harmonisation des registres (LHR; RS *431.02*) et dans le programme de relevés au sens de l’art. 9 de l’ordonnance du 19 décembre 2008 sur le recensement (RS *431.112.1*); données sélectionnées dans les registres de personnes sur l’état et les mouvements (naissances, décès, changement d’état civil, mouvements migratoires, acquisition de la nationalité suisse, changement de statut de séjour, etc.) de la population résidante permanente suisse et étrangère, de la population résidante non permanente étrangère et de la population résidante au domicile secondaire; coordonnées des bâtiments; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé fondé sur les registres; appariement de données provenant des sources suivantes: registres cantonaux et communaux des habitants, Registre informatisé de l’état civil (Infostar), système d’information central sur la migration (SYMIC), système d’information Ordipro, Registre central des assurés (Unique Person Identification, UPI), Registre fédéral des bâtiments et des logements (RegBL)</td></tr>
 <tr><td>Possibilité de densification:</td><td>–</td></tr>
 <tr><td>Milieux interrogés:</td><td>registres fédéraux, cantonaux et communaux; ménages collectifs</td></tr>
@@ -1741,7 +1743,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, parcours de formation, formation complète la plus élevée, activités de formation, déterminants de la formation, efficacité des formations de base et des formations continues; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, parcours de formation, formation complète la plus élevée, activités de formation, déterminants de la formation, efficacité des formations de base et des formations continues; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’env. 10 000 personnes; mixed-mode CAWI (questionnaire en ligne) et CATI (enquête téléphonique); appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE), registres des assurances sociales (Centrale de compensation [CdC] et Secrétariat d’État à l’économie [SECO])</td></tr>
 <tr><td>Possibilité de densification:</td><td>autorisée au niveau cantonal</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes à partir de 15 ans</td></tr>
@@ -1756,7 +1758,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, parentalité, vie professionnelle et familiale, réseau familial et prestations des familles; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, parentalité, vie professionnelle et familiale, réseau familial et prestations des familles; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’env. 10 000 personnes; mixed-mode CAWI (questionnaire en ligne) et CATI (enquête téléphonique); appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et registres des assurances sociales (Centrale de compensation [CdC])</td></tr>
 <tr><td>Possibilité de densification:</td><td>autorisée au niveau cantonal</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes à partir de 15 ans vivant dans un ménage privé; communes, cantons et services fédéraux</td></tr>
@@ -1771,7 +1773,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, langues et compétences linguistiques, appartenance religieuse, pratiques culturelles et de loisirs, participation à la vie politique et sociale; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, langues et compétences linguistiques, appartenance religieuse, pratiques culturelles et de loisirs, participation à la vie politique et sociale; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’environ 10 000 personnes; enquête téléphonique assistée par ordinateur, éventuellement complétée par une enquête en face à face assistée par ordinateur et par une enquête écrite; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE)</td></tr>
 <tr><td>Possibilité de densification:</td><td>autorisée au niveau cantonal</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes à partir de 15 ans vivant dans un ménage privé; communes, cantons et services fédéraux</td></tr>
@@ -1786,7 +1788,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, disponibilité et utilisation de véhicules et d’abonnements des transports publics, distances parcourues et temps de déplacement, motifs des déplacements, moyens de transport utilisés; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, disponibilité et utilisation de véhicules et d’abonnements des transports publics, distances parcourues et temps de déplacement, motifs des déplacements, moyens de transport utilisés; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif d’environ 40 000 personnes; enquête téléphonique assistée par ordinateur, éventuellement complétée par une enquête écrite; appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), système d’information relatif à l’admission à la circulation (SIAC), Registre des entreprises et des établissements (REE), Registre fédéral des bâtiments et des logements (RegBL), données spatiales (p. ex. distances)</td></tr>
 <tr><td>Possibilité de densification:</td><td>autorisée au niveau cantonal ou régional</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes à partir de 6 ans vivant dans un ménage privé; communes, cantons et services fédéraux</td></tr>
@@ -1801,7 +1803,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, modules thématiques variables d’une année à l’autre; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques et économiques, modules thématiques variables d’une année à l’autre; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif de 3000 personnes; mixed-mode CAWI (questionnaire en ligne) et CATI (enquête téléphonique) ou CAWI (questionnaire en ligne); appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE)</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes à partir de 15 ans vivant dans un ménage privé</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
@@ -1843,7 +1845,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe chargé de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>indications sur l’effectif et sur les mouvements, pays de résidence, sexe, état civil, âge, citoyenneté multiple et autres données socio-démographiques figurant dans le registre des Suisses de l’étranger via le système d’information E-VERA; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>indications sur l’effectif et sur les mouvements, pays de résidence, sexe, état civil, âge, citoyenneté multiple et autres données socio-démographiques figurant dans le registre des Suisses de l’étranger via le système d’information E-VERA; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, relevé fondé sur les registres; appariement avec des données de la Statistique de la population et des ménages (STATPOP)</td></tr>
 <tr><td>Milieux interrogés:</td><td>Registre des Suisses de l’étranger via le système d’information E-VERA du Département fédéral des affaires étrangères</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
@@ -2258,7 +2260,7 @@ Annexe*[^t-2]*
 ### 142. Statistique du commerce extérieur
 
 <table>
-<tr><td>Organe responsable de l’enquête:</td><td>Administration fédérale des douanes</td></tr>
+<tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la douane et de la sécurité des frontières</td></tr>
 <tr><td>Objet de l’enquête:</td><td>importations et exportations en quantité et en valeur d’après les positions du tarif des douanes suisses, ventilées par pays d’origine et par pays de destination; données du commerce extérieur de courant électrique</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
 <tr><td>Milieux interrogés:</td><td>importateurs et exportateurs y compris les entreprises indigènes et étrangères actives dans le commerce extérieur de courant électrique ainsi que la société nationale du réseau, exploitante du réseau suisse de transport; maisons d’expédition</td></tr>
@@ -2272,7 +2274,7 @@ Annexe*[^t-2]*
 ### 143. Statistique du transit
 
 <table>
-<tr><td>Organe responsable de l’enquête:</td><td>Administration fédérale des douanes</td></tr>
+<tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la douane et de la sécurité des frontières</td></tr>
 <tr><td>Objet de l’enquête:</td><td>transit des marchandises en quantité, ventilé par groupe de produits, pays, mode de transport et zone de passage</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive; exploitation des titres de transport ou de transit</td></tr>
 <tr><td>Milieux interrogés:</td><td>transit par rail: entreprises ferroviaires; transit par route: personnes assujetties à la déclaration de douane</td></tr>
@@ -2286,7 +2288,7 @@ Annexe*[^t-2]*
 ### 144. Statistique de l’impôt sur les huiles minérales
 
 <table>
-<tr><td>Organe responsable de l’enquête:</td><td>Administration fédérale des douanes</td></tr>
+<tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la douane et de la sécurité des frontières,</td></tr>
 <tr><td>Objet de l’enquête:</td><td>trafic des marchandises soumises à la loi du 21 juin 1996 sur l’imposition des huiles minérales (RS *641.61*), par genre et quantité</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes assujetties à l’impôt</td></tr>
@@ -2516,11 +2518,11 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral des transports</td></tr>
 <tr><td>Objet de l’enquête:</td><td>nombre de poids lourds et caractéristiques techniques; origine, destination, poids et catégorie des marchandises; transport de marchandises par le rail selon le type de transport (trafic par wagons complets, transport combiné non accompagné, chaussée roulante)</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête annuelle: relevé exhaustif au moyen des postes de comptage automatique de l’Office fédéral des routes et des postes de contrôle de la RPLP de l’Administration fédérale des douanes (AFD), exploitation des données des appareils de pesage en mouvement (Weight In Motion – WIM) de l’Office fédéral des routes/AFD; pour les volumes de marchandises transportées par le rail, exploitation des données des CFF Infrastructure; enquête principale: combinaison entre les comptages de l’enquête annuelle et les données d’un relevé représentatif auprès d’un échantillon de poids lourds (y c. chaussée roulante) d’une durée d’environ 120 jours, portant sur l’origine/la destination, le transport intérieur/d’importation/d’exportation/de transit, les caractéristiques techniques des véhicules et les marchandises transportées; pour les marchandises transportées par le rail, exploitation des données des entreprises de transport ferroviaire (ETF), des CFF Infrastructure et de la chaussée roulante.</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête annuelle: relevé exhaustif au moyen des postes de comptage automatique de l’Office fédéral des routes et des postes de contrôle de la RPLP de l’Office fédéral de la douane et de la sécurité des frontières (OFDF), exploitation des données des appareils de pesage en mouvement (Weight In Motion – WIM) de l’Office fédéral des routes/OFDF; pour les volumes de marchandises transportées par le rail, exploitation des données des CFF Infrastructure; enquête principale: combinaison entre les comptages de l’enquête annuelle et les données d’un relevé représentatif auprès d’un échantillon de poids lourds (y c. chaussée roulante) d’une durée d’environ 120 jours, portant sur l’origine/la destination, le transport intérieur/d’importation/d’exportation/de transit, les caractéristiques techniques des véhicules et les marchandises transportées; pour les marchandises transportées par le rail, exploitation des données des entreprises de transport ferroviaire (ETF), des CFF Infrastructure et de la chaussée roulante.</td></tr>
 <tr><td>Milieux interrogés:</td><td>chauffeurs de poids lourds, expéditeurs, opérateurs ferroviaires</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
 <tr><td>Date de l’enquête:</td><td>pour la première fois en 1979</td></tr>
-<tr><td>Périodicité:</td><td>annuelle (relevé exhaustif au moyen des installations de contrôle de la RPLP de l’AFD et des compteurs automatiques de l’Office fédéral des routes, exploitation des données des ETF); tous les cinq ans (enquête principale)</td></tr>
+<tr><td>Périodicité:</td><td>annuelle (relevé exhaustif au moyen des installations de contrôle de la RPLP de l’OFDF et des compteurs automatiques de l’Office fédéral des routes, exploitation des données des ETF); tous les cinq ans (enquête principale)</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>Office fédéral des routes, Office fédéral du développement territorial, OFS, ETF suisses, cantons, mandataires privés</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
@@ -2616,7 +2618,7 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>chiffres d’affaires nominaux et indicateurs de l’évolution des affaires dans le commerce de détail selon l’activité économique et le groupe de produits</td></tr>
-<tr><td>Type et méthode de l’enquête:</td><td>échantillon représentatif, enquête exhaustive auprès des grandes entreprises; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Administration fédérale des contributions (AFC) pour la TVA, Administration fédérale des douanes (AFD)</td></tr>
+<tr><td>Type et méthode de l’enquête:</td><td>échantillon représentatif, enquête exhaustive auprès des grandes entreprises; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Administration fédérale des contributions (AFC) pour la TVA, Office fédéral de la douane et de la sécurité des frontières (OFDF)</td></tr>
 <tr><td>Milieux interrogés:</td><td>entreprises, organisations économiques</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -2672,7 +2674,7 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>données sur les commandes et les chiffres d’affaires de la construction</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif, enquête exhaustive auprès des grandes entreprises; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Société suisse des entrepreneurs, Administration fédérale des contributions (AFC) pour la TVA, Administration fédérale des douanes (AFD)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif, enquête exhaustive auprès des grandes entreprises; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Société suisse des entrepreneurs, Administration fédérale des contributions (AFC) pour la TVA, Office fédéral de la douane et de la sécurité des frontières (OFDF)</td></tr>
 <tr><td>Milieux interrogés:</td><td>entreprises, organisations économiques</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -2686,7 +2688,7 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>données sur les commandes et les chiffres d’affaires de l’industrie</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif, enquête exhaustive auprès des grandes entreprises; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE); Office fédéral de l’énergie (OFEN), Schweizerische Pflichtlagerorganisation für flüssige Treib- und Brennstoffe, Association suisse de l’industrie gazière, Administration fédérale des contributions (AFC) pour la TVA, Administration fédérale des douanes (AFD)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif, enquête exhaustive auprès des grandes entreprises; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE); Office fédéral de l’énergie (OFEN), Schweizerische Pflichtlagerorganisation für flüssige Treib- und Brennstoffe, Association suisse de l’industrie gazière, Administration fédérale des contributions (AFC) pour la TVA, Office fédéral de la douane et de la sécurité des frontières (OFDF)</td></tr>
 <tr><td>Milieux interrogés:</td><td>entreprises, organisations économiques</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
@@ -2699,12 +2701,12 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>données sur les chiffres d’affaires ou variable de remplacement des activités suivantes: – commerce et réparation de véhicules automobiles et de motocycles – commerce de gros à l’exception des véhicules automobiles et des motocycles – transports et entreposage – hébergement et restauration – information et communication – activités spécialisées, scientifiques et techniques</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif, enquête exhaustive auprès des grandes entreprises; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Administration fédérale des contributions (AFC) pour la TVA, Administration fédérale des douanes (AFD)</td></tr>
+<tr><td>Objet de l’enquête:</td><td>données sur les chiffres d’affaires ou variable de remplacement des activités suivantes: – commerce et réparation de véhicules automobiles et de motocycles – commerce de gros à l’exception des véhicules automobiles et des motocycles – transports et entreposage – hébergement et restauration – information et communication – activités immobilières – activités spécialisées, scientifiques et techniques – activités de services administratifs et de soutien</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif, enquête exhaustive auprès des grandes entreprises; appariement de données provenant des sources suivantes: Registre des entreprises et des établissements (REE), Administration fédérale des contributions (AFC) pour la TVA, Office fédéral de la douane et de la sécurité des frontières (OFDF)</td></tr>
 <tr><td>Milieux interrogés:</td><td>entreprises, organisations économiques</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>–</td></tr>
-<tr><td>Périodicité:</td><td>trimestrielle</td></tr>
+<tr><td>Périodicité:</td><td>mensuelle</td></tr>
 <tr><td>Milieux participant à l’enquête:</td><td>organisations économiques</td></tr>
 <tr><td>Dispositions particulières:</td><td>–</td></tr>
 </table>
@@ -2730,12 +2732,12 @@ Annexe*[^t-2]*
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
 <tr><td>Objet de l’enquête:</td><td>véhicules de transport de choses légers immatriculés en Suisse (y compris tracteurs à sellette légers), prestations (kilomètres), poids (tonnes) et nature des marchandises transportées, genre de trafic, lieux d’origine et de destination, motifs des parcours, branche de l’entreprise</td></tr>
-<tr><td>Type et méthode d’enquête:</td><td>enquête par échantillonnage (questionnaire papier ou électronique); appariement de données provenant des sources suivantes: système d’information relatif à l’admission à la circulation (SIAC) de l’Office fédéral des routes, données de la RPLP de l’Administration fédérale des douanes (uniquement pour les tracteurs à sellette légers)</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>enquête par échantillonnage (questionnaire papier ou électronique); appariement de données provenant des sources suivantes: système d’information relatif à l’admission à la circulation (SIAC) de l’Office fédéral des routes, données de la RPLP de l’Office fédéral de la douane et de la sécurité des frontières (uniquement pour les tracteurs à sellette légers)</td></tr>
 <tr><td>Milieux interrogés:</td><td>détenteurs de véhicules de transport de choses légers immatriculés en Suisse</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire pour les véhicules utilisés à titre professionnel</td></tr>
 <tr><td>Date de l’enquête:</td><td>périodes de référence réparties sur l’année</td></tr>
 <tr><td>Périodicité:</td><td>tous les dix ans (la première fois en 2013)</td></tr>
-<tr><td>Milieux participant à l’enquête:</td><td>Administration fédérale des douanes, Office fédéral des routes</td></tr>
+<tr><td>Milieux participant à l’enquête:</td><td>Office fédéral de la douane et de la sécurité des frontières, Office fédéral des routes</td></tr>
 <tr><td>Dispositions particulières:</td><td>enquête facultative pour les véhicules utilisés uniquement à titre privé</td></tr>
 </table>
 
@@ -2818,7 +2820,7 @@ Annexe*[^t-2]*
 <tr><td>Organe responsable de l’enquête:</td><td>Organe national d’enregistrement du cancer</td></tr>
 <tr><td>Objet de l’enquête:</td><td>données sur l’incidence et la prévalence des maladies oncologiques</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive sur les cas de cancers par les registres cantonaux des tumeurs et le registre du cancer de l’enfant</td></tr>
-<tr><td>Milieux interrogés:</td><td>personnes et institutions soumises à l’obligation de déclarer les maladies oncologiques conformément à l’art. 3 de la loi fédérale du 18 mars 2016 sur l’enregistrement des maladies oncologiques[^annexu1-lvlu1-lvl187-1]</td></tr>
+<tr><td>Milieux interrogés:</td><td>personnes et institutions soumises à l’obligation de déclarer les maladies oncologiques conformément à l’art. 3 de la loi fédérale du 18 mars 2016 sur l’enregistrement des maladies oncologiques[^annexu1-lvlu1-lvl186-1]</td></tr>
 <tr><td>Renseignement:</td><td>obligatoire</td></tr>
 <tr><td>Date de l’enquête:</td><td>à partir de 2020</td></tr>
 <tr><td>Périodicité:</td><td>en permanence</td></tr>
@@ -2826,7 +2828,7 @@ Annexe*[^t-2]*
 <tr><td>Dispositions particulières:</td><td>Une comparaison avec les données de la statistique des causes de décès est effectuée (art. 22, al. 2 et 3, de la loi fédérale sur l’enregistrement des maladies oncologiques). Les données collectées avant 2020 peuvent faire l’objet de travaux statistiques.</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl187-1]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^annexu1-lvlu1-lvl186-1]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
 
 ### 188. Statistique de la prise en charge et du traitement des dépendances en Suisse (act-info)
 
@@ -2932,7 +2934,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>racisme, xénophobie, hostilité à l’égard des personnes musulmanes, hostilité à l’égard des personnes noires, hostilité à l’égard des personnes juives, discrimination, variables socio-démographiques et économiques; numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>racisme, xénophobie, hostilité à l’égard des personnes musulmanes, hostilité à l’égard des personnes noires, hostilité à l’égard des personnes juives, discrimination, variables socio-démographiques et économiques; numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>échantillon représentatif de 3000 personnes; mixed-mode CAWI (questionnaire en ligne) et CATI (enquête téléphonique); appariement de données provenant des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE)</td></tr>
 <tr><td>Milieux interrogés:</td><td>population résidente permanente à partir de 15 ans vivant dans des ménages privés</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
@@ -2946,7 +2948,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques des frontaliers étrangers (sexe, âge, statut d’activité, activité économique, nationalité, lieu de travail, lieu de domicile, niveau de formation, taux d’occupation, position professionnelle); numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>caractères socio-démographiques des frontaliers étrangers (sexe, âge, statut d’activité, activité économique, nationalité, lieu de travail, lieu de domicile, niveau de formation, taux d’occupation, position professionnelle); numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>synthèse de données basée sur des sondages auprès des entreprises (statistique de l’emploi, enquête sur la structure des salaires) et un appariement de données provenant des sources suivantes: système d’information central sur la migration (SYMIC), Statistique structurelle et démographique des entreprises (STATENT), personnes en cours de formation</td></tr>
 <tr><td>Milieux interrogés:</td><td>–</td></tr>
 <tr><td>Renseignement:</td><td>–</td></tr>
@@ -3002,7 +3004,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>formation, satisfaction avec la formation, financement de la formation, recherche d’un emploi à la fin de la formation, parcours professionnel en considérant en particulier la situation un an et cinq ans après la fin de la formation / l’obtention du diplôme, formation continue et évolution de la carrière professionnelle au cours des années, données socio-démographiques, numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>formation, satisfaction avec la formation, financement de la formation, recherche d’un emploi à la fin de la formation, parcours professionnel en considérant en particulier la situation un an et cinq ans après la fin de la formation / l’obtention du diplôme, formation continue et évolution de la carrière professionnelle au cours des années, données socio-démographiques, numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête exhaustive, panel, appariement avec les données des sources suivantes: Statistique de la population et des ménages (STATPOP), Registre des entreprises et des établissements (REE) et divers relevés dans le domaine de la formation (personnes en cours de formation, diplômes, fichier suisse des étudiants du SIUS, bourses et prêts), registre des assurances sociales (Centrale de compensation [CdC])</td></tr>
 <tr><td>Milieux interrogés:</td><td>personnes candidates et personnes diplômées des examens fédéraux et des écoles supérieures (ES)</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
@@ -3142,7 +3144,7 @@ Annexe*[^t-2]*
 
 <table>
 <tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
-<tr><td>Objet de l’enquête:</td><td>compétences (lecture, mathématique, résolution de problèmes), caractéristiques socio-démographiques et économiques, formation et formation continue, statut actuel sur le marché du travail et parcours professionnel, informations sur le poste de travail actuel et sur le poste de travail occupé en dernier, utilisation de compétences dans le contexte du travail et dans la vie quotidienne, résultats non économiques, compétences sociales et émotionnelles, numéro d’assuré AVS</td></tr>
+<tr><td>Objet de l’enquête:</td><td>compétences (lecture, mathématique, résolution de problèmes), caractéristiques socio-démographiques et économiques, formation et formation continue, statut actuel sur le marché du travail et parcours professionnel, informations sur le poste de travail actuel et sur le poste de travail occupé en dernier, utilisation de compétences dans le contexte du travail et dans la vie quotidienne, résultats non économiques, compétences sociales et émotionnelles, numéro AVS</td></tr>
 <tr><td>Type et méthode d’enquête:</td><td>enquête représentative par échantillonnage; enquête individuelle assistée par ordinateur; appariement de données provenant des sources suivantes: statistique de la population et des ménages (STATPOP), registre des entreprises et des établissements (REE), registre des assurances sociales (Centrale de compensation [CdC])</td></tr>
 <tr><td>Milieux interrogés:</td><td>population résidante de 15 ans et plus</td></tr>
 <tr><td>Renseignement:</td><td>facultatif</td></tr>
@@ -3414,7 +3416,7 @@ Entrée en vigueur Art. 15
 - 168\. *Abrogée*
 - 169\. *Abrogée*
 - 170\. Enquêtes sur les investissements, l’innovation et la conjoncture
-- 171\. Statistique des chiffres d’affaires du commerce de détail
+- 171\. Chiffres d’affaires du commerce de détail, relevé conjoncturel
 - 172\. Enquête sur les relations de l’homme avec l’espace, le paysage et la nature
 - 173\. Statistiques sur le financement de la culture
 - 174\. Élections communales

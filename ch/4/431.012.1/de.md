@@ -3,11 +3,11 @@ sr: "431.012.1"
 title: Verordnung vom 30. Juni 1993 über die Durchführung von statistischen Erhebungen des Bundes (Statistikerhebungsverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100"
 language: de
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20211201/de/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20211201/de"
 
 (Statistikerhebungsverordnung)**[^t-1]**
 
-vom 30. Juni 1993 (Stand am 1. Dezember 2021)
+vom 30. Juni 1993 (Stand am 1. Januar 2022)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 16. Jan. 2008, in Kraft seit 10. Febr. 2008 ([AS 2008 315](https://fedlex.data.admin.ch/eli/oc/2008/79)).
 
@@ -434,7 +434,7 @@ Anhang*[^t-2]*
 
 ## Liste der statistischen Erhebungen
 
-[^t-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009 ([AS 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Bereinigt gemäss Ziff. I der V vom 14. April 2010 ([AS 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), Ziff. II der V vom 18. Aug. 2010 ([AS 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), Ziff. I der V vom 24. Aug. 2011 ([AS 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), vom 12. Okt. 2011 ([AS 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), Ziff. II der V vom 23. Mai 2012 ([AS 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), Ziff. I der V vom 29. Aug. 2012 ([AS 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), Ziff. II der V vom 18. Dez. 2013 ([AS 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), vom 28. Okt. 2015 ([AS 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), vom 16. Nov. 2016 ([AS 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), Anhang 2 Ziff. II 1 der V vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. I der V vom 31. Jan. 2018 ([AS 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), Anhang 2 Ziff. 1 der Krebsregistrierungsverordnung vom 11. April 2018 ([AS 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), Ziff. I der V vom 7. Nov. 2018 ([AS 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)) und vom 27. Okt. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)).
+[^t-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009 ([AS 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Bereinigt gemäss Ziff. I der V vom 14. April 2010 ([AS 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), Ziff. II der V vom 18. Aug. 2010 ([AS 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), Ziff. I der V vom 24. Aug. 2011 ([AS 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), vom 12. Okt. 2011 ([AS 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), Ziff. II der V vom 23. Mai 2012 ([AS 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), Ziff. I der V vom 29. Aug. 2012 ([AS 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), Ziff. II der V vom 18. Dez. 2013 ([AS 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), vom 28. Okt. 2015 ([AS 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), vom 16. Nov. 2016 ([AS 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), Anhang 2 Ziff. II 1 der V vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. I der V vom 31. Jan. 2018 ([AS 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), Anhang 2 Ziff. 1 der Krebsregistrierungsverordnung vom 11. April 2018 ([AS 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), Ziff. I der V vom 7. Nov. 2018 ([AS 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), vom 27. Okt. 2021 ([AS 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)) und Anhang Ziff. II 13 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1. *Aufgeh**o**ben*
 
@@ -442,7 +442,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung</td></tr>
 <tr><td>Befragte:</td><td>Zivilstandsämter, Ärzte/Ärztinnen, Hebammen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -471,7 +471,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung</td></tr>
 <tr><td>Befragte:</td><td>Zivilstandsämter</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -485,7 +485,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung</td></tr>
 <tr><td>Befragte:</td><td>Eidgenössisches Amt für das Zivilstandswesen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -499,7 +499,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung</td></tr>
 <tr><td>Befragte:</td><td>Zivilstandsämter</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -513,7 +513,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung</td></tr>
 <tr><td>Befragte:</td><td>Zivilstandsämter</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -527,7 +527,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung</td></tr>
 <tr><td>Befragte:</td><td>Zivilstandsämter</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -541,7 +541,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung</td></tr>
 <tr><td>Befragte:</td><td>Zivilstandsämter</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -555,7 +555,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Angaben in elektronischer Form via die zentrale Datenbank «Infostar» gemäss Dokument des BFS: Schweizerische Statistik der natürlichen Bevölkerungsbewegung (Liste der Merkmale der Statistikmeldungen); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung; Verknüpfung von Daten aus folgenden Quellen: Statistik des Gesundheitszustands der Lebendgeborenen, Medizinische Statistik der Krankenhäuser</td></tr>
 <tr><td>Befragte:</td><td>Zivilstandsämter, Ärzte/Ärztinnen, Kantonale Krebsregister, Politische Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -615,7 +615,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Arbeitsmarktstatus, Indikatoren zur Erwerbssituation, Arbeitssuche, Weiterbildung, unbezahlte Arbeit, Migration, Altersvorsorge und weitere soziodemografische und ökonomische Merkmale zur Bestimmung der Lebenslage der Zielperson und der Haushaltsmitglieder; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Arbeitsmarktstatus, Indikatoren zur Erwerbssituation, Arbeitssuche, Weiterbildung, unbezahlte Arbeit, Migration, Altersvorsorge und weitere soziodemografische und ökonomische Merkmale zur Bestimmung der Lebenslage der Zielperson und der Haushaltsmitglieder; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe bestehend aus natürlichen Personen, einschliesslich einer Zusatzstichprobe aus Personen ausländischer Nationalität, CAWI (Online-Fragebogen) oder CATI (telefonische Befragung); Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR), Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS] und Staatssekretariat für Wirtschaft [SECO]), Statistik der Struktur und Demografie von Unternehmen (STATENT)</td></tr>
 <tr><td>Befragte:</td><td>Personen in Privathaushalten, ZAS und SECO</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
@@ -631,7 +631,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Arbeitsmarktstatus, Indikatoren zur Erwerbssituation, Arbeitssuche, Weiterbildung, unbezahlte Arbeit, Migration und weitere soziodemografische und ökonomische Merkmale zur Bestimmung der Lebenslage der Zielperson und Haushaltsmitglieder, AHV/IV‑pflichtige Einkommen, AHV/IV‑Renten und andere Leistungen der Sozialversicherungen; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Arbeitsmarktstatus, Indikatoren zur Erwerbssituation, Arbeitssuche, Weiterbildung, unbezahlte Arbeit, Migration und weitere soziodemografische und ökonomische Merkmale zur Bestimmung der Lebenslage der Zielperson und Haushaltsmitglieder, AHV/IV‑pflichtige Einkommen, AHV/IV‑Renten und andere Leistungen der Sozialversicherungen; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Verknüpfung von Daten aus folgenden Quellen: Schweizerische Arbeitskräfteerhebung (SAKE), Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS] und Staatssekretariat für Wirtschaft [SECO])</td></tr>
 <tr><td>Befragte:</td><td>ZAS, SECO (Registererhebungen)</td></tr>
 <tr><td>Auskunftspflicht:</td><td>–</td></tr>
@@ -687,7 +687,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Löhne, Arbeitszeit, personen- und arbeitsplatzbezogene Merkmale, AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Löhne, Arbeitszeit, personen- und arbeitsplatzbezogene Merkmale, AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister (BUR), Statistik der Bevölkerung und der Haushalte (STATPOP), Zentrales Migrationsinformationssystem (ZEMIS) und kantonale Lehrlingsregister</td></tr>
 <tr><td>Aufstockungsmöglichkeit:</td><td>Kantonal möglich</td></tr>
 <tr><td>Befragte:</td><td>Unternehmen, Betriebe, öffentliche Verwaltungen, Betriebe des öffentlichen Rechts und andere öffentlich-rechtliche Körperschaften</td></tr>
@@ -702,7 +702,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Anzahl Beschäftigte nach Arbeitsort, Beschäftigungsgrad, Vollzeitäquivalente (VZÄ), Geschlecht und Nationalität; Anzahl Lernende; Anzahl Grenzgänger/innen; Wirtschaftszweig; Auslandverflechtung, Aussenhandel; Rechtsform, Betriebszeit; Verbindung mit anderen Unternehmen, Umsatz, Jahr der Tätigkeitsaufnahme, andere Merkmale zur Beschreibung der Struktur, des Status, der Art der Unternehmensgründung sowie weiterer demografischer Ereignisse im Zusammenhang mit den Unternehmen oder Arbeitsstätten; auf Anfrage Individualdaten mit AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Anzahl Beschäftigte nach Arbeitsort, Beschäftigungsgrad, Vollzeitäquivalente (VZÄ), Geschlecht und Nationalität; Anzahl Lernende; Anzahl Grenzgänger/innen; Wirtschaftszweig; Auslandverflechtung, Aussenhandel; Rechtsform, Betriebszeit; Verbindung mit anderen Unternehmen, Umsatz, Jahr der Tätigkeitsaufnahme, andere Merkmale zur Beschreibung der Struktur, des Status, der Art der Unternehmensgründung sowie weiterer demografischer Ereignisse im Zusammenhang mit den Unternehmen oder Arbeitsstätten; auf Anfrage Individualdaten mit AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Teilerhebung</td></tr>
 <tr><td>Befragte:</td><td>Unternehmen und Arbeitsstätten des privaten und des öffentlichen Sektors aller Wirtschaftszweige</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -717,14 +717,16 @@ Anhang*[^t-2]*
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Strukturmerkmale von Unternehmen und Arbeitsstätten (Beschäftigte, Art der wirtschaftlichen Aktivität, Standort, Auslandverflechtung, Rechtsform, Import / Export), demografische Merkmale der Unternehmen (Unternehmensgründungen, Überlebensraten neugegründeter Unternehmen, Bestand aktiver Unternehmen, wachstumsstarke Unternehmen, Aufgabe der Wirtschaftstätigkeit, Indikatoren für das Wirtschaftswachstum)</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Registererhebung; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister, Eidgenössisches Gebäude- und Wohnungsregister, administrativen Daten (AHV-Ausgleichskassen, Eidgenössische Steuerverwaltung, Eidgenössische Zollverwaltung) Aktualisierungserhebungen des BUR, landwirtschaftliche Strukturerhebung, Beschäftigungsstatistik, Schweizerische Forststatistik (Vollerhebung, FSv)</td></tr>
-<tr><td>Befragte:</td><td>Betriebs- und Unternehmensregister, Eidgenössisches Gebäude- und Wohnungsregister, AHV-Ausgleichskassen, Eidgenössische Steuerverwaltung, Eidgenössische Zollverwaltung.</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Registererhebung; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister, Eidgenössisches Gebäude- und Wohnungsregister, administrativen Daten (AHV-Ausgleichskassen, Eidgenössische Steuerverwaltung, Bundesamt für Zoll und Grenzsicherheit[^annexu1-lvlu1-lvl23-1]) Aktualisierungserhebungen des BUR, landwirtschaftliche Strukturerhebung, Beschäftigungsstatistik, Schweizerische Forststatistik (Vollerhebung, FSv)</td></tr>
+<tr><td>Befragte:</td><td>Betriebs- und Unternehmensregister, Eidgenössisches Gebäude- und Wohnungsregister, AHV-Ausgleichskassen, Eidgenössische Steuerverwaltung, Bundesamt für Zoll und Grenzsicherheit.</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
 <tr><td>Periodizität:</td><td>Jährlich</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>AHV-Ausgleichskassen, Zentrale Ausgleichstelle (ZAS), Bundesamt für Sozialversicherungen, regionale Statistikämter, Eidgenössische Steuerverwaltung, Eidgenössische Zollverwaltung, Bundesamt für Landwirtschaft, Bundesamt für Umwelt, kantonale Ämter für Landwirtschaft</td></tr>
+<tr><td>Mitwirkende bei der Durchführung:</td><td>AHV-Ausgleichskassen, Zentrale Ausgleichstelle (ZAS), Bundesamt für Sozialversicherungen, regionale Statistikämter, Eidgenössische Steuerverwaltung, Bundesamt für Zoll und Grenzsicherheit, Bundesamt für Landwirtschaft, Bundesamt für Umwelt, kantonale Ämter für Landwirtschaft</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>Veröffentlicht werden können die Daten gemäss Artikel 10 Absatz 2 der Verordnung gegliedert nach Gemeinden, geografischen Regionen, Wirtschaftsbranchen, Grössenklassen und Rechtsformen, die die Unternehmen und Institutionen betreffen, sowie nach der Gesamtzahl der Beschäftigten und der Beschäftigung in Vollzeitäquivalenten.</td></tr>
 </table>
+
+[^annexu1-lvlu1-lvl23-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ### 24. Betreibungs- und Konkursstatistik
 
@@ -745,7 +747,7 @@ Anhang*[^t-2]*
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Produzentenpreise von Waren und Dienstleistungen für den Binnenmarkt und für den Export; Importpreise; Rabatte, Strukturdaten (Mengen, Umsätze)</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Teilerhebung; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister (BUR), Eidgenössische Steuerverwaltung (ESTV) und Eidgenössischen Zollverwaltung (EZV)</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Teilerhebung; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister (BUR), Eidgenössische Steuerverwaltung (ESTV) und Bundesamt für Zoll und Grenzsicherheit (BAZG)</td></tr>
 <tr><td>Befragte:</td><td>Private und öffentliche Unternehmen und Betriebe, Organisationen der Wirtschaft, Verwaltungsstellen, Branchenorganisation</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -846,7 +848,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Einkommen und Ausgaben von Privathaushalten, Mengenverbrauch von ausgewählten Gütern, Strukturdaten von Haushalten und Personen, Konsum- und Sparverhalten, Sonderthemen; AHV‑Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Einkommen und Ausgaben von Privathaushalten, Mengenverbrauch von ausgewählten Gütern, Strukturdaten von Haushalten und Personen, Konsum- und Sparverhalten, Sonderthemen; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von Privathaushalten, schriftliche und telefonische Befragung; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR), Gebäude- und Wohnungsstatistik (GWS) und Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS])</td></tr>
 <tr><td>Befragte:</td><td>Privathaushalte und ZAS</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
@@ -860,7 +862,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Einkommen und Vermögen von Privathaushalten und ihren Mitgliedern, Indikatoren zu den Lebensbedingungen, zur Armut und zur sozialen Ausgrenzung, andere soziodemografische und sozioökonomische Merkmale zur Bewertung der Situation der Haushalte und ihrer Mitglieder, Sonderthemen; AHV‑Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Einkommen und Vermögen von Privathaushalten und ihren Mitgliedern, Indikatoren zu den Lebensbedingungen, zur Armut und zur sozialen Ausgrenzung, andere soziodemografische und sozioökonomische Merkmale zur Bewertung der Situation der Haushalte und ihrer Mitglieder, Sonderthemen; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von Privathaushalten, telefonische Befragung, persönliche Befragung und schriftliche Ergänzungsbefragung; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR), Gebäude- und Wohnungsstatistik (GWS), Neurentenstatistik (NRS), Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS] und Staatssekretariat für Wirtschaft [SECO]), kantonale Steuerregister und Statistik der Sozialhilfeempfänger/innen</td></tr>
 <tr><td>Befragte:</td><td>Personen in Privathaushalten (Befragung), kantonale und kommunale Steuerbehörden, ZAS und SECO (Registererhebungen)</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig für Personen in Privathaushalten (Befragung)</td></tr>
@@ -951,12 +953,12 @@ Anhang*[^t-2]*
 <tr><td>Befragte:</td><td>Bauherren, Architekten, Amtsstellen und Unternehmen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
-<tr><td>Periodizität:</td><td>Vierteljährlich in Übereinstimmung mit Artikel 10 Absatz 1 der Verordnung vom 9. Juni 2017[^annexu1-lvlu1-lvl41-1] über das eidgenössische Gebäude- und Wohnungsregister; jährlich für ausgewählte Erhebungsstellen</td></tr>
+<tr><td>Periodizität:</td><td>Vierteljährlich in Übereinstimmung mit Artikel 10 Absatz 1 der Verordnung vom 9. Juni 2017[^annexu1-lvlu1-lvl42-1] über das eidgenössische Gebäude- und Wohnungsregister; jährlich für ausgewählte Erhebungsstellen</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>Kantonale und kommunale Bauverwaltungen und registerführende Stellen von Bund, Kantonen und Gemeinden (im Rahmen der Nachführung des GWR)</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>Enthält auch Auskünfte gemäss Artikel 45 Absatz 2 der Raumplanungsverordnung vom 28. Juni 2000 (SR *700.1*).</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl41-1]: [SR 431.841](https://fedlex.data.admin.ch/eli/cc/2017/376)
+[^annexu1-lvlu1-lvl42-1]: [SR 431.841](https://fedlex.data.admin.ch/eli/cc/2017/376)
 
 ### 42. Wohnbaustatistik
 
@@ -967,12 +969,12 @@ Anhang*[^t-2]*
 <tr><td>Befragte:</td><td>Bauherren, Architekten</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
-<tr><td>Periodizität:</td><td>Vierteljährlich in Übereinstimmung mit Artikel 10 Absatz 1 der Verordnung vom 9. Juni 2017[^annexu1-lvlu1-lvl42-1] über das eidgenössische Gebäude- und Wohnungsregister</td></tr>
+<tr><td>Periodizität:</td><td>Vierteljährlich in Übereinstimmung mit Artikel 10 Absatz 1 der Verordnung vom 9. Juni 2017[^annexu1-lvlu1-lvl43-1] über das eidgenössische Gebäude- und Wohnungsregister</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>Kantonale und kommunale Bauverwaltungen und registerführende Stellen von Bund, Kantonen und Gemeinden (im Rahmen der Nachführung des GWR)</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl42-1]: [SR 431.841](https://fedlex.data.admin.ch/eli/cc/2017/376)
+[^annexu1-lvlu1-lvl43-1]: [SR 431.841](https://fedlex.data.admin.ch/eli/cc/2017/376)
 
 ### 43. Zählung der leerstehenden Wohnungen
 
@@ -1049,12 +1051,12 @@ Anhang*[^t-2]*
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Schwere Sachentransportfahrzeuge mit Immatrikulation in der Schweiz, Leistungen (Kilometer), Gewicht (Tonnen) und Art der transportierten Güter, Frachtart, Art des Verkehrs, Auf- und Abladeorte, Leerfahrten</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Stichprobenerhebung auf dem Korrespondenzweg oder mittels Internet-Befragung; Verknüpfung von Daten aus folgenden Quellen: Informationssystem Verkehrszulassung (IVZ) des Bundesamts für Strassen, Daten zur Leistungsabhängigen Schwerverkehrsabgabe (LSVA) der Eidgenössischen Zollverwaltung</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Stichprobenerhebung auf dem Korrespondenzweg oder mittels Internet-Befragung; Verknüpfung von Daten aus folgenden Quellen: Informationssystem Verkehrszulassung (IVZ) des Bundesamts für Strassen, Daten zur Leistungsabhängigen Schwerverkehrsabgabe (LSVA) des Bundesamts für Zoll und Grenzsicherheit (BAZG)</td></tr>
 <tr><td>Befragte:</td><td>Halter/innen von schweren Sachentransportfahrzeugen mit Immatrikulation in der Schweiz</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>Referenzperioden über das Jahr verteilt</td></tr>
 <tr><td>Periodizität:</td><td>Laufend</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>Eidgenössische Zollverwaltung, Bundesamt für Strassen</td></tr>
+<tr><td>Mitwirkende bei der Durchführung:</td><td>Bundesamt für Zoll und Grenzsicherheit, Bundesamt für Strassen</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
@@ -1063,12 +1065,12 @@ Anhang*[^t-2]*
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Sachentransportfahrzeuge mit ausländischer Immatrikulation beim Grenzübertritt; Leistungen (Kilometer), Gewicht (Tonnen) und Art der transportierten Güter, Frachtart, Art des Verkehrs, Auf- und Abladeorte</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Stichprobenerhebung mittels Interviews; Verknüpfung mit den LSVA-Daten der Eidgenössischen Zollverwaltung</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Stichprobenerhebung mittels Interviews; Verknüpfung mit den LSVA-Daten des Bundesamts für Zoll und Grenzsicherheit</td></tr>
 <tr><td>Befragte:</td><td>Führer/innen von Sachentransportfahrzeugen mit ausländischer Immatrikulation</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>Referenztage über das Jahr verteilt</td></tr>
 <tr><td>Periodizität:</td><td>Alle fünf Jahre</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>Eidgenössische Zollverwaltung, Bundesamt für Strassen, Bundesamt für Raumentwicklung, Bundesamt für Verkehr, private Auftragnehmer/innen</td></tr>
+<tr><td>Mitwirkende bei der Durchführung:</td><td>Bundesamt für Zoll und Grenzsicherheit, Bundesamt für Strassen, Bundesamt für Raumentwicklung, Bundesamt für Verkehr, private Auftragnehmer/innen</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
@@ -1110,7 +1112,7 @@ Anhang*[^t-2]*
 <tr><td>Auskunftspflicht:</td><td>–</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
 <tr><td>Periodizität:</td><td>Alle fünf Jahre</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>Eidgenössische Zollverwaltung</td></tr>
+<tr><td>Mitwirkende bei der Durchführung:</td><td>Bundesamt für Zoll und Grenzsicherheit</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
@@ -1140,7 +1142,7 @@ Anhang*[^t-2]*
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
 <tr><td>Periodizität:</td><td>Alle fünf Jahre</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>Bundesamt für Raumentwicklung, Bundesamt für Strassen, Bundesamt für Verkehr, Eidgenössische Zollverwaltung, Eisenbahnunternehmen, private Auftragnehmer</td></tr>
+<tr><td>Mitwirkende bei der Durchführung:</td><td>Bundesamt für Raumentwicklung, Bundesamt für Strassen, Bundesamt für Verkehr, Bundesamt für Zoll und Grenzsicherheit, Eisenbahnunternehmen, private Auftragnehmer</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
 
@@ -1162,7 +1164,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Meldungen über Renten- und Kapitalbezüge der 2. und der 3. Säule, über Vorbezüge oder Rückzahlungen im Rahmen der Wohneigentumsförderung, über Rentenbezüge der 1. Säule; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Meldungen über Renten- und Kapitalbezüge der 2. und der 3. Säule, über Vorbezüge oder Rückzahlungen im Rahmen der Wohneigentumsförderung, über Rentenbezüge der 1. Säule; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung; Verknüpfung von Daten aus folgenden Quellen: Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS]), Meldungen von neuen Leistungen der 2. und der 3. Säule (ESTV) und Vorbezüge oder Rückzahlungen im Rahmen der Wohneigentumsförderung, Statistik der Bevölkerung und der Haushalte (STATPOP); Längsschnittanalyse des Übergangs in den Ruhestand</td></tr>
 <tr><td>Befragte:</td><td>Eidgenössische Steuerverwaltung (ESTV) und ZAS</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -1247,7 +1249,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, Gesundheitszustand, Lebensgewohnheiten und Gesundheitsverhalten, Prävention, Behinderungen und gesundheitliche Belastungen, Angebot und Inanspruchnahme von Dienstleistungen des Gesundheits- und Sozialwesens, Versicherungsverhältnisse und soziale Sicherheit; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, Gesundheitszustand, Lebensgewohnheiten und Gesundheitsverhalten, Prävention, Behinderungen und gesundheitliche Belastungen, Angebot und Inanspruchnahme von Dienstleistungen des Gesundheits- und Sozialwesens, Versicherungsverhältnisse und soziale Sicherheit; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von ca. 10 000 Personen; telefonische computergestützte Befragung, kann ergänzt werden durch computergestützte persönliche Befragung und schriftliche Befragung; Verknüpfung der Erhebungsdaten mit der Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR)</td></tr>
 <tr><td>Aufstockungsmöglichkeit:</td><td>Kantonal möglich</td></tr>
 <tr><td>Befragte:</td><td>Personen ab 15 Jahren in Privathaushalten; Gemeinden, Kantone und Bundesstellen</td></tr>
@@ -1304,7 +1306,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Empfänger/innen kantonaler und kommunaler bedarfsabhängiger Leistungen; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Empfänger/innen kantonaler und kommunaler bedarfsabhängiger Leistungen; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung auf Jahresbasis; Verknüpfung von Daten aus folgenden Quellen: Zentrales Migrationsinformationssystem (ZEMIS), Statistik der Bevölkerung und der Haushalte (STATPOP), Staatssekretariat für Wirtschaft (SECO), Zentrales Versichertenregister (Unique Person Identification, UPI)</td></tr>
 <tr><td>Befragte:</td><td>Zuständige Dienststellen in den Kantonen und Gemeinden, betroffene Personen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -1318,7 +1320,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Personen des Flüchtlings- und des Asylbereichs, die Sozialhilfe beziehen; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Personen des Flüchtlings- und des Asylbereichs, die Sozialhilfe beziehen; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung und Stichprobe; Verknüpfung von Daten aus folgenden Quellen: Zentrales Migrationsinformationssystem (ZEMIS), Statistik der Bevölkerung und der Haushalte (STATPOP), Staatssekretariat für Wirtschaft (SECO), Zentrales Versichertenregister (Unique Person Identification, UPI)</td></tr>
 <tr><td>Befragte:</td><td>Von den Kantonen mit der Ausrichtung der Sozialhilfe beauftragte Organe</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -1332,7 +1334,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Schüler/innen, Studierende, Klassen, Lehrverträge (nur Berufe nach dem Berufsbildungsgesetz vom 13. Dez. 2002, SR *412.10*), schulische, soziodemografische Merkmale; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Schüler/innen, Studierende, Klassen, Lehrverträge (nur Berufe nach dem Berufsbildungsgesetz vom 13. Dez. 2002, SR *412.10*), schulische, soziodemografische Merkmale; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Kantone und Bildungsinstitutionen; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR) und Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Studierendendatei SHIS, Stipendien und Darlehen)</td></tr>
 <tr><td>Befragte:</td><td>Kantone, Bildungsinstitutionen, Verbände</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -1346,7 +1348,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Abschlüsse auf der Sekundarstufe II (gymnasiale Maturitäten, Berufsmaturitäten, Fachmaturitäten, Abschlüsse der beruflichen Grundbildung, Abschlüsse an Handels- und Fachmittelschulen) sowie Abschlüsse der höheren Berufsbildung (Abschlüsse an höheren Fachschulen, höhere Fach- und Berufsprüfungen, vergleichbare Abschlüsse ohne eidgenössische Anerkennung), soziodemografische Merkmale der Kandidierenden und Diplomierten sowie Angaben zu den Bundesbeiträgen an Kurse zur Vorbereitung auf die eidgenössischen Prüfungen; AHV‑Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Abschlüsse auf der Sekundarstufe II (gymnasiale Maturitäten, Berufsmaturitäten, Fachmaturitäten, Abschlüsse der beruflichen Grundbildung, Abschlüsse an Handels- und Fachmittelschulen) sowie Abschlüsse der höheren Berufsbildung (Abschlüsse an höheren Fachschulen, höhere Fach- und Berufsprüfungen, vergleichbare Abschlüsse ohne eidgenössische Anerkennung), soziodemografische Merkmale der Kandidierenden und Diplomierten sowie Angaben zu den Bundesbeiträgen an Kurse zur Vorbereitung auf die eidgenössischen Prüfungen; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Kantone und Bildungsinstitutionen sowie des Bundes; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR) und Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Studierendendatei SHIS)</td></tr>
 <tr><td>Befragte:</td><td>Kantone, Bildungsinstitutionen, Verbände, Staatssekretariat für Bildung, Forschung und Innovation (SBFI) für die Schweizerische Maturitätskommission (SMK), für die Eidgenössische Berufsmaturitätskommission (EBMK), für die eidgenössischen Prüfungen (Berufs- und höhere Fachprüfungen) und für das Informationssystem für Beiträge an Absolventinnen und Absolventen sowie für Anbieter von vorbereitenden Kursen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -1360,7 +1362,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Lehrkräfte, einschliesslich Schulleitung und sonderpädagogisches Personal (demografische Merkmale, Status, Ausbildung), und ihre Unterrichtsleistung (ohne Hochschulen); AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Lehrkräfte, einschliesslich Schulleitung und sonderpädagogisches Personal (demografische Merkmale, Status, Ausbildung), und ihre Unterrichtsleistung (ohne Hochschulen); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Kantone und Bildungsinstitutionen: Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR) und Erhebungen im Bildungsbereich (Schulpersonal, Schweizerische Studierendendatei SHIS und schweizerische Hochschulpersonaldatei)</td></tr>
 <tr><td>Befragte:</td><td>Kantone, Bildungsinstitutionen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -1374,21 +1376,21 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Studienverlauf und ‑richtung sowie Prüfungen (ca. 20 Variablen) aller an schweizerischen Hochschulen immatrikulierten Personen und Prüfungen im Anschluss an Hochschulstudien vor einer extrauniversitären Instanz; AHV‑Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Studienverlauf und ‑richtung sowie Prüfungen (ca. 20 Variablen) aller an schweizerischen Hochschulen immatrikulierten Personen und Prüfungen im Anschluss an Hochschulstudien vor einer extrauniversitären Instanz; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Hochschulen sowie der Prüfungsinstanzen; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP) und Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Studierendendatei SHIS)</td></tr>
 <tr><td>Befragte:</td><td>Schweizerische Hochschulen, universitäre und extrauniversitäre Prüfungsorgane, Bundesamt für Gesundheit (BAG)</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
 <tr><td>Periodizität:</td><td>Semesterweise für die Studierenden, jährlich für die Prüfungen</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>Rektorenkonferenz der schweizerischen Hochschulen (swissuniversities), Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK), Staatssekretariat für Bildung, Forschung und Innovation (SBFI)</td></tr>
-<tr><td>Besondere Bestimmungen:</td><td>Mit Zustimmung der Betroffenen können gewisse Informationen zu bestimmten administrativen Zwecken verwendet werden. Gestützt auf Artikel 10 Absatz 3<sup>ter</sup> BStatG können die Kantone und die Hochschulen der schweizerischen Studierendendatei für jede immatrikulierte Person und das betreffende Semester folgende Informationen entnehmen: Matrikelnummer; AHV-Versichertennummer; Hochschule; Studiensemester; Studienkategorie, Studienstufe und Studiengang; Datum und Stufe der letzten bestandenen Prüfung sowie Studiengang, in dem sie abgelegt wurde; Angabe, ob es sich um den ersten oder den zweiten Bildungsweg handelt; Gesamtzahl in der Schweiz im gewählten Studiengang absolvierter Semester; Wohnort zum Zeitpunkt des Erwerbs des Studienberechtigungsausweises; Art, Ausstellungsort und Jahr des Erwerbs des Studienberechtigungsausweises; Geburtsjahr, Staatsangehörigkeit und Geschlecht der studierenden Person, Vollzeitäquivalente der Studierenden. Die Resultate werden pro Hochschule veröffentlicht. Die Daten dürfen länger als 30 Jahre in pseudonymisierter Form aufbewahrt werden.</td></tr>
+<tr><td>Besondere Bestimmungen:</td><td>Mit Zustimmung der Betroffenen können gewisse Informationen zu bestimmten administrativen Zwecken verwendet werden. Gestützt auf Artikel 10 Absatz 3<sup>ter</sup> BStatG können die Kantone und die Hochschulen der schweizerischen Studierendendatei für jede immatrikulierte Person und das betreffende Semester folgende Informationen entnehmen: Matrikelnummer; AHV-Nummer; Hochschule; Studiensemester; Studienkategorie, Studienstufe und Studiengang; Datum und Stufe der letzten bestandenen Prüfung sowie Studiengang, in dem sie abgelegt wurde; Angabe, ob es sich um den ersten oder den zweiten Bildungsweg handelt; Gesamtzahl in der Schweiz im gewählten Studiengang absolvierter Semester; Wohnort zum Zeitpunkt des Erwerbs des Studienberechtigungsausweises; Art, Ausstellungsort und Jahr des Erwerbs des Studienberechtigungsausweises; Geburtsjahr, Staatsangehörigkeit und Geschlecht der studierenden Person, Vollzeitäquivalente der Studierenden. Die Resultate werden pro Hochschule veröffentlicht. Die Daten dürfen länger als 30 Jahre in pseudonymisierter Form aufbewahrt werden.</td></tr>
 </table>
 
 ### 73. Erhebung bei den Hochschulabsolventinnen und Hochschulabsolventen
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Studium, Erwerbssuche nach Studienabschluss, weiterer Erwerbsverlauf unter besonderer Berücksichtigung der Erwerbssituation ein Jahr und fünf Jahre nach Abschluss, Weiterbildung und berufsbiografischer Werdegang; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Studium, Erwerbssuche nach Studienabschluss, weiterer Erwerbsverlauf unter besonderer Berücksichtigung der Erwerbssituation ein Jahr und fünf Jahre nach Abschluss, Weiterbildung und berufsbiografischer Werdegang; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Panel, Verknüpfung mit Daten der Schweizerischen Studierendendatei SHIS</td></tr>
 <tr><td>Befragte:</td><td>Absolventinnen und Absolventen der schweizerischen Hochschulen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
@@ -1402,7 +1404,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Studium, Zeitbudget,, Erwerbstätigkeit, finanzielle Situation, Wohnsituation, Mobilität, Gesundheit, soziodemografische Merkmale; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Studium, Zeitbudget,, Erwerbstätigkeit, finanzielle Situation, Wohnsituation, Mobilität, Gesundheit, soziodemografische Merkmale; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von Studierenden, Verknüpfung mit Daten der Schweizerischen Studierendendatei SHIS</td></tr>
 <tr><td>Befragte:</td><td>Studierende der Hochschulen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
@@ -1416,7 +1418,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Stipendien und Darlehen (Betrag und Art des Beitrages), Bezügerinnen und Bezüger der Stipendien und Darlehen (soziodemografische Merkmale sowie Merkmale der Ausbildung, die zum Bezug von Stipendien oder Darlehen berechtigt); AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Stipendien und Darlehen (Betrag und Art des Beitrages), Bezügerinnen und Bezüger der Stipendien und Darlehen (soziodemografische Merkmale sowie Merkmale der Ausbildung, die zum Bezug von Stipendien oder Darlehen berechtigt); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Kantone: Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Personen in Ausbildung und Stipendien und Darlehen</td></tr>
 <tr><td>Befragte:</td><td>Kantonale Stipendienstellen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -1430,7 +1432,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Hochschulpersonal (demografische Merkmale, Status, Ausbildung) und seine Leistungen (Lehre, Forschung usw.); AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Hochschulpersonal (demografische Merkmale, Status, Ausbildung) und seine Leistungen (Lehre, Forschung usw.); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Erhebung von Administrativdaten der Hochschulen; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP) und Erhebungen im Bildungsbereich (Schulpersonal, Schweizerische Studierendendatei SHIS und Schweizerische Hochschulpersonaldatei)</td></tr>
 <tr><td>Befragte:</td><td>Schweizerische Hochschulen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -1700,7 +1702,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Merkmale nach Artikel 6 Absatz 2 Buchstabe a des Volkszählungsgesetzes vom 22. Juni 2007 (SR *431.112*) und des Erhebungsprogramms nach Artikel 9 der Volkszählungsverordnung vom 19. Dezember 2008 (SR *431.112.1*); AHV‑Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Merkmale nach Artikel 6 Absatz 2 Buchstabe a des Volkszählungsgesetzes vom 22. Juni 2007 (SR *431.112*) und des Erhebungsprogramms nach Artikel 9 der Volkszählungsverordnung vom 19. Dezember 2008 (SR *431.112.1*); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von 200 000 Personen: schriftliche Befragung in Papier- und elektronischer Form; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), eidgenössisches Gebäude- und Wohnungsregister (GWR), Betriebs- und Unternehmensregister (BUR), AHV-Ausgleichskassen, Mitgliederliste der Christkatholischen Kirche.</td></tr>
 <tr><td>Aufstockungsmöglichkeit:</td><td>Nach den Artikeln 21 und 30 der Volkszählungsverordnung</td></tr>
 <tr><td>Befragte:</td><td>Personen ab 15 Jahren in Privathaushalten; Register bei Bund, Kantonen und Gemeinden, AHV-Ausgleichskassen,</td></tr>
@@ -1715,7 +1717,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Merkmale nach Artikel 6 des Registerharmonisierungsgesetzes vom 23. Juni 2006 (RHG; SR *431.02*) und des Erhebungsprogramms nach Artikel 9 der Volkszählungsverordnung vom 19. Dezember 2008 (SR *431.112.1*) sowie ausgewählte Angaben aus Personenregistern über Bestand und Bewegungen (Geburten, Todesfälle, Zivilstandswechsel, Wanderungsbewegungen, Erwerb des Schweizer Bürgerrechts, Wechsel des Aufenthaltsstatus usw.) der ständigen schweizerischen und ausländischen Wohnbevölkerung, der nichtständigen ausländischen Wohnbevölkerung und der Wohnbevölkerung am Nebenwohnsitz, Gebäudekoordinaten; AHV‑Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Merkmale nach Artikel 6 des Registerharmonisierungsgesetzes vom 23. Juni 2006 (RHG; SR *431.02*) und des Erhebungsprogramms nach Artikel 9 der Volkszählungsverordnung vom 19. Dezember 2008 (SR *431.112.1*) sowie ausgewählte Angaben aus Personenregistern über Bestand und Bewegungen (Geburten, Todesfälle, Zivilstandswechsel, Wanderungsbewegungen, Erwerb des Schweizer Bürgerrechts, Wechsel des Aufenthaltsstatus usw.) der ständigen schweizerischen und ausländischen Wohnbevölkerung, der nichtständigen ausländischen Wohnbevölkerung und der Wohnbevölkerung am Nebenwohnsitz, Gebäudekoordinaten; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Registererhebung; Verknüpfung von Daten aus folgenden Quellen: kantonale und kommunale Einwohnerregister, Informatisiertes Standesregister (Infostar), zentrales Migrationsinformationssystem (ZEMIS), Informationssystem Ordipro, Zentrales Versichertenregister (Unique Person Identification, UPI), eidgenössisches Gebäude- und Wohnungsregister (GWR).</td></tr>
 <tr><td>Aufstockungsmöglichkeit:</td><td>–</td></tr>
 <tr><td>Befragte:</td><td>Register bei Bund, Kantonen und Gemeinden; Kollektivhaushalte</td></tr>
@@ -1745,7 +1747,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, Bildungslaufbahnen, höchste abgeschlossene Ausbildung, Bildungsaktivitäten, Determinanten der Bildung, Wirkung von Aus- und Weiterbildung; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, Bildungslaufbahnen, höchste abgeschlossene Ausbildung, Bildungsaktivitäten, Determinanten der Bildung, Wirkung von Aus- und Weiterbildung; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von ca. 10 000 Personen; Mixed-Mode-Methode CAWI (Online-Befragung) und CATI (telefonische Interviews); Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR), Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS] und Staatssekretariat für Wirtschaft [SECO])</td></tr>
 <tr><td>Aufstockungsmöglichkeit:</td><td>Kantonal möglich</td></tr>
 <tr><td>Befragte:</td><td>Personen ab 15 Jahren</td></tr>
@@ -1760,7 +1762,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, Elternschaft, Erwerbs- und Familienleben, familiäres Netz und Leistungen der Familien; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, Elternschaft, Erwerbs- und Familienleben, familiäres Netz und Leistungen der Familien; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von ca. 10 000 Personen; Mixed-Mode-Methode CAWI (Online-Befragung) und CATI (telefonische Interviews); Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR) und Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS])</td></tr>
 <tr><td>Aufstockungsmöglichkeit:</td><td>Kantonal möglich</td></tr>
 <tr><td>Befragte:</td><td>Personen ab 15 Jahren in Privathaushalten; Gemeinden, Kantone und Bundesstellen</td></tr>
@@ -1775,7 +1777,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, Sprachen und Sprachkompetenzen, religiöse Zugehörigkeit, Kultur- und Freizeitverhalten, politische und gesellschaftliche Partizipation; AHV‑Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, Sprachen und Sprachkompetenzen, religiöse Zugehörigkeit, Kultur- und Freizeitverhalten, politische und gesellschaftliche Partizipation; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von ca. 10 000 Personen; telefonische computergestützte Befragung, kann ergänzt werden durch computer-gestützte persönliche Befragung und schriftliche Befragung; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR)</td></tr>
 <tr><td>Aufstockungsmöglichkeit:</td><td>Kantonal möglich</td></tr>
 <tr><td>Befragte:</td><td>Personen ab 15 Jahren in Privathaushalten; Gemeinden, Kantone und Bundesstellen</td></tr>
@@ -1790,7 +1792,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, Verfügbarkeit sowie Nutzung von Fahrzeugen und Abonnementen des öffentlichen Verkehrs, zurückgelegte Distanzen und Zeitaufwand, Fahrtzwecke, Wahl des Verkehrsmittels; AHV‑Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, Verfügbarkeit sowie Nutzung von Fahrzeugen und Abonnementen des öffentlichen Verkehrs, zurückgelegte Distanzen und Zeitaufwand, Fahrtzwecke, Wahl des Verkehrsmittels; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von ca. 40 000 Personen; telefonische computergestützte Befragung, ergänzende schriftliche Befragung möglich; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Informationssystem Verkehrszulassung (IVZ), Betriebs- und Unternehmensregister (BUR), Gebäude- und Wohnungsregister (GWR), räumliche Daten (z. B. Distanzen).</td></tr>
 <tr><td>Aufstockungsmöglichkeit:</td><td>Kantonal oder regional möglich</td></tr>
 <tr><td>Befragte:</td><td>Personen ab 6 Jahren in Privathaushalten; Gemeinden, Kantone und Bundesstellen</td></tr>
@@ -1805,7 +1807,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, jährlich wechselnde Themenbereiche; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Soziodemografische und ökonomische Merkmale, jährlich wechselnde Themenbereiche; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von 3000 Personen; Mixed-Mode CAWI (Online-Fragebogen) und CATI (telefonische Befragung) oder CAWI (Online-Fragebogen); Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR)</td></tr>
 <tr><td>Befragte:</td><td>Personen ab 15 Jahren in Privathaushalten</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
@@ -1847,7 +1849,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Angaben über Bestand und Bewegungen: Aufenthaltsland, Geschlecht, Zivilstand, Alter, Mehrfachbürgerschaft sowie weitere soziodemografische Angaben von im Auslandschweizerregister geführten Auslandschweizern/Auslandschweizerinnen via das Informationssystem E‑VERA; AHV‑Versichertenummer.</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Angaben über Bestand und Bewegungen: Aufenthaltsland, Geschlecht, Zivilstand, Alter, Mehrfachbürgerschaft sowie weitere soziodemografische Angaben von im Auslandschweizerregister geführten Auslandschweizern/Auslandschweizerinnen via das Informationssystem E‑VERA; AHV‑Nummer.</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Registererhebung; Verknüpfung mit Daten der Statistik der Bevölkerung und der Haushalte (STATPOP)</td></tr>
 <tr><td>Befragte:</td><td>Auslandschweizerregister via das Informationssystem E-VERA des Eidgenössischen Departements für auswärtige Angelegenheiten</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
@@ -2260,7 +2262,7 @@ Anhang*[^t-2]*
 ### 142. Aussenhandelsstatistik
 
 <table>
-<tr><td>Erhebungsorgan:</td><td>Eidgenössische Zollverwaltung</td></tr>
+<tr><td>Erhebungsorgan:</td><td>Bundesamt für Zoll und Grenzsicherheit</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Importe und Exporte von Warenmengen und -werten nach Zolltarifpositionen, Ursprungs- und Bestimmungsländern, Daten zum Stromaussenhandel</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung</td></tr>
 <tr><td>Befragte:</td><td>Importeure/Importeurinnen und Exporteure/Exporteurinnen inklusive in- und ausländische Unternehmen, die im Stromaussenhandel tätig sind; die nationale Netzgesellschaft als Betreiberin des schweizerischen Übertragungsnetzes sowie Spediteure/Spediteurinnen</td></tr>
@@ -2274,7 +2276,7 @@ Anhang*[^t-2]*
 ### 143. Transitstatistik
 
 <table>
-<tr><td>Erhebungsorgan:</td><td>Eidgenössische Zollverwaltung</td></tr>
+<tr><td>Erhebungsorgan:</td><td>Bundesamt für Zoll und Grenzsicherheit</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Transit der Waren nach Menge, aufgeschlüsselt nach Produktegruppen, Land, Verkehrszweigen und Übertrittszonen</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Auswertung von Transport- oder Transitdokumenten</td></tr>
 <tr><td>Befragte:</td><td>Bahntransit: Bahnunternehmen; Strassentransit: Zollmeldepflichtige</td></tr>
@@ -2288,7 +2290,7 @@ Anhang*[^t-2]*
 ### 144. Mineralölsteuerstatistik
 
 <table>
-<tr><td>Erhebungsorgan:</td><td>Eidgenössische Zollverwaltung</td></tr>
+<tr><td>Erhebungsorgan:</td><td>Bundesamt für Zoll und Grenzsicherheit</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Verkehr mit Waren, die dem Mineralölsteuergesetz vom 21. Juni 1996 (SR *641.61*) unterliegen, nach Art und Menge</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung</td></tr>
 <tr><td>Befragte:</td><td>Steuerpflichtige Personen</td></tr>
@@ -2518,11 +2520,11 @@ Anhang*[^t-2]*
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Verkehr</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Anzahl schwere Strassengüterfahrzeuge und technische Merkmale; Herkunftsort, Bestimmungsort, Gewicht und Kategorie der Güter; Schienengüterverkehr nach Produktionsform (Wagenladungsverkehr, unbegleiteter kombinierter Verkehr, Rollende Landstrasse)</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Jährliche Erhebung: Vollerhebung auf Basis der automatischen Zählstationen des Bundesamtes für Strassen sowie der LSVA-Kontrollstationen der Eidgenössischen Zollverwaltung (EZV) und Auswertung der Achslast-Messstationen (Weight In Motion, WIM) des Bundesamtes für Strassen und der EZV; auf der Schiene transportierte Gütermengen gemäss Auswertung von Daten von SBB Infrastruktur; Haupterhebung: Kombination der Zählungen im Rahmen der jährlichen Erhebung und der Daten einer repräsentativen Stichprobe von schweren Strassengüterfahrzeugen (inklusive Rollende Landstrasse) während etwa 120 Tagen zu Herkunfts- / Bestimmungsort, Binnen- / Import- / Export- und Transitverkehr, technischen Fahrzeugmerkmalen und Angaben zu den transportierten Waren; auf der Schiene transportierte Waren gemäss Auswertung von Daten der Eisenbahnverkehrsunternehmen (EVU) und von SBB Infrastruktur sowie der Rollenden Landstrasse</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Jährliche Erhebung: Vollerhebung auf Basis der automatischen Zählstationen des Bundesamtes für Strassen sowie der LSVA-Kontrollstationen des Bundesamts für Zoll und Grenzsicherheit (BAZG) und Auswertung der Achslast-Messstationen (Weight In Motion, WIM) des Bundesamtes für Strassen und des BAZG; auf der Schiene transportierte Gütermengen gemäss Auswertung von Daten von SBB Infrastruktur; Haupterhebung: Kombination der Zählungen im Rahmen der jährlichen Erhebung und der Daten einer repräsentativen Stichprobe von schweren Strassengüterfahrzeugen (inklusive Rollende Landstrasse) während etwa 120 Tagen zu Herkunfts- / Bestimmungsort, Binnen- / Import- / Export- und Transitverkehr, technischen Fahrzeugmerkmalen und Angaben zu den transportierten Waren; auf der Schiene transportierte Waren gemäss Auswertung von Daten der Eisenbahnverkehrsunternehmen (EVU) und von SBB Infrastruktur sowie der Rollenden Landstrasse</td></tr>
 <tr><td>Befragte:</td><td>Fahrzeugführer/innen, Spediteure/Spediteurinnen, Eisenbahn-Operateure/-Operateurinnen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>Erstmals 1979</td></tr>
-<tr><td>Periodizität:</td><td>Jährlich (Vollerhebung auf Basis der LSVA-Kontrollanlagen der EZV sowie der automatischen Zählstationen des Bundesamtes für Strassen, Auswertung der EVU-Daten); alle fünf Jahre (Haupterhebung)</td></tr>
+<tr><td>Periodizität:</td><td>Jährlich (Vollerhebung auf Basis der LSVA-Kontrollanlagen des BAZG sowie der automatischen Zählstationen des Bundesamtes für Strassen, Auswertung der EVU-Daten); alle fünf Jahre (Haupterhebung)</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>Bundesamt für Strassen, Bundesamt für Raumentwicklung, BFS, schweizerische EVU, Kantone, private Auftragnehmer/innen</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>–</td></tr>
 </table>
@@ -2618,7 +2620,7 @@ Anhang*[^t-2]*
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Nominale Umsätze und Indikatoren zur Entwicklung des Geschäfts im Detailhandel nach Wirtschaftsaktivität und Produktegruppe</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe, Vollerhebung bei den Grossunternehmen; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister (BUR), Eidgenössische Steuerverwaltung (MWST), Eidgenössische Zollverwaltung</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe, Vollerhebung bei den Grossunternehmen; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister (BUR), Eidgenössische Steuerverwaltung (MWST), Bundesamt für Zoll und Grenzsicherheit (BAZG)</td></tr>
 <tr><td>Befragte:</td><td>Unternehmen, Wirtschaftsorganisationen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -2674,7 +2676,7 @@ Anhang*[^t-2]*
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Daten über Aufträge und Umsätze im Baugewerbe</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe, Vollerhebung bei den Grossunternehmen; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister (BUR), Schweizerischer Baumeisterverband, Eidgenössische Steuerverwaltung (MWST), Eidgenössische Zollverwaltung</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe, Vollerhebung bei den Grossunternehmen; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister (BUR), Schweizerischer Baumeisterverband, Eidgenössische Steuerverwaltung (MWST), Bundesamt für Zoll und Grenzsicherheit (BAZG)</td></tr>
 <tr><td>Befragte:</td><td>Unternehmen, Wirtschaftsorganisationen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -2688,7 +2690,7 @@ Anhang*[^t-2]*
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Daten über Aufträge und Umsätze in der Industrie</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe, Vollerhebung bei den Grossunternehmen; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister (BUR), Bundesamt für Energie, Schweizerische Pflichtlagerorganisation für flüssige Treib- und Brennstoffe, Verband der Schweizerischen Gasindustrie, Eidgenössische Steuerverwaltung (MWST), Eidgenössische Zollverwaltung</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe, Vollerhebung bei den Grossunternehmen; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister (BUR), Bundesamt für Energie, Schweizerische Pflichtlagerorganisation für flüssige Treib- und Brennstoffe, Verband der Schweizerischen Gasindustrie, Eidgenössische Steuerverwaltung (MWST), Bundesamt für Zoll und Grenzsicherheit (BAZG)</td></tr>
 <tr><td>Befragte:</td><td>Unternehmen, Wirtschaftsorganisationen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -2702,7 +2704,7 @@ Anhang*[^t-2]*
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Daten über die Umsätze oder Ersatzvariable für folgende Aktivitäten: – Handel und Instandhaltung und Reparatur von Motorfahrzeugen – Grosshandel ausser Motorfahrzeuge – Verkehr und Lagerei – Gastgewerbe/Beherbergung und Gastronomie – Information und Kommunikation – Grundstücks- und Wohnungswesen – Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen – Erbringung von sonstigen wirtschaftlichen Dienstleistungen</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe, Vollerhebung bei den Grossunternehmen; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister (BUR), Eidgenössische Steuerverwaltung (MWST), Eidgenössische Zollverwaltung</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe, Vollerhebung bei den Grossunternehmen; Verknüpfung von Daten aus folgenden Quellen: Betriebs- und Unternehmensregister (BUR), Eidgenössische Steuerverwaltung (MWST), Bundesamt für Zoll und Grenzsicherheit (BAZG)</td></tr>
 <tr><td>Befragte:</td><td>Unternehmen, Wirtschaftsorganisationen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>–</td></tr>
@@ -2732,12 +2734,12 @@ Anhang*[^t-2]*
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
 <tr><td>Erhebungsgegenstand:</td><td>Inländische leichte Sachentransportfahrzeuge (inklusive leichte Sattelschlepper); Fahrleistungen (Kilometer), Gewicht (Tonnen) und Art der transportierten Güter, Art des Verkehrs, Herkunfts- und Bestimmungsorte, Fahrtzwecke, Wirtschaftszweig</td></tr>
-<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Stichprobenerhebung auf dem Korrespondenzweg oder mittels Internet-Befragung; Verknüpfung von Daten aus folgenden Quellen: Informationssystem Verkehrszulassung (IVZ) des Bundesamts für Strassen, LSVA-Daten der Eidgenössischen Zollverwaltung (nur für leichte Sattelschlepper)</td></tr>
+<tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Stichprobenerhebung auf dem Korrespondenzweg oder mittels Internet-Befragung; Verknüpfung von Daten aus folgenden Quellen: Informationssystem Verkehrszulassung (IVZ) des Bundesamts für Strassen, LSVA-Daten des Bundesamts für Zoll und Grenzsicherheit (nur für leichte Sattelschlepper)</td></tr>
 <tr><td>Befragte:</td><td>Halter/innen von inländischen leichten Sachentransportfahrzeugen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch für gewerbsmässig genutzte Fahrzeuge</td></tr>
 <tr><td>Zeitpunkt der Durchführung:</td><td>Referenzperioden über das Jahr verteilt</td></tr>
 <tr><td>Periodizität:</td><td>Alle zehn Jahre (erstmals 2013)</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>Eidgenössische Zollverwaltung, Bundesamt für Strassen</td></tr>
+<tr><td>Mitwirkende bei der Durchführung:</td><td>Bundesamt für Zoll und Grenzsicherheit, Bundesamt für Strassen</td></tr>
 <tr><td>Besondere Bestimmungen:</td><td>Erhebung freiwillig für Fahrzeuge, die ausschliesslich privat genutzt werden</td></tr>
 </table>
 
@@ -2934,7 +2936,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Rassismus, Fremdenfeindlichkeit, Feindschaft gegenüber muslimischen Personen, Feindschaft gegenüber Personen schwarzer Hautfarbe, Feindschaft gegenüber jüdischen Personen, Diskriminierung, soziodemografische und sozioökonomische Merkmale; AHV-Versichertennummer.</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Rassismus, Fremdenfeindlichkeit, Feindschaft gegenüber muslimischen Personen, Feindschaft gegenüber Personen schwarzer Hautfarbe, Feindschaft gegenüber jüdischen Personen, Diskriminierung, soziodemografische und sozioökonomische Merkmale; AHV-Nummer.</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe von 3000 Personen: Mixed-Mode CAWI (Online-Fragebogen) und CATI (telefonische Befragung); Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR)</td></tr>
 <tr><td>Befragte:</td><td>Personen der ständigen Wohnbevölkerung ab 15 Jahren in Privathaushalten</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
@@ -2948,7 +2950,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Soziodemographische Merkmale der in der Schweiz tätigen, ausländischen Grenzgänger/innen (Geschlecht, Alter, Erwerbsstatus, Wirtschaftszweig, Nationalität, Arbeitsort, Wohnort, Ausbildungsniveau, Beschäftigungsgrad, berufliche Stellung); AHV‑Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Soziodemographische Merkmale der in der Schweiz tätigen, ausländischen Grenzgänger/innen (Geschlecht, Alter, Erwerbsstatus, Wirtschaftszweig, Nationalität, Arbeitsort, Wohnort, Ausbildungsniveau, Beschäftigungsgrad, berufliche Stellung); AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Zusammenstellung der Auswertungen basierend auf Unternehmensbefragungen (Beschäftigungsstatistik, Lohnstrukturerhebung); Verknüpfung von Daten aus folgenden Quellen: Zentrales Migrationsinformationssystem (ZEMIS), Statistik der Struktur und Demografie von Unternehmen (STATENT), Personen in Ausbildung</td></tr>
 <tr><td>Befragte:</td><td>–</td></tr>
 <tr><td>Auskunftspflicht:</td><td>–</td></tr>
@@ -3004,7 +3006,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Ausbildung, Ausbildungszufriedenheit, Finanzierung der Ausbildung, Erwerbssuche nach der Ausbildung, weiterer Erwerbsverlauf unter besonderer Berücksichtigung der Erwerbssituation ein Jahr und fünf Jahre nach Abschluss der Ausbildung / Prüfung, Weiterbildung und berufsbiografischer Werdegang, soziodemographische Angaben; AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Ausbildung, Ausbildungszufriedenheit, Finanzierung der Ausbildung, Erwerbssuche nach der Ausbildung, weiterer Erwerbsverlauf unter besonderer Berücksichtigung der Erwerbssituation ein Jahr und fünf Jahre nach Abschluss der Ausbildung / Prüfung, Weiterbildung und berufsbiografischer Werdegang, soziodemographische Angaben; AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Vollerhebung, Panel, Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR), Erhebungen im Bildungsbereich (Personen in Ausbildung, Bildungsabschlüsse, Schweizerische Studierendendatei SHIS, Stipendien und Darlehen), Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS])</td></tr>
 <tr><td>Befragte:</td><td>Kandidaten/Kandidatinnen und Absolventen/Absolventinnen der eidgenössischen Prüfungen und der höheren Fachschulen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
@@ -3144,7 +3146,7 @@ Anhang*[^t-2]*
 
 <table>
 <tr><td>Erhebungsorgan:</td><td>Bundesamt für Statistik</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Grundkompetenzen (Lesen, Mathematik, Problemlösen), soziodemografische und ökonomische Merkmale, Aus- und Weiterbildung, aktueller Arbeitsmarktstatus und Erwerbsbiographie, Informationen zur aktuellen und zur letzten Arbeitsstelle, Nutzung von Kompetenzen im Arbeitskontext und im Alltag, non-economic Outcomes, soziale und emotionale Kompetenzen, AHV-Versichertennummer</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Grundkompetenzen (Lesen, Mathematik, Problemlösen), soziodemografische und ökonomische Merkmale, Aus- und Weiterbildung, aktueller Arbeitsmarktstatus und Erwerbsbiographie, Informationen zur aktuellen und zur letzten Arbeitsstelle, Nutzung von Kompetenzen im Arbeitskontext und im Alltag, non-economic Outcomes, soziale und emotionale Kompetenzen, AHV-Nummer</td></tr>
 <tr><td>Art der Erhebung und Erhebungsmethode:</td><td>Repräsentative Stichprobe; computergestützte persönliche Befragung; Verknüpfung von Daten aus folgenden Quellen: Statistik der Bevölkerung und der Haushalte (STATPOP), Betriebs- und Unternehmensregister (BUR), Register der Sozialversicherungen (Zentrale Ausgleichsstelle [ZAS])</td></tr>
 <tr><td>Befragte:</td><td>Wohnbevölkerung ab 15 Jahren</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>

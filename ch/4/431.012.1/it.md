@@ -3,11 +3,11 @@ sr: "431.012.1"
 title: "Ordinanza del 30 giugno 1993 sull'esecuzione di rilevazioni statistiche federali (Ordinanza sulle rilevazioni statistiche)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100"
 language: it
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20211201/it/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-2100_2100_2100-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2100_2100_2100/20211201/it"
 
 (Ordinanza sulle rilevazioni statistiche)**[^t-1]**
 
-del 30 giugno 1993 (Stato 1° dicembre 2021)
+del 30 giugno 1993 (Stato 1° gennaio 2022)
 
 [^t-1]: Introdotto dal n. I dell’O del 16 gen. 2008, in vigore dal 10 feb. 2008 ([RU 2008 315](https://fedlex.data.admin.ch/eli/oc/2008/79)).
 
@@ -436,7 +436,7 @@ Allegato*[^t-2]*
 
 ## Elenco delle rilevazioni statistiche
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009 ([RU 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Aggiornato dal n. II dell’O del 18 ago. 2010 ([RU 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), dai n. I delle O del 14 apr. 2010 ([RU 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), del 24 ago. 2011 ([RU 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), del 12 ott. 2011 ([RU 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), dal n. II dell’O del 23 mag. 2012 ([RU 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), dai n. I delle O del 29 ago. 2012 ([RU 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), dal n. II dell’O del 18 dic. 2013 ([RU 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), dai n. I delle O del 29 ott. 2014 ([RU 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), del 28 ott. 2015 ([RU 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), del 16 nov. 2016 ([RU 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), dall’all. 2 n. II 1 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), dall’all. 2 n. 1 dell’O dell’11 apr. 2018 sulla registrazione delle malattie tumorali ([RU 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), dal n. I delle O del 7 nov. 2018 ([RU 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), del 13 dic. 2019 ([RU 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)) e del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)).
+[^t-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009 ([RU 2009 3967](https://fedlex.data.admin.ch/eli/oc/2009/509)). Aggiornato dal n. II dell’O del 18 ago. 2010 ([RU 2010 3875](https://fedlex.data.admin.ch/eli/oc/2010/561)), dai n. I delle O del 14 apr. 2010 ([RU 2010 1647](https://fedlex.data.admin.ch/eli/oc/2010/244)), del 24 ago. 2011 ([RU 2011 4035](https://fedlex.data.admin.ch/eli/oc/2011/574)), del 12 ott. 2011 ([RU 2011 4921](https://fedlex.data.admin.ch/eli/oc/2011/708)), dal n. II dell’O del 23 mag. 2012 ([RU 2012 3133](https://fedlex.data.admin.ch/eli/oc/2012/359)), dai n. I delle O del 29 ago. 2012 ([RU 2012 4651](https://fedlex.data.admin.ch/eli/oc/2012/569)), dal n. II dell’O del 18 dic. 2013 ([RU 2013 5399](https://fedlex.data.admin.ch/eli/oc/2013/871)), dai n. I delle O del 29 ott. 2014 ([RU 2014 3629](https://fedlex.data.admin.ch/eli/oc/2014/633)), del 28 ott. 2015 ([RU 2015 4311](https://fedlex.data.admin.ch/eli/oc/2015/729)), del 16 nov. 2016 ([RU 2016 3957](https://fedlex.data.admin.ch/eli/oc/2016/666)), dall’all. 2 n. II 1 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. I dell’O del 31 gen. 2018 ([RU 2018 775](https://fedlex.data.admin.ch/eli/oc/2018/99)), dall’all. 2 n. 1 dell’O dell’11 apr. 2018 sulla registrazione delle malattie tumorali ([RU 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)), dal n. I delle O del 7 nov. 2018 ([RU 2018 4095](https://fedlex.data.admin.ch/eli/oc/2018/666)), del 13 dic. 2019 ([RU 2020 19](https://fedlex.data.admin.ch/eli/oc/2020/6)), del 27 ott. 2021, in vigore dal 1° dic. 2021 ([RU 2021 657](https://fedlex.data.admin.ch/eli/oc/2021/657)) e dall’all. n. II 13 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1. *Abrogata*
 
@@ -444,7 +444,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Uffici dello stato civile, medici, ostetriche</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -472,7 +472,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Uffici dello stato civile</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -486,7 +486,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Ufficio federale dello stato civile</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -500,7 +500,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Uffici dello stato civile</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -514,7 +514,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Uffici dello stato civile</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -528,7 +528,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Uffici dello stato civile</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -542,7 +542,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Uffici dello stato civile</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -556,7 +556,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Dati in forma elettronica tramite la banca dati centrale «Infostar» secondo il documento dell’UST «Statistica svizzera del movimento naturale della popolazione (elenco delle variabili dei moduli di rilevazione statistica)»; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale; collegamento di dati provenienti dalle seguenti fonti: stato di salute dei nati vivi; statistica medica degli stabilimenti ospedalieri</td></tr>
 <tr><td>Fonte dei dati:</td><td>Uffici dello stato civile, medici, registri cantonali dei tumori, Direzione politica del Dipartimento federale degli affari esteri</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -616,7 +616,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Statuto sul mercato del lavoro, indicatori sulla situazione lavorativa, ricerca di lavoro, perfezionamento professionale, lavoro non remunerato, migrazione, previdenza per la vecchiaia e altre caratteristiche sociodemografiche ed economiche atte a determinare le condizioni di vita della persona interrogata e dei membri della sua economia domestica; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Statuto sul mercato del lavoro, indicatori sulla situazione lavorativa, ricerca di lavoro, perfezionamento professionale, lavoro non remunerato, migrazione, previdenza per la vecchiaia e altre caratteristiche sociodemografiche ed economiche atte a determinare le condizioni di vita della persona interrogata e dei membri della sua economia domestica; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di persone fisiche, compreso un campione supplementare di persone di nazionalità straniera, CAWI (questionario online) oppure CATI (intervista telefonica); collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), registro delle imprese e degli stabilimenti (RIS) e registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC] e Segreteria di Stato dell’economia [SECO]), Statistica strutturale e demografica delle imprese (STATENT)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone viventi in un’economia domestica privata, UCC e SECO</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
@@ -632,7 +632,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Statuto sul mercato del lavoro, indicatori sulla situazione lavorativa, ricerca di lavoro, perfezionamento professionale, lavoro non remunerato, migrazione e altre caratteristiche sociodemografiche ed economiche per la determinazione delle condizioni di vita della persona di riferimento e dei membri della sua economia domestica, redditi soggetti a contributi AVS/AI, rendite AVS/AI e altre prestazioni delle assicurazioni sociali; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Statuto sul mercato del lavoro, indicatori sulla situazione lavorativa, ricerca di lavoro, perfezionamento professionale, lavoro non remunerato, migrazione e altre caratteristiche sociodemografiche ed economiche per la determinazione delle condizioni di vita della persona di riferimento e dei membri della sua economia domestica, redditi soggetti a contributi AVS/AI, rendite AVS/AI e altre prestazioni delle assicurazioni sociali; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Collegamento di dati provenienti dalle seguenti fonti: rilevazione statistica della forza lavoro in Svizzera (RIFOS), registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC] e Segreteria di Stato dell’economia [SECO])</td></tr>
 <tr><td>Fonte dei dati:</td><td>UCC, SECO (rilevazioni dai registri)</td></tr>
 <tr><td>Obbligo d’informare:</td><td>–</td></tr>
@@ -688,7 +688,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Salari, durata del lavoro, caratteristiche riguardanti le persone e i posti di lavoro; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Salari, durata del lavoro, caratteristiche riguardanti le persone e i posti di lavoro; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria rappresentativa; collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS); statistica della popolazione e delle economie domestiche (STATPOP), sistema d’informazione centrale sulla migrazione (SIMIC) e Registri cantonali degli apprendisti</td></tr>
 <tr><td>Possibilità di ampliamento</td><td>A livello cantonale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Imprese, stabilimenti; amministrazioni pubbliche, imprese e altre corporazioni di diritto pubblico</td></tr>
@@ -718,14 +718,16 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Caratteristiche strutturali delle imprese e degli stabilimenti (addetti, attività economica, ubicazione, partecipazioni finanziarie dall’estero/all’estero, forma giuridica, importazioni/esportazioni), caratteristiche demografiche delle imprese (creazione d’imprese, tassi di sopravvivenza delle nuove imprese, popolazione d’imprese attive, imprese a forte crescita, cessazioni di attività, indicatori di crescita economica)</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale; rilevazione basata sui registri; collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Registro federale degli edifici e delle abitazioni (REA), dati amministrativi (casse di compensazione AVS, Amministrazione federale delle contribuzioni, Amministrazione federale delle dogane), rilevazione per l’aggiornamento del RIS, rilevazione delle strutture agricole, statistica dell’impiego, statistica forestale (rilevazione totale, SFt)</td></tr>
-<tr><td>Fonte dei dati:</td><td>Registro delle imprese e degli stabilimenti, Registro federale degli edifici e delle abitazioni, casse di compensazione AVS, Amministrazione federale delle contribuzioni, Amministrazione federale delle dogane</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale; rilevazione basata sui registri; collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Registro federale degli edifici e delle abitazioni (REA), dati amministrativi (casse di compensazione AVS, Amministrazione federale delle contribuzioni, Ufficio federale della dogana e della sicurezza dei confini[^annexu1-lvlu1-lvl23-1], rilevazione per l’aggiornamento del RIS, rilevazione delle strutture agricole, statistica dell’impiego, statistica forestale (rilevazione totale, SFt)</td></tr>
+<tr><td>Fonte dei dati:</td><td>Registro delle imprese e degli stabilimenti, Registro federale degli edifici e delle abitazioni, casse di compensazione AVS, Amministrazione federale delle contribuzioni, Ufficio federale della dogana e della sicurezza dei confini</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Annuale</td></tr>
-<tr><td>Partecipanti all’esecuzione:</td><td>Casse di compensazione AVS, Ufficio centrale di compensazione AVS, Ufficio federale delle assicurazioni sociali, uffici di statistica regionali, Amministrazione federale delle contribuzioni, Amministrazione federale delle dogane, Ufficio federale dell’agricoltura, Ufficio federale dell’ambiente, uffici cantonali dell’agricoltura</td></tr>
+<tr><td>Partecipanti all’esecuzione:</td><td>Casse di compensazione AVS, Ufficio centrale di compensazione AVS, Ufficio federale delle assicurazioni sociali, uffici di statistica regionali, Amministrazione federale delle contribuzioni, Ufficio federale della dogana e della sicurezza dei confini, Ufficio federale dell’agricoltura, Ufficio federale dell’ambiente, uffici cantonali dell’agricoltura</td></tr>
 <tr><td>Disposizioni speciali:</td><td>Conformemente all’articolo 10 capoverso 2 possono essere pubblicati dati sulle imprese, sugli stabilimenti, sul numero complessivo di addetti e sugli equivalenti a tempo pieno ripartiti per Comuni, aggregazioni territoriali, attività economiche, classi di grandezza delle aziende e forma giuridica.</td></tr>
 </table>
+
+[^annexu1-lvlu1-lvl23-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### 24. Statistica delle esecuzioni e dei fallimenti
 
@@ -746,7 +748,7 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Prezzi alla produzione di beni e servizi per il mercato interno e l’esportazione; prezzi all’importazione, sconti, dati strutturali (quantità, cifre d’affari).</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione parziale, collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Amministrazione federale delle contribuzioni (AFC) e Amministrazione federale delle dogane (AFD)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione parziale, collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Amministrazione federale delle contribuzioni (AFC) e Ufficio federale della dogana e della sicurezza dei confini</td></tr>
 <tr><td>Fonte dei dati:</td><td>Imprese e aziende private e pubbliche, organizzazioni economiche, servizi dell’Amministrazione, organizzazioni mantello</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -847,7 +849,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Redditi e uscite delle economie domestiche private, consumo di prodotti scelti, dati strutturali concernenti le economie domestiche e le persone, comportamenti rispetto al consumo e al risparmio, temi speciali; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Redditi e uscite delle economie domestiche private, consumo di prodotti scelti, dati strutturali concernenti le economie domestiche e le persone, comportamenti rispetto al consumo e al risparmio, temi speciali; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di economie domestiche private, intervista scritta e telefonica; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Statistica degli edifici e delle abitazioni (SEA), Registro delle imprese e degli stabilimenti (RIS) e registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC])</td></tr>
 <tr><td>Fonte dei dati:</td><td>Economie domestiche private e UCC</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
@@ -861,7 +863,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Redditi e sostanza delle economie domestiche private e dei loro membri, indicatori sulle condizioni di vita, sulla povertà e sull’esclusione sociale, altre caratteristiche sociodemografiche e socioeconomiche atte a determinare le condizioni di vita delle economie domestiche e dei loro membri, temi speciali; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Redditi e sostanza delle economie domestiche private e dei loro membri, indicatori sulle condizioni di vita, sulla povertà e sull’esclusione sociale, altre caratteristiche sociodemografiche e socioeconomiche atte a determinare le condizioni di vita delle economie domestiche e dei loro membri, temi speciali; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di economie domestiche private, intervista telefonica, intervista personale e intervista complementare per scritto; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS), Statistica degli edifici e delle abitazioni (SEA), statistica delle nuove rendite (NRS), registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC] e Segreteria di Stato dell’economia [SECO]), registri fiscali cantonali e statistica dei beneficiari dell’aiuto sociale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone viventi in un’economia domestica (intervista), autorità fiscali cantonali e comunali, UCC e SECO (rilevazioni dai registri)</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa per le persone viventi in un’economia domestica privata (intervista)</td></tr>
@@ -1050,12 +1052,12 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Veicoli indigeni pesanti adibiti al trasporto di cose; prestazioni (chilometri); peso (tonnellate) e genere di merci trasportate, genere di carico, tipo di trasporto, luoghi di carico e scarico, viaggi a vuoto</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione per campionatura (questionario cartaceo o elettronico); collegamento di dati provenienti dalle seguenti fonti: sistema d’informazione sull’ammissione alla circolazione (SIAC) dell’Ufficio federale delle strade, dati della TTPCP dell’Amministrazione federale delle dogane</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione per campionatura (questionario cartaceo o elettronico); collegamento di dati provenienti dalle seguenti fonti: sistema d’informazione sull’ammissione alla circolazione (SIAC) dell’Ufficio federale delle strade, dati della TTPCP, dell’Ufficio federale della dogana e della sicurezza dei confini</td></tr>
 <tr><td>Fonte dei dati:</td><td>Detentori di veicoli indigeni adibiti al trasporto di cose</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>Periodi di riferimento distribuiti nell’arco dell’anno</td></tr>
 <tr><td>Periodicità:</td><td>Permanente</td></tr>
-<tr><td>Partecipanti all’esecuzione:</td><td>Amministrazione federale delle dogane, Ufficio federale delle strade</td></tr>
+<tr><td>Partecipanti all’esecuzione:</td><td>Ufficio federale della dogana e della sicurezza dei confini, Ufficio federale delle strade</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
@@ -1064,12 +1066,12 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Veicoli adibiti al trasporto di cose immatricolati all’estero al momento del passaggio della frontiera, prestazioni (chilometri), quantità trasportata (tonnellate) e natura delle merci, tipo di carico, genere di traffico, luogo di carico e scarico</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria sotto forma di interviste; collegamento con dati della TTPCP dell’Amministrazione federale delle dogane</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria sotto forma di interviste; collegamento con dati della TTPCP dell’Ufficio federale della dogana e della sicurezza dei confini</td></tr>
 <tr><td>Fonte dei dati:</td><td>Autisti di veicoli stranieri adibiti al trasporto di cose</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
 <tr><td>Data della rilevazione:</td><td>Giorni di riferimento distribuiti nell’arco dell’anno</td></tr>
 <tr><td>Periodicità:</td><td>Ogni cinque anni</td></tr>
-<tr><td>Partecipanti all’esecuzione:</td><td>Amministrazione federale delle dogane, Ufficio federale delle strade, Ufficio federale dello sviluppo territoriale, Ufficio federale dei trasporti, mandatari privati</td></tr>
+<tr><td>Partecipanti all’esecuzione:</td><td>Ufficio federale della dogana e della sicurezza dei confini, Ufficio federale delle strade, Ufficio federale dello sviluppo territoriale, Ufficio federale dei trasporti, mandatari privati</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
@@ -1111,7 +1113,7 @@ Allegato*[^t-2]*
 <tr><td>Obbligo d’informare:</td><td>–</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Ogni cinque anni</td></tr>
-<tr><td>Partecipanti all’esecuzione:</td><td>Amministrazione federale delle dogane</td></tr>
+<tr><td>Partecipanti all’esecuzione:</td><td>Ufficio federale della dogana e della sicurezza dei confini</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
@@ -1141,7 +1143,7 @@ Allegato*[^t-2]*
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Ogni cinque anni</td></tr>
-<tr><td>Partecipanti all’esecuzione:</td><td>Ufficio federale dello sviluppo territoriale, Ufficio federale delle strade, Ufficio federale dei trasporti, Amministrazione federale delle dogane, imprese di trasporto ferroviario, mandatari privati</td></tr>
+<tr><td>Partecipanti all’esecuzione:</td><td>Ufficio federale dello sviluppo territoriale, Ufficio federale delle strade, Ufficio federale dei trasporti, Ufficio federale della dogana e della sicurezza dei confini, imprese di trasporto ferroviario, mandatari privati</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
@@ -1163,7 +1165,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Notifiche di prestazioni del 2° e 3° pilastro versate sotto forma di rendita o capitale, i prelievi o i rimborsi legati alla promozione della proprietà d’abitazioni, la rendita del 1° pilastro; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Notifiche di prestazioni del 2° e 3° pilastro versate sotto forma di rendita o capitale, i prelievi o i rimborsi legati alla promozione della proprietà d’abitazioni, la rendita del 1° pilastro; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale; collegamento di dati provenienti dalle seguenti fonti: registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC]), notifiche di nuove prestazioni del 2° e 3° pilastro (Amministrazione federale delle contribuzioni [AFC]) e prelievi o rimborsi legati alla promozione della proprietà d’abitazioni, Statistica della popolazione e delle economie domestiche (STATPOP), monitoraggio longitudinale del pensionamento</td></tr>
 <tr><td>Fonte dei dati:</td><td>AFC e UCC</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -1247,7 +1249,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, stato di salute, abitudini di vita e comportamento in materia di salute, prevenzione, handicap e disturbi della salute, offerta e ricorso alle prestazioni dei sistemi sanitario e sociale, condizioni assicurative e sicurezza sociale; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, stato di salute, abitudini di vita e comportamento in materia di salute, prevenzione, handicap e disturbi della salute, offerta e ricorso alle prestazioni dei sistemi sanitario e sociale, condizioni assicurative e sicurezza sociale; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di circa 10 000 persone; intervista telefonica assistita da computer, completabile con un’intervista personale assistita da computer e un’indagine scritta; collegamento dei dati rilevati alla statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS)</td></tr>
 <tr><td>Possibilità di ampliamento:</td><td>A livello cantonale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone di 15 e più anni in un’economia domestica privata; Comuni, Cantoni e servizi federali</td></tr>
@@ -1304,7 +1306,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Beneficiari di prestazioni cantonali e comunali nei casi di bisogno; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Beneficiari di prestazioni cantonali e comunali nei casi di bisogno; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale su base annua; collegamento di dati provenienti dalle seguenti fonti: sistema d’informazione centrale sulla migrazione (SIMIC), statistica della popolazione e delle economie domestiche (STATPOP) e Segreteria di Stato dell’economia (SECO), registro centrale degli assicurati (Unique Person Identification, UPI)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Servizi competenti nei Cantoni e Comuni, persone interessate</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -1318,7 +1320,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Persone richiedenti l’asilo o rifugiati che beneficiano di prestazioni d’aiuto sociale; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Persone richiedenti l’asilo o rifugiati che beneficiano di prestazioni d’aiuto sociale; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale e rilevazione per campionatura; collegamento di dati provenienti dalle seguenti fonti: sistema d’informazione centrale sulla migrazione (SIMIC), statistica della popolazione e delle economie domestiche (STATPOP) e Segreteria di Stato dell’economia (SECO), registro centrale degli assicurati (Unique Person Identification, UPI)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Servizi cantonali incaricati del trattamento delle richieste d’aiuto sociale</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -1332,7 +1334,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Allievi, studenti, classi, contratti di apprendistato (solo professioni disciplinate dalla legge federale del 13 dicembre 2002 sulla formazione professionale, LFPr; RS *412.10*), caratteristiche scolastiche e socio demografiche; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Allievi, studenti, classi, contratti di apprendistato (solo professioni disciplinate dalla legge federale del 13 dicembre 2002 sulla formazione professionale, LFPr; RS *412.10*), caratteristiche scolastiche e socio demografiche; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione di dati amministrativi dei Cantoni e degli istituti di formazione; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS) e rilevazioni nel campo della formazione (persone in formazione, titoli di studio, studenti delle scuole universitarie in Svizzera SIUS, borse e prestiti di studio)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Cantoni, istituti di formazione, associazioni</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -1346,7 +1348,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Diplomi del grado secondario II (maturità liceali e professionali, maturità specializzate, diplomi di formazione professionale di base, diplomi di una scuola media di commercio o di una scuola specializzata), diplomi di formazione professionale superiore (diplomi di scuole professionali superiori, esami di professione, esami professionali superiori, diplomi simili senza riconoscimento federale), caratteristiche sociodemografiche dei diplomati e dei candidati nonché indicazioni sui contributi federali per corsi di preparazione agli esami federali; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Diplomi del grado secondario II (maturità liceali e professionali, maturità specializzate, diplomi di formazione professionale di base, diplomi di una scuola media di commercio o di una scuola specializzata), diplomi di formazione professionale superiore (diplomi di scuole professionali superiori, esami di professione, esami professionali superiori, diplomi simili senza riconoscimento federale), caratteristiche sociodemografiche dei diplomati e dei candidati nonché indicazioni sui contributi federali per corsi di preparazione agli esami federali; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione di dati amministrativi dei Cantoni e degli istituti di formazione, nonché della Confederazione; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS) e rilevazioni nel campo della formazione (persone in formazione, titoli di studio, studenti delle scuole universitarie in Svizzera SIUS)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Cantoni, istituti di formazione, associazioni, Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI) per la Commissione svizzera di maturità (CSM), per la Commissione federale di maturità professionale (CFMP), per gli esami federali (esami di professione ed esami professionali superiori) nonché per il sistema d’informazione per i contributi alle persone che hanno seguito i corsi di preparazione e per i relativi fornitori</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -1360,7 +1362,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Personale insegnante, compresa la direzione degli istituti e il personale specializzato in pedagogia speciale (caratteristiche demografiche, statuto, formazione) e le loro prestazioni d’insegnamento (senza le scuole universitarie); numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Personale insegnante, compresa la direzione degli istituti e il personale specializzato in pedagogia speciale (caratteristiche demografiche, statuto, formazione) e le loro prestazioni d’insegnamento (senza le scuole universitarie); numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione dei dati amministrativi dei Cantoni e degli istituti di formazione: collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS) e rilevazioni nel campo della formazione (personale insegnante, studenti delle scuole universitarie in Svizzera SIUS e personale delle scuole universitarie in Svizzera)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Cantoni, istituti di formazione</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -1374,21 +1376,21 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Corso di studio, indirizzo ed esami (ca. 20 variabili) di tutte le persone immatricolate nelle scuole universitarie svizzere nonché esami a conclusione di studi universitari sostenuti davanti a un’istanza extrauniversitaria; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Corso di studio, indirizzo ed esami (ca. 20 variabili) di tutte le persone immatricolate nelle scuole universitarie svizzere nonché esami a conclusione di studi universitari sostenuti davanti a un’istanza extrauniversitaria; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione dei dati amministrativi delle scuole universitarie e delle istanze di esame; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP) e rilevazioni nel campo della formazione (persone in formazione, titoli di studio, studenti delle scuole universitarie in Svizzera SIUS)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Scuole universitarie svizzere, organismi d’esame universitari ed extrauniversitari, Ufficio federale della sanità pubblica (UFSP)</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
 <tr><td>Periodicità:</td><td>Semestrale per gli studenti, annuale per gli esami</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>Conferenza svizzera dei rettori delle scuole universitarie (swissuniversities), Conferenza svizzera dei direttori cantonali della pubblica educazione (CDPE), Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI)</td></tr>
-<tr><td>Disposizioni speciali:</td><td>Con l’accordo degli interessati, alcune informazioni possono essere utilizzate per determinati scopi amministrativi. In virtù dell’articolo 10 capoverso 3<sup>ter</sup> LStat, i Cantoni e le scuole universitarie possono ottenere dal Registro svizzero degli studenti, per ogni persona immatricolata e per il semestre in questione, le informazioni seguenti: numero di matricola; numero di assicurato AVS; scuola universitaria; semestre di studio; categoria; livello e indirizzo degli studi; data, livello e indirizzo dell’ultimo esame superato; indicazione se si tratta del primo o del secondo studio; numero totale di semestri assolti in Svizzera nell’indirizzo di studi scelto; domicilio al momento dell’ottenimento del titolo di ammissione agli studi universitari; genere, luogo e anno di ottenimento del titolo di ammissione agli studi universitari; nazionalità, data di nascita e sesso dello studente, equivalenti a tempo pieno degli studenti. I risultati sono pubblicati per scuola universitaria. I dati possono essere conservati in forma pseudonimizzata per oltre 30 anni.</td></tr>
+<tr><td>Disposizioni speciali:</td><td>Con l’accordo degli interessati, alcune informazioni possono essere utilizzate per determinati scopi amministrativi. In virtù dell’articolo 10 capoverso 3<sup>ter</sup> LStat, i Cantoni e le scuole universitarie possono ottenere dal Registro svizzero degli studenti, per ogni persona immatricolata e per il semestre in questione, le informazioni seguenti: numero di matricola; numero AVS; scuola universitaria; semestre di studio; categoria; livello e indirizzo degli studi; data, livello e indirizzo dell’ultimo esame superato; indicazione se si tratta del primo o del secondo studio; numero totale di semestri assolti in Svizzera nell’indirizzo di studi scelto; domicilio al momento dell’ottenimento del titolo di ammissione agli studi universitari; genere, luogo e anno di ottenimento del titolo di ammissione agli studi universitari; nazionalità, data di nascita e sesso dello studente, equivalenti a tempo pieno degli studenti. I risultati sono pubblicati per scuola universitaria. I dati possono essere conservati in forma pseudonimizzata per oltre 30 anni.</td></tr>
 </table>
 
 ### 73. Rilevazione tra le persone diplomate delle scuole universitarie
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Studio, ricerca di un lavoro al termine degli studi, svolgimento dell’attività lavorativa sotto il profilo particolare della situazione professionale un anno e cinque anni dopo il conseguimento del diploma, perfezionamento e iter professionale; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Studio, ricerca di un lavoro al termine degli studi, svolgimento dell’attività lavorativa sotto il profilo particolare della situazione professionale un anno e cinque anni dopo il conseguimento del diploma, perfezionamento e iter professionale; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, panel, collegamento con i dati degli studenti delle scuole universitarie in Svizzera SIUS</td></tr>
 <tr><td>Fonte dei dati:</td><td>Diplomati delle scuole universitarie svizzere</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
@@ -1402,7 +1404,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Studi attuali, monte ore, attività professionale, situazione finanziaria, situazione abitativa, mobilità, salute, dati sociodemografici; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Studi attuali, monte ore, attività professionale, situazione finanziaria, situazione abitativa, mobilità, salute, dati sociodemografici; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di studenti, collegamento con i dati degli studenti delle scuole universitarie in Svizzera SIUS</td></tr>
 <tr><td>Fonte dei dati:</td><td>Studenti delle scuole universitarie</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
@@ -1416,7 +1418,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Borse e prestiti di studio (importo e tipo di sussidio), beneficiari (caratteristiche sociodemografiche, caratteristiche della formazione degli aventi diritto); numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Borse e prestiti di studio (importo e tipo di sussidio), beneficiari (caratteristiche sociodemografiche, caratteristiche della formazione degli aventi diritto); numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione dei dati amministrativi dei Cantoni; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), persone in formazione, borse di studio e prestiti</td></tr>
 <tr><td>Fonte dei dati:</td><td>Uffici cantonali delle borse di studio</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -1430,7 +1432,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Personale delle scuole universitarie (caratteristiche demografiche, statuto, formazione) e loro prestazioni (insegnamento, ricerca, ecc.); numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Personale delle scuole universitarie (caratteristiche demografiche, statuto, formazione) e loro prestazioni (insegnamento, ricerca, ecc.); numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione dei dati amministrativi delle scuole universitarie; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP) e rilevazioni nel campo della formazione (personale degli istituti scolastici, studenti delle scuole universitarie in Svizzera SIUS e personale delle scuole universitarie in Svizzera)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Scuole universitarie svizzere</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -1700,7 +1702,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche di cui all’articolo 6 capoverso 2 lettera a della legge del 22 giugno 2007 sul censimento (RS *431.112*) e del programma di rilevazione di cui all’articolo 9 dell’ordinanza del 19 dicembre 2008 sul censimento (RS *431.112.1*); numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche di cui all’articolo 6 capoverso 2 lettera a della legge del 22 giugno 2007 sul censimento (RS *431.112*) e del programma di rilevazione di cui all’articolo 9 dell’ordinanza del 19 dicembre 2008 sul censimento (RS *431.112.1*); numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di 200 000 persone; indagine scritta in forma cartacea o elettronica; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro federale degli edifici e delle abitazioni (REA), Registro delle imprese e degli stabilimenti (RIS), casse di compensazione AVS, lista dei membri della Chiesa cattolico-cristiana</td></tr>
 <tr><td>Possibilità di ampliamento:</td><td>Conformemente agli articoli 21 e 30 dell’ordinanza sul censimento</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone di 15 e più anni viventi in un’economia domestica di tipo privato nonché registri federali, cantonali e comunali, casse di compensazione AVS</td></tr>
@@ -1715,7 +1717,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche di cui all’articolo 6 della legge del 23 giugno 2006 sull’armonizzazione dei registri (LArRa; RS *431.02*) e del programma di rilevazione di cui all’articolo 9 dell’ordinanza del 19 dicembre 2008 sul censimento (RS *431.112.1*) nonché dati selezionati tratti dai registri di persone sull’effettivo e sui movimenti (nascite, decessi, cambiamenti di stato civile, movimenti migratori, acquisto della cittadinanza svizzera, cambiamento dello statuto di soggiorno, ecc.) della popolazione residente permanente di nazionalità svizzera e straniera, della popolazione residente non permanente di nazionalità straniera e della popolazione con un domicilio secondario, coordinate degli edifici; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche di cui all’articolo 6 della legge del 23 giugno 2006 sull’armonizzazione dei registri (LArRa; RS *431.02*) e del programma di rilevazione di cui all’articolo 9 dell’ordinanza del 19 dicembre 2008 sul censimento (RS *431.112.1*) nonché dati selezionati tratti dai registri di persone sull’effettivo e sui movimenti (nascite, decessi, cambiamenti di stato civile, movimenti migratori, acquisto della cittadinanza svizzera, cambiamento dello statuto di soggiorno, ecc.) della popolazione residente permanente di nazionalità svizzera e straniera, della popolazione residente non permanente di nazionalità straniera e della popolazione con un domicilio secondario, coordinate degli edifici; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione basata sui registri; collegamento di dati provenienti dalle seguenti fonti: registri cantonali e comunali degli abitanti, Registro informatizzato dello stato civile (Infostar), sistema d’informazione centrale sulla migrazione (SIMIC); sistema di informazione Ordipro; registro centrale degli assicurati (Unique Person Identification, UPI), Registro federale degli edifici e delle abitazioni (REA)</td></tr>
 <tr><td>Possibilità di ampliamento:</td><td>–</td></tr>
 <tr><td>Fonte dei dati:</td><td>Registri federali, cantonali e comunali; collettività</td></tr>
@@ -1745,7 +1747,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, percorsi formativi, formazione più elevata conclusa, attività formative, determinanti della formazione, effetti della formazione e del perfezionamento professionale; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, percorsi formativi, formazione più elevata conclusa, attività formative, determinanti della formazione, effetti della formazione e del perfezionamento professionale; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di circa 10 000 persone; modalità mista CAWI (questionario online) e CATI (intervista telefonica); collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS), registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC] e Segreteria di Stato dell’economia [SECO])</td></tr>
 <tr><td>Possibilità di ampliamento:</td><td>A livello cantonale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone dai 15 anni d’età</td></tr>
@@ -1760,7 +1762,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, genitori, vita lavorativa e familiare, rete familiare e prestazioni delle famiglie; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, genitori, vita lavorativa e familiare, rete familiare e prestazioni delle famiglie; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di circa 10 000 persone; modalità mista CAWI (questionario online) e CATI (intervista telefonica); collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS) e registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC])</td></tr>
 <tr><td>Possibilità di ampliamento:</td><td>A livello cantonale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone di 15 e più anni viventi in un’economia domestica privata; Comuni, Cantoni e servizi federali</td></tr>
@@ -1775,7 +1777,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, lingue e competenze linguistiche, appartenenza religiosa, attività culturali e del tempo libero, partecipazione politica e sociale; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, lingue e competenze linguistiche, appartenenza religiosa, attività culturali e del tempo libero, partecipazione politica e sociale; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di circa 10 000 persone; intervista telefonica assistita da computer, completabile con un’intervista personale assistita da computer e un’indagine scritta; collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS)</td></tr>
 <tr><td>Possibilità di ampliamento:</td><td>A livello cantonale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone di 15 e più anni viventi in un’economia domestica privata; Comuni, Cantoni e servizi federali</td></tr>
@@ -1790,7 +1792,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, disponibilità e utilizzo di veicoli e abbonamenti dei trasporti pubblici, distanze percorse e tempo impiegato, scopi del viaggio, mezzi di trasporto utilizzati; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, disponibilità e utilizzo di veicoli e abbonamenti dei trasporti pubblici, distanze percorse e tempo impiegato, scopi del viaggio, mezzi di trasporto utilizzati; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di circa 40 000 persone; intervista telefonica assistita da computer, completabile con un’indagine scritta; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), sistema d’informazione sull’ammissione alla circolazione (SIAC), Registro delle imprese e degli stabilimenti (RIS), Registro federale degli edifici e delle abitazioni (REA), dati spaziali (es. distanze)</td></tr>
 <tr><td>Possibilità di ampliamento:</td><td>A livello cantonale o regionale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone di almeno sei anni viventi in un’economia domestica privata; Comuni, Cantoni e servizi federali</td></tr>
@@ -1805,7 +1807,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, moduli tematici differenti ogni anno; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche ed economiche, moduli tematici differenti ogni anno; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di 3000 persone; modalità mista CAWI (questionario online) e CATI (intervista telefonica) oppure CAWI (questionario online); collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone di almeno 15 anni viventi in un’economia domestica</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
@@ -1847,7 +1849,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Indicazioni sugli effettivi e sui movimenti: Paese di residenza, sesso, stato civile, età, pluricittadinanza nonché altri dati sociodemografici che figurano nel registro degli Svizzeri all’estero attraverso il sistema E‑VERA; numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Indicazioni sugli effettivi e sui movimenti: Paese di residenza, sesso, stato civile, età, pluricittadinanza nonché altri dati sociodemografici che figurano nel registro degli Svizzeri all’estero attraverso il sistema E‑VERA; numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, rilevazione basata su registri; collegamento di dati provenienti dalle seguenti fonti: statistica della popolazione e delle economie domestiche (STATPOP)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Registro degli Svizzeri all’estero attraverso il sistema E-VERA del Dipartimento federale degli affari esteri (DFAE)</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
@@ -2260,7 +2262,7 @@ Allegato*[^t-2]*
 ### 142. Statistica del commercio con l’estero
 
 <table>
-<tr><td>Organo di rilevazione:</td><td>Amministrazione federale delle dogane</td></tr>
+<tr><td>Organo di rilevazione:</td><td>Ufficio federale della dogana e della sicurezza dei confini</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Importazione ed esportazione di quantità e valori di merci secondo le voci delle tariffe doganali, i Paesi di provenienza e di destinazione; dati sul commercio estero di energia elettrica</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale</td></tr>
 <tr><td>Fonte dei dati:</td><td>Importatori ed esportatori, comprese le imprese indigene e straniere che operano nel commercio estero di energia elettrica, spedizionieri e la società nazionale di rete che gestisce la rete di trasporto svizzera.</td></tr>
@@ -2274,7 +2276,7 @@ Allegato*[^t-2]*
 ### 143. Statistica del transito
 
 <table>
-<tr><td>Organo di rilevazione:</td><td>Amministrazione federale delle dogane</td></tr>
+<tr><td>Organo di rilevazione:</td><td>Ufficio federale della dogana e della sicurezza dei confini</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Transito delle merci per quantità, ripartito per gruppi di prodotti, Paesi, modi di trasporto e zone di transito</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, elaborazione di documenti di trasporto o di transito</td></tr>
 <tr><td>Fonte dei dati:</td><td>Transito ferroviario: imprese ferroviarie, transito stradale: persone assoggettate alla dichiarazione doganale</td></tr>
@@ -2288,7 +2290,7 @@ Allegato*[^t-2]*
 ### 144. Statistica dell’imposta sugli oli minerali
 
 <table>
-<tr><td>Organo di rilevazione:</td><td>Amministrazione federale delle dogane</td></tr>
+<tr><td>Organo di rilevazione:</td><td>Ufficio federale della dogana e della sicurezza dei confini</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>traffico delle merci subordinate alla legge del 21 giugno 1996 sull’imposizione degli oli minerali (RS *641.61*), per genere e quantità</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>rilevazione totale</td></tr>
 <tr><td>Fonte dei dati:</td><td>persone assoggettate all’imposta</td></tr>
@@ -2518,11 +2520,11 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale dei trasporti</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Numero di veicoli pesanti per il trasporto merci su strada e dati tecnici; provenienza, destinazione, peso e categoria delle merci; trasporto merci su rotaia per tipologia (trasporto merci a carri completi, traffico combinato non accompagnato, strada viaggiante)</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione annuale: rilevazione totale per mezzo dei contatori automatici dell’Ufficio federale delle strade (USTRA), delle stazioni di controllo della TTPCP dell’Amministrazione federale delle dogane (AFD) e analisi dei dati degli apparecchi dell’USTRA/AFD per il rilevamento del peso (Weight In Motion – WIM); volume di merci trasportate su rotaia secondo l’analisi dei dati di FFS Infrastruttura. Rilevazione principale: combinazione dei conteggi della rilevazione annuale e dei dati di un campione rappresentativo di veicoli pesanti per il trasporto merci su strada (incl. la strada viaggiante) per 120 giorni in merito a provenienza/destinazione, a traffico interno/d’importazione/di esportazione/di transito, alle caratteristiche tecniche dei veicoli e alle merci trasportate; analisi dei dati delle imprese di trasporto ferroviarie (ITF) e di FFS Infrastruttura nonché della strada viaggiante per le merci trasportate su rotaia.</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione annuale: rilevazione totale per mezzo dei contatori automatici dell’Ufficio federale delle strade (USTRA), delle stazioni di controllo della TTPCP, dell’ Ufficio federale della dogana e della sicurezza dei confini (UDSC) e analisi dei dati degli apparecchi dell’USTRA/UDSC per il rilevamento del peso (Weight In Motion – WIM); volume di merci trasportate su rotaia secondo l’analisi dei dati di FFS Infrastruttura. Rilevazione principale: combinazione dei conteggi della rilevazione annuale e dei dati di un campione rappresentativo di veicoli pesanti per il trasporto merci su strada (incl. la strada viaggiante) per 120 giorni in merito a provenienza/destinazione, a traffico interno/d’importazione/di esportazione/di transito, alle caratteristiche tecniche dei veicoli e alle merci trasportate; analisi dei dati delle imprese di trasporto ferroviarie (ITF) e di FFS Infrastruttura nonché della strada viaggiante per le merci trasportate su rotaia.</td></tr>
 <tr><td>Fonte dei dati:</td><td>Autisti di veicoli pesanti, spedizionieri, operatori ferroviari</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
 <tr><td>Data della rilevazione:</td><td>La prima volta nel 1979</td></tr>
-<tr><td>Periodicità:</td><td>Annuale (rilevazione totale per mezzo degli impianti di controllo della TTPCP dell’AFD nonché dei contatori automatici dell’USTRA, analisi dei dati ITF); quinquennale (rilevazione principale)</td></tr>
+<tr><td>Periodicità:</td><td>Annuale (rilevazione totale per mezzo degli impianti di controllo della TTPCP dell’UDSC nonché dei contatori automatici dell’USTRA, analisi dei dati ITF); quinquennale (rilevazione principale)</td></tr>
 <tr><td>Partecipanti all’esecuzione:</td><td>USTRA, Ufficio federale dello sviluppo territoriale, UST, ITF svizzere, Cantoni, mandatari privati</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
@@ -2618,7 +2620,7 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Cifre d’affari nominali e indicatori dell’andamento degli affari del commercio al dettaglio secondo l’attività economica e il gruppo di prodotti</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria, rilevazione totale presso le grandi imprese; collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Amministrazione federale delle contribuzioni (IVA), Amministrazione federale delle dogane</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria, rilevazione totale presso le grandi imprese; collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Amministrazione federale delle contribuzioni (IVA), Ufficio federale della dogana e della sicurezza dei confini</td></tr>
 <tr><td>Fonte dei dati:</td><td>Imprese, organizzazioni economiche</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -2674,7 +2676,7 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Dati riguardanti le ordinazioni e le cifre d’affari nel settore delle costruzioni</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria rappresentativa, rilevazione totale presso le grandi imprese; collegamenti di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Società svizzera degli impresari-costruttori, Amministrazione federale delle contribuzioni (IVA), Amministrazione federale delle dogane</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria rappresentativa, rilevazione totale presso le grandi imprese; collegamenti di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Società svizzera degli impresari-costruttori, Amministrazione federale delle contribuzioni (IVA), Ufficio federale della dogana e della sicurezza dei confini (UDSC)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Imprese, organizzazioni economiche</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -2688,7 +2690,7 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Dati riguardanti le ordinazioni e le cifre d’affari nell’industria</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria rappresentativa, rilevazione totale presso le grandi imprese; collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Ufficio federale dell’energia, Organizzazione svizzera di scorte obbligatorie per carburanti e combustibili liquidi, Associazione svizzera dell’industria del gas, Amministrazione federale delle contribuzioni (IVA), Amministrazione federale delle dogane</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria rappresentativa, rilevazione totale presso le grandi imprese; collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Ufficio federale dell’energia, Organizzazione svizzera di scorte obbligatorie per carburanti e combustibili liquidi, Associazione svizzera dell’industria del gas, Amministrazione federale delle contribuzioni (IVA), Ufficio federale della dogana e della sicurezza dei confini (UDSC)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Imprese, organizzazioni economiche</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -2702,7 +2704,7 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Dati riguardanti le cifre d’affari o variabile alternativa delle seguenti attività: – commercio, manutenzione e riparazione di veicoli a motore – commercio all’ingrosso, escluso quello di veicoli a motore – trasporto e magazzinaggio – servizi di alloggio e ristorazione – servizi d’informazione e comunicazione – attività immobiliari – attività come libero professionista, scientifiche e tecniche – attività amministrative e di servizi di supporto</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria, rilevazione totale presso le grandi imprese; collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Amministrazione federale delle contribuzioni (IVA), Amministrazione federale delle dogane</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione campionaria, rilevazione totale presso le grandi imprese; collegamento di dati provenienti dalle seguenti fonti: Registro delle imprese e degli stabilimenti (RIS), Amministrazione federale delle contribuzioni (IVA), Ufficio federale della dogana e della sicurezza dei confini</td></tr>
 <tr><td>Fonte dei dati:</td><td>Imprese, organizzazioni economiche</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione obbligatoria</td></tr>
 <tr><td>Data della rilevazione:</td><td>–</td></tr>
@@ -2732,12 +2734,12 @@ Allegato*[^t-2]*
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Veicoli indigeni leggeri adibiti al trasporto di cose (inclusi trattori a sella leggeri); prestazioni (chilometri), peso (tonnellate) e genere di merci trasportate, tipo di trasporto, provenienza e destinazione, scopi del viaggio, ramo economico</td></tr>
-<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione per campionatura (questionario cartaceo o elettronico); collegamento di dati provenienti dalle seguenti fonti: sistema d’informazione sull’ammissione alla circolazione (SIAC) dell’Ufficio federale delle strade, dati della TTPCP dell’Amministrazione federale delle dogane (solo per trattori a sella leggeri)</td></tr>
+<tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione per campionatura (questionario cartaceo o elettronico); collegamento di dati provenienti dalle seguenti fonti: sistema d’informazione sull’ammissione alla circolazione (SIAC) dell’Ufficio federale delle strade, dati della TTPCP dell’Ufficio federale della dogana e della sicurezza dei confini (solo per trattori a sella leggeri)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Detentori di veicoli indigeni leggeri adibiti al trasporto di cose</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Obbligatorio per veicoli ad uso commerciale</td></tr>
 <tr><td>Data della rilevazione:</td><td>Periodi di riferimento distribuiti nell’arco dell’anno</td></tr>
 <tr><td>Periodicità:</td><td>Ogni dieci anni (la prima volta nel 2013)</td></tr>
-<tr><td>Partecipanti all’esecuzione:</td><td>Amministrazione federale delle dogane, Ufficio federale delle strade</td></tr>
+<tr><td>Partecipanti all’esecuzione:</td><td>Ufficio federale della dogana e della sicurezza dei confini, Ufficio federale delle strade</td></tr>
 <tr><td>Disposizioni speciali:</td><td>La rilevazione è facoltativa per i veicoli ad uso esclusivamente privato.</td></tr>
 </table>
 
@@ -2934,7 +2936,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Razzismo, xenofobia, ostilità nei confronti delle persone musulmane, ostilità nei confronti delle persone di colore, ostilità nei confronti delle persone ebree, discriminazione, variabili sociodemografiche ed economiche, numero d’assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Razzismo, xenofobia, ostilità nei confronti delle persone musulmane, ostilità nei confronti delle persone di colore, ostilità nei confronti delle persone ebree, discriminazione, variabili sociodemografiche ed economiche, numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo di 3000 persone; modalità mista CAWI (questionario elettronico) e CATI (intervista telefonica); collegamento di dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle imprese e degli stabilimenti (RIS)</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone a partire dai 15 anni facenti parte della popolazione residente permanente e viventi in un’economia domestica privata</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
@@ -2948,7 +2950,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche dei frontalieri stranieri che lavorano in Svizzera (sesso, età, condizione professionale, attività economica, nazionalità, luogo di lavoro, luogo di domicilio, livello di formazione, grado di occupazione, posizione professionale), numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Caratteristiche sociodemografiche dei frontalieri stranieri che lavorano in Svizzera (sesso, età, condizione professionale, attività economica, nazionalità, luogo di lavoro, luogo di domicilio, livello di formazione, grado di occupazione, posizione professionale), numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Sintesi di dati basati di sondaggi presso le imprese (statistica dell’impiego, rilevazione della struttura dei salari) e collegamento di dati provenienti dalle seguenti fonti: Sistema d’informazione centrale sulla migrazione (SIMIC), Statistica strutturale e demografica delle imprese (STATENT), persone in formazione</td></tr>
 <tr><td>Fonte dei dati:</td><td>–</td></tr>
 <tr><td>Obbligo d’informare:</td><td>–</td></tr>
@@ -3004,7 +3006,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Formazione, soddisfazione per la formazione, finanziamento della formazione, ricerca di un impiego al termine della formazione, iter professionale considerando in particolare la situazione a uno e a cinque anni dal termine della formazione / dal conseguimento del diploma, formazione continua e andamento della carriera professionale nel corso degli anni, dati sociodemografici, numero di assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Formazione, soddisfazione per la formazione, finanziamento della formazione, ricerca di un impiego al termine della formazione, iter professionale considerando in particolare la situazione a uno e a cinque anni dal termine della formazione / dal conseguimento del diploma, formazione continua e andamento della carriera professionale nel corso degli anni, dati sociodemografici, numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Rilevazione totale, panel, collegamento con i dati provenienti dalle seguenti fonti: Statistica della popolazione e delle economie domestiche (STATPOP), Registro delle aziende e degli stabilimenti (RIS) e varie rilevazioni nell’ambito della formazione (persone in formazione, diplomate, file SIUS degli studenti delle scuole universitarie in Svizzera, borse e prestiti), registro delle assicurazioni sociali (Ufficio centrale di compensazione [UCC])</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone candidate agli esami federali e delle scuole specializzate superiori (SSS) e persone diplomate</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
@@ -3144,7 +3146,7 @@ Allegato*[^t-2]*
 
 <table>
 <tr><td>Organo di rilevazione:</td><td>Ufficio federale di statistica</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Competenze di base (lettura, matematica, risoluzione di problemi), caratteristiche sociodemografiche ed economiche, formazione e formazione continua, condizione lavorativa attuale e iter professionale, informazioni sull’ultimo posto di lavoro e su quello attuale, utilizzo di competenze in ambito professionale e nella vita quotidiana, non-economic outcomes, competenze sociali ed emozionali, numero d’assicurato AVS</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Competenze di base (lettura, matematica, risoluzione di problemi), caratteristiche sociodemografiche ed economiche, formazione e formazione continua, condizione lavorativa attuale e iter professionale, informazioni sull’ultimo posto di lavoro e su quello attuale, utilizzo di competenze in ambito professionale e nella vita quotidiana, non-economic outcomes, competenze sociali ed emozionali, numero AVS</td></tr>
 <tr><td>Tipo e metodo di rilevazione:</td><td>Campione rappresentativo; intervista personale assistita da computer; collegamento con dati dalle fonti seguenti: statistica della popolazione e delle economie domestiche (STATPOP), registro delle imprese e degli stabilimenti (RIS), registri delle assicurazioni sociali (Ufficio centrale di compensazione [UCC])</td></tr>
 <tr><td>Fonte dei dati:</td><td>Persone residenti di almeno 15 anni</td></tr>
 <tr><td>Obbligo d’informare:</td><td>Informazione facoltativa</td></tr>
@@ -3456,6 +3458,6 @@ Entrata in vigore
 - 208\. Statistica dei redditi AVS
 - 209\. Statistiche delle professioni mediche
 - 210\. Statistica svizzera dei monumenti
-- 211\. Rilevazione «Valutazione delle competenze di base degli adulti (Programme for the International Assessment of Adult Competencies, PIAAC)»
+- [tab] 211. Rilevazione «Valutazione delle competenze di base degli adulti (Programme for the International Assessment of Adult Competencies, PIAAC)»
 - 212\. Set di dati per le analisi sul sistema della sicurezza sociale
 - 213\. Statistica svizzera delle superfici per l’avvicendamento delle colture
