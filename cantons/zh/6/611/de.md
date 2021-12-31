@@ -4,11 +4,11 @@ number: "611"
 title: Gesetz über Controlling und Rechnungslegung (CRG)
 short: CRG
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2022-07-01
 adopted: 2006-01-09
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611-2006_01_09-2008_04_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611-2006_01_09-2008_04_01-115.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 21 - 111 § 4.<sup>12</sup> <sup>1</sup> Die Rechnung ist mittelfristig auszugleichen. Massgebend ist die konsolidierte Erfolgsrechnung gemäss § 54.
+- 1\. 1. 22 - 115 § 4.<sup>12</sup> <sup>1</sup> Die Rechnung ist mittelfristig auszugleichen. Massgebend ist die konsolidierte Erfolgsrechnung gemäss § 54.
 
 **c. Haushaltsgleichgewicht**
 
@@ -152,7 +152,7 @@ beschliesst:
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Erbringt eine Leistungsgruppe ausschliesslich finanzielle Leistungen, hat sie eine blosse Verrechnungsfunktion oder werden deren Wirkungen bei anderen Leistungsgruppen dargestellt, werden einzig die benötigten finanziellen Mittel ausgewiesen.
 
@@ -242,7 +242,7 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 - d. für durchlaufende Beiträge, e.<sup>22</sup> für Abschreibungen, Wertberichtigungen und Rückstellungen.
 
@@ -320,7 +320,7 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **7**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 ### VII. Sonderfragen der Leistungserbringung
 
@@ -378,7 +378,7 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **Ausgabenbewilligung**
 
-§ 36.<sup>12</sup> Die Ausgabenbewilligung erfolgt a. bei neuen einmaligen Ausgaben für einen bestimmten Zweck über 3 Millionen Franken und für neue wiederkehrende Ausgaben über 300 000 Franken durch Verpflichtungskredit des Kantonsrates,
+§ 36.<sup>12</sup> Die Ausgabenbewilligung erfolgt a.<sup>28</sup> bei neuen einmaligen Ausgaben für einen bestimmten Zweck über 4 Millionen Franken und für neue wiederkehrende Ausgaben über 400 000 Franken durch Verpflichtungskredit des Kantonsrates,
 
 - b. in den übrigen Bereichen durch Beschluss des Regierungsrates.
 
@@ -388,7 +388,7 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 <sup>2</sup> Eine Ausgabe gilt jedoch als gebunden, wenn a. sie zur Erfüllung von gesetzlich vorgeschriebenen Verwaltungsaufgaben zwingend erforderlich ist und namentlich der Beschaffung und Erneuerung der für die Verwaltungstätigkeit erforderlichen personellen und sachlichen Mittel dient,
 
-- b. sie zur Erhaltung und zeitgemässen Ausstattung der vorhandenen Bausubstanz nötig ist, c.<sup>15</sup> sie für Mietverträge erforderlich ist, die zwecks Erfüllung staatlicher Aufgaben abgeschlossen werden; vorbehalten bleiben Finanzierungsleasinggeschäfte, d.<sup>25</sup> sie die Planungs- und Projektierungskosten zur Vorbereitung eines Vorhabens sowie bei Hochbauvorhaben Kosten für die vorgezogene Ausführungsplanung bis 3 Millionen Franken betrifft.
+- b. sie zur Erhaltung und zeitgemässen Ausstattung der vorhandenen Bausubstanz nötig ist, c.<sup>15</sup> sie für Mietverträge erforderlich ist, die zwecks Erfüllung staatlicher Aufgaben abgeschlossen werden; vorbehalten bleiben Finanzierungsleasinggeschäfte, d.<sup>28</sup> sie die Planungs- und Projektierungskosten zur Vorbereitung eines Vorhabens sowie bei Hochbauvorhaben Kosten für die vorgezogene Ausführungsplanung bis 4 Millionen Franken betrifft.
 
 **Verpflichtungskredit a. Zweck**
 
@@ -402,7 +402,7 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **9**
 
-- 1\. 1. 21 - 111 § 39.<sup>22</sup> <sup>1</sup> Der Verpflichtungskredit wird beschlossen:
+- 1\. 1. 22 - 115 § 39.<sup>22</sup> <sup>1</sup> Der Verpflichtungskredit wird beschlossen:
 
 **b. Formen**
 
@@ -492,7 +492,7 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **11**
 
-- 1\. 1. 21 - 111 § 50.<sup>12</sup> <sup>1</sup> Die Erfolgsrechnung enthält den Aufwand und den Ertrag einer Rechnungsperiode. Der Saldo verändert das Eigenkapital.
+- 1\. 1. 22 - 115 § 50.<sup>12</sup> <sup>1</sup> Die Erfolgsrechnung enthält den Aufwand und den Ertrag einer Rechnungsperiode. Der Saldo verändert das Eigenkapital.
 
 **Erfolgsrechnung**
 
@@ -570,7 +570,7 @@ Bei Nachträgen für Investitionsausgaben gilt Abs. 2 sinngemäss.
 
 **13**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 ### E. Zuständigkeiten
 
@@ -650,7 +650,7 @@ Bis zur Verselbstständigung der Versicherungskasse für das Staatspersonal (BVK
 
 **15**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 ### Übergangsbestimmung zur Änderung vom 5. Mai 2014 (OS 69, 372)
 
@@ -710,6 +710,8 @@ Entscheidet der Kantonsrat über ein Gesuch vor dem Inkrafttreten der Änderung 
 
 <sup>27</sup> Aufgehoben durch Lotteriefondsgesetz vom 2. November 2020 (OS 75, 663; ABl 2019-02-15). In Kraft seit 1. Januar 2021.
 
+<sup>28</sup> Fassung gemäss G vom 17. August 2020 (OS 76, 373; ABl 2019-05-03). In Kraft seit 1. Januar 2022.
+
 **17**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
