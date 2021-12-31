@@ -1,25 +1,25 @@
 ---
 canton: ZG
 number: "163.2"
-title: Verordnung über die Anwaltsprüfung und die Beurkundungsprüfung für Rechtsanwältinnen und Rechtsanwälte
+title: Verordnung über die Fähigkeitsprüfung für den Anwaltsberuf und die Beurkundungsprüfung für Rechtsanwältinnen und Rechtsanwälte
 short: Anwaltsprüfungsverordnung
 language: de
-version: 2016-11-12
-valid_until: 2021-12-31
-version_adopted: 2016-09-07
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-11-12
 adopted: 2021-11-12
 in_force: 2022-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/163.2"
-pdf: "https://bgs.zg.ch/api/de/versions/1573/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2276/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Anwaltsprüfung und die Beurkundungsprüfung für Rechtsanwältinnen und Rechtsanwälte
+# Verordnung über die Fähigkeitsprüfung für den Anwaltsberuf und die Beurkundungsprüfung für Rechtsanwältinnen und Rechtsanwälte
 
 (Anwaltsprüfungsverordnung)
 
-Vom 3. Dezember 2002 (Stand 12. November 2016)
+Vom 12. November 2021 (Stand 1. Januar 2022)
 
 Das Obergericht des Kantons Zug,
 
@@ -36,18 +36,18 @@ beschliesst:
 
 **Zulassung zur Prüfung**
 
-<sup>1</sup> Wer sich der zugerischen Anwaltsprüfung unterziehen will, hat sich spätestens vier Monate vor dem geplanten Prüfungstermin mit einem schriftlichen Gesuch an die Präsidentin bzw. den Präsidenten der Anwaltsprüfungskommission des Kantons Zug zu wenden.
+<sup>1</sup> Wer die zugerische Anwaltsprüfung ablegen will, hat sich spätestens vier Monate vor dem geplanten Prüfungstermin mit einem schriftlichen Gesuch an die Präsidentin bzw. den Präsidenten der Anwaltsprüfungskommission des Kantons Zug zu wenden.
 
 <sup>2</sup> Dem Gesuch sind beizulegen:
 
-- 1\. eine kurze Beschreibung des Lebenslaufs;
-- 2\. ein Ausweis über den Abschluss des juristischen Studiums gemäss Art. 7 Abs. 1 lit. a BGFA[^1-1];
-- 3\. Bestätigungen über das absolvierte Praktikum mit Angaben zur Beschäftigungsdauer, zum Arbeitspensum und zur Art der Tätigkeit;
-- 4\. ein Handlungsfähigkeitszeugnis;
-- 5\. ein Auszug aus dem Strafregister;
-- 6\. ein Auszug aus dem Betreibungsregister;
-- 7\. der Nachweis über die Einzahlung des Kostenvorschusses an die Gerichtskasse;
-- 8\. eine Erklärung, wonach die Kandidatin bzw. der Kandidat bisher auch ausserkantonal nicht definitiv abgewiesen wurde.
+- a) ein Lebenslauf;
+- b) ein Ausweis über den Abschluss des juristischen Studiums gemäss Art. 7 Abs. 1 lit. a BGFA[^1-1];
+- c) Bestätigungen über das absolvierte Praktikum mit Angaben zur Beschäftigungsdauer, zum Arbeitspensum und zur Art der Tätigkeit;
+- d) ein Handlungsfähigkeitszeugnis;
+- e) ein Auszug aus dem Strafregister;
+- f) ein Auszug aus dem Betreibungsregister;
+- g) der Nachweis über die Einzahlung des Kostenvorschusses an die Gerichtskasse;
+- h) eine Erklärung, wonach die Kandidatin bzw. der Kandidat bisher auch ausserkantonal nicht endgültig abgewiesen wurde.
 
 <sup>3</sup> Die Präsidentin bzw. der Präsident der Kommission entscheidet über die Zulassung.
 
@@ -57,48 +57,50 @@ beschliesst:
 
 **Form der Prüfung**
 
-<sup>1</sup> Die Anwaltsprüfung gliedert sich in einen schriftlichen und in einen mündlichen Teil.
+<sup>1</sup> Die Anwaltsprüfung besteht aus einem schriftlichen und einem mündlichen Teil.
+
+<sup>2</sup> Sie ist nicht öffentlich.
 
 #### § 3
 
-**Schriftliche Prüfung: Inhalt**
+**Schriftliche Prüfung; Inhalt**
 
-<sup>1</sup> Die schriftliche Prüfung besteht aus der Bearbeitung von zwei Fällen und aus der Erstellung einer öffentlichen Urkunde.
+<sup>1</sup> Die schriftliche Prüfung besteht aus der Fallbearbeitung in zwei Rechtsgebieten und aus der Erstellung öffentlicher Urkunden samt Beantwortung von Ergänzungsfragen (Beurkundungsprüfung).
 
-<sup>2</sup> Die Fälle erstrecken sich auf folgende Rechtsgebiete:
+<sup>2</sup> Bei der Fallbearbeitung werden folgende Rechtsgebiete geprüft:
 
-- a) Zivilrecht und Zivilprozessrecht inkl. Gerichtsorganisation,
+- a) Zivilrecht und Zivilprozessrecht inkl. Gerichtsorganisation;
 - b) Strafrecht und Strafprozessrecht inkl. Gerichtsorganisation oder Staats- und Verwaltungsrecht inkl. Verwaltungsrechtspflege.
 
-<sup>3</sup> Für die Bearbeitung der Fälle und für die Erstellung der öffentlichen Urkunde stehen der Kandidatin bzw. dem Kandidaten je fünf Stunden zur Verfügung.
+<sup>3</sup> Für die Bearbeitung der Fälle und die Beurkundungsprüfung stehen der Kandidatin bzw. dem Kandidaten je fünf Stunden zur Verfügung.
 
-<sup>4</sup> Die schriftliche Prüfung ist in Klausur und in der Regel im Zeitraum einer Woche abzulegen.
+<sup>4</sup> Die schriftliche Prüfung ist unter Aufsicht in der Regel im Zeitraum einer Woche abzulegen.
 
 #### § 4
 
-**Schriftliche Prüfung: Bewertung und Wiederholung**
+**Schriftliche Prüfung; Bewertung und Wiederholung**
 
-<sup>1</sup> Die einzelnen Arbeiten werden als gut, genügend oder ungenügend qualifiziert.
+<sup>1</sup> Die einzelnen Arbeiten werden als gut, genügend oder ungenügend bewertet.
 
-<sup>2</sup> Die schriftliche Prüfung ist bestanden, wenn die Kommission alle drei Arbeiten mindestens als genügend bezeichnet.
+<sup>2</sup> Die schriftliche Prüfung ist bestanden, wenn die Kommission alle drei Arbeiten mindestens als genügend bewertet.
 
-<sup>3</sup> Wird eine Arbeit als ungenügend bewertet, ist die Prüfung im betreffenden Rechtsgebiet zu wiederholen. Die Wiederholung ist in der Regel frühestens nach drei und spätestens nach sechs Monaten zulässig. Die Präsidentin bzw. der Präsident der Kommission bestimmt den Zeitpunkt der Wiederholung.
+<sup>3</sup> Wird eine Arbeit als ungenügend bewertet, ist die Prüfung im betreffenden Rechtsgebiet zu wiederholen. Die Wiederholungsprüfung ist in der Regel innert sechs Monaten abzulegen. Die Präsidentin bzw. der Präsident der Kommission bestimmt den Zeitpunkt der Wiederholung. In begründeten Fällen kann sie bzw. er diese Frist erstrecken.
 
-<sup>4</sup> Wird auch bei der Wiederholung eine Arbeit als ungenügend bewertet, so wird die Kandidatin bzw. der Kandidat abgewiesen, womit die Zulassung zur Anwaltsprüfung erlischt. Ein erneutes Gesuch um Zulassung ist nach Ablauf von zwei Jahren zulässig. Wird nun eine Arbeit erneut als ungenügend bewertet, so wird die Kandidatin bzw. der Kandidat endgültig abgewiesen.
+<sup>4</sup> Wird auch bei der Wiederholung eine Arbeit als ungenügend bewertet, so wird die Kandidatin bzw. der Kandidat abgewiesen, womit die Zulassung zur Anwaltsprüfung erlischt. Ein erneutes Gesuch um Zulassung ist nach Ablauf von zwei Jahren zulässig.
 
 #### § 5
 
-**Mündliche Prüfung: Zulassung und Inhalt**
+**Mündliche Prüfung; Zulassung und Inhalt**
 
-<sup>1</sup> Wer die schriftliche Prüfung bestanden hat, wird zur mündlichen Prüfung zugelassen. Die mündliche Prüfung ist innert sechs Monaten nach der schriftlichen Prüfung abzulegen. In begründeten Fällen oder bei Wiederholungen kann die Präsidentin bzw. der Präsident der Kommission diese Frist erstrecken.
+<sup>1</sup> Wer die schriftliche Prüfung bestanden hat, wird zur mündlichen Prüfung zugelassen. Die mündliche Prüfung ist in der Regel innert sechs Monaten nach der schriftlichen Prüfung abzulegen. Die Präsidentin bzw. der Präsident der Kommission bestimmt den Zeitpunkt. In begründeten Fällen kann sie bzw. er diese Frist erstrecken.
 
-<sup>2</sup> Die mündliche Prüfung erstreckt sich auf folgende Gebiete des Bundesrechts und des zugerischen Rechts:
+<sup>2</sup> Die mündliche Prüfung umfasst folgende Gebiete des Bundesrechts und des zugerischen Rechts, jeweils inkl. Gerichtsorganisation bzw. Verwaltungsrechtspflege:
 
-- a) Zivilrecht und Zivilprozessrecht,
-- b) Strafrecht und Strafprozessrecht,
-- c) Schuldbetreibungs- und Konkursrecht,
-- d) Staats- und Verwaltungsrecht,
-- e) Beurkundungsrecht und
+- a) Zivilrecht und Zivilprozessrecht;
+- b) Strafrecht und Strafprozessrecht;
+- c) Schuldbetreibungs- und Konkursrecht;
+- d) Staats- und Verwaltungsrecht;
+- e) Beurkundungsrecht;
 - f) Anwaltsrecht.
 
 <sup>3</sup> Sie dauert mindestens zwei Stunden. Die Kandidatinnen und Kandidaten werden einzeln geprüft.
@@ -107,37 +109,45 @@ beschliesst:
 
 **Mündliche Prüfung: Bewertung und Wiederholung**
 
-<sup>1</sup> Die Prüfungsergebnisse der einzelnen Gebiete werden als gut, genügend oder ungenügend qualifiziert.
+<sup>1</sup> Die Prüfungsergebnisse der einzelnen Gebiete werden als gut, genügend oder ungenügend bewertet.
 
-<sup>2</sup> Die mündliche Prüfung ist bestanden, wenn das Ergebnis der Prüfung in allen Gebieten mindestens als genügend qualifiziert wird.
+<sup>2</sup> Die mündliche Prüfung ist bestanden, wenn das Ergebnis der Prüfung in allen Gebieten mindestens als genügend bewertet wird.
 
-<sup>3</sup> Wird das Prüfungsergebnis in einem Gebiet als ungenügend bewertet, ist die Prüfung im betreffenden Rechtsgebiet zu wiederholen. Die Präsidentin bzw. der Präsident der Kommission bestimmt den Zeitpunkt der Wiederholung.
+<sup>3</sup> Wird das Prüfungsergebnis in einem Gebiet als ungenügend bewertet, ist die Prüfung im betreffenden Rechtsgebiet zu wiederholen. Die Wiederholungsprüfung ist in der Regel innert sechs Monaten abzulegen. Die Präsidentin bzw. der Präsident der Kommission bestimmt den Zeitpunkt der Wiederholung. In begründeten Fällen kann sie bzw. er diese Frist erstrecken.
 
-<sup>4</sup> Wird auch bei der Wiederholung das Prüfungsergebnis in einem Gebiet als ungenügend bewertet, so wird die Kandidatin bzw. der Kandidat abgewiesen, womit die Zulassung zur Anwaltsprüfung erlischt. Ein erneutes Gesuch um Zulassung ist nach Ablauf von zwei Jahren zulässig. Diesfalls können die schriftliche und die mündliche Prüfung je einmal wiederholt werden. Eine erneute Abweisung bei der schriftlichen oder mündlichen Prüfung ist endgültig.
+<sup>4</sup> Wird auch bei der Wiederholung das Prüfungsergebnis in einem Gebiet als ungenügend bewertet, so wird die Kandidatin bzw. der Kandidat abgewiesen, womit die Zulassung zur Anwaltsprüfung erlischt. Ein erneutes Gesuch um Zulassung ist nach Ablauf von zwei Jahren zulässig.
 
 #### § 7
 
-**Nichtantreten oder Abbruch der Prüfung**
+**Prüfungen nach Abweisung und erneuter Zulassung**
 
-<sup>1</sup> Wird ohne entschuldbaren Grund der festgelegte Prüfungstermin nicht angetreten oder eine Prüfung abgebrochen, gilt die betreffende Prüfung als nicht bestanden.
+<sup>1</sup> Erfolgte die Abweisung bereits nach der schriftlichen Prüfung (§ 4 Abs. 4), so wird die Kandidatin bzw. der Kandidat endgültig abgewiesen, wenn eine schriftliche Arbeit erneut als ungenügend bewertet wird; eine Wiederholung ist ausgeschlossen. Wer die schriftliche Prüfung bestanden hat, wird zur mündlichen Prüfung zugelassen, die einmal wiederholt werden kann. Eine erneute Abweisung bei der mündlichen Prüfung ist ebenfalls endgültig.
+
+<sup>2</sup> Erfolgte die Abweisung nach der mündlichen Prüfung (§ 6 Abs. 4), können die schriftliche und die mündliche Prüfung je einmal wiederholt werden. Eine erneute Abweisung bei der schriftlichen oder mündlichen Prüfung ist endgültig.
 
 #### § 8
 
-**Organisation und Zuteilung der Prüfungsfächer**
+**Nichtantreten oder Abbruch der Prüfung**
 
-<sup>1</sup> Die Kommission entscheidet jeweils mit fünf Mitgliedern oder Ersatzmitgliedern. Der Beizug von Ersatzmitgliedern ist uneingeschränkt zulässig.
-
-<sup>2</sup> Sie legt jeweils spätestens bis Ende September die Prüfungstermine für das nächste Kalenderjahr fest und gibt diese auf Anfrage bekannt.
-
-<sup>3</sup> Die Zuteilung der Prüfungsfächer an die einzelnen Mitglieder oder Ersatzmitglieder der Kommission erfolgt durch diese selbst. Sie bestimmt auch die Referentin bzw. den Referenten der schriftlichen Prüfung, die bzw. der die Prüfungsaufgabe zu erstellen, die Arbeit zu begutachten und der Kommission mit einem begründeten Antrag zur Beurteilung zu unterbreiten hat.
+<sup>1</sup> Wird ein festgelegter Prüfungstermin ohne entschuldbaren Grund nicht wahrgenommen oder eine Prüfung abgebrochen, gilt die betreffende Prüfung als nicht bestanden.
 
 #### § 9
 
-**Verwendung unerlaubter Hilfsmittel**
+**Organisation und Zuteilung der Prüfungsfächer**
 
-<sup>1</sup> Wer ein Prüfungsergebnis verfälscht, namentlich durch Verwendung nicht erlaubter Hilfsmittel beeinflusst oder zu beeinflussen versucht, hat die ganze Anwaltsprüfung nicht bestanden und wird abgewiesen, womit die Zulassung zur Anwaltsprüfung erlischt. Ein erneutes Gesuch um Zulassung ist nach Ablauf von drei Jahren zulässig. Im Übrigen ist § 4 Abs. 4 sinngemäss anwendbar.
+<sup>1</sup> Die Kommission entscheidet grundsätzlich mit fünf Mitgliedern; in Ausnahmefällen ist sie mit vier Mitgliedern beschlussfähig.
+
+<sup>2</sup> Sie legt jeweils spätestens bis Ende September die Prüfungstermine für das nächste Kalenderjahr fest und publiziert diese im Internet.
+
+<sup>3</sup> Die Präsidentin bzw. der Präsident teilt die Prüfungsfächer den einzelnen Mitgliedern zu. Sie bzw. er bestimmt auch die Referentin bzw. den Referenten der schriftlichen Prüfung, die bzw. der die Prüfungsaufgabe zu erstellen, die Arbeit zu begutachten und der Kommission mit einem begründeten Antrag zur Beurteilung zu unterbreiten hat.
 
 #### § 10
+
+**Verwendung unerlaubter Hilfsmittel**
+
+<sup>1</sup> Wer ein Prüfungsergebnis verfälscht, namentlich durch Verwendung nicht erlaubter Hilfsmittel beeinflusst oder zu beeinflussen versucht, hat die ganze Anwaltsprüfung nicht bestanden und wird abgewiesen, womit die Zulassung zur Anwaltsprüfung erlischt. Ein erneutes Gesuch um Zulassung ist nach Ablauf von drei Jahren zulässig. Im Übrigen ist § 7 Abs. 1 sinngemäss anwendbar.
+
+#### § 11
 
 **Anwaltspatent**
 
@@ -145,7 +155,7 @@ beschliesst:
 
 <sup>2</sup> Für die Erteilung des Anwaltspatentes wird eine Gebühr erhoben.
 
-#### § 11
+#### § 12
 
 **Urkunde**
 
@@ -153,44 +163,44 @@ beschliesst:
 
 ## 2. Beurkundungsprüfung für Rechtsanwältinnen und Rechtsanwälte mit ausserkantonalem Patent
 
-#### § 12
+#### § 13
 
 **Zulassung zur Prüfung**
 
-<sup>1</sup> Personen mit ausserkantonalem Anwaltspatent, welche sich der zugerischen Beurkundungsprüfung unterziehen wollen, haben sich spätestens vier Monate vor dem geplanten Prüfungstermin mit einem schriftlichen Gesuch an die Präsidentin bzw. den Präsidenten der Anwaltsprüfungskommission des Kantons Zug zu wenden.
+<sup>1</sup> Personen mit ausserkantonalem Anwaltspatent, welche die zugerische Beurkundungsprüfung ablegen wollen, haben sich spätestens vier Monate vor dem geplanten Prüfungstermin mit einem schriftlichen Gesuch an die Präsidentin bzw. den Präsidenten der Anwaltsprüfungskommission des Kantons Zug zu wenden.
 
 <sup>2</sup> Dem Gesuch sind beizulegen:
 
-- 1\. eine kurze Beschreibung des Lebenslaufs;
-- 2\. eine Bestätigung betreffend Besitz eines ausserkantonalen Anwaltspatentes;
-- 3\. ein Handlungsfähigkeitszeugnis;
-- 4\. ein Auszug aus dem Strafregister;
-- 5\. ein Auszug aus dem Betreibungsregister;
-- 6\. eine Bestätigung über das Gegenrecht des Patentkantons im Sinne von § 2 Abs. 3 des Gesetzes über die öffentliche Beurkundung und die Beglaubigung in Zivilsachen vom 3. Juni 1946[^12-1];
-- 7\. der Nachweis über die Einzahlung des Kostenvorschusses an die Gerichtskasse;
-- 8\. eine Erklärung, wonach die Kandidatin bzw. der Kandidat bisher auch ausserkantonal nicht definitiv abgewiesen wurde.
+- a) ein Lebenslauf;
+- b) eine Bestätigung betreffend Besitz eines ausserkantonalen Anwaltspatentes;
+- c) ein Handlungsfähigkeitszeugnis;
+- d) ein Auszug aus dem Strafregister;
+- e) ein Auszug aus dem Betreibungsregister;
+- f) eine Bestätigung über das Gegenrecht des Patentkantons im Sinne von § 2 Abs. 3 des Gesetzes über die öffentliche Beurkundung und die Beglaubigung in Zivilsachen vom 3. Juni 1946[^13-1];
+- g) der Nachweis über die Einzahlung des Kostenvorschusses an die Gerichtskasse;
+- h) eine Erklärung, wonach die Kandidatin bzw. der Kandidat bisher auch ausserkantonal nicht definitiv abgewiesen wurde.
 
-<sup>3</sup> Personen, welche in einem kantonalen Anwaltsregister eingetragen sind, können anstelle der Beilagen gemäss Abs. 2 Ziff. 3 – 5 einen Registerauszug beilegen.
+<sup>3</sup> Personen, welche in einem kantonalen Anwaltsregister eingetragen sind, können anstelle der Beilagen gemäss Abs. 2 Bst. b–e einen Registerauszug beilegen.
 
 <sup>4</sup> Die Präsidentin bzw. der Präsident der Kommission entscheidet über die Zulassung.
 
-[^12-1]: BGS [223.1](https://bgs.zg.ch/data/223.1/de)
-
-#### § 13
-
-**Inhalt der Prüfung**
-
-<sup>1</sup> Im Rahmen der schriftlichen Prüfung ist eine öffentliche Urkunde zu erstellen. Der Kandidatin bzw. dem Kandidaten stehen dafür fünf Stunden zur Verfügung. Die Prüfung ist in Klausur abzulegen.
-
-<sup>2</sup> Die mündliche Prüfung erstreckt sich auf Zivilrecht und Beurkundungsrecht.
+[^13-1]: BGS [223.1](https://bgs.zg.ch/data/223.1/de)
 
 #### § 14
 
-**Durchführung der Prüfung**
+**Inhalt der Prüfung**
 
-<sup>1</sup> Die Bestimmungen über die Anwaltsprüfung (§ 2 sowie § 4 – 9) sind auf die Beurkundungsprüfung sinngemäss anzuwenden.
+<sup>1</sup> Die schriftliche Prüfung besteht aus der Erstellung öffentlicher Urkunden samt Beantwortung von Ergänzungsfragen. Der Kandidatin bzw. dem Kandidaten stehen dafür fünf Stunden zur Verfügung. Die Prüfung ist unter Aufsicht abzulegen.
+
+<sup>2</sup> Die mündliche Prüfung umfasst Beurkundungsrecht, Zivilrecht (Bundesrecht und zugerisches Recht) sowie die Grundzüge des Schuldbetreibungs- und Konkursrechts, der kantonalen Behördenorganisation und des Verwaltungsrechts.
 
 #### § 15
+
+**Durchführung der Prüfung**
+
+<sup>1</sup> Die Bestimmungen über die Anwaltsprüfung (§ 2 sowie §§ 4–10) sind auf die Beurkundungsprüfung sinngemäss anzuwenden.
+
+#### § 16
 
 **Fähigkeitsausweis**
 
@@ -198,33 +208,104 @@ beschliesst:
 
 <sup>2</sup> Für die Erteilung des Fähigkeitsausweises wird eine Gebühr erhoben.
 
-## 3. Eignungsprüfung und Prüfungsgespräch
-
-#### § 16
-
-**Zulassung und Inhalt der Prüfung**
-
-<sup>1</sup> Die Zulassungsvoraussetzungen richten sich nach § 31 BGFA. Die Kommission entscheidet über die Zulassung.
-
-<sup>2</sup> Die Kommission legt mit ihrem Zulassungsentscheid im Einzelfall im Rahmen des Bundesrechts den Gegenstand der Eignungsprüfung oder des Prüfungsgesprächs für ausländische Rechtsanwältinnen und Rechtsanwälte fest.
+## 3. Eignungsprüfung
 
 #### § 17
 
-**Durchführung**
+**Zulassung zur Prüfung**
 
-<sup>1</sup> Die Bestimmungen über die Anwaltsprüfung (§ 2 – 9) sind sinngemäss anzuwenden.
+<sup>1</sup> Die Voraussetzungen für die Zulassung zur Eignungsprüfung richten sich nach Art. 31 BGFA[^17-1].
+
+<sup>2</sup> Wer die Eignungsprüfung ablegen will, hat sich spätestens vier Monate vor dem Prüfungstermin mit einem schriftlichen Gesuch an die Präsidentin bzw. den Präsidenten der Anwaltsprüfungskommission des Kantons Zug zu wenden.
+
+<sup>3</sup> Dem Gesuch sind beizulegen:
+
+- a) ein Lebenslauf mit genauer Angabe der bisherigen juristischen Betätigungen;
+- b) die Diplome bzw. Prüfungs- und Ausbildungsbescheinigungen;
+- c) Zeugnisse über die bisherige berufliche oder wissenschaftliche juristische Tätigkeit.
+
+<sup>4</sup> Die Präsidentin bzw. der Präsident entscheidet über die Zulassung zur Eignungsprüfung und legt mit dem Zulassungsentscheid im Rahmen des Bundesrechts den Gegenstand der Eignungsprüfung fest.
+
+[^17-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
 
 #### § 18
 
+**Inhalt und Durchführung**
+
+<sup>1</sup> Die Eignungsprüfung besteht aus einem schriftlichen und einem mündlichen Teil.
+
+<sup>2</sup> Im schriftlichen Teil werden in der Regel Zivilrecht und Zivilprozessrecht inkl. Gerichtsorganisation sowie öffentliches Recht (Strafrecht und Strafprozessrecht inkl. Gerichtsorganisation oder Staats- und Verwaltungsrecht inkl. Verwaltungsrechtspflege) geprüft.
+
+<sup>3</sup> Die mündliche Prüfung umfasst in der Regel folgende Gebiete des Bundesrechts und des zugerischen Rechts, jeweils inkl. Gerichtsorganisation bzw. Verwaltungsrechtspflege:
+
+- a) Zivilrecht und Zivilprozessrecht;
+- b) Strafrecht und Strafprozessrecht;
+- c) Schuldbetreibungs- und Konkursrecht;
+- d) Staats- und Verwaltungsrecht;
+- e) Anwaltsrecht.
+
+<sup>4</sup> Sowohl bei der schriftlichen wie auch bei der mündlichen Prüfung sind zwei Wiederholungen möglich (Art. 31 Abs. 4 BGFA[^18-1]).
+
+<sup>5</sup> Im Übrigen gelten sinngemäss die Bestimmungen über die Anwaltsprüfung (§§ 2–10).
+
+[^18-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
+
+#### § 19
+
 **Fähigkeitsausweis**
 
-<sup>1</sup> Hat die Kandidatin bzw. der Kandidat die Eignungsprüfung bzw. das Prüfungsgespräch bestanden, erteilt die Kommission ihr bzw. ihm den entsprechenden Fähigkeitsausweis.
+<sup>1</sup> Hat die Kandidatin bzw. der Kandidat die Eignungsprüfung bestanden, erteilt die Kommission ihr bzw. ihm den entsprechenden Fähigkeitsausweis.
 
 <sup>2</sup> Für die Erteilung des Fähigkeitsausweises wird eine Gebühr erhoben.
 
-## 4 Kosten und Entschädigung
+## 4. Gespräch zur Prüfung der beruflichen Fähigkeiten
 
-#### § 19
+#### § 20
+
+**Zulassung zum Gespräch**
+
+<sup>1</sup> Die Voraussetzungen für die Zulassung zum Prüfungsgespräch richten sich nach Art. 30 Abs. 1 lit. b Ziff. 2 BGFA[^20-1].
+
+<sup>2</sup> Wer sich dem Prüfungsgespräch unterziehen will, hat sich spätestens vier Monate vor dem Prüfungstermin mit einem schriftlichen Gesuch an die Präsidentin bzw. den Präsidenten der Anwaltsprüfungskommission des Kantons Zug zu wenden.
+
+<sup>3</sup> Dem Gesuch sind beizulegen:
+
+- a) die Bescheinigung über die Eintragung in der öffentlichen Liste nach Art. 28 BGFA[^20-2];
+- b) ein Lebenslauf mit genauer Angabe der bisherigen juristischen Betätigungen;
+- c) eine detaillierte Übersicht über die in der Schweiz ausgeübte praktische juristische Tätigkeit im schweizerischen Recht.
+
+<sup>4</sup> Die Präsidentin bzw. der Präsident entscheidet über die Zulassung zum Gespräch und legt mit dem Zulassungsentscheid im Rahmen des Bundesrechts den Gegenstand des Prüfungsgesprächs fest.
+
+[^20-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
+[^20-2]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
+
+#### § 21
+
+**Inhalt und Durchführung**
+
+<sup>1</sup> Das Prüfungsgespräch umfasst in der Regel folgende Gebiete des Bundesrechts und des zugerischen Rechts, jeweils inkl. Gerichtsorganisation bzw. Verwaltungsrechtspflege:
+
+- a) Zivilrecht und Zivilprozessrecht;
+- b) Strafrecht und Strafprozessrecht;
+- c) Schuldbetreibungs- und Konkursrecht;
+- d) Staats- und Verwaltungsrecht;
+- e) Anwaltsrecht.
+
+<sup>2</sup> Zeigt das Prüfungsgespräch, dass die beruflichen Fähigkeiten in allen oder einzelnen Rechtsgebieten ungenügend sind, ordnet die Kommission die einmalige vollständige oder teilweise Wiederholung an.
+
+<sup>3</sup> Im Übrigen gelten sinngemäss die Bestimmungen von § 6 Abs. 3.
+
+#### § 22
+
+**Fähigkeitsausweis**
+
+<sup>1</sup> Hat die Kandidatin bzw. der Kandidat das Prüfungsgespräch bestanden, erteilt die Kommission ihr bzw. ihm den entsprechenden Fähigkeitsausweis.
+
+<sup>2</sup> Für die Erteilung des Fähigkeitsausweises wird eine Gebühr erhoben.
+
+## 5. Kosten und Entschädigung
+
+#### § 23
 
 **Kosten**
 
@@ -232,29 +313,18 @@ beschliesst:
 
 <sup>2</sup> Die Höhe der Prüfungsgebühr sowie der Gebühr für die Erteilung des Anwaltspatentes bzw. der Fähigkeitsausweise wird vom Obergericht festgesetzt. Die Kosten der Ausstellung der Urkunde bestimmt die Kommission. Sie richtet sich nach den Gestehungskosten der Urkunde.
 
-#### § 20
+#### § 24
 
 **Entschädigung der Kommission**
 
-<sup>1</sup> Die Mitglieder der Kommission beziehen für Kommissionssitzungen und das Aktenstudium die für nebenamtliche Mitglieder der Gerichte vorgesehene Entschädigung. Die Entschädigung für Personen, welche hauptamtlich für den Kanton Zug tätig sind, richtet sich nach der Weisung des Obergerichts.
+<sup>1</sup> Das Obergericht legt die Entschädigung fest.
 
-## 5. Schluss- und Übergangsbestimmungen
+## 6. Berichterstattung
 
-#### § 21
+#### § 25
 
 **Bericht**
 
 <sup>1</sup> Über ihre Tätigkeit erstattet die Kommission dem Obergericht jährlich einen schriftlichen Bericht.
 
-#### § 22
-
-**Inkrafttreten und Übergangsbestimmung**
-
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2003 in Kraft. Sie ersetzt die Verordnung des Obergerichtes über die Fähigkeitsprüfung für den Rechtsanwaltsberuf vom 12. Juni 1951[^22-1] und die Verordnung des Obergerichtes über die Prüfung der Rechtsanwälte mit ausserkantonalem Patent für die Zulassung als Urkundsperson im Kanton Zug vom 16. Oktober 1951[^22-2].
-
-<sup>2</sup> …
-
-[^22-1]: GS 16, 513
-[^22-2]: GS 16, 539
-
-GS 27, 597
+GS 2021/059
