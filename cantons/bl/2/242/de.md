@@ -4,13 +4,12 @@ number: "242"
 title: Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung
 short: EG JStPO
 language: de
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-09-23
+version: 2022-01-01
+version_adopted: 2021-01-14
 adopted: 2010-09-23
 in_force: 2011-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/242"
-pdf: "https://bl.clex.ch/api/de/versions/306/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3151/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/306/pdf_file"
 
 (EG JStPO)
 
-Vom 23.09.2010 (Stand 01.01.2011)
+Vom 23.09.2010 (Stand 01.01.2022)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
@@ -132,6 +131,20 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 **Dienstordnung**
 
 <sup>1</sup> Der Regierungsrat erlässt die Dienstordnung der Jugendanwaltschaft.
+
+#### § 14a
+
+**Datenschutzberatung**
+
+<sup>1</sup> Die Jugendanwaltschaft bezeichnet eine Datenschutzberaterin oder einen Datenschutzberater.
+
+<sup>2</sup> Sie oder er:
+
+- a. berät und unterstützt bei der Bearbeitung von Personendaten,
+- b. nimmt Datenschutz-Folgenabschätzungen vor (§ 11a Informations- und Datenschutzgesetz, IDG[^14a-1]) und
+- c. arbeitet mit der Aufsichtsstelle Datenschutz (§ 35 IDG) zusammen.
+
+[^14a-1]: [SGS 162](https://bl.clex.ch/data/162/de/art11a)
 
 ## 3 Gerichte
 
