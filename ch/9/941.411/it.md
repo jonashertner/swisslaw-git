@@ -4,11 +4,11 @@ title: Ordinanza del 27 novembre 2000 sugli esplosivi (OEspl)
 short: OEspl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210401/it"
 
 (OEspl)
 
-del 27 novembre 2000 (Stato 1° aprile 2021)
+del 27 novembre 2000 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -324,10 +324,11 @@ Gli organismi preposti all’esame e alla valutazione della conformità, che red
 
 <sup>3</sup> Per verificare la conformità, gli organi di controllo sono autorizzati, durante il normale orario di lavoro, ad accedere e a visitare senza preavviso i locali di produzione e di deposito, a consultare documenti, a raccogliere informazioni, a ordinare prove ed esami nonché a chiedere o prelevare campioni.
 
-<sup>4</sup> L’UCEP può chiedere che l’Amministrazione delle dogane gli notifichi, per un determinato periodo, l’importazione di esplosivi. Deve designarli esattamente.
+<sup>4</sup> L’UCEP può chiedere che l’Ufficio federale della dogana e della sicurezza dei confini[^16-3] gli notifichi, per un determinato periodo, l’importazione di esplosivi. Deve designarli esattamente.
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^16-2]: Nuova espr. giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^16-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 17
 
@@ -1655,7 +1656,7 @@ Il capo minatore dà i seguenti segnali d’avvertimento:
 
 Gli esplosivi e i pezzi pirotecnici che non possono essere distrutti in base all’articolo 108 sono smaltiti dal proprietario in modo rispettoso dell’ambiente o riconsegnati a tale scopo al fabbricante.
 
-## Titolo 9: Registri, sorveglianza, tasse e collaborazione tecnico-scientifica
+## Titolo 9: Registri, sorveglianza, tasse e collaborazione tecnico-scientifica****
 
 [^tit9-1]
 
@@ -1719,7 +1720,7 @@ Gli invii sono trattenuti e annunciati alla SECO, se:
 - a. manca l’autorizzazione d’esportazione;
 - b. per il transito manca la prova della fornitura giuridicamente conforme (art. 25 dell’O del 25 giu. 1977[^112-1] sul controllo dei beni a duplice impiego).
 
-[^112-1]: [[RU 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704), [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 11, [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)n. II, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 43537, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 63, [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)all. 4 n. II 3, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 22, [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569), [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)all. 6 n. II 1 [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)appendice 2 n. 4, [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446)[4553](https://fedlex.data.admin.ch/eli/oc/2014/760), [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83). [RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)art. 30]. Vedi ora l’O del 3 giu. 2016 ([RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)).
+[^112-1]: [[RU 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)n. II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 43537; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)all. 4 n. II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)all. 6 n. II 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)appendice 2 n. 4; [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446), [4553](https://fedlex.data.admin.ch/eli/oc/2014/760); [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83). [RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)art. 30]. Vedi ora l’O del 3 giu. 2016 ([RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)).
 
 ### Capitolo 3: Tasse
 
@@ -1786,7 +1787,7 @@ Alle tasse sono aggiunti gli esborsi relativi ai costi supplementari, segnatamen
 - b. le spese di viaggio e di trasporto;
 - c. i costi per i compiti che l’autorità competente fa eseguire a terzi.
 
-### Capitolo 4: Collaborazione tecnico-scientifica
+### Capitolo 4: Collaborazione tecnico-scientifica****
 
 [^tit9-chap4-1]
 
@@ -1800,7 +1801,7 @@ L’UCEP può collaborare con servizi tecnico-scientifici, in particolare con il
 
 [^117-1]: Nuovo testo giusta l’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
-## Titolo 9*a*: Banca dati BARBARA
+## Titolo 9*a*:**** Banca dati BARBARA
 
 [^tit9a-1]
 
@@ -2031,7 +2032,7 @@ I pezzi pirotecnici la cui fabbricazione o importazione è stata autorizzata sec
 
 L’ordinanza sugli esplosivi del 26 marzo 1980[^120-1] è abrogata.
 
-[^120-1]: [[RU 1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536), [1984 424](https://fedlex.data.admin.ch/eli/oc/1984/424_424_424), [1990 1982](https://fedlex.data.admin.ch/eli/oc/1990/1982_1982_1982), [1998 993](https://fedlex.data.admin.ch/eli/oc/1998/993_993_993), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 9 [291](https://fedlex.data.admin.ch/eli/oc/2000/57)n. II 8]
+[^120-1]: [[RU 1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536); [1984 424](https://fedlex.data.admin.ch/eli/oc/1984/424_424_424); [1990 1982](https://fedlex.data.admin.ch/eli/oc/1990/1982_1982_1982); [1998 993](https://fedlex.data.admin.ch/eli/oc/1998/993_993_993); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 9, [291](https://fedlex.data.admin.ch/eli/oc/2000/57)n. II 8]
 
 #### Art. 121
 
@@ -2211,7 +2212,7 @@ S = Deposito o magazzino di esplosivi
 
 h = Altezza del terrapieno, almeno pari all’altezza del deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image1.png)
 
 Allegato 6
 
@@ -2219,7 +2220,7 @@ Allegato 6
 
 ## Deposito o magazzino di esplosivi sotterraneo in roccia asciutta e compatta
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image2.png)
 
 <table>
 <tr><td>Quantità di materie esplosive in kg e per caverna Quantità depositata (M)</td><td colspan="2">L = Lunghezza dell’accesso in m</td><td>Copertura R in m</td></tr>
@@ -2245,7 +2246,7 @@ Allegato 7
 
 ## Distanze minime fra gli edifici adibiti a deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image3.png)
 
 L = Quantità depositata in chilogrammi
 
@@ -2261,7 +2262,7 @@ Allegato 8.1[^t-4]
 
 [^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image4.png)
 
 - Soletta e pareti esterne: calcestruzzo secondo SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
 - Pavimento: calcestruzzo secondo SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
@@ -2281,7 +2282,7 @@ Lastra di protezione: lamiera d’acciaio 5 mm: perforata Ø 10 mm
 
 Griglia di protezione: filo d’acciaio Ø 2 mm: larghezza di maglia 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image5.png)
 
 Allegato 9.1
 
@@ -2289,7 +2290,7 @@ Allegato 9.1
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image6.png)
 
 Allegato 9.2
 
@@ -2297,9 +2298,9 @@ Allegato 9.2
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image8.png)
 
 Allegato 10.1[^t-5]
 
@@ -2309,7 +2310,7 @@ Allegato 10.1[^t-5]
 
 [^t-5]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image9.png)
 
 A = mezzi d’innesco
 
@@ -2347,7 +2348,7 @@ Allegato 11.1
 
 ## Contenitori per esplosivi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image12.png)
 
 Legenda:
 
@@ -2363,7 +2364,7 @@ Allegato 11.2
 
 ## Contenitori per il trasporto
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image13.png)
 
 Legenda:
 
@@ -2416,7 +2417,7 @@ Le disposizioni del presente allegato non si applicano:
 - a. una parte leggibile a occhio nudo contenente il nome del fabbricante, un codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione, di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP), del codice univoco del prodotto e delle informazioni logistiche indicate dal fabbricante;
 - b. un numero d’identificazione a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico secondo l’esempio qui riportato:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image14.png)
 
 <sup>5</sup> Qualora le dimensioni troppo ridotte degli articoli non consentano di contrassegnarli con l’identificazione univoca completa ai sensi del capoverso 4, sono sufficienti il codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione e di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP) nonché un identificativo a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico.
 
@@ -2641,7 +2642,7 @@ vuoto = nessun accesso
 ### Fornitori di servizi informatici fedpol
 
 <table>
-<tr><th></th><th>Dati sulle autorizzazioni (DANTRAG)</th><th>Dati amministrativi (DANTRAG)</th><th>Dati sugli eventi (EREIGNISSE)</th><th>Biblioteca (BIBLIOTHEK)</th></tr>
+<tr><th></th><th>Dati sulleautorizzazioni (DANTRAG)</th><th>Dati amministrativi (DANTRAG)</th><th>Dati sugli eventi (EREIGNISSE)</th><th>Biblioteca (BIBLIOTHEK)</th></tr>
 <tr><td>Responsabile di progetto e amministratori di sistema</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 </table>
 

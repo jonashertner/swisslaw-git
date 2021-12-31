@@ -4,11 +4,11 @@ title: Sprengstoffverordnung vom 27. November 2000 (SprstV)
 short: SprstV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210401/de"
 
 (Sprengstoffverordnung, SprstV)
 
-vom 27. November 2000 (Stand am 1. April 2021)
+vom 27. November 2000 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -189,7 +189,7 @@ Die Bestimmungen dieses Kapitels gelten nicht:
 
 - a.[^8-6] für Sprengmittel, die in geringen Mengen Zwecken der Wissenschaft, Forschung oder Entwicklung oder für Prüfungen dienen;
 - b. mit Ausnahme von Artikel 19 für Sprengmittel, die für den Verkehr bei der Polizei bestimmt sind;
-- c. [^8-7] ...
+- c. [^8-7] …
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^8-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
@@ -322,10 +322,11 @@ Prüf- oder Konformitätsbewertungsstellen, die Berichte oder Bescheinigungen au
 
 <sup>3</sup> Zur Überprüfung der Konformität sind die Kontrollorgane befugt, während der üblichen Arbeitszeit unangemeldet Betriebs- und Lagerräume zu betreten und zu besichtigen, Unterlagen einzusehen, Auskünfte einzuholen, Prüfungen zu veranlassen sowie Proben zu fordern oder zu entnehmen.
 
-<sup>4</sup> Die ZSP kann von der Zollverwaltung für eine festgesetzte Dauer Meldungen über die Einfuhr von Sprengmittelsendungen verlangen. Sie muss die Sendungen genau bezeichnen.
+<sup>4</sup> Die ZSP kann vom Bundesamt für Zoll und Grenzsicherheit[^16-3] für eine festgesetzte Dauer Meldungen über die Einfuhr von Sprengmittelsendungen verlangen. Sie muss die Sendungen genau bezeichnen.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^16-2]: Ausdruck gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^16-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 17
 
@@ -897,7 +898,7 @@ Geprüft werden:
 
 <sup>2</sup> Der Ausweis wird vom SBFI ausgestellt. Er ist von der Präsidentin oder vom Präsidenten eines Kreises der Prüfungskommission und von einer Vertreterin oder einem Vertreter des SBFI unterzeichnet.[^57-1]
 
-<sup>3</sup> ...[^57-2]
+<sup>3</sup> …[^57-2]
 
 [^57-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 [^57-2]: Aufgehoben durch Ziff. I der V vom 12. Mai 2010, mit Wirkung seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
@@ -1955,11 +1956,11 @@ Das Eidgenössische Justiz- und Polizeidepartement kann die Anhänge 1–16 neue
 
 **Übergangsbestimmungen zur Änderung vom 12. Mai 2010**[^119a-1]
 
-<sup>1</sup> und <sup>2</sup> ...[^119a-2]
+<sup>1</sup> und <sup>2</sup> …[^119a-2]
 
 <sup>3</sup> Beim Inkrafttreten der Änderung vom 12. Mai 2010 muss für pyrotechnische Gegenstände, deren Zulassung nach bisherigem Recht erteilt wurde und noch nicht abgelaufen ist, keine Konformitätserklärung vorgelegt werden. Die Befreiung von dieser Pflicht gilt bis zum Ablauf der Zulassung, längstens jedoch bis zum 3. Juli 2017.
 
-<sup>4</sup> ...[^119a-3]
+<sup>4</sup> …[^119a-3]
 
 <sup>5</sup> Gibt es für einen pyrotechnischen Gegenstand die für das Konformitätsbewertungsverfahren nach Artikel 25 erforderlichen Normen noch nicht, so ist die ZSP für die Zulassung nach Anhang 16 zuständig*.*
 
@@ -2005,7 +2006,7 @@ Bewilligungen für die Herstellung und die Einfuhr von pyrotechnischen Gegenstä
 
 <sup>2</sup> Vor dem 3. Juli 2017 erteilte Herstellungs- und Einfuhrbewilligungen bleiben bis zum Ablauf ihrer Gültigkeit gültig.
 
-<sup>3</sup> ...[^119d-2]
+<sup>3</sup> …[^119d-2]
 
 [^119d-1]: Eingefügt durch Ziff. I der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
 [^119d-2]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 1. Febr. 2021 ([AS 2020 5763](https://fedlex.data.admin.ch/eli/oc/2020/968)).
@@ -2024,7 +2025,7 @@ Pyrotechnische Gegenstände, für die eine Herstellungs- oder Einfuhrbewilligung
 
 Die Sprengstoffverordnung vom 26. März 1980[^120-1] wird aufgehoben.
 
-[^120-1]: [[AS 1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536), [1990 1982](https://fedlex.data.admin.ch/eli/oc/1990/1982_1982_1982), [1998 993](https://fedlex.data.admin.ch/eli/oc/1998/993_993_993), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 9 [291](https://fedlex.data.admin.ch/eli/oc/2000/57)Anhang Ziff. II 8]
+[^120-1]: [[AS 1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536); [1990 1982](https://fedlex.data.admin.ch/eli/oc/1990/1982_1982_1982); [1998 993](https://fedlex.data.admin.ch/eli/oc/1998/993_993_993); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 9, [291](https://fedlex.data.admin.ch/eli/oc/2000/57)Anhang Ziff. II 8]
 
 #### Art. 121
 
@@ -2185,7 +2186,7 @@ Anhang 5
 <tr><td>5 000</td><td>120</td><td>305</td><td>600</td></tr>
 <tr><td>10 000</td><td>150</td><td>390</td><td>755</td></tr>
 <tr><td>20 000</td><td>190</td><td>490</td><td>950</td></tr>
-<tr><td>...</td><td>...</td><td>...</td><td>...</td></tr>
+<tr><td>…</td><td>…</td><td>…</td><td>…</td></tr>
 <tr><td colspan="4">[tab] Die Zahlen in der Tabelle sind auf die nächste Fünfereinheit gerundet.</td></tr>
 </table>
 
@@ -2198,7 +2199,7 @@ Legende:
 - S = Sprengmittellager oder -magazin
 - h = Wallhöhe, mindestens Höhe Sprengmittellager oder -magazin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image1.png)
 
 Anhang 6
 
@@ -2206,7 +2207,7 @@ Anhang 6
 
 ## Unterirdisches Sprengmittellager oder -magazin in trockenem und standfestem Fels
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image2.png)
 
 (Tabelle siehe folgende Seite)
 
@@ -2223,7 +2224,7 @@ Anhang 6
 <tr><td>10 000</td><td>300</td><td colspan="2">200</td><td>50</td></tr>
 <tr><td>15 000</td><td>365</td><td colspan="2">245</td><td>55</td></tr>
 <tr><td>20 000</td><td>425</td><td colspan="2">285</td><td>60</td></tr>
-<tr><td>...</td><td>...</td><td colspan="2">...</td><td>...</td></tr>
+<tr><td>…</td><td>…</td><td colspan="2">…</td><td>…</td></tr>
 <tr><td colspan="5">[tab] Die Zahlen in der Tabelle sind auf die nächste Fünfereinheit gerundet.</td></tr>
 </table>
 
@@ -2233,7 +2234,7 @@ Anhang 7
 
 ## Mindestabstände zwischen Lager- oder Magazingebäuden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image3.png)
 
 rK = 0,7·L<sup>(1/3)</sup>
 
@@ -2245,7 +2246,7 @@ Anhang 8.1[^t-4]
 
 [^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image4.png)
 
 Decke und Aussenwände, Boden und Armierung
 
@@ -2265,7 +2266,7 @@ Schutzkappe: Stahlblech 5 mm: gelocht X 10 mm
 
 Schutzgitter: Stahldraht X 2 mm: Maschenweite 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image5.png)
 
 Anhang 9.1
 
@@ -2273,7 +2274,7 @@ Anhang 9.1
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image6.png)
 
 Anhang 9.2
 
@@ -2281,9 +2282,9 @@ Anhang 9.2
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image8.png)
 
 Anhang 10.1[^t-5]
 
@@ -2293,7 +2294,7 @@ Anhang 10.1[^t-5]
 
 [^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image9.png)
 
 A = Zündmittel
 
@@ -2335,7 +2336,7 @@ Anhang 11.1
 
 ## Sprengmittelbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image13.png)
 
 Legende:
 
@@ -2351,7 +2352,7 @@ Anhang 11.2
 
 ## Transportbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image14.png)
 
 Legende:
 
@@ -2404,7 +2405,7 @@ Die Bestimmungen dieses Anhangs gelten nicht für:
 - a. einen von blossem Auge lesbaren Teil mit dem Namen des Herstellers und einem alphanumerischen Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland, 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSP zugeteilt), einem eindeutigen Produktecode und logistischen Informationen des Herstellers;
 - b. eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht nach dem folgenden Beispiel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image15.png)
 
 <sup>5</sup> Sind die Artikel zu klein für eine vollständige eindeutige Kennzeichnung nach Absatz 4, so genügen der alphanumerische Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland und 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSP zugeteilt) sowie eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht.
 
