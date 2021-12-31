@@ -3,11 +3,11 @@ sr: "0.360.514.2"
 title: "Rahmenvertrag vom 3. Dezember 2008 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über die Zusammenarbeit im Bereich des Visumverfahrens, der Einreise und des Aufenthalts sowie über die polizeiliche Zusammenarbeit im Grenzraum"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/151"
 language: de
-version: 2011-12-19
+version: 2022-01-01
 adopted: 2008-12-03
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/151/20111219/de/xml/fedlex-data-admin-ch-eli-cc-2009-151-20111219-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/151/20111219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/151/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-151-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/151/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ab Inkraftsetzung des Schengen-Besitzstands für die Schweiz am 12. Dezember 200
 
 In Kraft getreten am 19. Dezember 2011[^t-3]
 
-(Stand am 19. Dezember 2011)
+(Stand am 1. Januar 2022)
 
 [^t-1]: [AS 2012 511](https://fedlex.data.admin.ch/eli/oc/2012/78)
 [^t-2]: [AS 2009 977](https://fedlex.data.admin.ch/eli/oc/2009/151)
@@ -182,25 +182,31 @@ Die Einzelheiten im Bereich des Aufenthalts werden in einer Vereinbarung gemäss
 
 **Grundsatz**
 
-<sup>1.</sup> Liechtenstein überträgt der aufgrund des Zollvertrages auf seinem Staatsgebiet zuständigen Eidgenössischen Zollverwaltung nach Massgabe dieses Abschnitts polizeiliche Aufgaben und Befugnisse an der liechtensteinisch-österreichischen Binnengrenze und im Grenzraum.
+<sup>1.</sup> Liechtenstein überträgt der aufgrund des Zollvertrages auf seinem Staatsgebiet zuständigen Eidgenössischen Zollverwaltung[^13-1] nach Massgabe dieses Abschnitts polizeiliche Aufgaben und Befugnisse an der liechtensteinisch-österreichischen Binnengrenze und im Grenzraum.
 
 <sup>2.</sup> Als Grenzraum gilt ein Geländestreifen entlang der Zollgrenze. Dieser umfasst im Talgebiet das Territorium der Gemeinden mit einer Grenze zu Österreich (Mauren, Schellenberg und Ruggell) sowie die über das Staatsgebiet Liechtensteins führende Bahnlinie.
 
 <sup>3.</sup> Aufgaben und Befugnisse der liechtensteinischen Polizeibehörden auf dem gesamten Staatsgebiet Liechtensteins bleiben davon unberührt.
 
+[^13-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (BAZG) (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 #### Art. 14
 
 **Polizeiliche Befugnisse und Massnahmen**
 
-<sup>1.</sup> Die Aufgaben und Befugnisse der Eidgenössischen Zollverwaltung beschränken sich auf die unaufschiebbaren polizeilichen Massnahmen bis zur ehestmöglichen Übergabe des Falles an die liechtensteinischen Behörden (Gefahrenabwehr, Fahndungs-, Feststellungs-, Anhaltungs- und Sicherungskompetenzen). In einfachen Fällen kann auch die Ermittlungs- und Enderledigungskompetenz delegiert werden, sofern keine gerichtliche Rapportierung erforderlich ist.
+<sup>1.</sup> Die Aufgaben und Befugnisse der Eidgenössischen Zollverwaltung[^14-1] beschränken sich auf die unaufschiebbaren polizeilichen Massnahmen bis zur ehestmöglichen Übergabe des Falles an die liechtensteinischen Behörden (Gefahrenabwehr, Fahndungs-, Feststellungs-, Anhaltungs- und Sicherungskompetenzen). In einfachen Fällen kann auch die Ermittlungs- und Enderledigungskompetenz delegiert werden, sofern keine gerichtliche Rapportierung erforderlich ist.
 
 <sup>2.</sup> Absatz 1 gilt auch bei Vorliegen eines Anfangsverdachtes im Rahmen der Zollkontrolle an der liechtensteinisch-österreichischen Binnengrenze.
 
-<sup>3.</sup> Im Berggebiet kann die Eidgenössische Zollverwaltung die notwendigen Abklärungen zur polizeilichen Lagebeurteilung und zur Entwicklung von diesbezüglichen Lagebildern durchführen. Präventive polizeiliche Einsätze, welche sich nicht auf das Gebiet an der Grenze zu Österreich beschränken, erfolgen nach Massgabe des Absatzes 4.
+<sup>3.</sup> Im Berggebiet kann die Eidgenössische Zollverwaltung[^14-2] die notwendigen Abklärungen zur polizeilichen Lagebeurteilung und zur Entwicklung von diesbezüglichen Lagebildern durchführen. Präventive polizeiliche Einsätze, welche sich nicht auf das Gebiet an der Grenze zu Österreich beschränken, erfolgen nach Massgabe des Absatzes 4.
 
-<sup>4.</sup> Die liechtensteinischen Polizeibehörden und die Eidgenössische Zollverwaltung führen ausserdem gemeinsame Kontrollen innerhalb oder ausserhalb des Grenzraumes durch, welche unter der Einsatzleitung der liechtensteinischen Landespolizei stehen.
+<sup>4.</sup> Die liechtensteinischen Polizeibehörden und die Eidgenössische Zollverwaltung[^14-3] führen ausserdem gemeinsame Kontrollen innerhalb oder ausserhalb des Grenzraumes durch, welche unter der Einsatzleitung der liechtensteinischen Landespolizei stehen.
 
 <sup>5.</sup> Die Durchführung gemeinsamer Kontrollen erfolgt lagebezogen und nach Massgabe der vorhandenen Ressourcen. Die schweizerischen Interessen werden dabei berücksichtigt.
+
+[^14-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (BAZG) (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^14-2]: Heute: Bundesamt für Zoll und Grenzsicherheit (BAZG) (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^14-3]: Heute: Bundesamt für Zoll und Grenzsicherheit (BAZG) (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 15
 
@@ -257,8 +263,8 @@ Mit diesem Rahmenvertrag werden aufgehoben:
 - 6\. Notenaustausch vom 30. Mai 2003[^19-6] zwischen dem Schweizerischen Bundesrat und der Regierung des Fürstentums Liechtenstein über die Umsetzung des Protokolls über den Personenverkehr im Rahmen der Änderung des EFTA-Übereinkommens;
 - 7\. Zweiter Notenaustausch vom 21. Dezember 2004[^19-7] zwischen dem Schweizerischen Bundesrat und der Regierung des Fürstentums Liechtenstein über die Umsetzung des Protokolls über den Personenverkehr im Rahmen der Änderung des EFTA-Übereinkommens.
 
-[^19-1]: [[AS 1964 1](https://fedlex.data.admin.ch/eli/oc/1964/1_1_1), [1995 3815](https://fedlex.data.admin.ch/eli/oc/1995/3815_3815_3815), [1998 2315](https://fedlex.data.admin.ch/eli/oc/1998/2315_2315_2315), [2003 900](https://fedlex.data.admin.ch/eli/oc/2003/162), [2005 327](https://fedlex.data.admin.ch/eli/oc/2005/44)]
-[^19-2]: [[AS 1964 5](https://fedlex.data.admin.ch/eli/oc/1964/5_5_5), [1995 3818](https://fedlex.data.admin.ch/eli/oc/1995/3818_3818_3818), [1998 2594](https://fedlex.data.admin.ch/eli/oc/1998/2594_2594_2594)]
+[^19-1]: [[AS 1964 1](https://fedlex.data.admin.ch/eli/oc/1964/1_1_1); [1995 3815](https://fedlex.data.admin.ch/eli/oc/1995/3815_3815_3815); [1998 2315](https://fedlex.data.admin.ch/eli/oc/1998/2315_2315_2315); [2003 900](https://fedlex.data.admin.ch/eli/oc/2003/162); [2005 327](https://fedlex.data.admin.ch/eli/oc/2005/44)]
+[^19-2]: [[AS 1964 5](https://fedlex.data.admin.ch/eli/oc/1964/5_5_5); [1995 3818](https://fedlex.data.admin.ch/eli/oc/1995/3818_3818_3818); [1998 2594](https://fedlex.data.admin.ch/eli/oc/1998/2594_2594_2594)]
 [^19-3]: [[AS 1995 3815](https://fedlex.data.admin.ch/eli/oc/1995/3815_3815_3815)]
 [^19-4]: [[AS 1995 3818](https://fedlex.data.admin.ch/eli/oc/1995/3818_3818_3818)]
 [^19-5]: [[AS 2003 900](https://fedlex.data.admin.ch/eli/oc/2003/162)]
@@ -294,4 +300,4 @@ Staatsvertragliche Verpflichtungen, welche die Vertragsparteien mit anderen Staa
 
 <sup>2.</sup> Ab Inkraftsetzung des Schengen-Besitzstands für die Schweiz werden die Artikel 13, 14, 16, 17 Absatz 1 und 2 sowie Artikel 18 vorläufig angewendet.
 
-*Zu Urkund dessen* haben die Bevollmächtigten diesen Rahmenvertrag mit ihren Unterschriften versehen. Geschehen in Bern, in doppelter Ausfertigung in deutscher Sprache am 3. Dezember 2008. Für die Schweizerische Eidgenossenschaft: Für das Fürstentum Liechtenstein: Eveline Widmer-Schlumpf Otmar Hasler
+*Zu Urkund dessen* haben die Bevollmächtigten diesen Rahmenvertrag mit ihren Unterschriften versehen. Geschehen in Bern, in doppelter Ausfertigung in deutscher Sprache am 3. Dezember 2008. Für die Schweizerische Eidgenossenschaft: Eveline Widmer-Schlumpf Für das Fürstentum Liechtenstein: Otmar Hasler

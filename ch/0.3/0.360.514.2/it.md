@@ -3,11 +3,11 @@ sr: "0.360.514.2"
 title: "Accordo quadro del 3 dicembre 2008 tra la Confederazione Svizzera e il Principato del Liechtenstein sulla cooperazione in materia di rilascio del visto, di entrata e di soggiorno nonché sulla cooperazione di polizia nell'area di confine"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/151"
 language: it
-version: 2011-12-19
+version: 2022-01-01
 adopted: 2008-12-03
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/151/20111219/it/xml/fedlex-data-admin-ch-eli-cc-2009-151-20111219-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/151/20111219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/151/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-151-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/151/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2012** 513; FF **2009** 1153
 
 Traduzione
 
-Concluso il 3 dicembre 2008
+Concluso il 3 dicembre 2008 Approvato dall’Assemblea federale il 12 giugno 2009[^t-1] Dall’entrata in vigore della normativa di Schengen per la Svizzera, il 12 dicembre 2008, gli articoli 13, 14, 16, 17 paragrafi 1 e 2 nonché 18 erano applicati provvisoriamente[^t-2] Entrato in vigore il 19 dicembre 2011[^t-3]
 
-Approvato dall’Assemblea federale il 12 giugno 2009[^t-1]
-
-Dall’entrata in vigore della normativa di Schengen per la Svizzera, il 12 dicembre 2008, gli articoli 13, 14, 16, 17 paragrafi 1 e 2 nonché 18 erano applicati provvisoriamente[^t-2]
-
-Entrato in vigore il 19 dicembre 2011[^t-3]
-
-(Stato 19 dicembre 2011)
+(Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: [RU 2012 511](https://fedlex.data.admin.ch/eli/oc/2012/78)
 [^t-2]: [RU 2009 977](https://fedlex.data.admin.ch/eli/oc/2009/151)
@@ -184,25 +178,31 @@ I dettagli in materia di soggiorno sono disciplinati in un accordo secondo l’a
 
 **Principio**
 
-<sup>1.</sup> Conformemente alla presente sezione, il Liechtenstein attribuisce all’Amministrazione federale delle dogane, competente per il suo territorio in virtù dell’accordo doganale, le mansioni e i poteri di polizia alla frontiera interna tra il Liechtenstein e l’Austria e nell’area di confine.
+<sup>1.</sup> Conformemente alla presente sezione, il Liechtenstein attribuisce all’Amministrazione federale delle dogane[^13-1], competente per il suo territorio in virtù dell’accordo doganale, le mansioni e i poteri di polizia alla frontiera interna tra il Liechtenstein e l’Austria e nell’area di confine.
 
 <sup>2.</sup> È considerata area di confine la striscia di terreno che fiancheggia la frontiera doganale. Questa comprende, nel fondovalle, il territorio dei Comuni confinanti con l’Austria (Mauren, Schellenberg e Ruggell) nonché la linea ferroviaria che attraversa il territorio del Liechtenstein.
 
 <sup>3.</sup> Le mansioni e le competenze delle autorità di polizia del Liechtenstein sull’insieme del loro territorio nazionale restano intatte.
 
+[^13-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 #### Art. 14
 
 **Competenze e provvedimenti di polizia**
 
-<sup>1.</sup> Fino al trasferimento, per quanto possibile tempestivo, del caso alle autorità del Liechtenstein, le mansioni e le competenze dell’Amministrazione federale delle dogane si limitano alle misure di polizia indifferibili (prevenzione delle minacce, competenze in materia di ricerca, di accertamento, di fermo e di sicurezza). In casi semplici può essere delegata anche la competenza d’indagine e la competenza per la decisione finale, purché non sia necessario un rapporto giudiziario.
+<sup>1.</sup> Fino al trasferimento, per quanto possibile tempestivo, del caso alle autorità del Liechtenstein, le mansioni e le competenze dell’Amministrazione federale delle dogane[^14-1] si limitano alle misure di polizia indifferibili (prevenzione delle minacce, competenze in materia di ricerca, di accertamento, di fermo e di sicurezza). In casi semplici può essere delegata anche la competenza d’indagine e la competenza per la decisione finale, purché non sia necessario un rapporto giudiziario.
 
 <sup>2.</sup> Il paragrafo 1 si applica anche in presenza di un sospetto sorto in occasione del controllo doganale alla frontiera interna tra il Liechtenstein e l’Austria.
 
-<sup>3.</sup> Nelle regioni di montagna, l’Amministrazione federale delle dogane può effettuare i necessari accertamenti per valutare la situazione in un’ottica di polizia e allestire i rapporti del caso. Agli interventi di polizia di carattere preventivo effettuati al di fuori dell’area di confine con l’Austria si applica il paragrafo 4.
+<sup>3.</sup> Nelle regioni di montagna, l’Amministrazione federale delle dogane[^14-2] può effettuare i necessari accertamenti per valutare la situazione in un’ottica di polizia e allestire i rapporti del caso. Agli interventi di polizia di carattere preventivo effettuati al di fuori dell’area di confine con l’Austria si applica il paragrafo 4.
 
-<sup>4.</sup> Le autorità di polizia del Liechtenstein e l’Amministrazione federale delle dogane svolgono inoltre controlli comuni dentro e fuori l’area di confine, sotto la responsabilità della polizia nazionale del Liechtenstein.
+<sup>4.</sup> Le autorità di polizia del Liechtenstein e l’Amministrazione federale delle dogane[^14-3] svolgono inoltre controlli comuni dentro e fuori l’area di confine, sotto la responsabilità della polizia nazionale del Liechtenstein.
 
 <sup>5.</sup> I controlli comuni sono eseguiti in funzione della situazione specifica e delle risorse disponibili. In tale contesto è tenuto conto degli interessi della Svizzera.
+
+[^14-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^14-2]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^14-3]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 15
 

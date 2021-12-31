@@ -3,11 +3,11 @@ sr: "0.360.514.2"
 title: "Accord-cadre du 3 décembre 2008 entre la Confédération suisse et la Principauté de Liechtenstein sur la collaboration concernant la procédure de visa, l'entrée et le séjour ainsi que sur la coopération policière dans la zone frontalière"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/151"
 language: fr
-version: 2011-12-19
+version: 2022-01-01
 adopted: 2008-12-03
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/151/20111219/fr/xml/fedlex-data-admin-ch-eli-cc-2009-151-20111219-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/151/20111219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/151/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-151-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/151/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,22 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/151/20111219/fr"
 
 RO **2012** 513; FF **2009** 1217
 
-Traduction*[^t-1]*
+Traduction
 
-Conclu le 3 décembre 2008
+Conclu le 3 décembre 2008 Approuvé par l’Assemblée fédérale le 12 juin 2009[^t-1] Dès la mise en application de l’acquis de Schengen en Suisse le 12 décembre 2008, les art. 13, 14, 16, 17, al. 1 et 2, et 18 ont été appliqués à titre provisoire[^t-2] Entré en vigueur le 19 décembre 2011[^t-3]
 
-Approuvé par l’Assemblée fédérale le 12 juin 2009[^t-2]
+(Etat le 1<sup>er</sup> janvier 2022)
 
-Dès la mise en application de l’acquis de Schengen en Suisse le 12 décembre 2008, les art. 13, 14, 16, 17, al. 1 et 2, et 18 ont été appliqués à titre provisoire[^t-3]
-
-Entré en vigueur le 19 décembre 2011[^t-4]
-
-(Etat le 19 décembre 2011)
-
-[^t-1]: Texte original allemand.
-[^t-2]: [RO 2012 511](https://fedlex.data.admin.ch/eli/oc/2012/78)
-[^t-3]: [RO 2009 977](https://fedlex.data.admin.ch/eli/oc/2009/151)
-[^t-4]: Sur la base de la notification du Liechtenstein du 13 déc. 2011 ainsi que de la notification suisse du 23 nov. 2009 et puisque l’acquis de Schengen a été mis en application par les deux Parties contractantes (le 19 déc. 2011 pour le Liechtenstein).
+[^t-1]: [RO 2012 511](https://fedlex.data.admin.ch/eli/oc/2012/78)
+[^t-2]: [RO 2009 977](https://fedlex.data.admin.ch/eli/oc/2009/151)
+[^t-3]: Sur la base de la notification du Liechtenstein du 13 déc. 2011 ainsi que de la notification suisse du 23 nov. 2009 et puisque l’acquis de Schengen a été mis en application par les deux Parties contractantes (le 19 déc. 2011 pour le Liechtenstein).
 
 La Confédération suisse, ci-après dénommée «la Suisse» et la Principauté de Liechtenstein, ci-après dénommée «le Liechtenstein»
 
@@ -45,7 +38,7 @@ vu l’Accord du 2 mai 1992 sur l’Espace économique européen (Accord EEE)[^i
 
 vu l’Accord du 27 avril 1999 entre la Confédération suisse, la République d’Autriche et la Principauté de Liechtenstein concernant la coopération transfrontalière des autorités compétentes en matière de sécurité et de douane (accord tripartite sur la coopération policière)[^ingress-3],
 
-vu l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses Etats membres, d’autre part, sur la libre circulation des personnes (ALCP)[^ingress-4],
+vu l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes (ALCP)[^ingress-4],
 
 vu la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (Convention instituant l’AELE)[^ingress-5], dans la version consolidée du 21 juin 2001 amendant la Convention instituant l’Association européenne de libre-échange[^ingress-6],
 
@@ -86,7 +79,7 @@ L’accord-cadre est complété, au besoin, par des accords d’exécution.
 
 Sur mandat et en suppléance du Liechtenstein, la Suisse délivre:
 
-- a. des visas Schengen conformément aux dispositions idoines de l’acquis de Schengen; et
+- a. des visas Schengen conformément aux dispositions idoines de l’acquis de Schengen, et
 - b. des visas nationaux conformément aux dispositions idoines du Liechtenstein.
 
 <sup>2.</sup> Les autorités liechtensteinoises statuent sur l’octroi ou le refus en accord avec les autorités suisses.
@@ -99,7 +92,7 @@ Sur mandat et en suppléance du Liechtenstein, la Suisse délivre:
 
 **Suppléance**
 
-Si l’une des Parties contractantes a l’intention d’appeler un autre Etat à le représenter au sens des dispositions idoines de l’acquis de Schengen, elle en informe à temps l’autre Partie contractante. L’information est transmise par le truchement de la commission mixte visée à l’art. 18 ou par voie diplomatique. Les desiderata et les intérêts mutuels sont dûment pris en considération.
+Si l’une des Parties contractantes a l’intention d’appeler un autre État à le représenter au sens des dispositions idoines de l’acquis de Schengen, elle en informe à temps l’autre Partie contractante. L’information est transmise par le truchement de la commission mixte visée à l’art. 18 ou par voie diplomatique. Les desiderata et les intérêts mutuels sont dûment pris en considération.
 
 #### Art. 5
 
@@ -124,7 +117,7 @@ Les modalités relatives à la procédure de visa et à l’entrée sont réglé
 
 #### Art. 7
 
-**Etablissement**
+**Établissement**
 
 <sup>1.</sup> Les ressortissants suisses résidant au Liechtenstein et les ressortissants liechtensteinois résidant en Suisse reçoivent une autorisation d’établissement après un séjour ininterrompu et régulier de cinq ans.
 
@@ -177,25 +170,31 @@ Les modalités relatives au séjour sont réglées dans un accord d’exécution
 
 **Principe**
 
-<sup>1.</sup> Le Liechtenstein délègue à l’Administration fédérale des douanes, qui est compétente sur le territoire liechtensteinois en vertu du traité douanier, des tâches et des compétences policières à la frontière intérieure austro-liechtensteinoise et dans la zone frontalière, conformément aux dispositions de la présente section.
+<sup>1.</sup> Le Liechtenstein délègue à l’Administration fédérale des douanes[^13-1], qui est compétente sur le territoire liechtensteinois en vertu du traité douanier, des tâches et des compétences policières à la frontière intérieure austro-liechtensteinoise et dans la zone frontalière, conformément aux dispositions de la présente section.
 
 <sup>2.</sup> Est considérée comme zone frontalière une bande de terrain longeant la frontière douanière. Elle englobe, dans la vallée, le territoire des communes limitrophes de l’Autriche (Mauren, Schellenberg et Ruggell) ainsi que la ligne de chemin de fer traversant le territoire liechtensteinois.
 
 <sup>3.</sup> Il n’est pas porté atteinte aux tâches et aux compétences des autorités de police liechtensteinoises sur l’ensemble du territoire national.
 
+[^13-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 #### Art. 14
 
 **Tâches et compétences policières**
 
-<sup>1.</sup> Les tâches et les compétences de l’Administration fédérale des douanes concernent exclusivement les mesures policières urgentes jusqu’à la remise, dans les meilleurs délais, du cas aux autorités liechtensteinoises (prévention des risques, compétences en matière de recherche, constatation, appréhension et sûreté). Dans les cas simples, la compétence policière en matière d’enquête et de règlement des affaires peut également être déléguée, pour autant qu’aucun rapport judiciaire ne soit requis.
+<sup>1.</sup> Les tâches et les compétences de l’Administration fédérale des douanes[^14-1] concernent exclusivement les mesures policières urgentes jusqu’à la remise, dans les meilleurs délais, du cas aux autorités liechtensteinoises (prévention des risques, compétences en matière de recherche, constatation, appréhension et sûreté). Dans les cas simples, la compétence policière en matière d’enquête et de règlement des affaires peut également être déléguée, pour autant qu’aucun rapport judiciaire ne soit requis.
 
 <sup>2.</sup> L’al. 1 est également applicable en cas de soupçon initial lors d’un contrôle douanier à la frontière intérieure austro-liechtensteinoise.
 
-<sup>3.</sup> Dans la zone de montagne, l’Administration fédérale des douanes peut effectuer les investigations nécessaires pour procéder à l’évaluation de la situation policière et élaborer des tableaux de la situation. Les engagements policiers préventifs qui ne sont pas limités au territoire limitrophe de l’Autriche sont réalisés conformément à l’al. 4.
+<sup>3.</sup> Dans la zone de montagne, l’Administration fédérale des douanes[^14-2] peut effectuer les investigations nécessaires pour procéder à l’évaluation de la situation policière et élaborer des tableaux de la situation. Les engagements policiers préventifs qui ne sont pas limités au territoire limitrophe de l’Autriche sont réalisés conformément à l’al. 4.
 
-<sup>4.</sup> Les autorités de police liechtensteinoises et l’Administration fédérale des douanes effectuent par ailleurs des contrôles communs à l’intérieur et à l’extérieur de la zone frontalière sous la direction de la police nationale du Liechtenstein.
+<sup>4.</sup> Les autorités de police liechtensteinoises et l’Administration fédérale des douanes[^14-3] effectuent par ailleurs des contrôles communs à l’intérieur et à l’extérieur de la zone frontalière sous la direction de la police nationale du Liechtenstein.
 
 <sup>5.</sup> Les contrôles communs sont réalisés en fonction de la situation et des ressources disponibles. Il est tenu compte des intérêts suisses.
+
+[^14-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^14-2]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^14-3]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 15
 
@@ -244,12 +243,12 @@ Les modalités relatives à la coopération policière sont réglées dans un ac
 
 Suite à l’entrée en vigueur du présent accord-cadre sont abrogés:
 
-- 1\. l’Accord du 6 novembre 1963 entre la Suisse et la Principauté de Liechtenstein sur le statut de police des étrangers des ressortissants de chacun des deux Etats dans l’autre[^19-1];
-- 2\. l’Accord du 6 novembre 1963 entre la Suisse et la Principauté de Liechtenstein sur la réglementation applicable en matière de police des étrangers aux ressortissants d’Etats tiers dans la Principauté de Liechtenstein ainsi que sur la collaboration dans le domaine de la police des étrangers[^19-2];
-- 3\. l’Accord du 2 novembre 1994 entre la Suisse et la Principauté de Liechtenstein en vue de compléter l’Accord du 6 novembre 1963 sur le statut de police des étrangers des ressortissants de chacun des deux Etats dans l’autre[^19-3];
-- 4\. l’Accord du 2 novembre 1994 entre la Suisse et la Principauté de Liechtenstein en vue de compléter l’Accord du 6 novembre 1963 sur la réglementation applicable en matière de police des étrangers aux ressortissants d’Etats tiers dans la Principauté de Liechtenstein ainsi que sur la collaboration dans le domaine de la police des étrangers[^19-4];
-- 5\. l’Echange de notes des 1<sup>er</sup>/8 février 2000 entre la Confédération suisse et la Principauté de Liechtenstein relatif à l’égalité de traitement dans les domaines de l’accès à la profession d’agent fiduciaire et de l’encouragement à la construction de logement[^19-5];
-- 6\. l’Echange de notes du 30 mai 2003 entre le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein sur la mise en œuvre du protocole concernant la libre circulation des personnes signé dans le cadre de l’accord amendant la Convention AELE[^19-6];
+- 1\. l’Accord du 6 novembre 1963 entre la Suisse et la Principauté de Liechtenstein sur le statut de police des étrangers des ressortissants de chacun des deux États dans l’autre[^19-1];
+- 2\. l’Accord du 6 novembre 1963 entre la Suisse et la Principauté de Liechtenstein sur la réglementation applicable en matière de police des étrangers aux ressortissants d’États tiers dans la Principauté de Liechtenstein ainsi que sur la collaboration dans le domaine de la police des étrangers[^19-2];
+- 3\. l’Accord du 2 novembre 1994 entre la Suisse et la Principauté de Liechtenstein en vue de compléter l’Accord du 6 novembre 1963 sur le statut de police des étrangers des ressortissants de chacun des deux États dans l’autre[^19-3];
+- 4\. l’Accord du 2 novembre 1994 entre la Suisse et la Principauté de Liechtenstein en vue de compléter l’Accord du 6 novembre 1963 sur la réglementation applicable en matière de police des étrangers aux ressortissants d’États tiers dans la Principauté de Liechtenstein ainsi que sur la collaboration dans le domaine de la police des étrangers[^19-4];
+- 5\. l’Échange de notes des 1<sup>er</sup>/8 février 2000 entre la Confédération suisse et la Principauté de Liechtenstein relatif à l’égalité de traitement dans les domaines de l’accès à la profession d’agent fiduciaire et de l’encouragement à la construction de logement[^19-5];
+- 6\. l’Échange de notes du 30 mai 2003 entre le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein sur la mise en œuvre du protocole concernant la libre circulation des personnes signé dans le cadre de l’accord amendant la Convention AELE[^19-6];
 - 7\. le Deuxième échange de notes du 21 décembre 2004 entre le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein sur la mise en œuvre du protocole concernant la libre circulation des personnes signé dans le cadre de l’accord amendant la Convention AELE[^19-7].
 
 [^19-1]: [[RO 1964 1](https://fedlex.data.admin.ch/eli/oc/1964/1_1_1), [1995 3815](https://fedlex.data.admin.ch/eli/oc/1995/3815_3815_3815), [1998 2315](https://fedlex.data.admin.ch/eli/oc/1998/2315_2315_2315), [2003 900](https://fedlex.data.admin.ch/eli/oc/2003/162), [2005 327](https://fedlex.data.admin.ch/eli/oc/2005/44)]
@@ -264,10 +263,10 @@ Suite à l’entrée en vigueur du présent accord-cadre sont abrogés:
 
 **Dispositions contraires d’autres accords internationaux**
 
-Les engagements internationaux pris par les Parties contractantes vis-à-vis d’autres Etats demeurent réservés, soit notamment:
+Les engagements internationaux pris par les Parties contractantes vis-à-vis d’autres États demeurent réservés, soit notamment:
 
 - a. l’Accord du 2 mai 1992 sur l’Espace économique européen (Accord EEE);
-- b. l’Accord du 21 juin 1999 entre, d’une part, la Confédération suisse, et, d’autre part, la Communauté européenne et ses Etats membres sur la libre circulation des personnes (ALCP).
+- b. l’Accord du 21 juin 1999 entre, d’une part, la Confédération suisse, et, d’autre part, la Communauté européenne et ses États membres sur la libre circulation des personnes (ALCP).
 
 #### Art. 21
 
