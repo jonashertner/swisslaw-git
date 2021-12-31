@@ -4,11 +4,11 @@ title: "Legge federale del 5 ottobre 1990 sugli aiuti finanziari e le indennità
 short: LSu
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/857_857_857"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1990-10-05
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20210101/it"
 
 (Legge sui sussidi, LSu)
 
-del 5 ottobre 1990 (Stato 1° gennaio 2021)
+del 5 ottobre 1990 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -309,7 +309,10 @@ Gli aiuti finanziari sono concessi soltanto su domanda.
 
 <sup>2</sup> Gli obblighi di cui al capoverso 1 sussistono anche dopo la concessione dell’aiuto finanziario e la delega di compiti federali, affinché l’autorità competente possa svolgere i controlli necessari e chiarire i diritti alla restituzione.
 
+<sup>3</sup> Dopo la concessione dell’aiuto finanziario o dell’indennità, essi sussistono anche per i terzi dei quali il beneficiario si avvale per adempiere il compito.[^15c-2]
+
 [^15c-1]: Introdotto dall’all. 7 n. II 4 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^15c-2]: Introdotto dal n. I 4 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 16
 
@@ -434,16 +437,24 @@ L’autorità competente, se non ha pagato l’aiuto finanziario o l’indennit�
 
 #### Art. 25
 
-**Controllo dell’esecuzione del compito**
+**Controllo dell’esecuzione del compito**[^25-1]
 
-<sup>1</sup> L’autorità competente controlla se il beneficiario adempie il compito secondo le disposizioni in materia e se sono soddisfatte le condizioni.
+<sup>1</sup> L’autorità competente controlla se i beneficiari adempiono i loro compiti secondo le disposizioni legali in materia e se sono soddisfatte le condizioni loro imposte.
 
-<sup>2</sup>
+<sup>2</sup> A tal fine elabora piani di controllo in funzione dei rischi.
 
-Essa può limitarsi a controlli sommari o a prove a caso se:
+<sup>3</sup>
 
-- a. altre istanze, in particolare autorità cantonali, verificano elementi determinanti oppure
-- b. si tratta di prestazioni periodiche, globali o di importo modesto.
+In questi piani determina in particolare:
+
+- a. in che misura occorre effettuare controlli a campione o controlli approfonditi;
+- b. chi effettua il controllo e in base a quali metodi;
+- c. come coordinare il controllo con le attività di controllo di altre autorità, in particolare cantonali;
+- d. come documentare i risultati del controllo.
+
+<sup>4</sup> L’autorità competente può rinunciare a elaborare un piano di controllo per prestazioni di importo modesto, per contributi obbligatori a organizzazioni internazionali e per prestazioni fornite a beneficiari assoggettati a una vigilanza completa da parte di autorità federali.
+
+[^25-1]: Nuovo testo giusta il n. I 4 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 26
 
@@ -595,7 +606,7 @@ Chiunque, in una procedura inerente a un aiuto finanziario o a un’indennità, 
 <sup>2</sup> Se una fattispecie penale della presente sezione risulta adempiuta, oppure se è violato l’obbligo di informare secondo l’articolo 11 capoverso 3[^40-2], l’autorità competente può escludere temporaneamente dall’aiuto finanziario le persone fisiche colpevoli o le persone giuridiche da esse rappresentate.
 
 [^40-1]: Quest’art. è abrogato. Vedi ora: l’art. 15c ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
-[^40-2]: Quest’art. è abrogato. Vedi ora: l’art. 15c cpv. 2 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^40-2]: Questo art. è abrogato. Vedi ora: l’art. 15*c* cpv. 2 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 ## Capitolo 4: Disposizioni finali
 

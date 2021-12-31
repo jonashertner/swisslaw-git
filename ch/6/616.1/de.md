@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 5. Oktober 1990 über Finanzhilfen und Abgeltungen (Sub
 short: SuG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/857_857_857"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1990-10-05
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20210101/de"
 
 (Subventionsgesetz, SuG)
 
-vom 5. Oktober 1990 (Stand am 1. Januar 2021)
+vom 5. Oktober 1990 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -42,7 +42,7 @@ Dieses Gesetz stellt sicher, dass Finanzhilfen und Abgeltungen im gesamten Berei
 - b. ihren Zweck auf wirtschaftliche und wirkungsvolle Art erreichen;
 - c. einheitlich und gerecht geleistet werden;
 - d. nach finanzpolitischen Erfordernissen ausgestaltet werden;
-- e.[^1-1] …
+- e.[^1-1] ...
 
 <sup>2</sup> Es stellt Grundsätze für die Rechtsetzung auf und formuliert allgemeine Bestimmungen über die einzelnen Finanzhilfe- und Abgeltungsverhältnisse.
 
@@ -308,7 +308,10 @@ Finanzhilfen werden nur auf Gesuch hin gewährt.
 
 <sup>2</sup> Die Pflichten nach Absatz 1 bestehen auch nach der Gewährung von Finanzhilfen oder der Übertragung von Bundesaufgaben, damit die zuständige Behörde die notwendigen Kontrollen durchführen und Rückforderungsansprüche abklären kann.
 
+<sup>3</sup> Sie bestehen nach der Gewährung von Finanzhilfen und Abgeltungen auch für Dritte, soweit diese vom Empfänger für die Aufgabenerfüllung beigezogen werden.[^15c-2]
+
 [^15c-1]: Eingefügt durch Anhang 7 Ziff. II 4 des BG vom 21. Juni 2019 über das öffentliche Beschaffungswesen, in Kraft seit 1. Jan. 2021 ([AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^15c-2]: Eingefügt durch Ziff. I 4 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 16
 
@@ -433,16 +436,24 @@ Hat die zuständige Behörde die Finanzhilfe oder Abgeltung dem Empfänger nicht
 
 #### Art. 25
 
-**Überprüfung der Aufgabenerfüllung**
+**Überprüfung der Aufgabenerfüllung**[^25-1]
 
-<sup>1</sup> Die zuständige Behörde prüft, ob der Empfänger die Aufgabe gesetzmässig und nach den ihm auferlegten Bedingungen erfüllt hat.
+<sup>1</sup> Die zuständige Behörde überprüft, ob die Empfänger ihre Aufgaben gesetzmässig und zu den ihnen auferlegten Bedingungen erfüllen.
 
-<sup>2</sup>
+<sup>2</sup> Sie erstellt dazu risikoorientiert ausgestaltete Überprüfungskonzepte.
 
-Sie kann sich auf vereinfachte Prüfung oder auf Stichproben beschränken:
+<sup>3</sup>
 
-- a. wenn andere Instanzen, insbesondere kantonale Behörden, massgebliche Elemente prüfen oder
-- b. wenn es sich um periodisch wiederkehrende, globale oder umfangmässig beschränkte Leistungen handelt.
+In diesen Konzepten ist insbesondere festzulegen:
+
+- a. inwieweit Stichprobenkontrollen oder vertiefte Prüfungen vorzunehmen sind;
+- b. wer die Überprüfung nach welchen Methoden vornimmt;
+- c. wie die Überprüfung mit Prüfungstätigkeiten anderer, insbesondere kantonaler Behörden, zu koordinieren ist;
+- d. wie das Ergebnis der Überprüfung zu dokumentieren ist.
+
+<sup>4</sup> Für finanziell unbedeutende Leistungen, Pflichtbeiträge an internationale Organisationen und Leistungen an Empfänger, die einer umfassenden Aufsicht durch Bundesbehörden unterstehen, kann auf die Erstellung von Überprüfungskonzepten verzichtet werden.
+
+[^25-1]: Fassung gemäss Ziff. I 4 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 26
 
@@ -627,6 +638,6 @@ Anhang
 
 ## Änderung von Bundeserlassen
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)konsultiert werden.

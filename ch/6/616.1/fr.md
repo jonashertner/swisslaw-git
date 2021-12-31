@@ -4,11 +4,11 @@ title: "Loi fédérale du 5 octobre 1990 sur les aides financières et les indem
 short: LSu
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/857_857_857"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1990-10-05
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/857_857_857/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-857_857_857-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/857_857_857/20210101/fr"
 
 (Loi sur les subventions, LSu)
 
-du 5 octobre 1990 (Etat le 1<sup>er</sup> janvier 2021)
+du 5 octobre 1990 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -47,7 +47,7 @@ La présente loi subordonne l’octroi d’aides financières (aides) ou d’ind
 
 <sup>2</sup> La présente loi définit les principes applicables en matière de législation et fixe les dispositions générales régissant les divers régimes d’aides et d’indemnités.
 
-[^1-1]: Abrogée par le ch. II 10 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^1-1]: Abrogée par le ch. II 10 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), avec effet au 1<sup>er</sup> janv. 2008 (RO **2****007** 5779; [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 2
 
@@ -213,7 +213,7 @@ Lors de l’élaboration de dispositions légales prévoyant des indemnités pou
 - b.[^10-2] prévoir, en règle générale, l’octroi de l’indemnité dans le cadre d’une convention-programme et fixer cette indemnité de manière globale ou forfaitaire;
 - c. prévoir le versement de l’indemnité au canton, même lorsque celui-ci confie la tâche à des tiers.
 
-[^10-1]: Nouvelle teneur selon l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^10-1]: Nouvelle teneur selon l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 [^10-2]: Nouvelle teneur selon le ch. II 10 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ## Chapitre 3 Dispositions générales applicables aux aides et aux indemnités
@@ -224,7 +224,7 @@ Lors de l’élaboration de dispositions légales prévoyant des indemnités pou
 
 [^11-1]
 
-[^11-1]: Abrogé par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés financiers, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^11-1]: Abrogé par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés publics, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 12
 
@@ -277,7 +277,7 @@ L’autorité compétente ne peut dépasser le plafond fixé par voie de décisi
 
 [^chap3-sec2-1]
 
-[^chap3-sec2-1]: Nouvelle teneur selon l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^chap3-sec2-1]: Nouvelle teneur selon l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 15a
 
@@ -285,7 +285,7 @@ L’autorité compétente ne peut dépasser le plafond fixé par voie de décisi
 
 Les aides ne sont allouées que sur demande.
 
-[^15a-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^15a-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 15b
 
@@ -297,7 +297,7 @@ Les aides ne sont allouées que sur demande.
 
 <sup>3</sup> La délégation et l’indemnité octroyée après la clôture définitive de la procédure de sélection sont régies par les art. 14 à 40 de la présente loi.
 
-[^15b-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^15b-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 [^15b-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 [^15b-3]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
 
@@ -309,7 +309,10 @@ Les aides ne sont allouées que sur demande.
 
 <sup>2</sup> Les obligations définies à l’al. 1 subsistent même après l’octroi de l’aide ou la délégation d’une tâche de la Confédération, de manière à ce que l’autorité compétente puisse opérer les contrôles nécessaires et élucider les cas de restitution.
 
-[^15c-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+<sup>3</sup> Elles subsistent aussi, après l’octroi de l’aide ou de l’indemnité, envers les tiers dans la mesure où le bénéficiaire fait appel à eux pour accomplir la tâche.[^15c-2]
+
+[^15c-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^15c-2]: Introduit par le ch. I 4 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 16
 
@@ -355,7 +358,7 @@ Lorsque l’autorité prend une décision avant que l’allocataire n’ait acco
 
 <sup>4</sup> Si des indices conduisent à penser que le bénéficiaire d’une aide financière acquiert des marchandises, des services ou des travaux de construction dont le coût total est financé à plus de 50 % par des fonds publics, l’autorité peut le contraindre à garantir une concurrence équitable. Le bénéficiaire est généralement tenu de demander trois offres.[^17-1]
 
-[^17-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^17-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 18
 
@@ -386,7 +389,7 @@ Lorsque l’autorité prend une décision avant que l’allocataire n’ait acco
 
 <sup>2</sup> L’art. 18 s’applique à la fixation ultérieure du montant définitif. En lieu et place de la décision prévue à l’art. 18, al. 2, l’autorité apportera au contrat une modification ou un complément selon la procédure fixée à l’art. 19.
 
-[^20-1]: Nouvelle teneur selon l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^20-1]: Nouvelle teneur selon l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 20a
 
@@ -434,16 +437,24 @@ L’autorité compétente édicte les directives applicables à l’établisseme
 
 #### Art. 25
 
-**Contrôle de l’accomplissement de la tâche**
+**Contrôle de l’accomplissement de la tâche**[^25-1]
 
-<sup>1</sup> L’autorité compétente s’assure que le bénéficiaire exécute la tâche conformément aux dispositions en la matière et que les conditions légales sont bien respectées.
+<sup>1</sup> L’autorité compétente s’assure que les bénéficiaires accomplissent leurs tâches conformément aux dispositions applicables et aux conditions qui leur ont été imposées.
 
-<sup>2</sup>
+<sup>2</sup> Elle établit à cet effet des plans de contrôle ajustés aux risques.
 
-Elle peut se borner à des contrôles sommaires ou par sondages:
+<sup>3</sup>
 
-- a. lorsque d’autres autorités, en particulier cantonales, contrôlent des éléments déterminants du dossier ou
-- b. lorsque les prestations allouées sont périodiques, globales ou d’un montant modeste.
+Ces plans précisent notamment:
+
+- a. dans quelle mesure il y a lieu de procéder à des contrôles par sondage ou à des contrôles approfondis;
+- b. qui doit procéder au contrôle, et selon quelles méthodes;
+- c. comment doit se faire la coordination entre le contrôle et les activités de contrôle effectuées par d’autres autorités, notamment cantonales;
+- d. comment doit être documenté le résultat du contrôle.
+
+<sup>4</sup> Il est possible de déroger à l’obligation d’établir un plan de contrôle lorsque sont en jeu des prestations ayant des incidences financières minimes, des contributions obligatoires à des organisations internationales ou des prestations accordées à des bénéficiaires faisant l’objet d’une surveillance étendue de la part des autorités fédérales.
+
+[^25-1]: Nouvelle teneur selon le ch. I 4 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 26
 
@@ -503,7 +514,7 @@ Elle renonce à la révocation:
 
 <sup>4</sup> Les restitutions au sens de l’art. 12 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^30-2] sont réservées.
 
-[^30-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^30-1]: Introduit par l’annexe 7 ch. II 4 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 [^30-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 31
@@ -594,7 +605,7 @@ Celui qui, dans une procédure relative à une aide ou à une indemnité, aura i
 
 <sup>2</sup> Si les éléments constitutifs de l’une ou l’autre des infractions évoquées dans la présente section sont réunis ou si l’obligation de renseigner définie à l’art. 11, al. 3[^40-2], n’est pas respectée, l’autorité compétente peut temporairement priver d’aides les personnes physiques contrevenantes ou les personnes morales qu’elles représentent.
 
-[^40-1]: Cet article est abrogé. Voir actuellement l’art. 15*c* ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^40-1]: Cet article est abrogé. Voir actuellement l’art. 15*c* (RO **2****020** 641; [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 [^40-2]: Cet article est abrogé. Voir actuellement l’art. 15*c*, al. 2 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 ## Chapitre 4 Dispositions finales
