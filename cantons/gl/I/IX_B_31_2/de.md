@@ -3,20 +3,19 @@ canton: GL
 number: IX B/31/2
 title: Verordnung über die Entschädigung der Staatsgarantie für die Kantonalbank
 language: de
-version: 2013-01-01
-valid_until: 2021-12-31
-version_adopted: 2012-09-18
+version: 2022-01-01
+version_adopted: 2022-10-04
 adopted: 2010-10-05
 in_force: 2010-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-B.31.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/619/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2342/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Entschädigung der Staatsgarantie für die Kantonalbank
 
-Vom 05.10.2010 (Stand 01.01.2013)
+Vom 05.10.2010 (Stand 01.01.2022)
 
 Der Regierungsrat,
 
@@ -53,7 +52,7 @@ verordnet:
 
 **Durchschnittlicher Schweizer Franken Swap Zinssatz über zwei Jahre**
 
-<sup>1</sup> Der durchschnittliche Schweizer Franken Swap Zinssatz über zwei Jahre entspricht dem Durchschnitt aller jeweils am letzten Handelstag jeden Monats des letzten Geschäftsjahres von der ISDA (International Swaps and Derivatives Association) fixierten Zinssätze für einen Schweizer Franken Swap über zwei Jahre.
+<sup>1</sup> Der durchschnittliche Schweizer Franken Swap Zinssatz über zwei Jahre entspricht dem Durchschnitt aller jeweils am letzten Handelstag jeden Monats des letzten Geschäftsjahres berechneten Schweizer Franken Swap über zwei Jahre.
 
 #### Art. 4
 
