@@ -4,13 +4,13 @@ number: "265"
 title: "Verordnung über die Kosten in Zivil-, Straf- und verwaltungsgerichtlichen Verfahren"
 short: "Justiz-Kostenverordnung, JusKV"
 language: de
-version: 2017-07-01
-valid_until: 2021-12-31
-version_adopted: 2017-06-12
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-11-23
 adopted: 2013-03-26
 in_force: 2013-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/265"
-pdf: "https://srl.lu.ch/api/de/versions/3081/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3869/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3081/pdf_file"
 
 (Justiz-Kostenverordnung, JusKV)
 
-vom 26.03.2013 (Stand 01.07.2017)
+vom 26.03.2013 (Stand 01.01.2022)
 
 Das Kantonsgericht des Kantons Luzern,
 
@@ -416,8 +416,13 @@ beschliesst:
 <sup>1</sup> Es werden folgende Gebühren verrechnet:
 
 - a. nachträgliche Akteneinsicht — Fr. 20.– bis Fr. 100.–
-- b. Abgabe eines anonymisierten Urteils/Entscheids — Fr. 5.– pro Seite
-- c. Abgabe eines nicht anonymisierten Urteils/Entscheids — Fr. 1.– pro Seite
+- b. Abgabe eines anonymisierten Urteils/Entscheids
+  - 1\. Seite 1–5 — Fr. 5.– pro Seite
+  - 2\. Seite 6–50 — Fr. 1.– pro Seite
+  - 3\. ab Seite 51 — Fr. 0.50 pro Seite
+- c. Abgabe eines nicht anonymisierten Urteils/Entscheids
+  - 1\. Seite 1–50 — Fr. 1.– pro Seite
+  - 2\. ab Seite 51 — Fr. 0.50 pro Seite
 - d. Rechtskrafts- bzw. Vollstreckbarkeitsbescheinigungen (mehr als 3 Monate nach Zustellung Urteil/Entscheid) — Fr. 20.– bis Fr. 50.–
 - e. Kopieren von Schriftstücken
   - 1\. A4-Kopie schwarz-weiss — Fr. –.50 pro Kopie
