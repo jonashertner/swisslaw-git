@@ -4,33 +4,32 @@ number: "741.104"
 title: Reglement über den Tarif der Gebühren und Kosten im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr
 short: RTarVZV
 language: de
-version: 2003-07-01
-corrected: 2017-10-25
-version_adopted: 2003-03-18
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-15
 adopted: 2021-12-15
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/741.104"
-pdf: "https://lex.vs.ch/api/de/versions/278/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3000/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Tarif der Gebühren und Kosten im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr
 
-vom 18. März 2003
+vom 15.12.2021 (Stand 01.01.2022)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen das Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG) und die Verordnung vom 27. Oktober 1976 (VZV) über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr;
+eingesehen das Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG) und die Verordnung über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr vom 27. Oktober 1976 (VZV);
 
-eingesehen den Artikel 1 Buchstabe g des Ausführungsgesetzes zum SVG vom 30. September 1987;
+eingesehen Artikel 1 Absatz 1 Buchstabe g des Ausführungsgesetzes über die Bundesgesetzgebung betreffend den Strassenverkehr vom 30. September 1987 (AGSVG);
 
-eingesehen das Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- und Verwaltungsbehörden vom 14. Mai 1998;
+eingesehen das Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- und Verwaltungsbehörden vom 11. Februar 2009 (GTar);
 
-eingesehen den Artikel 88 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996;
+eingesehen den Artikel 88 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996 (GORBG);
 
-auf Antrag des Departements für Volkswirtschaft, Institutionen und Sicherheit,
+auf Antrag des für die Sicherheit zuständigen Departements,
 
 beschliesst:
 
@@ -38,208 +37,255 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Dienststelle für Strassenverkehr und Schifffahrt erhebt die Gebühren und Kosten gemäss der nachstehenden Artikel 2 bis 15 im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr.
+<sup>1</sup> Die Dienststelle für Strassenverkehr und Schifffahrt (nachfolgend: DSUS), erhebt die Gebühren und Kosten gemäss der nachstehenden Artikel 2 bis 13 im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr.
 
 <sup>2</sup> Die Stempelsteuern werden zusätzlich erhoben.
 
-### 1. Abschnitt: Zulassung von Personen zum Strassenverkehr
+## 1 Zulassung von Personen zum Strassenverkehr
 
 #### Art. 2
 
 **Lernfahrausweis**
 
-**Fr. 60.-- Fr. 50.-- Fr. 30.--**
+<sup>1</sup> Lernfahrausweis:
 
-1.1 Ausstellen des ersten Ausweises 1.2 Ausstellen der folgenden Ausweise 1.3 Ausstellen eines Duplikats oder eines neuen Lernfahrausweises nach Verlust, Diebstahl oder infolge anderer Umstände, die einen neuen Ausweis erforderlich machen
+- a) Erstellen eines Lernfahrausweises — Fr. 40
+- b) Ausstellen eines Duplikats oder eines neuen Lernfahrausweises nach Verlust, Diebstahl oder infolge anderer Umstände, die einen Ersatz erforderlich machen — Fr. 30
 
 #### Art. 3
 
 **Führerprüfungen**
 
-**Fr. 20.-- Fr. 30.--**
+<sup>1</sup> Führerprüfungen:
 
-**Fr. 50.--**
-
-1.1 Ermächtigung für die theoretische Prüfung 1.2 Theoretische Grundprüfungen 1.3 Zusätzliche theoretische Prüfungen für die Kategorien C Fr. 60.-- und D und die Unterkategorien C1 und D1 1.4 Prüfung über die zusätzliche Theorie für das Ausstellen der Fr. 40.-- Bewilligung für gewerbsmässige Personenbeförderung für die Inhaber der Fahrausweise der Kategorien B und C, der Unterkategorien B1 und C1 und der Spezialkategorie F 1.5 Mündliche Prüfung auf Gesuch hin 1.6 Wiederholung der theoretischen Grundprüfung, der Prüfung über die zusätzliche Theorie, der mündlichen Prüfung: Gebühren nach Ziffern 1.2, 1.3, 1.4 und 1.5 1.7 Praktische Prüfung 1.7.1 Kategorie A, Unterkategorie A1 1.7.2 Kategorien B, BE, DE, Unterkategorien B1, C1, C1E, D1E Fr. 90.-- und Spezialkategorie F 1.7.3 Kategorie C, CE, Unterkategorie D1 1.7.4 Kategorie D 1.7.5 Zusätzliche praktische Prüfung für das Ausstellen der Bewilligung zur Ausführung von gewerbsmässigen Transporten für einen Inhaber des Fahrausweises der Kategorien B und C, der Unterkategorien B1 und C1 und der Spezialkategorie F 1.8 Wiederholung der praktischen Prüfung: Gebühren nach Ziffern 1.7.1, 1.7.2, 1.7.3, 1.7.4 und 1.7.5 1.9 Besondere Prüfungen Für folgende besondere Prüfungen, die von der Behörde angeordnet werden, wir deine Gebühr zwischen Fr. 30.-- und Fr. 180.-- je nach Umfang der Leistung erhoben, wenn die Gebühr dafür nicht in diesem Reglement vorgesehen ist: erneute theoretische und praktische Prüfung, Kontrollfahrt, praktische Führerprüfung mit einem Fahrzeug, das an eine Behinderung angepasst wurde, Eignungstest (Beck), praktische Prüfung für die Kategorien G und M, jede andere besondere Prüfung 1.10 Theoretische, praktische oder besondere Prüfung, für die keine Abmeldung 3 Werktage vor dem vorgesehenen Datum erfolgte: Gebühr für die gewünschte oder angeordnete Prüfung 1.11 Fristgemässe Annullierung einer praktischen Prüfung 1.12 Bewilligung für eine (theoretische und praktische) Führerprüfung in einem anderen Kanton
+- a) Bewilligung zur Prüfung oder zu einer Kontrollfahrt — Fr. 10
+- b) Ausstellen einer neuen Bewilligung nach Verlust, Diebstahl oder infolge anderer Umstände, die den Ersatz erforderlich machen — Fr. 10
+- c) theoretische Basisprüfung — Fr. 30
+- d) zusätzliche theoretische Prüfungen für die Kategorien C oder D oder die Unterkategorien C1 oder D1 — Fr. 80
+- e) Prüfung über die Zusatztheorie, welche zum Erstellen der Bewilligung für gewerbsmässige Personenbeförderung für Inhaber der Führerausweiskategorien B oder C, der Unterkategorien B1 oder C1 oder der Spezialkategorie F gefordert wird — Fr. 40
+- f) individuelle Theorieprüfung auf Gesuch hin — Fr. 90
+- g) praktische Prüfung:
+  - 1\. Kategorie A, Unterkategorie A1 — Fr. 80
+  - 2\. Kategorien B, BE, DE, Unterkategorien, B1, C1E, D1E und Spezial-kategorie F — Fr. 90
+  - 3\. Kategorie C, CE, Unterkategorie C1, D1 — Fr. 135
+  - 4\. Kategorie D — Fr. 180
+  - 5\. zusätzliche praktische Prüfung, welche zum Erstellen der Bewilligung für gewerbsmässige Transporte für Inhaber der Führerausweiskategorien B oder C, der Unterkategorien B1 oder C1 oder der Spezialkategorie F gefordert wird — Fr. 90
+- h) Theorieprüfung CZV — Fr. 80
+- i) besondere Prüfungen: für nachfolgende besondere Prüfungen, die von der Behörde angeordnet werden, wird eine Gebühr zwischen Fr. 30 und Fr. 180 je nach Umfang der Leistung erhoben, wenn die Gebühr dafür nicht in diesem Reglement vorgesehen ist: erneute theoretische und/oder praktische Prüfung, Kontrollfahrt, praktische Führerprüfung mit einem an eine Behinderung angepassten Fahrzeug, Fahreignungstest, praktische Führerprüfung der Kategorien G oder M, jede andere besondere Prüfung;
+- j) theoretische, praktische oder besondere Prüfung, für die keine Abmeldung 7 Werktage vor dem vorgesehenen Datum erfolgte: für die gewünschte oder angeordnete Prüfung vorgesehene Gebühr;
+- k) fristgerechte Annullierung einer praktischen Prüfung — Fr. 20
+- l) Bewilligung für eine theoretische oder praktische Führerprüfung in einem anderen Kanton — Fr. 30
+- m) Konsultation des Resultats einer Theorieprüfung — Fr. 30
 
 #### Art. 4
 
-**Fr. 90.--**
+**Führerausweis und Bewilligungen**
 
-**Fr. 60.--**
+<sup>1</sup> Führerausweis und Bewilligungen:
 
-**Fr. 135.-- Fr. 180.-- Fr. 90.--**
+- a) Erstellen eines Führerausweises im Kreditkartenformat (FAK) — Fr. 50
+- b) Ausstellen eines FAK-Duplikats nach Verlust, Diebstahl oder Beschädigung — Fr. 40
+- c) Ausstellen eines schweizerischen Führerausweises im Umtausch gegen einen ausländischen Ausweis — Fr. 120
+- d) Ausstellen eines internationalen Führerausweises — Fr. 40
+- e) Ausstellen eines Führerausweises oder einer Bewilligung nach einem Ausweisentzug mit unterschiedlicher Dauer — Fr. 50
+- f) Ausstellen eines Fähigkeitsausweises (Ausweis 95) — Fr. 35
 
-**Fr. 20.-- Fr. 30.--**
-
-**Führerausweis und Bewilligung für gewerbsmässige Transporte**
-
-**Fr. 50.--**
-
-1.1 Ausstellen eines Führerausweises im Kreditkartenformat Fr. 50.-- 1.2 Ausstellen eines neuen Führerausweises nach Verlust, Diebstahl oder infolge anderer Umstände, die einen neuen Ausweis erforderlich machen 1.3 Ausstellen eines schweizerischen Führerausweises im Umtausch gegen einen ausländischen Ausweis 1.4 Ausstellen eines internationalen Führerausweises 1.4.1 Gültigkeitsdauer 1 Jahr 1.4.2 Gültigkeitsdauer 2 Jahre 1.4.3 Gültigkeitsdauer 3 Jahre 1.5 Ausstellen eines Führerausweises oder einer Bewilligung Fr. 50.-- nach einem Ausweisentzug für eine bestimmte Dauer 1.6 Adressänderung des Inhabers eines Führerausweises im Fr. 10.-- Faber-Register 1.7 Bewilligung für die gewerbsmässige Personenbeförderung Fr. 40.-- mit Fahrzeugen der Kategorien B und C, der Unterkategorien B1 und C1 und der Spezialkategorie F
-
-**Fr. 120.--**
-
-**Fr. 40.-- Fr. 60.-- Fr. 80.--**
-
-### 2. Abschnitt: Zulassung von Fahrzeugen zum Verkehr
+## 2 Zulassung von Fahrzeugen zum Verkehr
 
 #### Art. 5
 
 **Kontrolle der Fahrzeuge und Ausrüstungen**
 
-**Fr. 100.--**
+<sup>1</sup> Kontrolle der Fahrzeuge und Ausrüstungen:
 
-1.1 Individuelle Kontrolle vor der erstmaligen Immatrikulation eines für die Schweiz abgenommenen Fahrzeugs und nachfolgende periodische Kontrollen Leichte Motorfahrzeuge, deren Gesamtgewicht 3,50 t nicht Fr. 70.-- überschreitet; darunter fallen Fahrzeuge Personenbeförderung und Warentransport, Arbeitswagen und - maschinen, landwirtschaftliche Fahrzeuge Transport- und Arbeitsanhänger, deren Gesamtgewicht 3,50 t nicht überschreitet Schwere Motorfahrzeuge, deren Gesamtgewicht 3,50 t Fr. 140.-- überschreitet; darunter fallen Fahrzeuge für Personenbeförderung und Warentransport ,Arbeitswagen und - maschinen, landwirtschaftliche Fahrzeuge Transport- und Arbeitsanhänger, deren Gesamtgewicht 3,50 t überschreitet Motorräder ,motorisierte Drei- und Vierradfahrzeuge Anhänger für Motorräder, motorisierte Drei- und Vierradfahrzeuge 1.2 Individuelle Kontrolle eines nicht oder teilweise abgenommenen Fahrzeugs oder eines Fahrzeugs nach einem Umbau oder einer Änderung Leichte Motorfahrzeuge, deren Gesamtgewicht 3,50 t nicht Fr. 140.-- überschreitet; darunter fallen Fahrzeuge für Personenbeförderung und Warentransport, Arbeitswagen und -maschinen, landwirtschaftliche Fahrzeuge Transport- und Arbeitsanhänger, deren Gesamtgewicht 3,50 t nicht überschreitet Schwere Motorfahrzeuge, deren Gesamtgewicht 3,50 t Fr. 280.-- überschreitet; darunter fallen Fahrzeuge für Personenbeförderung und Warentransport, Arbeitswagen und -maschinen, landwirtschaftliche Fahrzeuge Transport- und Arbeitsanhänger, deren Gesamtgewicht 3,50 t überschreitet Motorräder, motorisierte Drei- und Vierradfahrzeuge 1.3 Kontrolle der Anhängevorrichtung Leichte Motorfahrzeuge, deren Gesamtgewicht 3,50 t nicht Fr. 40.-- überschreitet; darunter fallen Fahrzeuge für Personenbeförderung und Warentransport, Arbeitswagen und -maschinen, landwirtschaftliche Fahrzeuge Schwere Motorfahrzeuge, deren Gesamtgewicht 3,50 t Fr. 70.-- überschreitet; darunter fallen Fahrzeuge für Personenbeförderung und Warentransport, Arbeitswagen und -maschinen, landwirtschaftliche Fahrzeuge Motorräder, motorisierte Drei- und Vierradfahrzeuge 1.4 Kontrolle nach Rückweisung nur für Motorfahrzeuge und Anhänger, deren Gesamtgewicht 3,50 t überschreitet 1.5 Kontrolle von Spezialfahrzeugen und besondere Arbeiten (Studium des Dossiers, mehrere Umbauten und Änderungen, Messungen der Lärm- und Abgasemissionen, Eichen des Zählers, Tests mit Belastung, usw.) nach Zeitaufwand 1.6 Kontrolle, für die 3 Werktage vor dem abgemachten Datum keine Abmeldung erfolgte: Gebühr für die Kontrolle 1.7 Fristgemässe Annullierung einer technischen Kontrolle, die Fr. 20.-- vom Halter verlangt wurde
+- a) individuelle Kontrolle vor der erstmaligen Immatrikulation eines für die Schweiz abgenommenen Fahrzeugs und nachfolgende periodische Kontrollen:
+  - 1\. leichte Motorwagen mit einem Gesamtgewicht bis und mit 3,50 t, einschliesslich Fahrzeuge zur Beförderung von Personen und Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge — Fr. 60
+  - 2\. Transport- und Arbeitsanhänger mit einem Gesamtgewicht bis und mit 3,50 t — Fr. 50
+  - 3\. schwere Motorwagen mit einem Gesamtgewicht grösser als 3,50 t, aber kleiner oder gleich 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren und Arbeitsmaschinen; Gesellschaftswagen mit einem Gesamtgewicht bis und mit 19,50 t; Transport- und Arbeitsanhänger mit einem Gesamtgewicht grösser als 3,50 t — Fr. 130
+  - 4\. schwere Motorwagen mit einem Gesamtgewicht grösser als 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren und Arbeitsmaschinen; Gesellschaftswagen mit einem Gesamtgewicht grösser als 19,50 t; Landwirtschaftliche Fahrzeuge mit einem Gesamtgewicht grösser als 3,50 t — Fr. 130
+  - 5\. Motorräder, drei- und vierrädrige Kleinmotorfahrzeuge; Anhänger für Motorräder und drei- und vierrädrige Kleinmotorfahrzeuge — Fr. 50
+- b) individuelle Kontrolle eines nicht oder teilweise abgenommenen Fahrzeugs oder eines Fahrzeugs nach einem einzigen Umbau oder einer einzigen Änderung:
+  - 1\. leichte Motorwagen mit einem Gesamtgewicht bis und mit 3,50 t, einschliesslich Fahrzeuge zur Beförderung von Personen und Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge — Fr. 120
+  - 2\. Transport- und Arbeitsanhänger mit einem Gesamtgewicht bis und mit 3,50 t — Fr. 100
+  - 3\. schwere Motorwagen mit einem Gesamtgewicht grösser als 3,50 t, aber kleiner oder gleich 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge; Gesellschaftswagen mit einem Gesamtgewicht bis und mit 19,50 t; Transport- und Arbeitsanhänger mit einem Gesamtgewicht grösser als 3,50 t — Fr. 260
+  - 4\. schwere Motorwagen mit einem Gesamtgewicht grösser als 18 t, einschliesslich Fahrzeuge für den Transport von Gütern sowie Arbeitskarren, Arbeitsmaschinen und landwirtschaftliche Fahrzeuge; Gesellschaftswagen mit einem Gesamtgewicht grösser als 19,50 t — Fr. 260
+  - 5\. Motorräder, drei- und vierrädrige Kleinmotorfahrzeuge — Fr. 100
+- c) Kontrolle der Anhängervorrichtung:
+  - 1\. leichte Motorfahrzeuge deren Gesamtgewicht 3,50 t nicht überschreitet; darunter fallen Fahrzeuge für Personenbeförderung und Warentransport, Arbeitskarren und Arbeitsmaschinen sowie landwirtschaftliche Fahrzeuge — Fr. 30
+  - 2\. schwere Motorfahrzeuge deren Gesamtgewicht 3,50 t überschreitet; darunter fallen Fahrzeuge für Personenbeförderung und Warentransport, Arbeitskarren und Arbeitsmaschinen sowie landwirtschaftliche Fahrzeuge — Fr. 60
+  - 3\. Motorräder, drei- und vierrädrige Kleinmotorfahrzeuge — Fr. 30
+- d) Nachkontrolle für Motorfahrzeuge
+  - 1\. Nachkontrolle für Motorfahrzeuge deren Gesamtgewicht kleiner oder gleich 3,50 t beträgt — Fr. 30 bis 60
+  - 2\. Nachkontrolle für Motorfahrzeuge deren Gesamtgewicht 3,50 t überschreitet — Fr. 50 bis 130
+- e) Kontrolle von Spezialfahrzeugen und besondere Arbeiten (Studium des Dossiers, mehrere Umbauten oder Änderungen, Messungen der Lärm- und Abgasemissionen, Eichen des Zählers, Tests unter Belastung, usw.): nach Zeitaufwand;
+- f) Kontrolle, für die 3 Werktage vor dem abgemachten Datum keine Abmeldung erfolgte: Gebühr der vorgesehenen Kontrolle;
+- g) fristgemässe Annullierung einer vom Halter verlangten technischen Kontrolle — Fr. 20
+- h) Vorbereitung des Dossiers für importierte oder abgeänderte Fahrzeuge — Fr. 25 bis 100
+- i) Änderung eines bewiligten Fahrzeuggewichts — Fr. 40
 
 #### Art. 6
 
-**Fr. 30.-- Fr. 70.-- bis Fr. 140.--**
-
 **Fahrzeugausweis**
 
-**Fr. 50.--**
+<sup>1</sup> Fahrzeugausweis:
 
-**Fr. 50.-- Fr. 40.-- Fr. 30.--**
-
-**Fr. 50.--**
-
-**Fr. 50.--**
-
-1.1 Ausstellen eines Fahrzeugausweises 1.2 Ersatzausweis 1.2.1 Ausstellen eines Ersatzausweises 1.2.2 Verlängerung eines Ersatzausweises 1.3 Ausstellen eines Kurzzeitausweises (ohne Haftpflicht) pro 24 Stunden 1.4 Ausstellen eines internationalen Fahrzeugausweises 1.5 Kollektiver Fahrzeugausweis 1.5.1 Ausstellen eines kollektiven Fahrzeugausweises 1.5.2 Ermittlungen für das Ausstellen eines kollektiven Fahr-zeugausweises und von Händlerschildern 1.6 Ausstellen eines neuen Fahrzeugausweises nach Verlust, Fr. 30.-- Diebstahl oder infolge anderer Umstände, die einen neuen Ausweis nötig machen 1.7 Adressänderung
+- a) Erstellen eines Fahrzeugausweises — Fr. 50
+- b) Erstellen eines Ersatzausweises — Fr. 50
+- c) Erstellen eines Tagesausweises (ohne Haftpflichtversicherung) pro 24 Stunden — Fr. 30
+- d) Kollektiv-Fahrzeugausweis:
+  - 1\. Erstellen eines Kollektiv-Fahrzeugausweises — Fr. 50
+  - 2\. Ermittlungen zur Erstellung eines Kollektiv-Fahrzeugausweises und für Händlerschilder — Fr. 250
+- e) Ausstellen eines Duplikats oder eines neuen Fahrzeugausweises nach Verlust, Diebstahl oder infolge anderer Umstände, die einen Ersatz erforderlich machen — Fr. 30
 
 #### Art. 7
 
-**Fr. 250.--**
-
-**Fr. 10.--**
-
 **Sonderbewilligungen**
 
-1.1 Ausstellen einer Bewilligung zur Benützung der öffentlichen Strassen auf einem bestimmten kurzen Abschnitt mit Fahrzeugen ohne Fahrzeugausweis und Schildern (pro Fahrzeug) 1.1.1 Arbeitswagen und Arbeitsmaschinen, deren Gesamtgewicht Fr. 60.-- 3,50 t nicht überschreitet 1.1.2 Arbeitswagen und Arbeitsmaschinen, deren Gesamtgewicht Fr. 120.-- 3,50 t überschreitet 1.1.3 Andere Motorfahrzeuge 1.1.4 Ermittlungen für das Ausstellen einer Bewilligung nach Ziff. 1.1 und Kontrolle der Fahrzeugsicherheit: nach Zeitaufwand 1.2 Ausstellen einer Nachtfahrbewilligung oder einer Fahrbewilligung für Sonntage und Feiertage (je nach Gültigkeitsdauer und pro Fahrzeug) 1.3 Ausstellen einer Ausnahmebewilligung für landwirtschaftliche Fahrzeuge (pro Fahrzeug) 1.4 Ausstellen einer Bewilligung für Personenbeförderung mit Fr. 50.-- Lastwagen und mit Fahrzeugen der Kategorien C und C1 (pro Fahrzeug) 1.5 Ausstellen von anderen Sonderbewilligungen (je nach Gültigkeitsdauer) Fr. 80.--
+<sup>1</sup> Sonderbewilligungen:
+
+- a) Ausstellen einer Bewilligung zur Benützung öffentlicher Strassen auf einem bestimmten, kurzen Abschnitt mit Fahrzeugen ohne Fahrzeugausweis und Schilder (pro Fahrzeug für die Dauer der Bewilligung):
+  - 1\. Fahrzeug mit einem Gesamtgewicht bis und mit 3,50 t — Fr. 60
+  - 2\. Fahrzeug mit einem Gesamtgewicht grösser als 3,50 t, aber maximal 18 t — Fr. 120
+  - 3\. Fahrzeug mit einem Gesamtgewicht grösser als 18 t — Fr. 250
+  - 4\. Ermittlungen zur Erstellung einer Bewilligung nach Buchstabe a und Kontrolle der Fahrzeugsicherheit: nach Zeitaufwand;
+- b) Ausstellen einer Nachtfahrbewilligung oder einer Fahrbewilligung für Sonn- und Feiertage (je nach Gültigkeitsdauer und pro Fahrzeug) — Fr. 30 bis 200
+- c) Ausstellen einer Ausnahmebewilligung für landwirtschaftliche Fahrzeuge (pro Fahrzeug) — Fr. 50
+- d) Ausstellen einer Bewilligung zur Personenbeförderung mit Lastwagen der Kategorien C und C1 (pro Fahrzeug) — Fr. 50
+- e) Ausstellen von anderen Sonderbewilligungen (je nach Art und Gültigkeitsdauer) — Fr. 80 bis 150
 
 #### Art. 8
 
-**Fr. 250.--**
-
-**Fr. 30.-- bis Fr. 200.-- Fr. 50.--**
-
-**Fr. 30.-- bis**
-
 **Kontrollschilder**
 
-**Fr. 30.-- Fr. 90.-- Fr. 200.-- Fr. 300.--**
+<sup>1</sup> Kontrollschilder:
 
-1.1 Motorfahrzeuge, Arbeitsmaschinen und Spezialfahrzeuge Fr. 40.-- (das Paar) 1.2 Fahrzeuge mit einem einzigen Kontrollschild (Motorräder, Fr. 30.-- Anhänger, Arbeitswagen, usw.) 1.3 Landwirtschaftliche Fahrzeuge 1.4 Vorübergehend immatrikulierte Motorfahrzeuge 1.5 Vorübergehend immatrikulierte Motorräder 1.6 Zusatzgebühr für Kontrollschilder nach Wahl des Halters 1.6.1 Motorfahrzeuge Nummer mit 4 Ziffern Nummermit 5 Ziffern Nummermit 6 Ziffern 1.6.2 Motorräder Nummer mit 4 Ziffern Nummer mit 5 Ziffern 1.6.3 Übernahme durch den gleichen Halter nach Verlust oder Fr. 80.-- Diebstahl der Schilder 1.7 Garantie für Kontrollschilder von Motorfahrzeugen, die Fr. 100.-- aufgrund einer Kurzzeitbewilligung ausgestellt wurden 1.8 Garantie für Kontrollschilder von Motorrädern und An-hängern, die aufgrund einer Kurzzeitbewilligung ausge-stellt wurden
+- a) Motorfahrzeuge, Arbeitsmotorwagen und Spezialfahrzeuge (das Paar) — Fr. 40
+- b) Fahrzeuge mit einem einzigen Kontrollschild (Motorräder, Anhänger, Fahrradträger, usw.) — Fr. 30
+- c) Landwirtschaftliche Fahrzeuge — Fr. 20
+- d) Provisorisch immatrikulierte Motorfahrzeuge — Fr. 60
+- e) Provisorisch immatrikulierte Motorräder — Fr. 40
+- f) Die DSUS versteigert auf seiner Internetseite Kontrollschildnummern von besonderem Interesse. Es gelten folgende Mindestgebote:
+  - 1\. Motorfahrzeuge:
+  - 1\.1. Nummern mit 1 Ziffer — Fr. 10'000
+  - 1\.2. Nummern mit 2 Ziffern — Fr. 5'000
+  - 1\.3. Nummern mit 3 Ziffern — Fr. 3'000
+  - 1\.4. Nummern mit 4 Ziffern von besonderem Interesse — Fr. 1'500
+  - 1\.5 Nummern mit 5 Ziffern von besonderem Interesse — Fr. 250
+  - 1\.6 Nummern mit 6 Ziffern von besonderem Interesse — Fr. 100
+  - 2\. Motorräder:
+  - 2\.1. Nummern mit 1 Ziffer — Fr. 5'000
+  - 2\.2. Nummern mit 2 Ziffern — Fr. 3'000
+  - 2\.3. Nummern mit 3 Ziffern — Fr. 1'500
+  - 2\.4. Nummern mit 4 Ziffern von besonderem Interesse — Fr. 250
+  - 2\.5 Nummern mit 5 Ziffern von besonderem Interesse — Fr. 100
+- g) Zusatzgebühr für Kontrollschilder nach Wahl des Halters, wenn die Nummer nicht für die Versteigerung vorgesehen ist:
+  - 1\. Motorfahrzeuge:
+  - 1\.1. Nummern mit 4 Ziffern — Fr. 1'500
+  - 1\.2. Nummern mit 5 Ziffern — Fr. 250
+  - 1\.3. Nummern mit 6 Ziffern — Fr. 100
+  - 2\. Motorräder:
+  - 2\.1. Nummern mit 4 Ziffern — Fr. 250
+  - 2\.2. Nummern mit 5 Ziffern — Fr. 100
+  - 3\. Landwirtschaftliche Fahrzeuge:
+  - 3\.1. Nummern mit 1 Ziffer — Fr. 5'000
+  - 3\.2. Nummern mit 2 Ziffern — Fr. 3'000
+  - 3\.3. Nummern mit 3 Ziffern — Fr. 1'500
+  - 3\.4. Nummern mit 4 Ziffern — Fr. 250
+  - 3\.5. Nummern mit 5 Ziffern — Fr. 100
+- h) Rücknahme durch den gleichen Halter nach Annullation, Verlust oder Diebstahl der Schilder — Fr. 80
+- i) Kaution für Kontrollschilder von Motorfahrzeugen mit einem Tagesausweis — Fr. 100
+- j) Kaution für Kontrollschilder von Motorrädern und Anhängern mit einem Tagesausweis — Fr. 50
 
 #### Art. 9
 
-**Fr. 250.-- Fr. 100.--**
-
-**Fr. 250.-- Fr. 100.--**
-
-**Fr. 50.--**
-
 **Besondere Bestimmungen für Motorfahrräder**
 
-**Fr. 20.-- Fr. 15.--**
+<sup>1</sup> Besondere Bestimmungen für Motorfahrräder:
 
-1.1 Ausstellen eines Fahrzeugausweises 1.2 Schilder für Motorfahrräder mit Steuern (ohne Haftpflichtversicherung) 1.3 Ausserordentlicheo bligatorische Kontrolle nach Polizeirapport 1.4 Ausserordentliche obligatorische Kontrolle, für die 3 Werktage vor dem festgelegten Datum keine Abmeldung erfolgte: Gebühr für die Kontrolle
+- a) Erstellen eines Fahrzeugausweises — Fr. 20
+- b) Schild für Motorfahrrad — Fr. 4
+- c) Vignette für Motorfahrrad mit Steuern (Haftpflichtversicherung nicht eingeschlossen) — Fr. 17
+- d) Ausserordentliche obligatorische Kontrolle nach Polizeirapport — Fr. 50
+- e) Erstellungskosten für ein Motorfahrradschild und/oder eine Motorfahrrad-Vignette — Fr. 7
 
-**Fr. 50.--**
-
-### 3. Abschnitt: Fahrlehrer und Fahrschulen
+## 3 Fahrlehrer und Fahrschulen
 
 #### Art. 10
 
-**Vorprüfung: Prüfungsfächer**
+**Bewilligungen und Aufsicht**
 
-1.1 Allgemeine Kenntnisse: Gespräch, Rechnen, Brief, Aufsatz Fr. 320.-- 1.2 Theoretische Prüfung Kategorien I, III, IV 1.3 Theoretische Prüfung Kategorie II 1.4 Praktische Prüfung Kategorien I, IV 1.5 Praktische Prüfung Kategorie II 1.6 Wiederholung der theoretischen oder praktischen Prüfung:
+<sup>1</sup> Bewilligungen und Aufsicht:
 
-Gebühr nach Ziffern 1.2, 1.3, 1.4, 1.5
+- a) Erstellen der Fahrlehrerbewilligung — Fr. 250
+- b) Erstellen einer Moderatoren-Bewilligung für die Zweiphasenausbildung — Fr. 50
+- c) Verlängerung der Moderatoren-Bewilligung für die Zweiphasen-Ausbildung — Fr. 30
+- d) Erstellen einer Bewilligung zum Betreiben einer Zweiphasen-Ausbildungsstätte — Fr. 100
+- e) Erstprüfung der Einrichtungen einer Fahrschule — Fr. 180
+- f) Inspektion der Tätigkeit der Fahrlehrer — Fr. 120
+
+## 4 Administrativmassnahmen, Vollzugsmassnahmen und Sanktionen
 
 #### Art. 11
 
-**Schlussprüfung und Ausstellen des Fahrlehrausweises**
+**Administrativmassnahmen**
 
-**Fr. 20.-- Fr. 60.-- Fr. 40.--**
+<sup>1</sup> Administrativmassnahmen:
 
-**Fr. 1500.--**
-
-1.1 Fahrlehrerprüfung: nach Tarif der Berufsschulen für Fahrlehrer 1.2 Ausstellen eines Fahrlehrerausweises 1.3 Hinzufügen einer Kategorie 1.4 Ausstellen eines neuen Fahrlehrerausweises nach Verlust, Fr. 50.-- Diebstahl oder infolge anderer Umstände, die einen neuen Ausweis nötig machen
+- a) Verfügung über die Anordnung einer ärztlichen, psychologischen oder psychiatrischen Untersuchung, einer erneuten theoretischen und/oder praktischen Prüfung oder einer Kontrollfahrt — Fr. 80 bis 300
+- b) Entzug des Kollektiv-Fahrzeugausweises und der Händlerschilder — Fr. 80 bis 300
+- c) Entzug der Delegation oder des Kontrollstempels einer Garage — Fr. 80 bis 300
+- d) Verweigerung eines Lernfahrausweises oder eines Führerausweises — Fr. 80 bis 300
+- e) Verwarnung — Fr. 80 bis 200
+- f) Entzug des Lernfahrausweises oder des Führerausweises:
+- 1\. vorsorglicher Entzug — Fr. 80 bis 300
+- 2\. Sicherungs- und Verwarnungsentzug — Fr. 120 bis 300
+- g) Verbot des Gebrauchs eines ausländischen Führerausweises — Fr. 120 bis 300
+- h) Rückgabe des Lernfahrausweises oder des Führerausweises — Fr. 120 bis 300
+- i) Verkehrserziehungskurs:
+  - 1\. Erstellen einer Bewilligung zur Durchführung von Kursen — Fr. 250
+  - 2\. Inspektion der Tätigkeit — Fr. 120
+- j) Verfügung über eine provisorische Rückgabe eines von der Polizei beschlagnahmten Lernfahr- oder Führerausweises — Fr. 50 bis 100
+- k) Verwarnung für Fahrlehrer — Fr. 80 bis 200
+- l) Entzug des Fahrlehrerausweises — Fr. 120 bis 300
+- m) Entzug des Fahrzeugausweises — Fr. 100 bis 200
+- n) Ausstellen eines Beschlagnahmeauftrags des Führer- oder Fahrzeug-Ausweises durch die Polizei (zzgl. Polizeikosten) — Fr. 30 bis 50
+- o) Verweigerung oder Entzug der Dispens von der individuellen Kontrolle für Fahrzeuge bei der erstmaligen Immatrikulation — Fr. 100 bis 200
+- p) Entzug der, den Garagisten durch Vereinbarung zugestandenen, Rechte — Fr. 100 bis 200
+- q) andere Verfügungen, die in diesem Reglement nicht vorgesehen sind — Fr. 80 bis 300
+- r) die Auslagen der Behörde werden nach den Artikeln 2 und 5 - 9 des Gesetzes betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- und Verwaltungsbehörden berechnet.
 
 #### Art. 12
 
-**Aufsicht über die Fahrschulen**
+**Sanktionen**
 
-1.1 Anfangsinspektion der Einrichtungen einer Fahrschule Fr. 180.-- 1.2 Inspektion der Tätigkeit der Fahrlehrer
+<sup>1</sup> Sanktionen:
 
-**Fr. 120.--**
+- a) Gebühr der Strafverfügung — Fr. 60 bis 200
+- b) die Auslagen der Behörde werden nach den Artikeln 2 und 5 bis 9 des Gesetzes betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- und Verwaltungsbehörden berechnet.
 
-### 4. Abschnitt: Administrativmassnahmen, Vollzugsmassnahmen und Sanktionen
+## 5 Verschiedenes und Schlussbestimmungen
 
 #### Art. 13
 
-**Fr. 250.-- Fr. 40.--**
-
-**Administrativmassnahmen**
-
-**Fr. 80.-- bis Fr. 300.--**
-
-1.1 Verfügung über die Anordnung einer ärztlichen, psychologischen oder psychiatrischen Untersuchung, einer erneuten theoretischen oder praktischen Prüfung oder beider zusammen oder einer Kontrollfahrt 1.2 Verweigerung eines Lernfahrausweises oder Fr. 80.-- bis Fr. 300.-- eines Führerausweises 1.3 Verwarnung 1.4 Entzug des Lernfahrausweises oder des Führerausweises 1.4.1 Vorsorglicher Entzug 1.4.2 Sicherheits- und Verwarnungsentzug 1.5 Verbot des Gebrauchs eines ausländischen Fr. 120.-- bis Fr. 300.-- Führerausweises 1.6 Rückgabe des Lernfahrausweises und des Führerausweises 1.7 Verkehrserziehungskurs 1.7.1 Administration des Kurses 1.7.2 Kurs: nach Tarif der spezialisierten Organisation, die den Kurs gibt 1.8 Verfügung über eine provisorische Rückgabe Fr. 80.-- bis Fr. 100.-- eines von der Polizei beschlagnahmten Lernfahrausweiseso der Führerausweises 1.9 Verfügung über den Vollzug eines Verwarnungsentzugs 1.10 Verwarnung für Fahrlehrer 1.11 Entzug des Fahrlehrerausweises 1.12 Entzug des Fahrzeugausweises 1.13 Verweigerung oder Entzug der Dispens von Fr. 100.-- bis Fr. 200.-- der individuellen Kontrolle für Fahrzeuge bei der erstmaligen Immatrikulation 1.14 Entzug der Rechte, die den Garagisten durch Fr. 100.-- bis Fr. 200.-- Vereinbarung zugestanden werden 1.15 Andere Verfügungen, die in diesem Reglement nicht vorgesehen sind 2. Die Auslagen der Behörde werden nach den Artikeln 2 und 5 - 9 des Gesetzes betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- und Verwaltungsbehörden berechnet.
-
-#### Art. 14
-
-**Sanktionen**
-
-**Fr. 60.-- bis Fr. 200.--**
-
-- 1\. Gebühr der Strafverfügung
-
-- 2\. Die Auslagen der Behörde werden nach den Artikeln 2 und 5 - 9 des Gesetzes betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- und Verwaltungsbehörden berechnet.
-
-### 5. Abschnitt: Verschiedenes und Schlussbestimmungen
-
-#### Art. 15
-
-**Fr. 80.-- bis Fr. 200.--**
-
-**Fr. 80.-- bis Fr. 300.-- Fr. 120.-- bis Fr. 300.--**
-
-**Fr. 120.-- bis Fr. 300.--**
-
-**Fr. 60.-- bis Fr. 100.--**
-
-**Fr. 80.-- bis Fr. 150.--**
-
-**Fr. 80.-- bis Fr. 200.-- Fr. 120.-- bis Fr. 300.-- Fr. 100.-- bis Fr. 200.--**
-
-**Fr. 80.-- bis Fr. 300.--**
-
 **Andere Gebühren und Auslagen**
 
-**Fr. 60.--**
+<sup>1</sup> Andere Gebühren und Auslagen:
 
-1.1 Ausstellen einer Bewilligung zur Ausbildung von Lastwagenchauffeuren 1.2 Immatrikulations-, Änderungskosten 1.3 Besondere Auskünfte: nach Zeitaufwand 1.4 Fotokopien: pro Seite (je nach Zahl) bis Fr. 2.-- 1.5 Fotokopien von Dokumenten auf Mikrofilm: pro Seite Fr. 5.-- 1.6 Bescheinigungen und Erklärungen bis Fr. 50.-- 1.7 Zusatzgebühr für sofortige Dienstleistung am Schalter 1.8 Andere, von diesem Reglement nicht vorgesehene Leistungen: nach Aufwand 1.9 Kosten der ärztlichen Untersuchungen, der ärztlichen, psychotechnischen psychologischen und psychiatrischen Gutachten: gehen zu Lasten der betroffenen Person, die diese direkt an die oder das mit der Untersuchung oder dem Gutachten beauftragte Person oder Institut zahlt 1.10 Folgende Kontrolle von Unternehmen, die Inhaber eines Fr. 150.-- kollektiven Fahrzeugausweises und von Händlerschildern sind und von Unternehmen, die ermächtig sind, Einrichtungen zur Begrenzung der Geschwindigkeit, Fahrtschreiber und Restwegschreiber zu kontrollieren 1.11 Haftpflichtversicherung: nach dem Tarif der Versicherungsgesellschaften 1.12 Jedes Mal, wenn die Kosten der Dienstleistung nach Zeitaufwand berechnet werden, kostet die Arbeitsstunde person 1.13 Zu den Beträgen, die nach Zeitaufwand berechnet werden, kommen die Reisekosten, die eine nach Ziffer 1.3 berechnete Stundenentschädigung und eine Kilometerentschädigung von Fr. 0,60 pro tatsächlich zurückgelegten Kilometer umfassen. Die Reisekosten werden nicht erhoben bei Führerprüfungen und bei Kontrollen von landwirtschaftlichen Fahrzeugen, die ausserhalb der offiziellen Kontrollhallen durchgeführt werden.
+- a) Erstellen einer Bewilligung zur Ausbildung von Lastwagenchauffeuren — Fr. 60
+- b) Immatrikulations-, Änderungskosten — Fr. 30
+- c) Rückvergütung für die Erfassung einer Anmeldung zur Inverkehrsetzung mit dem dafür vorgesehenen Internet-Modul — Fr. 10
+- d) Besondere Auskünfte: nach Zeitaufwand;
+- e) Fotokopien: ab 10 Seiten, Fr. 1 pro Seite — Fr. max. 30
+- f) Fotokopien von Dokumenten auf Mikrofilm: pro Seite — Fr. 5
+- g) Bescheinigungen, Erklärungen, Zeugnisse — Fr. 20 bis 50
+- h) Kosten der ärztlichen Untersuchungen, der ärztlichen, psychotechnischen psychologischen und psychiatrischen Gutachten: zu Lasten der betroffenen Person mit direkter Bezahlung an die oder das mit dem Gutachten betraute Person oder Institut;
+- i) Nachkontrolle von Unternehmen, die Inhaber eines kollektiven Fahrzeugausweises und von Händlerschildern sind — Fr. 150
+- j) Haftpflichtversicherung: gemäss Tarif der Versicherungsgesellschaften;
+- k) jedes Mal, wenn die Kosten der Dienstleistung nach Zeitaufwand berechnet werden, kostet die Arbeitsstunde Fr. 120 pro Person;
+- l) zu nach Zeitaufwand berechneten Beträgen kommen die Reisekosten, welche eine nach Buchstabe d berechnete Stundenentschädigung und eine Kilometerentschädigung von Fr. 0,70 pro tatsächlich zurückgelegtem Kilometer umfassen. Die Reisekosten werden nicht erhoben bei Führer-prüfungen und bei Kontrollen von landwirtschaftlichen Fahrzeugen, die ausserhalb der offiziellen Kontrollhallen durchgeführt werden;
+- m) Grundausbildung zur Gewährung der Befreiung der Einzelprüfung vor der erstmaligen Inverkehrsetzung von typengenehmigten leichten Motorwagen — Fr. 150
+- n) Verwaltungsgebühren für technische Kontrollen von landwirtschaftlichen Fahrzeugen durch Delegationsbetriebe — Fr. 20
+- o) Expressversand — Fr. 20 bis 40
+- p) andere nicht in diesem Reglement vorgesehene Dienstleistungen: nach ihrer Wichtigkeit.
 
-#### Art. 16
-
-**Aufhebung bisherigen Rechts Inkrafttreten**
-
-<sup>1</sup> Dieses Reglement hebt den Beschluss vom 25. April 1990 über den gleichen Inhalt auf.
-
-<sup>2</sup> Es wird im Amtsblatt veröffentlicht und tritt am 1. April 2003 in Kraft für die Bestimmungen der Artikel 3 Ziffer 1.1 und 4 Ziffer 1.1 und 1.2 und am 1. Juli 2003 für die anderen Bestimmungen.
-
-So beschlossen im Staatsrat zu Sitten den 18. März 2003.
-
-**Fr. 30.--**
-
-**Fr. 1.--**
-
-**Fr. 20.--**
-
-**Fr. 10.--**
-
-**Fr. 100.-- pro**
-
-Der Präsident des Staatsrats: Thomas Burgener Der Staatskanzler: Henri v. Roten
+CSW RO/AGS 2021-176

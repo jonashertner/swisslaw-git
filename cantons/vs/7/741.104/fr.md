@@ -4,284 +4,288 @@ number: "741.104"
 title: "Règlement fixant le tarif des émoluments et des frais en matière d'admission des personnes et des véhicules à la circulation routière"
 short: RTarOAC
 language: fr
-version: 2003-07-01
-corrected: 2017-10-25
-version_adopted: 2003-03-18
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-15
 adopted: 2021-12-15
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/741.104"
-pdf: "https://lex.vs.ch/api/fr/versions/278/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3000/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement fixant le tarif des émoluments et des frais en matière d'admission des personnes et des véhicules à la circulation routière
 
-du 18 mars 2003
+du 15.12.2021 (état 01.01.2022)
 
 Le Conseil d'Etat du canton du Valais
 
-vu la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR) et l'ordonnance du 27 octobre 1976 réglant l'admission des personnes et des véhicules à la circulation routière;
+vu la loi fédérale sur la circulation routière du 19 décembre 1958 (LCR) et l'ordonnance réglant l'admission des personnes et des véhicules à la circulation routière du 27 octobre 1976 (OAC);
 
-vu l'article premier, lettre g de la loi d'application de la LCR du 30 septembre 1987;
+vu l'article 1 alinéa 1 lettre g de la loi d'application de la législation fédérale sur la circulation routière du 30 septembre 1987 (LALCR);
 
-vu la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives du 14 mai 1998;
+vu la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives du 11 février 2009 (LTar);
 
-vu l'art. 88 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996;
+vu l'article 88 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
 
-sur la proposition du département de l'économie, des institutions et de la sécurité,
+sur proposition du département en charge de la sécurité,
 
 arrête:
 
-#### Article premier
+#### Art. 1
 
 **Champ d'application**
 
-<sup>1</sup> Le service de la circulation routière et de la navigation, perçoit les émoluments et les frais énumérés aux articles 2 à 15 ci-après en matière d'admission des personnes et des véhicules à la circulation routière.
+<sup>1</sup> Le service de la circulation routière et de la navigation (ci-après: SCN), perçoit les émoluments et les frais énumérés aux articles 2 à 13 ci-après en matière d’admission des personnes et des véhicules à la circulation routière.
 
 <sup>2</sup> Les droits de timbre sont perçus en sus.
 
-### Section 1: Admission des personnes à la circulation
+## 1 Admission des personnes à la circulation
 
 #### Art. 2
 
 **Permis d'élève conducteur**
 
-**Fr. 60.-- Fr. 50.-- Fr. 30.--**
+<sup>1</sup> Permis d'élève conducteur:
 
-1.1 Délivrance du premier permis 1.2 Délivrance des permis suivants 1.3 Etablissement d'un duplicata ou d'un nouveau permis d'élève conducteur suite à perte, vol ou toute autre circonstance nécessitant son remplacement
+- a) délivrance d'un permis d'élève conducteur — Fr. 40
+- b) établissement d'un duplicata ou d'un nouveau permis d'élève conducteur suite à perte, vol ou toute autre circonstance nécessitant son remplacement — Fr. 30
 
 #### Art. 3
 
 **Examens de conduite**
 
-**Fr. 20.-- Fr. 30.-- Fr. 60.--**
+<sup>1</sup> Examens de conduite:
 
-**Fr. 40.--**
-
-1.1 Autorisation de se présenter à l'examen théorique 1.2 Examens théoriques de base 1.3 Examen théorique complémentaire pour les catégories C ou D ou les sous-catégories C1 ou D1 1.4 Examen portant sur la théorie complémentaire exigée pour la délivrance de l'autorisation de transporter des personnes à titre professionnel aux titulaires d'un permis de conduire des catégories B ou C, des souscatégories B1 ou C1 ou de la catégorie spéciale F 1.5 Examen oral sur requête 1.6 Répétition de l'examen théorique de base, de l'examen portant sur la théorie complémentaire, de l'examen oral:
-
-**Fr. 90.--**
-
-émolument identique à celui prévu sous chiffres 1.2, 1.3, 1.4 et 1.5 1.7 Examen pratique 1.7.1 Catégorie A, sous-catégorie A1 1.7.2 Catégories B, BE, DE, sous-catégories, B1, C1, C1E, D1E et catégorie spéciale F 1.7.3 Catégorie C, CE, sous-catégorie D1 1.7.4 Catégorie D 1.7.5 Examen complémentaire pratique exigé pour la délivrance de l'autorisation d'effectuer des transports à titre professionnel aux titulaires d'un permis de conduire des catégories B ou C, des sous-catégories B1 ou C1 ou de la catégorie spéciale F 1.8 Répétition de l'examen pratique: émolument identique à celui prévu sous chiffres 1.7.1, 1.7.2, 1.7.3, 1.7.4 et 1.7.5 1.9 Examens particuliers:
-
-**Fr. 60.-- Fr. 90.--**
-
-**Fr. 135.-- Fr. 180.-- Fr. 90.--**
-
-Pour les examens particuliers suivants ordonnés par l'autorité, il sera perçu un émolument fixé entre Fr. 30.-- et Fr. 180.-- selon l'importance de la prestation si l'émolument pour cette dernière n'est pas prévu dans le présent règlement: nouvel examen théorique et/ou pratique, course de contrôle, examen pratique de conduite d'un véhicule adapté à un handicap, test d'aptitude (Beck), examen pratique des catégories G ou M, tout autre examen particulier 1.10 Examen théorique, pratique ou particulier non décommandé 3 jours ouvrables avant le jour fixé:
-
-émolument prévu pour l'examen sollicité ou ordonné 1.11 Annulation dans le délai fixé d'un rendez-vous pour un examen pratique 1.12 Autorisation de subir l'examen de conduite (théorie et/ou pratique) dans un autre canton
+- a) autorisation de se présenter à un examen ou à une course de contrôle — Fr. 10
+- b) établissement d'une nouvelle autorisation suite à perte, vol, changement d’adresse ou toute autre circonstance nécessitant son remplacement — Fr. 10
+- c) examens théoriques de base — Fr. 30
+- d) examen théorique complémentaire pour les catégories C ou D ou les sous-catégories C1 ou D1 — Fr. 80
+- e) examen portant sur la théorie complémentaire exigée pour la délivrance de l'autorisation de transporter des personnes à titre professionnel aux titulaires d'un permis de conduire des catégories B ou C, des sous-catégories B1 ou C1 ou de la catégorie spéciale F — Fr. 40
+- f) examen théorique individuel sur requête — Fr. 90
+- g) examen pratique:
+  - 1\. catégorie A, sous-catégorie A1 — Fr. 80
+  - 2\. catégories B, BE, DE, sous-catégories, B1, C1E, D1E et catégorie spéciale F — Fr. 90
+  - 3\. catégorie C, CE, sous-catégories C1, D1 — Fr. 135
+  - 4\. catégorie D — Fr. 180
+  - 5\. examen complémentaire pratique exigé pour la délivrance de l'autorisation d'effectuer des transports à titre professionnel aux titulaires d'un permis de conduire des catégories B ou C, des sous-catégories B1 ou C1 ou de la catégorie spéciale F — Fr. 90
+- h) examen théorique OACP — Fr. 80
+- i) examens particuliers: pour les examens particuliers suivants ordonnés par l'autorité, il sera perçu un émolument fixé entre Fr. 30 et Fr. 180 selon l'importance de la prestation, si l'émolument pour cette dernière n'est pas prévu dans le présent règlement: nouvel examen théorique et/ou pratique, course de contrôle, examen pratique de conduite d’un véhicule adapté à un handicap, test psychotechnique, examen pratique des catégories G ou M, tout autre examen particulier;
+- j) examen théorique, pratique ou particulier non décommandé 7 jours ouvrables avant le jour fixé: émolument prévu pour l'examen sollicité ou ordonné;
+- k) annulation dans le délai fixé d'un rendez-vous pour un examen pratique — Fr. 20
+- l) autorisation de subir l'examen de conduite (théorie et/ou pratique) dans un autre canton — Fr. 30
+- m) consultation du résultat d'un examen théorique — Fr. 30
 
 #### Art. 4
 
-**Fr. 20.--**
+**Permis de conduire et autorisations**
 
-**Fr. 30.--**
+<sup>1</sup> Permis de conduire et autorisations:
 
-**Permis de conduire et autorisation pour le transport professionnel**
+- a) délivrance d'un permis de conduire format carte de crédit (pcc) — Fr. 50
+- b) établissement d'un duplicata d'un pcc suite à perte, vol ou endommagement — Fr. 40
+- c) délivrance d'un permis de conduire suisse suite à l'échange d'un permis étranger — Fr. 120
+- d) délivrance d'un permis international — Fr. 40
+- e) délivrance d'un permis ou d'une autorisation de conduire lors d'un retrait différencié — Fr. 50
+- f) établissement d'un certificat de capacité (permis 95) — Fr. 35
 
-**Fr. 50.--**
-
-**Fr. 50.--**
-
-**Fr. 70.--**
-
-**Fr. 140.--**
-
-**Fr. 50.--**
-
-**Fr. 140.--**
-
-1.1 Délivrance d'un permis de conduire format carte de crédit 1.2 Etablissement d'un nouveau permis de conduire suite à perte, vol ou toute autre circonstance nécessitant son remplacement 1.3 Délivrance d'un permis de conduire suisse suite à l'échange d'un permis étranger 1.4 Délivrance d'un permis international 1.4.1 Validité limitée à 1 an 1.4.2 Validité limitée à 2 ans 1.4.3 Validité limitée à 3 ans 1.5 Délivrance d'un permis ou d'une autorisation de conduire lors d'un retrait différencié 1.6 Changement d'adresse du titulaire d'un permis de conduire dans le registre Faber 1.7 Autorisation de transporter des personnes à titre professionnel avec des véhicules des catégories B ou C, des sous-catégories B1 ou C1 ou de la catégorie spéciale F
-
-**Fr. 120.--**
-
-**Fr. 40.-- Fr. 60.-- Fr. 80.-- Fr. 50.--**
-
-**Fr. 10.--**
-
-**Fr. 40.--**
-
-### Section 2: Admission des véhicules à la circulation
+## 2 Admission des véhicules à la circulation
 
 #### Art. 5
 
 **Contrôle des véhicules et de leurs équipements**
 
-**Fr. 100.--**
+<sup>1</sup> Contrôle des véhicules et de leurs équipements:
 
-**Fr. 40.--**
-
-**Fr. 70.--**
-
-**Fr. 30.--**
-
-**Fr. 70.-- à Fr. 140.--**
-
-**Fr. 20.--**
-
-1.1 Contrôle individuel précédant la première immatriculation d'un véhicule réceptionné CH et contrôles subséquents périodiques Voitures automobiles légères dont le poids total n'excède pas 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles Remorques de transport et de travail dont le poids total n'excède pas 3,50 t Voitures automobiles lourdes dont le poids total est supérieur à 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles Remorques de transport et de travail dont le poids total est supérieur à 3,50 t Motocycles, tricycles et quadricycles à moteur Remorques attelées aux motocycles, tricycles et quadricycles à moteur 1.2 Contrôle individuel d'un véhicule non réceptionné ou partiellement réceptionné ou ayant subi une seule transformation ou modification Voitures automobiles légères dont le poids total n'excède pas 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles Remorques de transport et de travail dont le poids total n'excède pas 3,50 t Voitures automobiles lourdes dont le poids total est supérieur à 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles Remorques de transport et de travail dont le poids total est supérieur à 3,50 t Motocycles, tricycles et quadricycles à moteur 1.3 Contrôle du dispositif d’attelage Voitures automobiles légères dont le poids total n'excède pas 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles Voitures automobiles lourdes dont le poids total est supérieur à 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles Motocycles, tricycles et quadricycles à moteur 1.4 Contrôle après renvoi uniquement pour les voiture automobiles et les remorques dont le poids total est supérieur à 3,50 t 1.5 Contrôles des véhicules spéciaux et travaux spéciaux (étude du dossier, cumul de transformations ou de modifications, mesures des émissions sonores ou polluantes, étalonnage de compteur, tests en charge, etc.): selon le temps consacré Contrôle non décommandé 3 jours ouvrables avant le jour fixé: émolument identique à celui prévu pour le contrôle Annulation dans le délai prescrit d'un rendez-vous pour un contrôle technique demandé par le détenteur
+- a) contrôle individuel précédant la première immatriculation d'un véhicule réceptionné CH et contrôles subséquents périodiques:
+  - 1\. voitures automobiles légères dont le poids total est inférieur ou égal à 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles — Fr. 60
+  - 2\. remorques de transport et de travail dont le poids total est inférieur ou égal à 3,50 t — Fr. 50
+  - 3\. voitures automobiles lourdes dont le poids total est supérieur à 3,50 t mais inférieur ou égal à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail; autocars dont le poids total est inférieur ou égal à 19,50 t; remorques de transport et de travail dont le poids total est supérieur à 3,50 t — Fr. 130
+  - 4\. voitures automobiles lourdes dont le poids total est supérieur à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail; autocars dont le poids total est supérieur à 19,50 t; véhicules agricoles dont le poids total est supérieur à 3,50 t — Fr. 130
+  - 5\. motocycles, tricycles et quadricycles à moteur; remorques attelées aux motocycles, tricycles et quadricycles à moteur — Fr. 50
+- b) contrôle individuel d'un véhicule non réceptionné ou partiellement réceptionné ou ayant subi une seule transformation ou modification:
+  - 1\. voitures automobiles légères dont le poids total est inférieur ou égal à 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles — Fr. 120
+  - 2\. remorques de transport et de travail dont le poids total est inférieur ou égal à 3,50 t — Fr. 100
+  - 3\. voitures automobiles lourdes dont le poids total est supérieur à 3,50 t mais inférieur ou égal à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail, les véhicules agricoles; autocars dont le poids total est inférieur ou égal à 19,50 t; remorques de transport et de travail dont le poids total est supérieur à 3,50 t — Fr. 260
+  - 4\. voitures automobiles lourdes dont le poids total est supérieur à 18 t comprenant les véhicules pour le transport de choses, les chariots et les machines de travail, les véhicules agricoles; autocars dont le poids total est supérieur à 19,50 t — Fr. 260
+  - 5\. motocycles, tricycles et quadricycles à moteur — Fr. 100
+- c) contrôle du dispositif d’attelage:
+  - 1\. voitures automobiles légères dont le poids total est inférieur ou égal 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles — Fr. 30
+  - 2\. voitures automobiles lourdes dont le poids total est supérieur à 3,50 t comprenant les véhicules pour le transport de personnes et de choses, les chariots et les machines de travail, les véhicules agricoles — Fr. 60
+  - 3\. motocycles, tricycles et quadricycles à moteur — Fr. 30
+- d) contrôle complémentaire
+  - 1\. contrôle complémentaire pour les véhicules dont le poids total est inférieur ou égal à 3,50 t — Fr. 30 à Fr. 60
+  - 2\. contrôle complémentaire pour les véhicules dont le poids total est supérieur à 3,50 t — Fr. 50 à Fr.130
+- e) contrôles des véhicules spéciaux et travaux particuliers (étude du dossier, cumul de transformations ou de modifications, mesures des émissions sonores ou polluantes, étalonnage de compteur, tests en charge, etc.): selon le temps consacré;
+- f) contrôle non décommandé 4 jours ouvrables avant le jour fixé: émolument identique à celui prévu pour le contrôle;
+- g) annulation dans le délai prescrit d’un rendez-vous pour un contrôle technique demandé par le détenteur — Fr. 20
+- h) préparation du dossier pour les véhicules importés et les véhicules modifiés — Fr. 25 à Fr. 100
+- i) modification d'un poids autorisé d'un véhicule — Fr. 40
 
 #### Art. 6
 
-**Fr. 280.--**
-
 **Permis de circulation**
 
-**Fr. 50.--**
+<sup>1</sup> Permis de circulation:
 
-**Fr. 50.-- Fr. 40.-- Fr. 30.--**
-
-**Fr. 50.--**
-
-**Fr. 50.-- Fr. 250.--**
-
-**Fr. 30.--**
-
-**Fr. 40.--**
-
-**Fr. 30.--**
-
-1.1 Délivrance d'un permis de circulation 1.2 Permis de remplacement 1.2.1 Délivrance d'un permis de remplacement 1.2.2 Prolongation d'un permis de remplacement 1.3 Délivrance d'un permis à court terme (sansRC) par 24 heures 1.4 Délivrance d'un permis de circulation international 1.5 Permis de circulation collectif 1.5.1 Délivrance d'un permis de circulation collectif 1.5.2 Enquête en vue de la délivrance d'un permis de circulation collectif et de plaques professionnelles 1.6 Etablissement d'un nouveau permis de circulation suite à, perte vol ou autre circonstance nécessitant son remplacement 1.7 Changement d'adresse
+- a) délivrance d'un permis de circulation — Fr. 50
+- b) délivrance d'un permis de remplacement — Fr. 50
+- c) délivrance d'un permis à court terme (sans assurance responsabilité civile; ci-après: assurance RC) par 24 heures — Fr. 30
+- d) permis de circulation collectif:
+  - 1\. délivrance d'un permis de circulation collectif — Fr. 50
+  - 2\. enquête en vue de la délivrance d'un permis de circulation collectif et de plaques professionnelles — Fr. 250
+- e) établissement d'un duplicata ou d'un nouveau permis de circulation suite à perte, vol ou toute autre circonstance nécessitant son remplacement — Fr. 30
 
 #### Art. 7
 
-**Fr. 10.--**
-
 **Autorisations spéciales**
 
-1.1 Délivrance d'une autorisation d'emprunter la voie publique, sur un court tronçon déterminé, avec des véhicules dépourvus de permis de circulation et de plaques (par véhicule) 1.1.1 Chariot de travail et machine de travail dont le poids total n'excède pas 3,50 t 1.1.2 Chariots de travail et machines de travail dont le poids total est supérieur à 3,50 t 1.1.3 Autres véhicules automobiles 1.1.4 Enquête relative à la délivrance d'une autorisation selon ch.1.1 et contrôle de sécurité du véhicule: selon le temps consacré 1.2 Délivrance d'une autorisation pour circuler de nuit, les dimanches et jours fériés (selon durée de validité et par Fr. 200.-- véhicule) 1.3 Délivrance d'une autorisation exceptionnelle pour véhicules Fr. 50.-- agricoles (par véhicule) 1.4 Délivrance d'une autorisation de transporter des personnes avec des camions avec des véhicules des catégories C ou C1 (par véhicule) 1.5 Délivrance d'autres autorisations spéciales (selon genre et Fr. 30.-- à durée de validité)
+<sup>1</sup> Autorisations spéciales:
+
+- a) délivrance d'une autorisation d'emprunter la voie publique, sur un court tronçon déterminé, avec des véhicules dépourvus de permis de circulation et de plaques (par véhicule pour la durée de l’autorisation):
+  - 1\. véhicule dont le poids total est inférieur ou égal à 3,50 t — Fr. 60
+  - 2\. véhicule dont le poids total est supérieur à 3,50 t mais inférieur ou égal à 18 t — Fr. 120
+  - 3\. véhicule dont le poids total est supérieur à 18 t — Fr. 250
+  - 4\. enquête relative à la délivrance d'une autorisation selon lettre a et contrôle de sécurité du véhicule: selon le temps consacré;
+- b) délivrance d'une autorisation pour circuler de nuit, les dimanches et jours fériés (selon durée de validité et par véhicule) — Fr. 30 à Fr. 200
+- c) délivrance d'une autorisation exceptionnelle pour véhicules agricoles (par véhicule) — Fr. 50
+- d) délivrance d'une autorisation de transporter des personnes avec des camions avec des véhicules des catégories C ou C1 (par véhicule) — Fr. 50
+- e) délivrance d'autres autorisations spéciales (selon genre et durée de validité) — Fr. 80 à Fr. 150
 
 #### Art. 8
 
-**Fr. 60.--**
-
-**Fr. 120.--**
-
-**Fr. 250.--**
-
-**Fr. 30.-- à**
-
-**Fr. 50.--**
-
-**Fr. 80.--**
-
 **Plaques de contrôle**
 
-**Fr. 30.-- Fr. 90.-- Fr. 200.-- Fr. 300.--**
+<sup>1</sup> Plaques de contrôle:
 
-1.1 Voitures automobiles, machines de travail et véhicules spéciaux (la paire) 1.2 Véhicules à plaque unique (motocycles, remorques, chariots de travail, etc.) 1.3 Véhicules agricoles 1.4 Véhicules automobiles immatriculés provisoirement 1.5 Motocycles immatriculés provisoirement 1.6 Emolument supplémentaire pour plaques de contrôle au choix du détenteur 1.6.1 voitures automobiles numéro à 4 chiffres numéro à 5 chiffres numéro à 6 chiffres 1.6.2 motocycles numéro à 4 chiffres numéro à 5 chiffres 1.6.3 Reprise par le même détenteur après perte ou vol des plaques 1.7 Dépôt de garantie pour plaques de contrôle de voitures automobiles délivrées avec un permis à court terme 1.8 Dépôt de garantie pour plaques de contrôle de motocycles et remorques délivrées avec un permis à court terme
+- a) voitures automobiles, voitures automobiles de travail et véhicules spéciaux (la paire) — Fr. 40
+- b) véhicules à plaque unique (motocycles, remorques, porte-vélo, etc.) — Fr. 30
+- c) véhicules agricoles — Fr. 20
+- d) véhicules automobiles immatriculés provisoirement — Fr. 60
+- e) motocycles immatriculés provisoirement — Fr. 40
+- f) le SCN met aux enchères sur son site internet les numéros de plaques présentant un intérêt particulier. Les montants de départ des enchères sont les suivants:
+  - 1\. voitures automobiles:
+  - 1\.1. numéros à 1 chiffre — Fr. 10'000
+  - 1\.2. numéros à 2 chiffres — Fr. 5'000
+  - 1\.3. numéros à 3 chiffres — Fr. 3'000
+  - 1\.4. numéros à 4 chiffres présentant un intérêt particulier — Fr. 1'500
+  - 1\.5 numéros à 5 chiffres présentant un intérêt particulier — Fr. 250
+  - 1\.6 numéros à 6 chiffres présentant un intérêt particulier — Fr. 100
+  - 2\. motocycles:
+  - 2\.1. numéros à 1 chiffre — Fr. 5'000
+  - 2\.2. numéros à 2 chiffres — Fr. 3'000
+  - 2\.3. numéros à 3 chiffres — Fr. 1'500
+  - 2\.4. numéros à 4 chiffres présentant un intérêt particulier — Fr. 250
+  - 2\.5 numéros à 5 chiffres présentant un intérêt particulier — Fr.100
+- g) émolument supplémentaire pour plaques de contrôle au choix du détenteur si le numéro n'est pas destiné aux enchères:
+  - 1\. voitures automobiles:
+  - 1\.1. numéros à 4 chiffres — Fr. 1'500
+  - 1\.2. numéros à 5 chiffres — Fr. 250
+  - 1\.3. numéros à 6 chiffres — Fr. 100
+  - 2\. motocycles:
+  - 2\.1. numéros à 4 chiffres — Fr. 250
+  - 2\.2. numéros à 5 chiffres — Fr. 100
+  - 3\. véhicules agricoles:
+  - 3\.1. numéros à 1 chiffre — Fr. 5'000
+  - 3\.2. numéros à 2 chiffres — Fr. 3'000
+  - 3\.3. numéros à 3 chiffres — Fr. 1'500
+  - 3\.4. numéros à 4 chiffres — Fr. 250
+  - 3\.5. numéros à 5 chiffres — Fr. 100
+- h) reprise par le même détenteur après annulation, perte ou vol des plaques — Fr. 80
+- i) dépôt de garantie pour plaques de contrôle de voitures automobiles délivrées avec un permis à court terme — Fr. 100
+- j) dépôt de garantie pour plaques de contrôle de motocycles et remorques délivrées avec un permis à court terme — Fr. 50
 
 #### Art. 9
 
-**Fr. 80.--**
-
-**Fr. 100.--**
-
-**Fr. 50.--**
-
 **Dispositions propres aux cyclomoteurs**
 
-**Fr. 20.-- Fr. 15.--**
+<sup>1</sup> Dispositions propres aux cyclomoteurs:
 
-1.1 Délivrance d'un permis de circulation 1.2 Plaques pour cyclomoteur avec impôt (assurance RC non comprise) 1.3 Contrôle obligatoire extraordinaire suite à un rapport de Fr. 50.-- police 1.4 Contrôle obligatoire extraordinaire non décommandé 3 jours ouvrables avant le jour fixé: émolument identique à celui prévu pour le contrôle
+- a) délivrance d'un permis de circulation — Fr. 20
+- b) plaque pour cyclomoteur — Fr. 4
+- c) vignette pour cyclomoteur avec impôt (assurance RC non comprise) — Fr. 17
+- d) contrôle obligatoire extraordinaire suite à un rapport de police — Fr. 50
+- e) frais de délivrance d'une plaque et/ou d’une vignette pour cyclomoteur — Fr. 7
 
-### Section 3: Moniteurs et écoles de conduite
+## 3 Moniteurs et écoles de conduite
 
 #### Art. 10
 
-**Examen préliminaire: matières d'examen**
+**Autorisations et surveillance**
 
-**Fr. 320.--**
+<sup>1</sup> Autorisations et surveillance:
 
-1.1 Connaissances générales: entretien, calcul, lettre, rédaction 1.2 Examen théorique catégorie I, III, IV 1.3 Examen théorique catégorie II 1.4 Examen pratique catégories I, IV 1.5 Examen pratique catégorie II 1.6 Répétition de l'examen théorique, de l'examen pratique:
+- a) délivrance de l'autorisation d'enseigner — Fr. 250
+- b) délivrance d'une autorisation pour animateur deux phases — Fr. 50
+- c) prolongation d'une autorisation pour animateur deux phases — Fr. 30
+- d) délivrance d'une autorisation pour l'exploitation d'un centre de formation deux phases — Fr. 100
+- e) inspection initiale des installations d'une école de conduite — Fr. 180
+- f) inspection de l'activité des moniteurs de conduite — Fr. 120
 
-émolument identique à celui prévu sous chiffres 1.2, 1.3, 1.4, 1.5
+## 4 Mesures administratives, mesures d'exécution et sanctions
 
 #### Art. 11
 
-**Fr. 20.-- Fr. 60.-- Fr. 40.--**
+**Mesures administratives**
 
-**Examen final et délivrance du permis de moniteurde conduite**
+<sup>1</sup> Mesures administratives:
 
-1.1 Examen de moniteur de conduite: selon tarif des écoles professionnelles pour moniteurs de conduite 1.2 Délivrance d'un permis de moniteur de conduite 1.3 Adjonction d'une catégorie 1.4 Etablissement d'un nouveau permis de moniteur de conduite suite à perte, vol ou toute autre circonstance nécessitant son remplacement
+- a) décision ordonnant un examen médical, un examen psychologique ou psychiatrique, un nouvel examen théorique ou pratique ou tous les deux, une course de contrôle — Fr. 80 à Fr. 300
+- b) retrait du permis de circulation collectif et des plaques professionnelles — Fr. 80 à Fr. 300
+- c) retrait de la délégation ou du sceau de contrôle à un garage — Fr. 80 à Fr. 300
+- d) refus de délivrer un permis d’élève conducteur ou un permis de conduire — Fr. 80 à Fr. 300
+- e) avertissement — Fr. 80 à Fr. 200
+- f) retrait du permis d’élève conducteur ou du permis de conduire:
+- 1\. retrait préventif — Fr. 80 à Fr. 300
+- 2\. retrait de sécurité et d'admonestation — Fr. 120 à Fr. 300
+- g) interdiction de faire usage d’un permis de conduire étranger — Fr. 120 à Fr. 300
+- h) restitution du permis d'élève conducteur ou du permis de conduire — Fr. 120 à Fr. 300
+- i) cours d'éducation routière
+  - 1\. délivrance d'une autorisation de dispenser des cours — Fr. 250
+  - 2\. inspection de l'activité — Fr. 120
+- j) décision de restitution provisoire d’un permis d’élève conducteur ou d’un permis de conduire saisi par la police — Fr. 50 à Fr.100
+- k) avertissement pour moniteurs de conduite — Fr. 80 à Fr. 200
+- l) retrait du permis de moniteur de conduite — Fr. 120 à Fr. 300
+- m) retrait du permis de circulation — Fr. 100 à Fr. 200
+- n) établissement d’un ordre de séquestre de permis de conduire ou de circulation par la police (frais de police en sus) — Fr. 30 à Fr. 50
+- o) refus ou retrait de la dispense de présenter au contrôle individuel des véhicules lors de leur première immatriculation — Fr. 100 à Fr. 200
+- p) retrait des droits accordés par convention aux garagistes — Fr. 100 à Fr. 200
+- q) autres décisions non prévues par le présent règlement — Fr. 80 à Fr. 300
+- r) les débours de l’autorité sont calculés conformément aux articles 2 et 5 à 9 de la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives.
 
 #### Art. 12
 
-**Fr. 1500.- Fr. 250.-- Fr. 100.--**
+**Sanctions**
 
-**Fr. 250.-- Fr. 100.--**
+<sup>1</sup> Sanctions:
 
-**Fr. 250.-- Fr. 40.-- Fr. 50.--**
+- a) émolument de la décision pénale — Fr. 60 à Fr. 200
+- b) les débours de l'autorité sont calculés conformément aux articles 2 et 5 à 9 de la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives.
 
-**Surveillance des écoles de conduite**
-
-**Fr. 180.--**
-
-**Fr. 80.-- à Fr. 300.--**
-
-**Fr. 80.-- à Fr. 200.--**
-
-**Fr. 80.-- à Fr. 300.-- Fr. 120.-- à Fr. 300.-- Fr. 120.-- à Fr. 300.--**
-
-**Fr. 60.-- à Fr. 100.--**
-
-**Fr. 80.-- à Fr. 150.--**
-
-**Fr. 80.-- à Fr. 200.-- Fr. 120.-- à Fr. 300.-- Fr. 100.-- à Fr. 200.--**
-
-**Fr. 80.-- à Fr. 300.--**
-
-1.1 Inspection initiale des installations d'une école de conduite 1.2 Inspection de l'activité des moniteurs de conduite
-
-**Fr. 120.--**
-
-### Section 4 Mesures administratives, mesures d'exécution et
-
-sanctions
+## 5 Dispositions diverses
 
 #### Art. 13
 
-**Mesures administratives**
-
-1.1 Décision ordonnant un examen médical, un examen psychologique ou psychiatrique, un nouvel examen théorique ou pratique ou tous les deux, une course de contrôle 1.2 Refus de délivrer un permis d'élève conducteur Fr. 80.-- à Fr. 300.-- ou un permis de conduire 1.3 Avertissement 1.4 Retrait du permis d'élève conducteur ou du permis de conduire 1.4.1 Retrait préventif 1.4.2 Retrait de sécurité et d'admonestation 1.5 Interdiction de faire usage d'un permis de conduire étranger 1.6 Restitution du permis d'élève conducteur ou du Fr. 120.-- à Fr. 300.-- permis de conduire 1.7 Cours d'éducation routière 1.7.1 Gestion administrative du cours 1.7.2 Cours: selon tarif de l'organisation spécialisée qui dispense le cours 1.8 Décision de restitution provisoire d'un permis Fr. 80.-- à Fr. 100.-- d'élève conducteur ou d'un permis de conduire saisi par la police 1.9 Décision relative à l'exécution d'un retrait d'admonestation 1.10 Avertissement pour moniteurs de conduite 1.11 Retrait du permis de moniteur de conduite 1.12 Retrait du permis de circulation 1.13 Refus ou retrait de la dispense de présenter au Fr. 100.-- à Fr. 200.-- contrôle individuel des véhicules lors de leur première immatriculation 1.14 Retrait des droits accordés par convention aux Fr. 100.-- à Fr. 200.-- garagistes 1.15 Autres décisions non prévues par le présent Règlement 2. Les débours de l'autorité sont calculés conformément aux articles 2 et 5 à 9 de la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives
-
-#### Art. 14
-
-**Sanctions**
-
-**Fr. 60.-- à Fr. 200.--**
-
-- 1\. Emolument de la décision pénale
-
-- 2\. Les débours de l'autorité sont calculés conformément aux articles 2 et 5 à 9 de la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives
-
-### Section 5: Dispositions diverses et finales
-
-#### Art. 15
-
 **Autres émoluments et débours**
 
-**Fr. 60.--**
+<sup>1</sup> Autres émoluments et débours:
 
-1.1 Délivrance d'une autorisation de former des apprentis conducteurs de camions 1.2 Frais d'immatriculation, demutation 1.3 Renseignements spéciaux: selon le temps consacré 1.4 Photocopies: la page (selon le nombre) 1.5 Photocopies de documents microfilmés: la page 1.6 Attestations et déclarations 1.7 Emolument supplémentaire pour prestation immédiate aux guichets 1.8 Autres prestations non prévues par le présent règlement: selon leur importance 1.9 Frais des examens médicaux, des expertises médicales, psychotechniques, psychologiques, psychiatriques: à la charge de l'intéressé et paiement direct à la personne ou àl 'institut chargés de l'examen ou de l'expertise 1.10 Contrôle subséquent des entreprises titulaires d'un permis de circulation collectif et de plaques professionnelles et de celles autorisées à procéder au contrôle des dispositifs limiteurs de vitesse, tachygraphe et enregistreurs de fin de parcours 1.11 Assurance responsabilité civile (RC): selon tarif des compagnies 1.12 Chaque fois que le coût de la prestation doit être déterminé en fonction du temps consacré, le prix de l'heure est de Fr. 100.-- par personne 1.13 Aux montants facturés en fonction du temps consacré, s'ajoutent les frais de déplacement qui comprennent une indemnité horaire calculée conformément au chiffre 1.3 ci-devant et une indemnité de Fr. 0,60 par kilomètre effectif parcouru. Les frais de déplacement ne sont pas perçus pour les examens de conduite ainsi que pour les contrôles des véhicules agricoles effectués à l'extérieur des halles officielles de contrôle
+- a) délivrance d'une autorisation de former des apprentis conducteurs de camions — Fr. 60
+- b) frais d'immatriculation, de mutation — Fr. 30
+- c) ristourne pour saisie d'une demande d'immatriculation dans le module internet ad hoc — Fr. 10
+- d) renseignements spéciaux: selon le temps consacré;
+- e) photocopies: dès 10 pages, Fr. 1 la page — Fr. max. 30
+- f) photocopies de documents microfilmés: la page — Fr. 5
+- g) attestations, déclarations, certificats — Fr. 20 à Fr. 50
+- h) frais des examens médicaux, des expertises médicales, psychotechniques, psychologiques, psychiatriques: à la charge de l'intéressé et paiement direct à la personne ou à l'institut chargés de l'examen ou de l'expertise;
+- i) contrôle subséquent des entreprises titulaires d'un permis de circulation collectif et de plaques professionnelles — Fr. 150
+- j) assurance RC: selon tarif des compagnies;
+- k) chaque fois que le coût de la prestation doit être déterminé en fonction du temps consacré, le prix de l’heure est de Fr. 120 par personne;
+- l) aux montants facturés en fonction du temps consacré, s’ajoutent les frais de déplacement qui comprennent une indemnité horaire calculée conformément à la lettre d ci-devant et une indemnité de Fr. 0,70 par kilomètre effectif parcouru. Les frais de déplacement ne sont pas perçus pour les examens de conduite ainsi que pour les contrôles des véhicules agricoles effectués à l’extérieur des halles officielles de contrôle;
+- m) formation de base pour l'octroi de la dispense de contrôle individuel précédant la première mise en circulation pour les véhicules automobiles légers réceptionnés — Fr. 150
+- n) émoluments administratifs pour l’expertise agricole des délégataires — Fr. 20
+- o) envoi EXPRESS — Fr. 20 à Fr. 40
+- p) autres prestations non prévues par le présent règlement: selon leur importance.
 
-#### Art. 16
-
-**Abrogation - Entrée en vigueur**
-
-<sup>1</sup> Le présent règlement abroge l'arrêté du 25 avril 1990 sur le même objet.
-
-<sup>2</sup> Il sera publié au Bulletin officiel et entrera en vigueur le 1<sup>er</sup> avril 2003 pour les dispositions prévues aux articles 3 ch.1.1 et 4 ch. 1.1 et 1.2 et le 1<sup>er</sup> juillet 2003 pour les autres dispositions.
-
-Ainsi arrêté en Conseil d'Etat, à Sion, le 18 mars 2003.
-
-**Fr. 30.--**
-
-**Fr. 1.-- à Fr. 2.-- Fr. 5.-- Fr. 20.-- à Fr. 50.-- Fr. 10.--**
-
-**Fr. 150.--**
-
-Le président du Conseil d'Etat: Thomas Burgener Le chancelier d'Etat: Henri v. Roten
+RCV RO/AGS 2021-176
