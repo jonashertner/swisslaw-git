@@ -4,10 +4,9 @@ number: "415.213"
 title: Reglement über die Entschädigung von Pikettdienst in besonderen Organisationseinheiten an der Universität Zürich (REP-UZH)
 short: REP-UZH
 language: de
-nachtrag: "115"
-valid_until: 2022-01-01
+nachtrag: "116"
 adopted: 2021-05-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_213-2021_05_04-2022_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_213-2021_05_04-2022_01_01-116.html"
 text: pdf
 ---
 
@@ -89,4 +88,4 @@ Dieses Reglement tritt am 1. Januar 2022 in Kraft.
 
 ## Weitere Fussnoten
 
-- [*] Beschluss der Universitätsleitung vom 22. Juni 2021 betreffend Organisationseinheiten mit Pikettdienst im Sinne von § 1 Abs. 3: rd.uzh.ch/de/rechtssammlung. html 1. 1. 22 - 115 1
+- [*] Beschluss der Universitätsleitung vom 22. Juni 2021 betreffend Organisationseinheiten mit Pikettdienst im Sinne von § 1 Abs. 3: rud.uzh.ch/de/rechtsgrundlagen/ rechtssammlung-uzh.html 1. 1. 22 - 115 1
