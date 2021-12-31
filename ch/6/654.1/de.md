@@ -4,11 +4,11 @@ title: Bundesgesetz vom 16. Juni 2017 über den internationalen automatischen Au
 short: ALBAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/645"
 language: de
-version: 2017-12-01
+version: 2022-01-01
 adopted: 2017-06-16
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/645/20171201/de/xml/fedlex-data-admin-ch-eli-cc-2017-645-20171201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/645/20171201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/645/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-645-20220101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/645/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/645/20171201/de"
 
 (ALBAG)
 
-vom 16. Juni 2017 (Stand am 1. Dezember 2017)
+vom 16. Juni 2017 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 173 Absatz 2 der Bundesverfassung[^ingress-1], nach Einsic
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2017 33](https://fedlex.data.admin.ch/eli/fga/2017/3)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -43,7 +43,7 @@ Dieses Gesetz regelt die Umsetzung des automatischen Austauschs länderbezogener
 
 <sup>2</sup> Vorbehalten sind die abweichenden Bestimmungen des im Einzelfall anwendbaren Abkommens.
 
-[^1-1]: [SR 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [BBl 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^1-1]: [SR 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [BBl 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 2
 
@@ -77,10 +77,10 @@ In diesem Gesetz bedeuten:
 - k. *schweizerische Steueridentifikationsnummer für Rechtsträger (UID):* die Unternehmens-Identifikationsnummer nach dem Bundesgesetz vom 18. Juni 2010[^2-4] über die Unternehmens-Identifikationsnummer;
 - l. *systemisches Scheitern*: Zustand, der eintritt, wenn der Partnerstaat der Pflicht zum automatischen Austausch der länderbezogenen Berichte aus Gründen, die sich nicht durch das anwendbare Abkommen rechtfertigen lassen, anhaltend nicht nachkommt.
 
-[^2-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^2-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^2-3]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
-[^2-4]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^2-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^2-3]: [SR 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
+[^2-4]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 ## 2. Abschnitt: Länderbezogener Bericht
 
@@ -124,7 +124,10 @@ Der berichtende Rechtsträger ist verpflichtet, den länderbezogenen Bericht bei
 
 **Einreichungspflicht eines anderen in der Schweiz ansässigen konstitutiven Rechtsträgers**
 
-- [tab] <sup>1</sup> Die ESTV kann jeden anderen in der Schweiz ansässigen konstitutiven Rechtsträger eines multinationalen Konzerns, dessen jährlicher konsolidierter Umsatz den nach Artikel 6 festgelegten Schwellenwert überschreitet, zur Einreichung des länderbezogenen Berichts verpflichten, wenn:
+<sup>1</sup>
+
+Die ESTV kann jeden anderen in der Schweiz ansässigen konstitutiven Rechtsträger eines multinationalen Konzerns, dessen jährlicher konsolidierter Umsatz den nach Artikel 6 festgelegten Schwellenwert überschreitet, zur Einreichung des länderbezogenen Berichts verpflichten, wenn:
+
 - a. der Staat oder das Hoheitsgebiet, in dem die Konzernobergesellschaft steuerlich ansässig ist, kein Partnerstaat ist; oder
 - b. beim Partnerstaat, in dem die Konzernobergesellschaft steuerlich ansässig ist, ein systemisches Scheitern eingetreten ist.
 
@@ -200,7 +203,7 @@ Versäumt der zur Einreichung des länderbezogenen Berichts verpflichtete Rechts
 
 <sup>4</sup> Die länderbezogenen Berichte, welche die ESTV aufgrund von Artikel 8 Absatz 1 erhält, unterliegen denselben Einschränkungen bei der Verwendung, wie wenn sie diese aufgrund der ALBA-Vereinbarung[^13-1] erhalten hätte.
 
-[^13-1]: [SR 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [BBl 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^13-1]: [SR 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [BBl 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 14
 
@@ -326,6 +329,18 @@ Auf Antrag erlässt sie eine Feststellungsverfügung über:
 - a. die Eigenschaft des Rechtsträgers als berichtender Rechtsträger nach dem anwendbaren Abkommen und diesem Gesetz;
 - b. den Inhalt des länderbezogenen Berichts nach dem anwendbaren Abkommen und diesem Gesetz.
 
+#### Art. 22a
+
+**Elektronische Verfahren**[^22a-1]
+
+<sup>1</sup> Der Bundesrat kann die elektronische Durchführung von Verfahren nach diesem Gesetz vorschreiben. Dabei regelt er die Modalitäten der Durchführung.
+
+<sup>2</sup> Die ESTV stellt bei der elektronischen Durchführung von Verfahren die Authentizität und Integrität der übermittelten Daten sicher.
+
+<sup>3</sup> Sie kann bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der qualifizierten elektronischen Signatur eine andere elektronische Bestätigung der Angaben durch die eingebende Person anerkennen.
+
+[^22a-1]: Eingefügt durch Ziff. I 8 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 ## 7. Abschnitt: Aussetzung und Kündigung
 
 #### Art. 23
@@ -357,7 +372,7 @@ Das Eidgenössische Finanzdepartement (EFD) darf nur mit Ermächtigung durch den
 
 <sup>2</sup> Fällt eine Busse von höchstens 25 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 des Bundesgesetzes vom 22. März 1974[^25-1] über das Verwaltungsstrafrecht (VStrR) strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die angedrohte Strafe unverhältnismässig wären, so kann von einer Verfolgung dieser Personen abgesehen und an ihrer Stelle der Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilt werden.
 
-[^25-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 26
 
@@ -373,7 +388,7 @@ Wer im Rahmen einer Überprüfung nach Artikel 22 einer amtlichen Verfügung, di
 
 <sup>2</sup> Verfolgende und urteilende Behörde ist die ESTV.
 
-[^27-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^27-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 9. Abschnitt: Schlussbestimmungen
 
@@ -383,7 +398,7 @@ Wer im Rahmen einer Überprüfung nach Artikel 22 einer amtlichen Verfügung, di
 
 Der Bundesrat ist für die Aufnahme eines Staates oder Hoheitsgebiets in die Liste nach Abschnitt 8 Absatz 1 Buchstabe e der ALBA-Vereinbarung[^28-1] zuständig.
 
-[^28-1]: [SR 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [BBl 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^28-1]: [SR 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [BBl 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 29
 
@@ -403,7 +418,7 @@ Die Bundesversammlung genehmigt alle Änderungen des anwendbaren Abkommens mit e
 
 <sup>4</sup> Die Einreichungsfrist nach Artikel 11 Absatz 1 gilt sinngemäss.
 
-[^30-1]: [SR 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [BBl 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^30-1]: [SR 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [BBl 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 31
 

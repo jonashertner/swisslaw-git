@@ -4,11 +4,11 @@ title: Legge federale del 16 giugno 2017 sullo scambio automatico internazionale
 short: LSRPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/645"
 language: it
-version: 2017-12-01
+version: 2022-01-01
 adopted: 2017-06-16
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/645/20171201/it/xml/fedlex-data-admin-ch-eli-cc-2017-645-20171201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/645/20171201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/645/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-645-20220101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/645/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/645/20171201/it"
 
 (LSRPP)
 
-del 16 giugno 2017 (Stato 1° dicembre 2017)
+del 16 giugno 2017 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 173 capoverso 2 della Costituzione federale[^ingress-1]; vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2017 33](https://fedlex.data.admin.ch/eli/fga/2017/3)
 
 ## Sezione 1: Disposizioni generali
@@ -43,7 +43,7 @@ La presente legge disciplina l’attuazione dello scambio automatico delle rendi
 
 <sup>2</sup> Sono fatte salve le disposizioni derogatorie dell’accordo applicabile nel singolo caso.
 
-[^1-1]: [RS 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^1-1]: [RS 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 2
 
@@ -77,10 +77,10 @@ Nella presente legge s’intende per:
 - k. *numero d’identificazione fiscale svizzero per enti (IDI):* il numero d’identificazione delle imprese secondo la legge federale del 18 giugno 2010[^2-4] sul numero d’identificazione delle imprese;
 - l. *omissione sistematica:* situazione che si verifica quando uno Stato partner sospende in maniera duratura lo scambio automatico delle rendicontazioni Paese per Paese per motivi non giustificati dall’accordo applicabile.
 
-[^2-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^2-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^2-3]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
-[^2-4]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^2-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^2-3]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
+[^2-4]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 ## Sezione 2: Rendicontazione Paese per Paese
 
@@ -159,7 +159,11 @@ L’ente notificante è tenuto a iscriversi spontaneamente presso l’AFC, indic
 - b. la ragione sociale e la sede;
 - c. il numero IDI;
 - d. la data dell’inizio della sua attività.
-- [tab] <sup>2</sup> Se l’ente notificante ha la sua sede statutaria all’estero e la sua amministrazione effettiva in Svizzera, la direzione deve iscrivere l’ente notificante presso l’AFC, indicando:
+
+<sup>2</sup>
+
+Se l’ente notificante ha la sua sede statutaria all’estero e la sua amministrazione effettiva in Svizzera, la direzione deve iscrivere l’ente notificante presso l’AFC, indicando:
+
 - a. se l’ente notificante è la società madre o la società madre supplente;
 - b. la ragione sociale, il luogo della sede principale e l’indirizzo della direzione in Svizzera;
 - c. il numero IDI;
@@ -199,7 +203,7 @@ Se l’ente tenuto a fornire la rendicontazione Paese per Paese non osserva il t
 
 <sup>4</sup> Alle rendicontazioni Paese per Paese che l’AFC ha ricevuto in virtù dell’articolo 8 capoverso 1 si applicano le stesse restrizioni inerenti all’impiego previste per le rendicontazioni ricevute sulla base dell’Accordo SRPP[^13-1].
 
-[^13-1]: [RS 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^13-1]: [RS 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 14
 
@@ -325,6 +329,18 @@ Su richiesta, l’AFC pronuncia una decisione di accertamento:
 - a. della qualità dell’ente in quanto ente notificante secondo l’accordo applicabile e la presente legge;
 - b. del contenuto delle rendicontazioni Paese per Paese secondo l’accordo applicabile e la presente legge.
 
+#### Art. 22a
+
+**Procedure elettroniche**[^22a-1]
+
+<sup>1</sup> Il Consiglio federale può prescrivere lo svolgimento per via elettronica delle procedure previste dalla presente legge. Ne disciplina le modalità.
+
+<sup>2</sup> In caso di svolgimento di procedure per via elettronica, l’AFC garantisce l’autenticità e l’integrità dei dati trasmessi.
+
+<sup>3</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, l’AFC può riconoscere, invece della firma elettronica qualificata, un’altra modalità di conferma dei dati per via elettronica da parte della persona che li trasmette.
+
+[^22a-1]: Introdotto dal n. I 8 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 ## Sezione 7: Sospensione e denuncia
 
 #### Art. 23
@@ -356,7 +372,7 @@ Il Dipartimento federale delle finanze (DFF) può agire soltanto con l’autoriz
 
 <sup>2</sup> Se la multa applicabile non supera i 25 000 franchi e se la determinazione delle persone punibili secondo l’articolo 6 della legge del 22 marzo 1974[^25-1] sul diritto penale amministrativo (DPA) esige provvedimenti d’inchiesta sproporzionati all’entità della pena, si può prescindere da un procedimento contro dette persone e, in loro vece, condannare l’impresa al pagamento della multa (art. 7 DPA).
 
-[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 26
 
@@ -372,7 +388,7 @@ Il Dipartimento federale delle finanze (DFF) può agire soltanto con l’autoriz
 
 <sup>2</sup> L’autorità di perseguimento e di giudizio è l’AFC.
 
-[^27-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^27-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Sezione 9: Disposizioni finali
 
@@ -382,7 +398,7 @@ Il Dipartimento federale delle finanze (DFF) può agire soltanto con l’autoriz
 
 Il Consiglio federale è competente per l’inclusione di uno Stato o un territorio nell’elenco delle Giurisdizioni secondo la sezione 8 paragrafo 1 lettera e dell’Accordo SRPP[^28-1].
 
-[^28-1]: [RS 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^28-1]: [RS 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 29
 
@@ -402,7 +418,7 @@ L’Assemblea federale approva mediante decreto federale semplice le modifiche d
 
 <sup>4</sup> Il termine di cui all’articolo 11 capoverso 1 si applica per analogia.
 
-[^30-1]: [RS 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^30-1]: [RS 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 31
 

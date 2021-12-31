@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 juin 2017 sur l'échange international automatique 
 short: LEDPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/645"
 language: fr
-version: 2017-12-01
+version: 2022-01-01
 adopted: 2017-06-16
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/645/20171201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-645-20171201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/645/20171201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/645/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-645-20220101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/645/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/645/20171201/fr"
 
 (Loi sur l’échange des déclarations pays par pays, LEDPP)
 
-du 16 juin 2017 (Etat le 1<sup>er</sup> décembre 2017)
+du 16 juin 2017 (État le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 173, al. 2, de la Constitution[^ingress-1], vu le message du Conseil
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2017 33](https://fedlex.data.admin.ch/eli/fga/2017/3)
 
 ## Section 1 Dispositions générales
@@ -36,14 +36,14 @@ arrête:
 
 <sup>1</sup>
 
-La présente loi règle la mise en œuvre de l’échange automatique des déclarations pays par pays des groupes d’entreprises multinationales entre la Suisse et les Etats partenaires, fondé sur:
+La présente loi règle la mise en œuvre de l’échange automatique des déclarations pays par pays des groupes d’entreprises multinationales entre la Suisse et les États partenaires, fondé sur:
 
 - a. l’accord multilatéral du 27 janvier 2016 entre autorités compétentes portant sur l’échange des déclarations pays par pays (accord EDPP)[^1-1];
 - b. d’autres conventions internationales qui prévoient un échange automatique des déclarations pays par pays.
 
 <sup>2</sup> Sont réservées les dispositions dérogatoires de la convention applicable en l’espèce.
 
-[^1-1]: [RS 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^1-1]: [RS 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 2
 
@@ -52,7 +52,7 @@ La présente loi règle la mise en œuvre de l’échange automatique des décla
 Dans la présente loi, on entend par:
 
 - a. *convention applicable:* l’accord au sens de l’art. 1, al. 1, let. a, ou la convention au sens de l’art. 1, al. 1, let. b, applicable selon le cas d’espèce;
-- b. *Etat partenaire:* un Etat ou un territoire avec lequel la Suisse a convenu d’échanger automatiquement les déclarations pays par pays;
+- b. *État partenaire:* un État ou un territoire avec lequel la Suisse a convenu d’échanger automatiquement les déclarations pays par pays;
 - c. *groupe:* un ensemble d’entreprises soumises au contrôle d’une personne morale tenue d’établir pour le groupe des comptes consolidés au sens de l’art. 963, al. 1 à 3, du code des obligations (CO)[^2-1];
 - d.
 
@@ -69,18 +69,18 @@ Dans la présente loi, on entend par:
   - 1\. une entité constitutive qui est assujettie à l’impôt, selon l’art. 50 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (LIFD)[^2-2] et selon l’art. 20, al. 1, de la loi fédérale du 14 décembre 1990 sur l’harmonisation des impôts directs des cantons et des communes (LHID)[^2-3], ou
   - 2\. un établissement stable qui est assujetti à l’impôt selon les art. 51, al. 1, let. b, LIFD et 21, al. 1, let. b, LHID;
 
-- f. *société mère:* l’entité constitutive d’un groupe d’entreprises multinationales, qui en raison de sa participation directe ou indirecte dans d’autres entités constitutives de ce groupe d’entreprises multinationales est tenue d’établir des comptes consolidés dans l’Etat ou le territoire où elle a sa résidence fiscale, ou serait tenue de le faire si ses participations étaient cotées en bourse et qu’aucune autre entité constitutive du groupe d’entreprises multinationales ne détient directement ou indirectement une telle participation;
+- f. *société mère:* l’entité constitutive d’un groupe d’entreprises multinationales, qui en raison de sa participation directe ou indirecte dans d’autres entités constitutives de ce groupe d’entreprises multinationales est tenue d’établir des comptes consolidés dans l’État ou le territoire où elle a sa résidence fiscale, ou serait tenue de le faire si ses participations étaient cotées en bourse et qu’aucune autre entité constitutive du groupe d’entreprises multinationales ne détient directement ou indirectement une telle participation;
 - g. *société mère résidente de Suisse:* une entité constitutive assujettie à l’impôt, selon les art. 50 LIFD et 20, al. 1, LHID, tenue de satisfaire à l’obligation d’établir des comptes consolidés prévue à l’art. 963, al. 1 à 3, CO et ne pouvant bénéficier de la libération prévue à l’art. 963*a*, al. 1, ch. 2, CO;
-- h. *société mère de substitution:* l’entité constitutive du groupe d’entreprises multinationales assujettie à l’impôt, selon les art. 50 LIFD et 20, al. 1, LHID ou en vertu de la loi de l’Etat de résidence, qui en tant que substitut de la société mère est tenue de fournir la déclaration pays par pays pour le compte du groupe;
+- h. *société mère de substitution:* l’entité constitutive du groupe d’entreprises multinationales assujettie à l’impôt, selon les art. 50 LIFD et 20, al. 1, LHID ou en vertu de la loi de l’État de résidence, qui en tant que substitut de la société mère est tenue de fournir la déclaration pays par pays pour le compte du groupe;
 - i. *entité déclarante:* la société mère, ou la société mère de substitution, résidente de Suisse, tenue de fournir la déclaration pays par pays pour le compte du groupe d’entreprises multinationales;
 - j. *période fiscale déclarable:* la période fiscale au sens des art. 79, al. 2, LIFD et 31, al. 2, LHID pour laquelle les données sont indiquées dans la déclaration pays par pays;
 - k. *numéro d’identification fiscale suisse pour les entités (IDE):* le numéro d’identification des entreprises selon la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises[^2-4];
-- l. *défaillance systémique:* la situation se présentant lorsque l’Etat partenaire suspend durablement l’échange automatique des déclarations pays par pays pour des motifs qui ne sont pas admis par la convention applicable.
+- l. *défaillance systémique:* la situation se présentant lorsque l’État partenaire suspend durablement l’échange automatique des déclarations pays par pays pour des motifs qui ne sont pas admis par la convention applicable.
 
-[^2-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^2-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^2-3]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
-[^2-4]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^2-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^2-3]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
+[^2-4]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 ## Section 2 Déclaration pays par pays
 
@@ -88,7 +88,7 @@ Dans la présente loi, on entend par:
 
 **Contenu**
 
-<sup>1</sup> La déclaration pays par pays contient, par Etat et territoire dans lesquels le groupe d’entreprises multinationales est actif, les données relatives aux chiffres d’affaires, aux impôts acquittés, et à d’autres chiffres-clé, ainsi que des données sur les principales activités économiques des entités constitutives du groupe d’entreprises multinationales.
+<sup>1</sup> La déclaration pays par pays contient, par État et territoire dans lesquels le groupe d’entreprises multinationales est actif, les données relatives aux chiffres d’affaires, aux impôts acquittés, et à d’autres chiffres-clé, ainsi que des données sur les principales activités économiques des entités constitutives du groupe d’entreprises multinationales.
 
 <sup>2</sup> Le Conseil fédéral fixe le contenu requis de la déclaration pays par pays, en tenant compte des normes internationales.
 
@@ -128,10 +128,10 @@ L’entité déclarante est tenue de fournir la déclaration pays par pays à l�
 
 L’AFC peut prescrire à toute autre entité constitutive résidente de Suisse appartenant à un groupe d’entreprises multinationales dont le chiffre d’affaires annuel consolidé dépasse le seuil fixé conformément à l’art. 6 de lui fournir une déclaration pays par pays dans les cas suivants:
 
-- a. l’Etat ou le territoire dans lequel la société mère a sa résidence fiscale n’est pas un Etat partenaire, ou
-- b. l’Etat partenaire dans lequel la société mère a sa résidence fiscale présente une défaillance systémique.
+- a. l’État ou le territoire dans lequel la société mère a sa résidence fiscale n’est pas un État partenaire, ou
+- b. l’État partenaire dans lequel la société mère a sa résidence fiscale présente une défaillance systémique.
 
-<sup>2</sup> L’AFC n’exige pas la déclaration pays par pays de l’entité constitutive résidente de Suisse si la société mère de substitution l’a fournie à un Etat partenaire.
+<sup>2</sup> L’AFC n’exige pas la déclaration pays par pays de l’entité constitutive résidente de Suisse si la société mère de substitution l’a fournie à un État partenaire.
 
 #### Art. 9
 
@@ -141,9 +141,9 @@ L’AFC peut prescrire à toute autre entité constitutive résidente de Suisse 
 
 <sup>2</sup>
 
-Une entité constitutive résidente à l’étranger peut être désignée société mère de substitution si son Etat de résidence:
+Une entité constitutive résidente à l’étranger peut être désignée société mère de substitution si son État de résidence:
 
-- a. est un Etat partenaire;
+- a. est un État partenaire;
 - b. ne présente pas de défaillance systémique, et
 - c. a été informé par l’entité constitutive de sa qualité de société mère de substitution.
 
@@ -195,15 +195,15 @@ L’entité déclarante qui ne fournit pas la déclaration pays par pays dans le
 
 **Transmission et utilisation des déclarations pays par pays**
 
-<sup>1</sup> L’AFC transmet les déclarations pays par pays qu’elle a reçues des entités déclarantes aux autorités compétentes des Etats partenaires dans lesquels des entités constitutives du même groupe d’entreprises multinationales sont résidentes, dans les délais fixés par la convention applicable.
+<sup>1</sup> L’AFC transmet les déclarations pays par pays qu’elle a reçues des entités déclarantes aux autorités compétentes des États partenaires dans lesquels des entités constitutives du même groupe d’entreprises multinationales sont résidentes, dans les délais fixés par la convention applicable.
 
 <sup>2</sup> Elle transmet les déclarations pays par pays qu’elle a reçues en vertu des art. 7 et 8 aux autorités compétentes pour l’établissement et le prélèvement des impôts directs des cantons dans lesquels des entités constitutives du même groupe d’entreprises multinationales sont résidentes.
 
-<sup>3</sup> Elle rappelle aux autorités compétentes de l’Etat partenaire et aux autorités cantonales compétentes pour l’établissement et le prélèvement des impôts directs les restrictions à l’utilisation des déclarations pays par pays transmises et l’obligation de maintenir le secret prévues par les dispositions régissant l’assistance administrative de la convention applicable.
+<sup>3</sup> Elle rappelle aux autorités compétentes de l’État partenaire et aux autorités cantonales compétentes pour l’établissement et le prélèvement des impôts directs les restrictions à l’utilisation des déclarations pays par pays transmises et l’obligation de maintenir le secret prévues par les dispositions régissant l’assistance administrative de la convention applicable.
 
 <sup>4</sup> Les déclarations pays par pays que l’AFC a obtenues en vertu de l’art. 8, al. 1, sont soumises aux mêmes restrictions d’utilisation que si elles avaient été obtenues sur la base de l’accord EDPP[^13-1].
 
-[^13-1]: [RS 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^13-1]: [RS 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 14
 
@@ -211,15 +211,15 @@ L’entité déclarante qui ne fournit pas la déclaration pays par pays dans le
 
 <sup>1</sup> Le droit de l’AFC de requérir l’entité déclarante de lui fournir la déclaration pays par pays se prescrit par cinq ans à compter de la fin de l’année civile durant laquelle la déclaration devait être fournie.
 
-<sup>2</sup> La prescription est interrompue chaque fois qu’un acte officiel tendant à requérir la déclaration pays par pays est porté à la connaissance de l’entité déclarante. A chaque interruption, un nouveau délai de prescription commence à courir.
+<sup>2</sup> La prescription est interrompue chaque fois qu’un acte officiel tendant à requérir la déclaration pays par pays est porté à la connaissance de l’entité déclarante. À chaque interruption, un nouveau délai de prescription commence à courir.
 
 <sup>3</sup> Le délai absolu de prescription est de dix ans à compter de la fin de l’année civile durant laquelle la déclaration pays par pays devait être fournie.
 
-## Section 5 Déclarations pays par pays reçues des Etats partenaires
+## Section 5 Déclarations pays par pays reçues des États partenaires
 
 #### Art. 15
 
-<sup>1</sup> L’AFC transmet les déclarations pays par pays qu’elle a reçues des Etats partenaires aux autorités cantonales compétentes pour l’établissement et le prélèvement des impôts directs.
+<sup>1</sup> L’AFC transmet les déclarations pays par pays qu’elle a reçues des États partenaires aux autorités cantonales compétentes pour l’établissement et le prélèvement des impôts directs.
 
 <sup>2</sup> Elle rappelle à ces autorités les restrictions à l’utilisation des déclarations pays par pays transmises et l’obligation de maintenir le secret prévues par les dispositions régissant l’assistance administrative de la convention applicable.
 
@@ -329,6 +329,18 @@ Sur demande, l’AFC rend une décision en constatation sur:
 - a. la qualité d’entité déclarante de l’entité au sens de la convention applicable et de la présente loi;
 - b. le contenu de la déclaration pays par pays selon la convention applicable et la présente loi.
 
+#### Art. 22a
+
+**Procédures électroniques**[^22a-1]
+
+<sup>1</sup> Le Conseil fédéral peut prescrire l’exécution par voie électronique des procédures prévues par la présente loi. Il arrête les modalités de cette exécution.
+
+<sup>2</sup> Lorsqu’une procédure est exécutée par voie électronique, l’AFC assure l’authenticité et l’intégrité des données transmises.
+
+<sup>3</sup> Lorsqu’un écrit dont la signature est prescrite par la loi est déposé par voie électronique, l’AFC peut reconnaître, en lieu et place de la signature électronique qualifiée, une autre forme de confirmation électronique des données par la personne qui les transmet.
+
+[^22a-1]: Introduit par le ch. I 8 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 ## Section 7 Suspension et dénonciation
 
 #### Art. 23
@@ -337,7 +349,7 @@ Sur demande, l’AFC rend une décision en constatation sur:
 
 Le Département fédéral des finances (DFF) ne peut agir qu’avec l’autorisation du Conseil fédéral lorsqu’en vertu de la convention applicable:
 
-- a. il suspend ou dénonce l’échange automatique des déclarations pays par pays avec un Etat partenaire;
+- a. il suspend ou dénonce l’échange automatique des déclarations pays par pays avec un État partenaire;
 - b. il dénonce la convention.
 
 #### Art. 24
@@ -360,7 +372,7 @@ Le Département fédéral des finances (DFF) ne peut agir qu’avec l’autorisa
 
 <sup>2</sup> Lorsque l’amende entrant en ligne de compte ne dépasse pas 25 000 francs et que l’enquête rendrait nécessaires à l’égard des personnes punissables selon l’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif (DPA)[^25-1] des mesures d’instruction hors de proportion avec la peine encourue, il est loisible de renoncer à poursuivre ces personnes et de condamner l’entreprise au paiement de l’amende à leur place (art. 7 DPA).
 
-[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 26
 
@@ -376,7 +388,7 @@ Quiconque, dans le cadre d’un contrôle selon l’art. 22, omet intentionnelle
 
 <sup>2</sup> L’AFC est l’autorité de poursuite et de jugement.
 
-[^27-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^27-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Section 9 Dispositions finales
 
@@ -384,9 +396,9 @@ Quiconque, dans le cadre d’un contrôle selon l’art. 22, omet intentionnelle
 
 **Compétence d’approbation**
 
-Le Conseil fédéral est compétent pour l’inscription d’un Etat ou territoire dans la liste au sens de la section 8, par. 1, let. e, de l’accord EDPP[^28-1].
+Le Conseil fédéral est compétent pour l’inscription d’un État ou territoire dans la liste au sens de la section 8, par. 1, let. e, de l’accord EDPP[^28-1].
 
-[^28-1]: [RS 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^28-1]: [RS 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 29
 
@@ -398,15 +410,15 @@ L’Assemblée fédérale approuve toutes les modifications de la convention app
 
 **Transmission des déclarations pays par pays relatives aux périodes fiscales antérieures à l’entrée en vigueur de la loi**
 
-<sup>1</sup> L’AFC transmet aux autorités compétentes des Etats partenaires dans lesquels des entités constitutives du même groupe d’entreprises multinationales sont résidentes, selon les modalités de l’accord EDPP[^30-1], les déclarations pays par pays relatives à des périodes fiscales antérieures à l’entrée en vigueur de la présente loi qui lui ont été fournies volontairement dès l’entrée en vigueur de la présente loi par une société mère résidente de Suisse.
+<sup>1</sup> L’AFC transmet aux autorités compétentes des États partenaires dans lesquels des entités constitutives du même groupe d’entreprises multinationales sont résidentes, selon les modalités de l’accord EDPP[^30-1], les déclarations pays par pays relatives à des périodes fiscales antérieures à l’entrée en vigueur de la présente loi qui lui ont été fournies volontairement dès l’entrée en vigueur de la présente loi par une société mère résidente de Suisse.
 
-<sup>2</sup> Elle rappelle aux autorités compétentes des Etats partenaires les restrictions à l’utilisation des déclarations pays par pays transmises et l’obligation de maintenir le secret prévues par les dispositions de l’accord EDPP.
+<sup>2</sup> Elle rappelle aux autorités compétentes des États partenaires les restrictions à l’utilisation des déclarations pays par pays transmises et l’obligation de maintenir le secret prévues par les dispositions de l’accord EDPP.
 
 <sup>3</sup> L’obligation de s’annoncer au sens de l’art. 10, al. 1 et 2, a lieu au plus tard au moment où la déclaration pays par pays est fournie de manière volontaire.
 
 <sup>4</sup> Le délai prévu à l’art. 11, al. 1, s’applique par analogie.
 
-[^30-1]: [RS 0.654.1](https://fedlex.data.admin.ch/eli/cc/2017/785); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
+[^30-1]: [RS 0.654.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2518); [FF 2017 103](https://fedlex.data.admin.ch/eli/fga/2017/6)
 
 #### Art. 31
 
