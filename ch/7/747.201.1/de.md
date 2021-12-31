@@ -4,20 +4,20 @@ title: "Verordnung vom 8. November 1978 über die Schifffahrt auf schweizerische
 short: BSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/337_337_337"
 language: de
-version: 2020-02-18
+version: 2022-01-01
 adopted: 1978-11-08
 in_force: 1979-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/fedlex-data-admin-ch-eli-cc-1979-337_337_337-20200218-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/337_337_337/20200218/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1979-337_337_337-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/337_337_337/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Schifffahrt auf schweizerischen Gewässern
 
-(Binnenschifffahrtsverordnung, BSV)**[^t-1]**
+(Binnenschifffahrtsverordnung, BSV)[^t-1]
 
-vom 8. November 1978 (Stand am 18. Februar 2020)
+vom 8. November 1978 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 1991, in Kraft seit 1. Jan. 1992 ([AS 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)).
 
@@ -596,12 +596,13 @@ Schiffe, deren Verankerungen die Schifffahrt gefährden können, führen:
 
 **Schiffe im dienstlichen Einsatz[^30-1]**
 
-<sup>1</sup> Schiffe der Armee, der Polizei und der Eidgenössischen Zollverwaltung dürfen ein oder mehrere, von allen Seiten sichtbare blaue Blinklichter führen. Mit Bewilligung der zuständigen Behörde dürfen auch Schiffe der Feuerwehr, der Ölwehr, der Rettungs- und der Hilfsdienste solche Lichter führen.[^30-2]
+<sup>1</sup> Schiffe der Armee, der Polizei und des Bundesamtes für Zoll und Grenzsicherheit (BAZG)[^30-2] dürfen ein oder mehrere, von allen Seiten sichtbare blaue Blinklichter führen. Mit Bewilligung der zuständigen Behörde dürfen auch Schiffe der Feuerwehr, der Ölwehr, der Rettungs- und der Hilfsdienste solche Lichter führen.[^30-3]
 
 <sup>2</sup> Will ein Schiff der Polizei, der Grenzwache oder der Fischereiaufsicht mit einem anderen Schiff Verbindung aufnehmen, so zeigt es die Flagge Buchstabe «K» der Internationalen Flaggenordnung (Flagge, deren Hälfte am Stock gelb, deren andere Hälfte blau ist).
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
-[^30-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
+[^30-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^30-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
 
 #### Art. 31
 
@@ -649,7 +650,7 @@ Die vorgeschriebenen und zugelassenen Schallzeichen nach Anhang 3 sind zu geben:
 
 <sup>3</sup> Eine Gruppe von Glockenschlägen dauert etwa vier Sekunden. Sie darf durch Schläge auf Metall ersetzt werden.
 
-<sup>4</sup> Schiffe der Polizei dürfen in dringlichem Einsatz ein wechseltoniges Zweiklanghorn oder eine Sirene verwenden. Mit Bewilligung der zuständigen Behörde dürfen auch Schiffe der Zollverwaltung, der Feuerwehr, der Ölwehr und der Rettungsdienste in dringlichem Einsatz solche Geräte verwenden.[^33-2]
+<sup>4</sup> Schiffe der Polizei dürfen in dringlichem Einsatz ein wechseltoniges Zweiklanghorn oder eine Sirene verwenden. Mit Bewilligung der zuständigen Behörde dürfen auch Schiffe des BAZG, der Feuerwehr, der Ölwehr und der Rettungsdienste in dringlichem Einsatz solche Geräte verwenden.[^33-2]
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 9. März 2001, in Kraft seit 1. Mai 2001 ([AS 2001 1089](https://fedlex.data.admin.ch/eli/oc/2001/167)).
 [^33-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 1991, in Kraft seit 1. Jan. 1992 ([AS 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)).
@@ -744,7 +745,7 @@ Die nachstehenden Schallzeichen müssen nur gegeben werden, wenn es die Sicherhe
 [^40-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2014, in Kraft seit 15. Febr. 2014 ([AS 2014 261](https://fedlex.data.admin.ch/eli/oc/2014/44)).
 [^40-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
 
-### 25*a***** Fahrunfähigkeit und Grenzwerte
+### 25*a* Fahrunfähigkeit und Grenzwerte
 
 [^lvl2-lvl25a-1]
 
@@ -805,7 +806,7 @@ Für eine Person, die an der Führung eines für den gewerbsmässigen Einsatz be
 - a. Angehörige der Milizfeuerwehr oder anderer Milizrettungsdienste während dringlichen Dienstfahrten und damit zusammenhängenden Fahrten;
 - b. Angehörige der Berufsfeuerwehr, der Polizei, des Zolls, des Zivilschutzes und der Sanität während dringlichen Dienstfahrten und damit zusammenhängenden Fahrten und Personen, die solche Fahrten im Auftrag dieser Organisationen durchführen, sofern sie dazu aufgeboten werden und weder Dienst haben noch auf Pikett sind.
 
-### 25*b***** Kontrolle der Fahrfähigkeit
+### 25*b* Kontrolle der Fahrfähigkeit
 
 [^lvl2-lvl25b-1]
 
@@ -1012,7 +1013,7 @@ Gegenüber einer Person, die an der Führung eines Schiffs beteiligt ist und üb
 
 [^40k-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
 
-### 25*c***** Massnahmen zur Verhinderung der Ausübung einer nautischen Tätigkeit und Ausweisabnahme
+### 25*c* Massnahmen zur Verhinderung der Ausübung einer nautischen Tätigkeit und Ausweisabnahme
 
 [^lvl2-lvl25c-1]
 
@@ -1077,7 +1078,7 @@ Bestehen ernsthafte Zweifel an der Fahreignung einer an der Führung eines Schif
 
 [^40obis-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
 
-### 25*d***** Zeitraum des Ausweisentzugs
+### 25*d* Zeitraum des Ausweisentzugs
 
 [^lvl2-lvl25d-1]
 
@@ -1236,7 +1237,7 @@ Gegenüber nach Artikel 28 gekennzeichneten Schiffen wird die Geschwindigkeit an
 
 <sup>1</sup> Als innere Uferzone gilt der Gewässergürtel bis zum Abstand von 150 m vom Ufer, als äussere Uferzone derjenige ausserhalb der inneren Uferzone bis zum Abstand von 300 m vom Ufer, von Wasserpflanzenbeständen, die dem Ufer vorgelagert sind oder von Einbauten im Gewässer.
 
-Motorschiffe, ausgenommen Kursschiffe, die nach dem offiziellen Fahrplan verkehren, Schiffe der Polizei, der Zollverwaltung und der Rettungskräfte dürfen:[^53-1]
+Motorschiffe, ausgenommen Kursschiffe, die nach dem offiziellen Fahrplan verkehren, Schiffe der Polizei, des BAZG und der Rettungskräfte dürfen:[^53-1]
 
 - a. die innere Uferzone nur befahren, um an- oder abzulegen, stillzuliegen oder Engstellen zu durchfahren; sie nehmen dabei den kürzesten Weg;
 - b. in der inneren und äusseren Uferzone nicht schneller fahren als 10 km/h.
@@ -1649,7 +1650,7 @@ Sporttauchen ist verboten:
 [^77-1]: Fassung gemäss Ziff. I der V vom 2. Mai 2007, in Kraft seit 1. Dez. 2007 ([AS 2007 2275](https://fedlex.data.admin.ch/eli/oc/2007/322)).
 [^77-2]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015, in Kraft seit 15. Febr. 2016 ([AS 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730)).
 
-### 29**** Meldungen der Polizei
+### 29 Meldungen der Polizei
 
 [^lvl2-lvl29-1]
 
@@ -2145,7 +2146,7 @@ Der Schiffsausweis wird erteilt, wenn:
 
 <sup>3</sup> Für die Zulassung von Schiffen mit bisher nicht üblichen oder neuen Antriebs- oder Bauarten trifft das Departement die notwendigen Anordnungen.[^96-5]
 
-<sup>4</sup> Die Eidgenössische Zollverwaltung gibt den Zulassungsbehörden die Schiffsarten bekannt, für die der Nachweis der Zollveranlagung oder eine Bewilligung nicht erforderlich ist. Für die Erteilung eines Kollektiv-Schiffsausweises ist keine Bewilligung erforderlich.[^96-6]
+<sup>4</sup> Das BAZG gibt den Zulassungsbehörden die Schiffsarten bekannt, für die der Nachweis der Zollveranlagung oder eine Bewilligung nicht erforderlich ist. Für die Erteilung eines Kollektiv-Schiffsausweises ist keine Bewilligung erforderlich.[^96-6]
 
 <sup>5</sup>
 
@@ -3064,7 +3065,7 @@ Der Eigentümer oder der Halter erlässt die notwendigen Betriebsvorschriften.
 
 <sup>4</sup> Sofern die Lage des Gewichtsschwerpunktes des betriebsbereiten, unbeladenen Schiffes aus einer Berechnung mit hinreichender Genauigkeit bestimmt werden kann, ist kein Krängungsversuch nötig.
 
-<sup>5</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image1.png)
+<sup>5</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image1.png)
 
 hierin bedeuten:
 
@@ -3229,11 +3230,11 @@ Der Sicherheitsabstand, gemessen von der Tiefladewasserlinie bis zum tiefsten Pu
 
 <sup>4</sup> Die Mindestfördermenge Q der Lenzpumpe ist nach folgender Formel zu berechnen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image2.png)
 
 d ist der Innendurchmesser der Lenzleitung. Er ist nach folgender Formel zu berechnen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image3.png)
 
 hierin bedeuten:
 
@@ -3253,7 +3254,7 @@ Auf schwimmenden Geräten muss für jede an Bord arbeitende Person ein Einzelger
 
 [^147a-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 1991, in Kraft seit 1. Jan. 1992 ([AS 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)).
 
-### 44 Besondere Bestimmungen für Schiffe des gewerbsmässigen Personentransportes****
+### 44 Besondere Bestimmungen für Schiffe des gewerbsmässigen Personentransportes
 
 [^lvl4-lvl44-1]
 
@@ -3280,7 +3281,7 @@ Auf schwimmenden Geräten muss für jede an Bord arbeitende Person ein Einzelger
 [^148-5]: Eingefügt durch Ziff. I der V vom 2. Mai 2007, in Kraft seit 1. Dez. 2007 ([AS 2007 2275](https://fedlex.data.admin.ch/eli/oc/2007/322)).
 [^148-6]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015, in Kraft seit 15. Febr. 2016 ([AS 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730)).
 
-### 45**** Besondere Bestimmungen für Rafts
+### 45 Besondere Bestimmungen für Rafts
 
 [^lvl4-lvl45-1]
 
@@ -3302,7 +3303,7 @@ Auf schwimmenden Geräten muss für jede an Bord arbeitende Person ein Einzelger
 
 [^148f-1]: Aufgehoben durch Ziff. I der V vom 1. Mai 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
 
-### 46**** Besondere Bestimmungen für Sportboote
+### 46 Besondere Bestimmungen für Sportboote
 
 [^lvl4-lvl46-1]
 
@@ -3592,7 +3593,7 @@ Ein neuer Versicherungsnachweis ist der Behörde abzugeben, wenn ein Schiff im V
 
 <sup>1</sup> Dem Halter oder Verfügungsberechtigten ist es untersagt, den Gebrauch seines Schiffes durch andere zu dulden, wenn er weiss oder bei pflichtgemässer Aufmerksamkeit wissen müsste, dass das Schiff nicht verkehrsberechtigt oder der Schiffsführer nicht fahrberechtigt ist.
 
-<sup>2</sup> Die Gebrauchsüberlassung von Schiffen, für die keine Zollveranlagung durchgeführt wurde, ist nur mit Zustimmung der Zollverwaltung gestattet.[^157-1]
+<sup>2</sup> Die Gebrauchsüberlassung von Schiffen, für die keine Zollveranlagung durchgeführt wurde, ist nur mit Zustimmung des BAZG gestattet.[^157-1]
 
 <sup>3</sup> Ob eine gewerbsmässige Überlassung eines Schiffes mit Schiffsführer zum Transport von Personen oder Gütern vorliegt, wird sinngemäss nach Artikel 2 Absatz 1 Buchstabe b des Personenbeförderungsgesetzes vom 20. März 2009[^157-2] und der zugehörigen Ausführungsvorschriften beurteilt.[^157-3]
 
@@ -3649,7 +3650,7 @@ Hafeneinfahrten, Schiffsvermietungsstellen, Schiffsliegeplätze sowie andere ort
 
 **Sonderrechte**[^162-1]
 
-<sup>1</sup> Schiffe von Behörden, wissenschaftlichen Institutionen und Rettungsdiensten sind von den Bestimmungen der Artikel 36 und 37 (Schifffahrtszeichen), 53 (Fahren in den Uferzonen) und 70 (Stillliegen) befreit, soweit es die Erfüllung ihrer Aufgaben unbedingt erfordert. Schiffe der Polizei und der Zollverwaltung sind ausserdem bei Überwachungseinsätzen von den Vorschriften betreffend Lichterführung befreit, sofern die Sicherheit der Schifffahrt nicht beeinträchtigt wird.
+<sup>1</sup> Schiffe von Behörden, wissenschaftlichen Institutionen und Rettungsdiensten sind von den Bestimmungen der Artikel 36 und 37 (Schifffahrtszeichen), 53 (Fahren in den Uferzonen) und 70 (Stillliegen) befreit, soweit es die Erfüllung ihrer Aufgaben unbedingt erfordert. Schiffe der Polizei und des BAZG sind ausserdem bei Überwachungseinsätzen von den Vorschriften betreffend Lichterführung befreit, sofern die Sicherheit der Schifffahrt nicht beeinträchtigt wird.
 
 <sup>2</sup> Mit Zustimmung der zuständigen Behörde können Schiffe nach Absatz 1 von einzelnen Bauvorschriften ausgenommen werden, wenn ihre besondere Verwendung es erfordert.
 
@@ -3697,7 +3698,7 @@ Die zuständige Behörde kann Ausnahmen zulassen von den Bestimmungen in:[^163-1
 
 #### Art. 164
 
-**Kontrolle durch die Eidgenössische Zollverwaltung**[^164-1]
+**Kontrolle durch das BAZG**[^164-1]
 
 <sup>1</sup> Die Kantone und die zur Ausstellung von Schiffsausweisen zuständigen Bundesstellen melden der Oberzolldirektion die erstmalige Zulassung eines Schiffes.
 
@@ -3896,7 +3897,7 @@ Schiffsführerausweise der Kategorie B, welche bis zum 30. November 2007 ausgest
 
 Diese Verordnung tritt am 1. April 1979 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 2 Abs. 2)
 
@@ -3923,7 +3924,7 @@ Anhang 1*[^t-2]*
 
 [^annex1-lvlu1-1]: Siehe Fussnote zu Art. 2 Abs. 1 Bst. a Ziff. 15.
 
-Anhang 1a*[^t-3]*
+Anhang 1a[^t-3]
 
 (Art. 16 Abs. 1 und 17 Abs. 3)
 
@@ -3972,17 +3973,17 @@ Schiffe des Bundes werden mit einem grossen Buchstaben und nachfolgenden Zahlen 
   - [tab] Beispiel
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image4.png)</td><td>– Streifen rot – Ziffern im Streifen weiss</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image4.png)</td><td>– Streifen rot – Ziffern im Streifen weiss</td></tr>
 </table>
 
 - – Schiffe mit ausländischem Standort tragen die Kantons-Initialen und nachfolgende Zahlen, einen senkrechten schwarzen Streifen von 4 cm Breite und den Buchstaben Z. Der schwarze Streifen enthält die Ziffern des Verfallmonats und die beiden letzten Ziffern des Verfalljahres. Diese Ziffern sind weiss und 3 cm hoch.
   - [tab] Beispiel:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image5.png)</td><td>– Streifen schwarz – Ziffern im Streifen weiss</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image5.png)</td><td>– Streifen schwarz – Ziffern im Streifen weiss</td></tr>
 </table>
 
-Anhang 2*[^t-4]*
+Anhang 2[^t-4]
 
 (Art. 18)
 
@@ -4000,65 +4001,65 @@ Anhang 2*[^t-4]*
   - a. Lichter:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image6.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image7.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image8.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image6.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image7.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image8.png)</td></tr>
 <tr><td>von allen Seiten sichtbares, ruhendes Licht</td><td>nur über einen beschränkten Horizontbogen sichtbares, ruhendes Licht</td><td>nur über einen beschränkten Horizontbogen sichtbares, ruhendes Licht: für den Beschauer nicht sichtbar</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image9.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image9.png)</td></tr>
 <tr><td colspan="2">Blinklicht</td></tr>
 </table>
 
 - b. Tafeln oder Flaggen und Bälle:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image10.png)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image11.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image10.png)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image11.png)</td></tr>
 <tr><td colspan="2">Tafel oder Flagge</td><td colspan="2">Ball</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image12.png) 1</td><td colspan="2">Schiffe mit Maschinenantrieb Artikel 24 Absatz 1 – einzeln fahrende oder schleppende Schiffe Topp- oder Buglicht: weisses helles Licht Seitenlichter: grünes helles Licht rotes helles Licht Hecklicht: weisses gewöhnliches Licht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image13.png) 1a</td><td colspan="2">– Schubverbände Topplicht: weisses helles Licht auf dem vordersten Schiff Seitenlichter: grünes helles Licht rotes helles Licht Hecklicht: weisses gewöhnliches Licht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image14.png)2</td><td colspan="2">*–* *Sportboote und Vergnügungsschiffe* die Lichter nach Absatz 3 Buchstabe a</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image15.png) 3</td><td colspan="2">Absätze 2 Buchstabe a und 3 Buchstabe a *–* *Schiffe der Berufsfischer, Sportboote und Vergnügungsschiffe mit Maschinena**n**trieb* die Lichter nach Absatz 1</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image16.png)4</td><td colspan="2">Absätze 2 Buchstabe b und 3 Buchstabe d *–* *Schiffe der Berufsfischer, Sportboote und Vergnügungsschiffe mit Maschinena**n**trieb sowie Sege**l**schiffe, die unter Motor fahren* weisses Rundumlicht Seitenlichter: grünes Licht rotes Licht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image17.png) 4a</td><td colspan="2">Absatz 3 Buchstaben c und d *–* *Sportboote und Vergnügungsschiffe mit Maschinenantrieb sowie Segelschiffe mit oder ohne geset**z**te Se**gel unter Motor* weisses Rundumlicht Seitenlichter: grünes Licht rotes Licht Die Seitenlichter dürfen im vorderen Bereich nebeneinander oder als Kombinations-Seitenlicht angebracht sein.</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image18.png) 4b</td><td colspan="2">Absatz 3 Buchstaben a und b *–* *Segelschiffe mit oder ohne geset**z**te Segel unter Motor* Topplicht: weisses Licht Seitenlichter: grünes Licht rotes Licht Hecklicht: weisses Licht Die Seitenlichter dürfen im vorderen Bereich nebeneinander oder als Kombinations-Seitenlicht angebracht sein.</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image19.png) 4c</td><td colspan="2">Absatz 4 *–* *Segelschiffe unter Motor* Topplicht: weisses Licht Seitenlichter und Hecklicht in einem Dreifarben-Topplicht an oder nahe der Mastspitze</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image20.png) 5</td><td colspan="2">Absatz 5 Auf Schiffen, deren Antriebsleistung nicht mehr als 6 kW beträgt, und auf Sportbooten oder Vergnügungsschiffen, deren Länge 7 m und deren Geschwindigkeit über Grund 7 Knoten nicht übersteigt: weisses gewöhnliches Licht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image21.png) 6</td><td colspan="2"></td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image22.png) 7</td><td colspan="2">Schiffe ohne Maschinenantrieb Artikel 25 Absatz 1 *–* *einzeln oder im Schleppverband fahrende Schiffe* weisses gewöhnliches Rundumlicht.</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image23.png) 8</td><td colspan="2">Absatz 2 *–* *Segelschiffe, die unter Segel fahren* weisses gewöhnliches Rundumlicht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image24.png) 9</td><td colspan="2">Absatz 2 Buchstaben a und b Seitenlichter: grünes Licht rotes Licht Die Seitenlichter dürfen im vorderen Bereich nebeneinander oder als Kombinations-Seitenlicht angebracht sein Hecklicht: weisses Licht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image25.png) 9a</td><td colspan="2">Buchstabe c dreifarbige Laterne an der Mastspitze</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image26.png) 9b</td><td colspan="2">Absatz 3 zwei senkrecht übereinander angebrachte Rundumlichter, ein Hecklicht sowie ein Kombinations-Seitenlicht oder getrennte Seitenlichter; die Rundumlichter sind dort anzubringen, wo sie am besten sichtbar sind; das obere Licht ist rot, das untere grün.</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image27.png) 10</td><td colspan="2">Schiffe beim Stillliegen Artikel 26 Absatz 1 weisses gewöhnliches Rundumlicht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image28.png) 11</td><td colspan="2">Absatz 2 – schwimmende Geräte wenn es die Sicherheit der Schifffahrt erfordert: Beleuchtung so, dass Umrisse erkennbar sind</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image29.png) 12</td><td colspan="2">Vorrangschiffe Artikel 27 Buchstabe a Topplicht: weisses helles Licht Seitenlichter: grünes helles Licht rotes helles Licht Hecklicht: weisses gewöhnliches Licht und zusätzl. mindestens 1 m höher als das Topplicht: grünes helles Rundumlicht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image30.png) 13</td><td colspan="2">Buchstabe b grüner Ball</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image31.png) 14</td><td colspan="2">Schutz gegen Wellenschlag Artikel 28 Buchstabe a zusätzlich zu den vorgeschriebenen Lichtern: rotes gewöhnliches Rundumlicht über weissem gewöhnlichem Rundumlicht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image32.png) 15</td><td colspan="2">Buchstabe b Flagge, deren obere Hälfte rot, die untere Hälfte weiss ist</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image33.png) 16</td><td colspan="2">oder zwei Flaggen, die obere rot, die untere weiss</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image34.png) 17</td><td colspan="2">Gefährliche Verankerungen Artikel 29 Absatz 1 Buchstabe a weisses gewöhnliches Rundumlicht über dem weissen Rundumlicht nach Art. 26 Abs. 1</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image35.png) 18</td><td colspan="2">Buchstabe b zwei weisse Flaggen übereinander</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image36.png) 19</td><td colspan="2">Absatz 2 wenn es die Sicherheit der Schifffahrt erfordert: weisse Rundumlichter als Bezeichnung der einzelnen Verankerungen</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image37.png)20</td><td colspan="2">gelbe Schwimmkörper als Bezeichnung der einzelnen Verankerungen</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image38.png) 21</td><td colspan="2">Schiffe der Polizei und anderer Dienste Artikel 30 Absatz 1</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image39.png) 22</td><td colspan="2">blaues Blinklicht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image40.png) 23</td><td colspan="2">Absatz 2 – Schiffe der Polizei der Grenzbewachung oder der Fischereiaufsicht wenn sie mit anderen Schiffen Verbindung aufnehmen wollen: Flagge, Buchstabe «K» (Flagge, deren Hälfte am Stock gelb, die andere Hälfte blau ist)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image41.png) 24</td><td colspan="2">Fischereischiffe Artikel 31 Absatz 1 Buchstabe a – Schiffe der Berufsfischer gelbes gewöhnliches Rundumlicht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image42.png) 25</td><td colspan="2">Buchstabe b gelber Ball</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image43.png) 26</td><td colspan="2">Absatz 2 – Schiffe, die mit der Schleppangel fischen weisser Ball</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image44.png) 27</td><td colspan="2">Zeichen beim Tauchen Artikel 32 Absatz 1 – beim Tauchen vom Land aus Tafel, Buchstabe «A» (Doppelstander, dessen Hälfte am Stock weiss, die andere Hälfte blau ist)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image45.png) 28</td><td colspan="2">Absatz 2 – beim Tauchen vom Gewässer aus Tafel, Buchstabe «A» (Doppelstander, dessen Hälfte am Stock weiss, die andere Hälfte blau ist) von allen Seiten sichtbar</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image46.png) 29</td><td colspan="2">Manövrierunfähige Schiffe Artikel 51 Absatz 1 Schwenken eines Lichtes</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image47.png) 30</td><td colspan="2">Schwenken einer roten Flagge</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image48.png) 31</td><td colspan="2">Schiffe in Not Artikel 58 Buchstabe a kreisförmiges Schwenken eines Lichtes</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image49.png) 32</td><td colspan="2">kreisförmiges Schwenken einer roten Flagge oder eines sonstigen geeigneten Gegenstandes</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image50.png) 33</td><td colspan="2">Buchstabe f langsames und wiederholtes Heben und Senken der ausgestreckten Arme</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image51.png) 34</td><td colspan="2">Schwimmende Geräte, Schiffe bei der Arbeit und festgefahrene oder gesunkene Schiffe Artikel 71 Absatz 1 Buchstabe a – nach der Seite oder den Seiten, wo vorbeigefahren werden kann: rotes gewöhnliches Licht: weisses gewöhnliches Licht – nach der Seite oder den Seiten, wo nicht vorbeigefahren werden kann: rotes gewöhnliches Licht</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image52.png) 35</td><td colspan="2">Buchstabe b – nach der Seite oder den Seiten, wo vorbeigefahren werden kann: Flagge, deren obere Hälfte rot, die untere Hälfte weiss ist – nach der Seite oder den Seiten, wo nicht vorbeigefahren werden kann: rote Flagge</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image53.png) 36</td><td colspan="2">oder – nach der Seite oder den Seiten, wo vorbeigefahren werden kann: zwei Flaggen übereinander, die obere rot, die untere weiss – nach der Seite oder den Seiten, wo nicht vorbeigefahren werden kann: rote Flagge</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image12.png) 1</td><td colspan="2">Schiffe mit Maschinenantrieb Artikel 24 Absatz 1 – einzeln fahrende oder schleppende Schiffe Topp- oder Buglicht: weisses helles Licht Seitenlichter: grünes helles Licht rotes helles Licht Hecklicht: weisses gewöhnliches Licht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image13.png) 1a</td><td colspan="2">– Schubverbände Topplicht: weisses helles Licht auf dem vordersten Schiff Seitenlichter: grünes helles Licht rotes helles Licht Hecklicht: weisses gewöhnliches Licht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image14.png)2</td><td colspan="2">*–* *Sportboote und Vergnügungsschiffe* die Lichter nach Absatz 3 Buchstabe a</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image15.png) 3</td><td colspan="2">Absätze 2 Buchstabe a und 3 Buchstabe a *–* *Schiffe der Berufsfischer, Sportboote und Vergnügungsschiffe mit Maschinena**n**trieb* die Lichter nach Absatz 1</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image16.png)4</td><td colspan="2">Absätze 2 Buchstabe b und 3 Buchstabe d *–* *Schiffe der Berufsfischer, Sportboote und Vergnügungsschiffe mit Maschinena**n**trieb sowie Sege**l**schiffe, die unter Motor fahren* weisses Rundumlicht Seitenlichter: grünes Licht rotes Licht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image17.png) 4a</td><td colspan="2">Absatz 3 Buchstaben c und d *–* *Sportboote und Vergnügungsschiffe mit Maschinenantrieb sowie Segelschiffe mit oder ohne geset**z**te Se**gel unter Motor* weisses Rundumlicht Seitenlichter: grünes Licht rotes Licht Die Seitenlichter dürfen im vorderen Bereich nebeneinander oder als Kombinations-Seitenlicht angebracht sein.</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image18.png) 4b</td><td colspan="2">Absatz 3 Buchstaben a und b *–* *Segelschiffe mit oder ohne geset**z**te Segel unter Motor* Topplicht: weisses Licht Seitenlichter: grünes Licht rotes Licht Hecklicht: weisses Licht Die Seitenlichter dürfen im vorderen Bereich nebeneinander oder als Kombinations-Seitenlicht angebracht sein.</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image19.png) 4c</td><td colspan="2">Absatz 4 *–* *Segelschiffe unter Motor* Topplicht: weisses Licht Seitenlichter und Hecklicht in einem Dreifarben-Topplicht an oder nahe der Mastspitze</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image20.png) 5</td><td colspan="2">Absatz 5 Auf Schiffen, deren Antriebsleistung nicht mehr als 6 kW beträgt, und auf Sportbooten oder Vergnügungsschiffen, deren Länge 7 m und deren Geschwindigkeit über Grund 7 Knoten nicht übersteigt: weisses gewöhnliches Licht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image21.png) 6</td><td colspan="2"></td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image22.png) 7</td><td colspan="2">Schiffe ohne Maschinenantrieb Artikel 25 Absatz 1 *–* *einzeln oder im Schleppverband fahrende Schiffe* weisses gewöhnliches Rundumlicht.</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image23.png) 8</td><td colspan="2">Absatz 2 *–* *Segelschiffe, die unter Segel fahren* weisses gewöhnliches Rundumlicht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image24.png) 9</td><td colspan="2">Absatz 2 Buchstaben a und b Seitenlichter: grünes Licht rotes Licht Die Seitenlichter dürfen im vorderen Bereich nebeneinander oder als Kombinations-Seitenlicht angebracht sein Hecklicht: weisses Licht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image25.png) 9a</td><td colspan="2">Buchstabe c dreifarbige Laterne an der Mastspitze</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image26.png) 9b</td><td colspan="2">Absatz 3 zwei senkrecht übereinander angebrachte Rundumlichter, ein Hecklicht sowie ein Kombinations-Seitenlicht oder getrennte Seitenlichter; die Rundumlichter sind dort anzubringen, wo sie am besten sichtbar sind; das obere Licht ist rot, das untere grün.</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image27.png) 10</td><td colspan="2">Schiffe beim Stillliegen Artikel 26 Absatz 1 weisses gewöhnliches Rundumlicht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image28.png) 11</td><td colspan="2">Absatz 2 – schwimmende Geräte wenn es die Sicherheit der Schifffahrt erfordert: Beleuchtung so, dass Umrisse erkennbar sind</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image29.png) 12</td><td colspan="2">Vorrangschiffe Artikel 27 Buchstabe a Topplicht: weisses helles Licht Seitenlichter: grünes helles Licht rotes helles Licht Hecklicht: weisses gewöhnliches Licht und zusätzl. mindestens 1 m höher als das Topplicht: grünes helles Rundumlicht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image30.png) 13</td><td colspan="2">Buchstabe b grüner Ball</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image31.png) 14</td><td colspan="2">Schutz gegen Wellenschlag Artikel 28 Buchstabe a zusätzlich zu den vorgeschriebenen Lichtern: rotes gewöhnliches Rundumlicht über weissem gewöhnlichem Rundumlicht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image32.png) 15</td><td colspan="2">Buchstabe b Flagge, deren obere Hälfte rot, die untere Hälfte weiss ist</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image33.png) 16</td><td colspan="2">oder zwei Flaggen, die obere rot, die untere weiss</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image34.png) 17</td><td colspan="2">Gefährliche Verankerungen Artikel 29 Absatz 1 Buchstabe a weisses gewöhnliches Rundumlicht über dem weissen Rundumlicht nach Art. 26 Abs. 1</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image35.png) 18</td><td colspan="2">Buchstabe b zwei weisse Flaggen übereinander</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image36.png) 19</td><td colspan="2">Absatz 2 wenn es die Sicherheit der Schifffahrt erfordert: weisse Rundumlichter als Bezeichnung der einzelnen Verankerungen</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image37.png)20</td><td colspan="2">gelbe Schwimmkörper als Bezeichnung der einzelnen Verankerungen</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image38.png) 21</td><td colspan="2">Schiffe der Polizei und anderer Dienste Artikel 30 Absatz 1</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image39.png) 22</td><td colspan="2">blaues Blinklicht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image40.png) 23</td><td colspan="2">Absatz 2 – Schiffe der Polizei der Grenzbewachung oder der Fischereiaufsicht wenn sie mit anderen Schiffen Verbindung aufnehmen wollen: Flagge, Buchstabe «K» (Flagge, deren Hälfte am Stock gelb, die andere Hälfte blau ist)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image41.png) 24</td><td colspan="2">Fischereischiffe Artikel 31 Absatz 1 Buchstabe a – Schiffe der Berufsfischer gelbes gewöhnliches Rundumlicht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image42.png) 25</td><td colspan="2">Buchstabe b gelber Ball</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image43.png) 26</td><td colspan="2">Absatz 2 – Schiffe, die mit der Schleppangel fischen weisser Ball</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image44.png) 27</td><td colspan="2">Zeichen beim Tauchen Artikel 32 Absatz 1 – beim Tauchen vom Land aus Tafel, Buchstabe «A» (Doppelstander, dessen Hälfte am Stock weiss, die andere Hälfte blau ist)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image45.png) 28</td><td colspan="2">Absatz 2 – beim Tauchen vom Gewässer aus Tafel, Buchstabe «A» (Doppelstander, dessen Hälfte am Stock weiss, die andere Hälfte blau ist) von allen Seiten sichtbar</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image46.png) 29</td><td colspan="2">Manövrierunfähige Schiffe Artikel 51 Absatz 1 Schwenken eines Lichtes</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image47.png) 30</td><td colspan="2">Schwenken einer roten Flagge</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image48.png) 31</td><td colspan="2">Schiffe in Not Artikel 58 Buchstabe a kreisförmiges Schwenken eines Lichtes</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image49.png) 32</td><td colspan="2">kreisförmiges Schwenken einer roten Flagge oder eines sonstigen geeigneten Gegenstandes</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image50.png) 33</td><td colspan="2">Buchstabe f langsames und wiederholtes Heben und Senken der ausgestreckten Arme</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image51.png) 34</td><td colspan="2">Schwimmende Geräte, Schiffe bei der Arbeit und festgefahrene oder gesunkene Schiffe Artikel 71 Absatz 1 Buchstabe a – nach der Seite oder den Seiten, wo vorbeigefahren werden kann: rotes gewöhnliches Licht: weisses gewöhnliches Licht – nach der Seite oder den Seiten, wo nicht vorbeigefahren werden kann: rotes gewöhnliches Licht</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image52.png) 35</td><td colspan="2">Buchstabe b – nach der Seite oder den Seiten, wo vorbeigefahren werden kann: Flagge, deren obere Hälfte rot, die untere Hälfte weiss ist – nach der Seite oder den Seiten, wo nicht vorbeigefahren werden kann: rote Flagge</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image53.png) 36</td><td colspan="2">oder – nach der Seite oder den Seiten, wo vorbeigefahren werden kann: zwei Flaggen übereinander, die obere rot, die untere weiss – nach der Seite oder den Seiten, wo nicht vorbeigefahren werden kann: rote Flagge</td></tr>
 </table>
 
-Anhang 3*[^t-5]*
+Anhang 3[^t-5]
 
 (Art. 33 Abs. 1)
 
@@ -4080,7 +4081,7 @@ Anhang 3*[^t-5]*
 <tr><td>drei kurze Töne</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– – – –</td><td></td><td>«Ich bin manövrierunfähig»</td><td></td><td>34 und 51</td></tr>
 <tr><td>vier kurze Töne</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>............</td><td></td><td>«Gefahr eines Zusammenstosses»</td><td></td><td>34</td></tr>
+<tr><td>…………</td><td></td><td>«Gefahr eines Zusammenstosses»</td><td></td><td>34</td></tr>
 <tr><td>Folge sehr kurzer Töne</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -4113,10 +4114,10 @@ Anhang 3*[^t-5]*
 
 <table>
 <tr><td>— — — —</td><td></td><td>«Notzeichen»</td><td></td><td>58 Bst. c</td></tr>
-<tr><td>Folge langer Töne oder – – – — — — – – – drei kurze Töne, drei lange Töne, drei kurze Töne (SOS) oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image54.png) Glockenschläge</td><td></td><td>«Notzeichen» «Notzeichen»</td><td></td><td>58 Bst. d 58 Bst. e</td></tr>
+<tr><td>Folge langer Töne oder – – – — — — – – – drei kurze Töne, drei lange Töne, drei kurze Töne (SOS) oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image54.png) Glockenschläge</td><td></td><td>«Notzeichen» «Notzeichen»</td><td></td><td>58 Bst. d 58 Bst. e</td></tr>
 </table>
 
-Anhang 4*[^t-6]*
+Anhang 4[^t-6]
 
 (Art. 36 Abs. 1, 37, 38 Abs. 5 und 39)
 
@@ -4137,68 +4138,68 @@ Anhang 4*[^t-6]*
 ### A. Verbotszeichen
 
 <table>
-<tr><td>A.1 Verbot der Durchfahrt – allgemeines Verbotszeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image55.png)</td></tr>
-<tr><td>oder – zwei Lichter übereinander</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image56.png)</td></tr>
-<tr><td>A.2 Verbot der Durchfahrt für Schiffe mit Maschinenantrieb</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image57.png)</td></tr>
-<tr><td>A.3 Verbot des Wasserskifahrens</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image58.png)</td></tr>
-<tr><td>A.4 Verbot des Fahrens mit Segelschiffen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image59.png)</td></tr>
-<tr><td>A.4<sup>bis</sup> Verbot des Fahrens mit Segelbrettern</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image60.png)</td></tr>
-<tr><td>A.5 Überholverbot</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image61.png)</td></tr>
-<tr><td>A.6 Verbot des Begegnens und Überholens</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image62.png)</td></tr>
-<tr><td>A.7 Verbotenes Stillliegen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image63.png)</td></tr>
-<tr><td>A.8 Ankerverbot</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image64.png)</td></tr>
-<tr><td>A.9 Festmacheverbot</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image65.png)</td></tr>
-<tr><td>A.10 Wendeverbot</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image66.png)</td></tr>
-<tr><td>A.11 Verbot, schädlichen Wellenschlag oder Sog zu erzeugen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image67.png)</td></tr>
-<tr><td>A.12 Verbot, ausserhalb der angezeigten Begrenzungen zu fahren</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image68.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image69.png)</td></tr>
-<tr><td>A.13 Durchfahrt verboten, aber Weiterfahrt vorbereiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image70.png)</td></tr>
-<tr><td>A.14 Badeverbot</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image71.png)</td></tr>
+<tr><td>A.1 Verbot der Durchfahrt – allgemeines Verbotszeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image55.png)</td></tr>
+<tr><td>oder – zwei Lichter übereinander</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image56.png)</td></tr>
+<tr><td>A.2 Verbot der Durchfahrt für Schiffe mit Maschinenantrieb</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image57.png)</td></tr>
+<tr><td>A.3 Verbot des Wasserskifahrens</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image58.png)</td></tr>
+<tr><td>A.4 Verbot des Fahrens mit Segelschiffen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image59.png)</td></tr>
+<tr><td>A.4<sup>bis</sup> Verbot des Fahrens mit Segelbrettern</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image60.png)</td></tr>
+<tr><td>A.5 Überholverbot</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image61.png)</td></tr>
+<tr><td>A.6 Verbot des Begegnens und Überholens</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image62.png)</td></tr>
+<tr><td>A.7 Verbotenes Stillliegen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image63.png)</td></tr>
+<tr><td>A.8 Ankerverbot</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image64.png)</td></tr>
+<tr><td>A.9 Festmacheverbot</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image65.png)</td></tr>
+<tr><td>A.10 Wendeverbot</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image66.png)</td></tr>
+<tr><td>A.11 Verbot, schädlichen Wellenschlag oder Sog zu erzeugen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image67.png)</td></tr>
+<tr><td>A.12 Verbot, ausserhalb der angezeigten Begrenzungen zu fahren</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image68.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image69.png)</td></tr>
+<tr><td>A.13 Durchfahrt verboten, aber Weiterfahrt vorbereiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image70.png)</td></tr>
+<tr><td>A.14 Badeverbot</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image71.png)</td></tr>
 </table>
 
 ### B. Gebotszeichen
 
 <table>
-<tr><td>B.1 Gebot, die durch den Pfeil angegebene Richtung einzuschlagen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image72.png)</td></tr>
-<tr><td>B.2 Gebot, unter bestimmten Bedingungen anzuhalten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image73.png)</td></tr>
-<tr><td>B.3 Gebot, die in Stundenkilometern (km/h) angegebene Geschwindigkeit nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image74.png)</td></tr>
-<tr><td>B.4 Gebot, ein Schallzeichen zu geben</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image75.png)</td></tr>
-<tr><td>B.5 Gebot, besondere Vorsicht walten zu lassen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image76.png)</td></tr>
+<tr><td>B.1 Gebot, die durch den Pfeil angegebene Richtung einzuschlagen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image72.png)</td></tr>
+<tr><td>B.2 Gebot, unter bestimmten Bedingungen anzuhalten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image73.png)</td></tr>
+<tr><td>B.3 Gebot, die in Stundenkilometern (km/h) angegebene Geschwindigkeit nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image74.png)</td></tr>
+<tr><td>B.4 Gebot, ein Schallzeichen zu geben</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image75.png)</td></tr>
+<tr><td>B.5 Gebot, besondere Vorsicht walten zu lassen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image76.png)</td></tr>
 </table>
 
 ### C. Zeichen für Einschränkungen
 
 <table>
-<tr><td>C.1 Beschränkung der Durchfahrtshöhe (über dem Wasserspiegel)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image77.png)</td></tr>
-<tr><td>C.2 Beschränkte Durchfahrtsbreite</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image78.png)</td></tr>
-<tr><td>C.3 Das Fahrwasser ist eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern (m) an, in dem sich Schiffe vom Ufer entfernt halten sollen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image79.png)</td></tr>
-<tr><td>C.4 Begrenzte Wassertiefe</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image80.png)</td></tr>
+<tr><td>C.1 Beschränkung der Durchfahrtshöhe (über dem Wasserspiegel)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image77.png)</td></tr>
+<tr><td>C.2 Beschränkte Durchfahrtsbreite</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image78.png)</td></tr>
+<tr><td>C.3 Das Fahrwasser ist eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern (m) an, in dem sich Schiffe vom Ufer entfernt halten sollen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image79.png)</td></tr>
+<tr><td>C.4 Begrenzte Wassertiefe</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image80.png)</td></tr>
 </table>
 
 ### D. Empfehlende Zeichen
 
 <table>
-<tr><td>D.1 Empfohlene Durchfahrt bei Brücken a. für Verkehr in beiden Richtungen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image81.png)</td></tr>
-<tr><td>b. für Verkehr nur in der Richtung, in der die Zeichen sichtbar sind</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image82.png) oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image83.png)</td></tr>
-<tr><td>D.2 Empfehlung, sich auf der mit «grün» bezeichneten Fahrwasserseite zu halten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image84.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image85.png)</td></tr>
+<tr><td>D.1 Empfohlene Durchfahrt bei Brücken a. für Verkehr in beiden Richtungen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image81.png)</td></tr>
+<tr><td>b. für Verkehr nur in der Richtung, in der die Zeichen sichtbar sind</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image82.png) oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image83.png)</td></tr>
+<tr><td>D.2 Empfehlung, sich auf der mit «grün» bezeichneten Fahrwasserseite zu halten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image84.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image85.png)</td></tr>
 </table>
 
 ### E. Hinweiszeichen
 
 <table>
-<tr><td>E.1 Erlaubnis zur Durchfahrt</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image86.png)</td></tr>
-<tr><td>E.2 Erlaubnis zum Stillliegen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image87.png)</td></tr>
-<tr><td>E.3 Erlaubnis zum Ankern</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image88.png)</td></tr>
-<tr><td>E.4 Erlaubnis zum Festmachen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image89.png)</td></tr>
-<tr><td>E.5 Erlaubnis zum Wasserskifahren</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image90.png)</td></tr>
-<tr><td>E.5<sup>bis</sup> Erlaubnis zum Fahren mit Segelbrettern</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image91.png)</td></tr>
-<tr><td>E.5<sup>ter</sup> Erlaubnis zum Fahren mit Drachensegelbrettern</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image92.png)</td></tr>
-<tr><td>E.6 Empfohlene Fahrrichtung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image93.png)</td></tr>
-<tr><td>E.7 Nicht freifahrende Fähre</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image94.png)</td></tr>
-<tr><td>E.8 Wehr</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image95.png)</td></tr>
-<tr><td>E.9 Stelle zum Einwassern von Schiffen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image96.png)</td></tr>
-<tr><td>E.10 Stelle zum Auswassern von Schiffen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image97.png)</td></tr>
-<tr><td>E.11 Ende eines Verbotes oder Gebotes</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image98.png)</td></tr>
-<tr><td>E.12 Hochspannungs-Freileitung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image99.png)</td></tr>
+<tr><td>E.1 Erlaubnis zur Durchfahrt</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image86.png)</td></tr>
+<tr><td>E.2 Erlaubnis zum Stillliegen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image87.png)</td></tr>
+<tr><td>E.3 Erlaubnis zum Ankern</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image88.png)</td></tr>
+<tr><td>E.4 Erlaubnis zum Festmachen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image89.png)</td></tr>
+<tr><td>E.5 Erlaubnis zum Wasserskifahren</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image90.png)</td></tr>
+<tr><td>E.5<sup>bis</sup> Erlaubnis zum Fahren mit Segelbrettern</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image91.png)</td></tr>
+<tr><td>E.5<sup>ter</sup> Erlaubnis zum Fahren mit Drachensegelbrettern</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image92.png)</td></tr>
+<tr><td>E.6 Empfohlene Fahrrichtung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image93.png)</td></tr>
+<tr><td>E.7 Nicht freifahrende Fähre</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image94.png)</td></tr>
+<tr><td>E.8 Wehr</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image95.png)</td></tr>
+<tr><td>E.9 Stelle zum Einwassern von Schiffen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image96.png)</td></tr>
+<tr><td>E.10 Stelle zum Auswassern von Schiffen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image97.png)</td></tr>
+<tr><td>E.11 Ende eines Verbotes oder Gebotes</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image98.png)</td></tr>
+<tr><td>E.12 Hochspannungs-Freileitung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image99.png)</td></tr>
 </table>
 
 ### F. Zusätzliche Schilder und Anschriften
@@ -4208,39 +4209,41 @@ Die Schifffahrtszeichen A. 1 bis E. 12 können ergänzt werden, insbesondere dur
 - 1\. Schilder, welche die Entfernung von der Stelle angeben, bei der die angezeigte Vorschrift oder Besonderheit zu beachten ist. Die Schilder werden über dem Schifffahrtszeichen angebracht.
 
 <table>
-<tr><td>Beispiel: Gebot, eine Geschwindigkeit von 12 km/h nach 1000 m nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image100.png)</td></tr>
+<tr><td>Beispiel: Gebot, eine Geschwindigkeit von 12 km/h nach 1000 m nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image100.png)</td></tr>
 </table>
 
 - 2\. Pfeile, die angeben, in welcher Richtung das Schifffahrtszeichen gilt.
 
 <table>
-<tr><td>Beispiel: Erlaubnis zum Stillliegen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image101.png)</td></tr>
+<tr><td>Beispiel: Erlaubnis zum Stillliegen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image101.png)</td></tr>
 </table>
 
 - 3\. Schilder, die ergänzende Erklärungen oder Hinweise geben. Die Schilder werden unter dem Schifffahrtszeichen angebracht.
 
 <table>
-<tr><td>Beispiel: Anhalten zwecks Zollabfertigung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image102.png)</td></tr>
+<tr><td>Beispiel: Anhalten zwecks Zollabfertigung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image102.png)</td></tr>
 </table>
 
 ### G. Kennzeichnung der Untiefen und anderer Hindernisse
 
 <table>
-<tr><td colspan="4">G.1 Einzelne Hindernisse Kegel mit Spitze nach unten rot bemalt oder unbemalt</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image103.png)</td></tr>
-<tr><td colspan="4">G.2 Fahrwasserbezeichnung Zylinder rot bemalt oder unbemalt Kegel mit Spitze nach oben grün bemalt oder unbemalt</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image104.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image105.png)</td></tr>
-<tr><td colspan="4">Beispiel: Bezeichnung einer Untiefe in Ufernähe – seeseitig: Zylinder – landseitig: Kegel</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image106.png)</td></tr>
-<tr><td colspan="4">Beispiel: Bezeichnung eines Fahrwassers in untiefem Gebiet – auf der vom Gewässer aus gesehen rechten Seite: grüne Kegel – auf der vom Gewässer aus gesehen linken Seite: rote Zylinder</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image107.png)</td></tr>
-<tr><td colspan="2">G.3 Ausgedehnte Hindernisse – im nördlichen Quadrant: zwei übereinander angebrachte Kegel, beide mit der Spitze nach oben – im östlichen Quadrant: zwei übereinander angebrachte Kegel, der untere mit der Spitze nach unten, der obere mit der Spitze nach oben – im südlichen Quadrant: zwei übereinander angebrachte Kegel, beide mit der Spitze nach unten – im westlichen Quadrant: zwei übereinander angebrachte Kegel, der untere mit der Spitze nach oben, der obere mit der Spitze nach unten.</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image108.png)</td></tr>
-<tr><td colspan="3">Beispiel: Ausgedehnte Untiefe Die Zeichen zeigen an, dass sich im nördlichen und im westlichen Quadrant tiefes Wasser befindet.</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image109.png)</td></tr>
+<tr><td colspan="4">G.1 Einzelne Hindernisse Kegel mit Spitze nach unten rot bemalt oder unbemalt</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image103.png)</td></tr>
+<tr><td colspan="4">G.2 Fahrwasserbezeichnung Zylinder rot bemalt oder unbemalt Kegel mit Spitze nach oben grün bemalt oder unbemalt</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image104.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image105.png)</td></tr>
+<tr><td colspan="4">Beispiel: Bezeichnung einer Untiefe in Ufernähe – seeseitig: Zylinder – landseitig: Kegel</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image106.png)</td></tr>
+<tr><td colspan="4">Beispiel: Bezeichnung eines Fahrwassers in untiefem Gebiet – auf der vom Gewässer aus gesehen rechten Seite: grüne Kegel – auf der vom Gewässer aus gesehen linken Seite: rote Zylinder</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image107.png)</td></tr>
+<tr><td colspan="2">G.3 Ausgedehnte Hindernisse – im nördlichen Quadrant: zwei übereinander angebrachte Kegel, beide mit der Spitze nach oben – im östlichen Quadrant: zwei übereinander angebrachte Kegel, der untere mit der Spitze nach unten, der obere mit der Spitze nach oben – im südlichen Quadrant: zwei übereinander angebrachte Kegel, beide mit der Spitze nach unten – im westlichen Quadrant: zwei übereinander angebrachte Kegel, der untere mit der Spitze nach oben, der obere mit der Spitze nach unten.</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image108.png)</td></tr>
+<tr><td colspan="3">Beispiel: Ausgedehnte Untiefe Die Zeichen zeigen an, dass sich im nördlichen und im westlichen Quadrant tiefes Wasser befindet.</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image109.png)</td></tr>
+<tr><td colspan="5">[tab]</td></tr>
+<tr><td colspan="5">[tab]</td></tr>
 <tr><td colspan="5">G.4 Zusätzliche Zeichen für die Radarfahrt (falls erforderlich) entsprechend Anlage 8 Abschnitt V Buchstaben A und B der Rheinschifffahrtspolizeiverordnung vom 1. Dezember 1993[^annex4-lvlu1-lvlI-lvlG-1].</td></tr>
 <tr><td></td><td colspan="4">A. Bezeichnung von Radarzielen</td></tr>
 <tr><td>[tab]</td><td colspan="4">1. Gelbe Tonnen mit Radarreflektoren (z.B. oberhalb und unterhalb der Brückenpfeiler ausgelegt) [tab]</td></tr>
-<tr><td></td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image110.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image111.png)</td></tr>
+<tr><td></td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image110.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image111.png)</td></tr>
 <tr><td>[tab]</td><td colspan="4">2. Stange mit Radarreflektor (oberhalb und unterhalb der Brückenpfeiler) [tab]</td></tr>
-<tr><td></td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image112.png)</td></tr>
+<tr><td></td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image112.png)</td></tr>
 <tr><td></td><td colspan="4">B. Bezeichnung von Freileitungen</td></tr>
 <tr><td>[tab]</td><td colspan="4">1. Radarreflektoren an Freileitung befestigt (ergeben im Radarbild eine Punktreihe zur Identifizierung der Freileitung) [tab]</td></tr>
-<tr><td></td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image113.png)</td></tr>
+<tr><td></td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image113.png)</td></tr>
 <tr><td>[tab]</td><td colspan="4">2. Radarreflektoren auf gelben Tonnen an beiden Ufern paarweise ausgelegt (ergeben im Radarbild je zwei nebeneinander liegende Punkte zur Identifizierung der Freileitung) [tab]</td></tr>
 </table>
 
@@ -4249,8 +4252,8 @@ Die Schifffahrtszeichen A. 1 bis E. 12 können ergänzt werden, insbesondere dur
 ### H. Sturmwarnzeichen
 
 <table>
-<tr><td>H.1 Starkwindwarnung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image115.png)</td></tr>
-<tr><td>H.2 Sturmwarnung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image116.png)</td></tr>
+<tr><td>H.1 Starkwindwarnung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image115.png)</td></tr>
+<tr><td>H.2 Sturmwarnung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image116.png)</td></tr>
 </table>
 
 ### II. Schallzeichen
@@ -4259,10 +4262,10 @@ Die Schifffahrtszeichen A. 1 bis E. 12 können ergänzt werden, insbesondere dur
 
 <table>
 <tr><td>Zeichen</td><td></td><td>Bedeutung</td><td>Artikel</td></tr>
-<tr><td>– – zwei kurze Töne dreimal in der Minute oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image117.png) anhaltendes Läuten mit einer Glocke oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image118.png) heulen mit einer Sirene</td><td></td><td>«Zeichen ortsfester Anlagen bei unsichtigem Wetter» «Zeichen ortsfester Anlagen bei unsichtigem Wetter» «Zeichen ortsfester Anlagen bei unsichtigem Wetter»</td><td>39 39 39</td></tr>
+<tr><td>– – zwei kurze Töne dreimal in der Minute oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image117.png) anhaltendes Läuten mit einer Glocke oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image118.png) heulen mit einer Sirene</td><td></td><td>«Zeichen ortsfester Anlagen bei unsichtigem Wetter» «Zeichen ortsfester Anlagen bei unsichtigem Wetter» «Zeichen ortsfester Anlagen bei unsichtigem Wetter»</td><td>39 39 39</td></tr>
 </table>
 
-Anhang 5*[^t-7]*
+Anhang 5[^t-7]
 
 (Art. 84 Abs. 1)
 
@@ -4296,21 +4299,21 @@ Anhang 5*[^t-7]*
 
 Muster 1
 
-**Schiffsführerausweis für Schiffsführer eidgenössisch konzessionierter Schifffahrtsunternehmen**
+**Schiffsführerausweis für Schiffsführer eidgenössisch** **konzessionierter Schifffahrtsunternehmen**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image119.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image119.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image120.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image120.png)
 
 Muster 2
 
 **Schiffsführerausweis der Kantone**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image119.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image119.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image121.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image121.png)
 
-Anhang 6*[^t-8]*
+Anhang 6[^t-8]
 
 (Art. 90 und 91)
 
@@ -4403,7 +4406,7 @@ Muster 2, Rückseite
 <tr><td>14. 15.</td><td>Zugelassen durch Auflagen</td></tr>
 </table>
 
-Anhang 7*[^t-9]*
+Anhang 7[^t-9]
 
 (Art. 97 Abs. 1 und 106 Abs. 2)
 
@@ -4441,23 +4444,23 @@ Muster 1
 
 **Schiffsausweis für die ordentliche Zulassung von Schiffen unter kantonaler Aufsicht, Kollektivschiffsausweis und Schiffsausweis für Schiffe, für die keine Zollveranlagung durchgeführt wurde**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image122.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image122.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image123.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image123.png)
 
 Muster 2
 
-**Schiffsausweis für Schiffe eidgenössisch konzessionierter Schifffahrtsunternehmen**
+**Schiffsausweis für Schiffe eidgenössisch konzessionierter** **Schifffahrtsunternehmen**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image124.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image124.png)
 
-Anhang 8*[^t-10]*
+Anhang 8[^t-10]
 
 (Art. 105 und 106)
 
 [^t-10]: Aufgehoben durch Ziff. II Abs. 1 der V vom 2. Mai 2007, mit Wirkung seit 1. Dez. 2007 ([AS 2007 2275](https://fedlex.data.admin.ch/eli/oc/2007/322)).
 
-Anhang 9*[^t-11]*
+Anhang 9[^t-11]
 
 (Art. 156 Abs. 1)
 
@@ -4510,7 +4513,7 @@ Muster 2
   - – Halter/Halterin
   - – Unterschrift
 
-Anhang 10*[^t-12]*
+Anhang 10[^t-12]
 
 (Art. 100 Abs. 5 sowie 109*b* Abs. 2 und 4)
 
@@ -4558,9 +4561,9 @@ Anhang 10*[^t-12]*
 - 6\.2 Um der Ungenauigkeit der Messgeräte Rechnung zu tragen, sind die während der Messung von den Geräten abgelesenen Werte um 1 dB(A) zu verringern.
 - 6\.3 Liegt dieser Wert höher als der zulässige Pegel, ist eine Messserie mit je zwei Durchfahrten in beiden Richtungen durchzuführen. In diesem Fall ist der zweithöchste Messwert massgebend.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image125.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image125.png)
 
-Anhang 11*[^t-13]*
+Anhang 11[^t-13]
 
 (Art. 139)
 
@@ -4571,7 +4574,7 @@ Anhang 11*[^t-13]*
 - 1\. Die zulässige Antriebsleistung der Vergnügungsschiffe, deren Länge mindestens 2,5, jedoch weniger als 3 m beträgt, ist auf 3 kW beschränkt.
 - 2\. Die zulässige Antriebsleistung (N) der Vergnügungsschiffe mit einer Länge von 3 bis 6,5 m errechnet sich nach der Formel
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image126.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image126.png)
 
 -
 
@@ -4594,7 +4597,7 @@ Anhang 11*[^t-13]*
 
 - 3\. Die errechnete Antriebsleistung wird auf die erste Dezimale auf- oder abgerundet.
 
-Anhang 12*[^t-14]*
+Anhang 12[^t-14]
 
 (Art. 100)
 
@@ -4616,7 +4619,7 @@ Bei der Bestimmung der gesamten Segelfläche in m<sup>2</sup> wird das Resultat 
 
 Das Vorsegeldreieck errechnet sich nach der Formel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image127.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image127.png)
 
 In der Formel bedeutet:
 
@@ -4627,7 +4630,7 @@ In der Formel bedeutet:
 
 Das Grossegeldreieck errechnet sich nach der Formel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image128.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image128.png)
 
 In der Formel bedeutet:
 
@@ -4642,9 +4645,9 @@ Die Bestimmung der Segelfläche im Falle besonderer Takelungen wird im Einzelfal
 
 Überrundung der Lieks wird nicht berücksichtigt.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image129.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image129.png)
 
-Anhang 13*[^t-15]*
+Anhang 13[^t-15]
 
 (Art. 143)
 
@@ -4652,33 +4655,33 @@ Anhang 13*[^t-15]*
 
 [^t-15]: Bereinigt gemäss Ziff. II der V vom 11. Sept. 1991, in Kraft seit 1. Jan. 1992 ([AS 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image130.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image130.png)
 
 Beispiele:
 
 a. Schiffe, die in Zone 2 verkehren
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image131.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image131.png)
 
 b. Schiffe, die in Zone 3 verkehren
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image132.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image132.png)
 
 c. Anbringen der Einsenkungsmarken für Zone 2 oder 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image133.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image133.png)
 
 d. Schiffe, die sowohl in Zone 2 wie in Zone 3 verkehren
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image134.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image134.png)
 
 e. Anbringen der Einsenkungsmarken für Zone 2 oder 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image135.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image135.png)
 
 \*) Höhe der Zahlen 8 cm
 
-Anhang 14*[^t-16]*
+Anhang 14[^t-16]
 
 (Art. 144 und 145)
 
@@ -4689,7 +4692,7 @@ Anhang 14*[^t-16]*
 - 1\. Der Freibord der Güterschiffe mit Sprung und Aufbauten errechnet sich nach der Formel:
 
 <table>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image136.png)</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image136.png)</td></tr>
 <tr><td></td><td>wobei</td></tr>
 </table>
 
@@ -4719,7 +4722,7 @@ Anhang 14*[^t-16]*
   - s den tatsächlich vorhandenen Sprung am betreffenden Schiffsende in cm;
   - p den Beiwert als Funktion von x/L, wobei x der Abstand vom Schiffsende bis zum Punkt ist, wo der Sprung 0,25 s beträgt.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image138.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image138.png)
 
 <table>
 <tr><td>x/L</td><td>0,25 und mehr</td><td>0,20</td><td>0,15</td><td>0,10</td><td>0,05</td><td>0</td></tr>
@@ -4737,7 +4740,7 @@ Anhang 14*[^t-16]*
 - Ist k<sub>2</sub> × se<sub>2</sub> grösser als k<sub>1</sub> × se<sub>1</sub>, so wird für k<sub>2</sub> × se<sub>2</sub> der Wert k<sub>1</sub> × se<sub>1</sub> eingesetzt.
 - 3\. Die wirksame Länge der einzelnen Aufbauten errechnet sich nach der Formel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image139.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image139.png)
 
 -
 
@@ -4752,7 +4755,7 @@ Anhang 14*[^t-16]*
     - für Zone 3 0.60 m
 
 <table>
-<tr><td><sup>Wenn</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image140.png) <sup>kleiner ist als 0,6, wird die wirksame Länge le gleich Null.</sup></td></tr>
+<tr><td><sup>Wenn</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image140.png) <sup>kleiner ist als 0,6, wird die wirksame Länge le gleich Null.</sup></td></tr>
 </table>
 
 - 4\. Die Erhöhung des Sicherheitsabstandes nach Artikel 145 Absatz 2 b richtet sich nach dem Verhältnis der Laderaumbreite an Deck (b) zur Schiffsbreite (B); sie wird in nachstehender Tabelle abgelesen.
@@ -4768,7 +4771,7 @@ Anhang 14*[^t-16]*
 
 [^annex14-lvlu1-1]: Die in dieser Ziff. enthaltenen Muster werden in der SR nicht mehr wiedergegeben. Siehe die Publikation in [AS 1979 337](https://fedlex.data.admin.ch/eli/oc/1979/337_337_337).
 
-Anhang 15*[^t-17]*
+Anhang 15[^t-17]
 
 (Art. 132 Abs. 1, 163 Abs. 1 Bst. m und 166 Abs. 5)
 
@@ -4883,17 +4886,17 @@ Auf kennzeichnungspflichtigen Schiffen sind Rettungsmittel nach Artikel 134 oder
 [^annex15-lvlu1-lvl8-1]: [SR 747.201.7](https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011)
 [^annex15-lvlu1-lvl8-2]: [SR 935.911](https://fedlex.data.admin.ch/eli/cc/2019/124)
 
-Anhang 16*[^t-18]*
+Anhang 16[^t-18]
 
 [^t-18]: Eingefügt durch Ziff. II der V vom 11. Sept. 1991 ([AS 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)). Aufgehoben durch Ziff. II Abs. 1 der V vom 8. April 1998, mit Wirkung seit 15. Mai 1998 ([AS 1998 1476](https://fedlex.data.admin.ch/eli/oc/1998/1476_1476_1476)).
 
-Anhang 17*[^t-19]*
+Anhang 17[^t-19]
 
 (Art. 129)
 
 [^t-19]: Eingefügt durch Ziff. II der V vom 11. Sept. 1991 ([AS 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)). Aufgehoben durch Ziff. II Abs. 4 der V vom 14. Okt. 2015, mit Wirkung seit 1. April 2017 ([AS 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730), [2017 791](https://fedlex.data.admin.ch/eli/oc/2017/150)).
 
-Anhang 18*[^t-20]*
+Anhang 18[^t-20]
 
 (Art. 138*a* und 148*f*)
 
@@ -4927,7 +4930,7 @@ Anhang 18*[^t-20]*
 - b. der Schlauchboote nach der Formel
 
 <table>
-<tr><td><sup>P =</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/de/xml/image/image142.png)<sup>.</sup></td></tr>
+<tr><td><sup>P =</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/de/xml/image/image142.png)<sup>.</sup></td></tr>
 </table>
 
 - In der Formel bedeutet S die projizierte Fläche auf Innenkante der Luftkammern in m<sup>2</sup>.
@@ -4955,7 +4958,7 @@ Anhang 18*[^t-20]*
 - 5\. Steuerstände, die nicht sicher stehend bedient werden können, müssen mit einem Steuersitz ausgerüstet sein. Beträgt die Antriebsleistung mehr als 30 kW oder wenn es die Sicherheit erfordert, ist der Steuersitz mit einer Rückenlehne von mindestens 25 cm Höhe oder einem gleichwertigen Schutz zu versehen. Der Abstand von der Vorderkante der Lehne bis zum nächstliegenden Punkt des Steuerrades muss mindestens 50 cm betragen.
 - 6\. Auf Segelschiffen muss genügend Raum für die sichere Bedienung der Segel und des Ruders vorhanden sein.
 
-Anhang 19*[^t-21]*
+Anhang 19[^t-21]
 
 (Art. 86 Abs. 1)
 
@@ -4975,7 +4978,7 @@ Anhang 19*[^t-21]*
 - [tab] – Verordnung über die Schifffahrt auf schweizerischen Gewässern (Binnenschifffahrtsverordnung)
 - [tab] – Reglemente und Ordnungen für die Grenzgewässer
 
-112 Grundlagen der Schiffsführung*[^annex19-lvlu1-lvlA-lvl1-lvl11-1]*
+112 Grundlagen der Schiffsführung[^annex19-lvlu1-lvlA-lvl1-lvl11-1]
 
 - [tab] – Seemannschaft
 - [tab] – Manövriereigenschaften der Schiffe mit Maschinenantrieb
@@ -5141,7 +5144,7 @@ Auf Fliessgewässern zusätzlich:
 - [tab] – Verordnung über die Schifffahrt auf schweizerischen Gewässern (Binnenschifffahrtsverordnung)
 - [tab] – Reglemente und Ordnungen für die Grenzgewässer
 
-112 Grundlagen der Schiffsführung*[^annex19-lvlu1-lvlD-lvl1-lvl11-1]*
+112 Grundlagen der Schiffsführung[^annex19-lvlu1-lvlD-lvl1-lvl11-1]
 
 - [tab] – Seemannschaft
 - [tab] – Segeltechnik
@@ -5190,19 +5193,19 @@ Auf Fliessgewässern zusätzlich:
 
 246 Anlegen an und Ablegen von Boje oder Steg
 
-Anhänge 20–26*[^t-22]*
+Anhänge 20–26[^t-22]
 
 [^t-22]: Eingefügt durch Ziff. II Abs. 2 der V vom 9. März 2001 ([AS 2001 1089](https://fedlex.data.admin.ch/eli/oc/2001/167)). Aufgehoben durch Ziff. II Abs. 4 der V vom 14. Okt. 2015, mit Wirkung seit 15. Febr. 2016 ([AS 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730)).
 
-Anhang 26a*[^t-23]*
+Anhang 26a[^t-23]
 
 [^t-23]: Eingefügt durch Ziff. II Abs. 4 der V vom 2. Mai 2007 ([AS 2007 2275](https://fedlex.data.admin.ch/eli/oc/2007/322)). Aufgehoben durch Ziff. II Abs. 4 der V vom 14. Okt. 2015, mit Wirkung seit 15. Febr. 2016 ([AS 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730)).
 
-Anhang 27–31*[^t-24]*
+Anhang 27–31[^t-24]
 
 [^t-24]: Eingefügt durch Ziff. II Abs. 2 der V vom 9. März 2001 ([AS 2001 1089](https://fedlex.data.admin.ch/eli/oc/2001/167)). Aufgehoben durch Ziff. II Abs. 4 der V vom 14. Okt. 2015, mit Wirkung seit 15. Febr. 2016 ([AS 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730)).
 
-Anhang 32*[^t-25]*
+Anhang 32[^t-25]
 
 (Art. 100 Abs. 2 und 4)
 
@@ -5222,7 +5225,7 @@ Anhang 32*[^t-25]*
 
 [^annex32-lvlu1-1]: Siehe Fussnote zu zu Art. 2 Abs. 1 Bst. a Ziff. 15.
 
-Anhang 33*[^t-26]*
+Anhang 33[^t-26]
 
 (Art. 100 Abs. 4)
 
@@ -5252,7 +5255,7 @@ Anhang 33*[^t-26]*
 - 2\. Das Abnahmeprotokoll wird von der Vereinigung kantonaler Schifffahrtsämter herausgegeben.
 - 3\. In der formalen Gestaltung des Abnahmeprotokolls ist die Herausgeberin frei. Es muss aber mindestens die unter Absatz 1 aufgeführten Angaben enthalten.
 
-Anhang 34*[^t-27]*
+Anhang 34[^t-27]
 
 (Art. 133 Abs. 4)
 
@@ -5276,3 +5279,163 @@ Satnav-Geräte müssen mindestens die folgenden Anforderungen erfüllen:
 - a. Der Positionssensor (z.B. Satnav-Gerät-Antenne) muss so installiert werden, dass er die bestmögliche Genauigkeit erzielt und durch Aufbauten und Sendeanlagen an Bord möglichst wenig beeinträchtigt wird.
 - b. Aufstellung und Betrieb müssen nach Herstellerangaben erfolgen.
 - c. Das Satnav-Gerät muss im Steuerhaus im normalen Blickfeld des Schiffsführers fest installiert sein.
+
+Inhaltsverzeichnis
+
+1 Allgemeine Bestimmungen
+
+2 Verkehrsvorschriften
+
+21 Allgemeines
+
+22 Kennzeichen der Schiffe
+
+23 Sichtzeichen der Schiffe
+
+24 Schallzeichen der Schiffe
+
+25 Schifffahrtszeichen
+
+25*a* Fahrunfähigkeit und Grenzwerte
+
+25*b* Kontrolle der Fahrfähigkeit
+
+25*c* Massnahmen zur Verhinderung der Ausübung einer nautischen Tätigkeit und Ausweisabnahme
+
+25*d* Zeitraum des Ausweisentzugs
+
+Art. 40*p*
+
+26 Regeln für Fahrt und Stillliegen
+
+27 Besondere Bestimmungen für Flüsse und Kanäle
+
+28 Zusätzliche Bestimmungen
+
+281 Bewilligungspflichtige Veranstaltungen und Transporte
+
+282 Verhalten der Fischer und Taucher
+
+29 Meldungen der Polizei
+
+3 Zulassungsbestimmungen
+
+31 Schiffsführer
+
+311 Führerausweis
+
+312 Prüfung
+
+313 Internationale und ausländische Dokumente
+
+32 Schiffe
+
+321 Schiffausweis
+
+322 Prüfung
+
+323 Ausländische Schiffe
+
+4 Baubestimmungen
+
+41 Gemeinsame Bestimmungen
+
+411 Allgemeines
+
+412 Freibord und Stabilität
+
+413 Schiffskörper
+
+414 Maschinenanlagen
+
+415 Elektrische Anlagen
+
+416 Ruder- und Steueranlagen
+
+417 Flüssiggasanlagen
+
+Art. 130
+
+418 Ausrüstung
+
+42 Besondere Bestimmungen für Vergnügungsschiffe
+
+Art. 135
+
+Art. 140*b*
+
+Art. 141
+
+43 Besondere Bestimmungen für Güterschiffe und schwimmende Geräte
+
+44 Besondere Bestimmungen für Schiffe des gewerbsmässigen Personentransportes
+
+Art. 148
+
+45 Besondere Bestimmungen für Rafts
+
+Art. 148*a–*148*e*
+
+46 Besondere Bestimmungen für Sportboote
+
+5 Besatzung
+
+6 Haftpflichtversicherung
+
+7 Überlassen und Vermieten von Schiffen
+
+8 Anlagen für die Schifffahrt
+
+9 Sonderbestimmungen
+
+10 Schlussbestimmungen
+
+Entsprechungen von Ausdrücken Anhang 1
+
+Kennzeichen der Schiffe Anhang 1*a*
+
+Sichtzeichen der Schiffe Anhang 2
+
+Schallzeichen der Schiffe Anhang 3
+
+Schifffahrtszeichen Anhang 4
+
+Schiffsführerausweis Anhang 5
+
+Internationale Dokumente Anhang 6
+
+Schiffsausweise Anhang 7
+
+*Aufgehoben* Anhang 8
+
+Versicherungsdokumente Anhang 9
+
+Messung des Betriebsgeräusches an Schiffen mit Maschinenantrieb Anhang 10
+
+Zulässige Antriebsleistung der Vergnügungsschiffe Anhang 11
+
+Bestimmung der Segelfläche Anhang 12
+
+Einsenkungsmarken Anhang 13
+
+Freibordrechnung für Güterschiffe mit Sprung und Aufbauten Anhang 14
+
+Mindestausrüstung Anhang 15
+
+*Aufgehoben* Anhang 16 und 17
+
+Zulässige Personenzahl der Vergnügungsschiffe und der Rafts Anhang 18
+
+Prüfungsprogramme Anhang 19
+
+*Aufgehoben* Anhänge 20–26
+
+*Aufgehoben* Anhang 26*a*
+
+*Aufgehoben* Anhänge 27–31
+
+Prüfprogramm für Sportboote Anhang 32
+
+Abnahmeprotokoll Anhang 33
+
+Anforderungen an Satnav-Geräte und an ihre Aufstellung Anhang 34

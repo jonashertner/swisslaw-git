@@ -4,20 +4,20 @@ title: "Ordonnance du 8 novembre 1978 sur la navigation dans les eaux suisses (O
 short: ONI
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/337_337_337"
 language: fr
-version: 2020-02-18
+version: 2022-01-01
 adopted: 1978-11-08
 in_force: 1979-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/fedlex-data-admin-ch-eli-cc-1979-337_337_337-20200218-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/337_337_337/20200218/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1979-337_337_337-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/337_337_337/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la navigation dans les eaux suisses
 
-(Ordonnance sur la navigation intérieure, ONI)**[^t-1]**
+(Ordonnance sur la navigation intérieure, ONI)[^t-1]
 
-du 8 novembre 1978 (Etat le 18 février 2020)
+du 8 novembre 1978 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I de l’O du 11 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)).
 
@@ -599,12 +599,13 @@ Les bateaux dont les ancrages peuvent mettre en danger la navigation portent:
 
 **Bateaux des services d’intervention[^30-1]**
 
-<sup>1</sup> Les bateaux de l’armée, de la police et de l’administration des douanes peuvent porter un ou plusieurs feux scintillants bleus, visibles de tous les côtés. Avec l’accord de l’autorité compétente, les bateaux des pompiers, de la lutte contre la pollution ainsi que des services de sauvetage et de secours peuvent aussi porter de tels feux.[^30-2]
+<sup>1</sup> Les bateaux de l’armée, de la police et de l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^30-2] peuvent porter un ou plusieurs feux scintillants bleus, visibles de tous les côtés. Avec l’accord de l’autorité compétente, les bateaux des pompiers, de la lutte contre la pollution ainsi que des services de sauvetage et de secours peuvent aussi porter de tels feux.[^30-3]
 
 <sup>2</sup> Si un bateau de la police ou des services de surveillance de la frontière ou de la pêche veut entrer en communication avec un autre bateau, il montre le pavillon lettre «K» du Code international de signaux (pavillon dont la moitié côté hampe est jaune et l’autre moitié bleue).
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
-[^30-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
+[^30-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^30-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
 
 #### Art. 31
 
@@ -652,7 +653,7 @@ Les signaux sonores prescrits et ceux admis selon l’annexe 3 doivent être ém
 
 <sup>3</sup> La volée de cloche a une durée d’environ quatre secondes. Elle peut être remplacée par des coups frappés sur un objet métallique.
 
-<sup>4</sup> Les bateaux de la police en service urgent peuvent faire usage d’un avertisseur à deux sons alternés ou d’une sirène. Avec l’accord de l’autorité compétente, les bateaux de l’administration des douanes, des pompiers, de la lutte contre la pollution et des services de sauvetage peuvent aussi utiliser de tels appareils lorsqu’ils se trouvent en service urgent.[^33-2]
+<sup>4</sup> Les bateaux de la police en service urgent peuvent faire usage d’un avertisseur à deux sons alternés ou d’une sirène. Avec l’accord de l’autorité compétente, les bateaux de l’OFDF, des pompiers, de la lutte contre la pollution et des services de sauvetage peuvent aussi utiliser de tels appareils lorsqu’ils se trouvent en service urgent.[^33-2]
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2001, en vigueur depuis le 1<sup>er</sup> mai 2001 ([RO 2001 1089](https://fedlex.data.admin.ch/eli/oc/2001/167)).
 [^33-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)).
@@ -750,7 +751,7 @@ Les signaux sonores ci-après ne doivent être émis que lorsque la sécurité d
 [^40-2]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015, en vigueur depuis le 15 fév. 2016 ([RO 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730)).
 [^40-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
 
-### 25*a***** Incapacité de conduire et valeurs limites
+### 25*a* Incapacité de conduire et valeurs limites
 
 [^lvl2-lvl25a-1]
 
@@ -815,7 +816,7 @@ Les valeurs limites fixées à l’art. 40*a*, al. 1, sont applicables:
 - a. aux sapeurs-pompiers de milice ou aux autres services d’intervention de milice lors des interventions urgentes et des déplacements y relatifs;
 - b. aux sapeurs-pompiers professionnels, aux policiers, aux douaniers, aux membres de la protection civile et du service de santé lors des interventions urgentes et des déplacements y relatifs, ainsi qu’aux personnes mandatées par ces organisations, pour autant qu’elles soient mobilisées à cet effet et qu’elles ne soient ni en service ni de permanence.
 
-### 25*b***** Contrôle de la capacité de conduire
+### 25*b* Contrôle de la capacité de conduire
 
 [^lvl2-lvl25b-1]
 
@@ -1019,7 +1020,7 @@ Les personnes ayant participé à la conduite d’un bateau qui bénéficient de
 
 [^40k-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
 
-### 25*c***** Interdiction d’exercer une activité nautique et saisie du permis
+### 25*c* Interdiction d’exercer une activité nautique et saisie du permis
 
 [^lvl2-lvl25c-1]
 
@@ -1085,7 +1086,7 @@ Le permis de conduire peut être retiré à titre préventif en cas de doutes s�
 
 [^40obis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
 
-### 25*d***** Durée du retrait du permis
+### 25*d* Durée du retrait du permis
 
 [^lvl2-lvl25d-1]
 
@@ -1244,7 +1245,7 @@ Tout bateau réduit sa vitesse dans une mesure appropriée et maintient la dista
 
 <sup>1</sup> Est considérée comme zone riveraine intérieure le plan d’eau s’étendant jusqu’à 150 m de la rive, comme zone riveraine extérieure le plan d’eau s’étendant au-delà de la zone riveraine intérieure jusqu’à une distance de 300 m, soit de la rive, soit des champs de végétation aquatique situés devant la rive ou des constructions édifiées dans l’eau.
 
-À l’exception des bateaux en service régulier circulant selon l’horaire officiel, des bateaux de police, de l’administration des douanes et des forces de sauvetage, les bateaux à moteur ne peuvent:[^53-1]
+À l’exception des bateaux en service régulier circulant selon l’horaire officiel, des bateaux de police, de l’OFDF et des forces de sauvetage, les bateaux à moteur ne peuvent:[^53-1]
 
 - a. parcourir la zone riveraine intérieure que pour accoster ou partir, stationner ou franchir des passages étroits; lors de ces manoeuvres, ils suivront la voie la plus courte;
 - b. naviguer à une vitesse supérieure à 10 km/h dans les zones riveraines intérieures et extérieures.
@@ -1659,7 +1660,7 @@ La plongée subaquatique sportive est interdite:
 [^77-1]: Nouvelle teneur selon le ch. I de l’O du 2 mai 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 2275](https://fedlex.data.admin.ch/eli/oc/2007/322)).
 [^77-2]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2015, en vigueur depuis le 15 fév. 2016 ([RO 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730)).
 
-### 29**** Déclarations de la police
+### 29 Déclarations de la police
 
 [^lvl2-lvl29-1]
 
@@ -2152,7 +2153,7 @@ Le permis de navigation est délivré si:
 
 <sup>3</sup> Le DETEC édicte les dispositions nécessaires pour autoriser les bateaux dont la construction ou le moteur est inhabituel ou nouveau.[^96-4]
 
-<sup>4</sup> L’Administration fédérale des douanes renseigne les autorités d’admission sur les catégories de bateaux pour lesquelles il n’est pas nécessaire d’obtenir une autorisation ou d’apporter la preuve du placement sous régime douanier. Aucune autorisation n’est nécessaire pour l’octroi d’un permis de navigation collectif.[^96-5]
+<sup>4</sup> L’OFDF renseigne les autorités d’admission sur les catégories de bateaux pour lesquelles il n’est pas nécessaire d’obtenir une autorisation ou d’apporter la preuve du placement sous régime douanier. Aucune autorisation n’est nécessaire pour l’octroi d’un permis de navigation collectif.[^96-5]
 
 <sup>5</sup>
 
@@ -3077,7 +3078,7 @@ Le propriétaire ou le détenteur édicte les prescriptions d’exploitation né
 
 <sup>4</sup> Aucun essai d’inclinaison n’est nécessaire si la position du centre de gravité du bateau non chargé, prêt à partir peut être déterminée sur la base d’un calcul garantissant une précision suffisante.
 
-<sup>5</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image1.png)
+<sup>5</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image1.png)
 
 Pour les moments d’inclinaison, il faut tabler simultanément au moins sur les hypothèses de charge ci-après:
 
@@ -3235,11 +3236,11 @@ La distance de sécurité, mesurée de la ligne de flottaison en pleine charge a
 
 <sup>4</sup> Le débit d’épuisement minimal Q de la pompe doit être calculé selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image2.png)
 
 d est le diamètre intérieur du tuyau d’épuisement. Il doit être calculé selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image3.png)
 
 Signification des symboles:
 
@@ -3257,7 +3258,7 @@ Toute personne travaillant à bord d’un engin flottant doit disposer d’un en
 
 [^147a-1]: Introduit par le ch. I de l’O du 11 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)).
 
-### 44 Dispositions particulières applicables aux bateaux servant au transport professionnel de personnes****
+### 44 Dispositions particulières applicables aux bateaux servant au transport professionnel de personnes
 
 [^lvl4-lvl44-1]
 
@@ -3284,7 +3285,7 @@ Toute personne travaillant à bord d’un engin flottant doit disposer d’un en
 [^148-5]: Introduit par le ch. I de l’O du 2 mai 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 2275](https://fedlex.data.admin.ch/eli/oc/2007/322)).
 [^148-6]: Introduit par le ch. I de l’O du 14 oct. 2015, en vigueur depuis le 15 fév. 2016 ([RO 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730)).
 
-### 45**** Dispositions particulières applicables aux rafts
+### 45 Dispositions particulières applicables aux rafts
 
 [^lvl4-lvl45-1]
 
@@ -3306,7 +3307,7 @@ Toute personne travaillant à bord d’un engin flottant doit disposer d’un en
 
 [^148f-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 1759](https://fedlex.data.admin.ch/eli/oc/2019/324)).
 
-### 46**** Dispositions particulières pour les bateaux de sport
+### 46 Dispositions particulières pour les bateaux de sport
 
 [^lvl4-lvl46-1]
 
@@ -3597,7 +3598,7 @@ Une nouvelle attestation d’assurance sera présentée à l’autorité lorsqu�
 
 <sup>1</sup> Il est interdit au détenteur ou au titulaire du droit de disposition de tolérer l’usage de son bateau par des tiers lorsqu’il sait ou devrait savoir, en prêtant toute l’attention commandée par les circonstances, que le bateau n’est pas admis à la navigation ou que le conducteur n’a pas le droit de conduire.
 
-<sup>2</sup> Le prêt de bateaux n’ayant pas fait l’objet d’un placement sous régime douanier n’est admis qu’avec l’accord de l’administration des douanes.[^157-1]
+<sup>2</sup> Le prêt de bateaux n’ayant pas fait l’objet d’un placement sous régime douanier n’est admis qu’avec l’accord de l’OFDF.[^157-1]
 
 <sup>3</sup> L’art. 2, al. 1, let. b, de la loi du 20 mars 2009 sur le transport de voyageurs[^157-2] et ses dispositions d’exécution sont appliqués par analogie pour évaluer s’il y a prêt à titre professionnel d’un bateau avec conducteur en vue du transport de passagers ou de marchandises.[^157-3]
 
@@ -3654,7 +3655,7 @@ Les entrées de ports, les lieux de louage et les places d’amarrage des bateau
 
 **Droits particuliers**[^162-1]
 
-<sup>1</sup> Les bateaux des autorités, d’institutions scientifiques et des services de sauvetage sont dispensés d’observer les dispositions des art. 36 et 37 (signalisation de la voie navigable), 53 (navigation dans la zone riveraine) et 70 (stationnement) dans la mesure où l’accomplissement de leur tâche l’exige absolument. De plus, les bateaux de la police et de l’administration des douanes en service de surveillance sont dispensés d’observer les prescriptions concernant les feux de bord dans la mesure où il n’en résulte pas d’atteinte à la sécurité de la navigation.
+<sup>1</sup> Les bateaux des autorités, d’institutions scientifiques et des services de sauvetage sont dispensés d’observer les dispositions des art. 36 et 37 (signalisation de la voie navigable), 53 (navigation dans la zone riveraine) et 70 (stationnement) dans la mesure où l’accomplissement de leur tâche l’exige absolument. De plus, les bateaux de la police et de l’OFDF en service de surveillance sont dispensés d’observer les prescriptions concernant les feux de bord dans la mesure où il n’en résulte pas d’atteinte à la sécurité de la navigation.
 
 <sup>2</sup> L’autorité compétente peut autoriser des dérogations à certaines dispositions de construction, pour les bateaux visés à l’al. 1, lorsque leur utilisation spécifique l’exige.
 
@@ -3701,7 +3702,7 @@ L’autorité compétente peut autoriser des dérogations aux dispositions suiva
 
 #### Art. 164
 
-**Contrôle de l’Administration fédérale des douanes**[^164-1]
+**Contrôle de l’OFDF**[^164-1]
 
 <sup>1</sup> Les cantons et les autorités fédérales compétentes pour la délivrance des permis de navigation annoncent à la Direction générale des douanes les bateaux qui sont admis pour la première fois.
 
@@ -3899,7 +3900,7 @@ Les permis de conduire des bateaux de la catégorie B émis jusqu’au 30 novemb
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 1979.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 2, al. 2)
 
@@ -3926,7 +3927,7 @@ Annexe 1*[^t-2]*
 
 [^annex1-lvlu1-1]: Cf. note de bas de page de l’art. 2, al. 1, let. a, ch. 15
 
-Annexe 1a*[^t-3]*
+Annexe 1a[^t-3]
 
 (art. 16, al. 1, et 17, al. 3)
 
@@ -3977,7 +3978,7 @@ Les bateaux de la Confédération doivent porter une lettre majuscule suivie des
 Exemple:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image4.png)</td><td>– bande rouge – chiffres blancs dans la bande</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image4.png)</td><td>– bande rouge – chiffres blancs dans la bande</td></tr>
 </table>
 
 - – les bateaux ayant leur lieu de stationnement à l’étranger portent les initiales cantonales suivies de chiffres, d’une bande verticale noire de 4 cm de largeur et de la lettre Z. La bande noire contiendra les chiffres du mois d’échéance et les deux derniers chiffres de l’année d’échéance. Ces chiffres seront blancs et auront une hauteur de 3 cm.
@@ -3985,10 +3986,10 @@ Exemple:
 Exemple:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image5.png)</td><td>– bande noire – chiffres blancs dans la bande</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image5.png)</td><td>– bande noire – chiffres blancs dans la bande</td></tr>
 </table>
 
-Annexe 2*[^t-4]*
+Annexe 2[^t-4]
 
 (art. 18)
 
@@ -4006,59 +4007,59 @@ Annexe 2*[^t-4]*
   - a. feux:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image6.png) feu fixe visible de tous les côtés</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image7.png) feu fixe visible sur un arc d’horizon limité</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image8.png) feu fixe visible sur un arc d’horizon limité, non visible pour l’observateur</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image9.png) feu scintillant</td><td></td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image6.png) feu fixe visible de tous les côtés</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image7.png) feu fixe visible sur un arc d’horizon limité</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image8.png) feu fixe visible sur un arc d’horizon limité, non visible pour l’observateur</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image9.png) feu scintillant</td><td></td><td></td></tr>
 </table>
 
 - b. panneaux ou pavillons et ballons:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image10.png) panneau ou pavillon</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image11.png) Ballon</td><td></td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image12.png) 1</td><td colspan="2">Bateaux motorisés art. 24, al. 1 *–* *bateaux naviguant isolément ou* *remorqueurs* feu de mât ou feu de proue: feu clair blanc feux de côté: feu clair vert feu clair rouge feu de poupe: feu ordinaire blanc</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image13.png) 1a</td><td colspan="2">[tab] *– Convois poussés* feu de mât: feu clair blanc, placé sur le bateau de tête feux de côté: feu clair vert feu clair route feu de poupe: feu ordinaire blanc</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image14.png) 2</td><td colspan="2">*–* *Bateaux de sport et de plaisance* Feux conformément à l’al. 3, let. a</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image15.png) 3</td><td colspan="2">Al. 2, let. a, et 3, let. a *–* *Bateaux de pêche professionnelle, bateaux de sport et de plaisance motorisés* Feux conformément à l’al. 1</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image16.png) 4</td><td colspan="2">Al. 2, let. b, et 3, let. d *–* *Bateaux de pêche professionnelle, bateaux de sport et de plaisance motorisés, bateaux à voile naviguant à moteur* Feu blanc visible de tous les côtés Feux de côté: vert rouge</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image17.png) 4a</td><td colspan="2">Al. 3, let. c et d *–* *Bateaux de sport et de plaisance motorisés, bateaux à voile naviguant à moteur, voiles hissées ou non* Feu blanc visible de tous les côtés Feux de côté: vert rouge Les feux de côté peuvent être placés côte à côte dans la zone avant ou comme feu bicolore.</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image18.png) 4b</td><td colspan="2">Al. 3, let. a et b *–* *Bateaux à voile naviguant à moteur, voiles hissées ou non* Feu de mât: blanc Feux de côté: vert rouge Feu de poupe: blanc Dans la zone avant, les feux de côté peuvent être placés côte à côte ou comme feu bicolore.</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image19.png) 4c</td><td colspan="2">Al. 4 *–* *Bateaux à voile naviguant à moteur* Feu de mât: blanc Feux de côté et feu de poupe combinés en un feu tricolore placé à la pointe du mât ou à proximité de celle-ci</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image20.png) 5</td><td colspan="2">Al. 5 Sur les bateaux dont la puissance propulsive ne dépasse pas 6 kW et sur les bateaux de sport et de plaisance dont la longueur ne dépasse pas 7 m et dont la vitesse n’excède pas 7 nœuds: feu ordinaire blanc</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image21.png) 6</td><td colspan="2"></td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image22.png) 7</td><td colspan="2">Bateaux non motorisés Art. 25, al. 1 *–* *bateaux naviguant isolément ou en convoi remorqué* Feu ordinaire blanc visible de tous les côtés</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image23.png) 8</td><td colspan="2">Al. 2 *–* *Bateaux naviguant à voile* Feu ordinaire blanc visible de tous les côtés</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image24.png) 9</td><td colspan="2">Al. 2 , let. a et b Feux de côté: vert rouge Dans la zone avant, les feux de côté peuvent être placés côte à côte ou comme feu bicolore Feu de poupe: blanc</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image25.png) 9a</td><td colspan="2">Let. c Feu tricolore placé à la pointe du mât ou à proximité de celle-ci</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image26.png) 9b</td><td colspan="2">Al. 3 Deux feux superposés visibles de tous les côtés, un feu de poupe et un feu bicolore ou des feux de côté séparés; les feux visibles de tous les côtés sont placés à l’endroit où ils sont le plus visibles; le feu supérieur est rouge, le feu inférieur est vert.</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image27.png) 10</td><td colspan="2">Bateaux en stationnement art. 26, al. 1 feu ordinaire blanc visible de tous les côtés</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image28.png) 11</td><td colspan="2">al. 2 – engins flottants lorsque la sécurité de la navigation l’exige: éclairage permettant de distinguer le contour</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image29.png) 12</td><td colspan="2">Bateaux prioritaires Art. 27, let. a Feu de mât: feu clair blanc Feux de côté: clair vert clair rouge Feu de poupe: feu ordinaire blanc, et un feu clair vert visible de tous les côtés, placé au moins 1 m plus haut que le feu de mât</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image30.png) 13</td><td colspan="2">let. b ballon vert</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image31.png) 14</td><td colspan="2">Protection contre les remous art. 28, let. a outre les feux prescrits: feu ordinaire rouge visible de tous les côtés au-dessus d’un feu ordinaire blanc visible de tous les côtés</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image32.png) 15</td><td colspan="2">let. b pavillon dont la moitié supérieure est rouge, la moitié inférieure blanche</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image33.png) 16</td><td colspan="2">ou deux pavillons dont le supérieur est rouge, l’inférieur blanc</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image34.png) 17</td><td colspan="2">Ancrages dangereux art. 29, al. 1, let. a feu ordinaire blanc visible de tous les côtés, au-dessus du feu blanc visible lui aussi de tous les côtés selon l’art. 26, al. 1</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image35.png) 18</td><td colspan="2">let. b deux pavillons blancs superposés</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image36.png) 19</td><td colspan="2">al. 2 lorsque la sécurité de la navigation l’exige: feux blancs visibles de tous les côtés, signalant chaque ancrage</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image37.png)20</td><td colspan="2">bouées jaunes signalant chaque ancrage</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image38.png) 21</td><td colspan="2">Bateaux de la police et d’autres services art. 30, al. 1</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image39.png) 22</td><td colspan="2">feu bleu scintillant</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image40.png) 23</td><td colspan="2">al. 2 *–* *bateaux de la police, des gardes-frontière ou du service de surveillance de la pêche* lorsqu’ils veulent prendre contact avec d’autres bateaux: pavillon, lettre «K» (pavillon, dont la moitié côté hampe est jaune, l’autre moitié bleue)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image41.png) 24</td><td colspan="2">Bateaux de pêche art. 31, al. 1, let. a *–* *bateaux de pêche professionnelle* feu ordinaire jaune visible de tous les côtés</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image42.png) 25</td><td colspan="2">let. b ballon jaune</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image43.png) 26</td><td colspan="2">al. 2 *–* *bateaux qui pêchent à la traîne* ballon blanc</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image44.png) 27</td><td colspan="2">Signaux pour la plongée subaquatique art. 32, al. 1 *–* *en cas de plongée à partir de la rive* panneau, lettre «A» (guidon à deux pointes, dont la moitié côté hampe est blanche, l’autre moitié bleue)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image45.png) 28</td><td colspan="2">al. 2 *–* *en cas de plongée à partir d’un plan d’eau* panneau, lettre «A» (guidon à deux pointes, dont la moitié côté hampe est blanche, l’autre moitié bleue), visible de tous les côtés</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image46.png) 29</td><td colspan="2">Bateaux incapables de manœuvrer art. 51, al. 1 balancer un feu</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image47.png) 30</td><td colspan="2">balancer un pavillon rouge</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image48.png) 31</td><td colspan="2">Bateaux en détresse art. 58, let. a balancer circulairement un feu</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image49.png) 32</td><td colspan="2">balancer circulairement un pavillon rouge ou tout autre objet approprié</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image50.png) 33</td><td colspan="2">let. f mouvement lent et répété, de haut en bas, des bras étendus de chaque côté</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image51.png) 34</td><td colspan="2">Engins flottants, bateaux au travail et bateaux échoués ou coulés art. 71, al. 1, let a *–* *du ou des côtés ou le passage est libre:* feu ordinaire rouge feu ordinaire blanc *–* *du ou des côtés ou le passage n’est pas libre:* feu ordinaire rouge</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image52.png) 35</td><td colspan="2">let. b *–* *du ou des côtés où le passage est libre:* pavillon, dont la moitié supérieure est rouge, la moitié inférieure blanche *–* *du ou des côtés où le passage n’est pas libre:* pavillon rouge</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image53.png) 36</td><td colspan="2">ou *–* *du ou des côtés où le passage est libre:* deux pavillons superposés, dont le supérieur est rouge, l’inférieur blanc *–* *du ou des côtés où le passage n’est pas libre:* pavillon rouge</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image10.png) panneau ou pavillon</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image11.png) Ballon</td><td></td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image12.png) 1</td><td colspan="2">Bateaux motorisés art. 24, al. 1 *–* *bateaux naviguant isolément ou* *remorqueurs* feu de mât ou feu de proue: feu clair blanc feux de côté: feu clair vert feu clair rouge feu de poupe: feu ordinaire blanc</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image13.png) 1a</td><td colspan="2">[tab] *– Convois poussés* feu de mât: feu clair blanc, placé sur le bateau de tête feux de côté: feu clair vert feu clair route feu de poupe: feu ordinaire blanc</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image14.png) 2</td><td colspan="2">*–* *Bateaux de sport et de plaisance* Feux conformément à l’al. 3, let. a</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image15.png) 3</td><td colspan="2">Al. 2, let. a, et 3, let. a *–* *Bateaux de pêche professionnelle, bateaux de sport et de plaisance motorisés* Feux conformément à l’al. 1</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image16.png) 4</td><td colspan="2">Al. 2, let. b, et 3, let. d *–* *Bateaux de pêche professionnelle, bateaux de sport et de plaisance motorisés, bateaux à voile naviguant à moteur* Feu blanc visible de tous les côtés Feux de côté: vert rouge</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image17.png) 4a</td><td colspan="2">Al. 3, let. c et d *–* *Bateaux de sport et de plaisance motorisés, bateaux à voile naviguant à moteur, voiles hissées ou non* Feu blanc visible de tous les côtés Feux de côté: vert rouge Les feux de côté peuvent être placés côte à côte dans la zone avant ou comme feu bicolore.</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image18.png) 4b</td><td colspan="2">Al. 3, let. a et b *–* *Bateaux à voile naviguant à moteur, voiles hissées ou non* Feu de mât: blanc Feux de côté: vert rouge Feu de poupe: blanc Dans la zone avant, les feux de côté peuvent être placés côte à côte ou comme feu bicolore.</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image19.png) 4c</td><td colspan="2">Al. 4 *–* *Bateaux à voile naviguant à moteur* Feu de mât: blanc Feux de côté et feu de poupe combinés en un feu tricolore placé à la pointe du mât ou à proximité de celle-ci</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image20.png) 5</td><td colspan="2">Al. 5 Sur les bateaux dont la puissance propulsive ne dépasse pas 6 kW et sur les bateaux de sport et de plaisance dont la longueur ne dépasse pas 7 m et dont la vitesse n’excède pas 7 nœuds: feu ordinaire blanc</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image21.png) 6</td><td colspan="2"></td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image22.png) 7</td><td colspan="2">Bateaux non motorisés Art. 25, al. 1 *–* *bateaux naviguant isolément ou en convoi remorqué* Feu ordinaire blanc visible de tous les côtés</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image23.png) 8</td><td colspan="2">Al. 2 *–* *Bateaux naviguant à voile* Feu ordinaire blanc visible de tous les côtés</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image24.png) 9</td><td colspan="2">Al. 2 , let. a et b Feux de côté: vert rouge Dans la zone avant, les feux de côté peuvent être placés côte à côte ou comme feu bicolore Feu de poupe: blanc</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image25.png) 9a</td><td colspan="2">Let. c Feu tricolore placé à la pointe du mât ou à proximité de celle-ci</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image26.png) 9b</td><td colspan="2">Al. 3 Deux feux superposés visibles de tous les côtés, un feu de poupe et un feu bicolore ou des feux de côté séparés; les feux visibles de tous les côtés sont placés à l’endroit où ils sont le plus visibles; le feu supérieur est rouge, le feu inférieur est vert.</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image27.png) 10</td><td colspan="2">Bateaux en stationnement art. 26, al. 1 feu ordinaire blanc visible de tous les côtés</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image28.png) 11</td><td colspan="2">al. 2 – engins flottants lorsque la sécurité de la navigation l’exige: éclairage permettant de distinguer le contour</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image29.png) 12</td><td colspan="2">Bateaux prioritaires Art. 27, let. a Feu de mât: feu clair blanc Feux de côté: clair vert clair rouge Feu de poupe: feu ordinaire blanc, et un feu clair vert visible de tous les côtés, placé au moins 1 m plus haut que le feu de mât</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image30.png) 13</td><td colspan="2">let. b ballon vert</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image31.png) 14</td><td colspan="2">Protection contre les remous art. 28, let. a outre les feux prescrits: feu ordinaire rouge visible de tous les côtés au-dessus d’un feu ordinaire blanc visible de tous les côtés</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image32.png) 15</td><td colspan="2">let. b pavillon dont la moitié supérieure est rouge, la moitié inférieure blanche</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image33.png) 16</td><td colspan="2">ou deux pavillons dont le supérieur est rouge, l’inférieur blanc</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image34.png) 17</td><td colspan="2">Ancrages dangereux art. 29, al. 1, let. a feu ordinaire blanc visible de tous les côtés, au-dessus du feu blanc visible lui aussi de tous les côtés selon l’art. 26, al. 1</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image35.png) 18</td><td colspan="2">let. b deux pavillons blancs superposés</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image36.png) 19</td><td colspan="2">al. 2 lorsque la sécurité de la navigation l’exige: feux blancs visibles de tous les côtés, signalant chaque ancrage</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image37.png)20</td><td colspan="2">bouées jaunes signalant chaque ancrage</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image38.png) 21</td><td colspan="2">Bateaux de la police et d’autres services art. 30, al. 1</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image39.png) 22</td><td colspan="2">feu bleu scintillant</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image40.png) 23</td><td colspan="2">al. 2 *–* *bateaux de la police, des gardes-frontière ou du service de surveillance de la pêche* lorsqu’ils veulent prendre contact avec d’autres bateaux: pavillon, lettre «K» (pavillon, dont la moitié côté hampe est jaune, l’autre moitié bleue)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image41.png) 24</td><td colspan="2">Bateaux de pêche art. 31, al. 1, let. a *–* *bateaux de pêche professionnelle* feu ordinaire jaune visible de tous les côtés</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image42.png) 25</td><td colspan="2">let. b ballon jaune</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image43.png) 26</td><td colspan="2">al. 2 *–* *bateaux qui pêchent à la traîne* ballon blanc</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image44.png) 27</td><td colspan="2">Signaux pour la plongée subaquatique art. 32, al. 1 *–* *en cas de plongée à partir de la rive* panneau, lettre «A» (guidon à deux pointes, dont la moitié côté hampe est blanche, l’autre moitié bleue)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image45.png) 28</td><td colspan="2">al. 2 *–* *en cas de plongée à partir d’un plan d’eau* panneau, lettre «A» (guidon à deux pointes, dont la moitié côté hampe est blanche, l’autre moitié bleue), visible de tous les côtés</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image46.png) 29</td><td colspan="2">Bateaux incapables de manœuvrer art. 51, al. 1 balancer un feu</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image47.png) 30</td><td colspan="2">balancer un pavillon rouge</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image48.png) 31</td><td colspan="2">Bateaux en détresse art. 58, let. a balancer circulairement un feu</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image49.png) 32</td><td colspan="2">balancer circulairement un pavillon rouge ou tout autre objet approprié</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image50.png) 33</td><td colspan="2">let. f mouvement lent et répété, de haut en bas, des bras étendus de chaque côté</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image51.png) 34</td><td colspan="2">Engins flottants, bateaux au travail et bateaux échoués ou coulés art. 71, al. 1, let a *–* *du ou des côtés ou le passage est libre:* feu ordinaire rouge feu ordinaire blanc *–* *du ou des côtés ou le passage n’est pas libre:* feu ordinaire rouge</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image52.png) 35</td><td colspan="2">let. b *–* *du ou des côtés où le passage est libre:* pavillon, dont la moitié supérieure est rouge, la moitié inférieure blanche *–* *du ou des côtés où le passage n’est pas libre:* pavillon rouge</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image53.png) 36</td><td colspan="2">ou *–* *du ou des côtés où le passage est libre:* deux pavillons superposés, dont le supérieur est rouge, l’inférieur blanc *–* *du ou des côtés où le passage n’est pas libre:* pavillon rouge</td></tr>
 </table>
 
-Annexe 3*[^t-5]*
+Annexe 3[^t-5]
 
 (art. 33, al. 1)
 
@@ -4105,10 +4106,10 @@ Annexe 3*[^t-5]*
 <table>
 <tr><td>— — — —</td><td>«Signal de détresse»</td><td>58, let. c</td></tr>
 <tr><td>série de sons prolongés ou – – – — — — – – – trois sons brefs, trois sons prolongés, trois sons brefs (SOS) ou</td><td>«Signal de détresse»</td><td>58, let. d</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image54.png) volées de cloches</td><td>«Signal de détresse»</td><td>58, let. e</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image54.png) volées de cloches</td><td>«Signal de détresse»</td><td>58, let. e</td></tr>
 </table>
 
-Annexe 4*[^t-6]*
+Annexe 4[^t-6]
 
 (art. 36, al. 1, 37, 38, al. 5, et 39)
 
@@ -4129,68 +4130,68 @@ Annexe 4*[^t-6]*
 ### A. Signaux d’interdiction
 
 <table>
-<tr><td>A.1 Interdiction de passer – signal général d’interdiction</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image55.png)</td></tr>
-<tr><td>[tab] ou – deux feux superposés</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image56.png)</td></tr>
-<tr><td>A.2 Interdiction de passer pour bateaux motorisés</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image57.png)</td></tr>
-<tr><td>A.3 Interdiction du ski nautique</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image58.png)</td></tr>
-<tr><td>A.4 Interdiction de passer pour bateaux à voile</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image59.png)</td></tr>
-<tr><td>A.4<sup>bis</sup> Interdiction de naviguer à la planche à voile</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image60.png)</td></tr>
-<tr><td>A.5 Interdiction de tout dépassement</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image61.png)</td></tr>
-<tr><td>A.6 Interdiction de toute rencontre et dépassement</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image62.png)</td></tr>
-<tr><td>A.7 Interdiction de stationner</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image63.png)</td></tr>
-<tr><td>A.8 Interdiction d’ancrer</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image64.png)</td></tr>
-<tr><td>A.9 Interdiction de s’amarrer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image65.png)</td></tr>
-<tr><td>A.10 Interdiction de virer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image66.png)</td></tr>
-<tr><td>A.11 Interdiction de causer des remous ou effets de succion nuisibles</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image67.png)</td></tr>
-<tr><td>A.12 Interdiction de naviguer en dehors des limites indiquées</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image68.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image69.png)</td></tr>
-<tr><td>A.13 Passage interdit, mais préparez-vous à vous mettre en marche</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image70.png)</td></tr>
-<tr><td>A.14 Baignade interdite</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image71.png)</td></tr>
+<tr><td>A.1 Interdiction de passer – signal général d’interdiction</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image55.png)</td></tr>
+<tr><td>[tab] ou – deux feux superposés</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image56.png)</td></tr>
+<tr><td>A.2 Interdiction de passer pour bateaux motorisés</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image57.png)</td></tr>
+<tr><td>A.3 Interdiction du ski nautique</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image58.png)</td></tr>
+<tr><td>A.4 Interdiction de passer pour bateaux à voile</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image59.png)</td></tr>
+<tr><td>A.4<sup>bis</sup> Interdiction de naviguer à la planche à voile</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image60.png)</td></tr>
+<tr><td>A.5 Interdiction de tout dépassement</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image61.png)</td></tr>
+<tr><td>A.6 Interdiction de toute rencontre et dépassement</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image62.png)</td></tr>
+<tr><td>A.7 Interdiction de stationner</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image63.png)</td></tr>
+<tr><td>A.8 Interdiction d’ancrer</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image64.png)</td></tr>
+<tr><td>A.9 Interdiction de s’amarrer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image65.png)</td></tr>
+<tr><td>A.10 Interdiction de virer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image66.png)</td></tr>
+<tr><td>A.11 Interdiction de causer des remous ou effets de succion nuisibles</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image67.png)</td></tr>
+<tr><td>A.12 Interdiction de naviguer en dehors des limites indiquées</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image68.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image69.png)</td></tr>
+<tr><td>A.13 Passage interdit, mais préparez-vous à vous mettre en marche</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image70.png)</td></tr>
+<tr><td>A.14 Baignade interdite</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image71.png)</td></tr>
 </table>
 
 ### B. Signaux d’obligation
 
 <table>
-<tr><td>B.1 Obligation de prendre la direction indiquée par la flèche</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image72.png)</td></tr>
-<tr><td>B.2 Obligation de s’arrêter dans certaines conditions</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image73.png)</td></tr>
-<tr><td>B.3 Obligation de ne pas dépasser la vitesse indiquée en km/h</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image74.png)</td></tr>
-<tr><td>B.4 Obligation de siffler</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image75.png)</td></tr>
-<tr><td>B.5 Obligation d’observer une vigilance particulière</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image76.png)</td></tr>
+<tr><td>B.1 Obligation de prendre la direction indiquée par la flèche</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image72.png)</td></tr>
+<tr><td>B.2 Obligation de s’arrêter dans certaines conditions</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image73.png)</td></tr>
+<tr><td>B.3 Obligation de ne pas dépasser la vitesse indiquée en km/h</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image74.png)</td></tr>
+<tr><td>B.4 Obligation de siffler</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image75.png)</td></tr>
+<tr><td>B.5 Obligation d’observer une vigilance particulière</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image76.png)</td></tr>
 </table>
 
 ### C. Signaux de restriction
 
 <table>
-<tr><td>C.1 La hauteur de la passe est limitée</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image77.png)</td></tr>
-<tr><td>C.2 La largeur de la passe est limitée</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image78.png)</td></tr>
-<tr><td>C.3 Le chenal est limité; le chiffre porté sur le signal indique, en mètres, la distance à laquelle il convient que les bateaux se tiennent par rapport à la rive</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image79.png)</td></tr>
-<tr><td>C.4 Le tirant d’eau est limité</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image80.png)</td></tr>
+<tr><td>C.1 La hauteur de la passe est limitée</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image77.png)</td></tr>
+<tr><td>C.2 La largeur de la passe est limitée</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image78.png)</td></tr>
+<tr><td>C.3 Le chenal est limité; le chiffre porté sur le signal indique, en mètres, la distance à laquelle il convient que les bateaux se tiennent par rapport à la rive</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image79.png)</td></tr>
+<tr><td>C.4 Le tirant d’eau est limité</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image80.png)</td></tr>
 </table>
 
 ### D. Signaux de recommandation
 
 <table>
-<tr><td>D.1 Passe recommandée des ponts [tab] a. dans les deux sens</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image81.png)</td></tr>
-<tr><td>[tab] b. dans le seul sens indiqué</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image82.png) ou ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image83.png)</td></tr>
-<tr><td>D.2 Recommandation de se tenir dans l’espace indiqué en «vert»</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image84.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image85.png)</td></tr>
+<tr><td>D.1 Passe recommandée des ponts [tab] a. dans les deux sens</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image81.png)</td></tr>
+<tr><td>[tab] b. dans le seul sens indiqué</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image82.png) ou ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image83.png)</td></tr>
+<tr><td>D.2 Recommandation de se tenir dans l’espace indiqué en «vert»</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image84.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image85.png)</td></tr>
 </table>
 
 ### E. Signaux d’indication
 
 <table>
-<tr><td>E.1 Autorisation de passer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image86.png)</td></tr>
-<tr><td>E.2 Autorisation de stationner</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image87.png)</td></tr>
-<tr><td>E.3 Autorisation d’ancrer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image88.png)</td></tr>
-<tr><td>E.4 Autorisation d’amarrer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image89.png)</td></tr>
-<tr><td>E.5 Autorisation du ski nautique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image90.png)</td></tr>
-<tr><td>E.5<sup>bis</sup> Autorisation de naviguer à la planche à voile</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image91.png)</td></tr>
-<tr><td>E.5<sup>ter</sup> Kitesurfs autorisés</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image92.png)</td></tr>
-<tr><td>E.6 Direction recommandée</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image93.png)</td></tr>
-<tr><td>E.7 Bac ne naviguant pas librement</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image94.png)</td></tr>
-<tr><td>E.8 Barrage</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image95.png)</td></tr>
-<tr><td>E.9 Lieu de mise à l’eau de bateaux</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image96.png)</td></tr>
-<tr><td>E.10 Lieu de mise à terre de bateaux</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image97.png)</td></tr>
-<tr><td>E.11 Fin d’une interdiction ou d’une obligation</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image98.png)</td></tr>
-<tr><td>E.12 Lignes aériennes à haute tension</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image99.png)</td></tr>
+<tr><td>E.1 Autorisation de passer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image86.png)</td></tr>
+<tr><td>E.2 Autorisation de stationner</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image87.png)</td></tr>
+<tr><td>E.3 Autorisation d’ancrer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image88.png)</td></tr>
+<tr><td>E.4 Autorisation d’amarrer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image89.png)</td></tr>
+<tr><td>E.5 Autorisation du ski nautique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image90.png)</td></tr>
+<tr><td>E.5<sup>bis</sup> Autorisation de naviguer à la planche à voile</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image91.png)</td></tr>
+<tr><td>E.5<sup>ter</sup> Kitesurfs autorisés</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image92.png)</td></tr>
+<tr><td>E.6 Direction recommandée</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image93.png)</td></tr>
+<tr><td>E.7 Bac ne naviguant pas librement</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image94.png)</td></tr>
+<tr><td>E.8 Barrage</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image95.png)</td></tr>
+<tr><td>E.9 Lieu de mise à l’eau de bateaux</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image96.png)</td></tr>
+<tr><td>E.10 Lieu de mise à terre de bateaux</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image97.png)</td></tr>
+<tr><td>E.11 Fin d’une interdiction ou d’une obligation</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image98.png)</td></tr>
+<tr><td>E.12 Lignes aériennes à haute tension</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image99.png)</td></tr>
 </table>
 
 ### F. Cartouches et inscriptions additionnels
@@ -4200,37 +4201,37 @@ Les signaux de la voie navigable A.1 jusqu’à E. 12 peuvent être complétés 
 - 1\. des cartouches indiquant la distance à laquelle intervient la prescription ou la particularité indiquée par le signal de la voie navigable. Les cartouches sont placés au-dessus du signal de la voie navigable.
 
 <table>
-<tr><td>Exemple: Obligation de ne pas dépasser 12 km/h à 1000 m</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image100.png)</td></tr>
+<tr><td>Exemple: Obligation de ne pas dépasser 12 km/h à 1000 m</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image100.png)</td></tr>
 </table>
 
 - 2\. des flèches indiquant la direction du secteur auquel s’applique le signal de la voie navigable.
 
 <table>
-<tr><td>Exemple: Autorisation de stationner</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image101.png)</td></tr>
+<tr><td>Exemple: Autorisation de stationner</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image101.png)</td></tr>
 </table>
 
 - 3\. des cartouches comportant des explications ou indications complémentaires. Les cartouches sont placés en dessous du signal de la voie navigable.
 
 <table>
-<tr><td>Exemple: Arrêt pour la douane</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image102.png)</td></tr>
+<tr><td>Exemple: Arrêt pour la douane</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image102.png)</td></tr>
 </table>
 
 ### G. Signalisation des hauts-fonds et d’autres obstacles
 
 <table>
-<tr><td colspan="3">G.1 Obstacles isolés cône pointe en bas peint en rouge ou non peint</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image103.png)</td></tr>
-<tr><td colspan="3">G.2 Signalisation du chenal cylindres peints en rouge ou non peints cônes pointe en haut peints en vert ou non peints</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image104.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image105.png)</td></tr>
-<tr><td colspan="3">Exemple: Signalisation d’un haut-fonds à proximité de la rive – côté large: cylindres – côté terre: cônes</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image106.png)</td></tr>
-<tr><td colspan="3">Exemple: Signalisation d’un chenal dans une zone de hauts-fonds – côté droit vu du large: cônes verts – côté gauche vu du large: cylindres rouges</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image107.png)</td></tr>
-<tr><td colspan="2">G.3 Obstacles étendus – dans le quadrant Nord: deux cônes superposés, les deux pointes en haut – dans le quadrant Est: deux cônes superposés, le cône inférieur pointe en bas, le cône supérieur pointe en haut – dans le quadrant Sud: deux cônes superposés, les deux pointes en bas – dans le quadrant Ouest: deux cônes superposés, le cône inférieur pointe en haut, le cône supérieur pointe en bas. [tab]</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image108.png)</td></tr>
-<tr><td>Exemple: Hauts-fonds étendus Les marques indiquent que des eaux profondes se trouvent dans le quadrant Nord et Ouest.</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image109.png)</td></tr>
+<tr><td colspan="3">G.1 Obstacles isolés cône pointe en bas peint en rouge ou non peint</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image103.png)</td></tr>
+<tr><td colspan="3">G.2 Signalisation du chenal cylindres peints en rouge ou non peints cônes pointe en haut peints en vert ou non peints</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image104.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image105.png)</td></tr>
+<tr><td colspan="3">Exemple: Signalisation d’un haut-fonds à proximité de la rive – côté large: cylindres – côté terre: cônes</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image106.png)</td></tr>
+<tr><td colspan="3">Exemple: Signalisation d’un chenal dans une zone de hauts-fonds – côté droit vu du large: cônes verts – côté gauche vu du large: cylindres rouges</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image107.png)</td></tr>
+<tr><td colspan="2">G.3 Obstacles étendus – dans le quadrant Nord: deux cônes superposés, les deux pointes en haut – dans le quadrant Est: deux cônes superposés, le cône inférieur pointe en bas, le cône supérieur pointe en haut – dans le quadrant Sud: deux cônes superposés, les deux pointes en bas – dans le quadrant Ouest: deux cônes superposés, le cône inférieur pointe en haut, le cône supérieur pointe en bas. [tab]</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image108.png)</td></tr>
+<tr><td>Exemple: Hauts-fonds étendus Les marques indiquent que des eaux profondes se trouvent dans le quadrant Nord et Ouest.</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image109.png)</td></tr>
 <tr><td colspan="5">G.4 Signaux supplémentaires pour la navigation au radar (si nécessaire) conformément à l’annexe 8, section V, let. A et B du règlement de police pour la navigation du Rhin du 1<sup>er</sup> décembre 1993[^annex4-lvlu1-lvlI-lvlG-1].</td></tr>
 <tr><td colspan="5">A. Balisage des cibles de radar</td></tr>
-<tr><td colspan="5">1. Flotteurs jaunes avec réflecteurs radar (par ex. placés à l’amont et à l’aval des piles) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image110.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image111.png)</td></tr>
-<tr><td colspan="5">2. Perche avec réflecteur radar (placés à l’amont et à l’aval des piles) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image112.png)</td></tr>
+<tr><td colspan="5">1. Flotteurs jaunes avec réflecteurs radar (par ex. placés à l’amont et à l’aval des piles) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image110.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image111.png)</td></tr>
+<tr><td colspan="5">2. Perche avec réflecteur radar (placés à l’amont et à l’aval des piles) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image112.png)</td></tr>
 <tr><td colspan="5">B. Balisage des lignes aériennes</td></tr>
-<tr><td colspan="5">1. Réflecteurs radar fixés sur la ligne aérienne (donnant comme image radar une série de points pour identifier la ligne aérienne) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image113.png)</td></tr>
-<tr><td colspan="5">2. Réflecteurs radar placés sur des flotteurs jaunes disposés par paire près de chaque rive (chaque paire donnant comme image radar 2 points l’un à côté de l’autre pour identifier la ligne aérienne) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image114.png)</td></tr>
+<tr><td colspan="5">1. Réflecteurs radar fixés sur la ligne aérienne (donnant comme image radar une série de points pour identifier la ligne aérienne) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image113.png)</td></tr>
+<tr><td colspan="5">2. Réflecteurs radar placés sur des flotteurs jaunes disposés par paire près de chaque rive (chaque paire donnant comme image radar 2 points l’un à côté de l’autre pour identifier la ligne aérienne) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image114.png)</td></tr>
 </table>
 
 [^annex4-lvlu1-lvlI-lvlG-1]: [RS 747.224.111](https://fedlex.data.admin.ch/eli/cc/1994/1776_1776_1776-2).Ce texte n’est publié au RO. Commande: Office fédérale des constructions et de la logistique, Vente des publications fédérales, 3003 Berne, www.publicationsfederales.admin.ch. Téléchargement: www.oft.admin.ch &gt; Droit &gt; Autres bases légales et prescriptions &gt; Conventions internationales &gt; Règlement de police pour la navigation du Rhin.
@@ -4238,8 +4239,8 @@ Les signaux de la voie navigable A.1 jusqu’à E. 12 peuvent être complétés 
 ### H. Signaux d’avis de tempête
 
 <table>
-<tr><td>H.1 Avis de fort vent</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image115.png)</td></tr>
-<tr><td colspan="2">H.2 Avis de tempête</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image116.png)</td></tr>
+<tr><td>H.1 Avis de fort vent</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image115.png)</td></tr>
+<tr><td colspan="2">H.2 Avis de tempête</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image116.png)</td></tr>
 </table>
 
 ### II. Signaux sonores
@@ -4249,11 +4250,11 @@ Les signaux de la voie navigable A.1 jusqu’à E. 12 peuvent être complétés 
 <table>
 <tr><td>Signaux</td><td>Signification</td><td>Article</td></tr>
 <tr><td>– – deux sons brefs, trois fois par minute ou</td><td>«Signaux par temps bouché des installations fixes»</td><td>39</td></tr>
-<tr><td>– – ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image117.png) volées de cloches continues ou</td><td>«Signaux par temps bouché des installations fixes»</td><td>39</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image118.png) hurlement d’une sirène</td><td>«Signaux par temps bouché des installations fixes»</td><td>39</td></tr>
+<tr><td>– – ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image117.png) volées de cloches continues ou</td><td>«Signaux par temps bouché des installations fixes»</td><td>39</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image118.png) hurlement d’une sirène</td><td>«Signaux par temps bouché des installations fixes»</td><td>39</td></tr>
 </table>
 
-Annexe 5*[^t-7]*
+Annexe 5[^t-7]
 
 (art. 84, al. 1)
 
@@ -4289,19 +4290,19 @@ Modèle 1
 
 **Permis de conduire pour conducteurs de bateaux d’entreprises de navigation titulaires d’une concession fédérale**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image119.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image119.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image120.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image120.png)
 
 Modèle 2
 
 **Permis de conduire des cantons**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image119.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image119.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image121.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image121.png)
 
-Annexe 6*[^t-8]*
+Annexe 6[^t-8]
 
 (art. 90 et 91)
 
@@ -4395,7 +4396,7 @@ Modèle 2, verso
 <tr><td>15.</td><td>Conditions</td></tr>
 </table>
 
-Annexe 7*[^t-9]*
+Annexe 7[^t-9]
 
 (art. 97, al. 1, et 106, al. 2)
 
@@ -4433,21 +4434,21 @@ Modèle 1
 
 **Permis de navigation pour l’immatriculation ordinaire de bateaux sous surveillance cantonale, permis de navigation collectif et permis de navigation pour bateaux n’ayant pas fait l’objet d’un placement sous régime douanier**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image122.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image122.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image123.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image123.png)
 
 Modèle 2
 
 **Permis de navigation pour bateaux des entreprises de navigation titulaires d’une concession fédérale**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image124.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image124.png)
 
-Annexe 8*[^t-10]*
+Annexe 8[^t-10]
 
 [^t-10]: Abrogée par le ch. II al. 1 de l’O du 2 mai 2007, avec effet au 1<sup>er</sup> déc. 2007 ([RO 2007 2275](https://fedlex.data.admin.ch/eli/oc/2007/322)).
 
-Annexe 9*[^t-11]*
+Annexe 9[^t-11]
 
 (art. 156, al. 1)
 
@@ -4501,7 +4502,7 @@ Modèle 2
   - – Indications sur l’assuré
   - – Signature
 
-Annexe 10*[^t-12]*
+Annexe 10[^t-12]
 
 (art. 100, al. 5, et 109b, al. 2 et 4)
 
@@ -4549,9 +4550,9 @@ Annexe 10*[^t-12]*
 - 6\.2 Pour tenir compte de l’imprécision des appareils, les résultats obtenus lors des mesures seront abaissés de 1 dB(A).
 - 6\.3 Si ce résultat dépasse le niveau admissible, une série de mesures sera effectuée sur deux parcours dans les deux directions. C’est alors le deuxième des résultats les plus élevés qui sera déterminant.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image125.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image125.png)
 
-Annexe 11*[^t-13]*
+Annexe 11[^t-13]
 
 (art. 139)
 
@@ -4562,7 +4563,7 @@ Annexe 11*[^t-13]*
 - 1\. La puissance propulsive admissible des bateaux de plaisance dont la longueur est égale ou supérieure à 2,5 m mais inférieure à 3 m est limitée à 3 kW.
 - 2\. La puissance propulsive admissible (N) des bateaux de plaisance d’une longueur de 3 à 6,5 m se calcule d’après la formule:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image126.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image126.png)
 
 -
 
@@ -4585,7 +4586,7 @@ Annexe 11*[^t-13]*
 
 - 3\. La puissance propulsive donnée par la formule est arrondie à la première décimale supérieure ou inférieure.
 
-Annexe 12*[^t-14]*
+Annexe 12[^t-14]
 
 (art. 100)
 
@@ -4607,7 +4608,7 @@ Pour la détermination de la surface vélique totale en m<sup>2</sup>, le résul
 
 La surface du triangle du foc se calcule d’après la formule:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image127.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image127.png)
 
 Dans la formule:
 
@@ -4618,7 +4619,7 @@ Dans la formule:
 
 La surface du triangle de la grande voile se calcule d’après la formule:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image128.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image128.png)
 
 Dans la formule:
 
@@ -4633,9 +4634,9 @@ En cas de gréement particulier, le calcul de la surface vélilque est fixé dan
 
 L’arrondi des ralingues n’est pas pris en considération.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image129.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image129.png)
 
-Annexe 13*[^t-15]*
+Annexe 13[^t-15]
 
 (art. 143)
 
@@ -4643,33 +4644,33 @@ Annexe 13*[^t-15]*
 
 [^t-15]: Mise à jour selon le ch. II de l’O du 11 sept. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image130.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image130.png)
 
 Exemples:
 
 a. bateaux naviguant en zone 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image131.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image131.png)
 
 b. bateaux naviguant en zone 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image132.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image132.png)
 
 c. Disposition des marques d’enfoncement pour zone 2 ou 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image133.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image133.png)
 
 d. bauteaux naviguant aussi bien en zone 2 qu’en zone 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image134.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image134.png)
 
 e. Disposition des marques d’enfoncement pour les zone 2 ou 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image135.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image135.png)
 
 \*) Hauteur des chriffres 8 cm
 
-Annexe 14*[^t-16]*
+Annexe 14[^t-16]
 
 (art. 144 et 145
 
@@ -4679,11 +4680,11 @@ Annexe 14*[^t-16]*
 
 - 1\. Le franc-bord des bateaux à marchandises avec tonture et superstructures se calcule d’après la formule:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image136.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image136.png)
 
 - où
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image137.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image137.png)
 
 -
 
@@ -4710,7 +4711,7 @@ Annexe 14*[^t-16]*
   - s est, en cm, la tonture réelle à l’extrémité considérée du bateau;
   - p est le coefficient obtenu en fonction du rapport x/L, x étant la distance entre l’extrémité du bateau et le point où la tonture est égale à 0.25 s.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image138.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image138.png)
 
 <table>
 <tr><td>x/L</td><td>0,25 et plus</td><td>0,20</td><td>0,15</td><td>0,10</td><td>0,05</td><td>0</td></tr>
@@ -4728,7 +4729,7 @@ Annexe 14*[^t-16]*
 - Si k<sub>2</sub> × se<sub>2</sub> est supérieur à k<sub>1</sub> × se<sub>1</sub>, on prendra pour valeur de k<sub>2</sub> × se<sub>2</sub> celle de k<sub>1</sub> × se<sub>1</sub>.
 - 3\. La longueur efficace d’une superstructure se calcule d’après la formule:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image139.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image139.png)
 
 -
 
@@ -4736,14 +4737,14 @@ Annexe 14*[^t-16]*
 
   - l est, en m, la longueur réelle de la superstructure considérée;
   - b est, en m, la largeur moyenne de la superstructure considérée;
-  - ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image140.png) est, en m, la largeur du bateau à demi-longueur de la superstructure considérée;
+  - ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image140.png) est, en m, la largeur du bateau à demi-longueur de la superstructure considérée;
   - h est, en m, la hauteur moyenne en dessus du pont de la superstructure considérée; toutefois, pour les écoutilles, h est obtenu en réduisant la hauteur de l’hiloire de la demi-distance de sécurité visée à l’art. 145, al. 1. La valeur retenue pour h ne peut en aucun cas dépasser 0,72 m pour la zone 2 et 0,36 m pour la zone 3.
   - H est la hauteur caractéristique des vagues. Elle est
   - pour la zone 2 1,20 m
   - pour la zone 3 0,60 m
 
 <table>
-<tr><td><sup>Si</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image141.png) <sup>est inférieur à 0,6, la longueur efficace le est égale à zéro.</sup></td></tr>
+<tr><td><sup>Si</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image141.png) <sup>est inférieur à 0,6, la longueur efficace le est égale à zéro.</sup></td></tr>
 </table>
 
 - 4\. L’augmentation de la distance de sécurité selon l’art. 145, al. 2, let. b varie d’après le rapport de la largeur de la cale sur le pont (b) à la largeur du bateau (B); elle ressort du tableau suivant:
@@ -4758,7 +4759,7 @@ Annexe 14*[^t-16]*
 
 [^annex14-lvlu1-1]: Le modèle, publié au RO **1979** 438, n’est pas reproduit dans le présent recueil.
 
-Annexe 15*[^t-17]*
+Annexe 15[^t-17]
 
 (art. 132, al. 1, 163, al. 1, let. m, et 166, al. 5)
 
@@ -4872,15 +4873,15 @@ Les bateaux soumis à l’obligation de porter des signes distinctifs doivent em
 [^annex15-lvlu1-lvl8-1]: [RS 747.201.7](https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011)
 [^annex15-lvlu1-lvl8-2]: [RS 935.911](https://fedlex.data.admin.ch/eli/cc/2019/124)
 
-Annexe 16*[^t-18]*
+Annexe 16[^t-18]
 
 [^t-18]: Introduite par le ch. II de l’O du 11 sept. 1991 ([RO 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)). Abrogée par le ch. II al. 1 de l’O du 8 avr. 1998, avec effet au 15 mai 1998 ([RO 1998 1476](https://fedlex.data.admin.ch/eli/oc/1998/1476_1476_1476)).
 
-Annexe 17*[^t-19]*
+Annexe 17[^t-19]
 
 [^t-19]: Introduite par le ch. II de l’O du 11 sept. 1991 ([RO 1992 219](https://fedlex.data.admin.ch/eli/oc/1992/219_219_219)). Abrogée par le ch. II al. 4 de l’O du 14 oct. 2015, avec effet au 1<sup>er</sup> avr. 2017 ([RO 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730), [2017 791](https://fedlex.data.admin.ch/eli/oc/2017/150)).
 
-Annexe 18*[^t-20]*
+Annexe 18[^t-20]
 
 (art. 138*a et* 148*f*)
 
@@ -4894,7 +4895,7 @@ Annexe 18*[^t-20]*
 
   - a. pour les bateaux de plaisance, à l’exception des bateaux pneumatiques et des rafts la formule est:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image142.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image142.png)
 
 -
 
@@ -4915,7 +4916,7 @@ Annexe 18*[^t-20]*
 
 - b. pour les bateaux pneumatiques, la formule est:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20200218/fr/xml/image/image143.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/337_337_337/20220101/fr/xml/image/image143.png).
 
 - dans la formule, S est, en m<sup>2</sup>, la surface projetée à l’intérieur des chambres à air.
 - c. pour les rafts, la formule est:
@@ -4942,7 +4943,7 @@ Annexe 18*[^t-20]*
 - 5\. Un siège de pilotage doit être installé dans tout poste de timonier où le pilotage en position debout n’est pas sûr. Si la puissance propulsive est supérieure à 30 kW, ou si la sécurité l’exige, le siège doit être pourvu d’un dossier d’une hauteur de 25 cm au moins ou d’une protection équivalente. La distance entre le point le plus proche de la barre et le dossier sera de 50 cm au moins.
 - 6\. Les bateaux à voile doivent offrir un espace suffisant pour un maniement sûr des voiles et de la barre.
 
-Annexe 19*[^t-21]*
+Annexe 19[^t-21]
 
 (art. 86, al. 1)
 
@@ -4962,7 +4963,7 @@ Annexe 19*[^t-21]*
 - – ordonnance sur la navigation dans les eaux suisses (ordonnance sur la navigation intérieure)
 - – règlements et ordonnances concernant la navigation dans les eaux limitrophes
 
-112 Connaissances fondamentales de la conduite de bateaux*[^annex19-lvlu1-lvlA-lvl1-lvl11-1]*
+112 Connaissances fondamentales de la conduite de bateaux[^annex19-lvlu1-lvlA-lvl1-lvl11-1]
 
 - – matelotage
 - – caractéristiques de manoeuvrabilité des bateaux motorisés
@@ -5125,7 +5126,7 @@ Le programme d’examen pour les permis de conduire de la catégorie B est régi
 - – ordonnance sur la navigation dans les eaux suisses (ordonnance sur la navigation intérieure)
 - – règlements et ordonnances concernant la navigation dans les eaux limitrophes
 
-112 Connaissances fondamentales de la conduite de bateaux*[^annex19-lvlu1-lvlD-lvl1-lvl11-1]*
+112 Connaissances fondamentales de la conduite de bateaux[^annex19-lvlu1-lvlD-lvl1-lvl11-1]
 
 - – matelotage
 - – technique de la voile
@@ -5174,19 +5175,19 @@ Le programme d’examen pour les permis de conduire de la catégorie B est régi
 
 246 Accostage et départ d’une bouée ou d’un débarcadère
 
-Annexes 20 à 26*[^t-22]*
+Annexes 20 à 26[^t-22]
 
 [^t-22]: Introduites par le ch. II al. 2 de l’O du 9 mars 2001 ([RO 2001 1089](https://fedlex.data.admin.ch/eli/oc/2001/167)). Abrogées par le ch. II al. 4 de l’O du 14 oct. 2015, avec effet au 15 fév. 2016 ([RO 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730)).
 
-Annexe 26a*[^t-23]*
+Annexe 26a[^t-23]
 
 [^t-23]: Introduite par le ch. II al. 4 de l’O du 2 mai 2007 ([RO 2007 2275](https://fedlex.data.admin.ch/eli/oc/2007/322)). Abrogée par le ch. II al. 4 de l’O du 14 oct. 2015, avec effet au 15 fév. 2016 ([RO 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730)).
 
-Annexes 27 à 31*[^t-24]*
+Annexes 27 à 31[^t-24]
 
 [^t-24]: Introduites par le ch. II al. 2 de l’O du 9 mars 2001 ([RO 2001 1089](https://fedlex.data.admin.ch/eli/oc/2001/167)). Abrogées par le ch. II al. 4 de l’O du 14 oct. 2015, avec effet au 15 fév. 2016 ([RO 2015 4351](https://fedlex.data.admin.ch/eli/oc/2015/730)).
 
-Annexe 32*[^t-25]*
+Annexe 32[^t-25]
 
 (art. 100, al. 2 et 4)
 
@@ -5203,7 +5204,7 @@ Annexe 32*[^t-25]*
 
 [^annex32-lvlu1-1]: Cf. note de bas de page de l’art. 2, al. 1, let. a, ch. 15
 
-Annexe 33*[^t-26]*
+Annexe 33[^t-26]
 
 (art. 100, al. 4)
 
@@ -5233,7 +5234,7 @@ Annexe 33*[^t-26]*
 - 2\. Le procès-verbal de l’inspection d’admission est édité par l’Association des services cantonaux de la navigation.
 - 3\. L’éditeur a toute latitude quant à la présentation formelle du procès-verbal de l’inspection d’admission. Ce procès-verbal doit cependant contenir les indications visées à l’al. 1.
 
-Annexe 34*[^t-27]*
+Annexe 34[^t-27]
 
 (art. 133, al. 4)
 
@@ -5257,3 +5258,173 @@ Les appareils Satnav doivent satisfaire au moins aux exigences suivantes:
 - a. Le capteur de position (par ex. antenne de l’appareil Satnav) doit être installé de manière à ce que son fonctionnement atteigne la plus grande précision possible et soit entravé le moins possible par les superstructures et les installations émettrices à bord.
 - b. L’installation et l’utilisation doivent se faire conformément aux indications du fabricant.
 - c. L’appareil Satnav doit être installé de manière fixe dans la timonerie et se situer dans le champ de vision normal du conducteur.
+
+## Table des matières
+
+1 Dispositions générales
+
+2 Dispositions concernant la circulation
+
+21 Généralités
+
+22 Signes distinctifs des bateaux
+
+23 Signalisation des bateaux
+
+24 Signalisation sonore des bateaux
+
+25 Signalisation de la voie navigable
+
+25*a* Incapacité de conduire et valeurs limites
+
+25*b* Contrôle de la capacité de conduire
+
+25*c* Interdiction d’exercer une activité nautique et saisie du permis
+
+25*d* Durée du retrait du permis
+
+Art. 40*p*
+
+26 Règles de route et de stationnement
+
+27 Dispositions particulières pour les rivières et canaux
+
+28 Dispositions complémentaires
+
+281 Manifestations et transports soumis à autorisation
+
+282 Conduite des pêcheurs et des plongeurs subaquatiques
+
+29 Déclarations de la police
+
+3 Dispositions d’admission
+
+31 Conducteurs
+
+311 Permis de conduire
+
+312 Examen
+
+313 Documents étrangers et internationaux
+
+32 Bateaux
+
+321 Permis de navigation
+
+322 Inspection
+
+323 Bateaux étrangers
+
+4 Dispositions sur la construction
+
+41 Dispositions communes
+
+411 Généralités
+
+412 Franc-bord et stabilité
+
+413 Coque
+
+414 Installations des machines
+
+415 Installations électriques
+
+416 Installations de gouverne et de timonerie
+
+417 Installations à gaz liquéfié
+
+Art. 130
+
+418 Équipement
+
+42 Dispositions particulières pour les bateaux de plaisance
+
+Art. 135
+
+Art. 140*b*
+
+Art. 141
+
+43 Dispositions s’appliquant spécialement aux bateaux à marchandises et aux engins flottants
+
+44 Dispositions particulières applicables aux bateaux servant au transport professionnel de personnes
+
+Art. 148
+
+45 Dispositions particulières applicables aux rafts
+
+46 Dispositions particulières pour les bateaux de sport
+
+5 Équipage
+
+6 Assurance-responsabilité civile
+
+7 Prêt et louage de bateaux
+
+8 Installations pour la navigation
+
+9 Dispositions spéciales
+
+10 Dispositions finales
+
+Annexe 1 Équivalence d’expressions
+
+Annexe 1*a* Signes distinctifs des bateaux
+
+Annexe 2 Signalisation visuelle des bateaux
+
+Annexe 3 Signaux sonores des bateaux
+
+Annexe 4 Signalisation de la voie navigable
+
+Annexe 5 Permis de conduire des bateaux
+
+Annexe 6 Documents internationaux
+
+Annexe 7 Permis de navigation
+
+Annexe 8 *Abrogée*
+
+Annexe 9 Documents d’assurance
+
+Annexe 10 Mesure de l’émission sonore causée par les bateaux motorisés
+
+Annexe 11 Puissance propulsive admissible des bateaux de plaisance
+
+Annexe 12 Calcul de la surface vélique
+
+Annexe 13 Marques d’enfoncement
+
+Annexe 14 Calcul de franc-bord pour bateaux à marchandises avec tonture et superstructures
+
+Annexe 15 Équipement minimum
+
+Annexe 16
+
+*Abrogée*
+
+Annexe 17
+
+*Abrogée*
+
+Annexe 18 Nombre de personnes admises à bord des bateaux de plaisance et des rafts
+
+Annexe 19 Programme d’examen
+
+Annexes 20 à 26
+
+*Abrogées*
+
+Annexe 26*a*
+
+*Abrogée*
+
+Annexes 27 à 31
+
+*Abrogées*
+
+Annexe 32 Programme de contrôle des bateaux de sport
+
+Annexe 33 Procès-verbal relatif à l’inspection d’admission
+
+Annexe 34 Exigences auxquelles doivent satisfaire les appareils Satnav et leur installation
