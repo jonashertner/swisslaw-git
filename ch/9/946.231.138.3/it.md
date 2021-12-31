@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Ordinanza del 1° giugno 2012 che istituisce provvedimenti nei confronti della Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: it
-version: 2021-08-24
+version: 2022-01-01
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20210824/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20210824-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20210824/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Guinea-Bissau
 
-del 1° giugno 2012 (Stato 24 agosto 2021)
+del 1° giugno 2012 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -89,9 +89,11 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 <sup>2</sup> La SEM sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 3.
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^4-1].
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
+
+[^4-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -111,7 +113,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 <sup>3</sup> Le infrazioni di cui agli articoli 9 e 10 LEmb sono perseguite e giudicate dalla SECO; essa può ordinare sequestri o confische.
 
-## Sezione 3: Recepimento automatico di liste, pubblicazione ed entrata in vigore****
+## Sezione 3: Recepimento automatico di liste, pubblicazione ed entrata in vigore
 
 [^sec3-1]
 
@@ -141,7 +143,7 @@ La presente ordinanza entra in vigore il 2 giugno 2012.
 
 [^7-1]: Introdotta dal n. I 14 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 cpv. 1, 3 cpv. 1 e 2, 6*a* e 6*b*)
 
@@ -151,18 +153,18 @@ Allegato 1*[^t-1]*
 
 **Nota bene**
 
-\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite*[^annex1-lvlu1-1]*.
+\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annex1-lvlu1-1].
 
-\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite*[^annex1-lvlu1-2]*.
+\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex1-lvlu1-2].
 
 [^annex1-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Guinea-Bissau Sanctions Committee &gt; Sanctions List Materials.
 [^annex1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 1 cpv. 1 e 3 cpv. 1 e 3)
 
-## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di entrata e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie****
+## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di entrata e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie
 
 [^annex2-lvlu1-1]
 
