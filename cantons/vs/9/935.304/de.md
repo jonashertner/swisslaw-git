@@ -1,46 +1,52 @@
 ---
 canton: VS
 number: "935.304"
-title: "Beschluss betreffend die Kosten der freiwilligen Vorbereitungskurse, des Intensivtrainings und der obligatorischen Prüfung im Bereich der Beherbergung und der Bewirtung"
+title: Beschluss betreffend die Kosten der freiwilligen Vorbereitungskurse und der obligatorischen Prüfung im Bereich der Beherbergung und der Bewirtung
 language: de
-version: 2005-01-01
-corrected: 2017-10-16
-version_adopted: 2005-04-25
+version: 2022-01-01
+version_adopted: 2021-11-03
 adopted: 2021-11-03
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/935.304"
-pdf: "https://lex.vs.ch/api/de/versions/98/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2976/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss betreffend die Kosten der freiwilligen Vorbereitungskurse, des Intensivtrainings und der obligatorischen Prüfung im Bereich der Beherbergung und der Bewirtung
+# Beschluss betreffend die Kosten der freiwilligen Vorbereitungskurse und der obligatorischen Prüfung im Bereich der Beherbergung und der Bewirtung
 
-vom 25. April 2005
+vom 03.11.2021 (Stand 01.01.2022)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen den Artikel 16 der Verordnung betreffend das Gesetz über die Beherbergung, die Bewirtung und den Kleinhandel mit alkoholischen Getränken vom 3. November 2004;
 
-auf Antrag des Departements für Volkswirtschaft, Institutionen und Sicherheit,
+auf Antrag des für die Volkswirtschaft zuständigen Departements;
 
 beschliesst:
 
-### Einziger Artikel
+#### Art. 1
 
-<sup>1</sup> Die Einschreibe- und Schulkosten betreffend die freiwilligen Vorbereitungskurse, das Intensivtraining und die obligatorische Prüfung zur Erlangung der Prüfungsbestätigung werden wie folgt festgesetzt:
+<sup>1</sup> Die Anmeldegebühren betreffend die freiwilligen Vorbereitungskurse und Abendkurse sowie die obligatorische Prüfung im Bereich der Beherbergung und Bewirtung werden wie folgt festgesetzt:
 
-**1300 Franken 700 Franken 1500 Franken**
+- a) Anmeldegebühren:
+  - 1\. Vorbereitungskurse — Fr. 1'800
+  - 2\. Abendkurse — Fr. 650
+  - 3\. obligatorische Prüfung und Lernmaterial — Fr. 1'500
+  - 4\. obligatorische Prüfung und Lernmaterial (pro Modul) — Fr. 500
+- b) Anmeldegebühren für Vorbereitungskurs (pro Modul):
+  - 1\. Modul L (GBB, Hygiene) — Fr. 480
+  - 2\. Modul C (Buchhaltung) — Fr. 720
+  - 3\. Modul D (Recht) — Fr. 600
+- c) Anmeldegebühren für Abendkurs (pro Modul):
+  - 1\. Modul L (GBB, Hygiene) — Fr. 80
+  - 2\. Modul C (Buchhaltung) — Fr. 360
+  - 3\. Modul D (Recht) — Fr. 210
+- d) Anmeldegebühren bei Prüfungswiederholung (pro Modul):
+  - 1\. Modul L (GBB, Hygiene) — Fr. 200
+  - 2\. Modul C (Buchhaltung) — Fr. 200
+  - 3\. Modul D (Recht) — Fr. 200
 
-Einschreibekosten Freiwillige Vorbereitungskurse Intensivtraining Obligatorische Prüfung und Dokumentation Einschreibekosten für Vorbereitungskurse / obligatorische Prüfung (nach Modulen) Modul L (GBB, AlkG, Hygiene, Prävention usw.) Modul C (Buchhaltung/Betriebsführung und Organisation) Modul D (Sozialversicherungen, Arbeitsrecht usw.) Obligatorische Prüfung und Dokumentation (pro Modul) Einschreibekosten für Intensivtraining (nach Modulen) Modul L (GBB, AlkG, Hygiene, Prävention usw.) Modul C (Buchhaltung/Betriebsführung und Organisation) Modul D (Sozialversicherungen, Arbeitsrecht usw.) Prüfungskosten (nach Modulen, bei Wiederholung) Modul L (GBB, AlkG, Hygiene, Prävention usw.) Modul C (Buchhaltung/Betriebsführung und Organisation) Modul D (Sozialversicherungen, Arbeitsrecht usw.)
+<sup>2</sup> Bei einer Annullierung innerhalb von 2 Wochen vor Kursbeginn oder dem Prüfungsdatum können diese Anmeldegebühren nicht rückvergütet werden.
 
-**450 Franken 350 Franken 500 Franken 500 Franken 150 Franken 250 Franken 300 Franken 200 Franken 200 Franken 200 Franken**
-
-<sup>2</sup> Bei einer Abmeldung innerhalb von zwei Wochen vor Kursbeginn oder dem Prüfungsdatum können diese Einschreibekosten nicht rückvergütet werden.
-
-<sup>3</sup> Dieser Beschluss wird im Amtsblatt publiziert um rückwirkend auf den 1. Januar 2005 in Kraft zu treten.
-
-So beschlossen im Staatsrat zu Sitten, den 25. April 2005.
-
-Der Präsident des Staatsrates: Jean-René Fournier Der Staatskanzler: Henri v. Roten
+CSW RO/AGS 2021-145
