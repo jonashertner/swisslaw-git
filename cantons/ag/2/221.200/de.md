@@ -4,13 +4,12 @@ number: "221.200"
 title: Einführungsgesetz zur Schweizerischen Zivilprozessordnung
 short: EG ZPO
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-08
+version: 2022-01-01
+version_adopted: 2021-03-23
 adopted: 2010-03-23
 in_force: 2011-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/221.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2984/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3615/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2984/pdf_file"
 
 (EG ZPO)
 
-Vom 23.03.2010 (Stand 01.07.2021)
+Vom 23.03.2010 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -66,13 +65,14 @@ beschliesst:
 
 **Schlichtungsbehörden**
 
-<sup>1</sup> Schlichtungsbehörden gemäss § 3 lit. a sind
+<sup>1</sup> Schlichtungsbehörden gemäss § 3 Abs. 1 lit. a sind
 
 - a) die Friedensrichterinnen oder Friedensrichter, wenn nichts anderes bestimmt ist,
 - b) die Präsidentinnen oder Präsidenten der Arbeitsgerichte in Streitigkeiten gemäss § 8,
 - c) die Schlichtungsbehörden für Miete und Pacht in Streitigkeiten gemäss Art. 200 Abs. 1 ZPO,
 - d) die Schlichtungsstelle für Gleichstellungsfragen in Streitigkeiten gemäss Art. 200 Abs. 2 ZPO,
-- e) ein Mitglied des Versicherungsgerichts in Streitigkeiten gemäss Art. 7 ZPO.
+- e) …
+- f) die Präsidentinnen und Präsidenten der Familiengerichte als Kindes- und Erwachsenenschutzbehörden in Schlichtungsverfahren betreffend Streitigkeiten über Kinderbelange.
 
 ### 2.2. Bezirksgerichte
 
@@ -168,12 +168,10 @@ beschliesst:
 
 <sup>1</sup> Das Handelsgericht entscheidet als einzige kantonale Instanz über
 
-- a) Streitigkeiten gemäss Art. 5 Abs. 1 lit. a–d, g und h sowie 6 ZPO, wenn diese nicht der Einzelrichterin oder dem Einzelrichter des Handelsgerichts zugewiesen sind,
-- b) Beschwerden gemäss Art. 165 der Handelsregisterverordnung (HRegV) vom 17. Oktober 2007[^12-1].
+- a) Streitigkeiten gemäss den Art. 5 Abs. 1 lit. a–e, g und h sowie 6 ZPO, wenn diese nicht der Einzelrichterin oder dem Einzelrichter des Handelsgerichts zugewiesen sind,
+- b) Beschwerden gemäss Art. 942 Abs. 2 des Obligationenrechts.
 
 <sup>2</sup> Werden mehrere Personen, von denen nicht jede die Anforderung des Art. 6 Abs. 2 lit. c ZPO erfüllt, gemeinsam beklagt, so ist das Bezirksgericht zuständig, wenn es für die Klage gegen eine dieser Personen zuständig ist.
-
-[^12-1]: SR [221.411](https://db.clex.ch/link/Bund/221.411/de)
 
 #### § 13
 
@@ -315,17 +313,17 @@ beschliesst:
 
 **Unentgeltliche Rechtspflege und Nachzahlung**
 
-<sup>1</sup> Über die Gewährung und den Entzug der unentgeltlichen Rechtspflege entscheidet das in der Hauptsache zuständige Gericht.
+<sup>1</sup> Über die Gewährung und den Entzug der unentgeltlichen Rechtspflege entscheidet die Instruktionsrichterin oder der Instruktionsrichter des in der Hauptsache zuständigen Gerichts.
 
-<sup>2</sup> Das Gericht, das erstinstanzlich in der Sache entschieden hat, ordnet die Nachzahlung an (Art. 123 ZPO).
+<sup>2</sup> Die Instruktionsrichterin oder der Instruktionsrichter des Gerichts, das erstinstanzlich in der Sache entschieden hat, ordnet die Nachzahlung an (Art. 123 ZPO).
 
 #### § 23
 
 **Unentgeltliche Mediation**
 
-<sup>1</sup> Über das Gesuch um unentgeltliche Mediation in kindesrechtlichen Angelegenheiten nicht vermögensrechtlicher Art (Art. 218 Abs. 2 ZPO) entscheidet das mit dem Verfahren befasste Gericht.
+<sup>1</sup> Über das Gesuch um unentgeltliche Mediation in kindesrechtlichen Angelegenheiten nicht vermögensrechtlicher Art (Art. 218 Abs. 2 ZPO) entscheidet die Instruktionsrichterin oder der Instruktionsrichter des mit dem Verfahren befassten Gerichts.
 
-<sup>2</sup> Das mit dem Verfahren befasste Gericht kann in anderen Angelegenheiten den Parteien auf gemeinsamen Antrag ganz oder teilweise eine unentgeltliche Mediation bewilligen, wenn
+<sup>2</sup> Die Instruktionsrichterin oder der Instruktionsrichter des mit dem Verfahren befassten Gerichts kann in anderen Angelegenheiten den Parteien auf gemeinsamen Antrag ganz oder teilweise eine unentgeltliche Mediation bewilligen, wenn
 
 - a) beide Parteien nicht über die erforderlichen Mittel verfügen oder eine Partei nicht über die erforderlichen Mittel verfügt und es der anderen Partei nicht zumutbar ist, die gesamten Kosten der Mediation zu übernehmen,
 - b) glaubhaft gemacht ist, dass das Verfahren durch eine Mediation ohne Urteil in der Sache erledigt werden kann,
