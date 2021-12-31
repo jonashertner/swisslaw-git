@@ -4,11 +4,11 @@ title: Verordnung des ASTRA vom 22. Mai 2008 zur Strassenverkehrskontrollverordn
 short: VSKV-ASTRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/352"
 language: de
-version: 2020-03-01
+version: 2022-01-01
 adopted: 2008-05-22
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/352/20200301/de/xml/fedlex-data-admin-ch-eli-cc-2008-352-20200301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20200301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/352/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-352-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20200301/de"
 
 (VSKV-ASTRA)
 
-vom 22. Mai 2008 (Stand am 1. März 2020)
+vom 22. Mai 2008 (Stand am 1. Januar 2022)
 
-Das Bundesamt für Strassen (ASTRA), im Einvernehmen mit der Eidgenössischen Zollverwaltung, dem Eidgenössischen Institut für Metrologie und dem Bundesamt für Verkehr,
+Das Bundesamt für Strassen (ASTRA), im Einvernehmen mit dem Bundesamt für Zoll und Grenzsicherheit[^ingress-1], dem Eidgenössischen Institut für Metrologie und dem Bundesamt für Verkehr,
 
-gestützt auf die Artikel 4 Absatz 5, 9 Absätze 2 und 3, 11 Absatz 3, 13 Absatz 3, 15 Absatz 1, 18, 24 Absatz 4, 26 Absatz 5, 44 Absatz 2 sowie 45 Absatz 3 der Strassenverkehrskontrollverordnung vom 28. März 2007[^ingress-1] (SKV),[^ingress-2]
+gestützt auf die Artikel 4 Absatz 5, 9 Absätze 2 und 3, 11 Absatz 3, 13 Absatz 3, 15 Absatz 1, 18, 24 Absatz 4, 26 Absatz 5, 44 Absatz 2 sowie 45 Absatz 3 der Strassenverkehrskontrollverordnung vom 28. März 2007[^ingress-2] (SKV),[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
-[^ingress-2]: Fassung gemäss Ziff. I der V des ASTRA vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
+[^ingress-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^ingress-2]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^ingress-3]: Fassung gemäss Ziff. I der V des ASTRA vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -74,7 +75,7 @@ Das Kontroll- und Auswertungspersonal muss:
 
 <sup>2</sup> Als Feststellung von Übertretungen durch automatische Überwachungsanlagen im Sinne von Artikel 2 Buchstabe b des Ordnungsbussengesetzes vom 24. Juni 1970[^4-1] gilt die Feststellung gestützt auf ein Bild- oder Filmdokument eines automatischen Messsystems.
 
-[^4-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666), [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)Ziff. II, [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: Art. 3 Abs. 2 des Ordnungsbussengesetzes vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+[^4-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)Ziff. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: Art. 3 Abs. 2 des Ordnungsbussengesetzes vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
 
 #### Art. 5
 
@@ -284,7 +285,7 @@ Von den durch Profilmessanlagen ermittelten und auf den nächsten ganzen Zentime
 
 ## 6. Kapitel: Kontrolle der Fahrfähigkeit
 
-### 1. Abschnitt: Atemalkoholmessungen****
+### 1. Abschnitt: Atemalkoholmessungen
 
 [^chap6-sec1-1]
 
@@ -517,7 +518,7 @@ Die Kantone übermitteln an die zentrale Datenbank des ASTRA (Art. 47 Abs. 1 SKV
 
 Bei Verstössen gegen die Vorschriften über die Personenbeförderung und die Zulassung als Strassentransportunternehmung erfolgen die Meldungen mittels der vom Bundesamt für Verkehr zur Verfügung gestellten Formulare. In den übrigen Fällen ist dem Bundesamt für Verkehr eine Kopie des Anzeigerapportes an die Untersuchungsbehörden zuzustellen.
 
-## 9. Kapitel: Schlussbestimmungen****
+## 9. Kapitel: Schlussbestimmungen
 
 [^chap9-1]
 
@@ -541,7 +542,7 @@ Diese Verordnung tritt am 1. Oktober 2008 in Kraft.
 
 [^39-1]: Eingefügt durch Ziff. I der V des ASTRA vom 7. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 8 Abs. 1 Bst. h)
 
@@ -550,17 +551,17 @@ Anhang 1*[^t-1]*
 [^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
 
 <table>
-<tr><td>Messmethode</td><td></td><td></td><td colspan="4">Sicherheitsabzug\* bei einer Messstrecke von mindestens:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>200 m</td><td>500 m</td><td>1000 m</td><td colspan="4">2000 m</td></tr>
-<tr><td>Geschwindigkeitsmessgerät mit Rechner</td><td>Konstanter Abstand</td><td>Mittelwert über gesamte Messstrecke oder mitlaufendes Messfenster zur Ermittlung der schnellsten Fahrstrecke innerhalb der gesamten Messstrecke.</td><td>–</td><td>15</td><td>10</td><td colspan="4">8</td></tr>
-<tr><td></td><td>Freie Nachfahrt</td><td>Mittelwert über gesamte Messstrecke. Abstand variabel, am Schluss grösser als zu Beginn der Messung.</td><td>–</td><td>–</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td>Geschwindigkeitsmessgerät mit Rechner und Video</td><td>Konstanter Abstand</td><td>Mittelwert über gesamte Messstrecke oder mitlaufendes Messfenster zur Ermittlung der schnellsten Fahrstrecke innerhalb der gesamten Messstrecke.</td><td>15</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td></td><td>Freie Nachfahrt</td><td>Mittelwert über gesamte Messstrecke. Abstand variabel, am Schluss grösser als zu Beginn der Messung.</td><td>15</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td></td><td>Nach Fixpunkten</td><td>Weg-Zeitmessung. Mittelwert über die gesamte Messstrecke. Abstand variabel.</td><td>–</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td colspan="10">\* Bei einer ermittelten Geschwindigkeit bis 100 km/h erfolgt der Sicherheitsabzug in km/h, bei einer ermittelten Geschwindigkeit über 100 km/h in Prozent.</td></tr>
+<tr><th>Messmethode</th><th></th><th></th><th colspan="4">Sicherheitsabzug\* bei einer Messstrecke von mindestens:</th></tr>
+<tr><th></th><th></th><th></th><th>200 m</th><th>500 m</th><th>1000 m</th><th>2000 m</th></tr>
+<tr><td>Geschwindigkeitsmessgerät mit Rechner</td><td>Konstanter Abstand</td><td>Mittelwert über gesamte Messstrecke oder mitlaufendes Messfenster zur Ermittlung der schnellsten Fahrstrecke innerhalb der gesamten Messstrecke.</td><td>–</td><td>15</td><td>10</td><td>8</td></tr>
+<tr><td></td><td>Freie Nachfahrt</td><td>Mittelwert über gesamte Messstrecke. Abstand variabel, am Schluss grösser als zu Beginn der Messung.</td><td>–</td><td>–</td><td>8</td><td>6</td></tr>
+<tr><td>Geschwindigkeitsmessgerät mit Rechner und Video</td><td>Konstanter Abstand</td><td>Mittelwert über gesamte Messstrecke oder mitlaufendes Messfenster zur Ermittlung der schnellsten Fahrstrecke innerhalb der gesamten Messstrecke.</td><td>15</td><td>10</td><td>8</td><td>6</td></tr>
+<tr><td></td><td>Freie Nachfahrt</td><td>Mittelwert über gesamte Messstrecke. Abstand variabel, am Schluss grösser als zu Beginn der Messung.</td><td>15</td><td>10</td><td>8</td><td>6</td></tr>
+<tr><td></td><td>Nach Fixpunkten</td><td>Weg-Zeitmessung. Mittelwert über die gesamte Messstrecke. Abstand variabel.</td><td>–</td><td>10</td><td>8</td><td>6</td></tr>
+<tr><td colspan="7">\* Bei einer ermittelten Geschwindigkeit bis 100 km/h erfolgt der Sicherheitsabzug in km/h, bei einer ermittelten Geschwindigkeit über 100 km/h in Prozent.</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 22 Abs. 1 und 26 Abs. 1)
 
@@ -589,7 +590,7 @@ Anhang 2*[^t-2]*
 <tr><td></td><td colspan="5">Was/wie viel?</td><td colspan="6"></td><td colspan="3"></td><td colspan="6"></td></tr>
 <tr><td></td><td colspan="5">Wie? (bei Betäubungs-/ Arzneimitteln)</td><td colspan="6">von</td><td colspan="3">bis</td><td colspan="6"></td></tr>
 <tr><td></td><td colspan="5">Wann?</td><td colspan="6">von</td><td colspan="3">bis</td><td colspan="6">Trink-Ende bei Alkohol</td></tr>
-<tr><td>43</td><td colspan="20">**Angaben der Person zu allfälligem Nachtrunk**</td></tr>
+<tr><td>43</td><td colspan="20">Angaben der Person zu allfälligem Nachtrunk</td></tr>
 <tr><td>5</td><td colspan="20">Angaben der Person zum Schlaf</td></tr>
 <tr><td></td><td colspan="8">Letztmals geschlafen am</td><td colspan="5">Datum</td><td colspan="5">von</td><td colspan="2">bis</td></tr>
 <tr><td>6</td><td colspan="20">Angaben der Person zu Art, Menge, Zeit der letzten Nahrungsaufnahme</td></tr>
@@ -608,13 +609,14 @@ Anhang 2*[^t-2]*
 <tr><td></td><td colspan="4">1. Messung: ……………</td><td colspan="3">mg/l</td><td colspan="13">Zeit: ……………………………………</td></tr>
 <tr><td></td><td colspan="4">2. Messung: ……………</td><td colspan="3">mg/l</td><td colspan="13">Zeit: ……………………………………</td></tr>
 <tr><td></td><td colspan="20">Anerkennung der Atemalkoholprobe</td></tr>
-<tr><td></td><td colspan="20">[tab] *Hinweis:* Die unterzeichnete Person kann den tieferen Wert der Atemalkoholmessungen anerkennen, und zwar: a. wenn sie ein Motorfahrzeug geführt hat: einen Wert von 0,25 oder mehr, aber weniger als 0,40 mg/l; b. wenn sie dem Verbot des Fahrens unter Alkoholeinfluss nach Artikel 2*a* Absatz 1 VRV untersteht: einen Wert von 0,05 oder mehr, aber weniger als 0,40 mg/l; c. wenn sie ein motorloses Fahrzeug oder ein Motorfahrrad geführt hat: einen Wert von 0,25 oder mehr, aber weniger als 0,55 mg/l.</td></tr>
-<tr><td></td><td colspan="20">[tab] *Aufklärung über die Folgen der Anerkennung:* Die Anerkennung des tieferen Messwerts hat beweisrechtliche Folgen. Gestützt auf die Feststellung der Atemalkoholkonzentration werden massnahmerechtliche (Führerausweisentzug, Verwarnung oder Fahrverbot) und strafrechtliche (Busse) Verfahren eingeleitet. [tab] *Anerkennung:*</td></tr>
+<tr><td></td><td colspan="20">Hinweis: Die unterzeichnete Person kann den tieferen Wert der Atemalkoholmessungen anerkennen, und zwar: a. wenn sie ein Motorfahrzeug geführt hat: einen Wert von 0,25 oder mehr, aber weniger als 0,40 mg/l; b. wenn sie dem Verbot des Fahrens unter Alkoholeinfluss nach Artikel 2*a* Absatz 1 VRV untersteht: einen Wert von 0,05 oder mehr, aber weniger als 0,40 mg/l; c. wenn sie ein motorloses Fahrzeug oder ein Motorfahrrad geführt hat: einen Wert von 0,25 oder mehr, aber weniger als 0,55 mg/l.</td></tr>
+<tr><td></td><td colspan="20">Aufklärung über die Folgen der Anerkennung: Die Anerkennung des tieferen Messwerts hat beweisrechtliche Folgen. Gestützt auf die Feststellung der Atemalkoholkonzentration werden massnahmerechtliche (Führerausweisentzug, Verwarnung oder Fahrverbot) und strafrechtliche (Busse) Verfahren eingeleitet.</td></tr>
+<tr><td></td><td colspan="20">Anerkennung:</td></tr>
 <tr><td></td><td colspan="4">Atemalkoholmessung anerkannt</td><td colspan="12">Ja □</td><td colspan="4">Nein □</td></tr>
 <tr><td></td><td colspan="4">Ort, Datum:</td><td colspan="16">Unterschrift:</td></tr>
 <tr><td></td><td colspan="4">…………………………</td><td colspan="16">…………………………………………………</td></tr>
 <tr><td>10.2</td><td colspan="20">Atemalkoholprobe mit einem Atemalkoholmessgerät</td></tr>
-<tr><td></td><td colspan="4">Seriennummer des Gerätes:</td><td colspan="16">………………………………………………</td></tr>
+<tr><td></td><td colspan="20">Seriennummer des Gerätes: ………………………………………………</td></tr>
 <tr><td></td><td colspan="4">Messung: ………………</td><td colspan="5">mg/l</td><td colspan="11">Datum und Zeit: ………………</td></tr>
 <tr><td>11</td><td colspan="4">Betäubungsmittelvortest</td><td colspan="12"></td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="4">nein</td><td colspan="12">ja</td><td colspan="4">Zeit:</td></tr>
@@ -644,10 +646,7 @@ Anhang 2*[^t-2]*
 <tr><td></td><td colspan="16">Auftrag nach Rücksprache mit:</td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="6">Untersuchungsbehörde</td><td colspan="10">Pikettchef/in</td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="6">Bemerkungen</td><td colspan="10"></td><td colspan="4"></td></tr>
-</table>
-
-<table>
-<tr><td></td><td>Unterschrift des Auftraggebers/der Auftraggeberin (Kontrollbehörde/Untersuchungsrichter/in):</td></tr>
+<tr><td></td><td colspan="20">Unterschrift des Auftraggebers/der Auftraggeberin (Kontrollbehörde/Untersuchungsrichter/in):</td></tr>
 </table>
 
 Geht an:
@@ -667,126 +666,90 @@ Anhang 3
 ## Protokoll der ärztlichen Untersuchung auf Alkohol-, Betäubungsmittel- oder Arzneimittelkonsum
 
 <table>
-<tr><td>1</td><td>Personalien</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td></td><td>Name:</td><td colspan="2">Vorname:</td><td colspan="2">Geboren:</td></tr>
-<tr><td></td><td>Geschlecht:</td><td colspan="2">männlich</td><td colspan="2">weiblich</td></tr>
-<tr><td></td><td>Adresse:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td></td><td>Gewicht:</td><td>kg</td><td colspan="2">Grösse:</td><td>cm</td></tr>
-</table>
-
-<table>
-<tr><td>2</td><td colspan="2">Die Person war:</td><td colspan="3"></td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="2">Motorwagenführer/in</td><td colspan="3">Motorradführer/in</td><td colspan="2">Motorfahrradführer/in</td></tr>
-<tr><td></td><td colspan="2">Radfahrer/in</td><td colspan="3">Fussgänger/in</td><td colspan="2"></td></tr>
-<tr><td>21</td><td colspan="7">Datum und Zeitpunkt des Ereignisses:</td></tr>
-<tr><td></td><td></td><td colspan="2"></td><td>am:</td><td colspan="2">um:</td><td>Uhr</td></tr>
-<tr><td>22</td><td colspan="7">Datum und Zeitpunkt der Blutentnahme:</td></tr>
-<tr><td></td><td>10 ml</td><td colspan="2">20 ml</td><td>am:</td><td colspan="2">um:</td><td>Uhr</td></tr>
-<tr><td>23</td><td colspan="7">Datum und Zeitpunkt der Urinasservierung:</td></tr>
-<tr><td></td><td></td><td colspan="2">(ca. 100 ml)</td><td>am:</td><td colspan="2">um:</td><td>Uhr</td></tr>
-</table>
-
-<table>
-<tr><td>3</td><td>Krankheiten:</td></tr>
-</table>
-
-<table>
-<tr><td>4</td><td>Ärztliche Behandlung (Notfallmedikation):</td><td>nein</td><td>ja, welche?</td></tr>
-</table>
-
-<table>
-<tr><td>5</td><td colspan="5">Angaben der Person betreffend Einnahme von Alkohol, Betäubungs-, Arzneimitteln</td></tr>
-<tr><td></td><td>Konsumgewohnheiten:</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Methadonprogramm:</td><td></td><td></td><td>ja</td><td>nein</td></tr>
-<tr><td>51</td><td>Vor dem Ereignis:</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Was/wie viel?</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Wie? (bei Betäubungs-/ Arzneimitteln)</td><td>von</td><td>bis</td><td></td><td></td></tr>
-<tr><td></td><td>Wann?</td><td>von</td><td>bis</td><td colspan="2">Trink-Ende bei Alkohol</td></tr>
-<tr><td>52</td><td>Nach dem Ereignis:</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Was/wie viel?</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Wie? (bei Betäubungs-/ Arzneimitteln)</td><td>von</td><td>bis</td><td></td><td></td></tr>
-<tr><td></td><td>Wann?</td><td>von</td><td>bis</td><td colspan="2">Trink-Ende bei Alkohol</td></tr>
-<tr><td>53</td><td colspan="5">Angaben der Person zu allfälligem Nachtrunk</td></tr>
-</table>
-
-<table>
-<tr><td>6</td><td colspan="4">Angaben der Person zum Schlaf</td></tr>
-<tr><td></td><td>Letztmals geschlafen am:</td><td>Datum:</td><td>von</td><td>bis</td></tr>
-</table>
-
-<table>
-<tr><td>7</td><td>Angaben der Person zu Art, Menge, Zeit der letzten Nahrungsaufnahme</td></tr>
-<tr><td></td><td>Unterschrift der Hilfsperson:</td></tr>
-</table>
-
-<table>
-<tr><td>8</td><td colspan="13">Untersuchungsbefunde</td></tr>
-<tr><td>81</td><td colspan="13">Orientierung (zeitlich, örtlich):</td></tr>
-<tr><td></td><td colspan="4">erhalten</td><td colspan="6">gestört</td><td colspan="3"></td></tr>
-<tr><td></td><td colspan="4">Amnesie für Ereignis:</td><td colspan="6"></td><td colspan="3"></td></tr>
-<tr><td></td><td colspan="4">ja</td><td colspan="6">nein</td><td colspan="3"></td></tr>
-<tr><td>82</td><td colspan="4">Haut:</td><td colspan="6"></td><td colspan="3"></td></tr>
-<tr><td></td><td colspan="4">frische Einstiche</td><td colspan="6">ältere Einstiche</td><td colspan="3">Narbenstrassen</td></tr>
-<tr><td>83</td><td colspan="4">Nasenseptum:</td><td colspan="6"></td><td colspan="3"></td></tr>
-<tr><td></td><td colspan="4">unauffällig</td><td colspan="6">gerötet</td><td colspan="3">perforiert</td></tr>
-<tr><td>84</td><td colspan="4">Mund:</td><td colspan="6"></td><td colspan="3"></td></tr>
-<tr><td></td><td colspan="4">Alkoholgeruch</td><td colspan="6">Cannabisgeruch</td><td colspan="3"></td></tr>
-<tr><td>85</td><td colspan="4">Entzugssymptomatik:</td><td colspan="6"></td><td colspan="3"></td></tr>
-<tr><td></td><td colspan="4">nein</td><td colspan="6">ja; Symptome:</td><td colspan="3"></td></tr>
-<tr><td>86</td><td colspan="4">Augen:</td><td colspan="6"></td><td colspan="3"></td></tr>
-<tr><td></td><td colspan="7">Ungestörte Folgebewegung</td><td colspan="5">ja</td><td>nein</td></tr>
-<tr><td></td><td colspan="4">Drehnystagmus</td><td colspan="3"></td><td colspan="5">ja</td><td>nein</td></tr>
-<tr><td></td><td colspan="4">Pupillen</td><td colspan="3">eng</td><td colspan="5">mittel</td><td>weit</td></tr>
-<tr><td></td><td colspan="4">Lichtreaktion</td><td colspan="3">prompt</td><td colspan="5">verzögert</td><td>verlangsamt</td></tr>
-<tr><td></td><td colspan="4">Konjunktiven</td><td colspan="3">unauffällig</td><td colspan="5">gerötet</td><td>glänzend</td></tr>
-<tr><td>9</td><td colspan="13">Tests zur geteilten Aufmerksamkeit</td></tr>
-<tr><td>91</td><td colspan="13">Romberg-Stehversuch plus «innere Uhr»:</td></tr>
-<tr><td></td><td>Stand:</td><td colspan="4">sicher</td><td colspan="3">Schwanken</td><td colspan="5">nicht durchführbar, weil:</td></tr>
-<tr><td></td><td>Tremor:</td><td colspan="4">nein</td><td colspan="3">ja</td><td colspan="5"></td></tr>
-<tr><td></td><td>Innere Uhr:</td><td colspan="4"></td><td colspan="8">…… Sekunden als 30 Sekunden geschätzt</td></tr>
-<tr><td>92</td><td colspan="13">Finger-Nase-Versuch mit komplexer Abfolge (Sequenz links-rechts, links-rechts, rechts-links)</td></tr>
-<tr><td></td><td colspan="4">Nasenspitze</td><td colspan="6">getroffen</td><td colspan="3">verfehlt</td></tr>
-<tr><td></td><td colspan="4">Bewegungsablauf</td><td colspan="6"></td><td colspan="3"></td></tr>
-<tr><td></td><td colspan="4">ungestört</td><td colspan="6">Zick-zack-Bewegung</td><td colspan="3">Intentionstremor</td></tr>
-<tr><td></td><td colspan="13">Sequenz (links-rechts, links-rechts, rechts-links):</td></tr>
-<tr><td></td><td colspan="4">richtig</td><td colspan="6">falsch</td><td colspan="3"></td></tr>
-<tr><td>93</td><td colspan="13">Strichgang (geschlossene Augen, ein Fuss vor den anderen)</td></tr>
-<tr><td></td><td colspan="3">sicher</td><td colspan="6">unsicher</td><td colspan="4">nicht durchführbar, weil:</td></tr>
-<tr><td>10</td><td colspan="13">Verhalten</td></tr>
-<tr><td></td><td colspan="2">ruhig</td><td colspan="4">müde/apathisch</td><td colspan="5">verlangsamt</td><td colspan="2">angetrieben</td></tr>
-<tr><td></td><td colspan="2">distanzlos</td><td colspan="4">aggressiv</td><td colspan="5">ablehnend</td><td colspan="2">aufgeregt/gereizt</td></tr>
-<tr><td></td><td colspan="2">weinerlich</td><td colspan="4">geschwätzig</td><td colspan="5"></td><td colspan="2"></td></tr>
-<tr><td>11</td><td colspan="13">Stimmung</td></tr>
-<tr><td></td><td colspan="2">unauffällig</td><td colspan="4">bedrückt</td><td colspan="5">euphorisch</td><td colspan="2"></td></tr>
-<tr><td>12</td><td colspan="13">Sprache</td></tr>
-<tr><td></td><td colspan="2">unauffällig</td><td colspan="4">verwaschen</td><td colspan="5">lallend</td><td colspan="2"></td></tr>
-<tr><td>13</td><td colspan="13">Sprachliche Verständigung</td></tr>
-<tr><td></td><td colspan="2">ohne Probleme</td><td colspan="4"></td><td colspan="7">problematisch, Grund:</td></tr>
-<tr><td>14</td><td colspan="13">Kooperation</td></tr>
-<tr><td></td><td colspan="2">gut</td><td colspan="4">widerwillig</td><td colspan="5">verweigert</td><td colspan="2"></td></tr>
-</table>
-
-<table>
-<tr><td>15</td><td colspan="4">Gesamtbeurteilung</td></tr>
-<tr><td></td><td colspan="4">Eine Beeinträchtigung ist **aufgrund der erhobenen Befunde**</td></tr>
-<tr><td></td><td>nicht merkbar</td><td>leicht</td><td>ausgeprägt</td><td></td></tr>
-</table>
-
-<table>
-<tr><td>16</td><td>Bemerkungen</td></tr>
-</table>
-
-<table>
-<tr><td>17</td><td>Auftraggeber/in (Kontrollbehörde/Untersuchungsrichter/in)</td></tr>
-</table>
-
-<table>
-<tr><td>18</td><td colspan="2">Dauer der Untersuchung</td></tr>
-<tr><td></td><td>Von:</td><td>Bis:</td></tr>
-</table>
-
-<table>
-<tr><td>19</td><td>Ort und Datum der Untersuchung:</td><td>Unterschrift und Stempel des Arztes/der Ärztin:</td></tr>
+<tr><td>1</td><td colspan="5">Personalien</td><td colspan="11"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">Name:</td><td colspan="11">Vorname:</td><td colspan="6">Geboren:</td></tr>
+<tr><td></td><td colspan="5">Geschlecht:</td><td colspan="11">männlich</td><td colspan="6">weiblich</td></tr>
+<tr><td></td><td colspan="5">Adresse:</td><td colspan="11"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">Gewicht:</td><td colspan="4">kg</td><td colspan="11">Grösse:</td><td colspan="2">cm</td></tr>
+<tr><td>2</td><td colspan="5">Die Person war:</td><td colspan="10"></td><td colspan="7"></td></tr>
+<tr><td></td><td colspan="5">Motorwagenführer/in</td><td colspan="10">Motorradführer/in</td><td colspan="7">Motorfahrradführer/in</td></tr>
+<tr><td></td><td colspan="5">Radfahrer/in</td><td colspan="10">Fussgänger/in</td><td colspan="7"></td></tr>
+<tr><td>21</td><td colspan="22">Datum und Zeitpunkt des Ereignisses:</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="4">am:</td><td colspan="8">um:</td><td colspan="3">Uhr</td></tr>
+<tr><td>22</td><td colspan="22">Datum und Zeitpunkt der Blutentnahme:</td></tr>
+<tr><td></td><td colspan="2">10 ml</td><td colspan="5">20 ml</td><td colspan="4">am:</td><td colspan="8">um:</td><td colspan="3">Uhr</td></tr>
+<tr><td>23</td><td colspan="22">Datum und Zeitpunkt der Urinasservierung:</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="5">(ca. 100 ml)</td><td colspan="4">am:</td><td colspan="8">um:</td><td colspan="3">Uhr</td></tr>
+<tr><td>3</td><td colspan="22">Krankheiten:</td></tr>
+<tr><td>4</td><td colspan="14">Ärztliche Behandlung (Notfallmedikation):</td><td colspan="4">nein</td><td colspan="4">ja, welche?</td></tr>
+<tr><td>5</td><td colspan="22">Angaben der Person betreffend Einnahme von Alkohol, Betäubungs-, Arzneimitteln</td></tr>
+<tr><td></td><td colspan="5">Konsumgewohnheiten:</td><td colspan="3"></td><td colspan="6"></td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="5">Methadonprogramm:</td><td colspan="3"></td><td colspan="6"></td><td colspan="4">ja</td><td colspan="4">nein</td></tr>
+<tr><td>51</td><td colspan="5">Vor dem Ereignis:</td><td colspan="3"></td><td colspan="6"></td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="5">Was/wie viel?</td><td colspan="3"></td><td colspan="6"></td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="5">Wie? (bei Betäubungs-/ Arzneimitteln)</td><td colspan="3">von</td><td colspan="6">bis</td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="5">Wann?</td><td colspan="3">von</td><td colspan="6">bis</td><td colspan="8">Trink-Ende bei Alkohol</td></tr>
+<tr><td>52</td><td colspan="5">Nach dem Ereignis:</td><td colspan="3"></td><td colspan="6"></td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="5">Was/wie viel?</td><td colspan="3"></td><td colspan="6"></td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="5">Wie? (bei Betäubungs-/ Arzneimitteln)</td><td colspan="3">von</td><td colspan="6">bis</td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="5">Wann?</td><td colspan="3">von</td><td colspan="6">bis</td><td colspan="8">Trink-Ende bei Alkohol</td></tr>
+<tr><td>53</td><td colspan="22">Angaben der Person zu allfälligem Nachtrunk</td></tr>
+<tr><td>6</td><td colspan="22">Angaben der Person zum Schlaf</td></tr>
+<tr><td></td><td colspan="8">Letztmals geschlafen am:</td><td colspan="8">Datum:</td><td colspan="5">von</td><td>bis</td></tr>
+<tr><td>7</td><td colspan="22">Angaben der Person zu Art, Menge, Zeit der letzten Nahrungsaufnahme</td></tr>
+<tr><td></td><td colspan="22">Unterschrift der Hilfsperson:</td></tr>
+<tr><td>8</td><td colspan="22">Untersuchungsbefunde</td></tr>
+<tr><td>81</td><td colspan="22">Orientierung (zeitlich, örtlich):</td></tr>
+<tr><td></td><td colspan="5">erhalten</td><td colspan="11">gestört</td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">Amnesie für Ereignis:</td><td colspan="11"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">ja</td><td colspan="11">nein</td><td colspan="6"></td></tr>
+<tr><td>82</td><td colspan="5">Haut:</td><td colspan="11"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">frische Einstiche</td><td colspan="11">ältere Einstiche</td><td colspan="6">Narbenstrassen</td></tr>
+<tr><td>83</td><td colspan="5">Nasenseptum:</td><td colspan="11"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">unauffällig</td><td colspan="11">gerötet</td><td colspan="6">perforiert</td></tr>
+<tr><td>84</td><td colspan="5">Mund:</td><td colspan="11"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">Alkoholgeruch</td><td colspan="11">Cannabisgeruch</td><td colspan="6"></td></tr>
+<tr><td>85</td><td colspan="5">Entzugssymptomatik:</td><td colspan="11"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">nein</td><td colspan="11">ja; Symptome:</td><td colspan="6"></td></tr>
+<tr><td>86</td><td colspan="5">Augen:</td><td colspan="11"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="10">Ungestörte Folgebewegung</td><td colspan="8">ja</td><td colspan="4">nein</td></tr>
+<tr><td></td><td colspan="5">Drehnystagmus</td><td colspan="5"></td><td colspan="8">ja</td><td colspan="4">nein</td></tr>
+<tr><td></td><td colspan="5">Pupillen</td><td colspan="5">eng</td><td colspan="8">mittel</td><td colspan="4">weit</td></tr>
+<tr><td></td><td colspan="5">Lichtreaktion</td><td colspan="5">prompt</td><td colspan="8">verzögert</td><td colspan="4">verlangsamt</td></tr>
+<tr><td></td><td colspan="5">Konjunktiven</td><td colspan="5">unauffällig</td><td colspan="8">gerötet</td><td colspan="4">glänzend</td></tr>
+<tr><td>9</td><td colspan="22">Tests zur geteilten Aufmerksamkeit</td></tr>
+<tr><td>91</td><td colspan="22">Romberg-Stehversuch plus «innere Uhr»:</td></tr>
+<tr><td></td><td>Stand:</td><td colspan="5">sicher</td><td colspan="6">Schwanken</td><td colspan="10">nicht durchführbar, weil:</td></tr>
+<tr><td></td><td>Tremor:</td><td colspan="5">nein</td><td colspan="6">ja</td><td colspan="10"></td></tr>
+<tr><td></td><td>Innere Uhr:</td><td colspan="5"></td><td colspan="16">…… Sekunden als 30 Sekunden geschätzt</td></tr>
+<tr><td>92</td><td colspan="22">Finger-Nase-Versuch mit komplexer Abfolge (Sequenz links-rechts, links-rechts, rechts-links)</td></tr>
+<tr><td></td><td colspan="5">Nasenspitze</td><td colspan="11">getroffen</td><td colspan="6">verfehlt</td></tr>
+<tr><td></td><td colspan="5">Bewegungsablauf</td><td colspan="11"></td><td colspan="6"></td></tr>
+<tr><td></td><td colspan="5">ungestört</td><td colspan="11">Zick-zack-Bewegung</td><td colspan="6">Intentionstremor</td></tr>
+<tr><td></td><td colspan="22">Sequenz (links-rechts, links-rechts, rechts-links):</td></tr>
+<tr><td></td><td colspan="5">richtig</td><td colspan="11">falsch</td><td colspan="6"></td></tr>
+<tr><td>93</td><td colspan="22">Strichgang (geschlossene Augen, ein Fuss vor den anderen)</td></tr>
+<tr><td></td><td colspan="4">sicher</td><td colspan="9">unsicher</td><td colspan="9">nicht durchführbar, weil:</td></tr>
+<tr><td>10</td><td colspan="22">Verhalten</td></tr>
+<tr><td></td><td colspan="3">ruhig</td><td colspan="5">müde/apathisch</td><td colspan="9">verlangsamt</td><td colspan="5">angetrieben</td></tr>
+<tr><td></td><td colspan="3">distanzlos</td><td colspan="5">aggressiv</td><td colspan="9">ablehnend</td><td colspan="5">aufgeregt/gereizt</td></tr>
+<tr><td></td><td colspan="3">weinerlich</td><td colspan="5">geschwätzig</td><td colspan="9"></td><td colspan="5"></td></tr>
+<tr><td>11</td><td colspan="22">Stimmung</td></tr>
+<tr><td></td><td colspan="3">unauffällig</td><td colspan="5">bedrückt</td><td colspan="9">euphorisch</td><td colspan="5"></td></tr>
+<tr><td>12</td><td colspan="22">Sprache</td></tr>
+<tr><td></td><td colspan="3">unauffällig</td><td colspan="5">verwaschen</td><td colspan="9">lallend</td><td colspan="5"></td></tr>
+<tr><td>13</td><td colspan="22">Sprachliche Verständigung</td></tr>
+<tr><td></td><td colspan="3">ohne Probleme</td><td colspan="5"></td><td colspan="14">problematisch, Grund:</td></tr>
+<tr><td>14</td><td colspan="22">Kooperation</td></tr>
+<tr><td></td><td colspan="3">gut</td><td colspan="5">widerwillig</td><td colspan="9">verweigert</td><td colspan="5"></td></tr>
+<tr><td>15</td><td colspan="22">Gesamtbeurteilung</td></tr>
+<tr><td></td><td colspan="22">Eine Beeinträchtigung ist **aufgrund der erhobenen Befunde**</td></tr>
+<tr><td></td><td colspan="3">nicht merkbar</td><td colspan="5">leicht</td><td colspan="9">ausgeprägt</td><td colspan="5"></td></tr>
+<tr><td>16</td><td colspan="22">Bemerkungen</td></tr>
+<tr><td>17</td><td colspan="22">Auftraggeber/in (Kontrollbehörde/Untersuchungsrichter/in)</td></tr>
+<tr><td>18</td><td colspan="22">Dauer der Untersuchung</td></tr>
+<tr><td></td><td colspan="8">Von:</td><td colspan="14">Bis:</td></tr>
+<tr><td>19</td><td colspan="8">Ort und Datum der Untersuchung:</td><td colspan="14">Unterschrift und Stempel des Arztes/der Ärztin:</td></tr>
 </table>
 
 Geht an:
@@ -797,7 +760,7 @@ Kopie an die Administrativmassnahme-Behörde
 
 Kopie an das mit der Blut-/Urinuntersuchung beauftragte Laboratorium
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 35)
 
@@ -806,50 +769,40 @@ Anhang 4*[^t-3]*
 [^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
 
 <table>
-<tr><td colspan="2">1.</td><td colspan="12">Ort der Kontrolle:</td></tr>
-<tr><td colspan="2">2.</td><td colspan="12">Datum:</td></tr>
-<tr><td colspan="2">3.</td><td colspan="12">Uhrzeit:</td></tr>
-<tr><td colspan="2">4.</td><td colspan="12">Landeszeichen und Kontrollschild des Zugfahrzeugs:</td></tr>
-<tr><td colspan="2">4*a*.</td><td colspan="12">Landeszeichen und Kontrollschild des Anhängers/Sattelanhängers:</td></tr>
-<tr><td colspan="2">5.</td><td colspan="12">Fahrgestellnummer:</td></tr>
-<tr><td colspan="2">6.</td><td colspan="12">Fahrzeugklasse:</td></tr>
-<tr><td colspan="2"></td><td colspan="2">a)</td><td>◻</td><td>Lastwagen<sup>1</sup> und schwerer Sattelschlepper<sup>2</sup> bis 12 t</td><td colspan="2"></td><td>e)</td><td>◻</td><td colspan="4">Lastwagen und schwerer Sattelschlepper über 12 t</td></tr>
-<tr><td colspan="2"></td><td colspan="2">b)</td><td>◻</td><td>Anhänger<sup>3</sup></td><td colspan="2"></td><td>f)</td><td>◻</td><td colspan="4">Sattelanhänger<sup>4</sup></td></tr>
-<tr><td colspan="2"></td><td colspan="2">c)</td><td>◻</td><td>Anhängerzug<sup>5</sup></td><td colspan="2"></td><td>g)</td><td>◻</td><td colspan="4">Sattelmotorfahrzeug<sup>6</sup></td></tr>
-<tr><td colspan="2"></td><td colspan="2">d)</td><td>◻</td><td>Gesellschaftswagen<sup>7</sup></td><td colspan="2"></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td colspan="2">7.</td><td colspan="12">Transportunternehmen, Adresse:</td></tr>
-<tr><td><sup>1</sup></td><td colspan="13">Lastwagen» sind schwere Motorwagen (über 3,50 t) zum Sachentransport (Klassen N<sub>2</sub> oder N<sub>3</sub>).</td></tr>
-<tr><td><sup>2</sup></td><td colspan="13">«Schwere Sattelschlepper» sind die zum Ziehen von Sattelanhängern gebauten Motorwagen mit einem Garantiegewicht von über 3,50 t (Klassen N<sub>2</sub> oder N<sub>3</sub>).</td></tr>
-<tr><td><sup>3</sup></td><td colspan="13">«Anhänger» sind Fahrzeuge ohne eigenen Antrieb, die gebaut sind, um von anderen Fahrzeugen gezogen zu werden und mit diesen durch eine geeignete Verbindungseinrichtung schwenkbar verbunden sind (Abschlepprollis gelten nicht als Anhänger). «Sachentransportanhänger» sind Anhänger mit Ladebrücken, Tanks oder anderen Laderäumen zur Beförderung von Sachen. Diese werden in folgende Klassen eingeteilt:</td></tr>
-<tr><td></td><td colspan="2">a.</td><td colspan="11">«Klasse O1»: Anhänger mit einem Garantiegewicht von höchstens 0,75 t;</td></tr>
-<tr><td></td><td colspan="2">b.</td><td colspan="11">«Klasse O2»: Anhänger mit einem Garantiegewicht von über 0,75 t bis höchstens 3,50 t;</td></tr>
-<tr><td></td><td colspan="2">c.</td><td colspan="11">«Klasse O3»: Anhänger mit einem Garantiegewicht von über 3,50 t bis höchstens 10,00 t;</td></tr>
-<tr><td></td><td colspan="2">d.</td><td colspan="11">«Klasse O4»: Anhänger mit einem Garantiegewicht von über 10,00 t.</td></tr>
-<tr><td><sup>4</sup></td><td colspan="13">«Sattelanhänger» sind Anhänger, die so an ein Motorfahrzeug (Sattelschlepper) angekuppelt werden, dass sie teilweise auf diesem aufliegen. Ein wesentlicher Teil des Gewichts des Anhängers und seiner Ladung wird vom Zugfahrzeug getragen.</td></tr>
-<tr><td><sup>5</sup></td><td colspan="13">Kombination aus einem Transportmotorwagen und einem Anhänger</td></tr>
-<tr><td><sup>6</sup></td><td colspan="13">«Sattelmotorfahrzeug» ist die Kombination eines Sattelschleppers mit einem Sattelanhänger.</td></tr>
-<tr><td><sup>7</sup></td><td colspan="13">«Gesellschaftswagen» sind schwere Motorwagen zum Personentransport mit mehr als neun Sitzplätzen einschliesslich Führer oder Führerin (Klasse M<sub>2</sub> über 3,50 t oder M<sub>3</sub>).</td></tr>
-<tr><td colspan="2">7*a*.</td><td colspan="12">Nummer der Transportlizenz:</td></tr>
-<tr><td colspan="2">8.</td><td colspan="12">Nationalität:</td></tr>
-<tr><td colspan="2">9.</td><td colspan="12">Fahrer/in:</td></tr>
-<tr><td colspan="2">10.</td><td colspan="5">Prüfpunkte</td><td colspan="4">kontrolliert</td><td>nicht kontrolliert</td><td colspan="2">nicht vorschriftsmässig</td></tr>
-<tr><td colspan="2"></td><td colspan="2">a)</td><td colspan="3">Bremsanlage und deren Bestandteile</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">b)</td><td colspan="3">Auspuffanlage</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">c)</td><td colspan="3">Abgastrübung (Dieselmotoren)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">d)</td><td colspan="3">Gasförmige Emissionen (Benzin-, Erdgas- oder Flüssiggasmotoren)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">e)</td><td colspan="3">Lenkanlage</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">f)</td><td colspan="3">Beleuchtungs- und Signaleinrichtungen</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">g)</td><td colspan="3">Räder/Reifen</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">h)</td><td colspan="3">Federung (sichtbare Mängel)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">i)</td><td colspan="3">Fahrgestell (sichtbare Mängel)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">j)</td><td colspan="3">Fahrtschreiber (Einbau)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">k)</td><td colspan="3">Geschwindigkeitsbegrenzer (Einbau und Funktion)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">l)</td><td colspan="3">Austritt von Treibstoff und/ oder Öl</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2">11.</td><td colspan="12">Ergebnisse der Kontrolle</td></tr>
-<tr><td colspan="2"></td><td colspan="11">Das Fahrzeug weist schwerwiegende Mängel auf; die Benutzung des Fahrzeugs wird vorläufig untersagt</td><td>◻</td></tr>
-<tr><td colspan="2">12.</td><td colspan="12">Verschiedenes/Bemerkungen</td></tr>
-<tr><td colspan="2">13.</td><td colspan="12">Kontrollbehörde, Beauftragte/r oder Prüfer/in</td></tr>
-<tr><td colspan="14">Unterschrift der Behörde bzw. des Beauftragten oder Prüfers/der Beauftragten oder Prüferin, der/die die Kontrolle durchgeführt hat</td></tr>
+<tr><td colspan="2">1.</td><td colspan="11">Ort der Kontrolle:</td></tr>
+<tr><td colspan="2">2.</td><td colspan="11">Datum:</td></tr>
+<tr><td colspan="2">3.</td><td colspan="11">Uhrzeit:</td></tr>
+<tr><td colspan="2">4.</td><td colspan="11">Landeszeichen und Kontrollschild des Zugfahrzeugs:</td></tr>
+<tr><td colspan="2">4*a*.</td><td colspan="11">Landeszeichen und Kontrollschild des Anhängers/Sattelanhängers:</td></tr>
+<tr><td colspan="2">5.</td><td colspan="11">Fahrgestellnummer:</td></tr>
+<tr><td colspan="2">6.</td><td colspan="11">Fahrzeugklasse:</td></tr>
+<tr><td colspan="2"></td><td>a)</td><td>◻</td><td>Lastwagen<sup>1</sup> und schwerer Sattelschlepper<sup>2</sup> bis 12 t</td><td colspan="2"></td><td>e)</td><td>◻</td><td colspan="4">Lastwagen und schwerer Sattelschlepper über 12 t</td></tr>
+<tr><td colspan="2"></td><td>b)</td><td>◻</td><td>Anhänger<sup>3</sup></td><td colspan="2"></td><td>f)</td><td>◻</td><td colspan="4">Sattelanhänger<sup>4</sup></td></tr>
+<tr><td colspan="2"></td><td>c)</td><td>◻</td><td>Anhängerzug<sup>5</sup></td><td colspan="2"></td><td>g)</td><td>◻</td><td colspan="4">Sattelmotorfahrzeug<sup>6</sup></td></tr>
+<tr><td colspan="2"></td><td>d)</td><td>◻</td><td>Gesellschaftswagen<sup>7</sup></td><td colspan="2"></td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td colspan="2">7.</td><td colspan="11">Transportunternehmen, Adresse:</td></tr>
+<tr><td colspan="13"><sup>1</sup> Lastwagen» sind schwere Motorwagen (über 3,50 t) zum Sachentransport (Klassen N<sub>2</sub> oder N<sub>3</sub>). <sup>2</sup> «Schwere Sattelschlepper» sind die zum Ziehen von Sattelanhängern gebauten Motorwagen mit einem Garantiegewicht von über 3,50 t (Klassen N<sub>2</sub> oder N<sub>3</sub>). <sup>3</sup> «Anhänger» sind Fahrzeuge ohne eigenen Antrieb, die gebaut sind, um von anderen Fahrzeugen gezogen zu werden und mit diesen durch eine geeignete Verbindungseinrichtung schwenkbar verbunden sind (Abschlepprollis gelten nicht als Anhänger). «Sachentransportanhänger» sind Anhänger mit Ladebrücken, Tanks oder anderen Laderäumen zur Beförderung von Sachen. Diese werden in folgende Klassen eingeteilt: a. «Klasse O1»: Anhänger mit einem Garantiegewicht von höchstens 0,75 t; b. «Klasse O2»: Anhänger mit einem Garantiegewicht von über 0,75 t bis höchstens 3,50 t; c. «Klasse O3»: Anhänger mit einem Garantiegewicht von über 3,50 t bis höchstens 10,00 t; d. «Klasse O4»: Anhänger mit einem Garantiegewicht von über 10,00 t. <sup>4</sup> «Sattelanhänger» sind Anhänger, die so an ein Motorfahrzeug (Sattelschlepper) angekuppelt werden, dass sie teilweise auf diesem aufliegen. Ein wesentlicher Teil des Gewichts des Anhängers und seiner Ladung wird vom Zugfahrzeug getragen. <sup>5</sup> Kombination aus einem Transportmotorwagen und einem Anhänger <sup>6</sup> «Sattelmotorfahrzeug» ist die Kombination eines Sattelschleppers mit einem Sattelanhänger. <sup>7</sup> «Gesellschaftswagen» sind schwere Motorwagen zum Personentransport mit mehr als neun Sitzplätzen einschliesslich Führer oder Führerin (Klasse M<sub>2</sub> über 3,50 t oder M<sub>3</sub>).</td></tr>
+<tr><td colspan="2">7*a*.</td><td colspan="11">Nummer der Transportlizenz:</td></tr>
+<tr><td colspan="2">8.</td><td colspan="11">Nationalität:</td></tr>
+<tr><td colspan="2">9.</td><td colspan="11">Fahrer/in:</td></tr>
+<tr><td colspan="2">10.</td><td colspan="4">Prüfpunkte</td><td colspan="4">kontrolliert</td><td>nicht kontrolliert</td><td colspan="2">nicht vorschriftsmässig</td></tr>
+<tr><td colspan="2"></td><td>a)</td><td colspan="3">Bremsanlage und deren Bestandteile</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>b)</td><td colspan="3">Auspuffanlage</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>c)</td><td colspan="3">Abgastrübung (Dieselmotoren)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>d)</td><td colspan="3">Gasförmige Emissionen (Benzin-, Erdgas- oder Flüssiggasmotoren)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>e)</td><td colspan="3">Lenkanlage</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>f)</td><td colspan="3">Beleuchtungs- und Signaleinrichtungen</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>g)</td><td colspan="3">Räder/Reifen</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>h)</td><td colspan="3">Federung (sichtbare Mängel)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>i)</td><td colspan="3">Fahrgestell (sichtbare Mängel)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>j)</td><td colspan="3">Fahrtschreiber (Einbau)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>k)</td><td colspan="3">Geschwindigkeitsbegrenzer (Einbau und Funktion)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>l)</td><td colspan="3">Austritt von Treibstoff und/ oder Öl</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2">11.</td><td colspan="11">Ergebnisse der Kontrolle</td></tr>
+<tr><td colspan="2"></td><td colspan="10">Das Fahrzeug weist schwerwiegende Mängel auf; die Benutzung des Fahrzeugs wird vorläufig untersagt</td><td>◻</td></tr>
+<tr><td colspan="2">12.</td><td colspan="11">Verschiedenes/Bemerkungen</td></tr>
+<tr><td colspan="2">13.</td><td colspan="11">Kontrollbehörde, Beauftragte/r oder Prüfer/in</td></tr>
+<tr><td colspan="13">Unterschrift der Behörde bzw. des Beauftragten oder Prüfers/der Beauftragten oder Prüferin, der/die die Kontrolle durchgeführt hat</td></tr>
 </table>
 
 Anhang 5
@@ -904,10 +857,5 @@ Anhang 5
 <tr><td>38.</td><td colspan="13">Bemerkungen:</td></tr>
 <tr><td>39.</td><td colspan="13">Uhrzeit/Kontrollende:</td></tr>
 <tr><td>40.</td><td colspan="13">Kontrollbehörde/Prüfer/in: (Stempel, Unterschrift + Kurzzeichen)</td></tr>
-</table>
-
-<table>
-<tr><td><sup>1</sup></td><td>Nur ausfüllen, wenn für einen Verstoss von Bedeutung</td></tr>
-<tr><td><sup>2</sup></td><td>Bei Sammelladung unter «Bemerkungen» angeben</td></tr>
-<tr><td><sup>3</sup></td><td>Prüfung auf sichtbare Verstösse</td></tr>
+<tr><td colspan="14"><sup>1</sup> Nur ausfüllen, wenn für einen Verstoss von Bedeutung <sup>2</sup> Bei Sammelladung unter «Bemerkungen» angeben <sup>3</sup> Prüfung auf sichtbare Verstösse</td></tr>
 </table>

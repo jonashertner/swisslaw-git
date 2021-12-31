@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFROU du 22 mai 2008 concernant l'ordonnance sur le cont
 short: OOCCR-OFROU
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/352"
 language: fr
-version: 2020-03-01
+version: 2022-01-01
 adopted: 2008-05-22
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/352/20200301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-352-20200301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20200301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/352/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-352-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20200301/fr"
 
 (OOCCR-OFROU)
 
-du 22 mai 2008 (Etat le 1<sup>er</sup> mars 2020)
+du 22 mai 2008 (État le 1<sup>er</sup> janvier 2022)
 
-L’Office fédéral des routes (OFROU), en accord avec l’Administration fédérale des douanes, l’Institut fédéral de métrologie et l’Office fédéral des transports,
+L’Office fédéral des routes (OFROU), en accord avec l’Office fédéral de la douane et de la sécurité des frontières[^ingress-1], l’Institut fédéral de métrologie et l’Office fédéral des transports,
 
-vu les art. 4, al. 5, 9, al. 2 et 3, 11, al. 3, 13, al. 3, 15, al. 1, 18, 24, al. 4, 26, al. 5, 44, al. 2, et 45, al. 3, de l’ordonnance du 28 mars 2007 sur le contrôle de la circulation routière (OCCR)[^ingress-1],[^ingress-2]
+vu les art. 4, al. 5, 9, al. 2 et 3, 11, al. 3, 13, al. 3, 15, al. 1, 18, 24, al. 4, 26, al. 5, 44, al. 2, et 45, al. 3, de l’ordonnance du 28 mars 2007 sur le contrôle de la circulation routière (OCCR)[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’OFROU du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
+[^ingress-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^ingress-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O de l’OFROU du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -74,7 +75,7 @@ Le personnel chargé des contrôles et de l’évaluation doit:
 
 <sup>2</sup> Est considérée comme constatation d’une contravention au moyen d’installations automatiques de surveillance au sens de l’art. 2, let. b, de la loi du 24 juin 1970 sur les amendes d’ordre[^4-1] celle qui est fondée sur un cliché ou un film pris par un système de mesure automatique.
 
-[^4-1]: [[RO 1972 742](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666), [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 ch. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)ch. II, [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)annexe ch. I]. Voir actuellement l’art. 3, al. 2, de la L du 18 mars 2016 ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+[^4-1]: [[RO 1972 742](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 ch. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)ch. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)annexe ch. I]. Voir actuellement l’art. 3, al. 2, de la L du 18 mars 2016 ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
 
 #### Art. 5
 
@@ -514,7 +515,7 @@ Les cantons transmettent à la banque de données centralisée de l’OFROU (art
 
 En cas d’infraction aux dispositions concernant le transport de personnes et la licence des entreprises de transport, les communications doivent être transmises au moyen des formulaires mis à disposition par l’Office fédéral des transports. Dans les autres cas, il convient de remettre à cet office une copie du rapport de dénonciation destiné à l’autorité d’enquête.
 
-## Chapitre 9**** Dispositions finales****
+## Chapitre 9 Dispositions finales
 
 [^chap9-1][^chap9-2]
 
@@ -539,7 +540,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2008.
 
 [^39-1]: Introduit par le ch. I de l’O de l’OFROU du 7 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 8, al. 1, let. h)
 
@@ -548,17 +549,17 @@ Annexe 1*[^t-1]*
 [^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFROU du 3 déc. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
 
 <table>
-<tr><td>Méthode de mesure</td><td></td><td></td><td colspan="4">Marge de sécurité\* sur un tronçon d’au moins:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>200 m</td><td>500 m</td><td>1000 m</td><td colspan="4">2000 m</td></tr>
-<tr><td>Tachygraphe avec calculatrice</td><td>Distance constante</td><td>Valeur moyenne sur toute la longueur du tronçon mesuré ou fenêtre de mesure coulissante pour déterminer quel est le parcours le plus rapide sur l’ensemble du tronçon.</td><td>–</td><td>15</td><td>10</td><td colspan="4">8</td></tr>
-<tr><td></td><td>Distance libre</td><td>Valeur moyenne sur toute la longueur du tronçon mesuré. Distance variable, plus grande à la fin qu’au début.</td><td>–</td><td>–</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td>Tachygraphe avec calculatrice et vidéo</td><td>Distance constante</td><td>Valeur moyenne sur toute la longueur du tronçon mesuré ou fenêtre de mesure coulissante pour déterminer quel est le parcours le plus rapide sur l’ensemble du tronçon.</td><td>15</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td></td><td>Distance libre</td><td>Valeur moyenne sur toute la longueur du tronçon mesuré. Distance variable, plus grande à la fin qu’au début.</td><td>15</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td></td><td>Selon des points fixes</td><td>Mesure du tronçon et chronométrage du parcours. Valeur moyenne sur toute la longueur du tronçon. Distance variable.</td><td>–</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td colspan="10">\* La marge de sécurité est définie en km/h pour les vitesses inférieures ou égales à 100 km/h et en pour cent pour les vitesses supérieures à 100 km/h.</td></tr>
+<tr><th>Méthode de mesure</th><th></th><th></th><th colspan="4">Marge de sécurité\* sur un tronçon d’au moins:</th></tr>
+<tr><th></th><th></th><th></th><th>200 m</th><th>500 m</th><th>1000 m</th><th>2000 m</th></tr>
+<tr><td>Tachygraphe avec calculatrice</td><td>Distance constante</td><td>Valeur moyenne sur toute la longueur du tronçon mesuré ou fenêtre de mesure coulissante pour déterminer quel est le parcours le plus rapide sur l’ensemble du tronçon.</td><td>–</td><td>15</td><td>10</td><td>8</td></tr>
+<tr><td></td><td>Distance libre</td><td>Valeur moyenne sur toute la longueur du tronçon mesuré. Distance variable, plus grande à la fin qu’au début.</td><td>–</td><td>–</td><td>8</td><td>6</td></tr>
+<tr><td>Tachygraphe avec calculatrice et vidéo</td><td>Distance constante</td><td>Valeur moyenne sur toute la longueur du tronçon mesuré ou fenêtre de mesure coulissante pour déterminer quel est le parcours le plus rapide sur l’ensemble du tronçon.</td><td>15</td><td>10</td><td>8</td><td>6</td></tr>
+<tr><td></td><td>Distance libre</td><td>Valeur moyenne sur toute la longueur du tronçon mesuré. Distance variable, plus grande à la fin qu’au début.</td><td>15</td><td>10</td><td>8</td><td>6</td></tr>
+<tr><td></td><td>Selon des points fixes</td><td>Mesure du tronçon et chronométrage du parcours. Valeur moyenne sur toute la longueur du tronçon. Distance variable.</td><td>–</td><td>10</td><td>8</td><td>6</td></tr>
+<tr><td colspan="7">\* La marge de sécurité est définie en km/h pour les vitesses inférieures ou égales à 100 km/h et en pour cent pour les vitesses supérieures à 100 km/h.</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 22, al. 1, et 26, al. 1)
 
@@ -571,7 +572,7 @@ Annexe 2*[^t-2]*
 <tr><td></td><td colspan="4">Nom:</td><td colspan="9">Prénom:</td><td colspan="6">Date de naissance:</td></tr>
 <tr><td></td><td colspan="4">Sexe:</td><td colspan="9">masculin</td><td colspan="6">féminin</td></tr>
 <tr><td></td><td colspan="4">Adresse:</td><td colspan="9"></td><td colspan="6"></td></tr>
-<tr><td>2</td><td colspan="4">L’intéressé(e) était :</td><td colspan="9"></td><td colspan="6"></td></tr>
+<tr><td>2</td><td colspan="4">L’intéressé(e) était:</td><td colspan="9"></td><td colspan="6"></td></tr>
 <tr><td></td><td colspan="4">Automobiliste</td><td colspan="9">Motocycliste</td><td colspan="6">Cyclomotoriste</td></tr>
 <tr><td></td><td colspan="4">Cycliste</td><td colspan="9">Piéton</td><td colspan="6"></td></tr>
 <tr><td>3</td><td colspan="19">Faits (motif de l’enquête)</td></tr>
@@ -593,7 +594,7 @@ Annexe 2*[^t-2]*
 <tr><td>7</td><td colspan="19">Observations faites sur l’intéressé(e)</td></tr>
 <tr><td></td><td colspan="19">(symptômes d’alcoolémie, déficiences, etc.)</td></tr>
 <tr><td>6</td><td colspan="19">Déclarations de l’intéressé(e) quant à la dernière ingestion d’aliments (type, quantité, heure)</td></tr>
-<tr><td>8</td><td colspan="19">L’intéressé(e) était en possession de :</td></tr>
+<tr><td>8</td><td colspan="19">L’intéressé(e) était en possession de:</td></tr>
 <tr><td></td><td colspan="19">(stupéfiants, accessoires de toxicomane, alcool, médicaments, etc.)</td></tr>
 <tr><td>9</td><td colspan="15">Test préliminaire de l’air expiré</td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="4">positif</td><td colspan="11">négatif</td><td colspan="4">Heure:</td></tr>
@@ -610,14 +611,14 @@ Annexe 2*[^t-2]*
 <tr><td></td><td colspan="19">Notification des effets de la reconnaissance des résultats: La reconnaissance de la valeur inférieure mesurée constitue une preuve aux conséquences juridiques. La constatation de la concentration d’alcool dans l’air expiré entraîne l’introduction d’une procédure administrative (retrait du permis de conduire, avertissement ou interdiction de circuler) et pénale (amende).</td></tr>
 <tr><td></td><td colspan="19">Reconnaissance</td></tr>
 <tr><td></td><td colspan="4">Mesure de l’air expiré reconnue</td><td colspan="11">Oui □</td><td colspan="4">Non □</td></tr>
-<tr><td></td><td colspan="4">Lieu, date:</td><td colspan="11">Signature:</td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4">Lieu, date:</td><td colspan="15">Signature:</td></tr>
 <tr><td></td><td colspan="4">…………………………</td><td colspan="15">…………………………………………………</td></tr>
 <tr><td>10.2</td><td colspan="19">Contrôle de l’alcool dans l’air expiré au moyen d’un éthylomètre</td></tr>
 <tr><td></td><td colspan="19">Numéro de série de l’instrument: ……………………………………………</td></tr>
 <tr><td></td><td colspan="4">Mesure:…………………</td><td colspan="4">mg/l</td><td colspan="11">Date et heure:…………………………</td></tr>
 <tr><td>11</td><td colspan="15">Stupéfiants, test préliminaire</td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="4">non</td><td colspan="11">oui</td><td colspan="4">Heure:</td></tr>
-<tr><td></td><td colspan="15">Motifs de l’opération :</td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="15">Motifs de l’opération:</td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="7">Urine</td><td colspan="7">Salive</td><td colspan="3">Sueur</td></tr>
 <tr><td></td><td colspan="2"></td><td>positif</td><td colspan="6">négatif</td><td colspan="2">positif</td><td colspan="5">négatif</td><td colspan="2">positif</td><td>négatif</td></tr>
 <tr><td></td><td colspan="2">THC/cannabis:</td><td></td><td colspan="6"></td><td colspan="2"></td><td colspan="5"></td><td colspan="2"></td><td></td></tr>
@@ -627,12 +628,12 @@ Annexe 2*[^t-2]*
 <tr><td></td><td colspan="2">Méthadone:</td><td></td><td colspan="6"></td><td colspan="2"></td><td colspan="5"></td><td colspan="2"></td><td></td></tr>
 <tr><td>12</td><td colspan="15">Médicaments, test préliminaire</td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="4">non</td><td colspan="11">oui</td><td colspan="4">Heure:</td></tr>
-<tr><td></td><td colspan="15">Motifs de l’opération :</td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="15">Motifs de l’opération:</td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="7">Urine</td><td colspan="7"></td><td colspan="3"></td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2">positif</td><td colspan="5">négatif</td><td colspan="7"></td><td colspan="3"></td></tr>
 <tr><td></td><td colspan="2">Benzodiazépine</td><td colspan="2"></td><td colspan="5"></td><td colspan="7"></td><td colspan="3"></td></tr>
 <tr><td></td><td colspan="2">Barbituriques</td><td colspan="2"></td><td colspan="5"></td><td colspan="7"></td><td colspan="3"></td></tr>
-<tr><td></td><td>Date:</td><td colspan="18">Signature de la personne chargée du procès-verbal (autorité de contrôle) :</td></tr>
+<tr><td></td><td>Date:</td><td colspan="18">Signature de la personne chargée du procès-verbal (autorité de contrôle):</td></tr>
 <tr><td>13</td><td colspan="19">Confirmation/délivrance du mandat pour le prélèvement et l’analyse du sang/des urines concernant:</td></tr>
 <tr><td></td><td colspan="19">Détermination de l’alcoolémie</td></tr>
 <tr><td></td><td colspan="19">Consommation de stupéfiants</td></tr>
@@ -673,9 +674,9 @@ Annexe 3
 <tr><td></td><td colspan="5">Cycliste</td><td colspan="10">Piéton</td><td colspan="6"></td></tr>
 <tr><td>21</td><td colspan="21">Date et heure de l’événement:</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="4">le:</td><td colspan="8">à:</td><td colspan="2">heures</td></tr>
-<tr><td>22</td><td colspan="21">Date et heure du prélèvement de sang :</td></tr>
+<tr><td>22</td><td colspan="21">Date et heure du prélèvement de sang:</td></tr>
 <tr><td></td><td colspan="2">10 ml</td><td colspan="5">20 ml</td><td colspan="4">le:</td><td colspan="8">à:</td><td colspan="2">heures</td></tr>
-<tr><td>23</td><td colspan="21">Date et heure de la récolte des urines :</td></tr>
+<tr><td>23</td><td colspan="21">Date et heure de la récolte des urines:</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="5">(env. 100 ml)</td><td colspan="4">le:</td><td colspan="8">à:</td><td colspan="2">heures</td></tr>
 <tr><td>3</td><td colspan="21">Antécédents médicaux:</td></tr>
 <tr><td>4</td><td colspan="14">Traitement médical (médicaments prescrits en cas d’urgence):</td><td colspan="4">non</td><td colspan="3">oui, lesquels?</td></tr>
@@ -700,7 +701,7 @@ Annexe 3
 <tr><td></td><td colspan="5">normale</td><td colspan="11">confuse</td><td colspan="5"></td></tr>
 <tr><td></td><td colspan="5">Amnésie quant à l’événement:</td><td colspan="11"></td><td colspan="5"></td></tr>
 <tr><td></td><td colspan="5">oui</td><td colspan="11">non</td><td colspan="5"></td></tr>
-<tr><td>82</td><td colspan="5">Peau :</td><td colspan="11"></td><td colspan="5"></td></tr>
+<tr><td>82</td><td colspan="5">Peau:</td><td colspan="11"></td><td colspan="5"></td></tr>
 <tr><td></td><td colspan="5">Traces d’injection récente</td><td colspan="11">Traces d’injection ancienne</td><td colspan="5">Cicatrices d’injections multiples</td></tr>
 <tr><td>83</td><td colspan="5">Cloison nasale:</td><td colspan="11"></td><td colspan="5"></td></tr>
 <tr><td></td><td colspan="5">sans particularité</td><td colspan="11">rouge</td><td colspan="5">perforée</td></tr>
@@ -735,7 +736,7 @@ Annexe 3
 <tr><td></td><td colspan="3">normale</td><td colspan="5">triste</td><td colspan="9">euphorique</td><td colspan="4"></td></tr>
 <tr><td>12</td><td colspan="21">Expression orale</td></tr>
 <tr><td></td><td colspan="3">normale</td><td colspan="5">imprécise</td><td colspan="13">inintelligible</td></tr>
-<tr><td>**13**</td><td colspan="21">**Compréhension verbale**</td></tr>
+<tr><td>13</td><td colspan="21">Compréhension verbale</td></tr>
 <tr><td></td><td colspan="3">sans problèmes</td><td colspan="5"></td><td colspan="13">problématique, motif:</td></tr>
 <tr><td>14</td><td colspan="21">Coopération</td></tr>
 <tr><td></td><td colspan="3">bonne</td><td colspan="5">à contrecœur</td><td colspan="9">refusée</td><td colspan="4"></td></tr>
@@ -757,7 +758,7 @@ Copie à l’autorité chargée des mesures administratives
 
 Copie au laboratoire chargé de l’analyse du sang/des urines
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 35)
 
@@ -766,50 +767,40 @@ Annexe 4*[^t-3]*
 [^t-3]: Mise à jour selon le ch. II al. 2 de l’O de l’OFROU du 3 déc. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
 
 <table>
-<tr><td colspan="2">1.</td><td colspan="12">Lieu du contrôle:</td></tr>
-<tr><td colspan="2">2.</td><td colspan="12">Date:</td></tr>
-<tr><td colspan="2">3.</td><td colspan="12">Heure:</td></tr>
-<tr><td colspan="2">4.</td><td colspan="12">Signe distinctif de nationalité et plaque de contrôle du véhicule:</td></tr>
-<tr><td colspan="2">4*a*.</td><td colspan="12">Signe distinctif de nationalité et plaque de contrôle de la remorque/ semi-remorque:</td></tr>
-<tr><td colspan="2">5.</td><td colspan="12">Numéro du châssis:</td></tr>
-<tr><td colspan="2">6.</td><td colspan="12">Catégorie de véhicule:</td></tr>
-<tr><td colspan="2"></td><td colspan="2">a)</td><td>◻</td><td>Camion<sup>[^annex4-lvlu1-1]1</sup> et tracteur à sellette lourd<sup>2</sup> jusqu’à 12 t</td><td colspan="2"></td><td>e)</td><td>◻</td><td colspan="4">Camion et tracteur à sellette lourd de plus de 12 t</td></tr>
-<tr><td colspan="2"></td><td colspan="2">b)</td><td>◻</td><td>Remorque<sup>3</sup></td><td colspan="2"></td><td>f)</td><td>◻</td><td colspan="4">Semi-remorque<sup>4</sup></td></tr>
-<tr><td colspan="2"></td><td colspan="2">c)</td><td>◻</td><td>Train routier<sup>5</sup></td><td colspan="2"></td><td>g)</td><td>◻</td><td colspan="4">Véhicule articulé<sup>6</sup></td></tr>
-<tr><td colspan="2"></td><td colspan="2">d)</td><td>◻</td><td>Autocar<sup>7</sup></td><td colspan="2"></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td><sup>1</sup></td><td colspan="13">Les «camions» sont des véhicules à moteur lourds affectés au transport de marchandises (plus de 3,50 t) (catégories N<sub>2</sub> ou N<sub>3</sub>).</td></tr>
-<tr><td><sup>2</sup></td><td colspan="13">Les «tracteurs à sellette lourds» sont des véhicules à moteur construits pour la traction de remorques et ayant un poids garanti supérieur à 3,50 t (catégories N<sub>2</sub> ou N<sub>3</sub>).</td></tr>
-<tr><td><sup>3</sup></td><td colspan="13">Les «remorques» sont des véhicules sans propulsion propre, construits pour être attelés à d’autres véhicules à moteur et qui sont reliés à eux par un dispositif pivotant approprié (les chariots de dépannage ne sont pas considérés comme des remorques). Les «remorques destinées au transport de marchandises» sont des remorques dotées de ponts, de citernes ou d’autres espaces de chargement pour le transport de marchandises. Elles sont subdivisées dans les catégories suivantes:</td></tr>
-<tr><td></td><td colspan="2">a.</td><td colspan="11">«Catégorie O1»: remorques d’un poids garanti ne dépassant pas 0,75 t;</td></tr>
-<tr><td></td><td colspan="2">b.</td><td colspan="11">«Catégorie O2»: remorques d’un poids garanti allant de plus de 0,75 t à 3,50t au maximum;</td></tr>
-<tr><td></td><td colspan="2">c.</td><td colspan="11">«Catégorie O3»: remorques d’un poids garanti allant de plus de 3,50 t à 10,00 t au maximum;</td></tr>
-<tr><td></td><td colspan="2">d.</td><td colspan="11">«Catégorie O4»: remorques d’un poids garanti supérieur à 10,00 t.</td></tr>
-<tr><td><sup>4</sup></td><td colspan="13">Les «semi-remorques» sont des remorques qui sont attelées à un véhicule à moteur (tracteurs à sellette) de manière à être partiellement posées sur celui-ci. Une part importante du poids de la remorque et de son chargement est supportée par le véhicule tracteur.</td></tr>
-<tr><td><sup>5</sup></td><td colspan="13">Combinaison d’un véhicule tracteur et d’une remorque</td></tr>
-<tr><td><sup>6</sup></td><td colspan="13">Un «véhicule articulé» est la combinaison d’un tracteur à sellette et d’un semi-remorque.</td></tr>
-<tr><td><sup>7</sup></td><td colspan="13">Les «autocars» sont des véhicules à moteur lourds affectés au transport de personnes et comportant, outre le siège du conducteur, plus de huit places assises (catégorie M<sub>2</sub> plus de 3,50 t ou M<sub>3</sub>).</td></tr>
-<tr><td colspan="2">7.</td><td colspan="12">Entreprise de transport/adresse:</td></tr>
-<tr><td colspan="2">7*a*.</td><td colspan="12">Numéro de la licence de transport:</td></tr>
-<tr><td colspan="2">8.</td><td colspan="12">Nationalité:</td></tr>
-<tr><td colspan="2">9.</td><td colspan="12">Conducteur:</td></tr>
-<tr><td colspan="2">10.</td><td colspan="5">Points contrôlés</td><td colspan="4">contrôlés</td><td>non contrôlés</td><td colspan="2">non conformes</td></tr>
-<tr><td colspan="2"></td><td colspan="2">a)</td><td colspan="3">Dispositif de freinage et éléments du dispositif de freinage</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">b)</td><td colspan="3">Dispositif d’échappement</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">c)</td><td colspan="3">Opacité de la fumée (diesel)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">d)</td><td colspan="3">Emissions gazeuses (essence, gaz naturel ou gaz de pétrole liquéfié)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">e)</td><td colspan="3">Système de direction</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">f)</td><td colspan="3">Dispositifs d’éclairage et de signalisation</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">g)</td><td colspan="3">Roues/pneus</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">h)</td><td colspan="3">Suspension (défectuosités visibles)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">i)</td><td colspan="3">Châssis (défectuosités visibles)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">j)</td><td colspan="3">Tachygraphe (installation)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">k)</td><td colspan="3">Limiteur de vitesse (installation et fonctionnement)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2"></td><td colspan="2">l)</td><td colspan="3">Fuites de carburant et/ou d’huile</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
-<tr><td colspan="2">11.</td><td colspan="12">Résultats du contrôle</td></tr>
-<tr><td colspan="2"></td><td colspan="11">Le véhicule présente des défauts graves; son utilisation est provisoirement interdite</td><td>◻</td></tr>
-<tr><td colspan="2">12.</td><td colspan="12">Divers/observations</td></tr>
-<tr><td colspan="2">13.</td><td colspan="12">Autorité de contrôle: responsable ou contrôleur</td></tr>
-<tr><td colspan="14">Signature de la personne qui a effectué le contrôle pour l’autorité (responsable ou contrôleur)</td></tr>
+<tr><td colspan="2">1.</td><td colspan="11">Lieu du contrôle:</td></tr>
+<tr><td colspan="2">2.</td><td colspan="11">Date:</td></tr>
+<tr><td colspan="2">3.</td><td colspan="11">Heure:</td></tr>
+<tr><td colspan="2">4.</td><td colspan="11">Signe distinctif de nationalité et plaque de contrôle du véhicule:</td></tr>
+<tr><td colspan="2">4*a*.</td><td colspan="11">Signe distinctif de nationalité et plaque de contrôle de la remorque/ semi-remorque:</td></tr>
+<tr><td colspan="2">5.</td><td colspan="11">Numéro du châssis:</td></tr>
+<tr><td colspan="2">6.</td><td colspan="11">Catégorie de véhicule:</td></tr>
+<tr><td colspan="2"></td><td>a)</td><td>◻</td><td>Camion<sup>[^annex4-lvlu1-1]1</sup> et tracteur à sellette lourd<sup>2</sup> jusqu’à 12 t</td><td colspan="2"></td><td>e)</td><td>◻</td><td colspan="4">Camion et tracteur à sellette lourd de plus de 12 t</td></tr>
+<tr><td colspan="2"></td><td>b)</td><td>◻</td><td>Remorque<sup>3</sup></td><td colspan="2"></td><td>f)</td><td>◻</td><td colspan="4">Semi-remorque<sup>4</sup></td></tr>
+<tr><td colspan="2"></td><td>c)</td><td>◻</td><td>Train routier<sup>5</sup></td><td colspan="2"></td><td>g)</td><td>◻</td><td colspan="4">Véhicule articulé<sup>6</sup></td></tr>
+<tr><td colspan="2"></td><td>d)</td><td>◻</td><td>Autocar<sup>7</sup></td><td colspan="2"></td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td colspan="13"><sup>1</sup> Les «camions» sont des véhicules à moteur lourds affectés au transport de marchandises (plus de 3,50 t) (catégories N<sub>2</sub> ou N<sub>3</sub>). <sup>2</sup> Les «tracteurs à sellette lourds» sont des véhicules à moteur construits pour la traction de remorques et ayant un poids garanti supérieur à 3,50 t (catégories N<sub>2</sub> ou N<sub>3</sub>). <sup>3</sup> Les «remorques» sont des véhicules sans propulsion propre, construits pour être attelés à d’autres véhicules à moteur et qui sont reliés à eux par un dispositif pivotant approprié (les chariots de dépannage ne sont pas considérés comme des remorques). Les «remorques destinées au transport de marchandises» sont des remorques dotées de ponts, de citernes ou d’autres espaces de chargement pour le transport de marchandises. Elles sont subdivisées dans les catégories suivantes: a. «Catégorie O1»: remorques d’un poids garanti ne dépassant pas 0,75 t; b. «Catégorie O2»: remorques d’un poids garanti allant de plus de 0,75 t à 3,50 t au maximum; c. «Catégorie O3»: remorques d’un poids garanti allant de plus de 3,50 t à 10,00 t au maximum; d. «Catégorie O4»: remorques d’un poids garanti supérieur à 10,00 t. <sup>4</sup> Les «semi-remorques» sont des remorques qui sont attelées à un véhicule à moteur (tracteurs à sellette) de manière à être partiellement posées sur celui-ci. Une part importante du poids de la remorque et de son chargement est supportée par le véhicule tracteur. <sup>5</sup> Combinaison d’un véhicule tracteur et d’une remorque <sup>6</sup> Un «véhicule articulé» est la combinaison d’un tracteur à sellette et d’un semi-remorque. <sup>7</sup> Les «autocars» sont des véhicules à moteur lourds affectés au transport de personnes et comportant, outre le siège du conducteur, plus de huit places assises (catégorie M<sub>2</sub> plus de 3,50 t ou M<sub>3</sub>).</td></tr>
+<tr><td colspan="2">7.</td><td colspan="11">Entreprise de transport/adresse:</td></tr>
+<tr><td colspan="2">7*a*.</td><td colspan="11">Numéro de la licence de transport:</td></tr>
+<tr><td colspan="2">8.</td><td colspan="11">Nationalité:</td></tr>
+<tr><td colspan="2">9.</td><td colspan="11">Conducteur:</td></tr>
+<tr><td colspan="2">10.</td><td colspan="4">Points contrôlés</td><td colspan="4">contrôlés</td><td>non contrôlés</td><td colspan="2">non conformes</td></tr>
+<tr><td colspan="2"></td><td>a)</td><td colspan="3">Dispositif de freinage et éléments du dispositif de freinage</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>b)</td><td colspan="3">Dispositif d’échappement</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>c)</td><td colspan="3">Opacité de la fumée (diesel)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>d)</td><td colspan="3">Emissions gazeuses (essence, gaz naturel ou gaz de pétrole liquéfié)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>e)</td><td colspan="3">Système de direction</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>f)</td><td colspan="3">Dispositifs d’éclairage et de signalisation</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>g)</td><td colspan="3">Roues/pneus</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>h)</td><td colspan="3">Suspension (défectuosités visibles)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>i)</td><td colspan="3">Châssis (défectuosités visibles)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>j)</td><td colspan="3">Tachygraphe (installation)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>k)</td><td colspan="3">Limiteur de vitesse (installation et fonctionnement)</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2"></td><td>l)</td><td colspan="3">Fuites de carburant et/ou d’huile</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
+<tr><td colspan="2">11.</td><td colspan="11">Résultats du contrôle</td></tr>
+<tr><td colspan="2"></td><td colspan="10">Le véhicule présente des défauts graves; son utilisation est provisoirement interdite</td><td>◻</td></tr>
+<tr><td colspan="2">12.</td><td colspan="11">Divers/observations</td></tr>
+<tr><td colspan="2">13.</td><td colspan="11">Autorité de contrôle: responsable ou contrôleur</td></tr>
+<tr><td colspan="13">Signature de la personne qui a effectué le contrôle pour l’autorité (responsable ou contrôleur)</td></tr>
 </table>
 
 [^annex4-lvlu1-1]: 
@@ -866,7 +857,5 @@ Annexe 5
 <tr><td>38.</td><td colspan="13">Remarques:</td></tr>
 <tr><td>39.</td><td colspan="13">Heure/fin du contrôle:</td></tr>
 <tr><td>40.</td><td colspan="13">Autorité de contrôle/agent chargé du contrôle: (sceau, signature + paraphe)</td></tr>
-<tr><td><sup>1</sup></td><td colspan="13">Ne remplir que s’il y a un rapport avec une infraction</td></tr>
-<tr><td><sup>2</sup></td><td colspan="13">À mentionner sous «remarques» pour les opérations de groupage de transports</td></tr>
-<tr><td><sup>3</sup></td><td colspan="13">Contrôle des infractions apparentes</td></tr>
+<tr><td colspan="14"><sup>1</sup> Ne remplir que s’il y a un rapport avec une infraction <sup>2</sup> À mentionner sous «remarques» pour les opérations de groupage de transports <sup>3</sup> Contrôle des infractions apparentes</td></tr>
 </table>

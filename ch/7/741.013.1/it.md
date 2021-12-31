@@ -4,11 +4,11 @@ title: "Ordinanza dell'USTRA del 22 maggio 2008 concernente l'ordinanza sul cont
 short: OOCCS-USTR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/352"
 language: it
-version: 2020-03-01
+version: 2022-01-01
 adopted: 2008-05-22
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/352/20200301/it/xml/fedlex-data-admin-ch-eli-cc-2008-352-20200301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20200301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/352/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-352-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/352/20200301/it"
 
 (OOCCS-USTRA)
 
-del 22 maggio 2008 (Stato 1° marzo 2020)
+del 22 maggio 2008 (Stato 1° gennaio 2022)
 
-L’Ufficio federale delle strade (USTRA), d’intesa con l’Amministrazione federale delle dogane, l’Istituto federale di metrologia e l’Ufficio federale dei trasporti,
+L’Ufficio federale delle strade (USTRA), d’intesa con l’Ufficio federale della dogana e della sicurezza dei confini[^ingress-1], l’Istituto federale di metrologia e l’Ufficio federale dei trasporti,
 
-visti gli articoli 4 capoverso 5, 9 capoversi 2 e 3, 11 capoverso 3, 13 capoverso 3, 15 capoverso 1, 18, 24 capoverso 4, 26 capoverso 5, 44 capoverso 2 e 45 capoverso 3 dell’ordinanza del 28 marzo 2007[^ingress-1] sul controllo della circolazione stradale (OCCS),[^ingress-2]
+visti gli articoli 4 capoverso 5, 9 capoversi 2 e 3, 11 capoverso 3, 13 capoverso 3, 15 capoverso 1, 18, 24 capoverso 4, 26 capoverso 5, 44 capoverso 2 e 45 capoverso 3 dell’ordinanza del 28 marzo 2007[^ingress-2] sul controllo della circolazione stradale (OCCS),[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O dell’USTRA del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
+[^ingress-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^ingress-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O dell’USTRA del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 241](https://fedlex.data.admin.ch/eli/oc/2019/41)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -74,7 +75,7 @@ Il personale incaricato del controllo e della valutazione dei dati deve:
 
 <sup>2</sup> È considerato un accertamento di contravvenzioni mediante impianti di sorveglianza automatici ai sensi dell’articolo 2 lettera b della legge del 24 giugno 1970[^4-1] sulle multe disciplinari l’accertamento fatto sulla scorta di materiale fotografico o filmico prodotto da un sistema di misurazione automatica.
 
-[^4-1]: [RU **1972** 734, [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 n. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)n. II, [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)all. n. I]. Vedi ora: art. 3 cpv. 2 della L del 18 marzo 2016 sulle multe disciplinari ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+[^4-1]: [RU **1972** 734; [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 n. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)n. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)all. n. I]. Vedi ora: art. 3 cpv. 2 della L del 18 marzo 2016 sulle multe disciplinari ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
 
 #### Art. 5
 
@@ -287,7 +288,7 @@ Dai valori misurati tramite impianti di misurazione della sagoma, arrotondati pe
 
 ## Capitolo 6: Controllo dell’abilità alla guida
 
-### Sezione 1: Misurazione etilometrica****
+### Sezione 1: Misurazione etilometrica
 
 [^chap6-sec1-1]
 
@@ -522,7 +523,7 @@ I Cantoni trasmettono alla banca dati centrale dell’USTRA (art. 47 cpv. 1 OCCS
 
 In caso di infrazione alle norme sul trasporto di persone e sull’omologazione come impresa di trasporto stradale, le notifiche sono fatte mediante i moduli rilasciati dall’Ufficio federale dei trasporti. Nei casi restanti, all’Ufficio federale dei trasporti è trasmessa una copia del rapporto di denuncia presentato all’autorità istruttoria.
 
-## Capitolo 9: Disposizioni finali****
+## Capitolo 9: Disposizioni finali
 
 [^chap9-1]
 
@@ -546,7 +547,7 @@ La presente ordinanza entra in vigore il 1° ottobre 2008.
 
 [^39-1]: Introdotto dal n. I dell’O dell’USTRA del 7 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5645](https://fedlex.data.admin.ch/eli/oc/2011/796)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 8 cpv. 1 lett. h)
 
@@ -555,17 +556,17 @@ Allegato 1*[^t-1]*
 [^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O dell’USTRA del 3 dic. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4675](https://fedlex.data.admin.ch/eli/oc/2013/823)).
 
 <table>
-<tr><td>Metodo di misurazione</td><td></td><td></td><td colspan="4">Margine di sicurezza\* per un tratto di misurazione di almeno:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>200 m</td><td>500 m</td><td>1000m</td><td colspan="4">2000 m</td></tr>
-<tr><td>Indicatore di velocità con calcolatore</td><td>Distanza costante</td><td>Valore medio su tutta la lunghezza del tratto di misurazione o finestra di misurazione in linea per stabilire il percorso più rapido su tutta la lunghezza del tratto.</td><td>–</td><td>15</td><td>10</td><td colspan="4">8</td></tr>
-<tr><td></td><td>Distanza libera</td><td>Valore medio su tutta la lunghezza del tratto di misurazione. Distanza variabile, maggiore alla fine rispetto all’inizio della misurazione.</td><td>–</td><td>–</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td>Indicatore di velocità con calcolatore e video</td><td>Distanza costante</td><td>Valore medio su tutta la lunghezza del tratto di misurazione o finestra di misurazione in linea per stabilire il percorso più rapido su tutta la lunghezza del tratto.</td><td>15</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td></td><td>Distanza libera</td><td>Valore medio su tutta la lunghezza del tratto di misurazione. Distanza variabile, maggiore alla fine rispetto all’inizio della misurazione.</td><td>15</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td></td><td>Secondo i punti fissi</td><td>Cronometraggio del percorso. Valore medio su tutta la lunghezza del tratto di misurazione. Distanza variabile.</td><td>–</td><td>10</td><td>8</td><td colspan="4">6</td></tr>
-<tr><td colspan="10">\* In caso di velocità rilevata inferiore o uguale a 100 km/h, la deduzione del margine di sicurezza è effettuata in km/h; in caso di velocità rilevata superiore a 100 km/h la deduzione del margine di sicurezza è effettuata in percentuale.</td></tr>
+<tr><th>Metodo di misurazione</th><th></th><th></th><th colspan="4">Margine di sicurezza\* per un tratto di misurazione di almeno:</th></tr>
+<tr><th></th><th></th><th></th><th>200 m</th><th>500 m</th><th>1000m</th><th>2000 m</th></tr>
+<tr><td>Indicatore di velocità con calcolatore</td><td>Distanza costante</td><td>Valore medio su tutta la lunghezza del tratto di misurazione o finestra di misurazione in linea per stabilire il percorso più rapido su tutta la lunghezza del tratto.</td><td>–</td><td>15</td><td>10</td><td>8</td></tr>
+<tr><td></td><td>Distanza libera</td><td>Valore medio su tutta la lunghezza del tratto di misurazione. Distanza variabile, maggiore alla fine rispetto all’inizio della misurazione.</td><td>–</td><td>–</td><td>8</td><td>6</td></tr>
+<tr><td>Indicatore di velocità con calcolatore e video</td><td>Distanza costante</td><td>Valore medio su tutta la lunghezza del tratto di misurazione o finestra di misurazione in linea per stabilire il percorso più rapido su tutta la lunghezza del tratto.</td><td>15</td><td>10</td><td>8</td><td>6</td></tr>
+<tr><td></td><td>Distanza libera</td><td>Valore medio su tutta la lunghezza del tratto di misurazione. Distanza variabile, maggiore alla fine rispetto all’inizio della misurazione.</td><td>15</td><td>10</td><td>8</td><td>6</td></tr>
+<tr><td></td><td>Secondo i punti fissi</td><td>Cronometraggio del percorso. Valore medio su tutta la lunghezza del tratto di misurazione. Distanza variabile.</td><td>–</td><td>10</td><td>8</td><td>6</td></tr>
+<tr><td colspan="7">\* In caso di velocità rilevata inferiore o uguale a 100 km/h, la deduzione del margine di sicurezza è effettuata in km/h; in caso di velocità rilevata superiore a 100 km/h la deduzione del margine di sicurezza è effettuata in percentuale.</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 22 cpv. 1 e 26 cpv. 1)
 
@@ -613,14 +614,14 @@ Allegato 2*[^t-2]*
 <tr><td></td><td colspan="4">1<sup>a</sup> misurazione: …….......</td><td colspan="7">mg/l</td><td colspan="9">Ora: ………………………………</td></tr>
 <tr><td></td><td colspan="4">2<sup>a</sup> misurazione: …….......</td><td colspan="7">mg/l</td><td colspan="9">Ora: …………………………</td></tr>
 <tr><td></td><td colspan="20">Riconoscimento dell’accertamento etilometrico</td></tr>
-<tr><td></td><td colspan="20">[tab] *Nota:* [tab] Il sottoscritto può riconoscere il valore più basso delle misurazioni etilometriche nei seguenti casi: a. se era alla guida di un veicolo a motore: per valori pari o superiori a 0,25 ma inferiori a 0,40 mg/l; b. se è soggetto al divieto di guidare sotto l’influsso dell’alcol secondo l’articolo 2*a* capoverso 1 ONC: per valori pari o superiori a 0,05 ma inferiori a 0,40 mg/l; c. se era alla guida di un veicolo senza motore o di un ciclomotore: per valori pari o superiori a 0,25 ma inferiori a 0,55 mg/l.</td></tr>
-<tr><td></td><td colspan="20">Informazione sulle conseguenze del riconoscimento dei risultati: [tab] Il riconoscimento del valore più basso misurato ha valenza probatoria. Il rilevamento della presenza di alcol nell’aria espirata comporta l’avvio di un procedimento amministrativo (revoca della licenza, ammonimento o divieto di guidare) e penale (multa).</td></tr>
+<tr><td></td><td colspan="20">Nota: Il sottoscritto può riconoscere il valore più basso delle misurazioni etilometriche nei seguenti casi: a. se era alla guida di un veicolo a motore: per valori pari o superiori a 0,25 ma inferiori a 0,40 mg/l; b. se è soggetto al divieto di guidare sotto l’influsso dell’alcol secondo l’articolo 2*a* capoverso 1 ONC: per valori pari o superiori a 0,05 ma inferiori a 0,40 mg/l; c. se era alla guida di un veicolo senza motore o di un ciclomotore: per valori pari o superiori a 0,25 ma inferiori a 0,55 mg/l.</td></tr>
+<tr><td></td><td colspan="20">Informazione sulle conseguenze del riconoscimento dei risultati: Il riconoscimento del valore più basso misurato ha valenza probatoria. Il rilevamento della presenza di alcol nell’aria espirata comporta l’avvio di un procedimento amministrativo (revoca della licenza, ammonimento o divieto di guidare) e penale (multa).</td></tr>
 <tr><td></td><td colspan="20">Riconoscimento</td></tr>
 <tr><td></td><td colspan="4">Misurazione riconosciuta</td><td colspan="12">si □</td><td colspan="4">no □</td></tr>
 <tr><td></td><td colspan="4">Luogo, data:</td><td colspan="12">Firma:</td><td colspan="4"></td></tr>
 <tr><td></td><td colspan="4">…………………………</td><td colspan="16">…………………………………………………</td></tr>
 <tr><td>10.2</td><td colspan="20">Accertamento con etilometro probatorio</td></tr>
-<tr><td></td><td colspan="20">Numero di serie dello strumento:……………………………………………</td></tr>
+<tr><td></td><td colspan="20">Numero di serie dello strumento: ……………………………………………</td></tr>
 <tr><td></td><td colspan="4">Misurazione:……………</td><td colspan="4">mg/l</td><td colspan="12">Data e ora:…...………………………</td></tr>
 <tr><td>11</td><td colspan="17">Stupefacenti, analisi preliminare</td><td colspan="3"></td></tr>
 <tr><td></td><td colspan="4">no</td><td colspan="13">si</td><td colspan="3">Ora:</td></tr>
@@ -758,11 +759,13 @@ Allegato 3
 
 Va a:
 
-- [tab] Originale all’autorità penale
-- [tab] Copia all’autorità incaricata delle misure amministrative
-- [tab] Copia al laboratorio incaricato di effettuare le analisi del sangue e delle urine
+Originale all’autorità penale
 
-Allegato 4*[^t-3]*
+Copia all’autorità incaricata delle misure amministrative
+
+Copia al laboratorio incaricato di effettuare le analisi del sangue e delle urine
+
+Allegato 4[^t-3]
 
 (art. 35)
 
@@ -786,13 +789,7 @@ Allegato 4*[^t-3]*
 <tr><td>7*a*.</td><td colspan="10">Numero della licenza di trasporto:</td></tr>
 <tr><td>8.</td><td colspan="10">Nazionalità:</td></tr>
 <tr><td>9.</td><td colspan="10">Conducente:</td></tr>
-<tr><td colspan="11"><sup>1</sup> Gli «autocarri» sono autoveicoli pesanti (oltre 3,50 t) per il trasporto di cose (classi N<sub>2</sub> o N<sub>3</sub>).</td></tr>
-<tr><td colspan="11"><sup>2</sup> I «trattori a sella pesanti» sono autoveicoli costruiti per trainare semirimorchi con un peso garantito superiore a 3,50 t (classi N<sub>2</sub> e N<sub>3</sub>).</td></tr>
-<tr><td colspan="11"><sup>3</sup> I «rimorchi» sono veicoli senza dispositivo di propulsione proprio, costruiti per essere trainati da altri veicoli, ai quali sono accoppiati in modo snodato mediante un idoneo dispositivo di agganciamento (i carrelli di sostegno non sono considerati rimorchi). I «rimorchi per il trasporto di cose» sono rimorchi muniti di ponte di carico, di cisterne o di altri spazi destinati al trasporto di cose. Essi sono suddivisi nelle classi seguenti: a. «classe O1» Rimorchi con un peso garantito di al massimo 0,75 t; b. ««classe O2» Rimorchi con un peso garantito di oltre 0,75 t fino al massimo 3,50 t; c. «classe O3» Rimorchi con un peso garantito di oltre 3,50 t fino al massimo 10 t; d. «classe O4» Rimorchi con un peso garantito di oltre 10 t.</td></tr>
-<tr><td colspan="11"><sup>4</sup> I «semirimorchi» sono rimorchi agganciati a un veicolo a motore (trattore a sella) in modo tale che poggiano parzialmente su quest’ultimo. Una parte essenziale del peso del rimorchio e del suo carico grava sul veicolo trattore</td></tr>
-<tr><td colspan="11"><sup>5</sup> Combinazione di un autoveicolo di trasporto e un rimorchio</td></tr>
-<tr><td colspan="11"><sup>6</sup> L’«autoarticolato» è la combinazione di un trattore a sella e di un semirimorchio.</td></tr>
-<tr><td colspan="11"><sup>7</sup> Gli «autobus» sono autoveicoli pesanti per il trasporto di persone con oltre nove posti a sedere, compreso quello del conducente (classe M<sub>2</sub> oltre 3,50 t o M<sub>3</sub>).</td></tr>
+<tr><td colspan="11"><sup>1</sup> Gli «autocarri» sono autoveicoli pesanti (oltre 3,50 t) per il trasporto di cose (classi N<sub>2</sub> o N<sub>3</sub>). <sup>2</sup> I «trattori a sella pesanti» sono autoveicoli costruiti per trainare semirimorchi con un peso garantito superiore a 3,50 t (classi N<sub>2</sub> e N<sub>3</sub>). <sup>3</sup> I «rimorchi» sono veicoli senza dispositivo di propulsione proprio, costruiti per essere trainati da altri veicoli, ai quali sono accoppiati in modo snodato mediante un idoneo dispositivo di agganciamento (i carrelli di sostegno non sono considerati rimorchi). I «rimorchi per il trasporto di cose» sono rimorchi muniti di ponte di carico, di cisterne o di altri spazi destinati al trasporto di cose. Essi sono suddivisi nelle classi seguenti: a. «classe O1» Rimorchi con un peso garantito di al massimo 0,75 t; b. ««classe O2» Rimorchi con un peso garantito di oltre 0,75 t fino al massimo 3,50 t; c. «classe O3» Rimorchi con un peso garantito di oltre 3,50 t fino al massimo 10 t; d. «classe O4» Rimorchi con un peso garantito di oltre 10 t. <sup>4</sup> I «semirimorchi» sono rimorchi agganciati a un veicolo a motore (trattore a sella) in modo tale che poggiano parzialmente su quest’ultimo. Una parte essenziale del peso del rimorchio e del suo carico grava sul veicolo trattore <sup>5</sup> Combinazione di un autoveicolo di trasporto e un rimorchio <sup>6</sup> L’«autoarticolato» è la combinazione di un trattore a sella e di un semirimorchio. <sup>7</sup> Gli «autobus» sono autoveicoli pesanti per il trasporto di persone con oltre nove posti a sedere, compreso quello del conducente (classe M<sub>2</sub> oltre 3,50 t o M<sub>3</sub>).</td></tr>
 <tr><td>10.</td><td colspan="3">Punti controllati</td><td colspan="4">controllato</td><td>non controllato</td><td colspan="2">non conforme</td></tr>
 <tr><td></td><td>a)</td><td colspan="2">Impianto di frenatura e suoi componenti</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
 <tr><td></td><td>b)</td><td colspan="2">Impianto di scarico</td><td colspan="4">◻</td><td>◻</td><td colspan="2">◻</td></tr>
@@ -860,12 +857,10 @@ Allegato 5
 <tr><td>34.</td><td colspan="2">Guida sulla corsia di sinistra in una galleria indicata con il segnale «galleria»:</td><td colspan="2">◻ controllato</td><td colspan="4"></td><td colspan="2">◻ notifica</td><td colspan="3">◻ non applicabile</td></tr>
 <tr><td colspan="14">Indicazioni supplementari</td></tr>
 <tr><td>35.</td><td colspan="6">Se del caso, categoria di rischio più rilevante in relazione alle infrazioni constatate:</td><td colspan="3">◻ Cat. I</td><td colspan="3">◻ Cat. II</td><td>◻ Cat. III</td></tr>
-<tr><td>36.</td><td>Sanzione per infrazioni constatate:</td><td colspan="4">◻ ammonimento</td><td colspan="6">◻) multa (OMD)</td><td colspan="2">◻ altro (denuncia)</td></tr>
+<tr><td>36.</td><td>Sanzione per infrazioni constatate:</td><td colspan="4">◻ ammonimento</td><td colspan="6">◻ multa (OMD)</td><td colspan="2">◻ altro (denuncia)</td></tr>
 <tr><td>37.</td><td>Fermato:</td><td colspan="4"></td><td colspan="6">◻ Sì</td><td colspan="2">◻ No</td></tr>
 <tr><td>38.</td><td colspan="13">Osservazioni:</td></tr>
 <tr><td>39.</td><td colspan="13">Ora/fine del controllo:</td></tr>
 <tr><td>40.</td><td colspan="13">Autorità di controllo/ispettore: (timbro, firma + sigla)</td></tr>
-<tr><td colspan="14"><sup>1</sup> Da compilare solo se pertinente ai fini di un’infrazione</td></tr>
-<tr><td colspan="14"><sup>2</sup> Da inserire alla voce «osservazioni» nel caso di servizi di trasporto groupage</td></tr>
-<tr><td colspan="14"><sup>3</sup> Verifica delle infrazioni visibili</td></tr>
+<tr><td colspan="14"><sup>1</sup> Da compilare solo se pertinente ai fini di un’infrazione <sup>2</sup> Da inserire alla voce «osservazioni» nel caso di servizi di trasporto groupage <sup>3</sup> Verifica delle infrazioni visibili</td></tr>
 </table>
