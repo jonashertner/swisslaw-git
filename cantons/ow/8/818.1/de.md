@@ -4,20 +4,22 @@ number: "818.1"
 title: Veterinärgesetz
 short: VetG
 language: de
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-12-02
+version: 2022-01-01
+valid_until: 2024-11-30
+version_adopted: 2021-06-25
 adopted: 2010-12-02
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/818.1"
-pdf: "http://gdb.ow.ch/api/de/versions/95/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1697/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Veterinärgesetz
 
-vom 02.12.2010 (Stand 01.01.2011)
+(VetG)
+
+vom 02.12.2010 (Stand 01.01.2022)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -281,41 +283,23 @@ beschliesst:
 
 <sup>2</sup> In anderen Kantonen rechtskräftig verfügte Massnahmen gelten auch im Kanton Obwalden.
 
-## 5. Tiergesundheitsberufe
+## 5. Tiergesundheitsberufe und Tierarzneimittel
 
 #### Art. 27
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Bestimmungen der Gesundheitsgesetzgebung[^27-1] zur Ausübung von Berufen im Bereich der Tierheilkunde werden vom Kantonstierarzt oder von der Kantonstierärztin vollzogen.
+<sup>1</sup> Für die Tiergesundheitsberufe und die Tierarzneimittel gelten die Bestimmungen der Gesundheitsgesetzgebung[^27-1]. Die betreffenden Aufgaben werden vom Kantonstierarzt bzw. der Kantonstierärztin wahrgenommen.
 
-<sup>2</sup> Der Regierungsrat kann in Ausführungsbestimmungen weitere Tiergesundheitsberufe als meldepflichtig erklären sowie deren Tätigkeitsgebiet und Verpflichtungen festlegen.
+<sup>2</sup> …
 
 [^27-1]: GDB [810.1](http://gdb.ow.ch/data/810.1/de), GDB [811.11](http://gdb.ow.ch/data/811.11/de)
 
-## 6. Tierarzneimittel
+## 6.
 
-#### Art. 28
+#### Art. 28–29
 
-**Allgemeine Bestimmungen**
-
-<sup>1</sup> Der Kantonstierarzt oder die Kantonstierärztin vollzieht die Bestimmungen über die Abgabe und Anwendung von Tierarzneimitteln nach der Gesundheitsgesetzgebung[^28-1] und erteilt insbesondere die Detailhandelsbewilligung.
-
-<sup>2</sup> Den Betreibern von Zoofachhandlungen und Imkereifachgeschäften können Detailhandelsbewilligungen erteilt werden, wenn die gesetzlichen Voraussetzungen hierfür erfüllt sind.
-
-<sup>3</sup> In begründeten Einzelfällen kann eine Detailhandelsbewilligung für bestimmte Arzneimittel, wie komplementärmedizinische Arzneimittel, weiteren Personen erteilt werden, die über eine angemessene Ausbildung verfügen.
-
-[^28-1]: GDB [810.1](http://gdb.ow.ch/data/810.1/de), GDB [814.21](http://gdb.ow.ch/data/814.21/de)
-
-#### Art. 29
-
-**Anwendung und Abgabe von Tierarzneimitteln**
-
-<sup>1</sup> Die Anwendung von buchführungspflichtigen Tierarzneimitteln ist Tierärzten und Tierärztinnen vorbehalten. Deren Abgabe darf nur durch Tierärzte und Tierärztinnen sowie Apotheker und Apothekerinnen auf tierärztliche Verschreibung erfolgen.
-
-<sup>2</sup> Übrigen Personen, die einen melde- oder bewilligungspflichtigen Beruf ausüben, ist lediglich die unmittelbare Anwendung nicht buchführungspflichtiger Tierarzneimittel erlaubt.
-
-<sup>3</sup> In begründeten Einzelfällen kann der Kantonstierarzt oder die Kantonstierärztin für Personen, die über eine angemessene Ausbildung verfügen, die Anwende- bzw. Abgabeberechtigung von Tierarzneimitteln erweitern.
+**…**
 
 ## 7. Finanzierung
 
@@ -469,5 +453,9 @@ beschliesst:
 **Informationen zum Erlass**
 
 Ursprüngliche Fundstelle: OGS 2010, 75 und OGS 2011, 3
+
+Geändert durch:
+
+\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
 
 OGS 2010, 75
