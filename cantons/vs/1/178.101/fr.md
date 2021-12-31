@@ -5,12 +5,12 @@ title: Règlement concernant la loi sur le notariat
 short: RLN
 language: fr
 version: 2022-01-01
-valid_until: 2022-12-31
+corrected: 2021-12-03
 version_adopted: 2021-12-01
 adopted: 2005-09-07
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/178.101"
-pdf: "https://lex.vs.ch/api/fr/versions/2992/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2967/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -44,7 +44,7 @@ arrête:
 <sup>2</sup> Il s'effectue:
 
 - a) pendant six mois au moins en l'étude d'un ou, successivement, de plusieurs notaires du canton;
-- b) sans rémunération, pendant 2 semaines au moins et 1 mois au plus dans un office du registre du commerce et 2 semaines au moins et 2 mois au plus dans un office du registre foncier.
+- b) sans rémunération, pendant un mois au plus dans un office du registre du commerce et deux mois au plus dans un office du registre foncier.
 
 <sup>3</sup> Le stage s'effectue en principe à plein temps. Le département dont relèvent les notaires (département) peut autoriser une réduction du temps de travail pour de justes motifs. Cette réduction ne doit pas excéder 20 pour cent. En cas de réduction du temps de travail, la durée minimum du stage est prolongée en proportion.
 
@@ -57,8 +57,6 @@ arrête:
 **Formation durant le stage a) En général**
 
 <sup>1</sup> Les maîtres de stage du service public et les notaires maîtres de stage se concertent entre eux afin de coordonner au mieux l'engagement et la formation des stagiaires.
-
-<sup>1<sup>bis</sup></sup> Sont habilités à former des stagiaires les notaires autorisés à exercer depuis 2 années consécutives.
 
 <sup>2</sup> Le notaire maître de stage ne peut se charger, simultanément, que de la formation de deux stagiaires au maximum.
 
@@ -269,7 +267,7 @@ arrête:
 
 **Délivrance du brevet**
 
-<sup>1</sup> L’émolument d’examen au sens de l’article 8 alinéa 3 comprend la délivrance du brevet.
+<sup>1</sup> La délivrance du brevet donne droit à la perception d'un émolument de 160 francs.
 
 ## 2 De la Chambre de surveillance
 
@@ -578,11 +576,5 @@ Le notaire dit au déclarant: "Vous jurez (ou vous promettez) que la déclaratio
 #### Art. T1-1
 
 <sup>1</sup> Le présent acte législatif produit ses effets la première fois pour tous les candidats inscrits à la session d'examen du printemps 2020.
-
-## T2 Disposition transitoire de la modification du 1<sup>er</sup> décembre 2021
-
-#### Art. T2-1
-
-<sup>1</sup> Les notaires qui, au 1<sup>er</sup> janvier 2022, forment des stagiaires, peuvent en achever la formation même s’ils ne remplissent pas la condition prévue par l'article 2 alinéa 1<sup>bis</sup> relative à la durée de pratique.
 
 RCV BO/Abl. 46/2005
