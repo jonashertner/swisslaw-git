@@ -3,11 +3,11 @@ sr: "0.632.316.821.1"
 title: Accord agricole du 17 décembre 2009 entre la Confédération suisse et la République de Serbie (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/606"
 language: fr
-version: 2017-02-01
+version: 2022-01-01
 adopted: 2009-12-17
 in_force: 2010-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/606/20170201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-606-20170201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/606/20170201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/606/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-606-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/606/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,24 +16,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/606/20170201/fr"
 
 RO **2010** 4159; FF **2010** 415
 
-Traduction*[^t-1]*
+Traduction
 
 Conclu le 17 décembre 2009
 
-Adopté par l’Assemblée fédérale le 15 mars 2010[^t-2]
+Adopté par l’Assemblée fédérale le 15 mars 2010[^t-1]
 
 Entré en vigueur le 1<sup>er</sup> octobre 2010
 
-(Etat le 1<sup>er</sup> février 2017)
+(Etat le 1<sup>er</sup> janvier 2022)
 
-[^t-1]: Texte original anglais.
-[^t-2]: Art. 1 al. 1 let. b de l’AF du 15 mars 2010 ([RO 2010 4135](https://fedlex.data.admin.ch/eli/oc/2010/604)).
+[^t-1]: Art. 1 al. 1 let. b de l’AF du 15 mars 2010 ([RO 2010 4135](https://fedlex.data.admin.ch/eli/oc/2010/604)).
 
 #### Art. 1
 
 **Portée et champ d’application**
 
-<sup>1.</sup> Le présent Accord concernant le commerce de produits agricoles entre la Confédération suisse (ci-après dénommée «la Suisse») et la République de Serbie (ci‑après dénommée «la Serbie») est conclu en complément à l’Accord de libre-échange entre les Etats de l’AELE et la Serbie[^1-1] (ci-après dénommé «l’Accord de libre-échange»), qui a été signé le 17 décembre 2009, en particulier en vertu de l’art. 6, al. 2 dudit Accord.
+<sup>1.</sup> Le présent Accord concernant le commerce de produits agricoles entre la Confédération suisse (ci-après dénommée «la Suisse») et la République de Serbie (ci‑après dénommée «la Serbie») est conclu en complément à l’Accord de libre-échange entre les États de l’AELE et la Serbie[^1-1] (ci-après dénommé «l’Accord de libre-échange»), qui a été signé le 17 décembre 2009, en particulier en vertu de l’art. 6, al. 2 dudit Accord.
 
 <sup>2.</sup> Le présent Accord s’applique également à la Principauté de Liechtenstein aussi longtemps que le traité d’union douanière du 29 mars 1923 entre la Suisse et la Principauté de Liechtenstein[^1-2] est en vigueur.
 
@@ -48,11 +47,14 @@ La Serbie octroie des concessions tarifaires aux produits agricoles originaires 
 
 #### Art. 3
 
-**Règles d’origine et procédures douanières**
+**Règles d’origine et coopération administrative**[^3-1]
 
-<sup>1.</sup> Les règles d’origine et les dispositions relatives à la coopération en matière douanière fixées dans le Protocole B de l’Accord de libre-échange s’appliquent au présent Accord, sous réserve des dispositions de l’al. 2. Toute référence aux «Etats de l’AELE» dans ce Protocole est réputée désigner la Suisse.
+<sup>1.</sup> Les droits et obligations des Parties relatifs aux règles d’origine et à la coopération administrative entre les autorités douanières des Parties sont régis par le protocole B de l’accord de libre-échange[^3-2].
 
-<sup>2.</sup> Aux fins du présent Accord, les art. 3 et 4 du Protocole B de l’Accord de libre-échange ne s’appliquent pas aux produits couverts par le présent Accord qui sont exportés d’un Etat de l’AELE dans un autre Etat de l’AELE.
+<sup>2.</sup> Toute référence aux «États de l’AELE» dans le Protocole B est réputée désigner la Suisse.
+
+[^3-1]: Nouvelle teneur selon l’Am. du 28 mai 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 25](https://fedlex.data.admin.ch/eli/oc/2022/25)).
+[^3-2]: [RS 0.632.316.821](https://fedlex.data.admin.ch/eli/cc/2010/605)
 
 #### Art. 4
 
@@ -64,7 +66,7 @@ Les Parties examinent toute difficulté susceptible de surgir dans leurs échang
 
 **Libéralisation supplémentaire des échanges**
 
-Les Parties s’engagent à poursuivre leurs efforts en vue d’une libéralisation progressive de leurs échanges de produits agricoles, tout en tenant compte de la structure de leurs relations commerciales dans ce domaine, de la sensibilité particulière de ces produits et du développement de leur politique agricole respective. A la demande de l’une des Parties, les Parties se consultent sur la façon d’atteindre cet objectif, y compris en améliorant l’accès au marché par la réduction ou la suppression des droits de douane sur les produits agricoles et en élargissant le champ d’application des produits agricoles couverts par le présent Accord.
+Les Parties s’engagent à poursuivre leurs efforts en vue d’une libéralisation progressive de leurs échanges de produits agricoles, tout en tenant compte de la structure de leurs relations commerciales dans ce domaine, de la sensibilité particulière de ces produits et du développement de leur politique agricole respective. À la demande de l’une des Parties, les Parties se consultent sur la façon d’atteindre cet objectif, y compris en améliorant l’accès au marché par la réduction ou la suppression des droits de douane sur les produits agricoles et en élargissant le champ d’application des produits agricoles couverts par le présent Accord.
 
 #### Art. 6
 

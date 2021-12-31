@@ -3,11 +3,11 @@ sr: "0.632.316.821.1"
 title: Landwirtschaftsabkommen vom 17. Dezember 2009 zwischen der Schweizerischen Eidgenossenschaft und der Republik Serbien (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/606"
 language: de
-version: 2017-02-01
+version: 2022-01-01
 adopted: 2009-12-17
 in_force: 2010-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/606/20170201/de/xml/fedlex-data-admin-ch-eli-cc-2010-606-20170201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/606/20170201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/606/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-606-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/606/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/606/20170201/de"
 
 AS **2010** 4159; BBl **2010** 479
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen am 17. Dezember 2009 Von der Bundesversammlung genehmigt am 15. März 2010[^t-2] In Kraft getreten am 1. Oktober 2010
+Abgeschlossen am 17. Dezember 2009 Von der Bundesversammlung genehmigt am 15. März 2010[^t-1] In Kraft getreten am 1. Oktober 2010
 
-(Stand am 1. Februar 2017)
+(Stand am 1. Januar 2022)
 
-[^t-1]: Übersetzung des englischen Originaltextes.
-[^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 15. März 2010 ([AS 2010 4135](https://fedlex.data.admin.ch/eli/oc/2010/604)).
+[^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 15. März 2010 ([AS 2010 4135](https://fedlex.data.admin.ch/eli/oc/2010/604)).
 
 #### Art. 1
 
@@ -44,11 +43,14 @@ Serbien gewährt Zollkonzessionen auf landwirtschaftliche Erzeugnisse schweizeri
 
 #### Art. 3
 
-**Ursprungsregeln und Zollverfahren**
+**Ursprungsregeln und administrative Zusammenarbeit**[^3-1]
 
-<sup>1.</sup> Die Ursprungsregeln und die Bestimmungen zur Zusammenarbeit in Zollangelegenheiten in Protokoll B des Freihandelsabkommens gelten für dieses Abkommen unter Vorbehalt der Ausnahme nach Absatz 2. Jeder Verweis auf «EFTA-Staaten» in diesem Protokoll ist als Verweis auf die Schweiz zu verstehen.
+<sup>1.</sup> Die Rechte und Pflichten der Vertragsparteien in Bezug auf die Ursprungsregeln und die administrative Zusammenarbeit zwischen den Zollbehörden der Vertragsparteien richten sich nach Protokoll B des Freihandelsabkommens[^3-2].
 
-<sup>2.</sup> Für den Zweck dieses Abkommens gelten Artikel 3 und 4 von Protokoll B des Freihandelsabkommens nicht für unter dieses Abkommen fallende Erzeugnisse, die von einem EFTA-Staat in einen anderen ausgeführt werden.
+<sup>2.</sup> Jeder Verweis auf «EFTA-Staaten» im Protokoll B ist als Verweis auf die Schweiz zu verstehen.
+
+[^3-1]: Fassung gemäss Änd. vom 28. Mai 2021, in Kraft getreten für die Schweiz am 1. Jan. 2022 ([AS 2022 25](https://fedlex.data.admin.ch/eli/oc/2022/25)).
+[^3-2]: [SR 0.632.316.821](https://fedlex.data.admin.ch/eli/cc/2010/605)
 
 #### Art. 4
 
@@ -84,7 +86,7 @@ Die Bestimmungen zum territorialen Anwendungsbereich (Art. 3), zu zentralen, reg
 
 Dieses Abkommen tritt zum selben Zeitpunkt in Kraft oder wird zum selben Zeitpunkt vorläufig angewendet, wie das Freihandelsabkommen zwischen der Schweiz und Serbien in Kraft tritt oder vorläufig angewendet wird. Dieses Abkommen bleibt so lange in Kraft, wie das Freihandelsabkommen zwischen ihnen in Kraft bleibt.
 
-*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichnenden dieses Abkommen unterzeichnet. Geschehen zu Genf, am 17. Dezember 2009, in zwei Originalausfertigungen. Für die Schweizerische Eidgenossenschaft: Für die Republik Serbien: Doris Leuthard Mladan Dinkić
+*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichnenden dieses Abkommen unterzeichnet. Geschehen zu Genf, am 17. Dezember 2009, in zwei Originalausfertigungen. Für die Schweizerische Eidgenossenschaft: Doris Leuthard Für die Republik Serbien: Mladan Dinkić
 
 Anhang 1
 

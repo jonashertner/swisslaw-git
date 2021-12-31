@@ -3,11 +3,11 @@ sr: "0.632.316.821.1"
 title: Accordo agricolo del 17 dicembre 2009 tra la Confederazione Svizzera e la Repubblica di Serbia (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/606"
 language: it
-version: 2017-02-01
+version: 2022-01-01
 adopted: 2009-12-17
 in_force: 2010-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/606/20170201/it/xml/fedlex-data-admin-ch-eli-cc-2010-606-20170201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/606/20170201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/606/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-606-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/606/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/606/20170201/it"
 
 RU **2010** 4159; FF **2010** 393
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso a Ginevra il 17 dicembre 2009 Approvato dall’Assemblea federale il 15 marzo 2010[^t-2] Entrato in vigore per la Svizzera il 1° ottobre 2010
+Concluso a Ginevra il 17 dicembre 2009 Approvato dall’Assemblea federale il 15 marzo 2010[^t-1] Entrato in vigore per la Svizzera il 1° ottobre 2010
 
-(Stato 1° febbraio 2017)
+(Stato 1° gennaio 2022)
 
-[^t-1]: Dal testo originale inglese.
-[^t-2]: Art. 1 cpv. 1 lett. b del DF del 15 mar. 2010 ([RU 2010 4135](https://fedlex.data.admin.ch/eli/oc/2010/604)).
+[^t-1]: Art. 1 cpv. 1 lett. b del DF del 15 mar. 2010 ([RU 2010 4135](https://fedlex.data.admin.ch/eli/oc/2010/604)).
 
 #### Art. 1
 
@@ -44,11 +43,14 @@ La Serbia accorda concessioni tariffarie per i prodotti agricoli originari della
 
 #### Art. 3
 
-**Regole d’origine e procedure doganali**
+**[Regole di origine e cooperazione amministrativa](https://www.admin.ch/opc/it/classified-compilation/20112326/index.html)**[^3-1]
 
-<sup>1.</sup> Le regole d’origine e le disposizioni sulla cooperazione in ambito doganale specificate nel Protocollo B dell’Accordo di libero scambio si applicano al presente Accordo, fatte salve le disposizioni di cui al paragrafo 2. In tale Protocollo, ogni riferimento agli «Stati dell’AELS» va inteso come riferito alla Svizzera.
+<sup>1.</sup> I diritti e gli obblighi delle Parti contraenti in relazione alle regole d’origine e alla cooperazione amministrativa tra le autorità doganali delle Parti contraenti sono disciplinati dal Protocollo B dell’Accordo di libero scambio[^3-2].
 
-<sup>2.</sup> Ai fini del presente Accordo, gli articoli 3 e 4 del Protocollo B dell’Accordo di libero scambio non si applicano a prodotti coperti dal presente Accordo che sono esportati da uno Stato dell’AELS all’altro.
+<sup>2.</sup> Nel Protocollo B, ogni riferimento agli «Stati dell’AELS» va inteso come riferito alla Svizzera.
+
+[^3-1]: Nuovo testo giusta l’emendamento del 28 mag. 2021, in vigore per la Svizzera dal 1° gen. 2022 ([RU 2022 25](https://fedlex.data.admin.ch/eli/oc/2022/25)).
+[^3-2]: [RS 0.632.316.821](https://fedlex.data.admin.ch/eli/cc/2010/605)
 
 #### Art. 4
 
