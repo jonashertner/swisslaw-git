@@ -4,13 +4,13 @@ number: "150.11"
 title: Verordnung zum Personalgesetz
 short: Personalverordnung
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-23
+version: 2022-01-01
+valid_until: 2023-07-31
+version_adopted: 2021-12-14
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.11"
-pdf: "https://bl.clex.ch/api/de/versions/3135/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3654/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3135/pdf_file"
 
 (Personalverordnung)
 
-Vom 19.12.2000 (Stand 01.08.2021)
+Vom 19.12.2000 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -130,7 +130,7 @@ beschliesst:
 
 <sup>1</sup> Der Mitarbeiterin und dem Mitarbeiter, den jeweiligen Vorgesetzten und der Anstellungsbehörde sowie dem Personalamt steht das Akteneinsichtsrecht zu.
 
-<sup>2</sup> Im Bereich der Lehrpersonen haben das Amt für Volksschulen für den Volksschulbereich, das Amt für Berufsbildung und Berufsberatung für den Berufsschulbereich und der Personaldienst der Bildungs-, Kultur- und Sportdirektion sowie das Personalamt in sämtliche Personalakten Einsicht.
+<sup>2</sup> Im Bereich der Lehrpersonen haben das Amt für Volksschulen für den Volksschulbereich, die Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) für den Berufsschulbereich und die Personalabteilung der Bildungs-, Kultur- und Sportdirektion sowie das Personalamt in sämtliche Personalakten Einsicht.
 
 #### § 8a
 
@@ -751,9 +751,9 @@ beschliesst:
   - 2\. Eintragungen der Partnerschaft in eigener Familie: 1 Arbeitstag;
 - b. ...
 - c. private Absenzen:
-  - 1\. für die notwendige Betreuung von eigenen Kindern und von im gleichen Haushalt lebenden Personen: maximal 3 Arbeitstage pro Fall, maximal aber 5 Arbeitstage pro Kalenderjahr;
-  - 2\. effektiv benötigte Zeit, maximal aber 1/2 Arbeitstag pro Besuch bei der erforderlichen Begleitung eigener Kinder oder einer im selben Haushalt lebenden Person zur Ärztin oder zum Arzt;
-  - 3\. effektiv benötigte Zeit, maximal aber je 1/2 Arbeitstag bei Begleitung der eigenen Kinder am 1. Tag des Kindergartens und am 1. Schultag der Primarschule.
+  - 1\. für die notwendige Betreuung von Familienangehörigen oder von im gleichen Haushalt lebenden Personen: maximal 5 Arbeitstage pro Fall, maximal aber 10 Arbeitstage pro Kalenderjahr;
+  - 2\. für die notwendige Begleitung von Familienangehörigen oder von im gleichen Haushalt lebenden Personen zur Ärztin bzw. zum Arzt: effektiv benötigte Zeit, maximal aber ein halber Arbeitstag pro Besuch;
+  - 3\. für die Begleitung der eigenen Kinder am 1. Tag des Kindergartens und am 1. Schultag der Primarschule: effektiv benötigte Zeit, maximal aber ein halber Arbeitstag.
 - d. Todesfall / Beerdigung: Todesfall in der eigenen Familie oder Tod einer im gleichen Haushalt lebenden Person: maximal 3 Arbeitstage;
 - e. Beerdigung: bei einer gebotenen Teilnahme die effektiv benötigte Zeit, maximal aber 1 Arbeitstag;
 - f. eigener Wohnungswechsel: effektiv benötigte Zeit, maximal aber 1 Arbeitstag;
@@ -765,6 +765,8 @@ beschliesst:
 <sup>2</sup> Soweit das Ereignis gemäss Abs. 1 Bst. a–i in die Ferien, auf Frei- oder Feiertage fällt, besteht kein Anspruch auf Nachholung des Urlaubs. Der Kurzurlaub gemäss Bst. k ist innerhalb 1 Jahres nachholbar.
 
 <sup>3</sup> Für Bewilligungen dieser Kurzurlaube sind die direkten Vorgesetzten und bei Lehrpersonen die Schulleitungen zuständig.
+
+<sup>4</sup> Als eigene Familie bzw. Familienangehörige gelten die eigenen Kinder, die Ehegattin bzw. der Ehegatte, die eingetragene Partnerin bzw. der eingetragene Partner, die Person, mit welcher eine Lebensgemeinschaft geführt wird, die Eltern, die Schwiegereltern, die Grosseltern, die Geschwister sowie die Kinder der Ehegattin bzw. des Ehegatten, der eingetragenen Partnerin bzw. des eingetragenen Partners und der Person, mit welcher eine Lebensgemeinschaft geführt wird.
 
 [^48-1]: [SGS 150.1](https://bl.clex.ch/data/150.1/de/art46)
 
@@ -889,7 +891,7 @@ beschliesst:
 - a. Gemeinderat:
   - 1\. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion,
   - 2\. die Leiterin oder der Leiter der Stabsstelle Gemeinden,
-  - 3\. die Vorsteherin oder der Vorsteher des Statistischen Amts,
+  - 3\. die Vorsteherin oder der Vorsteher des Amts für Daten und Statistik,
   - 4\. die Leiterin oder der Leiter der Abteilung Gemeinderechnungswesen;
 - b. Schulräte der Volksschulen:
   - 1\. die Generalsekretärin oder der Generalsekretär der Bildungs-, Kultur- und Sportdirektion,
@@ -906,7 +908,7 @@ beschliesst:
   - 3\. die Leiterinnen und Leiter der Bauabteilungen;
 - f. Rechnungsprüfungskommission:
   - 1\. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion,
-  - 2\. die Vorsteherin oder der Vorsteher des Statistischen Amts,
+  - 2\. die Vorsteherin oder der Vorsteher des Amts für Daten und Statistik,
   - 3\. die Leiterin oder der Leiter der Abteilung Gemeinderechnungswesen;
 - g. Geschäftsprüfungskommission:
   - 1\. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion,
