@@ -4,11 +4,11 @@ title: "Ordinanza del 18 agosto 2004 sui medicamenti per uso veterinario (Ordina
 short: OMvet
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: it
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20200701/it"
 
 (Ordinanza sui medicamenti veterinari, OMVet)
 
-del 18 agosto 2004 (Stato 1° luglio 2020) (Stato 1° luglio 2020)
+del 18 agosto 2004 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -519,11 +519,21 @@ I detentori di animali da reddito, che trasferiscono in un’altra azienda un an
 
 <sup>2</sup> Se tale conferma non può essere rilasciata, occorre consegnare una copia del giornale dei trattamenti e indicarvi per scritto il tipo di malattia o ferita.
 
-<sup>3</sup> Queste indicazioni devono figurare, nel caso di animali ad unghia fessa, nel Queste indicazioni devono figurare, nel caso di animali ad unghia fessa, nel certificato d’accompagnamento di cui all’articolo 12 dell’ordinanza del 27 giugno 1995[^23-1] sulle epizoozie e, nel caso di equidi considerati animali da reddito, nel passaporto per equide. Per gli equidi macellati prima del 31 dicembre del rispettivo anno di nascita, queste indicazioni vanno riportate nell’attestato di registrazione di cui all’articolo 22 capoverso 2 dell’ordinanza del 26 ottobre 2011[^23-2] concernente la banca dati sul traffico di animali (BDTA).[^23-3]
+<sup>3</sup>
+
+Queste indicazioni devono figurare:
+
+- a. nel caso di animali ad unghia fessa: nel certificato d’accompagnamento di cui all’articolo 12 dell’ordinanza del 27 giugno 1995[^23-1] sulle epizoozie;
+- b.
+
+  nel caso di equidi considerati animali da reddito:
+
+  - 1\. nel passaporto per equide,
+  - 2\. nell’attestato di registrazione di cui all’articolo 27 capoverso 2 dell’ordinanza del 3 novembre 2021[^23-2] concernente Identitas AG e la banca dati sul traffico di animali, se l’equide è macellato prima del 31 dicembre dell’anno di nascita.[^23-3]
 
 [^23-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^23-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^23-3]: Nuovo testo giusta l’all. 2 n. II 1 dell’O BDTA del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775)).
+[^23-3]: Nuovo testo giusta l’all. 3 n. II 3 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 24
 

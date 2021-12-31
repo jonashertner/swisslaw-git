@@ -4,11 +4,11 @@ title: Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV)
 short: OMédv
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: fr
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20200701/fr"
 
 (OMédV)
 
-du 18 août 2004 (Etat le 1<sup>er</sup> juillet 2020)
+du 18 août 2004 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -520,11 +520,21 @@ Les détenteurs qui déplacent dans une autre exploitation un animal domestiqué
 
 <sup>2</sup> Si une telle confirmation ne peut être établie, il y a lieu de joindre une copie du journal des traitements et d’y consigner la maladie ou la blessure dont il s’agit.
 
-<sup>3</sup> S’agissant des animaux à onglons, ces données doivent être consignées dans le document d’accompagnement au sens de l’art. 12 de l’ordonnance du 27 juin 1995 sur les épizooties[^23-1]; s’agissant des équidés, considérés comme animaux de rente, elles doivent être consignées dans le passeport équin. Pour les équidés qui sont abattus avant le 31 décembre de leur année de naissance, ces indications doivent figurer dans la confirmation d’enregistrement visée à l’art. 22, al. 2, de l’ordonnance du 26 octobre 2011 relative à la banque de données sur le trafic des animaux (BDTA)[^23-2].[^23-3]
+<sup>3</sup>
+
+Ces données doivent être consignées comme suit:
+
+- a. pour les animaux à onglons: dans le document d’accompagnement au sens de l’art. 12 de l’ordonnance du 27 juin 1995 sur les épizooties[^23-1];
+- b.
+
+  pour les équidés considérés comme animaux de rente:
+
+  - 1\. dans le passeport équin,
+  - 2\. dans la confirmation d’enregistrement visée à l’art. 27, al. 2, de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux[^23-2] pour les équidés qui sont abattus avant le 31 décembre de leur année de naissance.[^23-3]
 
 [^23-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^23-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^23-3]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’O du 26 oct. 2011 relative à la BDTA, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775)).
+[^23-3]: Nouvelle teneur selon l’annexe 3 ch. II 3 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 24
 
@@ -823,7 +833,7 @@ Annexe 1*[^t-1]*
 
 ## Conditions préalables à la remise de médicaments vétérinaires dans le cadre d’une convention Médvét
 
-[^t-1]: Mise à jour selon le ch. II de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^t-1]: Mise à jour par le ch. II de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 ### 1 Critères d’évaluation
 
@@ -1088,7 +1098,7 @@ Annexe 4*[^t-3]*
 
 ## Substances et préparations dont l’administration aux animaux de rente est interdite
 
-[^t-3]: Introduite par l’annexe 2 ch. II 1 de l’O du 23 nov. 2005 sur les denrées alimentaires et les objets usuels ([RO 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)). Mise à jour selon le ch. II de l’O du 11 mars 2016, ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)) et l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
+[^t-3]: Introduite par l’annexe 2 ch. II 1 de l’O du 23 nov. 2005 sur les denrées alimentaires et les objets usuels ([RO 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)). Mise à jour par le ch. II de l’O du 11 mars 2016, ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)) et l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 
 Il est interdit d’administrer aux animaux de rente les substances et les préparations suivantes:
 

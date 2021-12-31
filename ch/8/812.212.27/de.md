@@ -4,11 +4,11 @@ title: "Verordnung vom 18. August 2004 über die Tierarzneimittel (Tierarzneimit
 short: TAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: de
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20200701/de"
 
 (Tierarzneimittelverordnung, TAMV)
 
-vom 18. August 2004 (Stand am 1. Juli 2020)
+vom 18. August 2004 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -26,7 +26,7 @@ gestützt auf die Artikel 5 Absatz 2 Buchstabe b, 42 Absatz 3, 44 und 82 Absatz 
 verordnet:
 
 [^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das Lebensmittelgesetz vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^ingress-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das Lebensmittelgesetz vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -72,7 +72,7 @@ Im Sinne dieser Verordnung gelten als:
   - 1\. Tiere von Arten, die nicht für die Lebensmittelproduktion zugelassen sind,
   - 2\. Tiere der folgenden Arten, wenn sie nicht der Lebensmittelgewinnung dienen werden, sondern aus Interesse am Tier oder als Gefährte im Haushalt gehalten werden oder für eine solche Haltung vorgesehen sind: Equiden, Hausgeflügel, Hauskaninchen, in Gehegen gehaltenes Wild, Frösche, Zuchtreptilien, Fische, Krebstiere, Weichtiere und Stachelhäuter;
 
-- c.[^3-3] ...
+- c.[^3-3] …
 - d.[^3-4]
 
   *orale Gruppentherapie:* Behandlung einer Tiergruppe mit einer Arzneimittel-Vormischung über das Futter oder mit einem Fütterungsarzneimittel. Als Richtwert für eine Gruppe gilt:
@@ -199,7 +199,7 @@ Eine Medizinalperson darf verwendungsfertige Arzneimittel für Tiere, die in der
 
 <sup>3</sup> Abgabeberechtigt sind auch die kantonalen Bieneninspektorate.
 
-<sup>4</sup> Das Institut legt die Arzneimittel fest, die abgegeben werden dürfen. ...[^9-4]
+<sup>4</sup> Das Institut legt die Arzneimittel fest, die abgegeben werden dürfen. …[^9-4]
 
 [^9-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^9-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
@@ -287,7 +287,7 @@ Besteht eine TAM-Vereinbarung, so darf die Tierärztin oder der Tierarzt für ei
 Für Nutztiere dürfen nur Arzneimittel umgewidmet werden:
 
 - a.[^12-2] die ausschliesslich Wirkstoffe enthalten, für die das EDI gestützt auf Artikel 10 Absatz 4 Buchstabe e LGV[^12-3] eine zulässige Höchstkonzentration für Rückstände pharmakologisch wirksamer Stoffe festgelegt oder eine Festlegung von Höchstkonzentrationen nicht für erforderlich erachtet hat; oder
-- b.[^12-4] ...
+- b.[^12-4] …
 - c. deren Wirkstoffe, im Falle von homöopathischen und anthroposophischen Arzneimitteln, in einer Potenzierung von D6 oder höher vorliegen.
 
 <sup>2</sup> Verbotene Stoffe und Zubereitungen (Art. 10*c*) sind von einer Umwidmung ausgeschlossen.
@@ -522,11 +522,21 @@ Nutztierhalterinnen und Nutztierhalter, die ein domestiziertes Tier der zoologis
 
 <sup>2</sup> Kann die Bestätigung nicht ausgestellt werden, so ist eine Kopie des Behandlungsjournals abzugeben und darauf festzuhalten, um welche Krankheit oder Verletzung es sich handelt.
 
-<sup>3</sup> Diese Angaben sind für Klauentiere im Begleitdokument nach Artikel 12 der Tierseuchenverordnung vom 27. Juni 1995[^23-1] zu machen und für Equiden, die als Nutztiere gelten, im Equidenpass. Bei Equiden, die vor dem 31. Dezember ihres Geburtsjahres geschlachtet werden, sind diese Angaben in der Aufnahmebestätigung nach Artikel 22 Absatz 2 der Verordnung vom 26. Oktober 2011[^23-2] über die Tierverkehrsdatenbank (TVD-Verordnung) zu machen.[^23-3]
+<sup>3</sup>
+
+Diese Angaben sind wie folgt zu machen:
+
+- a. für Klauentiere: im Begleitdokument nach Artikel 12 der Tierseuchenverordnung vom 27. Juni 1995[^23-1];
+- b.
+
+  für Equiden, die als Nutztiere gelten:
+
+  - 1\. im Equidenpass,
+  - 2\. in der Aufnahmebestätigung nach Artikel 27 Absatz 2 der Verordnung vom 3. November 2021[^23-2] über die Identitas AG und die Tierverkehrsdatenbank für Equiden, die vor dem 31. Dezember ihres Geburtsjahres geschlachtet werden.[^23-3]
 
 [^23-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^23-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^23-3]: Fassung gemäss Anhang 2 Ziff. II 1 der TVD-Verordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775)).
+[^23-3]: Fassung gemäss Anhang 3 Ziff. II 3 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 24
 
@@ -536,7 +546,7 @@ Nutztierhalterinnen und Nutztierhalter, die ein domestiziertes Tier der zoologis
 
 <sup>2</sup> Milch, die vor Ablauf der Absetzfrist gewonnen wird, darf als Futtermittel für Nutztiere verwendet werden. Jede Verwendung ist bei den getränkten Tieren wie ein Arzneimitteleinsatz zu dokumentieren. Es sind die Absetzfristen einzuhalten, die für das entsprechende Arzneimittel gelten.
 
-[^24-1]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: die V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^24-1]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: die V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 [^24-2]: Fassung gemäss Anhang 2 Ziff. II 1 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
 
 ## 4. Kapitel: Buchführungs- und Aufzeichnungspflicht
@@ -727,7 +737,7 @@ Auf Verlangen des BLV haben zur Verfügung zu stellen:
 - b. fachtechnisch verantwortliche Tierärztinnen und Tierärzte, die Fütterungsarzneimittel oder Arzneimittel-Vormischungen verschreiben: die Angaben, die sie im elektronischen Rezeptformular festgehalten haben;
 - c. Behörden und Organisationen: die Daten, die für den Vollzug dieser Verordnung erforderlich sind.
 
-<sup>2</sup> ...[^35-2]
+<sup>2</sup> …[^35-2]
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^35-2]: Aufgehoben durch Art. 20 Ziff. 1 der V vom 31. Okt. 2018 über das Informationssystem Antibiotika in der Veterinärmedizin, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
@@ -770,11 +780,11 @@ Das EDI passt den Anhang 2 und, in Absprache mit dem Eidgenössischen Departemen
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> ...[^39-1]
+<sup>1</sup> …[^39-1]
 
 <sup>2</sup> Die Kontrollorgane haben die Anforderungen nach Artikel 34 bis spätestens fünf Jahre nach Inkrafttreten dieser Verordnung zu erfüllen.
 
-<sup>3</sup> ...[^39-2]
+<sup>3</sup> …[^39-2]
 
 <sup>4</sup> Arzneimittel-Vormischungen, deren Arzneimittelinformation keine Angaben über die Eignung der Mischung im vorgesehenen Verarbeitungsprozess enthalten (Art. 19 Bst. c), dürfen bis 1. Januar 2007 verwendet werden.
 
@@ -1080,7 +1090,7 @@ Anhang 3
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Die Änderungen können unter [AS 2004 4057](https://fedlex.data.admin.ch/eli/oc/2004/592)konsultiert werden.
 
