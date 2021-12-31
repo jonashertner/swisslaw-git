@@ -4,11 +4,11 @@ title: "Ordinanza generale sugli emolumenti dell' 8 settembre 2004 (OgeEm)"
 short: OgeEm
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/677"
 language: it
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2004-09-08
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/677/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2004-677-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/677/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/677/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-677-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/677/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/677/20130101/it"
 
 (OgeEm)
 
-dell’8 settembre 2004 (Stato 1° gennaio 2013) (Stato 1° gennaio 2013)
+dell’8 settembre 2004 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -35,9 +35,11 @@ ordina:
 
 <sup>2</sup> La riscossione di emolumenti per le decisioni e le prestazioni del Consiglio federale si conforma alla presente ordinanza.
 
-<sup>3</sup> La presente ordinanza non si applica alle prestazioni commerciali accessorie effettuate dalle unità organizzative in concorrenza con privati.
+<sup>3</sup> La presente ordinanza non si applica alle prestazioni commerciali accessorie effettuate dalle unità amministrative in concorrenza con privati.[^1-1]
 
 <sup>4</sup> Sono fatte salve le normative di diritto speciale. Possono essere emanate deroghe per quanto siano necessarie a un ambito amministrativo.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 711](https://fedlex.data.admin.ch/eli/oc/2021/711)).
 
 #### Art. 2
 
@@ -49,22 +51,26 @@ ordina:
 
 #### Art. 3
 
-**Rinuncia alla riscossione degli emolumenti**
+**Nessuna riscossione di emolumenti**[^3-1]
 
-<sup>1</sup> L’Amministrazione federale non riscuote emolumenti dagli organi intercantonali, dai Cantoni e dai Comuni per quanto gli stessi concedano il diritto di reciprocità.
-
-<sup>2</sup>
+<sup>1</sup>
 
 È possibile rinunciare alla riscossione degli emolumenti se:
 
 - a. vi è un interesse pubblico preponderante per la decisione o la prestazione; oppure
 - b. si tratta di decisioni o prestazioni che comportano un dispendio irrilevante, segnatamente di semplici informazioni.
 
+<sup>2</sup> L’Amministrazione federale non riscuote emolumenti dagli organi intercantonali, dai Cantoni e dai Comuni per quanto gli stessi concedano il diritto di reciprocità.
+
+<sup>3</sup> Le unità dell’Amministrazione federale centrale non si fatturano reciprocamente emolumenti.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 711](https://fedlex.data.admin.ch/eli/oc/2021/711)).
+
 #### Art. 4
 
-**Base di calcolo degli emolumenti**
+**Base di calcolo per i disciplinamenti degli emolumenti[^4-1]**
 
-<sup>1</sup> Gli emolumenti vengono calcolati in modo che il provento totale dei medesimi non ecceda i costi complessivi di un’unità amministrativa.
+<sup>1</sup> Il calcolo degli emolumenti è disciplinato in modo che il provento totale dei medesimi non ecceda i costi complessivi di un’unità amministrativa.[^4-2]
 
 <sup>2</sup>
 
@@ -77,15 +83,28 @@ I costi complessivi si compongono:
 
 <sup>3</sup> L’amministrazione federale delle finanze (AFF) calcola ogni anno i costi diretti di personale e di posti di lavoro dell’Amministrazione federale.
 
+[^4-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 711](https://fedlex.data.admin.ch/eli/oc/2021/711)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 711](https://fedlex.data.admin.ch/eli/oc/2021/711)).
+
 #### Art. 5
 
-**Determinazione delle aliquote degli emolumenti**
+**Aliquote nei disciplinamenti degli emolumenti[^5-1]**
 
 <sup>1</sup> Le aliquote degli emolumenti sono stabilite secondo il dispendio di tempo o forfetariamente.
 
 <sup>2</sup> Per la determinazione delle aliquote degli emolumenti vengono presi in considerazione l’interesse pubblico e l’interesse o il tornaconto della persona tenuta a pagarli.
 
 <sup>3</sup> Per le decisioni e le prestazioni di eccezionale entità, particolare difficoltà o urgenza può essere previsto un supplemento di diritto speciale all’aliquota ordinaria dell’emolumento.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 711](https://fedlex.data.admin.ch/eli/oc/2021/711)).
+
+#### Art. 5a
+
+**Consultazione della Sorveglianza dei prezzi nei disciplinamenti degli emolumenti**[^5a-1]
+
+Quando prepara proposte volte a emanare o modificare disciplinamenti degli emolumenti, l’unità amministrativa responsabile invita la Sorveglianza dei prezzi a esprimere un parere entro un congruo termine.
+
+[^5a-1]: Introdotto dal n. I dell’O del 24 nov. 2022, in vigore dal 1° gen. 2021 ([RU 2021 711](https://fedlex.data.admin.ch/eli/oc/2021/711)).
 
 #### Art. 6
 
@@ -156,9 +175,14 @@ L’emolumento è esigibile:
 
 <sup>2</sup> Il termine di pagamento è di trenta giorni a decorrere dall’inizio dell’esigibilità. In casi speciali l’unità amministrativa può prorogare il termine di pagamento.
 
-<sup>3</sup> Trascorso infruttuoso il termine di pagamento, l’unità amministrativa concede alla persona tenuta a pagare l’emolumento, di massima mediante lettera raccomandata, un termine supplementare di 20 giorni, con l’indicazione che alla scadenza di siffatto termine supplementare l’AFF è incaricata della riscossione del credito.
+<sup>3</sup> Trascorso infruttuosamente il termine di pagamento, l’unità amministrativa concede alla persona tenuta a pagare l’emolumento, per scritto o in un’altra forma che consenta la prova per testo, un termine supplementare di 20 giorni. L’unità amministrativa indica alla persona tenuta a pagare l’emolumento che alla scadenza di tale termine l’AFF è incaricata della riscossione del credito.[^12-1]
 
 <sup>4</sup> Con la fissazione del termine supplementare la persona tenuta a pagare l’emolumento è costituita in mora. L’interesse di mora è del 5 per cento.
+
+<sup>5</sup> Per la fissazione del termine supplementare è possibile prevedere nel disciplinamento degli emolumenti la riscossione di emolumenti per i solleciti. Il loro importo è determinato in base al tempo supplementare impiegato e alle spese di trasmissione.[^12-2]
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2022, in vigore dal 1° gen. 2021 ([RU 2021 711](https://fedlex.data.admin.ch/eli/oc/2021/711)).
+[^12-2]: Introdotto dal n. I dell’O del 24 nov. 2022, in vigore dal 1° gen. 2021 ([RU 2021 711](https://fedlex.data.admin.ch/eli/oc/2021/711)).
 
 #### Art. 13
 

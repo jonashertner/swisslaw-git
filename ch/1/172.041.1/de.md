@@ -4,20 +4,20 @@ title: Allgemeine Gebührenverordnung vom 8. September 2004 (AllgGebV)
 short: AllgGebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/677"
 language: de
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2004-09-08
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/677/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2004-677-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/677/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/677/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-677-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/677/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Allgemeine Gebührenverordnung
 
-(AllgGebV)**[^t-1]**
+(AllgGebV)[^t-1]
 
-vom 8. September 2004 (Stand am 1. Januar 2013)
+vom 8. September 2004 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Anhang Ziff. 1 der Gebührenverordnung SBFI vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
 
@@ -51,22 +51,26 @@ verordnet:
 
 #### Art. 3
 
-**Verzicht auf Gebührenerhebung**
+**Keine Gebührenerhebung**[^3-1]
 
-<sup>1</sup> Die Bundesverwaltung erhebt keine Gebühren von interkantonalen Organen, Kantonen und Gemeinden, soweit diese Gegenrecht gewähren.
-
-<sup>2</sup>
+<sup>1</sup>
 
 Auf die Gebührenerhebung kann verzichtet werden, wenn:
 
 - a. ein überwiegendes öffentliches Interesse an der Verfügung oder Dienstleistung besteht; oder
 - b. es sich um Verfügungen oder Dienstleistungen mit geringem Aufwand, insbesondere um einfache Auskünfte, handelt.
 
+<sup>2</sup> Die Bundesverwaltung erhebt keine Gebühren von interkantonalen Organen, Kantonen und Gemeinden, soweit diese Gegenrecht gewähren.
+
+<sup>3</sup> Einheiten der zentralen Bundesverwaltung stellen untereinander keine Gebühren in Rechnung.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
+
 #### Art. 4
 
-**Bemessungsgrundlage**
+**Bemessungsgrundlagen für Gebührenregelungen[^4-1]**
 
-<sup>1</sup> Gebühren werden so bemessen, dass der Gesamtertrag der Gebühren die Gesamtkosten einer Verwaltungseinheit nicht übersteigt.
+<sup>1</sup> Die Gebührenbemessung wird so geregelt, dass der Gesamtertrag der Gebühren die Gesamtkosten einer Verwaltungseinheit nicht übersteigt.[^4-2]
 
 <sup>2</sup>
 
@@ -79,15 +83,28 @@ Die Gesamtkosten setzen sich zusammen aus:
 
 <sup>3</sup> Die Eidgenössische Finanzverwaltung (EFV) berechnet jährlich die direkten Personal- und Arbeitsplatzkosten der Bundesverwaltung.
 
+[^4-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
+
 #### Art. 5
 
-**Festlegung der Gebührenansätze**
+**Gebührenansätze in Gebührenregelungen[^5-1]**
 
 <sup>1</sup> Die Gebührenansätze werden nach Zeitaufwand oder pauschal festgelegt.
 
 <sup>2</sup> Bei der Festlegung der Höhe der Gebührenansätze werden das öffentliche Interesse und das Interesse oder der Nutzen der gebührenpflichtigen Person berücksichtigt.
 
 <sup>3</sup> Für Verfügungen und Dienstleistungen von aussergewöhnlichem Umfang, besonderer Schwierigkeit oder Dringlichkeit kann ein spezialrechtlicher Zuschlag zum ordentlichen Gebührenansatz vorgesehen werden.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
+
+#### Art. 5a
+
+**Konsultation der Preisüberwachung zu Gebührenregelungen**[^5a-1]
+
+Bei der Vorbereitung von Anträgen zum Erlass oder zur Änderung von Gebührenregelungen lädt die federführende Verwaltungseinheit die Preisüberwachung unter Ansetzung angemessener Fristen zur Stellungnahme ein.
+
+[^5a-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
 
 #### Art. 6
 
@@ -158,9 +175,14 @@ Die Gebühr wird fällig:
 
 <sup>2</sup> Die Zahlungsfrist beträgt 30 Tage ab Fälligkeit. Die Verwaltungseinheit kann in besonderen Fällen die Zahlungsfrist verlängern.
 
-<sup>3</sup> Nach Ablauf der Zahlungsfrist setzt die Verwaltungseinheit der gebührenpflichtigen Person in der Regel mit eingeschriebenem Brief eine Nachfrist von 20 Tagen und weist sie darauf hin, dass nach Ablauf dieser Nachfrist die EFV mit dem Eintreiben der Forderung beauftragt wird.
+<sup>3</sup> Nach Ablauf der Zahlungsfrist setzt die Verwaltungseinheit der gebührenpflichtigen Person schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, eine Nachfrist von 20 Tagen. Sie weist die gebührenpflichtige Person darauf hin, dass nach Ablauf der Nachfrist die EFV mit dem Eintreiben der Forderung beauftragt wird.[^12-1]
 
 <sup>4</sup> Mit dem Ansetzen der Nachfrist wird die gebührenpflichtige Person in Verzug gesetzt. Der Verzugszins beträgt fünf Prozent.
+
+<sup>5</sup> Für die Nachfristansetzung kann in der Gebührenregelung eine Mahngebühr vorgesehen werden. Deren Höhe bemisst sich nach dem zusätzlichen Zeitaufwand zuzüglich Übermittlungskosten.[^12-2]
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
+[^12-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
 
 #### Art. 13
 

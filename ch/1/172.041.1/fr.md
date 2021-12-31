@@ -4,11 +4,11 @@ title: Ordonnance générale du 8 septembre 2004 sur les émoluments (OGEmol)
 short: OGEmol
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/677"
 language: fr
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2004-09-08
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/677/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-677-20130101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/677/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/677/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-677-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/677/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/677/20130101/fr"
 
 (OGEmol)
 
-du 8 septembre 2004 (Etat le 1<sup>er</sup> janvier 2013)
+du 8 septembre 2004 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -49,22 +49,26 @@ arrête:
 
 #### Art. 3
 
-**Renonciation aux émoluments**
+**Renonciation aux émoluments**[^3-1]
 
-<sup>1</sup> L’administration fédérale ne perçoit pas d’émoluments des organes intercantonaux, des cantons et des communes pour autant qu’ils accordent la réciprocité à la Confédération.
+<sup>1</sup>
 
-<sup>2</sup>
+Il est possible de renoncer à percevoir des émoluments:
 
-Il est possible de renoncer à percevoir des émoluments lorsque:
+- a. lorsque la décision ou la prestation sert un intérêt public prépondérant, ou
+- b. lorsque la décision ou la prestation engendre des coûts insignifiants, en particulier en cas de simple demande de renseignements.
 
-- a. la décision ou la prestation sert un intérêt public prépondérant ou que
-- b. la décision ou la prestation engendre des coûts insignifiants, en particulier en cas de simple demande de renseignements.
+<sup>2</sup> L’administration fédérale ne perçoit pas d’émoluments des organes intercantonaux, des cantons et des communes pour autant qu’ils accordent la réciprocité à la Confédération.
+
+<sup>3</sup> Les unités de l’administration fédérale centrale ne se facturent pas d’émoluments entre elles.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
 
 #### Art. 4
 
-**Base de calcul**
+**Base de calcul établie dans les réglementations relatives aux émoluments[^4-1]**
 
-<sup>1</sup> Les émoluments sont calculés de manière à ce que leur produit total ne dépasse pas le montant total des coûts de l’unité administrative.
+<sup>1</sup> Le calcul des émoluments est réglementé de manière que le produit total de ceux-ci ne dépasse pas le montant total des coûts de l’unité administrative.[^4-2]
 
 <sup>2</sup>
 
@@ -77,15 +81,28 @@ Le montant total des coûts se compose des éléments suivants:
 
 <sup>3</sup> L’Administration fédérale des finances (AFF) calcule chaque année les frais de personnel et le coût des postes de travail dans l’administration fédérale.
 
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
+
 #### Art. 5
 
-**Fixation des tarifs des émoluments**
+**Tarifs des émoluments dans les réglementations relatives aux émoluments[^5-1]**
 
 <sup>1</sup> Les tarifs des émoluments sont fixés en fonction du temps consacré ou à forfait.
 
 <sup>2</sup> La détermination des tarifs des émoluments tient compte de l’intérêt public ainsi que de l’intérêt de la personne assujettie ou de l’utilité que celle-ci retire de la décision ou de la prestation.
 
 <sup>3</sup> Pour les décisions et prestations d’une ampleur extraordinaire, présentant des difficultés particulières ou ayant un caractère urgent, il peut être perçu un supplément au tarif ordinaire des émoluments.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
+
+#### Art. 5a
+
+**Consultation de la Surveillance des prix sur les réglementations relatives aux émoluments**[^5a-1]
+
+Lorsqu’elle prépare une proposition visant à édicter ou à modifier une réglementation relative aux émoluments, l’unité administrative responsable invite la Surveillance des prix à donner son avis dans un délai approprié.
+
+[^5a-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
 
 #### Art. 6
 
@@ -144,7 +161,7 @@ Les unités administratives peuvent, dans des cas fondés, notamment en cas de d
 
 #### Art. 12
 
-**Echéance**
+**Échéance**
 
 <sup>1</sup>
 
@@ -156,9 +173,14 @@ L’émolument est échu:
 
 <sup>2</sup> Le délai de paiement est de 30 jours à compter de l’échéance. L’unité administrative peut le prolonger dans des cas particuliers.
 
-<sup>3</sup> En cas de non-paiement dans les délais, l’unité administrative accorde, en règle générale par courrier recommandé, un nouveau délai de 20 jours à la personne assujettie et lui notifie qu’en cas de non-paiement dans ce délai, l’AFF sera chargée du recouvrement de la créance.
+<sup>3</sup> En cas de non-paiement dans les délais, l’unité administrative accorde à la personne assujettie, par écrit ou par tout autre moyen permettant d’en établir la preuve par un texte, un nouveau délai de 20 jours. Elle lui notifie qu’en cas de non-paiement dans ce délai, l’AFF sera chargée du recouvrement de la créance.[^12-1]
 
 <sup>4</sup> La personne assujettie est mise en demeure par la fixation du nouveau délai. Le taux de l’intérêt moratoire est de 5 %.
+
+<sup>5</sup> Les réglementations relatives aux émoluments peuvent prévoir la perception de frais de rappel pour la fixation d’un nouveau délai. Le montant desdits frais est calculé sur la base du temps de travail supplémentaire nécessaire pour l’établissement du rappel, et est augmenté des frais d’envoi de celui-ci.[^12-2]
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
+[^12-2]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 771](https://fedlex.data.admin.ch/eli/oc/2021/771)).
 
 #### Art. 13
 
