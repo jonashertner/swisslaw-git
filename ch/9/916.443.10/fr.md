@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 réglant les échanges d'importation, de 
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20210401/fr"
 
 (OITE-PT)
 
-du 18 novembre 2015 (Etat le 1<sup>er</sup> avril 2021)
+du 18 novembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -101,15 +101,15 @@ Dans la présente ordonnance, on entend par:
 - e. *certificat sanitaire:* le document qui atteste la provenance d’un lot et le respect des exigences de police des épizooties, de protection des animaux et d’hygiène des denrées alimentaires;
 - f.[^4-4] *document sanitaire* *commun d’entrée* *(DSCE):* le document au sens des art. 56 à 58 du règlement (UE) 2017/625[^4-5], qui est utilisé pour notifier des lots au poste d’inspection frontalier et pour inscrire le résultat des contrôles et les mesures du Service vétérinaire de frontière concernant les lots;
 - g.[^4-6] *«Trade Control and Expert System» (TRACES):* un système intégré dans le système de gestion de l’information sur les contrôles officiels de l’UE au sens des art. 131 à 136 du règlement (UE) 2017/625;
-- g<sup>bis</sup>.[^4-7] système «*e-dec*»: le système de traitement électronique des données mis à disposition par l’Administration fédérale des douanes (AFD) sur la base de l’art. 28, al. 2, de la loi du 18 mars 2005 sur les douanes (LD)[^4-8] pour les déclarations en douane;
-- h.[^4-9] *lot:* un certain nombre d’animaux ou une quantité de produits animaux du même type ou de la même classe ou ayant la même description, couverts par le même certificat officiel ou le même document d’accompagnement, acheminés par le même moyen de transport, provenant du même lieu et destinés à un même établissement;
-- i. *Lettre ou colis:* envoi postal au sens de l’art. 2, let. c ou d, de la loi du 17 décembre 2010 sur la poste[^4-10];
-- j. *importation:* introduction durable ou temporaire d’animaux et de produits animaux dans le territoire d’importation, à l’exception du transport en transit au sens de l’art. 6, let. i, de la loi du 18 mars 2005 sur les douanes (LD)[^4-11];
-- k. *importateur:* la personne physique ou morale responsable de l’importation qui est désignée comme telle dans le DSCE[^4-12] s’il en existe un;
+- g<sup>bis</sup>.[^4-7] système «*e-dec*»: le système de traitement électronique des données mis à disposition par l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^4-8] sur la base de l’art. 28, al. 2, de la loi du 18 mars 2005 sur les douanes (LD)[^4-9] pour les déclarations en douane;
+- h.[^4-10] *lot:* un certain nombre d’animaux ou une quantité de produits animaux du même type ou de la même classe ou ayant la même description, couverts par le même certificat officiel ou le même document d’accompagnement, acheminés par le même moyen de transport, provenant du même lieu et destinés à un même établissement;
+- i. *Lettre ou colis:* envoi postal au sens de l’art. 2, let. c ou d, de la loi du 17 décembre 2010 sur la poste[^4-11];
+- j. *importation:* introduction durable ou temporaire d’animaux et de produits animaux dans le territoire d’importation, à l’exception du transport en transit au sens de l’art. 6, let. i, de la loi du 18 mars 2005 sur les douanes (LD)[^4-12];
+- k. *importateur:* la personne physique ou morale responsable de l’importation qui est désignée comme telle dans le DSCE[^4-13] s’il en existe un;
 - l. *personne assujettie à l’obligation de déclarer:* la personne visée à l’art. 26 LD;
 - m. *agent de manutention:* l’entreprise de services chargée par l’exploitant de l’aéroport d’assurer le lien entre les compagnies aériennes et les transitaires;
 - n. *établissement de destination:* établissement du lieu vers lequel les animaux ou les produits animaux doivent être transportés et qui est désigné comme tel dans le DSCE, s’il en existe un;
-- o.[^4-13] *poste* *d’insp**ection frontalier:* un lieu, et les installations qui en font partie, où sont effectués les contrôles vétérinaires de frontière;
+- o.[^4-14] *poste* *d’insp**ection frontalier:* un lieu, et les installations qui en font partie, où sont effectués les contrôles vétérinaires de frontière;
 - p. *exportateur:* la personne physique ou morale responsable de l’exportation.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
@@ -119,12 +119,13 @@ Dans la présente ordonnance, on entend par:
 [^4-5]: Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels), JO L 95 du 7.4.2017, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2019/478, JO L 82 du 25.3.2019, p. 4
 [^4-6]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-7]: Introduite par le ch. I de l’O du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^4-8]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-9]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-10]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^4-11]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-12]: Nouvelle expression selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Il a été tenu compte de cette mod. dans tout le texte.
-[^4-13]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-8]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-9]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-10]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-11]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^4-12]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-13]: Nouvelle expression selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-14]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ## Chapitre 2 Importation
 
@@ -206,7 +207,7 @@ La viande de bœuf visée aux numéros du tarif douanier 0201.2091, 0202.2091, 0
 
 <sup>2</sup>
 
-L’importateur de la viande de bœuf visée à l’al. 1 et tous les acquéreurs en aval doivent fournir à l’AFD un engagement d’emploi de la viande garantissant:[^9-2]
+L’importateur de la viande de bœuf visée à l’al. 1 et tous les acquéreurs en aval doivent fournir à l’OFDF un engagement d’emploi de la viande garantissant:[^9-2]
 
 - a. qu’ils tiennent une comptabilité des marchandises;
 - b. qu’ils indiquent dans les documents de vente et les bulletins de livraison, lors de la remise de ladite viande, qu’elle est cédée exclusivement pour la consommation sur le territoire douanier suisse (réserve d’emploi), et
@@ -468,7 +469,7 @@ Pour les lots d’animaux et de produits animaux ci-après, la notification pré
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
-### Section 6 Présentation des lots au contrôle vétérinaire de frontière, déclaration en douane, garde de la douane, entrepôts douaniers et dépôts francs sous douane
+### Section 6 Présentation des lots au contrôle vétérinaire de frontière, déclaration en douane, garde de la douane, entrepôts douaniers et dépôts francs sous douane****
 
 [^chap2-sec6-1]
 
@@ -730,7 +731,7 @@ Les dispositions ci-après, relatives à l’importation, s’appliquent par ana
 
 <sup>3</sup> Elle doit l’informer une deuxième fois si les produits animaux en transit vers un État membre de l’UE, l’Islande ou la Norvège restent plus de 48 heures à l’aéroport.
 
-<sup>4</sup> Les animaux et les produits animaux se trouvant à l’aéroport ne peuvent quitter le périmètre délimité par l’AFD tant que leur transport par voie terrestre n’a pas été autorisé.
+<sup>4</sup> Les animaux et les produits animaux se trouvant à l’aéroport ne peuvent quitter le périmètre délimité par l’OFDF tant que leur transport par voie terrestre n’a pas été autorisé.
 
 #### Art. 42
 
@@ -1310,7 +1311,7 @@ Si des produits animaux assortis de charges spéciales ont fait l’objet d’un
 
 <sup>1</sup> Lorsqu’un lot soumis au contrôle vétérinaire de frontière transite via un État membre de l’UE, l’Islande ou la Norvège vers un pays tiers, le Service vétérinaire de frontière informe, via TRACES, l’autorité responsable du poste d’inspection frontalier par lequel le lot quittera le territoire d’importation ou l’État membre de l’UE, l’Islande ou la Norvège à destination du pays tiers.[^78-1]
 
-<sup>2</sup> S’il dispose d’indices laissant penser qu’un lot n’a pas quitté le territoire d’importation ou l’État membre de l’UE, l’Islande ou la Norvège dans le délai prescrit, il en informe l’AFD. Celle-ci mène une enquête. Si elle ne peut établir que le lot a quitté le territoire d’importation ou les États membres de l’UE, l’Islande et la Norvège, l’OSAV informe les organes compétents des cantons et les États via lesquels le transport aurait dû passer.
+<sup>2</sup> S’il dispose d’indices laissant penser qu’un lot n’a pas quitté le territoire d’importation ou l’État membre de l’UE, l’Islande ou la Norvège dans le délai prescrit, il en informe l’OFDF. Celui-ci mène une enquête. Si il ne peut établir que le lot a quitté le territoire d’importation ou les États membres de l’UE, l’Islande et la Norvège, l’OSAV informe les organes compétents des cantons et les États via lesquels le transport aurait dû passer.
 
 [^78-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
@@ -1388,18 +1389,18 @@ Si la vérification des données indique que la libération n’a pas été effe
 
 #### Art. 83
 
-**Mesures à prendre par l’AFD en cas d’importation, de transit ou d’exportation illégaux**
+**Mesures à prendre par l’OFDF en cas d’importation, de transit ou d’exportation illégaux**
 
 <sup>1</sup>
 
-Si l’AFD constate aux postes d’inspection frontaliers agréés que des animaux ou des produits animaux ne remplissent pas les conditions d’importation, de transit ou d’exportation, elle le signale:
+Si l’OFDF constate aux postes d’inspection frontaliers agréés que des animaux ou des produits animaux ne remplissent pas les conditions d’importation, de transit ou d’exportation, il le signale:
 
 - a. en cas d’importation et de transit, au Service vétérinaire de frontière;
 - b. en cas d’exportation, à l’autorité cantonale compétente du canton sur le territoire duquel le contrôle a été effectué.
 
-<sup>2</sup> Si elle constate en dehors des postes d’inspection frontaliers agréés que des animaux ou des produits animaux ne remplissent pas les conditions d’importation, de transit ou d’exportation, elle le signale à l’autorité compétente du canton sur le territoire duquel le contrôle a été effectué.
+<sup>2</sup> Si il constate en dehors des postes d’inspection frontaliers agréés que des animaux ou des produits animaux ne remplissent pas les conditions d’importation, de transit ou d’exportation, il le signale à l’autorité compétente du canton sur le territoire duquel le contrôle a été effectué.
 
-<sup>3</sup> Elle informe l’autorité cantonale compétente, sur demande, de tous les faits essentiels et lui donne accès aux dossiers.
+<sup>3</sup> Il informe l’autorité cantonale compétente, sur demande, de tous les faits essentiels et lui donne accès aux dossiers.
 
 #### Art. 84
 
@@ -1407,7 +1408,7 @@ Si l’AFD constate aux postes d’inspection frontaliers agréés que des anima
 
 <sup>1</sup> Si des animaux ou des produits animaux ne remplissent pas les conditions d’importation, de transit ou d’exportation, l’autorité cantonale compétente prend les mesures nécessaires pour protéger la santé humaine et animale.
 
-<sup>2</sup> Si des particuliers ou d’autres organes que l’AFD signalent des animaux ou des produits animaux importés ou transitant illégalement dans le territoire d’importation, l’autorité cantonale compétente en informe l’AFD.
+<sup>2</sup> Si des particuliers ou d’autres organes que l’OFDF signalent des animaux ou des produits animaux importés ou transitant illégalement dans le territoire d’importation, l’autorité cantonale compétente en informe l’OFDF.
 
 <sup>3</sup> Dans les cas où des animaux sont concernés, l’autorité cantonale compétente peut émettre une décision exigeant notamment le séquestre, le refoulement ou l’euthanasie des animaux. L’autorité qui a ordonné un séquestre héberge les animaux séquestrés à l’endroit qu’elle aura désigné aux frais et aux risques de la personne qui a commis l’infraction.
 
@@ -1455,7 +1456,7 @@ Le vétérinaire cantonal est responsable du déroulement des contrôles à effe
 
 ## Chapitre 7 Organisation de l’exécution
 
-### Section 1 Service vétérinaire de frontière et AFD
+### Section 1 Service vétérinaire de frontière et OFDF
 
 #### Art. 88
 
@@ -1513,15 +1514,15 @@ Les assistants SVF peuvent être sollicités pour effectuer, sous la surveillanc
 
 <sup>4</sup> Les responsables des postes d’inspection frontaliers tiennent un registre des formations et des perfectionnements des personnes qui leur sont subordonnées.
 
-<sup>5</sup> En collaboration avec l’AFD, l’OSAV organise, à l’intention du Service vétérinaire de frontière, des cours de formation et de perfectionnement portant sur l’exécution des législations sur les épizooties, la protection des animaux, les denrées alimentaires et les douanes.
+<sup>5</sup> En collaboration avec l’OFDF, l’OSAV organise, à l’intention du Service vétérinaire de frontière, des cours de formation et de perfectionnement portant sur l’exécution des législations sur les épizooties, la protection des animaux, les denrées alimentaires et les douanes.
 
 [^93-1]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
 
 #### Art. 94
 
-**Obligation de renseigner de l’AFD**
+**Obligation de renseigner de l’OFDF**
 
-Sur demande, l’AFD renseigne l’OSAV sur tous les faits importants pour l’exécution de la présente ordonnance et lui donne accès aux dossiers.
+Sur demande, l’OFDF renseigne l’OSAV sur tous les faits importants pour l’exécution de la présente ordonnance et lui donne accès aux dossiers.
 
 ### Section 2 Postes d’inspection frontaliers agréés
 
@@ -1568,7 +1569,7 @@ Sur demande, l’AFD renseigne l’OSAV sur tous les faits importants pour l’e
 Les autorités, institutions et personnes ci-après doivent être enregistrées dans TRACES:[^98-1]
 
 - a. l’OSAV;
-- b. l’AFD;
+- b. l’OFDF;
 - c. les services officiels des vétérinaires cantonaux;
 - d. les services officiels des chimistes cantonaux;
 - e. les vétérinaires officiels désignés par les vétérinaires cantonaux;
@@ -1597,7 +1598,7 @@ Les autorités et les personnes enregistrées ont accès à TRACES pour autant q
 
 <sup>2</sup> Les personnes enregistrées doivent suivre régulièrement des cours pour actualiser leurs connaissances.
 
-<sup>3</sup> L’OSAV organise la formation de base et les formations d’actualisation des connaissances pour l’AFD et les responsables TRACES des services cantonaux. Aucun émolument n’est à verser pour suivre ces formations.
+<sup>3</sup> L’OSAV organise la formation de base et les formations d’actualisation des connaissances pour l’OFDF et les responsables TRACES des services cantonaux. Aucun émolument n’est à verser pour suivre ces formations.
 
 <sup>4</sup> Il organise, en outre, les formations pour les personnes visées aux art. 17. Aucun émolument n’est à verser pour suivre ces formations.
 
@@ -1796,9 +1797,9 @@ Le vétérinaire cantonal ou le chimiste cantonal chargé de prendre des mesures
 
 **Poursuite pénale**
 
-<sup>1</sup> En cas d’importation illégale ou de transit illégal, l’autorité de poursuite pénale cantonale ou l’OSAV ouvre une poursuite pénale. S’il y a simultanément infraction à la LD[^109-1] ou à la loi du 12 juin 2009 sur la TVA[^109-2], l’AFD ouvre une poursuite pénale.
+<sup>1</sup> En cas d’importation illégale ou de transit illégal, l’autorité de poursuite pénale cantonale ou l’OSAV ouvre une poursuite pénale. S’il y a simultanément infraction à la LD[^109-1] ou à la loi du 12 juin 2009 sur la TVA[^109-2], l’OFDF ouvre une poursuite pénale.
 
-<sup>2</sup> L’AFD notifie et exécute, à la demande des autorités de poursuite pénale cantonales, les mandats de répression et les prononcés pénaux pour les infractions sur lesquelles elle a elle-même enquêté.
+<sup>2</sup> L’OFDF notifie et exécute, à la demande des autorités de poursuite pénale cantonales, les mandats de répression et les prononcés pénaux pour les infractions sur lesquelles il a lui-même enquêté.
 
 <sup>3</sup> En cas d’exportation illégale, l’autorité de poursuite pénale cantonale ouvre une poursuite pénale.
 
@@ -1816,7 +1817,7 @@ Le vétérinaire cantonal ou le chimiste cantonal chargé de prendre des mesures
 
 <sup>1</sup> Si la présente ordonnance n’en dispose pas autrement, l’exécution incombe à la Confédération.
 
-<sup>2</sup> Les autorités compétentes de la Confédération sont l’OSAV et l’AFD.
+<sup>2</sup> Les autorités compétentes de la Confédération sont l’OSAV et l’OFDF.
 
 <sup>3</sup> L’OSAV édicte les directives techniques nécessaires à une exécution adéquate et uniforme.
 

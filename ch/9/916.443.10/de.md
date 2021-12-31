@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-DS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20210401/de"
 
 (EDAV-DS)
 
-vom 18. November 2015 (Stand am 1. April 2021)
+vom 18. November 2015 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -106,15 +106,15 @@ In dieser Verordnung bedeuten:
 - e. *Gesundheitsbescheinigung:* Dokument, das die Herkunft einer Sendung und die Einhaltung der tierseuchenpolizeilichen, tierschutzrechtlichen und lebensmittelhygienischen Anforderungen belegt;
 - f.[^4-4] *Gemeinsames Gesundheitseingangsdokument (GGED):* Dokument nach den Artikeln 56–58 der Verordnung (EU) 2017/625[^4-5], das dazu verwendet wird, Sendungen an der Grenzkontrollstelle anzumelden und das Ergebnis der Kontrollen sowie die Massnahmen des grenztierärztlichen Dienstes betreffend die Sendungen zu vermerken;
 - g.[^4-6] *«Trade Control and Expert System» (**TRACES):* ein in das Informationsmanagementsystem für amtliche Kontrollen der EU integriertes System nach den Artikeln 131–136 der Verordnung (EU) 2017/625;
-- g<sup>bis</sup>.[^4-7] *System «e-dec»:* elektronisches Datenverarbeitungssystem, das von der Eidgenössischen Zollverwaltung (EZV) gestützt auf Artikel 28 Absatz 2 des Zollgesetzes vom 18. März 2005[^4-8] (ZG) für die Zollanmeldung zur Verfügung gestellt wird;
-- h.[^4-9] *Sendung:* eine Anzahl Tiere oder eine Menge Tierprodukte der gleichen Art oder Klasse oder mit gleicher Beschreibung, für die die gleiche Gesundheitsbescheinigung oder das gleiche andere Begleitdokument gilt, die mit dem gleichen Transportmittel befördert werden, vom gleichen Herkunftsort stammen und für den gleichen Bestimmungsbetrieb bestimmt sind;
-- i. *Brief- oder Paketsendung:* Sendung nach Artikel 2 Buchstabe c oder d des Postgesetzes vom 17. Dezember 2010[^4-10];
-- j. *Einfuhr:* dauerhaftes oder vorübergehendes Verbringen von Tieren und Tierprodukten in das Einfuhrgebiet, ausgenommen der Transport zum Zweck der Durchfuhr nach Artikel 6 Buchstabe i des Zollgesetzes vom 18. März 2005[^4-11] (ZG);
-- k. *Importeur:* natürliche oder juristische Person, die für eine Einfuhr verantwortlich ist und die, wenn ein GGED[^4-12] vorliegt, darin als solcher bezeichnet ist;
+- g<sup>bis</sup>.[^4-7] *System «e-dec»:* elektronisches Datenverarbeitungssystem, das vom Bundesamt für Zoll und Grenzsicherheit (BAZG)[^4-8] gestützt auf Artikel 28 Absatz 2 des Zollgesetzes vom 18. März 2005[^4-9] (ZG) für die Zollanmeldung zur Verfügung gestellt wird;
+- h.[^4-10] *Sendung:* eine Anzahl Tiere oder eine Menge Tierprodukte der gleichen Art oder Klasse oder mit gleicher Beschreibung, für die die gleiche Gesundheitsbescheinigung oder das gleiche andere Begleitdokument gilt, die mit dem gleichen Transportmittel befördert werden, vom gleichen Herkunftsort stammen und für den gleichen Bestimmungsbetrieb bestimmt sind;
+- i. *Brief- oder Paketsendung:* Sendung nach Artikel 2 Buchstabe c oder d des Postgesetzes vom 17. Dezember 2010[^4-11];
+- j. *Einfuhr:* dauerhaftes oder vorübergehendes Verbringen von Tieren und Tierprodukten in das Einfuhrgebiet, ausgenommen der Transport zum Zweck der Durchfuhr nach Artikel 6 Buchstabe i des Zollgesetzes vom 18. März 2005[^4-12] (ZG);
+- k. *Importeur:* natürliche oder juristische Person, die für eine Einfuhr verantwortlich ist und die, wenn ein GGED[^4-13] vorliegt, darin als solcher bezeichnet ist;
 - l. *anmeldepflichtige Person:* Person nach Artikel 26 ZG;
 - m. *Abfertigungsunternehmen:* vom Flughafenhalter beauftragter Dienstleistungsbetrieb, der den Verkehr zwischen den Fluggesellschaften und den Speditionsunternehmen sicherstellt (Handling Agent);
 - n. *Bestimmungsbetrieb:* Betrieb am Standort, an den die Tiere oder Tierprodukte verbracht werden sollen, und der, wenn ein GGED vorliegt, darin als solcher bezeichnet ist;
-- o.[^4-13] *Grenzkontrollstelle:* Ort mit den dazu gehörenden Einrichtungen, an dem die grenztierärztlichen Kontrollen durchgeführt werden;
+- o.[^4-14] *Grenzkontrollstelle:* Ort mit den dazu gehörenden Einrichtungen, an dem die grenztierärztlichen Kontrollen durchgeführt werden;
 - p. *Exporteur:* natürliche oder juristische Person, die für die Ausfuhr verantwortlich ist.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
@@ -124,12 +124,13 @@ In dieser Verordnung bedeuten:
 [^4-5]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch delegierte Verordnung (EU) 2019/478, ABl. L 82 vom 25.3.2019, S. 4.
 [^4-6]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-7]: Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^4-8]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-9]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-10]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^4-11]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-12]: Ausdruck gemäss gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^4-13]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-8]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^4-9]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-10]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-11]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^4-12]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-13]: Ausdruck gemäss gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^4-14]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ## 2. Kapitel: Einfuhr
 
@@ -211,7 +212,7 @@ Rindfleisch der Zolltarifnummern 0201.2091, 0202.2091, 0201.3091 und 0202.3091, 
 
 <sup>2</sup>
 
-Der Importeur von Rindfleisch nach Absatz 1 und die nachgelagerten Abnehmer müssen gegenüber der EZV mit einer Verwendungsverpflichtung garantieren, dass sie:[^9-2]
+Der Importeur von Rindfleisch nach Absatz 1 und die nachgelagerten Abnehmer müssen gegenüber dem BAZG mit einer Verwendungsverpflichtung garantieren, dass sie:[^9-2]
 
 - a. eine Warenbuchhaltung führen;
 - b. bei der Weitergabe des Rindfleischs in den Verkaufs- und Lieferdokumenten angeben, dass es ausschliesslich für den Konsum im schweizerischen Zollgebiet abgegeben werden darf (Verwendungsvorbehalt); und
@@ -735,7 +736,7 @@ Die folgenden Bestimmungen zur Einfuhr gelten sinngemäss auch für die Durchfuh
 
 <sup>3</sup> Verbleiben bei der Durchfuhr nach EU-Mitgliedstaaten, Island und Norwegen die Tierprodukte länger als 48 Stunden auf dem Flughafen, so muss eine zweite Mitteilung erfolgen.
 
-<sup>4</sup> Tiere und Tierprodukte dürfen auf dem Flughafen nicht über die von der EZV bezeichneten Grenzen verbracht werden, sofern sie nicht zum Transport auf dem Landweg freigegeben worden sind.
+<sup>4</sup> Tiere und Tierprodukte dürfen auf dem Flughafen nicht über die vom BAZG bezeichneten Grenzen verbracht werden, sofern sie nicht zum Transport auf dem Landweg freigegeben worden sind.
 
 #### Art. 42
 
@@ -1304,7 +1305,7 @@ Bei der Durchfuhr von Tierprodukten mit besonderen Auflagen, die im Einfuhrgebie
 
 <sup>1</sup> Bei der Durchfuhr von grenztierärztlich kontrollpflichtigen Sendungen via EU-Mitgliedstaaten, Island oder Norwegen nach Drittstaaten informiert der grenztierärztliche Dienst via TRACES die Behörde, die für diejenige Grenzkontrollstelle zuständig ist, an der eine Sendung das Einfuhrgebiet oder einen EU-Mitgliedstaat, Island oder Norwegen in einen Drittstaat verlassen wird.[^78-1]
 
-<sup>2</sup> Hat der grenztierärztliche Dienst Anhaltspunkte dafür, dass eine Sendung das Ein-fuhrgebiet oder die EU-Mitgliedstaaten, Island und Norwegen nicht innerhalb der vorgeschriebenen Frist verlassen hat, so informiert er die EZV. Diese führt weitere Abklärungen durch. Kann sie nicht feststellen, dass die Sendung das Einfuhrgebiet oder die EU-Mitgliedstaaten, Island und Norwegen verlassen hat, so informiert das BLV die zuständigen Stellen der Kantone und die Staaten, durch die der Transport führen sollte.
+<sup>2</sup> Hat der grenztierärztliche Dienst Anhaltspunkte dafür, dass eine Sendung das Ein-fuhrgebiet oder die EU-Mitgliedstaaten, Island und Norwegen nicht innerhalb der vorgeschriebenen Frist verlassen hat, so informiert er das BAZG. Dieses führt weitere Abklärungen durch. Kann es nicht feststellen, dass die Sendung das Einfuhrgebiet oder die EU-Mitgliedstaaten, Island und Norwegen verlassen hat, so informiert das BLV die zuständigen Stellen der Kantone und die Staaten, durch die der Transport führen sollte.
 
 [^78-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
@@ -1381,18 +1382,18 @@ Ergibt der Datenabgleich, dass keine Freigabe durch den grenztierärztlichen Die
 
 #### Art. 83
 
-**Massnahmen der EZV bei widerrechtlichen Ein-, Durch- und Ausfuhren**
+**Massnahmen des BAZG bei widerrechtlichen Ein-, Durch- und Ausfuhren**
 
 <sup>1</sup>
 
-Stellt die EZV an zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fest, bei denen die Ein-, Durch- oder Ausfuhrbedingungen nicht erfüllt sind, so meldet sie dies:
+Stellt das BAZG an zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fest, bei denen die Ein-, Durch- oder Ausfuhrbedingungen nicht erfüllt sind, so meldet es dies:
 
 - a. bei der Ein- und der Durchfuhr: dem grenztierärztlichen Dienst;
 - b. bei der Ausfuhr: der zuständigen Behörde des Kantons, auf dessen Gebiet die Kontrolle erfolgte.
 
-<sup>2</sup> Stellt die EZV ausserhalb von zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fest, bei denen die Ein-, Durch- oder Ausfuhrbedingungen nicht erfüllt sind, so meldet sie dies der zuständigen Behörde des Kantons, auf dessen Gebiet die Kontrolle erfolgte.
+<sup>2</sup> Stellt das BAZG ausserhalb von zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fest, bei denen die Ein-, Durch- oder Ausfuhrbedingungen nicht erfüllt sind, so meldet es dies der zuständigen Behörde des Kantons, auf dessen Gebiet die Kontrolle erfolgte.
 
-<sup>3</sup> Die EZV erteilt der zuständigen kantonalen Behörde auf Verlangen Auskunft über alle wesentlichen Tatsachen und gewährt ihr Einsicht in die Akten.
+<sup>3</sup> Das BAZG erteilt der zuständigen kantonalen Behörde auf Verlangen Auskunft über alle wesentlichen Tatsachen und gewährt ihr Einsicht in die Akten.
 
 #### Art. 84
 
@@ -1400,7 +1401,7 @@ Stellt die EZV an zugelassenen Grenzkontrollstellen Tiere oder Tierprodukte fest
 
 <sup>1</sup> Sind bei Tieren und Tierprodukten die Ein-, Durch- oder Ausfuhrbedingungen nicht erfüllt, so trifft die zuständige kantonale Behörde die zum Schutz der Gesundheit von Mensch und Tier erforderlichen Massnahmen.
 
-<sup>2</sup> Melden Private oder andere Organe als die EZV widerrechtlich ein- oder durchgeführte Tiere oder Tierprodukte im Einfuhrgebiet, so benachrichtigt die zuständige kantonale Behörde die EZV.
+<sup>2</sup> Melden Private oder andere Organe als das BAZG widerrechtlich ein- oder durchgeführte Tiere oder Tierprodukte im Einfuhrgebiet, so benachrichtigt die zuständige kantonale Behörde das BAZG.
 
 <sup>3</sup> Bei Tieren kann die zuständige kantonale Behörde insbesondere die Beschlagnahme, die Rückweisung oder die Tötung verfügen. Die Behörde, die eine Beschlagnahme verfügt hat, bringt die beschlagnahmten Tiere an einem von ihr bestimmten Ort auf Kosten und Gefahr der oder des widerrechtlich Handelnden unter.
 
@@ -1448,7 +1449,7 @@ Die Kantonstierärztin oder der Kantonstierarzt ist verantwortlich für die Durc
 
 ## 7. Kapitel: Vollzugsorganisation
 
-### 1. Abschnitt: Grenztierärztlicher Dienst und EZV
+### 1. Abschnitt: Grenztierärztlicher Dienst und BAZG
 
 #### Art. 88
 
@@ -1506,15 +1507,15 @@ Die Assistentinnen und Assistenten GTD können unter der Aufsicht von Grenztier�
 
 <sup>4</sup> Die Leiterinnen und Leiter der Grenzkontrollstellen führen Buch über die Aus- und Weiterbildung der ihnen unterstellten Personen.
 
-<sup>5</sup> Das BLV organisiert in Zusammenarbeit mit der EZV Aus- und Weiterbildungskurse für den grenztierärztlichen Dienst über den Vollzug der Tierseuchen-, Tierschutz-, Lebensmittel- und Zollgesetzgebung.
+<sup>5</sup> Das BLV organisiert in Zusammenarbeit mit dem BAZG Aus- und Weiterbildungskurse für den grenztierärztlichen Dienst über den Vollzug der Tierseuchen-, Tierschutz-, Lebensmittel- und Zollgesetzgebung.
 
 [^93-1]: [SR 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
 
 #### Art. 94
 
-**Auskunftspflicht der EZV**
+**Auskunftspflicht des BAZG**
 
-Die EZV erteilt dem BLV auf Verlangen Auskunft über alle Tatsachen, die für den Vollzug dieser Verordnung wesentlich sind, und gewährt ihm Einsicht in die Akten.
+Das BAZG erteilt dem BLV auf Verlangen Auskunft über alle Tatsachen, die für den Vollzug dieser Verordnung wesentlich sind, und gewährt ihm Einsicht in die Akten.
 
 ### 2. Abschnitt: Zugelassene Grenzkontrollstellen
 
@@ -1561,7 +1562,7 @@ Die EZV erteilt dem BLV auf Verlangen Auskunft über alle Tatsachen, die für de
 Die folgenden Behörden, Institutionen und Personen müssen in TRACES registriert sein:[^98-1]
 
 - a. das BLV;
-- b. die EZV;
+- b. das BAZG;
 - c. die Amtsstellen der Kantonstierärztinnen und Kantonstierärzte;
 - d. die Amtsstellen der Kantonschemikerinnen und Kantonschemiker;
 - e. die von den Kantonstierärztinnen und Kantonstierärzten bezeichneten amtlichen Tierärztinnen und Tierärzte;
@@ -1590,7 +1591,7 @@ Die registrierten Behörden und Personen haben Zugang zu TRACES, soweit es für 
 
 <sup>2</sup> Die registrierten Personen müssen regelmässig an Wiederholungsschulungen teilnehmen.
 
-<sup>3</sup> Das BLV führt die Grundschulung und die Wiederholungsschulungen für die EZV und für die TRACES-Verantwortlichen der kantonalen Amtsstellen durch. Für den Besuch dieser Schulungen wird keine Gebühr erhoben.
+<sup>3</sup> Das BLV führt die Grundschulung und die Wiederholungsschulungen für das BAZG und für die TRACES-Verantwortlichen der kantonalen Amtsstellen durch. Für den Besuch dieser Schulungen wird keine Gebühr erhoben.
 
 <sup>4</sup> Es führt zudem die Schulungen der Personen nach Artikel 17 durch. Für den Besuch dieser Schulungen wird keine Gebühr erhoben.
 
@@ -1789,9 +1790,9 @@ Die Kantonstierärztin, der Kantonstierarzt, die Kantonschemikerin oder der Kant
 
 **Strafverfolgung**
 
-<sup>1</sup> Bei der widerrechtlichen Einfuhr oder Durchfuhr leitet die zuständige kantonale Strafverfolgungsbehörde oder das BLV eine Strafverfolgung ein. Liegt gleichzeitig eine Widerhandlung gegen das ZG[^109-1] oder gegen das Mehrwertsteuergesetz vom 12. Juni 2009[^109-2] vor, so leitet die EZV eine Strafverfolgung ein.
+<sup>1</sup> Bei der widerrechtlichen Einfuhr oder Durchfuhr leitet die zuständige kantonale Strafverfolgungsbehörde oder das BLV eine Strafverfolgung ein. Liegt gleichzeitig eine Widerhandlung gegen das ZG[^109-1] oder gegen das Mehrwertsteuergesetz vom 12. Juni 2009[^109-2] vor, so leitet das BAZG eine Strafverfolgung ein.
 
-<sup>2</sup> Die EZV eröffnet und vollstreckt auf Ersuchen der zuständigen kantonalen Strafverfolgungsbehörden oder des BLV die Strafbescheide und -verfügungen wegen Widerhandlungen, die von der EZV untersucht wurden.
+<sup>2</sup> Das BAZG eröffnet und vollstreckt auf Ersuchen der zuständigen kantonalen Strafverfolgungsbehörden oder des BLV die Strafbescheide und -verfügungen wegen Widerhandlungen, die vom BAZG untersucht wurden.
 
 <sup>3</sup> Bei der widerrechtlichen Ausfuhr leitet die zuständige kantonale Strafverfolgungsbehörde eine Strafverfolgung ein.
 
@@ -1809,7 +1810,7 @@ Die Kantonstierärztin, der Kantonstierarzt, die Kantonschemikerin oder der Kant
 
 <sup>1</sup> Soweit diese Verordnung nichts anderes bestimmt, ist der Vollzug Sache des Bundes.
 
-<sup>2</sup> Die zuständigen Behörden des Bundes sind das BLV und die EZV.
+<sup>2</sup> Die zuständigen Behörden des Bundes sind das BLV und das BAZG.
 
 <sup>3</sup> Das BLV erlässt die für einen sachgemässen und einheitlichen Vollzug erforderlichen Weisungen technischer Art.
 
@@ -1866,9 +1867,9 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-4]
+…[^annexu1-lvlu1-4]
 
-[^annexu1-lvlu1-1]: [[AS 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269), [2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)Anhang 6 Ziff. II 1 [4157](https://fedlex.data.admin.ch/eli/oc/2008/592)[5197](https://fedlex.data.admin.ch/eli/oc/2008/732), [2009 1567](https://fedlex.data.admin.ch/eli/oc/2009/227), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 6 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 7, [2012 2855](https://fedlex.data.admin.ch/eli/oc/2012/334), [2013 949](https://fedlex.data.admin.ch/eli/oc/2013/194)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 15, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 10 [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)Anhang Ziff. 3]
-[^annexu1-lvlu1-2]: [[AS 2007 2743](https://fedlex.data.admin.ch/eli/oc/2007/360), [2008 4167](https://fedlex.data.admin.ch/eli/oc/2008/593)[4867](https://fedlex.data.admin.ch/eli/oc/2008/679), [2012 2861](https://fedlex.data.admin.ch/eli/oc/2012/336)[6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Anhang 2 Ziff. 3, [2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)Anhang 6 Ziff. II 3]
-[^annexu1-lvlu1-3]: [[AS 2008 4173](https://fedlex.data.admin.ch/eli/oc/2008/594)[4869](https://fedlex.data.admin.ch/eli/oc/2008/680), [2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 7, [2012 2863](https://fedlex.data.admin.ch/eli/oc/2012/337), [2015 1827](https://fedlex.data.admin.ch/eli/oc/2015/353)Ziff. II]
+[^annexu1-lvlu1-1]: [[AS 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269); [2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)Anhang 6 Ziff. II 1, [4157](https://fedlex.data.admin.ch/eli/oc/2008/592), [5197](https://fedlex.data.admin.ch/eli/oc/2008/732); [2009 1567](https://fedlex.data.admin.ch/eli/oc/2009/227); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 6, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 7; [2012 2855](https://fedlex.data.admin.ch/eli/oc/2012/334); [2013 949](https://fedlex.data.admin.ch/eli/oc/2013/194), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 15; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 10, [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)Anhang Ziff. 3]
+[^annexu1-lvlu1-2]: [[AS 2007 2743](https://fedlex.data.admin.ch/eli/oc/2007/360); [2008 4167](https://fedlex.data.admin.ch/eli/oc/2008/593), [4867](https://fedlex.data.admin.ch/eli/oc/2008/679); [2012 2861](https://fedlex.data.admin.ch/eli/oc/2012/336), [6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Anhang 2 Ziff. 3; [2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)Anhang 6 Ziff. II 3]
+[^annexu1-lvlu1-3]: [[AS 2008 4173](https://fedlex.data.admin.ch/eli/oc/2008/594), [4869](https://fedlex.data.admin.ch/eli/oc/2008/680); [2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 7; [2012 2863](https://fedlex.data.admin.ch/eli/oc/2012/337); [2015 1827](https://fedlex.data.admin.ch/eli/oc/2015/353)Ziff. II]
 [^annexu1-lvlu1-4]: Die Änderungen können unter [AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)konsultiert werden.

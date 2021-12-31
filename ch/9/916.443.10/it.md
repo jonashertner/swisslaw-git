@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente l'importazione, il transito e
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20210401/it"
 
 (OITE-PT)
 
-del 18 novembre 2015 (Stato 1° aprile 2021)
+del 18 novembre 2015 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -106,15 +106,15 @@ Nella presente ordinanza si intende per:
 - e. *certificato sanitario*: documento che attesta la provenienza di una partita nonché l’ottemperanza ai requisiti di polizia sanitaria, di protezione degli animali e di igiene delle derrate alimentari;
 - f.[^4-4] *documento sanitario comune di entrata (DSCE):* documento di cui agli articoli 56–58 del regolamento (UE) 2017/625[^4-5], che viene impiegato per notificare le partite al posto di ispezione frontaliero e per registrare il risultato dei controlli e le misure del servizio veterinario di confine riguardanti le partite;
 - g.[^4-6] *«Trade Control and Expert System»* (*TRACES):* un sistema integrato nel sistema di trattamento delle informazioni per i controlli ufficiali dell’UE secondo gli articoli 131–136 del regolamento (UE) 2017/625;
-- g<sup>bis</sup>.[^4-7] *sistema «e-dec»:* sistema elettronico di elaborazione dei dati fornito dall’Amministrazione federale delle dogane (AFD) per la dichiarazione doganale in virtù dell’articolo 28 capoverso 2 della legge del 18 marzo 2005[^4-8] sulle dogane (LD);
-- h.[^4-9] *partita:* un numero di animali o una quantità di prodotti animali della stessa specie o classe o con la stessa descrizione, per i quali vale lo stesso certificato sanitario o lo stesso altro documento di accompagnamento, trasportati con lo stesso mezzo di trasporto, provenienti dallo stesso luogo di provenienza, destinati alla stessa azienda di destinazione;
-- i. *lettera o pacco*: partita secondo l’articolo 2 lettera c o d della legge del 17 dicembre 2010[^4-10] sulle poste;
-- j. *importazione*: introduzione permanente o temporanea di animali e prodotti animali nel territorio d’importazione, ad eccezione dei trasporti a scopo di transito secondo l’articolo 6 lettera i della legge del 18 marzo 2005[^4-11] sulle dogane (LD);
-- k. *importatore*: persona fisica o giuridica responsabile di un’importazione, definita come importatore in un eventuale DSCE[^4-12];
+- g<sup>bis</sup>.[^4-7] *sistema «e-dec»:* sistema elettronico di elaborazione dei dati fornito dall’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^4-8] per la dichiarazione doganale in virtù dell’articolo 28 capoverso 2 della legge del 18 marzo 2005[^4-9] sulle dogane (LD);
+- h.[^4-10] *partita:* un numero di animali o una quantità di prodotti animali della stessa specie o classe o con la stessa descrizione, per i quali vale lo stesso certificato sanitario o lo stesso altro documento di accompagnamento, trasportati con lo stesso mezzo di trasporto, provenienti dallo stesso luogo di provenienza, destinati alla stessa azienda di destinazione;
+- i. *lettera o pacco*: partita secondo l’articolo 2 lettera c o d della legge del 17 dicembre 2010[^4-11] sulle poste;
+- j. *importazione*: introduzione permanente o temporanea di animali e prodotti animali nel territorio d’importazione, ad eccezione dei trasporti a scopo di transito secondo l’articolo 6 lettera i della legge del 18 marzo 2005[^4-12] sulle dogane (LD);
+- k. *importatore*: persona fisica o giuridica responsabile di un’importazione, definita come importatore in un eventuale DSCE[^4-13];
 - l. *persona soggetta all’obbligo di dichiarazione*: persona secondo l’articolo 26 LD;
 - m. *impresa che presta servizi di sdoganamento:* impresa che, su incarico degli esercenti di aeroporti, garantisce il collegamento tra le compagnie aeree e le imprese di spedizione (handling agent);
 - n. *azienda di destinazione:* azienda nel luogo in cui devono essere trasportati gli animali o i prodotti animali, definita come azienda di destinazione in un eventuale DSCE;
-- o.[^4-13] *posto d’ispezione frontaliero:* luogo, con le relative strutture, in cui vengono effettuati i controlli veterinari di confine;
+- o.[^4-14] posto *d’ispezione frontaliero:* luogo, con le relative strutture, in cui vengono effettuati i controlli veterinari di confine;
 - p. *esportatore*: persona fisica o giuridica responsabile dell’esportazione.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
@@ -124,12 +124,13 @@ Nella presente ordinanza si intende per:
 [^4-5]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, p. 1; modificato da ultimo dal regolamento delegato (UE) 2019/478, GU L 82 del 25.3.2019, p. 4.
 [^4-6]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 [^4-7]: Introdotta dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1661](https://fedlex.data.admin.ch/eli/oc/2017/171)).
-[^4-8]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-9]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
-[^4-10]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^4-11]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-12]: Nuovo termine giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^4-13]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-8]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-9]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-10]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
+[^4-11]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^4-12]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-13]: Nuovo termine giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-14]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
 ## Capitolo 2: Importazione
 
@@ -211,7 +212,7 @@ La carne bovina delle voci di tariffa 0201.2091, 0202.2091, 0201.3091 e 0202.309
 
 <sup>2</sup>
 
-L’importatore di carne bovina di cui al capoverso 1 e tutti gli acquirenti successivi devono garantire all’AFD, con un vincolo d’impiego, di:[^9-2]
+L’importatore di carne bovina di cui al capoverso 1 e tutti gli acquirenti successivi devono garantire all’UDSC, con un vincolo d’impiego, di:[^9-2]
 
 - a. tenere una contabilità delle merci;
 - b. indicare nei documenti di vendita e fornitura, a ogni cessione di carne bovina, che quest’ultima può essere destinata esclusivamente al consumo nel territorio doganale svizzero (riserva d’impiego); e
@@ -473,7 +474,7 @@ Le seguenti partite di animali e prodotti animali devono essere notificate al ve
 
 [^23-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
-### Sezione 6: Presentazione al controllo veterinario di confine, dichiarazione doganale, custodia doganale, deposito doganale e deposito franco doganale
+### Sezione 6: Presentazione al controllo veterinario di confine, dichiarazione doganale, custodia doganale, deposito doganale e deposito franco doganale****
 
 [^chap2-sec6-1]
 
@@ -735,7 +736,7 @@ Le seguenti disposizioni valide per l’importazione si applicano per analogia a
 
 <sup>3</sup> Se durante il transito verso gli Stati membri dell’UE, l’Islanda e la Norvegia i prodotti animali restano in aeroporto più di 48 ore, deve essere effettuata una seconda comunicazione.
 
-<sup>4</sup> All’interno dell’aeroporto gli animali e i prodotti animali non possono lasciare il perimetro delimitato dall’AFD, salvo che ne sia stato autorizzato il trasporto per via terrestre.
+<sup>4</sup> All’interno dell’aeroporto gli animali e i prodotti animali non possono lasciare il perimetro delimitato dall’UDSC, salvo che ne sia stato autorizzato il trasporto per via terrestre.
 
 #### Art. 42
 
@@ -1305,7 +1306,7 @@ In caso di prodotti animali soggetti a oneri particolari in transito verso gli S
 
 <sup>1</sup> In caso di transito di partite soggette al controllo veterinario di confine attraverso gli Stati membri dell’UE, l’Islanda o la Norvegia a destinazione di un Paese terzo, il servizio veterinario di confine informa mediante TRACES l’autorità competente del posto d’ispezione frontaliero dal quale la partita lascerà il territorio d’importazione o uno Stato membro dell’UE, l’Islanda o la Norvegia a destinazione di un Paese terzo.[^78-1]
 
-<sup>2</sup> Se ha motivo di ritenere che una partita non abbia lasciato il territorio d’importazione o gli Stati membri dell’UE, l’Islanda o la Norvegia entro il termine previsto, il servizio veterinario di confine informa l’AFD. Quest’ultima compie ulteriori accertamenti. Se l’AFD non può appurare l’uscita dal territorio d’importazione, da uno Stato membro dell’UE, dall’Islanda o dalla Norvegia, l’USAV informa le autorità competenti dei Cantoni e i Paesi attraverso i quali doveva transitare la partita.
+<sup>2</sup> Se ha motivo di ritenere che una partita non abbia lasciato il territorio d’importazione o gli Stati membri dell’UE, l’Islanda o la Norvegia entro il termine previsto, il servizio veterinario di confine informa l’UDSC. Quest’ultimo compie ulteriori accertamenti. Se l’UDSC non può appurare l’uscita dal territorio d’importazione, da uno Stato membro dell’UE, dall’Islanda o dalla Norvegia, l’USAV informa le autorità competenti dei Cantoni e i Paesi attraverso i quali doveva transitare la partita.
 
 [^78-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
@@ -1382,18 +1383,18 @@ Se dal confronto dei dati emerge che non c’è alcun rilascio da parte del serv
 
 #### Art. 83
 
-**Misure dell’AFD in caso di importazione, transito ed esportazione illegali**
+**Misure dell’UDSC in caso di importazione, transito ed esportazione illegali**
 
 <sup>1</sup>
 
-Se ai posti d’ispezione frontalieri autorizzati l’AFD constata che vi sono animali o prodotti animali che non soddisfano le condizioni di importazione, transito o esportazione, lo comunica:
+Se ai posti d’ispezione frontalieri autorizzati l’UDSC constata che vi sono animali o prodotti animali che non soddisfano le condizioni di importazione, transito o esportazione, lo comunica:
 
 - a. in caso di importazione o transito, al servizio veterinario di confine;
 - b. in caso di esportazione, all’autorità competente del Cantone sul cui territorio è avvenuto il controllo.
 
-<sup>2</sup> Se al di fuori dei posti d’ispezione frontalieri autorizzati l’AFD constata che vi sono animali o prodotti animali che non soddisfano le condizioni di importazione, transito o esportazione, lo comunica all’autorità competente del Cantone sul cui territorio è avvenuto il controllo.
+<sup>2</sup> Se al di fuori dei posti d’ispezione frontalieri autorizzati l’UDSC constata che vi sono animali o prodotti animali che non soddisfano le condizioni di importazione, transito o esportazione, lo comunica all’autorità competente del Cantone sul cui territorio è avvenuto il controllo.
 
-<sup>3</sup> Su richiesta, l’AFD fornisce all’autorità cantonale competente informazioni riguardo a tutti i fatti importanti e le consente di esaminare gli atti.
+<sup>3</sup> Su richiesta, l’UDSC fornisce all’autorità cantonale competente informazioni riguardo a tutti i fatti importanti e le consente di esaminare gli atti.
 
 #### Art. 84
 
@@ -1401,7 +1402,7 @@ Se ai posti d’ispezione frontalieri autorizzati l’AFD constata che vi sono a
 
 <sup>1</sup> Se gli animali e i prodotti animali non soddisfano le condizioni di importazione, transito o esportazione, l’autorità cantonale competente adotta le misure necessarie per proteggere la salute umana e animale.
 
-<sup>2</sup> Se privati o organi diversi dall’AFD notificano l’importazione o il transito illegale di animali o prodotti animali nel territorio d’importazione, l’autorità cantonale competente ne informa l’AFD.
+<sup>2</sup> Se privati o organi diversi dall’UDSC notificano l’importazione o il transito illegale di animali o prodotti animali nel territorio d’importazione, l’autorità cantonale competente ne informa l’UDSC.
 
 <sup>3</sup> Per quanto riguarda gli animali, l’autorità cantonale competente può disporre in particolare il sequestro, il respingimento o la soppressione. L’autorità che ha ordinato un sequestro ricovera gli animali sequestrati in un luogo da essa designato, a spese e a rischio dell’autore dell’infrazione.
 
@@ -1449,7 +1450,7 @@ Il veterinario cantonale è responsabile dello svolgimento dei controlli relativ
 
 ## Capitolo 7: Organizzazione esecutiva
 
-### Sezione 1: Servizio veterinario di confine e AFD
+### Sezione 1: Servizio veterinario di confine e UDSC
 
 #### Art. 88
 
@@ -1507,15 +1508,15 @@ Sotto la sorveglianza dei veterinari di confine, gli assistenti SVC possono esse
 
 <sup>4</sup> I dirigenti dei posti d’ispezione tengono un registro sulla formazione e sul perfezionamento dei loro sottoposti.
 
-<sup>5</sup> LʼUSAV organizza, in collaborazione con lʼAFD, corsi di formazione e perfezionamento per il servizio veterinario di confine sullʼesecuzione della legislazione in materia di epizoozie, protezione degli animali, derrate alimentari e dogane.
+<sup>5</sup> LʼUSAV organizza, in collaborazione con lʼUDSC, corsi di formazione e perfezionamento per il servizio veterinario di confine sullʼesecuzione della legislazione in materia di epizoozie, protezione degli animali, derrate alimentari e dogane.
 
 [^93-1]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
 
 #### Art. 94
 
-**Obbligo di informazione dell’AFD**
+**Obbligo di informazione dell’UDSC**
 
-Su richiesta, l’AFD fornisce all’USAV informazioni riguardo a tutti i fatti importanti per l’esecuzione della presente ordinanza e gli consente di esaminare gli atti.
+Su richiesta, l’UDSC fornisce all’USAV informazioni riguardo a tutti i fatti importanti per l’esecuzione della presente ordinanza e gli consente di esaminare gli atti.
 
 ### Sezione 2: Posti d’ispezione frontalieri autorizzati
 
@@ -1562,7 +1563,7 @@ Su richiesta, l’AFD fornisce all’USAV informazioni riguardo a tutti i fatti 
 Devono essere registrate in TRACES le seguenti autorità, istituzioni e persone:[^98-1]
 
 - a. l’USAV;
-- b. l’AFD;
+- b. l’UDSC;
 - c. gli uffici dei veterinari cantonali;
 - d. gli uffici dei chimici cantonali;
 - e. i veterinari ufficiali designati dai veterinari cantonali;
@@ -1591,7 +1592,7 @@ Le autorità e le persone registrate hanno accesso a TRACES per quanto necessari
 
 <sup>2</sup> Le autorità e le persone registrate sono tenute a frequentare periodicamente dei corsi di aggiornamento.
 
-<sup>3</sup> L’USAV organizza il corso di base e i corsi di aggiornamento per l’AFD e i responsabili TRACES degli uffici cantonali. La frequentazione di questi corsi è gratuita.
+<sup>3</sup> L’USAV organizza il corso di base e i corsi di aggiornamento per l’UDSC e i responsabili TRACES degli uffici cantonali. La frequentazione di questi corsi è gratuita.
 
 <sup>4</sup> L’USAV organizza inoltre corsi per le persone di cui all’articolo 17. La frequentazione di questi corsi è gratuita.
 
@@ -1790,9 +1791,9 @@ Il veterinario cantonale o il chimico cantonale responsabile per la disposizione
 
 **Perseguimento penale**
 
-<sup>1</sup> In caso di importazione o transito illegali, l’autorità cantonale competente per il perseguimento penale o l’USAV promuove un’azione penale. Se contemporaneamente sussiste un’infrazione alla LD[^109-1] o alla legge del 12 giugno 2009[^109-2] sull’IVA, è l’AFD a promuovere un’azione penale.
+<sup>1</sup> In caso di importazione o transito illegali, l’autorità cantonale competente per il perseguimento penale o l’USAV promuove un’azione penale. Se contemporaneamente sussiste un’infrazione alla LD[^109-1] o alla legge del 12 giugno 2009[^109-2] sull’IVA, è l’UDSC a promuovere un’azione penale.
 
-<sup>2</sup> Su richiesta dell’autorità cantonale competente per il perseguimento penale o dell’USAV, l’AFD notifica ed esegue i decreti penali e le decisioni penali per infrazioni che sono state oggetto di un’inchiesta da parte della stessa AFD.
+<sup>2</sup> Su richiesta dell’autorità cantonale competente per il perseguimento penale o dell’USAV, l’UDSC notifica ed esegue i decreti penali e le decisioni penali per infrazioni che sono state oggetto di un’inchiesta da parte dello stesso UDSC.
 
 <sup>3</sup> In caso di esportazione illegale, l’autorità cantonale competente per il perseguimento penale promuove un’azione penale.
 
@@ -1810,7 +1811,7 @@ Il veterinario cantonale o il chimico cantonale responsabile per la disposizione
 
 <sup>1</sup> Salvo disposizioni contrarie della presente ordinanza, l’esecuzione compete alla Confederazione.
 
-<sup>2</sup> Le autorità federali competenti sono l’USAV e l’AFD.
+<sup>2</sup> Le autorità federali competenti sono l’USAV e l’UDSC.
 
 <sup>3</sup> L’USAV emana le direttive tecniche necessarie per un’esecuzione adeguata e uniforme.
 
@@ -1869,7 +1870,7 @@ I seguenti atti normativi sono modificati come segue:
 
 ...[^annexu1-lvlu1-4]
 
-[^annexu1-lvlu1-1]: [[RU 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269), [2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)all. 6 n. II 1 [4157](https://fedlex.data.admin.ch/eli/oc/2008/592)[5197](https://fedlex.data.admin.ch/eli/oc/2008/732), [2009 1567](https://fedlex.data.admin.ch/eli/oc/2009/227), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 6 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 7, [2012 2855](https://fedlex.data.admin.ch/eli/oc/2012/334), [2013 949](https://fedlex.data.admin.ch/eli/oc/2013/194)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 15, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 10 [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all. n. 3]
-[^annexu1-lvlu1-2]: [[RU 2007 2743](https://fedlex.data.admin.ch/eli/oc/2007/360), [2008 4167](https://fedlex.data.admin.ch/eli/oc/2008/593)[4867](https://fedlex.data.admin.ch/eli/oc/2008/679), [2012 2861](https://fedlex.data.admin.ch/eli/oc/2012/336)[6407](https://fedlex.data.admin.ch/eli/oc/2012/763)all. 2 n. 3, [2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)all. 6 n. II 3]
-[^annexu1-lvlu1-3]: [[RU 2008 4173](https://fedlex.data.admin.ch/eli/oc/2008/594)[4869](https://fedlex.data.admin.ch/eli/oc/2008/680), [2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 7, [2012 2863](https://fedlex.data.admin.ch/eli/oc/2012/337), [2015 1827](https://fedlex.data.admin.ch/eli/oc/2015/353)II]
+[^annexu1-lvlu1-1]: [[RU 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269); [2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)all. 6 n. II 1, [4157](https://fedlex.data.admin.ch/eli/oc/2008/592), [5197](https://fedlex.data.admin.ch/eli/oc/2008/732); [2009 1567](https://fedlex.data.admin.ch/eli/oc/2009/227); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 6, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 7; [2012 2855](https://fedlex.data.admin.ch/eli/oc/2012/334); [2013 949](https://fedlex.data.admin.ch/eli/oc/2013/194), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 15; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 10, [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all. n. 3]
+[^annexu1-lvlu1-2]: [[RU 2007 2743](https://fedlex.data.admin.ch/eli/oc/2007/360); [2008 4167](https://fedlex.data.admin.ch/eli/oc/2008/593), [4867](https://fedlex.data.admin.ch/eli/oc/2008/679); [2012 2861](https://fedlex.data.admin.ch/eli/oc/2012/336), [6407](https://fedlex.data.admin.ch/eli/oc/2012/763)all. 2 n. 3; [2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)all. 6 n. II 3]
+[^annexu1-lvlu1-3]: [[RU 2008 4173](https://fedlex.data.admin.ch/eli/oc/2008/594), [4869](https://fedlex.data.admin.ch/eli/oc/2008/680); [2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 7; [2012 2863](https://fedlex.data.admin.ch/eli/oc/2012/337); [2015 1827](https://fedlex.data.admin.ch/eli/oc/2015/353)II]
 [^annexu1-lvlu1-4]: Le mod. possono essere consultate alla [RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843).
