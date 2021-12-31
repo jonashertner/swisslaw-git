@@ -4,11 +4,11 @@ title: Gebührenverordnung vom 23. September 1996 zum Bundesgesetz über Schuldb
 short: GebV SchKG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937"
 language: de
-version: 2019-01-01
+version: 2022-01-01
 adopted: 1996-09-23
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937/20190101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2937_2937_2937-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2937_2937_2937-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2937_2937_2937/20190101/de"
 
 (GebV SchKG)
 
-vom 23. September 1996 (Stand am 1. Januar 2019)
+vom 23. September 1996 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -96,11 +96,15 @@ Die Gebühr für die Erstellung eines nicht besonders tarifierten Schriftstücks
 - a. 8 Franken je Seite bis zu einer Anzahl von 20 Ausfertigungen;
 - b. 4 Franken je Seite für jede weitere Ausfertigung.
 
+<sup>1</sup> <sup>bis</sup> Erfordert die Erstellung eines Schriftstücks mehr als eine Stunde, so erhöht sich die Gebühr um 40 Franken für jede weitere halbe Stunde.[^9-1]
+
 <sup>2</sup> Schriftstücke im Geldverkehr und Aktenexemplare sind gebührenfrei.
 
 <sup>3</sup> Für Fotokopien aus bestehenden Akten kann das Amt eine Gebühr von 2 Franken je Kopie erheben.
 
 <sup>4</sup> Das Amt kann für das Ausfüllen von Formularen für Begehren eine Gebühr bis zu 5 Franken erheben.
+
+[^9-1]: Eingefügt durch Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 
 #### Art. 10
 
@@ -111,6 +115,14 @@ Die Gebühr für die Erstellung eines nicht besonders tarifierten Schriftstücks
 <sup>2</sup> Für den Versand eines Schriftstücks per Telefax kann eine Gebühr von 1 Franken erhoben werden. Umfasst das Schriftstück mehr als 5 Seiten, so erhöht sich die Gebühr um 1 Franken für jeweils weitere 5 Seiten.
 
 [^10-1]: Fassung gemäss Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+
+#### Art. 10<sup>bis</sup>
+
+[^10bis-1]
+
+Wurde mindestens einmal erfolglos versucht, dem Schuldner einen Zahlungsbefehl, eine Pfändungsankündigung oder eine Konkursandrohung zuzustellen, und wird er daraufhin schriftlich aufgefordert, das Dokument persönlich auf dem Betreibungsamt abzuholen, so beträgt die Gebühr für dieses Schreiben 8 Franken.
+
+[^10bis-1]: Eingefügt durch Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 
 #### Art. 11
 
@@ -155,7 +167,7 @@ Die Gebühr für eine öffentliche Bekanntmachung beträgt bis 40 Franken. Über
 
 **Auslagen im allgemeinen**
 
-<sup>1</sup> Unter Vorbehalt der Absätze 2 und 3 sind alle Auslagen, wie Verwaltungskosten, Post- und Fernmeldetaxen, Honorare für Sachverständige, Kosten für den Beizug der Polizei sowie Bankspesen zu ersetzen. Die Mehrkosten einer Nachnahme trägt die Partei, welche sie verursacht.
+<sup>1</sup> Auslagen sind zu ersetzen. Als Auslagen gelten namentlich Verwaltungskosten, Post- und Fernmeldetaxen, Honorare für Sachverständige, Kosten für den Beizug der Polizei sowie Bankspesen. Die Mehrkosten einer Nachnahme trägt die Partei, welche sie verursacht.[^13-1]
 
 <sup>2</sup> Bei Zustellung durch das Amt gelten als Auslagen nur die dadurch eingesparten Posttaxen.
 
@@ -165,15 +177,17 @@ Keinen Anspruch auf Ersatz begründen:
 
 - a. Kosten des Materials und der Vervielfältigung gebührenpflichtiger Schriftstücke;
 - b. die allgemeinen Telekommunikationsgebühren;
-- c.[^13-1] Postkontotaxen, unter Vorbehalt von Artikel 19 Absatz 3;
-- d. Die Einschreibegebühr bei Zustellung eines Zahlungsbefehls, einer Pfändungsankündigung oder einer Konkursandrohung durch das Amt;
-- e.[^13-2] die Gebühr für die Nutzung des eSchKG-Verbundes gemäss Artikel 15*a*.
+- c.[^13-2] Postkontotaxen, unter Vorbehalt von Artikel 19 Absatz 3;
+- d.[^13-3] …
+- e.[^13-4] die Gebühr für die Nutzung des eSchKG-Verbundes gemäss Artikel 15*a*.
 
-<sup>4</sup> Bedient sich das Amt bei der Zustellung eines Zahlungsbefehls, einer Pfändungsankündigung oder einer Konkursandrohung eines besonderen Zustelldienstes der Schweizerischen Post, so können die die Einschreibegebühr übersteigenden Kosten der sie verursachenden Partei überbunden werden, sofern vorher mindestens ein erfolgloser Zustellungsversuch stattgefunden hat.[^13-3]
+<sup>4</sup> Bedient sich das Amt bei der Zustellung eines Zahlungsbefehls, einer Pfändungsankündigung oder einer Konkursandrohung eines besonderen Zustelldienstes der Schweizerischen Post, so können die die Einschreibegebühr übersteigenden Kosten der sie verursachenden Partei überbunden werden, sofern vorher mindestens ein erfolgloser Zustellungsversuch stattgefunden hat.[^13-5]
 
-[^13-1]: Fassung gemäss Ziff. II 20 der V vom 1. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
-[^13-2]: Eingefügt durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
-[^13-3]: Eingefügt durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^13-1]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^13-2]: Fassung gemäss Ziff. II 20 der V vom 1. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
+[^13-3]: Aufgehoben durch Ziff. I der V vom 28. April 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^13-4]: Eingefügt durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^13-5]: Eingefügt durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 #### Art. 14
 
@@ -198,27 +212,49 @@ Keinen Anspruch auf Ersatz begründen:
 
 #### Art. 15a
 
-**Begehren nach dem eSchKG-Verbund**[^15a-1]
+**Gebühren im eSchKG-Verbund[^15a-2]**[^15a-1]
 
-<sup>1</sup> Wird ein Betreibungsbegehren oder ein Begehren für einen Auszug aus dem Betreibungsregister nach dem eSchKG-Verbund eingereicht, so erhebt das Bundesamt für Justiz (BJ) vom betroffenen Betreibungsamt folgende Gebühren:
+<sup>1</sup> Wird in einer geschlossenen Benutzergruppe nach Artikel 14 Absatz 1 der Verordnung vom 18. Juni 2010[^15a-3] über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren (eSchKG-Verbund) ein Betreibungsbegehren oder ein Begehren für einen Auszug aus dem Betreibungsregister eingereicht, so erhebt das Bundesamt für Justiz (BJ) vom betroffenen Betreibungsamt folgende Gebühren:
 
 <table>
-<tr><td>Anzahl der Begehren</td><td>Gebühr pro Begehren/Franken</td></tr>
-<tr><td>bis 1 000</td><td>1.—</td></tr>
-<tr><td>über 1 000 bis 5 000</td><td>–.90</td></tr>
-<tr><td>über 5 000 bis 10 000</td><td>–.80</td></tr>
-<tr><td>über 10 000</td><td>–.70</td></tr>
+<tr><td></td><td>Gebühr pro Begehren/Franken</td></tr>
+<tr><td>für die ersten 1 000 Begehren</td><td>1.—</td></tr>
+<tr><td>für die Begehren 1 001 bis 5 000</td><td>–.90</td></tr>
+<tr><td>für die Begehren 5 001 bis 10 000</td><td>–.80</td></tr>
+<tr><td>für die Begehren ab 10 001</td><td>–.70.[^15a-4]</td></tr>
 </table>
 
 <sup>2</sup> Betreibt ein Kanton eine zentrale Applikation für alle Betreibungsämter und können die Gebühren gemäss Absatz 1 in einer Rechnung gestellt werden, so wird für deren Berechnung die Summe aller Begehren aller Betreibungsämter herangezogen.
 
-<sup>3</sup> Für den Beitritt zum eSchKG-Verbund wird eine einmalige Aufnahmegebühr von 500 Franken erhoben.
+<sup>3</sup> Erfordert die Rechnungsstellung ausserordentlichen Aufwand, so beträgt die Gebühr 40 Franken. Übersteigt der Zeitaufwand eine halbe Stunde, so erhöht sich die Gebühr um 40 Franken für jede weitere halbe Stunde.[^15a-5]
 
-<sup>4</sup> Ab dem zweiten Kalenderjahr wird von jedem Beteiligten im eSchKG-Verbund eine Gebühr von 200 Franken pro Jahr für die Erneuerung des Zugangs zum Verbund erhoben.
+<sup>4</sup> Für die Erhebung dieser Gebühren ist das BJ oder eine von ihm beauftragte Stelle zuständig.[^15a-6]
 
-<sup>5</sup> Für die Erhebung dieser Gebühren ist das BJ oder eine von ihm beauftragte Stelle zuständig.
+<sup>5</sup> …[^15a-7]
 
 [^15a-1]: Eingefügt durch Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)). Fassung gemäss Ziff. I der V vom 20. Jan. 2016, in Kraft seit 1. Febr. 2016 ([AS 2016 275](https://fedlex.data.admin.ch/eli/oc/2016/38)).
+[^15a-2]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15a-3]: [SR 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
+[^15a-4]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15a-5]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15a-6]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^15a-7]: Aufgehoben durch Ziff. I der V vom 28. April 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+
+#### Art. 15b
+
+**Ersatz von Auslagen im eSchKG-Verbund**[^15b-1]
+
+<sup>1</sup> Für den Beitritt zum eSchKG-Verbund werden einmalige Kosten von 500 Franken erhoben.
+
+<sup>2</sup> Ab dem zweiten Kalenderjahr werden von jedem Beteiligten im eSchKG-Verbund 200 Franken pro Jahr für die Erneuerung des Zugangs zum Verbund erhoben.
+
+<sup>3</sup> Für das Ausstellen und für jede Erneuerung der Signaturzertifikate der Betreibungsämter werden 50 Franken erhoben.
+
+<sup>4</sup> Ist ein Beizug Dritter notwendig, so sind alle diesbezüglichen Auslagen, insbesondere Honorare für Sachverständige, von demjenigen Teilnehmer zu ersetzen, der diese Kosten verursacht hat.
+
+<sup>5</sup> Die Rechnungstellung erfolgt durch das BJ oder eine von ihm beauftragte Stelle.
+
+[^15b-1]: Eingefügt durch Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 
 ## 2. Kapitel: Gebühren des Betreibungsamtes
 
@@ -229,7 +265,7 @@ Keinen Anspruch auf Ersatz begründen:
 <sup>1</sup> Die Gebühr für den Erlass, die doppelte Ausfertigung, die Eintragung und die Zustellung des Zahlungsbefehls bemisst sich nach der Forderung und beträgt:
 
 <table>
-<tr><td colspan="3">Forderung/Franken</td><td colspan="3">Gebühr/Franken</td></tr>
+<tr><th colspan="3">Forderung/Franken</th><th colspan="3">Gebühr/Franken</th></tr>
 <tr><td></td><td></td><td></td><td>bis</td><td>100</td><td>7.–</td></tr>
 <tr><td>über</td><td>100</td><td></td><td>bis</td><td>500</td><td>20.–</td></tr>
 <tr><td>über</td><td>500</td><td></td><td>bis</td><td>1 000</td><td>40.–</td></tr>
@@ -264,9 +300,9 @@ Die mit dem Rechtsvorschlag verbundenen Verrichtungen sind gebührenfrei.
 <sup>1</sup> Die Gebühr für die Entgegennahme einer Zahlung und deren Überweisung an einen Gläubiger bemisst sich nach der betreffenden Summe und beträgt:
 
 <table>
-<tr><td colspan="4">Summe/Franken</td><td>Gebühr/Franken</td></tr>
-<tr><td>bis</td><td>1000</td><td></td><td colspan="2">5.–</td></tr>
-<tr><td>über</td><td>1000</td><td></td><td colspan="2">5 Promille, jedoch höchstens 500.–</td></tr>
+<tr><td colspan="3">Summe/Franken</td><td>Gebühr/Franken</td></tr>
+<tr><td>bis</td><td>1000</td><td></td><td>5.–</td></tr>
+<tr><td>über</td><td>1000</td><td></td><td>5 Promille, jedoch höchstens 500.–</td></tr>
 </table>
 
 <sup>2</sup> Einzahlungen des Amtes auf ein Depot und Abhebungen sind gebührenfrei (Art. 9 SchKG).
@@ -280,7 +316,7 @@ Die mit dem Rechtsvorschlag verbundenen Verrichtungen sind gebührenfrei.
 <sup>1</sup> Die Gebühr für den Vollzug einer Pfändung, einschliesslich Abfassung der Pfändungsurkunde, bemisst sich nach der Forderung und beträgt:
 
 <table>
-<tr><td colspan="3">Forderung/Franken</td><td colspan="3">Gebühr/Franken</td></tr>
+<tr><th colspan="3">Forderung/Franken</th><th colspan="3">Gebühr/Franken</th></tr>
 <tr><td></td><td></td><td></td><td>bis</td><td>100</td><td>10.–</td></tr>
 <tr><td>über</td><td>100</td><td></td><td>bis</td><td>500</td><td>25.–</td></tr>
 <tr><td>über</td><td>500</td><td></td><td>bis</td><td>1 000</td><td>45.–</td></tr>
@@ -501,9 +537,11 @@ Die Gebühr für die Erstellung eines Güterverzeichnisses (Art. 162 und 163 Sch
 
 #### Art. 41
 
-**Löschung eines Verlustscheines**
+**Rückzug einer Betreibung und Löschung eines Verlustscheines**[^41-1]
 
-Die Löschung eines Verlustscheines ist gebührenfrei.
+Die Protokollierung des Rückzugs einer Betreibung und die Löschung eines Verlustscheines sind gebührenfrei.
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
 
 #### Art. 42
 
@@ -588,21 +626,25 @@ Die Entschädigung je halbe Sitzungsstunde beträgt:
 
 #### Art. 48
 
-**Spruchgebühr**
+**Entscheidgebühr**[^48-1]
 
-Sofern diese Verordnung nichts anderes vorsieht, bestimmt sich die Spruchgebühr für einen gerichtlichen Entscheid in betreibungsrechtlichen Summarsachen (Art. 251 der Zivilprozessordnung vom 19. Dez. 2008[^48-1], ZPO) wie folgt nach dem Streitwert:[^48-2]
+<sup>1</sup> Sofern diese Verordnung nichts anderes vorsieht, bestimmt sich die Gebühr für einen gerichtlichen Entscheid in betreibungsrechtlichen Summarsachen (Art. 251 der Schweizerischen Zivilprozessordnung[^48-2], ZPO) wie folgt nach dem Streitwert:
 
 <table>
 <tr><td colspan="4">Streitwert/Franken</td><td colspan="2">Gebühr/Franken</td></tr>
-<tr><td></td><td></td><td></td><td>bis</td><td>1 000</td><td>40–150</td></tr>
-<tr><td>über</td><td>1 000</td><td></td><td>bis</td><td>10 000</td><td>50–300</td></tr>
-<tr><td>über</td><td>10 000</td><td></td><td>bis</td><td>100 000</td><td>60–500</td></tr>
-<tr><td>über</td><td>100 000</td><td></td><td>bis</td><td>1 000 000</td><td>70–1000</td></tr>
-<tr><td>über</td><td>1 000 000</td><td></td><td></td><td></td><td>120–2000</td></tr>
+<tr><td></td><td></td><td>bis</td><td>1 000</td><td colspan="2">40–150</td></tr>
+<tr><td>über</td><td>1 000</td><td>bis</td><td>10 000</td><td colspan="2">50–300</td></tr>
+<tr><td>über</td><td>10 000</td><td>bis</td><td>100 000</td><td colspan="2">60–500</td></tr>
+<tr><td>über</td><td>100 000</td><td>bis</td><td>1 000 000</td><td colspan="2">70–2 000</td></tr>
+<tr><td>über</td><td>1 000 000</td><td></td><td></td><td colspan="2">500–4 000</td></tr>
 </table>
 
-[^48-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^48-2]: Fassung gemäss Ziff. II 5 der V vom 18. Juni 2010 über die Anpassung von Verordnungen an die Schweizerische Zivilprozessordnung, in Kraft seit 1. Jan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+<sup>2</sup> Die Gebühr für den gerichtlichen Entscheid über die Vollstreckbarkeit eines ausländischen Entscheids gemäss Artikel 271 Absatz 3 SchKG beträgt höchstens 1000 Franken.
+
+<sup>3</sup> Keine Entscheidgebühr wird erhoben, wenn es um die Sicherung oder Vollstreckung eines Anspruchs aus einer Streitigkeit gemäss Artikel 114 ZPO geht.
+
+[^48-1]: Fassung gemäss Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
+[^48-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 
 #### Art. 49 und 50
 
@@ -716,4 +758,12 @@ Unentgeltlich sind:
 
 <sup>2</sup> Diese Verordnung tritt am 1. Januar 1997 in Kraft.
 
-[^63-1]: [[AS 1971 1080](https://fedlex.data.admin.ch/eli/oc/1971/1080_1080_1081), [1977 2164](https://fedlex.data.admin.ch/eli/oc/1977/2164_2164_2164), [1983 784](https://fedlex.data.admin.ch/eli/oc/1983/784_784_784), [1987 757](https://fedlex.data.admin.ch/eli/oc/1987/757_757_757), [1989 2409](https://fedlex.data.admin.ch/eli/oc/1989/2409_2409_2409), [1991 1312](https://fedlex.data.admin.ch/eli/oc/1991/1312_1312_1312), [1994 202](https://fedlex.data.admin.ch/eli/oc/1994/202_202_202)[358](https://fedlex.data.admin.ch/eli/oc/1994/358_358_358)]
+[^63-1]: [[AS 1971 1080](https://fedlex.data.admin.ch/eli/oc/1971/1080_1080_1081); [1977 2164](https://fedlex.data.admin.ch/eli/oc/1977/2164_2164_2164); [1983 784](https://fedlex.data.admin.ch/eli/oc/1983/784_784_784); [1987 757](https://fedlex.data.admin.ch/eli/oc/1987/757_757_757); [1989 2409](https://fedlex.data.admin.ch/eli/oc/1989/2409_2409_2409); [1991 1312](https://fedlex.data.admin.ch/eli/oc/1991/1312_1312_1312); [1994 202](https://fedlex.data.admin.ch/eli/oc/1994/202_202_202)[358](https://fedlex.data.admin.ch/eli/oc/1994/358_358_358)]
+
+#### Art. 63a
+
+**Übergangsbestimmung zur Änderung vom 28. April 2021**[^63a-1]
+
+Auf Handlungen, die vor Inkrafttreten der Änderung vom 28. April 2021 vorgenommen wurden, jedoch erst nach diesem Zeitpunkt abgerechnet werden, findet das bisherige Recht Anwendung.
+
+[^63a-1]: Eingefügt durch Ziff. I der V vom 28. April 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 259](https://fedlex.data.admin.ch/eli/oc/2021/259)).
