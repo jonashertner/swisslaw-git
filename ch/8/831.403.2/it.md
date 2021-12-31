@@ -4,11 +4,11 @@ title: "Ordinanza del 22 giugno 2011 sulle fondazioni d'investimento (OFond)"
 short: OFond
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/459"
 language: it
-version: 2020-10-01
+version: 2022-01-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20201001/it/xml/fedlex-data-admin-ch-eli-cc-2011-459-20201001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20201001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-459-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20201001/it"
 
 (OFond)
 
-del 10 e 22 giugno 2011 (Stato 1° ottobre 2020)
+del 10 e 22 giugno 2011 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -135,7 +135,7 @@ Il consiglio di fondazione può delegare compiti a terzi a condizione che, oltre
 - a. si tratta di compiti la cui delega è ammessa dalla legge e dagli atti regolatori della fondazione;
 - b. la delega di compiti è stabilita in un contratto scritto;
 - c. l’articolo 12 è rispettato;
-- d.[^7-2] ...
+- d.[^7-2] …
 
 <sup>3</sup> I compiti delegati a terzi possono essere subdelegati solo se il consiglio di fondazione vi ha previamente acconsentito e se sono rispettate le disposizioni sulla delega di compiti. La fondazione e l’ufficio di revisione devono poter continuare a controllare e verificare i compiti delegati.[^7-3]
 
@@ -237,7 +237,7 @@ Possono esercitare la funzione di ufficio di revisione soltanto le imprese che s
 
 Gli statuti possono delegare al consiglio di fondazione il compito di disciplinare i settori seguenti:
 
-- a.[^13-1] ...
+- a.[^13-1] …
 - b. i periti incaricati delle stime (art. 11);
 - c. la banca depositaria (art. 12);
 - d. la collocazione del patrimonio d’investimento (art. 14);
@@ -292,7 +292,7 @@ Necessitano dell’esame preliminare da parte dell’autorità di vigilanza:
 
 - a. le proposte di modifica degli statuti, prima che l’assemblea degli investitori decida in merito;
 - b. le modifiche delle disposizioni regolamentari che il consiglio di fondazione sottopone al voto dell’assemblea degli investitori;
-- c.[^17-1] l’emanazione o la modifica delle direttive di investimento relative a gruppi di investimento che operano nei settori degli immobili all’estero, delle infrastrutture o degli investimenti alternativi.
+- c.[^17-1] l’emanazione o la modifica delle direttive di investimento relative a gruppi di investimento che operano nei settori degli immobili all’estero, delle infrastrutture, del *private debt* Svizzera o del *private equity* Svizzera di cui all’articolo 53 capoverso 1 lettera d<sup>ter</sup> OPP 2[^17-2] o degli investimenti alternativi.
 
 <sup>2</sup> L’autorità di vigilanza comunica alla fondazione, per scritto ed entro un mese, l’eventuale rinuncia all’esame preliminare.
 
@@ -300,7 +300,8 @@ Necessitano dell’esame preliminare da parte dell’autorità di vigilanza:
 
 <sup>4</sup> I gruppi d’investimento di cui al capoverso 1 lettera c possono essere costituiti soltanto al termine della procedura d’esame.
 
-[^17-1]: Nuovo testo giusta il n. I 4 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^17-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
+[^17-2]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
 
 ## Sezione 8: Diritti degli investitori
 
@@ -316,13 +317,17 @@ Necessitano dell’esame preliminare da parte dell’autorità di vigilanza:
 
 #### Art. 19
 
-**Impegni all’investimento**
+**Impegni all’investimento**[^19-1]
 
 ### (art. 53*k* lett. e LPP)
 
-Nel caso dei gruppi d’investimento che operano nei settori degli immobili, delle infrastrutture o degli investimenti alternativi gli statuti o il regolamento possono autorizzare la fondazione ad accettare gli impegni vincolanti all’investimento di un importo fisso.[^19-1] In tal caso, gli statuti o il regolamento disciplinano i diritti e gli obblighi derivanti da tali impegni. L’autorità di vigilanza può porre condizioni al riguardo.
+<sup>1</sup> Nel caso dei gruppi d’investimento che operano nei settori degli immobili, delle infrastrutture, del *private debt* Svizzera, del *private equity* Svizzera o degli investimenti alternativi, gli statuti o il regolamento possono autorizzare la fondazione ad accettare gli impegni vincolanti all’investimento di un importo fisso.
 
-[^19-1]: Nuovo testo giusta il n. I 4 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+<sup>2</sup> Se prevedono questa possibilità, disciplinano i diritti e gli obblighi derivanti dagli impegni all’investimento.
+
+<sup>3</sup> L’autorità di vigilanza può porre condizioni riguardo agli impegni all’investimento.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
 
 #### Art. 20
 
@@ -595,7 +600,7 @@ Gli investimenti alternativi sono autorizzati mediante:
 
 ### (art. 53*k* lett. d LPP)
 
-<sup>1</sup> Il patrimonio d’investimento può essere collocato soltanto in investimenti collettivi diversificati in modo appropriato secondo l’articolo 56 capoverso 2 OPP 2[^30-1] e assoggettati ad adeguati obblighi d’informazione. In singoli casi motivati l’autorità di vigilanza può, in virtù dell’articolo 26 capoverso 9, concedere deroghe a gruppi d’investimento che operano nel settore degli investimenti alternativi o degli immobili all’estero.
+<sup>1</sup> Il patrimonio d’investimento può essere collocato soltanto in investimenti collettivi diversificati in modo appropriato secondo l’articolo 56 capoverso 2 OPP 2[^30-1] e assoggettati ad adeguati obblighi d’informazione. In singoli casi motivati l’autorità di vigilanza può, in virtù dell’articolo 26 capoverso 9, concedere deroghe a gruppi d’investimento che operano nei settori degli immobili all’estero, delle infrastrutture, del *private debt* Svizzera, del *private equity* Svizzera o degli investimenti alternativi.[^30-2]
 
 <sup>2</sup> Non sono ammessi gli investimenti collettivi che comportano per l’investitore obblighi di effettuare versamenti suppletivi o di fornire garanzie.
 
@@ -606,13 +611,14 @@ La quota di un investimento collettivo non può eccedere il 20 per cento del pat
 - a. è assoggettato alla vigilanza della FINMA o è stato autorizzato da quest’ultima alla distribuzione in Svizzera;
 - b. è stato lanciato da fondazioni d’investimento svizzere.
 
-<sup>3bis</sup> La quota di un investimento collettivo estero può eccedere il 20 per cento del patrimonio del gruppo d’investimento, se questo investimento è stato autorizzato da un’autorità di vigilanza estera con cui la FINMA ha concluso un accordo ai sensi dell’articolo 120 capoverso 2 lettera e della legge del 23 giugno 2006[^30-2] sugli investimenti collettivi.[^30-3]
+<sup>3bis</sup> La quota di un investimento collettivo estero può eccedere il 20 per cento del patrimonio del gruppo d’investimento, se questo investimento è stato autorizzato da un’autorità di vigilanza estera con cui la FINMA ha concluso un accordo ai sensi dell’articolo 120 capoverso 2 lettera e della legge del 23 giugno 2006[^30-3] sugli investimenti collettivi.[^30-4]
 
 <sup>4</sup> Il ricorso a investimenti collettivi non può pregiudicare il rispetto delle direttive di investimento né la salvaguardia della responsabilità gestionale.
 
 [^30-1]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
-[^30-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^30-3]: Introdotto dal n. I dell’O del 21 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^30-2]: Nuovo testo del per. giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
+[^30-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^30-4]: Introdotto dal n. I dell’O del 21 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
 
 #### Art. 31
 
@@ -640,14 +646,14 @@ Esse sono ammesse esclusivamente:
 
 - a. nei gruppi d’investimento immobiliare;
 - a<sup>bis</sup>.[^32-1] nei gruppi d’investimento operanti nel settore delle infrastrutture;
-- b.[^32-2] nei gruppi d’investimento operanti nel settore degli investimenti alternativi, se la necessità di una filiale avente carattere d’investimento è comprovata nell’ambito della procedura d’esame preliminare.
+- b.[^32-2] nei gruppi d’investimento operanti nei settori del *private debt* Svizzera, del *private equity* Svizzera o degli investimenti alternativi, se la necessità di una filiale avente carattere d’investimento è comprovata nell’ambito della procedura d’esame preliminare.
 
 <sup>3</sup> Le direttive di investimento disciplinano l’ammissibilità e i limiti di tali partecipazioni.
 
 <sup>4</sup> Nei gruppi d’investimento operanti nel settore degli immobili all’estero, l’autorità di vigilanza può autorizzare come filiali, oltre alle società con oggetto immobiliare, anche le società holding, sempre che ciò sia nell’interesse degli investitori.
 
 [^32-1]: Introdotta dal n. I 4 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^32-2]: Nuovo testo giusta il n. I dell’O del 21 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^32-2]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
 
 #### Art. 33
 
@@ -725,7 +731,7 @@ Entro quattro mesi dalla chiusura dell’esercizio, la fondazione pubblica un ra
 
 <sup>1</sup> Le pubblicazioni devono essere presentate in una forma appropriata. L’autorità di vigilanza può porre condizioni al riguardo.
 
-<sup>2</sup> Per i gruppi d’investimento che operano nei settori degli immobili, delle infrastrutture, degli investimenti alternativi o delle obbligazioni ad alto rendimento, nonché nei casi di cui all’articolo 21 capoverso 2, la fondazione deve pubblicare un prospetto. Nel caso dei gruppi d’investimento di nuova costituzione il prospetto deve essere pubblicato prima dell’apertura della fase di sottoscrizione. Le modifiche del prospetto devono parimenti essere pubblicate.[^37-1]
+<sup>2</sup> Per i gruppi d’investimento che operano nei settori degli immobili, delle infrastrutture, del *private debt* Svizzera, del *private equity* Svizzera, degli investimenti alternativi o delle obbligazioni ad alto rendimento, nonché nei casi di cui all’articolo 21 capoverso 2, la fondazione deve pubblicare un prospetto.[^37-1] Nel caso dei gruppi d’investimento di nuova costituzione il prospetto deve essere pubblicato prima dell’apertura della fase di sottoscrizione. Le modifiche del prospetto devono parimenti essere pubblicate.[^37-2]
 
 <sup>3</sup> L’autorità di vigilanza può porre condizioni riguardo al prospetto ed esigere la pubblicazione dello stesso per altri gruppi d’investimento che comportano rischi elevati o dispongono di un piano d’investimento o organizzativo complesso. A eventuali istruzioni successive dell’autorità di vigilanza va dato seguito entro tre mesi.
 
@@ -733,7 +739,8 @@ Entro quattro mesi dalla chiusura dell’esercizio, la fondazione pubblica un ra
 
 <sup>5</sup> Se il gruppo d’investimento è costituito da diritti di un unico investitore, non è necessario pubblicare il prospetto.
 
-[^37-1]: Nuovo testo giusta il n. I 4 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^37-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
+[^37-2]: Nuovo testo giusta il n. I 4 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 
 ## Sezione 12: Contabilità e rendiconto
 

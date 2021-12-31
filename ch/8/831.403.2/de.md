@@ -4,11 +4,11 @@ title: Verordnung vom 22. Juni 2011 über die Anlagestiftungen (ASV)
 short: ASV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/459"
 language: de
-version: 2020-10-01
+version: 2022-01-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20201001/de/xml/fedlex-data-admin-ch-eli-cc-2011-459-20201001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20201001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-459-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20201001/de"
 
 (ASV)
 
-vom 10. und 22. Juni 2011 (Stand am 1. Oktober 2020)
+vom 10. und 22. Juni 2011 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -135,7 +135,7 @@ Der Stiftungsrat kann Aufgaben an Dritte übertragen, sofern zusätzlich zu Absa
 - a. Es handelt sich um nach Gesetz und Satzungen übertragbare Aufgaben.
 - b. Die Übertragung von Aufgaben wird in einem schriftlichen Vertrag festgehalten.
 - c. Artikel 12 wird eingehalten.
-- d.[^7-2] ...
+- d.[^7-2] …
 
 <sup>3</sup> An Dritte übertragene Aufgaben dürfen nur weiterübertragen werden, wenn der Stiftungsrat der Weiterübertragung vorgängig zugestimmt hat und die Bestimmungen über die Aufgabenübertragung eingehalten werden. Die Stiftung und die Revisionsstelle müssen die übertragenen Aufgaben weiterhin kontrollieren beziehungsweise prüfen können.[^7-3]
 
@@ -237,7 +237,7 @@ Als Revisionsstelle können nur Unternehmen tätig sein, die von der Eidgenössi
 
 Die Statuten können die Regelung folgender Bereiche dem Stiftungsrat übertragen:
 
-- a.[^13-1] ...
+- a.[^13-1] …
 - b. Schätzungsexperten und -expertinnen (Art. 11);
 - c. Depotbank (Art. 12);
 - d. Anlage des Anlagevermögens (Art. 14);
@@ -292,7 +292,7 @@ Der Vorprüfung durch die Aufsichtsbehörde bedürfen:
 
 - a. Anträge an die Aufsichtsbehörde zur Änderung der Statuten, bevor die Anlegerversammlung über die Antragstellung beschliesst;
 - b. Änderungen reglementarischer Bestimmungen, die der Stiftungsrat der Anlegerversammlung zur Abstimmung unterbreitet;
-- c.[^17-1] der Erlass oder die Änderung von Anlagerichtlinien zu Anlagegruppen in den Bereichen Auslandimmobilien, Infrastrukturen oder alternative Anlagen.
+- c.[^17-1] der Erlass oder die Änderung von Anlagerichtlinien zu Anlagegruppen in den Bereichen Auslandimmobilien, Infrastrukturen, Private Debt Schweiz oder Private Equity Schweiz nach Artikel 53 Absatz 1 Buchstabe d<sup>ter</sup> BVV 2[^17-2] oder alternative Anlagen.
 
 <sup>2</sup> Die Aufsichtsbehörde teilt der Stiftung innert Monatsfrist schriftlich mit, wenn sie auf eine Vorprüfung verzichtet.
 
@@ -300,7 +300,8 @@ Der Vorprüfung durch die Aufsichtsbehörde bedürfen:
 
 <sup>4</sup> Anlagegruppen nach Absatz 1 Buchstabe c dürfen erst nach Abschluss des Vorprüfungsverfahrens gebildet werden.
 
-[^17-1]: Fassung gemäss Ziff. I 4 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^17-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2022, in Kraft seit 1. Jan. 2022 ([AS 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
+[^17-2]: [SR 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
 
 ## 8. Abschnitt: Ansprüche der Anleger
 
@@ -316,13 +317,17 @@ Der Vorprüfung durch die Aufsichtsbehörde bedürfen:
 
 #### Art. 19
 
-**Kapitalzusagen**
+**Kapitalzusagen**[^19-1]
 
 ### (Art. 53*k* Bst. e BVG)
 
-Statuten oder Reglement können bei Immobilien-Anlagegruppen, bei Infrastruktur-Anlagegruppen und bei Anlagegruppen im Bereich alternativer Anlagen die Möglichkeit vorsehen, dass die Stiftung verbindliche, auf einen festen Betrag lautende Kapitalzusagen entgegennimmt.[^19-1] Sie regeln in diesem Fall die Rechte und Pflichten aus den Kapitalzusagen. Die Aufsichtsbehörde kann dazu Auflagen machen.
+<sup>1</sup> Statuten oder Reglement können bei Immobilien-Anlagegruppen, bei Infrastruktur-Anlagegruppen sowie bei Anlagegruppen in den Bereichen Private Debt Schweiz, Private Equity Schweiz oder alternative Anlagen die Möglichkeit vorsehen, dass die Stiftung verbindliche, auf einen festen Betrag lautende Kapitalzusagen entgegennimmt.
 
-[^19-1]: Fassung gemäss Ziff. I 4 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+<sup>2</sup> Sehen sie diese Möglichkeit vor, so regeln sie die Rechte und Pflichten aus den Kapitalzusagen.
+
+<sup>3</sup> Die Aufsichtsbehörde kann zu den Kapitalzusagen Auflagen machen.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2022, in Kraft seit 1. Jan. 2022 ([AS 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
 
 #### Art. 20
 
@@ -595,7 +600,7 @@ Alternative Anlagen sind zulässig mittels:
 
 ### (Art. 53*k* Bst. d BVG)
 
-<sup>1</sup> Anlagevermögen darf nur in angemessen diversifizierten kollektiven Anlagen nach Artikel 56 Absatz 2 BVV 2[^30-1] mit ausreichender Informations- und Auskunftspflicht angelegt werden. Die Aufsichtsbehörde kann in begründeten Einzelfällen bei Anlagegruppen im Bereich alternativer Anlagen oder von Auslandimmobilien Abweichungen nach Artikel 26 Absatz 9 zulassen.
+<sup>1</sup> Anlagevermögen darf nur in angemessen diversifizierten kollektiven Anlagen nach Artikel 56 Absatz 2 BVV 2[^30-1] mit ausreichender Informations- und Auskunftspflicht angelegt werden. Die Aufsichtsbehörde kann in begründeten Einzelfällen bei Anlagegruppen in den Bereichen Auslandimmobilien, Infrastrukturen, Private Debt Schweiz, Private Equity Schweiz oder alternative Anlagen Abweichungen nach Artikel 26 Absatz 9 zulassen.[^30-2]
 
 <sup>2</sup> Unzulässig sind kollektive Anlagen, die für die Anleger Nachschuss- oder Sicherstellungspflichten bedingen.
 
@@ -606,13 +611,14 @@ Der Anteil einer kollektiven Anlage ist auf höchstens 20 Prozent des Vermögens
 - a. der Aufsicht der FINMA untersteht oder von ihr in der Schweiz zum Vertrieb zugelassen ist;
 - b. von schweizerischen Anlagestiftungen aufgelegt wurde.
 
-<sup>3bis</sup> Der Anteil einer ausländischen kollektiven Anlage kann mehr als 20 Prozent des Vermögens der Anlagegruppe betragen, sofern diese Anlage von einer ausländischen Aufsichtsbehörde zugelassen ist, mit welcher die FINMA eine Vereinbarung nach Artikel 120 Absatz 2 Buchstabe e des Kollektivanlagengesetzes vom 23. Juni 2006[^30-2] abgeschlossen hat.[^30-3]
+<sup>3bis</sup> Der Anteil einer ausländischen kollektiven Anlage kann mehr als 20 Prozent des Vermögens der Anlagegruppe betragen, sofern diese Anlage von einer ausländischen Aufsichtsbehörde zugelassen ist, mit welcher die FINMA eine Vereinbarung nach Artikel 120 Absatz 2 Buchstabe e des Kollektivanlagengesetzes vom 23. Juni 2006[^30-3] abgeschlossen hat.[^30-4]
 
 <sup>4</sup> Die Anlage in kollektiven Anlagen darf die Einhaltung der Anlagerichtlinien und die Wahrung der Führungsverantwortung nicht beeinträchtigen.
 
 [^30-1]: [SR 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
-[^30-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^30-3]: Eingefügt durch Ziff. I der V vom 21. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^30-2]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 17. Nov. 2022, in Kraft seit 1. Jan. 2022 ([AS 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
+[^30-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^30-4]: Eingefügt durch Ziff. I der V vom 21. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
 
 #### Art. 31
 
@@ -640,14 +646,14 @@ Sie sind nur zulässig bei:
 
 - a. Immobilien-Anlagegruppen;
 - a<sup>bis</sup>.[^32-1] Infrastruktur-Anlagegruppen;
-- b.[^32-2] Anlagegruppen im Bereich alternativer Anlagen, sofern die Notwendigkeit einer Tochtergesellschaft mit Anlagecharakter im Rahmen des Vorprüfungsverfahrens schlüssig dargelegt wird.
+- b.[^32-2] Anlagegruppen in den Bereichen Private Debt Schweiz, Private Equity Schweiz oder alternative Anlagen, sofern die Notwendigkeit einer Tochtergesellschaft mit Anlagecharakter im Rahmen des Vorprüfungsverfahrens schlüssig dargelegt wird.
 
 <sup>3</sup> Die Anlagerichtlinien regeln die Zulässigkeit und Beschränkungen solcher Beteiligungen.
 
 <sup>4</sup> Bei Immobilien-Anlagegruppen mit Auslandimmobilien kann die Aufsichtsbehörde neben Objektgesellschaften auch Holdinggesellschaften als Tochtergesellschaften zulassen, sofern dies im Interesse der Anleger ist.
 
 [^32-1]: Eingefügt durch Ziff. I 4 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^32-2]: Fassung gemäss Ziff. I der V vom 21. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^32-2]: Fassung gemäss Ziff. I der V vom 17. Nov. 2022, in Kraft seit 1. Jan. 2022 ([AS 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
 
 #### Art. 33
 
@@ -725,7 +731,7 @@ Die Stiftung veröffentlicht innerhalb von vier Monaten nach Abschluss des Gesch
 
 <sup>1</sup> Publikationen müssen in geeigneter Form veröffentlicht werden. Die Aufsichtsbehörde kann Auflagen machen.
 
-<sup>2</sup> Bei Anlagegruppen in den Bereichen Immobilien, Infrastrukturen, alternative Anlagen oder hochverzinsliche Obligationen sowie in Fällen nach Artikel 21 Absatz 2 muss die Stiftung einen Prospekt veröffentlichen. Bei neuen Anlagegruppen muss der Prospekt vor der Eröffnung der Zeichnungsfrist veröffentlicht werden. Änderungen des Prospekts sind ebenfalls zu veröffentlichen.[^37-1]
+<sup>2</sup> Bei Anlagegruppen in den Bereichen Immobilien, Infrastrukturen, Private Debt Schweiz, Private Equity Schweiz, alternative Anlagen oder hochverzinsliche Obligationen sowie in Fällen nach Artikel 21 Absatz 2 muss die Stiftung einen Prospekt veröffentlichen.[^37-1] Bei neuen Anlagegruppen muss der Prospekt vor der Eröffnung der Zeichnungsfrist veröffentlicht werden. Änderungen des Prospekts sind ebenfalls zu veröffentlichen.[^37-2]
 
 <sup>3</sup> Die Aufsichtsbehörde kann zum Prospekt Auflagen machen und für weitere Anlagegruppen mit erhöhten Risiken oder einem komplexen Anlage- oder Organisationskonzept die Veröffentlichung eines Prospekts anordnen. Eine nachträgliche Anordnung ist innerhalb dreier Monate zu befolgen.
 
@@ -733,7 +739,8 @@ Die Stiftung veröffentlicht innerhalb von vier Monaten nach Abschluss des Gesch
 
 <sup>5</sup> Besteht die Anlagegruppe nur aus Ansprüchen eines Anlegers, so entfällt die Prospektpflicht.
 
-[^37-1]: Fassung gemäss Ziff. I 4 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^37-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2022, in Kraft seit 1. Jan. 2022 ([AS 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
+[^37-2]: Fassung gemäss Ziff. I 4 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 
 ## 12. Abschnitt: Buchführung und Rechnungslegung
 

@@ -4,11 +4,11 @@ title: Ordonnance du 22 juin 2011 sur les fondations de placement (OFP)
 short: OFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/459"
 language: fr
-version: 2020-10-01
+version: 2022-01-01
 adopted: 2011-06-22
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20201001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-459-20201001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20201001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/459/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-459-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/459/20201001/fr"
 
 (OFP)
 
-des 10 et 22 juin 2011 (Etat le 1<sup>er</sup> octobre 2020)
+des 10 et 22 juin 2011 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -48,7 +48,7 @@ Peuvent constituer le cercle des investisseurs d’une fondation de placement:
 
 <sup>1</sup> Quiconque veut être admis comme investisseur dans une fondation de placement présente à celle-ci une demande écrite d’admission attestant qu’il remplit les conditions fixées à l’art. 1. La fondation statue sur l’admission. Elle peut la refuser sans indiquer de motif.
 
-<sup>2</sup> Le statut d’investisseur est acquis aussi longtemps que l'investisseur a au moins un droit ou s'est engagé à verser un capital déterminé.
+<sup>2</sup> Le statut d’investisseur est acquis aussi longtemps que l’investisseur a au moins un droit ou s’est engagé à verser un capital déterminé.
 
 <sup>3</sup> La fondation applique l’égalité de traitement à tous les investisseurs.
 
@@ -135,7 +135,7 @@ Le conseil de fondation peut déléguer des tâches à des tiers si, en plus de 
 - a. il s’agit de tâches dont la délégation est autorisée par la loi et les statuts;
 - b. la délégation de tâches est consignée dans un contrat écrit;
 - c. l’art. 12 est respecté;
-- d.[^7-2] ...
+- d.[^7-2] …
 
 <sup>3</sup> Toute tâche déléguée à des tiers ne peut être subdéléguée qu’à condition que le conseil de fondation l’ait approuvé au préalable et que les dispositions sur la délégation de tâches soient respectées. La fondation ou l’organe de révision doivent pouvoir continuer à assurer le contrôle et la vérification des tâches qui ont été déléguées.[^7-3]
 
@@ -190,7 +190,7 @@ Seules les entreprises agréées par l’Autorité fédérale de surveillance en
 
 <sup>5</sup> Il se conforme aux instructions de l’autorité de surveillance au sens de l’art. 62*a*, al. 2, LPP. Celle-ci peut ordonner à l’organe de révision d’examiner l’organisation détaillée et de rédiger un rapport. Elle peut, sur la base de ce rapport, renoncer à faire elle-même un examen.
 
-<sup>6</sup> L'organe de révision peut effectuer des examens intermédiaires non annoncés.
+<sup>6</sup> L’organe de révision peut effectuer des examens intermédiaires non annoncés.
 
 [^10-1]: [RS 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
 
@@ -229,7 +229,7 @@ Seules les entreprises agréées par l’Autorité fédérale de surveillance en
 
 ### (art. 53*k*, let. c à e, LPP)
 
-<sup>1</sup> L’assemblée des investisseurs règle tous les domaines déterminants pour la fondation, notamment l’organisation de celle-ci, l’activité de placement et les droits des investisseurs.
+<sup>1</sup> L’assemblée des investisseurs règle tous les domaines déterminants pour la fondation, notamment l’organisation de celle‑ci, l’activité de placement et les droits des investisseurs.
 
 <sup>2</sup> L’autorité de surveillance peut exiger que des domaines non pris en compte soient réglementés explicitement dans les statuts ou dans le règlement de la fondation. Elle peut obliger les fondations à modifier leur réglementation au nom de la sécurité du droit ou de la transparence.
 
@@ -237,7 +237,7 @@ Seules les entreprises agréées par l’Autorité fédérale de surveillance en
 
 Les statuts peuvent déléguer au conseil de fondation la tâche de réglementer les domaines suivants:
 
-- a.[^13-1] ...
+- a.[^13-1] …
 - b. les experts chargés des estimations (art. 11);
 - c. la banque dépositaire (art. 12);
 - d. le placement de la fortune de placement (art. 14);
@@ -292,7 +292,7 @@ Nécessitent un examen préalable par l’autorité de surveillance:
 
 - a. les propositions de modification des statuts avant que l’assemblée des investisseurs ne se prononce sur celles-ci;
 - b. les modifications des dispositions réglementaires que le conseil de fondation soumet au vote de l’assemblée des investisseurs;
-- c.[^17-1] les directives de placement sur les groupes de placements dans le domaine des biens immobiliers à l’étranger, des infrastructures ou des placements alternatifs, et leurs modifications.
+- c.[^17-1] les directives de placement sur les groupes de placements dans les domaines des biens immobiliers à l’étranger, des infrastructures, *private debt* Suisse ou *private equity* Suisse selon l’art. 53, al. 1, let. d<sup>ter</sup>, OPP 2[^17-2] ou des placements alternatifs, et leurs modifications.
 
 <sup>2</sup> L’autorité de surveillance fait savoir à la fondation dans le mois et par écrit si elle renonce à un examen préalable.
 
@@ -300,7 +300,8 @@ Nécessitent un examen préalable par l’autorité de surveillance:
 
 <sup>4</sup> Des groupes de placements visés à l’al. 1, let. c, ne peuvent être constitués que lorsque la procédure d’examen est terminée.
 
-[^17-1]: Nouvelle teneur selon le ch. I 4 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
+[^17-2]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
 
 ## Section 8 Droits des investisseurs
 
@@ -316,13 +317,17 @@ Nécessitent un examen préalable par l’autorité de surveillance:
 
 #### Art. 19
 
-**Engagements de capital**
+**Engagements de capital**[^19-1]
 
-### (art. 53*k*, let. e, LPP)
+### (Art. 53*k*, let. e LPP)
 
-Pour les groupes de placements immobiliers, les groupes de placements dans le domaine des infrastructures et les groupes de placements dans le domaine des placements alternatifs, les statuts ou le règlement peuvent autoriser la fondation à accepter les engagements de capital fermes pour un montant fixe.[^19-1] Ils règlent dans ce cas les droits et les devoirs liés aux engagements de capital. L’autorité de surveillance peut subordonner ces opérations à des conditions.
+<sup>1</sup> Pour les groupes de placements immobiliers, les groupes de placements dans le domaine des infrastructures et les groupes de placements dans les domaines *private debt* Suisse, *private equity* Suisse ou des placements alternatifs, les statuts ou le règlement peuvent autoriser la fondation à accepter les engagements de capital fermes pour un montant fixe.
 
-[^19-1]: Nouvelle teneur selon le ch. I 4 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+<sup>2</sup> S’ils prévoient cette possibilité, ils règlent les droits et les obligations découlant des engagements de capital.
+
+<sup>3</sup> L’autorité de surveillance peut imposer des conditions aux engagements de capital.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
 
 #### Art. 20
 
@@ -453,7 +458,7 @@ Toute filiale dans la fortune de base répond aux conditions suivantes:
 
 <sup>5</sup> La fondation veille à ce que, dans chaque groupe de placements, la gestion des liquidités soit appropriée.
 
-<sup>6</sup> Seuls des emprunts à court terme, répondant à des impératifs techniques, sont autorisés dans le groupe de placements et dans les placements collectifs détenus par celui-ci.
+<sup>6</sup> Seuls des emprunts à court terme, répondant à des impératifs techniques, sont autorisés dans le groupe de placements et dans les placements collectifs détenus par celui‑ci.
 
 <sup>7</sup> Il n’est possible de déroger aux directives de placement que ponctuellement et provisoirement, lorsqu’une dérogation est requise de toute urgence dans l’intérêt des investisseurs et que le président l’approuve. Les dérogations sont indiquées et motivées dans l’annexe aux comptes annuels.
 
@@ -595,7 +600,7 @@ Les placements alternatifs sont autorisés au moyen:
 
 ### (art. 53*k*, let. d, LPP)
 
-<sup>1</sup> La fortune de placement ne peut être placée que dans des placements collectifs selon l’art. 56, al. 2, OPP 2[^30-1] soumis à un devoir suffisamment étendu d’information et de renseignement. Dans des cas fondés, l’autorité de surveillance peut, en vertu de l’art. 26, al. 9, autoriser des dérogations pour les groupes de placements dans les domaines des placements alternatifs ou des biens-fonds à l’étranger.
+<sup>1</sup> La fortune de placement ne peut être placée que dans des placements collectifs selon l’art. 56, al. 2, OPP 2[^30-1] soumis à un devoir suffisamment étendu d’information et de renseignement. Dans des cas fondés, l’autorité de surveillance peut, en vertu de l’art. 26, al. 9, autoriser des dérogations pour les groupes de placements dans les domaines des biens immobiliers à l’étranger, des infrastructures, *private debt* Suisse, *private equity* Suisse ou des placements alternatifs.[^30-2]
 
 <sup>2</sup> Les placements collectifs obligeant l’investisseur à effectuer des versements supplémentaires ou à donner des garanties ne sont pas autorisés.
 
@@ -606,13 +611,14 @@ La part d’un placement collectif est limitée à 20 % au maximum de la fortune
 - a. n’est pas soumis à la surveillance de la FINMA ou autorisé par celle-ci à la vente en Suisse;
 - b. n’a pas été lancé par des fondations de placement suisses.
 
-<sup>3bis</sup> La part d’un placement collectif étranger peut dépasser 20 % de la fortune du groupe de placements si ce placement est autorisé par une autorité de surveillance étrangère avec laquelle la FINMA a conclu une convention en vertu de l’art. 120, al. 2, let. e, de la loi du 23 juin 2006 sur les placements collectifs[^30-2].[^30-3]
+<sup>3bis</sup> La part d’un placement collectif étranger peut dépasser 20 % de la fortune du groupe de placements si ce placement est autorisé par une autorité de surveillance étrangère avec laquelle la FINMA a conclu une convention en vertu de l’art. 120, al. 2, let. e, de la loi du 23 juin 2006 sur les placements collectifs[^30-3].[^30-4]
 
 <sup>4</sup> Le placement dans des placements collectifs ne peut pas porter atteinte au respect des directives de placement et de la responsabilité de direction.
 
 [^30-1]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
-[^30-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^30-3]: Introduit par le ch. I de l’O du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^30-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
+[^30-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^30-4]: Introduit par le ch. I de l’O du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
 
 #### Art. 31
 
@@ -640,14 +646,14 @@ Elles ne sont autorisées que dans:
 
 - a. les groupes de placements immobiliers;
 - a<sup>bis</sup>.[^32-1] les groupes de placements dans les infrastructures;
-- b.[^32-2] les groupes de placements relevant du domaine des placements alternatifs, à condition que la nécessité d’une filiale à caractère d’investissement soit dûment établie dans le cadre de la procédure d’examen.
+- b.[^32-2] les groupes de placements relevant des domaines *private debt* Suisse, *private equity* Suisse ou des placements alternatifs, à condition que la nécessité d’une filiale à caractère d’investissement soit dûment établie dans le cadre de la procédure d’examen.
 
 <sup>3</sup> Les directives de placement règlent l’admissibilité et les limitations de telles participations.
 
 <sup>4</sup> Dans les groupes de placements immobiliers contenant des biens-fonds à l’étranger, l’autorité de surveillance peut autoriser comme filiales, en plus des sociétés à objet immobilier, des sociétés holding, si c’est dans l’intérêt des investisseurs.
 
 [^32-1]: Introduite par le ch. I 4 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^32-2]: Nouvelle teneur selon le ch. I de l’O du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2221](https://fedlex.data.admin.ch/eli/oc/2019/414)).
+[^32-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
 
 #### Art. 33
 
@@ -725,15 +731,16 @@ La fondation publie, dans les quatre mois qui suivent la clôture de l’exercic
 
 <sup>1</sup> Les publications paraissent sous une forme appropriée. L’autorité de surveillance peut fixer des conditions à ce sujet.
 
-<sup>2</sup> La fondation publie un prospectus pour les groupes de placements immobiliers, les groupes de placements dans le domaine des infrastructures, les groupes de placements dans le domaine des placements alternatifs ou les groupes de placements contenant des obligations à taux élevés et dans les cas visés à l’art. 21, al. 2. Pour les nouveaux groupes de placements, le prospectus doit être publié avant l’ouverture de la période de souscription. Les modifications du prospectus doivent également être publiées.[^37-1]
+<sup>2</sup> La fondation publie un prospectus pour les groupes de placements dans les domaines des biens immobiliers, des infrastructures, *private debt* Suisse, *private equity* Suisse, des placements alternatifs ou les groupes de placements contenant des obligations à taux élevés et dans les cas visés à l’art. 21, al. 2.[^37-1] Pour les nouveaux groupes de placements, le prospectus doit être publié avant l’ouverture de la période de souscription. Les modifications du prospectus doivent également être publiées.[^37-2]
 
-<sup>3</sup> L’autorité de surveillance peut fixer des conditions pour l'établissement du prospectus et exiger la publication d’un prospectus pour d’autres groupes de placements présentant un concept de placement ou d’organisation complexe ou des risques plus élevés. La mise en conformité doit avoir lieu dans les trois mois.
+<sup>3</sup> L’autorité de surveillance peut fixer des conditions pour l’établissement du prospectus et exiger la publication d’un prospectus pour d’autres groupes de placements présentant un concept de placement ou d’organisation complexe ou des risques plus élevés. La mise en conformité doit avoir lieu dans les trois mois.
 
 <sup>4</sup> Les prospectus sont adressés à l’autorité de surveillance après la publication et après chaque modification, munis des directives de placement qu’elle doit approuver lorsqu’il s’agit de groupes de placements nécessitant un examen préalable. L’autorité de surveillance peut exiger en tout temps de la fondation de placement qu’elle remédie à des lacunes du prospectus.
 
 <sup>5</sup> Il n’est pas nécessaire de rédiger un prospectus lorsqu’un seul investisseur a des droits sur le groupe de placements.
 
-[^37-1]: Nouvelle teneur selon le ch. I 4 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 793](https://fedlex.data.admin.ch/eli/oc/2021/793)).
+[^37-2]: Nouvelle teneur selon le ch. I 4 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 
 ## Section 12 Comptabilité et établissement des comptes
 
