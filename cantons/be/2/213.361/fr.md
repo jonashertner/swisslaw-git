@@ -4,13 +4,12 @@ number: "213.361"
 title: Ordonnance sur la rémunération et le remboursement des frais en matière de gestion des curatelles
 short: ORRC
 language: fr
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-13
+version: 2022-01-01
+version_adopted: 2021-06-30
 adopted: 2012-09-19
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/213.361"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1374/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2348/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1374/pdf_file"
 
 (ORRC)
 
-du 19.09.2012 (état au 01.01.2018)
+du 19.09.2012 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -98,7 +97,7 @@ arrête:
 
 **Détermination du remboursement des frais**
 
-<sup>1</sup> Le remboursement des frais est régi par
+<sup>1</sup> Seuls les frais réellement engagés sont remboursés. Pour le reste, le remboursement des frais est régi par
 
 - a la législation cantonale sur le personnel en ce qui concerne les curateurs et curatrices privés mandatés par une APEA cantonale, le prix du billet de seconde classe étant remboursé en cas d’utilisation des transports publics;
 - b le droit du personnel de la commune bourgeoise de Berne en ce qui concerne les curateurs et curatrices privés mandatés par l’APEA bourgeoisiale;
@@ -134,9 +133,15 @@ arrête:
 
 <sup>2</sup> Si le montant destiné à la rémunération et au remboursement des frais ne peut pas être entièrement prélevé sur les biens de la personne concernée, le préfinancement des coûts est assuré par le canton ou par la commune bourgeoise compétente en matière d’aide sociale.
 
-<sup>3</sup> Les coûts de la gestion d’une curatelle ou d’une tutelle exercée sur un mineur ne peuvent être imputés aux parents, en règle générale à part égale, que dans la mesure où ils résultent d’un conflit qui les oppose.
+<sup>3</sup> Les coûts de la gestion d’une curatelle ou d’une tutelle exercée sur un mineur ne sont pas imputés aux parents.
 
 <sup>4</sup> …
+
+#### Art. 9a
+
+**Contributions aux assurances sociales**
+
+<sup>1</sup> Les montants des assurances sociales versés par le canton pour indemniser les curateurs privés et les curatrices privées ne sont pas facturés aux personnes concernées.
 
 #### Art. 10
 

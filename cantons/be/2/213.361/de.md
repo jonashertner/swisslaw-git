@@ -4,13 +4,12 @@ number: "213.361"
 title: Verordnung über die Entschädigung und den Spesenersatz für die Führung einer Beistandschaft
 short: ESBV
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-13
+version: 2022-01-01
+version_adopted: 2021-06-30
 adopted: 2012-09-19
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.361"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1374/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2348/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1374/pdf_file"
 
 (ESBV)
 
-vom 19.09.2012 (Stand 01.01.2018)
+vom 19.09.2012 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -100,7 +99,7 @@ beschliesst:
 
 **Bemessung des Spesenersatzes**
 
-<sup>1</sup> Der Spesenersatz richtet sich
+<sup>1</sup> Es werden die tatsächlich verursachten Spesen ausgerichtet. Der Spesenersatz richtet sich im Übrigen
 
 - a bei privaten Beiständinnen und Beiständen, die von einer kantonalen KESB eingesetzt worden sind, nach der kantonalen Personalgesetzgebung, wobei für die Benützung öffentlicher Verkehrsmittel Billette zweiter Klasse zu verrechnen sind,
 - b bei privaten Beiständinnen und Beiständen, die von der burgerlichen KESB eingesetzt worden sind, nach dem Personalrecht der Burgergemeinde Bern,
@@ -136,9 +135,15 @@ beschliesst:
 
 <sup>2</sup> Können die Mittel für die Entschädigung und den Spesenersatz nicht vollumfänglich dem Vermögen der betroffenen Person entnommen werden, so werden die Kosten vom Kanton oder von der für die Sozialhilfe zuständigen Burgergemeinde vorfinanziert.
 
-<sup>3</sup> Den Eltern von Minderjährigen können die Kosten für die Führung einer Beistandschaft oder Vormundschaft nur und in der Regel je zur Hälfte auferlegt werden, wenn sie die Kosten durch einen Konflikt untereinander verursacht haben.
+<sup>3</sup> Den Eltern von Minderjährigen werden für die Führung einer Beistandschaft oder Vormundschaft keine Kosten auferlegt.
 
 <sup>4</sup> …
+
+#### Art. 9a
+
+**Sozialversicherungsbeiträge**
+
+<sup>1</sup> Die vom Kanton für die Entschädigung der privaten Beiständinnen und Beistände ausgerichteten Sozialversicherungsbeiträge werden den betroffenen Personen nicht in Rechnung gestellt.
 
 #### Art. 10
 
