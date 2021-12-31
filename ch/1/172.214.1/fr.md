@@ -4,11 +4,11 @@ title: "Ordonnance du 7 mars 2003 sur l'organisation du Département fédéral d
 short: Org-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-270-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-270-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20210101/fr"
 
 (Org-DDPS)
 
-du 7 mars 2003 (Etat le 1<sup>er</sup> janvier 2021)
+du 7 mars 2003 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -141,12 +141,14 @@ Sont rattachés administrativement au Secrétariat général:
 - c. le Service spécialisé chargé des contrôles de sécurité relatifs aux personnes au DDPS;
 - d.[^6-2] l’autorité de surveillance indépendante des activités de renseignement;
 - e.[^6-3] la Révision interne DDPS;
-- f.[^6-4] le bureau du délégué du Réseau national de sécurité.
+- f.[^6-4] le bureau du délégué du Réseau national de sécurité;
+- g.[^6-5] le Service de médiation de l’armée.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)).
 [^6-2]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 16 août 2017 sur la surveillance des activités de renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
 [^6-3]: Introduite par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
 [^6-4]: Introduite par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
+[^6-5]: Introduite par le ch. II de l’O du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
 
 #### Art. 6a
 
@@ -162,7 +164,7 @@ Sont rattachés administrativement au Secrétariat général:
 
 [^7-1]: Abrogée par le ch. I de l’O du 24 juin 2009, avec effet au 1<sup>er</sup> juil. 2009 ([RO 2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)).
 
-### Section 3**** Renseignement civil
+### Section 3 Renseignement civil
 
 [^chap2-sec3-1]
 
@@ -338,7 +340,7 @@ Le médecin en chef de l’armée est chargé de surveiller:
 
 [^11b-1]: Introduit par le ch. I de l’annexe 2 à l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
-### Section 6**** Office fédéral de l’armement
+### Section 6 Office fédéral de l’armement
 
 [^chap2-sec6-1]
 
@@ -378,7 +380,7 @@ L’unité administrative armasuisse Sciences et technologie accomplit les tâch
 
 [^12a-1]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
 
-### Section 6*a* Office fédéral de topographie****
+### Section 6*a* Office fédéral de topographie
 
 [^chap2-sec6a-1]
 

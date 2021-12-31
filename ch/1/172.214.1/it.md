@@ -4,11 +4,11 @@ title: "Ordinanza del 7 marzo 2003 sull'organizzazione del Dipartimento federale
 short: OOrg-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2003-270-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-270-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20210101/it"
 
 (OOrg-DDPS)
 
-del 7 marzo 2003 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 7 marzo 2003 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -141,12 +141,14 @@ Sono aggregati amministrativamente alla Segreteria generale:
 - c. il Servizio specializzato per i controlli di sicurezza relativi alle persone in seno al DDPS ;
 - d.[^6-2] l’Autorità di vigilanza indipendente sulle attività informative;
 - e.[^6-3] la Revisione interna DDPS;
-- f.[^6-4] il segretariato del delegato per la Rete integrata Svizzera per la sicurezza.
+- f.[^6-4] il segretariato del delegato per la Rete integrata Svizzera per la sicurezza;
+- g.[^6-5] l’Organo di mediazione dell’esercito.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)).
 [^6-2]: Introdotta dall’all. n. 3 all’O del 16 ago. 2017 concernente la vigilanza sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
 [^6-3]: Introdotta dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
 [^6-4]: Introdotta dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
+[^6-5]: Introdotta dal n. II dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
 
 #### Art. 6a
 

@@ -4,11 +4,11 @@ title: "Organisationsverordnung vom 7. März 2003 für das Eidgenössische Depar
 short: OV-VBS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2003-270-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-270-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20210101/de"
 
 (OV-VBS)
 
-vom 7. März 2003 (Stand am 1. Januar 2021)
+vom 7. März 2003 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -141,12 +141,14 @@ Dem Generalsekretariat sind administrativ zugeordnet:
 - c. die Fachstelle für Personensicherheitsprüfungen im VBS;
 - d.[^6-2] die unabhängige Aufsichtsbehörde über die nachrichtendienstlichen Tätigkeiten;
 - e.[^6-3] die Interne Revision VBS;
-- f.[^6-4] die Geschäftsstelle Delegierter Sicherheitsverbund Schweiz.
+- f.[^6-4] die Geschäftsstelle Delegierter Sicherheitsverbund Schweiz;
+- g.[^6-5] die Vertrauensstelle der Armee.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)).
 [^6-2]: Eingefügt durch Anhang Ziff. 3 der V vom 16. Aug. 2017 über die Aufsicht über die nachrichtendienstlichen Tätigkeiten, in Kraft seit 1. Sept. 2017 ([AS 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
 [^6-3]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
 [^6-4]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
+[^6-5]: Eingefügt durch Ziff. II der V vom 30. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
 
 #### Art. 6a
 
