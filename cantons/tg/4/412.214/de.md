@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "412.214"
-title: "Verordnung des Regierungsrates über die Brücken-angebote, das niederschwellige Ausbildungsangebot und die kantonalen Integrationskurse"
+title: "Verordnung des Regierungsrates über die Brückenange-bote, das niederschwellige Ausbildungsangebot und die kantonalen Integrationskurse"
 short: BbB
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-05
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-21
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.214"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1461/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2372/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Brücken-angebote, das niederschwellige Ausbildungsangebot und die kantonalen Integrationskurse
+# Verordnung des Regierungsrates über die Brückenange-bote, das niederschwellige Ausbildungsangebot und die kantonalen Integrationskurse
 
-RRV Brückenangebote (BbB)
+BbB
 
 (BbB)
 
-vom 25.11.2014 (Stand 01.01.2018)
+vom 25.11.2014 (Stand 01.01.2022)
 
 ## 1. Brückenangebote
 
@@ -67,12 +67,12 @@ vom 25.11.2014 (Stand 01.01.2018)
 
 <sup>1</sup> Aufnahmevoraussetzungen sind namentlich:
 
-- 1\. abgeschlossene obligatorische Schule;
-- 2\. Alter zwischen 15 und 17 Jahre, ausnahmsweise bis höchstens 20 Jahre;
-- 3\. Nachweis genügender Berufswahlbemühungen;
-- 4\. ausgewiesener individueller Unterstützungsbedarf;
-- 5\. genügender Lern- und Leistungswille;
-- 6\. fristgerechter Eingang von Anmeldegebühr und vollständiger Bewerbung.
+- 1\. abgeschlossene obligatorische Schule
+- 2\. Alter zwischen 15 und 17 Jahre, ausnahmsweise bis höchstens 20 Jahre
+- 3\. Nachweis genügender Berufswahlbemühungen
+- 4\. ausgewiesener individueller Unterstützungsbedarf
+- 5\. genügender Lern- und Leistungswille
+- 6\. fristgerechter Eingang von Anmeldegebühr und vollständiger Bewerbung
 
 <sup>2</sup> …
 
@@ -94,7 +94,13 @@ vom 25.11.2014 (Stand 01.01.2018)
 
 <sup>1</sup> Ergeben sich in der Berufsfachschule oder am Praxisplatz Streitfälle, kann das Amt um Vermittlung angerufen werden.
 
-<sup>2</sup> Bei disziplinwidrigem Verhalten in der Schule oder am Praxisplatz, bei ungenügender Leistungsbereitschaft oder wenn keine Aussicht mehr auf Erreichen der Ziele besteht, kann die Schule einen vorzeitigen Austritt aus dem Brückenangebot anordnen.
+<sup>2</sup> Das Amt kann auf Antrag der Schule den vorzeitigen Austritt aus der Schule anordnen:
+
+- 1\. bei disziplinwidrigem Verhalten in der Schule oder am Praxisplatz
+- 2\. bei ungenügender Leistungsbereitschaft
+- 3\. bei Aussichtslosigkeit, die Ziele zu erreichen
+
+<sup>3</sup> Der Antrag auf Schulausschluss setzt ein Ultimatum voraus, ausser wenn die Beschulung nicht mehr zumutbar oder möglich ist.
 
 #### § 9
 
@@ -270,10 +276,8 @@ vom 25.11.2014 (Stand 01.01.2018)
 
 **Verordnung über die berufliche Grundbildung**
 
-<sup>1</sup> Die §§ 1 bis 10 der Verordnung des Regierungsrates über die berufliche Grundbildung[^30-1] gelten sinngemäss, soweit diese Verordnung keine anderslautende Regelung trifft.
+<sup>1</sup> § 1 bis § 10 der Verordnung des Regierungsrates über die berufliche Grundbildung (BbG)[^30-1] gelten sinngemäss, soweit diese Verordnung keine anderslautende Regelung trifft.
 
-[^30-1]: [412.212](https://www.rechtsbuch.tg.ch/data/412.212/de)
-
-*Diese Verordnung tritt auf den 1. Januar 2015 in Kraft.*
+[^30-1]: RB [412.212](https://www.rechtsbuch.tg.ch/data/412.212/de)
 
 48/2014
