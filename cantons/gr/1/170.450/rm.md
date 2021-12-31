@@ -4,13 +4,13 @@ number: "170.450"
 title: Lescha davart la cassa da pensiun dal Grischun
 short: LCPG
 language: rm
-version: 2021-12-31
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-09-30
 version_adopted: 2021-08-26
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3205/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3206/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3205/pdf_file"
 
 (LCPG)
 
-dals 23-04-2013 (versiun dals 31-12-2021)
+dals 23-04-2013 (versiun dals 01-01-2022)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -75,7 +75,7 @@ concluda:
 
 <sup>1</sup> Per la cassa da pensiun vala il princip da la chapitalisaziun cumpletta.
 
-<sup>2</sup> Las prestaziuns da vegliadetgna vegnan calculadas tenor il primat da contribuziun. Las prestaziuns temporaras d'invaliditad e las prestaziuns temporaras per surviventas e survivents vegnan fixadas en pertschients dal salari assicurà.
+<sup>2</sup> Las prestaziuns da vegliadetgna vegnan calculadas tenor il primat da contribuziun. Las prestaziuns temporaras d'invaliditad e las prestaziuns per surviventas e survivents vegnan fixadas en pertschients dal salari assicurà.
 
 #### Art. 6
 
@@ -83,45 +83,43 @@ concluda:
 
 <sup>1</sup> Il chantun Grischun e ses instituts autonoms da dretg public assicureschan obligatoricamain lur collavuraturas e collavuraturs tar la cassa da pensiun.
 
-<sup>2</sup> La banca chantunala grischuna, las vischnancas, las corporaziuns da vischnancas ed autras corporaziuns da dretg public valan sco associadas facultativas.
+<sup>2</sup> La Banca chantunala grischuna, las vischnancas, las corporaziuns da vischnancas ed autras instituziuns che adempleschan oravant tut incumbensas publicas pon vegnir associadas sin basa da contracts.
 
-<sup>3</sup> Instituziuns da dretg privat, che adempleschan oravant tut incumbensas publicas, po la cumissiun administrativa recepir sco associadas facultativas.
+<sup>3</sup> …
 
-<sup>4</sup> La cumissiun administrativa decida tge lavurantas e lavurants che na ston betg vegnir assicurads.
+<sup>4</sup> La cumissiun administrativa decida tge lavurantas e lavurants che vegnan assicurads.
 
 #### Art. 7
 
 **Salari assicurà**
 
-<sup>1</sup> Assicurà vegn il salari annual minus ina deducziun da coordinaziun da 25 pertschient da quest salari annual. La deducziun da coordinaziun importa dentant almain 125 pertschient da la renta da vegliadetgna minimala simpla annuala da la AVS.
+<sup>1</sup> Assicurà vegn il salari annual suttamess a la AVS minus ina deducziun da coordinaziun. La deducziun da coordinaziun importa 25 pertschient dal salari annual suttamess a la AVS, dentant maximalmain set otgavels da la renta da vegliadetgna annuala maximala da la AVS. La deducziun maximala vegn reducida tut tenor il grad d'occupaziun. La sava d'entrada correspunda al salari minimal tenor la LPP.
 
-<sup>2</sup> Il salari annual correspunda al salari fundamental annual probabel inclusiv il 13. salari mensil. Cumponentas dal salari che resultan occasiunalmain, supplements socials, supplements variabels u temporars na vegnan betg assicurads.
+<sup>2</sup> Il salari annual ch'è decisiv per determinar il salari assicurà correspunda al salari fundamental annual probabel inclusiv il 13. salari mensil. Cumponentas dal salari che resultan occasiunalmain, supplements socials, supplements variabels u temporars na vegnan betg assicurads.
 
-<sup>3</sup> Il salari maximal assicurabel correspunda a 75 pertschient dal salari annual maximal tenor la scala chantunala da salarisaziun.
+<sup>3</sup> Il salari maximal assicurabel correspunda al salari annual maximal tenor la scala chantunala da salarisaziun minus la deducziun da coordinaziun. Per persunas assicuradas che lavuran a temp parzial vegn reducì il maximum dal salari assicurà tut tenor il grad d'occupaziun.
 
 #### Art. 8
 
 **Contribuziuns**
 
-<sup>1</sup> Las contribuziuns da spargn èn graduadas tenor la vegliadetgna ed importan en pertschients dal salari assicurà:
+<sup>1</sup> Las contribuziuns da spargn èn graduadas tenor la vegliadetgna ed importan en il plan da contribuziuns da standard, en pertschients dal salari assicurà:
 
 <table>
-<tr><th>vegliadetgna tenor la LPP[^8-1]</th><th>contribuziuns da spargn</th></tr>
-<tr><td>20–24</td><td>7,0</td></tr>
-<tr><td>25–29</td><td>9,0</td></tr>
-<tr><td>30–34</td><td>11,0</td></tr>
-<tr><td>35–39</td><td>13,0</td></tr>
-<tr><td>40–44</td><td>15,0</td></tr>
-<tr><td>45–49</td><td>18,0</td></tr>
-<tr><td>50–54</td><td>20,0</td></tr>
-<tr><td>55 e pli vegl</td><td>22,0</td></tr>
+<tr><th>vegliadetgna</th><th>contribuziuns da spargn</th></tr>
+<tr><td>20–24</td><td>14,0</td></tr>
+<tr><td>25–29</td><td>15,0</td></tr>
+<tr><td>30–34</td><td>17,0</td></tr>
+<tr><td>35–39</td><td>19,0</td></tr>
+<tr><td>40–44</td><td>22,0</td></tr>
+<tr><td>45–49</td><td>25,0</td></tr>
+<tr><td>50 e dapli</td><td>27,5</td></tr>
+<tr><td>...</td><td>…</td></tr>
 </table>
 
 <sup>2</sup> La cumissiun administrativa fixescha las contribuziuns da ristga tenor las basas tecnicas renconuschidas.
 
 <sup>3</sup> Las patrunas ed ils patruns ston surpigliar almain la mesadad da las contribuziuns.
-
-[^8-1]: CS [831.40](https://db.clex.ch/link/Bund/831.40/rm)
 
 #### Art. 9
 
@@ -131,9 +129,7 @@ concluda:
 
 #### Art. 10
 
-**Possess actual**
-
-<sup>1</sup> Cun las bunificaziuns supplementaras, introducidas il 1. da schaner 2001 a chaschun da la revisiun totala da l'ordinaziun davart la cassa da pensiun per mantegnair il possess actual, vegni cuntinuà.
+**…**
 
 #### Art. 11
 

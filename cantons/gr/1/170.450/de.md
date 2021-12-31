@@ -4,13 +4,13 @@ number: "170.450"
 title: Gesetz über die Pensionskasse Graubünden
 short: PKG
 language: de
-version: 2021-12-31
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-09-30
 version_adopted: 2021-08-26
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3205/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3206/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3205/pdf_file"
 
 (PKG)
 
-Vom 23.04.2013 (Stand 31.12.2021)
+Vom 23.04.2013 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -75,7 +75,7 @@ beschliesst:
 
 <sup>1</sup> Für die Pensionskasse gilt der Grundsatz der Vollkapitalisierung.
 
-<sup>2</sup> Die Altersleistungen werden nach dem Beitragsprimat berechnet. Die temporären Invaliden- und die temporären Hinterlassenenleistungen werden in Prozenten des versicherten Lohnes bestimmt.
+<sup>2</sup> Die Altersleistungen werden nach dem Beitragsprimat berechnet. Die temporären Invalidenleistungen und die Hinterlassenenleistungen werden in Prozenten des versicherten Lohnes bestimmt.
 
 #### Art. 6
 
@@ -83,38 +83,38 @@ beschliesst:
 
 <sup>1</sup> Der Kanton Graubünden und seine selbständigen öffentlich-rechtlichen Anstalten versichern ihre Mitarbeitenden obligatorisch bei der Pensionskasse.
 
-<sup>2</sup> Die Graubündner Kantonalbank, die Gemeinden, die Gemeindeverbände und andere öffentlich-rechtliche Körperschaften gelten als freiwillig angeschlossen.
+<sup>2</sup> Die Graubündner Kantonalbank, die Gemeinden, die Gemeindeverbände und andere Institutionen mit vorwiegend öffentlichen Aufgaben können vertraglich angeschlossen werden.
 
-<sup>3</sup> Die Verwaltungskommission kann privatrechtliche Institutionen, die vorwiegend öffentliche Aufgaben erfüllen, als freiwillige Anschlüsse aufnehmen.
+<sup>3</sup> …
 
-<sup>4</sup> Die Verwaltungskommission bestimmt, welche Arbeitnehmenden nicht zu versichern sind.
+<sup>4</sup> Die Verwaltungskommission bestimmt, welche Arbeitnehmenden versichert werden.
 
 #### Art. 7
 
 **Versicherter Lohn**
 
-<sup>1</sup> Versichert wird der Jahreslohn vermindert um einen Koordinationsabzug von 25 Prozent dieses Jahreslohnes. Der Koordinationsabzug beträgt jedoch mindestens 125 Prozent der jährlichen minimalen einfachen AHV-Altersrente.
+<sup>1</sup> Versichert wird der AHV-Jahreslohn vermindert um einen Koordinationsabzug. Der Koordinationsabzug beträgt 25 Prozent des AHV-Jahreslohnes, jedoch höchstens sieben Achtel der maximalen jährlichen AHV-Altersrente. Der maximale Abzug wird entsprechend dem Beschäftigungsgrad herabgesetzt. Die Eintrittsschwelle liegt beim BVG-Mindestlohn.
 
-<sup>2</sup> Der Jahreslohn entspricht dem voraussichtlichen Jahresgrundlohn einschliesslich des 13. Monatslohns. Gelegentlich anfallende Lohnbestandteile, Sozialzulagen, variable oder vorübergehende Zulagen werden nicht versichert.
+<sup>2</sup> Der für die Bestimmung des versicherten Lohns massgebende Jahreslohn entspricht dem voraussichtlichen Jahresgrundlohn einschliesslich des 13. Monatslohns. Gelegentlich anfallende Lohnbestandteile, Sozialzulagen, variable oder vorübergehende Zulagen werden nicht versichert.
 
-<sup>3</sup> Der höchstversicherbare Lohn entspricht 75 Prozent des maximalen Jahreslohnes gemäss kantonaler Besoldungsskala.
+<sup>3</sup> Der höchstversicherbare Lohn entspricht dem maximalen Jahreslohn gemäss kantonaler Gehaltsskala abzüglich des Koordinationsabzugs. Für teilzeitbeschäftigte Versicherte wird das Maximum des versicherten Lohns entsprechend dem Beschäftigungsgrad herabgesetzt.
 
 #### Art. 8
 
 **Beiträge**
 
-<sup>1</sup> Die Sparbeiträge sind altersabhängig gestaffelt und betragen in Prozenten des versicherten Lohnes:
+<sup>1</sup> Die Sparbeiträge sind altersabhängig gestaffelt und betragen im Standardbeitragsplan in Prozenten des versicherten Lohnes:
 
 <table>
-<tr><th>BVG-Alter</th><th>Sparbeiträge</th></tr>
-<tr><td>20–24</td><td>7,0</td></tr>
-<tr><td>25–29</td><td>9,0</td></tr>
-<tr><td>30–34</td><td>11,0</td></tr>
-<tr><td>35–39</td><td>13,0</td></tr>
-<tr><td>40–44</td><td>15,0</td></tr>
-<tr><td>45–49</td><td>18,0</td></tr>
-<tr><td>50–54</td><td>20,0</td></tr>
-<tr><td>55 und höher</td><td>22,0</td></tr>
+<tr><th>Alter</th><th>Sparbeiträge</th></tr>
+<tr><td>20–24</td><td>14,0</td></tr>
+<tr><td>25–29</td><td>15,0</td></tr>
+<tr><td>30–34</td><td>17,0</td></tr>
+<tr><td>35–39</td><td>19,0</td></tr>
+<tr><td>40–44</td><td>22,0</td></tr>
+<tr><td>45–49</td><td>25,0</td></tr>
+<tr><td>50 und älter</td><td>27,5</td></tr>
+<tr><td>...</td><td>…</td></tr>
 </table>
 
 <sup>2</sup> Die Verwaltungskommission bestimmt die Risikobeiträge gemäss den anerkannten technischen Grundlagen.
@@ -129,9 +129,7 @@ beschliesst:
 
 #### Art. 10
 
-**Besitzstand**
-
-<sup>1</sup> Die anlässlich der Totalrevision der Pensionskassenverordnung per 1. Januar 2001 zur Besitzstandswahrung eingeführten Zusatzgutschriften werden weitergeführt.
+**…**
 
 #### Art. 11
 

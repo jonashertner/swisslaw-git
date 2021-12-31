@@ -4,13 +4,13 @@ number: "170.450"
 title: Legge sulla Cassa pensioni dei Grigioni
 short: LCPG
 language: it
-version: 2021-12-31
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-09-30
 version_adopted: 2021-08-26
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3205/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3206/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3205/pdf_file"
 
 (LCPG)
 
-del 23.04.2013 (stato 31.12.2021)
+del 23.04.2013 (stato 01.01.2022)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -73,7 +73,7 @@ decide:
 
 <sup>1</sup> Per la Cassa pensioni vale il principio della capitalizzazione integrale.
 
-<sup>2</sup> Le prestazioni di vecchiaia vengono calcolate secondo il primato dei contributi. Le prestazioni temporanee d'invalidità e per superstiti vengono espresse in per cento dello stipendio assicurato.
+<sup>2</sup> Le prestazioni di vecchiaia vengono calcolate secondo il primato dei contributi. Le prestazioni temporanee d'invalidità e le prestazioni per i superstiti vengono stabilite quale percentuale dello stipendio assicurato.
 
 #### Art. 6
 
@@ -81,38 +81,38 @@ decide:
 
 <sup>1</sup> Il Cantone dei Grigioni e i suoi istituti autonomi di diritto pubblico, assicurano obbligatoriamente presso la Cassa pensioni i loro collaboratori.
 
-<sup>2</sup> La Banca Cantonale Grigione, i comuni, le corporazioni di comuni e altri enti di diritto pubblico sono considerati affiliati a titolo facoltativo.
+<sup>2</sup> La Banca Cantonale Grigione, i comuni, le corporazioni di comuni e altre istituzioni che svolgono prevalentemente compiti di carattere pubblico possono essere affiliati per contratto.
 
-<sup>3</sup> La Commissione amministrativa può ammettere come affiliati a titolo facoltativo istituzioni di diritto privato che assolvono prevalentemente compiti pubblici.
+<sup>3</sup> …
 
-<sup>4</sup> La Commissione amministrativa stabilisce quali lavoratori non devono venire assicurati.
+<sup>4</sup> La Commissione amministrativa stabilisce quali lavoratori vengono assicurati.
 
 #### Art. 7
 
 **Stipendio assicurato**
 
-<sup>1</sup> Viene assicurato lo stipendio annuo ridotto di una deduzione di coordinamento pari al 25 per cento di questo stipendio annuo. La deduzione di coordinamento ammonta tuttavia almeno al 125 per cento della rendita semplice minima di vecchiaia AVS annua.
+<sup>1</sup> Viene assicurato lo stipendio annuo AVS ridotto di una deduzione di coordinamento. La deduzione di coordinamento ammonta al 25 per cento dello stipendio annuo AVS, tuttavia al massimo a sette ottavi della rendita massima di vecchiaia AVS annua. La deduzione massima viene ridotta in proporzione al grado di occupazione. La soglia d'entrata corrisponde allo stipendio minimo LPP.
 
-<sup>2</sup> Lo stipendio annuo corrisponde al presunto stipendio base annuo compresa la 13a mensilità. Le componenti dello stipendio occasionali, le indennità sociali e le indennità variabili o temporanee non vengono assicurate.
+<sup>2</sup> Lo stipendio annuo determinante per stabilire lo stipendio assicurato corrisponde al presunto stipendio base annuo compresa la 13ª mensilità. Le componenti dello stipendio occasionali, le indennità sociali e le indennità variabili o temporanee non vengono assicurate.
 
-<sup>3</sup> Lo stipendio massimo assicurabile corrisponde al 75 per cento dello stipendio annuo massimo secondo la scala cantonale degli stipendi.
+<sup>3</sup> Lo stipendio massimo assicurabile corrisponde allo stipendio annuo massimo secondo la scala cantonale degli stipendi, al netto della deduzione di coordinamento. Per gli assicurati impiegati a tempo parziale, il massimo dello stipendio assicurato viene ridotto in proporzione al grado di occupazione.
 
 #### Art. 8
 
 **Contributi**
 
-<sup>1</sup> I contributi di risparmio sono graduati secondo l'età e sono espressi in per cento dello stipendio assicurato:
+<sup>1</sup> I contributi di risparmio sono graduati secondo l'età e secondo il piano standard dei contributi ammontano, in per cento dello stipendio assicurato, a:
 
 <table>
-<tr><th>Età LPP</th><th>Contributi di risparmio</th></tr>
-<tr><td>20–24</td><td>7,0</td></tr>
-<tr><td>25–29</td><td>9,0</td></tr>
-<tr><td>30–34</td><td>11,0</td></tr>
-<tr><td>35–39</td><td>13,0</td></tr>
-<tr><td>40–44</td><td>15,0</td></tr>
-<tr><td>45–49</td><td>18,0</td></tr>
-<tr><td>50–54</td><td>20,0</td></tr>
-<tr><td>55 e oltre</td><td>22,0</td></tr>
+<tr><th>Età</th><th>Contributi di risparmio</th></tr>
+<tr><td>20–24</td><td>14,0</td></tr>
+<tr><td>25–29</td><td>15,0</td></tr>
+<tr><td>30–34</td><td>17,0</td></tr>
+<tr><td>35–39</td><td>19,0</td></tr>
+<tr><td>40–44</td><td>22,0</td></tr>
+<tr><td>45–49</td><td>25,0</td></tr>
+<tr><td>50 e oltre</td><td>27,5</td></tr>
+<tr><td>...</td><td>…</td></tr>
 </table>
 
 <sup>2</sup> La Commissione amministrativa stabilisce i contributi di rischio secondo le basi tecniche riconosciute.
@@ -127,9 +127,7 @@ decide:
 
 #### Art. 10
 
-**Garanzia dei diritti acquisiti**
-
-<sup>1</sup> Gli accrediti supplementari a garanzia dei diritti acquisiti introdotti con effetto al 1° gennaio 2001 in occasione della revisione totale dell'ordinanza sulla Cassa cantonale pensioni, vengono mantenuti.
+**…**
 
 #### Art. 11
 
