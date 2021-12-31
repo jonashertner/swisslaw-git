@@ -4,20 +4,22 @@ number: "851.11"
 title: Verordnung zum Einführungsgesetz zum Krankenversicherungsgesetz
 short: EV KVG
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-28
+version: 2022-01-01
+valid_until: 2025-12-17
+version_adopted: 2021-06-25
 adopted: 1999-01-28
 in_force: 1999-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/851.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1373/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1932/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zum Krankenversicherungsgesetz
 
-vom 28.01.1999 (Stand 01.01.2020)
+(EV KVG)
+
+vom 28.01.1999 (Stand 01.01.2022)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -35,9 +37,9 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat übt die Aufsicht über den Vollzug des KVG[^1-1] aus, insbesondere indem er:
 
-- a. die bedarfsgerechte Spitalversorgung festlegt (Art. 39 Abs. 1 Bst. d KVG);
-- b. die Spitalliste des Kantons erlässt (Art. 39 Abs. 1 Bst. e KVG);
-- c. über die Mitwirkung des Kantons an der Institution der Versicherer zur Förderung der Gesundheit und zur Verhütung von Krankheiten entscheidet (Art. 19 Abs. 2 KVG),
+- a. die bedarfsgerechte Spitalversorgung und Versorgung mit Pflegeleistungen festlegt und die entsprechenden Berichte genehmigt (Art. 39 Abs. 1 Bst. d KVG);
+- b. die Spitalliste und die Pflegeheimliste des Kantons erlässt (Art. 39 Abs. 1 Bst. e und Abs. 3 KVG);
+- c. über die Mitwirkung des Kantons an der Institution der Versicherer zur Förderung der Gesundheit und zur Verhütung von Krankheiten entscheidet (Art. 19 Abs. 2 KVG);
 - d. bei Bedarf eine Liste säumiger Prämienzahlerinnen und Prämienzahler (Art. 64a Abs. 7 KVG) einführt.
 
 <sup>2</sup> Er bestimmt die für die Prämienverbilligung in ​der Krankenversicherung und für die ​Koordination gemäss Art. 64a KVG zuständigen kantonalen Amtsstellen.
@@ -52,6 +54,7 @@ beschliesst:
 
 - a. die Bevölkerung über die Versicherungspflicht und die Prämienverbilligung allgemein zu informieren;
 - b. Ausnahmen von der Versicherungspflicht zu bewilligen (Art. 3 Abs. 2 KVG);
+- b1. die Spitalplanung und die Pflegeheimplanung zu erarbeiten und die entsprechenden Planungsberichte zu erstellen;
 - c. die Erstellung der Gesundheitsstatistiken zu koordinieren (Art. 23 KVG);
 - d. die Betriebsvergleiche durchzuführen (Art. 49 Abs. 7 KVG);
 - e. die Meldungen von Leistungserbringern, dass sie die Leistungen nach KVG nicht erbringen, entgegenzunehmen (Art. 44 Abs. 2 KVG).
@@ -65,7 +68,7 @@ beschliesst:
 - a. die Information der Bevölkerung über die Möglichkeit der Prämienverbilligung in der Krankenversicherung;
 - b. die Festlegung der Ansprüche im Einzelfall;
 - c. der Erlass der Verfügungen und die Mitwirkung im Rechtsmittelverfahren;
-- d. die Rückforderung unrechtmässig ausbezahlter Prämienbeiträge mittels Verfügung,
+- d. die Rückforderung unrechtmässig ausbezahlter Prämienbeiträge mittels Verfügung;
 - e. die Koordination zwischen Versicherern, Kanton, Gemeinden und Ausgleichskassen gemäss Art. 65 KVG.
 
 #### Art. 4
@@ -292,23 +295,90 @@ beschliesst:
 
 <sup>1</sup> Gegen Einspracheentscheide gemäss Art. 13 dieser Verordnung kann innert 30 Tagen schriftlich und begründet beim kantonalen Verwaltungsgericht Beschwerde erhoben werden.
 
-## 3. Schluss- und Übergangsbestimmungen
+## 3. Spital- und Pflegeheimplanung
 
 #### Art. 17a
 
+**…**
+
+#### Art. 17b
+
+**Spitalplanung**
+
+<sup>1</sup> Das zuständige Departement erstellt eine als Grundlage für die Spitalversorgung dienende Spitalplanung gemäss den Vorgaben der Krankenversicherungsgesetzgebung und verfasst einen entsprechenden Spitalplanungsbericht.
+
+<sup>2</sup> Der Spitalplanungsbericht ist vom Regierungsrat zu genehmigen.
+
+#### Art. 17c
+
+**Spitalliste**
+
+<sup>1</sup> Der Regierungsrat erlässt basierend auf der Spitalplanung für die Bereiche Akutsomatik, Psychiatrie und Rehabilitation die nach Leistungsgruppen gegliederte Spitalliste der gemäss der Krankenversicherungsgesetzgebung zugelassenen inner- und ausserkantonalen Spitäler, mit welcher den Spitälern und Geburtshäusern Leistungsaufträge zugesprochen werden.
+
+<sup>2</sup> Die Spitalliste ist im Amtsblatt sowie elektronisch zu veröffentlichen.
+
+<sup>3</sup> Das zuständige Departement kann mit den auf der Spitalliste aufgeführten Spitälern und Geburtshäusern zwecks Konkretisierung der in den Leistungsaufträgen vorgesehenen Bedingungen und Auflagen Leistungsvereinbarungen abschliessen.
+
+#### Art. 17d
+
+**Periodische Überprüfung**
+
+<sup>1</sup> Der Regierungsrat sorgt für die periodische Überprüfung der Spitalplanung und der Spitalliste und nimmt bei Bedarf sowie nach erfolgter Anhörung der Betroffenen die erforderlichen Anpassungen vor.
+
+#### Art. 17e
+
+**Ergänzende Vorschriften**
+
+<sup>1</sup> Der Regierungsrat regelt die Einzelheiten der Spital- und Pflegeheimplanung, insbesondere zu den Voraussetzungen für die Aufnahme von Einrichtungen auf die Spital- und die Pflegeheimliste und zum Verfahren, in Ausführungsbestimmungen.
+
+#### Art. 17f
+
+**Förderung von ambulanten Behandlungen**
+
+<sup>1</sup> Der Regierungsrat kann zusätzlich zu den bundesrechtlichen Vorgaben einen Katalog jener Untersuchungen und Behandlungen festlegen, bei denen die ambulante Durchführung in aller Regel wirksamer, zweckmässiger oder wirtschaftlicher ist als die stationäre.
+
+<sup>2</sup> Es leistet, sobald ein entsprechender Katalog festgelegt worden ist, den Kantonsanteil an die stationären Behandlungskosten lediglich noch in jenen Fällen, in welchen eine stationäre Durchführung aus besonderen Gründen angezeigt ist. Als besondere Gründen sind insbesondere zu erachten:
+
+- a. Vorliegen einer besonders schweren Erkrankung oder einer schweren Begleiterkrankung;
+- b. ausgewiesener Bedarf nach einer besonderen Behandlung oder Betreuung;
+- c. Vorliegen von besonderen Umständen.
+
+<sup>3</sup> Die Spitäler und Geburtshäuser, welche eine Ausnahme gemäss Absatz 2 geltend machen, haben dem zuständigen Departement die notwendigen Einsichtsrechte in die jeweiligen Patientendokumentationen einzuräumen. Der Regierungsrat kann die weiteren Einzelheiten, insbesondere das Verfahren, in Ausführungsbestimmungen regeln.
+
+## 4. Datenlieferung, -bearbeitung und -veröffentlichung
+
+#### Art. 17g
+
+**Datenlieferung**
+
+<sup>1</sup> Spitäler und Geburtshäuser haben dem zuständigen Departement innert der ihnen angesetzten Frist jene patienten- und betriebsbezogenen Daten unentgeltlich zu liefern, die erforderlich sind für:
+
+- a. die Spitalplanung mitsamt Erstellung der Spitalliste, Vergabe der Leistungsaufträge und Abschluss der Leistungsvereinbarungen;
+- b. die Überprüfung der Einhaltung der gesetzlichen Voraussetzungen für die Erteilung des Leistungsauftrags sowie der mit der Leistungsvereinbarung verbundenen Auflagen und Bedingungen;
+- c. die Überprüfung der Qualität und der Leistungskosten anlässlich von Vergleichen;
+- d. die Rechnungskontrolle im Zusammenhang mit Referenz- und Standorttarifen;
+- e. die Prüfung des Kantonsanteils gemäss Art. 49a Abs. 1 KVG;
+- f. die Ausübung des Rückgriffsrechts des Kantons gemäss Art. 79a KVG.
+
+#### Art. 17h
+
+**Datenbearbeitung und -veröffentlichung**
+
+<sup>1</sup> Das zuständige Departement ist berechtigt, im Rahmen seiner Aufgaben sämtliche hierzu erforderlichen patienten- und betriebsbezogenen Daten zu bearbeiten.
+
+<sup>2</sup> Die Bearbeitung von betriebsbezogenen Daten, wie insbesondere Angaben über Zusatzhonorare, Personalbestand und die fallbezogene Kostenträgerrechnung, ist ohne Anonymisierung zulässig.
+
+<sup>3</sup> Patientenbezogene Daten, wie insbesondere Name, Alter, Geschlecht, Wohnort, AHV-Nummer sowie Art und Umfang der bezogenen medizinischen Leistung, werden anonymisiert erhoben, sofern sie nicht für die Rechnungskontrolle, die Kodierrevision oder die Leistungsstatistik verwendet werden.
+
+<sup>4</sup> Das zuständige Departement ist ermächtigt, unter Wahrung der Geschäftsgeheimnisse, betriebsbezogene Daten der Spitäler und Geburtshäuser in nicht anonymisierter Form zu veröffentlichen, sofern diese von öffentlichem Interesse sind. Patientenbezogene Daten dürfen einzig in anonymisierter Form veröffentlicht werden, wobei keine Rückschlüsse auf natürliche Personen möglich sein dürfen.
+
+## 5. Schluss- und Übergangsbestimmungen
+
+#### Art. 17i
+
 **Ausführungsbestimmungen**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug von Art. 64a KVG notwendigen Ausführungsbestimmungen. Er regelt darin insbesondere:
-
-- a. das Verfahren und die Meldeprozesse;
-- b. den elektronischen Datenaustausch und den Datenschutz;
-- c. die Koordination, Verschlüsselung und Nachvollziehbarkeit der Meldungen zwischen Versicherern, Kanton und Gemeinden;
-- d. den Beizug Dritter für die technische Umsetzung der Meldungen;
-- e. die Grundsätze der Übernahme uneinbringlicher Prämien- und Kostenanteile der obligatorischen Krankenpflegeversicherung durch die Gemeinden;
-- f. die Amts- und Rechtshilfe durch die Behörden und Amtsstellen des Kantons und der Gemeinden sowie der Ausgleichskassen;
-- g. die unentgeltliche Auskunftserteilung durch die Versicherer.
-
-<sup>2</sup> Das Finanzdepartement kann Weisungen und Richtlinien über den Vollzug von Art. 64a KVG erlassen.
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug erforderlichen Ausführungsbestimmungen.
 
 #### Art. 18
 
@@ -360,7 +430,9 @@ geändert durch
 
 \- Nachtrag zum Einführungsgesetz zum Krankenversicherungsgesetz vom 28. Juni 2019 (OGS 2019, 28), Botschaft und Vorlage des Regierungsrats vom 2. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.02), in Kraft seit 1. Januar 2020 (OGS 2019, 28),
 
-\- Nachtrag vom 28. Juni 2019 (OGS 2019, 29), Botschaft und Vorlage des Regierungsrats vom 2. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (23.19.05), in Kraft seit 1. Januar 2020 (OGS 2019, 29)
+\- Nachtrag vom 28. Juni 2019 (OGS 2019, 29), Botschaft und Vorlage des Regierungsrats vom 2. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (23.19.05), in Kraft seit 1. Januar 2020 (OGS 2019, 29),
+
+\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
 
 Die Änderung der Verordnung durch den Nachtrag zum Einführungsgesetz zum Krankenversicherungsgesetz vom 28. Januar 2016 (OGS 2016, 9 und OGS 2016, 18 und 26) wurde an der Volksabstimmung vom 25. September 2016 (OGS 2016, 15, 52, 53 und 54) abgelehnt.
 
